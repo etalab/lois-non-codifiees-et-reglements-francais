@@ -22,7 +22,7 @@ Un membre du Conseil national des transports, désigné par la section permanent
 
 Huit représentants des entreprises et institutions intéressées par la sécurité routière, désignés par le ministre chargé de la sécurité routière ;
 
-Douze représentants d'associations agissant dans le domaine de la sécurité routière, désignés par le ministre chargé de la sécurité routière ;
+Dix-sept représentants d'associations agissant dans le domaine de la sécurité routière, désignés par le ministre chargé de la sécurité routière ;
 
 Deux représentants des professions médicales et des associations et fondations oeuvrant dans le domaine de l'hospitalisation ou de la santé publique, désignés par le ministre chargé de la santé.
 
