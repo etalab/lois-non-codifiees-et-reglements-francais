@@ -1,6 +1,6 @@
 # Article 444
 
-Seront punis d'une amende de 2.000 F à 20.000 F [*sanctions*], le président, les administrateurs ou les directeurs généraux d'une société anonyme qui n'auront pas adressé, à tout actionnaire qui en a fait la demande, une formule de procuration conforme aux prescriptions fixées par décret, ainsi que [*information*] :
+Seront punis d'une amende de 2.000 F à 20.000 F [*sanctions pénales*], le président, les administrateurs ou les directeurs généraux d'une société anonyme qui n'auront pas adressé, à tout actionnaire qui en a fait la demande, une formule de procuration conforme aux prescriptions fixées par décret, ainsi que [*information*] :
 
 1. La liste des administrateurs en exercice ;
 
@@ -10,4 +10,4 @@ Seront punis d'une amende de 2.000 F à 20.000 F [*sanctions*], le président, l
 
 4. Les rapports du conseil d'administration et des commissaires aux comptes qui seront soumis à l'assemblée ;
 
-5. S'il s'agit de l'assemblée générale ordinaire annuelle, le compte d'exploitation générale, le compte de pertes et profits et le bilan.
+5. S'il s'agit de l'assemblée générale ordinaire annuelle, les comptes annuels.

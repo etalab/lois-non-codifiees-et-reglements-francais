@@ -2,7 +2,7 @@
 
 La société ne peut posséder, directement ou par l'intermédiaire d'une personne agissant en son propre nom, mais pour le compte de la société, plus de 10 p. 100 du total de ses propres actions, ni plus de 10 p. 100 d'une catégorie déterminée. Ces actions doivent être mises sous la forme nominative et entièrement libérées lors de l'acquisition ; à défaut, les membres du conseil d'administration ou du directoire, selon le cas, sont tenus, dans les conditions prévues à l'article 244 et à l'article 249, premier alinéa, de libérer les actions.
 
-L'acquisition d'actions de la société ne peut avoir pour effet d'abaisser l'actif net à un montant inférieur à celui du capital augmenté des réserves non distribuables.
+L'acquisition d'actions de la société ne peut avoir pour effet d'abaisser les capitaux propres à un montant inférieur à celui du capital augmenté des réserves non distribuables.
 
 La société doit disposer de réserves, autres que la réserve légale, d'un montant au moins égal à la valeur de l'ensemble des actions qu'elle possède.
 

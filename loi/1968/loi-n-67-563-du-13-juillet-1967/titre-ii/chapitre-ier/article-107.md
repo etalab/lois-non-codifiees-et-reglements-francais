@@ -4,7 +4,7 @@ Sont notamment présumés actes de mauvaise foi [*définition*], imprudences ine
 
 1° L'exercice d'une activité commerciale ou d'une fonction de gérant, administrateur, directeur général [*dirigeants*] ou liquidateur contrairement à une interdiction prévue par la loi ;
 
-2° L'absence d'une comptabilité conforme aux usages de la profession, eu égard à l'importance de l'entreprise ;
+2° L'absence d'une comptabilité conforme aux lois, règlements et usages du commerce en vigueur eu égard à l'importance de l'entreprise [*comptabilité irrégulière*] ;
 
 3° Les achats pour revendre au-dessous du cours dans l'intention de retarder la constatation de la cessation des paiements ou l'emploi dans la même intention de moyens ruineux pour se procurer des fonds ;
 

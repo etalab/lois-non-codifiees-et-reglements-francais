@@ -1,6 +1,6 @@
 # Article 241
 
-Si, du fait de pertes constatées dans les documents comptables, l'actif net de la société devient inférieur à la moitié du capital social [*proportion*], le conseil d'administration ou le directoire, selon le cas, est tenu dans les quatre mois qui suivent l'approbation des comptes ayant fait apparaître cette perte, de convoquer l'assemblée générale extraordinaire a l'effet de décider s'il y a lieu à dissolution anticipée de la société.
+Si, du fait de pertes constatées dans les documents comptables, les capitaux propres de la société deviennent inférieurs à la moitié du capital social [*proportion*], le conseil d'administration ou le directoire, selon le cas, est tenu dans les quatre mois qui suivent l'approbation des comptes ayant fait apparaître cette perte, de convoquer l'assemblée générale extraordinaire à l'effet de décider s'il y a lieu à dissolution anticipée de la société.
 
 Si la dissolution n'est pas prononcée, la société est tenue, au plus tard à la clôture du deuxième exercice suivant celui au cours duquel la constatation des pertes est intervenue [*délai*] et sous réserve des dispositions de l'article 71, de réduire son capital d'un montant au moins égal à celui des pertes qui n'ont pas pu être imputées sur les réserves, si, dans ce délai, l'actif n'a pas été reconstitué à concurrence d'une valeur au moins égale à la moitié du capital social.
 
