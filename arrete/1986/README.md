@@ -108,7 +108,6 @@
 - [Arrêté du 15 septembre 1986](arrete-du-15-septembre-1986)
 - [Arrêté du 15 mai 1986](arrete-du-15-mai-1986)
 - [Arrêté du 16 avril 1986](arrete-du-16-avril-1986)
-- [Arrêté du 16 décembre 1985](arrete-du-16-decembre-1985)
 - [Arrêté du 16 décembre 1986](arrete-du-16-decembre-1986)
 - [Arrêté du 16 janvier 1986](arrete-du-16-janvier-1986)
 - [Arrêté du 16 octobre 1986](arrete-du-16-octobre-1986)

@@ -6,4 +6,3 @@
 - [CHARGES COMMUNES.](charges-communes)
 - [CULTURE.](culture)
 - [1. Mesures de soutien de l'activité et de l'emploi.](1-mesures-de-soutien-de-l-activite-et)
-- [ANCIENS COMBATTANTS ET VICTIMES DE GUERRE.](anciens-combattants-et)

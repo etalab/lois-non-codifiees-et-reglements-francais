@@ -430,7 +430,6 @@
 - [Décret n°94-1002 du 15 novembre 1994 (ECOU9400005D)](decret-n94-1002-du-15-novembre-1994-ecou9400005d)
 - [Décret n°94-1081 du 15 décembre 1994 (SPSA9403487D)](decret-n94-1081-du-15-decembre-1994-spsa9403487d)
 - [Décret n°94-1082 du 15 décembre 1994 (INTB9400462D)](decret-n94-1082-du-15-decembre-1994-intb9400462d)
-- [Décret n°94-1088 du 15 décembre 1994 (BUDB9430079D)](decret-n94-1088-du-15-decembre-1994-budb9430079d)
 - [Décret n°94-1111 du 15 décembre 1994 (EQUH9401524D)](decret-n94-1111-du-15-decembre-1994-equh9401524d)
 - [Décret n°94-294 du 15 avril 1994 (SPSA9400972D)](decret-n94-294-du-15-avril-1994-spsa9400972d)
 - [Décret n°94-297 du 15 avril 1994 (DEFX9400046D)](decret-n94-297-du-15-avril-1994-defx9400046d)

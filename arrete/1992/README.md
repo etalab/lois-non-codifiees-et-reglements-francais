@@ -348,7 +348,6 @@
 - [Arrêté du 10 août 1992 (AGRP9200688A)](arrete-du-10-aout-1992-agrp9200688a)
 - [Arrêté du 10 août 1992 (EQUT9201276A)](arrete-du-10-aout-1992-equt9201276a)
 - [Arrêté du 10 avril 1992 (MENK9200014A)](arrete-du-10-avril-1992-menk9200014a)
-- [Arrêté du 10 décembre 1976](arrete-du-10-decembre-1976)
 - [Arrêté du 10 décembre 1991 (ENVP9161434A)](arrete-du-10-decembre-1991-envp9161434a)
 - [Arrêté du 10 décembre 1991 (ENVP9161466A)](arrete-du-10-decembre-1991-envp9161466a)
 - [Arrêté du 10 décembre 1991 (EQUS9101786A)](arrete-du-10-decembre-1991-equs9101786a)

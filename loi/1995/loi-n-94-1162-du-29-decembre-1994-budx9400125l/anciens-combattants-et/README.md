@@ -1,3 +1,0 @@
-# ANCIENS COMBATTANTS ET VICTIMES DE GUERRE.
-
-- [Article 79](article-79.md)

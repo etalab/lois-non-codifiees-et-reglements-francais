@@ -1,3 +1,0 @@
-# CHAPITRE III : DEPOTS OU CENTRES LIVREURS.
-
-- [Article 18](article-18.md)
