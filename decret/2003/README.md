@@ -43,6 +43,7 @@
 - [Décret n°2003-20 du 6 janvier 2003 (PRMG0270964D)](decret-n2003-20-du-6-janvier-2003-prmg0270964d)
 - [Décret n°2003-22 du 6 janvier 2003 (PRMG0270972D)](decret-n2003-22-du-6-janvier-2003-prmg0270972d)
 - [Décret n°2003-99 du 6 février 2003 (DEFP0301085D)](decret-n2003-99-du-6-fevrier-2003-defp0301085d)
+- [Décret n°88-949 du 6 octobre 1988 (JUSF8850115D)](decret-n88-949-du-6-octobre-1988-jusf8850115d)
 - [Décret n°2003-21 du 7 janvier 2003 (JUSE0240152D)](decret-n2003-21-du-7-janvier-2003-juse0240152d)
 - [Décret n°2003-24 du 7 janvier 2003 (INTA0200298D)](decret-n2003-24-du-7-janvier-2003-inta0200298d)
 - [Décret n°2003-34 du 7 janvier 2003 (MENF0202753D)](decret-n2003-34-du-7-janvier-2003-menf0202753d)
