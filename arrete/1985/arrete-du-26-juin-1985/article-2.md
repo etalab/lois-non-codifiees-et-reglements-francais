@@ -1,3 +1,3 @@
 # Article 2
 
-La moyenne des prix, par catégorie de prestations, est la moyenne arithmétique des prix pondérée par le nombre de chambres.
+Peuvent obtenir le bénéfice de cet agrément les organismes visés à l'article L. 411-2 du code de la construction et de l'habitation dont la qualité de la gestion et la capacité financière sont suffisantes.
