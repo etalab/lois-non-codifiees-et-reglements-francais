@@ -48,3 +48,4 @@
 - [Décret n°84-1289 du 31 décembre 1984](decret-n84-1289-du-31-decembre-1984)
 - [Décret n°84-1293 du 31 décembre 1984](decret-n84-1293-du-31-decembre-1984)
 - [Décret n°84-1297 du 31 décembre 1984](decret-n84-1297-du-31-decembre-1984)
+- [Décret n°85-155 du 31 janvier 1985](decret-n85-155-du-31-janvier-1985)
