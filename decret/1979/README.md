@@ -61,6 +61,7 @@
 - [Décret n°79-394 du 17 mai 1979](decret-n79-394-du-17-mai-1979)
 - [Décret n°79-58 du 18 janvier 1979](decret-n79-58-du-18-janvier-1979)
 - [Décret n°79-67 du 18 janvier 1979](decret-n79-67-du-18-janvier-1979)
+- [Décret n°79-696 du 18 août 1979](decret-n79-696-du-18-aout-1979)
 - [Décret n°79-142 du 19 février 1979](decret-n79-142-du-19-fevrier-1979)
 - [Décret n°79-316 du 19 avril 1979](decret-n79-316-du-19-avril-1979)
 - [Décret n°79-318 du 19 avril 1979](decret-n79-318-du-19-avril-1979)

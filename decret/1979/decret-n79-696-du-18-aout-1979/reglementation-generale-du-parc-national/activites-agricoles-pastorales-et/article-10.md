@@ -1,0 +1,5 @@
+# Article 10
+
+Dans les bois et forêts des particuliers auxquels s'appliquent les dispositions du livre II, titre II, chapitre II, du code forestier, les projets de plans simples de gestion prévus par l'article L. 222-1 dudit code sont soumis pour avis à l'établissement public ; ils doivent définir de manière précise les modalités d'exécution des coupes. Cet avis est réputé favorable à défaut de réponse dans un délai de trois mois.
+
+La réalisation des exploitations, boisements et travaux forestiers d'une importance excédant un seuil défini par le conseil d'administration, qui ne sont pas inscrits aux plans simples de gestion ci-dessus visés, est subordonnée à l'autorisation préalable du directeur du parc national. Cette autorisation est considérée comme accordée à défaut de réponse dans un délai de trois mois suivant la demande d'autorisation formulée par lettre recommandée avec demande d'avis de réception. En cas de refus, le préjudice subi par le propriétaire donne lieu à indemnité à la charge de l'établissement public.
