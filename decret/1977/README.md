@@ -127,7 +127,6 @@
 - [Décret n°77-285 du 24 mars 1977](decret-n77-285-du-24-mars-1977)
 - [Décret n°77-286 du 24 mars 1977](decret-n77-286-du-24-mars-1977)
 - [Décret n°77-306 du 24 mars 1977](decret-n77-306-du-24-mars-1977)
-- [Décret n°77-1189 du 25 octobre 1977](decret-n77-1189-du-25-octobre-1977)
 - [Décret n°77-1296 du 25 novembre 1977](decret-n77-1296-du-25-novembre-1977)
 - [Décret n°77-1297 du 25 novembre 1977](decret-n77-1297-du-25-novembre-1977)
 - [Décret n°77-1298 du 25 novembre 1977](decret-n77-1298-du-25-novembre-1977)

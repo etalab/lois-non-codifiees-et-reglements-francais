@@ -28,7 +28,6 @@
 - [Décret n°65-773 du 9 septembre 1965](decret-n65-773-du-9-septembre-1965)
 - [Décret n°65-862 du 9 octobre 1965](decret-n65-862-du-9-octobre-1965)
 - [Décret n°65-688 du 10 août 1965](decret-n65-688-du-10-aout-1965)
-- [Décret n°65-787 du 11 septembre 1965](decret-n65-787-du-11-septembre-1965)
 - [Décret n°65-28 du 13 janvier 1965](decret-n65-28-du-13-janvier-1965)
 - [Décret n°65-692 du 13 août 1965](decret-n65-692-du-13-aout-1965)
 - [Décret n°65-72 du 13 janvier 1965](decret-n65-72-du-13-janvier-1965)
