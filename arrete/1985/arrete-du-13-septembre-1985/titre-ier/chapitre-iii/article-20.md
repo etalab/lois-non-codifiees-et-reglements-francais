@@ -20,9 +20,9 @@ d) Les paris enregistrés sur les hippodromes parisiens peuvent également être
 
 2. Paris enregistrés au pari mutuel urbain
 
-a) Les paris enregistrés par correspondance et par téléphone sont automatiquement crédités au compte du parieur;
+a) Les paris enregistrés par téléphone, par Minitel et par correspondance sont automatiquement crédités au compte du parieur;
 
-b) Les paris enregistrés dans les agences course par course et bureaux à enregistrement prolongé sont payés dans le poste où ils ont été enregistrés. Le paiement se poursuit pendant une demi-heure après l'arrivée de la dernière course de la réunion. Pendant les sept jours suivants, les parieurs peuvent se présenter dans la même agence course par course ou dans le même bureau à enregistrement prolongé, aux heures d'ouverture de ces agences ;
+b) Les paris enregistrés dans les "Points courses P.M.U." sont payés dans le poste où ils ont été enregistrés. Le paiement se poursuit pendant une demi-heure après l'arrivée de la dernière course de la réunion. Pendant les sept jours suivants, les parieurs peuvent se présenter dans le "Point course P.M.U.", aux heures d'ouverture de ces postes d'enregistrement ;
 
 c) Les paris enregistrés dans les agences du pari mutuel urbain et les points P.MU. sont payés dans le poste où ils ont été enregistrés. Ils sont mis en paiement à partir du lendemain ou du surlendemain aux mêmes heures que celles prévues pour leur enregistrement et dans les postes où ils ont été engagés.
 

@@ -4,9 +4,9 @@ Pour certaines épreuves désignées sur le programme officiel, des paris dénom
 
 Un pari "quarté plus" consiste à désigner quatre chevaux d'une même course et à préciser leur ordre de classement à l'arrivée.
 
-Un pari "quarté plus" est payable si les quatre chevaux choisis occupent les quatre premières places de l'épreuve.
+Un pari "quarté plus" est payable si au moins trois des quatre chevaux choisis occupent les trois premières places de l'épreuve.
 
-Il donne lieu à un rapport dit "quarté dans l'ordre exact" si l'ordre stipulé par le parieur pour les quatre chevaux désignés est conforme à l'ordre exact d'arrivée de l'épreuve.
+Il donne lieu à un rapport dit "quarté dans l'ordre exact" si les quatre chevaux choisis occupent les trois premières places et si l'ordre stipulé par le parieur pour les quatre chevaux désignés est conforme à l'ordre exact d'arrivée de l'épreuve.
 
 Il donne lieu à un rapport dit "quarté dans l'or inexact" ou "de base" lorsque l'ordre d'arrivée stipulé par le parieur pour les quatre chevaux désignés est différent de l'ordre d'arrivée de l'épreuve.
 
