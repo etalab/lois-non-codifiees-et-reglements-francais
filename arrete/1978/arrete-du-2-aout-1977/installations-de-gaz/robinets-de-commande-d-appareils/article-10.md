@@ -1,8 +1,20 @@
 # Article 10
 
-I. - Tout appareil desservi par des tuyauteries fixes doit être commandé par un robinet disposé à proximité immédiate de l'appareil et aisément accessible.
+I. a)  Tout appareil desservi par des tuyauteries fixes doit être commandé par un robinet disposé à proximité immédiate de l'appareil et aisément accessible.
 
-Lorsqu'un appareil raccordé en tube rigide est pourvu d'un robinet commandant l'arrivée du gaz, le robinet de commande prévu à l'alinéa précédent n'est pas exigé s'il est prévu l'obturation de la tuyauterie fixe par un bouchon vissé en cas de dépose de l'appareil.
+b) Lorsqu'un appareil raccordé en tube rigide est pourvu d'un robinet commandant l'arrivée du gaz, le robinet de commande prévu à l'alinéa précédent n'est pas exigé s'il est prévu l'obturation de la tuyauterie fixe par un bouchon vissé en cas de dépose de l'appareil.
+
+c) Par dérogation aux dispositions du a ci-dessus, un seul robinet peut commander l'ensemble des appareils de cuisson placés dans un même local sous réserve que ledit robinet soit :
+
+- aisément accessible et repérable ;
+
+- situé dans le même local que les appareils ;
+
+- dans toute la mesure du possible, à proximité d'une issue.
+
+En aucun cas ce robinet ne peut commander un appareil de chauffage ou de production d'eau chaude sanitaire.
+
+Pour permettre l'entretien séparé des appareils de cuisson ou le remplacement de leur tuyau flexible d'alimentation, il doit être installé à proximité immédiate de chacun de ces appareils un autre robinet permettant d'en interrompre l'alimentation. Ce robinet peut n'être manoeuvrable qu'à l'aide d'un outil. Il doit satisfaire aux prescriptions du II ci-après. "
 
 II. - Dans le cas de gaz distribué à partir d'un réseau de canalisations publiques, les robinets de commande des appareils de cuisson ou des machines à laver le linge doivent répondre aux caractéristiques suivantes :
 
@@ -16,7 +28,11 @@ III. - Dans le cas d'hydrocarbures liquéfiés distribués à partir de récipie
 
 Les détendeurs-déclencheurs conformes aux normes NF D 36-303 ou NF M 88-773 et alimentant un seul appareil peuvent tenir lieu de robinets de commande.
 
-IV.  Un arrêté du ministre chargé de la sécurité du gaz modifiant les dispositions des chapitres II et III ci-dessus fixera la date à partir de laquelle les installations neuves devront être munies de dispositifs de déclenchement assurant automatiquement la coupure de l'alimentation en gaz de l'appareil en cas de sectionnement ou de débranchement du tube souple ou du tuyau flexible assurant ladite alimentation. Il fixera également les caractéristiques auxquelles ces dispositifs devront satisfaire.
+IV. - A compter du 1er juillet 1997, les installations nouvelles de gaz alimentées à partir d'un réseau de canalisations et réalisées dans des bâtiments neufs ou existants devront être munies d'un dispositif de déclenchement assurant automatiquement la coupure de l'alimentation en gaz des appareils de cuisson et des machines à laver le linge en cas de sectionnement ou de débranchement du tuyau flexible alimentant lesdits appareils.
+
+Cette prescription s'applique également aux modifications ou compléments d'installations existantes lors du remplacement du robinet de commande d'un appareil de cuisson ou d'une machine à laver le linge.
+
+Ces dispositifs satisfont aux prescriptions de l'article 4 du présent arrêté.
 
 V. - A compter du 1er juillet 1998, la fabrication ou l'importation en vue de la mise à la consommation sur le marché français, la mise en vente, la vente, l'installation et la mise en service de détendeurs destinés à être fixés sur des récipients mobiles de butane commercial ou de propane commercial ne sont autorisées que si lesdits détendeurs :
 

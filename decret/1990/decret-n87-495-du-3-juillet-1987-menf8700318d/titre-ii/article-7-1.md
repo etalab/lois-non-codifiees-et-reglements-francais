@@ -1,4 +1,4 @@
-# Article 5-1
+# Article 7-1
 
 La date limite de dépôt des listes de candidats est fixée, s'agissant des commissions administratives paritaires nationales, par le ministre chargé de l'éducation nationale. S'agissant des commissions administratives paritaires académiques instituées auprès des recteurs d'académie, cette date est fixée par le recteur d'académie concerné.
 
