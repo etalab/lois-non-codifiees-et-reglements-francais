@@ -10,3 +10,4 @@
 - [Loi n°84-1 du 2 janvier 1984](loi-n84-1-du-2-janvier-1984)
 - [Loi n°84-4 du 3 janvier 1984](loi-n84-4-du-3-janvier-1984)
 - [Loi n°84-5 du 3 janvier 1984](loi-n84-5-du-3-janvier-1984)
+- [Loi n°84-9 du 4 janvier 1984](loi-n84-9-du-4-janvier-1984)

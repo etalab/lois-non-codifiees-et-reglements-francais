@@ -1,3 +1,0 @@
-# CHAMP D'APPLICATION *DE LA TAXE SUR LA VALEUR AJOUTEE TVA*
-
-- [Article 1](article-1.md)

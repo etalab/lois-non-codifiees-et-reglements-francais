@@ -1,7 +1,0 @@
-# Article 57
-
-1. Les organismes désignés à l'article 51 qui ne remplissent plus les conditions requises pour bénéficier de l'exonération ou qui envisagent d'utiliser les biens admis en exonération à des fins autres que celles prévues par ledit article, sont tenus d'en informer les services douaniers.
-
-2. Pour les biens demeurant en la possession des organismes qui cessent de remplir les conditions requises pour bénéficier de l'exonération, lorsqu'ils sont cédés à un organisme fondé à bénéficier de l'exonération en application du présent chapitre ou, le cas échéant, à un organisme fondé à bénéficier de l'exonération en application de l'article 43, l'exonération reste acquise pour autant que celui-ci utilise les biens en cause à des fins ouvrant droit à l'octroi de telles exonérations. Dans les autres cas, lesdits biens sont soumis à l'application de la taxe sur la valeur ajoutée à l'importation qui leur est propre, selon le taux en vigueur à la date à laquelle lesdites conditions cessent d'être remplies, d'après l'espèce et sur la base de la valeur reconnues ou admises à cette date par les services douaniers.
-
-3. Les biens utilisés par l'organisme bénéficiaire de l'exonération à des fins autres que celles prévues au présent chapitre sont soumis à l'application de la taxe sur la valeur ajoutée à l'importation qui leur est propre, selon le taux en vigueur à la date à laquelle ils sont utilisés à un autre usage, d'après l'espèce et sur la base de la valeur reconnues ou admises à cette date par les services douaniers.

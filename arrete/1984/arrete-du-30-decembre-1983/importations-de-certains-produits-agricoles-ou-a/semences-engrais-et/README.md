@@ -1,4 +1,0 @@
-# SEMENCES, ENGRAIS ET PRODUITS POUR LE TRAITEMENT DU SOL ET DES VEGETAUX
-
-- [Article 36](article-36.md)
-- [Article 37](article-37.md)
