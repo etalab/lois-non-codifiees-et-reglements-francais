@@ -1,3 +1,3 @@
 # Article 2
 
-Le taux de majoration ou de revalorisation prenant effet au 1er juillet 1984 est fixé à 2,2 p. 100. Il s'applique à tous les éléments visés à l'article précédent.
+Cette commission des marchés est compétente pour exercer l'ensemble des attributions dévolues par le code des marchés publics à la commission prévue à l'article 96 du code et relevant de l'activité de la sous-direction des affaires immobilières.

@@ -1,6 +1,7 @@
 # 1984
 
 - [Arrêté du 1 février 1984](arrete-du-1-fevrier-1984)
+- [Arrêté du 3 février 1984](arrete-du-3-fevrier-1984)
 - [Arrêté du 3 janvier 1984](arrete-du-3-janvier-1984)
 - [Arrêté du 4 août 1983](arrete-du-4-aout-1983)
 - [Arrêté du 4 janvier 1984](arrete-du-4-janvier-1984)

@@ -1,15 +1,31 @@
 # Article 3
 
-Les dispositions qui précèdent ne pourront avoir pour effet :
+La composition de cette commission des marchés est fixée comme suit :
 
-a) De porter une pension ou une rente de vieillesse à une somme supérieure à 50 p. 100 du plafond des rémunérations entrant en compte pour la détermination de l'assiette des cotisations visé à l'article 41 de l'ordonnance n° 67-706 du 21 août 1967 et applicable respectivement à compter du 1er janvier 1984 et du 1er juillet 1984.
+- Président.
 
-Lorsque la liquidation des pensions de vieillesse a pris effet au-delà de soixante-cinq ans et antérieurement au 1er avril 1983, le pourcentage susvisé est majoré de 1,25 p. 100 par trimestre d'ajournement postérieur à cet âge.
+Le directeur des affaires financières, immobilières et sociales.    - Suppléant.
 
-Lorsque la liquidation des pensions de vieillesse des assurés âgés de plus de soixante-cinq ans au 1er avril 1983 prend effet postérieurement au 31 mars 1983, le pourcentage visé au premier alinéa est majoré dans les mêmes conditions compte tenu des coefficients de majoration acquis à cette dernière date et conservés en application de l'article 11 de l'ordonnance susvisée du 26 mars 1982.
+Le sous-directeur des affaires immobilières.
 
-b) De porter les pensions d'invalidité visées à l'article L. 310 du code de la sécurité sociale à une somme supérieure :
+- Membres.
 
-- à 30 p. 100 du plafond des rémunérations visé à l'article 13 de l'ordonnance n° 67-706 du 21 août 1967 en ce qui concerne les pensions du premier groupe et applicable respectivement à compter du 1er janvier 1984 et du 1er juillet 1984 ;
+Le chef du bureau des affaires financières et domaniales ;
 
-- à 50 p. 100 dudit plafond en ce qui concerne les pensions d'invalidité des deuxième et troisième groupes et les pensions de vieillesse qui leur sont substituées.
+Le chef du bureau des affaires immobilières de la police nationale ;
+
+Le chef du bureau des travaux de l'administration centrale ;
+
+Le responsable de la section des marchés du bureau des affaires financières et domaniales ;
+
+Le chef du bureau de l'exécution du budget.
+
+- Adjoints à titre consultatif.
+
+Un représentant du directeur général de la concurrence et de la consommation ;
+
+Un représentant du contrôleur financier auprès du ministère de l'intérieur et de la décentralisation.
+
+Le président et les membres de la commission peuvent, chacun en ce qui les concerne et dans la limite de leurs attributions, désigner un représentant pour les remplacer en cas d'empêchement.
+
+Le président peut en outre désigner les personnalités qui seront appelées à y siéger en raison de leur compétence établie dans la matière qui fait l'objet de la consultation.
