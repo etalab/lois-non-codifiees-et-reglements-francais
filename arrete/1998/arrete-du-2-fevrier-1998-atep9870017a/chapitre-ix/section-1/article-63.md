@@ -16,11 +16,13 @@ Les exploitants des installations qui rejettent dans l'atmosphère plus de :
 
 25 kg/h de fluor et composés fluorés ;
 
-20 g/h de cadmium et de mercure et leurs composés (exprimés en Cd + Hg) ;
+10 g/h de cadmium et de mercure et leurs composés (exprimés en Cd + Hg) ;
 
-100 g/h d'arsenic, sélénium et tellure et leurs composés (exprimés en As + Se + Te) ;
+50 g/h d'arsenic, sélénium et tellure et leurs composés (exprimés en As + Se + Te) ;
 
-ou 500 g/h d'antimoine, chrome, cobalt, cuivre, étain, manganèse, nickel, plomb, vanadium et zinc, et leurs composés (exprimés en Sb + Cr + Co + Cu + Sn + Mn + Ni + Pb + V + Zn) (dans le cas d'installations de combustion consommant du fuel lourd, cette valeur est portée à 2 000 g/h),
+100 g/h de plomb et ses composés (exprimés en Pb),
+
+ou 500 g/h d'antimoine, chrome, cobalt, cuivre, étain, manganèse, nickel, vanadium et zinc, et leurs composés (exprimés en Sb + Cr + Co + Cu + Sn + Mn + Ni + V + Zn) (dans le cas d'installations de combustion consommant du fuel lourd, cette valeur est portée à 2 000 g/h),
 
 assurent une surveillance de la qualité de l'air ou des retombées (pour les poussières).
 

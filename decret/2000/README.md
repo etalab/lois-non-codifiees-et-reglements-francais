@@ -16,6 +16,7 @@
 - [Décret n°85-1060 du 2 octobre 1985](decret-n85-1060-du-2-octobre-1985)
 - [Décret n°99-1012 du 2 décembre 1999 (MESS9923619D)](decret-n99-1012-du-2-decembre-1999-mess9923619d)
 - [Décret n°99-1013 du 2 décembre 1999 (MESS9923620D)](decret-n99-1013-du-2-decembre-1999-mess9923620d)
+- [Décret n°2000-392 du 2 mai 2000 (ECOF0000012D)](decret-n2000-392-du-2-mai-2000-ecof0000012d)
 - [Décret n°2001-401 du 2 mai 2001 (RECF0100080D)](decret-n2001-401-du-2-mai-2001-recf0100080d)
 - [Décret n°2000-193 du 3 mars 2000 (INTC0000058D)](decret-n2000-193-du-3-mars-2000-intc0000058d)
 - [Décret n°2000-194 du 3 mars 2000 (INTC0000059D)](decret-n2000-194-du-3-mars-2000-intc0000059d)

@@ -27,6 +27,7 @@
 - [Arrêté du 4 janvier 2000 (MCCB9900792A)](arrete-du-4-janvier-2000-mccb9900792a)
 - [Arrêté du 4 janvier 2000 (MCCB9900822A)](arrete-du-4-janvier-2000-mccb9900822a)
 - [Arrêté du 4 mai 2000 (EQUU0000364A)](arrete-du-4-mai-2000-equu0000364a)
+- [Arrêté du 4 mai 2000 (INTM0000012A)](arrete-du-4-mai-2000-intm0000012a)
 - [Arrêté du 5 mai 1995 (BUDD9550002A)](arrete-du-5-mai-1995-budd9550002a)
 - [Arrêté du 6 juillet 2000 (MENF0001966A)](arrete-du-6-juillet-2000-menf0001966a)
 - [Arrêté du 6 juillet 2000 (MENF0001967A)](arrete-du-6-juillet-2000-menf0001967a)

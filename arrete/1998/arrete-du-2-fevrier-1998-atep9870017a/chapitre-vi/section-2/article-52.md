@@ -18,6 +18,14 @@ Cette étude est obligatoire pour les rejets qui dépassent l'une des valeurs su
 
 25 kg/h de fluor et composés du fluor ;
 
-1 kg/h de métaux tels que définis au 8° de l'article 27.
+10 kg/h de métaux énumérés au a du 8° de l'article 27 ;
+
+50 kg/h de métaux énumérés au b du 8° de l'article 27 ;
+
+100 kg/h de métaux énumérés au c du 8° de l'article 27 ;
+
+500 kg/h de métaux énumérés au d du 8° de l'article 27.
 
 Elle est également obligatoire dans les vallées encaissées ainsi que lorsqu'il y a un ou des immeubles de hauteur supérieure à 28 mètres à proximité de l'installation.
+
+Dans le cas d'un rejet d'une (ou de) substance(s) susceptible(s) de s'accumuler dans le sol telle(s) que les métaux, l'étude doit en sus examiner les effets dus à cette accumulation en tenant notamment compte des dépôts antérieurs éventuels et de la durée de vie potentielle de l'installation.

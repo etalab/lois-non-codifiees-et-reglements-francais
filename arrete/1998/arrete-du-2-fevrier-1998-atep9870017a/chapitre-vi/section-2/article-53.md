@@ -78,7 +78,7 @@ On calcule d'abord la quantité s = k q/cm pour chacun des principaux polluants 
 <p>Plomb</p>
 </td>
 <td valign="top" width="340">
-<p align="center">0,002</p>
+<p align="center">0,0005 (*)</p>
 </td>
 </tr>
 <tr>
@@ -87,6 +87,11 @@ On calcule d'abord la quantité s = k q/cm pour chacun des principaux polluants 
 </td>
 <td valign="top" width="340">
 <p align="center">0,0005</p>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<p align="left">(*) Aux termes de l'arrêté du 15 février 2000, article 6, la valeur de référence c, pour le plomb de 0,002 est remplacée par 0,0005</p>
 </td>
 </tr>
 </tbody>
