@@ -1,3 +1,0 @@
-# Article 2
-
-Les dotations attribuées aux régions de Guadeloupe, de Guyane, de Martinique et de la Réunion pour l'établissement des schémas d'aménagement régionaux prévus aux chapitres Ier et III de la loi du 2 août 1984 précitée sont prélevées sur le reliquat de 10 p. 100 du concours particulier mentionné au dernier alinéa de l'article 2 du décret n° 83-1122 du 22 décembre 1983. Ce concours particulier est abondé des crédits correspondant à la réalisation du chapitre individualisé au sein du schéma d'aménagement régional, mentionné à l'article 13 de la loi du 2 août 1984 précitée et qui sont inscrits au budget du ministère chargé de la mer.

@@ -1,3 +1,0 @@
-# Article 32
-
-Lorsque le corps d'un défunt a été admis dans une chambre funéraire en vertu des articles R. 361-37, deuxième alinéa, deuxième et troisième tirets, et R. 361-38 du code des communes et que cette chambre funéraire comprend, dans le respect des dispositions de l'article L. 361-19 du code des communes, un local dans lequel sont proposées aux familles les autres prestations du service extérieur des pompes funèbres, le gestionnaire de la chambre funéraire ne peut accepter une commande de ces autres prestations avant d'avoir reçu de la personne qui a qualité pour pourvoir aux funérailles un document signé par elle et attestant qu'elle a pris connaissance, au préalable, de la liste mentionnée à l'article 31.

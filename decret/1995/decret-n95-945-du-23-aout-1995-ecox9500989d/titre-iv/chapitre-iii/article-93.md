@@ -1,3 +1,0 @@
-# Article 93
-
-Le représentant de l'Etat saisit la chambre régionale des comptes, en application des dispositions de l'article L. 232-18 du code des juridictions financières, lorsque l'arrêté des comptes de l'établissement public communal ou intercommunal fait apparaître dans l'exécution du budget un déficit égal ou supérieur à 5 p. 100 des recettes de la section de fonctionnement s'il s'agit d'un groupement de communes totalisant 20 000 habitants ou plus, et à 10 p. 100 s'il s'agit d'un groupement de communes totalisant moins de 20 000 habitants ou d'un autre établissement public communal ou intercommunal.

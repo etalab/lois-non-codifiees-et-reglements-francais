@@ -1,3 +1,0 @@
-# RECOUVREMENT DES RECETTES
-
-- [DISPOSITIONS GENERALES.](dispositions-generales)

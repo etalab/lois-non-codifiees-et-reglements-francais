@@ -47,7 +47,6 @@
 - [Décret n°87-631 du 3 août 1987 (PTTX8700073D)](decret-n87-631-du-3-aout-1987-pttx8700073d)
 - [Décret n°87-632 du 3 août 1987 (AGRX8700053D)](decret-n87-632-du-3-aout-1987-agrx8700053d)
 - [Décret n°87-633 du 3 août 1987 (ACVX8700112D)](decret-n87-633-du-3-aout-1987-acvx8700112d)
-- [Décret n°87-738 du 3 septembre 1987 (BUDR8703104D)](decret-n87-738-du-3-septembre-1987-budr8703104d)
 - [Décret n°87-970 du 3 décembre 1987 (REFX8700133D)](decret-n87-970-du-3-decembre-1987-refx8700133d)
 - [Décret n°87-364 du 4 juin 1987 (MCCT8700254D)](decret-n87-364-du-4-juin-1987-mcct8700254d)
 - [Décret n°87-372 du 4 juin 1987 (MERR8700017D)](decret-n87-372-du-4-juin-1987-merr8700017d)

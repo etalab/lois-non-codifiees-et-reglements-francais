@@ -1,3 +1,0 @@
-# Article 53
-
-Le contingent annuel des communes qui doivent concourir à l'entretien des chemins vicinaux de grande communication et d'intérêt commun est fixé par le conseil général. En cas d'insuffisance des revenus ordinaires, le contingent des communes pour les chemins de grande communication ne peut dépasser le produit de deux journées de prestations et les deux tiers des centimes spéciaux ordinaires [*montant maximum*]. Les contingents demandés pour l'entretien des chemins d'intérêt commun peuvent correspondre soit à une partie ou à la totalité du tiers [*proportion*] des trois journées de prestations et des centimes spéciaux, soit à l'intégralité de ces ressources, lorsque les communes ne sont pas intéressées à des chemins de grande communication.

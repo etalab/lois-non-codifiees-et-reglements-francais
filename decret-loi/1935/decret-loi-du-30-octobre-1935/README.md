@@ -1,4 +1,4 @@
-# Décret-loi du 30 octobre 1935 relatif au contrôle des associations, oeuvres et entreprises privées subventionnées par des collectivités locales
+# Décret-loi du 30 octobre 1935 relatif aux rapports entre les collectivités locales et les entreprises avec lesquelles elles ont passé des contrats
 
 - [Titre Ier : Emission](titre-ier)
 - [Titre II : Masse des obligataires ou porteurs de titres d'emprunts](titre-ii)

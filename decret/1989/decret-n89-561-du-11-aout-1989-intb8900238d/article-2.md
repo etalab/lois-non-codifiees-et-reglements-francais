@@ -1,3 +1,0 @@
-# Article 2
-
-En ce qui concerne les dépenses de fonctionnement, l'Etat, les départements des Hauts-de-Seine, de la Seine-Saint-Denis, du Val-de-Marne et les communes de ces mêmes départements s'acquittent chaque année, au titre de l'exercice en cours, du versement d'acomptes correspondant chacun à 30 p. 100 de leur contribution prévisionnelle telle qu'elle résulte du montant de la recette inscrite à ce titre à la section de fonctionnement du budget spécial de la préfecture de police. Ces acomptes doivent être payés au plus tard les 15 février, 15 mai et 15 août [*date*]. Le solde de la contribution due au titre de l'exercice considéré est acquitté au vu du résultat du compte administratif.
