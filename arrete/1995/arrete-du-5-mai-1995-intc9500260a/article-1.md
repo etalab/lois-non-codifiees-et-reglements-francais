@@ -23,3 +23,5 @@ La liste des services dont les missions exigent, pour dess raisons de sécurité
 - la section " antiterroriste " de la brigade criminelle de la direction de la police judiciaire de la préfecture de police ;
 
 - la section " lutte contre l'intégrisme islamique " de la sous-direction des communautés étrangères et la section chargée des cultes à la sous-direction de l'information générale de la direction des renseignements généraux de la préfecture de police.
+
+Les fonctionnaires de la police nationale affectés au groupe de sécurité du Président de la République.
