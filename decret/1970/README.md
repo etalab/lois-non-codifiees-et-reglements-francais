@@ -94,6 +94,7 @@
 - [Décret n°70-1010 du 30 octobre 1970](decret-n70-1010-du-30-octobre-1970)
 - [Décret n°70-93 du 30 janvier 1970](decret-n70-93-du-30-janvier-1970)
 - [Décret n°70-95 du 30 janvier 1970](decret-n70-95-du-30-janvier-1970)
+- [Décret n°71-234 du 30 mars 1971](decret-n71-234-du-30-mars-1971)
 - [Décret n° 70-708 du 31 juillet 1970](decret-n-70-708-du-31-juillet-1970)
 - [Décret n°69-1274 du 31 décembre 1969](decret-n69-1274-du-31-decembre-1969)
 - [Décret n°70-288 du 31 mars 1970](decret-n70-288-du-31-mars-1970)
