@@ -1,0 +1,3 @@
+# Article 1
+
+Le présent règlement fixe, en application de l'article 2 de la loi du 19 octobre 1946 portant statut général des fonctionnaires, les dispositions statutaires dérogeant aux règles prévues par cette loi et applicables aux personnes qui, nommées dans un emploi permanent par décret ou par arrêté ministériel ou interministériel, ont été titularisées dans un grade de la hiérarchie des cadres relevant du ministre de la France d'outre-mer dont la liste limitative sera établie par décret contresigné par le ministre de la France d'outre-mer, le ministre des finances et le ministre chargé de la fonction publique.
