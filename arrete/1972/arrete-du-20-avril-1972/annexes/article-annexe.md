@@ -1,31 +1,107 @@
 # Article Annexe
 
-C. - Reclassement des pharmaciens résidents visés à l'article 17 du décret 72-361 du 20 avril 1972 et bénéficiant de l'échelle indiciaire prévue pour les hôpitaux de plus de 800 lits en qualité de pharmacien.
+Pharmaciens :
 
-SITUATION ACTUELLE : 1er classe, depuis plus de 1 an
+A compter du 1er décembre 1974 :
 
-SITUATION NOUVELLE, ANCIENNETE : 6 éch, Ancienneté conservée après réduction de 1 an dans la limite de 3 ans.
+=============================
 
-SITUATION ACTUELLE : 1er classe, depuis moins de 1 an
+ECHELONS: INDICES : DUREE
 
-SITUATION NOUVELLE, ANCIENNETE : 5 éch, Ancienneté majorée de 2 ans.
+:  BRUTS  : MOYENNE
 
-SITUATION ACTUELLE : 2e classe
+--------:---------:----------
 
-SITUATION NOUVELLE, ANCIENNETE : 5 éch, Ancienneté conservée.
+7 éch   :   785   :
 
-SITUATION ACTUELLE : 3e classe
+6 éch   :   735   : 3 ans
 
-SITUATION NOUVELLE, ANCIENNETE : 4 éch, Ancienneté conservée.
+5 éch   :   685   : 3 ans
 
-SITUATION ACTUELLE : 4e classe
+4 éch   :   625   : 2 ans
 
-SITUATION NOUVELLE, ANCIENNETE : 3 éch, Ancienneté conservée.
+3 éch   :   560   : 2 ans
 
-SITUATION ACTUELLE : 5e classe
+2 éch   :   484   : 2 ans
 
-SITUATION NOUVELLE, ANCIENNETE : 2 éch, Ancienneté conservée.
+1 éch   :   406   : 1 an
 
-SITUATION ACTUELLE : 6e classe
+=============================
 
-SITUATION NOUVELLE, ANCIENNETE : 1 éch, Ancienneté conservée.
+A compter du 1er juillet 1975 :
+
+=============================
+
+ECHELONS: INDICES : DUREE
+
+:  BRUTS  : MOYENNE
+
+--------:---------:---------
+
+7 éch   :   785   :
+
+6 éch   :   735   : 3 ans
+
+5 éch   :   685   : 3 ans
+
+4 éch   :   625   : 2 ans
+
+3 éch   :   560   : 2 ans
+
+2 éch   :   491   : 2 ans
+
+1 éch   :   420   : 1 an
+
+==============================
+
+A compter du 1er juillet 1976 :
+
+=============================
+
+ECHELONS: INDICES : DUREE
+
+:  BRUTS  : MOYENNE
+
+--------:---------:---------
+
+7 éch   :   785   :
+
+6 éch   :   735   : 3 ans
+
+5 éch   :   685   : 3 ans
+
+4 éch   :   625   : 2 ans
+
+3 éch   :   560   : 2 ans
+
+2 éch   :   495   : 2 ans
+
+1 éch   :   427   : 1 an
+
+==============================
+
+A compter du 1er août 1977 :
+
+=============================
+
+ECHELONS: INDICES : DUREE
+
+:  BRUTS  : MOYENNE
+
+--------:---------:---------
+
+7 éch   :   801   :
+
+6 éch   :   750   : 3 ans
+
+5 éch   :   701   : 3 ans
+
+4 éch   :   644   : 2 ans
+
+3 éch   :   588   : 2 ans
+
+2 éch   :   508   : 2 ans
+
+1 éch   :   427   : 1 an
+
+==============================
