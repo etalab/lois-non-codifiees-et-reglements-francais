@@ -1,0 +1,3 @@
+# Article 1
+
+Une commission est créée afin de donner un avis pour l'octroi d'aides à la réalisation d'oeuvres audiovisuelles destinées, en France, à une diffusion initiale par un service de communication audiovisuelle et coproduites par un ou plusieurs producteurs français et une ou plusieurs entreprises de production établies en Albanie, Arménie, Azerbaïdjan, Biélorussie, Bosnie-Herzégovine, Bulgarie, Croatie, Estonie, Géorgie, Hongrie, Kazakhstan, Kirghizie, Lettonie, Lituanie, Moldavie, Monténégro, Ouzbékistan, Pologne, République tchèque, Roumanie, Russie, Serbie, Slovaquie, Tadjikistan, Turkménistan, Ukraine.
