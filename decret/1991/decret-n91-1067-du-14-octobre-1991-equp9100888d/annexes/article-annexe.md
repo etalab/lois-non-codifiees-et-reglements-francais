@@ -27,3 +27,5 @@ Recueil et synthèse de données statistiques.
 Gestion spécifique de certains personnels.
 
 Contrôle des distributions d'énergie électrique.
+
+Maintenance logistique.
