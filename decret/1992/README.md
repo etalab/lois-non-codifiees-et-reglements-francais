@@ -161,6 +161,7 @@
 - [Décret n°92-620 du 7 juillet 1992 (INTE9200256D)](decret-n92-620-du-7-juillet-1992-inte9200256d)
 - [Décret n°92-621 du 7 juillet 1992 (INTE9200255D)](decret-n92-621-du-7-juillet-1992-inte9200255d)
 - [Décret n°92-633 du 7 juillet 1992 (MERP9200018D)](decret-n92-633-du-7-juillet-1992-merp9200018d)
+- [Décret n°92-777 du 7 août 1992 (MAEF9210018D)](decret-n92-777-du-7-aout-1992-maef9210018d)
 - [Décret n°92-924 du 7 septembre 1992 (PTTS9200375D)](decret-n92-924-du-7-septembre-1992-ptts9200375d)
 - [Décret n°92-925 du 7 septembre 1992 (PTTS9200360D)](decret-n92-925-du-7-septembre-1992-ptts9200360d)
 - [Décret n°92-926 du 7 septembre 1992 (PTTS9200361D)](decret-n92-926-du-7-septembre-1992-ptts9200361d)
