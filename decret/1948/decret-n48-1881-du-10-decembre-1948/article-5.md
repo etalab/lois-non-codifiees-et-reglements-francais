@@ -1,34 +1,34 @@
 # Article 5
 
-A compter du 1er juillet 1997, le prix de base de la valeur locative mensuelle des locaux d'habitation ou à usage professionnel est fixé conformément au tableau ci-après :
+A compter du 1er juillet 1998, le prix de base de la valeur locative mensuelle des locaux d'habitation ou à usage professionnel est fixé conformément au tableau ci-après :
 
 Catégorie, valeur locative mensuelle en francs.
 
 Prix de base de chacun des dix premiers mètres carrés de surface corrigée :
 
-II A : 41,26.
+II A : 42,09.
 
-II B : 28,48.
+II B : 29,05.
 
-II C : 21,78.
+II C : 22,22.
 
-III A : 13,21.
+III A : 13,47.
 
-III B : 7,92.
+III B : 8,08.
 
 IV : 1,70.
 
 Prix de base des mètres carrés suivants :
 
-II A : 24-56.
+II A : 25,05.
 
-II B : 15,38.
+II B : 15,69.
 
-II C : 11,75.
+II C : 11,99.
 
-III A : 7,10.
+III A : 7,24.
 
-III B : 4,13.
+III B : 4,21.
 
 IV : 0,80.
 
