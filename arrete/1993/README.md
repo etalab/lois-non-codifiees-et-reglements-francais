@@ -1041,7 +1041,6 @@
 - [Arrêté du 27 mars 1993 (TEFE9300407A)](arrete-du-27-mars-1993-tefe9300407a)
 - [Arrêté du 27 mars 1993 (TEFE9300408A)](arrete-du-27-mars-1993-tefe9300408a)
 - [Arrêté du 27 novembre 1992 (ENVE9250385A)](arrete-du-27-novembre-1992-enve9250385a)
-- [Arrêté du 27 octobre 1993 (AGRG9301043A)](arrete-du-27-octobre-1993-agrg9301043a)
 - [Arrêté du 27 octobre 1993 (BUDR9307009A)](arrete-du-27-octobre-1993-budr9307009a)
 - [Arrêté du 27 octobre 1993 (BUDR9307010A)](arrete-du-27-octobre-1993-budr9307010a)
 - [Arrêté du 27 octobre 1993 (ENVE9320400A)](arrete-du-27-octobre-1993-enve9320400a)
