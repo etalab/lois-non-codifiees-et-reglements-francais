@@ -296,7 +296,6 @@
 - [Arrêté du 15 juin 2001 (MENE0101231A)](arrete-du-15-juin-2001-mene0101231a)
 - [Arrêté du 15 juin 2001 (MENP0101306A)](arrete-du-15-juin-2001-menp0101306a)
 - [Arrêté du 15 mars 1991 (MCCB9100193A)](arrete-du-15-mars-1991-mccb9100193a)
-- [Arrêté du 15 mars 2001 (AGRR0100613A)](arrete-du-15-mars-2001-agrr0100613a)
 - [Arrêté du 15 mars 2001 (FPPA0110020A)](arrete-du-15-mars-2001-fppa0110020a)
 - [Arrêté du 15 novembre 2001 (JUSA0100265A)](arrete-du-15-novembre-2001-jusa0100265a)
 - [Arrêté du 15 novembre 2001 (JUSA0100266A)](arrete-du-15-novembre-2001-jusa0100266a)
