@@ -1,6 +1,7 @@
 # Section 2 : Actions.
 
 - [Article 267](article-267.md)
+- [Article 268](article-268.md)
 - [Article 270](article-270.md)
 - [Article 272](article-272.md)
 - [Article 273](article-273.md)
