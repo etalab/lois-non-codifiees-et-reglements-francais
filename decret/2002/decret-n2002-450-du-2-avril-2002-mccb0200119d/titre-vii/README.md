@@ -1,0 +1,3 @@
+# TITRE VII : COMMISSIONS CONSULTATIVES PARITAIRES.
+
+- [Article 29](article-29.md)

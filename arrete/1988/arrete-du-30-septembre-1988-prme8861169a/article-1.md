@@ -4,17 +4,11 @@ La liste des espèces d'animaux susceptibles d'être classés nuisibles par le p
 
 Mammifères
 
-Belette (mustela nivalis).
-
 Chien viverrin (nyctereutes procyonoides).
 
 Fouine (martes foina).
 
 Lapin de garenne (oryctolagus cuniculus).
-
-Martre (martes martes).
-
-Putois (putorius putorius).
 
 Ragondin (myocastor coypus).
 
