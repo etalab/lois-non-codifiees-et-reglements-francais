@@ -46,6 +46,7 @@
 - [Décret n°94-47 du 11 janvier 1994 (ENVQ9310117D)](decret-n94-47-du-11-janvier-1994-envq9310117d)
 - [Décret n°96-618 du 11 juillet 1996 (EQUX9600078D)](decret-n96-618-du-11-juillet-1996-equx9600078d)
 - [Décret n°94-37 du 12 janvier 1994 (ENVQ9310102D)](decret-n94-37-du-12-janvier-1994-envq9310102d)
+- [Décret n°94-48 du 12 janvier 1994 (DEFP9302117D)](decret-n94-48-du-12-janvier-1994-defp9302117d)
 - [Décret n°95-1105 du 12 octobre 1995 (AGRA9501669D)](decret-n95-1105-du-12-octobre-1995-agra9501669d)
 - [Décret n°94-41 du 13 janvier 1994 (DOMP9300041D)](decret-n94-41-du-13-janvier-1994-domp9300041d)
 - [Décret n°86-599 du 14 mars 1986](decret-n86-599-du-14-mars-1986)
