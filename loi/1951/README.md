@@ -7,5 +7,6 @@
 - [Loi n° 51-346 du 20 mars 1951](loi-n-51-346-du-20-mars-1951)
 - [Loi n° 51-374 du 27 mars 1951](loi-n-51-374-du-27-mars-1951)
 - [Loi n°51-356 du 20 mars 1951](loi-n51-356-du-20-mars-1951)
+- [Loi n°51-444 du 19 avril 1951](loi-n51-444-du-19-avril-1951)
 - [Loi n°51-46 du 11 janvier 1951](loi-n51-46-du-11-janvier-1951)
 - [Loi n°51-59 du 18 janvier 1951](loi-n51-59-du-18-janvier-1951)
