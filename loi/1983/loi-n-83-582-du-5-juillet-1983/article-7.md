@@ -1,8 +1,10 @@
 # Article 7
 
-L'autorité maritime compétente pour opérer la saisie est l'officier ou l'inspecteur des affaires maritimes, chef du service des affaires maritimes, ou le chef du service des affaires maritimes territorialement compétent.
+Dans les départements littoraux, l'autorité compétente pour opérer la saisie est le directeur départemental ou interdépartemental des affaires maritimes, territorialement compétent.
 
-Les officiers et agents autres que l'autorité maritime désignée au premier alinéa du présent article qui sont habilités à constater les infractions ont qualité pour procéder à l'appréhension des filets, des engins, des matériels, des équipements utilisés en plongée et en pêche sous-marines, de tous instruments utilisés à des fins de pêche, des navires ou embarcations ayant servi à pêcher en infraction ainsi que des produits des pêches et de leur valeur qui sont susceptibles de saisie, en vue de leur remise à l'autorité maritime compétente pour les saisir. Cette remise doit intervenir dans un délai qui ne peut excéder soixante-douze heures à compter de l'appréhension. L'appréhension donne lieu à l'établissement d'un procès-verbal.
+Dans les départements non littoraux, le directeur départemental de l'agriculture et de la forêt et le directeur départemental de la concurrence et de la répression des fraudes sont compétents pour opérer la saisie des produits de la pêche. Dans les territoires d'outre-mer, l'autorité compétente pour opérer la saisie est le chef du service des affaires maritimes.
+
+Les officiers et agents autres que les autorités désignées aux premier et deuxième alinéas du présent article qui sont habilités à constater les infractions ont qualité pour procéder à l'appréhension des filets, des engins, des matériels, des équipements utilisés en plongée et en pêche sous-marines, de tous instruments utilisés à des fins de pêche, des navires ou embarcations ayant servi à pêcher en infraction ainsi que des produits des pêches et de leur valeur qui sont susceptibles de saisie, en vue de leur remise à l'autorité maritime compétente pour les saisir. Cette remise doit intervenir dans un délai qui ne peut excéder soixante-douze heures à compter de l'appréhension. L'appréhension donne lieu à l'établissement d'un procès-verbal.
 
 Ils ont également qualité pour procéder à l'apposition des scellés et conserver les documents de bord en vue de leur remise à l'autorité maritime compétente.
 
