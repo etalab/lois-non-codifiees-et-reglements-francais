@@ -44,6 +44,7 @@
 - [Décret n°70-128 du 14 février 1970](decret-n70-128-du-14-fevrier-1970)
 - [Décret n°70-326 du 14 avril 1970](decret-n70-326-du-14-avril-1970)
 - [Décret n°70-1056 du 16 novembre 1970](decret-n70-1056-du-16-novembre-1970)
+- [Décret n°70-899 du 16 septembre 1970](decret-n70-899-du-16-septembre-1970)
 - [Décret n° 70-210 du 17 mars 1970](decret-n-70-210-du-17-mars-1970)
 - [Décret n° 70-220 du 17 mars 1970](decret-n-70-220-du-17-mars-1970)
 - [Décret n° 70-654 du 17 juillet 1970](decret-n-70-654-du-17-juillet-1970)
