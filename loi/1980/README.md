@@ -10,3 +10,4 @@
 - [Loi n° 80-834 du 24 octobre 1980](loi-n-80-834-du-24-octobre-1980)
 - [Loi n°79-475 du 19 juin 1979](loi-n79-475-du-19-juin-1979)
 - [Loi n°79-596 du 13 juillet 1979](loi-n79-596-du-13-juillet-1979)
+- [Loi n°80-572 du 25 juillet 1980](loi-n80-572-du-25-juillet-1980)

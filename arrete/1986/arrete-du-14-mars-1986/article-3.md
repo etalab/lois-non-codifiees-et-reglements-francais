@@ -1,15 +1,5 @@
 # Article 3
 
-La sous-direction des actions économiques, sociales et réglementaires comprend :
+Lorsque le déclarant utilise des données bibliographiques pour remplir certaines rubriques du dossier, il doit en fournir les références exactes et précises. Les références bibliographiques des publications concernant les propriétés de la substance doivent être mentionnées dans chacune des rubriques.
 
--le centre d'analyses stratégiques et de prévision ;
-
--le bureau du développement des entreprises ;
-
--le bureau des exportations ;
-
--le bureau des ressources humaines ;
-
--le bureau des marchés et de la réglementation ;
-
--le bureau de la gestion automatisée des marchés et des indicateurs économiques.
+Lorsque le déclarant ne peut remplir certaines des rubriques du dossier, ou lorsqu'il estime qu'elles sont sans objet dans le cas de la substance étudiée, il doit en donner les motifs et s'engager à fournir les renseignements manquants dès que ces motifs ne seraient plus valables.

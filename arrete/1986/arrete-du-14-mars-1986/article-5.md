@@ -1,11 +1,3 @@
 # Article 5
 
-La sous-direction des actions statistiques comprend [*composition*]    - le bureau de l'informatique ;
-
-- le bureau des systèmes d'information sur la construction et l'urbanisme ;
-
-- le bureau des enquêtes sur les marchés du bâtiment ;
-
-- le bureau des systèmes d'information sur les professions du bâtiment et des travaux publics ;
-
-- le bureau de l'information statistique et de la diffusion.
+Les informations demandées en application de l'article R. 231-54 du code du travail en vue de la constitution du dossier technique de base sont décrites dans l'annexe I du présent arrêté.

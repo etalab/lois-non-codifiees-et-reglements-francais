@@ -1,3 +1,3 @@
 # Article 8
 
-Le directeur des affaires économiques et internationales et le directeur du personnel sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le dossier technique décrit à l'article 4 du présent arrêté peut être fourni par celui qui conditionne et distribue une substance alors même qu'il la fait préparer à façon pour son compte et à titre exclusif par un tiers.

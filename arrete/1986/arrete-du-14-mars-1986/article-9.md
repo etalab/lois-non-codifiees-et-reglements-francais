@@ -1,3 +1,3 @@
 # Article 9
 
-Le comité de gestion institué par le présent arrêté se substitue au comité institué par l'arrêté du 30 juin 1979.
+L'arrêté du 20 septembre 1979 définissant les informations et résultats d'essais à fournir pour toute substance chimique mise pour la première fois sur le marché est abrogé.
