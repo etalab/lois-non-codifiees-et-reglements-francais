@@ -98,6 +98,6 @@ VI-3 Article 50 : maintien en zone d'attente
 
 4
 
-(1) Y compris appels formés devant la chambre d'accusation.
+(1) Y compris appels formés devant la chambre de l'instruction.
 
 La valeur de la lettre clé est égale au montant de l'unité de valeur de référence fixée en application de l'article 27 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique.
