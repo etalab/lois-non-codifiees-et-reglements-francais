@@ -1,0 +1,7 @@
+# Article 38
+
+Tout orphelin d'un clerc ou d'un employé de l'un ou de l'autre sexe, retraité de vieillesse ou d'invalidité, a droit, jusqu'à l'âge de vingt et un ans, à une pension temporaire égale à 10 p. 100 de la pension de l'assuré, sans toutefois que le cumul de la pension de la veuve et de celles des orphelins puisse excéder le montant de la pension de l'assuré. S'il y a un excédent, il est procédé à la réduction temporaire des pensions d'orphelins.
+
+Au décès du conjoint survivant ou de l'ex-conjoint divorcé ou si celui-ci est inhabile à obtenir pension ou déchue de ses droits, les droits qui lui appartiendraient passent aux enfants âgés de moins de vingt et un ans et la pension temporaire de 10 p. 100 est maintenue, à partir du deuxième, à chaque enfant de moins de vingt et un ans, dans la limite du maximum fixé à l'alinéa précédent.
+
+Pour l'application des dispositions qui précèdent sont assimilés aux enfants âgés de moins de vingt et un ans les enfants qui, au jour du décès de leur auteur, se trouvaient à la charge effective de ce dernier par suite d'une infirmité permanente les mettant dans l'impossibilité de gagner leur vie. La pension accordée à ces enfants n'est pas cumulable [*non cumul*] avec toute autre pension ou rente d'un régime d'assurance vieillesse d'origine législative ou réglementaire attribuée au titre de la vieillesse ou de l'invalidité, à concurrence du montant de ces avantages. Elle est suspendue si l'enfant cesse d'être dans l'impossibilité de gagner sa vie.
