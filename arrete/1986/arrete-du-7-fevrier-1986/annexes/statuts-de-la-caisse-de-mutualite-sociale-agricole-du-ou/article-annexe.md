@@ -1,3 +1,0 @@
-# Article Annexe
-
-L'assemblée générale de la mutualité sociale agricole réunie à ..., le ... arrête comme suit la teneur des statuts de la caisse de mutualité sociale agricole du (ou des) département(s) d ....
