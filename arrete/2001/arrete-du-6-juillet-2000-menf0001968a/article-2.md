@@ -1,3 +1,3 @@
 # Article 2
 
-Cette indemnité est versée trimestriellement par quarts aux intéressés.
+Cette indemnité est versée mensuellement aux intéressés.
