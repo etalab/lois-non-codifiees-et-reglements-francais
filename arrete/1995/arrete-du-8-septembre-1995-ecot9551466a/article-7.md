@@ -1,0 +1,3 @@
+# Article 7
+
+L'Etat renonce et France Télécom s'est engagé à renoncer au bénéfice des bons de souscription d'actions nouvelles de la Compagnie des machines Bull destinés à permettre aux propriétaires des actions anciennes de maintenir le niveau de leur participation au capital de la société, bons qui seront attribués gratuitement à raison d'un bon par action et confèrent le droit de souscrire à une action nouvelle de la Compagnie des machines Bull au prix unitaire de 11,04 F, à tout moment à compter du 10 octobre 1995 jusqu'au 31 mars 1996 inclus, les bons n'ayant pas été exercés le 1er avril 1996 devenant caducs.

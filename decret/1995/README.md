@@ -267,6 +267,7 @@
 - [Décret n°96-980 du 7 novembre 1996 (ECOP9600270D)](decret-n96-980-du-7-novembre-1996-ecop9600270d)
 - [Décret du 8 août 1995 (REFB9500215D)](decret-du-8-aout-1995-refb9500215d)
 - [Décret n°94-481 du 8 juin 1994 (ECOT9494247D)](decret-n94-481-du-8-juin-1994-ecot9494247d)
+- [Décret n°95-1002 du 8 septembre 1995 (INTX9400172D)](decret-n95-1002-du-8-septembre-1995-intx9400172d)
 - [Décret n°95-145 du 8 février 1995 (EQUL9400557D)](decret-n95-145-du-8-fevrier-1995-equl9400557d)
 - [Décret n°95-148 du 8 février 1995 (ENVN9530002D)](decret-n95-148-du-8-fevrier-1995-envn9530002d)
 - [Décret n°95-256 du 8 mars 1995 (JUSC9520053D)](decret-n95-256-du-8-mars-1995-jusc9520053d)
