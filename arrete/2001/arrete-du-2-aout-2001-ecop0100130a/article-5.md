@@ -1,0 +1,3 @@
+# Article 5
+
+Les magistrats et rapporteurs visés à l'article 1er peuvent prétendre, pour eux-mêmes et pour leurs ayants droit, dans les conditions définies par le décret du 12 mars 1986 susvisé fixant les conditions et modalités de prise en charge par l'Etat des frais de voyage et de changement de résidence à l'étranger ou entre la France et l'étranger des agents civils de l'Etat et des établissements publics de l'Etat à caractère administratif, au remboursement des frais occasionnés par un voyage de congé administratif. Ce droit s'exerce conformément aux dispositions réglementaires en vigueur pour les agents du ministère des affaires étrangères en service dans les missions diplomatiques et consulaires.

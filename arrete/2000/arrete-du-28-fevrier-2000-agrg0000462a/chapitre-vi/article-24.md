@@ -1,0 +1,5 @@
+# Article 24
+
+Les opérateurs qui, à la date d'entrée en vigueur du présent arrêté, représentent des établissements situés dans des pays tiers qui exercent une ou plusieurs activités visées à l'article 3 ou 4 pour l'exportation vers la Communauté européenne de produits visés à ces articles, doivent introduire la déclaration visée à l'article 20 dans un délai de deux mois suivant la publication du présent arrêté.
+
+Ces opérateurs, s'ils représentent des établissements situés dans des pays tiers exportant vers la Communauté européenne des additifs des catégories "A - antibiotiques", "D - coccidiostatiques et autres substances médicamenteuses" ou "J - facteurs de croissance", ou des pré-mélanges comportant de tels additifs, doivent transmettre à la direction générale de l'alimentation les informations visées à l'article 20, au troisième tiret du premier alinéa, pour la première fois avant le 1er mars 2000, pour l'année 1999, en différenciant, à titre exceptionnel, la période du 1er janvier au 30 juin et la période du 1er juillet au 31 décembre 1999.
