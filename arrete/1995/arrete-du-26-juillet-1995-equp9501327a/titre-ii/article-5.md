@@ -10,7 +10,7 @@ Le vice-président, désigné pour trois ans par le directeur général de l'Ins
 
 b) Six membres de droit :
 
-- un représentant de la sous-direction des actions internationales à la direction des affaires économiques et internationales du ministère chargé de l'équipement ;
+- un représentant de la direction de la recherche et des affaires scientifiques et techniques du ministère chargé de l'équipement ;
 
 - un représentant de la direction du personnel et des services de ce ministère ;
 
@@ -24,9 +24,11 @@ b) Six membres de droit :
 
 Les directeurs d'établissement d'enseignement associés à l'Ecole nationale des sciences géographiques participent également en qualité de membres de droit aux délibérations du conseil, lorsque celui-ci examine des questions relatives à la formation dispensée dans leur établissement.
 
-c) Quatre membres désignés pour trois ans par le ministre chargé de l'équipement sur proposition du directeur général de l'Institut géographique national :
+Sept membres désignés pour trois ans par le ministre chargé de l'équipement sur proposition du directeur général de l'Institut géographique national :
 
-- deux représentants d'administrations ou d'organismes intéressés par l'enseignement de l'école.
+- trois représentants du secteur professionnel susceptible de recruter des ingénieurs civils ;
+
+- deux représentants d'administration ou d'organismes intéressés par l'enseignement de l'école ;
 
 - deux directeurs ou chefs de service à l'Institut géographique national.
 
