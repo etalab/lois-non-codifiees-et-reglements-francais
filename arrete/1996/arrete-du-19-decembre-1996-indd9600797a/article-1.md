@@ -12,6 +12,6 @@ Pour les activités définies à l'article 3 du décret, paragraphe d :
 
 0,300 % de l'assiette taxable relative au deuxième semestre 1997 ;
 
-Pour les activités définies à l'article 3 du décret, paragraphe 2 :
+Pour les activités définies à l'article 3 du décret, paragraphe e :
 
 0,265 % de l'assiette taxable semestrielle.
