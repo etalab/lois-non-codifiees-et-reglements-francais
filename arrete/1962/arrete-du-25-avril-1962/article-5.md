@@ -14,7 +14,7 @@ Délivre le certificat d'aptitude ;
 
 Décide du résultat définitif d'admission ou de refus à l'examen ;
 
-Propose au secrétaire général à l'aviation civile de prendre la sanction interdisant à un candidat de se présenter à une ou plusieurs sessions de l'examen et, éventuellement, à tous examens du personnel navigant.
+Propose au ministre chargé de l'aviation civile de prendre la sanction interdisant à un candidat de se présenter à une ou plusieurs sessions de l'examen et, éventuellement, à tous examens du personnel navigant.
 
 Le président du jury :
 
