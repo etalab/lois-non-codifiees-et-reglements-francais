@@ -4,6 +4,7 @@
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 3 bis](article-3-bis.md)
+- [Article 3 quater](article-3-quater.md)
 - [Article 3 quinquies](article-3-quinquies.md)
 - [Article 3 sexies](article-3-sexies.md)
 - [Article 3 septies](article-3-septies.md)
