@@ -2,6 +2,7 @@
 
 - [Loi n° 87-1127 du 31 décembre 1987 (JUST8700055L)](loi-n-87-1127-du-31-decembre-1987-just8700055l)
 - [Loi n° 88-1138 du 20 décembre 1988 (SPSX8810045L)](loi-n-88-1138-du-20-decembre-1988-spsx8810045l)
+- [Loi n° 88-1193 du 29 décembre 1988 (ECOX8800157L)](loi-n-88-1193-du-29-decembre-1988-ecox8800157l)
 - [Loi n° 88-1201 du 23 décembre 1988 (ECOX8800123L)](loi-n-88-1201-du-23-decembre-1988-ecox8800123l)
 - [Loi n° 88-1202 du 30 décembre 1988 (AGRX8800119L)](loi-n-88-1202-du-30-decembre-1988-agrx8800119l)
 - [Loi n° 88-14 du 5 janvier 1988 (ECOX8700025L)](loi-n-88-14-du-5-janvier-1988-ecox8700025l)
