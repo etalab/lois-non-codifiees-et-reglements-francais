@@ -447,7 +447,6 @@
 - [Décret n°90-942 du 17 octobre 1990 (SPSS9001690D)](decret-n90-942-du-17-octobre-1990-spss9001690d)
 - [Décret n°91-960 du 17 septembre 1991 (MENF9101363D)](decret-n91-960-du-17-septembre-1991-menf9101363d)
 - [Décret n°99-510 du 17 juin 1999 (FPPA9900053D)](decret-n99-510-du-17-juin-1999-fppa9900053d)
-- [Décret n°61-63 du 18 janvier 1961](decret-n61-63-du-18-janvier-1961)
 - [Décret n°84-476 du 18 juin 1984](decret-n84-476-du-18-juin-1984)
 - [Décret n°90-1119 du 18 décembre 1990 (BUDD9050008D)](decret-n90-1119-du-18-decembre-1990-budd9050008d)
 - [Décret n°90-1122 du 18 décembre 1990 (PTTC9000974D)](decret-n90-1122-du-18-decembre-1990-pttc9000974d)
