@@ -1310,7 +1310,6 @@
 - [Arrêté du 31 juillet 1997 (MCCB9700640A)](arrete-du-31-juillet-1997-mccb9700640a)
 - [Arrêté du 31 juillet 1997 (MESS9722496A)](arrete-du-31-juillet-1997-mess9722496a)
 - [Arrêté du 31 octobre 1997 (ECOC9700199A)](arrete-du-31-octobre-1997-ecoc9700199a)
-- [Arrêté du 31 octobre 1997 (ECOC9700200A)](arrete-du-31-octobre-1997-ecoc9700200a)
 - [Arrêté du 31 octobre 1997 (INTG9700505A)](arrete-du-31-octobre-1997-intg9700505a)
 - [Arrêté du 31 mai 1997 (BUDF9700006A)](arrete-du-31-mai-1997-budf9700006a)
 - [Arrêté du 31 mai 1997 (DEFD9701559A)](arrete-du-31-mai-1997-defd9701559a)
