@@ -1,6 +1,6 @@
 # Article 12
 
-Le certificat d'admissibilité en deuxième année est délivré aux étudiants ayant suivi la première année du cycle de formation et ayant obtenu une moyenne générale au moins égale à 12 sur 20, sans note éliminatoire, à l'ensemble des épreuves qui figurent aux tableaux ci-après :
+Le certificat d'admissibilité en deuxième année est délivré aux étudiants ayant suivi la première année en cycle de formation et ayant obtenu une moyenne générale au moins égale à 12 sur 20, sans note éliminatoire, à l'ensemble des épreuves qui figurent au tableau ci-après :
 
 I. - CONTRÔLE CONTINU DES CONNAISSANCES
 
@@ -86,12 +86,24 @@ II. - EXAMEN
 <td/>
 </tr>
 <tr>
-<td>Physique (1)</td>
+<td>Physique I : électricité, électronique, automatique</td>
 <td>
-<p align="center">4 heures</p>
+<p align="center">2 h</p>
 </td>
 <td>
-<p align="center">25</p>
+<p align="center">12</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Physique II : mécanique, résistance des matériaux, thermodynamique, chimie</p>
+</td>
+<td>
+<p align="center">2 h</p>
+</td>
+<td>
+<br/>
+<p align="center">13</p>
 </td>
 </tr>
 <tr>
@@ -99,8 +111,7 @@ II. - EXAMEN
 <p>Mathématiques</p>
 </td>
 <td>
-<br/>
-<p align="center">2 heures</p>
+<p align="center">2 h</p>
 </td>
 <td>
 <p align="center">10</p>
@@ -108,10 +119,10 @@ II. - EXAMEN
 </tr>
 <tr>
 <td>
-<p>Anglais (2)</p>
+<p>Anglais (1)</p>
 </td>
 <td>
-<p align="center">2 heures</p>
+<p align="center">2 h</p>
 </td>
 <td>
 <p align="center">5</p>
@@ -134,13 +145,6 @@ II. - EXAMEN
 </td>
 </tr>
 <tr>
-<td>Total</td>
-<td/>
-<td>
-<p align="center">50</p>
-</td>
-</tr>
-<tr>
 <td>Total général</td>
 <td/>
 <td>
@@ -149,8 +153,8 @@ II. - EXAMEN
 </tr>
 <tr>
 <td colspan="3">
-<p>(1) Regroupant automatique, électricité, électronique, mécanique, résistance des matériaux et thermodynamique-chimie.</p>
-<p>(2) L'usage d'un dictionnaire entièrement rédigé en anglais est seul autorisé.</p>
+<p>Toute note zéro est éliminatoire</p>
+<p>(1) L'usage d'un dictionnaire entièrement rédigé en anglais est seul autorisé</p>
 </td>
 </tr>
 </tbody>
