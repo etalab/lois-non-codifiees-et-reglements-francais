@@ -1,4 +1,4 @@
-# Arrêté du 9 octobre 1986 complétant l'arrêté du 15 avril 1986 modifiant l'arrêté du 27 décembre 1972 fixant les conditions d'application des dispositions de l'article R. 55 du code de la route
+# Arrêté du 9 octobre 1986 relatif au recyclage et au perfectionnement des équipes cynophiles de recherche et de sauvetage en décombres
 
 - [Article 1](article-1.md)
 - [TITRE Ier : DISPOSITIONS RELATIVES A LA REVALORISATION DE DIVERS AVANTAGES DE VIEILLESSE, D'INVALIDITE ET D'ACCIDENT DU TRAVAIL DU REGIME GENERAL DE LA SECURITE SOCIALE.](titre-ier)

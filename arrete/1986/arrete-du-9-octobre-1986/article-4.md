@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur des transports terrestres et le directeur de la sécurité et de la circulation routières sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les destinataires de ces informations sont les services administratifs du GRETA, ainsi que, pour les informations nécessaires à l'application de la réglementation, les services du rectorat, les Assedic, l'U.N.E.D.I.C., la C.N.A.S.E.A. et toute entreprise intéressée.

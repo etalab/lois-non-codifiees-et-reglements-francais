@@ -1,3 +1,7 @@
 # Article 1
 
-Lors de l'exécution d'un transport combiné rail-route de marchandises ou d'un transport combiné route-voie navigable sur le territoire national ou avec un Etat membre de la Communauté économique européenne, les parcours routiers initiaux ou terminaux peuvent être réalisés avec un véhicule à moteur ayant un poids total roulant autorisé de quarante-quatre tonnes si [*conditions*] ce véhicule fait partie d'un ensemble comportant plus de quatre essieux et répondant aux dispositions de l'article 5-3 de l'arrêté du 15 avril 1986 modifiant l'arrêté du 27 décembre 1972 fixant les conditions d'application des dispositions de l'article R. 55 du code de la route relatives au poids total roulant autorisé des véhicules.
+Conformément aux articles 4 et 6 du décret n° 82-619 du 13 juillet 1982 modifié, les équipes cynophiles sont astreintes à suivre des sessions de recyclage et de perfectionnement.
+
+Pour obtenir la validation de la carte opérationnelle, les équipes devront suivre au moins une fois par an l'une de ces sessions et subir avec succès les tests définis par circulaire ministérielle.
+
+[*conditions*].
