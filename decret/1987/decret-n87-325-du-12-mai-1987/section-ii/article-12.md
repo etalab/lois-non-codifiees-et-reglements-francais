@@ -1,6 +1,6 @@
 # Article 12
 
-Les ressources du centre comprennent :
+Les ressources de l'établissement comprennent :
 
 1. Les subventions allouées par l'Etat et les collectivités publiques pour le fonctionnement et l'investissement.
 

@@ -8,9 +8,9 @@ Le Centre international d'études pédagogiques a pour mission :
 
 Il est chargé de l'organisation hors de France des examens institués par le ministère de l'éducation nationale pour évaluer l'enseignement du français langue étrangère.
 
-3. De favoriser le développement des échanges pédagogiques internationaux, notamment par des échanges de professeurs et d'élèves, des stages et des séjours linguistiques, des colloques et séminaires.
+3. De favoriser le développement des échanges pédagogiques et scientifiques internationaux, notamment par des échanges de chercheurs, d'enseignants et d'élèves, des stages et des séjours linguistiques, des colloques et séminaires.
 
-Il apporte une aide technique aux visiteurs et stagiaires étrangers et contribue à la réalisation de leurs projets et de leurs missions.
+Il apporte une aide technique aux visiteurs et stagiaires étrangers et contribue à leur accueil et à la réalisation de leurs projets et de leurs missions.
 
 4. De concourir au développement de l'enseignement à caractère international en France et à l'étranger.
 

@@ -1,19 +1,7 @@
 # Article 10
 
-Le directeur du centre est assisté par une commission des programmes chargée de la préparation du programme général d'activité du centre.
+Le directeur du centre de la Réunion est nommé par arrêté du ministre chargé de l'éducation, sur proposition du directeur du Centre international d'études pédagogiques.
 
-Cette commission est présidée par le directeur du centre et comprend :
+Il assure, dans le cadre de la politique générale de l'établissement et sous l'autorité de son directeur, la gestion du centre. Il peut déléguer sa signature aux agents du centre dont la liste est fixée par décision du directeur du Centre international d'études pédagogiques.
 
-1. Un des représentants du ministre de l'éducation nationale au conseil d'administration.
-
-2. Le représentant du ministre des affaires étrangères au conseil d'administration.
-
-3. Le représentant du ministre de la coopération au conseil d'administration.
-
-4. Le doyen de l'inspection générale de l'éducation nationale ou son représentant.
-
-5. Un professeur des universités désigné par le ministre de l'éducation nationale.
-
-6. Le directeur du bureau pour l'enseignement de la langue et de la civilisation française à l'étranger du centre.
-
-7. Les représentants des personnels enseignants et de documentation du centre au conseil d'administration.
+Dans l'exercice de sa mission, il est assisté d'une commission consultative présidée par le recteur d'académie de la Réunion ou son représentant et dont la composition est fixée par le ministre chargé de l'éducation. Cette commission est associée à l'élaboration du programme d'action du centre local. Elle se réunit au moins deux fois par an sur convocation de son président. Le directeur du centre assiste aux réunions de la commission.
