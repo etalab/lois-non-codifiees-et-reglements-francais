@@ -1,9 +1,7 @@
 # Article 3
 
-Les organismes et services visés à l'article précédent établissent, chaque année, en vue de la tenue du compte de vieillesse des intéressées, une déclaration nominative faisant ressortir, pour chacune des bénéficiaires visées à l'article 1er du décret du 26 janvier 1973 modifié, le montant global des assiettes mensuelles ayant servi de base à la détermination des cotisations liquidées au titre de l'année civile précédente.
+Les organismes et services visés à l'article précédent établissent chaque année, en vue de la tenue du compte individuel Vieillesse des intéressées, une déclaration nominative faisant ressortir, pour chacune des bénéficiaires, le montant global des assiettes mensuelles ayant servi de base à la détermination des cotisations liquidées au titre de l'année civile précédente.
 
-Le total des créances de cotisations ainsi liquidées fait l'objet d'une inscription sur un bordereau récapitulatif annexé à la déclaration nominative annuelle.
+Le total des créances de cotisations ainsi liquidées fait l'objet d'une inscription sur un bordereau récapitulatif annexe à la déclaration nominative annuelle.
 
-Les organismes liquidateurs des prestations familiales servies par le régime agricole établissent des documents distincts suivant qu'il s'agit de prestations familiales servies au titre du régime des salariés ou au titre du régime des exploitants agricoles.
-
-Les documents visés au présent article doivent être signés par les responsables de la gestion administrative et comptable de chaque organisme concerné.
+Les organismes liquidateurs des prestations familiales servies par le régime agricole établissent des documents distincts suivant qu'il s'agit d'assurées du régime des salariés ou d'assurées du régime des exploitants agricoles.

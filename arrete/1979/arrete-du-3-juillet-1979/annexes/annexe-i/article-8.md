@@ -40,7 +40,7 @@ où :
 
 c = d + h hauteur de la surface de mesure en mètres ;
 
-d distance séparant la surface de mesure de la source sonore en mètres ;
+d distance séparant la surface de mesure de la    source sonore en mètres ;
 
 l longueur de la source sonore en mètres ;
 
@@ -80,9 +80,9 @@ Il est égal à zéro à moins que, compte tenu des dispositions du point 8.6.2 
 
 Remarque (voir point 6.4.1) :
 
-Pour r = 4 mètres 10 log puissance 10 de S/So = 20 dB ;
+Pour r = 4 mètres      10 log puissance 10 de S/So = 20 dB ;
 
-Pour r = 10 mètres 10 log puissance 10 de S/So = 28 dB.
+Pour r = 10 mètres     10 log puissance 10 de S/So = 28 dB.
 
 8.6 Corrections à apporter aux mesures.
 
@@ -90,80 +90,7 @@ Pour r = 10 mètres 10 log puissance 10 de S/So = 28 dB.
 
 Le niveau moyen de pression acoustique sur la surface de mesure, calculé selon la méthode décrite au point 8.1, doit être éventuellement corrigé pour tenir compte des bruits étrangers déterminés selon la méthode décrite au point 8.2. La correction K1, en dB, à soustraire au niveau moyen de pression acoustique sur la surface de mesure, est indiquée au tableau II.
 
-<table>
-<tbody>
-<tr>
-<td>
-<p align="center">DIFFERENCE 5 (en db)</p>
-<p align="center">entre  le niveau de pression </p>
-<p align="center">acoustique calculé lorsque la source sonore fonctionne </p>
-<p align="center">et le niveau de pression acoustique dû aux seuls bruits étrangers </p>
-<br/>
-</td>
-<td>
-<p align="center"> CORRECTION K1 EN dB</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> Inférieur à 6</p>
-</td>
-<td>
-<p align="center"> Pas de mesure valable</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> 6</p>
-</td>
-<td>
-<p align="center"> 1,0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> 7</p>
-</td>
-<td>
-<p align="center"> 1,0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> 8</p>
-</td>
-<td>
-<p align="center"> 1,0</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> 9</p>
-</td>
-<td>
-<p align="center"> 0,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> 10</p>
-</td>
-<td>
-<p align="center"> 0,5</p>
-</td>
-</tr>
-<tr>
-<td>
-<p align="center"> supérieur à 10</p>
-</td>
-<td>
-<p align="center"> Pas de correction</p>
-</td>
-</tr>
-</tbody>
-</table>
-
-(Tableau non reproduit)
+[*Tableau non reproduit*].
 
 8.6.2. Qualité acoustique de l'aire d'essais.
 

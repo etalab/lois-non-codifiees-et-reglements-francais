@@ -1,4 +1,4 @@
-# Arrêté du 13 juillet 1978 FIXANT LES MODALITES DE LIQUIDATION ET D'IMPUTATION DES COTISATIONS D'ASSURANCE VIEILLESSE DES BENEFICIAIRES DE CERTAINES PRESTATIONS FAMILIALES.
+# Arrêté du 13 juillet 1978 relatif aux modalités de liquidation et d'imputation des cotisations d'assurance vieillesse des mères et des femmes ayant au foyer un handicapé.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
