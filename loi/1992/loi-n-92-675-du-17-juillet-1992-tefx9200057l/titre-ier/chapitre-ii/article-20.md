@@ -14,7 +14,7 @@ II. - Pour la mise en oeuvre des dispositions du présent chapitre, un centre de
 
 Dans ce cas, les centres de formation d'apprentis conservent la responsabilité administrative et pédagogique des enseignements dispensés.
 
-III. - Les personnes morales mentionnées à l'article 18 qui emploient des apprentis selon les modalités définies au présent chapitre prennent en charge les coûts de la formation de ces apprentis dans les centres de formation d'apprentis qui les accueillent. A cet effet, elles passent convention avec ces centres pour définir les conditions de cette prise en charge.
+III. - Les personnes morales mentionnées à l'article 18 qui emploient des apprentis selon les modalités définies au présent chapitre prennent en charge les coûts de la formation de ces apprentis dans les centres de formation d'apprentis qui les accueillent sauf lorsque ces personnes morales sont redevables de la taxe d'apprentissage. A cet effet, elles passent convention avec ces centres pour définir les conditions de cette prise en charge.
 
 IV. - L'apprenti perçoit un salaire dont le montant, déterminé en pourcentage du salaire minimum de croissance et fixé par décret, varie en fonction de l'âge du bénéficiaire, de l'ancienneté dans le contrat et du niveau du diplôme préparé. Ce salaire est déterminé pour chaque année d'apprentissage.
 
