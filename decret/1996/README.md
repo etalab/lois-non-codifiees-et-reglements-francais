@@ -950,6 +950,5 @@
 - [Décret n°96-474 du 31 mai 1996 (EQUA9600522D)](decret-n96-474-du-31-mai-1996-equa9600522d)
 - [Décret n°96-478 du 31 mai 1996 (MCCL9600061D)](decret-n96-478-du-31-mai-1996-mccl9600061d)
 - [Décret n°96-479 du 31 mai 1996 (AGRS9600447D)](decret-n96-479-du-31-mai-1996-agrs9600447d)
-- [Décret n°96-482 du 31 mai 1996 (JUSB9610175D)](decret-n96-482-du-31-mai-1996-jusb9610175d)
 - [Décret n°96-488 du 31 mai 1996 (EQUT9600427D)](decret-n96-488-du-31-mai-1996-equt9600427d)
 - [Décret n°97-657 du 31 mai 1997 (ECOP9700270D)](decret-n97-657-du-31-mai-1997-ecop9700270d)
