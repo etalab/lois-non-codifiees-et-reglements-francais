@@ -6,4 +6,4 @@ Des baccalauréats professionnels sont créés par arrêté conjoint du ministre
 
 Des spécialités du baccalauréat professionnel relevant des domaines professionnels visés à l'article 1er du décret n° 85-378 du 27 mars 1985 susvisé sont créées par arrêté conjoint du ministre chargé de l'éducation nationale et du ministre chargé de la marine marchande, après avis des commissions professionnelles consultatives compétentes et du comité spécialisé de la formation professionnelle maritime.
 
-Pour chaque baccalauréat professionnel, l'arrêté portant création établit le référentiel de certification ainsi que le règlement particulier qui fixe les conditions de délivrance de ce diplôme.
+Pour chaque baccalauréat professionnel, l'arrêté portant création établit le référentiel des activités professionnelles, le référentiel de certification ainsi que le règlement d'examen qui fixe les conditions de délivrance de ce diplôme.

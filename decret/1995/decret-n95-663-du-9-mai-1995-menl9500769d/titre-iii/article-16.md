@@ -1,5 +1,9 @@
 # Article 16
 
-Le baccalauréat professionnel est délivré au vu des résultats obtenus à un examen sanctionnant l'acquisition par les candidats des capacités, compétences, savoirs et savoir-faire constitutifs des unités prévues par le référentiel de certification de chaque spécialité du diplôme.
+Le baccalauréat professionnel est obtenu :
 
-Tout candidat peut présenter à titre facultatif une unité au maximum, choisie parmi celles proposées, le cas échéant, par le référentiel.
+1° Par le succès à un examen :
+
+L'examen valide l'acquisition par les candidats des capacités, compétences, savoirs et savoir-faire constitutifs des unités prévues par le référentiel de certification de chaque spécialité du diplôme ;
+
+2° Par la validation des acquis de l'expérience, en application de l'article L. 335-5 du code de l'éducation, et dans les conditions fixées par le décret n° 2002-615 du 26 avril 2002 précité.

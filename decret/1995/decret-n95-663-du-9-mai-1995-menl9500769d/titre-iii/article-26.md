@@ -10,7 +10,7 @@ Les notes supérieures ou égales à 10 sur 20 sont, à la demande des candidats
 
 Les notes inférieures à 10 sur 20 peuvent à chaque session et au choix des candidats soit être conservées et reportées dans la limite de cinq ans à compter de leur obtention, soit donner lieu à une nouvelle évaluation. Dans ce dernier cas, c'est la dernière note obtenue qui est prise en compte.
 
-Le calcul de la moyenne générale s'effectue sur la base des notes conservées et des notes obtenues aux évaluations à nouveau subies.
+Le calcul de la moyenne générale s'effectue sur la base des notes conservées et des notes obtenues aux évaluations à nouveau présentées.
 
 Les points excédant 10, obtenus à l'épreuve facultative, sont pris en compte pour le calcul de la moyenne générale en vue de l'obtention du diplôme et de l'attribution d'une mention telle que définie à l'article 32, alinéa 1, du présent décret.
 

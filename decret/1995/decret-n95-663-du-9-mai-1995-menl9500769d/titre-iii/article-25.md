@@ -8,4 +8,4 @@ Les points excédant 10 obtenus à l'épreuve facultative sont pris en compte po
 
 Les candidats ajournés à l'examen sont tenus, lorsqu'ils tentent à nouveau d'obtenir le diplôme considéré au titre de la voie scolaire ou de l'apprentissage, de le représenter sous la forme globale. Dans ce cas, ils conservent à leur demande et dans les conditions précisées à l'article 18 du présent décret, le bénéfice des notes obtenues lorsqu'elles sont supérieures ou égales à 10 sur 20 et présentent alors l'ensemble des unités non détenues.
 
-Le calcul de la moyenne générale s'effectue sur la base des notes conservées et des notes obtenues aux évaluations à nouveau subies.
+Le calcul de la moyenne générale s'effectue sur la base des notes conservées et des notes obtenues aux évaluations à nouveau présentées.

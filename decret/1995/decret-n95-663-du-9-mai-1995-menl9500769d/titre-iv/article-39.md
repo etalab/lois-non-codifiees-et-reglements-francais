@@ -8,7 +8,7 @@ Il est composé :
 
 De professeurs appartenant à l'enseignement public et, sauf impossibilité, au moins d'un professeur appartenant à l'enseignement privé sous contrat ou exerçant en centre de formation d'apprentis ou en section d'apprentissage ;
 
-Et pour un tiers au moins de membres de la profession intéressée par le diplôme, employeurs et salariés.
+Et pour un tiers au moins de membres de la profession intéressée par le diplôme, choisis en nombre égal parmi les employeurs et les salariés.
 
 Si cette proportion n'est pas atteinte en raison de l'absence d'un ou de plusieurs de ses membres, le jury pourra néanmoins délibérer valablement.
 
