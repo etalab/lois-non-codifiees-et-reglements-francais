@@ -15,6 +15,7 @@
 - [Décret n°50-61 du 11 janvier 1950](decret-n50-61-du-11-janvier-1950)
 - [Décret n°50-663 du 14 juin 1950](decret-n50-663-du-14-juin-1950)
 - [Décret n°49-1499 du 16 novembre 1949](decret-n49-1499-du-16-novembre-1949)
+- [Décret n°50-1026 du 18 août 1950](decret-n50-1026-du-18-aout-1950)
 - [Décret n°50-1299 du 18 octobre 1950](decret-n50-1299-du-18-octobre-1950)
 - [Décret n°50-342 du 18 mars 1950](decret-n50-342-du-18-mars-1950)
 - [Décret n°50-1555 du 19 décembre 1950](decret-n50-1555-du-19-decembre-1950)
