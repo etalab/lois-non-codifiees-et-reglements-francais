@@ -1,0 +1,3 @@
+# Article 7
+
+Le conseil de fabrique se renouvellera partiellement tous les trois ans, savoir : à l'expiration des trois premières années, dans les paroisses où il est composé de neuf membres, sans y comprendre les membres de droit, par la sortie de cinq membres, qui, pour la première fois seront désignés par le sort, et des quatre plus anciens après les six ans révolus ; pour les fabriques dont le conseil est composé de cinq membres non compris les membres de droit, par la sortie de trois membres désignés par la voie du sort après les trois premières années, et les deux autres après les six ans révolus. Dans la suite, ce seront toujours les plus anciens en exercice qui devront sortir.
