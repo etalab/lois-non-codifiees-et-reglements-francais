@@ -2,7 +2,7 @@
 
 Les praticiens-conseils ont droit à une gratification annuelle égale au salaire normal du dernier mois de chaque année et d'une allocation annuelle de vacances égale à un mois de traitement payable en deux versements d'un demi-traitement du mois précédent, le premier le 15 juin, le second le 15 octobre de chaque année.
 
-Toutefois, en cas d'activité incomplète au cours d'une année, les gratifications et allocations susvisées seront proratisées suivant les modalités prévues par la convention collective nationale du personnel de direction du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
+A compter du 1er janvier 2003, le médecin-conseil national, les médecins-conseils nationaux adjoints et les médecins-conseils régionaux bénéficient au titre de leurs responsabilités particulières d'une prime mensuelle de 5,33 points.
 
 A compter du 1er janvier 2003, le médecin-conseil national, les médecins-conseils nationaux adjoints et les médecins-conseils régionaux bénéficient au titre de leurs responsabilités particulières d'une prime du même montant que celle attribuée aux agents comptables, directeurs adjoints et sous-directeurs des organismes régionaux du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles.
 

@@ -1,0 +1,3 @@
+# Article 5
+
+Outre les mesures législatives nécessaires à la transposition de la directive 95/21/CE mentionnée à l'article 1er, le Gouvernement est autorisé à prendre, par ordonnance, dans les conditions prévues à l'article 38 de la Constitution, des mesures complémentaires relatives à la sûreté des navires et des ports maritimes, en application des amendements à la convention internationale pour la sauvegarde de la vie humaine en mer (SOLAS) et du code international pour la sûreté des navires et des installations portuaires (code ISPS), adoptés par l'Organisation maritime internationale le 13 décembre 2002.

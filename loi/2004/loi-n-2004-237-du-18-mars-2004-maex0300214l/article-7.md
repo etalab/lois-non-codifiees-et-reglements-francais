@@ -1,0 +1,3 @@
+# Article 7
+
+Outre les mesures législatives nécessaires à la transposition de la directive 2000/34/CE mentionnée à l'article 1er, le Gouvernement est autorisé à prendre, par ordonnance, dans les conditions prévues à l'article 38 de la Constitution, les mesures d'adaptation des dispositions, notamment celles du code du travail et du code du travail maritime, relatives à la durée du travail, au travail de nuit, au repos quotidien et au repos hebdomadaire ainsi qu'aux congés payés et au bulletin de paye, rendues nécessaires par les caractéristiques particulières des activités concernées par la directive.

@@ -1,0 +1,3 @@
+# Article 4
+
+Les étudiants ayant été dispensés, à l'inscription, du versement à titre provisionnel de la cotisation étudiante d'assurance maladie et qui n'obtiendraient pas de bourse au titre de l'année universitaire en cours ou qui perdraient leur droit à bourse en cours d'année universitaire doivent s'acquitter, auprès de l'université, de la cotisation précitée dans les trente jours de la notification de rejet de la demande de bourse pour l'année universitaire en cours ou de la déchéance de la bourse. A défaut d'encaissement dans ce délai, l'union pour le recouvrement des cotisations de sécurité sociale et d'allocations familiales compétente procède au recouvrement de cette cotisation.
