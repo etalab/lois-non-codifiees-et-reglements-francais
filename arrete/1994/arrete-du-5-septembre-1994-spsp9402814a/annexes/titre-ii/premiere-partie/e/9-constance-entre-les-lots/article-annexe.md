@@ -1,0 +1,3 @@
+# Article Annexe
+
+Afin de garantir la reproductibilité de l'efficacité du produit d'un lot à l'autre et de démontrer sa conformité aux spécifications, des essais d'activité basés sur des méthodes in vivo ou in vitro doivent être effectués sur chaque vrac final ou sur chaque lot de produit fini ; chaque fois que cela sera possible, ces essais comporteront des standards de référence et une analyse statistique permettant la détermination des intervalles de confiance. Dans certains cas exceptionnels, ces essais peuvent être effectués à un stade intermédiaire, le plus tardif possible, du procédé de fabrication.

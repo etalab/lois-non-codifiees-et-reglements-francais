@@ -1,6 +1,6 @@
 # Article 1
 
-La direction du budget comprend sept sous-directions :
+La direction du budget comprend, outre le bureau des ressources humaines et des services, sept sous-directions.
 
 La première sous-direction est chargée de la définition de la politique budgétaire, de son exécution et de la synthèse budgétaire. Elle est également en charge du développement du contrôle de gestion dans l'administration et de l'informatique de la direction.
 
