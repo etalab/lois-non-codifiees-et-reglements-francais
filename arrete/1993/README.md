@@ -870,7 +870,6 @@
 - [Arrêté du 26 juillet 1993 (SANH9302216A)](arrete-du-26-juillet-1993-sanh9302216a)
 - [Arrêté du 26 juillet 1993 (TEFE9300907A)](arrete-du-26-juillet-1993-tefe9300907a)
 - [Arrêté du 26 juillet 1993 (TEFE9300908A)](arrete-du-26-juillet-1993-tefe9300908a)
-- [Arrêté du 26 mars 1993 (DEFE9301358A)](arrete-du-26-mars-1993-defe9301358a)
 - [Arrêté du 26 mars 1993 (ECOT9295004A)](arrete-du-26-mars-1993-ecot9295004a)
 - [Arrêté du 26 mars 1993 (ECOT9310172A)](arrete-du-26-mars-1993-ecot9310172a)
 - [Arrêté du 26 mars 1993 (ECOU9300005A)](arrete-du-26-mars-1993-ecou9300005a)

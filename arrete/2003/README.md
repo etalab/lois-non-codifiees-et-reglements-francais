@@ -396,7 +396,6 @@
 - [Arrêté du 11 mars 2003 (AGRA0300397A)](arrete-du-11-mars-2003-agra0300397a)
 - [Arrêté du 11 mars 2003 (DEFD0301043A)](arrete-du-11-mars-2003-defd0301043a)
 - [Arrêté du 11 mars 2003 (DEFD0301239A)](arrete-du-11-mars-2003-defd0301239a)
-- [Arrêté du 11 mars 2003 (DEFD0301240A)](arrete-du-11-mars-2003-defd0301240a)
 - [Arrêté du 11 mars 2003 (DEFD0301274A)](arrete-du-11-mars-2003-defd0301274a)
 - [Arrêté du 11 mars 2003 (EQUK0300483A)](arrete-du-11-mars-2003-equk0300483a)
 - [Arrêté du 11 mars 2003 (EQUT0300371A)](arrete-du-11-mars-2003-equt0300371a)
