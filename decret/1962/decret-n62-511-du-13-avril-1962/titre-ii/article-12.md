@@ -1,0 +1,7 @@
+# Article 12
+
+Les urbanistes élèves sont titularisés dans le grade d'urbaniste au 1er échelon de la 2e classe avec maintien dans la limite d'un an, de l'ancienneté acquise en qualité d'urbaniste élève.
+
+Les urbanistes recrutés parmi les ingénieurs des travaux publics de l'Etat (service de l'équipement) sont nommés dans la 2° classe de leur grade à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détiennent dans leur grade d'origine. Dans la limite de l'ancienneté moyenne exigée à l'article 15 pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade ou classe lorsque l'augmentation de traitement consécutive, à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation. Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade ou classe, conservent leur ancienneté d'échelon dans les mêmes conditions et limites, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'une élévation audit échelon.
+
+Les ingénieurs des travaux publics de l'Etat (service de l'équipement) qui, du fait de leur nomination en qualité d'urbaniste élève ou d'urbaniste, perçoivent une rémunération inférieure à celle dont ils bénéficiaient dans leur corps ou dans l'emploi de chef d'arrondissement, reçoivent une indemnité compensatrice calculée dans les conditions prévues par le décret n° 47-1457 du 4 août 1947.
