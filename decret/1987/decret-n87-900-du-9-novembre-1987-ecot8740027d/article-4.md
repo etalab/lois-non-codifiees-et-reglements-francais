@@ -1,6 +1,6 @@
 # Article 4
 
-La commission départementale d'examen du passif des rapatriés est composée comme suit :
+La commission départementale d'aide aux rapatriés réinstallés est composée comme suit :
 
 - le représentant de l'Etat dans le département ou son représentant, président ;
 
