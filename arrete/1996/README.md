@@ -1043,7 +1043,6 @@
 - [Arrêté du 27 décembre 1995 (MIPP9600045A)](arrete-du-27-decembre-1995-mipp9600045a)
 - [Arrêté du 27 décembre 1995 (TASS9523558A)](arrete-du-27-decembre-1995-tass9523558a)
 - [Arrêté du 27 décembre 1996 (AGRG9602727A)](arrete-du-27-decembre-1996-agrg9602727a)
-- [Arrêté du 27 décembre 1996 (AGRM9602655A)](arrete-du-27-decembre-1996-agrm9602655a)
 - [Arrêté du 27 décembre 1996 (BUDF9620684A)](arrete-du-27-decembre-1996-budf9620684a)
 - [Arrêté du 27 décembre 1996 (DEFM9602148A)](arrete-du-27-decembre-1996-defm9602148a)
 - [Arrêté du 27 décembre 1996 (TASE9611732A)](arrete-du-27-decembre-1996-tase9611732a)

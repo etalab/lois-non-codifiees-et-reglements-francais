@@ -506,7 +506,6 @@
 - [Décret n°2000-1278 du 26 décembre 2000 (ECOI0000525D)](decret-n2000-1278-du-26-decembre-2000-ecoi0000525d)
 - [Décret n°2000-1281 du 26 décembre 2000 (MEST0011587D)](decret-n2000-1281-du-26-decembre-2000-mest0011587d)
 - [Décret n°2000-1282 du 26 décembre 2000 (MESH0023447D)](decret-n2000-1282-du-26-decembre-2000-mesh0023447d)
-- [Décret n°2000-1284 du 26 décembre 2000 (MESS0023843D)](decret-n2000-1284-du-26-decembre-2000-mess0023843d)
 - [Décret n°2000-1285 du 26 décembre 2000 (MESS0023844D)](decret-n2000-1285-du-26-decembre-2000-mess0023844d)
 - [Décret n°2000-1286 du 26 décembre 2000 (MESA0023818D)](decret-n2000-1286-du-26-decembre-2000-mesa0023818d)
 - [Décret n°2000-1289 du 26 décembre 2000 (MAEA0020387D)](decret-n2000-1289-du-26-decembre-2000-maea0020387d)

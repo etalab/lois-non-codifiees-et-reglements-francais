@@ -259,7 +259,6 @@
 - [Arrêté du 8 juin 1998 (MEST9810650A)](arrete-du-8-juin-1998-mest9810650a)
 - [Arrêté du 8 juin 1998 (MEST9810651A)](arrete-du-8-juin-1998-mest9810651a)
 - [Arrêté du 8 octobre 1998 (AGRE9802039A)](arrete-du-8-octobre-1998-agre9802039a)
-- [Arrêté du 8 octobre 1998 (AGRP9801990A)](arrete-du-8-octobre-1998-agrp9801990a)
 - [Arrêté du 8 octobre 1998 (MCCB9800429A)](arrete-du-8-octobre-1998-mccb9800429a)
 - [Arrêté du 8 septembre 1998 (EQUA9801246A)](arrete-du-8-septembre-1998-equa9801246a)
 - [Arrêté du 8 septembre 1998 (EQUX9803180A)](arrete-du-8-septembre-1998-equx9803180a)

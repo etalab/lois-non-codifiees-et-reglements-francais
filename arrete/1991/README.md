@@ -162,7 +162,6 @@
 - [Arrêté du 5 novembre 1991 (EQUC9101669A)](arrete-du-5-novembre-1991-equc9101669a)
 - [Arrêté du 5 novembre 1991 (EQUL9101664A)](arrete-du-5-novembre-1991-equl9101664a)
 - [Arrêté du 5 novembre 1991 (MERP9100212A)](arrete-du-5-novembre-1991-merp9100212a)
-- [Arrêté du 5 novembre 1991 (PTTR9100384A)](arrete-du-5-novembre-1991-pttr9100384a)
 - [Arrêté du 5 septembre 1991 (BUDR9105038A)](arrete-du-5-septembre-1991-budr9105038a)
 - [Arrêté du 6 août 1990 (DEFD9001816A)](arrete-du-6-aout-1990-defd9001816a)
 - [Arrêté du 6 août 1991 (MENZ9101050A)](arrete-du-6-aout-1991-menz9101050a)

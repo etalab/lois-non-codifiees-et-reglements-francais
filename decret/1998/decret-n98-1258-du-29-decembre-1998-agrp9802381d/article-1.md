@@ -1,3 +1,0 @@
-# Article 1
-
-Est autorisée jusqu'au 31 décembre 2001 la perception au profit du centre technique interprofessionnel des fruits et légumes (CTIFL) d'une taxe parafiscale destinée au financement des actions de certification des plants et semences, de recherche et d'expérimentation, d'études économiques, de diffusion des résultats de ces expérimentations et de ces études, de promotion de la distribution, de formation et d'information, dans le secteur des plantes aromatiques à usage culinaire et dans celui des fruits et légumes frais, secs ou séchés, n'ayant pas subi de transformation de nature à leur garantir une longue conservation, à l'exception des pommes de terre de conservation et des bananes.
