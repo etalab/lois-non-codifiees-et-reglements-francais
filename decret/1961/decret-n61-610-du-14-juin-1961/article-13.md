@@ -1,15 +1,5 @@
 # Article 13
 
-Les exploitations sont attribuées de préférence aux candidats dont l'installation présente les plus grandes chances de succès du fait, en particulier, de leur situation familiale, de leur expérience professionnelle et de leurs qualités personnelles et offre le plus d'intérêt au point de vue social en raison des difficultés qu'ils éprouvent pour poursuivre leur exploitation ou s'installer, ce qui vise notamment :
+Lorsqu'en application de l'article 15 modifié de la loi d'orientation agricole du 5 août 1960, une société d'aménagement foncier et d'établissement rural prévoit de supprimer une exploitation agricole existante d'une superficie au moins égale à la surface minimum d'installation ou d'en ramener la superficie en-deçà de ce minimum que l'exploitation comporte ou non des bâtiments, le commissaire du Gouvernement nommé par le ministre de l'agriculture auprès de cette société saisit, par lettre recommandée avec demande d'avis de réception, le président de la commission départementale des structures, d'une demande d'avis sur les opérations prévues. L'absence d'avis dans un délai de deux mois à compter de la date de réception par son président de la lettre recommandée est réputée valoir avis favorable.
 
-Les jeunes agriculteurs ;
-
-Les salariés, aides familiaux ou associés d'exploitation, désireux de s'installer à leur compte ;
-
-Les chefs d'exploitation évincés du fait de partages ;
-
-Les agriculteurs privés de leur exploitation à la suite d'expropriation pour cause d'utilité publique ou, sans faute de leur part, du fait de l'exercice du droit de reprise par le propriétaire ;
-
-Les agriculteurs disposant d'une superficie insuffisante du fait de partages successoraux ou de l'exercice du droit de reprise par le propriétaire ;
-
-Les agriculteurs cédant leur exploitation trop petite à une société d'aménagement foncier et d'établissement rural, en vue d'obtenir l'attribution d'une nouvelle exploitation.
+Les commissaires du Gouvernement auprès de la société d'aménagement foncier et d'établissement rural se prononcent alors sur l'opération prévue soit dans un délai de quinze jours à compter de la date de la notification de l'avis de la commission, soit à compter de l'expiration du délai de deux mois ci-dessus mentionné.
