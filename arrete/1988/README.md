@@ -339,7 +339,6 @@
 - [Arrêté du 18 décembre 1987 (ASEG8701884A)](arrete-du-18-decembre-1987-aseg8701884a)
 - [Arrêté du 18 décembre 1987 (ENVN8700255A)](arrete-du-18-decembre-1987-envn8700255a)
 - [Arrêté du 18 décembre 1987 (STFP8800152A)](arrete-du-18-decembre-1987-stfp8800152a)
-- [Arrêté du 18 février 1988 (MERE8800035A)](arrete-du-18-fevrier-1988-mere8800035a)
 - [Arrêté du 18 février 1988 (PRMJ8860017A)](arrete-du-18-fevrier-1988-prmj8860017a)
 - [Arrêté du 18 janvier 1988 (COPB8800005A)](arrete-du-18-janvier-1988-copb8800005a)
 - [Arrêté du 18 janvier 1988 (ECOT8711016A)](arrete-du-18-janvier-1988-ecot8711016a)
