@@ -1,3 +1,3 @@
-# CHARGES AFFÉRENTES AUX SERVICES DÉPARTEMENTAUX DE GARDERIE PRISES EN COMPTE PAR LES FÉDÉRATIONS DÉPARTEMENTALES DES CHASSEURS : (Base de calcul 1996).
+# Charges afférentes aux services départementaux de garderie prises en compte par les fédérations départementales des chasseurs
 
 - [Article ANNEXE](article-annexe.md)

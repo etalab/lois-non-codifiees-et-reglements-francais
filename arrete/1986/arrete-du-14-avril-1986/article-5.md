@@ -6,7 +6,7 @@ Les électeurs se font inscrire chacun dans leur collège respectif sur les list
 
 Nul ne peut prétendre à être inscrit simultanément dans les deux collèges électoraux ou sur les listes électorales de plusieurs départements.
 
-Les demandes d'inscription peuvent soit être déposées en préfecture, soit se faire par correspondance sous pli recommandé avec accusé de réception, étant entendu que la date prise en compte est celle de la réception de la demande par la préfecture. Dans les deux cas, les demandes doivent être accompagnées de tout document justificatif visé aux articles 3 et 4 ci-dessus. Le défaut de production desdits documents ou de leur copie avant la date de clôture des inscriptions entraîne automatiquement l'annulation de la demande d'inscription.
+Les demandes d'inscription peuvent soit être déposées en préfecture, soit se faire par correspondance, étant entendu que la date prise en compte est celle de la réception de la demande par la préfecture. Dans les deux cas, les demandes doivent être accompagnées de tout document justificatif visé aux articles 3 et 4 ci-dessus. Le défaut de production desdits documents ou de leur copie avant la date de clôture des inscriptions entraîne automatiquement l'annulation de la demande d'inscription.
 
 Les décisions de rejet des demandes d'inscription sont notifiées aux intéressés par lettre recommandée avec accusé de réception huit jours au plus tard après la date de clôture des inscriptions.
 

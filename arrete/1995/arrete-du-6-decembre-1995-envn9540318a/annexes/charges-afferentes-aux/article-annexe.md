@@ -1,17 +1,17 @@
 # Article ANNEXE
 
-1. Prise en compte de l'indemnité de logement
+1° Prise en compte des indemnités de logement et de déménagement.
 
-Les indemnités de logement et les indemnités de déménagement sont réglées sur la base des textes en vigueur.
+Les indemnités de logement et les indemnités de démenagement sont réglées sur la base des textes en vigueur.
 
-2. Participation aux frais de fonctionnement
+2° Participation aux frais de fonctionnement.
 
-La participation minimale par garde et par an est arrêtée à 33 000 F ventilée comme suit : (tableau non reproduit - consulter le fac-similé).
+La participation minimale par garde et par an est arrêtée à 34.515F ventilée comme suit:
 
-Pour tenir compte des conditions de services locales, des transferts entre les différents postes peuvent être opérés sans que le total des crédits affectés au service départemental de garderie concerné puisse cependant être modifié.
+(Tableau non reproduit).
 
-3. Participation à un fonds de concours
+Pour tenir compte des conditions de service locales, des transfert entre les différents postes peuvent être opérés sans que le total des crédits affectés au service départemental de garderie concerné puisse cependant être modifié.
 
-réservé au financement de l'équipement
+3° Participation à un fonds de concours réservé au financement de l'équipement.
 
-2 500 F par garde et par an au titre de 1996.
+4.000F par garde et par an au titre 1998.

@@ -34,6 +34,8 @@ L'emploi des agents conservateurs précités dans les préparations enzymatiques
 
 - citrates de sodium, de potassium et de calcium ;
 
+- pour les préparations de chymosine : méthionine, à la dose strictement nécessaire pour limiter la perte d'activité.
+
 3. Les préparations enzymatiques peuvent être immobilisées sur des supports inertes constitués :
 
 - de composants répondant aux dispositions du décret du 12 février 1973 relatives aux matériaux au contact des denrées alimentaires destinées à l'alimentation de l'homme et des animaux ;
