@@ -98,6 +98,7 @@
 - [Arrêté du 20 octobre 1982](arrete-du-20-octobre-1982)
 - [Arrêté du 20 septembre 1982](arrete-du-20-septembre-1982)
 - [Arrêté du 21 décembre 1981](arrete-du-21-decembre-1981)
+- [Arrêté du 21 décembre 1982](arrete-du-21-decembre-1982)
 - [Arrêté du 21 janvier 1982](arrete-du-21-janvier-1982)
 - [Arrêté du 21 juin 1982](arrete-du-21-juin-1982)
 - [Arrêté du 21 septembre 1978](arrete-du-21-septembre-1978)
