@@ -1,7 +1,5 @@
 # Article 1
 
-Le président de la commission nationale technique prévue à l'article L. 195 du code de la sécurité sociale perçoit une indemnité annuelle de 9.860 F [*montant*].
+Au sens du présent arrêté, les produits de la mer et d'eau douce comprennent tous les animaux ou parties d'animaux marins ou d'eau douce ainsi que les grenouilles et les escargots destinés à être livrés au public en vue de la consommation humaine.
 
-Les présidents de section, autres que le président de la commission, perçoivent pour chaque audience qu'ils ont effectivement présidée une indemnité de 127,40 F sans que leur rémunération annuelle puisse excéder 9.860 F.
-
-Les autres magistrats en activité de la commission nationale technique perçoivent, pour chaque audience à laquelle ils ont effectivement participé, une indemnité de 63,70 F sans que leur rémunération annuelle puisse excéder 4.930 F.
+Les produits frais sont les produits qui ne sont pas présentés à l'état vivant et qui n'ont subi aucun traitement de nature à assurer leur conservation, à l'exception de l'action du froid au-dessus de leur point de congélation.
