@@ -23,6 +23,8 @@
 - [Décret n°61-602 du 13 juin 1961](decret-n61-602-du-13-juin-1961)
 - [Décret n°61-604 du 13 juin 1961](decret-n61-604-du-13-juin-1961)
 - [Décret n°61-605 du 13 juin 1961](decret-n61-605-du-13-juin-1961)
+- [Décret n°61-607 du 14 juin 1961](decret-n61-607-du-14-juin-1961)
+- [Décret n°61-610 du 14 juin 1961](decret-n61-610-du-14-juin-1961)
 - [Décret n°61-246 du 15 mars 1961](decret-n61-246-du-15-mars-1961)
 - [Décret n°61-495 du 15 mai 1961](decret-n61-495-du-15-mai-1961)
 - [Décret n°61-171 du 16 février 1961](decret-n61-171-du-16-fevrier-1961)
