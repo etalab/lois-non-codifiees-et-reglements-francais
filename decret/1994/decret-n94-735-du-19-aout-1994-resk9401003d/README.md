@@ -4,4 +4,3 @@
 - [Chapitre Ier : Programme pédagogique.](chapitre-ier)
 - [Chapitre II : Organisation du concours.](chapitre-ii)
 - [Chapitre III : Candidatures, choix des postes, déroulement du cycle.](chapitre-iii)
-- [Chapitre IV : Validation de l'internat et délivrance du diplôme d'Etat de chirurgie dentaire.](chapitre-iv)

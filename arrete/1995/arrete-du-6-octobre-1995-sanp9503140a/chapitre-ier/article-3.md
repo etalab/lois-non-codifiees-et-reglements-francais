@@ -1,5 +1,0 @@
-# Article 3
-
-Les étudiants visés au deuxième tiret de l'article 1er choisissent leur centre hospitalier universitaire de rattachement en fonction de leur classement et dans la limite des postes mis au concours, mais participent au choix des postes dans les services avec les internes issus du concours organisé l'année universitaire suivante, à condition d'avoir alors entièrement validé le second cycle des études odontologiques. Ils communiquent leurs choix selon les conditions prévues à l'article 2.
-
-Leur nouveau rang de classement dans le centre hospitalier universitaire de rattachement est déterminé par pondération de leur classement initial ; cette pondération est effectuée par application d'un coefficient défini par le rapport entre le nombre de postes ouverts au concours de l'année où ils sont interclassés et le nombre de postes offerts au concours auquel ils ont participé. Le rang de classement alors constitué par le nombre entier égal ou immédiatement inférieur à la valeur obtenue à l'issue de la pondération place les internes en position de choix en bis avant les internes de même rang du concours postérieur au leur.
