@@ -71,7 +71,6 @@
 - [Arrêté du 3 mars 1993 (JUSC9320174A)](arrete-du-3-mars-1993-jusc9320174a)
 - [Arrêté du 3 mars 1993 (SANH9300743A)](arrete-du-3-mars-1993-sanh9300743a)
 - [Arrêté du 3 mars 1993 (SANH9300744A)](arrete-du-3-mars-1993-sanh9300744a)
-- [Arrêté du 3 mars 1993 (SANH9300745A)](arrete-du-3-mars-1993-sanh9300745a)
 - [Arrêté du 3 mars 1993 (SANH9300754A)](arrete-du-3-mars-1993-sanh9300754a)
 - [Arrêté du 3 mars 1993 (SANH9300755A)](arrete-du-3-mars-1993-sanh9300755a)
 - [Arrêté du 3 novembre 1993 (AGRG9300235A)](arrete-du-3-novembre-1993-agrg9300235a)
