@@ -8,11 +8,7 @@ Le candidat indique sur le formulaire la ou les interrégions au titre de laquel
 
 2° Un extrait d'acte de naissance ou une fiche individuelle d'état civil datant de moins de trois mois ;
 
-3° Tout document officiel permettant d'établir sa nationalité ;
-
-4° Un extrait n° 3 de casier judiciaire datant de moins de trois mois ;
-
-5° Tout document de nature à établir que le candidat remplit les conditions fixées par les articles 5 et 6 du décret n° 89-739 du 12 octobre 1989 susvisé.
+3° Tout document de nature à établir que le candidat remplit les conditions fixées par les articles 5 et 6 du décret n° 89-739 du 12 octobre 1989 susvisé.
 
 Le certificat établi par l'université attestant qu'il a été satisfait aux obligations validant la scolarité de la quatrième année d'études pharmaceutiques peut, le cas échéant, n'être fourni que lors de la présentation à la première épreuve d'admissibilité.
 
@@ -20,6 +16,8 @@ Avant de prendre ses fonctions à l'hôpital, le candidat reçu devra obligatoir
 
 Le ou les certificats médicaux attestant qu'il remplit les conditions exigées par la réglementation en vigueur relative à l'immunisation obligatoire de certaines personnes contre certaines maladies ;
 
-Une déclaration sur l'honneur par laquelle il s'engage à se conformer au règlement en vigueur dans l'établissement où il est nommé.
+Une déclaration sur l'honneur par laquelle il s'engage à se conformer au règlement en vigueur dans l'établissement où il est nommé ;
+
+Un extrait n° 3 du casier judiciaire datant de moins de trois mois.
 
 La liste des candidats autorisés à concourir est arrêtée par le préfet de région responsable de l'organisation des épreuves d'admissibilité et est affichée au siège de chaque direction régionale des affaires sanitaires et sociales visée à l'article 1er.

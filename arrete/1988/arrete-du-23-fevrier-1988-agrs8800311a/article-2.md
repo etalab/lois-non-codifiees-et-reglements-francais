@@ -15,3 +15,13 @@
 213 600 F en zone défavorisée au sens du décret du 3 juin 1977 susvisé, à l'exception des communes ou fractions de communes situées en zone de montagne ;
 
 165 400 F dans le reste du territoire métropolitain.
+
+3° Dans la limite des montants fixés aux 1° et 2° du présent article, les montants maximaux mentionnés aux 1°, 2° et 3° de l'article 12 du décret du 23 février 1988 sont :
+
+a) Pour l'acquisition de fonds de terre : 100 000 F ;
+
+b) Pour le financement du besoin de fonds de roulement : 10 p. 100 du montant des prêts à moyen terme spéciaux réalisés au cours de la première année qui suit l'installation, dans la limite de 30 000 F ;
+
+c) Pour le financement de la mise en état et de l'adaptation :
+
+200 000 F.

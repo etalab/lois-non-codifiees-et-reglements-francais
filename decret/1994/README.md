@@ -209,6 +209,7 @@
 - [Décret n°94-233 du 17 mars 1994 (MAEJ9430007D)](decret-n94-233-du-17-mars-1994-maej9430007d)
 - [Décret n°94-55 du 17 janvier 1994 (ECOM9300079D)](decret-n94-55-du-17-janvier-1994-ecom9300079d)
 - [Décret n°98-489 du 17 juin 1998 (AGRS9800099D)](decret-n98-489-du-17-juin-1998-agrs9800099d)
+- [Décret n°94-388 du 17 mai 1994 (AGRS9400531D)](decret-n94-388-du-17-mai-1994-agrs9400531d)
 - [Décret n°89-902 du 18 décembre 1989 (MENT8902456D)](decret-n89-902-du-18-decembre-1989-ment8902456d)
 - [Décret n°94-142 du 18 février 1994 (MAEJ9430011D)](decret-n94-142-du-18-fevrier-1994-maej9430011d)
 - [Décret n°94-143 du 18 février 1994 (JUSE9440008D)](decret-n94-143-du-18-fevrier-1994-juse9440008d)
