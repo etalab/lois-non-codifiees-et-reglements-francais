@@ -1,13 +1,17 @@
 # Article 7
 
-Il est institué une commission consultative d'exploitation du Théâtre national de l'Odéon, qui comprend :
+La commission consultative d'exploitation du Théâtre national de l'Odéon  comprend:
 
-1° Le directeur, président ;
+1o Le directeur, président;
 
-2° Trois sociétaires de la Comédie-Française désignés chaque année par le comité d'administration ;
+2o Le directeur du  théâtre et des spectacles et le directeur de l'administration générale au  ministère chargé de la culture ou leurs représentants;
 
-3° Trois représentants du personnel du Théâtre national de l'Odéon comprenant un représentant des cadres et deux représentants du personnel administratif et technique élus dans des conditions fixées par arrêté du ministre chargé de la culture. Leur mandat est de trois ans et peut être renouvelé ;
+3o  L'administrateur du Théâtre national de l'Odéon;
 
-4° Trois personnalités qualifiées dans le domaine de la diffusion, de la recherche, de la création et de l'esthétique théâtrale, désignées par arrêté du ministre chargé de la culture. Leur mandat est de trois ans et peut être renouvelé ;
+4o Trois  représentants du personnel comprenant un représentant des cadres, un  représentant du personnel administratif et un représentant du personnel  technique, élus dans les conditions fixées par arrêté du ministre chargé de la  culture. Leur mandat est de trois ans et peut être renouvelé;
 
-Le fonctionnaire chargé du contrôle financier assiste aux séances de la commission d'exploitation avec voix consultative.
+5o  Trois personnalités qualifiées dans le domaine de la diffusion, de la recherche,  de la création et de l'esthétique théâtrale désignées par arrêté du ministre  chargé de la culture. Leur mandat est de trois ans et peut être  renouvelé.
+
+Le fonctionnaire chargé du contrôle financier assiste aux  séances de la commission d'exploitation.
+
+En cas de démission ou de  décès d'un membre, celui-ci est remplacé par un nouveau membre qui exerce son  mandat pour une durée égale à celle qui restait à courir pour le membre remplacé.

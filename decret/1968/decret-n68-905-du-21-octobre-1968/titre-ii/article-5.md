@@ -1,7 +1,7 @@
 # Article 5
 
-Le directeur perçoit un traitement déterminé par un arrêté conjoint du ministre délégué à la culture et du ministre de l'économie, des finances et du budget.
+<div>L'administrateur est nommé par arrêté du ministre chargé de la culture, après  avis du directeur.<br/>Il perçoit une rémunération dont les modalités  sont fixées par arrêté conjoint des ministres chargés de la culture et du  budget.<br/>Sous l'autorité du directeur:<br/>1o Il est chargé de  la direction de l'ensemble des services techniques,<br/>administratifs,  financiers et commerciaux du théâtre;<br/>2o Il prépare le budget de  l'établissement et en suit l'exécution: à cet effet, il est informé de  l'ensemble des décisions d'engagement de dépenses.<br/>Il présente à chaque  réunion de la commission consultative d'exploitation un état de l'exécution du  budget de l'exercice en cours et propose, le cas échéant, les mesures  nécessaires au rétablissement de l'équilibre du budget; </div>
+<div>3o Il négocie  les conventions collectives;<br/>4o Il passe les marchés, les commandes,  les contrats de commercialisation et de diffusion et les contrats de location de  matériel;<br/>
+</div>5o Il engage et licencie le personnel technique et  administratif,
 
-Lorsque, antérieurement à sa nomination, le directeur exerçait la profession d'acteur ou de metteur en scène, il lui est possible de se livrer à l'une ou à l'autre de ces activités, ou simultanément aux deux, à l'intérieur du Théâtre national de l'Odéon. Sa rémunération peut alors comprendre une indemnité spéciale de fonctions fixée par arrêté conjoint du ministre délégué à la culture et du ministre de l'économie, des finances et du budget.
-
-En dehors du Théâtre national de l'Odéon, le directeur ne peut exercer aucune activité d'acteur ou de metteur en scène sans l'autorisation préalable du ministre délégué à la culture.
+<div>permanent, occasionnel ou temporaire.</div>
