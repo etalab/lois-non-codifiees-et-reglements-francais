@@ -1,3 +1,5 @@
 # Article 7
 
-Les dispositions du présent arrêté remplacent, au 1er juillet 2001, les spécifications correspondantes définies pour les mêmes véhicules par l'arrêté du 15 janvier 1985 modifié susvisé.
+La transformation d'un véhicule afin qu'il puisse fonctionner aux gaz de pétrole liquéfiés doit être réalisée soit par le constructeur ou son représentant accrédité, si cette transformation conduit à un type réceptionné et donne lieu à la délivrance d'un certificat de conformité à ce type, soit par une entreprise agréée conformément aux dispositions de l'arrêté du 15 janvier 1985 susvisé, et dans ce cas le véhicule transformé doit subir une réception à titre isolé.
+
+Dans le cas où la transformation nécessite une réception à titre isolé, le monteur de l'entreprise procédant à la transformation doit garantir la conformité de l'installation qu'il a réalisée aux prescriptions techniques du présent arrêté. A cet effet, il doit fournir au propriétaire du véhicule transformé un certificat de montage conforme au modèle figurant en annexe I du présent arrêté, qui sera par la suite conservé par la direction régionale de l'industrie, de la recherche et de l'environnement dans le dossier de réception à titre isolé du véhicule.

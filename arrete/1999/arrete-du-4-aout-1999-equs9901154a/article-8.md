@@ -1,3 +1,3 @@
 # Article 8
 
-Art. 8. -     La directrice de la sécurité et de la circulation routières est chargée de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'entreprise agréée doit, avant de conclure le cas échéant le contrat, informer le propriétaire de l'obligation de faire réceptionner son véhicule par la direction régionale de l'industrie, de la recherche et de l'environnement lorsque la transformation sera effectuée. A l'issue de la transformation, le monteur de cette entreprise devra fournir au propriétaire, en complément du certificat de montage visé à l'article précédent, la totalité des documents nécessaires à la constitution du dossier de demande de réception à titre isolé (les documents effectivement délivrés devront être indiqués dans le certificat de montage).
