@@ -10,6 +10,14 @@ Nonobstant la condition d'antériorité prévue ci-dessus en a et b si le mariag
 
 L'entrée en jouissance de la pension est éventuellement différée jusqu'à la date à laquelle la veuve atteindra son cinquante-cinquième anniversaire.
 
+Les veuves, non remariées qui, lors du décès de leur mari survenu antérieurement au 14 février 1960, remplissaient les conditions exigées par le présent article bénéficieront d'une allocation annuelle calculée à raison de 1,50 p. 100 d'une somme forfaitaire de 2.200 NF par année de service effectif accompli par le mari, à l'exception de l'année de stage.
+
+Les veuves désignées à l'alinéa précédent, remariées et redevenues veuves, bénéficieront de l'allocation si elles remplissent les conditions prévues ci-dessus.
+
+Le droit à l'allocation est subordonné à la condition qu'il n'existe ni femme divorcée, ni orphelin légitime, naturel, reconnu ou adoptif ayant droit à pension.
+
+La demande tendant à l'octroi de l'allocation instituée par l'article 18 de la loi du 22 juillet 1922 modifiée par le présent article doit être présentée, à peine de déchéance, dans le délai d'un an à compter soit du jour où les conditions prévues pour cet octroi soit satisfaites, si cette date est postérieure à celle de publication du présent décret, soit de cette dernière date dans le cas contraire.
+
 Au cas d'existence, au moment du décès du mari, d'un ou plusieurs enfants issus du mariage, le droit à pension de veuve est acquis si le mariage a été contracté trois ans au moins avant ledit décès, et la jouissance de pension est immédiate.    Chaque orphelin a droit, en outre, jusqu'à l'âge de 21 ans, à une pension temporaire égale à 10 p. 100 de la retraite d'ancienneté, proportionnelle ou d'invalidité, sans toutefois que le cumul de la pension de la mère et de celle des orphelins puisse excéder le montant de la pension attribuée ou qui aurait été attribuée au père. S'il y a excédent, il est procédé à la réduction temporaire des pensions d'orphelins.
 
 Au cas de décès de la mère ou si celle-ci est inhabile à obtenir pension ou déchue de ses droits, les droits qui lui appartiendraient passent aux orphelins âgés de moins de 21 ans et la pension temporaire de 10 p. 100 est maintenue à partir du deuxième à chaque enfant mineur, dans la limite du maximum fixé à l'alinéa précédent.
