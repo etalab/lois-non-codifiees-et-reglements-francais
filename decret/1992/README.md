@@ -800,6 +800,8 @@
 - [Décret n°88-416 du 22 avril 1988 (ECOC8800033D)](decret-n88-416-du-22-avril-1988-ecoc8800033d)
 - [Décret n°92-1012 du 22 septembre 1992 (JUSB9210288D)](decret-n92-1012-du-22-septembre-1992-jusb9210288d)
 - [Décret n°92-1014 du 22 septembre 1992 (INDH9200701D)](decret-n92-1014-du-22-septembre-1992-indh9200701d)
+- [Décret n°92-1337 du 22 décembre 1992 (MENX9200234D)](decret-n92-1337-du-22-decembre-1992-menx9200234d)
+- [Décret n°92-1339 du 22 décembre 1992 (LOGM9200010D)](decret-n92-1339-du-22-decembre-1992-logm9200010d)
 - [Décret n°92-404 du 22 avril 1992 (PRMX9210110D)](decret-n92-404-du-22-avril-1992-prmx9210110d)
 - [Décret n°92-551 du 22 juin 1992 (ACVE9150029D)](decret-n92-551-du-22-juin-1992-acve9150029d)
 - [Décret n°92-552 du 22 juin 1992 (ACVE9250008D)](decret-n92-552-du-22-juin-1992-acve9250008d)
