@@ -4,7 +4,9 @@ Le secrétariat général est organisé comme suit :
 
 Est directement rattachée au secrétaire général l'unité de gestion des carrières.
 
-Le département de la programmation et de la gestion [*composition*] comprend :
+Le département de la programmation et de la gestion comprend :
+
+-la division de la comptabilité générale ;
 
 -l'unité des programmes, du budget et des coûts ;
 
@@ -19,8 +21,6 @@ Le département du personnel comprend :
 -la division de la formation et perfectionnement.
 
 Le département des services généraux comprend :
-
--la division de la comptabilité générale ;
 
 -la division du matériel et de l'immobilier ;
 

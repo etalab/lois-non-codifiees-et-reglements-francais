@@ -1,0 +1,9 @@
+# Article 5
+
+Afin d'assurer le contrôle de la bonne utilisation des montants alloués aux ports maritimes par la Caisse nationale de garantie des ouvriers dockers, il est fait application des dispositions suivantes :
+
+1° L'utilisation des fonds consacrés au versement de l'aide à l'emploi de nouveaux ouvriers dockers employés sous contrat à durée indéterminée est contrôlée par le conseil d'administration de la Caisse nationale de garantie des ouvriers dockers, au vu des attestations fournies par les caisses de compensation des congés payés des ports maritimes. A cette fin, les entreprises et groupements d'employeurs adressent copie aux caisses de compensation des congés payés des contrats de travail conclus à compter du 1er janvier 2000, dans les conditions prévues au I de l'article 3 du présent décret ;
+
+2° L'utilisation des fonds consacrés aux actions de formation au-delà des contributions légales est contrôlée une fois par an par le conseil d'administration de la Caisse nationale de garantie des ouvriers dockers, après vérification des états établis par chaque caisse de compensation des congés payés d'après les déclarations annuelles de formation produites par les entreprises au plus tard le 30 avril et après la réunion consacrée localement au bilan des actions de formations définies aux III et IV de l'article 3 du présent décret ;
+
+3° Le président du conseil d'administration de la Caisse nationale de garantie des ouvriers dockers ou le représentant qu'il désigne à cet effet s'assure, au besoin par des contrôles sur place et sur pièces, de l'utilisation des fonds versés aux caisses de compensation des congés payés des ports maritimes conformément aux articles 2 et 4 du présent décret. Il établit annuellement un rapport général qu'il soumet au conseil d'administration de la Caisse nationale de garantie des ouvriers dockers et qu'il transmet au ministre chargé des ports maritimes.
