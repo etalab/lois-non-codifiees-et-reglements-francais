@@ -969,7 +969,6 @@
 - [Arrêté du 23 septembre 1996 (TASA9623693A)](arrete-du-23-septembre-1996-tasa9623693a)
 - [Arrêté du 23 mai 1996 (MENU9601555A)](arrete-du-23-mai-1996-menu9601555a)
 - [Arrêté du 23 mai 1996 (TASS9620803A)](arrete-du-23-mai-1996-tass9620803a)
-- [Arrêté du 24 avril 1996 (BUDF9600015A)](arrete-du-24-avril-1996-budf9600015a)
 - [Arrêté du 24 avril 1996 (BUDF9620946A)](arrete-du-24-avril-1996-budf9620946a)
 - [Arrêté du 24 avril 1996 (BUDR9605008A)](arrete-du-24-avril-1996-budr9605008a)
 - [Arrêté du 24 avril 1996 (MCCH9600286A)](arrete-du-24-avril-1996-mcch9600286a)
