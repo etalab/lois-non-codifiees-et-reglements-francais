@@ -24,7 +24,7 @@ A compter de la publication du décret d'application du présent article, les pe
 
 L'agence est substituée au Centre français du commerce extérieur dans les contrats conclus antérieurement à l'entrée en vigueur du décret d'application précité, en ce qui concerne les personnels régis par le décret n° 60-425 du 4 mai 1960 portant statut des personnels du Centre français du commerce extérieur.
 
-Les intéressés auront, au plus tard le 31 décembre 2004 et six mois après qu'ils auront reçu la notification des conditions d'exercice du choix, la faculté d'opter :
+Les intéressés auront, au plus tard le 31 octobre 2005 et six mois après qu'ils auront reçu la notification des conditions d'exercice du choix, la faculté d'opter :
 
 - soit pour le maintien de leur contrat relevant du décret précité ;
 

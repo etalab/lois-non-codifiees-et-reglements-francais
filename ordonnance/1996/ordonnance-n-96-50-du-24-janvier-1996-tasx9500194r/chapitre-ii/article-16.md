@@ -1,6 +1,6 @@
 # Article 16
 
-I. - Il est institué, à compter du 1er février 1996, une contribution prélevée sur les produits de placement désignés au I de l'article L. 136-7 du code de la sécurité sociale à l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du II ci-après. Cette contribution est assise, recouvrée et contrôlée selon les modalités prévues au II du même article.
+I. - Il est institué, à compter du 1er février 1996, une contribution prélevée sur les produits de placement désignés au I de l'article L. 136-7 du code de la sécurité sociale à l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du II ci-après. Cette contribution est assise, recouvrée et contrôlée selon les modalités prévues aux V et VI du même article.
 
 II. - Sont également assujettis à la contribution selon les modalités prévues au I, pour la partie acquise à compter du 1er février 1996 et, le cas échéant, constatée à compter du 1er février 1996 en ce qui concerne les placements visés du 3° au 9° :
 

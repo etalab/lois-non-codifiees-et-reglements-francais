@@ -1,6 +1,6 @@
 # Article 80
 
-I. - Sont autorisées au sens de l'article 61 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances les garanties suivantes, accordées par l'Etat :
+I. - Sont autorisés au sens de l'article 61 de la loi organique n° 2001-692 du 1er août 2001 relative aux lois de finances les garanties suivantes, accordées par l'Etat :
 
 1° La garantie accordée à la Caisse nationale d'épargne par l'article L. 518-26 du code monétaire et financier ;
 
@@ -38,7 +38,37 @@ I. - Sont autorisées au sens de l'article 61 de la loi organique n° 2001-692 d
 
 18° La garantie accordée au Crédit d'équipement des petites et moyennes entreprises en application de la loi n° 53-80 du 7 février 1953 relative au développement des dépenses d'investissements pour l'exercice 1953 (Equipement des services civils. - Investissements économiques et sociaux. - Réparations des dommages de guerre) ;
 
-19° Les garanties d'emprunts accordées à la Société financière des sociétés de développement régional (FINANSDER) en application de la loi n° 53-80 du 7 février 1953 précitée.
+19° Les garanties d'emprunts accordées à la Société financière des sociétés de développement régional (FINANSDER) en application de la loi n° 53-80 du 7 février 1953 précitée ;
+
+20° La garantie des conventions de réservation de logements familiaux au profit des personnels civils et militaires que le ministère de la défense peut conclure auprès de sociétés d'économie mixte, de sociétés anonymes ou d'offices publics d'habitations à loyer modéré, sur la base des articles R. 314-5 et R. 314-18 du code de la construction et de l'habitation. Ces conventions peuvent être assorties de garanties d'occupation d'une durée maximale de six mois ;
+
+21° La garantie des conventions de réservation de logements familiaux au profit des personnels civils et militaires relevant de son autorité que le ministère de la défense a conclues en 2003 avec la Société nationale immobilière. Des garanties d'occupation peuvent être prévues par ces conventions, dans la limite d'une durée de trois mois reconductible une fois ;
+
+22° La garantie de l'occupation permanente des logements réservés destinés à être loués aux fonctionnaires civils et militaires de l'Etat et aux agents de l'Etat dans le cadre des conventions conclues avant le 31 décembre 2003, avec des organismes gestionnaires de logements sociaux ou des organismes collecteurs de la participation des employeurs à l'effort de construction ;
+
+23° La garantie de l'Etat accordée au financement des régimes spécifiques de retraites versées aux personnels de chemins de fer secondaires d'intérêt général ou de voies ferrées d'intérêt local :
+
+le chemin de fer de La Mure et la ligne Lyon - Croix-Rousse, les pensions des anciens agents des chemins de fer d'Afrique du Nord et du Niger-Méditerranée, des transports urbains tunisiens et marocains et du chemin de fer franco-éthopien ;
+
+24° La garantie de l'Etat accordée au financement d'un complément de pensions aux conducteurs routiers, partis à la retraite à soixante ans, soit à l'issue de leur activité pour ce qui est notamment de certains salariés des transports routiers, soit à l'issue de leur congé de fin d'activité s'ils ont un nombre insuffisant de trimestres pour bénéficier d'une pension à taux plein du régime général ;
+
+25° La garantie de l'Etat accordée au financement du congé de fin d'activité des conducteurs routiers de marchandises géré par le Fonds national de gestion paritaire du congé de fin d'activité et au financement du congé de fin d'activité des conducteurs routiers de voyageurs géré par l'Association nationale de gestion paritaire du congé de fin d'activité ;
+
+26° Les engagements de garantie de l'Etat liés à l'exécution du contrat de concession pour le financement, la conception, la construction, l'entretien et l'exploitation du Grand Stade à Saint-Denis passé entre l'Etat et la société consortium Grand Stade SA (articles 3 et 39 du contrat de concession et annexes 7 et 9), figurant dans la loi n° 96-1077 du 11 décembre 1996 relative au contrat de concession du Stade de France à Saint-Denis (Seine-Saint-Denis) ;
+
+27° Les engagements de l'Etat pris dans le cadre du jugement rendu le 13 mars 1998 par le tribunal de grande instance de Paris, homologuant le plan de continuation de l'activité de la Fédération française des sports de glace ;
+
+28° La garantie de l'Etat accordée par le ministre chargé de l'économie dans le cadre des concessions accordées par l'Etat pour la construction, l'entretien et l'exploitation des aérodromes, conformément aux dispositions des cahiers des charges des concessions aéroportuaires établis en conformité avec le cahier des charges type approuvé par le décret n° 97-547 du 29 mai 1997 ;
+
+29° La garantie accordée par l'Etat, en application de la loi n° 53-80 du 7 février 1953 relative au développement des dépenses d'investissements pour l'exercice 1953 (équipement des services civils - investissements économiques et sociaux - réparation des dommages de guerre), aux emprunts de la Compagnie nationale d'aménagement de la région du Bas-Rhône et du Languedoc souscrits entre 1980 et 1994 ;
+
+30° La garantie accordée par l'Etat aux emprunts contractés par le Crédit foncier de France, en application de la loi n° 53-80 du 7 février 1953 précitée et des arrêtés des 1er avril 1982 et 27 juin 1985, et transférés à la Compagnie de financement foncier en application de l'article 110 de la loi n° 99-532 du 25 juin 1999 relative à l'épargne et à la sécurité financière ;
+
+31° La garantie accordée par l'Etat aux prêts participatifs technologiques octroyés par le Fonds industriel de modernisation en application de la loi n° 53-80 du 7 février 1953 précitée, et repris par la Caisse des dépôts et consignations en application de la convention du 23 août 1990 ;
+
+32° La garantie de l'Etat dont bénéficie la Caisse nationale des industries électriques et gazières dans le cadre de l'article 22 de la loi n° 2004-803 du 9 août 2004 relative au secteur public de l'électricité et du gaz et aux entreprises électriques et gazières, pour les périodes validées antérieures au 31 décembre 2004, pour le service des prestations d'assurance vieillesse des industries électriques et gazières ne relevant pas du champ des conventions financières avec le régime général de sécurité sociale et les fédérations d'institutions de retraite complémentaire. Cette garantie s'exerce après application des dispositions prévues au premier alinéa du IV de l'article 16 de la loi n° 2004-803 du 9 août 2004 précitée ;
+
+33° La garantie de l'Etat accordée pour couvrir les pertes de change subies par la Banque de France dans les conditions prévues par l'article L. 141-2 du code monétaire et financier telles que précisées par la convention du 31 mars 1999 entre l'Etat et la Banque de France.
 
 II. - Sont garanties par l'Etat, dans le cadre des engagements pris par lui, à raison de leurs interventions au titre de l'accord global de financement de la société Alstom :
 

@@ -52,7 +52,7 @@ L'Association pour le soutien du théâtre privé acquitte à la SACEM et à la 
 
 VII. - En cas de retard de paiement de la taxe, l'association adresse au redevable par courrier recommandé avec accusé de réception une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre de perception est établi par le dirigeant de l'association, visé par le contrôleur d'Etat et rendu exécutoire par le préfet du département du débiteur.
 
-Le recouvrement de ce titre est effectué par les comptables du Trésor selon les règles applicables en matière d'impôts directs. Ces comptables bénéficient pour le recouvrement de ce titre du privilège prévu au 1 de l'article 1920 du code général des impôts. Ils peuvent obtenir de l'administration des impôts communication des renseignements nécessaires au recouvrement de la taxe.
+Le recouvrement de ce titre est effectué par les comptables du Trésor selon les règles applicables en matière d'impôts directs. Ces comptables bénéficient pour le recouvrement de ce titre du privilège prévu au 1 de l'article 1920 du code général des impôts. Ils peuvent obtenir de l'administration des impôts communication des renseignements nécessaires au recouvrement de la taxe. Un prélèvement représentant les frais de perception est effectué au profit du budget général de l'Etat sur les sommes recouvrées par les comptables du Trésor. Son taux est fixé par arrêté du ministre chargé du budget dans la limite de 5 %.
 
 L'action en recouvrement se prescrit à l'issue du délai de quatre ans à compter du jour où le titre a été rendu exécutoire.
 

@@ -10,6 +10,8 @@ Il n'est pas exigible lorsque les sommes distribuées sont prélevées sur des b
 
 II. - Un décret fixe les modalités d'application du présent article. Il précise notamment les postes du bilan sur lesquels les répartitions doivent être imputées ainsi que l'ordre de cette imputation.
 
+II bis. - Les capacités de distribution en franchise de prélèvement s'entendent des capacités de distribution en franchise du précompte mentionné à l'article 223 sexies du code général des impôts dans sa rédaction applicable aux distributions mises en paiement jusqu'au 31 décembre 2004 restant disponibles après imputation fiscale de ces distributions.
+
 III. - Les dispositions du présent article ne sont pas applicables aux produits distribués :
 
 1° Par les sociétés immobilières d'investissement et les sociétés immobilières de gestion ;
@@ -42,7 +44,9 @@ V. - Le prélèvement prévu au présent article doit être versé au Trésor da
 
 VI. - Le prélèvement prévu au présent article n'est pas admis dans les charges déductibles pour l'établissement de l'impôt sur les sociétés. La créance visée à l'article 220 quinquies du code général des impôts et l'imposition forfaitaire annuelle mentionnée à l'article 223 septies du même code ne sont pas imputables sur ce prélèvement. Il en est de même des crédits d'impôt de toute nature, à l'exception des avoirs fiscaux et crédits d'impôt attachés aux produits des participations visées à l'article 145 du même code, encaissés au cours des exercices clos depuis cinq ans au plus.
 
-VII. - Le paiement du prélèvement prévu au présent article fait naître une créance d'égal montant. La constatation de cette créance n'est pas imposable. Elle peut être utilisée pour le paiement de l'impôt sur les sociétés dû au titre des trois exercices clos postérieurement au fait générateur du prélèvement. La fraction utilisable ne peut excéder au titre de chacun de ces exercices le tiers du montant de la créance initialement constatée. L'excédent non imputé de chaque fraction est remboursé après liquidation de l'impôt sur les sociétés dû au titre de chacun des trois exercices clos postérieurement au fait générateur du prélèvement. La créance est inaliénable et incessible, sauf dans les conditions prévues par les articles L. 313-23 à L. 313-35 du code monétaire et financier.
+VII. - Le paiement du prélèvement prévu au présent article fait naître une créance d'égal montant. La constatation de cette créance n'est pas imposable. Elle peut être utilisée pour le paiement de l'impôt sur les sociétés dû au titre des trois exercices clos postérieurement au fait générateur du prélèvement. Cette créance n'est utilisable qu'à compter du 1er janvier 2006. La fraction utilisable ne peut excéder au titre de chacun de ces exercices le tiers du montant de la créance initialement constatée. L'excédent non imputé de chaque fraction est remboursé après liquidation de l'impôt sur les sociétés dû au titre de chacun des trois exercices clos postérieurement au fait générateur du prélèvement. La créance est inaliénable et incessible, sauf dans les conditions prévues par les articles L. 313-23 à L. 313-35 du code monétaire et financier.
+
+La créance ne comprend pas les avoirs fiscaux et crédits d'impôt attachés aux produits des participations visées à l'article 145 du code général des impôts imputés en application du VI sur le prélèvement de 25 % prévu au présent article.
 
 En cas de fusion, de scission ou d'opérations assimilées intervenant au cours des trois exercices clos postérieurement au fait générateur de la créance, la créance de la société absorbée, scindée ou apporteuse est transférée à la ou aux sociétés bénéficiaires des apports. Ce transfert est effectué pour sa valeur nominale. En cas de scission ou d'apport partiel d'actif, la créance est transmise au prorata du montant de l'actif net réel apporté à la ou aux sociétés bénéficiaires des apports apprécié à la date d'effet de l'opération.
 
