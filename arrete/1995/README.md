@@ -766,6 +766,8 @@
 - [Arrêté du 18 janvier 1995 (SANH9500288A)](arrete-du-18-janvier-1995-sanh9500288a)
 - [Arrêté du 18 juillet 1995 (ECOC9500105A)](arrete-du-18-juillet-1995-ecoc9500105a)
 - [Arrêté du 18 juillet 1995 (ECOX9500914A)](arrete-du-18-juillet-1995-ecox9500914a)
+- [Arrêté du 18 novembre 1995 (INTD9500684A)](arrete-du-18-novembre-1995-intd9500684a)
+- [Arrêté du 18 novembre 1995 (INTD9500685A)](arrete-du-18-novembre-1995-intd9500685a)
 - [Arrêté du 18 octobre 1994 (EQUS9401767A)](arrete-du-18-octobre-1994-equs9401767a)
 - [Arrêté du 18 septembre 1995 (AGRG9501910A)](arrete-du-18-septembre-1995-agrg9501910a)
 - [Arrêté du 18 septembre 1995 (AGRP9501953A)](arrete-du-18-septembre-1995-agrp9501953a)
