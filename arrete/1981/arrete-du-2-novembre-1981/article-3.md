@@ -1,9 +1,9 @@
 # Article 3
 
-A compter également du 1er novembre 1981, le montant du minimum garanti prévu par l'article L. 141-8 du code du travail est fixé à :
+Les obligations des deux séries A et B seront émises avec jouissance du 1er février 1982 et rapporteront un intérêt annuel payable à terme échu le 1er février de chaque année, au taux de :
 
-10,13 F en métropole et dans le département de Saint-Pierre-et-Miquelon ;
+- 17 p. 100 pour les obligations de la série A (deux obligations) ;
 
-8,62 F dans les départements de la Guadeloupe, de la Guyane et de la Martinique ;
+- 17,40 p. 100 pour les obligations de la série B (une obligation).
 
-7,08 F dans le département de la Réunion.
+Le premier coupon pour l'une et l'autre série sera payable  *date* le 1er février 1983.

@@ -1,13 +1,5 @@
 # Article 2
 
-En conséquence, pour les catégories de travailleurs intéressés par l'article L. 131-1 du code du travail, le salaire minimum de croissance applicable en métropole et dans les départements d'outre-mer s'établira, à compter de cette date, dans les conditions ci-après :
+Les emprunts émis avec le concours de la caisse d'aide à l'équipement des collectivités locales par les départements, communes et leurs groupements, territoires d'outre-mer, régions, chambres de commerce et d'industrie, chambres de métiers, ports autonomes, établissements publics gestionnaires d'aéroports et organismes bénéficiant de la garantie de ces collectivités ou établissements dans les conditions prévues par les articles L. 236-10 à L. 236-12 et R. 236-10 à 236-47 du code des communes seront représentés par des obligations d'une valeur nominale de 2.000 F dénommées Obligations Villes de France série A 17 p. 100 février 1982 et série B 17,40 p. 100 février 1982.
 
-En métropole, son montant sera porté à 17,76 F de l'heure.
-
-Dans les départements d'outre-mer, les salaires individuels ne pourront être inférieurs à :
-
-17,76 F de l'heure dans le département de            Saint-Pierre-et-Miquelon ;
-
-580,59 F par semaine pour quarante heures de travail effectif            dans les départements de la Guadeloupe, de la Guyane et            de la Martinique, et, dans le département de la Réunion :
-
-541,72 F par semaine pour quarante heures de travail effectif            dans les professions autres que les professions agricoles            rémunérées à la tâche ; et, pour ce qui concerne,            ces dernières, un certain nombre de tâches, telles            qu'elles sont définies par arrêté des ministres chargés            respectivement de l'agriculture, du travail et des            départements d'outre-mer, pris sur proposition du préfet            après consultation des organisations professionnelles            d'employeurs et de salariés intéressées.
+L'émission des deux séries A et B est liée. La souscription de deux titres de série A représentés par deux obligations d'une valeur nominale de 2.000 F chacune au taux de 17 p. 100 implique la souscription d'un titre de série B représenté par une obligation d'une valeur nominale de 2.000 F au taux de 17,40 p. 100, le minimum de chaque souscription étant de 6.000 F nominal.
