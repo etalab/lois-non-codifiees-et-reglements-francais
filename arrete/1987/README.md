@@ -182,7 +182,6 @@
 - [Arrêté du 9 décembre 1987 (BUDR8703143A)](arrete-du-9-decembre-1987-budr8703143a)
 - [Arrêté du 9 décembre 1987 (ECOP8700517A)](arrete-du-9-decembre-1987-ecop8700517a)
 - [Arrêté du 9 février 1987 (JUSC8720101A)](arrete-du-9-fevrier-1987-jusc8720101a)
-- [Arrêté du 9 février 1987 (TRSA8700049A)](arrete-du-9-fevrier-1987-trsa8700049a)
 - [Arrêté du 9 janvier 1987 (ECOT8730002A)](arrete-du-9-janvier-1987-ecot8730002a)
 - [Arrêté du 9 janvier 1987 (INDD8700017A)](arrete-du-9-janvier-1987-indd8700017a)
 - [Arrêté du 9 juillet 1987 (ASEE8703519A)](arrete-du-9-juillet-1987-asee8703519a)
