@@ -1,6 +1,6 @@
 # Article 11
 
-La commission paritaire nationale se réunit une fois au minimum par trimestre civil [*périodicité*] au siège de la caisse nationale de l'assurance maladie des travailleurs salariés ou en tout autre lieu qu'elle choisit.
+La commission paritaire nationale se réunit une fois au minimum par trimestre civil au siège de la caisse nationale de l'assurance maladie des travailleurs salariés ou en tout autre lieu qu'elle choisit.
 
 Des réunions supplémentaires peuvent avoir lieu à la demande de l'un ou l'autre des groupes.
 

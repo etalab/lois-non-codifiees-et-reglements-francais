@@ -1,6 +1,6 @@
 # Article 4
 
-La commission paritaire régionale se réunit une fois au minimum par trimestre civil [*périodicité*], au siège de la caisse régionale d'assurance maladie ou en tout autre lieu qu'elle choisit.
+La commission paritaire régionale se réunit une fois au minimum par trimestre civil, au siège de la caisse régionale d'assurance maladie ou en tout autre lieu qu'elle choisit.
 
 Des réunions supplémentaires peuvent avoir lieu à la demande de l'un ou l'autre des groupes.
 
