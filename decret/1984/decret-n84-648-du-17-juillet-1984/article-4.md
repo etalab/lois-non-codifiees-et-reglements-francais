@@ -1,6 +1,6 @@
 # Article 4
 
-Les rémunérations versées aux stagiaires Jeunes volontaires sont égales à 1.580,40 F [*montant*]. S'ajoute à cette rémunération une indemnité forfaitaire égale à 987,75 F destinée à couvrir les frais annexes, et notamment les dépenses de transport et d'hébergement exposées par les jeunes volontaires.
+Les rémunérations versées aux stagiaires Jeunes volontaires sont égales à 1.662,00 F. S'ajoute à cette rémunération une indemnité forfaitaire égale à 1.038,75 F destinée à couvrir les frais annexes et notamment les dépenses de transport et d'hébergement exposées par les Jeunes volontaires.
 
 Ces montants sont applicables en France métropolitaine et à Saint-Pierre-et-Miquelon.
 
