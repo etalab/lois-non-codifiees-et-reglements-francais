@@ -4,4 +4,5 @@
 - [Article 1 BIS](article-1-bis.md)
 - [Article 1 TER](article-1-ter.md)
 - [Article 1 QUATER](article-1-quater.md)
+- [Article 1 QUINQUIES](article-1-quinquies.md)
 - [Article 2](article-2.md)

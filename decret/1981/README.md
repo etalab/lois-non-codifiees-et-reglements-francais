@@ -24,6 +24,7 @@
 - [Décret n°81-758 du 3 août 1981](decret-n81-758-du-3-aout-1981)
 - [Décret n°81-102 du 4 février 1981](decret-n81-102-du-4-fevrier-1981)
 - [Décret n°81-113 du 4 février 1981](decret-n81-113-du-4-fevrier-1981)
+- [Décret n°81-777 du 4 août 1981](decret-n81-777-du-4-aout-1981)
 - [Décret n°81-436 du 4 mai 1981](decret-n81-436-du-4-mai-1981)
 - [Décret n°80-984 du 5 décembre 1980](decret-n80-984-du-5-decembre-1980)
 - [Décret n°81-648 du 5 juin 1981](decret-n81-648-du-5-juin-1981)
