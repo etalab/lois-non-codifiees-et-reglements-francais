@@ -51,3 +51,23 @@ Surmatelas d'aide à la prévention d'escarres.
 Table d'examen.
 
 Thermomètres électroniques.
+
+Appareil à aérosol.
+
+Appareil de mesure pour glycémie.
+
+Appareil pour rééducation sphinctérienne.
+
+Containers pour stockage des déchets médicaux.
+
+Fauteuil roulant à pousser non affecté à un résident particulier.
+
+Fauteuil roulant manuel non affecté à un résident particulier.
+
+Nutripompe.
+
+Système actif de perfusion.
+
+Soulève-malade.
+
+Verticalisateur.
