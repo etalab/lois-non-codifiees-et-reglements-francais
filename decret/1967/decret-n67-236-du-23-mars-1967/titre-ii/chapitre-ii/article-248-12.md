@@ -1,6 +1,6 @@
 # Article 248-12
 
-Outre les informations prévues par les articles 357-4, 357-8, 357-9 de la loi sur les sociétés commerciales et par les articles 248-2, 248-3, 248-6 et 248-8 du présent décret, l'annexe doit comporter toutes les informations d'importance significative permettant aux lecteurs d'avoir une juste appréciation du patrimoine, de la situation financière et du résultat de l'ensemble constitué par les entreprises comprises dans la consolidation. Ces informations portent notamment sur les points suivants :
+Outre les informations prévues par les articles L. 233-19, L. 233-23, L. 233-25 du code de commerce et par les articles 248-2, 248-3, 248-6 et 248-8 du présent décret, l'annexe doit comporter toutes les informations d'importance significative permettant aux lecteurs d'avoir une juste appréciation du patrimoine, de la situation financière et du résultat de l'ensemble constitué par les entreprises comprises dans la consolidation. Ces informations portent notamment sur les points suivants :
 
 1° Les principes comptables et les méthodes d'évaluation appliqués aux divers postes du bilan et du compte de résultat consolidés, en précisant celles de ces méthodes qui ont été retenues en application de l'article 248-8 ci-dessus ;
 
@@ -12,7 +12,7 @@ Outre les informations prévues par les articles 357-4, 357-8, 357-9 de la loi s
 
 5° Le nom, le siège et, pour les entreprises françaises, le numéro S.I.R.E.N. des entreprises consolidées par intégration globale ainsi que la fraction du capital détenue directement ou indirectement ;
 
-6° Le nom, le siège et, pour les entreprises françaises, le numéro S.I.R.E.N. des entreprises consolidées par mise en équivalence ainsi que la fraction du capital détenue directement ou indirectement et, lorsque certaines entreprises contrôlées sont, en application des dispositions de l'article 357-3 de la loi sur les sociétés commerciales, consolidées par mise en équivalence, l'indication et la justification de cette méthode de consolidation ;
+6° Le nom, le siège et, pour les entreprises françaises, le numéro S.I.R.E.N. des entreprises consolidées par mise en équivalence ainsi que la fraction du capital détenue directement ou indirectement et, lorsque certaines entreprises contrôlées sont, en application des dispositions de l'article L. 233-18 du code de commerce, consolidées par mise en équivalence, l'indication et la justification de cette méthode de consolidation ;
 
 7° Le nom, le siège et, pour les entreprises françaises, le numéro S.I.R.E.N. des entreprises consolidées par intégration proportionnelle ainsi que la fraction de capital détenue directement ou indirectement ;
 
@@ -22,7 +22,7 @@ Outre les informations prévues par les articles 357-4, 357-8, 357-9 de la loi s
 
 10° Le montant global des engagements financiers qui ne figurent pas au bilan consolidé, pris envers les tiers par l'ensemble des entreprises consolidées par intégration, le montant des engagements en matière de pensions et indemnités assimilées d'une part, le montant des engagements financiers à l'égard des entreprises liées au sens du 9° de l'article 24 du décret n° 83-1020 du 29 novembre 1983, mais non consolidées par intégration d'autre part, sont mentionnés distinctement ;
 
-11° Le montant des rémunérations allouées au titre de l'exercice aux membres des organes d'administration, de direction et de surveillance de la société consolidante, à raison de leurs fonctions dans les entreprises contrôlées au sens de l'article 357-1 de la loi sur les sociétés commerciales. Ces informations sont données de façon globale pour les membres de chacun de ces organes ; il en est de même du montant des engagements en matière de pensions et indemnités assimilées dont bénéficient les anciens membres de ces organes ;
+11° Le montant des rémunérations allouées au titre de l'exercice aux membres des organes d'administration, de direction et de surveillance de la société consolidante, à raison de leurs fonctions dans les entreprises contrôlées au sens de l'article L. 233-16 du code de commerce. Ces informations sont données de façon globale pour les membres de chacun de ces organes ; il en est de même du montant des engagements en matière de pensions et indemnités assimilées dont bénéficient les anciens membres de ces organes ;
 
 12° Le montant des avances et des crédits accordés aux membres des organes d'administration, de direction et de surveillance de la société consolidante par cette société et par les entreprises placées sous son contrôle avec l'indication des conditions consenties ; ce montant est indiqué de façon globale pour les membres de chacun de ces organes ;
 

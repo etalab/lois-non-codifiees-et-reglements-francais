@@ -1,6 +1,6 @@
 # Article 185-2
 
-Le registre des achats et des ventes tenu en application de l'article 217-4 de la loi sur les sociétés commerciales pour relater les opérations effectuées en application de l'article 217-1 de la même loi, indique séparément les opérations d'achat et les opérations de vente.
+Le registre des achats et des ventes tenu en application de l'article L. 225-211 du code de commerce pour relater les opérations effectuées en application de l'article L. 225-208 du même code, indique séparément les opérations d'achat et les opérations de vente.
 
 Pour chacune de ces opérations, le registre indique, dans l'ordre, les négociations réalisées :
 

@@ -1,6 +1,6 @@
 # Article 35
 
-Le rapport prévu à l'article 50, alinéa 1er, de la loi sur les sociétés commerciales contient :
+Le rapport prévu à l'article L. 223-19 du code de commerce contient :
 
 L'énumération des conventions soumises à l'approbation de l'assemblée des associés ;
 

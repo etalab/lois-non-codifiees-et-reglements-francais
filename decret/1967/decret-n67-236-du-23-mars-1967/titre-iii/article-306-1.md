@@ -1,8 +1,8 @@
 # Article 306-1
 
-Pour assurer la publicité de l'acte modifiant les statuts aux fins de leur mise en harmonie avec la loi du 24 juillet 1966 sur les sociétés commerciales et le présent décret, ces sociétés doivent successivement :
+Pour assurer la publicité de l'acte modifiant les statuts aux fins de leur mise en harmonie avec le code de commerce et le présent décret, ces sociétés doivent successivement :
 
-1° Déposer cet acte au greffe du tribunal de commerce, dans le délai de un mois à compter de sa date, sans être tenues d'y joindre la déclaration prévue à l'article 6 de la loi sur les sociétés commerciales ;
+1° Déposer cet acte au greffe du tribunal de commerce, dans le délai de un mois à compter de sa date, sans être tenues d'y joindre la déclaration prévue à l'article L. 210-7 du code de commerce ;
 
 2° Le cas échéant, faire publier, dans le département du lieu du siège social, selon les conditions et dans les délais prévus par la réglementation antérieure au présent décret, un extrait de l'acte modificatif contenant les mentions soumises à publication ;
 

@@ -2,7 +2,7 @@
 
 Seront punis de l'amende prévue pour les contraventions de la cinquième classe les présidents, les administrateurs, les directeurs généraux ou les gérants de sociétés qui auront émis des valeurs mobilières offertes au public :
 
-1° Sans que soit insérée au bulletin des annonces légales obligatoires, préalablement à toute mesure de publicité, une notice établie conformément à l'article 59 concernant l'émission d'actions lors de la constitution de la société, au troisième alinéa de l'article 156 concernant les augmentations de capital, aux articles 211, 212 et 242-3 concernant l'émission d'obligations ou de titres participatifs ;
+1° Sans que soit insérée au bulletin des annonces légales obligatoires, préalablement à toute mesure de publicité, une notice établie conformément à l'article 59 concernant l'émission d'actions lors de la constitution de la société, au dix-septième alinéa de l'article 156 concernant les augmentations de capital, aux articles 211, 212 et 242-3 concernant l'émission d'obligations ou de titres participatifs ;
 
 2° Sans que les prospectus et circulaires reproduisent les énonciations de la notice prévue au 1° ci-dessus, et contiennent la mention de l'insertion de cette notice au bulletin des annonces légales obligatoires avec référence au numéro dans lequel elle a été publiée ;
 

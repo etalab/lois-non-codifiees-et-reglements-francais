@@ -1,6 +1,6 @@
 # Article 159
 
-La notice visée à l'article 156, alinéa 3, contient les indications suivantes :
+La notice visée au dix-septième alinéa de l'article 156 contient les indications suivantes :
 
 1° L'objet social, indiqué sommairement ;
 

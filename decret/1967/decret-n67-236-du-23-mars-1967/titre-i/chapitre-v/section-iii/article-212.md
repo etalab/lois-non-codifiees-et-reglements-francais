@@ -8,6 +8,6 @@ Sont annexés à la notice visée à l'article précédent :
 
 3° Des renseignements sur la marche des affaires sociales depuis le début de l'exercice en cours et, le cas échéant, sur le précédent exercice si l'assemblée générale ordinaire appelée à statuer sur les comptes n'a pas encore été réunie.
 
-En cas d'application des dispositions de l'article 285, alinéa 2 de la loi sur les sociétés commerciales, et si aucun bilan n'a encore été établi, la notice en fait mention.
+En cas d'application des dispositions de l'article L. 228-39 du code de commerce, et si aucun bilan n'a encore été établi, la notice en fait mention.
 
 Les annexes prévues aux 1° et 2° ci-dessus peuvent être remplacées, selon le cas, par la référence de la publicité au Bulletin des annonces légales obligatoires du dernier bilan ou d'une situation provisoire du bilan arrêtée à une date antérieure de dix mois au plus à celle de l'émission, lorsque ce bilan ou cette situation a déjà été publiée.

@@ -4,7 +4,7 @@ Toute société par actions participant à une opération de fusion ou de scissi
 
 1° Le projet de fusion ou de scission ;
 
-2° Les rapports mentionnés aux articles 376 et 377 de la loi sur les sociétés commerciales ;
+2° Les rapports mentionnés aux articles L. 236-9 et L. 236-10 du code de commerce ;
 
 3° Les comptes annuels approuvés par les assemblées générales ainsi que les rapports de gestion des trois derniers exercices des sociétés participant à l'opération ;
 
@@ -14,4 +14,4 @@ Pour l'application du 3° ci-dessus, si l'opération doit être décidée avant 
 
 Tout actionnaire peut obtenir sur simple demande et sans frais copie totale ou partielle des documents susvisés.
 
-En outre, toute société à responsabilité limitée à laquelle l'article 377 de la loi sur les sociétés commerciales est applicable doit mettre à la disposition de ses associés, dans les conditions susvisées, le rapport prévu audit article. En cas de consultation par écrit, ce rapport est adressé aux associés avec le projet de résolution qui leur est soumis.
+En outre, toute société à responsabilité limitée à laquelle l'article L. 236-10 du code de commerce est applicable doit mettre à la disposition de ses associés, dans les conditions susvisées, le rapport prévu audit article. En cas de consultation par écrit, ce rapport est adressé aux associés avec le projet de résolution qui leur est soumis.

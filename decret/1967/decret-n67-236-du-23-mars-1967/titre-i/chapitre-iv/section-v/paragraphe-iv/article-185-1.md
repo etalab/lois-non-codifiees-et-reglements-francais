@@ -1,6 +1,6 @@
 # Article 185-1
 
-Le registre des achats tenu en application de l'article 217-4 de la loi sur les sociétés commerciales pour relater les opérations effectuées en application de l'article 217-1 de la même loi indique dans l'ordre des négociations réalisées :
+Le registre des achats tenu en application de l'article L. 225-211 du code de commerce pour relater les opérations effectuées en application de l'article L. 225-208 du même code indique dans l'ordre des négociations réalisées :
 
 1° La date de chaque opération ;
 

@@ -30,4 +30,4 @@ e) Les sociétés mentionnées aux articles 294 à 298 adressent également aux 
 
 7° S'il s'agit d'une assemblée générale ordinaire prévue à l'article 157-1 de la loi sur les sociétés commerciales, le rapport des commissaires visés audit article ;
 
-8° S'il s'agit d'une assemblée générale extraordinaire, le rapport des commissaires aux comptes qui sera, le cas échéant, présenté à l'assemblée.
+8° S'il s'agit d'une assemblée générale extraordinaire ou une assemblée spéciale prévue à l'article L. 225-99 du code de commerce, le rapport des commissaires aux comptes qui sera, le cas échéant, présenté à l'assemblée.

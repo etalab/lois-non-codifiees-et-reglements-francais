@@ -1,6 +1,6 @@
 # Article 59
 
-La notice prévue par l'article 74, alinéa 2, de la loi sur les sociétés commerciales est publiée au Bulletin des annonces légales obligatoires, avant le début des opérations de souscription et préalablement à toute mesure de publicité.
+La notice prévue par l'article L. 225-2 du code de commerce est publiée au Bulletin des annonces légales obligatoires, avant le début des opérations de souscription et préalablement à toute mesure de publicité.
 
 Elle contient les indications suivantes :
 

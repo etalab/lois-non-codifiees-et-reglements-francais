@@ -1,5 +1,5 @@
 # Article 231
 
-En application des dispositions de l'article 318, alinéa 1er, de la loi sur les sociétés commerciales, l'obligataire a le droit, pendant le délai de quinze jours qui précède la réunion de l'assemblée générale de la masse à laquelle il appartient, de prendre par lui-même ou par mandataire, au siège de la société débitrice, au lieu de la direction administrative ou, le cas échéant, en tout autre lieu fixé par la convocation, connaissance ou copie du texte des résolutions qui seront proposées et des rapports qui seront présentés à l'assemblée générale.
+En application des dispositions de l'article L. 228-69 du code de commerce, l'obligataire a le droit, pendant le délai de quinze jours qui précède la réunion de l'assemblée générale de la masse à laquelle il appartient, de prendre par lui-même ou par mandataire, au siège de la société débitrice, au lieu de la direction administrative ou, le cas échéant, en tout autre lieu fixé par la convocation, connaissance ou copie du texte des résolutions qui seront proposées et des rapports qui seront présentés à l'assemblée générale.
 
 Le droit pour tout obligataire de prendre connaissance ou copie des procès-verbaux et feuilles de présence des assemblées générales de la masse à laquelle il appartient s'exerce au lieu de dépôt choisi par l'assemblée.

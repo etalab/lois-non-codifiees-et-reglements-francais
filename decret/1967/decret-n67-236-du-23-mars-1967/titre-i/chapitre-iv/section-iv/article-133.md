@@ -10,9 +10,9 @@ A toute formule de procuration adressée aux actionnaires, le cas échéant par 
 
 4° Une formule de demande d'envoi des documents et renseignements visés à l'article 135, informant l'actionnaire qu'il peut demander à bénéficier des dispositions de l'article 138, alinéa 3.
 
-5° Un formulaire de vote par correspondance comportant le rappel des dispositions de l'article 161-1 de la loi sur les sociétés commerciales.
+5° Un formulaire de vote par correspondance comportant le rappel des dispositions de l'article L. 225-107 du code de commerce.
 
-6° Le rappel de manière très apparente des dispositions de l'article 161, alinéa 4, de la loi sur les sociétés commerciales.
+6° Le rappel de manière très apparente des dispositions de l'article L. 225-106 du code de commerce.
 
 7° L'indication que l'actionnaire, à défaut d'assister personnellement à l'assemblée, peut choisir entre l'une des trois formules suivantes :
 

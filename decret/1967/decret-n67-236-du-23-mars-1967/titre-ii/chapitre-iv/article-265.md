@@ -1,6 +1,6 @@
 # Article 265
 
-La déclaration prévue à l'article 374 de la loi sur les sociétés commerciales est déposée avec la demande d'inscription modificative au registre du commerce et des sociétés du siège de l'une des sociétés bénéficiaires.
+La déclaration prévue à l'article L. 236-6 du code de commerce est déposée avec la demande d'inscription modificative au registre du commerce et des sociétés du siège de l'une des sociétés bénéficiaires.
 
 Elle est signée par au moins un membre du directoire, administrateur ou gérant de chacune des sociétés participantes ayant reçu mandat à cet effet.
 

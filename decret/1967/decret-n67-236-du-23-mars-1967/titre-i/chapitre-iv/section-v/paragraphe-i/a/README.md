@@ -1,6 +1,5 @@
 # a) Dispositions applicables aux catégories de titres en voie d'extinction.
 
-- [Article 169-1](article-169-1.md)
 - [Article 169-2](article-169-2.md)
 - [Article 169-3](article-169-3.md)
 - [Article 169-4](article-169-4.md)

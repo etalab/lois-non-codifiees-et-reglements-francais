@@ -1,3 +1,3 @@
 # Article 252
 
-Les mises en demeure prévues par les articles 365, alinéa 1er, et 366 de la loi sur les sociétés commerciales sont faites par acte extrajudiciaire ou par lettre recommandée avec demande d'avis de réception.
+Les mises en demeure prévues par les articles L. 235-6 et L. 235-7 du code de commerce sont faites par acte extrajudiciaire ou par lettre recommandée avec demande d'avis de réception.

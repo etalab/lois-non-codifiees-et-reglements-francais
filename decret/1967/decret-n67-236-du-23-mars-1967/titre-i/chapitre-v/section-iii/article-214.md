@@ -34,4 +34,4 @@ Les titres d'emprunt obligataire remis aux souscripteurs contiennent les indicat
 
 16° Le tableau d'amortissement de l'emprunt.
 
-L'indication prévue au 12° ci-dessus n'est pas exigée lorsque les titres d'emprunt bénéficient de la garantie de l'Etat, de départements, de communes ou d'établissements publics, ni lorsqu'ils sont émis par le crédit foncier de France ou la société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
+L'indication prévue au 12° ci-dessus n'est pas exigée lorsque les titres d'emprunt bénéficient de la garantie de l'Etat, de départements, de communes ou d'établissements publics, ni lorsqu'ils sont émis par le crédit foncier de France ou la société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article L. 233-3 du code de commerce.

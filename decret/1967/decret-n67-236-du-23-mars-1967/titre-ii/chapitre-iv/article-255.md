@@ -14,6 +14,6 @@ Cet avis contient les indications suivantes :
 
 5° Le montant prévu de la prime de fusion ou de scission ;
 
-6° La date du projet ainsi que les date et lieu des dépôts prescrits par l'article 374, alinéa 1, de la loi sur les sociétés commerciales.
+6° La date du projet ainsi que les date et lieu des dépôts prescrits par l'article L. 236-6 alinéa 1er du code de commerce.
 
-Le dépôt au greffe prévu à l'article 374 de la loi sur les sociétés commerciales et la publicité prévue au présent article doivent avoir lieu un mois au moins avant la date de la première assemblée générale appelée à statuer sur l'opération.
+Le dépôt au greffe prévu à l'article L. 236-6 du code de commerce et la publicité prévue au présent article doivent avoir lieu un mois au moins avant la date de la première assemblée générale appelée à statuer sur l'opération.

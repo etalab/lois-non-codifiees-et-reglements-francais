@@ -1,8 +1,8 @@
 # Article 256
 
-Le rapport du conseil d'administration ou du directoire prévu à l'article 376 de la loi sur les sociétés commerciales explique et justifie le projet de manière détaillée, du point de vue juridique et économique, notamment en ce qui concerne le rapport d'échange des actions et les méthodes d'évaluation utilisées, qui doivent être concordantes pour les sociétés concernées ainsi que, le cas échéant, les difficultés particulières d'évaluation.
+Le rapport du conseil d'administration ou du directoire prévu à l'article L. 236-9 du code de commerce explique et justifie le projet de manière détaillée, du point de vue juridique et économique, notamment en ce qui concerne le rapport d'échange des actions et les méthodes d'évaluation utilisées, qui doivent être concordantes pour les sociétés concernées ainsi que, le cas échéant, les difficultés particulières d'évaluation.
 
-En cas de scission, pour les sociétés bénéficiaires du transfert de patrimoine, il mentionne également l'établissement du rapport prévu à l'article 193 de la même loi et indique qu'il sera déposé au greffe du tribunal de commerce du siège de ces sociétés.
+En cas de scission, pour les sociétés bénéficiaires du transfert de patrimoine, il mentionne également l'établissement du rapport prévu à l'article L. 225-147 du même code et indique qu'il sera déposé au greffe du tribunal de commerce du siège de ces sociétés.
 
 La publicité de l'offre d'acquisition des certificats d'investissement est faite conformément aux dispositions de l'article 181 du présent décret.
 

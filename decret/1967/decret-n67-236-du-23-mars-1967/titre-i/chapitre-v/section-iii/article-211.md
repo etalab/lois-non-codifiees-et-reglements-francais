@@ -1,6 +1,6 @@
 # Article 211
 
-La notice prévue à l'article 289 de la loi sur les sociétés commerciales est insérée au bulletin des annonces légales obligatoires avant le début des opérations de souscription et préalablement à toute mesure de publicité.
+La notice prévue à l'article L. 228-43 du code de commerce est insérée au bulletin des annonces légales obligatoires avant le début des opérations de souscription et préalablement à toute mesure de publicité.
 
 Elle contient les indications suivantes :
 

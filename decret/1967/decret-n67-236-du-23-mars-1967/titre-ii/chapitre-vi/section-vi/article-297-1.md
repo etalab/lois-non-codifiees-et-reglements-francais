@@ -1,6 +1,6 @@
 # Article 297-1
 
-Dans les quatre mois qui suivent la fin du premier semestre de l'exercice, les sociétés mentionnées à l'article 294 publient au bulletin des annonces légales obligatoires un tableau d'activité et de résultats du semestre écoulé et le rapport prévu au troisième alinéa de l'article 341-1 de la loi sur les sociétés commerciales.
+Dans les quatre mois qui suivent la fin du premier semestre de l'exercice, les sociétés mentionnées à l'article 294 publient au bulletin des annonces légales obligatoires un tableau d'activité et de résultats du semestre écoulé et le rapport prévu au troisième alinéa de l'article L. 232-7 du code de commerce.
 
 Le tableau indique notamment le montant net du chiffre d'affaires et le résultat courant avant impôt établi sur la base des éléments prévus aux articles 14 à 16 du décret n° 83-1020 du 29 novembre 1983 relatif aux obligations comptables des commerçants et de certaines sociétés. Chacun des postes du tableau comporte l'indication du chiffre relatif au poste correspondant de l'exercice précédent et du premier semestre de cet exercice. L'adaptation de ce tableau ou la modification de la période à laquelle il s'applique peut être autorisée par l'Autorité des marchés financiers pour tenir compte du caractère particulier de l'activité de certaines sociétés ou catégories de sociétés.
 
