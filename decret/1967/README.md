@@ -29,6 +29,8 @@
 - [Décret n°67-78 du 27 janvier 1967](decret-n67-78-du-27-janvier-1967)
 - [Décret n°66-1032 du 29 décembre 1966](decret-n66-1032-du-29-decembre-1966)
 - [Décret n°66-1074 du 30 décembre 1966](decret-n66-1074-du-30-decembre-1966)
+- [Décret n°67-278 du 30 mars 1967](decret-n67-278-du-30-mars-1967)
+- [Décret n°67-279 du 30 mars 1967](decret-n67-279-du-30-mars-1967)
 - [Décret n°68-503 du 30 mai 1968](decret-n68-503-du-30-mai-1968)
 - [Décret n°66-1067 du 31 décembre 1966](decret-n66-1067-du-31-decembre-1966)
 - [Décret n°67-100 du 31 janvier 1967](decret-n67-100-du-31-janvier-1967)
