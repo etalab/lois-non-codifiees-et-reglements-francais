@@ -1,9 +1,9 @@
 # Article 4 ter
 
-Avant de rétrocéder les biens préemptés, la société d'aménagement foncier et d'établissement rural prend les mesures de publicité prévues à l'article 14 bis du décret du 14 juin 1961 modifié et notifie, par lettre recommandée avec demande d'avis de réception, sa décision de rétrocession dûment motivée aux rétrocessionnaires, à l'acquéreur évincé, aux candidats à l'attribution non retenus.
+Avant de rétrocéder les biens préemptés, la société d'aménagement foncier et d'établissement rural prend les mesures de publicité prévues à l'article 14 bis du décret du 14 juin 1961 modifié.
 
-Elle adresse au maire de la commune intéressée, en vue de son affichage en mairie, ladite décision qui comporte notamment l'identification cadastrale des biens concernés, les nom et qualités des rétrocessionnaires, la nature de l'opération réalisée, le prix de l'acquisition, sauf en cas de revision judiciaire.
+La décision de rétrocession est notifiée, par lettre recommandée avec demande d'avis de réception, aux rétrocessionnaires, à l'acquéreur évincé et aux candidats à l'attribution non retenus, avec indication des motifs ayant déterminé le choix qui a été fait.
 
-L'envoi de la décision au maire s'effectue dans le délai d'un mois à compter de la date à laquelle la même décision adoptée par la société est approuvée par les commissaires du Gouvernement.
+La décision comporte une désignation sommaire des biens concernés avec notamment le nom de la commune, celui du lieudit, la surface totale, les nom et qualités des rétrocessionnaires, la nature et la motivation de l'opération réalisée ainsi que ses conditions financières.
 
-Cette décision est également publiée en caractères apparents dans deux journaux régionaux diffusés dans le département intéressé.
+La décision de rétrocession fait, dans un délai d'un mois à compter du jour où elle est devenue définitive, l'objet des mesures de publicité prévues à l'article 14 bis du décret n° 61-10 du 14 juin 1961 modifié.
