@@ -17,6 +17,7 @@
 - [Décret n°77-905 du 8 août 1977](decret-n77-905-du-8-aout-1977)
 - [Décret n°77-906 du 8 août 1977](decret-n77-906-du-8-aout-1977)
 - [Décret n°76-405 du 10 mai 1976](decret-n76-405-du-10-mai-1976)
+- [Décret n°76-671 du 13 juillet 1976](decret-n76-671-du-13-juillet-1976)
 - [Décret n°76-351 du 15 avril 1976](decret-n76-351-du-15-avril-1976)
 - [Décret n°76-352 du 15 avril 1976](decret-n76-352-du-15-avril-1976)
 - [Décret n°76-359 du 15 avril 1976](decret-n76-359-du-15-avril-1976)
