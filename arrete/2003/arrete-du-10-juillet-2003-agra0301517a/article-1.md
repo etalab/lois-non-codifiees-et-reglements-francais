@@ -103,3 +103,11 @@ A compter du 6 novembre 2003
 Est ajouté à la liste des emplois de chef de mission l'emploi suivant :
 
 Gestionnaire administratif et financier de l'établissement public local d'Angoulême, chargé de fonctions de conseil et d'expertise auprès de l'autorité académique.
+
+A compter du 1er septembre 2004 :
+
+Ajouter les mentions :
+
+Chef du bureau Orient-Asie et financements à la direction des politiques économique et internationale ;
+
+Chef du bureau des moyens financiers et du contrôle de gestion à la direction générale de l'alimentation.

@@ -1,0 +1,3 @@
+# Article 13
+
+Les observations présentées devant la commission de recours du Conseil supérieur de la fonction publique de l'Etat par le requérant sont communiquées au président de France Télécom et en outre, si la sanction prononcée est une sanction du quatrième groupe, au ministre chargé des télécommunications. L'autorité ayant prononcé la sanction produit ses observations dans le délai prévu aux troisième et quatrième alinéas de l'article 24 du décret du 28 mai 1982 susvisé. Si la sanction a été prononcée par le ministre chargé des télécommunications, ses observations sont également communiquées au président de France Télécom.
