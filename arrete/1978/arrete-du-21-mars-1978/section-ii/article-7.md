@@ -38,7 +38,7 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :    TYPES      : A PARTIR DU :</td>
 </tr>
 <tr>
-<td> : DE LOGEMENTS  :  01/01/94   :</td>
+<td> : DE LOGEMENTS  :  01/01/95   :</td>
 </tr>
 <tr>
 <td> :               : (en francs) :</td>
@@ -47,38 +47,39 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :---------------:-------------:</td>
 </tr>
 <tr>
-<td> :  I et I'      :   197 470   :</td>
+<td> :  I et I'      :   200 430   :</td>
 </tr>
 <tr>
-<td> :  I bis        :   242 160   :</td>
+<td> :  I bis        :   245 790   :</td>
 </tr>
 <tr>
-<td> :  II           :   279 435   :</td>
+<td> :  II           :   283 625   :</td>
 </tr>
 <tr>
-<td> :  III          :   366 460   :</td>
+<td> :  III          :   371 955   :</td>
 </tr>
 <tr>
-<td> :  IV           :   458 305   :</td>
+<td> :  IV           :   465 180   :</td>
 </tr>
 <tr>
-<td> :  V            :   551 540   :</td>
+<td> :  V            :   559 815   :</td>
 </tr>
 <tr>
-<td> :  VI           :   644 830   :</td>
+<td> :  VI           :   654 500   :</td>
 </tr>
 <tr>
-<td> :  VII          :   738 155  :</td>
+<td> :  VII          :   749 225  :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-<tr>
-<td> 7.1.2. - Logements à usage familial (autres que logements destinés aux résidents) </td>
-</tr>
-<tr>
-<td> Bo Immeubles collectifs et maisons individuelles.</td>
-</tr>
+</table>
+
+7.1.2. - Logements à usage familial (autres que logements destinés aux résidents)
+
+Bo Immeubles collectifs et maisons individuelles.
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -86,7 +87,7 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :    TYPES      : A partir du :</td>
 </tr>
 <tr>
-<td> : DE LOGEMENTS  :  01/01/94   :</td>
+<td> : DE LOGEMENTS  :  01/01/95   :</td>
 </tr>
 <tr>
 <td> :               : (en francs) :</td>
@@ -95,28 +96,28 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :---------------:-------------:</td>
 </tr>
 <tr>
-<td> :  I            :   121 075   :</td>
+<td> :  I            :   122 890   :</td>
 </tr>
 <tr>
-<td> :  I bis        :   196 905   :</td>
+<td> :  I bis        :   199 860   :</td>
 </tr>
 <tr>
-<td> :  II           :   253 780   :</td>
+<td> :  II           :   257 585   :</td>
 </tr>
 <tr>
-<td> :  III          :   301 840   :</td>
+<td> :  III          :   306 370   :</td>
 </tr>
 <tr>
-<td> :  IV           :   347 215   :</td>
+<td> :  IV           :   352 425   :</td>
 </tr>
 <tr>
-<td> :  V            :   401 425   :</td>
+<td> :  V            :   407 445   :</td>
 </tr>
 <tr>
-<td> :  VI           :   441 415   :</td>
+<td> :  VI           :   448 035   :</td>
 </tr>
 <tr>
-<td> :  VII          :   495 635   :</td>
+<td> :  VII          :   503 070   :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -127,11 +128,11 @@ Bo Immeubles collectifs et maisons individuelles.
 
 VALEURS DE bo
 
-A partir du 1er juillet 1993
+A partir du 1er juillet 1995
 
-IMMEUBLES collectifs (en francs) : 3.650
+IMMEUBLES collectifs (en francs) : 3.705
 
-MAISONS individuelles (en francs) : 3.845.
+MAISONS individuelles (en francs) : 3.905.
 
 7.2. Coefficients de pondération du prix de référence de base Bâtiment et honoraires
 
@@ -168,20 +169,22 @@ VALEURS DES GARAGES
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  46.540 :</td>
+<td> : I       :  47.240 :</td>
 </tr>
 <tr>
-<td> : II      :  42.510 :</td>
+<td> : II      :  43.150 :</td>
 </tr>
 <tr>
-<td> : III     :  40.275 :</td>
+<td> : III     :  40.880 :</td>
 </tr>
 <tr>
 <td> :-------------------:</td>
 </tr>
-<tr>
-<td> (1) A partir du 1er janvier 1994 (en francs). Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.</td>
-</tr>
+</table>
+
+(1) A partir du 1er janvier 1995 (en francs). Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
+
+<table>
 <tr>
 <td> :-------------------:</td>
 </tr>
@@ -198,20 +201,20 @@ VALEURS DES GARAGES
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  32.800 :</td>
+<td> : I       :  33.290 :</td>
 </tr>
 <tr>
-<td> : II      :  29.815 :</td>
+<td> : II      :  30.260 :</td>
 </tr>
 <tr>
-<td> : III     :  28.350 :</td>
+<td> : III     :  28.775 :</td>
 </tr>
 <tr>
 <td> :-------------------:</td>
 </tr>
 </table>
 
-(1) A partir du 1er janvier 1994 (en francs). Le nombre d'emplacements de stationnement à prendre en compte est au plus égalau nombre total pondéré des logements.
+(1) A partir du 1er janvier 1995 (en francs). Le nombre d'emplacements de stationnement à prendre en compte est au plus égalau nombre total pondéré des logements.
 
 La pondération s'effectuera par application des coefficients suivants appliqués aux différents types des logements :
 

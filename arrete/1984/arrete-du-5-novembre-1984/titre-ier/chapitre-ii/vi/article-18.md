@@ -2,7 +2,7 @@
 
 Pour obtenir la délivrance d'une carte grise, l'acquéreur d'un véhicule en provenance des domaines doit fournir les pièces suivantes :
 
-A. - Véhicule conforme à un type réceptionné :
+A. - Véhicule conforme à un type ayant fait l'objet d'une réception nationale ou communautaire.
 
 1. Une " demande de certificat d'immatriculation " sur l'imprimé réglementaire ;
 
@@ -12,16 +12,16 @@ A. - Véhicule conforme à un type réceptionné :
 
 4. Les pièces justificatives de son identité et de son domicile (voir annexe VI).
 
-B. - Véhicule non conforme à un type réceptionné :
+B. - Véhicule non conforme à un type ayant fait l'objet d'une réception nationale ou communautaire.
 
 1. Les pièces désignées aux alinéas 1, 3 et 4 du paragraphe A ci-dessus ;
 
-2. Un procès-verbal de réception à titre isolé établi par le service des mines.
-
-C. - Véhicule déclaré impropre à la circulation, en son état :
+2. Un procès verbal de réception à titre isolé établi par la direction régionale de l'industrie, de la recherche et de l'environnement.    C. - Véhicule déclaré impropre à la circulation, en son état :
 
 Seul le certificat de vente précisant que le véhicule est impropre à la circulation est remis à l'acheteur par le service des domaines.
 
-Toutefois, si l'acquéreur veut remettre le véhicule en circulation après l'avoir reconstruit, il doit demander sa réception à titre isolé par le service des mines.
+Toutefois, si l'acquéreur veut remettre le véhicule en circulation après l'avoir reconstruit, il doit demander sa réception à titre isolé par la direction régionale de l'industrie, de la recherche et de l'environnement.
 
 Dans ce dernier cas, doivent être fournies en sus du procès-verbal de réception à titre isolé, les pièces prévues aux alinéas 1, 3 et 4, paragraphe A, du présent article.
+
+l'environnement.

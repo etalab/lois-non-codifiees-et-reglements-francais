@@ -10,7 +10,7 @@ Co et To représentent, pour l'ensemble de l'opération, la somme des prix co et
 
 VALEURS DE Co ET DE To
 
-A partir du 1er janvier 1994
+A partir du 1er janvier 1995
 
 <table>
 <tr>
@@ -35,41 +35,41 @@ A partir du 1er janvier 1994
 <td> :---------:-------------------:</td>
 </tr>
 <tr>
-<td> : I       :  66.600 :  32.895 :</td>
+<td> : I       :  67.600 :  33.090 :</td>
 </tr>
 <tr>
-<td> : I bis   : 114.750 :  56.660 :</td>
+<td> : I bis   : 116.470 :  57.510 :</td>
 </tr>
 <tr>
-<td> : II      : 151.170 :  74.615 :</td>
+<td> : II      : 153.440 :  75.735 :</td>
 </tr>
 <tr>
-<td> : III     : 190.055 :  93.830 :</td>
+<td> : III     : 192.905 :  95.235 :</td>
 </tr>
 <tr>
-<td> : IV      : 227.045 : 112.080 :</td>
+<td> : IV      : 230.450 : 113.760 :</td>
 </tr>
 <tr>
-<td> : V       : 267.395 : 131.990 :</td>
+<td> : V       : 271.405 : 133.970 :</td>
 </tr>
 <tr>
-<td> : VI      : 299.075 : 147.610 :</td>
+<td> : VI      : 303.560 : 149.825 :</td>
 </tr>
 <tr>
-<td> : VII     : 343.170 : 169.415 :</td>
+<td> : VII     : 348.320 : 171.955 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  36.525 :  18.025 :</td>
+<td> : suppl.  :  37.075 :  18.295 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -95,31 +95,31 @@ A partir du 1er janvier 1994
 <td> : I       :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : I bis   : 126.265 :  79.295 :</td>
+<td> : I bis   : 128.160 :  80.485 :</td>
 </tr>
 <tr>
-<td> : II      : 166.280 : 104.495 :</td>
+<td> : II      : 168.775 : 106.060 :</td>
 </tr>
 <tr>
-<td> : III     : 209.050 : 131.350 :</td>
+<td> : III     : 212.185 : 133.320 :</td>
 </tr>
 <tr>
-<td> : IV      : 249.755 : 156.965 :</td>
+<td> : IV      : 253.500 : 159.320 :</td>
 </tr>
 <tr>
-<td> : V       : 294.165 : 184.810 :</td>
+<td> : V       : 298.575 : 187.580 :</td>
 </tr>
 <tr>
-<td> : VI      : 328.955 : 206.710 :</td>
+<td> : VI      : 333.890 : 209.810 :</td>
 </tr>
 <tr>
-<td> : VII     : 377.490 : 237.165 :</td>
+<td> : VII     : 383.150 : 2240120 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  40.180 :  25.290 :</td>
+<td> : suppl.  :  40.785 :  25.670 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -185,21 +185,22 @@ Valeur des garages enterrés ou incorporés.
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  45.125 :</td>
+<td> : I       :  45.800 :</td>
 </tr>
 <tr>
-<td> : II      :  41.215 :</td>
+<td> : II      :  41.835 :</td>
 </tr>
 <tr>
-<td> : III     :  39.060 :</td>
+<td> : III     :  39.645 :</td>
 </tr>
 <tr>
 <td> :-------------------:</td>
 </tr>
-<tr>
-<td>
-<br/>   Valeur des garages construits en superstructure.</td>
-</tr>
+</table>
+
+Valeur des garages construits en superstructure.
+
+<table>
 <tr>
 <td> :-------------------:</td>
 </tr>
@@ -216,13 +217,45 @@ Valeur des garages enterrés ou incorporés.
 <td> :---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  31.800 :</td>
+<td> : I       :  32.275 :</td>
 </tr>
 <tr>
-<td> : II      :  28.900 :</td>
+<td> : II      :  29.335 :</td>
 </tr>
 <tr>
-<td> : III     :  27.485 :</td>
+<td> : III     :  27.895 :</td>
+</tr>
+<tr>
+<td> :--------------------</td>
+</tr>
+</table>
+
+Majoration relative au coût du relogement.
+
+<table>
+<tr>
+<td> :-------------------:</td>
+</tr>
+<tr>
+<td> : ZONES   : Valeurs :</td>
+</tr>
+<tr>
+<td> :   DE    :   en    :</td>
+</tr>
+<tr>
+<td> : PRIX    : Francs  :</td>
+</tr>
+<tr>
+<td> :---------:---------:</td>
+</tr>
+<tr>
+<td> : I       :  14.180 :</td>
+</tr>
+<tr>
+<td> : II      :  12.435 :</td>
+</tr>
+<tr>
+<td> : III     :  11.380 :</td>
 </tr>
 <tr>
 <td> :--------------------</td>
@@ -233,6 +266,8 @@ n1 est le nombre d'emplacements individuels de stationnement dans un garage coll
 
 n2 est le nombre d'emplacements individuels de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
 
-Le nombre d'emplacements de stationnements, n1 + n2, à prendre en compte est au plus égal au nombre de logements après travaux. Les aires de stationnement aménagées au sol ne sont pas à prendre en compte pour le calcul de G.
+Le nombre d'emplacements de stationnements, n1 + n2, à prendre en compte est au plus égal au nombre de logements après travaux. Les aires de stationnement aménagées au sol ne sont pas à prendre encompte pour le calcul de G.
 
-Pour les opérations de maisons individuelles ne disposant ni d'annexes ni de garages individuels, mais comportant des garages collectifs, le prix de référence peut être majoré comme indiqué ci-dessus pour les immeubles collectifs. G est nul dans les autres cas.
+Pour les opérations de maisons individuelles ne disposant ni d'annexes ni de garages individuels, mais comportant des garages collectifs, le prix de référence peut être majoré comme indiqué ci-dessus pour les immeubles collectifs.
+
+G est nul dans les autres cas.

@@ -8,6 +8,8 @@ dans cette formule :
 
 Cv et Tv représentent respectivement la somme, pour l'opération, des prix cv et tv fixés comme suit pour chaque logement :
 
+A compter du 1er janvier 1995.
+
 VALEURS DE Cv ET DE Tv
 
 <table>
@@ -33,34 +35,34 @@ VALEURS DE Cv ET DE Tv
 <td> :----------:-------------------:</td>
 </tr>
 <tr>
-<td> : I        :  81.460 :  37.450 :</td>
+<td> : I        :  82.680 :  38.010 :</td>
 </tr>
 <tr>
-<td> : I bis    : 140.335 :  64.445 :</td>
+<td> : I bis    : 142.440 :  65.410 :</td>
 </tr>
 <tr>
-<td> : II       : 184.870 :  84.935 :</td>
+<td> : II       : 187.645 :  86.210 :</td>
 </tr>
 <tr>
-<td> : III      : 232.395 : 106.795 :</td>
+<td> : III      : 235.880 : 108.395 :</td>
 </tr>
 <tr>
-<td> : IV       : 276.295 : 126.976 :</td>
+<td> : IV       : 280.440 : 128.880 :</td>
 </tr>
 <tr>
-<td> : V        : 323.825 : 148.795 :</td>
+<td> : V        : 328.680 : 151.025 :</td>
 </tr>
 <tr>
-<td> : VI       : 360.450 : 165.585 :</td>
+<td> : VI       : 365.855 : 168.070 :</td>
 </tr>
 <tr>
-<td> : VII      : 411.635 : 189.135 :</td>
+<td> : VII      : 417.810 : 191.970 :</td>
 </tr>
 <tr>
 <td> : Pièce    :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.   :  43.845 :  20.140 :</td>
+<td> : suppl.   :  44.505 :  20.440 :</td>
 </tr>
 <tr>
 <td> :------------------------------:</td>
@@ -93,31 +95,31 @@ VALEURS DE Cv ET DE Tv
 <td> : I        :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : I bis    : 154.390 :  90.260 :</td>
+<td> : I bis    : 156.705 :  91.615 :</td>
 </tr>
 <tr>
-<td> : II       : 203.305 : 118.935 :</td>
+<td> : II       : 206.355 : 120.720 :</td>
 </tr>
 <tr>
-<td> : III      : 255.640 : 149.485 :</td>
+<td> : III      : 259.475 : 151.725 :</td>
 </tr>
 <tr>
-<td> : IV       : 303.910 : 177.765 :</td>
+<td> : IV       : 308.470 : 180.430 :</td>
 </tr>
 <tr>
-<td> : V        : 356.225 : 208.320 :</td>
+<td> : V        : 361.570 : 211.445 :</td>
 </tr>
 <tr>
-<td> : VI       : 396.490 : 231.915 :</td>
+<td> : VI       : 402.435 : 235.395 :</td>
 </tr>
 <tr>
-<td> : VII      : 452.780 : 264.805 :</td>
+<td> : VII      : 459.570 : 268.775 :</td>
 </tr>
 <tr>
 <td> : Pièce    :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.   :  48.190 :  28.185 :</td>
+<td> : suppl.   :  48.915 :  28.610 :</td>
 </tr>
 <tr>
 <td> :------------------------------:</td>
@@ -149,13 +151,13 @@ Valeur des garages enterrés ou incorporés.
 <td> :----------:---------:</td>
 </tr>
 <tr>
-<td> : I        :  54.340 :</td>
+<td> : I        :  55.155 :</td>
 </tr>
 <tr>
-<td> : II       :  49.635 :</td>
+<td> : II       :  50.380 :</td>
 </tr>
 <tr>
-<td> : III      :  47.045 :</td>
+<td> : III      :  47.750 :</td>
 </tr>
 <tr>
 <td> :--------------------:</td>
@@ -181,13 +183,13 @@ Valeur des garages enterrés ou incorporés.
 <td> :----------:---------:</td>
 </tr>
 <tr>
-<td> : I        :  38.300 :</td>
+<td> : I        :  38.875 :</td>
 </tr>
 <tr>
-<td> : II       :  34.830 :</td>
+<td> : II       :  35.350 :</td>
 </tr>
 <tr>
-<td> : III      :  33.100 :</td>
+<td> : III      :  33.595 :</td>
 </tr>
 <tr>
 <td> :---------------------</td>

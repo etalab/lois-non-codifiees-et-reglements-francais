@@ -6,7 +6,7 @@ Les pièces à fournir par le propriétaire du véhicule sont :
 
 A. - En cas de transformation notable :
 
-1. Une " demande de certificat d'immatriculation " sur l'imprimé réglementaire ;
+1. Une " demande de certificat d'immatriculation sur l'imprimé réglementaire ;
 
 2. Le procès-verbal de réception à titre isolé du véhicule transformé ;
 
@@ -14,7 +14,7 @@ A. - En cas de transformation notable :
 
 B. - En cas de modification des caractéristiques concernant la carrosserie, le poids à vide, le P.T.A.C. ou le couple P.T.A.C./P.T.R.A. (pour les véhicules réceptionnés sous plusieurs poids) :
 
-1. Une " demande de certificat d'immatriculation " sur l'imprimé réglementaire ;
+1. Une " demande de certificat d'immatriculation sur l'imprimé réglementaire ;
 
 2. a) S'il y a modification de la carrosserie, un certificat de carrossage conforme à l'annexe VII de l'arrêté du 19 juillet 1954 relatif à la réception des véhicules, modifié notamment par l'arrêté du 29 juin 1983 (J.O. du 28 août 1983) ou un procès-verbal de réception à titre isolé délivré par le service des mines dans tous les autres cas ;
 
@@ -24,7 +24,7 @@ c) S'il y a modification du P.T.A.C. ou du couple P.T.A.C./P.T.R.A., un certific
 
 3. La carte grise ;
 
-4. Le cas échéant, le certificat de dédouanement si la carrosserie a été modifiée à l'étranger.
+4. Le cas échéant, le certificat de dédouanement 846 A si la carrosserie a été modifiée dans un pays tiers à l'Union européenne.
 
 C. - En cas de demande d'immatriculation d'un véhicule sous différentes dénominations de genre et/ou de carrosserie :
 
@@ -32,7 +32,7 @@ a) Pour les véhicules en circulation ayant fait l'objet d'une transformation no
 
 b) Pour les véhicules mis pour la première fois en circulation :
 
-1. Une " demande de certificat d'immatriculation " sur l'imprimé réglementaire accompagné des pièces justificatives de son identité et de son domicile (voir annexe VI) ;
+1. Une " demande de certificat d'immatriculation sur l'imprimé réglementaire accompagné des pièces justificatives de son identité et de son domicile (voir annexe VI) ;
 
 2. Le certificat de montage d'une carrosserie prévu à l'annexe VIII de l'arrêté du 19 juillet 1954 modifié :
 

@@ -78,39 +78,47 @@ Les pièces à fournir sont :
 
 1. Celles visées au paragraphe 10.A. - (I, II ou III) ci-dessus.
 
-2. [*supprimé*] 10.C. - Cas des véhicules immatriculés hors du
+2. [*supprimé*]
 
-territoire métropolitain
+a) Pour les véhicules précédemment immatriculés dans un Etat membre de l'Union européenne, les pièces à fournir par le propriétaire pour l'obtention d'une carte grise à son nom sont :
 
-(avec ou sans changement de propriétaire)
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives d'identité et de domicile ;
 
-a) Pour les véhicules précédemment immatriculés à l'étranger, les pièces à fournir sont :
-
-1. Une " demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de l'identité et du domicile du propriétaire du véhicule.
-
-2. Le certificat d'immatriculation ou, si celui-ci a été conservé par les autorités administratives du pays d'origine :
+2. Le certificat d'immatriculation ou, si celui-ci a été retiré par les autorités administratives du pays d'origine :
 
 - soit une pièce officielle prouvant l'origine de propriété du véhicule ou certifiant que le certificat d'immatriculation a été retiré ;
 
-- soit un " certificat international pour automobiles en cours de validité délivré par ces autorités.
+- soit un certificat international pour automobile en cours de validité délivré par ces autorités.
 
-3. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
+3. Un procès-verbal de réception à titre isolé délivré par la direction régionale de l'industrie, de la recherche et de l'environnement ;
 
-4.    Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise.
+4. S'il y a eu vente, le certificat de cession (ou la facture) établie au nom du demandeur de la carte grise ;
 
-5.  S'il y a eu vente, le certificat de cession.
+5. Un certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la C.E.E.
 
-b) Pour les véhicules précédemment immatriculés dans les départements et territoires d'outre-mer, les pièces à fournir sont :
+Cette pièce n'est pas à produire pour les véhicules visés au titre III du code de la route (Véhicules agricoles et forestiers, engins spéciaux) et pour les remorques et semi-remorques.
 
-1. Celles visées aux alinéas 1, 4 et 5 du paragraphe a ci-dessus.
+b) Pour les véhicules précédemment immatriculés dans un Etat tiers à l'Union européenne, les pièces à fournir sont :
 
-2. La carte grise.
+1. Celles visées aux alinéas 1, 2, 3 et 4 du paragraphe a ci-dessus ;
 
-3. Une attestation d'inscription ou de non-inscription de gage.
+2. Un certificat de dédouanement 846 A délivré par les services des douanes.
 
-4. Pour les véhicules provenant des territoires d'outre-mer, un procès-verbal de réception à titre isolé s'il ne peut être produit une attestation de l'administration territoriale concernée précisant que le véhicule a été à l'origine immatriculé au vu d'un certificat de conformité.
+c) Pour les véhicules précédemment immatriculés dans les départements ainsi que les territoires d'outre-mer et les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les pièces à fournir sont :
 
-5. Pour les véhicules provenant des territoires d'outre-mer, un procès-verbal de réception à titre isolé s'il ne peut être produit une attestation de l'administration territoriale concernée précisant que le véhicule a été à l'origine immatriculé au vu d'un certificat de conformité.
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives d'identité et de domicile ;
+
+2. Le certificat d'immatriculation ;
+
+3. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise ;
+
+4. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise ;
+
+5. Un certificat de dédouanement 846 A délivré par l'administration des douanes ;
+
+6. S'il y a eu vente, le certificat de cession (ou la facture) ;
+
+7. Pour les véhicules provenant des territoires d'outre-mer et des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, un procès-verbal de réception à titre isolé, s'il ne peut être produit une attestation de l'administration territoriale concernée précisant que le véhicule a été à l'origine immatriculé au vu d'un certificat de conformité national ou communautaire.
 
 10.D. - Cas des véhicules précédemment immatriculés dans la série spéciale FFA (Forces françaises en Allemagne) ou FZ (Forces françaises stationnées à Berlin)
 
@@ -180,14 +188,12 @@ L'acquéreur doit produire :
 
 3. Le certificat de cession établi par le titulaire du certificat d'immatriculation FFA ou FZ.
 
-10.E. - Cas des véhicules précédemment immatriculés
+10.E. - Cas des véhicules précédemment immatriculés dans une série TT ou IT ou diplomatique
 
-dans une série TT ou IT ou diplomatique
+L'acquéreur d'un véhicule précédemment immatriculé dans une série Transit Temporaire ou IT (cf. chapitre III du présent arrêté) ou diplomatique doit, pour obtenir une immatriculation dans une série normale, fournir les pièces suivantes :
 
-L'acquéreur d'un véhicule précédemment immatriculé dans une série TT, " IT (cf. chapitre III du présent titre) ou diplomatique doit, pour obtenir une immatriculation dans une série normale, fournir les pièces suivantes :
+1. Les mêmes pièces que celles visées à l'article 10 A ci-dessus à l'exception de l'attestation de gage ou de non-gage et du certificat de non-opposition ;
 
-1. Les mêmes que celles visées au paragraphe 10 (A) du présent article, à l'exception de l'attestation de gage ou de non-gage et du certificat de non-opposition.
+2. Un certificat de dédouanement 846 A délivré par l'administration des douanes.
 
-2. Un " certificat pour servir à l'immatriculation en France (certificat de dédouanement 846 A) délivré par l'administration des douanes ;
-
-3. Un procès-verbal de réception à titre isolé établi par le service des Mines si le véhicule immatriculé en série TT, " IT ou diplomatique n'était pas conforme à un type réceptionné en France. Dans ce cas, la mention " véhicule non conforme à un type reçu est portée sur la carte grise correspondante ainsi qu'il est précisé à l'article 27 ci-après.
+3. Un procès-verbal de réception à titre isolé établi par la direction régionale de l'industrie, de la recherche et de l'environnement, si le véhicule immatriculé en série Transit temporaire, IT ou diplomatique n'était pas conforme à un type ayant fait l'objet d'une réception nationale française ou d'une réception communautaire. Dans ce cas, la mention : "Véhicule non conforme à un type réceptionné" doit apparaître sur la carte grise correspondant à l'une de ces immatriculations ainsi qu'il est indiqué à l'article 27 ci-après.
