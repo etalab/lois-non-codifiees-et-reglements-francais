@@ -1,0 +1,5 @@
+# Article 1
+
+Peuvent être autorisées individuellement, par arrêté du ministre chargé de la santé, à exercer la profession de médecin ou de pharmacien dans les établissements publics de santé ou dans les établissements de santé privés participant au service public hospitalier, dans les conditions fixées par l'article 3 et l'article 4 de la loi du 4 février 1995 susvisée, les personnes qui ont exercé pendant une durée d'au moins trois ans, avant l'entrée en vigueur de ladite loi les fonctions d'assistant généraliste associé, d'assistant spécialiste associé des hôpitaux, d'attaché associé des hôpitaux publics, d'interne ou de faisant fonction d'interne dans les conditions fixées à l'article 2 ci-dessous.
+
+Ne peuvent être prises en compte que les périodes d'exercice effectif de ces fonctions se succédant, sans avoir été interrompues pendant une durée supérieure à trois mois, sinon pour un congé de maternité ou d'adoption d'une durée égale à celle prévue par la législation de la sécurité sociale, ou un congé rémunéré accordé dans le cas de maladie ou d'accident imputable au service.

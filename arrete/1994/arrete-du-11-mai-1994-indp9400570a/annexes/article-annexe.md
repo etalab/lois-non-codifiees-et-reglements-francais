@@ -14,11 +14,15 @@ Bandes de fréquences
 
 Le service fonctionne dans les bandes exclusives du service fixe par satellite, à savoir :
 
-- 12,5 - 12,75 GHz pour les liaisons descendantes ;
+12,5 - 12,75 GHz pour les liaisons descendantes ;
 
-- 14,0 - 14,25 GHz pour les liaisons montantes.
+14,0 - 14,25 GHz pour les liaisons montantes.
 
 Le cas échéant, le titulaire peut utiliser pour les liaisons descendantes la bande partagée 10,7 - 11,7 GHz. Cette autorisation ne confère à son titulaire aucune protection contre d'éventuelles perturbations radioélectriques dues à d'autres services fonctionnant dans la même bande de fréquences.
+
+Par dérogation à l'alinéa précédent, le titulaire est également autorisé à établir des liaisons montantes dans la bande partagée 14,25 - 14,50 GHz sur des sites précoordonnés dont la liste est définie par le directeur général des postes et télécommunications, sous réserve de respecter sur chacun de ces sites certaines spécifications techniques qu'il a établies.
+
+La liste des sites et les spécifications techniques mentionnées ci-dessus sont disponibles auprès du directeur général des postes et télécommunications.
 
 Secteur spatial
 

@@ -1,0 +1,3 @@
+# Article 36
+
+Les munitions à projectiles expansifs ainsi que ces projectiles, utilisés dans les armes de poing, et les armes rayées de la 7e catégorie ne peuvent être acquis et détenus, dans les conditions prévues par arrêté conjoint des ministres de la défense et de l'intérieur et des ministres chargés de l'industrie, des douanes et de la jeunesse et des sports pour le calibre des armes qu'ils détiennent, que par les chasseurs autorisés à utiliser ces armes à la chasse, par les tireurs régulièrement licenciés auprès d'une fédération sportive mentionnée au 2° de l'article 28 ci-dessus, et par les experts autorisés.

@@ -28,9 +28,9 @@ Des épreuves d'admissibilité :
 
 - psychologiques ;
 
-- orale de langue anglaise ;
+- orale de langue anglaise.
 
-Une évaluation en vol.
+Une évaluation en vol, uniquement pour les candidats de la filière U.
 
 La consistance et l'organisation générale des différentes épreuves sont définies dans une notice tenue à la disposition des candidats par la direction générale de l'aviation civile.
 

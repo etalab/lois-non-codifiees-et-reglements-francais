@@ -1,6 +1,7 @@
 # Décret n°62-1296 du 6 novembre 1962 portant règlement d'administration publique pour l'application de l'ordonnance du 25 novembre 1958 en ce qui concerne le stockage souterrain de gaz combustible
 
 - [Article 1](article-1.md)
+- [TITRE III bis : Travaux complémentaires d'exploitation du stockage impliquant des forages de puits.](titre-iii-bis)
 - [Article 38](article-38.md)
 - [Article 39](article-39.md)
 - [Article 40](article-40.md)

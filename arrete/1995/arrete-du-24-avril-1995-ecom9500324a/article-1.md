@@ -1,0 +1,3 @@
+# Article 1
+
+A titre expérimental, les candidats aux marchés publics remplissant leurs obligations fiscales en matière d'impôts sur le revenu, d'impôt sur les sociétés ou de T.V.A. dans l'un des départements visés à l'article 3 peuvent demander au trésorier-payeur général de ce département un document dénommé "état annuel des certificats reçus". Ce document, conforme au modèle fixé par l'administration, est remis après production par les candidats des certificats des administrations fiscales et sociales préalablement délivrés par les autorités compétentes conformément à l'arrêté du 4 mai 1994 susvisé. Il se substitue alors à ces certificats.

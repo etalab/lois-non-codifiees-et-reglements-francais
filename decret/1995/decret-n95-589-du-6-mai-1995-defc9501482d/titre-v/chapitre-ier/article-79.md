@@ -1,0 +1,3 @@
+# Article 79
+
+Sous réserve de dispositions particulières prises par arrêté conjoint du Premier ministre, des ministres de la défense, de l'intérieur, des affaires étrangères et du ministre chargé des douanes, les procédures de transfert en provenance ou à destination d'un Etat membre de la Communauté européenne définies par le présent titre dispensent de l'application des procédures d'autorisation d'importation mentionnées au présent décret et d'exportation visées au III de l'article 1er et aux articles 12 et 13 du décret du 18 avril 1939 susvisé lorsqu'elles concernent les armes et les éléments d'arme soit des paragraphes 1 à 3 de la 1re catégorie acquis à titre personnel, soit de la 4e catégorie ainsi que des munitions ou éléments de munition de ces armes.

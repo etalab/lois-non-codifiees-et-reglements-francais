@@ -11,3 +11,9 @@ Catégorie 3 : personnes sans emploi, immédiatement disponibles au sens de l'ar
 Catégorie 4 : personnes sans emploi, non immédiatement disponibles, à la recherche d'un emploi ;
 
 Catégorie 5 : personnes pourvues d'un emploi, à la recherche d'un autre emploi.
+
+Catégorie 6 : personnes non immédiatement disponibles au sens de l'article R. 311-3-3 (1°) à la recherche d'un autre emploi, à durée indéterminée à plein temps, tenues d'accomplir des actes positifs de recherche d'emploi ;
+
+Catégorie 7 : personnes non immédiatement disponibles au sens de l'article R. 311-3-3 (1°) à la recherche d'un autre emploi, à durée indéterminée à temps partiel, tenues d'accomplir des actes positifs de recherche d'emploi ;
+
+Catégorie 8 : personnes non immédiatement disponibles au sens de l'article R. 311-3-3 (1°) à la recherche d'un autre emploi, à durée déterminée, temporaire ou saisonnier, y compris de très courte durée, tenues d'accomplir des actes positifs de recherche d'emploi.

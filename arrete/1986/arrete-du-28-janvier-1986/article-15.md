@@ -1,3 +1,3 @@
 # Article 15
 
-Les avis sont pris à la majorité des suffrages, le président ayant voix prépondérante en cas de partage des voix.
+Les rapporteurs sont désignés le cas échéant au sein des personnalités qualifiées ou des membres de droit par le ministre chargé de la sécurité sociale.

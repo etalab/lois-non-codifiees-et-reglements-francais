@@ -4,4 +4,8 @@ Les catégories d'équipements terminaux de radiocommunications visés au paragr
 
 Installations des réseaux radioélectriques indépendants ;
 
-Terminaux radioélectriques mobiles, à l'exclusion des appareils portatifs.
+Terminaux de réseaux ouverts au public réservés aux données ;
+
+Terminaux radiomaritimes.
+
+La section Installateurs en radiocommunications de la commission d'admission précise parmi les types de terminaux radiomaritimes ceux qui sont raccordés, mis en service et entretenus par un installateur admis.

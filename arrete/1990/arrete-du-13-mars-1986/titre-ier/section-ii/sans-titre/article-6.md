@@ -2,139 +2,177 @@
 
 Le prix plafond de vente défini à l'article 5 ci-dessus est au plus égal au prix témoin de l'opération, calculé selon les valeurs ci-après.
 
-A compter du 15 février 1993.
+A compter du 15 février 1995.
 
 TYPES de logements : I
 
 IMMEUBLES COLLECTIFS (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 204.888
+- Guadeloupe, Martinique : 212.059
 
-- Réunion : 217.358
+- Guyane : 208.986
+
+- Réunion : 223.879
 
 TYPES de logements : I bis
 
+- Guadeloupe, Martinique : 355.718
+
+- Guyane : 350.563
+
+- Réunion : 375.545
+
 IMMEUBLES COLLECTIFS (en francs) :
-
-- Guadeloupe, Guyane, Martinique : 343.689
-
-- Réunion : 364.607
 
 TYPES de logements : 2
 
 IMMEUBLES COLLECTIFS (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 416.702
+- Guadeloupe, Martinique : 431.287
 
-- Réunion : 442.1063
+- Guyane : 425.036
+
+- Réunion : 455.325
 
 TYPES de logements : 3
 
 IMMEUBLES COLLECTIFS (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 494.903
+- Guadeloupe, Martinique : 512.225
 
-- Réunion : 525.023
+- Guyane : 504.801
+
+- Réunion : 570.774
 
 TYPES de logements : 4
 
 IMMEUBLES COLLECTIFS (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 579.206
+- Guadeloupe, Martinique : 599.478
 
-- Réunion : 602.075
+- Guyane : 590.790
+
+- Réunion : 620.137
 
 TYPES de logements : 5
 
 IMMEUBLES COLLECTIFS (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 651.349
+- Guadeloupe, Martinique : 674.146
 
-- Réunion : 690.992
+- Guyane : 664.376
+
+- Réunion : 711.722
 
 TYPES de logements : 6
 
 IMMEUBLES COLLECTIFS (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 712.807
+- Guadeloupe, Martinique : 737.755
 
-- Réunion : 756.191
+- Guyane : 727.063
+
+- Réunion : 778.877
 
 TYPES de logements : 7
 
 IMMEUBLES COLLECTIFS (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 796.579
+- Guadeloupe, Martinique : 824.459
 
-- Réunion : 845.062
+- Guyane : 812.511
+
+- Réunion :870.414
 
 TYPES de logements : Pièce supplémentaire
 
 IMMEUBLES COLLECTIFS (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 78.183
+- Guadeloupe, Martinique : 80.919
 
-- Réunion : 82.941
+- Guyane : 79.747
+
+- Réunion : 85.429
 
 TYPES de logements : I bis
 
 MAISONS INDIVIDUELLES (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 355.647
+- Guadeloupe, Martinique : 368.095
 
-- Réunion : 434.857
+- Guyane : 362.760
+
+- Réunion :447.903
 
 TYPES de logements : 2
 
 MAISONS INDIVIDUELLES (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 441.757
+- Guadeloupe, Martinique : 457.918
 
-- Réunion : 468.642
+- Guyane : 450.592
+
+- Réunion :482.701
 
 TYPES de logements : 3
 
 MAISONS INDIVIDUELLES (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 532.033
+- Guadeloupe, Martinique : 550.654
 
-- Réunion : 564.414
+- Guyane : 542.674
+
+- Réunion :581.346
 
 TYPES de logements : 4
 
 MAISONS INDIVIDUELLES (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 615.900
+- Guadeloupe, Martinique : 637.457
 
-- Réunion : 653.384
+- Guyane : 628.218
+
+- Réunion :672.985
 
 TYPES de logements : 5
 
 MAISONS INDIVIDUELLES (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 712.588
+- Guadeloupe, Martinique : 737.529
 
-- Réunion : 755.957
+- Guyane : 726.840
+
+- Réunion :778.636
 
 TYPES de logements : 6
 
 MAISONS INDIVIDUELLES (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 783.451
+- Guadeloupe, Martinique : 810.872
 
-- Réunion : 831.154
+- Guyane : 799.120
+
+- Réunion :856.068
 
 TYPES de logements : 7
 
 MAISONS INDIVIDUELLES (en francs) :
 
-- Guadeloupe, Guyane, Martinique : 880.251
+- Guadeloupe, Martinique : 911.060
 
-- Réunion : 933.791
+- Guyane : 897.856
+
+- Réunion :961.805
 
 TYPES de logements : Pièce supplémentaire
 
 MAISONS INDIVIDUELLES (en francs) :
+
+- Guadeloupe, Martinique : 93.407
+
+- Guyane : 92.053
+
+- Réunion : 98.611
 
 - Guadeloupe, Guyane, Martinique : 90.248
 

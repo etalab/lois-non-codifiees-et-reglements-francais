@@ -2,17 +2,23 @@
 
 Le prix plafond de vente d'une opération de logements est calculé par application de la formule forfaitaire ci-après (en francs) :
 
-" Départements de la Guadeloupe, de la Guyane et de la Martinique :
+" Départements de la Guadeloupe et de la Martinique :
 
-" A partir du 1er janvier 1994 :
+" A partir du 1er janvier 1995 :
 
-" PV = 163 635 N + 5 048 (S + Sa/2)
+" PV = 169 362 N + 5 225 (S + Sa/2)
+
+" Départements de la Guyane :
+
+" A partir du 1er janvier 1995 :
+
+" PV = 166 908 N + 5 149 (S + Sa/2)
 
 " Département de la Réunion :
 
-" A partir du 1er janvier 1994 :
+" A partir du 1er janvier 1995 :
 
-" PV = 173 595 N + 5 357 (S + Sa/2) "
+" PV = 178 803 N + 5 518 (S + Sa/2) "
 
 - N étant le nombre de logements de l'opération ;
 

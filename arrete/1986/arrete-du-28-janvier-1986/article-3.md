@@ -1,9 +1,9 @@
 # Article 3
 
-Lorsque la commission examine des questions intéressant les médecins généralistes, la représentation des organisations professionnelles est assurée par :
+Lorsque la commission examine des questions intéressant les médecins généralistes, elle comprend, outre le président :
 
-1° Trois représentants nommés sur proposition de la Fédération française des médecins généralistes ;
+1° Huit représentants de la profession.
 
-2° Trois représentants nommés sur proposition de la Confédération des syndicats médicaux français ;
+2° Les sept membres visés aux 2°, 3° et 4° de l'article 2 ci-dessus.
 
-3° Une personnalité choisie par le ministre chargé de la sécurité sociale en raison de sa compétence dans le domaine de la santé.
+3° Une personnalité choisie en raison de ses compétences dans le domaine de la santé, nommée sur proposition conjointe des directeurs des caisses nationales des régimes d'assurance maladie mentionnés au 2° de l'article 2.

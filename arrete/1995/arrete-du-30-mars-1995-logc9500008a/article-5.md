@@ -1,0 +1,3 @@
+# Article 5
+
+Dans les départements de la Guadeloupe, de la Martinique et de la Réunion, le montant maximal du prix des logements évolutifs sociaux et la subvention de l'Etat à laquelle ils ouvrent droit, définis respectivement aux articles 3 et 5 de l'arrêté du 13 mars 1986 relatif aux aides de l'Etat à la construction de logements évolutifs sociaux dans les départements d'outre-mer, peuvent être majorés de 2 p. 100, au plus pour les opérations engagées avant le 1er janvier 1995 et qui seraient, lors de la commercialisation ou du paiement des travaux, soumis à une T.V.A. au taux de 9,5 p. 100.

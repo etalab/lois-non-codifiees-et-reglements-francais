@@ -32,19 +32,19 @@ Ingéniérie électrique ;
 
 D'un diplôme d'études universitaires générales (D.E.U.G.), mention Sciences (section A) ou Sciences et structures de la matière ;
 
-D'un des brevets de techniciens supérieur (B.T.S.) suivants :
+Par le paragraphe ci-après :
 
-Maitenance industrielle ;
+D'un des diplômes d'études universitaires générales (D.E.U.G.) suivants :
 
-Conception des produits industriels ;
+D.E.U.G. Sciences ;
 
-Productique ;
+D.E.U.G. mention Sciences (section A) ou Sciences et structures de la matière ;
 
-Mécanique et automatismes industriels ;
+D.E.U.G. mention Sciences (section B) ou Sciences de la nature et de la vie ;
 
-Electrotechnique ;
+D.E.U.G. mention Mathématiques appliquées et sciences sociales ;
 
-Electronique, maintenance et exploitation des matériels aéronautiques ;
+D.E.U.G. Technologie industrielle.
 
 D'un des diplômes universitaires de technologie (D.U.T.) suivants :
 

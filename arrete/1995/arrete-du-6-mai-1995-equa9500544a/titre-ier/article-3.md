@@ -1,0 +1,3 @@
+# Article 3
+
+Les agglomérations visées par le présent arrêté sont celles représentées sur la dernière édition de la carte aéronautique au 1/500 000 O.A.C.I., publiée par l'Institut géographique national, et pour lesquelles des règles de survol par les aéronefs motopropulsés sont prévues en application des dispositions de l'article 1er de l'arrêté du 10 octobre 1957 relatif au survol des agglomérations et des rassemblements de personnes ou d'animaux ; pour les zones où une telle carte n'a pas été publiée, les agglomérations visées par le présent arrêté sont celles figurant sur la dernière édition de la carte de l'Institut géographique national couramment utilisée par les navigateurs aériens.
