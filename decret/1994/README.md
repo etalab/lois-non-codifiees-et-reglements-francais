@@ -280,7 +280,6 @@
 - [Décret n°94-994 du 10 novembre 1994 (SPSS9402518D)](decret-n94-994-du-10-novembre-1994-spss9402518d)
 - [Décret n°95-1094 du 10 octobre 1995 (SANG9502158D)](decret-n95-1094-du-10-octobre-1995-sang9502158d)
 - [Décret n°95-1095 du 10 octobre 1995 (SANG9502160D)](decret-n95-1095-du-10-octobre-1995-sang9502160d)
-- [Décret n°95-50 du 10 janvier 1995 (AGRA9402305D)](decret-n95-50-du-10-janvier-1995-agra9402305d)
 - [Décret n°96-328 du 10 avril 1996 (AGRA9600362D)](decret-n96-328-du-10-avril-1996-agra9600362d)
 - [Décret n°96-329 du 10 avril 1996 (AGRA9600363D)](decret-n96-329-du-10-avril-1996-agra9600363d)
 - [Décret n°96-330 du 10 avril 1996 (AGRA9600364D)](decret-n96-330-du-10-avril-1996-agra9600364d)
