@@ -4,4 +4,4 @@ Le montant de la contribution forfaitaire prévue par l'article 64 de la loi de 
 
 Ce montant est porté à 7 700 F lorsque le salaire mensuel brut du travailleur concerné est supérieur à 10 000 F.
 
-Dans le département de la Guyane et pour l'année 1992, le montant de la contribution forfaitaire est fixé à 1 000 F par travailleur.
+Dans le département de la Guyane et pour l'année 1993, le montant de la contribution forfaitaire est fixé à 2 000 F par travailleur.
