@@ -22,4 +22,4 @@ Les écoles militaires des corps techniques et administratifs des armées,
 
 L'école nationale supérieure des ingénieurs des études et techniques de l'armement.
 
-L'école technique supérieure des travaux maritimes.
+L'école nationale des travaux maritimes.
