@@ -1,0 +1,5 @@
+# Article 7
+
+Les ingénieurs d'études et de fabrications stagiaires ne peuvent être titularisés [*conditions*] qu'après avoir accompli un stage d'une durée de [*minimum*] dix-huit mois, dont les douze premiers comportent une formation d'adaptation à l'emploi dont les modalités sont définies par arrêté du ministre de la défense. A l'issue du stage, les stagiaires dont la manière de servir a été jugée satisfaisante sont titularisés. Les autres sont, après avis de la commission administrative paritaire, soit autorisés à accomplir un nouveau et dernier stage pratique d'une durée maximum de six mois, soit licenciés, soit réintégrés dans leur ancien corps ou, s'agissant de fonctionnaires des collectivités territoriales, dans leur ancien cadre d'emplois ou emploi avec l'ancienneté qu'ils auraient acquise s'ils y étaient demeurés, soit remis à la disposition de leur administration d'origine.
+
+Lors de la titularisation, la durée du stage est prise en compte pour l'avancement d'échelon dans la limite de dix-huit mois.
