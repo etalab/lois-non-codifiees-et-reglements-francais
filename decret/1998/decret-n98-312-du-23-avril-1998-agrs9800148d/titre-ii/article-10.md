@@ -1,6 +1,6 @@
 # Article 10
 
-L'allocation annuelle de préretraite comporte un forfait de 30 000 F auquel s'ajoute une partie variable de 500 F par hectare exploité lors du dépôt de la demande et cédé en conformité avec les termes du présent décret, dans la limite de 10 hectares.
+L'allocation annuelle de préretraite comporte un forfait de 4 600 euros auquel s'ajoute une partie variable de 76,5 euros par hectare exploité lors du dépôt de la demande et cédé en conformité avec les termes du présent décret, dans la limite de 10 hectares.
 
 L'allocation est servie en quatre versements, chaque trimestre civil à terme échu. Elle prend effet le premier jour du mois qui suit la dernière de ces dates :
 
