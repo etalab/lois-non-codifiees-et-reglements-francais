@@ -1,5 +1,0 @@
-# Article 104
-
-Indépendamment des mentions prévues au casier judiciaire par l'article 768 (5°) du code de procédure pénale, les jugements prononçant la faillite personnelle ou les autres sanctions [*déchéances et interdictions, incapacité d'exercer une fonction élective*] prévues au chapitre 1er du titre II de la loi du 13 juillet 1967 sont mentionnés au registre du commerce dans les conditions prévues aux articles 35 et 37 du décret n° 84-406 du 30 mai 1984 relatif au registre du commerce et des sociétés ; en ce qui concerne les dirigeants des personnes morales non immatriculées au registre du commerce et des sociétés, ces jugements sont inscrits par extraits sur le registre prévu à l'article 14 du présent décret et mentionnés en marge de l'inscription portée audit registre relatant le règlement judiciaire ou la liquidation des biens de la personne morale.
-
-Ces jugements sont en outre, à la diligence du greffier, publiés [*publicité*] par extraits au Bulletin officiel des annonces [*civiles et*] commerciales et dans un journal habilité à recevoir des annonces légales dans le ressort du tribunal ayant statué, désigné par ce tribunal.

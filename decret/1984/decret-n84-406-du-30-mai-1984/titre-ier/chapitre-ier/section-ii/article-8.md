@@ -6,6 +6,8 @@ A - En ce qui concerne la personne :
 
 1° Son nom, celui du conjoint, le pseudonyme, ses prénoms et domicile personnel ; le nom commercial, s'il en est utilisé un ;
 
+1° bis L'adresse du siège de son entreprise s'il est distinct de son principal établissement ;
+
 2° Ses date et lieu de naissance ;
 
 3° Sa nationalité ; en outre, s'il est étranger, les titres qui l'habilitent à séjourner sur le territoire français, sauf dérogation prévue à l'article 4 du décret du 2 février 1939 modifié relatif à la délivrance des cartes d'identité pour les étrangers ; les références de la carte de commerçant étranger, s'il est assujetti aux dispositions du décret du 12 novembre 1938 modifié relatif à la carte d'identité de commerçant pour les étrangers ;
