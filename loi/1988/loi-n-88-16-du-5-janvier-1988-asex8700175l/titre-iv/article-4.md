@@ -8,15 +8,17 @@ I. - Les médecins âgés de cinquante-sept ans au moins, relevant de l'un des r
 
 3° D'un avantage du régime d'assurance invalidité mentionné à l'article L. 644-2 du code de la sécurité sociale ou des dispositions de l'article L. 643-2 du même code ; les personnes qui, au titre de la durée de leur captivité ou de leurs services militaires en temps de guerre, peuvent bénéficier des dispositions de l'article L. 643-3 du même code sont admises à percevoir l'allocation de cessation anticipée d'activité jusqu'à l'âge auquel elles peuvent faire valoir leurs droits à retraite à taux plein en application dudit article.
 
+L'obligation de cesser définitivement toute activité médicale non salariée, prévue au premier alinéa du présent I, ne fait pas obstacle à la participation à la permanence des soins prévue à l'article L. 6315-1 du code de la santé publique.
+
 Le service de l'allocation cesse au premier jour du trimestre civil suivant la date à laquelle l'intéressé se trouve dans l'une des situations définies aux 1°, 2° et 3° ci-dessus.
 
 Le montant de cette allocation est déterminé en fonction des revenus que les intéressés tiraient antérieurement de l'activité qu'ils exerçaient dans les conditions fixées par les articles L. 722-1 et L. 722-1-1 du code de la sécurité sociale, dans la limite d'un plafond fixé par décret et variant, le cas échéant, selon l'âge auquel la demande d'allocation est présentée.
 
 L'allocation ne peut être cumulée avec les revenus d'une activité médicale salariée que dans la limite d'un plafond fixé par le décret mentionné au III.
 
-Le dépassement du plafond mentionné à l'alinéa précédent entraîne une réduction de l'allocation à due concurrence. ;
+Le dépassement du plafond mentionné à l'alinéa précédent entraîne une réduction de l'allocation à due concurrence. Toutefois, il n'est pas tenu compte des revenus tirés de l'activité médicale exercée dans le cadre de la permanence des soins prévue à l'article L. 6315-1 du code de la santé publique.
 
-II. - Le financement de cette allocation est assuré par une cotisation qui est à la charge [*financière*] :
+II. - Le financement de cette allocation est assuré par une cotisation qui est à la charge :
 
 1° Des médecins en exercice relevant de l'un des régimes mentionnés aux articles L. 722-1 et L. 722-1-1 du code de la sécurité sociale ;
 
@@ -34,4 +36,4 @@ V. - Les médecins qui bénéficient de l'allocation instituée au paragraphe I 
 
 VI. - Les médecins qui bénéficient de l'allocation instituée au paragraphe I conservent leurs droits aux prestations en nature du régime d'assurance maladie et maternité dont ils relevaient lors de leur cessation d'activité. Ils doivent acquitter une cotisation d'assurance maladie-maternité dont le taux est fixé par décret.
 
-VII. - Les litiges nés de l'application du présent article, à l'exception du paragraphe III, relèvent du contentieux général de la sécurité sociale [*juridiction compétente*].
+VII. - Les litiges nés de l'application du présent article, à l'exception du paragraphe III, relèvent du contentieux général de la sécurité sociale.
