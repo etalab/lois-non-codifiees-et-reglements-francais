@@ -1,0 +1,3 @@
+# Article 21
+
+Les résultats de l'inspection sanitaire avant abattage et de l'inspection sanitaire post mortem sont enregistrés par les services vétérinaires et, en cas de diagnostic de maladie transmissible à l'homme ou aux animaux, communiqués aux services vétérinaires du département de l'élevage dont provenaient les animaux, ainsi qu'au propriétaire de l'élevage d'origine ou son représentant, qui est dans l'obligation d'en tenir compte, de conserver ces informations et de les présenter au vétérinaire inspecteur assurant l'inspection sanitaire avant abattage, lors de la période de production suivante.

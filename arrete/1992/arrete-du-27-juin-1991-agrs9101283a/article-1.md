@@ -46,7 +46,7 @@ Il ne peut pas être fait appel [*interdiction d'emploi*] à des salariés sous 
 
 - polymérisation du chlorure de vinyle ;
 
-- travaux de déflocage et de démolition exposant aux poussières d'amiante ;
+- activités de fabrication ou de transformation de matériaux contenant de l'amiante, opérations d'entretien ou de maintenance sur des flocages ou calorifugeages contenant de l'amiante, activités de confinement, de retrait ou de démolition exposant aux poussières d'amiante ;
 
 - travaux exposant à l'inhalation de poussières de lin ;
 
