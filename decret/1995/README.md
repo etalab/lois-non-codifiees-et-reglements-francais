@@ -442,7 +442,6 @@
 - [Décret n°95-720 du 9 mai 1995 (JUSB9510155D)](decret-n95-720-du-9-mai-1995-jusb9510155d)
 - [Décret n°95-721 du 9 mai 1995 (EQUB9500919D)](decret-n95-721-du-9-mai-1995-equb9500919d)
 - [Décret n°95-722 du 9 mai 1995 (BUDB9530005D)](decret-n95-722-du-9-mai-1995-budb9530005d)
-- [Décret n°95-723 du 9 mai 1995 (AGRG9500635D)](decret-n95-723-du-9-mai-1995-agrg9500635d)
 - [Décret n°95-724 du 9 mai 1995 (FPPA9500060D)](decret-n95-724-du-9-mai-1995-fppa9500060d)
 - [Décret n°95-726 du 9 mai 1995 (DOMP9500025D)](decret-n95-726-du-9-mai-1995-domp9500025d)
 - [Décret n°95-728 du 9 mai 1995 (DEFD9501571D)](decret-n95-728-du-9-mai-1995-defd9501571d)
