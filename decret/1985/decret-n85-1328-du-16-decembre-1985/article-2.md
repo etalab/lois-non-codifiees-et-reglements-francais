@@ -1,11 +1,15 @@
 # Article 2
 
-Dans les trois mois qui suivent le premier semestre de l'exercice, les entreprises émettrices de billets de trésorerie publient, dans un journal d'annonces légales et en cas d'appel public à l'épargne au Bulletin d'annonces légales obligatoires, un rapport ainsi qu'un tableau d'activité et de résultats semestriels.
+Lorsqu'elles ne sont pas soumises aux obligations de publicité prévues par les articles 295 et 296 du décret n° 67-236 du 23 mars 1967 modifié sur les sociétés commerciales, les entreprises émettrices de billets de trésorerie au cours d'un exercice publient dans un journal d'annonces légales de diffusion nationale les documents relatifs à l'exercice écoulé, prévus par les articles 295 et 296 précités.
 
-Le tableau indique notamment le montant net du chiffre d'affaires et le résultat courant avant impôt établi sur la base des éléments prévus aux articles 14 à 16 du décret n° 83-1020 du 29 novembre 1983 relatif aux obligations comptables des commerçants et de certaines sociétés. Chacun des postes du tableau est comparé au poste correspondant de l'exercice précédent et du premier semestre de cet exercice.
+Pour celles de ces entreprises qui font appel public à l'épargne, cette publicité est effectuée soit au Bulletin des annonces légales obligatoires, soit dans un autre journal d'annonces légales de diffusion nationale avec la référence de cette publicité au Bulletin des annonces légales obligatoires.
+
+Les entreprises émettrices de billets de trésorerie au cours de l'exercice publient dans un journal d'annonces légales de diffusion nationale un rapport ainsi qu'un tableau d'activité et de résultats semestriels. Cette publicité intervient au plus tard dans un délai de trois mois suivant la fin du premier semestre de l'exercice.
+
+Pour celles de ces entreprises qui font appel public à l'épargne, cette publicité est effectuée soit au Bulletin des annonces légales obligatoires, soit dans un autre journal d'annonces légales de diffusion nationale avec la référence de cette publicité au Bulletin des annonces légales obligatoires ; elle intervient au plus tard dans un délai de quatre mois suivant la fin du premier semestre de l'exercice.
+
+Le tableau est établi sur la base des éléments prévus aux articles 14 à 16 du décret n° 83-1020 du 29 novembre 1983 relatif aux obligations comptables des commerçants et de certaines sociétés, ou sur la base des éléments prévus aux articles 248 à 248-11 du décret n° 67-236 du 23 mars 1967, modifié par le décret n° 86-221 du 17 février 1986, et comporte au minimum les données chiffrées du modèle annexé au présent décret. Chacun des postes du tableau est comparé au poste correspondant de l'exercice précédent et du semestre correspondant de l'exercice précédent.
 
 Le rapport commente les données chiffrées relatives au chiffre d'affaires et aux résultats du semestre écoulé et l'activité de l'entreprise au cours de cette période, son évolution prévisible ainsi que les événements importants survenus pendant le semestre.
 
-Le tableau et le rapport sont accompagnés de l'attestation des commissaires aux comptes sur la sincérité des informations données.
-
-Lorsque l'entreprise émettrice de billets de trésorerie est un établissement public de l'Etat soumis aux règles de la comptabilité publique, l'attestation citée à l'alinéa précédent est établie par l'agent comptable de l'établissement.
+Le tableau et le rapport sont accompagnés de l'attestation des commissaires aux comptes sur la sincérité des informations données et, le cas échéant, de la notation obtenue auprès d'une agence spécialisée.
