@@ -1,6 +1,5 @@
-# Arrêté du 7 mars 1986 relatif à la répartition du soutien financier de l'Etat à l'industrie des programmes audiovisuels.
+# Arrêté du 7 mars 1986 relatif aux tarifs des transports effectués par des véhicules sanitaires terrestres privés agréés
 
-- [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
