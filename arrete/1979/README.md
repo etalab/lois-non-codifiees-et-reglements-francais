@@ -96,7 +96,6 @@
 - [Arrêté du 27 septembre 1979](arrete-du-27-septembre-1979)
 - [Arrêté du 28 août 1979](arrete-du-28-aout-1979)
 - [Arrêté du 28 février 1979](arrete-du-28-fevrier-1979)
-- [Arrêté du 28 juin 1979](arrete-du-28-juin-1979)
 - [Arrêté du 28 mars 1979](arrete-du-28-mars-1979)
 - [Arrêté du 28 septembre 1979](arrete-du-28-septembre-1979)
 - [Arrêté du 28 mai 1979](arrete-du-28-mai-1979)
