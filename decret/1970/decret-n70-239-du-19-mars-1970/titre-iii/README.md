@@ -1,6 +1,7 @@
 # TITRE III : Du centre d'études et de recherches sur les qualifications
 
 - [Article 23](article-23.md)
+- [Article 25](article-25.md)
 - [Article 26](article-26.md)
 - [Article 27](article-27.md)
 - [Article 28](article-28.md)
