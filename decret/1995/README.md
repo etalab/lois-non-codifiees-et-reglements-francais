@@ -877,6 +877,7 @@
 - [Décret n°95-1237 du 22 novembre 1995 (INTA9500365D)](decret-n95-1237-du-22-novembre-1995-inta9500365d)
 - [Décret n°95-1245 du 22 novembre 1995 (MAEJ9530099D)](decret-n95-1245-du-22-novembre-1995-maej9530099d)
 - [Décret n°95-1249 du 22 novembre 1995 (AGRE9502225D)](decret-n95-1249-du-22-novembre-1995-agre9502225d)
+- [Décret n°95-1316 du 22 décembre 1995 (ECOT9513831D)](decret-n95-1316-du-22-decembre-1995-ecot9513831d)
 - [Décret n°95-184 du 22 février 1995 (PRMX9500649D)](decret-n95-184-du-22-fevrier-1995-prmx9500649d)
 - [Décret n°95-186 du 22 février 1995 (INTX9500661D)](decret-n95-186-du-22-fevrier-1995-intx9500661d)
 - [Décret n°95-216 du 22 février 1995 (ECOU9500001D)](decret-n95-216-du-22-fevrier-1995-ecou9500001d)

@@ -385,6 +385,7 @@
 - [Arrêté du 8 décembre 1995 (AGRG9502479A)](arrete-du-8-decembre-1995-agrg9502479a)
 - [Arrêté du 8 décembre 1995 (EQUA9501833A)](arrete-du-8-decembre-1995-equa9501833a)
 - [Arrêté du 8 décembre 1995 (MJSK9570169A)](arrete-du-8-decembre-1995-mjsk9570169a)
+- [Arrêté du 8 décembre 1995 (MJSK9570170A)](arrete-du-8-decembre-1995-mjsk9570170a)
 - [Arrêté du 8 décembre 1995 (MJSK9570171A)](arrete-du-8-decembre-1995-mjsk9570171a)
 - [Arrêté du 8 février 1995 (ECOS9550005A)](arrete-du-8-fevrier-1995-ecos9550005a)
 - [Arrêté du 8 février 1995 (EQUA9500289A)](arrete-du-8-fevrier-1995-equa9500289a)
