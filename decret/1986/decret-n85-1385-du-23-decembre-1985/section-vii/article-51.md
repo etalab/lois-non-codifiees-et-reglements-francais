@@ -6,6 +6,4 @@ Sera puni de l'amende prévue pour les contraventions de la 3e classe, quiconque
 
 2° Est trouvé la nuit porteur ou muni, hors de son domicile, d'instruments, filets ou engins de pêche prohibés destinés à être utilisés dans les eaux soumises aux dispositions du présent décret ;
 
-3° Organise un concours de pêche dans les cours d'eau de la 1re catégorie.
-
-En cas de récidive l'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe. Cette amende sera également encourue pour les infractions au 1° du présent article qui ont été commises de nuit.
+3° Organise un concours de pêche dans les cours d'eau de la 1ère catégorie sans avoir obtenu l'autorisation préalable du commissaire de la République ou sans respecter les prescriptions de l'autorisation.    En cas de récidive l'amende encourue sera celle qui est prévue pour les contraventions de la 4e classe. Cette amende sera également encourue pour les infractions au 1° du présent article qui ont été commises de nuit.
