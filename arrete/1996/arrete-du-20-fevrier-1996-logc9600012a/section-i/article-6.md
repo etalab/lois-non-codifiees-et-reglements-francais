@@ -10,17 +10,29 @@ Les annuités à la charge de l'emprunteur sont payées annuellement à terme é
 
 Sous réserve de l'effet des clauses d'actualisation et de révision prévues aux 2° et 3° ci-dessous :
 
-- le taux d'intérêt (I) est de 3 p. 100 l'an ;
+Les conditions de taux d'intérêt et de progressivité des annuités sont déterminées selon l'une des deux options suivantes :
 
-- les annuités progressent de 1,95 p. 100 ;
+Option 1 :
 
-- consolidation du prêt : à l'expiration de la période de préfinancement, celui-ci est consolidé en un prêt à long terme dont le capital est constitué par la somme des versements effectués à l'emprunteur, dans la limite du montant maximum du prêt calculé en application de l'article 3 ci-dessus et des intérêts courus sur ces versements au cours de la période. Le montant des intérêts de la période de préfinancement est calculé en fonction, d'une part, des montants et des dates de versement et, d'autre part, des taux d'intérêt successivement en vigueur pendant cette période dans les conditions fixées au 2° ci-dessous.
+Le taux d'intérêt (I) est de 2,5 p. 100 l'an ;
 
-2° Actualisation du taux d'intérêt à compter de la date d'établissement du contrat : le taux d'intérêt (I), visé au 1° du présent article, est actualisé à chaque variation de la rémunération servie aux titulaires des premiers livrets de caisse d'épargne en fonction d'un coefficient (R) déterminé par la formule suivante :
+Les annuités progressent de 1 p. 100 l'an ;
+
+Option 2 :
+
+Le taux d'intérêt (I) est de 2,4 p. 100 l'an ;
+
+Les annuités progressent de 0 p. 100 l'an.
+
+Consolidation du prêt : à l'expiration de la période de préfinancement, celui-ci est consolidé en un prêt à long terme dont le capital est constitué par la somme des versements effectués à l'emprunteur, dans la limite du montant maximum du prêt calculé en application des articles 3 et 5 ci-dessus et des intérêts courus sur ces versements au cours de la période. Le montant des intérêts de la période de préfinancement est calculé en fonction, d'une part, des montants et des dates de versement et, d'autre part, des taux d'intérêt successivement en vigueur pendant cette période dans les conditions fixées au 2° ci-dessous.
+
+2° Actualisation du taux d'intérêt à compter de la date d'établissement du contrat :
+
+Le taux d'intérêt (I), visé au 1° du présent article, est actualisé à chaque variation de la rémunération servie aux titulaires des premiers livrets de caisse d'épargne en fonction d'un coefficient (R) déterminé par la formule suivante :
 
 DT
 
-R = 1 + 1,058
+R = 1 + 1,048
 
 où DT désigne la variation positive ou négative du taux de rémunération précité.
 
@@ -32,9 +44,9 @@ Le coefficient de révision (R) est déterminé par la formule suivante :
 
 DT
 
-R = 1 + 1,058
+R = 1 +  . "
 
-où DT désigne la variation positive ou négative constatée entre le taux de rémunération servie aux titulaires des premiers livrets de caisse d'épargne en vigueur à la date de révision et celui en vigueur à la date d'établissement du contrat.
+1,048
 
 Le taux d'intérêt révisé I est déterminé par la formule :
 

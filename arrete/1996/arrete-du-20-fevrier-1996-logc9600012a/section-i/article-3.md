@@ -1,36 +1,44 @@
 # Article 3
 
-Le montant maximum (M. max.) du prêt aidé par l'Etat (P.A.E.) susceptible d'être accordé à un organisme pour une opération déterminée est calculé de la façon suivante (en francs) :
+Le montant maximum (M. max.) du prêt aidé par l'Etat (prêts LLS) susceptible d'être accordé à un organisme pour une opération déterminée est calculé de la façon suivante (en francs) :
 
-Départements de la Guadeloupe et de la Martinique à compter du 1er janvier 1995 :
-
-Sa
-
-122 694 N + 3 900 S +
-
-2
-
-()
-
-Département de la Guyane à compter du 1er janvier 1995 :
+Départements de la Guadeloupe et de la Martinique :
 
 Sa
 
-120 916 N + 3 843 S +
+125 148 N + 3 978 S +
 
 2
 
-()
+(
 
-Département de la Réunion à compter du 1er janvier 1995 :
+)
+
+Département de la Guyane :
 
 Sa
 
-129 534 N + 4 117 S +
+123 334 N + 3 920 S +
 
 2
 
-()
+(
+
+)
+
+Département de la Réunion :
+
+Sa
+
+131 477 N + 4 179 S +
+
+"
+
+2
+
+(
+
+)
 
 N est le nombre de logements de l'opération concernée ;
 
