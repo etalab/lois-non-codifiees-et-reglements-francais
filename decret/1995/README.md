@@ -265,7 +265,6 @@
 - [Décret n°95-604 du 6 mai 1995 (EQUA9500543D)](decret-n95-604-du-6-mai-1995-equa9500543d)
 - [Décret n°95-605 du 6 mai 1995 (COMA9500025D)](decret-n95-605-du-6-mai-1995-coma9500025d)
 - [Décret n°95-606 du 6 mai 1995 (TEFE9500454D)](decret-n95-606-du-6-mai-1995-tefe9500454d)
-- [Décret n°95-609 du 6 mai 1995 (MCCB9500147D)](decret-n95-609-du-6-mai-1995-mccb9500147d)
 - [Décret n°95-615 du 6 mai 1995 (BUDD9570008D)](decret-n95-615-du-6-mai-1995-budd9570008d)
 - [Décret n°95-616 du 6 mai 1995 (BUDD9570009D)](decret-n95-616-du-6-mai-1995-budd9570009d)
 - [Décret n°95-617 du 6 mai 1995 (BUDF9510043D)](decret-n95-617-du-6-mai-1995-budf9510043d)
