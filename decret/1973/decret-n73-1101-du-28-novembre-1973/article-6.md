@@ -2,4 +2,6 @@
 
 Les aliments complémentaires définis à l'article 2 ne doivent pas contenir des teneurs en additifs autorisés telles que, après la dilution ou le mélange opérés pour l'utilisation de ces aliments complémentaires, lesdites teneurs en additifs soient supérieures aux teneurs fixées en application de l'article 4 pour les aliments complets.
 
-Cette interdiction ne s'applique pas aux aliments complémentaires et aux prémélanges contenant, dans le cas où leur incorporation serait autorisée en application de l'article 4, des antibiotiques, des antioxygènes, des coccidiostatiques et autres substances médicamenteuses, des vitamines D et des oligo-éléments, lorsque ces produits sont vendus à des fabricants d'aliments composés ou à leurs fournisseurs ou lorsqu'ils satisfont aux conditions particulières fixées par arrêtés pris dans les formes prévues à l'article 4.
+Ils doivent présenter une ou plusieurs caractéristiques de composition garantissant qu'un dépassement des teneurs en additifs fixées pour les aliments complets ou une utilisation de l'aliment pour la nutrition d'autres espèces animales est exclu.
+
+En outre, ils ne peuvent contenir des teneurs en antibiotiques, facteurs de croissance, coccidiostatiques et autres substances médicamenteuses, antioxygènes et en vitamine D supérieures aux teneurs limites fixées par arrêté pris dans les formes prévues à l'article 4. Ces arrêtés fixent, le cas échéant, les modalités d'application des dispositions de l'alinéa précédent.
