@@ -5,6 +5,7 @@
 - [Titre III : Du refus de renouvellement.](titre-iii)
 - [Titre IV : Des sous-locations.](titre-iv)
 - [Titre V : Du loyer.](titre-v)
+- [Titre VI : De la procédure.](titre-vi)
 - [Titre VIII : Dispositions diverses.](titre-viii)
 - [Titre IX : Dispositions transitoires.](titre-ix)
 - [Article 48](article-48.md)
