@@ -4,6 +4,7 @@
 - [Arrêté du 2 mars 1964](arrete-du-2-mars-1964)
 - [Arrêté du 3 février 1964](arrete-du-3-fevrier-1964)
 - [Arrêté du 9 avril 1964](arrete-du-9-avril-1964)
+- [Arrêté du 10 août 1964](arrete-du-10-aout-1964)
 - [Arrêté du 10 janvier 1964](arrete-du-10-janvier-1964)
 - [Arrêté du 11 août 1964](arrete-du-11-aout-1964)
 - [Arrêté du 14 mars 1964](arrete-du-14-mars-1964)
