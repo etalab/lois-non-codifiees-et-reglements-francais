@@ -1,5 +1,5 @@
 # Article 9
 
-La région d'Ile-de-France peut conclure avec un ou plusieurs des établissements publics régionaux créés par la loi n° 72-619 du 5 juillet 1972 des accords pour l'étude, le financement et la réalisation d'équipements d'intérêt commun ou pour la création d'institutions d'utilité commune.
+Deux ou plusieurs régions peuvent, pour l'exercice de leurs compétences, conclure entre elles des conventions ou créer des institutions d'utilité commune.
 
-Pour la réalisation d'équipements d'intérêt commun, l'accord des collectivités locales est nécessaire.
+Le conseil régional peut décider, avec l'autorisation du gouvernement, d'organiser, à des fins de concertation et dans le cadre de la coopération transfrontalière, des contacts réguliers avec des collectivités décentralisées étrangères ayant une frontière commune avec la région.
