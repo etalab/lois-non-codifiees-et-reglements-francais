@@ -1,0 +1,3 @@
+# Article 20
+
+Les fonctionnaires titulaires du brevet de capacité technique ou du brevet d'aptitude technique ainsi que ceux ayant acquis les qualifications professionnelles mentionnées à l'article 11-A du décret n° 92-1344 du 23 décembre 1992 modifié précité, qui n'ont pu être nommés au grade supérieur à la date de publication du présent décret, sont dispensés de l'examen professionnel prévu à l'article 12° (1°) ci-dessus pour être inscrits au tableau d'avancement au grade de brigadier de police. Le deuxième et le troisième alinéa de l'article 18 ne leur sont pas applicables pendant une durée de cinq ans à compter de la date d'effet du présent décret.
