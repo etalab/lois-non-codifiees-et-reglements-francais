@@ -1,3 +1,0 @@
-# Article 10
-
-Les prestations servies en application de la section IV du titre V du décret du 27 novembre 1946 et liquidées antérieurement au 1er juillet 1971 [*date limite*] sont forfaitairement majorées d'un supplément égal à une fois et demie le taux trimestriel de base qui leur est applicable en vertu des articles 133, 138, 147 et 148. Cette augmentation forfaitaire s'incorpore au montant de la prestation avant l'application des règles d'arrondissement fixées par l'article 172 du décret du 27 novembre 1946. Un arrêté ministériel fixera l'échéance à partir de laquelle cette majoration forfaitaire sera effectivement servie.

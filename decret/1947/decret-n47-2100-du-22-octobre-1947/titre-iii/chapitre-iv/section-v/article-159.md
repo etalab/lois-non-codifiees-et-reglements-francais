@@ -1,9 +1,0 @@
-# Article 159
-
-Dans le cas où, par suite de circonstances exceptionnelles, les services des intéressés ne peuvent être certifiés par les exploitants, ils doivent être justifiés par des attestations de travailleurs, pensionnés de la Caisse Autonome ou pouvant justifier de leurs services personnels, ayant bien été occupés avec l'intéressé au cours de la période en cause ou, dans des cas exceptionnels, par des attestations présentant des garanties d'exactitude équivalentes. Ces attestations doivent être établies sur des formules spéciales devant le maire de la résidence des témoins. Les intéressés doivent y joindre toute autre pièce ou document qui sera en leur possession.
-
-Les attestations et pièces produites sont appréciées par la commission visée à l'article 23 du présent décret.
-
-Le nombre de journées de travail, de maladie et d'accident ayant donné lieu au payement des indemnités prévues pour les accidents du travail ou les maladies professionnelles et de repos pour maternité pendant lesquelles l'affilié a bénéficié des indemnités journalières donnant droit aux allocations et majorations, est contrôlé au moyen des inscriptions portées au compte individuel tenu par la Caisse Autonome.
-
-Toutefois, pour les périodes antérieures à l'affiliation à la Caisse Autonome et pour le cas où les justifications produites ne paraîtraient pas suffisantes, la Caisse Autonome pourra les soumettre pour avis à l'appréciation de commissions locales [*organismes compétents*] composées comme suit : l'ingénieur en chef des mines ou un fonctionnaire de l'administration des mines désigné par lui, président, un exploitant et un travailleur d'une exploitation minière ou assimilée du département désignés par le Préfet. Le représentant des travailleurs devra être pris parmi les administrateurs des Sociétés de Secours minières élus par les travailleurs toutes les fois que ce sera possible.

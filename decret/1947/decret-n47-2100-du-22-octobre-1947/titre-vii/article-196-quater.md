@@ -1,3 +1,0 @@
-# Article 196 quater
-
-La Caisse Autonome Nationale de la Sécurité Sociale dans les mines adresse chaque année [*périodicité*], au Ministre du Travail et de la Sécurité Sociale, un rapport concernant les résultats de la gestion des différentes branches d'assurance du régime de la Sécurité sociale dans les mines. Les exploitations ou entreprises qui gèrent les risques d'accidents du travail et de maladies professionnelles pendant la période d'incapacité temporaire en application de l'article 11 b du décret du 27 novembre 1946 modifié sont tenues de fournir à la Caisse Autonome Nationale de Sécurité Sociale dans les mines les renseignements qui lui sont nécessaires pour établir ce rapport en ce qui concerne les prestations dont elles assurent elles-mêmes la charge.

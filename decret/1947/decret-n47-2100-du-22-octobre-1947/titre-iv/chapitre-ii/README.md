@@ -1,3 +1,0 @@
-# CHAPITRE II - BENEFICIAIRES DES LOIS D'ASSISTANCES.
-
-- [Article 163](article-163.md)

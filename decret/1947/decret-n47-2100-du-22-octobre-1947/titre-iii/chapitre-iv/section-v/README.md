@@ -1,5 +1,0 @@
-# SECTION V - DISPOSITIONS COMMUNES A L'INVALIDITE, A LA VIEILLESSE ET AU DECES (PENSIONS DE SURVIVANTS).
-
-- [Article 158](article-158.md)
-- [Article 159](article-159.md)
-- [Article 160](article-160.md)

@@ -72,7 +72,6 @@
 - [Décret n°71-490 du 23 juin 1971](decret-n71-490-du-23-juin-1971)
 - [Décret n°71-615 du 23 juillet 1971](decret-n71-615-du-23-juillet-1971)
 - [Décret n°71-1058 du 24 décembre 1971](decret-n71-1058-du-24-decembre-1971)
-- [Décret n°71-1069 du 24 décembre 1971](decret-n71-1069-du-24-decembre-1971)
 - [Décret n°47-1175 du 25 juin 1947](decret-n47-1175-du-25-juin-1947)
 - [Décret n°71-248 du 25 mars 1971](decret-n71-248-du-25-mars-1971)
 - [Décret n°71-318 du 26 juillet 1971](decret-n71-318-du-26-juillet-1971)

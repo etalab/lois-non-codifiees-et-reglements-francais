@@ -1,5 +1,0 @@
-# Article 200
-
-Pour les accidents survenus avant le 1er janvier 1947 [*date, point de départ*], l'assuré qui prétend aux prestations provisionnelles visées à l'article 178 du décret du 27 novembre 1946 doit présenter à la Société de Secours, à défaut de l'exploit introductif d'instance [*procédure*], une pièce délivrée soit par le greffier de la justice de paix, soit par un avoué auprès du tribunal civil, soit par le secrétaire du bureau d'assistance judiciaire, attestant qu'il a engagé à l'encontre de l'employeur ou de l'assureur substitué une action judiciaire en vue de faire reconnaître son droit à réparation au titre des lois sur les accidents du travail et les maladies professionnelles [*document*].
-
-Au cas où la responsabilité de l'employeur est reconnue en raison du caractère professionnel de l'accident ou de la maladie, les prestations provisionnelles reçues par l'assuré entrent en compte dans le montant des prestations qui lui sont dues par l'employeur ou l'assureur substitué et sont remboursées directement à la Société de Secours par celui-ci.

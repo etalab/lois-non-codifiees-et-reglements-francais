@@ -237,7 +237,6 @@
 - [Décret n°84-396 du 25 mai 1984](decret-n84-396-du-25-mai-1984)
 - [Décret n°84-207 du 26 mars 1984](decret-n84-207-du-26-mars-1984)
 - [Décret n°84-233 du 26 mars 1984](decret-n84-233-du-26-mars-1984)
-- [Décret n°84-308 du 26 avril 1984](decret-n84-308-du-26-avril-1984)
 - [Décret n°84-314 du 26 avril 1984](decret-n84-314-du-26-avril-1984)
 - [Décret n°84-502 du 26 juin 1984](decret-n84-502-du-26-juin-1984)
 - [Décret n°84-74 du 26 janvier 1984](decret-n84-74-du-26-janvier-1984)
