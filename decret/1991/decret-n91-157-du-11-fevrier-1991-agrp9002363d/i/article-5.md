@@ -2,7 +2,7 @@
 
 L'acheteur de lait tient à la disposition des autorités compétentes en matière de contrôles une comptabilité-matière indiquant au minimum pour chaque producteur :
 
-1° Son nom et l'adresse du siège de l'exploitation, la zone du siège de l'exploitation au sens du décret n° 77-566 du 2 avril 1977 modifié ;
+1° Son nom et l'adresse du siège de l'exploitation.
 
 2° Si le producteur figure dans la liste dressée conformément à l'article 9 du présent décret et à quel titre ;
 
@@ -13,3 +13,5 @@ L'acheteur de lait tient à la disposition des autorités compétentes en matiè
 5° Les teneurs en matière grasse du lait collecté au cours de la période de référence et au cours de la campagne en cause.
 
 Cette comptabilité-matière est conservée pendant au moins trois années civiles complètes suivant la fin de la campagne à laquelle elle se rapporte.
+
+L'acheteur tient à la disposition des autorités compétentes en matière de contrôles, pendant le même délai, la liste des acheteurs et des entreprises traitant ou transformant du lait ou d'autres produits laitiers qui l'ont approvisionné en lait et en autres produits laitiers et, par mois, le volume livré par chaque fournisseur. Les cessions à d'autres acheteurs sont comptabilisées selon la même périodicité.

@@ -2,4 +2,4 @@
 
 L'Onilait fait connaître à chaque producteur vendant directement à la consommation le montant du prélèvement éventuellement dû.
 
-Après réception de cette notification, le producteur doit faire parvenir à l'Onilait le prélèvement correspondant dans les quatre mois suivant la fin de la campagne.
+Le producteur verse le montant du prélèvement à l'agent comptable de l'Office national interprofessionnel du lait et des produits laitiers (Onilait) dans le mois suivant cette notification.

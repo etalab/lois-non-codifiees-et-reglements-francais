@@ -2,4 +2,4 @@
 
 Après la fin de la campagne, l'Onilait fait connaître à chaque acheteur de lait le montant du prélèvement éventuellement dû.
 
-Après réception de cette notification, l'acheteur acquitte le montant du prélèvement au siège de l'Onilait dans les trois mois suivant la fin de la campagne.
+L'acheteur verse le montant du prélèvement à l'agent comptable de l'Office national interprofessionnel du lait et des produits laitiers (Onilait) dans le mois suivant cette notification.

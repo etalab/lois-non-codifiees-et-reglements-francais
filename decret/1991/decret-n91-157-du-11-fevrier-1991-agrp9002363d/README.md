@@ -3,7 +3,6 @@
 - [Article 1](article-1.md)
 - [I. Relations avec les acheteurs de lait.](i)
 - [II. - Relations avec les producteurs vendant directement à la consommation.](ii)
-- [III. - Obligation des exportateurs.](iii)
 - [IV. - Dispositions communes.](iv)
 - [Article 7](article-7.md)
 - [Article 27](article-27.md)
