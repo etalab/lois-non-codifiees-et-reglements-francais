@@ -4,4 +4,4 @@
 
 2. Lorsque le chef de l'entreprise a désigné plusieurs conseillers, il doit établir un rapport de synthèse pour l'ensemble de l'entreprise comportant en annexe les rapports de ses différents conseillers.
 
-3. Le rapport annuel doit être conservé par l'entreprise pendant cinq ans et être présenté à toute réquisition des agents de l'administration habilités à constater les infractions en matière de transport de marchandises dangereuses.
+3. Le rapport annuel doit être conservé par l'entreprise pendant cinq ans et être présenté à toute réquisition des agents de l'administration habilités à constater les infractions en matière de transport de marchandises dangereuses, à partir du 31 mars de l'année suivant celle concernée par le rapport.

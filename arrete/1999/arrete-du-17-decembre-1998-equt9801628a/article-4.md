@@ -6,6 +6,8 @@
 
 3. Le chef de toute entreprise concernée doit indiquer l'identité de son conseiller ou, le cas échéant, de ses conseillers au préfet du département où l'entreprise est domiciliée, au plus tard le 31 décembre 2000.
 
+Une copie du certificat du ou des conseillers est jointe à la déclaration. Lorsque le conseiller est une personne extérieure à l'entreprise, il doit être joint à cette déclaration une attestation de celui-ci indiquant qu'il accepte cette mission.
+
 4. Lorsqu'une entreprise désigne plusieurs conseillers, elle doit préciser le champ de compétence (géographique, thématique ou autre) de chacun d'eux.
 
 5. Le chef d'entreprise veille à ce que le conseiller soit en mesure d'accomplir ses tâches et d'assumer ses responsabilités, et, notamment, qu'il puisse exercer son contrôle sur l'ensemble des activités de l'entreprise entrant dans son champ de compétences. Le chef d'entreprise veille à ce que, autant qu'il est possible, des suites pertinentes soient données au sein de l'ensemble de l'entreprise aux constats, rapports et recommandations du conseiller.
