@@ -50,4 +50,6 @@ Maladies justiciables de mesures à prendre à l'échelon local et faisant l'obj
 
 - brucelloses ;
 
-- suspicion de maladie de Creutzfeldt-Jakob et autres encéphalopathies subaiguës spongiformes transmissibles humaines.
+- suspicion de maladie de Creutzfeldt-Jakob et autres encéphalopathies subaiguës spongiformes transmissibles humaines ;
+
+- listériose.
