@@ -10,29 +10,29 @@ L'expression "agents stabilisateurs" se réfère à certaines des substances vis
 
 Les taux limites d'incorporation (exprimés en volume) des composés oxygénés organiques dont l'adjonction est autorisée dans l'essence, le supercarburant ou le supercarburant sans plomb sont indiqués dans le tableau ci-après :
 
-Composés, taux limite d'incorporation.
+Composés, taux limite d'incorporation :
 
-Méthanol : des agents stabilisateurs adéquats doivent être ajoutés : 3 % vol
+Méthanol des agents stabilisateurs adéquats doivent être ajoutés : 3 % vol.
 
-Ethanol absolu (1) : 5 % vol
+Ethanol absolu (1) : 5 % vol.
 
-Alcool isopropylique : 5 % vol
+Alcool isopropylique : 5 % vol.
 
-Alcool tertiobutylique : 7 % vol
+Alcool tertiobutylique : 7 % vol.
 
-Alcool isobutylique : 7 % vol
+Alcool isobutylique : 7 % vol.
 
 Ethers contenant cinq ou plus d'atomes de carbone par molécule :
 
-10 % vol
+15 % vol.
 
 Autres composés oxygénés organiques définis au point 1 :
 
-7 % vol
+7 % vol.
 
 Mélange de composés oxygénés organiques (2) définis au point 1 :
 
-2,5 % en poids d'oxygène sans dépasser les limites individuelles fixées ci-dessus pour chaque composé.
+2,8 % en poids d'oxygène sans dépasser les limites individuelles fixées ci-dessus pour chaque composé.
 
 (1) La teneur en eau doit être inférieure à 3 000 ppm en masse.
 
@@ -46,23 +46,23 @@ La méthode d'essai M 07 054 sera utilisée pour la détermination de la nature 
 
 Le méthanol ne peut être utilisé comme carburant de substitution dans l'essence, le supercarburant ou le supercarburant sans plomb qu'avec des agents stabilisateurs. Les agents stabilisateurs autorisés sont donnés dans le tableau ci-après qui définit en outre dans quelles proportions ces agents stabilisateurs doivent être utilisés avec le méthanol.
 
-Agents stabilisateurs du méthanol, proportion minimale (en volume) de l'agent stabilisateur dans le mélange méthanol- agent stabilisateur :
+A, agents stabilisateurs du méthanol et B, proportion minimale (en volume) de l'agent stabilisateur dans le mélange méthanol-agent stabilisateur :
 
-Propanol-1 : 50 %
+Propanol-1 : 50 %.
 
-Alcool isopropylique : 50 %
+Alcool isopropylique : 50 %.
 
-Butanol-1 : 40 %
+Butanol-1 : 40 %.
 
-Alcool butylique secondaire : 40 %
+Alcool butylique secondaire : 40 %.
 
-Alcool tertiobutylique : 40 %
+Alcool tertiobutylique : 40 %.
 
-Alcool isobutylique : 40 %
+Alcool isobutylique : 40 %.
 
-Mélange acétonobutylique (butanol 65 % 7 5 %, acétone 35 % 7 5 %, éthanol 0 + 5 % "pourcentages en volume") : 40 %
+Mélange acétonobutylique (butanol 65 % 7 5 %, acétone 35 % 7 5 %, éthanol 0 + 5 % <pourcentages en volume>) : 40 %.
 
-Autres (1) : (1)
+Autres (1) : (1).
 
 (1) D'autres agents stabilisateurs, rentrant dans la liste des composés oxygénés organiques définis au point 1, pourront également être utilisés après agrément du ministre chargé des hydrocarbures (direction des hydrocarbures). Cet agrément détermine le composé oxygéné organique ou la composition du mélange de composés oxygénés organiques utilisable en tant qu'agent stabilisateur du méthanol ainsi que la proportion requise entre le méthanol et l'agent stabilisateur.
 
