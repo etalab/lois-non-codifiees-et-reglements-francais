@@ -969,7 +969,6 @@
 - [Arrêté du 28 décembre 1998 (MESF9811348A)](arrete-du-28-decembre-1998-mesf9811348a)
 - [Arrêté du 28 janvier 1998 (MESH9820422A)](arrete-du-28-janvier-1998-mesh9820422a)
 - [Arrêté du 28 janvier 1998 (MESP9820592A)](arrete-du-28-janvier-1998-mesp9820592a)
-- [Arrêté du 28 juillet 1998 (ECOI9800624A)](arrete-du-28-juillet-1998-ecoi9800624a)
 - [Arrêté du 28 juillet 1998 (ECOI9800625A)](arrete-du-28-juillet-1998-ecoi9800625a)
 - [Arrêté du 28 juillet 1998 (ECOR9807038A)](arrete-du-28-juillet-1998-ecor9807038a)
 - [Arrêté du 28 novembre 1998 (ECOT9851752A)](arrete-du-28-novembre-1998-ecot9851752a)

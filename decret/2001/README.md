@@ -528,7 +528,6 @@
 - [Décret n°2001-1132 du 30 novembre 2001 (ECOI0100363D)](decret-n2001-1132-du-30-novembre-2001-ecoi0100363d)
 - [Décret n°2001-1138 du 30 novembre 2001 (MENF0102310D)](decret-n2001-1138-du-30-novembre-2001-menf0102310d)
 - [Décret n°2001-272 du 30 mars 2001 (JUSC0120141D)](decret-n2001-272-du-30-mars-2001-jusc0120141d)
-- [Décret n°2001-392 du 30 avril 2001 (ECOI0100103D)](decret-n2001-392-du-30-avril-2001-ecoi0100103d)
 - [Décret n°2001-679 du 30 juillet 2001 (MEST0110969D)](decret-n2001-679-du-30-juillet-2001-mest0110969d)
 - [Décret n°2001-683 du 30 juillet 2001 (INTE0100186D)](decret-n2001-683-du-30-juillet-2001-inte0100186d)
 - [Décret n°2001-684 du 30 juillet 2001 (INTE0100187D)](decret-n2001-684-du-30-juillet-2001-inte0100187d)
