@@ -88,6 +88,7 @@
 - [Décret n°83-224 du 22 mars 1983](decret-n83-224-du-22-mars-1983)
 - [Décret n°83-227 du 22 mars 1983](decret-n83-227-du-22-mars-1983)
 - [Décret n°83-228 du 22 mars 1983](decret-n83-228-du-22-mars-1983)
+- [Décret n°83-346 du 22 avril 1983](decret-n83-346-du-22-avril-1983)
 - [Décret n° 82-1120 du 23 décembre 1982](decret-n-82-1120-du-23-decembre-1982)
 - [Décret n°82-1102 du 23 décembre 1982](decret-n82-1102-du-23-decembre-1982)
 - [Décret n°83-132 du 23 février 1983](decret-n83-132-du-23-fevrier-1983)
