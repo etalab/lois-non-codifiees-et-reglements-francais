@@ -1119,7 +1119,6 @@
 - [Arrêté du 29 avril 1997 (TASS9721572A)](arrete-du-29-avril-1997-tass9721572a)
 - [Arrêté du 29 décembre 1997 (ECOR9706082A)](arrete-du-29-decembre-1997-ecor9706082a)
 - [Arrêté du 29 décembre 1997 (ECOT9720042A)](arrete-du-29-decembre-1997-ecot9720042a)
-- [Arrêté du 29 décembre 1997 (EQUB9701990A)](arrete-du-29-decembre-1997-equb9701990a)
 - [Arrêté du 29 janvier 1997 (DEFT9701132A)](arrete-du-29-janvier-1997-deft9701132a)
 - [Arrêté du 29 janvier 1997 (ECOT9710293A)](arrete-du-29-janvier-1997-ecot9710293a)
 - [Arrêté du 29 janvier 1997 (JUSA9600312A)](arrete-du-29-janvier-1997-jusa9600312a)
