@@ -1,7 +1,7 @@
 # Article 1
 
-Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de la Dordogne (en hectares) :
+Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département du Var (en hectares) :
 
-Nontronnais : 17
+Montagne de Haute-Provence : 20
 
-Reste du département : 20
+Reste du département : 22,50.

@@ -48,7 +48,7 @@ L'allocation de retraite est normalement liquidée à l'âge de soixante-cinq an
 </tr>
 <tr>
 <td valign="top" width="170">
-<p align="left">57 ans</p>
+<p>57 ans</p>
 </td>
 <td valign="top" width="170">
 <p align="center">0,57</p>
@@ -62,7 +62,7 @@ L'allocation de retraite est normalement liquidée à l'âge de soixante-cinq an
 </tr>
 <tr>
 <td valign="top" width="170">
-<p>58 ans</p>
+<p align="left">58 ans</p>
 </td>
 <td valign="top" width="170">
 <p align="center">0,64</p>
@@ -76,7 +76,7 @@ L'allocation de retraite est normalement liquidée à l'âge de soixante-cinq an
 </tr>
 <tr>
 <td valign="top" width="170">
-<p align="left">59 ans</p>
+<p>59 ans</p>
 </td>
 <td valign="top" width="170">
 <p align="center">0,71</p>
@@ -101,4 +101,6 @@ Toutefois, ce coefficient de réduction n'est pas applicable :
 
 4° Aux travailleurs manuels et mères de famille qui bénéficient d'une pension de vieillesse du régime général de sécurité sociale entre soixante et soixante-cinq ans dans les conditions prévues par la loi n° 75-1279 du 30 décembre 1975 et par le décret n° 76-404 du 10 mai 1976.
 
-5° Lorsqu'un agent bénéficiaire du régime est licencié de son emploi dans l'intérêt du service entre soixante-trois et soixante-cinq ans.
+5° Aux femmes qui bénéficient d'une pension de vieillesse du régime général de sécurité sociale attribuée dans les conditions fixées par la loi n° 77-774 du 12 juillet 1977.
+
+6° Lorsqu'un agent bénéficiaire du régime est licencié de son emploi dans l'intérêt du service entre soixante-trois et soixante-cinq ans.

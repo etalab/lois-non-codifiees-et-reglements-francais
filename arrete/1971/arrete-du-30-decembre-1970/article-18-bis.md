@@ -1,0 +1,3 @@
+# Article 18 bis
+
+Pour l'application des dispositions du paragraphe 1er de l'article 6 du décret du 23 décembre 1970, les droits acquis à titre onéreux ou à titre gratuit, en cours d'acquisition ou susceptibles d'être ouverts aux ayants droit auprès d'autres institutions relevant de l'article L. 4 du code de la sécurité sociale ou de l'article 1050 du code rural seront déterminés au jour précédant la date d'affiliation au présent régime. Ces droits seront convertis en points de retraite de ce régime. Le nombre de points qui sera inscrit au compte de l'intéressé sera obtenu en divisant le montant desdits droits par la valeur du point de retraite visée à l'article 18 et en vigueur au cours du trimestre civil précédant la date considérée.
