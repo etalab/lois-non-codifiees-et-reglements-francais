@@ -16,4 +16,4 @@ L'Etat prend en charge le coût pour les organismes de sécurité sociale, d'ass
 
 La demande de convention doit être présentée auprès des services locaux de l'Agence nationale pour l'emploi avant l'embauche ou régularisée dans un délai maximum de trente jours après celle-ci. En l'absence de refus notifié par l'Agence nationale pour l'emploi dans un délai maximum de trente jours suivant le dépôt de la demande, celle-ci fait l'objet d'une acceptation.
 
-Les dispositions du présent article sont applicables aux embauches réalisées entre le 15 octobre 1991 et le 31 mai 1992.
+Les dispositions du présent article sont applicables aux embauches réalisées entre le 15 octobre 1991 et le 30 septembre 1992.
