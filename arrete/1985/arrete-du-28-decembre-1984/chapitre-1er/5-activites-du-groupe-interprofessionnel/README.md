@@ -1,0 +1,3 @@
+# 5. ACTIVITES DU GROUPE INTERPROFESSIONNEL.
+
+- [Article 10](article-10.md)

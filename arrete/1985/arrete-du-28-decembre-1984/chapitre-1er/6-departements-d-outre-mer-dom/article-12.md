@@ -1,0 +1,3 @@
+# Article 12
+
+En application de l'article 7 de l'arrêté du 1er octobre 1976, le nombre de salariés des établissements situés dans les départements d'outre-mer est obtenu en divisant la masse totale des rémunérations soumises à cotisations au cours de la dernière année civile connue par trois cents fois le montant du salaire minimal interprofessionnel de croissance journalier applicable dans le département considéré au 31 décembre de la même année de référence [*date limite*]. Le nombre de salariés des entreprises qui exploitent plusieurs établissements est égal à la somme des nombres de salariés de chaque établissement, déterminés dans les conditions définies ci-dessus.

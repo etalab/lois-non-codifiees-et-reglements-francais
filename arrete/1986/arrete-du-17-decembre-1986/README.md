@@ -1,5 +1,4 @@
-# Arrêté du 17 décembre 1986 accordant la garantie de l'Etat à un emprunt émis par seize sociétés de développement régional
+# Arrêté du 17 décembre 1986 portant modification des plafonds de compétence des représentants du Gouvernement dans les territoires et départements d'outre-mer
 
-- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)

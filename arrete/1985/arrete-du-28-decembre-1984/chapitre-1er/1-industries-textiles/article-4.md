@@ -1,0 +1,3 @@
+# Article 4
+
+En application de l'article 7 de l'arrêté du 1er octobre 1976, le nombre de salariés des établissements relevant des industries textiles et se livrant à la fabrication de dentelles et de broderies (numéros de risques 4441-0 à 4441-4) est calculé en prenant la moyenne des effectifs présents au dernier jour des douze derniers trimestres connus. Le nombre de salariés des entreprises qui exploitent plusieurs établissements se livrant aux fabrications énumérées ci-dessus est égal à la somme des nombres de salariés de chaque établissement déterminés dans les conditions définies ci-dessus.
