@@ -4,7 +4,7 @@ Le taux des cotisations à la caisse autonome mutuelle de retraites des agents d
 
 Exploitant                :  13 %
 
-Salariés                  :   8,30 %
+Salariés                  :   9,30 %
 
 Collectivités concédantes :   2 %
 
