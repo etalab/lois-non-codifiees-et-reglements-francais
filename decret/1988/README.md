@@ -180,6 +180,7 @@
 - [Décret n°88-433 du 22 avril 1988 (MCCB8800186D)](decret-n88-433-du-22-avril-1988-mccb8800186d)
 - [Décret n°88-452 du 22 avril 1988 (ASEP8800369D)](decret-n88-452-du-22-avril-1988-asep8800369d)
 - [Décret n°88-766 du 22 juin 1988 (ECOF8800007D)](decret-n88-766-du-22-juin-1988-ecof8800007d)
+- [Décret n°88-77 du 22 janvier 1988 (ASEX8810072D)](decret-n88-77-du-22-janvier-1988-asex8810072d)
 - [Décret n°88-771 du 22 juin 1988 (JUSC8820430D)](decret-n88-771-du-22-juin-1988-jusc8820430d)
 - [Décret n°88-772 du 22 juin 1988 (ASES8800871D)](decret-n88-772-du-22-juin-1988-ases8800871d)
 - [Décret n°88-774 du 22 juin 1988 (AGRA8800840D)](decret-n88-774-du-22-juin-1988-agra8800840d)
