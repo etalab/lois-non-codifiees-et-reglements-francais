@@ -2,5 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Titre Ier : Organisation administrative.](titre-ier)
+- [Article 2](article-2.md)
 - [Titre II : Organisation financière.](titre-ii)
 - [Titre III : Dispositions particulières.](titre-iii)
