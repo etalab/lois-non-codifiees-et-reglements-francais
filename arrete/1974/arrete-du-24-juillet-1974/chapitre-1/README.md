@@ -1,3 +1,0 @@
-# CHAPITRE 1 : CHAMP D'APPLICATION ET GENERALITES
-
-- [Article 1](article-1.md)
