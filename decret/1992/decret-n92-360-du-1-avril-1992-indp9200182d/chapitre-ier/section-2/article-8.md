@@ -1,5 +1,0 @@
-# Article 8
-
-Une personne inscrite sur la liste peut à tout moment demander d'en être radiée.
-
-Est radiée de la liste par le directeur général de l'Institut toute personne tombant sous le coup de l'une des mesures mentionnée à l'article 1er (II) du présent décret. La radiation est motivée et décidée après que l'intéressé ait été mis en mesure de présenter ses observations.

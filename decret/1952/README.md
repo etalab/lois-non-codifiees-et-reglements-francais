@@ -18,7 +18,6 @@
 - [Décret n°52-73 du 16 janvier 1952](decret-n52-73-du-16-janvier-1952)
 - [Décret du 17 octobre 1952](decret-du-17-octobre-1952)
 - [Décret n°52-1166 du 18 octobre 1952](decret-n52-1166-du-18-octobre-1952)
-- [Décret n°51-1469 du 22 décembre 1951](decret-n51-1469-du-22-decembre-1951)
 - [Décret n°52-1094 du 25 septembre 1952](decret-n52-1094-du-25-septembre-1952)
 - [Décret n°52-727 du 25 juin 1952](decret-n52-727-du-25-juin-1952)
 - [Décret n°52-1098 du 26 septembre 1952](decret-n52-1098-du-26-septembre-1952)
