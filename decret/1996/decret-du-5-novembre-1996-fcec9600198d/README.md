@@ -1,9 +1,7 @@
-# Arrêté du 16 septembre 1986 pris en application du décret n° 85-944 du 4 septembre 1985 relatif au calcul du taux effectif global
+# Décret du 5 novembre 1996 relatif à l'appellation d'origine contrôlée "Martinique"
 
 - [Article 1](article-1.md)
-- [Article 1-1](article-1-1.md)
 - [Article 2](article-2.md)
-- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
@@ -14,3 +12,8 @@
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
+- [Article 14](article-14.md)
+- [Article 15](article-15.md)
+- [Article 16](article-16.md)
+- [Article 17](article-17.md)
+- [Article 18](article-18.md)
