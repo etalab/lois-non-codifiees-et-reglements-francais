@@ -601,7 +601,6 @@
 - [Décret n°96-747 du 21 août 1996 (MENF9602115D)](decret-n96-747-du-21-aout-1996-menf9602115d)
 - [Décret n°96-753 du 21 août 1996 (ECOT9694419D)](decret-n96-753-du-21-aout-1996-ecot9694419d)
 - [Décret n°96-754 du 21 août 1996 (ECOT9694420D)](decret-n96-754-du-21-aout-1996-ecot9694420d)
-- [Décret n°96-755 du 21 août 1996 (BUDR9606059D)](decret-n96-755-du-21-aout-1996-budr9606059d)
 - [Décret n°96-929 du 21 octobre 1996 (EQUB9600736D)](decret-n96-929-du-21-octobre-1996-equb9600736d)
 - [Décret n°96-938 du 21 octobre 1996 (MENL9601833D)](decret-n96-938-du-21-octobre-1996-menl9601833d)
 - [Décret n°96-431 du 21 mai 1996 (ECOT9626154D)](decret-n96-431-du-21-mai-1996-ecot9626154d)

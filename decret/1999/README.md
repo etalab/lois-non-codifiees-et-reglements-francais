@@ -876,7 +876,6 @@
 - [Décret n°99-1151 du 29 décembre 1999 (JUSX9900140D)](decret-n99-1151-du-29-decembre-1999-jusx9900140d)
 - [Décret n°99-1152 du 29 décembre 1999 (INTB9900299D)](decret-n99-1152-du-29-decembre-1999-intb9900299d)
 - [Décret n°99-1154 du 29 décembre 1999 (ECOS9950049D)](decret-n99-1154-du-29-decembre-1999-ecos9950049d)
-- [Décret n°99-1155 du 29 décembre 1999 (ECOZ9900014D)](decret-n99-1155-du-29-decembre-1999-ecoz9900014d)
 - [Décret n°99-1156 du 29 décembre 1999 (ECOF9900024D)](decret-n99-1156-du-29-decembre-1999-ecof9900024d)
 - [Décret n°99-1159 du 29 décembre 1999 (EQUU9900821D)](decret-n99-1159-du-29-decembre-1999-equu9900821d)
 - [Décret n°99-1160 du 29 décembre 1999 (EQUU9901776D)](decret-n99-1160-du-29-decembre-1999-equu9901776d)

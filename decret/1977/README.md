@@ -1,6 +1,5 @@
 # 1977
 
-- [Décret n°77-1017 du 1 septembre 1977](decret-n77-1017-du-1-septembre-1977)
 - [Décret n°77-185 du 1 mars 1977](decret-n77-185-du-1-mars-1977)
 - [Décret n°77-186 du 1 mars 1977](decret-n77-186-du-1-mars-1977)
 - [Décret n°77-187 du 1 mars 1977](decret-n77-187-du-1-mars-1977)

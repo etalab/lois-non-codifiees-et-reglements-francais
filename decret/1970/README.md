@@ -9,7 +9,6 @@
 - [Décret n° 70-803 du 4 septembre 1970](decret-n-70-803-du-4-septembre-1970)
 - [Décret n°70-380 du 4 mai 1970](decret-n70-380-du-4-mai-1970)
 - [Décret n° 70-709 du 5 août 1970](decret-n-70-709-du-5-aout-1970)
-- [Décret n°70-733 du 5 août 1970](decret-n70-733-du-5-aout-1970)
 - [Décret n°70-912 du 5 octobre 1970](decret-n70-912-du-5-octobre-1970)
 - [Décret n°72-18 du 5 janvier 1972](decret-n72-18-du-5-janvier-1972)
 - [Décret n° 70-406 du 5 mai 1970](decret-n-70-406-du-5-mai-1970)
