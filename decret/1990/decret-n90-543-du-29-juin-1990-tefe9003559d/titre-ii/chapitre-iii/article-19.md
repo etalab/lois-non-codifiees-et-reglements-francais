@@ -1,0 +1,9 @@
+# Article 19
+
+Les commissions paritaires comprennent en nombre égal des représentants de l'établissement et des représentants du personnel, ceux-ci étant élus au scrutin de liste proportionnel à la plus forte moyenne sans panachage ni vote préférentiel, sur présentation des organisations syndicales représentatives.
+
+Le comité consultatif paritaire national et les comités consultatifs paritaires régionaux comprennent en nombre égal des représentants de l'établissement et des représentants du personnel. Au sein du comité national, un siège est attribué de droit aux représentants du personnel désignés par chacune des organisations syndicales représentatives au plan national et interprofessionnel. Il en est de même au sein des comités consultatifs paritaires régionaux pour les organisations syndicales représentatives au plan national et interprofessionnel ayant obtenu au moins 5 p. 100 des suffrages exprimés au niveau régional. Les autres sièges leur sont attribués proportionnellement au nombre moyen de voix recueillies par ces mêmes organisations lors des élections de représentativité organisées à cet effet.
+
+Les comités consultatifs paritaires des départements d'outre-mer comprennent des représentants du personnel appartenant aux organisations syndicales représentatives et sont mis en place dans les conditions de l'alinéa précédent.
+
+Le comité national et les comités régionaux d'hygiène, de sécurité et des conditions de travail comprennent en nombre égal des représentants de l'établissement et des représentants du personnel. Une élection au scrutin de liste proportionnel à la plus forte moyenne sans panachage ni vote préférentiel, sur présentation des organisations syndicales représentatives, permet de pourvoir les sièges des représentants du personnel selon les mêmes modalités que celles prévues pour les comités consultatifs paritaires. Le médecin-conseil siège avec voix consultative.

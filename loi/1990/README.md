@@ -3,6 +3,7 @@
 - [Loi n° 77-680 du 30 juin 1977](loi-n-77-680-du-30-juin-1977)
 - [Loi n° 79-563 du 6 juillet 1979](loi-n-79-563-du-6-juillet-1979)
 - [Loi n° 89-1013 du 31 décembre 1989 (ACVX8900143L)](loi-n-89-1013-du-31-decembre-1989-acvx8900143l)
+- [Loi n° 89-1014 du 31 décembre 1989 (ECOX8900025L)](loi-n-89-1014-du-31-decembre-1989-ecox8900025l)
 - [Loi n° 89-1016 du 31 décembre 1989 (MAEX8900152L)](loi-n-89-1016-du-31-decembre-1989-maex8900152l)
 - [Loi n° 89-1017 du 31 décembre 1989 (INTX8900105L)](loi-n-89-1017-du-31-decembre-1989-intx8900105l)
 - [Loi n° 90-14 du 2 janvier 1990 (MAEX8900081L)](loi-n-90-14-du-2-janvier-1990-maex8900081l)

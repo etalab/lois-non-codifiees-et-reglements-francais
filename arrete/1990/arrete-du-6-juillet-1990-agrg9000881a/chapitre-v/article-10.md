@@ -1,0 +1,3 @@
+# Article 10
+
+Les opérations de désinfection prévues par les décrets du 19 mars 1963 modifié, du 24 décembre 1965 et du 31 décembre 1965 modifié susvisés, lorsqu'elles sont effectuées conformément aux dispositions fixées par les arrêtés du 16 mars 1990 et du 20 mars 1990 susvisés et exécutées dans les conditions et délais prescrits par le directeur des services vétérinaires, font l'objet d'une participation de l'Etat, dans la limite de 75 p. 100 des dépenses effectivement engagées par l'éleveur. Le montant plafond de l'aide allouée par l'Etat à ce titre est fixé à 1 500 F par exploitation et par an.

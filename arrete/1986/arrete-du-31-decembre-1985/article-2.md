@@ -1,0 +1,9 @@
+# Article 2
+
+Le droit de la redevance d'abonnement et de la redevance d'utilisation institué par les articles 2 et 3 du décret du 31 décembre 1977 susvisé est fixé à :
+
+- 5 F pour chaque opération d'expédition et d'exportation ;
+
+- 10 F pour chaque opération d'introduction et d'importation.
+
+Pour les abonnés au système, le montant des droits fixes versés au titre des opérations réalisées sur chaque poste terminal ne pourra toutefois être inférieur à 25 000 F par an.

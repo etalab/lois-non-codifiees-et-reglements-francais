@@ -12,7 +12,7 @@
 
 8.2. En outre, son titulaire doit :
 
-8.2.1. Selon la ou les catégorie(s) de permis de conduire détenue(s), avoir l'âge minimal requis par les articles R. 125 et R. 125-1 du code de la route ;
+8.2.1. Selon la ou les catégorie(s) de permis de conduire détenue(s), avoir l'âge minimal requis par les articles R. 124-1 et R. 124-2 du code de la route ;
 
 8.2.2. Avoir satisfait à un examen médical réglementaire, dans le cas où un tel examen est exigé par la réglementation française.
 

@@ -1,0 +1,3 @@
+# Article 29
+
+Nonobstant toute stipulation statutaire, dans un délai expirant le 30 juin 1991, toute assemblée générale extraordinaire tenue aux fins de délibérer sur des modifications statutaires ayant pour objet le mode de représentation des sociétaires ou la mise en harmonie des statuts des sociétés d'assurance mutuelles avec les dispositions prévues par la présente loi pourra valablement délibérer si elle réunit, présents ou représentés en application des statuts en vigueur, un dixième des sociétaires, sans que cette proportion puisse conduire à exiger la présence ou la représentation de plus de mille sociétaires.

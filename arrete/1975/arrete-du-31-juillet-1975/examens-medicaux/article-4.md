@@ -63,3 +63,7 @@ Conducteurs faisant l'objet de la procédure de suspension prévue à l'article 
 Conducteurs dont l'état physique peut permettre au préfet d'estimer, d'après les informations en sa possession, qu'il est susceptible d'être incompatible avec le maintien du permis de conduire ;
 
 Conducteurs ayant fait l'objet d'une mesure restrictive ou suspensive du droit de conduire pour l'une des infractions prévues par l'article L. 1er du code de la route. Dans ce cas, l'examen médical a lieu avant la restitution du permis de conduire.
+
+4.2.3. Sont soumises à un examen médical :
+
+Les personnes souhaitant être exemptées du port de la ceinture de sécurité. "

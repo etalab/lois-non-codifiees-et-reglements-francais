@@ -1,0 +1,3 @@
+# Article 8
+
+Le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, le garde des sceaux, ministre de la justice, le ministre de la défense, le ministre de l'intérieur, le ministre de l'équipement, du logement, des transports et de la mer, le ministre du travail, de l'emploi et de la formation professionnelle et le secrétaire d'Etat auprès du ministre de l'équipement, du logement, des transports et de la mer, chargé des transports routiers et fluviaux, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

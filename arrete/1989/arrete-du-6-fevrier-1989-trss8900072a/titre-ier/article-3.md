@@ -12,7 +12,7 @@
 
 3.2. En outre, son titulaire doit :
 
-3.2.1. Selon la ou les catégorie(s) de permis de conduire détenue(s), avoir l'âge minimal requis par les articles R. 125 et R. 125-1 du code de la route ;
+3.2.1. Selon la ou les catégorie(s) de permis de conduire détenue(s), avoir l'âge minimal requis par les articles R. 124-1 et R. 124-2 du code de la route ;
 
 3.2.2. Observer, le cas échéant, les prescriptions subordonnant par une mention spéciale la validité du permis de conduire au port de certains appareils ou à certains aménagements du véhicule pour tenir compte d'une infirmité ;
 

@@ -1,6 +1,6 @@
 # Article 5
 
-Le concours sur épreuves comporte deux épreuves écrites d'admissibilité et des épreuves d'admission dont le programme est annexé au présent arrêté (1).
+Le concours sur épreuves comporte deux épreuves écrites d'admissibilité, cinq épreuves d'admission et deux épreuves facultatives dont le programme est annexé au présent arrêté (1).
 
 I. Epreuves écrites d'admissibilité
 
@@ -22,11 +22,13 @@ quinze minutes ; préparation : quinze minutes ; coefficient 3).
 
 3. Un exposé du candidat portant sur ses travaux et suivi d'une discussion avec les membres du jury qui pourra porter, en outre, sur toute autre question en rapport avec les fonctions postulées (durée maximum : quinze minutes ; coefficient 3).
 
-4. Une épreuve d'exercices physiques dont les modalités d'organisation figurent en annexe (coefficient 1) (1).    En outre, les candidats peuvent demander, lors de leur inscription, à subir une ou plusieurs des épreuves facultatives ci-après :
+4. Une épreuve orale de langue vivante comportant la lecture et la traduction d'un texte ainsi qu'une conversation dans l'une des quatre langues étrangères suivantes : allemand, anglais, espagnol ou italien (préparation : vingt minutes ; durée : vingt minutes ; coefficient 2).
 
-- une épreuve écrite de langue étrangère consistant en la traduction sans dictionnaire (sauf pour l'arabe) d'un texte rédigé dans l'une des langues suivantes : allemand, anglais, arabe, espagnol, italien, portugais ou russe (durée : une heure trente ; coefficient 1) ;
+5. Une épreuve d'exercices physiques dont les modalités d'organisation figurent en annexe (coefficient 1) (1).    En outre, les candidats peuvent demander, lors de leur inscription, à subir une ou plusieurs des épreuves facultatives ci-après :
 
-- une épreuve orale portant sur le traitement automatisé de l'information (durée : vingt minutes ; préparation : vingt minutes ; coefficient 1).
+- une épreuve orale de langue étrangère autre que celle choisie à la quatrième épreuve orale d'admission : dans l'une des langues suivantes : allemand, anglais, arabe, espagnol, italien, portugais ou russe (préparation : vingt minutes ; durée : vingt minutes ; coefficient 1) ;
+
+- une épreuve orale portant sur le traitement automatisé de l'information (préparation : vingt minutes ; durée : vingt minutes ; coefficient 1).
 
 Les notes obtenues sur épreuves facultatives ne peuvent entrer en ligne de compte en vue de l'admission que pour la partie excédant la note 10 sur 20.
 
