@@ -1,3 +1,0 @@
-# Article 1
-
-Est autorisée la ratification du premier protocole du 19 décembre 1988 concernant l'interprétation par la Cour de justice des Communautés européennes de la convention sur la loi applicable aux obligations contractuelles ouverte à la signature à Rome le 19 juin 1980 et celle du deuxième protocole du 19 décembre 1988 attribuant à la Cour de justice des Communautés européennes certaines compétences en matière d'interprétation de la convention sur la loi applicable aux obligations contractuelles ouverte à la signature à Rome le 19 juin 1980, et dont le texte est annexé à la présente loi (2).

@@ -1,9 +1,0 @@
-# Article 63
-
-Par dérogation aux dispositions de l'article 1031 du code rural, en cas de passage avec l'accord du salarié d'un régime de travail à temps complet à un régime de travail à temps partiel au sens de l'article L. 212-4-2 du code du travail, l'assiette des cotisations destinées à financer l'assurance vieillesse peut être maintenue à la hauteur du salaire correspondant à son activité exercée à temps plein. La part salariale correspondant à ce supplément d'assiette n'est pas assimilable, en cas de prise en charge par l'employeur, à une rémunération. Un décret en Conseil d'Etat détermine les conditions de mise en oeuvre de cette disposition par les employeurs.
-
-L'option retenue lors de la transformation de l'emploi vaut seulement dans le cas d'une activité à temps partiel exercée à titre exclusif et tant que l'activité reste exercée dans ces conditions.    Un décret en Conseil d'Etat fixe le taux de ces cotisations.
-
-Les dispositions du présent article sont mises en oeuvre à compter du 1er janvier 1995 pour une période de cinq ans et sont applicables aux salariés dont la transformation de l'emploi intervient à compter de cette même date.
-
-Le décret mentionné au premier alinéa fixe les conditions dans lesquelles les salariés ayant opté pour un régime de travail à temps partiel au sens de l'article L. 212-4-2 du code du travail entre le 1er janvier et le 31 décembre 1994 peuvent bénéficier, sur leur demande, des dispositions ci-dessus.

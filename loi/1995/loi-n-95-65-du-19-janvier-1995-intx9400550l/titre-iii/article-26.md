@@ -1,3 +1,0 @@
-# Article 26
-
-La présente loi est applicable dans les territoires d'outre-mer et la collectivité territoriale de Mayotte.

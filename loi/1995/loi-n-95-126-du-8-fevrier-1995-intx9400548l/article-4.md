@@ -1,0 +1,5 @@
+# Article 4
+
+I.-Les déclarations de situation patrimoniale souscrites par les membres de l'Assemblée nationale en application des dispositions de l'article L. O. 135-1 du code électoral, dans sa rédaction antérieure à la loi organique n° 95-63 du 19 janvier 1995 relative à la déclaration du patrimoine des membres du Parlement et aux incompatibilités applicables aux membres du Parlement et à ceux du Conseil constitutionnel, sont transmises à la Commission pour la transparence financière de la vie politique.
+
+II.-Les membres de l'Assemblée nationale et les personnes visées aux articles 1er et 2 de la présente loi qui ont souscrit une déclaration de situation patrimoniale avant l'entrée en vigueur de la présente loi ou de la loi organique n° 95-63 du 19 janvier 1995 relative à la déclaration du patrimoine des membres du Parlement et aux incompatibilités applicables aux membres du Parlement et à ceux du Conseil constitutionnel peuvent, s'ils le jugent utile, adresser une nouvelle déclaration conforme aux dispositions de l'article L. O. 135-1 du code électoral, tel qu'il résulte de la loi organique.
