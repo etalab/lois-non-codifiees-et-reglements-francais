@@ -1,0 +1,3 @@
+# Article 41
+
+Dans les cas prévus à l'article 30 de la loi du 30 décembre 1982 susvisée, lorsqu'un exploitant estime qu'une décision de l'autorité organisatrice lui cause préjudice, il peut dans les deux mois suivant la notification de cette décision [*délai*] demander au commissaire de la République de mettre en oeuvre une procédure amiable. L'autorité organisatrice peut également saisir le commissaire de la République en cas de désaccord avec l'exploitant. Le commissaire de la République recueille préalablement l'accord des parties concernées et désigne ensuite un collège de trois experts choisis respectivement par l'autorité organisatrice, l'exploitant et le président du tribunal administratif.
