@@ -1,6 +1,6 @@
 # Article 9
 
-Le conseil d'administration de l'école élit pour trois ans un président et un vice-président parmi ceux de ses membres qui n'exercent pas leur activité à l'école.
+Le conseil d'administration de l'école élit pour trois ans un président et un vice-président parmi les personnes extérieures à l'établissement et n'assurant pas la représentation de l'Etat.
 
 Le président réunit le conseil d'administration soit de sa propre initiative, soit à l'initiative du directeur, soit lorsque les deux tiers des membres en formulent la demande par écrit.
 

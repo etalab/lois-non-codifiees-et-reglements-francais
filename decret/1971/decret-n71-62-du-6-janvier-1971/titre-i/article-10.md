@@ -1,12 +1,12 @@
 # Article 10
 
-Dans les mêmes conditions que celles du précédent article le conseil d'administration de l'école prend des délibérations exécutoires après approbation du ministre de l'agriculture :
+Dans les mêmes conditions que celles du précédent article, le conseil d'administration de l'école prend des délibérations exécutoires après approbation du ministre de l'agriculture :
 
 Sur les projets des budgets primitif et additionnel de l'établissement ;
 
 Sur le compte financier ;
 
-sur l'acquisition, l'aliénation et l'échange d'immeubles et de valeurs mobilières ;
+Sur l'acquisition, l'aliénation et l'échange d'immeubles et de valeurs mobilières ;
 
 Sur les emprunts ;
 

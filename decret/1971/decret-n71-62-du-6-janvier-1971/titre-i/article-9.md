@@ -1,6 +1,6 @@
 # Article 9
 
-Le conseil d'administration de l'école, sur rapport du directeur, et après proposition ou avis des différentes instances consultatives de l'école pour les problèmes de leur compétence, prend des délibérations exécutoires de plein droit.
+Le conseil d'administration de l'école, sur rapport du directeur et après proposition ou avis des différentes instances consultatives de l'école pour les problèmes de leur compétence, prend des délibérations exécutoires de plein droit :
 
 Sur le programme de l'exploitation ;
 

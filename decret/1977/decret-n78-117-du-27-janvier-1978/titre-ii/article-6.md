@@ -1,37 +1,35 @@
 # Article 6
 
-Le conseil d'administration est composé de :
+Le conseil d'administration comprend trente-six membres :
 
-a) Quatre représentants de l'Etat ;
+a) Douze membres de droit :
 
-b) Quatre membres élus représentant les personnels d'enseignement de l'école ;
+- cinq représentants de l'Etat désignés par le ministre de l'agriculture ;
 
-c) Quatre membres élus représentant les élèves en cours de scolarité dans l'établissement ;
+- trois représentants des collectivités territoriales sur le territoire desquelles est situé l'établissement, désignés respectivement par le conseil régional, le conseil général et le conseil municipal de la commune d'implantation, ou l'assemblée délibérante de l'établissement public de coopération intercommunale compétent ;
 
-e) Deux membres élus représentant les personnels administratifs et de service de l'établissement ;
+- le président du conseil régional de l'ordre des vétérinaires ou son représentant ;
 
-e) Un membre élu représentant les personnels techniques de l'établissement ;
+- le président du Syndicat national des vétérinaires français ou son représentant ;
 
-f) Un membre élu représentant les personnels de recherche exerçant leur activité dans l'établissement, mais n'appartiennent pas au personnel enseignant de l'école ;
+- le président du Syndicat national des vétérinaires d'exercice libéral ou son représentant ;
 
-g) Un directeur d'unité d'enseignement et de recherche de médecine et un directeur d'unité d'enseignement et de recherche de pharmacie ;
+- le président de l'association des anciens élèves ou son représentant.
 
-h) Quatre personnalités qualifiées représentatives des activités économiques et professionnelles, notamment agricoles, intéressés par la formation vétérinaire, nommées par le ministre de l'agriculture ;
+b) Six personnalités, désignées par le ministre de l'agriculture, représentatives des professions et activités éducatives, économiques et de recherche présentant un lien avec les missions de l'établissement.
 
-i) Le président du conseil de l'ordre des vétérinaires ;
+c) Dix-huit membres élus :
 
-j) Un représentant du syndicat national des vétérinaires français ;
+- quatre représentants des professeurs et personnels de niveau équivalent ;
 
-k) Un représentant du syndicat national des vétérinaires praticiens français ;
+- quatre représentants des maîtres de conférences et des autres enseignants ;
 
-l) Le président de l'association des anciens élèves ou son représentant ;
+- cinq représentants des élèves ;
 
-m) Un représentant du conseil général désigné par cette assemblée ;
+- cinq représentants des personnels administratifs, ingénieurs, techniques, ouvriers et de service et des personnels exerçant leurs activités de recherche dans le cadre d'une unité mixte de recherche à laquelle l'établissement participe.
 
-n) Un représentant du conseil général du département où est situé l'établissement, désigné par cette assemblée ;
+Un arrêté du ministre de l'agriculture fixe les conditions dans lesquelles sont élus les membres énumérés au c.
 
-o) Un représentant du conseil municipal de la commune siège de l'établissement, désigné par cette assemblée.
+Le directeur de l'école assiste de droit aux séances du conseil d'administration. Il peut se faire accompagner par ceux de ses collaborateurs dont il estime la présence utile compte tenu de l'ordre du jour.
 
-Les conditions dans lesquelles les représentants élus sont choisis par leurs collèges respectifs sont fixées par arrêté du ministre de l'agriculture.
-
-Le directeur de l'école assiste de droit aux séances du conseil d'administration de son établissement. Il peut se faire accompagner par ceux de ses collaborateurs dont il estime la présence utile compte tenu de l'ordre du jour.
+L'agent comptable assiste avec voix consultative aux délibérations du conseil d'administration et, le cas échéant, de la commission permanente. En cas d'empêchement, il s'y fait représenter.

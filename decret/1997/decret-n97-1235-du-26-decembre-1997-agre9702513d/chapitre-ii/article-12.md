@@ -1,35 +1,23 @@
 # Article 12
 
-Le conseil d'administration comprend trente-huit membres, dont :
+Le conseil d'administration comprend quarante membres :
 
-a) Dix-neuf membres nommés :
+a) Dix membres de droit :
 
-1° Cinq représentants de l'Etat, nommés par arrêté du ministre de l'agriculture, dont :
+- six représentants de l'Etat désignés par le ministre de l'agriculture ;
 
-- un sur proposition du ministre chargé de l'enseignement supérieur ;
+- trois représentants des collectivités territoriales sur le territoire desquelles est situé l'établissement, désignés respectivement par le conseil régional, le conseil général et le conseil municipal de la commune d'implantation, ou l'assemblée délibérante de l'établissement public de coopération intercommunale compétent ;
 
-- un sur proposition du ministre chargé de l'environnement ;
+- le président de l'association des anciens élèves ou son représentant ;
 
-2° Trois représentants des collectivités locales :
+b) Dix personnalités, désignées par le ministre de l'agriculture, représentatives des professions et activités éducatives, économiques et de recherche présentant un lien avec les missions de l'établissement ;
 
-- le président du conseil régional des Pays de la Loire ou son représentant ;
+c) Vingt membres élus :
 
-- le président du conseil général de Maine-et-Loire ou son représentant ;
+- quatre représentants des professeurs et personnels de niveau équivalent ;
 
-- le maire de la ville d'Angers ou son représentant ;
+- quatre représentants des maîtres de conférences et des autres enseignants ;
 
-3° Neuf personnalités extérieures qualifiées pour leur compétence dans les domaines éducatif, de la recherche, économique et professionnel, désignées par le ministre de l'agriculture ;
+- six représentants des élèves ;
 
-4° Deux représentants des associations des anciens élèves désignés par celles-ci ;
-
-b) Dix-neuf membres élus :
-
-1° Quatre représentants des professeurs ;
-
-2° Quatre représentants des maîtres de conférences ;
-
-3° Un représentant des autres enseignants ;
-
-4° Quatre représentants des élèves, dont deux au titre de l'ENSHAP et deux au titre de l'ENIHP ;
-
-5° Six représentants des personnels administratifs, des ingénieurs et des personnels techniques de formation et de recherche régis par le décret du 6 avril 1995 susvisé et des ingénieurs des corps techniques n'exerçant pas d'activités d'enseignement.
+- six représentants des personnels administratifs, ingénieurs, techniques, ouvriers et de service et des personnels exerçant leurs activités de recherche dans le cadre d'une unité mixte de recherche à laquelle l'établissement participe.

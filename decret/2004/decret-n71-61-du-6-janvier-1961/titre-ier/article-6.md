@@ -1,31 +1,31 @@
 # Article 6
 
-Le conseil général de l'école est composé de :
+Le conseil d'administration comprend quarante membres :
 
-- Sept représentants de l'Etat désignés par le ministre de l'agriculture ;
+a) Dix membres de droit :
 
-- Sept membres élus représentant les personnels d'enseignement de l'école ;
+- six représentants de l'Etat désignés par le ministre de l'agriculture ;
 
-- Deux membres élus représentant les personnels de recherche exerçant leur activité dans l'établissement mais n'appartenant pas au personnel enseignant de l'école ;
+- trois représentants des collectivités territoriales sur le territoire desquelles est situé l'établissement, désignés respectivement par le conseil régional, le conseil général et le conseil municipal de la commune d'implantation, ou l'assemblée délibérante de l'établissement public de coopération intercommunale compétent ;
 
-- Sept membres élus représentant les élèves en cours de scolarité dans l'établissement ;
+- le président de l'association des anciens élèves ou son représentant.
 
-- Deux personnalités scientifiques nommées par le ministre de l'agriculture ;
+b) Dix personnalités, désignées par le ministre de l'agriculture, représentatives des professions et activités éducatives, économiques et de recherche présentant un lien avec les missions de l'établissement.
 
-- Sept personnalités qualifiées représentatives des activités économiques, et notamment agricoles, intéressées par la formation donnée à l'école, nommées par le ministre de l'agriculture ;
+c) Vingt membres élus :
 
-- Deux membres élus représentant les personnels administratifs et de service de l'établissement ;
+- quatre représentants des professeurs et personnels de niveau équivalent ;
 
-- Un membre élu représentant les personnels techniques de l'établissement ;
+- quatre représentants des maîtres de conférences et des autres enseignants ;
 
-- Le président de l'association des anciens élèves de l'école ou son représentant ;
+- six représentants des élèves ;
 
-- Un représentant du conseil général du département où est situé l'établissement ou de l'instance en tenant lieu, désigné pour la durée de son mandat par cette assemblée ;
+- six représentants des personnels administratifs, ingénieurs, techniques, ouvriers et de service et des personnels exerçant leurs activités de recherche dans le cadre d'une unité mixte de recherche à laquelle l'établissement participe.
 
-- Un représentant du conseil municipal de la commune du siège de l'établissement ou de l'instance en tenant lieu, désigné pour la durée de son mandat par cette assemblée.
+Un arrêté du ministre de l'agriculture fixe les conditions dans lesquelles sont élus les membres énumérés au c.
 
-Les représentants élus le sont par leur collège respectif dans des conditions fixées par arrêté du ministre de l'agriculture.
+Les membres du conseil d'administration décédés ou démissionnaires et ceux qui, en cours de mandat, n'occupent plus les fonctions en raison desquelles ils ont été désignés doivent être remplacés. Les nouveaux membres sont désignés pour la durée du mandat restant à courir des membres qu'ils remplacent.
 
-Le directeur de l'école assiste de droit aux séances du conseil général de l'école. Il peut se faire accompagner par ceux de ses collaborateurs dont il estime la présence utile compte tenu de l'ordre du jour de la réunion.
+Le directeur de l'école assiste de droit aux séances du conseil d'administration. Il peut se faire accompagner par ceux de ses collaborateurs dont il estime la présence utile compte tenu de l'ordre du jour de la réunion.
 
-L'agent comptable assiste avec voix consultative aux délibérations du conseil général ou de la commission permanente. Au cas où il serait empêché, il doit s'y faire représenter.
+L'agent comptable assiste avec voix consultative aux délibérations du conseil d'administration et, le cas échéant, de la commission permanente. En cas d'empêchement, il s'y fait représenter.
