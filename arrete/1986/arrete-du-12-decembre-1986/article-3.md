@@ -1,5 +1,5 @@
 # Article 3
 
-Le second volet, soit de format 100 mm 187 mm, soit d'un format inférieur si des raisons techniques l'imposent, constitue l'avis de contravention qui est remis au contrevenant ou lui est adressé.
+La composition du dossier de demande d'admission aux avantages de retraite est fixée par l'organisme mentionné à l'article 1er ci-dessus. Il comporte, notamment, un état des services définis aux articles 1er, 2 et 3 du décret du 27 août 1986 mentionnant leur nature, leur durée hebdomadaire, les périodes d'exercice ainsi que l'identification des établissements auprès desquels ils ont été effectués.
 
-Il comporte, au recto, les mentions relatives au service verbalisateur et à la nature, au lieu et à la date de la contravention. Un emplacement est réservé au justificatif du paiement.
+L'établissement de cet état de services relève de la compétence des autorités académiques en ce qui concerne les services d'enseignement public et les services accomplis dans des établissements d'enseignement privés ou dans des tâches de formation de maîtres d'établissements d'enseignement privés, mentionnés par les décrets n°s 60-745 et 60-746 du 28 juillet 1960 modifiés et le décret n° 64-217 du 10 mars 1964 modifié, ainsi que les fonctions de direction d'établissements privés déclarés en application des lois du 15 mars 1850 et du 30 octobre 1886 et du décret du 14 septembre 1956.

@@ -1,4 +1,4 @@
-# Arrêté du 12 décembre 1986 relatif aux imprimés utilisés pour la constatation et le paiement des contraventions soumises à la procédure de l'amende forfaitaire
+# Arrêté du 12 décembre 1986 relatif à la liquidation des avantages de retraite institués par la loi n° 85-489 du 9 mai 1985 relative aux conditions de cessation d'activité de maîtres de l'enseignement public ayant exercé dans certains établissements d'enseignement privés et le décret n° 86-999 du 27 août 1986 pris pour son application
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,4 +1,4 @@
-# Arrêté du 22 avril 1985 créant une commission chargée de la modernisation du code du travail et relatif à sa composition
+# Arrêté du 22 avril 1985 fixant les modalités d'élection du conseil d'administration de l'Union centrale des caisses de crédit municipal
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

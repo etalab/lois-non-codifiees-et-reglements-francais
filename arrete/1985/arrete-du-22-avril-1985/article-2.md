@@ -1,3 +1,3 @@
 # Article 2
 
-La commission prévue à l'article 1er du présent arrêté est composée de représentants du ministère de la justice, du ministère de l'agriculture, du ministère de l'urbanisme, du logement et des transports et du ministère du travail, de l'emploi et de la formation professionnelle.
+Le collège des directeurs de caisses de crédit municipal élit ses représentants à l'Union centrale des caisses de crédit municipal suivant les mêmes modalités que le collège des présidents, telles qu'elle sont décrites à l'article 1er du présent arrêté.

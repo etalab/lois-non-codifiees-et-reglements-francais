@@ -96,9 +96,7 @@ Le président de la confédération des petites et moyennes entreprises ou son r
 
 Le président de la Fédération nationale des syndicats d'exploitants agricoles ou son représentant ;
 
-Le président de l'Agence nationale pour l'information touristique ou son représentant ;
-
-Le président de l'association Bienvenue France ou son représentant ;
+Le président du directoire de la Maison de la France ou son représentant ;
 
 Le président de l'Agence nationale des chèques-vacances ou son représentant ;
 

@@ -1,7 +1,3 @@
 # Article 5
 
-Les contraventions non soumises à la procédure de l'amende forfaitaire qui ont donné lieu à l'interpellation du contrevenant peuvent être constatées au moyen du formulaire décrit aux articles précédents.
-
-Au verso du premier volet remis au contrevenant figure un emplacement pour indiquer que la procédure de l'amende forfaitaire n'est pas applicable et que la contravention sera jugée par le tribunal de police.
-
-Au verso du troisième volet, sur la partie gauche, est établi un rapport d'infraction qui fait mention des déclarations du contrevenant et comporte sa signature ainsi que celle de l'agent verbalisateur.
+Le décompte définitif des services est arrêté par l'organisme mentionné à l'article 1er ci-dessus qui procède à toute vérification utile auprès de la direction de l'administration centrale chargée de la liquidation des pensions civiles, des autorités académiques, des responsables des établissements mentionnés à l'article 1er de la loi du 9 mai 1985, des caisses du régime général de sécurité sociale chargées de la gestion du risque vieillesse, des institutions relevant de l'Association générale des institutions de retraite des cadres (A.G.I.R.C.) et de l'Association des régimes de retraites complémentaires (A.R.R.C.O.) et, éventuellement, de l'Institution de retraites complémentaires des agents non titulaires de l'Etat et des collectivités publiques (I.R.C.A.N.T.E.C.).

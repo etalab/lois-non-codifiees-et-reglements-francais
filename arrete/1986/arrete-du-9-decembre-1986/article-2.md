@@ -1,5 +1,3 @@
 # Article 2
 
-La taxe applicable au service est la suivante :
-
-Prélèvement interbancaire de crédit accéléré : 2,00 F par opération, quel que soit le montant.
+Le directeur central du service de santé des armées est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -11,6 +11,8 @@
 - [Article 3 bis](article-3-bis.md)
 - [Article 3 ter](article-3-ter.md)
 - [Article 3 quater](article-3-quater.md)
+- [Article 3 octies](article-3-octies.md)
+- [Article 3 nonies](article-3-nonies.md)
 - [Chapitre IV : Des locations et sous-locations en meublé.](chapitre-iv)
 - [Chapitre V : De la procédure.](chapitre-v)
 - [Chapitre VI : Des sanctions.](chapitre-vi)
