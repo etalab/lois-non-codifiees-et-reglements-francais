@@ -10,7 +10,6 @@
 - [Décret n°88-481 du 2 mai 1988 (MCCK8800268D)](decret-n88-481-du-2-mai-1988-mcck8800268d)
 - [Décret n°88-494 du 2 mai 1988 (ASES8800594D)](decret-n88-494-du-2-mai-1988-ases8800594d)
 - [Décret n°88-495 du 2 mai 1988 (ASES8800598D)](decret-n88-495-du-2-mai-1988-ases8800598d)
-- [Décret n°88-1022 du 3 novembre 1988 (SPSP8801204D)](decret-n88-1022-du-3-novembre-1988-spsp8801204d)
 - [Décret n°88-738 du 3 juin 1988 (EQUX8800073D)](decret-n88-738-du-3-juin-1988-equx8800073d)
 - [Décret n°88-740 du 3 juin 1988 (FPPX8800062D)](decret-n88-740-du-3-juin-1988-fppx8800062d)
 - [Décret n°88-954 du 3 octobre 1988 (MAEJ8830055D)](decret-n88-954-du-3-octobre-1988-maej8830055d)
