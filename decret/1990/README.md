@@ -246,6 +246,7 @@
 - [Décret n°90-395 du 9 mai 1990 (DEFM9001445D)](decret-n90-395-du-9-mai-1990-defm9001445d)
 - [Décret n°90-399 du 9 mai 1990 (MAEJ9030033D)](decret-n90-399-du-9-mai-1990-maej9030033d)
 - [Décret n°90-403 du 9 mai 1990 (EQUS9000025D)](decret-n90-403-du-9-mai-1990-equs9000025d)
+- [Décret n°86-51 du 10 janvier 1986](decret-n86-51-du-10-janvier-1986)
 - [Décret n°90-318 du 10 avril 1990 (JUSA9000019D)](decret-n90-318-du-10-avril-1990-jusa9000019d)
 - [Décret n°90-327 du 10 avril 1990 (MERE9000015D)](decret-n90-327-du-10-avril-1990-mere9000015d)
 - [Décret n°90-328 du 10 avril 1990 (MERE9000016D)](decret-n90-328-du-10-avril-1990-mere9000016d)
