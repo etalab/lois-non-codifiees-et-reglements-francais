@@ -1,0 +1,3 @@
+# Article 4
+
+Le service vétérinaire à partir de la date fixée dans les conditions indiquées à l'article 2 (2°), fait prélever inopinément, en présence du responsable de l'atelier ou de l'un de ses représentants dûment mandaté, un échantillon de beurre à l'usine ou à l'atelier d'empaquetage. Il vérifie, par toutes épreuves utiles, si l'échantillon répond aux normes fixées. Il avertit aussitôt l'usine ou l'atelier d'empaquetage des résultats de ce premier contrôle et, si ces résultats sont favorables, lui communique le numéro d'ordre qui, figurant sur les papiers d'emballage, permettra l'identification de l'usine ou de l'atelier d'empaquetage.

@@ -1,0 +1,3 @@
+# Article 1
+
+Est interdit et considéré comme une tromperie sur les qualités substantielles de la marchandise au sens de la loi du 1er août 1905, l'emploi de toute indication, de tout signe, de tout mode de présentation, en particulier par l'usage du mot "tailleur" ou de toute autre dénomination comprenant ce mot, susceptible de faire croire à un acheteur qu'un vêtement masculin a été exécuté suivant les procédés techniques conformes aux usages loyaux et constants de la profession de tailleur, qui comportent la coupe individuelle aux mesures exactes du client lorsque ledit vêtement n'a pas été exécuté dans ces conditions.
