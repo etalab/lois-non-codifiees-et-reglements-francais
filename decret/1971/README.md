@@ -1,5 +1,6 @@
 # 1971
 
+- [Décret du 2 avril 1971](decret-du-2-avril-1971)
 - [Décret n°71-121 du 5 février 1971](decret-n71-121-du-5-fevrier-1971)
 - [Décret n°71-23 du 6 janvier 1971](decret-n71-23-du-6-janvier-1971)
 - [Décret n°71-34 du 6 janvier 1971](decret-n71-34-du-6-janvier-1971)
@@ -15,5 +16,6 @@
 - [Décret n°71-209 du 18 mars 1971](decret-n71-209-du-18-mars-1971)
 - [Décret n°74-543 du 20 mai 1974](decret-n74-543-du-20-mai-1974)
 - [Décret n°72-310 du 21 avril 1972](decret-n72-310-du-21-avril-1972)
+- [Décret n°71-248 du 25 mars 1971](decret-n71-248-du-25-mars-1971)
 - [Décret n°71-318 du 26 juillet 1971](decret-n71-318-du-26-juillet-1971)
 - [Décret n°70-1329 du 31 décembre 1970](decret-n70-1329-du-31-decembre-1970)
