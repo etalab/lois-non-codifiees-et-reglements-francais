@@ -8,6 +8,6 @@ Les boissons définies aux articles 9 et 12 du décret du 30 septembre 1953 susv
 
 - être concentrées par congélation ou tout autre procédé physique à l'exclusion du feu direct ;
 
-- être clarifiées au moyen de l'une ou l'autre des substances suivantes : gélatine alimentaire, colle de poisson, caséine et caséinates de potassium, albumine animale (ovalbumine et poudre de sang séché), bentonite, dioxyde de silicium sous forme de gel ou de solution colloïdale, kaolin, tanin ;
+- être clarifiées au moyen de l'une ou l'autre des substances suivantes : gélatine alimentaire, colle de poisson, caséine et caséinates de potassium, ovalbumine, bentonite, dioxyde de silicium sous forme de gel ou de solution colloïdale, kaolin, tanin ;.
 
 - faire l'objet de traitements thermiques.

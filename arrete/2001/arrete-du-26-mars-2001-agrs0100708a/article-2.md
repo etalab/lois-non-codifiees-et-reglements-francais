@@ -1,0 +1,3 @@
+# Article 2
+
+Les subventions sont versées sur la base de dépenses subventionnables plafonnées. Le taux de subvention est différencié entre zone de montagne et zone de haute montagne. Il peut être majoré dans chacune des zones si l'exploitant est un jeune agriculteur répondant aux conditions définies aux articles R. 343-4 à R. 343-18 du code rural ou si le bâtiment est construit en bois. En zone de montagne le taux minimum est de 20 %, il est de 22 % si l'agriculteur est un jeune agriculteur ou si le bâtiment est en bois, et de 24 % si les deux conditions sont réunies, jeune agriculteur et bâtiment bois. En haute montagne, ces taux sont respectivement de 24 %, 28 % et 32 %.
