@@ -4,7 +4,7 @@
 - [Titre II : Accès à la profession d'avocat](titre-ii)
 - [Titre III : L'exercice de la profession d'avocat](titre-iii)
 - [Titre IV : La discipline](titre-iv)
-- [Titre V : La libre prestation de services en France par les avocats des Etats membres des communautés européennes.](titre-v)
+- [Titre V : L'exercice de la profession d'avocat par les ressortissants des états membres de la communauté européenne et de la Confédération suisse](titre-v)
 - [Titre VI : L'assurance, la garantie financière, les règlements pécuniaires et la comptabilité des avocats](titre-vi)
 - [Titre VII : Dispositions transitoires.](titre-vii)
 - [Titre VIII : Dispositions diverses.](titre-viii)
