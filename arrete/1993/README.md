@@ -1080,7 +1080,6 @@
 - [Arrêté du 30 août 1993 (EQUT9301011A)](arrete-du-30-aout-1993-equt9301011a)
 - [Arrêté du 30 août 1993 (MJSK9370168A)](arrete-du-30-aout-1993-mjsk9370168a)
 - [Arrêté du 30 août 1993 (SPSP9302191A)](arrete-du-30-aout-1993-spsp9302191a)
-- [Arrêté du 30 avril 1993 (INDP9320202A)](arrete-du-30-avril-1993-indp9320202a)
 - [Arrêté du 30 avril 1993 (INDP9320230A)](arrete-du-30-avril-1993-indp9320230a)
 - [Arrêté du 30 avril 1993 (INDP9320231A)](arrete-du-30-avril-1993-indp9320231a)
 - [Arrêté du 30 avril 1993 (INDP9320232A)](arrete-du-30-avril-1993-indp9320232a)
