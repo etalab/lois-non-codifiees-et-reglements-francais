@@ -1,0 +1,3 @@
+# Article 4
+
+Dans le cas où la réduction du temps de travail est opérée en application du V de l'article 3 de la loi du 13 juin 1998 susvisée et permet d'éviter des licenciements pour motif économique, l'entreprise doit maintenir l'effectif total de l'entreprise ou du ou des établissements au moment de la mise en oeuvre de la procédure de licenciement économique après prise en compte, le cas échéant, des suppressions d'emplois prévues par cette procédure que la réduction du temps de travail n'a pu permettre d'éviter. La durée minimale de maintien des effectifs de deux ans s'apprécie à compter de la date d'entrée en vigueur de la convention conclue entre l'Etat et l'entreprise.
