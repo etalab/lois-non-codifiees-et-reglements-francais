@@ -18,6 +18,8 @@ PS 8 : Revolver d'alarme.
 
 PS 9 : Pistolet semi-automatique d'alarme.
 
+PS 10 : Pistolet-mitrailleur Sten MK III.
+
 PS 1.
 
 Colt 1911 et dérivés.
@@ -157,3 +159,19 @@ Agrandir le canal du percuteur, meuler la cuvette de tir et souder si le matéri
 Meuler la montée de cartouche si elle existe.
 
 Sur la glissière et chargeur, le point de soudure sur le canal du percuteur ne sera mis en place que si la nature du matériau le permet.
+
+PS 10.
+
+Pistolet-mitrailleur Sten MK III.
+
+Canon :
+
+- percer un trou de diamètre 8 mm non débouchant, à partir d'un trou de la tubulure extérieure, le plus près possible de la chambre du canon ;
+
+- introduire dans l'alésage une goupille élastique genre "mécanindus" ;
+
+- percer un autre trou de 8 mm de diamètre en avant du trou précédent ;
+
+- déposer un point de soudure à l'arc dans la chambre.
+
+Mécanisme de fermeture : Fiche U3.
