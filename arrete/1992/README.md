@@ -402,6 +402,7 @@
 - [Arrêté du 11 août 1992 (ENVE9250281A)](arrete-du-11-aout-1992-enve9250281a)
 - [Arrêté du 11 décembre 1991 (ENVN9161406A)](arrete-du-11-decembre-1991-envn9161406a)
 - [Arrêté du 11 décembre 1991 (EQUS9101811A)](arrete-du-11-decembre-1991-equs9101811a)
+- [Arrêté du 11 décembre 1992 (BUDB9260064A)](arrete-du-11-decembre-1992-budb9260064a)
 - [Arrêté du 11 février 1992 (ECOC9200023A)](arrete-du-11-fevrier-1992-ecoc9200023a)
 - [Arrêté du 11 février 1992 (MENN9200245A)](arrete-du-11-fevrier-1992-menn9200245a)
 - [Arrêté du 11 février 1992 (MENN9200246A)](arrete-du-11-fevrier-1992-menn9200246a)
