@@ -1,3 +1,0 @@
-# Article 23
-
-Sont abrogés les décrets n° 54-870 du 2 septembre 1954 portant règlement d'administration publique relatif au statut particulier du sous-inspecteur du service intérieur de la présidence du conseil, n° 58-980 du 16 octobre 1958 portant règlement d'administration publique relatif au statut particulier du sous-inspecteur du service intérieur du ministère de l'éducation nationale, n° 58-1080 du 6 novembre 1958 portant règlement d'administration publique relatif au statut de l'agent spécial du service intérieur de l'Université de Paris et n° 60-217 du 4 mars 1960 relatif au statut particulier des chefs adjoints et sous-chefs du service intérieur de la caisse des dépôts et consignations.
