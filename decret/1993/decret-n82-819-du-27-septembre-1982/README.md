@@ -2,4 +2,5 @@
 
 - [Titre Ier : Des concours d'entrée](titre-ier)
 - [Titre II : De la scolarité](titre-ii)
+- [Titre III : De l'administration de l'école.](titre-iii)
 - [Titre IV : Dispositions transitoires et diverses.](titre-iv)
