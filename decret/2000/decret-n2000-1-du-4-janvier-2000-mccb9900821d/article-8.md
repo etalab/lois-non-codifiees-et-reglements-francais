@@ -1,0 +1,3 @@
+# Article 8
+
+Dans le cas où le spectacle présenté faisant appel à plusieurs disciplines artistiques, la détermination de l'association qui doit percevoir le produit de la taxe soulève des difficultés, le ministre chargé de la culture détermine celle des deux associations mentionnées à l'article 1er au profit de laquelle la taxe est perçue. Il se prononce après avis d'une commission, composée de représentants de l'Etat et des associations précitées et qui est saisie soit par le président de l'une de ces associations, soit par le redevable de la taxe. Un arrêté du même ministre fixe la composition et les conditions de fonctionnement de cette commission.
