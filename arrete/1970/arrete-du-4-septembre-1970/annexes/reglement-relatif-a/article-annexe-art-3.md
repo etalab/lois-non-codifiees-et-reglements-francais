@@ -134,6 +134,8 @@ Il est licite pour le chirurgien de faire éventuellement état de deux de ces c
 
 - l'endocrinologie et maladies métaboliques .
 
+- dermatologie - vénéréologie.
+
 L'exercice de cette compétence est limitée à la discipline dans laquelle le praticien a été qualifié spécialiste.
 
 5° Est considérée comme compétence pouvant être exercée avec la stomatologie la discipline suivante : orthopédie dento-maxillo-faciale.
