@@ -1,3 +1,3 @@
 # Article 8
 
-Nul ne peut siéger dans la formation de jugement s'il est parent, conjoint ou allié jusqu'au quatrième degré de la personne déférée ou s'il a eu à connaître du dossier de celle-ci devant la juridiction disciplinaire de première instance.
+Nul ne peut siéger dans la formation de jugement ou dans la formation mentionnée à l'article 10-1 s'il existe une raison sérieuse de mettre en doute son impartialité.

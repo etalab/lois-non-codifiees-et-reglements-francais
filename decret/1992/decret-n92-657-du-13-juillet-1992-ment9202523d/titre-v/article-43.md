@@ -1,5 +1,3 @@
 # Article 43
 
-Lorsque la fraude est découverte après la délivrance du diplôme, l'annulation des épreuves d'examen ou de concours entraîne la nullité du diplôme et, le cas échéant, l'annulation du bénéfice des épreuves d'admission.
-
-L'autorité administrative compétente pour délivrer le diplôme retire celui-ci lorsque la décision de la section disciplinaire est devenue définitive.
+Lorsqu'une sanction est prononcée en application des articles 40 ou 41 en raison d'une fraude ou tentative de fraude, après l'inscription, la délivrance du diplôme ou l'admission à l'examen ou au concours, l'autorité administrative compétente retire, en conséquence de la nullité devenue définitive en résultant, l'inscription, le diplôme ou l'admission à l'examen ou au concours et saisit, le cas échéant, le jury pour une nouvelle délibération portant sur les résultats obtenus par l'intéressé.

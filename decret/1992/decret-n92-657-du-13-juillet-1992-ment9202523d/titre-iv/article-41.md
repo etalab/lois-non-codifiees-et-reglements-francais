@@ -10,4 +10,6 @@ Les sanctions disciplinaires applicables aux usagers mentionnés aux c et d de l
 
 4° L'interdiction définitive de passer tout examen conduisant à un titre ou diplôme délivré par un établissement public dispensant des formations post-baccalauréat et de prendre toute inscription dans un établissement public dispensant des formations post-baccalauréat.
 
-Toute sanction prévue au présent article et prononcée dans le cas d'une fraude ou d'une tentative de fraude entraîne, pour l'intéressé, la nullité de l'examen qui est prononcée par l'autorité habilitée à délivrer le diplôme.
+Toute sanction prévue au présent article et prononcée dans le cas d'une fraude ou d'une tentative de fraude commise à l'occasion d'une inscription entraîne, pour l'intéressé, la nullité de l'inscription.
+
+Toute sanction prévue au présent article et prononcée dans le cas d'une fraude ou d'une tentative de fraude commise à l'occasion d'un examen entraîne, pour l'intéressé, la nullité de l'épreuve correspondante. L'intéressé est réputé avoir été présent à l'épreuve sans l'avoir subie. La juridiction disciplinaire décide s'il y a lieu de prononcer, en outre, à l'égard de l'intéressé, la nullité du groupe d'épreuves ou de la session d'examen.

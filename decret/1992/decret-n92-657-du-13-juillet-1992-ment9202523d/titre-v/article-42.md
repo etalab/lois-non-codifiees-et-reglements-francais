@@ -7,3 +7,5 @@ Si l'examen comporte un second groupe d'épreuves, les candidats sont admis à y
 Aucun certificat de réussite, ni de relevé de notes ne peuvent être délivrés avant que la formation de jugement ait statué.
 
 Il en est de même lorsque le jury décide de saisir l'une des autorités mentionnées à l'article 23 des cas de fraudes présumées.
+
+En cas de nullité de l'épreuve ou du groupe d'épreuves correspondant résultant d'une sanction prononcée en application des articles 40 ou 41, l'autorité administrative saisit le jury pour une nouvelle délibération portant sur les résultats obtenus par l'intéressé.

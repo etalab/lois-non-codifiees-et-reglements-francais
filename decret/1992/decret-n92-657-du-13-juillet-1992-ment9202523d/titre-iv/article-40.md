@@ -14,6 +14,8 @@ Les sanctions disciplinaires applicables aux usagers des établissements publics
 
 6° L'exclusion définitive de tout établissement public d'enseignement supérieur.
 
-Toute sanction prévue au présent article et prononcée dans le cas d'une fraude ou d'une tentative de fraude commise à l'occasion d'une inscription, d'une épreuve de contrôle continu, d'un examen ou d'un concours, entraîne, pour l'intéressé, la nullité de cet examen ou de ce concours. La nullité est prononcée par l'autorité habilitée à délivrer le diplôme ou, pour les concours, par l'autorité ayant la responsabilité de l'admission.
+Toute sanction prévue au présent article et prononcée dans le cas d'une fraude ou d'une tentative de fraude commise à l'occasion d'une inscription entraîne la nullité de l'inscription.
+
+Toute sanction prévue au présent article et prononcée dans le cas d'une fraude ou d'une tentative de fraude commise à l'occasion d'une épreuve de contrôle continu, d'un examen ou d'un concours, entraîne, pour l'intéressé, la nullité de l'épreuve correspondante. L'intéressé est réputé avoir été présent à l'épreuve sans l'avoir subie. La juridiction disciplinaire décide s'il y a lieu de prononcer, en outre, à l'égard de l'intéressé, la nullité du groupe d'épreuves ou de la session d'examen ou du concours.
 
 Les sanctions prévues au 3° du présent article sans être assorties du sursis ainsi qu'aux 4°, 5°, et 6° entraînent en outre l'incapacité de prendre des inscriptions dans le ou les établissements publics dispensant des formations post-baccalauréat et de subir des examens sanctionnant ces formations.

@@ -1,6 +1,6 @@
 # Article 31
 
-Au jour fixé pour la séance de jugement, le rapporteur donne lecture du rapport. L'intéressé et, s'il en fait la demande, son conseil sont ensuite entendus dans leurs observations.
+Au jour fixé pour la séance de jugement, le rapporteur ou, en cas d'absence de celui-ci, un membre de la formation de jugement désigné par le président parmi les enseignants-chercheurs donne lecture du rapport. L'intéressé et, s'il en fait la demande, son conseil sont ensuite entendus dans leurs observations.
 
 Si le président estime nécessaire d'entendre des témoins, cette audition a lieu contradictoirement en présence de l'intéressé et, éventuellement, de son conseil.
 

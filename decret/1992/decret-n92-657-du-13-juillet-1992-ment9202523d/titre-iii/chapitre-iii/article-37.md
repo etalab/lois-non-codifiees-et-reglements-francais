@@ -4,4 +4,4 @@ L'appel et l'appel incident peuvent être formés devant le Conseil national de 
 
 L'appel est formé dans le délai de deux mois à compter de la notification de la décision.
 
-Lorsque la décision concerne un usager mentionné au c du 2° de l'article 2, le délai d'appel est de quinze jours à compter de la notification de cette décision. Toutefois, le recteur d'académie dispose d'un délai supplémentaire de huit jours francs.
+Lorsque la décision concerne un usager mentionné au c du 2° de l'article 2, le délai d'appel est de quinze jours à compter de la notification de cette décision.
