@@ -10,7 +10,9 @@ I - 1° Les personnes physiques qui mettent à la disposition de la société do
 
 2° Les dépôts dont les intérêts bénéficient du régime d'imposition prévu au 1° ci-dessus ne sont pas pris en compte pour le calcul du total des avances prévu au 1° du I de l'article 125 B du code général des impôts.
 
-3° La limite prévue au 1° de l'article 212 du code général des impôts n'est pas applicable aux intérêts bénéficiant des dispositions du 1° ci-dessus.
+Dans les douze mois suivant leur dépôt, l'assemblée des associés statuant selon les conditions fixées pour la modification des statuts ou, selon le cas, l'assemblée générale extraordinaire des actionnaires, doit se prononcer sur le principe et les modalités de l'augmentation de capital qui permettra l'incorporation de ces sommes.
+
+3° La limite prévue au 1° de l'article 212 du code général des impôts n'est pas applicable aux intérêts bénéficiant des ns dispositions du 1° ci-dessus.
 
 4° Les sociétés débitrices doivent joindre à leur déclaration de résultats un état des sommes mises à leur disposition dans les conditions prévues au 1° ci-dessus.
 
