@@ -4,3 +4,4 @@
 - [Arrêté du 12 juillet 1954](arrete-du-12-juillet-1954)
 - [Arrêté du 16 juillet 1954](arrete-du-16-juillet-1954)
 - [Arrêté du 19 juillet 1954](arrete-du-19-juillet-1954)
+- [Arrêté du 25 août 1954](arrete-du-25-aout-1954)
