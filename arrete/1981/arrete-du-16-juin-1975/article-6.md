@@ -1,3 +1,3 @@
 # Article 6
 
-Le préfet du Calvados est chargé de l'application du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le préfet des Yvelines est chargé de l'application du présent arrêté, qui sera publié au Journal officiel de la République française.

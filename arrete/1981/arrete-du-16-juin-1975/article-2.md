@@ -1,33 +1,49 @@
 # Article 2
 
-Les coefficients d'équivalence applicables aux cultures spécialisées visées à l'article 188-3 du Code rural sont fixés comme suit :
+Les coefficients d'équivalence applicables aux cultures spécialisées en vue de leur comparaison avec les superficies retenues en polyculture sont fixés comme suit :
 
-Cultures légumières de plein champ : 5
+Cultures maraîchères de plein champ : 6
 
-Cultures maraîchères :
+Bulbes, graines de semence : 4
 
-Moins de 5 % de châssis : 12
+Terrains d'épandage, endives : 5
 
-5 % à 15 % en châssis : 20
+Cultures arbustives, fraises, plantes médicinales : 7
 
-Arboriculture fruitière (basses tiges) : 3
+Cultures de pleine terre avec arrosage : 12
 
-Petits fruits : 12
+Cultures sous châssis, sous cloches, sous bâches : 23
 
-Endives, forçage seulement : 6
+Cressonnières, cultures en bassin : 100
 
-Endives, culture plus forçage : 7
+Cultures sous serres hautes (forceries, légumes ou fruits) : 66
 
-Champignons : 35
+Pépinières :
 
-Pépinières générales : 5
+Forestières : 3
 
-Pépinières sylvicoles : 7
+Jeunes plants : 25
 
-Cultures florales de plein air : 30
+Fruitières : 7
 
-Cultures florales sous châssis et serres : 70
+Ornement : 8
 
-Salmoniculture et pisciculture : 200
+Arboriculture :
 
-Ostréiculture : 1 ha = 1 S.M.I.
+Hautes tiges : 3
+
+Basses tiges : 4
+
+Cultures florales :
+
+De plein air : 25
+
+Plantes à parfum : 15
+
+Sous abris (serres froides, châssis) : 60
+
+Serres ou châssis chauffés : 150
+
+Pivoines : 17
+
+Aquiculture : 1.200.
