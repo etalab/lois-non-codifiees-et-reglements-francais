@@ -16,6 +16,7 @@
 - [Arrêté du 2 janvier 2004 (MCCK0300894A)](arrete-du-2-janvier-2004-mcck0300894a)
 - [Arrêté du 2 mars 2004 (AGRE0400397A)](arrete-du-2-mars-2004-agre0400397a)
 - [Arrêté du 2 mars 2004 (MAEA0420080A)](arrete-du-2-mars-2004-maea0420080a)
+- [Arrêté du 2 mars 2004 (SANY0420798A)](arrete-du-2-mars-2004-sany0420798a)
 - [Arrêté du 2 septembre 2004 (DEFP0400853A)](arrete-du-2-septembre-2004-defp0400853a)
 - [Arrêté du 3 décembre 2003 (AGRE0302579A)](arrete-du-3-decembre-2003-agre0302579a)
 - [Arrêté du 3 février 2004 (EQUR0400186A)](arrete-du-3-fevrier-2004-equr0400186a)
