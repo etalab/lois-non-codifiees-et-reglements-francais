@@ -1079,6 +1079,7 @@
 - [Décret n°93-123 du 28 janvier 1993 (MENF9203907D)](decret-n93-123-du-28-janvier-1993-menf9203907d)
 - [Décret n°93-126 du 28 janvier 1993 (ACVP9220010D)](decret-n93-126-du-28-janvier-1993-acvp9220010d)
 - [Décret n°93-130 du 28 janvier 1993 (DEFD9301060D)](decret-n93-130-du-28-janvier-1993-defd9301060d)
+- [Décret n°93-1342 du 28 décembre 1993 (EQUH9301878D)](decret-n93-1342-du-28-decembre-1993-equh9301878d)
 - [Décret n°93-136 du 28 janvier 1993 (DEFP9202182D)](decret-n93-136-du-28-janvier-1993-defp9202182d)
 - [Décret n°93-137 du 28 janvier 1993 (SPSG9203133D)](decret-n93-137-du-28-janvier-1993-spsg9203133d)
 - [Décret n°93-867 du 28 juin 1993 (JUSD9330009D)](decret-n93-867-du-28-juin-1993-jusd9330009d)

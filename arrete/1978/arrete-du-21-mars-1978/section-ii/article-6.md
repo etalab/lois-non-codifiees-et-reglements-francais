@@ -60,11 +60,13 @@ Sm par logement à usage familial incorporé au foyer
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-</table>
-
-Dans le cas des foyers-soleil, S pourra dépasser la limite Sm définie ci-dessus. Le dépassement autorisé est limité, pour chacun des logements des résidents disséminés dans les immeubles avoisinants, à la surface fixée par le tableau ci-dessous :
-
-<table>
+<tr>
+<td>
+<br/>   Dans le cas des foyers-soleil, S pourra dépasser la limite Sm définie ci-dessus. Le dépassement autorisé est limité, pour chacun des logements des résidents disséminés dans les immeubles avoisinants, à la surface fixée par le tableau ci-dessous :</td>
+</tr>
+<tr>
+<td/>
+</tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -109,23 +111,19 @@ Dans le cas des foyers-soleil, S pourra dépasser la limite Sm définie ci-dessu
 </tr>
 </table>
 
-Pour le calcul de S on appliquera la règle énoncée en 3.3 ci-dessus.   6.1. Charge foncière de référence de base unitaire
+Pour le calcul de S on appliquera la règle énoncée en 3.3 ci-dessus.
+
+6.1. Charge foncière de référence de base unitaire
 
 La charge foncière de référence de base unitaire, Co, toutes taxes comprises, est fixée par le tableau ci-après :
 
 VALEURS DE Co
 
-- Jusqu'au 30 juin 1993
+- A partir du 1er janvier 1994
 
-IMMEUBLES collectifs : 570 francs
+IMMEUBLES collectifs : 590 francs
 
-MAISONS individuelles : 850 francs
-
-- A partir du 1er juillet 1993
-
-IMMEUBLES collectifs : 575 francs
-
-MAISONS individuelles : 865 francs
+MAISONS individuelles : 885 francs
 
 6.2. Coefficients de pondération de la charge foncière de référence de base
 

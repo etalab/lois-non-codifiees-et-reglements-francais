@@ -1,6 +1,6 @@
 # Article 6
 
-Une personne ou un organisme spécialisé qui sollicite l'agrément prévu à l'article R. 232-5-10 du code du travail doit adresser au ministre chargé du travail ou au ministre chargé de l'agriculture un dossier de demande indiquant [*contenu*] :
+Une personne ou un organisme spécialisé qui sollicite l'agrément prévu à l'article R. 232-5-10 du code du travail doit adresser au ministre chargé du travail ou au ministre chargé de l'agriculture un dossier de demande indiquant :
 
 a) S'il s'agit d'une personne physique :
 
@@ -50,6 +50,8 @@ Mesure d'efficacité d'épuration contrôle des épurateurs, contrôle des syst�
 
 CATEGORIE D : X
 
+Nota. La catégorie A comprend les mesures aérauliques dans les locaux sanitaires dépendant des locaux à pollution non spécifique.
+
 2° Les dispositions prises pour assurer la qualité de la mesure, la désignation du matériel dont dispose la personne ou l'organisme pour les mesures, auxquelles seront jointes des pièces justificatives telles que certificat d'étalonnage, fréquence de l'entretien, essais interlaboratoires ;
 
 3° Le nom, la qualification de chaque personne chargée des mesures et des contrôles ;
@@ -78,4 +80,4 @@ Au dossier sont annexés :
 
 - d'indiquer de façon apparente dans tous les documents contractuels ou publicitaires la ou les catégories de l'agrément obtenu.
 
-Le dossier d'agrément doit être déposé en double exemplaire entre le 15 août [*point de départ*] et le 15 septembre [*date limite*] de l'année en cours.
+Le dossier d'agrément doit être déposé en double exemplaire entre le 15 août et le 15 septembre de l'année en cours.
