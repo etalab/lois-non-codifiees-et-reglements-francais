@@ -3,8 +3,6 @@
 - [Ordonnance n° 92-1067 du 1 octobre 1992 (DOMX9200155R)](ordonnance-n-92-1067-du-1-octobre-1992-domx9200155r)
 - [Ordonnance n° 92-1069 du 1 octobre 1992 (DOMX9200151R)](ordonnance-n-92-1069-du-1-octobre-1992-domx9200151r)
 - [Ordonnance n° 92-1070 du 1 octobre 1992 (DOMX9200105R)](ordonnance-n-92-1070-du-1-octobre-1992-domx9200105r)
-- [Ordonnance n°92-1068 du 1 octobre 1992 (DOMX9200152R)](ordonnance-n92-1068-du-1-octobre-1992-domx9200152r)
-- [Ordonnance n°92-1071 du 1 octobre 1992 (DOMX9200080R)](ordonnance-n92-1071-du-1-octobre-1992-domx9200080r)
 - [Ordonnance n° 92-254 du 4 mars 1992 (DOMX9200003R)](ordonnance-n-92-254-du-4-mars-1992-domx9200003r)
 - [Ordonnance n° 92-255 du 4 mars 1992 (DOMX9200001R)](ordonnance-n-92-255-du-4-mars-1992-domx9200001r)
 - [Ordonnance n°92-256 du 4 mars 1992 (DOMX9200004R)](ordonnance-n92-256-du-4-mars-1992-domx9200004r)

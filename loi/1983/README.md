@@ -17,4 +17,3 @@
 - [Loi n° 83-8 du 7 janvier 1983](loi-n-83-8-du-7-janvier-1983)
 - [Loi n° 83-967 du 9 novembre 1983](loi-n-83-967-du-9-novembre-1983)
 - [Loi n°83-629 du 12 juillet 1983](loi-n83-629-du-12-juillet-1983)
-- [Loi n°83-630 du 12 juillet 1983](loi-n83-630-du-12-juillet-1983)
