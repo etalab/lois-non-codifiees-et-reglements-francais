@@ -1,6 +1,6 @@
 # Article 12
 
-I. - Sans préjudice des dispositions des articles 27 à 29, relatifs au pari mutuel, et de l'article 36, relatif aux organismes à vocation sociale, les sociétés de courses peuvent constituer, entre elles et, le cas échéant, d'autres personnes, des organismes communs dotés de la personnalité morale dont elles assurent la direction effective et qui concourent à la réalisation de leurs missions.
+I. - Sans préjudice des dispositions des articles 27 à 29, relatifs au pari mutuel hors les hippodromes, et de l'article 36, relatif aux organismes à vocation sociale, les sociétés de courses peuvent constituer, entre elles et, le cas échéant, d'autres personnes, des organismes communs dotés de la personnalité morale dont elles assurent la direction effective et qui concourent à la réalisation de leurs missions.
 
 II. - Les sociétés mères :
 
@@ -14,9 +14,9 @@ Prennent toutes dispositions en vue de la bonne organisation des courses relevan
 
 Peuvent présenter toutes propositions au ministre chargé de l'agriculture en matière de politique de l'élevage ;
 
-Délivrent seules après enquête et avis favorable du service de police chargé des courses de chevaux au ministère de l'intérieur les autorisations de faire courir, d'entraîner, de monter et driver. Ces enquêtes doivent être effectuées pour chaque demande d'autorisation de faire courir, d'entraîner, de monter et driver. L'autorisation peut être retirée par la société mère. Elle doit l'être si le service de police chargé des courses de chevaux en fait la demande. Dans tous les cas, une procédure contradictoire doit être observée ;
+Délivrent seules après enquête et avis favorable du service de police chargé des courses de chevaux au ministère de l'intérieur les autorisations de faire courir, d'entraîner, de monter et driver. Ces enquêtes doivent être effectuées pour chaque demande d'autorisation de faire courir, d'entraîner, de monter et driver. L'autorisation peut être retirée par la société mère. Elle doit l'être si le service de police chargé des courses de chevaux en fait la demande. Dans tous les cas de retrait, une procédure contradictoire doit être observée ;
 
-Etablissent, en vue de leur transmission à la Fédération nationale des courses françaises, le projet de calendrier des réunions de courses de leur spécialité servant de support aux opérations de pari mutuel urbain ainsi que celui des réunions de courses organisées sur les hippodromes dont elles ont l'exploitation ;
+Etablissent, en vue de leur transmission à la Fédération nationale des courses françaises, le projet de calendrier des réunions de courses de leur spécialité servant de support aux opérations de pari mutuel hors les hippodromes ainsi que celui des réunions de courses organisées sur les hippodromes dont elles ont l'exploitation ;
 
 Transmettent, après concertation mutuelle, à la Fédération nationale des courses françaises le projet de calendrier des réunions de courses établi par les fédérations régionales des courses ;
 

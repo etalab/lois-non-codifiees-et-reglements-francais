@@ -1,6 +1,6 @@
 # Article 28
 
-L'assemblée des membres du Pari mutuel urbain est constituée des représentants de chacune des sociétés de courses autorisées à organiser le pari mutuel hors les hippodromes dans les conditions énoncées à l'article 27.
+L'assemblée des membres du groupement d'intérêt économique mentionné à l'article 27 est constituée des représentants de chacune des sociétés de courses autorisées à organiser le pari mutuel hors les hippodromes dans les conditions énoncées à l'article 27.
 
 Peuvent assister à l'assemblée à titre consultatif trois membres du personnel désignés par les organisations syndicales les plus représentatives du personnel dans l'entreprise.
 

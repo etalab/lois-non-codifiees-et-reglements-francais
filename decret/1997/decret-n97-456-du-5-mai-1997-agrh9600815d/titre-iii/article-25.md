@@ -4,7 +4,7 @@ I. - La Commission nationale de répartition du Fonds commun est composée des s
 
 Un conseiller maître à la Cour des comptes, président, dont la voix est prépondérante en cas de partage ;
 
-Trois représentants du ministre chargé de l'agriculture, dont le chef du service des haras, des courses et de l'équitation, commissaire du Gouvernement ;
+Trois représentants du ministre chargé de l'agriculture, dont le directeur de l'espace rural et des forêts, commissaire du Gouvernement ;
 
 Deux représentants du ministre chargé du budget, dont le contrôleur d'Etat désigné en application de l'article 35 ci-après.
 
