@@ -1,6 +1,6 @@
 # Article 9
 
-Le préfet procède à l'instruction de la demande et consulte les services locaux représentant les départements ministériels intéressés.
+Le commissaire de la République procède à l'instruction de la demande et consulte les services locaux représentant les départements ministériels intéressés.
 
 Lorsque l'agrément de l'association est sollicité au titre de l'article L. 160-1 du code de l'urbanisme ou au titre de l'article 40 de la loi du 10 juillet 1976 susvisée, le préfet recueille également l'avis du procureur général près la cour d'appel dans le ressort de laquelle l'association a son siège social.
 
