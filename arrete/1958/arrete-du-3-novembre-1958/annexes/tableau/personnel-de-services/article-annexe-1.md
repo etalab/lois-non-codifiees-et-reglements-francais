@@ -22,7 +22,7 @@
 <td> : Brigadier des gardiens de bureau    :            :           :</td>
 </tr>
 <tr>
-<td> :   ou des hommes d'équipe            :            :           :</td>
+<td> :   ou des manutentionnaires          :            :           :</td>
 </tr>
 <tr>
 <td> : Huissier du maire de 1re catégorie  :            :           :</td>
@@ -43,28 +43,28 @@
 <td> :   de 2e catégorie                   :            :           :</td>
 </tr>
 <tr>
-<td> : Homme d'équipe de 1re catégorie     :            :           :</td>
+<td> : Manutentionnaire de 1re catégorie   :            :           :</td>
 </tr>
 <tr>
-<td> : Homme d'équipe de 2e catégorie      :            :           :</td>
+<td> : Manutentionnaire de 2e catégorie    :            :           :</td>
 </tr>
 <tr>
-<td> : Femme de service des écoles         :            :           :</td>
+<td> : Agent de service des écoles         :            :           :</td>
 </tr>
 <tr>
 <td> :   de 1re catégorie                  :            :           :</td>
 </tr>
 <tr>
-<td> : Femme de service des écoles         :            :           :</td>
+<td> : Agent de service des écoles         :            :           :</td>
 </tr>
 <tr>
 <td> :   de 2e catégorie                   :            :           :</td>
 </tr>
 <tr>
-<td> : Femme de service de 1re catégorie   :   X (1)    :   X (1)   :</td>
+<td> : Agent de service de 1re catégorie   :   X (1)    :   X (1)   :</td>
 </tr>
 <tr>
-<td> : Femme de service de 2e catégorie    :   X (1)    :   X (1)   :</td>
+<td> : Agent de service de 2e catégorie    :   X (1)    :   X (1)   :</td>
 </tr>
 <tr>
 <td> : Agent spécialisé des                :            :           :</td>
@@ -99,7 +99,7 @@
 <td> : Brigadier des gardiens de bureau    :            :           :</td>
 </tr>
 <tr>
-<td> :   ou des hommes d'équipe            :            :     X     :</td>
+<td> :   ou des manutentionnaires          :            :     X     :</td>
 </tr>
 <tr>
 <td> : Huissier du maire de 1re catégorie  :            :           :</td>
@@ -120,28 +120,28 @@
 <td> :   de 2e catégorie                   :     X      :     X     :</td>
 </tr>
 <tr>
-<td> : Homme d'équipe de 1re catégorie     :     X      :     X     :</td>
+<td> : Manutentionnaire de 1re catégorie   :     X      :     X     :</td>
 </tr>
 <tr>
-<td> : Homme d'équipe de 2e catégorie      :     X      :     X     :</td>
+<td> : Manutentionnaire de 2e catégorie    :     X      :     X     :</td>
 </tr>
 <tr>
-<td> : Femme de service des écoles         :            :           :</td>
+<td> : Agent de service des écoles         :            :           :</td>
 </tr>
 <tr>
 <td> :   de 1re catégorie                  :     X      :     X     :</td>
 </tr>
 <tr>
-<td> : Femme de service des écoles         :            :           :</td>
+<td> : Agent de service des écoles         :            :           :</td>
 </tr>
 <tr>
 <td> :   de 2e catégorie                   :     X      :     X     :</td>
 </tr>
 <tr>
-<td> : Femme de service de 1re catégorie   :     X      :     X     :</td>
+<td> : Agent de service de 1re catégorie   :     X      :     X     :</td>
 </tr>
 <tr>
-<td> : Femme de service de 2e catégorie    :     X      :     X     :</td>
+<td> : Agent de service de 2e catégorie    :     X      :     X     :</td>
 </tr>
 <tr>
 <td> : Agent spécialisé des                :            :           :</td>
@@ -179,7 +179,10 @@
 <td> : Brigadier des gardiens de      :         :         :         :</td>
 </tr>
 <tr>
-<td> :  bureau ou des hommes d'équipe :    X    :    X    :    X    :</td>
+<td> :   bureau ou des                :    X    :    X    :    X    :</td>
+</tr>
+<tr>
+<td> :   manutentionnaires            :         :         :         :</td>
 </tr>
 <tr>
 <td> : Huissier du maire de           :         :         :         :</td>
@@ -206,34 +209,37 @@
 <td> :  de 2e catégorie               :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Homme d'équipe de              :         :         :         :</td>
+<td> : Manutentionnaire de            :         :         :         :</td>
 </tr>
 <tr>
-<td> :  1re catégorie                 :    X    :    X    :    X    :</td>
+<td> :   1re catégorie                :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Homme d'équipe de 2e catégorie :    X    :    X    :    X    :</td>
+<td> : Manutentionnaire de            :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Femme de service des écoles    :         :         :         :</td>
+<td> :      2e catégorie              :         :         :         :</td>
+</tr>
+<tr>
+<td> : Agent de service des écoles    :         :         :         :</td>
 </tr>
 <tr>
 <td> :  de 1re catégorie              :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Femme de service des écoles    :         :         :         :</td>
+<td> : Agent de service des écoles    :         :         :         :</td>
 </tr>
 <tr>
 <td> :  de 2e catégorie               :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Femme de service               :         :         :         :</td>
+<td> : Agent de service               :         :         :         :</td>
 </tr>
 <tr>
 <td> :  de 1re catégorie              :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Femme de service               :         :         :         :</td>
+<td> : Agent de service               :         :         :         :</td>
 </tr>
 <tr>
 <td> :  de 2e catégorie               :    X    :    X    :    X    :</td>
@@ -259,7 +265,7 @@
 <td> :                                :  80.000 : 150.000 :  Plus   :</td>
 </tr>
 <tr>
-<td> :             EMPLOIS            :     à   :    à    :   de    :</td>
+<td> :                EMPLOIS         :     à   :    à    :   de    :</td>
 </tr>
 <tr>
 <td> :                                : 150.000 : 400.000 : 400.000 :</td>
@@ -274,7 +280,10 @@
 <td> : Brigadier des gardiens de      :         :         :         :</td>
 </tr>
 <tr>
-<td> :  bureau ou des hommes d'équipe :    X    :    X    :    X    :</td>
+<td> :  bureau ou des                 :         :         :         :</td>
+</tr>
+<tr>
+<td> :  manutentionnaires             :    X    :    X    :    X    :</td>
 </tr>
 <tr>
 <td> : Huissier du maire de           :         :         :         :</td>
@@ -301,49 +310,50 @@
 <td> :  de 2e catégorie               :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Homme d'équipe de              :         :         :         :</td>
+<td> : Manutentionnaire de            :         :         :         :</td>
 </tr>
 <tr>
 <td> :  1re catégorie                 :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Homme d'équipe de 2e catégorie :    X    :    X    :    X    :</td>
+<td> : Manutentionnaire de            :         :         :         :</td>
 </tr>
 <tr>
-<td> : Femme de service des écoles    :         :         :         :</td>
+<td> :  2e catégorie                  :    X    :    X    :    X    :</td>
+</tr>
+<tr>
+<td> : Agent de service des écoles    :         :         :         :</td>
 </tr>
 <tr>
 <td> :  de 1re catégorie              :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Femme de service des écoles    :         :         :         :</td>
+<td> : Agent de service des écoles    :         :         :         :</td>
 </tr>
 <tr>
 <td> :  de 2e catégorie               :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Femme de service de            :         :         :         :</td>
+<td> : Agent de service               :         :         :         :</td>
 </tr>
 <tr>
-<td> :  1re catégorie                 :    X    :    X    :    X    :</td>
+<td> :  de 1re catégorie              :    X    :    X    :    X    :</td>
 </tr>
 <tr>
-<td> : Femme de service de            :         :         :         :</td>
+<td> : Agent de service               :         :         :         :</td>
 </tr>
 <tr>
-<td> :  2e catégorie                  :    X    :    X    :    X    :</td>
+<td> :  de 2e catégorie               :    X    :    X    :    X    :</td>
 </tr>
 <tr>
 <td> : Agent spécialisé des écoles    :         :         :         :</td>
 </tr>
 <tr>
-<td> : maternelles et des classes     :         :         :         :</td>
+<td> :  maternelles et des classes    :         :         :         :</td>
 </tr>
 <tr>
-<td> : enfantines                     :    X    :    X    :    X    :</td>
+<td> :  enfantines                    :    X    :    X    :    X    :</td>
 </tr>
 </table>
 
-----------------------------------------------------------------
-
-Nota : Les emplois des laboratoires d'analyses médicales, des musées, archives, bibliothèques et écoles de musique et des beaux-arts ne figurent pas à ce tableau, l'existence de ces services n'étant pas nécessairement fonction du chiffre de la population municipale.
+---------------------------------------------------------------- Nota : Les emplois des laboratoires d'analyses médicales, des musées, archives, bibliothèques et écoles de musique et des beaux-arts ne figurent pas à ce tableau, l'existence de ces services n'étant pas nécessairement fonction du chiffre de la population municipale.

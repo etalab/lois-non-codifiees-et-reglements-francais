@@ -1,3 +1,3 @@
 # Article 4
 
-Les secrétaires de commune en fonctions à la date d'effet du présent texte, dotés d'une échelle indiciaire différente de celles prévues par l'article 2 ci-dessus seront reclassés dans l'échelle immédiatement supérieure définie par ce texte dans les conditions prévues par l'article 7 du décret n° 62-544 du 5 mai 1962.
+Les emplois à temps non complet sont définis en fraction de temps complet au prorata de la durée hebdomadaire du service. Ils ne peuvent, dans une même fonction, s'ajouter à des emplois à temps complet que si l'effectif budgétaire de ces derniers n'est pas supérieur à deux. Un traitement à temps non complet ne peut être attribué à un agent percevant une rémunération à temps complet dans la même commune.
