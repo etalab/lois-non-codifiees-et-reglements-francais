@@ -1,4 +1,4 @@
-# Arrêté du 7 janvier 1985 relatif au montant des redevances dues par les fabricants et importateurs de substances et préparations en application de l'article R231-62 du code du travail.
+# Arrêté du 7 janvier 1985 relatif à la réception C.E.E. des véhicules en ce qui concerne le niveau sonore admissible et le dispositif d'échappement des véhicules à moteur
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-Si une substance dont les quantités destinées à être mises sur le marché étaient initialement estimées à moins d'une tonne [*volume*] par an vient à être mise sur le marché par le déclarant en quantités égales ou supérieures à une tonne par an, ce déclarant verse aux organismes agréés et désignés un supplément de redevance forfaitaire de 15.120 F et un supplément de redevance complémentaire de 1680 F [*montant*]. Ces suppléments de redevances doivent être versés avant que les quantités mises sur le marché au cours d'une même année n'aient atteint une tonne.
+La réception C.E.E. en ce qui concerne le niveau sonore admissible et le dispositif d'échappement des véhicules à moteur est accordée par le directeur régional de l'industrie et de la recherche de la région Ile-de-France aux véhicules répondant aux prescriptions de la directive n° 70-157 C.E.E. du 6 février 1970, modifiée conformément aux directives qui lui portent adaptation au progrès technique.

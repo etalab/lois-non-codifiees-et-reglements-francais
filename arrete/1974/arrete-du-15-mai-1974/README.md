@@ -1,8 +1,10 @@
-# Arrêté du 15 mai 1974 relatif à l'abattage d'urgence des animaux de boucherie pour cause de maladie ou d'accident
+# Arrêté du 15 mai 1974 relatif à l'estampillage sanitaire des viandes de boucherie et des produits à base de viande
 
-- [Titre Ier : Généralités.](titre-ier)
-- [Titre II : Abattage hors d'un abattoir autorisé.](titre-ii)
-- [Titre III : Abattage dans un abattoir autorisé.](titre-iii)
-- [Titre IV : Contrôle de salubrité.](titre-iv)
-- [Titre V : Dispositions particulières.](titre-v)
-- [Article 17](article-17.md)
+- [Article 1](article-1.md)
+- [Titre Ier : Estampillage sanitaire dans les abattoirs.](titre-ier)
+- [Article 2](article-2.md)
+- [Titre II : Estampilles et marques sanitaires dans les ateliers de découpage.](titre-ii)
+- [Titre III : Estampillage sanitaire dans les ateliers de préparation de viandes hachées à l'avance crues ou précuites conditionnées, ou de produits à base de viandes hachées à l'avance crues ou précuites conditionnés.](titre-iii)
+- [Titre V : Estampilles particulières.](titre-v)
+- [Titre VI : Dispositions générales.](titre-vi)
+- [Article 26](article-26.md)

@@ -7,3 +7,5 @@ Les locaux frigorifiques, le local destiné aux opérations de découpage, de d�
 2° Les murs intérieurs et cloisons doivent être enduits, sur toute leur hauteur, d'un revêtement ou d'une peinture lisse, lavable et de couleur claire. Les angles de raccordement des murs entre eux et avec le sol sont aménagés en gorges arrondies ;
 
 3° Les plafonds doivent être constitués de surfaces planes, lisses et lavables.
+
+4° Les portes doivent être en matériaux inaltérables et si elles sont en bois, recouvertes des deux côtés d'un revêtement lisse et imperméable.

@@ -8,4 +8,5 @@
 - [Chapitre VI : Hygiène du personnel, du matériel et des locaux.](chapitre-vi)
 - [Chapitre VII : Estampillage, conditionnement, emballage, étiquetage.](chapitre-vii)
 - [Chapitre VIII : Transport et mise en vente.](chapitre-viii)
+- [Chapitre IX : Contrôle sanitaire des viandes découpées.](chapitre-ix)
 - [Article 27](article-27.md)

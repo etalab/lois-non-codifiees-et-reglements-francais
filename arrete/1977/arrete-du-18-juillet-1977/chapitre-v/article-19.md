@@ -8,4 +8,4 @@ Ils doivent être soigneusement nettoyés et désinfectés chaque fois qu'il est
 
 L'emploi des détersifs, des désinfectants, des moyens de lutte contre les animaux nuisibles ne doit pas affecter la salubrité des viandes.
 
-Le matériel, les instruments ainsi que les récipients utilisés pour le travail des viandes, les produits de nettoyage et de désinfection doivent être conformes à la réglementation en vigueur.
+Le matériel, les instruments ainsi que les récipients utilisés pour le travail des viandes, les produits de nettoyage et de désinfection doivent être conformes à la réglementation en vigueur.    L'utilisation de ces derniers doit être suivie du rinçage complet à l'eau potable de ces équipements et instruments de travail.
