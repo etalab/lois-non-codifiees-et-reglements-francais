@@ -1,16 +1,4 @@
 # Loi n° 71-569 du 15 juillet 1971 relative au territoire des Terres australes et antarctiques française (1).
 
-- [Article 1](article-1.md)
 - [Titre Ier : Dispositions générales.](titre-ier)
-- [Article 2](article-2.md)
 - [Titre II : Dispositions relatives aux conditions d'entrée et de séjour des étrangers dans les Terres australes et antarctiques françaises.](titre-ii)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 7-1](article-7-1.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 11](article-11.md)
