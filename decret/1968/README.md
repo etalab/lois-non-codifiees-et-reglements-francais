@@ -12,4 +12,5 @@
 - [Décret n°67-1230 du 22 décembre 1967](decret-n67-1230-du-22-decembre-1967)
 - [Décret n°67-1268 du 26 décembre 1967](decret-n67-1268-du-26-decembre-1967)
 - [Décret n°68-92 du 29 janvier 1968](decret-n68-92-du-29-janvier-1968)
+- [Décret n°67-1254 du 31 décembre 1967](decret-n67-1254-du-31-decembre-1967)
 - [Décret n°67-1255 du 31 décembre 1967](decret-n67-1255-du-31-decembre-1967)
