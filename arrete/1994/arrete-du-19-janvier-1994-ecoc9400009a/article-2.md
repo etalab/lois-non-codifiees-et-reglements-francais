@@ -1,3 +1,0 @@
-# Article 2
-
-Une documentation simple et complète faisant apparaître les prix et tarifs et conditions de vente des prestations et fournitures devra être constamment présentée à la vue de la clientèle [*information du consommateur*]. En outre, pour les entreprises de pompes funèbres la liste des prestations obligatoires en vertu de la réglementation funéraire générale, qu'il s'agisse d'une inhumation ou d'une crémation, sera rappelée en première page de cette documentation. Le professionnel est néanmoins tenu de préciser le contenu exact des obligations réglementaires qui résulteraient de situations particulières (maladies contagieuses, transport aérien...).

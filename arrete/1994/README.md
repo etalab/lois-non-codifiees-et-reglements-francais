@@ -685,7 +685,6 @@
 - [Arrêté du 19 décembre 1994 (DEFG9402230A)](arrete-du-19-decembre-1994-defg9402230a)
 - [Arrêté du 19 décembre 1994 (EQUP9401069A)](arrete-du-19-decembre-1994-equp9401069a)
 - [Arrêté du 19 décembre 1994 (SPSS9403837A)](arrete-du-19-decembre-1994-spss9403837a)
-- [Arrêté du 19 janvier 1994 (ECOC9400009A)](arrete-du-19-janvier-1994-ecoc9400009a)
 - [Arrêté du 19 janvier 1994 (MJSK9470013A)](arrete-du-19-janvier-1994-mjsk9470013a)
 - [Arrêté du 19 janvier 1994 (RESK9301608A)](arrete-du-19-janvier-1994-resk9301608a)
 - [Arrêté du 19 janvier 1994 (SANH9400233A)](arrete-du-19-janvier-1994-sanh9400233a)
