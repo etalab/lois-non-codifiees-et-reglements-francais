@@ -2,18 +2,22 @@
 
 Le contrôle médical du régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles est assuré par :
 
-Un médecin conseil national ;
+a) Un médecin conseil national ;
 
-Un médecin conseil national adjoint ;
+b) Un médecin conseil national adjoint ;
 
-Des médecins conseils régionaux ;
+c) Des médecins conseils régionaux ;
 
-Des médecins conseils régionaux adjoints ;
+d) Des médecins conseils régionaux adjoints ;
 
-Des médecins conseils chefs de service ;
+e) Des médecins conseils chefs de service ;
 
-Des médecins conseils ;
+f) Des médecins conseils ;
 
-Des chirurgiens-dentistes conseils.
+g) Des chirurgiens-dentistes conseils chefs de service ;
 
-Le médecin conseil national adjoint, les médecins conseils régionaux, les médecins conseils régionaux adjoints, les médecins conseils chefs de service, les médecins conseils et les chirurgiens-dentistes conseils sont soumis aux dispositions des titres Ier à VII du présent décret qui forment leur statut. Ces dispositions ne sont pas applicables aux praticiens consultants à temps partiel auxquels les caisses mutuelles régionales peuvent faire appel de façon occasionnelle.
+h) Des chirurgiens-dentistes conseils.
+
+Sont applicables au médecin conseil national les dispositions du titre VIII du présent décret.
+
+Le médecin conseil national adjoint, les médecins conseils régionaux et médecins conseils régionaux adjoints, les médecins conseils chefs de service et chirurgiens-dentistes conseils chef de service, les médecins conseils et chirurgiens-dentistes conseils sont soumis aux dispositions des titres Ier à VII qui forment leur statut. Celui-ci n'est toutefois pas applicable aux praticiens consultants auxquels les caisses mutuelles régionales peuvent faire appel suivant les dispositions du dernier alinéa de l'article R 615-57 du code de la sécurité sociale.
