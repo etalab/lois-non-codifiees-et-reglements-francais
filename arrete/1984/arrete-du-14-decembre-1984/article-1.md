@@ -22,4 +22,6 @@ La situation de l'emploi dans la profession demandée et dans la zone géographi
 
 10° Conjoints et enfants autorisés à séjourner en France au titre du regroupement familial ;
 
-11° Conjoint d'un ressortissant français.
+11° Conjoint d'un ressortissant français ;
+
+12° Conjoint d'un étranger qui a obtenu le statut de réfugié.
