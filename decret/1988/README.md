@@ -246,6 +246,7 @@
 - [Décret n°88-395 du 15 avril 1988 (MAEJ8830025D)](decret-n88-395-du-15-avril-1988-maej8830025d)
 - [Décret n°88-396 du 15 avril 1988 (MAEJ8830026D)](decret-n88-396-du-15-avril-1988-maej8830026d)
 - [Décret n°88-45 du 15 janvier 1988 (ASEA8701666D)](decret-n88-45-du-15-janvier-1988-asea8701666d)
+- [Décret n°88-759 du 15 juin 1988 (AGRG8801048D)](decret-n88-759-du-15-juin-1988-agrg8801048d)
 - [Décret n°88-152 du 16 février 1988 (ECOT8820056D)](decret-n88-152-du-16-fevrier-1988-ecot8820056d)
 - [Décret n°88-157 du 16 février 1988 (FPPA8700092D)](decret-n88-157-du-16-fevrier-1988-fppa8700092d)
 - [Décret n°88-266 du 16 mars 1988 (INDT8800132D)](decret-n88-266-du-16-mars-1988-indt8800132d)
