@@ -1,6 +1,7 @@
 # Décret n°67-378 du 3 mai 1967 RELATIF A L'ORGANISATION ET AU FONCTIONNEMENT DES CAISSES MUTUELLES REGIONALES D'ASSURANCE MALADIE ET MATERNITE DES TRAVAILLEURS NON-SALARIES DES PROFESSIONS NON-AGRICOLES.
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
