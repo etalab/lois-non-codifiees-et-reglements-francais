@@ -1,6 +1,6 @@
 # Article 3
 
-Le comité visé à l'article 1er est composé d'un président et de huit membres nommés pour un an [*nombre, durée*] par décision du ministre, chargé du cinéma.
+Le comité visé à l'article 1er est composé d'un président et de huit membres nommés pour un an [*nombre, durée*] par décision du directeur général du Centre national de la cinématographie.
 
 Le directeur général du Centre national de la cinématographie ou son représentant assiste de droit aux réunions du comité.
 
