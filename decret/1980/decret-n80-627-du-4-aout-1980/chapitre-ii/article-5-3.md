@@ -1,0 +1,15 @@
+# Article 5-3
+
+Peuvent se présenter au concours externe les candidats justifiant de la licence en sciences et techniques des activités physiques et sportives ou d'un titre ou diplôme jugé équivalent par arrêté conjoint du ministre chargé de l'éducation et du ministre chargé de la fonction publique.
+
+Peuvent se présenter au concours interne :
+
+1° Les fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent et les militaires justifiant, les uns et les autres, de trois années de services publics et de l'un des titres ou diplômes requis des candidats au concours externe ;
+
+2° Les enseignants titulaires justifiant de trois années de services publics ;
+
+3° Les enseignants non titulaires des établissements d'enseignement publics relevant du ministre chargé de l'éducation et les enseignants non titulaires assurant un enseignement du second degré dans les établissements scolaires français à l'étranger définis à l'article 2 du décret n° 93-1084 du 9 septembre 1993 relatif aux établissements scolaires français à l'étranger justifiant, les uns et les autres, de trois années de services publics ou de services d'enseignement dans les établissements scolaires français à l'étranger et de l'un des titres ou diplômes requis des candidats au concours externe, ou ayant subi avec succès les épreuves de la seconde partie du certificat d'aptitude au professorat d'éducation physique et sportive qui était régi par le décret n° 45-438 du 17 mars 1945 modifié.
+
+Peuvent se présenter au troisième concours les candidats justifiant de l'exercice, pendant une durée de quatre ans au moins au cours des cinq années précédant la date de clôture des registres d'inscription audit concours, d'une ou de plusieurs des activités professionnelles mentionnées au 3° de l'article 19 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat, dans le domaine de l'éducation ou de la formation, et d'une licence en sciences et techniques des activités physiques et sportives ou d'un titre ou diplôme sanctionnant un cycle d'études postsecondaires en éducation physique et sportive d'au moins trois années, ou d'un titre ou diplôme en éducation physique et sportive homologué, en application de l'article L. 335-6 du code de l'éducation susvisé, au niveau II de la nomenclature interministérielle par niveau. A titre transitoire, les candidats titulaires d'un titre ou diplôme sanctionnant un cycle d'études postsecondaires en éducation physique et sportive d'au moins deux années ou d'un titre ou diplôme en éducation physique et sportive homologué, en application de l'article L. 335-6 du code de l'éducation susvisé, au niveau III de la nomenclature interministérielle par niveau pourront se présenter à ce concours jusqu'à la session 2004 de celui-ci.
+
+L'ensemble des conditions prévues au présent article s'apprécie à la date de clôture des registres d'inscription aux concours fixée par arrêté conjoint du ministre chargé de l'éducation et du ministre chargé de la fonction publique.

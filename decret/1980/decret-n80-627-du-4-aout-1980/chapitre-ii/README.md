@@ -1,6 +1,7 @@
 # CHAPITRE II : Recrutement.
 
 - [Article 5](article-5.md)
+- [Article 5-3](article-5-3.md)
 - [Article 5-4](article-5-4.md)
 - [Article 5-6](article-5-6.md)
 - [Article 5-7](article-5-7.md)
