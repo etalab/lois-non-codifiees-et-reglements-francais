@@ -88,7 +88,6 @@
 - [Décret n°71-912 du 28 octobre 1971](decret-n71-912-du-28-octobre-1971)
 - [Décret n°71-328 du 29 avril 1971](decret-n71-328-du-29-avril-1971)
 - [Décret n°71-343 du 29 avril 1971](decret-n71-343-du-29-avril-1971)
-- [Décret n°71-504 du 29 juin 1971](decret-n71-504-du-29-juin-1971)
 - [Décret n°71-1105 du 30 décembre 1971](decret-n71-1105-du-30-decembre-1971)
 - [Décret n°71-644 du 30 juillet 1971](decret-n71-644-du-30-juillet-1971)
 - [Décret n°71-647 du 30 juillet 1971](decret-n71-647-du-30-juillet-1971)
