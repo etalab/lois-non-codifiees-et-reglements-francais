@@ -1,6 +1,6 @@
 # Article 4
 
-Le conseil d'administration comprend douze membres :
+Le conseil d'administration comprend dix-sept membres :
 
 - le président, nommé par arrêté du ministre chargé de l'enseignement supérieur pour une durée de trois ans ;
 
@@ -12,6 +12,8 @@ Le conseil d'administration comprend douze membres :
 
 - le directeur de l'enseignement supérieur au ministère chargé de l'enseignement supérieur ou son représentant ;
 
+- le directeur de la recherche au ministère chargé de la recherche ou son représentant ;
+
 - le directeur chargé de la programmation et du développement au ministère chargé de l'enseignement supérieur ou son représentant ;
 
 - le directeur chargé des affaires financières au ministère chargé de l'enseignement supérieur ou son représentant ;
@@ -21,6 +23,14 @@ Le conseil d'administration comprend douze membres :
 - le directeur général chargé de la santé au ministère chargé de la santé ou son représentant ;
 
 - le directeur général chargé de l'urbanisme, de l'habitat et de la construction au ministère chargé de l'équipement, des transports et du logement ou son représentant ;
+
+- le directeur de l'architecture et du patrimoine au ministère chargé de la culture ou son représentant ;
+
+- le maire de Paris ou son représentant ;
+
+- le président du conseil régional d'Ile-de-France ou son représentant ;
+
+- le préfet de la région d'Ile-de-France, préfet de Paris, ou son représentant ;
 
 - le recteur de l'académie de Paris, chancelier des universités, ou son représentant ;
 
