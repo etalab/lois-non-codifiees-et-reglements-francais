@@ -1,0 +1,3 @@
+# Article 1
+
+La convention mentionnée à l'article 48 de la loi du 1er décembre 1988 susvisée ayant pour objet l'organisation au profit des bénéficiaires du revenu minimum d'insertion ou de leur conjoint ou concubin des activités d'insertion professionnelle ou d'intérêt général est conclue pour une durée d'un an renouvelable par tacite reconduction, avec les associations sans but lucratif, les fondations, les collectivités territoriales, les établissements publics, les organismes de sécurité sociale de tous les régimes, les mutuelles, les institutions mentionnées à l'article L. 731-1 du code de la sécurité sociale et à l'article 1050 du code rural, les comités d'entreprise et toute personne morale chargée de la gestion d'un service public.
