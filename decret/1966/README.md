@@ -7,6 +7,7 @@
 - [Décret n°66-20 du 7 janvier 1966](decret-n66-20-du-7-janvier-1966)
 - [Décret n°66-34 du 7 janvier 1966](decret-n66-34-du-7-janvier-1966)
 - [Décret n°66-35 du 7 janvier 1966](decret-n66-35-du-7-janvier-1966)
+- [Décret n°66-619 du 10 août 1966](decret-n66-619-du-10-aout-1966)
 - [Décret n°67-54 du 12 janvier 1967](decret-n67-54-du-12-janvier-1967)
 - [Décret n°66-371 du 13 juin 1966](decret-n66-371-du-13-juin-1966)
 - [Décret n°66-388 du 13 juin 1966](decret-n66-388-du-13-juin-1966)
