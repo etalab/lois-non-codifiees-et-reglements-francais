@@ -1,3 +1,0 @@
-# Article 19
-
-A titre transitoire, pendant une durée de cinq ans à compter de la publication de la présente loi [*point de départ*], les dispositions de l'article 18 bis et de l'article 22 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée ne sont pas applicables dans les départements d'outre-mer [*hors champ d'application, DOM*] et la collectivité territoriale de Saint-Pierre-et-Miquelon. Pendant cette période transitoire, les dispositions des troisième et quatrième alinéas de l'article 22 de l'ordonnance restent applicables dans ces départements et cette collectivité territoriale, dans leur rédaction issue de la loi n° 86-1025 du 9 septembre 1986.

@@ -1,5 +1,11 @@
 # Article 26
 
-En cas d'urgence absolue et par dérogation aux articles 23 à 25, l'expulsion peut être prononcée lorsqu'elle constitue une nécessité impérieuse pour la sûreté de l'Etat ou pour la sécurité publique.
+L'expulsion peut être prononcée :
 
-Cette procédure ne peut toutefois être appliquée aux étrangers [*mineurs de dix-huit ans*] mentionnés au 1° de l'article 25 [*interdiction*].
+a) En cas d'urgence absolue, par dérogation au 2° de l'article 24 ;
+
+b) Lorsqu'elle constitue une nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique, par dérogation à l'article 25.
+
+En cas d'urgence absolue et lorsqu'elle constitue une nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique, l'expulsion peut être prononcée par dérogation aux articles 24 (2°) et 25.
+
+Les procédures prévues par le présent article ne peuvent être appliquées à l'étranger mineur de dix-huit ans.

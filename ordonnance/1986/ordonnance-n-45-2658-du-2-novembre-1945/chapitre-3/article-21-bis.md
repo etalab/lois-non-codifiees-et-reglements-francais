@@ -1,10 +1,6 @@
-# Article 8-1
+# Article 21 bis
 
-En cas d'infractions définies aux articles 4 et 8, le tribunal pourra prononcer à l'encontre du condamné étranger l'interdiction du territoire français pour une durée ne pouvant excéder dix ans.
-
-L'interdiction du territoire français entraîne de plein droit reconduite à la frontière, le cas échéant, à l'expiration de la peine d'emprisonnement.
-
-Le tribunal ne peut prononcer, que par une décision spécialement motivée au regard de la gravité de l'infraction, l'interdiction du territoire français à l'encontre :
+I. - Le tribunal ne peut prononcer, que par une décision spécialement motivée au regard de la gravité de l'infraction, l'interdiction du territoire français prévue par les articles 19, 21, 27 et 33 à l'encontre :
 
 1° D'un condamné étranger père ou mère d'un enfant français résidant en France, à condition qu'il exerce, même partiellement, l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins ;
 
@@ -14,4 +10,4 @@ Le tribunal ne peut prononcer, que par une décision spécialement motivée au r
 
 4° D'un condamné étranger qui justifie qu'il réside régulièrement en France depuis plus de quinze ans.
 
-L'interdiction du territoire français n'est pas applicable à l'encontre du condamné étranger mineur de dix-huit ans.
+II. - L'interdiction du territoire français prévue par les articles 19, 21, 27 et 33 n'est pas applicable à l'encontre du condamné étranger mineur de dix-huit ans.

@@ -19,5 +19,3 @@ La convocation, qui doit être remise à l'étranger quinze jours au moins avant
 L'étranger peut demander le bénéfice de l'aide juridictionnelle dans les conditions prévues par la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique. Cette faculté est indiquée dans la convocation. L'admission provisoire à l'aide juridictionnelle peut être prononcée par le président de la commission.
 
 Les débats de la commission sont publics. Le président veille à l'ordre de la séance. Tout ce qu'il ordonne pour l'assurer doit être immédiatement exécuté. Devant la commission, l'étranger peut faire valoir toutes les raisons qui militent contre son expulsion. Un procès-verbal enregistrant les explications de l'étranger est transmis, avec l'avis motivé de la commission, au ministre de l'intérieur qui statue [*autorité compétente*]. L'avis de la commission est également communiqué à l'intéressé.
-
-3° Si la commission émet un avis défavorable à l'expulsion, celle-ci ne peut être prononcée.
