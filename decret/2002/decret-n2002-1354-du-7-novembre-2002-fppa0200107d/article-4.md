@@ -1,0 +1,3 @@
+# Article 4
+
+Jusqu'à la constitution des commissions administratives paritaires locales et de la commission administrative paritaire nationale du corps des agents des services techniques commun à l'administration centrale et aux services déconcentrés de la police nationale, qui interviendra dans un délai de six mois à compter de la date de publication du présent décret, les commissions administratives paritaires locales et la commission administrative paritaire nationale du corps des agents des services techniques des services déconcentrés de la police nationale resteront en vigueur après la constitution du nouveau corps.
