@@ -183,7 +183,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des secrétares  administratifs</p>
+<p>Cycles de formation des secrétares administratifs</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -191,7 +191,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des ingénieurs techniciens d'études et de fabrications</p>
+<p>Cycles de formation des ingénieurs d'études et de fabrications</p>
 </td>
 <td valign="top" width="151">
 <p align="center">II</p>
@@ -303,7 +303,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des techniciens d'études et de fabrications</p>
+<p>Cycles de formation des techniciens supérieurs d'études et de fabrications</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>

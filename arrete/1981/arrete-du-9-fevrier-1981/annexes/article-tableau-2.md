@@ -47,14 +47,6 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation au concours d'accès au corps des ingénieurs techniciens d'études et de fabrication</p>
-</td>
-<td valign="top" width="151">
-<p align="center">II</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
 <p>Cours préparatoire au concours d'ingénieurs des études et techniques d'armement</p>
 </td>
 <td valign="top" width="151">
@@ -135,15 +127,15 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation aux concours d'accès aux corps de techniciens d'études et de fabrications</p>
+<p>Préparation aux concours d'accès aux corps des ingénieurs d'études et de fabrications</p>
 </td>
 <td valign="top" width="151">
-<p align="center">III</p>
+<p align="center">II</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation aux examens professionnels de recrutement au choix dans les corps de techniciens d'études et de fabrications</p>
+<p>Préparation aux concours d'accès aux corps des techniciens supérieurs d'études et de fabrications</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -270,9 +262,9 @@
 </td>
 </tr>
 <tr>
-<td> Préparation à l'examen professionnel pour la vérification d'aptitude aux fonctions de chef de projet</td>
+<td>Préparation à l'examen professionnel pour la vérification d'aptitude aux fonctions de chef de projet</td>
 <td>
-<p align="center"> II</p>
+<p align="center">II</p>
 </td>
 </tr>
 </tbody>

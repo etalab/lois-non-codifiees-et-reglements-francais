@@ -71,7 +71,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury d'examen professionnel pour l'accès au corps des ingénieurs techniciens d'études et de fabrication</p>
+<p>Jury de concours pour l'accès au corps des ingénieurs d'études et de fabrications</p>
 </td>
 <td valign="top" width="151">
 <p align="center">II</p>
@@ -79,10 +79,10 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de concours pour l'accès au corps des ingénieurs techniciens d'études et de fabrication</p>
+<p>Jury de concours ou d'examen pour l'accès au corps de techniciens supérieurs d'études et de fabrication</p>
 </td>
 <td valign="top" width="151">
-<p align="center">II</p>
+<p align="center">III</p>
 </td>
 </tr>
 <tr>
@@ -120,30 +120,6 @@
 <tr>
 <td valign="top" width="454">
 <p>Jury de sortie de l'école technique normale</p>
-</td>
-<td valign="top" width="151">
-<p align="center">III</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury de concours ou d'examen pour l'accès aux corps de techniciens d'études et de fabrication</p>
-</td>
-<td valign="top" width="151">
-<p align="center">III</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury d'examen professionnel pour l'accès au grade de technicien chef de travaux principal</p>
-</td>
-<td valign="top" width="151">
-<p align="center">III</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury d'examen professionnel pour l'accès au choix au corps des techniciens d'études et de fabrications</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -462,9 +438,9 @@
 </td>
 </tr>
 <tr>
-<td> Jury d'examen professionnel pour la vérification d'aptitude aux fonctions de chef de projet</td>
+<td>Jury d'examen professionnel pour la vérification d'aptitude aux fonctions de chef de projet</td>
 <td>
-<p align="center"> II</p>
+<p align="center">II</p>
 </td>
 </tr>
 </tbody>
