@@ -25,3 +25,5 @@ XI. - Dans tous les articles de loi non modifiés par la présente loi, le terme
 "sous-préfet" par l'expression : "délégué du représentant de l'Etat dans l'arrondissement".
 
 XII. - Sont en outre abrogées toutes les dispositions prévoyant l'annulation par le Gouvernement ou ses représentants des délibérations, arrêtés et actes des autorités départementales et toutes celles soumettant à approbation ces délibérations, arrêtés et actes ainsi que les conventions que passent les autorités départementales.
+
+XIII. - Les cahiers des charges types et les règlements types auxquels il était possible avant l'entrée en vigueur de la présente loi de déroger sous réserve d'approbation par le Gouvernement ou ses représentants deviennent pour les départements et les établissements publics soumis au présent titre des modèles de cahiers des charges et des modèles de règlements.

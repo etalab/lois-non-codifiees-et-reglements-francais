@@ -7,3 +7,7 @@ Le projet de budget du département est préparé et présenté par le présiden
 Le budget et les budgets supplémentaires sont votés par le conseil général.
 
 Ils se divisent en section de fonctionnement et section d'investissement.
+
+Les crédits sont votés par chapitre et, si le conseil général en décide ainsi, par article.
+
+Toutefois, hors les cas où le conseil général a spécifié que les crédits sont spécialisés par article, le président du conseil général peut effectuer des virements d'article à article à l'intérieur du même chapitre dans la limite du cinquième de la dotation de ce chapitre.
