@@ -1,5 +1,11 @@
 # Article Annexe art. 41
 
-Les dispositions du titre 1er du présent statut sont applicables aux secrétaires généraux des compagnies consulaires en tant qu'elles ne sont pas contraires aux dispositions spéciales les concernant et faisant l'objet du présent titre.
+Le recrutement du directeur général fait l'objet d'une convention conclue entre la chambre, représentée par son président, et l'intéressé. Cette convention ne peut déroger aux dispositions du présent statut.
 
-Le bénéfice des dispositions du présent statut n'est acquis de plein droit qu'aux secrétaires généraux exerçant leurs fonctions à temps complet.
+Cette convention apporte notamment toutes les précisions nécessaires pour permettre au directeur général de remplir ses fonctions dans les meilleures conditions.
+
+Elle fait l'objet, tous les trois ans, d'un réexamen par ses signataires pour assurer le maintien de la situation matérielle et morale du directeur général.
+
+La commission prévue à l'article 45 ci-dessous établit une convention type dont les dispositions, à défaut de dispositions différentes dans la convention particulière, s'appliquent de plein droit. Cette convention type est approuvé par arrêté du ministre chargé de la tutelle administrative des chambres de commerce et d'industrie.
+
+Chaque convention particulière, ainsi que ses modifications éventuelles, est adressée au ministre chargé de la tutelle administrative des chambres de commerce et d'industrie et à l'assemblée des chambres françaises de commerce et d'industrie.

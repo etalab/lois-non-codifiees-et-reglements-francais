@@ -1,3 +1,3 @@
 # Article Annexe art. 39
 
-Les fonctions de secrétaire général, dont l'importance varie selon les charges et les responsabilités assumées, se caractérisent par la direction et le contrôle du ou des services sur lesquels l'intéressé a autorité et dont il est responsable.
+Le présent statut s'applique aux directeurs généraux, à l'exception des dispositions relatives à la rémunération, autres que celles figurant aux articles 16 et 17, et des dispositions relatives aux cessations de fonctions, auxquelles se substituent les dispositions du présent titre.

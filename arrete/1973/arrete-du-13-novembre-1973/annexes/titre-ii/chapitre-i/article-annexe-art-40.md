@@ -1,3 +1,5 @@
 # Article Annexe art. 40
 
-A cet effet, la convention prévue au chapitre II ci-après doit permettre au secrétaire général de disposer des moyens matériels et moraux nécessaires pour exercer, avec l'autorité qui s'attache à sa fonction de direction, les responsabilités qui lui incombent.
+Il sera créé une association, gérée paritairement, à laquelle pourront adhérer les chambres de commerce et d'industrie et les directeurs généraux.
+
+Les statuts de cette association, dont le but est de favoriser la formation des directeurs généraux, leur mobilité à l'intérieur et à l'extérieur des chambres et leur reclassement, sont établis par la commission prévue à l'article 45 ci-dessous.

@@ -1,5 +1,7 @@
 # Article Annexe art. 42
 
-Dans chaque compagnie consulaire, un accord particulier à intervenir au moment de la titularisation, à la fin du stage probatoire, entre le président de la compagnie consulaire agissant ès qualité et l'intéressé fixera, dans le cadre du présent statut, la situation du secrétaire général, notamment en ce qui concerne les dispositions qui lui sont personnelles.
+La rémunération du directeur général est déterminée par référence aux rémunérations afférentes à l'exercice de fonctions comparables de même niveau dans le ressort de la chambre régionale de commerce et d'industrie considérée.
 
-Les stipulations de cet accord résultent de la libre convention des parties. Elles sont communiquées à l'autorité de tutelle.
+La convention fixe le montant de cette rémunération en points d'indice comme il est dit à l'article 15 ci-dessus.
+
+La rémunération est réexaminée au moins une fois par période de trois ans. Toutefois, elle ne peut être modifiée dans les six mois précédant une élection consulaire, sauf dans le cas de titularisation ou si aucune révision n'est intervenue depuis les précédentes élections consulaires.
