@@ -241,6 +241,7 @@
 - [Arrêté du 29 décembre 1995 (INDD9501195A)](arrete-du-29-decembre-1995-indd9501195a)
 - [Arrêté du 29 décembre 1995 (INDG9501273A)](arrete-du-29-decembre-1995-indg9501273a)
 - [Arrêté du 29 décembre 1995 (TASS9523604A)](arrete-du-29-decembre-1995-tass9523604a)
+- [Arrêté du 29 février 1996 (JUSF9550110A)](arrete-du-29-fevrier-1996-jusf9550110a)
 - [Arrêté du 29 janvier 1996 (EQUA9600186A)](arrete-du-29-janvier-1996-equa9600186a)
 - [Arrêté du 29 janvier 1996 (TASS9623382A)](arrete-du-29-janvier-1996-tass9623382a)
 - [Arrêté du 29 mai 1996 (DEFP9601448A)](arrete-du-29-mai-1996-defp9601448a)
