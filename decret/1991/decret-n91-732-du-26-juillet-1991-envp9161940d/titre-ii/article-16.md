@@ -1,9 +1,19 @@
 # Article 16
 
-Les concours financiers de l'agence sont attribués soit par le président, soit par les délégués régionaux de l'agence, dans les conditions fixées en application du 2 du dernier alinéa de l'article 9.
+I. - Dans les domaines d'activité définis à l'article 2, et sauf pour les opérations régies par le décret n° 99-457 du 1er juin 1999 relatif aux modalités de contribution de l'Agence de l'environnement et de la maîtrise de l'énergie aux dépenses engagées par les riverains des aérodromes en vue de l'atténuation des nuisances sonores, le conseil d'administration institue des commissions nationales des aides dont il fixe les compétences respectives. Dans le domaine d'activité qui lui est assigné, chaque commission :
 
-La Commission nationale des aides a pour président le président du conseil d'administration et pour vice-président le directeur général ; elle comprend en outre un représentant de chaque ministre de tutelle, un représentant de chacun des ministres chargés du budget, des finances, de l'agriculture, des transports, de la construction et de la santé ainsi que sept personnalités désignées par le conseil d'administration. Le président de séance a voix prépondérante en cas de partage égal.
+1° Est saisie pour avis des orientations stratégiques de l'agence et des programmes d'action pluriannuels destinés à les mettre en oeuvre ; elle est tenue informée au moins une fois par an de leur état d'avancement et des résultats de leurs évaluations ;
 
-Le contrôleur d'Etat et l'agent comptable assistent aux réunions de la Commission nationale des aides avec voix consultative ainsi que toute personne invitée par son président.
+2° Est saisie pour avis des modalités et critères d'attribution des concours financiers de l'agence pour chaque type d'opération, ainsi que des dépenses prévisionnelles correspondantes ;
 
-La Commission nationale des aides examine les projets de concours financiers de l'agence dans le cadre défini par le conseil d'administration. Ses avis sont pris à la majorité des membres présents. En cas d'avis défavorable, l'attribution ne peut être décidée qu'après accord du conseil d'administration.
+3° Délibère préalablement aux décisions d'attribution de concours financiers, lorsque ceux-ci dépassent un seuil déterminé pour chaque type d'opération par le conseil d'administration en application du dernier alinéa de l'article 9.
+
+II. - Le conseil d'administration arrête la composition des commissions nationales des aides et précise leurs modalités de fonctionnement, notamment en ce qui concerne la périodicité des séances et les conditions de quorum.
+
+Chacune d'elles a pour président le président du conseil d'administration et pour vice-président le directeur général. Elle comprend un représentant de chacun des ministres de tutelle ainsi que du ministre chargé du budget et des ministres concernés par son domaine d'activité.
+
+Elle comprend en outre entre huit et douze personnalités désignées par le conseil d'administration pour une durée de cinq ans, soit en fonction de leur compétence, soit en tant que représentants des collectivités territoriales, des activités professionnelles concernées ou des associations agréées de protection de l'environnement, de défense des consommateurs ou de surveillance de la qualité de l'air. Chaque personnalité peut se faire remplacer par un membre suppléant, désigné dans les mêmes conditions que le titulaire.
+
+Le contrôleur d'Etat et l'agent comptable assistent à titre consultatif aux séances des commissions nationales des aides, ainsi que toute personne invitée par leur président.
+
+Les délibérations sont prises à la majorité des membres présents, le président de séance ayant voix prépondérante en cas de partage égal des voix. L'agence est tenue de se conformer aux délibérations mentionnées au 3° du I si, dans un délai de huit jours à compter de leur réception, le commissaire du Gouvernement ou le contrôleur d'Etat n'y ont pas fait opposition. En cas d'opposition, les délibérations sont soumises pour réexamen au conseil d'administration, qui statue dans les conditions définies à l'article 10 du présent décret. En outre, le président du conseil d'administration peut, s'il le juge utile, demander une seconde délibération de la commission nationale des aides compétente.
