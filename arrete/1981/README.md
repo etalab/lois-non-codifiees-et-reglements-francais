@@ -79,7 +79,6 @@
 - [Arrêté du 25 mars 1981](arrete-du-25-mars-1981)
 - [Arrêté du 25 novembre 1980](arrete-du-25-novembre-1980)
 - [Arrêté du 26 février 1981](arrete-du-26-fevrier-1981)
-- [Arrêté du 26 janvier 1981](arrete-du-26-janvier-1981)
 - [Arrêté du 26 mars 1981](arrete-du-26-mars-1981)
 - [Arrêté du 26 novembre 1980](arrete-du-26-novembre-1980)
 - [Arrêté du 27 avril 1981](arrete-du-27-avril-1981)
