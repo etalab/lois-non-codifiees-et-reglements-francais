@@ -294,7 +294,6 @@
 - [Arrêté du 10 août 2004 (SOCF0411673A)](arrete-du-10-aout-2004-socf0411673a)
 - [Arrêté du 10 avril 1995 (MCCK9500141A)](arrete-du-10-avril-1995-mcck9500141a)
 - [Arrêté du 10 avril 1995 (MCCK9500145A)](arrete-du-10-avril-1995-mcck9500145a)
-- [Arrêté du 10 décembre 2003 (DEFF0302453A)](arrete-du-10-decembre-2003-deff0302453a)
 - [Arrêté du 10 décembre 2004 (MJSK0470246A)](arrete-du-10-decembre-2004-mjsk0470246a)
 - [Arrêté du 10 février 2004 (BUDD0470004A)](arrete-du-10-fevrier-2004-budd0470004a)
 - [Arrêté du 10 février 2004 (DEFC0400161A)](arrete-du-10-fevrier-2004-defc0400161a)
