@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur du budget, le directeur de la sécurité sociale et le directeur général des postes sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'utilisation d'une plate-forme pour le décollage ou l'atterrissage est subordonnée à l'accord préalable de la personne en ayant la jouissance.

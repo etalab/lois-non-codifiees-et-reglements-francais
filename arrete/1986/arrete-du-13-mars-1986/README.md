@@ -1,5 +1,11 @@
-# Arrêté du 13 mars 1986 modifiant l'arrêté du 29 octobre 1962 relatif à la circulation par la poste, avec dispense d'affranchissement, des plis recommandés avec ou sans avis de réception, concernant l'application des législations de sécurité sociale (régime général et régimes spéciaux), des législations sociales agricoles et du Fonds national de solidarité
+# Arrêté du 13 mars 1986 fixant les modalités du scrutin pour l'élection des représentants des présidents des conseils régionaux au Conseil supérieur de la fonction publique territoriale
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
