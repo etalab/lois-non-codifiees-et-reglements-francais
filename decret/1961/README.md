@@ -9,6 +9,7 @@
 - [Décret n°62-377 du 3 avril 1962](decret-n62-377-du-3-avril-1962)
 - [Décret n°62-380 du 3 avril 1962](decret-n62-380-du-3-avril-1962)
 - [Décret n°61-447 du 3 mai 1961](decret-n61-447-du-3-mai-1961)
+- [Décret n°61-1304 du 4 décembre 1961](decret-n61-1304-du-4-decembre-1961)
 - [Décret n°61-316 du 5 avril 1961](decret-n61-316-du-5-avril-1961)
 - [Décret n°65-184 du 5 mars 1965](decret-n65-184-du-5-mars-1965)
 - [Décret n°61-440 du 5 mai 1961](decret-n61-440-du-5-mai-1961)
