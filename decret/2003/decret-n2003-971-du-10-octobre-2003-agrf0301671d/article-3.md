@@ -1,0 +1,3 @@
+# Article 3
+
+Durant une période transitoire n'excédant pas dix ans à compter de la date de publication du présent décret, des matériels de base destinés à la production de matériels appartenant à la catégorie "testée" de l'ensemble des essences visées par la directive 1999/105/CE sont admis, après les résultats de tests d'évaluation génétique, même si ceux-ci ne satisfont pas aux exigences fixées à l'article R. 552-8, dès lors que ces essais avaient commencé avant la date de publication du présent décret et ont démontré la supériorité des matériels de reproduction issus des matériels de base par rapport à des matériels témoins.

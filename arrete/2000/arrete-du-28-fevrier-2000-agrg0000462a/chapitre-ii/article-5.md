@@ -24,7 +24,7 @@ III. - Pour les établissements et intermédiaires qui fabriquent en vue de la c
 
 - nature et quantité de chaque aliment composé commercialisé ou distribué, en précisant le nom et l'adresse du destinataire, son numéro d'identification éventuel, le numéro de lot éventuel du produit expédié, ainsi que la date d'expédition.
 
-Toutefois cette disposition ne concerne pas les intermédiaires qui commercialisent ou distribuent des aliments composés destinés à des animaux de compagnie ;
+Toutefois cette disposition ne concerne pas les intermédiaires qui commercialisent ou distribuent des aliments composés destinés à des animaux familiers ;
 
 IV. - Pour les fabricants d'aliments composés destinés aux besoins exclusifs de leur élevage exerçant une ou plusieurs activités visées aux articles 3 et 4 :
 

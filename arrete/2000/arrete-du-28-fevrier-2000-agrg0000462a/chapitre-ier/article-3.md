@@ -14,8 +14,6 @@ antibiotiques, coccidiostatiques et autres substances médicamenteuses, facteurs
 
 5. Fabrication, pour les besoins exclusifs de son élevage, d'aliments composés contenant un des additifs suivants :
 
-antibiotiques, coccidiostatiques et autres substances médicamenteuses, facteurs de croissance ;
-
-6. Fabrication, en vue de leur commercialisation ou distribution, ou pour les besoins exclusifs de son élevage, d'aliments composés à partir des matières premières visées dont la teneur en produit et substance indésirable dépasse la teneur maximale fixée en annexe I de l'arrêté du 16 mars 1989 susvisé, sans préjudice des dispositions prévues par ledit arrêté qui exclueraient à partir d'une certaine teneur en produit ou substance indésirable, toute utilisation de la matière première dans le cadre de l'alimentation animale.
+antibiotiques, coccidiostatiques et autres substances médicamenteuses, facteurs de croissance.
 
 Sont soumis à un agrément préalable les intermédiaires qui commercialisent ou distribuent des additifs, matières premières spécifiques et pré-mélanges visés aux points 1, 2 et 3 du premier alinéa.
