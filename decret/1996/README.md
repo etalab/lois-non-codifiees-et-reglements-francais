@@ -452,6 +452,7 @@
 - [Décret n°96-53 du 23 janvier 1996 (ENVG9530089D)](decret-n96-53-du-23-janvier-1996-envg9530089d)
 - [Décret n°96-655 du 23 juillet 1996 (JUSB9610215D)](decret-n96-655-du-23-juillet-1996-jusb9610215d)
 - [Décret n°96-757 du 23 août 1996 (INTE9600200D)](decret-n96-757-du-23-aout-1996-inte9600200d)
+- [Décret n°96-759 du 23 août 1996 (BUDF9610032D)](decret-n96-759-du-23-aout-1996-budf9610032d)
 - [Décret du 23 mai 1996 (ENVN9640032D)](decret-du-23-mai-1996-envn9640032d)
 - [Décret n°96-444 du 23 mai 1996 (MENU9601554D)](decret-n96-444-du-23-mai-1996-menu9601554d)
 - [Décret n°96-447 du 23 mai 1996 (TASS9620010D)](decret-n96-447-du-23-mai-1996-tass9620010d)

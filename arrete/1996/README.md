@@ -151,6 +151,7 @@
 - [Arrêté du 6 mai 1996 (MCCB9600158A)](arrete-du-6-mai-1996-mccb9600158a)
 - [Arrêté du 6 mai 1996 (TASH9620907A)](arrete-du-6-mai-1996-tash9620907a)
 - [Arrêté du 6 mai 1998 (ECOP9800089A)](arrete-du-6-mai-1998-ecop9800089a)
+- [Arrêté du 7 août 1996 (DEFT9601805A)](arrete-du-7-aout-1996-deft9601805a)
 - [Arrêté du 7 août 1996 (ENVN9650218A)](arrete-du-7-aout-1996-envn9650218a)
 - [Arrêté du 7 août 1996 (PRMG9670382A)](arrete-du-7-aout-1996-prmg9670382a)
 - [Arrêté du 7 août 1996 (TASH9623110A)](arrete-du-7-aout-1996-tash9623110a)
