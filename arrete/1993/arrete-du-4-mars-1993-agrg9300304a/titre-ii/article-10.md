@@ -1,7 +1,9 @@
 # Article 10
 
-Les dispositions de l'arrêté du 15 mai 1974 relatif à l'abattage d'urgence des animaux de boucherie pour cause de maladie ou d'accident sont applicables aux gibiers d'élevage.
+Les dispositions de l'arrêté du 9 juin 2000 modifié relatif à l'abattage des animaux de boucherie accidentés sont applicables aux gibiers d'élevage ongulés dans les conditions suivantes :
 
-Toutefois, en vertu de l'article 9 du présent arrêté et dans les conditions qu'il prescrit, le directeur des services vétérinaires peut autoriser l'abattage à la ferme d'un animal malade.
+- les dispositions relatives aux animaux de l'espèce porcine sont applicables aux gibiers d'élevage ongulés suidés ;
 
-Par ailleurs, il peut également autoriser le dépouillement de l'animal sur place dans la mesure où cela permet de meilleures conditions hygiéniques de préparation et de transport des viandes.
+- les dispositions relatives aux animaux de l'espèce bovine sont applicables aux gibiers d'élevage ongulés ruminants. Toutefois, par dérogation aux dispositions prévues par l'arrêté du 9 juin 2000 précité, l'abattage en vue de la consommation humaine de gibiers ongulés d'élevage ruminants accidentés est autorisé quel que soit leur âge ;
+
+- les dispositions relatives aux solipèdes sont applicables aux gibiers d'élevage ongulés équidés.

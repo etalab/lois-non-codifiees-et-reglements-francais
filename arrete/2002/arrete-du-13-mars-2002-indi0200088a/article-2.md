@@ -1,0 +1,3 @@
+# Article 2
+
+La directrice générale de l'industrie, des technologies de l'information et des postes, le directeur de l'action régionale et de la petite et moyenne industrie du ministère de l'économie, des finances et de l'industrie, la directrice de la sécurité et de la circulation routières du ministère de l'équipement, des transports et du logement et le directeur de la prévention des pollutions et des risques du ministère de l'aménagement du territoire et de l'environnement sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
