@@ -1094,7 +1094,6 @@
 - [Arrêté du 30 septembre 1992 (BUDR9205040A)](arrete-du-30-septembre-1992-budr9205040a)
 - [Arrêté du 30 septembre 1992 (SANH9202555A)](arrete-du-30-septembre-1992-sanh9202555a)
 - [Arrêté du 30 septembre 1992 (SANH9202557A)](arrete-du-30-septembre-1992-sanh9202557a)
-- [Arrêté du 31 août 1992 (AGRE9201894A)](arrete-du-31-aout-1992-agre9201894a)
 - [Arrêté du 31 août 1992 (EQUT9201201A)](arrete-du-31-aout-1992-equt9201201a)
 - [Arrêté du 31 août 1992 (EQUT9201202A)](arrete-du-31-aout-1992-equt9201202a)
 - [Arrêté du 31 août 1992 (EQUT9201203A)](arrete-du-31-aout-1992-equt9201203a)
