@@ -1,6 +1,8 @@
 # Article 35
 
-Les dispositions du deuxième alinéa de l'article 2, celles des articles 3 à 5, 11, 13 à 15, 17 à 20, celles du deuxième alinéa de l'article 33 et les deuxième et troisième alinéas de l'article 34 du présent décret sont applicables aux étudiants faisant fonction d'internes dans les établissements hospitaliers publics autres que les hôpitaux locaux, s'ils n'ont pas accompli six mois au moins de fonctions.
+Les dispositions du deuxième alinéa de l'article 2 et celles des articles 3 à 6, 11, 13 à 15 et 17 à 20 du présent décret sont applicables aux étudiants faisant fonction d'interne dans les établissements publics de santé autres que les hôpitaux locaux, s'ils n'ont pas accompli six mois au moins de fonction.
+
+Les dispositions des articles 24 à 32 du présent décret s'appliquent aux étudiants faisant fonction d'interne mentionnés au 1 et au 2 de l'article 33-2. Dans le cas où le conseil de discipline prévu à l'article 27 se réunit pour un étudiant faisant fonction d'interne, les six internes ou résidents qui siègent respectivement à la première et à la deuxième section mentionnées à ce même article sont remplacés en nombre égal par des étudiants faisant fonction d'interne proposés dans les mêmes conditions ou, à défaut de telles propositions, tirés au sort parmi les étudiants faisant fonction d'interne en poste dans la région. Les modalités de ce tirage au sort sont fixées par arrêté des ministres chargés de la santé et de l'enseignement supérieur.
 
 Est garanti à ces étudiants en congé de maladie le versement pendant les trois premiers mois de congé des deux tiers de la rémunération mentionnée au 1° et au 2° de l'article 9 du présent décret et le tiers de celle-ci pendant les trois mois suivants.
 

@@ -1,6 +1,6 @@
 # Article 28
 
-Le commissaire de la République peut se faire remplacer par le directeur régional des affaires sanitaires et sociales, ou, pour la première section, par le médecin inspecteur régional de la santé et, pour la seconde section, par le pharmacien inspecteur régional de la santé.
+Le commissaire de la République peut se faire remplacer par le directeur régional des affaires sanitaires et sociales, ou, pour la première et la troisième sections, par le médecin inspecteur régional de la santé et, pour la seconde section, par le pharmacien inspecteur régional de la santé.
 
 Les membres du conseil autres que le président ont un suppléant qui est désigné dans les mêmes conditions que le titulaire.
 

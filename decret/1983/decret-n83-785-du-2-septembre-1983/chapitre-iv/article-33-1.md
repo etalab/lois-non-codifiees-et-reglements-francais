@@ -7,3 +7,5 @@ La liste des postes non pourvus d'internes ou de résidents situés dans des ser
 Pour les postes situés dans les services non agréés et pour les postes situés dans des services agréés non pourvus par la procédure mentionnée à l'alinéa précédent, l'affectation est décidée par le directeur de l'hôpital, sur proposition du chef de service intéressé. Le directeur de l'hôpital informe le médecin inspecteur régional de la santé.
 
 Les étudiants ou praticiens faisant fonction d'interne sont nommés pour une durée allant de la prise de fonctions des internes jusqu'à la date correspondant à la fin de leur période de stage. Cette durée peut être ensuite renouvelée tous les six mois.
+
+Les dispositions du présent article ne s'appliquent pas aux postes d'interne en odontologie.
