@@ -228,6 +228,16 @@ En particulier, les systèmes et équipements doivent, pour être réceptionnés
 
 4 = 1er juillet 2000 ; 1er mai 1999
 
+1 = 25. Indicateur de vitesse.
+
+2 = 2000/7/CE
+
+3 = 1er juillet 2001 (7)
+
+4 = 1er juillet 2001 (7)
+
+5 = 39/ECE/ONU
+
 NOTES
 
 (a) Compte tenu du champ d'application défini dans la directive. Dans la mesure où la directive le permet, les équipements homologués conformément aux dispositions de directives visant d'autres catégories de véhicules ou des règlements de l'ECE/O.N.U. correspondants peuvent aussi être montés.
@@ -259,6 +269,8 @@ dispositions relatives à l'homologation des titres III et IV de l'arrêté du 1
 - vitrages : arrêté du 20 juin 1983 modifié relatif au vitrage des véhicules ;
 
 - ceintures et ancrages : arrêté du 29 mai 1986 définissant les conditions d'application des articles R. 169-1 et R. 171-1 du code de la route, articles 4 et 5 de l'arrêté du 29 mai 1986 définissant les conditions d'application des articles R. 188, R. 195 à R. 197 et R. 200 du code de la route à certains cyclomoteurs à plus de deux roues.
+
+(7) 1er juillet 2002 pour les cyclomoteurs.
 
 (7) En l'attente d'une nouvelle directive, il y a lieu d'appliquer les dispositions de l'arrêté du 20 novembre 1969 modifié relatif aux rétroviseurs des véhicules et de l'arrêté du 13 avril 1972 modifié relatif au bruit des véhicules, pris pour l'application des directives concernées.
 
