@@ -1,4 +1,4 @@
-# Arrêté du 27 août 1985 portant création du brevet professionnel des professions immobilières
+# Arrêté du 31 mars 1987 instituant un prix d'architecture sportive contemporaine et en fixant l'organisation
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

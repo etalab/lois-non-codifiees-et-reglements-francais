@@ -1,4 +1,4 @@
-# Arrêté du 27 août 1985 portant création du brevet professionnel des professions immobilières
+# Arrêté du 27 mars 1987 portant organisation et attributions de la direction des transmissions et de l'informatique
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

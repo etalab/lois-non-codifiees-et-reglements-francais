@@ -1,15 +1,7 @@
-# Arrêté du 15 mai 1986 relatif à la construction et au contrôle des instruments de mesure de pression acoustique (sonomètres)
+# Arrêté du 15 mai 1986 fixant sur tout ou partie du territoire national des mesures de protection des mammifères représentés dans le département de la Guyane
 
 - [Article 1](article-1.md)
-- [TITRE Ier : CLASSIFICATION ET SPÉCIFICATIONS.](titre-ier)
 - [Article 2](article-2.md)
-- [TITRE II : APPROBATION DE MODÈLE.](titre-ii)
 - [Article 3](article-3.md)
-- [TITRE III : CONTRÔLE DE CONFORMITÉ VÉRIFICATION PRIMITIVE.](titre-iii)
 - [Article 3 bis](article-3-bis.md)
 - [Article 4](article-4.md)
-- [TITRE IV : VÉRIFICATION PÉRIODIQUE.](titre-iv)
-- [TITRE V : HABILITATION DES FABRICANTS OU DE LEUR REPRÉSENTANT POUR EFFECTUER LES ESSAIS DE LA VÉRIFICATION PRIMITIVE.](titre-v)
-- [TITRE VI : AGRÉMENT DES LABORATOIRES POUR EFFECTUER LES ESSAIS D'APPROBATION DE MODÈLE, OU DE LA VÉRIFICATION PRIMITIVE, OU DE LA VÉRIFICATION PÉRIODIQUE.](titre-vi)
-- [TITRE VII : DISPOSITIONS DIVERSES.](titre-vii)
-- [Annexes](annexes)
