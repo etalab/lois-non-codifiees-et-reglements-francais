@@ -1,0 +1,5 @@
+# Article 1
+
+Dans les établissements mentionnés au I de l'article 24 de l'ordonnance du 24 avril 1996 susvisée ainsi que dans les établissements définis à l'article 25 de ladite ordonnance qui ont opté ou sont réputés avoir opté pour le régime du conventionnement, les tarifs mentionnés au quatrième alinéa du II de l'article 24 susmentionné sont établis, pour l'année 1997, par référence aux tarifs moyens d'hospitalisation de l'exercice 1996 déterminés, pour chaque discipline ayant donné lieu à la fixation d'un prix de journée, par le rapport entre, d'une part, le montant total des produits constatés, sur l'exercice 1996, au titre des frais de séjour résultant de la facturation de ce prix de journée, à l'exclusion du produit du forfait journalier et, d'autre part, le nombre total de journées réalisées correspondant.
+
+Ces tarifs sont égaux aux tarifs moyens d'hospitalisation de l'exercice 1996 définis à l'alinéa précédent, affectés du taux de revalorisation des tarifs prévus par l'accord mentionné au deuxième alinéa du II de l'article 24, conclu au titre de l'exercice 1997, auxquels s'ajoute le montant du forfait journalier applicable.
