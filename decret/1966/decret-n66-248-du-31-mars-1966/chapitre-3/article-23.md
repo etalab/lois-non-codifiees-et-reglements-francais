@@ -1,0 +1,3 @@
+# Article 23
+
+Lorsqu'en application de l'article L. 658 du Code de la sécurité sociale il a été institué pour l'ensemble d'un groupe professionnel ou d'une activité professionnelle particulière des cotisations complémentaires destinées à financer un régime d'allocation vieillesse complémentaire, les caisses professionnelles chargées de l'application de ce régime peuvent limiter le régime de base obligatoire entrant dans la compensation générale aux cotisations et prestations de la classe VI bis visées à l'article 3, à condition toutefois que le régime complémentaire comporte dans l'ensemble des avantages au moins équivalents à ceux prévus par les options visées au même article.

@@ -1,0 +1,3 @@
+# CHAPITRE 5 : DISPOSITIONS TRANSITOIRES.
+
+- [Article 39](article-39.md)
