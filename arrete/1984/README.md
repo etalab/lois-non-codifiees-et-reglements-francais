@@ -30,6 +30,7 @@
 - [Arrêté du 11 janvier 1984](arrete-du-11-janvier-1984)
 - [Arrêté du 12 janvier 1984](arrete-du-12-janvier-1984)
 - [Arrêté du 12 mars 1985](arrete-du-12-mars-1985)
+- [Arrêté du 13 avril 1984](arrete-du-13-avril-1984)
 - [Arrêté du 13 janvier 1984](arrete-du-13-janvier-1984)
 - [Arrêté du 13 mars 1984](arrete-du-13-mars-1984)
 - [Arrêté du 14 décembre 1983](arrete-du-14-decembre-1983)

@@ -101,6 +101,7 @@
 - [Décret n°84-207 du 26 mars 1984](decret-n84-207-du-26-mars-1984)
 - [Décret n°84-233 du 26 mars 1984](decret-n84-233-du-26-mars-1984)
 - [Décret n°84-308 du 26 avril 1984](decret-n84-308-du-26-avril-1984)
+- [Décret n°84-314 du 26 avril 1984](decret-n84-314-du-26-avril-1984)
 - [Décret n°84-74 du 26 janvier 1984](decret-n84-74-du-26-janvier-1984)
 - [Décret n°84-965 du 26 octobre 1984](decret-n84-965-du-26-octobre-1984)
 - [Décret n°87-967 du 26 novembre 1987 (ECOM8730131D)](decret-n87-967-du-26-novembre-1987-ecom8730131d)
