@@ -6,7 +6,7 @@ Les personnels visés aux articles 2 et 3 perçoivent des émoluments qui compor
 
 A. - Le traitement brut soumis à retenue pour pension correspondant à l'indice hiérarchique que les agents détiennent dans leur corps d'origine ; pour les personnels relevant des décrets du 26 janvier 1983 et du 11 avril 1988 précités, l'indice d'échelon dans le grade est complété par la bonification indiciaire soumise à retenue pour pension attachée à la catégorie de l'établissement d'affectation déterminée par arrêté du ministre chargé du budget et, selon le cas, du ministre des affaires étrangères ou du ministre de la coopération et du développement ;
 
-B. - L'indemnité de suivi et d'orientation instituée par le décret du 6 juillet 1989 susvisé ;
+B.  L'indemnité prévue par le décret n° 93-55 du 15 janvier 1993 instituant une indemnité de suivi et d'orientation des élèves en faveur des personnels enseignants du second degré ;
 
 C. - Les indemnités et avantages statutaires prévus par la réglementation en vigueur dans les établissements relevant en France du ministère de l'éducation nationale dont un arrêté du ministre chargé du budget et, selon le cas, du ministre des affaires étrangères ou du ministre de la coopération et du développement a prévu l'application à l'étranger.
 

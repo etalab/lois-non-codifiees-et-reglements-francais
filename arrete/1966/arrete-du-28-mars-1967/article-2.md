@@ -1,13 +1,15 @@
 # Article 2
 
-Les situations prévues à l'article 17 du décret susvisé du 28 mars 1967, dans lesquelles peuvent être placés tous les personnels visés par le présent arrêté, sont énumérées ci-après :
+Les situations prévues à l'article 17 du décret du 28 mars 1967 susvisé, dans lesquelles peuvent être placés tous les personnels visés par le présent arrêté, sont énumérées ci-après:
 
-Présence au poste ;
+- présence au poste ;
 
-Congé administratif, de maladie, pour couches et allaitement et pour obligations militaires ;
+- congé administratif, de maladie, de maternité ou d'adoption et pour obligations militaires ;
 
-Intérim.
+- intérim ;
 
-Tous les agents titulaires, ainsi que les agents contractuels recrutés en France, peuvent en outre être placés en instance d'affectation.
+- appel spécial.
 
-Seuls les agents titulaires peuvent être appelés par ordre et, s'ils ne sont pas en position de détachement, être placés à l'étranger en congé de longue durée.
+Tous les agents titulaires ainsi que les agents contractuels recrutés en France peuvent en outre être placés en instance d'affectation.
+
+Seuls les agents titulaires peuvent être appelés par ordre et, s'ils ne sont pas en position de détachement, être placés à l'étranger en congé de longue maladie ou de longue durée.
