@@ -46,7 +46,7 @@ Attribution, dans les mêmes conditions, des mêmes indemnités journalières de
 
 Cette indemnité ne pourra être supérieure au plafond fixé par l'arrêté ministériel pris en application de l'article 51 de la loi du 30 octobre 1946.
 
-11° Attribution d'une indemnité qui ne pourra dépasser (pension d'invalidité et indemnité journalière comprises) le salaire mensuel de la catégorie professionnelle du futur métier des intéressés, aux assurés titulaires d'une pension d'invalidité ou bénéficiaires de l'assurance maladie, qui sont admis à effectuer un stage dans les centres de réadaptation et de rééducation professionnelles agréés.
+11° Attribution d'une indemnité, qui ne pourra dépasser (pension d'invalidité et indemnités journalières comprises) le salaire mensuel de la catégorie professionnelle du futur métier des intéressés, aux assurés titulaires d'une pension d'invalidité ou bénéficiaires de l'assurance maladie qui sont admis à effectuer un stage dans les centres de rééducation professionnelle agréés ou qui bénéficient d'un contrat de rééducation chez l'employeur.
 
 12° Prise en charge de tout ou partie des frais d'hébergement des assurés sociaux ou ayants droit devant suivre un traitement dans les externats de rééducation motrice de certaines stations thermales, lorsque la durée du traitement est supérieure aux vingt et un jours prévus pour la cure normale et après accord du contrôle médical.
 

@@ -16,6 +16,7 @@
 - [Décret n°85-496 du 6 mai 1985](decret-n85-496-du-6-mai-1985)
 - [Décret n°85-180 du 7 février 1985](decret-n85-180-du-7-fevrier-1985)
 - [Décret n°85-186 du 7 février 1985](decret-n85-186-du-7-fevrier-1985)
+- [Décret n°85-187 du 7 février 1985](decret-n85-187-du-7-fevrier-1985)
 - [Décret n°85-26 du 7 janvier 1985](decret-n85-26-du-7-janvier-1985)
 - [Décret n°85-27 du 7 janvier 1985](decret-n85-27-du-7-janvier-1985)
 - [Décret n°85-28 du 7 janvier 1985](decret-n85-28-du-7-janvier-1985)
