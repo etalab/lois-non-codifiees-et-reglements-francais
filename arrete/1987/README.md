@@ -277,7 +277,6 @@
 - [Arrêté du 14 septembre 1987 (ENVX8798459A)](arrete-du-14-septembre-1987-envx8798459a)
 - [Arrêté du 14 mai 1987 (AGRS8700961A)](arrete-du-14-mai-1987-agrs8700961a)
 - [Arrêté du 14 mai 1987 (ASEG8700749A)](arrete-du-14-mai-1987-aseg8700749a)
-- [Arrêté du 14 mai 1987 (BUDZ8700002A)](arrete-du-14-mai-1987-budz8700002a)
 - [Arrêté du 15 avril 1987 (ASEE8703258A)](arrete-du-15-avril-1987-asee8703258a)
 - [Arrêté du 15 avril 1987 (ENVN8700105A)](arrete-du-15-avril-1987-envn8700105a)
 - [Arrêté du 15 décembre 1987 (ASES8701846A)](arrete-du-15-decembre-1987-ases8701846a)
