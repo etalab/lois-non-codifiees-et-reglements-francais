@@ -1,6 +1,6 @@
 # Article 9
 
-Ne peuvent être retenues que les opérations de construction [*conditions*] dont la surface en mètres carrés est au moins égale à une surface minimale [*calcul*] déterminée de la manière suivante.
+Les opérations de construction de bibliothèques principales ne peuvent être prises en compte que si la surface totale atteint 100 mètres carrés et est au moins égale à une surface déterminée de la manière suivante. "
 
 Lorsque la population de la commune n'excède pas 25.000 habitants, cette surface minimale est égale à 0,07 mètre carré par habitant.
 
