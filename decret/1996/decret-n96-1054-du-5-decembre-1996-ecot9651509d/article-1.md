@@ -4,30 +4,6 @@ Le nombre des représentants de l'Etat au conseil d'administration ou de surveil
 
 NOM DE LA SOCIETE
 
-C.D.C.-Participations
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-1
-
-REPARTITION PAR MINISTERE
-
-Economie.
-
-NOM DE LA SOCIETE
-
-Cinquième Développement
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-1
-
-REPARTITION PAR MINISTERE
-
-Communication.
-
-NOM DE LA SOCIETE
-
 Compagnie générale de matières nucléaires (Cogéma)
 
 NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
@@ -253,30 +229,6 @@ NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillanc
 REPARTITION PAR MINISTERE
 
 Transports (x 2).
-
-NOM DE LA SOCIETE
-
-EDF International
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-1
-
-REPARTITION PAR MINISTERE
-
-Economie.
-
-NOM DE LA SOCIETE
-
-Bâticréances
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-1
-
-REPARTITION PAR MINISTERE
-
-Economie.
 
 NOM DE LA SOCIETE
 
