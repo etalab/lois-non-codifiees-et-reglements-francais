@@ -4,7 +4,7 @@ La redevance n'est pas due pour :
 
 a) Les membres de l'équipage de l'aéronef ;
 
-b) Les passagers en transit direct effectuant un arrêt momentané sur l'aéroport et repartant par un aéronef dont le numéro de vol au départ est identique au numéro de vol de l'aéronef à bord duquel ils sont arrivés ;
+b) Les passagers effectuant un arrêt momentané sur l'aéroport et repartant par le même aéronef et avec un numéro de vol identique au numéro de vol de l'aéronef à l'arrivée ;
 
 c) Les passagers des aéronefs effectuant une escale technique ;
 
