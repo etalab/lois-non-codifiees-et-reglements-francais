@@ -1,0 +1,5 @@
+# Article 42
+
+A compter du 1er avril 1983 un complément de pension est attribué aux salariés assurés sociaux qui, à partir de soixante ans, ne remplissent pas les conditions requises pour bénéficier d'une pension d'assurance vieillesse au taux plein, telle qu'elle est définie aux articles L. 331 et L. 332 du code de la sécurité sociale, et qui ont occupé dans des entreprises de transports publics sur route ou sur voie ferrée un emploi permanent à temps complet de conducteur de véhicules affectés au transport de marchandises ou au transport en commun de personnes, sous réserve qu'ils aient occupé un tel emploi pendant cinq années au cours des quinze années précédant la date d'entrée en jouissance de leur pension d'assurance vieillesse.
+
+La liste des emplois ouvrant droit à ce complément de pension sera fixée par un arrêté du ministre des travaux publics, des transports et du tourisme, du ministre des finances et des affaires économiques et du ministre du travail et de la sécurité sociale.
