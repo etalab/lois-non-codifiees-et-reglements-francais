@@ -1,3 +1,3 @@
 # Article 32
 
-Jusqu'au 1er janvier 1980, les commissaires colonels pourront accéder à l'échelon exceptionnel de leur grade après cinq ans de grade ou après quatre ans de grade et trente-deux ans de service.
+Peuvent faire acte de candidature aux concours prévus par l'article 31 du présent décret les officiers de carrière de l'armée de l'air du grade de commandant ou de lieutenant-colonel en position d'activité âgés, au 1er janvier de l'année du concours, de plus de trente-cinq ans pour les commandants et de plus de quarante ans pour les lieutenants-colonels.
