@@ -17,6 +17,7 @@
 - [Décret n°51-1318 du 16 novembre 1951](decret-n51-1318-du-16-novembre-1951)
 - [Décret n°51-445 du 16 avril 1951](decret-n51-445-du-16-avril-1951)
 - [Décret n°50-1567 du 19 décembre 1950](decret-n50-1567-du-19-decembre-1950)
+- [Décret n°51-1336 du 20 novembre 1951](decret-n51-1336-du-20-novembre-1951)
 - [Décret n°51-582 du 22 mai 1951](decret-n51-582-du-22-mai-1951)
 - [Décret n°51-372 du 27 mars 1951](decret-n51-372-du-27-mars-1951)
 - [Décret n°51-820 du 27 juin 1951](decret-n51-820-du-27-juin-1951)
