@@ -10,4 +10,4 @@ Lorsqu'une société d'architecture est constituée sous la forme d'une sociét�
 
 4° Aucun des associés ne peut détenir plus de 50 p. 100 du capital social ;
 
-5° Le président du conseil d'administration, le directeur général s'il est unique, la moitié au moins des directeurs généraux, des membres du directoire et des gérants, ainsi que la majorité au moins des membres du conseil d'administration et du conseil de surveillance doivent être architectes.
+Cette disposition ne s'applique pas lorsque la société d'architecture est constituée sous la forme d'une entreprise unipersonnelle à responsabilité limitée.    5° Le président du conseil d'administration, le directeur général s'il est unique, la moitié au moins des directeurs généraux, des membres du directoire et des gérants, ainsi que la majorité au moins des membres du conseil d'administration et du conseil de surveillance doivent être architectes.

@@ -10,6 +10,4 @@ Sociétés anonymes ou sociétés à responsabilité limitée régies par la loi
 
 Ces sociétés peuvent se placer sous le régime de la coopération prévu par la loi n° 47-1775 du 10 septembre 1947, l'application des articles 3 et 19 de ladite loi pouvant toutefois être exclue par les statuts de ces sociétés.
 
-Quelle que soit la forme sociale adoptée, tout associé architecte répond sur l'ensemble de son patrimoine des actes professionnels qu'il accomplit pour le compte de la société. Celle-ci est solidairement responsable avec lui des conséquences dommageables de ses actes.
-
 Toute société d'architecture [*obligations*] doit être inscrite à un tableau régional des architectes et communiquer au conseil régional ses statuts et la liste de ses associés ainsi que toute modification apportée à ces statuts et à cette liste.

@@ -8,4 +8,4 @@ Un décret en Conseil d'Etat définit les modalités des élections, les conditi
 
 Le conseil régional est renouvelé [*périodicité*] par moitié tous les deux ans. Les membres du conseil ne peuvent exercer plus de deux mandats consécutifs.
 
-Les règles générales de fonctionnement du conseil régional sont déterminées par décret en Conseil d'Etat. Ce décret prévoit les cotisations obligatoires qui sont versées par les architectes inscrits au tableau régional en vue de couvrir les dépenses du conseil régional et du conseil national.
+Les règles générales de fonctionnement du conseil régional sont déterminées par décret en Conseil d'Etat. Ce décret prévoit les cotisations obligatoires qui sont versées par les architectes inscrits au tableau régional en vue de couvrir les dépenses du conseil régional et du conseil national. Tout défaut de paiement des cotisations prévues à l'alinéa précédent ne peut faire l'objet d'une sanction disciplinaire ou professionnelle.
