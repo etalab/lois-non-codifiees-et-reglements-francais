@@ -1,0 +1,18 @@
+# Tarif de la caisse régionale de Strasbourg
+
+- [INDUSTRIES DU BOIS Comité technique national n° 3 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industries-du-bois-comite-technique-national-3)
+- [INDUSTRIES CHIMIQUES Comité technique national n° 4 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industries-chimiques-comite-technique-national-4)
+- [INDUSTRIES DU CAOUTCHOUC, PAPIER, CARTON Comité technique national n° 6 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industries-du-caoutchouc-papier-carton-comite-technique-national-6)
+- [INDUSTRIES DU LIVRE Comité technique national n° 7 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industries-du-livre-comite-technique-national-7)
+- [INDUSTRIES TEXTILES Comité technique national n° 8 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industries-textiles-comite-technique-national-8)
+- [INDUSTRIES DU VETEMENT Comité technique national n° 9 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industries-du-vetement-comite-technique-national-9)
+- [ACTIVITES DU GROUPE INTERPROFESSIONNEL Comité technique national n° 15 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](activites-du-groupe-interprofessionnel-comite-technique-national-15)
+- [CATEGORIES FORFAITAIRES ET HORS COMITES TECHNIQUES *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](categories-forfaitaires-et)
+- [INDUSTRIE DES CUIRS ET PEAUX Comité technique national n° 10 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industrie-des-cuirs-et)
+- [INDUSTRIES DES PIERRES ET TERRES A FEU Comité technique national n° 5 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industries-des-pierres-et)
+- [INDUSTRIES DES TRANSPORTS ET DE LA MANUTENTION Comité technique national n° 12 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industries-des-transports-et)
+- [INDUSTRIES DU BATIMENT ET DES TRAVAUX PUBLICS Comité technique national n° 2 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industries-du-batiment-et)
+- [INDUSTRIES ET COMMERCES DE L'ALIMENTATION Comité technique national n° 11 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industries-et)
+- [METALLURGIE ET TRAVAIL DES METAUX Comité technique national n° 1 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](metallurgie-et)
+- [INDUSTRIE DE L'EAU, DU GAZ ET DE L'ELECTRICITE Comité technique national n° 13 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](industrie-de-l-eau-du-gaz-et)
+- [COMMERCES NON ALIMENTAIRES Comité technique national n° 14 *Tarif présenté suivant le numéro du risque (sécurité sociale), la nature du risque et le taux net de cotisation A.T..*](commerces-non)
