@@ -218,7 +218,6 @@
 - [Arrêté du 10 mars 1988 (AGRE8800571A)](arrete-du-10-mars-1988-agre8800571a)
 - [Arrêté du 10 mars 1988 (ASEH8800374A)](arrete-du-10-mars-1988-aseh8800374a)
 - [Arrêté du 10 mars 1988 (RESP8800266A)](arrete-du-10-mars-1988-resp8800266a)
-- [Arrêté du 10 mars 1988 (RESP8800267A)](arrete-du-10-mars-1988-resp8800267a)
 - [Arrêté du 10 octobre 1988 (ECOC8800111A)](arrete-du-10-octobre-1988-ecoc8800111a)
 - [Arrêté du 10 octobre 1988 (EQUC8800718A)](arrete-du-10-octobre-1988-equc8800718a)
 - [Arrêté du 10 octobre 1988 (EQUC8800719A)](arrete-du-10-octobre-1988-equc8800719a)
