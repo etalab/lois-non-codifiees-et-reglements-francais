@@ -534,7 +534,6 @@
 - [Arrêté du 18 septembre 1991 (SPSS9102248A)](arrete-du-18-septembre-1991-spss9102248a)
 - [Arrêté du 19 avril 1991 (SPSG9101073A)](arrete-du-19-avril-1991-spsg9101073a)
 - [Arrêté du 19 avril 1991 (SPSG9101074A)](arrete-du-19-avril-1991-spsg9101074a)
-- [Arrêté du 19 avril 1991 (TEFT9103451A)](arrete-du-19-avril-1991-teft9103451a)
 - [Arrêté du 19 décembre 1990 (ECOC9000174A)](arrete-du-19-decembre-1990-ecoc9000174a)
 - [Arrêté du 19 décembre 1990 (SPSS9002554A)](arrete-du-19-decembre-1990-spss9002554a)
 - [Arrêté du 19 décembre 1991 (COMK9108004A)](arrete-du-19-decembre-1991-comk9108004a)
