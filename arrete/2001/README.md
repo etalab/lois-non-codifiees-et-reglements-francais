@@ -43,6 +43,7 @@
 - [Arrêté du 26 décembre 2000 (EQUU0001721A)](arrete-du-26-decembre-2000-equu0001721a)
 - [Arrêté du 27 décembre 2000 (ECOC0000126A)](arrete-du-27-decembre-2000-ecoc0000126a)
 - [Arrêté du 27 décembre 2000 (ECOC0000127A)](arrete-du-27-decembre-2000-ecoc0000127a)
+- [Arrêté du 28 décembre 2000 (INTB0000803A)](arrete-du-28-decembre-2000-intb0000803a)
 - [Arrêté du 28 décembre 2000 (MENE0003244A)](arrete-du-28-decembre-2000-mene0003244a)
 - [Arrêté du 28 mars 2001 (EQUA0100514A)](arrete-du-28-mars-2001-equa0100514a)
 - [Arrêté du 29 avril 2002 (CESX0200201A)](arrete-du-29-avril-2002-cesx0200201a)
