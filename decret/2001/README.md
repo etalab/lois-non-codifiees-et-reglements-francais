@@ -254,6 +254,7 @@
 - [Décret n°99-508 du 17 juin 1999 (ECOF9800037D)](decret-n99-508-du-17-juin-1999-ecof9800037d)
 - [Décret n°2001-1205 du 18 décembre 2001 (EQUP0101616D)](decret-n2001-1205-du-18-decembre-2001-equp0101616d)
 - [Décret n°2001-1232 du 18 décembre 2001 (MAEA0120473D)](decret-n2001-1232-du-18-decembre-2001-maea0120473d)
+- [Décret n°2001-529 du 18 juin 2001 (PRMG0170142D)](decret-n2001-529-du-18-juin-2001-prmg0170142d)
 - [Décret n°2001-640 du 18 juillet 2001 (FPPA0110006D)](decret-n2001-640-du-18-juillet-2001-fppa0110006d)
 - [Décret n°2001-644 du 18 juillet 2001 (MESS0122377D)](decret-n2001-644-du-18-juillet-2001-mess0122377d)
 - [Décret n°2001-645 du 18 juillet 2001 (EQUU0100712D)](decret-n2001-645-du-18-juillet-2001-equu0100712d)
