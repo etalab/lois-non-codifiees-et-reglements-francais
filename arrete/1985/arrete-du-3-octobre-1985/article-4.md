@@ -1,3 +1,3 @@
 # Article 4
 
-Le temps passé à la douche ou au nettoyage corporel, rémunéré comme temps de travail normal, est au minimum d'un quart d'heure et au maximum d'une heure, déshabillage et rhabillage compris.
+Il est constitué, sous la responsabilité du médecin désigné à l'article 3, des fichiers anonymes de résumés de sorties standardisés et, quand leur production est assurée, de fiches de consommation standardisées ; ces fichiers sont obtenus par suppression de toutes les informations d'identification visées à l'article 2 ci-dessus, à l'exception de l'année de naissance, et par attribution, à chaque résumé de sortie standardisé et, le cas échéant, à chaque fiche de consommation standardisée, du numéro de l'établissement ainsi que tout organisme extérieur à celui-ci ne peuvent être destinataires que de ces fichiers anonymes.

@@ -1,6 +1,8 @@
 # 1988
 
 - [Décret n°87-501 du 1 juillet 1987 (INDD8700106D)](decret-n87-501-du-1-juillet-1987-indd8700106d)
+- [Décret n°88-907 du 2 septembre 1988 (JUSC8820529D)](decret-n88-907-du-2-septembre-1988-jusc8820529d)
+- [Décret n°88-908 du 2 septembre 1988 (INTA8800290D)](decret-n88-908-du-2-septembre-1988-inta8800290d)
 - [Décret n°88-480 du 2 mai 1988 (ECOZ8800011D)](decret-n88-480-du-2-mai-1988-ecoz8800011d)
 - [Décret n°88-494 du 2 mai 1988 (ASES8800594D)](decret-n88-494-du-2-mai-1988-ases8800594d)
 - [Décret n°88-495 du 2 mai 1988 (ASES8800598D)](decret-n88-495-du-2-mai-1988-ases8800598d)
@@ -112,3 +114,4 @@
 - [Décret n°88-901 du 30 août 1988 (SPSS8801058D)](decret-n88-901-du-30-aout-1988-spss8801058d)
 - [Décret n°88-903 du 30 août 1988 (SPSP8801124D)](decret-n88-903-du-30-aout-1988-spsp8801124d)
 - [Décret n°87-1167 du 31 décembre 1987 (RESY8800001D)](decret-n87-1167-du-31-decembre-1987-resy8800001d)
+- [Décret n°88-904 du 31 août 1988 (ECOA8800042D)](decret-n88-904-du-31-aout-1988-ecoa8800042d)

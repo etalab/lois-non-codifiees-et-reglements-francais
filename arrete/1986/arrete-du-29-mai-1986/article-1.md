@@ -1,21 +1,19 @@
 # Article 1
 
-Lorsqu'un transport routier de marchandises est assuré en zone longue au moyen d'un ensemble routier articulé, le parcours initial ou terminal situé dans une zone d'attraction urbaine peut être assuré par un tracteur différent de celui utilisé pour le trajet principal s'il est muni d'un certificat d'inscription au registre des transporteurs et à condition que :
+L'uniforme des gardes-pêche du Conseil supérieur de la pêche est ainsi composé :
 
-L'entreprise ait déclaré, préalablement à toute opération de ce genre, le ou les locaux où sera opérée cette rupture d'attelage. La déclaration doit être faite auprès du commissaire de la République de région dans le ressort duquel se trouve le local déclaré,
+Tenue de cérémonie (hiver)
 
-Le parcours initial ou terminal soit entièrement inclus dans la zone dite d'attraction urbaine, celle-ci étant déterminée par le territoire compris à l'intérieur d'un cercle ayant pour centre la mairie ou l'hôtel de ville de la commune centre de l'agglomération et pour rayon :
+Homme : veste et pantalon de drap bleu, képi ;
 
-- dix kilomètres pour les agglomérations de moins de 100.000 [*nombre*] habitants ;
+Femme : veste et jupe ou pantalon de drap bleu, coiffure.
 
-- quinze kilomètres pour les agglomérations dont la population est comprise entre 100.000 et 250.000 habitants ;
+Tenue de cérémonie (été)
 
-- vingt kilomètres pour les agglomérations dont la population est comprise entre 250.000 et 500.000 habitants ;
+Homme : vareuse et pantalon en toile kaki, képi ;
 
-- vingt-cinq kilomètres pour les agglomérations de 500.000 habitants et plus ;
+Femme : vareuse et pantalon ou jupe de toile kaki, coiffure.
 
-- trente kilomètres pour l'agglomération parisienne.
+Les tenues (hiver et été) sont portées avec une chemise blanche, une cravate noire et des souliers noirs. " Tenue de travail (été et hiver)
 
-Lorsque la limite ainsi fixée passe à travers une commune, le territoire entier de la commune est compris dans la zone d'attraction urbaine.
-
-Lorsqu'un véhicule de transport routier est acheminé par voie maritime au départ ou à destination d'un port continental de France métropolitaine, à destination ou en provenance d'une île du territoire métropolitain, l'ensemble du territoire de cette île est compris dans la zone d'attraction urbaine du port de départ ou de destination.
+" Les vêtements de travail sont ceux qui figurent sur une liste établie par le directeur général du Conseil supérieur de la pêche et qui font partie de la dotation générale d'uniforme attribuée à chaque agent. "
