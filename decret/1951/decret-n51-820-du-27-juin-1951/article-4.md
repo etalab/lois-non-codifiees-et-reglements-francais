@@ -1,0 +1,3 @@
+# Article 4
+
+Si l'assuré ne peut prétendre à une pension mais réunit au total cinq années d'assurance valables au sens du paragraphe 1er de l'article 2 du présent décret, il obtient à soixante-cinq ans une rente calculée comme il est indiqué à l'article 66 de l'ordonnance du 19 octobre 1945 modifiée en contrepartie des versements opérés en son nom au titre du régime des professions industrielles et commerciales et les avantages susceptibles de lui être attribués au titre du régime des professions agricoles en application du décret du 30 octobre 1935 modifié. La rente acquise au titre du régime des professions industrielles et commerciales doit faire l'objet des mesures de revalorisation prévues par l'ordonnance du 19 octobre 1945 modifiée et la loi du 3 février 1950.
