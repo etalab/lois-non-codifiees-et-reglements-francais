@@ -1,0 +1,3 @@
+# Article 3
+
+Sont placés hors hiérarchie les magistrats de la Cour de cassation, à l'exception des conseillers référendaires, les premiers présidents des cours d'appel et les procureurs généraux près lesdites cours, les présidents de chambre à la Cour d'appel de Paris et à la Cour d'appel de Versailles et les avocats généraux près lesdites cours, le président et les premiers vice-présidents du Tribunal de grande instances de Paris, le procureur de la République et les procureurs de la République adjoints près ce tribunal, les présidents des Tribunaux de grande instance de Nanterre, Créteil, Bobigny, Marseille, Lyon, Lille et Versailles et les procureurs de la République près ces tribunaux.
