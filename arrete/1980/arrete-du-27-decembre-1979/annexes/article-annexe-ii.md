@@ -67,21 +67,3 @@ Orientation des courants et leur force dans les zones suivantes : Ouessant, les 
 D. - Approches des grands ports :
 
 Routes d'approche. Zone de pilotage obligatoire. Mouillage d'attente. Zone d'attente des bateaux pilotes. Préavis d'arrivée. Transmissions. Canaux V. H. F. Guidage radar. Procédure pour embarquer le pilote par temps maniable et par mauvais temps. Embarquement du pilote par hélicoptère.
-
-III. - Zone Mer Baltique.
-
-A. - Zone de pilotage :
-
-Description de la zone, sortie des belts, mer Baltique, golfe de Bothnie, golfe de Finlande. Description plus détaillée des zones suivantes : Norra, Kvarken, Sodrakvorken, entrée du golfe de Finlande, entrée du golfe de Riga, de Oland à Landsort, de Langeland à Bornholm, du golfe de Gdansk, Kiel Belt.
-
-B. - Les routes :
-
-Les principales routes et distances de la sortie des belts du Sound ou du canal de Kiel pour franchir la Baltique et se rendre vers les différents grands ports ou en revenir. Routes recommandées, réglementation O. M. C. I.
-
-C. - Les courants :
-
-Courants généraux, courants de marée. Influence du vent sur les courants, orientation des courants et leur force dans les zones suivantes : entrée de la Baltique, entrée du golfe de Bothnie, entrée du golfe de Finlande, entrée du golfe de Riga.
-
-D. - Approches des ports :
-
-Routes d'approche. Zone de pilotage obligatoire. Mouillage d'attente. Zone d'attente des bateaux pilotes. Préavis d'arrivée. Transmissions. Canaux V. H. F. Guidage radar. Procédure pour embarquer le pilote par temps maniable et par mauvais temps. Embarquement du pilote par hélicoptère.
