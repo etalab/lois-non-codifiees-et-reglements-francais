@@ -1,5 +1,7 @@
 # Article 122
 
-Lorsque le commissaire aux comptes d'une société est en même temps commissaire aux comptes d'une filiale au sens de l'article 354 de la loi du 24 juillet 1966 [*groupe de sociétés*], le montant des honoraires au titre de la filiale est égal [*calcul*] à la somme résultant de l'application du barème, diminué de 30 p. 100 [*pourcentage*].
+Si le nombre d'heures de travail normalement nécessaires à la réalisation du programme de travail du ou des commissaires aux comptes apparaît excessif ou insuffisant, le président de la compagnie régionale est saisi par la partie la plus diligente d'une demande de dérogation aux nombres indiqués à l'article 120. Cette demande indique le nombre d'heures estimées nécessaires et les motifs de la dérogation demandée. L'autre partie fait connaître son avis.
 
-Lorsque les commissaires aux comptes d'une société sont en même temps commissaires aux comptes d'une filiale au sens de l'article 354 de la loi du 24 juillet 1966, le montant global des honoraires au titre de la filiale est égal à la somme résultant de l'application du barème et de l'article 121, diminué de 40 p. 100.
+Le président de la compagnie régionale rend sa décision dans les quinze jours de la demande. Cette décision peut faire l'objet d'un recours devant la chambre régionale de discipline qui est saisie et statue dans les conditions prévues à l'article 126.
+
+La procédure ci-dessus ne s'applique pas si le dépassement des limites fixées aux articles 120 et 121 recueille l'accord des parties.

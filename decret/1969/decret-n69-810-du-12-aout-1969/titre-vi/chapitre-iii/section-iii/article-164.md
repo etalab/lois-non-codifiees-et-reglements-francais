@@ -1,3 +1,7 @@
 # Article 164
 
-L'assurance de la responsabilité civile professionnelle exigée par l'article 16 (alinéa 3) de la loi du 29 novembre 1966 [*relative aux sociétés civiles professionnelles*] est contractée par la société, conformément à l'article 84, sans préjudice du droit des associés de contracter personnellement l'assurance.
+La société civile professionnelle de commissaires aux comptes peut être transformée en sociétés de commissaires aux comptes d'une autre forme sans que cette transformation entraîne la création d'un être moral nouveau.
+
+La société demande la modification correspondante de son inscription sur la liste. La demande est adressée à la commission régionale d'inscription qui s'assure, avant de procéder à cette modification, de la conformité des nouveaux statuts avec les dispositions législatives et réglementaires régissant la société.
+
+En cas de non-conformité, la commission régionale d'inscription impartit un délai de régularisation. Si la situation n'a pas été régularisée à l'expiration de ce délai, la commission régionale prononce la radiation.

@@ -8,3 +8,4 @@
 - [TITRE VI : Sanctions pénales](titre-vi)
 - [TITRE VII : Sanctions administratives](titre-vii)
 - [TITRE VIII : Dispositions diverses](titre-viii)
+- [Article 22-1](article-22-1.md)

@@ -1,3 +1,5 @@
 # Article 163
 
-Les registres, répertoires et documents prévus par les textes réglementaires sont ouverts et établis au nom de la société.
+L'acte de nomination du liquidateur, quelle que soit sa forme, est adressé par ce dernier à la commission régionale d'inscription des commissaires aux comptes.
+
+Le liquidateur informe cette commission de la clôture de la liquidation [*communication*].

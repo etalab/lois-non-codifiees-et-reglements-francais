@@ -1,0 +1,3 @@
+# Article 4
+
+La cargaison des navires et engins flottants abandonnés peut être vendue, si elle n'est pas revendiquée ou enlevée dans les conditions définies par le décret mentionné à l'article 5. Le produit de la vente est consigné durant cinq ans [*durée*]. Les créances afférentes aux frais exposés pour la conservation et la vente de la cargaison sont garanties par un privilège sur la valeur de la cargaison de même rang que le privilège des frais pour la conservation de la chose. Au terme du délai de cinq ans, les sommes pour lesquelles aucun créancier ne s'est manifesté sont acquises au Trésor.

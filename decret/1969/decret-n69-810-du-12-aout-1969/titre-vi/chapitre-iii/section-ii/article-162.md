@@ -1,5 +1,3 @@
 # Article 162
 
-Chaque associé participe individuellement à l'assemblée de la compagnie régionale à laquelle il appartient personnellement.
-
-Le conseil régional [*composition*] ne peut comprendre, dans une proportion supérieure à un cinquième, des associés d'une même société.
+En aucun cas les fonctions de liquidateur ne peuvent être conférées à une personne contre laquelle l'incapacité absolue, l'interdiction d'exercice ou la suspension temporaire a été prononcée [*incompatibilités*].
