@@ -2,7 +2,7 @@
 
 I. - On entend, au sens du présent décret :
 
-a) Par "appareils", les machines, les matériels, les dispositifs fixes ou mobiles, les organes de commande et de contrôle, les systèmes de détection et de prévention qui, seuls ou combinés, sont utilisés pour effectuer des opérations de production, de transport, de stockage, de mesure, de régulation ou de conversion d'énergie et qui, par les risques d'inflammation que leur fonctionnement peut créer, sont susceptibles de déclencher une explosion ;
+a) Par "appareils", les machines, les matériels, les dispositifs fixes ou mobiles, les organes de commande et de contrôle, les systèmes de détection et de prévention qui, seuls ou combinés, sont destinés à être utilisés pour effectuer des opérations de production, de transport, de stockage, de mesure, de régulation, de conversion d'énergie ou de transformation de matériau et qui, par les risques d'inflammation que leur fonctionnement peut créer, sont susceptibles de déclencher une explosion ;
 
 b) Par "systèmes de protection", les dispositifs, autres que les composants des appareils définis ci-dessus, qui ont pour objet d'arrêter à sa naissance le processus d'explosion ou de limiter la zone affectée par une explosion, qui fonctionnent de manière autonome et qui sont mis en cet état sur le marché ;
 
