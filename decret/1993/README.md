@@ -604,7 +604,6 @@
 - [Décret n°93-271 du 23 février 1993 (DEFP9301195D)](decret-n93-271-du-23-fevrier-1993-defp9301195d)
 - [Décret n°93-431 du 23 mars 1993 (MENI9300038D)](decret-n93-431-du-23-mars-1993-meni9300038d)
 - [Décret n°93-445 du 23 mars 1993 (INTB9300158D)](decret-n93-445-du-23-mars-1993-intb9300158d)
-- [Décret n°93-446 du 23 mars 1993 (ECOX9300145D)](decret-n93-446-du-23-mars-1993-ecox9300145d)
 - [Décret n°93-448 du 23 mars 1993 (EQUT9300240D)](decret-n93-448-du-23-mars-1993-equt9300240d)
 - [Décret n°93-449 du 23 mars 1993 (TEFT9300347D)](decret-n93-449-du-23-mars-1993-teft9300347d)
 - [Décret n°93-454 du 23 mars 1993 (SPSC9300747D)](decret-n93-454-du-23-mars-1993-spsc9300747d)
