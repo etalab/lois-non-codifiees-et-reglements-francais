@@ -1,0 +1,3 @@
+# Article 3
+
+Les taxes et redevances perçues pour la vérification primitive d'instruments qui, après poinçonnage, sont exportés à l'étranger ou dans les territoires d'outre-mer, sont remboursés sur justification d'exportation dans les conditions prévues par l'article 10 de l'arrêté du 20 juin 1947 modifié. Toutefois il n'y a pas remboursement lorsque les instruments appartiennent à une catégorie réglementée en application des prescriptions de la Communauté économique européenne, portent les marques de vérification primitive CEE et sont exportés dans pays membre qui applique les prescriptions harmonisées concernant cette catégorie d'instruments de mesure.
