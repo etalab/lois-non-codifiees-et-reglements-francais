@@ -2,19 +2,19 @@
 
 Lorsque les ressources des occupants du logement sont inférieures à 70 % des montants visés à l'article 2 de l'arrêté du 31 décembre 1980 susvisé, les montants des prêts peuvent atteindre, sous réserve des dispositions de l'article 4 ci-après :
 
-A compter du 30 juin 1988
+Jusqu'au 30 juin 1989
 
-Zone I   : 93.183 + 3.020 (Sh + (Sa/2)) ;
+Zone I   : 95.140 + 3.084 (Sh + (Sa/2)) ;
 
-Zone II  : 84.836 + 2.743 (SH + (Sa/2)) ;
+Zone II  : 86.618 + 2.800 (SH + (Sa/2)) ;
 
-Zone III : 79.244 + 2.574 (SH + (Sa/2)).   A compter du 1er juillet 1988
+Zone III : 80.908 + 2.629 (SH + (Sa/2)).   Jusqu'au 1er juillet 1989
 
-Zone I   : 94.105 + 3.050 (Sh + (Sa/2)) ;
+Zone I   : 96.175 + 3.117 (Sh + (Sa/2)) ;
 
-Zone II  : 85.676 + 2.770 (SH + (Sa/2)) ;
+Zone II  : 87.561 + 2.831 (SH + (Sa/2)) ;
 
-Zone III : 80.028 + 2.600 (SH + (Sa/2)).
+Zone III : 81.789 + 2.657 (SH + (Sa/2)).
 
 SH et Sa doivent être conformes aux dispositions de l'article 1er du présent arrêté.
 

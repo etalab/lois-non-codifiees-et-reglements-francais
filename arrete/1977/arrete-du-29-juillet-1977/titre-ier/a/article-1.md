@@ -1,22 +1,22 @@
 # Article 1
 
-Lorsque les ressources du ménage occupant le logement sont égales ou supérieures à 70 % des montants fixés à l'article 2 de l'arrêté du 31 décembre 1980 susvisé, les montants des prêts accordés aux personnes physiques accédant à la propriété qui assurent elles-mêmes la maîtrise d'ouvrage de leur logement peuvent atteindre, sous réserve des dispositions de l'article 2 :
+Lorsque les ressources du ménage occupant le logement sont égales ou supérieures [*taux*] à 70 % des montants fixés à l'article 2 de l'arrêté du 31 décembre 1980 susvisé, les montants des prêts accordés aux personnes physiques accédant à la propriété qui assurent elles-mêmes la maîtrise d'ouvrage de leur logement peuvent atteindre, sous réserve des dispositions de l'article 2 :
 
-A compter du 30 juin 1988
+Jusqu'au 30 juin 1989
 
-Zone I   : 74.048 + 2.399 (SH + (Sa/2)) ;
+Zone I   : 75.604 + 2.450 (SH + (Sa/2)) ;
 
-Zone II  : 67.407 + 2.189 (SH + (Sa/2)) ;
+Zone II  : 68.824 + 2.231 (SH + (Sa/2)) ;
 
-Zone III : 62.975 + 2.040 (SH + (Sa/2)) ;
+Zone III : 64.298 + 2.083 (SH + (Sa/2)) ;
 
-A compter du 1er juillet 1988
+A compter du 1er juillet 1989
 
-Zone I   : 74.781 + 2.423 (SH + (Sa/2)) ;
+Zone I   : 76.426 + 2.476 (SH + (Sa/2)) ;
 
-Zone II  : 68.075 + 2.207 (SH + (Sa/2)) ;
+Zone II  : 69.573 + 2.256 (SH + (Sa/2)) ;
 
-Zone III : 63.598 + 2.060 (SH + (Sa/2)) ;
+Zone III : 64.997 + 2.105 (SH + (Sa/2)) ;
 
 Dans les formules ci-dessus :
 
@@ -32,7 +32,7 @@ COMPOSITION DU MENAGE (SH minimale) :
 
 - Mètres carrés : 30
 
-- Trois personnes ou une personne seule, avec une personne à charge, à l'exclusion des jeunes ménages :
+- Trois personnes ou une personne seule, avec une personneà charge, à l'exclusion des jeunes ménages :
 
 - Mètres carrés : 46
 
