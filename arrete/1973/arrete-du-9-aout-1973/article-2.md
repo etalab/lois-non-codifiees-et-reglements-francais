@@ -56,6 +56,6 @@ Sont autorisés, à titre général, les règlements à destination de l'étrang
 
 27° Remboursement de prêts régulièrement contractés conformément aux dispositions de l'article 6 du décret n° 67-78 précité et des textes postérieurs qui l'ont modifié ;
 
-28° Achat par des résidents de valeurs françaises et étrangères sur les marchés étrangers de valeurs mobilières, sous réserve du respect de la réglementation relative aux investissements directs opérés à l'étranger par des résidents ou en France par des non-résidents.
+28° (abrogé) ;
 
 29° Tous autres paiements qui, par leur nature, peuvent être assimilés aux catégories énumérées ci-dessus.

@@ -107,6 +107,7 @@
 - [Décret n°81-43 du 21 janvier 1981](decret-n81-43-du-21-janvier-1981)
 - [Décret n°81-44 du 21 janvier 1981](decret-n81-44-du-21-janvier-1981)
 - [Décret n°81-45 du 21 janvier 1981](decret-n81-45-du-21-janvier-1981)
+- [Décret n°81-626 du 21 mai 1981](decret-n81-626-du-21-mai-1981)
 - [Décret n°80-1085 du 23 décembre 1980](decret-n80-1085-du-23-decembre-1980)
 - [Décret n°81-174 du 23 février 1981](decret-n81-174-du-23-fevrier-1981)
 - [Décret n°81-178 du 23 février 1981](decret-n81-178-du-23-fevrier-1981)
