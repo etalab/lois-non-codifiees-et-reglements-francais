@@ -1,3 +1,3 @@
 # Article 1
 
-Les grades et emplois des personnels d'exécution des établissements mentionnés à l'article L. 792 du code de la santé publique sont répartis dans les groupes de rémunération visés par l'article 1er du décret du 21 décembre 1982 susvisé conformément au tableau figurant à l'annexe I jointe au présent arrêté.
+En vue de leur participation à l'alimentation du fonds commun des accidents du travail visé à l'article L. 491 du code de la sécurité sociale, les établissements ou les collectivités assumant pour l'ensemble de leur personnel la gestion totale du risque Accidents du travail sont tenus de verser, à compter du 1er janvier 1983, une cotisation dont le taux correspond à 8 p. 100 du taux établi conformément aux dispositions de l'arrêté du 1er octobre 1976 et qui serait applicable à leur personnel s'il relevait de l'organisation générale de la sécurité sociale pour les accidents du travail et les maladies professionnelles.

@@ -9,6 +9,7 @@
 - [Ordonnance n°82-880 du 15 octobre 1982](ordonnance-n82-880-du-15-octobre-1982)
 - [Ordonnance n° 82-40 du 16 janvier 1982](ordonnance-n-82-40-du-16-janvier-1982)
 - [Ordonnance n° 82-41 du 16 janvier 1982](ordonnance-n-82-41-du-16-janvier-1982)
+- [Ordonnance n°82-1114 du 23 décembre 1982](ordonnance-n82-1114-du-23-decembre-1982)
 - [Ordonnance n° 82-271 du 26 mars 1982](ordonnance-n-82-271-du-26-mars-1982)
 - [Ordonnance n° 82-272 du 26 mars 1982](ordonnance-n-82-272-du-26-mars-1982)
 - [Ordonnance n° 82-273 du 26 mars 1982](ordonnance-n-82-273-du-26-mars-1982)

@@ -1,3 +1,5 @@
 # Article 2
 
-L'échelonnement indiciaires de chacun des groupes de rémunération visés à l'article 1er ci-dessus ainsi que la durée moyenne de services que doit accomplir dans chaque échelon un agent pour avoir accès à l'échelon supérieur sont fixés conformément au tableau figurant à l'annexe II jointe au présent arrêté.
+Le taux fictif visé à l'article précédent est notifié par la caisse régionale de sécurité sociale dont relève le siège social ou l'établissement principal de l'entreprise ou de la collectivité, dans les conditions prévues à l'article 11 de l'arrêté du 1er octobre 1976 susvisé.
+
+L'établissement ou la collectivité est tenu, le cas échéant, de produire à la caisse régionale compétente toutes justifications des éléments entrant dans le calcul du taux fictif susvisé [*charge de la preuve*].
