@@ -1,0 +1,5 @@
+# Article 13
+
+Les administrateurs civils issus du concours interne nommés dans le corps avant la publication du présent décret et classés, à ce jour, au plus au 6e échelon de la 2e classe peuvent demander, dans un délai de six mois, à bénéficier des conditions de classement dans le corps des administrateurs civils prévues à l'article 10 du décret du 30 juin 1972 susvisé. Il en est de même de ceux issus du troisième concours classés au plus au 5e échelon de la 2e classe.
+
+De la même façon, les administrateurs civils issus du concours interne et classés au 1er échelon de la 1re classe peuvent demander, dans le même délai, leur classement au 2e échelon de la 1re classe si leur situation à la date de publication du présent décret est moins favorable que celle qui aurait résulté de l'application des dispositions de l'article 10 du décret du 30 juin 1972 susvisé. Leur ancienneté d'échelon est calculée selon les dispositions prévues aux deuxième et troisième alinéas de l'article 10 du décret du 30 juin 1972 susvisé.
