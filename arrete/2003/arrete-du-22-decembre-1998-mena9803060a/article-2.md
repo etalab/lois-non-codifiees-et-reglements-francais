@@ -14,7 +14,7 @@ c) Le premier vice-président de la conférence des présidents d'université ou
 
 d) Le président de l'Association des secrétaires généraux d'établissements publics d'enseignement supérieur ou son représentant ;
 
-e) Le directeur de l'agence de modernisation des universités et établissements ou son représentant.
+e) Le directeur de l'agence de mutualisation des universités et établissements ou son représentant.
 
 2° Vingt et un membres désignés par arrêté du ministre chargé de l'enseignement supérieur et de la recherche à raison de :
 

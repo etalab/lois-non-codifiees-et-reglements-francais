@@ -17,3 +17,5 @@ Chirurgie urologique ;
 Chirurgie vasculaire ;
 
 Chirurgie viscérale et digestive.
+
+Pour les internes nommés à compter du 1er novembre 2004, est institué le diplôme d'études spécialisées complémentaires dit du groupe II.
