@@ -33,7 +33,6 @@
 - [Décret n°86-6 du 3 janvier 1986](decret-n86-6-du-3-janvier-1986)
 - [Décret n°86-691 du 3 avril 1986](decret-n86-691-du-3-avril-1986)
 - [Décret n°86-692 du 3 avril 1986](decret-n86-692-du-3-avril-1986)
-- [Décret n°86-7 du 3 janvier 1986](decret-n86-7-du-3-janvier-1986)
 - [Décret n°86-8 du 3 janvier 1986](decret-n86-8-du-3-janvier-1986)
 - [Décret n°86-1253 du 4 décembre 1986](decret-n86-1253-du-4-decembre-1986)
 - [Décret n°86-1255 du 4 décembre 1986](decret-n86-1255-du-4-decembre-1986)
