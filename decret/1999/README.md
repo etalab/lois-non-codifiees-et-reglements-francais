@@ -33,7 +33,6 @@
 - [Décret n°70-903 du 2 octobre 1970](decret-n70-903-du-2-octobre-1970)
 - [Décret n°85-1057 du 2 octobre 1985](decret-n85-1057-du-2-octobre-1985)
 - [Décret n°98-980 du 2 novembre 1998 (EQUP9800078D)](decret-n98-980-du-2-novembre-1998-equp9800078d)
-- [Décret n°99-1016 du 2 décembre 1999 (MJSK9970079D)](decret-n99-1016-du-2-decembre-1999-mjsk9970079d)
 - [Décret n°99-161 du 2 mars 1999 (MAEA9820438D)](decret-n99-161-du-2-mars-1999-maea9820438d)
 - [Décret n°99-169 du 2 mars 1999 (FPPA9910001D)](decret-n99-169-du-2-mars-1999-fppa9910001d)
 - [Décret n°99-255 du 2 avril 1999 (PRMX9903471D)](decret-n99-255-du-2-avril-1999-prmx9903471d)

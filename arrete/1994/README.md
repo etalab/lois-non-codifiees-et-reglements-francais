@@ -856,7 +856,6 @@
 - [Arrêté du 23 décembre 1994 (AGRM9402498A)](arrete-du-23-decembre-1994-agrm9402498a)
 - [Arrêté du 23 décembre 1994 (COMK9404003A)](arrete-du-23-decembre-1994-comk9404003a)
 - [Arrêté du 23 décembre 1994 (ECOT9420026A)](arrete-du-23-decembre-1994-ecot9420026a)
-- [Arrêté du 23 décembre 1994 (MAEA9420709A)](arrete-du-23-decembre-1994-maea9420709a)
 - [Arrêté du 23 février 1994 (AGRG9400383A)](arrete-du-23-fevrier-1994-agrg9400383a)
 - [Arrêté du 23 février 1994 (INDP9400305A)](arrete-du-23-fevrier-1994-indp9400305a)
 - [Arrêté du 23 février 1994 (JUSD9430008A)](arrete-du-23-fevrier-1994-jusd9430008a)
