@@ -1,3 +1,0 @@
-# Article 9
-
-Pour l'application au recouvrement des cotisations, assises sur les allocations de garantie de ressources, dues au régime de sécurité sociale dans les mines, des dispositions des articles L. 138 à L. 141 [*relatives au privilège garantissant le paiement des cotisations, au délai de prescription*] ainsi que de celles des chapitres II et III du titre V du livre Ier du code de la sécurité sociale [*relatives au contentieux et aux pénalités*], les organismes de sécurité sociale dans les mines et les ingénieurs des mines directeurs interdépartementaux de l'industrie exercent les attributions conférées respectivement aux organismes de sécurité sociale du régime général et aux directeurs régionaux des affaires sanitaires et sociales ou de la sécurité sociale.
