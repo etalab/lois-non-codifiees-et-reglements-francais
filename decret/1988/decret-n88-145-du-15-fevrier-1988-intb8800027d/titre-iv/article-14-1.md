@@ -1,6 +1,6 @@
 # Article 14-1
 
-L'agent non titulaire a droit sur sa demande à un congé sans rémunération pour se rendre dans un département d'outre-mer, un territoire d'outre-mer ou à l'étranger en vue de l'adoption d'un ou plusieurs enfants s'il est titulaire de l'agrément mentionné aux articles 63 ou 100-3 du code de la famille et de l'aide sociale. Le congé ne peut excéder six semaines par agrément.
+L'agent non titulaire a droit sur sa demande à un congé sans rémunération pour se rendre dans un département d'outre-mer, en Polynésie française, dans les îles Wallis et Futuna et dans les Terres australes et antarctiques françaises ou à l'étranger en vue de l'adoption d'un ou plusieurs enfants s'il est titulaire de l'agrément mentionné aux articles 63 ou 100-3 du code de la famille et de l'aide sociale. Le congé ne peut excéder six semaines par agrément.
 
 La demande de congé indiquant la date de début et la durée envisagée du congé doit être formulée par lettre recommandée au moins deux semaines avant le départ.
 
