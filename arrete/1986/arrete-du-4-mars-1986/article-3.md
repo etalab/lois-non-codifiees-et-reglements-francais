@@ -1,13 +1,7 @@
 # Article 3
 
-Les émissions des pièces visées par le présent arrêté seront limitée à :
+La taxe recouvrée conformément à l'article 1er (a) du présent arrêté peut, lorsqu'elle concerne les spectacles lyriques et chorégraphiques, faire l'objet, sous réserve de l'accord du conseil d'administration de l'Association pour le soutien du théâtre privé, d'un abattement [*minoration de taux*] de 50 p. 100.
 
-Pièces en argent de qualité courante : 4.432.000 exemplaires ;
+L'accord du conseil d'administration devra être demandé pour chacun des spectacles bénéficiant de cette mesure.
 
-Pièces en argent de qualité "Brillant universel" : 20.000 exemplaires ;
-
-Pièces en argent de qualité "Epreuves" : 18.000 exemplaires ;
-
-Pièces en or de qualité "Brillant universel" : 13.000 exemplaires ;
-
-Pièces en or de qualité "Epreuve" : 17.000 exemplaires.
+En outre, le même abattement de 50 p. 100 pourra, à titre exceptionnel, être accordé à des spectacles d'art dramatique, sous réserve de l'accord des deux tiers du conseil d'administration de l'Association pour le soutien du théâtre privé.

@@ -2,8 +2,6 @@
 
 Les fonctionnaires, services, commissions, juridictions ou organismes autorisés à expédier en dispense d'affranchissement la correspondance ordinaire concernant l'exécution de la législation des régimes suivants :
 
-Sécurité sociale (régime général) ;
-
 Sécurité sociale dans les mines ;
 
 Sécurité sociale militaire ;
