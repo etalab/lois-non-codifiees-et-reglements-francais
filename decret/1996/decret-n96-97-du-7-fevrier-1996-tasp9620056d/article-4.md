@@ -6,4 +6,4 @@ En fonction du résultat du diagnostic obtenu à partir de la grille d'évaluati
 
 - soit, selon les modalités prévues à l'article 5, à une surveillance du niveau d'empoussièrement dans l'atmosphère par un organisme agréé en microscopie électronique à transmission ;
 
-- soit à des travaux appropriés engagés dans un délai de douze mois.
+- soit à des travaux de confinement ou de retrait de l'amiante, selon les modalités prévues au dernier alinéa de l'article 5.
