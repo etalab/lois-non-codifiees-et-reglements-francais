@@ -19,6 +19,7 @@
 - [Arrêté du 4 décembre 1989 (SPSS8902731A)](arrete-du-4-decembre-1989-spss8902731a)
 - [Arrêté du 4 janvier 1990 (SPSH9000026A)](arrete-du-4-janvier-1990-spsh9000026a)
 - [Arrêté du 5 février 1990 (AGRS9000297A)](arrete-du-5-fevrier-1990-agrs9000297a)
+- [Arrêté du 5 février 1990 (DEFP9001123A)](arrete-du-5-fevrier-1990-defp9001123a)
 - [Arrêté du 5 février 1990 (ECOT9020133A)](arrete-du-5-fevrier-1990-ecot9020133a)
 - [Arrêté du 5 janvier 1990 (BUDF8900013A)](arrete-du-5-janvier-1990-budf8900013a)
 - [Arrêté du 5 janvier 1990 (BUDL9000010A)](arrete-du-5-janvier-1990-budl9000010a)
