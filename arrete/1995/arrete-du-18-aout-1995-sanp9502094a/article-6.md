@@ -1,6 +1,6 @@
 # Article 6
 
-Pour se présenter aux épreuves de sélection, les candidats déposent entre le 1er février et le 15 mars de l'année des épreuves de sélection auprès de l'institut de leur choix un dossier d'inscription comprenant les pièces suivantes :
+Pour se présenter aux épreuves de sélection, les candidats déposent entre le 2 janvier et le 15 février de l'année des épreuves de sélection, auprès de l'institut de leur choix, un dossier d'inscription comprenant les pièces suivantes :
 
 1° Une copie certifiée conforme de leurs diplômes ;
 

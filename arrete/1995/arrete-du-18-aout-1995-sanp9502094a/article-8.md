@@ -1,6 +1,6 @@
 # Article 8
 
-I. - Les épreuves de sélection, organisées entre le 1er avril et le 15 juin de l'année de la rentrée dans l'institut, sont les suivantes :
+I. - Les épreuves de sélection, organisées entre le 1er mars et le 15 juin de l'année de la rentrée dans l'institut, sont les suivantes :
 
 1° Une épreuve d'admissibilité, écrite et anonyme ; cette épreuve, d'une durée de quatre heures, notée sur 20, consiste en un commentaire d'un ou plusieurs documents relatifs à un sujet d'ordre sanitaire ou social. Elle a pour but de tester les capacités d'analyse et de synthèse du candidat, son aptitude à développer et argumenter ses idées par écrit. Les convocations à cette épreuve sont adressées aux candidats quinze jours au moins avant la date de l'épreuve, à compter de la date limite de dépôt des dossiers de candidature. L'ensemble des membres du jury est réparti par son président en trois groupes de deux personnes, de façon à assurer une double correction ; à l'issue de celle-ci, le président du jury dresse la liste des candidats admissibles. Ne peuvent être déclarés admissibles que les candidats ayant obtenu une note égale ou supérieure à 10 sur 20.
 

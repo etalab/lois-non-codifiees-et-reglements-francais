@@ -515,6 +515,8 @@
 - [Décret n°99-642 du 26 juillet 1999 (DEFP9901466D)](decret-n99-642-du-26-juillet-1999-defp9901466d)
 - [Décret n°99-645 du 26 juillet 1999 (MESS9921800D)](decret-n99-645-du-26-juillet-1999-mess9921800d)
 - [Décret n°99-667 du 26 juillet 1999 (INTM9900021D)](decret-n99-667-du-26-juillet-1999-intm9900021d)
+- [Décret n°99-728 du 26 août 1999 (JUSD9930122D)](decret-n99-728-du-26-aout-1999-jusd9930122d)
+- [Décret n°99-731 du 26 août 1999 (AGRS9901606D)](decret-n99-731-du-26-aout-1999-agrs9901606d)
 - [Décret n°99-412 du 26 mai 1999 (JUSF9950038D)](decret-n99-412-du-26-mai-1999-jusf9950038d)
 - [Décret n°99-416 du 26 mai 1999 (ECOZ9900007D)](decret-n99-416-du-26-mai-1999-ecoz9900007d)
 - [Décret n°99-417 du 26 mai 1999 (ECOZ9900008D)](decret-n99-417-du-26-mai-1999-ecoz9900008d)

@@ -1,8 +1,6 @@
 # Article 7
 
-Le jury des épreuves de sélection, nommé par le préfet de région, comprend, outre le directeur régional des affaires sanitaires et sociales ou le médecin inspecteur régional de la santé, président :
-
-1° Le directeur de l'institut ou son représentant ;
+Le jury des épreuves de sélection, nommé par le préfet de région, comprend, outre le directeur régional des affaires sanitaires et sociales ou son représentant, président :<R L>    1° Le directeur de l'institut ou son représentant ;
 
 2° Un professionnel, issu de l'une des professions pour lesquelles l'institut de formation des cadres de santé est agréé, titulaire de l'un des titres visés au 3° de l'article 2 du présent arrêté, enseignant depuis au moins trois ans dans un institut de formation des cadres de santé ou dans tout autre établissement agréé pour la formation préparant à l'un des diplômes, certificats ou autres titres permettant d'exercer l'une des professions visées au 1° de l'article 4 du présent arrêté ;
 
