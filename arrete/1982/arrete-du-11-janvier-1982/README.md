@@ -1,4 +1,4 @@
-# Arrêté du 11 janvier 1982LIMITES DES TRANCHES DU TARIF DE LA RETENUE A LA SOURCE APPLICABLE AUX SALAIRES, PENSIONS ET RENTES VIAGERES VERSES EN 1982 A DES PERSONNES DOMICILIEES HORS DE FRANCE *à l'étranger*.
+# Arrêté du 11 janvier 1982 relatif aux modifications du taux des vacations accordées aux commissaires enquêteurs assurant les fonctions prévues au décret 77-133 du 21 septembre 1977
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
