@@ -40,6 +40,7 @@
 - [Arrêté du 23 juillet 1973](arrete-du-23-juillet-1973)
 - [Arrêté du 23 mars 1973](arrete-du-23-mars-1973)
 - [Arrêté du 24 mai 1973](arrete-du-24-mai-1973)
+- [Arrêté du 25 juillet 1973](arrete-du-25-juillet-1973)
 - [Arrêté du 25 mai 1973](arrete-du-25-mai-1973)
 - [Arrêté du 26 avril 1973](arrete-du-26-avril-1973)
 - [Arrêté du 26 mars 1973](arrete-du-26-mars-1973)
