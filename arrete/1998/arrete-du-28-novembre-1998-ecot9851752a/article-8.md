@@ -1,0 +1,3 @@
+# Article 8
+
+Les obligations convertibles mentionnées à l'article 1er ci-dessus seront émises au prix de 5 248 F et porteront un taux nominal de 2 %. Ces obligations seront amorties en totalité le 1er janvier 2004, par remboursement au pair ; elles pourront être amorties de façon anticipée par France Télécom dans les conditions fixées à l'émission. Les obligataires auront la faculté à tout moment à partir du premier anniversaire de la date de jouissance et de règlement, soit le 7 décembre 1999, d'obtenir la conversion des obligations en actions nouvelles de France Télécom dans les conditions fixées à l'émission.
