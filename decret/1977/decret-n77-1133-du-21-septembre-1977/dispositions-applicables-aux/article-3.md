@@ -10,7 +10,7 @@ A chaque exemplaire de la demande d'autorisation doivent être jointes les pièc
 
 4° L'étude d'impact prévue à l'article 2 de la loi du 10 juillet 1976.
 
-Cette étude indiquera les éléments propres à caractériser la situation existante au regard des intérêts visés à l'article 1er de la loi du 19 juillet 1976 et fera ressortir les effets prévisibles de l'installation sur son environnement, au regard de ces intérêts.
+Cette étude indiquera les éléments propres à caractériser la situation existante au regard des intérêts visés aux articles 1ers des lois du 16 décembre 1964 et du 19 juillet 1976 et fera ressortir les effets prévisibles de l'installation sur son environnement, au regard de ces intérêts.
 
 L'étude détaillera en outre l'origine, la nature et l'importance des inconvénients susceptibles de résulter de l'exploitation de l'installation considérée. A cette fin, elle indiquera notamment, en tant que de besoin, le niveau acoustique des appareils qui seront employés, le mode et les conditions d'approvisionnement en eau et d'utilisation de l'eau, les dispositions prévues pour la protection des eaux souterraines, l'épuration et l'évacuation des eaux résiduaires et des émanations gazeuses, l'élimination des déchets et résidus de l'exploitation, les conditions d'apport à l'installation des matières destinées à y être traitées et du transport des produits fabriqués.
 
