@@ -121,6 +121,7 @@
 - [Arrêté du 23 décembre 1996 (MIPP9600520A)](arrete-du-23-decembre-1996-mipp9600520a)
 - [Arrêté du 23 janvier 1997 (ECOR9705004A)](arrete-du-23-janvier-1997-ecor9705004a)
 - [Arrêté du 23 janvier 1997 (ECOS9750002A)](arrete-du-23-janvier-1997-ecos9750002a)
+- [Arrêté du 24 décembre 1996 (DEFD9602163A)](arrete-du-24-decembre-1996-defd9602163a)
 - [Arrêté du 24 décembre 1996 (DEFL9701008A)](arrete-du-24-decembre-1996-defl9701008a)
 - [Arrêté du 24 décembre 1996 (EQUP9601732A)](arrete-du-24-decembre-1996-equp9601732a)
 - [Arrêté du 24 décembre 1996 (EQUS9601590A)](arrete-du-24-decembre-1996-equs9601590a)
