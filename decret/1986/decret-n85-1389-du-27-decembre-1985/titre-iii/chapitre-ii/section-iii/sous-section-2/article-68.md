@@ -1,0 +1,3 @@
+# Article 68
+
+Lorsque les fonds déposés par un administrateur judiciaire en matière commerciale ou un mandataire liquidateur à la Caisse des dépôts et consignations en application de la loi n° 85-98 du 25 janvier 1985 le sont sur un compte global rémunéré, l'administrateur judiciaire ou le mandataire liquidateur [*obligations - attributions*] fait apparaître au moins une fois par an [*périodicité*] et à la fin de sa mission les sommes provenant des intérêts produits au profit de chaque entreprise. Ces sommes sont calculées au prorata des soldes moyens de chaque entreprise tels qu'ils apparaissent dans la comptabilité du professionnel.

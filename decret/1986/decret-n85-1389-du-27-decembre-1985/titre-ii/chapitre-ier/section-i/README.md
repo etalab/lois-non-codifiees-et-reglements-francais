@@ -1,4 +1,4 @@
-# Section I :Procédure disciplinaire.
+# Section I : Conditions d'inscription sur les listes de mandataires liquidateurs.
 
 - [Article 36](article-36.md)
 - [Article 37](article-37.md)
