@@ -456,7 +456,6 @@
 - [Décret n°86-1156 du 27 octobre 1986](decret-n86-1156-du-27-octobre-1986)
 - [Décret n°86-1157 du 27 octobre 1986](decret-n86-1157-du-27-octobre-1986)
 - [Décret n°86-1212 du 27 novembre 1986](decret-n86-1212-du-27-novembre-1986)
-- [Décret n°86-142 du 27 janvier 1986](decret-n86-142-du-27-janvier-1986)
 - [Décret n°86-143 du 27 janvier 1986](decret-n86-143-du-27-janvier-1986)
 - [Décret n°86-271 du 27 février 1986](decret-n86-271-du-27-fevrier-1986)
 - [Décret n°86-294 du 27 février 1986](decret-n86-294-du-27-fevrier-1986)
