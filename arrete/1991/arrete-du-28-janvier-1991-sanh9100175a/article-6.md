@@ -14,17 +14,19 @@ Le jury est nommé par arrêté du ministre chargé de la santé [*autorité com
 
 - un professeur des universités - praticien hospitalier ;
 
-- cinq professeurs, maîtres de conférences ou maîtres-assistants choisis parmi les enseignants des disciplines suivantes :
+- quatre professeurs des universités, maîtres de conférences ou maîtres-assistants choisis parmi les enseignants des disciplines suivantes :
 
-- droit ;
+Droit ;
 
-- sciences économiques ;
+Sciences économiques ;
 
-- lettres et sciences humaines ;
+Lettres et sciences humaines.
 
-- mathématiques ;
+- un professeur des universités, maître de conférences, maître-assistant ou professeur agrégé choisi parmi les enseignants des disciplines suivantes :
 
-- sciences physiques ;
+Mathématiques.
+
+Sciences physiques.
 
 - quatre membres du personnel de direction des établissements, mentionnés à l'article 2 (1°, 2° et 3°) de la loi du 9 janvier 1986 susvisée, appartenant au moins à la 2e classe, désignés par le ministre chargé de la santé.
 

@@ -2,7 +2,7 @@
 
 Le représentant de l'Etat dans le département ou son représentant, président.
 
-Le représentant de l'organisme gestionnaire, siégeant au conseil technique.
+Le directeur de l'organisme gestionnaire ou son représentant, siégeant au conseil technique.
 
 Le médecin participant à la formation des étudiants, élu au conseil technique.
 

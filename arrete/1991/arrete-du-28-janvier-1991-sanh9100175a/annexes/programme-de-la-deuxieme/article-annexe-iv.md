@@ -2,9 +2,7 @@
 
 Mathématiques et sciences physiques
 
-Programmes de mathématiques et de sciences physiques de classe de biologie.
-
-Mathématiques spéciales définies à l'annexe I de l'arrêté du 7 septembre 1988.
+Programmes de mathématiques et de sciences physiques de classe de biologie mathématiques spéciales définis aux annexes I et II de l'arrêté du 7 septembre 1988.
 
 Bulletin officiel du ministère de l'éducation nationale, de la jeunesse et des sports n° 34 du 13 octobre 1988.
 
