@@ -415,6 +415,7 @@
 - [Arrêté du 28 juin 2000 (MENS0001616A)](arrete-du-28-juin-2000-mens0001616a)
 - [Arrêté du 28 juin 2000 (MESO0010486A)](arrete-du-28-juin-2000-meso0010486a)
 - [Arrêté du 28 mars 2000 (AGRM0000684A)](arrete-du-28-mars-2000-agrm0000684a)
+- [Arrêté du 28 septembre 2000 (MESG0022315A)](arrete-du-28-septembre-2000-mesg0022315a)
 - [Arrêté du 29 août 2001 (MENF0101288A)](arrete-du-29-aout-2001-menf0101288a)
 - [Arrêté du 29 avril 1970](arrete-du-29-avril-1970)
 - [Arrêté du 29 décembre 1999 (ECOI9900657A)](arrete-du-29-decembre-1999-ecoi9900657a)
