@@ -756,7 +756,6 @@
 - [Arrêté du 27 décembre 1989 (SPSP8902796A)](arrete-du-27-decembre-1989-spsp8902796a)
 - [Arrêté du 27 décembre 1989 (SPSS8902778A)](arrete-du-27-decembre-1989-spss8902778a)
 - [Arrêté du 27 décembre 1989 (SPSS8902780A)](arrete-du-27-decembre-1989-spss8902780a)
-- [Arrêté du 27 février 1990 (ECOT9020141A)](arrete-du-27-fevrier-1990-ecot9020141a)
 - [Arrêté du 27 février 1990 (SPSG9000281A)](arrete-du-27-fevrier-1990-spsg9000281a)
 - [Arrêté du 27 février 1990 (SPSG9000282A)](arrete-du-27-fevrier-1990-spsg9000282a)
 - [Arrêté du 27 février 1990 (SPSH9000452A)](arrete-du-27-fevrier-1990-spsh9000452a)

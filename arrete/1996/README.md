@@ -364,7 +364,6 @@
 - [Arrêté du 10 mai 1996 (TASP9621681A)](arrete-du-10-mai-1996-tasp9621681a)
 - [Arrêté du 10 mai 1996 (TASS9620273A)](arrete-du-10-mai-1996-tass9620273a)
 - [Arrêté du 11 avril 1996 (ECOT9610270A)](arrete-du-11-avril-1996-ecot9610270a)
-- [Arrêté du 11 avril 1996 (ECOT9620011A)](arrete-du-11-avril-1996-ecot9620011a)
 - [Arrêté du 11 avril 1996 (FPPA9600047A)](arrete-du-11-avril-1996-fppa9600047a)
 - [Arrêté du 11 avril 1996 (INDZ9600303A)](arrete-du-11-avril-1996-indz9600303a)
 - [Arrêté du 11 avril 1996 (TASE9610563A)](arrete-du-11-avril-1996-tase9610563a)
