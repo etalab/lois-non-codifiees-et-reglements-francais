@@ -1,10 +1,10 @@
 # Article ANNEXE
 
-4.1.0. Assèchement, imperméabilisation, remblais de zone humides ou de marais, la zone asséchée étant :
+4.1.0. Assèchement, mise en eau, imperméabilisation, remblais de zones humides ou de marais, la zone asséchée ou mise en eau étant :
 
-1° Supérieure ou égale à 10 000 m2A
+1° Supérieure ou égale à 1 ha   A
 
-2° Supérieure à 2 000 m2, mais inférieure à 10 000 m2D
+2° Supérieure à 0,1 ha, mais inférieure à 1 ha   D
 
 4.2.0. Réalisation de réseaux de drainage permettant le drainage d'une superficie :
 
@@ -12,7 +12,7 @@
 
 2° Supérieure à 20 ha, mais inférieure à 100 haD
 
-4.3.0. Ouvrages, installations, travaux permettant un prélèvement total d'eau dans une zone où des mesures permanentes de répartition quantitative instituée, notamment au titre de l'article 8-2° de la loi du 3 janvier 1992 sur l'eau, ont prévu l'abaissement des seuils :
+4.3.0. A l'exception des prélèvements faisant l'objet d'une convention avec l'attributaire du débit affecté prévu par l'article 15 de la loi sur l'eau, ouvrages, installations, travaux permettant un prélèvement total d'eau dans une zone où des mesures permanentes de répartition quantitative instituée, notamment au titre de l'article 8-2° de la loi du 3 janvier 1992 sur l'eau, ont prévu l'abaissement des seuils :
 
 1° Capacité supérieure ou égale à 8 m3/hA
 

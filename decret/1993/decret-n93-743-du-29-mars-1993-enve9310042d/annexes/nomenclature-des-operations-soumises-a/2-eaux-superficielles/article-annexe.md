@@ -1,14 +1,14 @@
 # Article ANNEXE
 
-Au sens du présent titre, le débit de référence du cours d'eau s'entend comme le débit moyen mensuel sec de récurrence 5 ans ci-après dénommé " le débit ".
+Au sens du présent titre, le débit de référence du cours d'eau s'entend comme le débit moyen mensuel sec de récurrence 5 ans ci-après dénommé le débit.
 
-2.1.0. Prélèvement et installations et ouvrages permettant le prélèvement, y compris par dérivation, dans un cours d'eau, dans sa nappe d'accompagnement ou dans un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe :
+2.1.0. A l'exception des prélèvements faisant l'objet d'une convention avec l'attributaire du débit affecté prévu par l'article 15 de la loi sur l'eau, prélèvement et installations et ouvrages permettant le prélèvement, y compris par dérivation, dans un cours d'eau, dans sa nappe d'accompagnement ou dans un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe :
 
 1° D'un débit total égal ou supérieur à 5 p. 100 du débit ou à défaut du débit global d'alimentation du canal ou du plan d'eauA
 
 2° D'un débit total compris entre 2 et 5 p. 100 du débit ou à défaut du débit global d'alimentation du canal ou du plan d'eauD
 
-2.1.1. Sans préjudice des mesures prises pour l'application de l'article 15 de la loi sur l'eau, prélèvements et installations et ouvrages permettant le prélèvement, dans un cours d'eau, sa nappe d'accompagnement ou un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe, lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle. Toutefois, en ce qui concerne la Seine et la Loire, il n'y a lieu à autorisation que lorsque la capacité du prélèvement est supérieure à 80 m3/hA
+2.1.1. A l'exception des prélèvements faisant l'objet d'une convention avec l'attributaire du débit affecté prévu par l'article 15 de la loi sur l'eau, prélèvements et installations et ouvrages permettant le prélèvement, dans un cours d'eau, sa nappe d'accompagnement ou un plan d'eau ou canal alimenté par ce cours d'eau ou cette nappe, lorsque le débit du cours d'eau en période d'étiage résulte, pour plus de moitié, d'une réalimentation artificielle. Toutefois, en ce qui concerne la Seine et la Loire, il n'y a lieu à autorisation que lorsque la capacité du prélèvement est supérieure à 80 m3/hA
 
 2.2.0. Rejet dans les eaux superficielles susceptible de modifier le régime des eaux, la capacité totale de rejet étant :
 
@@ -126,7 +126,7 @@ b) Apport au milieu aquatique de 5 à 20 t/jour de sels dissousD
 
 2.5.3. Ouvrage, remblais et épis, dans le lit mineur d'un cours d'eau, constituant un obstacle à l'écoulement des crues.A
 
-2.6.0. En dehors des voies navigables, curage ou dragage des cours d'eau ou étangs, hors " vieux fonds, vieux bords ", le volume des boues ou matériaux retiré au cours d'une année étant :
+2.6.0. En dehors des voies navigables, curage ou dragage des cours d'eau ou étangs, hors vieux fonds, vieux bords, le volume des boues ou matériaux retiré au cours d'une année étant :
 
 1° Supérieur à 5 000 m3A
 
@@ -138,10 +138,32 @@ b) Apport au milieu aquatique de 5 à 20 t/jour de sels dissousD
 
 2° Supérieur à 5 p. 100, mais inférieur à 10 p. 100D
 
-2.6.2. Vidanges de plans d'eau soumises à autorisation par l'article L. 232-9 du code rural, hors opération de chômage des voies navigables, hors piscicultures mentionnées à l'article L. 231-6 du code rural et hors plans d'eau mentionnés à l'article L. 231-7 du même code. Les vidanges périodiques des barrages de retenue, dont la hauteur est supérieure à 10 m ou dont le volume de la retenue est supérieur à 5 000 000 m3 font l'objet d'une autorisation valable deux ans, les vidanges périodiques des autres barrages de retenue font l'objet d'une autorisation unique valable pendant une durée qui ne peut être supérieure à trente ansA
+2.6.2. Vidanges d'étangs ou de plans d'eau, hors opérations de chômage des voies navigables, hors piscicultures mentionnées à l'article L. 231-6 du code rural, hors plans d'eau mentionnés à l'article L. 231-7 du même code :
 
-2.7.0. Création d'étangs ou de plans d'eau, la superficie étant :
+1° Dans les cas où l'eau se déverse directement ou indirectement dans un cours d'eau de 1re catégorie piscicole et lorsque la superficie de l'étang ou du plan d'eau est :
 
-1° Supérieure à 3 haA
+a) Supérieure ou égale à 1 ha   A
 
-2° Supérieure à 2 000 m2, mais inférieure ou égale à 3 haD
+b) Supérieure à 0,1 ha mais inférieure à 1 ha   D
+
+2° Dans les cas autres que ceux prévus au 1° lorsque la superficie de l'étang ou du plan d'eau est :
+
+a) Supérieure ou égale à 3 ha   A
+
+b) Supérieure à 0,1 ha mais inférieure à 3 ha   D
+
+Les vidanges périodiques des barrages de retenue, dont la hauteur est supérieure à 10 m ou dont le volume de la retenue est supérieur à 5 000 000 m3 font l'objet d'une autorisation valable deux ans, les vidanges périodiques des autres barrages de retenue font l'objet d'une autorisation unique valable pendant une durée qui ne peut être supérieure à trente ans.
+
+2.7.0. Création d'étangs ou de plans d'eau :
+
+1° Dont les eaux s'écoulent directement, indirectement, ou lors de vidanges dans un cours d'eau de 1re catégorie piscicole et lorsque la superficie de l'étang ou du plan d'eau est :
+
+a) Supérieure ou égale à 1 ha   A
+
+b) Supérieure à 0,1 ha mais inférieure à 1 ha   D
+
+2° Dans les cas autres que ceux prévus au 1° et lorsque la superficie de l'étang ou du plan d'eau est :
+
+a) Supérieure ou égale à 3 ha   A
+
+b) Supérieure à 0,1 ha mais inférieure à 3 ha   D
