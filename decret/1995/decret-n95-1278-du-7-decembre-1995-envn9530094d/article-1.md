@@ -1,6 +1,6 @@
 # Article 1
 
-Sont classés en parc naturel régional, pour une durée de dix ans à compter de la date de publication du présent décret au Journal officiel, sous la dénomination de parc naturel régional du massif des Bauges, les territoires ou parties de territoires des communes de :
+Sont classés en parc naturel régional, pour une durée de dix ans à compter de la date de publication du présent décret au Journal officiel, sous la dénomination de parc naturel régional du massif des Bauges, les territoires des communes de :
 
 Canton d'Albens : Epersy, Saint-Ours ;
 
@@ -14,7 +14,9 @@ Canton de Montmélian : Arbin, Chignin, Montmélian ;
 
 Canton d'Aix-Nord - Grésy-sur-Aix : Le Montcel, Saint-Offenge-Dessous, Saint-Offenge-Dessus ;
 
-Canton de Saint-Alnan-Leysse : Curienne, Les Déserts, Puygros, Saint-Jean-d'Arvey, Thoiry,
+Canton de Saint-Alban-Leysse : Curienne, Les Déserts, Puygros, Saint-Jean-d'Arvey, Thoiry,
+
+Canton de Saint-Pierre d'Albigny : Cruet, Freterive, Saint-Pierre d'Albigny, La Thuile,
 
 dans le département de la Savoie ;
 
