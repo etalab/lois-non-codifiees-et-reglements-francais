@@ -12,4 +12,14 @@ III. - Dans le cas où l'employeur des travailleurs mentionnés au I n'est pas l
 
 IV. - Les résultats des évaluations prescrites au présent article doivent faire l'objet de relevés précis, reportés sur la fiche d'exposition du dossier médical [*document*] spécial des intéressés.
 
-Les résultats de ces évaluations sont destinés au médecin du travail qui en informe le travailleur concerné. Ils sont communiqués à l'employeur, au chef d'établissement s'il n'est pas l'employeur, aux agents du service de prévention de l'organisme compétent de sécurité sociale ainsi qu'à l'inspecteur du travail selon les modalités précisées par arrêté des ministres chargés du travail et de l'agriculture. Ces arrêtés déterminent celles de ces informations qui doivent avoir un caractère non nominatif et être communiquées au comité d'hygiène, de sécurité et des conditions de travail, ou à défaut aux délégués du personnel.
+Sous leur forme nominative, les résultats de ces évaluations sont centralisés par l'Office de protection contre les rayonnements ionisants en application du II de l'article 49 du présent décret. Ils sont destinés au travailleur concerné ou, en cas de décès ou d'incapacité, à ses ayants droit, au médecin du travail dont il relève et, le cas échéant, au médecin du travail de l'établissement dans lequel il intervient.
+
+Ils sont également communiqués au médecin désigné à cet effet par le travailleur concerné, au médecin inspecteur régional du travail et de la main-d'oeuvre et, s'il y a lieu, au médecin-conseil de l'organisme compétent de sécurité sociale.
+
+En cas de dépassement de la valeur limite d'exposition réglementaire par un travailleur, l'employeur en est immédiatement informé par l'Office de protection contre les rayonnements ionisants ou l'organisme qui s'y substitue au sens des II et III du présent article.
+
+L'office assure le traitement de ces résultats. Ceux-ci peuvent être exploités à des fins statistiques ou épidémiologiques dans le respect des dispositions de la loi du 6 janvier 1978 modifiée. Ils peuvent être communiqués à des organismes d'études et de recherche avec lesquels l'office aura préalablement établi une convention et qui les exploitent conformément aux dispositions du chapitre V bis de la loi du 6 janvier 1978 précitée.
+
+Sous une forme non nominative, les résultats mentionnés ci-dessus peuvent être communiqués à l'inspecteur du travail, au comité d'hygiène, de sécurité et des conditions de travail ou, à défaut, aux délégués du personnel.
+
+Les modalités techniques de la transmission des données prévues au présent article sont fixées par arrêté des ministres chargés du travail et de l'agriculture.
