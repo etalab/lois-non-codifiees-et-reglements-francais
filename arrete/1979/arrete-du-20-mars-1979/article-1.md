@@ -1,7 +1,9 @@
 # Article 1
 
-Les taux fixés par l'arrêté du 23 novembre 1977 pour l'indemnité mensuelle versée aux travailleurs suivant un stage de promotion professionnelle sont portés à compter du 1er janvier 1979 à :
+1° Le présent arrêté concerne les importations en provenance de pays autres que les Etats membres de la Communauté économique européenne, de viandes fraîches provenant d'animaux domestiques appartenant aux espèces suivantes : poules, dindes, pintades, canards et oies.
 
-Niveau de qualification auquel conduit la formation dispensée :
+2° Sont considérées comme viandes de volaille, toutes parties de ces animaux propres à la consommation humaine.
 
-I et II 2.700 F. III 2.350 IV 1.960
+3° Sont considérées comme fraîches, toutes les viandes de volaille n'ayant subi aucun traitement de nature à assurer leur conservation toutefois, les viandes de volailles traitées par le froid sont à considérer comme fraîches pour l'application du présent arrêté.
+
+Le présent arrêté ne fait pas obstacle aux mesures spéciales prises en application de l'article 247 du code rural.
