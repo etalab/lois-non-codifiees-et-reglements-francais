@@ -1,3 +1,3 @@
 # 1910
 
-- [Loi du 14 juillet 1909](loi-du-14-juillet-1909)
+- [Loi du 20 avril 1910](loi-du-20-avril-1910)
