@@ -1,0 +1,3 @@
+# Article 61
+
+Par dérogation aux dispositions de l'article 32 du décret du 30 décembre 1983 susvisé et pour les avancements prononcés au titre des années 1995, 1996, 1997 et 1998, peuvent accéder au grade de chargé de recherche de 1re classe les chargés de recherche de 2e classe qui justifient d'au moins deux ans d'ancienneté au moins dans ce grade.
