@@ -1,0 +1,7 @@
+# Article 2
+
+Les services du ministère de l'équipement, des transports et du logement peuvent céder à des tiers, ci-après dénommés opérateurs, tout ou partie des produits informationnels définis à l'article 1er, dans le cadre d'une licence d'usage. Un contrat conclu entre l'opérateur et les services du ministère de l'équipement, des transports et du logement fixe les conditions de cession et d'utilisation de ces produits. Toute utilisation différente de celle prévue par le contrat est subordonnée à l'autorisation préalable des services du ministère de l'équipement, des transports et du logement et à la conclusion d'un avenant au contrat.
+
+L'opérateur ne peut rediffuser, sous quelque forme et selon quelque modalité que ce soit, les produits informationnels définis à l'article 1er à un autre opérateur ci-après dénommé opérateur dérivé qu'après autorisation préalable des services du ministère de l'équipement, des transports et du logement et sous réserve de la conclusion d'un contrat de rediffusion entre l'opérateur, les services du ministère de l'équipement, des transports et du logement et l'opérateur dérivé. Ce dernier devra verser aux services du ministère de l'équipement, des transports et du logement la part variable de la rémunération prévue à l'article 6.
+
+Les services du ministère de l'équipement, des transports et du logement conservent en tout état de cause, nonobstant le paiement de la rémunération prévue par le présent arrêté, l'intégralité de leurs droits de propriété intellectuelle sur les produits informationnels définis à l'article 1er.

@@ -1,0 +1,7 @@
+# Article 2
+
+En contrepartie des frais qu'il engage pour obtenir le remboursement, en application des articles 29 à 32 de la loi du 5 juillet 1985 susvisée, des prestations énumérées au II de l'article 1er de l'ordonnance du 7 janvier 1959 susvisée qu'il a versées soit à l'un de ses agents victime d'un accident survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions et imputable en tout ou partie à un tiers, soit aux ayants droit de cet agent, l'Etat perçoit une indemnité forfaitaire à la charge du tiers responsable dont le montant est déterminé, sur la base de ces prestations, dans les conditions définies au sixième alinéa de l'article L. 454-1 du code de la sécurité sociale.
+
+En cas de versement du capital-décès et lorsque l'accident dont l'agent a été victime n'est pas survenu dans l'exercice ou à l'occasion de l'exercice de ses fonctions, les dispositions de l'alinéa précédent sont également applicables si la caisse primaire d'assurance maladie ou la Caisse nationale militaire de sécurité sociale à laquelle l'agent était affilié au titre des prestations en nature maladie n'a pas fait application ou n'est pas susceptible de faire application, au titre de ces prestations, des dispositions des cinquième et sixième alinéas de l'article L. 376-1 ou de l'article D. 713-21-1 du code de la sécurité sociale.
+
+Cette indemnité est établie et recouvrée selon les règles et sous les garanties et sanctions prévues pour les créances de l'Etat étrangères à l'impôt et au domaine.
