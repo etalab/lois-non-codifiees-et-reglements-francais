@@ -1,7 +1,9 @@
 # Article 102
 
-Paris simple et paris spécifiques au pari mutuel urbain. - Les ordres transmis téléphoniquement par le parieur sont reçus tous les jours. Les horaires d'ouverture et de clôture des opérations sont portés à la connaissance du public.
+Le titulaire du compte reconnaît par avance la validité des débits sur son compte bancaire ou postal, consécutifs aux versements effectués sur son compte PMU, pour lesquels ont été composés, selon le système d'enregistrement utilisé, notamment, le code confidentiel de sa carte bancaire ou le numéro de celle-ci et sa date d'expiration.
 
-L'enjeu minimum à engager par communication téléphonique est porté à la connaissance du parieur lors de la demande d'ouverture de compte. Toute modification ultérieure du montant de cet enjeu minimum est notifiée par écrit au titulaire du compte.
+Il reconnaît que les enregistrements transmis par le Pari mutuel urbain constitueront la preuve des opérations effectuées au moyen de sa carte et la justification de leur imputation au compte bancaire ou postal sur lequel cette carte fonctionne.
 
-Le montant des gains ou remboursements relatifs à chacun des ordres transmis par le parieur est porté au crédit de son compte.
+Les versements par monnaie scripturale ne seront portés au crédit du compte considéré qu'après les délais de rejet légaux correspondant à la réglementation bancaire.
+
+Les sommes déposées en compte courant ou portées au crédit de ce compte courant ne bénéficient d'aucun intérêt.

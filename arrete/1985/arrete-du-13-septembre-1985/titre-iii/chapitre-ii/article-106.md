@@ -1,3 +1,5 @@
 # Article 106
 
-Les ordres transmis téléphoniquement par le parieur au serveur vocal interactif du pari mutuel urbain sont reçus tous les jours ou certains jours seulement selon le service choisi par le parieur. Les horaires d'ouverture et de clôture des opérations, ainsi que les paris et les formules acceptés par le serveur vocal interactif du pari mutuel urbain arrêtent le fonctionnement du compte courant visé par l'opposition.
+Le montant des gains ou remboursements relatifs à chacun des ordres transmis par le parieur est porté au crédit de son compte.
+
+Le règlement des sommes dont le retrait est demandé par le parieur sur son solde créditeur est fait par chèque ou par virement bancaire ou postal.
