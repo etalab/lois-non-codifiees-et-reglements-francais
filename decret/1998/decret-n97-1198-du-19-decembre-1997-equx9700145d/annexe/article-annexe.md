@@ -130,9 +130,9 @@ Code de la construction et de l'habitation
 
 1
 
-Autorisation de sortie du statut coopératif pour les sociétés anonymes coopératives de production d'habitations à loyer modéré et les sociétés anonymes coopératives de location-attribution.
+Autorisation de sortie du statut coopératif pour les sociétés anonymes coopératives d'habitations à loyer modéré.
 
-Articles R. 422-9-6 et R. 422-36-1.
+Article R. 422-9-6 et R. 422-36-1.
 
 Mesure prise par les ministres chargés des transports et des finances
 
@@ -358,15 +358,15 @@ Article R. 422-17, 2e alinéa.
 
 2
 
-Décisions relatives à l'extension de la compétence territoriale des sociétés anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives de production d'habitations à loyer modéré et des sociétés anonymes de crédit immobilier.
+Décisions relatives à l'extension de la compétence territoriale des sociétés anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives d'habitations à loyer modéré et des sociétés anonymes de crédit immobilier.
 
 SAHLM :
 
-articles R. 422-3 et R. 422-4, 1er alinéa.
+articles R*. 422-3 et R*. 422-4, 1er alinéa.
 
 SCP-HLM :
 
-article R. 422-8-1.
+article R*. 422-8-1.
 
 SACI :
 

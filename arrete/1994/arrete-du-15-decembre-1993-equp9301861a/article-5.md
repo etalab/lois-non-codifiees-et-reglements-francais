@@ -10,7 +10,7 @@ du directeur du Laboratoire central des ponts et chaussées ;
 
 du directeur général de l'Institut national de recherches sur les transports et leur sécurité ;
 
-du directeur du Centre d'études des transports urbains ;
+directeur du Centre d'études sur les réseaux, les transports, l'urbanisme et les constructions publiques ;
 
 du directeur du Centre d'études des tunnels ;
 

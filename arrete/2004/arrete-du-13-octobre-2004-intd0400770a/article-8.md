@@ -1,0 +1,3 @@
+# Article 8
+
+Le directeur général de la comptabilité publique au ministère de l'économie, des finances et de l'industrie, le directeur des libertés publiques et des affaires juridiques au ministère de l'intérieur, de la sécurité intérieure et des libertés locales, le directeur des affaires criminelles et des grâces au ministère de la justice et le directeur de la sécurité et de la circulation routières au ministère de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

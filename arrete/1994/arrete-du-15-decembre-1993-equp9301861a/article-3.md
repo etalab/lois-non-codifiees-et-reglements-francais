@@ -4,13 +4,17 @@ La constitution et l'articulation des différentes unités organiques du service
 
 Les services de la direction :
 
+Direction de la qualité :
+
+Conçoit, pilote et suit la politique qualité du SETRA.
+
+Service de la communication et de l'action commerciale (SCAC) :
+
+Assure l'ensemble des fonctions d'édition et de communication du SETRA.
+
 Mission d'évaluation et des programmes (M.E.P.) :
 
 Conseille la direction sur la conduite des activités et de l'animation du service ;
-
-Mission d'appui à la décentralisation (M.A.D.) :
-
-Veille à la prise en compte, par le S.E.T.R.A. et le réseau technique associé, des besoins des collectivités départementales et communales pour qu'elles puissent mener à bien les différents volets (investissement, maintenance, exploitation...) de leurs politiques routières dans le contexte de la décentralisation ;
 
 Délégation aux relations extérieures (DREX) :
 
@@ -24,7 +28,7 @@ de documentation et de veille technique ;
 
 Le secrétariat général (S.G.) :
 
-Assure l'ensemble des fonctions logistiques propres au fonctionnement du service, la gestion des ressources humaines et la formation des personnels, le développement de l'informatique de gestion, la préparation et l'exécution du budget, la gestion financière et comptable, la diffusion des publications et logiciels, l'animation et la mise en oeuvre des actions de communication ainsi que tout ce qui concerne l'activité sociale, l'hygiène et la sécurité ;
+Assure l'ensemble des fonctions logistiques propres au fonctionnement du service, la gestion des ressources humaines et la formation des personnels, le développement de l'informatique de gestion, la préparation et l'exécution du budget, la gestion financière et comptable, ainsi que tout ce qui concerne l'activité sociale, l'hygiène et la sécurité ;
 
 Le Centre des techniques d'ouvrages d'art (C.T.O.A.) :
 
@@ -44,17 +48,21 @@ conseil aux maîtres d'ouvrage et fourniture d'avis sur projets ;
 
 réglementation technique des ouvrages d'art ;
 
-Le Centre de la sécurité et des techniques routières (C.S.T.R.) :
+Le Centre de la sécurité, des transports et de la route (CSTR) :
 
-Le C.S.T.R. intervient dans les domaines de la conception, de l'innovation, de la construction, de l'entretien, des équipements, de la sécurité et de l'exploitation des routes et autoroutes.
+Le CSTR intervient dans les domaines de la planification, des études économiques, de la conception, de la construction, de l'entretien, de l'exploitation et de l'environnement des infrastructures de transport, de la sécurité des déplacements et de l'articulation des différents modes de transport, principalement en milieu interurbain.
 
-Les principales missions du C.S.T.R. sont les suivantes :
+Ses principales missions sont les suivantes :
 
-Proposition de politiques et élaboration de corps de doctrines techniques, notamment sous forme réglementaire ;
+- proposition de politiques et élaboration de corps de doctrines techniques, notamment pour la normalisation ;
 
-Conseil des maîtres d'ouvrage et fourniture d'avis sur les projets et programmes routiers et autoroutiers ;
+- élaboration d'outils méthodologiques ;
 
-Production et diffusion d'outils techniques pour l'ensemble des partenaires ;
+- conception de systèmes d'information ;
+
+- assistance à maîtrise d'ouvrage, conseil et expertise ;
+
+- animation de réseau, notamment au sein de réseaux de l'équipement.
 
 Le Centre informatique technique et scientifique (C.I.T.S.) :
 
