@@ -1,18 +1,18 @@
 # Article 3
 
-Les unités SI supplémentaires sont :
+Les unités dérivées sans dimension du SI sont :
 
 Le radian, unité d'angle plan ;
 
 Le stéradian, unité d'angle solide.
 
-Le radian est l'angle plan qui, ayant son sommet au centre d'un cercle, intercepte sur la circonférence de ce cercle un arc d'une longueur égale à celle du rayon du cercle.
+Le radian est l'angle compris entre deux rayons d'un cercle qui, sur la circonférence du cercle, interceptent un arc de longueur égale à celle du rayon.
 
-Le stéradian est l'angle solide qui, ayant son sommet au centre d'une sphère, découpe sur la surface de cette sphère une aire équivalente à celle d'un carré dont le côté est égal au rayon de la sphère.
+Le stéradian est l'angle solide d'un cône qui, ayant son sommet au centre d'une sphère, découpe sur la surface de cette sphère une aire égale à celle d'un carré ayant pour côté une longueur égale au rayon de la sphère.
 
-A partir des unités SI de base et des unités SI supplémentaires, les unités, les unités SI dérivées sont données par des expressions algébriques sous la forme de produits de puissances des unités SI de base ou supplémentaires avec un facteur numérique égal à 1.
+A partir des unités SI de base et des unités dérivées sans dimension du SI, les unités SI dérivées sont données par des expressions algébriques sous la forme de produits de puissances des unités SI de base ou des unités dérivées sans dimension du SI avec un facteur numérique égal à 1.
 
-Plusieurs de ces unités SI dérivées ont reçu un nom spécial et un symbole particulier, lesquels peuvent être utilisés à leur tour pour exprimer des unités dérivées d'une façon plus simple qu'à partir des unités SI de base ou supplémentaires.
+Plusieurs de ces unités SI dérivées ont reçu un nom spécial et un symbole particulier, lesquels peuvent être utilisés à leur tour pour exprimer des unités dérivées d'une façon plus simple qu'à partir des unités SI de base ou des unités dérivées sans dimension du SI.
 
 Les unités dérivées ayant des noms spéciaux et d'autres unités dérivées utilisées pour mesurer certaines grandeurs sont dénommées et définies ci-après et dans le tableau annexé au présent décret.
 
@@ -32,7 +32,7 @@ Le nom "litre" peut être donné au décimètre cube.
 
 Unités de masse.
 
-Le nom "tonne" peut être donné au multiple décimal valant mille kilogramme.
+Le nom "tonne" peut être donné au multiple décimal valant mille kilogrammes.
 
 Masse linéique.
 
@@ -128,25 +128,27 @@ L'unité d'induction magnétique est le tesla, induction magnétique uniforme qu
 
 Unités de rayonnements ionisants.
 
-Activité.
+Activité
 
 L'unité d'activité d'une source radioactive est le becquerel, activité d'une quantité de nucléide radioactif pour laquelle le nombre moyen de transitions nucléaires spontanées par seconde est égal à 1.
 
-Energie communiquée massique.
+Energie communiquée massique
 
 L'unité d'énergie communiquée massique est le gray, énergie communiquée massique telle que l'énergie communiquée par les rayonnements ionisants à une masse de matière de 1 kilogramme est égale à 1 joule.
 
-Dose absorbée.
+Dose absorbée
 
 L'unité de dose absorbée est le gray, dose absorbée dans une masse de matière de 1 kilogramme à laquelle les rayonnements ionisants communiquent en moyenne de façon uniforme une énergie de 1 joule.
 
-Kerma.
+Kerma
 
 L'unité de kerma est le gray, kerma dans une masse de matière de 1 kilogramme dans laquelle les particules ionisantes chargées sont libérées de façon uniforme par des particules ionisantes non chargées et pour lesquelles la somme des énergies cinétiques initiales est en moyenne égale à 1 joule.
 
-Equivalent de dose.
+Equivalent de dose
 
-L'unité d'équivalent de dose dans le domaine de la radio-protection est le sievert. Le siervert est égal au joule par kilogramme.
+L'unité d'équivalent de dose dans le domaine de la radioprotection est le sievert. Le sievert est égal au joule par kilogramme.
+
+L'emploi des unités des rayonnements ionisants dénommées curie, rad, röntgen et rem n'est pas autorisé.
 
 Unités optiques.
 

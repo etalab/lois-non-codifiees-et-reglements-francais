@@ -32,7 +32,7 @@ Dans les transactions relatives aux diamants, perles fines et pierres précieuse
 
 Masse atomique.
 
-L'unité de masse atomique est égale à la fraction 1/12 de la masse d'un atome de carbone 12. 1 unité de masse atomique vaut 1,660.56 x (10 puissance -27) kilogramme, approximativement.
+L'unité de masse atomique unifiée est égale à 1/12 de la mass e d'un atome du nucléide 12C.
 
 Unités de temps.
 
@@ -54,9 +54,7 @@ Son emploi est autorisé seulement pour exprimer des vitesses en navigation (mar
 
 Travail, énergie et quantité de chaleur.
 
-Le wattheure est l'énergie fournie en une heure par une puissance de 1 watt. 1 wattheure vaut 3.600 joules.
-
-L'électronvolt est l'énergie acquise par un électron accéléré sous une différence de potentiel de 1 volt dans le vide. 1 électronvolt vaut 1,602.19 x (10 puissance -19) joule, approximativement.
+L'électronvolt est l'énergie cinétique acquise par un électron qui passe par une différence de potentiel de 1 volt dans le vide.
 
 Unités électriques.
 
