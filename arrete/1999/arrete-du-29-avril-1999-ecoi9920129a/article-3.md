@@ -1,0 +1,3 @@
+# Article 3
+
+Les stations visées à l'article 2 sont dispensées de l'accord de l'Agence nationale des fréquences ; elles sont déclarées auprès de l'agence préalablement à leur mise en service et selon un format défini par celle-ci. Les déclarations sont enregistrées dans le fichier des stations tenu par l'agence et peuvent être consultées, par interrogation à distance de ce fichier, par les administrations et les autorités affectataires ainsi que par les exploitants dans des conditions définies par l'affectataire dont ils relèvent. L'arrêt de l'exploitation d'une station, son transfert, sa modification, ou toute autre opération affectant le contenu de la déclaration, doivent faire l'objet d'une déclaration corrective à l'agence.

@@ -1,0 +1,3 @@
+# Article 1
+
+En vue de l'élection des représentants du personnel aux commissions paritaires d'établissement instituées dans les établissements d'enseignement supérieur, les agents régulièrement inscrits sur les listes électorales sont admis à voter soit directement au siège de la section de vote à laquelle ils sont rattachés, soit par correspondance s'ils n'exercent pas leurs fonctions au siège d'une section de vote ou s'ils sont en congé de maladie, en congé de longue maladie ou en congé de longue durée s'ils sont en position d'absence régulièrement autorisée ou empêchés, en raison des nécessités du service, de se rendre à la section de vote le jour du scrutin.
