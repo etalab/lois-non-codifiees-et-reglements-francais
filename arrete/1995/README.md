@@ -215,7 +215,6 @@
 - [Arrêté du 5 mai 1995 (ACVA9510011A)](arrete-du-5-mai-1995-acva9510011a)
 - [Arrêté du 5 mai 1995 (ACVA9510018A)](arrete-du-5-mai-1995-acva9510018a)
 - [Arrêté du 5 mai 1995 (AGRG9500779A)](arrete-du-5-mai-1995-agrg9500779a)
-- [Arrêté du 5 mai 1995 (BUDD9550003A)](arrete-du-5-mai-1995-budd9550003a)
 - [Arrêté du 5 mai 1995 (BUDR9507026A)](arrete-du-5-mai-1995-budr9507026a)
 - [Arrêté du 5 mai 1995 (ENVP9540148A)](arrete-du-5-mai-1995-envp9540148a)
 - [Arrêté du 5 mai 1995 (EQUA9501761A)](arrete-du-5-mai-1995-equa9501761a)

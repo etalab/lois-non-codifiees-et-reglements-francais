@@ -1,5 +1,0 @@
-# Article 3
-
-La demande de licence générale G. 502 est adressée à la direction générale des douanes et droits indirects, Setice, 8, rue de la Tour-des-Dames, 75436 Paris Cédex 09. Elle est accompagnée des pièces prévues à l'article 14 de l'arrêté susvisé ainsi que de la copie du récépissé de la demande d'autorisation de fourniture ou de la copie de l'autorisation de fourniture, au sens de l'article 9 du décret du 28 décembre 1992 susvisé. Pour les moyens soumis à la procédure déclarative définie par l'article 3 de ce même décret, ce document est remplacé par la copie du récépissé de la déclaration de fourniture en vue de l'exportation.
-
-La liste des clients servis et les quantités livrées respectives seront communiquées au service central de la sécurité des systèmes d'information (S.C.S.S.I.), fort d'Issy-les-Moulineaux, 18, rue du Docteur-Zamenhof, 92131 Issy-les-Moulineaux Cedex, une fois par an.    L'engagement écrit de l'exportateur, établi sur papier à en-tête commercial et signé par un représentant légal de l'entreprise ou une personne responsable mandatée, prend la forme du modèle joint en annexe.
