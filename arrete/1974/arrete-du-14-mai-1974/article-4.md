@@ -1,0 +1,7 @@
+# Article 4
+
+Un représentant du ministre de la santé publique et de la sécurité sociale, nommé en accord avec le ministre de l'industrie, du commerce et de l'artisanat, assiste, en qualité de commissaire du Gouvernement, aux séances du conseil d'administration du centre national. Il reçoit communication, dans un délai de quinze jours, des procès-verbaux retraçant les délibération du conseil d'administration.
+
+Le commissaire du Gouvernement est en droit de suspendre, par une décision motivée, toute délibération qui lui paraîtrait contraire à l'intérêt public ou à l'équilibre financier du centre, à charge pour lui de transmettre les éléments du dossier au ministre de la santé publique et de la sécurité sociale et d'en informer le ministre de l'industrie, du commerce et de l'artisanat dans un délai de huit jours. Si, dans un délai d'un mois après réception, le ministre de la santé publique et de la sécurité sociale ne s'est pas prononcé sur la délibération en cause, celle-ci devient exécutoire.
+
+Nonobstant les dispositions qui précèdent, le ministre de la santé publique et de la sécurité sociale peut, dans un délai maximum de quinze jours à compter de la date de réception des procès-verbaux, annuler toute décision qui lui paraîtrait contraire à la loi, étrangère aux missions du centre ou de nature à compromettre sa situation financière. Il en informe alors le ministre de l'industrie, du commerce et de l'artisanat.
