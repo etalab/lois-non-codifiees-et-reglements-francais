@@ -815,7 +815,6 @@
 - [Arrêté du 21 septembre 1994 (BUDL9400098A)](arrete-du-21-septembre-1994-budl9400098a)
 - [Arrêté du 21 septembre 1994 (BUDR9405022A)](arrete-du-21-septembre-1994-budr9405022a)
 - [Arrêté du 21 septembre 1994 (ENVP9430259A)](arrete-du-21-septembre-1994-envp9430259a)
-- [Arrêté du 21 septembre 1994 (JUSA9400337A)](arrete-du-21-septembre-1994-jusa9400337a)
 - [Arrêté du 21 septembre 1994 (SPSS9403038A)](arrete-du-21-septembre-1994-spss9403038a)
 - [Arrêté du 22 août 1994 (ECOT9410217A)](arrete-du-22-aout-1994-ecot9410217a)
 - [Arrêté du 22 août 1994 (EQUA9401475A)](arrete-du-22-aout-1994-equa9401475a)
