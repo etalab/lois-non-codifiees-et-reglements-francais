@@ -23,7 +23,6 @@
 - [Ordonnance n° 59-80 du 7 janvier 1959](ordonnance-n-59-80-du-7-janvier-1959)
 - [Ordonnance n°59-125 du 7 janvier 1959](ordonnance-n59-125-du-7-janvier-1959)
 - [Ordonnance n°59-147 du 7 janvier 1959](ordonnance-n59-147-du-7-janvier-1959)
-- [Ordonnance n°59-151 du 7 janvier 1959](ordonnance-n59-151-du-7-janvier-1959)
 - [Ordonnance n°59-69 du 7 janvier 1959](ordonnance-n59-69-du-7-janvier-1959)
 - [Ordonnance n° 58-1273 du 22 décembre 1958](ordonnance-n-58-1273-du-22-decembre-1958)
 - [Ordonnance n° 58-1297 du 23 décembre 1958](ordonnance-n-58-1297-du-23-decembre-1958)

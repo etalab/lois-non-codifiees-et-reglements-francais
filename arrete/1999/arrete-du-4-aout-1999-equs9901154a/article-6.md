@@ -1,3 +1,0 @@
-# Article 6
-
-Le remplacement d'une partie quelconque de l'installation de gaz de pétrole liquéfiés sur des véhicules équipés d'origine pour ce type de carburation et mis pour la première fois en circulation avant le 1er janvier 2001, ou sur des véhicules usagés réceptionnés à titre isolé avant cette même date suite à ce type de transformation, peut toujours être effectué, après le 31 décembre 2000, conformément aux règles édictées par l'arrêté du 15 janvier 1985 modifié susvisé. Toutefois, pour tous les remplacements effectués à compter du 1er janvier 2000, ces véhicules devront être systématiquement munis des dispositifs de sécurité prévus à l'article 5.

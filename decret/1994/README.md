@@ -166,7 +166,6 @@
 - [Décret n°95-124 du 6 février 1995 (ACVE9550002D)](decret-n95-124-du-6-fevrier-1995-acve9550002d)
 - [Décret n°95-370 du 6 avril 1995 (AGRA9402380D)](decret-n95-370-du-6-avril-1995-agra9402380d)
 - [Décret n°96-509 du 6 juin 1996 (EQUA9600618D)](decret-n96-509-du-6-juin-1996-equa9600618d)
-- [Décret n°94-360 du 6 mai 1994 (RESM9400598D)](decret-n94-360-du-6-mai-1994-resm9400598d)
 - [Décret n°94-370 du 6 mai 1994 (JUSB9410119D)](decret-n94-370-du-6-mai-1994-jusb9410119d)
 - [Décret n°94-373 du 6 mai 1994 (INDP9400453D)](decret-n94-373-du-6-mai-1994-indp9400453d)
 - [Décret n°95-578 du 6 mai 1995 (INTC9500120D)](decret-n95-578-du-6-mai-1995-intc9500120d)
