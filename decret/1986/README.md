@@ -316,7 +316,6 @@
 - [Décret n°86-1111 du 15 octobre 1986](decret-n86-1111-du-15-octobre-1986)
 - [Décret n°86-1116 du 15 octobre 1986](decret-n86-1116-du-15-octobre-1986)
 - [Décret n°86-1131 du 15 octobre 1986](decret-n86-1131-du-15-octobre-1986)
-- [Décret n°86-480 du 15 mars 1986](decret-n86-480-du-15-mars-1986)
 - [Décret n°86-512 du 15 mars 1986](decret-n86-512-du-15-mars-1986)
 - [Décret n°86-633 du 15 mars 1986](decret-n86-633-du-15-mars-1986)
 - [Décret n°86-634 du 15 mars 1986](decret-n86-634-du-15-mars-1986)

@@ -1,7 +1,5 @@
-# Arrêté du 29 décembre 1986 relatif aux modalités techniques et financières de lutte contre certaines maladies animales
+# Arrêté du 29 décembre 1986 fixant les montants de la taxe parafiscale instituée en vue du développement de la formation professionnelle dans les transports
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

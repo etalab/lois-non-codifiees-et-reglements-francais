@@ -1,8 +1,8 @@
 # Article 9
 
-Les sections permanentes mentionnées à l'article 7 sont présidées par le directeur des sports ou son représentant. Elles se réunissent à l'initiative de leur président et procèdent à l'étude des questions soumises à l'avis de la commission consultative du judo et jiu-jitsu, de l'aïkido, du karaté et des disciplines assimilées.
+Les sections permanentes mentionnées à l'article 7 sont présidées par le délégué aux formations ou son représentant. Elles se réunissent à l'initiative de leur président et procèdent à l'étude des questions soumises à l'avis de la commission consultative du judo et jiu-jitsu, de l'aïkido, du karaté et des disciplines assimilées.
 
-Sont membres de droit de la section permanente du judo et jiu-jitsu [*composition*] :
+Sont membres de droit de la section permanente du judo et jiu-jitsu :
 
 - deux représentants de la fédération française de judo et jiu-jitsu, kendo, disciplines associées ;
 
@@ -11,6 +11,8 @@ Sont membres de droit de la section permanente du judo et jiu-jitsu [*compositio
 - le directeur technique national du judo ou, à défaut, un technicien qualifié titulaire au moins du brevet d'Etat d'éducateur sportif du 2e degré de judo et jiu-jitsu désigné par le président de la fédération française de judo et jiu-jitsu, kendo, disciplines associées ;
 
 - un professeur de sport spécialiste du judo ou, à défaut, un technicien qualifié titulaire au moins du brevet d'Etat d'éducateur sportif du 2e degré de judo et jiu-jitsu.
+
+- le directeur des sports ou son représentant.
 
 Sont membres de droit de la section permanente de l'aïkido :
 
@@ -22,6 +24,8 @@ Sont membres de droit de la section permanente de l'aïkido :
 
 - un professeur de sport spécialiste de l'aïkido ou, à défaut, un technicien qualifié titulaire au moins du brevet d'Etat d'éducateur sportif du 2e degré d'aïkido.
 
+- le directeur des sports ou son représentant.
+
 Sont membres de droit de la section permanente du karaté :
 
 - deux représentants de la fédération française de karaté, taëkwondo et arts martiaux affinitaires ;
@@ -31,5 +35,7 @@ Sont membres de droit de la section permanente du karaté :
 - le directeur technique national du karaté ou, à défaut, un technicien qualifié titulaire au moins du brevet d'Etat d'éducateur sportif du 2e degré de karaté désigné par le président de la fédération française de karaté, taëkwondo et arts martiaux affinitaires ;
 
 - un professeur de sport spécialiste de karaté ou, à défaut, un technicien qualifié titulaire au moins du brevet d'Etat d'éducateur sportif du 2e degré de karaté.
+
+- le directeur des sports ou son représentant.
 
 Le président des sections permanentes peut faire appel, en outre, à toute personne compétente sur les questions traitées.

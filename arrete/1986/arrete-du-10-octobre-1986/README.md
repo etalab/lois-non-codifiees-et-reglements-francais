@@ -1,7 +1,5 @@
-# Arrêté du 10 octobre 1986 fixant la composition et le fonctionnement de la commission consultative du judo et jiu-jitsu, de l'aïkido, du karaté et des disciplines assimilées
+# Arrêté du 10 octobre 1986 fixant le gain annuel minimum susceptible d'être déclaré par les exploitants agricoles qui contractent, pour les membres de leur famille et pour eux-mêmes, une assurance complémentaire contre les accidents du travail et les maladies professionnelles.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
