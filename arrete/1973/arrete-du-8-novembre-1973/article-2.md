@@ -1,0 +1,3 @@
+# Article 2
+
+Le directeur général du commerce intérieur et des prix au ministère de l'économie et des finances, le directeur général de l'administration et du financement (service de la répression des fraudes et du contrôle de la qualité) au ministère de l'agriculture et du développement rural, le chef du service des instruments de mesure au ministère du développement industriel et scientifique et le chef du service du commerce au ministère du commerce et de l'artisanat sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
