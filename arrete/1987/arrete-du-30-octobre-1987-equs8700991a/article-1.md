@@ -1,6 +1,6 @@
 # Article 1
 
-En application des articles R. 92 (5°) et R. 175 du code de la route, les véhicules d'intervention urgente peuvent être équipés de dispositifs lumineux entrant dans l'une des deux catégories ci-après [*définition*] :
+En application des articles R. 92 (5°) et R. 175 du code de la route, les véhicules d'intervention urgente peuvent être équipés de dispositifs lumineux entrant dans l'une des deux catégories ci-après :
 
 I. - Catégorie A réservée aux véhicules qui bénéficient de la priorité de passage en application de l'article R. 28 du code de la route : véhicules des services de police, de gendarmerie, de lutte contre l'incendie et véhicules d'intervention des unités mobiles hospitalières agissant dans le cadre d'un S.A.M.U. ou d'un S.M.U.R.
 
@@ -13,5 +13,7 @@ II. - Catégorie B réservée aux véhicules énumérés ci-après, dont il impo
 3° Véhicules des douanes ;
 
 4° Véhicules des associations médicales concourant à la permanence des soins ou véhicules des médecins lorsqu'ils participent à la garde départementale.
+
+5° Engins de service hivernal, lorsqu'ils participent à la lutte contre le verglas ou la neige. En dehors de cette circonstance, le dispositif lumineux prévu au présent article doit être retiré. En outre, ces engins ne peuvent pas être équipés des dispositifs sonores spéciaux prévus à l'article 4 du présent arrêté.
 
 Il ne doit être fait usage de ces dispositifs lumineux spéciaux ainsi que des avertisseurs spéciaux dont les véhicules peuvent être équipés en application des articles R. 95 et R. 181 (pour les véhicules visés au paragraphe I ci-dessus) et R. 96 (pour les véhicules visés au paragraphe II ci-dessus) qu'à l'occasion d'interventions urgentes et nécessaires.
