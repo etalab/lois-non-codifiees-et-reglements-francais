@@ -165,7 +165,6 @@
 - [Décret n°84-1032 du 20 novembre 1984](decret-n84-1032-du-20-novembre-1984)
 - [Décret n°84-133 du 20 février 1984](decret-n84-133-du-20-fevrier-1984)
 - [Décret n°84-298 du 20 avril 1984](decret-n84-298-du-20-avril-1984)
-- [Décret n°83-929 du 21 octobre 1983](decret-n83-929-du-21-octobre-1983)
 - [Décret n°84-1021 du 21 novembre 1984](decret-n84-1021-du-21-novembre-1984)
 - [Décret n°84-1162 du 21 décembre 1984](decret-n84-1162-du-21-decembre-1984)
 - [Décret n°84-481 du 21 juin 1984](decret-n84-481-du-21-juin-1984)
