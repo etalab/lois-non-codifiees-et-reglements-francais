@@ -6,25 +6,23 @@ I. - La délégation générale pour l'armement, sous l'autorité du délégué 
 
 Celui-ci dispose des organismes suivants :
 
-a) La direction des systèmes de forces et de la prospective ;
+a) La direction des systèmes d'armes ;
 
-b) La direction des systèmes d'armes ;
+b) La direction des systèmes de forces et des stratégies industrielle, technologique et de coopération ;
 
-c) La direction des programmes, des méthodes d'acquisition et de la qualité ;
+c) La direction de l'expertise technique ;
 
-d) La direction de la coopération et des affaires industrielles ;
+d) La direction du développement international ;
 
-e) La direction des relations internationales ;
+e) La direction des essais ;
 
-f) La direction des ressources humaines ;
+f) La direction des plans, du budget et de la gestion ;
 
-g) La direction de la gestion et de l'organisation ;
+g) La direction de la qualité et du progrès ;
 
-h) La direction des centres d'expertise et d'essais ;
+h) La direction des ressources humaines ;
 
-i) Le service de la maintenance aéronautique ;
-
-j) Le centre des hautes études de l'armement.
+i) Le service de la maintenance aéronautique.
 
 II. - Le secrétariat général pour l'administration, sous l'autorité du secrétaire général pour l'administration.
 
