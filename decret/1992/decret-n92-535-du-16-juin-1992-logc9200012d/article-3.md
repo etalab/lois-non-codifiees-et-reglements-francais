@@ -1,0 +1,3 @@
+# Article 3
+
+Avant tout début de travaux touchant à l'accessibilité et à la sécurité des ascenseurs, le représentant légal de la copropriété ou le propriétaire est tenu d'avertir de la nature des travaux envisagés les habitants de l'immeuble, par voie d'affiche apposée pendant huit jours au moins de manière permanente et lisible rappelant les termes du présent décret, et pour les copropriétaires n'habitant pas l'immeuble, par lettre recommandée avec demande d'avis de réception postal remplissant les mêmes conditions. Cette publicité doit être effectuée, en cas de demande de dérogation ou de délai supplémentaire, un mois au moins avant le dépôt de celle-ci.
