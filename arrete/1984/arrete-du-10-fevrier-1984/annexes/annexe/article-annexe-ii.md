@@ -27,3 +27,19 @@ Ces critères seront vérifiés selon les principes décrits dans l'arrêté min
 n = 5       c = 2     M = 5 m
 
 De plus, pour l'interprétation des résultats, il pourra être fait application d'une tolérance analytique exclusivement pour la valeur m. Celle-ci sera égale à 1,5 m.
+
+3. Contrôle portant sur un sang ou un produit issu de sang traité par rayonnements ionisants :
+
+Flore aérobie mésophile 30 °C : m=103/gramme ;
+
+Coliformes fécaux : m=10/gramme ;
+
+Staphylococcus aureus :m=10/gramme ;
+
+Spores de Clostridium sulfito-réducteur : m=10/gramme ;
+
+Salmonella : absence dans 25 grammes.
+
+Ces critères seront vérifiés selon les principes décrits dans l'arrêté du 21 décembre 1979 pour les plans à trois classes, soit pour un lot : n=5 ; c=2 ; M=5 m.
+
+De plus, pour l'interprétation des résultats, il pourra être fait application d'une tolérance analytique exclusivement pour la valeur m. Celle-ci sera égale à 1,5 m.
