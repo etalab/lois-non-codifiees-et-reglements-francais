@@ -152,7 +152,6 @@
 - [Arrêté du 8 septembre 1989 (JUSB8910270A)](arrete-du-8-septembre-1989-jusb8910270a)
 - [Arrêté du 8 septembre 1989 (RESY8900129A)](arrete-du-8-septembre-1989-resy8900129a)
 - [Arrêté du 8 septembre 1989 (RESY8900319A)](arrete-du-8-septembre-1989-resy8900319a)
-- [Arrêté du 9 août 1978](arrete-du-9-aout-1978)
 - [Arrêté du 9 août 1989 (AGRS8901585A)](arrete-du-9-aout-1989-agrs8901585a)
 - [Arrêté du 9 décembre 1988 (INTE8800463A)](arrete-du-9-decembre-1988-inte8800463a)
 - [Arrêté du 9 décembre 1988 (TEFT8804180A)](arrete-du-9-decembre-1988-teft8804180a)
