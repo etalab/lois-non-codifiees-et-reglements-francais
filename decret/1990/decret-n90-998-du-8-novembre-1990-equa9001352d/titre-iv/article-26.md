@@ -1,16 +1,16 @@
 # Article 26
 
-Pour la constitution initiale du corps des ingénieurs du contrôle de la navigation aérienne, sont intégrés dans ce corps les officiers contrôleurs de la circulation aérienne et les officiers contrôleurs en chef de la circulation aérienne, conformément au tableau de correspondance ci-après :
+A la date d'entrée en vigueur du décret n° 94-279 du 11 avril 1994 modifiant le décret n° 90-998 du 8 novembre 1990 portant statut du corps des ingénieurs du contrôle de la navigation aérienne, les ingénieurs du contrôle de la navigation aérienne sont reclassés dans ce corps conformément au tableau de correspondance ci-après :
 
-SITUATION dans l'ancien corps
+SITUATION ACTUELLE
 
-SITUATION DANS LE NOUVEAU CORPS
+SITUATION NOUVELLE
 
-Grade, échelon
+Grade  Echelon
 
 Ancienneté conservée
 
-Officier contrôleur en chef de la circulation aérienne
+Ingénieur divisionnaire du contrôle de la navigation aérienne
 
 Ingénieur divisionnaire du contrôle de la navigation aérienne
 
@@ -18,19 +18,19 @@ Ingénieur divisionnaire du contrôle de la navigation aérienne
 
 7e échelon
 
-Ancienneté acquise.
+Ancienneté acquise majorée de 3 ans.
 
 6e échelon
 
 6e échelon
 
-Ancienneté acquise.
+Ancienneté acquise majorée de 2 ans.
 
 5e échelon
 
 5e échelon
 
-Ancienneté acquise.
+Ancienneté acquise majorée de 1 an.
 
 4e échelon
 
@@ -42,21 +42,21 @@ Ancienneté acquise.
 
 3e échelon
 
-2/3 de l'ancienneté acquise.
+Ancienneté acquise.
 
 2e échelon
 
 2e échelon
 
-2/3 de l'ancienneté acquise.
+Ancienneté acquise.
 
 1er échelon
 
 1er échelon
 
-2/3 de l'ancienneté acquise.
+Moitié de l'ancienneté acquise
 
-Officier contrôleur principal de la circulation aérienne
+Ingénieur principal du contrôle de la navigation aérienne
 
 Ingénieur principal du contrôle de la navigation aérienne
 
@@ -112,75 +112,23 @@ Ancienneté acquise.
 
 1er échelon
 
-Ancienneté acquise.
-
-Officier contrôleur de la circulation aérienne de 1re classe
+Ancienneté acquise
 
 Ingénieur du contrôle de la navigation aérienne de classe normale
 
-9e échelon
+Ingénieur du contrôle de la navigation aérienne de classe normale
+
+10e échelon
 
 10e échelon
 
 Ancienneté acquise.
 
-8e échelon
-
-9e échelon
-
-Ancienneté acquise.
-
-7e échelon
-
-8e échelon
-
-Ancienneté acquise.
-
-6e échelon
-
-7e échelon
-
-Ancienneté acquise.
-
-5e échelon
-
-6e échelon
-
-Ancienneté acquise.
-
-4e échelon
-
-5e échelon
-
-Ancienneté acquise.
-
-3e échelon
-
-4e échelon
-
-Ancienneté acquise.
-
-2e échelon
-
-3e échelon
-
-Ancienneté acquise.
-
-1er échelon
-
-2e échelon
-
-Deux fois l'ancienneté acquise.
-
-Officier contrôleur de la circulation aérienne de 2e classe
-
-Ingénieur du contrôle de la navigation aérienne de classe normale
-
 9e échelon
 
 9e échelon
 
-Ancienneté acquise dans la limite de 3 ans.
+Ancienneté acquise.
 
 8e échelon
 
@@ -210,7 +158,7 @@ Ancienneté acquise.
 
 4e échelon
 
-2/3 de l'ancienneté acquise.
+Ancienneté acquise.
 
 3e échelon
 

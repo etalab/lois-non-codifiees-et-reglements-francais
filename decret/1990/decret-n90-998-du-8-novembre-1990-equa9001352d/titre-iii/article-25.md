@@ -2,33 +2,53 @@
 
 La durée moyenne et la durée minimale du temps passé dans chacun des échelons des trois grades d'ingénieur du contrôle de la navigation aérienne sont fixées comme suit :
 
-GRADE, ÉCHELON
+GRADE ET ÉCHELON
 
-DURÉE Moyenne
+DURÉE
 
-DURÉE Minimale
+Moyenne
 
-Ingénieur divisionnaire du contrôle de la navigation aérienne
+Minimale
 
-7e échelon.
+Ingénieur divisionnaire du contrôle
+
+de la navigation aérienne
+
+9e échelon
+
+2 ans
+
+1 an 6 mois
+
+8e échelon
+
+2 ans
+
+1 an 6 mois
+
+7e échelon
+
+2 ans
+
+1 an 6 mois
 
 6e échelon
 
-3 ans
+2 ans
 
-2 ans 3 mois
+1 an 6 mois
 
 5e échelon
 
-3 ans
+2 ans
 
-2 ans 3 mois
+1 an 6 mois
 
 4e échelon
 
-3 ans
+2 ans
 
-2 ans 3 mois
+1 an 6 mois
 
 3e échelon
 
@@ -44,13 +64,15 @@ Ingénieur divisionnaire du contrôle de la navigation aérienne
 
 1er échelon
 
-2 ans
+1 an
 
-1 an 6 mois
+1 an
 
-Ingénieur principal du contrôle de la navigation aérienne
+Ingénieur principal du contrôle
 
-9e échelon.
+de la navigation aérienne
+
+9e échelon
 
 8e échelon
 
@@ -100,9 +122,11 @@ Ingénieur principal du contrôle de la navigation aérienne
 
 1 an
 
-Ingénieur du contrôle de la navigation aérienne classe normale
+Ingénieur du contrôle de la navigation
 
-10e échelon.
+aérienne de classe normale
+
+10e échelon
 
 9e échelon
 
