@@ -519,7 +519,6 @@
 - [Décret n°96-343 du 18 avril 1996 (MENN9502841D)](decret-n96-343-du-18-avril-1996-menn9502841d)
 - [Décret n°96-347 du 18 avril 1996 (TASS9620497D)](decret-n96-347-du-18-avril-1996-tass9620497d)
 - [Décret n°96-42 du 18 janvier 1996 (INTA9600009D)](decret-n96-42-du-18-janvier-1996-inta9600009d)
-- [Décret n°96-45 du 18 janvier 1996 (AGRP9501431D)](decret-n96-45-du-18-janvier-1996-agrp9501431d)
 - [Décret n°96-539 du 18 juin 1996 (ECOT9651520D)](decret-n96-539-du-18-juin-1996-ecot9651520d)
 - [Décret n°96-547 du 18 juin 1996 (INDA9600262D)](decret-n96-547-du-18-juin-1996-inda9600262d)
 - [Décret n°96-548 du 18 juin 1996 (AGRR9502380D)](decret-n96-548-du-18-juin-1996-agrr9502380d)

@@ -101,7 +101,6 @@
 - [Décret n°95-831 du 3 juillet 1995 (JUSC9520431D)](decret-n95-831-du-3-juillet-1995-jusc9520431d)
 - [Décret n°96-303 du 3 avril 1996 (AGRA9600357D)](decret-n96-303-du-3-avril-1996-agra9600357d)
 - [Décret n°97-301 du 3 avril 1997 (FPPA9700030D)](decret-n97-301-du-3-avril-1997-fppa9700030d)
-- [Décret n°95-515 du 3 mai 1995 (ENVP9530008D)](decret-n95-515-du-3-mai-1995-envp9530008d)
 - [Décret n°95-523 du 3 mai 1995 (PRMX9400178D)](decret-n95-523-du-3-mai-1995-prmx9400178d)
 - [Décret n°95-694 du 3 mai 1995 (INDB9500491D)](decret-n95-694-du-3-mai-1995-indb9500491d)
 - [Décret du 4 janvier 1995 (ECOC9400083D)](decret-du-4-janvier-1995-ecoc9400083d)

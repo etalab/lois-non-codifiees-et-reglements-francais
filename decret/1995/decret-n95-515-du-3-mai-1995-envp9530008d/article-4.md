@@ -1,3 +1,0 @@
-# Article 4
-
-Les personnes mentionnées à l'article 2 ci-avant qui sont membres d'un organisme de surveillance de la qualité de l'air agréé en application de la loi du 30 décembre 1996 sont autorisées à déduire du montant de la taxe parafiscale due par elles, à raison de celles de leurs installations qui sont situées dans la zone surveillée par le réseau de mesure dudit organisme, les contributions volontaires ou dons de toute nature qu'elles ont versés à celui-ci au titre de l'année précédente ; les conditions dans lesquelles ces déductions sont opérées sont définies par arrêté conjoint du ministre chargé du budget et du ministre chargé de l'environnement après avis du comité de gestion mentionné à l'article 7 ci-dessous.

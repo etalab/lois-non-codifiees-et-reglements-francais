@@ -1080,6 +1080,5 @@
 - [Décret n°98-265 du 31 mars 1998 (FPPA9800013D)](decret-n98-265-du-31-mars-1998-fppa9800013d)
 - [Décret n°98-765 du 31 août 1998 (MEST9810933D)](decret-n98-765-du-31-aout-1998-mest9810933d)
 - [Décret n°98-766 du 31 août 1998 (MEST9810934D)](decret-n98-766-du-31-aout-1998-mest9810934d)
-- [Décret n°98-768 du 31 août 1998 (AGRS9801342D)](decret-n98-768-du-31-aout-1998-agrs9801342d)
 - [Décret n°98-769 du 31 août 1998 (ATEN9860075D)](decret-n98-769-du-31-aout-1998-aten9860075d)
 - [Décret n°98-788 du 31 août 1998 (MESS9822359D)](decret-n98-788-du-31-aout-1998-mess9822359d)
