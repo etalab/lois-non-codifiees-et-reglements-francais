@@ -213,7 +213,6 @@
 - [Arrêté du 30 décembre 1984](arrete-du-30-decembre-1984)
 - [Arrêté du 30 décembre 1985](arrete-du-30-decembre-1985)
 - [Arrêté du 30 novembre 1984](arrete-du-30-novembre-1984)
-- [Arrêté du 30 mai 1985](arrete-du-30-mai-1985)
 - [Arrêté du 31 décembre 1980](arrete-du-31-decembre-1980)
 - [Arrêté du 31 janvier 1985](arrete-du-31-janvier-1985)
 - [Arrêté du 31 mai 1985](arrete-du-31-mai-1985)
