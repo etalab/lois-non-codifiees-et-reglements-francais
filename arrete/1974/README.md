@@ -41,4 +41,5 @@
 - [Arrêté du 27 septembre 1973](arrete-du-27-septembre-1973)
 - [Arrêté du 28 janvier 1974](arrete-du-28-janvier-1974)
 - [Arrêté du 29 avril 1974](arrete-du-29-avril-1974)
+- [Arrêté du 30 juillet 1974](arrete-du-30-juillet-1974)
 - [Arrêté du 31 janvier 1974](arrete-du-31-janvier-1974)
