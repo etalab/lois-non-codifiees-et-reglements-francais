@@ -45,3 +45,5 @@ En vue du traitement des bourses de collège pour les élèves inscrits dans un 
 - numéro de l'établissement précédent de l'élève (an dernier ou plus ancien) ;
 
 - code monnaie de paiement (euros ou francs).
+
+Les directeurs de centres de formation d'apprentis pour les données concernant les élèves entrant dans leur établissement : numéro INE, numéro de l'établissement fréquenté l'année précédente, deux dernières classes fréquentées.

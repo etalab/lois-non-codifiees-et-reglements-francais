@@ -6,7 +6,7 @@ a) Dans l'établissement, les catégories d'informations nominatives enregistré
 
 - nom, prénom, sexe, date de naissance, département de naissance, commune de naissance, code majorité (O, N), code orphelin (O, N) ;
 
-- numéro matricule national, numéro provisoire de l'élève, numéro élève établissement ;
+- identifiant national élève (INE), numéro provisoire de l'élève, numéro élève établissement ;
 
 - nationalité à des fins exclusivement statistiques ;
 
@@ -48,7 +48,7 @@ b) Au niveau académique, les catégories d'informations nominatives utilisées 
 
 - nom, prénom, sexe, date de naissance, département de naissance, commune de naissance, code orphelin (O, N) ;
 
-- numéro de matricule national, numéro provisoire de l'élève ;
+- identifiant national élève (INE), adresse et commune de résidence de l'élève et du responsable de l'élève, numéro provisoire de l'élève ;
 
 - nationalité à des fins exclusivement statistiques ;
 
@@ -68,7 +68,7 @@ c) Au niveau national, les informations nominatives utilisées dans le cadre du 
 
 - département de naissance ;
 
-- numéro de matricule ;
+- identifiant national élève (INE) ;
 
 - nationalité ;
 
