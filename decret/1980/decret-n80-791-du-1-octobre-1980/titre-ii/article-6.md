@@ -1,0 +1,3 @@
+# Article 6
+
+Lorsque, pour une cause quelconque, à l'occasion d'un transport, quelle qu'en soit la destination, l'acheminement des animaux est interrompu ou retardé, ou lorsqu'il est constaté par l'autorité compétente que les dispositions relatives à leur protection en cours de transport ne sont pas respectées, le préfet prend les mesures nécessaires pour que toute souffrance soit épargnée aux animaux ou qu'elle soit réduite au minimum. L'abattage peut être ordonné, après accord du propriétaire ou de son mandataire, dans les cas où des soins appropriés ne pourraient être utilement donnés aux animaux. En ce qui concerne les espèces sauvages, dont la protection est prioritaire, l'abattage ne peut être prescrit qu'à titre exceptionnel.
