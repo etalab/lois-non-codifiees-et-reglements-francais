@@ -6,4 +6,4 @@ L'agrément mentionné à l'alinéa précédent n'est accordé, dans des conditi
 
 Les observatoires des loyers fournissent aux commissions départementales de conciliation et aux juges qui en font la demande les éléments d'information en leur possession permettant à ceux-ci de favoriser la conciliation des parties ou de trancher un litige.
 
-Le Gouvernement dépose tous les deux ans, sur le bureau des assemblées, lors de la seconde session ordinaire, un rapport sur l'évolution des loyers.
+Le Gouvernement dépose tous les deux ans, sur le bureau des assemblées, au cours du deuxième trimestre, un rapport sur l'évolution des loyers.
