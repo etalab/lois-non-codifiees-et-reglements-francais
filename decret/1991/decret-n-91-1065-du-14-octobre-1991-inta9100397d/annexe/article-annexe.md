@@ -24,9 +24,7 @@ Fonction d'accueil
 
 Emplois liés à la fonction d'accueil de publics externes ou internes à l'administration.
 
-Fonction, notamment d'encadrement, assortie de contraintes
-
-et de responsabilités particulières
+Fonction, notamment d'encadrement, assortie de contraintes et de responsabilités particulières
 
 Emplois de chef de bureau des étrangers et de la circulation à la préfecture de police.
 
@@ -52,9 +50,7 @@ Au titre des compétences techniques :
 
 - emplois hautement spécialisés impliquant l'utilisation de matériels ou de documentations techniques très particulières.
 
-3° PERSONNELS DES CORPS DES SERVICES
-
-techniques du matériel
+3° PERSONNELS DES CORPS DES SERVICES techniques du matériel
 
 Fonction d'encadrement
 
@@ -76,15 +72,15 @@ Sécurité civile :
 
 - emplois hautement spécialisés de la direction de la sécurité civile.
 
-4° PERSONNELS DES TRANSMISSIONS
+4° PERSONNELS DES SYSTEMES D'INFORMATION ET DE COMMUNICATION
 
 Fonction d'encadrement
 
-Emploi de chef du centre des transmissions et de l'informatique à l'administration centrale.
+Emploi de chef du centre des systèmes d'information et de communication et de l'informatique à l'administration centrale.
 
-Emplois d'encadrement dans les services régionaux des transmissions et de l'informatique liés à la modernisation du service des transmissions.
+Emplois d'encadrement dans les services régionaux des systèmes d'information et de communication et de l'informatique liés à la modernisation des systèmes d'information et de communication.
 
-Emplois de chef de service départemental des transmissions et de l'informatique.
+Emplois de chef de service départemental des systèmes d'information et de communication et de l'informatique.
 
 Emplois de surveillant de standard.
 
@@ -100,9 +96,7 @@ Fonctions de conseiller technique national ;
 
 Fonctions de conseiller technique régional.
 
-6° PERSONNELS DES GREFFES DES TRIBUNAUX ADMINISTRATIFS
-
-et des cours administratives d'appel
+6° PERSONNELS DES GREFFES DES TRIBUNAUX ADMINISTRATIFS et des cours administratives d'appel
 
 Emplois afférents à la gestion du budget des juridictions.
 
@@ -132,9 +126,7 @@ Fonction d'accueil
 
 Emplois liés à la fonction d'accueil des publics externes et internes à l'administration.
 
-Fonction notamment d'encadrement assortie de contraintes
-
-et de responsabilités particulières
+Fonction notamment d'encadrement assortie de contraintes et de responsabilités particulières
 
 Emplois de chef de bureau des étrangers, de la circulation et de l'hygiène mentale à la préfecture de police.
 
@@ -196,15 +188,15 @@ Sécurité civile :
 
 - emplois hautement spécialisés de la direction de la sécurité civile.
 
-PERSONNELS DES TRANSMISSIONS
+PERSONNELS DES SYSTEMES D'INFORMATION ET DE COMMUNICATION
 
 Fonction d'encadrement
 
-Emplois d'encadrement au centre des transmissions et de l'informatique à l'administration centrale.
+Emplois d'encadrement au centre des systèmes d'information et de communication et de l'informatique à l'administration centrale.
 
-Emplois d'encadrement dans les services régionaux des transmissions et de l'information liés à la modernisation du service des transmissions.
+Emplois d'encadrement dans les services régionaux des systèmes d'information et de communication et de l'information liés à la modernisation des systèmes d'information et de communication.
 
-Emplois de chef de service départemental des transmissions et de l'informatique.
+Emplois de chef de service départemental des systèmes d'information et de communication et de l'informatique.
 
 Emplois de surveillant de standard.
 
@@ -224,9 +216,7 @@ PERSONNELS DES GREFFES DES TRIBUNAUX ADMINISTRATIFS ET DES COURS ADMINISTRATIVES
 
 Emplois afférents à la gestion du budget des juridictions.
 
-Personnels en poste dans les départements
-
-et collectivités territoriales d'outre-mer
+Personnels en poste dans les départements et collectivités territoriales d'outre-mer
 
 Fonction d'accueil
 
@@ -320,15 +310,15 @@ Immobilier : emplois de gestionnaire immobilier ou responsable de la définition
 
 Sécurité civile : emplois hautement spécialisés à la direction de la sécurité civile.
 
-PERSONNELS DES CORPS DES TRANSMISSIONS ET DE L'INFORMATIQUE
+PERSONNELS DES CORPS DES SYSTEMES D'INFORMATION ET DE COMMUNICATION ET DE L'INFORMATIQUE
 
 Fonctions d'encadrement
 
-Emplois d'encadrement au centre des transmissions et de l'informatique à l'administration centrale.
+Emplois d'encadrement au centre des systèmes d'information et d communication et de l'informatique à l'administration centrale.
 
-Emplois d'encadrement dans les services régionaux (ou zonaux) des transmissions et de l'informatique liés à la modernisation du service des transmissions et de l'informatique.
+Emplois d'encadrement dans les services régionaux (ou zonaux) des systèmes d'information et de communication et de l'informatique liés à la modernisation des systèmes d'information et de communication et de l'informatique.
 
-Emplois de chef de service départemental des transmissions et de l'informatique.
+Emplois de chef de service départemental des systèmes d'information et de communication et de l'informatique.
 
 Emplois de surveillant de standard.
 
@@ -378,9 +368,7 @@ FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATIO
 
 PERSONNELS DE L'ADMINISTRATION CENTRALE
 
-Fonction, notamment d'encadrement,
-
-assortie de contraintes et de responsabilités particulières
+Fonction, notamment d'encadrement, assortie de contraintes et de responsabilités particulières
 
 Emploi d'adjoint du préfet, secrétaire général pour l'administration de la police.
 
@@ -410,7 +398,7 @@ Fonctions d'accueil
 
 Emploi d'accueil général.
 
-PERSONNELS DES CORPS DES TRANSMISSIONS ET DE L'INFORMATIQUE
+PERSONNELS DES CORPS DES SYSTEMES D'INFORMATION ET DE COMMUNICATION ET DE L'INFORMATIQUE
 
 Fonctions impliquant une technicité particulière
 
@@ -422,4 +410,4 @@ Emploi de responsable technique messagerie et réseaux.
 
 Emploi de chef de centre de production de la carte nationale d'identité.
 
-Emploi de chef de magasin central et atelier national des transmissions et de l'informatique.
+Emploi de chef de magasin central et atelier national des systèmes d'information et de communication et de l'informatique.
