@@ -6,7 +6,7 @@ Les dispositions du V de l'article 8 sont applicables dans les îles Wallis et F
 
 II. - Les dispositions des articles 13 à 15 sont applicables dans les îles Wallis et Futuna, en Polynésie française et en Nouvelle-Calédonie.
 
-III. - Les dispositions de l'article 17 sont applicables en Nouvelle-Calédonie. Les dispositions du II de l'article 17 sont applicables à Mayotte, dans les îles Wallis et Futuna et en Polynésie française.
+III. - Les dispositions du II de l'article 17 sont applicables en Nouvelle-Calédonie, à Mayotte, dans les îles Wallis et Futuna et en Polynésie française.
 
 IV. - (Paragraphe modificateur).
 
