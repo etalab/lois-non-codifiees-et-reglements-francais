@@ -1,7 +1,13 @@
 # Article 2
 
-Les cotisations dues au titre des assurances maladie, maternité, invalidité, vieillesse, décès et veuvage ainsi que les cotisations de prestations familiales dues par les personnes mentionnées au 3° de l'article 1061 du code rural sont versées par les employeurs occupant plus de neuf salariés à la caisse de mutualité sociale agricole [*compétente*] dont ils relèvent dans les conditions suivantes :
+Les cotisations dues au titre des assurances maladie, maternité, invalidité, vieillesse, décès et veuvage ainsi que les cotisations de prestations familiales dues par les personnes mentionnées au 3° de l'article 1061 du code rural sont versées à la caisse de mutualité sociale agricole [*compétente*] dont ils relèvent dans les conditions suivantes :
 
-1° Les cotisations dues à raison des rémunérations payées au cours des dix premiers jours d'un mois civil sont versées par les employeurs dans les quinze premiers jours du même mois [*délai*] ;
+1° Pour les employeurs occupant plus de neuf salariés et moins de cinquante salariés, les cotisations dues à raison des rémunérations payées au cours des dix premiers jours d'un mois civil sont versées par les employeurs dans les quinze premiers jours du même mois ; les cotisations dues à raison des rémunérations payées après le dixième jour d'un mois civil sont versées par les employeurs dans les quinze premiers jours du mois civil suivant ;
 
-2° Les cotisations dues à raison des rémunérations payées après le dixième jour d'un mois civil sont versées le mois civil suivant, dans les cinq premiers jours pour les employeurs occupant cinquante salariés et plus, dans les quinze premiers jours par les employeurs occupant plus de neuf et moins de cinquante salariés [*effectif*].
+2° Pour les employeurs occupant cinquante salariés et plus :
+
+- les cotisations dues à raison des rémunérations payées entre le premier et le dixième jour d'un mois civil sont versées par les employeurs dans les quinze premiers jours du même mois civil ;
+
+- les cotisations dues à raison des rémunérations payées entre le onzième et le vingtième jour d'un mois civil sont versées par les employeurs au plus tard le vingt-cinquième jour du même mois civil ; toutefois, les cotisations dues à raison des rémunérations afférentes exclusivement à la période d'emploi de ce même mois civil sont versées par les employeurs dans les cinq premiers jours du mois civil suivant ;
+
+- les cotisations dues à raison des rémunérations payées entre le vingt et unième jour d'un mois civil et le dernier jour de ce même mois sont versées par les employeurs dans les cinq premiers jours du mois civil suivant.
