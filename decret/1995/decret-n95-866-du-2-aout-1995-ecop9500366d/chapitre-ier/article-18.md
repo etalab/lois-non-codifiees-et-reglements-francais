@@ -8,7 +8,7 @@ Dans la limite de l'ancienneté moyenne exigée à l'article 32 pour une promoti
 
 Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leur précédent grade ou classe conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant de l'avancement à ce dernier échelon.
 
-II. - Les fonctionnaires appartenant à un corps ou à un grade d'emploi classé dans la catégorie B ou de même niveau sont nommés dans le grade d'inspecteur à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées à l'article 32 pour chaque avancement d'échelon, leur ancienneté dans cette catégorie dans les conditions définies aux alinéas suivants.
+II. - Les fonctionnaires appartenant à un corps ou à un cadre d'emploi classé dans la catégorie B ou de même niveau sont nommés dans le grade d'inspecteur à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées à l'article 32 pour chaque avancement d'échelon, leur ancienneté dans cette catégorie dans les conditions définies aux alinéas suivants.
 
 Cette ancienneté correspond à la durée de la carrière nécessaire pour accéder au grade et à l'échelon que les fonctionnaires intéressés ont atteints, à la date de leur nomination comme inspecteur, augmentée, le cas échéant, de l'ancienneté acquise dans cet échelon à cette date.
 
