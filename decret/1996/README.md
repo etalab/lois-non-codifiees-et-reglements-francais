@@ -501,7 +501,6 @@
 - [Décret n°96-837 du 17 septembre 1996 (EQUP9600537D)](decret-n96-837-du-17-septembre-1996-equp9600537d)
 - [Décret n°96-839 du 17 septembre 1996 (ECOX9601678D)](decret-n96-839-du-17-septembre-1996-ecox9601678d)
 - [Décret n°96-926 du 17 octobre 1996 (INTD9600265D)](decret-n96-926-du-17-octobre-1996-intd9600265d)
-- [Décret n°96-928 du 17 octobre 1996 (AGRH9601771D)](decret-n96-928-du-17-octobre-1996-agrh9601771d)
 - [Décret n°96-934 du 17 octobre 1996 (DOMP9600024D)](decret-n96-934-du-17-octobre-1996-domp9600024d)
 - [Décret n°98-480 du 17 juin 1998 (JUSF9850039D)](decret-n98-480-du-17-juin-1998-jusf9850039d)
 - [Décret n°98-481 du 17 juin 1998 (JUSF9850029D)](decret-n98-481-du-17-juin-1998-jusf9850029d)
