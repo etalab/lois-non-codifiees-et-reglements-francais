@@ -123,6 +123,7 @@
 - [Décret n°2002-455 du 3 avril 2002 (ECOF0220113D)](decret-n2002-455-du-3-avril-2002-ecof0220113d)
 - [Décret n°2002-457 du 3 avril 2002 (EQUK0200573D)](decret-n2002-457-du-3-avril-2002-equk0200573d)
 - [Décret n°2002-458 du 3 avril 2002 (CPTE0200007D)](decret-n2002-458-du-3-avril-2002-cpte0200007d)
+- [Décret n°2002-478 du 3 avril 2002 (ECOC0200051D)](decret-n2002-478-du-3-avril-2002-ecoc0200051d)
 - [Décret n°2002-479 du 3 avril 2002 (JUSD0230053D)](decret-n2002-479-du-3-avril-2002-jusd0230053d)
 - [Décret n°2002-7 du 3 janvier 2002 (MESX0100153D)](decret-n2002-7-du-3-janvier-2002-mesx0100153d)
 - [Décret n°2002-947 du 3 juillet 2002 (PRMX0200115D)](decret-n2002-947-du-3-juillet-2002-prmx0200115d)
