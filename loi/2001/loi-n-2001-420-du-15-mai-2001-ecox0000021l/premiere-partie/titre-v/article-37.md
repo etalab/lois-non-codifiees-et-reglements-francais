@@ -1,0 +1,3 @@
+# Article 37
+
+Les mesures prévues aux articles 34 et 36 de la présente loi relatives aux opérations réalisées avec des personnes domiciliées, enregistrées, établies ou ayant un compte dans un Etat ou un territoire dont la législation est reconnue insuffisante ou dont les pratiques sont considérées comme faisant obstacle à la lutte contre le blanchiment des capitaux par l'instance internationale de concertation et de coordination en matière de lutte contre le blanchiment de l'argent font l'objet d'un rapport annuel du Gouvernement au Parlement. Ce rapport fera état, en particulier, des mesures analogues adoptées, le cas échéant, par les autres Etats membres de cette instance.

@@ -9,6 +9,7 @@
 - [Loi n° 2001-341 du 19 avril 2001 (MAEX0000080L)](loi-n-2001-341-du-19-avril-2001-maex0000080l)
 - [Loi n° 2001-397 du 9 mai 2001 (MESX0004004L)](loi-n-2001-397-du-9-mai-2001-mesx0004004l)
 - [Loi n° 2001-398 du 9 mai 2001 (ATEX0004088L)](loi-n-2001-398-du-9-mai-2001-atex0004088l)
+- [Loi n° 2001-420 du 15 mai 2001 (ECOX0000021L)](loi-n-2001-420-du-15-mai-2001-ecox0000021l)
 - [Loi n° 2001-43 du 16 janvier 2001 (EQUX9900075L)](loi-n-2001-43-du-16-janvier-2001-equx9900075l)
 - [Loi n° 2001-44 du 17 janvier 2001 (MCCX9900003L)](loi-n-2001-44-du-17-janvier-2001-mccx9900003l)
 - [Loi n° 2001-70 du 29 janvier 2001 (PRMX9803012L)](loi-n-2001-70-du-29-janvier-2001-prmx9803012l)

@@ -1,6 +1,6 @@
 # Article 8
 
-Les actions des sociétés d'exercice libéral à forme anonyme ou en commandite par actions revêtent la forme nominative [*forme des titres*].
+Les actions des sociétés d'exercice libéral à forme anonyme, par actions simplifiée ou en commandite par actions revêtent la forme nominative [*forme des titres*].
 
 Par dérogation aux dispositions de l'article 175 de la loi n° 66-537 du 24 juillet 1966 précitée, aucun droit de vote double ne peut être attribué aux actions des sociétés visées à l'alinéa précédent détenues par des actionnaires autres que des professionnels en exercice au sein de la société.
 

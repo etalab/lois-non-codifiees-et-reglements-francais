@@ -15,3 +15,5 @@ Dans les entreprises visées au 3 de l'article 1er et au premier alinéa du pré
 Toutefois, ils sont de cinq dans les conseils d'administration ou les conseils de surveillance des banques, des établissements financiers et des établissements de crédit à statut légal spécial dont les effectifs sont inférieurs à 30.000.
 
 Dans les compagnies financières mentionnées au titre III de la loi du 11 février 1982 précitée, les représentants de chacune de ces catégories sont de cinq. Ils sont nommés par décret et, pour ce qui concerne les représentants des salariés, selon les modalités prévues à l'article 36 de la loi précitée. Les représentants des salariés doivent remplir les conditions prévues à l'article 15 de la présente loi.
+
+Dans les conseils d'administration ou de surveillance des entreprises publiques mentionnées au présent article et qui sont chargés d'une mission de service public, au moins une des personnalités désignées en application du 2° du présent article doit être choisie parmi les représentants des consommateurs ou des usagers.
