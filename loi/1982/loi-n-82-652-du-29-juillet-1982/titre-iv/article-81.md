@@ -1,0 +1,9 @@
+# Article 81
+
+Est considéré comme un service local de radiodiffusion sonore par voie hertzienne tout service de radiodiffusion sonore à modulation de fréquence couvrant une zone équivalente à celle dont aucun point n'est éloigné de plus de 30 km du point d'émission [*radio locale - définition - distance*]. Pour ces services, peuvent seules présenter une demande d'autorisation les associations déclarées selon la loi du 1er juillet 1901 ou les associations à but non lucratif régies par la loi locale dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle [*Alsace et Lorraine*].
+
+Les collectivités territoriales et les établissements publics peuvent contribuer, directement ou indirectement, aux charges de création et de fonctionnement d'un ou de plusieurs services autorisés au titre du présent article, sans que le total de leurs contributions à un même service puisse excéder le quart de ces charges [*proportion - limite*].
+
+La participation [*financière*] d'une même personne de droit privé au financement des charges de création et de fonctionnement d'un service autorisé au titre du présent article ne peut excéder le quart de ces charges.
+
+La collecte des ressources publicitaires et la diffusion des messages publicitaires sont interdites aux services autorisés au titre du présent article. Le Gouvernement mettra en place, dans un délai de six mois, un mécanisme d'aide à ces services selon des modalités fixées par décret en Conseil d'Etat. Le financement de cette mesure sera assuré par un prélèvement sur les ressources provenant de la publicité diffusée par voie de radiodiffusion sonore et de télévision.
