@@ -20,6 +20,7 @@
 - [Article 64](article-64.md)
 - [Article 65](article-65.md)
 - [Article 66](article-66.md)
+- [Article 67](article-67.md)
 - [Article 67-1](article-67-1.md)
 - [Article 67-2](article-67-2.md)
 - [Article 67-3](article-67-3.md)
