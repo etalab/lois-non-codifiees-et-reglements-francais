@@ -2,5 +2,4 @@
 
 - [Article 1](article-1.md)
 - [Titre Ier : Commission interprofessionnelle d'arbitrage.](titre-ier)
-- [Titre II : Commission de contrôle de l'application de la réglementation.](titre-ii)
 - [Article 9](article-9.md)
