@@ -2,6 +2,7 @@
 
 - [Décret n°70-26 du 8 janvier 1970](decret-n70-26-du-8-janvier-1970)
 - [Décret n°70-207 du 9 mars 1970](decret-n70-207-du-9-mars-1970)
+- [Décret n°70-240 du 9 mars 1970](decret-n70-240-du-9-mars-1970)
 - [Décret n° 70-43 du 13 janvier 1970](decret-n-70-43-du-13-janvier-1970)
 - [Décret n°70-128 du 14 février 1970](decret-n70-128-du-14-fevrier-1970)
 - [Décret n° 70-210 du 17 mars 1970](decret-n-70-210-du-17-mars-1970)
