@@ -3,6 +3,7 @@
 - [Décret n°75-1109 du 2 décembre 1975](decret-n75-1109-du-2-decembre-1975)
 - [Décret n°76-117 du 3 février 1976](decret-n76-117-du-3-fevrier-1976)
 - [Décret n°75-1201 du 4 décembre 1975](decret-n75-1201-du-4-decembre-1975)
+- [Décret n°75-713 du 4 août 1975](decret-n75-713-du-4-aout-1975)
 - [Décret n°75-721 du 6 août 1975](decret-n75-721-du-6-aout-1975)
 - [Décret n°75-465 du 9 juin 1975](decret-n75-465-du-9-juin-1975)
 - [Décret n°75-1136 du 11 décembre 1975](decret-n75-1136-du-11-decembre-1975)
