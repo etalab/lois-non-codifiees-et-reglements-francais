@@ -687,6 +687,7 @@
 - [Arrêté du 24 avril 2002 (MESS0221498A)](arrete-du-24-avril-2002-mess0221498a)
 - [Arrêté du 24 décembre 2001 (ECOI0100662A)](arrete-du-24-decembre-2001-ecoi0100662a)
 - [Arrêté du 24 décembre 2001 (EQUE0101933A)](arrete-du-24-decembre-2001-eque0101933a)
+- [Arrêté du 24 décembre 2002 (SANG0223569A)](arrete-du-24-decembre-2002-sang0223569a)
 - [Arrêté du 24 décembre 2002 (SANS0224310A)](arrete-du-24-decembre-2002-sans0224310a)
 - [Arrêté du 24 janvier 2002 (ECOP0100614A)](arrete-du-24-janvier-2002-ecop0100614a)
 - [Arrêté du 24 janvier 2002 (ECOP0100641A)](arrete-du-24-janvier-2002-ecop0100641a)
