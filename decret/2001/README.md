@@ -346,6 +346,7 @@
 - [Décret n°2001-1277 du 21 décembre 2001 (ECOT0114138D)](decret-n2001-1277-du-21-decembre-2001-ecot0114138d)
 - [Décret n°2001-172 du 21 février 2001 (ECOD0170000D)](decret-n2001-172-du-21-fevrier-2001-ecod0170000d)
 - [Décret n°2001-865 du 21 septembre 2001 (MESC0111336D)](decret-n2001-865-du-21-septembre-2001-mesc0111336d)
+- [Décret n°2001-442 du 21 mai 2001 (AGRP0100029D)](decret-n2001-442-du-21-mai-2001-agrp0100029d)
 - [Décret n°2001-1099 du 22 novembre 2001 (JUSB0110484D)](decret-n2001-1099-du-22-novembre-2001-jusb0110484d)
 - [Décret n°2001-1104 du 22 novembre 2001 (AGRS0101964D)](decret-n2001-1104-du-22-novembre-2001-agrs0101964d)
 - [Décret n°2001-248 du 22 mars 2001 (MESG0120072D)](decret-n2001-248-du-22-mars-2001-mesg0120072d)
