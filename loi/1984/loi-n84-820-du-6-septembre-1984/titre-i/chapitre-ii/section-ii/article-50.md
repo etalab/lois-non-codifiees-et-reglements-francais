@@ -2,7 +2,7 @@
 
 L'assemblée territoriale tient chaque année deux sessions ordinaires sur convocation de son président. La première, dite session administrative, s'ouvre entre le 1er mars et le 30 avril. La seconde, dite session budgétaire, s'ouvre entre le 1er septembre et le 31 octobre.
 
-L'assemblée territoriale fixe, par délibération, la date d'ouverture et la durée de ses sessions ordinaires. Cette durée ne peut excéder deux mois.
+L'assemblée territoriale fixe, par délibération, la date d'ouverture et la durée de ses sessions ordinaires. cette durée ne peut être inférieure à deux mois ni excéder trois mois ".
 
 Si elle se sépare sans avoir fixé la date d'ouverture de sa prochaine session ordinaire, cette date est déterminée par la commission permanente.
 

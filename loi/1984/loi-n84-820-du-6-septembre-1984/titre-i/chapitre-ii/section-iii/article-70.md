@@ -1,5 +1,5 @@
 # Article 70
 
-La commission permanente règle par ses délibérations, dans la limite de la délégation qui lui est consentie et qui ne peut comprendre les matières mentionnées aux articles 63, 68, 69 et 79, les affaires qui lui sont renvoyées par l'assemblée territoriale.
+Entre les sessions, la commission permanente règle par ses délibérations les affaires qui lui sont renvoyées par l'assemblée territoriale ou qui lui sont adressées, en raison de l'urgence, par le gouvernement du territoire. Toutefois, les délibérations relatives au vote du budget annuel du territoire, au compte administratif du territoire, au vote de la motion de censure ainsi qu'aux consultations prévues à l'article 68 sont exclues de la compétence de la commission permanente.
 
-Sous réserve des dispositions du deuxième alinéa de l'article 71, la commission permanente peut, en cas d'urgence, décider l'ouverture de crédits supplémentaires.
+La commission permanente peut adopter des délibérations pour effectuer des virements de crédits d'un chapitre à l'autre de la même section du budget territorial. Ces virements sont autorisés sous réserve d'intervenir à l'intérieur du même titre du budget et d'être maintenus dans la limite du dixième de la dotation de chacun des chapitres intéressés. "

@@ -8,9 +8,11 @@ Le conseil des ministres du territoire :
 
 3° Arrête les programmes d'études et de traitement de données statistiques ;
 
-4° Arrête les cahiers des charges des concessions de service public territorial ;
+4° Arrête les cahiers des charges et autorise la conclusion des concessions de service public territorial ;
 
 5° Détermine la nature et les tarifs des prestations des services publics territoriaux et des cessions de matières, matériels et matériaux ;
+
+6° Autorise la conclusion des conventions entre le territoire et tout contractant dans les conditions prévues par la réglementation en vigueur ;
 
 6° Autorise la conclusion des conventions entre le territoire et ses fermiers, concessionnaires et autres contractants ;
 
@@ -22,6 +24,14 @@ Le conseil des ministres du territoire :
 
 10° Administre les intérêts patrimoniaux et domaniaux du territoire dans les conditions et limites fixées par l'assemblée territoriale : acquisitions, ventes, échanges ou baux et locations ;
 
-11° Accepte ou refuse les dons et legs au profit du territoire. Le conseil des ministres du territoire autorise, à peine de nullité, les transferts de propriété immobilière lorsque l'acquéreur est une société civile ou commerciale ou, s'il s'agit d'une personne physique, lorsqu'elle n'est pas domiciliée en Polynésie française ou si elle n'a pas la nationalité française.
+11° Accepte ou refuse les dons et legs au profit du territoire ;
 
-Le conseil des ministres du territoire peut, en outre, dans ces cas, exercer un droit de préemption au nom du territoire sur les immeubles en cause à charge de verser aux ayants droit le montant de la valeur desdits immeubles. Cette valeur est alors évaluée comme en matière d'expropriation. Il en est de même en cas de locations de propriétés immobilières d'une durée égale ou supérieure à dix ans.
+12° Décide d'intenter ou de soutenir les actions au nom du territoire et transige sur les litiges sous réserve des dispositions de l'article 66 ;
+
+13° Codifie les réglementations territoriales et procède à la mise à jour des codes ;
+
+14° Autorise, à peine de nullité, toute opération ayant pour effet le transfert entre vifs d'une propriété immobilière ou de droits sociaux y afférents, sauf si le bénéficiaire est de nationalité française et domicilié en Polynésie française ou, s'agissant d'une personne morale, y a son siège ; sont également soumises à autorisation les cessions d'actions de sociétés commerciales quand des biens immobiliers ou des participations immobilières constituent 75 p. 100 ou plus de l'ensemble des actifs figurant à leur bilan ;
+
+15° Dans les cas prévus au 14°, peut exercer un droit de préemption au nom du territoire sur les immeubles ou les droits sociaux en cause à charge de verser aux ayants droit le montant de la valeur desdits immeubles ; à défaut d'accord amiable, cette valeur est alors fixée comme en matière d'expropriation ;
+
+16° Prend les arrêtés de déclaration d'utilité publique et d     e cessibilité lorsque l'expropriation est poursuivie pour le compte du territoire. "

@@ -1,4 +1,4 @@
-# CHAPITRE III - Du comité économique et social
+# CHAPITRE III - Du conseil économique, social et culturel.
 
 - [Article 82](article-82.md)
 - [Article 83](article-83.md)

@@ -1,9 +1,7 @@
 # Article 8
 
-Dans les cinq jours suivant son élection [*délai*], le président du gouvernement du territoire présente à l'assemblée territoriale la liste des ministres. Il indique le nom du vice-président chargé d'assurer son intérim en cas d'absence ou d'empêchement.
+Dans le délai maximum de cinq jours suivant son élection, le président du gouvernement du territoire notifie au haut-commissaire et au président de l'assemblée territoriale l'arrêté par lequel il nomme le vice-président chargé d'assurer son intérim en cas d'absence ou d'empêchement et les autres ministres avec indication pour chacun d'eux des fonctions dont ils sont chargés. Cet arrêté est immédiatement porté à la connaissance des membres de l'assemblée par son président. A défaut de notification de cet arrêté dans le délai précité par le président du gouvernement du territoire, celui-ci est considéré comme démissionnaire. Il est donné acte de cette démission dans les conditions prévues à l'article 16.
 
-L'assemblée territoriale se prononce sur cette liste dans les mêmes conditions que celles prévues à l'alinéa 1er de l'article 6.
+" La nomination du vice-président et des autres ministres prend effet à l'expiration du délai de quarante-huit heures qui suit la notification au président de l'assemblée territoriale ou, en cas de dépôt dans ce délai d'une motion de censure, à la date du rejet de cette dernière. La motion de censure est présentée, signée et votée dans les conditions prévues à l'article 79. Par dérogation aux dispositions du deuxième alinéa de l'article 50 ou aux dispositions du deuxième alinéa de l'article 51, la durée de la session au cours de laquelle est élu le président du gouvernement du territoire est prolongée, s'il y a lieu, d'autant de jours nécessaires au dépôt éventuel de la motion de censure dans les délais précités et, en cas de motion de censure, jusqu'au vote sur celle-ci.
 
-La nomination des ministres prend effet si la liste recueille la majorité des suffrages des membres composant l'assemblée.
-
-Les attributions de chacun d'entre eux sont définies par arrêté du président transmis au haut-commissaire et au président de l'assemblée territoriale.
+" Les attributions de chacun des membres du gouvernement sont définies par arrêté du président transmis au haut-commissaire et au président de l'assemblée territoriale. "

@@ -8,7 +8,7 @@ Le conseil des ministres du territoire est obligatoirement consulté suivant le 
 
 3° Sécurité civile et notamment préparation du plan ORSEC ;
 
-4° Décisions relatives aux projets d'investissements directs étrangers en Polynésie française ne relevant pas de la compétence du territoire en vertu de l'article 28 ;
+4° (Abrogé)
 
 5° Accords de pêche, conditions de la desserte aérienne internationale et de cabotage avec le territoire ;
 
@@ -17,5 +17,7 @@ Le conseil des ministres du territoire est obligatoirement consulté suivant le 
 7° Organisation législative de l'état civil ;
 
 8° Création, suppression, modification des subdivisions administratives territoriales, et nomination par le Gouvernement de la République des chefs de subdivision.
+
+Pour l'application du 6°, il est institué un comité consultatif composé à parts égales de représentants de l'Etat et de représentants du territoire dont les modalités de fonctionnement sont fixées par décret, après avis de l'assemblée territoriale. "
 
 Le conseil des ministres dispose d'un délai d'un mois pour émettre son avis.

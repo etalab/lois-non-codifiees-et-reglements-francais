@@ -1,4 +1,4 @@
-# SECTION III - Attributions du gouvernement du territoire et de ses membres
+# SECTION III - Attributions du gouvernement du territoire.
 
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)
@@ -20,3 +20,4 @@
 - [Article 41](article-41.md)
 - [Article 42](article-42.md)
 - [Article 43](article-43.md)
+- [peut décider de suspendre ou de réduire, à titre provisoire, tous droits fiscaux d'entrée et de sortie et tous droits indirects frappant les articles à la production, à la circulation ou à la consommation](peut-decider-de-suspendre-ou)
