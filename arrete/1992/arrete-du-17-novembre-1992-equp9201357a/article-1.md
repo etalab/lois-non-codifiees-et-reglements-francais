@@ -1,0 +1,3 @@
+# Article 1
+
+L'indemnité spéciale de décentralisation, l'allocation à la mobilité des conjoints et le complément exceptionnel de localisation en province institués respectivement par les décrets du 23 mars 1978, du 21 mai 1980 et du 11 juin 1992 susvisés peuvent être attribués aux personnels titulaires, aux personnels contractuels et aux ouvriers de parcs et ateliers du service technique de la navigation maritime et des transmissions de l'équipement mutés ou déplacés avant le 1er octobre 1993 pour suivre la division de la signalisation maritime et la division de l'océanographie à l'occasion de leur transfert de Bonneuil-sur-Marne à Brest.
