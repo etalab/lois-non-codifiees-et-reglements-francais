@@ -1,6 +1,6 @@
 # Article 3
 
-La caisse centrale de secours mutuels agricoles participe par ses services au contrôle des opérations des caisses de mutualité sociale agricole, notamment en ce qui concerne leur fonctionnement et l'utilisation des fonds mis à leur disposition.
+La caisse centrale de la mutualité sociale agricole participe par ses services au contrôle des opérations des caisses de mutualité sociale agricole, notamment en ce qui concerne leur fonctionnement et l'utilisation des fonds mis à leur disposition.
 
 Elle peut faire prendre connaissance par ses agents, auprès desdites caisses et des bureaux départementaux prévus à l'article 8 ci-dessous, de toutes pièces relatives aux opérations de l'assurance.
 
@@ -10,10 +10,6 @@ Elle est chargée :
 
 1° De centraliser sur le plan national et de contrôler toutes informations nécessaires au fonctionnement de l'assurance, et notamment d'établir, dans les conditions fixées par le ministre de l'agriculture, toutes statistiques relatives aux opérations de l'assurance ;
 
-2° De coordonner l'activité de l'ensemble des organismes de gestion de l'assurance, et notamment de procéder en fonction des dépenses régulièrement effectuées par les différents organismes assureurs et des cotisations dont l'encaissement leur incombe :
-
-a) A la répartition entre les caisses de mutualité sociale agricole et entre tous autres organismes assureurs des sommes mises à sa disposition par le budget annexe des prestations sociales agricoles au titre de la participation de l'Etat ;
-
-b) A la compensation des opérations de l'assurance entre organismes assureurs dans les conditions fixées par décret en tant que de besoin.
+2° De coordonner l'activité de l'ensemble des organismes de gestion de l'assurance, et notamment de procéder, en fonction des dépenses régulièrement effectuées par les différents organismes assureurs et des cotisations dont l'encaissement leur incombe, à la répartition entre les caisses de mutualité sociale agricole et entre tous autres organismes assureurs des sommes mises à sa disposition par le budget annexe des prestations sociales agricoles au titre de la participation de l'Etat.
 
 3° D'assurer le service de toute documentation utile et le cas échéant d'instituer après autorisation conjointe du ministre de l'agriculture et des ministres intéressés, tous services communs nécessaires au bon fonctionnement de l'ensemble des organismes de gestion de l'assurance.
