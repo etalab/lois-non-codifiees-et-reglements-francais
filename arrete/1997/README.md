@@ -937,7 +937,6 @@
 - [Arrêté du 25 avril 1997 (MENU9701024A)](arrete-du-25-avril-1997-menu9701024a)
 - [Arrêté du 25 avril 1997 (MSJK9770041A)](arrete-du-25-avril-1997-msjk9770041a)
 - [Arrêté du 25 avril 1997 (TAST9710113A)](arrete-du-25-avril-1997-tast9710113a)
-- [Arrêté du 25 février 1997 (AGRB9700006A)](arrete-du-25-fevrier-1997-agrb9700006a)
 - [Arrêté du 25 février 1997 (ECOS9750008A)](arrete-du-25-fevrier-1997-ecos9750008a)
 - [Arrêté du 25 février 1997 (ECOS9750009A)](arrete-du-25-fevrier-1997-ecos9750009a)
 - [Arrêté du 25 février 1997 (EQUH9700465A)](arrete-du-25-fevrier-1997-equh9700465a)
