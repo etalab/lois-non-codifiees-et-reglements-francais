@@ -12,5 +12,6 @@
 - [Arrêté du 22 juillet 1959](arrete-du-22-juillet-1959)
 - [Arrêté du 23 août 1962](arrete-du-23-aout-1962)
 - [Arrêté du 27 février 1961](arrete-du-27-fevrier-1961)
+- [Arrêté du 27 juillet 1961](arrete-du-27-juillet-1961)
 - [Arrêté du 28 juillet 1961](arrete-du-28-juillet-1961)
 - [Arrêté du 31 mars 1961](arrete-du-31-mars-1961)
