@@ -68,7 +68,6 @@
 - [Arrêté du 3 septembre 1982 (ASEX8798216A)](arrete-du-3-septembre-1982-asex8798216a)
 - [Arrêté du 3 septembre 1987 (JUSE8740046A)](arrete-du-3-septembre-1987-juse8740046a)
 - [Arrêté du 3 mai 1988 (ASEH8800455D)](arrete-du-3-mai-1988-aseh8800455d)
-- [Arrêté du 4 août 1987 (ASES8701007A)](arrete-du-4-aout-1987-ases8701007a)
 - [Arrêté du 4 août 1987 (BUDR8703100A)](arrete-du-4-aout-1987-budr8703100a)
 - [Arrêté du 4 août 1987 (ECOX8798328A)](arrete-du-4-aout-1987-ecox8798328a)
 - [Arrêté du 4 août 1987 (ECOX8798329A)](arrete-du-4-aout-1987-ecox8798329a)
