@@ -30,6 +30,7 @@
 - [Arrêté du 21 août 2000 (MENF0001989A)](arrete-du-21-aout-2000-menf0001989a)
 - [Arrêté du 21 décembre 2000 (MESH0023997A)](arrete-du-21-decembre-2000-mesh0023997a)
 - [Arrêté du 22 décembre 1999 (ECOS9950051A)](arrete-du-22-decembre-1999-ecos9950051a)
+- [Arrêté du 23 décembre 1999 (FPPA9900193A)](arrete-du-23-decembre-1999-fppa9900193a)
 - [Arrêté du 24 juillet 2000 (MESA0022638A)](arrete-du-24-juillet-2000-mesa0022638a)
 - [Arrêté du 26 décembre 2000 (MCCB0000675A)](arrete-du-26-decembre-2000-mccb0000675a)
 - [Arrêté du 26 décembre 2000 (MCCB0000688A)](arrete-du-26-decembre-2000-mccb0000688a)
