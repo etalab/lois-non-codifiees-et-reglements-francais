@@ -12,6 +12,7 @@
 - [25° Dermatoses professionnelles consécutives à l'emploi de lubrifiants et de fluides de refroidissement](25-dermatoses-professionnelles-consecutives-a)
 - [16° Affections professionnelles dues aux bacilles tuberculeux](16-affections-professionnelles-dues-aux)
 - [15° Mycoses cutanées, périonyxis et onyxis d'origine professionnelle](15-mycoses-cutanees-perionyxis-et)
+- [12° Maladies causées par le mercure et ses composés.](12-maladies-causees-par)
 - [14° Affections causées par les ciments](14-affections-causees-par)
 - [18° Maladies causées par le plomb et ses composés.](18-maladies-causees-par)
 - [19° Benzolisme professionnel (maladies causées par le benzène et ses homologues (toluène, xylène, etc.).](19-benzolisme-professionnel-maladies-causees-par)
