@@ -105,7 +105,6 @@
 - [Décret n°92-117 du 5 février 1992 (TEFX9210023D)](decret-n92-117-du-5-fevrier-1992-tefx9210023d)
 - [Décret n°92-118 du 5 février 1992 (ACVP9120045D)](decret-n92-118-du-5-fevrier-1992-acvp9120045d)
 - [Décret n°92-119 du 5 février 1992 (BUDF9200003D)](decret-n92-119-du-5-fevrier-1992-budf9200003d)
-- [Décret n°92-124 du 5 février 1992 (TEFE9204369D)](decret-n92-124-du-5-fevrier-1992-tefe9204369d)
 - [Décret n°92-130 du 5 février 1992 (MENF9102965D)](decret-n92-130-du-5-fevrier-1992-menf9102965d)
 - [Décret n°92-131 du 5 février 1992 (MENN9101210D)](decret-n92-131-du-5-fevrier-1992-menn9101210d)
 - [Décret n°92-132 du 5 février 1992 (RESY9100243D)](decret-n92-132-du-5-fevrier-1992-resy9100243d)
