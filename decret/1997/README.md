@@ -2,6 +2,7 @@
 
 - [Décret n°93-1272 du 1 décembre 1993 (INDA9300854D)](decret-n93-1272-du-1-decembre-1993-inda9300854d)
 - [Décret n°97-309 du 1 avril 1997 (MJSK9670143D)](decret-n97-309-du-1-avril-1997-mjsk9670143d)
+- [Décret n°85-659 du 2 juillet 1985](decret-n85-659-du-2-juillet-1985)
 - [Décret n°97-6 du 2 janvier 1997 (MAEJ9630073D)](decret-n97-6-du-2-janvier-1997-maej9630073d)
 - [Décret n°88-211 du 3 mars 1988 (RESY8800194D)](decret-n88-211-du-3-mars-1988-resy8800194d)
 - [Décret n°97-1 du 3 janvier 1997 (BUDL9600168D)](decret-n97-1-du-3-janvier-1997-budl9600168d)
