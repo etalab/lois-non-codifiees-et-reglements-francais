@@ -60,6 +60,7 @@
 - [Décret n°82-200 du 25 février 1982](decret-n82-200-du-25-fevrier-1982)
 - [Décret n°82-220 du 25 février 1982](decret-n82-220-du-25-fevrier-1982)
 - [Décret n°82-223 du 25 février 1982](decret-n82-223-du-25-fevrier-1982)
+- [Décret n°82-265 du 25 mars 1982](decret-n82-265-du-25-mars-1982)
 - [Décret n°82-1028 du 26 novembre 1982](decret-n82-1028-du-26-novembre-1982)
 - [Décret n°82-194 du 26 février 1982](decret-n82-194-du-26-fevrier-1982)
 - [Décret n°82-203 du 26 février 1982](decret-n82-203-du-26-fevrier-1982)
