@@ -2,3 +2,4 @@
 
 - [Titre Ier : L'administration centrale du ministère de l'éducation nationale](titre-ier)
 - [Titre II : L'administration centrale du ministère de la recherche](titre-ii)
+- [Article 17](article-17.md)
