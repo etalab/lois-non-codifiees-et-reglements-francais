@@ -1,19 +1,25 @@
 # Article 6
 
-Il est institué auprès de chaque caisse d'assurance maladie :
+La commission consultative des professions de santé instituée auprès des caisses d'assurance maladie et des caisses générales de sécurité sociale des départements d'outre-mer [*DOM*] est composée de représentants des professions médicales et d'auxiliaires médicaux régies par le code de la santé publique et désignés par les organisations syndicales de la circonscription affiliées aux organisations syndicales nationales les plus représentatives au sens des articles L. 259, L. 261, L. 266 et L. 267 du code de la sécurité sociale.
 
-Une commission médicale composée de neuf médecins exerçant dans le ressort de la caisse ;
+Chaque organisation désigne [*nombre, composition*] :
 
-Une commission pharmaceutique composée de cinq pharmaciens exerçant dans le ressort de la caisse ;
+Trois titulaires et trois suppléants pour les médecins ;
 
-Une commission dentaire composée de cinq chirurgiens-dentistes exerçant dans le ressort de la caisse.
+Deux titulaires et deux suppléants pour les chirurgiens-dentistes ;
 
-Ces commissions conseillent la caisse sur les questions de leur compétence [*attributions*]. Elles ont, en outre, pour mission d'informer collectivement et individuellement les membres de chaque profession de leurs responsabilités dans le fonctionnement et l'équilibre financier de l'assurance maladie. A cet effet, elles peuvent notamment convoquer certains d'entre eux et leur formuler des recommandations.
+Deux titulaires et deux suppléants pour les pharmaciens ;
 
-La commission médicale a compétence à l'égard des sages-femmes et auxiliaires médicaux. Lorsqu'elle délibère sur une question les concernant, elle est complétée par deux représentants de la catégorie professionnelle intéressée.
+Deux titulaires et deux suppléants pour les masseurs-kinésithérapeutes ;
 
-Les membres des commissions instituées par le présent article sont désignés par les organisations syndicales les plus représentatives de chaque catégorie professionnelle intéressée existant dans la circonscription de la caisse correspondante ou à défaut par les organisations nationales.
+Deux titulaires et deux suppléants pour les infirmiers ;
 
-Le cas échéant la répartition des sièges entre les différentes organisations syndicales est fixé, en ce qui concerne les caisses primaires et les caisses régionales, par le directeur régional de la sécurité sociale sur proposition du conseil d'administration de chaque caisse intéressée et, en ce qui concerne la caisse nationale, par le ministre des affaires sociales sur proposition du conseil d'administration de ladite caisse nationale.
+Un titulaire et un suppléant pour chacune des autres professions de santé.
 
-Les commissions prévues au présent article élisent un président. Le président de chaque commission ou un membre désigné par lui siège avec voix consultative au conseil d'administration de la caisse d'assurance maladie.
+Les membres de la commission doivent exercer dans le ressort de la caisse [*condition d'éligibilité*]. Ils sont désignés pour la durée du mandat du conseil d'administration de la caisse. Toutefois, les personnes qui cessent d'appartenir à l'organisation qui les a désignées sont déchues de leur mandat. Les membres appelés à les remplacer siègent pour la durée du mandat restant à courir.
+
+La commission élit son président.
+
+Elle peut être consultée par le conseil d'administration sur les questions de sa compétence.
+
+Elle désigne en son sein l'expert qui siège avec voix consultative au conseil d'administration.
