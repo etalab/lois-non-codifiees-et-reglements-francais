@@ -57,6 +57,7 @@
 - [Arrêté du 10 février 2000 (MENS0000396A)](arrete-du-10-fevrier-2000-mens0000396a)
 - [Arrêté du 10 mars 2000 (AGRM0000602A)](arrete-du-10-mars-2000-agrm0000602a)
 - [Arrêté du 10 novembre 1999 (ECOI9900528A)](arrete-du-10-novembre-1999-ecoi9900528a)
+- [Arrêté du 11 avril 2000 (ECOD0070004A)](arrete-du-11-avril-2000-ecod0070004a)
 - [Arrêté du 11 février 2000 (AGRG0000296A)](arrete-du-11-fevrier-2000-agrg0000296a)
 - [Arrêté du 11 février 2000 (AGRG0000297A)](arrete-du-11-fevrier-2000-agrg0000297a)
 - [Arrêté du 11 janvier 2000 (ATEE0090009A)](arrete-du-11-janvier-2000-atee0090009a)
