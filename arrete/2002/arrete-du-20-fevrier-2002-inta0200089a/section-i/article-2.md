@@ -1,9 +1,11 @@
 # Article 2
 
-La direction de l'administration territoriale et des affaires politiques comprend :
+La sous-direction de l'administration territoriale comprend :
 
-- la sous-direction du corps préfectoral et des administrateurs civils ;
+- le bureau de l'action régionale et de l'aménagement du territoire ;
 
-- la sous-direction de l'administration territoriale ;
+- le bureau de la déconcentration et des politiques territoriales de l'Etat ;
 
-- la sous-direction des affaires politiques et de la vie associative.
+- le bureau du fonctionnement des préfectures ;
+
+- le bureau de la modernisation et de la réforme de l'Etat.
