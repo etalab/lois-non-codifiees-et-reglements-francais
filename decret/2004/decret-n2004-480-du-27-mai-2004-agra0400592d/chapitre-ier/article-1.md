@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents non titulaires de l'établissement public Les Haras nationaux exerçant, antérieurement au 4 juillet 1999, leurs fonctions au sein de l'établissement dit Domaine de Pompadour, qui occupent un emploi présentant les caractéristiques définies à l'article 3 de la loi du 13 juillet 1983 susvisée et qui remplissent les conditions énumérées à l'article 73 de la loi du 11 janvier 1984 susvisée, ont vocation à être titularisés, sur leur demande, dans un corps de fonctionnaires déterminé en application de l'article 80 de cette dernière loi, dans les conditions fixées aux articles suivants.
