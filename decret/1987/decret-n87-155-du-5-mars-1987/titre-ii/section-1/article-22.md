@@ -1,0 +1,7 @@
+# Article 22
+
+Les conseils d'administration des centres régionaux peuvent proposer la création, dans les villes universitaires de leur ressort, de centre locaux qui sont créés par le ministre chargé des universités et fonctionnent sous la forme de sections du centre régional. Des régies d'avances et de recettes peuvent être instituées dans chaque centre local.
+
+Certains centres locaux peuvent être autorisés par arrêté pris par le ministre chargé des universités, sur proposition du directeur du centre national, à disposer d'un budget propre intégré dans le budget du centre régional dont ils relèvent et soumis préalablement pour avis au comité consultatif du centre local. L'exécution de ce budget est assurée par un ordonnateur secondaire désigné par le directeur du centre régional et, si besoin est, par un comptable subordonné à l'agent comptable du centre régional et nommé par arrêté conjoint du ministre chargé des universités et du ministre chargé du budget.
+
+Les centres locaux sont dirigés par un directeur nommé dans les conditions prévues au premier alinéa de l'article 20 pour les directeurs de centre régional. Il agit par délégation du directeur du centre régional. Il est assisté d'un comité consultatif dont la présidence est assurée par le recteur, chancelier des universités, ou son représentant. Le recteur fixe la composition du comité qui comprend des représentants de l'administration, des représentants des étudiants et des personnels, des représentants des collectivités territoriales et des personnalités extérieures.

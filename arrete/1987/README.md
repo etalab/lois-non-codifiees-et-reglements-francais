@@ -16,6 +16,7 @@
 - [Arrêté du 5 février 1987 (PTTP8700097A)](arrete-du-5-fevrier-1987-pttp8700097a)
 - [Arrêté du 5 janvier 1987](arrete-du-5-janvier-1987)
 - [Arrêté du 5 mars 1987 (ECOT8730011A)](arrete-du-5-mars-1987-ecot8730011a)
+- [Arrêté du 5 mars 1987 (MCCB8700078A)](arrete-du-5-mars-1987-mccb8700078a)
 - [Arrêté du 6 février 1987 (AGRE8700410A)](arrete-du-6-fevrier-1987-agre8700410a)
 - [Arrêté du 6 janvier 1987](arrete-du-6-janvier-1987)
 - [Arrêté du 6 janvier 1987 (ECOX8798243A)](arrete-du-6-janvier-1987-ecox8798243a)
