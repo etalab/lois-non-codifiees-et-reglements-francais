@@ -16,11 +16,13 @@ Le praticien peut verser au compte épargne-temps prévu par le décret n° 2002
 
 4° A des congés de maladie, longue maladie, longue durée dans les conditions fixées aux articles 30, 30-1, 30-2, 31 et 32 ;
 
-5° A un congé parental dans les conditions prévues à l'article 33 ;
+5° A un congé de maternité, d'adoption ou de paternité d'une durée égale à celle prévue par les dispositions du code de la sécurité sociale pendant lequel l'intéressé perçoit l'intégralité des émoluments prévus au 1° de l'article 21 ;
 
-6° A des congés de formation dans les conditions prévues à l'article 35 ;
+6° A un congé parental dans les conditions prévues à l'article 33 ;
 
-7° A des autorisations spéciales d'absence dans les cas et conditions ci-après :
+7° A des congés de formation dans les conditions prévues à l'article 35 ;
+
+8° A des autorisations spéciales d'absence dans les cas et conditions ci-après :
 
 - cinq jours ouvrables pour le mariage du praticien ;
 

@@ -4,4 +4,4 @@ Un praticien atteint d'une affection dûment constatée le mettant dans l'imposs
 
 Le praticien qui a obtenu un congé de longue maladie ne peut bénéficier d'un autre congé de cette nature s'il n'a pas auparavant repris l'exercice de ses fonctions pendant un an.
 
-Lorsqu'à l'expiration de ses droits à congé de longue maladie le praticien n'est pas reconnu apte par le comité médical à reprendre ses fonctions, il est mis en disponibilité dans les conditions fixées aux articles 40 et 41.
+Lorsqu'à l'expiration de ses droits à congé de longue maladie le praticien n'est pas reconnu apte par le comité médical à reprendre ses fonctions, il est mis en disponibilité dans les conditions fixées aux articles 40, 41 et 43.

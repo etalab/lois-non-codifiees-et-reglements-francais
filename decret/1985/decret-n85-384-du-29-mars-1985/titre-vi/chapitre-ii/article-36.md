@@ -1,6 +1,6 @@
 # Article 36
 
-Les praticiens des hôpitaux à temps partiel peuvent être placés en position de détachement, sur leur demande, sous réserve qu'ils comptent au moins deux années de fonctions dans leur emploi. Cette condition n'est pas applicable aux cas de détachement prononcés en application du 7° du présent article.
+Les praticiens des hôpitaux à temps partiel peuvent être placés en position de détachement, sur leur demande, sous réserve qu'ils comptent au moins deux années de fonctions dans leur emploi. Cette condition n'est pas applicable aux cas de détachement prononcés en application des 2°, 5° et 7° du présent article.
 
 Ils peuvent être détachés :
 
