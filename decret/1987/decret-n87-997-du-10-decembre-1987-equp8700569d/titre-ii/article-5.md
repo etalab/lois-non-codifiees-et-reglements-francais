@@ -1,0 +1,5 @@
+# Article 5
+
+Les inspecteurs de 3e classe sont recrutés par la voie d'un concours ouvert aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours et titulaires soit du baccalauréat de l'enseignement secondaire, soit d'un des titres ou diplômes admis en équivalence et figurant sur une liste établie par l'arrêté conjoint du ministre de l'équipement, du logement, de l'aménagement du territoire et des transports et du ministre chargé de la fonction publique.
+
+Pour être admis à présenter leur candidature, les intéressés doivent en outre être titulaires du permis de conduire de catégorie B en cours de validité et délivré depuis plus de trois ans. Ils ne doivent pas avoir fait l'objet d'une inscription sur le fichier national des permis de conduire au titre des décisions de restriction de validité, de suspension, d'annulation, d'interdiction de délivrance de permis de conduire ou de changement de catégorie du permis de conduire prononcées en application des dispositions du code de la route.

@@ -1,0 +1,3 @@
+# Article 8
+
+Les candidats admis au concours sont tenus de rester au service de l'Etat pendant une durée minimale de cinq ans. En cas de manquement à cette obligation plus de trois mois après la date d'installation en qualité d'inspecteur stagiaire, ils sont tenus, sauf si ce manquement ne leur est pas imputable, de rembourser au Trésor les rémunérations perçues pendant la durée de leur stage ainsi que le coût de la formation qui leur a été donnée dans les conditions et selon les modalités qui seront fixées par arrêté conjoint du ministre de l'équipement, du logement, de l'aménagement du territoire et des transports et du ministre chargé du budget.

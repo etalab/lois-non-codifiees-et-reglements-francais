@@ -155,6 +155,7 @@
 - [Décret n°87-86 du 10 février 1987 (AGRD8700236D)](decret-n87-86-du-10-fevrier-1987-agrd8700236d)
 - [Décret n°87-907 du 10 novembre 1987 (BUDF8720092D)](decret-n87-907-du-10-novembre-1987-budf8720092d)
 - [Décret n°87-994 du 10 décembre 1987 (ECOX8798642D)](decret-n87-994-du-10-decembre-1987-ecox8798642d)
+- [Décret n°87-997 du 10 décembre 1987 (EQUP8700569D)](decret-n87-997-du-10-decembre-1987-equp8700569d)
 - [Décret n°87-173 du 11 mars 1987 (MAEJ8730013D)](decret-n87-173-du-11-mars-1987-maej8730013d)
 - [Décret n°87-174 du 11 mars 1987 (MAEJ8730014D)](decret-n87-174-du-11-mars-1987-maej8730014d)
 - [Décret n°87-376 du 11 juin 1987 (DOMX8700019D)](decret-n87-376-du-11-juin-1987-domx8700019d)
