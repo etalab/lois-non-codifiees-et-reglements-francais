@@ -1,3 +1,5 @@
 # Article 2
 
-Les infractions à la présente loi seront punies des peines prévues par l'article 13 de la loi du 1er août 1905, modifié par la loi du 21 juillet 1929, sans préjudice des peines plus graves prévues en cas de tromperie ou de tentative de tromperie par l'article 1er de ladite loi de 1905.
+Les infractions à la présente loi seront punies des peines prévues par les articles L. 213-1 et L. 214-2 du code de la consommation, sans préjudice des peines plus graves prévues en cas de tromperie ou de tentative de tromperie par l'article L. 214-2 du code de la consommation.
+
+Les infractions à la présente loi sont constatées et poursuivies dans les conditions prévues par le livre II du code de la consommation.
