@@ -565,7 +565,6 @@
 - [Décret n°94-496 du 20 juin 1994 (TEFF9400441D)](decret-n94-496-du-20-juin-1994-teff9400441d)
 - [Décret n°94-497 du 20 juin 1994 (TEFF9400482D)](decret-n94-497-du-20-juin-1994-teff9400482d)
 - [Décret n°94-498 du 20 juin 1994 (TEFE9400486D)](decret-n94-498-du-20-juin-1994-tefe9400486d)
-- [Décret n°94-503 du 20 juin 1994 (ENVP9420016D)](decret-n94-503-du-20-juin-1994-envp9420016d)
 - [Décret n°94-505 du 20 juin 1994 (DEFX9400071D)](decret-n94-505-du-20-juin-1994-defx9400071d)
 - [Décret n°94-506 du 20 juin 1994 (FPPX9400072D)](decret-n94-506-du-20-juin-1994-fppx9400072d)
 - [Décret n°94-511 du 20 juin 1994 (SPSM9400951D)](decret-n94-511-du-20-juin-1994-spsm9400951d)
