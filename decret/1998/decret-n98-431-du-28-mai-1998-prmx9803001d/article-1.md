@@ -1,0 +1,3 @@
+# Article 1
+
+Il est institué un comité consultatif présidé par le secrétaire général de la mer et constitué de représentants du ministère chargé de la formation professionnelle, du ministère de l'intérieur, du ministère des affaires étrangères, du ministère chargé de l'industrie, du ministère de la défense, du ministère chargé de l'environnement, du ministère chargé de l'équipement et des transports et du ministère chargé de la coopération. Les représentants des ministères peuvent être assistés par des conseillers d'organismes publics et privés. Ces conseillers ne peuvent être des représentants des organismes de formation visés à l'article 2.
