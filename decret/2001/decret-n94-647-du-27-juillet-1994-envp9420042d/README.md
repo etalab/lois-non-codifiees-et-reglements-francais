@@ -2,4 +2,5 @@
 
 - [TITRE Ier : Pentachlorophénol et ses composés.](titre-ier)
 - [TITRE II : Cadmium et ses composés.](titre-ii)
+- [Article 22](article-22.md)
 - [Annexes](annexes)
