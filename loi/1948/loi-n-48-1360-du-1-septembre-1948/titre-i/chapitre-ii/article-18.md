@@ -1,6 +1,6 @@
 # Article 18
 
-Le droit au maintien dans les lieux cesse d'être opposable au propriétaire de nationalité française qui veut reprendre son immeuble pour l'habiter lui-même ou le faire habiter par son conjoint, ses ascendants ou ses descendants ou par ceux de son conjoint, lorsqu'il met à la disposition du locataire ou de l'occupant un local en bon état d'habitation, remplissant des conditions d'hygiène normales ou au moins équivalentes à celles du local objet de la reprise et correspondant à ses besoins personnels ou familiaux et, le cas échéant, professionnels, et à ses possibilités.
+Le droit au maintien dans les lieux cesse d'être opposable au propriétaire de nationalité française ou ressortissant d'un Etat membre de la Communauté économique européenne qui veut reprendre son immeuble pour l'habiter lui-même ou le faire habiter par son conjoint, ses ascendants ou ses descendants ou par ceux de son conjoint, lorsqu'il met à la disposition du locataire ou de l'occupant un local en bon état d'habitation, remplissant des conditions d'hygiène normales ou au moins équivalentes à celles du local objet de la reprise et correspondant à ses besoins personnels ou familiaux et, le cas échéant, professionnels, et à ses possibilités.
 
 Le local offert peut être constitué par une partie du local faisant l'objet de la reprise après exécution éventuelle de travaux d'aménagement.
 

@@ -1,6 +1,6 @@
 # Article 20
 
-Le droit au maintien dans les lieux n'est pas opposable au propriétaire de nationalité française qui veut reprendre son immeuble pour l'occuper lui-même lorsqu'il est :
+Le droit au maintien dans les lieux n'est pas opposable au propriétaire de nationalité française ou ressortissant d'un Etat membre de la Communauté économique européenne qui veut reprendre son immeuble pour l'occuper lui-même lorsqu'il est :
 
 1° Locataire ou occupant évincé en raison de l'article 19 ou du présent article ;
 
