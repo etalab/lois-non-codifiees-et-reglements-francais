@@ -653,6 +653,7 @@
 - [Arrêté du 30 décembre 1987 (EQUC8701110A)](arrete-du-30-decembre-1987-equc8701110a)
 - [Arrêté du 30 mars 1988 (ECOC8800002A)](arrete-du-30-mars-1988-ecoc8800002a)
 - [Arrêté du 30 mars 1988 (TRST8800086A)](arrete-du-30-mars-1988-trst8800086a)
+- [Arrêté du 30 novembre 1988 (BUDR8805006A)](arrete-du-30-novembre-1988-budr8805006a)
 - [Arrêté du 30 novembre 1988 (SPSP8801733A)](arrete-du-30-novembre-1988-spsp8801733a)
 - [Arrêté du 30 novembre 1988 (SPSX8810030A)](arrete-du-30-novembre-1988-spsx8810030a)
 - [Arrêté du 30 novembre 1988 (SPSX8810031A)](arrete-du-30-novembre-1988-spsx8810031a)
