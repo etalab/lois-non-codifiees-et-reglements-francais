@@ -1,6 +1,6 @@
 # Article 3
 
-Le taux unitaire de la vacation, hors taxe sur la valeur ajoutée, est fixé à 160 F.
+Le montant unitaire de la vacation, hors taxe sur la valeur ajoutée, est fixé à 200 F.
 
 Lorsque l'enquête préalable et l'enquête parcellaire sont exécutées simultanément ou consécutivement, le montant de la vacation afférente à l'enquête parcellaire est réduit de moitié.
 
