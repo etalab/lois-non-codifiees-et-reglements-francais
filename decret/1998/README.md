@@ -345,6 +345,8 @@
 - [Décret n°97-1034 du 13 novembre 1997 (MEST9711491D)](decret-n97-1034-du-13-novembre-1997-mest9711491d)
 - [Décret n°97-932 du 13 octobre 1997 (EQUP9701017D)](decret-n97-932-du-13-octobre-1997-equp9701017d)
 - [Décret n°98-1027 du 13 novembre 1998 (JUSE9840057D)](decret-n98-1027-du-13-novembre-1998-juse9840057d)
+- [Décret n°98-1028 du 13 novembre 1998 (EQUU9801199D)](decret-n98-1028-du-13-novembre-1998-equu9801199d)
+- [Décret n°98-1029 du 13 novembre 1998 (EQUU9801442D)](decret-n98-1029-du-13-novembre-1998-equu9801442d)
 - [Décret n°98-163 du 13 mars 1998 (ATEN9860016D)](decret-n98-163-du-13-mars-1998-aten9860016d)
 - [Décret n°98-164 du 13 mars 1998 (ATEN9860015D)](decret-n98-164-du-13-mars-1998-aten9860015d)
 - [Décret n°98-165 du 13 mars 1998 (ATEN9860017D)](decret-n98-165-du-13-mars-1998-aten9860017d)
