@@ -1,14 +1,12 @@
 # Article 6 ter
 
-I - La délégation parlementaire dénommée Office parlementaire d'évaluation des choix scientifiques et technologiques a pour mission [*attributions*] d'informer le Parlement des conséquences des choix de caractère scientifique et technologique afin, notamment, d'éclairer ses décisions. A cet effet, elle recueille des informations, met en oeuvre des programmes d'études et procède à des évaluations.
+I - La délégation parlementaire dénommée Office parlementaire d'évaluation des choix scientifiques et technologiques a pour mission d'informer le Parlement des conséquences des choix de caractère scientifique et technologique afin, notamment, d'éclairer ses décisions. A cet effet, elle recueille des informations, met en oeuvre des programmes d'études et procède à des évaluations.
 
-II - La délégation est composée de huit sénateurs désignés de façon à assurer au sein de chaque assemblée une représentation proportionnelle des groupes politiques. Les députés sont désignés au début de chaque législature pour la durée de celle-ci. Les sénateurs sont désignés après chaque renouvellement partiel du Sénat.
+II - La délégation est composée de dix-huit députés et dix-huit sénateurs désignés de façon à assurer, au sein de chaque assemblée, une représentation proportionnelle des groupes politiques. Les députés sont désignés au début de chaque législature pour la durée de celle-ci. Les sénateurs sont désignés après chaque renouvellement partiel du Sénat.
 
-Pour chaque titulaire, un suppléant est désigné dans les mêmes conditions.
+Après chacun de ses renouvellements, la délégation élit son président et son premier vice-président qui ne peuvent appartenir à la même assemblée.
 
-Au début de chaque session ordinaire, la délégation élit son président et son vice-président, qui ne peuvent appartenir à la même assemblée.
-
-III - La délégation est assistée d'un conseil scientifique composé de quinze personnalités choisies en raison de leur compétence dans les domaines des sciences et de la technologie.
+III - La délégation est assistée d'un conseil scientifique composé de vingt-quatre personnalités choisies en raison de leurs compétences dans les domaines des sciences et de la technologie.
 
 Les membres du conseil scientifique sont désignés pour trois ans dans les conditions prévues par le règlement intérieur de la délégation.
 
