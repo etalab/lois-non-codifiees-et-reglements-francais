@@ -10,6 +10,8 @@ Les demandes ayant pour objet la déclaration d'utilité publique des ouvrages d
 
 - les ouvrages de distribution d'électricité aux services publics de tension inférieure à 63 kV ;
 
+1° bis Par les dispositions du chapitre Ier bis en ce qui concerne les lignes directes de tension inférieure à 63 kV mentionnées à l'article 24 de la loi n° 2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité ;
+
 2° Par les dispositions du chapitre II en ce qui concerne :
 
 - les ouvrages du réseau d'alimentation générale en énergie électrique de tension supérieure ou égale à 63 kV mais inférieure à 225 kV ;
@@ -22,12 +24,10 @@ Les demandes ayant pour objet la déclaration d'utilité publique des ouvrages d
 
 - les ouvrages de distribution d'électricité aux services publics de tension supérieure ou égale à 225 kV ;
 
+3°bis Par les dispositions du chapitre II ter en ce qui concerne les lignes directes de tension supérieure ou égale à 63 kV mentionnées à l'article 24 de la loi n° 2000-108 du 10 février 2000 précitée ;
+
 4° Par les dispositions du chapitre III en ce qui concerne :
 
 - les ouvrages de transport de gaz ;
 
 - les canalisations collectant le gaz à l'intérieur du périmètre des stockages souterrains de gaz.
-
-" Chapitre Ier
-
-" Déclaration d'utilité publique des ouvrages d'alimentation générale en énergie électrique ou de distribution aux services publics de tension inférieure à 63 kV et des ouvrages de distribution publique d'électricité et de gaz.
