@@ -1,0 +1,9 @@
+# Article 7
+
+L'enseignement théorique est obligatoirement assuré par des formateurs titulaires du diplôme du brevet d'aptitude à la formation des moniteurs de véhicules terrestres à moteur (BAFM) et d'une autorisation d'enseigner en cours de validité valable pour la catégorie de formation dispensée. Toutefois, des titulaires d'un titre ou diplôme, visé ou homologué, de l'enseignement supérieur ou de l'enseignement technologique d'un niveau égal ou supérieur au niveau III dans la discipline concernée ou d'un diplôme étranger d'un niveau comparable peuvent intervenir dans les matières correspondant à leur diplôme.
+
+L'enseignement pratique est obligatoirement assuré par des formateurs titulaires du BAFM et d'une autorisation d'enseigner en cours de validité valable pour la catégorie de formation dispensée.
+
+Pour la formation à l'enseignement de la conduite des véhicules deux-roues à moteur et des véhicules du groupe lourd, des formateurs de l'établissement, titulaires depuis au moins trois ans de l'autorisation d'enseigner valable pour la catégorie de formation dispensée, peuvent assurer la partie technique de la formation, sous le contrôle effectif et la validation régulière du directeur pédagogique de l'établissement titulaire d'une autorisation d'enseigner valable pour la catégorie de formation dispensée.
+
+Dans le cadre de stages pratiques en entreprise, des candidats inscrits à l'examen du BAFM, titulaires d'une autorisation d'enseigner en cours de validité, valable pour la catégorie de formation dispensée, peuvent participer à l'enseignement théorique et pratique, en présence effective d'un maître de stage, titulaire du BAFM et de l'autorisation d'enseigner valable pour la catégorie de formation dispensée, sous la responsabilité du directeur de l'établissement assurant la formation au BAFM.
