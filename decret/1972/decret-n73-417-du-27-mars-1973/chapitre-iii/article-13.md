@@ -1,8 +1,6 @@
 # Article 13
 
-Peuvent seuls être nommés au grade de médecin inspecteur en chef les médecins inspecteurs de 1ère classe et les médecins inspecteurs de 2e classe ayant atteint au moins le 7e échelon.
-
-Les nominations à ce grade sont prononcées suivant le tableau de correspondance ci-après :
+Peuvent seuls être nommés au grade de médecin inspecteur en chef les médecins inspecteurs de 1ère classe et les médecins inspecteurs de 2e classe ayant atteint au moins le 7e échelon, et justifiant les uns ou les autres de trois années de services effectifs dans le corps.
 
 MEDECIN INSPECTEUR (échelons et ancienneté d'échelon) :
 

@@ -85,6 +85,7 @@
 - [Décret n°77-264 du 16 février 1977](decret-n77-264-du-16-fevrier-1977)
 - [Décret n°77-291 du 16 mars 1977](decret-n77-291-du-16-mars-1977)
 - [Décret n°77-1169 du 17 octobre 1977](decret-n77-1169-du-17-octobre-1977)
+- [Décret n°77-1200 du 17 octobre 1977](decret-n77-1200-du-17-octobre-1977)
 - [Décret n°77-253 du 17 mars 1977](decret-n77-253-du-17-mars-1977)
 - [Décret n°77-650 du 17 juin 1977](decret-n77-650-du-17-juin-1977)
 - [Décret n°77-80 du 17 janvier 1977](decret-n77-80-du-17-janvier-1977)

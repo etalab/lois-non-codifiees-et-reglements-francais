@@ -6,4 +6,4 @@ Ces mêmes services effectués au-delà de quatre ans sont pris en compte à rai
 
 La possession ou l'acquisition de certains diplômes, titres ou qualités pourra être assimilée à une certaine pratique professionnelle, dans les conditions définies par un arrêté conjoint du ministre chargé de la santé, du ministre de l'économie et des finances et du ministre chargé de la fonction publique.
 
-La bonification d'ancienneté de services retenue au titre du présent article ne pourra en aucun cas excéder six ans [*durée*].
+La bonification d'ancienneté de services retenue au titre du présent article ne pourra en aucun cas excéder quinze ans [*durée*].

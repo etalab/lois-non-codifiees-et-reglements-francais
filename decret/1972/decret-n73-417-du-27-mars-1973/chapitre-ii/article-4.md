@@ -1,13 +1,19 @@
 # Article 4
 
-Deux concours distincts sont ouverts simultanément, par arrêté conjoint du ministre chargé de la santé publique et du ministre chargé de la fonction publique pour le recrutement des médecins inspecteurs de la santé :
+Deux concours distincts sont ouverts simultanément par arrêté conjoint du ministre de la santé et de la sécurité sociale et du ministre chargé de la fonction publique pour le recrutement des médecins inspecteurs de la santé :
 
-1° Aux candidats âgés de quarante ans au plus [*limite d'âge*] au 1er janvier de l'année du concours et remplissant les conditions fixées par l'article 16 du statut général des fonctionnaires. Les intéressés doivent être titulaires du diplôme d'Etat de docteur en médecine et justifier de deux ans de pratique professionnelle ou, à défaut de cette pratique, des diplômes, titres et qualités dont la liste est fixée par arrêté conjoint du ministre chargé de la santé publique, du ministre de l'économie et des finances et du ministre chargé de la fonction publique ; sont comptées comme année de pratique professionnelle les années attestées par une inscription au tableau de l'ordre des médecins ainsi que les années accomplies en qualité d'interne titulaire des hôpitaux ;
+1° Pour la moitié des postes mis aux concours, un concours sur épreuves est ouvert aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours. Les intéressés doivent être titulaires du diplôme d'Etat de docteur en médecine ;
 
-2° Pour les trois septièmes des postes mis au concours au titre du 1°, aux médecins des services départementaux de protection maternelle et infantile et aux médecins contractuels de l'Etat à temps plein comptant au moins cinq ans de services effectifs en cette qualité et âgés de moins de cinquante ans au 1er janvier de l'année du concours.
+2° Pour l'autre moitié des postes mis au concours, un concours sur titres et travaux est ouvert aux médecins appartenant aux catégories suivantes :
 
-Les emplois mis au concours au titre du 1° ou du 2° ci-dessus et qui ne seraient pas pourvus par la nomination de candidats de la catégorie correspondante peuvent être attribués aux candidats de l'autre catégorie dans la limite de 15 p. 100 des emplois mis aux concours à ce titre.
+a) Les médecins contractuels de l'Etat, les médecins titulaires des collectivités locales, les médecins ayant servi en coopération culturelle, scientifique et technique dans les conditions prévues par la loi du 13 juillet 1972 susvisée, les médecins ayant la qualité d'anciens médecins des armées, les médecins ayant assuré à plein temps des fonctions d'enseignement à l'école nationale de la santé publique ou des fonctions de recherche à l'institut national de la santé et de la recherche médicale ou au centre national de la recherche scientifique comptant au moins quatre ans de services effectifs en cette qualité et âgés de moins de cinquante ans au 1er janvier de l'année du concours ;
 
-En outre, dans la limite du sixième des postes mis aux concours en application des 1° et 2° ci-dessus, les médecins inspecteurs de la santé peuvent être recrutés parmi les chefs de clinique ou assistants d'université-assistants des hôpitaux âgés de quarante-cinq ans au plus, inscrits sur une liste d'aptitude arrêtée par le ministre chargé de la santé publique après concours sur titres et travaux.
+b) Les chefs de clinique ou assistants des universités - assistants des hôpitaux comptant au moins deux ans de services en cette qualité et âgés de moins de cinquante ans au 1er janvier de l'année du concours ;
+
+c) Les médecins, chirurgiens, spécialistes, biologistes chefs de service ou de secteur ; les médecins adjoints, chirurgiens adjoints, spécialistes adjoints, biologistes adjoints ; les assistants de médecine, de chirurgie, de spécialités, de biologie exerçant leurs fonctions à plein temps dans les établissements hospitaliers publics comptant au moins deux ans de services en cette qualité et âgés de moins de cinquante ans au 1er janvier de l'année du concours ;
+
+d) Les médecins ayant servi ou servant dans les organismes internationaux comptant au moins cinq ans de services en cette qualité et âgés de moins de cinquante ans au 1er janvier de l'année du concours.
+
+Les emplois mis aux concours au titre du 1° ou du 2° ci-dessus et qui ne seraient pas pourvus par la nomination de candidats de la catégorie correspondante peuvent être attribués aux candidats de l'autre catégorie dans la limite de 15 p. 100 des emplois mis aux concours.
 
 Les limites d'âge prévues ci-dessus s'entendent sans préjudice de l'application des dispositions en vigueur en matière de report des âges limites au titre des services militaires, du service national et des charges de famille.
