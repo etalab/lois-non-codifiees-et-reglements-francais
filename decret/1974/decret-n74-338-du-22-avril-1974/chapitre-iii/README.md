@@ -5,3 +5,4 @@
 - [Section V : Congé du personnel navigant.](section-v)
 - [Section VI : Retrait d'emploi.](section-vi)
 - [Section VII : Congé parental.](section-vii)
+- [Article 18](article-18.md)
