@@ -8,7 +8,7 @@ Lorsque le feu arrière de brouillard est unique, il doit être situé à gauche
 
 Lorsqu'il existe deux feux arrière de brouillard, ceux-ci doivent être disposés symétriquement par rapport au plan longitudinal médian du véhicule.
 
-Les feux arrière de brouillard ne doivent pouvoir être allumés que lorsque les feux de croisement ou les feux avant de brouillard sont en service. L'extinction des feux arrière de brouillard doit être possible indépendamment de celle des feux avant du véhicule.
+Les feux arrière de brouillard ne doivent pouvoir être allumés que lorsque les feux de route, les feux de croisement ou les feux avant de brouillard sont en service. L'extinction des feux arrière de brouillard doit être possible indépendamment de celle des feux avant du véhicule.
 
 Il doit exister un témoin d'enclenchement des feux arrière de brouillard constitué par un voyant lumineux à intensité fixe et de couleur orangée.
 
