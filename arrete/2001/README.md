@@ -543,7 +543,6 @@
 - [Arrêté du 28 août 2001 (MJSK0170062A)](arrete-du-28-aout-2001-mjsk0170062a)
 - [Arrêté du 28 décembre 2000 (INTB0000803A)](arrete-du-28-decembre-2000-intb0000803a)
 - [Arrêté du 28 décembre 2000 (MENE0003244A)](arrete-du-28-decembre-2000-mene0003244a)
-- [Arrêté du 28 décembre 2001 (ECOF0100032A)](arrete-du-28-decembre-2001-ecof0100032a)
 - [Arrêté du 28 décembre 2001 (ECOF0100039A)](arrete-du-28-decembre-2001-ecof0100039a)
 - [Arrêté du 28 décembre 2001 (INTC0100686A)](arrete-du-28-decembre-2001-intc0100686a)
 - [Arrêté du 28 décembre 2001 (JUSG0160080A)](arrete-du-28-decembre-2001-jusg0160080a)
