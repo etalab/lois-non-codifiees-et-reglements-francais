@@ -2,6 +2,7 @@
 
 - [Arrêté du 1 décembre 1989 (EQUT8901315A)](arrete-du-1-decembre-1989-equt8901315a)
 - [Arrêté du 1 juin 1990 (DEFP9001480A)](arrete-du-1-juin-1990-defp9001480a)
+- [Arrêté du 2 février 1990 (JUSX9010039A)](arrete-du-2-fevrier-1990-jusx9010039a)
 - [Arrêté du 2 janvier 1990 (BUDR9005001A)](arrete-du-2-janvier-1990-budr9005001a)
 - [Arrêté du 2 janvier 1990 (BUDR9005002A)](arrete-du-2-janvier-1990-budr9005002a)
 - [Arrêté du 2 janvier 1990 (EQUA8901400A)](arrete-du-2-janvier-1990-equa8901400a)
@@ -133,5 +134,6 @@
 - [Arrêté du 30 novembre 1989 (PTTR8901096A)](arrete-du-30-novembre-1989-pttr8901096a)
 - [Arrêté du 30 octobre 1989 (PRME8961080A)](arrete-du-30-octobre-1989-prme8961080a)
 - [Arrêté du 31 août 1989 (PRME9061044A)](arrete-du-31-aout-1989-prme9061044a)
+- [Arrêté du 31 janvier 1990 (BUDR9005007A)](arrete-du-31-janvier-1990-budr9005007a)
 - [Arrêté du 31 janvier 1991 (SANH9002527A)](arrete-du-31-janvier-1991-sanh9002527a)
 - [Arrêté du 31 juillet 1989 (PRME8961363A)](arrete-du-31-juillet-1989-prme8961363a)
