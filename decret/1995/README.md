@@ -621,6 +621,8 @@
 - [Décret n°95-1110 du 17 octobre 1995 (JUSC9520700D)](decret-n95-1110-du-17-octobre-1995-jusc9520700d)
 - [Décret n°95-1112 du 17 octobre 1995 (MCCB9500427D)](decret-n95-1112-du-17-octobre-1995-mccb9500427d)
 - [Décret n°95-1115 du 17 octobre 1995 (ENVP9530043D)](decret-n95-1115-du-17-octobre-1995-envp9530043d)
+- [Décret n°95-1130 du 17 octobre 1995 (EQUT9500941D)](decret-n95-1130-du-17-octobre-1995-equt9500941d)
+- [Décret n°95-1132 du 17 octobre 1995 (SANH9502628D)](decret-n95-1132-du-17-octobre-1995-sanh9502628d)
 - [Décret n°95-166 du 17 février 1995 (SPSX9500001D)](decret-n95-166-du-17-fevrier-1995-spsx9500001d)
 - [Décret n°95-167 du 17 février 1995 (FPPX9500016D)](decret-n95-167-du-17-fevrier-1995-fppx9500016d)
 - [Décret n°95-168 du 17 février 1995 (PRMX9400170D)](decret-n95-168-du-17-fevrier-1995-prmx9400170d)
