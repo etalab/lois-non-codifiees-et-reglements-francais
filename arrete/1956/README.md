@@ -1,5 +1,6 @@
 # 1956
 
+- [Arrêté du 1 juin 1956](arrete-du-1-juin-1956)
 - [Arrêté du 11 janvier 1956](arrete-du-11-janvier-1956)
 - [Arrêté du 21 janvier 1956](arrete-du-21-janvier-1956)
 - [Arrêté du 23 janvier 1956](arrete-du-23-janvier-1956)
