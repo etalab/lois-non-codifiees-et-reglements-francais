@@ -140,6 +140,8 @@
 - [Décret n°2004-118 du 6 février 2004 (SANH0325144D)](decret-n2004-118-du-6-fevrier-2004-sanh0325144d)
 - [Décret n°2004-120 du 6 février 2004 (SPRK0470008D)](decret-n2004-120-du-6-fevrier-2004-sprk0470008d)
 - [Décret n°2004-1330 du 6 décembre 2004 (EQUS0401457D)](decret-n2004-1330-du-6-decembre-2004-equs0401457d)
+- [Décret n°2004-1332 du 6 décembre 2004 (SOCF0412029D)](decret-n2004-1332-du-6-decembre-2004-socf0412029d)
+- [Décret n°2004-1333 du 6 décembre 2004 (JUSC0420904D)](decret-n2004-1333-du-6-decembre-2004-jusc0420904d)
 - [Décret n°2004-17 du 6 janvier 2004 (INTB0300305D)](decret-n2004-17-du-6-janvier-2004-intb0300305d)
 - [Décret n°2004-18 du 6 janvier 2004 (INTF0300300D)](decret-n2004-18-du-6-janvier-2004-intf0300300d)
 - [Décret n°2004-20 du 6 janvier 2004 (SANS0324520D)](decret-n2004-20-du-6-janvier-2004-sans0324520d)
