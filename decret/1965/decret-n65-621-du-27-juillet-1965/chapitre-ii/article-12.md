@@ -1,0 +1,3 @@
+# Article 12
+
+S'il apparaît que le signe déposé tombe sous le coup des dispositions de l'article 3 de la loi du 31 décembre 1964, notification motivée en est faite au déposant dans le délai de trois mois à compter soit de la date du dépôt si celui-ci a été effectué à l'institut national de la propriété industrielle, soit de la date de réception à l'institut national de la propriété industrielle des pièces visées à l'article 7. Le déposant dispose d'un délai de trois mois à compter de la notification pour présenter ses observations ; ce délai peut être prolongé, sur demande justifiée, sans excéder six mois.

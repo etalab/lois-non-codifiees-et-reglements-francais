@@ -1,0 +1,3 @@
+# Article 39
+
+Lorsqu'elle est déclarée au moment du dépôt, l'existence des droits antérieurs visés à l'article 35 (alinéa 3) de la loi du 31 décembre 1964 doit être mentionnée dans la demande d'enregistrement et faire l'objet d'une déclaration écrite précisant le domaine d'application de la marque au 1er août 1965, ainsi que la nature et la date des frais qui ont permis d'acquérir et de conserver la propriété de cette marque. Cette déclaration mentionne notamment les dépôts et enregistrements antérieurs ainsi que les titres de protection temporaire dans les expositions dont la marque a été l'objet.
