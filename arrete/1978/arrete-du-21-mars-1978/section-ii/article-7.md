@@ -16,7 +16,7 @@ b de l'importance et de la hauteur moyenne de l'opération ;
 
 c de la surface éventuelle des annexes des logements ;
 
-d de la qualité acoustique et de la durabilité des façades et des toitures de l'opération ;
+de la qualité acoustique ;
 
 e des difficultés de construction.
 
@@ -32,119 +32,205 @@ S étant calculée comme indiqué à l'article précédent.
 
 Bo Immeubles collectifs et maisons individuelles.
 
-TYPES de logements : I et I'    Jusqu'au 30 juin 1988 (en francs) : 166.010
-
-A partir du 1er juillet 1988 (en francs) : 167.650
-
-TYPES de logements : I bis
-
-Jusqu'au 30 juin 1988 (en francs) : 203.570
-
-A partir du 1er juillet 1988 (en francs) : 205.585
-
-TYPES de logements : II
-
-Jusqu'au 30 juin 1988 (en francs) : 234.910
-
-A partir du 1er juillet 1988 (en francs) : 237.235
-
-TYPES de logements : III
-
-Jusqu'au 30 juin 1988 (en francs) : 308.060
-
-A partir du 1er juillet 1988 (en francs) : 311.110
-
-TYPES de logements : IV
-
-Jusqu'au 30 juin 1988 (en francs) : 385.270
-
-A partir du 1er juillet 1988 (en francs) : 389.085
-
-TYPES de logements : V
-
-Jusqu'au 30 juin 1988 (en francs) : 463.655
-
-A partir du 1er juillet 1988 (en francs) : 468.245
-
-TYPES de logements : VI
-
-Jusqu'au 30 juin 1988 (en francs) : 542.065
-
-A partir du 1er juillet 1988 (en francs) : 547.435
-
-TYPES de logements : VII
-
-Jusqu'au 30 juin 1988 (en francs) : 620.525
-
-A partir du 1er juillet 1988 (en francs) : 626.670.
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :    TYPES      :  JUSQU'AU   :</td>
+</tr>
+<tr>
+<td> : DE LOGEMENTS  :  30/06/89   :</td>
+</tr>
+<tr>
+<td> :               : (en francs) :</td>
+</tr>
+<tr>
+<td> :---------------:-------------:</td>
+</tr>
+<tr>
+<td> :  I et I'      :   171 170   :</td>
+</tr>
+<tr>
+<td> :  I bis        :   209 900   :</td>
+</tr>
+<tr>
+<td> :  II           :   242 215   :</td>
+</tr>
+<tr>
+<td> :  III          :   317 645   :</td>
+</tr>
+<tr>
+<td> :  IV           :   397 255   :</td>
+</tr>
+<tr>
+<td> :  V            :   478 080   :</td>
+</tr>
+<tr>
+<td> :  VI           :   558 930   :</td>
+</tr>
+<tr>
+<td> :  VII          :   639 830   :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :    TYPES      : A PARTIR DU :</td>
+</tr>
+<tr>
+<td> : DE LOGEMENTS  :  01/07/89   :</td>
+</tr>
+<tr>
+<td> :               : (en francs) :</td>
+</tr>
+<tr>
+<td> :---------------:-------------:</td>
+</tr>
+<tr>
+<td> :  I et I'      :   173 015   :</td>
+</tr>
+<tr>
+<td> :  I bis        :   212 165   :</td>
+</tr>
+<tr>
+<td> :  II           :   244 825   :</td>
+</tr>
+<tr>
+<td> :  III          :   321 065   :</td>
+</tr>
+<tr>
+<td> :  IV           :   401 535   :</td>
+</tr>
+<tr>
+<td> :  V            :   483 230   :</td>
+</tr>
+<tr>
+<td> :  VI           :   564 955   :</td>
+</tr>
+<tr>
+<td> :  VII          :   646 725   :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
 7.1.2. - Logements à usage familial (autres que logements destinés aux résidents)
 
 Bo Immeubles collectifs et maisons individuelles.
 
-TYPES de logements : I
-
-Jusqu'au 30 juin 1988 (en francs) : 88.505
-
-A partir du 1er juillet 1988 (en francs) : 89.385
-
-TYPES de logements : I bis
-
-Jusqu'au 30 juin 1988 (en francs) : 165.525
-
-A partir du 1er juillet 1988 (en francs) : 167.165
-
-TYPES de logements : II
-
-Jusqu'au 30 juin 1988 (en francs) : 213.335
-
-A partir du 1er juillet 1988 (en francs) : 215.450
-
-TYPES de logements : III
-
-Jusqu'au 30 juin 1988 (en francs) : 253.745
-
-A partir du 1er juillet 1988 (en francs) : 256.260
-
-TYPES de logements : IV
-
-Jusqu'au 30 juin 1988 (en francs) : 291.885
-
-A partir du 1er juillet 1988 (en francs) : 294.775.
-
-TYPES de logements : V
-
-Jusqu'au 30 juin 1988 (en francs) : 337.460
-
-A partir du 1er juillet 1988 (en francs) : 340.800
-
-TYPES de logements : VI
-
-Jusqu'au 30 juin 1988 (en francs) : 371.075
-
-A partir du 1er juillet 1988 (en francs) : 374.750
-
-TYPES de logements : VII
-
-Jusqu'au 30 juin 1988 (en francs) : 416.655
-
-A partir du 1er juillet 1988 (en francs) : 420.780.
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :    TYPES      :  JUSQU'AU   :</td>
+</tr>
+<tr>
+<td> : DE LOGEMENTS  :  30/06/89   :</td>
+</tr>
+<tr>
+<td> :               : (en francs) :</td>
+</tr>
+<tr>
+<td> :---------------:-------------:</td>
+</tr>
+<tr>
+<td> :  I            :    91 260   :</td>
+</tr>
+<tr>
+<td> :  I bis        :   170 675   :</td>
+</tr>
+<tr>
+<td> :  II           :   219 975   :</td>
+</tr>
+<tr>
+<td> :  III          :   261 640   :</td>
+</tr>
+<tr>
+<td> :  IV           :   300 965   :</td>
+</tr>
+<tr>
+<td> :  V            :   347 955   :</td>
+</tr>
+<tr>
+<td> :  VI           :   382 620   :</td>
+</tr>
+<tr>
+<td> :  VII          :   429 615   :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :    TYPES      : A PARTIR DU :</td>
+</tr>
+<tr>
+<td> : DE LOGEMENTS  :  01/07/89   :</td>
+</tr>
+<tr>
+<td> :               : (en francs) :</td>
+</tr>
+<tr>
+<td> :---------------:-------------:</td>
+</tr>
+<tr>
+<td> :  I            :    92 245   :</td>
+</tr>
+<tr>
+<td> :  I bis        :   172 515   :</td>
+</tr>
+<tr>
+<td> :  II           :   222 345   :</td>
+</tr>
+<tr>
+<td> :  III          :   264 460   :</td>
+</tr>
+<tr>
+<td> :  IV           :   304 210   :</td>
+</tr>
+<tr>
+<td> :  V            :   361 705   :</td>
+</tr>
+<tr>
+<td> :  VI           :   386 740   :</td>
+</tr>
+<tr>
+<td> :  VII          :   434 245   :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
 7.1.3. Le prix de référence de base unitaire Bâtiment et honoraires bo, toutes taxes comprises est fixé par le tableau ci-après :
 
 VALEURS DE bo
 
-Jusqu'au 30 juin 1988
+- Jusqu'au 30 juin 1989
 
-IMMEUBLES collectifs (en francs) : 3.070
+IMMEUBLES collectifs (en francs) : 3.165
 
-MAISONS individuelles (en francs) : 3.230
+MAISONS individuelles (en francs) : 3.335
 
-A partir du 1er juillet 1988
+A partir du 1er juillet 1989
 
-IMMEUBLES collectifs (en francs) : 3.100
+IMMEUBLES collectifs (en francs) : 3.200
 
-MAISONS individuelles (en francs) : 3.265.
+MAISONS individuelles (en francs) : 3.370.
 
 7.2. Coefficients de pondération du prix de référence de base Bâtiment et honoraires
 
@@ -164,47 +250,71 @@ Lorsque des logements foyers réalisés en immeubles collectifs comportent des g
 
 VALEURS DES GARAGES
 
-7.3.1. Par emplacement individuel de stationnement dans un garage collectif enterré ou incorporé au foyer.
+7.3.1. Par emplacement individuel de stationnement dans un garage collectif enterré ou incorporé à l'immeuble d'habitation :
 
-ZONES DE PRIX : Zone I
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : ZONES   :         :         :</td>
+</tr>
+<tr>
+<td> :   DE    :   (1)   :   (2)   :</td>
+</tr>
+<tr>
+<td> : PRIX    :         :         :</td>
+</tr>
+<tr>
+<td> :---------:---------:---------:</td>
+</tr>
+<tr>
+<td> : I       :  40.340 :  40.775 :</td>
+</tr>
+<tr>
+<td> : II      :  36.850 :  37.245 :</td>
+</tr>
+<tr>
+<td> : III     :  34.915 :  35.290 :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
-JUSQU'AU 30 juin 1988 (en francs) : 39.120
+(1) Jusqu'au 30 juin 1989 (en francs) (2) A partir du 1er juillet 1989 (en francs).   Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
 
-A PARTIR du 1er juillet 1988 (en francs) : 39.510
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : ZONES   :         :         :</td>
+</tr>
+<tr>
+<td> :  DE     :   (1)   :   (2)   :</td>
+</tr>
+<tr>
+<td> : PRIX    :         :         :</td>
+</tr>
+<tr>
+<td> :---------:---------:---------:</td>
+</tr>
+<tr>
+<td> : I       :  28.430 :  28.735 :</td>
+</tr>
+<tr>
+<td> : II      :  25.845 :  26.125 :</td>
+</tr>
+<tr>
+<td> : III     :  24.570 :  24.835 :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
-ZONES DE PRIX : Zone II
-
-JUSQU'AU 30 juin 1988 (en francs) : 35.735
-
-A PARTIR du 1er juillet 1988 (en francs) : 36.090
-
-ZONES DE PRIX : Zone III
-
-JUSQU'AU 30 juin 1988 (en francs) : 33.860
-
-A PARTIR du 1er juillet 1988 (en francs) : 34.195
-
-7.3.2. Par emplacement individuel de stationnement dans un garage collectif, construit en superstructure, séparé ou accolé au foyer.
-
-ZONES DE PRIX : Zone I
-
-JUSQU'AU 30 juin 1988 (en francs) : 27.575
-
-A PARTIR du 1er juillet 1988 (en francs) : 27.845
-
-ZONES DE PRIX : Zone II
-
-JUSQU'AU 30 juin 1988 (en francs) : 25.070
-
-A PARTIR du 1er juillet 1988 (en francs) : 25.315
-
-ZONES DE PRIX : Zone III
-
-JUSQU'AU 30 juin 1988 (en francs) : 23.830
-
-A PARTIR du 1er juillet 1988 (en francs) : 24.065.
-
-Le nombre d'emplacements de stationnement à prendre en compte est au plus égal au nombre total pondéré des logements.
+(1) Jusqu'au 30 juin 1989 (en francs) (2) A partir du 1er juillet 1989 (en francs).   Le nombre d'emplacements de stationnement à prendre en compte est au plus égal au nombre total pondéré des logements.
 
 La pondération s'effectuera par application des coefficients suivants appliqués aux différents types des logements :
 

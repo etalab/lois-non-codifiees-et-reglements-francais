@@ -68,7 +68,7 @@ Pour les maisons individuelles, bénéficiant d'annexes d'au moins vingt-cinq m�
 
 2.2. Cotation de la qualité.
 
-2.2.1. Pour les prestations relatives à la plomberie-sanitaire, à l'électricité, à l'acoustique et à l'enveloppe extérieure, l'appréciation de la qualité est faite selon la méthode Qualitel définie dans l'édition du 1er mai 1984 du guide Qualitel et à l'aide des tables d'investissement publiées par l'association Qualitel.
+2.2.1. Pour les prestations relatives à la plomberie, à l'électricité, à l'acoustique et à l'enveloppe extérieure, l'appréciation de la qualité est faite selon la méthode Qualitel définie dans le guide Qualitel applicable à la date de dépôt de la demande de décision favorable et à l'aide des tables d'investissements publiées par l'association Qualitel et applicables à la même date. "
 
 Ces prestations et celles relatives à la présence de conduits de fumée et au traitement des accès donnant lieu à une modulation du prix de référence par l'intermédiaire des coefficients de pondération d1, d2 et d3 définis en annexe VII du présent arrêté.
 

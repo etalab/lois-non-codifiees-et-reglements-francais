@@ -114,7 +114,7 @@ SURFACE maximale finançable (S.M. en m2) :
 
 Nota :(1) Pour le type I, il peut être toléré de ne pas réaliser immédiatement l'installation de w.-c. et de douche ou baignoire. Dans ce cas, un w.-c. et une douche ou une baignoire, au minimum, devront être installés pour quatre occupants.
 
-" L'utilisation du type I n'est pas autorisée dans le cas de logements destinés à accueillir des personnes âgées.
+L'utilisation du type I n'est pas autorisé dans le cas des logements destinés à accueillir des personnes âgées ou des personnes handicapées. "
 
 " 3.2. Logements à usage familial.
 

@@ -18,13 +18,15 @@ III-2 :
 
 1° Lorsque l'opération répond aux exigences des arrêtés du 24 mars 1982 relatifs aux équipements et aux caractéristiques thermiques des bâtiments d'habitation, ainsi qu'à l'aération des logements le coefficient a2 prend les valeurs suivantes :
 
-a2 = 0,020 en zone climatique H 1 ;
+3° Le paragraphe III-2 de l'annexe III est remplacé par les dispositions suivantes :
 
-a2 = 0,000 en zone climatique H 2 ;
+" III-2   a2 = 0,020 en zone climatique H 1 ;
 
-a2 = - 0,015 en zone climatique H 3.
+" III-2   a2 = 0,000 en zone climatique H 2 ;
 
-Les zones climatiques H 1, H 2 et H 3 sont définies en annexe de l'arrêté du 24 mars 1982 relatif aux équipements et caractéristiques thermiques des bâtiments d'habitation.
+" III-2   a2 = - 0,015 en zone climatique H 3.
+
+" Les zones climatiques H 1, H 2 et H 3 sont définies en annexe de l'arrêté du 5 avril 1988 relatif aux équipements et aux caractéristiques thermiques des bâtiments d'habitation. "
 
 2° Pour les autres opérations le coefficient a2 prend les valeurs suivantes :
 

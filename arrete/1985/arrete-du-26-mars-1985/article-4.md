@@ -1,3 +1,3 @@
 # Article 4
 
-Pour les opérations bénéficiant du label haute performance énergétique ou du label solaire définis par l'arrêté du 5 juillet 1983, la majoration du prix de référence y afférente doit être amputée du montant de la prime éventuellement accordée au titre du fonds spécial des grands travaux.
+"Le prix de référence est majoré selon les dispositions de l'arrêté du 5 juillet 1983 modifié relatif au financement des opérations de logements neufs à usage locatif ou en accession à la propriété aidées par l'Etat et bénéficiant du label haute performance énergétique ou du label solaire. "

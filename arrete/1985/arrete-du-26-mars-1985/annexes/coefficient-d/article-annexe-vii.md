@@ -74,8 +74,6 @@ Si on appelle X la moyenne des cotations T des logements et Xo la plus petite de
 
 d'2 = 0,0025 (U +(U - 100)), expression dans laquelle on ne tient compte que des valeurs positives du terme (U - 10).
 
-Dans le cas où l'opération comporte à la fois des logements collectifs, individuels (en bandes ou jumelés) et individuels isolés, la valeur de d'2 est la moyenne pondérée des différents d'2 par le nombre de logements de chaque type.
-
 VII-2.2. d"2 : bruits extérieurs :
 
 d"2 est donnée par la formule :

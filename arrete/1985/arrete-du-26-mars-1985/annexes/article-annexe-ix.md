@@ -1,6 +1,6 @@
 # Article Annexe IX
 
-IX-1 Valeurs de Bv et de Cv jusqu'au 30 juin 1988
+IX-1 Valeurs de Bv et de Cv jusqu'au 30 juin 1989
 
 <table>
 <tr>
@@ -25,34 +25,34 @@ IX-1 Valeurs de Bv et de Cv jusqu'au 30 juin 1988
 <td> :---------:-------------------:</td>
 </tr>
 <tr>
-<td> : 1       :  87.590 :  18.890 :</td>
+<td> : 1       :  90.320 :  19.480 :</td>
 </tr>
 <tr>
-<td> : 1 bis   : 165.620 :  31.500 :</td>
+<td> : 1 bis   : 170.770 :  32.485 :</td>
 </tr>
 <tr>
-<td> : 2       : 197.935 :  46.025 :</td>
+<td> : 2       : 204.095 :  47.455 :</td>
 </tr>
 <tr>
-<td> : 3       : 233.080 :  60.045 :</td>
+<td> : 3       : 240.330 :  61.915 :</td>
 </tr>
 <tr>
-<td> : 4       : 265.740 :  73.070 :</td>
+<td> : 4       : 274.005 :  75.340 :</td>
 </tr>
 <tr>
-<td> : 5       : 303.405 :  88.100 :</td>
+<td> : 5       : 312.845 :  90.845 :</td>
 </tr>
 <tr>
-<td> : 6       : 331.045 :  99.105 :</td>
+<td> : 6       : 341.340 : 102.185 :</td>
 </tr>
 <tr>
-<td> : 7       : 368.740 : 114.120 :</td>
+<td> : 7       : 380.210 : 117.670 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  35.140 :  14.015 :</td>
+<td> : suppl.  :  36.230 :  14.445 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -85,38 +85,38 @@ IX-1 Valeurs de Bv et de Cv jusqu'au 30 juin 1988
 <td> : 1       :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : 1 bis   : 165.620 :  33.850 :</td>
+<td> : 1 bis   : 170.770 :  34.905 :</td>
 </tr>
 <tr>
-<td> : 2       : 197.935 :  49.455 :</td>
+<td> : 2       : 204.095 :  50.995 :</td>
 </tr>
 <tr>
-<td> : 3       : 233.080 :  64.545 :</td>
+<td> : 3       : 240.330 :  66.555 :</td>
 </tr>
 <tr>
-<td> : 4       : 265.740 :  78.520 :</td>
+<td> : 4       : 274.005 :  80.965 :</td>
 </tr>
 <tr>
-<td> : 5       : 303.405 :  94.660 :</td>
+<td> : 5       : 312.845 :  97.610 :</td>
 </tr>
 <tr>
-<td> : 6       : 331.045 : 106.495 :</td>
+<td> : 6       : 341.340 : 109.810 :</td>
 </tr>
 <tr>
-<td> : 7       : 368.740 : 122.655 :</td>
+<td> : 7       : 380.210 : 126.470 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  35.140 :  15.060 :</td>
+<td> : suppl.  :  36.230 :  15.530 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 </table>
 
-Valeurs de Bv et de Cv à partir du 1er juillet 1988
+Valeurs de Bv et de Cv à partir du 1er juillet 1989
 
 <table>
 <tr>
@@ -141,34 +141,34 @@ Valeurs de Bv et de Cv à partir du 1er juillet 1988
 <td> :---------:-------------------:</td>
 </tr>
 <tr>
-<td> : 1       :  88.460 :  19.080 :</td>
+<td> : 1       :  91.290 :  19.690 :</td>
 </tr>
 <tr>
-<td> : 1 bis   : 167.260 :  31.815 :</td>
+<td> : 1 bis   : 172.610 :  32.835 :</td>
 </tr>
 <tr>
-<td> : 2       : 199.895 :  46.480 :</td>
+<td> : 2       : 206.290 :  47.965 :</td>
 </tr>
 <tr>
-<td> : 3       : 235.385 :  60.640 :</td>
+<td> : 3       : 242.915 :  62.580 :</td>
 </tr>
 <tr>
-<td> : 4       : 268.370 :  73.790 :</td>
+<td> : 4       : 276.960 :  76.150 :</td>
 </tr>
 <tr>
-<td> : 5       : 306.410 :  88.975 :</td>
+<td> : 5       : 316.215 :  91.820 :</td>
 </tr>
 <tr>
-<td> : 6       : 334.320 : 100.085 :</td>
+<td> : 6       : 345.020 : 103.290 :</td>
 </tr>
 <tr>
-<td> : 7       : 372.390 : 115.250 :</td>
+<td> : 7       : 384.305 : 118.940 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  35.485 :  14.150 :</td>
+<td> : suppl.  :  36.620 :  14.605 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -201,31 +201,31 @@ Valeurs de Bv et de Cv à partir du 1er juillet 1988
 <td> : 1       :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : 1 bis   : 167.260 :  34.185 :</td>
+<td> : 1 bis   : 172.610 :  35.280 :</td>
 </tr>
 <tr>
-<td> : 2       : 199.895 :  49.945 :</td>
+<td> : 2       : 206.290 :  51.545 :</td>
 </tr>
 <tr>
-<td> : 3       : 235.385 :  65.185 :</td>
+<td> : 3       : 242.915 :  67.270 :</td>
 </tr>
 <tr>
-<td> : 4       : 268.370 :  79.300 :</td>
+<td> : 4       : 276.960 :  81.840 :</td>
 </tr>
 <tr>
-<td> : 5       : 306.410 :  95.600 :</td>
+<td> : 5       : 316.215 :  98.660 :</td>
 </tr>
 <tr>
-<td> : 6       : 334.320 : 107.550 :</td>
+<td> : 6       : 345.020 : 110.990 :</td>
 </tr>
 <tr>
-<td> : 7       : 372.390 : 123.870 :</td>
+<td> : 7       : 384.305 : 127.835 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  35.485 :  15.210 :</td>
+<td> : suppl.  :  36.620 :  15.695 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -253,20 +253,20 @@ Par emplacement individuel de stationnement dans un garage enterré ou incorpor�
 <td> :---------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  43.710 :  44.140 :</td>
+<td> : I       :  45.065 :  45.550 :</td>
 </tr>
 <tr>
-<td> : II      :  39.930 :  40.325 :</td>
+<td> : II      :  41.170 :  41.615 :</td>
 </tr>
 <tr>
-<td> : III     :  37.825 :  38.200 :</td>
+<td> : III     :  39.000 :  39.420 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 </table>
 
-(1) Jusqu'au 30 juin 1988 (en francs) (2) A partir du 1er juillet 1988 (en francs).   Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
+(1) Jusqu'au 30 juin 1989 (en francs) (2) A partir du 1er juillet 1989 (en francs).   Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
 
 <table>
 <tr>
@@ -285,17 +285,17 @@ Par emplacement individuel de stationnement dans un garage enterré ou incorpor�
 <td> :---------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  30.805 :  31.110 :</td>
+<td> : I       :  31.765 :  32.105 :</td>
 </tr>
 <tr>
-<td> : II      :  28.005 :  28.285 :</td>
+<td> : II      :  28.880 :  29.190 :</td>
 </tr>
 <tr>
-<td> : III     :  26.610 :  26.870 :</td>
+<td> : III     :  27.435 :  27.730 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 </table>
 
-(1) Jusqu'au 30 juin 1988 (en francs) (2) A partir du 1er juillet 1988 (en francs).
+(1) Jusqu'au 30 juin 1989 (en francs) (2) A partir du 1er juillet 1989 (en francs).

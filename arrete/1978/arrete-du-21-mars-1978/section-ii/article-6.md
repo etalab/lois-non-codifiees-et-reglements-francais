@@ -20,91 +20,112 @@ S a pour limite le total SM des valeurs suivantes fixées pour les logements des
 
 Sm par logement à usage familial incorporé au foyer
 
-TYPES DE LOGEMENTS : I
-
-Sm : 23
-
-TYPES DE LOGEMENTS : I bis
-
-Sm : 38
-
-TYPES DE LOGEMENTS : II
-
-Sm : 58
-
-TYPES DE LOGEMENTS : III
-
-Sm : 75
-
-TYPES DE LOGEMENTS : IV
-
-Sm : 91
-
-TYPES DE LOGEMENTS : V
-
-Sm : 110
-
-TYPES DE LOGEMENTS : VI
-
-Sm : 124
-
-TYPES DE LOGEMENTS : VII
-
-Sm : 143.
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :    TYPES DE     :    Sm     :</td>
+</tr>
+<tr>
+<td> :    LOGEMENTS    :           :</td>
+</tr>
+<tr>
+<td> :-----------------:-----------:</td>
+</tr>
+<tr>
+<td> :     I           :    23     :</td>
+</tr>
+<tr>
+<td> :     I bis       :    38     :</td>
+</tr>
+<tr>
+<td> :     II          :    58     :</td>
+</tr>
+<tr>
+<td> :     III         :    75     :</td>
+</tr>
+<tr>
+<td> :     IV          :    91     :</td>
+</tr>
+<tr>
+<td> :     V           :   110     :</td>
+</tr>
+<tr>
+<td> :     VI          :   124     :</td>
+</tr>
+<tr>
+<td> :     VII         :   143     :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
 Dans le cas des foyers-soleil, S pourra dépasser la limite Sm définie ci-dessus. Le dépassement autorisé est limité, pour chacun des logements des résidents disséminés dans les immeubles avoisinants, à la surface fixée par le tableau ci-dessous :
 
-TYPES DE LOGEMENTS : I
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : TYPES DE    :  SURFACE DE   :</td>
+</tr>
+<tr>
+<td> : LOGEMENTS   :   SERVICES    :</td>
+</tr>
+<tr>
+<td> :             :  COLLECTIFS   :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : I           :       4       :</td>
+</tr>
+<tr>
+<td> : I bis       :       4       :</td>
+</tr>
+<tr>
+<td> : II          :       7       :</td>
+</tr>
+<tr>
+<td> : III         :      10       :</td>
+</tr>
+<tr>
+<td> : IV          :      13       :</td>
+</tr>
+<tr>
+<td> : V           :      16       :</td>
+</tr>
+<tr>
+<td> : VI          :      19       :</td>
+</tr>
+<tr>
+<td> : VII         :      22       :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
-SURFACE DE SERVICES COLLECTIFS : 4
-
-TYPES DE LOGEMENTS : I bis
-
-SURFACE DE SERVICES COLLECTIFS : 4
-
-TYPES DE LOGEMENTS : II
-
-SURFACE DE SERVICES COLLECTIFS : 7
-
-TYPES DE LOGEMENTS : III
-
-SURFACE DE SERVICES COLLECTIFS : 10
-
-TYPES DE LOGEMENTS : IV
-
-SURFACE DE SERVICES COLLECTIFS : 13
-
-TYPES DE LOGEMENTS : V
-
-SURFACE DE SERVICES COLLECTIFS : 16
-
-TYPES DE LOGEMENTS : VI
-
-SURFACE DE SERVICES COLLECTIFS : 19
-
-TYPES DE LOGEMENTS : VII
-
-SURFACE DE SERVICES COLLECTIFS : 22
-
-Pour le calcul de S on appliquera la règle énoncée en 3.3 ci-dessus.
-
-6.1. Charge foncière de référence de base unitaire
+Pour le calcul de S on appliquera la règle énoncée en 3.3 ci-dessus.   6.1. Charge foncière de référence de base unitaire
 
 La charge foncière de référence de base unitaire, Co, toutes taxes comprises, est fixée par le tableau ci-après :
 
 VALEURS DE Co
 
-Jusqu'au 30 juin 1988
+- Jusqu'au 30 juin 1989
 
-IMMEUBLES collectifs : 495 francs
+IMMEUBLES collectifs : 510 francs
 
-MAISONS individuelles : 740 francs
+MAISONS individuelles : 765 francs
 
-A partir du 1er juillet 1988
+- A partir du 1er juillet 1989
 
-IMMEUBLES collectifs : 500 francs
+IMMEUBLES collectifs : 515 francs
 
-MAISONS individuelles : 750 francs
+MAISONS individuelles : 775 francs
 
 6.2. Coefficients de pondération de la charge foncière de référence de base
 

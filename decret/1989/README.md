@@ -42,6 +42,7 @@
 - [Décret n°89-9 du 6 janvier 1989 (SPSS8801762D)](decret-n89-9-du-6-janvier-1989-spss8801762d)
 - [Décret n°88-676 du 6 mai 1988 (ASEH8800513D)](decret-n88-676-du-6-mai-1988-aseh8800513d)
 - [Décret n°89-160 du 7 mars 1989 (MAEJ8930013D)](decret-n89-160-du-7-mars-1989-maej8930013d)
+- [Décret n°89-208 du 7 avril 1989 (MAEJ8830065D)](decret-n89-208-du-7-avril-1989-maej8830065d)
 - [Décret n°89-75 du 7 février 1989 (BUDX8910067D)](decret-n89-75-du-7-fevrier-1989-budx8910067d)
 - [Décret n°89-78 du 7 février 1989](decret-n89-78-du-7-fevrier-1989)
 - [Décret n°89-152 du 8 mars 1989 (PRME8961322D)](decret-n89-152-du-8-mars-1989-prme8961322d)

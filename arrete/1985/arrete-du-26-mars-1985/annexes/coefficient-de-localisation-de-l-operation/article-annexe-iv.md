@@ -18,4 +18,4 @@ a2 = 0,000 en zone climatique H 2 ;
 
 a2 = - 0,015 en zone climatique H 3.
 
-Les zones climatiques H 1, H 2 et H 3 sont définies en annexe de l'arrêté du 24 mars 1982 relatif aux équipements et aux caractéristiques thermiques des bâtiments d'habitation.
+Les zones climatiques H 1, H 2 et H 3 sont définies en annexe de l'arrêté du 5 avril 1988 relatif aux équipements et aux caractéristiques thermiques des bâtiments d'habitation.

@@ -10,315 +10,237 @@ Co et To représentent, pour l'ensemble de l'opération, la somme des prix co et
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1988
-
-TYPES de logements : 1
-
-IMMEUBLES collectifs :
-
-To (en francs) : 48.680
-
-Co (en francs) : 24.055
-
-VALEURS DE Co ET DE To
-
-Jusqu'au 30 juin 1988
-
-TYPES de logements : 1 bis
-
-IMMEUBLES collectifs :
-
-To (en francs) : 96.465
-
-Co (en francs) : 47.630
-
-MAISONS individuelles :
-
-To (en francs) : 106.145
-
-Co (en francs) : 66.660
-
-VALEURS DE Co ET DE To
-
-Jusqu'au 30 juin 1988
-
-TYPES de logements : 2
-
-IMMEUBLES collectifs :
-
-To (en francs) : 127.090
-
-Co (en francs) : 62.725
-
-MAISONS individuelles :
-
-To (en francs) : 139.785
-
-Co (en francs) : 87.840
-
-VALEURS DE Co ET DE To
-
-Jusqu'au 30 juin 1988
-
-TYPES de logements : 3
-
-IMMEUBLES collectifs :
-
-To (en francs) : 159.760
-
-Co (en francs) : 78.875
-
-MAISONS individuelles :
-
-To (en francs) : 175.735
-
-Co (en francs) : 110.420
-
-VALEURS DE Co ET DE To
-
-Jusqu'au 30 juin 1988
-
-TYPES de logements : 4
-
-IMMEUBLES collectifs :
-
-To (en francs) : 189.935
-
-Co (en francs) : 93.760
-
-MAISONS individuelles :
-
-To (en francs) : 208.940
-
-Co (en francs) : 131.310
-
-VALEURS DE Co ET DE To
-
-Jusqu'au 30 juin 1988
-
-TYPES de logements : 5
-
-IMMEUBLES collectifs :
-
-To (en francs) : 222.615
-
-Co (en francs) : 108.885
-
-MAISONS individuelles :
-
-To (en francs) : 244.900
-
-Co (en francs) : 153.865
-
-VALEURS DE Co ET DE To
-
-Jusqu'au 30 juin 1988
-
-TYPES de logements : 6
-
-IMMEUBLES collectifs :
-
-To (en francs) : 247.790
-
-Co (en francs) : 122.305
-
-MAISONS individuelles :
-
-To (en francs) : 272.555
-
-Co (en francs) : 171.265
-
-VALEURS DE Co ET DE To
-
-Jusqu'au 30 juin 1988
-
-TYPES de logements : 7
-
-IMMEUBLES collectifs :
-
-To (en francs) : 282.955
-
-Co (en francs) : 139.695
-
-MAISONS individuelles :
-
-To (en francs) : 311.260
-
-Co (en francs) : 195.555
-
-VALEURS DE Co ET DE To
-
-Jusqu'au 30 juin 1988
-
-Pièce supplémentaire
-
-IMMEUBLES collectifs :
-
-To (en francs) : 30.120
-
-Co (en francs) : 14.865
-
-MAISONS individuelles :
-
-To (en francs) : 33.135
-
-Co (en francs) : 20.845.
-
-VALEURS DE Co ET DE To
-
-A partir du 1er juillet 1988
-
-TYPES de logements : 1
-
-IMMEUBLES collectifs :
-
-To (en francs) : 49.165
-
-Co (en francs) : 24.290
-
-VALEURS DE Co ET DE To
-
-A partir du 1er juillet 1988
-
-TYPES de logements : 1 bis
-
-IMMEUBLES collectifs :
-
-To (en francs) : 97.420
-
-Co (en francs) : 48..105
-
-MAISONS individuelles :
-
-To (en francs) : 107.195
-
-Co (en francs) : 67.320
-
-VALEURS DE Co ET DE To
-
-A partir du 1er juillet 1988
-
-TYPES de logements : 2
-
-IMMEUBLES collectifs :
-
-To (en francs) : 128.345
-
-Co (en francs) : 63.345
-
-MAISONS individuelles :
-
-To (en francs) : 141.170
-
-Co (en francs) : 88.710
-
-VALEURS DE Co ET DE To
-
-A partir du 1er juillet 1988
-
-TYPES de logements : 3
-
-IMMEUBLES collectifs :
-
-To (en francs) : 161.345
-
-Co (en francs) : 79.665
-
-MAISONS individuelles :
-
-To (en francs) : 177.475
-
-Co (en francs) : 111.510
-
-VALEURS DE Co ET DE To
-
-A partir du 1er juillet 1988
-
-TYPES de logements : 4
-
-IMMEUBLES collectifs :
-
-To (en francs) : 191.815
-
-Co (en francs) : 94.685
-
-MAISONS individuelles :
-
-To (en francs) : 211.005
-
-Co (en francs) : 132.610
-
-VALEURS DE Co ET DE To
-
-A partir du 1er juillet 1988
-
-TYPES de logements : 5
-
-IMMEUBLES collectifs :
-
-To (en francs) : 224.820
-
-Co (en francs) : 110.970
-
-MAISONS individuelles :
-
-To (en francs) : 247.325
-
-Co (en francs) : 155.385
-
-VALEURS DE Co ET DE To
-
-A partir du 1er juillet 1988
-
-TYPES de logements : 6
-
-IMMEUBLES collectifs :
-
-To (en francs) : 250.240
-
-Co (en francs) : 123.515
-
-MAISONS individuelles :
-
-To (en francs) : 275.250
-
-Co (en francs) : 172.980
-
-VALEURS DE Co ET DE To
-
-A partir du 1er juillet 1988
-
-TYPES de logements : 7
-
-IMMEUBLES collectifs :
-
-To (en francs) : 286.760
-
-Co (en francs) : 141.075
-
-MAISONS individuelles :
-
-To (en francs) : 314.345
-
-Co (en francs) : 197.490
-
-VALEURS DE Co ET DE To
-
-A partir du 1er juillet 1988
-
-Pièce supplémentaire
-
-IMMEUBLES collectifs :
-
-To (en francs) : 30.415
-
-Co (en francs) : 15.015
-
-MAISONS individuelles :
-
-To (en francs) : 33.460
-
-Co (en francs) : 21.055.
+Jusqu'au 30 juin 1989
+
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :         :      IMMEUBLES    :</td>
+</tr>
+<tr>
+<td> :  TYPE   :      collectifs   :</td>
+</tr>
+<tr>
+<td> :   de    :-------------------:</td>
+</tr>
+<tr>
+<td> :logements:   To    :    Co   :</td>
+</tr>
+<tr>
+<td> :         : (en F)  : (en F)  :</td>
+</tr>
+<tr>
+<td> :---------:-------------------:</td>
+</tr>
+<tr>
+<td> : I       :  50.195 :  24.800 :</td>
+</tr>
+<tr>
+<td> : I bis   :  99.465 :  49.115 :</td>
+</tr>
+<tr>
+<td> : II      : 131.040 :  64.675 :</td>
+</tr>
+<tr>
+<td> : III     : 164.735 :  81.330 :</td>
+</tr>
+<tr>
+<td> : IV      : 195.845 :  96.675 :</td>
+</tr>
+<tr>
+<td> : V       : 229.540 : 113.300 :</td>
+</tr>
+<tr>
+<td> : VI      : 255.495 : 126.110 :</td>
+</tr>
+<tr>
+<td> : VII     : 291.760 : 144.040 :</td>
+</tr>
+<tr>
+<td> : Pièce   :         :         :</td>
+</tr>
+<tr>
+<td> : suppl.  :  31.055 :  15.330 :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :         :      MAISONS      :</td>
+</tr>
+<tr>
+<td> :  TYPE   :   individuelles   :</td>
+</tr>
+<tr>
+<td> :   de    :-------------------:</td>
+</tr>
+<tr>
+<td> :logements:   To    :    Co   :</td>
+</tr>
+<tr>
+<td> :         : (en F)  : (en F)  :</td>
+</tr>
+<tr>
+<td> :---------:-------------------:</td>
+</tr>
+<tr>
+<td> : I       :       0 :       0 :</td>
+</tr>
+<tr>
+<td> : I bis   : 109.445 :  68.735 :</td>
+</tr>
+<tr>
+<td> : II      : 144.135 :  90.575 :</td>
+</tr>
+<tr>
+<td> : III     : 181.200 : 113.850 :</td>
+</tr>
+<tr>
+<td> : IV      : 215.435 : 135.395 :</td>
+</tr>
+<tr>
+<td> : V       : 252.520 : 158.650 :</td>
+</tr>
+<tr>
+<td> : VI      : 281.030 : 176.590 :</td>
+</tr>
+<tr>
+<td> : VII     : 320.945 : 201.635 :</td>
+</tr>
+<tr>
+<td> : Pièce   :         :         :</td>
+</tr>
+<tr>
+<td> : suppl.  :  34.165 :  21.495 :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
+
+A partir du 1er juillet 1989
+
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :         :      IMMEUBLES    :</td>
+</tr>
+<tr>
+<td> :  TYPE   :      collectifs   :</td>
+</tr>
+<tr>
+<td> :   de    :-------------------:</td>
+</tr>
+<tr>
+<td> :logements:   To    :    Co   :</td>
+</tr>
+<tr>
+<td> :         : (en F)  : (en F)  :</td>
+</tr>
+<tr>
+<td> :---------:-------------------:</td>
+</tr>
+<tr>
+<td> : I       :  50.740 :  25.065 :</td>
+</tr>
+<tr>
+<td> : I bis   : 100.535 :  49.645 :</td>
+</tr>
+<tr>
+<td> : II      : 132.450 :  65.370 :</td>
+</tr>
+<tr>
+<td> : III     : 165.510 :  82.205 :</td>
+</tr>
+<tr>
+<td> : IV      : 197.955 :  97.715 :</td>
+</tr>
+<tr>
+<td> : V       : 232.015 : 114.520 :</td>
+</tr>
+<tr>
+<td> : VI      : 258.250 : 127.465 :</td>
+</tr>
+<tr>
+<td> : VII     : 294.905 : 145.590 :</td>
+</tr>
+<tr>
+<td> : Pièce   :         :         :</td>
+</tr>
+<tr>
+<td> : suppl.  :  31.390 :  15.495 :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> :         :      MAISONS      :</td>
+</tr>
+<tr>
+<td> :  TYPE   :   individuelles   :</td>
+</tr>
+<tr>
+<td> :   de    :-------------------:</td>
+</tr>
+<tr>
+<td> :logements:   To    :    Co   :</td>
+</tr>
+<tr>
+<td> :         : (en F)  : (en F)  :</td>
+</tr>
+<tr>
+<td> :---------:-------------------:</td>
+</tr>
+<tr>
+<td> : I       :       0 :       0 :</td>
+</tr>
+<tr>
+<td> : I bis   : 110.625 :  69.475 :</td>
+</tr>
+<tr>
+<td> : II      : 145.685 :  91.550 :</td>
+</tr>
+<tr>
+<td> : III     : 183.155 : 115.080 :</td>
+</tr>
+<tr>
+<td> : IV      : 217.755 : 136.855 :</td>
+</tr>
+<tr>
+<td> : V       : 255.240 : 160.355 :</td>
+</tr>
+<tr>
+<td> : VI      : 284.060 : 178.495 :</td>
+</tr>
+<tr>
+<td> : VII     : 324.405 : 203.810 :</td>
+</tr>
+<tr>
+<td> : Pièce   :         :         :</td>
+</tr>
+<tr>
+<td> : suppl.  :  34.530 :  21.730 :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
 i, a, b, c, d, e, f, et g sont des coefficients dépendant :
 
@@ -360,23 +282,71 @@ Pour les maisons individuelles :
 
 VALEURS DES GARAGES
 
-Jusqu'au 30 juin 1988
+Valeur des garages enterrés ou incorporés.
 
-G = n1 x 37.935 + n2 x 26.735 en zone I.
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : ZONES   :         :         :</td>
+</tr>
+<tr>
+<td> :   DE    :   (1)   :   (2)   :</td>
+</tr>
+<tr>
+<td> : PRIX    :         :         :</td>
+</tr>
+<tr>
+<td> :---------:---------:---------:</td>
+</tr>
+<tr>
+<td> : I       :  39.115 :  39.535 :</td>
+</tr>
+<tr>
+<td> : II      :  35.725 :  36.110 :</td>
+</tr>
+<tr>
+<td> : III     :  33.855 :  34.220 :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
-G = n1 x 34.650 + n2 x 24.295 en zone II.
+(1) Jusqu'au 30 juin 1989 (en francs) (2) A partir du 1er juillet 1989 (en francs).   Valeur des garages construits en superstructure.
 
-G = n1 x 32.835 + n2 x 23.110 en zone III.
+<table>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : ZONES   :         :         :</td>
+</tr>
+<tr>
+<td> :  DE     :   (1)   :   (2)   :</td>
+</tr>
+<tr>
+<td> : PRIX    :         :         :</td>
+</tr>
+<tr>
+<td> :---------:---------:---------:</td>
+</tr>
+<tr>
+<td> : I       :  27.565 :  27.885 :</td>
+</tr>
+<tr>
+<td> : II      :  25.050 :  25.320 :</td>
+</tr>
+<tr>
+<td> : III     :  23.830 :  24.085 :</td>
+</tr>
+<tr>
+<td> :-----------------------------:</td>
+</tr>
+</table>
 
-A partir du 1er juillet 1988
-
-G = n1 x 38.310 + n2 x 27.000 en zone I.
-
-G = n1 x 34.990 + n2 x 24.535 en zone II.
-
-G = n1 x 33.160 + n2 x 23.340 en zone III.
-
-n1 est le nombre d'emplacements individuels de stationnement dans un garage collectif enterré ou incorporé à un bâtiment d'habitation ;
+(1) Jusqu'au 30 juin 1989 (en francs) (2) A partir du 1er juillet 1989 (en francs).   n1 est le nombre d'emplacements individuels de stationnement dans un garage collectif enterré ou incorporé à un bâtiment d'habitation ;
 
 n2 est le nombre d'emplacements individuels de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
 
