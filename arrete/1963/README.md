@@ -20,5 +20,4 @@
 - [Arrêté du 25 mai 1963](arrete-du-25-mai-1963)
 - [Arrêté du 27 juillet 1961](arrete-du-27-juillet-1961)
 - [Arrêté du 28 février 1963](arrete-du-28-fevrier-1963)
-- [Arrêté du 28 octobre 1963](arrete-du-28-octobre-1963)
 - [Arrêté du 30 juillet 1963](arrete-du-30-juillet-1963)
