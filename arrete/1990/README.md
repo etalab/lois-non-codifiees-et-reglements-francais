@@ -535,7 +535,6 @@
 - [Arrêté du 19 septembre 1991 (SANH9101800A)](arrete-du-19-septembre-1991-sanh9101800a)
 - [Arrêté du 20 août 1990 (EQUP9000818A)](arrete-du-20-aout-1990-equp9000818a)
 - [Arrêté du 20 avril 1990 (PRME9061064A)](arrete-du-20-avril-1990-prme9061064a)
-- [Arrêté du 20 décembre 1989 (SPSH8902797A)](arrete-du-20-decembre-1989-spsh8902797a)
 - [Arrêté du 20 décembre 1989 (SPSH8902798A)](arrete-du-20-decembre-1989-spsh8902798a)
 - [Arrêté du 20 décembre 1989 (SPSH8902799A)](arrete-du-20-decembre-1989-spsh8902799a)
 - [Arrêté du 20 décembre 1989 (SPSH8902800A)](arrete-du-20-decembre-1989-spsh8902800a)
