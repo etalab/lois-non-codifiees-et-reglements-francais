@@ -1,34 +1,32 @@
 # Article 21
 
-La commission nationale créée par l'article 1er de la loi du 10 juillet 1989 susvisée et mentionnée aux articles 9 et 20 du présent arrêté est composée des vingt membres suivants :
+La commission nationale créée par l'article 1er de la loi du 10 juillet 1989 et mentionnée aux articles 9 et 20 de l'arrêté du 11 avril 1995 est composée de quatorze membres :
 
-Quatre représentants du ministre chargé de la culture :
+Sept représentants de l'Etat et des collectivités territoriales :
 
 - le directeur de la musique, de la danse, du théâtre et des spectacles, président ;
 
-- le sous-directeur de la formation professionnelle et des entreprises culturelles ;
+- le délégué au développement et à l'action territoriale ;
 
-- le délégué au développement et aux formations ;
+- le chef du service de l'inspection et de l'évaluation à la direction de la musique, de la danse, du théâtre et des spectacles ;
 
-- un inspecteur de la création et des enseignements artistiques chargé de la danse,
+- le sous-directeur de la formation professionnelle et des entreprises culturelles à la direction de la musique, de la danse, du théâtre et des spectacles ;
 
-ou leur représentant.
+- un représentant du ministre de l'éducation nationale ;
 
-Deux représentants du ministre chargé de l'éducation nationale :
+- un représentant du ministre de la jeunesse et des sports ;
 
-- un inspecteur général de l'éducation nationale choisi dans l'une des deux disciplines: éducation musicale ou éducation physique et sportive ;
+- un représentant d'une collectivité territoriale désigné par le ministre chargé de la culture.
 
-- un professeur ou un maître de conférences des universités, ou leur représentant.
+Sept membres nommés par le ministre chargé de la culture :
 
-Deux représentants du ministre chargé de la jeunesse et des sports ;
+- trois personnalités sur proposition des organisations professionnelles du domaine de l'art chorégraphique ;
 
-Deux élus locaux désignés sur proposition du ministre chargé des collectivités locales ;
+- trois personnalités qualifiées dans le domaine de l'art chorégraphique ;
 
-Quatre professionnels désignés par leurs organisations représentatives,
+- un représentant des usagers des écoles de danse.
 
-quatre personnalités qualifiées et deux représentants des usagers nommés par arrêté du ministre chargé de la culture.
-
-Les collèges mentionnés aux derniers alinéas ci-dessus comprennent des membres titulaires et un nombre égal de membres suppléants.
+Pour chaque membre nommé, un suppléant est également désigné.
 
 Les membres de la commission sont nommés pour une période de trois ans. Le mandat peut être renouvelé. En cas d'interruption de ce mandat, le successeur est nommé pour la durée du mandat restant à courir.
 
