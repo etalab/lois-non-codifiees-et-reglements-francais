@@ -16,6 +16,7 @@
 - [16° Affections professionnelles dues aux bacilles tuberculeux](16-affections-professionnelles-dues-aux)
 - [15° Mycoses cutanées, périonyxis et onyxis d'origine professionnelle](15-mycoses-cutanees-perionyxis-et)
 - [34° Ulcérations et dermites provoquées par l'acide chromique, les chromates et bichromates alcalins, le chromate de zinc et le sulfate de chrome.](34-ulcerations-et)
+- [10° Affections provoquées par l'arsenic et ses composés minéraux.](10-affections-provoquees-par)
 - [11° Affections provoquées par les phosphates, pyrophosphates et thiophosphates d'alcoyle, d'aryle ou d'alcoylaryle et autres organo-phosphores anticholinestérasiques, ainsi que par les phosphoramides anticholinestérasiques et les carbamates anticholinestérasiques](11-affections-provoquees-par)
 - [12° Maladies causées par le mercure et ses composés.](12-maladies-causees-par)
 - [13° Affections provoquées par les dérivés nitres du phénol (dinitrophénols, dinitro-orthocrésol, dinosebe, dinoterbe, leurs homologues et leurs sels), par le pentachlorophénol et les pentachlorophénates, et par les dérivés halogènes de l'hydroxybenzonitrile (bromoxynil, ioxynil).](13-affections-provoquees-par)
