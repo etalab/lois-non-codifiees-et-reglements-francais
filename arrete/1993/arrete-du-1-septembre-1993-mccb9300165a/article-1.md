@@ -10,7 +10,7 @@ Le chef du service chargé de la formation au Centre national de la cinématogra
 
 Le chef du service chargé des industries techniques de l'image et du son au Centre national de la cinématographie ou son représentant ;
 
-Un inspecteur de l'éducation nationale ;
+Un inspecteur général de l'éducation nationale ;
 
 Le délégué au développement et aux formations ou son représentant ;
 

@@ -1,0 +1,3 @@
+# Article 14
+
+Les procès-verbaux des votes sont adressés directement au ministère des affaires sociales, de la santé et de la ville (direction des hôpitaux, bureau P.M. 1) et au ministère de l'enseignement supérieur et de la recherche (bureau D.G.A. 3) conjointement par le directeur général du centre hospitalier universitaire et par le président de l'université. Les enveloppes ou bulletins de vote déclarés nuls et sur lesquels le motif de nullité sera indiqué sont adressés directement au ministère de l'enseignement supérieur et de la recherche ainsi qu'un exemplaire des listes électorales de la 3e catégorie prévue à l'article 2 ci-dessus indiquant la date de naissance et la date de début des fonctions hospitalières et universitaires.

@@ -506,6 +506,7 @@
 - [Décret n°94-79 du 21 janvier 1994 (SPSS9303751D)](decret-n94-79-du-21-janvier-1994-spss9303751d)
 - [Décret n°94-820 du 21 septembre 1994 (SPSS9401488D)](decret-n94-820-du-21-septembre-1994-spss9401488d)
 - [Décret n°94-821 du 21 septembre 1994 (SPSS9401489D)](decret-n94-821-du-21-septembre-1994-spss9401489d)
+- [Décret n°94-829 du 21 septembre 1994 (JUSC9420732D)](decret-n94-829-du-21-septembre-1994-jusc9420732d)
 - [Décret n°94-84 du 21 janvier 1994 (BUDF9300033D)](decret-n94-84-du-21-janvier-1994-budf9300033d)
 - [Décret n°76-1073 du 22 novembre 1976](decret-n76-1073-du-22-novembre-1976)
 - [Décret n°88-413 du 22 avril 1988 (RESX8810277D)](decret-n88-413-du-22-avril-1988-resx8810277d)
