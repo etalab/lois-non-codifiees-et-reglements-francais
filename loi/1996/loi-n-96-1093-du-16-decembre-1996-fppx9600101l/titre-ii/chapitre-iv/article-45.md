@@ -6,4 +6,4 @@ Le remboursement prévu au premier alinéa du présent article est effectué men
 
 Le fonds procède au remboursement prévu au premier alinéa du présent article lorsqu'un office public d'aménagement et de construction recrute un agent pour compenser le départ d'un fonctionnaire auquel il a accordé un congé de fin d'activité.
 
-Lors de la dissolution du fonds, qui interviendra au plus tard le 31 décembre de l'an 2000, le reliquat éventuel sera reversé au régime de l'allocation temporaire d'invalidité mentionnée au premier alinéa.
+Lors de la dissolution du fonds, le reliquat éventuel sera reversé au régime de l'allocation temporaire d'invalidité mentionnée au premier alinéa.

@@ -12,4 +12,4 @@ Les dispositions du premier alinéa ne font pas obstacle à l'exercice des activ
 
 4° Activités exercées par des personnes bénéficiant de l'article L. 634-6-1.
 
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 1998.
+Les dispositions du présent article sont applicables jusqu'au 31 décembre 1999.

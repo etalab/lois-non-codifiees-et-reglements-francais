@@ -6,4 +6,3 @@
 - [Article 26-3](article-26-3.md)
 - [Article 26-4](article-26-4.md)
 - [Article 27](article-27.md)
-- [Article 27 quater](article-27-quater.md)
