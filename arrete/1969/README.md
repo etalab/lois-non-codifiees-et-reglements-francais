@@ -12,6 +12,7 @@
 - [Arrêté du 19 juin 1969](arrete-du-19-juin-1969)
 - [Arrêté du 20 novembre 1969](arrete-du-20-novembre-1969)
 - [Arrêté du 21 novembre 1969](arrete-du-21-novembre-1969)
+- [Arrêté du 22 avril 1969](arrete-du-22-avril-1969)
 - [Arrêté du 22 octobre 1969](arrete-du-22-octobre-1969)
 - [Arrêté du 22 mai 1969](arrete-du-22-mai-1969)
 - [Arrêté du 23 avril 1969](arrete-du-23-avril-1969)
