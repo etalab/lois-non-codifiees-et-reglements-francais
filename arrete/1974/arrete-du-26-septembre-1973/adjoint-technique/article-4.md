@@ -6,7 +6,7 @@ Les inscriptions sur la liste d'aptitude au titre du paragraphe a de l'article p
 
 Le concours peut comporter une épreuve orale consistant en une conversation avec le jury ayant pour point de départ des questions simples sur des sujets d'ordre général ou en rapport avec la profession.
 
-2° Dans la proportion de 25 p. 100 [*pourcentage*], après concours sur épreuves ouvert aux candidats réunissant les conditions générales de recrutement fixées par le statut du personnel des communes et des établissements publics communaux.
+2° Dans la proportion de 25 p. 100, après concours sur épreuves ouvert aux candidats réunissant les conditions générales de recrutement fixées par le statut du personnel des communes et des établissements publics communaux.
 
 3° Dans la proportion de 15 p. 100, après concours sur épreuves ouvert aux agents titulaires et non titulaires à temps complet ou non complet des communes et des établissements publics communaux visés à l'article 477 du code de l'administration communale âgés de quarante ans au plus au 1er janvier de l'année du concours et comptant respectivement à cette date au moins quatre ou cinq ans [*ancienneté*] de service.
 
