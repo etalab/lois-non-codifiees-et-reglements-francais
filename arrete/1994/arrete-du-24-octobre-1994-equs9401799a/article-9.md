@@ -8,7 +8,7 @@ Les dispositions du présent arrêté, sont applicables :
 
 Les dispositions de la directive n° 92/23/CEE telle que modifiée par la directive 2001/43/CE susvisée sont applicables :
 
-- aux pneumatiques neufs fabriqués à compter du 4 août 2003 ;
+- aux pneumatiques neufs homologués à compter du 4 août 2003 ;
 
 - aux véhicules réceptionnés par type en ce qui concerne les pneumatiques et leur montage à compter du 4 février 2004 ;
 
