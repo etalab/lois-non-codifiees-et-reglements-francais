@@ -552,7 +552,6 @@
 - [Arrêté du 17 juillet 1997 (INTB9700351A)](arrete-du-17-juillet-1997-intb9700351a)
 - [Arrêté du 17 juillet 1997 (MESE9711063A)](arrete-du-17-juillet-1997-mese9711063a)
 - [Arrêté du 17 mars 1997 (AVIN9701104A)](arrete-du-17-mars-1997-avin9701104a)
-- [Arrêté du 17 mars 1997 (AVIN9701105A)](arrete-du-17-mars-1997-avin9701105a)
 - [Arrêté du 17 mars 1997 (AVIN9701106A)](arrete-du-17-mars-1997-avin9701106a)
 - [Arrêté du 17 mars 1997 (DEFT9701336A)](arrete-du-17-mars-1997-deft9701336a)
 - [Arrêté du 17 mars 1997 (ECOK9700016A)](arrete-du-17-mars-1997-ecok9700016a)
