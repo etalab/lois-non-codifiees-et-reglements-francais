@@ -4,5 +4,3 @@
 - [Section 2 : Instruction des demandes d'avis soumises au comité consultatif.](section-2)
 - [Section 3 : Instruction des demandes d'autorisation par la Commission nationale de l'informatique et des libertés.](section-3)
 - [Section 4 : Modalités d'information des personnes concernées.](section-4)
-- [Article 26](article-26.md)
-- [Article 27](article-27.md)
