@@ -1,0 +1,5 @@
+# Article 8
+
+Les vins pour lesquels, aux termes du présent décret, sont revendiquées les appellations contrôlées définies par ce même décret et qui sont présentés sous ladite appellation ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans la déclaration de récolte, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine susvisée soit inscrite et accompagnée de la mention "Appellation contrôlée", le tout en caractères très apparents.
+
+Les dimensions des caractères des mots : "Vin de Savoie" ou "Roussette de Savoie", suivis ou non d'un nom de cru, doivent être au moins égales, aussi bien en hauteur qu'en largeur, à la moitié de celles des caractères les plus grands figurant sur les étiquettes. La mention du nom de cépage peut être indiquée dans le cas où le vin provient d'un seul cépage, en caractères dont les dimensions doivent être inférieures aux deux tiers de celles du nom de l'appellation.

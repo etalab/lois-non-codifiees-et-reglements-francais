@@ -1,4 +1,4 @@
-# Décret du 29 juin 1936 relatif à l'appellation d'origine contrôlée "Champagne"
+# Décret du 18 mars 1998 relatif aux appellations d'origine contrôlées "Vin de Savoie" et "Roussette de Savoie"
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -11,6 +11,3 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Article 12](article-12.md)
-- [Article 13](article-13.md)
-- [Rapport au Président de la République Française.](rapport-au)
