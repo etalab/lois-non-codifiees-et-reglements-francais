@@ -12,6 +12,6 @@ au 1er août 1992 : 301-493,
 
 Classe supérieure : 418-533 ;
 
-Masseurs-kinésithérapeutes, surveillants des services médicaux :
+masseur-kinésithérapeute, surveillant des services médicaux :
 
-384-579 ;
+422-638, à compter du 1er août 1992.

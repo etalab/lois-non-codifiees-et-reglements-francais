@@ -12,4 +12,4 @@ au 1er août 1992 : 301-493,
 
 Classe supérieure : 418-533 ;
 
-Ergothérapeutes, surveillants des services médicaux : 384-579 ;
+ergothérapeute, surveillant des services médicaux : 422-638, à compter du 1er août 1992.

@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 ADMINISTRATION CENTRALE ET SERVICES DECONCENTRES COMMUNS
 
@@ -28,6 +28,16 @@ Hôtesse d'accueil.
 
 Agent de sécurité.
 
+Agent chargé de l'élaboration, de la conception et du suivi des marchés informatiques.
+
+Agent chargé du contrôle ou de l'exécution des marchés informatiques.
+
+Secrétaire de direction.
+
+Agent chargé de l'organisation d'actions en matière sociale.
+
+Responsable d'une cellule financière ou comptable.
+
 DIRECTION DE L'ADMINISTRATION PÉNITENTIAIRE
 
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
@@ -52,65 +62,67 @@ Gestionnaire unique.
 
 Technicien.
 
-DIRECTION DES SERVICES JUDICIAIRES
+SERVICES JUDICIAIRES
 
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
+Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire (1)
 
-Chef de greffe, juridiction 1er groupe :
+Greffier en chef, chef de greffe.
 
-- cour d'appel ;
+Greffier, chef de greffe.
 
-- tribunal de grande instance de quatre chambres et plus ;
-
-- tribunal d'instance : Bordeaux, Lille, Lyon, Marseille, Metz, Mulhouse, Strasbourg, Toulouse.
-
-Chef de greffe, juridiction 2e groupe :
-
-- conseil de prud'hommes : Nanterre, Nice, Créteil, Grenoble, Toulon, Lille, Bordeaux, Toulouse, Nantes.
+Greffier en chef à la mission d'inspection des greffes.
 
 Formateur régional.
 
 Délégué à la formation informatique.
 
-Maître de conférences.
+Délégué à la formation informatique adjoint.
 
-Direction école nationale des greffes :
+Maître de conférences à l'Ecole nationale des greffes.
 
-- direction des stages, adjoint ;
+Directeur de la formation permanente et informatique à l'Ecole nationale des greffes.
 
-- sous-direction formation permanente ;
+Sous-directeur de la formation initiale et de la recherche à l'Ecole nationale des greffes.
 
-- secrétaire général adjoint.
+Sous-directeur de la formation permanente à l'Ecole nationale des greffes.
 
-Régisseur d'avances et de recettes régie > 450 000 F.
+Secrétaire général adjoint à l'Ecole nationale des greffes.
 
-Chef de greffe.
+Régisseur d'avances et de recettes dont le montant de la régie est supérieur à 450 000 F.
 
 Greffier placé.
 
-Délégué à la formation informatique adjoint.
+Greffier en chef mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions.
 
-Greffier affecté à l'administration centrale ou mis à disposition.
+Greffier mis à disposition ou affecté à l'administration centrale ou à l'Ecole nationale des greffes chargé de développement, d'implantation et de formation en matière informatique au profit des juridictions.
 
-Greffier d'audience correctionnelle ;
+Greffier d'audience correctionnelle collégiale dans un tribunal de grande instance.
 
-Greffier d'assises,
+Greffier d'assises dans une cour d'assises rendant trente arrêts et plus par an.
 
-localisés dans les cours d'appel de Paris, Versailles, Aix, Douai, Rennes, Lyon et les tribunaux de grande instance de Paris, Nanterre, Bobigny, Créteil, Lille, Lyon, Marseille, Versailles.
+Greffier d'instruction dans un cabinet d'instruction d'un tribunal de grande instance.
 
-Greffier d'instruction localisé dans les cours d'appel de Paris, Versailles, Aix, Douai, Lyon, Rennes et dans les tribunaux de grande instance de Paris, Nanterre, Bobigny, Créteil, Lille, Lyon, Marseille, Versailles.
+Chef de service chargé de fonctions particulières à la Cour de cassation.
 
-DIRECTION DE LA PROTECTION JUDICIAIRE DE LA JEUNESSE
+Assistant informatique chargé de fonctions particulières à la Cour de cassation.
+
+Assistant informatique adjoint chargé de fonctions particulières à la Cour de cassation.
+
+Assistant de gestion chargé de fonctions particulières à la Cour de cassation.
+
+Assistant de gestion adjoint chargé de fonctions particulières à la Cour de cassation.
+
+(1) Les fonctions exercées par des greffiers en chef nommés sur des emplois du premier grade et classés dans les 1re et 2e catégories ne sont pas bonifiées.
+
+PROTECTION JUDICIAIRE DE LA JEUNESSE
+
+(services déconcentrés)
 
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
 
-Régisseur. - Régie > 200 000 F.
+Régisseur d'avances et de recettes dont le montant de la régie est égal ou supérieur à 80 000 F.
 
-Régisseur. - Régie > 80 000 F.
-
-Régisseur. - Régie < ou = 80 000 F.
-
-Directeur de l'Ecole nationale de formation des personnels de la protection judiciaire de la jeunesse.
+Régisseur d'avances et de recettes dont le montant de la régie est inférieur à 80 000 F.
 
 Directeur d'établissement :
 
@@ -118,29 +130,47 @@ Directeur d'établissement :
 
 - établissement de plus de 35 agents.
 
-Sous-directeur responsable d'un département et d'un centre d'orientation et d'action éducative.
+Directeur de 2e classe responsable d'un département et d'un centre d'orientation et d'action éducative.
 
 Animateur de formation.
 
 Correspondant informatique.
 
+Adjoint au directeur régional d'Ile-de-France.
+
+Responsable national de l'insertion économique.
+
+Responsable Informatique national.
+
+Chargé de la direction d'un établissement ou d'un service.
+
+Educateur volant.
+
+Agent technique d'éducation exerçant dans des établissements non pourvus d'un logement de fonction occupé par un directeur ou un éducateur.
+
+Accueil secrétariat.
+
 GRANDE CHANCELLERIE DE LA LÉGION D'HONNEUR
 
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
 
-Responsable de la saisie informatique des propositions des ordres nationaux.
+Chef du bureau chargé de la gestion informatisée des membres des ordres nationaux.
 
 Adjoint au système informatique des ordres nationaux.
 
 Gestionnaire des dossiers des membres des ordres nationaux.
 
-Responsable du matériel et de la comptabilité " Matériel ".
+Responsable du matériel et de la comptabilité Matériel.
 
 Responsable de la paie et de la comptabilité des personnels.
 
 Agent d'accueil et de sécurité.
 
 Adjoint au responsable du budget.
+
+Adjoint au chef du bureau de gestion de la Légion d'honneur.
+
+Secrétaire au cabinet du grand chancelier.
 
 MAISONS D'ÉDUCATION DE LA LÉGION D'HONNEUR
 
@@ -155,3 +185,15 @@ Agent d'accueil et de sécurité.
 Chef magasinier.
 
 Responsable de l'entretien (Saint-Denis).
+
+Responsable de la gestion de la maison d'éducation de Saint-Denis.
+
+Responsable de la gestion de la maison d'éducation des Loges.
+
+Responsable de la gestion des personnels des maisons d'éducation.
+
+Chef d'équipe d'ouvriers d'entretien de la maison d'éducation de Saint-Denis.
+
+Chef d'équipe d'ouvriers d'entretien de la maison d'éducation des Loges.
+
+Infirmière responsable de la maison d'éducation des Loges.

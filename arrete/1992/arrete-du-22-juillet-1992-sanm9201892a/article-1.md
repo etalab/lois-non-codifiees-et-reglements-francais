@@ -1,0 +1,3 @@
+# Article 1
+
+La fabrication et la délivrance de spécialités homéopathiques unitaires à nom commun, spécialités homéopathiques à nom de fantaisie, spécialités homéopathiques composées à nom commun, de préparations magistrales ainsi que de tout autre médicament homéopathique à base de produits d'origine bovine provenant des tissus et liquides corporels suivants : cerveau, moelle épinière, yeux, iléon, ganglions lymphatiques, côlon proximal, rate, amygdales, dure-mère, glande pinéale, placenta, liquide céphalo-rachidien, hypophyse, glandes surrénales sont interdites à compter de la date de publication du présent arrêté.

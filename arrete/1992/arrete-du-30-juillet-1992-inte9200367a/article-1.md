@@ -1,0 +1,3 @@
+# Article 1
+
+La commission départementale, mentionnée à l'article 25 du décret du 9 septembre 1965 modifié susvisé, est consultée pour l'attribution des prestations et indemnisations relatives à l'incapacité temporaire et à l'invalidité permanente des sapeurs-pompiers volontaires en cas d'accident survenu ou de maladie contractée en service, en application de l'article 1er du décret du 7 juillet 1992 susvisé. Elle est instituée par chaque préfet par arrêté et sa composition est dans ce cas celle fixée par les articles 2 à 6 du présent arrêté, conformément à l'article 2 du décret du 7 juillet 1992 susvisé.

@@ -12,4 +12,4 @@ Au 1er août 1992 : 301-487 (493).
 
 Classe supérieure : 418-533.
 
-Technicien de laboratoire surveillant : 384-579.
+Technicien de laboratoire, surveillant : 422-638, à compter du 1er août 1992.

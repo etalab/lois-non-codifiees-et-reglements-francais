@@ -1,9 +1,11 @@
 # Article 11 bis
 
-1. L'affilié relevant du régime qui bénéficie, au titre du régime général de la sécurité sociale, d'une pension d'invalidité ou d'une rente allouée en réparation d'un accident du travail ou d'une maladie professionnelle et correspondant à un taux d'incapacité permanente des deux tiers au moins, a droit à l'inscription à son compte d'un nombre de points gratuits.
+1. L'affilié relevant du régime qui bénéficie d'une pension d'invalidité du régime général ou des assurances sociales agricoles a droit à l'inscription à son compte de points gratuits tant que la pension n'est pas supprimée.
 
-2. Le nombre de points gratuits attribué en application du paragraphe 1 est tel que le total annuel des points soit identique à celui acquis avant l'attribution de la pension ou de la rente, ou éventuellement de la maladie qui l'avait précédée.
+2. L'affilié relevant du régime qui bénéficie d'une rente d'accident du travail ou de maladie professionnelle correspondant à un taux d'incapacité des deux tiers au moins a droit à l'inscription à son compte de points gratuits jusqu'à l'âge de soixante ans tant que le taux d'incapacité servant au calcul de la rente n'est pas porté par révision à un taux inférieur aux deux tiers.
 
-3. Si le participant admis au bénéfice du présent article perçoit une partie de son salaire, les cotisations correspondantes sont dues. Le nombre de points gratuits est limité, dans ce cas, à la différence entre le nombre de points gratuits auxquels il pourrait prétendre en vertu du paragraphe 2 du présent article et le nombre de points acquis par versement de cotisations.
+3. Le nombre de points gratuits attribués en application des paragraphes 1 et 2 est tel que le total annuel des points soit identique à celui acquis avant l'attribution de la pension ou de la rente, ou éventuellement de la maladie qui l'avait précédée.
 
-4. Les avantages institués par le présent article cessent dès que le participant voit son taux d'incapacité devenir inférieur à 50 %, ou dès qu'il reprend une activité salariée à temps complet relevant du régime, ou dès qu'il reprend une activité salariée ne relevant pas du régime ou dès qu'il est en mesure d'obtenir une pension de vieillesse de la sécurité sociale.
+" 4. Si le participant admis au bénéfice du présent article perçoit un salaire donnant lieu à cotisation à l'I.R.C.A.N.T.E.C. ou à un autre régime complémentaire le nombre de points gratuits attribués est réduit du nombre de points attribués du fait du salaire reçu. Si l'activité salariée n'est pas exercée dans le champ de l'I.R.C.A.N.T.E.C., le nombre de points à déduire est égal aux droits acquis dans le régime dont relève l'activité reprise, convertis en points I.R.C.A.N.T.E.C.
+
+5. Les dispositions qui précèdent sont applicables aux situations d'invalidité, intervenues à compter de la date d'effet de l'arrêté du 12 novembre 1981 relatif aux modalités de fonctionnement du régime de retraites complémentaire des assurances sociales institué par le décret n° 70-1277 du 23 décembre 1970 susvisé, ou en cours à cette date et pour les périodes postérieures à cette même date. "

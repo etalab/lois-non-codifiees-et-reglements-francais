@@ -12,4 +12,6 @@ au 1er août 1992 : 301-507,
 
 Classe supérieure : 418 - 533 ;
 
-Infirmier spécialisé en anesthésie-réanimation, surveillant des services médicaux : 384 - 579.
+Infirmier anesthésiste, surveillant des services médicaux :
+
+422-638, à compter du 1er août 1992.

@@ -12,4 +12,4 @@ au 1er août 1992 : 301-460 (487),
 
 Classe supérieure : 418 - 533 ;
 
-Infirmier, surveillant des services médicaux : 384 - 579.
+Infirmier, surveillant des services médicaux : 422 - 638, à compter du 1er août 1992.

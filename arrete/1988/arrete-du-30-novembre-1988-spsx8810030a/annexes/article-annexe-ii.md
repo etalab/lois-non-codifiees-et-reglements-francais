@@ -1,10 +1,10 @@
 # Article ANNEXE II
 
-CORPS DES INFIRMIERS DE SALLE D'OPERATION
+CORPS DES INFIRMIERS DE BLOC OPERATOIRE
 
 CORPS DES PUERICULTRICES
 
-Infirmier de salle d'opération de classe normale ou puéricultrice de classe normale :
+Infirmier de bloc opératoire de classe normale ou puéricultrice de classe normale :
 
 8e échelon :
 
@@ -64,7 +64,7 @@ Au 1er août 1991 Indice brut : 291
 
 Au 1er août 1992 Indice brut : 301
 
-Infirmier de salle d'opération de classe supérieure ou puéricultrice de classe supérieure :
+Infirmier de bloc opératoire de classe supérieure ou puéricultrice de classe supérieure :
 
 5e échelon        Indices bruts : 533
 
@@ -76,18 +76,46 @@ Infirmier de salle d'opération de classe supérieure ou puéricultrice de class
 
 1er échelon       Indices bruts : 418
 
-Infirmier de salle d'opération, surveillant des services médicaux ou puéricultrice, surveillant des services médicaux :
+Infirmier de bloc opératoire, surveillant des services médicaux ou puéricultrice, surveillant des services médicaux :
 
-7e échelon        Indices bruts : 579
+7e échelon        Indices bruts :
 
-6e échelon        Indices bruts : 547
+Situation antérieure : 579
 
-5e échelon        Indices bruts : 510
+Situation nouvelle à compter du 1er août 1992 : 638
 
-4e échelon        Indices bruts : 479
+6e échelon        Indices bruts :
 
-3e échelon        Indices bruts : 448
+Situation antérieure : 547
 
-2e échelon        Indices bruts : 423
+Situation nouvelle à compter du 1er août 1992 : 595
 
-1er échelon       Indices bruts : 384.
+5e échelon        Indices bruts :
+
+Situation antérieure : 510
+
+Situation nouvelle à compter du 1er août 1992 : 557
+
+4e échelon        Indices bruts :
+
+Situation antérieure : 479
+
+Situation nouvelle à compter du 1er août 1992 : 522
+
+3e échelon        Indices bruts :
+
+Situation antérieure : 448
+
+Situation nouvelle à compter du 1er août 1992 : 485
+
+2e échelon        Indices bruts :
+
+Situation antérieure : 423
+
+Situation nouvelle à compter du 1er août 1992 : 455
+
+1er échelon        Indices bruts :
+
+Situation antérieure : 384
+
+Situation nouvelle à compter du 1er août 1992 : 422

@@ -126,7 +126,9 @@ Situation antérieure : 286
 
 Au 1er août 1991 : 291
 
-Au 1er août 1992 : 301 ------------------------- (1) Echelon exceptionnel accessible suivant les dispositions mentionnées aux articles 13 et 21 du décret n° 89-613 du 1er septembre 1989 susvisé.Technicien de laboratoire de classe supérieure
+Au 1er août 1992 : 301 ------------------------- (1) Echelon exceptionnel accessible suivant les dispositions mentionnées aux articles 13 et 21 du décret n° 89-613 du 1er septembre 1989 susvisé.
+
+Technicien de laboratoire de classe supérieure
 
 Manipulateur d'électroradiologie médicale de classe supérieure
 
@@ -151,48 +153,52 @@ Manipulateur d'électroradiologie médicale de classe supérieure
 <tr>
 <td> :1er     :    418      :</td>
 </tr>
-<tr>
-<td> -------------------------</td>
-</tr>
-<tr>
-<td/>
-</tr>
-<tr>
-<td> Technicien de laboratoire, surveillant</td>
-</tr>
-<tr>
-<td> Manipulateur d'électroradiologie médicale, surveillant</td>
-</tr>
-<tr>
-<td/>
-</tr>
-<tr>
-<td> ------------------------</td>
-</tr>
-<tr>
-<td> :Echelons:Indices bruts:</td>
-</tr>
-<tr>
-<td> :7e      :    579      :</td>
-</tr>
-<tr>
-<td> :6e      :    547      :</td>
-</tr>
-<tr>
-<td> :5e      :    510      :</td>
-</tr>
-<tr>
-<td> :4e      :    479      :</td>
-</tr>
-<tr>
-<td> :3e      :    448      :</td>
-</tr>
-<tr>
-<td> :2e      :    423      :</td>
-</tr>
-<tr>
-<td> :1er     :    384      :</td>
-</tr>
 </table>
 
 -------------------------
+
+Technicien de laboratoire, surveillant
+
+Manipulateur d'électroradiologie médicale, surveillant
+
+7e échelon        Indices bruts :
+
+Situation antérieure : 579
+
+Situation nouvelle à compter du 1er août 1992 : 638
+
+6e échelon        Indices bruts :
+
+Situation antérieure : 547
+
+Situation nouvelle à compter du 1er août 1992 : 595
+
+5e échelon        Indices bruts :
+
+Situation antérieure : 510
+
+Situation nouvelle à compter du 1er août 1992 : 557
+
+4e échelon        Indices bruts :
+
+Situation antérieure : 479
+
+Situation nouvelle à compter du 1er août 1992 : 522
+
+3e échelon        Indices bruts :
+
+Situation antérieure : 448
+
+Situation nouvelle à compter du 1er août 1992 : 485
+
+2e échelon        Indices bruts :
+
+Situation antérieure : 423
+
+Situation nouvelle à compter du 1er août 1992 : 455
+
+1er échelon        Indices bruts :
+
+Situation antérieure : 384
+
+Situation nouvelle à compter du 1er août 1992 : 422

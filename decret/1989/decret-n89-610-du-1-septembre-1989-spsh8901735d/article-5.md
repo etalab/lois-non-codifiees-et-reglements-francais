@@ -12,4 +12,4 @@ au 1er août 1992 : 301-487,
 
 Classe supérieure : 418-533 ;
 
-Orthophonistes, surveillants des services médicaux : 384-579 ;
+orthophoniste, surveillant des services médicaux : 422-638, à compter du 1er août 1992.
