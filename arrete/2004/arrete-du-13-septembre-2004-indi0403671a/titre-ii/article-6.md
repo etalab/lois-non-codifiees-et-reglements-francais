@@ -1,0 +1,3 @@
+# Article 6
+
+Les titres ou diplômes exigés à l'appui d'une candidature au recrutement sur titres en deuxième année et en troisième année sont définis dans le règlement du recrutement visé supra. Dans le cas d'ententes ou de partenariats avec des établissements étrangers visant notamment des doubles diplômes, l'admissibilité d'un candidat peut être prononcée par le jury de recrutement sur titres défini à l'article 7, sur la base d'une reconnaissance mutuelle de sa formation antérieure par les établissements. Dans tous les cas où le candidat souhaite faire valider ses acquis de l'enseignement supérieur, le jury d'évaluation est le jury de recrutement sur titres.
