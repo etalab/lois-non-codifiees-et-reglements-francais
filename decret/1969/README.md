@@ -16,6 +16,8 @@
 - [Décret n°69-52 du 10 janvier 1969](decret-n69-52-du-10-janvier-1969)
 - [Décret n°69-344 du 11 avril 1969](decret-n69-344-du-11-avril-1969)
 - [Décret n°69-366 du 11 avril 1969](decret-n69-366-du-11-avril-1969)
+- [Décret n°69-564 du 12 juin 1969](decret-n69-564-du-12-juin-1969)
+- [Décret n°69-571 du 12 juin 1969](decret-n69-571-du-12-juin-1969)
 - [Décret n°69-190 du 15 février 1969](decret-n69-190-du-15-fevrier-1969)
 - [Décret n°69-195 du 15 février 1969](decret-n69-195-du-15-fevrier-1969)
 - [Décret n°69-196 du 15 février 1969](decret-n69-196-du-15-fevrier-1969)
