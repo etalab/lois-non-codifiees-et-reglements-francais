@@ -4,9 +4,7 @@ Un résident d'un autre Etat membre ne peut acquérir des armes de la cinquième
 
 - une déclaration écrite marquant et justifiant son intention de les détenir en France ;
 
-- ou un permis pour les transférer vers son Etat de résidence,
-
-au commissaire de police ou à défaut au commandant de brigade de gendarmerie, compétent au lieu d'acquisition. Il lui est délivré un récépissé en double exemplaire de la déclaration justificative ou du permis de transfert.
+- ou un permis pour les transférer vers son Etat de résidence lorsqu'il s'agit d'armes de la 5e ou de la 7e catégorie (alinéas 1er et 3) au commissaire de police ou à défaut au commandant de brigade de gendarmerie, compétent au lieu d'acquisition. Il lui est délivré un récépissé en double exemplaire de la déclaration justificative ou du permis de transfert.
 
 Ces armes ne peuvent être acquises auprès des personnes qui se livrent au commerce des armes ou de toute autre personne que sur remise dudit récépissé.
 
