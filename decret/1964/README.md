@@ -7,6 +7,7 @@
 - [Décret n°64-498 du 1 juin 1964](decret-n64-498-du-1-juin-1964)
 - [Décret n°64-685 du 2 juillet 1964](decret-n64-685-du-2-juillet-1964)
 - [Décret n°64-11 du 3 janvier 1964](decret-n64-11-du-3-janvier-1964)
+- [Décret n°64-1193 du 3 décembre 1964](decret-n64-1193-du-3-decembre-1964)
 - [Décret n°64-225 du 3 novembre 1964](decret-n64-225-du-3-novembre-1964)
 - [Décret n°64-862 du 3 août 1964](decret-n64-862-du-3-aout-1964)
 - [Décret n°64-942 du 3 septembre 1964](decret-n64-942-du-3-septembre-1964)
