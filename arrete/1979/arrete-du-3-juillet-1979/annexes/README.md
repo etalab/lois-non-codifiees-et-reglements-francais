@@ -1,6 +1,5 @@
 # Annexes
 
-- [Article Annexe](article-annexe.md)
 - [Annexe I](annexe-i)
 - [Annexe II](annexe-ii)
 - [Tableau 1](tableau-1)
