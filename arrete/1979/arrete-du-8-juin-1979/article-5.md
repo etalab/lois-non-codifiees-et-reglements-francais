@@ -1,3 +1,3 @@
 # Article 5
 
-La commission propose au ministre de l'environnement de saisir le ministre de la santé en vue d'une consultation du conseil supérieur d'hygiène publique de France lorsque les dossiers font apparaître l'intérêt d'une évaluation quant aux effets des produits en cause sur la santé humaine.
+Le directeur général de la santé, le directeur de la prévention des pollutions et le directeur des routes et de la circulation routière sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

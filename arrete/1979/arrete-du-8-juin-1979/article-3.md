@@ -1,3 +1,3 @@
 # Article 3
 
-Le secrétariat de la commission est assuré par le service du contrôle des produits de la direction de la prévention des pollutions.
+Le laboratoire de l'union technique de l'automobile, du motocycle et du cycle, autodrome de Linas-Monthléry, 91-Linas-Monthléry, est agréé pour effectuer les essais prévus par ladite directive. Les essais sont à la charge du demandeur.
