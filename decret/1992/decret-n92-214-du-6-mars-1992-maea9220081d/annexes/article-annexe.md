@@ -47,3 +47,13 @@ Chef de section géographique (visas) au service des étrangers en France.
 Coordonnateur (visas) au service des étrangers en France.
 
 Agent chargé du microfilmage à la direction des archives et de la documentation.
+
+Agent exerçant des fonctions de gestion budgétaire et comptable.
+
+Agent responsable de classement et de gestion d'archives.
+
+Agent chargé de fonctions d'accueil.
+
+Agent chargé d'encadrer des personnels d'exécution.
+
+Agent spécialisé, chargé de fonctions techniques.
