@@ -1,0 +1,3 @@
+# Article 2
+
+Outre les attributions qui découlent pour elle de celles qui sont conférées à son directeur par l'article ler, la direction des affaires juridiques exerce une fonction de conseil, d'expertise et d'assistance auprès des directions du ministère de l'économie, des finances et de l'industrie ou à la demande des autres administrations de l'Etat et de ses établissements publics. Elle coordonne, à la demande du ministre, l'élaboration des textes législatifs et réglementaires. Elle assiste les directions dans l'élaboration des études précédant ces textes. Elle propose au ministre chargé de l'économie, des finances et de l'industrie, des réformes de la législation ou de la réglementation. Elle analyse et élabore la réglementation relative à la commande publique.

@@ -1,0 +1,3 @@
+# Article 3
+
+Les décrets n° 77-473 du 6 mai 1977 portant création d'une direction générale pour les relations avec le public au ministère de l'économie et des finances, n° 87-27 du 15 janvier 1987 portant transformation d'une direction générale en un service au ministère de l'économie, des finances et de la privatisation et n° 91-354 du 12 avril 1991 portant transformation du service de la communication et des relations avec le public en direction de la communication au ministère de l'économie, des finances et du budget, le 8° de l'article 1er du décret du ler décembre 1993 susvisé ainsi que l'article 23 du même décret sont abrogés.
