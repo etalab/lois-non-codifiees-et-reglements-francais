@@ -1,3 +1,3 @@
 # Article 5
 
-Les dispositions du présent arrêté ne s'appliquent pas aux entreprises faisant l'objet de mesures spécifiques prises par les   préfets en vertu de la délégation de compétence donnée par l'article 6 de l'arrêté n° 82-96 / A du 22 octobre 1982 qui est confirmée.
+Les employeurs qui auront versé des salaires inférieurs aux minima fixés aux articles 2 et 3 ci-dessus seront passibles des peines prévues à l'article R. 154-1 du code du travail en ce qui concerne la métropole et à l'article R. 881-1 du code du travail en ce qui concerne les départements d'outre-mer.
