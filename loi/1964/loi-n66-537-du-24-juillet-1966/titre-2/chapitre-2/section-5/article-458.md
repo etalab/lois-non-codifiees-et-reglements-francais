@@ -1,3 +1,0 @@
-# Article 458
-
-Seront punis d'un emprisonnement de cinq ans et d'une amende de 120.000 F [*sanctions pénales*] ou de l'une de ces deux peines seulement, le président, les administrateurs, les directeurs généraux ou toute personne au service de la société qui auront, sciemment [*intention frauduleuse*], mis obstacle aux vérifications ou contrôles des commissaires aux comptes ou des experts nommés en exécution de l'article 226 ou qui leur auront refusé la communication sur place de toutes les pièces utiles à l'exercice de leur mission, et notamment de tous contrats, livres, documents comptables et registres de procès-verbaux [*information*].

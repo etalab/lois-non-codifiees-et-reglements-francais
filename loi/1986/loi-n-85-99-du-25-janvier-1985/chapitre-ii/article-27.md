@@ -1,5 +1,0 @@
-# Article 27
-
-La qualité de mandataire-liquidateur inscrit sur la liste est incompatible avec l'exercice de toute autre profession.
-
-La qualité de mandataire-liquidateur inscrit sur la liste ne fait pas obstacle à l'exercice d'une activité de consultation dans les matières relevant de la qualification de l'intéressé ni à l'accomplissement des mandats de conciliateur prévus par l'article 35 de la loi n° 84-148 du 1er mars 1984 précitée et par l'article 25 de la loi n° 88-1202 du 30 décembre 1988 précitée, de commissaire à l'exécution du plan ou de liquidateur amiable des biens d'une personne physique ou morale, d'expert judiciaire et de séquestre judiciaire. Toutefois, la même personne ne peut exercer successivement les fonctions de conciliateur puis de mandataire-liquidateur avant l'expiration d'un délai d'un an lorsqu'il s'agit d'une même entreprise. Le mandataire-liquidateur désigné comme expert ne pourra être nommé administrateur judiciaire en application de l'article 141 de la loi n° 85-98 du 25 janvier 1985 précitée.

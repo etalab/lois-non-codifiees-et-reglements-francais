@@ -1,3 +1,0 @@
-# Article 170
-
-Si la clôture de la liquidation judiciaire est prononcée pour insuffisance d'actif et s'il apparaît que des actifs n'ont pas été réalisés ou que des actions dans l'intérêt des créanciers n'ont pas été engagées, la procédure peut être reprise, à la demande de tout créancier intéressé, par décision spécialement motivée du tribunal, sur la justification que les fonds nécessaires aux frais des opérations ont été consignés à la Caisse des dépôts et consignations. Par priorité sur les sommes recouvrées à la suite de la reprise de la procédure, le montant des frais consignés est remboursé au créancier qui a avancé les fonds.

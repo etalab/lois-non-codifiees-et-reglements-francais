@@ -1,5 +1,0 @@
-# Article 475
-
-Sera puni d'une amende de 30.000 F [*sanctions pénales*], le président de l'assemblée générale des obligataires qui n'aura pas procédé à la constatation des décisions de toute assemblée générale d'obligataires par procès-verbal transcrit sur un registre spécial tenu au siège social et mentionnant la date et le lieu de la réunion, le mode de convocation, l'ordre du jour, la composition du bureau, le nombre d'obligataires participant au vote et le quorum atteint, les documents et rapports soumis à l'assemblée, un résumé des débats, le texte des résolutions mises aux voix et le résultat des votes.
-
-Seront punis de la même peine, les représentants de la masse qui, sciemment [*intention frauduleuse*], n'auront pas fait publier le dispositif du jugement d'homologation des décisions de l'assemblée générale extraordinaire au Bulletin des Annonces légales obligatoires et dans le journal d'annonces légales où a été inséré l'avis de convocation de l'assemblée [*publicité*].

@@ -14,7 +14,7 @@ Forme
 
 Les présents statuts régissent la société France Télévision créée en application de l'article 44-I de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
-La société France Télévision est une société anonyme soumise à la législation sur les sociétés anonymes sous réserve des lois spécifiques la régissant, notamment la loi n° 83-675 du 23 juillet 1983 relative à la démocratisation du secteur public et la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, et aux présents statuts qui ont été approuvés par décret conformément à l'article 47 de la loi n° 86-1067 du 30 septembre 1986.
+La société France Télévision est une société anonyme soumise à la législation sur les sociétés anonymes sous réserve des lois spécifiques la régissant, notamment la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public et la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, et aux présents statuts qui ont été approuvés par décret conformément à l'article 47 de la loi n° 86-1067 du 30 septembre 1986.
 
 La société est soumise au contrôle économique et financier de l'Etat, dans les formes et selon les conditions de la réglementation en vigueur.
 
@@ -148,7 +148,7 @@ Les frais exposés par les administrateurs pour l'exercice de leur mandat sont r
 
 6. Le conseil peut nommer un secrétaire, même en dehors de ses membres.
 
-7. Conformément à l'article 100 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, les administrateurs, ainsi que toute personne appelée à assister aux réunions du conseil d'administration, sont tenus à la discrétion à l'égard des informations présentant un caractère confidentiel et données comme telles par le président du conseil d'administration.
+7. Conformément à l'article L. 225-37 du code de commerce, les administrateurs, ainsi que toute personne appelée à assister aux réunions du conseil d'administration, sont tenus à la discrétion à l'égard des informations présentant un caractère confidentiel et données comme telles par le président du conseil d'administration.
 
 Article 9
 
@@ -216,9 +216,9 @@ Le conseil d'administration :
 
 - délibère, dans les conditions prévues au décret n° 53-707 du 9 août 1953, sur les prises, extensions et cessions de participations financières ;
 
-- approuve, sous réserve des délégations qu'il peut consentir au président, les cautions, avals et garanties dans les conditions prévues par les articles 98 de la loi du 24 juillet 1966 et 89 du décret du 23 mars 1967 ;
+- approuve, sous réserve des délégations qu'il peut consentir au président, les cautions, avals et garanties dans les conditions prévues par les articles L. 225-35 du code de commerce et 89 du décret du 23 mars 1967 ;
 
-- autorise les conventions visées à l'article 101 de la loi du 24 juillet 1966, sous réserve des dispositions de l'article 47-1 de la loi du 30 septembre 1986 ;
+- autorise les conventions visées à l'article L. 225-38 du code de commerce, sous réserve des dispositions de l'article 47-1 de la loi du 30 septembre 1986 ;
 
 - détermine les limitations de durée applicables aux messages destinés à promouvoir les programmes pour chacune des sociétés France 2 et France 3.
 

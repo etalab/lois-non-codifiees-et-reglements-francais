@@ -29,7 +29,6 @@
 - [Ordonnance n°58-1132 du 25 novembre 1958](ordonnance-n58-1132-du-25-novembre-1958)
 - [Ordonnance n° 58-1341 du 27 décembre 1958](ordonnance-n-58-1341-du-27-decembre-1958)
 - [Ordonnance n° 58-1357 du 27 décembre 1958](ordonnance-n-58-1357-du-27-decembre-1958)
-- [Ordonnance n°58-1352 du 27 décembre 1958](ordonnance-n58-1352-du-27-decembre-1958)
 - [Ordonnance n° 58-1136 du 28 novembre 1958](ordonnance-n-58-1136-du-28-novembre-1958)
 - [Ordonnance n° 58-1137 du 28 novembre 1958](ordonnance-n-58-1137-du-28-novembre-1958)
 - [Ordonnance n° 58-1036 du 29 octobre 1958](ordonnance-n-58-1036-du-29-octobre-1958)

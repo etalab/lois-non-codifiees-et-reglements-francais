@@ -4,7 +4,7 @@ Les représentants du personnel ont les mêmes droits et obligations que les aut
 
 Le mandat de membre du conseil d'administration des représentants du personnel est gratuit, sans préjudice du remboursement par la société des frais exposés pour l'exercice dudit mandat. Lorsque leur responsabilité d'administrateur est mise en cause, elle s'apprécie en tenant compte du caractère gratuit de leur mandat.
 
-Le mandat d'administrateur représentant du personnel est incompatible avec toute autre fonction de représentation des intérêts du personnel à l'intérieur de France Télécom et avec celles prévues à l'article 97-4 de la loi du 24 juillet 1966 susvisée pour ce qui concerne les sociétés de son groupe.
+Le mandat d'administrateur représentant du personnel est incompatible avec toute autre fonction de représentation des intérêts du personnel à l'intérieur de France Télécom et avec celles prévues à l'article L. 225-30 du code de commerce pour ce qui concerne les sociétés de son groupe.
 
 L'administrateur qui, lors de son élection, est titulaire d'un ou de plusieurs de ces mandats ou fonctions doit s'en démettre dans les huit jours. A défaut, il est réputé démissionnaire de son mandat d'administrateur.
 
@@ -12,7 +12,7 @@ Le mandat des représentants du personnel au conseil d'administration prend fin 
 
 France Télécom ou les sociétés de son groupe ne peuvent prendre en compte le fait qu'un représentant du personnel siège au conseil d'administration, ou le comportement de celui-ci dans l'exercice de son mandat, dans les décisions susceptibles d'affecter la situation et le déroulement de carrière de l'intéressé.
 
-La rupture du contrat de travail d'un administrateur élu par les salariés qui n'a pas la qualité de fonctionnaire est soumise aux dispositions de l'article 97-7 de la loi du 24 juillet 1966 susvisée.
+La rupture du contrat de travail d'un administrateur élu par les salariés qui n'a pas la qualité de fonctionnaire est soumise aux dispositions de l'article L. 225-33 du code de commerce.
 
 Pour les besoins relatifs à l'exercice de leur mandat, les représentants du personnel disposent d'un crédit d'heures équivalent à la moitié de la durée légale du travail qui leur est applicable. Ce temps est de plein droit considéré comme temps de travail. Le temps passé en séance par les membres du conseil n'est pas déduit de ce crédit d'heures.
 

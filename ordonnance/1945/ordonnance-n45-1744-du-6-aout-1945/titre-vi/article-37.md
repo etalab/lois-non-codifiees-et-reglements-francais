@@ -1,5 +1,0 @@
-# Article 37
-
-Toute société exploitante qui, par suite d'une modification intervenue dans la répartition du capital [*social*] entre les associés, ne se trouve plus dans les conditions exigées par l'article 8, doit dans le mois qui suit cette modification [*délai*], solliciter le maintien de l'agrément dont elle est bénéficiaire [*formalités*].    L'agrément reste valable jusqu'à ce que le préfet ait statué par arrêté.
-
-Le préfet peut, soit prononcer le maintien de l'agrément dans les conditions prévues à l'article 9, soit en prononcer le retrait conformément aux dispositions de l'article 35.

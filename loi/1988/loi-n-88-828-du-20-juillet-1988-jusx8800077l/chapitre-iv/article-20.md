@@ -6,4 +6,4 @@ N'entraîne pas la remise de la faillite personnelle ou des autres sanctions pr�
 
 2° Les délits assimilés à la banqueroute frauduleuse prévus par l'article 133 de la loi n° 67-563 du 13 juillet 1967 précitée ;
 
-3° La banqueroute prévue par l'article 197 de la loi n° 85-98 du 25 janvier 1985 précitée.
+3° La banqueroute prévue par l'article L. 626-2 du code de commerce.

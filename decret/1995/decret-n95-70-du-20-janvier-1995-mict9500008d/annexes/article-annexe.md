@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-TEjLÉVISION DU SAVOIR, DE LA FORMATION ET DE L'EMPLOI
+TELÉVISION DU SAVOIR, DE LA FORMATION ET DE L'EMPLOI
 
 TITRE Ier
 
@@ -110,7 +110,7 @@ Article 11
 
 Dans les conditions et sous les réserves fixées par les lois et règlements en vigueur, l'assemblée générale peut allouer aux membres du conseil, à titre de jetons de présence, une somme annuelle qu'elle détermine.
 
-Les dispositions des articles 101 à 106 inclus de la loi du 24 juillet 1966 sont applicables aux conventions conclues entre la société et l'un de ses administrateurs, soit directement, soit par personne interposée.
+Les dispositions des articles L. 225-38 à L. 225-43 du code de commerce sont applicables aux conventions conclues entre la société et l'un de ses administrateurs, soit directement, soit par personne interposée.
 
 Toutefois, conformément à l'article 21 de la loi du 26 juillet 1983 précitée, sont exclus du champ d'application de ces dispositions les prêts consentis aux représentants du personnel, en application des dispositions de l'article L. 313-1 du code de la construction et de l'habitation.
 
@@ -176,7 +176,7 @@ et, sans préjudice des délégations qu'il peut consentir au président :
 
 - les actions judiciaires, les transactions et les désistements ;
 
-- les cautions, avals et garanties dans les conditions prévues par les articles 98 de la loi du 24 juillet 1966 et 89 du décret du 23 mars 1967.
+- les cautions, avals et garanties dans les conditions prévues par les articles L. 225-35 du code de commerce et 89 du décret du 23 mars 1967.
 
 Il est consulté :
 
@@ -214,7 +214,7 @@ Le président de la société assure, sous sa responsabilité, la direction gén
 
 Sous réserve des pouvoirs que la loi et les statuts attribuent expressément à l'assemblée générale ou au conseil d'administration, et dans la limite de l'objet social, il est investi des pouvoirs les plus étendus pour agir en toute circonstance au nom de la société.
 
-Dans les limites fixées par les articles 115 et suivants de la loi du 24 juillet 1966 précitée, il organise la direction de la société et en nomme les membres ; il peut consentir toutes délégations de pouvoir et en informe le conseil d'administration.
+Dans les limites fixées par les articles L. 225-53 et suivants du code de commerce, il organise la direction de la société et en nomme les membres ; il peut consentir toutes délégations de pouvoir et en informe le conseil d'administration.
 
 TITRE IV
 

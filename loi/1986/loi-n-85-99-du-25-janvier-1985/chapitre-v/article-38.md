@@ -1,7 +1,0 @@
-# Article 38
-
-Les personnes inscrites sur les listes de syndics et d'administrateurs judiciaires établies en application de l'article premier du décret n° 55-603 du 20 mai 1955 relatif aux syndics et aux administrateurs judiciaires, exerçant ces activités à titre principal, ainsi que celles inscrites sur la liste des administrateurs judiciaires et séquestres près le tribunal de grande instance de Paris, seront inscrites, sur leur demande, soit sur la liste des administrateurs judiciaires, soit sur celles des mandataires-liquidateurs.
-
-Les dispositions de l'alinéa précédent sont applicables aux personnes exerçant à titre accessoire les fonctions de syndic et d'administrateur judiciaire en application de l'article 9 du décret n° 55-603 du 20 mai 1955 précité ainsi qu'aux syndics administrateurs judiciaires exerçant des activités accessoires en application de l'article 15 du décret n° 56-608 du 18 juin 1956 portant application du décret n° 55-603 du 20 mai 1955 relatif aux syndics et aux administrateurs judiciaires. Par exception aux dispositions des articles 11 et 27 de la présente loi, ces personnes peuvent continuer à exercer leurs activités.
-
-Les demandes d'inscription doivent être adressées dans un délai fixé par décret en Conseil d'Etat au procureur général près la cours d'appel dans le ressort de laquelle les intéressés ont leur domicile.    Dans un délai de cinq ans à compter de l'entrée en vigueur de la présente loi, les personnes mentionnées aux premier et deuxième alinéas peuvent, à raison d'une seule fois, modifier leur choix.

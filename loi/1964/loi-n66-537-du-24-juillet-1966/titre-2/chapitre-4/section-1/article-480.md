@@ -1,3 +1,0 @@
-# Article 480
-
-Seront punis d'un emprisonnement de deux ans et d'une amende de 30.000 F [*sanctions pénales*] ou de l'une de ces deux peines seulement, les fondateurs, les présidents, les administrateurs, les directeurs généraux ou les gérants de toute société qui, dans la déclaration [*de conformité*] prévue à l'article 6, déposée au greffe en vue de l'immatriculation de la société au registre du commerce, ou de l'inscription modificative des statuts audit registre, auront sciemment, affirmé des faits matériellement faux ou omis de relater la totalité des opérations effectuées pour la constitution de ladite société.
