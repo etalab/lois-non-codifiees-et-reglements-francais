@@ -1,0 +1,3 @@
+# Article 7
+
+Aucun appareil neuf ne peut être livré au public s'il n'est accompagné, par les soins du vendeur, d'une copie, certifiée conforme par le fabricant, de la notice descriptive du type, suivie de l'approbation ministérielle. Cette copie peut être réduite à un extrait certifié conforme par le fabricant et contenant toutes les dispositions que doit connaître l'usager, notamment celles qui concernent les conditions de montage et de réglage de l'appareil sur le véhicule, son entretien, et le remplacement éventuel des éléments détériorés. Cet extrait est présenté à l'agrément en même temps que l'appareil.
