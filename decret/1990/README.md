@@ -65,6 +65,8 @@
 - [Décret n°90-556 du 3 juillet 1990 (TEFT9003575D)](decret-n90-556-du-3-juillet-1990-teft9003575d)
 - [Décret n°90-562 du 3 juillet 1990 (AGRB9000287D)](decret-n90-562-du-3-juillet-1990-agrb9000287d)
 - [Décret n°90-703 du 3 août 1990 (SPSS9000892D)](decret-n90-703-du-3-aout-1990-spss9000892d)
+- [Décret n°90-775 du 3 septembre 1990 (MENX9000132D)](decret-n90-775-du-3-septembre-1990-menx9000132d)
+- [Décret n°90-776 du 3 septembre 1990 (SPSS9001688D)](decret-n90-776-du-3-septembre-1990-spss9001688d)
 - [Décret n°93-145 du 3 février 1993 (SANH9202685D)](decret-n93-145-du-3-fevrier-1993-sanh9202685d)
 - [Décret n°93-146 du 3 février 1993 (SANH9202686D)](decret-n93-146-du-3-fevrier-1993-sanh9202686d)
 - [Décret n°94-955 du 3 novembre 1994 (AGRA9401650D)](decret-n94-955-du-3-novembre-1994-agra9401650d)
