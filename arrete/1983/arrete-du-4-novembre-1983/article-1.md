@@ -1,3 +1,5 @@
 # Article 1
 
-La trifluraline ou (dinitro-2,6 trifluorométhyl-4 phényl) dipropylamine est autorisée comme herbicide en agriculture sous réserve que la teneur en N-nitrosodipropylamine dans le produit technique soit inférieure à 1 mg/kg.
+Les vêtements traités avec le produits tris (tri (2,3 débromopropyl) orthophosphate), dont la fabrication, l'importation, l'offre, la vente, la distribution à titre gratuit et la détention sont interdites par le décret du 20 juin 1979 susvisé, doivent être détruits.
+
+La présente mesure est prescrite pour une durée d'un an.

@@ -2,28 +2,38 @@
 
 Les agents de désinfection doivent satisfaire aux épreuves d'un concours ou d'un examen d'aptitude.
 
-Concours sur épreuves ou examen d'aptitude.
-
-Le concours de recrutement ou l'examen d'aptitude comporte les épreuves suivantes :
+Epreuves du concours ou de l'examen d'aptitude.
 
 Epreuves écrites :
 
-1° Dictée (10 lignes du niveau du certificat d'études) (durée : une demi-heure ; coefficient 2).
+1° Dictée de dix lignes du niveau du certificat d'études primaires (durée : une demi-heure ; coefficient 2).
 
-2° Problèmes d'arithmétique portant sur les quatre opérations, la règle de trois, les opérations élémentaires sur les fractions, le système métrique, les surfaces des carrés, des rectangles, des triangles et des cercles, les volumes des cubes et parallélépipèdes rectangles (durée : une heure ; coefficient 2).
+2° Problèmes d'arithmétique (durée : une heure ; coefficient 2).
 
 Epreuves orales :
 
-1° Notions générales sur le règlement sanitaire départemental et éventuellement sur le règlement sanitaire communal (coefficient 1).
+1° Notions générales sur le règlement sanitaire départemental et, le cas échéant, sur le règlement sanitaire communal (coefficient 1).
 
-2° Pratique du service (coefficient 2) :
+2° Interrogation sur la pratique du service pouvant comporter une épreuve pratique (coefficient 2).
 
-Notions générales sur les procédés à employer en vue de :
+Programme.
 
-Désinfection (locaux, meubles, literie, objets) ;
+Arithmétique :
 
-Destruction des objets et linges souillés ou contaminés ;
+Les quatre opérations ;
 
-Dératisation ;
+La règle de trois ;
 
-Désinsectisation.
+Les opérations élémentaires sur les fractions ;
+
+Le système métrique ;
+
+Les surfaces : carré, rectangle, triangle, trapèze et cercle ;
+
+Les volumes : cube et parallélépipède rectangle.
+
+Pratique du service :
+
+Notions générales sur les procédés à employer pour :
+
+La désinfection (locaux, meubles, literie, objets). La destruction des objets et linges souillés et contaminés. La dératisation. La désinsectisation.
