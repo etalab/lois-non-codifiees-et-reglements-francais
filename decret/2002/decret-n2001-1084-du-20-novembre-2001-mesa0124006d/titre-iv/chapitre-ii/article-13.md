@@ -1,6 +1,6 @@
 # Article 13
 
-I. - Après déduction d'un montant correspondant aux dépenses annuelles prévues aux 2° et 3° du II de l'article L. 232-21 du code de l'action sociale et des familles, les sommes encaissées par le fonds au cours d'un exercice, correspondant aux recettes prévues au III du même article, augmentées le cas échéant du résultat excédentaire de l'exercice précédent, sont réparties entre les départements dans les conditions prévues aux II et III ci-après.
+I. - Après déduction d'un montant correspondant aux dépenses annuelles prévues aux 2°, 3° et 4° du II de l'article L. 232-21 du code de l'action sociale et des familles, les sommes encaissées par le fonds au cours d'un exercice, correspondant aux recettes prévues au III du même article, augmentées le cas échéant du résultat excédentaire de l'exercice précédent, sont réparties entre les départements dans les conditions prévues aux II et III ci-après.
 
 II. - La répartition prévue au I s'effectue au terme des calculs définis ci-après :
 
@@ -14,7 +14,7 @@ a) Fd représente la fraction attribuée à un département ;
 
 b) PAd représente le nombre de personnes âgées de soixante-quinze ans ou plus dénombrées dans ce département lors du dernier recensement de l'INSEE ;
 
-c) PFd représente, pour chaque département, le potentiel fiscal de la pénultième année précédant l'année au titre de laquelle la répartition est effectuée, tel que défini au premier alinéa de l'article L. 3334-6 du code général des collectivités territoriales ;
+c) PFd représente, pour chaque département, le potentiel fiscal de l'année précédant l'année au titre de laquelle la répartition est effectuée, tel que défini au premier alinéa de l'article L. 3334-6 du code général des collectivités territoriales ;
 
 d) RMId représente le nombre de bénéficiaires du revenu minimum d'insertion, résidant dans ce département, de la pénultième année précédant l'année au titre de laquelle la répartition est effectuée.
 
@@ -50,6 +50,6 @@ L'attribution résultant des opérations définies aux 1°, 2° et 3° pour les 
 
 Ces opérations sont renouvelées jusqu'à ce que les dépenses laissées à la charge de chaque département n'excèdent pas le seuil défini au dixième alinéa du II de l'article L. 232-21 du code de l'action sociale et des familles.
 
-III. - Une fraction égale à 80 % des sommes visées au I, encaissées au cours d'un mois, est répartie à titre d'acompte entre les départements au plus tard le dixième jour du mois suivant, sur la base de la répartition définie au 1° du II du présent article.
+III. - Une fraction au moins égale à 90 % des sommes visées au I, encaissées au cours d'un mois, est répartie à titre d'acompte entre les départements au plus tard le dixième jour du mois suivant, sur la base de la répartition définie au 1° du II du présent article.
 
 IV. - Le fonds procède au calcul du concours définitif de chaque département, tel qu'il résulte des opérations prévues au II du présent article et au versement du solde dû au titre d'un exercice lorsque l'ensemble des états récapitulatifs susmentionnés lui est parvenu. Ce solde est obtenu par déduction sur le concours définitif des acomptes versés en application du III du présent article. Dans le cas où le solde d'un département est négatif, son montant est déduit du concours de l'exercice suivant.

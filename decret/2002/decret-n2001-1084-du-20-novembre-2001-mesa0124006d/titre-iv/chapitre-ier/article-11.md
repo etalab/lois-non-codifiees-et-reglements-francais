@@ -4,11 +4,9 @@ I. - Le fonds de financement de l'allocation personnalisée d'autonomie créé p
 
 II. - Le conseil d'administration du fonds de financement de l'allocation personnalisée d'autonomie comprend sept membres :
 
-1° Un président nommé par décret ;
+1° Un président nommé par décret pour une durée de trois ans renouvelable ;
 
-2° Un représentant du ministre chargé de la sécurité sociale, deux représentants du ministre chargé des personnes âgées, un représentant du ministre chargé des collectivités territoriales et deux représentants du ministre chargé du budget nommés par arrêté conjoint des mêmes ministres.
-
-La durée du mandat des membres du conseil d'administration est de trois ans renouvelable.
+2° Le directeur général des collectivités locales, le directeur de la sécurité sociale, le directeur du budget, le directeur général de la comptabilité publique, le directeur général de l'action sociale et le sous-directeur compétent à la direction générale de l'action sociale, ou leur représentant.
 
 Les fonctions de membre du conseil d'administration sont exercées à titre gratuit. Elles ouvrent droit aux indemnités et frais de déplacement et de séjour dans les conditions prévues par le décret du 28 mai 1990 susvisé.
 
@@ -30,19 +28,21 @@ IV. - Le conseil d'administration a pour rôle :
 
 4° D'accepter les dons et legs ;
 
-5° D'autoriser le directeur à passer les conventions prévues à l'article 17, qui lui sont soumises par celui-ci.
+5° D'autoriser le directeur à passer les conventions prévues à l'article 17, qui lui sont soumises par celui-ci ;
+
+6° D'autoriser le directeur à souscrire l'emprunt mentionné au III de l'article L. 232-21 du code de l'action sociale et des familles.
 
 Le conseil d'administration est destinataire du rapport du conseil de surveillance mentionné au troisième alinéa du VIII du présent article. Il peut consulter le conseil de surveillance sur toute question.
 
 V. - Les décisions du conseil d'administration sont exécutoires dans les conditions prévues par le décret du 8 juillet 1999 susvisé.
 
-VI. - Le conseil de surveillance est composé de quinze membres désignés pour trois ans. Il comprend :
+VI. - Le conseil de surveillance est composé de quinze membres. Il comprend :
 
-1° Deux membres de l'Assemblée nationale désignés par son président ;
+1° Deux membres de l'Assemblée nationale désignés par son président pour trois ans ;
 
-2° Deux membres du Sénat désignés par son président ;
+2° Deux membres du Sénat désignés par son président pour trois ans ;
 
-3° Quatre représentants de l'Assemblée des départements de France désignés par son président ;
+3° Quatre représentants de l'Assemblée des départements de France désignés par son président pour trois ans ;
 
 4° Deux représentants des régimes obligatoires de base d'assurance vieillesse :
 
@@ -50,13 +50,13 @@ a) Le président du conseil d'administration de la Caisse nationale d'assurance 
 
 b) Le président du conseil d'administration de la Caisse centrale de mutualité sociale agricole ou son représentant ;
 
-5° Quatre représentants des organisations représentatives des personnes âgées :
+5° Quatre représentants des organisations représentatives des personnes âgées désignés pour trois ans :
 
 a) Deux représentants d'associations désignés par le ministre chargé des personnes âgées ;
 
 b) Deux représentants du Comité national des retraités et personnes âgées ;
 
-6° Une personne qualifiée dans les domaines relevant des missions du fonds, désignée par le ministre chargé des personnes âgées.
+6° Une personne qualifiée dans les domaines relevant des missions du fonds, désignée par le ministre chargé des personnes âgées pour trois ans.
 
 Un représentant du ministre chargé de la sécurité sociale, un représentant du ministre chargé des personnes âgées, un représentant du ministre chargé des collectivités territoriales et un représentant du ministre chargé du budget assistent avec voix consultative aux réunions du conseil de surveillance.
 
