@@ -2,6 +2,7 @@
 
 - [Décret n°87-501 du 1 juillet 1987 (INDD8700106D)](decret-n87-501-du-1-juillet-1987-indd8700106d)
 - [Décret n°88-1021 du 2 novembre 1988 (MAEJ8830054D)](decret-n88-1021-du-2-novembre-1988-maej8830054d)
+- [Décret n°88-1024 du 2 novembre 1988 (ECOC8800090D)](decret-n88-1024-du-2-novembre-1988-ecoc8800090d)
 - [Décret n°88-907 du 2 septembre 1988 (JUSC8820529D)](decret-n88-907-du-2-septembre-1988-jusc8820529d)
 - [Décret n°88-908 du 2 septembre 1988 (INTA8800290D)](decret-n88-908-du-2-septembre-1988-inta8800290d)
 - [Décret n°88-480 du 2 mai 1988 (ECOZ8800011D)](decret-n88-480-du-2-mai-1988-ecoz8800011d)
