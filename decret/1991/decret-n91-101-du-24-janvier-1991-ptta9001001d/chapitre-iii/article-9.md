@@ -1,0 +1,5 @@
+# Article 9
+
+Peuvent être promus au grade d'assistant de service social chef, les assistants de service social qui comptent au moins deux ans d'ancienneté au cinquième échelon de leur grade.
+
+Les intéressés sont nommés à l'échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient antérieurement. Dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur de leur nouveau grade, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade, dans la mesure où leur nomination leur procure une augmentation de traitement inférieure à celle qui résulterait dans l'ancien grade d'une promotion à l'échelon supérieur. S'ils sont nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade, ils conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'une élévation audit échelon.

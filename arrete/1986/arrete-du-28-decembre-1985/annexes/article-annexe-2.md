@@ -14,7 +14,7 @@ Agents des sociétés de secours minières
 
 NUMEROS DU RISQUE (sécurité sociale) : 9101.5
 
-TAUX NET de cotisation : 1,8
+TAUX NET de cotisation : 1,4
 
 NATURE DU RISQUE
 
@@ -28,7 +28,7 @@ Personnel des syndicats et des coopératives (art. 5 du décret du   27 novembre
 
 NUMEROS DU RISQUE (sécurité sociale) : 9721.5
 
-TAUX NET de cotisation : 1,8
+TAUX NET de cotisation : 1,4
 
 NATURE DU RISQUE
 
@@ -40,4 +40,4 @@ NATURE DU RISQUE
 
 Personnel employé au gardiennage des exploitations fermées   NUMEROS DU RISQUE (sécurité sociale) : 7714.5
 
-TAUX NET de cotisation : 2,5
+TAUX NET de cotisation : 1,8

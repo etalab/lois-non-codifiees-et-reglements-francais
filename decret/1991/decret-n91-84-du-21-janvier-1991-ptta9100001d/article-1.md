@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsqu'ils sont chargés d'assurer des fonctions propres aux exploitants publics prévues au cinquième alinéa de l'article 29 de la loi du 2 juillet 1990 susvisée, les fonctionnaires de La Poste et de France Télécom régis par les statuts particuliers mentionnés à l'article 29 de cette loi, d'une part, et les fonctionnaires mentionnés au deuxième alinéa de l'article 44 de cette loi, servant en position d'activité auprès de La Poste et de France Télécom, d'autre part, sont, s'il est donné suite à leur demande, placés soit dans la position de détachement, soit dans la position hors cadres dans les conditions prévues par le décret du 16 septembre 1985 susvisé, sous réserve des dispositions du présent décret.

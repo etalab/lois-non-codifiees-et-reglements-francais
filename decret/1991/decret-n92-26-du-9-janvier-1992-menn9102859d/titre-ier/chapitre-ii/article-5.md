@@ -1,0 +1,5 @@
+# Article 5
+
+Les conservateurs des bibliothèques sont également recrutés au choix par inscription sur une liste d'aptitude et après avis de la commission administrative paritaire du corps des conservateurs des bibliothèques, parmi les bibliothécaires régis par le décret n° 92-29 du 9 janvier 1992 portant statut particulier du corps des bibliothécaires, justifiant au 1er janvier de l'année au titre de laquelle est établie ladite liste de dix ans de services effectifs dans l'un des services techniques ou bibliothèques mentionnés à l'article 1er.
+
+La proportion des nominations au choix susceptibles d'être prononcées au titre du présent article est d'un sixième du nombre total des nominations effectuées en application du 1°, du 2° et du 3° de l'article 4 et des détachements prononcés dans les conditions définies au 2° de l'article 19 du décret n° 85-986 du 16 septembre 1985 relatif au régime particulier de certaines positions des fonctionnaires de l'Etat et à certaines modalités de cessation définitive de fonctions.

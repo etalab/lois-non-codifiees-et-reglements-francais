@@ -40,7 +40,7 @@ Les routes le plus généralement utilisées sont révisées annuellement, pour 
 
 VI.1. Le coefficient poids est égal à la racine carré du quotient par cinquante (50) du nombre exprimant la mesure de la masse maximum certifiée au décollage de l'aéronef, exprimée en tonnes métriques, telle qu'elle figure au certificat de navigabilité ou au manuel de vol ou dans tout autre document officiel équivalent, ainsi qu'il suit :
 
-p = (Masse max. au décollage / 50) X 0,5
+p = (racine carrée (Masse max. au décollage / 50)).
 
 Lorsque la masse maximum certifiée au décollage de l'aéronef n'est pas connue des organismes responsables des opérations tendant au recouvrement de la redevance, le coefficient poids est établi sur la base de la masse de la version la plus lourde du type de cet aéronef censée exister.
 

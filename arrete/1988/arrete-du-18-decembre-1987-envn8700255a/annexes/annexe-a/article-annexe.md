@@ -2,33 +2,37 @@
 
 Département des Alpes-de-Haute-Provence
 
-Cours d'eau, canaux et plans d'eau de 1re catégorie
+cours d'eau, canaux et plans d'eau de 1re catégorie
 
-1° La Durance en amont du plan d'eau de la Saulce, à l'exception du lac de retenue de Serre-Ponçon ;
+1° La Durance en amont du plan d'eau de la Saulce, à l'exception du lac de retenue de Serre-Ponçon.
 
-2° L'Ubaye en amont du pont de Pellegrin ;
+2° L'Ubaye en amont du pont de Pellegrin.
 
-3° Le Sasse ; le Riou de Jabron ou de Saint-Geniez ; le Vauçon ; le Jabron de Noyers ;
+3° Le Sasse ; le Riou de Jabron ou de Saint-Geniez ; le Vancon ; le Jabron de Noyers.
 
-4° La Bléone et le Bès en amont de leur confluent ; les Duyes ;
+4° La Bléone et le Bès en amont de leur confluent ; les Duyes.
 
-5° Les canaux de Peyruis et du Bars (commune de Valensole) ;
+5° Les canaux de Peyruis et du Bars (commune de Valensole).
 
-6° L'Asse en amont de son confluent avec l'Estoublaïsse ;
+6° L'Asse en amont de son confluent avec l'Estoublaisse.
 
-7° L'Asse de Blieux en amont de son confluent avec l'Asse ;
+7° L'Asse de Blieux en amont de son confluent avec l'Asse.
 
-8° L'Estoublaïsse ;
+8° L'Estoublaisse.
 
 9° Le Verdon, à l'exception :
 
-a) Des lacs de retenue de Castillon et de Chaudanne, depuis le pont de Méouilles (commune de Saint-André-les-Alpes) jusqu'au barrage de Chaudanne (commune de Castellane) ;
+a) Des lacs de retenue de Castillon et de Chaudanne, depuis le pont de Méouilles (commune de Saint-André-les-Alpes) jusqu'au barrage de Chaudanne (Commune de Castellane) ;
 
-b) Du lac de retenue de Gréoux-les-Bains depuis le pied du barrage de Quinson en amont, jusqu'au déversoir du bassin de compensation du barrage de Gréoux, à hauteur du village de Gréoux-les-Bains, en aval ;
+b) Du lac de Sainte-Croix, depuis le pont du Galetas sur le C.D. 957 à l'amont jusqu'au barrage de Sainte-Croix à l'aval ;
 
-10° Le Var ;
+c) Du lac de retenue de Gréoux-les-Bains, depuis le pied du barrage du Quinson en amont jusqu'au barrage de Gréoux-les-Bains en aval ;
 
-11° Les affluents et sous-affluents des cours d'eau ou parties de cours d'eau visés ci-dessus ;
+d) Du bassin de compensation du barrage de Gréoux-les-Bains, depuis la queue de la retenue en amont jusqu'au déversoir à hauteur du village de Gréoux-les-Bains en aval.
+
+10° Le Var.
+
+11° Les affluents et sous-affluents des cours d'eau ou parties de cours d'eau visés ci-dessus.
 
 12° a) Les affluents de la Durance et de l'Ubaye se jetant dans le lac de retenue de Serre-Ponçon ;
 
@@ -40,31 +44,27 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
-Département des Hautes-Alpes
+05 Département des Hautes-Alpes
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
-1° La Durance, en aval du plan d'eau de la Saulce ;
+1° La Durance, en aval du plan d'eau de la Saulce.
 
-2° Le Buech, en aval du pont de fer de Serres ;
+2° Le Buech, en aval du pont de fer de Serres.
 
-3° Le lac des Bouchards ;
+3° Le lac des Bouchards.
 
-4° Tous les affluents et sous-affluents des cours d'eau ou portions de cours d'eau visés ci-dessus, à l'exception de :
+4° Tous les affluents et sous-affluents des cours d'eau ou portions de cours d'eau visés ci-dessus, à l'exception de la Méouge, la Blaisance, le Riou-de-Saint-Genis, la Blême (affluents du Buech) et leurs affluents.
 
-a) La Laye (affluent de la Durance) et ses affluents ;
-
-b) La Méouge, la Blaisance, le Riou-de-Saint-Genis, la Blême (affluents du Buech) et leurs affluents ;
-
-c) La Vance (affluent de la Durance) et ses affluents.
-
-5° La retenue de Serre-Ponçon, y compris le plan d'eau d'Embrun, du barrage principal de Serre-Ponçon au pont de la Clapierre sur la Durance et à la cote 781 N.G.F. pour tous les autres tributaires ;
+5° La retenue de Serre-Ponçon, y compris le plan d'eau d'Embrun, du barrage principal de Serre-Ponçon au pont de la Clapierre sur la Durance, et à la cote 781 NGF pour tous les autres tributaires.
 
 6° Le plan d'eau de la Saulce.
 
+7° Le plan d'eau de Siguret.
+
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-Tous les cours d'eau, canaux et plan d'eau non classés en 2e catégorie.
+Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
 21 Département de la Côte-d'Or
 
@@ -116,97 +116,97 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
-Département de la Creuse
+23 Département de la Creuse
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
-1° La Creuse en aval de son confluent avec le ruisseau dit de " Fransèches " ;
+1° La Creuse en aval de son confluent avec le ruisseau dit de Fransèches.
 
-2° La retenue du barrage des Combes, sur la Creuse entre le barrage et la passerelle de fer établie à l'extrémité amont de la retenue ;
+2° La retenue du barrage des Combes, sur la Creuse entre le barrage et la passerelle de fer établie à l'extrémité amont de la retenue.
 
-3° Le Taurion en aval du pont de la Chassagne (R.N. 712) ; le lac de Lavaud-Gélade ;
+3° Le Taurion en aval du pont de la Chassagne (R.N. 712) ; le lac de Lavaud-Gélade.
 
-4° La Petite Creuse en aval du confluent avec le Verreaux ;
+4° La Petite Creuse en aval du confluent avec le Verreaux.
 
-5° La Voueize et ses affluents en aval du pont de la D. 55 ;
+5° La Voueize et ses affluents en aval du pont de la D. 55.
 
-6° La Goze et ses affluents et sous-affluents ;
+6° La Goze, ses affluents et ses sous-affluents.
 
-7° La Tardes en aval du confluent de la Voueize ;
+7° La Tardes en aval de son confluent de la Méouse.
 
-8° La retenue du barrage de Rochebut, en aval du pont de Ceylat (C. 20), commune d'Evaux ;
+8° Le ruisseau de Barbeyrat.
 
-9° La Sedelle en aval du pont de Crozant (chemin vicinal ordinaire n° 3) ;
+9° La retenue du barrage de Rochebut, en aval du pont de Ceylat (C. 20), commune d'Evaux.
 
-10° La retenue du barrage de Vassivière sur la Maulde délimitée par la courbe de niveau de 650 mètres d'altitude ;
+10° La Sedelle en aval du pont de Crozant (chemin vicinal ordinaire 3).
 
-11° Le plan d'eau de Courtille, du ruisseau de Fayolle jusqu'en aval du pont de la route de Fayolle ;
+11° La retenue du barrage de Vassivière sur la Maulde délimitée par la courbe de niveau de 650 mètres d'altitude.
 
-12° Le lac de retenue du barrage du Chammet.
+12° Le plan d'eau de Courtille, du ruisseau de Fayolle jusqu'en aval du pont de la route de Fayolle.
+
+13° Le lac de retenue du barrage du Chammet.
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
-Département de l'Isère
+38 Département de l'Isère
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
-1° Le Rhône ; la Save ; l'Huert ; le Regnieu ;
+1° Le Rhône ; la Save ; l'Huert ; le Regnieu.
 
-2° Les affluents ou portions d'affluents de la rive gauche du Rhône situés au Nord de la voie ferrée de l'Est lyonnais allant de Lyon à Saint-Genis-d'Aoste, à l'exception du Girondin de Saint-Romain, de l'Amby, du Furon et du Chogne ;
+2° Les affluents ou portions d'affluents de la rive gauche du Rhône situés au Nord de la voie ferrée de l'Est lyonnais allant de Lyon à Saint-Genis-d'Aoste, à l'exception du Girondin de Saint-Romain, de l'Amby, du Furon et du Chogne.
 
-3° L'Isère en aval du confluent avec le Drac ;
+3° L'Isère en aval du confluent avec le Drac.
 
-4° Le Drac en aval du barrage du Vieux-Pont-de-Claix (commune de Pont-de-Claix) ;
+4° Le Drac en aval du barrage du Vieux-Pont-de-Claix (commune de Pont-de-Claix).
 
-5° Le Coisetan ;
+5° Le Coisetan.
 
-6° La boucle du Bois français ; les étangs des boucles de l'Isère ; les canaux E.D.F., dits de Voreppe ; le lac de retenue de Saint-Pierre-de-Méarotz ; le lac de retenue de Notre-Dame-de-Commiers ; le lac de retenue de Monteynard ;
+6° La boucle du Bois français ; les étangs des boucles de l'Isère ; les canaux E.D.F., dits de Voreppe ; le lac de retenue de Saint-Pierre-de-Mearotz ; le lac de retenue de Notre-Dame-de-Commiers ; le lac de retenue de Monteynard.
 
-7° Le plan d'eau communal de Champ-du-Drac ;
+7° Le plan d'eau de la Roize (commune de Voreppe).
 
-8° Le lac de Paladru (communes de Paladru, Charavines, le Pin, Bilieu et Montferrat).
+8° Le plan d'eau communal de Champ-sur-Drac.
+
+9° Le lac de Paladru (communes de Paladru, Charavines, le Pin, Bilieu et Montferrat).
+
+10° Le lac Mort.
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
-Département des Landes
+40  Département des Landes
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-(Salmonidés dominants)
+1° L'Escource.
 
-1° L'Escource, le Pontenx ;
+2° L'Onesse ; le Vignac.
 
-2° L'Onesse, le Vignac ;
+3° La Palue, en amont de la R.N. 652.
 
-3° La Palue, en amont de la R.N. 652 ;
+4° Le Magescq, en amont du pont situé sur le C.D. 50.
 
-4° Le Magescq, en amont du pont situé sur le C.D. 50 ;
+5° La Doulouze ou Douze, en aval de son confluent avec l'Estampon jusqu'à son confluent avec le ruisseau dit " la Base aérienne ".
 
-5° La Doulouze, ou Douze, en aval de son confluent avec l'Estampon jusqu'à son confluent avec le ruisseau dit la Base aérienne ;
+6° L'Estampon.
 
-6° L'Estampon ;
+7° Le Ludon (affluent du Midou), en aval du moulin de Neubout (commune de Saint-Gein).
 
-7° Le Ludon (affluent du Midou), en aval du moulin de Neubout (commune de Saint-Gein) ;
+8° L'Estrigon, le Géloux, le Bez (affluents de la Midouze).
 
-8° L'Estrigon, le Géloux, le Bez (affluents de la Midouze) ;
+9° Le Ciron, affluent de la Garonne.
 
-9° Le Ciron, affluent de la Garonne ;
+10° Le Rimbez, affluent de la Gélise.
 
-10° Le Rimbez, affluent de la Gélise ;
+11° La Grande Leyre et la Petite Leyre, en amont de leur confluent.
 
-11° La Grande-Leyre et la Petite-Leyre, en amont de leur confluent ;
-
-12° La Barade ;
-
-13° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau désignés ci-dessus, à l'exception du Naou (affluent de la Petite-Leyre).
+12° Les affluents et sous-affluents des cours d'eau ou sections de cours d'eau désignés ci-dessus, à l'exception du Naou (affluent de la Petite Leyre).
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
-
-(Cyprinidés dominants)
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
@@ -436,41 +436,45 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
-Département du Rhône
+69 Département du Rhône
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
-(Cyprinidés dominants)
+1° Le Rhône.
 
-1° Le Rhône ;
+2° Le Giers.
 
-2° Le Giers ;
+3° La Saône.
 
-3° La Saône ;
+4° L'Azergues, en aval du confluent de la Brévenne.
 
-4° L'Azergues, en aval du confluent de la Brévenne ;
+5° Les affluents de la rive droite de la Saône, autres que l'Azergues, pour la partie située en aval du pont de la voie ferrée de Lyon à Mâcon.
 
-5° Les affluents de la rive droite de la Saône, autres que l'Azergues, pour la partie située en aval du pont de la voie ferrée de Lyon à Mâcon ;
+6° Le Rhins, en aval de la passerelle du Vernay (passerelle amont de " Chez Jacquinot ", commune d'Amplepuis).
 
-6° Le Rhins, en aval de la passerelle du Vernay (passerelle amont de " chez Jacquinot ", commune d'Amplepuis) ;
+7° Le canal de Jonage ; le canal de Givors.
 
-7° Le canal de Jonage ; le canal de Givors ;
+8° Le canal de retenue de Tarare sur la Turdine.
 
-8° Le canal de retenue de Tarare sur la Turdine ;
+9° Le plan d'eau de Cublize sur le Rhins.
 
-9° Le plan d'eau de Cublize sur le Rhins ;
+10° Le plan d'eau de Combe Gibert (communes d'Orliénas et de Taluyers).
 
-10° Le plan d'eau de Combe Gibert (communes d'Orliénas et de Taluyers) ;
+11° L'Iseron entre sa confluence avec le Rhône et le pont d'Oullins.
 
-11° L'Iseron entre sa confluence avec le Rhône et le pont d'Oullins ;
+12° Le plan d'eau de Trades établi en dérivation de la Crosne occidentale.
 
-12° Le plan d'eau de Trades établi en dérivation de la Crosne occidentale ;
+13° Les plans d'eau :
 
-13° Plan d'eau du Moulin (commune de Cours-la-Ville).
+- du Moulin (commune de Cours-la-Ville) ;
+
+- du Nizy (commune du Bois-d'Oingt) ;
+
+- de Poule-les-Echarneaux (commune de Poule-les-Echarneaux) ;
+
+- Le Ronzey (commune d'Yzeron).
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
-
-(Salmonidés dominants)
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 

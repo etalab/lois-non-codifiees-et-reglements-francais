@@ -1,0 +1,3 @@
+# Article 1
+
+Pendant une période transitoire s'achevant le 31 décembre 1992, les dispositions du décret du 19 septembre 1955 modifié susvisé, ensemble celles du décret du 18 octobre 1985 susvisé, relatives aux conditions de nomination et d'avancement dans les emplois de chef de service, directeur adjoint et sous-directeur de l'administration centrale du ministère chargé des postes et télécommunications sont étendues aux nominations et à l'avancement dans les mêmes emplois des services centraux de La Poste et de France Télécom. Toutefois, les nominations à ces emplois sont prononcées par le président du conseil d'administration de l'exploitant public.

@@ -1,93 +1,69 @@
 # Article ANNEXE
 
-68 Département du Haut-Rhin
-
-Cours d'eau, canaux et plans d'eau de 1re catégorie
-
-1° La Largue et le Largitzerbach en amont de leur confluence, ainsi que leurs affluents et sous-affluents en amont de ce point, à l'exception du plan d'eau de Courtavon ;
-
-L'Elbach, le Traubach, le Soultzbach, le Krebsbach : affluents rive gauche de la Largue, ainsi que leurs affluents et sous-affluents.
-
-2° L'Ill et le Feldbach en amont de leur confluence, ainsi que leurs affluents et sous-affluents en amont de ce point ;
-
-Le Thalbach en amont de la confluence du Wahlbach, ainsi que ses affluents et sous-affluents en amont de ce point.
-
-3° Le Lertzbach, le Rohrbach, le Liesbach, en amont de la gravière de l'Aéroport, ainsi que leurs affluents et sous-affluents en amont de ce point.
-
-4° Le canal de drainage du Grand Canal d'Alsace, depuis sa source à Village-Neuf jusqu'à sa confluence avec le Muhlbach à Rosenau.
-
-5° L'Augraben, affluent rive gauche du Grand Canal d'Alsace.
-
-6° Le Birsig et le ruisseau de Neuwiller, affluent du Rhin.
-
-7° La Lucelle, limitrophe de la Suisse.
-
-8° La Doller en amont de sa confluence avec le canal de décharge de l'Ill à Mulhouse, ainsi que ses affluents en amont de ce point, à l'exception :
-
-- des deux plans d'eau de la retenue de Michelbach ;
-
-- du plan d'eau de Burnhaupt-le-Bas.
-
-9° La Thur en amont de sa confluence avec l'Ill, ainsi que ses affluents et sous-affluents.
-
-10° Le ruisseau de Wuenheim (Wuenheimerbach) et de Hartmannswiller (Fridolinsbach) en amont de leur confluence, ainsi que leurs affluents et sous-affluents en amont de ce point ;
-
-Le ruisseau de Wattwiller et ses affluents.
-
-11° La Lauch en amont du pont d'Issenheim, ainsi que ses affluents et sous-affluents en amont de ce point ;
-
-Le Rimbach, affluent rive droite de la Lauch, ainsi que ses affluents et sous-affluents, à l'exception de la Vieille Thur ;
-
-L'Ohmbach, affluent rive gauche de la Lauch, ainsi que ses affluents et sous-affluents ;
-
-La Thur et la Lauch canalisée depuis leur confluence jusqu'au confluent avec l'Ill.
-
-12° La Fecht en amont du pont de la route reliant la gare de Bennwihr à Sigolsheim, ses affluents et sous-affluents en amont et en aval de ce point, à l'exception du Lac Vert ;
-
-Le Bergenbach et l'Eckenbach, affluents rive gauche de l'Ill, ainsi que leurs affluents et sous-affluents.
-
-13° Le Brunnwasser, le Holderlehgraben, le Scheidgraben, l'Orch, le Riedbrunnengraben, cours d'eau de la région d'Illhaeusern.
-
-14° L'Ischert, affluent rive gauche du Rhin.
-
-15° Le canal de drainage du Rhin au Grand Canal d'Alsace, depuis sa source à Biesheim jusqu'à la limite du Bas-Rhin.
-
-16° Tous les lacs naturels et artificiels du Massif Vosgien, à l'exception du Lac Vert.
-
-17° La Liepvrette, affluent rive droite du Giessen, ainsi que ses affluents et sous-affluents.
+Département de la Haute-Vienne
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
-Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
+1° La Vienne en aval de son confluent avec la Maulde ;
 
-Département de Seine-et-Marne
+2° La Maulde en aval du barrage du lac de retenue du Mont-Larron et les lacs de retenue établis sur cette section : le lac de retenue du Mont-Larron, le lac de retenue de Vassivière (limite courbe de niveau à 650 m) ;
+
+3° Le Taurion ;
+
+4° La Briance en aval de son confluent avec la Roselle ;
+
+5° La Gartempe en aval du pont des Bonshommes (commune de Bessines-sur-Gartempe) ;
+
+6° Le Vincou en aval du pont de la S.N.C.F. de La Roche-Corbière sur la commune de Bellac ;
+
+7° La Brame en aval du pont de Beaubeyrot ;
+
+8° La Chaume ;
+
+9° La Benaize ;
+
+10° L'Asse ;
+
+11° La Glane entre le pont de Dérot et son confluent avec la Vienne ;
+
+12° Le lac de Saint-Pardoux (communes de Saint-Pardoux, Compreignac, Razès et Saint-Symphorien-sur-Couze).
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-1° Le Lunain ;
+Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
-2° L'Orvin ;
+89 Département de l'Yonne
 
-3° L'Orvanne, sauf la partie comprise entre le pont de Bourgogne en amont et son confluent avec le Loing à l'aval ;
+Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-4° Le Betz ;
+1° La Cure en amont de son confluent avec le Cousin, à l'exception :
 
-5° Le Grand-Morin en amont du moulin Monblin (commune de la Ferté-Gaucher) ;
+- du bassin de Malassis s'étendant du barrage de Malassis au pont de Cure (commune de Domecy-sur-Cure) ;
 
-6° Le Vannetin ;
+- du bassin du Crescent s'étendant du barrage du Crescent au pont de Railly ;
 
-7° L'Aubetin ;
+Le Cousin ; le Vault-de-Bouche.
 
-8° Le Durteint et la Fausse Rivière sur l'intégralité de leurs parcours ;
+2° Le Créanton.
 
-9° Le Dragon sur la totalité de son parcours ;
+3° La Vanne.
 
-10° La Voulzie pour la section située en amont du moulin de l'Etang (commune de Provins) ;
+4° Le ru de Chamoux en amont de la queue de l'étang supérieur dit " des Foulons " (commune de Châtel-Censoir) ; le ru de Sinotte en amont de Sougères-sur-Sinotte ; le Beaulche en amont du pont de pierre (R.N. 6) ; le Tholon en amont du pont de la R.N. 443 ; l'Ocq en amont du lieudit Ferme de la Prairie (commune de Saint-Julien-du-Sault) ; le Vrin ; le ru de Salles ; le ru de Valprofonde en amont de la R.N. 6 ; les rus du Rousson et de Marsangy en amont du pont de la voie ferrée de Paris à Lyon ; l'Oreuse en amont du pont de la R.D. 23.
 
-11° L'Ecole en amont de la limite avec le département de l'Essonne ;
+5° Le ruisseau de Brosses.
 
-12° Les affluents et sous-affluents des cours d'eau ou parties de cours d'eau désignés ci-dessus.
+6° Le Loing entre le déversoir de l'étang de Moutiers (commune de Moutiers) et le pont de la R.D. 90 lieudit Moulin de Cotard (commune de Rogny) ; les affluents du Loing : l'Ouanne, le Clairis, le Betz, le Lunain, l'Orvanne.
+
+7° Le Nohain ; la Vrille.
+
+8° Les affluents et sous-affluents des cours d'eau ou parties de cours d'eau désignés ci-dessus à l'exception :
+
+- du ruisseau de Bourdon (affluent du Loing) et ses affluents ;
+
+- de l'Armance et ses affluents ;
+
+- des étangs du Marrault du Haut et du Marrault du Bas.
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
-Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
+Tous les cours d'eau, canaux et plans non classés en 1re catégorie.

@@ -1,0 +1,3 @@
+# Article 40
+
+Pendant une période de quatre ans à compter de la date de publication du présent décret, peuvent être intégrés dans le corps des conservateurs des bibliothèques, sous réserve d'avoir subi les épreuves d'un examen professionnel dont les modalités sont fixées par arrêté du ministre chargé de l'enseignement supérieur, les agents non titulaires de l'Etat en fonctions à la date d'effet du présent décret dans les bibliothèques ou services mentionnés à l'article 1er ci-dessus. Les intéressés doivent être chargés de fonctions de conservateur des bibliothèques depuis au moins cinq années et être titulaires de l'un des diplômes prévus au 1° de l'article 4 du présent décret.

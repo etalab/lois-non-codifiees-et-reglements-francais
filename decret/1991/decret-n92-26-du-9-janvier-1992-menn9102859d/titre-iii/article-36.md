@@ -1,0 +1,5 @@
+# Article 36
+
+A titre transitoire et pour une période de quatre ans à compter de la date de publication du présent décret, des concours externes exceptionnels d'accès au corps des conservateurs des bibliothèques sont ouverts aux candidats justifiant du diplôme supérieur de bibliothécaire ou du titre d'archiviste paléographe ou du diplôme de l'Institut national des techniques de documentation. La limite d'âge prévue au 1° de l'article 4 ci-dessus n'est pas opposable aux candidats à ces concours ; toutefois, les dispositions de l'article 2 du décret n° 90-709 du 1er août 1990 susvisé sont applicables.
+
+Les modalités d'organisation des concours prévus au présent article sont fixées par arrêté du ministre chargé de l'enseignement supérieur. Le nombre des emplois offerts au titre de ces concours est au plus égal à la moitié du nombre de postes mis aux concours externes prévus aux 1° et 2° de l'article 4 ci-dessus ; ce nombre n'entre pas dans le calcul de la proportion prévue au 3° de l'article 4 ci-dessus.

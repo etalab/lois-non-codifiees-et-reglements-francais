@@ -2,12 +2,55 @@
 
 Le coefficient prévu à l'article 1er du décret du 28 septembre 1983 susvisé est fixé ainsi qu'il suit :
 
-Durée du service militaire de 0 à 6 mois :
-
-- Coefficient retenu pour le calcul         de la solde : 1,5.    Durée du service militaire de 7 à 12 mois :
-
-- Coefficient retenu pour le calcul         de la solde : 2.    Durée du service militaire de 13 à 18 mois :
-
-- Coefficient retenu pour le calcul         de la solde : 2,5.    Durée du service militaire de 19 à 24 mois :
-
-- Coefficient retenu pour le calcul         de la solde : 3.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">DURÉE DES SERVICES MILITAIRES </p>
+<br/>
+<p align="center">(en mois)</p>
+</td>
+<td>
+<p align="center">COEFFICIENT </p>
+<br/>
+<p align="center">retenu </p>
+<br/>
+<p align="center">pour le calcul </p>
+<br/>
+<p align="center">de la solde</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">0 à 6</p>
+</td>
+<td>
+<p align="center">1,5</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">7 à 12</p>
+</td>
+<td>
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">13 à 18</p>
+</td>
+<td>
+<p align="center">3,65</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p align="center">19 à 24</p>
+</td>
+<td rowspan="2">
+<p align="center">4,5</p>
+</td>
+</tr>
+</tbody>
+</table>

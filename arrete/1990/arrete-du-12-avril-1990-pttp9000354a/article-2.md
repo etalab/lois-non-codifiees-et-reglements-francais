@@ -9,3 +9,11 @@ Au départ des zones précitées à destination :
 - des territoires d'outre-mer et de la poste aux armées ;
 
 - des pays étrangers au fur et à mesure de leur accession au service.
+
+Au départ de la collectivité de Saint-Pierre-et-Miquelon à destination :
+
+- de la France métropolitaine, des départements d'outre-mer et de la collectivité territoriale de Mayotte ;
+
+- des territoires d'outre-mer et de la poste aux armées ;
+
+- des pays étrangers au fur et à mesure de leur accession au service.

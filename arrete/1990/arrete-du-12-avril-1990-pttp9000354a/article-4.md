@@ -239,3 +239,71 @@ Non admis
 0,40
 
 (1) Plis non urgent sans surtaxe jusqu'à 20 g.
+
+LIEU DE DÉPÔT
+
+LIEU DE DESTINATION
+
+SURTAXE par 10 grammes (en francs)
+
+Saint-Pierre-et-Miquelon.
+
+France métropolitaine (1)
+
+0,10
+
+Guadeloupe, Guyane française, Martinique, Réunion, Mayotte (1)
+
+0,20
+
+T
+
+O.M. (1).0,30
+
+Régime particulier (hors Tunisie)
+
+0,20
+
+Algérie, Maroc, Tunisie
+
+0,10
+
+Arabie Saoudite, Egypte, Iran, Iraq, Israël, Jamahiriya lybienne, Jordanie, Liban, République arabe syrienne
+
+0,20
+
+Canada, USA
+
+Non admis
+
+Autres pays d'Europe
+
+0,10
+
+Autres pays d'Afrique, d'Amérique, d'Asie et d'Océanie
+
+0,30
+
+Postes aux armées :
+
+- série 25 000
+
+0,20
+
+- série 27 000
+
+Non admis
+
+- série 69 000
+
+0,10
+
+- série 85 000
+
+0,20
+
+- série 91 000 (1)
+
+0,30
+
+(1) Ecopli (plis non urgents) sans surtaxe jusqu'à 20 grammes.

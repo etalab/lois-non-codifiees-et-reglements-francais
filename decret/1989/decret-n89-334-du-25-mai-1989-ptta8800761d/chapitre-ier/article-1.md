@@ -1,3 +1,3 @@
 # Article 1
 
-Les chefs de service de comptabilité ont la qualité de comptable public principal ; ils remplissent leurs fonctions et assument leurs responsabilités conformément aux lois et décrets applicables aux comptables publics principaux.
+Les chefs de service de comptabilité de La Poste et les chefs de service de comptabilité de France Télécom dirigent conformément aux règles applicables aux entreprises de commerce les services de la comptabilité de l'exploitant public correspondant et en assurent, le cas échéant, la centralisation.

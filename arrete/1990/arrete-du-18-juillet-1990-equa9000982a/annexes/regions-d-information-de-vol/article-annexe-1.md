@@ -18,6 +18,8 @@ Région d'information de vol Francfort.
 
 Région d'information de vol Munich.
 
+Région d'information de vol Berlin-schonefeld.
+
 République d'Autriche
 
 Région d'information de vol Vienne.
@@ -76,6 +78,8 @@ Région supérieure d'information de vol Shannon.
 
 Région d'information de vol Shannon.
 
+Région de transition océanique de Shannon délimitée par les coordonnées ci-aprés : 51° N 15° W, 51° N 8° W, 48° 30' N 8° W, 49 ° N 15° W, 51° N 15° W, au niveau de vol 55 et au dessus.
+
 Royaume des Pays-Bas
 
 Région d'information de vol Amsterdam.
@@ -107,3 +111,5 @@ Région d'information de vol Istanbul.
 Malte
 
 Région d'information de vol Malte.
+
+République de Chypre;    Région d'information de vol Nicosie.
