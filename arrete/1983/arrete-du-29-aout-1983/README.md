@@ -1,4 +1,4 @@
-# Arrêté du 29 août 1983 RELATIF A L'ENVOI DES ORDONNANCES AUX ORGANISMES D'ASSURANCE MALADIE PAR LES ASSURES SOCIAUX.
+# Arrêté du 29 août 1983 fixant le montant des frais relatifs au recouvrement et à la gestion de la cotisation spéciale sur le tabac instituée au profit de la caisse nationale d'assurance maladie.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-A partir du 1er janvier 1984, les ordonnances comportent un original et un volet établi par duplication. A compter de cette date, les assurés sociaux sont tenus d'adresser le volet dupliqué à l'organisme d'assurance maladie dont ils relèvent.
+L'affectation de ce prélèvement sera fixée par arrêté du secrétaire d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget.
