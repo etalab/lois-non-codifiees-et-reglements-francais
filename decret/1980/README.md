@@ -118,7 +118,6 @@
 - [Décret n°80-218 du 20 mars 1980](decret-n80-218-du-20-mars-1980)
 - [Décret n°80-911 du 20 novembre 1980](decret-n80-911-du-20-novembre-1980)
 - [Décret n°80-915 du 20 novembre 1980](decret-n80-915-du-20-novembre-1980)
-- [Décret n°80-916 du 20 novembre 1980](decret-n80-916-du-20-novembre-1980)
 - [Décret n°80-164 du 21 février 1980](decret-n80-164-du-21-fevrier-1980)
 - [Décret n°80-574 du 21 juillet 1980](decret-n80-574-du-21-juillet-1980)
 - [Décret n°80-828 du 21 octobre 1980](decret-n80-828-du-21-octobre-1980)
