@@ -564,6 +564,7 @@
 - [Décret n°2000-572 du 26 juin 2000 (EQUP0000216D)](decret-n2000-572-du-26-juin-2000-equp0000216d)
 - [Décret n°2000-573 du 26 juin 2000 (EQUP0000215D)](decret-n2000-573-du-26-juin-2000-equp0000215d)
 - [Décret n°2000-700 du 26 juillet 2000 (ECOT0051898D)](decret-n2000-700-du-26-juillet-2000-ecot0051898d)
+- [Décret n°95-462 du 26 avril 1995 (MCCX9400163D)](decret-n95-462-du-26-avril-1995-mccx9400163d)
 - [Décret n°2000-1060 du 27 octobre 2000 (MENK0002671D)](decret-n2000-1060-du-27-octobre-2000-menk0002671d)
 - [Décret n°2000-1149 du 27 novembre 2000 (AGRE0001457D)](decret-n2000-1149-du-27-novembre-2000-agre0001457d)
 - [Décret n°2000-1165 du 27 novembre 2000 (AGRP0000344D)](decret-n2000-1165-du-27-novembre-2000-agrp0000344d)
