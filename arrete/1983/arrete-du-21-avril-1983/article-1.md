@@ -1,3 +1,5 @@
 # Article 1
 
-Sont approuvées les dispositions particulières, jointes en annexe au présent arrêté, concernant les établissements du type V (établissements de culte) et les établissements du type W (administrations, banques et bureaux).
+Le présent arrêté et ses annexes ont pour objet de fixer les méthodes conduisant à la détermination des degrés de résistance au feu des éléments de construction, auxquels se réfèrent les règlements de sécurité contre l'incendie.
+
+Ils ne traitent pas de la conformité des éléments commercialisés aux éprouvettes d'essais.

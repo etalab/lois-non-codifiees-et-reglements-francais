@@ -4,6 +4,7 @@
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Délivrance des permis.](delivrance-des-permis)
+- [Demande de permis de conduire.](demande-de-permis-de-conduire)
 - [Dispositions transitoires.](dispositions-transitoires)
 - [Conditions spéciales de validité et d'échange.](conditions-speciales-de-validite-et)
 - [Examens médicaux.](examens-medicaux)
