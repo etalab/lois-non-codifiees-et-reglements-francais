@@ -1,0 +1,3 @@
+# Article 5-3
+
+Les courtiers interprètes et conducteurs de navires bénéficiant des dispositions prévues à l'article 5 de la loi n° 2001-43 du 16 janvier 2001 portant diverses dispositions d'adaptation au droit communautaire dans le domaine des transports peuvent demander à être nommés aux offices d'huissier de justice sans avoir à justifier de la condition de diplôme prévue au 5° de l'article 1er sous réserve que les demandes soient présentées dans les trois ans à compter de la publication du décret n° 2003-247 du 13 mars 2003. Ils peuvent également être dispensés, dans les conditions prévues à l'article 2, d'une partie du stage, dans la limite de la moitié de sa durée, et de certaines épreuves de l'examen professionnel.
