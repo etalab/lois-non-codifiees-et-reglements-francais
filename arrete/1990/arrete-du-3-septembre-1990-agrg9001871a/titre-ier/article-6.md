@@ -30,9 +30,9 @@ Ce pourcentage est progressivement réduit pour atteindre la valeur zéro au mom
 
 3. Les végétaux ou produits végétaux sont originaires et en provenance d'un pays tiers.
 
-6. Dans tous les autres cas, les contrôles officiels, y compris les contrôles concernant l'identité des végétaux, ne sont effectués qu'occasionnellement par sondage ; ils sont considérés comme occasionnels, s'ils ne sont pas effectués sur plus d'un certain pourcentage des introductions et s'ils sont répartis aussi harmonieusement que possible dans le temps et sur l'ensemble des produits.
+6. Dans tous les autres cas, les contrôles officiels, y compris les contrôles concernant l'identité des végétaux, ne sont effectués qu'occasionnellement par sondage ; ils sont considérés comme occasionnels, s'ils ne sont pas effectués sur plus de 10 p. 100 des introductions et s'ils sont répartis aussi harmonieusement que possible dans le temps et sur l'ensemble des produits.
 
-Ce pourcentage peut être arrêté selon les catégories de végétaux ou produits végétaux, conformément à la procédure prévue à l'article 4 du présent arrêté. Il doit être inférieur à 33 p. 100 et est progressivement réduit pour atteindre la valeur zéro au moment ou les Etats membres ont mis en vigueur les nouvelles modalités de contrôle, conformément aux dispositions destinées à assurer l'achèvement du marché intérieur.
+Ce pourcentage peut être arrêté selon les catégories de végétaux ou produits végétaux, conformément à la procédure prévue à l'article 4 du présent arrêté. Il doit être inférieur à 10 p. 100 et est progressivement réduit pour atteindre la valeur zéro au moment ou les Etats membres ont mis en vigueur les nouvelles modalités de contrôle, conformément aux dispositions destinées à assurer l'achèvement du marché intérieur.
 
 7. Ces contrôles sont opérés par les agents habilités dans les bureaux de douanes ouverts aux contrôles phytosanitaires ou sur les lieux de destination, de manière à ce que l'itinéraire prévu pour acheminer ces végétaux, produits végétaux ou autres produits soit le moins possible perturbé, l'exécution de ces contrôles en frontière devant être progressivement réduite.
 
