@@ -1,0 +1,3 @@
+# Article 5
+
+Jusqu'au 1er janvier 2003, et par dérogation aux dispositions du 2° de l'article 3-10 du décret du 11 janvier 1993 susvisé, lorsque trois nominations ont été effectuées en application des dispositions du 1° de l'article 3-10 de ce décret, un adjoint de protection des réfugiés et apatrides est nommé au choix, par inscription sur une liste d'aptitude, après avis de la commission administrative paritaire du corps d'accueil, parmi les fonctionnaires de catégorie C du ministère des affaires étrangères ou de l'Office français de protection des réfugiés et apatrides justifiant d'au moins dix ans de services publics.

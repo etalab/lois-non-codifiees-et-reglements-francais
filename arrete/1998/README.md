@@ -979,6 +979,8 @@
 - [Arrêté du 27 mars 1998 (MESH9821289A)](arrete-du-27-mars-1998-mesh9821289a)
 - [Arrêté du 27 mars 1998 (MESH9821290A)](arrete-du-27-mars-1998-mesh9821290a)
 - [Arrêté du 27 mars 1998 (MESS9821222A)](arrete-du-27-mars-1998-mess9821222a)
+- [Arrêté du 27 novembre 1998 (ECOC9700235A)](arrete-du-27-novembre-1998-ecoc9700235a)
+- [Arrêté du 27 novembre 1998 (ECOC9800080A)](arrete-du-27-novembre-1998-ecoc9800080a)
 - [Arrêté du 27 novembre 1998 (EQUP9801119A)](arrete-du-27-novembre-1998-equp9801119a)
 - [Arrêté du 27 novembre 1998 (EQUP9801120A)](arrete-du-27-novembre-1998-equp9801120a)
 - [Arrêté du 27 novembre 1998 (MESP9823646A)](arrete-du-27-novembre-1998-mesp9823646a)
