@@ -10,8 +10,12 @@ b) Le nombre des infirmiers en exercice dans la région, d'une part à titre lib
 
 c) Les capacités de formation des écoles d'infirmiers de la région.
 
-2° Fait ressortir l'évolution prévisible des éléments précités à l'échéance de trois ans, compte tenu notamment de la durée moyenne d'exercice professionnel constatée pour les infirmiers de la région et du nombre de ces derniers devant cesser leur activité.
+d) La répartition des structures de soin et de prévention existantes et prévues.
+
+2° Fait ressortir l'évolution prévisible des éléments précités à l'échéance de cinq ans, compte tenu notamment de la durée moyenne d'exercice professionnel constatée pour les infirmiers de la région et du nombre de ces derniers devant cesser leur activité.
 
 3° Evalue le nombre d'emplois salariés à créer et des installations à titre libéral à envisager à l'échéance précitée pour répondre de façon satisfaisante aux besoins de la population dans la région et dans les départements de la région ;
 
-4° Propose, pour chaque région, le nombre d'élèves pouvant être admis à la rentrée scolaire suivante en première année des études préparatoires au diplôme d'Etat d'infirmier ou d'infirmière.
+4° Propose, pour chaque région, le nombre d'élèves pouvant être admis au cours des trois années suivantes en première année des études préparatoires au diplôme d'Etat d'infirmier ou d'infirmière.
+
+5° Indique la répartition envisagée par école en précisant les éléments pouvant la motiver.
