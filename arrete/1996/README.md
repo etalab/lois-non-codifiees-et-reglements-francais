@@ -507,7 +507,6 @@
 - [Arrêté du 14 mars 1996 (AGRS9501475A)](arrete-du-14-mars-1996-agrs9501475a)
 - [Arrêté du 14 mars 1996 (ECOR9605006A)](arrete-du-14-mars-1996-ecor9605006a)
 - [Arrêté du 14 mars 1996 (ECOT9620008A)](arrete-du-14-mars-1996-ecot9620008a)
-- [Arrêté du 14 mars 1996 (EQUI9600346A)](arrete-du-14-mars-1996-equi9600346a)
 - [Arrêté du 14 mars 1996 (TASH9620898A)](arrete-du-14-mars-1996-tash9620898a)
 - [Arrêté du 14 novembre 1996 (AGRG9602444A)](arrete-du-14-novembre-1996-agrg9602444a)
 - [Arrêté du 14 novembre 1996 (BUDL9600141A)](arrete-du-14-novembre-1996-budl9600141a)
