@@ -1,0 +1,3 @@
+# Article 30
+
+Le ministre des finances et des affaires économiques, le ministre des travaux publics, des transports et du tourisme, le garde des sceaux, ministre de la justice, le ministre des affaires étrangères, le ministre de l'intérieur, le ministre de la défense nationale et des forces armées, le ministre de la reconstruction et du logement, le ministre de l'industrie et du commerce, le ministre de la France d'outre-mer, le secrétaire d'Etat au budget, le secrétaire d'Etat aux affaires économiques, le secrétaire d'Etat aux travaux publics et à l'aviation civile et le secrétaire d'Etat au commerce sont chargés, de l'exécution du présent décret, qui sera publié au _Journal officiel_ de la République française.
