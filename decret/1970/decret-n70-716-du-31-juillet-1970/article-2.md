@@ -18,14 +18,14 @@ Les maîtres auxiliaires sont répartis en quatre catégories bénéficiant de r
 </td>
 <td align="center">280 - 440 <br/>
 </td>
-<td align="center">340 - 570<br/>
+<td align="center">379 - 603<br/>
 </td>
 </tr>
 <tr>
 <td>Catégorie II..................... </td>
 <td align="center">250 - 384<br/>
 </td>
-<td align="center">300 - 490<br/>
+<td align="center">340 - 521<br/>
 </td>
 </tr>
 <tr>

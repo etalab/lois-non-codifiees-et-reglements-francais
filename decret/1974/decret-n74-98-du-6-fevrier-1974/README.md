@@ -2,4 +2,5 @@
 
 - [CHAPITRE 1er : Dispositions relatives aux fonctions d'agent comptable.](chapitre-1er)
 - [CHAPITRE II : Recrutement - Avancement.](chapitre-ii)
+- [CHAPITRE III : Rémunération.](chapitre-iii)
 - [CHAPITRE IV : Dispositions diverses.](chapitre-iv)

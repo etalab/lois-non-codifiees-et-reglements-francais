@@ -55,6 +55,7 @@
 - [Décret n°77-788 du 12 juillet 1977](decret-n77-788-du-12-juillet-1977)
 - [Décret n°69-662 du 13 juin 1969](decret-n69-662-du-13-juin-1969)
 - [Décret n°77-810 du 13 juillet 1977](decret-n77-810-du-13-juillet-1977)
+- [Décret n°77-812 du 13 juillet 1977](decret-n77-812-du-13-juillet-1977)
 - [Décret n°77-636 du 14 juin 1977](decret-n77-636-du-14-juin-1977)
 - [Décret n°77-227 du 15 mars 1977](decret-n77-227-du-15-mars-1977)
 - [Décret n°77-238 du 15 mars 1977](decret-n77-238-du-15-mars-1977)

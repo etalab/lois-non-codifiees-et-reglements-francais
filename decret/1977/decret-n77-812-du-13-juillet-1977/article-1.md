@@ -1,0 +1,7 @@
+# Article 1
+
+Le présent décret fixe le régime de sécurité sociale applicable en matière d'assurances maladie, maternité, décès, invalidité (pensions temporaires et soins) et accidents du travail aux agents stagiaires des départements, des communes et de leurs établissements publics n'ayant pas le caractère industriel ou commercial, nommés dans un emploi permanent conduisant à pension de la caisse nationale de retraites des agents des collectivités locales, conformément aux dispositions prévues en matière de recrutement par le statut applicable au personnel de ces collectivités ou établissements, mais dont la titularisation dans un grade donnant vocation définitive à occuper l'emploi considéré n'a pas encore été prononcée.
+
+Sont également considérés comme agents stagiaires les élèves de l'école nationale de la santé publique visés par l'article 19 du décret n° 69-662 du 13 juin 1969 modifié relatif à la nomination et à l'avancement du personnel de direction des établissements d'hospitalisation, de soins et de cure publics.
+
+Les dispositions du présent décret ne sont pas applicables aux stagiaires possédant la qualité d'agent titulaire dans une collectivité locale ou un établissement public visés au premier alinéa ci-dessus, immatriculés à la caisse nationale de retraites des agents des collectivités locales, qui demeurent soumis aux dispositions du décret n° 60-58 du 11 janvier 1960 modifié.
