@@ -1,6 +1,5 @@
-# Arrêté du 6 avril 1982 relatif à l'emploi de la L-cystéine dans certaines farines destinées à des usages particuliers
+# Arrêté du 6 avril 1982 COMMISSION PREVUE A L'ARTICLE 310-G DE L'ANNEXE II AU CODE GENERAL DES IMPOTS RELATIF AUX CONDITIONS DANS LESQUELLES SONT DONNES LES AGREMENTS PREVUS PAR LES DISPOSITIONS DES ARTICLES 1131 ET 1716 bis DU CODE TENDANT A FAVORISER LA CONSERVATION DU PATRIMOINE ARTISTIQUE NATIONAL.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Article 4](article-4.md)
