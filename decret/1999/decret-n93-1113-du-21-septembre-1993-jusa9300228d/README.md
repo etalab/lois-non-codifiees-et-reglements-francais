@@ -5,6 +5,5 @@
 - [Article 2](article-2.md)
 - [TITRE II : CHEFS DE SERVICE PÉNITENTIAIRE](titre-ii)
 - [Article 3](article-3.md)
-- [TITRE III : DISPOSITIONS DIVERSES.](titre-iii)
 - [TITRE IV : DISPOSITIONS TRANSITOIRES.](titre-iv)
 - [Article 65](article-65.md)
