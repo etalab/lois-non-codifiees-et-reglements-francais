@@ -1,25 +1,23 @@
 # Article 11
 
-Les laborantins sont recrutés par concours ouverts par le préfet du département où doivent avoir lieu les épreuves selon les modalités fixées par le ministre des affaires sociales. Ces concours peuvent être communs à plusieurs établissements du même département ou de départements voisins.
+Les laborantins sont recrutés :
 
-Ils sont ouverts aux candidats âgés de dix-neuf ans au moins et de trente-cinq ans au plus au 1er janvier de l'année du concours satisfaisant aux dispositions de l'article L. 809 du code de la santé publique et possédant l'un des diplômes ou titres suivants :
+1) Par voie de concours sur titres ouverts aux candidats âgés de dix-neuf ans au moins et quarante ans au plus au 1er janvier de l'année, satisfaisant aux dispositions de l'article L. 809 du code de la santé publique et titulaires du Diplôme d'Etat de laborantin d'analyses médicales, du Diplôme universitaire de technologie options biochimie ou biologie appliquée, du brevet de technicien supérieur d'analyses biologiques ou du brevet de technicien supérieur biochimiste.
 
-Diplôme d'Etat de laborantin d'analyses médicales.
+2) Par voie de concours sur épreuves organisés selon les modalités fixées par arrêté du ministre chargé de la santé publique ouverts aux candidats âgés de dix-neuf au moins et quarante ans au plus au 1er janvier de l'année du concours et possédant l'un des diplômes ou titres suivants:
 
-Brevet supérieur de technicien d'analyses biologiques;
+Diplômes visés au 1er ci-dessus;
 
-Brevet supérieur de technicien de biochimie;
+Brevet de technicien supérieur chimiste;
 
-Brevet de technicien de biologie;
+Brevet de technicien en biologie;
 
-Diplôme d'élève breveté des écoles nationales professionnelles et lycées techniques d'Etat, spécialités, chimie, biochimie, analyses biologiques ou laborantine médicale;
+Baccalauréats de technicien sciences biologiques, options biochimie ou biologie;
 
-Baccalauréat de technicien chimie et biochimie;
+Diplômes d'élève breveté des écoles nationales professionnelles et lycées techniques d'Etat, spécialités chimie, biochimie, analyses biologiques ou laborantin médical;
 
-Diplômes de travaux pratiques de chimie générale et de chimie organique délivré par le Conservatoire national des arts et métiers;
+Diplômes de travaux pratiques de chimie générale et de chimie organique délivrés par le Conservatoire national des arts et métiers;
 
-Diplômes délivrés par l'école technique lyonnaise;
+Titres visés à l'article 1er de l'arrêté du 27 novembre 1970 modifié fixant la liste des diplômes, titres ou qualifications ouvrant accès aux concours pour le recrutement de laborantins dans les établissements d'hospitalisation de soins ou de cure publics.
 
-Diplôme universitaire de technologie (option biologie appliquée);
-
-Titres visés à l'article 1er de l'arrêté du 6 juin 1966 modifié.
+Ces concours peuvent être communs à plusieurs établissements du même département ou de départements voisins.

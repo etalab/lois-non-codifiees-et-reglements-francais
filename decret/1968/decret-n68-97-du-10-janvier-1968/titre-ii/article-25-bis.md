@@ -1,0 +1,3 @@
+# Article 25 bis
+
+Les préparateurs en pharmacie, les techniciens de laboratoire, les laborantins et les manipulateurs d'électroradiologie qui, antérieurement à leur recrutement, ont été employés en la même qualité dans un établissement de soins public ou privé et qui ne peuvent se prévaloir des dispositions du troisième alinéa de l'article L. 819 du code de la santé publique bénéficient lors de leur titularisation d'une bonification d'ancienneté égale à la moitié de la durée des services ci-dessus visés à condition que ces services aient été accomplis de façon continue. Cette bonification ne peut en aucun cas excéder quatre ans; elle ne peut être attribuée qu'une fois au cours de la carrière des intéressés.

@@ -72,5 +72,6 @@
 - [Arrêté du 28 décembre 1972](arrete-du-28-decembre-1972)
 - [Arrêté du 28 septembre 1973](arrete-du-28-septembre-1973)
 - [Arrêté du 29 juin 1973](arrete-du-29-juin-1973)
+- [Arrêté du 29 novembre 1973](arrete-du-29-novembre-1973)
 - [Arrêté du 29 mai 1973](arrete-du-29-mai-1973)
 - [Arrêté du 30 octobre 1973](arrete-du-30-octobre-1973)
