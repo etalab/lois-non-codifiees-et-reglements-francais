@@ -1,0 +1,3 @@
+# Article 35
+
+Seuls les personnels des communes ou des établissements publics de coopération intercommunale désignés par le maire ou, le cas échéant, l'organe délibérant de l'établissement public de coopération intercommunale ou son président dans les conditions définies à l'article 22, les agents de l'Institut national de la statistique et des études économiques et les personnels concernés des entreprises auxquelles l'Institut national de la statistique et des études économiques confie des traitements ont accès aux données collectées lors des enquêtes de recensement définies à l'article 21 et des enquêtes de contrôle d'exhaustivité définies à l'article 39.
