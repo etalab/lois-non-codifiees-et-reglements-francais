@@ -1,3 +1,9 @@
 # Article 1
 
-Le maire fait parvenir à chaque électeur, avec sa carte électorale, une enveloppe électorale du modèle défini à l'article 17 du décret du 13 janvier 1968 susvisé.
+Le plan comptable des organismes de sécurité sociale du régime général annexé (1) au présent arrêté est approuvé.
+
+(1) Le plan comptable peut être consulté :
+
+Au ministère de l'économie, des finances et du budget (direction de la comptabilité publique, bureau D 4), 151, rue Saint-Honoré, Paris ;
+
+Au ministère des affaires sociales et de la solidarité nationale (direction de la sécurité sociale, bureau F), 1, place de Fontenoy, 75700 Paris.
