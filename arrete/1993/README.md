@@ -312,6 +312,7 @@
 - [Arrêté du 15 janvier 1993 (AGRG9300129A)](arrete-du-15-janvier-1993-agrg9300129a)
 - [Arrêté du 15 janvier 1993 (EQUS9201518A)](arrete-du-15-janvier-1993-equs9201518a)
 - [Arrêté du 15 juin 1993 (ECOC9300025A)](arrete-du-15-juin-1993-ecoc9300025a)
+- [Arrêté du 15 juin 1993 (ECOC9300071A)](arrete-du-15-juin-1993-ecoc9300071a)
 - [Arrêté du 15 juin 1993 (EQUS9300817A)](arrete-du-15-juin-1993-equs9300817a)
 - [Arrêté du 15 juin 1993 (JUSB9310189A)](arrete-du-15-juin-1993-jusb9310189a)
 - [Arrêté du 15 juin 1993 (LOGC9300048A)](arrete-du-15-juin-1993-logc9300048a)
