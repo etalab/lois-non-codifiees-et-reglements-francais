@@ -10,7 +10,7 @@ b) Elle doit être propriétaire des marchandises transportées ou les avoir ven
 
 c) Le transport ne doit constituer que l'accessoire et le complément d'une autre activité exercée par elle.
 
-2° Les transports exécutés par une personne physique ou [*personne*] morale dans les conditions visées aux alinéas a et c du paragraphe 1° ci-dessus, lorsqu'ils concernent des marchandises faisant l'objet de son activité professionnelle et sont autorisés dans les conditions fixées par un arrêté concerté du ministre des transports et du ministre de l'économie et des finances.
+2° Les transports exécutés par une personne physique ou morale dans les conditions visées aux alinéas a et c du paragraphe 1° ci-dessus, lorsqu'ils concernent des marchandises faisant l'objet de son activité professionnelle et sont autorisés dans les conditions fixées par un arrêté concerté du ministre des transports et du ministre de l'économie et des finances.
 
 3° Les transports exécutés par des entreprises liées entre elles par un contrat en vue de l'exécution d'un travail commun ou de la mise en commun d'une partie de leur activité, dans les conditions suivantes :
 
@@ -36,4 +36,4 @@ Un arrêté concerté du ministre des transports et du ministre de l'économie e
 
 10° Les transports exécutés au moyen de prototypes de véhicules nouveaux, spécialement aménagés en vue de certains transports spéciaux ou présentant un perfectionnement dans la construction des véhicules utilitaires, lorsque ces transports font l'objet d'une autorisation du ministre des transports.
 
-11° Les transports, exécutés au moyen d'un véhicule ou d'un ensemble de véhicules dont le poids maximal autorisé n'excède pas 2.500 kg, sauf, si ce véhicule ou cet ensemble est utilisé de façon habituelle pour des transports de marchandises contre rémunération.
+11° Les transports, exécutés au moyen d'un véhicule ou d'un ensemble de véhicules dont le poids maximal autorisé n'excède pas 3.500 kg, sauf, si ce véhicule ou cet ensemble est utilisé de façon habituelle pour des transports de marchandises contre rémunération.
