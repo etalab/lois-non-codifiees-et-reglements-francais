@@ -1,3 +1,0 @@
-# Article 5
-
-La validation visée à l'article 1er du présent décret s'effectue dans les conditions fixées par les articles 6 et 7 du décret susvisé du 12 décembre 1951, par les articles 2 et 7 du décret susvisé du 31 décembre 1959 et par l'article 15 de l'arrêté susvisé du 17 février 1960. Toutefois, les demandes de validation devront, sous peine de déchéance, être formulées par les intéressés auprès de l'institution de prévoyance des agents contractuels et temporaires de l'Etat et auprès de l'institution générale des retraites des agents non titulaires de l'Etat dans un délai de deux ans à compter de la date de publication du présent décret, sans que l'indexation prévue à l'alinéa 4 du paragraphe 2 de l'article 6 du décret du 12 décembre 1951 soit applicable.
