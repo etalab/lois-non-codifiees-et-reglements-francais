@@ -1,5 +1,6 @@
 # Chapitre Ier : Dispositions générales.
 
+- [Article 43](article-43.md)
 - [Article 46](article-46.md)
 - [Article 48](article-48.md)
 - [Article 50](article-50.md)
