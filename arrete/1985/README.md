@@ -9,6 +9,7 @@
 - [Arrêté du 2 août 1985](arrete-du-2-aout-1985)
 - [Arrêté du 2 janvier 1985](arrete-du-2-janvier-1985)
 - [Arrêté du 2 juin 1985](arrete-du-2-juin-1985)
+- [Arrêté du 2 septembre 1985](arrete-du-2-septembre-1985)
 - [Arrêté du 2 mai 1985](arrete-du-2-mai-1985)
 - [Arrêté du 3 août 1985](arrete-du-3-aout-1985)
 - [Arrêté du 3 avril 1985](arrete-du-3-avril-1985)
