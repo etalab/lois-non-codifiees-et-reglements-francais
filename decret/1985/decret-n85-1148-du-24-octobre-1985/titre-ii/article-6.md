@@ -1,6 +1,6 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er mars 1988 [*date d'effet*] :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er septembre 1988 [*date d'effet*] :
 
 <table>
 <tr>
