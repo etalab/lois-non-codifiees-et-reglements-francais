@@ -280,6 +280,8 @@
 - [Arrêté du 14 février 1986](arrete-du-14-fevrier-1986)
 - [Arrêté du 14 janvier 1987](arrete-du-14-janvier-1987)
 - [Arrêté du 14 janvier 1987 (ECOT8710000A)](arrete-du-14-janvier-1987-ecot8710000a)
+- [Arrêté du 14 octobre 1987 (ASEE8703719A)](arrete-du-14-octobre-1987-asee8703719a)
+- [Arrêté du 14 octobre 1987 (ASEE8703720A)](arrete-du-14-octobre-1987-asee8703720a)
 - [Arrêté du 14 octobre 1987 (ASES8701447A)](arrete-du-14-octobre-1987-ases8701447a)
 - [Arrêté du 14 octobre 1987 (RESP8700684A)](arrete-du-14-octobre-1987-resp8700684a)
 - [Arrêté du 14 octobre 1987 (RESP8700685A)](arrete-du-14-octobre-1987-resp8700685a)
