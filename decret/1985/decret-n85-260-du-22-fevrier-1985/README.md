@@ -1,9 +1,0 @@
-# Décret n°85-260 du 22 février 1985 relatif aux modalités de répartition des ressources du fonds national de péréquation de la taxe professionnelle et du fonds national de péréquation
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [SECTION II : Dispositions relatives à la répartition de la seconde part entre les communes de métropole et leurs groupements dotés d'une fiscalité propre.](section-ii)
-- [Article 3](article-3.md)
-- [SECTION III : Dispositions relatives à la répartition de la seconde part entre les communes de métropole](section-iii)
-- [SECTION IV : Dispositions relatives à l'attribution de la part résiduelle.](section-iv)
-- [SECTION V : Dispositions finales](section-v)

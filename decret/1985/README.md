@@ -119,7 +119,6 @@
 - [Décret n°85-899 du 21 août 1985](decret-n85-899-du-21-aout-1985)
 - [Décret n°85-923 du 21 août 1985](decret-n85-923-du-21-aout-1985)
 - [Décret n°85-1236 du 22 novembre 1985](decret-n85-1236-du-22-novembre-1985)
-- [Décret n°85-260 du 22 février 1985](decret-n85-260-du-22-fevrier-1985)
 - [Décret n°85-368 du 22 mars 1985](decret-n85-368-du-22-mars-1985)
 - [Décret n°85-552 du 22 mai 1985](decret-n85-552-du-22-mai-1985)
 - [Décret n°85-1135 du 23 octobre 1985](decret-n85-1135-du-23-octobre-1985)

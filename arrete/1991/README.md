@@ -688,7 +688,6 @@
 - [Arrêté du 22 juillet 1991 (MJSK9170091A)](arrete-du-22-juillet-1991-mjsk9170091a)
 - [Arrêté du 22 mars 1991 (SPSS9100803A)](arrete-du-22-mars-1991-spss9100803a)
 - [Arrêté du 22 mars 1991 (SPSS9100826A)](arrete-du-22-mars-1991-spss9100826a)
-- [Arrêté du 22 novembre 1991 (DEFP9102181A)](arrete-du-22-novembre-1991-defp9102181a)
 - [Arrêté du 22 novembre 1991 (SANP9102580A)](arrete-du-22-novembre-1991-sanp9102580a)
 - [Arrêté du 22 novembre 1991 (TEFT9104162A)](arrete-du-22-novembre-1991-teft9104162a)
 - [Arrêté du 22 octobre 1980](arrete-du-22-octobre-1980)
