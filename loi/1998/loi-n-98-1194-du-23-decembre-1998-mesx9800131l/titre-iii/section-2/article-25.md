@@ -1,6 +1,6 @@
 # Article 25
 
-I. - Il est créé, pour une durée de huit ans à compter du 1er janvier 1999, au sein de la Caisse nationale de l'assurance maladie des travailleurs salariés, un fonds d'aide à la qualité des soins de ville. Les professionnels de santé exerçant en ville et les centres de santé sont associés à la gestion du fonds.
+I. - Il est créé, pour une durée de neuf ans à compter du 1er janvier 1999, au sein de la Caisse nationale de l'assurance maladie des travailleurs salariés, un fonds d'aide à la qualité des soins de ville. Les professionnels de santé exerçant en ville et les centres de santé sont associés à la gestion du fonds.
 
 II. - Le fonds finance des actions concourant à l'amélioration de la qualité et de la coordination des soins dispensés en ville, par l'octroi d'aides à des professionnels de santé exerçant en ville ou à des regroupements de ces mêmes professionnels, et, le cas échéant, d'aides au développement de nouveaux modes d'exercice et de réseaux de soins liant des professionnels de santé exerçant en ville à des établissements de santé. En outre, par l'octroi d'aides aux organismes concernés, il finance des actions concourant à l'amélioration de la qualité et de la coordination des soins dispensés en ville dans le cadre de centres de santé. Les frais de gestion sont à la charge du fonds dans des conditions fixées par décret.
 
@@ -10,7 +10,7 @@ Le fonds peut contribuer au financement des aides aux professionnels de santé m
 
 Le fonds participe au financement des actions d'évaluation des pratiques professionnelles des médecins libéraux organisées par les unions régionales des médecins exerçant à titre libéral mentionnées à l'article L. 4134-1 du code de la santé publique et des actions d'évaluation des pratiques professionnelles des médecins exerçant au sein des structures visées à l'article L. 6323-1 du code de la santé publique organisées par les unions régionales des caisses d'assurance maladie mentionnées à l'article L. 183-1 du code de la sécurité sociale.
 
-III. - Les ressources du fonds sont constituées par une participation des régimes obligatoires d'assurance maladie, dont le montant est fixé chaque année par la loi de financement de la sécurité sociale, et pour 1999 à 500 millions de francs. La répartition entre les différents régimes est effectuée dans les conditions définies à l'article L. 722-4 du code de la sécurité sociale.
+III. - Les ressources du fonds sont constituées par une participation des régimes obligatoires d'assurance maladie, dont le montant est fixé chaque année par la loi de financement de la sécurité sociale, et pour 1999 à 500 millions de francs. La répartition entre le régime général d'assurance maladie, les régimes d'assurance maladie des professions agricoles et le régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles est fixée par arrêté des ministres chargés de la sécurité sociale et de l'agriculture.
 
 IV. - L'attribution de certaines aides peut être déconcentrée, en étant confiée à des caisses locales ou des unions de caisses. Les modalités de déconcentration, de fonctionnement et de gestion du fonds, de participation des représentants des professionnels de santé exerçant en ville et des centres de santé ainsi que les aides éligibles à un financement par le fonds sont déterminées par décret en Conseil d'Etat.
 
