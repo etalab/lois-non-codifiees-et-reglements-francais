@@ -48,7 +48,6 @@
 - [Arrêté du 17 juin 1976](arrete-du-17-juin-1976)
 - [Arrêté du 17 septembre 1976](arrete-du-17-septembre-1976)
 - [Arrêté du 17 mai 1976](arrete-du-17-mai-1976)
-- [Arrêté du 18 août 1976](arrete-du-18-aout-1976)
 - [Arrêté du 18 janvier 1977](arrete-du-18-janvier-1977)
 - [Arrêté du 18 mars 1976](arrete-du-18-mars-1976)
 - [Arrêté du 18 octobre 1976](arrete-du-18-octobre-1976)
