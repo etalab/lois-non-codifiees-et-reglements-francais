@@ -110,7 +110,6 @@
 - [Décret n°77-1167 du 20 octobre 1977](decret-n77-1167-du-20-octobre-1977)
 - [Décret n°77-1171 du 20 octobre 1977](decret-n77-1171-du-20-octobre-1977)
 - [Décret n°77-1177 du 20 octobre 1977](decret-n77-1177-du-20-octobre-1977)
-- [Décret n°77-1194 du 20 octobre 1977](decret-n77-1194-du-20-octobre-1977)
 - [Décret n°77-828 du 20 juillet 1977](decret-n77-828-du-20-juillet-1977)
 - [Décret n°77-1084 du 21 septembre 1977](decret-n77-1084-du-21-septembre-1977)
 - [Décret n°77-1133 du 21 septembre 1977](decret-n77-1133-du-21-septembre-1977)
