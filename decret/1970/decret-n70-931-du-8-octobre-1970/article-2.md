@@ -1,0 +1,3 @@
+# Article 2
+
+Les étudiants en médecine visés par l'article 1er ci-dessus participent à l'activité hospitalière sous la responsabilité du personnel médical et sous la surveillance des internes. Ils exécutent les tâches qui leur sont confiées par le médecin, chirurgien, spécialiste ou biologiste responsable du service dans lequel ils sont affectés, à l'occasion des visites et consultations externes, des examens cliniques, radiologiques et biologiques, des soins et des interventions. Ils peuvent exécuter des actes médicaux de pratique courante ; ils sont chargés de la tenue des observations et sont associés aux services de garde. Ils participent aux entretiens portant sur les dossiers des malades et suivent les enseignements dispensés à l'hôpital.

@@ -1,0 +1,3 @@
+# Article 12
+
+A titre exceptionnel et lorsqu'il n'est pas possible de faire participer à l'activité hospitalière dans les conditions prévues par le présent décret l'ensemble des étudiants en médecine visés par l'article 1er ci-dessus relevant d'un même centre hospitalier et universitaire, le président de l'université sur proposition du directeur de l'unité d'enseignement et de recherche, et le directeur général du centre hospitalier régional concernés peuvent décider, en accord avec le recteur et le médecin inspecteur régional de la santé, qu'au cours des deux premiers semestres à compter de la deuxième partie du deuxième cycle, les étudiants en médecine ne participent pas ou ne participent que partiellement à l'activité hospitalière.
