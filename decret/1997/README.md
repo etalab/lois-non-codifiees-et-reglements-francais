@@ -333,7 +333,6 @@
 - [Décret n°97-499 du 13 mai 1997 (MENN9700674D)](decret-n97-499-du-13-mai-1997-menn9700674d)
 - [Décret n°88-239 du 14 mars 1988 (INTB8800074D)](decret-n88-239-du-14-mars-1988-intb8800074d)
 - [Décret n°88-243 du 14 mars 1988 (INTB8800073D)](decret-n88-243-du-14-mars-1988-intb8800073d)
-- [Décret n°97-1033 du 14 novembre 1997 (PRMX9702373D)](decret-n97-1033-du-14-novembre-1997-prmx9702373d)
 - [Décret n°97-1035 du 14 novembre 1997 (JUSA9700294D)](decret-n97-1035-du-14-novembre-1997-jusa9700294d)
 - [Décret n°97-1039 du 14 novembre 1997 (MESH9723204D)](decret-n97-1039-du-14-novembre-1997-mesh9723204d)
 - [Décret n°97-1041 du 14 novembre 1997 (DEFP9702028D)](decret-n97-1041-du-14-novembre-1997-defp9702028d)
