@@ -197,7 +197,6 @@
 - [Arrêté du 6 septembre 1993 (JUSF9350064A)](arrete-du-6-septembre-1993-jusf9350064a)
 - [Arrêté du 6 mai 1993 (ECOT9320002A)](arrete-du-6-mai-1993-ecot9320002a)
 - [Arrêté du 7 août 1993 (TEFE9300930A)](arrete-du-7-aout-1993-tefe9300930a)
-- [Arrêté du 7 décembre 1992 (SANM9203116A)](arrete-du-7-decembre-1992-sanm9203116a)
 - [Arrêté du 7 décembre 1993 (AGRM9302351A)](arrete-du-7-decembre-1993-agrm9302351a)
 - [Arrêté du 7 janvier 1993 (BUDD9250024A)](arrete-du-7-janvier-1993-budd9250024a)
 - [Arrêté du 7 janvier 1993 (JUSC9320005A)](arrete-du-7-janvier-1993-jusc9320005a)
