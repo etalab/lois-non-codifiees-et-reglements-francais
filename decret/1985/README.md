@@ -150,6 +150,7 @@
 - [Décret n°85-525 du 13 mai 1985](decret-n85-525-du-13-mai-1985)
 - [Décret n°85-526 du 13 mai 1985](decret-n85-526-du-13-mai-1985)
 - [Décret n°65-458 du 14 juin 1965](decret-n65-458-du-14-juin-1965)
+- [Décret n°85-1100 du 14 octobre 1985](decret-n85-1100-du-14-octobre-1985)
 - [Décret n°85-209 du 14 février 1985](decret-n85-209-du-14-fevrier-1985)
 - [Décret n°85-216 du 14 février 1985](decret-n85-216-du-14-fevrier-1985)
 - [Décret n°85-231 du 14 février 1985](decret-n85-231-du-14-fevrier-1985)

@@ -6,6 +6,7 @@
 - [Loi n° 84-576 du 9 juillet 1984](loi-n-84-576-du-9-juillet-1984)
 - [Loi n° 84-604 du 13 juillet 1984](loi-n-84-604-du-13-juillet-1984)
 - [Loi n° 85-1097 du 11 octobre 1985](loi-n-85-1097-du-11-octobre-1985)
+- [Loi n° 85-1098 du 11 octobre 1985](loi-n-85-1098-du-11-octobre-1985)
 - [Loi n° 85-11 du 3 janvier 1985](loi-n-85-11-du-3-janvier-1985)
 - [Loi n° 85-17 du 4 janvier 1985](loi-n-85-17-du-4-janvier-1985)
 - [Loi n° 85-30 du 9 janvier 1985](loi-n-85-30-du-9-janvier-1985)
