@@ -22,7 +22,7 @@ A compter de la fin de la deuxième année l'intéressé peut demander une licen
 
 h) A tout moment, la licence temporaire ou définitive peut être suspendue pour une durée de six mois à un an ou retirée par arrêté du ministre après avis de la commission, soit lorsque le titulaire de la licence ne remplit plus une des conditions exigées par l'article 4 et les alinéas c, d, e ci-dessus, soit enfin lorsque le directeur aura accepté un avantage matériel de la part d'un artiste ou d'un intermédiaire pratiquant le placement des artistes.
 
-Lorsque le titulaire de la licence se sera rendu coupable d'inobservations graves et répétées des lois sociales, la suspension ou le retrait de la licence pourra également être prononcé par arrêté du ministre de l'éducation nationale sur proposition de la commission de licence.
+Lorsque le titulaire de la licence se sera rendu coupable d'inobservations graves et répétées des lois sociales, la suspension ou le retrait de la licence pourra également être prononcé par arrêté sur proposition de la commission de licence.
 
 En cas de suspension ou de retrait de la licence, l'entreprise peut être fermée par décision de l'autorité judiciaire compétente, saisie sur la requête du ministre de l'éducation nationale.
 

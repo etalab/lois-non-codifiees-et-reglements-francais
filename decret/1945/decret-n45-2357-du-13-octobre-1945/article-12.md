@@ -1,5 +1,5 @@
 # Article 12
 
-La commission [*chargée d'examiner les demandes de licence de directeur d'entreprise de spectacles*] est présidée par le directeur des spectacles et de la musique ou par son représentant.
+La commission nationale prévue au premier alinéa de l'article 2 est présidée par le ministre chargé de la culture ou son représentant.
 
-Le secrétariat est assuré par un fonctionnaire de la direction des spectacles et de la musique.
+La commission régionale prévue au deuxième alinéa de l'article 2 est présidée par le préfet de région ou son représentant.

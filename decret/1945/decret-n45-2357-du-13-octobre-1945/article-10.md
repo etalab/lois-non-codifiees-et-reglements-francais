@@ -1,6 +1,6 @@
 # Article 10
 
-La commission prévue à l'article 2 [*examen des demandes de licence de directeur d'entreprise de spectacle*] comprend outre trois personnalités du monde des spectacles choisies librement par le ministre de l'éducation nationale [*composition*] :
+La commission nationale et la commission régionale prévues à l'article 2 comprennent outre trois personnalités du monde des spectacles choisies librement par le ministre de l'éducation nationale [*composition*] :
 
 1° Trois représentants des entrepreneurs de spectacles ;
 
@@ -32,6 +32,10 @@ La commission prévue à l'article 2 [*examen des demandes de licence de directe
 
 15° Un représentant du personnel ouvrier et technique.
 
-Ces représentants sont désignés par le ministre, sur des listes de présentation comportant un nombre de noms double de celui des nominations à faire. Les listes sont dressées par les organisations professionnelles les plus représentatives et dans les conditions qui seront définies par un arrêté du ministre de l'éducation nationale.    Les suppléants sont nommés dans les mêmes conditions pour chacun des membres ci-dessus indiqués.
+Les membres de la commission nationale sont désignés par le ministre, sur des listes de présentation comportant un nombre de noms double de celui des nominations à faire. Les listes sont dressées par les organisations professionnelles les plus représentatives et dans les conditions qui seront définies par un arrêté du ministre de l'éducation nationale.
 
-Les membres de la commission sont nommés pour un an [*durée des fonctions*]. Leurs pouvoirs peuvent être renouvelés.
+Les suppléants sont nommés dans les mêmes conditions pour chacun des membres ci-dessus indiqués.
+
+Les membres de la commission régionale sont désignés par arrêté du préfet de région.
+
+Les membres de la commission sont nommés pour trois ans [*durée des fonctions*]. Leurs pouvoirs peuvent être renouvelés.
