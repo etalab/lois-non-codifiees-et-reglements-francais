@@ -1,0 +1,5 @@
+# Article 4
+
+A titre transitoire, les personnes qui exerçaient des activités d'information par démarchage ou de prospection pour des médicaments le 19 janvier 1994 sans toutefois justifier d'une expérience professionnelle d'au moins trois ans dans ce domaine peuvent continuer à exercer ces activités sans être titulaires de l'un des diplômes, titres ou certificats mentionnés aux articles 1er, 2 ou 3 si elles suivent avant le 19 janvier 1998 une formation scientifique dispensée dans le cadre de la formation continue par l'entreprise qui les emploie, notamment dans les matières suivantes : pharmacologie (quatre heures), galénique (deux heures), épidémiologie (deux heures), biologie (sept heures), infectiologie (sept heures), pathologie cardio-vasculaire (sept heures), pneumologie (sept heures), gastro-entéro-hépatologie (sept heures), rhumatologie (sept heures).
+
+L'entreprise doit délivrer aux intéressés un certificat attestant que ces derniers ont suivi la formation prévue à l'alinéa précédent.
