@@ -4,7 +4,7 @@ Les informations nominatives traitées sont les suivantes :
 
 1. Dossier "2004 informatique et son résumé permanent (2011) :
 
-- nom(s), prénom(s), sexe, date et lieu de naissance, adresses (ancienne et nouvelle en cas de déménagement), n° FIP, n° SPI du contribuable et de son conjoint, coordonnées de l'ancien et du nouveau centre des impôts compétent en cas de déménagement ;
+- nom(s), prénom(s), sexe, date et lieu de naissance, adresses (ancienne et nouvelle en cas de déménagement), n° FIP, n° SPI du ou des contribuables, coordonnées de l'ancien et du nouveau centre des impôts compétent en cas de déménagement ;
 
 - caractéristiques du dossier (codes du secteur d'assiette et éventuellement de l'inspection spécialisée gestionnaire, code "dossier complexe, renseignements divers sur l'état du dossier) ;
 
@@ -12,7 +12,7 @@ Les informations nominatives traitées sont les suivantes :
 
 - identification du contribuable et de l'imposition ;
 
-- situation de famille et nombre de parts ;
+- situation fiscale - marié, célibataire, divorcé ou séparé, veuf, partenaire d'un pacte civil de solidarité -, date et motif de changement de situation fiscale et nombre de parts ;
 
 - IR : revenu imposable, droits et pénalités ;
 
@@ -30,7 +30,7 @@ Les informations nominatives traitées sont les suivantes :
 
 - numéro FIP ;
 
-- situation de famille, nombre de personnes à charge ;
+- situation fiscale - marié, célibataire, divorcé ou séparé, veuf, partenaire d'un pacte civil de solidarité -, date et motif de changement de situation fiscale, nombre de personnes à charge ;
 
 - identité des personnes vivant sous le même toit que le contribuable ;
 
