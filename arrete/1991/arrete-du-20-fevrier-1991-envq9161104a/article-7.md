@@ -1,0 +1,3 @@
+# Article 7
+
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère de l'économie, des finances et du budget, le directeur général des douanes et droits indirects au ministère du budget, le directeur général de l'industrie au ministère de l'industrie et de l'aménagement du territoire, le directeur de la sécurité et de la circulation routières au ministère de l'équipement, du logement, des transports et de la mer et le délégué à la qualité de la vie au ministère de l'environnement et de la prévention des risques technologiques et naturels majeurs sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
