@@ -1,0 +1,3 @@
+# Article ANNEXE,  25
+
+Il tiendra une comptabilité conforme au plan comptable national et au guide comptable professionnel des entreprises du spectacle. Il aura recours à un commissaire aux comptes inscrit sur la liste des commissaires aux comptes établie par les cours d'appel. Les rapports du commissaire aux comptes et ses communications au conseil d'administration et les procès-verbaux des assemblées seront adressés au ministère de la culture avant le 15 juillet de chaque année. A sa demande, le directeur du théâtre et des spectacles ou son représentant pourra assister au conseil d'administration en qualité de conseil.
