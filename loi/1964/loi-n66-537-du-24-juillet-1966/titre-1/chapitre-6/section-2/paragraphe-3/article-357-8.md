@@ -1,6 +1,6 @@
 # Article 357-8
 
-Sous réserve d'en justifier dans l'annexe, la société consolidante peut faire usage, dans les conditions prévues à l'article 11 du code de commerce, de règles d'évaluation fixées par décret en Conseil d'Etat, et destinées :
+Sous réserve d'en justifier dans l'annexe, la société consolidante peut faire usage, dans les conditions prévues à l'article 11 du code de commerce, de règles d'évaluation fixées par règlement du Comité de la réglementation comptable, et destinées :
 
 - à tenir compte des variations de prix ou des valeurs de remplacement ;
 

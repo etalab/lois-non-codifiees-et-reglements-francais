@@ -1,6 +1,6 @@
 # Article 32
 
-Les frais de l'exécution forcée sont à la charge du débiteur, sauf s'il est manifeste qu'ils n'étaient pas nécessaires au moment où ils ont été exposés.
+A l'exception des droits proportionnels de recouvrement ou d'encaissement qui peuvent être mis partiellement à la charge des créanciers dans des conditions fixées par décret en Conseil d'Etat, les frais de l'exécution forcée sont à la charge du débiteur, sauf s'il est manifeste qu'ils n'étaient pas nécessaires au moment où ils ont été exposés.
 
 Les contestations sont tranchées par le juge de l'exécution.
 
