@@ -1,3 +1,0 @@
-# Article 6
-
-Le ministre délégué auprès du Premier ministre, chargé de la fonction publique et du Plan, le ministre délégué auprès du Premier ministre, chargé des rapatriés et de la réforme administrative, et le secrétaire d'Etat auprès du Premier ministre, chargé de la jeunesse et des sports, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

@@ -1,6 +1,5 @@
 # Chapitre 2 : Gestion des risques
 
-- [Article 23](article-23.md)
 - [Article 98](article-98.md)
 - [Article 99](article-99.md)
 - [Article 100](article-100.md)

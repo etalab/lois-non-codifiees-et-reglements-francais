@@ -1,0 +1,5 @@
+# Article 73
+
+Dans les îles qui ne sont pas desservies par un service régulier des postes, les notifications, citations, significations et avis prévus par la voie postale dans le code de procédure pénale ou d'autres textes de procédure pénale sont faites par l'autorité administrative qui délivre un avis contre émargement. Il en est de même en l'absence d'office d'huissier, lorsque le code de procédure pénale ou d'autres textes de procédure pénale prévoient l'intervention d'un huissier. L'avis administratif est délivré sans délai. Il contient la désignation du requérant ainsi que celle de l'autorité administrative qui effectue la remise, la date de la remise et les nom, prénoms et adresse du destinataire. Lorsqu'il remplace la citation de l'article 551, il contient, en outre, les indications prévues aux deuxième à quatrième alinéas dudit article.
+
+Dans le cas où il n'est pas établi que l'avis soit parvenu à son destinataire, il est fait application de l'article 560 du code de procédure pénale.

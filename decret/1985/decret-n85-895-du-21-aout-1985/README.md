@@ -3,5 +3,4 @@
 - [CHAPITRE 1ER : Les conseils de l'éducation nationale institués dans les départements.](chapitre-1er)
 - [Article 1](article-1.md)
 - [CHAPITRE II : Les conseils de l'éducation nationale institués dans les académies.](chapitre-ii)
-- [CHAPITRE IV : Dispositions particulières concernant la région de Corse.](chapitre-iv)
 - [CHAPITRE V : Dispositions diverses.](chapitre-v)

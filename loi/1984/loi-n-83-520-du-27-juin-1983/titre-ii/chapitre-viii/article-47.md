@@ -1,0 +1,3 @@
+# Article 47
+
+Pour l'application de l'alinéa premier de l'article 576, si le demandeur en cassation réside hors de l'île où siège la juridiction permanente qui a rendu la décision attaquée, le pourvoi peut être également fait par lettre signée du demandeur en cassation et adressée au greffier de la juridiction qui a rendu la décision attaquée. Dès réception de cette lettre le greffier dressera l'acte de pourvoi et y annexera la lettre du demandeur en cassation. Dans le délai prévu par l'article 568 tel qu'il est adapté par la présente loi, le demandeur en cassation est tenu de confirmer son pourvoi à la mairie ou à la gendarmerie la plus proche de sa résidence.

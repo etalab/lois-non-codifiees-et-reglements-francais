@@ -1,3 +1,0 @@
-# CHAPITRE III : BENEFICIAIRES DES LOIS D'ASSISTANCE.
-
-- [Article 179](article-179.md)

@@ -1,3 +1,0 @@
-# Article 174
-
-Le droit à l'obtention ou à la jouissance des rentes et pensions de vieillesse et d'invalidité ainsi que des pensions de survivants est suspendu par la condamnation du bénéficiaire à une peine afflictive ou infamante pendant la durée de la peine. Cette suspension n'est que partielle si le pensionné a une femme ou des enfants mineurs. En ce cas, la femme ou les enfants mineurs reçoivent pendant la durée de la suspension la pension à laquelle ils auraient eu droit si le pensionné était décédé. Les frais de justice résultant de la condamnation du pensionné ne peuvent être prélevés sur la portion des arrérages ainsi réservés au profit de la femme et des enfants.

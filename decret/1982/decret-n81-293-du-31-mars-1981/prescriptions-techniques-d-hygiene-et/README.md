@@ -1,3 +1,0 @@
-# PRESCRIPTIONS TECHNIQUES D'HYGIENE ET DE SECURITE.
-
-- [Article 4](article-4.md)

@@ -52,7 +52,6 @@
 - [Arrêté du 17 janvier 1977](arrete-du-17-janvier-1977)
 - [Arrêté du 17 octobre 1977](arrete-du-17-octobre-1977)
 - [Arrêté du 18 janvier 1977](arrete-du-18-janvier-1977)
-- [Arrêté du 18 juillet 1977](arrete-du-18-juillet-1977)
 - [Arrêté du 19 janvier 1977](arrete-du-19-janvier-1977)
 - [Arrêté du 19 juillet 1977](arrete-du-19-juillet-1977)
 - [Arrêté du 19 novembre 1976](arrete-du-19-novembre-1976)

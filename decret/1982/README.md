@@ -290,7 +290,6 @@
 - [Décret n°82-687 du 30 juillet 1982](decret-n82-687-du-30-juillet-1982)
 - [Décret n°82-835 du 30 septembre 1982](decret-n82-835-du-30-septembre-1982)
 - [Décret n°81-1235 du 31 décembre 1981](decret-n81-1235-du-31-decembre-1981)
-- [Décret n°81-293 du 31 mars 1981](decret-n81-293-du-31-mars-1981)
 - [Décret n°82-302 du 31 mars 1982](decret-n82-302-du-31-mars-1982)
 - [Décret n°82-305 du 31 mars 1982](decret-n82-305-du-31-mars-1982)
 - [Décret n°82-754 du 31 août 1982](decret-n82-754-du-31-aout-1982)

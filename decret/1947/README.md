@@ -1,7 +1,6 @@
 # 1947
 
 - [Décret n°47-1448 du 2 août 1947](decret-n47-1448-du-2-aout-1947)
-- [Décret du 2 mai 1947](decret-du-2-mai-1947)
 - [Décret n°47-1457 du 4 août 1947](decret-n47-1457-du-4-aout-1947)
 - [Décret n°47-798 du 5 mai 1947](decret-n47-798-du-5-mai-1947)
 - [Décret n°47-1038 du 7 juin 1947](decret-n47-1038-du-7-juin-1947)

@@ -1,4 +1,0 @@
-# CHAPITRE II : PRESTATIONS DE L'ASSURANCE VIEILLESSE *PENSION DE RETRAITE*.
-
-- [Article 149](article-149.md)
-- [Article 154](article-154.md)

@@ -20,7 +20,6 @@
 - [Décret n°66-699 du 14 septembre 1966](decret-n66-699-du-14-septembre-1966)
 - [Décret n°66-700 du 14 septembre 1966](decret-n66-700-du-14-septembre-1966)
 - [Décret n°66-784 du 14 octobre 1966](decret-n66-784-du-14-octobre-1966)
-- [Décret n°66-155 du 15 mars 1966](decret-n66-155-du-15-mars-1966)
 - [Décret n°66-850 du 15 novembre 1966](decret-n66-850-du-15-novembre-1966)
 - [Décret n°65-1116 du 17 décembre 1965](decret-n65-1116-du-17-decembre-1965)
 - [Décret n°66-413 du 17 juin 1966](decret-n66-413-du-17-juin-1966)
