@@ -28,10 +28,12 @@ Bennes à ordures ménagères.
 
 4.4. Véhicules à progression rapide de catégorie A définis par l'arrêté du 30 juin 1971 relatif aux feux spéciaux des véhicules d'intervention urgente.
 
-4.5 Véhicules des catégories A, B, C et  E définis par l'arrêté du 30 septembre 1975 relatif à l'évacuation des véhicules en panne ou accidentés ;
+4.5 Véhicules des catégories A, B, C et E définis par l'arrêté du 30 septembre 1975 relatif à l'évacuation des véhicules en panne ou accidentés ;
 
 4.6 Véhicules équipés en atelier mobile permettant le dépannage des véhicules sur la route ;
 
 4.7 Véhicules de radio-protection des centrales nucléaires ;
 
-4.8 Véhicules procédant au marquage des chaussées.
+4.8 Véhicules procédant au marquage des chaussées ;
+
+4.9. Véhicules et engins d'intervention des services publics de l'eau et de l'assainissement
