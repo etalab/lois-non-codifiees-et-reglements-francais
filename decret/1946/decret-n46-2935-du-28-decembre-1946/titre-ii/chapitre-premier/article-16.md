@@ -1,0 +1,7 @@
+# Article 16
+
+Les procès-verbaux des opérations électorales de chaque section sont rédigés en double.
+
+Dans chaque bureau de vote, les bulletins blancs, ceux ne contenant pas une désignation suffisante ou dans lesquels les votants se sont fait connaître, les bulletins trouvés dans la boîte sans enveloppe ou dans des enveloppes non réglementaires, les bulletins ou enveloppes portant des signes intérieurs ou extérieurs de reconnaissance, les bulletins ou enveloppes portant des mentions injurieuses pour les candidats ou pour des tiers, n'entrent pas en compte dans le résultat du dépouillement, mais doivent être annexés aux procès-verbaux. Les autres bulletins doivent être brûlés en présence des électeurs.
+
+Dans les communes où il y a plusieurs sections de vote, les résultats sont centralisés à la mairie par la commission administrative prévue au troisième alinéa de l'article 5 de la loi du 30 octobre 1946, qui établit un procès-verbal récapitulatif rédigé en double. L'un des exemplaires des procès-verbaux est transmis à la caisse primaire de sécurité sociale. L'autre exemplaire auquel sont annexés les bulletins nuls ainsi que les enveloppes non réglementaires est placé immédiatement sous pli scellé, par les soins de la commission administrative. Ce pli est remis aux agents de la force publique pour être deposé à la commission de recensement compétente à la préfecture du département dans lequel la caisse à son siège.
