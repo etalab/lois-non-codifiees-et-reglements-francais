@@ -1,6 +1,6 @@
 # Article 2
 
-Le taux de la taxe d'aide, dans le cas où le chiffre d'affaires annuel par mètre carré de surface des locaux destinés à la vente au détail est compris entre 10 000 et 80 000 F, est déterminé par la formule suivante :
+Le taux de la taxe d'aide, dans le cas où le chiffre d'affaires annuel par mètre carré de surface des locaux destinés à la vente au détail est compris entre 1 500 euros et 12 000 euros, est déterminé par la formule suivante :
 
 24 F + (0,000 85 x (CA/S - 10 000))
 
