@@ -2,132 +2,185 @@
 
 Les fonctionnaires détachés dans un emploi de chargé de mission sont classés dans cet emploi selon le tableau de correspondance ci-après :
 
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Chef des services fiscaux de classe normale
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 1re catégorie, 3e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Directeur départemental, 3e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 1re catégorie, 3e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Directeur départemental, 2e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 1re catégorie, 2e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Directeur départemental, 1er échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 1re catégorie, 1er échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Directeur divisionnaire, 5e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 2e catégorie, 5e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Directeur divisionnaire, 4e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 2e catégorie, 4e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Directeur divisionnaire, 3e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 2e catégorie, 3e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Directeur divisionnaire, 2e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 2e catégorie, 2e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Directeur divisionnaire, 1er échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 2e catégorie, 1er échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Inspecteur principal de 1ère classe, 3e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 3e catégorie, 7e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Inspecteur principal de 1ère classe, 2e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 3e catégorie, 6e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Inspecteur principal de 1ère classe, 1er échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 3e catégorie, 5e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Inspecteur principal de 2e classe, 5e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 3e catégorie, 4e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Inspecteur principal de 2e classe, 4e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 3e catégorie, 3e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Inspecteur principal de 2e classe, 3e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 3e catégorie, 2e échelon
-
-GRADES ET ECHELONS du fonctionnaire détaché :
-
-- Inspecteur principal de 2e classe, 2e échelon
-
-CATEGORIE ET ECHELON dans l'emploi de détachement :
-
-- 3e catégorie, 1er échelon
+<table>
+<tbody>
+<tr>
+<td width="205">
+<p align="center">GRADES ET ECHELONS<br/>du fonctionnaire détaché</p>
+</td>
+<td width="173">
+<p align="center">CATEGORIE ET ECHELON<br/>dans l'emploi de détachement</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Chef des services fiscaux de classe normale :</p>
+</td>
+<td width="173">
+<p align="center">1e catégorie</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<br/>
+</td>
+<td width="173">
+<p align="center">3e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Directeur départemental :</p>
+</td>
+<td width="173">
+<p align="center">1re catégorie</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>3e échelon</p>
+</td>
+<td width="173">
+<p align="center">3e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>2e échelon</p>
+</td>
+<td width="173">
+<p align="center">2e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>1er échelon</p>
+</td>
+<td width="173">
+<p align="center">1er échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Directeur divisionnaire :</p>
+</td>
+<td width="173">
+<p align="center">2e catégorie</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>5e échelon</p>
+</td>
+<td width="173">
+<p align="center">5e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>4e échelon</p>
+</td>
+<td width="173">
+<p align="center">4e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>3e échelon</p>
+</td>
+<td width="173">
+<p align="center">3e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>2e échelon</p>
+</td>
+<td width="173">
+<p align="center">2e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>1er échelon</p>
+</td>
+<td width="173">
+<p align="center">1er échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Inspecteur principal de 1ère classe :</p>
+</td>
+<td width="173">
+<p align="center">3e catégorie</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>3e échelon</p>
+</td>
+<td width="173">
+<p align="center">7e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>2e échelon</p>
+</td>
+<td width="173">
+<p align="center">6e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>1er échelon</p>
+</td>
+<td width="173">
+<p align="center">5e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>Inspecteur principal de 2e classe :</p>
+</td>
+<td width="173">
+<p align="center">3e catégorie</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>6e échelon</p>
+</td>
+<td width="173">
+<p align="center">4e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>5e échelon</p>
+</td>
+<td width="173">
+<p align="center">3e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>4e échelon</p>
+</td>
+<td width="173">
+<p align="center">2e échelon</p>
+</td>
+</tr>
+<tr>
+<td width="205">
+<p>3e échelon</p>
+</td>
+<td width="173">
+<p align="center">1er échelon</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Dans la limite exigée par le présent décret pour l'avancement à l'échelon supérieur, les chargés de mission conservent, dans l'échelon où ils sont classés, l'ancienneté qu'ils détenaient dans leur corps d'origine.
