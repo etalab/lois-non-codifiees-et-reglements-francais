@@ -24,7 +24,7 @@ Sur ce parcours seront disponibles et utilisées :
 
 - uniquement des douilles amorcées, sans grenaille ;
 
-- des plateaux d'argile de couleur noire pour symboliser des spécimens d'espèces d'oiseaux dont la chasse est autorisée et de couleur rouge pour symboliser des spécimens d'oiseaux protégées dont la destruction est interdite ou d'espèces dont la chasse n'est pas autorisée.
+- des plateaux d'argile de couleur noire pour symboliser des spécimens d'espèces d'oiseaux dont la chasse est autorisée.
 
 2. Sur un parcours de tir à cartouches à grenaille :
 
@@ -40,7 +40,7 @@ Sur ce parcours seront disponibles et utilisés :
 
 - au moins deux fusils à canons basculants ;
 
-- uniquement des cartouches à petite grenaille ;
+- uniquement des cartouches à petite grenaille d'un diamètre inférieur à 2,5 millimètres ;
 
 - des plateaux d'argile de couleur noire pour symboliser des spécimens d'espèces d'oiseaux dont la chasse est autorisée et de couleur rouge pour symboliser des spécimens d'espèces d'oiseaux protégées dont la destruction est interdite ou d'espèces dont la chasse n'est pas autorisée.
 
