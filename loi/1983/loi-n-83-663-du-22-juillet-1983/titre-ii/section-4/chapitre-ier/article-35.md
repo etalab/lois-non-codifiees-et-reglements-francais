@@ -4,8 +4,6 @@ Sont à la charge de l'Etat au titre de l'aide sociale :
 
 1° Les cotisations d'assurance maladie des adultes handicapés visées à l'article 613-15 du code de la sécurité sociale ;
 
-2° Les cotisations d'assurance personnelle instituées par la loi n° 78-2 du 2 janvier 1978 relative à la généralisation de la sécurité sociale dans les conditions prévues par son article 5 ;
-
 3° L'allocation aux familles dont les soutiens indispensables accomplissent le service national, mentionnée à l'article 156 du code de la famille et de l'aide sociale ;
 
 4° L'allocation simple aux personnes âgées mentionnée à l'article 158 du code de la famille et de l'aide sociale ;
