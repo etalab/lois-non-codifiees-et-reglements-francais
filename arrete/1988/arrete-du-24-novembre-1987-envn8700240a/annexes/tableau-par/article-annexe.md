@@ -14,9 +14,7 @@ Tous les cours d'eau des deux catégories, à l'exception de :
 
 3° L'Ariège, en aval de son confluent avec la Lauze.
 
-Département de l'Aude
-
-Tous les cours d'eau de 1re catégorie, à l'exception de l'Aude, en aval de la chute de Nantilla sur le territoire de la commune de Roquefort-de-Sault.
+Département de l'Aude [*abrogé*]
 
 Département de l'Aveyron
 
