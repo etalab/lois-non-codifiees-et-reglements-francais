@@ -6,7 +6,7 @@ Les candidats sont autorisés à subir les épreuves orales quelle que soit la n
 
 Les candidats ayant obtenu pour l'ensemble des épreuves une note moyenne au moins égale à 12 sur 20 sont déclarés admis sous réserve de ne pas avoir de note éliminatoire.
 
-Ils doivent, en outre, être titulaires du brevet national de premiers secours ou, à défaut, d'un certificat d'assiduité à sa préparation.
+Ils doivent, en outre, être titulaires du brevet national de premiers secours ou, à défaut, de l'attestation de formation aux premiers secours.
 
 Les candidats qui, ayant échoué à la session de juin, se présentent à la session suivante de septembre :
 

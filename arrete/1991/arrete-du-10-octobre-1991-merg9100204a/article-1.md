@@ -4,106 +4,287 @@ L'examen pour l'obtention du brevet d'officier mécanicien de 3e classe de la ma
 
 La nature, la durée et les coefficients des épreuves sont donnés dans le tableau ci-après :
 
-NATURE DES ÉPREUVES : Epreuves écrites
-
-Mathématiques et physique appliquées
-
-Durée : 2 heures
-
-Coefficient : 2
-
-Machines:
-
-Durée : 3 heures
-
-Coefficient : 4
-
-Electricité
-
-Durée : 2 heures
-
-Coefficient : 3
-
-Rapport technique
-
-Durée : 2 heures
-
-Coefficient : 3
-
-Dessin technique
-
-Durée : 3 heures
-
-Coefficient : 3
-
-Total
-
-Coefficient : 15
-
-NATURE DES ÉPREUVES : Epreuves pratiques et d'application
-
-Atelier
-
-Durée : 4 ou 8  heures
-
-Coefficient : 3
-
-Machines
-
-Coefficient : 4
-
-Electricité
-
-Coefficient : 4
-
-Lecture de plans
-
-Coefficient : 3
-
-Automatique, informatique.
-
-Coefficient : 2
-
-Total
-
-Coefficient : 16
-
-NATURE DES ÉPREUVES : Stage simulateur machines (1).
-
-Coefficient : 5
-
-NATURE DES ÉPREUVES : Enseignement médical (1).
-
-Coefficient : 1
-
-NATURE DES ÉPREUVES : Epreuves orales
-
-Anglais
-
-Coefficient : 2
-
-Electricité
-
-Coefficient : 3
-
-Machines
-
-Coefficient : 3
-
-Construction, sécurité
-
-Coefficient : 3
-
-Réglementation maritime
-
-Coefficient : 2
-
-Total
-
-Coefficient : 13
-
-Total général
-
-Coefficient : 50
-
-(1) La note prise en compte est celle attribuée à l'issue du stage.
+<table>
+<tbody>
+<tr>
+<td width="378">
+<p align="center">NATURE DES ÉPREUVES</p>
+</td>
+<td width="151">
+<p align="center">Durée</p>
+</td>
+<td width="151">
+<p align="center">Coefficient</p>
+</td>
+</tr>
+<tr>
+<td width="378">
+<p align="center">Epreuves écrites</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Mathématiques et physique appliquées</p>
+</td>
+<td width="151">
+<p align="center">2 heures</p>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Machines</p>
+</td>
+<td width="151">
+<p align="center">3 heures</p>
+</td>
+<td width="151">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Electricité</p>
+</td>
+<td width="151">
+<p align="center">2 heures</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Rapport technique</p>
+</td>
+<td width="151">
+<p align="center">2 heures</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Dessin technique</p>
+</td>
+<td width="151">
+<p align="center">3 heures</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Total</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td width="378">
+<p align="center">Epreuves pratiques et d'application</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Atelier</p>
+</td>
+<td width="151">
+<p align="center">4 ou 8 heures</p>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Machines</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Electricité</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">4</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Lecture de plans </p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Automatique, informatique</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Total</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">17</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Simulateur machines (1)</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Stage</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td width="378">
+<p align="center">Epreuves orales</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Anglais</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Electricité</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Machines</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Construction, sécurité</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">3</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Réglementation maritime</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Total</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">13</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Total général</p>
+</td>
+<td width="151">
+<br/>
+</td>
+<td width="151">
+<p align="center">50</p>
+</td>
+</tr>
+<tr>
+<td colspan="3" valign="top" width="378">
+<p>(1) La note prise en compte est celle attribuée à l'issue du stage.</p>
+</td>
+</tr>
+</tbody>
+</table>
