@@ -1,0 +1,3 @@
+# Article 7
+
+Au sens du présent arrêté, une installation nouvelle est une installation dont la mise en service interviendra plus de dix-huit mois après la publication du présent arrêté. Au sens du présent arrêté, une installation existante est une installation qui aura été exploitée régulièrement au plus tard dix-huit mois moins un jour après la publication du présent arrêté. Les dispositions applicables aux installations nouvelles s'appliquent aussi aux modifications et extensions d'installations existantes réalisées postérieurement à la même date et qui entraînent une augmentation des rejets d'au moins un des polluants visés par le présent arrêté supérieure à 10 %.

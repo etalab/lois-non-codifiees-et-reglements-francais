@@ -1,0 +1,3 @@
+# Article 11
+
+Les installations existantes de puissance totale supérieure ou égale à 200 MW peuvent bénéficier d'un report de l'application des dispositions de l'article 10 en vue de la construction de dispositifs d'épuration des fumées ou de l'adaptation de l'installation à l'utilisation d'un combustible à faible teneur en soufre. Cette dérogation est accordée par arrêté préfectoral. L'arrêté préfectoral fixe les délais de mise en conformité, qui ne peuvent pas excéder trois ans à compter de la date de publication du présent arrêté. Il précise également les normes de rejets qui s'appliquent durant cette période. Ces dernières ne peuvent pas être supérieures aux niveaux fixés par les dispositions transitoires prévues au paragraphe 2 de l'article 10.

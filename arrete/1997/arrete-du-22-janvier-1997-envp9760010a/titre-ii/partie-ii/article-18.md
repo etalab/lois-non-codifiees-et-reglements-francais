@@ -1,0 +1,3 @@
+# Article 18
+
+L'exploitant d'une installation d'une puissance supérieure à 2 MW fait effectuer au moins tous les deux ans soit par un organisme agréé par le ministère de l'environnement, soit lors des contrôles effectués dans le cadre de l'arrêté du 5 juillet 1977, une mesure du débit rejeté et des teneurs en oxygène, oxydes de soufre, et poussières dans les gaz rejetés à l'atmosphère. Pour une installation nouvelle, le premier contrôle devra avoir lieu au plus tard six mois après la mise en service de l'installation. Il n'est pas demandé d'effectuer de mesures sur les oxydes de soufre et les poussières lorsque les combustibles utilisés sont exclusivement du gaz naturel, des gaz de pétrole liquéfiés ou du fioul domestique.

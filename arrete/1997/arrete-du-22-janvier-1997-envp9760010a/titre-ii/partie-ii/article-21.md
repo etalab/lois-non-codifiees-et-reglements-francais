@@ -1,0 +1,3 @@
+# Article 21
+
+La tenue d'un livret de chaufferie est obligatoire pour les installations de combustion d'une puissance supérieure ou égale à 350 kW. Ce document doit être conforme à la définition donnée dans le titre III de l'arrêté du 20 juin 1975 relatif à l'équipement et à l'exploitation des installations thermiques. Les factures des combustibles utilisés doivent indiquer la nature exacte du combustible vendu, en particulier sa teneur en soufre, la date de livraison, la quantité livrée et le lieu de livraison. Elles doivent être conservées au moins trois ans. Elles doivent être annexées au livret de chaufferie et tenues à la disposition de l'administration.

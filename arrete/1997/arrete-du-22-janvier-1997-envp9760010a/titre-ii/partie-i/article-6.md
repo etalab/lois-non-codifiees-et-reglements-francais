@@ -1,0 +1,3 @@
+# Article 6
+
+Si une installation utilise alternativement plusieurs combustibles de nature différente, les valeurs limites d'émission qui lui sont applicables sont évaluées en se référant à chaque combustible utilisé. Si une installation utilise en même temps plusieurs combustibles de nature différente, la valeur limite de rejet pour chaque polluant ne devra pas dépasser la valeur limite déterminée à partir de celles des différents combustibles pondérées en fonction de la puissance thermique fournie par chacun des combustibles. Toutefois, si l'un des combustibles est un combustible liquide, la valeur limite d'émission pour les oxydes de soufre est celle fixée pour les combustibles liquides.

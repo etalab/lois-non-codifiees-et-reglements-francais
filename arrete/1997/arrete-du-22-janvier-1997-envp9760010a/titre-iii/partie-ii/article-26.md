@@ -1,0 +1,3 @@
+# Article 26
+
+Pour l'ensemble des véhicules légers immatriculés dans un des départements de la région d'Ile-de-France autres que les voitures particulières, il est institué une visite technique dite " complémentaire " réduite aux points 0 et 9.1 de l'annexe I de l'arrêté du 18 juin 1991 susvisé. Elle doit être effectuée dans un délai d'un an après chaque visite ou contre-visite technique favorable réalisée à partir du 1er janvier 1998. La validité de cette visite complémentaire est d'un an si elle est favorable et de deux mois si elle est défavorable. Au terme de ce délai, une visite technique ou, à défaut, une visite complémentaire doit être réalisée.

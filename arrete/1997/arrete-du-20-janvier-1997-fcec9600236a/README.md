@@ -1,4 +1,4 @@
-# Arrêté du 4 janvier 1994 dérogeant à l'interdiction de vacciner contre la maladie d'Aujeszky dans les centres de collecte de semence porcine
+# Arrêté du 20 janvier 1997 relatif à l'agrément de la viande bénéficiant de l'appellation d'origine contrôlée "Taureau de Camargue"
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,4 +7,5 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
-- [Annexes](annexes)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
