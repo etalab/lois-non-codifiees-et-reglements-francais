@@ -8,6 +8,8 @@ Ne peuvent siéger au conseil de discipline pour une affaire déterminée [*inco
 
 3° L'auteur de l'enquête dont les conclusions ont motivé la saisine du conseil de discipline ;
 
-4° Le praticien qui fait l'objet de la procédure ;    5° Le médecin inspecteur de la santé de la région où exerce le praticien concerné ;
+4° Le praticien qui fait l'objet de la procédure ;
 
-6° Toute personne exerçant ses fonctions ou investie d'un mandat dans l'établissement où exerce le praticien qui fait l'objet de la procédure.
+5° Le médecin inspecteur de la santé ou le pharmacien inspecteur de la santé de la région où exerce le praticien concerné ;
+
+6° Toute personne exerçant ses fonction ou investie d'un mandat dans l'établissement où exerce le praticien qui fait l'objet de la procédure.
