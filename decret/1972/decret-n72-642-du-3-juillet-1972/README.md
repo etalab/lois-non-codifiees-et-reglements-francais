@@ -1,0 +1,3 @@
+# Décret n°72-642 du 3 juillet 1972 PORTANT APPLICATION DE L'ARTICLE L. 602 DU CODE DE SANTE PUBLIQUE
+
+- [Article 4](article-4.md)

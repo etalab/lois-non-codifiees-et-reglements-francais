@@ -6,6 +6,8 @@
 - [Décret n°72-378 du 2 mai 1972](decret-n72-378-du-2-mai-1972)
 - [Décret n°71-1129 du 3 décembre 1971](decret-n71-1129-du-3-decembre-1971)
 - [Décret n°72-561 du 3 juillet 1972](decret-n72-561-du-3-juillet-1972)
+- [Décret n°72-641 du 3 juillet 1972](decret-n72-641-du-3-juillet-1972)
+- [Décret n°72-642 du 3 juillet 1972](decret-n72-642-du-3-juillet-1972)
 - [Décret n°72-354 du 3 mai 1972](decret-n72-354-du-3-mai-1972)
 - [Décret n°72-580 du 4 juillet 1972](decret-n72-580-du-4-juillet-1972)
 - [Décret n°72-581 du 4 juillet 1972](decret-n72-581-du-4-juillet-1972)
