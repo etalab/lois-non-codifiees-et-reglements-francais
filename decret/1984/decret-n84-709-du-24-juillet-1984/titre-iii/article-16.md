@@ -1,5 +1,3 @@
 # Article 16
 
-Les commissaires du Gouvernement sont nommés par arrêté du ministre chargé de l'économie et des finances.
-
-Ils lui rendent compte de l'activité de l'organe central et des établissements qui lui sont affiliés, ou de l'établissement de crédit auprès duquel ils ont été nommés. Ils adressent au ministre un rapport annuel.
+Les commissaires du Gouvernement, dont le nombre ne peut être supérieur à dix, sont nommés par arrêté du ministre chargé de l'économie, sur proposition du Trésor. Les commissaires du Gouvernement désignés parmi les contrôleurs d'Etat sont nommés après avis du chef du service du contrôle d'Etat.

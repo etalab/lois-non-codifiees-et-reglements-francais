@@ -1,5 +1,3 @@
 # Article 15
 
-Un commissaire du Gouvernement et éventuellement un commissaire du Gouvernement adjoint représentent l'Etat auprès des organes centraux, des institutions financières spécialisées et, le cas échéant, des autres établissements de crédit auxquels l'Etat a confié une mission d'intérêt public.
-
-Un commissaire du Gouvernement et éventuellement un commissaire du Gouvernement adjoint assurent également cette représentation auprès des établissements de crédit qui en sont dotés en vertu de textes législatifs ou réglementaires spécifiques.
+Les commissaires du Gouvernement représentent l'Etat auprès des organismes dans lesquels ils sont nommés en application des dispositions de l'article L. 511-32 du code monétaire et financier. Ils assurent également cette représentation auprès des organismes dotés d'un commissaire du Gouvernement en vertu des textes législatifs ou réglementaires spécifiques visés au présent décret.
