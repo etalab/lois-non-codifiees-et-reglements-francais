@@ -1,10 +1,12 @@
 # Article 2
 
-Art. 2. - L’échelonnement indiciaire applicable aux maîtres de conférences de l’enseignement supérieur agricole est fixé, en indices bruts, ainsi qu’il suit :
+L'échelonnement indiciaire applicable aux maîtres de conférences de l'enseignement supérieur agricole est fixé, en indices bruts, ainsi qu'il suit et prendra effet à la date d'entrée en vigueur des dispositions statutaires :
 
-Hors classe :
+Hors classe :
 
-5e échelon (1) 1015
+6e échelon Groupe A
+
+5e échelon 1015
 
 4e échelon 958
 
@@ -12,26 +14,24 @@ Hors classe :
 
 2e échelon 852
 
-1er échelon 801
+1er échelon 801
 
-1re classe :
+Classe normale :
 
-6e échelon 1015
+9e échelon 1015
 
-5e échelon 966
+8e échelon 966
 
-4e échelon 920
+7e échelon 920
 
-3e échelon 882
+6e échelon 882
 
-2e échelon 821
+5e échelon 821
 
-1er échelon 755
-
-2e classe :
+4e échelon 755
 
 3e échelon 677
 
 2e échelon 608
 
-1er échelon 530
+1er échelon 530
