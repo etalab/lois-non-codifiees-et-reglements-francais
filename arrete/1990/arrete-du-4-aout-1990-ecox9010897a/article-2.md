@@ -4,10 +4,8 @@ Sont dispensées de l'autorisation préalable prévue à l'article 1er du décre
 
 - les opérations de change manuel ;
 
-- les versements effectués par tout moyen au crédit des comptes ouverts dans les établissements de crédit ou autres, au nom des personnes visées à l'article 1er du décret du 2 août 1990 susvisé à l'exclusion des versements relatifs aux opérations d'exportation à destination du Koweït ou de l'Irak ou d'importation en provenance de ces pays ou à l'octroi de prêt au bénéfice d'une personne résidant dans un de ces pays ;
+- les versements effectués par tout moyen au crédit des comptes ouverts dans les établissements de crédit ou autres, au nom des personnes visées à l'article 1er du décret du 2 août 1990 susvisé à l'exclusion des versements relatifs aux opérations d'exportation à destination de l'Irak ou d'importation en provenance de ces pays ou à l'octroi de prêt au bénéfice d'une personne résidant dans un de ces pays ;
 
 - les opérations de débit de toute nature effectués, dans la limite d'un montant cumulé d'un million de francs par compte, sur les comptes visés à l'alinéa précédent.
 
-- les ouvertures de comptes, au nom de personnes visées à l'article 1er du décret n° 90-681 du 2 août 1990, auprès d'établissements de crédit ou autres situés en France. Les dispositions de l'alinéa précédent ne s'appliquent pas aux comptes ouverts en vertu du présent alinéa ;
-
-- les opérations réalisées par des personnes physiques de nationalité koweïtienne résidant au moment de l'opération hors d'Irak et du Koweït, ou à leur bénéfice, dès lors que ces opérations ne seraient soumises aux dispositions du décret n° 90-681 du 2 août 1990 que du seul fait de la nationalité de ces personnes.
+- les ouvertures de comptes, au nom de personnes visées à l'article 1er du décret n° 90-681 du 2 août 1990, auprès d'établissements de crédit ou autres situés en France. Les dispositions de l'alinéa précédent ne s'appliquent pas aux comptes ouverts en vertu du présent alinéa.

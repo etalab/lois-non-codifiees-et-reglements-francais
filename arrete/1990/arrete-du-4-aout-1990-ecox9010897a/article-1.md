@@ -8,7 +8,7 @@ Les avoirs de toute nature, y compris notamment les dépôts dans les établisse
 
 2. Investissements d'origine irakienne ou koweïtienne.
 
-Les investissements réalisés par des personnes physiques de nationalité ou de résidence koweïtienne ou irakienne, et les investissements des personnes morales ayant leur siège au Koweït ou en Irak ou dont des personnes de nationalité ou de résidence koweïtienne ou irakienne ou une collectivité publique située au Koweït ou en Irak ou un de ces Etats lui-même contrôlent directement ou indirectement 50 p. 100 ou plus du capital ou des droits de vote, ou exercent sur elles par tout autre moyen une influence déterminante.
+Les investissements réalisés par des personnes physiques de nationalité ou de résidence irakienne, et les investissements des personnes morales ayant leur siège en Irak ou dont des personnes de nationalité ou de résidence irakienne ou une collectivité publique située en Irak ou un de ces Etats lui-même contrôlent directement ou indirectement 50 p. 100 ou plus du capital ou des droits de vote, ou exercent sur elles par tout autre moyen une influence déterminante.
 
 3. Etablissements de crédit ou autres.
 
