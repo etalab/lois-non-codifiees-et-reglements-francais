@@ -10,4 +10,4 @@ a) Le volume des stocks stratégiques que chaque opérateur est tenu de constitu
 
 des quantités ci-dessus mentionnées.
 
-b) Le pétrole brut ou ses dérivés extraits du sols de la métropole viennent en déduction de l'obligation de chaque opérateur, dans la limite de 15 p. 100 de cette obligation.
+b) Le pétrole brut ou ses dérivés extraits du sol du territoire de la métropole et des départements d'outre-mer viennent en déduction de l'obligation de chaque opérateur, dans la limite de 25 % de cette obligation.
