@@ -1,0 +1,5 @@
+# Article 4
+
+I. - A l'appui des candidatures et au-delà des renseignements qui peuvent être exigés en vertu de l'article 45 du code des marchés publics, la personne responsable du marché peut demander, afin d'apprécier la capacité des candidats à exécuter le marché au vu des exigences particulières que celui-ci requiert, des renseignements complémentaires concernant leur habilitation préalable en application de l'article 7 du décret du 17 juillet 1998 susvisé, la composition de leur actionnariat, la valeur ajoutée créée sur le territoire national, l'implantation de leur patrimoine technologique, leurs capacités industrielles sur le site de réalisation de la prestation ou les compétences des personnes devant intervenir pour la réalisation du marché. Ces exigences devront être indiquées dès le début de la procédure et, le cas échéant, dans l'avis d'appel public à la concurrence.
+
+II. - Lorsqu'elle estime que le nombre de candidats ayant répondu aux mesures de publicité n'offre pas une concurrence suffisante, la personne responsable du marché peut proposer à une ou plusieurs entreprises de faire acte de candidature.

@@ -20,6 +20,6 @@ Montants et codes associés correspondants aux rubriques suivantes provenant de 
 
 - charges et imputations diverses ;
 
-- autres imputations, reprises de réduction d'impôt, conventions internationales, excepté "reprises de réductions ou de crédits d'impôt", "crédit d'impôt PER", "plus-values en report non expirées" ;
+- autres imputations, reprises de réduction d'impôt, conventions internationales, excepté "reprises de réductions ou de crédits d'impôt", "plus-values en report non expirées" ;
 
 - revenus exceptionnels ou différés à imposer selon le système du quotient.

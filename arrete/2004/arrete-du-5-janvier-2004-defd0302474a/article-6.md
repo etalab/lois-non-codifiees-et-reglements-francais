@@ -1,0 +1,3 @@
+# Article 6
+
+Dans le cadre des inspections que lui prescrit le chef d'état-major des armées, l'inspecteur des forces en opérations et de la défense du territoire est habilité à correspondre directement avec le délégué général pour l'armement, le secrétaire général pour l'administration, les chefs d'état-major des trois armées, le directeur général de la gendarmerie nationale, le directeur de la protection et de la sécurité de la défense, les officiers généraux de zone de défense, les commandants de région terre, de région et arrondissement maritimes, de région aérienne et de région de gendarmerie et les commandants supérieurs dans les départements et collectivités d'outre-mer et en Nouvelle-Calédonie.

@@ -20,7 +20,7 @@ I. - Les informations restituées par le traitement TDF sont :
 
 - le n° SIRET de l'organisme demandeur.
 
-2. En ce qui concerne les allocataires visés ci-dessus au 2 de l'article 2 ainsi que leurs conjoints ou concubins :
+2. En ce qui concerne les allocataires visés ci-dessus au 2 de l'article 2 ainsi que leurs conjoints, concubins ou partenaires d'un pacte civil de solidarité :
 
 - les informations portées dans les rubriques des déclarations d'ensemble des revenus de l'année N-1 énumérées dans l'annexe au présent arrêté ;
 
@@ -40,7 +40,7 @@ II. - 1. En ce qui concerne les pensionnés visés ci-dessus au paragraphe 1 de 
 
 Les fichiers de restitution des données fiscales ne sont conservés dans les centres informatiques régionaux que le temps nécessaire à la réalisation des traitements.
 
-2. En ce qui concerne les allocataires visés ci-dessus au 2 de l'article 2, ainsi que leurs conjoints ou concubins, seules sont prises en compte les divergences entre la déclaration de l'allocataire à la caisse locale mutualité sociale agricole et celle faite aux services fiscaux susceptibles de remettre en cause le montant des droits depuis le 1er juillet.
+2. En ce qui concerne les allocataires visés ci-dessus au 2 de l'article 2, ainsi que leurs conjoints, concubins ou partenaires d'un pacte civil de solidarité seules sont prises en compte les divergences entre la déclaration de l'allocataire à la caisse locale mutualité sociale agricole et celle faite aux services fiscaux susceptibles de remettre en cause le montant des droits depuis le 1er juillet.
 
 Les informations fiscales non prises en compte ne sont conservées dans les centres informatiques régionaux que le temps nécessaire à la réalisation des traitements.
 
