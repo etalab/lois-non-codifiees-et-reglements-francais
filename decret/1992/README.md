@@ -24,6 +24,7 @@
 - [Décret n°91-891 du 9 septembre 1991 (MENF9101455D)](decret-n91-891-du-9-septembre-1991-menf9101455d)
 - [Décret n°93-309 du 9 mars 1993 (BUDF9200038D)](decret-n93-309-du-9-mars-1993-budf9200038d)
 - [Décret n°92-224 du 10 mars 1992 (JUSB9210067D)](decret-n92-224-du-10-mars-1992-jusb9210067d)
+- [Décret n°92-24 du 10 janvier 1992 (SPSS9102812D)](decret-n92-24-du-10-janvier-1992-spss9102812d)
 - [Décret n°93-324 du 11 mars 1993 (INTA9300095D)](decret-n93-324-du-11-mars-1993-inta9300095d)
 - [Décret n°93-364 du 12 mars 1993 (AGRA9300144D)](decret-n93-364-du-12-mars-1993-agra9300144d)
 - [Décret n°92-248 du 13 mars 1992 (MJSK9270014D)](decret-n92-248-du-13-mars-1992-mjsk9270014d)
