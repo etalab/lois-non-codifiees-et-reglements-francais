@@ -1,7 +1,7 @@
 # Article 25
 
-Les entreprises qui exploitent en France des gisements d'hydrocarbures liquides ou gazeux doivent acquitter au titre de 1985 un prélèvement exceptionnel égal à 12 p. 100 du bénéfice net imposable réalisé au cours de l'année 1983 et provenant de la vente, en l'état ou après transformation, des produits marchands extraits de ces gisements.
+Les entreprises qui exploitent en France des gisements d'hydrocarbures liquides ou gazeux doivent acquitter au titre de 1986 un prélèvement exceptionnel égal à 12 p. 100 du bénéfice net imposable réalisé au cours de l'année 1984 et provenant de la vente, en l'état ou après transformation, des produits marchands extraits de ces gisements.
 
-Le prélèvement n'est pas dû par les entreprises dont le chiffre d'affaires de l'année 1984 n'excède pas 100 millions de francs.
+Le prélèvement n'est pas dû par les entreprises dont le chiffre d'affaires de l'année 1986 n'excède pas 100 millions de francs.
 
-Le prélèvement n'est pas déductible pour la détermination du bénéfice imposable de l'année 1985. Il est établi, déclaré, liquidé et recouvré selon les mêmes modalités et sous les mêmes garanties et sanctions que la retenue à la source sur les revenus de capitaux mobiliers. Il est payé pour moitié le 15 mai 1985 et pour moitié le 15 octobre 1985.
+Le prélèvement n'est pas déductible pour la détermination du bénéfice imposable de l'année 1985. Il est établi, déclaré, liquidé et recouvré selon les mêmes modalités et sous les mêmes garanties et sanctions que la retenue à la source sur les revenus de capitaux mobiliers. Il est payé pour moitié le 15 mai 1986 et pour moitié le 15 octobre 1986.
