@@ -531,7 +531,6 @@
 - [Arrêté du 18 juin 1990 (MENF9000808A)](arrete-du-18-juin-1990-menf9000808a)
 - [Arrêté du 18 juin 1990 (PTTP9000485A)](arrete-du-18-juin-1990-pttp9000485a)
 - [Arrêté du 18 juin 1990 (TEFT9003555A)](arrete-du-18-juin-1990-teft9003555a)
-- [Arrêté du 18 septembre 1990 (ECOM9000269A)](arrete-du-18-septembre-1990-ecom9000269a)
 - [Arrêté du 18 septembre 1990 (ECOT9010083A)](arrete-du-18-septembre-1990-ecot9010083a)
 - [Arrêté du 18 septembre 1990 (PRME9061267A)](arrete-du-18-septembre-1990-prme9061267a)
 - [Arrêté du 18 mai 1990 (DEFD9001536A)](arrete-du-18-mai-1990-defd9001536a)

@@ -1,3 +1,0 @@
-# OBLIGATIONS DES REDEVABLES - SANCTIONS.
-
-- [Article 14](article-14.md)

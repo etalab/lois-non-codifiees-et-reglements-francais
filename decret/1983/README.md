@@ -125,7 +125,6 @@
 - [Décret n°83-826 du 16 septembre 1983](decret-n83-826-du-16-septembre-1983)
 - [Décret n°83-830 du 16 septembre 1983](decret-n83-830-du-16-septembre-1983)
 - [Décret n°83-389 du 16 mai 1983](decret-n83-389-du-16-mai-1983)
-- [Décret n°82-971 du 17 novembre 1982](decret-n82-971-du-17-novembre-1982)
 - [Décret n°82-987 du 17 novembre 1982](decret-n82-987-du-17-novembre-1982)
 - [Décret n°83-114 du 17 février 1983](decret-n83-114-du-17-fevrier-1983)
 - [Décret n°83-122 du 17 février 1983](decret-n83-122-du-17-fevrier-1983)

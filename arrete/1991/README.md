@@ -407,7 +407,6 @@
 - [Arrêté du 13 novembre 1991 (INTD9100464A)](arrete-du-13-novembre-1991-intd9100464a)
 - [Arrêté du 13 septembre 1991 (BUDF9100026A)](arrete-du-13-septembre-1991-budf9100026a)
 - [Arrêté du 13 septembre 1991 (EQUA9101466A)](arrete-du-13-septembre-1991-equa9101466a)
-- [Arrêté du 13 mai 1991 (SPSS9101173A)](arrete-du-13-mai-1991-spss9101173a)
 - [Arrêté du 14 août 1991 (AGRS9101583A)](arrete-du-14-aout-1991-agrs9101583a)
 - [Arrêté du 14 août 1991 (EQUA9101267A)](arrete-du-14-aout-1991-equa9101267a)
 - [Arrêté du 14 août 1991 (INDB9100503A)](arrete-du-14-aout-1991-indb9100503a)
