@@ -14,6 +14,10 @@ Par dérogation aux dispositions des deux alinéas qui précèdent, l'âge minim
 
 En outre, les candidats doivent également justifier avoir occupé, préalablement à leur demande d'inscription, dans au moins deux organismes différents, un emploi affecté d'un coefficient au moins égal au coefficient de carrière afférent à un emploi du niveau 5 A de l'échelle des employés et cadres visée à l'article 6 ci-dessus.
 
+Le nombre de candidats inscrits en 2e section au titre de la classe C 1 ne peut excéder le cinquième du nombre total des candidats inscrits en 1re section.
+
+En vue de permettre des inscriptions en deuxième section au titre de la classe C-2 exclusivement, cette proportion pourra être portée au tiers du nombre total des candidats inscrits en première section.
+
 IV - Sans préjudice des dispositions de l'article 13, deuxième alinéa, peuvent être inscrits en 3e section, sur proposition du ministre chargé de la sécurité sociale et dans la proportion du cinquantième fixée au cinquième alinéa de l'article R. 123-45 précité du code de la sécurité sociale, les fonctionnaires de l'Etat justifiant d'une ancienneté de huit ans au moins et ayant occupé pendant trois ans au moins des fonctions intéressant la sécurité sociale.
 
 V - Sans préjudice des dispositions de l'article 13, deuxième alinéa, peuvent être inscrits en troisième section, sur proposition du ministre chargé de la sécurité sociale et dans la limite du cinquantième fixée au cinquième alinéa de l'article 25 précité du décret du 12 mai 1960, les fonctionnaires de l'Etat appartenant à la catégorie A, âgés de quarante ans au moins et ayant occupé pendant trois ans au moins des fonctions intéressant la sécurité sociale.

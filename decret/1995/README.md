@@ -772,6 +772,8 @@
 - [Décret n°95-488 du 28 avril 1995 (AGRR9402215D)](decret-n95-488-du-28-avril-1995-agrr9402215d)
 - [Décret n°95-828 du 28 juin 1995 (ECOF9520856D)](decret-n95-828-du-28-juin-1995-ecof9520856d)
 - [Décret n°95-829 du 28 juin 1995 (ECOF9520857D)](decret-n95-829-du-28-juin-1995-ecof9520857d)
+- [Décret n°95-878 du 28 juillet 1995 (MAEJ9530072D)](decret-n95-878-du-28-juillet-1995-maej9530072d)
+- [Décret n°95-879 du 28 juillet 1995 (MAEJ9530073D)](decret-n95-879-du-28-juillet-1995-maej9530073d)
 - [Décret n°96-593 du 28 juin 1996 (ECOP9600251D)](decret-n96-593-du-28-juin-1996-ecop9600251d)
 - [Décret n°97-995 du 28 octobre 1997 (EQUP9700271D)](decret-n97-995-du-28-octobre-1997-equp9700271d)
 - [Décret n°94-1234 du 29 décembre 1994 (INTB9400470D)](decret-n94-1234-du-29-decembre-1994-intb9400470d)

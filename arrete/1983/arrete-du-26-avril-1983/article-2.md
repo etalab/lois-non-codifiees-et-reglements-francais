@@ -4,31 +4,31 @@ Il est institué auprès du ministre chargé de la sécurité sociale une commis
 
 La composition de la commission est la suivante :
 
-Un membre du Conseil d'Etat, ou un magistrat de la Cour des comptes en activité ou honoraire, président ;
+- un membre du Conseil d'Etat ou un magistrat de la Cour des comptes en activité ou honoraire, président ;
 
-Le directeur de la sécurité sociale ou son représentant ;
+- le directeur de la sécurité sociale ;
 
-Trois membres de l'inspection générale des affaires sociales ;
+- le sous-directeur du financement et de la gestion de la sécurité sociale à la direction de la sécurité sociale ;
 
-Le directeur du Centre national d'études supérieures de sécurité sociale ;
+- trois membres de l'inspection générale des affaires sociales ;
 
-Trois directeurs régionaux des affaires sanitaires et sociales ;
+- trois directeurs régionaux des affaires sanitaires et sociales ;
 
-Deux personnalités qualifiées désignées par le ministre chargé de la sécurité sociale ;
+- le directeur du Centre national d'études supérieures de sécurité sociale ;
 
-Le directeur de la caisse nationale d'assurance maladie des travailleurs salariés ;
+- le directeur de la Caisse nationale de l'assurance maladie des travailleurs salariés ;
 
-Le directeur de la caisse nationale d'assurance vieillesse des travailleurs salariés ;
+- le directeur de la Caisse nationale d'assurance vieillesse des travailleurs salariés ;
 
-Le directeur de la caisse nationale des allocations familiales ;
+- le directeur de la Caisse nationale des allocations familiales ;
 
-Le directeur de l'agence centrale des organismes de sécurité sociale ;
+- le directeur de l'Agence centrale des organismes de sécurité sociale ;
 
-Cinq représentants du personnel de direction des organismes de sécurité sociale du régime général désignés par les organisations syndicales nationales les plus représentatives ;
+- le directeur de l'Union des caisses nationales de sécurité sociale ;
 
-Un représentant des anciens élèves du Centre national d'études supérieures de sécurité sociale ;
+- cinq représentants du personnel de direction des organismes de sécurité sociale du régime général exerçant une fonction effective de direction au sein desdits organismes, désignés par les organisations syndicales nationales les plus représentatives ;
 
-Un représentant des anciens élèves diplômés du cours supérieur de l'Ecole nationale de sécurité sociale.
+- un représentant des anciens élèves du Centre national d'études supérieures de sécurité sociale exerçant une fonction effective de direction au sein d'un organisme de sécurité sociale du régime général, désigné par l'Association des anciens élèves et élèves du Centre national d'études supérieures de sécurité sociale.
 
 En cas d'empêchement d'un membre titulaire représentant l'administration et de son suppléant, celui-ci peut se faire représenter par un fonctionnaire appartenant à la catégorie A.
 

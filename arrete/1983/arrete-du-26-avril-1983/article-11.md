@@ -4,7 +4,7 @@ Les autres emplois donnant vocation à être inscrit sur la liste d'aptitude son
 
 Groupe 1
 
-Agents occupant un emploi affecté d'un coefficient au moins égal au coefficient de carrière afférent à un emploi du niveau 6 de l'échelle des employés et cadres figurant dans la classification des emplois des organismes de sécurité sociale et de leurs établissements.
+Agents occupant un emploi affecté d'un coefficient au moins égal au coefficient de carrière afférent à un emploi du niveau 7 de l'échelle des employés et cadres figurant dans la classification des emplois des organismes de sécurité sociale et de leurs établissements.
 
 Groupe 2
 

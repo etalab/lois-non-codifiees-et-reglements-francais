@@ -1,0 +1,3 @@
+# Article 4
+
+Pour l'établissement de la liste d'aptitude de 1996, par dérogation aux dispositions du premier alinéa de l'article 9 de l'arrêté du 26 avril 1983 susvisé, la situation des agents de direction en fonctions dans des organismes ayant été reclassés, au 1er juillet 1995, conformément aux dispositions conventionnelles en vigueur relatives au classement des organismes du régime général de sécurité sociale, dans une catégorie supérieure à celle dont ils relevaient précédemment est examinée, pour l'application des dispositions du premier alinéa de l'article 10 dudit arrêté, à la date limite d'envoi des candidatures fixée au premier alinéa de l'article 9 précité.
