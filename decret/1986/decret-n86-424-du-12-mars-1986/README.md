@@ -4,4 +4,5 @@
 - [Section 1 : Modalités de répartition de la première part](section-1)
 - [Section 2 : Modalités de répartition de la seconde part](section-2)
 - [Section 3 : Dispositions diverses](section-3)
+- [Section III : Modalités de répartition de la troisième part.](section-iii)
 - [Section IV : Dispositions diverses](section-iv)

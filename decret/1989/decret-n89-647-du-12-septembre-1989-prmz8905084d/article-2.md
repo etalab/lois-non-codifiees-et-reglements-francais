@@ -26,6 +26,8 @@ Des membres permanents :
 
 - le directeur des Journaux officiels ;
 
+- le directeur des affaires politiques, administratives et financières au ministère des départements et territoires d'outre-mer-;
+
 Des membres siégeant en fonction de l'objet du code examiné :
 
 - un membre de la ou des sections compétentes du Conseil d'Etat ;
