@@ -14,8 +14,6 @@ La première séance de la commission a lieu sur convocation du préfet de la r�
 
 Les séances suivantes ont lieu sur convocation du président, à la demande, notamment, du directeur du port autonome. Le préfet de la région parisienne et le directeur du port autonome de Paris ou leurs représentants assistent de droit aux séances de la commission.
 
-Un membre empêché d'assister à une séance peut déléguer sa voix à un autre membre de la commission, un même membre ne pouvant recevoir qu'une seule délégation.
-
 La commission permanente d'enquête ne peut délibérer valablement que si les deux tiers de ses membres sont présents ou ont délégué leur voix. Les délibérations sont prises à la majorité des voix. En cas de partage, la voix du président est prépondérante.
 
 Les fonctions de membres de la commission permanente d'enquête sont gratuites. Toutefois, les membres ont droit au remboursement des frais que nécessite l'exécution de leur mandat, dans les conditions fixées par décision conjointe du ministre de l'équipement et du logement et du ministre de l'économie et des finances. Ces frais sont à la charge du port autonome.
