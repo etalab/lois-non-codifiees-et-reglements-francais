@@ -1,0 +1,3 @@
+# APPORTS A UNE SOCIETE, PERSONNE MORALE OU GROUPEMENT.
+
+- [Article 27](article-27.md)

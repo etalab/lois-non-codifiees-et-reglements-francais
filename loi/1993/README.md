@@ -9,6 +9,7 @@
 - [Loi n° 92-1477 du 31 décembre 1992 (EURX9200209L)](loi-n-92-1477-du-31-decembre-1992-eurx9200209l)
 - [Loi n° 92-614 du 6 juillet 1992 (JUSX9100125L)](loi-n-92-614-du-6-juillet-1992-jusx9100125l)
 - [Loi n° 92-677 du 17 juillet 1992 (BUDX9200078L)](loi-n-92-677-du-17-juillet-1992-budx9200078l)
+- [Loi n° 92-722 du 29 juillet 1992 (SPSX9200084L)](loi-n-92-722-du-29-juillet-1992-spsx9200084l)
 - [Loi n° 93-1 du 4 janvier 1993 (DOMX9200114L)](loi-n-93-1-du-4-janvier-1993-domx9200114l)
 - [Loi n° 93-1013 du 24 août 1993 (JUSX9300540L)](loi-n-93-1013-du-24-aout-1993-jusx9300540l)
 - [Loi n° 93-1027 du 24 août 1993 (INTX9300081L)](loi-n-93-1027-du-24-aout-1993-intx9300081l)

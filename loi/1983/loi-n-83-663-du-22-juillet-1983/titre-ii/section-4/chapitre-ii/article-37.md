@@ -2,9 +2,9 @@
 
 Le département est responsable des services et actions suivants et en assure le financement :
 
-1° Le service départemental d'action sociale prévu à l'article 28 de la loi n° 75-535 du 30 juin 1975 modifiée relative aux institutions sociales et médico-sociales ;
+1° abrogé
 
-2° Le service de l'aide sociale à l'enfance prévu par le titre II du code de la famille et de l'aide sociale ;
+2° abrogé
 
 3° La protection sanitaire de la famille et de l'enfance dans les conditions prévues au titre Ier du livre II du code de la santé publique, à l'exception du chapitre III bis et des sections 1 et 3 du chapitre V ;
 

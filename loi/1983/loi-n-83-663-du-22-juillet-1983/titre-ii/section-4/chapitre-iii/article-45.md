@@ -4,6 +4,8 @@ I - La tarification des prestations fournies par les établissements et services
 
 II - La tarification des prestations remboursables aux assurés sociaux est arrêtée dans les conditions fixées par l'article 27 bis de la loi n° 75-535 du 30 juin 1975 précitée, après avis du président du conseil général.
 
-Au vu de cette décision, le président du conseil général fixe la tarification des prestations fournies par les établissements et services habilités à recevoir des bénéficiaires de l'aide sociale en vertu de l'article 44.
+Au vu de cette décision, le président du conseil général fixe la tarification des prestations fournies par les établissements et services habilités à recevoir des bénéficiaires de l'aide sociale en vertu de l'article L. 315-7 du code de l'action sociale et des familles.
 
-III - La tarification des prestations fournies par les établissements ou services auxquels l'autorité judiciaire confie directement et habituellement des mineurs est arrêtée conjointement par le président du conseil général et le représentant de l'Etat dans le département.    IV - La participation qui peut être demandée aux bénéficiaires des services ménagers accordés au titre de l'aide en nature prévue à l'article 158 du code de la famille et de l'aide sociale est fixée par arrêté du président du conseil général.
+III - La tarification des prestations fournies par les établissements ou services auxquels l'autorité judiciaire confie directement et habituellement des mineurs est arrêtée conjointement par le président du conseil général et le représentant de l'Etat dans le département.
+
+IV - abrogé
