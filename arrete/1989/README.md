@@ -405,7 +405,6 @@
 - [Arrêté du 21 mars 1989 (SPSP8900606A)](arrete-du-21-mars-1989-spsp8900606a)
 - [Arrêté du 21 novembre 1989 (EQUS8901291A)](arrete-du-21-novembre-1989-equs8901291a)
 - [Arrêté du 21 novembre 1989 (PRME8961526A)](arrete-du-21-novembre-1989-prme8961526a)
-- [Arrêté du 21 novembre 1989 (PRME8961528A)](arrete-du-21-novembre-1989-prme8961528a)
 - [Arrêté du 21 septembre 1989 (TEFE8903740A)](arrete-du-21-septembre-1989-tefe8903740a)
 - [Arrêté du 22 décembre 1989 (PRME8961122A)](arrete-du-22-decembre-1989-prme8961122a)
 - [Arrêté du 22 décembre 1989 (SPSH8902301A)](arrete-du-22-decembre-1989-spsh8902301a)
