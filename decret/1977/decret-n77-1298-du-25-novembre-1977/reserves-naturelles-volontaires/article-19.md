@@ -1,10 +1,8 @@
 # Article 19
 
-L'agrément ou le refus d'agrément est donné par le ministre chargé de la protection de la nature.
+Le commissaire de la République [*autorité compétente*] se prononce sur la demande d'agrément, dans un délai de huit mois à compter de sa réception.
 
-La décision d'agrément fixe :
-
-Les limites de la réserve ;
+La décision d'agrément fixe :[*contenu*]    Les limites de la réserve ;
 
 La nature des mesures conservatoires dont la réserve est affectée en vertu des dispositions de l'article 20 ci-après ;
 
