@@ -97,6 +97,8 @@
 - [Décret n°91-269 du 12 mars 1991 (PRMG9170107D)](decret-n91-269-du-12-mars-1991-prmg9170107d)
 - [Décret n°91-272 du 12 mars 1991 (DOMP9100011D)](decret-n91-272-du-12-mars-1991-domp9100011d)
 - [Décret n°91-277 du 12 mars 1991 (SPSS9100002D)](decret-n91-277-du-12-mars-1991-spss9100002d)
+- [Décret n°91-354 du 12 avril 1991 (ECOP9000658D)](decret-n91-354-du-12-avril-1991-ecop9000658d)
+- [Décret n°91-356 du 12 avril 1991 (SPSS9100490D)](decret-n91-356-du-12-avril-1991-spss9100490d)
 - [Décret n°91-921 du 12 septembre 1991 (AGRA9101669D)](decret-n91-921-du-12-septembre-1991-agra9101669d)
 - [Décret n°91-160 du 13 février 1991 (ECOT9113411D)](decret-n91-160-du-13-fevrier-1991-ecot9113411d)
 - [Décret n°91-164 du 13 février 1991 (INTC9100024D)](decret-n91-164-du-13-fevrier-1991-intc9100024d)

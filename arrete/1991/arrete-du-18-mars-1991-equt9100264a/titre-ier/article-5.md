@@ -1,0 +1,3 @@
+# Article 5
+
+Lorsque l'arrêté préfectoral a été pris, l'exploitant ferroviaire ne peut procéder à la suppression, à l'automatisation d'un passage à niveau, ou à la suppression des barrières et du gardiennage ou de l'équipement automatique d'un passage à niveau sans avoir au préalable prévenu les usagers par des panneaux bien exposés à leur vue et placés de part et d'autre des voies ferrées, quinze jours au moins avant la suppression, la mise en service de l'équipement automatique ou la modification en cause. Il veille également à la mise en place des panneaux routiers prévus par l'instruction interministérielle sur la signalisation routière.
