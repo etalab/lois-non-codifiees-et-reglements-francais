@@ -1,5 +1,0 @@
-# Article 52
-
-Les dispositions de l'arrêté du 25 février 1982 modifié fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels des communes et de leurs établissements publics sur le territoire métropolitain et de celui du 22 mars 1983 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels des départements et de leurs établissements publics sur le territoire métropolitain, ne sont plus applicables aux personnels susvisés, sous réserve des dispositions transitoires prévues à l'article 53 ci-dessous, à compter de l'entrée en vigueur du présent décret, laquelle est fixée au 1er juillet 1990, à l'exception de celles du titre II fixées au 1er mai 1990.
-
-Les mandats de régularisation des remboursements de frais de déplacements ou de changements de résidence effectués à compter de la date d'application des mesures prévues au présent décret et jusqu'à sa date de publication devront mentionner obligatoirement les références des mandats initiaux.

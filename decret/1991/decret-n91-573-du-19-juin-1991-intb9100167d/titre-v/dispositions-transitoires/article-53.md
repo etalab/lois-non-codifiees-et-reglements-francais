@@ -1,3 +1,0 @@
-# Article 53
-
-Jusqu'au 31 décembre 1991, sont applicables pour la détermination des droits aux indemnités journalières de déplacement mentionnées aux articles 5 à 16 du présent décret, les dispositions de l'article 2, du deuxième alinéa de l'article 3 et de l'article 4 du décret du 10 août 1966 susvisé relatives à la répartition des agents en groupes et, d'autre part, les dispositions du premier alinéa de l'article 8 et des articles 12 et 13 de ce décret qui établissent une distinction entre mission et tournée. Les taux nécessaires à l'application du présent article sont ceux prévus pour l'application de l'article 53 du décret du 28 mai 1990 susvisé.
