@@ -307,7 +307,6 @@
 - [Arrêté du 16 février 1989 (TOUR8904504A)](arrete-du-16-fevrier-1989-tour8904504a)
 - [Arrêté du 16 juin 1989 (SPSP8901284A)](arrete-du-16-juin-1989-spsp8901284a)
 - [Arrêté du 16 mars 1989 (SPSH8900535A)](arrete-du-16-mars-1989-spsh8900535a)
-- [Arrêté du 16 mars 1989 (SPSH8900539A)](arrete-du-16-mars-1989-spsh8900539a)
 - [Arrêté du 16 octobre 1989 (AGRS8902068A)](arrete-du-16-octobre-1989-agrs8902068a)
 - [Arrêté du 16 octobre 1989 (BUDL8900122A)](arrete-du-16-octobre-1989-budl8900122a)
 - [Arrêté du 16 octobre 1989 (BUDL8900123A)](arrete-du-16-octobre-1989-budl8900123a)
