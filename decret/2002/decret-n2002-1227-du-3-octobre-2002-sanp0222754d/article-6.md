@@ -1,0 +1,3 @@
+# Article 6
+
+Pour les appartements de coordination thérapeutique, dans l'attente de l'autorisation mentionnée à l'article L. 313-1 du code de l'action sociale et des familles, la caisse d'assurance maladie chargée du versement de la dotation globale de financement règle des acomptes mensuels sur la base d'un douzième de l'ensemble des dépenses inscrites dans le dernier budget de l'appartement, déduction faite des participations des collectivités locales et, le cas échéant, des frais d'alimentation des personnes hébergées, ainsi que, s'agissant des dépenses inscrites dans les budgets 2001 et 2002, de la participation éventuelle de l'Etat à l'hébergement des personnes accompagnantes.

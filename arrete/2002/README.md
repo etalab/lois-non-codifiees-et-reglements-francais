@@ -565,6 +565,7 @@
 - [Arrêté du 23 janvier 2002 (AGRM0200132A)](arrete-du-23-janvier-2002-agrm0200132a)
 - [Arrêté du 23 janvier 2002 (INTE0100815A)](arrete-du-23-janvier-2002-inte0100815a)
 - [Arrêté du 23 janvier 2002 (MENF0102693A)](arrete-du-23-janvier-2002-menf0102693a)
+- [Arrêté du 23 septembre 2002 (MENF0202026A)](arrete-du-23-septembre-2002-menf0202026a)
 - [Arrêté du 23 mai 2002 (JUSG0260024A)](arrete-du-23-mai-2002-jusg0260024a)
 - [Arrêté du 24 avril 2002 (AGRA0200645A)](arrete-du-24-avril-2002-agra0200645a)
 - [Arrêté du 24 avril 2002 (DEFP0201454A)](arrete-du-24-avril-2002-defp0201454a)
