@@ -1,7 +1,0 @@
-# Article 2
-
-Le montant mensuel de l'indemnité différentielle est établi pour la durée d'une année civile.
-
-Ce montant est égal, sous réserve des dispositions prévues aux articles 3 et 4, à la différence entre la rémunération mensuelle brute servie à l'intéressé, hors indemnités à caractère résidentiel ou familial, soit, pour l'année au cours de laquelle la décision d'inaptitude intervient, au titre du mois qui suit la décision d'inaptitude, soit, pour les années ultérieures, au titre du mois de décembre précédant l'année considérée et la moyenne des rémunérations mensuelles brutes, hors indemnités à caractère résidentiel ou familial et déduction faite du prélèvement prévu à l'article 6-2 de la loi du 31 décembre 1989 susvisée, versées au titre du mois de décembre précédent aux ingénieurs du contrôle de la navigation aérienne recrutés dans le corps la même année que l'intéressé et exerçant leurs fonctions dans un organisme classé dans la même liste que celle de l'organisme au sein duquel l'intéressé était affecté au moment où la décision d'inaptitude a été prononcée ou, à défaut, aux ingénieurs du contrôle de la navigation aérienne recrutés dans le corps la même année que l'intéressé et exerçant leurs fonctions dans un organisme appartenant à la liste immédiatement supérieure.
-
-Il est réduit à concurrence des augmentations de rémunération consécutives à un avancement d'échelon ou de grade de l'agent qui interviennent au cours de l'année considérée à la date d'effet de cet avancement.

@@ -1,3 +1,0 @@
-# Article 6
-
-Selon des modalités précisées dans les conventions départementales, les commissions départementales peuvent faire bénéficier les personnes physiques visées au premier alinéa de l'article 2 et selon les critères visés à l'article 3, des aides préventives au paiement des factures d'électricité sur la base des consommations annuelles à venir estimées par les distributeurs d'électricité. Ces aides peuvent être attribuées soit à leur propre initiative lors de l'examen d'une demande d'aide au paiement de factures impayées, soit sur la base d'une demande spécifique émanant de ces personnes.

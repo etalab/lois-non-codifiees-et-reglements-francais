@@ -1,5 +1,0 @@
-# Article 13
-
-Lorsqu'il est constaté que les instruments conformes à un type ayant obtenu un certificat d'examen de type présentent des défauts, le ministre chargé de l'industrie peut, après avis de la commission technique compétente mentionnée à l'article 48 ci-après, enjoindre au titulaire du certificat d'examen de type de porter remède aux défauts constatés et de demander un nouvel examen de type. A titre conservatoire, le ministre chargé de l'industrie peut suspendre le bénéfice de la marque prévue à l'article 11 ci-dessus et ordonner la suspension de la mise sur le marché des instruments du type présentant ces défauts.
-
-Le ministre chargé de l'industrie peut en outre mettre en demeure le bénéficiaire du certificat d'examen de type de remédier, dans un délai déterminé, aux défauts constatés sur les instruments en service. A l'expiration de ce délai et après avoir recueilli les observations écrites du bénéficiaire, le ministre peut interdire l'utilisation des instruments restant défectueux.

@@ -1,3 +1,0 @@
-# Article 15
-
-Lorsqu'un étranger maintenu dans un centre ou dans un local de rétention demande à bénéficier de l'asile territorial, l'audition prévue à l'article 2 du décret du 23 juin 1998 susvisé est assurée par un agent d'un service spécialisé d'une préfecture. A titre exceptionnel, lorsque les contraintes dues à la distance où se trouve le lieu de rétention par rapport à la préfecture ou aux délais dans lesquels doit intervenir l'audition le justifient, les agents de l'Office des migrations internationales affectés dans ce lieu peuvent procéder à cette audition, dès lors qu'ils ont été désignés par le préfet et spécialement formés à cet effet.

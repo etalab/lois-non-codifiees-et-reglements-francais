@@ -1,3 +1,0 @@
-# Article 31
-
-Les dispositions de l'article 8, des IV et V de l'article 11, des I et II de l'article 14, de l'article 16, du II de l'article 24, des articles 26, 27 et 28 sont applicables au premier jour du mois qui suit la publication du présent décret au Journal officiel de la République française. Les dispositions de l'article 1er, du I de l'article 9 et de l'article 13 sont applicables au 1er septembre 2001. Les dispositions du II de l'article 9, des I, II et III de l'article 11, de l'article 12, du III et du deuxième alinéa du V de l'article 14, de l'article 15, du II de l'article 18, des articles 21, 22, 23 et du I de l'article 24 sont applicables au 1er janvier 2002.

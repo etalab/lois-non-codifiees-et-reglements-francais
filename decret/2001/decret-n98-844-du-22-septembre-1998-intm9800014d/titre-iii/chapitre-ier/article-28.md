@@ -1,3 +1,0 @@
-# Article 28
-
-En cas de séparation de corps ou de divorce et si le mariage a été contracté antérieurement au voyage d'affectation de l'agent, le conjoint séparé ou l'ex-conjoint de l'agent peut prétendre, sous réserve que ces frais n'aient pas été pris en charge par son employeur, au remboursement de ces frais de changement de résidence lorsqu'il demande, dans un délai d'un an à compter de la date de la séparation ou du divorce, son retour, ainsi que celui des enfants à charge qui lui ont été confiés, au lieu de la résidence habituelle de l'agent ou, éventuellement, au lieu de sa propre résidence habituelle.

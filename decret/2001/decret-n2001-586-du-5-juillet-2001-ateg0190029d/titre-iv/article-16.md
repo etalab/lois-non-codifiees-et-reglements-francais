@@ -1,3 +1,0 @@
-# Article 16
-
-Peuvent être détachés dans le corps des techniciens de l'environnement les fonctionnaires de l'Etat et des collectivités territoriales appartenant à des corps techniques de catégorie B titulaires d'un grade dont l'indice de début est au moins égal à celui afférent au 1er échelon du grade de technicien. Les intéressés doivent être titularisés depuis au moins deux ans dans leur corps, être titulaires des permis et diplôme exigés à l'article 6 ci-dessus et avoir satisfait aux épreuves de l'examen psychotechnique prévu à l'article 8 ci-dessus. Ils doivent suivre, en fonction de la spécialité dans laquelle ils sont détachés, la formation spécifique prévue à l'article 8 ci-dessus.

@@ -1,3 +1,0 @@
-# Article 12
-
-Le personnel de l'Ecole nationale d'administration pénitentiaire comprend, outre le personnel de direction, les agents soumis aux dispositions de la loi du 13 juillet 1983 susvisée affectés à l'établissement en position d'activité ou de détachement pour y exercer des fonctions administratives, techniques, d'enseignement ou de recherche. Ceux de ces agents qui étaient également soumis, avant leur affectation à l'école, au statut fixé par le décret du 21 novembre 1966 susvisé conservent le bénéfice du régime de rémunération et d'indemnités qui leur était applicable dans leur précédente affectation.

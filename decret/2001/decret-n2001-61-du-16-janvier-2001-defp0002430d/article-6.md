@@ -1,3 +1,0 @@
-# Article 6
-
-Par dérogation au 2° de l'article 7 du même décret dans sa rédaction issue du présent décret, et jusqu'à l'année 2003 incluse, les candidats, officiers de réserve ou officiers sous contrat, des grades de lieutenant ou enseigne de vaisseau de 1re classe et sous-lieutenant ou enseigne de vaisseau de 2e classe, qui ont servi en qualité d'aspirant au titre des obligations du service national, les volontaires dans les armées du grade d'aspirant, des trois armées et de la gendarmerie ainsi que les sous-officiers de carrière de gendarmerie, doivent être, au 1er janvier de l'année du concours, âgés de moins de vingt-huit ans.

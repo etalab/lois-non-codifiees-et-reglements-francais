@@ -1,3 +1,0 @@
-# Article 1
-
-Sur proposition du directeur régional de l'industrie, de la recherche et de l'environnement, et après avis du procureur de la République auprès du tribunal de grande instance de leur résidence administrative, le préfet commissionne, parmi les fonctionnaires et agents de la direction régionale de l'industrie, de la recherche et de l'environnement ayant les connaissances techniques et juridiques nécessaires, les personnes chargées de procéder aux contrôles et constatations prévus aux articles L. 226-3 à L. 226-5 du code de l'environnement. Le commissionnement est prononcé au titre du 2° de l'article L. 226-2 du code de l'environnement. L'arrêté préfectoral du commissionnement précise la durée du commissionnement, qui peut être renouvelé.

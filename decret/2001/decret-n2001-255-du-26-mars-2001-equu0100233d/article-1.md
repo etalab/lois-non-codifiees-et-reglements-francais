@@ -1,5 +1,0 @@
-# Article 1
-
-Par dérogation à l'interdiction figurant dans la clause type relative au capital de la société de chacune des annexes visées à l'article R. 313-31-2 du code de la construction et de l'habitation, les sociétés immobilières concernées peuvent, jusqu'au 31 décembre 2001, procéder à une augmentation de leur capital par incorporation de réserves pour les besoins liés à la conversion au centième d'euro supérieur ou à l'euro supérieur de la valeur nominale de leurs titres.
-
-Lorsque la conversion au centième d'euro ou à l'euro de la valeur nominale des titres de ces sociétés immobilières entraîne une augmentation ou une réduction de leur capital supérieure à 5 % de la valeur de ce capital exprimée en francs, la conversion n'est possible que sur autorisation préalable du ministre chargé du logement. Avant de statuer, le ministre chargé du logement consulte l'Agence nationale pour la participation des employeurs à l'effort de construction qui dispose d'un mois pour émettre son avis. Faute d'avoir été donné dans ce délai, l'avis de l'agence nationale est réputé favorable.

@@ -1,3 +1,0 @@
-# Article 12
-
-Le bénéficiaire d'une autorisation d'exploitation est tenu de faire connaître sans délai au préfet les modifications qu'il envisage d'apporter à ses travaux, au calendrier de leur réalisation, à ses installations ou à ses méthodes de travail lorsqu'elles sont de nature à entraîner un changement notable des données initiales figurant dans le dossier de la demande d'autorisation. Dans ce cas, après avoir consulté les services intéressés, si les changements prévus le justifient, le préfet prend un arrêté modifiant les conditions particulières fixées en application de l'article 11 du présent décret.

@@ -1,3 +1,0 @@
-# Article 10
-
-Les élements permettant de vérifier la conformité des instruments produits au type faisant l'objet de l'examen doivent être conservés par l'organisme ayant délivré le certificat d'examen de type pendant une durée supérieure de dix ans à la durée de validité du certificat. Ces éléments, tenus à la disposition des agents assermentés de l'Etat chargés du contrôle des instruments de mesure, peuvent être un exemplaire de l'instrument, des plans, schémas, pièces ou sous-ensemble d'instruments, programmes informatiques ou tous autres éléments déterminés par l'organisme ayant délivré le certificat d'examen de type.

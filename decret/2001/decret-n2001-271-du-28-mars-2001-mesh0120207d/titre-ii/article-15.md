@@ -1,3 +1,0 @@
-# Article 15
-
-Jusqu'au prochain renouvellement des représentants des praticiens des hôpitaux à temps partiel au sein de la commission paritaire nationale instituée par l'article 18 du décret du 29 mars 1985 susvisé et pour la durée du mandat de ces représentants restant à courir, les représentants de la discipline pharmacie sont tirés au sort parmi les représentants des pharmaciens des hôpitaux à temps partiel désignés au sein des commissions paritaires régionales instituées par l'article 15 du décret n° 96-182 du 7 mars 1996 portant statut des pharmaciens des hôpitaux à temps partiel, à la date de publication du présent décret au Journal officiel.

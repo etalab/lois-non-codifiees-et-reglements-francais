@@ -1,5 +1,0 @@
-# TITRE III : DISPOSITIONS RELATIVES AU CORPS DES CONTRÔLEURS DE L'INSTITUT NATIONAL DE LA STATISTIQUE ET DES ÉTUDES ÉCONOMIQUES.
-
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)

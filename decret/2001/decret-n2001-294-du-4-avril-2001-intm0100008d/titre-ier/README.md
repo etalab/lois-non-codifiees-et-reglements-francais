@@ -1,4 +1,0 @@
-# TITRE Ier : DISPOSITIONS APPLICABLES EN POLYNÉSIE FRANçAISE, DANS LES ÎLES WALLIS ET FUTUNA ET À MAYOTTE.
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)

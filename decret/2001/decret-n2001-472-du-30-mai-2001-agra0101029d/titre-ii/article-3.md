@@ -1,3 +1,0 @@
-# Article 3
-
-Pour l'application du 3° du I de l'article 1er de la loi du 3 janvier 2001 susvisée, les candidats aux concours prévus à l'article 2 doivent justifier des conditions de titres ou diplômes prévues respectivement à l'article 6 du décret du 3 août 1992 susvisé pour les candidats exerçant dans les disciplines d'enseignement général et au 1° de l'article 10 du décret du 3 août 1992 susvisé pour les candidats exerçant dans les disciplines d'enseignement technique ou, pour tous les candidats, en équivalence des conditions de titres ou de diplômes requises pour se présenter aux concours, d'une expérience professionnelle d'enseignement ou d'éducation égale à au moins cinq ans de services effectifs.

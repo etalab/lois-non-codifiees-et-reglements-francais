@@ -1,3 +1,0 @@
-# Article 1
-
-Indépendamment des indemnités réglementaires en vigueur et sans préjudice des diverses indemnités représentatives de frais auxquelles ils peuvent prétendre, une indemnité spéciale d'astreinte ou d'intervention non soumise à retenue pour pension peut, le cas échéant, et dans les conditions fixées par arrêté interministériel, être attribuée aux personnels titulaires ou contractuels des services généraux du Premier ministre, appelés en raison des nécessités de service à collaborer à un service d'astreinte ou d'intervention dans le cadre de l'exploitation des systèmes d'information des services du Premier ministre.

@@ -1,3 +1,0 @@
-# Article 12
-
-Le bénéficiaire de la prime doit respecter les conditions d'éligibilité prévues à l'article 2 pendant toute la durée de l'engagement. Si l'exploitant n'exerce plus son activité agricole à titre principal, le versement de la prime attribuée aux exploitants cesse. Celle-ci ne peut pas non plus être perçue par un exploitant agricole bénéficiant d'une aide à la préretraite. Toutefois, dans ces cas, il peut bénéficier de la prime réservée aux autres personnes physiques ou morales de droit privé pendant la durée du versement restant à courir, si, à l'exclusion des surfaces cédées, louées ou mises à disposition dans le cadre du dossier de préretraite, il reste propriétaire des fonds boisés et s'il conserve la charge de l'entretien du boisement.
