@@ -1,3 +1,3 @@
 # Article 3
 
-La taxation des communications donne lieu à des dispositions particulières énumérées dans les articles suivants lorsque les terminaux sont raccordées à des réseaux différents.
+Le directeur du Trésor est chargé de l'exécution du présent arrêté qui sera publié au Journal officiel de la République française.

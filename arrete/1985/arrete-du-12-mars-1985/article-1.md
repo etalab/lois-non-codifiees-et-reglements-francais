@@ -1,3 +1,3 @@
 # Article 1
 
-Pour les bénéficiaires d'un contrat de solidarité ou d'une convention d'allocation spéciale du Fonds national de l'emploi dont les rémunérations qui composent le salaire de référence pris en considération pour le calcul de l'allocation spéciale versée en application de l'article R. 322-7 du code du travail sont intégralement afférentes à des périodes antérieures au 1er juillet 1984, ledit salaire de référence est revalorisé de 2,8 p. 100 à compter du 1er janvier 1985.
+Le montant journalier du revenu de remplacement garanti aux bénéficiaires d'un contrat de solidarité relatif à la préretraite démission ou d'une convention d'allocation spéciale du Fonds national de l'emploi est fixé, dans la limite de 90 p. 100 du salaire journalier de référence défini à l'article R. 322-7 du code du travail, à 119,25 F à compter du 1er janvier 1985.

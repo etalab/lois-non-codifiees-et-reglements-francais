@@ -1,3 +1,3 @@
 # Article 1
 
-Il est ouvert, à titre expérimental, pour une durée de deux ans, un service de mise en relation de terminaux aux normes Télétex lorsque ceux-ci sont raccordés sur l'un des réseaux suivants : réseau téléphonique général ou réseau Transpac. Ce service permettra, en outre, la communication dans les deux sens entre un terminal du service Télétex et un terminal raccordé au réseau Télex.
+A compter du 30 mars 1985, les bons du Trésor détenus par les institutions financières internationales en contrepartie de la participation de la France à leur capital ou à d'autres apports de ressources en leur faveur peuvent être inscrits en comptes courants auprès de la Banque de France.
