@@ -10,4 +10,4 @@ Ce tirage au sort porte sur chacun des tandems élus.
 
 Si, dans un conseil, le nombre des tandems d'un département, d'une région ou d'une catégorie professionnelle est impair, celui tiré au sort pour exercer un mandat de quatre ans est immédiatement supérieur à la moitié.
 
-Tout conseiller ordinal, absent et non représenté sans motif valable pendant trois séances consécutives, peut, sur proposition du conseil intéressé, être déclaré démissionnaire d'office par le conseil national.
+Tout conseiller ordinal, titulaire ou suppléant appelé à remplacer le conseiller titulaire, absent et non représenté sans motif valable pendant trois séances consécutives, peut, sur proposition du conseil intéressé, être déclaré démissionnaire d'office par le conseil national.
