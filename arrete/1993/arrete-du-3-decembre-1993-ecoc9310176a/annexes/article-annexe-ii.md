@@ -84,5 +84,16 @@
 <p align="center">13</p>
 </td>
 </tr>
+<tr>
+<td valign="top" width="341">
+<p>Différentes formes de salatrim (triacylglycérides à chaîne courte et longue définis dans la décision du 1er décembre 2003 susvisée)</p>
+</td>
+<td valign="top" width="180">
+<p align="center">6</p>
+</td>
+<td valign="top" width="160">
+<p align="center">25</p>
+</td>
+</tr>
 </tbody>
 </table>
