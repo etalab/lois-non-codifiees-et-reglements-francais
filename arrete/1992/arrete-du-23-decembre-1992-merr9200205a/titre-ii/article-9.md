@@ -46,8 +46,6 @@
 
 - suivre un cap ;
 
-- faire un point par relèvements ;
-
 - suivre un alignement par l'avant et par l'arrière ;
 
 - simuler l'emploi d'une fusée ou d'un feu automatique ;
