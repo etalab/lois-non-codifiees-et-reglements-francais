@@ -17,6 +17,7 @@
 - [Décret n°77-41 du 11 janvier 1977](decret-n77-41-du-11-janvier-1977)
 - [Décret n°77-239 du 15 mars 1977](decret-n77-239-du-15-mars-1977)
 - [Décret n°77-650 du 17 juin 1977](decret-n77-650-du-17-juin-1977)
+- [Décret n°77-80 du 17 janvier 1977](decret-n77-80-du-17-janvier-1977)
 - [Décret n°77-47 du 19 janvier 1977](decret-n77-47-du-19-janvier-1977)
 - [Décret n°77-1445 du 21 décembre 1977](decret-n77-1445-du-21-decembre-1977)
 - [Décret n°73-183 du 22 février 1973](decret-n73-183-du-22-fevrier-1973)
