@@ -485,7 +485,6 @@
 - [Arrêté du 22 juin 1989 (DOME8900025A)](arrete-du-22-juin-1989-dome8900025a)
 - [Arrêté du 22 juin 1989 (RESY8900094A)](arrete-du-22-juin-1989-resy8900094a)
 - [Arrêté du 22 juin 1989 (SPSS8901296A)](arrete-du-22-juin-1989-spss8901296a)
-- [Arrêté du 22 juin 1989 (SPSS8901307A)](arrete-du-22-juin-1989-spss8901307a)
 - [Arrêté du 22 mars 1989 (MENU8900647A)](arrete-du-22-mars-1989-menu8900647a)
 - [Arrêté du 22 mars 1989 (PTTT8900273A)](arrete-du-22-mars-1989-pttt8900273a)
 - [Arrêté du 22 novembre 1989 (AGRA8902347A)](arrete-du-22-novembre-1989-agra8902347a)
