@@ -3,7 +3,6 @@
 - [CONFERENCE ADMINISTRATIVE REGIONALE.](conference-administrative-regionale)
 - [DE L'ORGANISATION DES SERVICES DE L'ETAT DANS LA REGION.](de-l-organisation-des-services-de-l-etat-dans-la-region)
 - [DECISIONS DE L'ETAT EN MATIERE D'INVESTISSEMENTS PUBLICS.](decisions-de-l-etat-en-matiere-d-investissements-publics)
-- [Des pouvoirs du commissaire de la République de région.](des-pouvoirs-du-commissaire-de-la-republique-de-region)
 - [DES POUVOIRS DU préfet.](des-pouvoirs-du-prefet)
 - [DES POUVOIRS DU PREFET DE REGION.](des-pouvoirs-du-prefet-de-region)
 - [DISPOSITIONS DIVERSES](dispositions-diverses)
