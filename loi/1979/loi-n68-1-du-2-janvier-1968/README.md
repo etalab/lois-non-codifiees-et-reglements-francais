@@ -7,5 +7,4 @@
 - [Titre V : Extinction et nullité du brevet.](titre-v)
 - [Titre VI : De la contrefaçon et des sanctions.](titre-vi)
 - [Titre VI bis : Du certificat complémentaire de protection.](titre-vi-bis)
-- [Titre VII : Du certificat d'addition.](titre-vii)
 - [Titre VIII : Dispositions diverses.](titre-viii)

@@ -22,6 +22,4 @@ Est rejetée, en tout ou partie, toute demande de brevet :
 
 Est rejetée toute demande de certificat d'addition dont l'objet n'est pas rattaché à au moins une revendication du brevet principal, et qui n'a pas été transformée dans les conditions prévues à l'article 62.
 
-Si les motifs de rejet n'affectent la demande de brevet qu'en partie, seules les revendications correspondantes sont rejetées.
-
 En cas de non-conformité partielle de la demande aux dispositions des articles 7 a ou 12, il est procédé d'office à la suppression des parties correspondantes de la description et des dessins.

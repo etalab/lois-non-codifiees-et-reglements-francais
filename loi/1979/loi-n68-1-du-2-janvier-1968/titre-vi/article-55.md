@@ -1,6 +1,6 @@
 # Article 55
 
-Par exception aux dispositions de l'article 23, les faits antérieurs à la date à laquelle la demande de brevet a été rendue publique en vertu de l'article 17 ou à celle de la notification à tout tiers d'une copie certifiée de cette demande ne sont pas considérés comme ayant porté atteinte aux droits attachés au brevet.    Toutefois, entre la date visée à l'alinéa précédent et celle de la publication de la délivrance du brevet :
+Par exception aux dispositions de l'article 23, les faits antérieurs à la date à laquelle la demande de brevet a été rendue publique en vertu de l'article 66 bis ou à celle de la notification à tout tiers d'une copie certifiée de cette demande ne sont pas considérés comme ayant porté atteinte aux droits attachés au brevet.    Toutefois, entre la date visée à l'alinéa précédent et celle de la publication de la délivrance du brevet :
 
 1° Le brevet n'est opposable que dans la mesure où les revendications n'ont pas été étendues après la première de ces dates ;
 
