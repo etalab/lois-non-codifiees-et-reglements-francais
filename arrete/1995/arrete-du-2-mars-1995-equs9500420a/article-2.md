@@ -4,4 +4,4 @@ Les véhicules destinés à être immatriculés en France des catégories suivan
 
 - véhicules des catégories internationales N 2 et N 3 dont le poids total autorisé en charge excède 7,5 tonnes, à l'exclusion des tracteurs pour semi-remorques ;
 
-- semi-remorques des catégories internationales O 3 et O 4 dont le poids total autorisé en charge excède 7,5 tonnes.
+- semi-remorques des catégories internationales O 3 et O 4 dont le poids total autorisé en charge excède 7,5 tonnes. L'extincteur peut également être placé sur le véhicule tracteur, à l'extérieur, dans un endroit aisément accessible au conducteur, et sans préjudice, le cas échéant, de l'extincteur éventuellement prévu par l'article 1er. Les semi-remorques dételées peuvent être dépourvues d'extincteur.

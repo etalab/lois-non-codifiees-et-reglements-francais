@@ -63,6 +63,7 @@
 - [Arrêté du 17 janvier 2000 (DEFP0001096A)](arrete-du-17-janvier-2000-defp0001096a)
 - [Arrêté du 17 novembre 1999 (ATEP9980396A)](arrete-du-17-novembre-1999-atep9980396a)
 - [Arrêté du 18 janvier 2000 (ATEN9980368A)](arrete-du-18-janvier-2000-aten9980368a)
+- [Arrêté du 20 janvier 2000 (EQUS0000126A)](arrete-du-20-janvier-2000-equs0000126a)
 - [Arrêté du 20 janvier 2000 (FPPA0010001A)](arrete-du-20-janvier-2000-fppa0010001a)
 - [Arrêté du 20 janvier 2000 (FPPA0010003A)](arrete-du-20-janvier-2000-fppa0010003a)
 - [Arrêté du 20 janvier 2000 (FPPA0010004A)](arrete-du-20-janvier-2000-fppa0010004a)
