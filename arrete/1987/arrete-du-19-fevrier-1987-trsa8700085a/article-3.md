@@ -6,7 +6,7 @@ Les avions à hélices, excepté ceux prévus aux alinéas a et b ci-dessous, do
 
 2. Avion pour lequel le premier certificat de navigabilité individuel a été délivré postérieurement au 1er janvier 1980, à moins que l'avion n'ait volé avant cette dernière date.
 
-a) Les avions conçus pour l'acrobatie ou utilisés en travail agricole et pour la lutte contre les incendies ainsi que les avions munis d'un certificat de navigabilité restreint d'aéronef (CNRA) ou d'un certificat de navigabilité restreint d'aéronef de collection (CNRAC) ne sont pas soumis à l'obligation de posséder un certificat de limitation de nuisances, un certificat spécial ou un laissez-passer.
+a) Les avions conçus pour l'acrobatie ou utilisés en travail agricole et pour la lutte contre les incendies ainsi que les avions munis d'un certificat de navigabilité restreint d'aéronef (CNRA), d'un certificat de navigabilité restreint d'aéronef de collection (CNRAC) ou d'un certificat de navigabilité spécial d'aéronef en kit (CNSK) ne sont pas soumis à l'obligation de posséder un certificat de limitation de nuisances, un certificat spécial ou un laissez-passer.
 
 b) Les aéronefs ultra-légers motorisés sont dispensés de cette obligation s'ils satisfont aux conditions fixées par un arrêté spécifique du ministre chargé de l'aviation civile.
 
