@@ -1,6 +1,6 @@
 # Article 5
 
-Les règles d'organisation générale du concours, la nature et le programme des épreuves sont fixés par arrêté conjoint du ministre chargé des affaires sociales, du ministre chargé de la fonction publique et, le cas échéant, du ou des ministres intéressés.
+Les règles d'organisation générale des concours ainsi que la durée et le contenu de l'entretien prévu à l'article précédent sont fixés par arrêté conjoint du ministre chargé des affaires sociales, du ministre chargé de la fonction publique et, le cas échéant, des ministres intéressés.
 
 Les conditions d'organisation du concours et la composition du jury sont fixées dans chaque administration par arrêté du ou, le cas échéant, des ministres intéressés.
 

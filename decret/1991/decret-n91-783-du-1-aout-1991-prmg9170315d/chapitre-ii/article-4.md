@@ -1,6 +1,6 @@
 # Article 4
 
-Les assistants de service social sont recrutés par voie de concours externes et de concours internes. Ces concours sont des concours sur épreuves. Ils peuvent être communs à deux ou plusieurs corps.
+Les assistants de service social sont recrutés par voie de concours externes et de concours internes. Ces concours sont des concours sur titres. Ils comportent un entretien avec le jury. Ces concours peuvent être communs à deux ou plusieurs corps.
 
 Ne peuvent se présenter à ces concours que les candidats qui remplissent les conditions prévues à l'article 218 du code de la famille et de l'aide sociale pour avoir droit au titre et pouvoir exercer l'activité d'assistant de service social.
 
