@@ -6,7 +6,7 @@ I. - Spécialité Musées
 
 Diplôme d'études universitaires générales d'histoire de l'art et d'archéologie ;
 
-Diplôme d'études universitaires générales d'histoire ;
+Diplôme d'études universitaires générales en sciences humaines et sociales, mention histoire ;
 
 Diplôme de premier cycle de l'Ecole du Louvre ;
 
@@ -38,12 +38,10 @@ Diplôme de l'école des bibliothécaires-documentalistes de l'Institut catholiq
 
 Diplôme technique de documentaliste délivré par l'Institut national des techniques documentaires.
 
-III. - Spécialité Archives
+III. - Spécialité archives
 
-Diplôme universitaire de technologie de la spécialité Carrières de l'information, option Documentation ;
+Diplôme universitaire de technologie de la spécialité information et communication, option métiers du livre.
 
-Diplôme d'études universitaires scientifiques et techniques des métiers du livre et des médias : Aix-Marseille-I ;
+Diplôme d'études universitaires générales en sciences humaines et sociales, mention histoire.
 
-Diplôme d'études universitaires scientifiques et techniques, gestion en exploitation des médiathèques : Toulouse-II.
-
-Diplôme universitaire de technologie information-communication, option Documentation d'entreprise, comprenant un enseignement d'archivistique. "
+Diplôme d'études universitaires générales en sciences de l'information.
