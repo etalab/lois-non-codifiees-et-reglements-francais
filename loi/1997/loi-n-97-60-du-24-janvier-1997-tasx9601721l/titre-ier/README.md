@@ -1,3 +1,0 @@
-# TITRE Ier : DE LA COORDINATION DE LA PRISE EN CHARGE DE LA DEPENDANCE.
-
-- [Article 1](article-1.md)
