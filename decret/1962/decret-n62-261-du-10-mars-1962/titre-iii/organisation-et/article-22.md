@@ -1,3 +1,3 @@
 # Article 22
 
-Les sections spécialisées peuvent proposer aux rapatriés inscrits comme demandeurs d'emplois salariés un emploi dans leur spécialité ou leur reclassement dans une autre activité professionnelle. Elles peuvent les orienter vers des stages de formation professionnelle.
+Il est créé, à titre exceptionnel et temporaire, un service national chargé de faciliter le reclassement des rapatriés dans les conditions fixées par arrêté conjoint du ministre du travail et du secrétaire d'Etat chargé des rapatriés.

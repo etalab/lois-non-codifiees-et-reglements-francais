@@ -1,3 +1,5 @@
 # Article 30
 
-Ces prêts sont réalisés par les établissements financiers qui ont passé à cet effet avec le ministère des finances une convention qui en détermine, en accord avec le secrétaire d'Etat aux rapatriés, les modalités.
+Les rapatriés non salariés inscrits sur les listes professionnelles des préfectures ou des délégations régionales peuvent percevoir des prêts de reclassement pour se réinstaller dans la profession correspondant à leur liste d'inscription.
+
+Les demandes de prêts sont instruites par le préfet ou le délégué régional. Elles sont présentées à l'approbation de la commission économique prévue à l'article 48 ci-après.

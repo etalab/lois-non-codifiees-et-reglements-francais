@@ -1,3 +1,3 @@
 # Article 29
 
-Les rapatriés non salariés figurant sur les listes professionnelles des délégations régionales pour l'accueil et l'orientation peuvent recevoir des prêts de reclassement pour se réinstaller dans la profession correspondant à leur liste d'inscription.
+Les rapatriés visés à l'article 8 du présent décret ont un droit de priorité pour l'attribution des installations professionnelles mises à la disposition du secrétaire d'Etat chargé des rapatriés en application de l'article précédent.
