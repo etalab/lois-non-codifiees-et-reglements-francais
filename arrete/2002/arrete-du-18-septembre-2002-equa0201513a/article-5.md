@@ -1,0 +1,3 @@
+# Article 5
+
+L'instruction du 1er février 2001 - DGAC-SFACT 00-021 - relative aux critères pour passage de l'épreuve pratique d'aptitude ou du contrôle de compétence pour les qualifications de type sur avion multipilote ou en vue de la délivrance de la licence ATPL(A), l'instruction du 1er février 2001 - DGAC-SFACT 00-022 - relative aux critères de réussite pour les examens théoriques requis des candidats à une licence professionnelle de pilote d'avion ou à une qualification de vol aux instruments avion et l'instruction du 25 mai 2001 - DGAC-SFACT - relative aux programmes pour le passage de l'épreuve pratique d'aptitude ou du contrôle de compétence pour les qualifications de type sur avion multipilote ou en vue de la délivrance de la licence ATPL(A) sont abrogées.
