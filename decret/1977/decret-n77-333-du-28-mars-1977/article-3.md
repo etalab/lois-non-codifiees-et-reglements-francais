@@ -40,6 +40,6 @@ Soixante ans et au-delà
 
 MONTANT de la majoration : 60 %.
 
-Les taux de majoration visés aux alinéas précédents sont réduits de moitié pour les mutualistes qui adhéreront aux organismes visés à l'article 1er postérieurement au 1er janvier 1987.
+Les taux de majoration visés aux alinéas précédents sont réduits de moitié pour les mutualistes qui adhéreront aux organismes visés à l'article 1er postérieurement au 1er janvier 1990.
 
 Pour le calcul de la majoration, les rentes constituées à capital réservé sont supposées constituées à capital aliéné.
