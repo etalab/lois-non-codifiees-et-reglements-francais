@@ -1,3 +1,3 @@
 # Article 2
 
-Les soins et interventions nécessités par l'état des animaux élevés, gardés ou détenus par l'homme, doivent être réalisés à l'aide de moyens appropriés éliminant toute souffrance évitable aux animaux, conformément aux dispositions prévues en annexe I au présent arrêté.
+L'élevage, la garde ou la détention d'un animal, tel que défini à l'article 1er du présent arrêté, ne doit entraîner, en fonction de ses caractéristiques génotypiques ou phénotypiques, aucune souffrance évitable, ni aucun effet néfaste sur sa santé.

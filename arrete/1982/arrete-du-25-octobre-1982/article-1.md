@@ -1,3 +1,3 @@
 # Article 1
 
-Les animaux des espèces bovine, ovine, caprine, porcine, les équidés, les volailles et autres animaux de basse-cour ainsi que les animaux de compagnie tels que les chiens et les chats et ceux qui leur sont assimilés doivent être maintenus en bon état de santé et d'entretien grâce à une nourriture, un abreuvement, des soins et des interventions appropriés.
+Les animaux élevés ou détenus pour la production d'aliments, de laine, de peau ou de fourrure ou à d'autres fins agricoles ainsi que les équidés domestiques et les animaux de compagnie et ceux qui leur sont assimilés doivent être maintenus en bon état de santé et d'entretien conformément à l'annexe I du présent arrêté.
