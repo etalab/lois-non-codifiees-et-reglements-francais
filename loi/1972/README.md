@@ -6,4 +6,5 @@
 - [Loi n° 72-1 du 3 janvier 1972](loi-n-72-1-du-3-janvier-1972)
 - [Loi n° 72-439 du 30 mai 1972](loi-n-72-439-du-30-mai-1972)
 - [Loi n° 72-6 du 3 janvier 1972](loi-n-72-6-du-3-janvier-1972)
+- [Loi n° 72-618 du 5 juillet 1972](loi-n-72-618-du-5-juillet-1972)
 - [Loi n°72-467 du 9 juin 1972](loi-n72-467-du-9-juin-1972)
