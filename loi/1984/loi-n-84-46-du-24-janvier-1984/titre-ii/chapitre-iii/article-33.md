@@ -2,7 +2,7 @@
 
 Le comité de la réglementation bancaire établit la réglementation concernant notamment :
 
-1° Le montant du capital des établissements de crédit et les conditions dans lesquelles des participations peuvent être prises ou étendues dans ces établissements ;
+1° Le montant du capital des établissements de crédit et les conditions dans lesquelles des participations directes ou indirectes peuvent être prises, étendues ou cédées dans ces établissements ainsi que dans les établissements financiers, tels que définis à l'article 71-1 de la présente loi, détenant directement ou indirectement un pouvoir de contrôle effectif sur un ou plusieurs établissements de crédit ;
 
 2° Les conditions d'implantation des réseaux ;
 

@@ -10,4 +10,6 @@ Les banques mutualistes ou coopératives, les caisses d'épargne et de prévoyan
 
 Les sociétés financières ne peuvent effectuer que les opérations de banque résultant soit de la décision d'agrément qui les concerne, soit des dispositions législatives et réglementaires qui leur sont propres.
 
+Les maisons de titres sont des sociétés financières qui ont pour activité principale de gérer, pour le compte de leur clientèle, des portefeuilles de valeurs mobilières en recevant à cet effet des fonds assortis d'un mandat de gestion ou d'apporter leur concours au placement de valeurs mobilières en se portant ducroire.
+
 Les institutions financières spécialisées sont des établissements de crédit auxquels l'Etat a confié une mission permanente d'intérêt public. Elles ne peuvent effectuer d'autres opérations de banque que celles afférentes à cette mission, sauf à titre accessoire.
