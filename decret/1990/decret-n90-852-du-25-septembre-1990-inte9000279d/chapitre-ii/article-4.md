@@ -8,8 +8,6 @@ Sont inscrits sur la liste d'aptitude prévue au 1 de l'article 3 les candidats,
 
 " Lorsque le nombre de postes à pourvoir n'est pas un multiple de trois, le poste supplémentaire est attribué au concours interne.
 
-" Nul ne peut participer plus de trois fois à l'un ou l'autre de ces concours.
-
 " Lorsque le nombre de candidats ayant subi avec succès les épreuves d'un concours est inférieur au nombre de places offertes à ce concours, le jury peut reporter 15 p. 100 au plus des places offertes à ce concours sur l'autre concours.
 
 " Les concours comprennent des épreuves d'admissibilité et des épreuves d'admission.

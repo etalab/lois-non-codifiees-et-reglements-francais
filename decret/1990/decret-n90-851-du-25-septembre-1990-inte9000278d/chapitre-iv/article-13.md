@@ -6,11 +6,11 @@ ADJUDANT :
 
 GRADES ET ECHELONS : 6ème échelon.
 
-INDICES bruts : 474 (1).
+INDICES bruts : 499 (1).
 
 GRADES ET ECHELONS : 5ème échelon.
 
-INDICES bruts : 453.
+INDICES bruts : 469.
 
 DUREES
 
@@ -20,7 +20,7 @@ Minimale : 3 ans.
 
 GRADES ET ECHELONS : 4ème échelon.
 
-INDICES bruts : 430.
+INDICES bruts : 440.
 
 DUREES
 
@@ -30,7 +30,7 @@ Minimale : 2 ans 3 mois.
 
 GRADES ET ECHELONS : 3ème échelon.
 
-INDICES bruts : 395.
+INDICES bruts : 410.
 
 DUREES
 
@@ -40,7 +40,7 @@ Minimale : 2 ans 3 mois.
 
 GRADES ET ECHELONS : 2ème échelon.
 
-INDICES bruts : 377.
+INDICES bruts : 387.
 
 DUREES
 
@@ -62,11 +62,11 @@ SERGENT :
 
 GRADES ET ECHELONS : 5ème échelon.
 
-INDICES bruts : 438.
+INDICES bruts : 449.
 
 GRADES ET ECHELONS : 4ème échelon.
 
-INDICES bruts : 406.
+INDICES bruts : 427.
 
 DUREES
 
@@ -76,7 +76,7 @@ Minimale : 2 ans 9 mois.
 
 GRADES ET ECHELONS : 3ème échelon.
 
-INDICES bruts : 388.
+INDICES bruts : 396.
 
 DUREES
 
@@ -86,7 +86,7 @@ Minimale : 2 ans 9 mois.
 
 GRADES ET ECHELONS : 2ème échelon.
 
-INDICES bruts : 372.
+INDICES bruts : 379.
 
 DUREES
 

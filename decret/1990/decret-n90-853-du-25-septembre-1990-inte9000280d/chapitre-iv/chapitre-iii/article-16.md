@@ -262,31 +262,34 @@ L'échelonnement indiciaire et les durées maximale et minimale du temps passé 
 <td> :-----:------:----------------:</td>
 </tr>
 <tr>
-<td> :  9  :  701 :                :</td>
+<td> : 10e :  750 :                :</td>
 </tr>
 <tr>
-<td> :  8  :  659 :  4 ans         :</td>
+<td> :  9  :  710 :  4 ans         :</td>
 </tr>
 <tr>
-<td> :  7  :  612 :  4 ans         :</td>
+<td> :  8  :  668 :  4 ans         :</td>
 </tr>
 <tr>
-<td> :  6  :  579 :  3 ans 6 mois  :</td>
+<td> :  7  :  621 :  4 ans         :</td>
 </tr>
 <tr>
-<td> :  5  :  528 :  3 ans 6 mois  :</td>
+<td> :  6  :  588 :  3 ans 6 mois  :</td>
 </tr>
 <tr>
-<td> :  4  :  482 :  3 ans         :</td>
+<td> :  5  :  540 :  3 ans 6 mois  :</td>
 </tr>
 <tr>
-<td> :  3  :  448 :  2 ans 6 mois  :</td>
+<td> :  4  :  492 :  3 ans         :</td>
 </tr>
 <tr>
-<td> :  2  :  420 :  1 an          :</td>
+<td> :  3  :  458 :  2 ans 6 mois  :</td>
 </tr>
 <tr>
-<td> :  1  :  379 :  1 an 6 mois   :</td>
+<td> :  2  :  430 :  1 an          :</td>
+</tr>
+<tr>
+<td> : 1er :  379 :  1 an 6 mois   :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -304,31 +307,34 @@ L'échelonnement indiciaire et les durées maximale et minimale du temps passé 
 <td> :-----:------:----------------:</td>
 </tr>
 <tr>
-<td> :  9  :  701 :                :</td>
+<td> : 10e :  750 :                :</td>
 </tr>
 <tr>
-<td> :  8  :  659 :  3 ans         :</td>
+<td> :  9  :  710 :  3 ans         :</td>
 </tr>
 <tr>
-<td> :  7  :  612 :  3 ans         :</td>
+<td> :  8  :  668 :  3 ans         :</td>
+</tr>
+<tr>
+<td> :  7  :  621 :  3 ans         :</td>
 </tr>
 </table>
 
 <table>
 <tr>
-<td>:  6  :  579 :  2 ans 9 mois  :</td>
+<td>:  6  :  588 :  2 ans 9 mois  :</td>
 </tr>
 <tr>
-<td> :  5  :  528 :  2 ans 9 mois  :</td>
+<td> :  5  :  540 :  2 ans 9 mois  :</td>
 </tr>
 <tr>
-<td> :  4  :  482 :  2 ans 3 mois  :</td>
+<td> :  4  :  492 :  2 ans 3 mois  :</td>
 </tr>
 <tr>
-<td> :  3  :  448 :  2 ans         :</td>
+<td> :  3  :  458 :  2 ans         :</td>
 </tr>
 <tr>
-<td> :  2  :  420 :  1 an          :</td>
+<td> :  2  :  430 :  1 an          :</td>
 </tr>
 <tr>
 <td> :  1  :  379 :  1 an 6 mois   :</td>
