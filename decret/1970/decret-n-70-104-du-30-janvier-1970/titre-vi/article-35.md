@@ -1,3 +1,5 @@
 # Article 35
 
-Le 15 mars de chaque année, au plus tard, les sociétés d'assurances sur la vie adressent au ministre de l'économie un état récapitulatif certifié faisant apparaître le montant des majorations payées au cours de l'année précédente ainsi que le montant des avances nécessaires à la liquidation des majorations de l'année en cours.
+Le décret n° 53-830 du 15 septembre 1953, modifié par les décrets n° 54-999 du 4 octobre 1954, n° 58-856 du 16 septembre 1958, n° 60-81 du 12 janvier 1960 et n° 62-332 du 19 mars 1962, est abrogé.
+
+Demeurent abrogés les décrets et arrêtés visés à l'article 14 du décret du 12 janvier 1960.
