@@ -6,6 +6,8 @@ Les personnels visés aux articles 2 et 3 perçoivent des émoluments qui compor
 
 A. - Le traitement brut soumis à retenue pour pension correspondant à l'indice hiérarchique que les agents détiennent dans leur corps d'origine ; pour les personnels relevant des décrets du 26 janvier 1983 et du 11 avril 1988 précités, l'indice d'échelon dans le grade est complété par la bonification indiciaire soumise à retenue pour pension attachée à la catégorie de l'établissement d'affectation déterminée par arrêté du ministre chargé du budget et, selon le cas, du ministre des affaires étrangères ou du ministre de la coopération et du développement ;
 
+la coopération et du développement ;
+
 B.  L'indemnité prévue par le décret n° 93-55 du 15 janvier 1993 instituant une indemnité de suivi et d'orientation des élèves en faveur des personnels enseignants du second degré ;
 
 C. - Les indemnités et avantages statutaires prévus par la réglementation en vigueur dans les établissements relevant en France du ministère de l'éducation nationale dont un arrêté du ministre chargé du budget et, selon le cas, du ministre des affaires étrangères ou du ministre de la coopération et du développement a prévu l'application à l'étranger.
@@ -14,21 +16,35 @@ D. - Aux éléments ci-dessus, s'ajoutent :
 
 a) Pour les personnels expatriés :
 
-- une indemnité mensuelle d'expatriation dont le montant est fixé, par pays et par groupe, par arrêté du ministre chargé du budget, du ministre des affaires étrangères et, selon le cas, du ministre de la coopération et du développement ;
+une indemnité mensuelle d'expatriation dont le montant annuel est fixé, pour chaque pays et par groupe, par arrêté conjoint du ministre chargé du budget, du ministre des affaires étrangères et du ministre chargé de la coopération.
 
-La répartition par pays et par groupe des agents expatriés fait l'objet d'un arrêté du ministre chargé du budget, du ministre des affaires étrangères et, selon le cas, du ministre de la coopération et du développement ;
+Le montant de l'indemnité d'expatriation varie en fonction de la durée des services continus dans une même localité d'affectation ; ce montant est réduit :
 
-- le cas échéant, des majorations familiales pour enfants à charge, attribuées au lieu et place des avantages familiaux accordés aux personnels en service en France.
+au-delà de  6 années révolues, de 25 p. 100 ;
 
-Leur montant est obtenu par application d'un coefficient au montant du traitement brut soumis à retenue pour pension afférent à l'indice hiérarchique 100. Il est majoré de 25 p. 100 pour les enfants âgés de dix à quinze ans et de 50 p. 100 pour les enfants âgés de plus de quinze ans.
+au-delà de  9 années révolues, de 55 p. 100 ;
 
-Un arrêté conjoint du ministre de l'économie, des finances et du budget, du ministre des affaires étrangères et, selon le cas, du ministre de la coopération et du développement fixe, pour chaque pays, le coefficient applicable pour chaque enfant à charge.
+au-delà de 12 années révolues, de 85 p. 100.
 
-Les majorations familiales sont attribuées, quels que soient le lieu de résidence des enfants et le sexe de l'agent, après déduction des avantages de même nature éventuellement perçus par l'agent ou par son conjoint au titre des mêmes enfants.
+Les taux d'ajustement de l'indemnité d'expatriation, pour tenir compte notamment des variations des changes et du coût de la vie à l'étranger, sont fixés par arrêté conjoint du ministre chargé du budget, du ministre des affaires étrangères et du ministre chargé de la coopération.
 
-La limite d'âge des enfants à charge est fixée à seize ans révolus ; elle est reculée à dix-huit ans révolus si l'enfant est placé en apprentissage et à vingt et un ans révolus si l'enfant poursuit ses études. La limite d'âge est supprimée lorsque l'enfant est atteint d'une infirmité permanente le mettant dans l'impossibilité d'exercer une activité professionnelle.
+La répartition par pays et par groupe des agents expatriés fait l'objet d'un arrêté conjoint du ministre chargé du budget, du ministre des affaires étrangères et du ministre chargé de la coopération :
 
-Sont considérés comme ouvrant droit aux majorations familiales au sens du présent article, les enfants dont la charge est assumée dans les conditions prévues par les articles L. 513-1 et L. 521-2 du code de la sécurité sociale, lesdites majorations pouvant être versées éventuellement à une tierce personne physique ou morale dans les conditions prévues par l'article L. 552-6 ou l'article L. 551 du code précité.
+le cas échéant, des majorations familiales pour enfants à charge, attribuées en lieu et place des avantages familiaux accordés aux personnels en service en France. Leur montant est obtenu par application d'un coefficient au montant du traitement brut soumis à retenue pour pension afférent à l'indice brut 585. Il est majoré de 25 p. 100 pour les enfants âgés de dix à quinze ans et de 50 p. 100 pour les enfants âgés de plus de quinze ans. Le montant des majorations familiales varie en fonction de la durée des services continus dans une même localité d'affectation. Ce montant est réduit :
+
+au-delà de  6 années révolues, de 20 p. 100 ;
+
+au-delà de  9 années révolues, de 30 p. 100 ;
+
+au-delà de 12 années révolues, de 50 p. 100.
+
+Un arrêté conjoint du ministre chargé du budget, du ministre des affaires étrangères et du ministre chargé de la coopération fixe, pour chaque pays, le coefficient applicable pour chaque enfant à charge.
+
+Les majorations familiales sont attribuées, quel que soit le lieu de résidence des enfants, déduction faite des avantages de même nature dont peut bénéficier l'agent ou son conjoint au titre des mêmes enfants et qui sont dus au titre de la législation ou de la réglementation française ou de tout accord communautaire ou international.
+
+La limite d'âge des enfants à charge est fixée à seize ans révolus ; elle est reculée à dix-huit ans révolus si l'enfant est placé en apprentissage ou en stage de formation professionnelle et à vingt et un ans révolus si l'enfant poursuit ses études. La limite d'âge est supprimée lorsque l'enfant est atteint d'une infirmité permanente d'au moins 80 p. 100 dûment constatée avant vingt et un ans révolus, le mettant dans l'impossibilité d'exercer une activité professionnelle et qu'il ne peut pas bénéficier au titre de la législation de l'Etat de résidence d'une allocation pour ce handicap.
+
+La notion d'enfant à charge s'apprécie selon les critères retenus en France pour l'attribution des prestations familiales par les articles L. 513-1 et L. 521-2 du code de la sécurité sociale. Les majorations familiales peuvent éventuellement être versées à une tierce personne physique ou morale dans les conditions prévues par l'article L. 552-6 du code de la sécurité sociale.
 
 Les majorations familiales tiennent compte des changements intervenus dans la situation de l'agent dès le premier jour du mois suivant.
 
