@@ -264,7 +264,6 @@
 - [Décret n°83-1262 du 30 décembre 1983](decret-n83-1262-du-30-decembre-1983)
 - [Décret n°83-1263 du 30 décembre 1983](decret-n83-1263-du-30-decembre-1983)
 - [Décret n°84-1051 du 30 novembre 1984](decret-n84-1051-du-30-novembre-1984)
-- [Décret n°84-69 du 30 janvier 1984](decret-n84-69-du-30-janvier-1984)
 - [Décret n°84-71 du 30 janvier 1984](decret-n84-71-du-30-janvier-1984)
 - [Décret n°84-72 du 30 janvier 1984](decret-n84-72-du-30-janvier-1984)
 - [Décret n°84-810 du 30 août 1984](decret-n84-810-du-30-aout-1984)
