@@ -1,12 +1,12 @@
 # Article 3
 
-Le centre national de pharmacovigilance [*attributions*] a pour but de rassembler et centraliser les informations sur les effets adverses ou imprévus des médicaments qui lui sont communiqués par :
+Le centre national de pharmacovigilance a pour but de rassembler et centraliser les informations sur les effets adverses ou imprévus des médicaments qui lui sont communiqués par :
 
 Les autorités sanitaires ;
 
-Les ordres des médecins, pharmaciens, chirurgiens-dentistes et       sages-femmes ;
+Les ordres des médecins, pharmaciens, chirurgiens-dentistes et sages-femmes ;
 
-Les centres anti-poisons ;
+Les centres antipoisons ;
 
 Les fabricants de produits pharmaceutiques ;
 

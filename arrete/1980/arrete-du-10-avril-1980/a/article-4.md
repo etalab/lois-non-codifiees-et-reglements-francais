@@ -8,7 +8,7 @@ Le président du conseil national de l'ordre des médecins ;
 
 Le président du conseil national de l'ordre des pharmaciens ;
 
-Un représentant du groupement des centres de lutte contre les       intoxications ;
+Un représentant du groupement des centres de lutte contre les intoxications ;
 
 Le président du syndicat national de l'industrie pharmaceutique.
 

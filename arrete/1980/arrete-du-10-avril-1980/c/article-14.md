@@ -16,7 +16,7 @@ Le chef de la division Organisation et méthodes informatiques du ministère cha
 
 Deux membres de la commission de pharmacovigilance désignés par celle-ci ;
 
-Deux membres de la commission de toxicovigilance désignés par celle-ci ;
+Deux membres de la commission de toxicovigilance désignés par celle-ci.
 
 La présidence est assurée alternativement par le directeur général de la santé et le directeur de la pharmacie et du médicament.
 

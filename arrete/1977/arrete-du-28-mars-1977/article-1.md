@@ -1,5 +1,5 @@
 # Article 1
 
-Les agents titulaires qui suivent les actions de formation professionnelle mentionnées au titre Ier du décret susvisé du 16 juin 1975 perçoivent, pendant la durée totale de ces actions, sur la base des taux afférents à leur emploi, leur rémunération principale.
+Le taux de la taxe prévue à l'article 3 du décret susvisé est fixé jusqu'au 31 décembre 1980 [*date limite*] à 0,95 p. 100 dont 0,70 p. 100 affecté au comité professionnel interrégional de l'horlogerie et 0,25 p. 100 affecté au centre technique de l'industrie horlogère.
 
-Ils peuvent également, dans les mêmes conditions, percevoir la prime de service et éventuellement les indemnités liées à la technicité et à la responsabilité, les indemnités d'habillement, les indemnités liées aux conditions d'exécution des travaux hormis les indemnités de nuit, de mission, de tournée et d'intérim et enfin les indemnités rémunérant des risques, des travaux supplémentaires et des sujétions administratifs.
+(1) Ancien intitulé du titre de l'arrêté : Taux et modalités d'utilisation de la taxe parafiscale instituée au profit de l'association dite Comité professionnel interrégional de l'horlogerie et du centre technique de l'industrie horlogère.
