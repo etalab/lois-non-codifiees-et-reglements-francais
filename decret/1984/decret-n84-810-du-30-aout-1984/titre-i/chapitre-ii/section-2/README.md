@@ -1,4 +1,4 @@
-# Section 2 : Commissions de visite - Visites.
+# Section 2 : Visites.
 
 - [Article 26](article-26.md)
 - [Article 27](article-27.md)

@@ -8,10 +8,6 @@ I. - Les titres de sécurité et de prévention de la pollution peuvent, sur la 
 
 II. - Les titres et certificats sont délivrés ou renouvelés dans les mêmes conditions que pour les navires français.
 
-III. - La composition des commissions constituées pour la délivrance ou le renouvellement des titres de sécurité à un navire étranger est la même que celle des commissions constituées en ce qui concerne les navires français. Toutefois, s'il s'agit d'un certificat de sécurité radiotélégraphique ou radiotéléphonique pour un navire de charge, la commission est composée :
+III. - La composition des commissions constituées pour la délivrance ou le renouvellement des titres de sécurité à un navire étranger est déterminée dans les mêmes conditions que pour les navires français. Toutefois, s'il s'agit d'un certificat de sécurité radiotélégraphique ou radiotéléphonique, la commission est composée du président et d'un expert en matière de radioélectricité.
 
-a) D'un inspecteur de la sécurité des navires et du travail maritime, président ;
-
-b) D'un fonctionnaire de l'administration des postes et télécommunications chargé du contrôle des installations radio-électriques.
-
-Les membres de ces commissions sont nommés par le chef du quartier des affaires maritimes ou son délégué.
+Les membres de ces commissions sont désignés par le chef du centre de sécurité des navires.

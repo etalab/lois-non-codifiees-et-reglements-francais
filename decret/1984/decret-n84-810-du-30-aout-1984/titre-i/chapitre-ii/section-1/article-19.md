@@ -1,8 +1,8 @@
 # Article 19
 
-La commission nationale de sécurité de la navigation de plaisance ne peut délibérer que si la moitié au moins des membres sont présents.
+La Commission nationale de sécurité de la navigation de plaisance ne peut délibérer que si la moitié de ses membres ou de leurs suppléants sont présents.
 
-La commission se prononce à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
+Ses avis sont pris à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
 
 Avant d'émettre un avis, la commission peut faire procéder, par un ou plusieurs de ses membres, ou par une commission régionale de sécurité ou une commission locale d'essais, ou par un centre de sécurité des navires, ou par telle personne ou tel organisme qu'elle désigne à cet effet, à tous examens, études, enquêtes et expertises qu'elle juge nécessaires.
 

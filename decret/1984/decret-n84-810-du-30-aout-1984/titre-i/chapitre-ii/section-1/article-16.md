@@ -2,7 +2,7 @@
 
 La commission centrale de sécurité ne peut délibérer que si la moitié au moins des membres énumérés aux I et II de l'article 15 ou leurs suppléants sont présents.
 
-Ses avis sont pris à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
+Ses avis sont pris à la majorité des voix. Ne peuvent prendre part au vote que les membres énumérés au I et au II de l'article 15. En cas de partage égal des voix, celle du président est prépondérante.
 
 Avant d'émettre un avis, la commission centrale de sécurité peut faire procéder, par un ou plusieurs de ses membres ou par une commission régionale de sécurité ou locale d'essais, ou par telle personne ou tel organisme qu'elle désigne à cet effet, à tous examens, études, enquêtes et expertises qu'elle juge utiles.
 

@@ -2,7 +2,7 @@
 
 Recours devant le directeur régional des affaires maritimes.
 
-I. - Peuvent être portés devant le directeur régional des affaires maritimes, dans un délai de quinze jours francs à compter de leur notification, les recours contre les décisions prises par les présidents des commissions de visite et les décisions prises par les chefs de quartier statuant en application de l'article 33 pour les commissions de contre-visite lorsqu'elles concernent des navires d'une jauge brute inférieure à 500 tonneaux.
+I. - Peuvent être portés devant le directeur régional des affaires maritimes, dans un délai de quinze jours francs à compter de leur notification, les recours contre les décisions prises par les présidents des commissions de visite et les décisions prises par les chefs de centre de sécurité des navires statuant en application de l'article 33 pour les commissions de contre-visite lorsqu'elles concernent des navires, autres que de plaisance, entrant dans le champ des attributions des commissions régionales de sécurité en application de l'article 20 ou des centres de sécurité en application de l'article 25-1.
 
 II. - Sont admis à saisir le directeur régional des affaires maritimes :
 

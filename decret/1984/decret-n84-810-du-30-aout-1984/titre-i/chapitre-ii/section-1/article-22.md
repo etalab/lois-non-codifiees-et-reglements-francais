@@ -1,6 +1,6 @@
 # Article 22
 
-La commission régionale de sécurité ne peut délibérer que si la moitié au moins des membres énumérés aux I et II de l'article 21 sont présents. Ses avis sont pris à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante.
+La commission régionale de sécurité ne peut délibérer que si la moitié au moins des membres énumérés aux I et II de l'article 21 sont présents. Ses avis sont pris à la majorité des voix. Ne peuvent prendre part au vote que les membres énumérés aux I et II de l'article 21. En cas de partage égal des voix, celle du président est prépondérante.
 
 Avant d'émettre un avis, les commissions régionales de sécurité peuvent faire procéder par un ou plusieurs de leurs membres ou par une commission locale d'essais ou par telle personne ou tel organisme qu'elles désignent à cet effet à tous examens, études, enquêtes, et expertises qu'elles jugent nécessaires.
 

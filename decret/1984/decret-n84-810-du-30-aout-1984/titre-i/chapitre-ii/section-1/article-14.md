@@ -2,13 +2,25 @@
 
 La commission centrale de sécurité est placée auprès du ministre chargé de la marine marchande.
 
-I. - Elle examine, en vue de leur approbation par le ministre, les plans et documents :
+I. - Elle examine :
 
-1. Des navires à passagers d'une jauge brute égale ou supérieure à 500 tonneaux, ou dont la capacité passagère excède deux cents passagers, ou qui sont destinés à effectuer des voyages internationaux, et des navires autres que les navires à passagers, d'une jauge brute égale ou supérieure à 500 tonneaux et destinés à effectuer des voyages internationaux ou des voyages nationaux de 1ère et 2ème catégories ;
+1. Préalablement à la délivrance des titres et certificats de sécurité et de prévention de la pollution, les plans et documents :
 
-2. Des mêmes navires en cas de mise en refonte, de travaux importants ou de réparations intéressant la sécurité ou la prévention de la pollution ;
+1.1. De tout navire à passagers d'une jauge brute égale ou supérieure à 500 ou destiné à effectuer soit des voyages internationaux, soit des voyages nationaux à plus de vingt milles ;
 
-3. Des appareils ou engins de sécurité et de prévention de la pollution ainsi que de toute installation, tout dispositif, appareil ou matériel destinés aux navires autres que les navires de plaisance, dont l'approbation est requise.
+1.2. De tout navire de charge d'une jauge brute égale ou supérieure à 500 et destiné à effectuer soit des voyages internationaux, soit des voyages nationaux à plus de vingt milles ;
+
+1.3. De tout navire de pêche d'une longueur égale ou supérieure à 45 mètres ;
+
+1.4. De tout navire sous-marin ;
+
+1.5. Des mêmes navires en cas de mise en refonte, de travaux importants, de modifications ou de réparations susceptibles d'affecter le niveau de sécurité ou de prévention de la pollution.
+
+2. En vue de leur approbation par le ministre :
+
+2.1. Tout document nécessaire aux navires mentionnés ci-dessus, qui doit être approuvé en application des conventions internationales ou des prescriptions du présent décret ou des arrêtés pris pour son application ;
+
+2.2. Le dossier technique de tout équipement marin.
 
 II. - La commission centrale de sécurité est consultée par le ministre sur toute question relative à la sauvegarde de la vie humaine en mer, à l'habitabilité des navires et à la prévention de la pollution par les navires, et généralement sur toute question relative à l'application du présent décret.
 

@@ -2,8 +2,6 @@
 
 Coûts - Imputation.
 
-Le coût des études, expertises, analyses et essais exigés par l'autorité compétente dans le cadre de l'approbation des plans et documents d'un navire, de la délivrance ou du maintien des titres de sécurité et de prévention de la pollution d'un navire français ou étranger est à la charge des propriétaires de navires.
+I. - Le coût des études, expertises, analyses, essais, épreuves, inspections et visites, exigés par l'autorité compétente dans le cadre des procédures nécessaires à l'examen des plans et documents d'un navire, de la délivrance ou du maintien des titres et des certificats de sécurité ou de prévention de la pollution d'un navire français ou étranger, de l'approbation d'un modèle de navire de plaisance, de l'approbation, de l'agrément, de l'autorisation ou de l'acceptation d'équipements marins, des procédures de sauvegarde ou de contrôle concernant les équipements marins et navires de plaisance bénéficiant de la marque européenne de conformité sont à la charge du demandeur.
 
-Le coût des études, expertises, analyses et essais exigés par l'autorité compétente dans le cadre de l'approbation des modèles de navires de plaisance, de l'agrément, de l'autorisation ou de l'acceptation des installations, appareils, dispositifs ou matériaux des navires de plaisance est à la charge des constructeurs, des fabricants ou autres personnes intéressées.
-
-Lorsque, à la demande de l'armateur, les membres des commissions de visite se déplacent à l'extérieur de la circonscription de ces dernières, les frais afférents à ces déplacements sont à la charge de l'armateur.
+II. - Lorsque, à la demande de l'armateur, du constructeur, du fabricant ou de l'importateur, les membres d'une commission de visite se déplacent, les frais afférents à ces déplacements sont à la charge du demandeur.

@@ -1,71 +1,39 @@
 # Article 26
 
-I. - Une commission de visite de mise en service siège dans chacun des ports désignés par le ministre chargé de la marine marchande. Elle examine, lorsqu'un navire doit être mis en service sous pavillon français, s'il répond aux exigences du présent décret. Elle s'assure de la conformité du navire et de ses équipements aux plans et documents approuvés par l'autorité compétente.
+Commission de visite de mise en service.
 
-Les titres de sécurité et de prévention de la pollution sont délivrés par le président de la commission.
+Une commission de visite de mise en service est constituée dans chacun des centres de sécurité des navires. Elle siège dans chacun des ports de visite désignés par le directeur régional des affaires maritimes.
+
+I. - Lorsqu'un navire doit être mis en service sous pavillon français, la commission de visite de mise en service :
+
+a) Vérifie que toutes les prescriptions de l'autorité compétente, prises, s'il y a lieu, après avis de la commission d'étude, ont bien été suivies ;
+
+b) S'assure de la conformité et de la mise en place du matériel mobile de sécurité ;
+
+c) Constate, par le biais du rapport de visite de mise en service prévu à l'article 30, la situation du navire à ce moment ;
+
+d) S'assure de l'exécution des essais prévus par le règlement et de ceux prescrits par la commission d'étude.
 
 II. - Chaque commission de visite de mise en service comprend :
 
-1. Pour les navires d'une jauge brute égale ou supérieure à 500 tonneaux ;
+1. Des membres de droit, à savoir :
 
 a) Le chef du centre de sécurité des navires ou son délégué, président ;
 
-b) Deux inspecteurs de la sécurité des navires et du travail maritime ;
+b) Des inspecteurs de la sécurité des navires et du travail maritime dans les conditions ci-dessous :
 
-c) Le médecin des gens de mer ou un médecin de la marine marchande ;
+- pour les navires autres que de plaisance d'une longueur égale ou supérieure à 12 mètres et les navires de plaisance d'une longueur égale ou supérieure à 18 mètres : deux inspecteurs. Toutefois, pour la visite de mise en service d'un navire autre qu'un navire à passagers, ce nombre peut être ramené à un sur décision du chef de centre de sécurité ;
 
-d) Un fonctionnaire de l'administration des postes et télécommunications chargé du contrôle des installations radio-électriques lorsque le navire possède une installation radio-électrique ;
+- pour les autres navires : un inspecteur ;
 
-e) Un inspecteur des services de l'aviation civile lorsqu'un aéronef peut être embarqué ;
+c) Pour les navires munis d'une installation radioélectrique, un représentant de l'exploitant du réseau de radiocommunications maritime ;
 
-f) Un expert spécialisé en matière d'incendie lorsqu'il s'agit d'un navire à passagers ;
+d) Dans les conditions déterminées par le ministre chargé de la marine marchande, le médecin des gens de mer ou son délégué ;
 
-g) Un représentant des armateurs ;
+2. Des membres nommés qui sont, selon des modalités arrêtées par le ministre chargé de la marine marchande, des fonctionnaires spécialisés, des experts ou des personnalités choisis en raison de leur compétence et des représentants du personnel navigant.
 
-h) Un représentant des compagnies françaises d'assurance maritime ;
+III. - L'armateur, le propriétaire, le constructeur ou leur représentant et le ou les délégués de l'équipage sont admis à assister aux opérations de la commission et à présenter leurs observations.
 
-i) Un expert d'une société française de classification agréée. Lorsque l'expert de la société de classification n'appartient pas à celle qui a classé le navire, un représentant de la société de classification au registre de laquelle le navire est inscrit, est admis, à titre consultatif, à faire partie de la commission ;
+IV. - Pour chaque visite, la composition de la commission est déterminée par le chef du centre de sécurité des navires.
 
-j) Des représentants du personnel navigant comprenant :
-
-- un officier de la marine marchande titulaire d'un brevet de commandement ;
-
-- un officier de la marine marchande titulaire d'un brevet permettant d'exercer les fonctions de chef mécanicien ou de chef de service ;
-
-- un officier radio-électronicien de la marine marchande ;
-
-- un marin professionnel non officier.
-
-Eventuellement, en fonction des caractéristiques du navire, un ingénieur spécialiste, de nationalité française, désigné par décision du directeur régional des affaires maritimes.
-
-2. Pour les navires d'une jauge brute inférieure à 500 tonneaux et d'une longueur égale ou supérieure à douze mètres :
-
-a) Le chef du centre de sécurité des navires ou son délégué, président ;
-
-b) Deux inspecteurs de la sécurité des navires et du travail maritime dont un peut être remplacé par un contrôleur des affaires maritimes, branche technique ;
-
-c) Le médecin des gens de mer ou un médecin de la marine marchande ;
-
-d) Un fonctionnaire de l'administration des postes et télécommunications chargé du contrôle des installations radio-électriques lorsque le navire possède une installation radio-électrique ;
-
-e) Un inspecteur des services de l'aviation civile, lorsque le navire peut embarquer un aéronef.
-
-La composition comprend en outre, à titre facultatif :
-
-a) Un représentant des armateurs ;
-
-b) Un expert d'une société française de classification agréée ;
-
-c) Des représentants du personnel navigant comprenant :
-
-- un officier de la marine marchande titulaire d'un brevet de commandement ;
-
-- un marin professionnel non officier.
-
-3. Pour les navires d'une longueur inférieure à douze mètres :
-
-Un inspecteur de la sécurité des navires et du travail maritime ou un contrôleur des affaires maritimes, branche technique, ou si ceux-ci sont empêchés, un syndic des gens de mer assisté, le cas échéant, par un fonctionnaire de l'administration des postes et télécommunications chargé du contrôle des installations radioélectriques lorsque le navire possède des installations radioélectriques.
-
-III. - Les membres de la commission de visite de mise en service sont désignés par le chef du quartier des affaires maritimes ou son délégué.
-
-L'armateur du navire, le propriétaire du navire, le constructeur ou leur représentant, et le ou les délégués de l'équipage sont admis à suivre les opérations de la commission et à présenter leurs observations.
+V. - Le président statue après avis de la commission pris à la majorité des voix. En cas de partage égal des voix, celle du président est prépondérante. Le président délivre les titres et certificats de sécurité et de prévention de la pollution.

@@ -1,0 +1,5 @@
+# Article 1
+
+Les fonctionnaires ou agents publics de l'Etat et de ses établissements publics régis par les dispositions applicables aux corps et emplois figurant sur la liste annexée au présent décret et qui ont directement participé, soit lors de l'exécution de missions de création ou de découverte correspondant à leurs fonctions effectives, soit à l'occasion d'études et de recherches qui leur avaient été explicitement confiées, à la création d'un logiciel, à la création ou à la découverte d'une obtention végétale relevant du régime de protection institué par les dispositions du chapitre III du titre II du livre VI du code de la propriété intellectuelle ou à des travaux valorisés bénéficient d'une prime d'intéressement aux produits tirés, par la personne publique, de ces créations, découvertes et travaux.
+
+Lorsque la personne publique décide de ne pas procéder à la valorisation de la création, de la découverte ou des travaux, les agents mentionnés à l'alinéa précédent peuvent en disposer librement, dans les conditions prévues par une convention conclue avec ladite personne publique.

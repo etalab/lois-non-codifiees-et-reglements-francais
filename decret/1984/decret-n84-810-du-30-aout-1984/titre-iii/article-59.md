@@ -1,3 +1,3 @@
 # Article 59
 
-Sera punie de l'amende prévue pour les contraventions de 5ème classe toute personne qui aura sciemment fourni des renseignements inexacts à l'occasion des procédures instituées aux articles 14 à 22, 26 à 28, 33 à 35, 40 et 41 du présent décret.
+Le fait pour toute personne de fournir sciemment des renseignements inexacts à l'occasion des procédures d'étude ou de visite instituées au titre Ier du présent décret est puni des peines prévues pour les contraventions de la 5e classe.

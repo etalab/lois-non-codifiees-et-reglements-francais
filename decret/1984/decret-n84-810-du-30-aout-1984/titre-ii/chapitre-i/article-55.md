@@ -4,15 +4,17 @@ Cas particuliers.
 
 I. - Navire existant ou en construction.
 
-L'autorité compétente pour l'approbation des plans et documents peut accorder, à la demande de l'armateur ou de son représentant, des dérogations aux dispositions du présent décret ou des arrêtés prévus à l'article 54, pour les navires existants ou en construction à la date de publication de ces arrêtés, dont les installations ne sont pas conformes à ces dispositions.
+L'autorité compétente pour autoriser la délivrance des titres de sécurité peut accorder, à la demande de l'armateur ou de son représentant, des dérogations aux dispositions du présent décret ou des arrêtés prévus à l'article 54, pour les navires existants ou en construction à la date de publication de ces arrêtés, dont les installations ne sont pas conformes à ces dispositions.
 
 L'autorité compétente peut alors imposer des mesures tendant à obtenir une sécurité équivalente.
 
-II. - Navire refondu, réparé ou transformé. Toute refonte, réparation, modification ou transformation substantielle d'un navire intervenue postérieurement à la date d'entrée en vigueur des arrêtés prévus par l'article précédent doit faire l'objet d'une déclaration de l'armateur à l'autorité compétente pour l'approbation des plans et documents d'un navire en construction. Celle-ci peut exiger que soient appliquées aux parties refondues ou réparées, modifiées ou transformées substantiellement ainsi qu'aux emménagements qui en résultent les dispositions du présent décret et des arrêtés pris pour son application.
+II. - Navire refondu, réparé ou transformé.
+
+Toute refonte, réparation, modification ou transformation substantielle d'un navire intervenue postérieurement à la date d'entrée en vigueur des arrêtés prévus par l'article précédent doit faire l'objet d'une déclaration de l'armateur à l'autorité compétente pour autoriser la délivrance des titres de sécurité d'un navire en construction. Celle-ci peut exiger que soient appliquées aux parties refondues ou réparées, modifiées ou transformées substantiellement ainsi qu'aux emménagements qui en résultent les dispositions du présent décret et des arrêtés pris pour son application.
 
 III. - Navire d'un type particulier. Exemption.
 
-L'autorité compétente pour l'approbation des plans et documents peut dispenser de certaines dispositions des arrêtés prévus à l'article 54 les navires dont la conception, l'affectation ou les conditions d'exploitation justifient des dispositions particulières.
+L'autorité compétente pour autoriser la délivrance des titres de sécurité peut dispenser de certaines dispositions des arrêtés prévus à l'article 54 les navires dont la conception, l'affectation ou les conditions d'exploitation justifient des dispositions particulières.
 
 L'autorité compétente peut disposer à titre temporaire de certaines dispositions des arrêtés prévus à l'article 54 les navires qui effectuent un voyage isolé ne correspondant pas à leur catégorie de navigation habituelle, sous réserve de l'application de toutes dispositions complémentaires jugées utiles pour assurer la sécurité au cours du voyage envisagé.
 
@@ -24,4 +26,4 @@ Lorsque, dans le présent décret, ou dans les textes pris pour son application,
 
 V. - Réglementation.
 
-L'autorité compétente pour l'approbation des plans et documents peut faire application, en tant que de besoin, des règles et usages des sociétés de classification agréées ainsi que toute autre disposition pertinente, après avis de la commission de sécurité compétente.
+L'autorité compétente pour autoriser la délivrance des titres de sécurité peut faire application, en tant que de besoin, des règles et usages des sociétés de classification reconnues ainsi que toute autre disposition pertinente, après avis de la commission de sécurité compétente.

@@ -1,0 +1,5 @@
+# Article 3
+
+La répartition des dépenses de ce budget est effectuée, à hauteur de 193 000 000 F, entre les caisses départementales ou pluridépartementales de Mutualité sociale agricole, sous forme d'une dotation, calculée, pour la moitié, proportionnellement au nombre de bénéficiaires d'avantages de vieillesse agricole et, pour l'autre moitié, en fonction de l'effort accompli au regard de l'aide ménagère à domicile. Cette répartition entre les organismes est établie conformément à l'état annexé au présent arrêté (Annexe non reproduite voir JORF du 3 octobre 1996 p. 14583).
+
+Dans la limite de 27 000 000 F, les caisses départementales de Mutualité sociale agricole de l'Ain, la Charente, la Haute-Loire, la Haute-Garonne, la Haute-Vienne, l'Ille-et-Vilaine, l'Indre, la Moselle, l'Oise, la Savoie, le Val-d'Oise et l'Yonne recevront de la Caisse centrale de mutualité sociale agricole et au vu des dépenses engagées par lesdites caisses le remboursement de la prise en charge des prestations attribuées au titre des dispositifs prévus par la loi du 25 juillet 1994 susvisée.

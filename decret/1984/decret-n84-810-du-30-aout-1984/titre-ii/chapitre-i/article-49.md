@@ -1,6 +1,6 @@
 # Article 49
 
-Engins de sauvetage.
+Sauvetage.
 
 I. - Pour prendre la mer, un navire doit posséder les engins collectifs et individuels nécessaires pour le sauvetage de toutes les personnes présentes à bord.
 
@@ -19,3 +19,5 @@ A cet effet, les conditions suivantes doivent être remplies :
 III. - Tous les engins de sauvetage doivent être maintenus en bon état de service et prêts à être immédiatement utilisés avant que le navire ne quitte le port et à tout moment pendant le voyage.
 
 IV. - Des consignes concernant l'utilisation des matériels, l'évacuation et l'abandon du navire doivent être affichées à bord.
+
+V. - Avant le départ d'un navire à passagers, le capitaine porte à la connaissance de l'autorité compétente les éléments d'information nécessaires à la recherche et au sauvetage en mer concernant les passagers. Le ministre chargé de la marine marchande arrête la liste de ces éléments d'information en fonction des conditions d'exploitation des navires.

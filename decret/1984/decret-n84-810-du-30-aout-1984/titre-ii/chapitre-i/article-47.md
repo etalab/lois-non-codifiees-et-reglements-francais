@@ -10,6 +10,10 @@ a) Des informations et recommandations relatives aux routes et signaux ;
 
 b) D'appareils, instruments et documents nautiques ;
 
-c) De matériels d'armement et de rechange.
+c) De matériels d'armement et de rechange ;
 
-Le transport des marchandises dangereuses, des grains et des autres cargaisons présentant un risque spécial doit être effectué conformément aux règles particulières de sécurité qui lui sont applicables.
+d) Du matériel de signalisation pour prévenir les abordages en mer.
+
+L'usage de l'un quelconque des signaux de détresse prescrits par les conventions internationales est strictement réservé aux cas de détresse.
+
+Un arrêté du ministre chargé de la marine marchande fixe les règles particulières de sécurité applicables au transport des marchandises dangereuses et des cargaisons.

@@ -16,7 +16,7 @@ d) Le chef du bureau du contrôle des navires ou son représentant, ou, s'il s'a
 
 III. - Des membres nommés, à savoir :
 
-a) Deux inspecteurs de la sécurité des navires et du travail maritime en service à l'administration centrale de la marine marchande ;
+a) Deux inspecteurs de la sécurité des navires et du travail maritime ;
 
 b) Un technicien appartenant à une société française de classification agréée ;
 
