@@ -2,12 +2,10 @@
 
 L'aide prévue en faveur des commerçants et artisans à l'article 106 de la loi de finances pour 1982 susvisée est accordée sous la forme d'une indemnité de départ dans les conditions prévues au présent décret.
 
-Jusqu'au 1er avril 1983 pour les commerçants et artisans des départements d'outre-mer la durée d'affiliation requise est ramenée à dix ans.
+Pour pouvoir bénéficier de cette aide, la moyenne des ressources annuelles des demandeurs au cours des cinq dernières années précédant celle de la demande ne devra pas dépasser :
 
-Pour pouvoir bénéficier de cette aide, la moyenne des ressources annuelles des demandeurs au cours des cinq années précédant celle de la demande ne devra pas dépasser :
+- pour un isolé : 59 600 F dont 28 800 F au plus de ressources non professionnelles ;
 
-- pour un isolé : 45 500 F, dont 22 000 F de ressources non professionnelles ;
+- pour un ménage : 106 000 F dont 52 400 F au plus de ressources non professionnelles.
 
-- pour un ménage : 81 000 F, dont 40 000 F de ressources non professionnelles.
-
-Pour chacune des années prises en compte les ressources des demandeurs doivent être actualisées par application à leur montant réel des coefficients définis à l'article L. 663-3 (1°) du code de la sécurité sociale.
+Pour chacune des années prises en compte les ressources des demandeurs doivent être actualisées par application à leur montant réel des coefficients définis à l'article L. 634-5 du code de la sécurité sociale.
