@@ -27,3 +27,4 @@
 - [Décret n°74-1204 du 31 décembre 1974](decret-n74-1204-du-31-decembre-1974)
 - [Décret n°74-671 du 31 juillet 1974](decret-n74-671-du-31-juillet-1974)
 - [Décret n°74-676 du 31 juillet 1974](decret-n74-676-du-31-juillet-1974)
+- [Décret n°74-112](decret-n74-112)
