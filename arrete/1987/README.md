@@ -126,7 +126,6 @@
 - [Arrêté du 6 mars 1987](arrete-du-6-mars-1987)
 - [Arrêté du 6 mars 1987 (ASEE8703181A)](arrete-du-6-mars-1987-asee8703181a)
 - [Arrêté du 6 mars 1987 (ECOT8733002A)](arrete-du-6-mars-1987-ecot8733002a)
-- [Arrêté du 6 mars 1987 (RESS8700068A)](arrete-du-6-mars-1987-ress8700068a)
 - [Arrêté du 6 mars 1987 (TRSA8700087A)](arrete-du-6-mars-1987-trsa8700087a)
 - [Arrêté du 6 octobre 1986 (DEFC8701012A)](arrete-du-6-octobre-1986-defc8701012a)
 - [Arrêté du 6 octobre 1987 (RESP8700659A)](arrete-du-6-octobre-1987-resp8700659a)
