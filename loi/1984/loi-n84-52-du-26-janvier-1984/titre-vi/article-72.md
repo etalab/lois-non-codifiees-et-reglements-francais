@@ -1,5 +1,19 @@
 # Article 72
 
-L'établissement public à caractère scientifique, culturel et professionnel créé dans les territoires mentionnés à l'article précédent est une université constituée de deux centres respectivement implantés en Polynésie française et en Nouvelle-Calédonie et de services communs. Son président est un enseignant-chercheur de nationalité française. Il est nommé par arrêté du ministre chargé de l'enseignement supérieur. Son mandat est de cinq ans non renouvelable immédiatement. L'établissement est administré par un conseil d'administration, assisté d'un conseil d'orientation. Le conseil d'administration, qui comprend de trente à quarante membres répartis dans les conditions fixées à l'article 28 de la présente loi, exerce les compétences dévolues aux conseils institués par les articles 28, 30 et 31, au vu des orientations proposées par le conseil d'orientation en matière de formation et de recherche. Les centres universitaires sont dotés d'un conseil de centre et dirigés par un directeur nommé sur proposition de ce conseil. Le conseil de centre, dont l'effectif ne peut dépasser trente membres, est constitué dans les conditions fixées au deuxième alinéa de l'article 33 de la présente loi. Il exerce les compétences prévues au troisième alinéa du même article. Le directeur du centre peut, dans les cas déterminés par le conseil d'administration, conclure au nom de l'établissement les contrats et conventions afférents au centre universitaire. Il est ordonnateur secondaire des recettes et des dépenses. Chaque centre universitaire est doté d'un budget propre intégré au budget de l'établissement.
+Les universités créées en application de la présente loi en Nouvelle-Calédonie et en Polynésie française sont administrées par un conseil d'administration, assisté d'un conseil scientifique.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article et notamment les modalités de représentation des territoires au sein des conseils.
+Le conseil d'administration exerce les compétences dévolues aux conseils institués par les articles 28 et 31 de la présente loi. Il comprend au plus trente membres répartis dans les conditions fixées à l'article 28. Le haut-commissaire et le vice-recteur du territoire assistent aux séances du conseil d'administration. Le représentant du ministre chargé de l'outre-mer peut y assister en tant que de besoin.
+
+Le conseil scientifique, qui exerce les compétences prévues à l'article 30 de la présente loi, comprend de vingt à trente membres ainsi répartis :
+
+- de 60 à 70 % de représentants des personnels. Le nombre de sièges est attribué pour la moitié au moins aux professeurs et aux personnels qui sont habilités à diriger des recherches ;
+
+- de 10 à 20 % de représentants des étudiants de troisième cycle ;
+
+- de 20 à 30 % de personnalités extérieures.
+
+Les conseils des composantes de l'université prévus aux articles 32 et 33 de la présente loi comprennent au plus vingt membres répartis dans les conditions fixées par ces articles.
+
+Au sein des différents conseils de l'établissement peuvent siéger, au titre des personnalités extérieures, outre des personnalités désignées par ces conseils à titre personnel, des représentants des territoires, des activités économiques, des organismes et institutions scientifiques et culturels ainsi que des enseignants des établissements d'enseignement supérieur et de recherche de la zone Pacifique Sud.
+
+Les catégories de personnalités extérieures appelées à siéger dans les conseils ainsi que le nombre de sièges qui leur sont attribués sont déterminés par les statuts. Toutefois, dans les conseils d'administration siègent deux représentants du territoire et un représentant du territoire de Wallis-et-Futuna.
