@@ -4,4 +4,4 @@ A compter de la mise en application du présent régime, la cotisation est due �
 
 Seules peuvent être exemptées du versement de la cotisation les sages-femmes visées à l'article 9 ci-après.
 
-La cotisation est versée pour un tiers par la sage-femme et pour les deux tiers par les organismes d'assurance maladie.
+La cotisation est versée pour un tiers [*pourcentage*] par la sage-femme et pour les deux tiers par les organismes d'assurance maladie [*part salariale, part patronale*].
