@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Dispositions relatives aux opérations d'immersion.](chapitre-ier)
 - [Chapitre II : Dispositions relatives à la lutte contre la pollution marine accidentelle.](chapitre-ii)
+- [Chapitre III : Dispositions finales.](chapitre-iii)
