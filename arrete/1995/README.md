@@ -107,7 +107,6 @@
 - [Arrêté du 3 novembre 1995 (SPSS9503281A)](arrete-du-3-novembre-1995-spss9503281a)
 - [Arrêté du 3 octobre 1995 (ECOT9510248A)](arrete-du-3-octobre-1995-ecot9510248a)
 - [Arrêté du 3 octobre 1995 (SANH9503013A)](arrete-du-3-octobre-1995-sanh9503013a)
-- [Arrêté du 3 mai 1995 (ECOP9500043A)](arrete-du-3-mai-1995-ecop9500043a)
 - [Arrêté du 3 mai 1995 (ECOT9526138A)](arrete-du-3-mai-1995-ecot9526138a)
 - [Arrêté du 3 mai 1995 (EQUK9500903A)](arrete-du-3-mai-1995-equk9500903a)
 - [Arrêté du 3 mai 1995 (EQUK9500915A)](arrete-du-3-mai-1995-equk9500915a)
