@@ -19,3 +19,7 @@ Paris-Orly.
 Pointe-à-Pitre - Le Raizet.
 
 Toulouse-Blagnac.
+
+Montpellier-Frejorgues.
+
+Fort -de-France - Le Lamentin.

@@ -20,6 +20,8 @@ Caen-Carpiquet.
 
 Calvi - Sainte-Catherine.
 
+Cannes-Mandelieu.
+
 Carcassonne-Salvaza.
 
 Chambéry - Aix-les-Bains.
@@ -49,8 +51,6 @@ Lyon-Bron.
 Melun-Villaroche.
 
 Nancy-Essey.
-
-Perpignan-Rivesaltes.
 
 Poitiers-Biard.
 

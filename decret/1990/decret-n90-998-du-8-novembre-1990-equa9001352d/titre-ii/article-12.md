@@ -2,7 +2,7 @@
 
 I. - Indépendamment des emplois pourvus en application de l'article 13 ci-après, les ingénieurs du contrôle de la navigation aérienne sont recrutés :
 
-a) Pour 60 p. 100 des emplois à pourvoir, par concours ouvert aux candidats âgés de vingt-six ans au plus au 1er janvier de l'année du concours, qui justifient au 1er septembre de l'année du concours d'un diplôme d'études universitaires générales à caractère scientifique, d'un diplôme universitaire de technologie, d'un brevet de technicien supérieur, d'un diplôme équivalent ou d'une formation d'un niveau au moins égal à deux années d'études supérieures après le baccalauréat de l'enseignement secondaire. La liste de ces diplômes, brevets et formations est établie par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique ;
+a) Pour 60 p. 100 des emplois à pourvoir, par concours ouvert aux candidats âgés de vingt-six ans au plus au 1er janvier de l'année du concours, qui justifient au 1er novembre de l'année du concours d'un diplôme d'études universitaires générales à caractère scientifique, d'un diplôme universitaire de technologie, d'un brevet de technicien supérieur, d'un diplôme équivalent ou d'une formation d'un niveau au moins égal à deux années d'études supérieures après le baccalauréat de l'enseignement secondaire. La liste de ces diplômes, brevets et formations est établie par arrêté conjoint du ministre chargé de l'aviation civile et du ministre chargé de la fonction publique ;
 
 b) Pour 25 p. 100 des emplois à pourvoir, par concours interne ouvert :
 

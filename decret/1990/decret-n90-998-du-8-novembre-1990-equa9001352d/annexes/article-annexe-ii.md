@@ -8,11 +8,7 @@ Bastia-Poretta.
 
 Clermont-Ferrand - Aulnat.
 
-Fort-de-France - Le Lamentin.
-
 Lille-Lesquin.
-
-Montpellier-Fréjorgues.
 
 Nantes - Château-Bougon.
 
@@ -25,3 +21,5 @@ Saint-Yan.
 Centre de contrôle régional d'outre-mer
 
 Tahiti-Faa.
+
+Perpignan-Rivesaltes.
