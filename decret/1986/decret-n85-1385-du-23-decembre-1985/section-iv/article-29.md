@@ -14,9 +14,7 @@ Seul peut être autorisé l'usage des engins et filets suivants :
 
 5° Eperviers ;
 
-6° Carrelets, bouges, coulettes ;
-
-7° Dideaux ;
+6° Carrelets, bouges, coulettes, couls ;    7° Dideaux ;
 
 8° Nasses ;
 
@@ -32,4 +30,4 @@ Seul peut être autorisé l'usage des engins et filets suivants :
 
 14° Lignes de traîne ;
 
-15° Tamis à civelle de 1 mètre de diamètre et de profondeur au plus.
+15° Tamis à civelle de 1,20 mètre de diamètre et de 1,30 mètre  de profondeurau plus.
