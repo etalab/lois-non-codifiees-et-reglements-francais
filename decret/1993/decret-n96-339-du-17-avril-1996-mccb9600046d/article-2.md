@@ -1,5 +1,11 @@
 # Article 2
 
-Le fonctionnaire nommé dans l'emploi d'administrateur général de l'Etablissement public du musée du Louvre est placé dans son corps d'origine en position de détachement. Il est classé à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont il bénéficiait dans son grade d'origine.
+L'administrateur général de l'Etablissement public du musée du Louvre est nommé par arrêté du ministre chargé de la culture après avis du président de l'établissement.
 
-Dans la limite de l'ancienneté exigée à l'article 1er ci-dessus pour accéder à l'échelon supérieur, il conserve l'ancienneté d'échelon acquise dans son grade d'origine si sa nomination lui procure un gain indiciaire inférieur soit au gain résultant du prochain avancement d'échelon à intervenir dans son grade d'origine, soit, s'il est classé au dernier échelon de ce grade, au gain ayant résulté de son élévation à cet échelon.
+Peuvent être nommés administrateur général de l'Etablissement public du musée du Louvre :
+
+1° Les fonctionnaires titulaires justifiant de huit années d'ancienneté au moins dans l'un des corps recrutés par la voie de l'Ecole nationale d'administration et ayant satisfait à l'obligation de mobilité prévue par le décret n° 97-274 du 21 mars 1997 ;
+
+2° Les membres du corps de l'inspection générale de l'administration des affaires culturelles ;
+
+3° Les fonctionnaires justifiant de dix ans d'ancienneté au moins dans un corps, cadre d'emplois ou emploi de catégorie A ou de même niveau et ayant atteint au moins l'indice brut 901.
