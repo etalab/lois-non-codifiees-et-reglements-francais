@@ -1,9 +1,6 @@
-# Titre II : Dispositions spéciales.
+# Titre II : Dispositions spéciales
 
-- [Chapitre I : Etat et capacité des personnes.](chapitre-i)
 - [Section I : Du registre du commerce.](section-i)
-- [Chapitre II : Du registre matrimonial.](chapitre-ii)
-- [Chapitre III : Droits sur les immeubles ; livre foncier.](chapitre-iii)
-- [Chapitre IV : Contrat d'assurance.](chapitre-iv)
-- [Chapitre V : Succession ; certificat d'héritier.](chapitre-v)
+- [Section II : Des sociétés anonymes par actions.](section-ii)
+- [Section III : De la publicité des sociétés commerciales.](section-iii)
 - [Section V : De la juridiction et de la procédure commerciale.](section-v)
