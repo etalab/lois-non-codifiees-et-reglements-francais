@@ -1,4 +1,4 @@
-# Arrêté du 25 août 1983 RELATIF AUX MODALITES DE REMBOURSEMENT DU COUT DU PAPIER ET DES FRAIS D'IMPRESSION EXPOSES POUR L'ELECTION DES ADMINISTRATEURS DES CAISSES DU REGIME GENERAL DE SECURITE SOCIALE.
+# Arrêté du 25 août 1983 relatif à la création d'une commission nationale des cancers
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,0 +1,3 @@
+# Article 13
+
+L'interne que la commission mentionnée à l'article 12 du présent décret a reconnu atteint de tuberculose, de maladie mentale, de poliomyélite ou d'une affection cancéreuse a droit à un congé [*longue maladie*] de douze mois qui peut, après avis de la même commission, être prolongé de six mois [*durée*]. Pendant ce congé, l'intéressé perçoit les deux tiers de la rémunération mentionnée au 1° et au 2° de l'article 9 du présent décret. Si, à l'issue de ce congé, l'intéressé ne peut reprendre ses activités, il lui est accordé, sur sa demande, un congé sans rémunération de dix-huit mois au maximum. Si la commission estime qu'à l'issue de ce dernier congé l'intéressé ne peut reprendre ses activités, il est mis fin à celles-ci.

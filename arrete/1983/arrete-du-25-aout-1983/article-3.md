@@ -16,7 +16,7 @@ Le chef de l'inspection générale des affaires sociales ou son représentant ;
 
 Le directeur général de l'Institut national de la santé et de la recherche médicale ou son représentant ;
 
-Un représentant de la direction générale du travail au ministère du travail ;
+Un représentant de la direction des relations du travail au ministère du travail ;
 
 Un représentant de la Caisse nationale d'assurance maladie des travailleurs salariés ;
 
