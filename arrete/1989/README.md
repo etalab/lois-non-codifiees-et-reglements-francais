@@ -639,5 +639,4 @@
 - [Arrêté du 31 mars 1989 (EQUS8900310A)](arrete-du-31-mars-1989-equs8900310a)
 - [Arrêté du 31 mars 1989 (PTTT8900299A)](arrete-du-31-mars-1989-pttt8900299a)
 - [Arrêté du 31 mars 1989 (SPSH8900619A)](arrete-du-31-mars-1989-spsh8900619a)
-- [Arrêté du 31 mars 1989 (SPSH8900620A)](arrete-du-31-mars-1989-spsh8900620a)
 - [Arrêté du 31 mars 1989 (TEFE8903308A)](arrete-du-31-mars-1989-tefe8903308a)
