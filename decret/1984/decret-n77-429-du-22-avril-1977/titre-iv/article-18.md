@@ -1,5 +1,0 @@
-# Article 18
-
-Les directeurs régionaux de la sécurité sociale, reclassés dans le grade de directeur des services régionaux de la sécurité sociale en application des dispositions du décret relatif au statut particulier du corps du personnel supérieur des directions régionales et départementales des affaires sanitaires et sociales et qui, à la date de publication du décret précité, sont chargés des fonctions de directeur régional de la sécurité sociale pourront être maintenus dans leurs fonctions dans l'attente de la mise en place de l'organisation prévue au présent décret.
-
-Les directeurs de l'action sanitaire et sociale reclassés dans le grade de chef de service des affaires sanitaires et sociales en application des dispositions du décret cité à l'alinéa ci-dessus et qui, à la date de publication du décret précité, sont chargés des fonctions de chef de service régional de l'action sanitaire et sociale en application de l'article 13 du décret n° 64-783 du 30 juillet 1964 susvisé pourront être maintenus dans leurs fonctions dans l'attente de la mise en place de l'organisation prévue au présent décret.
