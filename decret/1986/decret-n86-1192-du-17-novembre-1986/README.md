@@ -1,4 +1,4 @@
-# Arrêté du 30 octobre 1986 relatif aux congés représentation pour les salariés représentants familiaux
+# Décret n°86-1192 du 17 novembre 1986 relatif au fonctionnement des sections du Comité national de la recherche scientifique
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
