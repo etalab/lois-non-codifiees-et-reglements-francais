@@ -1,3 +1,3 @@
 # Article 2
 
-Le préfet des Hautes-Alpes est chargé de l'exécution du- présent arrêté, qui sera publié au Journal officiel de la République française et affiché pendant un mois dans toutes les communes du département intéressé aux emplacements utilisés habituellement par l'administration.
+Dans chaque département les espèces de gibier mentionnées à l'article 1er qui précède ne peuvent être chassées que pendant le temps où la chasse de ces espèces est permise et dans les conditions fixées par les arrêtés d'ouverture et de clôture de la chasse.

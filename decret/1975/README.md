@@ -65,6 +65,7 @@
 - [Décret n°75-112 du 19 février 1975](decret-n75-112-du-19-fevrier-1975)
 - [Décret n°75-201 du 19 mars 1975](decret-n75-201-du-19-mars-1975)
 - [Décret n°75-59 du 20 janvier 1975](decret-n75-59-du-20-janvier-1975)
+- [Décret n°75-782 du 20 août 1975](decret-n75-782-du-20-aout-1975)
 - [Décret n°76-820 du 20 août 1976](decret-n76-820-du-20-aout-1976)
 - [Décret n°68-906 du 21 octobre 1968](decret-n68-906-du-21-octobre-1968)
 - [Décret n°75-273 du 21 avril 1975](decret-n75-273-du-21-avril-1975)

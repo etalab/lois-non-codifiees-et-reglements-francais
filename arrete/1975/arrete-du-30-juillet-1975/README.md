@@ -1,6 +1,7 @@
-# Arrêté du 30 juillet 1975 RELATIF AU CONSEIL NATIONAL CONSULTATIF DES PERSONNES HANDICAPEES.
+# Arrêté du 30 juillet 1975 fixant la liste des espèces nuisibles en zone de chasse maritime
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Certificats de type](certificats-de-type)
 - [Certificats individuels](certificats-individuels)
 - [Certificats pour exportation](certificats-pour-exportation)
