@@ -1,0 +1,3 @@
+# Article Annexe, art. 7
+
+L'institut [*d'émission*] peut escompter ou prendre en pension aux établissements de crédit des effets représentatifs de crédits à court terme ou de crédits à moyen terme d'une durée maximale de sept ans ; ces derniers doivent avoir pour objet le développement des moyens de production ou la construction d'immeubles et avoir reçu l'accord préalable de l'institut. L'échéance des effets dont l'escompte ou la prise en pension est demandée n'excède pas six mois. L'institut peut également consentir aux établissements de crédit des avances garanties par des effets publics ou un dépôt de valeurs mobilières, d'or ou de devises étrangères.

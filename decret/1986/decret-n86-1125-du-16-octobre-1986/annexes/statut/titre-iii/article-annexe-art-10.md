@@ -1,0 +1,5 @@
+# Article Annexe, art. 10
+
+Le conseil de surveillance, présidé par le gouverneur de la Banque de France ou son représentant, est composé du directeur du Trésor ou de son représentant, de deux représentants du ministre des finances, de deux réprésentants du ministre chargé des départements et collectivités territoriales dans lesquels l'institut assure le service de l'émission, de deux représentants de la Banque de France, de cinq personnalités nommées par arrêté conjoint du ministre des finances et du ministre chargé des départements et collectivités territoriales dans lesquels l'institut exerce le service de l'émission et d'un représentant du personnel de l'institut, élu au scrutin secret dans les conditions fixées par un règlement du directeur général.
+
+Les membres autres que le président et le directeur du Trésor sont nommés pour une durée de quatre ans [*mandat*]. Un suppléant peut être désigné dans les mêmes formes que le titulaire pour les membres autres que le président et le directeur du Trésor.
