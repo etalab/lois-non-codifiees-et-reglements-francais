@@ -1,0 +1,3 @@
+# Article 3
+
+Les agents spécialement habilités au sein de l'INSEE sont seuls destinataires des informations nominatives recueillies. Toutefois, la DREES (direction de la recherche, des études, de l'évaluation et des statistiques du ministère de l'emploi et de la solidarité), en raison de ses missions spécifiques, aura accès à un fichier anonyme comportant les codes communes, sous réserve d'avoir obtenu un avis favorable de la Commission nationale de l'informatique et des libertés pour mettre en oeuvre les traitements qu'elle envisagera d'effectuer à partir des fichiers de l'enquête qui lui seront cédés.

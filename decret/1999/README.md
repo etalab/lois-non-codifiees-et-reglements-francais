@@ -540,6 +540,7 @@
 - [Décret n°99-655 du 29 juillet 1999 (ECOT9926244D)](decret-n99-655-du-29-juillet-1999-ecot9926244d)
 - [Décret n°99-661 du 29 juillet 1999 (MENF9901281D)](decret-n99-661-du-29-juillet-1999-menf9901281d)
 - [Décret n°99-666 du 29 juillet 1999 (JUSC9920360D)](decret-n99-666-du-29-juillet-1999-jusc9920360d)
+- [Décret n°99-682 du 29 juillet 1999 (ECOB9950030D)](decret-n99-682-du-29-juillet-1999-ecob9950030d)
 - [Décret du 30 décembre 1998 (ECOC9800135D)](decret-du-30-decembre-1998-ecoc9800135d)
 - [Décret n°70-1094 du 30 novembre 1970](decret-n70-1094-du-30-novembre-1970)
 - [Décret n°98-1309 du 30 décembre 1998 (MESS9823032D)](decret-n98-1309-du-30-decembre-1998-mess9823032d)
