@@ -1,8 +1,10 @@
 # Article 9
 
-Le versement des aides autres que celles visées à l'article 1er (2°, c) du présent décret est subordonné à l'obtention d'une autorisation préalable délivrée avant le début des prises de vues.
+Le versement des aides autres que celles visées aux c et e du 2° de l'article 1er du présent décret est subordonné à l'obtention d'une autorisation préalable délivrée avant le début des prises de vues. L'autorisation est demandée dans les conditions prévues à l'article 4 du décret n° 85-983 du 17 septembre 1985.
 
-L'autorisation est demandée dans les conditions prévues à l'article 4 du décret n° 85-983 du 17 septembre 1985. Les aides versées pour la production d'une oeuvre ne peuvent être supérieures à 40 p. 100 [*pourcentage maximum*] du coût définitif de l'oeuvre ou de la participation française en cas de coproduction internationale. Elles ne sont pas cumulables avec les avances attribuées en application du décret du 15 juin 1984 susvisé.
+Le versement des aides prévues au e du 2° de l'article 1er est effectué après examen d'un dossier présenté au Centre national de la cinématographie selon des modalités précisées par l'arrêté du ministre chargé de la culture.
+
+Les aides versées pour la production d'une oeuvre ne peuvent être supérieures à 40 p. 100 [*limite - pourcentage*] du coût définitif de l'oeuvre ou de la participation française en cas de coproduction internationale. Elles ne sont pas cumulables avec les avances attribuées en application du décret n° 84-467 du 15 juin 1984.
 
 La décision d'autorisation prévoit les modalités de versement des subventions ou avances et notamment l'échéancier des versements.
 

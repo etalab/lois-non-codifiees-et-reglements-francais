@@ -12,4 +12,6 @@ b) De financer la réalisation de documentaires ou de magazines et la retransmis
 
 c) D'aider à la préparation de la réalisation des oeuvres audiovisuelles définies au présent article ;
 
-d) De favoriser le recours à de nouvelles technologies de l'image dans les oeuvres audiovisuelles.
+d) De favoriser le recours à de nouvelles technologies de l'image dans les oeuvres audiovisuelles ;
+
+e) De financer la réalisation d'oeuvres audiovisuelles de courte durée, dites " vidéomusiques , mettant en images une composition musicale préexistante. Ces oeuvres doivent être d'expression originale française.
