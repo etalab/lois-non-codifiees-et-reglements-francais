@@ -1,9 +1,13 @@
 # Article 8
 
-Selon la nature des bateaux, sont exigibles dans la quatrième et la troisième zone de navigation instituées en application du décret du 7 mars 1988 susvisé les certificats de capacité suivants :
+Sous réserve des dispositions des deuxième et troisième alinéas de l'article 7 du présent décret et du deuxième alinéa du présent article, selon la nature des bateaux, sont exigibles sur les voies, lacs et plans d'eau des troisième et quatrième zones de navigation intérieure, instituées en application du décret du 7 mars 1988 susvisé, les certificats de capacité suivants :
 
-Catégorie C : pour les bateaux de plaisance conçus et équipés pour circuler en deçà de 20 km/h, dont la longueur hors tout de la coque est inférieure ou égale à 15 mètres, désignés dans le présent décret sous le terme de " coches de plaisance " ;
+- catégorie S, pour la conduite de tout bateau dont le taux de motorisation mentionné à l'article 7 du présent décret est supérieur à l'unité et désigné sous les termes de "bateaux de sports" ;
 
-Catégorie P.P. : pour les bateaux de plaisance conçus et équipés pour circuler en deçà de 20 km/h, dont la longueur hors tout de la coque est supérieure à 15 mètres, désignés dans le présent décret sous le terme de " péniches de plaisance " ;
+- catégorie PP, pour la conduite d'un bateau dont le taux de motorisation est inférieur à l'unité et dont la longueur de coque est supérieure à quinze mètres, désigné dans le présent décret sous les termes de "péniches de plaisance" ;
 
-Catégorie S : pour tout bateau conçu ou équipé pour pratiquer une activité sportive, et notamment pour circuler normalement au-delà de 20 km/h, et désigné dans le présent décret sous le terme de " bateaux de sport ".
+- catégorie C, pour la conduite d'un bateau dont le taux de motorisation est inférieur à l'unité et d'une longueur inférieure ou égale à quinze mètres, désigné dans le présent décret sous les termes de "coches de plaisance".
+
+Sur les lacs et plans d'eau définis par arrêté du ministre chargé des transports, seul le certificat de capacité de catégorie S est exigible dans les conditions définies à l'alinéa précédent.
+
+Les titres délivrés par les autorités maritimes en application des dispositions du décret n° 92-1166 du 21 octobre 1992 relatif à la conduite en mer des navires de plaisance à moteur, valent certificat de catégorie S pour la conduite des bateaux sur les lacs et plans d'eau mentionnés à l'alinéa précédent.
