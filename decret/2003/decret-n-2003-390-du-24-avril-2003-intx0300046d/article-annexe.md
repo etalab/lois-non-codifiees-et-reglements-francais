@@ -59,7 +59,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="2" valign="top" width="170">
+<td valign="top" width="170">
 <p align="center">Dijon</p>
 </td>
 <td valign="top" width="208">
@@ -68,13 +68,19 @@
 <td rowspan="2" valign="top" width="170">
 <p align="center">Dijon</p>
 </td>
-<td rowspan="2" valign="top" width="132">
+<td valign="top" width="132">
 <p align="center">Besançon</p>
 </td>
 </tr>
 <tr>
+<td valign="top" width="170">
+<br/>
+</td>
 <td valign="top" width="208">
 <p align="center">Bourgogne</p>
+</td>
+<td valign="top" width="132">
+<p align="center">Auxerre</p>
 </td>
 </tr>
 <tr>
@@ -188,7 +194,7 @@
 </td>
 </tr>
 <tr>
-<td rowspan="3" valign="top" width="170">
+<td valign="top" width="170">
 <p align="center">Orléans</p>
 </td>
 <td valign="top" width="208">
@@ -202,19 +208,28 @@
 </td>
 </tr>
 <tr>
+<td rowspan="2" valign="top" width="170">
+<br/>
+</td>
 <td valign="top" width="208">
 <p align="center">Limousin</p>
 </td>
-<td rowspan="2" valign="top" width="170">
+<td valign="top" width="170">
 <p align="center">Limoges</p>
 </td>
-<td rowspan="2" valign="top" width="132">
+<td valign="top" width="132">
 <p align="center">Poitiers</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="208">
 <p align="center">Poitou-Charentes</p>
+</td>
+<td valign="top" width="170">
+<br/>
+</td>
+<td valign="top" width="132">
+<p align="center">La Rochelle</p>
 </td>
 </tr>
 <tr>
