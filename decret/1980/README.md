@@ -91,7 +91,6 @@
 - [Décret n°80-22 du 14 janvier 1980](decret-n80-22-du-14-janvier-1980)
 - [Décret n°80-269 du 14 avril 1980](decret-n80-269-du-14-avril-1980)
 - [Décret n°80-809 du 14 octobre 1980](decret-n80-809-du-14-octobre-1980)
-- [Décret n°80-812 du 14 octobre 1980](decret-n80-812-du-14-octobre-1980)
 - [Décret n°80-354 du 14 mai 1980](decret-n80-354-du-14-mai-1980)
 - [Décret n°80-356 du 14 mai 1980](decret-n80-356-du-14-mai-1980)
 - [Décret n°80-148 du 15 février 1980](decret-n80-148-du-15-fevrier-1980)
