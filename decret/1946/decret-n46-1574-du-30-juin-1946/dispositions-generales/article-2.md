@@ -1,3 +1,3 @@
 # Article 2
 
-Les étrangers doivent être en mesure de présenter [*obligation*] à toute réquisition des agents de l'autorité les documents sous le couvert desquels ils sont autorisés à séjourner en France.
+Le silence gardé pendant plus de quatre mois sur les demandes de titre de séjour présentées en application du présent décret vaut décision de rejet.
