@@ -1,6 +1,6 @@
 # Article 1
 
-Sera puni de la peine d'amende prévue pour la deuxième classe de contraventions :
+Sera puni de la peine d'amende prévue pour la troisième classe de contraventions :
 
 1° Quiconque aura édité ou importé un livre sans fixer un prix de vente au public ;
 
