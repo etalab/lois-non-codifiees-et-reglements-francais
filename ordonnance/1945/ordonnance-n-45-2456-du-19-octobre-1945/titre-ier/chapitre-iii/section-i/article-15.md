@@ -1,0 +1,5 @@
+# Article 15
+
+Les sociétés mutualistes peuvent recevoir et employer les sommes provenant des cotisations des membres honoraires et participants, ainsi que toutes autres recettes régulières, prendre des immeubles à bail et généralement faire tous actes de simple administration. Elles peuvent vendre ou échanger des immeubles qu'elles sont autorisées à posséder, par application des dispositions de la présente ordonnance. Elles ne peuvent pas emprunter, sauf dans les cas prévus par le paragraphe 2e du deuxième alinéa de l'article 54 ci-après, cette disposition ne faisant toutefois pas obstacle à ce qu'elles bénéficient des prêts ou avances que les caisses de sécurité sociale sont autorisées à consentir aux divers catégories d'oeuvres et institutions intéressant les assurés sociaux.
+
+Elles peuvent participer financièrement, soit sous la forme de subventions, soit sous la forme de prêts avec ou sans intérêts, aux réalisations des unions et fédérations auxquelles sont affiliées et ce, dans la limite des fonds disponibles.
