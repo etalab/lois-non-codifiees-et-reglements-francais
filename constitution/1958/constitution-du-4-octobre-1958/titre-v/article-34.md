@@ -4,7 +4,7 @@ La loi est votée par le Parlement.
 
 La loi fixe les règles concernant :
 
-- les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques ; les sujétions imposées par la défense nationale aux citoyens en leur personne et en leurs biens ;
+- les droits civiques et les garanties fondamentales accordées aux citoyens pour l'exercice des libertés publiques ; les sujétions imposées par la Défense nationale aux citoyens en leur personne et en leurs biens ;
 
 - la nationalité, l'état et la capacité des personnes, les régimes matrimoniaux, les successions et libéralités ;
 
@@ -24,7 +24,7 @@ La loi fixe également les règles concernant :
 
 La loi détermine les principes fondamentaux :
 
-- de l'organisation générale de la défense nationale ;
+- de l'organisation générale de la Défense nationale ;
 
 - de la libre administration des collectivités locales, de leurs compétences et de leurs ressources ;
 
@@ -35,6 +35,8 @@ La loi détermine les principes fondamentaux :
 - du droit du travail, du droit syndical et de la sécurité sociale.
 
 Les lois de finances déterminent les ressources et les charges de l'Etat dans les conditions et sous les réserves prévues par une loi organique.
+
+Les lois de financement de la sécurité sociale déterminent les conditions générales de son équilibre financier et, compte tenu de leurs prévisions de recettes, fixent ses objectifs de dépenses, dans les conditions et sous les réserves prévues par une loi organique.
 
 Des lois de programme déterminent les objectifs de l'action économique et sociale de l'Etat.
 
