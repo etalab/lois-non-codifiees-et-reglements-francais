@@ -12,11 +12,9 @@ b) Epreuves orales d'admission :
 
 Seuls peuvent être admis à se présenter aux épreuves orales d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et pour l'ensemble des épreuves écrites un total de points fixé par le jury qui ne peut en aucun cas être inférieur à 100.
 
-1° Une interrogation portant, au choix du candidat, pour la spécialité de la conservation choisie par lui, sur l'une des options figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la culture.
+1° Une interrogation portant, au choix du candidat, pour chacune des spécialités de la conservation choisie par lui au moment de son inscription, sur l'une des options figurant sur une liste fixée par arrêté conjoint du ministre chargé des collectivités locales et du ministre chargé de la culture.
 
-L'épreuve consiste, dans un premier temps, à analyser et à commenter des documents (authentiques ou reproduits) correspondant à l'option choisie, puis à répondre à des questions portant sur l'ensemble de la spécialité retenue par le candidat (préparation :
-
-trente minutes ; analyse et commentaire : quinze minutes ; entretien : quinze minutes ; coefficient 5).
+" L'épreuve consiste à analyser et à commenter deux documents (authentiques ou reproduits) de type général se rapportant à l'option choisie, puis un document spécifique (authentique ou reproduit) pour chacune des spécialités retenues par le candidat, enfin à répondre à des questions portant sur l'option choisie par lui dans chacune des spécialités retenues (préparation : dix minutes par document à commenter ; analyse et commentaire : cinq minutes par document ; entretien : cinq minutes par document ; coefficient 5) ; ".
 
 2° Une conversation avec le jury débutant par le commentaire d'un texte récent à caractère culturel (préparation : trente minutes ; commentaire : dix minutes ; entretien : vingt minutes ; coefficient 2).
 

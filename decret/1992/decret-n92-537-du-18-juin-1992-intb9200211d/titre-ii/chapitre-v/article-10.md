@@ -20,6 +20,6 @@ En cas de partage égal des voix, la voix du président est prépondérante.
 
 En fonction de la nature particulière des épreuves, des examinateurs spéciaux peuvent être nommés par arrêté du président du Centre national de la fonction publique territoriale.
 
-Les correcteurs sont désignés par arrêté du président du Centre national de la fonction publique territoriale pour participer avec les membres du jury à la correction des épreuves.
+Les correcteurs sont désignés par arrêté du président du Centre national de la fonction publique territoriale pour participer avec les membres du jury à la correction des épreuves. Les correcteurs participent aux délibérations du jury avec voix consultative pour l'attribution des notes se rapportant aux épreuves qu'ils ont corrigées. "
 
 Les épreuves écrites sont anonymes : chaque composition est corrigée par deux correcteurs.
