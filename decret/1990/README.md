@@ -787,7 +787,6 @@
 - [Décret n°90-293 du 29 mars 1990 (BUDR9004006D)](decret-n90-293-du-29-mars-1990-budr9004006d)
 - [Décret n°90-296 du 29 mars 1990 (DOMP9000006D)](decret-n90-296-du-29-mars-1990-domp9000006d)
 - [Décret n°90-528 du 29 juin 1990 (PRME9061901D)](decret-n90-528-du-29-juin-1990-prme9061901d)
-- [Décret n°90-532 du 29 juin 1990 (TEFX9000111D)](decret-n90-532-du-29-juin-1990-tefx9000111d)
 - [Décret n°90-534 du 29 juin 1990 (SPSS9000728D)](decret-n90-534-du-29-juin-1990-spss9000728d)
 - [Décret n°90-535 du 29 juin 1990 (SPSS9001124D)](decret-n90-535-du-29-juin-1990-spss9001124d)
 - [Décret n°90-543 du 29 juin 1990 (TEFE9003559D)](decret-n90-543-du-29-juin-1990-tefe9003559d)
