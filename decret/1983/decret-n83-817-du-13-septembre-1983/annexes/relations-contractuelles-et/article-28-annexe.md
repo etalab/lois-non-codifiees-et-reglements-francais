@@ -10,6 +10,4 @@ Le concours de l'Etat comprend les différentes contributions suivantes :
 
 La contribution aux charges de retraite, versée au compte retraites ;
 
-La contribution associée aux tarifs sociaux mis en oeuvre par la S.N.C.F à la demande de l'Etat ;
-
-La contribution à l'exploitation des services d'intêret régional, sous reserve de l'application des dispositions de l'article 67 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire modifiée.
+La contribution associée aux tarifs sociaux mis en oeuvre par la S.N.C.F à la demande de l'Etat pour les services d'intérêt national.

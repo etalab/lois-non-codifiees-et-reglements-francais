@@ -1,3 +1,9 @@
 # Article 49
 
-Lorsqu'une ligne ou section de ligne a été fermée à tout trafic en application de l'article 22 du présent décret, RFF peut proposer son retranchement du réseau au ministre chargé des transports, après avis des collectivités territoriales concernées et de la SNCF qui disposent d'un délai de trois mois pour faire part de leurs observations. La ligne ou section de ligne considérée peut alors être retranchée du réseau ferré national par décret pris sur le rapport du ministre chargé des transports, après consultation des ministres ayant des attributions en matière de défense. La décision de retranchement emporte autorisation de déclassement de la ligne ou section de ligne.
+Lorsqu'une ligne ou section de ligne a été fermée en application de l'article 22, Réseau ferré de France peut proposer son retranchement du réseau ferré national au ministre chargé des transports.
+
+Il suit la procédure prévue aux deux premiers alinéas de l'article 21.
+
+Il est également fait application des mêmes dispositions lorsqu'il mène conjointement la procédure de fermeture et celle de retranchement.
+
+Le retranchement de la ligne ou section de ligne considérée peut être prononcé par décret pris sur le rapport du ministre chargé des transports. Cette décision emporte autorisation de déclassement, par Réseau ferré de France, de cette ligne ou section de ligne.

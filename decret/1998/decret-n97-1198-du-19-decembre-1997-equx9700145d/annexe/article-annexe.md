@@ -550,6 +550,30 @@ Jusqu'au 31 décembre 1999, agrément des centres de formation habilités à for
 
 Articles 7 et 8.
 
+Décret n° 2003-194 du 7 mars 2003 relatif à l'utilisation du réseau ferré national
+
+1
+
+Délivrance de la licence d'entreprise ferroviaire ;
+
+Retrait, suspension de la licence d'entreprise ferroviaire et mise en demeure d'une entreprise ferroviaire de régulariser sa situation financière.
+
+Articles 10 et 12
+
+2
+
+Délivrance du certificat de sécurité pour l'utilisation du réseau ferré national ;
+
+Retrait et suspension du certificat de sécurité.
+
+Articles 15 et 16
+
+3
+
+Décision prise sur recours administratif préalable.
+
+Article 28
+
 Mesures prises par le ministre chargé de la mer
 
 Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution
