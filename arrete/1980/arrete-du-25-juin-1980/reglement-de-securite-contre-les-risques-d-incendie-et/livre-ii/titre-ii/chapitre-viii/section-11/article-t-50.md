@@ -1,9 +1,5 @@
 # Article T 50
 
-Système d'alarme
+Système de sonorisation
 
-§ 1 . Un système d'alarme du type 2 doit être installé dans les établissements de première, deuxième et troisième catégorie.
-
-Un système d'alarme du type 4 doit être installé dans les établissements de quatrième catégorie.
-
-§ 2. S'il existe un système de sonorisation, ce dernier doit permettre une diffusion verbale de l'alarme. En tout état de cause, un tel système doit exister dans les établissements de première catégorie.
+S'il existe un système de sonorisation, l'alarme générale doit être interrompue par diffusion d'un message préenregistré prescrivant en clair l'ordre d'évacuation. Dans ce dernier cas, les équipements nécessaires à la diffusion de ce message doivent également être alimentés au moyen d'une alimentation électrique de sécurité (AES) conforme à sa norme. En tout état de cause, un tel système doit exister dans les établissements de 1re catégorie.

@@ -16,4 +16,4 @@ Domaine d'application
 
 § 3. Le désenfumage des locaux cités à l'article p 5 peut être imposé, après avis de la commission de sécurité, s'ils comportent des risuqes d'incendie associés à un potentiel calorifique (ou fumigène) important.
 
-§ 4. Si le système d'alarme n'est pas du type 1, les commandes des dispositifs de désenfumage ne sont pas obligatoirement automatiques.
+§ 4. Si l'établissement est équipé d'un système de sécurité incendie de catégorie A, le désenfumage doit être commandé automatiquement par la détection automatique d'incendie.

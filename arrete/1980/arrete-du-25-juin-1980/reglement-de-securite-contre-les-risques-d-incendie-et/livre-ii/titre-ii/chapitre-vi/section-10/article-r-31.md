@@ -1,23 +1,25 @@
 # Article R 31
 
-Système d'alarme
+Système de sécurité incendie, système d'alarme
 
-§ 1. Un système d'alarme du type 1 doit être installé dans :
+Les systèmes de sécurité incendie sont définis à l'article MS 53, les équipements d'alarme sont définis à l'article MS 62.
 
-- tout bâtiment contenant des locaux réservés au sommeil ;
+§ 1. Un système de sécurité incendie de catégorie A doit être installé dans :
+
+- tout bâtiment contenant des locaux à sommeil ;
 
 - tout bâtiment visé à l'article CO 15 ;
 
 - tout bâtiment visé au dernier alinéa de l'article CO 21 (§ 3, a) ;
 
-- tout bâtiment recevant des handicapés conformément à l'article GN 8 (§ 2, b), pour lequel ce type d'alarme est prévu.
+- tout bâtiment recevant des handicapés conformément à l'article GN 8 (§ 2, b, pour lesquels un système de sécurité incendie de catégorie A est imposé.
 
-Dans les cas ci-dessus, et en complément des dispositions de l'article MS 61, les dispositifs à commande automatique sont installés dans tous les locaux des bâtiments comportant des locaux réservés au sommeil.
+Dans les bâtiments comportant des locaux réservés au sommeil, la détection automatique d'incendie doit être installée dans tous les locaux et dégagements.
 
 § 2. Sauf dans les cas cités au paragraphe ci-dessus :
 
-- un système d'alarme du type 2 doit être installé dans les bâtiments dont l'effectif est supérieur à 300 personnes, ainsi que dans les bâtiments visés à l'article GN 8 (§ 2, b), pour lequel ce type d'alarme est prévu ;
+Les établissements de 1re, 2e et 3e catégorie, ainsi que les bâtiments visés à l'article GN 8 (§ 2, b) pour lequel ce type d'équipement d'alarme est prévu, doivent être pourvus d'un équipement d'alarme du type 2 b.
 
-- un système d'alarme du type 4 doit être installé dans les bâtiments dont l'effectif est au plus égal à 300 personnes.
+Les établissements de 4e catégorie doivent être pourvus d'un équipement d'alarme du type 4.
 
-§ 3. Lorsqu'un établissement ne dispose que d'un local de gardiennage (ou de surveillance) pour l'ensemble des bâtiments et que les conditions spécifiques à chacun d'entre eux conduisent à utiliser des systèmes d'alarme de types différents, l'équipement central doit être unique et commun ; il doit utiliser la technologie du type le plus sévère et assurer les fonctions propres à chacun de ces types.
+§ 3. Lorsqu'un établissement ne dispose que d'un local de gardiennage (ou de surveillance) pour l'ensemble des bâtiments et que les conditions spécifiques à chacun d'entre eux conduisent à utiliser des équipements d'alarme de types différents, l'équipement central doit être unique et commun ; il doit utiliser la technologie du type le plus sévère et assurer les fonctions nécessaires à chacun de ces bâtiments.

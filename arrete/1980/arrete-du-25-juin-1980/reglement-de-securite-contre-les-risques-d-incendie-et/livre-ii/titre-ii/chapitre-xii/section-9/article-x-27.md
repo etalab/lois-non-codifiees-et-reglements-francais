@@ -2,7 +2,7 @@
 
 Systèmes d'alertes
 
-En application de l'article MS 66, la liaison avec les sapeurs-pompiers doit être réalisée :
+En application de l'article MS 71, la liaison avec les sapeurs-pompiers doit être réalisée :
 
 -par téléphone urbain, dans les patinoires et les piscines ;
 

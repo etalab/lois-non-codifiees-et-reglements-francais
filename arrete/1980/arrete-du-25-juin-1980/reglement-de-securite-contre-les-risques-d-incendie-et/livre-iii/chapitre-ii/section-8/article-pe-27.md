@@ -4,6 +4,8 @@ Alarme, alerte, consignes
 
 § 1. Un membre du personnel ou un responsable au moins doit être présent en permanence lorsque l'établissement est ouvert au public.
 
+Toutefois, cette disposition n'est pas applicable aux établissements recevant moins de vingt personnes et ne comportant pas de locaux à sommeil.
+
 § 2. Tous les établissements doivent être équipés d'un système d'alarme selon les modalités définies ci-dessous :
 
 a) L'alarme générale doit être donnée par établissement recevant du public et par bâtiment si l'établissement comporte plusieurs bâtiments ;
