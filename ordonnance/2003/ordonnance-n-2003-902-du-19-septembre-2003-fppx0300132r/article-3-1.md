@@ -1,0 +1,3 @@
+# Article 3-1
+
+Sous réserve des décisions de justice passées en force de chose jugée, les décisions administratives relatives à la réalisation de projets de travaux d'aménagements et d'ouvrages pour lesquels une enquête publique a été ouverte après le 27 février 2003 et avant le 21 septembre 2003 sont validées en tant que leur légalité serait contestée sur le fondement de la méconnaissance des dispositions de la loi n° 52-1265 du 29 novembre 1952 sur les travaux mixtes, de ses décrets d'application, des articles L. 1331-1 à L. 1331-3 du code général des collectivités territoriales ou de l'article 136 de la loi n° 2002-276 du 27 février 2002 relative à la démocratie de proximité.

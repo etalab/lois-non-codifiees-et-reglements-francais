@@ -541,6 +541,7 @@
 - [Arrêté du 17 novembre 2003 (SPRK0370218A)](arrete-du-17-novembre-2003-sprk0370218a)
 - [Arrêté du 17 novembre 2004 (MENF0402476A)](arrete-du-17-novembre-2004-menf0402476a)
 - [Arrêté du 17 novembre 2004 (MJSK0470198A)](arrete-du-17-novembre-2004-mjsk0470198a)
+- [Arrêté du 17 novembre 2004 (SOCF0412220A)](arrete-du-17-novembre-2004-socf0412220a)
 - [Arrêté du 17 septembre 2004 (ECOT0495152A)](arrete-du-17-septembre-2004-ecot0495152a)
 - [Arrêté du 17 septembre 2004 (INTD0400706A)](arrete-du-17-septembre-2004-intd0400706a)
 - [Arrêté du 17 septembre 2004 (JUSB0410393A)](arrete-du-17-septembre-2004-jusb0410393a)

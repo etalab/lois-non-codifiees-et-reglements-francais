@@ -6,3 +6,4 @@
 - [TITRE III : Les effets de l'aide juridictionnelle en matière pénale.](titre-iii)
 - [TITRE IV : Le retrait de l'aide juridictionnelle en matière pénale.](titre-iv)
 - [TITRE V : Dispositions diverses.](titre-v)
+- [Article 27](article-27.md)

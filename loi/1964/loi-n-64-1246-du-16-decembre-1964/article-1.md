@@ -1,5 +1,11 @@
 # Article 1
 
-Il sera créé dans les départements visés à l'article 1er du décret n° 63-580 du 18 juin 1963 portant création d'une mission interministérielle pour l'aménagement touristique du littoral Languedoc-Roussillon et il pourra être créé dans les départements dont les conseils généraux le demanderaient des zones de lutte contre les moustiques, à l'intérieur desquelles les services et organismes de droit public habilités par arrêté préfectoral seront autorisés à procéder d'office aux prospections, traitements, travaux et contrôles nécessaires à cette action.
+Des zones de lutte contre les moustiques sont délimitées par arrêté préfectoral pris après avis de la commission mentionnée à l'article L. 1416-1 du code de la santé publique :
 
-Les zones prévues à l'alinéa précédent sont créées par arrêté préfectoral, pris après avis du conseil départemental d'hygiène.
+1° Dans les départements où est constatée, dans les conditions définies à l'article L. 3114-5 du code de la santé publique, l'existence de conditions entraînant le développement de maladies humaines transmises par l'intermédiaire d'insectes et dont la liste est fixée par arrêté du ministre en charge de la santé ;
+
+2° Dans les départements où les moustiques constituent une menace pour la santé de la population et dont la liste est fixée par arrêté conjoint du ministre en charge de la santé et du ministre en charge de l'environnement ;
+
+3° En cas de besoin, dans les départements dont les conseils généraux le demanderaient.
+
+A l'intérieur de ces zones, les services du département sont autorisés à procéder d'office aux prospections, traitements, travaux et contrôles nécessaires à cette action. Lorsque le département confie la réalisation de ces opérations à un organisme de droit public, les agents de cet organisme disposent, pour l'exercice de ces missions, des mêmes compétences que les agents du département.
