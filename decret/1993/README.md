@@ -326,6 +326,7 @@
 - [Décret n°93-463 du 22 mars 1993 (MAEJ9330012D)](decret-n93-463-du-22-mars-1993-maej9330012d)
 - [Décret n°93-87 du 22 janvier 1993 (TEFF9300057D)](decret-n93-87-du-22-janvier-1993-teff9300057d)
 - [Décret n°93-89 du 22 janvier 1993 (MENF9204041D)](decret-n93-89-du-22-janvier-1993-menf9204041d)
+- [Décret n°89-778 du 23 octobre 1989 (MCCX8910280D)](decret-n89-778-du-23-octobre-1989-mccx8910280d)
 - [Décret n°93-235 du 23 février 1993 (AGRG9202375D)](decret-n93-235-du-23-fevrier-1993-agrg9202375d)
 - [Décret n°93-243 du 23 février 1993 (DEFP9202220D)](decret-n93-243-du-23-fevrier-1993-defp9202220d)
 - [Décret n°93-244 du 23 février 1993 (INDH9300063D)](decret-n93-244-du-23-fevrier-1993-indh9300063d)
