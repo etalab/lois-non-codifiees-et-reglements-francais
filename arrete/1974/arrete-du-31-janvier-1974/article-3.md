@@ -1,5 +1,11 @@
 # Article 3
 
-La mise en place d'une formation conduisant au diplôme d'ingénieur visé à l'article 1er du présent arrêté est autorisée, pour les établissements publics relevant de son autorité, par arrêté du ministre de l'éducation nationale après consultation de la commission des titres d'ingénieurs ou, pour les établissements privés qui demandent à délivrer ce diplôme, par décision de cette instance en application de la loi du 10 juillet 1934. La commission des titres d'ingénieurs détermine en la matière sa procédure interne d'instruction des affaires qui lui sont soumises.
+L'action sociale des caisses locales interprofessionnelles et des caisses professionnelles s'exerce par le moyen d'aides individualisées aux personnes bénéficiaires d'un avantage de vieillesse qui doivent être utilisées suivant l'ordre de priorité suivant :
 
-L'appellation de chaque diplôme préparé selon les dispositions de l'article 2 ci-dessus est fixée dans les mêmes conditions.
+1° Aide ménagère à domicile et l'aide à l'amélioration de l'habitat qui doivent obligatoirement correspondre à 75 p. 100 au moins de la dotation de chaque caisse ;
+
+2° Aide aux vacances ;
+
+3° Secours divers et dons aux centenaires ;
+
+4° Aide à l'information aux personnes âgées, aide à la recherche gérontologique, subvention à des établissements d'accueils des personnes âgées, subventions à des associations d'aide ou d'action sociale en faveur des personnes âgées.
