@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 5 décembre 1972 relatif à l'échelonnement indiciaire applicable à certains emplois du personnel de l'école nationale de la santé publique est abrogé.
+Lorsqu'il s'agit de marchés de travaux, le seuil est fixé à 5 millions de francs. Ce montant concerne le coût prévisionnel de réalisation des ouvrages, évalué hors rémunération des concepteurs.

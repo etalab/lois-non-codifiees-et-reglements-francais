@@ -1,4 +1,4 @@
-# Arrêté du 21 novembre 1977 relatif à l'échelonnement indiciaire applicable à certains emplois du personnel de l'Ecole des hautes études en santé publique
+# Arrêté du 21 novembre 1977 relatif au seuil au-dessus duquel le bureau d'adjudication d'un établissement public d'hospitalisation, de soins, ou de cure ou la commission d'ouverture des plis en cas d'appel d'offres doit comprendre un représentant du ministre chargé de la santé et le trésorier-payeur général ou son représentant
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,5 @@
 # Article 3
 
-Le directeur de l'administration générale, du personnel et du budget au ministère de la santé et de la sécurité sociale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et prendra effet à compter du 1er août 1977.
+Lorsqu'il s'agit de fournitures d'équipement mobilier, y compris les équipements matériels lourds au sens de l'article 46 de la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière, le seuil est fixé à 1.500.000 F.
+
+Ce montant est évalué au stade du dossier du projet d'équipement mobilier.
