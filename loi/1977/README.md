@@ -4,6 +4,7 @@
 - [Loi n° 76-1234 du 29 décembre 1976](loi-n-76-1234-du-29-decembre-1976)
 - [Loi n° 77-1222 du 9 novembre 1977](loi-n-77-1222-du-9-novembre-1977)
 - [Loi n° 77-1409 du 23 décembre 1977](loi-n-77-1409-du-23-decembre-1977)
+- [Loi n° 77-1423 du 27 décembre 1977](loi-n-77-1423-du-27-decembre-1977)
 - [Loi n° 77-2 du 3 janvier 1977](loi-n-77-2-du-3-janvier-1977)
 - [Loi n° 77-4 du 3 janvier 1977](loi-n-77-4-du-3-janvier-1977)
 - [Loi n° 77-441 du 27 avril 1977](loi-n-77-441-du-27-avril-1977)
