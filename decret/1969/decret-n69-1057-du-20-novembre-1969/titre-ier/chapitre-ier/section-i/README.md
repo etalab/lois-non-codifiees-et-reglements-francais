@@ -4,6 +4,7 @@
 - [Article 2](article-2.md)
 - [Paragraphe 2 : Société titulaire d'un office d'avoué constituée par voie de fusion.](paragraphe-2)
 - [Article 3](article-3.md)
+- [Paragraphe 3 : Sociétés titulaires d'un office d'avoué constituées par voie de scission.](paragraphe-3)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
