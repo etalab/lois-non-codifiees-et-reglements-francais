@@ -614,6 +614,7 @@
 - [Décret n°91-989 du 26 septembre 1991 (PTTS9100168D)](decret-n91-989-du-26-septembre-1991-ptts9100168d)
 - [Décret n°93-661 du 26 mars 1993 (SPSX9300200D)](decret-n93-661-du-26-mars-1993-spsx9300200d)
 - [Décret n°93-666 du 26 mars 1993 (SPSX9300205D)](decret-n93-666-du-26-mars-1993-spsx9300205d)
+- [Décret n°91-1006 du 27 septembre 1991 (MCCB9100326D)](decret-n91-1006-du-27-septembre-1991-mccb9100326d)
 - [Décret n°91-1198 du 27 novembre 1991 (JUSF9150087D)](decret-n91-1198-du-27-novembre-1991-jusf9150087d)
 - [Décret n°91-225 du 27 février 1991 (EQUT9100126D)](decret-n91-225-du-27-fevrier-1991-equt9100126d)
 - [Décret n°91-226 du 27 février 1991 (EQUT9100127D)](decret-n91-226-du-27-fevrier-1991-equt9100127d)
