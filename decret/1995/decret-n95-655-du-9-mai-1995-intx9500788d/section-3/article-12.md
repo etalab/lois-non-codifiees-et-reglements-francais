@@ -1,7 +1,11 @@
 # Article 12
 
-La durée du temps passé dans chaque échelon est fixée à deux ans.
+La durée du temps passé dans chaque échelon est fixée ainsi qu'il suit :
 
-Toutefois, la durée du temps passé dans les échelons d'élève, de stagiaire ainsi que dans le 1er échelon du grade de commissaire de police est fixée à un an ; celle du temps passé dans le 8e échelon du grade de commissaire de police, dans le 4e échelon du grade de commissaire principal de police et dans le 3e échelon du grade de commissaire divisionnaire de police n'est pas limitée.
+1° Un an pour les échelons d'élève, de stagiaire et le 1er échelon du grade de commissaire de police ;
 
-La durée de la scolarité, à l'exclusion de son redoublement, et la durée du stage, à l'exclusion de sa prolongation éventuelle, sont prises en compte pour l'avancement d'échelon dans le grade de commissaire de police.
+2° Un an et six mois pour les 2e et 3e échelons du grade de commissaire de police ;
+
+3° Deux ans pour les 4e et 5e échelons du grade de commissaire de police, les trois premiers échelons du grade de commissaire principal de police et le 1er échelon du grade de commissaire divisionnaire de police ;
+
+4° Trois ans pour le 4e échelon du grade de commissaire principal de police et les 2e, 3e et 4e échelons du grade de commissaire divisionnaire de police.
