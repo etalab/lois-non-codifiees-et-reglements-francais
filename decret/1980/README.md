@@ -4,6 +4,7 @@
 - [Décret n°80-106 du 1 février 1980](decret-n80-106-du-1-fevrier-1980)
 - [Décret n°80-785 du 1 octobre 1980](decret-n80-785-du-1-octobre-1980)
 - [Décret n°80-791 du 1 octobre 1980](decret-n80-791-du-1-octobre-1980)
+- [Décret n°80-793 du 1 octobre 1980](decret-n80-793-du-1-octobre-1980)
 - [Décret n°69-525 du 2 juin 1969](decret-n69-525-du-2-juin-1969)
 - [Décret n°80-234 du 2 avril 1980](decret-n80-234-du-2-avril-1980)
 - [Décret n°80-393 du 2 juin 1980](decret-n80-393-du-2-juin-1980)
