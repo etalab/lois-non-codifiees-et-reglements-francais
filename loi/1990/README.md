@@ -7,6 +7,7 @@
 - [Loi n° 89-1014 du 31 décembre 1989 (ECOX8900025L)](loi-n-89-1014-du-31-decembre-1989-ecox8900025l)
 - [Loi n° 89-1016 du 31 décembre 1989 (MAEX8900152L)](loi-n-89-1016-du-31-decembre-1989-maex8900152l)
 - [Loi n° 89-1017 du 31 décembre 1989 (INTX8900105L)](loi-n-89-1017-du-31-decembre-1989-intx8900105l)
+- [Loi n° 89-905 du 19 décembre 1989 (TEFX8900120L)](loi-n-89-905-du-19-decembre-1989-tefx8900120l)
 - [Loi n° 90-1002 du 7 novembre 1990 (TEFX9000065L)](loi-n-90-1002-du-7-novembre-1990-tefx9000065l)
 - [Loi n° 90-1067 du 28 novembre 1990 (INTX9000041L)](loi-n-90-1067-du-28-novembre-1990-intx9000041l)
 - [Loi n° 90-1068 du 28 novembre 1990 (SPSX9000119L)](loi-n-90-1068-du-28-novembre-1990-spsx9000119l)

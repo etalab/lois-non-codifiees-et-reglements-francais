@@ -12,6 +12,8 @@ b) Le loyer des logements vacants ou faisant l'objet d'une première location qu
 
 Les dispositions de l'alinéa précédent sont applicables pendant une durée de cinq ans à compter de la date de la publication de la présente loi. Avant l'expiration de ce délai, le Gouvernement présentera au Parlement un rapport d'exécution permettant d'établir la comparaison entre l'évolution des loyers des logements vacants selon qu'ils relèvent du a ou du b du présent article.
 
+Toutefois, le Gouvernement présentera au Parlement, dans un délai d'un an à compter de la promulgation de la loi n° 92-722 du 29 juillet 1992 portant adaptation de la loi n° 88-1088 du 1er décembre 1988 relative au minimum d'insertion et relative à la lutte contre la pauvreté et l'exclusion sociale et professionnelle, un rapport d'information sur les logements vacants dans les agglomérations de plus de 200 000 habitants au sens du recensement général de la population, spécifiant, entre autres, les motifs et la durée de la vacance.
+
 En cas de non-respect par le bailleur des dispositions de l'article 19, le locataire dispose, sans qu'il soit porté atteinte à la validité du contrat en cours, d'un délai de deux mois pour contester le montant du loyer auprès de la commission de conciliation.
 
 A défaut d'accord constaté par la commission, le juge, saisi par l'une ou l'autre des parties, fixe le loyer.

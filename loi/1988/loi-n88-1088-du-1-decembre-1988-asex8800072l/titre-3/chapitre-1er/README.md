@@ -1,6 +1,5 @@
-# Titre 3 : De l'insertion
+# Chapitre 1er : Le dispositif départemental d'insertion et de lutte contre la pauvreté et l'exclusion
 
-- [Chapitre 1er : Le dispositif départemental d'insertion et de lutte contre la pauvreté et l'exclusion](chapitre-1er)
 - [Article 34](article-34.md)
 - [Article 35](article-35.md)
 - [Article 36](article-36.md)
@@ -10,4 +9,3 @@
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)
 - [Article 42](article-42.md)
-- [Article 43](article-43.md)
