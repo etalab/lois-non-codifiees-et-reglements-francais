@@ -1,5 +1,5 @@
 # Article 1
 
-Entreprises bénéficiaires
+Les agents titulaires qui suivent les actions de formation professionnelle mentionnées au titre Ier du décret susvisé du 16 juin 1975 perçoivent, pendant la durée totale de ces actions, sur la base des taux afférents à leur emploi, leur rémunération principale.
 
-Des subventions remboursables en cas de succès peuvent être attribuées aux entreprises pour la réalisation de programmes de prospection de minerai d'uranium. L'attribution de ces subventions se fait par décision du ministre de l'industrie et de la recherche, après avis du comité des mines du CEA dans les conditions précisées aux articles ci-après.
+Ils peuvent également, dans les mêmes conditions, percevoir la prime de service et éventuellement les indemnités liées à la technicité et à la responsabilité, les indemnités d'habillement, les indemnités liées aux conditions d'exécution des travaux hormis les indemnités de nuit, de mission, de tournée et d'intérim et enfin les indemnités rémunérant des risques, des travaux supplémentaires et des sujétions administratifs.

@@ -1,11 +1,3 @@
-# Arrêté du 28 mars 1977 instituant un régime d’aide à la prospection d’uranium
+# Arrêté du 28 mars 1977 RELATIF AU REGIME DE REMUNERATIONS DES AGENTS SUIVANT LES ACTIONS DE FORMATION ORGANISEES OU AGREEES PAR LES ETABLISSEMENTS, COLLECTIVITES ET SYNDICATS INTER-HOSPITALIERS EN VUE DE LA FORMATION PROFESSIONNELLE CONTINUE DES PERSONNELS RELEVANT DU LIVRE IX DU CODE DE LA SANTE PUBLIQUE.
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
