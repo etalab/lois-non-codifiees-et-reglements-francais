@@ -1,0 +1,3 @@
+# Article 6
+
+Les dispositions du B des articles R. 2221-48 et R. 2221-90 du code général des collectivités territoriales (partie Réglementaire) sont applicables à compter du 1er janvier 2002 pour les résultats des exercices budgétaires de 2000 et 2001. Jusqu'à cette date, lorsqu'il s'agit d'un déficit, le résultat cumulé peut être ajouté aux charges d'exploitation de l'exercice qui suit celui au titre duquel est affecté le résultat. L'ajout du résultat cumulé déficitaire aux charges d'exploitation est au moins égal à la moitié de ce résultat, le solde étant ajouté aux charges d'exploitation de l'exercice suivant.
