@@ -1,9 +1,7 @@
 # Article 16
 
-A titre transitoire, dans les vingt-quatre mois suivant la publication du présent arrêté [*délai*], les intervenants ayant accédé professionnellement au milieu hyperbare avant le 1er octobre 1990 et n'appartenant pas à des entreprises d'armement maritime seront classés par le ministre chargé du travail sur proposition d'une commission présidée par son représentant et qui comprend des médecins spécialistes de l'hyperbarie et des représentants des organisations syndicales les plus représentatives d'employeurs et de travailleurs concernés.
+Par dérogation aux dispositions des articles 2 et 3 ci-dessus, les personnes, non titulaires du certificat d'aptitude à l'hyperbarie, qui envisagent d'intervenir, à titre temporaire et bénévole, sur des chantiers subaquatiques à vocation culturelle ou scientifique, notamment dans le cadre d'activités de préservation du patrimoine archéologique français, peuvent, dès lors que la pression relative d'intervention n'excède pas 4 000 hectopascals (4 bars), être autorisées à plonger par une décision du ministre chargé de la culture, sur proposition d'une commission présidée par son représentant et qui comprend un représentant du ministre chargé du travail, un représentant du ministre chargé des sports, un représentant du Centre national de la recherche scientifique (C.N.R.S.) et un médecin spécialiste de l'hyperbarie.
 
-De la même manière, ceux qui ont accédé professionnellement au milieu hyperbare avant le 1er octobre 1990 et qui appartiennent à des entreprises d'armement maritime seront classés par le ministre chargé de la mer.
+Cette autorisation que le ministre chargé de la culture peut, si nécessaire, subordonner à certaines conditions préalables, notamment de formation, est limitée à la durée du projet et ne saurait, en tout état de cause, excéder un an.
 
-Les candidats au classement doivent fournir un dossier justifiant leur capacité, adressé, selon le cas, au ministre chargé du travail ou au ministre chargé de la mer.
-
-La classification ainsi établie sera sanctionnée par un certificat d'aptitude à l'hyperbarie.
+Pour un même projet, elle n'est renouvelable qu'une seule fois.

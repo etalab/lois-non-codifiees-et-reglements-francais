@@ -156,6 +156,14 @@ Emplois scientifiques, techniques et administratifs de recherche
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois scientifiques, techniques et administratifs de recherche
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Ecole nationale supérieure des techniques industrielles et des mines d'Alès
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés

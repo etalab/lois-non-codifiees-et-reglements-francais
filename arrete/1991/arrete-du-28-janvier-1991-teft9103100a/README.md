@@ -8,5 +8,7 @@
 - [TITRE VI : MODALITÉS DE DÉSIGNATION ET DE FORMATION DU CHEF D'OPÉRATION HYPERBARE.](titre-vi)
 - [TITRE VII : MODALITÉS DE DÉSIGNATION ET DE FORMATION DE LA PERSONNE SURVEILLANT AU POSTE DE CONTRÔLE DES OPÉRATIONS HYPERBARES.](titre-vii)
 - [TITRE VIII : MODALITÉS DE DÉSIGNATION DU PERSONNEL DE SECOURS.](titre-viii)
-- [TITRE IX : DISPOSITIONS FINALES.](titre-ix)
+- [TITRE IX : Dispositions particulières à certaines activités subaquatiques](titre-ix)
+- [TITRE X : DISPOSITIONS FINALES.](titre-x)
+- [Dispositions particulières à certaines activités subaquatiques](dispositions-particulieres-a)
 - [Annexes](annexes)
