@@ -1,29 +1,83 @@
 # Article 2
 
-Les universités Lyon-I et de Saint-Etienne sont habilitées, dans les conditions fixées par le présent arrêté, à délivrer le diplôme national de technologie spécialisé (D.N.T.S.) dans les spécialités et avec les mentions suivantes:
+Les universités mentionnées ci-dessous sont également habilitées, pour l'année universitaire 1995-1996, à délivrer le diplôme national de technologie spécialisé dans les spécialités et avec les mentions suivantes:
 
-Université Lyon-I (I.U.T. A):
+Université d'Artois (I.U.T de Lens): marketing des biens et services industriels;
 
-- génie logiciel (mention Gestionnaire de base de données);
+Université Bordeaux-I (I.U.T. A): centre de recherche études et développement (C.R.E.D.);
 
-- informatique et génie civil;
+Université de Brest (I.U.T. de Quimper): maîtrise de l'environnement industriel (agroalimentaire);
 
-Université Lyon-I (I.U.T. B):
+Universités d'Evry et Paris-XI (I.U.T. d'Evry-Cachan): cadre technico-commercial (instrumentation et informatique industrielle);
 
-- conception et production automatisée (mention Automatique-productique-qualité);
+Université d'Evry - Val d'Essonne (I.U.T. d'Evry):
 
-- formation supérieure technico-commerciale;
+- vente spécialisée (immobilier);
 
-Université de Saint-Etienne (I.U.T. de Roanne):
+- gestion spécialisée (immobilier);
 
-- génie logiciel (mention Chargé de projet);
+- gestion spécialisée (point de vente);
 
-Université de Saint-Etienne (I.U.T. de Saint-Etienne):
+Universités d'Evry - Val d'Essonne et Paris-XII - Val-de-Marne (I.U.T.
 
-- conception et production automatisée (mention C.F.A.O.-G.P.A.O.);
+d'Evry et Créteil): ingénierie des façades légères dans le bâtiment;
 
-- technique du vide et des matériaux;
+Université Lyon-I Claude-Bernard (I.U.T. de Lyon B): technicien animateur de la qualité;
 
-- technicien et animateur de la qualité;
+Université de Metz (I.U.T. de Metz):
 
-- études économiques et conduite de projets.
+- gestion des activités internationales (P.M.E.-P.M.I.);
+
+- centre de formation au commerce européen;
+
+- matériaux et procédés en plasturgie;
+
+Université Nancy-I (I.U.T. Nancy-Brabois):
+
+- métrologie et génie des procédés (eau et environnement);
+
+- aquaculture continentale et aquariologie;
+
+- construction bois;
+
+- commercialisation de technologies;
+
+- génie génétique, biologie moléculaire, culture cellulaire;
+
+- techniques routières;
+
+- sciences et techniques de l'eau;
+
+- métrologie contrôle qualité;
+
+- productique, génie mécanique;
+
+I.U.T. de Longwy: acquisition et traitement en temps réel de l'information;
+
+Université Nancy-II (I.U.T. A):
+
+- gestion européenne des petites et moyennes entreprises;
+
+- négociateurs internationaux;
+
+Université Paris-V (I.U.T. Paris-V): révision comptable;
+
+Université Paris-X (I.U.T. de Ville-d'Avray): sciences et techniques de spécialités aérospatiales;
+
+Université Paris-XI (I.U.T. de Cachan):
+
+- systèmes électroniques informatisés;
+
+- cadre technico-commercial;
+
+- conception et production automatisée (productique);
+
+Université Paris-XI (I.U.T. d'Orsay):
+
+- traitement et analyse de l'eau;
+
+- méthodes physico-chimiques d'analyse;
+
+Université Paris-XIII (I.U.T. de Saint-Denis): conception et production automatisée (C.F.A.O.);
+
+Universités Paris-V - Paris XIII (I.U.T. Paris-V et Villetaneuse): génie logiciel en environnement distribué.
