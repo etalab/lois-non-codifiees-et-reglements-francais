@@ -14,28 +14,36 @@ La mise en surveillance de la source d'eau minérale, à la suite d'une analyse 
 
 Sauf accord entre l'exploitant et les autorités locales, la date de ces analyses est fixée conformément à la procédure des articles 3 et 4 du décret du 28 janvier 1860 modifié.
 
-Les analyses de surveillance de l'eau minérale comprennent :
+Les analyses de surveillance de l'eau minérale autre que conditionnée comprennent :
+
+Une analyse de type CM comportant :
 
 - la mesure :
 
-- de la conductivité ;
+- de la conductivité à 25 °C ;
 
-- du PH ;
+- du pH ;
 
 - de la température ;
 
 - de l'alcalinité ;
 
-- le dosage d'un anion caractéristique de l'eau minérale (chlorure, sulfate, sulfuration totale, CO<sub>2</sub>) ;
+- le dosage d'au moins un élément caractéristique de l'eau minérale (notamment chlorures, sulfates, sulfures totaux, CO<sub>2</sub> ...) ;
 
-- sur 1 ml, le dénombrement des bactéries revivifiables après vingt-quatre heures à 37 °C et soixante-douze heures à 22 °C, avec ensemencement dans les huit heures qui suivent le prélèvement ;
+- une analyse type BMO :
 
-- sur 50 ml, le dénombrement des anaérobies sporulés sulfito-réducteurs ;
+- dans 1 ml, le dénombrement des micro-organismes revivifiables à 36 °C +/- 2°C après 44 h +/- 4 h et à 22 °C +/- 2 °C après 68 h +/- 4 h ;
 
-- sur 250 ml, le dénombrement des coliformes totaux à 37 °C, des coliformes thermotolérants, des streptocoques du groupe D et des Pseudomonas aeruginosa ;
+- dans 50 ml, le dénombrement des germes anaérobies sporulés sulfito-réducteurs ;
 
-- sur 1 l, le dénombrement des legionella.
+- dans 250 ml, le dénombrement des coliformes totaux cultivant à 37 °C, des coliformes thermotolérants (Escherichia coli) cultivant à 44,5 °C, des streptocoques fécaux (entérocoques) et des Pseudomonas aeruginasa ;
 
-Pour les établissements thermaux, les prélèvements réalisés en vue des analyses de surveillance sont effectués à l'émergence et aux points choisis par catégorie d'usagé et aux fréquences figurant à l'annexe I.
+- une analyse type BM 1 :
 
-L'eau minérale naturelle utilisée en établissement thermal doit respecter les normes microbiologiques figurant à l'annexe II.
+- dans 1 litre, le dénombrement de Legionella, dont Legionella pneumophila.
+
+Pour les analyses microbiologiques précitées, l'ensemencement doit se faire dans les 12 heures qui suivent le prélèvement après conservation des échantillons à 6 °C +/- 4 °C pendant cette période.
+
+Pour les établissements thermaux, les prélèvements réalisés en vue des analyses de surveillance, sont effectués à l'émergence et aux points d'usage, aux fréquences figurant à l'annexe I
+
+L'eau minérale naturelle exploitée à l'émergence et aux points d'usage dans un établissement thermal doit respecter les normes microbiologiques figurant à l'annexe II.
