@@ -1,3 +1,3 @@
 # Article 2
 
-Les dispositions du présent arrêté prennent effet à compter du 1er juillet 1961.
+Les dispositions du présent arrêté prennent effet au 1er juillet 1961.
