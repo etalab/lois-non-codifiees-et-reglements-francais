@@ -84,4 +84,3 @@
 - [Loi n°90-588 du 6 juillet 1990 (MAEX90000047L)](loi-n90-588-du-6-juillet-1990-maex90000047l)
 - [Loi n°90-600 du 6 juillet 1990 (ECOX8900128L)](loi-n90-600-du-6-juillet-1990-ecox8900128l)
 - [Loi n°90-669 du 30 juillet 1990 (ECOX9000072L)](loi-n90-669-du-30-juillet-1990-ecox9000072l)
-- [Loi n°90-9 du 2 janvier 1990 (TEFX8900150L)](loi-n90-9-du-2-janvier-1990-tefx8900150l)

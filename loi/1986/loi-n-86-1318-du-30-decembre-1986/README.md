@@ -1,0 +1,17 @@
+# Loi n° 86-1318 du 30 décembre 1986 de finances rectificative pour 1986
+
+- [Article 19](article-19.md)
+- [Article 20](article-20.md)
+- [Article 22](article-22.md)
+- [Article 23](article-23.md)
+- [Article 26](article-26.md)
+- [Article 29](article-29.md)
+- [Article 30](article-30.md)
+- [Article 35](article-35.md)
+- [Article 37](article-37.md)
+- [Article 38](article-38.md)
+- [Article 40](article-40.md)
+- [Article 41](article-41.md)
+- [Article 42](article-42.md)
+- [Article 44](article-44.md)
+- [Article 45](article-45.md)
