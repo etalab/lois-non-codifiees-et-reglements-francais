@@ -1,0 +1,3 @@
+# Article 45
+
+Le domaine public maritime des provinces comprend, à l'exception des emprises affectées à la date de la publication de la présente loi à l'exercice des compétences de l'Etat et sous réserve des droits des tiers, la zone dite des cinquante pas géométriques, les rivages de la mer, les terrains gagnés sur la mer, le sol et le sous-sol des eaux intérieures, dont ceux des rades et lagons, telles que définies par les conventions internationales, ainsi que le sol et le sous-sol des eaux territoriales. Les îles qui ne sont pas comprises dans le territoire d'une province ainsi que le sol et sous-sol du plan d'eau du port autonome de la Nouvelle-Calédonie font partie du domaine public de la Nouvelle-Calédonie.

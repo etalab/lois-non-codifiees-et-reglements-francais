@@ -1,0 +1,5 @@
+# Article 60
+
+Les fonctionnaires territoriaux de Nouvelle-Calédonie titulaires d'un grade d'un corps régi par les dispositions de l'arrêté gubernatorial n° 1065 du 22 août 1953 et les textes qui l'ont modifié peuvent opter dans un délai de deux ans entre le maintien de leur statut et celui de fonctionnaire de l'Etat si, antérieurement à la date de publication de la présente loi, ils exerçaient dans un service placé sous l'autorité directe du haut-commissaire de la République et chargé de la mise en oeuvre de compétences non susceptibles d'être transférées à la Nouvelle-Calédonie.
+
+S'ils optent pour le statut de fonctionnaire de l'Etat, ils sont placés en position de détachement dans un emploi ou un corps de l'Etat, dans les conditions prévues par l'article 58 et en fonction des vacances d'emplois de l'Etat en Nouvelle-Calédonie durant une période de cinq ans suivant la publication de la présente loi. Si le détachement n'a pu intervenir pendant cette période, ils sont alors détachés de plein droit dans un corps ou emploi de l'Etat situé sur l'ensemble du territoire national, sauf s'ils renoncent à exercer leur droit d'option.

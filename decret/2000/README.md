@@ -27,6 +27,7 @@
 - [Décret n°2000-1 du 4 janvier 2000 (MCCB9900821D)](decret-n2000-1-du-4-janvier-2000-mccb9900821d)
 - [Décret n°2000-2 du 4 janvier 2000 (MESH9923954D)](decret-n2000-2-du-4-janvier-2000-mesh9923954d)
 - [Décret n°2000-293 du 4 avril 2000 (JUSC0020083D)](decret-n2000-293-du-4-avril-2000-jusc0020083d)
+- [Décret n°2000-296 du 4 avril 2000 (INTM9900027D)](decret-n2000-296-du-4-avril-2000-intm9900027d)
 - [Décret n°2000-3 du 4 janvier 2000 (MESH9923955D)](decret-n2000-3-du-4-janvier-2000-mesh9923955d)
 - [Décret n°2000-4 du 4 janvier 2000 (JUSC9920615D)](decret-n2000-4-du-4-janvier-2000-jusc9920615d)
 - [Décret n°2000-6 du 4 janvier 2000 (MESA9923626D)](decret-n2000-6-du-4-janvier-2000-mesa9923626d)

@@ -5,6 +5,7 @@
 - [Loi n° 2000-175 du 2 mars 2000 (MESX9903791L)](loi-n-2000-175-du-2-mars-2000-mesx9903791l)
 - [Loi n° 2000-230 du 13 mars 2000 (JUSX9900020L)](loi-n-2000-230-du-13-mars-2000-jusx9900020l)
 - [Loi n° 2000-242 du 14 mars 2000 (MAEX9900021L)](loi-n-2000-242-du-14-mars-2000-maex9900021l)
+- [Loi n° 2000-295 du 5 avril 2000 (INTX9800019L)](loi-n-2000-295-du-5-avril-2000-intx9800019l)
 - [Loi n° 2000-37 du 19 janvier 2000 (MESX9900090L)](loi-n-2000-37-du-19-janvier-2000-mesx9900090l)
 - [Loi n° 99-1125 du 28 décembre 1999 (MESX9903846L)](loi-n-99-1125-du-28-decembre-1999-mesx9903846l)
 - [Loi n°2000-196 du 6 mars 2000 (MENX9903288L)](loi-n2000-196-du-6-mars-2000-menx9903288l)
