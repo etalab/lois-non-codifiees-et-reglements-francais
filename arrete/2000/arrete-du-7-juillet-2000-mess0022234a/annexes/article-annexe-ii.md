@@ -12,6 +12,8 @@ Aquitaine marine 162, quai de Brazza, 33100 Bordeaux : De 1985 à 1986.
 
 ARMI Face au 81, rue des Etrangers, 33100 Bor­deaux : De 1989 à 1998.
 
+ARNI, cours du Pré-de-Saint-Maur, 33000 Bordeaux, de 1963 à 1983.
+
 Ateliers et chantiers de Dunkerque et Bordeaux. 125 quai de Brazza, 33100 Bordeaux. De 1960 à 1968.
 
 Ateliers et chantiers du Sud-Ouest. 162, quai de Brazza, 33100 Bordeaux. De 1979 à 1985.
@@ -29,6 +31,8 @@ Capendeguy et Cie :
 Chantiers Barde Aquitaine, quai de la Floride, 64700 Hendaye : de 1988 à 1990.
 
 COROPAINT Face au 105, quai des Queyries, 33100 Bordeaux : Depuis sa création à 1986.
+
+Etablissement Catogni Feltrin, 5, avenue du Meilleur-Ouvrier-de-France, 33700 Mérignac, depuis 1970.
 
 Forges et chantiers de la Gironde 125, quai de Brazza, 33100 Bordeaux : Depuis sa création à 1960.
 
@@ -94,6 +98,8 @@ Digne Joseph/Digne Françoise :
 
 - quai des Chantiers, 14520 Port-en-Bessin : depuis 1949.
 
+Dufour, puis SARL Dufour, rue des Albatros, zone industrielle, 14520 Port-en-Bessin-Huppain, et 4, rue des Anciennes-Ecoles, 14450 Grandcamp-Maisy, de 1973 à 2000.
+
 Entreprise industrielle :
 
 - rue des Claires, BP 21, 50120 Equeurdreville : depuis 1985.
@@ -117,6 +123,8 @@ SA Industrielle plomb plastique mécanique/Machinox :
 - hameau Les Quatre Vents, 50441 Beaumont-Hague Cedex, et route de Portbail, 50390 Saint-Sauveur-le-Vicomte : de 1928 à 1985.
 
 Mecagena, quai de l'Ancien-Arsenal, 50100 Cherbourg : de 1974 à 1986.
+
+Omnium technique d'études et contrôle de montages industriels (OTECMI), ZA La Belle Jardinière, BP 41, 50120 Equeurdreville, de 1980 à 1990.
 
 RMO (Rectification mécanique de l'Ouest) :
 
@@ -431,6 +439,8 @@ Etablissements Guillaume et Cie :
 Etablissement Herledan, 4, rue Tal-ar-Veil, 29730 Lechiagat : depuis sa création à 1983.
 
 Etablissements J. Michel et C. Le Scoul, puis Cornouaille moteurs C. Le Scoul, puis Cornouaille moteurs, puis SARL Soficomo, quai Est, 29110 Concarneau : depuis 1957.
+
+Etablissements Le Rhun-Cossec, Saint-Guénolé, 29760 Penmarc'h, de 1944 à 1965.
 
 Etablissements Meunier FSA, rue de Kerpont, ZI Kerpont, 56850 Caudan : depuis 1965.
 
@@ -956,7 +966,7 @@ Ateliers et chantiers de Concarneau :
 
 Ateliers et chantiers de Fécamp :
 
-- 76400 Fécamp : de sa création à 1975.
+- 76400 Fécamp : de sa création à 1987.
 
 Atelier Duchêne Bossiere et Augustin Normand :
 
@@ -1023,6 +1033,8 @@ Demolin, 29-33, rue des Magasins-Généraux, 76600 Le Havre : depuis 1970.
 Depittre Métabois :
 
 - 828, rue A.-Briand, 76650 Petit-Couronne : depuis 1960.
+
+Etablissement G. Buquet et Cie, quai Sadi-Carnot, 76400 Fécamp, depuis 1959.
 
 Etablissement Lacmil, 76290 Montivilliers, puis 81, rue des Motteaux, 76620 Le Havre : depuis 1959.
 
@@ -1124,7 +1136,7 @@ SERMI :
 
 - 76600 Le Havre : depuis 1960.
 
-Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Rouen, 34, boulevard , BP 4075, 76100 Rouen : de 1947 à 1997.
+Service technique atelier et magasin du Port autonome de Rouen, 34, boulevard Boisguilbert, BP 4075, 76100 Rouen : de 1947 à 1997.
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome du Havre, 76600 Le Havre : depuis 1947.
 
@@ -1171,6 +1183,8 @@ TRAVISOL/NORISOLEC/ISOMARBAT :
 UIE (plate-forme) :
 
 - 76600 Le Havre : de 1970 à 1978.
+
+Union maritime, 10, quai Bois-Guilbert, 76000 Rouen, de 1960 à 1969.
 
 Union normande, boulevard Industriel, 76300 Sotteville-lès-Rouen : de 1930 à 1978.
 
@@ -1308,7 +1322,9 @@ Ateliers Chantiers Navires Boulogne :
 
 - 497, rue A.-et-P.-Vanheeckoet, 62480 Le Portel : depuis 1979.
 
-Atelier chaudronnerie navale industrielle (ACNI) 54, rue de Constantine 6200 Boulogne-sur-Mer. Depuis 1984 à 1994
+Atelier chaudronnerie navale industrielle (ACNI) 54, rue de Constantine 6200 Boulogne-sur-Mer. Depuis 1984 à 1994.
+
+Ateliers de chaudronnerie et de mécanique de Bourbourg (ACMB), rue de Dunkerque, 59630 Bourbourg, de 1977 à 1993.
 
 Ateliers de la Samaritaine, puis Ateliers chaudronnerie mécanique de Saint-Pol-sur-Mer (ACMS), 229, avenue Maurice-Berteaux, 59430 Saint-Pol-sur-Mer : depuis sa création à 1998.
 
@@ -1478,6 +1494,8 @@ Etablissements Leroy :
 
 Etablissements Marius Series/Series 2000, 27, rue du Docteur-Duchêne, 62200 Boulogne-sur-Mer : depuis 1958.
 
+Etablissements R. Barra et Cie, avenue Maurice-Bertaux, 59430 Saint-Pol-sur-Mer, de 1949 à 1980.
+
 Etablissements Robert Meersseman et fils, puis SNM (Société nouvelle Meersseman), impasse de l'Yser, 59153 Grand-Fort-Philippe, puis 4, rue Guynemer, 59153 Grand-Fort-Philippe, 20, boulevard François-Lévêque, 59153 Grand-Fort-Philippe : depuis 1941.
 
 Etablissements Rogliano :
@@ -1510,7 +1528,7 @@ Fleury - Ateliers Rogliano :
 
 - 36, rue du Gouvernement, 59140 Dunkerque : de 1950 à 1985.
 
-Forges Caloin : de 1948 à 1989, puis Ateliers chantiers d'Etaples (ACE), boulevard Bigot-Descelers, 62630 Etaples : depuis 1989.
+Forges Caloin, boulevard Bigot-Descelers, 62630 Etaples : de 1948 à 1990, puis Chantiers Caloin boulevard Bigot-Descelers, 62630 Etaples de 1990 à 1993, Ateliers et chantiers d'Etaples, boulevard Bigot-Descelers, 62630 Etaples : depuis 1993.
 
 Forges Masson 16 à 20, rue Saint-Vincent-de-Paul, 62200 Boulogne‑sur-Mer. Depuis 1978.
 
@@ -1548,7 +1566,7 @@ Jolly Michel 16, rue Magenta, 62000 Boulogne-sur-Mer. de 1970 à 1995.
 
 La Peinture navale, quai des Réparations, 59140 Dunkerque : de 1959 à 1977.
 
-L'Electricité industrielle (l'EI). 120-122, rue des 4-Coins, 62100 Calais. De 1965 à 1968
+L'Electricité industrielle (L'EI). 120-122, rue des 4-Coins, 62100 Calais. De 1965 à 1990.
 
 Léon Landy rue de Lorraine, 62510 Arques. De 1959 à 1993
 
@@ -1626,7 +1644,7 @@ SNEF Electrix Flux :
 
 SEPATIM/SOCANOR :
 
-- 51, rue Henry-Terquem, 59140 Dunkerque : de 1966 à 1984.
+- 51, rue Henry-Terquem et 26, rue Saint-Pierre 59140 Dunkerque : de 1966 à 1984.
 
 Service technique de l'outillage, des ateliers et centre d'activité de la réparation navale et du dragage du Port autonome de Dunkerque, terre-plein Guillain, BP 6534, 59386 Dunkerque : depuis 1947.
 
