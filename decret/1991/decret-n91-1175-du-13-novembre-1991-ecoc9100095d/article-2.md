@@ -4,6 +4,6 @@ Sont interdites la fabrication, l'importation, l'exportation, l'offre, la vente,
 
 1. Briquets imitant un autre objet ;
 
-2. Sapins de Noël artificiels ;
+2. Arbres de Noël artificiels ;
 
 3. Bougeoirs et compositions décoratives de bougies.
