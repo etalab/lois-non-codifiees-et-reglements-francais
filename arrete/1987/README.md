@@ -41,6 +41,8 @@
 - [Arrêté du 5 mars 1987 (ECOT8730011A)](arrete-du-5-mars-1987-ecot8730011a)
 - [Arrêté du 5 mars 1987 (MCCB8700078A)](arrete-du-5-mars-1987-mccb8700078a)
 - [Arrêté du 5 mars 1987 (MCCK8700088A)](arrete-du-5-mars-1987-mcck8700088a)
+- [Arrêté du 5 mai 1987 (BUDF8710032A)](arrete-du-5-mai-1987-budf8710032a)
+- [Arrêté du 6 avril 1987 (TRSL8700130A)](arrete-du-6-avril-1987-trsl8700130a)
 - [Arrêté du 6 février 1987 (AGRE8700410A)](arrete-du-6-fevrier-1987-agre8700410a)
 - [Arrêté du 6 janvier 1987](arrete-du-6-janvier-1987)
 - [Arrêté du 6 janvier 1987 (ECOX8798243A)](arrete-du-6-janvier-1987-ecox8798243a)
