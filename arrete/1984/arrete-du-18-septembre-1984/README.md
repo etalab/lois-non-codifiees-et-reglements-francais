@@ -1,4 +1,4 @@
-# Arrêté du 18 septembre 1984 portant relèvement des seuils d'examen des marchés soumis à la commission spécialisée des marchés d'informatique
+# Arrêté du 18 septembre 1984 fixant le montant de l'aide financière pour l'aménagement des postes de travail en faveur des travailleurs handicapés à partir duquel l'arrêté du commissaire de la République est transmis au ministère de l'emploi
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -116,6 +116,7 @@
 - [Décret n°84-465 du 15 juin 1984](decret-n84-465-du-15-juin-1984)
 - [Décret n°84-467 du 15 juin 1984](decret-n84-467-du-15-juin-1984)
 - [Décret n°84-474 du 15 juin 1984](decret-n84-474-du-15-juin-1984)
+- [Décret n°84-916 du 15 octobre 1984](decret-n84-916-du-15-octobre-1984)
 - [Décret n°84-367 du 15 mai 1984](decret-n84-367-du-15-mai-1984)
 - [Décret n°84-107 du 16 février 1984](decret-n84-107-du-16-fevrier-1984)
 - [Décret n°84-108 du 16 février 1984](decret-n84-108-du-16-fevrier-1984)
