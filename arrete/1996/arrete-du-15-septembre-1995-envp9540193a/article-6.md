@@ -1,0 +1,3 @@
+# Article 6
+
+Le directeur de la prévention des pollutions et des risques, le directeur des routes, le directeur général de l'aviation civile, le directeur des transports terrestres, le directeur des ports et de la navigation maritime, le directeur de l'administration générale du ministère de la défense, le directeur de la sécurité civile, le directeur général des collectivités locales et le directeur des affaires économiques, sociales et culturelles de l'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
