@@ -1,9 +1,13 @@
 # Article 15
 
-L'Etat et les communes [*collectivités locales - recettes*] exercent, selon les modalités d'assiette et de tarif déterminées par la législation en vigueur, un prélèvement sur le produit brut des jeux.
+L'Etat et les communes exercent selon les modalités d'assiette et de tarif déterminées par la législation et la réglementation en vigueur un prélèvement sur le produit brut des jeux.
 
-Le produit brut est constitué [*calcul*] :
+Le produit brut est constitué :
 
-Aux jeux de cercle par le montant intégral de la cagnotte sans aucune déduction.
+1° Aux jeux de cercle par le montant intégral de la cagnotte sans aucune déduction ;
 
-A la boule, au vingt-trois ainsi qu'aux autres jeux de contrepartie par la différence entre le montant cumulé de l'avance initiale et des avances complémentaires éventuelles et le montant de l'encaisse constatée en fin de partie. Dans le cas où la différence serait négative, le perte subie viendrait en déduction des bénéfices des jours suivants.
+2° A la boule, au vingt-trois ainsi qu'aux autres jeux de contrepartie par la différence entre le montant cumulé de l'avance initiale et des avances complémentaires éventuelles et le montant de l'encaisse constaté en fin de partie ;
+
+3° Pour les appareils mentionnés au d de l'article 1er, par la différence entre le montant des mises, obtenu par multiplication du nombre de pièces ou jetons enregistré en entrée dans l'appareil par la valeur de ces pièces ou jetons, et le produit obtenu par application à ce montant du taux de redistribution de l'appareil.
+
+Dans le cas où la différence mentionnée au 2° ci-dessus serait négative, la perte subie viendrait en déduction des bénéfices des jours suivants.
