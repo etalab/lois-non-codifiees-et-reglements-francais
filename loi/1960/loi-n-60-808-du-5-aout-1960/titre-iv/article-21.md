@@ -1,0 +1,5 @@
+# Article 21
+
+Les zones spéciales d'action rurale caractérisées par leur sous-aménagement, leur surpeuplement ou leur sous-peuplement, et par l'exode des populations rurales, bénéficieront selon leurs besoins d'une priorité dans les investissements publics tendant à porter remède à leur situation critique et des mesures propres à favoriser l'installation de petites unités industrielles ; cette installation y sera encouragée par l'octroi des avantages prévus au décret n° 60-370 du 15 avril 1960, mais, compte tenu de la dimension de ces entreprises, l'aide de l'Etat pourra être accordée même si les programmes d'investissements n'entraînent pas la création des vingt emplois exigés par le décret. Ces zones bénéficieront également d'efforts particuliers sur le plan de l'équipement rural et de l'équipement touristique.
+
+Lorsque ces zones sont défavorisées par leur éloignement, soit des points d'approvisionnement en produits nécessaires à l'agriculture, soit des centres de consommation et de vente, des mesures de péréquation des tarifs de transports propres à rendre leurs productions compétitives devront être prises.

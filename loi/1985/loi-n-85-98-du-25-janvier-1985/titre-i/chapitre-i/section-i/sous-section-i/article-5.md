@@ -1,0 +1,3 @@
+# Article 5
+
+En cas d'inexécution des engagements financiers conclus dans le cadre de l'accord amiable [*sanctions*] prévu soit par l'article 37 de la loi n° 84-148 du 1er mars 1984 précitée, soit par l'article 27 de la loi n° 88-1202 du 30 décembre 1988 relative à l'adaptation de l'exploitation agricole à son environnement économique et social, la procédure est ouverte d'office ou sur demande du procureur de la République, du débiteur ou d'un créancier partie à l'accord. Le tribunal prononce la résolution de l'accord. Les créanciers recouvrent l'intégralité de leurs créances et sûretés, déduction faite des sommes perçues.

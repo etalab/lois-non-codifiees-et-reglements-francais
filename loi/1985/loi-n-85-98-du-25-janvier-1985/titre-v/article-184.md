@@ -1,0 +1,3 @@
+# Article 184
+
+Aux fins de l'application des dispositions des articles 180 à 182, d'office ou à la demande de l'une des personnes mentionnées à l'article 183, le tribunal peut charger le juge-commissaire ou, à défaut, un membre de la juridiction qu'il désigne d'obtenir, nonobstant toute disposition législative contraire, communication de tout document ou information sur la situation patrimoniale des dirigeants personnes physiques ou morales ainsi que des personnes physiques représentants permanents des dirigeants personnes morales mentionnées à l'article 179 [*groupes de sociétés*] de la part des administrations et organismes publics, des organismes de prévoyance et de sécurité sociales et des établissements de crédit [*pouvoirs d'investigation*].
