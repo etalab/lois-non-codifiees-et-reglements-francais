@@ -1,3 +1,3 @@
 # Article 1
 
-La valeur du point de retraite applicable du 1er juillet 1974 au 30 juin 1975, et fixée à 0,570 F par l'arrêté du 26 juillet 1974, est portée à 0,578 F, avec effet du 1er juillet 1974, et à 0,610 F, avec effet du 1er janvier 1975.
+L'organisation des transports par voie ferrée pour la défense, prévue par le décret du 15 décembre 1965 susvisé, est précisée par les dispositions ci-après concernant la commission centrale des chemins de fer et ses commissions subordonnées.
