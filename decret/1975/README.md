@@ -7,7 +7,6 @@
 - [Décret n°75-1201 du 4 décembre 1975](decret-n75-1201-du-4-decembre-1975)
 - [Décret n°75-713 du 4 août 1975](decret-n75-713-du-4-aout-1975)
 - [Décret n°75-851 du 5 septembre 1975](decret-n75-851-du-5-septembre-1975)
-- [Décret n°75-315 du 5 mai 1975](decret-n75-315-du-5-mai-1975)
 - [Décret n°75-725 du 6 août 1975](decret-n75-725-du-6-aout-1975)
 - [Décret n°75-911 du 6 octobre 1975](decret-n75-911-du-6-octobre-1975)
 - [Décret n°75-755 du 7 août 1975](decret-n75-755-du-7-aout-1975)

@@ -14,7 +14,6 @@
 - [Décret n°54-1023 du 13 octobre 1954](decret-n54-1023-du-13-octobre-1954)
 - [Décret n°54-1055 du 14 octobre 1954](decret-n54-1055-du-14-octobre-1954)
 - [Décret n°54-1128 du 15 novembre 1954](decret-n54-1128-du-15-novembre-1954)
-- [Décret n°54-65 du 16 janvier 1954](decret-n54-65-du-16-janvier-1954)
 - [Décret n°54-1163 du 19 novembre 1954](decret-n54-1163-du-19-novembre-1954)
 - [Décret n°54-1293 du 24 décembre 1954](decret-n54-1293-du-24-decembre-1954)
 - [Décret n°54-546 du 26 avril 1954](decret-n54-546-du-26-avril-1954)

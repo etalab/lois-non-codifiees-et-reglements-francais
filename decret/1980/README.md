@@ -35,7 +35,6 @@
 - [Décret n°80-974 du 4 décembre 1980](decret-n80-974-du-4-decembre-1980)
 - [Décret du 5 février 1980](decret-du-5-fevrier-1980)
 - [Décret n°80-402 du 5 juin 1980](decret-n80-402-du-5-juin-1980)
-- [Décret n°80-632 du 5 août 1980](decret-n80-632-du-5-aout-1980)
 - [Décret n°80-693 du 5 septembre 1980](decret-n80-693-du-5-septembre-1980)
 - [Décret n°80-709 du 5 septembre 1980](decret-n80-709-du-5-septembre-1980)
 - [Décret n°80-881 du 5 novembre 1980](decret-n80-881-du-5-novembre-1980)

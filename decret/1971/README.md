@@ -42,7 +42,6 @@
 - [Décret n°71-750 du 14 septembre 1971](decret-n71-750-du-14-septembre-1971)
 - [Décret n°71-365 du 14 mai 1971](decret-n71-365-du-14-mai-1971)
 - [Décret du 15 avril 1971](decret-du-15-avril-1971)
-- [Décret n°71-136 du 15 février 1971](decret-n71-136-du-15-fevrier-1971)
 - [Décret n°71-612 du 15 juillet 1971](decret-n71-612-du-15-juillet-1971)
 - [Décret n°71-928 du 15 novembre 1971](decret-n71-928-du-15-novembre-1971)
 - [Décret n°71-618 du 16 juillet 1971](decret-n71-618-du-16-juillet-1971)
