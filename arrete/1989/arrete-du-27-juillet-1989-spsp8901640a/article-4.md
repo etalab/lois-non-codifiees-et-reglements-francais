@@ -1,0 +1,3 @@
+# Article 4
+
+Les étudiants admis dans le troisième cycle de médecine générale en application des articles 1er et 2 du présent arrêté deviennent résidents à compter du premier changement de poste des résidents suivant leur demande, qui doit parvenir à la direction des affaires sanitaires et sociales et à l'unité de formation et de recherche compétente deux mois avant ce changement de poste. Ils sont alors soumis au statut des résidents défini par le décret du 2 septembre 1983 susvisé et aux dispositions pédagogiques fixées par le décret du 7 avril 1988 susvisé et par l'arrêté du 29 avril 1988 susvisé, à l'exception, pour les docteurs en médecine, des dispositions concernant la soutenance de la thèse.
