@@ -1204,7 +1204,6 @@
 - [Arrêté du 31 décembre 1991 (SPSS9102894A)](arrete-du-31-decembre-1991-spss9102894a)
 - [Arrêté du 31 décembre 1991 (SPSS9200146A)](arrete-du-31-decembre-1991-spss9200146a)
 - [Arrêté du 31 décembre 1991 (SPSX9110626A)](arrete-du-31-decembre-1991-spsx9110626a)
-- [Arrêté du 31 janvier 1992 (DEFD9201108A)](arrete-du-31-janvier-1992-defd9201108a)
 - [Arrêté du 31 janvier 1992 (DEFD9201109A)](arrete-du-31-janvier-1992-defd9201109a)
 - [Arrêté du 31 janvier 1992 (ECOT9210142A)](arrete-du-31-janvier-1992-ecot9210142a)
 - [Arrêté du 31 janvier 1992 (INDP9200097A)](arrete-du-31-janvier-1992-indp9200097a)
