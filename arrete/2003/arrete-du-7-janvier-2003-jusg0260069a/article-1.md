@@ -2,7 +2,7 @@
 
 La direction de l'administration pénitentiaire comprend :
 
-- le département de l'état-major de sécurité ;
+- la sous-direction de l'état-major de sécurité ;
 
 - la sous-direction des personnes placées sous main de justice ;
 

@@ -2,3 +2,4 @@
 
 - [TITRE Ier : Dispositions générales.](titre-ier)
 - [TITRE II : Règles administratives et financières](titre-ii)
+- [Article 29](article-29.md)

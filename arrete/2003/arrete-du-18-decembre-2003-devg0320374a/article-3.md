@@ -1,0 +1,3 @@
+# Article 3
+
+Les concours de recrutements exceptionnels dans les groupes 5 et 6 comprennent une épreuve orale. Cette épreuve débute par un exposé du candidat sur son expérience professionnelle et les fonctions qu'il a exercées. Cet exposé est suivi d'un entretien avec le jury dont l'objectif est de vérifier les compétences professionnelles du candidat dans sa spécialité et de déterminer la capacité de l'intéressé à se situer dans son environnement professionnel ainsi que son aptitude à s'adapter aux missions et aux travaux confiés aux agents du groupe à partir de questions posées par le jury (durée de l'épreuve : vingt minutes environ).

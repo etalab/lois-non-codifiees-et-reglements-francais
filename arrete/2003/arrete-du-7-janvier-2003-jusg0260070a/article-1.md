@@ -2,7 +2,7 @@
 
 La direction de l'administration pénitentiaire comprend :
 
-1. Le département de l'état-major de sécurité, dont les attributions sont réparties en trois bureaux :
+1. La sous-direction de l'état-major de sécurité, dont les attributions sont réparties en trois bureaux :
 
 - le bureau de gestion de la détention ;
 
