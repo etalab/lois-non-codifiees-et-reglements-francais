@@ -1,6 +1,6 @@
 # Article 6
 
-Quiconque consent à autrui un prêt usuraire ou apporte sciemment à quelque titre et de quelque manière que ce soit, directement ou indirectement, son concours à l'obtention ou à l'octroi d'un prêt usuraire ou d'un prêt qui deviendrait usuraire au sens des articles 1er et 2 du fait de son concours est puni d'un emprisonnement de deux mois à deux ans et d'une amende de 2.000 F à 300.000 F ou de l'une de ces deux peines seulement.
+Quiconque consent à autrui un prêt usuraire ou apporte sciemment à quelque titre et de quelque manière que ce soit, directement ou indirectement, son concours à l'obtention ou à l'octroi d'un prêt usuraire ou d'un prêt qui deviendrait usuraire au sens de l'article 1er du fait de son concours est puni d'un emprisonnement de deux mois à deux ans et d'une amende de 2.000 F à 300.000 F ou de l'une de ces deux peines seulement.
 
 En outre, le tribunal peut ordonner :
 
