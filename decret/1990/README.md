@@ -809,7 +809,6 @@
 - [Décret n°90-288 du 30 mars 1990 (SPSS8902763D)](decret-n90-288-du-30-mars-1990-spss8902763d)
 - [Décret n°90-290 du 30 mars 1990](decret-n90-290-du-30-mars-1990)
 - [Décret n°90-298 du 30 mars 1990 (ECOM9030021D)](decret-n90-298-du-30-mars-1990-ecom9030021d)
-- [Décret n°90-311 du 30 mars 1990 (SPSS8902784D)](decret-n90-311-du-30-mars-1990-spss8902784d)
 - [Décret n°90-375 du 30 avril 1990 (ECOC8900101D)](decret-n90-375-du-30-avril-1990-ecoc8900101d)
 - [Décret n°90-377 du 30 avril 1990 (SPSH9000381D)](decret-n90-377-du-30-avril-1990-spsh9000381d)
 - [Décret n°90-768 du 30 août 1990 (SPSS9000549D)](decret-n90-768-du-30-aout-1990-spss9000549d)
