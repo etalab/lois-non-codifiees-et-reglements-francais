@@ -1,0 +1,9 @@
+# Article 6
+
+I.  Les personnels infirmiers fonctionnaires régis par le décret n° 90-230 du 14 mars 1990, en fonctions dans les services extérieurs de l'administration pénitentiaire à la date de la prise en charge effective par les établissements publics de santé associés au dispositif de soins en milieu pénitentiaire des obligations de service public mentionnées au dernier alinéa de l'article L. 711-3 du code de la santé publique, sont détachés auprès desdits établissements dans l'un des corps des personnels infirmiers de la fonction publique hospitalière s'ils remplissent les conditions d'accès audit corps.
+
+II. Dans un délai d'un an à compter de la date mentionnée au I ci-dessus, les personnels pourront opter pour leur intégration dans l'un des corps précités, dans des conditions fixées par décret en Conseil d'Etat. Les services accomplis dans le corps des infirmiers des services extérieurs de l'administration pénitentiaire sont considérés comme services effectifs accomplis dans les établissements publics de santé. Les agents qui n'auront pas fait valoir leur droit à cette intégration pourront la demander dans l'un des autres corps d'infirmiers relevant de la fonction publique d'Etat.
+
+III. Les personnels infirmiers régis par la convention collective de la Croix-Rouge en fonctions à la date de la prise en charge mentionnée au I ci-dessus dans les services extérieurs de l'administration pénitentiaire sont mis à la disposition des établissements publics de santé associés au dispositif de soins en milieu pénitentiaire pour une période ne pouvant excéder la date d'expiration de la convention passée entre le ministère de la justice et la Croix-Rouge.
+
+Les établissements publics de santé associés au dispositif de soins en milieu pénitentiaire peuvent maintenir et prendre à leur charge après son expiration les obligations résultant de la convention passée entre le ministère de la justice et la Croix-Rouge.

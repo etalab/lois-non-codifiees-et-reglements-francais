@@ -1,4 +1,3 @@
 # 1949
 
 - [Loi n° 49-1060 du 2 août 1949](loi-n-49-1060-du-2-aout-1949)
-- [Loi n°49-890 du 7 juillet 1949](loi-n49-890-du-7-juillet-1949)
