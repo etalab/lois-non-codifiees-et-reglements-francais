@@ -1,5 +1,6 @@
 # 1974
 
+- [Arrêté du 3 janvier 1974](arrete-du-3-janvier-1974)
 - [Arrêté du 9 janvier 1974](arrete-du-9-janvier-1974)
 - [Arrêté du 10 janvier 1974](arrete-du-10-janvier-1974)
 - [Arrêté du 15 janvier 1974](arrete-du-15-janvier-1974)
