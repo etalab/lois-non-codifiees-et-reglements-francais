@@ -1,5 +1,6 @@
 # Décret n°83-287 du 8 avril 1983 portant statut particulier du corps des assistants des disciplines juridiques, politiques, économiques et de gestion et des disciplines littéraires et de sciences humaines.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
