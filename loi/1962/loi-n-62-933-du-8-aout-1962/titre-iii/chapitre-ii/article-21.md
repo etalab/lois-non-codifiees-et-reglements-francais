@@ -1,6 +1,6 @@
 # Article 21
 
-Pendant la période transitoire de la politique agricole commune de la Communauté économique européenne, aucune entreprise de production de porcs, de volailles et d'oeufs ne pourra être créée ni développée sans autorisation préalable du ministre de l'agriculture, si la capacité de production prévue excède la limite maximum de capacité de production qui sera fixée par arrêté dans la région de son établissement.
+Pendant la période transitoire de la politique agricole commune de la Communauté européenne, aucune entreprise de production de porcs, de volailles et d'oeufs ne pourra être créée ni développée sans autorisation préalable du ministre de l'agriculture, si la capacité de production prévue excède la limite maximum de capacité de production qui sera fixée par arrêté dans la région de son établissement.
 
 L'autorisation ne pourra être refusée lorsque la création ou l'extension a pour effet d'améliorer les conditions de rentabilité d'une exploitation familiale agricole sans lui faire perdre ce caractère.
 

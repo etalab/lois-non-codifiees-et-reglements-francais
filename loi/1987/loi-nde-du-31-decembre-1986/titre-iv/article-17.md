@@ -1,0 +1,3 @@
+# Article 17
+
+Les crédits d'Etat supplémentaires consacrés, par application de la présente loi, aux équipements scolaires seront affectés aux dotations prévues en faveur des régions et des départements par les articles 16 et 17 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat. Ils seront répartis entre les régions d'outre-mer, d'une part, les départements d'outre-mer, d'autre part, dans les conditions fixées au deuxième alinéa de l'article 16 et au deuxième alinéa de l'article 17 de la loi n° 83-663 du 22 juillet 1983 précitée.

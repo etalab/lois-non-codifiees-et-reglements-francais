@@ -10,11 +10,11 @@ Les dispositions de la présente loi ne sont pas applicables aux contrats défin
 
 4° Pour des fournitures ou des travaux déclarés secrets ou lorsque la livraison ou l'exécution doit s'accompagner de mesures particulières de sécurité ou lorsque la protection des intérêts essentiels de l'Etat l'exige ;
 
-5° En vertu de la procédure spécifique d'une organisation internationale ou d'un accord international conclu en relation avec le stationnement de troupes et concernant des entreprises d'un Etat membre ou non membre de la Communauté économique européenne ou d'un accord international conclu avec un ou plusieurs Etats non membres de la Communauté économique européenne et portant sur des fournitures ou des travaux destinés à la réalisation ou à l'exploitation en commun d'un ouvrage par les Etats signataires de l'accord ;
+5° En vertu de la procédure spécifique d'une organisation internationale ou d'un accord international conclu en relation avec le stationnement de troupes et concernant des entreprises d'un Etat membre ou non membre de la Communauté européenne ou d'un accord international conclu avec un ou plusieurs Etats non membres de la Communauté européenne et portant sur des fournitures ou des travaux destinés à la réalisation ou à l'exploitation en commun d'un ouvrage par les Etats signataires de l'accord ;
 
 6° A des fins de vente ou de location à des tiers de fournitures ou d'ouvrages qui peuvent être librement vendus ou loués par d'autres organismes dans des conditions identiques ;
 
-7° Dans un domaine d'activité autre que ceux visés à l'article 2 ou pour la poursuite des activités définies à cet article dans un Etat non membre de la Communauté économique européenne, dans des conditions n'impliquant pas l'exploitation physique d'un réseau ou d'une aire géographique à l'intérieur de la Communauté économique européenne ;
+7° Dans un domaine d'activité autre que ceux visés à l'article 2 ou pour la poursuite des activités définies à cet article dans un Etat non membre de la Communauté européenne, dans des conditions n'impliquant pas l'exploitation physique d'un réseau ou d'une aire géographique à l'intérieur de la Communauté européenne ;
 
 8° Par les personnes assurant un service de transport par autobus ou autocar et lorsque d'autres organismes peuvent librement exercer ce service dans les mêmes conditions, soit d'une manière générale, soit dans une aire géographique spécifique ;
 

@@ -28,9 +28,9 @@ C. - L'article 65 est ainsi rédigé :
 
 D. - Au 1 de l'article 215 :
 
-1° Après les mots : " régulièrement importées ", les mots : " dans le territoire douanier de la Communauté économique européenne " sont supprimés.
+1° Après les mots : " régulièrement importées ", les mots : " dans le territoire douanier de la Communauté européenne " sont supprimés.
 
-2° Après les mots : " à l'intérieur du territoire douanier ", les mots : " de la Communauté économique européenne " sont supprimés.
+2° Après les mots : " à l'intérieur du territoire douanier ", les mots : " de la Communauté européenne " sont supprimé           s.
 
 3° Le dernier alinéa est supprimé.
 

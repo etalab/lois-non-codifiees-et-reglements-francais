@@ -2,7 +2,7 @@
 
 I. - Peuvent seuls être associés d'une société coopérative maritime :
 
-a) Les marins de la marine marchande, les personnes physiques pratiquant à titre professionnel les cultures marines, notamment les bénéficiaires d'autorisation d'exploitation des cultures marines et les personnes physiques résidentes ou établies dans l'un des pays de la Communauté économique européenne, dont l'activité est identique à celle des personnes mentionnées ci-dessus ;
+a) Les marins de la marine marchande, les personnes physiques pratiquant à titre professionnel les cultures marines, notamment les bénéficiaires d'autorisation d'exploitation des cultures marines et les personnes physiques résidentes ou établies dans l'un des pays de la Communauté européenne, dont l'activité est identique à celle des personnes mentionnées ci-dessus ;
 
 b) Les personnes ayant exercé les activités visées ci-dessus, retraitées ou ayant, pour cause d'incapacité physique, cessé d'exercer leur profession ;
 

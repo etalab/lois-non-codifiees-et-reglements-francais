@@ -24,6 +24,6 @@ Ce concours est consacré à la mise en oeuvre des dispositions de l'article 73 
 
 Le montant de la dotation de continuité territoriale est pour l'exercice 1991 celui de l'exercice précédent réévalué conformément à la variation, prévue dans la loi de finances, des prix du produit intérieur brut marchand.
 
-Le montant de cette dotation est, le cas échéant, majoré des sommes versées par toute autre personne publique, et en particulier la Communauté économique européenne, afin de compenser tout préjudice résultant des restrictions apportées à la liberté de fixation des tarifs.
+Le montant de cette dotation est, le cas échéant, majoré des sommes versées par toute autre personne publique, et en particulier la Communauté européenne, afin de compenser tout préjudice résultant des restrictions apportées à la liberté de fixation des tarifs.
 
 VI. - [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 91-290 DC du 9 mai 1991.]

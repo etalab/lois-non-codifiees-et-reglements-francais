@@ -4,7 +4,7 @@ Les personnes mentionnées à l'article 11 doivent déposer [*lieu*] au parquet 
 
 Ne peuvent obtenir la carte les personnes à qui l'exercice de la profession de banquier est interdit.
 
-Cette carte ne peut être délivrée qu'à des personnes majeures ; elles doivent être de nationalité française ou ressortissantes de l'un des Etats membres de la Communauté économique européenne, sous réserve des conventions internationales.
+Cette carte ne peut être délivrée qu'à des personnes majeures ; elles doivent être de nationalité française ou ressortissantes de l'un des Etats membres de la Communauté européenne, sous réserve des conventions internationales.
 
 Cette carte ne peut être délivrée qu'après l'expiration d'un délai d'un mois à compter de la remise de la déclaration au parquet.
 

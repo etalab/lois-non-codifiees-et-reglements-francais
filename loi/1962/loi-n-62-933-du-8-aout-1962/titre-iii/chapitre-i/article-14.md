@@ -4,7 +4,7 @@ Dans une région donnée, les sociétés coopératives agricoles et leurs unions
 
 1° dans le cadre de leur compétence et de leurs pouvoirs légaux, ils édictent des règles destinées à organiser et discipliner la production ou la mise en marché, à régulariser les cours et à orienter l'action de leurs membres vers les exigences du marché ;
 
-2° ils couvrent un secteur ou des secteurs complémentaires de produits agricoles faisant ou pouvant faire l'objet d'un règlement communautaire d'organisation de marché dans le cadre de la politique agricole commune de la Communauté économique européenne, à moins qu'un décret ne décide d'appliquer le présent texte à d'autres secteurs de production ;
+2° ils couvrent un secteur ou des secteurs complémentaires de produits agricoles faisant ou pouvant faire l'objet d'un règlement communautaire d'organisation de marché dans le cadre de la politique agricole commune de la Communauté européenne, à moins qu'un décret ne décide d'appliquer le présent texte à d'autres secteurs de production ;
 
 3° ils justifient d'une activité économique suffisante.
 

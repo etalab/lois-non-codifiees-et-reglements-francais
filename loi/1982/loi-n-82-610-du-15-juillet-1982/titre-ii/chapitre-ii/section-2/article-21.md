@@ -6,9 +6,9 @@ Des groupements d'intérêt public peuvent également être créés :
 
 - pour exercer, pendant une durée déterminée, des activités contribuant à l'élaboration et la mise en oeuvre de politiques concertées de développement social urbain ;
 
-- ou pour mettre en oeuvre et gérer ensemble, pendant une durée déterminée, toutes les actions requises par les projets et programmes de coopération interrégionale et transfrontalière intéressant des collectivités locales appartenant à des Etats membres de la Communauté économique européenne.
+- ou pour mettre en oeuvre et gérer ensemble, pendant une durée déterminée, toutes les actions requises par les projets et programmes de coopération interrégionale et transfrontalière intéressant des collectivités locales appartenant à des Etats membres de la Communauté européenne.
 
-Les collectivités locales appartenant à des Etats membres de la Communauté économique européenne peuvent participer aux groupements d'intérêt public visés aux trois alinéas précédents.
+Les collectivités locales appartenant à des Etats membres de la Communauté européenne peuvent participer aux groupements d'intérêt public visés aux trois alinéas précédents.
 
 Le groupement d'intérêt public ne donne pas lieu à la réalisation ni au partage de bénéfices. Il peut être constitué sans capital. Les droits de ses membres ne peuvent être représentés par des titres négociables. Toute clause contraire est réputée non écrite.
 
