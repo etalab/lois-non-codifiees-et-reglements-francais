@@ -6,8 +6,6 @@
 - [Titre II : Construction.](titre-ii)
 - [Titre III : Approbation de modèle.](titre-iii)
 - [Titre IV : Agrément du dispositif répétiteur lumineux.](titre-iv)
-- [Titre V : Vérification primitive.](titre-v)
-- [Titre VI : Installateurs - Réparateurs.](titre-vi)
 - [Titre VII : Dispositions transitoires.](titre-vii)
 - [Titre VIII : Taxes et redevances.](titre-viii)
 - [Article 29](article-29.md)
