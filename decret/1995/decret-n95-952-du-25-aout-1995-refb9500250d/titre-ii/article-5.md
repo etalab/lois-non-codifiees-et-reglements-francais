@@ -2,9 +2,9 @@
 
 Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 4 les candidats admis :
 
-1° A un concours externe ouvert, pour 25 % au moins des postes à pourvoir, aux candidats titulaires du baccalauréat de l'enseignement secondaire ou d'un diplôme homologué au niveau IV suivant la procédure définie par le décret n° 92-23 du 8 janvier 1992 ;
+1° A un concours externe ouvert, pour 30 % au moins des postes à pourvoir, aux candidats titulaires du baccalauréat de l'enseignement secondaire ou d'un diplôme homologué au niveau IV ;
 
-2° A l'un ou l'autre des deux concours internes suivants, pour 55 % au plus des postes à pourvoir :
+2° A l'un ou l'autre des deux concours internes suivants, pour 50 % au plus des postes à pourvoir :
 
 - un concours ouvert, pour la moitié au moins des postes offerts au titre du 2°, aux membres du cadre d'emplois des agents de maîtrise territoriaux ;
 

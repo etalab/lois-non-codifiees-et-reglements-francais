@@ -1,3 +1,3 @@
 # Article 16
 
-Le grade de contrôleur comprend treize échelons. Le grade de contrôleur principal comprend huit échelons.
+Le grade de contrôleur de travaux comprend treize échelons ; celui de contrôleur de travaux principal huit échelons et celui de contrôleur de travaux en chef huit échelons.

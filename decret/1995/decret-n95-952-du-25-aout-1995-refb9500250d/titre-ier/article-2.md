@@ -6,4 +6,4 @@ Ils assurent le contrôle de l'entretien et du fonctionnement des ouvrages ainsi
 
 Ils peuvent participer à des missions d'enseignement et de formation professionnelle.
 
-Les titulaires du grade de contrôleur principal peuvent, en outre, assurer la direction et le contrôle des chantiers, la gestion des matériels, et participer à l'élaboration des programmes annuels.
+Les titulaires du grade de contrôleur de travaux principal et de contrôleur de travaux en chef peuvent, en outre, assurer le contrôle des chantiers, la gestion des matériels, et participer à l'élaboration des programmes annuels. Les contrôleurs de travaux en chef peuvent également être responsables d'un service à caractère technique ne nécessitant pas la présence d'un technicien supérieur.
