@@ -134,6 +134,7 @@
 - [Arrêté du 5 mai 1993 (EQUA9300724A)](arrete-du-5-mai-1993-equa9300724a)
 - [Arrêté du 5 mai 1993 (MENE9305099A)](arrete-du-5-mai-1993-mene9305099a)
 - [Arrêté du 6 août 1993 (SPSH9302209A)](arrete-du-6-aout-1993-spsh9302209a)
+- [Arrêté du 6 août 1993 (SPSS9302314A)](arrete-du-6-aout-1993-spss9302314a)
 - [Arrêté du 6 janvier 1993 (BUDR9305001A)](arrete-du-6-janvier-1993-budr9305001a)
 - [Arrêté du 6 janvier 1993 (BUDR9305002A)](arrete-du-6-janvier-1993-budr9305002a)
 - [Arrêté du 6 janvier 1993 (BUDR9305003A)](arrete-du-6-janvier-1993-budr9305003a)

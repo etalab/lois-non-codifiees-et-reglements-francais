@@ -623,6 +623,7 @@
 - [Décret n°93-825 du 25 mai 1993 (INTB9300299D)](decret-n93-825-du-25-mai-1993-intb9300299d)
 - [Décret du 26 janvier 1993 (ECOT9251254D)](decret-du-26-janvier-1993-ecot9251254d)
 - [Décret du 26 janvier 1993 (ECOX9351251D)](decret-du-26-janvier-1993-ecox9351251d)
+- [Décret n°93-1020 du 26 août 1993 (MJSX9300130D)](decret-n93-1020-du-26-aout-1993-mjsx9300130d)
 - [Décret n°93-104 du 26 janvier 1993 (AGRR9300113D)](decret-n93-104-du-26-janvier-1993-agrr9300113d)
 - [Décret n°93-258 du 26 février 1993 (INTB9300106D)](decret-n93-258-du-26-fevrier-1993-intb9300106d)
 - [Décret n°93-261 du 26 février 1993 (ENVN9300059D)](decret-n93-261-du-26-fevrier-1993-envn9300059d)
