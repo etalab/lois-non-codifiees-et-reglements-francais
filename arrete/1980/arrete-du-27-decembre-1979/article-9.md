@@ -8,22 +8,24 @@ b) Les informations de base seront conformes aux réglementations nationale et i
 
 c) Les informations complémentaires devront comprendre au moins les données suivantes :
 
-Un recueil du balisage côtier et hauturier ;
+- un recueil du balisage côtier et hauturier ;
 
-La position des têtes de puits des plates-formes et des îlots artificiels ;
+- la position des têtes de puits des plates-formes et des îlots artificiels ;
 
-Les informations sur les hélicoptères ;
+- les informations sur les hélicoptères ;
 
-Les activités maritimes particulières de la zone considérée ;
+- les activités maritimes particulières de la zone considérée ;
 
-La réglementation sur la prévention de la pollution marine ;
+- la réglementation sur la prévention de la pollution marine ;
 
-La réglementation sanitaire ;
+- la réglementation sanitaire ;
 
-Les informations détaillées sur les bulletins météorologiques diffusés dans la zone considérée ;
+- les informations détaillées sur les bulletins météorologiques diffusés dans la zone considérée ;
 
-Les avis aux navigateurs diffusés par les autorités maritimes ;
+- les avis aux navigateurs diffusés par les autorités maritimes ;
 
-La procédure d'arrivée dans les zones de pilotage portuaire ;
+- la procédure d'arrivée dans les zones de pilotage portuaire ;
 
-Un fascicule du vocabulaire utilisé dans la navigation maritime.
+- un fascicule du vocabulaire utilisé dans la navigation maritime ;
+
+- les informations relatives aux services de trafic maritime côtier existants, tels les centres régionaux opérationnels de surveillance et de sauvetage (C.R.O.S.S.) de la Manche.

@@ -10,8 +10,8 @@ Capitaine de 1re classe de la navigation maritime ;
 
 Capitaine de 2e classe de la navigation maritime ;
 
-Capitaine de la marine marchande.
+Capitaine de la marine marchande ;
 
-Etre âgé de trente-cinq ans au moins et de quarante-cinq ans au plus à la date de l'examen.
+- être âgé de trente-cinq ans au moins à la date de l'examen ;
 
-Avoir effectué quarante-huit mois au moins de navigation effective en qualité de capitaine ou de second capitaine sur des navires de commerce, dont dix-huit mois au moins sur des navires de plus de 10 000 tonnes de port en lourd ou avoir été pendant quatre ans pilote portuaire.
+- avoir effectué douze mois au moins de navigation effective en qualité de capitaine, ou vingt-quatre mois en qualité de second capitaine, sur des navires de commerce, ou avoir été pilote portuaire.
