@@ -107,6 +107,7 @@
 - [Arrêté du 5 avril 1988 (EQUC8800232A)](arrete-du-5-avril-1988-equc8800232a)
 - [Arrêté du 5 avril 1988 (PTTT8800324A)](arrete-du-5-avril-1988-pttt8800324a)
 - [Arrêté du 5 avril 1988 (TRSA8800211A)](arrete-du-5-avril-1988-trsa8800211a)
+- [Arrêté du 5 décembre 1988 (EQUR8800856A)](arrete-du-5-decembre-1988-equr8800856a)
 - [Arrêté du 5 décembre 1988 (INDA8800780A)](arrete-du-5-decembre-1988-inda8800780a)
 - [Arrêté du 5 décembre 1988 (INDA8800781A)](arrete-du-5-decembre-1988-inda8800781a)
 - [Arrêté du 5 février 1988 (TRSA8800115A)](arrete-du-5-fevrier-1988-trsa8800115a)
