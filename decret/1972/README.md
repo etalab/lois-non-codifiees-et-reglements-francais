@@ -70,6 +70,7 @@
 - [Décret n°72-871 du 25 septembre 1972](decret-n72-871-du-25-septembre-1972)
 - [Décret n°53-914 du 26 septembre 1953](decret-n53-914-du-26-septembre-1953)
 - [Décret n°72-349 du 26 avril 1972](decret-n72-349-du-26-avril-1972)
+- [Décret n°72-698 du 26 juillet 1972](decret-n72-698-du-26-juillet-1972)
 - [Décret n°72-334 du 27 avril 1972](decret-n72-334-du-27-avril-1972)
 - [Décret n°72-676 du 27 juin 1972](decret-n72-676-du-27-juin-1972)
 - [Décret n°72-677 du 27 juin 1972](decret-n72-677-du-27-juin-1972)
