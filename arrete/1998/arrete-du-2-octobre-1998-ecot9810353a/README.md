@@ -1,4 +1,4 @@
-# Arrêté du 5 août 1992 relatif aux teneurs maximales en résidus de pesticides admissibles sur ou dans certains produits d'origine végétale
+# Arrêté du 2 octobre 1998 relatif à la création d'obligations assimilables du Trésor 4 % 25 avril 2009 destinées aux personnes physiques
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
