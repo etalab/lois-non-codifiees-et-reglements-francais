@@ -1,0 +1,9 @@
+# Décret n°48-1233 du 28 juillet 1948 portant règlement d'administration publique en ce qui concerne les cabinets ministériels.
+
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
