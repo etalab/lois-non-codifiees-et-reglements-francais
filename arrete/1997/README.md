@@ -414,7 +414,6 @@
 - [Arrêté du 12 septembre 1997 (EQUS9701226A)](arrete-du-12-septembre-1997-equs9701226a)
 - [Arrêté du 12 septembre 1997 (EQUS9701229A)](arrete-du-12-septembre-1997-equs9701229a)
 - [Arrêté du 12 septembre 1997 (MESS9722853A)](arrete-du-12-septembre-1997-mess9722853a)
-- [Arrêté du 12 septembre 1997 (MESS9722872A)](arrete-du-12-septembre-1997-mess9722872a)
 - [Arrêté du 12 mai 1997 (ECOP9700122A)](arrete-du-12-mai-1997-ecop9700122a)
 - [Arrêté du 12 mai 1997 (ECOR9705009A)](arrete-du-12-mai-1997-ecor9705009a)
 - [Arrêté du 12 mai 1997 (ENVE9760150A)](arrete-du-12-mai-1997-enve9760150a)
