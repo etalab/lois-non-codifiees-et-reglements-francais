@@ -1,3 +1,0 @@
-# Article 13
-
-Les inscriptions ou radiations, les mentions d'antériorité et de subrogation prévues par l'article qui précède sont consignées, dans les archives de l'Institut national, sur les registres du dépôt central, en regard des marques de fabrique ou de commerce, sur ceux des dessins et modèles s'il y a lieu, ou sur les arrêtés de délivrance des brevets d'invention que les inscriptions, radiations et mentions précitées concernent. A défaut de place sur les registres du dépôt central des marques, sur ceux des dessins et modèles ou sur les titres des brevets, les mentions ci-dessus prescrites sont portées sur des pièces spéciales, revêtues de la signature du directeur de l'institut, qui sont annexées auxdits registres ou versées aux dossiers des brevets.

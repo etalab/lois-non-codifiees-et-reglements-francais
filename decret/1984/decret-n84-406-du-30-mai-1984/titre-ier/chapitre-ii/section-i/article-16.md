@@ -8,9 +8,11 @@ A - En ce qui concerne la personne :
 
 2° L'adresse du siège ;
 
-3° L'objet indiqué sommairement et s'il est civil ou commercial ;    4° La durée du groupement ;
+3° Les activités principales du groupement et si leur nature est civile ou commerciale ;
 
-5° La date et le numéro du dépôt au greffe du contrat ;
+4° La durée du groupement ;
+
+5° Supprimé ;
 
 6° Pour chaque personne physique membre du groupement, les renseignements prévus au A (1°, 2°, 3°, 4°) de l'article 8 ainsi que s'il y a lieu, les numéros d'immatriculation de ces personnes au registre du commerce et des sociétés et au répertoire des métiers ;    7° Pour chaque personne morale membre du groupement, les renseignements prévus au A (1°, 2°, 4°) de l'article 15 et le cas échéant, les numéros d'immatriculation de ces personnes au registre du commerce et des sociétés et au répertoire des métiers ;
 
