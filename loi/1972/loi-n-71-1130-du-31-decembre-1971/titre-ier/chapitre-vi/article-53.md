@@ -4,7 +4,7 @@ Dans le respect de l'indépendance de l'avocat, de l'autonomie des conseils de l
 
 Ils présentent notamment :
 
-1° Les conditions d'accès à la profession d'avocat ainsi que les incompatibilités, les conditions d'inscription et d'omission du tableau et les conditions d'exercice de la profession dans les cas prévus aux articles 6 et 8 ;
+1° Les conditions d'accès à la profession d'avocat ainsi que les incompatibilités, les conditions d'inscription au tableau et d'omission du tableau ou de la liste du stage et les conditions d'exercice de la profession dans les cas prévus aux articles 6, 8 et 8-1 ;
 
 2° Les règles de déontologie ainsi que la procédure et les sanctions disciplinaires ;
 
@@ -22,7 +22,7 @@ Ils présentent notamment :
 
 9° Les conditions d'application de l'article 27 et, notamment, les conditions des garanties, les modalités du contrôle et les conditions dans lesquelles les avocats reçoivent des fonds, effets ou valeurs pour le compte de leurs clients, les déposent dans une caisse créée obligatoirement à cette fin par chaque barreau ou en commun par plusieurs barreaux et en effectuent le règlement.
 
-10° La composition du conseil d'administration du fonds institué à l'article 28 ainsi que le régime de contrôle auquel il est soumis ;    11° Les modalités de la compensation dans le respect des droits acquis, entre la caisse nationale des barreaux français et l'organisation autonome d'allocation vieillesse des professions libérales, instituée par l'article L. 645 (3°) du Code de la sécurité sociale ;
+10° La composition du conseil d'administration du fonds institué à l'article 28 ainsi que le régime de contrôle auquel il est soumis ;    11° [*abrogé*] ;
 
 12° Les conditions d'application de l'article 50 ;
 
