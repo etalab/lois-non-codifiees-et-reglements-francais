@@ -45,6 +45,7 @@
 - [Décret n°85-323 du 7 mars 1985](decret-n85-323-du-7-mars-1985)
 - [Décret n°85-581 du 7 juin 1985](decret-n85-581-du-7-juin-1985)
 - [Décret n°85-582 du 7 juin 1985](decret-n85-582-du-7-juin-1985)
+- [Décret n°85-585 du 7 juin 1985](decret-n85-585-du-7-juin-1985)
 - [Décret n°85-315 du 8 mars 1985](decret-n85-315-du-8-mars-1985)
 - [Décret n°85-316 du 8 mars 1985](decret-n85-316-du-8-mars-1985)
 - [Décret n°85-317 du 8 mars 1985](decret-n85-317-du-8-mars-1985)
