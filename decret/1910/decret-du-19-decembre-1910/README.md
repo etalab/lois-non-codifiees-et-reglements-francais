@@ -2,7 +2,6 @@
 
 - [Titre Ier : Sucres, glucoses, miels](titre-ier)
 - [Titre II : Confiserie.](titre-ii)
-- [Titre III : Confitures, gelées, marmelades.](titre-iii)
 - [Titre V : Suc de réglisse.](titre-v-suc)
 - [Titre VI : Dispositions générales.](titre-vi)
 - [Article 31](article-31.md)
