@@ -6,7 +6,7 @@
 
 I - De préparer les plans et les mesures correspondantes.
 
-II - De réunir et de fournir les données non militaires nécessaires à l'élaboration concertée des plans de défense opérationnelle ou maritime du territoire.
+II - De réunir et de fournir les données non militaires nécessaires à l'élaboration concertée des plans de défense. "
 
 III - De veiller à l'élaboration des plans relatifs à la mobilisation, à la répartition des ressources et à l'utilisation des infrastructures par les administrations compétentes.
 
@@ -18,6 +18,4 @@ VI - De contrôler l'exécution des décisions du commissaire de la République 
 
 3. Le commandement militaire ainsi que les administrations civiles apportent leur concours au commissaire de la République de zone en désignant des officiers et des fonctionnaires dans les conditions fixées par arrêtés interministériels.
 
-4. Les hauts fonctionnaires de défense du ministère de l'intérieur dans le domaine de la défense civile et du ministère de l'économie et des finances dans le domaine de la défense économique coordonnent les activités des secrétariats généraux de zone de défense.
-
-Les hauts fonctionnaires de défense de chaque ministère adressent aux commissaires de la République de zone toutes instructions ministérielles établies dans le cadre de la participation de leur département à la défense nationale.
+4. En liaison avec le secrétaire général de la défense nationale, les hauts fonctionnaires de défense du ministère de l'intérieur, dans le domaine de la défense civile, et du ministère de l'économie, des finances et du budget, dans le domaine des affaires économiques de défense, coordonnent les activités des secrétariats généraux de zone de défense. Les hauts fonctionnaires de défense de chaque ministère adressent aux préfets de zone toutes instructions ministérielles établies dans le cadre de la participation de leur département à la défense. "
