@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-1.5.1. Les dispositifs de sécurité doivent fonctionner indépendamment des dispositifs de mesurage et de commande nécessaires à l'exploitation.
+1.5.1. Les dispositifs de sécurité doivent fonctionner indépendamment des dispositifs de mesurage ou de commande nécessaires à l'exploitation.
 
 Dans toute la mesure du possible, la défaillance d'un dispositif de sécurité doit être détectée suffisamment rapidement à l'aide de moyens techniques appropriés pour qu'il n'existe qu'une très faible probabilité d'occurrence d'une situation dangereuse.
 
