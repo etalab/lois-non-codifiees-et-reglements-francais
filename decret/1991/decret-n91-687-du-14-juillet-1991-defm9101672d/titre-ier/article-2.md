@@ -4,7 +4,7 @@ Les services du commissariat pourvoient aux besoins des formations et du personn
 
 Ils participent à l'instruction des dossiers de pension de retraite, de pension d'invalidité et d'allocations des fonds de prévoyance du personnel et de ses ayants cause.
 
-Ils instruisent et règlent les dossiers contentieux concernant les trois armées et la gendarmerie nationale, ainsi que leur personnel, dans les limites de leur compétence.
+Dans les limites de leur compétence, ils instruisent et règlent les dossiers relatifs aux dommages causés ou subis par le ministère de la défense. Ils assurent, pour le compte de la direction des affaires juridiques, la défense devant les tribunaux administratifs du ministère de la défense.
 
 Ils règlent les indemnités consécutives aux réquisitions mobilières et immobilières effectuées par les armées et la gendarmerie autres que celles relevant de la compétence d'autres services.
 
