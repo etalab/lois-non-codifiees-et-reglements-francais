@@ -1,6 +1,6 @@
 # Article 61
 
-En cas d'augmentation de capital par souscription de parts sociales en numéraire, les dispositions de l'article 38, alinéa 2, sont applicables.
+En cas d'augmentation de capital par souscription de parts sociales en numéraire, les dispositions de l'article 38, dernier alinéa, sont applicables.
 
 Le retrait des fonds provenant de ces souscriptions ne peut être effectué par le mandataire de la société que trois jours francs au moins après leur dépôt.
 

@@ -1,11 +1,21 @@
 # Article 65
 
-Les commissaires aux comptes, qui doivent être choisis sur la liste visée à l'article 219, sont nommés par les associés pour une durée de trois exercices [*durée des fonctions*].
+Les commissaires aux comptes, qui doivent être choisis sur la liste mentionnée à l'article 219, sont nommés par les associés pour une durée de six exercices [*durée des fonctions*].
 
-Ne peuvent être choisis comme commissaires aux comptes [*incompatibilités*] :
+Ne peuvent être choisis comme commissaires aux comptes [*incompatibilités - conflit d'interêts*] :
 
-1° Les gérants et leur conjoint ;
+1° Les gérants ainsi que leurs conjoints, ascendants ou descendants et collatéraux au 4ème degré inclusivement ;
 
-2° Les apporteurs en nature, les bénéficiaires d'avantages particuliers et les personnes recevant de la société ou de ses gérants une rémunération périodique ainsi que leur conjoint.
+2° Les apporteurs en nature et les bénéficiaires d'avantages particuliers ;
 
-Pendant les cinq années qui suivent la cessation de leurs fonctions les commissaires ne peuvent devenir gérants des sociétés qu'ils ont contrôlées. Pendant le même délai, ils ne peuvent être nommés gérants, administrateurs, directeurs généraux, membres du directoire ou du conseil de surveillance des sociétés possédant 10 % du capital de la société contrôlée par eux ou dont celle-ci possède 10 % du capital [*groupes de sociétés*]. La même interdiction est applicable aux associés d'une société de commissaires aux comptes.    Les délibérations prises à défaut de désignation régulière de commissaires aux comptes ou sur le rapport de commissaires aux comptes nommés ou demeurés en fonctions contrairement aux dispositions du présent article, sont nulles [*sanctions*]. L'action en nullité est éteinte, si ces délibérations sont expressément confirmées par une assemblée, sur le rapport de commissaires régulièrement désignés [*couverture*].
+3° Les personnes qui, directement ou indirectement ou par personne interposée, reçoivent de la société ou de ses gérants un salaire ou une rémunération quelconque à raison d'une autre activité que celle de commissaire aux comptes à l'exception des activités autorisées par le 4° de l'article 220 ;
+
+4° Les sociétés de commissaires dont l'un des associés, actionnaires ou dirigeants se trouve dans une des situations prévues aux alinéas précédents ;
+
+5° Les conjoints des personnes qui, en raison d'une activité autre que celle de commissaire aux comptes, reçoivent, soit de la société, soit des gérants de celle-ci, un salaire ou une rémunération en raison de l'exercice d'une activité permanente ;
+
+6° Les sociétés de commissaires aux comptes dont soit l'un l'un des dirigeants, soit l'associé ou l'actionnaire exerçant les fonctions de commissaire aux comptes au nom de la société a son conjoint qui se trouve dans l'une des situations prévues au 5°.
+
+Pendant les cinq années qui suivent la cessation de leurs fonctions les commissaires ne peuvent devenir gérants des sociétés qu'ils ont contrôlées. Pendant le même délai, ils ne peuvent être nommés gérants, administrateurs, directeurs généraux, membres du directoire ou du conseil de surveillance des sociétés possédant 10 % du capital de la société contrôlée par eux ou dont celle-ci possède 10 % du capital [*groupes de sociétés*]. La même interdiction est applicable aux associés, actionnaires ou dirigeants d'une société de commissaires aux comptes.
+
+Les délibérations prises à défaut de désignation régulière de commissaires aux comptes ou sur le rapport de commissaires aux comptes nommés ou demeurés en fonctions contrairement aux dispositions du présent article, sont nulles [*sanctions*]. L'action en nullité est éteinte, si ces délibérations sont expressément confirmées par une assemblée, sur le rapport de commissaires régulièrement désignés [*couverture*].
