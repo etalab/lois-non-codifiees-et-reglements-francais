@@ -252,6 +252,7 @@
 - [Arrêté du 21 mars 1989 (INTD8900168A)](arrete-du-21-mars-1989-intd8900168a)
 - [Arrêté du 22 décembre 1988 (TRSS8800597A)](arrete-du-22-decembre-1988-trss8800597a)
 - [Arrêté du 22 février 1984](arrete-du-22-fevrier-1984)
+- [Arrêté du 22 juin 1989 (DOME8900025A)](arrete-du-22-juin-1989-dome8900025a)
 - [Arrêté du 22 juin 1989 (RESY8900094A)](arrete-du-22-juin-1989-resy8900094a)
 - [Arrêté du 22 mars 1989 (MENU8900647A)](arrete-du-22-mars-1989-menu8900647a)
 - [Arrêté du 22 mars 1989 (PTTT8900273A)](arrete-du-22-mars-1989-pttt8900273a)

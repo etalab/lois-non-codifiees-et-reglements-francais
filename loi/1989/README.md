@@ -27,6 +27,8 @@
 - [Loi n° 89-385 du 13 juin 1989 (MAEX8800147L)](loi-n-89-385-du-13-juin-1989-maex8800147l)
 - [Loi n° 89-387 du 13 juin 1989 (MAEX8800154L)](loi-n-89-387-du-13-juin-1989-maex8800154l)
 - [Loi n° 89-402 du 21 juin 1989 (MAEX8800049L)](loi-n-89-402-du-21-juin-1989-maex8800049l)
+- [Loi n° 89-412 du 22 juin 1989 (AGRX8900003L)](loi-n-89-412-du-22-juin-1989-agrx8900003l)
+- [Loi n° 89-413 du 22 juin 1989 (EQUX8800040L)](loi-n-89-413-du-22-juin-1989-equx8800040l)
 - [Loi n°73-6 du 3 janvier 1973](loi-n73-6-du-3-janvier-1973)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
 - [Loi n°89-377 du 13 juin 1989 (JUSX8800150L)](loi-n89-377-du-13-juin-1989-jusx8800150l)
