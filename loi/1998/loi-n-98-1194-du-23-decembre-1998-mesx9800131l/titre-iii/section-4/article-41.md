@@ -40,6 +40,8 @@ V. - Le salarié qui est admis au bénéfice de l'allocation de cessation antici
 
 L'indemnité de cessation anticipée d'activité versée en application d'une convention collective de branche, d'un accord professionnel ou interprofessionnel, d'un accord d'entreprise, du contrat de travail ou d'une disposition unilatérale de l'employeur est exclue de l'assiette des cotisations sociales dans les mêmes conditions que l'indemnité légale mentionnée à l'alinéa précédent.
 
+V. bis - L'inscription des établissements ou des ports visés au I sur la liste donnant droit aux salariés à bénéficier d'une cessation anticipée d'activité et de l'allocation correspondante ou la modification d'une telle inscription ne peut intervenir qu'après information de l'employeur concerné. La décision d'inscription d'un établissement ou de modification doit être notifiée à l'employeur. Elle fait l'objet d'un affichage sur le lieu de travail concerné.
+
 VI. - Les différends auxquels peut donner lieu l'application du présent article et qui ne relèvent pas d'un autre contentieux sont réglés suivant les dispositions régissant le contentieux général de la sécurité sociale.
 
 VII. - Un décret fixe les conditions d'application du présent article.
