@@ -58,6 +58,7 @@
 - [Décret n°94-714 du 18 août 1994 (AGRS9401211D)](decret-n94-714-du-18-aout-1994-agrs9401211d)
 - [Décret n°94-392 du 18 mai 1994 (SPSH9400717D)](decret-n94-392-du-18-mai-1994-spsh9400717d)
 - [Décret n°90-361 du 20 avril 1990 (MENT9000107D)](decret-n90-361-du-20-avril-1990-ment9000107d)
+- [Décret n°94-53 du 20 janvier 1994 (AGRP9302155D)](decret-n94-53-du-20-janvier-1994-agrp9302155d)
 - [Décret n°95-1129 du 20 octobre 1995 (EQUP9500153D)](decret-n95-1129-du-20-octobre-1995-equp9500153d)
 - [Décret n°95-416 du 20 avril 1995 (DEFP9501254D)](decret-n95-416-du-20-avril-1995-defp9501254d)
 - [Décret n°95-417 du 20 avril 1995 (DEFP9501255D)](decret-n95-417-du-20-avril-1995-defp9501255d)

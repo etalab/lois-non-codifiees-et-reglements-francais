@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [I. Relations avec les acheteurs de lait.](i)
+- [Article 1 bis](article-1-bis.md)
 - [II. - Relations avec les producteurs vendant directement à la consommation.](ii)
 - [IV. - Dispositions communes.](iv)
 - [Article 7](article-7.md)
