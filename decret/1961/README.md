@@ -55,6 +55,7 @@
 - [Décret n°64-451 du 25 mai 1964](decret-n64-451-du-25-mai-1964)
 - [Décret n°64-452 du 25 mai 1964](decret-n64-452-du-25-mai-1964)
 - [Décret n°61-1066 du 26 septembre 1961](decret-n61-1066-du-26-septembre-1961)
+- [Décret n°61-1433 du 26 décembre 1961](decret-n61-1433-du-26-decembre-1961)
 - [Décret n°61-667 du 26 juin 1961](decret-n61-667-du-26-juin-1961)
 - [Décret n°61-216 du 27 février 1961](decret-n61-216-du-27-fevrier-1961)
 - [Décret n°63-326 du 27 mars 1963](decret-n63-326-du-27-mars-1963)
