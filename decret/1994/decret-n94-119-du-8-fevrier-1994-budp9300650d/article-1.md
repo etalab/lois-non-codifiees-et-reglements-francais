@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions des décrets du 30 août 1957, du 25 janvier 1979 et du 1er août 1990 susvisés, les personnels des corps des services déconcentrés de la direction générale des impôts exerçant leurs fonctions dans les services qui, assurant des missions en matière de contributions indirectes, sont mis à la disposition de la direction générale des douanes et droits indirects entre le 1er janvier 1993 et le 31 janvier 1995, peuvent, sur demande formulée avant le 31 janvier 1995, être intégrés directement dans les corps des services déconcentrés de la direction générale des douanes et droits indirects.

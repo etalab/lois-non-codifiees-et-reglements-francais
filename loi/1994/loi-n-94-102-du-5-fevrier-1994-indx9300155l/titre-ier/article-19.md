@@ -1,3 +1,0 @@
-# Article 19
-
-Les articles L. 335-2, L. 335-4, L. 335-5, L. 521-4, L. 615-14 et L. 716-9 dans leur rédaction issue de la loi n° 92-597 du 1er juillet 1992 relative au code de la propriété intellectuelle sont applicables aux territoires d'outre-mer et à la collectivité territoriale de Mayotte à titre transitoire à compter de la date d'entrée en vigueur de la présente loi et jusqu'à la date prévue par le deuxième alinéa de l'article 373 de la loi n° 92-1336 du 16 décembre 1992 relative à l'entrée en vigueur du nouveau code pénal et à la modification de certaines dispositions de droit pénal et de procédure pénale rendue nécessaire par cette entrée en vigueur.
