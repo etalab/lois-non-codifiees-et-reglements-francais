@@ -840,7 +840,6 @@
 - [Décret n°96-463 du 28 mai 1996 (FPPA9610014D)](decret-n96-463-du-28-mai-1996-fppa9610014d)
 - [Décret n°96-464 du 28 mai 1996 (FPPA9610015D)](decret-n96-464-du-28-mai-1996-fppa9610015d)
 - [Décret n°96-469 du 28 mai 1996 (TASP9621417D)](decret-n96-469-du-28-mai-1996-tasp9621417d)
-- [Décret du 29 novembre 1996 (FCEC9600073D)](decret-du-29-novembre-1996-fcec9600073d)
 - [Décret du 29 octobre 1996 (ENVE9640038D)](decret-du-29-octobre-1996-enve9640038d)
 - [Décret n°93-155 du 29 janvier 1993 (INTB9300025D)](decret-n93-155-du-29-janvier-1993-intb9300025d)
 - [Décret n°93-160 du 29 janvier 1993 (INTB9300030D)](decret-n93-160-du-29-janvier-1993-intb9300030d)
