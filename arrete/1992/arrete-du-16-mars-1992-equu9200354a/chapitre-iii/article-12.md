@@ -1,7 +1,3 @@
 # Article 12
 
-Le Conseil scientifique supérieur est composé des seuls membres nommés jusqu'à la tenue des premières élections.
-
-Leur mandat court jusqu'à cette date.
-
-Pendant une période de quatre ans à compter de la publication du présent arrêté, il sera procédé au renouvellement du Conseil scientifique supérieur tous les deux ans.
+Pendant la période transitoire, chaque section du Conseil scientifique supérieur comporte un nombre pair de membres élus : ce nombre est arrêté avant chaque élection par le ministre chargé de l'architecture.
