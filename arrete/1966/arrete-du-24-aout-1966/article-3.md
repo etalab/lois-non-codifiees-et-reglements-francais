@@ -15,3 +15,5 @@ Secrétaire de direction des établissements de cure de 200 à 500 lits : tablea
 Secrétaire de direction des établissements de cure de moins de 200 lits : tableau de correspondance (annexe 6).
 
 Ces reclassements prendront effet au 1er janvier 1963 pour les agents en fonctions à cette date et à la date de nomination des intéressés pour les agents recrutés postérieurement.
+
+Toutefois les personnels concernés ont la faculté de demander que l'échelonnement indiciaire et les règles d'avancement d'échelon dont ils bénéficiaient antérieurement continuent de leur être appliqués jusqu'à la date de publication du présent arrêté. Les tableaux de reclassement prévus ci-dessus leur seront alors appliqués compte tenu de la situation acquise à cette date. Les agents admis à la retraite postérieurement au 1er janvier 1963 pourront demander de même que les reclassements ne leur soient appliqués qu'à la date d'admission à la retraite.
