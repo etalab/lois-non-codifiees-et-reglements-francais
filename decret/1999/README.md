@@ -875,7 +875,6 @@
 - [Décret n°99-1161 du 29 décembre 1999 (EQUT9901778D)](decret-n99-1161-du-29-decembre-1999-equt9901778d)
 - [Décret n°99-1162 du 29 décembre 1999 (EQUA9901795D)](decret-n99-1162-du-29-decembre-1999-equa9901795d)
 - [Décret n°99-1164 du 29 décembre 1999 (AGRG9902039D)](decret-n99-1164-du-29-decembre-1999-agrg9902039d)
-- [Décret n°99-1165 du 29 décembre 1999 (AGRS9902334D)](decret-n99-1165-du-29-decembre-1999-agrs9902334d)
 - [Décret n°99-1167 du 29 décembre 1999 (AGRA9902629D)](decret-n99-1167-du-29-decembre-1999-agra9902629d)
 - [Décret n°99-1168 du 29 décembre 1999 (AGRA9902630D)](decret-n99-1168-du-29-decembre-1999-agra9902630d)
 - [Décret n°99-1175 du 29 décembre 1999 (MESO9911522D)](decret-n99-1175-du-29-decembre-1999-meso9911522d)
