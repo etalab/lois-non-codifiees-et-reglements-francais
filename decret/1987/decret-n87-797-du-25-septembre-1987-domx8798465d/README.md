@@ -5,3 +5,4 @@
 - [Titre II : Organisation.](titre-ii)
 - [Titre III : Fonctionnement.](titre-iii)
 - [Article 26](article-26.md)
+- [Annexes](annexes)
