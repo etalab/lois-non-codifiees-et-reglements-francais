@@ -167,7 +167,6 @@
 - [Arrêté du 10 février 1988 (INTD8800074A)](arrete-du-10-fevrier-1988-intd8800074a)
 - [Arrêté du 10 février 1988 (PRMD8850005A)](arrete-du-10-fevrier-1988-prmd8850005a)
 - [Arrêté du 10 juin 1988 (ASEE8803506A)](arrete-du-10-juin-1988-asee8803506a)
-- [Arrêté du 10 mars 1987 (ASED8703218A)](arrete-du-10-mars-1987-ased8703218a)
 - [Arrêté du 10 mars 1988 (AGRE8800571A)](arrete-du-10-mars-1988-agre8800571a)
 - [Arrêté du 10 mars 1988 (ASEH8800374A)](arrete-du-10-mars-1988-aseh8800374a)
 - [Arrêté du 10 mars 1988 (MCCK8800143A)](arrete-du-10-mars-1988-mcck8800143a)
