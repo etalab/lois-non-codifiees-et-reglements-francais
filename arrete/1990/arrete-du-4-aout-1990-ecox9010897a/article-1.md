@@ -13,3 +13,7 @@ Les investissements réalisés par des personnes physiques de nationalité ou de
 3. Etablissements de crédit ou autres.
 
 Les établissements relevant des articles 1er et 99 de la loi du 24 janvier 1984 susvisée relative à l'activité et au contrôle des établissements de crédit, les institutions et services énumérés à l'article 8 de ladite loi, et les sociétés de bourse.
+
+4. France.
+
+La France métropolitaine, les départements d'outre-mer, les territoires d'outre-mer et les collectivités territoriales à statut particulier de Mayotte et de Saint-Pierre-et-Miquelon. La Principauté de Monaco est assimilée à la France.
