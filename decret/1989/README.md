@@ -162,6 +162,8 @@
 - [Décret n°89-98 du 15 février 1989 (EQUC8900026D)](decret-n89-98-du-15-fevrier-1989-equc8900026d)
 - [Décret n°89-570 du 16 août 1989 (DOMP8900024D)](decret-n89-570-du-16-aout-1989-domp8900024d)
 - [Décret n°89-571 du 16 août 1989 (DOMP8900023D)](decret-n89-571-du-16-aout-1989-domp8900023d)
+- [Décret n°89-572 du 16 août 1989 (MENF8901897D)](decret-n89-572-du-16-aout-1989-menf8901897d)
+- [Décret n°89-575 du 16 août 1989 (MENF8901900D)](decret-n89-575-du-16-aout-1989-menf8901900d)
 - [Décret n°89-314 du 16 mai 1989 (PRMD8905033D)](decret-n89-314-du-16-mai-1989-prmd8905033d)
 - [Décret n°88-989 du 17 octobre 1988 (TEFT8804009D)](decret-n88-989-du-17-octobre-1988-teft8804009d)
 - [Décret n°89-179 du 17 mars 1989 (ACVP8820036D)](decret-n89-179-du-17-mars-1989-acvp8820036d)
