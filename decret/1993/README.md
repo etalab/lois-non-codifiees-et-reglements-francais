@@ -552,6 +552,8 @@
 - [Décret n°93-111 du 21 janvier 1993 (SANH9202915D)](decret-n93-111-du-21-janvier-1993-sanh9202915d)
 - [Décret n°93-1114 du 21 septembre 1993 (JUSA9300229D)](decret-n93-1114-du-21-septembre-1993-jusa9300229d)
 - [Décret n°93-1182 du 21 octobre 1993 (ENVE9310013D)](decret-n93-1182-du-21-octobre-1993-enve9310013d)
+- [Décret n°93-1190 du 21 octobre 1993 (INTB9300536D)](decret-n93-1190-du-21-octobre-1993-intb9300536d)
+- [Décret n°93-1191 du 21 octobre 1993 (INTB9300543D)](decret-n93-1191-du-21-octobre-1993-intb9300543d)
 - [Décret n°93-800 du 21 avril 1993 (INTK9300227D)](decret-n93-800-du-21-avril-1993-intk9300227d)
 - [Décret n°93-801 du 21 avril 1993 (MAEX9300061D)](decret-n93-801-du-21-avril-1993-maex9300061d)
 - [Décret n°93-802 du 21 avril 1993 (EURX9300291D)](decret-n93-802-du-21-avril-1993-eurx9300291d)
