@@ -4,6 +4,7 @@
 - [Décret n°78-526 du 3 avril 1978](decret-n78-526-du-3-avril-1978)
 - [Décret n°79-535 du 3 juillet 1979](decret-n79-535-du-3-juillet-1979)
 - [Décret n°78-528 du 4 avril 1978](decret-n78-528-du-4-avril-1978)
+- [Décret n°78-687 du 4 juillet 1978](decret-n78-687-du-4-juillet-1978)
 - [Décret n°78-957 du 5 septembre 1978](decret-n78-957-du-5-septembre-1978)
 - [Décret n°78-360 du 8 mars 1978](decret-n78-360-du-8-mars-1978)
 - [Décret n°78-278 du 9 mars 1978](decret-n78-278-du-9-mars-1978)
