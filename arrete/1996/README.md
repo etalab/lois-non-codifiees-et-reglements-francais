@@ -162,6 +162,7 @@
 - [Arrêté du 9 mai 1996 (INTC9600221A)](arrete-du-9-mai-1996-intc9600221a)
 - [Arrêté du 10 avril 1996 (DEFD9601383A)](arrete-du-10-avril-1996-defd9601383a)
 - [Arrêté du 10 avril 1996 (FPPA9610075A)](arrete-du-10-avril-1996-fppa9610075a)
+- [Arrêté du 10 avril 1996 (JUSB9610119A)](arrete-du-10-avril-1996-jusb9610119a)
 - [Arrêté du 10 avril 1996 (MCCE9600251A)](arrete-du-10-avril-1996-mcce9600251a)
 - [Arrêté du 10 avril 1996 (MCCE9600252A)](arrete-du-10-avril-1996-mcce9600252a)
 - [Arrêté du 10 avril 1996 (MJSK9670071A)](arrete-du-10-avril-1996-mjsk9670071a)
