@@ -1,6 +1,6 @@
-# Article Annexe I
+# Article Annexe II
 
-**SCIENCES ÉCONOMIQUES**
+**DROIT PRIVÉ ET SCIENCES CRIMINELLES**
 
 La deuxième épreuve comporte une présentation orale par le candidat de ses projets de recherche. Cette présentation d'une durée de vingt minutes est suivie d'une discussion de trente minutes avec le jury.
 
