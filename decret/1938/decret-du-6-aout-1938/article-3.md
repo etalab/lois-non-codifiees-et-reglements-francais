@@ -14,17 +14,17 @@ Par. 6 - Les cotisations des anciens agents et des veuves ainsi que des orphelin
 
 La Société nationale des chemins de fer français verse à la caisse une contribution assise sur le montant des pensions.
 
-Par. 6 bis - Le taux des cotisations prévues au paragraphe 5 à la charge des agents est fixé à 6,20 %.
+Par. 6 bis - Le taux des cotisations prévues au paragraphe 5 à la charge des agents est fixé à 4,90 %.
 
 Le taux des cotisations prévues au paragraphe 5 à la charge de la Société nationale des chemins de fer français est fixé à 7,30 %.
 
 Le taux des cotisations prévues au paragraphe 6 à la charge des pensionnés relevant de la loi du 21 juillet 1909 susvisée est fixé à :
 
-1° 4,50 % du montant de la pension de retraite inférieur à un plafond fixé par le conseil d'administration de la Société nationale des chemins de fer français ;
+1° 3,50 % du montant de la pension de retraite inférieur à un plafond fixé par le conseil d'administration de la Société nationale des chemins de fer français ;
 
-2° 3,80 % du montant de la pension de retraite compris entre le plafond susvisé et un second plafond fixé dans les mêmes conditions  ;
+2° 2,80 % du montant de la pension de retraite compris entre le plafond susvisé et un second plafond fixé dans les mêmes conditions ;
 
-3° 3,05 % du montant de la pension de retraite supérieur au second plafond susvisé ;
+3° 2,05 % du montant de la pension de retraite supérieur au second plafond susvisé ;
 
 4° 1 % du montant total de la pension de retraite lorsque le titulaire relève du 1° de l'article D. 242-9 du code de la sécurité sociale sans bénéficier de l'un des avantages énumérés au 2° dudit article.
 
