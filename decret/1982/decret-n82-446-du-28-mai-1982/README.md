@@ -3,3 +3,4 @@
 - [CHAPITRE 1 : Recouvrement des cotisations](chapitre-1)
 - [CHAPITRE 2 : TAUX DES COTISATIONS ET CONDITIONS D'EXONERATION](chapitre-2)
 - [CHAPITRE II : TAUX DES COTISATIONS ET CONDITIONS D'EXONERATION](chapitre-ii)
+- [Article 4-1](article-4-1.md)

@@ -4,7 +4,7 @@ Dans le délai d'un mois à compter de leur date, sont déposées en double exem
 
 La copie du procès-verbal de l'assemblée générale des actionnaires ayant décidé ou autorisé soit une augmentation, soit une réduction du capital social ;
 
-La copie du procès-verbal de l'assemblée générale des actionnaires ayant autorisé l'émission d'obligations convertibles en actions ou d'obligations échangeables contre des actions ;
+La copie du procès-verbal de l'assemblée générale des actionnaires ayant autorisé l'émission d'obligations avec bons de souscription d'actions, d'obligations convertibles en actions, d'obligations échangeables contre des actions ou de certificats d'investissement ;
 
 La copie du procès-verbal de l'assemblée générale des actionnaires instituant un droit de vote double ;
 

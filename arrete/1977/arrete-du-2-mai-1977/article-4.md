@@ -1,9 +1,31 @@
 # Article 4
 
-I - Le certificat d'aptitude à manipuler les appareils de radiographie et de radioscopie industrielles est délivré soit au vu des résultats d'épreuves de contrôle des connaissances, soit sur titres, dans les conditions fixées à l'article 6 du présent arrêté.
+I. - Les épreuves d'admissibilité du deuxième concours comprennent :
 
-II - Le certificat d'aptitude à manipuler les appareils de radiographie et de radioscopie industrielles est accordé pour une durée de neuf ans. Sa validité peut être prorogée par le directeur régional du travail et de l'emploi par périodes de neuf ans successives, sur demande adressée par le titulaire au secrétariat du jury prévu à l'article 3 ci-dessus ; à cette demande sont jointes des attestations précisant la nature et la durée des emplois exercés pendant la période échue et pour lesquels la certification est exigée ; les employeurs sont tenus de délivrer ces attestations ; d'autres documents prouvant la nature et la durée des emplois exercés pendant la période échue pourront être fournis par l'intéressé.
+1) Au choix du candidat :
 
-Le directeur régional du travail et de l'emploi pourra, au besoin, subordonner sa décision de prorogation à l'avis du jury prévu à l'article 3 ci-dessus, ou même demander à l'intéressé de se soumettre de nouveau aux épreuves de contrôle des connaissances prévues au paragraphe I ci-dessus.
+Soit une composition rédigée en cinq heures sur un sujet d'ordre général relatif à l'évolution des doctrines et des faits économiques et sociaux en France et dans le monde (coefficient 5) (programme fixé à l'annexe I) ;
 
-En tout état de cause, le directeur régional du travail et de l'emploi ne peut accorder de prorogation à une personne certifiée à la suite d'épreuves de contrôle des connaissances et qui n'aurait exercé pendant le période échue aucun emploi correspondant à la certification d'aptitude.
+Soit une étude composée à partir d'un texte qui sera préalablement résumé, dans laquelle seront discutées et appréciées les idées essentielles de l'auteur ; cette épreuve, d'une durée de cinq heures, porte sur un texte d'ordre général relatif à l'évolution des doctrines et des faits économiques et sociaux en France et dans le monde (coefficient 5) (programme fixé à l'annexe I) ;
+
+2) Une composition rédigée en quatre heures portant, au choix du candidat, sur un sujet de droit public (programme fixé à l'annexe II) ou sur un sujet de macro-économie (programme fixé à l'annexe III) (coefficient 3).
+
+3) Une composition rédigée en quatre heures portant, au choix du candidat, sur l'une des matières suivantes (coefficient 3) ;
+
+Finances publiques (programme fixé à l'annexe IV) ;
+
+Droit hospitalier (programme fixé à l'annexe V) ;
+
+Législation de la sécurité sociale (programme fixé à l'annexe X) ;
+
+Comptabilité privée (programme fixé à l'annexe VII)
+
+Micro-économie (programme fixé à l'annexe VIII) ;
+
+Techniques quantitatives (programme fixé à l'annexe IX).
+
+II. - Les épreuves d'admission du second concours comprennent :
+
+1) Une conversation avec les membres du jury ayant pour point de départ, au choix du candidat, soit ses réflexions sur un sujet se rapportant aux problèmes politiques, internationaux, économiques, sociaux, culturels ou techniques du monde actuel, soit le commentaire d'un texte de caractère général (durée : vingt minutes, après une préparation de vingt minutes ; coefficient 4) (le programme de cette épreuve est identique à celui de la première épreuve d'admissibilité) ;
+
+2) Une interrogation portant, au choix du candidat, sur l'une des matières à option non choisie à la troisième épreuve d'admissibilité (durée : quinze minutes, après une préparation de quinze minutes ; coefficient 3).

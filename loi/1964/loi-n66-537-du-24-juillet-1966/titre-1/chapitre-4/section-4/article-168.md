@@ -1,8 +1,8 @@
 # Article 168
 
-Tout actionnaire a droit dans les conditions et délais déterminés par décret, d'obtenir communication :
+Tout actionnaire a droit, dans les conditions et délais déterminés par décret, d'obtenir communication :
 
-1° De l'inventaire, du compte d'exploitation générale, du compte de pertes et profits, du bilan [*documents comptables - comptes annuels*] et de la liste des administrateurs ou des membres du directoire et du conseil de surveillance, selon les cas :
+1° De l'inventaire, des comptes annuels et de la liste des administrateurs ou des membres du directoire et du conseil de surveillance, selon le cas :
 
 2° Des rapports [*rapport social*] du conseil d'administration ou du directoire et du conseil de surveillance, selon le cas, et des commissaires aux comptes, qui seront soumis à l'assemblée.
 
