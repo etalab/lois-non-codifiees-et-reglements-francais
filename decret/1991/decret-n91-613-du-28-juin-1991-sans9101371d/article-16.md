@@ -1,15 +1,9 @@
 # Article 16
 
-I. - Le taux de la cotisation d'assurance maladie due pour les agents en activité relevant du régime spécial de sécurité sociale de la chambre de commerce et d'industrie de Paris est fixé à 7,15 p. 100, soit 5,10 p. 100 à la charge de l'employeur et 2,05 p. 100 à la charge de l'agent.
+I. - Le taux de la cotisation d'assurance maladie à la charge de la chambre de commerce et d'industrie de Paris, au titre du régime spécial de sécurité sociale dont relèvent ses agents en activité, est fixé à 5,10 % ;
 
-Le taux de la cotisation d'assurance maladie à la charge des titulaires d'un avantage de retraite au titre du régime spécial précité est fixé à 2,35 p. 100.
+II. - Le taux de la cotisation d'assurance vieillesse due pour les agents en activité relevant du régime spécial de sécurité sociale de la chambre de commerce et d'industrie de Paris est fixé à :
 
-II.  Le taux de la cotisation d'assurance vieillesse due pour les agents en activité relevant du régime spécial de sécurité sociale de la chambre de commerce et d'industrie de Paris est fixé à :
+a) 28,68 %, soit 20,08 % à la charge de l'employeur et 8,60 % à la charge de l'agent, à compter du 1er janvier 1998 ;
 
-25,61 p. 100, soit 18,01 p. 100 à la charge de l'employeur et 7,60 p. 100 à la charge de l'agent, à compter du 1er janvier 1992 ;
-
-26,43 p. 100, soit 18,58 p. 100 à la charge de l'employeur et 7,85 p. 100 à la charge de l'agent, à compter du 1er janvier 1993 ;
-
-27,18 p. 100, soit 19,08 p. 100 à la charge de l'employeur et 8,10 p. 100 à la charge de l'agent, à compter du 1er janvier 1994 ;
-
-27,93 p. 100, soit 19,58 p. 100 à la charge de l'employeur et 8,35 p. 100 à la charge de l'agent, à compter du 1er janvier 1995.
+b) 29,43 %, soit 20,58 % à la charge de l'employeur et 8,85 % à la charge de l'agent, à compter du 1er janvier 1999.
