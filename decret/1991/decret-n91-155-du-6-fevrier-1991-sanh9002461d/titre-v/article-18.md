@@ -22,11 +22,9 @@ Le congé parental cesse de plein droit en cas de décès de l'enfant ou de retr
 
 La durée du congé parental est prise en compte pour moitié dans la détermination des avantages liés à l'ancienneté.
 
-L'agent contractuel ne peut être réemployé au terme du congé parental que s'il en formule la demande par lettre recommandée au plus tard un mois avant ce terme ; à défaut, l'agent est considéré comme démissionnaire.
-
 L'agent est réemployé dans les conditions définies aux articles 30 et 31 ci-dessous :
 
-1° Au terme du congé parental s'il en a formulé la demande ;
+1° Au terme du congé parental s'il en a formulé la demande par lettre recommandée au plus tard un mois avant ce terme ;
 
 2° A l'issue de la période de six mois en cours, s'il a averti l'administration qu'il souhaitait écourter son congé ;
 

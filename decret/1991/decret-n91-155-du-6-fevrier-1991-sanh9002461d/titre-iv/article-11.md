@@ -2,7 +2,7 @@
 
 L'agent contractuel en activité employé de manière continue et comptant au moins trois années de services effectifs, atteint d'une affection dûment constatée le mettant dans l'impossibilité d'exercer son activité, nécessitant un traitement et des soins prolongés et présentant un caractère invalidant et de gravité confirmée, bénéficie d'un congé de grave maladie pendant une période maximale de trois ans.
 
-Dans cette situation, l'intéressé conserve l'intégralité de son traitement pendant une durée de six mois. Le traitement est réduit de moitié pendant les trente mois suivants.
+Dans cette situation, l'intéressé conserve l'intégralité de son traitement pendant une durée de douze mois. Le traitement est réduit de moitié pendant les vingt-quatre mois suivants.
 
 En vue de l'octroi de ce congé, l'intéressé est soumis à l'examen d'un spécialiste agréé compétent pour l'affection en cause. La décision d'octroi est prise par l'autorité signataire du contrat sur avis émis par le comité médical saisi du dossier.
 

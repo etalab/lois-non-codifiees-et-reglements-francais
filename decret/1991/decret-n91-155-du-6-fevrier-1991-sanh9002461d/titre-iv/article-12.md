@@ -8,4 +8,4 @@ L'intéressé a droit au versement de son plein traitement dans les limites suiv
 
 2° Pendant deux mois après un an de services ;
 
-3° Pendant trois mois après quatre ans de services [*condition d'ancienneté*].
+3° Pendant trois mois après trois ans de services [*condition d'ancienneté*].

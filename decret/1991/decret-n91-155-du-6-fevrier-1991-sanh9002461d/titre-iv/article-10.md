@@ -6,6 +6,6 @@ L'agent contractuel en activité bénéficie, sur présentation d'un certificat 
 
 2° Après deux ans de services, deux mois à plein traitement et deux mois à demi-traitement ;
 
-3° Après quatre ans de services, trois mois à plein traitement et trois mois à demi-traitement.
+3° Après trois ans de services, trois mois à plein traitement et trois mois à demi-traitement.
 
 Pour le décompte des périodes de référence prévues à l'alinéa précédent, toute journée ayant donné lieu à rémunération est décomptée pour une unité quelle que soit la durée de travail au cours de cette journée.
