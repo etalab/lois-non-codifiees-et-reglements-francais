@@ -113,7 +113,6 @@
 - [Arrêté du 3 mai 1995 (EQUK9500915A)](arrete-du-3-mai-1995-equk9500915a)
 - [Arrêté du 3 mai 1995 (INDP9500562A)](arrete-du-3-mai-1995-indp9500562a)
 - [Arrêté du 3 mai 1995 (INDP9500563A)](arrete-du-3-mai-1995-indp9500563a)
-- [Arrêté du 3 mai 1995 (MCCK9500137A)](arrete-du-3-mai-1995-mcck9500137a)
 - [Arrêté du 3 mai 1995 (MCCK9500138A)](arrete-du-3-mai-1995-mcck9500138a)
 - [Arrêté du 3 mai 1995 (SPSC9501442A)](arrete-du-3-mai-1995-spsc9501442a)
 - [Arrêté du 4 août 1995 (EQUD9501237A)](arrete-du-4-aout-1995-equd9501237a)
