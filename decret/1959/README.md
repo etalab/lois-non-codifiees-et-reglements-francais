@@ -39,7 +39,6 @@
 - [Décret n°59-328 du 20 février 1959](decret-n59-328-du-20-fevrier-1959)
 - [Décret n°59-763 du 20 juin 1959](decret-n59-763-du-20-juin-1959)
 - [Décret n°59-1095 du 21 septembre 1959](decret-n59-1095-du-21-septembre-1959)
-- [Décret n°59-1096 du 21 septembre 1959](decret-n59-1096-du-21-septembre-1959)
 - [Décret n°59-1450 du 22 décembre 1959](decret-n59-1450-du-22-decembre-1959)
 - [Décret n°59-1489 du 22 décembre 1959](decret-n59-1489-du-22-decembre-1959)
 - [Décret n° 59-1348 du 23 novembre 1959](decret-n-59-1348-du-23-novembre-1959)
