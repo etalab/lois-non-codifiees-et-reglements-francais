@@ -49,6 +49,7 @@
 - [Décret n°95-49 du 13 janvier 1995 (INDA9401091D)](decret-n95-49-du-13-janvier-1995-inda9401091d)
 - [Décret n°95-44 du 16 janvier 1995 (INTC9500010D)](decret-n95-44-du-16-janvier-1995-intc9500010d)
 - [Décret n°95-51 du 16 janvier 1995 (ENVC9530003D)](decret-n95-51-du-16-janvier-1995-envc9530003d)
+- [Décret n°86-1041 du 17 septembre 1986](decret-n86-1041-du-17-septembre-1986)
 - [Décret n°96-1113 du 19 décembre 1996 (JUSF9650045D)](decret-n96-1113-du-19-decembre-1996-jusf9650045d)
 - [Décret n°95-1058 du 22 septembre 1995 (SPSS9502390D)](decret-n95-1058-du-22-septembre-1995-spss9502390d)
 - [Décret n°95-196 du 24 février 1995 (SPSS9500324D)](decret-n95-196-du-24-fevrier-1995-spss9500324d)
