@@ -1243,7 +1243,6 @@
 - [Arrêté du 29 juillet 1996 (BUDD9670015A)](arrete-du-29-juillet-1996-budd9670015a)
 - [Arrêté du 29 juillet 1996 (ECOB9610059A)](arrete-du-29-juillet-1996-ecob9610059a)
 - [Arrêté du 29 juillet 1996 (EQUA9601069A)](arrete-du-29-juillet-1996-equa9601069a)
-- [Arrêté du 29 juillet 1996 (EQUT9600697A)](arrete-du-29-juillet-1996-equt9600697a)
 - [Arrêté du 29 juillet 1996 (JUSC9620515A)](arrete-du-29-juillet-1996-jusc9620515a)
 - [Arrêté du 29 juillet 1996 (JUSC9620516A)](arrete-du-29-juillet-1996-jusc9620516a)
 - [Arrêté du 29 juillet 1996 (MIPP9600283A)](arrete-du-29-juillet-1996-mipp9600283a)
