@@ -1,4 +1,4 @@
-# Arrêté du 14 juin 1979 relatif aux indemnités de stage des agents communaux et départementaux.
+# Arrêté du 14 juin 1979 relatif au régime indemnitaire des personnels techniques du service national des examens de permis de conduire.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
