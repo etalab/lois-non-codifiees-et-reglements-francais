@@ -95,7 +95,6 @@
 - [Arrêté du 13 septembre 1985](arrete-du-13-septembre-1985)
 - [Arrêté du 13 mai 1985](arrete-du-13-mai-1985)
 - [Arrêté du 14 février 1985](arrete-du-14-fevrier-1985)
-- [Arrêté du 14 juin 1985](arrete-du-14-juin-1985)
 - [Arrêté du 14 mars 1985](arrete-du-14-mars-1985)
 - [Arrêté du 14 novembre 1985](arrete-du-14-novembre-1985)
 - [Arrêté du 14 octobre 1985](arrete-du-14-octobre-1985)
