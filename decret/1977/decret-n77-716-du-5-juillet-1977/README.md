@@ -1,3 +1,0 @@
-# Décret n°77-716 du 5 juillet 1977 MODIFIANT LE N° 76-289 DU 31 MARS 1976 RELATIF AU CONTRAT EMPLOI-FORMATION.
-
-- [Article 1](article-1.md)

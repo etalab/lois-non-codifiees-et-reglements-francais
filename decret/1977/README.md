@@ -26,7 +26,6 @@
 - [Décret n°77-1364 du 5 décembre 1977](decret-n77-1364-du-5-decembre-1977)
 - [Décret n°77-713 du 5 juillet 1977](decret-n77-713-du-5-juillet-1977)
 - [Décret n°77-714 du 5 juillet 1977](decret-n77-714-du-5-juillet-1977)
-- [Décret n°77-716 du 5 juillet 1977](decret-n77-716-du-5-juillet-1977)
 - [Décret n°77-717 du 5 juillet 1977](decret-n77-717-du-5-juillet-1977)
 - [Décret n°77-1334 du 6 décembre 1977](decret-n77-1334-du-6-decembre-1977)
 - [Décret n°77-779 du 6 juillet 1977](decret-n77-779-du-6-juillet-1977)
