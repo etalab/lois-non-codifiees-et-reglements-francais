@@ -20,6 +20,7 @@
 - [Décret n°51-655 du 28 mai 1951](decret-n51-655-du-28-mai-1951)
 - [Décret n°47-2404 du 29 décembre 1947](decret-n47-2404-du-29-decembre-1947)
 - [Décret n°48-1243 du 29 juillet 1948](decret-n48-1243-du-29-juillet-1948)
+- [Décret n°48-1683 du 30 octobre 1948](decret-n48-1683-du-30-octobre-1948)
 - [Décret n°48-580 du 30 mars 1948](decret-n48-580-du-30-mars-1948)
 - [Décret n°47-2410 du 31 décembre 1947](decret-n47-2410-du-31-decembre-1947)
 - [Décret n°47-2412 du 31 décembre 1947](decret-n47-2412-du-31-decembre-1947)
