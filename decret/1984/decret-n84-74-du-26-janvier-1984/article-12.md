@@ -1,0 +1,3 @@
+# Article 12
+
+Si des raisons d'ordre public, de sécurité publique, de protection de la santé et de la vie des personnes et des animaux ou de préservation des végétaux, de protection des trésors nationaux ayant une valeur artistique, historique ou archéologique, ou des exigences impératives tenant à l'efficacité des contrôles fiscaux, à la loyauté des transactions commerciales et à la défense du consommateur rendent une telle mesure nécessaire, l'application d'une norme homologuée peut être rendue obligatoire par arrêté du ministre chargé de l'industrie et, le cas échéant, des autres ministres intéressés, sous réserve des dérogations particulières accordées dans les conditions précisées à l'article 18 ci-après.

@@ -1,0 +1,3 @@
+# Article 20
+
+Les dispositions du présent décret sont applicables aux agriculteurs qui ont rendu leurs terres disponibles et déposé leur demande à partir du 1er février 1984. Pour toutes les cessions réalisées postérieurement à cette date, les demandes doivent être déposées dans le délai d'un an au plus, à compter de la mise à disposition des terres libérées, sous peine de forclusion, le dernier des actes de transfert de l'exploitation devant être pris en considération. Pour toutes les demandes déposées postérieurement à cette date, les transferts de terres devront être effectués impérativement dans le délai d'un an.
