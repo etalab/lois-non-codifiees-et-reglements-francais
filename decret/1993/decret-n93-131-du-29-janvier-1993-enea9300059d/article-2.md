@@ -10,4 +10,10 @@ Les opérateurs pétroliers agréés se libèrent de l'autre part de leur obliga
 
 c) Les opérateurs pétroliers d'outre-mer, mentionnés au III de l'article 4 de la loi susvisée du 31 décembre 1992, s'acquittent provisoirement jusqu'au 31 décembre 1993, de la totalité de leur obligation de stockage dans les conditions prévues par le a du III du même article.
 
+A compter du 1er janvier 1994, ils s'acquittent de l'obligation de stockage définie au a du III de l'article 4 de la loi du 31 décembre 1992 susvisée, à raison de 50 p. 100 de leur obligation totale de stockage.
+
+Ils se libèrent de l'autre part de leur obligation de stockage mentionnée au b du III du même article et assurée par le comité professionnel des stocks stratégiques pétroliers, grâce à un versement unique à ce comité effectué lors de toute opération visée au deuxième alinéa de l'article 2 de la même loi.
+
 III. - Si un opérateur pétrolier agréé renonce à son statut d'entrepositaire agréé, ou s'il le perd, il conserve cependant son obligation de stockage stratégique jusqu'à épuisement de celle-ci, pour la part définie au a du I de l'article 4 de la loi susvisée du 31 décembre 1992. Il peut se libérer de cette obligation par un versement unique au comité professionnel des stocks stratégiques pétroliers de la rémunération correspondante. Le comité professionnel des stocks stratégiques pétroliers reprend alors à son compte l'intégralité de l'obligation de l'opérateur. La possibilité de se libérer de l'obligation par un versement au comité professionnel des stocks stratégiques pétroliers est cependant exclue si un autre opérateur pétrolier agréé s'engage à reprendre l'obligation de stockage de l'opérateur pétrolier qui perd son statut d'entrepositaire agréé ou y renonce.
+
+Les mêmes dispositions sont applicables, pour la part définie au a du III de l'article 4 de la loi du 31 décembre 1992 susvisée, à un opérateur pétrolier d'outre-mer qui cesse son activité.
