@@ -8,3 +8,5 @@
 - [Loi du 2 mai 1930](loi-du-2-mai-1930)
 - [Loi du 26 avril 1930](loi-du-26-avril-1930)
 - [Loi du 29 avril 1930](loi-du-29-avril-1930)
+- [Loi du 9 août 1930](loi-du-9-aout-1930)
+- [Loi n°1930-08-09 du 9 août 1930](loi-n1930-08-09-du-9-aout-1930)
