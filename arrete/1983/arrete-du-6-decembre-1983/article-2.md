@@ -1,3 +1,3 @@
 # Article 2
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+L'arrêté du 10 janvier 1983 est abrogé.

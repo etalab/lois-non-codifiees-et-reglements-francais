@@ -1,0 +1,3 @@
+# Article 5
+
+Toutefois les décisions ayant pour objet soit de remettre en tout ou partie les majorations de retard fixées par le décret susvisé du 15 janvier 1965, soit de remettre en partie les majorations de retard afférentes aux cotisations assises sur les salaires ne sont pas soumises à l'approbation du directeur régional du travail et de la protection sociale agricoles [*autorité compétente*] si le montant de la remise accordée n'excède pas cinquante fois le SMIC applicable au 1er janvier de l'année au cours de laquelle a été prise la décision de réduction ou de la remise [*montant minimum, condition*].
