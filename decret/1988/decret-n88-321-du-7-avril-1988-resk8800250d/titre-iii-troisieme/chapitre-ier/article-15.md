@@ -16,8 +16,4 @@ Les disciplines d'internat sont les suivantes :
 
 - biologie médicale ;
 
-- psychiatrie,
-
-ainsi qu'à compter de l'année universitaire 1993-1994 :
-
-anesthésiologie-réanimation chirurgicale.
+- psychiatrie.
