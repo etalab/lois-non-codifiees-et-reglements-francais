@@ -1,0 +1,9 @@
+# Article 12
+
+La société émettrice aura, à tout moment, la faculté d'échanger d'office et à ses frais les titres d'un montant inférieur à 50 F appartenant à chaque porteur contre des titres dont le montant nominal devra être, sauf dérogation accordée par le ministre des finances, après avis du ministre de la France d'outre-mer, de 50 F au minimum.
+
+La date de l'opération sera fixée par l'organisme émetteur en accord avec les chambres syndicales d'agents de change, les chambres de courtiers en valeurs mobilières ou les commissions de cotation qui auront admis à leur cote les obligations dont il s'agit.
+
+Cet échange sera obligatoire, sauf dérogation spécialement accordée par les autorités visées au premier alinéa du présent article, lors du plus prochain renouvellement ou recouponnement global des titres, pour tous les emprunts comportant des titres inférieurs à 20 F de valeur nominale.
+
+Lors de ces échanges, les titres provenant d'un dépôt en vue de l'échange, ou du reliquat d'un dépôt, inférieur à la valeur nominale du titre nouveau, pourront au gré de l'émetteur soit être remis en circulation munis d'une nouvelle feuille de coupons, soit être échangés contre des coupures d'appoint de valeur nominale égale à celle des titres soumis au regroupement, soit être remboursés par anticipation et sans indemnité nonobstant toute clause contraire ou disposition légale ou conventionnelle stipulant l'inaliénabilité des titres ; ces titres seront remboursés à la valeur nominale, majorée, le cas échéant, de la fraction acquise de la prime de remboursement. Le ministre des finances et le ministre de la France d'outre-mer auront la faculté d'ordonner par arrêté l'échange des titres de montant nominal inférieur à 20 F d'emprunts émis dans le public contre des titres d'un montant nominal de 50 F au minimum.

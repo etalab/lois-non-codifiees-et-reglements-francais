@@ -1,0 +1,9 @@
+# Article 29
+
+Pour l'exercice de leurs droits sur les actions déposées ou mises en gage dans un établissement affilié ou à l'organisme interprofessionnel, les déposants et leurs ayants droit vis-à-vis des établissements affiliés et ceux-ci vis-à-vis de l'organisme interprofessionnel seront dispensés de justifier de l'identité des actions par l'énoncé de leur numéro. Il leur suffira d'apporter la preuve qu'un nombre égal d'actions de même nature ont été déposées à l'organisme interprofessionnel ou dans l'établissement ou en proviennent.
+
+Lorsqu'elles sont constituées en gage au profit d'un tiers, les actions déposées dans un établissement affilié seront identifiées par nature d'actions sans spécification de numéro. Mention de la date du dépôt et de l'établissement dépositaire devra figurer par actions sur l'acte de nantissement.
+
+Les conditions dans lesquelles les établissements affiliés devront enregistrer les numéros des actions au moment, de leur dépôt, ainsi que les conditions dans lesquelles pourront être dressés, à la demande des déposants ou pour eux, des attestations, relevés et copies établissant que les actions restituées sans identité de numéro sont la représentation d'actions déposées, souscrites ou attribuées au nom du déposant dans l'établissement, sont celles fixées par le ministre des finances en application de l'article 15 du décret n° 49-1105 du 4 août 1949.
+
+Outre les attestations, relevés et copies prévus à l'alinéa précédent, les propriétaires et leurs ayants droit peuvent utiliser tous moyens de preuve pour établir que les actions déposées dans un établissement affilié ou en provenant sont la représentation des actions auxquelles ils ont droit, sans préjudice de l'application, s'il y a lieu, en ce qui concerne les rapports des époux entre eux et avec les tiers, des règles posées par le code civil, notamment dans les articles 1499, 1502 et 1504.
