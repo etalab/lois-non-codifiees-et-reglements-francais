@@ -1,7 +1,9 @@
 # Article 2
 
-Le corps du personnel technique du service de physiothérapie des thermes nationaux d'Aix-les-Bains comprend deux grades :
+Le corps du personnel technique du service de physiothérapie des Thermes nationaux d'Aix-les-Bains comprend trois grades :
 
-- Technicien de physiothérapie ;
+- technicien de physiothérapie ;
 
-- Surveillant du service de physiothérapie.
+- surveillant du service de physiothérapie ;
+
+- surveillant chef du service de physiothérapie.
