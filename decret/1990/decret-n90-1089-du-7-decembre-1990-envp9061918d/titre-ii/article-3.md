@@ -2,13 +2,11 @@
 
 Le conseil d'administration de l'institut comprend :
 
-1° Huit représentants de l'Etat, dont :
+1° Sept représentants de l'Etat, dont :
 
 Un représentant du ministre chargé de l'environnement ;
 
 Un représentant du ministre chargé de l'industrie ;
-
-Un représentant du ministre chargé du budget ;
 
 Un représentant du ministre chargé de la sécurité civile ;
 
