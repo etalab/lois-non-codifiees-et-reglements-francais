@@ -291,7 +291,6 @@
 - [Décret du 18 février 1986](decret-du-18-fevrier-1986)
 - [Décret n°86-1044 du 18 septembre 1986](decret-n86-1044-du-18-septembre-1986)
 - [Décret n°86-1045 du 18 septembre 1986](decret-n86-1045-du-18-septembre-1986)
-- [Décret n°86-1053 du 18 septembre 1986](decret-n86-1053-du-18-septembre-1986)
 - [Décret n°86-1194 du 18 novembre 1986](decret-n86-1194-du-18-novembre-1986)
 - [Décret n°86-218 du 18 février 1986](decret-n86-218-du-18-fevrier-1986)
 - [Décret n°86-227 du 18 février 1986](decret-n86-227-du-18-fevrier-1986)
