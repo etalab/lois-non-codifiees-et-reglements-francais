@@ -1,3 +1,3 @@
 # Article 1
 
-Le seuil prévu à l'article 1er (1) du décret du 23 octobre 1970 susvisé est fixé à 200 F.
+Le montant de la cotisation forfaitaire due par les bénéficiaires du régime d'assurance maladie des étudiants est fixé à 450 F pour l'année universitaire 1985-1986.

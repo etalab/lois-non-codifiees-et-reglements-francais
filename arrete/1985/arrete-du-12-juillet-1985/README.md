@@ -1,4 +1,4 @@
-# Arrêté du 12 juillet 1985 fixant le seuil en deçà duquel les caisses de mutualité sociale agricole et les autres organismes participant à l'application de la législation de protection sociale sont autorisés à différer la mise en recouvrement de leurs créances en matière de cotisations et de majorations de retard.
+# Arrêté du 12 juillet 1985 fixant la cotisation forfaitaire due par les bénéficiaires du régime d'assurance maladie des étudiants pour l'année universitaire 1985-1986.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

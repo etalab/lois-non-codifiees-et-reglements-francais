@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 19 janvier 1979 fixant le seuil en deçà duquel les caisses de mutualité sociale agricole et les autres organismes participant à l'application de la législation de protection sociale sont autorisés à différer la mise en recouvrement de leurs créances en matière de cotisations et de majorations de retard est abrogé.
+Le directeur du budget, le directeur des enseignements supérieurs et le directeur de la sécurité sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
