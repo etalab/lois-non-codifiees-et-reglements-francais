@@ -340,8 +340,6 @@
 - [Arrêté du 16 août 1989 (ECOT8913212A)](arrete-du-16-aout-1989-ecot8913212a)
 - [Arrêté du 16 août 1989 (PTTD8900055A)](arrete-du-16-aout-1989-pttd8900055a)
 - [Arrêté du 16 août 1989 (PTTD8900056A)](arrete-du-16-aout-1989-pttd8900056a)
-- [Arrêté du 16 août 1989 (SPSN8901698A)](arrete-du-16-aout-1989-spsn8901698a)
-- [Arrêté du 16 août 1989 (SPSN8901699A)](arrete-du-16-aout-1989-spsn8901699a)
 - [Arrêté du 16 août 1989 (SPSN8901700A)](arrete-du-16-aout-1989-spsn8901700a)
 - [Arrêté du 16 décembre 1988 (MERG8800133A)](arrete-du-16-decembre-1988-merg8800133a)
 - [Arrêté du 16 décembre 1988 (TEFT8804185A)](arrete-du-16-decembre-1988-teft8804185a)
