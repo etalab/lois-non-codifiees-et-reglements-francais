@@ -183,7 +183,6 @@
 - [Arrêté du 6 janvier 1997 (BUDL9600171A)](arrete-du-6-janvier-1997-budl9600171a)
 - [Arrêté du 6 janvier 1997 (ECOT9620058A)](arrete-du-6-janvier-1997-ecot9620058a)
 - [Arrêté du 6 janvier 1997 (MENH9603457A)](arrete-du-6-janvier-1997-menh9603457a)
-- [Arrêté du 6 janvier 1997 (PRMX9601859A)](arrete-du-6-janvier-1997-prmx9601859a)
 - [Arrêté du 6 janvier 1997 (TASP9720072A)](arrete-du-6-janvier-1997-tasp9720072a)
 - [Arrêté du 6 mars 1997 (ECOT9751568A)](arrete-du-6-mars-1997-ecot9751568a)
 - [Arrêté du 6 mars 1997 (MCCI9700163A)](arrete-du-6-mars-1997-mcci9700163a)
