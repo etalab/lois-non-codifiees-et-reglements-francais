@@ -2,4 +2,4 @@
 
 I. Paragraphe modificateur
 
-II. - Les dispositions du I sont applicables à compter du 1er juillet 2004.
+II. - Les dispositions du I sont applicables à compter du 1er novembre 2004.

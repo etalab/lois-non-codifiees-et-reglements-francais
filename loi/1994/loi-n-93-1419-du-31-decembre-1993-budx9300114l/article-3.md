@@ -1,9 +1,9 @@
 # Article 3
 
-Les fonctionnaires du ministère du budget régis par le décret n° 69-795 du 7 août 1969 fixant le statut particulier des fonctionnaires techniques de l'Imprimerie nationale continuent d'exercer leur activité au sein de la nouvelle société et sont placés à ce titre sous l'autorité du président de ladite société ; celle-ci prend en charge leur rémunération à compter de la date de réalisation des apports.
+Les fonctionnaires régis par le décret n° 69-795 du 7 août 1969 fixant le statut particulier des fonctionnaires techniques de l'Imprimerie nationale exercent leurs activités au sein du ministère chargé de l'économie, des finances et de l'industrie et sont affectés dans l'un des services de ce ministère ou exercent en position d'activité au sein de la société Imprimerie nationale.
 
-Un décret en Conseil d'Etat précise les actes de gestion individuelle qui peuvent être accomplis à l'égard de ces fonctionnaires par le président de la société dans le respect des garanties résultant des dispositions de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
+Ces fonctionnaires pourront être intégrés sur leur demande dans un corps ou cadre d'emplois de la fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique hospitalière. Cette intégration est subordonnée à une période de détachement d'une durée d'un an. Elle s'effectue, en fonction des qualifications des fonctionnaires, nonobstant les règles relatives au recrutement des corps ou cadres d'emplois d'accueil, à l'exception de celles subordonnant l'exercice des fonctions correspondantes à la détention d'un titre ou diplôme spécifique.
 
-Les actes de gestion mentionnés au précédent alinéa ne comprennent pas ceux relevant de l'exercice du pouvoir disciplinaire.
+Les administrations ou organismes d'accueil pourront bénéficier de mesures financières ou d'accompagnement à la charge de l'Imprimerie nationale.
 
-Les intéressés bénéficieront des dispositions du code du travail relatives à l'intéressement des salariés à l'entreprise dans les conditions du dit code.
+Les conditions d'application du présent article sont précisées par un décret en Conseil d'Etat.
