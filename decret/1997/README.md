@@ -239,6 +239,7 @@
 - [Décret n°97-191 du 26 février 1997 (BUDB9750002D)](decret-n97-191-du-26-fevrier-1997-budb9750002d)
 - [Décret n°97-192 du 26 février 1997 (BUDD9650007D)](decret-n97-192-du-26-fevrier-1997-budd9650007d)
 - [Décret n°97-530 du 26 mai 1997 (TASO9710628D)](decret-n97-530-du-26-mai-1997-taso9710628d)
+- [Décret n°64-96 du 27 janvier 1964](decret-n64-96-du-27-janvier-1964)
 - [Décret n°96-1178 du 27 décembre 1996 (MIPP9600482D)](decret-n96-1178-du-27-decembre-1996-mipp9600482d)
 - [Décret n°96-1250 du 27 décembre 1996 (MIPP9600512D)](decret-n96-1250-du-27-decembre-1996-mipp9600512d)
 - [Décret n°96-1256 du 27 décembre 1996 (FPPA9610035D)](decret-n96-1256-du-27-decembre-1996-fppa9610035d)
