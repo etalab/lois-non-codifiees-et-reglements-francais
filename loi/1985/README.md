@@ -10,6 +10,8 @@
 - [Loi n° 85-11 du 3 janvier 1985](loi-n-85-11-du-3-janvier-1985)
 - [Loi n° 85-1221 du 22 novembre 1985](loi-n-85-1221-du-22-novembre-1985)
 - [Loi n° 85-1268 du 29 novembre 1985](loi-n-85-1268-du-29-novembre-1985)
+- [Loi n° 85-1273 du 4 décembre 1985](loi-n-85-1273-du-4-decembre-1985)
+- [Loi n° 85-1274 du 4 décembre 1985](loi-n-85-1274-du-4-decembre-1985)
 - [Loi n° 85-17 du 4 janvier 1985](loi-n-85-17-du-4-janvier-1985)
 - [Loi n° 85-30 du 9 janvier 1985](loi-n-85-30-du-9-janvier-1985)
 - [Loi n° 85-528 du 15 mai 1985](loi-n-85-528-du-15-mai-1985)
