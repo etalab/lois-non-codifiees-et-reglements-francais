@@ -85,7 +85,6 @@
 - [Arrêté du 17 août 1984](arrete-du-17-aout-1984)
 - [Arrêté du 17 décembre 1984](arrete-du-17-decembre-1984)
 - [Arrêté du 17 février 1984](arrete-du-17-fevrier-1984)
-- [Arrêté du 17 janvier 1984](arrete-du-17-janvier-1984)
 - [Arrêté du 17 juillet 1984](arrete-du-17-juillet-1984)
 - [Arrêté du 17 octobre 1984](arrete-du-17-octobre-1984)
 - [Arrêté du 17 septembre 1984](arrete-du-17-septembre-1984)
