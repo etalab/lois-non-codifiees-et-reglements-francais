@@ -1,8 +1,6 @@
 # Article ANNEXE
 
-TITRE Ier
-
-LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
+TITRE Ier : LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
 
 Ordonnance royale du 3 mars 1825 relative aux presbytères modifiée par le décret de décentralisation administrative du 25 mars 1852 (tableau A, 45°)
 
@@ -70,9 +68,7 @@ Désaffectation des édifices cultuels lorsqu'il n'y a pas accord de l'autorité
 
 Article 1er.
 
-TITRE II
-
-LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE DE L'INTÉRIEUR
+TITRE II : LISTE DES DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE DE L'INTÉRIEUR
 
 1. Décisions administratives individuelles prises par le ministre de l'intérieur conjointement avec un ou plusieurs ministres
 
@@ -132,29 +128,35 @@ Interdiction à un étranger de résider dans un ou plusieurs départements.
 
 Alinéa 4 de l'article 2.
 
-Décret n° 82-440 du 26 mai 1982 modifié portant application des articles 23, 24, 26, 28 et 33 de l'ordonnance du 2 novembre 1945 modifiée relative aux conditions d'entrée et de séjour des étrangers en France
+Décret n° 82-440 du 26 mai 1982 modifié portant application des articles 23, 24, 25 bis, 27 ter, 28 et 33 de l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France :
 
 1
 
-Expulsion d'un étranger selon la procédure d'urgence absolue ou pour nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique.
+Expulsion d'un étranger selon la procédure d'urgence absolue et/ou pour nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique.
 
 Article 2.
 
 2
 
-Assignation à résidence d'un étranger faisant l'objet d'une expulsion prononcée en urgence absolue ou pour nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique et qui ne peut déférer à cette mesure.
+Fixation du pays de renvoi pour un étranger faisant l'objet d'une expulsion prononcée en urgence absolue et/ou pour nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique.
 
-Article 4.
+2e alinéa de l'article 3 bis.
 
 3
 
-Assignation à résidence d'un étranger qui fait l'objet d'une décision d'interdiction du territoire prononcée par une juridiction judiciaire et qui ne peut déférer à cette mesure.
+Assignation à résidence d'un étranger faisant l'objet d'une expulsion prononcée en urgence absolue et/ou pour nécessité impérieuse pour la sûreté de l'Etat ou la sécurité publique et qui ne peut déférer à cette mesure.
 
 Article 4.
 
 4
 
-Remise à un Etat membre de la Communauté européenne d'un demandeur d'asile dont l'examen relève de la responsabilité de cet Etat, lorsque la demande d'asile est présentée à la frontière.
+Assignation à résidence d'un étranger qui fait l'objet d'une décision d'interdiction du territoire prononcée par une juridiction judiciaire et qui ne peut déférer à cette mesure.
+
+Article 4.
+
+5
+
+Remise à un Etat membre de la Communauté européenne d'un demandeur d'asile lorsque la demande de l'intéressé est présentée à la frontière et que son examen relève de la responsabilité de cet Etat.
 
 1er alinéa de l'article 11.
 

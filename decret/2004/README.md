@@ -616,6 +616,7 @@
 - [Décret n°2004-868 du 26 août 2004 (ECOF0400037D)](decret-n2004-868-du-26-aout-2004-ecof0400037d)
 - [Décret n°2005-1048 du 26 août 2005 (EQUA0500746D)](decret-n2005-1048-du-26-aout-2005-equa0500746d)
 - [Décret n°2005-1049 du 26 août 2005 (EQUA0500747D)](decret-n2005-1049-du-26-aout-2005-equa0500747d)
+- [Décret n°82-440 du 26 mai 1982](decret-n82-440-du-26-mai-1982)
 - [Décret n°2004-476 du 26 mai 2004 (MAEA0420130D)](decret-n2004-476-du-26-mai-2004-maea0420130d)
 - [Décret du 27 juillet 2004 (AGRP0400194D)](decret-du-27-juillet-2004-agrp0400194d)
 - [Décret du 27 juillet 2004 (AGRP0400195D)](decret-du-27-juillet-2004-agrp0400195d)
