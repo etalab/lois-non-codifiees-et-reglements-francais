@@ -1,6 +1,6 @@
 # Article 2
 
-La direction de la construction comprend [*composition*] :
+La direction de la construction comprend :
 
 1. La sous-direction du financement et du budget constituée par :
 
@@ -22,7 +22,9 @@ La direction de la construction comprend [*composition*] :
 
 - des chargés de mission géographique assurent, chacun pour une zone géographique définie, un suivi de la programmation et des actions locales. Ils sont de plus saisis de missions ponctuelles liées à la mise en oeuvre de la politique de l'habitat.
 
-- le bureau de la gestion des financements et du tableau de bord financier.
+- le bureau de la gestion des financements et du tableau de bord financier ;
+
+- le bureau de l'outre-mer.
 
 3. La sous-direction des organismes constructeurs constituée par :
 
@@ -46,19 +48,21 @@ La direction de la construction comprend [*composition*] :
 
 - le bureau des usagers de l'habitat ;
 
-- le bureau de la qualité et de la prévention.
+- le bureau de la maîtrise des coûts.
 
 6. La sous-direction économique et technique de la construction, constituée par :
 
-- le bureau de la maîtrise des coûts ;
+- le bureau Energie, santé, environnement ;
 
 - le bureau des filières de production ;
 
 - le bureau des actions techniques locales ;
 
-- le bureau de l'informatique et des produits industriels.
+- le bureau de l'informatique et des produits industriels ;
 
-7. La division des affaires générales, au sein de laquelle sont regroupées six cellules administratives chargées respectivement :
+- le bureau de la qualité technique et de la prévention.
+
+7. Le secrétariat général, au sein duquel sont regroupées six cellules administratives chargées respectivement :
 
 - des actions internationales ;
 
@@ -72,6 +76,6 @@ La direction de la construction comprend [*composition*] :
 
 - des marchés.
 
-8. La direction de la construction assure la gestion du secrétariat permanent du plan-construction.
+8. La direction de la construction assure la gestion du secrétariat permanent du plan Construction et architecture.
 
-9. La direction de la construction a pour le compte du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports, autorité sur la mission de contrôle des prêts " logement ".
+9. La direction de la construction a pour le compte du ministère de l'équipement, du logement, de l'aménagement du territoire et des transports, autorité sur la mission de contrôle des prêts logement.
