@@ -7,7 +7,6 @@
 - [Arrêté du 1 décembre 1993 (SANP9303517A)](arrete-du-1-decembre-1993-sanp9303517a)
 - [Arrêté du 1 décembre 1993 (SPSS9303450A)](arrete-du-1-decembre-1993-spss9303450a)
 - [Arrêté du 1 décembre 1993 (SPSS9303451A)](arrete-du-1-decembre-1993-spss9303451a)
-- [Arrêté du 1 février 1993 (INDP9300104A)](arrete-du-1-fevrier-1993-indp9300104a)
 - [Arrêté du 1 février 1993 (JUSF9350003A)](arrete-du-1-fevrier-1993-jusf9350003a)
 - [Arrêté du 1 février 1993 (JUSG9360011A)](arrete-du-1-fevrier-1993-jusg9360011a)
 - [Arrêté du 1 février 1993 (SANP9300409A)](arrete-du-1-fevrier-1993-sanp9300409a)
