@@ -1,0 +1,4 @@
+# Décret n°84-416 du 30 mai 1984 PRIS POUR L'APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER DES ARTICLES L. 351-9 ET L. 351-10 DU CODE DU TRAVAIL
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
