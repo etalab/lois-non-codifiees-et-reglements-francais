@@ -10,4 +10,4 @@ Toute entreprise visée à l'article 2, qui n'aurait pas reçu du COREM l'imprim
 
 Le COREM est habilité à procéder aux enquêtes et contrôles concernant le décompte des redevables. Il peut, sous la garantie du secret professionnel, exiger la présentation de toutes pièces justificatives nécessaires à ces vérifications.
 
-La taxe due n'est pas mise en recouvrement si son montant est inférieur ou égal à 250 F pour le semestre.
+La taxe due n'est pas mise en recouvrement si son montant est inférieur ou égal à 40 euros pour le semestre.
