@@ -12,4 +12,4 @@ La présente loi est applicable :
 
 5° Dans les îles Wallis-et-Futuna, dans les conditions prévues aux articles L. 387 à L. 389 du même code.
 
-Par dérogation à l'article L. 55 du même code, en Polynésie française, le scrutin est organisé le samedi.
+Par dérogation à l'article L. 55 du même code à Saint-Pierre-et-Miquelon, en Guadeloupe, en Martinique, en Guyane et en Polynésie française, le scrutin est organisé le samedi.
