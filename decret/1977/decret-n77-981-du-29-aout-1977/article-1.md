@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsqu'à l'occasion des contrôles qu'il effectue en application des articles 12 et 13 du décret susvisé du 29 décembre 1962 sur les titres de paiement qui lui sont présentés, le comptable assignataire des dépenses résultant de l'exécution d'un marché de l'Etat ou d'un de ses établissements publics à caractère administratif constate qu'en raison du non-respect des délais de mandatement définis aux articles 178 et 178 bis du code des marchés publics susvisé des intérêts moratoires sont dus, il avise l'ordonnateur qui aura négligé de procéder au mandatement de tout ou partie de ces intérêts moratoires que celui-ci est tenu d'émettre le mandat complémentaire correspondant.

@@ -1,4 +1,4 @@
-# Arrêté du 9 août 1977RATIOS ET AUTRES ELEMENTS CARACTERISANT LA SITUATION FINANCIERE ET ECONOMIQUE DES ENTREPRISES INDUSTRIELLES, COMMERCIALES ET ARTISANALES ADHERANT A UN CENTRE DE GESTION AGREE
+# Arrêté du 9 août 1977 relatif au commerce des oignons, aulx et échalotes irradiés
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,4 +9,3 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Annexes](annexes)
