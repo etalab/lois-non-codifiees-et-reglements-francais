@@ -6,11 +6,11 @@ En outre, une redevance annuelle est perçue sur ceux desdits établissements qu
 
 II - Les taux de la taxe unique sont fixés comme suit :
 
-3.000 F pour les établissements dont une installation au moins est soumise à autorisation ;
+10.000 F pour les établissements dont une installation au moins est soumise à autorisation ;
 
 1.000 F pour les établissements dont une installation au moins est soumise à déclaration.
 
-Toutefois, ces taux sont réduits à 750 F et 250 F pour les artisans n'employant pas plus de deux salariés et à 1.950 F et 650 F pour les autres entreprises inscrites au répertoire des métiers.
+Toutefois, ces taux sont réduits à 2.000 F et 250 F pour les artisans n'employant pas plus de deux salariés et à 4.800 F et 650 F pour les autres entreprises inscrites au répertoire des métiers.
 
 Une pénalité dont le taux est fixé au double du montant de la taxe est appliquée à l'exploitant qui, en vue de la détermination du taux de la taxe et de sa mise en recouvrement, ne donne pas les renseignement demandés ou fournit des informations inexactes.
 
@@ -18,7 +18,7 @@ Le montant de la taxe est majoré de 10 p. 100 lorsque le paiement des sommes co
 
 III - Les établissements visés au deuxième alinéa du paragraphe I ci-dessus sont ceux dans lesquels sont exercées une ou plusieurs des activités figurant sur une liste établie par décret en Conseil d'Etat, après avis du conseil supérieur des installations classées.
 
-Le taux de base de ladite redevance est fixée à 500 F.
+Le taux de base de ladite redevance est fixée à 1.500 F.
 
 Le décret prévu ci-dessus fixe, pour chacune des activités retenues en fonction de sa nature et de son importance, un coefficient multiplicateur compris entre 1 et 6. Le montant de la redevance effectivement perçue par établissement au titre de chacune de ces activités est égal au produit du taux de base et du coefficient multiplicateur.
 
