@@ -8,7 +8,7 @@ Sont exclus de ces taxes et de ces redevances les ouvrages hydroélectriques con
 
 Un décret en Conseil d'Etat définit la consistance et les conditions de gestion du domaine confié à l'établissement public.
 
-II. - La taxe sur les titulaires d'ouvrages de prise d'eau, rejet d'eau ou d'autres ouvrages hydrauliques destinés à prélever ou à évacuer des volumes d'eau a un taux unique par catégorie d'usagers et comprend deux éléments :
+II. - La taxe sur les titulaires d'ouvrages de prise d'eau, rejet d'eau ou d'autres ouvrages hydrauliques destinés à prélever ou à évacuer des volumes d'eau a un taux unique par catégorie d'usagers et comprend, lorsque ces ouvrages sont implantés sur le domaine public fluvial de l'Etat dont la gestion est confiée à l'établissement public mentionné au premier alinéa du I du présent article, deux éléments :
 
 a) Un élément égal au produit de la superficie de l'emprise au sol des ouvrages correspondants par un taux de base fixé dans la limite des plafonds suivants :
 
@@ -22,7 +22,9 @@ Toutefois, pour les ouvrages destinés à un usage agricole, le plafond est celu
 
 En ce qui concerne les ouvrages hydroélectriques autorisés en application de la loi du 16 octobre 1919 relative à l'utilisation de l'énergie hydraulique, la superficie de l'emprise au sol est égale à la somme de l'emprise des canaux d'amenée et de rejet entre le premier élément mobile du canal d'amenée et le dernier élément mobile du canal de rejet et de la partie de l'emprise de l'usine d'exploitation qui n'est pas située sur les canaux.
 
-b) Un élément égal au produit du volume prélevable ou rejetable par l'ouvrage par un taux de base compris entre 1 et 3 centimes par mètre cube prélevable ou rejetable, et identique pour tous les usagers. A ce deuxième élément est appliqué un coefficient d'abattement compris entre 90 et 97 p. 100 pour les usages agricoles et entre 10 et 30 p. 100 pour les usages industriels.    Le montant total de la taxe afférente aux ouvrages hydroélectriques autorisés en application de la loi du 16 octobre 1919 précitée ne peut dépasser un montant égal à 3 p. 100 du chiffre d'affaires généré par ces ouvrages au cours de l'année précédant l'année d'imposition. La première année de mise en exploitation d'un ouvrage, ce plafond est assis sur le chiffre d'affaires de l'année en cours et affecté d'un abattement calculé au prorata temporis de la durée d'exploitation. En outre, le montant total de la taxe due est réduit de moitié pendant les dix années suivant la mise en exploitation initiale de l'ouvrage.
+b) Un élément égal au produit du volume prélevable ou rejetable par l'ouvrage par un taux de base compris entre 1,5 et 4,6 euros par millier de mètres cubes prélevables ou rejetables, et identique pour tous les usagers. A ce deuxième élément est appliqué un coefficient d'abattement compris entre 90 et 97 p. 100 pour les usages agricoles et entre 10 et 30 p. 100 pour les usages industriels.
+
+Le montant total de la taxe afférente aux ouvrages hydroélectriques autorisés en application de la loi du 16 octobre 1919 précitée ne peut dépasser un montant égal à 3 p. 100 du chiffre d'affaires généré par ces ouvrages au cours de l'année précédant l'année d'imposition. La première année de mise en exploitation d'un ouvrage, ce plafond est assis sur le chiffre d'affaires de l'année en cours et affecté d'un abattement calculé au prorata temporis de la durée d'exploitation. En outre, le montant total de la taxe due est réduit de moitié pendant les dix années suivant la mise en exploitation initiale de l'ouvrage.
 
 Pour les ouvrages hydroélectriques autorisés en application de la loi du 16 octobre 1919 précitée, le second élément est égal au produit de la puissance maximale brute autorisée de la chute par un taux de base compris entre 40 F et 120 F par kilowatt.
 
@@ -31,6 +33,10 @@ Les titulaires d'ouvrages mentionnés au premier alinéa du II du présent artic
 Les sûretés, garanties et sanctions relatives à cette taxe sont régies par les règles applicables en matière de taxe sur le chiffre d'affaires.
 
 Un décret en Conseil d'Etat précise les modalités d'application des dispositions du II du présent article.
+
+II bis. - Lorsque le long d'une voie navigable confiée à l'établissement public mentionné au premier alinéa du I l'ouvrage est implanté sur une partie du domaine public fluvial remise en gestion par l'Etat à un autre établissement public national, la taxe ne comprend que l'élément prévu au b du II. Les redevances domaniales restent dues à l'établissement public gestionnaire.
+
+Les dispositions des cinq derniers alinéas du II sont applicables aux titulaires d'ouvrages mentionnés à l'alinéa précédent.
 
 III. - Les transporteurs de marchandises ou de passagers et les propriétaires de bateaux de plaisance d'une longueur supérieure à 5 mètres ou dotés d'un moteur d'une puissance égale ou supérieure à 9,9 chevaux sont assujettis, dans des conditions fixées par décret en Conseil d'Etat, à des péages perçus au profit de l'établissement public lorsqu'ils naviguent sur le domaine public qui lui est confié, à l'exception des parties internationales du Rhin et de la Moselle. Le montant de ces péages est fixé par l'établissement.
 
