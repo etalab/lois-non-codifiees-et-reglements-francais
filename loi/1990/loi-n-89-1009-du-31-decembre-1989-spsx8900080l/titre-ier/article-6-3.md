@@ -1,0 +1,3 @@
+# Article 6-3
+
+Lorsque les personnes mentionnées au huitième alinéa de l'article L. 861-3 du code de la sécurité sociale acquièrent une protection complémentaire souscrite à titre individuel en matière de frais de soins de santé, aucune période probatoire ne peut leur être opposée. Elles bénéficient en outre de la procédure de dispense d'avance de frais, pour une durée d'un an à compter de l'expiration de leur droit aux prestations définies aux cinq premiers alinéas de l'article L. 861-3 précité, dans les conditions prévues par décret, pour la part de ces mêmes dépenses prise en charge par les organismes visés au b de l'article L. 861-4 du code de la sécurité sociale.

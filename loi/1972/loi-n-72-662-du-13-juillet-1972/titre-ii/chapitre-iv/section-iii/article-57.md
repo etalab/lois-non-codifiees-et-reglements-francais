@@ -16,4 +16,6 @@ La non-activité est la position temporaire du militaire de carrière qui se tro
 
 7° En congé parental ;
 
-8° En congé complémentaire de reconversion.
+8° En congé complémentaire de reconversion ;
+
+9° En congé de présence parentale.

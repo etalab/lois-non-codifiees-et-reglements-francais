@@ -6,7 +6,9 @@ Reste dans cette position le militaire de carrière qui obtient :
 
 1° Des congés de maladie, avec solde d'une durée maximum de six mois pendant une période de douze mois consécutifs ;
 
-2° Des congés pour maternité ou pour adoption, avec solde, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
+2° Des congés pour maternité ou pour adoption, avec solde, d'une durée égale à celle prévue par la législation sur la sécurité sociale.
+
+Des congés pour paternité en cas de naissance ou d'adoption, avec solde, d'une durée égale à celle prévue par la législation sur la sécurité sociale.
 
 3° Des congés exceptionnels d'une durée maximum de six mois accordés avec solde dans l'intérêt du service, notamment pour la formation ou le perfectionnement, ou sans solde pour convenances personnelles ;
 

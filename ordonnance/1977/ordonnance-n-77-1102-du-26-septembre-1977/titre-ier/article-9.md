@@ -30,7 +30,7 @@ L'assurance maladie et maternité est régie par les dispositions suivantes du c
 
 - L. 324-1 ;
 
-- L. 331-1 à L. 331-7 ;
+- L. 331-1 à L. 331-8 ;
 
 - L. 332-1 et L. 332-2 ;
 
