@@ -214,7 +214,6 @@
 - [Arrêté du 8 janvier 1990 (ECOT8916093A)](arrete-du-8-janvier-1990-ecot8916093a)
 - [Arrêté du 8 janvier 1990 (ECOT8916094A)](arrete-du-8-janvier-1990-ecot8916094a)
 - [Arrêté du 8 juillet 1990 (AGRG9000880A)](arrete-du-8-juillet-1990-agrg9000880a)
-- [Arrêté du 8 juin 1990 (AGRG9000527A)](arrete-du-8-juin-1990-agrg9000527a)
 - [Arrêté du 8 juin 1990 (BUDR9005030A)](arrete-du-8-juin-1990-budr9005030a)
 - [Arrêté du 8 juin 1990 (ECOC9000038A)](arrete-du-8-juin-1990-ecoc9000038a)
 - [Arrêté du 8 juin 1990 (INDD9000420A)](arrete-du-8-juin-1990-indd9000420a)
