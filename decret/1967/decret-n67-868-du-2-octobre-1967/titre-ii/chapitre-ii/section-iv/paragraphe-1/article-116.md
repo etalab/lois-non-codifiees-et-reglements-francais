@@ -8,4 +8,4 @@ Dans les actes reçus ou dressés par lui, chaque associé indique sa qualité d
 
 Chaque associé tient un répertoire des actes reçus par lui. Il est seul possesseur des minutes desdits actes.
 
-La qualification de société de notaires doit accompagner la raison sociale dans toutes correspondances et tous documents émanant de la société.
+L'appellation de société de notaires doit accompagner la raison sociale dans toutes correspondances et tous documents émanant de la société.

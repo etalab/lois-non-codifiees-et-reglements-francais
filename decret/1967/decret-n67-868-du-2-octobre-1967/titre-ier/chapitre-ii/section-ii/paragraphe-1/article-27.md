@@ -1,14 +1,12 @@
 # Article 27
 
-Toute convention par laquelle l'un des associés cède la totalité ou une fraction de ses parts sociales à un tiers est passée sous la condition suspensive de l'agrément du cessionnaire et, s'il y a lieu, de l'approbation du retrait du cédant, prononcée par arrêté du garde des sceaux, ministre de la justice.
-
-Le projet de cession de parts sociales est notifié à la société et à chacun des associés par lettre recommandée avec demande d'avis de réception.
+Toute convention par laquelle l'un des associés cède la totalité ou une fraction de ses parts sociales à un tiers est passée sous la condition suspensive de l'agrément du cessionnaire par les autres associés et, s'il y a lieu, de l'approbation du retrait du cédant, prononcée par arrêté du garde des sceaux, ministre de la justice.    Le projet de cession de parts sociales est notifié à la société et à chacun des associés par lettre recommandée avec demande d'avis de réception.
 
 Si la société a, dans la même forme, notifié son consentement exprès à la cession, ou si elle n'a pas fait connaître sa décision dans le délai de deux mois à compter de la dernière des notifications prévues à l'alinéa 2 ci-dessus, le cessionnaire adresse au garde des sceaux, ministre de la justice, une requête tendant à sa nomination en qualité de notaire associé.
 
 Cette requête est remise au procureur de la République près le tribunal de grande instance dans le ressort duquel la société a son siège.
 
-Elle est accompagnée de l'expédition de l'acte de cession des parts sociales, si celui-ci a été établi dans la forme authentique, ou de l'un des originaux de cet acte dans le cas contraire, ainsi que de toutes pièces justificatives, notamment de celles qui établissent le consentement exprès ou tacite donné par la société à la cession, sans préjudice de celles exigées de tout candidat aux fonctions de notaire.
+Elle est accompagnée de l'expédition de l'acte de cession de parts sociales si celui-ci a été établi dans la forme authentique ou de l'un des originaux de cet acte dans le cas contraire, ainsi que de toutes pièces justificatives, notamment de celles qui établissent le consentement exprès ou tacite donné par la société à la cession sans préjudice de celles exigées de tout candidat aux fonctions de notaire. Lorsque le futur associé doit contracter un emprunt, il doit, en outre, produire un plan de financement prévoyant de manière détaillée les conditions dans lesquelles il entend faire face à ses échéances en fonction de l'ensemble de ses revenus et d'un budget prévisionnel.
 
 Le procureur de la République saisit la chambre départementale par lettre recommandée avec demande d'avis de réception et l'invite à lui faire parvenir son avis motivé sur la requête. Il informe simultanément le conseil régional du dépôt de la requête.
 

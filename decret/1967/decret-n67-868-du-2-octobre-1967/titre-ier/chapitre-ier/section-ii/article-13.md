@@ -10,7 +10,7 @@ c) Le bénéfice résultant pour la société de la suppression de l'office du n
 
 d) Tous droits incorporels et tous meubles utiles à l'exercice de la profession de notaire ;
 
-e) Les immeubles devant servir à l'établissement du siège de l'office, et ceux destinés au logement du personnel de la société ;
+e) les immeubles devant servir à l'établissement du siège de l'office et, le cas échéant, des bureaux annexes ;
 
 f) Toutes sommes en numéraire ;
 
