@@ -4,3 +4,4 @@
 - [Titre Ier : Commission administrative paritaire nationale.](titre-ier)
 - [TITRE II : COMMISSIONS ADMINISTRATIVES PARITAIRES ACADEMIQUES.](titre-ii)
 - [TITRE III : DISPOSITIONS DIVERSES.](titre-iii)
+- [Article 9](article-9.md)
