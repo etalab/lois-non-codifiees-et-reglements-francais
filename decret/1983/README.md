@@ -1,5 +1,6 @@
 # 1983
 
+- [Décret n°83-1031 du 1 décembre 1983](decret-n83-1031-du-1-decembre-1983)
 - [Décret n°83-267 du 1 avril 1983](decret-n83-267-du-1-avril-1983)
 - [Décret n°83-272 du 1 avril 1983](decret-n83-272-du-1-avril-1983)
 - [Décret n°83-566 du 1 juillet 1983](decret-n83-566-du-1-juillet-1983)
@@ -25,6 +26,7 @@
 - [Décret n°83-359 du 2 mai 1983](decret-n83-359-du-2-mai-1983)
 - [Décret n°83-367 du 2 mai 1983](decret-n83-367-du-2-mai-1983)
 - [Décret n°83-382 du 2 mai 1983](decret-n83-382-du-2-mai-1983)
+- [Décret n°83-1033 du 3 décembre 1983](decret-n83-1033-du-3-decembre-1983)
 - [Décret n°83-159 du 3 mars 1983](decret-n83-159-du-3-mars-1983)
 - [Décret n°83-173 du 3 mars 1983](decret-n83-173-du-3-mars-1983)
 - [Décret n°83-888 du 3 octobre 1983](decret-n83-888-du-3-octobre-1983)
