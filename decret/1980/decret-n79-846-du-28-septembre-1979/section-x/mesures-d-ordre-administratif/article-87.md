@@ -1,0 +1,3 @@
+# Article 87
+
+Les chefs d'établissement doivent tenir un dossier de sécurité à la disposition de l'inspection du travail, de l'inspection technique de l'armement pour les poudres et explosifs, du médecin inspecteur du travail et de la main-d"oeuvre, du service de prévention de la caisse régionale de l'assurance maladie, du comité d'hygiène et de sécurité ou, à défaut, des délégués du personnel et, le cas échéant, des délégués ouvriers à la sécurité. Ces personnes sont astreintes au secret, en ce qui concerne les procédés de fabrication, dans les conditions prévues par les textes en vigueur et ne peuvent faire usage des renseignements mis à leur disposition que pour l'exercice de leurs fonctions.

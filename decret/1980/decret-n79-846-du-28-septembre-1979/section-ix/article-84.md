@@ -1,0 +1,5 @@
+# Article 84
+
+- La formation pratique en matière de sécurité prévue par l'article L. 231-3-1, premier alinéa, du code du travail doit comprendre l'explication détaillée des consignes et instructions établies en application des articles 4 et 5 du présent décret.
+
+En application de l'article L. 231-3-1, quatrième alinéa, elle doit être complétée par une formation permanente du personnel affecté aux opérations pyrotechniques, y compris des agents visés à l'article 81. Cette formation est effectuée pendant l'horaire normal de travail. Elle dépend des fonctions et de la compétence de chaque salarié et vise à maintenir et à perfectionner les connaissances des intéressés dans le domaine des risques pyrotechniques et de leur prévention. En particulier, le chef d'établissement organise des séances de formation à l'intention des salariés. Chaque salarié est appelé à participer au moins une fois par trimestre à l'une de ces séances au cours de laquelle les instructions et consignes susceptibles de le concerner sont rappelées et commentées et les suggestions concernant l'amélioration de la sécurité examinées.
