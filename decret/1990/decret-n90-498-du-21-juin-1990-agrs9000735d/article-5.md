@@ -1,6 +1,6 @@
 # Article 5
 
-Lorsque la durée d'assujettissement d'un chef d'exploitation ou d'entreprise agricole ne permet pas de calculer la moyenne des revenus professionnels se rapportant aux trois années de référence prévues au II de l'article 1003-12 du code rural, l'assiette des cotisations est déterminée forfaitairement dans les conditions suivantes :
+Sous réserve des dispositions de l'article 6 bis, lorsque la durée d'assujettissement d'un chef d'exploitation ou d'entreprise agricole ne permet pas de calculer la moyenne des revenus professionnels se rapportant aux trois années de référence prévues au II de l'article 1003-12 du code rural, l'assiette des cotisations est déterminée forfaitairement dans les conditions suivantes :
 
 a) Pour les cotisations dues au titre de chacune des deux années suivant celle au cours de laquelle a eu lieu l'assujettissement, l'assiette forfaitaire est fixée conformément aux dispositions de l'article 6 ;
 

@@ -1,9 +1,11 @@
 # Article 4 bis
 
-Pour les chefs d'exploitation ou d'entreprise ayant demandé le bénéfice de l'option prévue au VI de l'article 1003-12 du code rural, l'assiette des cotisations est constituée par les revenus professionnels afférents à l'année précédente à compter de la première année civile suivant la décision d'option et jusqu'à la date de liquidation de leur retraite.
+I. - Pour les chefs d'exploitation ou d'entreprise ayant demandé le bénéfice de l'option prévue au VI de l'article 1003-12 du code rural, la demande d'option doit être déposée, auprès de la caisse de mutualité sociale agricole dont ils relèvent, au plus tard le 31 mars pour prendre effet au 1er janvier de l'année suivante.
 
-Toutefois, pour l'année 1992, la demande d'option prend effet au 1er janvier 1992.
+L'option est formulée au moyen d'un imprimé dont le modèle est arrêté par le ministre de l'agriculture et du développement rural.
 
-II. - L'option doit être formulée au moyen d'un imprimé dont le modèle est arrêté par le ministre de l'agriculture et de la forêt. Cet imprimé, dûment rempli, doit être retourné à la caisse de mutualité sociale agricole avant le 1er octobre pour prendre effet au 1er janvier de l'année suivante.
+II. - L'option est souscrite pour cinq années civiles. Elle est reconduite tacitement par période d'un an, sauf en cas de dénonciation. La dénonciation doit parvenir à la caisse de mutualité sociale agricole avant le 31 mars de l'année qui précède l'expiration soit de la période de cinq années, soit de la période d'une année visée ci-dessus, pour prendre effet au 1er janvier de l'année suivante.
 
-Toutefois, à titre dérogatoire pour l'année 1992, les demandes présentées par les chefs d'exploitation ou d'entreprise concernées sont recevables jusqu'au 30 septembre 1992.
+La dénonciation est formulée au moyen d'un imprimé dont le modèle est arrêté par le ministre de l'agriculture et du développement rural.
+
+III. - Le chef d'exploitation ou d'entreprise ayant renoncé au bénéfice de l'option dans les conditions fixées au II du présent article ne peut exercer à nouveau l'option prévue au VI de l'article 1003-12 du code rural qu'une seule fois, à l'issue d'une période minimale de huit années à compter de la prise d'effet de la dénonciation.
