@@ -95,6 +95,7 @@
 - [Décret n°87-506 du 8 juillet 1987 (RESK8700342D)](decret-n87-506-du-8-juillet-1987-resk8700342d)
 - [Décret n°87-528 du 8 juillet 1987 (ASES8700983D)](decret-n87-528-du-8-juillet-1987-ases8700983d)
 - [Décret n°87-743 du 8 septembre 1987](decret-n87-743-du-8-septembre-1987)
+- [Décret n°87-749 du 8 septembre 1987 (ASEF8703625D)](decret-n87-749-du-8-septembre-1987-asef8703625d)
 - [Décret n°87-8 du 8 janvier 1987](decret-n87-8-du-8-janvier-1987)
 - [Décret n°87-823 du 8 octobre 1987 (MENF8700521D)](decret-n87-823-du-8-octobre-1987-menf8700521d)
 - [Décret n°87-158 du 9 mars 1987](decret-n87-158-du-9-mars-1987)

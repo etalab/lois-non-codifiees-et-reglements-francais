@@ -1,0 +1,3 @@
+# Article 2
+
+Le montant de l'indemnité forfaitaire prévue à l'article 1er ci-dessus, variable en raison du supplément de travail fourni par le bénéficiaire et de l'importance de ses sujétions, est fixé dans la limite d'un crédit calculé par application de taux moyens fixés par arrêté conjoint du ministre des affaires sociales et de l'emploi, du ministre délégué auprès du Premier ministre, chargé de la fonction publique et du Plan, et du ministre délégué auprès du ministre de l'économie, des finances et de la privatisation, chargé du budget, sans pouvoir excéder le double du taux moyen qui lui est applicable. Cette indemnité est exclusive de toutes autres indemnités accessoires allouées au titre des mêmes fonctions.
