@@ -1,10 +1,9 @@
 # Article 1
 
-Le taux et le mode de calcul de la cotisation des assurances sociales due au titre de l'emploi des salariés bénéficiaires d'un régime spécial de sécurité sociale visé à l'article 61 ou à l'article 65 du décret n° 46-1378 du 8 juin 1946 modifié et placés sous le régime général pour la couverture de certains risques sont fixés conformément aux indications du tableau ci-dessous.
+Le taux et le mode de calcul de la cotisation des  assurances sociales due au titre de l'emploi des salariés bénéficiaires  d'un régime spécial de sécurité sociale visé à l'article 61 ou à  l'article 65 du décret n° 46-1378 du 8 juin 1946 modifié et placés sous  le régime général pour la couverture de certains risques sont fixés  conformément aux indications du tableau ci-dessous.
 
 Assurés partiels.
 
-<div>
 <table>
 <tbody>
 <tr>
@@ -101,8 +100,8 @@ Assurés partiels.
 <td align="center"> 0,10 <br/>
 </td>
 <td align="center">    8,20</td>
-<td align="center"> 5,70</td>
-<td align="center"> 13,90</td>
+<td align="center"> 6,40</td>
+<td align="center"> 14,60</td>
 </tr>
 <tr>
 <td align="center">     Invalidité</td>
@@ -120,4 +119,3 @@ Assurés partiels.
 </tr>
 </tbody>
 </table>
-</div>
