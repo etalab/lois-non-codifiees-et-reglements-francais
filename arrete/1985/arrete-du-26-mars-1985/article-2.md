@@ -68,7 +68,7 @@ Pour les maisons individuelles, bénéficiant d'annexes d'au moins vingt-cinq m�
 
 2.2. Cotation de la qualité.
 
-" 2.2.1. En ce qui concerne l'installation de plomberie et l'équipement sanitaire, l'installation électrique, la protection contre les bruits, le confort thermique d'été, l'enveloppe extérieure, la performance énergétique et l'accessibilité, l'appréciation de la qualité est faite selon la méthode Qualitel définie dans le guide Qualitel (édition du 1er janvier 1989). En ce qui concerne l'enveloppe extérieure, l'appréciation de la qualité est complétée à l'aide des tables d'investissements établies par le Centre scientifique et technique du bâtiment et publiées par l'association Qualitel applicables à la même date.
+" 2.2.1. En ce qui concerne l'installation de plomberie et l'équipement sanitaire, l'installation électrique, la protection contre les bruits, le confort thermique d'été, l'enveloppe extérieure, la performance énergétique et l'accessibilité, l'appréciation de la qualité est faite selon la méthode Qualitel définie dans le guide Qualitel (édition du 1er janvier 1989). En ce qui concerne l'enveloppe extérieure, l'appréciation de la qualité est complétée à l'aide des tables d'investissements établies par le Centre scientifique et technique du bâtiment et publiées et mises à jour par l'association Qualitel applicables à la même date.
 
 " Ces prestations et celles relatives à la présence de conduits de fumée donnent lieu à une modulation du prix de référence par l'intermédiaire des coefficients de pondération d1 et d2 définis en annexe VII du présent arrêté.
 

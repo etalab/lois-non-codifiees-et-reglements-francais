@@ -10,7 +10,7 @@ Cv et Tv représentent respectivement la somme, pour l'opération, des prix cv e
 
 VALEURS DE Cv ET DE Tv
 
-Jusqu'au 30 juin 1992
+Jusqu'au 30 juin 1993
 
 <table>
 <tr>
@@ -35,34 +35,34 @@ Jusqu'au 30 juin 1992
 <td> :----------:-------------------:</td>
 </tr>
 <tr>
-<td> : I        :  72.370 :  33.270 :</td>
+<td> : I        :  74.395 :  34.200 :</td>
 </tr>
 <tr>
-<td> : I bis    : 124.675 :  57.255 :</td>
+<td> : I bis    : 128.170 :  58.860 :</td>
 </tr>
 <tr>
-<td> : II       : 164.250 :  75.460 :</td>
+<td> : II       : 168.845 :  77.575 :</td>
 </tr>
 <tr>
-<td> : III      : 206.470 :  94.880 :</td>
+<td> : III      : 212.250 :  97.535 :</td>
 </tr>
 <tr>
-<td> : IV       : 245.470 : 112.815 :</td>
+<td> : IV       : 252.345 : 115.970 :</td>
 </tr>
 <tr>
-<td> : V        : 287.700 : 132.195 :</td>
+<td> : V        : 295.760 : 135.895 :</td>
 </tr>
 <tr>
-<td> : VI       : 320.235 : 147.115 :</td>
+<td> : VI       : 329.205 : 151.235 :</td>
 </tr>
 <tr>
-<td> : VII      : 365.715 : 168.035 :</td>
+<td> : VII      : 375.955 : 172.740 :</td>
 </tr>
 <tr>
 <td> : Pièce    :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.   :  38.955 :  17.890 :</td>
+<td> : suppl.   :  40.045 :  18.395 :</td>
 </tr>
 <tr>
 <td> :------------------------------:</td>
@@ -95,37 +95,37 @@ Jusqu'au 30 juin 1992
 <td> : I        :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : I bis    : 137.165 :  80.190 :</td>
+<td> : I bis    : 141.005 :  82.440 :</td>
 </tr>
 <tr>
-<td> : II       : 180.625 : 105.665 :</td>
+<td> : II       : 185.685 : 108.625 :</td>
 </tr>
 <tr>
-<td> : III      : 227.125 : 132.810 :</td>
+<td> : III      : 233.485 : 136.525 :</td>
 </tr>
 <tr>
-<td> : IV       : 270.010 : 157.930 :</td>
+<td> : IV       : 277.565 : 162.350 :</td>
 </tr>
 <tr>
-<td> : V        : 316.485 : 185.080 :</td>
+<td> : V        : 325.245 : 190.260 :</td>
 </tr>
 <tr>
-<td> : VI       : 352.260 : 206.040 :</td>
+<td> : VI       : 362.120 : 211.810 :</td>
 </tr>
 <tr>
-<td> : VII      : 402.265 : 235.265 :</td>
+<td> : VII      : 413.530 : 241.850 :</td>
 </tr>
 <tr>
 <td> : Pièce    :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.   :  42.815 :  25.040 :</td>
+<td> : suppl.   :  44.015 :  25.740 :</td>
 </tr>
 <tr>
 <td> :------------------------------:</td>
 </tr>
 <tr>
-<td>    A partir du 1er juillet 1992</td>
+<td>    A partir du 1er juillet 1993</td>
 </tr>
 <tr>
 <td> :------------------------------:</td>
@@ -149,34 +149,34 @@ Jusqu'au 30 juin 1992
 <td> :----------:-------------------:</td>
 </tr>
 <tr>
-<td> : I        :  73.370 :  33.730 :</td>
+<td> : I        :  75.425 :  36.675 :</td>
 </tr>
 <tr>
-<td> : I bis    : 126.405 :  58.045 :</td>
+<td> : I bis    : 129.940 :  59.670 :</td>
 </tr>
 <tr>
-<td> : II       : 166.515 :  76.505 :</td>
+<td> : II       : 171.175 :  78.645 :</td>
 </tr>
 <tr>
-<td> : III      : 209.320 :  96.190 :</td>
+<td> : III      : 215.180 :  98.885 :</td>
 </tr>
 <tr>
-<td> : IV       : 248.860 : 114.370 :</td>
+<td> : IV       : 255.830 : 117.570 :</td>
 </tr>
 <tr>
-<td> : V        : 291.675 : 134.020 :</td>
+<td> : V        : 299.840 : 137.775 :</td>
 </tr>
 <tr>
-<td> : VI       : 324.660 : 149.145 :</td>
+<td> : VI       : 333.750 : 153.320 :</td>
 </tr>
 <tr>
-<td> : VII      : 370.765 : 170.355 :</td>
+<td> : VII      : 381.145 : 175.725 :</td>
 </tr>
 <tr>
 <td> : Pièce    :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.   :  39.490 :  18.140 :</td>
+<td> : suppl.   :  40.595 :  18.650 :</td>
 </tr>
 <tr>
 <td> :------------------------------:</td>
@@ -209,31 +209,31 @@ Jusqu'au 30 juin 1992
 <td> : I        :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : I bis    : 139.400 :  81.300 :</td>
+<td> : I bis    : 142.955 :  83.575 :</td>
 </tr>
 <tr>
-<td> : II       : 183.120 : 107.125 :</td>
+<td> : II       : 188.245 : 110.125 :</td>
 </tr>
 <tr>
-<td> : III      : 230.260 : 134.640 :</td>
+<td> : III      : 236.705 : 138.410 :</td>
 </tr>
 <tr>
-<td> : IV       : 273.735 : 160.110 :</td>
+<td> : IV       : 281.400 : 164.595 :</td>
 </tr>
 <tr>
-<td> : V        : 320.855 : 187.635 :</td>
+<td> : V        : 329.840 : 192.890 :</td>
 </tr>
 <tr>
-<td> : VI       : 357.120 : 208.885 :</td>
+<td> : VI       : 367.120 : 214.735 :</td>
 </tr>
 <tr>
-<td> : VII      : 407.820 : 238.510 :</td>
+<td> : VII      : 419.240 : 245.190 :</td>
 </tr>
 <tr>
 <td> : Pièce    :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.   :  43.405 :  25.385 :</td>
+<td> : suppl.   :  44.620 :  26.095 :</td>
 </tr>
 <tr>
 <td> :------------------------------:</td>
@@ -265,20 +265,20 @@ Valeur des garages enterrés ou incorporés.
 <td> :----------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I        :  48.275 :  48.945 :</td>
+<td> : I        :  49.630 :  50.315 :</td>
 </tr>
 <tr>
-<td> : II       :  44.100 :  44.710 :</td>
+<td> : II       :  45.335 :  45.960 :</td>
 </tr>
 <tr>
-<td> : III      :  41.795 :  42.375 :</td>
+<td> : III      :  42.970 :  43.560 :</td>
 </tr>
 <tr>
 <td> :------------------------------:</td>
 </tr>
 </table>
 
-(1) Jusqu'au 30 juin 1992 (en francs) (2) A partir du 1er juillet 1992 (en francs).   Valeur des garages construits en superstructure.
+(1) Jusqu'au 30 juin 1993 (en francs) (2) A partir du 1er juillet 1993 (en francs).   Valeur des garages construits en superstructure.
 
 <table>
 <tr>
@@ -297,20 +297,20 @@ Valeur des garages enterrés ou incorporés.
 <td> :----------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I        :  34.030 :  34.500 :</td>
+<td> : I        :  34.985 :  35.465 :</td>
 </tr>
 <tr>
-<td> : II       :  30.940 :  31.370 :</td>
+<td> : II       :  31.810 :  32.250 :</td>
 </tr>
 <tr>
-<td> : III      :  29.410 :  29.815 :</td>
+<td> : III      :  30.230 :  30.650 :</td>
 </tr>
 <tr>
 <td> :------------------------------:</td>
 </tr>
 </table>
 
-(1) Jusqu'au 30 juin 1992 (en francs) (2) A partir du 1er juillet 1992 (en francs).   n1 est le nombre d'emplacements individuels de stationnement dans un garage collectif enterré ou incorporé à un bâtiment d'habitation ;
+(1) Jusqu'au 30 juin 1993 (en francs) (2) A partir du 1er juillet 1993 (en francs).   n1 est le nombre d'emplacements individuels de stationnement dans un garage collectif enterré ou incorporé à un bâtiment d'habitation ;
 
 n2 est le nombre d'emplacements individuels de stationnement dans un garage collectif construit en superstructure, séparé ou accolé au bâtiment d'habitation.
 

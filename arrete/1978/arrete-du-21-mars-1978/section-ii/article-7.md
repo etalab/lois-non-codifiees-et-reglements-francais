@@ -2,7 +2,7 @@
 
 Le prix de référence bâtiment et honoraires (B) est fixé par application de la formule suivante :
 
-B = Bo (1 + a + b + c + d + e) - bo (Sm - S)
+B = Bo (1 + a2 + b + c + d + e) - bo (Sm - S)
 
 dans laquelle
 
@@ -40,7 +40,7 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :    TYPES      :  JUSQU'AU   :</td>
 </tr>
 <tr>
-<td> : DE LOGEMENTS  :  30/06/92   :</td>
+<td> : DE LOGEMENTS  :  30/06/93   :</td>
 </tr>
 <tr>
 <td> :               : (en francs) :</td>
@@ -49,31 +49,31 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :---------------:-------------:</td>
 </tr>
 <tr>
-<td> :  I            :   184 855   :</td>
+<td> :  I            :   190 035   :</td>
 </tr>
 <tr>
-<td> :  I'           :   184 855   :</td>
+<td> :  I'           :   190 035   :</td>
 </tr>
 <tr>
-<td> :  I bis        :   226 690   :</td>
+<td> :  I bis        :   233 035   :</td>
 </tr>
 <tr>
-<td> :  II           :   261 580   :</td>
+<td> :  II           :   268 910   :</td>
 </tr>
 <tr>
-<td> :  III          :   343 040   :</td>
+<td> :  III          :   352 650   :</td>
 </tr>
 <tr>
-<td> :  IV           :   429 025   :</td>
+<td> :  IV           :   441 035   :</td>
 </tr>
 <tr>
-<td> :  V            :   516 310   :</td>
+<td> :  V            :   530 765   :</td>
 </tr>
 <tr>
-<td> :  VI           :   603 630   :</td>
+<td> :  VI           :   620 535   :</td>
 </tr>
 <tr>
-<td> :  VII          :   690 995   :</td>
+<td> :  VII          :   710 340   :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -88,7 +88,7 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :    TYPES      : A PARTIR DU :</td>
 </tr>
 <tr>
-<td> : DE LOGEMENTS  :  01/07/92   :</td>
+<td> : DE LOGEMENTS  :  01/07/93   :</td>
 </tr>
 <tr>
 <td> :               : (en francs) :</td>
@@ -97,28 +97,28 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :---------------:-------------:</td>
 </tr>
 <tr>
-<td> :  I et I'      :   187 410   :</td>
+<td> :  I et I'      :   192 655   :</td>
 </tr>
 <tr>
-<td> :  I bis        :   229 820   :</td>
+<td> :  I bis        :   192 655   :</td>
 </tr>
 <tr>
-<td> :  II           :   265 195   :</td>
+<td> :  II           :   236 255   :</td>
 </tr>
 <tr>
-<td> :  III          :   347 780   :</td>
+<td> :  III          :   357 520   :</td>
 </tr>
 <tr>
-<td> :  IV           :   434 945   :</td>
+<td> :  IV           :   447 125   :</td>
 </tr>
 <tr>
-<td> :  V            :   523 435   :</td>
+<td> :  V            :   538 090   :</td>
 </tr>
 <tr>
-<td> :  VI           :   611 965   :</td>
+<td> :  VI           :   629 100   :</td>
 </tr>
 <tr>
-<td> :  VII          :   700 535  :</td>
+<td> :  VII          :   720 150  :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -137,7 +137,7 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :    TYPES      :  JUSQU'AU   :</td>
 </tr>
 <tr>
-<td> : DE LOGEMENTS  :  30/06/92   :</td>
+<td> : DE LOGEMENTS  :  30/06/93   :</td>
 </tr>
 <tr>
 <td> :               : (en francs) :</td>
@@ -146,28 +146,28 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :---------------:-------------:</td>
 </tr>
 <tr>
-<td> :  I            :   113 340   :</td>
+<td> :  I            :   116 515   :</td>
 </tr>
 <tr>
-<td> :  I bis        :   184 325   :</td>
+<td> :  I bis        :   189 485   :</td>
 </tr>
 <tr>
-<td> :  II           :   237 565   :</td>
+<td> :  II           :   244 215   :</td>
 </tr>
 <tr>
-<td> :  III          :   282 560   :</td>
+<td> :  III          :   290 470   :</td>
 </tr>
 <tr>
-<td> :  IV           :   325 035   :</td>
+<td> :  IV           :   334 135   :</td>
 </tr>
 <tr>
-<td> :  V            :   375 785   :</td>
+<td> :  V            :   386 305   :</td>
 </tr>
 <tr>
-<td> :  VI           :   413 215   :</td>
+<td> :  VI           :   424 785   :</td>
 </tr>
 <tr>
-<td> :  VII          :   463 970   :</td>
+<td> :  VII          :   476 960   :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -182,7 +182,7 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :    TYPES      : A PARTIR DU :</td>
 </tr>
 <tr>
-<td> : DE LOGEMENTS  :  01/07/92   :</td>
+<td> : DE LOGEMENTS  :  01/07/93   :</td>
 </tr>
 <tr>
 <td> :               : (en francs) :</td>
@@ -191,28 +191,28 @@ Bo Immeubles collectifs et maisons individuelles.
 <td> :---------------:-------------:</td>
 </tr>
 <tr>
-<td> :  I            :   114 905   :</td>
+<td> :  I            :   118 120   :</td>
 </tr>
 <tr>
-<td> :  I bis        :   186 870   :</td>
+<td> :  I bis        :   192 100   :</td>
 </tr>
 <tr>
-<td> :  II           :   240 845   :</td>
+<td> :  II           :   247 590   :</td>
 </tr>
 <tr>
-<td> :  III          :   286 460   :</td>
+<td> :  III          :   294 480   :</td>
 </tr>
 <tr>
-<td> :  IV           :   329 520   :</td>
+<td> :  IV           :   338 745   :</td>
 </tr>
 <tr>
-<td> :  V            :   380 970   :</td>
+<td> :  V            :   391 635   :</td>
 </tr>
 <tr>
-<td> :  VI           :   418 920   :</td>
+<td> :  VI           :   430 650   :</td>
 </tr>
 <tr>
-<td> :  VII          :   470 375   :</td>
+<td> :  VII          :   483 545   :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -223,17 +223,17 @@ Bo Immeubles collectifs et maisons individuelles.
 
 VALEURS DE bo
 
-- Jusqu'au 30 juin 1992
+- Jusqu'au 30 juin 1993
 
-IMMEUBLES collectifs (en francs) : 3.415
+IMMEUBLES collectifs (en francs) : 3.515
 
-MAISONS individuelles (en francs) : 3.600
+MAISONS individuelles (en francs) : 3.700
 
-A partir du 1er juillet 1992
+A partir du 1er juillet 1993
 
-IMMEUBLES collectifs (en francs) : 3.465
+IMMEUBLES collectifs (en francs) : 3.560
 
-MAISONS individuelles (en francs) : 3.650.
+MAISONS individuelles (en francs) : 3.750.
 
 7.2. Coefficients de pondération du prix de référence de base Bâtiment et honoraires
 
@@ -272,20 +272,20 @@ VALEURS DES GARAGES
 <td> :---------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  43.565 :  44.170 :</td>
+<td> : I       :  44.790 :  45.405 :</td>
 </tr>
 <tr>
-<td> : II      :  39.795 :  40.345 :</td>
+<td> : II      :  40.910 :  41.475 :</td>
 </tr>
 <tr>
-<td> : III     :  37.705 :  38.225 :</td>
+<td> : III     :  38.760 :  39.295 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 </table>
 
-(1) Jusqu'au 30 juin 1992 (en francs) (2) A partir du 1er juillet 1992 (en francs).   Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
+(1) Jusqu'au 30 juin 1993 (en francs) (2) A partir du 1er juillet 1993 (en francs).   Par emplacement individuel de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
 
 <table>
 <tr>
@@ -304,20 +304,20 @@ VALEURS DES GARAGES
 <td> :---------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  30.705 :  31.130 :</td>
+<td> : I       :  31.565 :  32.000 :</td>
 </tr>
 <tr>
-<td> : II      :  27.915 :  28.300 :</td>
+<td> : II      :  28.695 :  29.090 :</td>
 </tr>
 <tr>
-<td> : III     :  26.535 :  26.905 :</td>
+<td> : III     :  27.280 :  27.660 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 </table>
 
-(1) Jusqu'au 30 juin 1992 (en francs) (2) A partir du 1er juillet 1992 (en francs).   Le nombre d'emplacements de stationnement à prendre en compte est au plus égal au nombre total pondéré des logements.
+(1) Jusqu'au 30 juin 1993 (en francs) (2) A partir du 1er juillet 1993 (en francs).   Le nombre d'emplacements de stationnement à prendre en compte est au plus égal au nombre total pondéré des logements.
 
 La pondération s'effectuera par application des coefficients suivants appliqués aux différents types des logements :
 

@@ -115,17 +115,17 @@ La charge foncière de référence de base unitaire, Co, toutes taxes comprises,
 
 VALEURS DE Co
 
-- Jusqu'au 30 juin 1992
+- Jusqu'au 30 juin 1993
 
-IMMEUBLES collectifs : 555 francs
+IMMEUBLES collectifs : 570 francs
 
-MAISONS individuelles : 825 francs
+MAISONS individuelles : 850 francs
 
-- A partir du 1er juillet 1992
+- A partir du 1er juillet 1993
 
-IMMEUBLES collectifs : 560 francs
+IMMEUBLES collectifs : 575 francs
 
-MAISONS individuelles : 840 francs
+MAISONS individuelles : 865 francs
 
 6.2. Coefficients de pondération de la charge foncière de référence de base
 
