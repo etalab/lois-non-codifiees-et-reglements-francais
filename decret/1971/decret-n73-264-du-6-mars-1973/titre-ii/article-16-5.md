@@ -1,0 +1,3 @@
+# Article 16-5
+
+Les fonctionnaires appartenant à un corps des catégories C ou D ou de même niveau lors de leur admission en qualité d'élève ingénieur au titre du recrutement prévu à l'article 7 (1°) sont classés à un échelon déterminé en appliquant à la date de leur nomination en qualité d'ingénieur stagiaire des travaux géographiques et cartographiques de l'Etat les modalités fixées à l'article 16-4 ci-dessus à la fraction de l'ancienneté qui aurait été prise en compte en application du II et du III de l'article 3 du décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de la catégorie B pour leur classement dans l'un des corps régis par ce même décret.
