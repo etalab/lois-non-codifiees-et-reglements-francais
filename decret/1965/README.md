@@ -21,6 +21,7 @@
 - [Décret n°65-382 du 21 mai 1965](decret-n65-382-du-21-mai-1965)
 - [Décret n°65-60 du 22 janvier 1965](decret-n65-60-du-22-janvier-1965)
 - [Décret n°65-75 du 22 janvier 1965](decret-n65-75-du-22-janvier-1965)
+- [Décret du 23 avril 1965](decret-du-23-avril-1965)
 - [Décret n°65-240 du 25 mars 1965](decret-n65-240-du-25-mars-1965)
 - [Décret n°65-224 du 26 mars 1965](decret-n65-224-du-26-mars-1965)
 - [Décret n°65-73 du 27 janvier 1965](decret-n65-73-du-27-janvier-1965)
