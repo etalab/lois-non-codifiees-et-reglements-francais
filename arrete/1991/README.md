@@ -948,7 +948,6 @@
 - [Arrêté du 28 octobre 1991 (RESZ9100487A)](arrete-du-28-octobre-1991-resz9100487a)
 - [Arrêté du 28 octobre 1991 (SANH9102455A)](arrete-du-28-octobre-1991-sanh9102455a)
 - [Arrêté du 28 octobre 1991 (SPSH9102454A)](arrete-du-28-octobre-1991-spsh9102454a)
-- [Arrêté du 28 octobre 1991 (SPSS9102374A)](arrete-du-28-octobre-1991-spss9102374a)
 - [Arrêté du 28 mai 1991 (JUSC9120301A)](arrete-du-28-mai-1991-jusc9120301a)
 - [Arrêté du 29 août 1991 (DEFA9101917A)](arrete-du-29-aout-1991-defa9101917a)
 - [Arrêté du 29 août 1991 (DEFA9101924A)](arrete-du-29-aout-1991-defa9101924a)
