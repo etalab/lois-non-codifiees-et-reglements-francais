@@ -1,0 +1,3 @@
+# PARAGRAPHE 4 : MODALITES D'ATTRIBUTION DES SIEGES.
+
+- [Article 50](article-50.md)
