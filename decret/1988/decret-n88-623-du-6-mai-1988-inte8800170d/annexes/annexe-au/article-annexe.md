@@ -58,9 +58,9 @@ Catégorie C
 
 Colonel : -
 
-Lieutenant-Colonel : -
+Lieutenant-Colonel : 1
 
-Commandant : 2
+Commandant : 1
 
 Capitaine et Lieutenant : 8
 

@@ -114,7 +114,7 @@ Maximale : 1 an 9 mois.
 
 Minimale : 1 an 3 mois.
 
-LIEUTENANT de 1ème CLASSE :
+LIEUTENANT de 2ème CLASSE :
 
 GRADES ET ECHELONS : 10ème échelon.
 
@@ -196,9 +196,9 @@ INDICES bruts : 341.
 
 DUREES
 
-Maximale : 1 an  6 mois.
+Maximale : 1 an .
 
-Minimale : 1 an 6 mois.
+Minimale : 1 an .
 
 GRADES ET ECHELONS : 1er échelon.
 
@@ -206,6 +206,6 @@ INDICES bruts : 322.
 
 DUREES
 
-Maximale : 1 an.
+Maximale : 1 an 6 mois.
 
-Minimale : 1 an.
+Minimale : 1 an 6 mois.

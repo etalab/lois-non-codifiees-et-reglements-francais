@@ -130,7 +130,7 @@ Maximale : 1 an 9 mois.
 
 Minimale : 1 an 3 mois.
 
-LIEUTENANT :
+SOUS-LIEUTENANT et LIEUTENANT :
 
 GRADES ET ECHELONS : 12ème échelon.
 
@@ -168,7 +168,7 @@ Minimale : 2 ans 3 mois.
 
 GRADES ET ECHELONS : 8ème échelon.
 
-INDICES bruts : 377.
+INDICES bruts : 379.
 
 DUREES
 
@@ -178,7 +178,7 @@ Minimale : 2 ans 3 mois.
 
 GRADES ET ECHELONS : 7ème échelon.
 
-INDICES bruts : 360.
+INDICES bruts : 366.
 
 DUREES
 
@@ -188,7 +188,7 @@ Minimale : 2 ans 3 mois.
 
 GRADES ET ECHELONS : 6ème échelon.
 
-INDICES bruts : 342.
+INDICES bruts : 347.
 
 DUREES
 
@@ -198,7 +198,7 @@ Minimale : 1 an 6 mois.
 
 GRADES ET ECHELONS : 5ème échelon.
 
-INDICES bruts : 328.
+INDICES bruts : 333.
 
 DUREES
 
@@ -208,7 +208,7 @@ Minimale : 1 an 6 mois.
 
 GRADES ET ECHELONS : 4ème échelon.
 
-INDICES bruts : 315.
+INDICES bruts : 321.
 
 DUREES
 
@@ -218,7 +218,7 @@ Minimale : 1 an 6 mois.
 
 GRADES ET ECHELONS : 3ème échelon.
 
-INDICES bruts : 301.
+INDICES bruts : 306.
 
 DUREES
 
@@ -228,7 +228,7 @@ Minimale : 1 an 6 mois.
 
 GRADES ET ECHELONS : 2ème échelon.
 
-INDICES bruts : 289.
+INDICES bruts : 294.
 
 DUREES
 
@@ -238,7 +238,7 @@ Minimale : 1 an 6 mois.
 
 GRADES ET ECHELONS : 1er échelon.
 
-INDICES bruts : 274.
+INDICES bruts : 280.
 
 DUREES
 

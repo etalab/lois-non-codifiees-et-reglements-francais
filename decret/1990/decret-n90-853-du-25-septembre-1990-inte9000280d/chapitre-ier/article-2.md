@@ -5,3 +5,5 @@ Les capitaines, commandants, lieutenants-colonels et colonels de sapeurs-pompier
 Ils sont chargés de l'encadrement et du commandement des sapeurs-pompiers non officiers, des lieutenants de sapeurs-pompiers et des autres personnels placés sous leur autorité. En outre, ils participent à la prévention des risques de toute nature, à la protection des personnes, des biens et de l'environnement contre les accidents, sinistres et catastrophes, ainsi qu'aux activités de formation et à la gestion des services d'incendie et de secours dans lesquels ils sont affectés.
 
 Les commandants, lieutenants-colonels et colonels de sapeurs-pompiers professionnels peuvent être chargés des fonctions de directeur départemental des services d'incendie et de secours dans les conditions fixées par un arrêté du ministre chargé de la sécurité civile.
+
+" Les services effectués en qualité de directeur départemental des services d'incendie et de secours sont pris en compte pour l'application des articles 18 et 19. "
