@@ -956,7 +956,6 @@
 - [Arrêté du 24 décembre 1991 (INDB9101062A)](arrete-du-24-decembre-1991-indb9101062a)
 - [Arrêté du 24 décembre 1991 (MENZ9103001A)](arrete-du-24-decembre-1991-menz9103001a)
 - [Arrêté du 24 décembre 1991 (MENZ9103002A)](arrete-du-24-decembre-1991-menz9103002a)
-- [Arrêté du 24 décembre 1991 (MERE9100240A)](arrete-du-24-decembre-1991-mere9100240a)
 - [Arrêté du 24 décembre 1991 (SPSH9102869A)](arrete-du-24-decembre-1991-spsh9102869a)
 - [Arrêté du 24 décembre 1991 (SPSS9102809A)](arrete-du-24-decembre-1991-spss9102809a)
 - [Arrêté du 24 décembre 1991 (SPSS9102810A)](arrete-du-24-decembre-1991-spss9102810a)
