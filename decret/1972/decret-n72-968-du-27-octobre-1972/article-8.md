@@ -1,6 +1,6 @@
 # Article 8
 
-Les années d'activité non-salariée visées à l'article 7 ci-dessus pourront être prises en compte, pour le calcul des prestations supplémentaires de vieillesse, moyennant rachat à la charge exclusive des intéressés, dans les conditions fixées par les statuts de la caisse autonome de retraite des médecins français et dans la limite de [*condition*] :
+Les années d'activité non-salariée accomplies entre le 1er juillet 1946 et le 1er juillet 1972 dans le cadre des conventions ou adhésions personnelles prévues par les textes législatifs ou réglementaires en vigueur pourront être prises en compte, pour le calcul des prestations supplémentaires de vieillesse, moyennant rachat à la charge exclusive des intéressés, dans les conditions fixées par les statuts de la caisse autonome de retraite des médecins français et dans la limite de :
 
 Dix ans si les intéressés étaient âgés d'au moins soixante ans au 1er janvier 1973 ;
 
