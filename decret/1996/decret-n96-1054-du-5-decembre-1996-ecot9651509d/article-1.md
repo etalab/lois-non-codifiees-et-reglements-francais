@@ -277,3 +277,15 @@ NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillanc
 REPARTITION PAR MINISTERE
 
 Transports (x 2).
+
+NOM DE LA SOCIETE
+
+EDF International
+
+NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
+
+1
+
+REPARTITION PAR MINISTERE
+
+Economie.
