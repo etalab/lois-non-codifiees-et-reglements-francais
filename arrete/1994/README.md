@@ -982,7 +982,6 @@
 - [Arrêté du 25 octobre 1994 (INTB9400489A)](arrete-du-25-octobre-1994-intb9400489a)
 - [Arrêté du 25 octobre 1994 (INTB9400490A)](arrete-du-25-octobre-1994-intb9400490a)
 - [Arrêté du 25 octobre 1994 (SPSH9403343A)](arrete-du-25-octobre-1994-spsh9403343a)
-- [Arrêté du 25 mai 1994 (INDP9400597A)](arrete-du-25-mai-1994-indp9400597a)
 - [Arrêté du 25 mai 1994 (JUSC9420506A)](arrete-du-25-mai-1994-jusc9420506a)
 - [Arrêté du 25 mai 1994 (MAEF9410023A)](arrete-du-25-mai-1994-maef9410023a)
 - [Arrêté du 26 août 1994 (AGRG9401681A)](arrete-du-26-aout-1994-agrg9401681a)

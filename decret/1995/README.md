@@ -686,7 +686,6 @@
 - [Décret n°95-919 du 16 août 1995 (INTA9500239D)](decret-n95-919-du-16-aout-1995-inta9500239d)
 - [Décret n°95-920 du 16 août 1995 (INTA9500240D)](decret-n95-920-du-16-aout-1995-inta9500240d)
 - [Décret n°95-921 du 16 août 1995 (TEFE9500829D)](decret-n95-921-du-16-aout-1995-tefe9500829d)
-- [Décret n°86-1041 du 17 septembre 1986](decret-n86-1041-du-17-septembre-1986)
 - [Décret n°95-1110 du 17 octobre 1995 (JUSC9520700D)](decret-n95-1110-du-17-octobre-1995-jusc9520700d)
 - [Décret n°95-1112 du 17 octobre 1995 (MCCB9500427D)](decret-n95-1112-du-17-octobre-1995-mccb9500427d)
 - [Décret n°95-1115 du 17 octobre 1995 (ENVP9530043D)](decret-n95-1115-du-17-octobre-1995-envp9530043d)
