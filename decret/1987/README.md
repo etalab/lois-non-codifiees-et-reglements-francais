@@ -469,3 +469,4 @@
 - [Décret n°87-608 du 31 juillet 1987 (AGRX8798315D)](decret-n87-608-du-31-juillet-1987-agrx8798315d)
 - [Décret n°87-611 du 31 juillet 1987 (ASES8700993D)](decret-n87-611-du-31-juillet-1987-ases8700993d)
 - [Décret n°87-612 du 31 juillet 1987 (AGRS8701332D)](decret-n87-612-du-31-juillet-1987-agrs8701332d)
+- [Décret n°87-898 du 31 octobre 1987 (BUDF8730071D)](decret-n87-898-du-31-octobre-1987-budf8730071d)
