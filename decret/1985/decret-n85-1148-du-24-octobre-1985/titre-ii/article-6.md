@@ -1,128 +1,126 @@
 # Article 6
 
-Les traitements et soldes correspondant à chacun des groupes hors échelle sont fixés à compter du 1er mars 1987 comme suit :
+Les traitements et soldes correspondant à chacun des groupes hors échelle sont fixés à compter du 1er août 1987 [*date d'effet*] comme suit :
 
 <table>
-<tbody>
 <tr>
-<td>:--------:-----------------------:</td>
+<td> :--------:-----------------------:</td>
 </tr>
 <tr>
-<td>: GROUPE : CHEVRONS :</td>
+<td> : GROUPE :     CHEVRONS          :</td>
 </tr>
 <tr>
-<td>:--------------------------------:</td>
+<td> :--------------------------------:</td>
 </tr>
 <tr>
-<td>: : I :</td>
+<td> :        :        I              :</td>
 </tr>
 <tr>
-<td>: : (en francs) :</td>
+<td> :        :   (en francs)         :</td>
 </tr>
 <tr>
-<td>:--------:-----------------------:</td>
+<td> :--------:-----------------------:</td>
 </tr>
 <tr>
-<td>: A : 231 839 :</td>
+<td> :  A     :       232 990         :</td>
 </tr>
 <tr>
-<td>: B : 253 640 :</td>
+<td> :  B     :       254 889         :</td>
 </tr>
 <tr>
-<td>: B bis : 278 898 :</td>
+<td> :  B bis :       280 282         :</td>
 </tr>
 <tr>
-<td>: C : 294 052 :</td>
+<td> :  C     :       295 512         :</td>
 </tr>
 <tr>
-<td>: D : 307 080 :</td>
+<td> :  D     :       308 604         :</td>
 </tr>
 <tr>
-<td>: E : 335 262 :</td>
+<td> :  E     :       336 927         :</td>
 </tr>
 <tr>
-<td>: F : 361 583 :</td>
+<td> :  F     :       363 378         :</td>
 </tr>
 <tr>
-<td>: G : 396 678 :</td>
+<td> :  G     :       398 647         :</td>
 </tr>
 <tr>
-<td>:--------------------------------:</td>
+<td> :--------------------------------:</td>
 </tr>
 <tr>
-<td>:--------------------------------:</td>
+<td> :--------------------------------:</td>
 </tr>
 <tr>
-<td>: GROUPE : CHEVRONS :</td>
+<td> : GROUPE :     CHEVRONS          :</td>
 </tr>
 <tr>
-<td>:--------:-----------------------:</td>
+<td> :--------:-----------------------:</td>
 </tr>
 <tr>
-<td>: : II :</td>
+<td> :        :        II             :</td>
 </tr>
 <tr>
-<td>: : (en francs) :</td>
+<td> :        :   (en francs)         :</td>
 </tr>
 <tr>
-<td>:--------------------------------:</td>
+<td> :--------------------------------:</td>
 </tr>
 <tr>
-<td>: A : 241 144 :</td>
+<td> :  A     :       242 341         :</td>
 </tr>
 <tr>
-<td>: B : 264 541 :</td>
+<td> :  B     :       265 854         :</td>
 </tr>
 <tr>
-<td>: B bis : 286 384 :</td>
+<td> :  B bis :       287 764         :</td>
 </tr>
 <tr>
-<td>: C : 300 433 :</td>
+<td> :  C     :       301 925         :</td>
 </tr>
 <tr>
-<td>: D : 321 171 :</td>
+<td> :  D     :       322 766         :</td>
 </tr>
 <tr>
-<td>: E : 348 556 :</td>
+<td> :  E     :       350 286         :</td>
 </tr>
 <tr>
-<td>:--------------------------------:</td>
+<td> :--------------------------------:</td>
 </tr>
 <tr>
-<td>:--------------------------------:</td>
+<td> :--------------------------------:</td>
 </tr>
 <tr>
-<td>: GROUPE : CHEVRONS :</td>
+<td> : GROUPE :     CHEVRONS          :</td>
 </tr>
 <tr>
-<td>:--------:-----------------------:</td>
+<td> :--------:-----------------------:</td>
 </tr>
 <tr>
-<td>: : III :</td>
+<td> :        :        III            :</td>
 </tr>
 <tr>
-<td>: : (en francs) :</td>
+<td> :        :   (en francs)         :</td>
 </tr>
 <tr>
-<td>:--------------------------------:</td>
+<td> :--------------------------------:</td>
 </tr>
 <tr>
-<td>: A : 253 640 :</td>
+<td> :  A     :       254 899         :</td>
 </tr>
 <tr>
-<td>: B : 278 898 :</td>
+<td> :  B     :       280 282         :</td>
 </tr>
 <tr>
-<td>: B bis : 294 052 :</td>
+<td> :  B bis :       295 512         :</td>
 </tr>
 <tr>
-<td>: C : 307 080 :</td>
+<td> :  C     :       308 604         :</td>
 </tr>
 <tr>
-<td>: D : 335 262 :</td>
+<td> :  D     :       336 927         :</td>
 </tr>
 <tr>
-<td>:--------------------------------:</td>
+<td> :--------------------------------:</td>
 </tr>
-</tbody>
 </table>
