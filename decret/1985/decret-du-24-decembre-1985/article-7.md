@@ -1,7 +1,7 @@
 # Article 7
 
-Les vignes produisant le vin d'appellation d'origine contrôlée "Coteaux du Languedoc" doivent présenter une densité minimale de 3300 souches à l'hectare pour toute nouvelle plantation ou replantation. Cette densité minimale est portée à 4000 souches à l'hectare pour toute nouvelle plantation ou replantation réalisée à partir de 1990.
+Les vignes produisant le vin d'appellation d'origine contrôlée "Coteaux du Languedoc" doivent présenter une densité minimale de 4000 souches à l'hectare pour les plantations ou replantations réalisées à partir de 1990 et de 3300 souches à l'hectare pour les plantations ou replantations réalisées avant cette date.
 
-La taille de ces vignes doit être effectuée en taille courte avec un maximum de six à huit coursons de un ou deux yeux par souche. Toutefois, la syrah peut être conduite en taille longue (guyot) et pour le grenache noir, sur les ceps sujets à la coulure, deux coursons peuvent temporairement être remplacés par un long bois de quatre ou cinq yeux.
+L'écartement maximum entre les rangs est de 2,50 m. La taille de ces vignes doit être effectuée en taille courte, à coursons, avec un maximum de 10 yeux francs par souche. Toutefois, la syrah N peut être conduite en taille longue (Guyot) avec un courson de 2 yeux maximum et une baguette de 5 yeux maximum.
 
-Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" suivie du nom "Pic-Saint-Loup", les vins doivent provenir de vignes conduites en taille courte (gobelet ou cordon de Royat), à huit coursons maximum, et à un oeil franc au maximum par courson.
+Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" suivie du nom "Pic-Saint-Loup", les vins doivent provenir de vignes conduites en taille courte (gobelet ou cordon de Royat), à huit coursons maximum et à un oeil franc au maximum par courson.

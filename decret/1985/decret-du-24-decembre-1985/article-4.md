@@ -8,11 +8,11 @@ a) Cépages principaux :
 
 - cinsault N : ce cépage est limité à 40 % de l'encépagement pour l'élaboration de vin rouge. Il doit composer au moins 45 % de l'encépagement pour l'élaboration des vins rosés de l'appellation "Coteaux du Languedoc" complétée par le nom "Cabrières" ;
 
-- mourvèdre N, syrah N : ces cépages doivent représenter, ensemble ou séparément, au moins 10 % de l'encépagement ;
+- mourvèdre N, syrah N : ces cépages doivent représenter ensemble ou séparément au moins 10 % de l'encépagement. Ce pourcentage est porté à 20 % à partir de la troisième récolte à compter de la parution du présent décret ;
 
-- grenache N, lladoner pelut N : lorsque l'encépagement comporte du carignan N, leur présence, ensemble ou séparément, doit représenter au moins 20 % de l'encépagement.
+- grenache N, lladoner pelut N : lorsque l'encépagement comporte du carignan N, leur présence, ensemble ou séparément, doit représenter au moins 20 % de l'encépagement ;
 
-L'ensemble des cépages grenache N, lladoner pelut, syrah et mourvèdre doit représenter au minimum 50 % de l'encépagement.
+- l'ensemble des cépages grenache N, lladoner pelut, syrah et mourvèdre doit représenter au minimum 50 % de l'encépagement.
 
 b) Cépages complémentaires, limités globalement à 10 % de l'encépagement :
 

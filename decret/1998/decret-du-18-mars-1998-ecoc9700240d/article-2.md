@@ -6,7 +6,7 @@ A. - Appellations régionales "Vin de Savoie" et "Roussette de Savoie".
 
 Département de la Savoie.
 
-Apremont, Arbin, Barby, Billième, Le Bourget-du-Lac, Brison-Saint-Innocent, Challes-les-Eaux, Chignin, Chindrieux, Cruet, Francin, Fréterive, Jongieux, Lucey, Les Marches, Montmélian, Motz, Myans, Ruffieux, Saint-Alban-Leysse, Saint-Baldoph, Saint-Germain-la-Chambotte, Saint-Jeoire-Prieuré, Saint-Jean-de-la-Porte, Saint-Jean-de-Chevelu, Saint-Pierre-d'Albigny, Serrières-en-Chautagne, Yenne.
+Apremont, Arbin, Barby, Billième, Le Bourget-du-Lac, Brison-Saint-Innocent, Challes-les-Eaux, Chanaz, Chignin, Chindrieux, Cruet, Francin, Fréterive, Jongieux, Lucey, Les Marches, Montmélian, Motz, Myans, Ruffieux, Saint-Alban-Leysse, Saint-Baldoph, Saint-Germain-la-Chambotte, Saint-Jeoire-Prieuré, Saint-Jean-de-la-Porte, Saint-Jean-de-Chevelu, Saint-Pierre-d'Albigny, Serrières-en-Chautagne, Yenne.
 
 Département de la Haute-Savoie.
 
@@ -30,7 +30,7 @@ Abymes ou Les Abymes : Apremont (partie), Chapareillan, Les Marches (partie), My
 
 Apremont : Apremont (partie), Les Marches (partie), Saint-Baldoph.
 
-Arbin : Arbin.
+Arbin : Arbin, Cruet, Montmélian.
 
 Ayze : Ayze, Bonneville, Marignier.
 
@@ -70,7 +70,7 @@ D. - Appellation "Vin de Savoie" suivie d'un nom de cru (vins mousseux ou pétil
 
 Ayze : Ayze, Bonneville, Marignier.
 
-Les vins doivent être issus de vendanges récoltées dans l'aire de production délimitée par parcelles ou parties de parcelles telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en séances des 24 et 25 février 1988 et 7 et 8 novembre 1990 sur proposition de la commission d'experts désignée à cet effet.
+Les vins doivent être issus de vendanges récoltées dans l'aire de production délimitée par parcelles ou parties de parcelles telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en séances des 24 et 25 février 1988, 7 et 8 novembre 1990, 27 et 28 février 2001, 26 et 27 février 2003, sur proposition de la commission d'experts désignée à cet effet.
 
 Les plans de délimitation sont après report sur les plans cadastraux déposés en mairie des communes concernées.
 

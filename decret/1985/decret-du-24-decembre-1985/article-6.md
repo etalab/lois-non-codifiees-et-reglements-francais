@@ -1,10 +1,20 @@
 # Article 6
 
-Ne peuvent prétendre à l'appellation d'origine contrôlée "Coteaux du Languedoc" que les vins répondant aux conditions du décret n° 74-872 du 19 octobre 1974.
+Le rendement de base visé à l'article 1er du décret n° 2002-1325 du 5 novembre 2002 relatif aux conditions de production et au rendement des vignobles produisant des vins à appellation d'origine contrôlée est fixé à 50 hl à l'hectare pour les vins rouges et rosés et à 60 hl à l'hectare pour les vins blancs.
 
-Le rendement de base visé à l'article 1er de ce décret est fixé à 50 hectolitres à l'hectare.
+Le rendement butoir visé à l'article 4 du même décret est fixé à 66 hl à l'hectare pour les vins rouges et rosés et à 70 hl à l'hectare pour les vins blancs.
 
-Le pourcentage prévu à son article 3 est fixé à 20 p. 100. Le pourcentage prévu à son article 6 est fixé à 100 p. 100 du rendement annuel de l'appellation d'origine contrôlée "Coteaux du Languedoc".
+Le rendement maximum de production visé à l'article 6 du même décret est fixé à 66 hl à l'hectare pour les vins rouges et rosés et à 70 hl à l'hectare pour les vins blancs.
+
+Le rendement agronomique à la parcelle visé à l'article 10 du même décret est fixé dans les mêmes limites que le rendement maximum de production.
+
+Le bénéfice de l'appellation ne peut être accordé aux vins provenant de jeunes vignes qu'à partir de la deuxième année suivant celle au cours de laquelle la plantation a été réalisée en place avant le 31 juillet.
+
+Le bénéfice de l'appellation d'origine contrôlée "Coteaux du Languedoc" suivie du nom "Pic-Saint-Loup" ne peut être accordé :
+
+- aux vins rosés provenant de jeunes vignes qu'à partir de la troisième année suivant celle au cours de laquelle la plantation a été réalisée en place au 31 juillet ;
+
+- aux vins rouges provenant de jeunes vignes qu'à partir de la sixième année suivant celle au cours de laquelle la plantation a été réalisée en place au 31 juillet.
 
 Le bénéfice de l'appellation d'origine contrôlée "Coteaux du Languedoc" ne peut être accordé aux vins provenant des jeunes vignes qu'à partir de la troisième année suivant celle au cours de laquelle la plantation a été réalisée en place avant le 31 août.
 
