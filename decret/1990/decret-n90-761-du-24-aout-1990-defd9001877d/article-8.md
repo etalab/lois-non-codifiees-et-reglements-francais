@@ -1,3 +1,0 @@
-# Article 8
-
-L'autorisation de déléguer leur signature donnée par l'article 1er du décret du 19 août 1981 aux généraux commandants de région militaire est accordée au général commandant la région militaire de défense, aux généraux commandant les circonscriptions militaires de défense, aux généraux commandant les corps d'armée ou la force d'action rapide dont les formations sont stationnées sur le territoire de la région militaire de défense, au commandant des écoles de l'armée de terre et aux directeurs de service, au commandant de région de gendarmerie et aux commandants de circonscription de gendarmerie en ce qui concerne le personnel placé sous leur autorité.
