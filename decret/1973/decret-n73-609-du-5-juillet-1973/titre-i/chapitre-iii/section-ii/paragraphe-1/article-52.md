@@ -1,21 +1,7 @@
 # Article 52
 
-La commission instituée à l'article 49 est composée ainsi qu'il suit :
+Le jury prévu à l'article 49 est présidé par un magistrat de l'ordre judiciaire hors hiérarchie et comprend en outre un professeur de droit des universités désigné sur proposition du ministre chargé de l'éducation nationale et de deux notaires désignés sur proposition du conseil supérieur du notariat.
 
-Un magistrat de l'ordre judiciaire, président ;
+Le président et son suppléant ainsi que les membres du jury et leurs suppléants sont désignés, pour une période de trois ans renouvelable, par arrêté du garde des sceaux, ministre de la justice.
 
-Deux autres magistrats ;
-
-Deux notaires ;
-
-Un clerc de notaire remplissant les conditions d'aptitude exigées pour être nommé notaire.
-
-Les magistrat peuvent être en activité ou honoraires.
-
-Les membres de la commission sont désignés pour une durée de trois ans, par arrêté du garde des sceaux, ministre de la justice, sur la proposition, en ce qui concerne les notaires, du conseil supérieur du notariat.
-
-Des suppléants sont désignés en nombre égal dans les mêmes conditions.
-
-Le secrétariat de la commission est assuré par un magistrat ou un fonctionnaire de la catégorie A.
-
-En cas de partage des voix, celle du président est prépondérante.
+En cas de partage égal des voix, celle du président est prépondérante.
