@@ -46,7 +46,9 @@ Directeur régional des affaires culturelles mentionné dans le décret n° 78-9
 
 Directeur de la manufacture nationale de Sèvres mentionné dans le décret n° 63-424 du 22 avril 1963 ;
 
-Administrateur général du Mobilier national et des manufactures nationales des Gobelins, de Beauvais et de la Savonnerie mentionné dans le décret n° 64-264 du 20 mars 1964, modifié par le décret n° 65-677 du 11 août 1965.
+Administrateur général du Mobilier national et des manufactures
+
+nationales des Gobelins, de Beauvais et de la Savonnerie mentionné dans le décret n° 64-264 du 20 mars 1964, modifié par le décret n° 65-677 du 11 août 1965.
 
 Conservateur régional des monuments historiques mentionné dans le décret n° 81-544 du 12 mai 1981.
 
@@ -134,7 +136,9 @@ Directeur interrégional des douanes et droits indirects, mentionné dans le dé
 
 Directeur régional de la concurrence et de la consommation, mentionné dans le décret n° 79-102 du 31 janvier 1979.
 
-Ministre conseiller pour les affaires économiques et commerciales, mentionné dans le décret n° 80-5 du 3 janvier 1980.
+Ministre conseiller pour les affaires économiques et commerciales,
+
+mentionné dans le décret n° 80-5 du 3 janvier 1980.
 
 Inspecteur vérificateur spécialisé à la direction générale des impôts, mentionné dans le décret n° 82-1038 du 6 décembre 1982.
 
@@ -168,7 +172,9 @@ Directeur ou directrice d'école maternelle comptant au moins cinq classes, dire
 
 Directeur de l'office national d'information sur les enseignements et les professions, mentionné dans le décret n° 76-966 du 21 octobre 1976 ;
 
-Directeur adjoint de l'office national d'information sur les enseignements et les professions, mentionné dans le décret n° 76-966 du 21 octobre 1976 ;
+Directeur adjoint de l'office national d'information sur les
+
+enseignements et les professions, mentionné dans le décret n° 76-966 du 21 octobre 1976 ;
 
 Directeur du centre d'études et de recherches sur les qualifications, mentionné dans le décret n° 76-966 du 21 octobre 1976.
 
@@ -220,7 +226,9 @@ Inspecteur général des transports et des travaux publics, mentionné dans le d
 
 Inspecteur général de l'aviation civile, mentionné dans le décret n° 61-1356 du 7 décembre 1961.
 
-Directeur de l'école nationale de l'aviation civile, chef du centre d'expérimentation de la navigation aérienne, adjoint au directeur de la navigation aérienne et adjoint au chef du service de la formation aéronautique, mentionnés dans le décret n° 71-234 du 30 mars 1971.
+Directeur de l'école nationale de l'aviation civile, chef du
+
+centre d'expérimentation de la navigation aérienne, adjoint au directeur de la navigation aérienne et adjoint au chef du service de la formation aéronautique, mentionnés dans le décret n° 71-234 du 30 mars 1971.
 
 Adjoint au directeur de la météorologie nationale chef des services climatologique et hydrométéorologique et directeur de l'école de la météorologie, mentionnés dans le décret n° 70-74 du 22 janvier 1970.
 
@@ -262,6 +270,16 @@ Chef de service régional (direction générale des postes et directions relevan
 
 Chef de service départemental (direction générale des postes et directions relevant des services généraux) mentionné dans le décret n° 79-496 du 20 juin 1979 ;
 
-Directeur d'établissement principal de 1re et de 2e classe des postes et directeur d'établissement principal de 1re et de 2e classe des télécommunications mentionnés dans les décrets n° 78-934 et n° 78-935 du 30 août 1978 modifiant respectivement les décrets n° 76-118 et n° 76-119 du 29 janvier 1976.
+Directeur d'établissement principal de 1re et de 2e classe des postes et directeur d'établissement principal de 1re et de 2e classe
+
+des télécommunications mentionnés dans les décrets n° 78-934 et n° 78-935 du 30 août 1978 modifiant respectivement les décrets n° 76-118 et n° 76-119 du 29 janvier 1976.
 
 Chef de service de comptabilité des postes et télécommunications, mentionné dans les décrets n° 89-264 du 26 avril 1989 et n° 89-334 du 25 mai 1989.
+
+Ministère de l'industrie et du commerce extérieur :
+
+Chef de mission du ministère de l'industrie et du commerce extérieur mentionné dans le décret n° 92-213 du 4 mars 1992.
+
+[* Les mots chef d'établissement sont substitués à ceux de :
+
+receveur ou chef de centre, par l'article 1er du décret n° 91-70 du 17 janvier 1991. *]

@@ -1,5 +1,5 @@
 # Article 63
 
-Pour satisfaire à l'obligation de mobilité mentionnée à l'article 61, les membres du corps visé par le présent chapitre doivent avoir exercé pendant un an au moins des activités de soins, d'enseignement ou de recherche soit dans un autre établissement que celui où ils ont été affectés à l'origine, soit à l'étranger.
+Indépendamment des concours prévus aux articles 61 et 62 ci-dessus, un concours est réservé aux maîtres de conférences des universités - praticiens hospitaliers ayant dix ans d'ancienneté en cette qualité et titulaires de l'habilitation à diriger des recherches ou du doctorat d'Etat. Les diplômes et titres étrangers de niveau équivalent peuvent être admis en dispense des diplômes précités dans des conditions fixées par arrêté du ministre chargé de l'enseignement supérieur.
 
-Sont dispensés de cette obligation ceux qui ne sont pas en fonctions dans le centre hospitalier universitaire où est situé l'emploi auquel ils sont candidats.
+Le nombre total des emplois offerts à ce concours est fixé par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé et ne peut être supérieur au neuvième des emplois mis aux concours, pour l'ensemble des disciplines.

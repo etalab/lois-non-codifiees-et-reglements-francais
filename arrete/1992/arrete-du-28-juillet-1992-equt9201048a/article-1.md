@@ -1,6 +1,6 @@
 # Article 1
 
-L'attestation de capacité à la profession de transporteur de marchandises par voies navigables est délivrée aux personnes titulaires de l'un des diplômes désignés ci-après :
+L'attestation de capacité à la profession de transporteur de marchandises par bateau de navigation intérieure est délivrée aux personnes titulaires de l'un des diplômes désignés ci-après :
 
 Diplôme national de l'enseignement supérieur spécialisé en transport ou comportant une option Transport ;
 
@@ -12,8 +12,6 @@ Brevet de technicien Transport ;
 
 Diplôme de fin d'études de l'Ecole de technicien des transports (E.T.T.) ;
 
-Brevet professionnel Agent des entreprises de transport et des activités auxiliaires ;
+" Brevet professionnel de transport, à trois options : Transport routier, Transport fluvial, Auxiliaires de transport ;
 
-Brevet professionnel de transport, option fluviale ;
-
-Baccalauréat professionnel se rapportant au transport de marchandises.
+" Baccalauréat professionnel (section Logistique et transport). "
