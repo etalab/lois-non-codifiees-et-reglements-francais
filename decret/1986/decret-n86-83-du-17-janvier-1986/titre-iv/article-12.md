@@ -14,7 +14,7 @@ Après deux ans de services :
 
 - deux mois à demi-traitement ;
 
-Après quatre ans de services :
+Après trois ans de services :
 
 - trois mois à plein traitement ;
 
