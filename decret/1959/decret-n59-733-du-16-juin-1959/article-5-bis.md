@@ -2,12 +2,8 @@
 
 Les subventions allouées au titre du soutien financier à la distribution sont accordées aux entreprises de distribution qui assument la responsabilité effective des opérations de distribution de l'oeuvre cinématographique.
 
-Ces subventions sont versées pour la distribution d'oeuvres cinématographiques d'une durée de projection supérieure à une heure, dites oeuvres de réinvestissement, dans la limite des sommes inscrites sur le compte du distributeur.
+Ces subventions sont versées pour la distribution d'oeuvres cinématographiques d'une durée de projection supérieure à une heure, dites oeuvres de réinvestissement au sens de l'article 13 du décret n° 59-1512 du 30 décembre 1959 portant application des dispositions du décret n° 59-733 du 16 juin 1959 relatif au soutien financier de l'Etat à l'industrie cinématographique, dans la limite des sommes inscrites sur le compte du distributeur.
 
-Elles sont calculées, pendant une période de cinq ans à compter de la date de la première représentation publique d'une oeuvre cinématographique, dite oeuvre de référence, au profit de l'entreprise qui en assure la distribution, par application de taux proportionnels au produit de la taxe spéciale aux prix des places perçue à l'occasion de l'exploitation de cette oeuvre.
+Pour bénéficier de ces subventions, le distributeur doit garantir un investissement financier se traduisant par le versement au producteur d'avances, remboursables exclusivement sur les recettes, en vue de concourir au financement de la production de l'oeuvre concernée ou par le règlement de l'intégralité des frais d'édition et de publicité de cette oeuvre. Ces frais doivent être engagés avant la sortie en salles de spectacles cinématographiques et être remboursables exclusivement sur les recettes d'exploitation. Sont respectivement considérés comme frais d'édition et frais de publicité les frais de tirage de copies et les frais d'achat d'espace.
 
-Les taux prévus au présent article sont fixés par arrêté conjoint du ministre chargé du cinéma et du ministre de l'économie, des finances et du budget.
-
-A compter de la date de publication du décret n° 92-318 du 30 mars 1992, les sommes susceptibles d'être allouées aux entreprises de distribution doivent être investies dans un délai de quatre années à partir du premier jour de l'année suivant celle au cours de laquelle elles sont calculées. A l'expiration de ce délai le distributeur est déchu de la faculté d'utiliser les subventions.
-
-Toute allocation, versée au titre du soutien financier à la distribution, postérieure à la date de publication du décret n° 92-318 du 30 mars 1992, est imputée en premier lieu sur les sommes calculées avant la publication du présent décret et, si besoin est, sur celles calculées après cette date.
+S'il apparaît au vu des pièces justificatives présentées à l'agrément complémentaire prévu à l'article 19 du décret du 30 décembre 1959 précité que l'entreprise de distribution n'a pas respecté les conditions fixées ci-dessus, celle-ci est tenue de reverser au Centre national de la cinématographie les sommes déjà investies.

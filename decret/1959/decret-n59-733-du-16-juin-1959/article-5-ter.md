@@ -1,9 +1,11 @@
 # Article 5 ter
 
-Est considérée comme une oeuvre de réinvestissement l'oeuvre répondant aux conditions prévues à l'article 13 du décret n° 59-1512 du 30 décembre 1959 susvisé et comme oeuvre de référence l'oeuvre répondant aux conditions prévues à l'article 13 bis de ce décret.
+Les sommes inscrites sur le compte ouvert au nom de l'entreprise de distribution sont calculées pendant une période de cinq ans à compter de la date de la première représentation publique d'une oeuvre cinématographique de référence au sens de l'article 13 bis du décret du 30 décembre 1959 précité, pour laquelle le distributeur a effectué un investissement financier dans les conditions fixées à l'article 5 bis du présent décret.
 
-Les distributeurs doivent garantir, pour la distribution des oeuvres précitées, qu'ils engageront pour le compte du producteur une dépense minimale en frais d'édition et de publicité. Ces dépenses doivent être engagées avant la sortie en salles de spectacles cinématographiques.
+Le calcul de ces sommes est effectué au profit de l'entreprise qui a assuré la distribution de l'oeuvre concernée par application de taux proportionnels au produit de la taxe spéciale au prix des places perçues à l'occasion de l'exploitation de cette oeuvre.
 
-Sont respectivement considérés comme frais d'édition et frais de publicité les frais de tirage de copies et les frais d'achat d'espace. Ces frais doivent être d'un montant minimum fixé par arrêté du ministre chargé de l'économie et des finances et du ministre chargé du cinéma. Les dépenses ainsi garanties sont exclusivement remboursables sur les recettes d'exploitation. Dans le cas où ces dépenses n'atteignent pas le minimum requis, les avances éventuellement versées par le distributeur au producteur en vue de concourir au financement de la production de l'oeuvre et remboursables exclusivement sur les recettes peuvent être prises en compte pour atteindre ce minimum.
+Un arrêté du ministre chargé du cinéma et du ministre chargé de l'économie et du budget fixe ces taux.
 
-S'il apparaît, au vu des pièces justificatives présentées à l'agrément complémentaire, que l'entreprise de distribution n'a pas respecté les conditions fixées ci-dessus ainsi que celles prévues par l'article 5 bis du présent décret, celle-ci est tenue de reverser au Centre national de la cinématographie les sommes déjà investies.
+Les sommes susceptibles d'être allouées depuis le 1er avril 1992 aux entreprises de distribution doivent être investies dans un délai de quatre ans à partir du premier jour de l'année suivant celle au cours de laquelle elles sont calculées. A l'expiration de ce délai, le distributeur est déchu de la faculté d'utiliser les subventions correspondantes.
+
+Toute allocation versée au titre du soutien financier à la distribution est imputée en premier lieu sur les sommes calculées avant le 1er avril 1992 et, si besoin est, sur celles calculées après cette date.
