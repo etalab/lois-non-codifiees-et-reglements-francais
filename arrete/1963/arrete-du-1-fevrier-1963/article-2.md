@@ -4,18 +4,16 @@ La cotisation due par les assurés sociaux maintenus à l'assurance volontaire g
 
 Le taux de cette cotisation est fixé à :
 
-33,45 % pour l'ensemble des risques, soit :
+34,05 p. 100 pour l'ensemble des risques, soit :
 
-17,85 % pour le risque maladie, les charges de la
+18,25 p. 100 pour le risque maladie, les charges de la maternité et le risque décès ;
 
-maternité et le risque décès ;
+0,90 p. 100 pour le risque invalidité ;
 
-0,90 % pour le risque invalidité ;
+14,80 p. 100 pour le risque vieillesse ;
 
-14,60 % pour le risque vieillesse ;
+0,10 p. 100 pour le risque veuvage ;
 
-0,10 % pour le risque veuvage ;
-
-15,10 % pour le risque maladie, les charges de la maternité et le risque décès des membres de la famille résidant en France d'un assuré qui transporte son domicile hors du territoire métropolitain [*à l'étranger, expatriés*].
+15,50 p. 100 pour le risque maladie, les charges de la maternité et le risque décès des membres de la famille résidant en France d'un assuré qui transporte son domicile hors du territoire métropolitain [*à l'étranger, expatriés*].
 
 La cotisation est calculée trimestriellement [*périodicité*], elle est arrondie au franc le plus voisin ; quand elle se termine par 50 centimes, elle est arrondie au franc supérieur.
