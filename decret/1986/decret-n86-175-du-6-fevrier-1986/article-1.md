@@ -14,4 +14,6 @@ c) D'aider à la préparation de la réalisation des oeuvres audiovisuelles déf
 
 d) De favoriser le recours à de nouvelles technologies de l'image dans les oeuvres audiovisuelles ;
 
-e) De financer la réalisation d'oeuvres audiovisuelles de courte durée, dites " vidéomusiques , mettant en images une composition musicale préexistante. Ces oeuvres doivent être d'expression originale française.
+e) De financer la réalisation d'oeuvres audiovisuelles de courte durée, dites  vidéomusiques , mettant en images une composition musicale préexistante. Ces oeuvres doivent être d'expression originale française.
+
+3° A l'octroi de subventions ou d'avances en vue de la production de programmes destinés notamment à la jeunesse dans les genres prévus aux 1° et 2° (b et c) ci-dessus et diffusés par les services de communication audiovisuelle soumis au prélèvement prévu à l'article 36-II de la loi de finances pour 1984. Une entreprise de production ne peut cumuler, pour la réalisation d'une même oeuvre audiovisuelle, les aides visées aux 2° et 3° du présent article.
