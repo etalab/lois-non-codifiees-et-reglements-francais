@@ -513,7 +513,6 @@
 - [Décret n°86-904 du 29 juillet 1986](decret-n86-904-du-29-juillet-1986)
 - [Décret du 30 juin 1986](decret-du-30-juin-1986)
 - [Décret n°83-1267 du 30 décembre 1983](decret-n83-1267-du-30-decembre-1983)
-- [Décret n°85-1446 du 30 décembre 1985](decret-n85-1446-du-30-decembre-1985)
 - [Décret n°85-1447 du 30 décembre 1985](decret-n85-1447-du-30-decembre-1985)
 - [Décret n°85-1460 du 30 décembre 1985](decret-n85-1460-du-30-decembre-1985)
 - [Décret n°85-801 du 30 juillet 1985](decret-n85-801-du-30-juillet-1985)
