@@ -99,7 +99,6 @@
 - [Décret n°97-96 du 5 février 1997 (JUSB9610463D)](decret-n97-96-du-5-fevrier-1997-jusb9610463d)
 - [Décret n°97-97 du 5 février 1997 (JUSB9610464D)](decret-n97-97-du-5-fevrier-1997-jusb9610464d)
 - [Décret n°97-98 du 5 février 1997 (JUSB9610465D)](decret-n97-98-du-5-fevrier-1997-jusb9610465d)
-- [Décret n°97-442 du 5 mai 1997 (EQUP9700578D)](decret-n97-442-du-5-mai-1997-equp9700578d)
 - [Décret n°97-444 du 5 mai 1997 (EQUT9700686D)](decret-n97-444-du-5-mai-1997-equt9700686d)
 - [Décret n°97-445 du 5 mai 1997 (EQUT9700687D)](decret-n97-445-du-5-mai-1997-equt9700687d)
 - [Décret n°97-446 du 5 mai 1997 (EQUT9700688D)](decret-n97-446-du-5-mai-1997-equt9700688d)

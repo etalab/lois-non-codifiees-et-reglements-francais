@@ -1313,7 +1313,6 @@
 - [Arrêté du 30 mars 1995 (ECOT9510233A)](arrete-du-30-mars-1995-ecot9510233a)
 - [Arrêté du 30 mars 1995 (ECOT9510235A)](arrete-du-30-mars-1995-ecot9510235a)
 - [Arrêté du 30 mars 1995 (LOGC9500008A)](arrete-du-30-mars-1995-logc9500008a)
-- [Arrêté du 30 mars 1995 (LOGC9500009A)](arrete-du-30-mars-1995-logc9500009a)
 - [Arrêté du 30 mars 1995 (LOGC9500010A)](arrete-du-30-mars-1995-logc9500010a)
 - [Arrêté du 30 octobre 1995 (DEFP9502151A)](arrete-du-30-octobre-1995-defp9502151a)
 - [Arrêté du 31 août 1995 (ENVN9540287A)](arrete-du-31-aout-1995-envn9540287a)
