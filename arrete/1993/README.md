@@ -700,7 +700,6 @@
 - [Arrêté du 22 décembre 1992 (AGRG9202623A)](arrete-du-22-decembre-1992-agrg9202623a)
 - [Arrêté du 22 décembre 1992 (BUDD9270009A)](arrete-du-22-decembre-1992-budd9270009a)
 - [Arrêté du 22 décembre 1992 (DEFT9301030A)](arrete-du-22-decembre-1992-deft9301030a)
-- [Arrêté du 22 décembre 1992 (PTTR9200676A)](arrete-du-22-decembre-1992-pttr9200676a)
 - [Arrêté du 22 décembre 1993 (INTD9300719A)](arrete-du-22-decembre-1993-intd9300719a)
 - [Arrêté du 22 décembre 1993 (SPSP9303611A)](arrete-du-22-decembre-1993-spsp9303611a)
 - [Arrêté du 22 décembre 1993 (SPSS9303623A)](arrete-du-22-decembre-1993-spss9303623a)
