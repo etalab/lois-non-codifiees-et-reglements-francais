@@ -2,7 +2,7 @@
 
 I - La délivrance du visa de la Commission des opérations de bourse requis pour l'émission de valeurs mobilières ainsi que pour l'offre au public d'achat, d'échange ou de vente de valeurs inscrites à la cote officielle ou destinées à l'être donne lieu au paiement d'une redevance de 0,20 p. 1.000 du montant de l'émission ou de l'offre réalisées.
 
-II - Les sociétés d'investissement à capital variable et les sociétés civiles soumises aux dispositions de la loi du 31 décembre 1970 sont assujetties à une redevance fixée à 0,015 p. 1.000 de leur actif net constaté au 31 décembre de chaque année. Les sociétés de gestion de fonds communs de placement régies par les titres Ier et II bis de la loi n° 79-594 du 13 juillet 1979 susvisée sont assujetties à une redevance fixée à 0,015 p. 1.000 de la somme des actifs nets des fonds qu'elles gèrent, constatée au 31 décembre de chaque année.
+II - Les sociétés d'investissement à capital variable et les sociétés civiles soumises aux dispositions de la loi du 31 décembre 1970 sont assujetties à une redevance fixée à 0,020 p. 1.000 de leur actif net constaté au 31 décembre de chaque année. Les sociétés de gestion de fonds communs de placement régies par les titres Ier et II bis de la loi n° 79-594 du 13 juillet 1979 susvisée sont assujetties à une redevance fixée à 0,015 p. 1.000 de la somme des actifs nets des fonds qu'elles gèrent, constatée au 31 décembre de chaque année.
 
 Les sociétés visées au précédent alinéa adressent à la commission au plus tard le 31 mars de chaque année une déclaration indiquant le montant des actifs nets constaté le 31 décembre de l'année précédente, accompagnée du versement, au profit de la commission, de la redevance.
 
