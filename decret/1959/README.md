@@ -11,6 +11,7 @@
 - [Décret du 14 octobre 1959](decret-du-14-octobre-1959)
 - [Décret n°59-998 du 14 août 1959](decret-n59-998-du-14-aout-1959)
 - [Décret n°59-1313 du 18 novembre 1959](decret-n59-1313-du-18-novembre-1959)
+- [Décret n°59-1424 du 18 décembre 1959](decret-n59-1424-du-18-decembre-1959)
 - [Décret n°59-863 du 18 juillet 1959](decret-n59-863-du-18-juillet-1959)
 - [Décret n°59-878 du 18 juillet 1959](decret-n59-878-du-18-juillet-1959)
 - [Décret n°59-885 du 18 juillet 1959](decret-n59-885-du-18-juillet-1959)
