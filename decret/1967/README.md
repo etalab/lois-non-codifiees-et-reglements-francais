@@ -12,6 +12,7 @@
 - [Décret n°67-540 du 26 juin 1967](decret-n67-540-du-26-juin-1967)
 - [Décret n°67-432 du 26 mai 1967](decret-n67-432-du-26-mai-1967)
 - [Décret n°67-729 du 29 août 1967](decret-n67-729-du-29-aout-1967)
+- [Décret n°67-752 du 29 août 1967](decret-n67-752-du-29-aout-1967)
 - [Décret n°67-513 du 30 juin 1967](decret-n67-513-du-30-juin-1967)
 - [Décret n°67-519 du 30 juin 1967](decret-n67-519-du-30-juin-1967)
 - [Décret n°67-542 du 30 juin 1967](decret-n67-542-du-30-juin-1967)
