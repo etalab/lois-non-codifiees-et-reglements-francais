@@ -1,0 +1,3 @@
+# DISPOSITIONS DIVERSES ET TRANSITOIRES.
+
+- [Article 24](article-24.md)

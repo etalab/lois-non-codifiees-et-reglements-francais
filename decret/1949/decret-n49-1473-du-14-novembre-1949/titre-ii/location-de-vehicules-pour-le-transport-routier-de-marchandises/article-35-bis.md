@@ -14,4 +14,4 @@ Au huitième alinéa, l'expression "totalité du fonds de commerce de transport 
 
 Au dernier alinéa, l'expression "au registre des transporteurs routiers" est remplacée par l'expression "au registre des loueurs".
 
-II. - Les membres de certaines professions peuvent être exemptés, par le préfet, de l'inscription au registre des loueurs, pour les locations consenties à d'autres membres de la même profession, de véhicules nécessaires à l'exercice de cette profession, lorsque ces véhicules restent dans la zone de camionnage.
+II. - Les membres de certaines professions peuvent être exemptés, par le préfet, de l'inscription au registre des loueurs, pour les locations consenties à d'autres membres de la même profession, de véhicules nécessaires à l'exercice de cette profession, lorsque ces véhicules restent dans le département.
