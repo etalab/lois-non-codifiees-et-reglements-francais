@@ -1,0 +1,3 @@
+# Article 15-2
+
+Peuvent être admis au choix, avec leur grade et leur ancienneté de grade, dans le corps technique et administratif de l'armée de terre, sur proposition de la commission prévue à l'article 21, les officiers sous contrat de l'armée de terre des grades de capitaine ou de commandant, qui comptent dix années de services militaires. Les intéressés doivent être âgés de moins de quarante-deux ans et titulaires de l'un des diplômes de l'enseignement militaire supérieur prévus par le décret du 14 avril 1970 susvisé. Ils sont nommés dans le corps au titre duquel ils servaient et prennent rang dans l'ordre de leur ancienneté ; à égalité d'ancienneté, il est tenu compte de l'ancienneté dans les grades précédents et, s'il y a lieu, de l'ordre décroissant des âges.
