@@ -1,0 +1,3 @@
+# Annexes
+
+- [BAREMES DE REPARTITION DE LA TAXE D'APPRENTISSAGE APPLICABLES AUX ASSUJETTIS DONT L'ACTIVITE RELEVE DU SECTEUR PROFESSIONNEL.](baremes-de-repartition-de-la-taxe-d-apprentissage-applicables-aux)
