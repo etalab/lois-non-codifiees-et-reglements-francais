@@ -1,3 +1,3 @@
 # Article 300
 
-Tous les délais prévus par le présent décret sont des délais francs.
+Les cours de bourse à retenir pour l'application du présent décret sont les premiers cours cotés à terme si les actions de la société sont admises aux opérations à terme, au comptant dans le cas contraire.
