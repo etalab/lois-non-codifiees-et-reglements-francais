@@ -735,8 +735,6 @@
 - [Décret n°98-137 du 23 février 1998 (MAEJ9830011D)](decret-n98-137-du-23-fevrier-1998-maej9830011d)
 - [Décret n°98-138 du 23 février 1998 (MAEJ9830012D)](decret-n98-138-du-23-fevrier-1998-maej9830012d)
 - [Décret n°98-139 du 23 février 1998 (MAEJ9830013D)](decret-n98-139-du-23-fevrier-1998-maej9830013d)
-- [Décret n°98-206 du 23 mars 1998 (PRMX9802749D)](decret-n98-206-du-23-mars-1998-prmx9802749d)
-- [Décret n°98-207 du 23 mars 1998 (PRMX9802750D)](decret-n98-207-du-23-mars-1998-prmx9802750d)
 - [Décret n°98-211 du 23 mars 1998 (EQUA9800363D)](decret-n98-211-du-23-mars-1998-equa9800363d)
 - [Décret n°98-218 du 23 mars 1998 (MESH9820454D)](decret-n98-218-du-23-mars-1998-mesh9820454d)
 - [Décret n°98-311 du 23 avril 1998 (AGRS9800147D)](decret-n98-311-du-23-avril-1998-agrs9800147d)
