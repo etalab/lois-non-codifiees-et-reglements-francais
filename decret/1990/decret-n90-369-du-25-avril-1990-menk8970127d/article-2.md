@@ -1,0 +1,5 @@
+# Article 2
+
+Lorsque les listes complémentaires d'admission sont utilisées pour pourvoir des emplois devenus vacants après l'ouverture des concours, les nominations des candidats inscrits sur les listes complémentaires afférentes à l'un ou l'autre des premier et second concours sont prononcées dans le respect de la proportion entre les nominations correspondant à chacun des deux concours telle qu'elle est fixée par l'article 4 du décret n° 85-720 du 10 juillet 1985, s'agissant du corps de professeurs de sport, et par l'article 4 du décret n° 85-721 du 10 juillet 1985, s'agissant du corps des conseillers d'éducation populaire et de jeunesse.
+
+Lorsque la liste complémentaire d'admission au concours de sélection sur épreuves pour le recrutement de professeurs de sport est utilisée pour pourvoir des emplois devenus vacants après l'ouverture des concours, les nominations des candidats inscrits sur cette liste complémentaire sont prononcées dans le respect de la proportion fixée à l'article 5 du décret portant statut particulier.
