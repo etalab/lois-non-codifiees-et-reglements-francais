@@ -1,3 +1,13 @@
 # Article 1
 
-Est entérinée par le présent arrêté la convention professionnelle nationale en date du 20 septembre 1984 souscrite par l'Union nationale des syndicats de détaillants en fruits, légumes et primeurs (U.N.F.D.), par le Syndicat national des maisons d'alimentation à succursales multiples (M.A.S.) et par la Fédération des entreprises à commerces multiples (FENACOMULT), ci-jointe en annexe.
+Il est créé au sein du Conseil supérieur de la prévention des risques professionnels cinq commissions spécialisées :
+
+Une commission spécialisée en matière d'information, de formation et d'organisation de la prévention des risques professionnels ;
+
+Une commission spécialisée en matière de prévention des risques chimiques, biologiques et de ceux résultant des ambiances physiques auxquels peuvent être exposés les salariés ;
+
+Une commission spécialisée en matière de prévention des risques physiques, mécaniques et électriques auxquels peuvent être exposés les salariés ;
+
+Une commission spécialisée en matière de maladies professionnelles ;
+
+Une commission spécialisée en matière de médecine du travail.
