@@ -12,8 +12,10 @@ Pour l’accès au diplôme d’aspirant guide :
 
 - un stage d’alpinisme Aspirant guide.
 
-Pour l’accès au diplôme de guide de haute montagne :
+Pour l'accès au diplôme de guide de haute montagne :
+
+- un stage Canyon ;
 
 - un stage de ski de montagne Guide de haute montagne ;
 
-- un stage d’alpinisme Guide de haute montagne.
+- un stage d'alpinisme Guide de haute montagne.

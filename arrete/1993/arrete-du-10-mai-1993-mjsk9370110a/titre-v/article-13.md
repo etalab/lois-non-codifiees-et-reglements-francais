@@ -1,6 +1,6 @@
 # Article 13
 
-Pour accéder à ce stage, les candidats doivent avoir subi avec succès l’examen du stage de ski de montagne Aspirant guide.
+Pour accéder au stage d'alpinisme Aspirant guide, les candidats doivent avoir subi avec succès l'examen du stage de ski de montagne Aspirant guide et présenter une liste de canyons ainsi qu'une attestation de natation répondant aux exigences définies en annexe I bis.
 
 D’une durée de six semaines, le stage d’alpinisme Aspirant guide comporte :
 
