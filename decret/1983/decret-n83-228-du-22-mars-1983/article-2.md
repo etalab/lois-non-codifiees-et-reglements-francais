@@ -10,6 +10,6 @@ L'acte de concession qui ne vaut pas engagement de l'Etat sur la capacité produ
 
 3° Indique le montant de la redevance domaniale due à l'Etat, les modalités de sa révision, tels que déterminés par application des tarifs fixés par un arrêté du ministre chargé des domaines après avis du ministre chargé des cultures marines ; ce même arrêté prévoit les modalités de liquidation, de perception et de révision de la redevance, sa date d'exigibilité ainsi que les conditions dans lesquelles elle peut être temporairement réduite en cas de circonstances dommageables exceptionnelles donnant lieu à intervention financière de l'Etat ;
 
-4° Comporte l'obligation d'une déclaration annuelle de la production et de la situation des cultures en cours ainsi que du personnel employé ;
+4° Comporte l'obligation d'une déclaration annuelle de la production et de la situation des cultures en cours ainsi que d'une déclaration du personnel employé préalablement à la mise en activité de celui-ci.
 
 5° Indique éventuellement le droit de passage, notamment pour la desserte des concessions voisines enclavées.
