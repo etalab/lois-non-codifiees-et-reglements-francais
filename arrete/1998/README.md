@@ -807,7 +807,6 @@
 - [Arrêté du 24 août 1998 (DEFD9802007A)](arrete-du-24-aout-1998-defd9802007a)
 - [Arrêté du 24 août 1998 (MESP9822778A)](arrete-du-24-aout-1998-mesp9822778a)
 - [Arrêté du 24 août 1998 (MEST9810929A)](arrete-du-24-aout-1998-mest9810929a)
-- [Arrêté du 24 avril 1998 (DEFM9801463A)](arrete-du-24-avril-1998-defm9801463a)
 - [Arrêté du 24 avril 1998 (ECOT9851682A)](arrete-du-24-avril-1998-ecot9851682a)
 - [Arrêté du 24 avril 1998 (PRMX9802967A)](arrete-du-24-avril-1998-prmx9802967a)
 - [Arrêté du 24 décembre 1997 (AGRS9702589A)](arrete-du-24-decembre-1997-agrs9702589a)
