@@ -1,0 +1,7 @@
+# Article 34-1
+
+Les services de radiodiffusion sonore et de télévision qui ne consistent pas en la reprise intégrale et simultanée soit d'un service fourni par une société nationale mentionnée à l'article 44, soit d'un service bénéficiaire d'une autorisation en application des articles 29, 30, 31 et 65, soit d'un service soumis au régime de la concession de service public ne peuvent être distribués sur les réseaux câblés établis en application du présent chapitre qu'après qu'a été conclue avec le Conseil supérieur de l'audiovisuel une convention définissant les obligations particulières à ces services.
+
+La condition de simultanéité prévue à l'alinéa précédent n'est pas exigée lorsque le programme est mis à la disposition directe du public dans les départements d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon.
+
+Cette convention, qui ne peut être conclue qu'avec une personne morale, définit, dans le respect des règles générales fixées en application de la présente loi et notamment de son article 33, les obligations particulières au service considéré ainsi que les prérogatives et les pénalités contractuelles dont dispose le Conseil supérieur de l'audiovisuel pour assurer le respect des obligations conventionnelles. Elle peut, dans les limites fixées par le décret prévu à l'article 33, prévoir une application progressive des règles qui y sont prévues, en fonction notamment du nombre de foyers recevant ou pouvant recevoir ce service, sans que ce délai puisse toutefois excéder cinq années.
