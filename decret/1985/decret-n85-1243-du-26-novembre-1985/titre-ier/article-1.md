@@ -108,6 +108,8 @@ Ecole nationale supérieure des industries chimiques ;
 
 Ecole européenne d'ingénieurs en génie des matériaux ;
 
-Ecole supérieure d'ingénieurs des techniques de l'industrie.
+Ecole supérieure d'ingénieurs des techniques de l'industrie ;
 
 Ecole nationale supérieure en génie des systèmes industriels ;
+
+Ecole polytechnique de l'université d'Orléans.

@@ -4,7 +4,7 @@ Les demandes d'admission à concourir doivent parvenir, un mois au moins avant l
 
 En cas de concours ouvert pour pourvoir des postes dans plusieurs établissements, les candidats doivent indiquer l'ordre de leur préférence quant à leur affectation éventuelle.
 
-Ils doivent également faire connaître, dans leur demande d'admission, la branche pour laquelle ils désirent concourir.
+Ils doivent également faire connaître, dans leur demande d'admission, la branche et l'option pour laquelle ils désirent concourir.
 
 A l'appui de leur demande, les candidats doivent joindre les pièces suivantes :
 
