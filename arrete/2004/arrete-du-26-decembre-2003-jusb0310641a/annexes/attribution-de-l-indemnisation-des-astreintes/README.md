@@ -1,3 +1,0 @@
-# ATTRIBUTION DE L'INDEMNISATION DES ASTREINTES
-
-- [Article ANNEXE C](article-annexe-c.md)
