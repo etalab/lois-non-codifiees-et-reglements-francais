@@ -1,0 +1,101 @@
+# Article 1
+
+Les tarifs des abonnements aux diverses éditions publiées par les Journaux officiels sont fixés comme suit :
+
+1. Abonnements aux éditions principales dont les tables sont séparées :
+
+Lois et décrets :
+
+Trois mois : 99 F ;
+
+Six mois : 176 F ;
+
+Un an : 321 F.
+
+Associations :
+
+Un an : 86 F.
+
+Tables des lois et décrets :
+
+Douze tables mensuelles et table annuelle : 82 F.
+
+Débats de l'Assemblée nationale, compte rendu :
+
+Un an : 126 F ;
+
+Table nominative et table des matières : 61 F.
+
+Débats de l'Assemblée nationale, questions écrites :
+
+Un an : 125 F ;
+
+Table des questions : 60 F.
+
+Débats du Sénat, compte rendu :
+
+Un an : 116 F ;
+
+Table nominative et table des matières : 61 F.
+
+Débats du Sénat, questions écrites :
+
+Un an : 115 F ;
+
+Table des questions : 39 F.
+
+2. Autres abonnements :
+
+Documents administratifs :
+
+Un an : 363 F.
+
+Avis et rapports du Conseil économique et social :
+
+Un an : 240 F.
+
+Textes d'intérêt général :
+
+Un an : 334 F.
+
+Bulletin officiel des décorations, médailles et récompenses :
+
+Un an : 52 F.
+
+Bulletin des annonces légales obligatoires :
+
+Un an : 535 F.
+
+Bulletin officiel des annonces civiles et commerciales :
+
+Edition A (ventes et cessions, créations d'établissements, procédures collectives) : 323 F ;
+
+Edition B (modifications diverses, radiations) : 320 F ;
+
+Edition C (avis de dépôts des comptes des sociétés) :
+
+253 F.
+
+Bulletin officiel des annonces des marchés publics :
+
+Edition A (avis d'appels publics à la concurrence, série travaux) : 515 F ;
+
+Edition B (avis d'appels publics à la concurrence, série fournitures et prestations) : 308 F ;
+
+Edition C (avis d'attribution) : 175 F.
+
+Bulletin officiel Concurrence, consommation, répression des fraudes (BOCCRF) :
+
+Un an : 95 F.
+
+Lorsque ces éditions comportent une table annuelle, celle-ci est fournie sans supplément de prix aux abonnés.
+
+En ce qui concerne les abonnements servis à l'étranger, les prix indiqués aux alinéas 1 et 2 ci-dessus sont majorés d'un montant forfaitaire déterminé selon le tarif des taxes postales du régime international.
+
+En ce qui concerne les abonnements servis en France, il est perçu une participation forfaitaire aux frais d'expédition qui ne peut être supérieure à 80 % des tarifs postaux appliqués à l'envoi de ces publications.
+
+En outre, pour les abonnements servis dans les départements et territoires d'outre-mer par voie aérienne, sur demande de l'abonné, il est perçu une surtaxe aérienne selon les tarifs postaux en vigueur. Cette surtaxe doit être acquittée en sus de la participation forfaitaire aux frais d'expédition mentionnée à l'alinéa précédent.
+
+Les abonnements partent du premier jour du mois suivant la réception de la commande. Leur montant est payable par mandat, chèque bancaire ou chèque postal, établi à l'ordre de l'agent comptable du budget annexe des Journaux officiels.
+
+Aucune réduction n'est consentie sur le tarif des abonnements.
