@@ -1,4 +1,4 @@
-# Arrêté du 15 mars 1983 RELATIF A L'APPLICATION DU DECRET N° 82-938 DU 28 OCTOBRE 1982 CREANT UNE MEDAILLE DE LA FAMILLE FRANCAISE.
+# Décret n°83-389 du 16 mai 1983 n° 83-389 du 16 mai 1983 pris pour l'application de l'article 66 de la loi de finances pour 1983 (n° 82-1126 du 29 décembre 1982) portant création du compte d'épargne en actions.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -10,5 +10,3 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
