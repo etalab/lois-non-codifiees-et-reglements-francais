@@ -1,3 +1,3 @@
 # Article 3
 
-Les dispositions des articles 1 et 2 ci-dessus s'appliquent également à compter du 1er janvier 1985 aux chefs de travaux des universités-praticiens hospitaliers.
+Le directeur du budget au ministère de l'économie, des finances et du budget et le directeur général des collectivités locales au ministère de l'intérieur et de la décentralisation sont chargés chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

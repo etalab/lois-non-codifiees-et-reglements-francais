@@ -1,4 +1,4 @@
-# Arrêté du 9 septembre 1985 relatif aux émoluments des maîtres de conférences des universités-praticiens hospitaliers et des chefs de travaux des universités-praticiens hospitaliers.
+# Arrêté du 9 septembre 1985 fixant le montant des charges et des ressources transférées aux communes au titre des bureaux municipaux d'hygiène
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

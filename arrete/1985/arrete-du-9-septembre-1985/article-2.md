@@ -1,53 +1,7 @@
 # Article 2
 
-En application des dispositions de l'article 74 du décret n° 84-135 du 24 février 1984, les membres des personnels intégrés en qualité de maître de conférences des universités-praticien hospitalier par application des articles 72 et 73 du décret susvisé sont reclassés dans l'échelle de rémunération hospitalière visée à l'article 1er dans les conditions suivantes :
+Ces charges sont compensées par une attribution de dotation générale de décentralisation répartie entre les communes bénéficiaires au prorata de la moyenne de la participation de l'Etat à chacune d'entre elles, au titre des exercices 1981, 1982 et 1983, conformément aux dispositions du décret n° 84-1105 du 10 décembre 1984.
 
-SITUATION ancienne : 7° échelon.
+Lorsque des bureaux d'hygiène n'ont fonctionné ou n'ont bénéficié de la participation de l'Etat que pendant une partie de la période de référence, la base de référence pour le calcul de la dotation générale de décentralisation est déterminée par la participation de l'Etat au cours des deux derniers exercices ou au cours d'un exercice complet, selon le cas.
 
-SITUATION nouvelle : Après 16 ans.
-
-ANCIENNETE dans l'échelon de rémunération : sans Ancienneté.
-
-SITUATION ancienne : 6° échelon.
-
-SITUATION nouvelle : Après 13 ans.
-
-ANCIENNETE dans l'échelon de rémunération : Ancienneté conservée diminuée de 1 an.
-
-SITUATION ancienne : 5° échelon.
-
-SITUATION nouvelle : Après 10 ans.
-
-ANCIENNETE dans l'échelon de rémunération : Ancienneté conservée.
-
-SITUATION ancienne : 4° échelon.
-
-SITUATION nouvelle : Après 7 ans.
-
-ANCIENNETE dans l'échelon de rémunération : Ancienneté prise en compte pour la moitié et majorée de 18 mois.
-
-SITUATION ancienne : 3° échelon.
-
-SITUATION nouvelle : Après 7 ans.
-
-ANCIENNETE dans l'échelon de rémunération  : Ancienneté prise en compte pour la moitié.
-
-SITUATION ancienne : 2° échelon.
-
-SITUATION nouvelle : Après 4 ans.
-
-ANCIENNETE dans l'échelon de rémunération : Ancienneté conservée.
-
-SITUATION ancienne : 1er échelon.
-
-- après 1 an :
-
-SITUATION nouvelle : Après 2 ans.
-
-ANCIENNETE dans l'échelon de rémunération : Ancienneté conservée diminuée d'un an.
-
-- avant 1 an :
-
-SITUATION nouvelle : Avant 2 ans.
-
-ANCIENNETE dans l'échelon de rémunération : Ancienneté conservée majorée d'un an.
+Le montant attribué, pour 1984, à chaque commune bénéficiaire figure sur le tableau joint en annexe.
