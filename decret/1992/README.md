@@ -809,7 +809,6 @@
 - [Décret n°93-473 du 23 mars 1993 (AGRA9300280D)](decret-n93-473-du-23-mars-1993-agra9300280d)
 - [Décret n°93-474 du 23 mars 1993 (AGRA9300281D)](decret-n93-474-du-23-mars-1993-agra9300281d)
 - [Décret n°76-818 du 24 août 1976](decret-n76-818-du-24-aout-1976)
-- [Décret n°77-1288 du 24 novembre 1977](decret-n77-1288-du-24-novembre-1977)
 - [Décret n°91-1302 du 24 décembre 1991 (TEFE9104210D)](decret-n91-1302-du-24-decembre-1991-tefe9104210d)
 - [Décret n°91-99 du 24 janvier 1991 (PTTA9000999D)](decret-n91-99-du-24-janvier-1991-ptta9000999d)
 - [Décret n°92-1035 du 24 septembre 1992 (MENB9200243D)](decret-n92-1035-du-24-septembre-1992-menb9200243d)
