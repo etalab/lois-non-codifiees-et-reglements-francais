@@ -18,8 +18,6 @@ La commission, qui se réunit à l'initiative et sous la présidence du sous-dir
 
 - d'un représentant de la direction des politiques économique et internationale ;
 
-- d'un représentant du groupement des directeurs régionaux de l'agriculture et de la forêt ;
-
 - d'un représentant de l'Institut national de la recherche agronomique ;
 
 - d'un représentant de l'association des directeurs des laboratoires vétérinaires d'analyses ;

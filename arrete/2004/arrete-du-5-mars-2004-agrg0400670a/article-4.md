@@ -1,0 +1,3 @@
+# Article 4
+
+Dans les cinq jours qui suivent le traitement aérien, l'opérateur du traitement doit faire parvenir à la direction régionale de l'agriculture et de la forêt, service régional de la protection des végétaux, ou à la direction de l'agriculture et de la forêt, service de la protection des végétaux, le formulaire prévu à l'article 2 du présent arrêté, dûment rempli, ainsi que toutes informations jugées utiles par la direction régionale de l'agriculture et de la forêt, service régional de la protection des végétaux, ou à la direction de l'agriculture et de la forêt, service de la protection des végétaux, pour les départements d'outre-mer.
