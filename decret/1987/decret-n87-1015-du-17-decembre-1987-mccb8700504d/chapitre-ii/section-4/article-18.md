@@ -1,0 +1,3 @@
+# Article 18
+
+Peuvent être nommés également inspecteurs des monuments historiques de 2e classe dans la proportion d'une nomination pour neuf titularisations prononcées à l'issue des concours les fonctionnaires des catégories A et B, âgés de quarante-cinq ans au 1er janvier de l'année considérée, ayant exercé depuis dix ans des fonctions dans des services responsables du recensement et de la protection du patrimoine monumental relevant du ministère de la culture ou placés sous sa tutelle et ayant fait acte de candidature. Le ministre de la culture prononce ces nominations après inscription sur une liste d'aptitude établie après avis de la commission administrative paritaire.

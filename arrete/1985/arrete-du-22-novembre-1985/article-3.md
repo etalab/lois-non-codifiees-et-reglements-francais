@@ -1,21 +1,21 @@
 # Article 3
 
-Les épreuves d'admissibilité de chacun des concours comprennent :
+Le jury de l'examen de fin de session prévu à l'article 2 I ci-dessus comprend :
 
-A. - Epreuves communes
+- le directeur des hôpitaux ou son représentant ;
 
-1x Au choix du candidat : soit une composition rédigée en trois heures sur un sujet de droit public (programme fixé à l'annexe 1) (coefficient 2), soit une composition rédigée en trois heures sur un sujet d'économie (programme fixé à l'annexe 2) (coefficient 2).
+- le directeur général de la santé ou son représentant ;
 
-2x Le résumé et le commentaire d'un texte relatif au fonctionnement des institutions sanitaires ou sociales, ou plus généralement à la politique française dans les domaines sanitaire et social (durée : quatre heures) (coefficient 3).
+- le directeur de l'action sociale ou son représentant ;
 
-B. - Epreuves particulières
+- le directeur de l'Ecole nationale de la santé publique ou son représentant ;
 
-Pour le concours externe au choix du candidat : soit une composition portant sur la gestion comptable et financière des entreprises (programme fixé à l'annexe 3) ; soit une composition portant sur un sujet de finances publiques (programme fixé à l'annexe 4) ;
+- un professeur de l'Ecole nationale de la santé publique proposé par le directeur de l'Ecole nationale de la santé publique ;
 
-Pour le concours interne, au choix du candidat :
+- deux membres de l'enseignement supérieur ;
 
-soit une composition portant sur la gestion comptable et financière des établissements d'hospitalisation publics et des établissements sociaux publics ou à caractère public (programme fixé à l'annexe 5) ;
+- trois membres du personnel de direction des établissements énumérés à l'article L. 792 (1, 2, 3) du code de la santé publique désignés par tirage au sort sur une liste arrêtée par le ministre chargé de la santé ; le tirage au sort est effectué par le directeur des hôpitaux ou son représentant en présence de deux membres des organisations syndicales les plus représentatives de ces personnels.
 
-soit une composition portant sur un sujet de finances publiques (programme fixé à l'annexe 4).
+Les membres du jury sont nommés par arrêté du ministre chargé de la santé. Le jury est présidé par le directeur des hôpitaux ; en cas d'absence ou d'empêchement, le président est désigné par le ministre chargé de la santé.
 
-Ces épreuves qui pourront être présentées sous la forme d'une série de questions théoriques ou d'exercices pratiques, sont rédigées en trois heures (coefficient 3).
+Le secrétariat est assuré à la diligence du directeur de l'Ecole nationale de la santé publique.

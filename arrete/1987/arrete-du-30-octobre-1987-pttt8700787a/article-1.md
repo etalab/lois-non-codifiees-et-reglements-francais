@@ -1,12 +1,12 @@
 # Article 1
 
-Les tarifs des services maritime, fluvial et maritime par satellite de correspondance publique sont fixés en francs français dans le sens terre-navire et en droits de tirage spéciaux (D.T.S. 1) dans le sens navire-terre.
+Les tarifs des services maritime, fluvial et maritime par satellite de correspondance publique sont fixés en francs français dans le sens terre-navire et en droits de tirage spéciaux (D.T.S. [*) dans le sens navire-terre.
 
 Les redevances relatives aux installations de radiocommunications des stations de bord, des stations portuaires et des stations du mouvement des navires sont fixées en francs français.
 
 Les tarifs et redevances sont exprimés hors taxe.
 
-(1) droit de tirage spécial : unité du Fonds monétaire        international.
+(*]) droit de tirage spécial : unité du Fonds monétaire        international.
 
 NATURE DES CORRESPONDANCES OU DES SERVICES (prix en francs hors taxes)
 
@@ -48,7 +48,9 @@ Au plus égale à 100 km : 2 091,06 francs
 
 Supérieure à 100 km :
 
-- par 100 km (ou fraction de 100 km en plus) : 2 091,06 F
+- par 100 km (ou fraction de 100 km en plus) :
+
+2 091,06 F.
 
 Lorsqu'une autorisation est délivrée ou résiliée en cours d'année ou pour une autorisation temporaire, la redevance est perçue à raison d'un dixième lorsque l'autorisation est délivrée pour une durée de 15 jours à 1 mois, et à raison d'un vingtième lorsque l'autorisation est délivrée pour une durée inférieure ou égale à 15 jours.
 
@@ -196,6 +198,14 @@ C 203. Relations sur ondes métriques :
 
 Les redevances terrestres visées au point C sont applicables aux départements d'outre-mer, Saint-Pierre-et-Miquelon et Mayotte.
 
+C 204. Service radiotéléphonique des pêches sur ondes hectométriques.
+
+Ce service concerne les conversations échangées, dans les deux sens, entre armateurs et navires abonnés au service radiotéléphonique des pêches. La redevance prévue au paragraphe C 202 pour les ondes hectométriques est réduite de moitié. Cette réduction n'est appliquée qu'aux échanges avec un abonné de la France métropolitaine.
+
+- par minute : 6,75 (0,83 DTS)
+
+- minimum de perception : 20,25 F (2,49 DTS).
+
 C 21. Service maritime et fluvial automatique.
 
 Le service radiotéléphonique maritime et fluvial automatique sur ondes métriques permet l'établissement automatique des communications, pour tout navire muni des équipements appropriés.
@@ -204,15 +214,15 @@ C 211. Communications téléphoniques sens terre-navire.
 
 Dans le sens terre-navire, le numéro d'appel du mobile est fonction de l'interface qui gère la zone dans laquelle celui-ci évolue (6 interfaces desservent le territoire national). La communication est taxée comme suit :
 
-- facturée à l'abonné terrestre : une U.T. 1
+- facturée à l'abonné terrestre : une U.T. *
 
 toutes les 12 s.
 
-- facturée au navire : une U.T. 1 toutes
+- facturée au navire : une U.T. * toutes
 
 les 24 s. (avec franchise de 12 s)
 
-1 U.T. = unité télécom. (définie au paragraphe C 10 du décret de prix).
+* U.T. = unité télécom. (définie au paragraphe C 10 du décret de prix).
 
 C 212. Communications téléphoniques sens navire-terre.
 
@@ -328,7 +338,7 @@ E. 10. Communications téléphoniques sens terre-navire :
 
 200 UT.
 
-(1) U.T. = Unité Télécom (définie au paragraphe C 10 du décret de prix).
+(*) U.T. = Unité Télécom (définie au paragraphe C 10 du décret de prix).
 
 NATURE DES CORRESPONDANCES OU DES SERVICES
 
