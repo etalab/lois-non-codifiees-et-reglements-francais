@@ -93,6 +93,7 @@
 - [Arrêté du 4 avril 1996 (EQUA9600491A)](arrete-du-4-avril-1996-equa9600491a)
 - [Arrêté du 4 avril 1996 (TAST9610561A)](arrete-du-4-avril-1996-tast9610561a)
 - [Arrêté du 4 décembre 1995 (ENVE9540383A)](arrete-du-4-decembre-1995-enve9540383a)
+- [Arrêté du 4 décembre 1996 (JUSB9610344A)](arrete-du-4-decembre-1996-jusb9610344a)
 - [Arrêté du 4 janvier 1996 (AGRM9600148A)](arrete-du-4-janvier-1996-agrm9600148a)
 - [Arrêté du 4 janvier 1996 (AGRS9600160A)](arrete-du-4-janvier-1996-agrs9600160a)
 - [Arrêté du 4 janvier 1996 (INTD9600004A)](arrete-du-4-janvier-1996-intd9600004a)
