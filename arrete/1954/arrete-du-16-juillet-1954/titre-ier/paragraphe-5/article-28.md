@@ -1,3 +1,3 @@
 # Article 28
 
-L'intensité lumineuse des feux et la forme des plages éclairantes doivent être telles que le signal attire même en plein jour l'attention des autres usagers de la route.
+La hauteur par rapport au sol du point le plus haut de la plage éclairante des appAreils ne doit pas être supérieure à 1,50 mètre (des valeurs plus grandes peuvent être tolérées pour les véhicules pour lesquels il n'est pas possible pratiquement de respecter la limite susdite sans dépasser 2,10 mètres pour les indicateurs avant et arrière et 2,30 mètres pour les indicateurs latéraux). La hauteur, par rapport au sol, du point le plus bas de la plage éclairante ne doit pas être inférieure à 0,40 mètre pour les appareils appliqués à l'avant et à l'arrière ni inférieure à 0,50 mètre pour les apapreils latéraux. Les distances susmentionnées doivent être mesurées sur le véhicule à vide (voir figures 1 et 2 de l'annexe I).

@@ -1,3 +1,3 @@
 # Article 30
 
-Un signal avertisseur optique ou acoustique facilement perceptible par le conducteur du véhicule doit renseigner ce conducteur sur l'allumage effectif du feu le plus visible de l'arrière, à moins que le conducteur puisse s'assurer directement de cet allumage.
+Sur les remorques et semi-remorques, les dispositifs indicateurs de changement de direction doivent être de la catégorie 2. Ils doivent être tels au point de vue du nombre, position et visibilité qu'ils puissent donner des indications correspondant aux conditions horizontales de visibilité du schéma (remorques) de l'annexe I et aux conditions verticales de visibilité exigées pour les véhicules automobiles.
