@@ -1,4 +1,4 @@
-# Arrêté du 30 décembre 1986 fixant la répartition des ressources de la caisse de retraite et de prévoyance des clercs et employés de notaires entre les différents comptes ouverts dans les écritures de la caisse
+# Arrêté du 30 décembre 1986 fixant le taux de la taxe parafiscale applicable à la betterave destinée à la production de sucre et d'alcool pour la campagne 1986-1987 au profit du Fonds national de développement agricole
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
