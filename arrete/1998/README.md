@@ -280,7 +280,6 @@
 - [Arrêté du 9 décembre 1998 (ECOC9800011A)](arrete-du-9-decembre-1998-ecoc9800011a)
 - [Arrêté du 9 décembre 1998 (MESF9811320A)](arrete-du-9-decembre-1998-mesf9811320a)
 - [Arrêté du 9 décembre 1998 (MESF9811321A)](arrete-du-9-decembre-1998-mesf9811321a)
-- [Arrêté du 9 décembre 1998 (MESH9823840A)](arrete-du-9-decembre-1998-mesh9823840a)
 - [Arrêté du 9 février 1998 (FPPA9810001A)](arrete-du-9-fevrier-1998-fppa9810001a)
 - [Arrêté du 9 février 1998 (FPPA9810002A)](arrete-du-9-fevrier-1998-fppa9810002a)
 - [Arrêté du 9 février 1998 (MJSK9870031A)](arrete-du-9-fevrier-1998-mjsk9870031a)
