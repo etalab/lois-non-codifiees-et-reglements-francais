@@ -2,11 +2,9 @@
 
 Les ingénieurs d'études et de fabrications sont recrutés par voie de concours selon les modalités suivantes :
 
-1° Le concours externe est ouvert aux candidats âgés de moins de quarante ans au 1er janvier de l'année du concours et titulaires :
+1° Le concours externe est ouvert sur titres aux candidats titulaires d'un diplôme sanctionnant un deuxième cycle d'études supérieures ou d'un titre ou diplôme homologué de niveau II, ainsi qu'aux candidats titulaires d'un diplôme délivré dans un des Etats membres de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et dont l'assimilation, pour l'application du présent décret, avec l'un des diplômes mentionnés ci-dessus aura été reconnue par la commission prévue par le décret n° 94-741 du 30 août 1994 relatif à l'assimilation, pour l'accès aux concours de la fonction publique de l'Etat, des diplômes délivrés dans d'autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen.
 
-- soit d'un diplôme sanctionnant un deuxième cycle d'études supérieures ou homologué au moins au niveau II dans les conditions prévues par le décret n° 92-23 du 8 janvier 1992 relatif à l'homologation des titres et diplômes de l'enseignement technologique ;
-
-- soit d'un diplôme délivré dans un des Etats membres de l'Union européenne et dont l'assimilation avec un diplôme de deuxième cycle de l'enseignement supérieur pour l'application du présent décret aura été reconnue par la commission prévue par le décret n° 94-741 du 30 août 1994 relatif à l'assimilation pour l'accès aux concours de la fonction publique de l'Etat, des diplômes délivrés dans d'autres Etats membres de la Communauté européenne.
+Le concours comporte une épreuve d'admission consistant en un entretien avec le jury. L'arrêté portant organisation du concours peut, en outre, prévoir une épreuve d'admissibilité.
 
 Les candidats ne possédant pas un des diplômes requis mais pouvant justifier d'une formation équivalente peuvent déposer une demande spéciale de dérogation auprès d'une commission qui statue au vu de leur dossier sur leur capacité à concourir.
 

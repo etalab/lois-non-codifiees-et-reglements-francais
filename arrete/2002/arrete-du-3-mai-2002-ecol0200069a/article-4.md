@@ -2,7 +2,7 @@
 
 Les informations restituées par le traitement TDF sont :
 
-I. - Dans le cadre des finalités décrites au I de l'article 2, en ce qui concerne les allocataires, ainsi que leurs conjoints et concubins :
+I. - Dans le cadre des finalités décrites au I de l'article 2, en ce qui concerne les allocataires, ainsi que leurs conjoints, concubins ou partenaires d'un pacte civil de solidarité :
 
 - les informations issues des déclarations d'ensemble des revenus de l'année N-1 énumérées dans l'annexe au présent arrêté ;
 

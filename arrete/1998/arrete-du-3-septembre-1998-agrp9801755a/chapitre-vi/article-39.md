@@ -1,19 +1,25 @@
 # Article 39
 
-Lors de l'introduction d'un animal dans un abattoir, l'exploitant de l'établissement doit :
+L'exploitant d'un abattoir doit :
 
-- s'assurer, avant abattage, de la conformité de l'identification réalisée sur l'animal (marques auriculaires agréées et conformes à la réglementation) et que le numéro national d'identification figurant sur le passeport de cet animal correspond aux caractéristiques de l'animal qu'il vient d'introduire ;
+1. S'assurer, avant abattage de tout animal, de la conformité de son identification (marques auriculaires conformes à la réglementation) :
 
-- signaler au maître d'oeuvre de l'identification toute différence de sexe et de type racial entre les caractéristiques de l'animal et les informations présentes sur le passeport.
+- s'il s'agit d'un animal provenant du territoire français, que le numéro d'identification figurant sur les marques auriculaires correspond à celui figurant sur le passeport, le document d'accompagnement unique bovin (DAUB) ou le document d'accompagnement du bovin (DAB) ;
 
-Pour un animal en provenance directe d'un pays tiers, et qui n'a donc pas été introduit dans une exploitation située sur le territoire national ou sur le territoire d'un autre Etat membre de l'Union européenne, l'exploitant de l'abattoir doit s'assurer que son identification correspond bien à celle indiquée sur le certificat vétérinaire d'importation.
+- s'il s'agit d'un animal en provenance directe d'un Etat membre de l'Union européenne, que son numéro d'identification correspond à celui figurant sur le passeport et à celui indiqué sur le certificat sanitaire établi par un vétérinaire officiel de l'Etat membre en question.
 
-Pour un animal en provenance directe d'un autre Etat membre de l'Union européenne, et qui n'a donc pas été introduit dans une exploitation située sur le territoire national, l'exploitant de l'abattoir doit s'assurer que son identification correspond bien à celle indiquée sur le certificat vétérinaire relatif aux échanges intracommunautaires. Cette disposition pour les animaux en provenance directe d'un autre Etat membre de l'Union européenne s'applique jusqu'au 1er septembre 1999.
+- s'il s'agit d'un animal en provenance directe d'un pays tiers, que son numéro d'identification correspond à celui indiqué sur le certificat sanitaire établi par un vétérinaire officiel du pays de provenance.
 
-Toute anomalie d'identification constatée sur un animal doit être signalée aux agents d'inspection des services vétérinaires. Ces services prendront les dispositions nécessaires à la régularisation de la situation, ce qui peut les conduire à différer l'abattage ;
+2. Signaler avant l'abattage toute anomalie d'identification au service d'inspection de l'abattoir.
 
-- notifier, conformément aux dispositions prévues au chapitre IV du présent arrêté, dans les sept jours qui suivent l'abattage de l'animal, son numéro national d'identification et la date de son abattage ;
+3. Notifier dans les sept jours qui suivent l'abattage ou la mort, conformément aux dispositions prévues au chapitre IV du présent arrêté :
 
-- transmettre au directeur des services vétérinaires les passeports des animaux abattus ;
+- pour chaque animal abattu, mort dans l'enceinte de l'abattoir avant son abattage, trouvé mort au déchargement ou euthanasié à l'issue de l'inspection ante mortem, son numéro d'identification comportant le code pays, qu'il soit originaire ou en provenance du territoire français, d'un Etat membre de l'Union européenne ou d'un pays tiers ;
 
-- collecter toutes les marques auriculaires des animaux et en assurer la destruction, selon une procédure offrant les garanties ad hoc.
+- pour tout animal en provenance d'une exploitation d'élevage située sur le territoire français, le numéro de cette exploitation figurant sur le passeport, le DAUB ou le DAB, ou celle figurant sur l'attestation sanitaire à déclaration anticipée (ASDA) ou le laissez-passer sanitaire ;
+
+- la date d'abattage ou de la mort ;
+
+- l'identification de l'abattoir et, le cas échéant, d'autres informations définies dans un cahier des charges approuvé par le ministre en charge de l'agriculture.
+
+4. Récupérer le passeport, le DAUB ou le DAB de l'animal abattu, mort ou euthanasié, et le transmettre au directeur départemental des services vétérinaires.

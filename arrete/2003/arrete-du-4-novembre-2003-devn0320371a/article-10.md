@@ -28,7 +28,7 @@ Arrêté relatif à la police de la chasse dans le département de l'Aveyron du 
 
 Arrêté relatif à la police de la chasse dans le département des Bouches-du-Rhône du 12 janvier 1989 ;
 
-Arrêté relatif à la police de la chasse dans le département du Calvados du 16 janvier 1989 ;
+Arrêté relatif à la police de la chasse dans le département du Calvados du 9 août 1989 ;
 
 Arrêté relatif à la police de la chasse dans le département du Cantal du 12 janvier 1989 ;
 

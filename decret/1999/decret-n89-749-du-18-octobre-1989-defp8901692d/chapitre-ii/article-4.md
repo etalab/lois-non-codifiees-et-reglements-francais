@@ -4,11 +4,11 @@ Les techniciens supérieurs d'études et de fabrications sont recrutés selon le
 
 1° Parmi les anciens élèves des écoles techniques normales du ministère de la défense admis par la voie d'un concours commun organisé pour l'accès à ces écoles et ayant satisfait aux examens de sortie ;
 
-2° Par concours ouvert aux candidats âgés de quarante ans au plus au 1er janvier de l'année du concours titulaires d'un diplôme universitaire de technologie, d'un brevet de technicien supérieur ou d'un diplôme homologué au moins au niveau III dans les conditions prévues par le décret n° 92-23 du 8 janvier 1992 relatif à l'homologation des titres et diplômes de l'enseignement technologique ;.
+2° Par concours sur titres ouvert aux candidats titulaires d'un diplôme universitaire de technologie, d'un brevet de technicien supérieur ou d'un diplôme homologué de niveau III, ainsi qu'aux candidats titulaires d'un diplôme délivré dans un des Etats membres de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen et dont l'assimilation, pour l'application du présent décret, avec l'un des diplômes mentionnés ci-dessus aura été reconnue par la commission prévue par le décret n° 94-741 du 30 août 1994 relatif à l'assimilation, pour l'accès aux concours de la fonction publique de l'Etat, des diplômes délivrés dans d'autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen.
+
+Le concours comporte une épreuve d'admission consistant en un entretien avec le jury. L'arrêté portant organisation du concours peut, en outre, prévoir une épreuve d'admissibilité.
 
 3° Par concours ouvert aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, ainsi qu'aux militaires ; les candidats doivent, au 1er janvier de l'année du concours, réunir quatre années au moins de services effectifs.
-
-La proportion des emplois offerts au titre, d'une part, des modalités définies au 1° et au 2° ci-dessus, d'autre part, au titre du 3° est fixée respectivement à 75 p. 100 et à 25 p. 100 [*pourcentage*] . Un arrêté du ministre détermine le nombre des emplois offerts au titre du 1° et du 2° respectivement.
 
 La liste complémentaire établie pour chacun des concours ne peut comporter un nombre de candidats supérieur au nombre des emplois offerts au titre de ce concours.
 
