@@ -587,6 +587,7 @@
 - [Décret n°96-34 du 15 janvier 1996 (AGRA9502189D)](decret-n96-34-du-15-janvier-1996-agra9502189d)
 - [Décret n°96-35 du 15 janvier 1996 (AGRA9502190D)](decret-n96-35-du-15-janvier-1996-agra9502190d)
 - [Décret n°96-36 du 15 janvier 1996 (AGRA9502191D)](decret-n96-36-du-15-janvier-1996-agra9502191d)
+- [Décret n°95-1108 du 16 octobre 1995 (ECOT9526148D)](decret-n95-1108-du-16-octobre-1995-ecot9526148d)
 - [Décret n°95-160 du 16 février 1995 (SPSH9403916D)](decret-n95-160-du-16-fevrier-1995-spsh9403916d)
 - [Décret n°95-165 du 16 février 1995 (SPSS9500279D)](decret-n95-165-du-16-fevrier-1995-spss9500279d)
 - [Décret n°95-169 du 16 février 1995 (MENF9500035D)](decret-n95-169-du-16-fevrier-1995-menf9500035d)
