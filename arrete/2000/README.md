@@ -21,6 +21,7 @@
 - [Arrêté du 17 novembre 2000 (DEFP0002250A)](arrete-du-17-novembre-2000-defp0002250a)
 - [Arrêté du 17 octobre 2000 (DEFP0002253A)](arrete-du-17-octobre-2000-defp0002253a)
 - [Arrêté du 19 octobre 2000 (MENG0002754A)](arrete-du-19-octobre-2000-meng0002754a)
+- [Arrêté du 20 novembre 2000 (MENE0002876A)](arrete-du-20-novembre-2000-mene0002876a)
 - [Arrêté du 22 novembre 2000 (MAEA0020511A)](arrete-du-22-novembre-2000-maea0020511a)
 - [Arrêté du 23 novembre 2000 (AGRG0002363A)](arrete-du-23-novembre-2000-agrg0002363a)
 - [Arrêté du 23 novembre 2000 (INTA0000664A)](arrete-du-23-novembre-2000-inta0000664a)

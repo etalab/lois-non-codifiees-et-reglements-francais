@@ -1,8 +1,8 @@
 # Article 6
 
-Le service du matériel de l'armée de terre administre, gère, stocke et élimine les matériels techniques qui relèvent de sa compétence, ainsi que les munitions et les rechanges associés.
+Le service du matériel de l'armée de terre administre, gère, stocke et élimine les matériels visés à l'article 1er du présent décret, ainsi que les munitions et les rechanges associés.
 
-Il définit les règles de gestion, d'administration et de maintenance des matériels techniques, des rechanges et des munitions.
+Il définit les règles de gestion, d'administration et de maintenance des matériels, des rechanges et des munitions.
 
 Il fait appliquer ces règles ainsi que celles de comptabilité des matériels.
 
