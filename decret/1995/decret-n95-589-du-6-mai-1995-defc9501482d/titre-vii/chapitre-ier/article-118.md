@@ -6,9 +6,7 @@ La mesure d'interdiction du e de l'article 49 de présenter les munitions de 5e 
 
 2° Les détenteurs âgés de dix-huit ans au moins, à la date de publication du présent décret, d'armes visées au paragraphe 8 du I de la 4e catégorie de l'article 2 susvisé sont autorisés à continuer de les détenir à condition de les déclarer, et à acquérir les munitions correspondantes.
 
-La déclaration sera faite au préfet du lieu de domicile dans le délai d'un an qui suit la date de publication du présent décret accompagnée de la justification de la détention des armes à cette date par tous moyens.
-
-Les mineurs de plus de seize ans qui réunissent les conditions du 4° de l'article 23 ci-dessus sont autorisés à détenir leurs armes dans les mêmes conditions.
+La déclaration sera faite au préfet du lieu de domicile avant le 31 décembre 1996, accompagnée de la justification, par tous moyens, de la détention avant le 8 mai 1995 de ces armes.    Les mineurs de plus de seize ans qui réunissent les conditions du 4° de l'article 23 ci-dessus sont autorisés à détenir leurs armes dans les mêmes conditions.
 
 Il en est délivré récépissé conformément au modèle fixé par l'arrêté prévu à l'article 121 ci-dessous.
 
