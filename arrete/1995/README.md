@@ -778,7 +778,6 @@
 - [Arrêté du 17 octobre 1995 (INTD9500602A)](arrete-du-17-octobre-1995-intd9500602a)
 - [Arrêté du 17 octobre 1995 (MENU9502287A)](arrete-du-17-octobre-1995-menu9502287a)
 - [Arrêté du 17 septembre 1995 (JUSE9540071A)](arrete-du-17-septembre-1995-juse9540071a)
-- [Arrêté du 17 septembre 1995 (SANH9502724A)](arrete-du-17-septembre-1995-sanh9502724a)
 - [Arrêté du 18 août 1995 (ECOK9500036A)](arrete-du-18-aout-1995-ecok9500036a)
 - [Arrêté du 18 août 1995 (ECOT9510244A)](arrete-du-18-aout-1995-ecot9510244a)
 - [Arrêté du 18 août 1995 (ILEA9502533A)](arrete-du-18-aout-1995-ilea9502533a)
