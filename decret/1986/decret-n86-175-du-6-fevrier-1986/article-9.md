@@ -4,7 +4,7 @@ Le versement des aides autres que celles visées au b du 1° et aux c et e du 2�
 
 Le versement des aides prévues au e du 2° de l'article 1er est effectué après examen d'un dossier présenté au Centre national de la cinématographie selon des modalités précisées par l'arrêté du ministre chargé de la culture.
 
-Les aides versées pour la préparation et pour la production d'une oeuvre ne peuvent être supérieures à 40 p. 100 [*limite - pourcentage*] du coût définitif de l'oeuvre ou de la participation française en cas de coproduction internationale. Elles ne sont pas cumulables avec les avances attribuées en application du décret n° 84-467 du 15 juin 1984.
+Les aides versées pour la préparation et pour la production d'une oeuvre ne peuvent être supérieures à 40 p. 100 [*limite - pourcentage*] du coût définitif de l'oeuvre ou de la participation française en cas de coproduction internationale sauf en ce qui concerne l'aide prévue à l'article 7 bis (2°). Elles ne sont pas cumulables avec les avances attribuées en application du décret n° 84-467 du 15 juin 1984.
 
 La décision d'autorisation prévoit les modalités de versement des subventions ou avances et notamment l'échéancier des versements.
 
