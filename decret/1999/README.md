@@ -1,7 +1,6 @@
 # 1999
 
 - [Décret du 1 octobre 1999 (ATEN9970055D)](decret-du-1-octobre-1999-aten9970055d)
-- [Décret n°2000-743 du 1 août 2000 (PRMX0004282D)](decret-n2000-743-du-1-aout-2000-prmx0004282d)
 - [Décret n°2000-746 du 1 août 2000 (ECOP0000097D)](decret-n2000-746-du-1-aout-2000-ecop0000097d)
 - [Décret n°99-1006 du 1 décembre 1999 (MESS9923581D)](decret-n99-1006-du-1-decembre-1999-mess9923581d)
 - [Décret n°99-1009 du 1 décembre 1999 (ECOP9900725D)](decret-n99-1009-du-1-decembre-1999-ecop9900725d)
@@ -96,7 +95,6 @@
 - [Décret n°99-701 du 3 août 1999 (MESG9922061D)](decret-n99-701-du-3-aout-1999-mesg9922061d)
 - [Décret n°99-705 du 3 août 1999 (DEFE9955024D)](decret-n99-705-du-3-aout-1999-defe9955024d)
 - [Décret n°99-706 du 3 août 1999 (JUSD9930105D)](decret-n99-706-du-3-aout-1999-jusd9930105d)
-- [Décret n°99-707 du 3 août 1999 (INTC9900179D)](decret-n99-707-du-3-aout-1999-intc9900179d)
 - [Décret n°99-708 du 3 août 1999 (INTC9900180D)](decret-n99-708-du-3-aout-1999-intc9900180d)
 - [Décret n°99-710 du 3 août 1999 (ECOT9926241D)](decret-n99-710-du-3-aout-1999-ecot9926241d)
 - [Décret n°99-711 du 3 août 1999 (MESW9911053D)](decret-n99-711-du-3-aout-1999-mesw9911053d)
