@@ -865,7 +865,6 @@
 - [Décret n°97-449 du 29 avril 1997 (MCCK9700255D)](decret-n97-449-du-29-avril-1997-mcck9700255d)
 - [Décret n°97-76 du 29 janvier 1997 (JUSA9600311D)](decret-n97-76-du-29-janvier-1997-jusa9600311d)
 - [Décret n°97-806 du 29 août 1997 (EQUC9701026D)](decret-n97-806-du-29-aout-1997-equc9701026d)
-- [Décret n°97-808 du 29 août 1997 (AGRG9700842D)](decret-n97-808-du-29-aout-1997-agrg9700842d)
 - [Décret n°97-884 du 29 septembre 1997 (ECOU9700003D)](decret-n97-884-du-29-septembre-1997-ecou9700003d)
 - [Décret n°97-94 du 29 janvier 1997 (BUDF9700001D)](decret-n97-94-du-29-janvier-1997-budf9700001d)
 - [Décret n°97-999 du 29 octobre 1997 (EQUX9700122D)](decret-n97-999-du-29-octobre-1997-equx9700122d)
