@@ -1,6 +1,6 @@
 # Article 8-1
 
-Le fonds pour la modernisation des établissements de santé publics et privés finance des opérations de modernisation agréées par le directeur de l'agence régionale de l'hospitalisation compétent dans le respect du schéma régional d'organisation sanitaire.
+Le fonds pour la modernisation des établissements de santé publics et privés finance des opérations de modernisation ayant fait l'objet d'un agrément ou d'une décision attributive de subvention du directeur de l'agence régionale de l'hospitalisation compétent dans le respect du schéma régional d'organisation sanitaire.
 
 Sont éligibles à un financement par le fonds, dans les conditions fixées aux articles 8-2 à 8-5 :
 
