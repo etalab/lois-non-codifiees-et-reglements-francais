@@ -112,6 +112,7 @@
 - [Arrêté du 11 mars 1988 (BUDB8830008A)](arrete-du-11-mars-1988-budb8830008a)
 - [Arrêté du 11 mars 1988 (INDS8700882A)](arrete-du-11-mars-1988-inds8700882a)
 - [Arrêté du 12 avril 1988 (ASES8800543A)](arrete-du-12-avril-1988-ases8800543a)
+- [Arrêté du 12 avril 1988 (MENE8800587A)](arrete-du-12-avril-1988-mene8800587a)
 - [Arrêté du 12 avril 1988 (MERG8800070A)](arrete-du-12-avril-1988-merg8800070a)
 - [Arrêté du 12 avril 1988 (STFG8800547A)](arrete-du-12-avril-1988-stfg8800547a)
 - [Arrêté du 12 février 1988 (ASEP8800245A)](arrete-du-12-fevrier-1988-asep8800245a)
