@@ -314,7 +314,6 @@
 - [Arrêté du 9 mars 1998 (ECOL9800059A)](arrete-du-9-mars-1998-ecol9800059a)
 - [Arrêté du 9 mars 1998 (MESP9820905A)](arrete-du-9-mars-1998-mesp9820905a)
 - [Arrêté du 9 novembre 1998 (AGRG9801056A)](arrete-du-9-novembre-1998-agrg9801056a)
-- [Arrêté du 9 novembre 1998 (ECOC9800124A)](arrete-du-9-novembre-1998-ecoc9800124a)
 - [Arrêté du 9 novembre 1998 (ECOT9820099A)](arrete-du-9-novembre-1998-ecot9820099a)
 - [Arrêté du 9 novembre 1998 (INTB9800428A)](arrete-du-9-novembre-1998-intb9800428a)
 - [Arrêté du 9 novembre 1998 (MENS9802863A)](arrete-du-9-novembre-1998-mens9802863a)
