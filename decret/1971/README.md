@@ -30,6 +30,7 @@
 - [Décret n°71-753 du 10 septembre 1971](decret-n71-753-du-10-septembre-1971)
 - [Décret n°71-754 du 10 septembre 1971](decret-n71-754-du-10-septembre-1971)
 - [Décret n°71-755 du 10 septembre 1971](decret-n71-755-du-10-septembre-1971)
+- [Décret n°71-918 du 10 novembre 1971](decret-n71-918-du-10-novembre-1971)
 - [Décret n°71-688 du 11 août 1971](decret-n71-688-du-11-aout-1971)
 - [Décret n°71-689 du 11 août 1971](decret-n71-689-du-11-aout-1971)
 - [Décret n°71-570 du 13 juillet 1971](decret-n71-570-du-13-juillet-1971)
