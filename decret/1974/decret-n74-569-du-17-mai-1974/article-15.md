@@ -1,0 +1,3 @@
+# Article 15
+
+Les opérations visées aux 1e, 2e et 3e de l'article 1er du présent décret et à réaliser sans la participation financière de l'Etat sont soumises aux conditions d'approbation définies à l'article précédent. Toutefois, s'il s'agit d'opérations classées en catégorie I et dont l'estimation n'excède pas un coût maximum fixé par l'arrêté du ministre de l'économie et des finances et du ministre chargé de la santé publique en fonction de la nature de la dépense et de la catégorie de l'établissement maître de l'ouvrage, les phases d'étude énumérées à l'article 3 (5e, 6e, 7e et 8e) du présent décret sont approuvées dans les conditions fixées à l'article précédent concernant les investissements classés dans les catégories II, III et I.

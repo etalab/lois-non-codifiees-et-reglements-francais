@@ -1,6 +1,8 @@
-# Arrêté du 16 mai 1974 relatif au classement et à l'échelonnement indiciaires des préparateurs en pharmacie (cadre permanent) et techniciens de laboratoire des établissements d'hospitalisation, de soins ou de cure publics.
+# Arrêté du 16 mai 1974 fixant les modèles de livret de famille
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
 - [Annexes](annexes)
