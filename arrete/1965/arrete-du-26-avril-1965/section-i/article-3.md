@@ -4,7 +4,7 @@ Le jury de chaque examen est composé comme suit :
 
 1) Le directeur général, directeur ou directeur économe de l'établissement ou son représentant, président.
 
-2) Un représentant du service départemental des mines désigné par le préfet.
+2) Un représentant du service départemental des inspecteurs du permis de conduire désigné par le préfet.
 
 3) Un professeur d'enseignement technique désigné par le préfet.
 
