@@ -4,38 +4,42 @@ La commission des équipements de sécurité civile est composée :
 
 1° Au titre de l'administration :
 
-- du directeur de la sécurité civile ;
+- du directeur de la défense et de la sécurité civiles ;
 
 - du sous-directeur des services de secours et des sapeurs-pompiers ;
 
-- du chef du bureau d'études et de liaison ;
+- du chef du bureau des relations industrielles ;
 
 - d'un représentant du ministre chargé de l'industrie ;
 
-- d'un représentant du ministre chargé de l'économie.
+- d'un représentant du ministre chargé de l'économie et des finances ;
 
-2° Au titre des industriels spécialisés dans les équipements de sécurité civile :
+- d'un représentant du ministre chargé du travail.
 
-- du président de la Fédération nationale des fabricants de fournitures administratives civiles et militaires (Facim) ;
+2° Au titre des industriels spécialisés dans les matériels de sécurité civile :
 
-- du président du syndicat national des matériels de protection (Synamap) ;
+- du président de la Fédération nationale des fabricants de fournitures administratives civiles et militaires (FACIM) ;
 
-- du président de la Fédération nationale de l'industrie de la chaussure de France (F.N.I.C.F.) ;
+- du président du Syndicat national des matériels de protection (SYNAMAP) ;
 
-- de deux membres de la Fédération nationale des fabricants de fournitures administratives civiles et militaires (Facim), et du syndicat national des matériels de protection (Synamap), désignés par le ministre de l'intérieur, sur proposition de leur président respectif.
+- du président de la Fédération française de la chaussure (FFC) ;
+
+- d'un membre de la Fédération nationale des fabricants de fournitures administratives civiles et militaires, désigné par le ministre de l'intérieur sur proposition du président de la Fédération nationale des fabricants de fournitures administratives civiles et militaires ;
+
+- de deux membres du Syndicat national des matériels de protection, désignés par le ministre de l'intérieur sur proposition du président du Syndicat national des matériels de protection.
 
 3° Au titre des utilisateurs :
 
-- du chef du bureau de l'équipement de la direction de la sécurité civile ;
+- du chef du bureau du soutien opérationnel et logistique de la direction de la défense et de la sécurité civiles ;
 
 - du président de la Fédération nationale des sapeurs-pompiers français ;
 
+- du président de l'association des présidents des services d'incendie et de secours ;
+
 - du président de l'Association nationale des directeurs départementaux des services d'incendie et de secours ;
 
-- du général commandant la brigade de sapeurs-pompiers de Paris ;
+- du général, commandant la brigade de sapeurs-pompiers de Paris ;
 
 - du commandant du bataillon des marins-pompiers de Marseille.
-
-Le directeur de l'Afnor siège au sein de cette commission avec voix délibérative.
 
 Chaque membre de la commission peut se faire représenter.

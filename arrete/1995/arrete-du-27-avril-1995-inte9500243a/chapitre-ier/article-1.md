@@ -1,9 +1,9 @@
 # Article 1
 
-Il est créé auprès du ministre de l'intérieur et de l'aménagement du territoire la commission des matériels de sécurité civile qui a pour missions de :
+Il est créé, auprès du ministre de l'intérieur, la commission des matériels de sécurité civile qui a pour missions de :
 
-1° Vérifier les caractéristiques propres à garantir l'aptitude à l'emploi des matériels neufs de sécurité civile ;
+1° Vérifier les caractéristiques propres à garantir l'aptitude à la mission et aux modes opératoires des matériels neufs de sécurité civile, compte tenu de leurs performances et de la réglementation nationale définies dans des référentiels techniques approuvés par le ministre de l'intérieur ;
 
-2° Donner un avis au ministre sur les éventuelles demandes d'agrément des matériels de sécurité civile en vue de leur emploi dans les services d'incendie et de secours et les unités militaires spécialisées ;
+2° Donner un avis au ministre sur l'opportunité de référencer un matériel dans le catalogue des matériels et équipements de sécurité civile reconnus aptes à la mission et aux modes opératoires des services d'incendie et de secours et des unités militaires spécialisées et préconisés par la direction de la défense et de la sécurité civiles ;
 
 3° Se prononcer sur toutes questions relatives aux matériels de sécurité civile qui lui sont soumises.

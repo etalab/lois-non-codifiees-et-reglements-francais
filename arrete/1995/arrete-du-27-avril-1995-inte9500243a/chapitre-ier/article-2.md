@@ -2,42 +2,44 @@
 
 La commission des matériels de sécurité civile est composée :
 
-1. Au titre de l'administration
+1° Au titre de l'administration :
 
-Du directeur de la sécurité civile ;
+- du directeur de la défense et de la sécurité civiles ;
 
-Du sous-directeur des services de secours et des sapeurs-pompiers ;
+- du sous-directeur des services de secours et des sapeurs-pompiers ;
 
-Du chef du bureau d'études et de liaison ;
+- du chef du bureau des relations industrielles ;
 
-D'un représentant du ministre chargé de l'industrie ;
+- d'un représentant du ministre chargé de l'industrie ;
 
-D'un représentant du ministre chargé de l'économie.
+- d'un représentant du ministre chargé de l'économie et des finances ;
 
-2. Au titre des industriels spécialisés
+- d'un représentant du ministre chargé du travail.
 
-dans les matériels de sécurité civile
+2° Au titre des industriels spécialisés dans les matériels de sécurité civile :
 
-Du président de la Fédération française du matériel d'incendie.
+- du président de la Fédération française du matériel d'incendie ;
 
-Du président de la chambre syndicale des constructeurs de matériels motorisés d'incendie.
+- du président de la Chambre syndicale des constructeurs de matériels motorisés d'incendie ;
 
-Du président de l'Association française de tuyaux et robinetterie d'incendie.
+- du président de l'Association française de tuyaux et robinetterie d'incendie ;
 
-De deux membres de la Fédération française du matériel d'incendie, désignés par le ministre de l'intérieur et de l'aménagement du territoire.
+- du président de la Chambre syndicale nationale des carrossiers et constructeurs de semi-remorques et conteneurs ;
 
-3. Au titre des utilisateurs
+- de deux membres de la Fédération française du matériel d'incendie désignés par le ministre de l'intérieur sur proposition du président de la Fédération française du matériel d'incendie.
 
-Du chef du bureau de l'équipement de la direction de la sécurité civile.
+3° Au titre des utilisateurs :
 
-Du président de la Fédération nationale des sapeurs-pompiers français.
+- du chef du bureau du soutien opérationnel et logistique de la direction de la défense et de la sécurité civiles ;
 
-Du président de l'Association nationale des directeurs départementaux des services d'incendie et de secours.
+- du président de la Fédération nationale des sapeurs-pompiers français ;
 
-Du général, commandant la brigade de sapeurs-pompiers de Paris.
+- du président de l'Association des présidents des services d'incendie et de secours ;
 
-Du commandant du bataillon des marins-pompiers de Marseille.
+- du président de l'Association nationale des directeurs départementaux des services d'incendie et de secours ;
 
-Le directeur de l'Afnor siège au sein de cette commission avec voix délibérative.
+- du général commandant la brigade de sapeurs-pompiers de Paris ;
+
+- du commandant du bataillon des marins-pompiers de Marseille.
 
 Chaque membre de la commission peut se faire représenter.
