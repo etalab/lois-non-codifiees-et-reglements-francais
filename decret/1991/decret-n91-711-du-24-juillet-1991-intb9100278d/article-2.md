@@ -5,3 +5,5 @@ La nouvelle bonification indiciaire est versée à compter :
 a) Du 1er août 1990 pour les fonctionnaires mentionnés du 1° au 6° de l'article 1er ;
 
 b) Du 1er août 1991 pour les fonctionnaires mentionnés au 7° de cet article.
+
+c) Du 1er septembre 1992, date d'application des décrets n° 92-841 du 28 août 1992 portant statut particulier du cadre d'emplois des conseillers socio-éducatifs et n° 92-857 du 28 août 1992 portant statut particulier du cadre d'emplois des coordinatrices de crèches, pour les fonctionnaires mentionnés aux 8° et 9° dudit article. "
