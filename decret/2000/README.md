@@ -117,7 +117,6 @@
 - [Décret n°2000-981 du 6 octobre 2000 (JUSA0000116D)](decret-n2000-981-du-6-octobre-2000-jusa0000116d)
 - [Décret n°2000-988 du 6 octobre 2000 (ATEG0080069D)](decret-n2000-988-du-6-octobre-2000-ateg0080069d)
 - [Décret n°94-360 du 6 mai 1994 (RESM9400598D)](decret-n94-360-du-6-mai-1994-resm9400598d)
-- [Décret n°95-569 du 6 mai 1995 (SPSH9501452D)](decret-n95-569-du-6-mai-1995-spsh9501452d)
 - [Décret n°95-636 du 6 mai 1995 (ENVN9530042D)](decret-n95-636-du-6-mai-1995-envn9530042d)
 - [Décret du 7 juillet 2000 (ATEN0080012D)](decret-du-7-juillet-2000-aten0080012d)
 - [Décret du 7 juin 2000 (AGRP0000285D)](decret-du-7-juin-2000-agrp0000285d)
