@@ -1,0 +1,3 @@
+# Article Annexe II art. 1
+
+Les permis d'explorer, les permis d'exploitation forestière, les permis spéciaux d'exploitation en vue de l'extraction de l'essence et de la récolte de gommes, les permis de récolte ainsi que les ventes amiables de bois à l'unité de produit dans les forêts domaniales situées dans le département de la Guyane sont accordés au nom de l'Etat et de l'office national des forêts en application du décret n° 68-449 du 15 mai 1968 relatif à l'octroi de permis forestier et aux ventes de coupes dans le département de la Guyane, de l'arrêté du 29 novembre 1976, pris pour son application, et selon les règles et conditions fixées par la présente réglementation et le cahier des charges qui y est joint.
