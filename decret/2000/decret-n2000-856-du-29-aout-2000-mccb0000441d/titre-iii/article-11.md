@@ -1,0 +1,3 @@
+# Article 11
+
+Le ministre chargé de la culture peut décider de radier de l'inventaire du Fonds national d'art contemporain des oeuvres ou objets d'art pour les faire inscrire sur celui d'un service de l'Etat ou d'un établissement public national conservant des collections publiques appartenant à l'Etat, qui en aura fait la demande. Cette décision est prise après avis d'une commission de reversement présidée par le ministre chargé de la culture et comprenant des représentants des services gestionnaires des collections nationales relevant du ministère de la culture et des personnalités qualifiées désignées par le ministre chargé de la culture. La composition et les modalités de fonctionnement de la commission sont définies par arrêté du ministre chargé de la culture.
