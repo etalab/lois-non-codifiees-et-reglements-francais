@@ -511,7 +511,6 @@
 - [Décret n°86-1393 du 31 décembre 1986](decret-n86-1393-du-31-decembre-1986)
 - [Décret n°86-1400 du 31 décembre 1986](decret-n86-1400-du-31-decembre-1986)
 - [Décret n°86-1403 du 31 décembre 1986](decret-n86-1403-du-31-decembre-1986)
-- [Décret n°86-1405 du 31 décembre 1986](decret-n86-1405-du-31-decembre-1986)
 - [Décret n°86-1406 du 31 décembre 1986](decret-n86-1406-du-31-decembre-1986)
 - [Décret n°86-1408 du 31 décembre 1986](decret-n86-1408-du-31-decembre-1986)
 - [Décret n°86-1413 du 31 décembre 1986](decret-n86-1413-du-31-decembre-1986)
