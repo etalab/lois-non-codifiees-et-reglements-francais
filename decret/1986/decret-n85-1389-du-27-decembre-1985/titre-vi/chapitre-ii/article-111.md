@@ -8,7 +8,7 @@ Dans un délai de cinq ans à compter de l'entrée en vigueur de la loi n° 85-9
 
 3° A la profession de notaire sans être titulaires des titres ou diplômes exigés au 5° de l'article 3 du décret n° 73-609 du 5 juillet 1973 relatif à la formation professionnelle dans le notariat et aux conditions d'accès aux fonctions de notaire ;
 
-4° A la profession de commissaire-priseur sans être titulaires des titres et diplômes exigés au 5° de l'article 2 du décret n° 73-541 du 19 juin 1973 relatif à la formation professionnelle des commissaires-priseurs et aux conditions d'accès à cette profession ;
+4° A la profession de commissaire-priseur judiciaire sans être titulaires des titres et diplômes exigés au 5° de l'article 2 du décret n° 73-541 du 19 juin 1973 relatif à la formation professionnelle des commissaires-priseurs judiciaires et aux conditions d'accès à cette profession ;
 
 5° A la profession d'huissier de justice sans être titulaires des titres ou diplômes exigés au 5° de l'article Ier du décret n° 75-770 du 14 août 1975 relatif aux conditions d'accès à la profession d'huissier de justice ;
 
