@@ -440,7 +440,6 @@
 - [Arrêté du 9 mai 1995 (SPSH9501535A)](arrete-du-9-mai-1995-spsh9501535a)
 - [Arrêté du 9 mai 1995 (SPSS9501234A)](arrete-du-9-mai-1995-spss9501234a)
 - [Arrêté du 9 mai 1995 (SPSS9501500A)](arrete-du-9-mai-1995-spss9501500a)
-- [Arrêté du 9 mai 1995 (SPSS9501561A)](arrete-du-9-mai-1995-spss9501561a)
 - [Arrêté du 10 août 1994 (EQUA9401424A)](arrete-du-10-aout-1994-equa9401424a)
 - [Arrêté du 10 avril 1995 (BUDB9530024A)](arrete-du-10-avril-1995-budb9530024a)
 - [Arrêté du 10 avril 1995 (ENVE9540121A)](arrete-du-10-avril-1995-enve9540121a)
