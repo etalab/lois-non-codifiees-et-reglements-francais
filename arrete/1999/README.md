@@ -133,7 +133,6 @@
 - [Arrêté du 6 janvier 1999 (MESM9822837A)](arrete-du-6-janvier-1999-mesm9822837a)
 - [Arrêté du 6 juillet 1999 (EQUH9900995A)](arrete-du-6-juillet-1999-equh9900995a)
 - [Arrêté du 6 juillet 1999 (MESN9921727A)](arrete-du-6-juillet-1999-mesn9921727a)
-- [Arrêté du 6 juillet 1999 (PRMX9903642A)](arrete-du-6-juillet-1999-prmx9903642a)
 - [Arrêté du 6 juillet 1999 (PRMX9903644A)](arrete-du-6-juillet-1999-prmx9903644a)
 - [Arrêté du 6 septembre 1999 (ATEE9980280A)](arrete-du-6-septembre-1999-atee9980280a)
 - [Arrêté du 6 septembre 1999 (DEFE9901894A)](arrete-du-6-septembre-1999-defe9901894a)
