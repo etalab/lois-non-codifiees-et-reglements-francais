@@ -52,37 +52,25 @@ Responsable de la gestion comptable au Centre de formation de personnels du mini
 
 Contrôleur de pépinière.
 
-DATE D'EFFET : 1er AOÛT 1995
+DATE D'EFFET : 1er AOÛT 1996
 
-1° Fonctions exercées dans les services déconcentrés du ministère de l'agriculture, de la pêche et de l'alimentation :
+Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire :
 
-Technicien du ministère chargé de l'agriculture, spécialité Vétérinaire, chargé d'enseignement au Centre national de formation des techniciens des services vétérinaires.
+Fonctions exercées dans les établissements d'enseignement technique agricole et dans les établissements d'enseignement supérieur agricole et vétérinaire :
 
-2° Fonctions exercées dans les établissements d'enseignement technique agricole et dans les établissements d'enseignement supérieur agricole et vétérinaire :
+1° Etablissements d'enseignement supérieur agricole et vétérinaire :
 
-Chef d'atelier dans les établissements d'enseignement supérieur agricole et vétérinaire ;
+- responsable d'un service commun interécoles ;
 
-Responsable de l'encadrement administratif dans les établissements d'enseignement supérieur agricole et vétérinaire (à l'exception des personnels détachés sur statut d'emploi) ;
+- responsable d'un service administratif, comptable, logistique ou technique ou du service de la formation continue dans les établissements d'enseignement supérieur agricole et vétérinaire (à l'exception des personnels détachés sur statut d'emploi) ;
 
-Responsable technique dans les établissements d'enseignement supérieur agricole et vétérinaire (encadrement, équipements scientifiques lourds ou dangereux) ;
+- responsable technique ou logistique dans les établissements d'enseignement supérieur agricole et vétérinaire (encadrement, équipements scientifiques lourds ou dangereux, ateliers) ;
 
-Agent exerçant les fonctions d'agent comptable à temps plein dans les établissements d'enseignement supérieur agricole et vétérinaire ;
+2° Etablissements d'enseignement technique agricole :
 
-Responsable de cuisine des établissements d'enseignement agricole ;
+- infirmières des établissements publics d'enseignement technique agricole logées par nécessité absolue de service ;
 
-Responsable de la gestion dans les établissements publics locaux et nationaux d'enseignement technique agricole (lycées, lycées professionnels) ;
-
-Directeur de centre de formation professionnelle et de promotion agricoles ;
-
-Responsable d'une exploitation agricole ou d'un atelier technologique dans un établissement public local ou national d'enseignement technique agricole.
-
-DATE D'EFFET : 1er AOÛT 1995
-
-2° Fonctions exercées dans les établissements d'enseignement technique agricole et dans les établissements d'enseignement supérieur agricole et vétérinaire :
-
-Responsable d'un service commun interécoles d'enseignement supérieur agricole et vétérinaire ;
-
-Responsable de la formation continue dans les établissements d'enseignement supérieur agricole et vétérinaire.
+- responsable de la gestion d'un centre important constitutif d'un établissement public local d'enseignement agricole.
 
 ANNEXE II
 
@@ -107,23 +95,3 @@ Responsable du courrier ayant un affranchissement autonome ;
 Chef de standard téléphonique ;
 
 Responsable des parcs automobiles du ministère.
-
-DATE D'EFFET : 1er AOÛT 1995
-
-3° Administration centrale :
-
-Chargé de mission ou chef de bureau :
-
-Agent chargé de mission auprès d'un directeur, d'un chef de service ou d'un sous-directeur ou chef de bureau ;
-
-Adjoint à un chef de bureau ou expert de catégorie A :
-
-Adjoint à un chef de bureau exerçant des responsabilités d'encadrement dans un bureau de taille importante ou responsable d'un projet ou d'un dossier intéressant plusieurs directions, services ou sous-directions ou cadre confirmé exerçant des fonctions requérant une grande expérience dans un domaine technique ou juridique et appelé, à ce titre, à représenter le ministère auprès d'autres administrations, de juridictions ou d'instances internationales, ou exerçant des fonctions d'encadrement d'un effectif important et/ou requérant une expérience de spécialiste en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique ;
-
-Assistante ou expert de catégorie B :
-
-Agent exerçant des fonctions d'assistant auprès de cadres chargés de fonctions particulièrement importantes ou des fonctions requérant une bonne expérience en matière de gestion de personnel ou dans un domaine logistique, administratif, financier ou informatique et appelé à former d'autres agents, assister les cadres dans leurs fonctions ou encadrer un effectif important ;
-
-Secrétaire ou expert de catégorie C :
-
-Agent exerçant des fonctions de secrétariat soit auprès de cadres chargés de fonctions importantes, soit, seul, auprès d'un chef de bureau, soit dans un bureau présentant un effectif important ou ayant des missions contraignantes ou agent exerçant des fonctions autonomes en matière de gestion de personnel ou dans un domaine logistique, administratif, financier, informatique ou technique.
