@@ -1,4 +1,4 @@
-# Arrêté du 15 octobre 1985 portant composition et mode de fonctionnement du conseil spécialisé de l'économie cidricole de l'office national interprofessionnel des vins
+# Arrêté du 2 mars 1998 instituant une commission nationale consultative (commission du fonds d'incitation à la création) pour l'attribution des aides à l'édition d'art contemporain et des allocations en théorie-critique d'art
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,9 @@
 # Article 4
 
-Le remboursement des frais de changement de résidence exposés dans les conditions définies à l'article 2 ci-dessus est à la charge de l'établissement hospitalier d'accueil, sans préjudice des dispositions statutaires particulières prévues pour les praticiens hospitaliers affectés dans un établissement hospitalier situé dans un département d'outre-mer.
+Le directeur, le contrôleur d'Etat et l'agent comptable de l'office assistent de droit aux séances du conseil spécialisé.
+
+Les représentants des pouvoirs publics mentionnés à l'article 13 du décret susvisé assistent, avec voix consultative, aux travaux du conseil spécialisé.
+
+Le ministre chargé de l'agriculture peut désigner des experts permanents qui participent aux délibérations du conseil spécialisé, sans toutefois prendre part aux votes.
+
+Le président du conseil spécialisé peut convoquer, pour une séance déterminée ou pour un point particulier de l'ordre du jour, tout expert qu'il juge utile.

@@ -1,3 +1,5 @@
 # Article 3
 
-Dans les cas visés aux paragraphes b et c de l'article 2 ci-dessus, l'indemnité pour frais de transport de mobilier et bagages est réduite de 20 p. 100 et la prise en charge des frais de transport des personnes est limitée à 80 p. 100 du montant des sommes engagées.
+Le président du conseil spécialisé de l'économie cidricole est nommé par arrêté du ministre chargé de l'agriculture, après consultation de ce conseil spécialisé.
+
+Il siège de droit au conseil de direction de l'office avec voix consultative s'il n'est pas lui-même membre du conseil de direction.
