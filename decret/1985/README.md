@@ -117,6 +117,7 @@
 - [Décret n°85-367 du 26 mars 1985](decret-n85-367-du-26-mars-1985)
 - [Décret n°85-291 du 27 février 1985](decret-n85-291-du-27-fevrier-1985)
 - [Décret n°85-334 du 27 février 1985](decret-n85-334-du-27-fevrier-1985)
+- [Décret n°85-371 du 27 mars 1985](decret-n85-371-du-27-mars-1985)
 - [Décret n°84-1214 du 28 décembre 1984](decret-n84-1214-du-28-decembre-1984)
 - [Décret n°84-1247 du 28 décembre 1984](decret-n84-1247-du-28-decembre-1984)
 - [Décret n°85-107 du 28 janvier 1985](decret-n85-107-du-28-janvier-1985)
