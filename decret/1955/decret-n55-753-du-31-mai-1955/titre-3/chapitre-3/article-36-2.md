@@ -12,4 +12,4 @@ II - Le délai d'un an prévu par l'article 1122-2-2 du code rural en cas de dis
 
 La demande de retraite formée par le conjoint est appuyée de procès-verbaux de police et autres pièces relatant les circonstances de la disparition.
 
-III - En cas de réapparition de l'assuré, la retraite liquidée à titre provisoire au profit de son conjoint par application de l'article 1122-2-2 du code rural est annulée à compter de son entrée en jouissance et les arrérages perçus doivent être reversés à la caisse, sous réserve de l'application de l'article L. 67 du code de la sécurité sociale.
+III - En cas de réapparition de l'assuré, la retraite liquidée à titre provisoire au profit de son conjoint par application de l'article 1122-2-2 du code rural est annulée à compter de son entrée en jouissance et les arrérages perçus doivent être reversés à la caisse, sous réserve de l'application de l'article L. 355-3 du code de la sécurité sociale.
