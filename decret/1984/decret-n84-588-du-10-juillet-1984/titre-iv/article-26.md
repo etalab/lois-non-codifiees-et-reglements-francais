@@ -1,0 +1,7 @@
+# Article 26
+
+Au vu des décisions prises par le jury, dans les conditions prévues à l'article précédent, le ministre chargé de fonction publique arrête la liste des élèves aptes à être titularisés. Ceux-ci doivent au préalable signer l'engagement de servir l'Etat pendant six ans au moins à compter de la date de leur nomination.
+
+Les élèves inscrits sur la liste choisissent leur corps et l'administration dans laquelle ils seront affectés selon leur ordre de classement. Ils sont préalablement informés de la localisation des postes offerts dans les différents corps. Dans la mesure du possible, les postes offerts dans les différents corps. Dans la mesure du possible, les postes à pourvoir dans les services extérieurs doivent être situés dans la région où est installé l'institut ou dans les régions les plus proches et doivent être offerts en priorité aux élèves de cet institut.
+
+Les élèves sont titularisés à compter du lendemain du dernier jour de leur scolarité et classés à un échelon du grade de début du corps dans lequel ils ont été nommés, déterminé en fonction du temps de scolarité et éventuellement des services antérieurement accomplis, par les dispositions du statut particulier du corps. Ceux d'entre eux qui ont été affectés dans un corps où la titularisation peut intervenir sur la justification d'un diplôme sanctionnant le 1er cycle de l'enseignement supérieur bénéficient en outre d'une bonification d'ancienneté d'un an.
