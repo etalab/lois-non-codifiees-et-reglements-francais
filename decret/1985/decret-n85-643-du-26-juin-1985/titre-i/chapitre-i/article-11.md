@@ -4,4 +4,4 @@ Les représentants titulaires et suppléants des communes affiliées au centre s
 
 Seuls les maires des communes affiliées sont électeurs [*conditions*].
 
-Chaque maire dispose d'une voix par fonctionnaire titulaire ou stagiaire à temps complet ou à temps non complet de catégorie C ou D affecté à la commune et en position d'activité auprès de celle-ci au sens des articles 56 à 63 de la loi du 26 janvier 1984 précitée le premier jour du troisième mois précédant la date du scrutin. Le nombre de voix dont dispose chaque maire est mentionné sur la liste électorale.
+Chaque maire dispose d'une voix par fonctionnaire titulaire ou stagiaire à temps complet ou à temps non complet de catégories B, C ou D, affecté à la commune et en position d'activité auprès de celle-ci, au sens des articles 56 à 63 de la loi du 26 janvier 1984 précitée le premier jour du troisième mois précédant la date du scrutin. Toutefois, ne donnent droit à aucune voix les fonctionnaires qui ne sont pas gérés par le centre départemental de gestion. Le nombre de voix dont dispose chaque maire est mentionné sur la liste électorale.
