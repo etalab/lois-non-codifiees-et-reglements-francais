@@ -20,4 +20,6 @@ A l'exception des anciens élèves du Centre national d'études supérieures de 
 
 -être âgés de trente-cinq ans au moins au 1er janvier de l'année pour laquelle la liste est établie ;
 
--avoir obtenu l'attestation délivrée, à l'issue d'une ou plusieurs sessions de perfectionnement effectuées au Centre national d'études supérieures de sécurité sociale d'une durée minimale de 6 semaines au total. Cette condition n'est pas exigée pour l'inscription en deuxième section sur la quatrième liste d'aptitude des candidats exerçant leur activité dans un organisme visé à l'article R. 111-1 du code de la sécurité sociale.
+-avoir obtenu l'attestation délivrée, à l'issue d'une ou plusieurs sessions de perfectionnement effectuées au Centre national d'études supérieures de sécurité sociale d'une durée minimale de 6 semaines au total. Cette condition n'est pas exigée, d'une part, pour l'inscription en deuxième section sur la quatrième liste d'aptitude des candidats exerçant leur activité dans un organisme visé à l'article R. 111-1 du code de la sécurité sociale et, d'autre part, pour l'inscription sur une liste d'aptitude à un emploi de direction d'un organisme de catégorie C.
+
+Sont également dispensés de la production de l'attestation de perfectionnement les agents de direction et les agents comptables présentant une demande d'inscription sur une liste correspondant à un emploi dans lequel ils ont été précédemment nommés et agréés.
