@@ -6,6 +6,7 @@
 - [Dispositions générales](dispositions-generales)
 - [Dispositions spéciales.](dispositions-speciales)
 - [Dispositions d'ordre et de comptabilité.](dispositions-d-ordre-et)
+- [Mesures d'application et dispositions transitoires.](mesures-d-application-et)
 - [Invalidité](invalidite)
 - [Jouissance de la pension.](jouissance-de-la-pension)
 - [Liquidation de la pension](liquidation-de-la-pension)
