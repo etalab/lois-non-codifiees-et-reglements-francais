@@ -1,0 +1,7 @@
+# Article 1
+
+La Société Elf France, 137, rue de l'Université, 75340 Paris cédex 07, est autorisée, conformément à sa demande, à importer ou à recevoir le pétrole brut, ses dérivés et les résidus nécessaires à la fabrication des produits énumérés à l'annexe du présent décret, quelle que soit la destination ultérieure de ces produits.
+
+Les quantités de produits pétroliers issues de ce traitement qui sont destinées à être mises ultérieurement à la consommation intérieure seront portées à un compte de fabrication ouvert au nom de la société. La mise à la consommation correspondante sera portée au compte du titulaire d'autorisation spéciale d'importation et de livraison à la consommation intérieure de produits dérivés du pétrole qui l'aura effectuée.
+
+En ce qui concerne les produits mentionnés à l'alinéa précédent, ainsi qu'en ce qui concerne les produits pétroliers utilisés à la fabrication de produits chimiques énumérés au tableau C de l'article 265-1 du code des douanes ou obtenus sous le régime fiscal prévu à l'article 265 bis du même code et utilisés notamment comme matières premières pour la fabrication des produits chimiques, en cas de pénurie ou de menace sur l'équilibre des échanges extérieurs, des mesures de contingentement peuvent être instituées pour une période déterminée avec un préavis de trois mois, par décret rendu en la forme prévue par l'article 2 de la loi du 30 mars 1928. Ce contingentement ne sera toutefois pas applicable aux quantités de produits obtenues en vue d'être livrées aux autorités militaires.
