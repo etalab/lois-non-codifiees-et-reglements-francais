@@ -1,0 +1,3 @@
+# Article 1
+
+Le diplôme d'études comptables supérieures prévu au décret susvisé est délivré aux candidats qui ont obtenu une moyenne générale au moins égale à 10 sur 20, sans note inférieure à 6 sur 20, à chacune des deux séries d'épreuves prévues à l'article 7 dudit décret. Les candidats qui n'obtiennent pas cette moyenne conservent le bénéfice de la ou des épreuves dont la note est égale ou supérieure à 10 sur 20 et ne sont autorisés à subir à nouveau que la ou les épreuves dont la note est inférieure à 10 sur 20. La nouvelle moyenne générale est calculée en fonction des notes reportées et de celles nouvellement acquises.
