@@ -1,3 +1,3 @@
 # Article 5
 
-Il est institué un trophée du paysage, décerné pour la conception d'une opération située réalisée depuis au moins trois ans à un paysagiste en début de carrière ainsi qu'au service qui en a assuré la gestion.
+Les Grands Prix de la critique architecturale et de la promotion de l'architecture sont décernés annuellement par le ministre chargé de l'architecture et de l'urbanisme, sur proposition de jurys présidés par le directeur de l'architecture et de l'urbanisme.
