@@ -3,5 +3,6 @@
 - [TITRE Ier : DISPOSITIONS GENERALES.](titre-ier)
 - [TITRE II : ASSOCIATIONS LIBRES.](titre-ii)
 - [TITRE III : ASSOCIATIONS AUTORISÉES](titre-iii)
+- [TITRE IV : ASSOCIATIONS CONSTITUEES D'OFFICE.](titre-iv)
 - [TITRE V : DISPOSITIONS DIVERSES.](titre-v)
 - [Article Execution](article-execution.md)
