@@ -14,6 +14,6 @@ Il représente l'organisme en justice et dans tous les actes de la vie civile.
 
 Il prépare les délibérations du conseil d'administration et en assure l'exécution.
 
-Il est ordonnateur principal du budget de l'établissement.
+Il est ordonnateur principal des dépenses et des recettes. Il peut désigner des ordonnateurs secondaires qui peuvent déléguer leur signature.
 
-Il peut déléguer sa signature au secrétaire général, au directeur scientifique et au directeur des programmes. En cas d'absence ou d'empêchement de ces derniers, il peut déléguer sa signature à leurs collaborateurs appartenant à un corps de fonctionnaires de catégorie A ou à des personnels de niveau équivalent.
+Il peut déléguer sa signature. Il peut déléguer une partie de ses pouvoirs au secrétaire général, au directeur scientifique, au directeur des programmes et à d'autres agents désignés pour exercer des fonctions de responsabilité administrative ou scientifique dans l'établissement ou dans une unité, un groupement ou un service commun avec d'autres organismes. Ces agents peuvent déléguer leur signature.

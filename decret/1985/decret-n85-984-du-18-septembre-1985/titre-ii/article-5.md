@@ -1,10 +1,10 @@
 # Article 5
 
-Le conseil d'administration délibère notamment sur [*attributions*] :
+Le conseil d'administration délibère notamment sur *attributions* :
 
 1° Les orientations, les programmes généraux et les mesures générales relatives à l'organisation et au fonctionnement de l'institut ;
 
-2° Le budget et ses modifications, le compte financier ;
+2° Le budget et, sous réserve des dispositions du quatrième alinéa de l'article 6, ses modifications ; le compte financier ;.
 
 3° Le rapport annuel d'activité ;
 

@@ -6,7 +6,7 @@ Le conseil d'administration délibère sur :
 
 2. Les mesures générales relatives au fonctionnement et à l'organisation de l'établissement ;
 
-3. Le budget et ses modifications, le compte financier ;
+3. Le budget et, sous réserve des dispositions du quatrième alinéa de l'article 9, ses modifications ; le compte financier ;
 
 4. Le rapport annuel d'activité ;
 

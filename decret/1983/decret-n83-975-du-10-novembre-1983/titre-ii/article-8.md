@@ -4,7 +4,7 @@ Le conseil d'administration délibère [*attributions*] sur :
 
 1° Les mesures générales relatives à l'organisation et au fonctionnement de l'Institut ;
 
-2° Le budget et ses modifications ;
+2° Le budget et, sous réserve des dispositions du quatrième alinéa de l'article 9, ses modifications.
 
 3° Le compte financier ;
 
