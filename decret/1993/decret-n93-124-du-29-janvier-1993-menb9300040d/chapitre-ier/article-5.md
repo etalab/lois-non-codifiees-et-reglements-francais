@@ -1,6 +1,6 @@
 # Article 5
 
-Outre son président, membre du Conseil d'Etat, nommé pour quatre ans par décret, la commission consultative des trésors nationaux mentionnée au quatrième alinéa de l'article 7 de la loi du 31 décembre 1992 susvisée comprend onze membres :
+Outre son président, membre du Conseil d'Etat, nommé pour quatre ans par décret, la commission consultative des trésors nationaux mentionnée au quatrième alinéa de l'article L. 111-4 du code du patrimoine susvisé comprend onze membres :
 
 1° Cinq membres de droit :
 
