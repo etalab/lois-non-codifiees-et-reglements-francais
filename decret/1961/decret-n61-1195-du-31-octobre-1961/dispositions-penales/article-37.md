@@ -1,7 +1,11 @@
 # Article 37
 
-Seront punis d'une amende de 600 à 1300F [*(1)*]:
+" Seront punis de l'amende prévue pour les contraventions de la troisième classe :
 
-1° Ceux dont les véhicules, animaux de charge ou de monture, seront trouvés, en infraction à la réglementation du parc, hors des routes et chemins ouverts à la circulation publique ;
+" 1° Ceux dont les véhicules, animaux de charge ou de monture seront trouvés en infraction à la réglementation du parc, hors des routes et chemins ouverts à la circulation publique ;
 
-2° Ceux qui auront bivouaqué, campé ou stationné dans une remorque habitable ou tout autre abri de camping, en infraction à la réglementation du parc.
+" 2° Ceux qui auront bivouaqué, campé ou stationné dans un véhicule ou une remorque habitable ou tout autre abri de camping, en infraction à la réglementation du parc ;
+
+" 3° Auront amené ou introduit un ou plusieurs chiens en lieu interdit à ceux-ci ;
+
+" 4° Auront nettoyé un véhicule en utilisant l'eau des rivières ou auront déversé des eaux usées dans leur lit. "
