@@ -11,3 +11,4 @@
 - [Arrêté du 20 janvier 1977](arrete-du-20-janvier-1977)
 - [Arrêté du 22 décembre 1975](arrete-du-22-decembre-1975)
 - [Arrêté du 30 décembre 1975](arrete-du-30-decembre-1975)
+- [Arrêté du 31 décembre 1975](arrete-du-31-decembre-1975)
