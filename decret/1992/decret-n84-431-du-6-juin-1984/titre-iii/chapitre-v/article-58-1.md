@@ -6,7 +6,7 @@ Peuvent être placés en position de détachement dans le corps des professeurs 
 
 2° Les fonctionnaires appartenant à un grade ou nommés dans un emploi dont l'indice terminal est supérieur à l'indice terminal des professeurs des universités de 2e classe ;
 
-3° Les magistrats de l'ordre judiciaire appartenant au 2e groupe du 1er grade ou placés hors hiérarchie ;
+3° Les magistrats de l'ordre judiciaire appartenant au 1er grade ou placés hors hiérarchie ;
 
 Le détachement est prononcé sur proposition de la commission des spécialistes concernée. Cette proposition doit être accompagnée de l'avis favorable du conseil d'administration de l'établissement.
 
