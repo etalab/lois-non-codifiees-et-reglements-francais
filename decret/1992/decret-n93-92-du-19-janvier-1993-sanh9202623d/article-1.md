@@ -8,7 +8,7 @@ Une nouvelle bonification indiciaire dont le montant est pris en compte et soumi
 
 2° Fonctionnaires nommés dans le corps des aides-soignants exerçant auprès des personnes âgées relevant des sections de cure médicale ou dans les services ou les unités de soins de longue durée auprès des personnes n'ayant pas leur autonomie de vie : 4 points majorés à compter du 1er août 1992. Ce nombre de points sera porté à 7 à compter du 1er août 1993, à 10 à compter du 1er août 1994 ;
 
-3° Directeurs d'école préparant au diplôme d'Etat d'infirmier-anesthésiste : 34 points majorés ;
+3° Directeurs d'école préparant au diplôme d'Etat d'infirmier-anesthésiste : 34 points majorés. Ce montant est porté à 41 points nouveaux majorés à compter du 1er janvier 1993 ;
 
 4° Directeurs d'école préparant au diplôme d'Etat de puéricultrice, d'infirmier de bloc opératoire, de manipulateur d'électroradiologie médicale, de masseur-kinésithérapeute et de laborantin d'analyses médicales : 13 points majorés ;
 
