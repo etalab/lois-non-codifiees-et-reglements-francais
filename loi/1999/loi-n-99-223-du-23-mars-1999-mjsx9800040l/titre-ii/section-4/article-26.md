@@ -6,7 +6,7 @@ I. - En cas d'infraction aux dispositions des articles 17, 19 et du II de l'arti
 
 2° Il est compétent pour sanctionner les personnes relevant du pouvoir disciplinaire d'une fédération sportive lorsque celle-ci n'a pas statué dans les délais prévus à l'article 25. Dans ce cas, il est saisi d'office dès l'expiration de ces délais ;
 
-3° Il peut réformer les sanctions disciplinaires prises en application de l'article 25. Dans ce cas, le Conseil de prévention et de lutte contre le dopage se saisit dans un délai de huit jours suivant la date à laquelle il a été informé de ces sanctions, en application du premier alinéa de l'article 15 ;
+3° Il peut réformer les décisions prises en application de l'article 25. Dans ce cas, le Conseil de prévention et de lutte contre le dopage se saisit dans un délai de huit jours suivant la date à laquelle il a été informé de ces décisions, en application du premier alinéa de l'article 15 ;
 
 4° Il peut décider l'extension d'une sanction disciplinaire prononcée par une fédération aux activités de l'intéressé relevant des autres fédérations, de sa propre initiative ou à la demande de la fédération ayant prononcé la sanction.
 
