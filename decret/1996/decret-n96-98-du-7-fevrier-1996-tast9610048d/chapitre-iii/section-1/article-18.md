@@ -8,7 +8,7 @@ a) Lorsque le chrysotile est la seule variété minéralogique d'amiante présen
 
 0,3 fibre par centimètre cube sur huit heures de travail, à compter de la date de publication du présent décret ;
 
-0,1 fibre par centimètre cube sur huit heures de travail, à compter du 1er janvier 1998.
+0,1 fibre par centimètre cube sur huit heures de travail, à compter de la date de publication du décret n° 96-1132 du 24 décembre 1996.
 
 b) Dans les situations résiduelles où d'autres variétés minéralogiques d'amiante sont présentes, soit sous forme isolée, soit en mélange, y compris lorsqu'il s'agit d'un mélange contenant du chrysotile :
 
