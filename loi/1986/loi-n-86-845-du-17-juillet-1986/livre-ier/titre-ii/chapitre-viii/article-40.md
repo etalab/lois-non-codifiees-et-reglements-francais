@@ -6,6 +6,6 @@ L'inspecteur ou le contrôleur du travail peut mettre en demeure le chef d'entre
 
 Par dérogation aux règles fixées à l'alinéa premier, l'inspecteur ou le contrôleur du travail est autorisé à dresser procès-verbal, sans mise en demeure préalable, lorsque les faits qu'il constate présentent un danger grave ou imminent pour l'intégrité physique des travailleurs.
 
-Le procès-verbal doit explicitement préciser les circonstances de fait et la législation ou les délibérations du congrès applicables à l'espèce.
+Le procès-verbal doit explicitement préciser les circonstances de fait et la législation ou les délibérations de l'assemblée de la Polynésie française applicables à l'espèce.
 
 Dans ce cas il peut également saisir le juge des référés pour voir ordonner toutes mesures propres à faire cesser ce risque, telles que la mise hors service, l'immobilisation, la saisie des matériels, machines, dispositifs, produits ou autres. Le juge peut également ordonner la fermeture temporaire d'un atelier ou chantier : il peut assortir sa décision d'une astreinte qui sera liquidée au profit du territoire. Les décisions du juge des référés ne peuvent entraîner ni rupture, ni suspension du contrat de travail, ni aucun préjudice pécuniaire à l'encontre des salariés concernés.
