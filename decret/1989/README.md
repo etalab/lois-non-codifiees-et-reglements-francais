@@ -64,6 +64,7 @@
 - [Décret n°90-47 du 9 janvier 1990 (MCCB8900543D)](decret-n90-47-du-9-janvier-1990-mccb8900543d)
 - [Décret n°88-690 du 9 mai 1988 (PRMJ8860045D)](decret-n88-690-du-9-mai-1988-prmj8860045d)
 - [Décret n°88-700 du 9 mai 1988 (MCCB8800300D)](decret-n88-700-du-9-mai-1988-mccb8800300d)
+- [Décret n°89-290 du 9 mai 1989 (DOMP8900012D)](decret-n89-290-du-9-mai-1989-domp8900012d)
 - [Décret n°89-166 du 10 mars 1989 (PTTA8801159D)](decret-n89-166-du-10-mars-1989-ptta8801159d)
 - [Décret n°89-210 du 10 avril 1989 (TEFF8903321D)](decret-n89-210-du-10-avril-1989-teff8903321d)
 - [Décret n°89-214 du 10 avril 1989 (MAEJ8930025D)](decret-n89-214-du-10-avril-1989-maej8930025d)
