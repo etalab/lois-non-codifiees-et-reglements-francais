@@ -4,4 +4,5 @@
 - [DISPOSITIONS SPECIALES AUX MALADIES PROFESSIONNELLES.](dispositions-speciales-aux)
 - [CHAMP D'APPLICATION](champ-d-application)
 - [DECLARATION ET ENQUETE](declaration-et)
+- [MODALITES PARTICULIERES DU SERVICE DES PRESTATIONS](modalites-particulieres-du-service-des-prestations)
 - [REPARATION](reparation)
