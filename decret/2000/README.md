@@ -130,7 +130,6 @@
 - [Décret n°2000-690 du 17 juillet 2000 (ECOI0000184D)](decret-n2000-690-du-17-juillet-2000-ecoi0000184d)
 - [Décret n°2000-691 du 17 juillet 2000 (AGRS0000834D)](decret-n2000-691-du-17-juillet-2000-agrs0000834d)
 - [Décret n°2000-692 du 17 juillet 2000 (ATEN0080054D)](decret-n2000-692-du-17-juillet-2000-aten0080054d)
-- [Décret n°97-35 du 17 janvier 1997 (DEFD9602226D)](decret-n97-35-du-17-janvier-1997-defd9602226d)
 - [Décret n°2000-666 du 18 juillet 2000 (INTX0000128D)](decret-n2000-666-du-18-juillet-2000-intx0000128d)
 - [Décret n°2000-667 du 18 juillet 2000 (INTX0000129D)](decret-n2000-667-du-18-juillet-2000-intx0000129d)
 - [Décret n°2000-677 du 18 juillet 2000 (ECOP0000380D)](decret-n2000-677-du-18-juillet-2000-ecop0000380d)
