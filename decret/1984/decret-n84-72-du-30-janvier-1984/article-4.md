@@ -1,3 +1,3 @@
 # Article 4
 
-La commission consultative est présidée par une personnalité désignée par arrêté du ministre des relations extérieures et choisie en raison de ses compétences et de son activité en matière des droits de l'homme.
+Le président et le vice-président de la Commission nationale consultative des droits de l'homme sont désignés [*désignation - mode*] par arrêté du Premier ministre parmi les membres de la commission mentionnés aux c et d de l'article 2.
