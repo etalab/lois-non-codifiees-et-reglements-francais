@@ -1,0 +1,3 @@
+# Article 2
+
+Dans le cas où une opération définie par les décrets précités est conduite par un maître d'ouvrage relevant du régime de protection sociale agricole ou est exécutée par un ou des entrepreneurs relevant du même régime, les dispositions des articles 4, 9, 13 à 15, 22 et 23 du décret du 9 juin 1977 susvisé et celles des articles 3, 9, 16 à 18, 23 et 28 du décret du 19 août 1977 susvisé sont concurremment applicables au chef du service de prévention de la caisse régionale d'assurance maladie et au chef du service de prévention de la caisse départementale de mutualité sociale agricole du lieu de l'opération.
