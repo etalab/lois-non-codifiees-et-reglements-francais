@@ -563,6 +563,7 @@
 - [Décret n°98-840 du 21 septembre 1998 (MCCB9800626D)](decret-n98-840-du-21-septembre-1998-mccb9800626d)
 - [Décret n°98-841 du 21 septembre 1998 (MCCB9800631D)](decret-n98-841-du-21-septembre-1998-mccb9800631d)
 - [Décret n°98-848 du 21 septembre 1998 (ECOA9820037D)](decret-n98-848-du-21-septembre-1998-ecoa9820037d)
+- [Décret n°98-942 du 21 octobre 1998 (INTB9800246D)](decret-n98-942-du-21-octobre-1998-intb9800246d)
 - [Décret n°99-521 du 21 juin 1999 (EQUA9900464D)](decret-n99-521-du-21-juin-1999-equa9900464d)
 - [Décret n°96-1004 du 22 novembre 1996 (INTE9600286D)](decret-n96-1004-du-22-novembre-1996-inte9600286d)
 - [Décret n°98-306 du 22 avril 1998 (ECOF9800016D)](decret-n98-306-du-22-avril-1998-ecof9800016d)

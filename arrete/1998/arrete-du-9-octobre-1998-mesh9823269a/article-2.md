@@ -1,0 +1,3 @@
+# Article 2
+
+Les stages prévus à l'article 1er ont lieu dans des établissements publics de santé et dans des établissements d'hébergement pour personnes âgées comptant au plus 150 lits ou dans des établissements de plus de 150 lits comprenant un service de gériatrie mentionnés à l'article 2 (1°, 2° et 3°) de la loi du 9 janvier 1986 susvisée agréés par le directeur de l'Ecole nationale de la santé publique. Ces stages s'effectuent sous la conduite et la responsabilité de ce dernier, assisté au sein de l'établissement par un maître de stage, qui peut être un directeur d'établissement sanitaire et social ou un membre de l'équipe de direction.

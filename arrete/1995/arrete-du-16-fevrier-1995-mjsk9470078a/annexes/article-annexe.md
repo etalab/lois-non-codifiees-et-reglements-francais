@@ -20,7 +20,11 @@ Conseil d'administration de l'Institut national de la jeunesse et de l'éducatio
 
 Comité d'orientation de l'Institut national de la jeunesse et de l'éducation populaire, institué par le décret n° 90-544 du 2 juillet 1990 ;
 
-Commission départementale de coordination en matière de jeunesse, instituée par le décret n° 86-279 du 24 février 1986.
+Commission départementale de coordination en matière de jeunesse, instituée par le décret n° 86-279 du 24 février 1986 ;
+
+- conseil permanent de la jeunesse ;
+
+- conseil départemental de la jeunesse.
 
 2. Au titre des sports :
 
