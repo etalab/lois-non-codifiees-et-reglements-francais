@@ -1,13 +1,9 @@
 # Article 1
 
-En application de l'article 267-bis-7 de son annexe II au code général des impôts, la base de calcul du remboursement forfaitaire au titre des ventes ou livraisons d'animaux dont le prix de cession excède leur valeur normale en poids de viande est fixée, pour l'année 1984, par kilogramme de poids vif, à :
+La composition des collèges électoraux pour les élections des délégués mineurs et délégués permanents de la surface des groupes, unités de production ou exploitations des houillères de bassin est fixée comme suit :
 
-Chevaux : 15,65 F.
+Houillères du bassin de Lorraine : un collège unique pour l'ensemble des délégués mineurs.
 
-Gros bovins : 19,55 F ;
+Houillères du Dauphiné : un collège unique pour les délégués mineurs.
 
-Veaux : 23,90 F ;
-
-Moutons et agneaux : 16,55 F ;
-
-Porcs : 10,95 F.
+Houillères de Provence : un collège unique pour les délégués permanents de la surface.

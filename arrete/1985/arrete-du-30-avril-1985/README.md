@@ -1,4 +1,4 @@
-# Arrêté du 30 avril 1985 du 30 avril 1985 portant application de l'article 267 bis-7 de l'annexe II au code général des impôts.
+# Arrêté du 30 avril 1985 fixant la composition des collèges électoraux pour l'élection des délégués mineurs et des délégués permanents de la surface dans certaines houillères de bassin.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
