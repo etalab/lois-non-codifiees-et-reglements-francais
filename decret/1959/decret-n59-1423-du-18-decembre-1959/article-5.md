@@ -14,6 +14,8 @@ Un inspecteur de l'enseignement technique ;
 
 Six représentants des fédérations des parents d'élèves de l'enseignement public, choisis par les unions ou fédérations académiques en dehors des membres participant aux travaux des commissions départementales ;
 
+Deux conseillers généraux et deux maires, désignés par le préfet de région après consultation des présidents des conseils généraux de la région ;
+
 Un représentant des offices départementaux des anciens combattants et victimes de la guerre, lorsque sont examinées les demandes présentées en faveur des pupilles de la nation ;
 
 Deux représentants des établissements d'enseignement privé habilités à recevoir des boursiers nationaux ;

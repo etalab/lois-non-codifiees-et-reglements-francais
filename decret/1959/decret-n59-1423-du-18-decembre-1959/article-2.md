@@ -14,9 +14,9 @@ Un inspecteur de l'enseignement technique ;
 
 Six représentants des fédérations de parents d'élèves de l'enseignement public ;
 
-Un conseiller général, désigné par le conseil général et choisi de préférence parmi les membres du conseil départemental de l'enseignement primaire ;
+Deux conseillers généraux, désignés par le conseil général, dont un choisi de préférence parmi les membres du conseil départemental de l'enseignement primaire ;
 
-Un maire, choisi par l'assemblée départementale des maires ou, à défaut, désigné par le préfet ;
+Trois maires, choisis par la ou les associations départementale d'élus locaux d'un commun accord ou, à défaut, désignés par le préfet ;
 
 Le président ou le délégué de la section permanente de l'office départementale des anciens combattants et victimes de la guerre, lorsque sont examinés les dossiers des pupilles de la nation ;
 
