@@ -1,3 +1,3 @@
 # Article 168
 
-L'augmentation du capital par émission d'actions à souscrire en numéraire est réalisée à compter de la déclaration de souscriptions et de versement des fonds.
+Seuls les établissements de crédit soumis aux dispositions du décret n° 79-561 du 5 juillet 1979 instituant des règles de couverture et de division des risques pour les établissements de crédit peuvent donner leur garantie de bonne fin à une augmentation de capital.

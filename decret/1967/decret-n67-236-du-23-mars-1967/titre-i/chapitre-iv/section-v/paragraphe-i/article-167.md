@@ -1,3 +1,3 @@
 # Article 167
 
-A la déclaration de souscriptions et de versement des fonds, sont annexées la liste des souscripteurs et une copie certifiée conforme des délibérations ayant autorisé ou décidé l'augmentation du capital et fixé ses modalités.
+L'augmentation de capital par émission d'actions à souscrire en numéraire est réalisée selon le cas à la date du certificat du dépositaire ou à la date de la signature du contrat de garantie conclu dans les conditions prévues à l'article 191-1 de la loi sur les sociétés commerciales.
