@@ -26,13 +26,11 @@ L'enseignement du premier cycle et de la première année du deuxième cycle por
 
 - la séméiologie clinique, biologique et la séméiologie des techniques d'imagerie médicale ;
 
-- les techniques de premier secours,
-
-et sur la formation préclinique, théorique et pratique, dans les disciplines odontologiques suivantes :
+- les techniques de premier secours, et sur la formation préclinique, théorique et pratique, dans les disciplines odontologiques suivantes :
 
 - biomatériaux ;
 
-- pédodontie ;
+- odontologie pédiatrique ;
 
 - orthopédie dento-faciale ;
 

@@ -2,7 +2,7 @@
 
 Dans le cadre du volume horaire fixé à l'article 15, les étudiants doivent accomplir obligatoirement des stages hospitaliers hors des services d'odontologie, d'une durée minimum de 200 heures, réparties sur le deuxième cycle, dont au moins trois semaines sont effectuées à temps complet et en continu.
 
-Ces stages hospitaliers sont effectués dans des services agréés comme formateurs par la direction régionale des affaires sanitaires et sociales concernée sur proposition conjointe des unités de formation et de recherche d'odontologie et de médecine.
+Ces stages hospitaliers sont effectués dans des services agréés comme formateurs. La liste des services formateurs est établie conjointement par les directeurs des unités de formation et de recherche d'odontologie et de médecine, après avis des chefs de service concernés.
 
 Ils peuvent se dérouler dans des centres hospitaliers universitaires ainsi que dans les établissements visés à l'article 6 de l'ordonnance du 30 décembre 1958 susvisée, et notamment les centres hospitaliers régionaux, les centres hospitaliers qui dispensent des soins de longue durée tels que définis au 2° de l'article L. 711-2 du code de la santé publique, et les centres de lutte contre le cancer.
 

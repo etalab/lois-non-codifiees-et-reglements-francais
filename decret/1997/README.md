@@ -49,6 +49,7 @@
 - [Décret n°97-107 du 3 février 1997 (MIPP9600436D)](decret-n97-107-du-3-fevrier-1997-mipp9600436d)
 - [Décret n°97-108 du 3 février 1997 (AGRB9602641D)](decret-n97-108-du-3-fevrier-1997-agrb9602641d)
 - [Décret n°97-1117 du 3 décembre 1997 (MAEX9702408D)](decret-n97-1117-du-3-decembre-1997-maex9702408d)
+- [Décret n°97-1119 du 3 décembre 1997 (ECOF9700027D)](decret-n97-1119-du-3-decembre-1997-ecof9700027d)
 - [Décret n°97-187 du 3 mars 1997 (ENVN9750019D)](decret-n97-187-du-3-mars-1997-envn9750019d)
 - [Décret n°97-188 du 3 mars 1997 (MIPP9700047D)](decret-n97-188-du-3-mars-1997-mipp9700047d)
 - [Décret n°97-2 du 3 janvier 1997 (DEFD9602093D)](decret-n97-2-du-3-janvier-1997-defd9602093d)

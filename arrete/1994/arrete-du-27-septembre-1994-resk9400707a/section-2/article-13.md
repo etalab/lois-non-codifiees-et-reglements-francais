@@ -18,7 +18,7 @@ Parodontologie ;
 
 Orthopédie dento-faciale ;
 
-Pédodontie ;
+Odontologie pédiatrique ;
 
 Odontologie gériatrique ;
 
