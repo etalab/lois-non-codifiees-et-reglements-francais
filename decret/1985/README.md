@@ -7,6 +7,7 @@
 - [Décret n°85-295 du 1 mars 1985](decret-n85-295-du-1-mars-1985)
 - [Décret n°85-397 du 3 avril 1985](decret-n85-397-du-3-avril-1985)
 - [Décret n°85-399 du 3 avril 1985](decret-n85-399-du-3-avril-1985)
+- [Décret n°85-402 du 3 avril 1985](decret-n85-402-du-3-avril-1985)
 - [Décret n°85-419 du 3 avril 1985](decret-n85-419-du-3-avril-1985)
 - [Décret n°84-591 du 4 juillet 1984](decret-n84-591-du-4-juillet-1984)
 - [Décret n°85-159 du 4 février 1985](decret-n85-159-du-4-fevrier-1985)
