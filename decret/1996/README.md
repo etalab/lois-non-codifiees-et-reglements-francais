@@ -1,5 +1,7 @@
 # 1996
 
+- [Décret n°96-2 du 3 janvier 1996 (DOMP9500050D)](decret-n96-2-du-3-janvier-1996-domp9500050d)
+- [Décret n°96-4 du 3 janvier 1996 (ECOT9610258D)](decret-n96-4-du-3-janvier-1996-ecot9610258d)
 - [Décret n°95-911 du 7 août 1995 (AGRA9501096D)](decret-n95-911-du-7-aout-1995-agra9501096d)
 - [Décret n°96-527 du 7 juin 1996 (AGRA9600841D)](decret-n96-527-du-7-juin-1996-agra9600841d)
 - [Décret n°96-976 du 7 novembre 1996 (INTC9600275D)](decret-n96-976-du-7-novembre-1996-intc9600275d)
@@ -13,6 +15,9 @@
 - [Décret n°96-56 du 25 janvier 1996 (DOMP9500058D)](decret-n96-56-du-25-janvier-1996-domp9500058d)
 - [Décret n°96-57 du 25 janvier 1996 (DOMP9500059D)](decret-n96-57-du-25-janvier-1996-domp9500059d)
 - [Décret n°99-901 du 25 octobre 1999 (JUSE9940216D)](decret-n99-901-du-25-octobre-1999-juse9940216d)
+- [Décret n°95-1407 du 28 décembre 1995 (AGRP9502120D)](decret-n95-1407-du-28-decembre-1995-agrp9502120d)
+- [Décret n°95-1408 du 28 décembre 1995 (AGRG9502410D)](decret-n95-1408-du-28-decembre-1995-agrg9502410d)
+- [Décret n°95-1409 du 28 décembre 1995 (AVIC9503474D)](decret-n95-1409-du-28-decembre-1995-avic9503474d)
 - [Décret n°96-941 du 28 octobre 1996 (INTC9600270D)](decret-n96-941-du-28-octobre-1996-intc9600270d)
 - [Décret n°98-670 du 28 juillet 1998 (PRMX9803059D)](decret-n98-670-du-28-juillet-1998-prmx9803059d)
 - [Décret n°95-1353 du 29 décembre 1995 (TASS9523289D)](decret-n95-1353-du-29-decembre-1995-tass9523289d)

@@ -1,0 +1,5 @@
+# Article 2
+
+Pour bénéficier des dispositions de l'annexe I du présent arrêté relatives à la définition des équipes de plongée et aux procédures, les marins titulaires d'un certificat d'aptitude à l'hyperbarie, mention B, sur lequel est précisée l'option qualificative spécifique obtenue telle que définie à l'article 3 ci-dessous, doivent en outre être en possession d'un livret individuel de plongeur conforme aux dispositions prévues à l'article 3 du décret du 28 mars 1990 susvisé, délivré par l'I.N.P.P. dans les conditions prévues au troisième alinéa de l'article 2-II de l'arrêté du 28 janvier 1991 susvisé (1).
+
+(1) Les annexes mentionnées aux articles 2 et 4 du présent arrêté peuvent être consultées au ministère de l'équipement, du logement, des transports et du tourisme (direction des gens de mer et de l'administration générale, bureau de l'éducation maritime [GM/2], téléphone : [1] 44-49-83-31, et au bureau de l'hygiène et de la santé des gens de mer [GM/3], téléphone : [1] 44-49-83-39), 3, place de Fontenoy, 75700 Paris 07 SP.
