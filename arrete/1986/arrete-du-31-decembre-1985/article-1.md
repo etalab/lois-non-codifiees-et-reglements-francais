@@ -1,3 +1,5 @@
 # Article 1
 
-Pour l'application, au titre de l'exercice 1984, de l'article 95 de la loi n° 83-8 du 7 janvier 1983, le produit des impôts revenant aux départements des Alpes-Maritimes, de la Savoie, de la Haute-Savoie, de Paris, du Var et des Hauts-de-Seine est diminué, au profit du budget général, de la différence entre le produit calculé sur la base des taux en vigueur à la date du transfert de compétences et le montant des charges qui résultent des transferts de compétences opérés en 1984, ainsi que de la moitié du supplément de ressources fiscales résultant des dispositions de l'article 14 de la loi de finances pour 1984 du 29 décembre 1983 susvisée.
+La contribution due par les communes de deux mille habitants [*population*] au plus pour la mission d'aide technique à la gestion communale définie à l'article 17 de l'arrêté susvisé est calculée, pour l'année 1986, sur la base de 3,54 F par habitant [*montant*].
+
+Toutefois, elle est calculée sur la base de 1,39 F par habitant lorsque la commune adhère à un groupement ayant en charge l'entretien de la voirie communale.

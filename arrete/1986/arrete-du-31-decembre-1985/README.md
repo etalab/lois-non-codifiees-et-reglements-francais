@@ -1,4 +1,4 @@
-# Arrêté du 31 décembre 1985 pris pour l'application de l'article 95 de la loi n° 83-8 du 7 janvier 1983 modifiée, relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
+# Arrêté du 31 décembre 1985 fixant les bases de calcul de la contribution due par les communes en contrepartie des missions d'aide technique à la gestion communale qu'elles confient aux directions départementales de l'équipement.
 
 - [Article 1](article-1.md)
 - [Titre Ier : Généralités.](titre-ier)
@@ -6,7 +6,6 @@
 - [Titre II : Approbation des modèles.](titre-ii)
 - [Article 3](article-3.md)
 - [Titre III : Vérification primitive et périodique.](titre-iii)
-- [Article 4](article-4.md)
 - [Titre IV : Agrément des laboratoires.](titre-iv)
 - [Titre V : Dispositions diverses.](titre-v)
 - [Article 17](article-17.md)

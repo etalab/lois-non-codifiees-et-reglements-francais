@@ -1,3 +1,3 @@
 # Article 1
 
-Le taux de la retenue prévue à l'article 3 du décret susvisé est fixé à 15 % de la rémunération visée à l'article 2 du  décret n° 67-600 du 23 juillet 1967 modifié relatif au régime de rémunération des magistrats et fonctionnaires de l'Etat en service dans les territoires d'outre-mer.
+Il est créé à la direction régionale du travail et de l'emploi du Limousin un traitement automatisé d'informations nominatives dont l'objet est d'étudier les interrelations entre les conditions de travail des femmes et le déroulement de leur grossesse, puis de leur accouchement.

@@ -1,3 +1,7 @@
 # Article 2
 
-Le montant du coupon de l'emprunt d'Etat 7 % 1973 mis en paiement le 16 janvier 1986 est fixé à 538, 59 F.
+Les catégories d'informations nominatives enregistrées sont les suivantes, pour chaque personne faisant l'objet d'une enquête :
+
+situation d'activité dans son entreprise, profession, horaires de travail, aspects divers de la charge de travail ; situation familiale ; déroulement de la grossesse et de l'accouchement ; facteurs de risque au plan médical ou gynécologique.
+
+Après constitution, le fichier est rendu parfaitement anonyme.
