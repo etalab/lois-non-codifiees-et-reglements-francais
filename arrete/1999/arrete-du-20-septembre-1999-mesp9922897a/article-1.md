@@ -4,4 +4,6 @@ Ne peuvent être prescrits pour une durée supérieure à quatorze jours les mé
 
 - hydromorphone et ses sels, par voie orale ;
 
-- morphine et ses sels, préparations orales autres que les formes à libération prolongée.
+- morphine et ses sels, préparations orales autres que les formes à libération prolongée ;
+
+- méthadone et ses sels ;
