@@ -1,7 +1,3 @@
 # Article 2
 
-Si les dimensions du récipient et de l'emballage ne permettent pas d'y mentionner la totalité des indications énoncées à l'article 1er, le récipient et l'emballage doivent comporter au moins les mentions prévues aux c, d, e et g dudit article.
-
-Les mentions qui n'ont pu y être portées doivent figurer sur une notice jointe à l'emballage et le récipient doit faire renvoi à la notice.
-
-Les mentions figurant au b de l'article précédent peuvent être abrégées ou remplacées par l'emblême de la marque, lorsque l'abréviation permet l'identification du fabricant, de l'importateur ou du responsable de la mise sur le marché.
+Un arrêté des ministres chargés de la consommation, de la santé et de l'industrie précisera les modalités selon lesquelles les mentions prévues à l'article 1er seront portées à la connaissance des consommateurs en ce qui concerne les produits cosmétiques présentés non préemballés et les produits cosmétiques emballés sur les lieux de vente à la demande de l'acheteur ou préemballés en vue de leur vente immédiate.
