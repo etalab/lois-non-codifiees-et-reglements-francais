@@ -1,4 +1,4 @@
-# Arrêté du 3 juin 1985 relatif aux opérations immobilières exécutées au titre de l'action sanitaire et sociale par les organismes de sécurité sociale du régime minier.
+# Arrêté du 3 juin 1985 fixant les conditions d'indemnisation des rapporteurs auprès de la commission chargée de la modernisation du code du travail.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

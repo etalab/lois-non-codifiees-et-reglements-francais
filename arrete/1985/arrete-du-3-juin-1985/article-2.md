@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 12 juillet 1976 relatif aux opérations immobilières exécutées au titre de l'action sanitaire et sociale par les organismes de sécurité sociale est abrogé.
+L'indemnité mentionnée à l'article 1er est déterminée sous forme de vacations d'un montant unitaire de 27 F, dans la limite de 300 vacations par an.

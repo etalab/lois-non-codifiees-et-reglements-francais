@@ -1,3 +1,3 @@
 # Article 1
 
-Le directeur régional des affaires sanitaires et sociales [*autorité compétente*] statue sur les demandes d'autorisation de travaux dans des immeubles déjà utilisés pour le fonctionnement d'oeuvres sanitaires et sociales lorsque le montant de ces travaux n'excède pas la somme de 1.000.000 F.
+Les rapporteurs auprès de la commission chargée de la réforme du code du travail perçoivent une indemnité.

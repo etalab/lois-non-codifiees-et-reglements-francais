@@ -1,3 +1,7 @@
 # Article 1
 
-Il est institué pour une durée de trois ans un comité pour la mise en place du centre destiné à la préservation et au développement du patrimoine culturel des rapatriés. Ce comité assiste le secrétaire d'Etat chargé des rapatriés. Il prépare les décisions en ce domaine et assure le suivi de leur exécution.
+Les indemnités de responsabilité allouées aux régisseurs de recettes des collectivités et établissements publics locaux sur la base du barème résultant des dispositions des articles 1er et 2 du décret n° 51-135 du 5 avril 1951 modifié susvisé peuvent être majorées dans la limite de 100 p. 100 lorsque sont réunies les deux conditions suivantes :
+
+- ouverture au public de la régie au-delà des périodes normales d'exécution du service ;
+
+- nombre hebdomadaire moyen d'opérations d'encaissement supérieur à 200.

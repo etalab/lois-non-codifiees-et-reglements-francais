@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur de la sécurité sociale et le directeur de l'action sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les dépenses correspondantes sont imputées au chapitre 31-96 (section commune) du budget du ministère du travail, de l'emploi et de la formation professionnelle.
