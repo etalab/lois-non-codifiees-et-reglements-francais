@@ -2,4 +2,3 @@
 
 - [Titre IV : Dispositions modifiant la loi n° 78-763 du 19 juillet 1978 portant statut des sociétés coopératives ouvrières de production](titre-iv)
 - [Titre V : Dispositions modifiant la loi n° 83-657 du 20 juillet 1983 relative au développement de certaines activités d'économie sociale](titre-v)
-- [Titre VII : Dispositions concernant les banques coopératives](titre-vii)

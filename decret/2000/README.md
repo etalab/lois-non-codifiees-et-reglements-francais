@@ -626,7 +626,6 @@
 - [Décret n°2000-968 du 28 septembre 2000 (ECOU0000005D)](decret-n2000-968-du-28-septembre-2000-ecou0000005d)
 - [Décret n°2000-969 du 28 septembre 2000 (MESG0022403D)](decret-n2000-969-du-28-septembre-2000-mesg0022403d)
 - [Décret n°2000-972 du 28 septembre 2000 (MESG0022314D)](decret-n2000-972-du-28-septembre-2000-mesg0022314d)
-- [Décret n°99-1133 du 28 décembre 1999 (ECOI9920328D)](decret-n99-1133-du-28-decembre-1999-ecoi9920328d)
 - [Décret n°2000-1153 du 29 novembre 2000 (EQUU0000804D)](decret-n2000-1153-du-29-novembre-2000-equu0000804d)
 - [Décret n°2000-1154 du 29 novembre 2000 (FPPX0000179D)](decret-n2000-1154-du-29-novembre-2000-fppx0000179d)
 - [Décret n°2000-1164 du 29 novembre 2000 (EQUA0001371D)](decret-n2000-1164-du-29-novembre-2000-equa0001371d)

@@ -38,7 +38,6 @@
 - [Arrêté du 2 mars 1995 (AGRG9500458A)](arrete-du-2-mars-1995-agrg9500458a)
 - [Arrêté du 2 mars 1995 (BUDF9500006A)](arrete-du-2-mars-1995-budf9500006a)
 - [Arrêté du 2 mars 1995 (BUDF9520842A)](arrete-du-2-mars-1995-budf9520842a)
-- [Arrêté du 2 mars 1995 (COMK9509002A)](arrete-du-2-mars-1995-comk9509002a)
 - [Arrêté du 2 mars 1995 (ECOT9510231A)](arrete-du-2-mars-1995-ecot9510231a)
 - [Arrêté du 2 mars 1995 (EQUS9500420A)](arrete-du-2-mars-1995-equs9500420a)
 - [Arrêté du 2 mars 1995 (EQUS9500421A)](arrete-du-2-mars-1995-equs9500421a)

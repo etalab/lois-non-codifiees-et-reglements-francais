@@ -1,3 +1,0 @@
-# Article 71-5
-
-En vue d'exercer la surveillance d'un établissement bénéficiant du régime prévu à l'article 71-4 de la présente loi, et par dérogation aux dispositions de l'article 1er bis de la loi n° 68-678 du 26 juillet 1968 précitée, les autorités compétentes dont relève un établissement mentionné à l'article 71-4 peuvent exiger de lui et de ses succursales établies en France communication de toutes informations utiles à l'exercice de cette surveillance et, sous la seule réserve d'en avoir informé préalablement la commission bancaire, procéder, par elles-mêmes ou par l'intermédiaire de personnes qu'elles mandatent à cet effet, à des contrôles sur place des succursales de cet établissement sur le territoire de la République française.

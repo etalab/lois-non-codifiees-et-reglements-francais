@@ -97,7 +97,6 @@
 - [Arrêté du 4 janvier 1993 (BUDF9200063A)](arrete-du-4-janvier-1993-budf9200063a)
 - [Arrêté du 4 janvier 1993 (BUDF9200064A)](arrete-du-4-janvier-1993-budf9200064a)
 - [Arrêté du 4 janvier 1993 (INDB9300025A)](arrete-du-4-janvier-1993-indb9300025a)
-- [Arrêté du 4 janvier 1993 (SPSS9300045A)](arrete-du-4-janvier-1993-spss9300045a)
 - [Arrêté du 4 janvier 1993 (TEFE9205552A)](arrete-du-4-janvier-1993-tefe9205552a)
 - [Arrêté du 4 janvier 1993 (TEFE9205553A)](arrete-du-4-janvier-1993-tefe9205553a)
 - [Arrêté du 4 janvier 1993 (TEFE9205554A)](arrete-du-4-janvier-1993-tefe9205554a)

@@ -831,7 +831,6 @@
 - [Décret du 29 octobre 1996 (ENVE9640038D)](decret-du-29-octobre-1996-enve9640038d)
 - [Décret n°93-155 du 29 janvier 1993 (INTB9300025D)](decret-n93-155-du-29-janvier-1993-intb9300025d)
 - [Décret n°93-160 du 29 janvier 1993 (INTB9300030D)](decret-n93-160-du-29-janvier-1993-intb9300030d)
-- [Décret n°93-745 du 29 mars 1993 (ENVP9310038D)](decret-n93-745-du-29-mars-1993-envp9310038d)
 - [Décret n°95-1353 du 29 décembre 1995 (TASS9523289D)](decret-n95-1353-du-29-decembre-1995-tass9523289d)
 - [Décret n°96-1039 du 29 novembre 1996 (TASH9623928D)](decret-n96-1039-du-29-novembre-1996-tash9623928d)
 - [Décret n°96-1051 du 29 novembre 1996 (MAEJ9630084D)](decret-n96-1051-du-29-novembre-1996-maej9630084d)

@@ -4,6 +4,5 @@
 - [Titre 2 : Recrutement.](titre-2)
 - [Titre 3 : Avancement.](titre-3)
 - [Titre 4 : Dispositions diverses.](titre-4)
-- [Titre 5 : Dispositions transitoires.](titre-5)
 - [Titre 6 : Dispositions spéciales relatives au grade de pharmacien inspecteur principal.](titre-6)
 - [Titre 7 : Dispositions finales.](titre-7)

@@ -14,6 +14,7 @@
 - [Loi n° 85-595 du 11 juin 1985](loi-n-85-595-du-11-juin-1985)
 - [Loi n° 85-660 du 3 juillet 1985](loi-n-85-660-du-3-juillet-1985)
 - [Loi n° 85-695 du 11 juillet 1985](loi-n-85-695-du-11-juillet-1985)
+- [Loi n° 85-698 du 11 juillet 1985](loi-n-85-698-du-11-juillet-1985)
 - [Loi n° 85-699 du 11 juillet 1985](loi-n-85-699-du-11-juillet-1985)
 - [Loi n° 85-703 du 12 juillet 1985](loi-n-85-703-du-12-juillet-1985)
 - [Loi n° 85-704 du 12 juillet 1985](loi-n-85-704-du-12-juillet-1985)

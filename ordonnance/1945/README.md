@@ -35,4 +35,3 @@
 - [Ordonnance n° 45-2497 du 24 octobre 1945](ordonnance-n-45-2497-du-24-octobre-1945)
 - [Ordonnance n° 45-1418 du 28 juin 1945](ordonnance-n-45-1418-du-28-juin-1945)
 - [Ordonnance n° 45-1088 du 30 mai 1945](ordonnance-n-45-1088-du-30-mai-1945)
-- [Ordonnance n°45-1708 du 31 juillet 1945](ordonnance-n45-1708-du-31-juillet-1945)

@@ -1,3 +1,0 @@
-# Article 4
-
-Il est institué une "commission supérieure du crédit maritime mutuel". Cette commission est consultée sur les projets de textes réglementaires concernant le crédit maritime mutuel ainsi que sur la répartition des avances de l'Etat. Elle peut se saisir de toute question intéressant le crédit maritime mutuel et donner un avis [*consultatif*] au Gouvernement sur ces questions. Elle entend chaque année un rapport d'activité sur la situation du crédit maritime mutuel [*périodicité*]. La composition de cette commission, qui comporte six députés et trois sénateurs [*nombre*], est fixée par le décret prévu à l'article 20.

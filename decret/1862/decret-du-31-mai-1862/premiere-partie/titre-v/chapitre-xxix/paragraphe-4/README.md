@@ -1,6 +1,5 @@
 # Paragraphe 4 : Concours des receveurs des finances et des trésoriers-payeurs préposés comptables.
 
-- [Article 836](article-836.md)
 - [Article 837](article-837.md)
 - [Article 838](article-838.md)
 - [Article 839](article-839.md)

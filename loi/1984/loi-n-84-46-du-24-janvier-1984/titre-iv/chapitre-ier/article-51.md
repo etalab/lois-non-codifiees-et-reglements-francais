@@ -1,9 +1,0 @@
-# Article 51
-
-Les établissements de crédit sont tenus, dans des conditions définies par le comité de la réglementation bancaire et financière, de respecter des normes de gestion destinées à garantir leur liquidité et leur solvabilité à l'égard des déposants et, plus généralement, des tiers, ainsi que l'équilibre de leur structure financière.
-
-Ils doivent en particulier respecter des ratios de couverture et de division de risques.
-
-Les établissements de crédit doivent également disposer d'un système adéquat de contrôle interne leur permettant notamment de mesurer les risques et la rentabilité de leurs activités. Lorsque la surveillance est exercée sur la base de la situation financière consolidée, les groupes financiers doivent adopter des procédures de contrôle interne adéquates pour la production des informations et renseignements utiles aux fins de l'exercice de cette surveillance. Un règlement du Comité de la réglementation bancaire et financière définit les conditions d'application du présent alinéa.
-
-Le non-respect des obligations instituées en application du présent article entraîne l'application de la procédure prévue à l'article 45.
