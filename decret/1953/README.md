@@ -19,6 +19,7 @@
 - [Décret n°53-503 du 21 mai 1953](decret-n53-503-du-21-mai-1953)
 - [Décret n°53-506 du 21 mai 1953](decret-n53-506-du-21-mai-1953)
 - [Décret n°53-511 du 21 mai 1953](decret-n53-511-du-21-mai-1953)
+- [Décret n°53-1140 du 23 novembre 1953](decret-n53-1140-du-23-novembre-1953)
 - [Décret n°53-1276 du 24 décembre 1953](decret-n53-1276-du-24-decembre-1953)
 - [Décret n°53-893 du 24 septembre 1953](decret-n53-893-du-24-septembre-1953)
 - [Décret n°53-1048 du 26 octobre 1953](decret-n53-1048-du-26-octobre-1953)
