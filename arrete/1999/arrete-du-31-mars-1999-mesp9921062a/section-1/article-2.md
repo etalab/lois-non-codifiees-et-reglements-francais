@@ -1,0 +1,3 @@
+# Article 2
+
+Le représentant légal de l'établissement établit la liste des personnes habilitées, en vertu de la législation et de la réglementation en vigueur, à prescrire des médicaments soumis à la réglementation des substances vénéneuses, sans préjudice des dispositions de l'article R. 5143-5-5. Il la communique au pharmacien assurant la gérance de la pharmacie à usage intérieur et en assure la mise à jour. Cette liste comporte le nom, la qualité, le cas échéant les spécialités, les qualifications ou les titres, et la signature de ces personnes ou tout autre mode d'identification et d'authentification de ces personnes avec l'intitulé précis de leurs fonctions.
