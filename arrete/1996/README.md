@@ -155,6 +155,7 @@
 - [Arrêté du 5 mars 1996 (MCCB9600141A)](arrete-du-5-mars-1996-mccb9600141a)
 - [Arrêté du 5 mars 1996 (TASC9610368A)](arrete-du-5-mars-1996-tasc9610368a)
 - [Arrêté du 5 mars 1996 (TASH9620838A)](arrete-du-5-mars-1996-tash9620838a)
+- [Arrêté du 5 novembre 1996 (ACVP9620033A)](arrete-du-5-novembre-1996-acvp9620033a)
 - [Arrêté du 5 septembre 1996 (INDH9600614A)](arrete-du-5-septembre-1996-indh9600614a)
 - [Arrêté du 5 septembre 1996 (MJSK9670119A)](arrete-du-5-septembre-1996-mjsk9670119a)
 - [Arrêté du 5 septembre 1996 (MJSK9670121A)](arrete-du-5-septembre-1996-mjsk9670121a)

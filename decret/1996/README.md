@@ -319,6 +319,7 @@
 - [Décret n°96-805 du 12 septembre 1996 (BUDF9600005D)](decret-n96-805-du-12-septembre-1996-budf9600005d)
 - [Décret n°96-806 du 12 septembre 1996 (BUDF9600006D)](decret-n96-806-du-12-septembre-1996-budf9600006d)
 - [Décret n°96-819 du 12 septembre 1996 (FPPA9610020D)](decret-n96-819-du-12-septembre-1996-fppa9610020d)
+- [Décret n°96-988 du 12 novembre 1996 (TASS9623651D)](decret-n96-988-du-12-novembre-1996-tass9623651d)
 - [Décret n°96-113 du 13 février 1996 (TASH9523345D)](decret-n96-113-du-13-fevrier-1996-tash9523345d)
 - [Décret n°96-114 du 13 février 1996 (TASH9523346D)](decret-n96-114-du-13-fevrier-1996-tash9523346d)
 - [Décret n°96-115 du 13 février 1996 (TASH9523347D)](decret-n96-115-du-13-fevrier-1996-tash9523347d)

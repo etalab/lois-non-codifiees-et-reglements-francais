@@ -1,0 +1,9 @@
+# Article 3
+
+Il est institué, dans chaque zone franche urbaine définie au B du 3 de l'article 42 de la loi n° 95-115 du 4 février 1995 précitée, un comité d'orientation et de surveillance chargé d'évaluer les conditions de mise en oeuvre des mesures dérogatoires prévues au profit de ces zones au regard des objectifs définis par l'article 1er de la présente loi.
+
+A cette fin, le comité d'orientation et de surveillance examine les effets de ces mesures sur le rétablissement de l'équilibre économique et social de la zone franche urbaine, sur les conditions d'exercice de la concurrence et sur l'appareil commercial et artisanal de cette zone et de l'agglomération concernée. Il établit, chaque année, un bilan retraçant l'évolution des activités économiques de ladite zone au cours de l'année écoulée. Il peut présenter aux pouvoirs publics toute proposition destinée à renforcer l'efficacité des dispositions législatives et réglementaires.
+
+Le comité d'orientation et de surveillance est présidé par le représentant de l'Etat dans le département. Il comprend, en outre, dans des conditions fixées par décret en Conseil d'Etat, les députés et sénateurs intéressés du département, le ou les maires de la ou des communes d'implantation de la zone franche urbaine, le président de l'établissement public de coopération intercommunale compétent en matière d'aménagement et de développement pour ladite zone, le président du conseil général ou son représentant, le président du conseil régional ou son représentant, des représentants des chambres consulaires départementales et des services de l'Etat.
+
+Le comité d'orientation et de surveillance peut faire appel, en tant que de besoin, aux services déconcentrés de l'Etat dont le ressort géographique comprend le périmètre de la zone franche urbaine.
