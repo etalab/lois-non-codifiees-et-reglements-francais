@@ -2,3 +2,4 @@
 
 - [Section III : Règles particulières applicables à la roulette.](section-iii)
 - [Section IV : Règles particulières applicables au trente-et-quarante.](section-iv)
+- [Article 45](article-45.md)
