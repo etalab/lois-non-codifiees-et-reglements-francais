@@ -309,6 +309,7 @@
 - [Arrêté du 25 janvier 1990 (EQUS9000144A)](arrete-du-25-janvier-1990-equs9000144a)
 - [Arrêté du 25 janvier 1990 (PTTP9000093A)](arrete-du-25-janvier-1990-pttp9000093a)
 - [Arrêté du 25 janvier 1990 (SPSP9000192A)](arrete-du-25-janvier-1990-spsp9000192a)
+- [Arrêté du 26 avril 1990 (SPSH9000912A)](arrete-du-26-avril-1990-spsh9000912a)
 - [Arrêté du 26 décembre 1989 (MENN9000142A)](arrete-du-26-decembre-1989-menn9000142a)
 - [Arrêté du 26 décembre 1989 (PTTT8901162A)](arrete-du-26-decembre-1989-pttt8901162a)
 - [Arrêté du 26 décembre 1989 (PTTT8901163A)](arrete-du-26-decembre-1989-pttt8901163a)
