@@ -23,6 +23,7 @@
 - [Arrêté du 1 octobre 1992 (BUDZ9200016A)](arrete-du-1-octobre-1992-budz9200016a)
 - [Arrêté du 1 octobre 1992 (INTB9200450A)](arrete-du-1-octobre-1992-intb9200450a)
 - [Arrêté du 1 octobre 1992 (SPSC9202558A)](arrete-du-1-octobre-1992-spsc9202558a)
+- [Arrêté du 1 octobre 1992 (SPSS9202626A)](arrete-du-1-octobre-1992-spss9202626a)
 - [Arrêté du 1 septembre 1992 (AGRB9201591A)](arrete-du-1-septembre-1992-agrb9201591a)
 - [Arrêté du 1 septembre 1992 (AGRP9201589A)](arrete-du-1-septembre-1992-agrp9201589a)
 - [Arrêté du 1 septembre 1992 (AGRP9201590A)](arrete-du-1-septembre-1992-agrp9201590a)
