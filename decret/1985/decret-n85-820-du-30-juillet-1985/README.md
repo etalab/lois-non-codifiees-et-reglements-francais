@@ -4,7 +4,7 @@
 - [Titre II : Dispositions relatives au corps des secrétaires administratifs des affaires sanitaires et sociales.](titre-ii)
 - [Titre III : Dispositions relatives au corps des assistants, assistantes et auxiliaires de service social appartenant aux administrations de l'Etat, aux services extérieurs qui en dépendent ou aux établissements publics de l'Etat.](titre-iii)
 - [Titre IV : Dispositions relatives au corps des infirmiers et infirmières des services médicaux des administrations centrales, des services extérieurs qui en dépendent et des établissements publics.](titre-iv)
-- [Titre V : Dispositions applicables au corps des contrôleurs des services extérieurs du travail et de la main-d'oeuvre.](titre-v)
+- [Titre V : Dispositions applicables au corps des contrôleurs du travail.](titre-v)
 - [Titre VI : Dispositions relatives au corps des sténo-dactylographes des administrations centrales.](titre-vi)
 - [Titre VII : Dispositions relatives au corps des sténo-dactylographes des services extérieurs.](titre-vii)
 - [Titre VIII : Dispositions relatives au corps des commis des services extérieurs.](titre-viii)
