@@ -60,7 +60,6 @@
 - [Décret n°78-356 du 17 mars 1978](decret-n78-356-du-17-mars-1978)
 - [Décret n°78-372 du 17 mars 1978](decret-n78-372-du-17-mars-1978)
 - [Décret n°78-373 du 17 mars 1978](decret-n78-373-du-17-mars-1978)
-- [Décret n°78-376 du 17 mars 1978](decret-n78-376-du-17-mars-1978)
 - [Décret n°78-389 du 17 mars 1978](decret-n78-389-du-17-mars-1978)
 - [Décret n°78-392 du 17 mars 1978](decret-n78-392-du-17-mars-1978)
 - [Décret n°78-397 du 17 mars 1978](decret-n78-397-du-17-mars-1978)
