@@ -1,0 +1,3 @@
+# Article 3
+
+Les personnels exerçant à titre privé une activité d'enseignement éducatif et sportif, qui sont appelés à dispenser des cours dans les établissements pénitentiaires, sont rémunérés à la vacation, selon un taux fixé par arrêté conjoint du garde des sceaux, ministre de la justice, du ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, du ministre d'Etat, ministre de la fonction publique et des réformes administratives, du ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé du budget, et du secrétaire d'Etat auprès du ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, chargé de la jeunesse et des sports.
