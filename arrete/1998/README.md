@@ -107,6 +107,7 @@
 - [Arrêté du 20 février 1985](arrete-du-20-fevrier-1985)
 - [Arrêté du 20 janvier 1998 (ECOI9800067A)](arrete-du-20-janvier-1998-ecoi9800067a)
 - [Arrêté du 20 janvier 1998 (ECOT9810325A)](arrete-du-20-janvier-1998-ecot9810325a)
+- [Arrêté du 20 janvier 1998 (EQUS9800085A)](arrete-du-20-janvier-1998-equs9800085a)
 - [Arrêté du 20 janvier 1998 (MCCB9700755A)](arrete-du-20-janvier-1998-mccb9700755a)
 - [Arrêté du 21 janvier 1998 (DEFA9851008A)](arrete-du-21-janvier-1998-defa9851008a)
 - [Arrêté du 21 janvier 1998 (ECOL9800006A)](arrete-du-21-janvier-1998-ecol9800006a)
