@@ -10,4 +10,4 @@ Toutefois, chaque assujetti peut, dans les conditions fixées par les statuts pr
 
 Les statuts fixent également les conditions dans lesquelles des exonérations ou des dispenses de cotisations peuvent être accordées dans les premières années d'activité professionnelle ou en cas d'infortune ou d'incapacité d'exercice de la profession.
 
-Pour l'année 1985, le montant annuel de la cotisation de la classe 1 du régime d'assurance vieillesse complémentaire des chirurgiens-dentistes est fixée à 6.960 F.
+Le montant de la cotisation défini au premier alinéa du présent article est fixé par décret sur proposition du conseil d'administration de la section professionnelle des chirurgiens-dentistes.
