@@ -8,6 +8,7 @@
 - [Loi n° 99-1123 du 28 décembre 1999 (INTX9800143L)](loi-n-99-1123-du-28-decembre-1999-intx9800143l)
 - [Loi n° 99-1124 du 28 décembre 1999 (MJSX9903595L)](loi-n-99-1124-du-28-decembre-1999-mjsx9903595l)
 - [Loi n° 99-1126 du 28 décembre 1999 (INTX9900110L)](loi-n-99-1126-du-28-decembre-1999-intx9900110l)
+- [Loi n° 99-1140 du 29 décembre 1999 (MESX9900120L)](loi-n-99-1140-du-29-decembre-1999-mesx9900120l)
 - [Loi n° 99-173 du 10 mars 1999 (MAEX9700156L)](loi-n-99-173-du-10-mars-1999-maex9700156l)
 - [Loi n° 99-174 du 10 mars 1999 (MAEX9700153L)](loi-n-99-174-du-10-mars-1999-maex9700153l)
 - [Loi n° 99-198 du 18 mars 1999 (MCCX9800056L)](loi-n-99-198-du-18-mars-1999-mccx9800056l)
