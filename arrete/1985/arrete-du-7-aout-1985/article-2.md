@@ -1,3 +1,3 @@
 # Article 2
 
-S.P.I. assure sur le plan national, dans les conditions et limites prévues aux articles 3, 4 et 7, la gestion d'informations concernant les personnes physiques ou morales entrant dans le champ d'application de tous impôts, taxes, droits ou cotisations relevant de la compétence de la direction générale des impôts. Il gère également les informations de même nature concernant les personnes appartenant ou rattachées au foyer fiscal d'un contribuable.
+Le directeur du budget, le directeur de la comptabilité publique et le directeur de la sécurité sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

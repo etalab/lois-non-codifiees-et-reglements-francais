@@ -1,5 +1,5 @@
 # Article 2
 
-Ce traitement est un modèle national de référence déclaré à la Commission nationale de l'informatique et des libertés. Il est à la disposition des responsables des missions locales.
+Le fournisseur est tenu d'assurer la livraison des alcools, au besoin dans les fûts lui appartenant et prêtés gratuitement pour quarante jours.
 
-Les traitements automatisés mis en oeuvre par les missions locales, conformément au modèle national prévu par le présent arrêté, doivent faire l'objet d'une déclaration simplifiée complétée d'un acte réglementaire auprès de la commission.
+En cas d'expédition par chemin de fer, le prix d'achat des alcools s'entend pour la marchandise rendue sur wagon gare expéditrice, les frais de transport à plein et à vide étant à la charge du service des alcools.

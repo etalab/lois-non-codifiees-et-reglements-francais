@@ -74,6 +74,7 @@
 - [Décret n°85-701 du 9 juillet 1985](decret-n85-701-du-9-juillet-1985)
 - [Décret n°85-851 du 9 août 1985](decret-n85-851-du-9-aout-1985)
 - [Décret n°85-852 du 9 août 1985](decret-n85-852-du-9-aout-1985)
+- [Décret n°85-865 du 9 août 1985](decret-n85-865-du-9-aout-1985)
 - [Décret n°85-491 du 9 mai 1985](decret-n85-491-du-9-mai-1985)
 - [Décret n°85-493 du 9 mai 1985](decret-n85-493-du-9-mai-1985)
 - [Décret n°79-579 du 10 juillet 1979](decret-n79-579-du-10-juillet-1979)

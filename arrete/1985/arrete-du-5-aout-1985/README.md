@@ -1,0 +1,15 @@
+# Arrêté du 5 août 1985 fixant pour 1983 les soldes de la compensation instituée par la loi n° 77-1454 du 29 décembre 1977 entre le régime général de sécurité sociale des travailleurs salariés du commerce et de l'industrie et le régime d'assurance des salariés agricoles contre les accidents du travail et les maladies professionnelles.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)

@@ -1,3 +1,3 @@
 # Article 1
 
-La direction générale des impôts est autorisée à créer un traitement informatisé dénommé S.P.I. (simplification des procédures d'imposition).
+La valeur du point de retraite applicable au 1er janvier 1985 est fixée à 1,776 F par l'arrêté du 26 mars 1985 est portée à 1,813 F [*montant*] pour la période du 1er juillet au 31 décembre 1985.
