@@ -10,18 +10,14 @@ b) Ne poursuivre aucun but lucratif ;
 
 c) Exercer concurremment les activités énumérées à l'article 4 du présent décret ;
 
-d) Etre dirigés par un médecin qualifié en gynécologie ou en obstétrique possédant une compétence correspondant à la mission éducative de ces centres et spécialement agréé à cet effet ;
+d) Etre dirigés par un médecin qualifié en gynécologie ou en obstétrique ou, à défaut, justifiant de connaissances particulières en gynécologie et en régulation des naissances ;
 
 e) Ne comprendre dans leur personnel de direction et d'encadrement ainsi que dans leur personnel technique aucune personne ayant été condamnée pour des faits contraire à l'honneur, à la probité et aux bonnes moeurs ou pour une infraction à la loi susvisée du 28 décembre 1967 ou aux textes pris pour son application ;
 
-f) Disposer en permanence pour ses consultations d'une sage-femme diplômée d'Etat et d'un assistant ou d'une assistante de service social diplômé d'Etat ou autorisé, et s'assurer le concours :
-
-D'un médecin qualifié en psychiatrie ;
-
-D'une personne compétente en matière de conseil conjugal et familial ;
-
-D'un pharmacien lorsque le centre délivre à titre gratuit des médicaments, produits ou objets contraceptifs.
+f) Disposer au minimum pour leurs consultations et de façon permanente d'une personne compétente en matière de conseil conjugal et familial.
 
 g) Remplir les conditions techniques d'installation et de fonctionnement fixées par arrêté du ministre de la santé publique et de la sécurité sociale ;
 
 h) Etre dotés d'un règlement intérieur.
+
+L'agrément d'un centre peut être subordonné à la condition que le centre s'assure le concours d'une sage-femme, d'un infirmier ou d'une infirmière, d'un assistant ou d'une assistante de service social.
