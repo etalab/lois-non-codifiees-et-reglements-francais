@@ -1,10 +1,12 @@
 # Article Annexe
 
-I- Véhicules dont la vitesse est limitée par construction à moins de 25 kilomètres-heure.
+I. - Véhicules dont la vitesse par construction est inférieure ou égale à 45 kilomètres/heure
 
-1.1. Tracteurs agricoles, machines agricoles automotrices et matériels forestiers automoteurs définis à l'article R. 138 du code de la route ;
+1.1. Tracteurs agricoles, machines agricoles automotrices et matériels forestiers automoteurs définis à l'article R. 138 du code de la route.
 
 1.2. Engins spéciaux définis à l'article R. 168 du code de la route.
+
+1.3. Quadricycles légers à moteur définis à l'article R. 188-1 du code de la route, y compris ceux immatriculés sous l'ancienne appellation de genre "CYCL" et de carrosserie "VTTE" .
 
 II. - Véhicules et matériels de travaux publics automoteurs dont la vitesse est limitée sur route à 25 kilomètre-heure par l'article R. 162 du code de la route.
 
