@@ -1,3 +1,5 @@
 # Article 19
 
-La proportion des assistants techniques susceptibles d'être placés en position de détachement ou de disponibilité ne peut excéder 15 p. 100 de l'effectif budgétaire du corps.
+Peuvent également, par voie d'inscription à un tableau annuel d'avancement, être nommés assistants techniques principaux de 2e classe au choix, dans la limite du sixième des promotions prononcées au titre de l'article 18, alinéa 1er, ci-dessus, en faveur d'assistants techniques en position d'activité dans leur corps, les assistants techniques qui, justifiant au 31 décembre de l'année au titre de laquelle le tableau d'avancement est établi d'au moins sept ans de services effectifs dans un corps de catégorie A, comptent au moins un an dans le 9e échelon de leur grade. Lorsque le nombre des assistants techniques promus assistants techniques principaux au titre d'une année donnée n'est pas un multiple de six, le reste est ajouté au nombre des assistants techniques principaux promus dans les mêmes conditions l'année suivante pour le calcul de nominations à prononcer au cours de cette nouvelle année en application du présent article.
+
+Les intéressés sont reclassés dans le grade d'assistant technique principal de 2e classe conformément au tableau figurant à l'article 18-1.

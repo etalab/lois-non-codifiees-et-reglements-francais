@@ -6,4 +6,4 @@ Le détachement est prononcé à équivalence de grade et à un échelon comport
 
 Le fonctionnaire détaché alors qu'il a atteint l'échelon le plus élevé de son précédent grade conserve l'ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à son détachement est inférieure à celle que procure la nomination audit échelon.
 
-Le nombre de fonctionnaires placés en position de détachement sur un emploi d'assistant technique ne peut excéder 15 p. 100 de l'effectif du corps. Les fonctionnaires placés en position de détachement concourent pour les avancements de grade et d'échelon dans le corps des assistants techniques avec l'ensemble des fonctionnaires relevant de ce corps.
+Les fonctionnaires placés en position de détachement concourent les avancements de grade et d'échelon dans le corps des assistants techniques avec l'ensemble des fonctionnaires relevant de ce corps.
