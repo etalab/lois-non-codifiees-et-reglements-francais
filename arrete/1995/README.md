@@ -444,7 +444,6 @@
 - [Arrêté du 10 avril 1995 (MCCK9500143A)](arrete-du-10-avril-1995-mcck9500143a)
 - [Arrêté du 10 avril 1995 (MCCK9500144A)](arrete-du-10-avril-1995-mcck9500144a)
 - [Arrêté du 10 avril 1995 (MCCK9500145A)](arrete-du-10-avril-1995-mcck9500145a)
-- [Arrêté du 10 avril 1995 (SPSS9501254A)](arrete-du-10-avril-1995-spss9501254a)
 - [Arrêté du 10 février 1995 (ECOC9500016A)](arrete-du-10-fevrier-1995-ecoc9500016a)
 - [Arrêté du 10 février 1995 (RESK9500108A)](arrete-du-10-fevrier-1995-resk9500108a)
 - [Arrêté du 10 février 1995 (RESK9500109A)](arrete-du-10-fevrier-1995-resk9500109a)
