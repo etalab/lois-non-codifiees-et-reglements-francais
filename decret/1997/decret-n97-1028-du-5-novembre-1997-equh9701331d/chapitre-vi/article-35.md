@@ -1,0 +1,3 @@
+# Article 35
+
+Si l'application de l'article 27 du présent décret a pour effet de classer des inspecteurs qui ont été nommés dans le grade d'inspecteur principal entre le 1er août 1995 et la date de publication du présent décret à un échelon doté d'un indice inférieur à celui de l'échelon de l'ancien grade d'inspecteur principal dans lequel ils avaient été classés initialement, en application de l'article 26 du décret n° 92-1204 du 10 novembre 1992, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.
