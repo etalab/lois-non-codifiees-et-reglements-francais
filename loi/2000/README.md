@@ -24,6 +24,7 @@
 - [Loi n° 2000-644 du 10 juillet 2000 (JUSX0003990L)](loi-n-2000-644-du-10-juillet-2000-jusx0003990l)
 - [Loi n° 2000-646 du 10 juillet 2000 (INTX0000086L)](loi-n-2000-646-du-10-juillet-2000-intx0000086l)
 - [Loi n° 2000-647 du 10 juillet 2000 (JUSX0003957L)](loi-n-2000-647-du-10-juillet-2000-jusx0003957l)
+- [Loi n° 2000-656 du 13 juillet 2000 (ECOX0000072L)](loi-n-2000-656-du-13-juillet-2000-ecox0000072l)
 - [Loi n° 99-1125 du 28 décembre 1999 (MESX9903846L)](loi-n-99-1125-du-28-decembre-1999-mesx9903846l)
 - [Loi n°2000-196 du 6 mars 2000 (MENX9903288L)](loi-n2000-196-du-6-mars-2000-menx9903288l)
 - [Loi n°2000-494 du 6 juin 2000 (INTX9700159L)](loi-n2000-494-du-6-juin-2000-intx9700159l)
