@@ -1,6 +1,6 @@
 # Article 15
 
-" Le permis de conduire de la catégorie D, délivré aux personnes qui n'ont pas fourni à l'appui de leur demande les pièces exigées à l'article 1er (§ 1.2, 5), ne permet la conduite des véhicules de transport en commun de personnes que sur des trajets effectués dans un rayon ne dépassant pas cinquante kilomètres autour de leur point d'attache.
+Le permis de conduire de la catégorie D, délivré aux personnes qui n'ont pas fourni à l'appui de leur demande les pièces exigées à l'article 1er (§ 1.2, 5), ne permet la conduite des véhicules de transport en commun de personnes que sur des trajets effectués dans un rayon ne dépassant pas cinquante kilomètres autour de leur point d'attache.
 
 La restriction de validité du permis de conduire de la catégorie D pourra être levée lorsque son titulaire aura effectué au moins 5 000 kilomètres pendant une durée minimale d'un an et dans les conditions énoncées à l'alinéa précédent ou lorsqu'il pourra présenter une des pièces prévues à l'article 1er (§ 1.2, 5).
 
@@ -12,11 +12,11 @@ La restriction de validité énoncée ci-dessus s'applique aux conducteurs titul
 
 La restriction de validité énoncée ci-dessus ne s'applique pas à la conduite des véhicules de transport en commun de personnes, conçus et équipés pour le transport de quinze personnes au maximum, y compris le conducteur, en trafic national exclusivement.
 
-15.2. Les permis de conduire de catégories précisées au paragraphe 4.1.1 de l'article 4 ci-dessus sont accordés pour une période dont la durée varie en fonction de l'âge des conducteurs ou d'éventuelles restrictions proposées par la commission médicale. A l'expiration de cette période, leur validité peut être prorogée par le commissaire de la République du département du domicile du titulaire, sur le vu d'un certificat médical délivré par la commission médicale, attestant que celui-ci demeure apte à la conduite des véhicules de ces catégories. Mention de cette prorogation est portée sur les permis.
+15.2. Les permis de conduire de catégories précisées au paragraphe 4.1.1 de l'article 4 ci-dessus sont accordés pour une période dont la durée varie en fonction de l'âge des conducteurs ou d'éventuelles restrictions proposées par la commission médicale. A l'expiration de cette période, leur validité peut être prorogée par le préfet du département du domicile du titulaire, sur le vu d'un certificat médical délivré par la commission médicale, attestant que celui-ci demeure apte à la conduite des véhicules de ces catégories. Mention de cette prorogation est portée sur les permis.
 
 Dans le cas où le renouvellement n'a pas été demandé ou obtenu par le titulaire d'un des permis visés ci-dessus, les permis des catégories A ou B dont il peut être également titulaire restent valables, sauf indication médicale contraire.
 
-" 15.3. Doivent également être indiquées, le cas échéant, sur le permis :
+15.3. Doivent également être indiquées, le cas échéant, sur le permis :
 
 1° La durée de validité de celui-ci, s'il est accordé pour une période limitée en raison d'une déficience physique du candidat ;
 
@@ -46,7 +46,7 @@ Le titulaire d'un permis de conduire de la catégorie D délivré avant la date 
 
 En cas de contrôle, l'intéressé devra justifier ultérieurement qu'il remplit l'une de ces conditions.
 
-10° La mention " permis D : activité non restreinte, tout véhicule :
+10° La mention permis D : activité non restreinte, tout véhicule :
 
 - dès lors que le candidat a pu fournir, à l'appui de sa demande, l'une des pièces prévues à l'article 1er (§ 1.2, 5) ;
 
@@ -66,14 +66,12 @@ Cette mention pourra également être apposée en remplacement de celle prévue 
 
 - dans les conditions énoncées ci-dessus à compter de la date de publication de l'arrêté du 18 décembre 1985 susvisé.
 
-11° La mention " valable pour la conduite des véhicules de la catégorie D dont le P.T.A.C. n'excède pas 3,5 tonnes, lorsque l'examen pratique du permis de conduire de la catégorie D a été passé sur un véhicule dont le P.T.A.C. est inférieur ou égal à 3,5 tonnes (2) ;
-
-12° La mention " permis limité à la conduite des motocyclettes légères de 80 cm3 maximum jusqu'à dix-sept ans pour les conducteurs titulaires du permis A - motocyclettes légères - âgés de seize à dix-sept ans ;
-
-13° La mention " permis limité à la conduite des motocyclettes de 400 cm3 maximum, lorsque l'examen pratique a été passé selon les anciennes modalités du permis A 2 après le 1er janvier 1985.
-
-14° La mention "dispense R. 10-6, premier alinéa", lorsque le conducteur remplit l'une des conditions prévues au troisième alinéa de ce même article R. 10-6 du code de la route.
-
-Nota :
+11° La mention valable pour la conduite des véhicules de la catégorie D dont le P.T.A.C. n'excède pas 3,5 tonnes, lorsque l'examen pratique du permis de conduire de la catégorie D a été passé sur un véhicule dont le P.T.A.C. est inférieur ou égal à 3,5 tonnes (2) ;
 
 (2) Cette disposition est seulement applicable aux conducteurs ayant passé, dans les conditions décrites ci-dessus, l'examen pratique avant le 1er octobre 1979.
+
+12° La mention "permis limité à la conduite des motocyclettes d'une puissance maximale de 25 kW et d'un rapport puissance/poids n'excédant pas 0,16 kW/kg", lorsque le candidat au permis de conduire a choisi la filière de l'accès progressif à la conduite des motocyclettes.
+
+13° La mention permis limité à la conduite des motocyclettes de 400 cm3 maximum, lorsque l'examen pratique a été passé selon les anciennes modalités du permis A 2 après le 1er janvier 1985.
+
+14° La mention "dispense R. 10-6, premier alinéa", lorsque le conducteur remplit l'une des conditions prévues au troisième alinéa de ce même article R. 10-6 du code de la route.
