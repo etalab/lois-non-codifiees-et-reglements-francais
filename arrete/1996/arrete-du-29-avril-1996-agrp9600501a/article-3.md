@@ -6,15 +6,15 @@ Elle est composée de :
 
 - représentants de l'administration dans la région ou le département dans lesquels siège la commission :
 
-- deux membres de la direction régionale de l'agriculture et de la forêt : le directeur ou son représentant et le chef du service régional de statistique agricole ou son représentant. Ce dernier assure le secrétariat de la commission ;
+- deux membres de la direction régionale de l'agriculture et de la forêt : le directeur ou son représentant et le chef du service régional de statistique agricole ou son représentant ;
+
+- le délégué régional du service des nouvelles des marchés ou son représentant, qui assure le secrétariat de la commission ;
 
 - le directeur départemental de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
 - le directeur départemental de l'agriculture et de la forêt ou son représentant ;
 
-- le chef du centre régional du service des nouvelles des marchés ou son représentant ;
-
-- le représentant de l'Ofival ;
+- le représentant de l'OFIVAL ;
 
 - représentants des organisations professionnelles : trois à cinq représentants des vendeurs et, à parité, trois à cinq représentants des acheteurs.
 
