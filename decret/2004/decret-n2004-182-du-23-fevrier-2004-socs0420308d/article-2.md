@@ -1,0 +1,3 @@
+# Article 2
+
+Les titulaires d'une pension d'invalidité, attribuée et servie dans les conditions antérieurement fixées à la section 3 du chapitre 1er du titre II du livre VII du code de la sécurité sociale, bénéficient de la pension d'invalidité instituée à l'article L. 381-18-1 du code précité à compter du 1er janvier 2002. Ils sont classés en 3e catégorie et le montant de leur pension ne peut être inférieur au montant de pension dont ils bénéficiaient antérieurement. Pour ces personnes, le délai prévu à l'article D. 381-20 du code de la sécurité sociale court à compter de la date de l'attribution ou de la précédente révision. Les droits déjà acquis ne peuvent faire l'objet d'une révision à la baisse.
