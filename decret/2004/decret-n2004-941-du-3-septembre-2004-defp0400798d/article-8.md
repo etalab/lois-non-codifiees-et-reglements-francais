@@ -1,0 +1,3 @@
+# Article 8
+
+Le ministre d'Etat, ministre de l'économie, des finances et de l'industrie, la ministre de la défense, le ministre de la fonction publique et de la réforme de l'Etat et le secrétaire d'Etat au budget et à la réforme budgétaire sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française et qui prend effet le 15 septembre 2003 pour le service de santé des armées, le 1er août 2004 pour l'armée de terre, la marine, la gendarmerie nationale, le service des essences des armées, les affaires pénales militaires et la poste interarmées, le 1er septembre 2004 pour l'armée de l'air et le 1er janvier 2005 pour la délégation générale pour l'armement.

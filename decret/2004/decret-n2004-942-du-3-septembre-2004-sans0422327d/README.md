@@ -1,0 +1,10 @@
+# Décret n°2004-942 du 3 septembre 2004 portant application de l'ordonnance n° 2002-411 du 27 mars 2002 relative à la protection sanitaire et sociale à Mayotte (partie Assurance maladie)
+
+- [Chapitre Ier : Cotisations.](chapitre-ier)
+- [Chapitre II : De l'évacuation sanitaire.](chapitre-ii)
+- [Chapitre III : De la participation de l'assuré.](chapitre-iii)
+- [Chapitre IV : Des indemnités journalières maladie et maternité.](chapitre-iv)
+- [Chapitre V : Du contrôle médical.](chapitre-v)
+- [Chapitre VI : De l'interruption volontaire de grossesse.](chapitre-vi)
+- [Chapitre VII : Des frais de soins à l'étranger.](chapitre-vii)
+- [Article 49](article-49.md)
