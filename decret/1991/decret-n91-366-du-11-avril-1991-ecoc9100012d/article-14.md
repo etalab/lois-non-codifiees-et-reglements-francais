@@ -1,6 +1,6 @@
 # Article 14
 
-Les mentions prévues à l'article 13 ci-dessus doivent être complétées :
+Lorsque les arômes ne sont pas destinés à être vendus au consommateur final, les mentions prévues à l'article 13 ci-dessus doivent être complétées :
 
 1° Par la désignation de la catégorie de l'arôme ou, si le produit est constitué d'un mélange de plusieurs catégories d'arômes ou d'un mélange d'arômes avec d'autres substances, par l'indication dans l'ordre décroissant des quantités des différentes catégories d'arômes et des autres substances du mélange ou, le cas échéant, leur numéro "C.E.E." ;
 
