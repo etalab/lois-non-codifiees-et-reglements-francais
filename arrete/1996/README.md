@@ -245,6 +245,8 @@
 - [Arrêté du 12 juin 1996 (DEFT9601555A)](arrete-du-12-juin-1996-deft9601555a)
 - [Arrêté du 12 juin 1996 (ECOS9650021A)](arrete-du-12-juin-1996-ecos9650021a)
 - [Arrêté du 12 juin 1996 (ECOT9610271A)](arrete-du-12-juin-1996-ecot9610271a)
+- [Arrêté du 12 juin 1996 (ECOT9610275A)](arrete-du-12-juin-1996-ecot9610275a)
+- [Arrêté du 12 juin 1996 (ECOT9610277A)](arrete-du-12-juin-1996-ecot9610277a)
 - [Arrêté du 12 juin 1996 (INTA9620164A)](arrete-du-12-juin-1996-inta9620164a)
 - [Arrêté du 12 juin 1996 (TASH9620778A)](arrete-du-12-juin-1996-tash9620778a)
 - [Arrêté du 12 mars 1996 (BUDD9670271A)](arrete-du-12-mars-1996-budd9670271a)
