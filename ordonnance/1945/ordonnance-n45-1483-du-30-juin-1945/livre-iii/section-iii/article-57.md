@@ -1,3 +1,3 @@
 # Article 57
 
-Il est procédé au recouvrement des sanctions pécuniaires prévues à la présente section [*art. 50 à 59 : maintien de la libre concurrence*] comme en matière d'impôts directs [*modalités*].
+Pour leur exécution, les décisions du ministre infligeant des sanctions pécuniaires en application de la présente section suivent les règles prévues pour les amendes et autres condamnations pécuniaires.
