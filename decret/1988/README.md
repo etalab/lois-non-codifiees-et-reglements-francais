@@ -60,6 +60,8 @@
 - [Décret n°49-1655 du 28 décembre 1949](decret-n49-1655-du-28-decembre-1949)
 - [Décret n°88-101 du 28 janvier 1988 (ASES8701013D)](decret-n88-101-du-28-janvier-1988-ases8701013d)
 - [Décret n°88-102 du 28 janvier 1988 (ASES8701870D)](decret-n88-102-du-28-janvier-1988-ases8701870d)
+- [Décret n°88-110 du 28 janvier 1988 (ENVN8700253D)](decret-n88-110-du-28-janvier-1988-envn8700253d)
+- [Décret n°88-111 du 28 janvier 1988 (ENVN8700252D)](decret-n88-111-du-28-janvier-1988-envn8700252d)
 - [Décret n°88-90 du 28 janvier 1988 (BUDB8830006D)](decret-n88-90-du-28-janvier-1988-budb8830006d)
 - [Décret n°88-97 du 28 janvier 1988 (PRMJ8860003D)](decret-n88-97-du-28-janvier-1988-prmj8860003d)
 - [Décret n°88-98 du 28 janvier 1988 (PRMJ8860004D)](decret-n88-98-du-28-janvier-1988-prmj8860004d)

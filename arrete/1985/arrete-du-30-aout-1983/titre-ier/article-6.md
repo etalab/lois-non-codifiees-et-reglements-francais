@@ -36,7 +36,9 @@ Nationalité ;
 
 Date et lieu de délivrance du titre de séjour pour les étrangers et, éventuellement, de la carte de commerçant étranger ;
 
-Effectif des salariés, distinguant les membres de la famille, les apprentis et les handicapés ;
+Effectif des salariés, distinguant les apprentis et les handicapés ;
+
+Pour le décompte des effectifs salariés conformément aux dispositions des articles 1er et 2 du décret du 10 juin 1983 susvisé, les justifications y afférentes doivent être produites.
 
 3. En outre, pour les personnes morales :
 
@@ -48,8 +50,6 @@ Adresse du siège social ;
 
 Durée de la société ;
 
-Date et lieu de dépôt de l'acte constitutif ;
-
 Identité des dirigeants et associés suivants :
 
 a) Associés des sociétés en nom collectif et associés commandités des sociétés en commandite simple ;
@@ -58,8 +58,4 @@ b) Gérants et associés des S.A.R.L. ayant pouvoir d'engager la société ;
 
 c) Administrateurs ou membres du conseil de surveillance des sociétés anonymes ;
 
-Effectif des salariés, distinguant :
-
-a) D'une part, les apprentis et les handicapés ;
-
-b) D'autre part, les associés prenant part à l'exécution du travail et à la gestion de la société.
+Effectif des salariés distinguant les apprentis et les handicapés.    Pour le décompte des effectifs salariés conformément aux dispositions des articles 1er et 2 du décret du 10 juin 1983 susvisé, les justifications y afférentes doivent être produites.

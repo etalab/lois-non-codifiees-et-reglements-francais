@@ -1,0 +1,5 @@
+# Article 13
+
+Toute activité industrielle est interdite.
+
+Sont seules autorisées les activités commerciales s'exerçant dans les bâtiments existants ou celles liées à la gestion et à l'animation de la réserve naturelle.

@@ -13,3 +13,5 @@ Un fichier alphabétique unique incluant les personnes immatriculées et les con
 Un fichier géographique, par commune, des personnes immatriculées et des conjoints mentionnés ;
 
 Un fichier par type d'activité des personnes immatriculées.
+
+Les fichiers peuvent être tenus selon un procédé informatique après accord de la Commission nationale de l'informatique et des libertés.
