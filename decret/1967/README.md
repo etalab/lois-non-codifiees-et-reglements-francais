@@ -26,6 +26,7 @@
 - [Décret n°67-226 du 21 mars 1967](decret-n67-226-du-21-mars-1967)
 - [Décret n°67-356 du 21 avril 1967](decret-n67-356-du-21-avril-1967)
 - [Décret n°67-241 du 22 mars 1967](decret-n67-241-du-22-mars-1967)
+- [Décret n°67-428 du 22 mai 1967](decret-n67-428-du-22-mai-1967)
 - [Décret n°67-236 du 23 mars 1967](decret-n67-236-du-23-mars-1967)
 - [Décret n°67-237 du 23 mars 1967](decret-n67-237-du-23-mars-1967)
 - [Décret n°67-259 du 23 mars 1967](decret-n67-259-du-23-mars-1967)
