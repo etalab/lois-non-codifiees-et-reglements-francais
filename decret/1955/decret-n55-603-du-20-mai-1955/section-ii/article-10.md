@@ -1,3 +1,0 @@
-# Article 10
-
-Les règles concernant le statut de la profession principale des avoués [*avocats*], des huissiers de justice, des commissaires-priseurs, des agréés près les tribunaux de commerce ou de greffiers de tribunaux d'instance et relatives notamment à la discipline, au contrôle de la comptabilité et à la garantie de la responsabilité professionnelle sont applicables aux diligences accomplies par ces auxiliaires de justice en exécution des missions visées à l'article 1er du présent décret. Pour l'exécution de ces missions, ils se conforment toutefois au tarif et aux règles de comptabilité visées à l'article 8 ci-dessus.
