@@ -1,8 +1,6 @@
 # Article ANNEXE I
 
-ÉTAT RÉCAPITULATIF DES HORAIRES DES SPÉCIALITÉS
-
-DU DIPLÔME UNIVERSITAIRE DE TECHNOLOGIE
+ÉTAT RÉCAPITULATIF DES HORAIRES DES SPÉCIALITÉS DU DIPLÔME UNIVERSITAIRE DE TECHNOLOGIE
 
 HORAIRES : Spécialités
 
@@ -36,6 +34,8 @@ Organisation et gestion de la production.
 
 Science et génie des matériaux.
 
+Services et réseaux de communication.
+
 1 620 HEURES :
 
 Carrières juridiques.
@@ -45,8 +45,6 @@ Carrières sociales.
 Gestion des entreprises et des administrations.
 
 Information-communication.
-
-Services et réseaux de communication.
 
 Statistique et traitement informatique des données.
 
