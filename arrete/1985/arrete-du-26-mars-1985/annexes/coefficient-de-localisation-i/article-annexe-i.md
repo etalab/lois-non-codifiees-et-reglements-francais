@@ -2,7 +2,7 @@
 
 Les valeurs d'application de i sont les suivantes :
 
-i = 1,400 en zone I ;
+i = 1,600 en zone I ;
 
 i = 0,700 en zone II ;
 

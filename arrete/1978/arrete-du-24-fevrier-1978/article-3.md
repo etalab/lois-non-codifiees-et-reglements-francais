@@ -12,7 +12,7 @@ Les honoraires.
 
 Celle-ci comprend :
 
-Le prix et les frais d'acquisition de l'immeuble et du terrain éventuellement attenant ;
+Le prix et les frais d'acquisition de l'immeuble et du terrain éventuellement attenant et le cas échéant, le rachat du fonds de commerce de l'hôtel meublé, sous réserve de sa cessation d'exploitation;
 
 Les dépenses relatives aux travaux à caractère privatif d'aménagement du terrain attenant à l'immeuble, démolitions, destruction de constructions parasitaires, mouvement des terres, voirie et réseaux divers y compris branchements, transformateurs et éclairage extérieur, aires de stationnement, espaces libres, plantations, mobilier urbain, travaux d'accessibilité de l'immeuble aux handicapés ;
 

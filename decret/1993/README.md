@@ -608,6 +608,8 @@
 - [Décret n°93-1125 du 24 septembre 1993 (DEFP9301822D)](decret-n93-1125-du-24-septembre-1993-defp9301822d)
 - [Décret n°93-1127 du 24 septembre 1993 (BUDF9300032D)](decret-n93-1127-du-24-septembre-1993-budf9300032d)
 - [Décret n°93-1128 du 24 septembre 1993 (FPPX9300138D)](decret-n93-1128-du-24-septembre-1993-fppx9300138d)
+- [Décret n°93-1135 du 24 septembre 1993 (MAEJ9330034D)](decret-n93-1135-du-24-septembre-1993-maej9330034d)
+- [Décret n°93-1136 du 24 septembre 1993 (MAEJ9330035D)](decret-n93-1136-du-24-septembre-1993-maej9330035d)
 - [Décret n°93-1271 du 24 novembre 1993 (MENF9305754D)](decret-n93-1271-du-24-novembre-1993-menf9305754d)
 - [Décret n°93-246 du 24 février 1993 (EQUP9201588D)](decret-n93-246-du-24-fevrier-1993-equp9201588d)
 - [Décret n°93-256 du 24 février 1993 (DEFP9301101D)](decret-n93-256-du-24-fevrier-1993-defp9301101d)
