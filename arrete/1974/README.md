@@ -19,6 +19,7 @@
 - [Arrêté du 9 janvier 1974](arrete-du-9-janvier-1974)
 - [Arrêté du 10 avril 1974](arrete-du-10-avril-1974)
 - [Arrêté du 10 janvier 1974](arrete-du-10-janvier-1974)
+- [Arrêté du 10 octobre 1974](arrete-du-10-octobre-1974)
 - [Arrêté du 12 août 1974](arrete-du-12-aout-1974)
 - [Arrêté du 13 février 1974](arrete-du-13-fevrier-1974)
 - [Arrêté du 14 octobre 1974](arrete-du-14-octobre-1974)
