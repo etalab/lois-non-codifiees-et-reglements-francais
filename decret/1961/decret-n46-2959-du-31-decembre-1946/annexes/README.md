@@ -11,6 +11,7 @@
 - [4. BENZOLISME PROFESSIONNEL](4-benzolisme-professionnel)
 - [44. SIDEROSE PROFESSIONNELLE](44-siderose-professionnelle)
 - [45. HEPATITES VIRALES PROFESSIONNELLES](45-hepatites-virales-professionnelles)
+- [46. MYCOSES CUTANEES D'ORIGINE PROFESSIONNELLE](46-mycoses-cutanees-d-origine-professionnelle)
 - [5. PHOSPHORISME PROFESSIONNEL](5-phosphorisme-professionnel)
 - [65. LESIONS ECZEMATIFORMES DE MECANISME ALLERGIQUE.s](65-lesions-eczematiformes-de-mecanisme-allergique-s)
 - [66° AFFECTIONS RESPIRATOIRES PROFESSIONNELLES DE MECANISME ALLERGIQUE.](66-affections-respiratoires-professionnelles-de-mecanisme-allergique)
