@@ -1,4 +1,4 @@
-# Décret n°82-622 du 19 juillet 1982 fixant les dispositions statutaires applicables au corps des instituteurs de la Polynésie française.
+# Arrêté du 24 décembre 1991 relatif à l'organisation du concours d'internat en pharmacie à titre étranger
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -12,8 +12,3 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
-- [Article 13](article-13.md)
-- [Article 14](article-14.md)
-- [Article 15](article-15.md)
-- [Article 16](article-16.md)
-- [Article 17](article-17.md)
