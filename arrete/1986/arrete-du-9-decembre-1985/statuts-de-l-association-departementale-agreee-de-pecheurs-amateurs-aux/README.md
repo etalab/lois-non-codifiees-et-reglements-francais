@@ -1,3 +1,0 @@
-# Statuts de l'association départementale agréée de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public de ....
-
-- [Article 1](article-1.md)

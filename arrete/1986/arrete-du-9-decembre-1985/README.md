@@ -11,4 +11,3 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Annexes](annexes)
-- [Statuts de l'association départementale agréée de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public de ....](statuts-de-l-association-departementale-agreee-de-pecheurs-amateurs-aux)
