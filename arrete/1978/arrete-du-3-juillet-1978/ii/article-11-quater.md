@@ -2,7 +2,7 @@
 
 A compter du 1er juillet 1994 :
 
-- le montant prévu au premier alinéa de l'article R. 351-7-1 est fixé à 37 527 F ;
+- le montant prévu au premier alinéa de l'article R. 351-7-1 est fixé à 37 500 F ;
 
 - le coefficient prévu au 2° du I de l'article R. 351-7-1 est fixé à :
 

@@ -1,27 +1,111 @@
 # Article 1
 
-A compter du 1er juillet 1994, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
+Les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
 
-ZONE I (en francs)
+!--------------------------------!
 
-Bénéficiaire isolé : 2 245
+!     Bénéficiaire isolé         !
 
-Ménage sans personne à charge : 2 630
+!--------------------------------!
 
-Bénéficiaire isolé ou ménage ayant une personne à charge : 3 088
+!   ZONE I  ! ZONE II  !ZONE III !
 
-ZONE II (en francs)
+!-----------!----------!---------!
 
-Bénéficiaire isolé : 2 055
+!  2 245 F  !  2 055 F ! 1 950 F !
 
-Ménage sans personne à charge : 2 395
+!-----------!----------!---------!
 
-Bénéficiaire isolé ou ménage ayant une personne à charge : 2 817
+!--------------------------------!
 
-ZONE III (en francs)
+! Ménage sans personne à charge  !
 
-Bénéficiaire isolé : 1 950
+!--------------------------------!
 
-Ménage sans personne à charge : 2 267
+!   ZONE I  ! ZONE II  !ZONE III !
 
-Bénéficiaire isolé ou ménage ayant une personne à charge : 2 653
+!-----------!----------!---------!
+
+!  2 630 F  !  2 395 F ! 2 267 F !
+
+!-----------!----------!---------!
+
+!--------------------------------!
+
+! Bénéficiaire isolé ou ménage   !
+
+! ayant une personne à charge    !
+
+!-----------!----------!---------!
+
+!   ZONE I  ! ZONE II  !ZONE III !
+
+!-----------!----------!---------!
+
+!  2 831 F  !  2 578 F ! 2 429 F !
+
+!-----------!----------!---------!
+
+!--------------------------------!
+
+! Bénéficiaire isolé ou ménage   !
+
+! ayant deux personnes à charge  !
+
+!--------------------------------!
+
+!   ZONE I  ! ZONE II  !ZONE III !
+
+!-----------!----------!---------!
+
+!  3 032 F  !  2 761 F ! 2 591 F !
+
+!-----------!----------!---------!
+
+!--------------------------------!
+
+! Bénéficiaire isolé ou ménage   !
+
+! ayant trois personnes à charge !
+
+!--------------------------------!
+
+!   ZONE I  ! ZONE II  !ZONE III !
+
+!-----------!----------!---------!
+
+!  3 233 F  !  2 943 F ! 2 753 F !
+
+!-----------!----------!---------!
+
+!--------------------------------!
+
+! Bénéficiaire isolé ou ménage   !
+
+! ayant quatre personnes à charge!
+
+!--------------------------------!
+
+!   ZONE I  ! ZONE II  !ZONE III !
+
+!-----------!----------!---------!
+
+!  3 433 F  !  3 125 F ! 2 915 F !
+
+!-----------!----------!---------!
+
+!--------------------------------!
+
+!     Par personne à charge      !
+
+!      supplémentaire            !
+
+!--------------------------------!
+
+!   ZONE I  ! ZONE II  !ZONE III !
+
+!-----------!----------!---------!
+
+!    355 F  !    325 F !   300 F !
+
+!-----------!----------!---------!

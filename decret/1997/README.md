@@ -123,6 +123,7 @@
 - [Décret n°97-76 du 29 janvier 1997 (JUSA9600311D)](decret-n97-76-du-29-janvier-1997-jusa9600311d)
 - [Décret n°96-1223 du 30 décembre 1996 (INDG9600836D)](decret-n96-1223-du-30-decembre-1996-indg9600836d)
 - [Décret n°96-1248 du 30 décembre 1996 (ECOT9610288D)](decret-n96-1248-du-30-decembre-1996-ecot9610288d)
+- [Décret n°97-79 du 30 janvier 1997 (LOGC9600052D)](decret-n97-79-du-30-janvier-1997-logc9600052d)
 - [Décret n°97-80 du 30 janvier 1997 (TAST9710158D)](decret-n97-80-du-30-janvier-1997-tast9710158d)
 - [Décret n°97-81 du 30 janvier 1997 (TASF9710049D)](decret-n97-81-du-30-janvier-1997-tasf9710049d)
 - [Décret n°97-82 du 30 janvier 1997 (TASF9710050D)](decret-n97-82-du-30-janvier-1997-tasf9710050d)
