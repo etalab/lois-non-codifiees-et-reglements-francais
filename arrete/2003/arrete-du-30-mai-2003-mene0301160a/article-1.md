@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions précisées en annexe du présent arrêté complètent, pour le basque, le breton, le catalan, les langues régionales d'Alsace et des pays mosellans et l'occitan-langue d'oc, le programme transitoire jusqu'à la rentrée 2008 de l'enseignement des langues vivantes et étrangères pour le cycle des approfondissements de l'école primaire, fixé par l'arrêté du 28 juin 2002 susvisé conformément à l'article 8 de l'arrêté du 25 janvier 2002 susvisé fixant les horaires des écoles maternelles et élémentaires et à l'article 3 de l'arrêté du 25 janvier 2002 susvisé fixant les programmes d'enseignement de l'école primaire.
