@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 TITRE Ier
 
@@ -552,13 +552,15 @@ Code de la mutualité
 
 1
 
-Approbation de la création, du règlement, des transferts d'actifs et de la cessation d'activité des caisses autonomes mutualistes et approbation des modifications des statuts des mutuelles gérant une caisse autonome mutualiste.
+Agrément administratif, délivré en application de l'article L. 211-7 du code de la mutualité, aux mutuelles et unions pratiquant des opérations d'assurance relevant d'une branche autre que la branche 2 mentionnée à l'article R. 211-2.
 
-Art. R. 122-1.
+Art. R.* 211-7
 
-Art. R. 122-2.
+2
 
-Art. R. 326-1.
+Opposition au choix, par une mutuelle ou union agréée dans la branche de protection juridique, d'une autre modalité de gestion que celle précédemment choisie.
+
+Art. R.* 211-20
 
 Décret du 28 janvier 1860 portant règlement d'administration publique relatif à la surveillance des sources et des établissements d'eaux minérales naturelles
 
