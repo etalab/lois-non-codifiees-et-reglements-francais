@@ -1,4 +1,4 @@
-# Arrêté du 25 septembre 1985 relatif à la délivrance de l'agrément prévu à l'article 4 du décret n° 85-983 du 17 septembre 1985 pris pour l'application de l'article 40 de la loi du 11 juillet 1985 portant diverses dispositions d'ordre économique et financier
+# Arrêté du 25 septembre 1985 fixant le modèle de demande d'allocation de soutien familial pour un parent élevant seul son ou ses enfants et de demande de souscription à l'allocation de soutien familial.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
