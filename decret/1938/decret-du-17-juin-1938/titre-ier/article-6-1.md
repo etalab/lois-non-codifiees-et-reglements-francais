@@ -21,10 +21,10 @@ dues à la caisse générale de prévoyance des marins
 <td> :=========================================================</td>
 </tr>
 <tr>
-<td> :Cas général ...                    :         :        :</td>
+<td> :Cas général ...                    :         :         :</td>
 </tr>
 <tr>
-<td> :- navire d'une longueur supérieure :   7,30  :  16,35  :</td>
+<td> :- navire d'une longueur supérieure :    6    :  16,35  :</td>
 </tr>
 <tr>
 <td> : à 25 mètres                       :         :         :</td>
@@ -33,7 +33,7 @@ dues à la caisse générale de prévoyance des marins
 <td> :- navire d'une longueur inférieure :         :         :</td>
 </tr>
 <tr>
-<td> : ou égale à 25 mètres              :   7,30  :  15,75  :</td>
+<td> : ou égale à 25 mètres              :    6    :  15,75  :</td>
 </tr>
 <tr>
 <td> :                                   :         :         :</td>
@@ -63,10 +63,10 @@ dues à la caisse générale de prévoyance des marins
 <td> :inférieure ou égale à 12 mètres :  :         :         :</td>
 </tr>
 <tr>
-<td> :- propriétaire embarqué            :    7,30 :   5,55  :</td>
+<td> :- propriétaire embarqué            :    6    :   5,55  :</td>
 </tr>
 <tr>
-<td> :- autres membres de l'équipage     :    7,30 :   6,85  :</td>
+<td> :- autres membres de l'équipage     :    6    :   6,85  :</td>
 </tr>
 <tr>
 <td> :- navire d'une longueur supérieure :         :         :</td>
@@ -78,10 +78,10 @@ dues à la caisse générale de prévoyance des marins
 <td> :égale à 25 mètres :                :         :         :</td>
 </tr>
 <tr>
-<td> :- propriétaire embarqué            :    7,30 :   7,8   :</td>
+<td> :- propriétaire embarqué            :    6    :   7,8   :</td>
 </tr>
 <tr>
-<td> :- autres membres de l'équipage     :    7,30 :   7,8   :</td>
+<td> :- autres membres de l'équipage     :    6    :   7,8   :</td>
 </tr>
 <tr>
 <td> :Marins français embarqués sur      :         :         :</td>
@@ -111,19 +111,19 @@ dues à la caisse générale de prévoyance des marins
 <td> :   1. Pour chaque marin français   :         :         :</td>
 </tr>
 <tr>
-<td> :compris dans les 35 %              :     7,30:   4,80  :</td>
+<td> :compris dans les 35 %              :    6    :   4,80  :</td>
 </tr>
 <tr>
 <td> :   2. Pour chaque marin français   :         :         :</td>
 </tr>
 <tr>
-<td> :supplémentaire                     :     7,30:  16,35  :</td>
+<td> :supplémentaire                     :    6    :  16,35  :</td>
 </tr>
 <tr>
 <td> :- autres navires immatriculés dans :         :         :</td>
 </tr>
 <tr>
-<td> :le T.T.A.A.F.                      :     7,30:  16,35  :</td>
+<td> :le T.T.A.A.F.                      :    6    :  16,35  :</td>
 </tr>
 </table>
 
@@ -150,7 +150,7 @@ dues à la caisse générale de prévoyance des marins
 <td> :                                   :         :        :</td>
 </tr>
 <tr>
-<td> :- navire de plus de 50 tonneaux de :   7,30  :  16,35 :</td>
+<td> :- navire de plus de 50 tonneaux de :     6    :  16,35 :</td>
 </tr>
 <tr>
 <td> :jauge brute                        :         :        :</td>
@@ -159,7 +159,7 @@ dues à la caisse générale de prévoyance des marins
 <td> :- navire de 50 tonneaux de jauge   :         :        :</td>
 </tr>
 <tr>
-<td> :brute et moins                     :   7,30  :  15,75 :</td>
+<td> :brute et moins                     :     6    :  15,75 :</td>
 </tr>
 <tr>
 <td> :                                   :         :        :</td>
@@ -189,10 +189,10 @@ dues à la caisse générale de prévoyance des marins
 <td> :de jauge brute :                   :         :        :</td>
 </tr>
 <tr>
-<td> :- propriétaire embarqué            :    7,30 :   6,15 :</td>
+<td> :- propriétaire embarqué            :    6    :   6,15 :</td>
 </tr>
 <tr>
-<td> :- autres membres de l'équipage     :    7,30 :  16,35 :</td>
+<td> :- autres membres de l'équipage     :    6    :  16,35 :</td>
 </tr>
 <tr>
 <td> :- Navires de plus de 35 tonneaux   :         :        :</td>
@@ -204,10 +204,10 @@ dues à la caisse générale de prévoyance des marins
 <td> :tonneaux de jauge brute :          :         :        :</td>
 </tr>
 <tr>
-<td> :- propriétaire embarqué            :    7,30 :   5,55 :</td>
+<td> :- propriétaire embarqué            :    6    :   5,55 :</td>
 </tr>
 <tr>
-<td> :- autres membres de l'équipage     :    7,30 :  15,75 :</td>
+<td> :- autres membres de l'équipage     :    6    :  15,75 :</td>
 </tr>
 <tr>
 <td> :- Navires de plus de 30 tonneaux   :         :        :</td>
@@ -219,10 +219,10 @@ dues à la caisse générale de prévoyance des marins
 <td> :tonneaux de jauge brute :          :         :        :</td>
 </tr>
 <tr>
-<td> :- propriétaire embarqué            :    7,30 :   5,55 :</td>
+<td> :- propriétaire embarqué            :    6    :   5,55 :</td>
 </tr>
 <tr>
-<td> :- autres membres de l'équipage     :    7,30 :   9,31 :</td>
+<td> :- autres membres de l'équipage     :    6    :   9,31 :</td>
 </tr>
 <tr>
 <td> :- Navires de 30 tonneaux de jauge  :         :        :</td>
@@ -231,10 +231,10 @@ dues à la caisse générale de prévoyance des marins
 <td> :brute et moins :                   :         :        :</td>
 </tr>
 <tr>
-<td> :- propriétaire embarqué            :    7,30 :   5,55 :</td>
+<td> :- propriétaire embarqué            :    6    :   5,55 :</td>
 </tr>
 <tr>
-<td> :- autres membres de l'équipage     :    7,30 :   6,85 :</td>
+<td> :- autres membres de l'équipage     :    6    :   6,85 :</td>
 </tr>
 </table>
 
