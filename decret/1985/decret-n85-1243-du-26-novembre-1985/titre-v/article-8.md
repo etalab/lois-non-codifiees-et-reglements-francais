@@ -18,4 +18,6 @@ Institut du travail, Strasbourg-III ;
 
 Institut du travail, Saint-Etienne ;
 
-Institut régional du travail, Aix-Marseille-II.
+Institut régional du travail, Aix-Marseille-II ;
+
+Institut régional du travail, Toulouse-II.
