@@ -1,3 +1,3 @@
 # Article 2
 
-Si un département est compris en partie dans plusieurs bassins ou groupements de bassins, l'assemblée départementale élit ses représentants à chacun des comités.
+Le présent arrêté annule le précédent arrêté du ministre du travail du 2 juin 1975.

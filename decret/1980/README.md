@@ -12,6 +12,7 @@
 - [Décret n°80-247 du 3 avril 1980](decret-n80-247-du-3-avril-1980)
 - [Décret n°80-253 du 3 avril 1980](decret-n80-253-du-3-avril-1980)
 - [Décret n°80-263 du 3 avril 1980](decret-n80-263-du-3-avril-1980)
+- [Décret n°80-683 du 3 septembre 1980](decret-n80-683-du-3-septembre-1980)
 - [Décret n°80-121 du 4 février 1980](decret-n80-121-du-4-fevrier-1980)
 - [Décret n°80-397 du 4 juin 1980](decret-n80-397-du-4-juin-1980)
 - [Décret n°80-508 du 4 juillet 1980](decret-n80-508-du-4-juillet-1980)
