@@ -1,4 +1,4 @@
-# Arrêté du 10 juin 1980 relatif à l'indemnité pour utilisation d'outillage personnel susceptible d'être allouée à certains agents communaux.
+# Arrêté du 10 juin 1980 RELATIF AU TAUX DU REMBOURSEMENT FORFAITAIRE A VERSER PAR LES EXPLOITANTS AGRICOLES EMPLOYEURS DE MAIN D'OEUVRE ETRANGERE PERMANENTE INTRODUITE OU CONTROLEE PAR L'OFFICE NATIONAL D'IMMIGRATION
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

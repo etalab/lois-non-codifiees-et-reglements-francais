@@ -1,3 +1,5 @@
 # Article 1
 
-Les organismes délivrant les carnets de change doivent adresser mensuellement à la direction générale des douanes et droits indirects la liste des titulaires des carnets de change délivré selon les modalités qui seront précisées par le directeur général des douanes et droits indirects.
+Les cotisations au régime de retraite complémentaire des assurances sociales institué par le décret du 23 décembre 1970 susvisé sont, en ce qui concerne, d'une part, les personnels à temps plein régis par les décrets susvisés du 24 août 1961, du 8 mars 1978 et du 3 novembre 1980 qui n'ont pas renoncé à leur activité de secteur privé et, d'autre part, les personnels à temps partiel régis par les décrets susvisés du 3 mai 1974 et du 30 mars 1981, assises sur les deux tiers des émoluments hospitaliers perçus par les intéressés à l'exclusion des indemnités de gardes et astreintes.
+
+Toutefois, pour les praticiens chefs de service ainsi que pour les spécialistes du premier grade du cadre hospitalier d'anesthésie-réanimation ou d'hémobiologie-transfusion, l'assiette des cotisations ne pourra être inférieure au montant de la totalité ou de la moitié, selon que l'intéressé exerce à plein temps ou à temps partiel, du traitement brut afférent au premier chevron du groupe A des rémunérations hors échelle de la fonction publique.

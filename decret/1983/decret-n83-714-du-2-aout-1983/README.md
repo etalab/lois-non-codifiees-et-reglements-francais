@@ -1,0 +1,3 @@
+# Décret n°83-714 du 2 août 1983 PRIS POUR L'APPLICATION DE L'ARTICLE 2 DE LA LOI 580 DU 5 JUILLET 1983.
+
+- [Article 1](article-1.md)
