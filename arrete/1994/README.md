@@ -660,7 +660,6 @@
 - [Arrêté du 18 novembre 1994 (MCCB9400621A)](arrete-du-18-novembre-1994-mccb9400621a)
 - [Arrêté du 18 novembre 1994 (SPSP9403607A)](arrete-du-18-novembre-1994-spsp9403607a)
 - [Arrêté du 18 octobre 1994 (INTB9400631A)](arrete-du-18-octobre-1994-intb9400631a)
-- [Arrêté du 18 octobre 1994 (INTC9400579A)](arrete-du-18-octobre-1994-intc9400579a)
 - [Arrêté du 18 mai 1994 (AGRE9400968A)](arrete-du-18-mai-1994-agre9400968a)
 - [Arrêté du 18 mai 1994 (EQUS9400949A)](arrete-du-18-mai-1994-equs9400949a)
 - [Arrêté du 19 août 1994 (INDP9400840A)](arrete-du-19-aout-1994-indp9400840a)
