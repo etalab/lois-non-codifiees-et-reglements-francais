@@ -245,7 +245,6 @@
 - [Arrêté du 9 juillet 1993 (MENA9305245A)](arrete-du-9-juillet-1993-mena9305245a)
 - [Arrêté du 9 juin 1993 (ECOC9300077A)](arrete-du-9-juin-1993-ecoc9300077a)
 - [Arrêté du 9 juin 1993 (RESY9300491A)](arrete-du-9-juin-1993-resy9300491a)
-- [Arrêté du 9 juin 1993 (TEFT9300683A)](arrete-du-9-juin-1993-teft9300683a)
 - [Arrêté du 9 mars 1993 (DEFD9301296A)](arrete-du-9-mars-1993-defd9301296a)
 - [Arrêté du 9 mars 1993 (SANH9300756A)](arrete-du-9-mars-1993-sanh9300756a)
 - [Arrêté du 9 mars 1993 (SANP9300769A)](arrete-du-9-mars-1993-sanp9300769a)
