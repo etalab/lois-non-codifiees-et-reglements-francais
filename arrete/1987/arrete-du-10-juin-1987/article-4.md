@@ -1,6 +1,6 @@
 # Article 4
 
-Lorsque l'institution de retraite assure des prestations à ses bénéficiaires à la fois sur ses propres ressources et par l'intermédiaire d'organismes tiers (régime général, caisses complémentaires de l'article L. 731-1 ou tout autre organisme), les règles suivantes doivent être observées :
+Lorsque l'institution de retraite assure des prestations à ses bénéficiaires à la fois sur ses propres ressources et par l'intermédiaire d'organismes tiers (régime général, institutions de retraite complémentaire du titre II du livre IX du code de la sécurité sociale ou tout autre organisme), les règles suivantes doivent être observées :
 
 - les rentes en cours de jouissance dont il doit être tenu compte pour le calcul des réserves mathématiques sont uniquement celles qui sont à la charge de l'institution, à l'exclusion de celles qui sont servies par ces autres organismes ;
 
