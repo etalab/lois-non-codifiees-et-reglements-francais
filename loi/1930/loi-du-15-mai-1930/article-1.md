@@ -1,7 +1,0 @@
-# Article 1
-
-Dans les voies privées de Paris, l'administration municipale peut exécuter d'office, dans les conditions ci-après indiquées, tous travaux de premier établissement ou de grosses réparations reconnus nécessaires pour l'application des lois et règlements visés à l'article 1er de la loi du 22 juillet 1912.
-
-Si les travaux ont déjà fait l'objet d'un arrêté d'injonction pris en conformité des articles L.26 et suivants du Code de la santé publique, l'administration adresse par lettre recommandée, aux propriétaires ou à leur syndic, s'il en a été désigné un, une mise en demeure d'avoir à les exécuter dans un délai qu'elle fixera ; cette mise en demeure mentionnera qu'à défaut d'exécution dans le délai indiqué [*infraction*] ces travaux seront exécutés d'office aux frais des intéressés [*sanction*]. A l'expiration de ce délai, il pourra être procédé, sans autres formalités, à l'exécution d'office.
-
-S'il n'a pas été pris d'arrêté d'injonction et si une intervention d'urgence est nécessaire, le préfet de Paris peut prescrire par arrêté et faire exécuter immédiatement et d'office, sans mise en demeure préalable, les travaux de réparation ou de consolidation, à caractère sommaire et conservatoire, reconnus indispensables ainsi que, dans les voies livrées à la circulation publique et dont la liste a été établie par voie d'arrêté, les travaux reconnus nécessaires à la sécurité de la circulation. Il rend compte de son intervention à la commission des logements insalubres.
