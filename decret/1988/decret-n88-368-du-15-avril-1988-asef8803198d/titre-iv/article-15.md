@@ -1,7 +1,5 @@
 # Article 15
 
-Les montants en francs mentionnés dans le présent décret sont applicables en France métropolitaine et à Saint-Pierre-et-Miquelon.
+Les rémunérations mensuelles fixées aux articles 5,6,7,8 et 11 du présent décret incluent les indemnités compensatrices de congés payés mentionnées à l'article R. 961-12 du code du travail.
 
-Dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, ils sont multipliés par un coefficient égal au rapport entre les montants du salaire minimum de croissance respectivement en vigueur dans ces départements et en France métropolitaine.
-
-Toutefois, ces coefficients ne sont pas applicables aux montants mentionnés au deuxième alinéa de l'article 8 ci-dessus ainsi qu'au montant de 183 F figurant au 2° de l'article 9 ci-dessus.
+Les personnes relevant de l'administration pénitentiaire qui effectuent un stage de formation professionnelle à l'extérieur de l'établissement en régime de semi-liberté ou de placement extérieur bénéficient des rémunérations définies au présent décret avec les mêmes critères d'attribution.
