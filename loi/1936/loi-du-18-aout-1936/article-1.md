@@ -1,3 +1,25 @@
 # Article 1
 
-Sera puni de deux ans de prison et d'une amende de 9 000 euros quiconque, par des voies ou des moyens quelconques, aura sciemment répandu dans le public des faits faux ou des allégations mensongères de nature à ébranler directement ou indirectement sa confiance dans la solidité de la monnaie, la valeur des fonds d'Etat de toute nature, des fonds des départements et des communes, des établissements publics et, d'une manière générale, de tous les organismes où les collectivités précédentes ont une participation directe ou indirecte.
+La limite d'âge est abaissée, pour les fonctionnaires et employés civils des services de l'Etat de la catégorie A et de la catégorie B, dans les conditions ci-dessous :
+
+Catégorie A
+
+1er échelon, soixante-dix ans.
+
+2ème échelon, soixante-dix ans.
+
+3ème échelon, soixante-dix ans.
+
+4ème échelon, soixante-sept ans.
+
+5ème échelon, soixante-cinq ans.
+
+Catégorie B
+
+1er échelon, soixante-sept ans ; Police soixante ans.
+
+2ème échelon, soixante-cinq ans ; Police cinquante-neuf ans.
+
+3ème échelon, soixante-deux ans; Police cinquante-six ans.
+
+4ème échelon, soixante ans ; Police cinquante-cinq ans.
