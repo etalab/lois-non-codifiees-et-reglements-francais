@@ -14,6 +14,8 @@ Pour accéder à l'examen final, les candidats accompagnateurs stagiaires doiven
 
 - une copie du livret de formation comportant le rapport du conseiller pédagogique ;
 
+- l'attestation de réussite au tronc commun, ou le justificatif d'un titre admis en équivalence ;
+
 - la liste des randonnées effectuées par le candidat durant son stage en situation et attestées par le conseiller pédagogique, établie sur un imprimé normalisé élaboré par l'Ecole nationale de ski et d'alpinisme ;
 
 - un document rédigé par le candidat, en deux parties, portant sur les aspects relationnels, d'un part, et sur les aspects spécifiques de la région où il a acquis la plus grande partie de son expérience préprofessionnelle, d'autre part.

@@ -14,7 +14,7 @@ Les candidats doivent adresser au directeur de l'Ecole nationale de ski et d'alp
 
 - un certificat médical de non-contre-indication à la pratique et à l'enseignement de l'alpinisme datant de moins de trois mois à l'ouverture des épreuves ;
 
-- une photocopie d'identité ;
+- une photographie d'identité ;
 
 - deux enveloppes affranchies, dont l'une de format 23 16 cm, au tarif d'un envoi de 20 à 50 grammes, portant mention du nom, du prénom et de l'adresse du candidat ;
 

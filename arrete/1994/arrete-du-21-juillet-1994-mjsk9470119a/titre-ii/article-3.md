@@ -4,7 +4,7 @@ Les candidats à l'examen probatoire du diplôme d'accompagnateur en moyenne mon
 
 Les candidats doivent adresser au directeur régional de la jeunesse, des sports et des loisirs organisateur de l'examen, deux mois au moins avant la date des épreuves, un dossier comprenant :
 
-- une demande d'inscription établie sur un diplôme normalisé comportant une photographie d'identité ;
+- une demande d'inscription établie sur un imprimé normalisé comportant une photographie d'identité ;
 
 - une photocopie de la carte nationale d'identité, recto et verso ;
 

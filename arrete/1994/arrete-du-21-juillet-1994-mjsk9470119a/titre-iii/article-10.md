@@ -6,7 +6,7 @@ Elle est organisée par un établissement public relevant du ministre chargé de
 
 Elle comporte des enseignements techniques, théoriques et pratiques validés dans les programmes suivants :
 
-- navigation (épreuves éliminatoires) ;
+- navigation (épreuve éliminatoire) ;
 
 - approche de la moyenne montagne enneigée et connaissances en nivologie et dans les domaines de la sécurité ou approche de la moyenne montagne tropicale et connaissances en hydromorphologie et météorologie spécifique, permettant d'apprécier les risques objectifs de l'activité et de conduire une randonnée sur des terrains appropriés (coefficient 2) ;
 
