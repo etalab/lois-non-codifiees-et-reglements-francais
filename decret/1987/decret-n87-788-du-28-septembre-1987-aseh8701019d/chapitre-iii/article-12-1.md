@@ -1,6 +1,6 @@
 # Article 12-1
 
-Les assistants recrutés en application des dispositions des articles 2 et 2-I ont droit à un congé de formation dont la durée est fixée à huit jours ouvrables par an.
+Les assistants recrutés en application des dispositions des articles 2 et 2-1 du présent décret et qui exercent leurs fonctions à temps plein ont droit à un congé de formation dont la durée est fixée à quinze jours ouvrables par an. Lorsqu'ils exercent leurs fonctions à temps partiel, la durée de ce congé est fixée à douze demi-journées ouvrables par an.
 
 Les droits à congé de formation au titre de deux années peuvent être cumulés.
 
