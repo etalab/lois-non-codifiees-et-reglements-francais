@@ -1,6 +1,6 @@
 # Article 10
 
-Les membres des organes dirigeants des comités sont nommés par l'autorité administrative, pour une durée de quatre ans, dans les conditions suivantes :
+Les membres des organes dirigeants des comités sont nommés par l'autorité administrative dans les conditions suivantes :
 
 - les membres des organes dirigeants des sections régionales représentant les exploitants des diverses activités conchylicoles sont nommés sur proposition de leurs organisations représentatives ; à défaut d'accord entre ces organisations, il est procédé à des élections ;
 
