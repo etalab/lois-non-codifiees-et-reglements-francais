@@ -28,35 +28,33 @@ A. - Ces participations sont indemnisées sur la base de taux forfaitaires commu
 
 Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique sont fixés ainsi qu'il suit :
 
-Taux à compter du 01-01-90 (en francs), du 01-04-90 (en francs)
+Taux à compter du 1er-12-90 (en francs)
 
 1. Service de garde sur place
 
-Garde : 1 027, 1 039.
+Garde : 1 052.
 
-Demi-garde : 513, 519.
+Demi-garde : 526.
 
 2. Service de garde par astreinte
 
 Astreinte opérationnelle
 
-a) Indemnité forfaitaire de base par demi-astreinte : 128,37, 129,87.
+a) Indemnité forfaitaire de base par demi-astreinte : 131,5.
 
-b) Indemnité due pour chaque appel : 128,37, 129,87.
-
-Le montant cumulé des indemnités perçues ne peut excéder par demi-astreinte : 513, 519.
+b) Indemnité due pour chaque appel : 131,5. Le montant cumulé des indemnités perçues ne peut excéder par demi-astreinte : 526.
 
 Astreinte de sécurité
 
-a) Indemnité forfaitaire de base : 128,37, 129,87.
+a) Indemnité forfaitaire de base : 131,5.
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
-- pour quatre semaines : 1 027, 1 039.
+- pour quatre semaines : 1 052.
 
-- pour cinq semaines : 1 283, 1 298.
+- pour cinq semaines : 1 315.
 
-b) Indemnité due pour chaque appel : 128,37, 129,87.
+b) Indemnité due pour chaque appel : 131,5.
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
@@ -64,13 +62,13 @@ Appels exceptionnels
 
 a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
-b) Indemnité due pour chaque appel : 128,37, 129,87.
+b) Indemnité due pour chaque appel : 131,5.
 
 Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou de garde par astreinte à domicile ne peut excéder :
 
-- pour quatre semaines : 10 270, 10 390.
+- pour quatre semaines : 10 520.
 
-- pour cinq semaines : 12 838, 12 988.
+- pour cinq semaines : 13 150.
 
 Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 
