@@ -1,11 +1,9 @@
 # Article 12
 
-La subvention accordée fait l'objet de deux versements.
+Le directeur général du Centre national de la cinématographie, ou son représentant, assiste de droit aux séances de la commission.
 
-Le premier versement, qui ne peut excéder 50 % du montant total de la subvention allouée, est effectué immédiatement.
+Le secrétariat de la commission est assuré par le Centre national de la cinématographie.
 
-Le deuxième versement est effectué après examen par la commission du scénario remanié.
+La commission fixe les modalités d'examen des demandes de subventions et d'avances qui lui sont présentées. Elle établit son règlement intérieur qui est approuvé par le directeur général du Centre national de la cinématographie.
 
-Le bénéficiaire de la subvention dispose d'un délai de six mois à compter du premier versement pour soumettre le scénario remanié à l'examen de la commission. Toutefois, sur demande motivée, ce délai peut, par décision du directeur général du Centre national de la cinématographie, être prorogé.
-
-Lorsque le scénario remanié n'est pas soumis à l'examen de la commission dans le délai fixé conformément à l'alinéa précédent, le bénéficiaire de la subvention est déchu de la faculté d'obtenir le deuxième versement et la somme déjà versée est sujette à répétition. Toutefois, le directeur général du Centre national de la cinématographie peut décider de prolonger ce délai.
+Pour contribuer à l'examen des demandes, la commission peut faire appel à des personnalités extérieures figurant sur une liste établie par le président. Ces personnes ne peuvent en aucun cas participer aux votes de la commission.

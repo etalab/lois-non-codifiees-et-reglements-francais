@@ -1,6 +1,6 @@
 # Article 17
 
-La commission d'agrément prévue à l'article 26 du décret du 24 février 1999 susvisé, ci-après dénommée  la commission , est composée de dix-neuf membres ainsi répartis :
+La commission d'agrément prévue à l'article 26 du décret du 24 février 1999 susvisé, ci-après dénommée la commission , est composée de vingt membres ainsi répartis :
 
 1° Un président ;
 
@@ -8,7 +8,7 @@ La commission d'agrément prévue à l'article 26 du décret du 24 février 1999
 
 3° Un représentant des entreprises de distribution ;
 
-4° Un représentant des industries techniques ;
+4° Deux représentants des industries techniques ;
 
 5° Un représentant des directeurs de production ;
 
