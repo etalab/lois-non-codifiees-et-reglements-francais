@@ -3,4 +3,5 @@
 - [TITRE Ier : ASSIETTE ET LIQUIDATION.](titre-ier)
 - [TITRE II : OBLIGATIONS DES REDEVABLES, CONTRÔLE ET SANCTIONS.](titre-ii)
 - [TITRE III : MODALITÉS DE RECOUVREMENT.](titre-iii)
+- [Article 11 bis](article-11-bis.md)
 - [Article 28](article-28.md)
