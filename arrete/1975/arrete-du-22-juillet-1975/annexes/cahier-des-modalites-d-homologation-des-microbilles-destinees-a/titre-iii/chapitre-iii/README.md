@@ -1,0 +1,3 @@
+# CHAPITRE III : PAIEMENT DES FRAIS D'HOMOLOGATION.
+
+- [Article ANNEXE I, 19](article-annexe-i-19.md)
