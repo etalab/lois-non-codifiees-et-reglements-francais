@@ -14,6 +14,6 @@ La demande indique [*mentions obligatoires*] :
 
 6. La nature et le montant des autres dépenses énumérées à l'article 5 avec le nom et l'adresse des bénéficiaires;
 
-7. S'il y a lieu, le montant des subventions, cotisations ou impositions versées à des chambres syndicales, à des chambres de commerce et d'industrie, à des chambres de métiers, à des chambres d'agriculture ou à toutes associations consacrant une partie de leurs ressources à des dépenses entrant dans la prévision de l'article 5.
+7. S'il y a lieu, le montant des subventions, cotisations ou impositions versées à des chambres syndicales, à des chambres de commerce et d'industrie, à des chambres de métiers, à des chambres d'agriculture ou à toutes associations consacrant une partie de leurs ressources à des dépenses entrant dans la prévision de l'article 5.    Les éléments mentionnés aux 2°, 3°, 4° et 5° sont fournis pour chacune des régions dans lesquelles l'employeur verse des salaires.
 
 La demande est accompagnée des reçus prévus à l'article 20 et, le cas échéant, de toutes autres justifications nécessaires.
