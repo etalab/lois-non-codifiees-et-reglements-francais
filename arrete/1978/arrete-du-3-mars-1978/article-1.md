@@ -1,397 +1,49 @@
 # Article 1
 
-L'échelonnement indiciaire applicable aux personnels du Conservatoire national des arts et métiers ci-après énumérés est fixé, en indices bruts, ainsi qu'il suit à compter du 1er août 1977 :
+Les organisations professionnelles et syndicales, syndicats de restaurateurs et les entreprises ayant pour activité principale l'émission des titres-restaurant désignés ci-dessus sont chargés, chacun en ce qui le concerne, de désigner leurs représentants à la commission prévue par l'article 15 du décret du 22 décembre 1967 susvisé :
 
-Conservatoire national des arts et métiers
+a) Organisations professionnelles :
 
-Indices bruts
+Conseil national du patronat français (CNPF) : deux membres ;
 
-Sous-directeur de laboratoire (1) :
+Confédération générale des petites et moyennes entreprises et du patronat réel (CGPME) : deux membres.
 
-(1) La carrière dans ce grade se poursuit hors échelle sous la forme d'une classe exceptionnelle.
+Uni professionnelle artisanale (UPA) : un membre.
 
-Sous-directeur de laboratoire d'essais (1) :
+b) Organisations syndicales :
 
-<table>
-<tbody>
-<tr>
-<td>
-<p>3e échelon</p>
-</td>
-<td>
-<p align="right">1015</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2e échelon</p>
-</td>
-<td>
-<p align="right">901</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>1er échelon</p>
-</td>
-<td rowspan="2">
-<p align="right">801</p>
-</td>
-</tr>
-</tbody>
-</table>
+Confédération générale du travail (CGT) : un membre ;
 
-(1) La carrière dans ce grade se poursuit hors échelle sous la forme d'une classe exceptionnelle.
+Confédération générale du travail Force ouvrière (CGT-FO) ; un membre ;
 
-Chef de travaux :
+Confédération française démocratique du travail (CFDT) : un membre ;
 
-<table>
-<tbody>
-<tr>
-<td>
-<p>7e échelon</p>
-</td>
-<td>
-<p align="right">801</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>6e échelon</p>
-</td>
-<td>
-<p align="right">721</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>5e échelon</p>
-</td>
-<td>
-<p align="right">630</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>4e échelon</p>
-</td>
-<td>
-<p align="right">561</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>3e échelon</p>
-</td>
-<td>
-<p align="right">498</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2e échelon</p>
-</td>
-<td>
-<p align="right">440</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>1er échelon</p>
-</td>
-<td rowspan="2">
-<p align="right">379</p>
-</td>
-</tr>
-</tbody>
-</table>
+Confédération française des travailleurs chrétiens (CFTC) : un membre ;
 
-Assistant-chef :
+Confédération générale de l'encadrement confédération générale des cadres (CFE- CGC) : un membre.
 
-<table>
-<tbody>
-<tr>
-<td>
-<p>5e échelon</p>
-</td>
-<td>
-<p align="right">701</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>4e échelon</p>
-</td>
-<td>
-<p align="right">659</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>3e échelon</p>
-</td>
-<td>
-<p align="right">612</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2e échelon</p>
-</td>
-<td>
-<p align="right">580</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>1er échelon</p>
-</td>
-<td rowspan="2">
-<p align="right">546</p>
-</td>
-</tr>
-</tbody>
-</table>
+c) Syndicats de restaurateurs et de commerces susceptibles d'être assimilés à des restaurateurs :
 
-Chef du service des essais :
+Fédération nationale de l'industrie hôtelière de France et d'outre-mer : un membre.
 
-<table>
-<tbody>
-<tr>
-<td>
-<p>6e échelon</p>
-</td>
-<td>
-<p align="right">901</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>5e échelon</p>
-</td>
-<td>
-<p align="right">852</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>4e échelon</p>
-</td>
-<td>
-<p align="right">801</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>3e échelon</p>
-</td>
-<td>
-<p align="right">736</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2e échelon</p>
-</td>
-<td>
-<p align="right">671</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>1er échelon</p>
-</td>
-<td rowspan="2">
-<p align="right">616</p>
-</td>
-</tr>
-</tbody>
-</table>
+Union des chambres syndicales des cafetiers, limonadiers et restaurateurs : un membre ;
 
-Physicien et chimiste principal :
+Syndicat national des restaurateurs, limonadiers et hôteliers : un membre ;
 
-<table>
-<tbody>
-<tr>
-<td>
-<p>3e échelon</p>
-</td>
-<td>
-<p align="right">701</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2e échelon</p>
-</td>
-<td>
-<p align="right">626</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>1 échelon</p>
-</td>
-<td rowspan="2">
-<p align="right">546</p>
-</td>
-</tr>
-</tbody>
-</table>
+Confédération française des hôteliers-restaurateurs, cafetiers, discothèques : un membre ;
 
-Physicien et chimiste :
+Chambre nationale de la restauration et de l'hôtellerie : un membre ;
 
-<table>
-<tbody>
-<tr>
-<td>
-<p>7e échelon</p>
-</td>
-<td>
-<p align="right">652</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>6e échelon</p>
-</td>
-<td>
-<p align="right">612</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>5e échelon</p>
-</td>
-<td>
-<p align="right">550</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>4e échelon </p>
-</td>
-<td>
-<p align="right">482</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>3e échelon</p>
-</td>
-<td>
-<p align="right">425</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2e échelon</p>
-</td>
-<td>
-<p align="right">358</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>1er échelon</p>
-</td>
-<td rowspan="2">
-<p align="right">306</p>
-</td>
-</tr>
-</tbody>
-</table>
+Confédération nationale de la charcuterie de France : un membre ;
 
-Chef du service de muséologie technique :
+Confédération nationale de la boulangerie et de la boulangerie-¬pâtisserie française : un membre.
 
-<table>
-<tbody>
-<tr>
-<td>
-<p>5e échelon</p>
-</td>
-<td>
-<p align="right">966</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>4e échelon</p>
-</td>
-<td>
-<p align="right">901</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>3e échelon</p>
-</td>
-<td>
-<p align="right">849</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2e échelon</p>
-</td>
-<td>
-<p align="right">795</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2">
-<p>1er échelon</p>
-</td>
-<td rowspan="2">
-<p align="right">741</p>
-</td>
-</tr>
-</tbody>
-</table>
+d) Entreprises émettrices de titres-restaurant :
 
-Conservateur adjoint des collections :
+Société anonyme Intertitres-restaurant : un membre ;
 
-<table>
-<tbody>
-<tr>
-<td>
-<p>5e échelon</p>
-</td>
-<td>
-<p align="right">772</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>4e échelon</p>
-</td>
-<td>
-<p align="right">701</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>3e échelon</p>
-</td>
-<td>
-<p align="right">567</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>2e échelon</p>
-</td>
-<td>
-<p align="right">445</p>
-</td>
-</tr>
-<tr>
-<td>
-<p>1er échelon</p>
-</td>
-<td>
-<p align="right">340</p>
-</td>
-</tr>
-</tbody>
-</table>
+Société anonyme Sodetir : un membre ;
+
+Société coopérative de production anonyme Le Chèque déjeuner CCR : un membre.
+
+Société anonyme Accor : un membre.
