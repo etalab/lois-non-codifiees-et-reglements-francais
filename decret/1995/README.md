@@ -596,6 +596,7 @@
 - [Décret n°95-1031 du 14 septembre 1995 (MENU9501896D)](decret-n95-1031-du-14-septembre-1995-menu9501896d)
 - [Décret n°95-1036 du 14 septembre 1995 (DOMP9500033D)](decret-n95-1036-du-14-septembre-1995-domp9500033d)
 - [Décret n°95-1208 du 14 novembre 1995 (AGRM9502230D)](decret-n95-1208-du-14-novembre-1995-agrm9502230d)
+- [Décret n°95-1221 du 14 novembre 1995 (ENVN9530021D)](decret-n95-1221-du-14-novembre-1995-envn9530021d)
 - [Décret n°95-176 du 14 février 1995 (AGRP9402413D)](decret-n95-176-du-14-fevrier-1995-agrp9402413d)
 - [Décret n°95-185 du 14 février 1995 (SPSA9503823D)](decret-n95-185-du-14-fevrier-1995-spsa9503823d)
 - [Décret n°95-284 du 14 mars 1995 (SPSP9500545D)](decret-n95-284-du-14-mars-1995-spsp9500545d)
