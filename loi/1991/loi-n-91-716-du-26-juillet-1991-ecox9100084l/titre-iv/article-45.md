@@ -1,0 +1,11 @@
+# Article 45
+
+I. - Il ne peut être fait droit à aucune réclamation ou demande se rapportant à un contrat ou à une garantie financière indépendante, dont l'exécution a été affectée par les mesures décidées en vertu de la résolution n° 661 et des résolutions connexes du Conseil de sécurité des Nations Unies ou des règlements communautaires n° 2340-90 du 8 août 1990 et n° 3155-90 du 29 octobre 1990 ou en vertu de toutes autres dispositions françaises ou étrangères adoptées en conformité avec ces mesures, si elle est présentée par l'Etat irakien, une collectivité publique irakienne, une personne physique résidant en Irak, une personne morale ayant son siège ou son centre d'activités en Irak, une personne morale dont le capital ou les droits de vote sont contrôlés directement ou indirectement par une ou plusieurs des personnes ainsi définies. Il en est de même pour les réclamations ou demandes présentées par une personne physique ou morale se prévalant d'une cession de droits d'une ou plusieurs des personnes ci-dessus énumérées ou d'une personne agissant au nom ou pour le compte d'une ou plusieurs personnes mentionnées ci-dessus.    Les dispositions du présent article s'appliquent, dans les mêmes conditions, à toutes les stipulations annexes au contrat.
+
+II. - Les dispositions du I ne sont pas applicables aux réclamations relatives aux contrats pour lesquelles le demandeur fait la preuve que la cause de la réclamation est antérieure aux mesures mentionnées au I et que ces mesures n'ont pas eu d'incidence sur l'existence ou le contenu de la réclamation.
+
+Il en est de même des réclamations ou des demandes portant sur des garanties financières indépendantes pour lesquelles le demandeur fait la preuve que les mesures mentionnées au I n'ont pas eu d'incidence sur l'existence ou le contenu de la réclamation ou de la demande et que, ni l'exécution de la garantie ni celle du contrat de fourniture de biens ou de services qui en est la cause n'ont été affectées par lesdites mesures.
+
+Les dispositions du I ne sont pas applicables aux réclamations ou demandes portant sur des contrats de travail soumis au droit français.
+
+III. - Le présent article s'applique immédiatement à toute demande, y compris aux instances en cours, à toute réclamation contentieuse ou non, quelle que soit la loi applicable au litige.

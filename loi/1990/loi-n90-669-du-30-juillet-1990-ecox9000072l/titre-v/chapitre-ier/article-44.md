@@ -42,6 +42,8 @@ Par dérogation aux dispositions du 2° ci-dessus, les représentants des collec
 
 Pour chaque membre, est désigné, dans les mêmes conditions, un suppléant appelé à remplacer le titulaire en cas d'absence ou d'empêchement.
 
-Les représentants des collectivités locales et ceux des contribuables élisent, parmi eux, un président qui a voix prépondérante en cas de partage égal.
+Les représentants des collectivités locales et ceux des contribuables, toutes formations réunies, élisent, parmi les représentants des collectivités locales, un président qui a voix prépondérante en cas de partage égal (1).
 
 Les élections et désignations prévues au présent article pour les représentants mentionnés au 2° et au 3° sont faites pour trois ans.
+
+(1) Ces dispositions ont une valeur interprétative.

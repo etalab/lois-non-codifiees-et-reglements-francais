@@ -42,8 +42,10 @@ Toutefois, pour le département de Paris, le comité de délimitation comprend, 
 
 - une personne désignée par la chambre d'agriculture du département.
 
-Le président est élu par les membres du comité et a voix prépondérante en cas de partage égal.
+Le président est élu parmi les représentants des collectivités locales par les membres du comité, toutes formations réunies, et à voix prépondérante en cas de partage égal (1).
 
 Pour chaque membre, est désigné, dans les mêmes conditions, un suppléant appelé à remplacer le titulaire en cas d'absence ou d'empêchement.
 
 Les élections et désignations prévues au présent article sont faites pour trois ans.
+
+(1) Ces dispositions ont une valeur interprétative.

@@ -1,14 +1,14 @@
 # Article 56
 
-I. - [*Paragraphe modificateur*]
+I. [*Paragraphe modificateur*]
 
-II. - 1. A compter du 1er janvier 1992, les personnes physiques fiscalement domiciliées en France, à l'exception de celles visées au 2 de l'article 4 B du code général des impôts, sont assujetties à une taxe départementale sur le revenu.
+II. - 1. A compter du 1er janvier 1992, les personnes physiques fiscalement domiciliées en France, à l'exception de celles visées au 2 de l'article 4 B du code général des impôts, sont assujetties à une taxe départementale sur le revenu lorsqu'elles ne remplissent pas les conditions posées au a du 1 du même article.
 
 2. Cette taxe est assise, chaque année, sur le montant net des revenus et plus-values pris en compte pour le calcul de l'impôt sur le revenu établi au titre de l'année précédente. Le revenu imposable à la taxe départementale sur le revenu est diminué d'un abattement pour charges de famille puis d'un abattement à la base.
 
-Le montant de l'abattement pour charges de famille est égal par personne à la charge du contribuable au sens du paragraphe III de l'article 1411 du code général des impôts à 15 p. 100 du revenu moyen par habitant de l'ensemble des départements. Ce taux peut être majoré d'un ou plusieurs points par le conseil général sans pouvoir excéder 18 p. 100.
+Le montant de l'abattement pour charges de famille est égal par personne à la charge du contribuable au sens du paragraphe III de l'article 1411 du code général des impôts à 18 p. 100 de la moyenne nationale par habitant des revenus compris dans les rôles généraux d'impôt sur le revenu émis au cours de l'année précédente. Ce taux peut être majoré d'un ou plusieurs points par le conseil général sans pouvoir excéder 21 p. 100.
 
-L'abattement à la base est fixé à 15 000 F. Il est porté à 30 000 F pour les contribuables mariés qui sont soumis à une imposition commune à l'impôt sur le revenu. Ces montants peuvent être majorés simultanément et dans la même proportion par le conseil général sans pouvoir excéder respectivement 18 000 F et 36 000 F. Les montants fixés au présent alinéa sont indexés, chaque année, comme la septième tranche du barème de l'impôt sur le revenu.
+L'abattement à la base est fixé à 15 000 F. Il est porté à 30 000 F pour les contribuables mariés qui sont soumis à une imposition commune à l'impôt sur le revenu. Ces montants peuvent être majorés simultanément et dans la même proportion par le conseil général sans pouvoir excéder respectivement de 5, 10, 15 ou 20 p. 100. Les montants fixés au présent alinéa sont indexés, chaque année, comme la septième tranche du barème de l'impôt sur le revenu.
 
 Les redevables de la taxe départementale sur le revenu sont dégrevés d'office de 8 p. 100 du montant de cette dernière.
 
@@ -42,6 +42,14 @@ Les cotisations de taxe d'habitation dues au titre de l'habitation principale et
 
 5. Les conseils généraux votent chaque année le taux de la taxe départementale sur le revenu.
 
+Ils peuvent faire varier ce taux et ceux de la taxe professionnelle, de la taxe d'habitation, de la taxe foncière sur les propriétés bâties et de la taxe foncière sur les propriétés non bâties dans les conditions prévues aux 1 et 3 du I de l'article 1636 B sexies du code général des impôts.
+
+Pour l'application de ces dispositions :
+
+a) Le taux moyen pondéré s'entend du taux moyen de la taxe d'habitation, des taxes foncières et de la taxe départementale sur le revenu, pondéré par l'importance relative des bases de ces taxes ;
+
+b) La variation du taux de la taxe d'habitation s'entend de la variation du taux de la taxe départementale sur le revenu.
+
 Pour l'année 1992 :
 
 a) Le taux de celle-ci est fixé de manière que son produit ne soit pas supérieur au produit perçu l'année précédente par le département au titre de la taxe d'habitation due pour les locaux affectés à l'habitation principale majoré de 4 p. 100.
@@ -50,9 +58,11 @@ Pour l'application de l'alinéa précédent, le produit perçu l'année précéd
 
 b) En 1992 pour l'application aux départements des dispositions de l'article 1636 B sexies du code général des impôts :
 
-1° La variation du taux de la taxe d'habitation s'entend de la variation résultant de l'application du a ci-dessus ;
+1° La variation du taux de la taxe d'habitation s'entend du rapport entre, d'une part, le produit de la taxe départementale sur le revenu fixé conformément au a ci-dessus et, d'autre part, le produit obtenu en multipliant les valeurs locatives définies au 2° par le taux de la taxe d'habitation voté par le département pour 1991. Cette variation est celle qui doit être retenue pour l'application, s'il y a lieu, du a du 1 du I de l'article 1636 B sexies précité.
 
-2° Le taux moyen pondéré s'entend du taux moyen de la taxe d'habitation, des taxes foncières et de la taxe départementale sur le revenu pondéré par l'importance relative des bases de ces taxes. Pour le calcul du taux moyen pondéré de 1992, les bases prises en compte pour la taxe départementale sur le revenu sont les valeurs locatives, au 1er janvier 1992, des habitations principales situées dans le département.
+2° Pour le calcul du taux moyen pondéré, les bases prises en compte pour la taxe départementale sur le revenu sont les valeurs locatives au 1er janvier 1992 des habitations principales situées dans le département, diminuées des abattements visés au II bis de l'article 1411 du code général des impôts qui auraient été appliqués au titre de 1992, en l'absence de réforme, pour la taxe d'habitation départementale.
+
+5 bis. Les bases de la taxe départementale sur le revenu notifiées aux conseils généraux sont déterminées à partir des revenus compris dans les rôles d'impôt sur le revenu émis au cours de l'année précédant celle de l'imposition à la taxe départementale sur le revenu.
 
 6. Il est perçu sur les revenus soumis à prélèvement libératoire une taxe dont le taux est égal au taux moyen de la taxe départementale sur le revenu voté par les départements l'année précédente. Pour le calcul de la taxe due en 1992, ce taux est fixé à 0,6 p. 100. Le produit de cette taxe, après prélèvement de la moitié de son montant effectué au profit de l'Etat, est affecté, par un fonds national d'aide, aux départements dont le revenu par habitant est inférieur à 85 p. 100 du revenu moyen par habitant des départements. Ce produit est réparti en proportion de l'insuffisance par rapport au revenu moyen par habitant des départements. La taxe est établie, contrôlée et recouvrée selon les mêmes règles et sous les mêmes sûretés, privilèges et sanctions que le prélèvement mentionné à l'article 125 A du code général des impôts.
 
@@ -62,12 +72,8 @@ III. - A compter du 1er janvier 1992, les personnes passibles de la taxe départ
 
 IV. [*Paragraphe modificateur*]
 
-V. Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 90-277 DC du 25 juillet 1990.
+V.  La taxe départementale sur le revenu entre en vigueur dans les départements d'outre-mer au 1er janvier 1994. Un décret en Conseil d'Etat fixe (Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 90-277 DC du 25 juillet 1990) les conditions dans lesquelles les dispositions relatives à la taxe départementale sur le revenu et aux attributions du Fonds national d'aide prévu au 6 du paragraphe II seront applicables dans les départements d'outre-mer.
 
-VI. et VII [*Paragraphes modificateurs*]
+VI. VII. [*Paragraphes modificateurs*]
 
-VIII. - Le Gouvernement réalisera la simulation du dispositif visé au paragraphe II comme pour le cas d'une application en 1991.
-
-Cette simulation portera sur l'ensemble des départements métropolitains.
-
-L'entrée en vigueur des dispositions du présent article au 1er janvier 1992 sera soumise à l'approbation du Parlement.
+VIII. - Par dérogation aux dispositions de l'article 1639 A bis du code général des impôts, les délibérations des départements relatives à l'application, au titre de 1992, des abattements visés au 2 du II doivent être prises avant le 1er octobre 1991.

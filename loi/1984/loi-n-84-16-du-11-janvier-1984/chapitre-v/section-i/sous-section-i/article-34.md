@@ -26,6 +26,8 @@ Sur demande de l'intéressé, l'administration a la faculté, après avis du com
 
 6° Au congé de formation professionnelle ;
 
-7° Au congé pour formation syndicale avec traitement d'une durée maximale de douze jours ouvrables par an ;
+7° Au congé pour formation syndicale avec traitement d'une durée maximale de douze jours ouvrables par an.
+
+La formation ouvrant droit au bénéfice de ce congé et placée sous la responsabilité des organisations syndicales de fonctionnaires représentées au Conseil supérieur de la fonction publique de l'Etat peut faire l'objet d'une aide financière de l'Etat.
 
 8° A un congé de six jours ouvrables par an accordé, sur sa demande, au fonctionnaire de moins de vingt-cinq ans, pour participer aux activités des organisations de jeunesse et d'éducation populaire, des fédérations et des associations sportives et de plein air légalement constituées, destinées à favoriser la préparation, la formation ou le perfectionnement de cadres et animateurs. Ce congé non rémunéré peut être pris en une ou deux fois à la demande du bénéficiaire. La durée du congé est assimilée à une période de service effectif. Elle ne peut être imputée sur la durée du congé annuel. Ce congé ne peut se cumuler avec celui qui est prévu au 7° du présent article qu'à concurrence de douze jours ouvrables pour une même année.
