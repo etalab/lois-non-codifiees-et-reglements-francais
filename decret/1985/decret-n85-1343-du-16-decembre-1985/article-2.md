@@ -17,3 +17,5 @@ Sous réserve des exceptions déterminées par le décret n° 85-1344 du 16 déc
 - la déclaration prévue par l'article 4 du décret n° 50-783 du 24 juin 1950 ;
 
 - la déclaration prévue par l'article 3 du décret n° 85-885 et du décret n° 85-886 du 12 août 1985.
+
+- la déclaration relative à l'emploi obligatoire des travailleurs handicapés, des mutilés de guerre et assimilés prévue par l'article L. 323-8-5 du code du travail pour les renseignements énonçés au 1° de l'article R. 323-9 du même code.
