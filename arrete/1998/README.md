@@ -351,7 +351,6 @@
 - [Arrêté du 10 juillet 1998 (MENS9801929A)](arrete-du-10-juillet-1998-mens9801929a)
 - [Arrêté du 10 juillet 1998 (MESS9822187A)](arrete-du-10-juillet-1998-mess9822187a)
 - [Arrêté du 10 juin 1998 (AGRG9801085A)](arrete-du-10-juin-1998-agrg9801085a)
-- [Arrêté du 10 juin 1998 (ECOI9800556A)](arrete-du-10-juin-1998-ecoi9800556a)
 - [Arrêté du 10 juin 1998 (ECOT9810338A)](arrete-du-10-juin-1998-ecot9810338a)
 - [Arrêté du 10 juin 1998 (ECOT9810341A)](arrete-du-10-juin-1998-ecot9810341a)
 - [Arrêté du 10 juin 1998 (EQUS9800722A)](arrete-du-10-juin-1998-equs9800722a)
