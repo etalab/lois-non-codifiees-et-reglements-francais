@@ -1,6 +1,5 @@
 # Décret n°45-2370 du 15 octobre 1945 pris pour l'application de l'ordonnance du 19 septembre 1945 relative à l'ordre des experts-comptables et des comptables agréés
 
-- [Titre Ier : Des conseils de l'ordre](titre-ier)
 - [Titre II : Du tableau](titre-ii)
 - [Titre III : Des chambres de discipline](titre-iii)
 - [Titre IV : Dispositions spéciales.](titre-iv)
