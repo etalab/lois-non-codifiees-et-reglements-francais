@@ -1,7 +1,4 @@
-# Arrêté du 16 mai 1983 RELATIF A L'EXTENSION DES DISPOSITIONS GENERALES RELATIVES AUX MESURES DE SECURITE A PRENDRE LORS DE LA PREPARATION ET DE L'EMPLOI DES PRODUITS ANTIPARASITAIRES DESTINES A L'AGRICULTURE
+# Arrêté du 16 mai 1983 du 16 mai 1983 fixant le droit d'inscription à l'examen du permis de chasser.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Annexes](annexes)
