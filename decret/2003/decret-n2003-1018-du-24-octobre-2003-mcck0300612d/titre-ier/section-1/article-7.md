@@ -8,7 +8,7 @@ Ces sommes peuvent être investies dès la délivrance de l'agrément des invest
 
 - pour acquérir les droits d'édition vidéographique d'oeuvres cinématographiques de courte durée répondant aux conditions fixées par l'article 78 du décret du 24 février 1999 susvisé et titulaires de l'autorisation de production prévue par la réglementation en application de l'article 2 du code de l'industrie cinématographique ainsi que d'un visa d'exploitation ;
 
-Ces sommes peuvent être investies au plus tard un an après la délivrance du visa d'exploitation.
+Ces sommes peuvent être investies au plus tard trois ans après la délivrance du visa d'exploitation.
 
 Pour bénéficier du soutien financier, l'éditeur doit justifier du versement aux ayants droit d'une somme forfaitaire ou d'une avance remboursable sur les recettes.
 
