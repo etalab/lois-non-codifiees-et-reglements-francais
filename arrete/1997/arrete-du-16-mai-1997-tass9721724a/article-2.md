@@ -1,0 +1,3 @@
+# Article 2
+
+Est approuvé l'avenant du 28 mars 1997 annexé au présent arrêté à la convention nationale des masseurs-kinésithérapeutes, conclu entre, d'une part, la Caisse nationale de l'assurance maladie des travailleurs salariés, la Caisse centrale de la mutualité sociale agricole, la Caisse nationale de l'assurance maladie des travailleurs non salariés des professions non agricoles et, d'autre part, la Fédération française des masseurs-kinésithérapeutes rééducateurs, fixant l'objectif prévisionnel des dépenses de masso-kinésithérapie pour 1997 et prévoyant une revalorisation du montant des lettres clés AMC et AMK.

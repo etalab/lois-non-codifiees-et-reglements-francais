@@ -60,6 +60,8 @@ Sous-directeur de niveau 1 d'organismes de catégories C et D ;
 
 Sous-directeur de niveau 2 d'organismes de catégorie D.
 
+Pour l'application des dispositions du présent arrêté, sont considérés relever de la classe A les agents de direction nommés, en application des articles R. 224-6 et R. 225-6 du code de la sécurité sociale, dans un des organismes nationaux visés à l'article R. 111-1 (1°), du même code et qui, antérieurement à cette nomination, ont été agréés dans un emploi de direction de ladite classe.
+
 Par dérogation aux dispositions de l'alinéa qui précède, l'agent de direction se trouvant dans l'une des deux situations définies ci-après est considéré relever, à titre transitoire, de la classe à laquelle correspondait l'emploi qu'il occupe lorsqu'il y a été nommé :
 
 1° Agent dont l'organisme dans lequel il exerce son emploi est reclassé, en application des dispositions conventionnelles en vigueur relatives au classement des organismes du régime général de sécurité sociale, dans une catégorie inférieure à celle dont il relevait précédemment ;

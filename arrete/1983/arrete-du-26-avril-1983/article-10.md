@@ -24,8 +24,6 @@ Les personnes nommées agent de direction ou agent comptable après inscription 
 
 Les dispositions de l'alinéa qui précède ne sont pas applicables aux personnes nommées à un emploi de direction après inscription dans l'une des classes I 1 et I 2.
 
-Dans l'attente de la parution de l'arrêté visé à l'alinéa ci-dessus, le directeur du Centre national d'études supérieures de sécurité sociale attestera de l'accomplissement des sessions de perfectionnement exigées dans les conditions antérieures.
-
 En outre, les personnes nommées agents de direction ou agents comptables après inscription en deuxième section de la liste d'aptitude au titre de la classe C-2 ne pourront demander une inscription dans la classe supérieure qu'après trois ans d'ancienneté dans leur emploi.
 
-Toutefois, les agents de direction agréés après inscription dans la classe C-2 seront considérés relever de la classe C-1 à compter de la date de publication au Journal officiel de la liste d'aptitude sur laquelle ils auront été inscrits dans la classe C-1.
+Les agents de direction, nommés et agréés dans un organisme de catégorie A ou B après inscription dans la classe C 2, sont considérés relever de la classe C 1 à compter de la date de publication au Journal officiel de la liste d'aptitude sur laquelle ils ont été inscrits dans ladite classe C 1.

@@ -2,7 +2,7 @@
 
 I - La liste d'aptitude est divisée en trois sections. La 1re et la 3e section peuvent comprendre les emplois de toutes les classes. La 2e section ne comprend que les emplois des classes C 2, C 1, I 2 et I 1.
 
-II - Peuvent être inscrits en 1re section les candidats anciens élèves du Centre national d'études supérieures de sécurité sociale et assimilés, mentionnés au deuxième alinéa de l'article R. 123-45 du code de la sécurité sociale et au troisième alinéa (1°, 2° et 3°) du même article.
+II - Peuvent être inscrits en première section les candidats anciens élèves du Centre national d'études supérieures de sécurité sociale et, sous réserve des dispositions de l'article 14 bis du présent arrêté, les candidats assimilés mentionnés aux deuxième et troisième alinéas de l'article R. 123-45 du code de la sécurité sociale.
 
 III - Peuvent être inscrites en 2e section les personnes qui remplissent les conditions visées à l'article 6 ci-dessus, qui n'ont pas vocation à être inscrites en 1re section et qui sont âgées de quarante-trois ans au moins.
 
