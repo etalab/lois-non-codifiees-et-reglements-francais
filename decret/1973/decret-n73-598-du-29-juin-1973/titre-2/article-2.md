@@ -2,14 +2,6 @@
 
 Sous réserve des dispositions particulières des articles 3 et suivants du présent décret, sont applicables au régime de l'assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles :
 
-Les dispositions de nature réglementaire du titre III et du chapitre IV du titre V du livre IV du Code de la sécurité sociale ;
+1° Les articles R. 431-1, R. 431-2, R. 432-1 à R. 432-3, R. 432-4 (premier et troisième alinéa), R. 432-7 à R. 432-10, R. 433-1 à R. 433-4, R. 433-8 à R. 433-12, R. 433-14 à R. 433-16, R. 434-1 à R. 434-19, R. 434-21, R. 434-22, R. 434-24, R. 434-26 à R. 434-29, R. 434-36 à R. 434-38, R. 436-2, R. 436-3, R. 436-5, R. 441-16, R. 443-1, R. 443-2, R. 443-4 à R. 443-6, R. 481-1, R. 481-6 à R. 481-8, R. 481-10, R. 481-11 du code de la sécurité sociale ;
 
-Les dispositions des articles 71 à 73, 89 (premier et troisième alinéas), 102, 106, 107, 110, 111, 115, 116, 117, 119, 119 A à 119 E, 120, 125 et 126, 126 B à 126 G, 126 I, 128 à 130 du décret n° 46-2959 du 31 décembre 1946 susvisé ;
-
-Les dispositions des articles 2, 7 à 9 du décret n° 61-29 du 11 janvier 1961 susvisé ;
-
-Les dispositions des articles 1er et 2 du décret n° 65-343 du 28 avril 1965 susvisé ;
-
-Les dispositions de l'article 1er du décret n° 59-734 du 15 juin 1959 susvisé.
-
-Les dispositions réglementaires substituées par l'article 44 du décret n° 60-452 du 12 mai 1960 modifié aux derniers alinéas de l'article L. 435 du Code de la sécurité sociale.
+2° Les dispositions réglementaires d'application du deuxième alinéa de l'article L. 434-1 et des articles L. 435-1 et L. 435-2 du même code.
