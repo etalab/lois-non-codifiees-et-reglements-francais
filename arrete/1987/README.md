@@ -618,6 +618,7 @@
 - [Arrêté du 28 août 1987 (DEFP8701532A)](arrete-du-28-aout-1987-defp8701532a)
 - [Arrêté du 28 août 1987 (ECOT8711002A)](arrete-du-28-aout-1987-ecot8711002a)
 - [Arrêté du 28 août 1987 (ENVN8700178A)](arrete-du-28-aout-1987-envn8700178a)
+- [Arrêté du 28 août 1987 (JUSA8700099A)](arrete-du-28-aout-1987-jusa8700099a)
 - [Arrêté du 28 avril 1987](arrete-du-28-avril-1987)
 - [Arrêté du 28 avril 1987 (ASEG8700654A)](arrete-du-28-avril-1987-aseg8700654a)
 - [Arrêté du 28 avril 1987 (ASET8703295A)](arrete-du-28-avril-1987-aset8703295a)
