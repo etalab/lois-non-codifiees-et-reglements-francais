@@ -4,9 +4,9 @@ La commission, en formation plénière, comprend :
 
 - un membre du Conseil d'Etat, président ;
 
-- trois représentants du ministre chargé de la communication ;
+- quatre représentants du ministre chargé de la communication ;
 
-- trois représentants du ministre de l'économie des finances et de l'industrie ;
+- deux représentants du ministre de l'économie des finances et de l'industrie ;
 
 - trois représentants du ministre chargé des postes et télécommunications ;
 
