@@ -434,7 +434,6 @@
 - [Décret n°86-719 du 24 avril 1986](decret-n86-719-du-24-avril-1986)
 - [Décret n°86-720 du 24 avril 1986](decret-n86-720-du-24-avril-1986)
 - [Décret n°86-721 du 24 avril 1986](decret-n86-721-du-24-avril-1986)
-- [Décret n°86-779 du 24 juin 1986](decret-n86-779-du-24-juin-1986)
 - [Décret n°86-1141 du 25 octobre 1986](decret-n86-1141-du-25-octobre-1986)
 - [Décret n°86-254 du 25 février 1986](decret-n86-254-du-25-fevrier-1986)
 - [Décret n°86-286 du 25 février 1986](decret-n86-286-du-25-fevrier-1986)
