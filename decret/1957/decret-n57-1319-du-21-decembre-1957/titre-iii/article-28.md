@@ -10,4 +10,4 @@ Les services militaires obligatoires ou le temps accompli au titre du service na
 
 Les candidats doivent, en outre, compter au moins deux ans de services effectifs au service de la distribution ou de l'acheminement.
 
-2° Au choix, par voie d'inscription sur une liste d'aptitude et dans la limite du dixième du nombre des vacances à pourvoir, parmi les conducteurs de la distribution en possession au moins du sixième échelon ainsi que les conducteurs de travaux de la distribution et de l'acheminement ayant atteint au moins le septième échelon. Ces candidats, doivent être âgés de quarante-cinq ans au moins et de moins de cinquante ans et compter deux ans au moins de services effectifs au service de la distribution.
+2° Au choix, par voie d'inscription sur une liste d'aptitude et dans la limite du dixième du nombre des vacances à pourvoir, parmi les conducteurs de travaux de la distribution et de l'acheminement ayant atteint au moins le septième échelon. Ces candidats, doivent être âgés de quarante-cinq ans au moins et de moins de cinquante ans et compter deux ans au moins de services effectifs au service de la distribution.

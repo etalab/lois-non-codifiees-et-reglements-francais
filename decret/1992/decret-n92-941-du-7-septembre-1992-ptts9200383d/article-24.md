@@ -1,0 +1,3 @@
+# Article 24
+
+Les fonctionnaires inscrits sur une liste d'aptitude pour l'accès au corps des contrôleurs du service automobile de La Poste ou de France Télécom ou sur un tableau d'avancement pour l'accès au grade de chef de travaux de 1re classe du service automobile de La Poste et de France Télécom ainsi que les lauréats des concours de mécanicien-dépanneur ou de contrôleur du service automobile qui se sont déroulés avant le 1er juillet 1992, mais non encore nommés, conservent le bénéfice de leur inscription ou de leur succès en vue de leur nomination dans le corps ou le grade correspondant régi par le présent décret.

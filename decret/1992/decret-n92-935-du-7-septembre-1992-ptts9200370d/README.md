@@ -1,0 +1,16 @@
+# Décret n°92-935 du 7 septembre 1992 relatif au statut particulier des corps des services de la distribution et de l'acheminement de La Poste
+
+- [Article 3](article-3.md)
+- [Article 5](article-5.md)
+- [Article 11](article-11.md)
+- [Article 14](article-14.md)
+- [Article 16](article-16.md)
+- [Article 20](article-20.md)
+- [Article 23](article-23.md)
+- [Article 24](article-24.md)
+- [Article 25](article-25.md)
+- [Article 26](article-26.md)
+- [Article 27](article-27.md)
+- [Article 28](article-28.md)
+- [Article 29](article-29.md)
+- [Article 30](article-30.md)

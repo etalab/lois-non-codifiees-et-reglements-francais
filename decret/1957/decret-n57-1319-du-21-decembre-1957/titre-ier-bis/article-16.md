@@ -1,5 +1,167 @@
 # Article 16
 
-Le corps des conducteurs de travaux de la distribution, et de l'acheminement est classé en catégorie B. Il comprend le grade de conducteur de travaux de la distribution et de l'acheminement.
+La durée moyenne et la durée minimale du temps passé dans chacun des échelons du grade de conducteur de travaux sont fixées ainsi qu'il suit :
 
-Ce grade est soumis aux dispositions des articles 2, 4, 5 et 6 du décret n° 73-910 du 20 septembre 1973 et à celles du présent titre.
+<table>
+<tbody>
+<tr>
+<td rowspan="2" width="227">
+<p align="center">ÉCHELONS</p>
+</td>
+<td colspan="2" width="378">
+<p align="center">DURÉES</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="189">
+<p align="center">Moyenne</p>
+</td>
+<td valign="top" width="189">
+<p align="center">Minimale</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>13e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">4 ans</p>
+</td>
+<td valign="top" width="189">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>12e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">3 ans</p>
+</td>
+<td valign="top" width="189">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>11e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">3 ans</p>
+</td>
+<td valign="top" width="189">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>10e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">3 ans</p>
+</td>
+<td valign="top" width="189">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>9e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">3 ans</p>
+</td>
+<td valign="top" width="189">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>8e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">3 ans</p>
+</td>
+<td valign="top" width="189">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>7e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">3 ans</p>
+</td>
+<td valign="top" width="189">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>6e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">2 ans</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>5e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an 6 mois</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>4e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an 6 mois</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>3e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an 6 mois</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>2e échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an 6 mois</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>1er échelon</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an</p>
+</td>
+<td valign="top" width="189">
+<p align="center">1 an</p>
+</td>
+</tr>
+</tbody>
+</table>

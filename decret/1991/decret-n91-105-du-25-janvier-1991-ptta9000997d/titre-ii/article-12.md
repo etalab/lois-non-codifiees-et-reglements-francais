@@ -1,3 +1,3 @@
 # Article 12
 
-Les fonctionnaires appartenant au corps des dessinateurs projeteurs et ceux appartenant au corps des techniciens des installations de télécommunications sont classés dans le grade de réviseur conformément aux tableaux annexés au présent décret.
+Les fonctionnaires de La Poste ou de France Télécom qui appartiennent aux corps des dessinateurs projeteurs, des techniciens et aides techniciens des installations, des agents d'exploitation du service général ou qui sont titulaires du grade d'artisan imprimeur du service de l'imprimerie des timbres-poste sont classés dans le grade de réviseur conformément aux tableaux annexés au présent décret.

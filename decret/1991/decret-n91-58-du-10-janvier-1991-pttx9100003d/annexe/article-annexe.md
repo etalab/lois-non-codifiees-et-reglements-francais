@@ -1,6 +1,6 @@
 # Article Annexe
 
-(Classement prenant effet du 1er janvier 1991)
+(Classement prenant effet du 1er juillet 1992)
 
 <table>
 <tbody>
@@ -84,7 +84,7 @@
 <p>Directeur départemental adjoint</p>
 </td>
 <td valign="top" width="151">
-<p align="center">841-901</p>
+<p align="center">841-966</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -131,18 +131,16 @@
 <p>Inspecteur-élève</p>
 </td>
 <td valign="top" width="151">
-<p align="center">302-340 (1)</p>
+<p align="center">340</p>
 </td>
-<td valign="top" width="227">
-<p>(1) 340 après 1 an. </p>
-</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
 <p>Surveillant ou surveillante en chef</p>
 </td>
 <td valign="top" width="151">
-<p align="center">529-655</p>
+<p align="center">425-612</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -151,16 +149,7 @@
 <p>Contrôleur divisionnaire</p>
 </td>
 <td valign="top" width="151">
-<p align="center">398-592</p>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Chef de section</p>
-</td>
-<td valign="top" width="151">
-<p align="center">430-548</p>
+<p align="center">425-612</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -169,73 +158,31 @@
 <p>Contrôleur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">291-488</p>
+<p align="center">312-579</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Agent d'administration principal</p>
+<p>Agent d'exploitation du service général</p>
 </td>
 <td valign="top" width="151">
-<p align="center">265-407</p>
+<p align="center">274-474</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Agent d'exploitation</p>
+<p>Assistant administratif</p>
 </td>
 <td valign="top" width="151">
-<p align="center">253-378</p>
+<p align="center">249-449</p>
 </td>
 <td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Adjoint administratif</p>
-</td>
-<td valign="top" width="151">
-<p align="center">245-365</p>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Agent administratif de 1re classe</p>
-</td>
-<td valign="top" width="151">
-<p align="center">232-336<br/>232-354</p>
-</td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Agent administratif de 2e classe</p>
-</td>
-<td valign="top" width="151">
-<p align="center">224-309<br/>224-328</p>
-</td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Agent de bureau</p>
-</td>
-<td valign="top" width="151">
-<p align="center">224-301<br/>224-314</p>
-</td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
 </tr>
 <tr>
 <td width="302">
-<p align="center">C - Service des installations</p>
+<p align="center">C - Services des installations</p>
 </td>
 <td width="151">
 <br/>
@@ -249,16 +196,7 @@
 <p>Chef technicien</p>
 </td>
 <td valign="top" width="151">
-<p align="center">373-592</p>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Technicien supérieur</p>
-</td>
-<td valign="top" width="151">
-<p align="center">337-548</p>
+<p align="center">359-619</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -267,25 +205,16 @@
 <p>Technicien</p>
 </td>
 <td valign="top" width="151">
-<p align="center">294-488</p>
+<p align="center">314-579</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Aide technicien de 1re classe des installations</p>
+<p>Aide-technicien</p>
 </td>
 <td valign="top" width="151">
-<p align="center">265-407</p>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Aide technicien de 2e classe des installations</p>
-</td>
-<td valign="top" width="151">
-<p align="center">253-378</p>
+<p align="center">277-474</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -302,21 +231,10 @@
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Chef d'atelier central</p>
+<p>Chef d'atelier</p>
 </td>
 <td valign="top" width="151">
-<p align="center">405-500<br/>(526-548) (1)</p>
-</td>
-<td valign="top" width="227">
-<p>(1) Classe exceptionnelle. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Contremaître principal</p>
-</td>
-<td valign="top" width="151">
-<p align="center">364-451</p>
+<p align="center">348-579</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -325,58 +243,18 @@
 <p>Contremaître</p>
 </td>
 <td valign="top" width="151">
-<p align="center">265-407</p>
+<p align="center">249-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Maître ouvrier d'état</p>
+<p>Ouvrier d'état</p>
 </td>
 <td valign="top" width="151">
-<p align="center">265-407</p>
+<p align="center">232-365</p>
 </td>
 <td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Ouvrier d'état :</p>
-</td>
-<td valign="top" width="151">
-<br/>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>4e catégorie</p>
-</td>
-<td valign="top" width="151">
-<p align="center">253-378</p>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>3e catégorie</p>
-</td>
-<td valign="top" width="151">
-<p align="center">245-348<br/>245-354</p>
-</td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>2e catégorie</p>
-</td>
-<td valign="top" width="151">
-<p align="center">235-322<br/>235-328</p>
-</td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
 </tr>
 <tr>
 <td width="302">
@@ -394,7 +272,7 @@
 <p>Réviseur en chef</p>
 </td>
 <td valign="top" width="151">
-<p align="center">750-852</p>
+<p align="center">750-966</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -403,7 +281,7 @@
 <p>Réviseur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">379-750</p>
+<p align="center">379-780</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -423,18 +301,7 @@
 <p>Chef dessinateur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">447-607<br/>(616-619) (1)</p>
-</td>
-<td valign="top" width="227">
-<p>(1) Classe exceptionnelle. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Dessinateur projeteur chef de section</p>
-</td>
-<td valign="top" width="151">
-<p align="center">430-548</p>
+<p align="center">359-619</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -443,16 +310,7 @@
 <p>Dessinateur projeteur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">291-488</p>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Dessinateur chef de groupe</p>
-</td>
-<td valign="top" width="151">
-<p align="center">265-407</p>
+<p align="center">312-579</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -461,7 +319,7 @@
 <p>Dessinateur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">253-378</p>
+<p align="center">249-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -481,33 +339,27 @@
 <p>Chef surveillant</p>
 </td>
 <td valign="top" width="151">
-<p align="center">235-322<br/>235-328</p>
+<p align="center">232-365</p>
 </td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
 <p>Agent de service</p>
 </td>
 <td valign="top" width="151">
-<p align="center">224-301<br/>224-314</p>
+<p align="center">232-365</p>
 </td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
 <p>Agent des services techniques de 2e classe</p>
 </td>
 <td valign="top" width="151">
-<p align="center">224-309<br/>224-328</p>
+<p align="center">232-365</p>
 </td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
 <td width="302">
@@ -522,19 +374,10 @@
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Chef de travaux de 1re classe</p>
+<p>Chef de travaux</p>
 </td>
 <td valign="top" width="151">
-<p align="center">498-592</p>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Chef de travaux de 2e classe</p>
-</td>
-<td valign="top" width="151">
-<p align="center">356-548</p>
+<p align="center">425-612</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -543,16 +386,7 @@
 <p>Contrôleur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">291-488</p>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Maître dépanneur</p>
-</td>
-<td valign="top" width="151">
-<p align="center">265-407</p>
+<p align="center">312-579</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -561,7 +395,7 @@
 <p>Mécanicien dépanneur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">253-378</p>
+<p align="center">249-449</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -592,7 +426,7 @@
 <p>Chef d'établissement de classe exceptionnelle</p>
 </td>
 <td valign="top" width="151">
-<p align="center">841-901</p>
+<p align="center">841-966</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -637,7 +471,7 @@
 <p>Chef d'établissement de 3e classe</p>
 </td>
 <td valign="top" width="151">
-<p align="center">405-592</p>
+<p align="center">425-612</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -646,7 +480,7 @@
 <p>Chef d'établissement de 4e classe</p>
 </td>
 <td valign="top" width="151">
-<p align="center">299-488</p>
+<p align="center">463-510</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -753,7 +587,7 @@
 <p>Assistant de service social chef</p>
 </td>
 <td valign="top" width="151">
-<p align="center">476-638</p>
+<p align="center">379-659</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -762,7 +596,7 @@
 <p>Assistant de service social</p>
 </td>
 <td valign="top" width="151">
-<p align="center">302-607</p>
+<p align="center">323-642</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -771,16 +605,7 @@
 <p>Infirmier ou infirmière en chef</p>
 </td>
 <td valign="top" width="151">
-<p align="center">398-592</p>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Infirmier ou infirmière principal(e)</p>
-</td>
-<td valign="top" width="151">
-<p align="center">430-548</p>
+<p align="center">379-611</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -789,7 +614,7 @@
 <p>Infirmier ou infirmière</p>
 </td>
 <td valign="top" width="151">
-<p align="center">291-488</p>
+<p align="center">312-579</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -820,7 +645,7 @@
 <p>Vérificateur principal</p>
 </td>
 <td valign="top" width="151">
-<p align="center">363-592</p>
+<p align="center">425-612</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -829,18 +654,16 @@
 <p>Vérificateur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">299-500<br/>(526-548) (1)</p>
+<p align="center">365-579</p>
 </td>
-<td valign="top" width="227">
-<p>(1) Classe exceptionnelle. </p>
-</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
 <p>Conducteur chef du transbordement de 1re classe</p>
 </td>
 <td valign="top" width="151">
-<p align="center">363-592</p>
+<p align="center">425-612</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -849,51 +672,36 @@
 <p>Conducteur chef du transbordement</p>
 </td>
 <td valign="top" width="151">
-<p align="center">299-500<br/>(526-548) (1)</p>
-</td>
-<td valign="top" width="227">
-<p>(1) Classe exceptionnelle. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Conducteur de travaux de la distribution et de l'acheminement</p>
-</td>
-<td valign="top" width="151">
-<p align="center">291-488</p>
+<p align="center">365-579</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Receveur rural</p>
+<p>Conducteur de travaux</p>
 </td>
 <td valign="top" width="151">
-<p align="center">291-451</p>
+<p align="center">312-579</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Préposé chef</p>
+<p>Agent d'exploitation</p>
 </td>
 <td valign="top" width="151">
-<p align="center">245-348<br/>245-354</p>
+<p align="center">249-449</p>
 </td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
 <p>Préposé</p>
 </td>
 <td valign="top" width="151">
-<p align="center">235-322<br/>235-328</p>
+<p align="center">249-449</p>
 </td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
 <td width="302">
@@ -911,7 +719,7 @@
 <p>Maître graveur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">430-714</p>
+<p align="center">450-735</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -920,7 +728,7 @@
 <p>Graveur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">343-592</p>
+<p align="center">363-612</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -929,7 +737,7 @@
 <p>Prote</p>
 </td>
 <td valign="top" width="151">
-<p align="center">559-714</p>
+<p align="center">579-735</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -938,7 +746,7 @@
 <p>Sous-prote</p>
 </td>
 <td valign="top" width="151">
-<p align="center">393-607</p>
+<p align="center">420-626</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -947,16 +755,7 @@
 <p>Maître imprimeur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">337-488</p>
-</td>
-<td valign="top" width="227"/>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Artisan imprimeur principal</p>
-</td>
-<td valign="top" width="151">
-<p align="center">265-407</p>
+<p align="center">314-579</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -965,30 +764,28 @@
 <p>Artisan imprimeur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">253-378</p>
+<p align="center">277-474</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>C - Conducteur d'automobiles de 1re catégorie</p>
+<td width="302">
+<p align="left">C - Conducteur d'automobiles de 1re catégorie</p>
 </td>
 <td valign="top" width="151">
-<p align="center">245-348<br/>245-354</p>
+<p align="center">249-449</p>
 </td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
-</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
-<td valign="top" width="302">
-<p>D - Gérante de cabines téléphoniques</p>
+<td width="302">
+<p align="left">D - Receveur rural</p>
 </td>
-<td valign="top" width="151">
-<p align="center">235-322<br/>235-328</p>
+<td width="151">
+<p align="center">312-483</p>
 </td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
+<td width="227">
+<br/>
 </td>
 </tr>
 <tr>
@@ -1003,22 +800,11 @@
 </td>
 </tr>
 <tr>
-<td width="302">
-<p align="center">A - Service des lignes</p>
-</td>
-<td width="151">
-<br/>
-</td>
-<td width="227">
-<br/>
-</td>
-</tr>
-<tr>
 <td valign="top" width="302">
 <p>Chef de district</p>
 </td>
 <td valign="top" width="151">
-<p align="center">363-592</p>
+<p align="center">425-612</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
@@ -1027,31 +813,27 @@
 <p>Chef de secteur</p>
 </td>
 <td valign="top" width="151">
-<p align="center">299-500<br/>(526-548) (1)</p>
-</td>
-<td valign="top" width="227">
-<p>(1) Classe exceptionnelle. </p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="302">
-<p>Conducteur de travaux des lignes</p>
-</td>
-<td valign="top" width="151">
-<p align="center">291-488</p>
+<p align="center">365-579</p>
 </td>
 <td valign="top" width="227"/>
 </tr>
 <tr>
 <td valign="top" width="302">
-<p>Agent technique de 1re classe</p>
+<p>Conducteur de travaux</p>
 </td>
 <td valign="top" width="151">
-<p align="center">245-348<br/>245-354</p>
+<p align="center">312-579</p>
 </td>
-<td valign="top" width="227">
-<p>A compter du 1er août 1991. </p>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="302">
+<p>Agent d'exploitation</p>
 </td>
+<td valign="top" width="151">
+<p align="center">249-449</p>
+</td>
+<td valign="top" width="227"/>
 </tr>
 <tr>
 <td colspan="3" width="680">

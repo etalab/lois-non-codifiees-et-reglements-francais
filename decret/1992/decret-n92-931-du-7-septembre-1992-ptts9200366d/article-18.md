@@ -1,0 +1,3 @@
+# Article 18
+
+Le décret n° 51-914 du 9 juillet 1951 relatif au statut particulier des corps de gérantes de cabines téléphoniques des Postes, Télégraphes et Téléphones, ensemble le décret n° 90-1226 du 31 décembre 1990 relatif au statut particulier du corps des gérantes de cabines téléphoniques de La Poste, le décret n° 90-1228 du 31 décembre 1990 relatif au statut particulier des corps des adjoints administratifs de La Poste et de France Télécom et le décret n° 90-1233 du 31 décembre 1990 relatif au statut particulier des corps des agents administratifs de La Poste et de France Télécom sont abrogés.
