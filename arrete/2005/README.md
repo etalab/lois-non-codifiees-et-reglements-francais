@@ -108,6 +108,7 @@
 - [Arrêté du 27 janvier 2005 (ECOT0510522A)](arrete-du-27-janvier-2005-ecot0510522a)
 - [Arrêté du 27 juillet 2004 (EQUS0401066A)](arrete-du-27-juillet-2004-equs0401066a)
 - [Arrêté du 28 décembre 2004 (FPPA0400169A)](arrete-du-28-decembre-2004-fppa0400169a)
+- [Arrêté du 28 janvier 2005 (MJSK0570003A)](arrete-du-28-janvier-2005-mjsk0570003a)
 - [Arrêté du 28 janvier 2005 (MJSK0570004A)](arrete-du-28-janvier-2005-mjsk0570004a)
 - [Arrêté du 28 janvier 2005 (SOCF0510005A)](arrete-du-28-janvier-2005-socf0510005a)
 - [Arrêté du 29 décembre 2004 (EQUT0401715A)](arrete-du-29-decembre-2004-equt0401715a)
