@@ -1231,7 +1231,6 @@
 - [Arrêté du 29 août 1996 (ECOP9600114A)](arrete-du-29-aout-1996-ecop9600114a)
 - [Arrêté du 29 août 1996 (INDB9600618A)](arrete-du-29-aout-1996-indb9600618a)
 - [Arrêté du 29 avril 1996 (AGRP9600501A)](arrete-du-29-avril-1996-agrp9600501a)
-- [Arrêté du 29 avril 1996 (BUDD9670009A)](arrete-du-29-avril-1996-budd9670009a)
 - [Arrêté du 29 avril 1996 (TASG9621199A)](arrete-du-29-avril-1996-tasg9621199a)
 - [Arrêté du 29 avril 1996 (TASG9621201A)](arrete-du-29-avril-1996-tasg9621201a)
 - [Arrêté du 29 avril 1996 (TASH9621380A)](arrete-du-29-avril-1996-tash9621380a)
