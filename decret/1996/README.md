@@ -166,6 +166,8 @@
 - [Décret n°96-236 du 18 mars 1996 (DEFD9601157D)](decret-n96-236-du-18-mars-1996-defd9601157d)
 - [Décret n°96-334 du 18 avril 1996 (ECOX9600023D)](decret-n96-334-du-18-avril-1996-ecox9600023d)
 - [Décret n°96-335 du 18 avril 1996 (ENVX9500182D)](decret-n96-335-du-18-avril-1996-envx9500182d)
+- [Décret n°96-343 du 18 avril 1996 (MENN9502841D)](decret-n96-343-du-18-avril-1996-menn9502841d)
+- [Décret n°96-347 du 18 avril 1996 (TASS9620497D)](decret-n96-347-du-18-avril-1996-tass9620497d)
 - [Décret n°96-42 du 18 janvier 1996 (INTA9600009D)](decret-n96-42-du-18-janvier-1996-inta9600009d)
 - [Décret n°96-45 du 18 janvier 1996 (AGRP9501431D)](decret-n96-45-du-18-janvier-1996-agrp9501431d)
 - [Décret du 19 mars 1996 (FCEC9600013D)](decret-du-19-mars-1996-fcec9600013d)
