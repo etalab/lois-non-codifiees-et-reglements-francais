@@ -1,15 +1,3 @@
 # Article 2-3
 
-Le remplacement des maîtres et documentalistes ayant obtenu un contrat provisoire prévu à l'article 18 du présent décret est assuré dans les cas suivants :
-
-a) Congé pour élever un enfant de moins de huit ans ou atteint d'une infirmité exigeant des soins continus ;
-
-b) Congé pour grave maladie ;
-
-c) Congé parental ;
-
-d) Service national
-
-dans les conditions prévues aux articles 13, 19, 20 et 26 du décret du 17 janvier 1986 susvisé.
-
-Il en est de même lorsque les intéressés bénéficient d'un congé de formation d'une durée d'un an au maximum ou d'une décharge d'activité de service pour exercer un mandat syndical.
+Les maîtres et les documentalistes ayant obtenu un contrat provisoire bénéficient des dispositions du décret n° 94-874 du 7 octobre 1994 fixant les dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics, à l'exception des dispositions de ce décret relatives au détachement, à la discipline, au congé accordé pour donner des soins au conjoint, à un enfant ou à un ascendant à la suite d'un accident ou d'une maladie graves, au congé accordé pour suivre son conjoint, au congé pour convenances personnelles et à la consultation de la commission administrative paritaire.

@@ -1,9 +1,7 @@
 # TITRE II : Dispositions transitoires.
 
 - [Article 13-5](article-13-5.md)
-- [Article 15](article-15.md)
 - [Article 16-1](article-16-1.md)
-- [Article 17](article-17.md)
 - [Article 18](article-18.md)
 - [Article 18-1](article-18-1.md)
 - [Article 18-2](article-18-2.md)
