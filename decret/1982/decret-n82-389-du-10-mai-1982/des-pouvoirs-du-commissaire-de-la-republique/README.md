@@ -1,3 +1,0 @@
-# DES POUVOIRS DU COMMISSAIRE DE LA REPUBLIQUE
-
-- [Article 3](article-3.md)
