@@ -10,8 +10,8 @@ Les indemnités versées aux occupants à titre de remboursement des équipement
 
 L'action socio-éducative d'accompagnement.
 
-g = 12.900 F en zone I.
+g = 13.260 F en zone I.
 
-g = 11.310 F en zone II.
+g = 11.625 F en zone II.
 
-g = 10.345 F en zone III.
+g = 10.635 F en zone III.

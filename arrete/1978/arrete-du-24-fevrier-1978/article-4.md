@@ -10,7 +10,7 @@ Co et To représentent, pour l'ensemble de l'opération, la somme des prix co et
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1991
+Jusqu'au 30 juin 1992
 
 <table>
 <tr>
@@ -35,41 +35,41 @@ Jusqu'au 30 juin 1991
 <td> :---------:-------------------:</td>
 </tr>
 <tr>
-<td> : I       :  60.645 :  29.960 :</td>
+<td> : I       :  62.345 :  30.795 :</td>
 </tr>
 <tr>
-<td> : I bis   : 104.495 :  51.595 :</td>
+<td> : I bis   : 107.420 :  53.040 :</td>
 </tr>
 <tr>
-<td> : II      : 137.660 :  67.945 :</td>
+<td> : II      : 141.515 :  69.845 :</td>
 </tr>
 <tr>
-<td> : III     : 173.065 :  85.440 :</td>
+<td> : III     : 177.910 :  87.835 :</td>
 </tr>
 <tr>
-<td> : IV      : 205.745 : 101.560 :</td>
+<td> : IV      : 211.505 : 104.405 :</td>
 </tr>
 <tr>
-<td> : V       : 241.145 : 119.030 :</td>
+<td> : V       : 247.900 : 122.360 :</td>
 </tr>
 <tr>
-<td> : VI      : 268.410 : 132.480 :</td>
+<td> : VI      : 275.925 : 136.190 :</td>
 </tr>
 <tr>
-<td> : VII     : 306.510 : 151.320 :</td>
+<td> : VII     : 315.095 : 155.560 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  32.625 :  16.100 :</td>
+<td> : suppl.  :  33.540 :  16.555 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -95,22 +95,22 @@ Jusqu'au 30 juin 1991
 <td> : I       :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : I bis   : 114.975 :  72.205 :</td>
+<td> : I bis   : 118.195 :  74.230 :</td>
 </tr>
 <tr>
-<td> : II      : 151.415 :  95.155 :</td>
+<td> : II      : 155.655 :  97.820 :</td>
 </tr>
 <tr>
-<td> : III     : 190.365 : 119.605 :</td>
+<td> : III     : 195.690 : 122.960 :</td>
 </tr>
 <tr>
-<td> : IV      : 226.325 : 142.240 :</td>
+<td> : IV      : 232.660 : 146.225 :</td>
 </tr>
 <tr>
-<td> : V       : 265.285 : 166.665 :</td>
+<td> : V       : 272.710 : 171.330 :</td>
 </tr>
 <tr>
-<td> : VI      : 295.235 : 185.515 :</td>
+<td> : VI      : 303.500 : 190.715 :</td>
 </tr>
 <tr>
 <td> : VII     : 337.170 : 211.830 :</td>
@@ -119,14 +119,14 @@ Jusqu'au 30 juin 1991
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  35.890 :  22.585 :</td>
+<td> : suppl.  :  36.895 :  23.220 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 </table>
 
-A partir du 1er juillet 1991
+A partir du 1er juillet 1992
 
 <table>
 <tr>
@@ -151,41 +151,41 @@ A partir du 1er juillet 1991
 <td> :---------:-------------------:</td>
 </tr>
 <tr>
-<td> : I       :  61.485 :  30.370 :</td>
+<td> : I       :  63.205 :  31.220 :</td>
 </tr>
 <tr>
-<td> : I bis   : 105.935 :  52.310 :</td>
+<td> : I bis   : 108.900 :  53.775 :</td>
 </tr>
 <tr>
-<td> : II      : 139.560 :  68.800 :</td>
+<td> : II      : 143.470 :  70.810 :</td>
 </tr>
 <tr>
-<td> : III     : 175.455 :  86.620 :</td>
+<td> : III     : 180.370 :  89.045 :</td>
 </tr>
 <tr>
-<td> : IV      : 208.585 : 102.965 :</td>
+<td> : IV      : 214.425 : 105.850 :</td>
 </tr>
 <tr>
-<td> : V       : 244.475 : 120.670 :</td>
+<td> : V       : 251.320 : 124.050 :</td>
 </tr>
 <tr>
-<td> : VI      : 272.115 : 134.310 :</td>
+<td> : VI      : 279.735 : 138.070 :</td>
 </tr>
 <tr>
-<td> : VII     : 310.745 : 153.410 :</td>
+<td> : VII     : 319.445 : 157.705 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  33.075 :  16.325 :</td>
+<td> : suppl.  :  34.000 :  16.780 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-<tr>
-<td/>
-</tr>
+</table>
+
+<table>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
@@ -211,31 +211,31 @@ A partir du 1er juillet 1991
 <td> : I       :       0 :       0 :</td>
 </tr>
 <tr>
-<td> : I bis   : 116.565 :  73.205 :</td>
+<td> : I bis   : 119.830 :  75.255 :</td>
 </tr>
 <tr>
-<td> : II      : 153.505 :  96.470 :</td>
+<td> : II      : 157.805 :  99.170 :</td>
 </tr>
 <tr>
-<td> : III     : 192.990 : 121.260 :</td>
+<td> : III     : 198.395 : 124.655 :</td>
 </tr>
 <tr>
-<td> : IV      : 229.450 : 144.205 :</td>
+<td> : IV      : 235.875 : 148.245 :</td>
 </tr>
 <tr>
-<td> : V       : 268.945 : 168.965 :</td>
+<td> : V       : 276.475 : 173.695 :</td>
 </tr>
 <tr>
-<td> : VI      : 299.310 : 188.080 :</td>
+<td> : VI      : 307.690 : 193.345 :</td>
 </tr>
 <tr>
-<td> : VII     : 341.825 : 214.755 :</td>
+<td> : VII     : 351.395 : 220.770 :</td>
 </tr>
 <tr>
 <td> : Pièce   :         :         :</td>
 </tr>
 <tr>
-<td> : suppl.  :  36.385 :  22.900 :</td>
+<td> : suppl.  :  37.405 :  23.540 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -301,13 +301,13 @@ Valeur des garages enterrés ou incorporés.
 <td> :---------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  41.090 :  41.660 :</td>
+<td> : I       :  42.245 :  42.825 :</td>
 </tr>
 <tr>
-<td> : II      :  37.535 :  38.050 :</td>
+<td> : II      :  38.585 :  39.115 :</td>
 </tr>
 <tr>
-<td> : III     :  35.565 :  36.055 :</td>
+<td> : III     :  36.560 :  37.065 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -333,20 +333,20 @@ Valeur des garages enterrés ou incorporés.
 <td> :---------:---------:---------:</td>
 </tr>
 <tr>
-<td> : I       :  28.960 :  29.360 :</td>
+<td> : I       :  29.770 :  30.180 :</td>
 </tr>
 <tr>
-<td> : II      :  26.320 :  26.680 :</td>
+<td> : II      :  27.055 :  27.425 :</td>
 </tr>
 <tr>
-<td> : III     :  25.030 :  25.375 :</td>
+<td> : III     :  25.730 :  26.085 :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 </table>
 
-(1) Jusqu'au 30 juin 1990 (en francs) (2) A partir du 1er juillet 1990 (en francs).   n1 est le nombre d'emplacements individuels de stationnement dans un garage collectif enterré ou incorporé à un bâtiment d'habitation ;
+(1) Jusqu'au 30 juin 1992 (en francs) (2) A partir du 1er juillet 1992 (en francs).   n1 est le nombre d'emplacements individuels de stationnement dans un garage collectif enterré ou incorporé à un bâtiment d'habitation ;
 
 n2 est le nombre d'emplacements individuels de stationnement dans un garage collectif construit en superstructure séparé ou accolé au bâtiment d'habitation.
 
