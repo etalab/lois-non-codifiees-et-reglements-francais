@@ -1,0 +1,11 @@
+# Article 4
+
+Le secours viager prévu aux articles L. 628 et L. 629 du code de la sécurité sociale est attribué lorsque le conjoint de l'allocataire ou du travailleur décédé ou disparu [*condition, bénéficiaires*] :
+
+1° A atteint l'âge de cinquante-cinq ans ;
+
+2° Etait marié depuis au moins deux ans [*durée*] à la date du décès ou de la disparition de l'allocataire ou du travailleur, sauf si un enfant au moins est issu du mariage.
+
+3° Ne dispose pas de ressources qui excéderaient, si elles étaient augmentées d'une somme égale au montant du secours viager, le chiffre limite de ressources fixé pour l'attribution de l'allocation aux vieux travailleurs salariés aux personnes seules. Ces ressources sont appréciées dans les conditions fixées par le décret du 1er avril 1964 susvisé.
+
+Lorsque le total du secours viager et des ressources personnelles du conjoint survivant dépasse ce chiffre limite, le secours viager est réduit en conséquence : il est, le cas échéant, liquidé pour ordre.
