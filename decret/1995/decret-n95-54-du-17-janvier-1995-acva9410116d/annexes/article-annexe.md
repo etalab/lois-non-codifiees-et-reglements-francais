@@ -23,3 +23,9 @@ Agent assurant les fonctions de chargé de formation ;
 Agent assurant les fonctions de secrétaire du directeur de l'établissement ;
 
 Agent assurant les tâches de gestion administrative du personnel.
+
+Agent assurant les fonctions d'adjoint au chef des ateliers ;
+
+Agent assurant les fonctions d'adjoint au chef du service général ;
+
+Agent assurant les fonctions d'encadrement de la section des marchés publics.
