@@ -262,7 +262,7 @@ Par dérogation aux dispositions de l'article 5, les espèces de gibier figurant
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :  Grand tétras, Petit tétras    :</td>
+<td> :  Grand tétras                  :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -277,7 +277,49 @@ Par dérogation aux dispositions de l'article 5, les espèces de gibier figurant
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :        15 septembre            :</td>
+<td> :  3ème dimanche de septembre    :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> :  DATE DE CLOTURE SPECIFIQUE    :</td>
+</tr>
+<tr>
+<td> :       au plus tard le          :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> :           1er novembre         :</td>
+</tr>
+<tr>
+<td> :================================:</td>
+</tr>
+<tr>
+<td> :         Gibier sédentaire      :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> :   Petit tétras                 :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> :  DATE D'OUVERTURE SPECIFIQUE   :</td>
+</tr>
+<tr>
+<td> :       au plus tôt le           :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> :  3éme dimanche de septembre    :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -376,7 +418,10 @@ Par dérogation aux dispositions de l'article 5, les espèces de gibier figurant
 <td> :  lorsqu'ils ne sont pas soumis :</td>
 </tr>
 <tr>
-<td> :      au plan de chasse légal   :</td>
+<td> :     au plan de chasse légal:   :</td>
+</tr>
+<tr>
+<td> :  chaîne alpine                 :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -391,7 +436,7 @@ Par dérogation aux dispositions de l'article 5, les espèces de gibier figurant
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :        Ouverture générale      :</td>
+<td> :  2éme dimanche de septembre    :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
@@ -406,10 +451,58 @@ Par dérogation aux dispositions de l'article 5, les espèces de gibier figurant
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :           25 octobre           :</td>
+<td> :           11 novembre          :</td>
 </tr>
 <tr>
 <td> :================================:</td>
+</tr>
+<tr>
+<td> :         Gibier sédentaire      :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> :  Chamois, isard                :</td>
+</tr>
+<tr>
+<td> :  lorsqu'ils ne sont pas soumis :</td>
+</tr>
+<tr>
+<td> :     au plan de chasse légal:   :</td>
+</tr>
+<tr>
+<td> :  reste du territoire           :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> :  DATE D'OUVERTURE SPECIFIQUE   :</td>
+</tr>
+<tr>
+<td> :       au plus tôt le           :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> :  3éme dimanche de septembre    :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> :  DATE DE CLOTURE SPECIFIQUE    :</td>
+</tr>
+<tr>
+<td> :       au plus tard le          :</td>
+</tr>
+<tr>
+<td> :--------------------------------:</td>
+</tr>
+<tr>
+<td> :           1er novembre         :</td>
 </tr>
 </table>
 
@@ -439,7 +532,7 @@ Par dérogation aux dispositions de l'article 5, les espèces de gibier figurant
 <td> :--------------------------------:</td>
 </tr>
 <tr>
-<td> :           18 août              :</td>
+<td> :           15 août              :</td>
 </tr>
 <tr>
 <td> :--------------------------------:</td>
