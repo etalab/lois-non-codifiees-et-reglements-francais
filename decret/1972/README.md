@@ -35,6 +35,7 @@
 - [Décret n°73-899 du 18 septembre 1973](decret-n73-899-du-18-septembre-1973)
 - [Décret n°72-302 du 19 avril 1972](decret-n72-302-du-19-avril-1972)
 - [Décret n°72-303 du 19 avril 1972](decret-n72-303-du-19-avril-1972)
+- [Décret n°72-494 du 19 juin 1972](decret-n72-494-du-19-juin-1972)
 - [Décret n°72-208 du 20 mars 1972](decret-n72-208-du-20-mars-1972)
 - [Décret n°72-209 du 20 mars 1972](decret-n72-209-du-20-mars-1972)
 - [Décret n°72-301 du 20 avril 1972](decret-n72-301-du-20-avril-1972)
