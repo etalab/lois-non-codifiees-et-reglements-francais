@@ -1,3 +1,0 @@
-# Article 1
-
-Les pouvoirs du ministre de la défense en matière de décision de mutation du personnel non officier de la gendarmerie nationale autre que les majors sont délégués aux commandants de région de gendarmerie, de légion ou formation de gendarmerie assimilée ou spécialisée, aux commandants de formations de gendarmerie stationnées dans les départements, territoires ou collectivités territoriales d'outre-mer, au commandant des écoles, aux commandants des organismes d'administration et de soutien ainsi qu'aux commandants des groupements spécialisés, dans les conditions fixées à l'article 2 et déterminées en application des dispositions de l'article 3 ci-dessous.
