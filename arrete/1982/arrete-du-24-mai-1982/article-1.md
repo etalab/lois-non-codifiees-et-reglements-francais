@@ -1,5 +1,3 @@
 # Article 1
 
-La liste des pays francophones prévue à l'article 9 du décret du 12 mai 1981 susvisé est fixée ainsi qu'il suit :
-
-Algérie, Bénin, Burundi, Cameroun, Centrafrique, Congo, Comores, Côte-d'Ivoire, Djibouti, Gabon, Guinée, Haïti, Haute-Volta, Liban, Madagascar, Mali, Maroc, Maurice, Mauritanie, Monaco, Niger, Rwanda, Sénégal, Seychelles, Syrie, Tchad, Togo, Tunisie, Zaïre.
+Les intérêts des emprunts servant au financement de l'acquisition d'occasion de navires de commerce par des entreprises françaises peuvent faire l'objet d'une bonification lorsque les navires acquis satisfont aux conditions définies à l'article 2 du présent arrêté.
