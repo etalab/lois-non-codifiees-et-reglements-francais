@@ -9,6 +9,4 @@
 - [TITRE VII : Dispositions concernant la récupération des rejets thermiques industriels.](titre-vii)
 - [TITRE VII bis : Dispositions concernant l'importation, l'exportation et le transit des déchets.](titre-vii-bis)
 - [TITRE VIII : Sanctions](titre-viii)
-- [Dispositions générales](dispositions-generales)
 - [Elimination des déchets](elimination-des-dechets)
-- [Sanctions](sanctions)
