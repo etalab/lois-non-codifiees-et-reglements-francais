@@ -19,3 +19,9 @@ III. - Assistantes sociales, conseillères techniques auprès :
 IV. - Agents chargés de l'accueil général au sein des directions régionales et départementales des affaires sanitaires et sociales.
 
 V. - Emplois d'infirmière au centre de reconduite à la frontière du Mesnil-Amelot.
+
+VI.  Secrétaires de la commission départementale de l'éducation spéciale (C.D.E.S.).
+
+VII.  Secrétaires adjoints de la commission départementale de l'éducation spéciale (C.D.E.S.).
+
+VIII.  Secrétaires adjoints de la commission technique d'orientation et de reclassement professionnel (Cotorep).
