@@ -1,5 +1,5 @@
 # Article 7
 
-L'élection a lieu au scrutin de liste suivant le système de la représentation proportionnelle avec application de la règle du plus fort reste, sans panachage ni vote préférentiel [*mode de scrutin*]. Les sièges sont attribués aux candidats d'après l'ordre de présentation. Chaque liste doit comporter au moins deux noms de plus qu'il y a de sièges à pourvoir [*nombre*].
+Dans les circonscriptions où le nombre de sièges à pouvoir est de quatre ou moins, l'élection a lieu au scrutin majoritaire à un tour. En cas d'égalité des suffrages, le plus âgé des candidats est élu.
 
-Toutefois, dans les circonscriptions où est élu un seul membre du conseil, l'élection a lieu à la majorité relative des suffrages exprimés, quel que soit le nombre de votants. Si plusieurs candidats obtiennent le même nombre de suffrages, l'élection est acquise au plus âgé. Chaque candidat doit se présenter avec un suppléant.
+Les membres du conseil élus au scrutin majoritaire dont le siège devient vacant pour quelque cause que ce soit sont remplacés par les personnes élues en même temps qu'eux à cet effet.

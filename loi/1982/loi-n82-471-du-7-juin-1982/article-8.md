@@ -1,3 +1,7 @@
 # Article 8
 
-Lorsque le siège d'un membre du conseil devient vacant par suite de décès ou de démission ou parce qu'il cesse de remplir les conditions fixées à l'article 2, il est pourvu à son remplacement par son suppléant s'il a été élu au scrutin uninominal, ou par le candidat qui suit immédiatement le dernier élu de la liste, s'il a été élu au scrutin de liste.
+Dans les circonscriptionsoù le nombre de sièges à pourvoir est de cinq ou plus, l'élection a lieu à la représentation proportionnelle suivant la règle de la plus forte moyenne, sans panachage ni vote préférentiel. Sur chaque liste, les sièges sont attribués aux candidats d'après l'ordre de présentation.
+
+Chaque liste comprend au moins deux noms de plus qu'il y a de sièges à pourvoir.
+
+Le candidat venant sur une liste immédiatement après le dernier élu est appelé à remplacer le membre du conseil élu sur cette liste dont le siège devient vacant pour quelque cause que ce soit.
