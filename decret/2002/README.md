@@ -13,6 +13,7 @@
 - [Décret n°90-601 du 11 juillet 1990 (MCCB9000404D)](decret-n90-601-du-11-juillet-1990-mccb9000404d)
 - [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
 - [Décret n°95-402 du 13 avril 1995 (SPSS9403399D)](decret-n95-402-du-13-avril-1995-spss9403399d)
+- [Décret n°2002-197 du 14 février 2002 (JUSG0260003D)](decret-n2002-197-du-14-fevrier-2002-jusg0260003d)
 - [Décret n°2002-200 du 14 février 2002 (AGRS0102631D)](decret-n2002-200-du-14-fevrier-2002-agrs0102631d)
 - [Décret n°74-449 du 15 mai 1974](decret-n74-449-du-15-mai-1974)
 - [Décret n°2002-84 du 16 janvier 2002 (INTX0100164D)](decret-n2002-84-du-16-janvier-2002-intx0100164d)
