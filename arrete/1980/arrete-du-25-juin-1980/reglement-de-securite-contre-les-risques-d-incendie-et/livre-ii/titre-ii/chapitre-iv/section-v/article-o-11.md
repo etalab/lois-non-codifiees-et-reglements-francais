@@ -1,17 +1,17 @@
 # Article O 11
 
-Niveaux comportant des locaux réservés au sommeil
+Domaine d'application
 
-§ 1. En application de l'article DF 3, les escaliers et les circulations horizontales encloisonnés doivent être désenfumés ou mis à l'abri des fumées.
+§ 1. Les établissements visés au présent chapitre sont de la classe 1 pour la détermination du coefficient au sens de l'annexe de l'IT 246.
 
-Le désenfumage doit être asservi à la détection automatique d'incendie visée à l'article O 21.
+§ 2. En atténuation des articles DF 4 et DF 6, aucun désenfumage des circulations horizontales desservant des locaux réservés au sommeil n'est obligatoire dans l'un des cas suivants :
 
-§ 2. Toutefois, aucun désenfumage des circulations horizontales des étages comportant des locaux réservés au sommeil n'est exigé dans l'un des cas suivants :
-
-- la distance à parcourir, depuis la porte d'une chambre (ou d'un appartement) pour rejoindre un escalier désenfumé (ou mis à l'abri des fumées), ne dépasse pas 10 mètres ;
-
-- chaque local du niveau est désenfumé mécaniquement ; le désenfumage est asservi à la détection automatique d'incendie visée à l'article O 21 ; de plus, une commande manuelle de mise en marche doit être installée à proximité de l'accès à l'escalier ;
+- la distance à parcourir, depuis la porte d'une chambre (ou d'un appartement) pour rejoindre un escalier désenfumé (ou mis à l'abri des fumées), ne dépasse pas 10 m ;
 
 - les locaux réservés au sommeil sont situés dans des bâtiments à un étage sur rez-de-chaussée au plus ; ils sont pourvus d'un ouvrant en façade.
 
-§ 3. Dans tous les cas, les portes des locaux accessibles au public ouvrant sur les dégagements communs doivent être équipés d'un ferme-porte.
+Cette disposition ne s'applique pas aux établissements recevant un effectif de handicapés circulant en fauteuil roulant supérieur aux valeurs fixées à l'article GN 8.
+
+§ 3. Les portes des locaux accessibles au public ouvrant sur les dégagements utilisés pour l'évacuation des locaux à sommeil doivent être équipées d'un ferme-porte.
+
+§ 4. Dans les circulations horizontales encloisonnées desservant des locaux à sommeil, le désenfumage doit être asservi à la détection automatique d'incendie de la circulation concernée.
