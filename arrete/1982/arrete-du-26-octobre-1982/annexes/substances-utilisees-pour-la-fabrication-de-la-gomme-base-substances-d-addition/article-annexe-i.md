@@ -70,25 +70,11 @@ Lanoline.
 
 2.2.1. Antioxygènes.
 
-Butylhydroxyanisol (B.H.A.)      (Dose maximale : 1 g/kg (0,1 %)
+Butylhydroxyanisol (B.H.A.)      (Dose maximale : 1 g/kg seul ou en mélange. Butylhydroxytoluène (B.H.T.) (1) (Dose maximale : 1 g/kg seul ou en mélange. Gallates de propyle, d'octyle (1),
 
-Butylhydroxytoluène (B.H.T.) (1) (       seuls ou en mélange.
+de docécyle                     Dose maximale : 1 g/kg seul ou en mélange. Extraits d'origine naturelle     (
 
-Gallates de propyle, d'octyle (1),
-
-de docécyle                     Dose maximale 1 g/kg (0,1 %)
-
-Extraits d'origine naturelle     (
-
-riches en tocophérols          )Dose maximale : 2,5 g/kg
-
-Alpha-tocophérols de synthèse    (  (0,25 %) seuls ou en
-
-Gamma-tocophérols de synthèse    )        mélange.
-
-Delta-tocophérols de synthèse    (
-
-2.2.2. Conservateurs.
+riches en tocophérols          )Dose maximale : 2,5 g/kg seuls ou en mélanges. Alpha-tocophérols de synthèse    (Dose maximale : 2,5 g/kg seuls ou en mélange. Gamma-tocophérols de synthèse    )Dose maximale : 2,5 g/kg seuls ou en mélange. Delta-tocophérols de synthèse    (Dose maximale : 2,5 g/kg seuls ou en mélange.                   2.2.2. Conservateurs.
 
 Benzoate de sodium.
 
