@@ -6,6 +6,6 @@ Pour les règlements techniques des certificats de qualification concernant des 
 
 Pour les règlements techniques des certificats de qualification concernant des bâtiments, l'approbation est prononcée ou refusée par décision du ministre chargé de la construction.
 
-Les règlements techniques sont communiqués avant approbation par le ministre compétent, au ministre chargé de l'économie qui fait éventuellement connaître ses observations dans le délai d'un mois.
+Les règlements techniques sont communiqués avant approbation par le ministre compétent au ministre chargé de l'économie. Pour ceux qui concernent des biens de consommation, des bâtiments, des matériaux, composants et équipements servant à l'édification des bâtiments, ils sont en outre communiqués au ministre chargé de la consommation. Les ministres consultés font connaître leurs observations éventuelles dans le délai d'un mois.
 
 Préalablement à toute décision refusant l'approbation d'un règlement technique, le ministre chargé de l'industrie ou le ministre chargé de la construction recueille l'avis du comité consultatif institué au titre III du présent décret.
