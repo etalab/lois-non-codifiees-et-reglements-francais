@@ -9,4 +9,3 @@
 - [Chapitre IV : Elections partielles.](chapitre-iv)
 - [Chapitre V : Contentieux.](chapitre-v)
 - [Chapitre VI : Dispositions diverses.](chapitre-vi)
-- [Article 21](article-21.md)
