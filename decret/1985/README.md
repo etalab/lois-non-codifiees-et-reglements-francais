@@ -3,6 +3,8 @@
 - [Décret n°84-1062 du 1 décembre 1984](decret-n84-1062-du-1-decembre-1984)
 - [Décret n°85-292 du 1 mars 1985](decret-n85-292-du-1-mars-1985)
 - [Décret n°85-293 du 1 mars 1985](decret-n85-293-du-1-mars-1985)
+- [Décret n°85-294 du 1 mars 1985](decret-n85-294-du-1-mars-1985)
+- [Décret n°85-295 du 1 mars 1985](decret-n85-295-du-1-mars-1985)
 - [Décret n°85-419 du 3 avril 1985](decret-n85-419-du-3-avril-1985)
 - [Décret n°84-591 du 4 juillet 1984](decret-n84-591-du-4-juillet-1984)
 - [Décret n°85-159 du 4 février 1985](decret-n85-159-du-4-fevrier-1985)

@@ -11,6 +11,7 @@
 - [Arrêté du 5 novembre 1985](arrete-du-5-novembre-1985)
 - [Arrêté du 6 décembre 1984](arrete-du-6-decembre-1984)
 - [Arrêté du 6 février 1985](arrete-du-6-fevrier-1985)
+- [Arrêté du 6 janvier 1978](arrete-du-6-janvier-1978)
 - [Arrêté du 7 décembre 1984](arrete-du-7-decembre-1984)
 - [Arrêté du 7 janvier 1985](arrete-du-7-janvier-1985)
 - [Arrêté du 7 mars 1986](arrete-du-7-mars-1986)
