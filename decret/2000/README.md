@@ -25,6 +25,7 @@
 - [Décret n°99-1060 du 16 décembre 1999 (ECOX9900106D)](decret-n99-1060-du-16-decembre-1999-ecox9900106d)
 - [Décret n°2000-664 du 17 juillet 2000 (ECOT9926256D)](decret-n2000-664-du-17-juillet-2000-ecot9926256d)
 - [Décret n°2000-670 du 17 juillet 2000 (MAEA0020233D)](decret-n2000-670-du-17-juillet-2000-maea0020233d)
+- [Décret n°95-1115 du 17 octobre 1995 (ENVP9530043D)](decret-n95-1115-du-17-octobre-1995-envp9530043d)
 - [Décret n°2000-1234 du 18 décembre 2000 (INTX0004553D)](decret-n2000-1234-du-18-decembre-2000-intx0004553d)
 - [Décret n°89-241 du 18 avril 1989 (SPSH8900705D)](decret-n89-241-du-18-avril-1989-spsh8900705d)
 - [Décret n°2000-907 du 19 septembre 2000 (ATET0080024D)](decret-n2000-907-du-19-septembre-2000-atet0080024d)

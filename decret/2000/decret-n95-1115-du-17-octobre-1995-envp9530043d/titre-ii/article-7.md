@@ -1,0 +1,33 @@
+# Article 7
+
+I. Les ressources du fonds de prévention des risques naturels majeurs comprennent :
+
+1° Le produit du prélèvement institué par le premier alinéa du II de l'article L. 561-3 du code de l'environnement, dont le taux est fixé, en application du deuxième alinéa du II du même article, par arrêté conjoint des ministres chargés, respectivement, de la prévention des risques majeurs et de l'économie ;
+
+2° Les intérêts des fonds placés ;
+
+3° Les bénéfices sur réalisations de valeurs ;
+
+4° Les sommes reversées en application de l'article 13 ci-dessous ;
+
+5° Les avances de l'Etat mentionnées au troisième alinéa du II de l'article L. 561-3 du code de l'environnement.
+
+II. Ces ressources sont destinées à couvrir :
+
+1° Les indemnités versées aux expropriés et les dépenses liées à la limitation de l'accès et à la démolition éventuelle des biens exposés mentionnées au premier alinéa du I de l'article L. 561-3 du code de l'environnement ;
+
+2° Les frais de gestion exposés par la caisse centrale de réassurance pour la gestion du fonds ;
+
+3° Les pertes sur réalisations de valeurs ;
+
+4° Les indemnités et remboursements de frais éventuellement dus aux membres du conseil de gestion du fonds énumérés au troisième alinéa de l'article 9 ci-dessous ;
+
+5° Le remboursement des avances de l'Etat ;
+
+6° Les dépenses de prévention liées aux évacuations temporaires et au relogement des personnes exposées lorsque la décision d'évacuation a été prise par l'autorité publique compétente dans le cadre des pouvoirs qui lui sont conférés, en vertu des dispositions du code général des collectivités territoriales, pour répondre à la manifestation d'un risque mentionné à l'article L. 561-1 du code de l'environnement susvisé ;
+
+7° Pour la période fixée par l'article 55 de la loi du 30 décembre 1999 susvisée, les dépenses afférentes aux études nécessaires à la préparation et à l'élaboration des plans de prévention des risques naturels prévisibles mentionnés à l'article L. 562-1 du code de l'environnement susvisé ; ces dépenses sont globalement prises en charge, pour moitié, chaque année, par le fonds ;
+
+8° Les dépenses contribuant au financement des mesures de prévention mentionnées au deuxième alinéa du I de l'article L. 561-3 du code de l'environnement ;
+
+9° Les dépenses contribuant au financement, dans les conditions fixées par l'article 128 de la loi de finances pour 2004 (n° 2003-1311 du 30 décembre 2003), des études et travaux de prévention contre les risques naturels dont les collectivités territoriales assurent la maîtrise d'ouvrage.
