@@ -10,7 +10,7 @@ Déclaration de candidature
 
 M. Mme Mlle (1) :
 
-Nom patronymique :  Nom marital :
+Nom de famille :  Nom marital :
 
 Prénom usuel :  Date et lieu de naissance :
 

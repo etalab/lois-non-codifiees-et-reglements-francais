@@ -2,7 +2,7 @@
 
 La liste nominative adressée à chaque maire pour examen et décision d'inscription d'office par la ou les commissions administratives contient les informations suivantes :
 
-- nom patronymique, nom d'usage le cas échéant, prénoms ;
+- nom de famille, nom d'usage le cas échéant, prénoms ;
 
 - date et lieu de naissance ;
 

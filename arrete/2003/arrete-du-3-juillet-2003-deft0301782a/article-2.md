@@ -4,7 +4,7 @@ Les catégories d'informations enregistrées sont celles relatives :
 
 Pour le client de l'établissement :
 
-- à l'identité (nom [patronymique, marital ou d'usage], prénoms adresse, numéros de téléphone et de télécopie, numéro de badge, code d'identification client, adresse de courrier électronique) ;
+- à l'identité (nom [de famille, marital ou d'usage], prénoms adresse, numéros de téléphone et de télécopie, numéro de badge, code d'identification client, adresse de courrier électronique) ;
 
 - à la vie professionnelle (catégorie professionnelle, grade, affectation, service) ;
 
@@ -22,7 +22,7 @@ Pour le fournisseur de l'établissement :
 
 Pour l'employé de l'établissement :
 
-- à l'identité (nom [patronymique, marital ou d'usage], prénoms, adresse, numéro de sécurité sociale [pour les seules opérations autorisées par l'article 1er du décret n° 91-1404 du 27 décembre 1991]) ;
+- à l'identité (nom [de famille, marital ou d'usage], prénoms, adresse, numéro de sécurité sociale [pour les seules opérations autorisées par l'article 1er du décret n° 91-1404 du 27 décembre 1991]) ;
 
 - à la situation familiale (situation matrimoniale, enfants à charge) ;
 

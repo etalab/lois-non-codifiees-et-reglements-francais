@@ -1,6 +1,6 @@
 # Article 6
 
-Les déclarations individuelles de candidature dûment signées doivent indiquer le nom patronymique, le cas échéant complété du nom marital, des prénoms, du collège électoral ainsi que de l'unité de formation et de recherche d'odontologie d'affectation et le service hospitalier où l'intéressé exerce ses fonctions.
+Les déclarations individuelles de candidature dûment signées doivent indiquer le nom de famille, le cas échéant complété du nom marital, des prénoms, du collège électoral ainsi que de l'unité de formation et de recherche d'odontologie d'affectation et le service hospitalier où l'intéressé exerce ses fonctions.
 
 Elles sont établies en deux exemplaires et doivent être adressées, conjointement, par lettre recommandée avec demande d'avis de réception, six semaines au moins avant la date fixée pour le scrutin :
 

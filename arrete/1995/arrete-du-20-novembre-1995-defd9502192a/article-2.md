@@ -2,7 +2,7 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- à l'identité : nom patronymique, nom d'usage, prénoms, date et lieu de naissance, nationalité, bénéfice d'une convention internationale, filiation, adresses personnelles, numéro de téléphone (facultatif) ;
+- à l'identité : nom de famille, nom d'usage, prénoms, date et lieu de naissance, nationalité, bénéfice d'une convention internationale, filiation, adresses personnelles, numéro de téléphone (facultatif) ;
 
 - à la situation familiale : situation matrimoniale, enfant(s) vivant(s) à charge, frère(s) et soeur(s) vivant(s), frère jumeau, informations particulières (orphelin, pupille) ;
 

@@ -2,7 +2,7 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- à l'identité (matricule, nom patronymique, nom d'usage, prénom, date de naissance, sexe, photographie) ;
+- à l'identité (matricule, nom de famille, nom d'usage, prénom, date de naissance, sexe, photographie) ;
 
 - à la vie professionnelle (origine, dates d'entrée dans l'administration et au commissariat de la marine, statuts, corps et grades successifs, profession actuelle, service d'affectation actuel) ;
 

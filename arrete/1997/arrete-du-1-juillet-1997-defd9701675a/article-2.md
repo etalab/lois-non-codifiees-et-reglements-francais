@@ -2,9 +2,9 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- aux personnels (nom patronymique ou d'usage, prénom usuel, numéro matricule, service d'affectation) ;
+- aux personnels (nom de famille ou d'usage, prénom usuel, numéro matricule, service d'affectation) ;
 
-- aux visiteurs (nom patronymique ou d'usage, prénom usuel, fonction ou entreprise) ;
+- aux visiteurs (nom de famille ou d'usage, prénom usuel, fonction ou entreprise) ;
 
 - au déplacement des personnes (numéro de badge ou de laissez-passer, date de création et période de validité, zones autorisées, heures d'entrée et de sortie de chaque zone, personne ou service visité, code confidentiel).
 

@@ -2,7 +2,7 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- à l'identité (nom patronymique, prénom, date de naissance, adresse) ;
+- à l'identité (nom de famille, prénom, date de naissance, adresse) ;
 
 - à la vie professionnelle (catégorie de personnel, affectation) ;
 

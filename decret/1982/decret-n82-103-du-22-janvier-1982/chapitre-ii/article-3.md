@@ -2,7 +2,7 @@
 
 Sont portés au répertoire les seuls éléments suivants de l'état civil de chaque personne inscrite :
 
-1° Le nom patronymique et les prénoms ;
+1° Le nom de famille et les prénoms ;
 
 2° Le sexe ;
 

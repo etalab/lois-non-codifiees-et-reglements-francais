@@ -4,7 +4,7 @@ INFORMATIONS MÉMORISÉES
 
 Pour les titulaires :
 
-- état civil (nom patronymique, nom marital, prénoms, sexe, date et lieu de naissance, date et lieu de mariage, situation de famille) ;
+- état civil (nom de famille, nom marital, prénoms, sexe, date et lieu de naissance, date et lieu de mariage, situation de famille) ;
 
 - nationalité et son moyen d'acquisition ;
 
@@ -30,7 +30,7 @@ Pour les titulaires :
 
 Pour les membres de la famille d'un titulaire :
 
-- état civil (nom patronymique, sexe, degré de garantie avec le titulaire, date et lieu de naissance) ;
+- état civil (nom de famille, sexe, degré de garantie avec le titulaire, date et lieu de naissance) ;
 
 - nationalité et son moyen d'acquisition ;
 

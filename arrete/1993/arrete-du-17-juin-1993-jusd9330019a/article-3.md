@@ -2,7 +2,7 @@
 
 Les informations saisies sont :
 
-- le nom patronymique, le nom marital, les prénoms, la filiation, l'adresse, la date et le lieu de naissance. Les informations se rapportant à la profession, la nationalité, la situation militaire et la situation familiale du prévenu ne sont enregistrées que dans le seul cas de saisine du tribunal de police ;
+- le nom de famille, le nom marital, les prénoms, la filiation, l'adresse, la date et le lieu de naissance. Les informations se rapportant à la profession, la nationalité, la situation militaire et la situation familiale du prévenu ne sont enregistrées que dans le seul cas de saisine du tribunal de police ;
 
 - les références du permis de conduire ;
 

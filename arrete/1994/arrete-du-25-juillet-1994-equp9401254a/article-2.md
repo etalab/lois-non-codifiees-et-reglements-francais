@@ -4,7 +4,7 @@ Les catégories d'informations nominatives enregistrées sont les suivantes :
 
 Situation individuelle :
 
-- état civil (nom, nom patronymique, prénom, date et lieu de naissance, nationalité) ;
+- état civil (nom, nom de famille, prénom, date et lieu de naissance, nationalité) ;
 
 - adresse personnelle, téléphone ;
 

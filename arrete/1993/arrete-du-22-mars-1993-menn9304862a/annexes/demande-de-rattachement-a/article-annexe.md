@@ -2,7 +2,7 @@
 
 (A adresser entre le 5 avril et le 17 mai 1993 au ministère de l'éducation nationale et de la culture [direction des personnels d'enseignement supérieur, bureau D.P.E.S. 5], 3-5, boulevard Pasteur, 75015 Paris.)
 
-Nom patronymique
+Nom de famille
 
 Nom marital
 

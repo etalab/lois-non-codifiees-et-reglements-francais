@@ -4,7 +4,7 @@ Déclaration de candidature à l'élection des membres des sections du Conseil n
 
 Section n°     Collège :
 
-Nom patronymique :
+Nom de famille :
 
 Prénoms :
 

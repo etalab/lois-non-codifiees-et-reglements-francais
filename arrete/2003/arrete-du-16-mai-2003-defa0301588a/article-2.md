@@ -2,11 +2,11 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- à l'identité (nom [patronymique, marital ou d'usage], prénoms, photographie, sexe, date et lieu de naissance, nationalité, adresses [postale et professionnelle de courrier électronique], numéros [de téléphone et de télécopie professionnel], identifiant défense, numéro de passeport administratif, coordonnées de la personne à prévenir en cas d'urgence [nom, prénom, adresse, numéro de téléphone], permis de conduire [type, numéro et date de délivrance]) ;
+- à l'identité (nom [de famille, marital ou d'usage], prénoms, photographie, sexe, date et lieu de naissance, nationalité, adresses [postale et professionnelle de courrier électronique], numéros [de téléphone et de télécopie professionnel], identifiant défense, numéro de passeport administratif, coordonnées de la personne à prévenir en cas d'urgence [nom, prénom, adresse, numéro de téléphone], permis de conduire [type, numéro et date de délivrance]) ;
 
 - au numéro de sécurité sociale (pour les seules opérations effectuées dans le cadre de la paie) ;
 
-- à la situation familiale (situation matrimoniale, conjoint [nom, prénoms, date de naissance, identifiant défense pour les personnels appartenant à la défense], enfant(s) [nom patronymique, prénoms, sexe, date de naissance, à charge ou non, date d'adoption éventuelle, date du décès éventuel, taux de handicap], personne(s) à charge [nom, prénoms, nature de parenté, date et lieu de naissance, date du décès éventuel, taux de handicap]) ;
+- à la situation familiale (situation matrimoniale, conjoint [nom, prénoms, date de naissance, identifiant défense pour les personnels appartenant à la défense], enfant(s) [nom de famille, prénoms, sexe, date de naissance, à charge ou non, date d'adoption éventuelle, date du décès éventuel, taux de handicap], personne(s) à charge [nom, prénoms, nature de parenté, date et lieu de naissance, date du décès éventuel, taux de handicap]) ;
 
 - à la situation militaire (dégagé, sursitaire, exempté, position sous les drapeaux, durée des services, grade, arme, spécialité éventuelle, affectation dans la réserve) ;
 

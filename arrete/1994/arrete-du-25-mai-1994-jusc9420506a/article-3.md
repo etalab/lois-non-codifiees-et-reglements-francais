@@ -2,11 +2,11 @@
 
 Les informations saisies sont :
 
-le nom patronymique, les prénoms, l'adresse, la date et le lieu de naissance ;
+le nom de famille, les prénoms, l'adresse, la date et le lieu de naissance ;
 
-la date et le lieu de mariage, le nom patronymique, les prénoms, la date et le lieu de naissance du conjoint ;
+la date et le lieu de mariage, le nom de famille, les prénoms, la date et le lieu de naissance du conjoint ;
 
-le nom patronymique, les prénoms, la date et le lieu de naissance du père et de la mère ;
+le nom de famille, les prénoms, la date et le lieu de naissance du père et de la mère ;
 
 la nature de l'affaire (consultation, contentieux judiciaire) et son fondement ;
 

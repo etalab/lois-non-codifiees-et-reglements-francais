@@ -2,7 +2,7 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- à l'identité (nom patronymique, prénoms, année de naissance) ;
+- à l'identité (nom de famille, prénoms, année de naissance) ;
 
 - à la situation militaire (grade, date de promotion, arme, recrutement, affectation) ;
 

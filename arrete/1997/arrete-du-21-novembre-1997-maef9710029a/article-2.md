@@ -2,7 +2,7 @@
 
 Les catégories d'informations nominatives sont les suivantes :
 
-- nom patronymique de l'agent ;
+- nom de famille de l'agent ;
 
 - nom marital de l'agent ;
 

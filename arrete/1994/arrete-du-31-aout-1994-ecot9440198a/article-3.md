@@ -4,7 +4,7 @@ Les déclarations mentionnées à l'article 2 ci-dessus donnent des renseignemen
 
 S'agissant des titulaires des comptes, elles précisent :
 
-1. Pour les personnes physiques, leurs nom patronymique, prénoms, date et lieu de naissance, leur situation de famille et leur adresse, le nom patronymique de leur conjoint et ses prénoms ;
+1. Pour les personnes physiques, leurs nom de famille, prénoms, date et lieu de naissance, leur situation de famille et leur adresse, le nom de famille de leur conjoint et ses prénoms ;
 
 2. Pour les personnes morales, leur dénomination ou raison sociale, leur sigle, leur forme juridique, leur adresse et leur numéro d'identification.
 

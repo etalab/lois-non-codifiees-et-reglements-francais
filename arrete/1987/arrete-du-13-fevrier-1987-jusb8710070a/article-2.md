@@ -2,7 +2,7 @@
 
 Les informations saisies sont :
 
-- le nom patronymique, le nom marital, les prénoms, l'adresse, la date et le lieu de naissance, la profession, le numéro de sécurité sociale et la nationalité des parties personnes physiques ;
+- le nom de famille, le nom marital, les prénoms, l'adresse, la date et le lieu de naissance, la profession, le numéro de sécurité sociale et la nationalité des parties personnes physiques ;
 
 - le montant des ressources des parties sollicitant l'aide judiciaire ;
 

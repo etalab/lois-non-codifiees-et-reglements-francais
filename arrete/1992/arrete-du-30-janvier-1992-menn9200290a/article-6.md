@@ -14,7 +14,7 @@ A chaque liste doit être jointe une note désignant le délégué habilité à 
 
 Les noms des candidats sont rangés par ordre préférentiel. Les listes peuvent être incomplètes. Elles doivent néanmoins comporter un nombre de candidats au moins égal à la moitié du nombre de sièges à pourvoir.
 
-Les candidates sont désignées sous leur nom patronymique, le cas échéant complété par le nom marital.
+Les candidates sont désignées sous leur nom de famille, le cas échéant complété par le nom marital.
 
 La consultation des listes de candidats s'effectue au ministère de l'éducation nationale (bureau DPES 4), 45, rue des Saints-Pères, Paris (6e), le 6 mars 1992, de 9 heures à 17 heures.
 

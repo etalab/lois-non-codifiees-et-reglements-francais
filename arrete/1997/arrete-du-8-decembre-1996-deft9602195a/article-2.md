@@ -2,7 +2,7 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- à l'identité (nom patronymique, nom d'usage, prénom, date de naissance, adresse, numéro de téléphone privé [facultatif]) ;
+- à l'identité (nom de famille, nom d'usage, prénom, date de naissance, adresse, numéro de téléphone privé [facultatif]) ;
 
 - à la situation familiale (situation matrimoniale, enfants [sexe, année de naissance], enfants en droit de visite [sexe, année de naissance], situation prénatale) ;
 

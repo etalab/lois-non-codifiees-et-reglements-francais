@@ -2,7 +2,7 @@
 
 Les catégories d'informations nominatives enregistrées sont les suivantes :
 
-1° Identification et état civil (nom patronymique, prénom, nom marital, enfants et personnes à charge, date et lieu de naissance, situation familiale, conjoint, adresse du domicile, numéro de téléphone personnel, numéro I.N.S.E.E., clé I.N.S.E.E.) ;
+1° Identification et état civil (nom de famille, prénom, nom marital, enfants et personnes à charge, date et lieu de naissance, situation familiale, conjoint, adresse du domicile, numéro de téléphone personnel, numéro I.N.S.E.E., clé I.N.S.E.E.) ;
 
 2° Formation initiale et déroulement de carrière depuis l'entrée dans le corps : diplômes, langues, durée totale des services militaires, corps d'origine, date d'entrée à l'Ecole nationale d'administration, date de nomination dans le corps des tribunaux administratifs et des cours administratives d'appel, date de nomination dans un corps issu de l'Ecole nationale d'administration, ancienneté des services accomplis à la nomination dans le corps, position, mobilité, affectation (en juridiction et hors juridiction), fonction occupée dans la juridiction, autres fonctions administratives, notation, décorations, date de limite d'âge, date prévue de cessation d'activité ;
 

@@ -4,4 +4,4 @@ Les notaires et les huissiers remettent, conformément aux articles 1er et 2 de 
 
 Sur ces copies, le nom du souscripteur du billet à ordre, du tireur du chèque ou de l'accepteur de la lettre de change est porté en lettres capitales.
 
-L'huissier ou le notaire doit porter également sur ces copies, d'après les renseignements qu'il a pu obtenir, s'ils n'y figurent pas déjà, le domicile de la personne visée à l'alinéa précédent et, au cas où l'effet concernerait une femme mariée, et aurait été établi sous le nom patronymique de celle-ci, le nom de son conjoint.
+L'huissier ou le notaire doit porter également sur ces copies, d'après les renseignements qu'il a pu obtenir, s'ils n'y figurent pas déjà, le domicile de la personne visée à l'alinéa précédent et, au cas où l'effet concernerait une femme mariée, et aurait été établi sous le nom de famille de celle-ci, le nom de son conjoint.

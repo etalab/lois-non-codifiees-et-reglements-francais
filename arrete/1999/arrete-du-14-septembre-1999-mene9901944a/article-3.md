@@ -4,7 +4,7 @@ Pour les emplois-jeunes affectés dans les établissements publics locaux d'ense
 
 a) Informations enregistrées et gérées par les services académiques, pour l'instruction des candidatures :
 
-- nom usuel, nom patronymique, prénoms ;
+- nom usuel, nom de famille, prénoms ;
 
 - adresse et téléphone ;
 

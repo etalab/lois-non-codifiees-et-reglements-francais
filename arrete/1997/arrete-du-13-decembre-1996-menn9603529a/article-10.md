@@ -6,7 +6,7 @@ Aucune candidature ne peut être déposée ou retirée après cette date.
 
 A chaque liste doit être jointe une note désignant le délégué habilité à représenter la liste considérée auprès du ministère. L'adresse du délégué et son numéro de téléphone doivent être également mentionnés.
 
-Les candidates sont désignées sous leur nom patronymique, complété, le cas échéant, par le nom marital.
+Les candidates sont désignées sous leur nom de famille, complété, le cas échéant, par le nom marital.
 
 Les listes peuvent être incomplètes. Les candidats sont rangés par ordre préférentiel.
 

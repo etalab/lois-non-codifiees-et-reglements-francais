@@ -2,7 +2,7 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- au requérant : nom patronymique, nom d'usage, prénoms, nationalité, date et lieu de naissance, adresse personnelle, numéro d'immatriculation au service national, situation militaire ;
+- au requérant : nom de famille, nom d'usage, prénoms, nationalité, date et lieu de naissance, adresse personnelle, numéro d'immatriculation au service national, situation militaire ;
 
 - à la nature de la demande de dispense ; soutien de famille, chef d'exploitation, chef d'entreprise ;
 

@@ -4,7 +4,7 @@ Déclaration de candidature à l'élection des membres des commissions de groupe
 
 Commission du groupe n°     Collège :
 
-Nom patronymique :
+Nom de famille :
 
 Prénoms :
 

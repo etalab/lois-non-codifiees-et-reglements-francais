@@ -4,7 +4,7 @@ Le répertoire national interrégimes des bénéficiaires de l'assurance maladie
 
 1° Son numéro d'inscription au répertoire national d'identification des personnes physiques et celui ou ceux qui lui auraient été précédemment attribués ;
 
-2° Son nom patronymique, son nom d'usage le cas échéant, et ses prénoms ;
+2° Son nom de famille, son nom d'usage le cas échéant, et ses prénoms ;
 
 3° Ses date et lieu de naissance ;
 

@@ -2,7 +2,7 @@
 
 Les informations nominatives enregistrées dans le traitement sont les suivantes :
 
-- identité : nom patronymique, nom d'usage, prénom, date et lieu de naissance, sexe, adresse ;
+- identité : nom de famille, nom d'usage, prénom, date et lieu de naissance, sexe, adresse ;
 
 - situation matrimoniale ;
 

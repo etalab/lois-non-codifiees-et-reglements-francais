@@ -8,6 +8,6 @@ Sous réserve de l'application du 1 de l'article 40, elles doivent comporter :
 
 La désignation individuelle des immeubles auxquels elles se rapportent, à savoir, l'indication de la commune de situation, de la section et du numéro de plan cadastral et, en outre, pour les fractions d'immeubles, l'indication du numéro de lot.
 
-Les noms patronymiques ou dénominations qui y sont indiqués doivent figurer en lettres majuscules d'imprimerie. Les prénoms sont portés en lettres minuscules.
+Les noms de famille ou dénominations qui y sont indiqués doivent figurer en lettres majuscules d'imprimerie. Les prénoms sont portés en lettres minuscules.
 
 Les réquisitions sont datées et signées par ceux qui les formulent.

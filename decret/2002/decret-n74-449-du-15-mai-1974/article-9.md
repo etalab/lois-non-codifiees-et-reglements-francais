@@ -2,7 +2,11 @@
 
 Les actes ou jugements qui ont une incidence sur un acte ou un certificat en tenant lieu dont l'extrait figure au livret de famille doivent être mentionnés, selon le cas, par l'officier de l'état civil ou par le directeur de l'Office français de protection des réfugiés et apatrides à la suite de cet extrait.
 
-Les déclarations conjointes faites par application des articles 334-2 et 334-5 du code civil peuvent être portées sur le livret de famille par le greffier du juge aux affaires familiales ou par l'officier de l'état civil du lieu de naissance de l'enfant.
+Pour les enfants nés avant le 1er janvier 2005, les déclarations conjointes faites par application des articles 334-2 et 334-5 du code civil, dans leur rédaction antérieure à la loi n° 2002-304 du 4 mars 2002, sont portées sur le livret de famille par le greffier en chef du tribunal de grande instance ou par l'officier de l'état civil dépositaire de l'acte de naissance.
+
+Pour les enfants nés à compter du 1er janvier 2005, les déclarations conjointes faites par application des articles 311-21, premier alinéa, 311-21, alinéa 4, et 334-2 du code civil sont portées sur le livret de famille par l'officier de l'état civil qui les reçoit ou par l'officier de l'état civil dépositaire de l'acte de naissance.
+
+Les déclarations conjointes d'adjonction de nom faites en application de l'article 23 de la loi du 4 mars 2002 sont portées sur le livret de famille par l'officier de l'état civil détenteur de l'acte de naissance de l'aîné des enfants communs après réception des récépissés d'avis de mention que lui adressent les officiers de l'état civil dès la mise à jour des actes de naissance des autres enfants dont ils sont dépositaires. Après avoir actualisé le livret de famille, l'officier de l'état civil en fait retour à l'officier de l'état civil du lieu où demeurent les parents aux fins de restitution.
 
 L'indication d'enfant sans vie ainsi que la date et le lieu de l'accouchement peuvent être apposés sur le livret de famille, à la demande des parents, par l'officier de l'état civil qui a établi l'acte.
 

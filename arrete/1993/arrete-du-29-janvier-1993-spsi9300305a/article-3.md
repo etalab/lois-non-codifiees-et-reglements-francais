@@ -1,6 +1,6 @@
 # Article 3
 
-L'I.N.S.E.E. procède au tirage dans le Répertoire national d'identification des personnes physiques des individus dont la date de naissance correspond à l'échantillon. Il établit une liste comprenant, pour chaque individu de l'échantillon, le numéro d'identification au répertoire, le nom patronymique, le (ou les) prénom(s), le sexe, la date et le lieu de naissance ainsi qu'un numéro d'ordre non significatif. Cette liste est transmise sur support magnétique ou sur support papier à l'ensemble des caisses de retraite et à l'Unedic.
+L'I.N.S.E.E. procède au tirage dans le Répertoire national d'identification des personnes physiques des individus dont la date de naissance correspond à l'échantillon. Il établit une liste comprenant, pour chaque individu de l'échantillon, le numéro d'identification au répertoire, le nom de famille, le (ou les) prénom(s), le sexe, la date et le lieu de naissance ainsi qu'un numéro d'ordre non significatif. Cette liste est transmise sur support magnétique ou sur support papier à l'ensemble des caisses de retraite et à l'Unedic.
 
 Les informations fournies par les caisses et traitées par le S.E.S.I. sont, outre le numéro d'ordre :
 

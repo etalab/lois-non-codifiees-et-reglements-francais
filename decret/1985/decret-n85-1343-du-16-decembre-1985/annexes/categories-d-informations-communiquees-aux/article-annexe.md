@@ -4,7 +4,7 @@ CATEGORIES D'INFORMATIONS TRAITEES :
 
 A - IDENTITE : A1. Salarié.
 
-NATURE DE L'INFORMATION : Nom patronymique, prénoms, nom marital.
+NATURE DE L'INFORMATION : Nom de famille, prénoms, nom marital.
 
 CATEGORIES DE DESTINATAIRES : Tous partenaires.
 
@@ -46,7 +46,9 @@ A - IDENTITE : A2. Employeur.
 
 NATURE DE L'INFORMATION : Nom, prénom ou raison sociale. Identifiant de l'établissement (n° Siret et/ou numéro de cotisant). Adresse de l'établissement.
 
-CATEGORIES DE DESTINATAIRES : Tous partenaires.    CATEGORIES D'INFORMATIONS TRAITEES :
+CATEGORIES DE DESTINATAIRES : Tous partenaires.
+
+CATEGORIES D'INFORMATIONS TRAITEES :
 
 A - IDENTITE : A3. Bénéficiaires d'honoraires et de revenus assimilés.
 

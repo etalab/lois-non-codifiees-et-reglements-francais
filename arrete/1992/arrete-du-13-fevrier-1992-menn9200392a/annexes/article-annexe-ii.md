@@ -2,7 +2,7 @@
 
 Demande de rattachement
 
-Nom patronymique :
+Nom de famille :
 
 Prénom :
 

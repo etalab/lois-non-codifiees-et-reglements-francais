@@ -4,7 +4,7 @@ Les catégories d'informations nominatives enregistrées sont les suivantes :
 
 Identité :
 
--nom patronymique ;
+-nom de famille ;
 
 -nom marital ;
 

@@ -2,7 +2,7 @@
 
 Lorsqu'elle demande à avoir communication d'informations fiscales concernant certains assurés sociaux, la CANSSM transmet au CNTDF un fichier d'appels comprenant les informations suivantes :
 
-- le nom patronymique et, le cas échéant, marital ;
+- le nom de famille et, le cas échéant, marital ;
 
 - le ou les prénoms ;
 
@@ -18,7 +18,7 @@ Lorsqu'elle demande à avoir communication d'informations fiscales concernant ce
 
 Tout fichier d'appels est accompagné également des nom et coordonnées du correspondant CNTDF de l'organisme pour le compte duquel il est présenté.
 
-Les NIR transmis par la CANSSM sont exclusivement conservés au CNTDF dans des fichiers informatisés dédiés, dénommés table CNTDF de correspondance NIR/n° SPI, qui permettent d'établir un lien fixe entre le NIR, complété des quatre premiers caractères du nom patronymique, et l'identifiant fiscal national individuel - le numéro SPI - qui est utilisé par les administrations fiscales dans leurs traitements internes et dans leurs relations avec les contribuables. Ce fichier ainsi que les fichiers d'appels visés ci-dessus sont enregistrés sur des supports informatiques spécifiques et font l'objet de mesures de sécurité renforcées.
+Les NIR transmis par la CANSSM sont exclusivement conservés au CNTDF dans des fichiers informatisés dédiés, dénommés table CNTDF de correspondance NIR/n° SPI, qui permettent d'établir un lien fixe entre le NIR, complété des quatre premiers caractères du nom de famille, et l'identifiant fiscal national individuel - le numéro SPI - qui est utilisé par les administrations fiscales dans leurs traitements internes et dans leurs relations avec les contribuables. Ce fichier ainsi que les fichiers d'appels visés ci-dessus sont enregistrés sur des supports informatiques spécifiques et font l'objet de mesures de sécurité renforcées.
 
 Après vérification de la concordance suffisante des éléments d'identification des personnes physiques qui font l'objet d'une demande avec ceux de la table CNTDF de correspondance, puis éventuellement avec les éléments d'état civil et d'adresse conservés dans les applications Simplification des procédures d'imposition (SPI) ou Simplification de la gestion des informations de recoupement (SIR) de la direction générale des impôts, les demandes sont enrichies du numéro SPI des contribuables concernés.
 

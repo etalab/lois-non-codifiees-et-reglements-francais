@@ -2,7 +2,7 @@
 
 Les catégories d'informations nominatives enregistrées sont les suivantes :
 
-- l'identité : nom patronymique, nom marital, prénoms, date et lieu de naissance, nationalité, adresse civile ;
+- l'identité : nom de famille, nom marital, prénoms, date et lieu de naissance, nationalité, adresse civile ;
 
 - la situation militaire : numéro, matricule, grade, affectation ;
 

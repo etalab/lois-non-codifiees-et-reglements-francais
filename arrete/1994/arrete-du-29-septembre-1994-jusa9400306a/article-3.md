@@ -2,7 +2,7 @@
 
 Les informations peuvent être, selon les situations :
 
-- le nom patronymique, le prénom, l'adresse et le titre de l'auteur du courrier et, éventuellement, de la personne pour laquelle il intervient ;
+- le nom de famille, le prénom, l'adresse et le titre de l'auteur du courrier et, éventuellement, de la personne pour laquelle il intervient ;
 
 - l'objet du courrier ;
 

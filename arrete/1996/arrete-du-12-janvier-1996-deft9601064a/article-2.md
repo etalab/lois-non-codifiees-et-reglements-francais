@@ -2,7 +2,7 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- à l'identité (nom patronymique, nom d'usage, prénoms des requérants, victimes ou auteurs) ;
+- à l'identité (nom de famille, nom d'usage, prénoms des requérants, victimes ou auteurs) ;
 
 - à la santé (blessures, incapacités) ;
 

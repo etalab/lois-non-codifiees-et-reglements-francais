@@ -20,6 +20,6 @@ Chaque liste doit être accompagnée d'une déclaration de candidature signée p
 
 Les noms des candidats sont rangés par ordre préférentiel. Les listes peuvent être incomplètes. Elles doivent néanmoins compter un nombre de candidats au moins égal à la moitié du nombre des sièges à pourvoir.
 
-Les candidats sont désignés sous leur nom patronymique, le cas échéant complété par le nom marital.
+Les candidats sont désignés sous leur nom de famille, le cas échéant complété par le nom marital.
 
 Le chef d'établissement met les listes de candidats à la disposition des électeurs par tous moyens, et notamment par voie d'affichage, en indiquant les lieux et heures fixés pour la consultation.

@@ -2,9 +2,9 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- à l'identité des personnels (nom patronymique ou d'usage, prénom, date et lieu de naissance, matricule, photographie, pièce d'identité) ;
+- à l'identité des personnels (nom de famille ou d'usage, prénom, date et lieu de naissance, matricule, photographie, pièce d'identité) ;
 
-- à l'identité des visiteurs (nom patronymique ou d'usage, prénom, fonction, affectation ou entreprise, date et lieu de naissance, pièce d'identité, nationalité) ;
+- à l'identité des visiteurs (nom de famille ou d'usage, prénom, fonction, affectation ou entreprise, date et lieu de naissance, pièce d'identité, nationalité) ;
 
 - à la vie professionnelle (grade, catégorie, spécialité ou qualification, unité d'affectation, date d'affectation, service, fonction, téléphone) ;
 

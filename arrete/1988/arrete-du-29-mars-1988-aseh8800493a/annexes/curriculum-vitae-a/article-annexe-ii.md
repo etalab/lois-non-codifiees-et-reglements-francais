@@ -4,7 +4,7 @@
 
 Nom :
 
-Nom patronymique :
+Nom de famille :
 
 Prénom :
 
@@ -22,9 +22,9 @@ I. - Situation à la date de clôture des candidatures
 
 - Professeur du deuxième grade.
 
-- Chef de travaux des universités - odontologiste adjoint des   services de consultations et de traitements dentaires.
+- Chef de travaux des universités - odontologiste adjoint des services de consultations et de traitements dentaires.
 
-- Inscrit sur la liste d'aptitude au corps des professeurs des   universités - odontologistes des services de consultations et de   traitements dentaires.
+- Inscrit sur la liste d'aptitude au corps des professeurs des universités - odontologistes des services de consultations et de traitements dentaires.
 
 Année d'inscription :
 

@@ -1,8 +1,8 @@
 # Article 2
 
-Les informations saisies sont [*liste*] :
+Les informations saisies sont :
 
-- le nom patronymique, le nom marital, les prénoms, l'adresse, la date et le lieu de naissance, la profession, le numéro de sécurité sociale, la nationalité, la situation familiale des parties personnes physiques ;
+- le nom de famille, le nom marital, les prénoms, l'adresse, la date et le lieu de naissance, la profession, le numéro de sécurité sociale, la nationalité, la situation familiale des parties personnes physiques ;
 
 - le nom ou la raison sociale, le représentant, l'adresse des parties personnes morales ;
 

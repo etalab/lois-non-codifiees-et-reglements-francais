@@ -4,7 +4,7 @@ Le responsable de la recherche, au sens du quatrième alinéa de l'article 40-3 
 
 1° Numéro d'identification individuel propre à l'étude ;
 
-2° Nom patronymique ;
+2° Nom de famille ;
 
 3° Prénoms ;
 

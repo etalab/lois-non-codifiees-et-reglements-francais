@@ -10,7 +10,7 @@ Intitulé de la section :
 
 Notice individuelle curriculum vitae
 
-Nom patronymique :
+Nom de famille :
 
 Nom marital :
 

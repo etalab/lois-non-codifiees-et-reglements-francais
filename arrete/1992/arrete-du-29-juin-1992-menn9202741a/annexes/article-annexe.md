@@ -4,7 +4,7 @@ Candidature à l'élection de professeur du premier ou du second grade de chirur
 
 Section :Sous-section :         Intitulé de la sous-section :
 
-Nom patronymique :Prénoms :Nom marital :Grade :Etablissement :         Adresse administrative :
+Nom de famille :Prénoms :Nom marital :Grade :Etablissement :         Adresse administrative :
 
 U.F.R. (ou autre désignation) :Rue :, n° :Code postal :Ville :Téléphone :, n° de poste :         Adresse personnelle :
 

@@ -1,6 +1,6 @@
 # Article 2
 
-L'I.N.S.E.E. procède au tirage dans le répertoire national d'identification des personnes physiques d'un échantillon constitué par l'ensemble des personnes nées en métropole les 1er à 7 octobre 1922, 1er à 7 octobre 1918, 1er à 6 octobre 1912 et 1er à 8 octobre 1906. Il établit une liste comprenant pour chaque individu de l'échantillon le numéro d'identification au répertoire, le nom patronymique, le (ou les) prénom(s), le sexe, la date et le lieu de naissance ainsi qu'un numéro d'ordre non significatif. Cette liste est transmise, sur support magnétique ou sur support papier, à l'ensemble des caisses de retraite et à l'Unedic.
+L'I.N.S.E.E. procède au tirage dans le répertoire national d'identification des personnes physiques d'un échantillon constitué par l'ensemble des personnes nées en métropole les 1er à 7 octobre 1922, 1er à 7 octobre 1918, 1er à 6 octobre 1912 et 1er à 8 octobre 1906. Il établit une liste comprenant pour chaque individu de l'échantillon le numéro d'identification au répertoire, le nom de famille, le (ou les) prénom(s), le sexe, la date et le lieu de naissance ainsi qu'un numéro d'ordre non significatif. Cette liste est transmise, sur support magnétique ou sur support papier, à l'ensemble des caisses de retraite et à l'Unedic.
 
 Les informations fournies par les caisses et traitées par le S.E.S.I. sont, outre le numéro d'ordre :
 

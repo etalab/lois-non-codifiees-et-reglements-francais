@@ -2,7 +2,7 @@
 
 Les catégories d'informations traitées concernent :
 
-Leur état civil, comprenant : le nom patronymique, le nom marital, le prénom, le sexe, la date et le lieu de naissance, la nationalité ;
+Leur état civil, comprenant : le nom de famille, le nom marital, le prénom, le sexe, la date et le lieu de naissance, la nationalité ;
 
 Leur situation de famille, la profession (éventuelle) du conjoint, le nom, le prénom, la date de naissance, de décès des enfants ;
 

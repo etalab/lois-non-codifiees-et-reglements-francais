@@ -2,7 +2,7 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- à l'identité (noms [patronymique, de naissance, usuel, alias, avant naturalisation], prénoms, dates et lieux [de naissance, de disparition et de décès], sexe, nationalité, date et décret de naturalisation, date de mort pour la France) ;
+- à l'identité (noms [de famille, de naissance, usuel, alias, avant naturalisation], prénoms, dates et lieux [de naissance, de disparition et de décès], sexe, nationalité, date et décret de naturalisation, date de mort pour la France) ;
 
 - à la situation familiale (situation matrimoniale) ;
 

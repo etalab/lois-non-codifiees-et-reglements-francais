@@ -10,7 +10,7 @@ Intitulé de la section (1) :
 
 Déclaration de candidature (2)
 
-Nom patronymique :
+Nom de famille :
 
 Nom marital :
 

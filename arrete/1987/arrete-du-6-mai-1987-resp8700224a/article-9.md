@@ -8,7 +8,7 @@ Les candidatures présentées pour l'élection prévue à l'article 8 ci-dessus 
 
 A chaque liste doit être jointe une note désignant le délégué habilité à représenter la liste considérée auprès du ministère. L'adresse du délégué et son numéro de téléphone doivent être également mentionnés.
 
-Les candidates sont désignées sous leur nom patronymique, le cas échéant complété par le nom marital.
+Les candidates sont désignées sous leur nom de famille, le cas échéant complété par le nom marital.
 
 Les listes peuvent être incomplètes. Les candidats sont rangés par ordre préférentiel.
 

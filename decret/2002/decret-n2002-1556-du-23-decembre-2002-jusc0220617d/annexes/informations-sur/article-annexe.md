@@ -6,13 +6,15 @@ Nom des époux et de leurs enfants
 
 Le mariage est sans effet sur le nom des époux, qui continuent chacun d'avoir pour seul nom officiel celui qui résulte de leur acte de naissance. Toutefois, chacun des époux peut utiliser dans la vie courante, s'il le désire, le nom de son conjoint, en l'ajoutant à son propre nom ou même, pour la femme, en le substituant au sien.
 
-A compter du 1er septembre 2003 et, à Mayotte, du 1er septembre 2007, les époux choisissent le nom de famille qui est dévolu à leur enfant commun, soit le nom du père, soit le nom de la mère, soit leurs deux noms accolés dans l'ordre choisi par eux dans la limite d'un nom de famille pour chacun d'eux.
+Les époux choisissent le nom de famille qui est dévolu à leur premier enfant commun, soit le nom du père, soit le nom de la mère, soit leurs deux noms accolés suivant l'ordre qu'ils ont choisi et dans la limite d'un seul nom de famille pour chacun d'eux. Ils remettent le document mentionnant la déclaration de choix de nom à l'officier d'état civil.
 
-En l'absence de déclaration conjointe à l'officier de l'état civil mentionnant le choix du nom de l'enfant, celui-ci prend le nom du père. Le nom dévolu au premier enfant est valable pour les autres enfants communs.
+En l'absence de déclaration conjointe de choix de nom, l'enfant commun prend le nom de son père. Le nom dévolu au premier enfant commun est valable pour les autres enfants communs du couple.
 
-En outre, entre le 1er septembre 2003 et le 1er mars 2005 et, à Mayotte, entre le 1er septembre 2007 et le 1er mars 2009, les titulaires de l'exercice de l'autorité parentale peuvent demander par déclaration conjointe à l'officier de l'état civil pour les enfants mineurs âgés de moins de treize ans, nés avant le 1er mars 2005 et, à Mayotte, avant le 1er mars 2009, sous réserve que les parents n'aient pas d'autres enfants communs âgés de treize ans et plus, l'adjonction en deuxième position du nom de famille du parent qui ne leur a pas transmis le sien dans la limite d'un seul nom de famille.
+Ces dispositions s'appliquent à Mayotte à compter du 1er janvier 2007.
 
-Cette faculté ne peut être exercée qu'une seule fois.
+En outre, entre le 1er janvier 2005 et le 30 juin 2006 et, à Mayotte, entre le 1er janvier 2007 et le 30 juin 2008, pour les enfants nés antérieurement au 1er janvier 2005, les père et mère qui exercent en commun l'autorité parentale peuvent, par déclaration conjointe, demander à l'officier de l'état civil l'adjonction en deuxième position du nom de famille du parent qui n'a pas transmis le sien, au bénéfice de l'aîné de leurs enfants communs, dès lors que celui-ci a moins de treize ans au 1er septembre 2003 ou à la date de la déclaration. Ce double nom est dévolu à l'ensemble de leurs enfants communs nés ou à naître. Le consentement du mineur âgé de plus de treize ans est nécessaire.
+
+La faculté de choix ou d'adjonction de nom ne peut être exercée qu'une seule fois.
 
 Droits et devoirs respectifs des époux
 
@@ -54,7 +56,13 @@ Un époux peut également adopter l'enfant de son conjoint sous certaines condit
 
 Cette adoption peut être plénière, auquel cas le lien de filiation créé par l'adoption se substitue au lien de filiation d'origine, ou simple, les deux liens de filiation coexistant alors.
 
-En cas d'adoption plénière, l'enfant prend le nom de l'adoptant. En cas d'adoption simple, le nom de l'adoptant est ajouté au nom de l'enfant. Cependant l'adoptant peut demander à ce que son nom seul soit porté par l'enfant qui, s'il a plus de treize ans, doit donner son consentement.
+L'adoption plénière confère à l'enfant le nom de l'adoptant. En cas d'adoption par deux époux, le nom conféré à l'enfant peut être soit le nom du père, soit le nom de la mère, soit le nom accolé de chacun des deux parents dans l'ordre qu'ils choisissent et dans la limite d'un seul nom pour chacun.
+
+En cas d'adoption simple, le nom de l'adoptant est adjoint au nom de l'adopté. Lorsque l'adopté et l'adoptant, ou l'un d'eux, portent un double nom, le nom conféré à l'adopté résulte de l'adjonction du nom de l'adoptant à son propre nom, dans la limite d'un seul nom pour chacun d'eux. Le choix appartient à l'adoptant qui doit recueillir le consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom conféré résulte de l'adjonction du premier nom de l'adoptant au premier nom de l'adopté.
+
+En cas d'adoption par deux époux, le nom ajouté au nom de l'adopté est, à la demande des adoptants, soit celui du mari, soit celui de la femme, dans la limite d'un nom pour chacun d'eux et, à défaut d'accord entre eux, le premier nom du mari. Si l'adopté porte un double nom de famille, le choix du nom conservé appartient aux adoptants qui doivent recueillir le consentement de l'adopté âgé de plus de treize ans. En cas de désaccord ou à défaut de choix, le nom des adoptants retenu est ajouté au premier nom de l'adopté.
+
+Le tribunal peut toutefois, à la demande de l'adoptant, décider que l'adopté ne portera que le nom de l'adoptant. En cas d'adoption par deux époux, le nom de famille substitué à celui de l'adopté peut, au choix des adoptants, être soit celui du mari, soit celui de la femme, soit les noms accolés des époux dans l'ordre choisi par eux et dans la limite d'un seul nom pour chacun d'eux. Cette demande peut également être formée postérieurement à l'adoption. Si l'adopté est âgé de plus de treize ans, son consentement est nécessaire.
 
 Autorité parentale
 
@@ -122,9 +130,7 @@ Changement de régime matrimonial
 
 Quel que soit le régime matrimonial choisi au moment du mariage, les époux peuvent au bout de deux ans, dans l'intérêt de la famille, décider de le modifier ou d'en changer. Un acte notarié, soumis à l'homologation du tribunal, doit être établi à cet effet.
 
-Cas où l'un des conjoints est de nationalité étrangère
-
-ou a son domicile à l'étranger
+Cas où l'un des conjoints est de nationalité étrangère ou a son domicile à l'étranger
 
 Lorsque l'un des conjoints est de nationalité étrangère ou a son domicile à l'étranger, les époux peuvent choisir au moment du mariage, ou au cours de l'union, la loi applicable à leur régime matrimonial.
 

@@ -8,7 +8,7 @@ Section des sciences de la planète
 
 Collège :
 
-Je soussigné (nom patronymique) :
+Je soussigné (nom de famille) :
 
 Prénoms :  Nom marital :
 

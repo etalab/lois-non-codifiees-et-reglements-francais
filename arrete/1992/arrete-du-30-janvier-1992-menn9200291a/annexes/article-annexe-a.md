@@ -10,7 +10,7 @@ Intitulé de la section (1) :
 
 Déclaration de candidature (2)
 
-Nom patronymique :
+Nom de famille :
 
 Nom marital :
 
@@ -38,6 +38,6 @@ Fait à    , le  1992.
 
 Signature :
 
-(1) Se reporter à la liste des sections du Conseil national des unversités figurant en annexe A 1.
+(1) Se reporter à la liste des sections du Conseil national des universités figurant en annexe A 1.
 
 (2) Il est vivement recommandé de dactylographier ce document.

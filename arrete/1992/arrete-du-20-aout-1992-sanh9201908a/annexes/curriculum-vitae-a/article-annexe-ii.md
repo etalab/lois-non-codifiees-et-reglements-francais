@@ -10,9 +10,13 @@ Fonctions de chef de département (1)
 
 [A temps partiel (1)
 
-Nom :  Nom patronymique :
+Nom :
 
-Prénom :  Date de naissance :
+Nom de famille :
+
+Prénom :
+
+Date de naissance :
 
 I. - Qualification
 

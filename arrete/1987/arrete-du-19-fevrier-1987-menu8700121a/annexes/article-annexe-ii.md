@@ -8,7 +8,7 @@ Sous-section :
 
 Collège :
 
-Intitulé de la section ou de la sous-section :  nom patronymique :
+Intitulé de la section ou de la sous-section :  nom de famille :
 
 Prénoms :
 

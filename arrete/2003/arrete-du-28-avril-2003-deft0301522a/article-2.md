@@ -10,7 +10,7 @@ I. - Concernant l'index :
 
 II. - Concernant le microfilm numérisé :
 
-- à l'identité nom ([patronymique, marital ou d'usage], prénoms, sexe, date et lieu de naissance, adresse, numéro de livret de solde, numéro matricule) ;
+- à l'identité nom ([de famille, marital ou d'usage], prénoms, sexe, date et lieu de naissance, adresse, numéro de livret de solde, numéro matricule) ;
 
 - au numéro d'inscription au répertoire national d'identification des personnes physiques ;
 

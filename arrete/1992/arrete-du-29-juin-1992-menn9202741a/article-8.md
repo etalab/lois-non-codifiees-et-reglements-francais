@@ -4,7 +4,7 @@ Les candidatures individuelles établies selon le modèle joint en annexe au pr�
 
 Aucun retrait ne peut être admis après cette date.
 
-Les candidates sont désignées sous leur nom patronymique, le cas échéant complété de leur nom marital.
+Les candidates sont désignées sous leur nom de famille, le cas échéant complété de leur nom marital.
 
 La liste récapitulative des candidatures individuelles est adressée par le ministre aux chefs d'établissement qui les mettent à la disposition des électeurs par tous moyens, et notamment par voie d'affichage, en indiquant les lieux et heures fixés pour la consultation.
 

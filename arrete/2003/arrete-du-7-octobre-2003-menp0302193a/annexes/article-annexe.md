@@ -2,7 +2,7 @@
 
 Je soussigné :
 
-Nom patronymique :
+Nom de famille :
 
 Prénom :
 

@@ -2,7 +2,7 @@
 
 Les informations traitées sont les suivantes :
 
-- nom patronymique ou marital ;
+- nom de famille ou marital ;
 
 - prénoms ;
 

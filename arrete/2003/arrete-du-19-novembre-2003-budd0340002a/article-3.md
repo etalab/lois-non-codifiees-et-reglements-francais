@@ -4,7 +4,7 @@ Les informations nominatives traitées relatives aux agents en service à la DGD
 
 - civilité ;
 
-- nom patronymique ;
+- nom de famille ;
 
 - prénom ;
 

@@ -2,7 +2,7 @@
 
 Le fichier central de proposition d'inscription d'office sur les listes électorales contient pour chaque personne les informations suivantes :
 
-- nom patronymique, nom d'usage le cas échéant, prénoms ;
+- nom de famille, nom d'usage le cas échéant, prénoms ;
 
 - date et lieu de naissance ;
 

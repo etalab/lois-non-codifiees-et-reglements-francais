@@ -4,9 +4,9 @@ Les catégories d'informations enregistrées sont celles relatives :
 
 I. - Pour le contrôle et la gestion des accès :
 
-- aux personnels (nom [patronymique, marital ou d'usage], prénoms, sexe, date et lieu de naissance, photographie, grade ou fonction, service ou affectation, zones d'accès autorisées) ;
+- aux personnels (nom [de famille, marital ou d'usage], prénoms, sexe, date et lieu de naissance, photographie, grade ou fonction, service ou affectation, zones d'accès autorisées) ;
 
-- aux visiteurs (nom [patronymique, marital ou d'usage], prénoms, sexe, nationalité, date et lieu de naissance, adresse personnelle, fonction, société d'appartenance, date et horaire de début et de fin de visite) ;
+- aux visiteurs (nom [de famille, marital ou d'usage], prénoms, sexe, nationalité, date et lieu de naissance, adresse personnelle, fonction, société d'appartenance, date et horaire de début et de fin de visite) ;
 
 - au déplacement des personnes (numéro du badge ou de laissez-passer, période de validité, agent et service visité, niveau zones d'accès autorisées) ;
 
@@ -18,7 +18,7 @@ La durée de conservation des informations nominatives ainsi enregistrées est d
 
 II. - Pour le suivi des horaires et le contrôle du temps de travail des personnels :
 
-- à l'identité (nom [patronymique, marital ou d'usage], prénoms, sexe, date et lieu de naissance, adresse, numéro de téléphone professionnel) ;
+- à l'identité (nom [de famille, marital ou d'usage], prénoms, sexe, date et lieu de naissance, adresse, numéro de téléphone professionnel) ;
 
 - à la vie professionnelle (catégorie professionnelle, grade, échelon, numéro matricule, numéro du service d'affectation, position administrative, régime d'horaires, numéro de badge, congés divers, code de dérogation particulière, organisme employeur) ;
 
@@ -30,7 +30,7 @@ III. - Pour la gestion de la restauration (gestion des stocks) et du système de
 
 1. Pour le paiement des repas :
 
-- à l'identité (nom [patronymique, marital ou d'usage], prénoms, photographie, numéro de badge ou de carte magnétique) ;
+- à l'identité (nom [de famille, marital ou d'usage], prénoms, photographie, numéro de badge ou de carte magnétique) ;
 
 - à la vie professionnelle (grade ou fonction, service d'affectation, numéro de téléphone professionnel) ;
 

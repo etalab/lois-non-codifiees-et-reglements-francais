@@ -2,7 +2,7 @@
 
 Les informations saisies sont :
 
-En ce qui concerne l'identité du détenu : le nom patronymique, le prénom, les alias, la date de naissance, l'âge, le lieu de naissance, le département de naissance, le sexe et la nationalité, l'existence d'une immatriculation à la sécurité sociale ;
+En ce qui concerne l'identité du détenu : le nom de famille, le prénom, les alias, la date de naissance, l'âge, le lieu de naissance, le département de naissance, le sexe et la nationalité, l'existence d'une immatriculation à la sécurité sociale ;
 
 En ce qui concerne son domicile : l'adresse, la ville, le numéro de téléphone et le code postal ;
 

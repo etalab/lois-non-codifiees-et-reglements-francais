@@ -6,7 +6,7 @@ Commission du groupe n° :      Collège :
 
 Désignation de la liste (Sans indication particulière, la liste prend comme désignation le nom du candidat de tête) :
 
-NOM PATRONYMIQUE
+NOM DE FAMILLE
 
 NOM MARITAL
 

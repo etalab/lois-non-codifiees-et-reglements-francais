@@ -1,8 +1,8 @@
 # Article 27
 
-La demande présentée en application de l'article 26 doit préciser [*contenu*] :
+La demande présentée en application de l'article 26 doit préciser  :
 
-1° Lorsqu'elle concerne une personne physique, son nom patronymique, ses prénoms, date et lieu de naissance et, en outre, pour une femme mariée ou veuve, les nom et prénoms du mari ;
+1° Lorsqu'elle concerne une personne physique, son nom de famille, ses prénoms, date et lieu de naissance et, en outre, pour une femme mariée ou veuve, les nom et prénoms du mari ;
 
 2° Lorsqu'elle concerne une personne morale, sa dénomination ou raison sociale, son numéro national d'entreprise si elle en est pourvue, l'adresse de son siège et sa forme juridique.
 

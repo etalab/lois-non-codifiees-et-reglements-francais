@@ -8,7 +8,7 @@ Section d'astronomie
 
 Collège :
 
-Je soussigné (nom patronymique) :
+Je soussigné (nom de famille) :
 
 Prénoms :  Nom marital :
 

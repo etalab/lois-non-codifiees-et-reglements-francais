@@ -2,7 +2,7 @@
 
 Les catégories d'informations enregistrées sont celles relatives :
 
-- à l'identité (numéro matricule, nom patronymique, nom d'usage, prénom, sexe, date de naissance) ;
+- à l'identité (numéro matricule, nom de famille, nom d'usage, prénom, sexe, date de naissance) ;
 
 - à la formation (formations demandées [suivies, non suivies ou refusées], nature, coût, durée, dates, priorités, degré des formations demandées) ;
 

@@ -24,7 +24,7 @@ Pour les élèves et les stagiaires :
 
 Pour les professeurs :
 
-- à l'identité (nom patronymique, nom d'usage, prénoms, date et lieu de naissance, nationalité, sexe, adresse, numéro de téléphone [facultatif]) ;
+- à l'identité (nom de famille, nom d'usage, prénoms, date et lieu de naissance, nationalité, sexe, adresse, numéro de téléphone [facultatif]) ;
 
 - à la vie professionnelle (organisme d'appartenance, matières enseignées) ;
 

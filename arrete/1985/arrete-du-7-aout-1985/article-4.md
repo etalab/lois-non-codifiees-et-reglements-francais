@@ -6,7 +6,7 @@ Les informations collectées en application de l'article 3 sont les suivantes :
 
 Pour les personnes physiques :
 
-- nom patronymique et prénoms ;
+- nom de famille et prénoms ;
 
 - M., Mme, Mlle, Vve ;
 
@@ -16,7 +16,7 @@ Pour les personnes physiques :
 
 - nom alias ou pseudonyme usuel ;
 
-- nom patronymique du conjoint et prénoms ;
+- nom de famille du conjoint et prénoms ;
 
 - pour les entrepreneurs individuels, le numéro Siren de l'entreprise, complété par le numéro complémentaire (N.I.C.) du lieu d'imposition ;
 
