@@ -1,3 +1,0 @@
-# Article 8
-
-Les conditions de nomination et de classement dans chacun des cadres d'emplois des agents bénéficiant des dispositions prévues aux articles 4 à 6 sont celles prévues par les statuts particuliers desdits cadres d'emplois pour les lauréats des concours internes ou, lorsque l'accès au cadre d'emplois ne s'effectue pas par la voie de concours internes, celles prévues pour les lauréats des autres concours mentionnés à l'article 36 de la loi n° 84-53 du 26 janvier 1984 précitée ou pour les candidats recrutés dans les conditions prévues au d de l'article 38 de ladite loi, sous réserve des dispositions particulières concernant la durée des stages, fixées par décret en Conseil d'Etat.

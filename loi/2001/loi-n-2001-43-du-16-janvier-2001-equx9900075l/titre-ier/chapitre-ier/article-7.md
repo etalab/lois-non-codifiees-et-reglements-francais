@@ -1,0 +1,5 @@
+# Article 7
+
+Les articles L. 131-4, L. 131-6, L. 131-7, L. 131-8, L. 131-9 et L. 131-10 du code de commerce sont abrogés.
+
+Les dispositions de l'ordonnance de la marine d'août 1681, des lettres patentes du 10 juillet 1776, de la loi du 28 Ventôse an IX (19 mars 1801) relative à l'établissement de bourses de commerce, de la loi du 28 avril 1816 sur les finances, de l'ordonnance du 3 juillet 1816 réglant le mode de transmission des fonctions d'agent de change et de courtier de commerce en cas de démission ou de décès, de l'ordonnance du 14 novembre 1835 relative aux droits de courtage maritime, de la loi du 25 juin 1841 portant fixation d'un budget de l'exercice de 1842, de la loi du 28 mars 1928 sur le régime du pilotage dans les eaux maritimes, de la loi n° 51-1082 du 10 septembre 1951 supprimant le cautionnement des courtiers maritimes et de la loi n° 83-581 du 5 juillet 1983 sur la sauvegarde de la vie humaine en mer, l'habitabilité à bord des navires et la prévention de la pollution sont abrogées en tant qu'elles concernent les courtiers interprètes et conducteurs de navires.
