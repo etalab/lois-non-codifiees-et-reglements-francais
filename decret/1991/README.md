@@ -153,6 +153,7 @@
 - [Décret n°93-1300 du 7 décembre 1993 (AGRA9301855D)](decret-n93-1300-du-7-decembre-1993-agra9301855d)
 - [Décret n°91-421 du 7 mai 1991 (TEFE9103217D)](decret-n91-421-du-7-mai-1991-tefe9103217d)
 - [Décret n°91-422 du 7 mai 1991 (TEFE9103218D)](decret-n91-422-du-7-mai-1991-tefe9103218d)
+- [Décret n°91-430 du 7 mai 1991 (PRMG9170163D)](decret-n91-430-du-7-mai-1991-prmg9170163d)
 - [Décret n°91-434 du 7 mai 1991 (MCCK9100006D)](decret-n91-434-du-7-mai-1991-mcck9100006d)
 - [Décret n°91-444 du 7 mai 1991 (MAEJ9130014D)](decret-n91-444-du-7-mai-1991-maej9130014d)
 - [Décret n°91-445 du 7 mai 1991 (MAEJ9130004D)](decret-n91-445-du-7-mai-1991-maej9130004d)
