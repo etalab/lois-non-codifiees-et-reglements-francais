@@ -1,0 +1,5 @@
+# Article 81
+
+La démission d'un ministre est présentée au président de la Polynésie française, lequel en donne acte et en informe le président de l'assemblée de la Polynésie française et le haut-commissaire.
+
+Toute modification dans la composition du gouvernement et dans la répartition des fonctions au sein du gouvernement est décidée par arrêté du président de la Polynésie française. Cet arrêté est notifié au haut-commissaire et au président de l'assemblée de la Polynésie française. La nomination de nouveaux ministres et l'affectation des ministres à de nouvelles fonctions ne prennent effet qu'à compter de cette notification. Si la composition du gouvernement n'est pas conforme aux dispositions de l'article 73, le président de la Polynésie française dispose d'un délai de quinze jours à compter de la notification pour se conformer à ces dispositions et notifier son arrêté au haut-commissaire et au président de l'assemblée de la Polynésie française. A défaut, le gouvernement est considéré comme démissionnaire et il est fait application des dispositions de l'article 74.

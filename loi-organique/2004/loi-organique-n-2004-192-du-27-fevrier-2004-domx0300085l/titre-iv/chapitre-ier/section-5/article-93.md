@@ -1,0 +1,5 @@
+# Article 93
+
+Le secrétaire général du gouvernement, les secrétaires généraux adjoints, chefs de services, directeurs d'offices ou d'établissements publics de la Polynésie française, les commissaires du gouvernement de la Polynésie française auprès desdits offices et établissements publics et auprès des groupements d'intérêt public sont nommés en conseil des ministres. Il est mis fin à leur fonction dans les mêmes conditions. Ces emplois sont laissés à la décision du gouvernement de la Polynésie française.
+
+Sont également nommés en conseil des ministres, dans le cadre des statuts de ces établissements, le ou les représentants de la Polynésie française au conseil de surveillance de l'Institut d'émission d'outre-mer, le directeur et l'agent comptable de la Caisse de prévoyance sociale ainsi que les receveurs particuliers et les comptables des services et des établissements publics de la Polynésie française, à l'exception du comptable public, agent de l'Etat, chargé de la paierie de la Polynésie française.

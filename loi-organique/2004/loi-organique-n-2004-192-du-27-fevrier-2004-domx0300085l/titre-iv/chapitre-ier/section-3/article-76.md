@@ -1,0 +1,3 @@
+# Article 76
+
+Il est interdit au président de la Polynésie française ou à tout autre membre du gouvernement en exercice d'accepter une fonction de membre du conseil d'administration ou de surveillance ou toute fonction de conseil dans l'un des établissements, sociétés ou entreprises mentionnés à l'article LO 146 du code électoral. Cette interdiction ne s'applique pas au président de la Polynésie française ou à tout autre membre du gouvernement qui siège en qualité de représentant de la Polynésie française ou de représentant d'un établissement public territorial lorsque ces fonctions ne sont pas rémunérées.

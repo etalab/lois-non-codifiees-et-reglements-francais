@@ -38,6 +38,7 @@
 - [Arrêté du 5 janvier 2004 (MENE0302862A)](arrete-du-5-janvier-2004-mene0302862a)
 - [Arrêté du 5 mai 2004 (PRMX0407327A)](arrete-du-5-mai-2004-prmx0407327a)
 - [Arrêté du 6 décembre 2003 (SOCT0311946A)](arrete-du-6-decembre-2003-soct0311946a)
+- [Arrêté du 6 février 2004 (SANS0420658A)](arrete-du-6-fevrier-2004-sans0420658a)
 - [Arrêté du 6 janvier 1993 (EQUT9201025A)](arrete-du-6-janvier-1993-equt9201025a)
 - [Arrêté du 6 janvier 2004 (DEVG0320378A)](arrete-du-6-janvier-2004-devg0320378a)
 - [Arrêté du 6 janvier 2004 (JUSA0400012A)](arrete-du-6-janvier-2004-jusa0400012a)

@@ -1,0 +1,5 @@
+# Article 6
+
+Les fonctionnaires ou anciens fonctionnaires civils ou militaires de l'Etat ne peuvent occuper un emploi au service de la Polynésie française ou de ses établissements publics administratifs, lorsqu'ils ont exercé en Polynésie française, au cours des deux années qui précèdent, les fonctions de haut-commissaire de la République, de secrétaire général ou de secrétaire général adjoint des services du haut-commissariat, de directeur de cabinet du haut-commissaire de la République, de chef de subdivision et d'adjoint au chef de subdivision administrative, de directeur dans les services du haut-commissariat de la République, de vice-recteur et de magistrat de l'ordre administratif.
+
+Il en va de même pour les officiers des armées de terre, de mer et de l'air, les officiers et sous-officiers de la gendarmerie nationale et les fonctionnaires des corps actifs de la police nationale et les fonctionnaires de catégorie A des administrations des douanes et droits indirects et du Trésor public affectés en Polynésie française.

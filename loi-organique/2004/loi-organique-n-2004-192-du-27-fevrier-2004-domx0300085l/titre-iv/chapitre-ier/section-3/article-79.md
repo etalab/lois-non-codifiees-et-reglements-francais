@@ -1,0 +1,5 @@
+# Article 79
+
+I. - Le président de la Polynésie française ou le membre du gouvernement qui a la qualité d'agent public à la date de son élection ou de sa nomination est placé en dehors du cadre de l'administration ou du corps auquel il appartient dans les conditions prévues par le statut qui le régit. Sous réserve des dispositions de l'article 78, il est, à l'expiration de son mandat, réintégré à sa demande, selon le cas, dans le cadre ou le corps auquel il appartenait avant son entrée au gouvernement de la Polynésie française, éventuellement en surnombre, ou dans l'entreprise du secteur public qui l'employait sous un régime de droit public ou de droit privé.
+
+II. - Le président de la Polynésie française ou le membre du gouvernement de la Polynésie française qui a la qualité de salarié à la date de sa nomination peut bénéficier d'une suspension de son contrat de travail. Cette suspension est de plein droit lorsque le salarié justifie d'une ancienneté minimale d'une année chez l'employeur, à la date de sa nomination.
