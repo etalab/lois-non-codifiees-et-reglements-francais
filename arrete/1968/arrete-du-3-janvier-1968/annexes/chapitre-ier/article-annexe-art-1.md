@@ -1,0 +1,9 @@
+# Article Annexe art. 1
+
+La caisse d'allocations familiales créée par l'arrêté du ... prend la dénomination de ...
+
+son siège est situé à ...
+
+Sa circonscription territoriale est fixée comme suit :
+
+de ....
