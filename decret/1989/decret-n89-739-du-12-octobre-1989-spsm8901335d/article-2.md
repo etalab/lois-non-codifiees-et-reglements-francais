@@ -8,4 +8,4 @@ Les concours d'internat en pharmacie [*modalités*] comportent :
 
 L'épreuve nationale d'admissibilité peut être subie dans des centres d'épreuves différents.
 
-Le ministre chargé de la santé [*compétence, attributions*] fixe le calendrier national des épreuves des concours. Il désigne le préfet de région chargé d'organiser l'épreuve nationale d'admissibilité ainsi que les préfets de région chargés d'organiser les épreuves d'admission.
+Le ministre chargé de la santé fixe le calendrier national et organise les épreuves de ces concours.
