@@ -1,0 +1,5 @@
+# Article 12
+
+Sans préjudice des dispositions du décret du 12 février 1973 susvisé, les appareils, objets, équipements et matériels de toute nature dont la surface entre au contact d'aliments au cours de la préparation, du traitement, du conditionnement, de la conservation, de la détention en vue de la vente, de la mise en vente ou de la distribution à titre gratuit des marchandises ne doivent pas, du fait de leur conception, de leur aménagement, de leur état d'entretien, constituer ou entraîner un risque de contamination, d'altération, de souillure ou de présence de corps étrangers.
+
+Lorsque ces appareils, objets, équipements ou matériels sont utilisés, de manière successive ou simultanée, pour le traitement, le stockage ou le conditionnement de produits non destinés à l'alimentation humaine et des marchandises, ils ne doivent pas entraîner de contamination ou d'altération de ces dernières ; en outre, ils ne doivent pas servir, de manière successive ou simultanée, au stockage ou au conditionnement des marchandises et de produits pouvant présenter un risque pour la santé.
