@@ -1,3 +1,5 @@
 # Article 7
 
-A partir d'une date qui sera fixée par arrêté du ministre des finances et sauf autorisation spéciale du ministre des finances, les emprunts représentés par des titres négociables devront être émis en titres de 50 F ou multiples de 50 F comportant une seule échéance de coupons par an et ne pourront donner lieu annuellement à plus d'un tirage en vue de l'amortissement. La valeur nominale de 50 F ou multiple de 50 F prévue à l'alinéa précédent est portée à 100 F ou multiple de 100 F pour les titres émis postérieurement au 30 juin 1954.
+Sauf autorisation spéciale du ministre de l'économie, des finances et du budget, les emprunts représentés par des titres négociables doivent être émis en titres de 100 F ou multiples de 100 F et ne peuvent donner lieu à plus d'un tirage d'amortissement par an.
+
+Toutefois, La valeur nominale des obligations convertibles ou échangeables, lorsqu'elle est supérieure à 100 F, pourra être fixée sans autorisation spéciale à un montant autre qu'un multiple de 100 F.
