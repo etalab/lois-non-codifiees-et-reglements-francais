@@ -4,6 +4,6 @@ Le chef de chaque établissement pénitentiaire exerce le pouvoir de notation te
 
 Toutefois :
 
-a) Les fonctionnaires affectés dans un comité de probation et d'assistance aux libérés, quel qu'en soit le grade ou le corps, sont notés soit par le directeur du comité si celui-ci en est pourvu, soit par le juge de l'application des peines ;
+a) Les fonctionnaires affectés dans un service pénitentiaire d'insertion et de probation, quel qu'en soit le grade ou le corps, sont notés soit par le directeur du comité si celui-ci en est pourvu, soit par le juge de l'application des peines ;
 
 b) Les fonctionnaires en service dans les établissements de la Polynésie française sont notés par le procureur près la cour d'appel de Papeete.
