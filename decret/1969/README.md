@@ -52,6 +52,7 @@
 - [Décret n°69-380 du 18 avril 1969](decret-n69-380-du-18-avril-1969)
 - [Décret n°69-697 du 18 juin 1969](decret-n69-697-du-18-juin-1969)
 - [Décret n°69-897 du 18 septembre 1969](decret-n69-897-du-18-septembre-1969)
+- [Décret n°69-975 du 18 octobre 1969](decret-n69-975-du-18-octobre-1969)
 - [Décret n°69-671 du 19 juin 1969](decret-n69-671-du-19-juin-1969)
 - [Décret n°69-679 du 19 juin 1969](decret-n69-679-du-19-juin-1969)
 - [Décret n°69-689 du 19 juin 1969](decret-n69-689-du-19-juin-1969)
