@@ -8,6 +8,8 @@ En outre, les informations nominatives relatives à la taxe professionnelle peuv
 
 - aux collectivités locales et à leurs groupements dotés d'une fiscalité propre ;
 
-- à l'I.N.S.E.E. et aux services statistiques ministériels mentionnés à l'article 7 bis de la loi du 7 juin 1951 modifiée susvisée.
+- à l'I.N.S.E.E. et aux services statistiques ministériels mentionnés à l'article 7 bis de la loi du 7 juin 1951 modifiée susvisée ;
+
+- aux chambres de commerce et d'industrie pour l'établissement du rapport préalable aux élections consulaires.
 
 En outre, les communes et la direction générale des impôts peuvent se communiquer mutuellement les informations nécessaires au recensement des bases d'imposition de la taxe professionnelle.

@@ -533,6 +533,7 @@
 - [Décret n°96-430 du 20 mai 1996 (TAST9610596D)](decret-n96-430-du-20-mai-1996-tast9610596d)
 - [Décret n°96-436 du 20 mai 1996 (MAEJ9630011D)](decret-n96-436-du-20-mai-1996-maej9630011d)
 - [Décret n°98-394 du 20 mai 1998 (MENF9800751D)](decret-n98-394-du-20-mai-1998-menf9800751d)
+- [Décret n°96-1000 du 21 novembre 1996 (ECOT9651554D)](decret-n96-1000-du-21-novembre-1996-ecot9651554d)
 - [Décret n°96-133 du 21 février 1996 (DOMP9600007D)](decret-n96-133-du-21-fevrier-1996-domp9600007d)
 - [Décret n°96-136 du 21 février 1996 (INTA9600039D)](decret-n96-136-du-21-fevrier-1996-inta9600039d)
 - [Décret n°96-139 du 21 février 1996 (EQUT9600140D)](decret-n96-139-du-21-fevrier-1996-equt9600140d)
