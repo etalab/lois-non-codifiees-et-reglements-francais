@@ -1,7 +1,6 @@
 # 1971
 
 - [Arrêté du 1 juillet 1971](arrete-du-1-juillet-1971)
-- [Arrêté du 2 décembre 1971](arrete-du-2-decembre-1971)
 - [Arrêté du 2 juillet 1971](arrete-du-2-juillet-1971)
 - [Arrêté du 2 novembre 1971](arrete-du-2-novembre-1971)
 - [Arrêté du 5 avril 1971](arrete-du-5-avril-1971)
