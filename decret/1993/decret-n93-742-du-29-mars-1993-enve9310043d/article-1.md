@@ -1,6 +1,6 @@
 # Article 1
 
-I. - Les installations, ouvrages, travaux et activités nécessaires à l'exploitation d'une installation classée pour la protection de l'environnement doivent respecter les règles de fond prévues par la loi du 3 janvier 1992 susvisée. Toutefois, ils sont soumis aux seules règles de procédure instituées par la loi du 19 juillet 1976 et le décret du 21 septembre 1977 susvisés ainsi que, le cas échéant, par le décret n° 80-813 du 15 octobre 1980.
+I. - Les installations, ouvrages, travaux et activités nécessaires à l'exploitation d'une installation classée pour la protection de l'environnement doivent respecter les règles de fond prévues par la loi du 3 janvier 1992 susvisée. Toutefois, ils sont soumis aux seules règles de procédure instituées par la loi du 19 juillet 1976 et le décret du 21 septembre 1977 susvisés.
 
 II. - Jusqu'au 4 janvier 1995 sont seules applicables, au lieu et place des procédures du présent décret, les règles de procédure instituées, dans les domaines qu'ils concernent, par :
 
@@ -28,7 +28,7 @@ k) Le décret du 3 janvier 1989 susvisé.
 
 Lorsque ces décrets prévoient des procédures d'autorisation ou de déclaration, les actes délivrés en application de ces textes valent autorisation ou déclaration au titre de la loi du 3 janvier 1992 susvisée.
 
-III. - Le présent décret est applicable aux opérations, trava ux ou activités concernant des installations ou des enceintes relevant du ministre de la défense ou soumises à des règles de protection du secret de la défense nationale, sous réserve des dispositions du décret n° 94-1033 du 30 novembre 1994.
+III. - Tant que le décret en Conseil d'Etat prévu à l'article 43 de la loi du 3 janvier 1992 susvisée ne sera pas intervenu, le présent décret ne s'appliquera pas aux opérations, travaux ou activités concernant des installations ou des enceintes relevant du ministre de la défense ou soumises à des règles de protection du secret de la défense nationale.
 
 IV. - Sont seules applicables, au lieu et place des dispositions du présent décret, les règles instituées, dans les domaines qu'ils concernent, par :
 
