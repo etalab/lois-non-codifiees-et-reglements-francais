@@ -1033,7 +1033,6 @@
 - [Arrêté du 27 décembre 1991 (EQUS9101857A)](arrete-du-27-decembre-1991-equs9101857a)
 - [Arrêté du 27 décembre 1991 (SPSH9102870A)](arrete-du-27-decembre-1991-spsh9102870a)
 - [Arrêté du 27 février 1991 (INTB9100128A)](arrete-du-27-fevrier-1991-intb9100128a)
-- [Arrêté du 27 février 1992 (AGRG9202400A)](arrete-du-27-fevrier-1992-agrg9202400a)
 - [Arrêté du 27 février 1992 (ECOT9210143A)](arrete-du-27-fevrier-1992-ecot9210143a)
 - [Arrêté du 27 février 1992 (ECOT9213547A)](arrete-du-27-fevrier-1992-ecot9213547a)
 - [Arrêté du 27 février 1992 (SPSS9200600A)](arrete-du-27-fevrier-1992-spss9200600a)
