@@ -97,6 +97,7 @@
 - [Arrêté du 7 février 1990 (PTTT9000127A)](arrete-du-7-fevrier-1990-pttt9000127a)
 - [Arrêté du 7 février 1990 (SPSS9000319A)](arrete-du-7-fevrier-1990-spss9000319a)
 - [Arrêté du 7 février 1990 (SPSS9000320A)](arrete-du-7-fevrier-1990-spss9000320a)
+- [Arrêté du 7 juin 1990 (MENH9001331A)](arrete-du-7-juin-1990-menh9001331a)
 - [Arrêté du 7 juin 1990 (PRMZ9005019A)](arrete-du-7-juin-1990-prmz9005019a)
 - [Arrêté du 7 mai 1990 (MCCK9000310A)](arrete-du-7-mai-1990-mcck9000310a)
 - [Arrêté du 8 août 1990 (SPSH9001687A)](arrete-du-8-aout-1990-spsh9001687a)
