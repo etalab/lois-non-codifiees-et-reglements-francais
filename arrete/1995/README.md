@@ -1200,7 +1200,6 @@
 - [Arrêté du 27 février 1995 (SPSX9500681A)](arrete-du-27-fevrier-1995-spsx9500681a)
 - [Arrêté du 27 février 1995 (TEFE9500197A)](arrete-du-27-fevrier-1995-tefe9500197a)
 - [Arrêté du 27 janvier 1995 (ENVE9540031A)](arrete-du-27-janvier-1995-enve9540031a)
-- [Arrêté du 27 janvier 1995 (INDB9500164A)](arrete-du-27-janvier-1995-indb9500164a)
 - [Arrêté du 27 janvier 1995 (INTA9500059A)](arrete-du-27-janvier-1995-inta9500059a)
 - [Arrêté du 27 janvier 1995 (INTC9500061A)](arrete-du-27-janvier-1995-intc9500061a)
 - [Arrêté du 27 janvier 1995 (INTC9500062A)](arrete-du-27-janvier-1995-intc9500062a)

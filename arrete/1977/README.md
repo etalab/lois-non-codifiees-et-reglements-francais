@@ -44,7 +44,6 @@
 - [Arrêté du 16 décembre 1976](arrete-du-16-decembre-1976)
 - [Arrêté du 16 février 1977](arrete-du-16-fevrier-1977)
 - [Arrêté du 16 juin 1975](arrete-du-16-juin-1975)
-- [Arrêté du 17 janvier 1977](arrete-du-17-janvier-1977)
 - [Arrêté du 17 octobre 1977](arrete-du-17-octobre-1977)
 - [Arrêté du 18 janvier 1977](arrete-du-18-janvier-1977)
 - [Arrêté du 19 janvier 1977](arrete-du-19-janvier-1977)
