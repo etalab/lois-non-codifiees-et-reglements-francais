@@ -6,6 +6,8 @@ Sera puni des mêmes peines celui qui, quelle que soit sa nationalité, aura com
 
 Sera puni des mêmes peines celui qui, alors qu'il se trouvait en France, aura facilité ou tenté de faciliter l'entrée, la circulation ou le séjour irréguliers d'un étranger sur le territoire d'un autre Etat partie à la convention signée à Schengen le 19 juin 1990. Les poursuites ne pourront être exercées à son encontre que sur une dénonciation officielle ou sur une attestation des autorités compétentes de l'Etat partie concerné.
 
+Les infractions prévues aux trois premiers alinéas sont punies de dix ans d'emprisonnement et de 5 000 000 F d'amende lorsqu'elles sont commises en bande organisée.
+
 Aucune poursuite ne pourra être exercée contre une personne justifiant qu'elle a été jugée définitivement à l'étranger pour les mêmes faits et, en cas de condamnation, que la peine a été subie ou prescrite.
 
 II. - En cas de condamnation pour l'une des infractions visées au I, le tribunal pourra en outre prononcer l'interdiction de séjour, ainsi que la suspension du permis de conduire pendant une durée de trois ans au plus. Cette durée pourra être doublée en cas de récidive.
@@ -28,6 +30,6 @@ L'interdiction du territoire français entraîne de plein droit la reconduite du
 
 III. - Sans préjudice de l'article 19, ne peut donner lieu à des poursuites pénales sur le fondement du présent article l'aide au séjour irrégulier d'un étranger lorsqu'elle est le fait :
 
-1° D'un ascendant ou d'un descendant de l'étranger ;
+1° Des ascendants ou descendants de l'étranger, de leur conjoint, des frères et soeurs de l'étranger ou de leur conjoint ;
 
-2° Du conjoint de l'étranger, sauf lorsque les époux sont séparés de corps ou autorisés à résider séparément.
+2° Du conjoint de l'étranger, ou de la personne qui vit notoirement en situation maritale avec lui.

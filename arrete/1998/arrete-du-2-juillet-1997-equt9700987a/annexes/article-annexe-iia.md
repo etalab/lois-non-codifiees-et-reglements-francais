@@ -10,16 +10,42 @@ I.2. Sur demande du directeur départemental de l'équipement, des vérification
 
 II. - Visite technique
 
-Les véhicules constituant les petits trains routiers doivent subir, avant toute mise en circulation puis tous les ans, une visite technique dans les conditions prévues par l'article R. 118, premier alinéa, du code de la route et par un expert désigné par le préfet.
+Les véhicules constituant les petits trains routiers doivent subir, avant toute mise en circulation, puis tous les ans, une visite technique dans les conditions définies ci-après et par un expert désigné par le préfet.
 
-Les conditions de cette visite technique sont celles énoncées par la circulaire du 3 janvier 1980 modifiée, à l'exception du point 7.
+0 Contrôles administratifs
 
-Pour les petits trains routiers de catégorie I, les efficacités de freinage doivent être vérifiées à vide, la distance d'arrêt de l'ensemble lancé à 40 km/h ou à la vitesse maximale si celle-ci est inférieure à 40 km/h ne doit en aucun cas dépasser 15 mètres.
+(Tableau non reproduit).
 
-Pour les petits trains routiers de catégorie II, III et IV, les efficacités de freinage doivent être vérifiées à vide et répondre aux mêmes prescriptions que :
+1 Freinage
 
-- celles applicables aux véhicules à moteur transportant des marchandises pour les véhicules tracteurs ;
+(Tableau non reproduit)
 
-- celles applicables pour les remorques O4 pour les véhicules remorqués.
+2 Direction
 
-Dans le cas où les essais sont effectués sur piste, l'efficacité minimale à prendre en compte est celle applicable aux ensembles de véhicules.
+L'examen de la direction se fait le véhicule à l'arrêt.    (Tableau non reproduit).
+
+3 Chassis et carrosserie.
+
+L'examen du chassis et de la carrosserie se fait à l'arrêt.
+
+(Tableau non reproduit)
+
+4 Eclairage et signalisation.
+
+(Tableau non reproduit).
+
+5 Nuisances.
+
+(Tableau non reproduit).
+
+6 Plaques et inscriptions.
+
+(Tableau non reproduit).
+
+7 Contrôles complémentaires.
+
+Le contrôle de la partie destinée au transport de personnes sera limité à la vérification des sièges (nombre, état et fixation), des portes, issues de secours et chaînes de sécurité, du plancher et du marchepieds.
+
+8 Décélération - Taux de freinage.
+
+Lors des essais de freinage, réalisés à vide sur piste ou banc de freinage.

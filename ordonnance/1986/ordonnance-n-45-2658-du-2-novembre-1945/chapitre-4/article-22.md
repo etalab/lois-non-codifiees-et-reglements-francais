@@ -22,10 +22,6 @@ II. - Les dispositions du 1° du I sont applicables à l'étranger qui n'est pas
 
 a) S'il ne remplit pas les conditions d'entrée prévues à l'article 5 de la convention signée à Schengen le 19 juin 1990 ;
 
-b) Ou si, en provenance directe du territoire d'un Etat partie à cette convention, il ne peut justifier être entré sur le territoire métropolitain en se conformant aux dispositions des articles 19, paragraphe 1 ou 2, 20, paragraphe 1, 21, paragraphe 1 ou 2, de la convention signée à Schengen le 19 juin 1990 ou avoir souscrit au moment de l'entrée sur le territoire la déclaration obligatoire prévue par l'article 22 de ladite convention, alors qu'il était astreint à cette formalité.
+b) Ou si, en provenance directe du territoire d'un Etat partie à cette convention, il ne peut justifier être entré sur le territoire métropolitain en se conformant aux dispositions des articles 19, paragraphe 1 ou 2, 20, paragraphe 1, 21, paragraphe 1 ou 2, de la convention signée à Schengen le 19 juin 1990.
 
 III. - Les dispositions du 2° du I sont applicables à l'étranger qui n'est pas ressortissant d'un Etat membre de la Communauté européenne si, en provenance directe du territoire d'un des Etats parties à la convention signée à Schengen le 19 juin 1990, il s'est maintenu sur le territoire métropolitain sans se conformer aux dispositions des articles 19, paragraphe 1 ou 2, 20, paragraphe 1, 21, paragraphe 1 ou 2, de ladite convention.
-
-IV. - Lorsque le représentant de l'Etat dans le département et, à Paris, le préfet de police ont pris un arrêté de reconduite à la frontière, ils peuvent, en raison de la gravité du comportement ayant motivé la reconduite à la frontière et en tenant compte de la situation personnelle de l'intéressé, prendre une décision d'interdiction du territoire d'une durée maximale d'un an à compter de l'exécution de la reconduite à la frontière.
-
-La décision prononçant l'interdiction du territoire constitue une décision distincte de celle de reconduite à la frontière. Elle est motivée et ne peut intervenir qu'après que l'intéressé a été mis à même de présenter ses observations. Elle emporte de plein droit reconduite à la frontière de l'étranger concerné.
