@@ -4,7 +4,6 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Titre III : Stud-book du cheval de selle français.](titre-iii)
 - [Article 4](article-4.md)
 - [Titre IV : Dispositions finales.](titre-iv)
 - [Article 5](article-5.md)
