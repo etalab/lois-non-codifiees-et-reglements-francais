@@ -1,15 +1,17 @@
 # Article 1
 
-Le classement indiciaire applicable au corps des éducateurs de jeunes enfants de la fonction publique hospitalière est fixé comme suit :
+Le classement indiciaire applicable aux éducateurs de jeunes enfants de la fonction publique hospitalière est fixé comme suit (indices bruts) :
 
-Indices bruts :
+- classe normale (grade provisoire) : 298-474 ;
 
-Classe normale :
+- classe normale, à compter du 1er août 1996 : 298-544 ;
 
-A compter du 1er août 1991 : 289 - 474 ;
+- classe supérieure (grade provisoire) : 418-533 ;
 
-A compter du 1er août 1992 : 298 - 474.
+- classe supérieure, à compter du 1er août 1996 : 384-579 ;
 
-Classe supérieure : 418 - 533.
+- classe exceptionnelle (grade provisoire) : 384-579 ;
 
-Classe exceptionnelle : 384 - 579.
+- classe exceptionnelle, à compter du 1er août 1994 :
+
+425-612.
