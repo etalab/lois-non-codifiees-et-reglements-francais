@@ -1,6 +1,6 @@
 # Article 8
 
-Le comité de gestion de chaque section d'une caisse primaire d'assurance maladie comprend au moins six membres désignés par le conseil d'administration de la caisse et comporte un nombre égal d'employeurs et de salariés choisis proportionnellement au nombre de sièges attribués à chaque organisation lors de la constitution dudit conseil [*composition*].
+Le comité de gestion de chaque section d'une caisse primaire d'assurance maladie comprend au moins cinq membres désignés par le conseil d'administration de la caisse parmi les différentes catégories d'administrateurs [*nombre, composition*]. Au sein de ce comité, l'ensemble de la représentation des assurés et des employeurs comprend, pour trois cinquièmes, des représentants des assurés et, pour deux cinquièmes, des représentants des employeurs [*répartition, pourcentage*].
 
 Les représentants des salariés au comité de gestion de chaque section doivent être des assurés sociaux relevant de cette section [*condition*].
 
