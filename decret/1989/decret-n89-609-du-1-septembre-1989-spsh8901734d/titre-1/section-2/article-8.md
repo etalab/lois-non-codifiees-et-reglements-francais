@@ -1,5 +1,3 @@
 # Article 8
 
-Le corps des masseurs-kinésithérapeutes comprend le grade de masseur-kinésithérapeute de classe normale comptant huit échelons, le grade de masseur-kinésithérapeute de classe supérieure comptant cinq échelons et le grade de masseur-kinésithérapeute surveillant des services médicaux comptant sept échelons.
-
-Le grade de classe supérieure est créé à compter du 1er août 1994.
+Le corps des masseurs-kinésithérapeutes comprend, à compter du 1er janvier 2002, le grade de masseur-kinésithérapeute de classe normale comptant huit échelons et le grade de classe supérieure comptant six échelons.

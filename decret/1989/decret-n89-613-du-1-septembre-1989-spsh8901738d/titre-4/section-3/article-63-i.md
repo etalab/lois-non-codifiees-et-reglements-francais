@@ -1,71 +1,107 @@
 # Article 63-I
 
-Pour l'application de l'article 16 ter du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites suivant les correspondances fixées pour le personnel en activité par les articles 40 à 43, 45 à 53 et 56 à 62, par les deuxième et troisième alinéas du présent article et par les articles 63-II à 63-V.
+I.-Pour l'application de l'article 16 ter du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites suivant les correspondances fixées pour les personnels en activité par les articles 40,41,42,43,44,45,46,52,53,54,55,56,57,60,61,62,63,63-I, 63-II, 63-III, 63-IV et 63-V.
 
-Pour les techniciens de laboratoire surveillants et les manipulateurs d'électroradiologie médicale surveillants, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites à compter du 1er août 1992 suivant le tableau de correspondance ci-après :
+A compter du 1er janvier 2002, ces assimilations sont faites suivant le tableau de correspondance ci-après :
 
-Situation antérieure : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SITUATION ANTERIEURE </p>
+</td>
+<td>
+<p align="center">SITUATION NOUVELLE </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Préparateurs en pharmacie, technicien de laboratoire et manipulateur d'électroradiologie médicale de classe supérieure </p>
+</td>
+<td>
+<p align="center">Préparateurs en pharmacie, technicien de laboratoire et manipulateur d'électroradiologie médicale de classe supérieure </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Echelons </p>
+</td>
+<td>
+<p align="center">Echelons </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon : </p>
+<br/>
+<p>e) 7 ans d'ancienneté et plus </p>
+<br/>
+<p>f) Moins de 7 ans </p>
+</td>
+<td>
+<p align="center">6e </p>
+<br/>
+<p align="center">5e </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon </p>
+</td>
+<td>
+<p align="center">4e </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon </p>
+</td>
+<td>
+<p align="center">3e </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon </p>
+</td>
+<td>
+<p align="center">2e </p>
+</td>
+<td>
+<br/>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon </p>
+</td>
+<td rowspan="2">
+<p align="center">1er </p>
+</td>
+<td height="19"/>
+</tr>
+<tr>
+<td height="19"/>
+</tr>
+</tbody>
+</table>
 
-7e  échelon;
-
-a) Plus de 3 ans d'ancienneté dans l'échelon
-
-Situation nouvelle : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-7e  échelon;
-
-b) Moins de 3 ans d'ancienneté dans l'échelon
-
-Situation nouvelle : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-6e  échelon;
-
-Situation antérieure : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-6e  échelon;
-
-Situation nouvelle : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-5e  échelon;
-
-Situation antérieure : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-5e  échelon;
-
-Situation nouvelle : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-4e  échelon;
-
-Situation antérieure : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-4e  échelon;
-
-Situation nouvelle : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-3e  échelon;
-
-Situation antérieure : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-3e  échelon;
-
-Situation nouvelle : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-2e  échelon;
-
-Situation antérieure : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-2e  échelon;
-
-Situation nouvelle : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-2e  échelon;
-
-Situation antérieure : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-1er échelon;
-
-Situation nouvelle : Technicien de laboratoire surveillant ou manipulateur d'électroradiologie médicale surveillant :
-
-1er échelon;
-
-Les pensions des fonctionnaires retraités avant l'intervention des dispositions qui précèdent ainsi que celles de leurs ayants cause sont révisées à compter de la date de leur application aux personnels en activité.
+Les pensions des fonctionnaires retraités avant l'intervention des dispositions qui précèdent ou celles de leurs ayants cause sont révisées en application des dispositions ci-dessus à la fin des opérations de reclassement des actifs, soit à compter du 1er janvier 2002.

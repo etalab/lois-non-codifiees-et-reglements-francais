@@ -2,6 +2,6 @@
 
 Peuvent être détachés :
 
-- dans l'un des corps mentionnés au deuxième alinéa de l'article 1er ci-dessus, les fonctionnaires d'un grade équivalent justifiant de l'un des titres requis pour l'accès à ce corps ;
+- dans les corps des préparateurs en pharmacie hospitalière, des techniciens de laboratoire et des manipulateurs d'électroradiologie médicale, les fonctionnaires d'un grade équivalent justifiant de l'un des titres requis pour l'accès à ces corps ;
 
-- dans l'un des corps mentionnés au troisième alinéa de l'article 1er ci-dessus, les fonctionnaires d'un grade équivalent.
+- dans les corps des aides de pharmacie et des aides de laboratoire, les fonctionnaires d'un grade équivalent.

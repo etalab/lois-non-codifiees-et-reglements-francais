@@ -1,5 +1,3 @@
 # Article 8
 
-Le corps des infirmiers de salle d'opération comprend le grade d'infirmier de salle d'opération de classe normale comptant huit échelons, le grade d'infirmier de salle d'opération de classe supérieure comptant cinq échelons et le grade d'infirmier de salle d'opération surveillant des services médicaux comptant sept échelons.
-
-Le grade d'infirmier de classe supérieure est créé à compter du 1er août 1994.
+Le corps des infirmiers de bloc opératoire comprend, à compter du 1er janvier 2002, le grade d'infirmier de bloc opératoire de classe normale comptant huit échelons et le grade d'infirmier de bloc opératoire de classe supérieure comptant sept échelons.

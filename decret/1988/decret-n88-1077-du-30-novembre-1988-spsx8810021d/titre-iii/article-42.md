@@ -1,119 +1,226 @@
 # Article 42
 
-Les moniteurs des écoles et centres préparant à la profession d'infirmier sont reclassés dans le corps correspondant à leur qualification au grade de surveillant des services médicaux selon le tableau de correspondance qui suit :
+I. - A compter du 1er janvier 2002, les infirmiers anesthésistes de classe normale sont reclassés dans le grade d'infirmier anesthésiste de classe normale, selon le tableau de correspondance qui suit :
 
-SITUATION ACTUELLE
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SITUATION ANTERIEURE </p>
+<br/>
+<p align="center">Infirmier anesthésiste de classe normale</p>
+</td>
+<td colspan="2">
+<p align="center">SITUATION NOUVELLE </p>
+<br/>
+<p align="center">Infirmier anesthésiste de classe normale</p>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p align="center">Echelons</p>
+</td>
+<td>
+<p align="center">Ancienneté conservée</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>8e échelon</p>
+</td>
+<td>
+<p align="center">8e</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7e échelon</p>
+</td>
+<td>
+<p align="center">7e</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e échelon</p>
+</td>
+<td>
+<p align="center">6e</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="center">5e</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="center">4e</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="center">3e</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="center">2e</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="center">1er </p>
+</td>
+<td rowspan="2">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Moniteur : 4e échelon fonctionnel
+II. - A compter du 1er janvier 2002, les infirmiers anesthésistes de classe supérieure sont reclassés dans le grade d'infirmier anesthésiste de classe supérieure, selon le tableau de correspondance qui suit :
 
-SITUATION NOUVELLE
-
-Surveillant des services médicaux (ancienneté conservée) 7e échelon :
-
-ancienneté acquise.
-
-SITUATION ACTUELLE
-
-Moniteur : 3e échelon fonctionnel
-
-SITUATION NOUVELLE
-
-Surveillant des services médicaux (ancienneté conservée) 6e échelon :
-
-ancienneté acquise dans la limite de 2 ans 6 mois.
-
-SITUATION ACTUELLE
-
-Moniteur : 2e échelon fonctionnel
-
-SITUATION NOUVELLE
-
-Surveillant des services médicaux (ancienneté conservée) 5e échelon :
-
-1/2 de l'ancienneté acquise.
-
-SITUATION ACTUELLE
-
-Moniteur : 1er échelon fonctionnel
-
-SITUATION NOUVELLE
-
-Surveillant des services médicaux (ancienneté conservée) 4e échelon :
-
-1/2 de l'ancienneté acquise.
-
-SITUATION ACTUELLE
-
-Moniteur : 7e échelon
-
-SITUATION NOUVELLE
-
-a) avant 3 ans :
-
-Surveillant des services médicaux : 6e échelon
-
-ancienneté acquise
-
-b) après 3 ans :
-
-Surveillant des services médicaux : 7e échelon
-
-ancienneté acquise dans la limite de 6 mois
-
-SITUATION ACTUELLE
-
-Moniteur : 6e échelon
-
-SITUATION NOUVELLE
-
-Surveillant des services médicaux (ancienneté conservée) 5e échelon :
-
-1/2 de l'ancienneté acquise + 6 mois.
-
-SITUATION ACTUELLE
-
-Moniteur : 5e échelon
-
-SITUATION NOUVELLE
-
-Surveillant des services médicaux (ancienneté conservée) 4e échelon :
-
-1/2 de l'ancienneté acquise.
-
-SITUATION ACTUELLE
-
-Moniteur : 4e échelon
-
-SITUATION NOUVELLE
-
-Surveillant des services médicaux (ancienneté conservée) 3e échelon :
-
-1/2 de l'ancienneté acquise.
-
-SITUATION ACTUELLE
-
-Moniteur : 3e échelon
-
-SITUATION NOUVELLE
-
-Surveillant des services médicaux (ancienneté conservée) 2e échelon :
-
-1/3 de l'ancienneté acquise + 1 an.
-
-SITUATION ACTUELLE
-
-Moniteur : 2e échelon
-
-SITUATION NOUVELLE
-
-Surveillant des services médicaux (ancienneté conservée) 2e échelon :
-
-1/3 de l'ancienneté acquise.
-
-SITUATION ACTUELLE
-
-Moniteur : 1er échelon
-
-SITUATION NOUVELLE
-
-Surveillant des services médicaux (ancienneté conservée) 1er échelon Ancienneté conservée.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SITUATION ANTERIEURE </p>
+<br/>
+<p align="center">Infirmier anesthésiste de classe supérieure</p>
+</td>
+<td colspan="2">
+<p align="center">SITUATION NOUVELLE </p>
+<br/>
+<p align="center">Infirmier anesthésiste de classe supérieure</p>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p align="center">Echelons</p>
+</td>
+<td>
+<p align="center">Ancienneté conservée</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>a) 7 ans d'ancienneté et plus</p>
+</td>
+<td>
+<p align="center">7e</p>
+</td>
+<td>
+<p align="center">Sans ancienneté</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>b) Moins de 7 ans</p>
+</td>
+<td>
+<p align="center">6e</p>
+</td>
+<td>
+<p align="center">1/2 de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="center">5e</p>
+</td>
+<td>
+<p align="center">3/4 de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="center">4e</p>
+</td>
+<td>
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="center">3e</p>
+</td>
+<td>
+<p align="center">2/3 de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="center">2e </p>
+</td>
+<td rowspan="2">
+<p align="center">2/3 de l'ancienneté acquise</p>
+</td>
+</tr>
+</tbody>
+</table>

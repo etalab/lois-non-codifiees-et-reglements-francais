@@ -1,71 +1,76 @@
 # Article 60-I
 
-Pour l'application de l'article 16 ter du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites suivant les correspondances fixées pour le personnel en activité par les articles 54 à 60, par les deuxième et troisième alinéas du présent article ainsi que par les articles 60-II et 60-III.
+I. - Pour l'application de l'article 16 ter du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites suivant les correspondances fixées pour les personnels en activité par les articles 54, 58, 59, 60 et 60-II.
 
-Pour les surveillants des services médicaux, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites à compter du 1er août 1992 suivant le tableau de correspondance ci-après :
+A compter du 1er janvier 2002, ces assimilations sont faites suivant le tableau de correspondance ci-après :
 
-Situation antérieure; Surveillant des services médicaux échelons :
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SITUATION ANTERIEURE </p>
+<br/>
+<p align="center">Pédicure-podologue, masseur-kinésithérapeute, ergothérapeute, psychomotricien, orthophoniste, orthoptiste et diététicien de classe supérieure</p>
+</td>
+<td>
+<p align="center">SITUATION NOUVELLE </p>
+<br/>
+<p align="center">Pédicure-podologue, masseur-kinésithérapeute, ergothérapeute, psychomotricien, orthophoniste, orthoptiste et diététicien de classe supérieure</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Echelons</p>
+</td>
+<td>
+<p align="center">Echelons</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e echelon : </p>
+<p>c) 7 ans d'ancienneté et plus </p>
+<p>d) Moins de 7 ans</p>
+</td>
+<td>
+<p align="center">6e </p>
+<br/>
+<p align="center">5e</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="center">4e</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="center">3e</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="center">2e</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="center">1er</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-7e  échelon :
-
-a) Plus de 3 ans d'ancienneté dans l'échelon
-
-Situation nouvelle; Surveillant des services médicaux échelons :
-
-7e  échelon :
-
-b) Moins de 3 ans d'ancienneté dans l'échelon
-
-Situation nouvelle; Surveillant des services médicaux échelons :
-
-6e  échelon :
-
-Situation antérieure; Surveillant des services médicaux échelons :
-
-6e  échelon :
-
-Situation nouvelle; Surveillant des services médicaux échelons :
-
-5e  échelon :
-
-Situation antérieure; Surveillant des services médicaux échelons :
-
-5e  échelon :
-
-Situation nouvelle; Surveillant des services médicaux échelons :
-
-4e  échelon :
-
-Situation antérieure; Surveillant des services médicaux échelons :
-
-4e  échelon :
-
-Situation nouvelle; Surveillant des services médicaux échelons :
-
-3e  échelon :
-
-Situation antérieure; Surveillant des services médicaux échelons :
-
-3e  échelon :
-
-Situation nouvelle; Surveillant des services médicaux échelons :
-
-2e  échelon :
-
-Situation antérieure; Surveillant des services médicaux échelons :
-
-2e  échelon :
-
-Situation nouvelle; Surveillant des services médicaux échelons :
-
-2e  échelon :
-
-Situation antérieure; Surveillant des services médicaux échelons :
-
-1er échelon :
-
-Situation nouvelle; Surveillant des services médicaux échelons :
-
-1er échelon.
-
-Les pensions des fonctionnaires retraités avant l'intervention des dispositions qui précèdent ainsi que celles de leurs ayants cause sont revisées à compter de la date de leur application aux personnels en activité.
+Les pensions des fonctionnaires retraités avant l'intervention des dispositions qui précèdent ou celles de leurs ayants cause sont révisées en application des dispositions ci-dessus à la fin des opérations de reclassement des actifs, soit à compter du 1er janvier 2002.
