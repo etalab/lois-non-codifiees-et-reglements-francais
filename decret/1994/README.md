@@ -14,6 +14,7 @@
 - [Décret n°88-565 du 5 mai 1988 (RESK8800405D)](decret-n88-565-du-5-mai-1988-resk8800405d)
 - [Décret n°88-566 du 5 mai 1988 (RESK8800406D)](decret-n88-566-du-5-mai-1988-resk8800406d)
 - [Décret n°93-1046 du 6 septembre 1993 (AGRR9300679D)](decret-n93-1046-du-6-septembre-1993-agrr9300679d)
+- [Décret n°94-18 du 6 janvier 1994 (MENF9306283D)](decret-n94-18-du-6-janvier-1994-menf9306283d)
 - [Décret n°94-794 du 7 septembre 1994 (DEFX9400121D)](decret-n94-794-du-7-septembre-1994-defx9400121d)
 - [Décret n°94-795 du 7 septembre 1994 (DEFX9400122D)](decret-n94-795-du-7-septembre-1994-defx9400122d)
 - [Décret n°93-1289 du 8 décembre 1993 (EQUP9301460D)](decret-n93-1289-du-8-decembre-1993-equp9301460d)
