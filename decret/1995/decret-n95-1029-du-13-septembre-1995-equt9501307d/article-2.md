@@ -10,7 +10,11 @@ Le directeur de la sécurité et de la circulation routières ou son représenta
 
 Le directeur général de l'aviation civile ou son représentant.
 
-Le directeur des ports et de la navigation maritimes ou son représentant.
+Le directeur des affaires maritimes et des gens de mer ou son représentant.
+
+Le directeur du transport maritime, des ports et du littoral ou son représentant.
+
+Le directeur de la surêté des installations nucléaires ou son représentant.
 
 Le directeur des routes ou son représentant.
 
@@ -20,7 +24,7 @@ Le directeur général des stratégies industrielles ou son représentant.
 
 Le directeur de la sécurité civile ou son représentant.
 
-Le directeur général pour l'armement ou son représentant.
+Le délégué général pour l'armement ou son représentant.
 
 Le directeur général des douanes et des droits indirects ou son représentant.
 
