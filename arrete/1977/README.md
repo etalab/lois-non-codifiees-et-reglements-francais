@@ -38,7 +38,6 @@
 - [Arrêté du 8 juillet 1977](arrete-du-8-juillet-1977)
 - [Arrêté du 8 septembre 1977](arrete-du-8-septembre-1977)
 - [Arrêté du 9 août 1977](arrete-du-9-aout-1977)
-- [Arrêté du 9 mars 1977](arrete-du-9-mars-1977)
 - [Arrêté du 10 décembre 1976](arrete-du-10-decembre-1976)
 - [Arrêté du 10 mars 1977](arrete-du-10-mars-1977)
 - [Arrêté du 10 novembre 1976](arrete-du-10-novembre-1976)
