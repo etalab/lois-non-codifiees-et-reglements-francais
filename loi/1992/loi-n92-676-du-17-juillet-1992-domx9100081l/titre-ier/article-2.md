@@ -26,4 +26,4 @@ Les conseils régionaux peuvent, en outre, exonérer les opérations définies a
 
 3. Les introductions de marchandises dans les régions de Guadeloupe, de Martinique, de Guyane et de la Réunion bénéficient des franchises de droits et taxes qui sont en vigueur à la date de publication de la présente loi.
 
-La valeur des marchandises introduites en franchise de taxes en provenance de la Communauté européenne dans les régions de Guadeloupe, de Martinique, de Guyane et de la Réunion ne doit pas dépasser 5000 F pour les voyageurs ou 1000 F en ce qui concerne les petits envois non commerciaux. Ces montants évoluent chaque année comme l'indice des prix à la consommation mentionné dans les états annexés à la loi de finances.
+La valeur des marchandises introduites en franchise de taxes en provenance de la Communauté européenne dans les régions de Guadeloupe, de Martinique, de Guyane et de la Réunion ne doit pas dépasser 820 euros pour les voyageurs ou 170 euros en ce qui concerne les petits envois non commerciaux. Ces montants évoluent chaque année comme l'indice des prix à la consommation mentionné dans les états annexés à la loi de finances.

@@ -6,7 +6,7 @@ Les agents désignés par le ministre chargé de la marine marchande sont asserm
 
 Une copie de ce procès-verbal est remise à la personne physique ou morale qui en fait l'objet. Cette personne a accès au dossier et est mise à même de présenter ses observations écrites dans un délai d'un mois sur les manquements relevés.
 
-Le ministre chargé de la marine marchande peut prendre, sur le vu de ce procès-verbal et des observations susmentionnées, une décision ordonnant le paiement, par la personne qui a commis le manquement, d'une amende au plus égale à 10 F par tonne de pétrole brut entrée dans l'usine exercée de raffinage en méconnaissance des dispositions de l'article 6.
+Le ministre chargé de la marine marchande peut prendre, sur le vu de ce procès-verbal et des observations susmentionnées, une décision ordonnant le paiement, par la personne qui a commis le manquement, d'une amende au plus égale à 1,5 euro par tonne de pétrole brut entrée dans l'usine exercée de raffinage en méconnaissance des dispositions de l'article 6.
 
 La décision du ministre chargé de la marine marchande est susceptible d'un recours de pleine juridiction.
 

@@ -30,7 +30,7 @@ III. - Un agent sportif ne peut agir que pour le compte d'une des parties au mê
 
 Au titre de la délégation de pouvoir qui leur est concédée, les fédérations mentionnées à l'article 17 veillent à ce que les contrats mentionnés au premier alinéa préservent les intérêts des sportifs et de la discipline concernée. A cet effet, les contrats et les mandats sont communiqués aux fédérations. Les fédérations édictent des sanctions en cas de non-communication des contrats ou des mandats.
 
-IV. - Est puni d'un an d'emprisonnement et de [*taux*] 100 000 F d'amende le fait d'exercer l'activité définie au I :
+IV. - Est puni d'un an d'emprisonnement et de [*taux*] 15000 euros d'amende le fait d'exercer l'activité définie au I :
 
 - sans avoir obtenu la licence d'agent sportif ou en méconnaissance d'une décision de non-renouvellement ou de retrait de cette licence ;
 

@@ -1,6 +1,6 @@
 # Article 59
 
-Sont punies de la réclusion criminelle à perpétuité et de 50 000 000 F d'amende la conception, la construction ou l'utilisation d'une installation :
+Sont punies de la réclusion criminelle à perpétuité et de 7500000 euros d'amende la conception, la construction ou l'utilisation d'une installation :
 
 1° De fabrication d'armes chimiques ;
 

@@ -1,6 +1,6 @@
 # Article 12
 
-Seront punis [*sanction - taux*] d'une peine d'un an de prison et de 200000 F d'amende [* taux *] ou de l'une de ces deux peines seulement ceux qui, en leur nom personnel ou comme représentant d'une personne morale, auront :
+Seront punis d'une peine d'un an de prison et de 30 000 euros d'amende ou de l'une de ces deux peines seulement ceux qui, en leur nom personnel ou comme représentant d'une personne morale, auront :
 
 1° Prêté leur nom ou emprunté le nom d'autrui en violation des dispositions de l'article 3 ;
 
@@ -10,4 +10,4 @@ Seront punis [*sanction - taux*] d'une peine d'un an de prison et de 200000 F d'
 
 4° Promis ou versé, accepté de recevoir ou reçu une somme d'argent ou un avantage en violation des dispositions de l'alinéa premier de l'article 10 ;
 
-5° <<Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 86-210 DC du 29 juillet 1986>>.
+5° Enfreint l'interdiction édictée par l'article 11.

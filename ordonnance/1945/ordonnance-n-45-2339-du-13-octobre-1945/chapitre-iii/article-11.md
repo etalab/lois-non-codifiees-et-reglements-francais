@@ -1,6 +1,6 @@
 # Article 11
 
-I. - Le fait d'exercer l'activité d'entrepreneur de spectacles vivants sans être titulaire de la licence prévue à l'article 4 est puni d'un emprisonnement de deux ans et d'une amende de 200 000 F.
+I. - Le fait d'exercer l'activité d'entrepreneur de spectacles vivants sans être titulaire de la licence prévue à l'article 4 est puni d'un emprisonnement de deux ans et d'une amende de 30000 euros.
 
 Les personnes physiques reconnues coupables de la présente infraction encourent également les peines complémentaires suivantes :
 
@@ -14,7 +14,7 @@ Les peines encourues par les personnes morales sont :
 
 1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
 
-2° La fermeture, dans les conditions prévues à l'article 131- 39 du code pénal, du ou des établissements de l'entreprise ayant servi à commettre l'infraction ;
+2° La fermeture, dans les conditions prévues à l'article 131-39 du code pénal, du ou des établissements de l'entreprise ayant servi à commettre l'infraction ;
 
 3° L'affichage ou la diffusion de la décision prononcée, dans les conditions prévues par l'article 131-35 du code pénal.
 

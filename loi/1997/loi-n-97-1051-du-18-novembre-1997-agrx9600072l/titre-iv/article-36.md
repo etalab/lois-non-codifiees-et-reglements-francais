@@ -1,6 +1,6 @@
 # Article 36
 
-Est punie d'une amende de 150000 F toute personne physique qui exerce l'activité de mareyage sans disposer d'un établissement de manipulation des produits de la pêche ayant fait l'objet d'un agrément sanitaire.
+Est punie d'une amende de 22500 euros toute personne physique qui exerce l'activité de mareyage sans disposer d'un établissement de manipulation des produits de la pêche ayant fait l'objet d'un agrément sanitaire.
 
 Les personnes morales peuvent être déclarées responsables pénalement de l'infraction prévue au premier alinéa, dans les conditions fixées par l'article 121-2 du code pénal, et encourent la peine d'amende, suivant les modalités prévues par l'article 131-38 du même code.
 

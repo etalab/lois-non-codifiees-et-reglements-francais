@@ -1,6 +1,6 @@
 # Article 70
 
-Sont punis de trois ans d'emprisonnement et de 300 000 F d'amende :
+Sont punis de trois ans d'emprisonnement et de 45000 euros [*taux*] d'amende :
 
 1° La mise au point, la fabrication, l'acquisition, la cession, l'utilisation, la détention, la conservation ou le stockage de produits chimiques inscrits au tableau 1 réalisé à des fins médicales, pharmaceutiques, de recherche ou de protection sans autorisation ou en violation des autorisations délivrées ;
 

@@ -1,6 +1,6 @@
 # Article 18
 
-Sera punie d'un emprisonnement six mois et d'une amende de 30.000 F [*sanctions*] ou de l'une de ces deux peines seulement :
+Sera punie d'un emprisonnement six mois et d'une amende de 4500 euros ou de l'une de ces deux peines seulement :
 
 1° Toute personne qui, à l'occasion d'opérations visées à l'article 1er, aura reçu ou détenu, à quelque titre et de quelque manière que ce soit, des sommes d'argent, biens, effets ou valeurs quelconques, ou en aura disposé :
 

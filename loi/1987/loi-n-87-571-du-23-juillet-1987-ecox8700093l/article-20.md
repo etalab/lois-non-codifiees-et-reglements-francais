@@ -6,4 +6,4 @@ Seules les fondations d'entreprise répondant aux conditions prévues aux articl
 
 Les groupements constitués avant la publication de la présente loi, qui utilisent dans leur dénomination les termes de fondation ou de fondation d'entreprise, doivent se conformer à ses dispositions avant le 31 décembre 1991.
 
-Les présidents, administrateurs ou directeurs des groupements qui enfreindront les dispositions du présent article seront punis d'une amende de 25 000 F et, en cas de récidive, d'une amende de 50 000 F [*sanctions pénales*].
+Les présidents, administrateurs ou directeurs des groupements qui enfreindront les dispositions du présent article seront punis d'une amende de 3750 euros et, en cas de récidive, d'une amende de 7500 euros [*sanctions pénales*].

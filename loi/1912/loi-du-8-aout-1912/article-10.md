@@ -1,6 +1,6 @@
 # Article 10
 
-Seront punis d'une amende de 30.000 F [*sanctions*] :
+Seront punis d'une amende de 4 500 euros :
 
 1° Ceux qui auront fait un usage industriel ou commercial d'une récompense sans se conformer aux conditions prescrites, par les articles 2, 3 et 4 ;
 

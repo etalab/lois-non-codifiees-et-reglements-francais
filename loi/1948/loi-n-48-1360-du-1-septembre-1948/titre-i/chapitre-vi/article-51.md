@@ -1,6 +1,6 @@
 # Article 51
 
-Toute personne qui de mauvaise foi, à l'aide soit d'une dissimulation, soit de tout autre moyen frauduleux, impose ou tente d'imposer pour l'un des locaux visés par la présente loi, un loyer dépassant le prix licite sera punie d'un emprisonnement de deux ans et d'une amende de 150.000 F ou de l'une de ces deux peines seulement [*sanctions pénales*].
+Toute personne qui de mauvaise foi, à l'aide soit d'une dissimulation, soit de tout autre moyen frauduleux, impose ou tente d'imposer pour l'un des locaux visés par la présente loi, un loyer dépassant le prix licite sera punie d'un emprisonnement de deux ans et d'une amende de 22500 euros ou de l'une de ces deux peines seulement    .
 
 L'amende pourra être élevée à cent fois le montant de la majoration imposée, sans préjudice de tous dommages-intérêts.
 

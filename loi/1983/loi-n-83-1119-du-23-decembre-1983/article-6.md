@@ -1,6 +1,6 @@
 # Article 6
 
-Quiconque effectue, en violation d'une interdiction ou sans autorisation lorsqu'elle est requise, ou en infraction avec les conditions de l'autorisation, une opération de chargement, de déchargement, d'affrètement ou de frètement prévue par l'article 3 de la présente loi, sera puni d'une amende de 500.000 F [*sanctions pénales*].
+Quiconque effectue, en violation d'une interdiction ou sans autorisation lorsqu'elle est requise, ou en infraction avec les conditions de l'autorisation, une opération de chargement, de déchargement, d'affrètement ou de frètement prévue par l'article 3 de la présente loi, sera puni d'une amende de 75000 euros [*sanctions pénales*].
 
 En cas de récidive, la peine d'amende sera portée au double.
 

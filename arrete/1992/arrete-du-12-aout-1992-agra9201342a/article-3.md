@@ -10,4 +10,4 @@ Pour les déplacements de plus de dix-huit heures, le régime général leur est
 
 Pour les tournées de nuit effectuées au titre de la surveillance ou en cas d'urgence entre vingt et une heures et cinq heures du matin, il est alloué une indemnité de tournée par tranche de quatre heures d'absence du domicile.
 
-L'indemnité de tournée est fixée à 65 F.
+L'indemnité de tournée est fixée à 9,91 euros.

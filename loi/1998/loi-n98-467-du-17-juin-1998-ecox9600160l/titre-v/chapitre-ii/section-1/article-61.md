@@ -1,6 +1,6 @@
 # Article 61
 
-Sont punis de vingt ans de réclusion criminelle et de 20 000 000 F d'amende la mise au point, la fabrication, le stockage, la détention, la conservation, l'acquisition, la cession, l'importation, l'exportation, le transit, le commerce ou le courtage :
+Sont punis de vingt ans de réclusion criminelle et de 3000000 euros [*taux*] d'amende la mise au point, la fabrication, le stockage, la détention, la conservation, l'acquisition, la cession, l'importation, l'exportation, le transit, le commerce ou le courtage :
 
 1° D'une arme chimique autre qu'une arme chimique ancienne ou qu'une arme chimique abandonnée ;
 

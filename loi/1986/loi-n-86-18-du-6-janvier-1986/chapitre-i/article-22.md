@@ -8,4 +8,4 @@ Lorsque l'associé cédant est un des organismes précités, il n'a pas à fourn
 
 Les dispositions des premier et deuxième alinéas du présent article sont applicables aux souscriptions de parts ou d'actions effectuées avant l'achèvement de l'immeuble, à l'exception de celles qui ont lieu lors de la constitution de la société.
 
-Le représentant de la société qui aura effectué une souscription de parts ou d'actions, ou l'associé qui aura consenti une cession de parts ou d'actions en violation du présent article sera puni d'un emprisonnement de deux ans et d'une amende de 100.000 F [*sanctions pénales*] ou de l'une de ces deux peines seulement.
+Le représentant de la société qui aura effectué une souscription de parts ou d'actions, ou l'associé qui aura consenti une cession de parts ou d'actions en violation du présent article sera puni d'un emprisonnement de deux ans et d'une amende de 15000 euros ou de l'une de ces deux peines seulement.

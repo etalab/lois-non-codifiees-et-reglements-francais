@@ -1,6 +1,6 @@
 # Article 66
 
-Est puni de deux ans d'emprisonnement et de 200 000 F d'amende le défaut de déclaration par l'exploitant :
+Est puni de deux ans d'emprisonnement et de 30000 euros [*taux*] d'amende le défaut de déclaration par l'exploitant :
 
 1° D'une installation de fabrication, de stockage, de conservation ou de destruction d'armes chimiques ou d'une installation de fabrication de munitions chimiques non remplies ou de matériels destinés à l'emploi d'armes chimiques ;
 

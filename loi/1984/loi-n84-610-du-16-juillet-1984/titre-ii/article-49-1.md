@@ -8,4 +8,4 @@ Le procureur de la République est préalablement informé par les fonctionnaire
 
 Les procès-verbaux font foi jusqu'à preuve contraire et sont transmis au procureur de la République dans les cinq jours suivant leur établissement. Une copie en est également remise à l'intéressé.
 
-Quiconque se sera opposé, de quelque façon que ce soit, à l'exercice des fonctions dont sont chargés les agents mentionnés au présent article sera puni de 50000 F d'amende [* taux *] et d'un an d'emprisonnement ou de l'une de ces deux peines seulement.
+Quiconque se sera opposé, de quelque façon que ce soit, à l'exercice des fonctions dont sont chargés les agents mentionnés au présent article sera puni de 7500 euros d'amende [* taux *] et d'un an d'emprisonnement ou de l'une de ces deux peines seulement.

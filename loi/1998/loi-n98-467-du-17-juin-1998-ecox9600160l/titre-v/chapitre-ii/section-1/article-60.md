@@ -1,6 +1,6 @@
 # Article 60
 
-Est puni de la réclusion criminelle à perpétuité et de 50 000 000 F d'amende le fait de diriger ou d'organiser un groupement ayant pour objet l'emploi, la mise au point, la fabrication, le stockage, la détention, la conservation, l'acquisition, la cession, l'importation, l'exportation, le transit, le commerce ou le courtage :
+Est puni de la réclusion criminelle à perpétuité et de 7500000 euros [*taux*] d'amende le fait de diriger ou d'organiser un groupement ayant pour objet l'emploi, la mise au point, la fabrication, le stockage, la détention, la conservation, l'acquisition, la cession, l'importation, l'exportation, le transit, le commerce ou le courtage :
 
 1° D'une arme chimique ;
 

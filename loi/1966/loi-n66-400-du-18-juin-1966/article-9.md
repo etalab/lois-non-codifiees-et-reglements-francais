@@ -1,6 +1,6 @@
 # Article 9
 
-Quiconque aura commis à la fois une infraction aux dispositions de l'article 4 et l'une des infractions prévues par les articles 5 à 8 pourra être condamné à 1000000 F d'amende pour chacun des articles 5 à 8.
+Quiconque aura commis à la fois une infraction aux dispositions de l'article 4 et l'une des infractions prévues par les articles 5 à 8 pourra être condamné à 150000 euros d'amende pour chacun des articles 5 à 8.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux articles 4 à 8 de la présente loi. Les peines encourues par les personnes morales sont :
 

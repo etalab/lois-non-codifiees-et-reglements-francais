@@ -18,9 +18,9 @@ Un décret fixe les modalités d'application des assurances obligatoires institu
 
 Ces assurances obligatoires entrent en vigueur le premier jour du troisième mois suivant la publication du décret visé à l'alinéa précédent.
 
-Quiconque contrevient aux dispositions du présent article est puni de 50000 F d'amende [* taux *] et d'un an d'emprisonnement ou de l'une de ces peines seulement [*sanctions pénales*].
+Quiconque contrevient aux dispositions du présent article est puni de 7500 euros d'amende [* taux *] et d'un an d'emprisonnement ou de l'une de ces peines seulement.
 
-Le fait, pour le responsable d'une association sportive, de ne pas souscrire les garanties d'assurance dans les conditions prévues au premier alinéa est puni de six mois d'emprisonnement et d'une amende de 50000 F.
+Le fait, pour le responsable d'une association sportive, de ne pas souscrire les garanties d'assurance dans les conditions prévues au premier alinéa est puni de six mois d'emprisonnement et d'une amende de 7500 euros.
 
 Est puni des mêmes peines le fait pour une personne organisant une manifestation sportive définie au deuxième alinéa de ne pas souscrire les garanties d'assurance prévues à cet alinéa.
 

@@ -1,6 +1,6 @@
 # Article 71
 
-Sont punis de deux ans d'emprisonnement et de 200 000 F d'amende :
+Sont punis de deux ans d'emprisonnement et de 30000 euros [*taux*] d'amende :
 
 1° Le défaut de déclaration d'une installation de traitement, de stockage ou de consommation de produits chimiques inscrits au tableau 1 ;
 

@@ -1,6 +1,6 @@
 # Article 1
 
-Le ministre des finances est autorisé à provoquer la création de sociétés nationales d'investissement, constituées sous forme de sociétés anonymes au capital minimum de 2.500.000 F entièrement versés.
+Le ministre des finances est autorisé à provoquer la création de sociétés nationales d'investissement, constituées sous forme de sociétés anonymes au capital minimum de 38112,25 euros entièrement versés.
 
 L'Etat peut faire apport ou cession auxdites sociétés de valeurs mobilières admises à une cote officielle ou une cote de courtiers en valeurs mobilières et entrées dans son patrimoine pour quelque cause que ce soit, notamment :
 

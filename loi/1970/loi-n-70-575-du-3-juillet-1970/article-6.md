@@ -1,14 +1,14 @@
 # Article 6
 
-I. - Est passible d'un emprisonnement de cinq ans et d'une amende de 40000 F ou de l'une de ces deux peines seulement :
+I. - Est passible d'un emprisonnement de cinq ans et d'une amende de 6000 euros ou de l'une de ces deux peines seulement :
 
 a) Toute personne qui se livre à la vente ou à l'exportation de poudres ou substances explosives figurant sur une liste établie par décret ou à la production ou à l'importation de toutes poudres ou substances explosives, en violation des articles 1er et 2 ci-dessus ou des textes pris pour leur application ;
 
 b) Toute personne qui refuse de se soumettre aux contrôles prévus par la présente loi ou qui y apporte des entraves ou qui n'a pas fourni les renseignements demandés en vue de ces contrôles.
 
-II. - Est punie d'un emprisonnement de deux ans et d'une amende de 25000 F ou de l'une de ces deux peines seulement, toute personne qui se livre à la vente des poudres ou substances explosives non susceptibles d'un usage militaire en dehors des conditions prévues par la présente loi et les textes pris pour son application.
+II. - Est punie d'un emprisonnement de deux ans et d'une amende de 3750 euros ou de l'une de ces deux peines seulement, toute personne qui se livre à la vente des poudres ou substances explosives non susceptibles d'un usage militaire en dehors des conditions prévues par la présente loi et les textes pris pour son application.
 
-III. - Est punie d'une amende de 30000 F toute personne qui se livre, en dehors des conditions prévues par la présente loi et les textes pris pour son application, à l'exportation de poudres ou substances explosives non susceptibles d'un usage militaire.
+III. - Est punie d'une amende de 4750 euros toute personne qui se livre, en dehors des conditions prévues par la présente loi et les textes pris pour son application, à l'exportation de poudres ou substances explosives non susceptibles d'un usage militaire.
 
 IV. - Seront passibles des peines prévues aux paragraphes I, II et III ci-dessus, les personnes qui exercent leur activité en qualité d'intermédiaire ou d'agent de publicité à l'occasion d'opérations portant sur les produits précités.
 

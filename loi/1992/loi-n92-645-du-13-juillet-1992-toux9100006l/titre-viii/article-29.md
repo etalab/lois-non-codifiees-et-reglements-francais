@@ -1,6 +1,6 @@
 # Article 29
 
-Sera punie d'une amende de 50 000 F et, en cas de récidive, d'une amende de 100 000 F et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement [*sanctions pénales*] :
+Sera punie d'une amende de 7500 euros et, en cas de récidive, d'une amende de 15000 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement [*sanctions pénales*] :
 
 1° Toute personne qui se livre ou apporte son concours à l'une des opérations mentionnées à l'article 1er, en l'absence de la licence, de l'agrément, de l'autorisation ou de l'habilitation prévus aux articles 4, 7, 11 et 12 ;
 

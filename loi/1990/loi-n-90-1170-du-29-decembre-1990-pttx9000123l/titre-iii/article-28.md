@@ -44,11 +44,11 @@ Ils doivent exercer leurs activités agréées sur le territoire national.
 
 Un décret en Conseil d'Etat fixe les conditions dans lesquelles ces organismes sont agréés ainsi que les garanties auxquelles est subordonné l'agrément ; il précise les procédures et les dispositions techniques permettant la mise en oeuvre des obligations indiquées ci-dessus.
 
-III. - a) Sans préjudice de l'application du code des douanes, le fait de fournir, d'importer de pays n'appartenant pas à la Communauté européenne ou d'exporter un moyen ou une prestation de cryptologie sans avoir obtenu l'autorisation préalable mentionnée au I ou en dehors des conditions de l'autorisation délivrée est puni de six mois d'emprisonnement et de 200 000 F d'amende.
+III. - a) Sans préjudice de l'application du code des douanes, le fait de fournir, d'importer de pays n'appartenant pas à la Communauté européenne ou d'exporter un moyen ou une prestation de cryptologie sans avoir obtenu l'autorisation préalable mentionnée au I ou en dehors des conditions de l'autorisation délivrée est puni de six mois d'emprisonnement et de 30000 euros d'amende.
 
-Le fait de gérer, pour le compte d'autrui, des conventions secrètes de moyens ou de prestations de cryptologie permettant d'assurer des fonctions de confidentialité sans avoir obtenu l'agrément mentionné au II ou en dehors des conditions de cet agrément est puni de deux ans d'emprisonnement et de 300 000 F d'amende.
+Le fait de gérer, pour le compte d'autrui, des conventions secrètes de moyens ou de prestations de cryptologie permettant d'assurer des fonctions de confidentialité sans avoir obtenu l'agrément mentionné au II ou en dehors des conditions de cet agrément est puni de deux ans d'emprisonnement et de 45000 euros [*taux*] d'amende.
 
-Le fait de fournir, d'importer de pays n'appartenant pas à la Communauté européenne, d'exporter ou d'utiliser un moyen ou une prestation de cryptologie en vue de faciliter la préparation ou la commission d'un crime ou d'un délit est puni de trois ans d'emprisonnement et de 500 000 F d'amende.
+Le fait de fournir, d'importer de pays n'appartenant pas à la Communauté européenne, d'exporter ou d'utiliser un moyen ou une prestation de cryptologie en vue de faciliter la préparation ou la commission d'un crime ou d'un délit est puni de trois ans d'emprisonnement et de 75000 euros d'amende.
 
 La tentative des infractions prévues aux alinéas précédents est punie des mêmes peines.
 
@@ -68,7 +68,7 @@ Les matériels saisis sont immédiatement inventoriés. L'inventaire est annexé
 
 Le président du tribunal de grande instance ou le juge délégué par lui peut d'office à tout moment ou sur la demande de l'intéressé ordonner mainlevée de la saisie.
 
-Est puni d'un emprisonnement de six mois et d'une amende [* taux *] de 200 000 F le fait de refuser de fournir les informations ou documents ou de faire obstacle au déroulement des enquêtes mentionnées au présent paragraphe.
+Est puni d'un emprisonnement de six mois et d'une amende [* taux *] de 30000 euros le fait de refuser de fournir les informations ou documents ou de faire obstacle au déroulement des enquêtes mentionnées au présent paragraphe.
 
 V. - Les autorisations et déclarations de fourniture, d'exportation ou d'utilisation de moyens ou de prestations de cryptologie délivrées avant la date de publication de la présente loi conservent leurs effets jusqu'à l'expiration du terme prévu.
 

@@ -1,6 +1,6 @@
 # Article 6
 
-I. - Les actions distribuées aux salariés résultent d'une augmentation de capital. Le nombre de ces actions est déterminé de manière que le montant de l'augmentation de capital soit égal à 3 p. 100 du capital social. Toutefois, ce nombre est éventuellement réduit de telle sorte que son produit par la valeur de négociation des actions nouvelles soit égal au produit de 5000 F par le nombre des salariés bénéficiaires.
+I. - Les actions distribuées aux salariés résultent d'une augmentation de capital. Le nombre de ces actions est déterminé de manière que le montant de l'augmentation de capital soit égal à 3 p. 100 du capital social. Toutefois, ce nombre est éventuellement réduit de telle sorte que son produit par la valeur de négociation des actions nouvelles soit égal au produit de 762,25 euros par le nombre des salariés bénéficiaires.
 
 Pour l'application de l'alinéa précédent, la valeur de négociation des actions est déterminée comme suit :
 

@@ -1,6 +1,6 @@
 # Article 13
 
-Est punie de deux années d'emprisonnement et d'une amende de trois millions de francs toute personne qui a exporté ou tenté d'exporter :
+Est punie de deux années d'emprisonnement et d'une amende de 450000 euros toute personne qui a exporté ou tenté d'exporter :
 
 - définitivement, un bien culturel visé à l'article 4 ;
 

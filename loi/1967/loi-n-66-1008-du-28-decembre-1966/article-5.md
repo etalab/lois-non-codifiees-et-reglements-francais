@@ -4,7 +4,7 @@ I - 1. Quiconque aura contrevenu ou tenté de contrevenir aux mesures visées à
 
 2. Lorsque, pour une cause quelconque, les objets passibles de confiscation n'ont pu être saisis ou ne sont pas représentés par le délinquant ou lorsque le ministre de l'économie et des finances ou son représentant en fait la demande, le tribunal doit, pour tenir lieu de la confiscation, prononcer une condamnation au paiement d'une somme égale à la valeur de ces objets.
 
-3. Sera puni d'un emprisonnement de cinq ans et d'une amende de 1800000 F toute personne qui aura incité par écrit, propagande ou publicité à commettre une des infractions visées au 1 ci-dessus, que cette incitation ait été ou non suivie d'effet.
+3. Sera puni d'un emprisonnement de cinq ans et d'une amende de 225000 euros toute personne qui aura incité par écrit, propagande ou publicité à commettre une des infractions visées au 1 ci-dessus, que cette incitation ait été ou non suivie d'effet.
 
 4. Les personnes condamnées pour infractions à la législation et à la réglementation relatives aux relations financières avec l'étranger sont, en outre, déclarées incapables d'exercer les fonctions des sociétés de bourse, d'être électeurs ou élus aux chambres de commerce, tribunaux de commerce et conseils de prud'hommes, tant et aussi longtemps qu'elles n'auront pas été relevées de cette incapacité.
 

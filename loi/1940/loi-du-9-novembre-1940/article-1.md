@@ -1,0 +1,3 @@
+# Article 1
+
+Dans toute société dont le capital est égal ou supérieur à 3048980,30 euros et qui a obtenu de l'Etat, d'une collectivité ou d'un établissement public, soit une concession de distribution d'eau, de gaz ou d'électricité, soit une concession de transports aériens, maritimes ou terrestres, ainsi que dans toute société où l'Etat, une collectivité ou un établissement public détient, à quelque titre que ce soit, une participation au capital, égale ou supérieure à 20 p. 100, la désignation des administrateurs ne devient définitive que si, dans un délai de quinze jours francs, le secrétaire d'Etat aux finances et le secrétaire d'Etat intéressé n'y ont pas mis opposition.

@@ -1,6 +1,6 @@
 # Article 7
 
-Toute personne visée à l'article 4 qui se sera volontairement soustraite à l'obligation de dépôt légal sera punie d'une peine d'amende de 500 000 F [*sanctions pénales*].
+Toute personne visée à l'article 4 qui se sera volontairement soustraite à l'obligation de dépôt légal sera punie d'une peine d'amende de 75000 euros [*sanctions pénales*].
 
 La juridiction répressive peut, après avoir déclaré le prévenu coupable, ajourner le prononcé de la peine en lui enjoignant, sous astreinte le cas échéant, de se conformer, dans un délai fixé, aux prescriptions qu'elle détermine et qui ont pour objet de faire cesser l'agissement illicite et d'en réparer les conséquences.
 

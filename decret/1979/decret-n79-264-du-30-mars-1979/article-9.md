@@ -1,6 +1,6 @@
 # Article 9
 
-Sera punie d'une amende de 2500 F à 5000 F toute personne qui :
+Sera punie d'une amende de 375 euros à 750 euros toute personne qui :
 
 Soit loue, ou utilise pour l'instruction, un équidé dont l'état ne lui permet pas d'être monté ou attelé, ou met en danger la sécurité des tiers ;
 

@@ -1,6 +1,6 @@
 # Article 58
 
-Est puni de la réclusion criminelle à perpétuité et de 50 000 000 F d'amende le fait d'employer :
+Est puni de la réclusion criminelle à perpétuité et de 7500000 euros d'amende le fait d'employer :
 
 1° Une arme chimique ;
 

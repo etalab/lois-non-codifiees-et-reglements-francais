@@ -1,8 +1,8 @@
 # Article 42-6
 
-Quiconque aura organisé une manifestation sportive publique dans une enceinte non homologuée ou en violation des prescriptions imposées par l'homologation sera puni de deux ans d'emprisonnement et de 500.000 F d'amende [* taux *] ou de l'une de ces deux peines seulement.
+Quiconque aura organisé une manifestation sportive publique dans une enceinte non homologuée ou en violation des prescriptions imposées par l'homologation sera puni de deux ans d'emprisonnement et de 75000 euros d'amende [* taux *] ou de l'une de ces deux peines seulement.
 
-En cas de récidive, il sera prononcé une peine de cinq ans d'emprisonnement et une amende [* taux *] de 1.000.000 F ou l'une de ces deux peines.
+En cas de récidive, il sera prononcé une peine de cinq ans d'emprisonnement et une amende de 150000 euros ou l'une de ces deux peines.
 
 Ces peines sont également applicables à quiconque aura émis ou cédé, à titre gratuit ou onéreux, des titres d'accès à une manifestation sportive en nombre supérieur à l'effectif de spectateurs fixé par l'arrêté d'homologation.
 

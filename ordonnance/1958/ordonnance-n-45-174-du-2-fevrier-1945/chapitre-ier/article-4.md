@@ -26,6 +26,6 @@ L'enregistrement original est placé sous scellés et sa copie est versée au do
 
 L'enregistrement ne peut être visionné qu'avant l'audience de jugement, en cas de contestation du contenu du procès-verbal d'interrogatoire, sur décision, selon le cas, du juge d'instruction ou du juge des enfants saisi par l'une des parties. Les huit derniers alinéas de l'article 114 ne sont pas applicables.
 
-Le fait, pour toute personne, de diffuser un enregistrement original ou une copie réalisée en application du présent article est puni d'un an d'emprisonnement et de 100 000 F d'amende.
+Le fait, pour toute personne, de diffuser un enregistrement original ou une copie réalisée en application du présent article est puni d'un an d'emprisonnement et de 15 000 euros d'amende.
 
 A l'expiration d'un délai de cinq ans à compter de la date de l'extinction de l'action publique, l'enregistrement original et sa copie sont détruits dans le délai d'un mois.

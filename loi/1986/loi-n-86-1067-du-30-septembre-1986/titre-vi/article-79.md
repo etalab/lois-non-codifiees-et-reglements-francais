@@ -8,4 +8,4 @@ Sera puni de la peine prévue au premier alinéa de l'article 78 :
 
 Dès la constatation de l'infraction à l'article 89 de la loi n° 82-652 du 29 juillet 1982 précitée, les officiers de police judiciaire peuvent procéder à la saisie des supports mis illicitement à la disposition du public. Les formes prévues aux articles 56 et 57 du code de procédure pénale sont applicables à cette saisie.
 
-Seront punis d'une amende [*taux*] de 120 000 F les personnes physiques et les dirigeants de droit ou de fait des personnes morales qui n'auront pas répondu ou auront répondu de façon inexacte aux demandes d'information formulées par le Conseil supérieur de l'audiovisuel en application du quatrième alinéa du 1° de l'article 19.
+Seront punis d'une amende [*taux*] de 18000 euros les personnes physiques et les dirigeants de droit ou de fait des personnes morales qui n'auront pas répondu ou auront répondu de façon inexacte aux demandes d'information formulées par le Conseil supérieur de l'audiovisuel en application du quatrième alinéa du 1° de l'article 19.

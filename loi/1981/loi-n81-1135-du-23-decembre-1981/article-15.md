@@ -4,11 +4,11 @@ Tout Français ou tout dirigeant d'une personne morale française qui exercera s
 
 1. D'exploration ou d'exploitation de leurs ressources sans l'autorisation prévue à l'article 3 ;
 
-2. De prospection à l'intérieur des limites d'un permis d'exploration ou d'exploitation sans en être titulaire, sera puni d'une amende de 500000 F.
+2. De prospection à l'intérieur des limites d'un permis d'exploration ou d'exploitation sans en être titulaire, sera puni d'une amende de 75000 euros.
 
 En cas de récidive, la peine d'amende sera portée au double.
 
-Tout titulaire de permis d'exploration ou d'exploitation qui enfreindra les obligations qui lui incombent en vertu de l'article 9 ci-dessus et des textes éventuellement pris pour son application sera puni d'une amende de 500000 F. En cas de récidive, la peine d'amende sera portée au double.
+Tout titulaire de permis d'exploration ou d'exploitation qui enfreindra les obligations qui lui incombent en vertu de l'article 9 ci-dessus et des textes éventuellement pris pour son application sera puni d'une amende de 75000 euros. En cas de récidive, la peine d'amende sera portée au double.
 
 Les infractions prévues ci-dessus sont de la compétence du tribunal correctionnel du lieu de la résidence du prévenu ou de sa dernière résidence connue, ou du lieu où il a été trouvé.
 

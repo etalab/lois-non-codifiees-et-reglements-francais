@@ -8,6 +8,6 @@ Des décrets contresignés par les ministres intéressés fixeront les condition
 
 Dans la mesure où la réglementation fixée par ces décrets ne serait pas compatible avec les conventions internationales, des négociations seront engagées en vue d'adapter les conventions existantes aux dispositions du présent décret.
 
-Toute infraction aux prescriptions des décrets prévues par le présent article sera punie d'une amende de 25.000 F et d'un emprisonnement de six mois ou d'une de ces deux peines seulement [*sanctions pénales*]. En cas de récidive, les peines seront portées au double.
+Toute infraction aux prescriptions des décrets prévues par le présent article sera punie d'une amende de 3750 euros et d'un emprisonnement de six mois ou d'une de ces deux peines seulement. En cas de récidive, les peines seront portées au double.
 
 Le tribunal pourra, en outre, ordonner la fermeture de l'établissement.

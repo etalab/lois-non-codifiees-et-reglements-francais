@@ -1,6 +1,6 @@
 # Article 3
 
-Seront punis d'une amende de 30.000 F [*sanctions*] :
+Seront punis d'une amende de 4500 euros [*sanctions*] :
 
 1° Ceux qui auront introduit en France, mis en entrepôt ou fait circuler en transit des conserves de sardines, de légumes ou prunes d'origine étrangère, en violation des prescriptions des articles qui précèdent, ou qui, par un procédé quelconque, auront fait disparaître ou dissimulé l'indication de provenance ;
 

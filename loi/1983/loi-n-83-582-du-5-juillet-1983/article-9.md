@@ -1,6 +1,6 @@
 # Article 9
 
-Quiconque aura détruit, détourné ou tenté de détruire ou détourner les engins, matériels, équipements, instruments, navires, embarcations ou produits de la pêche appréhendés ou saisis et confiés à sa garde sera puni d'un emprisonnement de deux ans et d'une amende de 2500000 F ou de l'une de ces deux peines seulement.
+Quiconque aura détruit, détourné ou tenté de détruire ou détourner les engins, matériels, équipements, instruments, navires, embarcations ou produits de la pêche appréhendés ou saisis et confiés à sa garde sera puni d'un emprisonnement de deux ans et d'une amende de 375000 euros ou de l'une de ces deux peines seulement.
 
 Ces mêmes peines seront applicables à quiconque aura fait obstacle à la saisie ou à l'appréhension des engins, matériels, équipements, instruments, navires, embarcations utilisés pour les pêches en infraction aux dispositions législatives ou réglementaires ainsi que des produits de ces pêches ou des sommes provenant de leur vente.
 

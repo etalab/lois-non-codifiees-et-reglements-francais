@@ -18,7 +18,7 @@ Toute personne dont une commission d'enquête a jugé l'audition utile est tenue
 
 Toute personne qui participe ou a participé aux travaux de la Commission bancaire, du Comité des établissements de crédit et des entreprises d'investissement, de la Commission des opérations de bourse, du Conseil des marchés financiers, du Conseil de discipline de la gestion financière ou de la Commission de contrôle des assurances est déliée du secret professionnel à l'égard de la commission, lorsque celle-ci a décidé l'application du secret conformément aux dispositions du premier alinéa du IV. Dans ce cas, le rapport publié à la fin des travaux de la commission, ni aucun autre document public, ne pourra faire état des informations recueillies par levée du secret professionnel.
 
-III. La personne qui ne comparaît pas ou refuse de déposer ou de prêter serment devant une commission d'enquête est passible de deux ans d'emprisonnement et de 50000 F d'amende [* taux *].
+III. La personne qui ne comparaît pas ou refuse de déposer ou de prêter serment devant une commission d'enquête est passible de deux ans d'emprisonnement et de [*taux*] 7500 euros d'amende.
 
 Le refus de communiquer les documents visés au deuxième alinéa du II est passible des mêmes peines.
 

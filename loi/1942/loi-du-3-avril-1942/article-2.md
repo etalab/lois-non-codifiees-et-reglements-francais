@@ -1,9 +1,5 @@
 # Article 2
 
-Le classement des stations visées à l'article précédent est prononcé par un décret en conseil d'Etat sur le rapport : (alinéa abrogé par la loi n° 96-142 art. 12-53).
+Tout intermédiaire convaincu d'avoir offert les services spécifiés à l'article précédent sera puni d'une amende de 4500 euros et, en cas de récidive, d'une amende de 22500 euros. En outre, le tribunal devra ordonner la publication d'un extrait du jugement dans un ou plusieurs journaux et son affichage à la porte du ou des bureaux de l'intermédiaire pendant un mois, le tout aux frais du condamné.
 
-Du ministre de la santé publique, après avis des ministres de l'économie et des finances, de l'intérieur et des travaux publics, des transports et du tourisme en ce qui concerne les stations hydrominérales, climatiques et uvales ;
-
-Du ministre de l'éducation nationale, après avis des ministres de l'économie et des finances, de l'intérieur, des travaux publics, des transports et du tourisme, de la santé publique en ce qui concerne les stations de sports d'hiver et d'alpinisme.
-
-Une station peut être classée à différents titres.
+La suppression, la dissimulation ou la lacération totale ou partielle de ces affiches, opérée volontairement par le condamné, à son instigation ou par son ordre, entraîne contre lui l'application d'une peine d'emprisonnement de quinze jours et il sera procédé de nouveau à l'exécution intégrale des dispositions relatives à l'affichage aux frais du condamné.

@@ -1,6 +1,6 @@
 # Article 3
 
-I. - Est puni de 100 000 F d'amende [*sanctions pénales*] le fait de ne pas respecter les obligations prévues à l'article 2.
+I. - Est puni de 15000 euros d'amende [*sanctions pénales*] le fait de ne pas respecter les obligations prévues à l'article 2.
 
 II. - Les personnes morales peuvent être déclarées responsables, dans les conditions prévues par l'article 121-2 du code pénal, de l'infraction prévue au I.
 

@@ -1,6 +1,6 @@
 # Article 4
 
-Quiconque aura en quelque lieu et sous quelque forme que ce soit, offert de recevoir ou reçu des paris sur les courses de chevaux, soit directement, soit par intermédiaire, sera puni d'un emprisonnement de deux ans et d'une amende de 60.000 F [*sanctions*].
+Quiconque aura en quelque lieu et sous quelque forme que ce soit, offert de recevoir ou reçu des paris sur les courses de chevaux, soit directement, soit par intermédiaire, sera puni d'un emprisonnement de deux ans et d'une amende de [*taux*] 9000 euros.
 
 L'interdiction des droits énumérés à l'article 131-26 du code pénal pendant cinq à dix ans, pourra être prononcée.
 

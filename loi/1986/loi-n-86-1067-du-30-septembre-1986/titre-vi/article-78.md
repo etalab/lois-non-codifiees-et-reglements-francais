@@ -1,6 +1,6 @@
 # Article 78
 
-I. - Sera puni de 500000 F d'amende [* taux *] le dirigeant de droit ou de fait d'un service de communication audiovisuelle qui aura émis ou fait émettre :
+I. - Sera puni de 75000 euros d'amende le dirigeant de droit ou de fait d'un service de communication audiovisuelle qui aura émis ou fait émettre :
 
 1° Sans autorisation du Conseil supérieur de l'audiovisuel ou en violation d'une décision de suspension ou de retrait prononcée sur le fondement des dispositions de l'article 42 ou sur une fréquence autre que celle qui lui a été attribuée ;
 
@@ -16,7 +16,7 @@ II. - Sera puni des mêmes peines :
 
 3° Le dirigeant de droit ou de fait d'un distributeur de services par voie hertzienne terrestre qui aura exercé son activité en violation des dispositions concernant la puissance ou le lieu d'implantation de l'émetteur.
 
-III. - Dans le cas de récidive ou dans le cas où l'émission irrégulière aura perturbé les émissions ou liaisons hertziennes d'un service public, d'une société nationale de programme ou d'un service autorisé, l'auteur de l'infraction pourra être puni d'une amende [* taux *] de un million de francs et d'un emprisonnement d'une durée maximale de six mois.
+III. - Dans le cas de récidive ou dans le cas où l'émission irrégulière aura perturbé les émissions ou liaisons hertziennes d'un service public, d'une société nationale de programme ou d'un service autorisé, l'auteur de l'infraction pourra être puni d'une amende [* taux *] de 150000 euros et d'un emprisonnement d'une durée maximale de six mois.
 
 Les agents du Conseil supérieur de l'audiovisuel et ceux placés sous son autorité peuvent, s'ils ont été spécialement habilités à cet effet par le conseil et assermentés dans les conditions fixées par décret en Conseil d'Etat, constater par procès-verbal les infractions ci-dessus prévues. Leurs procès-verbaux sont transmis dans les cinq jours au procureur de la République. Dans le même délai, une copie en est adressée au président du Conseil supérieur de l'audiovisuel et au dirigeant de droit ou de fait du service de communication audiovisuelle qui a commis l'infraction.
 

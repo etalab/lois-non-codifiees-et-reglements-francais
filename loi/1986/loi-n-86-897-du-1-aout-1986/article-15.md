@@ -1,6 +1,6 @@
 # Article 15
 
-Seront punis de 40000 F d'amende [* taux *] :
+Seront punis de 6 000 euros d'amende :
 
 1° Les présidents, les directeurs généraux, les administrateurs, les membres de directoires ou de conseils de surveillance, les gérants ou les dirigeants de fait de sociétés qui auront émis des actions au porteur en violation des dispositions de l'article 4 ci-dessus ;
 

@@ -1,6 +1,6 @@
 # Article 3
 
-Est puni d'une amende de 600 000 F le fait pour le donneur d'ordres de rémunérer les contrats visés à l'article 1er par un prix qui ne permet pas de couvrir à la fois [*sanctions pénales*] :
+Est puni d'une amende de 90000 euros le fait pour le donneur d'ordres de rémunérer les contrats visés à l'article 1er par un prix qui ne permet pas de couvrir à la fois [*sanctions pénales*] :
 
 - les charges entraînées par les obligations légales et réglementaires, notamment en matière sociale et de sécurité ;
 

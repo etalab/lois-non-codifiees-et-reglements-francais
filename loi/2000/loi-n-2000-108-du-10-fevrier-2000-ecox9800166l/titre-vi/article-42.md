@@ -1,8 +1,8 @@
 # Article 42
 
-Le fait d'exploiter une installation de production d'électricité sans être titulaire de l'autorisation mentionnée à l'article 7 ou de construire ou de mettre en service une ligne directe sans être titulaire de l'autorisation visée à l'article 24 est puni d'un an d'emprisonnement et de 1000000 F d'amende.
+Le fait d'exploiter une installation de production d'électricité sans être titulaire de l'autorisation mentionnée à l'article 7 ou de construire ou de mettre en service une ligne directe sans être titulaire de l'autorisation visée à l'article 24 est puni d'un an d'emprisonnement et de 150000 euros d'amende.
 
-Le fait de s'opposer de quelque façon que ce soit à l'exercice des fonctions dont les fonctionnaires et agents désignés aux articles 33 et 34 sont chargés ou de refuser de leur communiquer les éléments mentionnés au II de l'article 33 et à l'article 34 est puni de six mois d'emprisonnement et de 50000 F d'amende.
+Le fait de s'opposer de quelque façon que ce soit à l'exercice des fonctions dont les fonctionnaires et agents désignés aux articles 33 et 34 sont chargés ou de refuser de leur communiquer les éléments mentionnés au II de l'article 33 et à l'article 34 est puni de six mois d'emprisonnement et de 7500 euros d'amende.
 
 Les personnes physiques coupables des infractions prévues aux alinéas précédents encourent également les peines complémentaires suivantes :
 

@@ -1,6 +1,6 @@
 # Article 19
 
-I. - L'étranger qui a pénétré ou séjourné en France sans se conformer aux dispositions des articles 5 et 6 ou qui s'est maintenu sur le territoire français au-delà de la durée autorisée par son visa sera puni d'un emprisonnement d'un an et d'une amende de 25 000 F.
+I. - L'étranger qui a pénétré ou séjourné en France sans se conformer aux dispositions des articles 5 et 6 ou qui s'est maintenu sur le territoire français au-delà de la durée autorisée par son visa sera puni d'un emprisonnement d'un an et d'une amende de 3 750 Euros.
 
 La juridiction pourra en outre interdire au condamné, pendant une durée qui ne peut excéder trois ans, de pénétrer ou de séjourner sur le territoire francais. L'interdiction du territoire emporte de plein droit reconduite du condamné à la frontière, le cas échéant, à l'expiration de sa peine d'emprisonnement.
 

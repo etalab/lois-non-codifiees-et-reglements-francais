@@ -1,6 +1,6 @@
 # Article 15
 
-Est puni d'une amende de 50 000 F le fait de ne pas communiquer à la commission, dans les conditions prévues à l'article 5, les informations et pièces utiles à l'exercice de sa mission ou de ne pas déférer, dans les conditions prévues au même article, à ses convocations ou d'empêcher les membres de la commission d'accéder, dans les conditions prévues à l'article 6, aux locaux professionnels.
+Est puni d'une amende de 7 500 euros le fait de ne pas communiquer à la commission, dans les conditions prévues à l'article 5, les informations et pièces utiles à l'exercice de sa mission ou de ne pas déférer, dans les conditions prévues au même article, à ses convocations ou d'empêcher les membres de la commission d'accéder, dans les conditions prévues à l'article 6, aux locaux professionnels.
 
 Les personnes physiques encourent également les peines complémentaires suivantes :
 

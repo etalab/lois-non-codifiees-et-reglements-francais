@@ -1,6 +1,6 @@
 # Article 16
 
-Sera punie d'une amende de 30.000 F et, en cas de récidive, d'une amende de 60.000 F et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement :
+Sera punie d'une amende de 4 500 euros et, en cas de récidive, d'une amende de 9 000 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement :
 
 1° Toute personne qui, d'une manière habituelle, se livre ou prête son concours, même à titre accessoire, à des opérations visées à l'article 1er sans être titulaire de la carte instituée par l'article 3 ou après avoir cessé de remplir les conditions auxquelles la délivrance de cette carte est subordonnée ;
 

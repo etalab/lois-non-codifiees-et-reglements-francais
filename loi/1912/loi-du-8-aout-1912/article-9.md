@@ -1,10 +1,12 @@
 # Article 9
 
-Seront punis d'une amende de 40.000 F [*sanctions*] et d'un emprisonnement de deux ans ou de l'une de ces deux peines seulement :
+Seront punis d'une amende de 6000 euros   et d'un emprisonnement de deux ans ou de l'une de ces deux peines seulement :
 
 1° Ceux qui, sans droit et frauduleusement se seront attribué les récompenses objet de la présente loi, ou s'en seront attribué d'imaginaires, par apposition sur leurs produits, enseignes, annonces, prospectus, lettres, papiers de commerce, emballages ou de toute autre manière ;
 
-2° Ceux qui, dans les mêmes conditions, les auront appliquées à d'autres objets que ceux pour lesquels elles avaient été obtenues ;    3° Ceux qui, dans les mêmes conditions, s'en seront prévalus auprès des jurys des expositions ou concours ;
+2° Ceux qui, dans les mêmes conditions, les auront appliquées à d'autres objets que ceux pour lesquels elles avaient été obtenues ;
+
+3° Ceux qui, dans les mêmes conditions, s'en seront prévalus auprès des jurys des expositions ou concours ;
 
 4° Ceux qui, par un artifice quelconque, mention captieuse ou signe figuratif reproduisant plus ou moins exactement l'aspect conventionnel d'une médaille, auront tenté d'induire le public à croire qu'ils ont obtenu une récompense qui, en fait, ne leur a pas été attribuée ;
 

@@ -1,6 +1,6 @@
 # Article 69
 
-Sont punis de sept ans d'emprisonnement et de 700 000 F d'amende :
+Sont punis de sept ans d'emprisonnement et de 100000 euros [*taux*] d'amende :
 
 1° L'exploitation d'une installation de fabrication de produits chimiques inscrits au tableau 1 à des fins médicales, pharmaceutiques, de recherche ou de protection sans autorisation lorsque celle-ci est obligatoire, ou en violation des conditions de l'autorisation délivrée ;
 

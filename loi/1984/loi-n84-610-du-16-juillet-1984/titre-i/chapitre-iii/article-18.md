@@ -8,7 +8,7 @@ Cette autorisation est subordonnée au respect des règlements et règles techni
 
 Les fédérations délégataires ne peuvent déléguer leurs compétences pour l'organisation de manifestations sportives nécessitant des conditions particulières de sécurité. Elles signalent la tenue de ces manifestations aux autorités détentrices des pouvoirs de police. Les manifestations concernées par les dispositions du présent alinéa sont précisées par arrêté du ministre chargé des sports.
 
-II. - Le fait d'organiser une manifestation sportive sans l'autorisation de la fédération délégataire dans les conditions prévues au I du présent article est puni d'une amende de 100 000 F.
+II. - Le fait d'organiser une manifestation sportive sans l'autorisation de la fédération délégataire dans les conditions prévues au I du présent article est puni d'une amende de 15000 euros.
 
 Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues à l'article 121-1 du code pénal, de l'infraction définie à l'alinéa précédent.
 

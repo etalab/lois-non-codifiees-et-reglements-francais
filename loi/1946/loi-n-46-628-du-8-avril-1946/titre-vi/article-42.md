@@ -1,6 +1,6 @@
 # Article 42
 
-Seront punis d'une peine de cinq ans de prison et d'une amende de 1500000 F ou de l'une de ces peines seulement, sans préjudice des dommages et intérêts éventuels :
+Seront punis d'une peine de cinq ans de prison et d'une amende de 225000 euros ou de l'une de ces peines seulement, sans préjudice des dommages et intérêts éventuels :
 
 1° Ceux qui, en contravention des dispositions de la présente loi cèdent, détériorent, altèrent, endommagent, détournent ou dissimulent des biens meubles ou immeubles, des archives, projets, études, comptabilités et autres documents de toute nature susceptibles d'être compris dans les transferts effectués par les décrets de nationalisation ;
 

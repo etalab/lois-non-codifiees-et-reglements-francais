@@ -1,6 +1,6 @@
 # Article 5
 
-I. - Est puni d'une amende de 50 000 F [*sanctions pénales*] :
+I. - Est puni d'une amende de 7500 euros [*sanctions pénales*] :
 
 1° Le fait d'exploiter une entreprise de coiffure en méconnaissance des dispositions des articles 3 ou 3-1 ;
 

@@ -1,6 +1,6 @@
 # Article 1
 
-Sont punis de deux ans d'emprisonnement et de 500 000 F d'amende, sans préjudice des dommages-intérêts s'il y a lieu [*sanctions pénales*] :
+Sont punis de deux ans d'emprisonnement et de 75000 euros d'amende, sans préjudice des dommages-intérêts s'il y a lieu    :
 
 1° Ceux qui auront apposé ou fait apparaître frauduleusement un nom usurpé sur une oeuvre de peinture, de sculpture, de dessin, de gravure et de musique ;
 

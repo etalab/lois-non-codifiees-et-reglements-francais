@@ -1,6 +1,6 @@
 # Article 43
 
-Est puni d'un an d'emprisonnement et de 100.000 F d'amende [* taux *] le fait d'entraver l'action de la Commission nationale de l'informatique et des libertés :
+Est puni d'un an d'emprisonnement et de 15000 euros d'amende [* taux *] le fait d'entraver l'action de la Commission nationale de l'informatique et des libertés :
 
 1° Soit en s'opposant à l'exercice de vérifications sur place ;
 
