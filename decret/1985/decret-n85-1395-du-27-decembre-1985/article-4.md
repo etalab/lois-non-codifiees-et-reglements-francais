@@ -1,3 +1,0 @@
-# Article 4
-
-Le ministre de l'intérieur et de la décentralisation est chargé de l'application du présent décret, qui sera publié au Journal officiel de la République française.
