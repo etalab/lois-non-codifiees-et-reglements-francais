@@ -6,6 +6,6 @@ Le rappel à l'ordre ;
 
 La censure ;
 
-La suspension temporaire ;
+L'interdiction ne pouvant excéder trois ans ;
 
 La radiation définitive.

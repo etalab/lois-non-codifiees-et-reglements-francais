@@ -4,4 +4,4 @@ Un courtier assermenté peut être radié de la liste soit à la suite d'une dé
 
 Son inscription devient caduque s'il cesse d'exercer à titre personnel le courtage des marchandises faisant l'objet de la spécialité professionnelle pour laquelle il est inscrit ou si, spécialisé dans une branche d'activité pour laquelle l'exigence du renouvellement de l'examen technologique a été reconnue nécessaire, il n'a pas subi avec succès ce nouvel examen à l'expiration de la période fixée.
 
-Il peut, pour des raisons importantes appréciées par la cour d'appel après avis du président du tribunal de commerce, demander sa mise en congé temporaire. Le procureur général informe le président du tribunal de commerce de la décision ; il en est fait mention sur la liste si elle s'applique à une période égale ou supérieure à six mois.
+Il peut, pour des raisons importantes appréciées par la cour d'appel après avis du procureur général, demander sa mise en congé temporaire. Il en est fait mention sur la liste si elle s'applique à une période égale ou supérieure à six mois.
