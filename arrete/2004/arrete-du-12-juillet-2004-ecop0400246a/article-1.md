@@ -1,0 +1,3 @@
+# Article 1
+
+Les directeurs de laboratoire de 2e classe du ministère de l'économie, des finances et de l'industrie, recrutés en application des articles 14 et 15 du décret du 17 octobre 2000 susvisé, effectuent une période de formation de six mois prévue à l'article 16 du même décret. Elle comprend un stage théorique sous forme continue ou fractionnée dans l'une des écoles de la DGDDI ou de la DGCCRF, et des stages pratiques dans les services déconcentrés et dans les laboratoires de la direction générale des douanes et droits indirects et de la direction générale de la concurrence, de la consommation et de la répression des fraudes.
