@@ -242,17 +242,15 @@ Société française de garantie des financements des petites et moyennes entrep
 
 NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
 
-5
+3
 
 REPARTITION PAR MINISTERE
 
-Economie (x 2).
+Economie.
 
 Industrie.
 
 Petites et moyennes entreprises.
-
-Recherche.
 
 NOM DE LA SOCIETE
 
