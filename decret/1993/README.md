@@ -9,6 +9,7 @@
 - [Décret n°93-176 du 5 février 1993 (ECOT9294147D)](decret-n93-176-du-5-fevrier-1993-ecot9294147d)
 - [Décret n°92-634 du 6 juillet 1992 (TEFT9204940D)](decret-n92-634-du-6-juillet-1992-teft9204940d)
 - [Décret n°94-295 du 6 avril 1994 (EQUH9400167D)](decret-n94-295-du-6-avril-1994-equh9400167d)
+- [Décret n°95-640 du 6 mai 1995 (DOMP9500008D)](decret-n95-640-du-6-mai-1995-domp9500008d)
 - [Décret n°93-33 du 8 janvier 1993 (MERP9200054D)](decret-n93-33-du-8-janvier-1993-merp9200054d)
 - [Décret n°93-1082 du 9 septembre 1993 (JUSF9350045D)](decret-n93-1082-du-9-septembre-1993-jusf9350045d)
 - [Décret n°93-1083 du 9 septembre 1993 (JUSF9350046D)](decret-n93-1083-du-9-septembre-1993-jusf9350046d)
