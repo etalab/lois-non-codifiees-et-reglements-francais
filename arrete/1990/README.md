@@ -864,7 +864,6 @@
 - [Arrêté du 30 juillet 1990 (PRME9061400A)](arrete-du-30-juillet-1990-prme9061400a)
 - [Arrêté du 30 mars 1990 (AGRS9000801A)](arrete-du-30-mars-1990-agrs9000801a)
 - [Arrêté du 30 mars 1990 (PRME9061196A)](arrete-du-30-mars-1990-prme9061196a)
-- [Arrêté du 30 novembre 1989 (PTTR8901096A)](arrete-du-30-novembre-1989-pttr8901096a)
 - [Arrêté du 30 novembre 1990 (BUDR9004024A)](arrete-du-30-novembre-1990-budr9004024a)
 - [Arrêté du 30 novembre 1990 (BUDR9004025A)](arrete-du-30-novembre-1990-budr9004025a)
 - [Arrêté du 30 novembre 1990 (MAEA9020452A)](arrete-du-30-novembre-1990-maea9020452a)
