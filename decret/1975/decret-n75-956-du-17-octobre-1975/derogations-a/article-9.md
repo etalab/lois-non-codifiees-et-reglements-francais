@@ -1,15 +1,13 @@
 # Article 9
 
-Les dérogations prévues au troisième alinéa de l'article 994 du code rural ne peuvent être accordées qu'en cas de circonstances exceptionnelles entraînant temporairement un surcroît extraordinaire de travail.
+Les demandes de dérogation aux règles fixant la durée maximale absolue sont assorties de toutes justifications sur les circonstances qui les motivent ; elles précisent la durée de la dérogation demandée [*mentions, contenu*].
 
-Les demandes de dérogation sont adressées par les employeurs au chef du service départemental de l'inspection du travail en agriculture [*autorité compétente*].
+Lorsqu'elle concerne une seule entreprise, la demande est présentée par l'employeur, accompagnée de l'avis du comité d'entreprise ou, à défaut, des délégués du personnel.
 
-Toute demande présenté à ce titre doit être assortie de justifications sur les circonstances exceptionnelles qui la motivent et préciser la durée pour laquelle la dérogation est sollicitée [*mentions obligatoires*].
+Lorsqu'elle concerne les entreprises relevant d'un même type d'activités dans une région déterminée, la demande est présentée par l'organisation patronale intéressée.
 
-Elle doit être accompagnée de l'avis du comité d'entreprise ou, à défaut, de celui des délégués du personnel.
+Les demandes sont adressées au chef du service départemental du travail et de la protection sociale agricoles. Celui-ci examine si les circonstances invoquées sont de nature à justifier l'octroi de la dérogation et, dans le cas où cette dernière doit intéresser la totalité ou plusieurs des entreprises relevant d'un même type d'activités dans une région déterminée, procède à la consultation des organisations syndicales d'employeurs et de salariés les plus représentatives dans ce type d'activités et dans cette région.
 
-Lorsque la durée de la dérogation sollicitée est d'une semaine, la décision est prise par le chef du service départemental de l'inspection du travail en agriculture.
+La décision du chef du service départemental du travail et de la protection sociale agricoles précise les modalités de la dérogation ainsi que la durée pour laquelle elle est accordée.
 
-Si la dérogation sollicitée est d'une durée supérieure à une semaine ou concerne une semaine suivant immédiatement un espace de temps pour lequel une dérogation de même nature a été accordée, le chef du service départemental transmet la demande au chef du service régional de l'inspection du travail en agriculture. Celui-ci prend sa décision au vu d'un rapport établi par le chef du service départemental et indiquant notamment si la situation de l'entreprise requérante est de nature à justifier l'octroi de la dérogation.
-
-Cette décision précise l'ampleur de la dérogation ainsi que la durée pour laquelle elle est accordée.
+Lorsqu'une dérogation a été accordée par application des alinéas précédents pour un type d'activités et une région déterminée, les employeurs concernés qui désirent en user doivent consulter le comité d'entreprise ou, à défaut, les délégués du personnel sur cette intention et transmettre l'avis ainsi recueilli au chef du service départemental du travail et de la protection sociale agricoles [*autorité administrative compétente*].
