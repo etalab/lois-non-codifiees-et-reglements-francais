@@ -2,3 +2,4 @@
 
 - [I : Dispositions relatives à l'harmonisation européenne en matière fiscale.](i)
 - [II : Dispositions relatives à diverses mesures de simplification.](ii)
+- [IV : Dispositions diverses.](iv)
