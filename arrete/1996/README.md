@@ -348,7 +348,6 @@
 - [Arrêté du 10 décembre 1996 (TASS9624338A)](arrete-du-10-decembre-1996-tass9624338a)
 - [Arrêté du 10 février 1996 (INDD9501255A)](arrete-du-10-fevrier-1996-indd9501255a)
 - [Arrêté du 10 février 1998 (MENF9800205A)](arrete-du-10-fevrier-1998-menf9800205a)
-- [Arrêté du 10 janvier 1996 (EQUA9600084A)](arrete-du-10-janvier-1996-equa9600084a)
 - [Arrêté du 10 janvier 1996 (EQUZ9600050A)](arrete-du-10-janvier-1996-equz9600050a)
 - [Arrêté du 10 janvier 1996 (TASH9620133A)](arrete-du-10-janvier-1996-tash9620133a)
 - [Arrêté du 10 janvier 1996 (TASH9620135A)](arrete-du-10-janvier-1996-tash9620135a)
