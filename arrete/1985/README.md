@@ -22,6 +22,7 @@
 - [Arrêté du 16 janvier 1985](arrete-du-16-janvier-1985)
 - [Arrêté du 16 juillet 1984](arrete-du-16-juillet-1984)
 - [Arrêté du 17 octobre 1984](arrete-du-17-octobre-1984)
+- [Arrêté du 18 janvier 1985](arrete-du-18-janvier-1985)
 - [Arrêté du 19 décembre 1984](arrete-du-19-decembre-1984)
 - [Arrêté du 19 novembre 1984](arrete-du-19-novembre-1984)
 - [Arrêté du 21 décembre 1984](arrete-du-21-decembre-1984)
