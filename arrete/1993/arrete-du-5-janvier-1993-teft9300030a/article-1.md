@@ -9,3 +9,5 @@ Travaux exposant aux hydrocarbures polycycliques aromatiques présents dans la s
 Travaux exposant aux poussières, fumées ou brouillards produits lors du grillage et de l'électroraffinage des mattes de nickel ;
 
 Procédé à l'acide fort dans la fabrication d'alcool isopropylique.
+
+Travaux exposant aux poussières de bois inhalables.
