@@ -4,4 +4,6 @@ L'avancement à la classe exceptionnelle de maître-assistant se fait au choix p
 
 Cet avancement se fait selon la procédure prévue à l'article 31 ci-dessus.
 
-Les maîtres-assistants nommés à la classe exceptionnelle de leur grade sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient antérieurement. Ils conservent, dans la limite de la durée de service exigée pour l'accès à l'échelon supérieur dans leur nouvelle classe, l'ancienneté d'échelon acquise dans leur précédente classe, lorsque cette nomination ne leur procure pas un avantage supérieur à celui qui aurait résulté d'un avancement d'échelon dans leur ancienne classe.
+Les maîtres-assistants nommés à la classe exceptionnelle de leur grade sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient antérieurement. Ils conservent, dans la limite de la durée de service exigée pour l'accès à l'échelon supérieur dans leur nouvelle classe, l'ancienneté d'échelon acquise dans leur précédente classe, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur ancienne classe.
+
+Ceux qui avaient atteint l'échelon le plus élevé de leur ancienne classe conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'une élévation audit échelon.
