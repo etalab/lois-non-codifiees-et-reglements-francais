@@ -30,10 +30,10 @@ Lors de l'agrément, la teneur en anhydride sulfureux total de ces vins ne doit 
 
 Pour les vins contenant une quantité de sucre (glucose plus fructose) supérieure ou égale à 5 grammes par litre, la quantité d'anhydride sulfureux total à l'agrément ne doit pas être supérieure à 150 milligrammes par litre pour les vins rouges et à 175 milligrammes par litre pour les vins blancs et rosés.
 
-Pour les vins obtenus sans enrichissement contenant une quantité de sucre (glucose plus fructose) supérieure ou égale à 50 grammes par litre et ayant un titre alcoométrique volumique total supérieur à 15 % vol. et inférieur à 20 %, la quantité d'anhydride sulfureux total à l'agrément ne doit pas être supérieure à 300 milligrammes par litre.
+Pour certains vins de pays dont la liste est précisée par décret, obtenus sans enrichissement, contenant une quantité de sucre (glucose plus fructose) supérieure ou égale à 45 grammes par litre et ayant un titre alcoométrique volumique total supérieur à 15 % vol. et inférieur à 20 % vol., la quantité d'anhydride sulfureux total à l'agrément ne doit pas être supérieure à 240 mg/l pour les vins blancs et rosés, et 190 mg/l pour les vins rouges. Cette limite est portée à 280 mg/l pour les vins de pays visés à l'annexe XII du règlement (CE) n° 1622/2000 du 24 juillet 2000.
 
 Lors de l'agrément, la teneur de ces vins en acidité volatile ne doit pas être supérieure à 0,55 gramme par litre (11,22 meq/l), exprimée en acide sulfurique, ou à 0,65 gramme par litre (13,26 meq/l) pour les vins ayant terminé leur fermentation malolactique.
 
-Pour les vins contenant une quantité de sucre (glucose plus fructose) supérieure ou égale à 50 grammes par litre et un titre alcoométrique volumique total supérieur à 15 % vol. et inférieur à 20 %, la limite maximale d'acidité volatile est portée à 1,20 gramme par litre (24,48 meq/l).
+Pour les vins contenant une quantité de sucre (glucose plus fructose) supérieure ou égale à 45 grammes par litre et un titre alcoométrique volumique total supérieur à 15 % vol. et inférieur à 20 % vol., la limite maximale d'acidité volatile est portée à 0,80 g/l (18 meq) pour les vins blancs et rosés et 0,90 g/l (20 meq) pour les vins rouges. Cette limite est portée à 1,20 g/l (24,48 meq) pour les vins de pays visés à l'annexe XIII du règlement (CE) n° 1622/2000 du 24 juillet 2000.
 
 Ces vins doivent avoir satisfait aux examens organoleptique et analytique prévus aux articles 4 et suivants.
