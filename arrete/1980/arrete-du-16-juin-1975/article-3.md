@@ -1,153 +1,177 @@
 # Article 3
 
-Les coefficients d'équivalence et les seuils d'application valant abattement à la base applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
+Les coefficients d'équivalence et les seuils d'application valant abattement à la base, applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
 
-ARTENSE
+HAUT-LIMOUSIN ET FRANGE SUD DE LA MARCHE
 
-NATURE DE L'ELEVAGE
+NATURE DE L'ELEVAGE :
 
-I. Aviculture
+I. Aviculture et cuniculiculture
 
-Equivalence en ares par mètre carré de poulailler ou de clapier
+Equivalence en ares pour 1 m2 de clapier ou de poulailler
 
-Poules pondeuses : 1,9 a
+Poules pondeuses : 1,6 a
 
-Poulets de chair : 0,95 a
+Poulets de chair : 0,8 a
 
-Lapins : 4,7 a
+Dindons : 0,8 a
 
-NATURE DE L'ELEVAGE
+Lapins : 3,9 a
 
-II. Elevages porcin et bovin
+Oies, canards, pintades : 0,8 a
+
+NATURE DE L'ELEVAGE :
+
+II. Elevage porcin et bovin
 
 Equivalence en hectares par animal
 
-Truies (naisseurs) : 0,28 ha
+Truies (naisseurs) : 0,24 ha
 
-Truies (naisseurs engraisseurs) : 0,56 ha
+Truies (naisseurs-engraisseurs) : 0,48 ha
 
-Porcs à l'engrais  : 0,023 ha
+Porcs à l'engrais : 0,019 ha
 
-Veaux en batterie  : 0,047 ha
+Veaux en batterie : 0,039 ha
 
-Veaux sevrés : 0,037 ha
+Vaches laitières tenues par des laitiers nourrisseurs : 1 ha
 
-MARGERIDE
+III. Elevages divers
 
-NATURE DE L'ELEVAGE
+Apiculture (équivalence pour 1 hectare) : 25 ruches
 
-I. Aviculture
+Cailles, perdreaux, faisans (équivalence en ares pour 1 m2 de plancher) : 0,8 a
 
-Equivalence en ares par mètre carré de poulailler ou de clapier
+Lièvres (équivalence pour 1 ha) : 2,5 couples de reproducteurs
+
+Chèvres (équivalence pour 1 ha) : 4 chèvres
+
+PLATEAU DE MILLEVACHES
+
+NATURE DE L'ELEVAGE :
+
+I. Aviculture et cuniculiculture
+
+Equivalence en ares pour 1 m2 de clapier ou de poulailler
 
 Poules pondeuses : 2 a
 
 Poulets de chair : 1 a
 
-Lapins : 4,8 a
+Dindons : 1 a
 
-NATURE DE L'ELEVAGE
+Lapins : 5,2 a
 
-II. Elevages porcin et bovin
+Oies, canards, pintades : 0,8 a
+
+NATURE DE L'ELEVAGE :
+
+II. Elevage porcin et bovin
 
 Equivalence en hectares par animal
 
 Truies (naisseurs) : 0,30 ha
 
-Truies (naisseurs engraisseurs) : 0,60 ha
+Truies (naisseurs-engraisseurs) : 0,60 ha
 
-Porcs à l'engrais  : 0,024 ha
+Porcs à l'engrais : 0,026 ha
 
-Veaux en batterie  : 0,048 ha
+Veaux en batterie : 0,052 ha
 
-Veaux sevrés : 0,038 ha
+Vaches laitières tenues par des laitiers nourrisseurs : 1 ha
 
-AUBRAC
+III. Elevages divers
 
-NATURE DE L'ELEVAGE
+Apiculture (équivalence pour 1 hectare) : 25 ruches
 
-I. Aviculture
+Cailles, perdreaux, faisans (équivalence en ares pour 1 m2 de plancher) : 1 a
 
-Equivalence en ares par mètre carré de poulailler ou de clapier
+Lièvres (équivalence pour 1 ha) : 2,5 couples de reproducteurs
 
-Poules pondeuses : 2,2 a
+Chèvres (équivalence pour 1 ha) : 4 chèvres
 
-Poulets de chair : 1,1 a
+MARCHE SAUF FRANGE SUD
 
-Lapins : 5,4 a
+NATURE DE L'ELEVAGE :
 
-NATURE DE L'ELEVAGE
+I. Aviculture et cuniculiculture
 
-II. Elevages porcin et bovin
+Equivalence en ares pour 1 m2 de clapier ou de poulailler
 
-Equivalence en hectares par animal
+Poules pondeuses : 2,6 a
 
-Truies (naisseurs) : 0,33 ha
+Poulets de chair : 1,3 a
 
-Truies (naisseurs engraisseurs) : 0,66 ha
+Dindons : 1,3 a
 
-Porcs à l'engrais  : 0,027 ha
+Lapins : 6,5 a
 
-Veaux en batterie  : 0,054 ha
+Oies, canards, pintades : 0,8 a
 
-Veaux sevrés : 0,043 ha
+NATURE DE L'ELEVAGE :
 
-RESTE DU DEPARTEMENT
-
-NATURE DE L'ELEVAGE
-
-I. Aviculture
-
-Equivalence en ares par mètre carré de poulailler ou de clapier
-
-Poules pondeuses : 1,8 a
-
-Poulets de chair : 0,9 a
-
-Lapins : 4,5 a
-
-NATURE DE L'ELEVAGE
-
-II. Elevages porcin et bovin
+II. Elevage porcin et bovin
 
 Equivalence en hectares par animal
 
-Truies (naisseurs) : 0,26 ha
+Truies (naisseurs) : 0,40 ha
 
-Truies (naisseurs engraisseurs) : 0,52 ha
+Truies (naisseurs-engraisseurs) : 0,80 ha
 
-Porcs à l'engrais  : 0,022 ha
+Porcs à l'engrais : 0,033 ha
 
-Veaux en batterie  : 0,045 ha
+Veaux en batterie : 0,065 ha
 
-Veaux sevrés : 0,036 ha
+Vaches laitières tenues par des laitiers nourrisseurs : 1 ha
 
-Seuils d'application valant abattement à la base
+III. Elevages divers
 
-NATURE DE L'ELEVAGE
+Apiculture (équivalence pour 1 hectare) : 25 ruches
 
-I. Aviculture
+Cailles, perdreaux, faisans (équivalence en ares pour 1 m2 de plancher) : 1,3 a
 
-Equivalence en ares par mètre carré de poulailler
+Lièvres (équivalence pour 1 ha) : 2,5 couples de reproducteurs
+
+Chèvres (équivalence pour 1 ha) : 4 chèvres
+
+SEUILS D'APPLICATION VALANT ABATTEMENT A LA BASE
+
+NATURE DE L'ELEVAGE :
+
+I. Aviculture et cuniculiculture
+
+Equivalence en ares pour 1 m2 de clapier ou de poulailler
 
 Poules pondeuses : 75 m2
 
 Poulets de chair : 150 m2
 
+Dindons : 150 m2
+
 Lapins : 30 m2
 
-NATURE DE L'ELEVAGE
+Oies, canards, pintades : 150 m2
 
-II. Elevages porcin et bovin
+NATURE DE L'ELEVAGE :
+
+II. Elevage porcin et bovin
 
 Equivalence en hectares par animal
 
 Truies (naisseurs) : 5 truies
 
-Truies (naisseurs engraisseurs) : 2,5 truies
+Truies (naisseurs-engraisseurs) : 2,5 truies
 
-Porcs à l'engrais  : 60 porcs par an
+Porcs à l'engrais : 60 porcs (an)
 
-Veaux en batterie  : 30 veaux par an
+Veaux en batterie : 30 veaux (an)
 
-Veaux sevrés : 354 veaux (an)
+III. Elevages divers
+
+Apiculture (équivalence pour 1 hectare) : 25 ruches
+
+Cailles, perdreaux, faisans (équivalence en ares pour 1 m2 de plancher) : 150 m2
+
+Lièvres (équivalence pour 1 ha) : 2,5 couples de reproducteurs
+
+Chèvres (équivalence pour 1 ha) : 4 chèvres
