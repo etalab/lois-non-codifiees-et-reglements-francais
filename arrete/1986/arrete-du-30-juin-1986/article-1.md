@@ -1,3 +1,3 @@
 # Article 1
 
-La garantie de l'Etat est accordée au service en intérêts, amortissement, frais et accessoires des séries d'emprunts permanents émises durant le second semestre 1986 par la caisse de refinancement hypothécaire.
+Le montant de la cotisation forfaitaire due par les bénéficiaires du régime d'assurance maladie des étudiants est fixé à 640 F [*montant*] pour l'année universitaire 1986-1987.

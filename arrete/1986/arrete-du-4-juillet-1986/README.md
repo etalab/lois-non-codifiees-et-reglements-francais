@@ -1,4 +1,4 @@
-# Arrêté du 4 juillet 1986 accordant la garantie de l'Etat à un emprunt émis par seize sociétés de développement régional
+# Arrêté du 4 juillet 1986 relatif aux périodes d'ouverture de la pêche de la truite de mer durant l'année 1986
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
