@@ -26,4 +26,6 @@ la liste des diplômes d'études spécialisées complémentaires de médecine, a
 
 - réanimation médicale ;
 
-- médecine légale et expertises médicales.
+- médecine légale et expertises médicales ;
+
+- médecine vasculaire.
