@@ -4,7 +4,7 @@ La liste des commission, conseils, comités et autres organismes consultatifs pr
 
 Conseil d'administration des établissements publics communaux, intercommunaux, départementaux et interdépartementaux (décret n° 78-612 du 23 mai 1978 modifié) ;
 
-Commission consultative prévue à l'article 22 de la loi n° 75-535 du 30 juin 1975 (décret n° 78-612 du 23 mai 1978 modifié) ;
+Commission consultative prévue aux articles L. 314-7 et L. 314-10 à L. 314-12 du code de l'action sociale et des familles.
 
 Commission de surveillance (décret n° 66-292 du 6 mai 1966) ;
 

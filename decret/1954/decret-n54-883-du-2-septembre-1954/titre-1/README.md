@@ -1,4 +1,4 @@
-# Titre 1 : Aide médicale
+# Titre 1 : Dispositions communes aux différentes formes d'aide sociale
 
 - [Article 1](article-1.md)
 - [Chapitre 1 : Conditions générales d'admission](chapitre-1)

@@ -20,7 +20,7 @@ Les rémunérations servies pour :
 
 - les programmes locaux d'insertion en faveur des femmes ;
 
-- les allocations mensuelles de l'aide sociale à l'enfance prévues à l'article 43 du code de la famille et de l'aide sociale.
+- les allocations mensuelles de l'aide sociale à l'enfance prévues à l'article L. 222-3 du code de l'action sociale et des familles.
 
 Les rémunérations servies aux personnes suivant des stages agréés dans les conditions prévues à l'article L. 961-3 du code du travail ;
 

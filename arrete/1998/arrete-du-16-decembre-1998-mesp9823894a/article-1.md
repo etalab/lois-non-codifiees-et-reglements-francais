@@ -16,7 +16,7 @@ Conformément aux dispositions de l'article L. 477 du code de la santé publique
 
 7. Etablissements de santé privés dispensant des soins de longue durée ;
 
-8. Etablissements et services sociaux et médico-sociaux mentionnés à l'article 3 de la loi du 30 juin 1975 susvisée ;
+8. Etablissements et services sociaux et médico-sociaux mentionnés aux articles L. 312-1, L. 312-10 et L. 312-14 du code de l'action sociale et des familles ;
 
 9. Centres spécialisés de soins aux toxicomanes ;
 

@@ -8,6 +8,6 @@ Lorsqu'il existe un certificat cadre correspondant à la formation concernée pa
 
 pour les autres agents paramédicaux, les conditions de candidature sont ramenées à l'exigence d'une durée de service effective de trois ans dans la spécialité concernée par le concours.
 
-La limite d'âge est fixée à quarante-cinq ans au plus au 1er janvier de l'année du concours; elle peut être reculée dans les conditions prévues à l'article 36 du code de la famille et de l'aide sociale.
+La limite d'âge est fixée à quarante-cinq ans au plus au 1er janvier de l'année du concours; elle peut être reculée dans les conditions prévues à l'article L. 215-3 du code de l'action sociale et des familles.
 
 Les agents qui ont satisfait aux épreuves du concours peuvent sur leur demande être détachés dans leur nouvel emploi.

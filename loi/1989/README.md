@@ -2,6 +2,7 @@
 
 - [Loi n° 88-1028 du 9 novembre 1988 (PRMX8800115L)](loi-n-88-1028-du-9-novembre-1988-prmx8800115l)
 - [Loi n° 88-1262 du 30 décembre 1988 (INTX8800142L)](loi-n-88-1262-du-30-decembre-1988-intx8800142l)
+- [Loi n° 88-1264 du 30 décembre 1988 (DOMX8800050L)](loi-n-88-1264-du-30-decembre-1988-domx8800050l)
 - [Loi n° 89-18 du 13 janvier 1989 (SPSX8800135L)](loi-n-89-18-du-13-janvier-1989-spsx8800135l)
 - [Loi n° 89-25 du 17 janvier 1989 (MCCX8800132L)](loi-n-89-25-du-17-janvier-1989-mccx8800132l)
 - [Loi n° 89-421 du 23 juin 1989 (SECX8800144L)](loi-n-89-421-du-23-juin-1989-secx8800144l)

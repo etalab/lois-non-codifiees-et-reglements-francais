@@ -17,6 +17,8 @@
 - [Ordonnance n° 2000-350 du 19 avril 2000 (INTX0000040R)](ordonnance-n-2000-350-du-19-avril-2000-intx0000040r)
 - [Ordonnance n° 2000-351 du 19 avril 2000 (INTX0000029R)](ordonnance-n-2000-351-du-19-avril-2000-intx0000029r)
 - [Ordonnance n° 2000-352 du 19 avril 2000 (INTX0000050R)](ordonnance-n-2000-352-du-19-avril-2000-intx0000050r)
+- [Ordonnance n° 2000-1249 du 21 décembre 2000 (MESX0000083R)](ordonnance-n-2000-1249-du-21-decembre-2000-mesx0000083r)
+- [Ordonnance n° 2000-1255 du 21 décembre 2000 (EQUX0000181R)](ordonnance-n-2000-1255-du-21-decembre-2000-equx0000181r)
 - [Ordonnance du 26 juin 1816](ordonnance-du-26-juin-1816)
 - [Ordonnance n° 2000-370 du 26 avril 2000 (INTX0000045R)](ordonnance-n-2000-370-du-26-avril-2000-intx0000045r)
 - [Ordonnance n° 2000-372 du 26 avril 2000 (INTX0000047R)](ordonnance-n-2000-372-du-26-avril-2000-intx0000047r)

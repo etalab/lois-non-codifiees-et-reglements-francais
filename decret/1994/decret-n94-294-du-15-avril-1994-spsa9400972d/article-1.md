@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des titres et documents attestant la régularité de la résidence en France des personnes de nationalité étrangère pour l'attribution des formes d'aide sociale visées au 4° et à l'avant-dernier alinéa de l'article 186 du code de la famille et de l'aide sociale est fixée ainsi qu'il suit :
+La liste des titres et documents attestant la régularité de la résidence en France des personnes de nationalité étrangère pour l'attribution des formes d'aide sociale visées au 4° et à l'avant-dernier alinéa de l'article L. 111-2 du code de l'action sociale et des familles est fixée ainsi qu'il suit :
 
 1. Carte de résident ;
 

@@ -16,7 +16,7 @@ Services d'urgence des établissements de santé privés ;
 
 Services des établissements de santé privés ayant passé convention avec le secteur psychiatrique ;
 
-2° Etablissements et services sociaux ou médico-sociaux mentionnés à l'article 3 de la loi du 30 juin 1975 modifiée susvisée ;
+2° Etablissements et services sociaux ou médico-sociaux mentionnés aux articles L. 312-1, L. 312-10, L. 312-14 du code de l'action sociale et des familles ;
 
 3° Autres établissements :
 

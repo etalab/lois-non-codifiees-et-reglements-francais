@@ -1,5 +1,10 @@
-# Arrêté du 7 mars 1986 autorisant la société Compagnie luxembourgeoise de télédiffusion à assurer un service de radiodiffusion sonore destiné au public en général.
+# Arrêté du 7 mars 1986 modifiant l'arrêté du 16 mai 1980 relatif aux conditions d'admission dans les établissements de formation au diplôme d'Etat d'assistant de service social.
 
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)

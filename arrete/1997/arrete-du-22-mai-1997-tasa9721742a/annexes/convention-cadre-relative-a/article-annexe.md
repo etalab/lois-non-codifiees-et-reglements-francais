@@ -1,12 +1,12 @@
 # Article ANNEXE
 
-L'article 4 de la loi n° 97-60 du 24 janvier 1997 tendant, dans l'attente du vote de la loi instituant une prestation d'autonomie pour les personnes âgées dépendantes, à mieux répondre aux besoins des personnés âgées par l'institution d'une prestation spécifique dépendance permet au département de conclure des conventions avec des institutions et organismes publics sociaux ou médico-sociaux, des organismes régis par le code de la mutualité ou des associations pour l'instruction et le suivi de la prestation spécifique dépendance.
+L'article L. 232-7 du code de l'action sociale et des familles tendant, dans l'attente du vote de la loi instituant une prestation d'autonomie pour les personnes âgées dépendantes, à mieux répondre aux besoins des personnés âgées par l'institution d'une prestation spécifique dépendance permet au département de conclure des conventions avec des institutions et organismes publics sociaux ou médico-sociaux, des organismes régis par le code de la mutualité ou des associations pour l'instruction et le suivi de la prestation spécifique dépendance.
 
 La loi autorise donc le département à confier à ces organismes tout ou partie de sa mission d'instruction des demandes de prestation spécifique dépendance et de suivi des bénéficiaires.
 
 La présente convention-cadre a pour objet de fixer les dispositions minimales qui doivent figurer dans ces conventions, notamment pour que soit garanti le droit des usagers de bénéficier de modalités d'instruction de leurs demandes et d'un suivi social équivalents, quel que soit l'organisme instructeur.
 
-Toutefois, il est recommandé que les dispositions de ces conventions soient mises en cohérence avec celles de la ou des conventions conclues en application de l'article 1er de la loi du 24 janvier 1997 prévoyant les modalités d'instruction de la prestation spécifique dépendance et de celles des prestations susceptibles d'être servies s'il s'avère que le demandeur ne remplit pas les conditions, notamment de dépendance et de ressources, prévues pour la prestation spécifique dépendance. Il serait également opportun qu'elles soient harmonisées en tant que de besoin avec les dispositions que les signataires de la ou des conventions conclues en application de l'article 1er de la loi susvisée auraient retenues pour l'instruction et le suivi d'autres prestations.
+Toutefois, il est recommandé que les dispositions de ces conventions soient mises en cohérence avec celles de la ou des conventions conclues en application de l'article L. 113-2 du code de l'action sociale et des familles prévoyant les modalités d'instruction de la prestation spécifique dépendance et de celles des prestations susceptibles d'être servies s'il s'avère que le demandeur ne remplit pas les conditions, notamment de dépendance et de ressources, prévues pour la prestation spécifique dépendance. Il serait également opportun qu'elles soient harmonisées en tant que de besoin avec les dispositions que les signataires de la ou des conventions conclues en application de l'article 1er de la loi susvisée auraient retenues pour l'instruction et le suivi d'autres prestations.
 
 Convention
 
@@ -46,7 +46,7 @@ Vu le décret n°  du
 
 Vu le cahier des charges fixé par arrêté du  ;
 
-Vu la (les) convention(s) conclue(s) par le département en application de l'article 1er de la loi n° 97-60 du 24 janvier 1997 ;
+Vu la (les) convention(s) conclue(s) par le département en application de l'article L. 113-2 du code de l'action sociale et des familles ;
 
 Vu la délibération ,
 
@@ -90,13 +90,13 @@ L'organisme peut être chargé par le conseil général de l'ensemble ou d'une p
 
 - vérifier l'effectivité et la qualité des aides apportées et en faire rapport au département.
 
-Ces missions peuvent également être exercées dans le cadre de la procédure d'urgence arrêtée par le règlement départemental d'aide sociale conformément au troisième alinéa de l'article 3 de la loi du 24 janvier 1997 ;
+Ces missions peuvent également être exercées dans le cadre de la procédure d'urgence arrêtée par le règlement départemental d'aide sociale conformément à l'article L. 232-4 du code de l'action sociale et des familles  ;
 
 - assurer celles des missions ci-dessus nécessitées pour une prestation autre que la prestation spécifique dépendance qui serait également objet de la présente convention.
 
 Lorsque les missions décrites ci-dessus sont exercées par différents organismes, la convention prévoit les conditions de délai et les modalités de transmission des informations entre ces organismes.
 
-L'article 14-II de la loi du 24 janvier 1997 fait obligation à l'ensemble des intervenants de respecter, dans le cadre des missions précitées, le secret professionnel.
+L'article L. 322-16 du code de l'action sociale et des familles fait obligation à l'ensemble des intervenants de respecter, dans le cadre des missions précitées, le secret professionnel.
 
 Article 3
 
@@ -144,7 +144,7 @@ Article 6
 
 Modalités du suivi des bénéficiaires de la prestation spécifique dépendance
 
-Lorsque l'organisme est chargé de tout ou partie de cette mission, les parties conviennent des modalités d'organisation de ce suivi et du contrôle de l'effectivité et de la qualité de l'aide. Elles précisent également la périodicité des visites à réaliser au lieu de résidence des bénéficiaires qui ne peut être supérieure à un an conformément aux dispositions de l'article 21 de la loi du 24 janvier 1997.
+Lorsque l'organisme est chargé de tout ou partie de cette mission, les parties conviennent des modalités d'organisation de ce suivi et du contrôle de l'effectivité et de la qualité de l'aide. Elles précisent également la périodicité des visites à réaliser au lieu de résidence des bénéficiaires qui ne peut être supérieure à un an conformément aux dispositions de l'article L. 232-22 du code de l'action sociale et des familles.
 
 L'équipe chargée du suivi de la prestation s'engage à informer sans délai les services compétents du conseil général de tout élément susceptible d'entraîner des modifications du montant ou la suspension de la prestation spécifique dépendance attribuée.
 

@@ -1,6 +1,6 @@
 # Article ANNEXE I
 
-La loi n° 97-60 du 24 janvier 1997 prévoit, dans son article 1er, que le département conclut des conventions avec les organismes de sécurité sociale.
+Le code de l'action sociale et des familles prévoit, dans son article L. 113-2 que le département conclut des conventions avec les organismes de sécurité sociale.
 
 La loi précise le triple objet de ces conventions :
 
@@ -38,7 +38,7 @@ Pour faciliter la coordination sous ses différentes formes précédemment évoq
 
 Afin d'assurer la gestion de la coordination convenue entre les parties et d'en préciser les modalités, celles-ci mettront en place une instance départementale de coordination gérontologique. Cette instance sera notamment chargée d'une fonction d'évaluation des besoins, des réponses qui y sont apportées, de leur coordination et du dispositif conventionnel existant à cet effet. Sa composition pourrait utilement associer l'ensemble des partenaires intéressés :
 
-représentants de l'Etat, du CODERPA, des communes, des hôpitaux ...
+représentants de l'Etat, du CODERPA, des communes, des hôpitaux...
 
 Cette instance pourra définir, en concertation avec les différentes autorités concernées, les modalités d'une territorialisation de la coordination gérontologique.
 

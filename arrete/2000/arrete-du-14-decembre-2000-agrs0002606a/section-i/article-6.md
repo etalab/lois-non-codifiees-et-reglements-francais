@@ -1,0 +1,3 @@
+# Article 6
+
+Cette autorisation concerne les entreprises dont les établissements relèvent d'au moins trois caisses de mutualité sociale agricole différentes et dont l'effectif global est au moins égal à 100 salariés. L'effectif pris en compte, apprécié au cours des douze mois précédant la demande, est celui des salariés employés par l'entreprise, tous établissements confondus, quelle que soit la nature de leurs contrats de travail. Cette autorisation concerne également les entreprises dont les établissements relèvent d'au moins quatre caisses de mutualité sociale agricole différentes quel que soit leur effectif global.

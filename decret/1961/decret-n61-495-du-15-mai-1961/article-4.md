@@ -1,6 +1,6 @@
 # Article 4
 
-Les recours prévus à l'article 146 du code de la famille et de l'aide sociale sont exercés, dans tous les cas, dans la limite du montant des prestations allouées au bénéficiaire de l'aide sociale.
+Les recours prévus aux articles L. 132-8, L. 132-9 du code de l'action sociale et des familles sont exercés, dans tous les cas, dans la limite du montant des prestations allouées au bénéficiaire de l'aide sociale.
 
 En cas de donation, le recours est exercé jusqu'à concurrence de la valeur des biens donnés par le bénéficiaire de l'aide sociale, appréciée au jour de l'introduction du recours, déduction faite, le cas échéant, des plus-values résultant des impenses ou du travail du donataire.
 

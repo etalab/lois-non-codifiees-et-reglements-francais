@@ -1,6 +1,6 @@
 # Article 3
 
-Les participations exigées des familles, en vertu de l'article 18 du décret du 29 novembre 1953 [*code de la famille de l'aide sociale ART. 143*] doivent être calculées en tenant compte de la moyenne des allocations familiales versées pour les enfants à charge, quel que soit le rang de l'enfant ou des enfants bénéficiaires de l'aide sociale.
+Les participations exigées des familles, en vertu de l'article L. 132-5 du code de l'action sociale et des familles doivent être calculées en tenant compte de la moyenne des allocations familiales versées pour les enfants à charge, quel que soit le rang de l'enfant ou des enfants bénéficiaires de l'aide sociale.
 
 Le service d'aide sociale reçoit directement et intégralement les allocations familiales dues au titre d'un enfant lorsque :
 

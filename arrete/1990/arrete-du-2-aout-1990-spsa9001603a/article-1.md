@@ -1,6 +1,6 @@
 # Article 1
 
-Le dossier prévu à l'article 2 du décret du 23 mai 1978 modifié susvisé pour la création d'un établissement public énuméré à l'article 19 de la loi du 30 juin 1975 susvisée comporte les documents suivants :
+Le dossier prévu à l'article 2 du décret du 23 mai 1978 modifié susvisé pour la création d'un établissement public énuméré à l'article L. 314-5 du code de l'action sociale et des familles comporte les documents suivants :
 
 1° Un rapport de présentation générale du projet de création de l'établissement précisant notamment les objectifs poursuivis par le futur établissement ;
 

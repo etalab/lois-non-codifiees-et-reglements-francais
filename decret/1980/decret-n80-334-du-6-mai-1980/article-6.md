@@ -4,7 +4,7 @@ Les ressortissants d'un Etat membre des communautés européennes non titulaires
 
 Un arrêté du ministre chargé des affaires sociales fixe les modalités de présentation de la demande d'autorisation d'exercice, et notamment la composition du dossier accompagnant cette demande. A la réception du dossier complet de l'intéressé, un récépissé est délivré à celui-ci.
 
-L'autorisation d'exercice est délivrée lorsque sont réunies les conditions définies par le deuxième alinéa de l'article 218 du code de la famille et de l'aide sociale.
+L'autorisation d'exercice est délivrée lorsque sont réunies les conditions définies par le deuxième alinéa de l'article L. 411-1 du code de l'action sociale et des familles.
 
 Toutefois, dans les cas prévus au troisième alinéa du même article, la délivrance de l'autorisation d'exercice est subordonnée à la vérification de la capacité du demandeur à l'exercice de la profession d'assistant de service social en France.
 

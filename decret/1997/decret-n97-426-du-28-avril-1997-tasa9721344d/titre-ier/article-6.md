@@ -4,7 +4,7 @@ Pour la détermination des ressources du demandeur :
 
 1° Les biens ou capitaux qui ne sont ni exploités ni placés sont censés procurer aux intéressés un revenu annuel évalué à 50 % de leur valeur locative s'il s'agit d'immeubles bâtis, à 80 % de cette valeur s'il s'agit de terrains non bâtis et à 3 % des capitaux ;
 
-2° Ne sont pas prises en compte dans les ressources, outre la retraite du combattant, les pensions attachées aux distinctions honorifiques et les rentes viagères mentionnées à l'article 6 de la loi du 24 janvier 1997 susvisée, les prestations suivantes :
+2° Ne sont pas prises en compte dans les ressources, outre la retraite du combattant, les pensions attachées aux distinctions honorifiques et les rentes viagères mentionnées à l'article L. 232-9 du code de l'action sociale et des familles, les prestations suivantes :
 
 a) Les prestations en nature dues au titre de l'assurance maladie, maternité, invalidité ou de l'assurance accident du travail ou au titre de l'aide médicale ;
 

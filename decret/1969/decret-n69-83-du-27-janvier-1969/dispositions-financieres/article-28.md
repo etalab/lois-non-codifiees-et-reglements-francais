@@ -1,6 +1,6 @@
 # Article 28
 
-Sont applicables au bureau d'aide sociale de Paris les dispositions de l'article 139 du code de la famille et de l'aide sociale.
+Sont applicables au bureau d'aide sociale de Paris les dispositions de l'article L. 123-7 du code de l'action sociale et des familles.
 
 Les immeubles appartenant à l'administration générale de l'assistance publique à Paris et affectés en totalité à l'exercice de l'aide sociale sont transférés au bureau d'aide sociale. Il en est de même des meubles corporels garnissant ces immeubles ainsi que des droits et obligations résultant de l'utilisation pour l'aide sociale soit de parties d'immeubles appartenant à l'administration générale de l'assistance publique, soit de biens appartenant à d'autres collectivités ou à des tiers.
 
