@@ -1,0 +1,3 @@
+# Article 5
+
+Les règles que les organisations de producteurs reconnues et représentatives au sens des règlements communautaires susvisés appliquent à leurs adhérents peuvent être étendues, à la demande de ces organisations, aux producteurs non adhérents ressortissant des Etats membres de la Communauté économique européenne, à condition qu'elles aient pour objet d'améliorer la qualité des produits ou d'adapter l'offre au marché par la mise en oeuvre de plans de capture ou l'application de prix de retrait aux produits des pêches maritimes et des cultures marines énumérées au chapitre 3 du tarif douanier communautaire.

@@ -1,4 +1,4 @@
-# Arrêté du 11 décembre 1986 fixant la valeur du coupon à échéance du 21 décembre 1987 pour les obligations à taux variable Décembre 1983
+# Arrêté du 11 décembre 1986 portant homologation de règlements du comité de la réglementation bancaire
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

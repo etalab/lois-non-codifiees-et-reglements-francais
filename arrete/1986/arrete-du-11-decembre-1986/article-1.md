@@ -1,3 +1,3 @@
 # Article 1
 
-En application des dispositions de l'article 4 du décret n° 83-1026 du 2 décembre 1983 susvisé, le taux moyen de rendement des emprunts d'Etat dont le capital ou les intérêts ne sont pas indexés, émis à taux fixe et d'échéance finale supérieure à sept ans, durant les cinquante semaines suivant le 21 décembre 1985, constaté par la Caisse des dépôts et consignations, est de 8,47 p. 100.
+Les règlements n°s 86-14, 86-15, 86-16, 86-17, 86-18, 86-19, 86-20, 86-21, 86-22, 86-23 et 86-24 du 24 novembre 1986 du comité de la réglementation bancaire annexés au présent arrêté sont homologués.

@@ -1,3 +1,3 @@
 # Article 2
 
-En application de l'article précédent, l'intérêt à verser le 21 décembre 1987 pour les obligations de l'emprunt d'Etat à taux variable Décembre 1983 est de 169,40 F par obligation.
+Le présent arrêté et les règlements qui lui sont annexés seront publiés au Journal officiel de la République française.
