@@ -1,6 +1,6 @@
 # Article 9
 
-En ce qui concerne les élections des représentants des maires et des conseillers généraux les bulletins de vote et les enveloppes nécessaires au scrutin sont adressés aux électeurs par chaque préfecture de département situé dans le ressort du centre de formation, treize jours avant la date du scrutin.
+En ce qui concerne les élections des représentants des maires et des conseillers généraux les bulletins de vote et les enveloppes nécessaires au scrutin sont adressés aux électeurs par chaque préfecture de département situé dans le ressort du centre de formation, treize jours [*délai*] avant la date du scrutin.
 
 A l'envoi destiné aux maires est joint un rappel du nombre de voix dont dispose le maire.
 

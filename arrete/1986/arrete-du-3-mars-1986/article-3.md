@@ -1,6 +1,6 @@
 # Article 3
 
-Pour tenir lieu de titre de mouvement, des vignettes munies d'une marque fiscale doivent être apposées par les utilisateurs sur les factures [*condition*].
+Pour tenir lieu de titre de mouvement, des vignettes munies d'une marque fiscale doivent être apposées par les utilisateurs sur les factures.
 
 A cet effet, les utilisateurs déposent à la recette des impôts dont ils dépendent un timbre humide de forme ronde, mentionnant leurs nom, prénoms (ou raison sociale) et adresse complète.
 

@@ -1,6 +1,6 @@
 # Article 16
 
-La commission prévue à l'article précédent :
+La commission prévue à l'article précédent [*attributions*] :
 
 1. Centralise les résultats enregistrés par chacune des commissions départementales ;
 

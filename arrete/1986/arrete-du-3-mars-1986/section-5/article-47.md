@@ -4,7 +4,7 @@ Pour la première élection des représentants des régions au conseil d'adminis
 
 Les réclamations, aux fins d'inscription ou de radiation, sont adressées à la commission prévue au 2° de l'article 44 du décret n° 85-644 du 26 juin 1985 modifié, au plus tard cinquante-cinq jours avant la date du scrutin. La commission statue et notifie sa décision au plus tard quarante-cinq jours avant la date du scrutin.
 
-Les listes de candidats et les déclarations individuelles de candidatures sont, au plus tard trente-cinq jours avant la date du scrutin, soit adressées sous pli recommandé avec accusé de réception, soit déposées par le candidat tête de liste ou son mandataire dûment désigné à la préfecture de la région d'Ile-de-France.
+Les listes de candidats et les déclarations individuelles de candidatures sont, au plus tard trente-cinq jours avant la date du scrutin, soit adressées sous pli recommandé avec accusé de réception, soit déposées par le candidat tête de liste ou son mandataire dûment désigné à la          préfecture de la région d'Ile-de-France, préfecture de Paris.
 
 Ces listes de candidats font l'objet, vingt-sept jours avant la date du scrutin, d'une publicité par voie d'affichage dans chaque préfecture de région.
 

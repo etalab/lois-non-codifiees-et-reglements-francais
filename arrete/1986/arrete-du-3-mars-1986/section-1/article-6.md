@@ -1,6 +1,6 @@
 # Article 6
 
-Les bulletins destinés à l'élection des représentants des maires sont de format 210 x 297 mm.
+Les bulletins destinés à l'élection des représentants des maires sont de format 210 x 297 mm [*mentions*].
 
 Sur une première ligne, chaque bulletin indique le nombre de voix auquel il donne droit (1 voix, 10 voix, 100 voix, 1000 voix).
 

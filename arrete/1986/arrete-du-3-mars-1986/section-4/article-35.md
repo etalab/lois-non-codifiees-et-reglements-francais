@@ -6,7 +6,7 @@ Les listes comportent, dans l'ordre de présentation des candidats, le nom, les 
 
 Est annexé à ces listes de candidatures l'ensemble des déclarations individuelles de candidature. Chaque déclaration individuelle doit être signée par le candidat.
 
-Au plus tard quarante jours avant la date de scrutin, ces documents sont soit adressés, sous plus recommandé avec accusé de réception, soit déposés, par le candidat tête de liste ou son mandataire dûment désigné, à la préfecture de la région d'Ile-de-France.
+Au plus tard quarante jours avant la date de scrutin, ces documents sont soit adressés, sous plus recommandé avec accusé de réception, soit déposés, par le candidat tête de liste ou son mandataire dûment désigné, à la          préfecture de la région d'Ile-de-France, préfecture de Paris.
 
 Les listes de candidats font l'objet, trente-deux jours avant la date du scrutin, d'une publicité par voie d'affichage dans chaque préfecture de région.
 

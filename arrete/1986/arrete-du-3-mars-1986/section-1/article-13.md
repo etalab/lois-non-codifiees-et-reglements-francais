@@ -1,6 +1,6 @@
 # Article 13
 
-Seront considérés comme nuls :
+Seront considérés comme nuls [*définition*] :
 
 - les bulletins parvenus après le jour du scrutin ;
 

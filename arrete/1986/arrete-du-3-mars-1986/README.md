@@ -1,4 +1,4 @@
-# Arrêté du 3 mars 1986 du 3 mars 1986 portant suspension de la formalité du carnet de ventes applicable aux personnes qui vendent des viandes à la chine et au détail ainsi qu'aux personnes qui transportent des viandes en vue de les vendre en gros sans commandes préalables.
+# Arrêté du 3 mars 1986 concernant la procédure de dédouanement à domicile à l'exportation et à l'importation
 
 - [Article 1](article-1.md)
 - [SECTION 1 : Elections aux conseils d'administration des centres régionaux de formation.](section-1)

@@ -16,7 +16,7 @@ Elle est constituée par arrêté du préfet de la région d'Ile-de-France, soix
 
 Elle reçoit les réclamations relatives aux listes électorales dont elle est saisie.
 
-Un procès-verbal est établi. Le secrétariat de la commission est assuré par la préfecture de la région d'Ile-de-France.
+Un procès-verbal est établi. Le secrétariat de la commission est assuré par la          préfecture de la région d'Ile-de-France, préfecture de Paris.
 
 Un représentant de chacune des listes peut assister aux travaux de la commission.
 
