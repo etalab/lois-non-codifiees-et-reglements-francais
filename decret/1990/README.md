@@ -49,7 +49,6 @@
 - [Décret n°90-3 du 2 janvier 1990 (INDH8901018D)](decret-n90-3-du-2-janvier-1990-indh8901018d)
 - [Décret n°90-4 du 2 janvier 1990 (AGRR8902643D)](decret-n90-4-du-2-janvier-1990-agrr8902643d)
 - [Décret n°90-5 du 2 janvier 1990 (SPSS8902551D)](decret-n90-5-du-2-janvier-1990-spss8902551d)
-- [Décret n°90-6 du 2 janvier 1990 (SPSS8902629D)](decret-n90-6-du-2-janvier-1990-spss8902629d)
 - [Décret n°90-681 du 2 août 1990 (ECOZ9000060D)](decret-n90-681-du-2-aout-1990-ecoz9000060d)
 - [Décret n°90-683 du 2 août 1990 (MAEA9020206D)](decret-n90-683-du-2-aout-1990-maea9020206d)
 - [Décret n°90-884 du 2 octobre 1990 (AGRS9002012D)](decret-n90-884-du-2-octobre-1990-agrs9002012d)
