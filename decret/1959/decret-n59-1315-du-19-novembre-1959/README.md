@@ -2,5 +2,6 @@
 
 - [Article 1](article-1.md)
 - [I - Représentation des organisations syndicales artisanales.](i)
+- [Article 1 bis](article-1-bis.md)
 - [II - Dispositions diverses et transitoires.](ii)
 - [Article 17](article-17.md)
