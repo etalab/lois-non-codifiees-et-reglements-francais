@@ -112,6 +112,7 @@
 - [Arrêté du 5 mars 1999 (ECOF9900007A)](arrete-du-5-mars-1999-ecof9900007a)
 - [Arrêté du 5 mars 1999 (MESA9920799A)](arrete-du-5-mars-1999-mesa9920799a)
 - [Arrêté du 5 octobre 1999 (EQUS9900883A)](arrete-du-5-octobre-1999-equs9900883a)
+- [Arrêté du 5 octobre 1999 (JUSD9930071A)](arrete-du-5-octobre-1999-jusd9930071a)
 - [Arrêté du 6 août 1999 (INTE9900392A)](arrete-du-6-aout-1999-inte9900392a)
 - [Arrêté du 6 août 1999 (INTE9900393A)](arrete-du-6-aout-1999-inte9900393a)
 - [Arrêté du 6 avril 1999 (AGRA9900677A)](arrete-du-6-avril-1999-agra9900677a)
