@@ -97,3 +97,4 @@
 - [Décret n°69-1274 du 31 décembre 1969](decret-n69-1274-du-31-decembre-1969)
 - [Décret n°70-288 du 31 mars 1970](decret-n70-288-du-31-mars-1970)
 - [Décret n°70-716 du 31 juillet 1970](decret-n70-716-du-31-juillet-1970)
+- [Décret n°78-501 du 31 mars 1978](decret-n78-501-du-31-mars-1978)
