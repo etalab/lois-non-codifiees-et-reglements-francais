@@ -7,3 +7,4 @@
 - [Loi n° 50-407 du 3 avril 1950](loi-n-50-407-du-3-avril-1950)
 - [Loi n° 50-728 du 24 juin 1950](loi-n-50-728-du-24-juin-1950)
 - [Loi n° 50-772 du 30 juin 1950](loi-n-50-772-du-30-juin-1950)
+- [Loi n° 59-900 du 31 juillet 1959](loi-n-59-900-du-31-juillet-1959)
