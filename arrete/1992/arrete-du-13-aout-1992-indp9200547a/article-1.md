@@ -1,16 +1,24 @@
 # Article 1
 
-I. - Les déclarations et demandes d'inscription prévues aux articles 3, 10, 11, 14 et 16 du décret du 13 août 1992 modifié susvisé sont présentées conformément aux modèles ci-annexés enregistrés par le Centre d'études et de révision des formulaires administratifs (Cerfa) (1) :
+Les déclarations et demandes d'inscription prévues aux articles R. 512-3, R. 512-15, R. 512-17, R. 513-1 et R. 513-2 du code de la propriété intellectuelle sont présentées conformément aux modèles ci-annexés enregistrés par la commission pour les simplifications administratives (COSA) :
 
-Annexe I. : Déclaration de dépôt (Cerfa n° 55-1321) ;
+- annexe 1 : déclaration de dépôt (CERFA n° 55-1321) ;
 
-I. - Les déclarations et demandes d'inscription prévues aux articles 3, 10, 11, 14 et 16 du décret du 13 août 1992 susvisé sont présentées conformément aux modèles ci-annexés enregistrés par le Centre d'études et de révision des formulaires administratifs (C.E.R.F.A.) (1) :
+- annexe 2 : déclaration de prorogation (CERFA n° 10437*01) ;
 
-Annexe I : Déclaration de dépôt (C.E.R.F.A. n° 55-1276) ;
+- annexe 3 : déclaration de renonciation (CERFA n°s 10438*02 et 11603*01) ;
 
-Annexe II : Déclaration de prorogation (C.E.R.F.A. n° 55-1278) ;    Annexe III : Déclaration de renonciation (C.E.R.F.A. n° 55-1279) ;    Annexe IV : Demande d'inscription au registre national d'un acte modifiant la propriété d'un dépôt ou la jouissance des droits qui y sont attachés (C.E.R.F.A. n° 55-1288 et 1290) ;
+- annexe 4 : demande d'inscription au registre national d'un acte affectant la propriété ou la jouissance d'un dépôt (CERFA n°s 11602*01 et 11600*01) ;
 
-Annexe V : Demande d'inscription au registre national afférente à un changement de nom, de forme juridique ou d'adresse, ou de rectification d'erreur matérielle (C.E.R.F.A. n° 55-1289 et 1290).    II. - La reproduction graphique ou photographique prévue à l'article 3 du décret du 13 août 1992 modifié susvisé est présentée sur un support conforme au modèle ci-annexé (1) :
+- annexe 5 : demande d'inscription au registre national d'une rectification, changement de nom, forme juridique ou adresse, ou correction d'erreur matérielle (CERFA n°s 11601*01 et 11600*01).
+
+La reproduction graphique ou photographique prévue à l'article R. 512-3 du code de la propriété intellectuelle est présentée sur un support conforme au modèle ci-annexé :
+
+- annexe 6 : support de reproduction (CERFA n° 55-1322).
+
+Les imprimés correspondants peuvent être obtenus gratuitement à l'Institut national de la propriété industrielle.
+
+II. - La reproduction graphique ou photographique prévue à l'article 3 du décret du 13 août 1992 modifié susvisé est présentée sur un support conforme au modèle ci-annexé (1) :
 
 Annexe VI, Support de reproduction (Cerfa n° 55-1322).
 

@@ -1,16 +1,18 @@
 # Article 1
 
-I. - Les demandes d'enregistrement ou d'inscription, déclarations et oppositions prévues aux articles 3, 13, 19, 21, 22, 26, 28 et 37 du décret n° 92-100 du 30 janvier 1992 susvisé sont présentées conformément aux modèles ci-annexés enregistrés par le Centre d'étude et de révision des formulaires administratifs (Cerfa) :
+Les demandes d'enregistrement ou d'inscription, déclarations et oppositions prévues aux articles R. 712-3, R. 712-14, R. 712-21, R. 712-24, R. 714-1, R. 714-6 et R. 717-7 du code de la propriété intellectuelle sont présentées conformément aux modèles ci-annexés enregistrés par la commission pour les simplifications administratives (COSA) :
 
-- annexe 1 : demande d'enregistrement (Cerfa n° 55-1280) ;
+- annexe 1 : demande d'enregistrement (CERFA n° 55-1280) ;
 
-- annexe 2 : opposition à enregistrement (Cerfa n° 55-1295) ;
+- annexe 2 : opposition à enregistrement (CERFA n° 10344[*02) ;
 
-- annexe 3 : déclaration de retrait ou renonciation (Cerfa n° 55-1282) ;
+- annexe 3 : déclaration de retrait ou renonciation (CERFA n°s 11604*]01 et 11603[*01) ;
 
-- annexe 4 : déclaration de renouvellement (Cerfa n° 55-1281) ;    - annexe 5 : demande d'inscription au registre national d'un acte modifiant la propriété d'un dépôt ou la jouissance des droits qui y sont attachés (Cerfa n° 55-1285 et 1287) ;
+- annexe 4 : déclaration de renouvellement (CERFA n° 11729*]01) ;
 
-- annexe 6 : demande d'inscription au registre national d'une rectification, changement de nom, forme juridique ou adresse, ou correction d'erreur matérielle (Cerfa n° 55-1286 et 1287).
+- annexe 5 : demande d'inscription au registre national d'un acte affectant la propriété ou la jouissance d'un dépôt (CERFA n°s 11602[*01 et 11600*]01) ;
+
+- annexe 6 : demande d'inscription au registre national d'une rectification, changement de nom, forme juridique ou adresse, ou correction d'erreur matérielle (CERFA n°s 11601[*01 et 11600*]01).
 
 Les imprimés correspondants peuvent être obtenus gratuitement à l'Institut national de la propriété industrielle.
 
