@@ -1,6 +1,5 @@
 # 1989
 
-- [Arrêté du 1 août 1989 (MERR8900159A)](arrete-du-1-aout-1989-merr8900159a)
 - [Arrêté du 1 avril 1989 (TEFT8903311A)](arrete-du-1-avril-1989-teft8903311a)
 - [Arrêté du 1 avril 1989 (TEFT8903327A)](arrete-du-1-avril-1989-teft8903327a)
 - [Arrêté du 1 décembre 1989 (BUDR8905054A)](arrete-du-1-decembre-1989-budr8905054a)
