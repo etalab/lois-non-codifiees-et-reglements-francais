@@ -799,7 +799,6 @@
 - [Arrêté du 23 septembre 1998 (MCCB9800695A)](arrete-du-23-septembre-1998-mccb9800695a)
 - [Arrêté du 24 août 1998 (ATEP9870305A)](arrete-du-24-aout-1998-atep9870305a)
 - [Arrêté du 24 août 1998 (DEFD9802007A)](arrete-du-24-aout-1998-defd9802007a)
-- [Arrêté du 24 août 1998 (MESP9822778A)](arrete-du-24-aout-1998-mesp9822778a)
 - [Arrêté du 24 août 1998 (MEST9810929A)](arrete-du-24-aout-1998-mest9810929a)
 - [Arrêté du 24 avril 1998 (ECOT9851682A)](arrete-du-24-avril-1998-ecot9851682a)
 - [Arrêté du 24 avril 1998 (PRMX9802967A)](arrete-du-24-avril-1998-prmx9802967a)
