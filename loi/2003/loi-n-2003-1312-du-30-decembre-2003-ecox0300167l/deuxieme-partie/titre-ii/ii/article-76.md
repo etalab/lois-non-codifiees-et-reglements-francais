@@ -4,7 +4,7 @@ A. - I. - Il est institué une taxe sur les spectacles de variétés perçue au 
 
 Les opérations financées au moyen du produit de la taxe font l'objet, dans les comptes de l'établissement, d'une comptabilité distincte.
 
-II. - Sont soumises à la taxe les représentations de spectacles de variétés lorsque le spectacle donne lieu à la perception d'un droit d'entrée ou, à défaut, à la cession ou la concession de son droit d'exploitation. Les catégories de spectacles sont définies par décret.
+II. - Sont soumises à la taxe les représentations de spectacles de variétés lorsque le spectacle donne lieu à la perception d'un droit d'entrée ou, à défaut, à la cession ou la concession de son droit d'exploitation. Les catégories de spectacles sont définies par décret. Elles ne comprennent pas les tours de chant, concerts et spectacles de musique traditionnelle.
 
 III. - Sont exonérées de la taxe les représentations de spectacles de variétés qui sont intégrées à des séances éducatives présentées dans le cadre des enseignements d'un établissement placé sous la tutelle de l'Etat ou ayant passé avec celui-ci un contrat d'association.
 
@@ -16,25 +16,15 @@ Elle est exigible à la date de la représentation.
 
 V. - Le taux de la taxe est de 3,5 %.
 
-VI. - L'entrepreneur de spectacles déclare à la Société des auteurs, compositeurs et éditeurs de musique (SACEM) ou à la Société des auteurs et compositeurs dramatiques (SACD) les droits d'entrée des spectacles relevant de leurs répertoires respectifs tels que définis dans leurs statuts, selon un formulaire conforme à un modèle de déclaration établi par le Centre national de la chanson, des variétés et du jazz, au plus tard le dernier jour du troisième mois qui suit la représentation.
+VI. - Lorsque le spectacle donne lieu à perception d'un droit d'entrée, l'entrepreneur, responsable de la billetterie, déclare au Centre national de la chanson, des variétés et du jazz les droits d'entrée qu'il a perçus selon un formulaire conforme à un modèle de déclaration établi par ce dernier, au plus tard le dernier jour du troisième mois qui suit la représentation.
 
-Toutefois, l'entrepreneur déclare, dans les mêmes conditions, directement à l'établissement public, les droits d'entrée des spectacles ne donnant pas lieu à la perception de droits d'auteur par la SACEM ou la SACD ou les sommes reçues en contrepartie de la cession ou de la concession du droit d'exploitation pour les spectacles ne donnant pas lieu à la perception d'un droit d'entrée et relevant du répertoire de la SACEM.
+Lorsque le spectacle ne donne pas lieu à perception d'un droit d'entrée, l'entrepreneur qui cède le spectacle déclare, dans les mêmes conditions de forme et de délais, auprès du Centre national de la chanson, des variétés et du jazz, les sommes qu'il a perçues en contrepartie de la cession ou de la concession du droit d'exploitation du spectacle.
 
-La SACD transmet la déclaration au Centre national de la chanson, des variétés et du jazz dans le délai d'un mois à compter de la réception de la déclaration. Il en est de même pour la SACEM lorsque les droits d'entrée sont inférieurs à 1 525 Euros.
-
-Lorsqu'il est destinataire de la déclaration adressée par l'entrepreneur, la SACD ou la SACEM, l'établissement public procède à la liquidation et adresse à l'entrepreneur dans les quinze jours de la réception de la déclaration un avis des sommes à payer.
-
-Lorsque les droits d'entrée sont supérieurs à 1 525 Euros, la SACEM procède à la liquidation de la taxe et adresse à l'entrepreneur dans les quinze jours de la réception de la déclaration un avis des sommes à payer. Lorsque le paiement de la taxe intervient le jour et sur le lieu de la représentation, la SACEM remet l'avis des sommes à payer à l'entrepreneur au vu de sa déclaration. Au vu de l'avis, l'entrepreneur adresse le paiement à la SACEM. La SACEM adresse à l'établissement les déclarations et les paiements y afférents.
-
-Les déclarations reçues hors délais par la SACEM ou la SACD sont transmises à l'établissement.
-
-Dans tous les cas, l'établissement assure le recouvrement de la taxe.
+Dans les quinze jours suivant la réception de la déclaration, le Centre national de la chanson, des variétés et du jazz procède à la liquidation de la taxe et adresse au redevable un avis des sommes à payer. Il assure le recouvrement de la taxe.
 
 La date limite de paiement est fixée au dernier jour du mois qui suit la date d'émission de cet avis.
 
 La taxe n'est pas recouvrée lorsque le montant cumulé sur l'année civile dû par le redevable est inférieur à 80 Euros.
-
-Le Centre national de la chanson, des variétés et du jazz acquitte à la SACEM et à la SACD un versement représentatif des frais de gestion dont le montant toutes taxes comprises est fixé par arrêté conjoint du ministre chargé du budget et du ministre chargé de la culture dans la limite de 5 % du produit de la taxe.
 
 VII. - En cas de retard de paiement de la taxe, le Centre national de la chanson, des variétés et du jazz adresse au redevable, par courrier recommandé avec accusé de réception, une lettre de rappel motivée l'informant que le montant de la taxe est majoré de 10 %. A défaut de paiement trente jours après la date de réception de cette lettre par le redevable, un titre exécutoire est émis par le directeur du centre national à l'encontre du redevable dans le respect des règles de contrôle économique et financier de l'Etat.
 
