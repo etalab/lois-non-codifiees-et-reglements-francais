@@ -14,4 +14,4 @@ Sont chargés de constater les infractions aux dispositions législatives ou ré
 
 Ces fonctionnaires et agents ont notamment accès aux lieux de chargement et de déchargement des véhicules et aux lieux d'emballage et de remplissage dans les entreprises soumises à l'obligation de désigner un conseiller à la sécurité. Ils peuvent procéder à des contrôles, dans les entreprises, des registres et autres documents afférents au transport, au chargement, à l'emballage et au remplissage de matières dangereuses.
 
-Les procès-verbaux établis en application du présent article font foi jusqu'à preuve du contraire ; ils sont dispensés de l'affirmation.
+Les procès-verbaux établis en application du présent article font foi jusqu'à preuve du contraire.

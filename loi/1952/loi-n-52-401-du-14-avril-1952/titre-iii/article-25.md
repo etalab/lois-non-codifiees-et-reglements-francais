@@ -12,8 +12,6 @@ d) Par les fonctionnaires et agents assermentés du service des enquêtes écono
 
 Ces fonctionnaires et agents ont droit de visiter la cargaison et ont accès aux lieux de chargement et de déchargement des véhicules tant ferroviaires que routiers.
 
-Les procès-verbaux sont dispensés de l'affirmation.
-
 Les contrôleurs des transports terrestres peuvent également constater les infractions de faux et d'usage de faux prévues par le code pénal portant sur des titres administratifs de transport.
 
 II. - Est puni d'un an d'emprisonnement et de 15 000 euros d'amende :
