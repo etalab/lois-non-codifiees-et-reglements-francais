@@ -1,65 +1,23 @@
 # Article 7
 
-La durée et le coefficient des épreuves sont fixés comme suit :
+Les coefficients des épreuves sont fixés comme suit :
 
-NATURE DE L'EPREUVE :
+" 1. Droit général 2
 
-1. Droit général
+"" 2. Gestion commerciale et financière de l'entreprise :
 
-TEMPS accordé (en minutes) : 10
+" - questionnaires à choix multiples 1
 
-COEFFICIENT : 2
+"   " - exercices à réponses rédigées 6
 
-NATURE DE L'EPREUVE :
+"" 3. Réglementation sociale 3
 
-2. Gestion commerciale et financière
+"" 4. Réglementation des services routiers de transport de personnes 3
 
-TEMPS accordé (en minutes) : 25
+"" 5. Normes et exploitation techniques 1
 
-COEFFICIENT : 7
+"" 6. Sécurité 2
 
-NATURE DE L'EPREUVE :
+"" 7. Transport international 2
 
-3. Réglementation sociale
-
-TEMPS accordé (en minutes) : 15
-
-COEFFICIENT : 3
-
-NATURE DE L'EPREUVE :
-
-4. Réglementation des services routiers de transport de personnes
-
-TEMPS accordé (en minutes) : 15
-
-COEFFICIENT : 3
-
-NATURE DE L'EPREUVE :
-
-5. Normes et exploitation
-
-TEMPS accordé (en minutes) : 10
-
-COEFFICIENT : 1
-
-NATURE DE L'EPREUVE :
-
-6. Sécurité
-
-TEMPS accordé (en minutes) : 15
-
-COEFFICIENT : 2
-
-NATURE DE L'EPREUVE :
-
-7. Transport international
-
-TEMPS accordé (en minutes) : 15
-
-COEFFICIENT : 2
-
-Total de la durée des interrogations (en minutes) : 105
-
-Total des coefficients : 20.
-
-La durée et le coefficient des épreuves entreront en vigueur au 1er juillet 1988.
+"                  " Total des coefficients 20

@@ -1,6 +1,6 @@
 # Article 4
 
-Le préfet, commissaire de la République de région, peut soumettre les dossiers qui lui sont adressés à l'avis d'une commission consultative régionale composée en nombre égal :
+Le préfet de région peut soumettre les dossiers qui lui sont adressés à l'avis d'une commission consultative régionale composée en nombre égal :
 
 a) De représentants du ministre chargé des transports, dont le président ;
 
@@ -12,4 +12,4 @@ Les commissions comprennent également des membres suppléants, à raison d'un p
 
 Les membres suppléants ne peuvent siéger que lorsqu'ils remplacent les membres titulaires.
 
-Les membres des commissions sont nommés pour trois ans par arrêté du commissaire de la République de région, sur proposition des administrations et organisations concernées.
+Les membres des commissions sont nommés pour trois ans par arrêté du préfet de région, sur proposition des administrations et organisations concernées.

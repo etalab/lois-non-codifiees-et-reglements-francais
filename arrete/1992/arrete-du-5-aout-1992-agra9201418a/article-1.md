@@ -1,0 +1,3 @@
+# Article 1
+
+Les redevances perçues auprès des personnes physiques ou morales     autres que l'Etat à l'occasion des études, analyses, diagnostics et de     certifications phytosanitaires par les agents des services régionaux de la     protection des végétaux sont déterminées en fonction du coût des opérations     de contrôle ou de diagnostic propres à chaque catégorie de produits végétaux     et en tenant compte des exigences de l'échantillonnage. Elles sont calculées     à partir d'un taux fixe de base N pour chaque acte d'analyse, diagnostic ou     certification majoré d'une redevance à taux variable selon la nature des     examens à pratiquer et en fonction de la quantité d'échantillons de produits     végétaux examinés ou analysés.

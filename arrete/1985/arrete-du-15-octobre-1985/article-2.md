@@ -90,6 +90,8 @@ Eléments de droit commercial, social et civil dont la connaissance est nécessa
 
 - les normes pour l'entretien des véhicules.
 
+" - les principes applicables en matière de protection de l'environnement et concernant l'utilisation et l'entretien des véhicules. "
+
 6. Sécurité :
 
 - les dispositions législatives, réglementaires et administratives applicables en matière de circulation ;

@@ -1,0 +1,7 @@
+# Article 41
+
+Peuvent être placés en position de détachement dans le corps des professeurs, dans la limite, fixée à l'article 39 ci-dessus, de 10 p. 100 de l'effectif budgétaire et sous réserve qu'ils soient titulaires dans leur corps d'origine depuis trois années au moins, les professeurs des universités régis par le décret du 6 juin 1984 précité, les fonctionnaires appartenant au corps des directeurs de recherches relevant du décret du 30 décembre 1983 mentionné au premier alinéa de l'article 24 ci-dessus ou à un corps assimilé à celui des professeurs par arrêté du ministre chargé de l'agriculture.
+
+Le ministre chargé de l'agriculture désigne le ou les emplois à pourvoir par détachement sur proposition d'une commission des directeurs des établissements d'enseignement supérieur relevant de ce ministre, siégeant dans des conditions qu'il fixe par arrêté. Cette commission examine les demandes présentées par chaque directeur, accompagnées de l'avis du conseil des enseignants.
+
+Toute demande de détachement fait l'objet d'un avis formulé par une commission constituée, dans chaque établissement, de membres du conseil des enseignants désignés par ce dernier parmi les professeurs et assimilés. Cet avis est communiqué à la ou aux sections compétentes de la Commission nationale des enseignants-chercheurs également restreintes aux professeurs et assimilés. Le détachement est prononcé par le ministre chargé de l'agriculture après avis des instances précitées.

@@ -1,0 +1,3 @@
+# Article 69
+
+A titre transitoire et pendant une période de huit années à compter de la date d'effet du présent décret, les assistants et maîtres-assistants associés nommés en application des dispositions du décret du 4 mars 1977 susvisé, en fonctions à la même date et remplissant les conditions prévues à l'article 20 ci-dessus peuvent être recrutés suivant les modalités prévues aux articles 22 et 23 ci-dessus, par concours qui leur sont réservés, en qualité de maîtres de conférences, dans la limite des emplois créés à cet effet par les lois de finances, s'ils comptent au moins quatre années d'ancienneté en l'une ou l'autre de ces qualités.

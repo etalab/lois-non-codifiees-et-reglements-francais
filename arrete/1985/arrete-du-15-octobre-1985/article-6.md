@@ -1,5 +1,11 @@
 # Article 6
 
-Les épreuves de l'examen correspondant aux matières prévues à l'article 2 ci-dessus sont orales.
+Les épreuves de l'examen correspondant aux matières prévues à l'article 2 ci-dessus donnent lieu à des questionnaires à choix multiples.
 
-L'épreuve de gestion commerciale et financière de l'entreprise peut donner lieu en outre à un exercice pratique portant sur les tarifs et dispositions tarifaires.
+" L'épreuve de gestion commerciale et financière de l'entreprise donne également lieu à questions ou exercices exigeant une réponse rédigée.
+
+" Les épreuves donnant lieu à des questionnaires à choix multiples comportent au moins dix et au plus vingt questions par matière, sans que le nombre total des questions pour l'ensemble de ces épreuves n'excède 100.
+
+" La durée totale des épreuves est fixée à quatre heures.
+
+" Les sujets des épreuves sont arrêtés par le président du jury d'examen. "

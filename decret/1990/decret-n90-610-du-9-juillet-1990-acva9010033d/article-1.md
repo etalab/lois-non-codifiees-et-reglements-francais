@@ -1,15 +1,13 @@
 # Article 1
 
-Les fonctionnaires titulaires et stagiaires énumérés ci-après, en activité à l'Institution nationale des invalides, perçoivent l'indemnité horaire pour travail normal de nuit prévue à l'article 1er du décret du 10 mai 1961 modifié susvisé :
+L'indemnité horaire pour travail normal de nuit prévue à l'article 1er du décret du 10 mai 1961 modifié susvisé, lorsqu'ils assurent totalement ou partiellement leur service normal dans le cadre de la durée hebdomadaire de travail entre vingt et une heures et six heures, est attribuée aux fonctionnaires titulaires et stagiaires, régis par les décrets énumérés ci-après :
 
-1° Surveillant-chef ;
+- décret n° 90-360 du 23 avril 1990 modifié portant statuts particuliers de certains personnels hospitaliers de l'Institution nationale des invalides ;
 
-2° Surveillant ;
+- décret n° 92-452 du 20 mai 1992 portant statut particulier des surveillants-chefs des services médicaux de l'Institution nationale des invalides ;
 
-3° Infirmier de classe supérieure ;
+- décret n° 92-453 du 20 mai 1992 portant statut particulier des techniciens paramédicaux de l'Institution nationale des invalides ;
 
-4° Infirmier de classe normale ;
+- décret n° 92-454 du 20 mai 1992 portant statut particulier du corps des aides-soignants de l'Institution nationale des invalides ;
 
-5° Aide-soignant,
-
-lorsqu'ils assurent totalement ou partiellement leur service normal dans le cadre de la durée hebdomadaire de travail entre vingt et une heures et six heures.
+- décret n° 92-455 du 20 mai 1992 portant statuts particuliers de certains personnels hospitaliers de l'Institution nationale des invalides et portant statuts particuliers des agents des services hospitaliers qualifiés et des agents des services hospitaliers de l'Institution nationale des invalides.

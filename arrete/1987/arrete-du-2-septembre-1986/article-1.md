@@ -1,6 +1,6 @@
 # Article 1
 
-L'examen auquel est subordonnée la délivrance de l'attestation de capacité, prévu à l'article 6 b du décret du 14 mars 1986 susvisé doit permettre d'établir que le candidat à l'examen d'attestation de capacité pour le transport routier de marchandises et de location de véhicules industriels possède une bonne connaissance des matières du programme suivant :
+L'examen auquel est subordonnée la délivrance de l'attestation de capacité, prévu au paragraphe 2° b de l'article 7 du décret du 14 mars 1986 susvisé doit permettre d'établir que le candidat à l'examen d'attestation de capacité pour le transport routier de marchandises et de location de véhicules industriels possède une bonne connaissance des matières du programme suivant :
 
 1 - Droit
 
@@ -82,7 +82,9 @@ t, contrats types ...).
 
 La réception et l'immatriculation.
 
-Chargement et déchargement des véhicules.
+Chargement et déchargement des véhicules.    " - les transports de denrées alimentaires ;
+
+" - les principes applicables en matière de protection de l'environnement et concernant l'utilisation et l'entretien des véhicules. "
 
 6 - Sécurité
 

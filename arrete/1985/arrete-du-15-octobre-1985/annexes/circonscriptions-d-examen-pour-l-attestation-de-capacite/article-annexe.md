@@ -10,7 +10,7 @@ DEPARTEMENTS COMPRIS DANS LA CIRCONSCRIPTION :
 
 Nord, Pas-de-Calais, Somme, Aisne, Oise (1).
 
-CENTRE D'EXAMEN : Lille.
+SIEGES DU JURY D'EXAMEN : Lille.
 
 DESIGNATION DES CIRCONSCRIPTIONS :
 
@@ -22,7 +22,7 @@ DEPARTEMENTS COMPRIS DANS LA CIRCONSCRIPTION :
 
 Paris, Hauts-de-Seine, Seine-Saint-Denis, Val-de-Marne, Seine-et-Marne, Yvelines, Essonne, Val-d'Oise, Seine-Maritime, Eure, Calvados, Manche, Orne.
 
-CENTRE D'EXAMEN : Paris.
+SIEGES DU JURY D'EXAMEN : Paris.
 
 DESIGNATION DES CIRCONSCRIPTIONS :
 
@@ -34,7 +34,7 @@ DEPARTEMENTS COMPRIS DANS LA CIRCONSCRIPTION :
 
 Charente, Charente-Maritime, Cher, Côtes-du-Nord, Eure-et-Loir, Finistère, Ille-et-Vilaine, Indre, Indre-et-Loire, Loir-et-Cher, Loire-Atlantique, Loiret, Maine-et-Loire, Mayenne, Morbihan, Sarthe, Deux-Sèvres, Vendée, Vienne.
 
-CENTRE D'EXAMEN : Nantes.
+SIEGES DU JURY D'EXAMEN : Nantes.
 
 DESIGNATION DES CIRCONSCRIPTIONS :
 
@@ -46,7 +46,7 @@ DEPARTEMENTS COMPRIS DANS LA CIRCONSCRIPTION :
 
 Ardennes, Aube, Côte-d'Or, Doubs, Jura, Marne, Haute-Marne, Meurthe-et-Moselle, Meuse, Moselle, Nièvre, Bas-Rhin, Haut-Rhin, Haute-Saône, Saône-et-Loire, territoire de Belfort, Vosges, Yonne.
 
-CENTRE D'EXAMEN : Metz.
+SIEGES DU JURY D'EXAMEN : Metz.
 
 DESIGNATION DES CIRCONSCRIPTIONS :
 
@@ -58,7 +58,7 @@ DEPARTEMENTS COMPRIS DANS LA CIRCONSCRIPTION :
 
 Ariège, Aveyron, Corrèze, Creuse, Dordogne, Haute-Garonne, Gers, Gironde, Landes, Lot, Lot-et-Garonne, Hautes-Pyrénées, Pyrénées-Atlantiques, Tarn, Tarn-et-Garonne, Haute-Vienne.
 
-CENTRE D'EXAMEN : Toulouse.
+SIEGES DU JURY D'EXAMEN : Toulouse.
 
 DESIGNATION DES CIRCONSCRIPTIONS :
 
@@ -70,7 +70,7 @@ DEPARTEMENTS COMPRIS DANS LA CIRCONSCRIPTION :
 
 Ain, Allier, Ardèche, Cantal, Drôme, Isère, Loire, Haute-Loire, Puy-de-Dôme, Rhône, Savoie, Haute-Savoie.
 
-CENTRE D'EXAMEN : Lyon.
+SIEGES DU JURY D'EXAMEN : Lyon.
 
 DESIGNATION DES CIRCONSCRIPTIONS :
 
@@ -82,7 +82,7 @@ DEPARTEMENTS COMPRIS DANS LA CIRCONSCRIPTION :
 
 Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Aude, Bouches-du-Rhône, Gard, Hérault, Lozère, Pyrénées-Orientales, Var, Vaucluse, Haute-Corse et Corse-du-Sud.
 
-CENTRE D'EXAMEN : Marseille.
+SIEGES DU JURY D'EXAMEN : Marseille.
 
 DESIGNATION DES CIRCONSCRIPTIONS :
 
@@ -94,7 +94,7 @@ DEPARTEMENTS COMPRIS DANS LA CIRCONSCRIPTION :
 
 La Réunion.
 
-CENTRE D'EXAMEN : Saint-Denis.
+SIEGES DU JURY D'EXAMEN : Saint-Denis.
 
 DESIGNATION DES CIRCONSCRIPTIONS :
 
@@ -106,6 +106,6 @@ DEPARTEMENTS COMPRIS DANS LA CIRCONSCRIPTION :
 
 Guadeloupe, Martinique, Guyane.
 
-CENTRE D'EXAMEN : Centre itinérant pour les trois départements.
+SIEGES DU JURY D'EXAMEN : Basse-Terre, Fort-de-Franc, Cayenne, en alternance.
 
 (1) L'administration pourra affecter des candidats de l'Oise au centre d'examen de Paris.

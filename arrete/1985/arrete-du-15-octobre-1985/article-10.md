@@ -1,3 +1,3 @@
 # Article 10
 
-Les dispositions du présent arrêté sont applicables jusqu'au 31 décembre 1987.
+Le préfet de région visé à l'article 5 ci-dessus délivre l'attestation de capacité professionnelle aux candidats déclarés reçus. "
