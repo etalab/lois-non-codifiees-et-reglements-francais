@@ -6,7 +6,7 @@ Les formules combinées englobent l'ensemble des paris "quarté plus" combinant 
 
 a) Le parieur peut n'engager chaque combinaison de quatre chevaux parmi sa sélection que dans un ordre relatif stipulé.
 
-Si le parieur sélectionne K chevaux, la formule correspondante dénommée  "formule simplifiée" englobe :
+Si le parieur sélectionne K chevaux, la formule correspondante dénommée "formule simplifiée" englobe :
 
 K x (K - 1) x (K - 2) x (K - 3) / 24 paris "quarté plus"
 
@@ -64,4 +64,4 @@ Dans ce dernier cas, le parieur doit préciser en outre la place à l'arrivée d
 
 i) Les valeurs des formules "champ total" d'un, de deux ou de trois chevaux de base sont déterminées dès qu'est connu le nombre des chevaux déclarés partants. Ces valeurs ne peuvent plus être modifiées, même si, avant le départ de la course, certains chevaux sont retirés.
 
-j) Ceux des paris englobés dans la formule qui comportent un ou plusieurs chevaux n'ayant pas participé à la course sont traités selon les dispositions de l'article 86-4, paragraphe I, relatif aux chevaux non partants.
+j) Ceux des paris englobés dans la formule qui comportent un ou plusieurs chevaux n'ayant pas participé à la course sont traités selon les dispositions de l'article 86-4 relatif aux chevaux non partants.

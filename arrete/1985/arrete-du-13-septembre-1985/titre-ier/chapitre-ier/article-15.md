@@ -4,7 +4,7 @@ L'enregistrement d'un pari entraîne la remise au parieur, après versement de s
 
 Les enjeux sont réglés en espèces et au comptant ou par débit d'un compte.
 
-Les paris enregistrés au pari mutuel urbain par téléphone, par Minitel ou par correspondance ne donnent pas lieu à la remise d'un récépissé.
+Les paris enregistrés au pari mutuel urbain par téléphone, par Minitel ne donnent pas lieu à la remise d'un récépissé.
 
 Pour être valable, le récépissé doit comporter une référence ou un code permettant d'identifier : la journée, le numéro de l'épreuve, les numéros des chevaux composant le pari, le type de pari, le montant de l'enjeu et pour les paris de combinaison, le type de formule.
 

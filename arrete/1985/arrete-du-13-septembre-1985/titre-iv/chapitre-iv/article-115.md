@@ -39,3 +39,17 @@ En conséquence, n'est pas opposable par le parieur aux services du pari mutuel 
 Les paris seront traités et exécutés par les services centralisateurs du pari mutuel conformément aux éléments d'identification imprimés sur la bande journal. Tout pari ne figurant pas sur la bande journal ou tout récépissé dont les éléments d'identification seraient différents de ceux imprimés sur cette bande sera considéré comme sans valeur.
 
 Dans le cas où pour quelque raison que ce soit la bande journal ne parviendrait pas aux services centraliseurs du pari mutuel ou viendrait à disparaître, tout récépissé comportant des éléments d'identification d'un pari qui n'a pas été centralisé et traité ou tout récépissé comportant des éléments d'identification d'un pari différent de celui centralisé et traité, ne pourra donner lieu à paiement.
+
+4. Formulaires 3 paris
+
+Les formulaires dénommés "formulaires 3 paris" permettent aux parieurs d'engager, à la fois, un pari Tiercé unitaire, un pari Quarté Plus unitaire et un pari Quinté Plus unitaire en désignant dans un ordre préférentiel cinq chevaux inscrits au programme.
+
+Le "formulaire 3 paris" comprend alors un pari Quinté Plus composé des cinq chevaux désignés, un pari Quarté Plus composé des quatre premiers chevaux désignés et un pari Tiercé composé des trois premiers chevaux désignés.
+
+Chacun de ces paris est traité en application des règles énoncées au titre II du présent règlement.
+
+Les formulaires dénommés "formulaires 3 paris" permettent aux parieurs d'engager, à la fois, un pari Tiercé unitaire, un pari Quarté Plus unitaire et un pari Quinté Plus unitaire en désignant dans un ordre préférentiel cinq chevaux inscrits au programme.
+
+Le "formulaire 3 paris" comprend alors un pari Quinté Plus composé des cinq chevaux désignés, un pari Quarté Plus composé des quatre premiers chevaux désignés et un pari Tiercé composé des trois premiers chevaux désignés.
+
+Chacun de ces paris est traité en application des règles énoncées au titre II du présent règlement.

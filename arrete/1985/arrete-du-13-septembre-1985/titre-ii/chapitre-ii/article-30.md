@@ -6,4 +6,4 @@ Toutefois, les parieurs ont la faculté d'indiquer, pour chaque pari, s'ils dés
 
 L'enjeu initial, de même que le report d'un gain ou d'un remboursement, ne peuvent dépasser un montant égal à 1 000 fois le minimum d'enjeu, toute somme non reportée étant définitivement acquise au parieur.
 
-Ces paris sont acceptés exclusivement dans les points d'enregistrement du pari mutuel urbain.
+Ces paris sont acceptés exclusivement dans les Points P.M.U..

@@ -16,4 +16,4 @@ En cas de liaison téléphonique défectueuse rendant l'audition incertaine, le 
 
 Le montant des gains ou remboursements relatifs à chacun des ordres transmis par le parieur sont portés au crédit de son compte, après la publication des rapports et au plus tôt à la fin de chaque réunion pour les paris transmis à l'agence par téléphone du matin et après chaque course pour tes paris transmis à l'agence par téléphone course par course.
 
-Le titulaire d'un compte courant ne peut retirer tout ou partie des sommes dont il est créditeur à la fin d'une réunion déterminée qu'à partir du lendemain de cette réunion. Le règlement des sommes demandées est fait par chèque ou mandat, les frais postaux étant débités du compte.
+Le titulaire d'un compte courant ne peut retirer tout ou partie des sommes dont il est créditeur à la fin d'une réunion déterminée qu'à partir du lendemain de cette réunion. Le règlement des sommes demandées est fait par chèque, les frais postaux étant débités du compte.
