@@ -95,6 +95,7 @@
 - [Décret n°90-128 du 9 février 1990 (INTA9000029D)](decret-n90-128-du-9-fevrier-1990-inta9000029d)
 - [Décret n°90-129 du 9 février 1990 (INTA9000030D)](decret-n90-129-du-9-fevrier-1990-inta9000030d)
 - [Décret n°93-1001 du 9 août 1993 (DOMP9300022D)](decret-n93-1001-du-9-aout-1993-domp9300022d)
+- [Décret n°2001-33 du 10 janvier 2001 (EQUP0000730D)](decret-n2001-33-du-10-janvier-2001-equp0000730d)
 - [Décret n°2001-617 du 10 juillet 2001 (JUSF0150006D)](decret-n2001-617-du-10-juillet-2001-jusf0150006d)
 - [Décret n°2001-620 du 10 juillet 2001 (MESN0101216D)](decret-n2001-620-du-10-juillet-2001-mesn0101216d)
 - [Décret n°2001-1174 du 11 décembre 2001 (MENF0102414D)](decret-n2001-1174-du-11-decembre-2001-menf0102414d)
