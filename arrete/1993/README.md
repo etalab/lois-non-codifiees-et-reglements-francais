@@ -33,7 +33,6 @@
 - [Arrêté du 2 février 1993 (BUDD9350001A)](arrete-du-2-fevrier-1993-budd9350001a)
 - [Arrêté du 2 février 1993 (BUDJ9300001A)](arrete-du-2-fevrier-1993-budj9300001a)
 - [Arrêté du 2 février 1993 (ECOC9200162A)](arrete-du-2-fevrier-1993-ecoc9200162a)
-- [Arrêté du 2 février 1993 (ENVR9320041A)](arrete-du-2-fevrier-1993-envr9320041a)
 - [Arrêté du 2 juillet 1993 (MENL9305237A)](arrete-du-2-juillet-1993-menl9305237a)
 - [Arrêté du 2 juin 1993 (ECOS9350016A)](arrete-du-2-juin-1993-ecos9350016a)
 - [Arrêté du 2 juin 1993 (ECOT9216180A)](arrete-du-2-juin-1993-ecot9216180a)
