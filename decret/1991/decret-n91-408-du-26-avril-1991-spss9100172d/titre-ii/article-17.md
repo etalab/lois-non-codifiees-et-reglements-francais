@@ -1,0 +1,3 @@
+# Article 17
+
+Les conjoints survivants des personnes bénéficiant ou susceptibles de bénéficier d'un avantage de droit direct en application des articles 4 à 6, 10, 12 et 14 et décédées postérieurement au 31 décembre 1990 ont droit, le cas échéant, à l'allocation de veuvage visée au chapitre VI du titre V du livre III du code de la sécurité sociale, dans les conditions d'ouverture de droit et de service et au taux définis audit chapitre, lorsqu'ils sont âgés de moins de cinquante-cinq ans et ne peuvent bénéficier de l'avantage de réversion visé au premier alinéa de l'article 7 et sous réserve que cette allocation ne puisse être attribuée au titre d'une période d'affiliation ou assimilée à l'assurance veuvage.
