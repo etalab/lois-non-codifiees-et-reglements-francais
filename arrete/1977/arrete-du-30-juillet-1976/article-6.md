@@ -12,4 +12,8 @@ Soit par la reproduction sur l'enveloppe de conditionnement de l'estampille C.E.
 
 b) Pour les carcasses non emballées individuellement par l'apposition d'une estampille-plaquette C.E.E. ;
 
-c) Pour les emballages globaux contenant des carcasses ou des abats, marqués conformément aux dispositions des points a et b du présent article par l'apposition d'une étiquette C.E.E. fixée de telle sorte qu'elle soit détruite lors de l'ouverture de l'emballage.
+c) Pour les emballages globaux contenant des carcasses ou des abats, marqués conformément aux dispositions des points a et b du présent article :
+
+- par l'apposition d'une étiquette C.E.E. fixée de telle sorte qu'elle soit détruite lors de l'ouverture de l'emballage ;
+
+- par l'apposition d'une étiquette C.E.E. fixée sur un emballage scellé de telle sorte qu'il ne puisse être réutilisé une fois ouvert.

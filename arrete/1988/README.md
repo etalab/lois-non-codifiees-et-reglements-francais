@@ -116,6 +116,7 @@
 - [Arrêté du 6 juillet 1988 (ECOT8820076A)](arrete-du-6-juillet-1988-ecot8820076a)
 - [Arrêté du 6 juin 1988 (INTD8800230A)](arrete-du-6-juin-1988-intd8800230a)
 - [Arrêté du 6 juin 1988 (MENL8800868A)](arrete-du-6-juin-1988-menl8800868a)
+- [Arrêté du 6 septembre 1988 (ECOT8810031A)](arrete-du-6-septembre-1988-ecot8810031a)
 - [Arrêté du 6 mai 1988 (AGRG8800875A)](arrete-du-6-mai-1988-agrg8800875a)
 - [Arrêté du 6 mai 1988 (AGRR8800914A)](arrete-du-6-mai-1988-agrr8800914a)
 - [Arrêté du 6 mai 1988 (ASES8800537A)](arrete-du-6-mai-1988-ases8800537a)
