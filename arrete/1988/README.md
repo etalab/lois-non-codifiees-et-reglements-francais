@@ -699,7 +699,6 @@
 - [Arrêté du 31 décembre 1987 (AGRS8800020A)](arrete-du-31-decembre-1987-agrs8800020a)
 - [Arrêté du 31 décembre 1987 (ASES8800014A)](arrete-du-31-decembre-1987-ases8800014a)
 - [Arrêté du 31 décembre 1987 (ASES8800015A)](arrete-du-31-decembre-1987-ases8800015a)
-- [Arrêté du 31 décembre 1987 (BUDD8770010A)](arrete-du-31-decembre-1987-budd8770010a)
 - [Arrêté du 31 décembre 1987 (INTB8700429A)](arrete-du-31-decembre-1987-intb8700429a)
 - [Arrêté du 31 décembre 1987 (INTB8800075A)](arrete-du-31-decembre-1987-intb8800075a)
 - [Arrêté du 31 décembre 1987 (INTD8700428A)](arrete-du-31-decembre-1987-intd8700428a)
