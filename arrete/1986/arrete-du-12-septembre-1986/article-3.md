@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur général de l'Institut national de la santé et de la recherche médicale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 19 novembre 1974 portant désignation de fonctionnaires pour l'application de certaines clauses de documents contractuels liant l'Etat et les sociétés agréées pour le financement des télécommunications est abrogé.

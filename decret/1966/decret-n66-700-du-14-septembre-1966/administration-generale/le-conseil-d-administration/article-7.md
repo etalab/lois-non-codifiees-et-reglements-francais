@@ -6,4 +6,4 @@ La convocation est en outre obligatoire dans le mois de la demande qui en est fa
 
 Le président arrête l'ordre du jour.
 
-Le directeur, le contrôleur financier et l'agent comptable participent aux travaux du conseil d'administration avec voix consultative. Le directeur peut se faire assister de toute personne de son choix [*fonctionnement*].
+Le directeur, le commissaire du gouvernement, le contrôleur financier et l'agent comptable participent aux travaux du conseil d'administration avec voix consultative. Le directeur peut se faire assister de toute personne de son choix [*fonctionnement*].

@@ -1,21 +1,7 @@
 # Article 1
 
-Il est créé à l'Institut national de la santé et de la recherche médicale neuf commissions scientifiques spécialisées, à savoir :
+Pour la liquidation des sommes dues aux sociétés agréées pour le financement des télécommunications, en application des dispositions contractuelles qui règlent les rapports entre l'Etat et lesdites sociétés, les différents paramètres dont l'utilisation est prévue par les textes contractuels et qui ne peuvent être lus directement dans ceux-ci sont constatés par les fonctionnaires désignés ci-après :
 
-Commission n° 1 : cancérologie et hématologie moléculaires et cellulaires, biologie moléculaire du gène, génétique et cytogénétique ;
+- le directeur de la production à la direction générale des télécommunications ;
 
-Commission n° 2 : interface chimie - biologie, pharmacologie fondamentale et clinique, toxicologie, nutrition ;
-
-Commission n° 3 : immunologie, immunopathologie, maladies transmissibles, microbiologie ;
-
-Commission n° 4 : endocrinologie, reproduction, développement ;
-
-Commission n° 5 : systèmes cardiovasculaire, respiratoire et musculaire, hémostase, athérome ;
-
-Commission n° 6 : système nerveux, organes des sens, psychiatrie ;
-
-Commission n° 7 : gastro-entérologie, hépatologie, néphrologie et urologie, système ostéo-articulaire, odontologie, dermatologie, traumatologie ;
-
-Commission n° 8 : épidémiologie, santé publique, sciences sociales, environnement, toxicomanie ;
-
-Commission n° 9 : interface physique - biologie, technologies médicales et chirurgicales : imagerie, informatique, génie biologique et médical.
+- le directeur des programmes et des affaires financières à la direction générale des télécommunications.
