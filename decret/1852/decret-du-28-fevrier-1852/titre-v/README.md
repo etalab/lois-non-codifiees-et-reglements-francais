@@ -5,4 +5,5 @@
 - [Article 44 bis](article-44-bis.md)
 - [Article 45](article-45.md)
 - [Article 46](article-46.md)
+- [Article 48](article-48.md)
 - [Article 49](article-49.md)
