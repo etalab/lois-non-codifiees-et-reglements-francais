@@ -1,29 +1,15 @@
 # Article 7
 
-Les aliments destinés à la nutrition des animaux et auxquels aurait été autorisée en application de l'article 4 l'incorporation des additifs énumérés ci-après doivent porter, pour chacun de ces additifs, sur leur emballage ou sur une étiquette faisant corps avec l'emballage, les indications suivantes rédigées en langue française :
+I. - Les personnes qui fabriquent en vue de la vente et celles qui font commerce des additifs mentionnés au cinquième alinéa de l'article 4, ainsi que des prémélanges ou aliments contenant ces additifs, adressent au préfet du département de leur domicile ou de leur siège social une déclaration signalant que leur activité porte sur ces produits. Cette déclaration indique le nom ou la raison sociale du déclarant, son adresse ou celle de son siège social, ainsi que celle du ou des lieux de fabrication, et les produits ou substances dont il s'agit.
 
-a) Antibiotiques : nature, teneur et date limite de garantie de la teneur ;
+Les personnes effectuant, à la date de publication du présent décret, les opérations définies à l'alinéa précédent doivent faire cette déclaration dans le délai de trois mois à compter de cette date.
 
-b) Substances ayant des effets antioxygènes : nature ;
+Un récépissé de déclaration comportant un numéro d'enregistrement est remis aux intéressés.
 
-c) Coccidiostatiques et autres substances médicamenteuses :
+II. - Les personnes effectuant les opérations visées au I du présent article tiennent en outre un registre sur lequel sont portées les indications suivantes :
 
-nature, teneur et conditions d'emploi ;
+a) Pour les additifs : la nature et la quantité des additifs produits ainsi que leur date de fabrication, les noms et adresses des utilisateurs ou intermédiaires auxquels les additifs ont été livrés, complétés de l'indication de la nature et de la quantité des additifs délivrés ;
 
-d) Matières colorantes, y compris les pigments : nature ;
+b) Pour les prémélanges : la nature et la quantité des additifs utilisés, les noms de leur fabricant ou fournisseur, les noms et adresses des utilisateurs ou intermédiaires auxquels les prémélanges ont été livrés, complétés de l'indication de la nature, de la quantité et de la date de fabrication des prémélanges délivrés ;
 
-e) Vitamines A, D et E : nature, teneur et date limite de garantie de la teneur ;
-
-f) Cuivre : teneur exprimée en poids de cuivre pur lorsqu'elle dépasse 50 parties par million ;
-
-g) Autres additifs : nature et teneur.
-
-Dans le cas où les marchandises sont vendues en vrac, ces indications doivent, à défaut d'étiquetage, être portées sur un document qui accompagne la marchandise elle-même.
-
-Lorsque les aliments pour animaux contiennent des oligo-éléments, des vitamines autres que les vitamines A, D et E, des provitamines et des substances actives analogues, la présence de ces additifs peut être mentionnée dans les conditions ci-après sur l'étiquetage, dans la mesure où ces additifs sont dosables selon les méthodes d'analyses officielles. Dans ce cas, l'étiquetage doit porter les indications suivantes :
-
-a) Pour les oligo-éléments : nature et teneur ;
-
-b) Pour les autres substances : nature, teneur et date limite d'utilisation.
-
-Toute mention relative à des additifs autres que ceux qui sont visés dans le présent article est interdite.
+c) Pour les aliments composés : la nature et la quantité des prémélanges utilisés ainsi que l'usage qui en a été fait, le nom et l'adresse de leur fabricant ou de leur fournisseur.
