@@ -34,7 +34,6 @@
 - [Décret n°77-151 du 7 février 1977](decret-n77-151-du-7-fevrier-1977)
 - [Décret n°77-219 du 7 mars 1977](decret-n77-219-du-7-mars-1977)
 - [Décret n°77-220 du 7 mars 1977](decret-n77-220-du-7-mars-1977)
-- [Décret n°77-45 du 7 janvier 1977](decret-n77-45-du-7-janvier-1977)
 - [Décret n°77-605 du 7 juin 1977](decret-n77-605-du-7-juin-1977)
 - [Décret n°77-738 du 7 juillet 1977](decret-n77-738-du-7-juillet-1977)
 - [Décret n°77-759 du 7 juillet 1977](decret-n77-759-du-7-juillet-1977)
