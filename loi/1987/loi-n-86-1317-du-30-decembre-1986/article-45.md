@@ -50,9 +50,13 @@ Elle est due lors de la délivrance de l'autorisation.
 
 II. - Les frais exceptionnels occasionnés par le brouillage d'une fréquence radioélectrique régulièrement utilisée ou par la non-conformité des installations visées au I du présent article donnent lieu au paiement d'une taxe forfaitaire d'un montant de 1 000 F par intervention ; cette taxe est due par la personne responsable.
 
-III. - L'acquisition de postes émetteurs-récepteurs fonctionnant sur les canaux banalisés, dits postes C.B., est soumise au paiement d'une taxe forfaitaire de 250 F.
+III. - Les livraisons en France de postes émetteurs-récepteurs fonctionnant sur les canaux banalisés, dits postes C.B., sont soumises au paiement d'une taxe forfaitaire de 250 F.
 
 Ne sont pas assujettis à cette taxe les postes C.B. ayant au maximum 40 canaux, fonctionnant exclusivement en modulation angulaire avec une puissance en crête de modulation de 4 watts maximum.
+
+La taxe est due par les fabricants, les importateurs ou les personnes qui effectuent des acquisitions intracommunautaires au sens du 3° du I de l'article 256 bis du code général des impôts à raison des opérations visées au premier alinéa qu'ils réalisent.
+
+La taxe est constatée, recouvrée et contrôlée selon les mêmes procédures et sous les mêmes sanctions, garanties et privilèges que la taxe sur la valeur ajoutée. Les réclamations sont présentées, instruites et jugées selon les règles applicables à cette même taxe.
 
 IV. - A. - Les droits d'examen pour l'obtention du certificat de radiotélégraphiste, du certificat de radiotéléphoniste ou du certificat comportant la double mention, lorsque les épreuves des deux examens sont subies en même temps, sont fixés à 200 F pour les examens et à la même somme pour la délivrance de ce ou ces certificats aux titulaires d'une attestation militaire de capacité d'opérateur radioamateur.
 
@@ -76,4 +80,4 @@ V. - L'agrément des équipements terminaux, des installations radioélectriques
 
 2° La demande d'admission des installateurs en télécommunications et en radiocommunications, prévue à l'article L. 34-9 du code des postes et télécommunications, donne lieu à la perception d'une taxe de constitution de dossier d'un montant de 1 000 F par dossier déposé.
 
-VI. - Le recouvrement et le contentieux des taxes visées au présent article sont suivis par les comptables du Trésor selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.
+VI. Sauf en ce qui concerne la taxe forfaitaire prévue au premier alinéa du III, le recouvrement et le contentieux des taxes visées au présent article sont suivis par les comptables du Trésor selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.
