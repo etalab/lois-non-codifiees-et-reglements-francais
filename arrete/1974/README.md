@@ -24,7 +24,6 @@
 - [Arrêté du 10 avril 1974](arrete-du-10-avril-1974)
 - [Arrêté du 10 décembre 1973](arrete-du-10-decembre-1973)
 - [Arrêté du 10 janvier 1974](arrete-du-10-janvier-1974)
-- [Arrêté du 10 octobre 1974](arrete-du-10-octobre-1974)
 - [Arrêté du 13 février 1974](arrete-du-13-fevrier-1974)
 - [Arrêté du 14 mai 1974](arrete-du-14-mai-1974)
 - [Arrêté du 15 juillet 1974](arrete-du-15-juillet-1974)

@@ -1,3 +1,0 @@
-# CLASSIFICATION DETAILLEE DES SIEGES DES LESIONS
-
-- [Article ANNEXE 1](article-annexe-1.md)
