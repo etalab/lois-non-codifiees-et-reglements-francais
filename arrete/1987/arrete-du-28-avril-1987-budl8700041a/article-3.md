@@ -1,5 +1,9 @@
 # Article 3
 
-Les informations traitées sont collectées par les services des impôts ou extraites des déclarations d'impôt sur le revenu souscrites par les contribuables.
+Les fonctions de ce traitement sont les suivantes :
 
-Les informations relatives aux changements d'adresse peuvent être également fournies par les services de la comptabilité publique.
+mise à la disposition des services de la direction générale des impôts des informations de recoupement ;
+
+recherche des titulaires de revenus non retrouvés au fichier des déclarants;
+
+rapprochement des informations de recoupement avec les éléments déclarés.
