@@ -14,6 +14,7 @@
 - [50. Pasteurelloses](50-pasteurelloses)
 - [51. Rouget du porc (Erysipéloïde de Baker-Rosenbach)](51-rouget-du-porc-erysipeloide-de-baker-rosenbach)
 - [52. Ornithose-psittacose](52-ornithose-psittacose)
+- [52. Psittacose](52-psittacose)
 - [6° Brucelloses](6-brucelloses)
 - [7° Tularémie](7-tularemie)
 - [8° Sulfocarbonisme professionnel](8-sulfocarbonisme-professionnel)

@@ -1,29 +1,23 @@
 # Article Tableau 44
 
-DÉSIGNATION DES MALADIES
+DESIGNATION DES MALADIES :
 
 Lésions eczématiformes récidivant après nouvelle exposition au risque ou confirmées par un test épicutané positif au produit manipulé
 
-DÉLAI de prise en charge
+DELAI de prise en charge : 15 jours
 
-15 jours
+TRAVAUX SUSCEPTIBLES DE PROVOQUER CES MALADIES :
 
-DÉSIGNATION DES MALADIES
+Manipulation ou emploi habituels, dans l'activité professionnelle, de tous produits.
+
+DESIGNATION DES MALADIES :
 
 Conjonctivite aiguë bilatérale récidivant en cas de nouvelle exposition ou confirmée par un test
 
-DÉLAI de prise en charge
+DELAI de prise en charge : 7 jours
 
-7 jours
+DESIGNATION DES MALADIES :
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX
+Urticaire de contact récidivant en cas de nouvelle exposition et confirmé par un test
 
-susceptibles de provoquer ces maladies
-
-Manipulation ou emploi habituels, dans l'activité professionnelle, de tous produits, et notamment :
-
-- les aminoglycosides, dont la streptomycine, la néomycine et leurs sels ;
-
-- les pénicillines, leurs sels, les céphalosporines et les produits en renfermant ;
-
-- les colles, mastics, vernis et peintures à base de résines époxydiques.
+DELAI de prise en charge : 7 jours

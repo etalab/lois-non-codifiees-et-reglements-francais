@@ -18,7 +18,7 @@ Travaux de ramonage et d'entretien de chaudières et de cheminées exposant aux 
 
 DÉSIGNATION DES MALADIES
 
-B. - Cancer broncho-pulmonaire primitif reconnu en relation avec les goudrons de houille, les huiles de houille, les brais de houille et les suies de combustion du charbon.
+B. - Cancer broncho-pulmonaire primitif.
 
 DÉLAI de prise en charge
 

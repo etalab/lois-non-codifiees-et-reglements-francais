@@ -1,43 +1,57 @@
 # Article Tableau 47
 
-DESIGNATION DES MALADIES
+DESIGNATION DES MALADIES :
 
-A - Asbestose :
+A. - Asbestose : fibrose pulmonaire diagnostiquée sur des signes radiologiques spécifiques, qu'il y ait ou non des modifications des explorations fonctionnelles respiratoires.
 
-- fibrose pulmonaire diagnostiquée sur des signes radiologiques spécifiques qu'il y ait ou non des modifications des explorations fonctionnelles respiratoires.
+Complications : insuffisance respiratoire aiguë, insuffisance ventriculaire droite
 
-Complications :
+DELAI de prise en charge : 20 ans
 
-- insuffisance respiratoire aiguë, insuffisance ventriculaire droite.
+DESIGNATION DES MALADIES :
 
-DELAI de prise en charge : 10 ans.
+B. - Lésions pleurales bénignes, avec ou sans modifications des explorations fonctionnelles respiratoires :
 
-B - Lésions pleurales bénignes, avec ou sans modifications des explorations fonctionnelles respiratoires :
+- pleurésie exsudative ;
 
-- pleurésie exsudative ;    - plaques pleurales plus ou moins calcifiées bilatérales, pariétales, diaphragmatiques ou médiastinales ;
+- plaques pleurales plus ou moins calcifiées bilatérales, pariétales, diaphragmatiques ou médiastinales ;
 
 - plaques péricardiques ;
 
-- épaississement pleuraux bilatéraux, avec ou sans irrégularités diaphragmatiques.
+- épaississements pleuraux bilatéraux, avec ou sans irrégularités diaphragmatiques
 
-DELAI de prise en charge : 10 ans.
+DELAI de prise en charge : 20 ans
 
-C - Mésothéliome malin primitif de la plèvre, du péritoine, du péricarde, quand la relation avec l'amiante est médicalement caractérisée
+DESIGNATION DES MALADIES :
 
-DELAI de prise en charge : 15 ans
+C. - Dégénérescence maligne broncho-pulmonaire compliquant les lésions parenchymateuses et pleurales bénignes ci-dessus mentionnées
 
-D - Autres fumeurs pleurales primitives quand la relation avec l'amiante est médicalement caractérisée :
+DELAI de prise en charge : 35 ans
 
-DELAI de prise en charge : 15 ans
+DESIGNATION DES MALADIES :
 
-E - Cancers broncho-pulmonaires primitifs quand la relation avec l'amiante est médicalement caractérisée
+D. - Mésothéliome malin primitif de la plèvre, du péritoine, du péricarde
 
-DELAI de prise en charge : 15 ans
+DELAI de prise en charge : 40 ans
 
-LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
+DESIGNATION DES MALADIES :
 
-Travaux exposant à l'inhalation de poussière d'amiante, notamment :
+E. - Autres tumeurs pleurales primitives
 
-- manipulation, application, destruction et élimination de produits d'amiante ou à base d'amiante : amiante projetée ; calorifugeage au moyen de produits d'amiante ;
+DELAI de prise en charge : 40 ans
 
-- maintenance et entretien de matériels, démolition, déflocage.
+LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies :
+
+Travaux exposant à l'inhalation de poussières d'amiante notamment :
+
+Travaux d'équipement, d'entretien ou de maintenance effectués sur des matériels ou dans des locaux et annexes revêtus ou contenant des matériaux à base d'amiante.
+
+Application, destruction et élimination de produits à base d'amiante :
+
+- amiante projeté ;
+
+- calorifugeage au moyen de produits contenant de l'amiante ;
+
+- démolition d'appareils et de matériaux contenant de l'amiante, déflocage.
+
+Travaux de pose et de dépose de calorifugeage contenant de l'amiante.

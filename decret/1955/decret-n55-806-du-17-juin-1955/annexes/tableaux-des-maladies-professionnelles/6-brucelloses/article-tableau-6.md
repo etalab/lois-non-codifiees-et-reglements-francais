@@ -56,7 +56,7 @@ DELAI de prise en charge : 1 an.
 
 L'origine brucellienne des manifestations aiguës ou subaiguës est démontrée par l'isolement du germe, ou par les résultats combinés de deux réactions sérologiques utilisées par l'Organisation mondiale de la santé (O.M.S.) quel que soit leur taux.
 
-Les manifestations chroniques de la brucellose doivent être associées à une positivité de l'intra-dermo réaction pratiquée avec un allergène brucellien, avec ou sans réaction sérologique positive.
+Les manifestations chroniques de la brucellose doivent être associées à la constatation actuelle ou antérieure d'une réaction sérologique positive.
 
 LISTE LIMITATIVE DES TRAVAUX susceptibles de provoquer ces maladies:
 

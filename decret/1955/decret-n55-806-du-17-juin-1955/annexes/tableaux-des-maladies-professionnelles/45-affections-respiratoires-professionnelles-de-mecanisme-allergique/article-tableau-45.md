@@ -2,7 +2,7 @@
 
 DESIGNATION DES MALADIES
 
-A. Rhinite, asthme ou dyspnée asthmatiforme, confirmés par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
+A. Rhinite, asthme ou dyspnée asthmatiforme, confirmé par tests ou par épreuves fonctionnelles, récidivant après nouvelle exposition
 
 DELAI de prise en charge : 7 jours    LISTE INDICATIVE DES PRINCIPAUX TRAVAUX susceptibles de provoquer ces maladies
 
