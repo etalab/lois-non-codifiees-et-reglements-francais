@@ -11,6 +11,7 @@
 - [Arrêté du 1 décembre 1992 (ACVP9220022A)](arrete-du-1-decembre-1992-acvp9220022a)
 - [Arrêté du 1 décembre 1992 (DEFP9201960A)](arrete-du-1-decembre-1992-defp9201960a)
 - [Arrêté du 1 décembre 1992 (DEFP9202119A)](arrete-du-1-decembre-1992-defp9202119a)
+- [Arrêté du 1 décembre 1992 (ECOK9200069A)](arrete-du-1-decembre-1992-ecok9200069a)
 - [Arrêté du 1 décembre 1992 (INDM9200964A)](arrete-du-1-decembre-1992-indm9200964a)
 - [Arrêté du 1 décembre 1992 (INDM9200965A)](arrete-du-1-decembre-1992-indm9200965a)
 - [Arrêté du 1 décembre 1992 (INDM9200966A)](arrete-du-1-decembre-1992-indm9200966a)
