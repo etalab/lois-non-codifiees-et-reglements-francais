@@ -1,0 +1,9 @@
+# Article 1
+
+Le ministre chargé de l'emploi ou le préfet peuvent, en application du VII de l'article 3 de la loi du 13 juin 1998 susvisée, conclure des conventions d'appui et de conseil à la réduction et à la réorganisation du temps de travail avec les entreprises de moins de 500 salariés et le consultant choisi par l'entreprise. Les conventions définissent le contenu de l'appui et du conseil et déterminent la participation de l'Etat à leur financement.
+
+L'appui et le conseil sont destinés à l'ensemble des acteurs de l'entreprise dans le respect des responsabilités de chacun. Ils reposent sur une approche intégrée de l'organisation du travail, prenant en compte les différents enjeux relatifs à l'emploi, à la performance globale de l'entreprise, aux conditions de vie et de travail. L'Agence nationale pour l'amélioration des conditions de travail et ses actions régionales peuvent assurer une partie de ces prestations.
+
+Le préfet de région est chargé de l'animation du dispositif d'appui et de conseil. Il peut conclure, en tant que de besoin avec la participation de la région, des conventions avec les actions régionales de l'Agence nationale pour l'amélioration des conditions de travail et avec des réseaux professionnels qui souhaitent participer aux actions d'animation et de capitalisation liées à la mise en oeuvre de l'aménagement et de la réduction du temps de travail dans les entreprises.
+
+En outre, le ministre chargé de l'emploi peut conclure des conventions au titre du Fonds pour l'amélioration des conditions de travail avec les organisations professionnelles, selon les modalités prévues par arrêté conjoint du ministre chargé du travail et du ministre chargé du budget, en vue de faciliter le développement de la négociation sur la réduction et la réorganisation du temps de travail dans la branche, notamment par des actions d'appui méthodologique, d'études préalables, de suivi et de diffusion de démarches conduites en son sein.
