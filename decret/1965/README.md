@@ -1,6 +1,7 @@
 # 1965
 
 - [Décret n°65-414 du 1 juin 1965](decret-n65-414-du-1-juin-1965)
+- [Décret n°65-422 du 1 juin 1965](decret-n65-422-du-1-juin-1965)
 - [Décret n°65-97 du 4 février 1965](decret-n65-97-du-4-fevrier-1965)
 - [Décret n°65-2 du 5 janvier 1965](decret-n65-2-du-5-janvier-1965)
 - [Décret n°65-268 du 5 avril 1965](decret-n65-268-du-5-avril-1965)
