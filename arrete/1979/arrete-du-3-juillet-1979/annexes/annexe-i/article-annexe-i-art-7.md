@@ -1,6 +1,4 @@
-# Article 7
-
-**7. Réalisation des mesures**.
+# Article ANNEXE I ART. 7
 
 7.1. Mesure de la qualité acoustique du site de mesure.
 
@@ -62,7 +60,7 @@ Pour des raisons de protection de l'environnement, il convient de connaître la 
 
 7.3.1. Détection d'un bruit à caractère impulsionnel.
 
-La comparaison des indications d'un sonomètre de précision à réponse "lente" et d'un sonomètre de précision pour impulsions en position "impuls" (norme Afnor NF S 31-009 de décembre 1981) permet de déterminer si le bruit est de caractère impulsionnel. Comme indication du caractère impulsionnel du bruit, on prend, suivant la présente méthode, la différence entre les niveaux de pression acoustique moyennée quadratiquement dans les temps relevés avec le sonomètre, d'une part, en position "lente" et, d'autre part, en position "impuls". Le niveau de pression acoustique mesuré en position "impuls" est dénommé "niveau de pression acoustique impulsionnel".
+La comparaison des indications d'un sonomètre de précision à réponse "lente" et d'un sonomètre de précision pour impulsions en position "impuls" (publication C.E.I. 179, A/1973) permet de déterminer si le bruit est de caractère impulsionnel. Comme indication du caractère impulsionnel du bruit, on prend, suivant la présente méthode, la différence entre les niveaux de pression acoustique moyennée quadratiquement dans les temps relevés avec le sonomètre, d'une part, en position "lente" et, d'autre part, en position "impuls". Le niveau de pression acoustique mesuré en position "impuls" est dénommé "niveau de pression acoustique impulsionnel".
 
 Ces déterminations sont effectuées en l'un des points de mesure prescrits.
 
