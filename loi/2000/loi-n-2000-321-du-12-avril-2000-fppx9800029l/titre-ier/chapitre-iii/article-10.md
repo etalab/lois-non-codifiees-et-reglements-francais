@@ -4,7 +4,7 @@ Les budgets et les comptes des autorités administratives mentionnées à l'arti
 
 La communication de ces documents peut être obtenue tant auprès de l'autorité administrative concernée que de celles qui les détiennent.
 
-L'autorité administrative qui attribue une subvention doit, lorsque cette subvention dépasse un seuil défini par décret, conclure une convention avec l'organisme de droit privé qui en bénéficie, définissant l'objet, le montant et les conditions d'utilisation de la subvention attribuée.
+L'autorité administrative qui attribue une subvention doit, lorsque cette subvention dépasse un seuil défini par décret, conclure une convention avec l'organisme de droit privé qui en bénéficie, définissant l'objet, le montant et les conditions d'utilisation de la subvention attribuée. Cette disposition ne s'applique pas aux organismes qui bénéficient de subventions pour l'amélioration, la construction, l'acquisition et l'amélioration des logements locatifs sociaux prévues au livre III du code de la construction et de l'habitation.
 
 Lorsque la subvention est affectée à une dépense déterminée, l'organisme de droit privé bénéficiaire doit produire un compte rendu financier qui atteste de la conformité des dépenses effectuées à l'objet de la subvention. Le compte rendu financier est déposé auprès de l'autorité administrative qui a versé la subvention dans les six mois suivant la fin de l'exercice pour lequel elle a été attribuée.
 
