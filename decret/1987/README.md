@@ -260,6 +260,7 @@
 - [Décret n°87-41 du 28 janvier 1987](decret-n87-41-du-28-janvier-1987)
 - [Décret n°87-42 du 28 janvier 1987 (MERE8700002D)](decret-n87-42-du-28-janvier-1987-mere8700002d)
 - [Décret n°87-607 du 28 juillet 1987](decret-n87-607-du-28-juillet-1987)
+- [Décret n°87-635 du 28 juillet 1987 (ENVP8700012D)](decret-n87-635-du-28-juillet-1987-envp8700012d)
 - [Décret n°87-728 du 28 août 1987 (FPPA8700026D)](decret-n87-728-du-28-aout-1987-fppa8700026d)
 - [Décret du 29 décembre 1986](decret-du-29-decembre-1986)
 - [Décret n°86-1361 du 29 décembre 1986](decret-n86-1361-du-29-decembre-1986)
