@@ -2,7 +2,7 @@
 
 L'assemblée permanente des chambres de métiers se réunit au moins une fois par an en assemblée générale.
 
-Chaque chambre de métiers désigne parmi ses membres un suppléant appelé à remplacer son président à l'assemblée permanente en cas d'empêchement.
+Chacun des établissements qui font partie de l'assemblée permanente des chambres de métiers désigne parmi ses membres un suppléant, appelé à remplacer son président dans cette assemblée en cas d'empêchement.
 
 Des assemblées générales extraordinaires pour l'étude de questions importantes ou urgentes peuvent être convoquées soit à l'initiative du président, soit à la demande du ministre chargé de l'artisanat ou de la moitié des membres composant l'assemblée permanente.
 
