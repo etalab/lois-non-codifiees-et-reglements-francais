@@ -1,3 +1,3 @@
 # Article 9
 
-Le directeur de la qualité et de la sécurité industrielle est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le présent arrêté sera publié au Journal officiel de la République française.

@@ -1,4 +1,4 @@
-# Arrêté du 17 février 1986 relatif à la répartition des cotisations complémentaires de l'assurance maladie des exploitants agricoles pour l'année 1985
+# Arrêté du 17 février 1986 relatif à l'enrichissement du vocabulaire de l'urbanisme et du logement.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,3 +8,4 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
+- [Annexes](annexes)
