@@ -6,6 +6,6 @@ a) De l'éducation physique et des sports ;
 
 b) Des mouvements de jeunesse et des activités socio-éduca­tives ;
 
-c) Des colonies de vacances et œuvres de plein air ;
+c) Des colonies de vacances, des œuvres de plein air, des activités de loisir social et de l'éducation populaire ;
 
-d) D toutes les activités se rattachant aux catégories définies ci-dessus.
+d) De toutes les activités se rattachant aux catégories définies ci-dessus.
