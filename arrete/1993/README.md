@@ -736,7 +736,6 @@
 - [Arrêté du 22 octobre 1993 (INDP9320525A)](arrete-du-22-octobre-1993-indp9320525a)
 - [Arrêté du 22 octobre 1993 (MAEF9310026A)](arrete-du-22-octobre-1993-maef9310026a)
 - [Arrêté du 22 septembre 1993 (ACVC9300029A)](arrete-du-22-septembre-1993-acvc9300029a)
-- [Arrêté du 22 septembre 1993 (SANP9302908A)](arrete-du-22-septembre-1993-sanp9302908a)
 - [Arrêté du 23 août 1993 (DEFD9301904A)](arrete-du-23-aout-1993-defd9301904a)
 - [Arrêté du 23 avril 1993 (AGRU9300699A)](arrete-du-23-avril-1993-agru9300699a)
 - [Arrêté du 23 avril 1993 (BUDD9340006A)](arrete-du-23-avril-1993-budd9340006a)

@@ -1,3 +1,0 @@
-# Article Annexe
-
-Les bonnes pratiques de prélèvement constituent le premier règlement élaboré par l'Agence française du sang et homologué par le ministre chargé de la santé au titre de l'article L. 668-3 de la loi n° 93-5 du 4 janvier 1993. En effet, la sécurité transfusionnelle passe tout d'abord par celle du prélèvement. Les bonnes pratiques de prélèvement ont pour but la mise en place de règles et de recommandations qui s'intégreront dans un ensemble général de bonnes pratiques des établissements de transfusion sanguine. Elles seront, par ailleurs, régulièrement révisées en fonction de l'évolution des connaissances et des techniques.
