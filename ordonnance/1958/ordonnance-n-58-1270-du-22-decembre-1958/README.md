@@ -2,7 +2,6 @@
 
 - [Chapitre I : Dispositions générales.](chapitre-i)
 - [Chapitre I bis : Du collège des magistrats.](chapitre-i-bis)
-- [Chapitre II : De la formation professionnelle des magistrats](chapitre-ii)
 - [Chapitre III : Des magistrats des premier et second grades](chapitre-iii)
 - [Chapitre IV : De la commission d'avancement.](chapitre-iv)
 - [Chapitre IV bis : De la commission consultative du parquet.](chapitre-iv-bis)
