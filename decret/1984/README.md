@@ -75,6 +75,7 @@
 - [Décret n°83-1111 du 19 décembre 1983](decret-n83-1111-du-19-decembre-1983)
 - [Décret n°83-1256 du 20 décembre 1983](decret-n83-1256-du-20-decembre-1983)
 - [Décret n°84-133 du 20 février 1984](decret-n84-133-du-20-fevrier-1984)
+- [Décret n°84-295 du 20 avril 1984](decret-n84-295-du-20-avril-1984)
 - [Décret n°83-929 du 21 octobre 1983](decret-n83-929-du-21-octobre-1983)
 - [Décret n°84-121 du 22 février 1984](decret-n84-121-du-22-fevrier-1984)
 - [Décret n°84-124 du 22 février 1984](decret-n84-124-du-22-fevrier-1984)

@@ -1,4 +1,4 @@
-# Arrêté du 20 avril 1984 RELATIF A LA PRISE EN CHARGE PAR L'ETAT DES ALLOCATIONS DUES AUX BENEFICIAIRES DES CONTRATS DE SOLIDARITE ET DES CONVENTIONS D'ALLOCATION SPECIALE DU FONDS NATIONAL DE L'EMPLOI.
+# Arrêté du 20 avril 1984 relatif à l'autorisation de l'émission de deux emprunts par le Crédit national
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

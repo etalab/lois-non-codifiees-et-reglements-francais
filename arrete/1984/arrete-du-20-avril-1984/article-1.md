@@ -1,3 +1,7 @@
 # Article 1
 
-A compter du 1er avril 1984, pour les bénéficiaires des contrats de solidarité et des conventions d'allocations spéciales du Fonds national de l'emploi conclus avant cette date, l'Etat prend en charge sur la base des dispositions réglementaires et conventionnelles en vigueur le 31 mars 1984, la part du revenu de remplacement garanti aux intéressés, précédemment financée par le régime interprofessionnel de garantie de ressources aux travailleurs privés d'emploi [*financement*].
+Le crédit national est autorisé à émettre deux emprunts obligataires :
+
+Un de 1.500.000.000 de francs au taux de 13,80 p. 100.
+
+Un de 1.500.000.000 de francs à taux variable.

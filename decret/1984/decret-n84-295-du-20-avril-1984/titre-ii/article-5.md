@@ -1,0 +1,5 @@
+# Article 5
+
+Pour les bénéficiaires des conventions d'allocation spéciale du Fonds national de l'emploi, le versement de la ressource garantie est interrompu lorsque, à partir de leur soixantième anniversaire [*âge limite*], ils justifient de 150 trimestres validés au sens de l'article L. 331 du code de la sécurité sociale [*nombre d'annuités*].
+
+Toutefois, celles de ces personnes qui ne peuvent percevoir qu'une pension de vieillesse au taux plein calculée sur une durée de cotisation inférieure à 150 trimestre continuent de percevoir une fraction de l'allocation spéciale jusqu'à la date à laquelle elles peuvent faire liquider au taux plein l'ensemble des pensions auxquelles elles peuvent prétendre. Cette fraction est égale à la différence entre 150 et le nombre de trimestres validés au sens de l'article L. 331 du code de la sécurité sociale, dans les régimes de base accordant la retraite à taux plein à l'âge des intéressés divisée par 150. La période pendant laquelle cette fraction d'allocation est servie n'est pas prise en considération pour l'ouverture des droits à pension.
