@@ -1,0 +1,11 @@
+# Article 2
+
+a) L'importation des denrées animales ou d'origine animale visées à l'article 1er est subordonnée à une inspection sanitaire et qualitative favorable, effectuée dans un bureau de douane ouvert aux opérations de l'espèce, et à la présentation des documents requis par la réglementation en vigueur.
+
+Les bureaux de douane sont ouverts aux inspections et contrôles des denrées animales ou d'origine animale par arrêté des ministres concernés, en fonction de l'importance du trafic annuel de ces denrées, de la qualité des locaux et équipements nécessaires à la bonne pratique des inspections, et des possibilités d'affectation du personnel vétérinaire chargé des contrôles.
+
+Avec l'accord des chefs des administrations concernées, les inspections et contrôles des denrées animales ou d'origine animale destinées à la consommation et en provenance des seuls Etats membres de la C.E.E. pourront être pratiqués dans l'établissement de destination de ces denrées, dans la mesure où cet établissement disposera des locaux et équipements nécessaires et de la présence d'un personnel des services vétérinaires permanent, et bénéficiera de la procédure de dédouanement à domicile.
+
+b) Sont par ailleurs dispensés de l'inspection sanitaire et qualitative ainsi que de la présentation du certificat de salubrité, les suifs, graisses et saindoux susceptibles d'être utilisés pour la consommation humaine ou des animaux de compagnie soit en nature, soit après un traitement approprié, mais qui sont destinés à un autre usage. Les marchandises de l'espèce doivent toutefois être accompagnées d'un certificat, délivré par les services vétérinaires du pays d'origine, attestant qu'elles ont été soumises à une dénaturation qui les rend impropres à la consommation.
+
+En l'absence de ce certificat, les envois seront acheminés jusqu'à destination sous le régime de l'acquit à caution : celui-ci ne pourra être déchargé que sur présentation de l'attestation écrite d'un vétérinaire désigné par le directeur des services vétérinaires du département dans lequel se trouve l'établissement destinataire, certifiant que la dénaturation a été réalisée ou que les suifs, graisses et saindoux ont été utilisés à d'autres fins que la consommation humaine ou des animaux de compagnie.
