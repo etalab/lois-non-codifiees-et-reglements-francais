@@ -1,3 +1,9 @@
 # Article 7
 
-Pour les personnes déjà titulaires d'un avantage de vieillesse, la révision des droits prend effet au plus tôt à compter du premier jour du mois suivant la date de publication au Journal officiel du décret n° 74-572 du 22 mai 1974 [*1er juin 1974*], compte tenu des périodes rachetées, antérieures à la date d'effet de la liquidation et dans la limite du maximum de trimestres susceptibles d'être pris en compte à cette date d'entrée en jouissance initiale.
+La demande de rachat [*de cotisations*] formulée par les personnes déjà titulaires d'un avantage de vieillesse doit porter sur la totalité des périodes antérieures à la date d'entrée en jouissance initiale de cet avantage.
+
+Toutefois, la demande de rachat peut être limitée à une partie de ces périodes dans les conditions prévues à l'article 2.
+
+L'avantage de vieillesse est révisé, avec effet, au plus tôt, du premier jour du mois suivant la publication au Journal officiel du décret n° 82-1030 du 3 décembre 1982 [*ancienne référence :
+
+n° 80-959 du 27 novembre 1980*], compte tenu des périodes validées au titre du rachat, dans la limite du maximum de trimestres susceptibles d'être pris en compte à la date d'entrée en jouissance initiale de cet avantage [*date, point de départ*].
