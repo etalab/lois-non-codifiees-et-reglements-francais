@@ -6,19 +6,19 @@ La liste des substances visées à l'article 1er est la suivante :
 
 Traitement interdit pendant les 15 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Azinphos-méthyl - liquide (max. : 40 %) ; poudre mouillable (max. : 40 %).
 
 Traitement interdit pendant les 15 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Carbophénothion - liquide (max. : 20 %) ; poudre mouillable (max. : 20 %).
 
 Traitement interdit pendant les 15 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Déméton-méthyl - liquide (max. : 50 %).
 
@@ -26,7 +26,7 @@ Traitement interdit sur toute culture légumière.
 
 Traitement interdit pour les autres cultures pendant les 21 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Déméton-S-méthyl - liquide (max. : 25 %).
 
@@ -34,7 +34,7 @@ Traitement interdit sur toute culture légumière.
 
 Traitement interdit pour les autres cultures pendant les 21 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Diazinon - liquide (max. : 25 %) ; poudre mouillable
 
@@ -42,7 +42,7 @@ Traitement interdit sur végétaux en pleine floraison.
 
 Traitement interdit pour l'olivier pendant les 21 jours précédant le premier ramassage des olives, pour les autres cultures pendant les 15 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Diéthion - liquide (max. : 50 %) ; poudre mouillable
 
@@ -64,7 +64,7 @@ Traitement interdit sur les cultures légumières pendant les 15 jours précéda
 
 Traitement interdit pour l'olivier pendant les 21 jours précédant le premier ramassage des olives, pour les autres cultures pendant les 7 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Dioxathion - liquide (max. : 20 %) ; poudre mouillable (max. :
 
@@ -72,7 +72,7 @@ Traitement interdit sur végétaux en pleine floraison.
 
 Traitement interdit pendant les 15 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Disulfoton - granulés (max. : 5 %).
 
@@ -92,7 +92,7 @@ Traitement interdit sur les cultures légumières pendant les 15 jours précéda
 
 Traitement interdit pour les autres cultures pendant les 21 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Endrine - liquide (max. : 20 %).
 
@@ -102,7 +102,7 @@ Traitement interdit sur toute culture, sauf cultures tropicales. Traitement inte
 
 (max. : 25 %) ; poudre pour poudrage (max. 3 %).
 
-Traitement interdit pendant les 15 jours précédant la récolte. Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit pendant les 15 jours précédant la récolte. Traitement interdit sur végétaux pendant la floraison.
 
 - Fenthion - liquide (max. : 25 %) ; poudre mouillable
 
@@ -110,7 +110,7 @@ Traitement interdit pendant les 15 jours précédant la récolte. Traitement int
 
 Traitement interdit pour l'olivier pendant les 21 jours précédant le premier ramassage des olives, pour les autres cultures pendant les 15 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Formothion - liquide (max. : 50 %) ; poudre mouillable
 
@@ -120,11 +120,7 @@ Traitement interdit sur toute culture légumière.
 
 Traitement interdit pour les autres cultures pendant les 7 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
-
-- HEOD (Abrogé par art. 3, arr. 2 oct. 1972).
-
-- HHDN (Abrogé par art. 3, arr. 2 oct. 1972).
+Traitement interdit sur végétaux pendant la floraison.
 
 - Isolane - liquide (max. : 10 %) ; poudre mouillable
 
@@ -132,21 +128,21 @@ Traitement interdit sur végétaux en pleine floraison.
 
 Traitement interdit pendant les 15 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la  floraison.
 
 - Malathion - liquide (max. : 90 %) ; poudre mouillable
 
 (max. : 90 %) ; poudre pour poudrage (max. : 5 %).
 
-Traitement interdit pendant les 7 jours précédant la récolte. Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit pendant les 7 jours précédant la récolte. Traitement interdit sur végétaux pendant la floraison.
 
 - Mevinphos - liquide (max. : 10 %).
 
-Traitement interdit pendant les 7 jours précédant la récolte. Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit pendant les 7 jours précédant la récolte. Traitement interdit sur végétaux pendant la floraison.
 
 - Nichlorphos - liquide (max. : 90 %).
 
-Traitement interdit pendant les 15 jours précédant la récolte. Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit pendant les 15 jours précédant la récolte. Traitement interdit sur végétaux pendant la floraison.
 
 - Oxydéméton - liquide (max. : 25 %).
 
@@ -154,7 +150,7 @@ Traitement interdit sur toute culture légumière.
 
 Traitement interdit pour les autres cultures pendant les 21 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Parathion - liquide (max. : 10 %) ; poudre mouillable
 
@@ -162,7 +158,7 @@ Traitement interdit sur végétaux en pleine floraison.
 
 Traitement interdit pendant les 15 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Parathion-méthyl - liquide (max. : 40 %) ; poudre mouillable
 
@@ -170,7 +166,7 @@ Traitement interdit sur végétaux en pleine floraison.
 
 Traitement interdit pendant les 15 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Phenkapton - liquide (max. : 90 %) ; poudre mouillable
 
@@ -184,7 +180,7 @@ Traitement interdit sur toute culture légumière.
 
 Traitement interdit pour les autres cultures pendant les 21 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Prothoate - liquide (max. : 10 %) ; poudre mouillable
 
@@ -192,7 +188,7 @@ Traitement interdit sur végétaux en pleine floraison.
 
 Traitement interdit pendant les 15 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Sulfotep - produit pour fumigation (max. : 20 %).
 
@@ -206,7 +202,7 @@ Période d'interdiction : 10 jours avant récolte.
 
 - Traitement interdit pendant les 7 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.
 
 - Vamidothion - liquide (max. : 50 %).
 
@@ -214,4 +210,4 @@ Traitement interdit sur toute culture légumière.
 
 Traitement interdit pour les autres cultures pendant les 30 jours précédant la récolte.
 
-Traitement interdit sur végétaux en pleine floraison.
+Traitement interdit sur végétaux pendant la floraison.

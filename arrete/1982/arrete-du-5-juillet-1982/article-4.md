@@ -1,5 +1,3 @@
 # Article 4
 
-Les travaux correspondant aux dépenses dont la liste figure en annexe IV du présent arrêté, ayant pour objet la réalisation d'économies d'énergie, l'utilisation d'énergies et de techniques nouvelles, ainsi que l'isolation acoustique du logement peuvent être retenus quelle que soit la date d'achèvement de l'immeuble.
-
-Les travaux d'occultation de la lumière naturelle, dès lors qu'ils sont réalisés sur des logements occupés par des travailleurs appelés à travailler la nuit peuvent être également financés quelle que soit la date d'achèvement de l'immeuble.
+Les substances visées à l'article 3 ne peuvent être délivrées en nature et doivent être mélangées à des matières colorantes et malodorantes, l'addition de ces dernières étant facultative pour les substances naturellement malodorantes.
