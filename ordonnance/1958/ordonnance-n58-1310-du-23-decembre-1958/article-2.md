@@ -14,4 +14,6 @@ Sont chargés de constater les infractions aux dispositions législatives ou ré
 
 6° Les agents ayant qualité pour constater les délits ou les contraventions en matière de circulation routière.
 
+Les agents visés ci-dessus ont accès à l'appareil de contrôle et à toutes ses composantes afin d'en vérifier l'intégrité.
+
 Les procès-verbaux établis en application du présent article font foi jusqu'à preuve contraire ; ils sont dispensés de l'affirmation.

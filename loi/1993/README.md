@@ -38,3 +38,4 @@
 - [Loi n° 93-992 du 10 août 1993 (JUSX9300079L)](loi-n-93-992-du-10-aout-1993-jusx9300079l)
 - [Loi n° 94-6 du 4 janvier 1994 (BUDX9300192L)](loi-n-94-6-du-4-janvier-1994-budx9300192l)
 - [Loi n°92-1282 du 11 décembre 1992 (ECOX9200109L)](loi-n92-1282-du-11-decembre-1992-ecox9200109l)
+- [Loi n°92-1445 du 31 décembre 1992 (EQUX9200143L)](loi-n92-1445-du-31-decembre-1992-equx9200143l)

@@ -1,0 +1,5 @@
+# Article 1
+
+Les dépenses et les recettes du budget général ainsi que les opérations de trésorerie de l'Etat sont, pour l'exercice 1952, réglées conformément aux dispositions de la présente loi et des lois de développement.
+
+Aucune mesure législative ou réglementaire susceptible d'entraîner soit une dépense nouvelle, soit l'accroissement d'une dépense déjà existante ou du découvert d'un compte spécial du Trésor au delà des montants globaux fixés par les articles 2 à 5 ci-après, ou de provoquer une perte de recettes par rapport aux voies et moyens évalués par l'article 28 ci-après, ou encore d'accroître les charges des divers régimes d'assistance et de sécurité sociale, ne pourra intervenir au cours de l'exercice 1952, sans avoir fait l'objet, s'il y a lieu, de l'ouverture préalable d'un crédit provisionnel ou supplémentaire au chapitre intéressé et avant qu'aient été dégagées, en contrepartie, et pour un montant équivalent, soit des ressources nouvelles ne figurant pas parmi les recettes dont il a été fait état dans la loi de finances, soit des économies correspondant à la suppression d'une dépense antérieurement autorisée.
