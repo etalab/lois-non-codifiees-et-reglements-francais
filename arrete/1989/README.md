@@ -9,7 +9,6 @@
 - [Arrêté du 1 février 1989 (BUDR8905008A)](arrete-du-1-fevrier-1989-budr8905008a)
 - [Arrêté du 1 février 1989 (EQUC8900105A)](arrete-du-1-fevrier-1989-equc8900105a)
 - [Arrêté du 1 juin 1989 (AGRB8901145A)](arrete-du-1-juin-1989-agrb8901145a)
-- [Arrêté du 1 juin 1989 (SPSP8901169A)](arrete-du-1-juin-1989-spsp8901169a)
 - [Arrêté du 1 mars 1989 (AGRP8900401A)](arrete-du-1-mars-1989-agrp8900401a)
 - [Arrêté du 1 octobre 1989 (AGRG8902208A)](arrete-du-1-octobre-1989-agrg8902208a)
 - [Arrêté du 1 septembre 1989 (PRME8961010A)](arrete-du-1-septembre-1989-prme8961010a)

@@ -730,7 +730,6 @@
 - [Arrêté du 18 mai 1992 (MENX9202203A)](arrete-du-18-mai-1992-menx9202203a)
 - [Arrêté du 18 mai 1992 (PTTR9200232A)](arrete-du-18-mai-1992-pttr9200232a)
 - [Arrêté du 18 mai 1992 (PTTR9200233A)](arrete-du-18-mai-1992-pttr9200233a)
-- [Arrêté du 18 mai 1992 (SANP9201136A)](arrete-du-18-mai-1992-sanp9201136a)
 - [Arrêté du 18 mai 1992 (TEFF9204812A)](arrete-du-18-mai-1992-teff9204812a)
 - [Arrêté du 19 août 1992 (FPPA9200015A)](arrete-du-19-aout-1992-fppa9200015a)
 - [Arrêté du 19 août 1992 (SPSS9202147A)](arrete-du-19-aout-1992-spss9202147a)
