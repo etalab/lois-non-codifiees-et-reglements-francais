@@ -100,6 +100,7 @@
 - [Décret n°93-694 du 27 mars 1993 (SPSS9300881D)](decret-n93-694-du-27-mars-1993-spss9300881d)
 - [Décret n°94-1021 du 28 novembre 1994 (INTX9400134D)](decret-n94-1021-du-28-novembre-1994-intx9400134d)
 - [Décret n°94-1022 du 28 novembre 1994 (INTA9400427D)](decret-n94-1022-du-28-novembre-1994-inta9400427d)
+- [Décret n°94-87 du 28 janvier 1994 (MCCB9300362D)](decret-n94-87-du-28-janvier-1994-mccb9300362d)
 - [Décret n°94-948 du 28 octobre 1994 (SPSA9402580D)](decret-n94-948-du-28-octobre-1994-spsa9402580d)
 - [Décret n°95-244 du 28 février 1995 (AGRA9500054D)](decret-n95-244-du-28-fevrier-1995-agra9500054d)
 - [Décret n°95-335 du 28 mars 1995 (DEFP9501219D)](decret-n95-335-du-28-mars-1995-defp9501219d)
