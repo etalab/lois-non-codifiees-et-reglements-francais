@@ -90,6 +90,7 @@
 - [Décret n°93-32 du 8 janvier 1993 (PTTS9200520D)](decret-n93-32-du-8-janvier-1993-ptts9200520d)
 - [Décret n°93-321 du 8 mars 1993 (MENN9204691D)](decret-n93-321-du-8-mars-1993-menn9204691d)
 - [Décret n°93-33 du 8 janvier 1993 (MERP9200054D)](decret-n93-33-du-8-janvier-1993-merp9200054d)
+- [Décret n°89-158 du 9 mars 1989 (ECOT8926024D)](decret-n89-158-du-9-mars-1989-ecot8926024d)
 - [Décret n°93-1082 du 9 septembre 1993 (JUSF9350045D)](decret-n93-1082-du-9-septembre-1993-jusf9350045d)
 - [Décret n°93-1083 du 9 septembre 1993 (JUSF9350046D)](decret-n93-1083-du-9-septembre-1993-jusf9350046d)
 - [Décret n°93-182 du 9 février 1993 (PRMX9300060D)](decret-n93-182-du-9-fevrier-1993-prmx9300060d)
