@@ -1,12 +1,12 @@
 # Article 62
 
-Par dérogation aux dispositions de l'article précédent, deux concours spéciaux sont réservés :
+Par dérogation aux dispositions de l'article 61, deux concours spéciaux sont réservés :
 
 a) Le premier :
 
-- aux chercheurs titulaires d'organismes publics à caractère scientifique, aux chercheurs de l'Institut Pasteur et des centres de lutte contre le cancer ainsi que des centres de transfusion sanguine des villes sièges de centres hospitaliers et universitaires et aux enseignants-chercheurs des disciplines non médicales, justifiant de deux ans de fonctions effectives en l'une ou l'autre de ces qualités ;
+Aux chercheurs titulaires et anciens chercheurs d'organismes publics à caractère scientifique, aux chercheurs et anciens chercheurs de l'Institut Pasteur et des centres de lutte contre le cancer ainsi que des centres ou établissements de transfusion sanguine des villes sièges de centres hospitaliers et universitaires et aux enseignants-chercheurs ne relevant pas du présent décret, justifiant de deux ans de fonctions effectives en l'une ou l'autre de ces qualités ;
 
-- aux candidats ayant exercé, durant au moins deux ans, dans un établissement étranger d'enseignement supérieur ou de recherche, des fonctions d'enseignement ou de recherche d'un niveau au moins équivalent à celles confiées aux maîtres de conférences.
+Aux candidats ayant exercé, durant au moins deux ans, dans un établissement étranger d'enseignement supérieur ou de recherche, des fonctions d'enseignement ou de recherche d'un niveau au moins équivalent à celles confiées aux maîtres de conférences.
 
 Les candidats à ce concours doivent être titulaires de l'habilitation à diriger des recherches ou du doctorat d'Etat. Les diplômes et titres étrangers de niveau équivalent peuvent être admis en dispense des diplômes précités dans des conditions fixées par arrêté du ministre chargé de l'enseignement supérieur. Cet arrêté fixe également les conditions dans lesquelles est appréciée l'équivalence de fonctions mentionnée à l'alinéa précédent.
 

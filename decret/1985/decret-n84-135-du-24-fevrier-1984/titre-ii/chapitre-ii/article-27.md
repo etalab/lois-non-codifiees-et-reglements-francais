@@ -16,6 +16,6 @@ III. - Les dossiers des candidats retenus par l'une au moins de ces instances so
 
 Pour chaque emploi vacant, la commission propose un candidat.
 
-IV. - Les praticiens hospitaliers-universitaires sont nommés par décision conjointe du directeur général du centre hospitalier régional et du directeur de l'unité de formation et de recherche concernée.
+IV. - Les praticiens hospitaliers-universitaires sont nommés par décision conjointe du directeur du centre hospitalier universitaire et du directeur de l'unité de formation et de recherche concernée.
 
 V. - Un arrêté du ministre chargé de l'enseignement supérieur fixe les conditions de dépôt des candidatures et les modalités de constitution et de fonctionnement de la commission mentionnée au III ci-dessus.

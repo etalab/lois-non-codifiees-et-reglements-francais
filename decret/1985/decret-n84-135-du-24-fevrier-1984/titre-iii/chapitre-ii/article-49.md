@@ -6,16 +6,12 @@ Les candidats non médecins reçus aux concours mentionnés à l'article précé
 
 2° Biophysique et traitement de l'image ; radiologie et imagerie médicale ;
 
-3° Biochimie et biologie moléculaire ; biologie cellulaire ; explorations fonctionnelles ; nutrition ;
+3° Biochimie et biologie moléculaire ; biologie cellulaire ; nutrition ;
 
-4° Bactériologie, virologie-hygiène ; parasitologie ;
-
-5° Epidémiologie, économie de la santé et prévention ; biostatistiques et informatique médicale ;
+4° Bactériologie, virologie-hygiène ; parasitologie et mycologie-;    5° Epidémiologie, économie de la santé et prévention ; biostatistiques et informatique médicale ;
 
 6° Hématologie ; immunologie ; génétique ;
 
-7° Pharmacologie et toxicologie ;
+7° Pharmacologie fondamentale-pharmacologie clinique-;
 
-8° Biologie du développement et de la reproduction ;
-
-9° Génie biologique et médical.
+8° Biologie du développement et de la reproduction.

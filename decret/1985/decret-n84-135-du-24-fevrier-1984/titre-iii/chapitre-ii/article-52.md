@@ -10,7 +10,7 @@ Dans certaines disciplines dont la liste est fixée par arrêté conjoint des mi
 
 Les modalités d'organisation et la durée des épreuves mentionnées aux deux alinéas précédents sont fixées par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé.
 
-Le jury arrête par ordre alphabétique la liste des candidats admis, qui comprend au maximum un nombre de noms égal à celui des postes à pourvoir augmenté de deux.
+Le jury arrête par ordre alphabétique la liste des candidats admis.
 
 La liste est publiée au Journal officiel de la République française.
 
