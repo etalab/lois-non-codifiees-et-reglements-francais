@@ -7,3 +7,5 @@ Elle reçoit également du département le crédit prévu à l'article 38 dans d
 Ce crédit se calcule sous déduction, le cas échéant et dans les limites prévues audit article, des sommes effectivement consacrées par le département aux dépenses résultant de la prise en charge de la participation de l'assuré allocataire du revenu minimum d'insertion aux tarifs servant de base au calcul des prestations de sécurité sociale.
 
 Ce crédit est également diminué des sommes imputables sur les crédits d'insertion prévus à l'article 38 au titre de l'article 38-1 et dans les conditions définies par ce même article, selon des modalités fixées par décret.
+
+Les ressources de chaque agence comprennent également la participation financière de l'Etat aux contrats d'insertion par l'activité, déterminée dans des conditions définies par décret en Conseil d'Etat, ainsi que celle des collectivités, personnes ou organismes mentionnés au premier alinéa de l'article L. 322-4-7 du code du travail, les revenus des immeubles, les dons et legs, les subventions et toutes les ressources autorisées par la loi et les règlements en vigueur.
