@@ -24,6 +24,8 @@
 - [Décret n°76-5 du 6 janvier 1976](decret-n76-5-du-6-janvier-1976)
 - [Décret n°72-1012 du 7 novembre 1972](decret-n72-1012-du-7-novembre-1972)
 - [Décret n°72-180 du 7 mars 1972](decret-n72-180-du-7-mars-1972)
+- [Décret n°72-758 du 8 août 1972](decret-n72-758-du-8-aout-1972)
+- [Décret n°72-759 du 8 août 1972](decret-n72-759-du-8-aout-1972)
 - [Décret n°72-197 du 10 mars 1972](decret-n72-197-du-10-mars-1972)
 - [Décret n°72-27 du 10 janvier 1972](decret-n72-27-du-10-janvier-1972)
 - [Décret n°72-37 du 11 janvier 1972](decret-n72-37-du-11-janvier-1972)
