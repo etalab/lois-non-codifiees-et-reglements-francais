@@ -4,7 +4,7 @@ La commission des comptes et des budgets économiques de la nation, présidée p
 
 1° Le commissaire général au Plan, le gouverneur de la Banque de France, le directeur du budget, le directeur du Trésor, le directeur général de l'Institut national de la statistique et des études économiques, le directeur de la prévision, le chef du service de la législation fiscale ;
 
-2° Huit membres du Conseil économique et social, désignés par arrêté conjoint du Premier ministre et du ministre chargé de l'économie ;
+2° Dix membres du Conseil économique et social, désignés par arrêté conjoint du Premier ministre et du ministre chargé de l'économie ;
 
 3° Douze membres choisis parmi les personnalités qualifiées par leurs travaux et leur compétence économique et financière, désignés par arrêté conjoint du Premier ministre et du ministre chargé de l'économie, pour une durée de quatre ans ;
 
