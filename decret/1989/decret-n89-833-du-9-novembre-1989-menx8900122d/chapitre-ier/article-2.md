@@ -8,4 +8,4 @@ L'inspection générale formule à l'intention du ministre, pour la mise en oeuv
 
 Ces missions s'étendent aux écoles, collèges, lycées, lycées professionnels et aux établissements de formation professionnelle des personnels. Elle peut s'exercer, en outre, sur tous les organismes et personnels soumis au contrôle pédagogique du ministère de l'éducation nationale, à l'exception de ceux qui sont régis par les titres III et IV de la loi n° 84-52 du 26 janvier 1984 relative à l'enseignement supérieur.
 
-Le ministre peut donner instruction à l'inspection générale d'intervenir à la demande des collectivités territoriales.
+Le ministre peut donner instruction à l'inspection générale d'intervenir à la demande des collectivités territoriales et d'autres départements ministériels.
