@@ -8,5 +8,6 @@
 - [Ordonnance n° 82-271 du 26 mars 1982](ordonnance-n-82-271-du-26-mars-1982)
 - [Ordonnance n° 82-272 du 26 mars 1982](ordonnance-n-82-272-du-26-mars-1982)
 - [Ordonnance n° 82-273 du 26 mars 1982](ordonnance-n-82-273-du-26-mars-1982)
+- [Ordonnance n°82-283 du 26 mars 1982](ordonnance-n82-283-du-26-mars-1982)
 - [Ordonnance n° 82-108 du 30 janvier 1982](ordonnance-n-82-108-du-30-janvier-1982)
 - [Ordonnance n° 82-109 du 30 janvier 1982](ordonnance-n-82-109-du-30-janvier-1982)

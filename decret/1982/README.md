@@ -75,6 +75,7 @@
 - [Décret n°82-232 du 27 février 1982](decret-n82-232-du-27-fevrier-1982)
 - [Décret n°82-107 du 28 janvier 1982](decret-n82-107-du-28-janvier-1982)
 - [Décret n°82-111 du 29 janvier 1982](decret-n82-111-du-29-janvier-1982)
+- [Décret n°82-284 du 29 mars 1982](decret-n82-284-du-29-mars-1982)
 - [Décret n°81-1164 du 30 décembre 1981](decret-n81-1164-du-30-decembre-1981)
 - [Décret n°81-1166 du 30 décembre 1981](decret-n81-1166-du-30-decembre-1981)
 - [Décret n°81-1167 du 30 décembre 1981](decret-n81-1167-du-30-decembre-1981)
