@@ -20,4 +20,4 @@ Et assurer depuis au moins quatre ans l'intérim d'un emploi d'agent comptable d
 
 Le nombre de candidats inscrits en 2e section de la liste ne peut excéder le tiers du nombre total des candidats inscrits en 1re section.
 
-Sans préjudice des dispositions de l'article 13, deuxième alinéa, peuvent être inscrits en 3e section, sur proposition du ministre chargé de la sécurité sociale et dans la proportion du cinquantième fixée au cinquième alinéa de l'article R. 123-45 précité du code de la sécurité sociale, les fonctionnaires de l'Etat justifiant d'une ancienneté de huit ans dans un emploi de catégorie A, âgés de quarante ans au moins et ayant occupé pendant trois ans au moins des fonctions intéressant la sécurité sociale.
+IV. - Peuvent être inscrits en 3e section, sur proposition du ministre chargé de la sécurité sociale et dans la proportion du cinquième, visée au sixième alinéa de l'article R. 123-45 précité du code de la sécurité sociale, les fonctionnaires de l'Etat justifiant d'une ancienneté de huit ans dans un emploi de catégorie A, âgés de trente-cinq ans au moins et ayant occupé pendant trois ans au moins des fonctions intéressant la sécurité sociale.

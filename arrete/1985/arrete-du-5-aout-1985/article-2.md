@@ -16,7 +16,7 @@ La composition de la commission est la suivante :
 
 - le directeur du Centre national d'études supérieures de sécurité sociale ;
 
-- le directeur, le trésorier et un sous-directeur de la Caisse autonome nationale de la sécurité sociale dans les mines ;
+- le directeur, l'agent comptable et un agent ayant le grade de directeur adjoint ou de sous-directeur de la Caisse autonome nationale de la sécurité sociale dans les mines ;
 
 - deux représentants élus des agents de direction et des agents comptables des sociétés de secours minières et de leurs unions régionales ;
 
