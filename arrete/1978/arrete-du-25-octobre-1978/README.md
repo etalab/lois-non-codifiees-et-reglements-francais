@@ -1,4 +1,4 @@
-# Arrêté du 25 octobre 1978 portant modalités d'application du fonds de garantie d'intervention des marchés des produits de la pêche maritime et de la conchyliculture
+# Arrêté du 25 octobre 1978 PRIS POUR L'APPLICATION DE L'ARTICLE 6 DU DECRET DU 10 DECEMBRE 1946 MODIFIE PAR LE DECRET N° 78-378 DU 17 MARS 1978.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,7 +7,3 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
-- [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 11](article-11.md)
