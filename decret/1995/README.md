@@ -666,6 +666,7 @@
 - [Décret n°95-811 du 22 juin 1995 (PRMX9500102D)](decret-n95-811-du-22-juin-1995-prmx9500102d)
 - [Décret n°95-844 du 22 juillet 1995 (ECOT9513817D)](decret-n95-844-du-22-juillet-1995-ecot9513817d)
 - [Décret n°95-929 du 22 août 1995 (EQUB9501227D)](decret-n95-929-du-22-aout-1995-equb9501227d)
+- [Décret n°95-930 du 22 août 1995 (SANH9502316D)](decret-n95-930-du-22-aout-1995-sanh9502316d)
 - [Décret n°95-190 du 23 février 1995 (MAEC9510001D)](decret-n95-190-du-23-fevrier-1995-maec9510001d)
 - [Décret n°95-192 du 23 février 1995 (RESK9500125D)](decret-n95-192-du-23-fevrier-1995-resk9500125d)
 - [Décret n°95-193 du 23 février 1995 (DOME9500004D)](decret-n95-193-du-23-fevrier-1995-dome9500004d)
