@@ -1,0 +1,5 @@
+# Article 19-1
+
+Lorsqu'un projet de résolution relatif à des travaux d'amélioration prévus au c de l'article 26 de la loi du 10 juillet 1965 a recueilli le vote favorable de la majorité des membres du syndicat représentant au moins les deux tiers des voix des copropriétaires présents ou représentés, une nouvelle assemblée générale des copropriétaires doit être convoquée par le syndic en application du dernier alinéa de l'article 26 de cette même loi. Les notifications prévues à l'article 11 du présent décret n'ont pas à être renouvelées si l'ordre du jour de cette nouvelle assemblée ne porte que sur des questions déjà inscrites à l'ordre du jour de la précédente assemblée.
+
+La convocation à cette nouvelle assemblée doit mentionner que les décisions portant sur des travaux d'amélioration prévus au c de l'article 26 de la loi du 10 juillet 1965 pourront être prises à la majorité des membres du syndicat représentant au moins les deux tiers des voix des copropriétaires présents ou représentés à cette nouvelle assemblée générale.

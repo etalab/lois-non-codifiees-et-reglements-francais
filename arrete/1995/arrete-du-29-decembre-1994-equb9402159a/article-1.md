@@ -82,7 +82,7 @@ Catégorie 13
 
 Salaires forfaitaires par an : 176 796,34
 
-Salaires forfaitaires par mois : 14 773,03
+Salaires forfaitaires par mois : 14 733,03
 
 Catégorie 14
 
