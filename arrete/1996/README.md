@@ -430,7 +430,6 @@
 - [Arrêté du 12 avril 1996 (TASC9621157A)](arrete-du-12-avril-1996-tasc9621157a)
 - [Arrêté du 12 décembre 1996 (MIPP9600444A)](arrete-du-12-decembre-1996-mipp9600444a)
 - [Arrêté du 12 décembre 1996 (MIPP9600445A)](arrete-du-12-decembre-1996-mipp9600445a)
-- [Arrêté du 12 décembre 1996 (TASS9624372A)](arrete-du-12-decembre-1996-tass9624372a)
 - [Arrêté du 12 février 1996 (DEFD9601189A)](arrete-du-12-fevrier-1996-defd9601189a)
 - [Arrêté du 12 février 1996 (ECOS9650009A)](arrete-du-12-fevrier-1996-ecos9650009a)
 - [Arrêté du 12 février 1996 (FPPA9610007A)](arrete-du-12-fevrier-1996-fppa9610007a)

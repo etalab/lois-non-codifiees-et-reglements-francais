@@ -610,7 +610,6 @@
 - [Décret n°92-1164 du 22 octobre 1992 (INDB9200706D)](decret-n92-1164-du-22-octobre-1992-indb9200706d)
 - [Décret n°92-1338 du 22 décembre 1992 (MENB9200481D)](decret-n92-1338-du-22-decembre-1992-menb9200481d)
 - [Décret n°92-711 du 22 juillet 1992 (INDB9200337D)](decret-n92-711-du-22-juillet-1992-indb9200337d)
-- [Décret n°92-89 du 22 janvier 1992 (DEFP9102353D)](decret-n92-89-du-22-janvier-1992-defp9102353d)
 - [Décret n°93-103 du 22 janvier 1993 (INTF9300017D)](decret-n93-103-du-22-janvier-1993-intf9300017d)
 - [Décret n°93-106 du 22 janvier 1993 (MENT9204502D)](decret-n93-106-du-22-janvier-1993-ment9204502d)
 - [Décret n°93-108 du 22 janvier 1993 (AGRA9202095D)](decret-n93-108-du-22-janvier-1993-agra9202095d)
