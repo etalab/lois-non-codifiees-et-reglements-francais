@@ -1,4 +1,4 @@
-# Arrêté du 26 mars 1984 du 26 mars 1984 fixant le tarif de la soulte prévue à l'article 269 de l'annexe II au code général des impôts.
+# Arrêté du 26 mars 1984 relatif à l'attribution d'indemnités aux commissaires enquêteurs assurant les fonctions prévues à l'article R. 123-11 du code de l'urbanisme.
 
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

@@ -74,7 +74,6 @@
 - [Arrêté du 19 juin 1981](arrete-du-19-juin-1981)
 - [Arrêté du 19 mars 1981](arrete-du-19-mars-1981)
 - [Arrêté du 20 février 1981](arrete-du-20-fevrier-1981)
-- [Arrêté du 20 janvier 1981](arrete-du-20-janvier-1981)
 - [Arrêté du 20 mars 1981](arrete-du-20-mars-1981)
 - [Arrêté du 21 août 1981](arrete-du-21-aout-1981)
 - [Arrêté du 21 février 1981](arrete-du-21-fevrier-1981)
