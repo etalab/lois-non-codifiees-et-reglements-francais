@@ -88,6 +88,8 @@
 - [Arrêté du 12 janvier 1989 (MENU8900087A)](arrete-du-12-janvier-1989-menu8900087a)
 - [Arrêté du 12 juillet 1990 (ECOP8900663A)](arrete-du-12-juillet-1990-ecop8900663a)
 - [Arrêté du 13 avril 1989 (ECOT8916070A)](arrete-du-13-avril-1989-ecot8916070a)
+- [Arrêté du 13 avril 1989 (MERG8900030A)](arrete-du-13-avril-1989-merg8900030a)
+- [Arrêté du 13 avril 1989 (MERG8900031A)](arrete-du-13-avril-1989-merg8900031a)
 - [Arrêté du 13 décembre 1988 (DEFP8801734A)](arrete-du-13-decembre-1988-defp8801734a)
 - [Arrêté du 13 décembre 1988 (TEFT8804182A)](arrete-du-13-decembre-1988-teft8804182a)
 - [Arrêté du 13 février 1989 (INDA8900080A)](arrete-du-13-fevrier-1989-inda8900080a)
