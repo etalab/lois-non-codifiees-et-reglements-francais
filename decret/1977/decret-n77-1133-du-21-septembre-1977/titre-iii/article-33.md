@@ -6,7 +6,7 @@ Les inspecteurs des installations classées sont des cadres techniques désigné
 
 a) De la direction régionale de l'industrie, de la recherche et de l'environnement ;
 
-b) Des services vétérinaires de la direction départementale de l'agriculture et de la forêt ;
+b) De la direction départementale des services vétérinaires ;
 
 c) De la direction départementale des affaires sanitaires et sociales.
 
