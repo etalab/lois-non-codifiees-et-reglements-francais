@@ -1,3 +1,5 @@
 # Article 6
 
-Le préfet arrête le montant définitif de l'indemnisation et le notifie au propriétaire des animaux, des denrées ou des produits. Si, à titre très exceptionnel, dans les cas définis par instruction du ministre chargé de l'agriculture, ce montant dépasse, pour les espèces visées, le montant majoré tel que défini en annexe en moyenne par catégorie d'animaux, le préfet arrête le montant définitif de l'indemnisation après avis conforme de la directrice générale de l'alimentation et au vu du rapport des experts et des justificatifs des éléments visés à l'article 5.
+Le ou les rapports d'expertise sont instruits par le préfet qui peut solliciter la production de tout élément complémentaire d'appréciation de la valeur commerciale des denrées et produits ou de la valeur de remplacement des animaux et l'avis de la directrice générale de l'alimentation notamment dans les cas définis au quatrième alinéa de l'article 5.
+
+Le préfet arrête ensuite le montant définitif de l'indemnisation et le notifie au propriétaire des animaux, des denrées ou des produits.

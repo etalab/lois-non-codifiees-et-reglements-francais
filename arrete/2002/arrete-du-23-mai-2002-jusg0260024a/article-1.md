@@ -18,4 +18,10 @@ Chef du bureau du cabinet du garde des sceaux, ministre de la justice ;
 
 Chef du bureau du budget à la direction de l'administration générale et de l'équipement ;
 
-Chef du bureau des fonctionnaires à la direction des services judiciaires.
+Chef de projet maîtrise d'ouvrage sur le système d'information en ressources humaines du ministère de la justice ;
+
+Chef du bureau de la logistique à la direction de l'administration générale et de l'équipement ;
+
+Chef du bureau des personnels à la direction de l'administration générale et de l'équipement ;
+
+Chef du bureau du budget, de la comptabilité et des finances à la direction de l'administration pénitentiaire.
