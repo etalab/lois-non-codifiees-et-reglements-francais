@@ -127,6 +127,7 @@
 - [Arrêté du 12 mars 1990 (EQUA9000373A)](arrete-du-12-mars-1990-equa9000373a)
 - [Arrêté du 12 mars 1990 (MENE9000469A)](arrete-du-12-mars-1990-mene9000469a)
 - [Arrêté du 12 mars 1990 (SPSG9000671A)](arrete-du-12-mars-1990-spsg9000671a)
+- [Arrêté du 13 avril 1990 (RESY9000120A)](arrete-du-13-avril-1990-resy9000120a)
 - [Arrêté du 13 décembre 1989 (MERP8900228A)](arrete-du-13-decembre-1989-merp8900228a)
 - [Arrêté du 13 mars 1986](arrete-du-13-mars-1986)
 - [Arrêté du 13 mars 1990 (MENN9000408A)](arrete-du-13-mars-1990-menn9000408a)
