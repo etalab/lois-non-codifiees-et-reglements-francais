@@ -63,6 +63,7 @@
 - [Arrêté du 15 avril 2005 (DOMA0500003A)](arrete-du-15-avril-2005-doma0500003a)
 - [Arrêté du 15 avril 2005 (SANS0521462A)](arrete-du-15-avril-2005-sans0521462a)
 - [Arrêté du 15 décembre 2004 (SANS0424218A)](arrete-du-15-decembre-2004-sans0424218a)
+- [Arrêté du 15 février 2005 (INTA0500128A)](arrete-du-15-fevrier-2005-inta0500128a)
 - [Arrêté du 15 février 2005 (PRMG0470860A)](arrete-du-15-fevrier-2005-prmg0470860a)
 - [Arrêté du 16 décembre 2004 (ECOP0401033A)](arrete-du-16-decembre-2004-ecop0401033a)
 - [Arrêté du 16 février 2005 (ECOT0520003A)](arrete-du-16-fevrier-2005-ecot0520003a)
