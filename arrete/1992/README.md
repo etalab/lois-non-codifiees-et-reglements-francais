@@ -681,7 +681,6 @@
 - [Arrêté du 19 mai 1992 (ECOC9200063A)](arrete-du-19-mai-1992-ecoc9200063a)
 - [Arrêté du 19 mai 1992 (MENT9202090A)](arrete-du-19-mai-1992-ment9202090a)
 - [Arrêté du 19 mai 1992 (MENT9202091A)](arrete-du-19-mai-1992-ment9202091a)
-- [Arrêté du 19 mai 1992 (PTTR9200248A)](arrete-du-19-mai-1992-pttr9200248a)
 - [Arrêté du 20 août 1992 (BUDF9200021A)](arrete-du-20-aout-1992-budf9200021a)
 - [Arrêté du 20 août 1992 (INTD9200408A)](arrete-du-20-aout-1992-intd9200408a)
 - [Arrêté du 20 août 1992 (MENL9203373A)](arrete-du-20-aout-1992-menl9203373a)
