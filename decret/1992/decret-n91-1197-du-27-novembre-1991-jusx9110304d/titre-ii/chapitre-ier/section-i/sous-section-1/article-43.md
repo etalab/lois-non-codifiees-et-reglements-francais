@@ -1,9 +1,11 @@
 # Article 43
 
-Dans les ressorts comprenant un seul barreau, le conseil de l'ordre désigne trois membres du conseil d'administration.
+Chaque conseil de l'ordre des barreaux du ressort du centre régional de formation professionnelle désigne un avocat titulaire au conseil d'administration.
 
-Dans les ressorts comprenant deux ou trois barreaux, chaque conseil de l'ordre désigne deux membres du conseil d'administration.    Dans les autres ressorts, chaque conseil de l'ordre désigne un membre du conseil d'administration.
+Ce titulaire dispose d'un nombre de voix variant en fonction de l'effectif du barreau qu'il représente.
 
-Chaque barreau réunissant un nombre d'avocats supérieur à cent désigne un représentant supplémentaire par fraction de cent.
+Les représentants des barreaux comprenant moins de 100 avocats disposent d'une voix.
 
-Par dérogation aux dispositions qui précèdent, le conseil de l'ordre du barreau de Paris désigne vingt membres du conseil d'administration.
+Les représentants des barreaux comprenant 100 avocats ou plus disposent d'une voix supplémentaire par fraction de 100.
+
+Par dérogation aux dispositions qui précèdent, le conseil de l'ordre du barreau de Paris désigne 12 représentants titulaires disposant chacun de 15 voix.
