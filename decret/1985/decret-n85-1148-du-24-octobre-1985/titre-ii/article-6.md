@@ -1,122 +1,61 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er octobre 1997 :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er avril 1998 :
 
-TRAITEMENTS ET SOLDES ANNUELS BRUTS SOUMIS A RETENUE POUR PENSION A COMPTER DU 1ER OCTOBRE 1997
+TRAITEMENTS ET SOLDES ANNUELS BRUTS
 
-<table>
-<tr>
-<td>:---------:------------:</td>
-</tr>
-<tr>
-<td> : Groupes : Chevrons I :</td>
-</tr>
-<tr>
-<td> :---------:------------:</td>
-</tr>
-<tr>
-<td> :    A    :  285 938 F :</td>
-</tr>
-<tr>
-<td> :    B    :  312 643 F :</td>
-</tr>
-<tr>
-<td> :  B bis  :  343 582 F :</td>
-</tr>
-<tr>
-<td> :    C    :  362 145 F :</td>
-</tr>
-<tr>
-<td> :    D    :  378 103 F :</td>
-</tr>
-<tr>
-<td> :    E    :  412 624 F :</td>
-</tr>
-<tr>
-<td> :    F    :  444 865 F :</td>
-</tr>
-<tr>
-<td> :    G    :  487 854 F :</td>
-</tr>
-<tr>
-<td> :---------:------------:</td>
-</tr>
-</table>
+soumis à retenue pour pension à compter du 1er avril 1998
 
-<table>
-<tr>
-<td>:---------:------------:</td>
-</tr>
-<tr>
-<td> : Groupes :Chevrons II :</td>
-</tr>
-<tr>
-<td> :---------:------------:</td>
-</tr>
-<tr>
-<td> :    A    :  297 337 F :</td>
-</tr>
-<tr>
-<td> :    B    :  325 996 F :</td>
-</tr>
-<tr>
-<td> :  B bis  :  352 701 F :</td>
-</tr>
-<tr>
-<td> :    C    :  369 961 F :</td>
-</tr>
-<tr>
-<td> :    D    :  395 363 F :</td>
-</tr>
-<tr>
-<td> :    E    :  428 907 F :</td>
-</tr>
-<tr>
-<td> :    F    :            :</td>
-</tr>
-<tr>
-<td> :    G    :            :</td>
-</tr>
-<tr>
-<td> :---------:------------:</td>
-</tr>
-</table>
+Groupes : A
 
-<table>
-<tr>
-<td>:---------:------------:</td>
-</tr>
-<tr>
-<td> : Groupes :Chevrons III:</td>
-</tr>
-<tr>
-<td> :---------:------------:</td>
-</tr>
-<tr>
-<td> :    A    :  312 643 F :</td>
-</tr>
-<tr>
-<td> :    B    :  343 582 F :</td>
-</tr>
-<tr>
-<td> :  B bis  :  362 145 F :</td>
-</tr>
-<tr>
-<td> :    C    :  378 103 F :</td>
-</tr>
-<tr>
-<td> :    D    :  412 624 F :</td>
-</tr>
-<tr>
-<td> :    E    :            :</td>
-</tr>
-<tr>
-<td> :    F    :            :</td>
-</tr>
-<tr>
-<td> :    G    :            :</td>
-</tr>
-<tr>
-<td> :---------:------------:</td>
-</tr>
-</table>
+Chevron I (en francs) : 288 230
+
+Chevron II (en francs) : 299 720
+
+Chevron III (en francs) : 315 149
+
+Groupes : B
+
+Chevron I (en francs) : 315 149
+
+Chevron II (en francs) : 328 608
+
+Chevron III (en francs) : 346 335
+
+Groupes : B bis
+
+Chevron I (en francs) : 346 335
+
+Chevron II (en francs) : 355 527
+
+Chevron III (en francs) : 365 047
+
+Groupes : C
+
+Chevron I (en francs) : 365 047
+
+Chevron II (en francs) : 372 926
+
+Chevron III (en francs) : 381 133
+
+Groupes : D
+
+Chevron I (en francs) : 381 133
+
+Chevron II (en francs) : 398 532
+
+Chevron III (en francs) : 415 931
+
+Groupes : E
+
+Chevron I (en francs) : 415 931
+
+Chevron II (en francs) : 432 345
+
+Groupes : F
+
+Chevron I (en francs) : 448 430
+
+Groupes : G
+
+Chevron I (en francs) : 491 763
