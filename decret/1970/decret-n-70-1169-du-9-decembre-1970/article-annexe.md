@@ -85,3 +85,7 @@ Centre technique du papier.
 Institut national de la statistique et des études économiques (I.N.S.E.E.).
 
 Centre d'études prospectives d'économie et mathématiques appli­quées à la planification (Cepremap).
+
+Office de la recherche scientifique et technique d'outre-mer (O.R.S.T.O.M.).
+
+Centre scientifique et technique du bâtiment (C.S.T.B.).
