@@ -6,6 +6,4 @@ Les immeubles et les rentes sont affectés conformément aux règles prévues pa
 
 Les cautionnements en immeubles sont reçus par le tribunal de la situation des biens sur simple requête appuyée de l'acte notarié d'affectation et de l'avis du service des domaines sur la valeur de ces biens.
 
-Pour les cautionnements fournis en rentes ou en numéraire, les actes d'affectation sont reçus par le directeur général des impôts.
-
-Sous réserve des exceptions limitatives prévues à l'article 3, la valeur assignée aux biens donnés en gage au moment de la constitution du cautionnement ne peut être revisée.
+Pour les cautionnements fournis en rentes ou en numéraire, les actes d'affectation sont reçus par le directeur des services fiscaux territorialement compétent.    Sous réserve des exceptions limitatives prévues à l'article 3, la valeur assignée aux biens donnés en gage au moment de la constitution du cautionnement ne peut être revisée.
