@@ -1,0 +1,3 @@
+# Article 15
+
+Le ministre chargé des transports ou le préfet délégué peut interdire la montée des voyageurs dans les véhicules de transports en commun desservant une gare routière publique de voyageurs, à l'intérieur d'un périmètre entourant cette gare. Ce périmètre est déterminé après avis du maire et après audition du concessionnaire ou du fermier ainsi que, s'il y a lieu, de la collectivité locale intéressée. Le ministre peut également préscrire que les véhicules de transport en commun pour lesquels la localité constitue tête de ligne soient vides de voyageurs lorsqu'ils se présentent dans la gare routière pour prendre le départ.

@@ -1,0 +1,3 @@
+# Article 19
+
+Les transporteurs routiers peuvent être autorisés à percevoir, en supplément des tarifs de transport de leur exploitation, sur les voyageurs et messageries à destination ou en provenance de la localité desservie par la gare routière publique de voyageurs et empruntant des services utilisant la gare, des surtaxes spéciales, destinées à subvenir en totalité ou partie aux charges qui résultent pour eux des taxes auxquelles ils sont assujettis en application de l'article 17 ci-dessus, dans la limite toutefois de la partie de ces taxes qui correspond aux charges de construction de la gare routière ainsi qu'aux dépenses nécessitées par la transformation ou l'amélioration des installations intéressant directement les voyageurs.
