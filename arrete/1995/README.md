@@ -80,7 +80,6 @@
 - [Arrêté du 2 mai 1995 (MCCB9500206A)](arrete-du-2-mai-1995-mccb9500206a)
 - [Arrêté du 2 mai 1995 (MCCK9500094A)](arrete-du-2-mai-1995-mcck9500094a)
 - [Arrêté du 2 mai 1995 (MCCK9500095A)](arrete-du-2-mai-1995-mcck9500095a)
-- [Arrêté du 2 mai 1995 (RESK9500703A)](arrete-du-2-mai-1995-resk9500703a)
 - [Arrêté du 2 mai 1995 (RESK9500704A)](arrete-du-2-mai-1995-resk9500704a)
 - [Arrêté du 2 mai 1995 (RESM9500678A)](arrete-du-2-mai-1995-resm9500678a)
 - [Arrêté du 2 mai 1995 (SANH9501564A)](arrete-du-2-mai-1995-sanh9501564a)
