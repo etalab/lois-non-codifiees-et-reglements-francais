@@ -62,6 +62,7 @@
 - [Décret n°91-148 du 7 février 1991 (ACVX9100020D)](decret-n91-148-du-7-fevrier-1991-acvx9100020d)
 - [Décret n°88-653 du 7 mai 1988 (RESP8800525D)](decret-n88-653-du-7-mai-1988-resp8800525d)
 - [Décret n°88-654 du 7 mai 1988 (RESP8800524D)](decret-n88-654-du-7-mai-1988-resp8800524d)
+- [Décret n°88-349 du 8 avril 1988 (DEFA8801232D)](decret-n88-349-du-8-avril-1988-defa8801232d)
 - [Décret n°88-800 du 8 juillet 1988 (ECOX8800102D)](decret-n88-800-du-8-juillet-1988-ecox8800102d)
 - [Décret n°88-801 du 8 juillet 1988 (SEPX8800103D)](decret-n88-801-du-8-juillet-1988-sepx8800103d)
 - [Décret n°88-856 du 8 août 1988 (PRMX8810702D)](decret-n88-856-du-8-aout-1988-prmx8810702d)
