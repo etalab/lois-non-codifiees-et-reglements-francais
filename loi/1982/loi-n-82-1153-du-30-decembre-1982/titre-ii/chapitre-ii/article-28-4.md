@@ -6,4 +6,6 @@ Le conseil régional et les conseils généraux intéressés, les services de l'
 
 Eventuellement modifié pour tenir compte des résultats de l'enquête et des avis des personnes publiques consultées, le plan est approuvé par l'organe délibérant de l'établissement public concerné.
 
-Les décisions prises par les autorités chargées de la voirie et de la police de la circulation ayant des effets sur les déplacements dans le périmètre du plan local de déplacements doivent être compatibles ou être rendues compatibles avec ce dernier dans un délai de six mois. Les plans d'occupation des sols et les plans de sauvegarde et de mise en valeur doivent être compatibles avec le plan de déplacements urbains de l'Ile-de-France et les plans locaux de déplacements quand ils existent.
+Les décisions prises par les autorités chargées de la voirie et de la police de la circulation ayant des effets sur les déplacements dans le périmètre du plan local de déplacements doivent être compatibles ou être rendues compatibles avec ce dernier dans un délai de six mois. Les plans d'occupation des sols ou les plans locaux d'urbanisme et les plans de sauvegarde et de mise en valeur doivent être compatibles avec le plan de déplacements urbains de l'Ile-de-France et les plans locaux de déplacements quand ils existent.
+
+Un plan local de déplacements couvrant l'ensemble de son territoire peut être également élaboré à l'initiative de la ville de Paris dans les mêmes conditions de forme et de procédure. Il est approuvé par le Conseil de Paris après enquête publique.

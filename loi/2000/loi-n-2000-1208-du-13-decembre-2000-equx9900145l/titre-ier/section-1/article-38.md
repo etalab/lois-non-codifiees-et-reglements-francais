@@ -1,3 +1,5 @@
 # Article 38
 
-Les architectes des Bâtiments de France ne peuvent exercer de mission de conception ou de maîtrise d'oeuvre pour le compte de collectivités publiques autres que celles qui les emploient ou au profit de personnes privées dans l'aire géographique de leur compétence administrative.
+Les architectes des Bâtiments de France ne peuvent exercer aucune mission de conception ou de maîtrise d'oeuvre à titre libéral.
+
+Les dispositions de l'alinéa précédent entreront en vigueur le 1er janvier 2005. Toutefois, les missions de conception ou de maîtrise d'oeuvre libérale engagées avant cette date pourront être poursuivies jusqu'au 31 décembre 2007.

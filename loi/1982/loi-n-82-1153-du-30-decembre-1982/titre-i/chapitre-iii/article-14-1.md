@@ -4,7 +4,11 @@ I. - De façon coordonnée et dans le cadre des choix stratégiques d'aménageme
 
 Tout grand projet d'infrastructures de transport doit être compatible avec ces schémas.
 
-II. - La région, dans le respect des compétences des départements, des communes et de leurs groupements, élabore un schéma régional de transport coordonnant un volet "Transport de voyageurs" et un volet "Transport de marchandises". Celui-ci doit être compatible avec les schémas de services collectifs prévus à l'article 2 de la loi n° 95-115 du 4 février 1995 précitée. Il constitue le volet "Transport" du schéma régional d'aménagement et de développement du territoire prévu à l'article 34 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat.
+II. - Le schéma régional des infrastructures et des transports constitue le volet "Infrastructures et transports" du schéma régional d'aménagement et de développement du territoire prévu à l'article 34 de la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat. Compatible avec les schémas de services collectifs prévus à l'article 2 de la loi n° 95-115 du 4 février 1995 précitée, il coordonne les volets "Transports de voyageurs" et "Transports de marchandises".
+
+La région, en association avec l'Etat, dans le respect des compétences des départements, et en concertation avec les communes et leurs groupements, est chargée de son élaboration.
+
+Sans préjudice du III du présent article, ce schéma assure la cohérence régionale et interrégionale des itinéraires à grande circulation et de leurs fonctionnalités dans une approche multimodale. Il définit les priorités d'actions à moyen et à long terme sur son territoire pour ce qui concerne les infrastructures routières.
 
 III. - Les schémas définis aux I et II précédents ont pour objectif prioritaire d'optimiser l'utilisation des réseaux et équipements existants et de favoriser la complémentarité entre les modes de transport et la coopération entre les opérateurs, en prévoyant, lorsque nécessaire, la réalisation d'infrastructures nouvelles. Dans ce but :
 

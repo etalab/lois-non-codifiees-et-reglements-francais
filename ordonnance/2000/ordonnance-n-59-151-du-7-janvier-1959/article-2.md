@@ -1,6 +1,6 @@
 # Article 2
 
-- La Régie autonome des transports parisiens, établissement public à caractère industriel et commercial doté de l'autonomie financière, institué par la loi du 21 mars 1948, reste chargée de l'exploitation des réseaux et des lignes de transport en commun de voyageurs qui lui a été confiée en application de cette loi.
+La Régie autonome des transports parisiens, établissement public à caractère industriel et commercial doté de l'autonomie financière, institué par la loi du 21 mars 1948, reste chargée de l'exploitation des réseaux et des lignes de transport en commun de voyageurs qui lui a été confiée en application de cette loi.
 
 Elle peut également être chargée d'exploiter d'autres réseaux ou d'autres lignes ou d'assurer la construction et l'aménagement de lignes nouvelles.
 
@@ -15,6 +15,8 @@ Les ressources de la régie sont constituées par :
 - les recettes directes du trafic ;
 
 - les contributions du syndicat ;
+
+- dans des conditions fixées par décret, un concours financier de l'Etat en raison des charges de retraite supportées par la régie ;
 
 - tous autres concours et subventions ;
 

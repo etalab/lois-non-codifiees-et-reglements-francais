@@ -23,3 +23,5 @@ VI. - Les loyers fixés en application de l'article 17 ou négociés en applicat
 Les accords conclus en application des articles 41 ter et 42 de la loi n° 86-1290 du 23 décembre 1986 précitée ne peuvent conduire à déroger, pour les logements dont le loyer est fixé en application du chapitre III de la loi n° 48-1360 du 1er septembre 1948 précitée, aux règles de fixation de ce loyer ni, pour les logements gérés par les organismes d'habitations à loyer modéré, aux règles de fixation et d'évolution des loyers prévues à l'article L. 442-1 du code de la construction et de l'habitation.
 
 VII. - A compter du 1er janvier 1997, les dispositions des articles 17 à 20 ne sont pas applicables aux logements auxquels s'appliquent les dispositions de l'article L. 472-1-3 du code de la construction et de l'habitation.
+
+Les dispositions des a, b, c et d de l'article 17, des articles 18, 19 et du premier alinéa de l'article 20 ne sont pas applicables aux sociétés d'économie mixte pour les logements régis par un cahier des charges en application du chapitre V du titre IV du code de la construction et de l'habitation.

@@ -4,7 +4,7 @@ Sont habilités à contrôler l'acquittement des péages institués par le III d
 
 1° Les personnels de voies navigables de France ayant un grade au moins équivalent à celui d'agent des catégories C 6 et C 6 bis de l'établissement public créé par l'article 67 de la loi du 27 février 1912 précitée ;
 
-2° Les personnels des régions bénéficiant d'un transfert de compétence ou ceux de leurs concessionnaires, des concessionnaires de parties concédées du domaine public confié à Voies navigables de France, des concessionnaires de voies et plans d'eau rayés de la Nomenclature des voies navigables, appartenant aux cadres d'emploi territoriaux suivants : ingénieurs et techniciens territoriaux, agents de maîtrise et agents techniques territoriaux, agents d'entretien territoriaux ;
+2° Les personnels des collectivités territoriales ou de leurs groupements propriétaires de cours d'eau, de canaux, lacs et plans d'eau du domaine public fluvial territorial ou ceux de leurs concessionnaires, des concessionnaires de parties concédées du domaine public confié à Voies navigables de France, des concessionnaires de voies et plans d'eau rayés de la Nomenclature des voies navigables, appartenant aux cadres d'emploi territoriaux suivants : ingénieurs et techniciens territoriaux, agents de maîtrise et agents techniques territoriaux, agents d'entretien territoriaux ;
 
 3° Les officiers, officiers adjoints et surveillants de port, les agents des ports autonomes maritimes ;
 
