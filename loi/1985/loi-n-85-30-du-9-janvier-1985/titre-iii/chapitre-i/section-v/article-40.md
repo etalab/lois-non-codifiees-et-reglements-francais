@@ -1,0 +1,5 @@
+# Article 40
+
+En zone de montagne, après un appel d'offres infructueux ou dans le cadre d'un marché négocié d'un montant inférieur à un seuil fixé par décret, les collectivités territoriales, les associations foncières, les associations syndicales autorisées de propriétaires fonciers peuvent dans les conditions prévues au premier alinéa de l'article 308 et au 2° de l'article 312 du code des marchés publics, avoir recours aux services d'une coopérative d'utilisation de matériel agricole pour la réalisation de travaux agricoles ou d'aménagement rural conformes à l'objet de cette coopérative.
+
+Lorsque les statuts de la coopérative ne prévoient pas l'admission au bénéfice de ses services de tiers non coopérateurs, les personnes morales visées au précédent alinéa sont toutefois assimilées à des tiers non associés pour l'application des dispositions de l'article 6 de l'ordonnance n° 67-813 du 26 septembre 1967 relative aux sociétés coopératives agricoles, à leurs unions et aux sociétés mixtes d'intérêt agricole.
