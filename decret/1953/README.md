@@ -24,7 +24,6 @@
 - [Décret n°53-1277 du 23 décembre 1953](decret-n53-1277-du-23-decembre-1953)
 - [Décret n°53-1276 du 24 décembre 1953](decret-n53-1276-du-24-decembre-1953)
 - [Décret n°53-893 du 24 septembre 1953](decret-n53-893-du-24-septembre-1953)
-- [Décret n°53-1048 du 26 octobre 1953](decret-n53-1048-du-26-octobre-1953)
 - [Décret n°53-1169 du 28 novembre 1953](decret-n53-1169-du-28-novembre-1953)
 - [Décret n°53-380 du 28 avril 1953](decret-n53-380-du-28-avril-1953)
 - [Décret n°53-531 du 28 mai 1953](decret-n53-531-du-28-mai-1953)

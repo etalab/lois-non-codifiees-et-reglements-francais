@@ -1,3 +1,0 @@
-# Article 8
-
-La dénomination "Petit-Suisse" est réservée à un fromage frais préemballé de forme cylindrique, d'un poids de 30 ou 60 grammes environ, fabriqué avec du lait de vache emprésuré, à pâte homogène, molle, non salée, renfermant au moins 40 grammes de matière grasse pour 100 grammes de fromage après complète dessiccation ; la teneur en matière sèche ne doit pas être inférieure respectivement à 23 grammes ou à 30 grammes pour 100 grammes de fromage selon que la teneur en matière grasse est au minimum de 40 grammes ou de 60 grammes pour 100 grammes de fromage après complète dessiccation.
