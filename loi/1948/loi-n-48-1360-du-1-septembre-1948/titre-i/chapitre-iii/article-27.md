@@ -6,9 +6,9 @@ Lorsque la faculté de céder ou de sous-louer est incluse dans un bail portant 
 
 Le montant du loyer des locaux pour lesquels le droit au bail ou le droit au maintien dans les lieux a été postérieurement au 1er juillet 1966 transmis aux héritiers ou transféré dans les conditions prévues à l'article 5 de la présente loi, est égal à la valeur locative majorée de 50 p. 100. Ces dispositions ne sont toutefois pas applicables en cas d'attribution de l'un de ces droits au conjoint du locataire ou de l'occupant ni en cas de transfert à un descendant mineur.
 
-Les prix résultant des dispositions de l'alinéa 1er du présent article demeurent applicables aux logements occupés par les personnes qui ont bénéficié entre le 1er juillet 1965 et le 30 juin 1966 du maintien dans les lieux prévu à l'article 5 ci-dessus, à moins qu'il ne s'agisse du conjoint, veuf, séparé ou divorcé.
+Les prix résultant des dispositions de l'alinéa 1er du présent article demeurent applicables aux logements occupés par les personnes qui ont bénéficié entre le 1er juillet 1965 et le 30 juin 1966 du maintien dans les lieux prévu à l'article 5 ci-dessus, à moins qu'il ne s'agissent du conjoint, veuf, séparé ou divorcé.
 
-Dans les communes visées à l'article 10 (7°) ci-dessus, le loyer de la totalité des locaux inoccupés ou insuffisamment occupés ou faisant l'objet d'une sous-location totale ou partielle est égal à la valeur locative majorée de 50 p. 100. Cette majoration cesse de droit dès que prend fin la situation qui l'avait motivée.
+Dans les communes visées à l'article 10 (7°) ci-dessus, le loyer de la totalité des locaux inoccupés ou insuffisamment occupés ou faisant l'objet d'une sous-location totale ou partielle est égal à la valeur locative majorée de 50 p. 100. Cette majoration cesse de droit dès que prend fin la situation qui l'avait motivée. Les locataires ou occupants auxquels est ou a été appliquée cette majoration continuent de bénéficier du droit au maintien dans les lieux prévu à l'article 4, nonobstant les dispositions du 7° de l'article 10.
 
 Lorsque l'insuffisance d'occupation a pour origine le décès ou le mariage de l'un des occupants, la majoration prévue dans ce cas par l'alinéa précédent ne prend effet qu'à l'expiration d'un délai d'un an à compter de ce mariage ou de ce décès.
 
@@ -28,6 +28,4 @@ En cas de sous-location, la majoration de 50 p. 100 ne s'applique pas aux locata
 
 Pour l'application des dispositions ci-dessus, sont, sauf preuve contraire, présumées sous-locataires les personnes vivant de façon continue au foyer du locataire ou de l'occupant, des lors qu'elles ne présentent avec ce dernier aucun lien de parenté ou d'alliance au sens de la loi ou qu'elles ne sont ni à sa charge ni à son service.
 
-Les majorations de 50 p. 100 prévues au présent article ne peuvent se cumuler (1).
-
-(1) Les majorations de 50 p. 100 prévues à cet article ont pris effet à compter du 1er janvier 1968.
+Les majorations de 50 p. 100 prévues au présent article ne peuvent se cumuler.

@@ -1,6 +1,6 @@
 # Article 43
 
-Pour l'application des articles 24 et 41, la représentativité des organisations de bailleurs, de gestionnaires et de locataires est appréciée d'après les critères suivants :
+Pour l'application de l'article 41 de la présente loi et de l'article 20 de la loi n° 89-462 du 6 juillet 1989, la représentativité des organisations de bailleurs, de gestionnaires et de locataires est appréciée d'après les critères suivants :
 
 a) Montant global des cotisations ;
 
