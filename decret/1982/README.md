@@ -28,6 +28,7 @@
 - [Décret n°82-337 du 8 avril 1982](decret-n82-337-du-8-avril-1982)
 - [Décret n°82-9 du 8 janvier 1982](decret-n82-9-du-8-janvier-1982)
 - [Décret n°81-131 du 10 février 1981](decret-n81-131-du-10-fevrier-1981)
+- [Décret n°82-150 du 10 février 1982](decret-n82-150-du-10-fevrier-1982)
 - [Décret n°82-166 du 10 février 1982](decret-n82-166-du-10-fevrier-1982)
 - [Décret n°82-494 du 10 juin 1982](decret-n82-494-du-10-juin-1982)
 - [Décret n°82-389 du 10 mai 1982](decret-n82-389-du-10-mai-1982)
