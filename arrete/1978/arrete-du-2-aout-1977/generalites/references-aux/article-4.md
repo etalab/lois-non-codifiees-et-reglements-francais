@@ -6,7 +6,7 @@ Les appareils d'utilisation, les tuyaux d'alimentation en gaz d'apprareils, les 
 
 soit aux normes ou, à défaut, aux spécifications, rendues obligatoires par arrêtés ministériels pris en application du décret du 23 mai 1962 ;
 
-soit à toute autre norme ou spécification technique nationale d'un Etat membre de la C.E.E. reconnue équivalente par le ministre chargé de la sécurité du gaz ;
+Soit à toute autre norme ou spécification technique nationale d'un Etat membre de l'Union européenne ou de tout autre Etat partie à l'accord instituant l'Espace économique européen reconnue équivalente par le ministre chargé de la sécurité du gaz;
 
 soit, en l'absence des précédentes, avoir fait l'objet d'un agrément préalable donné par le ministre chargé de la sécurité du gaz, le cas échéant, conjointement avec le ministre chargé de la construction ;
 

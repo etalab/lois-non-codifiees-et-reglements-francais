@@ -25,6 +25,7 @@
 - [Décret n°95-99 du 1 février 1995 (BUDB9460061D)](decret-n95-99-du-1-fevrier-1995-budb9460061d)
 - [Décret n°94-784 du 2 septembre 1994 (INDB9400004D)](decret-n94-784-du-2-septembre-1994-indb9400004d)
 - [Décret n°94-785 du 2 septembre 1994 (INDB9400196D)](decret-n94-785-du-2-septembre-1994-indb9400196d)
+- [Décret n°95-1067 du 2 octobre 1995 (AGRE9501558D)](decret-n95-1067-du-2-octobre-1995-agre9501558d)
 - [Décret n°95-110 du 2 février 1995 (MCCK9400557D)](decret-n95-110-du-2-fevrier-1995-mcck9400557d)
 - [Décret n°95-113 du 2 février 1995 (SPSS9500025D)](decret-n95-113-du-2-fevrier-1995-spss9500025d)
 - [Décret n°95-1156 du 2 novembre 1995 (SANG9502404D)](decret-n95-1156-du-2-novembre-1995-sang9502404d)

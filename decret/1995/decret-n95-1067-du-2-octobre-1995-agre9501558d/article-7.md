@@ -1,0 +1,3 @@
+# Article 7
+
+Dans le cas où le stagiaire n'aurait pas présenté un projet de première installation conforme aux dispositions du titre III du livre III du code rural relatif au contrôle des structures des exploitations agricoles dans un délai maximum de trois années à compter de la fin du stage d'application de six mois, les versements perçus par le stagiaire au titre de la bourse définie à l'article 1er du présent décret sont reversés intégralement au Centre national pour l'aménagement des structures des exploitations agricoles sur décision expresse du préfet de département. Toutefois, le préfet peut décider, pour tenir compte de situations exceptionnelles, de ne pas exiger le reversement prévu au présent article.

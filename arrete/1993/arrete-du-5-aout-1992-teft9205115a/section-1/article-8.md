@@ -4,13 +4,15 @@ Tous les escaliers mécaniques ou non et les ascenseurs doivent être protégés
 
 Toutefois, l'absence de protection des escaliers est admise :
 
-- pour un escalier supplémentaire desservant au plus deux étages et le rez-de-chaussée et s'il est fait application des dispositions de l'article 6 relatives au compartimentage ;
+- en cloisonnement traditionnel, pour un escalier supplémentaire desservant au plus deux étages et le rez-de-chaussée ;
 
-- pour un seul escalier monumental situé dans un hall qui ne dessert que des niveaux s'ouvrant sur ce hall.
+- en compartiments, pour tout escalier interne au compartiment établi sur deux niveaux ;
+
+- pour un seul escalier monumental situé dans un hall qui ne dessert que des niveaux s'ouvrant sur ce hall et si le volume du hall est isolé des autres parties du bâtiment suivant les dispositions de l'article 6, paragraphe 1 ;
 
 I. - Escaliers et ascenseurs encloisonnés :
 
-L'encloisonnement d'un escalier ou d'un ascenseur est constitué par une cage continue jusqu'au niveau d'évacuation vers l'extérieur. L'encloisonnement peut être commun à un escalier et à un ascenseur.
+L'encloisonnement d'un escalier ou d'un ou plusieurs ascenseurs est constitué par une cage continue jusqu'au niveau d'évacuation vers l'extérieur. L'encloisonnement peut être commun à un escalier et à un ascenseur.
 
 Sans préjudice de l'application de l'article R. 232-12-5 du code du travail, le volume d'encloisonnement des escaliers desservant les sous-sols ne doit pas être en communication directe avec celui des escaliers desservant les étages.
 
@@ -18,7 +20,7 @@ Les parois d'encloisonnement doivent être au moins coupe-feu de degré une heur
 
 Les blocs-portes de la cage d'escalier doivent être au moins pare-flamme de degré une demi-heure et munis de ferme-portes.
 
-L'escalier encloisonné doit être maintenu à l'abri de la fumée et désenfumé, dans les conditions prévues par la section 2 du présent arrêté.
+L'escalier encloisonné doit être maintenu à l'abri de la fumée ou désenfumés, dans les conditions prévues par la section 2 du présent arrêté.
 
 Les portes palières de la cage d'ascenseur doivent être au moins coupe-feu de degré un quart d'heure ou pare-flamme de degré une demi-heure.
 

@@ -6,11 +6,11 @@ a) Les parois verticales doivent être au moins :
 
 - coupe-feu de degré une heure entre les locaux et les dégagements ;
 
-- pare-flamme de degré une demi-heure entre les locaux sans risques particuliers ;
+- pare-flamme de degré une demi-heure entre les locaux sans risques particuliers ; toutefois cette disposition n'est pas exigée à l'intérieur d'un ensemble de locaux contigus qui ne dépasse pas 300 mètres carrés au même niveau, à condition qu'il n'y ait aucun local réservé au sommeil ;
 
 b) Les blocs-portes et les éléments verriers des baies équipant les parois verticales doivent être au moins pare-flamme de degré une demi-heure ;
 
-c) Les circulations horizontales de grande longueur encloisonnées doivent être recoupées au moins tous les 30 mètres par des parois et blocs-portes au moins pare-flamme de degré une demi-heure munis de ferme-portes en va-et-vient.
+c) Les circulations horizontales de grande longueur encloisonnées doivent être recoupées au moins tous les 30 mètres par des parois et des blocs-portes en va-et-vient au moins pare-flammes de degré une demi-heure munis de ferme-portes ;
 
 II. - Compartiments :
 
@@ -50,7 +50,7 @@ Sont notamment considérés comme locaux à risques particuliers :
 
 - les machineries d'ascenseur ;
 
-- les locaux comportant les installations de ventilation mécanique contrôlée (V.M.C.) et les installations de conditionnement d'air ;
+- les locaux comportant les installations de ventilation mécanique contrôlée (V.M.C.) inversée et les installations de conditionnement d'air ;
 
 - les locaux contenant des groupes électrogènes ;
 
