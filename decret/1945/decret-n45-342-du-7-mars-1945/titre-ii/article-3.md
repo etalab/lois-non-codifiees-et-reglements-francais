@@ -1,29 +1,31 @@
 # Article 3
 
-Le conseil d'administration de la Régie nationale des usines Renault comprend, outre le président directeur général, dix-sept à dix-neuf membres nommés par décret, à savoir :
+Le conseil d'administration est composé de dix-huit membres :
 
-Trois membres désignés par le ministre du développement industriel et scientifique, dont l'un est chargé des fonctions de vice-président ;
+1° Six représentants de l'Etat nommés par décret pris sur le rapport du ministre chargé de l'industrie, dont :
 
-Trois membres désignés par le ministre de l'économie et des finances ;
+Un sur proposition du ministre chargé de l'industrie ;
 
-Un membre désigné par le ministre de l'équipement et du logement ;
+Un sur proposition du ministre chargé de l'économie ;
 
-Un membre désigné par le ministre des transports ;
+Un sur proposition du ministre chargé des transports ;
 
-Un membre désigné par le ministre du travail, de l'emploi et de la population ;
+Un sur proposition du ministre chargé de la défense nationale ;
 
-Un membre désigné par le ministre chargé de la défense nationale ;
+Un sur proposition du ministre chargé de l'emploi ;
 
-Trois représentants du personnel ouvrier de la Régie ;
+Un sur proposition du ministre chargé du commerce extérieur ;
 
-Un représentant du personnel employé et des agents de la maîtrise ;
+2° Six personnalités choisies et désignées dans les conditions prévues au 2° de l'article 5 de la loi du 26 juillet 1983 susmentionnée ;
 
-Deux représentants du personnel ingénieur et des cadres supérieurs ;
+3° Six représentants des salariés élus dans les conditions prévues par les dispositions de la loi du 26 juillet 1983 susmentionnée.
 
-Un, deux ou trois représentants des salariés actionnaires, élus comme il est dit à l'article 3 bis, selon que le pourcentage du capital représenté par les actions appartenant aux salariés, apprécié au 1er janvier de chaque année, est respectivement inférieur à 10 p. 100, compris entre 10 et 20 p. 100 ou égal ou supérieur à 20 p. 100.
+Les membres du conseil d'administration sont désignés pour cinq ans.
 
-Les membres du conseil d'administration autres que le président directeur général sont nommés pour six ans. Les membres autres que les représentants des salariés actionnaires sont renouvelés par tiers tous les deux ans, le renouvellement de chaque dernière fraction portant sur six membres.
+Ils ne peuvent exercer plus de trois mandats consécutifs.
 
-Les représentants du personnel sont choisis par le ministre du développement industriel et scientifique parmi les délégués titulaires du personnel siégeant effectivement au comité central d'entreprise.
+Il peut être mis fin au mandat des administrateurs dans les conditions prévues aux articles 12, 13 et 25 de la loi du 26 juillet 1983 susmentionnée.
 
-Les représentants des salariés actionnaires sont réputés démissionnaires d'office lorsqu'ils cessent d'appartenir au personnel de la Régie ou de détenir le nombre minimum de cinq actions prévu à l'article suivant.
+Chaque représentant des salariés dispose, pour l'exercice de son mandat d'administrateur, d'un temps égal à la moitié de la durée légale du travail.
+
+Le secrétaire du comité central d'entreprise assiste avec voix consultative au conseil d'administration.
