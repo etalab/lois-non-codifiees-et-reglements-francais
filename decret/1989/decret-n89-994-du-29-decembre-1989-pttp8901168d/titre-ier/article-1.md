@@ -198,36 +198,6 @@ A. - Distribution par porteur spécial :
 
 Taxe supplémentaire par objet. 21,00
 
-B. - Droits de recommandation et indemnités pour perte :
-
-1° Lettres :
-
-Droit de recommandation / indemnité pour perte correspondante R1 14,50 / 100
-
-R2 16,50 / 1 000
-
-R3 20,00 / 2 000
-
-2° Cartes postales urgentes :
-
-Droit de recommandation / indemnité pour perte correspondante Taux unique
-
-14,50 / 100
-
-3° Journaux :
-
-Droit de recommandation / indemnité pour perte correspondante Taux unique
-
-7,70 / 100
-
-4° Autres objets admis à la recommandation :
-
-Droit de recommandation / indemnité pour perte correspondante R1  7,70 / 100
-
-R2  9,30 / 1 000
-
-R3 13,00 / 2 000
-
 C. - Avis de réception postal demandé lors du dépôt des objets chargés ou recommandés.  6,00
 
 D. - Taxe de recherche pour réclamation injustifiée relative à un objet chargé ou recommandé. 11,00
