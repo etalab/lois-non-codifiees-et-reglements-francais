@@ -39,3 +39,5 @@ Bourges : Centre.
 Poitiers - Bordeaux Pau - Agen - Toulouse Montpellier :
 
 Bordeaux : Midi et Sud-Ouest.
+
+Basse-Terre - Fort-de-France - Saint-Denis : Paris - Paris.
