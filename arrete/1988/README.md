@@ -414,7 +414,6 @@
 - [Arrêté du 21 mars 1988 (STFP8800414A)](arrete-du-21-mars-1988-stfp8800414a)
 - [Arrêté du 21 octobre 1988 (DOMX8810904A)](arrete-du-21-octobre-1988-domx8810904a)
 - [Arrêté du 21 octobre 1988 (MERR8800103A)](arrete-du-21-octobre-1988-merr8800103a)
-- [Arrêté du 21 septembre 1988 (TRSA8800517A)](arrete-du-21-septembre-1988-trsa8800517a)
 - [Arrêté du 22 août 1988 (INDE8800588A)](arrete-du-22-aout-1988-inde8800588a)
 - [Arrêté du 22 août 1988 (RESV8800797A)](arrete-du-22-aout-1988-resv8800797a)
 - [Arrêté du 22 août 1988 (SPSA8801291A)](arrete-du-22-aout-1988-spsa8801291a)
