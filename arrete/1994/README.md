@@ -255,6 +255,7 @@
 - [Arrêté du 13 janvier 1994 (ECOT9410202A)](arrete-du-13-janvier-1994-ecot9410202a)
 - [Arrêté du 13 janvier 1994 (ECOT9410203A)](arrete-du-13-janvier-1994-ecot9410203a)
 - [Arrêté du 13 janvier 1994 (MJSK9470009A)](arrete-du-13-janvier-1994-mjsk9470009a)
+- [Arrêté du 13 juin 1994 (EQUT9401047A)](arrete-du-13-juin-1994-equt9401047a)
 - [Arrêté du 13 juin 1994 (TEFE9400608A)](arrete-du-13-juin-1994-tefe9400608a)
 - [Arrêté du 13 mai 1994 (RESM9400719A)](arrete-du-13-mai-1994-resm9400719a)
 - [Arrêté du 13 mai 1994 (SANP9401485A)](arrete-du-13-mai-1994-sanp9401485a)
