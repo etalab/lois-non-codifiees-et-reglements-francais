@@ -37,6 +37,7 @@
 - [Décret n°85-1262 du 27 novembre 1985](decret-n85-1262-du-27-novembre-1985)
 - [Décret n°85-1263 du 27 novembre 1985](decret-n85-1263-du-27-novembre-1985)
 - [Décret n°85-1271 du 27 novembre 1985](decret-n85-1271-du-27-novembre-1985)
+- [Décret n°85-1282 du 27 novembre 1985](decret-n85-1282-du-27-novembre-1985)
 - [Décret n°85-915 du 27 août 1985](decret-n85-915-du-27-aout-1985)
 - [Décret n°85-1145 du 28 octobre 1985](decret-n85-1145-du-28-octobre-1985)
 - [Décret n°85-1146 du 28 octobre 1985](decret-n85-1146-du-28-octobre-1985)
