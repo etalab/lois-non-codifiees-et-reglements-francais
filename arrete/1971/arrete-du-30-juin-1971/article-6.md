@@ -1,7 +1,11 @@
 # Article 6
 
-Les dispositions du présent arrêté sont applicables à compter du 1er décembre 1964.
+L'autorisation pour un véhicule de la catégorie B d'être muni d'un feu spécial sera délivrée par les préfets :
 
-Toutefois, les coefficients prévus à l'article 2 ci-dessus ne prendront effet pour les personnels militaires que le 1er janvier 1967 et les coefficients antérieurement en vigueur seront applicables aux services accomplis avant cette date.
+Pour les véhicules ambulances, sur proposition du directeur départemental de l'action sanitaire et sociale ;
 
-De même, les coefficients de bonifications antérieurement en vigueur continueront d'être applicables aux services accomplis, jusqu'à la date de publication du présent arrêté, par les personnels civils bénéficiant déjà de bonifications au titre de l'arrêté du 31 août 1927.
+Pour les autres véhicules, sur proposition de l'ingénieur en chef des mines chargé de l'arrondissement minéralogique.
+
+Cette autorisation sera matérialisée sur le certificat d'immatriculation par la mention "Feu spécial bleu, arrêté du 30 juin 1971".
+
+Toutefois, en ce qui concerne les véhicules ambulances de l'armée les conditions dans lesquelles sera délivrée l'autorisation seront fixées par le ministre d'Etat chargé de la défense nationale.
