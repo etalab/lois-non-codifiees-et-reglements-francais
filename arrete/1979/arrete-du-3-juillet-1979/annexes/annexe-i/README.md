@@ -9,7 +9,5 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Article ANNEXE I ART. 4](article-annexe-i-art-4.md)
 - [Article ANNEXE I ART. 5](article-annexe-i-art-5.md)
-- [Article ANNEXE I ART. 6](article-annexe-i-art-6.md)
 - [Article ANNEXE I ART. 7](article-annexe-i-art-7.md)
