@@ -8,13 +8,13 @@ Un représentant du ministre chargé de l'économie ;
 
 Un représentant du ministre chargé du budget ;
 
-Un représentant du ministre chargé des relations extérieures ;
+Un représentant du ministre chargé des affaires étrangères ;
 
 Un représentant du ministre chargé de la coopération ;
 
 Un représentant du ministre chargé de la recherche ;
 
-Un représentant du ministre chargé des mines ;
+Un représentant du ministre chargé de l'industrie ;
 
 Un représentant du ministre chargé de l'environnement ;
 
@@ -22,9 +22,13 @@ Un représentant du ministre chargé de l'environnement ;
 
 3. Six représentants des salariés.
 
-Les représentants des ministres et les personnalités choisies en raison de leur compétence sont nommés par décret pris sur le rapport du ministre chargé des mines ; les représentants du personnel sont élus dans les conditions prévues par le chapitre II du titre II de la loi du 26 juillet 1983.
+Les représentants des ministres et les personnalités choisies en raison de leur compétence sont nommés par décret pris sur le rapport du ministre chargé de la recherche et du ministre chargé de l'industrie ; les représentants du personnel sont élus dans les conditions prévues par le chapitre II du titre II de la loi du 26 juillet 1983.
 
-Le président du conseil d'administration, choisi parmi les administrateurs, est nommé, sur proposition du conseil, par décret en conseil des ministres pris sur le rapport du ministre chargé des mines.
+Le président du conseil d'administration, choisi parmi les administrateurs, est nommé, sur proposition du conseil, par décret en conseil des ministres pris sur le rapport du ministre chargé de la recherche et du ministre chargé de l'industrie.
+
+La durée des fonctions des membres du conseil d'administration est de cinq ans. Ils ne peuvent exercer plus de trois mandats consécutifs.
+
+Le président est nommé pour la durée de son mandat d'administrateur.
 
 Le conseil d'administration désigne en son sein, dès sa nomination et après chaque renouvellement, un président suppléant chargé, en cas d'absence ou d'empêchement du président du conseil d'administration, de remplir les fonctions de ce dernier.
 
