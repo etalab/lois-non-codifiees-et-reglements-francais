@@ -1,0 +1,5 @@
+# Article 30
+
+Toute infraction aux dispositions du paragraphe 3 de l'article 1er (effets de la proposition de classement d'un immeuble), de l'article 7 (effets de la notification d'une demande d'expropriation), des paragraphes 1er et 2 de l'article 9 (modifications d'un immeuble classé), de l'article 12 (constructions neuves, servitudes), ou de l'article 22 (modification d'un objet mobilier classé) de la présente loi sera punie d'une amende de 0,75 à 30 euros sans préjudice de l'action en dommages-intérêts qui pourra être exercée contre ceux qui auront ordonné les travaux exécutés ou les mesures prises en violation desdits articles.
+
+En outre, le ministre d'Etat, chargé des affaires culturelles peut prescrire la remise en état des lieux aux frais des délinquants. Il peut également demander de prescrire ladite remise en état à la juridiction compétente, laquelle peut éventuellement soit fixer une astreinte, soit ordonner l'exécution d'office par l'Administration aux frais des délinquants.
