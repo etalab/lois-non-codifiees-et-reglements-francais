@@ -23,5 +23,6 @@
 - [Décret n°68-386 du 26 avril 1968](decret-n68-386-du-26-avril-1968)
 - [Décret n°68-299 du 29 mars 1968](decret-n68-299-du-29-mars-1968)
 - [Décret n°68-300 du 29 mars 1968](decret-n68-300-du-29-mars-1968)
+- [Décret n°68-485 du 29 mai 1968](decret-n68-485-du-29-mai-1968)
 - [Décret n°68-401 du 30 avril 1968](decret-n68-401-du-30-avril-1968)
 - [Décret n°68-418 du 30 avril 1968](decret-n68-418-du-30-avril-1968)

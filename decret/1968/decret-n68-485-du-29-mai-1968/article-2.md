@@ -1,0 +1,3 @@
+# Article 2
+
+Cette vignette, délivrée par le comité interprofessionnel de la noix de Grenoble dont la composition et la mission sont définies aux articles suivants, est apposée sur les emballages par les producteurs expéditeurs exerçant leur activité isolément ou en groupements, les personnes physiques ou morales faisant le commerce en gros et exploitant des magasins de stockage ou des ateliers de traitement ou de conditionnement. Ceux-ci tiennent pour le compte du comité un registre d'entrées et de sorties des quantités de noix de Grenoble qu'ils ont produites ou achetées et vendues, en mentionnant notamment l'identité des producteurs et lui remettant les bordereaux d'attribution de vignettes.
