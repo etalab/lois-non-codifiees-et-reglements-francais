@@ -1,3 +1,0 @@
-# Article 4
-
-Les ministres compétents agréent des agents de l'inspection de la jeunesse et des sports, des médecins ou des vétérinaires pour procéder [*attribution*], sur instruction du ministre chargé des sports, aux enquêtes et contrôles nécessaires à l'application de la présente loi. Ces enquêtes et contrôles peuvent être également demandés par les fédérations sportives. Dans les mêmes conditions, les agents de l'inspection de la jeunesse et des sports agréés en application de l'alinéa précédent peuvent seuls procéder à des perquisitions et saisies selon les modalités prévues à l'article 7.

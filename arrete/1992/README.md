@@ -165,7 +165,6 @@
 - [Arrêté du 9 janvier 1992 (SANM9200020A)](arrete-du-9-janvier-1992-sanm9200020a)
 - [Arrêté du 9 janvier 1992 (TEFT9204274A)](arrete-du-9-janvier-1992-teft9204274a)
 - [Arrêté du 9 juillet 1992 (AGRP9200119A)](arrete-du-9-juillet-1992-agrp9200119a)
-- [Arrêté du 9 juillet 1992 (INTD9200313A)](arrete-du-9-juillet-1992-intd9200313a)
 - [Arrêté du 9 juillet 1992 (MENB9202882A)](arrete-du-9-juillet-1992-menb9202882a)
 - [Arrêté du 9 juin 1992 (BUDR9205023A)](arrete-du-9-juin-1992-budr9205023a)
 - [Arrêté du 9 juin 1992 (ECOC9200064A)](arrete-du-9-juin-1992-ecoc9200064a)
@@ -760,4 +759,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)

@@ -4,7 +4,6 @@
 - [Article 1](article-1.md)
 - [Titre 2 : De la commission nationale de lutte contre le dopage.](titre-2)
 - [Titre 3 : Du contrôle.](titre-3)
-- [TITRE III : DU CONTRÔLE.](titre-iii)
 - [Titre 4 : Des mesures administratives.](titre-4)
 - [Titre 5 : Dispositions pénales.](titre-5)
 - [Titre 6 : Dispositions diverses.](titre-6)
