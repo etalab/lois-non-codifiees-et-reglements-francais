@@ -2,5 +2,4 @@
 
 - [Titre Ier : Dispositions relatives à l'élection des députés.](titre-ier)
 - [Titre II : Dispositions relatives à l'élection des sénateurs.](titre-ii)
-- [Article 23](article-23.md)
 - [Annexes](annexes)
