@@ -1,7 +1,0 @@
-# Article 5
-
-Pour l'application du décret susvisé du 14 novembre 1949 [*relatif à l'harmonisation des transports ferroviaires et routiers*], notamment de son article 25, les entreprises membres d'une société coopérative d'entreprises de transport routier de marchandises restent inscrites au registre des transporteurs routiers. Toutefois leur inscription est complétée par la mention de leur adhésion à la société coopérative et, si cette adhésion ne concerne pas la totalité de leur fonds de commerce, par l'indication des éléments de l'inscription qui se rapportent à la partie du fonds de commerce exploitée en coopération. Tant que dure leur adhésion à la société coopérative, leur inscription n'est transférable et des licences ne peuvent leur être délivrées que pour la partie de leur fonds de commerce qui n'est pas exploitée en coopération.
-
-Les sociétés coopératives d'entreprises de transport routier de marchandises sont également inscrites au registre des transporteurs routiers. En dehors des mentions qui se rapportent au fonds de commerce qu'elles peuvent éventuellement exploiter en propre, les inscriptions de ces sociétés coopératives comportent les noms ou raisons sociales de tous leurs membres et rappellent les éléments de l'inscription de ces membres qui se rapportent à la partie de leur fonds de commerce exploitée en coopération.
-
-Les licences attachées aux parties de fonds de commerce exploitées en coopération portent à la fois [*mentions*] le nom de la société coopérative et le nom de l'associé.
