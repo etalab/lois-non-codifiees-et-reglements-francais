@@ -16,6 +16,6 @@ Les montants annuels des cotisations des classes A, B, C et D sont respectivemen
 
 L'assujetti opte dans les conditions fixées par le règlement prévu à l'article 6 ci-après pour l'une des classes A, B, C ou D.
 
-A défaut d'option, les artistes auteurs mentionnés au a de l'article 1er ci-dessus sont inscrits d'office en classe spéciale et les assujettis mentionnés au b dudit article en classe A. Pour ces derniers, la classe spéciale est une classe d'exonération, ouverte dans les conditions fixées par le règlement susmentionné aux assujettis justifiant de revenus professionnels réduits.
+A défaut d'option, les personnes mentionnées au deuxième alinéa de l'article 1er du présent décret sont inscrites d'office en classe spéciale.
 
 Le choix exercé à l'origine ou l'inscription d'office peuvent être modifiés dans les conditions déterminées par le règlement prévu à l'article 6 ci-après.

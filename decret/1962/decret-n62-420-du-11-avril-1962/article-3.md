@@ -1,3 +1,5 @@
 # Article 3
 
-Des exonérations de cotisations peuvent être accordées dans les conditions prévues par le règlement visé à l'article 6 ci-après, d'une part, aux assujettis âgés de moins de vingt-huit ans au 1er janvier de l'année considérée et exerçant leur profession depuis moins d'une année, d'autre part, en cas d'infortune notoire, d'incapacité d'exercice professionnel de plus de six mois ou d'invalidité au moins égale à 100 p. 100 nécessitant le recours à l'assistance d'une tierce personne.
+Pour les personnes mentionnées au deuxième alinéa de l'article L. 382-12 du code de la sécurité sociale, la fraction des cotisations prises en charge au titre de la rémunération perçue en application de l'article L. 133-3 du code de la propriété intellectuelle est égale à 50 % du montant de la cotisation annuelle due par l'intéressé.
+
+Cette contribution n'est due qu'autant que l'assuré a versé la part de la cotisation annuelle à sa charge.
