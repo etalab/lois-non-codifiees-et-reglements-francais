@@ -1,19 +1,45 @@
 # Article 10
 
-Paragraphe 1. Pour le personnel soumis à l'horaire collectif, dans tous les établissements soumis aux dispositions du présent décret, y compris ceux qui bénéficient de l'autorisation de déroger à l'horaire collectif dans les conditions prévues par l'article L. 212-4-1 du code du travail, un horaire de travail doit être affiché de manière à assurer l'information immédiate et permanente des salariés concernés ainsi que celle de l'autorité chargée du contrôle.
-
-Cet horaire est daté et signé par le chef d'établissement ou, sous sa responsabilité, par la personne qu'il a désignée à cet effet. Un double doit être transmis à l'inspecteur du travail avant sa mise en service et avant l'entrée en vigueur de toute modification.
-
-Réserve faite pour le cas d'horaires individualisés institués selon l'article L. 212-4-1 susvisé, les salariés ne peuvent être occupés que conformément aux indications de l'horaire qui mentionne, pour chaque journée, en précisant éventuellement le régime particulier auquel sont soumis certaines catégories de travailleurs, les heures de début et de fin du travail et celles des repos. Il mentionne, en outre, s'il y a lieu, la base juridique des heures supplémentaires ou des heures de récupération qu'il comporte.
-
-En cas d'organisation du travail par équipes, la composition nominative de chacune de celles-ci est indiquée, soit par un tableau affiché dans les mêmes conditions que l'horaire, soit par un registre spécial tenu constamment à jour et mis à la disposition du service de l'inspection du travail.
+Paragraphe 1. Dans tous les établissements soumis aux dispositions du présent décret, les articles D. 212-18 à D. 212-20 et l'article D. 212-23 du code du travail sont applicables.
 
 Paragraphe 2. Pour le personnel roulant, la durée du travail est attestée et contrôlée au moyen du document de contrôle approprié prévu par les règlements (C.E.E.) n° 3820-85 du 20 décembre 1985 et (C.E.E.) n° 3821-85 du 20 décembre 1985 modifié et par la réglementation applicable au document de contrôle des conditions de travail des membres d'équipage des transports routiers.
 
+La durée du temps passé au service de l'employeur, ou temps de service, des personnels de conduite affectés, dans les transports routiers de marchandises, à des services leur faisant obligation de prendre au moins six repos journaliers par mois hors du domicile, et, pour les personnels de conduite affectés, dans les entreprises de déménagement, à des services leur faisant obligation de prendre au moins quarante repos journaliers par an hors du domicile, est enregistrée, attestée et contrôlée au moyen de la feuille d'enregistrement de l'appareil de contrôle défini par le règlement (CEE) n° 3821/85 du Conseil du 20 décembre 1985, dont l'utilisation, en application de ce règlement, est obligatoire.
+
+L'ensemble des heures effectuées, constitutives de la durée du temps passé au service de l'employeur, ou temps de service, par les personnels de conduite visés au précédent alinéa est décompté, dans ce cadre, selon les modalités suivantes :
+
+- quotidiennement, par leur enregistrement, selon les moyens visés au premier alinéa du présent paragraphe 2, des heures de temps de service effectué ;
+
+- dans le cadre de la semaine civile, par leur récapitulation hebdomadaire ;
+
+- dans le cadre du mois civil, par leur récapitulation mensuelle.
+
+Le décompte quotidien, hebdomadaire et mensuel des heures de service effectuées doit distinguer, pour une connaissance effective de l'activité de chaque salarié concerné, la durée du temps de service consacré à la conduite et la durée du temps de service autre que la conduite.
+
+La durée du temps de service est contrôlée, dans l'établissement d'attache du conducteur, au moyen du décompte quotidien, hebdomadaire et mensuel prévu au présent paragraphe.
+
 Paragraphe 3. Dans les entreprises de collecte de fret maritime ou aérien visées à l'article premier, les horaires de travail du personnel dont l'activité est indispensable aux opérations rendues nécessaires par les mouvements des navires ou des avions peuvent être décalés en fonction desdits mouvements.
 
-Paragraphe 4. Dans tous les établissements où s'exercent les activités visées à l'article 1er du présent décret, un registre spécial sera tenu à la disposition des agents dans un local constamment accessible à chacun d'eux pour leur permettre de mentionner, en toute indépendance, les dérogations aux prescriptions du présent décret qui se seraient produites au cours de leur travail personnel ainsi que les observations auxquelles donnerait lieu de leur part l'application du présent décret. L'employeur pourra porter des annotations ou observations sur ce registre qui doit être tenu constamment à la disposition du service chargé du contrôle et de la réglementation du travail dans l'établissement et des délégués du personnel.
+Paragraphe 4. Les délégués du personnel peuvent consulter les documents visés au paragraphe 2 du présent article 10, et le document mensuel, annexé au bulletin de paie, visé au deuxième alinéa du paragraphe 6 du présent article 10.
+
+Le conducteur a le droit d'obtenir communication, sans frais, et en bon ordre, des feuilles d'enregistrement de l'appareil de contrôle défini par le règlement CEE n° 3821/85, le concernant, et des documents visés aux paragraphes 2 et 6 (deuxième alinéa) du présent article 10, ayant servi de base à l'élaboration de ses bulletins de paie.
+
+L'entreprise remet, sans frais, et en bon ordre, une copie de ces documents, dans un format identique à celui des originaux, aux conducteurs intéressés qui en font la demande.
 
 Paragraphe 5. Des modalités de contrôle différentes complétant ou se substituant aux modalités ci-dessus pourront être autorisées par arrêté du ministre chargé des transports et du ministre chargé du travail, pris après avis des organisations d'employeurs et de salariés de la profession.
 
-Paragraphe 6. Le bulletin de paie ou la fiche annexée au bulletin de paie prévue à l'article D. 212-11 du code du travail doit préciser le total cumulé des heures supplémentaires effectuées par le salarié depuis le début de l'année civile.
+Paragraphe 6. Le bulletin de paie, ou un document mensuel annexé au bulletin de paie, doit préciser le total cumulé des heures supplémentaires effectuées et des repos compensateurs ou récupérateurs acquis par le salarié depuis le début de l'année civile.
+
+Le bulletin de paie, ou le document mensuel annexé mentionné au précédent alinéa, doit comporter obligatoirement, pour les personnels de conduite affectés, dans les transports routiers de marchandises, à des services leur faisant obligation de prendre au moins six repos journaliers par mois hors du domicile, et, pour les personnels de conduite affectés, dans les entreprises de déménagement, à des services leur faisant obligation de prendre au moins quarante repos journaliers par an hors du domicile, sans préjudice des dispositions de l'article R. 143-2 et des articles D. 212-18 à D. 212-20 et D. 212-23 du code du travail, après régularisation éventuelle le mois suivant, compte tenu du délai nécessaire à leur connaissance effective :
+
+- la durée des temps de conduite ;
+
+- la durée des temps de service autres que la conduite ;
+
+- l'ensemble de ces temps constitutifs du temps de service rémunéré, récapitulés mensuellement ;
+
+- les heures qui sont payées au taux normal et celles qui comportent une majoration pour heures supplémentaires ou pour toute autre cause ;
+
+- les informations relatives aux repos compensateurs ou récupérateurs acquis en fonction des durées de temps de service effectuées.
+
+Le bulletin de paie, ou le document mensuel annexé, établi pour les conducteurs qui ont effectué dans le mois considéré des services en double équipage, visés au paragraphe 5 de l'article 5 du présent décret, doit mentionner l'intégralité des temps passés par ces conducteurs au service de leur employeur, avant prise en compte du coefficient de 50 p. 100 visé audit paragraphe.
