@@ -1,0 +1,5 @@
+# Article 16-1
+
+En application des dispositions du titre Ier de la loi du 16 décembre 1996 susmentionnée, et sans préjudice des recrutements effectués au titre de l'article 5 du présent décret, il pourra être procédé, dans les conditions fixées dans le présent chapitre, jusqu'à l'expiration d'une période de quatre ans à compter de la date de publication de ladite loi, dans la limite de contingents annuels d'emplois fixés par arrêtés conjoints du ministre chargé de la fonction publique, du ministre chargé du budget et du ministre chargé de l'éducation nationale, à l'organisation de concours d'accès au corps des ouvriers d'entretien et d'accueil réservés aux candidats remplissant les conditions fixées aux articles 1er et 2 de la loi du 16 décembre 1996 et qui exercent des fonctions du niveau de catégorie C.
+
+Les intéressés doivent justifier de la qualité d'agents non titulaires des services des ministères chargés de l'éducation nationale, de l'enseignement supérieur, de la jeunesse et des sports ou des établissements qui en relèvent.
