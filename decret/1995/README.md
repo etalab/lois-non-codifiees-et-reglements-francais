@@ -91,6 +91,7 @@
 - [Décret n°95-277 du 7 mars 1995 (SPSS9500517D)](decret-n95-277-du-7-mars-1995-spss9500517d)
 - [Décret n°95-279 du 7 mars 1995 (DEFP9501092D)](decret-n95-279-du-7-mars-1995-defp9501092d)
 - [Décret n°95-281 du 7 mars 1995 (INDG9401267D)](decret-n95-281-du-7-mars-1995-indg9401267d)
+- [Décret n°95-369 du 7 avril 1995 (EQUK9500535D)](decret-n95-369-du-7-avril-1995-equk9500535d)
 - [Décret n°94-481 du 8 juin 1994 (ECOT9494247D)](decret-n94-481-du-8-juin-1994-ecot9494247d)
 - [Décret n°95-145 du 8 février 1995 (EQUL9400557D)](decret-n95-145-du-8-fevrier-1995-equl9400557d)
 - [Décret n°95-148 du 8 février 1995 (ENVN9530002D)](decret-n95-148-du-8-fevrier-1995-envn9530002d)
