@@ -4,62 +4,103 @@ Entre le 1er août 1995 et le 31 décembre 1996, peuvent être promus au grade p
 
 Les intéressés sont nommés à l'échelon déterminé selon le tableau suivant :
 
-1er GRADE
+<table>
+<tbody>
+<tr>
+<td width="95">
+<p align="center">
+<strong>1er GRADE</strong>
+<br/>nouveau</p>
+</td>
+<td width="95">
+<p align="center">
+<strong>GRADE<br/>
+</strong>provisoire</p>
+</td>
+<td width="160">
+<p align="center">
+<strong>ANCIENNETE CONSERVEE</strong>
+<br/>dans la limite<br/>de la durée de l'échelon</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">13e échelon</p>
+</td>
+<td width="95">
+<p align="center">5e échelon</p>
+</td>
+<td width="160">
+<p align="center">Ancienneté conservée</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">12e échelon</p>
+</td>
+<td width="95">
+<p align="center">4e échelon</p>
+</td>
+<td width="160">
+<p align="center">Ancienneté conservée</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">11e échelon</p>
+</td>
+<td width="95">
+<p align="center">4e échelon</p>
+</td>
+<td width="160">
+<p align="center">Sans ancienneté</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">10e échelon</p>
+</td>
+<td width="95">
+<p align="center">3e échelon</p>
+</td>
+<td width="160">
+<p align="center">Ancienneté conservée</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">9e échelon</p>
+</td>
+<td width="95">
+<p align="center">2e échelon</p>
+</td>
+<td width="160">
+<p align="center">Ancienneté conservée</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">8e échelon</p>
+</td>
+<td width="95">
+<p align="center">2e échelon</p>
+</td>
+<td width="160">
+<p align="center">Sans ancienneté</p>
+</td>
+</tr>
+<tr>
+<td width="95">
+<p align="center">7e échelon</p>
+</td>
+<td width="95">
+<p align="center">1er échelon</p>
+</td>
+<td width="160">
+<p align="center">Ancienneté conservée</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-nouveau
-
-GRADE
-
-provisoire
-
-ANCIENNETÉ CONSERVÉE
-
-dans la limite de
-
-la durée de l'échelon
-
-13e échelon
-
-5e échelon
-
-Ancienneté conservée.
-
-12e échelon
-
-4e échelon
-
-Ancienneté conservée.
-
-11e échelon
-
-4e échelon
-
-Sans ancienneté.
-
-10e échelon
-
-3e échelon
-
-Ancienneté conservée.
-
-9e échelon
-
-2e échelon
-
-Ancienneté conservée.
-
-8e échelon
-
-2e échelon
-
-Sans ancienneté.
-
-7e échelon
-
-1er échelon
-
-Ancienneté conservée.
-
-Lorsque l'application du tableau ci-dessus aboutit à classer les fonctionnaires intéressés à un échelon doté d'un indice inférieur à celui qu'ils détenaient dans leur grade précédent, les intéressés conservent, à titre personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.
-
-Les intéressés seront reclassés dans le nouveau grade de contrôleur divisionnaire lors de la dernière tranche prévue pour la constitution initiale de ce grade.
+Les intéressés sont nommés à un échelon doté d'un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade d'origine. Dans la limite de l'ancienneté moyenne fixée à l'article 15 ci-dessus pour une promotion à l'échelon supérieur, ils conservent l'ancienneté qu'ils avaient acquise dans l'échelon de leur ancien grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans l'ancien grade. Dans la même limite, les fonctionnaires promus alors qu'ils ont atteint le dernier échelon de leur grade conservent leur ancienneté d'échelon.
