@@ -12,7 +12,7 @@ I. - Pour l'aérogare CDG 1, limitation à trois prestataires pour chacun des se
 
 - déplacement de l'avion (catégorie 5.6).
 
-II. - Pour l'aérogare CDG 2, limitation à deux prestataires pour chacun des services suivants :
+II. - Pour l'aérogare CDG 2, limitation à trois prestataires pour chacun des services  suivants  :
 
 - chargement et déchargement de l'avion (catégorie 5.4) ;
 
@@ -40,7 +40,7 @@ VI. - Pour l'aérogare T 9, limitation à deux prestataires pour chacun des serv
 
 VII. - Pour l'aérogare T 9, limitation, jusqu'au 1er avril 2000, à deux prestataires pour l'assistance passagers (catégorie 2).
 
-VIII. - Pour l'aérogare T 9, limitation, jusqu'au 1er avril 2000, à un prestataire pour chacun des services suivants :
+VIII. - Pour l'aérogare T 9, limitation à deux prestataires pour chacun des services  suivants :
 
 - assistance bagages (catégorie 3) ;
 

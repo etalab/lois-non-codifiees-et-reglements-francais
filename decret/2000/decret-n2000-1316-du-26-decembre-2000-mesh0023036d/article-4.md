@@ -1,0 +1,3 @@
+# Article 4
+
+Les dispositions du chapitre Ier bis du titre II du livre V du code de la santé publique (deuxième partie : Décrets en Conseil d'Etat) sont applicables aux demandes déposées en application de l'article L. 5126-7 du code de la santé publique et en cours d'instruction à la date de publication du présent décret. Le délai dont dispose le préfet pour se prononcer sur ces demandes est suspendu jusqu'à réception par ses services de toutes les pièces prévues aux articles R. 5104-21 et R. 5104-60, qui n'auraient pas déjà été fournies. Le préfet en avise les requérants, le directeur régional des affaires sanitaires et sociales et, le cas échéant, le directeur de l'agence régionale de l'hospitalisation.

@@ -1,0 +1,9 @@
+# Article 12-1
+
+Avant qu'il ne soit statué sur l'ouverture d'une procédure de redressement ou de liquidation judiciaires à l'égard d'un établissement de crédit ou d'une entreprise d'investissement, le président du tribunal saisit la commission bancaire d'une demande d'avis. Le greffier transmet cette demande sans délai. Il en informe le procureur de la République.
+
+La saisine de la commission bancaire est écrite. Elle est accompagnée des pièces nécessaires à son information. Cette saisine est, à la diligence de la commission bancaire, portée sans délai à la connaissance du président du directoire du fonds de garantie des dépôts.
+
+La commission bancaire rend son avis dans un délai de vingt et un jours francs à compter de la réception de la demande d'avis. En cas d'urgence, le délai peut être abrégé par le président du tribunal, sans pouvoir toutefois être inférieur à cinq jours francs ouvrables. En l'absence de réponse de la commission bancaire dans le délai imparti, son avis est réputé favorable à l'ouverture de la procédure.
+
+L'avis de la commission bancaire est écrit. Il est transmis par tout moyen au greffier, qui le remet au président du tribunal et au procureur de la République. L'avis est versé au dossier.

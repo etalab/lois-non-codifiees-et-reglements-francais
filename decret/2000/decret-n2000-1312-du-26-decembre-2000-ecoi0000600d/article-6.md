@@ -1,0 +1,3 @@
+# Article 6
+
+En cas d'omission de la déclaration prescrite par l'article 5 ci-dessus ou de déclaration inexacte, le montant de la taxe parafiscale exigible est majoré d'une indemnité de retard de 10 %.
