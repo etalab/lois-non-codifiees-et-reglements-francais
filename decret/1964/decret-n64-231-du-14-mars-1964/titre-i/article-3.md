@@ -1,7 +1,9 @@
 # Article 3
 
-Les présentations sont rédigées sur papier libre et obligatoirement revêtues de la signature de leurs auteurs.
+Les présentations sont rédigées sur des formulaires imprimés, dont le modèle est arrêté par le Conseil constitutionnel.
 
-Elles doivent comporter [*mentions obligatoires*], qu'elles soient faites à titre individuel ou collectif, outre les nom, prénoms et qualité du candidat proposé, l'indication des nom, prénoms, date et lieu de naissance, profession et domicile du ou des signataires suivie de la désignation précise de la fonction ouvrant droit à présentation.
+Elles sont revêtues de la signature de leur auteur.
 
-Sur demande du Conseil constitutionnel, les préfets des départements de la métropole et d'outre-mer et les chefs des territoires d'outre-mer peuvent être appelés à vérifier l'authenticité des signatures et mentions visées au présent article.
+Lorsque les présentations émanent des membres des assemblées ou conseils énumérés au deuxième alinéa du I de l'article 3 de la loi n° 62-1292 du 6 novembre 1962 modifiée, la signature doit être certifiée par un membre du bureau de l'assemblée ou du conseil. Lorsqu'elles émanent de maires, elles doivent être revêtues du sceau de la mairie.
+
+Le Conseil constitutionnel fait procéder à toute vérification qu'il juge utile.
