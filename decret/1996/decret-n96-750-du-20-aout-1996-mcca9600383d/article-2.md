@@ -4,7 +4,7 @@ La commission de récolement des dépôts d'oeuvres d'art est composée ainsi qu
 
 1° Un magistrat de la Cour des comptes, désigné par le premier président de la Cour des comptes, président ;
 
-2° Cinq représentants du ministère de la culture :
+2° Sept représentants du ministère de la culture :
 
 - le chef du service de l'inspection générale de l'administration ou son représentant ;
 
@@ -16,6 +16,10 @@ La commission de récolement des dépôts d'oeuvres d'art est composée ainsi qu
 
 - le directeur du Musée national d'art moderne, centre de création industrielle, ou son représentant ;
 
+- le directeur de l'architecture et du patrimoine ou son représentant ;
+
+- le directeur de l'Union centrale des arts décoratifs ou son représentant.
+
 3° Un représentant du garde des sceaux, ministre de la justice ;
 
 4° Un représentant du ministre de la défense ;
@@ -24,7 +28,9 @@ La commission de récolement des dépôts d'oeuvres d'art est composée ainsi qu
 
 6° Un représentant du ministre de l'intérieur ;
 
-7° Un représentant du ministre chargé du budget.
+7° Un représentant du ministre chargé du budget ;
+
+8° Un représentant du ministre chargé de l'enseignement et de la recherche.
 
 Lorsque la commission examine des questions concernant un département ministériel qui n'est pas représenté en son sein, elle invite un représentant du ministre intéressé. Ce représentant siège avec voix délibérative.
 
