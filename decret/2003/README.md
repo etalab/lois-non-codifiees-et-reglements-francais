@@ -63,6 +63,7 @@
 - [Décret n°2003-1068 du 10 novembre 2003 (EQUP0301253D)](decret-n2003-1068-du-10-novembre-2003-equp0301253d)
 - [Décret n°2003-30 du 10 janvier 2003 (INDI0200345D)](decret-n2003-30-du-10-janvier-2003-indi0200345d)
 - [Décret n°2003-31 du 10 janvier 2003 (INDI0200837D)](decret-n2003-31-du-10-janvier-2003-indi0200837d)
+- [Décret n°95-30 du 10 janvier 1995 (INTB9400477D)](decret-n95-30-du-10-janvier-1995-intb9400477d)
 - [Décret n°2003-104 du 11 février 2003 (DEFP0301066D)](decret-n2003-104-du-11-fevrier-2003-defp0301066d)
 - [Décret n°2003-109 du 11 février 2003 (SANP0223796D)](decret-n2003-109-du-11-fevrier-2003-sanp0223796d)
 - [Décret n°2003-110 du 11 février 2003 (SOCS0320208D)](decret-n2003-110-du-11-fevrier-2003-socs0320208d)
