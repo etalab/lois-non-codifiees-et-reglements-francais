@@ -762,6 +762,7 @@
 - [Décret n°93-961 du 28 juillet 1993 (INDP9320262D)](decret-n93-961-du-28-juillet-1993-indp9320262d)
 - [Décret n°93-828 du 28 mai 1993 (MEND9305030D)](decret-n93-828-du-28-mai-1993-mend9305030d)
 - [Décret du 29 mars 1993 (INTD9300168D)](decret-du-29-mars-1993-intd9300168d)
+- [Décret n°84-238 du 29 mars 1984](decret-n84-238-du-29-mars-1984)
 - [Décret n°92-1369 du 29 décembre 1992 (BUDR9204122D)](decret-n92-1369-du-29-decembre-1992-budr9204122d)
 - [Décret n°92-1370 du 29 décembre 1992 (BUDR9204121D)](decret-n92-1370-du-29-decembre-1992-budr9204121d)
 - [Décret n°92-1372 du 29 décembre 1992 (SPSS9203226D)](decret-n92-1372-du-29-decembre-1992-spss9203226d)
