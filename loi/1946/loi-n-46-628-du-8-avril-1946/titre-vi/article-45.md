@@ -4,16 +4,4 @@ Il est créé dès la promulgation de la présente loi un Conseil supérieur de 
 
 Le conseil supérieur de l'électricité et du gaz arbitrera en dernier ressort les conflits qui peuvent survenir entre les divers établissements créés par la présente loi et les autorités concédantes.
 
-Il sera composé par parties égales de représentants :
-
-Du parlement ;
-
-De l'administration ;
-
-Des collectivités locales ;
-
-Des usagers ;
-
-Des services nationaux ;
-
-Du personnel.
+Le Conseil supérieur de l'électricité et du gaz est composé par parties égales de membres du Parlement, de représentants des ministères concernés, des collectivités locales, des consommateurs éligibles et non éligibles, des entreprises électriques et gazières et du personnel de ces industries.
