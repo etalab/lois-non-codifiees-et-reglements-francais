@@ -1,0 +1,7 @@
+# Article 226-2.08
+
+Portes étanches aux intempéries donnant accès à des espaces fermés
+
+1. Toutes les ouvertures d'accès pratiquées dans les cloisons de superstructures fermées et d'autres structures extérieures par lesquelles l'eau peut pénétrer et mettre le navire en danger doivent être pourvues de portes fixées à demeure à la cloison et elles doivent être étanches aux intempéries lorsque ces portes sont fermées. Leur structure et leur renforcement doivent être conçus de telle sorte que la résistance de l'ensemble soit égale à celle de la cloison non percée. Les systèmes d'assujettissement prévus pour garantir l'étanchéité aux intempéries doivent comporter des garnitures d'étanchéité, des tourniquets de serrage ou autres dispositifs analogues et doivent être fixés à demeure aux cloisons ou aux portes. Ils doivent pouvoir être manœuvrés de chaque côté de la cloison.
+
+2. La hauteur sur pont des seuils des portes, des capots de descente, des superstructures et des tambours des machines qui donnent directement accès à des parties de pont exposées aux intempéries et à la mer ne doit pas être inférieure à 600 mm sur le pont de travail, et 300 mm sur le pont de superstructure. Si l'expérience acquise en cours d'exploitation le justifie et si l'administration l'autorise, cette hauteur peut être réduite respectivement à un minimum de 380 mm sur le pont de travail et de 150 mm sur le pont de superstructure. Cette réduction ne s'applique pas aux portes qui donnent directement accès aux tranches des machines.

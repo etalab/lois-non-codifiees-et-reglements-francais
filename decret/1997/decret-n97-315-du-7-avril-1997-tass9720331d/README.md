@@ -1,6 +1,7 @@
 # Décret n°97-315 du 7 avril 1997 relatif à l'allégement de charges sociales dans la zone franche de Corse
 
 - [Article 1](article-1.md)
+- [Article 1 bis](article-1-bis.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

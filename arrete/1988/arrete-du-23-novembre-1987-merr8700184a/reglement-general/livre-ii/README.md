@@ -11,6 +11,7 @@
 - [Division 221 : Navires à passagers effectuant des voyages internationaux et navires de charge de jauge brute égale ou supérieure à 500](division-221)
 - [Division 222 : Navires de charge de jauge brute inférieure à 500](division-222)
 - [Division 223 : Navires à passagers effectuant des voyages nationaux.](division-223)
+- [Division 226 : Navires de pêche de longueur égale ou supérieure à 12 mètres et inférieure à 24 mètres.](division-226)
 - [Division 227 : Navires de pêche de longueur inférieure à 12 mètres.](division-227)
 - [Division 231 : Engins de dragage et engins porteurs de   déblais.](division-231)
 - [Division 232 : Unités mobiles de forage au large.](division-232)

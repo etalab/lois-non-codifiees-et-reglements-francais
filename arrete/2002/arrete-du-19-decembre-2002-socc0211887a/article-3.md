@@ -1,0 +1,3 @@
+# Article 3
+
+Le mandat des membres du comité visés aux 1°, 3° et 5° de l'article 1er du présent arrêté est de deux ans, renouvelable une fois. Tout membre du comité, amené au cours de son mandat à exercer des fonctions électives nationales ou européennes, ou appelé en fonctions dans un cabinet ministériel, quitte le comité. La nomination des membres du comité fait l'objet d'un arrêté du ou des ministres chargés de la sécurité sociale, de la santé, de l'action sociale, de la famille, du travail, de l'emploi et de la formation professionnelle, publié au Journal officiel de la République française.
