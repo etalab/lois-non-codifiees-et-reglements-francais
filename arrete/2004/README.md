@@ -682,8 +682,6 @@
 - [Arrêté du 26 décembre 2003 (FPPA0300169A)](arrete-du-26-decembre-2003-fppa0300169a)
 - [Arrêté du 26 décembre 2003 (INTE0400112A)](arrete-du-26-decembre-2003-inte0400112a)
 - [Arrêté du 26 décembre 2003 (INTE0400113A)](arrete-du-26-decembre-2003-inte0400113a)
-- [Arrêté du 26 décembre 2003 (JUSB0310643A)](arrete-du-26-decembre-2003-jusb0310643a)
-- [Arrêté du 26 décembre 2003 (JUSB0310645A)](arrete-du-26-decembre-2003-jusb0310645a)
 - [Arrêté du 26 décembre 2003 (SANS0324254A)](arrete-du-26-decembre-2003-sans0324254a)
 - [Arrêté du 26 février 2004 (ECOC0400013A)](arrete-du-26-fevrier-2004-ecoc0400013a)
 - [Arrêté du 26 février 2004 (EQUS0400092A)](arrete-du-26-fevrier-2004-equs0400092a)

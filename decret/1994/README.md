@@ -680,7 +680,6 @@
 - [Décret n°94-173 du 25 février 1994 (RESX9300211D)](decret-n94-173-du-25-fevrier-1994-resx9300211d)
 - [Décret n°94-242 du 25 mars 1994 (AGRE9302193D)](decret-n94-242-du-25-mars-1994-agre9302193d)
 - [Décret n°94-258 du 25 mars 1994 (EQUK9400493D)](decret-n94-258-du-25-mars-1994-equk9400493d)
-- [Décret n°94-259 du 25 mars 1994 (JUSB9410074D)](decret-n94-259-du-25-mars-1994-jusb9410074d)
 - [Décret n°94-338 du 25 avril 1994 (AGRA9400475D)](decret-n94-338-du-25-avril-1994-agra9400475d)
 - [Décret n°94-339 du 25 avril 1994 (AGRA9400476D)](decret-n94-339-du-25-avril-1994-agra9400476d)
 - [Décret n°94-345 du 25 avril 1994 (JUSD9430012D)](decret-n94-345-du-25-avril-1994-jusd9430012d)
