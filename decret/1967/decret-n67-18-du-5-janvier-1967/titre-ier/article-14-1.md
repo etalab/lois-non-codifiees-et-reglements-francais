@@ -1,3 +1,5 @@
 # Article 14-1
 
-Pour tous travaux, diligences, formalités ou missions de la profession d'huissier de justice qui ne sont pas compris dans le présent tarif, les frais et honoraires sont, après justifications particulières et à défaut de règlement amiable entre les parties, et sauf opposition à taxe, taxés par le président du tribunal auquel l'huissier de justice est attaché.
+Les huissiers de justice sont rémunérés pour les services rendus dans l'exercice des activités non prévues par le présent tarif et compatibles avec leurs fonctions par des honoraires fixés d'un commun accord avec les parties ou, à défaut, par le juge chargé de la taxation.
+
+Dans tous les cas, le client doit être préalablement averti du caractère onéreux de la prestation de service et du montant estimé ou du mode de calcul de la rémunération à prévoir.
