@@ -13,6 +13,7 @@
 - [Décret n°76-1004 du 4 novembre 1976](decret-n76-1004-du-4-novembre-1976)
 - [Décret n°76-306 du 5 avril 1976](decret-n76-306-du-5-avril-1976)
 - [Décret n°76-342 du 6 avril 1976](decret-n76-342-du-6-avril-1976)
+- [Décret n°76-1137 du 7 décembre 1976](decret-n76-1137-du-7-decembre-1976)
 - [Décret n°76-328 du 7 avril 1976](decret-n76-328-du-7-avril-1976)
 - [Décret n°76-607 du 7 juillet 1976](decret-n76-607-du-7-juillet-1976)
 - [Décret n°76-618 du 7 juillet 1976](decret-n76-618-du-7-juillet-1976)
