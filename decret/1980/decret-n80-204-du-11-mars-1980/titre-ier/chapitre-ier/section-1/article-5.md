@@ -1,0 +1,7 @@
+# Article 5
+
+La demande est soumise à une enquête d'une durée d'un mois, au cours duquel un dossier d'enquête publique comportant la demande elle-même, un document cartographique et, une notice (dite "notice d'impact") indiquant les incidences éventuelles des travaux projets sur l'environnement et les conditions dans lesquelles l'opération projetée satisfait aux préoccupations d'environnement est déposé à la préfecture où le public peut en prendre connaissance. S'il l'estime opportun, le préfet peut, en outre, mettre à la disposition du public un ou plusieurs dossiers d'enquête au siège des sous-préfectures et dans les mairies des chefs-lieux de canton.
+
+Un avis au public faisant connaître la demande et l'ouverture de l'enquête est, par les soins du préfet, publié huit jours au moins avant le début de celle-ci au Journal officiel et, dans les huit jours qui précédent l'enquête, dans deux journaux régionaux ou locaux dont la diffusion s'étend à toute un zone couverte par la demande. Il est, en outre, affiché pendant toute la durée de l'enquête à la préfecture, dans les sous-préfectures et dans les mairies des chefs-lieux de cantons intéressés et, s'il s'agit d'un titre d'exploitation, dans toutes les communes intéressées.
+
+Il est justifié de l'affichage par un certificat signé, selon les cas, du préfet ou du maire et des publications ou insertions dans les journaux par la production d'un exemplaire de ceux-ci. Les frais de publicité sont à la charge du demandeur.
