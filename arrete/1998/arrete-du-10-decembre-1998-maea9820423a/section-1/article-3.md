@@ -46,8 +46,6 @@ La direction générale de la coopération internationale et du développement e
 
 - la sous-direction de la télévision et de la radio ;
 
-la sous-direction du cinéma et de la coopération audiovisuelle ;
-
-la mission pour les nouvelles technologies de l'information et de la communication.
+- la sous-direction du cinéma, des nouvelles technologies et de la promotion de la diversité culturelle.
 
 7° De la mission pour la coopération non gouvernementale.

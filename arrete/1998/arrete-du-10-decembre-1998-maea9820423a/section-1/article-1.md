@@ -20,9 +20,7 @@ La direction générale des affaires politiques et de sécurité est composée :
 
 - la sous-direction des affaires stratégiques ;
 
-- la sous-direction de la sécurité ;
-
-- la sous-direction des questions multilatérales.
+- la sous-direction de la sécurité.
 
 3° De la direction de la coopération militaire et de défense, qui comprend :
 

@@ -44,11 +44,9 @@ La sous-direction de la recherche élabore et met en oeuvre les programmes et pr
 
 6° La direction de l'audiovisuel extérieur et des techniques de communication élabore et met en oeuvre les programmes et projets de la direction générale de la coopération internationale et du développement en matière d'action audiovisuelle extérieure. Elle apporte son expertise aux négociations internationales relatives au contenu et à l'évolution des réseaux de diffusion audiovisuelle et de communication.
 
-La sous-direction de la télévision et de la radio apporte son soutien aux opérateurs concernés et oriente leurs stratégies.
+La sous-direction de la télévision et de la radio apporte son soutien aux opérateurs concernés et oriente leurs stratégies. Elle est également chargée de traiter de toutes questions relatives à la coopération et à la diffusion en matière télévisuelle et radiophonique.
 
-La sous-direction du cinéma et de la coopération audiovisuelle apporte son soutien à la création et à la diffusion des oeuvres cinématographiques et audiovisuelles d'expression ou d'initiative française.
-
-La mission pour les nouvelles technologies de l'information et de la communication contribue à développer la présence française sur les réseaux internationaux de communication.
+La sous-direction du cinéma, des nouvelles technologies et de la promotion de la diversité culturelle apporte son soutien à la création et à la diffusion des oeuvres cinématographiques et audiovisuelles d'expression ou d'initiative française. Elle contribue à développer la présence française sur les réseaux internationaux de communication.
 
 7° La mission pour la coopération non gouvernementale assure la liaison de la direction générale de la coopération internationale et du développement avec les collectivités territoriales, les organisations de solidarité internationale et les institutions et entreprises de toute nature intéressées à la coopération internationale et à l'aide au développement. Elle élabore, de concert avec ces différents partenaires et les autres services concernés du ministère des affaires étrangères, les orientations de la direction générale de la coopération internationale et du développement en matière de soutien à la coopération non gouvernementale.
 
