@@ -1,5 +1,3 @@
 # Article 35
 
-Les droits et obligations de l'Etat relatifs au service de la Masse des douanes sont transférés à l'établissement public.
-
-Le budget de la Masse des douanes pour 1998 est établi et arrêté par le ministre chargé des douanes. Il est soumis au conseil d'administration lors de la première réunion de celui-ci.
+La mise de Masse, les redevances d'occupation, les charges et réparations locatives récupérables peuvent, jusqu'à la mise en place d'un prélèvement automatique sur compte bancaire ou postal, être retenues par l'Etat, au vu d'un titre exécutoire, sur les émoluments des agents logés et sont dès lors reversées à la Masse des douanes, dans la limite définie en application des articles L. 3252-2 et L. 3253-3 du code du travail. Si la retenue ne permet pas de recouvrer en totalité les sommes dues, le solde est versé selon les modalités définies par le règlement de l'établissement.

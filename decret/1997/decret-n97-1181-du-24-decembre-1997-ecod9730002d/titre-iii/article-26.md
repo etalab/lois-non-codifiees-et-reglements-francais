@@ -1,3 +1,3 @@
 # Article 26
 
-L'agent comptable de l'établissement est le receveur régional des douanes de Paris. Les comptables secondaires sont nommés par arrêté du ministre chargé des douanes après agrément du ministre chargé du budget.
+L'agent comptable de l'établissement est nommé par arrêté du ministre chargé des douanes et du ministre chargé du budget. Des comptables secondaires sont nommés par arrêté du ministre chargé des douanes pris, avec l'accord du ministre chargé du budget, après avis du comptable principal.
