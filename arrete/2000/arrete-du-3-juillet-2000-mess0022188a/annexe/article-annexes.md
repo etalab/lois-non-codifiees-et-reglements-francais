@@ -2,7 +2,7 @@
 
 ANNEXE I
 
-LISTE DES ETABLISSEMENTS AYANT FABRIQUE DES MATERIAUX CONTENANT DE L'AMIANTE SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPEE D'ACTIVITE
+Liste des établissements ayant fabriqué des matériaux contenant de l'amiante et des établissements de flocage et de calorifugeage à l'amiante, susceptibles d'ouvrir droit à l'allocation de cessation anticipée d'activité.
 
 Alsace
 
@@ -22,7 +22,7 @@ Everit Sitube/Everit/Everitube :
 
 Isothig :
 
-- 40140 Soustons : de 1960 à 1974.
+- 40140 Soustons : de 1960 à 1996.
 
 Tissot SA :
 
@@ -62,7 +62,7 @@ Etablissements Knauf-Isba/Ferlam/SAF/Ferodo/Isba Isolation : ZI Sud, route de Ly
 
 Etablissements Piques/Exploitation des établissements Piques :
 
-- 21440 Poncey-sur-Lignon ; puis 1, rue Champeau, ZAE Cap Nord, BP 72, 21074 Dijon : de 1906 à 1993.
+- 21440 Poncey-sur-Lignon ; puis 1, rue Champeau, ZAE Cap Nord, BP 72, 21074 Dijon : depuis 1906.
 
 Eternit :
 
@@ -180,7 +180,7 @@ Ferodo/Ferodo Abex/Necro/Abex Industrie SA/American Brackblock/Abex Pagide Equip
 
 - 58, rue Juliette-Adam, BP 20, 91192 Gif-sur-Yvette : de 1936 à 1996 ;
 
-- 9, rue Klock, 92110 Clichy : de 1977 à 1983 ;
+- 9, rue Klock, 92110 Clichy : de 1972 à 1983 ;
 
 Ferodo/Société Isba/Valeo :
 
@@ -188,7 +188,7 @@ Ferodo/Société Isba/Valeo :
 
 Ferodo/Valeo/centre de Saint-Ouen :
 
-- 10 et 21, rue Blanqui, et 13, rue Dieumegard, 93400 Saint-Ouen : de 1923 à 1991.
+- 10 et 21, rue Blanqui, et 13, rue Dieumegard, 93400 Saint-Ouen : de 1923 à 1992.
 
 Flertex :
 
@@ -270,9 +270,9 @@ Aubertin SA :
 
 - 10, rue des Métiers, 57790 Yutz : de 1982 à 1991.
 
-Babcock Entreprise/Babcock Holding/Lardet-Babcock :
+Ateliers Henri Lardet, puis lardet Babcock, puis Babcock entreprise, puis CNIM :
 
-- 50, rue du Fort, BP 29, 88191 Golbey Cedex 2 : de 1929 à 1996.
+- 7, rue du Fort, BP 29, 88191 Golbey Cedex : de 1929 à 1996.
 
 Buflon :
 
@@ -290,9 +290,9 @@ Eurogest/Tecafiltres ! CEAC :
 
 - rue Jean-Jaurès, 88100 Saint-Dié : de 1960 à 1974.
 
-Girling Moselle SA/Freins Girling/Lucas Girling/Lucas système de freinage :
+Girling Moselle SA puis Freins Girling (division de Lucas France SA), puis Lucas Girling (division de lucas France SA), puis Lucas Systèmes de freinage (division de Lucas France SA/branche de Lucas Automotive), puis Lucas système de freinage (division de lucas France Sa/groupe Lucas Varity), puis Lucas systèmes de freinage SAs (groupe TRW) :
 
-- avenue de la Gare, 57320 Bouzonville : de 1968 à 1996.
+- avenue de la Gare, 57320 Bouzonville : de 1968 à 2000.
 
 Groupe International Paper/Papeteries de Lana/Aussedat Rey et Docelles :
 
@@ -354,7 +354,7 @@ Flertex :
 
 HGD/Norsolor/Atochem :
 
-- 62880 Vendin-le-Vieil : de 1973 à 1992.
+- 62880 Vendin-le-Vieil : de 1973 au 30 juin 1981.
 
 Isolindustries/Isolamiante/Cape Asbestos et Cie :
 
@@ -370,13 +370,13 @@ La Nervienne :
 
 Wanner/Wanner Isofi :
 
-- 62200 Boulogne-sur-Mer : de 1933 à 1977 ;
+- 62200 Boulogne-sur-Mer
 
-- 51, route de Saint-Omer, 62100 Calais : de 1933 à 1977 ;
+- 51, route de Saint-Omer, 62100 Calais ;
 
-- 38, rue Kléber, 59155 Faches-Thumesnil : de 1973 à 1997 ;
+- 38, rue Kléber, 59155 Faches-Thumesnil rue B.-Delespaul, 59000 Lille ;
 
-- rue B.-Delespaul, 59000 Lille : de 1967 à 1973.
+- 23, rue du Comte-Jean 59760 Grande-Synthe : de 1933 à 1997.
 
 Basse-Normandie
 
@@ -494,9 +494,9 @@ Technisol :
 
 - 47, rue Paul-Doumer, 14600 Honfleur : de 1957 à 1984.
 
-Travisol/Echafisol/Norisol Isomarbat/Agrovisol Sud-Isopec :
+Travisol/Echafisol/Norisol Isomarbat/Agrovisol Sud-Isopec/Norisolec :
 
-- 18, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon : de 1950 à 1997.
+- 18, rue Georges-Clemenceau, 76330 Notre-Dame-de-Gravenchon et 2, rue Lefort, 76530 Grand-Couronne : de 1950 à 1997.
 
 Wanner/Wanner Isofi :
 
@@ -596,9 +596,9 @@ Joseph Oliva isolation :
 
 - 94, avenue Roger-Salengro, 13003 Marseille : de 1965 à 1981.
 
-La Rochette Cempa/Eurofiltec/Filtralfa :
+Alpha, puis Rochette Cempa, puis Rochette Alfa, puis Filtralfa, puis Eurofiltec :
 
-- 18, rue de l'Estérel, 84130 Le Pontet : de 1974 à 1990.
+- RN 7, 84130 Le Pontet : de 1947 à 1996.
 
 Poujaud isolation :
 
@@ -662,7 +662,7 @@ Etablissements Gascheaux :
 
 Etablissements Gonet :
 
-- 12, avenue Jean-Moulin, 69270 Saint-Laurent-de-Marc : de 1970 à 1977.
+- 12, avenue Jean-Moulin, 69270 Saint-Laurent-de-Mure : de 1970 à 1977.
 
 Etablissements Nimal :
 
@@ -718,9 +718,25 @@ Babcock Sacom :
 
 - 11, rue de Berne, 68110 Illzach : de 1929 à 1996.
 
+Isolations Th. debus SA. :
+
+9, rue de Picardie, 67116 Reichstett : de 1971 à 1987 ;
+
+Isolations Th. debus SA. :
+
+- 3, rue principale, 67300 Schiltigheim : de 1960 à 1987 ;
+
 SNIFI/EFI, BP 43, 68490 Ottmarsheim, de 1973 à 1983.
 
 SNIFI/EFI, ZI Hombourg, 68490 Hombourg, de 1983 à 1994.
+
+Société mecal (Sulzer) :
+
+- 27, rue de la Fédération, 6700 Strasbourg-Meinau : de 1962 à 1973 ;
+
+Technisol :
+
+- zone industrielle Le Ried, 67850 herrlisheim : de 1970 à 1984 ;
 
 Aquitaine
 
@@ -739,6 +755,10 @@ Bernard Dumas SA :
 Capen Deguy et Cie :
 
 - quai Elissalt, Les Récollets, 64500 Ciboure : de 1966 à 1982.
+
+Entreprise Polyrey :
+
+- Usine de couze-Saint-Front, 24150 lalinde : depuis 1986 ;
 
 Intérisol :
 
@@ -764,9 +784,13 @@ Bosch Systèmes de freinage :
 
 - 176, route de Lyon, 03400 Yseure : de 1969 à 1972.
 
-SGPR (Société générale des produits réfractaires)/SEPR (Société européenne de produits réfractaires)/Kerlane/Carborundum :
+Carborundum France/SEPR/SGPR Etablissement d'Ambert :
 
 - ZI, 63600 Ambert : de 1968 à 1977.
+
+Soma Europe-Transmissions/Sog David/Sonomev (Société nouvelle de mécanique du Velay) :
+
+- Oudreych, 43200 Lapte : de 1972 à 1996.
 
 Bourgogne
 
@@ -774,13 +798,17 @@ Air Liquide :
 
 - ZI, chemin de la Plaine, 89500 Villeneuve-sur-Yonne : de 1966 à 1994.
 
-Saim :
+Fonderies et ateliers du Rhône :
 
-- 66, rue Saint-Aignan, 58200 Cosne-sur-Loire : de 1951 à 1992.
+- Lacanche, 21230 Arnay-le-Duc : de 1940 à 1980 ;
 
-Saim/Henkel/Caourep/Cfpi :
+Résines et vernis artificiels (RVA)/Progil/Rhône Progil/Rhône poulenc/Rhodia HP CIL :
 
-- 82, avenue du 85e-de-Ligne, 58200 Cosne-sur-Loire : depuis 1971.
+- usine de Clamecy, 58501 Clamecy Cedex : de 1928 à 1985 ;
+
+Saim/teroson France/Henkel/Caourep/CFPI :
+
+- 66, rue Saint-Aignan, 58200 Cosne-sur-Loire puis 82, avenue du 85e-de-Ligne, 58200 Cosne-sur-Loire puis ZI, route Villechaud/rue Lafayette, 58200 Cosne-sur-Loire : de 1951 à 1992.
 
 Bretagne
 
@@ -800,6 +828,10 @@ Deleage :
 
 - avenue du Général-Ferrie, 35400 Saint-Malo : de 1989 à 1998.
 
+Derfit :
+
+- 23, rue Saint-Benoît, 22003 Saint-Brieuc : de 1969 à 1976 ;
+
 Etablissements J.-Goupil :
 
 - route de Saint-Pern, 22830 Plouasne : de 1973 à 1995.
@@ -816,13 +848,9 @@ Isotherma :
 
 - 31, rue Casmao-Pretot, 29200 Brest : de 1957 à 1999.
 
-JD Embrayages (P. Journée - M. Desroziers) :
+JD Embrayages (P. Journée - M. Desroziers)/JED Bretagne :
 
-- rue Colbert, 35300 Fougères : de 1980 à 1998.
-
-JED Bretagne :
-
-- rue Colbert, 35300 Fougères : de 1973 à 1976.
+- rue Colbert, 35300 Fougères : de 1973 à 1998.
 
 Le Heurt :
 
@@ -830,7 +858,11 @@ Le Heurt :
 
 Le Joint français :
 
-- rue Ampère, 22000 Saint-Brieuc : de 1969 à 1978.
+- rue Ampère, 22000 Saint-Brieuc : de 1963 à 1978.
+
+Ogara Hess et Eisenhardt France, Labbe :
+
+- ZI, rue d'Armor, BP 414, 22404 Lamballe Cedex : de 1962 à 1996 ;
 
 Mérand SA :
 
@@ -848,13 +880,25 @@ Samua :
 
 - Saint-Eloi, 22540 Louargat : de 1976 à 1986.
 
+SARL Fours Ripoche, puis Ateliers de chaudronnerie lorientais réunis (groupe CECF : Compagnie européenne de constructions de fours), puis Société d'applications électrotechniques :
+
+- ZI de kerpont, 56850 Caudan : de 1968 à 1988 ;
+
 Sérupa :
 
 - route de Rennes, 22230 Merdrignac : de 1974 à 1998.
 
+SNPE/Nobel Sport :
+
+- 2, rue du Squiriou, 29590 Pont-de-Buis : de 1972 à 1996 ;
+
 Société bretonne de fonderie mécanique :
 
 - ZI de Kerpont, 56850 Caudan : de 1967 à 1998.
+
+Société Sabem/Star caravanes/Star Industries :
+
+- 22440 Trémuson : de 1970 à 1984 ;
 
 Tanguy et Cie :
 
@@ -867,6 +911,20 @@ Thermobaby :
 Vézo :
 
 - Croas-Ar-Rod, 29260 Lesneven : de 1974 à 1998.
+
+Centre
+
+Sitram Inox :
+
+- 36170 Saint-Benoît-du-sault : de sa création à 1999 ;
+
+Valéo Thermique Habitacle :
+
+- Avenue des Près, 28400 Nogent-le-Rotrou : de 1965 à 1988 ;
+
+Wanner Isofi :
+
+- Chemin des Plantes, 45500 Saint-Gordon : depuis sa création.
 
 Champagne-Ardenne
 
@@ -889,6 +947,10 @@ Etudes réalisations thermiques :
 Fours Delot International :
 
 - 7, rue des Gayettes, 10000 Troyes : de 1900 à 1990.
+
+Le Joint français/Bostik Sa :
+
+- ZI La Glacière, 10510 Maizières-la-Grande-Paroisse : de 1973 à 1988 ;
 
 Pied-Selle :
 
@@ -930,6 +992,14 @@ Caourep :
 
 - 10, avenue de la Grande-Armée, 75017 Paris, puis 20, rue Hauteville, 75010 Paris, puis 245-249, avenue d'Argenteuil, 92270 Bois-Colombes, puis 36, rue Victor-Hugo, 92600 Asnières : de 1960 à 1985.
 
+Carel Fouche Industries :
+
+- 22, place de Seine, 92086 La Défense Cedex : de 1913 à 1990 ;
+
+CECF (fours Ripoche) :
+
+- 1, rue des Marais : de 1950 à 1990 ;
+
 Comptoir des matériaux acoustiques (CMA) :
 
 - rue d'Aguesseau, 92100 Boulogne-sur-Seine : de 1958 à 1982.
@@ -946,13 +1016,33 @@ Dalami :
 
 - 78540 Vernouillet : de 1961 à 1986.
 
+DBA-DAT (division Automobile Tourisme) :
+
+- 23-31-33, rue Madame-de-Sanzillon, 91119 Clichy : de 1959 à 1970 ;
+
+ELM Leblanc/Société Taittinger/groupe Bosch :
+
+- 123-125 rue Diderot, 93700 Drancy : depuis 1972 ;
+
 Fives-Cail Babcok/CNIM :
 
-- 80, rue Emile-Zola, 93123 La Courneuve : de 1962 à 1981.
+- 80, rue Emile-Zola, 93123 La Courneuve : de 1962 à 1996.
+
+Française d'isolation industrielle :
+
+- chemin des Processions, 91240 Saint-Michel-sur-Orge : de 1966 à 1994 ;
 
 Isotherma :
 
 - 79, rue de la Gare, 78370 Plaisir : de 1965 à 1979.
+
+Le Joint français :
+
+- 84, 116, rue Salvador-Allende, 95870 Bezons : de 1907 à 1995 ;
+
+3-M France :
+
+- parc Barrachin, 95250 Beauchamp : de 1971 à 1975 ;
 
 Philplug français :
 
@@ -962,11 +1052,15 @@ La Bakélite française : de 1932 à 1985 ;
 
 Perstorp : de 1985 à 1998 ;
 
+Précicable :
+
+- 151, rue Michel-Carré, BP 10, 95102 Argenteuil Cedex : de sa création à 1985 ;
+
 Raschig SAS : depuis 1998
 
 Rieter/Keller :
 
-- laboratoire de recherche, route de l'Hautil, 95000 Boisemont, puis 78410 Aubergenville : de 1971 à 1987.
+- laboratoire de recherche, route de l'Hautil, 95000 Boisemont, puis 78410 Aubergenville : de 1971 à 1981.
 
 Siafom :
 
@@ -978,11 +1072,27 @@ SNIFI/Kaefer :
 
 - 5, chemin d'Orsigny, 78117 Toussus-le-Noble et 14, rue Denis-Papin, ZA des Montatons, 91240 Saint-Michel-sur-Orge : depuis 1996.
 
-Société Etex de recherche technique (SERT) et Fibrociment et revêtement ELO/ eternit Industrie :
+Société Adamel/Adamel-Lhomargy/Creusot-Loire/Instrument SA/Adamel-Lhomargy Groupe Instrument/Adamel-Lhomargy :
 
-- 78510 Triel-sur-Seine
+- 9, passage Philippe, 75011 et 5, boulevard de Bellevue, 91210 Draveil, puis 15, avenue Jean-Jaurès, 94200 Ivry-sur-Seine : de 1966 à 1996 ;
+
+Société Autoclavite :
+
+- Le Buisson-Houdart, RN 191, 91540 Mennecy : de 1970 à 1985 ;
+
+Société Bernard Gathois :
+
+- 4, rue du jura, et 3, rue de l'Estérel, ZI Silic, 94533 Rungis, puis 8-12, rue du Cantal, ZI Petite Montagne, 91019 Evry Cedex, puis 9-11, impasse Alexis-Trinquet 91000 Evry ;
+
+Société Fibrociment et Revêtements ELO, puis Eternit :
+
+- route de Médaan, quai de seine, 78510 Triel-sur-Seine : de 1958 à 1996 ;
 
 - 1, rue de l'Amandier, BP 33, 78540 Vernouillet : depuis 1975.
+
+Société Frendix :
+
+- Rue Casimir-Périer, 95870 Bezons : de sa création à 1985 ;
 
 Société Isolfeu :
 
@@ -1004,13 +1114,23 @@ Technisol :
 
 - zone industrielle, 91420 Morangis : de 1962 à 1998.
 
-Valeo :
+Tunzini/Tunzini Wanner :
 
-- rue des Oziers, ZI du Vert-Galant, 95310 Saint-Ouen-l'Aumône : de 1986 à 1996.
+- 41, rue des trois-Fontanot, 92024 Nanterre cedex : de 1964 à 1996 ;
+
+Valeo, puis Chaussons service :
+
+- rue des Oziers, ZA du Vert-Galant, 95310 Saint-Ouen-l'Aumône : de 1978 à 1996.
 
 Vaysse :
 
 - 385, rue de Vaugirard, 75015 Paris : de 1974 à 1987.
+
+Limousin
+
+J. Coudamy SA puis Coudamy Cobelcomex, puis Ceric Thermic :
+
+- 127, rue Perrin, 87039 Limoges : depuis 1953 ;
 
 Lorraine
 
@@ -1024,11 +1144,31 @@ CDF Chimie/Atochem :
 
 - usine de Carling, Saint-Avold, BP 65001, 57501 Saint-Avold Cedex : de 1952 à 1980.
 
+Etablissements Dubois et Cie :
+
+- 67, rue Keller, 54004 Nancy Cedex : de 1964 à 1979 ;
+
+Furgoni :
+
+- 10, rue Joliot-Curie, 57250 moyeuvre-Grande : de 1960 à 1987 ;
+
 Le Laboratoire métallurgique :
 
 - 29-33, rue de Rombas, 57140 Woippy : de 1936 à 1978.
 
 SNIFI/EFI, Les Quarres, BP 44, 57130 Ancy-sur-Moselle, de 1966 à 1992.
+
+Société Construction Maintenance industrielle (CMI) :
+
+- 1, rue du général-Mangin, 57000 Metz : de 1970 à 1979 ;
+
+Vosgisol :
+
+- 57, rue Chanzy, 88500 Mirecourt : de 1950 à 1977 ;
+
+Wanner/Wanner Isofi/Wanner Industrie :
+
+- 63 bis, boulevard Henri-Barbusse, 54510 Tomblaine : de 1957 à 1997 ;
 
 Midi-Pyrénées
 
@@ -1036,7 +1176,15 @@ Babcock Sacom :
 
 - 15, rue Boudeville, zone Thibaud, 31100 Toulouse : de 1929 à 1996.
 
+Wanner Isofi Isolation/Wanner isofi/Wanner Industrie :
+
+- 31000 Toulouse-Lacq : de 1933 à 1997 ;
+
 Nord - Pas-de-Calais
+
+Ammari :
+
+- ZI, 4, avenue d'immercourt, 62223 Saint-laurent-Blangy : depuis 1965 ;
 
 CDF Chimie :
 
@@ -1054,9 +1202,33 @@ Finalens (société industrielle et financière de Lens) :
 
 - usine de Douvrin, route de Lens, Douvrin, 62138 Haisnes : de 1932 à 1975.
 
-Les Feutres d'amiante :
+Feutres d'amiante, feutres et amiantes du Nord :
 
 - 59570 Bavay : de 1940 à 1980.
+
+Khol :
+
+- 367, avenue de Saint-Exupéry, 62100 Calais : de 1966 à 1985 ;
+
+Marles Kuhlman/Produits chimiques ugine Kuhlmann (PCUK)/Atochem/ICI France SA :
+
+- 62920 Chocques : de 1960 à 1985 ;
+
+Mineur Becourt :
+
+- Avenue des bureaux, 59610 Fourmies : de 1912 à 1982 ;
+
+Mineur Becourt :
+
+- 10, rue Jean-Jaurès, 59770 Marly : de 1965 à 1990 ;
+
+société 3M France :
+
+- Route de Sancourt, 59554 Tilloy-lès-Cambrai : de 1975 à 1987 ;
+
+Stein industrie puis GEC Alstom :
+
+- 1 ter, rue Jules-Guesde, 59390 lys-lez-lannoy : de 1956 à 1997 ;
 
 Basse-Normandie
 
@@ -1065,6 +1237,14 @@ SNIFI/EFI, BP 95, 50440 Beaumont, de 1970 à 1978.
 SNIFI/EFI, BP 726, ZI de Digueville, 50447 Beaumont, de 1984 à 1994.
 
 Haute-Normandie
+
+Abrisol :
+
+- 91, rue de la Petite-Porte, 76000 Rouen : de 1989 à 1997 ;
+
+Aliand et Robert :
+
+- 125, Grande-Rue, port Mort, 27940 Aubevoye : de 1955 à 1997 ;
 
 Bitumes spéciaux :
 
@@ -1076,21 +1256,45 @@ Evers :
 
 - rue Marceau, 76600 Le Havre : de 1958 à 1977.
 
+Fibral :
+
+- rue Tout-Vent, puis avenue de Bretagne, 76000 rouen, puis avenue des Canadiens, 76120 Le Grand-Quevilly : de 1961 à 1984 ;
+
 Havrisol/Havraise d'isolation :
 
-- rue Robert-Ancel, 76700 Harfleur : de 1962 à 1982.
+- rue Robert-Ancel, 76700 Harfleur : de 1974 à 1993.
+
+indasco France :
+
+- 5 rue du Débarquement, 76100 Rouen : de 1961 à 1997 ;
 
 Isotherma :
 
 - ZA du Bon-Marais, 76530 Grand-Couronne : de 1952 à 1999.
 
+Lebrun Albert :
+
+- rue du Clos-au-Blé, 76530 Grand-Couronne, puis rue raspail, BP 23, 76140 Saint-aubin-lès-Elbeuf : de 1960 à 1996 ;
+
+les Fours Gouet SA :
+
+- rue Edmond-Lavernot, 76260 Eu : depuis 1963 ;
+
 Lincoln Electric France :
 
-- boulevard de Stalingrad-Roosevelt, 76120 Le Grand-Quevilly : de 1947 à 1981.
+- boulevard de Stalingrad-Roosevelt, 76120 Le Grand-Quevilly : de 1947 à 1984.
 
 Normandie Isolation :
 
 - 76830 Dieppedalle-Croisset : de 1954 à 1985.
+
+Ouest-Isol :
+
+- rue Grande-Epine, 76800 Saint-Etienne-de-Rouvray : de 1973 à 1996 ;
+
+Parc Entreprises CFR. 76600 Le Havre. 76700 Gonfreville l'Orcher : de 1971 à 1983 ;
+
+Parc des Marais 76600 Le Havre - 76700 Gonfreville-l'Orcher : de 1983 à 1990 ;
 
 Plurisol SA :
 
@@ -1100,13 +1304,21 @@ Plurisol SA :
 
 - parc d'entreprise des Marais, 76700 Gonfreville-l'Orcher : de 1960 à 1999.
 
+Realisol ;
+
+- 6, rue du Quesnot, ZA, BP 39, 76410 saint-aubin-lès-Elbeuf : de 1990 à 1996 ;
+
 SA Normande de l'amiante manufacture :
 
 - 72, rue de Louviers, Saint-Pierre-lès-Elbeuf, 76320 Caudebec-lès-Elbeuf : de 1945 à 1980.
 
-Société Capel SA :
+Sitaf :
 
-- ZI La Métairie, 76170 Lillebonne : de 1965 à 1990.
+- avenue du général-Leclerc, 76530 grand-Couronne : de sa création à 1998 ;
+
+Société Capel/Cape/Cape contracts/Socap :
+
+- ZI La Métairie, 76170 Lillebonne : de 1965 à 1990 ; BP 15, 76330 Notre-Dame-de-Gravenchon : de 1967 à 1994.
 
 Roclaine :
 
@@ -1121,6 +1333,18 @@ SNIFI/EFI, 17, avenue de Grammont, 76000 Rouen, de 1947 à 1968.
 SNIFI/EFI, chemin de la Darse, BP 32, 76330 Notre-Dame-de-Gravenchon, de 1969 à 1994.
 
 SNIFI/EFI, ZI, BP 5042, 76071 Le Havre, de 1973 à 1994.
+
+Société Henkel France SA :
+
+- Usine de Louviers, rue Charles-Cros, 27400 Louviers : de 1970 à 1980 ;
+
+Société Sika :
+
+- ZI, 76220 Gournay-en-Bray : de 1977 à 1983 ;
+
+Tissot :
+
+- 565, avenue du 11-Novembre, 76650 petit-Couronne : depuis 1973 ;
 
 Wanner/Wanner Isofi Isolation/Wanner Industrie :
 
@@ -1144,7 +1368,11 @@ Isotherma :
 
 - ZI Noes, BP 23, 44550 Montoire-de-Bretagne : de 1961 à 1999.
 
-Moulinex : rue Saint-Léonard, 53100 Mayenne : de 1979 à 1994.
+Le Joint MARA SA :
+
+- 86, rue Gutenberg, 44600 Saint-Nazaire : de 1956 à 1998 ;
+
+Moulinex : rue Saint-Léonard, 53100 Mayenne : de 1974 à 1994.
 
 SCREG : 44800 Saint-Herblain : depuis sa création jusqu'en 1990.
 
@@ -1154,7 +1382,15 @@ Valeo/Ferodo/SAMP :
 
 - 72210 La Suze-sur-Sarthe : de 1960 à 1992.
 
+Valeo Equipements électriques moteur :
+
+- 6, rue François-Cévert, BP 1014, 49015 Angers Cedex : de 1990 à 1996 ;
+
 Picardie
+
+ANRTP :
+
+- 72, rue du Pont-d'Arcole, 60000 Beauvais : de 1977 à 1996 ;
 
 Bosch systèmes de freinage :
 
@@ -1162,21 +1398,37 @@ Bosch systèmes de freinage :
 
 - 44, route nationale, 02190 Juvincourt, de 1972 à 1996.
 
-Etablissements Alsthom/GEC/UNELEC ;
+Delaunay WSA Isolation acoustique phonique :
 
-- 1572, route de Guise, 02100 Harly : depuis 1989.
+- 15, rue de la Gare, 60134 Villers-Saint-Sépulcre : de 1968 à 1978 ;
 
-Etablissements UNELEC-Alsthom :
+Entreprise Calorifuge Tôlerie Accessoires de l'Aisne :
 
-- route de Gaugies, 02430 Gauchy : de 1981 à 1989.
+- 6, rue du Blanc-Mont 02100 Saint-Quentin : de 1966 à 1990 ;
+
+Etablissements DBA/Bendix/Honeywelle/Allied Signal :
+
+- centre de distribution d'Allone : 21, avenue Saint-Mathurin, BP 50632 Beauvais Cedex : de 1973 à 1997 ;
+
+Etablissements DBA/Bendix/Honeywelle/Allied Signal :
+
+- Tille, 60000 Beauvais : de 1981 à 1987 ;
 
 Frendo/Fren J./Fren Brex SA/Roulunds Codan :
 
 - Z.I. d'Angean, 60240 Chaumont-en-Vexin : de 1981 à 1997.
 
+Hazemeyer :
+
+- 258, rue de Guise, 02100 Saint-Quentin : de 1948 à 1981 ;
+
 Isotherma :
 
 - 4, rue du Moulin, 60001 Goincourt : de 1962 à 1999.
+
+Sitel/Delle-CGE/unelecAlsthom-CGE/Unelec SA/Unelec-GE-GEC/GE-power Controls France :
+
+- route de Guise, 2100 Harly et 02322 Saint-Quentin : de 1937 à 1995 ;
 
 Société Cape Contracts/SOCAP :
 
@@ -1185,6 +1437,16 @@ Société Cape Contracts/SOCAP :
 Valeo/Allied Signal :
 
 - centre de Mortefontaine, 60128 Plailly : de 1989 à 1996.
+
+Poitou-Charentes
+
+Entreprise Langer Michel et compagnie/Société Langer Michel et compagnie : usine de Saint-Germain-de-Longehaume :
+
+- 50, route de Nantes, 79700 Mauléon : depuis sa création à 1986 ;
+
+Société Cogem/SA Eno/SN Eno :
+
+- 88, rue de Bellune, 79025 Niort Cedex 9 : de 1967 à 1982.
 
 Provence-Alpes-Côte d'Azur
 
@@ -1199,6 +1461,10 @@ Babcock Sacom :
 Isotec :
 
 - 13, quai de Tourette, 13002 Marseille : de 1984 à 1999.
+
+Regularc :
+
+- 2, place Albert-Blanc, 13600 Ceyrette : de 1973 à 1996 ;
 
 SARL Méditerranéenne d'isolation et d'ignifugeage : 25, rue Roger-Deschamps, 13730 Saint-Victoret : depuis sa création.
 
@@ -1238,13 +1504,21 @@ Edra Stop :
 
 - 8, chemin de Bessy, 42150 La Ricamarie : de 1960 à 1997.
 
+Entreprise lyonnaise isolation thermique (ELIT) :
+
+- 6, rue des Aqueducs, 69290 Craponne : de sa création à 1992 ;
+
 Etablissements Joly/Groupe DSMEPP France :
 
 - 34, rue Louis-Saillant, 69120 Vaulx-en-Velin, puis 60, rue René-Desgrand, 69100 Villeurbanne : de 1977 à 1991.
 
 Etablissements Vital Fargere Aîné/Cefilac :
 
-- rue Denis-Epitalon, 90, rue de la Roche-du-Geai, 42029 Saint-Etienne : de 1916 à 1997.
+- rue Denis-Epitalon, 90, rue de la Roche-du-Geai, 42029 Saint-Etienne : de 1879 à 1997.
+
+Fonderies et ateliers du Rhône :
+
+- 45, rue de la Cité, 69425 Lyon : de 1940 à 1980 ;
 
 JMF/JMF Curty/Société Baud/Joint métalloplastique français :
 
