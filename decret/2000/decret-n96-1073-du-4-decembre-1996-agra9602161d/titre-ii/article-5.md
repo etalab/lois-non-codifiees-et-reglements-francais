@@ -6,6 +6,6 @@ II. - Le concours interne est ouvert aux fonctionnaires et agents publics de l'E
 
 III. - Pour se présenter aux concours visés aux I et II ci-dessus, les candidats doivent être en mesure, en cas de succès, de satisfaire à l'engagement de servir l'Etat prévu à l'article 10 ci-dessous.
 
-IV. - Le nombre de places à pourvoir entre les différents concours est réparti par décision du directeur général de l'Office national des forêts. En aucun cas, le nombre de places offertes au concours externe ou au concours interne ne peut être inférieur à 40 p. 100 du nombre total des places offertes aux deux concours.
+IV. - Le nombre de places à pourvoir entre les différents concours est réparti par décision du directeur général de l'Office national des forêts.
 
-Les emplois mis au concours qui n'auraient pas été pourvus par la nomination des candidats à l'un des deux concours peuvent être attribués à l'autre concours. Ce report ne peut avoir pour conséquence que le nombre des emplois offerts à l'un des concours soit supérieur aux deux tiers du nombre total des places offertes aux deux concours.
+Les emplois mis au concours qui n'auraient pas été pourvus par la nomination des candidats à l'un des deux concours peuvent être attribués à l'autre concours.
