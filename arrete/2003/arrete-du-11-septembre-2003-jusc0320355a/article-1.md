@@ -1,0 +1,3 @@
+# Article 1
+
+Les dates et lieux des épreuves de l'examen d'aptitude à la profession d'avocat, prévu à l'article 68 du décret du 27 novembre 1991 susvisé, et de sa session de rattrapage, prévue à l'article 70 du même décret, sont fixés par le président du conseil d'administration du centre régional de formation professionnelle qui en assure une publicité suffisante, trois mois au moins avant la date de la première épreuve, notamment par un affichage dans ses locaux et dans ceux des établissements universitaires implantés dans son ressort, ainsi que par des insertions dans les revues professionnelles spécialisées.

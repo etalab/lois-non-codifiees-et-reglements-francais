@@ -1,0 +1,3 @@
+# Article 9
+
+Sont dispensés, sur leur demande, des épreuves orales d'admission mentionnées aux 3° et 4° de l'article 8 ou de l'une d'elles, les candidats titulaires d'un diplôme national sanctionnant un deuxième cycle d'études en sciences juridiques, d'un diplôme intermédiaire de maîtrise d'un master en droit ou en sciences juridiques, d'un diplôme d'études approfondies (DEA) en sciences juridiques, d'un diplôme d'études supérieures spécialisées (DESS) en sciences juridiques ou d'un master en droit ou en sciences juridiques et qui justifient avoir suivi, en vue de son obtention, les enseignements correspondant aux matières de ces épreuves orales ou de l'une d'elles et obtenu une note au moins égale à 10 sur 20 à chacune d'elles.
