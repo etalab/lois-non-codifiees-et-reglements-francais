@@ -2,9 +2,9 @@
 
 Parmi les fonctionnaires mentionnés à l'article 4 du présent décret, seuls les administrateurs territoriaux et les fonctionnaires titulaires d'un emploi ou appartenant à un corps ou à un cadre d'emplois dont l'indice terminal est au moins égal à la hors-échelle A  peuvent être détachés dans un emploi de :
 
-1. Secrétaire général d'une commune de plus de 40 000 habitants ;
+1. Directeur général des services d'une commune de plus de 40 000 habitants ;
 
-2. Secrétaire général adjoint d'une commune de plus de 150 000 habitants ;
+2. Directeur général adjoint des services d'une commune de plus de 150 000 habitants ;
 
 3. Directeur général des services des départements ;
 
