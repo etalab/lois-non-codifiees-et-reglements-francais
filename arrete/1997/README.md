@@ -157,7 +157,6 @@
 - [Arrêté du 5 février 1997 (MCCD9700107A)](arrete-du-5-fevrier-1997-mccd9700107a)
 - [Arrêté du 5 février 1997 (TASP9720478A)](arrete-du-5-fevrier-1997-tasp9720478a)
 - [Arrêté du 5 février 1997 (TASS9720454A)](arrete-du-5-fevrier-1997-tass9720454a)
-- [Arrêté du 5 mars 1997 (INTC9700083A)](arrete-du-5-mars-1997-intc9700083a)
 - [Arrêté du 5 mars 1997 (TASE9710386A)](arrete-du-5-mars-1997-tase9710386a)
 - [Arrêté du 5 mars 1997 (TASE9710387A)](arrete-du-5-mars-1997-tase9710387a)
 - [Arrêté du 5 mars 1997 (TASE9710388A)](arrete-du-5-mars-1997-tase9710388a)
