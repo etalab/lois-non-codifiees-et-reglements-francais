@@ -1,5 +1,3 @@
 # Article 21
 
-La dernière phrase du premier alinéa de l'article 4 du décret du 15 janvier 1965, modifié par le décret n° 76-791 du 20 août 1976, est abrogée.
-
-Ledit article 4 est complété par un troisième alinéa ainsi rédigé.
+Il ne peut être sursis à poursuites que si le débiteur produit des garanties jugées suffisantes par le directeur de la caisse de mutualité sociale agricole. Toutefois, le débiteur doit s'être acquitté de la totalité de la part ouvrière des cotisations et régler, dans le cadre du sursis à poursuites, la fraction minimum des majorations de retard fixée à l'article 18.

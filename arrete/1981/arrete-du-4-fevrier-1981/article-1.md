@@ -76,6 +76,10 @@ Traitement de l'information.
 
 Traitements thermiques et métallographie.
 
+Matériels et instrumentation d'analyses de laboratoire (délivré par l'école nationale de chimie-physique-biologie de Paris);
+
+Matériels et instrumentation d'investigation, d'assistance, de surveillance et de thérapie médicales (délivré par le lycée technique Jacquard de Paris);
+
 Baccalauréat de technicien.
 
 Spécialités :
@@ -90,7 +94,7 @@ Electronique (F 2).
 
 Equipement technique du bâtiment (F 9).
 
-Génie civil (bâtiment et travaux publics) (F 4).
+Génie civil (bâtiments et travaux publics) (F 4).
 
 Microtechniques (F 10).
 
@@ -140,7 +144,7 @@ Examen préliminaire du diplôme de géomètre expert foncier.
 
 Diplôme d'élève breveté des écoles nationales professionnelles correspondant à l'une des spécialités de brevet de technicien énumérées ci-dessus.
 
-Diplôme du premier cycle technique du conservatoire national des arts et métiers (spécialités mathématiques-informatique, mécanique, électrotechnique, techniques de construction, génie civil ou techniques industrielles d'architecture).
+Diplôme du premier cycle technique du conservatoire national des arts et métiers (spécialités mathématiques-informatique, mécanique, électrotechnique, techniques de construction, génie civil ou techniques industrielles d'architecture, électronique).
 
 Adjoint technique d'une commune.
 
@@ -153,3 +157,9 @@ Diplôme de technicien gestionnaire de la fonction linge en milieu hospitalier d
 Formation de technicien biomédical de l'assistance publique à Marseille :
 
 Diplôme de technicien gestionnaire de la fonction linge en milieu hospitalier délivré par le centre technique de la teinturerie et du nettoyage de l'institut de recherche sur l'entretien du nettoyage (CTTN - IREN)
+
+Titres exigés pour l'accès au concours sur titres d'adjoint technique d'une commune ;
+
+Maîtrise de sciences et techniques;
+
+Certificat de stage de perfectionnement à l'ingénierie biomédicale hospitalière (SPIBH), option avec stage hospitalier, délivré par l'université de technologie de Compiègne.

@@ -1,0 +1,3 @@
+# Article 6
+
+A titre exceptionnel et par dérogation à l'article 2 du décret du 30 septembre 1967 susvisé, le taux de la cotisation due pour la couverture des prestations en nature de l'assurance maladie, maternité et invalidité, versées aux agents permanents des régions, des départements, des communes et de leurs établissements publics n'ayant pas le caractère industriel ou commercial, affiliés à la Caisse nationale de retraite des agents des collectivités locales ou à un régime spécial de retraites, mise à la charge de l'assuré et assise sur les traitements soumis à pension versés, à compter du 1er juillet 1987 et jusqu'au 30 juin 1988, est fixé à 5,15 p. 100, le taux global étant porté à 16,65 p. 100.

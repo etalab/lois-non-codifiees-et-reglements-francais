@@ -1,0 +1,3 @@
+# Article 9
+
+A titre exceptionnel et par dérogation à l'article 3 du décret du 30 septembre 1967 susvisé, le taux de la cotisation afférente à la couverture des prestations en nature de l'assurance maladie, maternité, invalidité, précomptée, dans la limite du plafond prévu par la législation de sécurité sociale, sur le montant des pensions de retraite versées, à compter du 1er juillet 1987 et jusqu'au 30 juin 1988, aux ouvriers de l'Etat et aux agents des collectivités locales et de leurs établissements publics n'ayant pas le caractère industriel ou commercial, ou à leur famille, est fixé à 2,65 p. 100.
