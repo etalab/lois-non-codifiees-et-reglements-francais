@@ -1,3 +1,3 @@
 # Article 4
 
-L'arrêté du 5 février 1947 modifié fixant les caractéristiques du propane commercial est abrogé.
+Aucune mention publicitaire ne pourra être faite des propriétés des additifs, à l'exception de celles qui auront été justifiées dans l'étude technique soumise au ministre chargé des hydrocarbures (direction des hydrocarbures) en vue de l'agrément visé à l'article 2 j et entérinées par celui-ci.

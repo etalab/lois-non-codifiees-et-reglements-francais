@@ -1,0 +1,3 @@
+# Article 5
+
+L'importation sous tous les régimes douaniers, autres que le transit de frontière à frontière sans rupture de charge dans le territoire douanier, de pommes de terre (n° 07-01 A du tarif des douanes), à l'exception des pommes de terre primeur (n° 07-01 A II du tarif des douanes), originaires ou en provenance des pays reconnus contaminés par le virus des tubercules en fuseau (Potato spindle tuber virus) dont la liste est annexée au présent arrêté est autorisée sous réserve, outre le respect des conditions énoncées pour ces mêmes produits à l'article 4 ci-dessus, du respect de celles énoncées à l'article 6 ci-après.

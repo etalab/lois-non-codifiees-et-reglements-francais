@@ -1,0 +1,3 @@
+# Article 12
+
+L'importation sous tous régimes douaniers autres que le transit de frontière à frontière, sans rupture de charge, dans le territoire douanier, de semences de luzerne (Medicago sativa L.) (ex 12-03 C III du tarif des douanes) originaires ou en provenance des pays suivants : Afrique du Sud, Arabie Saoudite, Australie, Canada, Etats-Unis d'Amérique, Mexique, Nouvelle-Zélande, Pologne, Tchécoslovaquie et Union soviétique est autorisée sous réserve, outre du respect des conditions énoncées pour ces mêmes produits à l'article 11 ci-dessus, du respect de celles énoncées à l'article 13 ci-après.
