@@ -236,8 +236,6 @@
 - [Décret n°97-1038 du 12 novembre 1997 (DEFD9701810D)](decret-n97-1038-du-12-novembre-1997-defd9701810d)
 - [Décret n°97-1138 du 12 décembre 1997 (MESS9723791D)](decret-n97-1138-du-12-decembre-1997-mess9723791d)
 - [Décret n°97-1152 du 12 décembre 1997 (MJSK9770100D)](decret-n97-1152-du-12-decembre-1997-mjsk9770100d)
-- [Décret n°97-125 du 12 février 1997 (TASS9720272D)](decret-n97-125-du-12-fevrier-1997-tass9720272d)
-- [Décret n°97-126 du 12 février 1997 (TASS9720306D)](decret-n97-126-du-12-fevrier-1997-tass9720306d)
 - [Décret n°97-127 du 12 février 1997 (TASS9720307D)](decret-n97-127-du-12-fevrier-1997-tass9720307d)
 - [Décret n°97-128 du 12 février 1997 (ECOT9751570D)](decret-n97-128-du-12-fevrier-1997-ecot9751570d)
 - [Décret n°97-129 du 12 février 1997 (AVIC9700486D)](decret-n97-129-du-12-fevrier-1997-avic9700486d)
