@@ -10,7 +10,7 @@ Trente-trois représentants des chefs d'entreprise de pêche maritime ainsi que 
 
 Seize représentants des coopératives maritimes ;
 
-Dix représentants des entreprises du mareyage, dont cinq au titre des chefs d'entreprise et cinq au titre des salariés ;
+Dix représentants des entreprises du commerce de premier achat, dont cinq au titre des chefs d'entreprise parmi lesquels quatre mareyeurs et un poissonnier, et cinq au titre des salariés des mareyeurs et poissonniers ;
 
 Quatre représentants des entreprises de la conserve, dont deux au titre des chefs d'entreprise et deux au titre des salariés ;
 
