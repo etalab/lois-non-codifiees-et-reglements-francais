@@ -284,7 +284,6 @@
 - [Décret n°89-681 du 19 septembre 1989 (INDA8900685D)](decret-n89-681-du-19-septembre-1989-inda8900685d)
 - [Décret n°89-687 du 19 septembre 1989 (MAEJ8930087D)](decret-n89-687-du-19-septembre-1989-maej8930087d)
 - [Décret n°89-688 du 19 septembre 1989 (MAEJ8930076D)](decret-n89-688-du-19-septembre-1989-maej8930076d)
-- [Décret n°89-768 du 19 octobre 1989 (MCCB8900244D)](decret-n89-768-du-19-octobre-1989-mccb8900244d)
 - [Décret n°89-770 du 19 octobre 1989 (MCCB8900246D)](decret-n89-770-du-19-octobre-1989-mccb8900246d)
 - [Décret n°89-771 du 19 octobre 1989 (ACVC8900015D)](decret-n89-771-du-19-octobre-1989-acvc8900015d)
 - [Décret n°89-774 du 19 octobre 1989 (MAEJ8930088D)](decret-n89-774-du-19-octobre-1989-maej8930088d)
