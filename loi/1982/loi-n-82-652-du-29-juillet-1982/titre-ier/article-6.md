@@ -8,9 +8,9 @@ La réponse doit être diffusée dans des conditions techniques équivalentes à
 
 Elle doit également être diffusée de manière que lui soit assurée une audience équivalente à celle du message précité.
 
-La demande d'exercice du droit de réponse doit être présentée dans le délai de trois mois suivant celui de la diffusion du message contenant l'imputation qui la fonde [*délai*]. Toutefois, lorsque, à l'occasion de l'exercice de poursuites pénales, ont été diffusées dans le cadre d'une activité de communication audiovisuelle des imputations susceptibles de porter atteinte à l'honneur ou à la réputation d'une personne physique ou morale, ce délai est réouvert à son profit pour la même durée à compter du jour où la décision de non-lieu dont elle fait l'objet est intervenue ou celle de relaxe ou d'acquittement la mettant expressément ou non hors de cause est devenue définitive.
+La demande d'exercice du droit de réponse doit être présentée dans le délai de trois mois suivant celui de la diffusion du message contenant l'imputation qui la fonde. Toutefois, lorsque, à l'occasion de l'exercice de poursuites pénales, ont été diffusées dans le cadre d'une activité de communication audiovisuelle des imputations susceptibles de porter atteinte à l'honneur ou à la réputation d'une personne physique ou morale, ce délai est réouvert à son profit pour la même durée à compter du jour où la décision de non-lieu dont elle fait l'objet est intervenue ou celle de relaxe ou d'acquittement la mettant expressément ou non hors de cause est devenue définitive.
 
-En cas de refus ou de silence gardé sur la demande par son destinataire dans les huit jours suivant celui de sa réception, le demandeur peut saisir le président du tribunal de grande instance, statuant en matière de référés, par la mise en cause de la personne visée au neuvième alinéa du présent article [*action en justice*].
+En cas de refus ou de silence gardé sur la demande par son destinataire dans les huit jours suivant celui de sa réception, le demandeur peut saisir le président du tribunal de grande instance, statuant en matière de référés, par la mise en cause de la personne visée au neuvième alinéa du présent article.
 
 Le président du tribunal peut ordonner sous astreinte la diffusion de la réponse ; il peut déclarer son ordonnance exécutoire sur minute nonobstant appel.
 
@@ -23,8 +23,6 @@ Un décret en Conseil d'Etat fixe les modalités d'application du présent artic
 Il précise notamment les modalités et le délai de conservation des documents audiovisuels nécessaires à l'administration de la preuve des imputations visées au premier alinéa du présent article, sans préjudice de l'application des dispositions de la loi n° 79-18 du 3 janvier 1979 sur les archives.
 
 Les dispositions du présent article sont applicables à tout service de communication mis à la disposition du public sous forme de phonogrammes ou de vidéogrammes paraissant à intervalles réguliers.
-
-Elles sont également applicables, dans les conditions fixées par décret en Conseil d'Etat, aux services de communication audiovisuelle entrant dans le champ d'application de l'article 43 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication.
 
 II. - Les associations remplissant les conditions fixées par l'article 48-1 de la loi du 29 juillet 1881 sur la liberté de la presse peuvent également exercer le droit de réponse prévu par le présent article dans le cas où des imputations susceptibles de porter atteinte à l'honneur ou à la réputation d'une personne ou d'un groupe de personnes à raison de leur origine, de leur appartenance ou de leur non-appartenance à une ethnie, une nation, une race ou une religion déterminée auraient été diffusées dans le cadre d'une activité de communication audiovisuelle.
 
