@@ -271,6 +271,7 @@
 - [Arrêté du 9 juillet 2002 (SPRK0270165A)](arrete-du-9-juillet-2002-sprk0270165a)
 - [Arrêté du 9 octobre 2002 (MENA0202222A)](arrete-du-9-octobre-2002-mena0202222a)
 - [Arrêté du 9 octobre 2002 (PRMX0205968A)](arrete-du-9-octobre-2002-prmx0205968a)
+- [Arrêté du 9 septembre 1992 (INTA9200440A)](arrete-du-9-septembre-1992-inta9200440a)
 - [Arrêté du 9 septembre 1992 (INTA9200442A)](arrete-du-9-septembre-1992-inta9200442a)
 - [Arrêté du 9 septembre 1997 (ATEP9760348A)](arrete-du-9-septembre-1997-atep9760348a)
 - [Arrêté du 9 septembre 2002 (DOMB0200063A)](arrete-du-9-septembre-2002-domb0200063a)
