@@ -24,8 +24,8 @@ a) Un chef d'établissement d'enseignement primaire privé nommé par le commiss
 
 b) Un chef d'établissement d'enseignement secondaire ou technique privé nommé par le commissaire de la République du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les chefs d'établissement d'enseignement secondaire ou technique privé ayant passé avec l'Etat un contrat d'association ;
 
-c) Un maître enseignant dans un établissement d'enseignement primaire privé, élu dans le département parmi les maîtres titulaires, contractuels ou agréés des établissements d'enseignement primaire privés sous contrat, n'exerçant pas la fonction de chef d'établissement, au scrutin uninominal à un tour ;
+c) Un maître enseignant dans un établissement d'enseignement primaire privé, nommé par le préfet du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les maîtres titulaires, contractuels ou agréés des établissements d'enseignement primaire privés sous contrat, n'exerçant pas la fonction de chef d'établissement ;
 
-d) Un maître enseignant dans un établissement d'enseignement secondaire ou technique privé, élu dans le département parmi les maîtres titulaires ou contractuels des établissements d'enseignement secondaire ou technique privés sous contrat, n'exerçant pas la fonction de chef d'établissement, au scrutin uninominal à un tour ;
+d) Un maître enseignant dans un établissement d'enseignement secondaire ou technique privé, nommé par le préfet du département, sur proposition des organisations syndicales les plus représentatives au niveau départemental, parmi les maîtres titulaires ou contractuels des établissements d'enseignement secondaire ou technique privés sous contrat, n'exerçant pas la fonction de chef d'établissement. "
 
 e) Deux parents d'élèves nommés par le commissaire de la République du département sur proposition des associations de parents d'élèves les plus représentatives au niveau départemental.
