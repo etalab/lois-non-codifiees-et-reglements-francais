@@ -8,9 +8,9 @@ Toutefois, lorsque la mise en application effective de ces règlements l'exige o
 
 2° Pour certaines espèces ou certains groupes d'espèces, la limitation du volume des captures et leur répartition par navire ;
 
-3° Pour certaines espèces, la détermination d'une taille ou d'un poids minimal des captures au-dessous desquels celles-ci doivent être aussitot rejetées ;
+3° La détermination des espèces pour lesquelles un arrêté du ministre chargé des pêches maritimes fixe la taille ou le poids minimal des captures au-dessous desquels celles-ci doivent être aussitôt rejetées ;
 
-4° La détermination des règles relatives à la dimension du maillage des filets et aux caractéristiques techniques des navires ainsi que la définition des engins et modes de pêche ;
+4° La détermination des règles relatives à la dimension du maillage des filets et aux caractéristiques techniques des navires ainsi que la définition des engins, instruments et appareils utilisés à des fins de pêche et des modes de pêche ;
 
 5° L'autorisation de certains types ou procédés de pêche et la limitation du nombre de leurs bénéficiaires en vue d'une gestion rationnelle de la ressource de pêche ;
 
@@ -26,10 +26,14 @@ Toutefois, lorsque la mise en application effective de ces règlements l'exige o
 
 11° La définition des conditions de récolte des végétaux marins ;
 
-12° La délimitation de réserves ou de cantonnements interdits à toute pêche ou la définition des restrictions de pêche destinées à favoriser l'implantation des structures artificielles aux fins d'exploitation et de mise en valeur des ressources biologiques ;
+12° Les conditions de délimitation des réserves ou des cantonnements interdits à toute pêche ou la définition des restrictions de pêche destinées à favoriser l'implantation des structures artificielles aux fins d'exploitation et de mise en valeur des ressources biologiques ou à protéger les exploitations de cultures marines ;
 
-13° La détermination des conditions générales d'installation et d'exploitation des établissements de cultures marines, des établissements permanents de capture et des structures artificielles ;
+13° La détermination des conditions générales d'installation et d'exploitation des établissements de cultures marines, y compris de ceux alimentés en eau de mer provenant de forages ainsi que des établissements permanents de capture et des structures artificielles ;
 
 14° La détermination des conditions de conservation, de reproduction, de reconstitution des ressources de pêche et d'enrichissement ou de repeuplement des fonds ;
+
+15° La détermination des mesures propres à prévenir l'apparition, à enrayer le développement et à favoriser l'extinction des maladies affectant les animaux ou végétaux marins ;
+
+16° La détermination des mesures permettant d'adapter les capacités de capture de la flotte de pêche aux ressources halieutiques disponibles ;
 
 Enfin, et généralement, toutes mesures d'ordre et de précaution propres à assurer la conservation des ressources et à régler l'exercice de la pêche.
