@@ -1,5 +1,6 @@
 # 1996
 
+- [Arrêté du 1 février 1996 (AGRG9600245A)](arrete-du-1-fevrier-1996-agrg9600245a)
 - [Arrêté du 2 août 1995 (AGRG9501585A)](arrete-du-2-aout-1995-agrg9501585a)
 - [Arrêté du 2 février 1996 (AGRG9600261A)](arrete-du-2-fevrier-1996-agrg9600261a)
 - [Arrêté du 2 février 1996 (DEFP9601137A)](arrete-du-2-fevrier-1996-defp9601137a)
@@ -35,6 +36,7 @@
 - [Arrêté du 8 décembre 1995 (INDB9501264A)](arrete-du-8-decembre-1995-indb9501264a)
 - [Arrêté du 8 février 1996 (AGRB9502077A)](arrete-du-8-fevrier-1996-agrb9502077a)
 - [Arrêté du 8 février 1996 (AGRG9600301A)](arrete-du-8-fevrier-1996-agrg9600301a)
+- [Arrêté du 8 février 1996 (MCCE9600112A)](arrete-du-8-fevrier-1996-mcce9600112a)
 - [Arrêté du 8 février 1996 (MENU9502945A)](arrete-du-8-fevrier-1996-menu9502945a)
 - [Arrêté du 8 janvier 1996 (ECOR9605001A)](arrete-du-8-janvier-1996-ecor9605001a)
 - [Arrêté du 8 janvier 1996 (ECOR9605002A)](arrete-du-8-janvier-1996-ecor9605002a)

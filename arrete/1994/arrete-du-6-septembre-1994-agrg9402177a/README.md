@@ -5,3 +5,4 @@
 - [Titre III : L'emballage et l'étiquetage des produits mentionnés à l'article 1er de la loi du 2 novembre 1943.](titre-iii)
 - [Titre IV : Dispositions modifiant l'arrêté du 1er décembre 1987 susvisé.](titre-iv)
 - [Article 41](article-41.md)
+- [Annexes](annexes)
