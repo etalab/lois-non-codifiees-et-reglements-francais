@@ -1,6 +1,6 @@
 # Article 2
 
-Le Conseil national de l'air comprend vingt-neuf membres nommés par arrêté du ministre chargé de l'environnement, soit :
+Le Conseil national de l'air comprend trente et un membres nommés par arrêté du ministre chargé de l'environnement, soit :
 
 - huit représentants de l'Etat, dont deux représentants du ministère de l'environnement, cinq membres désignés respectivement sur proposition des ministres chargés de l'économie, de la santé, de l'industrie, du logement et des transports et un préfet désigné sur proposition du ministre de l'intérieur ;
 
@@ -28,7 +28,7 @@ Le Conseil national de l'air comprend vingt-neuf membres nommés par arrêté du
 
 - un représentant des associations de consommateurs ;
 
-- un économiste de l'environnement et une personnalité désignée en raison de sa compétence.
+- un économiste de l'environnement et trois personnalités désignées en raison de leur compétence.
 
 Les membres du Conseil national de l'air peuvent se faire représenter par un suppléant nommé dans les mêmes conditions.
 
