@@ -10,7 +10,7 @@ Le directeur général de l'industrie, des technologies de l'information et des 
 
 Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
 
-Le directeur du gaz, de l'électricité et du charbon ou son représentant ;
+Le directeur de la demande et des marchés énergétiques ou son représentant ;
 
 Le directeur du Trésor ou son représentant ;
 

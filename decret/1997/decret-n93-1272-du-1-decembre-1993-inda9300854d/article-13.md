@@ -1,11 +1,11 @@
 # Article 13
 
-La direction du gaz, de l'électricité et du charbon est chargée de l'élaboration et de la mise en oeuvre de la politique du Gouvernement dans le domaine de l'électricité, des combustibles minéraux solides et du transport et de la distribution du gaz.
+La direction de la demande et des marchés énergétiques veille au bon fonctionnement des marchés finals de l'énergie. Elle propose les mesures favorisant la maîtrise de la demande, l'utilisation rationnelle de l'énergie, la diversification des énergies et le recours aux énergies renouvelables. Elle concourt au développement des techniques, filières et produits s'inscrivant dans le cadre de la politique de maîtrise et d'orientation de la demande énergétique.
 
-Elle est chargée de la préparation et de l'application des textes concernant l'utilisation et le fonctionnement des services du gaz et de l'électricité.
+Elle élabore et met en oeuvre la politique concernant l'électricité, le transport et la distribution de gaz combustibles, ainsi que la distribution des produits pétroliers et des combustibles solides. Elle veille au bon fonctionnement, d'une part, des services publics de l'électricité et du gaz, d'autre part, de la distribution collective de chaleur.
 
-Elle exerce la tutelle sur Electricité de France, Gaz de France, la Compagnie nationale du Rhône et leurs filiales et le contrôle technique de l'Etat sur l'ensemble des entreprises et organismes concourant au fonctionnement du service public du gaz et de l'électricité sous réserve des compétences de la direction générale de l'industrie, des technologies de l'information et des postes, de la direction de l'action régionale et de la petite et moyenne industrie et de la direction de la sûreté des installations nucléaires.
+Elle élabore la réglementation et anime le contrôle technique de l'Etat applicables aux ouvrages électriques et aux installations de distribution de gaz et de produits pétroliers, sous réserve des attributions de la direction de l'action régionale et de la petite et moyenne industrie et de la direction de la sûreté des installations nucléaires.
 
-Elle exerce la tutelle sur Charbonnages de France, les houillères de bassin et leurs filiales.
+Elle assure la tutelle d'Electricité de France, de Gaz de France et de l'Agence de l'environnement et de la maîtrise de l'énergie. Elle assure, selon les cas, la tutelle ou le contrôle de la Compagnie nationale du Rhône, de la Société nationale d'électricité et de thermique, ainsi que de leurs filiales.
 
-Elle est compétente pour les problèmes statutaires et sociaux intéressant l'ensemble des organismes concourant au service public du gaz et de l'électricité. Elle coordonne, en liaison avec la direction des matières premières et des hydrocarbures, la direction générale de l'industrie, des technologies de l'information et des postes, et la direction de l'action régionale et de la petite et moyenne industrie, les actions se rapportant au statut du mineur et de la sécurité sociale minière.
+Elle est compétente pour traiter des problèmes statutaires et sociaux des entreprises électriques et gazières.

@@ -22,13 +22,9 @@ f) Le service des études et des statistiques industrielles.
 
 4. La direction générale de l'énergie et des matières premières qui comprend :
 
-a) La direction des matières premières et des hydrocarbures ;
+a) La direction des ressources énergétiques et minérales ;
 
-b) La direction du gaz, de l'électricité et du charbon ;
-
-c) Le service des énergies renouvelables et de l'utilisation rationnelle de l'énergie ;
-
-d) Le service des affaires nucléaires.
+b) La direction de la demande et des marchés énergétiques.
 
 5. La direction de la sûreté des installations nucléaires.
 
