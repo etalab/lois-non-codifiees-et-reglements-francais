@@ -1,6 +1,6 @@
 # Article 3
 
-Les comptes budgétaires présentant un caractère limitatif doivent obligatoirement comprendre [*contenu*] :
+Les comptes budgétaires présentant un caractère limitatif doivent obligatoirement comprendre :
 
 1° Au titre des dépenses de fonctionnement : le montant total des crédits inscrits à la section de fonctionnement du budget hors comptes évaluatifs.
 
@@ -38,7 +38,7 @@ Les comptes principaux, les comptes subdivisionnaires et les sous-comptes suivan
 
 6413. Primes et gratifications diverses.
 
-641387. Part personnalisable de la rémunération          des agents de direction.
+641387. Part personnalisable de la rémunération des agents de direction.
 
 641418. Autres indemnités et avantages divers.
 

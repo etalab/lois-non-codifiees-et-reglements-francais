@@ -1,4 +1,4 @@
-# Arrêté du 30 août 1984 relatif aux comptes budgétaires des organismes de sécurité sociale du régime général présentant un caractère limitatif
+# Arrêté du 7 janvier 1993 relatif aux caractéristiques du secteur opératoire mentionné à l'article D. 712-31 du code de la santé publique pour les structures pratiquant l'anesthésie ou la chirurgie ambulatoire visées à l'article R. 712-2-1 (b), de ce même code
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
