@@ -1,5 +1,6 @@
 # 1962
 
+- [Arrêté du 2 février 1962](arrete-du-2-fevrier-1962)
 - [Arrêté du 6 janvier 1962](arrete-du-6-janvier-1962)
 - [Arrêté du 8 janvier 1962](arrete-du-8-janvier-1962)
 - [Arrêté du 10 janvier 1962](arrete-du-10-janvier-1962)
