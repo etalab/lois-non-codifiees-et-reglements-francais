@@ -6,4 +6,4 @@ Si des objets trouvés ont été mis en garde chez un tiers, celui-ci doit faire
 
 Le propriétaire de l'immeuble est responsable de la conservation provisoire des monuments, substructions ou vestiges de caractère immobilier découverts sur ses terrains. Le dépositaire des objets assume à leur égard la même responsabilité.
 
-Le secrétaire général des beaux-arts peut faire visiter les lieux où les découvertes ont été effectuées ainsi que les locaux où les objets ont été déposés et prescrire toutes mesures utiles pour leur conservation.
+Le préfet de région peut faire visiter les lieux où les découvertes ont été effectuées ainsi que les locaux où les objets ont été déposés et prescrire toutes mesures utiles pour leur conservation.
