@@ -1,3 +1,0 @@
-# Article 10
-
-Pour autant que les conditions prévues à l'article 4 ci-dessus sont remplies et que les examens de routine énumérés au présent chapitre ont été réalisés pendant les douze mois précédents, les animaux peuvent être transférés d'un centre à un autre de niveau sanitaire équivalent sans période d'isolement et sans examens, à condition que le mouvement s'effectue directement. L'animal considéré ne doit pas entrer en contact direct ou indirect avec des animaux biongulés d'un niveau sanitaire inférieur et le moyen de transport utilisé doit avoir été désinfecté au préalable. Si le transfert d'un centre à un autre a lieu entre Etats membres, il s'effectue conformément aux dispositions de la directive n° 64-432 C.E.E. modifiée susvisée.
