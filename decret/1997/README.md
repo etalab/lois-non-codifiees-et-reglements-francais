@@ -59,7 +59,6 @@
 - [Décret n°97-826 du 3 septembre 1997 (ECOF9720767D)](decret-n97-826-du-3-septembre-1997-ecof9720767d)
 - [Décret n°97-827 du 3 septembre 1997 (ECOU9600005D)](decret-n97-827-du-3-septembre-1997-ecou9600005d)
 - [Décret n°97-907 du 3 octobre 1997 (ECOI9700629D)](decret-n97-907-du-3-octobre-1997-ecoi9700629d)
-- [Décret n°97-95 du 3 février 1997 (AVIV9700273D)](decret-n97-95-du-3-fevrier-1997-aviv9700273d)
 - [Décret n°2000-976 du 4 octobre 2000 (MCCB0000478D)](decret-n2000-976-du-4-octobre-2000-mccb0000478d)
 - [Décret n°97-1010 du 4 novembre 1997 (EQUT9701562D)](decret-n97-1010-du-4-novembre-1997-equt9701562d)
 - [Décret n°97-1120 du 4 décembre 1997 (MENX9700127D)](decret-n97-1120-du-4-decembre-1997-menx9700127d)
