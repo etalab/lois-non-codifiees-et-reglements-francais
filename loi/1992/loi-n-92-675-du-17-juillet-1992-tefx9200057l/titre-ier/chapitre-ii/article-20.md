@@ -22,7 +22,7 @@ V. - L'apprenti est affilié au régime général de la sécurité sociale pour 
 
 VI. - L'Etat prend en charge, selon les modalités de calcul prévues à l'article L. 118-5 du code du travail, la totalité des cotisations des assurances sociales, des accidents du travail et des allocations familiales dues par l'employeur et des cotisations salariales d'origine légale et conventionnelle imposées par la loi dues au titre des salaires versés aux apprentis, y compris les cotisations d'assurance chômage versées par les personnes morales visées à l'article 18 qui ont, en application de l'article L. 351-12 du code du travail, adhéré au régime prévu à l'article L. 351-4 du même code. Par dérogation aux dispositions de l'article L. 351-12 du même code, cette adhésion peut être limitée aux seuls apprentis.
 
-VII. - Une personne visée à l'article 18 ne peut conclure avec le même apprenti plusieurs contrats d'apprentissage successifs.
+VII. - Une personne morale visée à l'article 18 ne peut conclure avec le même apprenti plus de trois contrats d'apprentissage successifs.
 
 VIII. - Les services accomplis par l'apprenti au titre du contrat d'apprentissage ne peuvent être pris en compte comme services publics au sens des dispositions applicables aux fonctionnaires, aux agents publics ou aux agents employés par les personnes morales visées à l'article 18, ni au titre de l'un des régimes spéciaux de retraite applicables à ces agents.
 

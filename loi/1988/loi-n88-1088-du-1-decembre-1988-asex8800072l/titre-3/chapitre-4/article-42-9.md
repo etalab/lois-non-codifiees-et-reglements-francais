@@ -5,3 +5,5 @@ L'agence reçoit la contribution de l'Etat au financement des actions d'insertio
 Elle reçoit également du département le crédit prévu à l'article 38 dans des conditions fixées par décret.
 
 Ce crédit se calcule sous déduction, le cas échéant et dans les limites prévues audit article, des sommes effectivement consacrées par le département aux dépenses résultant de la prise en charge de la participation de l'assuré allocataire du revenu minimum d'insertion aux tarifs servant de base au calcul des prestations de sécurité sociale.
+
+Ce crédit est également diminué des sommes imputables sur les crédits d'insertion prévus à l'article 38 au titre de l'article 38-1 et dans les conditions définies par ce même article, selon des modalités fixées par décret.
