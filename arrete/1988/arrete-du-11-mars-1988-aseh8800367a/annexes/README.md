@@ -1,4 +1,0 @@
-# Annexes
-
-- [ATTESTATION A JOINDRE LORS DU DEPOT DE CANDIDATURE AUX FONCTIONS DE CHEF DE SERVICE A TEMPS PARTIEL (Les situations sont appréciées à la date de clôture des candidatures)](attestation-a)
-- [CURRICULUM VITAE A JOINDRE LORS DU DEPOT DE CANDIDATURE AUX FONCTIONS DE CHEF DE SERVICE](curriculum-vitae-a)
