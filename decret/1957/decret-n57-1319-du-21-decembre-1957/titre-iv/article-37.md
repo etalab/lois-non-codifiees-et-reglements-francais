@@ -1,3 +1,3 @@
 # Article 37
 
-La durée moyenne de deux ans fixée aux articles 23 et 32 ci-dessus peut être réduite en faveur des fonctionnaires les mieux notés, sans toutefois pouvoir être inférieure à dix-huit mois.
+Les conducteurs d'automobiles de 1re catégorie peuvent, sur leur demande, être intégrés dans le grade de préposé chef, après avis de la commission administrative paritaire. Ils conservent l'échelon et l'ancienneté d'échelon dont ils bénéficiaient au moment de leur intégration.

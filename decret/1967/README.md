@@ -18,6 +18,7 @@
 - [Décret n°67-568 du 12 juillet 1967](decret-n67-568-du-12-juillet-1967)
 - [Décret n°67-894 du 12 octobre 1967](decret-n67-894-du-12-octobre-1967)
 - [Décret n°67-902 du 12 octobre 1967](decret-n67-902-du-12-octobre-1967)
+- [Décret n°67-918 du 12 octobre 1967](decret-n67-918-du-12-octobre-1967)
 - [Décret n°67-1091 du 15 décembre 1967](decret-n67-1091-du-15-decembre-1967)
 - [Décret n°67-1092 du 15 décembre 1967](decret-n67-1092-du-15-decembre-1967)
 - [Décret n°67-1094 du 15 décembre 1967](decret-n67-1094-du-15-decembre-1967)

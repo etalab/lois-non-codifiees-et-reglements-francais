@@ -1,6 +1,6 @@
 # Article 5
 
-Les préposés spécialisés accomplissent les tâches d'exécution les plus délicates des services de distribution et de relevage des correspondances, des services financiers et des services de transport des dépêches. A ce titre, ils sont chargés, notamment, des tournées de distribution nécessitant une qualification particulière.
+Les préposés spécialisés accomplissent les tâches d'exécution les plus délicates des services de distribution et de relevage des correspondances, des services financiers et des services de l'acheminement. A ce titre, ils sont chargés, notamment, des tournées de distribution nécessitant une qualification particulière.
 
 Ils exécutent en outre des travaux d'ordre intérieur et des travaux préparatoires à la distribution, le tri général à l'arrivée par secteurs, groupes ou quartiers et participent au tri de départ, notamment dans les bureaux où le receveur n'est pas assisté d'un fonctionnaire du service général.
 

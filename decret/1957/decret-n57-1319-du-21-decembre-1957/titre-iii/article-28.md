@@ -1,14 +1,14 @@
 # Article 28
 
-Les vérificateurs des services de la distribution et du transport des dépêches sont recrutés :
-
 1° Par voie de concours ouverts aux fonctionnaires âgés de quarante-cinq ans au plus et titulaires de l'un des grades ci-après :
 
-Préposé spécialisé, préposé conducteur et préposé chef comptant au moins un an d'ancienneté au cinquième échelon ;
+Préposé spécialisé, préposé conducteur et préposé chef comptant au moins un an d'ancienneté au 5e échelon ;
 
-Receveur-distributeur en possession au moins du quatrième échelon ;
+Agent d'exploitation des branches Services de la distribution et de l'acheminement et Recettes distribution en possession au moins du 4e échelon ;
 
-Conducteur de la distribution appartenant au moins au troisième échelon ;
+Agent d'administration principal des branches Services de la distribution et de l'acheminement et Recettes distribution ;
+
+Conducteur de la distribution appartenant au moins au 3e échelon ;
 
 Conducteur principal de la distribution.
 
