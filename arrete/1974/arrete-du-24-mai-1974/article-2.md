@@ -14,7 +14,7 @@ Deux médecins des armées, dont un au moins en activité de service, désignés
 
 Un membre du Conseil supérieur de la fonction militaire affilié au fonds de prévoyance de l'aéronautique, désigné par le ministre chargé des armées.
 
-Quatre membres représentant respectivement les militaires de l'armée de terre, de la marine, de l'armée de l'air et de la gendarmerie au titre des services communs, désignés par le ministre des armées.
+Cinq membres représentant respectivement les militaires de l'armée de terre, de la marine, de l'armée de l'air, de la gendarmerie et de la délégation générale pour l'armement au titre des services communs, désignés par le ministre des armées.
 
 Le président, le médecin et les représentants des personnels affiliés peuvent être remplacés par un suppléant désigné dans les mêmes conditions.
 
