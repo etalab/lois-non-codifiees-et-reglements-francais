@@ -1,0 +1,3 @@
+# Article 2
+
+Les examens prévus par le décret du 14 mars 1986 susvisé sont effectués dans la mesure du possible par des médecins attachés à l'administration au cours de séances permettant d'examiner successivement plusieurs candidats. Les praticiens reçoivent à ce titre des vacations horaires dont les montants correspondent à ceux prévus par l'arrêté du 13 décembre 1978 susvisé, à moins qu'ils ne perçoivent de l'administration une rémunération forfaitaire annuelle dont le montant est fixé par un arrêté conjoint du ministre chargé de la fonction publique, du ministre chargé du budget et du ministre intéressé.

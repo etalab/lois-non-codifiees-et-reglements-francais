@@ -74,6 +74,8 @@
 - [Décret n°98-448 du 3 juin 1998 (DEFP9801460D)](decret-n98-448-du-3-juin-1998-defp9801460d)
 - [Décret n°98-552 du 3 juillet 1998 (ECOR9805008D)](decret-n98-552-du-3-juillet-1998-ecor9805008d)
 - [Décret n°98-553 du 3 juillet 1998 (ECOF9800027D)](decret-n98-553-du-3-juillet-1998-ecof9800027d)
+- [Décret n°98-789 du 3 septembre 1998 (MAEC9800067D)](decret-n98-789-du-3-septembre-1998-maec9800067d)
+- [Décret n°98-792 du 3 septembre 1998 (EQUT9800706D)](decret-n98-792-du-3-septembre-1998-equt9800706d)
 - [Décret n°99-702 du 3 août 1999 (MENF9901355D)](decret-n99-702-du-3-aout-1999-menf9901355d)
 - [Décret n°99-703 du 3 août 1999 (MENF9901356D)](decret-n99-703-du-3-aout-1999-menf9901356d)
 - [Décret n°99-709 du 3 août 1999 (INTE9900168D)](decret-n99-709-du-3-aout-1999-inte9900168d)
@@ -734,3 +736,4 @@
 - [Décret n°98-766 du 31 août 1998 (MEST9810934D)](decret-n98-766-du-31-aout-1998-mest9810934d)
 - [Décret n°98-768 du 31 août 1998 (AGRS9801342D)](decret-n98-768-du-31-aout-1998-agrs9801342d)
 - [Décret n°98-769 du 31 août 1998 (ATEN9860075D)](decret-n98-769-du-31-aout-1998-aten9860075d)
+- [Décret n°98-788 du 31 août 1998 (MESS9822359D)](decret-n98-788-du-31-aout-1998-mess9822359d)
