@@ -312,7 +312,6 @@
 - [Arrêté du 11 mai 1990 (BUDR9005028A)](arrete-du-11-mai-1990-budr9005028a)
 - [Arrêté du 11 mai 1990 (ECOT9013293A)](arrete-du-11-mai-1990-ecot9013293a)
 - [Arrêté du 11 mai 1990 (LOGC9000050A)](arrete-du-11-mai-1990-logc9000050a)
-- [Arrêté du 11 mai 1990 (PRME9061131A)](arrete-du-11-mai-1990-prme9061131a)
 - [Arrêté du 11 mai 1990 (SPSS9001021A)](arrete-du-11-mai-1990-spss9001021a)
 - [Arrêté du 12 avril 1990 (MENZ9000883A)](arrete-du-12-avril-1990-menz9000883a)
 - [Arrêté du 12 avril 1990 (MENZ9000931A)](arrete-du-12-avril-1990-menz9000931a)
