@@ -6,11 +6,11 @@ Les tarifs des redevances annuelles dues pour les autorisations d'occupation du 
 
 a) Région de la Méditerranée :
 
-1° zone cadastrale considérée comme ayant un rendement  très bon , l'are : 13,23 F ;
+1° zone cadastrale considérée comme ayant un rendement très bon , l'are : 13,23 F ;
 
-2° zone cadastrale considérée comme ayant un rendement  bon , l'are : 8,82 F ;
+2° zone cadastrale considérée comme ayant un rendement bon , l'are : 8,82 F ;
 
-3° zone cadastrale considérée comme ayant un rendement  moyen , l'are : 6,61 F ;
+3° zone cadastrale considérée comme ayant un rendement moyen , l'are : 6,61 F ;
 
 b) Autres régions, l'are : 11,70 F ;
 
@@ -114,13 +114,13 @@ b) Bâtiments amortis :
 
 - autres constructions, le mètre carré au sol : 7,35 F ;
 
-C. - Les tarifs de redevances visés en 10 A et 10 B
+C. - Les tarifs de redevances visés en 11 A et 11 B
 
 sont réduits de 25 p. 100 pour une superficie comprise entre 2 000 et 10 000 mètres carrés, et de 50 p. 100 pour une superficie supérieure à 10 000 mètres carrés.
 
 D. - Les tarifs de redevances visés en 10 A et 10 B peuvent être majorés de 25 p. 100 pour les terre-pleins, bâtiments ou terrains d'assiette situés à proximité immédiate de grandes voies de communications ou d'un environnement économique très favorable (zone portuaire et industrielle comportant des industries alimentaires ou dérivées par exemple).
 
-E. - La durée d'amortissement à prendre en compte pour l'application des tarifs visés en 10 B est celle fixée pour les ouvrages en cause dans l'acte de concession, sans pouvoir toutefois excéder vingt ans.
+E. - La durée d'amortissement à prendre en compte pour l'application des tarifs visés en 11 B est celle fixée pour les ouvrages en cause dans l'acte de concession, sans pouvoir toutefois excéder vingt ans.
 
 12. - Exploitations de cultures marines situées sur propriété privée, alimentées par prises d'eau à la mer, l'are d'épandage 1,41 F ;
 
