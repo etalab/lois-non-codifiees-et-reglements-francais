@@ -1,27 +1,27 @@
 # Article 1
 
-A compter du 1er juillet 1990, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
+A compter du 1er juillet 1991, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
 
 ZONE I (en francs)
 
-Bénéficiaire isolé : 2 106
+Bénéficiaire isolé : 2 163
 
-Ménage sans personne à charge : 2 466
+Ménage sans personne à charge : 2 533
 
-Bénéficiaire isolé ou ménage ayant une personne à charge : 2 896
+Bénéficiaire isolé ou ménage ayant une personne à charge : 2 974
 
 ZONE II (en francs)
 
-Bénéficiaire isolé : 1 928
+Bénéficiaire isolé : 1 980
 
-Ménage sans personne à charge : 2 246
+Ménage sans personne à charge : 2 307
 
-Bénéficiaire isolé ou ménage ayant une personne à charge : 2 642
+Bénéficiaire isolé ou ménage ayant une personne à charge : 2 713
 
 ZONE III (en francs)
 
-Bénéficiaire isolé : 1 829
+Bénéficiaire isolé : 1 878
 
-Ménage sans personne à charge : 2 126
+Ménage sans personne à charge : 2 183
 
-Bénéficiaire isolé ou ménage ayant une personne à charge : 2 488
+Bénéficiaire isolé ou ménage ayant une personne à charge : 2 555

@@ -41,3 +41,5 @@
 " Les catégories de permis A, B, C, D et E peuvent être délivrées aux personnes atteintes d'un handicap physique nécessitant l'aménagement du véhicule dans des conditions fixées par le ministre chargé des transports.
 
 " Pour les véhicules qui en sont munis, le poids du ralentisseur, dans la limite de 500 kilogrammes, n'entre pas en ligne de compte pour la détermination du permis de conduire exigible pour la conduite de ces véhicules. "
+
+" Pour les véhicules qui en sont munis, le poids des accumulateurs et de leurs accessoires, dans la limite d'une tonne, n'entre pas en ligne de compte pour la détermination du permis de conduire exigible pour la conduite de ces véhicules. "

@@ -891,6 +891,160 @@ b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habit
 </tbody>
 </table>
 
+Les mensualités de référence pour les logements financés par les prêts prévus par les articles R. 331-63 à R. 331-77 sont fixées comme suit lorsque la date de signature du contrat de prêt mentionné sur le certificat prévu à l'article 2 (3°) de l'arrêté du 22 août 1986 modifié susvisé est intervenue après le 30 juin 1991 :
+
+a) Logements neufs construits ou acquis par l'accédant à la propriété :
+
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">DÉSIGNATION</p>
+</td>
+<td width="151">
+<p align="center">ZONE 1<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 2<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 3<br/>(en francs)</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé</p>
+</td>
+<td width="151">
+<p align="center">2 030</p>
+</td>
+<td width="151">
+<p align="center">1 811</p>
+</td>
+<td width="151">
+<p align="center">1 690</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Ménage sans personne à charge</p>
+</td>
+<td width="151">
+<p align="center">2 449</p>
+</td>
+<td width="151">
+<p align="center">2 180</p>
+</td>
+<td width="151">
+<p align="center">2 027</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
+</td>
+<td width="151">
+<p align="center">2 868</p>
+</td>
+<td width="151">
+<p align="center">2 549</p>
+</td>
+<td width="151">
+<p align="center">2 364</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Par personne supplémentaire à charge</p>
+</td>
+<td width="151">
+<p align="center">419</p>
+</td>
+<td width="151">
+<p align="center">369</p>
+</td>
+<td width="151">
+<p align="center">337</p>
+</td>
+</tr>
+</tbody>
+</table>b) Logements agrandis ou aménagés à partir de locaux non destinés à l'habitation ou acquis et améliorés :
+
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">DÉSIGNATION</p>
+</td>
+<td width="151">
+<p align="center">ZONE 1<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 2<br/>(en francs)</p>
+</td>
+<td width="151">
+<p align="center">ZONE 3<br/>(en francs)</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé</p>
+</td>
+<td width="151">
+<p align="center">1 634</p>
+</td>
+<td width="151">
+<p align="center">1 457</p>
+</td>
+<td width="151">
+<p align="center">1 360</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Ménage sans personne à charge</p>
+</td>
+<td width="151">
+<p align="center">1 972</p>
+</td>
+<td width="151">
+<p align="center">1 754</p>
+</td>
+<td width="151">
+<p align="center">1 632</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
+</td>
+<td width="151">
+<p align="center">2 310</p>
+</td>
+<td width="151">
+<p align="center">2 051</p>
+</td>
+<td width="151">
+<p align="center">1 904</p>
+</td>
+</tr>
+<tr>
+<td width="227">
+<p>Par personne supplémentaire à charge</p>
+</td>
+<td width="151">
+<p align="center">338</p>
+</td>
+<td width="151">
+<p align="center">297</p>
+</td>
+<td width="151">
+<p align="center">272</p>
+</td>
+</tr>
+</tbody>
+</table>
+
 c) Logements améliorés par leur propriétaire-occupant :
 
 <table>
@@ -908,7 +1062,7 @@ c) Logements améliorés par leur propriétaire-occupant :
 <p>Bénéficiaire isolé</p>
 </td>
 <td width="318">
-<p align="center">825</p>
+<p align="center">846</p>
 </td>
 </tr>
 <tr>
@@ -916,7 +1070,7 @@ c) Logements améliorés par leur propriétaire-occupant :
 <p>Ménage sans personne à charge</p>
 </td>
 <td width="318">
-<p align="center">921</p>
+<p align="center">945</p>
 </td>
 </tr>
 <tr>
@@ -924,7 +1078,7 @@ c) Logements améliorés par leur propriétaire-occupant :
 <p>Bénéficiaire isolé ou ménage ayant une personne à charge</p>
 </td>
 <td width="318">
-<p align="center">1 017</p>
+<p align="center">1 044</p>
 </td>
 </tr>
 <tr>
@@ -932,7 +1086,7 @@ c) Logements améliorés par leur propriétaire-occupant :
 <p>Par personne supplémentaire à charge</p>
 </td>
 <td width="318">
-<p align="center">96</p>
+<p align="center">99</p>
 </td>
 </tr>
 </tbody>
