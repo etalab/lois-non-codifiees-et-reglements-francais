@@ -13,7 +13,6 @@
 - [Réservoirs de stockage des effluents liquides et des eaux des circuits secondaires des tranches B 1 à B 4 et leurs raccordements](reservoirs-de-stockage-des-effluents-liquides-et)
 - [Traitement des effluents, des eaux des circuits primaires et secondaires](traitement-des-effluents-des-eaux-des-circuits-primaires-et)
 - [Traitement, stockage et contrôle des effluents avant rejet](traitement-stockage-et)
-- [Laboratoire d'analyses de radioprotection](laboratoire-d-analyses-de-radioprotection)
 - [Limite annuelle de rejets](limite-annuelle-de-rejets)
 - [Limites annuelles des rejets](limites-annuelles-des-rejets)
 - [Permanence de la radioprotection](permanence-de-la-radioprotection)
