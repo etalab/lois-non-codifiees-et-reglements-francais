@@ -1,0 +1,9 @@
+# Article 4
+
+En clinique ouverte, les malades, blessés ou femmes en couches sont hospitalisés à titre payant et peuvent faire appel aux médecins, chirurgiens, spécialistes de leur choix ainsi qu'aux sages-femmes, à condition que ces dernières n'appartiennent pas au personnel titulaire de l'établissement. Cependant, si le médecin traitant prescrit à un malade des examens ou traitements d'électroradiologie ou des analyses de biologie médicale, l'hospitalisé peut faire exécuter ces examens, traitements ou analyses, soit à l'extérieur de l'hôpital, soit dans le service hospitalier correspondant. Dans cette dernière éventualité, les honoraires dus pour les examens, traitements ou analyses sont calculés et recouvrés selon les règles applicables aux malades hospitalisés en régime particulier du secteur hospitalier normal.
+
+Les honoraires des médecins, des chirurgiens, des spécialistes et des sages-femmes dus par les malades admis en clinique ouverte sont fixés par entente directe préalable entre les malades et leur médecin, chirurgien, spécialiste ou sage-femme, sous réserve des limitations de tarifs résultant de l'application des législations en vigueur, notamment en matière de sécurité sociale.
+
+Les malades admis en clinique ouverte versent directement à leur médecin, chirurgien, spécialiste ou sage-femme les honoraires ainsi fixés.
+
+Toutefois, les médecins, chirurgiens, spécialistes et sages-femmes ont la faculté de demander à l'administration de l'hôpital de procéder au recouvrement des honoraires dus par les bénéficiaires d'un régime de prévoyance sociale, et notamment par les assurés sociaux, conformément aux dispositions de l'alinéa précédent. Le comptable de l'établissement crédite, trimestriellement au moins, chaque médecin chirurgien, spécialiste et sage-femme des sommes encaissées pour son compte.
