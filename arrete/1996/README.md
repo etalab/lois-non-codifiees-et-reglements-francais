@@ -1,8 +1,10 @@
 # 1996
 
 - [Arrêté du 2 août 1995 (AGRG9501585A)](arrete-du-2-aout-1995-agrg9501585a)
+- [Arrêté du 3 janvier 1996 (EQUA9501902A)](arrete-du-3-janvier-1996-equa9501902a)
 - [Arrêté du 3 novembre 1995 (SANS9503257A)](arrete-du-3-novembre-1995-sans9503257a)
 - [Arrêté du 4 avril 1995 (TEFT9500399A)](arrete-du-4-avril-1995-teft9500399a)
+- [Arrêté du 4 janvier 1996 (MCCE9600009A)](arrete-du-4-janvier-1996-mcce9600009a)
 - [Arrêté du 4 janvier 1996 (TASF9610010A)](arrete-du-4-janvier-1996-tasf9610010a)
 - [Arrêté du 4 octobre 1995 (EQUS9501451A)](arrete-du-4-octobre-1995-equs9501451a)
 - [Arrêté du 5 décembre 1995 (INTC9500759A)](arrete-du-5-decembre-1995-intc9500759a)

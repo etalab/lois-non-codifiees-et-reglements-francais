@@ -1,0 +1,3 @@
+# Article 8
+
+La direction des personnels de l'enseignement supérieur et de la recherche, en liaison avec la direction des affaires juridiques, prépare les statuts des personnels d'enseignement supérieur, de recherche, des bibliothèques et des musées ainsi que les mesures réglementaires d'application de ces statuts. Elle effectue les études et établit les prévisions relatives aux recrutements, à la gestion des carrières et à l'évolution des professions qui concourent à l'enseignement et à la recherche. Elle assure le recrutement et la gestion de l'ensemble des personnels d'enseignement supérieur et des personnels des bibliothèques et des musées.
