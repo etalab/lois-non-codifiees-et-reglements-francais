@@ -652,6 +652,7 @@
 - [Décret n°2000-960 du 29 septembre 2000 (EQUP2000031D)](decret-n2000-960-du-29-septembre-2000-equp2000031d)
 - [Décret n°2001-1129 du 29 novembre 2001 (EQUP0101501D)](decret-n2001-1129-du-29-novembre-2001-equp0101501d)
 - [Décret n°2001-88 du 29 janvier 2001 (MESG0023459D)](decret-n2001-88-du-29-janvier-2001-mesg0023459d)
+- [Décret n°99-1153 du 29 décembre 1999 (MAEA9920519D)](decret-n99-1153-du-29-decembre-1999-maea9920519d)
 - [Décret n°2000-489 du 29 mai 2000 (ECOF0000014D)](decret-n2000-489-du-29-mai-2000-ecof0000014d)
 - [Décret n°2000-1063 du 30 octobre 2000 (ATEN0080085D)](decret-n2000-1063-du-30-octobre-2000-aten0080085d)
 - [Décret n°2000-1064 du 30 octobre 2000 (RECR0072528D)](decret-n2000-1064-du-30-octobre-2000-recr0072528d)
