@@ -70,6 +70,8 @@ Les personnes qui font de l'information par démarchage ou de la prospection pou
 
 - le diplôme d'université de visiteur médical délivré par l'université Paris-XI ;
 
-- le diplôme d'université de délégué médical délivré par l'université Aix-Marseille-II ;
+- le diplôme d'université de délégué médical délivré par l'université Aix-Marseille-III ;
 
 - le diplôme d'université de délégué médical délivré par l'université Toulouse-III.
+
+- le diplôme d'université pour la visite médicale délivré par l'université Paris-XII - Val-de-Marne de Créteil.
