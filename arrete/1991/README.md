@@ -260,7 +260,6 @@
 - [Arrêté du 17 décembre 1990 (MDIB9000020A)](arrete-du-17-decembre-1990-mdib9000020a)
 - [Arrêté du 17 janvier 1991 (ECOM9000312A)](arrete-du-17-janvier-1991-ecom9000312a)
 - [Arrêté du 17 juin 1991 (ACVM9140019A)](arrete-du-17-juin-1991-acvm9140019a)
-- [Arrêté du 17 juin 1991 (BUDB9160030A)](arrete-du-17-juin-1991-budb9160030a)
 - [Arrêté du 17 juin 1991 (MENL9101252A)](arrete-du-17-juin-1991-menl9101252a)
 - [Arrêté du 17 octobre 1990 (TEFE9003888A)](arrete-du-17-octobre-1990-tefe9003888a)
 - [Arrêté du 17 mai 1991 (TEFT9103581A)](arrete-du-17-mai-1991-teft9103581a)

@@ -418,7 +418,6 @@
 - [Arrêté du 21 décembre 1988 (SPSS8801908A)](arrete-du-21-decembre-1988-spss8801908a)
 - [Arrêté du 21 décembre 1988 (SPSS8801911A)](arrete-du-21-decembre-1988-spss8801911a)
 - [Arrêté du 21 janvier 1988 (MCCC8800040A)](arrete-du-21-janvier-1988-mccc8800040a)
-- [Arrêté du 21 juillet 1988 (AGRP8801445A)](arrete-du-21-juillet-1988-agrp8801445a)
 - [Arrêté du 21 juillet 1988 (MCCK8800444A)](arrete-du-21-juillet-1988-mcck8800444a)
 - [Arrêté du 21 juin 1988 (MERP8800034A)](arrete-du-21-juin-1988-merp8800034a)
 - [Arrêté du 21 juin 1988 (PTTT8800496A)](arrete-du-21-juin-1988-pttt8800496a)
