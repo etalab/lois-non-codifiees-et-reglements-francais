@@ -1,4 +1,4 @@
-# Arrêté du 31 juillet 1992 relatif au stud-book du trotteur français
+# Arrêté du 12 juillet 1995 portant création d'un traitement automatisé d'informations nominatives relatif à la gestion des examens et concours scolaires
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

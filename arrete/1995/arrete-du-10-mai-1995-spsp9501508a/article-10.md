@@ -14,7 +14,9 @@ Fédération nationale des syndicats chrétiens des personnels actifs et retrait
 
 Fédération française santé et action sociale Confédération française de l'encadrement C.G.C. (C.F.E.-C.G.C.) : un membre ;
 
-Syndicat national des cadres hospitaliers (SN.C.H.) : un membre ;
+Syndicat national des cadres hospitaliers (SN.C.H.) :
+
+un membre ;
 
 Fédération nationale autonome (F.N.A.) : un membre ;
 
@@ -22,7 +24,7 @@ Fédération française des psychomotriciens (F.F.P.) :
 
 deux membres ;
 
-Association française des étudiants et professionnels en psychomotricité (A.F.F.E.P.) : un membre ;
+Association française des étudiants et professionnels en psychomotricité (A.F.E.P.P.) : un membre ;
 
 Syndicat national d'union des psychomotriciens (S.N.U.P.) :
 

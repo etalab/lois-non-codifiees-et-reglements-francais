@@ -86,7 +86,7 @@ II. - Lorsque la commission est consultée sur des problèmes relatifs aux infir
 
 III. - Lorsque la commission est consultée sur des problèmes relatifs aux aides-soignants :
 
-1° Un des deux infirmiers représentant respectivement les organisations Confédération générale du travail (C.G.T.), Force ouvrière (F.O.) et Confédération française des travailleurs chrétiens (C.F.T.C.) est remplacé par un aide-soignant désigné par le ministre chargé de la santé, sur proposition de ces mêmes organisations ;
+1° Un des deux infirmiers représentant respectivement les organisations Confédération générale du travail (C.G.T.), Force ouvrière (F.O.) et Confédération française démocratique du travail (C.F.D.T.) est remplacé par un aide-soignant désigné par le ministre chargé de la santé, sur proposition de ces mêmes organisations ;
 
 2° Les représentants du C.E.F.I., de l'O.N.S.I.L., du G.I.T., le formateur participant à des formations universitaires et le formateur participant à la formation professionnelle continue sont remplacés par :
 
