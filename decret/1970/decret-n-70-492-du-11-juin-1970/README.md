@@ -5,5 +5,4 @@
 - [TITRE II : Etablissement des servitudes](titre-ii)
 - [TITRE III : Indemnités dues en raison des servitudes](titre-iii)
 - [TITRE IV : Dispositions diverses](titre-iv)
-- [Article 13](article-13.md)
 - [Article 23](article-23.md)
