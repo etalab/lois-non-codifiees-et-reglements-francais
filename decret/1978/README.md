@@ -28,6 +28,7 @@
 - [Décret n°78-311 du 13 mars 1978](decret-n78-311-du-13-mars-1978)
 - [Décret n°78-345 du 13 mars 1978](decret-n78-345-du-13-mars-1978)
 - [Décret n°78-363 du 13 mars 1978](decret-n78-363-du-13-mars-1978)
+- [Décret n°78-956 du 13 septembre 1978](decret-n78-956-du-13-septembre-1978)
 - [Décret n°78-351 du 14 mars 1978](decret-n78-351-du-14-mars-1978)
 - [Décret n°78-326 du 15 mars 1978](decret-n78-326-du-15-mars-1978)
 - [Décret n°78-346 du 15 mars 1978](decret-n78-346-du-15-mars-1978)
