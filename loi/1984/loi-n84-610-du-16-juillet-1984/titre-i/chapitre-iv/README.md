@@ -1,4 +1,4 @@
-# Chapitre IV : La pratique des activités physiques et sportives dans l'entreprise, en stage de formation et au service national
+# Chapitre IV : Dispositions diverses
 
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
