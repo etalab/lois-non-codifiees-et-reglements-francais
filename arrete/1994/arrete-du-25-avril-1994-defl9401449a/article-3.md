@@ -1,0 +1,3 @@
+# Article 3
+
+Les conditions et procédures permettant à certains aéronefs de la défense d'évoluer selon les règles de la circulation aérienne militaire de type A ou B dans les espaces cités à l'article 1er sont régies par lettres d'accord entre les organismes figurant en annexe au présent arrêté et les organismes de la défense éventuellement appelés à effectuer des missions dans ces espaces ou, en tant que de besoin, le service central de l'aéronautique navale, au profit des unités embarquées. Les lettres d'accord précitées seront proposées par les organismes de la défense, en fonction de leurs besoins potentiels.

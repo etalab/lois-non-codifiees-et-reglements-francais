@@ -469,6 +469,7 @@
 - [Arrêté du 24 janvier 1994 (SPSS9400266A)](arrete-du-24-janvier-1994-spss9400266a)
 - [Arrêté du 24 mars 1994 (AGRE9400608A)](arrete-du-24-mars-1994-agre9400608a)
 - [Arrêté du 24 mai 1994 (SPSP9401073A)](arrete-du-24-mai-1994-spsp9401073a)
+- [Arrêté du 25 avril 1994 (DEFL9401449A)](arrete-du-25-avril-1994-defl9401449a)
 - [Arrêté du 25 avril 1994 (ECOX9410818A)](arrete-du-25-avril-1994-ecox9410818a)
 - [Arrêté du 25 avril 1994 (ECOX9410819A)](arrete-du-25-avril-1994-ecox9410819a)
 - [Arrêté du 25 avril 1994 (SANH9401418A)](arrete-du-25-avril-1994-sanh9401418a)
