@@ -301,6 +301,8 @@
 - [Décret n°89-547 du 28 juillet 1989 (TEFE8903614D)](decret-n89-547-du-28-juillet-1989-tefe8903614d)
 - [Décret n°89-590 du 28 août 1989 (LOGC8900010D)](decret-n89-590-du-28-aout-1989-logc8900010d)
 - [Décret n°89-599 du 28 août 1989 (EQUL8900648D)](decret-n89-599-du-28-aout-1989-equl8900648d)
+- [Décret n°89-600 du 28 août 1989 (SPSS8901352D)](decret-n89-600-du-28-aout-1989-spss8901352d)
+- [Décret n°89-601 du 28 août 1989 (SPSA8901714D)](decret-n89-601-du-28-aout-1989-spsa8901714d)
 - [Décret n°89-713 du 28 septembre 1989 (MCCB8900404D)](decret-n89-713-du-28-septembre-1989-mccb8900404d)
 - [Décret n°90-438 du 28 mai 1990 (EQUX9000093D)](decret-n90-438-du-28-mai-1990-equx9000093d)
 - [Décret n°86-136 du 29 janvier 1986](decret-n86-136-du-29-janvier-1986)
