@@ -69,6 +69,7 @@
 - [Décret n°85-328 du 8 mars 1985](decret-n85-328-du-8-mars-1985)
 - [Décret n°85-41 du 8 janvier 1985](decret-n85-41-du-8-janvier-1985)
 - [Décret n°85-844 du 8 août 1985](decret-n85-844-du-8-aout-1985)
+- [Décret n°85-862 du 8 août 1985](decret-n85-862-du-8-aout-1985)
 - [Décret n°85-34 du 9 janvier 1985](decret-n85-34-du-9-janvier-1985)
 - [Décret n°85-701 du 9 juillet 1985](decret-n85-701-du-9-juillet-1985)
 - [Décret n°85-851 du 9 août 1985](decret-n85-851-du-9-aout-1985)
