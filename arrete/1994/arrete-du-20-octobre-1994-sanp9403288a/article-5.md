@@ -1,0 +1,3 @@
+# Article 5
+
+Le jury des épreuves prévues aux articles 2 et 3 du présent arrêté est composé de trois professeurs d'université - praticiens hospitaliers ou maîtres de conférences -  praticiens hospitaliers, dont le directeur technique de l'école de sages-femmes retenue comme centre d'examen, un spécialiste en gynécologie-obstétrique, président du jury, et un spécialiste en pédiatrie, les deux derniers étant désignés par le directeur de l'unité de formation et de recherche médicale, et de deux sages-femmes, dont une enseignante, désignée par le directeur technique de l'école de sages-femmes précitée, l'autre étant désignée par le Conseil national de l'ordre des sages-femmes.

@@ -622,6 +622,7 @@
 - [Décret n°94-920 du 24 octobre 1994 (MCCB9400287D)](decret-n94-920-du-24-octobre-1994-mccb9400287d)
 - [Décret n°94-921 du 24 octobre 1994 (RESK9401199D)](decret-n94-921-du-24-octobre-1994-resk9401199d)
 - [Décret n°94-922 du 24 octobre 1994 (RESK9401200D)](decret-n94-922-du-24-octobre-1994-resk9401200d)
+- [Décret n°94-937 du 24 octobre 1994 (INTB9400387D)](decret-n94-937-du-24-octobre-1994-intb9400387d)
 - [Décret n°94-938 du 24 octobre 1994 (MENF9401336D)](decret-n94-938-du-24-octobre-1994-menf9401336d)
 - [Décret n°95-204 du 24 février 1995 (EQUP9500218D)](decret-n95-204-du-24-fevrier-1995-equp9500218d)
 - [Décret n°95-329 du 24 mars 1995 (ECOP9400475D)](decret-n95-329-du-24-mars-1995-ecop9400475d)
