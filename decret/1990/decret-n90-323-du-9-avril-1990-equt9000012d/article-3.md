@@ -4,7 +4,7 @@
 
 " Les bateaux ainsi rachetés par Voies navigables de France sont voués au ferraillage.
 
-" Le directeur de Voies navigables de France peut toutefois, à titre dérogatoire et après consultation de la commission visée à l'article 6, décider :
+" Le président de Voies navigables de France peut toutefois, à titre dérogatoire et après consultation de la commission visée à l'article 6, décider :
 
 " a) De laisser la jouissance du bateau racheté au bénéficiaire de l'indemnité de rachat tant que ce dernier justifie ne pas avoir d'habitation à terre ;
 
