@@ -1,6 +1,6 @@
 # Article 4
 
-Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres ouvert par option :
+Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres ouvert par spécialité :
 
 1° Soit aux candidats titulaires de l'un des titres ou diplômes suivants :
 

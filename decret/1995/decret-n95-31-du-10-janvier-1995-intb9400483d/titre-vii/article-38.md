@@ -1,247 +1,280 @@
 # Article 38
 
-Pour l'application de l'article 16 bis du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les émoluments de base mentionnés à l'article 15 dudit décret sont effectuées selon les modalités suivantes :
-
-I. - Au 1er août 1995, pour les fonctionnaires titulaires d'une pension fixée par assimilation à la rémunération des fonctionnaires titulaires du grade d'éducateur de jeunes enfants ou du grade d'éducateur principal de jeunes enfants créés par le décret n° 92-845 du 28 août 1992 précité, conformément aux dispositions fixées par le tableau ci-dessous.
-
-SITUATION ANCIENNE : 2 grade :
-
-5e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-13e échelon
-
-SITUATION ANCIENNE : 2 grade :
-
-4e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-13e échelon
-
-SITUATION ANCIENNE : 2 grade :
-
-3e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-12e échelon
-
-SITUATION ANCIENNE : 2 grade :
-
-2e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-11e échelon
-
-SITUATION ANCIENNE : 2 grade :
-
-1er échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-10e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-12e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-12e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-11e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-11e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-10e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-10e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-9e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-9e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-8e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-8e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-7e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-7e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-6e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-6e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-5e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-5e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-4e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-4e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-3e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-3e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-2e échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-2e échelon
-
-SITUATION ANCIENNE : 1er grade :
-
-1er échelon
-
-SITUATION NOUVELLE : 1er nouveau grade :
-
-1er échelon
-
-II. - Au 1er août 1995, pour les fonctionnaires mentionnés à l'article 34 du présent décret, à l'échelon du grade comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficient dans leur grade ou leur emploi d'origine.
-
-III. - Au 1er janvier 1997, pour les fonctionnaires titulaires d'une pension fixée par assimilation à la rémunération des fonctionnaires titulaires du grade d'éducateur-chef de jeunes enfants créé par le décret n° 92-845 du 28 août 1992 précité ou à la rémunération des fonctionnaires titulaires du grade provisoire d'éducateur-chef de jeunes enfants créé en application de l'article 24, conformément aux dispositions fixées par le tableau ci-dessous :
-
-SITUATION ANCIENNE : 7e échelon :
-
-- après 3 ans 9 mois
-
-SITUATION NOUVELLE : 7e échelon
-
-SITUATION ANCIENNE : 7e échelon :
-
-- avant 3 ans 9 mois
-
-SITUATION NOUVELLE : 6e échelon
-
-SITUATION ANCIENNE : 6e échelon
-
-SITUATION NOUVELLE : 5e échelon
-
-SITUATION ANCIENNE : 5e échelon :
-
-- après 2 ans
-
-SITUATION NOUVELLE : 5e échelon
-
-SITUATION ANCIENNE : 5e échelon :
-
-- après 1 an 9 mois, avant 2 ans
-
-SITUATION NOUVELLE : 5e échelon
-
-SITUATION ANCIENNE : 5e échelon :
-
-- avant 1 an 9 mois
-
-SITUATION NOUVELLE : 4e échelon
-
-SITUATION ANCIENNE : 4e échelon :
-
-- après 1 an 6 mois
-
-SITUATION NOUVELLE : 4e échelon
-
-SITUATION ANCIENNE : 4e échelon :
-
-- après 9 mois, avant 1 an 6 mois
-
-SITUATION NOUVELLE : 4e échelon
-
-SITUATION ANCIENNE : 4e échelon :
-
-- avant 9 mois
-
-SITUATION NOUVELLE : 4e échelon
-
-3e échelon
-
-SITUATION ANCIENNE : 3e échelon :
-
-- après 1 an 6 mois
-
-SITUATION NOUVELLE : 3e échelon
-
-SITUATION ANCIENNE : 3e échelon :
-
-- après 6 mois, avant 1 an 6 mois
-
-SITUATION NOUVELLE : 3e échelon
-
-SITUATION ANCIENNE : 3e échelon :
-
-- avant 6 mois
-
-SITUATION NOUVELLE : 2e échelon
-
-SITUATION ANCIENNE : 2e échelon :
-
-- après 1 an 6 mois
-
-SITUATION NOUVELLE : 2e échelon
-
-SITUATION ANCIENNE : 2e échelon :
-
-- après 3 mois, avant 1 an 6 mois
-
-SITUATION NOUVELLE : 2e échelon
-
-SITUATION ANCIENNE : 2e échelon :
-
-- avant 3 mois
-
-SITUATION NOUVELLE : 1er échelon
-
-SITUATION ANCIENNE : 1er échelon :
-
-- après 1 an 6 mois
-
-SITUATION NOUVELLE : 1er échelon
-
-SITUATION ANCIENNE : 1er échelon :
-
-- avant 1 an 6 mois
-
-SITUATION NOUVELLE : 1er échelon
+Pour l'application de l'article 16 bis du décret n° 65-773 du 9 septembre 1965 relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraite des agents des collectivités locales (CNRACL), les assimilations prévues pour fixer les émoluments de base mentionnés à l'article 15 dudit décret sont effectuées au 1er août 1997 ainsi qu'il suit :
+
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<strong>SITUATION ANCIENNE</strong>
+</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">
+<strong>SITUATION NOUVELLE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Educateur chef de jeunes enfants</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Educateur chef de jeunes enfants</i>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e échelon (612)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">7e échelon (638)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon (580)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e échelon (600)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon (549)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e échelon (560)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon (518)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e échelon (525)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon (487)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e échelon (525)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon (453)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e échelon (480)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon (425)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2e échelon (455)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Educateur principal de jeunes enfants</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Educateur principal de jeunes enfants</i>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">8e échelon (579)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e échelon (593)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e échelon (547)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e échelon (593)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon (516)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e échelon (543)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon (485)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e échelon (519)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon (463)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2e échelon (499)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon (436)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1er échelon (471)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon (410)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2<sup>e</sup> échelon provisoire (440)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon (384)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1er échelon provisoire (414)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Educateur de jeunes enfants</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">
+<i>Educateur de jeunes enfants</i>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">13e échelon (544)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">12e échelon (558)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">12e échelon (510)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">11e échelon (520)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">11e échelon (483)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">10e échelon (500)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">10e échelon (450)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">9e échelon (470)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">9e échelon (426)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">8e échelon (452)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">8e échelon (397)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">7e échelon (420)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e échelon (380)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e échelon (390)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon (362)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e échelon (380)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon (347)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e échelon (362)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon (336)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e échelon (350)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon (321)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2e échelon (335)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon (309)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1er échelon (322)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon (298)</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1er échelon (322)</p>
+</td>
+</tr>
+</tbody>
+</table>

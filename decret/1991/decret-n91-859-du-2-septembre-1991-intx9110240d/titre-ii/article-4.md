@@ -10,7 +10,7 @@ Les candidats au concours interne doivent justifier au 1er janvier de l'année d
 
 Ces concours sont également ouverts, pour l'enseignement des arts plastiques, aux candidats justifiant d'une pratique artistique appréciée par le ministre chargé de la culture, après avis d'une commission créée par arrêté du même ministre.
 
-" Les concours sont organisés par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale. Le délégué régional ou interdépartemental fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude. Nul ne peut participer plus de trois fois au total à ces concours.
+Les concours sont organisés par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale. Le délégué régional ou interdépartemental fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
 
 Lorsque le nombre des candidats ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne est inférieur au nombre de places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours dans la limite de 15 p. 100 au plus des places offertes à l'un ou l'autre des concours ou d'une place au moins.
 

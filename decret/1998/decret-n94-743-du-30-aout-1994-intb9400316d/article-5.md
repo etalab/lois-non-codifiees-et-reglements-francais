@@ -1,0 +1,5 @@
+# Article 5
+
+La décision de la commission, lorsqu'elle est favorable, vaut pour toutes les demandes d'inscription du candidat pour les concours d'accès aux cadres d'emplois pour lesquels le même diplôme national est requis, sous réserve que ne soit intervenue aucune modification des diplômes nationaux exigés par les statuts particuliers pour l'admission à concourir qui serait de nature à remettre en cause les assimilations admises par la commission.
+
+Sous la même réserve, lorsqu'une commission instituée en application du décret n° 94-616 du 21 juillet 1994 relatif à l'assimilation, pour l'accès aux concours ou examens de la fonction publique hospitalière, de titres ou diplômes délivrés dans d'autres Etats membres de la Communauté européenne ou du décret n° 94-741 du 30 août 1994 précité est compétente à l'égard d'un concours pour lequel les diplômes requis sont les mêmes que ceux qui sont requis pour le concours d'accès à un cadre d'emplois équivalent de la fonction publique territoriale, la décision de cette commission vaut pour ledit concours, dans les conditions fixées par un arrêté du ministre chargé des collectivités locales.

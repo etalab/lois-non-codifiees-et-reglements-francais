@@ -1,13 +1,9 @@
 # Article 5
 
-Sont inscrits sur la liste d'aptitude prévue à l'article 4 ci-dessus les candidats déclarés admis :
+Sont inscrits sur la liste d'aptitude prévue à l'article 4 ci-dessus les candidats admis à un concours sur titre avec épreuve ouvert aux candidats titulaires d'un diplôme, certificat ou autre titre de médecin délivré par l'un des Etats membre de la Communauté européenne ou l'un des autres Etats partie à l'Espace économique européen et visé à l'article L. 356-2 (1°) du code de la santé publique.
 
-1° A un concours sur titre avec épreuves ouvert pour 75 p. 100 des postes à pourvoir aux candidats titulaires du diplôme d'Etat de docteur en médecine et justifiant d'un diplôme ou certificat d'études spécialisées.
+Lorsque les missions correspondant aux postes mis au concours l'exigent, le concours est ouvert aux candidats titulaires d'un diplôme, certificat ou titre de médecin spécialiste dans les spécialités concernées délivré conformément aux obligations communautaires par l'un des Etats membre de la Communauté européenne ou l'un des autres Etats partie à l'Espace économique européen et reconnu en application de l'article L. 366 du code de la santé publique.
 
-2° A un concours sur titre avec épreuves ouvert pour 25 p. 100 des postes à pourvoir aux candidats titulaires du diplôme d'Etat de docteur en médecine.
+Le concours comprend une épreuve d'admission consistant en un entretien avec le jury permettant d'apprécier l'expérience professionnelle des candidats et leur aptitude à exercer leur profession dans le cadre des missions remplies par les collectivités territoriales et leurs établissements publics.
 
-Les emplois mis aux concours qui ne seraient pas pourvus par la nomination de candidats à l'un des deux concours ci-dessus peuvent être attribués dans leur totalité à l'autre concours.
-
-Ces concours comprennent une épreuve d'admission consistant en un entretien avec le jury permettant d'apprécier l'expérience professionnelle des candidats et leurs aptitudes à exercer leur profession dans le cadre des missions remplies par les collectivités territoriales et leurs établissements publics.
-
-" Les concours sont organisés par le centre de gestion pour les collectivités et établissements publics affiliés et par les collectivités et établissements publics eux-mêmes lorsqu'ils ne sont pas affiliés. L'autorité organisatrice fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Elle établit la liste des candidats autorisés à concourir. Elle arrête également la liste d'aptitude. "
+Il est organisé par le centre de gestion pour les collectivités et établissements publics affiliés et par les collectivités et établissements publics eux-mêmes lorsqu'ils ne sont pas affiliés. L'autorité organisatrice fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts et la date des épreuves. Elle établit la liste des candidats autorisés à concourir. Elle arrête également la liste d'aptitude.

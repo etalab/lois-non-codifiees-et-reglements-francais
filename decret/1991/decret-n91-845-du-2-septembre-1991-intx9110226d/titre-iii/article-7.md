@@ -4,6 +4,4 @@ Les candidats inscrits sur la liste d'aptitude prévue à l'article 4 ci-dessus 
 
 Dans un délai de trois ans après leur titularisation, les bibliothécaires territoriaux doivent suivre une formation d'adaptation à l'emploi, éventuellement discontinue, d'une durée totale de six mois. Cette formation comprend deux mois de sessions théoriques et quatre mois de stages pratiques dont un mois au moins accompli hors de la collectivité employeur.
 
-Par dérogation aux dispositions de l'alinéa précédent, les bibliothécaires territoriaux pouvant prétendre à un avancement de classe avant l'expiration du délai de trois ans doivent suivre leur formation d'adaptation à l'emploi dans le délai minimum nécessaire pour bénéficier de cet avancement de classe.
-
-Les formations prévues au présent article sont organisées par le Centre national de la fonction publique territoriale. "
+Les formations prévues au présent article sont organisées par le Centre national de la fonction publique territoriale.

@@ -1,6 +1,6 @@
 # Article 26
 
-Sont intégrés en qualité de titulaires dans le cadre d'emplois des assistants territoriaux qualifiés de laboratoire, au grade d'assistant qualifié de laboratoire de classe normale, lorsqu'ils se trouvent en position d'activité à la date d'effet du présent décret :
+Sont intégrés en qualité de titulaires dans le cadre d'emplois des assistants territoriaux médico-techniques, au grade d'assistant territorial médico-technique de classe normale, lorsqu'ils se trouvent en position d'activité à la date d'effet du présent décret :
 
 1° Les laborantins des communes et de leurs établissements publics ;
 

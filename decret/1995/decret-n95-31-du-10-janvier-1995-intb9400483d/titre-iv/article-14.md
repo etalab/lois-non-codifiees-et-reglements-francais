@@ -2,176 +2,333 @@
 
 La durée maximale et la durée minimale du temps passé dans chacun des échelons des grades sont fixées ainsi qu'il suit :
 
-GRADE ET ECHELON : Educateur-chef :
-
-7e échelon
-
-DUREE maximale : -
-
-DUREE minimale : -
-
-6e échelon
-
-DUREE maximale : 4 ans 6 mois
-
-DUREE minimale : 3 ans 6 mois
-
-5e échelon
-
-DUREE maximale : 3 ans 6 mois
-
-DUREE minimale : 2 ans 6 mois
-
-4e échelon
-
-DUREE maximale : 3 ans 6 mois
-
-DUREE minimale : 2 ans 6 mois
-
-3e échelon
-
-DUREE maximale : 2 ans 3 mois
-
-DUREE minimale : 1 an 9 mois
-
-2e échelon
-
-DUREE maximale : 2 ans 3 mois
-
-DUREE minimale : 1 an 9 mois
-
-1er échelon
-
-DUREE maximale : 2 ans 3 mois
-
-DUREE minimale : 1 an 9 mois
-
-GRADE ET ECHELON : Educateur principal :
-
-8e échelon
-
-DUREE maximale : -
-
-DUREE minimale : -
-
-7e échelon
-
-DUREE maximale : 4 ans
-
-DUREE minimale : 3 ans
-
-6e échelon
-
-DUREE maximale : 4 ans
-
-DUREE minimale : 3 ans
-
-5e échelon
-
-DUREE maximale : 3 ans
-
-DUREE minimale : 2 ans 6 mois
-
-4e échelon
-
-DUREE maximale : 2 ans
-
-DUREE minimale : 1 an 6 mois
-
-3e échelon
-
-DUREE maximale : 2 ans
-
-DUREE minimale : 1 an 6 mois
-
-2e échelon
-
-DUREE maximale : 2 ans
-
-DUREE minimale : 1 an 6 mois
-
-1er échelon
-
-DUREE maximale : 1 an 6 mois
-
-DUREE minimale : 1 an 6 mois
-
-GRADE ET ECHELON : Educateur de jeunes enfants :
-
-13e échelon
-
-DUREE maximale : -
-
-DUREE minimale : -
-
-12e échelon
-
-DUREE maximale : 4 ans
-
-DUREE minimale : 3 ans
-
-11e échelon
-
-DUREE maximale : 3 ans
-
-DUREE minimale : 2 ans 6 mois
-
-10e échelon
-
-DUREE maximale : 3 ans
-
-DUREE minimale : 2 ans 6 mois
-
-9e échelon
-
-DUREE maximale : 3 ans
-
-DUREE minimale : 2 ans 6 mois
-
-8e échelon
-
-DUREE maximale : 3 ans
-
-DUREE minimale : 2 ans 6 mois
-
-7e échelon
-
-DUREE maximale : 3 ans
-
-DUREE minimale : 2 ans 6 mois
-
-6e échelon
-
-DUREE maximale : 2 ans
-
-DUREE minimale : 1 an 6 mois
-
-5e échelon
-
-DUREE maximale : 1 an 6 mois
-
-DUREE minimale : 1 an 6 mois
-
-4e échelon
-
-DUREE maximale : 1 an 6 mois
-
-DUREE minimale : 1 an 6 mois
-
-3e échelon
-
-DUREE maximale : 1 an 6 mois
-
-DUREE minimale : 1 an 6 mois
-
-2e échelon
-
-DUREE maximale : 1 an 6 mois
-
-DUREE minimale : 1 an 6 mois
-
-1er échelon
-
-DUREE maximale : 1 an
-
-DUREE minimale : 1 an
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<strong>GRADES ET ECHELONS</strong>
+</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>DUREES</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<p align="center">Maximale</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Minimale</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Educateur-chef</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 9 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 9 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 3 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 9 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 9 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 9 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Educateur principal</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 6 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 9 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 9 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">
+<i>Educateur de jeunes enfants</i>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">12e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">11e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">10e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 9 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">9e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 9 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 9 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 3 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,10 +1,10 @@
 # Article 19
 
-Le détachement dans le cadre d'emplois des éducateurs territoriaux de jeunes enfants intervient :
+Le détachement dans le cadre d'emplois des éducateurs de jeunes enfants intervient :
 
-1° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est au moins égal à 612, dans le grade d'éducateur-chef de jeunes enfants s'ils ont atteint un échelon dont l'indice brut est au moins égal à 425 ;
+1° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est au moins égal à 638, dans le grade d'éducateur-chef de jeunes enfants s'ils ont atteint un échelon dont l'indice brut est au moins égal à 422 ;
 
-2° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est au moins égal à 579, dans le grade d'éducateur principal de jeunes enfants s'ils ont atteint un échelon dont l'indice brut est au moins égal à 384 ;
+2° Pour les fonctionnaires titulaires d'un grade ou d'un emploi dont l'indice brut terminal est au moins égal à 593, dans le grade d'éducateur principal s'ils ont atteint un échelon dont l'indice brut est au moins égal à 471 ;
 
 3° Pour les autres fonctionnaires, dans le grade d'éducateur de jeunes enfants.
 

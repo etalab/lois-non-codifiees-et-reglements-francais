@@ -1,6 +1,6 @@
 # Article 25
 
-Sont intégrés en qualité de titulaires dans le cadre d'emplois des assistants territoriaux qualifié de laboratoire, au grade d'assistant qualifié de laboratoire de classe supérieure, lorsqu'ils se trouvent en position d'activité à la date d'effet du présent décret, les fonctionnaires territoriaux suivants :
+Sont intégrés en qualité de titulaires dans le cadre d'emplois des assistants territoriaux médico-techniques, au grade d'assistant territorial médico-technique de classe supérieure, lorsqu'ils se trouvent en position d'activité à la date d'effet du présent décret, les fonctionnaires territoriaux suivants :
 
 1° Les personnels de laboratoire dont l'emploi a été créé par référence à l'emploi de technicien de laboratoire de classe supérieure de la fonction publique hospitalière ;
 

@@ -1,6 +1,6 @@
 # Article 21
 
-Toutefois, le fonctionnaire atteint d'une des quatre affections énumérées à l'article 20 ci-dessus, qui est dans l'impossibilité d'exercer ses fonctions et qui a épuisé, à quelque titre que ce soit, la période rémunérée à plein traitement d'un congé de longue maladie, peut demander à être placé ou maintenu en congé de longue maladie.
+Toutefois, le fonctionnaire atteint d'une des affections prévues à l'article 20 ci-dessus, qui est dans l'impossibilité d'exercer ses fonctions et qui a épuisé, à quelque titre que ce soit, la période rémunérée à plein traitement d'un congé de longue maladie, peut demander à être placé en congé de longue durée ou maintenu en congé de longue maladie.
 
 L'autorité territoriale accorde à l'intéressé un congé de longue durée ou de longue maladie après avis du comité médical.
 

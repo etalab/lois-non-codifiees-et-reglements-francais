@@ -77,3 +77,7 @@ Cadre d'emplois des contrôleurs territoriaux de travaux.
 Cadre d'emplois des agents de maîtrise territoriaux.
 
 Cadre d'emplois des agents techniques territoriaux (recrutement en qualité d'agent technique et d'agent technique qualifié).
+
+Sapeurs-pompiers professionnels.
+
+Cadre d'emplois des sapeurs-pompiers professionnels non officiers.

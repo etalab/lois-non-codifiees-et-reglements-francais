@@ -6,7 +6,7 @@ Le jury procède à l'examen de leur dossier professionnel.
 
 Outre la justification des titres ou diplômes requis, le dossier professionnel doit comporter tous éléments permettant au jury d'apprécier l'expérience professionnelle du candidat, notamment, son curriculum vitae et, le cas échéant, des attestations de stages ou de formations, des titres, des travaux ou des oeuvres.
 
-Le concours réservé comporte un entretien avec le jury, sauf pour les cadres d'emplois dont les statuts particuliers prévoient des concours sur titres sans épreuve.
+Le concours réservé comporte un entretien avec le jury, sauf pour les cadres d'emplois dont les statuts particuliers prévoient des concours sur titres sans épreuve. Toutefois, le concours réservé d'accès au cadre d'emplois des agents spécialisés des écoles maternelles comporte l'entretien précité pour les candidats ne possédant pas le certificat d'aptitude professionnelle "petite enfance".
 
 L'entretien a pour objet d'apprécier l'expérience professionnelle des candidats, leur aptitude à exercer leur profession et leur motivation compte tenu des missions dévolues au cadre d'emplois concerné. La durée de cet entretien est fixée à vingt minutes.
 

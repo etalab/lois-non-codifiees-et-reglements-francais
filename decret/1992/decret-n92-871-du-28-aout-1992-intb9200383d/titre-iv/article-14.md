@@ -7,154 +7,82 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> :   GRADES   :      DUREES    :</td>
+<td> : GRADES : DUREES :</td>
 </tr>
 <tr>
-<td> :     ET     :----------------:</td>
+<td> : ET :----------------:</td>
 </tr>
 <tr>
-<td> :  ECHELONS  :  Max. :  Min.  :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> : Assistant qualifié de       :</td>
-</tr>
-<tr>
-<td> : laboratoire hors classe     :</td>
+<td> : ECHELONS : Max. : Min. :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> : 7e échelon :   -   :   -    :</td>
+<td> : Assistant qualifié de :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 6e échelon : 3 ans : 2 ans  :</td>
-</tr>
-<tr>
-<td> :            : 6 mois: 6 mois :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 5e échelon : 3 ans : 2 ans  :</td>
-</tr>
-<tr>
-<td> :            : 6 mois: 6 mois :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 4e échelon : 3 ans : 2 ans  :</td>
-</tr>
-<tr>
-<td> :            : 6 mois: 6 mois :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 3e échelon : 2 ans : 1 an   :</td>
-</tr>
-<tr>
-<td> :            : 6 mois: 6 mois :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 2e échelon : 2 ans : 1 an   :</td>
-</tr>
-<tr>
-<td> :            : 6 mois: 6 mois :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> :1er échelon : 1 an  : 1 an   :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-</table>
-
-<table>
-<tr>
-<td>:-----------------------------:</td>
-</tr>
-<tr>
-<td> :   GRADES   :      DUREES    :</td>
-</tr>
-<tr>
-<td> :     ET     :----------------:</td>
-</tr>
-<tr>
-<td> :  ECHELONS  :  Max. :  Min.  :</td>
+<td> : laboratoire hors classe :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> :   Assistant qualifié de     :</td>
+<td> : 7e échelon : - : - :</td>
 </tr>
 <tr>
-<td> :   laboratoire de classe     :</td>
+<td> : : : :</td>
 </tr>
 <tr>
-<td> :        supérieure           :</td>
+<td> : 6e échelon : 3 ans : 2 ans :</td>
 </tr>
 <tr>
-<td> :-----------------------------:</td>
+<td> : : 6 mois: 6 mois :</td>
 </tr>
 <tr>
-<td> : 5e échelon :   -   :   -    :</td>
+<td> : : : :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : 5e échelon : 3 ans : 2 ans :</td>
 </tr>
 <tr>
-<td> : 4e échelon : 4 ans : 4 ans  :</td>
+<td> : : 6 mois: 6 mois :</td>
 </tr>
 <tr>
-<td> :            : 3 mois:        :</td>
+<td> : : : :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : 4e échelon : 3 ans : 2 ans :</td>
 </tr>
 <tr>
-<td> : 3e échelon : 3 ans : 3 ans  :</td>
+<td> : : 6 mois: 6 mois :</td>
 </tr>
 <tr>
-<td> :            : 3 mois:        :</td>
+<td> : : : :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : 3e échelon : 2 ans : 1 an :</td>
 </tr>
 <tr>
-<td> : 2e échelon : 3 ans : 3 ans  :</td>
+<td> : : 6 mois: 6 mois :</td>
 </tr>
 <tr>
-<td> :            : 3 mois:        :</td>
+<td> : : : :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : 2e échelon : 2 ans : 1 an :</td>
 </tr>
 <tr>
-<td> :1er échelon : 3 ans : 3 ans  :</td>
+<td> : : 6 mois: 6 mois :</td>
 </tr>
 <tr>
-<td> :            : 3 mois:        :</td>
+<td> : : : :</td>
+</tr>
+<tr>
+<td> :1er échelon : 1 an : 1 an :</td>
+</tr>
+<tr>
+<td> : : : :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
@@ -166,82 +94,154 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td>:-----------------------------:</td>
 </tr>
 <tr>
-<td> :    Assistant qualifié de    :</td>
+<td> : GRADES : DUREES :</td>
 </tr>
 <tr>
-<td> :    laboratoire de classe    :</td>
+<td> : ET :----------------:</td>
 </tr>
 <tr>
-<td> :          normale            :</td>
+<td> : ECHELONS : Max. : Min. :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> : 8e échelon :   -   :   -    :</td>
+<td> : Assistant qualifié de :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : laboratoire de classe :</td>
 </tr>
 <tr>
-<td> : 7e échelon : 4 ans : 4 ans  :</td>
+<td> : supérieure :</td>
 </tr>
 <tr>
-<td> :            : 6 mois:        :</td>
+<td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : 5e échelon : - : - :</td>
 </tr>
 <tr>
-<td> : 6e échelon : 4 ans : 4 ans  :</td>
+<td> : : : :</td>
 </tr>
 <tr>
-<td> :            : 6 mois:        :</td>
+<td> : 4e échelon : 4 ans : 4 ans :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : : 3 mois: :</td>
 </tr>
 <tr>
-<td> : 5e échelon : 4 ans : 4 ans  :</td>
+<td> : : : :</td>
 </tr>
 <tr>
-<td> :            : 6 mois:        :</td>
+<td> : 3e échelon : 3 ans : 3 ans :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : : 3 mois: :</td>
 </tr>
 <tr>
-<td> : 4e échelon : 3 ans : 3 ans  :</td>
+<td> : : : :</td>
 </tr>
 <tr>
-<td> :            : 6 mois:        :</td>
+<td> : 2e échelon : 3 ans : 3 ans :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : : 3 mois: :</td>
 </tr>
 <tr>
-<td> : 3e échelon : 3 ans : 3 ans  :</td>
+<td> : : : :</td>
 </tr>
 <tr>
-<td> :            : 6 mois:        :</td>
+<td> :1er échelon : 3 ans : 3 ans :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : : 3 mois: :</td>
 </tr>
 <tr>
-<td> : 2e échelon : 2 ans : 2 ans  :</td>
+<td> :-----------------------------:</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>:-----------------------------:</td>
 </tr>
 <tr>
-<td> :            : 6 mois:        :</td>
+<td> : Assistant qualifié de :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> : laboratoire de classe :</td>
 </tr>
 <tr>
-<td> :1er échelon : 2 ans : 1 an   :</td>
+<td> : normale :</td>
 </tr>
 <tr>
-<td> :            :       :        :</td>
+<td> :-----------------------------:</td>
+</tr>
+<tr>
+<td> : 8e échelon : - : - :</td>
+</tr>
+<tr>
+<td> : : : :</td>
+</tr>
+<tr>
+<td> : 7e échelon : 4 ans : 4 ans :</td>
+</tr>
+<tr>
+<td> : : 6 mois: :</td>
+</tr>
+<tr>
+<td> : : : :</td>
+</tr>
+<tr>
+<td> : 6e échelon : 4 ans : 4 ans :</td>
+</tr>
+<tr>
+<td> : : 6 mois: :</td>
+</tr>
+<tr>
+<td> : : : :</td>
+</tr>
+<tr>
+<td> : 5e échelon : 4 ans : 4 ans :</td>
+</tr>
+<tr>
+<td> : : 6 mois: :</td>
+</tr>
+<tr>
+<td> : : : :</td>
+</tr>
+<tr>
+<td> : 4e échelon : 3 ans : 3 ans :</td>
+</tr>
+<tr>
+<td> : : 6 mois: :</td>
+</tr>
+<tr>
+<td> : : : :</td>
+</tr>
+<tr>
+<td> : 3e échelon : 3 ans : 3 ans :</td>
+</tr>
+<tr>
+<td> : : 6 mois: :</td>
+</tr>
+<tr>
+<td> : : : :</td>
+</tr>
+<tr>
+<td> : 2e échelon : 2 ans : 2 ans :</td>
+</tr>
+<tr>
+<td> : : 6 mois: :</td>
+</tr>
+<tr>
+<td> : : : :</td>
+</tr>
+<tr>
+<td> :1er échelon : 2 ans : 1 an :</td>
+</tr>
+<tr>
+<td> : : : :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>

@@ -4,7 +4,7 @@ Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 4 ci-dessus, l
 
 1° A un concours externe ouvert, pour la moitié au moins des postes à pourvoir, aux candidats titulaires du baccalauréat de l'enseignement secondaire ou d'un diplôme homologué au niveau IV en application des dispositions du décret du 8 janvier susvisé ;
 
-2° A un concours interne ouvert, pour la moitié au plus des postes à pourvoir, aux fonctionnaires et agents publics ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale, les candidats devant justifier au 1er janvier de l'année du concours de quatre ans au moins de services effectifs, compte non tenu des périodes de stage ou de formation dans une école ou établissement ouvrant accès à un grade de la fonction publique.
+2° A un concours interne ouvert, pour la moitié au plus des postes à pourvoir, aux fonctionnaires et agents publics ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale, les candidats devant justifier au 1er janvier de l'année du concours de quatre ans au moins de services publics, compte non tenu des périodes de stage ou de formation dans une école ou établissement ouvrant accès à un grade de la fonction publique.
 
 Les concours sont organisés par les délégations régionales ou interdépartementales du Centre national de la fonction publique territoriale. Le délégué régional ou interdépartemental fixe les modalités d'organisation, les règles de discipline, le nombre de postes ouverts. Il établit la liste des candidats autorisés à concourir. Il arrête également la liste d'aptitude.
 

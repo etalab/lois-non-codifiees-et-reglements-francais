@@ -1,156 +1,152 @@
 # Article 18
 
-La durée maximale et la durée minimale du temps passé dans chacun des échelons des grades et classes sont fixées ainsi qu'il suit :
+La durée maximale et la durée minimale du temps passé dans chacun des échelons sont fixées ainsi qu'il suit :
 
 <table>
+<tbody>
 <tr>
-<td> :----------------------------:</td>
+<td align="left" valign="middle">
+<p align="center">
+<strong>GRADES ET ECHELONS</strong>
+</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>DUREES</strong>
+</p>
+</td>
 </tr>
 <tr>
-<td> :      Grade et échelons     :</td>
+<td align="left" valign="middle">
+<pre> </pre>
+</td>
+<td align="left" valign="middle">
+<p align="center">Maximale</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Minimale</p>
+</td>
 </tr>
 <tr>
-<td> :                            :</td>
+<td align="left" valign="middle">
+<p align="left">11e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
+</td>
 </tr>
 <tr>
-<td> :----------------------------:</td>
+<td align="left" valign="middle">
+<p align="left">10e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 ans 1 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 11 mois</p>
+</td>
 </tr>
 <tr>
-<td> :    Attaché territorial de  :</td>
+<td align="left" valign="middle">
+<p align="left">9e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 1 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 11 mois</p>
+</td>
 </tr>
 <tr>
-<td> :       conservation de      :</td>
+<td align="left" valign="middle">
+<p align="left">8e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 1 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 11 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 1ère classe du patrimoine  :</td>
+<td align="left" valign="middle">
+<p align="left">7e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 1 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 11 mois</p>
+</td>
 </tr>
 <tr>
-<td> :----------------------------:</td>
+<td align="left" valign="middle">
+<p align="left">6e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 1 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 11 mois</p>
+</td>
 </tr>
 <tr>
-<td> :        Durée maximale      :</td>
+<td align="left" valign="middle">
+<p align="left">5e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 1 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 11 mois</p>
+</td>
 </tr>
 <tr>
-<td> :----------------------------:</td>
+<td align="left" valign="middle">
+<p align="left">4e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans 1 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 11 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 5e  échelon        -       :</td>
+<td align="left" valign="middle">
+<p align="left">3e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 1 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 11 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 4e  échelon   4 ans 1 mois :</td>
+<td align="left" valign="middle">
+<p align="left">2e échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans 1 mois</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 11 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 3e  échelon   3 ans 1 mois :</td>
+<td align="left" valign="middle">
+<p align="left">1er échelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1an</p>
+</td>
 </tr>
-<tr>
-<td> : 2e  échelon   3 ans 1 mois :</td>
-</tr>
-<tr>
-<td> : 1er échelon   3 ans 1 mois :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> :        Durée minimale      :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> : 5e  échelon        -       :</td>
-</tr>
-<tr>
-<td> : 4e  échelon  3 ans 11 mois :</td>
-</tr>
-<tr>
-<td> : 3e  échelon  2 ans 11 mois :</td>
-</tr>
-<tr>
-<td> : 2e  échelon  2 ans 11 mois :</td>
-</tr>
-<tr>
-<td> : 1er échelon  2 ans 11 mois :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> :      Grade et échelons     :</td>
-</tr>
-<tr>
-<td> :                            :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> :    Attaché territorial de  :</td>
-</tr>
-<tr>
-<td> :       conservation de      :</td>
-</tr>
-<tr>
-<td> :  2e classe du patrimoine   :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> :        Durée maximale      :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> : 6e  échelon                :</td>
-</tr>
-<tr>
-<td> : 5e  échelon   3 ans 1 mois :</td>
-</tr>
-<tr>
-<td> : 4e  échelon   3 ans 1 mois :</td>
-</tr>
-<tr>
-<td> : 3e  échelon   2 ans 1 mois :</td>
-</tr>
-<tr>
-<td> : 2e  échelon   2 ans 1 mois :</td>
-</tr>
-<tr>
-<td> : 1er échelon   2 ans 1 mois :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> :        Durée minimale      :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
-<tr>
-<td> : 6e  échelon                :</td>
-</tr>
-<tr>
-<td> : 5e  échelon  2 ans 11 mois :</td>
-</tr>
-<tr>
-<td> : 4e  échelon  2 ans 11 mois :</td>
-</tr>
-<tr>
-<td> : 3e  échelon  1 an  11 mois :</td>
-</tr>
-<tr>
-<td> : 2e  échelon  1 an  11 mois :</td>
-</tr>
-<tr>
-<td> : 1er échelon  1 an  11 mois :</td>
-</tr>
-<tr>
-<td> :----------------------------:</td>
-</tr>
+</tbody>
 </table>

@@ -1,6 +1,6 @@
 # Article 10
 
-Les fonctionnaires appartenant à un cadre d'emplois ou à un corps de catégorie C ou D ou titulaires d'un emploi de même niveau sont classés dans le grade d'assistant territorial qualifié de laboratoire de classe normale sur la base de la durée maximum de service exigée pour chaque avancement d'échelon en prenant en compte une fraction de leur ancienneté dans leur cadre d'emplois, corps ou emploi d'origine.
+Les fonctionnaires appartenant à un cadre d'emplois ou à un corps de catégorie C ou D ou titulaires d'un emploi de même niveau sont classés dans le grade d'assistant territorial médico-technique de classe normale sur la base de la durée maximum de service exigée pour chaque avancement d'échelon en prenant en compte une fraction de leur ancienneté dans leur cadre d'emplois, corps ou emploi d'origine.
 
 L'ancienneté dans le cadre d'emplois, corps ou emploi d'origine correspond dans la limite maximale de vingt-neuf ans pour un cadre d'emplois, corps ou emploi de la catégorie D, et de trente-deux ans pour un cadre d'emplois, corps ou emploi de la catégorie C, au temps nécessaire pour parvenir sur la base des durées maximales de services à l'échelon occupé par l'intéressé, augmenté de l'ancienneté acquise dans cet échelon.
 
