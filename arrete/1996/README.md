@@ -221,7 +221,6 @@
 - [Arrêté du 7 juin 1996 (MIPP9600227A)](arrete-du-7-juin-1996-mipp9600227a)
 - [Arrêté du 7 juin 1996 (MIPP9600228A)](arrete-du-7-juin-1996-mipp9600228a)
 - [Arrêté du 7 juin 1996 (TASE9610835A)](arrete-du-7-juin-1996-tase9610835a)
-- [Arrêté du 7 juin 1996 (TASP9621472A)](arrete-du-7-juin-1996-tasp9621472a)
 - [Arrêté du 7 mars 1996 (AGRA9600381A)](arrete-du-7-mars-1996-agra9600381a)
 - [Arrêté du 7 mars 1996 (ECOS9670001A)](arrete-du-7-mars-1996-ecos9670001a)
 - [Arrêté du 7 mars 1996 (TASH9523380A)](arrete-du-7-mars-1996-tash9523380a)
