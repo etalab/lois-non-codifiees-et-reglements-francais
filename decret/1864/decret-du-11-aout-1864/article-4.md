@@ -1,0 +1,3 @@
+# Article 4
+
+L'acte de cautionnement contient affectation spéciale en nantissement, non-seulement pendant toute la durée des fonctions, et quels que soient les bureaux auxquels le conservateur pourrait être appelé, mais encore pendant dix ans après la cessation de ces fonctions. S'il s'agit d'un conservateur hors d'exercice, l'acte ne contient affectation en nantissement que pour le temps pendant lequel la responsabilité du conservateur envers les tiers peut rester engagée. Néanmoins le conservateur, le titulaire de l'inscription ou ses ayants-droit ont la faculté de substituer, à toute époque, aux rentes affectées aux cautionnements d'autres rentes de même nature.

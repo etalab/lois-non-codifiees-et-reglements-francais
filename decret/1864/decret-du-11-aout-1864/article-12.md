@@ -1,0 +1,3 @@
+# Article 12
+
+Sur la remise du bordereau d'annuel et d'un extrait ou d'une expédition du jugement prononçant la libération du cautionnement, l'inscription affectée au cautionnement, est remise au titulaire, affranchie de la mention prescrite par l'article 7. Si le titulaire de l'inscription est décédé, son ayant-droit fournit, en outre, un certificat de propriété délivré en conformité de la loi du 28 floréal an 7, ainsi que le certificat prescrit par l'article 25 de la loi du 28 juillet 1852, constatant l'acquittement du droit de mutation par décès. Des extraits d'inscription sont ensuite délivrés par la direction de la dette inscrite aux nouveaux propriétaires, et immatriculés en leur nom.

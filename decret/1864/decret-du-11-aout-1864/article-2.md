@@ -1,0 +1,3 @@
+# Article 2
+
+Les conservateurs qui ont cessé leurs fonctions et les conservateurs en exercice à la date du 8 juin 1864, qui voudront, conformément aux dispositions de l'article 27 de la loi précitée, transformer la totalité de leur cautionnement actuel en immeubles en un cautionnement en rentes trois pour cent, doivent faire la déclaration prescrite par le paragraphe 1er de l'article précédent. Ils joindront à cette déclaration un certificat délivré par le directeur général de l'enregistrement, qui détermine la quotité du cautionnement à fournir en rentes pour former l'équivalent du cautionnement actuel, d'après le rapport établi par l'art. 26 de la loi du 8 juin 1864 entre la valeur en immeubles et la quotité de rentes à fournir.
