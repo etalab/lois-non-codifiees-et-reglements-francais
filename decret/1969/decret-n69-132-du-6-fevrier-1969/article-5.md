@@ -1,0 +1,3 @@
+# Article 5
+
+Pour l'application des dispositions des articles 1 à 3 du présent décret aux bénéficiaires des législations sociales agricoles, les caisses de mutualité sociale et, en ce qui concerne l'assurance maladie des exploitants agricoles, les organismes assureurs ou, éventuellement, les groupements d'assureurs prévus par l'article 1106-10 du Code rural, exercent les fonctions dévolues aux caisses primaires d'assurance maladie. Le médecin conseil chef de service du contrôle médical de la caisse de mutualité sociale agricole exerce dans tous les cas les fonctions dévolues au médecin conseil régional.
