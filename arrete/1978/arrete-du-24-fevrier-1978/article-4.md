@@ -10,315 +10,315 @@ Co et To représentent, pour l'ensemble de l'opération, la somme des prix co et
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
 TYPES de logements : 1
 
 IMMEUBLES collectifs :
 
-To (en francs) : 47.730
+To (en francs) : 48.680
 
-Co (en francs) : 23.585
+Co (en francs) : 24.055
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
 TYPES de logements : 1 bis
 
 IMMEUBLES collectifs :
 
-To (en francs) : 94.575
+To (en francs) : 96.465
 
-Co (en francs) : 46.700
+Co (en francs) : 47.630
 
 MAISONS individuelles :
 
-To (en francs) : 104.065
+To (en francs) : 106.145
 
-Co (en francs) : 65.355
+Co (en francs) : 66.660
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
 TYPES de logements : 2
 
 IMMEUBLES collectifs :
 
-To (en francs) : 124.600
+To (en francs) : 127.090
 
-Co (en francs) : 61.500
+Co (en francs) : 62.725
 
 MAISONS individuelles :
 
-To (en francs) : 137.045
+To (en francs) : 139.785
 
-Co (en francs) : 86.120
+Co (en francs) : 87.840
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
 TYPES de logements : 3
 
 IMMEUBLES collectifs :
 
-To (en francs) : 156.630
+To (en francs) : 159.760
 
-Co (en francs) : 77.330
+Co (en francs) : 78.875
 
 MAISONS individuelles :
 
-To (en francs) : 172.290
+To (en francs) : 175.735
 
-Co (en francs) : 108.255
+Co (en francs) : 110.420
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
 TYPES de logements : 4
 
 IMMEUBLES collectifs :
 
-To (en francs) : 186.215
+To (en francs) : 189.935
 
-Co (en francs) : 91.920
+Co (en francs) : 93.760
 
 MAISONS individuelles :
 
-To (en francs) : 204.845
+To (en francs) : 208.940
 
-Co (en francs) : 128.740
+Co (en francs) : 131.310
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
 TYPES de logements : 5
 
 IMMEUBLES collectifs :
 
-To (en francs) : 218.250
+To (en francs) : 222.615
 
-Co (en francs) : 107.730
+Co (en francs) : 108.885
 
 MAISONS individuelles :
 
-To (en francs) : 240.100
+To (en francs) : 244.900
 
-Co (en francs) : 150.850
+Co (en francs) : 153.865
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
 TYPES de logements : 6
 
 IMMEUBLES collectifs :
 
-To (en francs) : 242.930
+To (en francs) : 247.790
 
-Co (en francs) : 119.910
+Co (en francs) : 122.305
 
 MAISONS individuelles :
 
-To (en francs) : 267.210
+To (en francs) : 272.555
 
-Co (en francs) : 167.910
+Co (en francs) : 171.265
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
 TYPES de logements : 7
 
 IMMEUBLES collectifs :
 
-To (en francs) : 277.410
+To (en francs) : 282.955
 
-Co (en francs) : 136.955
+Co (en francs) : 139.695
 
 MAISONS individuelles :
 
-To (en francs) : 305.160
+To (en francs) : 311.260
 
-Co (en francs) : 191.725
+Co (en francs) : 195.555
 
 VALEURS DE Co ET DE To
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
 Pièce supplémentaire
 
 IMMEUBLES collectifs :
 
-To (en francs) : 29.530
+To (en francs) : 30.120
 
-Co (en francs) : 14.580
+Co (en francs) : 14.865
 
 MAISONS individuelles :
 
-To (en francs) : 32.485
+To (en francs) : 33.135
 
-Co (en francs) : 20.440.
+Co (en francs) : 20.845.
 
 VALEURS DE Co ET DE To
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
 TYPES de logements : 1
 
 IMMEUBLES collectifs :
 
-To (en francs) : 48.200
+To (en francs) : 49.165
 
-Co (en francs) : 23.815
+Co (en francs) : 24.290
 
 VALEURS DE Co ET DE To
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
 TYPES de logements : 1 bis
 
 IMMEUBLES collectifs :
 
-To (en francs) : 95.510
+To (en francs) : 97.420
 
-Co (en francs) : 47.160
+Co (en francs) : 48..105
 
 MAISONS individuelles :
 
-To (en francs) : 105.095
+To (en francs) : 107.195
 
-Co (en francs) : 66.000
+Co (en francs) : 67.320
 
 VALEURS DE Co ET DE To
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
 TYPES de logements : 2
 
 IMMEUBLES collectifs :
 
-To (en francs) : 125.830
+To (en francs) : 128.345
 
-Co (en francs) : 62.105
+Co (en francs) : 63.345
 
 MAISONS individuelles :
 
-To (en francs) : 138.400
+To (en francs) : 141.170
 
-Co (en francs) : 86.970
+Co (en francs) : 88.710
 
 VALEURS DE Co ET DE To
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
 TYPES de logements : 3
 
 IMMEUBLES collectifs :
 
-To (en francs) : 158.180
+To (en francs) : 161.345
 
-Co (en francs) : 78.095
+Co (en francs) : 79.665
 
 MAISONS individuelles :
 
-To (en francs) : 173.995
+To (en francs) : 177.475
 
-Co (en francs) : 109.325
+Co (en francs) : 111.510
 
 VALEURS DE Co ET DE To
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
 TYPES de logements : 4
 
 IMMEUBLES collectifs :
 
-To (en francs) : 188.055
+To (en francs) : 191.815
 
-Co (en francs) : 92.830
+Co (en francs) : 94.685
 
 MAISONS individuelles :
 
-To (en francs) : 206.870
+To (en francs) : 211.005
 
-Co (en francs) : 130.010
+Co (en francs) : 132.610
 
 VALEURS DE Co ET DE To
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
 TYPES de logements : 5
 
 IMMEUBLES collectifs :
 
-To (en francs) : 220.410
+To (en francs) : 224.820
 
-Co (en francs) : 108.795
+Co (en francs) : 110.970
 
 MAISONS individuelles :
 
-To (en francs) : 242.475
+To (en francs) : 247.325
 
-Co (en francs) : 152.340
+Co (en francs) : 155.385
 
 VALEURS DE Co ET DE To
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
 TYPES de logements : 6
 
 IMMEUBLES collectifs :
 
-To (en francs) : 245.335
+To (en francs) : 250.240
 
-Co (en francs) : 121.095
+Co (en francs) : 123.515
 
 MAISONS individuelles :
 
-To (en francs) : 269.855
+To (en francs) : 275.250
 
-Co (en francs) : 169.570
+Co (en francs) : 172.980
 
 VALEURS DE Co ET DE To
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
 TYPES de logements : 7
 
 IMMEUBLES collectifs :
 
-To (en francs) : 280.155
+To (en francs) : 286.760
 
-Co (en francs) : 138.310
+Co (en francs) : 141.075
 
 MAISONS individuelles :
 
-To (en francs) : 308.180
+To (en francs) : 314.345
 
-Co (en francs) : 193.620
+Co (en francs) : 197.490
 
 VALEURS DE Co ET DE To
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
 Pièce supplémentaire
 
 IMMEUBLES collectifs :
 
-To (en francs) : 29.820
+To (en francs) : 30.415
 
-Co (en francs) : 14.720
+Co (en francs) : 15.015
 
 MAISONS individuelles :
 
-To (en francs) : 32.805
+To (en francs) : 33.460
 
-Co (en francs) : 20.640.
+Co (en francs) : 21.055.
 
 i, a, b, c, d, e, f, et g sont des coefficients dépendant :
 
@@ -360,21 +360,21 @@ Pour les maisons individuelles :
 
 VALEURS DES GARAGES
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
-G = n1 x 37.195 + n2 x 26.210 en zone I.
+G = n1 x 37.935 + n2 x 26.735 en zone I.
 
-G = n1 x 33.965 + n2 x 23.820 en zone II.
+G = n1 x 34.650 + n2 x 24.295 en zone II.
 
-G = n1 x 32.190 + n2 x 22.655 en zone III.
+G = n1 x 32.835 + n2 x 23.110 en zone III.
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
-G = n1 x 37.560 + n2 x 26.470 en zone I.
+G = n1 x 38.310 + n2 x 27.000 en zone I.
 
-G = n1 x 34.305 + n2 x 24.055 en zone II.
+G = n1 x 34.990 + n2 x 24.535 en zone II.
 
-G = n1 x 32.510 + n2 x 22.880 en zone III.
+G = n1 x 33.160 + n2 x 23.340 en zone III.
 
 n1 est le nombre d'emplacements individuels de stationnement dans un garage collectif enterré ou incorporé à un bâtiment d'habitation ;
 

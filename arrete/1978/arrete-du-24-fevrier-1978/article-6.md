@@ -1,3 +1,3 @@
 # Article 6
 
-Les dépassements du prix de référence, lorsqu'ils font l'objet d'une décision favorable visée à l'article 19 du décret n° 77-934 du 27 juillet 1977, peuvent être financés dans des conditions définies à l'article 26 du décret n° 77-934 du 27 juillet 1977.
+"Les dépassements du prix de référence autorisés en application de l'article R. 331-11 du code susvisé peuvent être financés dans les conditions définies par l'arrêté du 4 janvier 1988 relatif aux dépassements du prix de référence de logements locatifs et aux subventions de l'Etat au titre de ces dépassements. "

@@ -30,315 +30,121 @@ S étant calculée comme indiqué à l'article précédent.
 
 7.1.1. - Logements des résidents
 
-TYPES de logements : I a
+Bo Immeubles collectifs et maisons individuelles.
 
-IMMEUBLES collectifs :
+TYPES de logements : I et I'    Jusqu'au 30 juin 1988 (en francs) : 166.010
 
-Jusqu'au 30 juin 1987 (en francs) : 64.300
-
-A partir du 1er juillet 1987 (en francs) : 64.940
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 67.680
-
-A partir du 1er juillet 1987 (en francs) : 68.350
-
-TYPES de logements : I b
-
-IMMEUBLES collectifs :
-
-Jusqu'au 30 juin 1987 (en francs) : 114.865
-
-A partir du 1er juillet 1987 (en francs) : 116.005
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 120.905
-
-A partir du 1er juillet 1987 (en francs) : 122.105
-
-TYPES de logements : I c
-
-IMMEUBLES collectifs :
-
-Jusqu'au 30 juin 1987 (en francs) : 126.580
-
-A partir du 1er juillet 1987 (en francs) : 127.830
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 133.235
-
-A partir du 1er juillet 1987 (en francs) : 134.555
-
-TYPES de logements : I d
-
-IMMEUBLES collectifs :
-
-Jusqu'au 30 juin 1987 (en francs) : 151.910
-
-A partir du 1er juillet 1987 (en francs) : 153.415
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 159.895
-
-A partir du 1er juillet 1987 (en francs) : 161.475.
-
-(avec les mêmes données :)
-
-I e
-
-126.905
-
-128.165
-
-133.565
-
-134.890.
-
-TYPES de logements : I f
-
-IMMEUBLES collectifs :
-
-Jusqu'au 30 juin 1987 (en francs) : 162.750
-
-A partir du 1er juillet 1987 (en francs) : 164.365
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 171.285
-
-A partir du 1er juillet 1987 (en francs) : 172.980
+A partir du 1er juillet 1988 (en francs) : 167.650
 
 TYPES de logements : I bis
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 203.570
 
-Jusqu'au 30 juin 1987 (en francs) : 199.580
-
-A partir du 1er juillet 1987 (en francs) : 201.555
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 210.075
-
-A partir du 1er juillet 1987 (en francs) : 212.155
+A partir du 1er juillet 1988 (en francs) : 205.585
 
 TYPES de logements : II
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 234.910
 
-Jusqu'au 30 juin 1987 (en francs) : 230.305
-
-A partir du 1er juillet 1987 (en francs) : 232.585
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 242.380
-
-A partir du 1er juillet 1987 (en francs) : 244.780
+A partir du 1er juillet 1988 (en francs) : 237.235
 
 TYPES de logements : III
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 308.060
 
-Jusqu'au 30 juin 1987 (en francs) : 302.020
-
-A partir du 1er juillet 1987 (en francs) : 350.010
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 317.895
-
-A partir du 1er juillet 1987 (en francs) : 321.045
+A partir du 1er juillet 1988 (en francs) : 311.110
 
 TYPES de logements : IV
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 385.270
 
-Jusqu'au 30 juin 1987 (en francs) : 377.715
-
-A partir du 1er juillet 1987 (en francs) : 381.455
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 397.555
-
-A partir du 1er juillet 1987 (en francs) : 401.490.
+A partir du 1er juillet 1988 (en francs) : 389.085
 
 TYPES de logements : V
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 463.655
 
-Jusqu'au 30 juin 1987 (en francs) : 454.565
-
-A partir du 1er juillet 1987 (en francs) : 459.065
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 478.455
-
-A partir du 1er juillet 1987 (en francs) : 483.195
+A partir du 1er juillet 1988 (en francs) : 468.245
 
 TYPES de logements : VI
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 542.065
 
-Jusqu'au 30 juin 1987 (en francs) : 531.435
-
-A partir du 1er juillet 1987 (en francs) : 536.700
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 559.365
-
-A partir du 1er juillet 1987 (en francs) : 564.900
+A partir du 1er juillet 1988 (en francs) : 547.435
 
 TYPES de logements : VII
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 620.525
 
-Jusqu'au 30 juin 1987 (en francs) : 608.360
-
-A partir du 1er juillet 1987 (en francs) : 614.380
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 640.335
-
-A partir du 1er juillet 1987 (en francs) : 646.675.
+A partir du 1er juillet 1988 (en francs) : 626.670.
 
 7.1.2. - Logements à usage familial (autres que logements destinés aux résidents)
 
+Bo Immeubles collectifs et maisons individuelles.
+
 TYPES de logements : I
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 88.505
 
-Jusqu'au 30 juin 1987 (en francs) : 86.770
-
-A partir du 1er juillet 1987 (en francs) : 87.630
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 91.345
-
-A partir du 1er juillet 1987 (en francs) : 92.250
+A partir du 1er juillet 1988 (en francs) : 89.385
 
 TYPES de logements : I bis
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 165.525
 
-Jusqu'au 30 juin 1987 (en francs) : 162.275
-
-A partir du 1er juillet 1987 (en francs) : 163.885
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 170.790
-
-A partir du 1er juillet 1987 (en francs) : 172.480
+A partir du 1er juillet 1988 (en francs) : 167.165
 
 TYPES de logements : II
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 213.335
 
-Jusqu'au 30 juin 1987 (en francs) : 209.155
-
-A partir du 1er juillet 1987 (en francs) : 211.225
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 220.155
-
-A partir du 1er juillet 1987 (en francs) : 222.335
+A partir du 1er juillet 1988 (en francs) : 215.450
 
 TYPES de logements : III
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 253.745
 
-Jusqu'au 30 juin 1987 (en francs) : 248.775
-
-A partir du 1er juillet 1987 (en francs) : 251.235
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 261.850
-
-A partir du 1er juillet 1987 (en francs) : 264.440
+A partir du 1er juillet 1988 (en francs) : 256.260
 
 TYPES de logements : IV
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 291.885
 
-Jusqu'au 30 juin 1987 (en francs) : 286.165
-
-A partir du 1er juillet 1987 (en francs) : 288.995
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 301.200
-
-A partir du 1er juillet 1987 (en francs) : 304.185.
+A partir du 1er juillet 1988 (en francs) : 294.775.
 
 TYPES de logements : V
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 337.460
 
-Jusqu'au 30 juin 1987 (en francs) : 330.845
-
-A partir du 1er juillet 1987 (en francs) : 334.120
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 348.230
-
-A partir du 1er juillet 1987 (en francs) : 351.675
+A partir du 1er juillet 1988 (en francs) : 340.800
 
 TYPES de logements : VI
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 371.075
 
-Jusqu'au 30 juin 1987 (en francs) : 363.795
-
-A partir du 1er juillet 1987 (en francs) : 367.400
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 382.915
-
-A partir du 1er juillet 1987 (en francs) : 386.705
+A partir du 1er juillet 1988 (en francs) : 374.750
 
 TYPES de logements : VII
 
-IMMEUBLES collectifs :
+Jusqu'au 30 juin 1988 (en francs) : 416.655
 
-Jusqu'au 30 juin 1987 (en francs) : 408.485
-
-A partir du 1er juillet 1987 (en francs) : 412.530
-
-MAISONS individuelles :
-
-Jusqu'au 30 juin 1987 (en francs) : 429.945
-
-A partir du 1er juillet 1987 (en francs) : 434.205.
+A partir du 1er juillet 1988 (en francs) : 420.780.
 
 7.1.3. Le prix de référence de base unitaire Bâtiment et honoraires bo, toutes taxes comprises est fixé par le tableau ci-après :
 
 VALEURS DE bo
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
-IMMEUBLES collectifs (en francs) : 3.010
+IMMEUBLES collectifs (en francs) : 3.070
 
-MAISONS individuelles (en francs) : 3.165
+MAISONS individuelles (en francs) : 3.230
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
-IMMEUBLES collectifs (en francs) : 3.040
+IMMEUBLES collectifs (en francs) : 3.100
 
-MAISONS individuelles (en francs) : 3.200.
+MAISONS individuelles (en francs) : 3.265.
 
 7.2. Coefficients de pondération du prix de référence de base Bâtiment et honoraires
 
@@ -358,45 +164,45 @@ Lorsque des logements foyers réalisés en immeubles collectifs comportent des g
 
 VALEURS DES GARAGES
 
-1° Par emplacement individuel de stationnement dans un garage collectif enterré ou incorporé au foyer.
+7.3.1. Par emplacement individuel de stationnement dans un garage collectif enterré ou incorporé au foyer.
 
 ZONES DE PRIX : Zone I
 
-JUSQU'AU 30 juin 1987 (en francs) : 38.355
+JUSQU'AU 30 juin 1988 (en francs) : 39.120
 
-A PARTIR du 1er juillet 1987 (en francs) : 38.735
+A PARTIR du 1er juillet 1988 (en francs) : 39.510
 
 ZONES DE PRIX : Zone II
 
-JUSQU'AU 30 juin 1987 (en francs) : 35.030
+JUSQU'AU 30 juin 1988 (en francs) : 35.735
 
-A PARTIR du 1er juillet 1987 (en francs) : 35.380
+A PARTIR du 1er juillet 1988 (en francs) : 36.090
 
 ZONES DE PRIX : Zone III
 
-JUSQU'AU 30 juin 1987 (en francs) : 33.200
+JUSQU'AU 30 juin 1988 (en francs) : 33.860
 
-A PARTIR du 1er juillet 1987 (en francs) : 33.525
+A PARTIR du 1er juillet 1988 (en francs) : 34.195
 
-2° Par emplacement individuel de stationnement dans un garage collectif, construit en superstructure, séparé ou accolé au foyer.
+7.3.2. Par emplacement individuel de stationnement dans un garage collectif, construit en superstructure, séparé ou accolé au foyer.
 
 ZONES DE PRIX : Zone I
 
-JUSQU'AU 30 juin 1987 (en francs) : 27.035
+JUSQU'AU 30 juin 1988 (en francs) : 27.575
 
-A PARTIR du 1er juillet 1987 (en francs) : 27.300
+A PARTIR du 1er juillet 1988 (en francs) : 27.845
 
 ZONES DE PRIX : Zone II
 
-JUSQU'AU 30 juin 1987 (en francs) : 24.580
+JUSQU'AU 30 juin 1988 (en francs) : 25.070
 
-A PARTIR du 1er juillet 1987 (en francs) : 24.820
+A PARTIR du 1er juillet 1988 (en francs) : 25.315
 
 ZONES DE PRIX : Zone III
 
-JUSQU'AU 30 juin 1987 (en francs) : 23.360
+JUSQU'AU 30 juin 1988 (en francs) : 23.830
 
-A PARTIR du 1er juillet 1987 (en francs) : 23.595.
+A PARTIR du 1er juillet 1988 (en francs) : 24.065.
 
 Le nombre d'emplacements de stationnement à prendre en compte est au plus égal au nombre total pondéré des logements.
 

@@ -12,17 +12,17 @@ b1 dépend du nombre total pondéré, N, de logements, constituant l'opération 
 
 N : b1
 
-N supérieur ou égal à 3 et inférieur ou égal à 100
+N supérieur à 0 et inférieur ou égal à 33
 
-b1 = + 0,06 (100 - N / 100).
+b1 = + 0,09 (60 - N / 60).
 
-N supérieur à 100 et inférieur ou égal à 200
+N supérieur ou égal à 34 et inférieur ou égal à 100
 
-b1 = 0,035 (N - 100 / 100)
+b1 = 0,06 (100 - N / 100)
 
-N supérieur à 200 :
+N supérieur à 100 :
 
-b1 = - 0,035 - 0,02 (N - 200 / 100).
+b1 = - 0,003 (N - 100 / 100).
 
 Pour déterminer la valeur de N, on affectera le nombre réel de logements de chaque type des coefficients de pondération suivants :
 
@@ -52,38 +52,46 @@ hm étant pris égal à la plus proche des deux valeurs, inférieure ou supérie
 
 Immeuble sans ascenseur.
 
-hm Inférieur ou égal à 3 : 0,040
+hm 2 : 0,07
 
-hm 3,5 : 0,030
+hm 2,5: 0,06
 
-hm 4 : 0,020
+hm  3 : 0,05
 
-hm 4,5 : 0,015
+hm 3,5 : 0,04
 
-hm 5 : 0,010
+hm 4 : 0,03
+
+hm 4,5 : 0,02
+
+hm 5 : 0,01
 
 hm 6 : 0
 
-hm 7 : - 0,010
+hm 7 : -
 
-hm Supérieur ou égal à  8 : - 0,020
+hm 8 : -
 
 Immeuble avec ascenseur.
 
-hm Inférieur ou égal à 3 : 0,080
+hm 2 : 0,11
 
-hm 3,5 : 0,060
+hm 2,5 : 0,11
 
-hm 4 : 0,040
+hm 3 : 0,09
 
-hm 4,5 : 0,025
+hm 3,5 : 0,07
 
-hm 5 : 0,010
+hm 4 : 0,05
 
-hm 6 : 0
+hm 4,5 : 0,04
 
-hm 7 : - 0,010
+hm 5 : 0,03
 
-hm Supérieur ou égal à 8 : - 0,020
+hm 6 : 0,02
 
-Maisons individuelles isolées ou groupées b2 = 0.
+hm 7 : 0,00
+
+hm 8 : - 0,01
+
+Maisons individuelles isolées ou groupées b2 = 0,07.

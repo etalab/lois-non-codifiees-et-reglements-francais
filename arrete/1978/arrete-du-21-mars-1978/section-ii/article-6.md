@@ -16,139 +16,7 @@ k du coût de l'aménagement paysager du terrain (plantations, mobilier urbain, 
 
 S est égal au total de la surface totale habitable des logements (logements pour résidents et logements à usage familial) et de la surface totale des locaux pour services collectifs ou à usage commun.
 
-S a pour limite le total Sm des valeurs suivantes fixées par logement :
-
-Sm par logement pour résident
-
-TYPES DE LOGEMENTS : I a
-
-FOYER pour jeunes travailleurs Sm : Sans objet
-
-FOYER pour jeunes travailleurs migrants Sm : 19
-
-FOYER pour personnes âgées Sm : Sans objet
-
-FOYER pour personnes handicapées Sm : Sans objet.
-
-TYPES DE LOGEMENTS : I b
-
-FOYER pour jeunes travailleurs Sm : 30
-
-FOYER pour jeunes travailleurs migrants Sm : 30
-
-FOYER pour personnes âgées Sm : Sans objet
-
-FOYER pour personnes handicapées Sm : Sans objet.
-
-TYPES DE LOGEMENTS : I c
-
-FOYER pour jeunes travailleurs Sm : Sans objet
-
-FOYER pour jeunes travailleurs migrants Sm : 35
-
-FOYER pour personnes âgées Sm : Sans objet
-
-FOYER pour personnes handicapées Sm : Sans objet.
-
-TYPES DE LOGEMENTS : I d
-
-FOYER pour jeunes travailleurs Sm : Sans objet
-
-FOYER pour jeunes travailleurs migrants Sm : 45
-
-FOYER pour personnes âgées Sm : Sans objet
-
-FOYER pour personnes handicapées Sm : Sans objet.
-
-TYPES DE LOGEMENTS : I e
-
-FOYER pour jeunes travailleurs Sm : Sans objet
-
-FOYER pour jeunes travailleurs migrants Sm : Sans objet
-
-FOYER pour personnes âgées Sm : Sans objet
-
-FOYER pour personnes handicapées Sm : 38.
-
-TYPES DE LOGEMENTS : I f (2e A. du 6 décembre 1985, art. 2)
-
-FOYER pour jeunes travailleurs Sm : Sans objet
-
-FOYER pour jeunes travailleurs migrants Sm : Sans objet
-
-FOYER pour personnes âgées Sm : 50
-
-FOYER pour personnes handicapées Sm : 50.
-
-TYPES DE LOGEMENTS : I bis
-
-FOYER pour jeunes travailleurs Sm : 50
-
-FOYER pour jeunes travailleurs migrants Sm : 50
-
-FOYER pour personnes âgées Sm : 50
-
-FOYER pour personnes handicapées Sm : 50.
-
-TYPES DE LOGEMENTS : II
-
-FOYER pour jeunes travailleurs Sm : 67
-
-FOYER pour jeunes travailleurs migrants Sm : 67
-
-FOYER pour personnes âgées Sm : 67
-
-FOYER pour personnes handicapées Sm : 67.
-
-TYPES DE LOGEMENTS : III
-
-FOYER pour jeunes travailleurs Sm : 90
-
-FOYER pour jeunes travailleurs migrants Sm : 90
-
-FOYER pour personnes âgées Sm : Sans objet
-
-FOYER pour personnes handicapées Sm : Sans objet.
-
-TYPES DE LOGEMENTS : IV
-
-FOYER pour jeunes travailleurs Sm : 113
-
-FOYER pour jeunes travailleurs migrants Sm : 113
-
-FOYER pour personnes âgées Sm : Sans objet
-
-FOYER pour personnes handicapées Sm : Sans objet.
-
-TYPES DE LOGEMENTS : V
-
-FOYER pour jeunes travailleurs Sm : 136
-
-FOYER pour jeunes travailleurs migrants Sm : 136
-
-FOYER pour personnes âgées Sm : Sans objet
-
-FOYER pour personnes handicapées Sm : Sans objet.
-
-TYPES DE LOGEMENTS : VI
-
-FOYER pour jeunes travailleurs Sm : 159
-
-FOYER pour jeunes travailleurs migrants Sm : 159
-
-FOYER pour personnes âgées Sm : Sans objet
-
-FOYER pour personnes handicapées Sm : Sans objet.
-
-TYPES DE LOGEMENTS : VII
-
-FOYER pour jeunes travailleurs Sm : 182
-
-FOYER pour jeunes travailleurs migrants Sm : 182
-
-FOYER pour personnes âgées Sm : Sans objet
-
-FOYER pour personnes handicapées Sm : Sans objet.
+S a pour limite le total SM des valeurs suivantes fixées pour les logements des résidents à l'article 3.1. et pour les logements familiaux par le tableau suivant :
 
 Sm par logement à usage familial incorporé au foyer
 
@@ -226,17 +94,17 @@ La charge foncière de référence de base unitaire, Co, toutes taxes comprises,
 
 VALEURS DE Co
 
-Jusqu'au 30 juin 1987
+Jusqu'au 30 juin 1988
 
-IMMEUBLES collectifs : 485 francs
+IMMEUBLES collectifs : 495 francs
 
-MAISONS individuelles : 730 francs
+MAISONS individuelles : 740 francs
 
-A partir du 1er juillet 1987
+A partir du 1er juillet 1988
 
-IMMEUBLES collectifs : 490 francs
+IMMEUBLES collectifs : 500 francs
 
-MAISONS individuelles : 735 francs
+MAISONS individuelles : 750 francs
 
 6.2. Coefficients de pondération de la charge foncière de référence de base
 
