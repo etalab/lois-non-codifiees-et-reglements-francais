@@ -2,7 +2,7 @@
 
 Le conseil d'administration détermine les orientations d'ordre économique, financier et technologique de l'établissement et adopte le rapport annuel d'activité qui est remis au ministre chargé de la culture.
 
-Il fixe l'état annuel des prévisions de recettes et de dépenses de la Réunion des musées nationaux et arrête les budgets annexes de l'Ecole du Louvre, des opérations commerciales et des expositions temporaires. Il délibère sur celles de leurs modifications qui comportent soit une augmentation du montant des crédits à caractère limitatif, soit des virements de crédits entre la section des opérations en capital et la section de fonctionnement, soit une modification de leur équilibre par augmentation du montant des dépenses non financée par des recettes supérieures aux prévisions initiales. Toutefois les augmentations des dépenses inscrites au budget annexe de l'Ecole du Louvre qui modifient l'équilibre de ce budget font l'objet d'une délibération du conseil d'administration.
+Il fixe l'état annuel des prévisions de recettes et de dépenses de la Réunion des musées nationaux et arrête les budgets annexes des opérations commerciales et des expositions temporaires. Il délibère sur celles de leurs modifications qui comportent soit une augmentation du montant des crédits à caractère limitatif, soit des virements de crédits entre la section des opérations en capital et la section de fonctionnement, soit une modification de leur équilibre par augmentation du montant des dépenses non financée par des recettes supérieures aux prévisions initiales.
 
 Il arrête le compte financier.
 

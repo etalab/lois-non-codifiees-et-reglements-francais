@@ -1,8 +1,6 @@
 # Article ANNEXE
 
-LISTE DES FONCTIONS OUVRANT DROIT
-
-À LA NOUVELLE BONIFICATION INDICIAIRE
+LISTE DES FONCTIONS OUVRANT DROIT A LA NOUVELLE BONIFICATION INDICIAIRE
 
 Mise en oeuvre des techniques de documentation.
 
@@ -21,3 +19,5 @@ Recueil et synthèse de données statistiques.
 Gestion spécifique de certains personnels.
 
 Maintenance logistique.
+
+Gestion de la recherche.

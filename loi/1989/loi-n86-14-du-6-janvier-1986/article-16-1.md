@@ -1,0 +1,7 @@
+# Article 16-1
+
+Les présidents occupent les fonctions, dans une cour administrative d'appel, de président de chambre ou d'assesseur ; dans un tribunal administratif, de président ou de vice-président du tribunal ; au tribunal administratif de Paris, ils occupent en outre les fonctions de président ou de vice-président de section.
+
+Les fonctions de président de chambre dans une cour administrative d'appel, de président d'un tribunal administratif comportant moins de cinq chambres ou de président de section au tribunal administratif de Paris sont accessibles aux membres du corps des tribunaux administratifs et cours administratives d'appel titulaires du grade de président depuis au moins deux ans. La première nomination dans l'une de ces fonctions est subordonnée à l'inscription sur une liste d'aptitude annuelle établie sur proposition du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel.
+
+Les fonctions de président du tribunal administratif de Paris, de vice-président de ce même tribunal et de président d'un tribunal administratif comportant au moins cinq chambres sont accessibles aux membres du corps des tribunaux administratifs et cours administratives d'appel titulaires du grade de président depuis au moins quatre ans. La première nomination dans l'une de ces fonctions est subordonnée à l'inscription sur une liste d'aptitude annuelle établie sur proposition du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel.

@@ -1,0 +1,5 @@
+# Article 9
+
+Pour l'application des articles 7 et 8 ci-dessus, la notion d'enfant à charge s'apprécie selon les critères retenus en France pour l'attribution des prestations familiales par les articles L. 513-1 et L. 521-2 du code de la sécurité sociale. Les majorations familiales peuvent éventuellement être versées à une tierce personne physique ou morale, dans les conditions prévues par l'article L. 552-6 du code de la sécurité sociale.
+
+La limite d'âge des enfants à charge est fixée à seize ans révolus ; elle est reculée à dix-huit ans révolus si l'enfant est placé en apprentissage ou en stage de formation professionnelle et à vingt et un ans révolus si l'enfant poursuit ses études. La limite d'âge est supprimée lorsque l'enfant est atteint d'une infirmité permanente d'au moins 80 %, dûment constatée avant vingt et un ans révolus, le mettant dans l'impossibilité d'exercer une activité professionnelle et qu'il ne peut pas bénéficier au titre de la législation de l'Etat de résidence d'une allocation pour ce handicap.

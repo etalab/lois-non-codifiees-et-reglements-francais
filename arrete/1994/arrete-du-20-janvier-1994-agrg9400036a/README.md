@@ -7,3 +7,4 @@
 - [Article 3 ter](article-3-ter.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
+- [Annexes](annexes)

@@ -26,9 +26,11 @@ Responsable de la gestion du personnel du Conseil d'Etat.
 
 Responsable de la gestion des membres du Conseil d'Etat.
 
-travaux documentaires.
+Responsable de la coordination administrative du service des travaux documentaires.
 
-Adjoint du chef du bureau Equipement, infrastructure et logistique    Responsable du bureau d'aide judiciaire.
+Adjoint du chef du bureau Equipement, infrastructure et logistique.
+
+Responsable du bureau d'aide juridictionnelle.
 
 Responsable du service dactylographique informatisé du contentieux.
 
@@ -44,11 +46,27 @@ Responsable de la préparation informatique des documents de la section du rappo
 
 Adjoint au responsable du service de reprodiffusion
 
+Adjoint du reponsable administratif du service informatique.
+
+Adjoint du chef du service du budget et de la comptabilité.
+
+Adjoint du secrétaire de la section du contentieux.
+
+Responsable du service des analyses de la section du contentieux.
+
+Responsable du bureau des informations.
+
+Secrétaire de sous-section de la section du contentieux.
+
+Adjoint du responsable de la gestion des personnels du Conseil d'Etat.
+
+Adjoint du responsable du greffe de la section du contentieux.
+
+Responsable du magasin des fournitures et de la gestion des stocks.
+
 Responsable des effectifs, des concours et du comité médical.
 
 Assistant du rapporteur général de la section du rapport et des études.
-
-Secrétaire de la commission d'admission des pourvois en cassation.
 
 Secrétaire adjoint des sections administratives.
 
@@ -69,8 +87,6 @@ Assistant du responsable des ordonnancements concernant les greffes des juridict
 Responsable du bureau du courrier.
 
 Deuxième adjoint au responsable du service de reprographie.
-
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire au titre de la 6e tranche
 
 Responsable du suivi financier des affaires immobilières.
 
@@ -95,3 +111,25 @@ Adjoint du responsable du bureau d'aide juridictionnelle.
 Deuxième adjoint au responsable du secrétariat particulier du vice-président.
 
 Adjoint du responsable du SDIC.
+
+Responsable du bureau des pensions des membres du Conseil d'Etat.
+
+Responsable du bureau des greffes du service des tribunaux
+
+administratifs et des cours administratives d'appel.
+
+Responsable du secrétariat du vice-président.
+
+Secrétariat de la cellule des reconduites à la frontière.
+
+Responsable de l'équipe de maintenance des immeubles.
+
+Responsable de l'archivage des dossiers de la section du contentieux.
+
+Adjoint au secrétaire de sous-section de la section du contentieux.
+
+Deuxième adjoint au responsable du secrétariat particulier des secrétaires généraux.
+
+Deuxième adjoint au responsable du service dactylographique informatisé du contentieux.
+
+Adjoint au secrétaire de la cellule des reconduites à la frontière.

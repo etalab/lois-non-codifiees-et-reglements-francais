@@ -1,8 +1,8 @@
 # Article 8
 
-" A. - Véhicule neuf conforme à un type ayant fait l'objet d'une réception nationale par une direction régionale de l'industrie, de la recherche et de l'environnement (D.R.I.R.E.) :
+A. - Véhicule neuf conforme à un type ayant fait l'objet d'une réception nationale par une direction régionale de l'industrie, de la recherche et de l'environnement (D.R.I.R.E.) :
 
-a) Véhicule neuf acquis en France par le demandeur de l'immatriculation :
+a) Véhicule neuf acquis en France .
 
 Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
@@ -60,7 +60,7 @@ Toutefois, cette pièce ne sera pas exigée lorsque l'attestation d'identificati
 
 Pour les véhicules visés au titre III du code de la route (véhicules agricoles et forestiers, engins spéciaux) et les remorques et semi-remorques provenant d'un Etat membre de l'Union européenne autre que la France, il ne sera exigé aucun justificatif fiscal.
 
-" A bis. - Véhicule neuf conforme à un type ayant fait l'objet d'une réception communautaire :
+A bis. - Véhicule neuf conforme à un type ayant fait l'objet d'une réception communautaire :
 
 a) Véhicule neuf acquis en France par le demandeur de l'immatriculation :
 
@@ -114,7 +114,7 @@ Toutefois, cette pièce ne sera pas exigée lorsque l'attestation d'identificati
 
 Pour les véhicules visés au titre III du code de la route (Véhicules agricoles et forestiers, engins spéciaux) et les remorques et semi-remorques provenant d'un Etat membre de l'Union européenne autre que la France, il ne sera exigé aucun justificatif fiscal.
 
-" B. - Véhicule dont seul le châssis est conforme à un type ayant fait l'objet d'une réception nationale ou communautaire :
+B. - Véhicule dont seul le châssis est conforme à un type ayant fait l'objet d'une réception nationale ou communautaire :
 
 Les pièces à fournir sont :
 
@@ -136,7 +136,7 @@ Pour pouvoir être immatriculé, le véhicule doit au préalable avoir fait l'ob
 
 Les pièces à fournir par le propriétaire dudit véhicule sont :
 
-1. Une " Demande de certificat d'immatriculation sur l'imprimé réglementaire ;
+1. Une Demande de certificat d'immatriculation sur l'imprimé réglementaire ;
 
 2. La notice descriptive prévue à l'annexe I de l'arrêté du 16 juillet 1954 modifié relatif à la réception des véhicules ;
 
@@ -166,6 +166,6 @@ Nota :
 
 (1) Exemplaire non barré d'une diagonale rouge.
 
-(2) Les pièces visées aux alinéas 1, 3, 4 et 5 peuvent, dans le cadre d'une procédure simplifiée, être regroupées sur un seul document agréé par le Cerfa sous le numéro 47-0205 et dénommé " Demande de certificat d'immatriculation d'un véhicule neuf prêt à l'emploi n'excédant pas 3,5 tonnes.
+(2) Les pièces visées aux alinéas 1, 3, 4 et 5 peuvent, dans le cadre d'une procédure simplifiée, être regroupées sur un seul document agréé par le Cerfa sous le numéro 47-0205 et dénommé Demande de certificat d'immatriculation d'un véhicule neuf prêt à l'emploi n'excédant pas 3,5 tonnes.
 
 Ce document dont le modèle type figure en annexe III A du présent arrêté est délivré par le constructeur ou son représentant en France. Dans le cadre de cette procédure, il n'est plus accompagné d'un exemplaire barré rouge.

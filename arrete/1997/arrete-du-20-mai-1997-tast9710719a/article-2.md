@@ -6,6 +6,8 @@ Cette commission est composée comme suit :
 
 Le représentant de l'Académie française ;
 
+Le représentant de l'académie des sciences ;
+
 Le représentant du ministre chargé de la recherche ;
 
 Le représentant du ministre chargé de l'enseignement supérieur.

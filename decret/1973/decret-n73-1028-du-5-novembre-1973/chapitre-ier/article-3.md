@@ -10,4 +10,4 @@ Le corps des aides techniques de laboratoire comporte deux grades :
 
 2° Aide technique de laboratoire.
 
-L'effectif des aides techniques principaux de laboratoire ne peut être supérieur à 10 p. 100 de l'effectif total du corps.
+Le nombre d'emplois d'aide technique principal de laboratoire ne peut excéder 20% de l'effectif total du corps des aides techniques de laboratoire.

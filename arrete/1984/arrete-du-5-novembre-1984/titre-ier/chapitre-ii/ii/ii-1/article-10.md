@@ -80,7 +80,7 @@ Les pièces à fournir sont :
 
 10.C. - Cas des véhicules immatriculés hors du territoire métropolitain (avec ou sans changement de propriétaire).
 
-a) Pour les véhicules précédemment immatriculés dans un Etat membre de l'Union européenne, les pièces à fournir par le propriétaire pour l'obtention d'une carte grise à son nom sont :
+a) Pour les véhicules précédemment immatriculés dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord instituant l'Espace économique européen, les pièces à fournir par le propriétaire pour l'obtention d'une carte grise à son nom sont :
 
 1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives d'identité et de domicile ;
 
@@ -90,21 +90,41 @@ a) Pour les véhicules précédemment immatriculés dans un Etat membre de l'Uni
 
 - soit un certificat international pour automobile en cours de validité délivré par ces autorités.
 
-3. Un procès-verbal de réception à titre isolé délivré par la direction régionale de l'industrie, de la recherche et de l'environnement ;
+La ou les pièces suivantes selon le cas :
 
-" ... ou bien un certificat de conformité d'un véhicule usagé à un type réceptionné, délivré par le constructeur ou son représentant en France selon les modèles annexés au présent arrêté et les modalités fixées par le ministre chargé des transports. "
+3.1. Pour les véhicules conformes à un type national français ou communautaire, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes ainsi que pour les tracteurs agricoles ou forestiers :
+
+- une attestation d'identification à un type national ou à un type communautaire, dont le modèle figure en annexe XVII et XVIII au présent arrêté, délivrée soit par le constructeur ou son représentant en France, soit par une direction régionale de l'industrie, de la recherche et de l'environnement ;
+
+- la preuve d'une visite ou d'un contrôle technique en cours de val dité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
+
+3.2. Pour les véhicules non conformes à un type national français ou communautaire, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes ainsi que pour les tracteurs agricoles ou forestiers :
+
+- un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie, de la recherche et de l'environnement ;
+
+- la preuve d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
+
+3.3. Pour les véhicules d'un poids total autorisé en charge supérieur à 3,5 tonnes et les véhicules agricoles autres que les tracteurs agricoles ou forestiers :
+
+- un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie, de la recherche et de l'environnement ;
+
+- la preuve d'une visite technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
 
 4. S'il y a eu vente, le certificat de cession (ou la facture) établie au nom du demandeur de la carte grise ;
 
-5. Un certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la C.E.E.
+5. Un certificat d'acquisition d'un véhicule terrestre à moteur en provenance de l'Union européenne pour les véhicules précédemment immatriculés dans un Etat de l'Union européenne. Cette pièce n'est pas à produire pour les véhicules visés au titre III du code de la route (véhicules agricoles et forestiers, engins spéciaux) et pour les remorques et semi-remorques.
 
-Cette pièce n'est pas à produire pour les véhicules visés au titre III du code de la route (Véhicules agricoles et forestiers, engins spéciaux) et pour les remorques et semi-remorques.
+Un certificat de dédouanement 846 A délivré par les services des douanes pour les véhicules précédemment immatriculés dans un Etat tiers à l'Union européenne.
 
-b) Pour les véhicules précédemment immatriculés dans un Etat tiers à l'Union européenne, les pièces à fournir sont :
+b) Pour les véhicules précédemment immatriculés dans un Etat tiers à l'Union européenne et non partie à l'accord instituant l'Espace économique européen, les pièces à fournir sont :
 
-1. Celles visées aux alinéas 1, 2, 3 et 4 du paragraphe a ci-dessus ;
+1. Celles visées aux alinéas 1, 2 et 4 du paragraphe a ci-dessus ;
 
-2. Un certificat de dédouanement 846 A délivré par les services des douanes.
+2. Un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie, de la recherche et de l'environnement ;
+
+3. La preuve d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation ;
+
+4. Un certificat de dédouanement 846 A, délivré par les services des douanes pour les véhicules immatriculés dans un Etat tiers à l'Union européenne. "
 
 c) Pour les véhicules précédemment immatriculés dans les départements ainsi que les territoires d'outre-mer et les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les pièces à fournir sont :
 
@@ -130,9 +150,9 @@ a) Le véhicule n'avait jamais auparavant été immatriculé en France et est im
 
 Les pièces à fournir par celui-ci sont :
 
-1. Une " demande de certificat d'immatriculation accompagnée des pièces justificatives de son identité et de son domicile ;
+1. Une demande de certificat d'immatriculation accompagnée des pièces justificatives de son identité et de son domicile ;
 
-2. Le certificat d'immatriculation FFA ou FZ sur lequel aura été apposée au moyen d'un timbre humide dans le premier cas la mention " Radiation définitive de la série spéciale des FFA. Document valable jusqu'au..., dans le second cas, la mention " Rayé définitivement de la série spéciale FZ à la date du... ;
+2. Le certificat d'immatriculation FFA ou FZ sur lequel aura été apposée au moyen d'un timbre humide dans le premier cas la mention Radiation définitive de la série spéciale des FFA. Document valable jusqu'au..., dans le second cas, la mention Rayé définitivement de la série spéciale FZ à la date du... ;
 
 3. Un certificat de dédouanement ;
 
@@ -158,7 +178,7 @@ Néanmoins, tout changement de domicile à l'intérieur du département d'immatr
 
 Le propriétaire doit fournir :
 
-1. Une " demande de certificat d'immatriculation accompagnée des pièces justificatives de son identité et de son domicile ;
+1. Une demande de certificat d'immatriculation accompagnée des pièces justificatives de son identité et de son domicile ;
 
 2. La carte grise ;
 

@@ -2,178 +2,172 @@
 
 La durée moyenne et la durée minimale du temps passé dans chacun des échelons des trois grades d'ingénieur électronicien des systèmes de la sécurité aérienne sont fixées comme suit :
 
-GRADE ET ÉCHELON
-
-DURÉE
-
-Moyenne
-
-Minimale
+I = GRADE ET ÉCHELON :
 
 Ingénieur électronicien divisionnaire des systèmes de la sécurité aérienne
 
-10e échelon
+II = DUREE Moyenne
 
-9e échelon
+III = DUREE Minimale
 
-3 ans
+<table>
+<tbody>
+<tr>
+<td>:---:-------:--------------:</td>
+</tr>
+<tr>
+<td>: I : II : III :</td>
+</tr>
+<tr>
+<td>:---:-------:--------------:</td>
+</tr>
+<tr>
+<td>:11e: : :</td>
+</tr>
+<tr>
+<td>:10e: 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>:9e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>:8e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>:7e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>:6e : 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>:5e : 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>:4e : 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>:3e : 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>:2e : 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>:1e : 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>:---:-------:--------------:</td>
+</tr>
+</tbody>
+</table>
 
-2 ans 3 mois
-
-8e échelon
-
-3 ans
-
-2 ans 3 mois
-
-7e échelon
-
-3 ans
-
-2 ans 3 mois
-
-6e échelon
-
-2 ans
-
-1 an 6 mois
-
-5e échelon
-
-2 ans
-
-1 an 6 mois
-
-4e échelon
-
-2 ans
-
-1 an 6 mois
-
-3e échelon
-
-2 ans
-
-1 an 6 mois
-
-2e échelon
-
-2 ans
-
-1 an 6 mois
-
-1er échelon
-
-2 ans
-
-1 an 6 mois
+I = GRADE ET ÉCHELON :
 
 Ingénieur électronicien principal des systèmes de la sécurité aérienne
 
-9e échelon
+II = DUREE Moyenne
 
-8e échelon
+III = DUREE Minimale
 
-4 ans
-
-3 ans
-
-7e échelon
-
-4 ans
-
-3 ans
-
-6e échelon
-
-3 ans
-
-2 ans 3 mois
-
-5e échelon
-
-3 ans
-
-2 ans 3 mois
-
-4e échelon
-
-3 ans
-
-2 ans 3 mois
-
-3e échelon
-
-2 ans
-
-1 an 6 mois
-
-2e échelon
-
-2 ans
-
-1 an 6 mois
-
-1er échelon
-
-1 an
-
-1 an
-
-Ingénieur électronicien des systèmes de la sécurité aérienne de classe normale
-
-10e échelon
-
-9e échelon
-
-3 ans
-
-2 ans 3 mois
-
-8e échelon
-
-3 ans
-
-2 ans 3 mois
-
-7e échelon
-
-3 ans
-
-2 ans 3 mois
-
-6e échelon
-
-3 ans
-
-2 ans 3 mois
-
-5e échelon
-
-3 ans
-
-2 ans 3 mois
-
-4e échelon
-
-2 ans
-
-1 an 6 mois
-
-3e échelon
-
-2 ans
-
-1 an 6 mois
-
-2e échelon
-
-2 ans
-
-1 an 6 mois
-
-1er échelon
-
-1 an
-
-1 an
+<table>
+<tbody>
+<tr>
+<td>:---:-------:--------------:</td>
+</tr>
+<tr>
+<td>: I : II : III :</td>
+</tr>
+<tr>
+<td>:---:-------:--------------:</td>
+</tr>
+<tr>
+<td>: 9e: : :</td>
+</tr>
+<tr>
+<td>: 8e: 4 ans : 3 ans :</td>
+</tr>
+<tr>
+<td>: 7e: 4 ans : 3 ans :</td>
+</tr>
+<tr>
+<td>: 6e: 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>: 5e: 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>: 4e: 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>: 3e: 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>: 2e: 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>: 1e: 1 an : 1 an :</td>
+</tr>
+<tr>
+<td>:---:-------:--------------:</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td>I = GRADE ET ÉCHELON : </td>
+</tr>
+<tr>
+<td>Ingénieur électronicien des systèmes de la sécurité aérienne de classe normale</td>
+</tr>
+<tr>
+<td>II = DUREE Moyenne</td>
+</tr>
+<tr>
+<td>III = DUREE Minimale</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td>:---:-------:--------------:</td>
+</tr>
+<tr>
+<td>: I : II : III :</td>
+</tr>
+<tr>
+<td>:---:-------:--------------:</td>
+</tr>
+<tr>
+<td>:10e: : :</td>
+</tr>
+<tr>
+<td>: 9e: 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>: 8e: 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>: 7e: 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>: 6e: 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>: 5e: 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td>: 4e: 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>: 3e: 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>: 2e: 2 ans : 1 an 6 mois :</td>
+</tr>
+<tr>
+<td>: 1e: 1 an : 1 an :</td>
+</tr>
+<tr>
+<td>:---:-------:--------------:</td>
+</tr>
+</tbody>
+</table>

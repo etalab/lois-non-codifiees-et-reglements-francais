@@ -1,0 +1,290 @@
+# Article 1
+
+L'échelonnement indiciaire applicable au corps des ingénieurs électroniciens des systèmes de la sécurité aérienne est fixé ainsi qu'il suit:
+
+<table>
+<tbody>
+<tr>
+<td valign="top" width="378">
+<p align="center">Grades</p>
+</td>
+<td valign="top" width="113">
+<p align="center">Echelons</p>
+</td>
+<td valign="top" width="113">
+<p align="center">Indices bruts</p>
+</td>
+</tr>
+<tr>
+<td rowspan="11" valign="top" width="378">
+<p>Ingénieur électronicien divisionnaire des systèmes de la sécurité aérienne</p>
+</td>
+<td valign="top" width="113">
+<p align="center">11e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">1015</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">10e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">962</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">9e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">916</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">8e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">855</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">7e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">818</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">6e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">788</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">5e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">755</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">4e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">710</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">3e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">660</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">2e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">630</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">1er</p>
+</td>
+<td valign="top" width="113">
+<p align="center">593</p>
+</td>
+</tr>
+<tr>
+<td rowspan="9" valign="top" width="378">
+<p>Ingénieur électronicien principal des systèmes de la sécurité aérienne</p>
+</td>
+<td valign="top" width="113">
+<p align="center">9e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">712</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">8e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">661</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">7e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">642</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">6e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">611</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">5e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">592</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">4e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">545</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">3e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">510</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">2e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">468</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">1er</p>
+</td>
+<td valign="top" width="113">
+<p align="center">440</p>
+</td>
+</tr>
+<tr>
+<td rowspan="10" valign="top" width="378">
+<p>Ingénieur électronicien des systèmes de la sécurité aérienne de classe normale</p>
+</td>
+<td valign="top" width="113">
+<p align="center">10e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">662</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">9e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">646</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">8e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">612</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">7e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">596</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">6e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">547</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">5e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">511</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">4e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">475</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">3e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">453</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">2e</p>
+</td>
+<td valign="top" width="113">
+<p align="center">413</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="113">
+<p align="center">1er</p>
+</td>
+<td valign="top" width="113">
+<p align="center">379</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Ingénieur stagiaire électronicien des systèmes de la sécurité aérienne</p>
+</td>
+<td valign="top" width="113">
+<p align="center">Echelon unique</p>
+</td>
+<td valign="top" width="113">
+<p align="center">359</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="378">
+<p>Elève ingénieur électronicien des systèmes de la sécurité aérienne</p>
+</td>
+<td valign="top" width="113">
+<p align="center">Echelon unique</p>
+</td>
+<td valign="top" width="113">
+<p align="center">340</p>
+</td>
+</tr>
+</tbody>
+</table>

@@ -1,15 +1,41 @@
 # Article 38
 
-Le grade d'aide technique principal de laboratoire comporte trois échelons.
+Le grade d'aide technique principal de laboratoire comporte six échelons.
 
 La durée moyenne et la durée minimale du temps passé dans chaque échelon sont fixées ainsi qu'il suit :
 
-ÉCHELON
+I = ÉCHELONS
 
-DURÉE
+II =  DUREE Moyenne
 
-Moyenne Minimale
+III = DUREE Minimale
 
-2e  échelon. 4 ans 3 ans
-
-1er échelon.  ans 2 ans
+<table>
+<tr>
+<td> :----:------------:-----------:</td>
+</tr>
+<tr>
+<td> :  I :     II     :   III     :</td>
+</tr>
+<tr>
+<td> :----:------------:-----------:</td>
+</tr>
+<tr>
+<td> : 5e : 4 ans      : 3 ans     :</td>
+</tr>
+<tr>
+<td> : 4e : 3 ans 6 ms : 2 ans 9 ms:</td>
+</tr>
+<tr>
+<td> : 3e : 3 ans 6 ms : 2 ans 9 ms:</td>
+</tr>
+<tr>
+<td> : 2e : 2 ans 6 ms : 2 ans     :</td>
+</tr>
+<tr>
+<td> :1er : 2 ans 6 ms : 2 ans     :</td>
+</tr>
+<tr>
+<td> :----:------------:-----------:</td>
+</tr>
+</table>

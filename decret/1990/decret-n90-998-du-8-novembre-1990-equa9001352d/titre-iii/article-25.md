@@ -2,182 +2,158 @@
 
 La durée moyenne et la durée minimale du temps passé dans chacun des échelons des trois grades d'ingénieur du contrôle de la navigation aérienne sont fixées comme suit :
 
-GRADE ET ÉCHELON
-
-DURÉE
-
-Moyenne
-
-Minimale
-
-Ingénieur divisionnaire du contrôle
-
-de la navigation aérienne
-
-9e échelon
-
-2 ans
-
-1 an 6 mois
-
-8e échelon
-
-2 ans
-
-1 an 6 mois
-
-7e échelon
-
-2 ans
-
-1 an 6 mois
-
-6e échelon
-
-2 ans
-
-1 an 6 mois
-
-5e échelon
-
-2 ans
-
-1 an 6 mois
-
-4e échelon
-
-2 ans
-
-1 an 6 mois
-
-3e échelon
-
-2 ans
-
-1 an 6 mois
-
-2e échelon
-
-2 ans
-
-1 an 6 mois
-
-1er échelon
-
-1 an
-
-1 an
-
-Ingénieur principal du contrôle
-
-de la navigation aérienne
-
-9e échelon
-
-8e échelon
-
-3 ans
-
-2 ans 3 mois
-
-7e échelon
-
-3 ans
-
-2 ans 3 mois
-
-6e échelon
-
-3 ans
-
-2 ans 3 mois
-
-5e échelon
-
-3 ans
-
-2 ans 3 mois
-
-4e échelon
-
-3 ans
-
-2 ans 3 mois
-
-3e échelon
-
-2 ans
-
-1 an 6 mois
-
-2e échelon
-
-2 ans
-
-1 an 6 mois
-
-1er échelon
-
-1 an
-
-1 an
-
-Ingénieur du contrôle de la navigation
-
-aérienne de classe normale
-
-10e échelon
-
-9e échelon
-
-3 ans
-
-2 ans 3 mois
-
-8e échelon
-
-3 ans
-
-2 ans 3 mois
-
-7e échelon
-
-3 ans
-
-2 ans 3 mois
-
-6e échelon
-
-3 ans
-
-2 ans 3 mois
-
-5e échelon
-
-3 ans
-
-2 ans 3 mois
-
-4e échelon
-
-2 ans
-
-1 an 6 mois
-
-3e échelon
-
-2 ans
-
-1 an 6 mois
-
-2e échelon
-
-2 ans
-
-1 an 6 mois
-
-1er échelon
-
-1 an
-
-1 an
+I = GRADE ET ÉCHELON :
+
+Ingénieur divisionnaire du contrôle de la navigation aérienne
+
+II = DUREE Moyenne
+
+III = DUREE Minimale
+
+<table>
+<tr>
+<td> :------:-------:-------------:</td>
+</tr>
+<tr>
+<td> :  I   :   II  :     III     :</td>
+</tr>
+<tr>
+<td> :------:-------:-------------:</td>
+</tr>
+<tr>
+<td> :10e éc:       :             :</td>
+</tr>
+<tr>
+<td> :9e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :8e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :7e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :6e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :5e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :4e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :3e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :2e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :1e éch: 1 an  : 1 an        :</td>
+</tr>
+<tr>
+<td> :------:-------:-------------:</td>
+</tr>
+</table>
+
+I = GRADE ET ÉCHELON :
+
+Ingénieur principal du contrôle de la navigation aérienne
+
+II = DUREE Moyenne
+
+III = DUREE Minimale
+
+<table>
+<tr>
+<td> :------:-------:-------------:</td>
+</tr>
+<tr>
+<td> :  I   :   II  :     III     :</td>
+</tr>
+<tr>
+<td> :------:-------:-------------:</td>
+</tr>
+<tr>
+<td> :9e éch:       :             :</td>
+</tr>
+<tr>
+<td> :8e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :7e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :6e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :5e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :4e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :3e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :2e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :1e éch: 1 an  : 1 an        :</td>
+</tr>
+<tr>
+<td> :------:-------:-------------:</td>
+</tr>
+</table>
+
+I = GRADE ET ÉCHELON :
+
+Ingénieur du contrôle de la navigation aérienne de classe normale
+
+II = DUREE Moyenne
+
+III = DUREE Minimale
+
+<table>
+<tr>
+<td> :------:-------:-------------:</td>
+</tr>
+<tr>
+<td> :  I   :   II  :     III     :</td>
+</tr>
+<tr>
+<td> :------:-------:-------------:</td>
+</tr>
+<tr>
+<td> :10e éc:       :             :</td>
+</tr>
+<tr>
+<td> :9e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :8e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :7e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :6e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :5e éch: 3 ans : 2 ans 3 mois:</td>
+</tr>
+<tr>
+<td> :4e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :3e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :2e éch: 2 ans : 1 an  6 mois:</td>
+</tr>
+<tr>
+<td> :1e éch: 1 an  : 1 an        :</td>
+</tr>
+<tr>
+<td> :------:-------:-------------:</td>
+</tr>
+</table>

@@ -6,23 +6,15 @@ GRADES
 
 CLASSEMENT hiérarchique (indices bruts)
 
-Ingénieur électronicien divisionnaire des systèmes de la sécurité aérienne
+Ingénieur électronicien divisionnaire des systèmes de la sécurité aérienne : 593-1015
 
-593-962
+ingénieur électronicien principal des systèmes de la sécurité aérienne : 440-712
 
-ingénieur électronicien principal des systèmes de la sécurité aérienne
+Ingénieur électronicien des systèmes de la sécurité aérienne de classe normale : 379-662
 
-440-712
+Ingénieur électronicien stagiaire des systèmes de la sécurité aérienne : 359
 
-Ingénieur électronicien des systèmes de la sécurité aérienne de classe normale
-
-379-662
-
-Ingénieur électronicien stagiaire des systèmes de la sécurité aérienne
-
-359
-
-Elève ingénieur électronicien des systèmes de la sécurité aérienne
+Elève ingénieur électronicien des systèmes de la sécurité aérienne :
 
 340
 
