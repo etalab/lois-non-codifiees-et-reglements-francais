@@ -1,6 +1,8 @@
 # 1996
 
 - [Décret n°96-96 du 1 février 1996 (TASS9523378D)](decret-n96-96-du-1-fevrier-1996-tass9523378d)
+- [Décret n°96-102 du 2 février 1996 (ENVE9530063D)](decret-n96-102-du-2-fevrier-1996-enve9530063d)
+- [Décret n°96-103 du 2 février 1996 (MCCB9500661D)](decret-n96-103-du-2-fevrier-1996-mccb9500661d)
 - [Décret n°96-8 du 2 janvier 1996 (MAEJ9530115D)](decret-n96-8-du-2-janvier-1996-maej9530115d)
 - [Décret n°96-86 du 2 février 1996 (TASS9620210D)](decret-n96-86-du-2-fevrier-1996-tass9620210d)
 - [Décret n°96-14 du 3 janvier 1996 (DEFP9502236D)](decret-n96-14-du-3-janvier-1996-defp9502236d)
