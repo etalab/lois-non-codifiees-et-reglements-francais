@@ -247,7 +247,6 @@
 - [Arrêté du 7 novembre 1994 (SPSN9402965A)](arrete-du-7-novembre-1994-spsn9402965a)
 - [Arrêté du 7 octobre 1994 (ECOT9410221A)](arrete-du-7-octobre-1994-ecot9410221a)
 - [Arrêté du 7 octobre 1994 (INDP9401138A)](arrete-du-7-octobre-1994-indp9401138a)
-- [Arrêté du 7 octobre 1994 (MJSK9470133A)](arrete-du-7-octobre-1994-mjsk9470133a)
 - [Arrêté du 7 septembre 1994 (DEFP9401655A)](arrete-du-7-septembre-1994-defp9401655a)
 - [Arrêté du 8 août 1994 (AGRG9401585A)](arrete-du-8-aout-1994-agrg9401585a)
 - [Arrêté du 8 août 1994 (ECOC9400087A)](arrete-du-8-aout-1994-ecoc9400087a)
