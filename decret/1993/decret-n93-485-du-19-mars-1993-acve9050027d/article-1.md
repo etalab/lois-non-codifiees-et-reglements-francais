@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents de l'Office national des anciens combattants et victimes de guerre qui occupent un emploi présentant les caractéristiques définies à l'article 3 de la loi du 13 juillet 1983 susvisée et qui remplissent les conditions énumérées à l'article 73 de la loi du 11 janvier 1984 susvisée ont vocation à être titularisés, sur leur demande, dans le corps des secrétaires administratifs des services départementaux de l'Office national des anciens combattants et victimes de guerre en application des dispositions de l'article 80 de cette dernière loi, dans les conditions fixées au tableau de correspondance annexé au présent décret.

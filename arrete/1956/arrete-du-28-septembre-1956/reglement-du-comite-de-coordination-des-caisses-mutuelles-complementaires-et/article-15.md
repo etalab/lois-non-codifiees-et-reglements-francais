@@ -1,6 +1,6 @@
 # Article 15
 
-Le comité de coordination élit chaque année, au début de la session ordinaire, dans son sein et au scrutin secret, un président et trois vice-présidents, un secrétaire et un secrétaire adjoint.
+Le comité de coordination élit chaque année, au début de la session ordinaire, dans son sein et au scrutin secret, un président et deux vice-présidents, un secrétaire et un secrétaire adjoint, un trésorier et un trésorier adjoint.
 
 Les mandats du président, des vice-présidents, du secrétaire et du secrétaire adjoint sont renouvelables.
 

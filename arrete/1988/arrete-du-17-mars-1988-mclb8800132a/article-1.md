@@ -12,6 +12,6 @@ b) Rédaction d'une note à partir soit d'un dossier, soit de textes législatif
 
 a) Interrogation portant sur les activités des collectivités locales. Le candidat choisira l'une des options suivantes :
 
-Administration générale, Finances, Comptabilité et statistiques, Urbanisme et environnement, Informatique (durée : dix minutes) ;
+Administration générale, Finances, Comptabilité et statistiques, Urbanisme et environnement, Informatique, Action sanitaire et sociale (durée : dix minutes) ;
 
 b) Conversation avec les membres du jury sur des questions de culture générale en relation avec l'action administrative locale (durée : dix minutes).

@@ -2,7 +2,7 @@
 
 Le comité d'orientation du fonds forestier national comprend :
 
-1° Six représentants de l'administration :
+1° Sept représentants de l'administration :
 
 - le directeur de l'espace rural et de la forêt, président ;
 
