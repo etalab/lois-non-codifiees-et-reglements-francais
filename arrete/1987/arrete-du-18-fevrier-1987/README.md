@@ -1,8 +1,3 @@
-# Arrêté du 18 février 1987 fixant la rémunération des médecins inspecteurs régionaux de la jeunesse et des sports
+# Arrêté du 18 février 1987 modifiant l'arrêté du 25 mai 1973 fixant les conditions de recrutement, de nomination et de promotion de certains personnels des établissements relevant des services départementaux de l'aide sociale à l'enfance.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
 - [Article 9](article-9.md)
