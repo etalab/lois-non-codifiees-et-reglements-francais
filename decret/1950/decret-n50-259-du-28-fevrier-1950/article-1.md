@@ -1,0 +1,3 @@
+# Article 1
+
+Les représentants des travailleurs, en activité ou en retraite, au sein des conseils d'administration des sociétés mutualistes ou des caisses de prévoyance qui ont été admises à assurer, au lieu et place du régime général des assurances sociales, des avantages en cas de maladie, longue maladie, maternité, décès ou invalidité (soins) aux salariés des collectivités ou entreprises visées à l'article 61 du décret du 8 juin 1946 susvisé ou relevant de l'article 65 dudit décret, sont désignés directement par les adhérents desdites sociétés ou caisses par voie d'élection à la représentation proportionnelle suivant la méthode dite de la plus forte moyenne.
