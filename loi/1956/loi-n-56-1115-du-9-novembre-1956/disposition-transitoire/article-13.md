@@ -1,0 +1,3 @@
+# Article 13
+
+Les corps d'officiers de justice militaire et d'officiers de justice maritime, les corps d'officiers greffiers de justice militaire et de justice maritime, les cadres des sous-officiers commis greffiers et d'officiers mariniers commis greffiers, le cadre des sous-officiers huissiers appariteurs, institués par les lois des 9 mars 1928 et 13 janvier 1938 seront dissous à une date qui sera fixée par décret. Les personnels de ces corps et cadres nouveaux crées, à la classe correspondant au grade qu'ils détenaient dans leur ancien corps ou cadre et avec le maintien de leur ancienneté dans ce cadre.
