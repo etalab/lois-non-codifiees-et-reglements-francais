@@ -1,3 +1,5 @@
 # Article 2
 
-Les prix des prestations de services comportant un voyage ou un séjour exécuté hors du territoire national peuvent, jusqu'au 1er novembre 1982, être révisés, lorsqu'une modification des cours des changes postérieure au 11 juin 1982 entraîne un accroissement des coûts du voyage ou du séjour, dans les conditions prévues ci-après. Lorsque la modification des cours des changes entraîne une diminution du coût du voyage ou du séjour, cette diminution doit être répercutée sur le prix dans les conditions prévues à l'article 4 ci-après.
+Le crédit d'équipement des petites et moyennes entreprises émettra autant d'obligations de la deuxième tranche qu'il lui sera présenté de bons de souscription durant la période d'exercice du droit qui y est attaché.
+
+A l'issue de cette période d'exercice, si une partie des droits de souscription n'était pas exercée, le montant nomimal de l'emprunt se trouverait réduit d'un montant équivalent au nominal des obligations auxquelles ils auraient donné droit. Si aucun des bons de souscription n'était présenté, l'émission de la deuxième tranche ne serait pas réalisée.

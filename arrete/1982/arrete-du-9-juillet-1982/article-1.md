@@ -1,3 +1,3 @@
 # Article 1
 
-L'arrêté n° 81-28/A du 4 mai 1981 relatif à la publicité des prix des voyages et séjours et l'arrêté n° 82-18/A du 14 juin 1982, sont complétés, pour les prix des voyages et séjours, par les dispositions suivantes.
+Le crédit d'équipement des petites et moyennes entreprises est autorisé à émettre un emprunt obligataire d'un montant nominal maximum de 1.600 millions de francs dont la première tranche sera représentée par 160.000 obligations de 5.000 F nominal assorties de bons de souscription qui donneront droit à la souscription d'une deuxième tranche réservée exclusivement aux détenteurs de ces bons dans les conditions fixées au présent arrêté.

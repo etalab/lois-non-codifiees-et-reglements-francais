@@ -1,5 +1,5 @@
 # Article 4
 
-La révision prévue à l'article 2 ne peut intervenir que si la variation du cours d'achat, par rapport à celui indiqué sur l'engagement, avait pour effet d'augmenter le prix total du voyage de plus de 3 p. 100.
+Les obligations de la première tranche, assorties de bons de souscription, seront émises à 95,10 p. 100 du nomimal, soit 4.755 F ; leur durée maximale sera de douze ans.
 
-Cette révision ne peut dépasser, en pourcentage, le pourcentage de hausse résultant de cette augmentation diminué de trois points.
+Ces obligations rapporteront un intérêt annuel de 15,30 p. 100, soit 765 F par titre, payable en une seule fois le 26 juillet de chaque année, le premier coupon venant à échéance le 26 juillet 1983. La date de jouissance est fixée au 26 juillet 1982. Compte tenu des caractéristiques de l'emprunt, le taux de rendement actuariel brut, à la date de l'émission, ressortira pour les souscripteurs à 16,23 p. 100.
