@@ -1,0 +1,3 @@
+# Article 4
+
+Les modèles types et leurs variantes dont la première commercialisation est antérieure à la date de publication mentionnée à l'article 3 et qui n'ont pas été établis par un architecte doivent être déposés dans les directions départementales de l'équipement et, à Paris, à la direction de l'urbanisme et des équipements. Passé un délai de six mois à compter de la publication du présent décret, tout contrat, tout document administratif, commercial ou publicitaire relatif à ces modèles types ou leurs variantes doit mentionner l'année de leur première commercialisation ainsi que leur numéro de dépôt.
