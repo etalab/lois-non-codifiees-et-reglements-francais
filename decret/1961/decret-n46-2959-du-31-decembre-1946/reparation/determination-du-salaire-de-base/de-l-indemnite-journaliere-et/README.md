@@ -1,3 +1,0 @@
-# DE L'INDEMNITE JOURNALIERE ET DES RENTES.
-
-- [Article 103](article-103.md)
