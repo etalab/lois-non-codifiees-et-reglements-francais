@@ -17,3 +17,5 @@ Il est informé, à sa demande :
 Des produits utilisés ainsi que de leurs modalités d'emploi, indépendamment des dispositions de l'article L. 231-7 du code du travail et des règlements pris pour son application ;
 
 Des résultats de toutes les mesures et analyses effectuées dans les domaines visés à l'article 22.
+
+Il peut également demander à tout moment communication des documents mentionnés à l'article L. 620-6, premier alinéa, du code du travail.
