@@ -1,4 +1,0 @@
-# Arrêté du 22 septembre 1982 RELATIF AU MONTANT DE L'AIDE FORFAITAIRE PREVUE A L'ARTICLE 5 DU DECRET 804 RELATIF AU CONTRAT EMPLOI-FORMATION
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
