@@ -7,3 +7,4 @@
 - [Loi n° 75-3 du 3 janvier 1975](loi-n-75-3-du-3-janvier-1975)
 - [Loi n°73-624 du 10 juillet 1973](loi-n73-624-du-10-juillet-1973)
 - [Loi n°74-639 du 12 juillet 1974](loi-n74-639-du-12-juillet-1974)
+- [Loi n°74-908 du 29 octobre 1974](loi-n74-908-du-29-octobre-1974)
