@@ -1,6 +1,6 @@
 # Article 117-1
 
-Les caisses des règlements pécuniaires des avocats tiennent une comptabilité annuelle de la gestion des fonds de l'aide juridictionnelle, de l'aide à l'intervention de l'avocat du cours de la garde à vue, de la médiation et de la composition pénales ainsi que de la mesure définie à l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
+Les caisses des règlements pécuniaires des avocats tiennent une comptabilité annuelle de la gestion des fonds de l'aide juridictionnelle, de l'aide à l'intervention de l'avocat au cours de la garde à vue, de la médiation et de la composition pénales, de l'aide à l'intervention de l'avocat pour l'assistance aux détenus au cours de procédures disciplinaires ainsi que de la mesure définie à l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante.
 
 Elles enregistrent dans les conditions fixées par arrêté du garde des sceaux, ministre de la justice :
 
