@@ -6,6 +6,6 @@ Le montant des redevances cynégétiques est fixé ainsi qu'il suit à compter d
 
 - redevance cynégétique départementale     204,50 F
 
-- redevance cynégétique gibier d'eau     85,00 F
+- redevance cynégétique gibier d'eau     88,00 F
 
 - redevance cynégétique nationale grand gibier     250,00 F
