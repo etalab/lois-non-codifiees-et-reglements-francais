@@ -110,7 +110,6 @@
 - [Décret n°83-644 du 8 juillet 1983](decret-n83-644-du-8-juillet-1983)
 - [Décret n°87-11 du 8 janvier 1987](decret-n87-11-du-8-janvier-1987)
 - [Décret n°87-249 du 8 avril 1987 (INTD8700094D)](decret-n87-249-du-8-avril-1987-intd8700094d)
-- [Décret n°87-253 du 8 avril 1987 (ECOM8740013D)](decret-n87-253-du-8-avril-1987-ecom8740013d)
 - [Décret n°87-506 du 8 juillet 1987 (RESK8700342D)](decret-n87-506-du-8-juillet-1987-resk8700342d)
 - [Décret n°87-528 du 8 juillet 1987 (ASES8700983D)](decret-n87-528-du-8-juillet-1987-ases8700983d)
 - [Décret n°87-743 du 8 septembre 1987](decret-n87-743-du-8-septembre-1987)
