@@ -1,4 +1,4 @@
-# Arrêté du 22 octobre 1982 fixant les dispositifs amovibles de sécurité des circuits d'alimentation en gaz médicaux et pièces intermédiaires des systèmes respiratoires
+# Décret du 29 octobre 1982 portant institution d'un comité d'allégement des prescriptions et procédures techniques.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

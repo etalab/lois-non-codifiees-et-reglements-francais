@@ -1,3 +1,3 @@
 # Article 1
 
-Sont transférés de plein droit à la société nationale de programme de télévision créée par le décret du 17 septembre 1982 susvisé les droits, biens et obligations de la société nationale créée par l'article 8 de la loi n° 74-696 du 7 août 1974 et dénommée Télévision française 1, sous réserve de dispositions particulières qui pourront faire l'objet d'arrêtés interministériels pris avant le 31 juillet 1983.
+Sont admis aux dispositions de l'article 2 ci-après les appareils à pression de vapeur soumis, en raison de leurs caractéristiques de volume et de pression de service, aux dispositions du décret du 2 avril 1926 susvisé, constitués pour l'essentiel de tubes et de coudes placés dans un four à flamme et dont le timbre est au plus égal à 10 bars et la température maximale en service au moins égale à 700 °C.
