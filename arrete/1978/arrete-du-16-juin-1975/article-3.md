@@ -2,7 +2,7 @@
 
 Les coefficients d'équivalence et les seuils d'application valant abattement à la base, applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
 
-VIC-BILH
+CAUSSES DU QUERCY, MONTS DE LACAUNE
 
 NATURE DE L'ELEVAGE :
 
@@ -10,11 +10,11 @@ I. Aviculture et cuniculiculture
 
 Equivalence en ares pour 1 m2 de clapier ou de poulailler
 
-Poules pondeuses : 1,6 a
+Poules pondeuses : 2,2 a
 
-Poulets de chair : 0,8 a
+Poulets de chair : 1,1 a
 
-Lapins : 3,9 a
+Lapins : 5,4 a
 
 NATURE DE L'ELEVAGE :
 
@@ -22,15 +22,15 @@ II. Elevages porcin et bovin
 
 Equivalence en hectares par animal
 
-Truies (naisseurs) : 0,24 ha
+Truies (naisseurs) : 0,33 ha
 
-Truies (naisseurs-engraisseurs) : 0,48 ha
+Truies (naisseurs-engraisseurs) : 0,66 ha
 
-Porcs à l'engrais : 0,019 ha
+Porcs à l'engrais : 0,027 ha
 
-Veaux en batterie : 0,039 ha
+Veaux en batterie : 0,054 ha
 
-COTEAUX DU PAYS BASQUE, COTEAUX DU BEARN, CHALOSSE, COTEAUX ENTRE LES GAVES
+RESTE DU DEPARTEMENT
 
 NATURE DE L'ELEVAGE :
 
@@ -57,34 +57,6 @@ Truies (naisseurs-engraisseurs) : 0,50 ha
 Porcs à l'engrais : 0,020 ha
 
 Veaux en batterie : 0,045 ha
-
-RESTE DU DEPARTEMENT
-
-NATURE DE L'ELEVAGE :
-
-I. Aviculture et cuniculiculture
-
-Equivalence en ares pour 1 m2 de clapier ou de poulailler
-
-Poules pondeuses : 1,4 a
-
-Poulets de chair : 0,7 a
-
-Lapins : 3,5 a
-
-NATURE DE L'ELEVAGE :
-
-II. Elevages porcin et bovin
-
-Equivalence en hectares par animal
-
-Truies (naisseurs) : 0,20 ha
-
-Truies (naisseurs-engraisseurs) : 0,40 ha
-
-Porcs à l'engrais : 0,017 ha
-
-Veaux en batterie : 0,035 ha
 
 SEUILS D'APPLICATION VALANT ABATTEMENT A LA BASE
 

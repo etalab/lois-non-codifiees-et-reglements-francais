@@ -1,9 +1,7 @@
 # Article 4
 
-Les équivalences pour 1 hectare de polyculture ainsi que les seuils d'application valant abattement à la base sont fixés ainsi qu'il suit pour les productions particulières suivantes du département :
+Les superficies maxima des cumuls visées à l'article 188-1 du Code rural sont fixées ainsi qu'il suit (en hectares) :
 
-Dindes de Noël : 150 têtes par an ;
+Monts de Lacaune et Causses du Quercy : 100
 
-Oies (production de foie gras) : 60 têtes par an ;
-
-Canards (production de foie gras) : 120 têtes par an.
+Reste du département : 60.

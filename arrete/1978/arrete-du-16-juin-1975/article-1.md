@@ -1,9 +1,7 @@
 # Article 1
 
-Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées comme suit pour le département des Pyrénées-Atlantiques (en hectares) :
+Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département du Tarn (en hectares) :
 
-Vic-Bilh : 18
+Causses du Quercy et Monts de Lacaune : 25
 
-Coteaux du pays basque, coteaux du Béarn, Chalosse, coteaux entre les Gaves : 20
-
-Reste du département : 15,40.
+Reste du département : 20.

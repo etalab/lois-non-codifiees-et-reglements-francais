@@ -1,9 +1,7 @@
 # Article 5
 
-Les superficies maxima des cumuls visées à l'article 188-1 du Code rural sont fixées pour l'ensemble du département à 2,5 fois la superficie minimum d'installation, soit (en hectares) :
+Tout cumul ou toute réunion d'exploitations ou de fonds agricoles est soumis à autorisation préalable lorsqu'il a pour conséquence :
 
-Vic Bilh : 45
+Soit de réduire de plus de 30 % sans l'accord de l'exploitant, par un ou plusieurs retraits successifs, la superficie des terres mises en valeur par un même agriculteur lorsque cette superficie ainsi réduite est ramenée en deçà de la superficie maximum visée à l'article 4 du présent arrêté ou qu'elle est déjà inférieure à cette superficie ;
 
-Coteaux du pays basque, coteaux du Béarn, Chalosse, coteaux entre les Gaves : 50
-
-Reste du département : 38.
+Soit de priver l'exploitation d'un bâtiment essentiel à son fonctionnement à moins que ce bâtiment ne soit reconstruit ou remplacé.

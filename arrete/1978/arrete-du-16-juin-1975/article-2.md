@@ -2,30 +2,32 @@
 
 Les coefficients d'équivalence applicables aux cultures spécialisées visées à l'article 188-3 du Code rural sont fixés comme suit :
 
-Cultures légumières de plein champ : 5
+Maraîchage intensif de plein air : 15
 
-Cultures maraîchères de plein air : 11
+Maraîchage sous abri : 30
 
-Cultures maraîchères sous serres froides : 20
-
-Cultures maraîchères sous serres chauffées : 60
-
-Vignes C.C. : 2,5
-
-Vignes A.O.C. : 3,5
+Maraîchage sous serres chauffées : 100
 
 Cultures fruitières : 4
 
-Fraises plein champ : 5
+Vignes C.C. : 2,5
 
-Cultures florales : 15
+Vignes A.O.C. : 4
+
+Pépinières : 15
+
+Cultures florales de plein air : 20
+
+Cultures florales sous abris : 30
+
+Cultures florales sous serres chauffées : 100
+
+Terres et prés irrigués : 1,5
+
+Ail : 5
 
 Tabac : 6
 
-Maïs-semence : 1,5
-
-Pisciculture en bassins : 180
-
 Landes : 0,2
 
-Pépinières : 8.
+Salmoniculture : 200.
