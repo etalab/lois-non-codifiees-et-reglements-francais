@@ -441,7 +441,6 @@
 - [Arrêté du 24 février 1988 (AGRE8800480A)](arrete-du-24-fevrier-1988-agre8800480a)
 - [Arrêté du 24 février 1988 (DEFC8801136A)](arrete-du-24-fevrier-1988-defc8801136a)
 - [Arrêté du 24 février 1988 (TRSA8800144A)](arrete-du-24-fevrier-1988-trsa8800144a)
-- [Arrêté du 24 mars 1988 (MCCK8800184A)](arrete-du-24-mars-1988-mcck8800184a)
 - [Arrêté du 24 novembre 1987 (ENVN8700240A)](arrete-du-24-novembre-1987-envn8700240a)
 - [Arrêté du 24 novembre 1987 (ENVN8700241A)](arrete-du-24-novembre-1987-envn8700241a)
 - [Arrêté du 24 novembre 1988 (PTTP8801027A)](arrete-du-24-novembre-1988-pttp8801027a)
