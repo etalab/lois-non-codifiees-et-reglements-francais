@@ -138,6 +138,7 @@
 - [Arrêté du 18 janvier 1999 (DEFP9901132A)](arrete-du-18-janvier-1999-defp9901132a)
 - [Arrêté du 18 janvier 1999 (ECOT9920004A)](arrete-du-18-janvier-1999-ecot9920004a)
 - [Arrêté du 18 janvier 1999 (INTD9900039A)](arrete-du-18-janvier-1999-intd9900039a)
+- [Arrêté du 18 mars 1999 (MESG9823297A)](arrete-du-18-mars-1999-mesg9823297a)
 - [Arrêté du 19 février 1999 (DEFI9953002A)](arrete-du-19-fevrier-1999-defi9953002a)
 - [Arrêté du 19 février 1999 (ECOF9920886A)](arrete-du-19-fevrier-1999-ecof9920886a)
 - [Arrêté du 19 février 1999 (MENR9900213A)](arrete-du-19-fevrier-1999-menr9900213a)
