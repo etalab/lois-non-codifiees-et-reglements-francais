@@ -17,3 +17,5 @@ d) Un membre de conseil d'administration ou un directeur d'établissement d'hosp
 Le mandat de la commission est de cinq ans.
 
 Les modalités de représentation des différentes disciplines, d'organisation des élections, de désignation des membres ainsi que les conditions de fonctionnement de la commission et l'adaptation de sa composition aux structures administratives des départements d'outre-mer, sont fixées par arrêté du ministre chargé de la santé.
+
+Chaque commission paritaire régionale est tenue informée de la durée des services accomplis dans des postes à recrutement prioritaire en application de l'article 3-1 ci-dessus.
