@@ -1,0 +1,3 @@
+# Article 1
+
+Le transfert de la propriété de la Compagnie générale maritime au secteur privé s'effectuera par la cession à la Compagnie maritime d'affrètement de 11 483 537 actions de la Compagnie générale maritime pour un prix total de 18 000 000 F, à M. Jacques Saadé de 765 569 actions de la Compagnie générale maritime pour un prix total de 1 200 000 F, à la société en nom collectif Louis Dreyfus armateurs de 255 190 actions de la Compagnie générale maritime pour un prix total de 400 000 F, à M. Tristan Vieljeux de 127 595 actions de la Compagnie générale maritime pour un prix total de 200 000 F, et à M. Farid Salem de 127 595 actions de la Compagnie générale maritime pour un prix total de 200 000 F.

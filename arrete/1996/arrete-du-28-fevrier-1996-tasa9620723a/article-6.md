@@ -18,7 +18,7 @@ Le jury est nommé par arrêté du ministre chargé de l'action sociale. Il comp
 
 - quatre membres du personnel de direction des établissements mentionnés à l'article 2 (4°, 5° et 6°) de la loi du 9 janvier 1986 susvisée, désignés par le ministre chargé des affaires sociales ;
 
-- deux professeurs ou maîtres de conférences ou maîtres-assistants choisis parmi les enseignants des disciplines suivantes : droit, sciences économiques.
+- un professeur ou maître de conférences ou maître-assistant choisi parmi les enseignants des disciplines suivantes : droit, sciences économiques.
 
 Il pourra être fait appel, en cas de nécessité, à des fonctionnaires en retraite.
 
