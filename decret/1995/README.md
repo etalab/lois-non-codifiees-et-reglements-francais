@@ -557,6 +557,7 @@
 - [Décret n°95-318 du 22 mars 1995 (DEFP9501226D)](decret-n95-318-du-22-mars-1995-defp9501226d)
 - [Décret n°95-320 du 22 mars 1995 (TEFE9500119D)](decret-n95-320-du-22-mars-1995-tefe9500119d)
 - [Décret n°95-323 du 22 mars 1995 (DOMP9500007D)](decret-n95-323-du-22-mars-1995-domp9500007d)
+- [Décret n°95-811 du 22 juin 1995 (PRMX9500102D)](decret-n95-811-du-22-juin-1995-prmx9500102d)
 - [Décret n°95-190 du 23 février 1995 (MAEC9510001D)](decret-n95-190-du-23-fevrier-1995-maec9510001d)
 - [Décret n°95-192 du 23 février 1995 (RESK9500125D)](decret-n95-192-du-23-fevrier-1995-resk9500125d)
 - [Décret n°95-193 du 23 février 1995 (DOME9500004D)](decret-n95-193-du-23-fevrier-1995-dome9500004d)
