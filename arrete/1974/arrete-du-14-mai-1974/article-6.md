@@ -1,15 +1,5 @@
 # Article 6
 
-Le budget du centre national n'est exécutoire qu'après approbation des deux ministres. Les ressources du centre national comprennent :
+Les propositions de la commission sont soumises au ministre des armées.
 
-1) La cotisation des adhérents.
-
-2) Les subventions du ministère de l'industrie, du commerce et de l'artisanat et du ministère de la santé publique et de la sécurité sociale ainsi que de toutes autres administrations ou collectivités publiques ou privées.
-
-3) La rémunération des travaux d'études et de recherches entrepris conformément aux dispositions de l'article 2 ci-dessus.
-
-4) Toutes aides et contributions financières légalement autorisées.
-
-5) Le produit des ventes des publications éditées par le centre et celui des manifestations organisées par ses soins.
-
-6) Les revenus des biens et valeurs lui appartenant.
+Le détail des listes des matériels, armes et munitions entrant dans les catégories 1, 2, 3, 4, 5 et 6 définies par l'article 1er du décret n° 73-364 du 12 mars 1973 et soumises à prohibition à l'importation est fixé par arrêtés conjoints du ministre des armées et du ministre de l'économie et des finances.

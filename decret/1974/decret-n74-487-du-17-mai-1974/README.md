@@ -1,4 +1,4 @@
-# Arrêté du 14 mai 1974 relatif à l'application de l'article 3 du décret n° 73-364 du 12 mars 1973 fixant le régime des matériels de guerre, armes et munitions
+# Décret n°74-487 du 17 mai 1974 TENDANT A DIVERSES MESURES EN FAVEUR DES FRANCAIS D'OUTRE-MER TITULAIRES DE RENTES D'ACCIDENTS DU TRAVAIL.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
