@@ -78,7 +78,6 @@
 - [Décret n°97-832 du 4 septembre 1997 (MENU9702434D)](decret-n97-832-du-4-septembre-1997-menu9702434d)
 - [Décret n°97-833 du 4 septembre 1997 (ECOF9700028D)](decret-n97-833-du-4-septembre-1997-ecof9700028d)
 - [Décret n°97-834 du 4 septembre 1997 (ECOI9700370D)](decret-n97-834-du-4-septembre-1997-ecoi9700370d)
-- [Décret n°96-1050 du 5 décembre 1996 (TASP9624127D)](decret-n96-1050-du-5-decembre-1996-tasp9624127d)
 - [Décret n°97-1011 du 5 novembre 1997 (INTA9700301D)](decret-n97-1011-du-5-novembre-1997-inta9700301d)
 - [Décret n°97-1016 du 5 novembre 1997 (ECOC9700164D)](decret-n97-1016-du-5-novembre-1997-ecoc9700164d)
 - [Décret n°97-1028 du 5 novembre 1997 (EQUH9701331D)](decret-n97-1028-du-5-novembre-1997-equh9701331d)
