@@ -6,6 +6,8 @@ Nul ne peut, d'une manière habituelle, se livrer ou prêter son concours, même
 
 2° Vol, recel, escroquerie, abus de confiance, banqueroute, extorsion de fonds, valeurs ou signatures, délits punis des peines de l'escroquerie, de l'abus de confiance ou de la banqueroute ;
 
+2° bis Infractions punies des peines prévues à l'article L. 121-28 ou à l'article L. 213-1 du code de la consommation ;
+
 3° Emission de mauvaise foi de chèque sans provision, usure et délit réprimés par l'article 15 de la loi n° 66-1010 du 28 décembre 1966 relative à l'usure, aux prêts d'argent et à certaines opérations de démarchage et de publicité ;
 
 4° Soustraction commise par dépositaire public, concussion commise par fonctionnaire public, corruption de fonctionnaires publics et des employés des entreprises privées, communications de secrets de fabrique ;

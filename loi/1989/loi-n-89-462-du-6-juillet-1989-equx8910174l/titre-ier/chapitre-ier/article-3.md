@@ -2,7 +2,9 @@
 
 Le contrat de location est établi par écrit. Il doit préciser :
 
-- sa date de prise d'effet et sa durée ;
+- le nom ou la dénomination du bailleur et son domicile ou son siège social, ainsi que, le cas échéant, ceux de son mandataire ;
+
+- la date de prise d'effet et la durée ;
 
 - la consistance et la destination de la chose louée ;
 
@@ -12,7 +14,7 @@ Le contrat de location est établi par écrit. Il doit préciser :
 
 - le montant du dépôt de garantie, si celui-ci est prévu.
 
-Un état des lieux, établi contradictoirement par les parties lors de la remise et de la restitution des clés ou, à défaut, par huissier de justice, à l'initiative de la partie la plus diligente et à frais partagés par moitié, est joint au contrat. Lorsque l'état des lieux doit être établi par huissier de justice, les parties en sont avisées par lui au moins deux jours à l'avance par lettre recommandée avec demande d'avis de réception. A défaut d'état des lieux, la présomption établie par l'article 1731 du code civil ne peut être invoquée par celle des parties qui a fait obstacle à l'établissement de l'état des lieux.
+Un état des lieux, établi contradictoirement par les parties lors de la remise et de la restitution des clés ou, à défaut, par huissier de justice, à l'initiative de la partie la plus diligente et à frais partagés par moitié, est joint au contrat. Lorsque l'état des lieux doit être établi par huissier de justice, les parties en sont avisées par lui au moins sept jours à l'avance par lettre recommandée avec demande d'avis de réception. A défaut d'état des lieux, la présomption établie par l'article 1731 du code civil ne peut être invoquée par celle des parties qui a fait obstacle à l'établissement de l'état des lieux.
 
 Pendant le premier mois de la période de chauffe, le locataire peut demander que l'état des lieux soit complété par l'état des éléments de chauffage.
 
@@ -22,4 +24,4 @@ Lorsque l'immeuble est soumis au statut de la copropriété, le copropriétaire 
 
 Le bailleur ne peut pas se prévaloir de la violation des dispositions du présent article.
 
-Chaque partie peut exiger, à tout moment, de l'autre partie, l'établissement d'un contrat conforme aux dispositions du présent article.
+Chaque partie peut exiger, à tout moment, de l'autre partie, l'établissement d'un contrat conforme aux dispositions du présent article. En cas de mutation à titre gratuit ou onéreux des locaux, le nouveau bailleur est tenu de notifier au locataire son nom ou sa dénomination et son domicile ou son siège social, ainsi que, le cas échéant, ceux de son mandataire.
