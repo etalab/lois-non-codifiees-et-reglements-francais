@@ -2,11 +2,7 @@
 
 Sont membres du conseil général des mines les ingénieurs généraux des mines en service au ministère de l'industrie et exerçant leur activité principale au conseil général des mines.
 
-Peuvent être nommés membres du conseil général des mines, après avis du vice-président du conseil général des mines, par arrêté du ministre de l'industrie et, le cas échéant, du ministre intéressé :
-
-- les ingénieurs généraux des mines en service dans une administration publique ;
-
-- les présidents des conseils d'administration ou de surveillance des établissements industriels de l'Etat ou des établissements industriels dans le conseil desquels l'Etat est représenté, ainsi que les personnalités appartenant à ces établissements lorsqu'ils appartiennent au corps des mines avec le grade d'ingénieur général.
+Les autres ingénieurs généraux des mines peuvent être nommés membres du Conseil général des mines, sur proposition du vice-président du Conseil général des mines, par arrêté du ministre de l'industrie et de l'aménagement du territoire et, le cas échéant, du ministre dont ils relèvent dans l'exercice de leurs fonctions.
 
 Les ingénieurs généraux d'autres corps techniques de l'Etat chargés d'une mission permanente d'inspection en application de l'article 7 du présent décret participent avec voix délibérative aux travaux du conseil et de ses sections pour l'examen des affaires qui les concernent.
 
