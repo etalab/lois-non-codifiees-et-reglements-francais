@@ -74,7 +74,6 @@
 - [Décret n°99-139 du 3 mars 1999 (ECOB9910001D)](decret-n99-139-du-3-mars-1999-ecob9910001d)
 - [Décret n°99-141 du 3 mars 1999 (AGRS9900230D)](decret-n99-141-du-3-mars-1999-agrs9900230d)
 - [Décret n°99-458 du 3 juin 1999 (PRMX9900025D)](decret-n99-458-du-3-juin-1999-prmx9900025d)
-- [Décret n°99-459 du 3 juin 1999 (INTA9900093D)](decret-n99-459-du-3-juin-1999-inta9900093d)
 - [Décret n°99-677 du 3 août 1999 (PRMX9903701D)](decret-n99-677-du-3-aout-1999-prmx9903701d)
 - [Décret n°99-679 du 3 août 1999](decret-n99-679-du-3-aout-1999)
 - [Décret n°99-681 du 3 août 1999 (JUSF9950058D)](decret-n99-681-du-3-aout-1999-jusf9950058d)
