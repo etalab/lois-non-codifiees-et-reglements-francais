@@ -1,6 +1,6 @@
 # Article 13
 
-La composition et les attributions des commissions prévues à l'article 5 sont fixées par arrêté du ministre chargé des transports. Les entreprises et les syndicats doivent y être représentés en nombre égal.
+La composition et les attributions des commissions et de l'observatoire des conditions économiques et sociales du transport prévus à l'article 5 sont fixées par arrêté du ministre chargé des transports. Les entreprises et les syndicats doivent y être représentés en nombre égal.
 
 Les membres des commissions sont nommés pour trois ans [*durée, mandat*] par arrêté du ministre chargé des transports, après consultation du président du Conseil national. Les commissions sont présidées par le président du Conseil national ou par un vice-président.
 

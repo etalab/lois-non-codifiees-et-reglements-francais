@@ -12,7 +12,9 @@ La commission des transports de marchandises ;
 
 La commission sociale et de la sécurité ;
 
-La commission des sanctions administratives.
+La commission des sanctions administratives ;
+
+l'observatoire des conditions économiques et sociales du transport.
 
 Le président du Conseil national décide de la répartition entre ces formations des affaires que le présent décret ne réserve pas à une formation déterminée.
 

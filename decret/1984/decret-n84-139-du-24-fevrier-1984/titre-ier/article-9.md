@@ -66,7 +66,7 @@ Un représentant des chambres de métiers ;
 
 Huit représentants d'associations d'usagers des transports.
 
-7° Vingt-quatre représentants d'entreprises concourant à l'activité de transport, désignés sur proposition des organisations professionnelles ou des organismes intéressés :
+7° Vingt-trois représentants d'entreprises concourant à l'activité de transport, désignés sur proposition des organisations professionnelles ou des organismes intéressés :
 
 Quatre représentants au titre du transport routier, dont un au titre de la location de véhicules industriels ;
 
@@ -90,9 +90,7 @@ Deux représentants des professions auxiliaires de transport ;
 
 Un représentant au titre du transport combiné ;
 
-Un représentant au titre du transport par remontées mécaniques.
-
-8° Vingt-quatre membres désignés sur proposition des syndicats représentatifs au plan national des salariés dans le secteur des transports ;
+8° Vingt-trois membres désignés sur proposition des syndicats représentatifs au plan national des salariés dans le secteur des transports ;
 
 Sept au titre du transport routier ;
 
@@ -104,6 +102,4 @@ Trois au titre du transport aérien ;
 
 Deux au titre du transport maritime ;
 
-Deux au titre du transport fluvial ;
-
-Un au titre du transport par remontées mécaniques.
+Deux au titre du transport fluvial.
