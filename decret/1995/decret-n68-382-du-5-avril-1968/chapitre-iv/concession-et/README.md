@@ -1,4 +1,5 @@
 # CONCESSION ET REVISION DE LA PENSION
 
 - [DISPOSITIONS RELATIVES AU PAIEMENT DES PENSIONS](dispositions-relatives-au)
+- [COORDINATION](coordination)
 - [SECOURS](secours)
