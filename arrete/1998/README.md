@@ -601,7 +601,6 @@
 - [Arrêté du 18 mai 1998 (INTE9800217A)](arrete-du-18-mai-1998-inte9800217a)
 - [Arrêté du 18 mai 1998 (MESH9821918A)](arrete-du-18-mai-1998-mesh9821918a)
 - [Arrêté du 19 août 1998 (AGRA9801288A)](arrete-du-19-aout-1998-agra9801288a)
-- [Arrêté du 19 août 1998 (MCCK9800572A)](arrete-du-19-aout-1998-mcck9800572a)
 - [Arrêté du 19 août 1998 (MENS9802235A)](arrete-du-19-aout-1998-mens9802235a)
 - [Arrêté du 19 décembre 1997 (ECOI9700820A)](arrete-du-19-decembre-1997-ecoi9700820a)
 - [Arrêté du 19 décembre 1997 (EQUA9701969A)](arrete-du-19-decembre-1997-equa9701969a)
