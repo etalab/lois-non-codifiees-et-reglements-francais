@@ -55,6 +55,7 @@
 - [Décret n°73-87 du 15 janvier 1973](decret-n73-87-du-15-janvier-1973)
 - [Décret n°73-968 du 15 octobre 1973](decret-n73-968-du-15-octobre-1973)
 - [Décret n°73-362 du 16 mars 1973](decret-n73-362-du-16-mars-1973)
+- [Décret n°73-978 du 16 octobre 1973](decret-n73-978-du-16-octobre-1973)
 - [Décret n°75-48 du 16 janvier 1975](decret-n75-48-du-16-janvier-1975)
 - [Décret n°75-687 du 16 juillet 1975](decret-n75-687-du-16-juillet-1975)
 - [Décret n°73-533 du 18 juin 1973](decret-n73-533-du-18-juin-1973)
