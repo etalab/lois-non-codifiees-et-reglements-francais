@@ -4,34 +4,40 @@ Le personnel navigant professionnel contractuel assure les fonctions de conduite
 
 Il est classé en deux niveaux comportant les spécialités suivantes :
 
-Niveau I :
+Niveau I
 
-Pilotes d'essais d'avions ;
+Pilote d'essais expérimental d'avions.
 
-Pilotes d'essais d'hélicoptères ;
+Pilote d'essais expérimental d'hélicoptères.
 
-Pilotes d'essais d'avions légers ;
+Pilote d'essais d'avions.
 
-Pilotes de réception d'hélicoptères ;
+Pilote d'essais d'hélicoptères.
 
-Pilotes de réception d'avions ;
+Pilote d'essais d'avions légers.
 
-Pilotes professionnels ;
+Pilote de réceptions d'avions.
 
-Ingénieurs navigants d'essais ;
+Pilote de réceptions d'hélicoptères.
 
-Cadres navigants d'essais.
+Pilote professionnel.
 
-Niveau II :
+Ingénieur navigant d'essais.
 
-Pilotes moniteurs sur avions légers ;
+Cadre navigant d'essais.
 
-Expérimentateurs navigants d'essais ;
+Niveau II
 
-Mécaniciens navigants ;
+Mécanicien navigant de réceptions.
 
-Mécaniciens navigants d'essais ;
+Mécanicien navigant.
 
-Mécaniciens navigants de réception ;
+Pilote instructeur d'avions légers.
 
-Photographes navigants professionnels.
+Expérimentateur navigant d'essais.
+
+Mécanicien navigant d'essais.
+
+Photographe navigant professionnel.
+
+Parachutiste professionnel possédant la qualification "essais et réceptions".
