@@ -11,3 +11,5 @@ d) Une discussion de vingt minutes environ avec le jury à partir d'un rapport �
 L'épreuve écrite est organisée de manière d'assurer l'anonymat des candidats. Les sujets sont choisis par le jury. Les épreuves orales sont publiques.
 
 Les modalités de l'examen sont fixées par arrêté du garde des sceaux, ministre de la justice.
+
+Le jury dispose des appréciations portées par les membres du corps enseignant et les maîtres de stage sur la qualité du travail de chaque candidat.
