@@ -172,9 +172,29 @@ Elle offre notamment les prestations suivantes :
 
 - facilités de trésorerie incluant des découverts temporaires dans des conditions fixées par le contrat de plan.
 
-2° La Poste verse au Trésor les avoirs créditeurs des titulaires des comptes courants postaux.
+2° La Poste dispose des fonds des comptes courants postaux, à l'exception des dépôts des comptables et des régisseurs publics.
 
-Les modalités de transfert quotidien des avoirs concernés sont définies par une convention passée entre l'Etat et La Poste.
+La Poste est responsable des fonds reçus des clients sur les comptes courants postaux. La gestion de ces fonds est confiée à une société ayant le statut d'entreprise d'investissement et dont La Poste détient le capital. Cette filiale peut aussi offrir des services de gestion financière d'autres fonds figurant au bilan de La Poste ou de ses filiales.
+
+La Poste doit prendre toute disposition pour garantir à tout moment la disponibilité des fonds des déposants. A cet effet, elle doit notamment :
+
+- garantir la liquidité des placements en cas de baisse de la collecte des fonds des comptes courants postaux. Le conseil d'administration de La Poste détermine, en fonction de l'évolution passée et anticipée des dépôts des comptes courants postaux, la part des fonds investie dans des titres comptabilisés comme titres d'investissement. Le reste des fonds fait l'objet de placements à court terme ;
+
+- réduire au minimum le risque de contrepartie. Les placements ne doivent pas présenter de risque significatif de contrepartie. Les titres d'investissement doivent respecter les caractéristiques définies au paragraphe 4.2.1 du règlement n° 91-05 du Comité de la réglementation bancaire et financière ;
+
+- couvrir tout risque de change.
+
+La filiale peut couvrir les risques de taux d'intérêt conformément au règlement n° 90-15 du Comité de la réglementation bancaire et financière.
+
+Les comptes annuels de la filiale et du groupe La Poste présentent une information détaillée sur les conditions et les résultats de la gestion des fonds des comptes courants postaux.
+
+Les commissaires aux comptes de la filiale vérifient le respect des dispositions ci-dessus.
+
+La Poste et sa filiale mettent en oeuvre un dispositif précis de contrôle interne et de mesure des risques liés à la gestion des fonds des comptes courants postaux conformément aux règlements n° 97-02 et n° 97-04 du Comité de la réglementation bancaire et financière. En outre, le conseil d'administration de la filiale doit comprendre trois administrateurs non salariés du groupe La Poste, compétents en matière financière et de contrôle des risques, désignés en concertation avec l'Etat. Ces trois administrateurs indépendants sont membres d'un comité d'audit de quatre membres constitué au sein du conseil d'administration. Le président du comité d'audit est choisi parmi les trois administrateurs indépendants. Le comité peut faire procéder à tout audit interne ou externe qu'il juge nécessaire.
+
+L'Etat peut faire procéder à tout moment à un examen du dispositif de gestion des fonds des comptes courants postaux.
+
+Les conditions de mise en oeuvre des dispositions précédentes sont définies par convention entre le ministre chargé de l'économie, le ministre chargé des postes et La Poste.
 
 3° Les comptes courants postaux des comptables et régisseurs publics sont individualisés et font l'objet d'une gestion spécifique.
 
@@ -782,13 +802,7 @@ La Poste adresse chaque année, avant le 1er mai, au ministre chargé des postes
 
 En vue de son inscription dans la loi de finances initiale, les ministres arrêtent, en liaison avec l'exploitant public, le montant de la contribution de l'Etat, compte tenu de l'ensemble des éléments mentionnés ci-dessus.
 
-4° Le dépôt à l'Etat des fonds des C.C.P. prévu par l'article 10, paragraphe 2, du présent cahier des charges fait l'objet d'une rémunération selon le dispositif suivant :
-
-a) Jusqu'à un niveau de collecte fixé, pour chaque année, par le contrat de plan, La Poste perçoit une rémunération au moins égale à ce coût de collecte et tenant compte des gains de productivité attendus, notamment de la modernisation des procédures et des services. Le coût de collecte est défini comme le rapport, exprimé en taux annuel, du montant total de charges à l'avoir moyen pour la période considérée. La définition desdites charges et les gains de productivité sont fixés par le contrat de plan.
-
-b) Au-delà de ce niveau de collecte annuel, La Poste perçoit sur l'excédent de collecte un complément de rémunération incitatif calculé dans des conditions fixées par le contrat de plan.
-
-Les modalités de transition du régime actuel de rémunération des fonds déposés vers le régime décrit ci-dessus, qui sera appliqué au plus tard le 1er janvier 1994, sont déterminées dans le contrat de plan.
+4° [*paragraphe supprimé*].
 
 5° La tenue des comptes des comptables publics, prévue par l'article 10, paragraphe 3, du présent cahier des charges, fait l'objet d'une rémunération assurant la couverture des coûts du service, dont les modalités sont précisées par convention passée entre l'Etat et La Poste.
 
