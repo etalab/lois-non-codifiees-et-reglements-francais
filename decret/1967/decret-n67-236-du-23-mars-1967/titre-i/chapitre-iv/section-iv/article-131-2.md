@@ -4,6 +4,8 @@ Le formulaire de vote par correspondance doit permettre un vote sur chacune des 
 
 Il doit informer l'actionnaire de manière très apparente que toute abstention exprimée dans le formulaire ou résultant de l'absence d'indication de vote sera assimilée à un vote défavorable à l'adoption de la résolution.
 
+Le formulaire peut le cas échéant figurer sur le même document que la formule de procuration ; dans ce cas l'article 131-4 est applicable.
+
 Le formulaire comporte le rappel des dispositions au deuxième alinéa de l'article 131-3 et l'indication de la date avant laquelle, conformément aux statuts, il doit être reçu par la société pour qu'il en soit tenu compte ; lorsqu'il a été convenu entre la société et les intermédiaires habilités par elle que ces derniers n'accepteraient plus de transmettre à la société des formulaires de vote reçus par eux après une date antérieure à celle fixée par la société, il est fait mention de cette date.
 
 Sont annexés au formulaire :
