@@ -1,13 +1,15 @@
 # Article 40
 
-Les teneurs en fertilisants des effluents ou des boues sont suivies par l'exploitant de l'installation classée de manière à permettre l'établissement de plans de fumure adaptés aux conditions de l'épandage. Toutes origines confondues, organique et minérale, les apports en fertilisants sur les terres soumises à l'épandage tiennent compte de la nature particulière des terrains et de la rotation des cultures.
+I. - Les ouvrages permanents d'entreposage de déchets ou d'effluents sont dimensionnés pour faire face aux périodes où l'épandage est soit impossible, soit interdit par l'étude préalable. Toutes dispositions sont prises pour que les dispositifs d'entreposage ne soient pas source de gêne ou de nuisances pour le voisinage et n'entraînent pas de pollution des eaux ou des sols par ruissellement ou infiltration. Le déversement dans le milieu naturel des trop-pleins des ouvrages d'entreposage est interdit. Les ouvrages d'entreposage à l'air libre sont interdits d'accès aux tiers non autorisés.
 
-Pour l'azote, ces apports, exprimés en N, ne dépassent pas les valeurs suivantes :
+II. - Le dépôt temporaire de déchets, sur les parcelles d'épandage et sans travaux d'aménagement, n'est autorisé que lorsque les cinq conditions suivantes sont simultanément remplies :
 
-- sur prairies naturelles, ou sur prairies artificielles en place toute l'année et en pleine production : 350 kg/ha/an ;
+- les déchets sont solides et peu fermentescibles, à défaut, la durée du dépôt est inférieure à quarante-huit heures ;
 
-- sur les autres cultures (sauf légumineuses) : 200 kg/ha/an ;
+- toutes les précautions ont été prises pour éviter le ruissellement sur ou en dehors des parcelles d'épandage ou une percolation rapide vers les nappes superficielles ou souterraines ;
 
-- sur les cultures de légumineuses : aucun apport azoté.
+- le dépôt respecte les distances minimales d'isolement définies pour l'épandage par l'article 37 sauf pour la distance vis-à-vis des habitations ou locaux habités par des tiers qui est toujours égale à 100 mètres. En outre, une distance d'au moins 3 mètres vis-à-vis des routes et fossés doit être respectée ;
 
-Toutes dispositions sont prises pour que, en aucune circonstance, ni le ruissellement en dehors du champ d'épandage, ni une percolation rapide vers les nappes d'eau souterraine ne puisse se produire. En cas d'épandage d'effluents liquides, la capacité d'absorption des sols n'est pas dépassée afin de prévenir toute stagnation prolongée sur ces sols.
+- le volume du dépôt est adapté à la fertilisation raisonnée des parcelles réceptrices pour la période d'épandage considérée ;
+
+- la durée maximale ne doit pas dépasser un an et le retour sur un même emplacement une peut intervenir avant un délai de trois ans.
