@@ -8,4 +8,4 @@ Les aides-soignants de classe normale sont recrutés :
 
 3° Dans la limite des emplois qui ne pourraient être pourvus selon les modalités précédentes, par concours sur titres ouverts aux candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours, titulaires du certificat d'aptitude aux fonctions d'aide-soignant.
 
-Un arrêté conjoint du ministre chargé des anciens combattants et du ministre chargé de la fonction publique fixe les modalités d'organisation du concours et les règles relatives à la composition et au fonctionnement du jury.
+Un arrêté conjoint du ministre de la défense et du ministre chargé de la fonction publique fixe les modalités d'organisation du concours et les règles relatives à la composition et au fonctionnement du jury.
