@@ -24,4 +24,6 @@ Il comprend en dépenses :
 
 5° La fraction des intérêts débiteurs prévus à l'article 123 ;
 
-6° Les charges imputables au fonds en application des dispositions législatives ou réglementaires en vigueur.
+6° Les charges imputables au fonds en application des dispositions législatives ou réglementaires en vigueur ;
+
+7° Les dépenses de toute nature résultant de l'application aux affiliés du régime minier des articles D. 461-27 à D. 461-30 du code de la sécurité sociale et incombant au régime minier dans les conditions fixées par convention entre la Caisse autonome nationale et la Caisse nationale d'assurance maladie des travailleurs salariés.
