@@ -1,0 +1,3 @@
+# Article 8
+
+En application de l'article L. 131-7 du code de la sécurité sociale, la compensation par l'Etat de l'exonération des cotisations de sécurité sociale prévue à l'article 6-5 de la loi du 13 janvier 1989 susvisée fait l'objet d'un versement direct à l'Agence centrale des organismes de sécurité sociale et, pour les cotisations dues au titre de l'emploi des salariés relevant du régime des assurances sociales agricoles, à la Caisse centrale de la mutualité sociale agricole, sur la base du montant des cotisations exonérées et du nombre des entreprises et des salariés concernés communiqués par ces organismes au ministre du budget.

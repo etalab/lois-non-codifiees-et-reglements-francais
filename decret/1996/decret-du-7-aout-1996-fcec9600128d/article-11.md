@@ -1,0 +1,3 @@
+# Article 11
+
+Les lentilles des récoltes 1995 et 1996 provenant de parcelles pour lesquelles une déclaration de semis et une déclaration de récolte ont été déposées auprès des services de l'Institut national des appellations d'origine et répondant à toutes les conditions du présent décret peuvent être admises au bénéfice de l'appellation d'origine contrôlée Lentille verte du Puy si elles obtiennent, dans un délai de six mois à partir de la date de publication du présent décret, le certificat d'agrément prévu à l'article 7 ci-dessus, délivré dans les mêmes conditions après examens analytique et organoleptique.
