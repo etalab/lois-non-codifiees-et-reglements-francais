@@ -15,6 +15,7 @@
 - [Arrêté du 4 janvier 1996 (TASF9610010A)](arrete-du-4-janvier-1996-tasf9610010a)
 - [Arrêté du 4 octobre 1995 (EQUS9501451A)](arrete-du-4-octobre-1995-equs9501451a)
 - [Arrêté du 5 décembre 1995 (INTC9500759A)](arrete-du-5-decembre-1995-intc9500759a)
+- [Arrêté du 5 février 1996 (AGRA9502421A)](arrete-du-5-fevrier-1996-agra9502421a)
 - [Arrêté du 5 janvier 1996 (BUDL9600017A)](arrete-du-5-janvier-1996-budl9600017a)
 - [Arrêté du 5 janvier 1996 (ECOB9550089A)](arrete-du-5-janvier-1996-ecob9550089a)
 - [Arrêté du 5 janvier 1996 (EQUF9501717A)](arrete-du-5-janvier-1996-equf9501717a)
