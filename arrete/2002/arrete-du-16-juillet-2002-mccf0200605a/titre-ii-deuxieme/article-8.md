@@ -10,7 +10,7 @@ L'enseignement obligatoire de première année de deuxième cycle comprend les c
 
 - administration et gestion des musées et du patrimoine ;
 
-- examen des oeuvres : études, recherche, conservation et restauration ;
+- examen scientifique des oeuvres, études,  conservation et restauration ;
 
 - initiation à la recherche ;
 
