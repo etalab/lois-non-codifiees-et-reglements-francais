@@ -1,4 +1,4 @@
-# Arrêté du 24 novembre 1982 relatif aux conditions d'émission des obligations P.T.T. 1982
+# Arrêté du 24 novembre 1982 relatif aux récipients mi-fixes utilisés à l'emmagasinage des gaz de pétrole liquéfiés
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

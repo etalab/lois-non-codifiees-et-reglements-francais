@@ -1,3 +1,3 @@
 # Article 1
 
-En vue de concourir au financement des dépenses d'investissement du budget annexe des postes et télécommunications, il sera émis un emprunt d'un montant nominal maximum de 1,650 milliard de francs représenté par des obligations P.T.T. 16,20 p. 100 1982 [*taux d'intérêt*].
+Le présent arrêté s'applique aux récipients mi-fixes de contenance inférieure à 200 litres destinés à l'emmagasinage des gaz de pétrole liquéfiés et soumis aux dispositions du décret du 18 janvier 1943 susvisé, en application de son article 1er (5°, a).

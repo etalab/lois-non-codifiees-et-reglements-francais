@@ -1,3 +1,3 @@
 # Article 6
 
-Les obligations cesseront de porter intérêt à partir du jour où elles seront mises en remboursement. Au cas où une obligation serait démunie de coupons non échus à la date de présentation, le montant nominal des coupons manquants serait déduit de la somme à rembourser.
+Le directeur de la qualité et de la sécurité industrielles est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
