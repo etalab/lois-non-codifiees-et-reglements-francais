@@ -4,7 +4,7 @@ Les sièges du conseil d'administration du centre sont attribués aux représent
 
 1. De quinze à vingt-quatre sièges [*nombre*] au titre des communes affiliées selon le tableau ci-après :
 
-EFFECTIF TOTAL des fonctionnaires titulaires et stagiaires de catégories C et D gérés par le centre des communes et des établissements communaux et intercommunaux : Moins de 1000
+EFFECTIF TOTAL des fonctionnaires titulaires et stagiaires de catégories B, C et D gérés par le centre des communes et établissements communaux et intercommunaux : Moins de 1000
 
 Nombre de sièges attribués aux communes : 15
 
@@ -74,7 +74,7 @@ Attribution d'un siège supplémentaire lorsque la population totale des commune
 
 a) Deux sièges pour le département ne répondant pas à l'une des conditions mentionnées au b ci-après ;
 
-b) Trois sièges pour le département ayant, soit une population supérieure à 1.000.000 d'habitants, soit un effectif total de fonctionnaires et stagiaires de catégories C et D gérés par le centre supérieur à 400, y compris les personnels des établissements publics administratifs départementaux et interdépartementaux et des syndicats mixtes.
+b) Trois sièges pour le département ayant, soit une population supérieure à 1.000.000 d'habitants, soit un effectif total de fonctionnaires titulaires et stagiaires de catégories B, C et D gérés par le centre supérieur à 400, y compris les personnels des établissements publics administratifs départementaux et interdépartementaux et des syndicats mixtes.
 
 3. De deux ou trois sièges au titre de la région affiliée, à savoir :
 
