@@ -55,6 +55,7 @@
 - [Arrêté du 12 juillet 1990 (ECOP8900663A)](arrete-du-12-juillet-1990-ecop8900663a)
 - [Arrêté du 13 décembre 1988 (DEFP8801734A)](arrete-du-13-decembre-1988-defp8801734a)
 - [Arrêté du 13 décembre 1988 (TEFT8804182A)](arrete-du-13-decembre-1988-teft8804182a)
+- [Arrêté du 13 février 1989 (INDA8900080A)](arrete-du-13-fevrier-1989-inda8900080a)
 - [Arrêté du 13 janvier 1989 (ECOS8960003A)](arrete-du-13-janvier-1989-ecos8960003a)
 - [Arrêté du 13 janvier 1989 (INTE8900038A)](arrete-du-13-janvier-1989-inte8900038a)
 - [Arrêté du 13 janvier 1989 (INTE8900039A)](arrete-du-13-janvier-1989-inte8900039a)
