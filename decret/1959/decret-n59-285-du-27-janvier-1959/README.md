@@ -1,0 +1,16 @@
+# Décret n°59-285 du 27 janvier 1959 portant règlement général sur l'exploitation des mines autres que les mines de combustibles minéraux solides et les mines d'hydrocarbures exploitées par sondage
+
+- [Article 1](article-1.md)
+- [Titre Ier : Installations de surface](titre-ier)
+- [Titre II : Installations électriques du jour](titre-ii)
+- [Titre III : Puits et galeries débouchant au jour et puits intérieurs](titre-iii)
+- [Titre IV : Transport et circulation en plans inclinés](titre-iv)
+- [Titre V : Machines du fond, machines d'extraction et câbles](titre-v)
+- [Titre VI : Travail au fond](titre-vi)
+- [Titre VII : Aérage](titre-vii)
+- [Titre VIII : Eclairage.](titre-viii)
+- [Titre IX : Explosifs](titre-ix)
+- [Titre X](titre-x)
+- [Titre XII : Hygiène et sauvetage](titre-xii)
+- [Titre XIII : Contrôle du personnel, plans et registre.](titre-xiii)
+- [Titre XIV : Dispositions diverses.](titre-xiv)

@@ -1,0 +1,3 @@
+# Article 218
+
+Toute mine doit disposer de rampes d'extinction fixes ou d'extincteurs mobiles, entretenus constamment en bon état, permettant de combattre immédiatement tout commencement d'incendie souterrain. De tels appareils doivent notamment être disposés au fond près des locaux contenant des substances aisément inflammables, à moins de 150 mètres de tout point d'une bande transporteuse si celle-ci est combustible, ainsi qu'en des points convenablement choisis des voies principales à soutènement combustible dépourvues de canalisations d'eau. L'emplacement de ces appareils est porté sur le plan de l'aérage.
