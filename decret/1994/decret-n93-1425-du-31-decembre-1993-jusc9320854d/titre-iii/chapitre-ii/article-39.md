@@ -62,12 +62,10 @@ IV.  2. Extradition
 
 8
 
-IV.  3. Autres procédures devant la chambre de l'instruction
+IV.  3. Autres procédures devant la chambre d'accusation
 
 3
 
-(1) Y compris appels formés devant la chambre de l'instruction.
+(1) Y compris appels formés devant la chambre d'accusation.
 
-La valeur de la lettre clé est fixée chaque année par arrêté conjoint du garde des sceaux, ministre de la justice, et du ministre
-
-chargé du budget.
+La valeur de la lettre clé est égale au montant de l'unité de valeur de référence fixée en application de l'article 27 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique.
