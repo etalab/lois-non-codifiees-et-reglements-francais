@@ -1028,7 +1028,6 @@
 - [Décret n°98-335 du 30 avril 1998 (ATEP9860032D)](decret-n98-335-du-30-avril-1998-atep9860032d)
 - [Décret n°98-336 du 30 avril 1998 (PRMX9802969D)](decret-n98-336-du-30-avril-1998-prmx9802969d)
 - [Décret n°98-340 du 30 avril 1998 (EQUS9800581D)](decret-n98-340-du-30-avril-1998-equs9800581d)
-- [Décret n°98-534 du 30 juin 1998 (JUSB9810187D)](decret-n98-534-du-30-juin-1998-jusb9810187d)
 - [Décret n°98-543 du 30 juin 1998 (MENF9801004D)](decret-n98-543-du-30-juin-1998-menf9801004d)
 - [Décret n°98-555 du 30 juin 1998 (MENF9801215D)](decret-n98-555-du-30-juin-1998-menf9801215d)
 - [Décret n°98-560 du 30 juin 1998 (ATEP9860045D)](decret-n98-560-du-30-juin-1998-atep9860045d)
