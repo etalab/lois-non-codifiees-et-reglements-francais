@@ -334,7 +334,6 @@
 - [Arrêté du 10 juillet 1992 (MERR9200143A)](arrete-du-10-juillet-1992-merr9200143a)
 - [Arrêté du 10 juin 1992 (BUDR9205024A)](arrete-du-10-juin-1992-budr9205024a)
 - [Arrêté du 10 juin 1992 (ECOT9220009A)](arrete-du-10-juin-1992-ecot9220009a)
-- [Arrêté du 10 juin 1992 (SANH9201510A)](arrete-du-10-juin-1992-sanh9201510a)
 - [Arrêté du 10 juin 1992 (SANH9201511A)](arrete-du-10-juin-1992-sanh9201511a)
 - [Arrêté du 10 juin 1992 (SANX9210182A)](arrete-du-10-juin-1992-sanx9210182a)
 - [Arrêté du 10 juin 1992 (SANX9210183A)](arrete-du-10-juin-1992-sanx9210183a)
