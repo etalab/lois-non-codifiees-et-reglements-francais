@@ -1,0 +1,3 @@
+# Article 9
+
+Le maître d'oeuvre défini à l'article 2 communique au directeur départemental du travail et de la main-d'oeuvre ou, le cas échéant, au fonctionnaire assimilé par application de l'article L. 611-1 (3e alinéa) du code du travail, au chef du service de prévention de la caisse régionale d'assurance maladie et au comité régional de l'organisme professionnel de prévention du bâtiment et des travaux publics [*autorités compétentes*], dès qu'il en a connaissance, les noms et adresses des entrepreneurs appelés à travailler sur le chantier ; il indique la date approximative d'intervention de chacun d'eux.

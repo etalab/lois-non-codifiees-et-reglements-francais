@@ -1,9 +1,3 @@
 # Article 2
 
-Les chefs de laboratoire, responsables des analyses, doivent être titulaires :
-
-- soit d'un des diplômes figurant à l'annexe I du présent arrêté ou d'un diplôme reconnu au moins équivalent par le ministre de l'agriculture ;
-
-- soit d'un des diplômes figurant à l'annexe II du présent arrêté ou d'un diplôme reconnu au moins équivalent par le ministre de l'agriculture avec justification de cinq années de références de fonctions d'encadrement dans un laboratoire spécialisé dans les analyses bactériologiques et chimiques du lait et des produits laitiers.
-
-Par dérogation à ces dispositions, les responsables des laboratoires en fonctions à la date d'application du présent arrêté pourront y être maintenus par autorisation accordée par le ministre de l'agriculture (direction de la production, des marchés et des échanges extérieurs).
+Les membres de la commission sont nommés pour deux ans par arrêté du ministre de l'agriculture. Les techniciens professionnels sont choisis sur une liste d'au moins neuf personnalités présentée par le Centre national interprofessionnel de l'économie laitière. Ils devront remplir les conditions de technicité définies au premier alinéa de l'article 2 de l'arrêté déterminant les conditions auxquelles est subordonné l'agrément des laboratoires chargés d'effectuer les prélèvements et analyses en vue du paiement du lait de vache en fonction de sa composition et de sa qualité.
