@@ -626,6 +626,7 @@
 - [Arrêté du 29 juillet 1987 (RESY8700538A)](arrete-du-29-juillet-1987-resy8700538a)
 - [Arrêté du 29 juin 1987 (ASET8703459A)](arrete-du-29-juin-1987-aset8703459a)
 - [Arrêté du 29 juin 1987 (MEND8700368A)](arrete-du-29-juin-1987-mend8700368a)
+- [Arrêté du 29 octobre 1987 (ASEA8701576A)](arrete-du-29-octobre-1987-asea8701576a)
 - [Arrêté du 29 octobre 1987 (ASEH8701624A)](arrete-du-29-octobre-1987-aseh8701624a)
 - [Arrêté du 29 septembre 1987 (ECOT8711003A)](arrete-du-29-septembre-1987-ecot8711003a)
 - [Arrêté du 29 septembre 1987 (ECOZ8700043A)](arrete-du-29-septembre-1987-ecoz8700043a)
