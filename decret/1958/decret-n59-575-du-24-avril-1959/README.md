@@ -2,7 +2,6 @@
 
 - [Titre Ier : Des assistants du commissariat général du plan.](titre-ier)
 - [Titre II : Du chef du secrétariat administratif des commissions.](titre-ii)
-- [Titre IV : Du vérificateur des travaux d'impressions.](titre-iv)
 - [Titre VI : Du calculateur.](titre-vi)
 - [Titre VII : Des adjoints du commissariat général du plan, des secrétaires sténodactylographes, des sténodactylographes, des agents de bureau, des agents de service, des huissiers et ouvriers professionnels.](titre-vii)
 - [Titre VIII : Des conducteurs d'automobiles.](titre-viii)
