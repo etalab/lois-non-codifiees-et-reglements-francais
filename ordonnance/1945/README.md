@@ -1,6 +1,7 @@
 # 1945
 
 - [Ordonnance n° 45-875 du 1 mai 1945](ordonnance-n-45-875-du-1-mai-1945)
+- [Ordonnance n°45-2632 du 2 novembre 1945](ordonnance-n45-2632-du-2-novembre-1945)
 - [Ordonnance n°45-320 du 3 mars 1945](ordonnance-n45-320-du-3-mars-1945)
 - [Ordonnance n° 45-879 du 3 mai 1945](ordonnance-n-45-879-du-3-mai-1945)
 - [Ordonnance n°45-918 du 5 mai 1945](ordonnance-n45-918-du-5-mai-1945)
