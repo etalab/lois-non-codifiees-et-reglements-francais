@@ -8,4 +8,4 @@ Officier greffier de 1ère classe : cinq échelons ;
 
 Officier greffier principal : trois échelons ;
 
-Officier greffier en chef : trois échelons.
+Officier greffier en chef : quatre échelons.
