@@ -1,0 +1,3 @@
+# Article 6
+
+Lorsque l'entreprise est inscrite à la fois au registre des commissionnaires de transport et au registre des transporteurs et des loueurs, la part des capitaux propres permettant de satisfaire à la condition de capacité financière requise pour les entreprises de transport ou de location ne peut être prise en compte pour l'examen de la condition de capacité financière requise pour les entreprises commissionnaires de transport.

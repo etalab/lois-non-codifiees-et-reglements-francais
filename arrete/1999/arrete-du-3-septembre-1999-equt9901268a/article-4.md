@@ -1,0 +1,5 @@
+# Article 4
+
+L'entreprise transmet un exemplaire de la liasse fiscale signée par son représentant légal et certifiée conforme par l'expert comptable, le commissaire aux comptes ou le centre de gestion agréé.
+
+Le cas échéant, elle est accompagnée de la ou des attestations, délivrées par le ou les organismes habilités accordant leur caution, qui portent les mentions suivantes : " Je soussigné, fondé de pouvoirs de l'établissement (indiquer le nom, la raison sociale et l'adresse de celui-ci), déclare délivrer par la présente pour un montant de (indiquer le montant en francs) la garantie prévue par les articles 7 du décret n° 90-200 du 5 mars 1990 modifié relatif à l'exercice de la profession de commissionnaire de transport et 3 de l'arrêté du 3 septembre 1999 relatif à la capacité financière requise pour les entreprises commissionnaires de transport, au bénéfice de l'entreprise commissionnaire de transport (indiquer le nom, la raison sociale et l'adresse de l'entreprise bénéficiaire). Le présent engagement prend effet à compter du (indiquer la date). Il expire le (indiquer la date), date à laquelle il ne pourra plus y être fait appel. "
