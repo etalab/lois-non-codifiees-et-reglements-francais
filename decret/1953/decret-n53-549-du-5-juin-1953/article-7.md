@@ -1,3 +1,3 @@
 # Article 7
 
-Les anciens ministres des travaux publics, des transports et du tourisme sont de droit titulaires de la médaille de vermeil.
+Les anciens ministres et secrétaires d'Etat chargés dés transports sont de droit titulaires de la médaille d'or.
