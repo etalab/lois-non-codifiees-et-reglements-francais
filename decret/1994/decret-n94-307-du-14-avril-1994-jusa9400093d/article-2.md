@@ -1,0 +1,3 @@
+# Article 2
+
+Les décrets n° 76-159 du 10 février 1976 étendant aux personnels enseignants des maisons d'éducation de la Légion d'honneur les dispositions du décret n° 71-884 du 2 novembre 1971 fixant les indemnités susceptibles d'être attribuées aux personnels enseignants des établissements du second degré et n° 90-248 du 19 mars 1990 étendant aux personnels enseignants des maisons d'éducation de la Légion d'honneur les dispositions du décret n° 89-452 du 6 juillet 1989 instituant une indemnité de suivi et d'orientation des élèves en faveur des personnels enseignants du second degré sont abrogés à compter du 1er septembre 1992.

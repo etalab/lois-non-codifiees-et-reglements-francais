@@ -7,3 +7,5 @@ Description des marques et des épis de la tête ;
 Description des marques des membres, successivement : antérieur gauche, antérieur droit, postérieur gauche, postérieur droit ;
 
 Puis, éventuellement, les autres marques blanches, les caractères de pigmentation, les épis de l'encolure, les autres épis et les détails anatomiques permanents.
+
+Le cas échéant, le signalement indique le numéro du transpondeur posé par un agent des haras ou une personne agréée par le service des haras.

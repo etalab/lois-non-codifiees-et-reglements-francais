@@ -1,0 +1,3 @@
+# Article 2
+
+Cette allocation complémentaire est versée pendant une durée maximale de deux ans. Elle représente 40 p. 100 de la perte de rémunération brute horaire occasionnée par le passage à temps partiel la première année, 20 p. 100 la deuxième année. La rémunération brute de référence est celle sur laquelle ont été assises les contributions au régime d'assurance chômage au titre des douze derniers mois précédant le dernier jour de travail à temps plein dans la limite de deux fois le plafond retenu pour le calcul des cotisations de sécurité sociale ramenée à un taux horaire. L'allocation compensatrice ne peut être inférieure à 22 F la première année et 18 F la seconde année.
