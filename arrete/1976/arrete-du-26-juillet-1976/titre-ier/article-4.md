@@ -1,3 +1,3 @@
 # Article 4
 
-Est immatriculé et enregistré tout étalon national, approuvé ou autorisé, appartenant à l'une des races suivantes : arabe, pur-sang, anglo-arabe, trotteur français, selle française, ou à une race de poney reconnue.
+Est immatriculé et enregistré tout étalon national ou agréé appartenant à une race reconnue en France ou agréé pour produire au sein de l'une de ces races.

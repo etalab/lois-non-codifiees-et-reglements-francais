@@ -1,5 +1,5 @@
 # Article 2
 
-Le montant maximal unitaire des vacations prévues à l'article 1er est fixé de la manière suivante :
+Le montant maximum unitaire des vacations prévues à l'article 1er est fixé de la manière suivante :
 
-Officiers   59,29 F     Sous-officiers   47,65 F     Caporaux   42,39 F     Sapeurs   39,42 F. "
+Officiers   60,59 F     Sous-officiers   48,70 F     Caporaux   43,32 F     Sapeurs   40,29 F. "

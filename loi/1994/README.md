@@ -6,6 +6,7 @@
 - [Loi n° 93-1435 du 31 décembre 1993 (EQUX9300165L)](loi-n-93-1435-du-31-decembre-1993-equx9300165l)
 - [Loi n° 93-1436 du 31 décembre 1993 (INTX9300143L)](loi-n-93-1436-du-31-decembre-1993-intx9300143l)
 - [Loi n° 93-1437 du 31 décembre 1993 (MCCX9300139L)](loi-n-93-1437-du-31-decembre-1993-mccx9300139l)
+- [Loi n° 93-1444 du 31 décembre 1993 (ECOX9300149L)](loi-n-93-1444-du-31-decembre-1993-ecox9300149l)
 - [Loi n° 93-944 du 23 juillet 1993 (ECOX9300092L)](loi-n-93-944-du-23-juillet-1993-ecox9300092l)
 - [Loi n° 93-980 du 4 août 1993 (ECOX9300075L)](loi-n-93-980-du-4-aout-1993-ecox9300075l)
 - [Loi n° 94-1 du 3 janvier 1994 (JUSX9300077L)](loi-n-94-1-du-3-janvier-1994-jusx9300077l)

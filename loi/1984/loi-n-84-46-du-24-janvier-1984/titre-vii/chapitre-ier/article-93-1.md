@@ -1,0 +1,5 @@
+# Article 93-1
+
+Nonobstant toute disposition législative contraire, les paiements effectués dans le cadre de systèmes de règlements interbancaires, jusqu'à l'expiration du jour où est rendu un jugement de redressement ou de liquidation judiciaires à l'encontre d'un établissement participant, directement ou indirectement, à un tel système ne peuvent être annulés au seul motif qu'est intervenu ce jugement.
+
+Un système de règlements interbancaires s'entend, au sens du présent article, d'une procédure, nationale ou internationale soit instituée par une autorité publique, soit régie par une convention-cadre respectant les principes généraux d'une convention-cadre de place ou par une convention type, organisant les relations entre deux parties au moins ayant la qualité d'établissement de crédit, d'institution ou entreprise visée aux articles 8 et 69 de la présente loi, de société de bourse régie par la loi n° 88-70 du 22 janvier 1988 sur les bourses de valeurs ou d'établissement non résident ayant un statut comparable, permettant l'exécution à titre habituel, par compensation ou non, de paiements en francs ou en devises entre lesdits participants.
