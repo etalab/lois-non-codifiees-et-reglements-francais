@@ -1,7 +1,0 @@
-# Article 2
-
-La taxe est assise [*assiette*] sur le montant des ventes hors taxes en France et des ventes à l'étranger de produits en béton et en terre cuite fabriqués en France ; s'ils sont fabriqués à l'étranger, ces produits ne sont pas soumis à cette taxe à l'occasion de leur vente en France.
-
-a) Sont considérés comme produits en béton [*définition*] les produits obtenus par durcissement d'un mélange comprenant un liant et des granulats naturels ou artificiels. Sont inclus dans ces produits ceux relevant du groupe 15-08 de la Nomenclature détaillée de produits, approuvée par le décret du 5 septembre 1983 susvisé ; en sont en revanche exclues les argiles stabilisées à froid ;
-
-b) Sont considérés comme produits en terre cuite [*définition*] les produits obtenus par cuisson à une température de l'ordre de 1 000 °C, d'un mélange essentiellement de terres argileuses communes ainsi que, par convention, les argiles stabilisées à froid. Sont inclus dans ces produits ceux relevant du groupe 15-10 Tuiles et briques de la Nomenclature détaillée de produits susmentionnée et, à l'intérieur de la rubrique 15-12-04, les carreaux et tomettes en terre commune émaillés ou non. Les carreaux de terre cuite obtenus par un procédé de fabrication artisanal et dont le prix de vente hors taxes au départ de la fabrique est supérieur à 250 F le mètre carré sont réputés être des productions artistiques et ne sont pas assujettis à la taxe.
