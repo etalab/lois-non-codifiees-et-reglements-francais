@@ -1,13 +1,7 @@
 # Article 11
 
-I. Lorsque les dispositions de l'article 9 ci-dessus ne permettent pas de satisfaire toutes les demandes, la priorité est accordée dans l'ordre :
+La demande de congé doit être formulée au plus tard soixante jours à l'avance [*délai*].
 
-Aux demandes présentées et qui ont déjà été différées ;
+Elle doit indiquer la date à laquelle commence la formation, sa désignation et sa durée ainsi que le nom de l'organisme responsable [*contenu, mentions obligatoires*].
 
-Aux demandes qui sont formulées par les agents ayant le plus d'ancienneté dans l'administration.
-
-II. Un agent ayant bénéficié d'une action ou d'un congé de formation prévu aux titres Ier, II et III du présent décret ne peut prétendre au bénéfice d'un nouveau congé de formation avant un délai exprimé en mois et dont la durée est égale au huitième de la durée, exprimée en heures, de l'action précédemment suivie.
-
-III. Le nombre d'heures de congé auxquelles ont droit les agents au titre de l'article 9 ci-dessus peut être reporté d'une année à l'autre à la demande des agents intéressés.
-
-IV. Le congé total peut être utilisé en une ou plusieurs fois pour suivre des stages, continus ou discontinus, à temps plein ou à temps partiel.
+Dans les trente jours qui suivent la réception de la demande, le chef de service doit faire connaître à l'intéressé son accord ou les raisons qui motivent le rejet ou le report de la demande.
