@@ -567,7 +567,6 @@
 - [Arrêté du 29 avril 1988 (ASES8800688A)](arrete-du-29-avril-1988-ases8800688a)
 - [Arrêté du 29 avril 1988 (ASES8800711A)](arrete-du-29-avril-1988-ases8800711a)
 - [Arrêté du 29 avril 1988 (BUDR8803051A)](arrete-du-29-avril-1988-budr8803051a)
-- [Arrêté du 29 avril 1988 (INDM8800304A)](arrete-du-29-avril-1988-indm8800304a)
 - [Arrêté du 29 avril 1988 (RESK8800537A)](arrete-du-29-avril-1988-resk8800537a)
 - [Arrêté du 29 avril 1988 (RESK8800540A)](arrete-du-29-avril-1988-resk8800540a)
 - [Arrêté du 29 avril 1988 (RESK8800541A)](arrete-du-29-avril-1988-resk8800541a)

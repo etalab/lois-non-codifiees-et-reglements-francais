@@ -6,4 +6,3 @@
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 13](article-13.md)
-- [DU CENTRE NATIONAL D'INFORMATIQUE JURIDIQUE *CNIJ*](du-centre-national-d-informatique-juridique-cnij)
