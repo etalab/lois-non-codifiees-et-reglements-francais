@@ -76,6 +76,7 @@
 - [Arrêté du 22 novembre 2000 (EQUK0001854A)](arrete-du-22-novembre-2000-equk0001854a)
 - [Arrêté du 22 novembre 2000 (MAEA0020511A)](arrete-du-22-novembre-2000-maea0020511a)
 - [Arrêté du 23 février 2000 (EQUA0000341A)](arrete-du-23-fevrier-2000-equa0000341a)
+- [Arrêté du 23 février 2000 (EQUI0000260A)](arrete-du-23-fevrier-2000-equi0000260a)
 - [Arrêté du 23 novembre 2000 (AGRG0002363A)](arrete-du-23-novembre-2000-agrg0002363a)
 - [Arrêté du 23 novembre 2000 (EQUA0001912A)](arrete-du-23-novembre-2000-equa0001912a)
 - [Arrêté du 23 novembre 2000 (EQUT0001063A)](arrete-du-23-novembre-2000-equt0001063a)
