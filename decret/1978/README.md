@@ -7,6 +7,7 @@
 - [Décret n°78-219 du 3 mars 1978](decret-n78-219-du-3-mars-1978)
 - [Décret n° 78-252 du 8 mars 1978](decret-n-78-252-du-8-mars-1978)
 - [Décret n°78-141 du 8 février 1978](decret-n78-141-du-8-fevrier-1978)
+- [Décret n°78-154 du 8 février 1978](decret-n78-154-du-8-fevrier-1978)
 - [Décret n°71-187 du 9 mars 1971](decret-n71-187-du-9-mars-1971)
 - [Décret n°78-21 du 9 janvier 1978](decret-n78-21-du-9-janvier-1978)
 - [Décret n°78-27 du 10 janvier 1978](decret-n78-27-du-10-janvier-1978)
