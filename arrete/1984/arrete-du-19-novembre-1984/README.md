@@ -1,4 +1,4 @@
-# Arrêté du 19 novembre 1984 relatif aux prix de vente du beurre à prix réduit destiné à la consommation directe
+# Arrêté du 19 novembre 1984 fixant les modalités de calcul des remises allouées au titre des frais de gestion aux groupements mutualistes visés à l'article L. 27 du code de la sécurité sociale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

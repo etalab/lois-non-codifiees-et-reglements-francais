@@ -1,3 +1,3 @@
 # Article 5
 
-A titre de mesure de publicité des prix, une affichette portant la mention "Beurre Vente spéciale C.E.E." doit être apposée dans le magasin de détail commercialisant ce produit, de manière à être directement visible par le consommateur.
+Les dispositions du présent arrêté s'appliquent aux rémunérations versées au titre de l'année budgétaire 1984 et des années suivantes.
