@@ -115,6 +115,7 @@
 - [Arrêté du 23 décembre 1983](arrete-du-23-decembre-1983)
 - [Arrêté du 23 février 1984](arrete-du-23-fevrier-1984)
 - [Arrêté du 23 janvier 1984](arrete-du-23-janvier-1984)
+- [Arrêté du 23 octobre 1984](arrete-du-23-octobre-1984)
 - [Arrêté du 23 mai 1984](arrete-du-23-mai-1984)
 - [Arrêté du 24 février 1984](arrete-du-24-fevrier-1984)
 - [Arrêté du 24 janvier 1984](arrete-du-24-janvier-1984)
