@@ -7,6 +7,7 @@
 - [Décret n°69-132 du 6 février 1969](decret-n69-132-du-6-fevrier-1969)
 - [Décret n°69-134 du 6 février 1969](decret-n69-134-du-6-fevrier-1969)
 - [Décret n°69-222 du 6 mars 1969](decret-n69-222-du-6-mars-1969)
+- [Décret n°69-422 du 6 mai 1969](decret-n69-422-du-6-mai-1969)
 - [Décret n°69-50 du 10 janvier 1969](decret-n69-50-du-10-janvier-1969)
 - [Décret n°69-51 du 10 janvier 1969](decret-n69-51-du-10-janvier-1969)
 - [Décret n°69-52 du 10 janvier 1969](decret-n69-52-du-10-janvier-1969)
