@@ -6,9 +6,11 @@ Pour ouvrir droit à l'exonération de taxe professionnelle, les opérations dé
 
 Extension d'installations affectées à des activités industrielles :
 
-- trente emplois et un accroissement de 25 % [*pourcentage*], ou cent vingt emplois si l'extension est réalisée dans une agglomération de plus de 15.000 habitants ;
+Trente emplois et un accroissement de 25 p. 100 [*pourcentage*], ou cent vingt emplois si l'extension est réalisée dans une agglomération de plus de 15.000 habitants ;
 
-- dix emplois et un accroissement de 25 %, ou cinquante emplois et un accroissement de 10 %, ou cent vingt emplois si l'extension est réalisée dans une agglomération de 15.000 habitants au plus.
+Dix emplois et un accroissement de 25 p. 100, ou cinquante emplois et un accroissement de 10 p. 100, ou cent vingt emplois si l'extension est réalisée dans une agglomération de 15.000 habitants au plus.
+
+Reprise d'établissement industriel en difficulté : nombre d'emplois minimal prévu par les créations et maintien de l'effectif permanent, sauf dans le cas mentionné à l'article 5 (3°).
 
 Lorsque l'extension correspond au transfert d'un établissement situé en région parisienne ou en région lyonnaise les conditions d'effectifs sont les mêmes que celles exigées en matière de création.
 
@@ -16,23 +18,23 @@ Lorsque l'extension correspond au transfert d'un établissement situé en régio
 
 Pour les extensions d'activités réalisées dans ces mêmes zones les conditions d'effectifs sont :
 
-- quinze emplois et un accroissement de 20 %, ou cinquante emplois et un accroissement de 10 %, ou cent vingt emplois si l'extension est réalisée dans une agglomération de plus de 15.000 habitants ;
+Quinze emplois et un accroissement de 20 p. 100, ou cinquante emplois et un accroissement de 10 p. 100, ou cent vingt emplois si l'extension est réalisée dans une agglomération de plus de 15.000 habitants ;
 
-- six emplois et un accroissement de 20 %, ou cinquante emplois et 10 % d'accroissement, ou cent vingt emplois si l'extension est réalisée dans une agglomération de 15.000 habitants au plus.
+Six emplois et un accroissement de 20 p. 100, ou cinquante emplois et 10 p. 100 d'accroissement, ou cent vingt emplois si l'extension est réalisée dans une agglomération de 15.000 habitants au plus.
 
 3° En cas de reconversion par une entreprise de ses installations industrielles, seul le maintien de l'effectif du personnel est exigé.
 
 4° Création d'installations affectées à des activités ou services de direction, de gestion, d'ingénierie, d'études ou d'informatique :
 
-- vingt emplois s'il y a création du siège social ou transfert de ce dernier hors de la région parisienne ;
+Vingt emplois s'il y a création du siège social ou transfert de ce dernier hors de la région parisienne ;
 
-- trente emplois dans les autres cas.
+Trente emplois dans les autres cas.
 
-Pour les opérations correspondant à l'extension d'activités existantes, les programmes doivent, outre l'emploi minimal prévu pour les créations, avoir pour effet d'accroître l'effectif permanent employé d'au moins 50 % ou, si l'extension résulte de la création d'activités nouvelles ou d'un transfert hors de la région parisienne, de cent emplois.
+Pour les opérations correspondant à l'extension d'activités existantes, les programmes doivent, outre l'emploi minimal prévu pour les créations, avoir pour effet d'accroître l'effectif permanent employé d'au moins 50 p. 100 ou, si l'extension résulte de la création d'activités nouvelles ou d'un transfert hors de la région parisienne, de cent emplois.
 
 5° Création d'installations affectées à des activités de recherche : dix emplois.
 
-Pour les opérations correspondant à l'extension d'activités existantes, les programmes doivent, outre l'emploi minimal prévu pour les créations, avoir pour effet d'accroître le personnel de recherche d'au moins 30 %, ou de cinquante emplois minimum.
+Pour les opérations correspondant à l'extension d'activités existantes, les programmes doivent, outre l'emploi minimal prévu pour les créations, avoir pour effet d'accroître le personnel de recherche d'au moins 30 p. 100, ou de cinquante emplois minimum.
 
 6° Création d'établissements de tourisme et de villages de vacances : dix emplois. Deux emplois saisonniers d'une durée minimale de quatre mois sont considérés comme équivalant à un emploi permanent.
 

@@ -2,7 +2,7 @@
 
 L'exonération peut être accordée aux entreprises qui réalisent les opérations suivantes [*bénéficiaires*] :
 
-1° Création ou extension d'installations affectées à des activités industrielles ;
+1° Création ou extension d'installations affectées à des activités industrielles ou reprise de la totalité des moyens de production d'établissements industriels en difficulté, sous réserve du caractère inéluctable de la fermeture, lorsque celle-ci est attestée par la mise en oeuvre d'une procédure de règlement judiciaire ou de liquidation des biens et que l'acquisition de ces moyens est susceptible de permettre une poursuite durable de l'activité ;
 
 2° Reconversion par une entreprise de ses installations industrielles en vue de substituer, à ses productions relevant d'un secteur d'activité en déclin, de nouvelles productions ;
 
