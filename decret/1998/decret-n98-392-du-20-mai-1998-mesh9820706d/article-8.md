@@ -1,3 +1,3 @@
 # Article 8
 
-La ministre de l'emploi et de la solidarité, le ministre de l'économie, des finances et de l'industrie, le secrétaire d'Etat à la santé et le secrétaire d'Etat au budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+Le décret n° 76-215 du 27 février 1976 relatif aux conditions de nomination dans certains emplois des établissements relevant du livre IX du code de la santé publique est abrogé.
