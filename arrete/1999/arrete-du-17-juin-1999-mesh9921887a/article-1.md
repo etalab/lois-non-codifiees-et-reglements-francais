@@ -6,7 +6,7 @@ Taux annuels des émoluments des :
 
 Internes et résidents en médecine de première année : 91 147.
 
-Internes et résidents en médecine de deuxième année : 109 026.
+Internes et résidents en médecine de deuxième année : 102 026.
 
 Faisant fonction d'interne-: 82 460.
 
