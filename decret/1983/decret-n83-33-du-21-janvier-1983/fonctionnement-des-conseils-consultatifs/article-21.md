@@ -1,3 +1,3 @@
 # Article 21
 
-Le président de l'assemblée de Corse met à la disposition des présidents des conseils consultatifs les moyens de fonctionnement nécessaires. Ces moyens comprennent notamment ceux en personnel permettant à chaque conseil consultatif d'assurer à titre permanent le secrétariat des séances du conseil et de ses commissions.
+Chaque année dans le cadre de la préparation du budget de la région, le président du conseil économique et social et le président du conseil de la culture, de l'éducation et du cadre de vie élaborent un projet portant sur les crédits nécessaires à leur fonctionnement et à la réalisation de leurs études qu'ils soumettent au président de l'assemblée de Corse. "

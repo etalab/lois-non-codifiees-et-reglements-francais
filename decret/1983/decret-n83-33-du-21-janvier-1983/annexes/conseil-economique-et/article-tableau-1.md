@@ -1,117 +1,513 @@
 # Article Tableau 1
 
-Mode de désignation
+<table>
+<tr>
+<td> :----------------------------:</td>
+</tr>
+<tr>
+<td>  :(A):  MODE ET DESIGNATION   :</td>
+</tr>
+<tr>
+<td>  :---:------------------------:</td>
+</tr>
+<tr>
+<td>  :   : I - Entreprises et     :</td>
+</tr>
+<tr>
+<td>  :   :       activités        :</td>
+</tr>
+<tr>
+<td>  :   :    professionnelles    :</td>
+</tr>
+<tr>
+<td>  :   :     non salariées      :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 : Par la chambre de      :</td>
+</tr>
+<tr>
+<td>  :   :commerce et d'industrie :</td>
+</tr>
+<tr>
+<td>  :   :  d'Ajacio-Sartène      :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 : Par la chambre de      :</td>
+</tr>
+<tr>
+<td>  :   :commerce et d'industrie :</td>
+</tr>
+<tr>
+<td>  :   :de Bastia-Corte-Balogne :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 : Par l'union patronale  :</td>
+</tr>
+<tr>
+<td>  :   : interprofessionnelle   :</td>
+</tr>
+<tr>
+<td>  :   :    de la Corse         :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 :  Par la fédération     :</td>
+</tr>
+<tr>
+<td>  :   : régionale des petites  :</td>
+</tr>
+<tr>
+<td>  :   :et moyennes entreprises :</td>
+</tr>
+<tr>
+<td>  :   :    de la corse         :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 : Par accord entre la    :</td>
+</tr>
+<tr>
+<td>  :   : chambre des métiers de :</td>
+</tr>
+<tr>
+<td>  :   :  Corse du Sud et la    :</td>
+</tr>
+<tr>
+<td>  :   : chambre des métiers de :</td>
+</tr>
+<tr>
+<td>  :   :      Haute Corse       :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 :   Par la fédération    :</td>
+</tr>
+<tr>
+<td>  :   :régionale de bâtiments :</td>
+</tr>
+<tr>
+<td>  :   : et de travaux publics  :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 : Par accord entre les   :</td>
+</tr>
+<tr>
+<td>  :   :syndicats professionnels:</td>
+</tr>
+<tr>
+<td>  :   :   de transports        :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 :  Par accord entre les  :</td>
+</tr>
+<tr>
+<td>  :   : chambres d'agriculture :</td>
+</tr>
+<tr>
+<td>  :   : de Corse du Sud et de  :</td>
+</tr>
+<tr>
+<td>  :   :   la Haute Corse       :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 : Par le comité local    :</td>
+</tr>
+<tr>
+<td>  :   :   des pêches          :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+</table>
 
-I - Entreprises et activités professionnelles non salariées.
+<table>
+<tr>
+<td> : 1 :  Par accord entre les  :</td>
+</tr>
+<tr>
+<td>  :   :      fédérations       :</td>
+</tr>
+<tr>
+<td>  :   :   départementales      :</td>
+</tr>
+<tr>
+<td>  :   :    des syndicats       :</td>
+</tr>
+<tr>
+<td>  :   : d'exploitants agricoles:</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 :  Par accord entre les  :</td>
+</tr>
+<tr>
+<td>  :   :      fédérations       :</td>
+</tr>
+<tr>
+<td>  :   :   départementales      :</td>
+</tr>
+<tr>
+<td>  :   :    du M.O.D.E.F.       :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 :Par la section régionale:</td>
+</tr>
+<tr>
+<td>  :   :  de l'union nationale  :</td>
+</tr>
+<tr>
+<td>  :   :  des associations de   :</td>
+</tr>
+<tr>
+<td>  :   : professions libérales  :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 :  Par accord entre la   :</td>
+</tr>
+<tr>
+<td>  :   :  confédération corse   :</td>
+</tr>
+<tr>
+<td>  :   :    des hôteliers,     :</td>
+</tr>
+<tr>
+<td>  :   :     restaurateurs,     :</td>
+</tr>
+<tr>
+<td>  :   :     cafetiers et       :</td>
+</tr>
+<tr>
+<td>  :   :     limonadiers, et    :</td>
+</tr>
+<tr>
+<td>  :   : le syndicat régional   :</td>
+</tr>
+<tr>
+<td>  :   :   de l'hôtellerie     :</td>
+</tr>
+<tr>
+<td>  :   :   de plein air         :</td>
+</tr>
+<tr>
+<td>  :---:                        :</td>
+</tr>
+<tr>
+<td>  :13 :                        :</td>
+</tr>
+<tr>
+<td>  :----------------------------:</td>
+</tr>
+</table>
 
-Par accord entre la chambre de commerce et d'industrie d'Ajaccio-Sartène et la chambre de commerce et d'industrie de Bastia-Corté-Balagne.
+<table>
+<tr>
+<td>:-----------------------------:</td>
+</tr>
+<tr>
+<td>  :(A):  MODE ET DESIGNATION   :</td>
+</tr>
+<tr>
+<td>  :---:------------------------:</td>
+</tr>
+<tr>
+<td>  :   : II - Syndicats de      :</td>
+</tr>
+<tr>
+<td>  :   :       salariés         :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 4 : Par accord entre les   :</td>
+</tr>
+<tr>
+<td>  :   : unions départementales :</td>
+</tr>
+<tr>
+<td>  :   :   C.G.T. de la Corse   :</td>
+</tr>
+<tr>
+<td>  :   :   du Sud et de la      :</td>
+</tr>
+<tr>
+<td>  :   :     Haute Corse        :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 3 : Par accord entre les   :</td>
+</tr>
+<tr>
+<td>  :   : unions départementales :</td>
+</tr>
+<tr>
+<td>  :   :   C.G.T.-F.O. de la    :</td>
+</tr>
+<tr>
+<td>  :   :  Corse du Sud et de    :</td>
+</tr>
+<tr>
+<td>  :   :    la Haute Corse      :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 2 :  Par l'union régionale :</td>
+</tr>
+<tr>
+<td>  :   :  C.F.D.T. de la Corse  :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  :   :  Par la délégation     :</td>
+</tr>
+<tr>
+<td>  :   :  régionale C.F.T.C.    :</td>
+</tr>
+<tr>
+<td>  :   :   de la Corse          :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  :   : Par accord entre les   :</td>
+</tr>
+<tr>
+<td>  :   : unions départementales :</td>
+</tr>
+<tr>
+<td>  :   :   C.G.C. de la Corse   :</td>
+</tr>
+<tr>
+<td>  :   :   du Sud et de la      :</td>
+</tr>
+<tr>
+<td>  :   :     Haute Corse        :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  :   : Par le syndicat des    :</td>
+</tr>
+<tr>
+<td>  :   : travailleurs corses    :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  :   :    Par accord entre    :</td>
+</tr>
+<tr>
+<td>  :   :     les sections       :</td>
+</tr>
+<tr>
+<td>  :   :    départementales     :</td>
+</tr>
+<tr>
+<td>  :   :    de la F.E.N.        :</td>
+</tr>
+<tr>
+<td>  :   : de la Corse du Sud     :</td>
+</tr>
+<tr>
+<td>  :   : et de la Haute Corse   :</td>
+</tr>
+<tr>
+<td>  :---:                        :</td>
+</tr>
+<tr>
+<td>  :13 :                        :</td>
+</tr>
+<tr>
+<td>  :                            :</td>
+</tr>
+</table>
 
-Nombre de sièges : 1
+<table>
+<tr>
+<td>:-----------------------------:</td>
+</tr>
+<tr>
+<td>  :(A):  MODE ET DESIGNATION   :</td>
+</tr>
+<tr>
+<td>  :---:------------------------:</td>
+</tr>
+<tr>
+<td>  :   : III - Vie collective   :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 : Par accord entre les   :</td>
+</tr>
+<tr>
+<td>  :   : unions départementales :</td>
+</tr>
+<tr>
+<td>  :   :    d'associations      :</td>
+</tr>
+<tr>
+<td>  :   : familiale de la Corse  :</td>
+</tr>
+<tr>
+<td>  :   :   du Sud et de la      :</td>
+</tr>
+<tr>
+<td>  :   :     Haute Corse        :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 :  Par le groupement     :</td>
+</tr>
+<tr>
+<td>  :   :    régional de la      :</td>
+</tr>
+<tr>
+<td>  :   :  coopération et de     :</td>
+</tr>
+<tr>
+<td>  :   :    la mutualité        :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 : Par accord entre les   :</td>
+</tr>
+<tr>
+<td>  :   :    organisations de    :</td>
+</tr>
+<tr>
+<td>  :   : retraités et personnes :</td>
+</tr>
+<tr>
+<td>  :   : âgées siégeant de     :</td>
+</tr>
+<tr>
+<td>  :   : droit dans les comités :</td>
+</tr>
+<tr>
+<td>  :   :   départementaux de    :</td>
+</tr>
+<tr>
+<td>  :   : retraités et personnes :</td>
+</tr>
+<tr>
+<td>  :   : âgées de la région    :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 :    Par accord entre    :</td>
+</tr>
+<tr>
+<td>  :   :    les offices         :</td>
+</tr>
+<tr>
+<td>  :   :   départementaux du    :</td>
+</tr>
+<tr>
+<td>  :   :     tourisme et les    :</td>
+</tr>
+<tr>
+<td>  :   : syndicats d'initiative :</td>
+</tr>
+<tr>
+<td>  :   :   de la Corse du Sud   :</td>
+</tr>
+<tr>
+<td>  :   :  et de la Haute Corse  :</td>
+</tr>
+<tr>
+<td>  :   :                        :</td>
+</tr>
+<tr>
+<td>  : 1 :    Par accord entre    :</td>
+</tr>
+<tr>
+<td>  :   :    associations de     :</td>
+</tr>
+<tr>
+<td>  :   :   consommateurs de la  :</td>
+</tr>
+<tr>
+<td>  :   :     région de Corse    :</td>
+</tr>
+<tr>
+<td>  :---:                        :</td>
+</tr>
+<tr>
+<td>  : 5 :                        :</td>
+</tr>
+<tr>
+<td>  :                            :</td>
+</tr>
+</table>
 
-Par l'union patronale interprofessionnelle de la Corse.
+<table>
+<tr>
+<td>:-----------------------------:</td>
+</tr>
+<tr>
+<td>  :(A):  MODE ET DESIGNATION   :</td>
+</tr>
+<tr>
+<td>  :---:------------------------:</td>
+</tr>
+<tr>
+<td>  : 1 : IV - Personnalité      :</td>
+</tr>
+<tr>
+<td>  :   :       qualifiée        :</td>
+</tr>
+<tr>
+<td>  :---:------------------------:</td>
+</tr>
+</table>
 
-Nombre de sièges : 1
-
-Par la fédération régionale des petites et moyennes entreprises de la corse.
-
-Nombre de sièges : 1
-
-Par accord entre la chambre des métiers de Corse du Sud et la chambre des métiers de Haute Corse.
-
-Nombre de sièges : 1
-
-Par la fédération régionale de bâtiments et de travaux publics.
-
-Nombre de sièges : 1
-
-Par accord entre les syndicats professionnels de transports.
-
-Nombre de sièges : 1
-
-Par accord entre les chambres d'agriculture de Corse du Sud et de la Haute Corse.
-
-Nombre de sièges : 1
-
-Par le comité local des pêches.
-
-Nombre de sièges : 1
-
-Par accord entre les fédérations départementales des syndicats d'exploitants agricoles.
-
-Nombre de sièges : 1
-
-Par accord entre les fédérations départementales du M.O.D.E.F..
-
-Nombre de sièges : 1
-
-Par la section régionale de l'union nationale des associations de professions libérales.
-
-Nombre de sièges : 1
-
-Par accord entre la confédération corse des hôteliers, restaurateurs, cafetiers et limonadiers, le syndicat régional de l'hôtellerie de plein air.
-
-Nombre de sièges : 1
-
-Nombre de sièges total : 12
-
-Mode de désignation
-
-II - Syndicats de salariés.
-
-Par accord entre les unions départementales C.G.T. de la Corse du Sud et de la Haute Corse.
-
-Nombre de sièges : 4
-
-Par accord entre les unions départementales C.G.T.-F.O. de la Corse du Sud et de la Haute Corse.
-
-Nombre de sièges : 3
-
-Par l'union régionale C.F.D.T. de la Corse.
-
-Nombre de sièges : 2
-
-Par la délégation régionale C.F.T.C. de la Corse.
-
-Nombre de sièges : 1
-
-Par accord entre les unions départementales C.G.C. de la Corse du Sud et de la Haute Corse.
-
-Nombre de sièges : 1
-
-Par accord entre les sections départementales de la F.E.N. de la Corse du Sud et de la Haute Corse.
-
-Nombre de sièges : 1
-
-Nombre total de sièges : 12
-
-Mode de désignation
-
-III - Vie collective.
-
-Par accord entre les unions départementales d'associations familiales de la Corse du Sud et de la Haute Corse.
-
-Nombre de sièges : 1
-
-Par le groupement régional de la coopération et de la mutualité.
-
-Nombre de sièges : 1
-
-Par accord entre les organisations de retraités et personnes âgées siégeant de droit dans les comités départementaux de retraités et personnes âgées de la région.
-
-Nombre de sièges : 1
-
-Par accord entre les offices départementaux du tourisme et les syndicats d'initiative de la Corse du Sud et de la Haute Corse.
-
-Nombre de sièges : 1
-
-Par l'union régionale des consommateurs.
-
-Nombre de sièges : 1
-
-Nombre total de sièges : 5
-
-Mode de désignation
-
-IV - Personnalité qualifiée.
-
-Nombre de sièges : 1
+(A) Nombre de sièges
