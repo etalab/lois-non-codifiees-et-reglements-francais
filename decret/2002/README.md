@@ -5,6 +5,7 @@
 - [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
 - [Décret n°95-402 du 13 avril 1995 (SPSS9403399D)](decret-n95-402-du-13-avril-1995-spss9403399d)
 - [Décret n°74-449 du 15 mai 1974](decret-n74-449-du-15-mai-1974)
+- [Décret n°2002-84 du 16 janvier 2002 (INTX0100164D)](decret-n2002-84-du-16-janvier-2002-intx0100164d)
 - [Décret n°2002-1551 du 23 décembre 2002 (SOCF0211793D)](decret-n2002-1551-du-23-decembre-2002-socf0211793d)
 - [Décret n°2002-1556 du 23 décembre 2002 (JUSC0220617D)](decret-n2002-1556-du-23-decembre-2002-jusc0220617d)
 - [Décret n°2002-1559 du 23 décembre 2002 (DEFD0202573D)](decret-n2002-1559-du-23-decembre-2002-defd0202573d)
