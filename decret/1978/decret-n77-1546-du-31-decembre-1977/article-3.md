@@ -1,6 +1,6 @@
 # Article 3
 
-Tout centre d'aide par le travail géré par une personne de droit privé doit, pour obtenir l'autorisation de fonctionner prévue par l'article 9 de la loi n. 75-535 du 30 juin 1975, passer une convention avec le département [*condition*].
+Tout centre d'aide par le travail géré par une personne de droit privé doit, pour obtenir l'autorisation de fonctionner prévue par l'article 9 de la loi n. 75-535 du 30 juin 1975, passer une convention avec le représentant de l'Etat dans le département [*condition, autorité compétente*].
 
 Cette convention, qui entraîne la prise en charge au titre de l'aide sociale des dépenses du centre relevant de celle-ci, précise notamment :
 
