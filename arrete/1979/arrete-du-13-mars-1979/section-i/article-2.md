@@ -26,9 +26,9 @@ Les surfaces habitables minimales des logements et leur composition sont fixées
 <td align="center">I <br/>
 </td>
 <td align="left" colspan="2">
-<p>1 pièce principale avec cabinet de toilette, </p>
-<p>placard, w.-c., douche, raccordement aux </p>
-<p>réseaux divers. </p>
+<p>1 pièce principale avec coin cuisine, </p>
+<p>cabinet de toilette, placard, w.-c., douche, </p>
+<p>raccordement aux réseaux divers.</p>
 </td>
 <td align="center"> 16</td>
 </tr>
@@ -91,8 +91,7 @@ Les surfaces habitables minimales des logements et leur composition sont fixées
 </td>
 <td align="left">Par pièce principale en plus <br/>
 </td>
-<td align="center">12 <br/>
-</td>
+<td align="center">12 </td>
 </tr>
 </tbody>
 </table>

@@ -1,3 +1,3 @@
 # Article 1
 
-Les logements neufs à usage locatif financés au moyen de subventions de l'Etat ou de prêts aidés par l'Etat doivent répondre aux conditions du présent arrêté.
+Les logements neufs en accession à la propriété financés au moyen de prêts aidés par l'Etat, à l'exclusion de ceux construits par des personnes physiques qui assurent elles-mêmes la maîtrise d'ouvrage, doivent répondre aux conditions du présent arrêté.

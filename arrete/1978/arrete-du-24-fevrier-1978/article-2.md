@@ -10,7 +10,7 @@ TYPES de logements : I
 
 COMPOSITION DES LOGEMENTS :
 
-1 pièce principale avec cabinet de toilette, placard, w.-c., douche, raccordement aux réseaux divers.
+1 pièce principale avec coin cuisine, cabinet de toilette, placard, w.-c., douche, raccordement aux réseaux divers.
 
 SURFACES habitables minimales (m2) : 16.
 
