@@ -134,7 +134,6 @@
 - [Décret n°83-228 du 22 mars 1983](decret-n83-228-du-22-mars-1983)
 - [Décret n°83-513 du 22 juin 1983](decret-n83-513-du-22-juin-1983)
 - [Décret n°83-670 du 22 juillet 1983](decret-n83-670-du-22-juillet-1983)
-- [Décret n°83-838 du 22 septembre 1983](decret-n83-838-du-22-septembre-1983)
 - [Décret n°83-840 du 22 septembre 1983](decret-n83-840-du-22-septembre-1983)
 - [Décret n°83-846 du 22 septembre 1983](decret-n83-846-du-22-septembre-1983)
 - [Décret n°83-850 du 22 septembre 1983](decret-n83-850-du-22-septembre-1983)
