@@ -36,4 +36,4 @@ Le conseil d'administration fixe également :
 
 1. Les montants au-dessus desquels les contrats, conventions ou marchés, autres que ceux visés au h et au l ci-dessus, ne peuvent être passés qu'avec son autorisation ;
 
-2. En ce qui concerne les concours financiers attribués par l'agence, les critères en vertu desquels la décision d'attribution est prise soit par le président, soit par un délégué régional. Le conseil fixe en outre les seuils en fonction desquels est requis l'avis préalable soit de la commission nationale, soit de la commission régionale des aides, mentionnés aux articles 16 et 19 ci-dessous.
+2. Les modalités et critères d'attribution des concours financiers de l'agence pour chaque type d'opération. Le conseil fixe en outre les modalités et seuils de saisine des commissions nationales des aides mentionnées à l'article 16 et des commissions régionales des aides mentionnées à l'article 19 ainsi que les seuils en fonction desquels les décisions sont prises soit par le président, soit par les délégués régionaux.

@@ -1,0 +1,9 @@
+# Article 4
+
+Les établissements ou organismes publics ou privés, bénéficiaires d'une autorisation d'importation ou d'exportation de produits d'origine humaine à des fins scientifiques, disposent, à compter de la date de publication du présent décret et dans la limite de validité de cette autorisation, d'un délai d'un an pour solliciter l'autorisation mentionnée à l'article R. 673-22 du code de la santé publique. L'autorisation délivrée par le ministre chargé de la santé devient caduque si l'autorisation du ministre chargé de la recherche n'a pas été sollicitée à l'expiration de ce délai.
+
+Par dérogation aux dispositions du deuxième alinéa de l'article R. 673-21 du code de la santé publique et jusqu'à la publication du décret prévu à l'article L. 672-11 du même code, les organismes visés au II de l'article L. 672-11 peuvent être autorisés dans les cas et conditions prévus à l'article R. 673-22 du même code à importer ou exporter des produits d'origine humaine en vue de leur cession, pour un usage scientifique, à un organisme public ou privé qui développe des programmes de recherche.
+
+Si, après la publication du décret prévu à l'article L. 672-11 du code précité, un organisme autorisé en application de l'alinéa précédent dépose la demande d'autorisation mentionnée au II de l'article L. 672-11, il peut encore poursuivre ces activités d'importation et d'exportation d'éléments du corps humain à des fins scientifiques jusqu'à l'intervention de la décision du ministre chargé de la recherche sur cette demande.
+
+Le ministre chargé de la recherche peut toutefois à tout moment, au cours de cette période transitoire, suspendre la poursuite de tout ou partie des activités d'importation et d'exportation d'éléments du corps humain dans les conditions prévues à l'article R. 673-23 du code de la santé publique.
