@@ -1,88 +1,9 @@
 # Article 1
 
-L'échelonnement indiciaire applicable au grade d'expert technique principal des services techniques est fixé ainsi qu'il suit :
+Le conseil d'orientation et de coordination de l'Institut supérieur agro-vétérinaire de Toulouse est composé :
 
-<table>
-<tbody>
-<tr>
-<td valign="top">
-<p align="center">GRADE ET ECHELONS</p>
-</td>
-<td valign="top">
-<p align="center">INDICES BRUTS</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p align="center">Expert technique principal</p>
-</td>
-<td valign="top">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>8e échelon</p>
-</td>
-<td valign="top">
-<p align="center">479</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>7e échelon</p>
-</td>
-<td valign="top">
-<p align="center">455</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>6e échelon</p>
-</td>
-<td valign="top">
-<p align="center">427</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>5e échelon</p>
-</td>
-<td valign="top">
-<p align="center">400</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>4e échelon</p>
-</td>
-<td valign="top">
-<p align="center">376</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>3e échelon</p>
-</td>
-<td valign="top">
-<p align="center">349</p>
-</td>
-</tr>
-<tr>
-<td valign="top">
-<p>2e échelon</p>
-</td>
-<td valign="top">
-<p align="center">336</p>
-</td>
-</tr>
-<tr>
-<td rowspan="2" valign="top">
-<p>1er échelon</p>
-</td>
-<td rowspan="2" valign="top">
-<p align="center">309</p>
-</td>
-</tr>
-</tbody>
-</table>
+a) Du directeur ou responsable de chacun des établissements membres actifs du complexe ;
+
+b) De personnes qualifiées au regard des objectifs du complexe, dans les conditions définies à l'article 2 ci-après ;
+
+c) Du directeur général de l'enseignement et de la recherche représentant le ministre de l'agriculture.

@@ -1,0 +1,5 @@
+# Article 19
+
+La délégation à l'information et à la communication a pour mission, en liaison avec l'ensemble des directions et services, de faire connaître l'action menée par le ministère dans les domaines de l'industrie, de l'énergie et des matières premières et de promouvoir l'information sur les réalisations des partenaires économiques dans ces secteurs.
+
+Elle assure les relations avec les organes d'information. Elle anime les actions du ministère relatives à l'information et à la documentation. Elle recherche une coordination permanente avec les politiques de communication des organismes sous tutelle. Elle veille à la cohérence de l'activité du ministère en matière de publication. Elle suscite et organise la présence du ministère dans les grandes manifestations intervenant dans les domaines de compétences de ce dernier. Elle participe, avec le concours de la direction de l'administration générale, à l'étude des moyens propres à faciliter la communication interne entre les structures du ministère.

@@ -1,0 +1,3 @@
+# Article 23
+
+Sont abrogés le décret n° 81-858 du 15 septembre 1981 relatif à l'organisation du ministère de l'industrie, le décret n° 82-768 du 9 septembre 1982 relatif à l'organisation de l'administration centrale du ministère de la recherche et de l'industrie, à l'exception du troisième alinéa de l'article 2 et des articles 3 bis à 7 bis et 26, le décret n° 85-803 du 30 juillet 1985 relatif aux services d'administration centrale propres au ministère du redéploiement industriel et du commerce extérieur et le décret n° 85-804 du 30 juillet 1985 relatif aux services d'administration centrale communs au ministère du redéploiement industriel et du commerce extérieur et au ministère de la recherche et de la technologie.
