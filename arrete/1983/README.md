@@ -60,6 +60,7 @@
 - [Arrêté du 10 juin 1983](arrete-du-10-juin-1983)
 - [Arrêté du 10 novembre 1983](arrete-du-10-novembre-1983)
 - [Arrêté du 10 septembre 1983](arrete-du-10-septembre-1983)
+- [Arrêté du 11 août 1983](arrete-du-11-aout-1983)
 - [Arrêté du 11 février 1983](arrete-du-11-fevrier-1983)
 - [Arrêté du 11 juillet 1983](arrete-du-11-juillet-1983)
 - [Arrêté du 11 octobre 1983](arrete-du-11-octobre-1983)
