@@ -1,0 +1,3 @@
+# Article 4
+
+En formation initiale sous statut scolaire, les enseignements permettant d'atteindre les compétences requises du technicien supérieur sont dispensés conformément à l'horaire hebdomadaire figurant en annexe III au présent arrêté. Les candidats à l'admission dans une section de technicien supérieur responsable de l'hébergement à référentiel commun européen qui n'ont pas suivi un second cycle du domaine de l'hôtellerie-restauration soit par le baccalauréat technologique hôtellerie, soit par le brevet de technicien supérieur hôtellerie-restauration, doivent suivre la formation de la classe de mise à niveau définie par l'arrêté du 19 août 1993 modifié fixant les conditions de délivrance du brevet de technicien supérieur hôtellerie-restauration.
