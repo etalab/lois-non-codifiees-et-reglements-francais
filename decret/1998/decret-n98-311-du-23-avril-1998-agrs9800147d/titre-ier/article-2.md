@@ -10,9 +10,9 @@ Pour prétendre à l'allocation de préretraite, le chef d'exploitation doit :
 
 La durée d'activité est réduite à trois ans pour le chef d'exploitation qui a repris l'exploitation familiale à la suite du départ en retraite, de la reconnaissance de l'invalidité aux deux tiers, du décès de son conjoint ou suite à une procédure de divorce, ou de séparation de corps engagée avant le 1er janvier 2000, lorsque, auparavant, il a participé pendant au moins dix ans aux travaux de l'exploitation à titre principal et qu'à ce titre et pendant cette période des cotisations ouvrant droit à la pension de retraite forfaitaire ont été versées ;
 
-4. Ne pas avoir apporté à son exploitation l'une des modifications suivantes, entre le 1er janvier 2000 et la date du dépôt de sa demande :
+4. Ne pas avoir apporté à son exploitation l'une des modifications suivantes, entre le 1er janvier de l'année du dépôt de la demande et la date de la demande.
 
-- une réduction de plus de 15 % de la superficie ou de l'une des références de production ou droits à aides visés à l'article 15 de la loi du 1er février 1995 précitée, sauf en cas de cessation totale ou partielle d'activité laitière résultant de l'application de l'article 8 du règlement (CEE) n° 3950/92 du 28 décembre 1992 établissant un prélèvement supplémentaire dans le secteur du lait et des produits laitiers ;
+III. - A l'article 23, la date du 31 décembre 1949 est    - une réduction de plus de 15 % de la superficie ou de l'une des références de production ou droits à aides visés à l'article 15 de la loi du 1er février 1995 précitée, sauf en cas de cessation totale ou partielle d'activité laitière résultant de l'application de l'article 8 du règlement (CEE) n° 3950/92 du 28 décembre 1992 établissant un prélèvement supplémentaire dans le secteur du lait et des produits laitiers ;
 
 - une scission de celle-ci en deux ou plusieurs fonds séparés ;
 
