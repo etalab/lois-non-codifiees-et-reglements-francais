@@ -4,6 +4,7 @@
 - [Arrêté du 3 octobre 1967](arrete-du-3-octobre-1967)
 - [Arrêté du 4 septembre 1967](arrete-du-4-septembre-1967)
 - [Arrêté du 7 février 1967](arrete-du-7-fevrier-1967)
+- [Arrêté du 13 novembre 1967](arrete-du-13-novembre-1967)
 - [Arrêté du 13 septembre 1967](arrete-du-13-septembre-1967)
 - [Arrêté du 18 septembre 1967](arrete-du-18-septembre-1967)
 - [Arrêté du 19 juillet 1967](arrete-du-19-juillet-1967)
