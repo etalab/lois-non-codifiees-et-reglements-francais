@@ -9,6 +9,7 @@
 - [Décret n°55-1342 du 10 octobre 1955](decret-n55-1342-du-10-octobre-1955)
 - [Décret n°55-1350 du 14 octobre 1955](decret-n55-1350-du-14-octobre-1955)
 - [Décret n°55-1657 du 16 décembre 1955](decret-n55-1657-du-16-decembre-1955)
+- [Décret n°54-1139 du 17 novembre 1954](decret-n54-1139-du-17-novembre-1954)
 - [Décret n°55-1650 du 17 décembre 1955](decret-n55-1650-du-17-decembre-1955)
 - [Décret n°55-1366 du 18 octobre 1955](decret-n55-1366-du-18-octobre-1955)
 - [Décret n°55-1390 du 18 octobre 1955](decret-n55-1390-du-18-octobre-1955)

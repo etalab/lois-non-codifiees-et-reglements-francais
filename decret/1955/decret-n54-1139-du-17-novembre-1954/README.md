@@ -1,0 +1,5 @@
+# Décret n°54-1139 du 17 novembre 1954 PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE POUR LA REPARTITION ENTRE L'ETAT ET LES COLLECTIVITES LOCALES DES DEPENSES D'AIDE SOCIALE.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
