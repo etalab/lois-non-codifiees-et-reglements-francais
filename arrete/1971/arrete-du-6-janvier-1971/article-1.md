@@ -48,7 +48,7 @@ L'inspecteur des établissements classés ;
 
 Le chef du district pétrolier ;
 
-Un délégué au conseil départemental de l'environnement et des risques sanitaires et technologiques ;
+Un délégué au conseil départemental d'hygiène ;
 
 3° En ce qui concerne la sécurité dans les établissements recevant du public et dans les immeubles de grande hauteur, et notamment pour l'application du décret n° 54-856 du 13 août 1954 susvisé et du décret n° 67-1065 du 15 novembre 1967 :
 
