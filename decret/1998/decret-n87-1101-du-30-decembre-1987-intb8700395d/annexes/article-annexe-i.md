@@ -1,42 +1,87 @@
 # Article ANNEXE I
 
 <table>
+<tbody>
 <tr>
-<td>:------------------------------:</td>
+<td colspan="2" valign="top">
+<p align="center">DUREES</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td> :  ECHELONS   :     DUREES     :</td>
+<td valign="top">
+<p align="center">ECHELONS</p>
+</td>
+<td valign="top">
+<p align="center">Maximale</p>
+</td>
+<td valign="top">
+<p align="center">Minimale</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td> :             :----------------:</td>
+<td>
+<p>5e échelon</p>
+</td>
+<td valign="top">
+<p align="center">-</p>
+</td>
+<td valign="top">
+<p align="center">-</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td> :             :   A   :    B   :</td>
+<td>
+<p>4e échelon</p>
+</td>
+<td valign="top">
+<p align="center">3 ans</p>
+</td>
+<td valign="top">
+<p align="center">3 ans</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td> :             :-------:--------:</td>
+<td>
+<p>3e échelon</p>
+</td>
+<td valign="top">
+<p align="center">3 ans</p>
+</td>
+<td valign="top">
+<p align="center">3 ans</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td> : 4e échelon  :       :        :</td>
+<td>
+<p>2e échelon</p>
+</td>
+<td valign="top">
+<p align="center">3 ans </p>
+</td>
+<td valign="top">
+<p align="center">3 ans</p>
+</td>
+<td/>
 </tr>
 <tr>
-<td> : 3e échelon  : 3 ans :  3 ans :</td>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2" valign="top">
+<p align="center">1 an 6 mois</p>
+</td>
+<td rowspan="2" valign="top">
+<p align="center">1 an</p>
+</td>
+<td height="19"/>
 </tr>
 <tr>
-<td> : 2e échelon  : 3 ans :  3 ans :</td>
+<td height="19"/>
 </tr>
-<tr>
-<td> : 1er échelon : 1 an  :  1 an  :</td>
-</tr>
-<tr>
-<td> :             :  6    :        :</td>
-</tr>
-<tr>
-<td> :             : mois  :        :</td>
-</tr>
-<tr>
-<td> :------------------------------:</td>
-</tr>
+</tbody>
 </table>
-
-(A) Durée maximale. (B) Durée minimale.

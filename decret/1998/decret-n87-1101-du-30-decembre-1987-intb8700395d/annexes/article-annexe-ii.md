@@ -1,60 +1,111 @@
 # Article ANNEXE II
 
 <table>
+<tbody>
 <tr>
-<td>:------------------------------:</td>
+<td valign="top"/>
+<td colspan="2" valign="top">
+<p align="center">DUREES</p>
+</td>
 </tr>
 <tr>
-<td> :  ECHELONS  :     DUREES      :</td>
+<td valign="top">
+<p align="center">ECHELONS</p>
+</td>
+<td valign="top">
+<p align="center">Maximale</p>
+</td>
+<td valign="top">
+<p align="center">Minimale</p>
+</td>
 </tr>
 <tr>
-<td> :            :-----------------:</td>
+<td>
+<p>8e échelon</p>
+</td>
+<td valign="top">
+<p align="center">-</p>
+</td>
+<td valign="top">
+<p align="center">-</p>
+</td>
 </tr>
 <tr>
-<td> :            :   A    :    B   :</td>
+<td>
+<p>7e échelon</p>
+</td>
+<td valign="top">
+<p align="center">3 ans </p>
+</td>
+<td valign="top">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> :            :-----------------:</td>
+<td>
+<p>6e échelon</p>
+</td>
+<td valign="top">
+<p align="center">3 ans </p>
+</td>
+<td valign="top">
+<p align="center">3 ans</p>
+</td>
 </tr>
 <tr>
-<td> : 7e échelon :        :        :</td>
+<td>
+<p>5e échelon</p>
+</td>
+<td valign="top">
+<p align="center">2 ans 6 mois</p>
+</td>
+<td valign="top">
+<p align="center">2 ans</p>
+</td>
 </tr>
 <tr>
-<td> : 6e échelon : 3 ans  : 3 ans  :</td>
+<td>
+<p>4e échelon</p>
+</td>
+<td valign="top">
+<p align="center">2 ans 6 mois</p>
+</td>
+<td valign="top">
+<p align="center">2 ans </p>
+</td>
 </tr>
 <tr>
-<td> : 5e échelon : 2 ans  : 2 ans  :</td>
+<td>
+<p>3e échelon</p>
+</td>
+<td valign="top">
+<p align="center">2 ans </p>
+</td>
+<td valign="top">
+<p align="center">1 an 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> :            : 6 mois :        :</td>
+<td>
+<p>2e échelon</p>
+</td>
+<td valign="top">
+<p align="center">2 ans </p>
+</td>
+<td valign="top">
+<p align="center">1 an 6 mois</p>
+</td>
 </tr>
 <tr>
-<td> : 4e échelon : 2 ans  : 2 ans  :</td>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2" valign="top">
+<p align="center">1 an 6 mois</p>
+</td>
+<td rowspan="2" valign="top">
+<p align="center">1 an </p>
+</td>
 </tr>
-<tr>
-<td> :            : 6 mois :        :</td>
-</tr>
-<tr>
-<td> : 3e échelon : 2 ans  : 1 an   :</td>
-</tr>
-<tr>
-<td> :            :        : 6 mois :</td>
-</tr>
-<tr>
-<td> : 2e échelon : 2 ans  : 1 an   :</td>
-</tr>
-<tr>
-<td> :            :        : 6 mois :</td>
-</tr>
-<tr>
-<td> :     1er    : 1 an   :  1 an  :</td>
-</tr>
-<tr>
-<td> :   échelon  : 6 mois :        :</td>
-</tr>
-<tr>
-<td> :------------------------------:</td>
-</tr>
+</tbody>
 </table>
-
-(A) Durée maximale. (B) Durée minimale.

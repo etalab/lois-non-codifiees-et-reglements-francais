@@ -2,7 +2,7 @@
 
 I. - Les dispositions du présent décret sont applicables aux emplois suivants :
 
-1. Directeur général des services des communes de 5 000 habitants et plus et secrétaire général ou directeur des établissements publics dont la liste est mentionnée à l'article 53 de la loi du 26 janvier 1984 susvisée ;
+1. Directeur général des services des communes de 3 500 habitants et plus et secrétaire général ou directeur des établissements publics dont la liste est mentionnée à l'article 53 de la loi du 26 janvier 1984 susvisée ;
 
 2. Directeur général adjoint des services des communes de plus de 20 000 habitants et directeur adjoint des établissements publics dont la liste est mentionnée à l'article 53 de la loi du 26 janvier 1984 précitée ;
 

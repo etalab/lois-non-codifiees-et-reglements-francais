@@ -4,7 +4,11 @@ Les fonctionnaires nommés dans l'un des emplois mentionnés à l'article 1er et
 
 Toutefois, la nomination ne peut être prononcée lorsque la rémunération afférente à l'emploi de détachement excède la rémunération globale perçue dans le grade d'origine de plus de 15 p. 100.
 
-Ces fonctionnaires conservent, dans la limite de la durée de service exigée pour l'accès à l'échelon supérieur de leur nouvel emploi, l'ancienneté d'échelon acquise dans leur précédent emploi ou grade lorsque cette nomination ne leur procure pas un avantage supérieur à celui qui aurait résulté d'un avancement d'échelon dans leur ancien emploi ou grade.
+Ces fonctionnaires sont classés à l'échelon de l'emploi fonctionnel comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur grade.
+
+Ils conservent, dans la limite de la durée de service exigée pour l'accès à l'échelon supérieur, l'ancienneté d'échelon acquise dans leur grade d'origine lorsque cette nomination ne leur procure pas un avantage supérieur à celui qui serait résulté d'un avancement d'échelon dans leur grade d'origine.
+
+Les fonctionnaires nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur grade d'origine conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui était résultée d'un avancement à ce dernier échelon.
 
 Par dérogation aux dispositions de l'article 2 du décret du 13 janvier 1986 susvisé, le fonctionnaire territorial peut être détaché pour occuper l'un des emplois mentionnés à l'article 1er ci-dessus au sein de la collectivité ou de l'établissement dont il relève.
 
