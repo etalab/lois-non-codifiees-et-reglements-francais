@@ -3,5 +3,4 @@
 - [TITRE I : Des droits à la pension](titre-i)
 - [TITRE II : Des versements et prestations dus à la caisse des invalides](titre-ii)
 - [TITRE III : Dispositions générales](titre-iii)
-- [TITRE IV : Agents du service général.](titre-iv)
 - [TITRE V : Dispositions transitoires.](titre-v)
