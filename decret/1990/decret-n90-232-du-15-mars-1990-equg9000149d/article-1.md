@@ -1,7 +1,5 @@
 # Article 1
 
-Le compte de commerce ouvert par l'article 69 de la loi du 29 décembre 1989 susvisé retrace les opérations de recettes et de dépenses auxquelles donnent lieu les activités industrielles et commerciales effectuées par les directions départementales de l'équipement dans le domaine routier.
+Le compte de commerce ouvert par l'article 69 modifié de la loi du 29 décembre 1989 susvisé retrace, pour l'ensemble des départements, les opérations de recettes et de dépenses auxquelles donnent lieu les activités industrielles et commerciales effectuées par les directions départementales de l'équipement et, pour l'ensemble des régions, les opérations de recettes et de dépenses auxquelles donnent lieu les activités industrielles et commerciales de diffusion d'informations routières effectuées par les directions régionales de l'équipement.
 
-Les prestations réciproques prévues à l'article 30 de la loi du 2 mars 1982 susvisée relatives aux activités mentionnées au premier alinéa ci-dessus sont facturées ; elles sont retracées par le compte de commerce.
-
-Les remboursements prévus au deuxième alinéa du III de l'article 69 susmentionné ainsi que les contributions obligatoires versées par le département pour les personnels chargés des activités définies au premier alinéa du présent article sont affectés au compte de commerce. Les recettes correspondantes constituent un à-valoir sur les prestations facturées aux départements.
+Le ministre chargé de l'équipement fixe par arrêté la nature de ces dernières activités ainsi que les modalités de leur tarification.
