@@ -2,7 +2,7 @@
 
 Un ou plusieurs actionnaires représentant au moins le dixième [*proportion*] du capital social peuvent, soit individuellement soit en se groupant sous quelque forme que ce soit, demander en justice [*action*] la désignation d'un ou plusieurs experts chargés de présenter un rapport sur une ou plusieurs opérations de gestion [*protection des actionnaires minoritaires - qualité pour agir*].
 
-Le ministère public, le comité d'entreprise et, dans les sociétés faisant publiquement appel à l'épargne, la commission des opérations de bourse sont habilités à agir aux mêmes fins.
+Le ministère public, le comité d'entreprise et, dans les sociétés faisant publiquement appel à l'épargne, la commission des opérations de bourse sont habilités à agir aux mêmes fins. Cette demande peut également être formulée par une association répondant aux conditions fixées à l'article 172-1.
 
 S'il est fait droit à la demande, la décision de justice détermine l'étendue de la mission et des pouvoirs des experts. Elle peut mettre les honoraires à la charge de la société [*paiement*].
 

@@ -6,3 +6,4 @@
 - [Titre III : Du tableau.](titre-iii)
 - [Titre IV : De la discipline.](titre-iv)
 - [Titre V : De la tutelle des pouvoirs publics sur l'ordre.](titre-v)
+- [Titre VI : Dispositions transitoires](titre-vi)

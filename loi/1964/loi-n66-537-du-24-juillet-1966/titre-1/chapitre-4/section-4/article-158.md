@@ -6,7 +6,7 @@ A défaut, elle peut être également convoquée :
 
 1° Par les commissaires aux comptes ;
 
-2° Par un mandataire, désigné en justice, à la demande, soit de tout intéressé en cas d'urgence, soit d'un ou plusieurs actionnaires réunissant au moins le dixième [*proportion*] du capital social ;
+2° Par un mandataire, désigné en justice, à la demande, soit de tout intéressé en cas d'urgence, soit d'un ou plusieurs actionnaires réunissant au moins le dixième [*proportion*] du capital social, soit d'une association d'actionnaires répondant aux conditions fixées à l'article 172-1.
 
 3° Par les liquidateurs.
 

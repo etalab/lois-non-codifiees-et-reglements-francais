@@ -14,11 +14,9 @@ Le conseil régional [*attributions*] a seul qualité pour :
 
 6° Surveiller et contrôler les stages ;
 
-7° Fixer, sous réserve d'approbation par le conseil supérieur et recouvrer le montant des cotisations qui doivent être versées par les membres de l'ordre pour couvrir les frais de fonctionnement administratif de l'ordre ;
+7° Fixer et recouvrer le montant des cotisations qui doivent être versées par les membres de l'ordre pour couvrir les frais de fonctionnement administratif de l'ordre ;
 
-8° Saisir le conseil supérieur de toutes requêtes ou suggestions concernant les professions d'expert comptable et de comptable agréé.
-
-Le conseil régional en tant que représentant de l'ordre dans la circonscription peut, notamment :
+8° Saisir le conseil supérieur de toutes requêtes ou suggestions concernant les professions d'expert comptable et de comptable agréé.    Le conseil régional en tant que représentant de l'ordre de la circonscription peut, notamment :
 
 Délibérer sur toute question intéressant les professions relevant de sa compétence ;
 

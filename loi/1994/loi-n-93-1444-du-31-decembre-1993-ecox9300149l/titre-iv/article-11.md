@@ -1,0 +1,3 @@
+# Article 11
+
+Les titres acquis par les mandataires exclusifs dans les conditions prévues par l'article 11 de la loi n° 86-912 du 6 août 1986 relative aux modalités des privatisations peuvent être gérés dans le cadre d'un fonds commun de placement d'entreprise, créé spécialement à cet effet et constitué conformément aux dispositions de l'article 21 de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs mobilières et portant création des fonds communs de créances. Dans ce cas, les mandataires exclusifs bénéficient des droits des porteurs de parts au même titre que les salariés.

@@ -1,5 +1,3 @@
 # Article 8
 
-Est comptable agréé [*définition*] le technicien qui fait profession habituelle de tenir, centraliser, ouvrir , arrêter et surveiller et, dans l'exercice de ces missions, redresser les comptabilités des entreprises et organismes auxquels il n'est pas lié par un contrat de travail.
-
-Le comptable agréé [*attributions*] est habilité à attester la régularité et la sincérité des bilans et des comptes de résultats [*comptes annuels*] des entreprises dont il arrête la comptabilité.
+Les comptables agréés et les sociétés d'entreprise de comptabilité inscrits au tableau à la date de la publication de la loi n° 94-679 du 8 août 1994 portant diverses dispositions d'ordre économique et financier sont inscrits d'office respectivement en qualité d'expert-comptable et de société d'expertise comptable.

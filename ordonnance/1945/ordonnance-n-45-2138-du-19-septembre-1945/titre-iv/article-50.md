@@ -1,13 +1,13 @@
 # Article 50
 
-Il est institué auprès du conseil supérieur de l'ordre une chambre nationale de discipline.
+Il est institué auprés du conseil supérieur de l'ordre une chambre nationale de discipline.
 
-La chambre nationale de discipline est composée d'un président et de quatre assesseurs appelés à siéger, selon la catégorie professionnelle intéressée, suivant leur ordre d'inscription sur une liste composée de :
+La chambre nationale de discipline est composée :
 
-Un président et un président suppléant, désignés par le ministre de la justice parmi les magistrats de cour d'appel ;
+1° D'un président désigné par le garde des sceaux, ministre de la justice, parmi les présidents de chambre de la cour d'appel de Paris ;
 
-Huit experts comptables [*nombre*], soit quatre assesseurs, un syndic, deux assesseurs suppléants et un syndic suppléant, et quatre comptables agréés, soit deux assesseurs et deux assesseurs suppléants, élus par le conseil supérieur parmi ses membres.
+2° D'un conseiller référendaire à la Cour des comptes et d'un fonctionnaire, désignés par le ministre de l'économie et des finances ;
 
-Deux des assesseurs sont obligatoirement des experts comptables. Les deux autres assesseurs sont des experts comptables ou des comptables agréés suivant que le membre de l'ordre appelé devant la chambre de discipline est lui-même, soit un expert comptable ou un expert comptable stagiaire, soit un comptable agréé.
+3° De deux membres du conseil supérieur de l'ordre, l'un expert comptable, l'autre comptable agréé, élus par ce conseil lors de chaque renouvellement.
 
-La chambre nationale de discipline est saisie par son syndic.
+Un président et des membres suppléants sont désignés dans les mêmes conditions.

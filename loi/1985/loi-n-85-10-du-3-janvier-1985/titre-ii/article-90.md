@@ -1,0 +1,3 @@
+# Article 90
+
+Les dispositions de l'article L. 10-1 du code de la santé publique sont applicables à la réparation des dommages imputables directement aux vaccinations obligatoires pratiquées dans les conditions prévues audit article entre la date d'entrée en vigueur de la loi n° 64-643 du 1er juillet 1964 relative à la vaccination antipoliomyélitique obligatoire et à la répression des infractions à certaines dispositions du code de la santé publique et celle de la loi n° 75-401 du 26 mai 1975 modifiant l'article L. 10-1 du code de la santé publique afin de faire supporter par l'Etat la réparation de tout dommage imputable directement à une vaccination obligatoire et insérant un article L. 10-2 dans ce même code.

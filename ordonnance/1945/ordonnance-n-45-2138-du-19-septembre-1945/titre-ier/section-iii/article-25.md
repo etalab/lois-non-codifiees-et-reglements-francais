@@ -6,4 +6,4 @@ Les membres honoraires restent soumis à la juridiction disciplinaire de l'ordre
 
 Leurs droits ou leurs devoirs sont déterminés par le règlement intérieur.
 
-Le titre de président d'honneur peut être conféré au président sortant du conseil supérieur de l'ordre ou à toute autre personne ayant rendu à la profession des services particulièrement éminents. Le président d'honneur peut assister aux séances du conseil supérieur. Il a voix consultative.
+Le titre de président d'honneur peut être conféré au président sortant du conseil supérieur de l'ordre ou à toute autre personne ayant rendu à la profession des services particulièrement éminents.

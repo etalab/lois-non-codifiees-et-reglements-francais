@@ -4,6 +4,8 @@ L'exportation des trésors nationaux hors du territoire douanier peut être auto
 
 Cette autorisation est délivrée pour une durée proportionnée à l'objet de la demande.
 
+A l'occasion de la sortie du territoire douanier d'un trésor national visé à l'article 4, l'autorisation de sortie temporaire doit être présentée à toute réquisition des agents des douanes.
+
 Le propriétaire, ou le détenteur du bien, est tenu de le présenter sur requête des agents habilités par l'Etat dès l'expiration de l'autorisation.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

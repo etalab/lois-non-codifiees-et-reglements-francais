@@ -6,7 +6,7 @@ Une délégation de service ne peut être prolongée que :
 
 a) Pour des motifs d'intérêt général. La durée de la prolongation ne peut alors excéder un an ;
 
-b) Lorsque le délégataire est contraint, pour la bonne exécution du service public ou l'extension de son champ géographique et à la demande du délégant, de réaliser des travaux non prévus au contrat initial, de nature à modifier l'économie générale de la délégation et qui ne pourraient être amortis pendant la durée de la convention restant à courir que par une augmentation de prix manifestement excessive. [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-316 DC du 20 janvier 1993.]
+b) Lorsque le délégataire est contraint, pour la bonne exécution du service public ou l'extension de son champ géographique et à la demande du délégant, de réaliser des investissements matériels ou immatériels non prévus au contrat initial, de nature à modifier l'économie générale de la délégation et qui ne pourraient être amortis pendant la durée de la convention restant à courir que par une augmentation de prix manifestement excessive. [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 92-316 DC du 20 janvier 1993.]
 
 Si la délégation a été consentie par une personne publique autre que l'Etat, la prolongation mentionnée au a ou au b ne peut intervenir qu'après un vote de l'assemblée délibérante.
 

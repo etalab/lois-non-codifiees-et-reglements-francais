@@ -1,5 +1,3 @@
 # Article 46
 
-La commission bancaire peut nommer un liquidateur aux établissements de crédit qui cessent d'être agréés, et aux entreprises qui exercent irrégulièrement l'activité définie à l'article 1er ou enfreignent l'une des interdictions définies à l'article 10.
-
-Le liquidateur peut déclarer la cessation des paiements.
+Lorsqu'un établissement de crédit cesse d'être agréé ou lorsqu'une entreprise exerce irrégulièrement l'activité définie à l'article premier ou enfreint l'une des interdictions définies à l'article 10, la commission bancaire peut nommer un liquidateur, auquel sont transférés tous les pouvoirs d'administration, de direction et de représentation de la personne morale.

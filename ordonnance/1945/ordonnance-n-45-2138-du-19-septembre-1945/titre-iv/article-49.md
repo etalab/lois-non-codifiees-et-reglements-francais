@@ -2,10 +2,10 @@
 
 Il est institué auprès de chaque conseil régional de l'ordre une chambre régionale de discipline.
 
-La chambre régionale de discipline est composée d'un président et de deux assesseurs appelés à siéger, selon la catégorie professionnelle intéressée, suivant leur ordre d'inscription sur une liste élue par le conseil régional, parmi ses membres, et composée de :
+La chambre régionale de discipline est composée :
 
-Un président, deux assesseurs, dont l'un est également président suppléant, un assesseur suppléant, un syndic, choisis parmi les experts comptables ;
+1° D'un président désigné par le premier président de la cour l'appel dans le ressort de laquelle est situé le conseil régional parmi les magistrats du siège de cette cour ;
 
-Un assesseur, un assesseur suppléant, un syndic suppléant, choisis parmi les comptables agréés.
+2° De deux membres du conseil régional de l'ordre, élus par ce conseil lors de chaque renouvellement.
 
-Le président et l'un des assesseurs sont obligatoirement des experts comptables. Le second assesseur est un expert comptable ou un comptable agréé suivant que l'intéressé appelé devant la chambre de discipline exerce lui-même la profession d'expert comptable ou de comptable agréé. La chambre régionale de discipline est saisie par son syndic.
+Un président et des membres suppléants sont désignés dans les mêmes conditions.
