@@ -480,7 +480,6 @@
 - [Arrêté du 13 mai 2003 (ECOC0300052A)](arrete-du-13-mai-2003-ecoc0300052a)
 - [Arrêté du 13 mai 2003 (EQUT0300811A)](arrete-du-13-mai-2003-equt0300811a)
 - [Arrêté du 13 mai 2003 (MAEA0220668A)](arrete-du-13-mai-2003-maea0220668a)
-- [Arrêté du 13 mai 2003 (MENF0301083A)](arrete-du-13-mai-2003-menf0301083a)
 - [Arrêté du 13 mai 2003 (MENJ0301134A)](arrete-du-13-mai-2003-menj0301134a)
 - [Arrêté du 13 mai 2003 (MENJ0301135A)](arrete-du-13-mai-2003-menj0301135a)
 - [Arrêté du 13 mai 2003 (SANG0321115A)](arrete-du-13-mai-2003-sang0321115a)
