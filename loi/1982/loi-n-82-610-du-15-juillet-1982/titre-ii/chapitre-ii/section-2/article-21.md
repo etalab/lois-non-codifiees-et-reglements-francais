@@ -23,3 +23,5 @@ La convention par laquelle est constitué le groupement doit être approuvée pa
 Le groupement d'intérêt public est soumis au contrôle de la Cour des comptes dans les conditions prévues par l'article 6 bis de la loi n° 67-483 du 22 juin 1967.
 
 La transformation de toute autre personne morale en groupement d'intérêt public n'entraîne ni dissolution ni création d'une personne morale nouvelle.
+
+Les dispositions du présent article sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.

@@ -6,4 +6,4 @@ Sont associés à cette élaboration l'Etat, le département et les communes. Le
 
 Le schéma d'aménagement régional est approuvé par décret en Conseil d'Etat.
 
-Si le conseil régional n'a pas adopté le schéma d'aménagement, selon la procédure définie ci-dessus, dans un délai de dix-huit mois à compter de la date fixée par le décret prévu à l'alinéa premier du présent article, le schéma est arrêté par décret en Conseil d'Etat.
+Si le conseil régional n'a pas adopté le schéma d'aménagement, selon la procédure définie ci-dessus, dans un délai de vingt-quatre mois à compter du 1er janvier 1993, le schéma est élaboré par l'Etat et approuvé par décret en Conseil d'Etat. "

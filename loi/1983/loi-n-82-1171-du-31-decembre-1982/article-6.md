@@ -1,6 +1,6 @@
 # Article 6
 
-Le comité de la culture, de l'éducation et de l'environnement est obligatoirement et préalablement consulté lors de la préparation du plan de développement et d'équipement de la région et de l'élaboration du projet de budget de la région en ce qui concerne l'éducation, la culture, la protection des sites, de la faune, de la flore et le tourisme.
+Le conseil de la culture, de l'éducation et de l'environnement est obligatoirement et préalablement consulté lors de la préparation du plan de développement et d'équipement de la région et de l'élaboration du projet de budget de la région en ce qui concerne l'éducation, la culture, la protection des sites, de la faune, de la flore et le tourisme.
 
 Il donne son avis sur les résultats de leur mise en oeuvre.
 

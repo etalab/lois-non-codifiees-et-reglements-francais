@@ -20,7 +20,9 @@ Les agents habilités par le Premier ministre visés à l'alinéa précédent pe
 
 Le procureur de la République est préalablement informé des opérations envisagées en vue de la recherche des infractions, par les agents visés au deuxième alinéa. Il peut s'opposer à ces opérations. Les procès-verbaux lui sont transmis dans les cinq jours suivant leur établissement. Une copie en est également remise à l'intéressé.
 
-Les agents habilités par le Premier ministre visés au deuxième alinéa peuvent, dans les mêmes lieux et les mêmes conditions de temps que ceux visés au même alinéa du présent paragraphe, procéder à la saisie des matériels visés au paragraphe I sur autorisation judiciaire donnée par ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les matériels, ou d'un juge délégué par lui.
+Les agents habilités par le Premier ministre visés au deuxième alinéa peuvent, dans les mêmes lieux et les mêmes conditions de
+
+temps que ceux visés au même alinéa du présent paragraphe, procéder à la saisie des matériels visés au paragraphe I sur autorisation judiciaire donnée par ordonnance du président du tribunal de grande instance dans le ressort duquel sont situés les matériels, ou d'un juge délégué par lui.
 
 La demande doit comporter tous les éléments d'information de nature à justifier la saisie. Celle-ci s'effectue sous l'autorité et le contrôle du juge qui l'a autorisée.
 
@@ -31,3 +33,9 @@ Le président du tribunal de grande instance ou le juge délégué par lui peut 
 Sera puni d'un emprisonnement d'un à trois mois et d'une amende de 2 000 F à 200 000 F, ou de l'une de ces deux peines seulement, quiconque aura, sans raison valable, refusé de fournir les informations ou documents ou fait obstacle au déroulement des enquêtes mentionnées au présent paragraphe.
 
 IV. - Les autorisations de fourniture, d'exportation ou d'utilisation de moyens ou de prestations de cryptologie délivrées avant la date de publication de la présente loi conservent leurs effets jusqu'à l'expiration du terme prévu.
+
+V. - Le présent article est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+
+Pour l'application du présent article dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, des îles Wallis-et-Futuna et dans la collectivité territoriale de Mayotte, il y a lieu de lire : "tribunal de première instance", au lieu de :
+
+"tribunal de grande instance".
