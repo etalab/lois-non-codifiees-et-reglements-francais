@@ -113,7 +113,6 @@
 - [Décret n°93-305 du 5 mars 1993 (ECOT9313679D)](decret-n93-305-du-5-mars-1993-ecot9313679d)
 - [Décret n°93-316 du 5 mars 1993 (TEFF9300225D)](decret-n93-316-du-5-mars-1993-teff9300225d)
 - [Décret n°93-323 du 5 mars 1993 (MAEA9320103D)](decret-n93-323-du-5-mars-1993-maea9320103d)
-- [Décret n°93-884 du 5 juillet 1993 (TEFX9300103D)](decret-n93-884-du-5-juillet-1993-tefx9300103d)
 - [Décret n°93-890 du 5 juillet 1993 (AGRX9300100D)](decret-n93-890-du-5-juillet-1993-agrx9300100d)
 - [Décret n°93-982 du 5 août 1993 (SPSP9302069D)](decret-n93-982-du-5-aout-1993-spsp9302069d)
 - [Décret n°94-1041 du 5 décembre 1994 (DEFP9402155D)](decret-n94-1041-du-5-decembre-1994-defp9402155d)
