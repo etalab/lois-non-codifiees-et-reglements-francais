@@ -1,6 +1,6 @@
 # Article 2
 
-La commission consultative des droits de l'homme est composée :
+La Commission nationale consultative des droits de l'homme est composée [*composition*]:
 
 a) De représentants des ministres concernés ;
 
@@ -8,6 +8,10 @@ b) D'un député et d'un sénateur ;
 
 c) De personnes nommément désignées appartenant :
 
-Aux principales confédérations syndicales ;
+- aux principales confédérations syndicales ;
 
-Aux grandes associations militant en faveur des droits de l'homme dans le monde, ainsi que des personnalités choisies à raison de leur autorité dans ce domaine.
+- aux grandes associations oeuvrant en France dans le domaine des droits de l'homme ;
+
+d) De personnalités choisies en raison de leur compétence dans le domaine des droits de l'homme.
+
+Les membres mentionnés au a ont voix consultative ; les membres mentionnés aux b, c et d ont voix délibérative.
