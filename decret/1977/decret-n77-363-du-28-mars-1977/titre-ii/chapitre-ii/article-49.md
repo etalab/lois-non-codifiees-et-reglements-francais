@@ -1,0 +1,5 @@
+# Article 49
+
+Le ministre chargé du tourisme ne peut requérir un paiement de l'établissement dépositaire du fonds de réserve ou d'un des organismes mentionnés à l'article 48 qu'après avis du comité consultatif prévu à l'article 41 ou de sa commission de discipline.    Toutefois, en cas d'urgence, le ministre chargé du tourisme peut sans délai requérir le paiement prévu à l'alinéa ci-dessus ; il en informe le comité consultatif ou sa commission de discipline à leur réunion la plus proche [*mise en oeuvre de la garantie financière*].    Le paiement demandé ne peut que concerner une créance ayant pour origine un versement effectué à l'occasion d'une des opérations énumérées à l'article 1er de la loi du 11 juillet 1975 et justifiée dans les conditions fixées au chapitre III du titre Ier.
+
+En cas d'instance judiciaire, le demandeur en avise par lettre recommandée [*conditions de forme*] le ministre chargé du tourisme qui surseoit jusqu'au jugement définitif à se prononcer sur les réclamations tendant à la mise en jeu de la garantie.
