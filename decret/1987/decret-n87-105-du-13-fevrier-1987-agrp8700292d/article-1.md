@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions de l'article 5 du décret n° 64-453 du 26 mai 1964, l'irrigation des vignobles complantés en cépages classés dans la catégorie des variétés recommandées pour la production de raisin de table, ou destinées normalement à la conserverie, peut être autorisée selon des modalités et dans des limites fixées en fonction de la situation climatérique, du terroir, de l'encépagement et du mode de culture par un arrêté conjoint du ministre de l'agriculture et du ministre chargé de l'économie et des finances, pris après avis de l'Office national interprofessionnel des fruits, des légumes et de l'horticulture.

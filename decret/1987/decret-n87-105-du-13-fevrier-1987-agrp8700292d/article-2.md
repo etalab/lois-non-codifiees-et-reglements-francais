@@ -1,0 +1,3 @@
+# Article 2
+
+Les producteurs qui irriguent des parcelles, complantées en cépages classés dans la même unité administrative, à la fois dans la catégorie des variétés recommandées pour la production de raisin de table et dans la catégorie des variétés classées pour la production de vin, ne peuvent commercialiser le vin issu de leur exploitation et produit à partir de ces cépages que dans la limite des quantités normalement vinifiées fixées à l'hectare et définies par un arrêté conjoint du ministre de l'agriculture et du ministre chargé de l'économie et des finances, pris après avis de l'Office national interprofessionnel des vins et de l'Office national interprofessionnel des fruits, des légumes et de l'horticulture.

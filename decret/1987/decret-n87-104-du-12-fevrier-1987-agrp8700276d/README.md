@@ -1,4 +1,4 @@
-# Arrêté du 15 décembre 1977 relatif à la vinification des raisins de table
+# Décret n°87-104 du 12 février 1987 relatif au Conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
