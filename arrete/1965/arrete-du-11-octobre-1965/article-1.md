@@ -33,3 +33,5 @@ Diplôme ou certificat de manipulateur de radiologie délivré par les centres h
 Diplôme de manipulateur de radiologie délivré par le centre hospitalier de Saint-Germain-en-Laye (Seine-et-Oise).
 
 Certificat de manipulatrice de radiologie délivré par l'école d'enseignement technique féminin, 116, avenue du Général-Leclerc, Paris (14e).
+
+Certificat d'études de manipulateur d'électroradiologie délivré par l'école supérieure de formation professionnelle.
