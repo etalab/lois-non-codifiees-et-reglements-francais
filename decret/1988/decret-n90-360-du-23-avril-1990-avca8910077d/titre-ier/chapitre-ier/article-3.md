@@ -12,8 +12,6 @@ Les candidats doivent posséder :
 
 4. Pour la branche Anesthésie-réanimation : soit le certificat d'aptitude aux fonctions d'infirmier aide-anesthésiste, soit le diplôme d'Etat d'infirmier anesthésiste.
 
-Les règles d'organisation générale des concours, la nature et le programme des épreuves sont fixés par arrêté du ministre chargé de la fonction publique et du ministre des anciens combattants et victimes de guerre.
-
-Les conditions d'organisation des concours et la composition des jurys sont fixées par arrêté du ministre des anciens combattants et victimes de guerre.
+Les conditions d'organisation des concours et la composition des jurys sont fixées par arrêté du directeur de l'Institution nationale des invalides.
 
 Le nombre de postes qui peuvent être pourvus par la nomination de candidats inscrits sur la liste complémentaire ne peut excéder 50 p. 100 du nombre de postes offerts au concours.
