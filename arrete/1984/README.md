@@ -69,7 +69,6 @@
 - [Arrêté du 13 avril 1984](arrete-du-13-avril-1984)
 - [Arrêté du 13 juillet 1984](arrete-du-13-juillet-1984)
 - [Arrêté du 13 mars 1984](arrete-du-13-mars-1984)
-- [Arrêté du 13 septembre 1984](arrete-du-13-septembre-1984)
 - [Arrêté du 14 décembre 1983](arrete-du-14-decembre-1983)
 - [Arrêté du 14 décembre 1984](arrete-du-14-decembre-1984)
 - [Arrêté du 14 février 1984](arrete-du-14-fevrier-1984)
