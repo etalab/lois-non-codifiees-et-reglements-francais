@@ -4,7 +4,9 @@
 
 a) Une demande d'autorisation est nécessaire, même si le transfert a lieu entre deux exploitations appartenant à la même personne ;
 
-b) Les transferts doivent permettre des plantations d'une superficie minimale de 50 ares. Ils peuvent résulter de plusieurs cessions de droits portant sur des superficies inférieures à ce minimum. Toutefois, cette superficie minimale est abaissée à 10 ares pour les plantations destinées à la production de vins à appellation d'origine. La condition de superficie minimale n'est pas applicable aux transferts de droits concomitants à la cession partielle ou totale d'une exploitation ;
+b) Les transferts doivent permettre des plantations d'une superficie minimale de 50 ares. Ils peuvent résulter de plusieurs cessions de droit portant sur des superficies inférieures à ce minimum.
+
+Lorsqu'elles sont destinées à la production de vins d'appellation d'origine ou lorsqu'elles procèdent d'un transfert de vignes concomitant à la cession partielle d'une exploitation, les plantations ne sont pas soumises à la condition de superficie minimale ci-dessus indiquée.
 
 c) L'autorisation ne peut être donnée que si elle a pour effet d'assurer l'implantation de la vigne sur des terrains propres à l'obtention de produits de qualité et l'amélioration de la structure des exploitations agricoles ;
 
