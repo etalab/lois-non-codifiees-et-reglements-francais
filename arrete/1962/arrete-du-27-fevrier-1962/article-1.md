@@ -21,40 +21,31 @@ Les secrétaires généraux et les secrétaires généraux adjoints de mairie pe
 <td> :                               :            :                  :</td>
 </tr>
 <tr>
-<td> : Plus de 400.000 habitants     :   15.177   :       11.719     :</td>
+<td> : Plus de 400.000 habitants     :   16.254   :       12.551     :</td>
 </tr>
 <tr>
-<td> : 150.001 à 400.000 habitants   :   12.523   :       10.217     :</td>
+<td> : 150.001 à 400.000 habitants   :   13.412   :       10.942     :</td>
 </tr>
 <tr>
-<td> :  80.001 à 150.000 habitants   :   11.021   :        8.614     :</td>
+<td> :  80.001 à 150.000 habitants   :   11.803   :        9.225     :</td>
 </tr>
 <tr>
-<td> :  40.001 à 80.000 habitants    :    9.416   :        7.113     :</td>
+<td> :  40.001 à 80.000 habitants    :   10.084   :        7.618     :</td>
 </tr>
 <tr>
-<td> :  20.001 à 40.000 habitants    :    7.915   :        5.626     :</td>
+<td> :  20.001 à 40.000 habitants    :    8.476   :        6.025     :</td>
 </tr>
 <tr>
-<td> :  10.001 à 20.000 habitants    :    6.311   :          "       :</td>
+<td> :  10.001 à 20.000 habitants    :    6.759   :          "       :</td>
 </tr>
 <tr>
-<td> :   5.001 à 10.000 habitants    :    5.457   :          "       :</td>
+<td> :   5.001 à 10.000 habitants    :    5.844   :          "       :</td>
 </tr>
 <tr>
-<td> : 2.001 à 5.000 habitants (1)   :    3.591   :          "       :</td>
+<td> :   2.001 à 5.000 habitants     :    3.845   :          "       :</td>
 </tr>
 <tr>
 <td> :---------------------------------------------------------------:</td>
-</tr>
-<tr>
-<td> :  (1) Indemnité réservée aux secrétaires généraux de mairie    :</td>
-</tr>
-<tr>
-<td> :  parvenus à un échelon doté d'un indice de traitement         :</td>
-</tr>
-<tr>
-<td> :  supérieur à l'indice 390 brut.                               :</td>
 </tr>
 </table>
 

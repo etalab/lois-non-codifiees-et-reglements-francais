@@ -27,16 +27,16 @@ Ces indemnités sont attribuées dans la double limite :
 <td> : Directeur de services             :             :              :</td>
 </tr>
 <tr>
-<td> :   administratifs.                 :     6.593   :     13.185   :</td>
+<td> :   administratifs.                 :     7.061   :     14.121   :</td>
 </tr>
 <tr>
-<td> : Attaché communal principal.       :     5.626   :     11.253   :</td>
+<td> : Attaché communal principal.       :     6.025   :     12.051   :</td>
 </tr>
 <tr>
 <td> : Attaché communal de :             :             :              :</td>
 </tr>
 <tr>
-<td> :   1ère classe                     :     5.362   :     10.726   :</td>
+<td> :   1ère classe                     :     5.742   :     11.487   :</td>
 </tr>
 <tr>
 <td> :                                   :             :              :</td>
@@ -45,61 +45,61 @@ Ces indemnités sont attribuées dans la double limite :
 <td> :   2ème classe (1)                 )             :              :</td>
 </tr>
 <tr>
-<td> : Chef de bureau (1)                (             :              :</td>
+<td> : Chef de bureau (1)                :             :              :</td>
 </tr>
 <tr>
-<td> : Rédacteur chef (1)                (     4.663   :      9.326   :</td>
+<td> : Rédacteur chef (1)                :     4.994   :      9.988   :</td>
 </tr>
 <tr>
-<td> : Sous-archiviste chef              )             :              :</td>
+<td> : Sous-archiviste chef              :             :              :</td>
 </tr>
 <tr>
-<td> : Sous-bibliothécaire chef          (             :              :</td>
+<td> : Sous-bibliothécaire chef          :             :              :</td>
 </tr>
 <tr>
 <td> :                                   :             :              :</td>
 </tr>
 <tr>
-<td> : Sous-chef de bureau (1)           )             :              :</td>
+<td> : Sous-chef de bureau (1)           :             :              :</td>
 </tr>
 <tr>
-<td> : Rédacteur principal               (             :              :</td>
+<td> : Rédacteur principal               :             :              :</td>
 </tr>
 <tr>
-<td> : Rédacteur (1)                     )             :              :</td>
+<td> : Rédacteur (1)                     :             :              :</td>
 </tr>
 <tr>
-<td> : Sous-archiviste principal         (             :              :</td>
+<td> : Sous-archiviste principal         :             :              :</td>
 </tr>
 <tr>
-<td> : Sous-archiviste (1)               )             :              :</td>
+<td> : Sous-archiviste (1)               :             :              :</td>
 </tr>
 <tr>
-<td> : Sous-bibliothécaire principal     (             :              :</td>
+<td> : Sous-bibliothécaire principal     :             :              :</td>
 </tr>
 <tr>
-<td> : Sous-bibliothécaire (1)           )     3.450   :      6.901   :</td>
+<td> : Sous-bibliothécaire (1)           :     3.694   :      7.390   :</td>
 </tr>
 <tr>
-<td> : Inspecteur de salubrité principal (             :              :</td>
+<td> : Inspecteur de salubrité principal :             :              :</td>
 </tr>
 <tr>
-<td> :    (nouveau régime)               )             :              :</td>
+<td> :    (nouveau régime)               :             :              :</td>
 </tr>
 <tr>
-<td> : Inspecteur de salubrité (nouveau  (             :              :</td>
+<td> : Inspecteur de salubrité (nouveau  :             :              :</td>
 </tr>
 <tr>
-<td> :     régime) (1)                   (             :              :</td>
+<td> :     régime) (1)                   :             :              :</td>
 </tr>
 <tr>
-<td> : Inspecteur de salubrité principal )             :              :</td>
+<td> : Inspecteur de salubrité principal :             :              :</td>
 </tr>
 <tr>
-<td> :     (1).                          )             :              :</td>
+<td> :     (1).                          :             :              :</td>
 </tr>
 <tr>
-<td> : Inspecteur de salubrité (1)       (             :              :</td>
+<td> : Inspecteur de salubrité (1)       :             :              :</td>
 </tr>
 <tr>
 <td> :-----------------------------------:-------------:--------------:</td>
