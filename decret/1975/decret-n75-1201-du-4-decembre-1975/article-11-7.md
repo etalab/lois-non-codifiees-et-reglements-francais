@@ -1,0 +1,3 @@
+# Article 11-7
+
+Lorsqu'un agent commissionné pour le contrôle des instruments de mesure constate qu'un instrument visé à l'article 11-1 n'est pas conforme aux dispositions réglementaires, il appose sur cet instrument une vignette, dite de refus, ainsi que la marque de refus prévue à l'article 17 du décret du 30 novembre 1944. Le détenteur est alors tenu soit de retirer cet instrument des lieux énumérés à l'alinéa 1er de l'article 12 du décret susvisé du 30 novembre 1944, soit de le faire réparer. L'instrument ne peut être remis en service qu'après avoir satisfait aux épreuves de la vérification primitive et aux formalités prévues à l'article 11-2 ci-dessus.
