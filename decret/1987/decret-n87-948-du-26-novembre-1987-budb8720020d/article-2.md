@@ -1,3 +1,7 @@
 # Article 2
 
 En ce qui concerne les entreprises publiques et sociétés nationales mentionnées à l'article 1er du présent décret, les accords conclus en vertu de l'article L. 442-6 du code du travail peuvent décider que la réserve spéciale de participation des salariés sera calculée en tenant compte des résultats cumulés des entreprises appartenant à un même groupe.
+
+En ce qui concerne la Banque de France, les éléments du résultat permettant de calculer le bénéfice net et la valeur ajoutée au sens des articles L. 442-2, R. 442-2 et R. 442-3 du code du travail sont déterminés par un arrêté du ministre chargé de l'économie, pris après avis de la commission interministérielle visée à l'article 6 du décret du 9 août 1953 susvisé, en corrigeant les incidences sur le compte de résultats de la banque des variations de la politique monétaire et en écartant les effets comptables du régime de gestion des fonds affectés au financement des retraites.
+
+En ce qui concerne les entreprises qui entrent dans le champ d'application du c de l'article 1er du présent décret et qui, antérieurement, étaient soumises de plein droit aux dispositions de la section 1 du chapitre II du titre IV du livre IV du code du travail, les accords conclus en vertu de ces dispositions continuent d'être appliqués. La conclusion d'un nouvel accord ou d'un avenant à l'accord déjà existant est, dans ces entreprises, subordonnée à l'autorisation visée au c de l'article 1er du présent décret.

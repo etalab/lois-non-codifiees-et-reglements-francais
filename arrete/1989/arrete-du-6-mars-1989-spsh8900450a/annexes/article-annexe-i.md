@@ -94,6 +94,8 @@ Hygiène hospitalière.
 
 20   Gastro-entérologie et hépatologie.
 
+Génétique médicale.
+
 21   Hématologie clinique.
 
 19   Hémobiologie-transfusion.

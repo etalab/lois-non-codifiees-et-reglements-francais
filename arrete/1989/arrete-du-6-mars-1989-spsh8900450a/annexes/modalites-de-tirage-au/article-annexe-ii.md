@@ -157,3 +157,27 @@ Pour les spécialités biologiques parmi l'ensemble des personnels enseignants e
 Les personnels enseignants et hospitaliers et les praticiens d'une spécialité dont le nombre est égal ou inférieur au seuil minimal défini plus haut ne peuvent être tirés au sort pour compléter le jury d'une autre spécialité.
 
 Le premier membre titulaire de chaque urne d'une spécialité différenciée dont l'urne doit être complétée est tiré parmi les personnels enseignants et hospitaliers et les praticiens hospitaliers appartenant à la spécialité sauf si personne de ladite spécialité ne remplit les conditions.
+
+Pour la génétique médicale :
+
+a) L'urne des personnels enseignants et hospitaliers est constituée par l'ensemble des personnels enseignants et hospitaliers de cette spécialité ;
+
+b) L'urne des praticiens hospitaliers est constituée, à part égale :
+
+- de praticiens hospitaliers de la discipline Biologie exerçant dans les spécialités Génétique et Biologie cellulaire, histologie, biologie du développement et de la reproduction ;
+
+- de praticiens hospitaliers de la discipline Médecine exerçant dans les spécialités Pédiatrie et Médecine de la reproduction et gynécologie médicale.
+
+Le jury est composé de :
+
+- quatre membres tirés au sort à partir de l'urne des personnels enseignants et hospitaliers de la spécialité ;
+
+- quatre membres tirés au sort à partir de l'urne des praticiens hospitaliers, dont :
+
+- un praticien hospitalier exerçant dans la spécialité Biologie cellulaire, histologie, biologie du développement et de la reproduction (discipline Biologie) ;
+
+- un praticien exerçant dans la spécialité Génétique (discipline Biologie) ;
+
+- un praticien hospitalier exerçant dans la spécialité Médecine de la reproduction et gynécologie médicale (discipline Médecine) ;
+
+- un praticien hospitalier exerçant dans la spécialité Pédiatrie (discipline Médecine).

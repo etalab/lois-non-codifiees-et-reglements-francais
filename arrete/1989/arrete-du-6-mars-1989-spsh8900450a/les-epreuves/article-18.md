@@ -10,7 +10,7 @@ Biologie :
 
 Médecine, chirurgie et odontologie :
 
-1. Conduite à tenir devant un cas urgent et/ou conduite pratique face à un ou plusieurs problèmes diagnostiques (durée : 1 heure, cotée de 0 à 30).
+1. Conduite à tenir devant un cas d'urgence et/ou conduite pratique face à un ou plusieurs problèmes diagnostiques. Pour la génétique médicale : conduite pratique à tenir devant ou face à un ou plusieurs problèmes diagnostiques (durée : une heure, cotée de 0 à 30).
 
 2. Démarche diagnostique et/ou thérapeutique (durée : 1 heure, cotée de 0 à 30).
 
