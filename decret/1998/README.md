@@ -597,7 +597,6 @@
 - [Décret n°98-205 du 20 mars 1998 (DEFP9702240D)](decret-n98-205-du-20-mars-1998-defp9702240d)
 - [Décret n°98-298 du 20 avril 1998 (INTE9800092D)](decret-n98-298-du-20-avril-1998-inte9800092d)
 - [Décret n°98-310 du 20 avril 1998 (MESP9820900D)](decret-n98-310-du-20-avril-1998-mesp9820900d)
-- [Décret n°98-617 du 20 juillet 1998 (INTM9800005D)](decret-n98-617-du-20-juillet-1998-intm9800005d)
 - [Décret n°98-618 du 20 juillet 1998 (ECOI9800465D)](decret-n98-618-du-20-juillet-1998-ecoi9800465d)
 - [Décret n°98-619 du 20 juillet 1998 (ECOT9851706D)](decret-n98-619-du-20-juillet-1998-ecot9851706d)
 - [Décret n°98-622 du 20 juillet 1998 (ATEN9860012D)](decret-n98-622-du-20-juillet-1998-aten9860012d)
