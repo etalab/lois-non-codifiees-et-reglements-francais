@@ -32,7 +32,7 @@ a) Pour les véhicules en circulation ayant fait l'objet d'une transformation no
 
 b) Pour les véhicules mis pour la première fois en circulation :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile et, le cas échéant, celles du locataire (cf. annexe VI).
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée d'une pièce justificative de son identité et d'une déclaration de domicile et, le cas échéant, celles du locataire (cf. annexe VI).
 
 2. Le certificat de montage d'une carrosserie prévu à l'annexe VIII de l'arrêté du 19 juillet 1954 modifié :
 

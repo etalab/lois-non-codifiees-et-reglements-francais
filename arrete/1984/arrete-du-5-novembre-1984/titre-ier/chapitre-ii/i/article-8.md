@@ -10,9 +10,9 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 Pour les véhicules provenant d'un Etat tiers à l'Union européenne, ce document est revêtu d'une attestation de dédouanement conforme au modèle défini par la direction générale des douanes et des droits indirects ;
 
-Pour les véhicules provenant d'un autre Etat de l'Union européenne, il ne comporte aucune mention fiscale spécifique ;
+Pour les véhicules provenant d'un autre Etat de l'Union européenne, il est revêtu de la mention : "dispense n° du DSF (département)" attribuée par les services fiscaux territorialement compétents.
 
-2. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+2. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 Ou bien l'ensemble des documents suivants :
 
@@ -26,13 +26,13 @@ Ou bien l'ensemble des documents suivants :
 
 5. Un certificat de cession ou une facture établis par le vendeur ;
 
-6. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+6. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 7. Pour les véhicules neufs provenant d'un Etat tiers à l'Union européenne, "un certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement 846 A) délivré par les services des douanes. Toutefois, cette pièce ne sera pas exigée lorsque le certificat de conformité national sera revêtu d'une attestation de dédouanement conforme au modèle défini par la direction générale des douanes et des droits indirects.
 
 Pour les véhicules neufs provenant d'un Etat de l'Union européenne autre que la France un "certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la C.E.E." délivré par les services des impôts.
 
-Toutefois, cette pièce ne sera pas exigée dans le cas des véhicules vendus en France par le constructeur, son représentant, ou un importateur ayant acquis les véhicules dans un autre Etat membre en vue de les revendre en France (leur certificat de conformité ne sera revêtu d'aucune mention fiscale spécifique).
+Toutefois, cette pièce ne sera pas exigée lorsque le certificat de conformité national sera revêtu de la mention : "dispense n° du DSF (département)" attribuée par les services fiscaux territorialement compétents.
 
 Aucun justificatif fiscal n'est à produire pour les remorques et semi-remorques et les véhicules du titre III du code de la route (véhicules agricoles et forestiers, engins spéciaux) provenant d'un
 
@@ -50,13 +50,13 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 3. Un certificat de cession ou une facture établie par le vendeur ;
 
-4. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+4. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 5. Pour les véhicules neufs acquis dans un Etat tiers à l'Union européenne, "un certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement 846 A) délivré par les services des douanes.
 
 Pour les véhicules neufs acquis dans un Etat de l'Union européenne autre que la France un "certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la C.E.E." délivré par les services des impôts.
 
-Toutefois, cette pièce ne sera pas exigée lorsque l'attestation d'identification du véhicule au type national sera revêtue de la mention "T.V.A. acquittée sur la déclaration périodique du chiffre d'affaire" (cette mention est indiquée pour les cas de dispenses de certificats fiscaux accordées par le directeur des services fiscaux territorialement compétent).
+Toutefois, cette pièce ne sera pas exigée lorsque l'attestation d'identification du véhicule au type national sera revêtue de la mention : "dispense n° du DSF (département)"attribuée par les services fiscaux territorialement compétents.
 
 Pour les véhicules visés au titre III du code de la route (véhicules agricoles et forestiers, engins spéciaux) et les remorques et semi-remorques provenant d'un Etat membre de l'Union européenne autre que la France, il ne sera exigé aucun justificatif fiscal.
 
@@ -68,11 +68,9 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 1. Le document Cerfa "3 en 1" agréé et dénommé "demande de certificat d'immatriculation d'un véhicule neuf prêt à l'emploi n'excédant pas 3,5 tonnes" délivré par le constructeur ou son représentant en France.
 
-Pour les véhicules provenant d'un Etat tiers à l'Union européenne, ce document est revêtu d'une attestation de dédouanement conforme au modèle défini par la direction générale des douanes et des droits indirects.
+Pour les véhicules provenant d'un Etat tiers à l'Union européenne, ce document est revêtu d'une attestation de dédouanement conforme au modèle défini par la direction générale des douanes et des droits    Pour les véhicules provenant d'un autre Etat de l'Union européenne, il est revêtu de la mention : "dispense n° du  DSF (département)" attribuée par les services fiscaux territorialement compétents.
 
-Pour les véhicules provenant d'un autre Etat de l'Union européenne, il ne comporte aucune mention fiscale spécifique ;
-
-2. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+2. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 Ou bien l'ensemble des documents suivants :
 
@@ -82,13 +80,15 @@ Ou bien l'ensemble des documents suivants :
 
 3. Un certificat de cession ou une facture établis par le vendeur ;
 
-4. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+4. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 5. Pour les véhicules neufs provenant d'un Etat tiers à l'Union européenne un "certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement délivré par les services des douanes). Toutefois cette pièce ne sera pas exigée s'il est présenté un certificat de conformité tel que visé au 2 ci-dessus et comportant une mention conforme au modèle défini par la direction générale des douanes et droits indirects.
 
 Pour les véhicules neufs provenant d'un Etat de l'Union européenne autre que la France, un "certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la C.E.E." délivré par les services des impôts.
 
-Toutefois, cette pièce ne sera pas exigée dans le cas des véhicules vendus en France par le constructeur, son représentant, ou un importateur ayant acquis ces véhicules dans un autre Etat membre en vue de les revendre en France (leur certificat de conformité ne sera revêtu d'aucune mention fiscale spécifique).
+Toutefois, cette pièce ne sera pas exigée lorsque le certificat de conformité au type communautaire sera revêtu de la mention :
+
+"dispense n° du DSF (département)" attribuée par les services fiscaux territorialement compétents.
 
 Pour les véhicules visés au titre III du code de la route (Véhicules agricoles et forestiers, engins spéciaux) et les remorques et semi-remorques provenant d'un Etat membre de l'Union européenne autre que la France, il ne sera exigé aucun justificatif fiscal.
 
@@ -102,13 +102,13 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 3. Un certificat de cession ou une facture établis par le vendeur ;
 
-4. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+4. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 5. Pour les véhicules neufs provenant d'un Etat tiers à l'Union européenne, "un certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement délivré par les services des douanes).
 
 Pour les véhicules neufs provenant d'un Etat de l'Union européenne autre que la France, un "certificat d'acquisition d'un véhicule terrestre à moteur en provenance de la C.E.E." délivré par les services des impôts.
 
-Toutefois, cette pièce ne sera pas exigée lorsque l'attestation d'identification du véhicule au type national sera revêtue de la mention "T.V.A., acquittée sur la déclaration périodique du chiffre d'affaires" (cette mention est indiquée pour les cas de dispense de certificat fiscal accordés par le directeur des services fiscaux territorialement compétent).
+Toutefois, cette pièce ne sera pas exigée s'il est produit copie d'une dispense délivrée par les services fiscaux territorialement compétents.
 
 Pour les véhicules visés au titre III du code de la route (Véhicules agricoles et forestiers, engins spéciaux) et les remorques et semi-remorques provenant d'un Etat membre de l'Union européenne autre que la France, il ne sera exigé aucun justificatif fiscal.
 
@@ -142,7 +142,7 @@ Les pièces à fournir par le propriétaire dudit véhicule sont :
 
 4. Un certificat du vendeur. Dans le cas où le véhicule a été construit par son propriétaire, ce dernier devra produire les factures d'achat des éléments constitutifs du véhicule (notamment châssis, moteur) ;
 
-5. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI).
+5. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI).
 
 En outre, il devra être joint :
 

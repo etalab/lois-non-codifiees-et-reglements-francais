@@ -8,15 +8,15 @@ Les formalités à accomplir pour obtenir l'immatriculation d'un véhicule préc
 
 Les pièces à fournir par l'acquéreur sont :
 
-1. Une " demande de certificat d'immatriculation sur l'imprimé réglementaire.
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire.
 
-2. En cas de vente, la précédente carte grise revêtue de la mention " vendu le (date de la transaction) suivie de la signature du vendeur. Cette formalité n'est pas exigée dans le cas de véhicules vendus par des sociétés de location à leurs anciens locataires ainsi qu'il est précisé à l'article 21 du présent arrêté.
+2. En cas de vente, la précédente carte grise revêtue de la mention vendu le (date de la transaction) suivie de la signature du vendeur. Cette formalité n'est pas exigée dans le cas de véhicules vendus par des sociétés de location à leurs anciens locataires ainsi qu'il est précisé à l'article 21 du présent arrêté.
 
-En cas de cession à titre gratuit, la précédente carte grise revêtue de la mention " Cédé le (date de la cession) suivie de la signature du cédant.
+En cas de cession à titre gratuit, la précédente carte grise revêtue de la mention Cédé le (date de la cession) suivie de la signature du cédant.
 
 3. Le certificat de cession (à titre gratuit ou onéreux) remis par l'ancien propriétaire. Le modèle de ce certificat figure en annexe V du présent arrêté. Il peut également être établi sur papier libre à condition de comporter les renseignements demandés.
 
-4. Les pièces justificatives de son identité et de son domicile et, le cas échéant, celles du locataire (cf. annexe VI).
+4. Une pièce justificative de son identité et une déclaration de domicile et, le cas échéant, celles du locataire (cf. annexe VI).
 
 5. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
 
@@ -26,7 +26,7 @@ En cas de cession à titre gratuit, la précédente carte grise revêtue de la m
 
 Pour obtenir l'immatriculation du véhicule à son nom, l'héritier ou l'un des héritiers doit fournir les pièces suivantes :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI).
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée d'une pièce justificative de son identité et d'une déclaration de domicile (voir annexe VI).
 
 2. La précédente carte grise.
 
@@ -54,7 +54,7 @@ Avant toute revente à un tiers, un véhicule tombé dans une succession doit ê
 
 Les pièces à fournir par l'acquéreur sont :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée des pièces justificatives de son identité et de son domicile et, le cas échéant, celles du locataire (cf. annexe VI).
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée d'une pièce justificative de son identité et d'une déclaration de domicile et, le cas échéant, celles du locataire (cf. annexe VI).
 
 2. Une attestation (bordereau d'adjudication ou procès-verbal de vente) établie par le commissaire priseur ou l'huissier de justice indiquant le nom de l'acheteur et si possible le numéro d'immatriculation, la marque, le type, le numéro dans la série du type et mentionnant que le véhicule a été vendu ou non avec la carte grise.
 
@@ -74,13 +74,13 @@ Les pièces à fournir sont :
 
 1. Celles visées au paragraphe 10.A. - (I, II ou III) ci-dessus.
 
-2. [*supprimé*]
+2.supprimé
 
 10.C. - Cas des véhicules immatriculés hors du territoire métropolitain (avec ou sans changement de propriétaire).
 
 a) Pour les véhicules précédemment immatriculés dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord instituant l'Espace économique européen, les pièces à fournir par le propriétaire pour l'obtention d'une carte grise à son nom sont :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée des pièces justificatives d'identité et de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI).
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée d'une pièce justificative d'identité et d'une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI).
 
 2. Le certificat d'immatriculation ou, si celui-ci a été retiré par les autorités administratives du pays d'origine :
 
@@ -110,7 +110,9 @@ La ou les pièces suivantes selon le cas :
 
 4. S'il y a eu vente, le certificat de cession (ou la facture) établie au nom du demandeur de la carte grise ;
 
-5. Un certificat d'acquisition d'un véhicule terrestre à moteur en provenance de l'Union européenne pour les véhicules précédemment immatriculés dans un Etat de l'Union européenne. Cette pièce n'est pas à produire pour les véhicules visés au titre III du code de la route (véhicules agricoles et forestiers, engins spéciaux) et pour les remorques et semi-remorques.
+5. Un certificat d'acquisition d'un véhicule terrestre à moteur en provenance de l'Union européenne visé par les services fiscaux territorialement compétents pour les véhicules précédemment immatriculés dans un Etat de l'Union européenne ou une copie de la dispense de ce certificat.
+
+Le certificat ou la copie de la dispense n'est pas à produire pour les véhicules agricoles et forestiers, engins spéciaux et pour les remorques et semi-remorques.
 
 Un certificat de dédouanement 846 A délivré par les services des douanes pour les véhicules précédemment immatriculés dans un Etat tiers à l'Union européenne.
 
@@ -126,7 +128,7 @@ b) Pour les véhicules précédemment immatriculés dans un Etat tiers à l'Unio
 
 c) Pour les véhicules précédemment immatriculés dans les départements ainsi que les territoires d'outre-mer et les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, les pièces à fournir sont :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée des pièces justificatives d'identité et de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée d'une pièce justificative d'identité et d'une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 2. Le certificat d'immatriculation ;
 
@@ -138,75 +140,47 @@ c) Pour les véhicules précédemment immatriculés dans les départements ainsi
 
 6. S'il y a eu vente, le certificat de cession (ou la facture) ;
 
-7. Pour les véhicules provenant des territoires d'outre-mer et des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, un procès-verbal de réception à titre isolé, s'il ne peut être produit une attestation de l'administration territoriale concernée précisant que le véhicule a été à l'origine immatriculé au vu d'un certificat de conformité national ou communautaire.
+7. Pour les véhicules provenant des territoires d'outre-mer et des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, un procès-verbal de réception à titre isolé, s'il ne peut être produit une attestation de l'administration territoriale concernée précisant que le véhicule a été à l'origine
 
-10.D. - Cas des véhicules précédemment immatriculés dans la série spéciale FFA (Forces françaises en Allemagne) ou FZ (Forces françaises stationnées à Berlin)
+immatriculé au vu d'un certificat de conformité national ou communautaire.
 
-Cinq cas sont à considérer :
+10.D. - Cas des véhicules précédemment immatriculés dans la série spéciale FFECSA (Forces françaises et élément civil stationnés en Allemagne).
 
-a) Le véhicule n'avait jamais auparavant été immatriculé en France et est importé par son propriétaire.
+Deux cas sont à considérer :
 
-Les pièces à fournir par celui-ci sont :
+A. - Le véhicule n'avait jamais auparavant été immatriculé en France
 
-1. Une demande de certificat d'immatriculation accompagnée des pièces justificatives de son identité et de son domicile ;
+Les pièces à fournir par le propriétaire du véhicule sont :
 
-2. Le certificat d'immatriculation FFA ou FZ sur lequel aura été apposée au moyen d'un timbre humide dans le premier cas la mention Radiation définitive de la série spéciale des FFA. Document valable jusqu'au..., dans le second cas, la mention Rayé définitivement de la série spéciale FZ à la date du... ;
+1. Une demande de certificat d'immatriculation ;
 
-3. Un certificat de dédouanement ;
+2. Une pièce justificative de son identité et une déclaration de domicile.
 
-4. Un procès-verbal de réception à titre isolé délivré par le service des Mines sauf s'il est produit le certificat de conformité non barré d'une diagonale rouge (cas des véhicules immatriculés en série spéciale dès leur acquisition en France ou exportés sous couvert d'un WW2).
+3. Le certificat d'immatriculation FFECSA sur lequel aura été apposée la mention : Radiation définitive de la série spéciale FFECSA. Document valable jusqu'au....
 
-b) Le véhicule n'avait jamais auparavant été immatriculé en France mais est importé pour y être vendu.
+4. Un certificat de dédouanement 846 A délivré par les douanes FFECSA.
 
-L'acquéreur doit produire :
+5. La pièce suivante, selon le cas :
 
-1. Les pièces visées aux alinéas 1, 3 et 4 du paragraphe a ci-dessus ;
+5.1. Pour un véhicule non conforme à un type national français ou communautaire, un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie de la recherche et de l'environnement.
 
-2. Le certificat d'immatriculation FFA ou FZ remis par le vendeur et portant la radiation ;
+5.2. Pour un véhicule conforme à un type national français ou communautaire : le certificat de conformité d'origine, ou une attestation d'identification à un type national français ou communautaire délivrée soit par le constructeur ou son représentant en France, soit par une direction régionale de l'industrie, de la recherche et de l'environnement.
 
-3. Le certificat de cession établi par le titulaire du certificat d'immatriculation FFA ou FZ ;
+6. S'il y a eu vente, le certificat de cession ou la facture.
 
-4. Le ou les document(s) attestant l'immatriculation dans le pays d'origine, s'il y a lieu.
+B. - Le véhicule était précédemment immatriculé en France
 
-c) Le véhicule était précédemment immatriculé en France et a été réimporté par le titulaire de la carte grise.
+Les pièces à fournir par le propriétaire du véhicule sont :
 
-Le véhicule reprend ipso facto son immatriculation antérieure si le titulaire de la carte grise revient dans le département du lieu d'immatriculation.
+1. Une demande de certificat d'immatriculation ;
 
-Néanmoins, tout changement de domicile à l'intérieur du département d'immatriculation doit faire l'objet de la déclaration prévue à l'article R. 114 du code de la route.
+2. Une pièce justificative de son identité et une déclaration de domicile ;
 
-Le propriétaire doit fournir :
+3. La carte grise ;
 
-1. Une demande de certificat d'immatriculation accompagnée des pièces justificatives de son identité et de son domicile ;
+4. Le certificat d'immatriculation FFECSA ;
 
-2. La carte grise ;
-
-3. Le certificat d'immatriculation FFA ou FZ portant mention de la radiation ;
-
-4. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
-
-5. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise.
-
-d) Le véhicule était précédemment immatriculé en France et a été réimporté par un autre propriétaire que celui mentionné sur la carte grise.
-
-Celui-ci doit produire :
-
-1. Les pièces visées aux alinéas 1 et 2 du paragraphe a ci-dessus ;
-
-2. La carte grise ;
-
-3. Une attestation de gage ou de non-gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
-
-4. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise.
-
-e) Même cas que celui prévu en d mais le véhicule a été réimporté pour être vendu en France.
-
-L'acquéreur doit produire :
-
-1. Les pièces visées à l'alinéa 1 du paragraphe a et aux alinéas 2, 3 et 4 du paragraphe d ci-dessus.
-
-2. Le certificat d'immatriculation FFA ou FZ remis par le vendeur et portant mention de la radiation ;
-
-3. Le certificat de cession établi par le titulaire du certificat d'immatriculation FFA ou FZ.
+5. S'il y a eu vente, le certificat de cession ou la facture.
 
 10.E. - Cas des véhicules précédemment immatriculés dans une série TT ou IT ou diplomatique
 

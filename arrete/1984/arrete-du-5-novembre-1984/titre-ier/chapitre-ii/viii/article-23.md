@@ -10,21 +10,19 @@ Outre les véhicules ayant satisfait à la procédure relative aux réceptions �
 
 Pour l'obtention de cette carte grise, le propriétaire du véhicule doit fournir les pièces suivantes :
 
-a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI) ;
+a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée d'une pièce justificative de son identité et d'une déclaration de domicile (voir annexe VI) ;
 
 b) Une attestation délivrée par le service des mines indiquant que le véhicule a subi avec succès une visite technique visant à vérifier le bon état de fonctionnement et d'entretien du véhicule ainsi que la correspondance du numéro d'identification de celui-ci avec le numéro porté sur la plaque du constructeur ;
 
 c) L'ancien certificat d'immatriculation.
 
-B. - Conditions pour l'obtention d'une carte grise
-
-avec la mention "véhicule de collection"
+B. - Conditions pour l'obtention d'une carte grise avec la mention "véhicule de collection"
 
 Sont concernés les véhicules automobiles ou remorqués de plus de vingt-cinq ans d'âge démunis de certificat d'immatriculation ou non couverts par une carte grise délivrée postérieurement au 1er avril 1950 et qui ne peuvent satisfaire aux prescriptions définies à l'article R. 106-1 du code de la route.
 
 Pour obtenir une carte grise " Véhicule de collection ", le propriétaire du véhicule doit fournir les pièces suivantes :
 
-a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI de l'arrêté du 5 novembre 1984) ;
+a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée d'une pièce justificative de son identité et d'une déclaration de domicile (voir annexe VI de l'arrêté du 5 novembre 1984) ;
 
 b) Le certificat d'immatriculation ou, à défaut, une pièce prouvant l'origine de propriété du véhicule ;
 
@@ -44,4 +42,4 @@ Cette attestation dont le modèle est définie en annexe IX bis du présent arr�
 
 Peuvent également obtenir la mention "véhicule de collection", les véhicules dont la date de première mise en circulation figurant sur les cartes grises délivrées postérieurement au 1er avril 1950 fait apparaître qu'ils ont plus de vingt-cinq ans d'âge.
 
-Un véhicule couvert par une carte grise "véhicule de collection" ne peut être réimmatriculé en carte grise normale que s'il a satisfait, lors d'une réception à titre isolé, aux prescriptions techniques visées à l'article R. 106-1 du code de la route.
+Un véhicule couvert par une carte grise " véhicule de collection " ne peut être réimmatriculé en carte grise normale que s'il a satisfait, lors d'une réception à titre isolé, aux prescriptions techniques visées à l'article R. 106-1 du code de la route.

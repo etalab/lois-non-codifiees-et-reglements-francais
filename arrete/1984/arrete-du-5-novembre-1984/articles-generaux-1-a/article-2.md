@@ -14,7 +14,7 @@ Pour les véhicules faisant l'objet de contrats de location de moins de deux ans
 
 Pour les véhicules faisant l'objet soit d'un contrat de location de deux ans ou plus, soit d'un contrat de crédit-bail, les cartes grises sont délivrées soit par la préfecture du domicile du locataire, soit par la préfecture du département de l'établissement du locataire où le véhicule est affecté à titre principal.
 
-Toute personne physique ou morale ou jouissant de la personnalité morale doit justifier de son domicile dans le département du lieu d'immatriculation (cf. annexe VI du présent arrêté).
+Toute personne physique ou morale ou jouissant de la personnalité morale doit déclarer son domicile dans le département du lieu d'immatriculation.
 
 On entend par domicile, pour une personne physique, le lieu de son principal établissement tel que défini dans les articles 102 à 111 du code civil.
 
