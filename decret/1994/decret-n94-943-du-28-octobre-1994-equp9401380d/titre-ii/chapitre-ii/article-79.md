@@ -1,0 +1,3 @@
+# Article 79
+
+Les assistants de classe A et de classe B régis par la décision du 14 mai 1973 approuvant les dispositions du règlement régissant les personnels non titulaires du laboratoire central des ponts et chaussées et des centres d'études techniques de l'équipement sont intégrés dans l'un des grades du corps des chargés de recherche après avis de la commission mentionnée à l'article 76 ci-dessus, compte tenu d'une part des fonctions qu'exercent les intéressés et d'autre part des titres ou de la pratique professionnelle exigés pour accéder à ces grades tels que définis aux articles 21 et 22 ci-dessus.
