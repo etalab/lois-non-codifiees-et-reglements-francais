@@ -1,6 +1,6 @@
 # Article 17
 
-Sont abrogés, sauf en ce qui concerne les travaux, ouvrages ou installations de défense contre la mer :
+Sont abrogés :
 
 1. Le décret du 8 octobre 1974 susvisé pris pour l'application de la loi n° 73-624 du 10 juillet 1973 relative à la défense contre les eaux ;
 
