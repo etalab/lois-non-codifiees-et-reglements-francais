@@ -1,3 +1,0 @@
-# DES TRANSPORTS URBAINS DE PERSONNES
-
-- [Article 28](article-28.md)

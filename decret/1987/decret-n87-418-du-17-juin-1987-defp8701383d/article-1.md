@@ -1,3 +1,0 @@
-# Article 1
-
-Dans le cadre de mesures de réductions d'effectifs dans les établissements et services du ministère de la défense et de la Société nationale des poudres et explosifs, à compter du 1er janvier 1993 et jusqu'au 31 décembre 1997, les ouvriers de l'Etat qui font l'objet d'une mutation à partir des établissements ou services fermés, transférés ou réorganisés, ou qui, venant de la Société nationale des poudres et explosifs, sont réaffectés au sein du ministère de la défense, peuvent bénéficier d'une indemnité de conversion dans les conditions fixées par le présent décret. Cette indemnité est accordée sans préjudice de l'application du décret n° 91-430 du 7 mai 1991.

@@ -75,7 +75,6 @@
 - [Arrêté du 3 juin 1994 (ECOT9416192A)](arrete-du-3-juin-1994-ecot9416192a)
 - [Arrêté du 3 juin 1994 (ECOT9416193A)](arrete-du-3-juin-1994-ecot9416193a)
 - [Arrêté du 3 juin 1994 (ECOT9416194A)](arrete-du-3-juin-1994-ecot9416194a)
-- [Arrêté du 3 juin 1994 (EQUT9400925A)](arrete-du-3-juin-1994-equt9400925a)
 - [Arrêté du 3 juin 1994 (TEFE9400576A)](arrete-du-3-juin-1994-tefe9400576a)
 - [Arrêté du 3 mars 1994 (SPSH9400713A)](arrete-du-3-mars-1994-spsh9400713a)
 - [Arrêté du 3 novembre 1994 (AGRS9402180A)](arrete-du-3-novembre-1994-agrs9402180a)

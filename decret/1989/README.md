@@ -77,7 +77,6 @@
 - [Décret n°89-637 du 6 septembre 1989 (INDH8900624D)](decret-n89-637-du-6-septembre-1989-indh8900624d)
 - [Décret n°89-645 du 6 septembre 1989 (INTB8900264D)](decret-n89-645-du-6-septembre-1989-intb8900264d)
 - [Décret n°89-646 du 6 septembre 1989 (PRMP8900109D)](decret-n89-646-du-6-septembre-1989-prmp8900109d)
-- [Décret n°89-724 du 6 octobre 1989 (AGRA8901618D)](decret-n89-724-du-6-octobre-1989-agra8901618d)
 - [Décret n°89-76 du 6 février 1989 (INDA8800726D)](decret-n89-76-du-6-fevrier-1989-inda8800726d)
 - [Décret n°89-84 du 6 février 1989 (RESW8800895D)](decret-n89-84-du-6-fevrier-1989-resw8800895d)
 - [Décret n°89-881 du 6 décembre 1989 (PRMX8900165D)](decret-n89-881-du-6-decembre-1989-prmx8900165d)

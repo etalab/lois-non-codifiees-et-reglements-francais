@@ -380,7 +380,6 @@
 - [Décret n°94-889 du 13 octobre 1994 (SPSP9402521D)](decret-n94-889-du-13-octobre-1994-spsp9402521d)
 - [Décret n°94-891 du 13 octobre 1994 (INDP9401139D)](decret-n94-891-du-13-octobre-1994-indp9401139d)
 - [Décret n°94-892 du 13 octobre 1994 (INDP9401073D)](decret-n94-892-du-13-octobre-1994-indp9401073d)
-- [Décret n°94-893 du 13 octobre 1994 (INDP9401074D)](decret-n94-893-du-13-octobre-1994-indp9401074d)
 - [Décret n°94-894 du 13 octobre 1994 (INDG9400919D)](decret-n94-894-du-13-octobre-1994-indg9400919d)
 - [Décret n°94-895 du 13 octobre 1994 (AGRG9401576D)](decret-n94-895-du-13-octobre-1994-agrg9401576d)
 - [Décret n°94-901 du 13 octobre 1994 (SPSS9401483D)](decret-n94-901-du-13-octobre-1994-spss9401483d)

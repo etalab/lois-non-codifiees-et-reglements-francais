@@ -2,6 +2,5 @@
 
 - [Article 1](article-1.md)
 - [Chapitre Ier : De la protection de la faune et de la flore.](chapitre-ier)
-- [Article 2](article-2.md)
 - [Chapitre II : De la protection de l'animal.](chapitre-ii)
 - [Chapitre VI : Dispositions diverses.](chapitre-vi)
