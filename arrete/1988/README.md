@@ -130,7 +130,6 @@
 - [Arrêté du 6 septembre 1988 (ECOT8810031A)](arrete-du-6-septembre-1988-ecot8810031a)
 - [Arrêté du 6 septembre 1988 (ECOZ8800033A)](arrete-du-6-septembre-1988-ecoz8800033a)
 - [Arrêté du 6 septembre 1988 (SPSP8801440A)](arrete-du-6-septembre-1988-spsp8801440a)
-- [Arrêté du 6 mai 1988 (AGRG8800875A)](arrete-du-6-mai-1988-agrg8800875a)
 - [Arrêté du 6 mai 1988 (AGRR8800914A)](arrete-du-6-mai-1988-agrr8800914a)
 - [Arrêté du 6 mai 1988 (ASES8800537A)](arrete-du-6-mai-1988-ases8800537a)
 - [Arrêté du 6 mai 1988 (ASES8800644A)](arrete-du-6-mai-1988-ases8800644a)
