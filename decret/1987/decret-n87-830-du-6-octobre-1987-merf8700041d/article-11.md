@@ -1,0 +1,3 @@
+# Article 11
+
+Lorsque le produit de la vente du navire ou de l'engin flottant abandonné est inférieur au montant des frais d'intervention exposés par l'autorité compétente afin de mettre fin, en application des dispositions des articles 2 et 6 du présent décret, à l'état de danger, la somme non couverte par ce produit et dont le recouvrement n'a pu être effectué auprès du propriétaire est prise en charge, selon le cas, par le budget de l'Etat (Marine marchande) ou par celui de la collectivité décentralisée ou de l'établissement public à la demande et pour le compte duquel l'intervention a été effectuée.
