@@ -1,0 +1,3 @@
+# Article 27-7
+
+Sans préjudice des dispositions de l'article 44 de la loi du 26 janvier 1984 susvisée, les puéricultrices territoriales hors classe inscrites sur les listes d'aptitude des concours internes ouverts avant la date mentionnée à l'article 27-1 peuvent être recrutées, à compter de cette date, dans le présent cadre d'emplois, lorsqu'elles ont été reclassées dans le grade provisoire de puéricultrice hors classe. Elles sont nommées stagiaires dans le grade provisoire de coordinatrice territoriale d'établissements et services d'accueil des enfants de moins de six ans. Elles accomplissent leur stage et sont titularisées dans les mêmes conditions que les stagiaires mentionnées à l'article 27-3.

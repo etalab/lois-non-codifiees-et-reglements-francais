@@ -1,159 +1,151 @@
-# Article 1
+# Article 27-2
 
-L'échelonnement indiciaire applicable au cadre d'emplois des puéricultrices territoriales est fixé ainsi qu'il suit :
+A compter de la date mentionnée à l'article 27-1, il est créé un grade provisoire de coordinatrice territoriale d'établissements et services d'accueil des enfants de moins de six ans qui comprend huit échelons.
+
+L'échelonnement indiciaire, la durée maximale et la durée minimale du temps passé dans chacun des échelons de ce grade sont fixés ainsi qu'il suit :
 
 <table>
 <tbody>
 <tr>
 <td align="left" valign="middle">
-<p align="center">Grades et Echelons</p>
+<p align="center">
+<strong>ECHELONS</strong>
+</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">Indices bruts</p>
+<p align="center">
+<strong>INDICES </strong>bruts</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>DUREES</strong>
+</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">Puéricultrice de classe supérieure</p>
+<pre> </pre>
 </td>
 <td align="left" valign="middle">
 <pre> </pre>
 </td>
-</tr>
-<tr>
 <td align="left" valign="middle">
-<p align="center">7e échelon</p>
+<p align="center">Maximale</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">685</p>
+<p align="center">Minimale</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">6e échelon</p>
+<p align="justify">8e échelon</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">645</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">5e échelon</p>
+<p align="center">660</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">618</p>
+<p align="center">-</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">-</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">4e échelon</p>
+<p align="justify">7e échelon</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">591</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">3e échelon</p>
+<p align="center">628</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">559</p>
+<p align="center">4 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3ans</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">2e échelon</p>
+<p align="justify">6e échelon</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">532</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">1er échelon</p>
+<p align="center">597</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">485</p>
+<p align="center">4 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 ans</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">Echelons</p>
+<p align="justify">5e échelon</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">Indices bruts</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">Puéricultrice de classe normale</p>
+<p align="center">566</p>
 </td>
 <td align="left" valign="middle">
-<pre> </pre>
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">8e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">610</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">7e échelon</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">574</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">6e échelon</p>
+<p align="justify">4e échelon</p>
 </td>
 <td align="left" valign="middle">
 <p align="center">535</p>
 </td>
-</tr>
-<tr>
 <td align="left" valign="middle">
-<p align="center">5e échelon</p>
+<p align="center">2 ans</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">498</p>
+<p align="center">1 an 6 mois</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">4e échelon</p>
+<p align="justify">3e échelon</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">471</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">3e échelon</p>
+<p align="center">504</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">438</p>
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">2e échelon</p>
+<p align="justify">2e échelon</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">408</p>
+<p align="center">481</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
 </td>
 </tr>
 <tr>
 <td align="left" valign="middle">
-<p align="center">1er échelon</p>
+<p align="justify">1er échelon</p>
 </td>
 <td align="left" valign="middle">
-<p align="center">368</p>
+<p align="center">461</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 ans</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 an 6 mois</p>
 </td>
 </tr>
 </tbody>

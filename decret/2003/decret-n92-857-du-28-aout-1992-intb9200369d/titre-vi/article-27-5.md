@@ -1,0 +1,3 @@
+# Article 27-5
+
+Les fonctionnaires du grade provisoire de puéricultrice hors classe du cadre d'emplois des puéricultrices territoriales qui ont fait l'objet d'un recrutement par voie de promotion interne en qualité de coordinatrice d'établissements et services d'accueil des enfants de moins de six ans stagiaire sont classés lors de leur titularisation dans le grade provisoire de coordinatrice d'établissements et services d'accueil des enfants de moins de six ans à l'échelon et avec l'ancienneté d'échelon détenus au jour de leur titularisation, sans qu'il soit tenu compte de la prolongation éventuelle de la période de stage prévue à l'article 27-3.
