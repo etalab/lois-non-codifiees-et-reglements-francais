@@ -126,9 +126,13 @@ Panneau CE 4 b. - Terrain de camping pour caravanes.
 
 Panneau CE 4 c. - Terrain de camping pour tentes et caravanes.
 
-Panneau CE 5. - Auberge de jeunesse.
+" Panneau CE 5a : Auberge de jeunesse ;
 
-Panneau CE 6. - Emplacement aménagé comme point de départ d'excursions à pied.
+" Panneau CE 5b : Chambre d'hôtes ou gîte ;
+
+" Panneau CE 6a : Point de départ d'un itinéraire d'excursions à pied ;
+
+" Panneau CE 6b : Point de départ d'un circuit de ski de fond ; "
 
 Panneau CE 7. - Emplacement pour pique-nique.
 
@@ -136,7 +140,7 @@ Panneau CE 8. - Trains autos.
 
 Panneau CE 9. - Trains autos-couchettes.
 
-Panneau CE 10. - Car ferry. - Bac.
+Panneau CE 10. - Navire transbordeur - Bac.
 
 Panneau CE 12. - Toilettes ouvertes au public.
 
@@ -155,6 +159,14 @@ Panneau CE 12. - Toilettes ouvertes au public.
 " Panneau CE 17. - Hôtel ou motel ;
 
 " Panneau CE 18. - Débit de boissons ou cafétéria. "
+
+" Panneau CE 19 : Point de mise à l'eau d'embarcations légères ;
+
+" Panneau CE 20a : Gare de téléphérique ;
+
+" Panneau CE 20b : Point de départ d'un télésiège ou d'une télécabine ;
+
+" Panneau CE 21 : Point de vue ; ".
 
 Panneau CE 50. - Installations diverses.
 
@@ -216,9 +228,7 @@ D 31 a   L'échangeur routier ou autoroutier est identifié par un numéro défi
 
 Dans ces derniers registres sont indiquées les mentions desservies par l'échangeur. Chaque registre est d'une seule couleur.
 
-D 31 b   Le carrefour routier est identifié par le numéro de la route desservie inscrit dans un encart dont la couleur de fond est, comme pour les cartouches, liée au statut de la voie. Les dispositions
-
-relatives au registre supérieur et aux registres complémentaires sont identiques à celles prévues pour le panneau D 31 a.
+D 31 b   Le carrefour routier est identifié par le numéro de la route desservie inscrit dans un encart dont la couleur de fond est, comme pour les cartouches, liée au statut de la voie. Les dispositions relatives au registre supérieur et aux registres complémentaires sont identiques à celles prévues pour le panneau D 31 a.
 
 D 31 c   La bifurcation autoroutière est identifiée par le numéro de l'autoroute desservie inscrit dans un encart à fond rouge.
 
@@ -252,9 +262,7 @@ Les panneaux D 41 de présignalisation de sortie ou de bifurcation :
 
 D 41 a   L'échangeur est identifié par un numéro défini par le ministre des transports et inscrit dans le symbole échangeur. Cette identification et la distance à l'échangeur, exprimée en mètres, sont inscrits dans le registre supérieur à fond blanc. Celui-ci est complété par un ou plusieurs registres qui peuvent être, dans l'ordre et de haut en bas, à fond bleu, vert, blanc ou jaune.
 
-Dans ces derniers registres sont indiquées les mentions desservies par la sortie. Chaque registre est d'une seule
-
-couleur.
+Dans ces derniers registres sont indiquées les mentions desservies par la sortie. Chaque registre est d'une seule couleur.
 
 D 41 b    Le carrefour routier est identifié par le numéro de la route desservie inscrit dans un encart, dont la couleur de fond est, comme pour les cartouches, liée au statut de la voie. Les dispositions relatives au registre supérieur et aux registres complémentaires sont identiques à celles prévues pour le panneau D 41 a.
 
@@ -404,27 +412,27 @@ l) Signalisation du caractère payant de certaines autoroutes.
 
 Le mot " péage " est utilisé en complément des mentions signalées à partir du point de choix entre deux itinéraires concurrents et en direction de celui qui emprunte l'autoroute à péage.
 
-3. Signalisation de localisation (annexe E)
+3. Panneaux de localisation (annexe E)
 
-a) Les panneaux de localisation de type E 30 permettent de porter à la connaissance de l'usager le nom d'un lieudit, d'un cours d'eau ou autre lieu traversé par la route.
+" a) Panneaux de localisation de type E 30 permettant de porter à la connaissance de l'usager le nom d'un cours d'eau ou d'un lieu traversé par la route, à l'exclusion des agglomérations (dont la signalisation est décrite en 4) :
 
-" On distingue les panneaux :
+" Panneau E 31 : localisation de tous lieux traversés par la route pour lesquels il n'existe pas de panneau spécifique ; panneau à fond noir et inscription blanche ;
 
-" E 31 A : fond noir, qui comportent le nom des lieuxdits, forêts et autres lieux traversés par la route ;
+" Panneau E 32 : localisation d'un cours d'eau ; panneau à fond noir, inscription et pictogramme blancs ;
 
-" E 32 A : fond noir, qui comportent le nom des cours d'eau ;
+" Panneau E 33 : localisation d'un parc national, d'un parc naturel régional, d'une réserve naturelle ou d'un terrain du Conservatoire du littoral et des rivages lacustres ; panneau à fond marron, listel et inscription blancs ;
 
-" E 33 A : fond marron, qui comportent le nom des parcs nationaux ou naturels régionaux ;
+" Panneau E 34a : localisation d'une aire routière ; panneau à fond noir et inscription blanche ;
 
-" E 34 a : début de localisation d'une aire routière. Ils sont à fond noir et comportent le nom de l'aire ;
+" Panneau E 34b : fin de localisation d'une aire routière ; panneau à fond noir, inscription blanche et barre transversale rouge ;
 
-" E 34 b : fin de localisation d'une aire routière. Ils sont à fond noir, comportent le nom de l'aire et une barre transversale de couleur rouge ;
+" Panneau E 35a : localisation d'une aire autoroutière ; panneau à fond bleu et inscription blanche ;
 
-" E 35 a : début de localisation d'une aire autoroutière. Ils sont à fond bleu et comportent le nom de l'aire ;
+" Panneau E 35b : fin de localisation d'une aire autoroutière ; panneau à fond bleu, inscription blanche et barre transversale rouge ;
 
-" E 35 b : fin de localisation d'une aire autoroutière. Ils sont à fond bleu, comportent le nom de l'aire et une barre transversale de couleur rouge ;
+" Panneau E 36 : localisation d'une région administrative ou d'un département ; panneau à fond bleu, listel et inscription jaunes ;
 
-" E 39 : indication de la frontière avec les pays appartenant à la Communauté économique européenne. Ils sont à fond bleu, comportent le nom du pays frontalier et des étoiles jaunes. "
+" Panneau E 39 : localisation d'un Etat appartenant à la Communauté économique européenne ; panneau à fond bleu, inscription blanche et étoiles jaunes. "
 
 b) Les cartouches de type E 40 permettent de localiser la voie sur laquelle les panneaux sont implantés. Ils sont placés au-dessus des panneaux concernés. Ils comportent l'identification de la voie composée d'une lettre et d'un numéro. On distingue le cartouche :
 
@@ -438,9 +446,7 @@ E 44 A : fond blanc, caractérisant les réseaux communaux ou ruraux.
 
 E 45 A : fond vert, caractérisant les réseaux forestiers.
 
-4. Signaux d'entrée et sortie d'agglomération de type EB (annexe EB)
-
-définissant les limites à l'intérieur desquelles les règles de conduite, de police ou d'urbanisme particulières aux agglomérations sont applicables
+4. Signaux d'entrée et sortie d'agglomération de type EB (annexe EB) définissant les limites à l'intérieur desquelles les règles de conduite, de police ou d'urbanisme particulières aux agglomérations sont applicables
 
 On distingue les panneaux :
 
@@ -448,11 +454,15 @@ EB 10   Panneau d'entrée d'agglomération. Il est à fond blanc et comporte une
 
 EB 20   Panneau de sortie d'agglomération. Il est à fond blanc et listel noir. La barre est de couleur rouge.
 
-5. Idéogrammes
+" 5. Idéogrammes, emblèmes et logotypes.
 
-Un idéogramme caractérise l'indication de destination inscrite sur le panneau et lui est étroitement associée.
+" Un idéogramme caractérise l'indication de destination inscrite sur le panneau et lui est étroitement associé.
 
-Les idéogrammes utilisés en signalisation font l'objet d'une autorisation du ministre des transports.
+" Les idéogrammes font l'objet d'une liste arrêtée par le ministre chargé des transports.
+
+" Un emblème accompagne une indication de localisation relative à un parc national, un parc naturel régional, une réserve naturelle ou un terrain du Conservatoire du littoral et des rivages lacustres.
+
+" Un logotype accompagne soit une indication de localisation relative à une région administrative ou un département, soit une indication utilisée pour un balisage d'itinéraire touristique. "
 
 6. Symboles (annexe S)
 
@@ -470,16 +480,34 @@ Les symboles caractérisent :
 
 - soit l'identification d'un échangeur permettant de sortir d'une voie rapide. On utilise alors le symbole SE 1 défini en annexe. Il comporte un numéro d'ordre qui permet de localiser l'échangeur de manière précise. Il peut être complété par le mot " sortie ", le symbole est inscrit en noir sur fond blanc.
 
-" 7. Signalisation d'animation.
+" 7. Panneaux d'information.
 
-" Les panneaux d'animation de type H sont placés sur les réseaux à caractéristiques autoroutières pour donner des indications culturelles et touristiques d'intérêt général et permanent.
+" a) Panneaux d'animation culturelle et touristique de type H 10 placés sur les autoroutes et les routes express pour donner des indications culturelles et touristiques d'intérêt général et permanent :
 
-" On distingue les panneaux suivants :
+" Panneau H 11 : indication par message littéral ;
 
-" H 11 : panneau d'animation à message littéral ;
+" Panneau H 12 : indication par message graphique ;
 
-" H 12 : panneau d'animation à message graphique ;
+" Panneau H 13 : indication par message littéral et graphique.
 
-" H 13 : panneau d'animation à message littéral et graphique.
+" Les panneaux de type H 10 sont de forme rectangulaire ou carrée. Ils sont à fond marron, listel et inscription blancs ; le graphisme est de couleurs blanche et marron.
 
-" Les panneaux de type H sont de forme rectangulaire ou carrée. Ils sont à fond marron ; les inscriptions et graphismes sont de couleur blanche. "
+" b) Panneaux de balisage d'itinéraires touristiques de type H 20 placés sur les réseaux routiers pour présignaler et localiser un itinéraire touristique :
+
+" Panneau H 21 : localisation d'un itinéraire touristique ;
+
+" Panneau H 22 : présignalisation d'un itinéraire touristique ;
+
+" Panneau H 23 : présignalisation d'un itinéraire touristique.
+
+" Les panneaux de type H 20 sont de forme rectangulaire. Ils sont à fond marron, listel et inscription blancs.
+
+" c) Panneaux d'information culturelle et touristique de type H 30 placés sur les réseaux routiers pour donner des indications culturelles et touristiques d'intérêt général et permanent :
+
+" Panneau H 31 : indication d'une curiosité ou d'un lieu touristique, complétée par la direction à suivre ;
+
+" Panneau H 32 : indication d'une curiosité ou d'un lieu touristique, complétée par la direction à suivre ainsi que par un message graphique ;
+
+" Panneau H 33 : indication d'une curiosité ou d'un lieu touristique complétée par un message graphique.
+
+" Les panneaux de type H 30 sont de forme rectangulaire. Les registres comportant des inscriptions sont à fond blanc et listel marron ; les inscriptions sont de couleur noire. Le registre comportant un message graphique est à fond marron et listel blanc ; le graphisme est de couleurs blanche et marron. "

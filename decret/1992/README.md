@@ -443,3 +443,4 @@
 - [Décret n°92-333 du 31 mars 1992 (TEFT9204544D)](decret-n92-333-du-31-mars-1992-teft9204544d)
 - [Décret n°92-336 du 31 mars 1992 (EQUC9200023D)](decret-n92-336-du-31-mars-1992-equc9200023d)
 - [Décret n°92-337 du 31 mars 1992 (EQUA9200294D)](decret-n92-337-du-31-mars-1992-equa9200294d)
+- [Décret n° 92-378 (MENT9200362D)](decret-n-92-378-ment9200362d)

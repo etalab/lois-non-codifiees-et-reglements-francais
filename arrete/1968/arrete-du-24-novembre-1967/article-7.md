@@ -70,13 +70,13 @@ Feux de circulation permanents :
 
 " Les indications données ne concernent que les conducteurs qui occupent, sur la chaussée, la ou les voies correspondantes, matérialisées dans ce but.
 
-" e) Signaux modaux d'anticipation (R15) :
+" e) Signaux d'anticipation modaux (R15) :
 
 " Destinés aux mêmes catégories de véhicules que les signaux tricolores modaux R13, ils se composent d'un feu jaune clignotant muni d'un pictogramme : cycle (R15c), bus (R15b) ou tram (R15t) ;
 
 " Ils sont toujours associés à un signal tricolore circulaire R11.
 
-" f) Signaux directionnels d'anticipation (R16) :
+" f) Signaux d'anticipation directionnels(R16) :
 
 " Destinés aux mêmes catégories de véhicules que les signaux tricolores directionnels R14, ils se composent d'un feu jaune clignotant muni d'un pictogramme en forme d'une ou deux flèches ;
 
@@ -84,9 +84,9 @@ Feux de circulation permanents :
 
 " Une flèche à droite (ou à gauche) désigne la première direction de sortie autorisée immédiatement à droite (ou à gauche).
 
-" Significations particulières du jaune clignotant :
+"g) Significations particulières du jaune clignotant :
 
-" Sur un signal d'anticipation (modal R13 ou directionnel R14), le feu jaune clignotant signifie aux usagers concernés qu'ils peuvent franchir la ligne d'effet du signal tricolore circulaire R11 associé, bien que celui-ci soit au rouge, mais en toute prudence et en cédant le passage à tous autres véhicules ou piétons ;
+" Sur un signal d'anticipation (modal R15 ou directionnel R16), le feu jaune clignotant signifie aux usagers concernés qu'ils peuvent franchir la ligne d'effet du signal tricolore circulaire R11 associé, bien que celui-ci soit au rouge, mais en toute prudence et en cédant le passage à tous autres véhicules ou piétons ;
 
 " Dans un ensemble de feux tricolore, un feu jaune clignotant signifie autorisation de passer avec prudence car d'autres usagers, avec lesquels un conflit inhabituel est possible, sont admis simultanément à franchir l'intersection :
 
