@@ -1,0 +1,3 @@
+# Article 29
+
+Toute infraction aux dispositions du paragraphe 4 de l'article 2 (modification, sans avis préalable, d'un immeuble inscrit sur l'inventaire supplémentaire), des paragraphes 2 et 3 de l'article 8 (aliénation d'un immeuble classé), des paragraphes 2 et 3 de l'article 19 (aliénation d'un objet mobilier classé), du paragraphe 2 de l'article 23 (représentation des objets mobiliers classés) et du paragraphe 3 de l'article 24 bis (transfert, cession, modification, sans avis préalable, d'un objet mobilier inscrit à l'inventaire supplémentaire à la liste des objets mobiliers classés) sera punie d'une amende de 0,75 à 15 euros.
