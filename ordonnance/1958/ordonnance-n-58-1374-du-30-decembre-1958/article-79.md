@@ -11,3 +11,5 @@ Dans les dispositions statutaires ou conventionnelles en cours, les clauses pré
 Est interdite toute clause d'une convention portant sur un local d'habitation prévoyant une indexation fondée sur l'indice "loyers et charges" servant à la détermination des indices généraux des prix de détail. Il en est de même de toute clause prévoyant une indexation fondée sur le taux des majorations légales fixées en application de la loi n° 48-1360 du 1er septembre 1948, à moins que le montant initial n'ait lui-même été fixé conformément aux dispositions de ladite loi et des textes pris pour son application.
 
 Est réputée non écrite toute clause d'un contrat à exécution successive, et notamment de baux et locations de toute nature, prévoyant la prise en compte d'une période de variation de l'indice supérieure à la durée s'écoulant entre chaque révision.
+
+Par dérogation aux dispositions ci-dessus et selon des modalités fixées par décret, peuvent être indexés sur le niveau général des prix les titres de créance et les instruments financiers à terme mentionnés au 2° et au 4° de l'article 1er de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.

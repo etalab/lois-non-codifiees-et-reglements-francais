@@ -34,6 +34,7 @@
 - [Loi n° 98-540 du 1 juillet 1998 (MAEX9700155L)](loi-n-98-540-du-1-juillet-1998-maex9700155l)
 - [Loi n° 98-541 du 1 juillet 1998 (MAEX9800012L)](loi-n-98-541-du-1-juillet-1998-maex9800012l)
 - [Loi n° 98-542 du 1 juillet 1998 (MAEX9800049L)](loi-n-98-542-du-1-juillet-1998-maex9800049l)
+- [Loi n° 98-546 du 2 juillet 1998 (ECOX9800011L)](loi-n-98-546-du-2-juillet-1998-ecox9800011l)
 - [Loi n° 98-75 du 11 février 1998 (MAEX9600077L)](loi-n-98-75-du-11-fevrier-1998-maex9600077l)
 - [Loi n° 98-76 du 11 février 1998 (MAEX9700002L)](loi-n-98-76-du-11-fevrier-1998-maex9700002l)
 - [Loi n° 98-77 du 11 février 1998 (MAEX9700003L)](loi-n-98-77-du-11-fevrier-1998-maex9700003l)

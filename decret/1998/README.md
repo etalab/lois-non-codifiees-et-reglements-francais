@@ -1,5 +1,6 @@
 # 1998
 
+- [Décret du 1 juillet 1998 (HRUX9803065D)](decret-du-1-juillet-1998-hrux9803065d)
 - [Décret n°97-900 du 1 octobre 1997 (DEFX9700105D)](decret-n97-900-du-1-octobre-1997-defx9700105d)
 - [Décret n°97-901 du 1 octobre 1997 (DEFP9701915D)](decret-n97-901-du-1-octobre-1997-defp9701915d)
 - [Décret n°97-902 du 1 octobre 1997 (DEFP9701916D)](decret-n97-902-du-1-octobre-1997-defp9701916d)
@@ -8,6 +9,8 @@
 - [Décret n°98-232 du 1 avril 1998 (FPPA9800059D)](decret-n98-232-du-1-avril-1998-fppa9800059d)
 - [Décret n°98-248 du 1 avril 1998 (DEFE9755011D)](decret-n98-248-du-1-avril-1998-defe9755011d)
 - [Décret n°98-252 du 1 avril 1998 (MESS9820822D)](decret-n98-252-du-1-avril-1998-mess9820822d)
+- [Décret n°98-547 du 1 juillet 1998 (ECOU9800005D)](decret-n98-547-du-1-juillet-1998-ecou9800005d)
+- [Décret n°98-548 du 1 juillet 1998 (ECOU9800006D)](decret-n98-548-du-1-juillet-1998-ecou9800006d)
 - [Décret n°98-1 du 2 janvier 1998 (ECOT9710320D)](decret-n98-1-du-2-janvier-1998-ecot9710320d)
 - [Décret n°98-122 du 2 mars 1998 (ECOP9800009D)](decret-n98-122-du-2-mars-1998-ecop9800009d)
 - [Décret n°98-123 du 2 mars 1998 (MENF9800258D)](decret-n98-123-du-2-mars-1998-menf9800258d)
@@ -312,6 +315,7 @@
 - [Décret n°99-119 du 18 février 1999 (AGRA9802149D)](decret-n99-119-du-18-fevrier-1999-agra9802149d)
 - [Décret n°98-384 du 18 mai 1998 (MESG9820694D)](decret-n98-384-du-18-mai-1998-mesg9820694d)
 - [Décret n°73-1045 du 19 novembre 1973](decret-n73-1045-du-19-novembre-1973)
+- [Décret n°96-1117 du 19 décembre 1996 (EQUX9600145D)](decret-n96-1117-du-19-decembre-1996-equx9600145d)
 - [Décret n°97-1184 du 19 décembre 1997 (PRMX9700148D)](decret-n97-1184-du-19-decembre-1997-prmx9700148d)
 - [Décret n°97-1185 du 19 décembre 1997 (MESX9700151D)](decret-n97-1185-du-19-decembre-1997-mesx9700151d)
 - [Décret n°97-1187 du 19 décembre 1997 (JUSX9700135D)](decret-n97-1187-du-19-decembre-1997-jusx9700135d)
