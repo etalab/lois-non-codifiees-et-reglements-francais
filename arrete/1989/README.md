@@ -75,6 +75,7 @@
 - [Arrêté du 14 décembre 1988 (MENK8870070A)](arrete-du-14-decembre-1988-menk8870070a)
 - [Arrêté du 14 décembre 1988 (TEFT8804183A)](arrete-du-14-decembre-1988-teft8804183a)
 - [Arrêté du 14 février 1989 (MENU8802163A)](arrete-du-14-fevrier-1989-menu8802163a)
+- [Arrêté du 14 février 1989 (RESY8900055A)](arrete-du-14-fevrier-1989-resy8900055a)
 - [Arrêté du 15 décembre 1988 (ECOC8800122A)](arrete-du-15-decembre-1988-ecoc8800122a)
 - [Arrêté du 15 décembre 1988 (TEFT8804184A)](arrete-du-15-decembre-1988-teft8804184a)
 - [Arrêté du 15 février 1989 (MCCK8900087A)](arrete-du-15-fevrier-1989-mcck8900087a)
