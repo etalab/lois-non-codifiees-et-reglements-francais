@@ -24,7 +24,7 @@ Taux unique : 16 euros.
 
 5. Colissimo recommandé :
 
-Taux R 1 : 16 euros ;
+Taux R 1 : 31 euros ;
 
 Taux R 2 : 153 euros ;
 
