@@ -6,7 +6,9 @@ a) Participation aux frais de séjour dans la station ;
 
 b) Remboursement des frais de déplacement du bénéficiaire de la cure et, éventuellement, de la personne accompagnant le malade lorsque celui-ci ne peut se déplacer sans l'assistance d'un tiers en raison de son jeune âge ou de son état de santé.
 
-Les prestations supplémentaires susvisées sont accordées aux assurés sociaux et à leurs ayants droit bénéficiaires d'une prise en charge pour cure thermale après accord préalable de la caisse, lorsque le total des ressources de toute nature de l'assuré, de son conjoint, de ses enfants à charge et de ses ascendants vivant au foyer de manière habituelle et se trouvant au moins en partie à la charge de l'assuré est inférieur à 44.800 F pour l'année 1978 [*plafond*], ce chiffre étant majoré de 50 p. 100 pour le conjoint et de 50 p. 100 pour chacun des enfants, des ascendants et des autres ayants droit à charge au sens de l'article L. 285 du code de la sécurité sociale.
+Les prestations supplémentaires susvisées sont accordées aux assurés sociaux et à leurs ayants droit, bénéficiaires d'une prise en charge pour cure thermale après accord préalable de la caisse, lorsque le total des ressources de toute nature de l'assuré, de son conjoint, de ses enfants à charge et de ses ascendants vivant au foyer de manière habituelle et se trouvant au moins en partie à la charge de l'assuré est inférieur à [*71.345 F pour l'année 1982 :
+
+modifié par l'arrêté du 19 mars 1984*] 75.411 F pour l'année 1983 [*plafond*] ; ce chiffre étant majoré de 50 p. 100 pour le conjoint et 50 p. 100 pour chacun des enfants, des ascendants et des autres ayants droit, à sa charge au sens de l'article L. 285 du code de la sécurité sociale.
 
 La participation de la caisse aux frais de séjour est calculée sur le montant forfaitaire fixé chaque année, au cours du premier trimestre civil, par arrêté du ministre du travail.
 

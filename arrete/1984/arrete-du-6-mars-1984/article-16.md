@@ -18,6 +18,6 @@ Les pieds doivent avoir été épilés, désergotés puis lavés ;
 
 Les estomacs après dégraissage éventuel et fente doivent avoir été vidés, nettoyés, échaudés, grattés (ruminants) et lavés.
 
-Les dérogations prévues dans le cadre des abattages rituels sont applicables pour la réception des têtes et des estomacs, sous réserve du strict respect des conditions réglementaires.
+Les dérogations prévues dans le cadre des abattages rituels ne sont applicables que pour la réception des estomacs, intestins et vessies, sous réserve du strict respect des conditions réglementaires.
 
 Le gibier peut être mis en vente sous sa présentation traditionnelle.
