@@ -1,0 +1,3 @@
+# Article 4
+
+Le Gouvernement présentera avant le 1er juin 1993, ainsi qu'un an après l'entrée en vigueur de la convention signée à Schengen le 19 juin 1990, un rapport au Parlement sur l'application de l'article 20 bis de l'ordonnance n° 45-2658 du 2 novembre 1945 précitée sur le territoire métropolitain et sur l'application de réglementations similaires dans les Etats signataires de la convention. Ces rapports analyseront les conséquences de l'entrée en vigueur de la présente loi, notamment en ce qui concerne la responsabilité des entreprises de transport, et plus particulièrement celles assurant des liaisons en provenance et à destination des Etats parties à ladite convention.
