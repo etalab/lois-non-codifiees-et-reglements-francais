@@ -1,25 +1,15 @@
 # Article 7
 
-Sous réserve de l'application des dispositions particulières prévues à l'article 21-II (dernier alinéa) de la loi susvisée du 30 juin 1975 concernant le président, les représentants des collectivités territoriales mentionnées au 1° de l'article 5 et au 1° de l'article 6 ci-dessus comprennent :
+Les trois membres représentant les collectivités publiques ou organismes de sécurité sociale ayant la charge financière principale du fonctionnement de l'établissement, mentionnés au 3° de l'article 6, sont désignés comme suit [*mode de désignation*]:
 
-Dans les établissements communaux :
+a) Dans les maisons d'enfants à caractère social mentionnées au premier alinéa de l'article 19 de la loi du 30 juin 1975 susvisée, par le conseil général du département dont elles relèvent ;
 
-Le maire de la commune dont relève l'établissement public ou la personne remplissant dans leur plénitude les fonctions de maire, président du conseil d'administration, ou, éventuellement, le conseiller municipal auquel le maire aura délégué ses fonctions de président du conseil d'administration de l'établissement ;
+b) Dans les établissements mentionnés au 2° de l'article 3 de cette même loi, ainsi que dans les maisons d'accueil spécialisées définies à l'article 1er du décret du 26 décembre 1978 susvisé, par les organismes de sécurité sociale désignés par le préfet du département d'implantation en fonction de l'importance des frais exposés pour leurs ressortissants et de leur contribution à l'équipement de l'établissement ;
 
-Un ou, dans les établissements mentionnés à l'article 6, deux membres élus par le conseil municipal ;
+c) Dans les établissements mentionnés au 5° de l'article 3 de cette même loi, par le conseil général du département dont ils relèvent ; toutefois, lorsqu'une partie du financement est également supportée par les organismes de sécurité sociale, deux membres sont désignés par le conseil général et un troisième par les organismes de sécurité sociale dans les conditions fixées au b ci-dessus ;
 
-Un membre élu par le conseil général.
+d) Dans les établissements mentionnés aux 6° et 8° de l'article 3 de la loi du 30 juin 1975 susvisée, par le préfet du département d'implantation ;
 
-Dans les établissements départementaux :
+e) Dans les établissements regroupant des activités relevant à la fois des 5°, 6° et 8° du même article, par le conseil général du département dont ils relèvent et le préfet du département d'implantation au prorata de la participation financière du département et de l'Etat, chaque collectivité publique disposant d'un représentant au moins. Lorsqu'une partie du financement est également supportée par les organismes de sécurité sociale, un membre représente ces derniers dans les conditions décrites au b ci-dessus.
 
-Le président du conseil général du département dont relève l'établissement public, président du conseil d'administration ou le conseiller général auquel il aura délégué ses fonctions de président du conseil d'administration de l'établissement ;
-
-Un ou, dans les établissements mentionnés à l'article 6, deux membres élus par le conseil général ;
-
-Un membre élu par le conseil municipal de la commune dans laquelle l'établissement a son siège.
-
-Lorsque l'établissement public a son siège en dehors du territoire de la commune ou du département dont il relève, le conseil d'administration comprend un membre supplémentaire élu par :
-
-Le conseil municipal de la commune dans laquelle l'établissement a son siège s'il s'agit d'un établissement communal ;
-
-Le conseil général du département dans lequel se trouve le siège de l'établissement s'il s'agit d'un établissement départemental.
+Lorsque les établissements ci-dessus mentionnés ne sont pas habilités à recevoir des bénéficiaires de l'aide sociale et ne sont pas autorisés à dispenser des soins remboursables aux assurés sociaux, les trois membres prévus au présent article sont remplacés par trois membres désignés par l'organe délibérant de la collectivité territoriale dont relèvent ces établissements.

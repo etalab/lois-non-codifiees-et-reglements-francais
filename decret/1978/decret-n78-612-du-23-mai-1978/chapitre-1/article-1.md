@@ -1,15 +1,15 @@
 # Article 1
 
-Les établissements publics communaux, intercommunaux et départementaux énumérés à l'article 19 de la loi n° 75-535 du 30 juin 1975 sont créés par arrêté du préfet du département siège de la collectivité locale ou de l'établissement public qui en demande la création.
+Sous réserve des avis et de l'autorisation prévus au premier alinéa de l'article 3 et au deuxième alinéa de l'article 18 de la loi du 30 juin 1975 susvisée, les établissements publics mentionnés à l'article 19 de ladite loi qui relèvent d'une seule collectivité territoriale sont créés par une délibération du conseil de ladite collectivité.
 
-Toutefois sont créés par arrêté conjoint des préfets intéressés :
+Lorsqu'ils relèvent de plusieurs collectivités territoriales ou qu'ils sont constitués avec la participation financière d'un centre communal ou intercommunal d'action sociale, leur création ne peut résulter que de délibérations identiques des organes délibérants de chacune de ces collectivités ou organismes.
 
-Les établissements publics interdépartementaux ;
+La ou les délibérations fixent notamment :
 
-Les établissements publics départementaux ayant leur siège en dehors du département dont ils relèvent ;
+a) L'objet et les missions qui sont assignés à l'établissement public ;
 
-Les établissements publics intercommunaux lorsque les communes intéressées sont situées dans des départements différents ;
+b) Son siège et son implantation ;
 
-Les établissements publics communaux lorsque leur siège se trouve en dehors du département dans lequel est située la commune dont ils relèvent.
+c) Son organisation et ses règles de fonctionnement ;
 
-L'arrêté de création fixe le siège de l'établissement public.
+d) Sous réserve des articles 5, 6, 8 et 9 ci-après, la composition de son conseil d'administration ainsi que les modalités de désignation des représentants des personnes qu'il accueille.

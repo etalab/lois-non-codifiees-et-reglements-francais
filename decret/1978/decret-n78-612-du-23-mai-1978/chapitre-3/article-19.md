@@ -1,7 +1,3 @@
 # Article 19
 
-Les établissements publics régis par le présent décret relèvent de la tutelle du préfet du département dans lequel se trouve leur siège [*autorité compétente*].
-
-Les délibérations des conseils d'administration de ces établissements qui sont soumises à approbation lui sont adressées immédiatement par pli recommandé avec demande d'avis de réception.
-
-Si à l'expiration d'un délai de trente jours à compter de la réception de la délibération le préfet n'a pas fait connaître son opposition, la délibération est réputée approuvée et devient exécutoire [*accord tacite*].
+Les délibérations du conseil d'administration des établissements mentionnés au présent décret ne deviennent exécutoires, dans les conditions fixées aux titres Ier et II de la loi du 2 mars 1982 susvisée, que lorsqu'il a été procédé à leur affichage par voie d'extrait ou à leur notification ainsi qu'à leur transmission au représentant de l'Etat dans le département ou à son délégué dans l'arrondissement.
