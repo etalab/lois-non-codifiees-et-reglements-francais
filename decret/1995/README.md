@@ -1027,6 +1027,7 @@
 - [Décret n°95-1135 du 26 octobre 1995 (ECOT9551476D)](decret-n95-1135-du-26-octobre-1995-ecot9551476d)
 - [Décret n°95-1154 du 26 octobre 1995 (AGRA9501560D)](decret-n95-1154-du-26-octobre-1995-agra9501560d)
 - [Décret n°95-1155 du 26 octobre 1995 (DOMP9500034D)](decret-n95-1155-du-26-octobre-1995-domp9500034d)
+- [Décret n°95-1317 du 26 décembre 1995 (EQUA9501768D)](decret-n95-1317-du-26-decembre-1995-equa9501768d)
 - [Décret n°95-456 du 26 avril 1995 (JUSG9560016D)](decret-n95-456-du-26-avril-1995-jusg9560016d)
 - [Décret n°95-457 du 26 avril 1995 (JUSD9530003D)](decret-n95-457-du-26-avril-1995-jusd9530003d)
 - [Décret n°95-461 du 26 avril 1995 (MCCK9400658D)](decret-n95-461-du-26-avril-1995-mcck9400658d)

@@ -12,6 +12,8 @@ Elle est ouverte :
 
 - aux conseillers territoriaux socio-éducatifs ayant au moins cinq années d'ancienneté dans ce corps au 1er janvier de l'année d'inscription aux épreuves de sélection ;
 
+- aux cadres socio-éducatifs de la fonction publique hospitalière ayant au moins cinq années d'ancienneté dans ce corps au 1er janvier de l'année d'inscription aux épreuves de sélection ;
+
 - aux attachés territoriaux exerçant leurs fonctions dans la spécialité Gestion du secteur sanitaire et social ayant au moins cinq années d'ancienneté dans ce corps au 1er janvier de l'année d'inscription aux épreuves de sélection ;
 
 - aux inspecteurs des affaires sanitaires et sociales ayant au moins cinq années d'ancienneté dans ce corps au 1er janvier de l'année d'inscription aux épreuves de sélection ;
