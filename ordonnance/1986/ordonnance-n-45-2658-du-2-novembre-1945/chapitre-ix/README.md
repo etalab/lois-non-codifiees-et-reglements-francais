@@ -1,3 +1,0 @@
-# CHAPITRE IX : DISPOSITIONS TRANSITOIRES.
-
-- [Article 40](article-40.md)

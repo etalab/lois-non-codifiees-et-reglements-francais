@@ -1,4 +1,0 @@
-# CHAPITRE Ier : DISPOSITIONS GENERALES CONCERNANT L'ENTREE ET LE SEJOUR DES ETRANGERS EN FRANCE.
-
-- [Article 5-3](article-5-3.md)
-- [Article 8](article-8.md)
