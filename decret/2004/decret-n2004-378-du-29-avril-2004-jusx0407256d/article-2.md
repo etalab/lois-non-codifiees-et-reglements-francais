@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'exercice de ses attributions, la secrétaire d'Etat aux droits des victimes dispose du service de l'accès au droit et à la justice et de la politique de la ville. Elle dispose également, en tant que de besoin, des services de la direction des affaires criminelles et des grâces, de la direction des affaires civiles et du sceau, de la direction des services judiciaires, de la direction de l'administration générale et de l'équipement, du service des affaires européennes et internationales et du service central d'information et de communication. Pour mener à bien les missions mentionnées aux deuxième et troisième alinéas de l'article 1er, les autres ministres compétents lui assurent, en tant que de besoin, le concours des services concernés.
