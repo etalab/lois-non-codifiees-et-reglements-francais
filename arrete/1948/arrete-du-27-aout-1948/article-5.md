@@ -1,3 +1,3 @@
 # Article 5
 
-Les commissions visées à l'article précédent seront convoquées par le préfet intéressé dans le délai d'un mois à compter de la réception de la demande de réforme qui doit lui être adressée par lettre recommandée avec avis de réception.
+Pour les deux catégories, les listes électorales sont adressées à la diligence de l'autorité ayant procédé à la nomination ou prononcé l'admission à la retraite des agents intéressés.
