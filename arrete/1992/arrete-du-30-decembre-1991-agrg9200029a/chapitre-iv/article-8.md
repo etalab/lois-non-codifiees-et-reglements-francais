@@ -14,7 +14,7 @@ Pour pouvoir être agréées les usines de transformation à haut ou faible risq
 
 6° Les eaux résiduaires venant du secteur souillé doivent être traitées de manière qu'il n'y subsiste pas d'agents pathogènes.
 
-7° Les matières à haut risque doivent être transformés dans les conditions suivantes :
+7° Les matières à haut risque issues d'animaux autres que mammifères et non destinées à l'incinération ou la co-incinération doivent être transformés dans les conditions suivantes :
 
 - soit par chauffage à une température à coeur d'au moins 133 °C pendant vingt minutes à une pression de 3 bars. La taille des particules de matières brutes avant traitement doit être réduite à 50 mm au moins à l'aide d'un appareil de préconcassage ou d'un broyeur ;
 
@@ -22,7 +22,11 @@ Pour pouvoir être agréées les usines de transformation à haut ou faible risq
 
 Il doit faire l'objet d'un agrément par la direction générale de l'alimentation selon des modalités fixées par instructions du ministère de l'agriculture et de la forêt.
 
-7° bis Les déchets animaux de mammifères, visés par la décision 96/449/CE du 18 juillet 1996 relative à l'agrément de systèmes de traitement thermique de remplacement pour la transformation de déchets animaux au regard de l'inactivation des agents de l'encéphalopathie spongiforme, sont transformés conformément aux paramètres minimaux fixés par cette décision.
+7 bis° Les déchets animaux de mammifères, visés par la décision 1999/534/CE du 19 juillet 1999 concernant les mesures applicables au traitement de certains déchets animaux aux fins de la protection contre les encéphalopathies spongiformes transmissibles et modifiant la décision 97/735/CE de la Commission, sont transformés conformément aux conditions prévues par cette décision.
+
+En outre, le traitement prévu à l'annexe I de cette décision est également applicable aux graisses de ruminants issues de matières à faible risque et destinées à l'alimentation ou la fabrication d'aliments des animaux. Cette mesure est applicable à partir du 1er octobre 2001.
+
+7 ter° Le ministre de l'agriculture et de la pêche peut fixer des critères de traitement s'appliquant à la transformation des matières à haut et à faible risque destinées à l'incinération ou la co-incinération, ainsi que des matières à faible risque destinées à un usage technique.
 
 8° Quel que soit le procédé thermique utilisé, des thermographes doivent être prévus aux points sensibles pour contrôler le traitement par la chaleur.
 
