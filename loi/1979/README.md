@@ -15,6 +15,7 @@
 - [Loi n° 79-587 du 11 juillet 1979](loi-n-79-587-du-11-juillet-1979)
 - [Loi n° 79-591 du 12 juillet 1979](loi-n-79-591-du-12-juillet-1979)
 - [Loi n° 79-594 du 13 juillet 1979](loi-n-79-594-du-13-juillet-1979)
+- [Loi n°68-1 du 2 janvier 1968](loi-n68-1-du-2-janvier-1968)
 - [Loi n°79-1113 du 22 décembre 1979](loi-n79-1113-du-22-decembre-1979)
 - [Loi n°79-1159 du 30 décembre 1979](loi-n79-1159-du-30-decembre-1979)
 - [Loi n°79-520 du 2 juillet 1979](loi-n79-520-du-2-juillet-1979)
