@@ -22,58 +22,64 @@ D'une astreinte de sécurité de nuit, de dimanche ou jour férié dans les disc
 
 D'appels exceptionnels. Les disciplines dans lesquelles, les appels sont exceptionnels ne donnent pas lieu à une liste de garde.
 
-2° Indemnisation des participations au service de garde.
+2° Indemnisation des participations au service de garde
 
-Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés quelle que soit la catégorie à laquelle ils appartiennent.
+A. - Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés quelle que soit la catégorie à laquelle ils appartiennent.
 
 Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique, sont fixés ainsi qu'il suit :
 
-Taux à compter du 1er septembre 1988
+Taux à compter du 1er mars 1989 [*date*]
 
-1. Service de garde sur place
+1° Service de garde sur place :
 
-Garde : 833,13 F.
+Garde : 1 010 F ;
 
-Demi-garde : 416,56 F.
+Demi-garde : 505 F.
 
-2. Service de garde par astreinte
+2° Service de garde par astreinte :
 
 Astreinte opérationnelle :
 
 a) Indemnité forfaitaire de base par demi-astreinte :
 
-104,14 F ;
+126,25 F ;
 
-b) Indemnité due pour chaque appel : 104,14 F.
+b) Indemnité due pour chaque appel : 126,25 F.
 
-Le premier appel ne donne pas lieu à rémunération.
-
-Le montant cumulé des indemnités perçues ne peut excéder 416,56 F par demi-astreinte.
+Le montant cumulé des indemnités perçues ne peut excéder 505 F par demi-astreinte.
 
 Astreinte de sécurité :
 
-a) Indemnité forfaitaire de base : 104,14 F.
+a) Indemnité forfaitaire de base : 126,25 F.
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
-833 F pour quatre semaines, ou
+1 010 F pour quatre semaines ou
 
-1 041 F pour cinq semaines.
+1 262,5 F pour cinq semaines.
 
-b) Indemnité due pour chaque appel : 104,14 F.
+b) Indemnité due pour chaque appel : 126,25 F.
 
-Les deux premiers appels ne donnent pas lieu à rémunération.
+Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
 Appels exceptionnels :
 
-a) Ils ne donnent lieu à aucune indemnité forfaitaire ;
+a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
-b) Indemnité due pour chaque appel : 104,14 F.
+b) Indemnité due pour chaque appel : 126,25 F.
 
 Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou de garde par astreinte à domicile ne peut excéder :
 
-8 853 F pour quatre semaines ;
+10 100 F pour quatre semaines ;
 
-11 039 F pour cinq semaines.
+12 625 F pour cinq semaines.
 
-Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond. "
+Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
+
+B. - En cas de nécessité absolue de service et après prise en compte des possibilités de recours à d'autres établissements ou à des praticiens extérieurs, l'application du plafonnement des gardes et astreintes peut être modulée dans les conditions suivantes :
+
+1° En période de congés annuels, les directeurs sont autorisés, après avis de la commission médicale d'établissement, à calculer les plafonds sur une période cumulée de trois mois.
+
+2° Sur la demande du directeur présentée après avis de la commission médicale d'établissement, le préfet peut, après avis du médecin inspecteur régional et examen du tableau général de garde de l'établissement, autoriser par périodes maximum d'un an, des dépassements de plafond dans certaines disciplines.
+
+C. - Quel que soit l'établissement où elles ont été effectuées, le participations au service de garde sont exclusivement mandatées par l'établissement où le praticien effectue son service normal de jour.
