@@ -1,169 +1,105 @@
 # Article 2
 
-La liste des marchés à terme prévue aux articles 23 et 28 de la loi n° 88-1201 du 23 décembre 1988 susvisée est fixée comme suit :
+La liste des marchés à terme prévue aux articles 23 et 28 de la loi du 23 décembre 1988 susvisée est fixée comme suit :
 
-- France :
+Marchés réglementés à terme des Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen
 
-Marchés d'options négociables de Paris (Monep) ;
+Les marchés réglementés à terme figurant sur les listes publiées au Journal officiel des Communautés européennes en application de l'article 16 de la directive 93/22/CEE du Conseil du 10 mai 1993, ainsi que les marchés à terme de marchandises des pays suivants :
 
-Marché à terme international de France (Matif S.A.) ;
+Allemagne
 
-- Allemagne :
+Warenterminbörse Hannover.
 
-Deutsche Terminbörse (D.T.B.).
+Grande-Bretagne
 
-- Belgique :
+International Petroleum Exchange.
 
-Bourse de Bruxelles.
+London Metal Exchange.
 
-- Danemark :
+Pays-Bas
 
-Garantifonden for Danske Optioner og Futures.
+AEX Agrarische Termijnmarkt NV.
 
-- Espagne :
+Marchés à terme des pays tiers
 
-Mercado de Futuros Financieros (M.E.F.F.) ;
+Afrique du Sud
 
-Mercado de Opciones Financieras Espanlol (M.O.F.E.X.).
+South African Futures Exchanges.
 
-- Grande-Bretagne :
+Australie
 
-Baltic Futures Exchange (BFE) ;
+Australia Stock Exchange.
 
-International Petroleum Exchange (IPE) ;
+Sidney Futures Exchange.
 
-London Futures & Options Exchange (London FOX) ;
+Brésil
 
-London International Financial Futures Exchange (LIFFE) ;
+Bolsa Mercadorias ! Futuros.
 
-London Metal Exchange (LME) ;
+Canada
 
-London Traded Options Market (LTOM).
+Montréal Exchange.
 
-- Irlande :
-
-Irish Futures and Options Exchange (IFOX).
-
-- Pays-Bas :
-
-European Options Exchange (EOE) ;
-
-Financiele Termijnmarkt Amsterdam (FTA) ;
-
-Koopmansbeurs.
-
-- Australie :
-
-Australian Financial Futures Market ;
-
-Sydney Futures Exchange (SFE) ;
-
-Sydney Stock Exchange.
-
-- Canada :
-
-Montreal Exchange ;
-
-Toronto Futures Exchange ;
-
-Toronto Stock Exchange ;
-
-Vancouver Stock Exchange ;
+Toronto Futures Exchange.
 
 Winnipeg Commodity Exchange.
 
-- Etats-Unis :
+Etats-Unis
 
-American Stock Exchange (AMEX) ;
+Cantor Financial Futures Exchange.
 
-Chicago Board of Trade (CBOT) ;
+Chicago Board of Trade.
 
-Chicago Board Options Exchange (CBOE) ;
+Chicago Mercantile Exchange.
 
-Chicago Mercantile Exchange (CME) ;
+Coffee, Sugar and Cocoa Exchange.
 
-Chicago Rice & Cotton Exchange (CRCE).
+Kansas City Board of Trade.
 
-Coffee, Sugar and Cocoa Exchange (New York).
+Mid America Commodity Exchange.
 
-Commodity Exchange (COMEX) ;
+Minneapolis Grain Exchange.
 
-Kansas City Board of Trade (KBOT) ;
+New York Cotton Exchange.
 
-Mid America Commodity Exchange ;
+New York Futures Exchange.
 
-Minneapolis Grain Exchange (MGE) ;
+New York Mercantile Exchange.
 
-New York Cotton Exchange (NYCE) ;
+Hong Kong
 
-New York Futures Exchange (NYFE) ;
+Hong Kong Futures Exchange.
 
-New York Mercantile Exchange (NYMEX) ;
+Japon
 
-New York Stock Exchange (NYSE) ;
+Tokyo Grain Exchange.
 
-Pacific Stock Exchange (PSE) ;
+Tokyo Commodity Exchange.
 
-Philadelphia Board of Trade (PBOT) ;
+Tokyo International Financial Futures Exchange.
 
-Philadelphia Stock Exchange (PHLX).
+Osaka Securities Exchange.
 
-- Finlande :
+Tokyo Stock Exchange.
 
-Suomen Optionmeklarit.
+Malaisie
 
-- Japon :
+Kuala Lumpur Options and Financial Futures Exchange.
 
-Hokkaido Grain Exchange ;
+Malaysian Monetary Exchange.
 
-Kanmon Commodity Exchange ;
+Kuala Lumpur Commodity Exchange.
 
-Kobe Grain Exchange ;
+Nouvelle-Zélande
 
-Kobe Raw Silk Exchange ;
+New Zealand Futures and Options Exchange.
 
-Kobe Rubber Exchange ;
-
-Maebashi Dried Cocoon Exchange ;
-
-Nagoya Grain & Sugar Exchange ;
-
-Nagoya Textile Exchange ;
-
-Osaka Grain Exchange ;
-
-Osaka Securities Exchange ;
-
-Osaka Sugar Exchange ;
-
-Osaka Textile Exchange ;
-
-Yokohama Raw Silk Exchange ;
-
-Tokyo Commodity Exchange ;
-
-Tokyo Grain Exchange ;
-
-Tokyo Stock Exchange ;
-
-Tokyo Sugar Exchange ;
-
-Toyahashi Dried Cocoon Exchange.
-
-- Nouvelle-Zélande :
-
-New Zealand Futures Exchange (NZFE).
-
-- Suède :
-
-Stockholms Optionsmarknad (OM).
-
-- Suisse :
-
-Swiss Options and Financial Futures Exchange (SOFFEX).
-
-- Singapour :
+Singapour
 
 Singapore International Monetary Exchange (SIMEX).
 
-Seuls les fonds communs de placement relevant de l'article 23 de la loi du 23 décembre 1988 précitée peuvent traiter des contrats d'instruments financiers et de marchandises sur l'ensemble des marchés énumérés ci-dessus. Les autres organismes de placement collectif en valeurs mobilières ne peuvent y traiter que les contrats d'instruments financiers.
+Suisse
+
+Eurex-Switzerland.
+
+Seuls les fonds communs de placement relevant de l'article 23 de la loi du 23 décembre 1988 susvisée peuvent traiter des contrats d'instruments financiers et de marchandises sur l'ensemble des marchés énumérés ci-dessus. Les autres organismes de placement collectif en valeurs mobilières ne peuvent y traiter que les contrats d'instruments financiers.
