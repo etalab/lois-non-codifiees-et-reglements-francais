@@ -1,0 +1,3 @@
+# Article 15
+
+La garantie de remboursement peut revêtir la forme d'une convention de cautionnement aux termes de laquelle la caution s'oblige envers l'accédant, solidairement avec le vendeur, à rembourser les sommes visées à l'article 10. Cette garantie doit être donnée par une banque, un établissement financier habilité à délivrer des cautions ou à réaliser des opérations de financement immobilier, une entreprise d'assurance agréée à cet effet ou une société de caution mutuelle constituée conformément aux dispositions de la loi du 13 mars 1917 ayant pour objet l'organisation du crédit au petit et au moyen commerce, à la petite et à la moyenne industrie.    La liste des organismes financiers habilités à donner leur garantie est fixée par décret.
