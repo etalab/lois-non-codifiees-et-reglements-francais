@@ -4,6 +4,8 @@
 - [Décret n°84-895 du 1 octobre 1984](decret-n84-895-du-1-octobre-1984)
 - [Décret n°83-4 du 4 janvier 1983](decret-n83-4-du-4-janvier-1983)
 - [Décret n°83-3 du 5 janvier 1983](decret-n83-3-du-5-janvier-1983)
+- [Décret n°83-5 du 5 janvier 1983](decret-n83-5-du-5-janvier-1983)
+- [Décret n°83-19 du 7 janvier 1983](decret-n83-19-du-7-janvier-1983)
 - [Décret n°86-1035 du 11 septembre 1986](decret-n86-1035-du-11-septembre-1986)
 - [Décret n°86-662 du 14 mars 1986](decret-n86-662-du-14-mars-1986)
 - [Décret n°82-971 du 17 novembre 1982](decret-n82-971-du-17-novembre-1982)

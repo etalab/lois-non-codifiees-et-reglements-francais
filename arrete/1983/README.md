@@ -20,3 +20,4 @@
 - [Arrêté du 29 décembre 1982](arrete-du-29-decembre-1982)
 - [Arrêté du 29 juin 1982](arrete-du-29-juin-1982)
 - [Arrêté du 30 décembre 1982](arrete-du-30-decembre-1982)
+- [Arrêté du 31 décembre 1982](arrete-du-31-decembre-1982)
