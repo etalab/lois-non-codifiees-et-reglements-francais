@@ -218,6 +218,7 @@
 - [Décret n°84-708 du 24 juillet 1984](decret-n84-708-du-24-juillet-1984)
 - [Décret n°84-709 du 24 juillet 1984](decret-n84-709-du-24-juillet-1984)
 - [Décret n°84-795 du 24 août 1984](decret-n84-795-du-24-aout-1984)
+- [Décret n°84-940 du 24 octobre 1984](decret-n84-940-du-24-octobre-1984)
 - [Décret n°84-304 du 25 avril 1984](decret-n84-304-du-25-avril-1984)
 - [Décret n°84-305 du 25 avril 1984](decret-n84-305-du-25-avril-1984)
 - [Décret n°84-495 du 25 juin 1984](decret-n84-495-du-25-juin-1984)
