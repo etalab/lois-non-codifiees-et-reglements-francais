@@ -1,17 +1,9 @@
 # Article 3
 
-a) La consommation conventionnelle s'exprime par les valeurs suivantes :
+Pour ce qui concerne le contrôle de la véracité de l'étiquette :
 
-X litres pour 100 km à la vitesse stabilisée de 90 km à l'heure (ou à la vitesse maximale du véhicule, si celle-ci est inférieure à 90 km à l'heure) ;
+La mesure effectuée sur un appareil conforme aux spécifications de fabrication pris au hasard parmi les appareils du même type ne doit pas s'écarter de plus de 15 p. 100 de l'information portée sur l'étiquette ;
 
-Y litres pour 100 km à la vitesse stabilisée de 120 km à l'heure (seulement si la vitesse maximale du véhicule est au moins égale à 130 km à l'heure) ;
+Dans le cas contraire, un nouveau contrôle doit être effectué sur trois appareils conformes aux spécifications de fabrication pris au hasard parmi les appareils du même type ;
 
-Z litres pour 100 km sur l'essai de type urbain (cycle normalisé E.C.E. 15).
-
-Elle peut être indiquée sous la forme la plus appropriée en fonction du support publicitaire.
-
-b) Toute indication de consommation de carburant autre que la consommation conventionnelle doit être accompagnée d'une référence à la méthode et aux conditions de mesure ou d'une description claire et précise de celle-ci.
-
-c) Lorsque dans un titre ou une accroche apparaît une seule des deux ou trois valeurs X, Y ou Z, mention doit être faite de la vitesse stabilisée correspondante ou du cycle urbain ; elle doit être complétée, par ailleurs, dans les conditions prévues par l'article 4 ci-après, par la mention de l'autre ou des deux autres valeurs de la consommation conventionnelle.
-
-d) L'indication de la valeur de la consommation conventionnelle doit faire référence au modèle du véhicule correspondant.
+Si la moyenne des contrôles effectués sur ces trois appareils révèle un écart supérieur à 10 p. 100 par rapport à l'information portée sur l'étiquette, le fabricant ou l'importateur ne doit diffuser que les étiquettes modifiées à moins que de nouvelles mesures effectuées à la demande du fabricant, en présence d'un représentant des services visés à l'article 3 du décret n° 86-22 du 3 janvier 1986 résultent en une moyenne ne s'écartant pas de plus de 10 p. 100 de l'information portée sur l'étiquette.

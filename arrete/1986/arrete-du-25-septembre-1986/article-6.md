@@ -1,3 +1,3 @@
 # Article 6
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+Le directeur de la sécurité sociale est chargé de l'exécution du présent arrêté, qui abroge toutes dispositions antérieures et sera publié au Journal officiel de la République française.

@@ -1,4 +1,4 @@
-# Arrêté du 25 septembre 1986 relatif à la mention des consommations conventionnelles des véhicules automobiles
+# Arrêté du 25 septembre 1986 relatif à la mention des consommations énergétiques des fours électriques
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

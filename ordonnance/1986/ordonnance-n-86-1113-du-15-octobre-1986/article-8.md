@@ -1,0 +1,3 @@
+# Article 8
+
+Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et de la privatisation, le ministre de l'intérieur, le ministre de l'équipement, du logement, de l'aménagement du territoire et des transports, le ministre de l'industrie, des P. et T. et du tourisme, le ministre délégué auprès du ministre de l'économie, des finances et de la privatisation, chargé du budget, et le ministre délégué auprès du ministre de l'intérieur, chargé des collectivités locales, sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.

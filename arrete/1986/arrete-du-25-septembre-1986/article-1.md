@@ -1,5 +1,3 @@
 # Article 1
 
-Il est défini pour chaque type de voiture particulière une consommation conventionnelle de carburant pour les modes d'utilisation les plus courants.
-
-La consommation conventionnelle est déterminée dans des conditions normalisées définies par l'arrêté du 19 mars 1982 du ministre des transports.
+En application des dispositions de l'article 4 de l'arrêté du 25 septembre 1986 relatif à la mention des consommations énergétiques des appareils ménagers et des appareils de chauffage de l'eau sanitaire, les fours électriques à rayonnement calorifique, qu'ils soient indépendants ou fassent partie d'un appareil domestique combiné, doivent être obligatoirement munis d'une étiquette conforme au modèle joint en annexe au présent arrêté.
