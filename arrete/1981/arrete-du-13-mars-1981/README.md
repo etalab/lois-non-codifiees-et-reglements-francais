@@ -7,7 +7,6 @@
 - [ESSAIS DE FONCTIONNEMENT DE LA DOUBLE COMMANDE DU SYSTEME D'ACCELERATION.](essais-de-fonctionnement-de-la-double-commande-du-systeme-d-acceleration)
 - [ESSAIS DU FREIN DE CHAINE.](essais-du-frein-de-chaine)
 - [ESSAIS DE RESISTANCE DU DISPOSITIF DE PROTECTION DE LA POIGNEE AVANT ET DES POIGNEES.](essais-de-resistance-du-dispositif-de-protection-de-la-poignee-avant-et)
-- [VERIFICATIONS DIMENSIONNELLES ET EQUILIBRAGE.](verifications-dimensionnelles-et)
 - [MESURE DU NIVEAU SONORE.](mesure-du-niveau-sonore)
 - [MESURES DES VIBRATIONS TRANSMISES.](mesures-des-vibrations-transmises)
 - [VERIFICATION DES SPECIFICATIONS TECHNIQUES.](verification-des-specifications-techniques)
