@@ -1,7 +1,9 @@
 # Article 4
 
-Les superficies maxima visées à l'article 188-1 du Code rural sont fixées à quatre fois la surface minimum d'installation pour l'ensemble du département soit (en hectares) :
+Les superficies maxima des cumuls visées à l'article 188-1 du Code rural sont fixées à 2,5 fois la surface minimum d'installation soit (en hectares) :
 
-Zone de montagne : 96
+Plateau lorrain-Nord, Warndt, montagne vosgienne et vallée de la Moselle-Nord : 75
 
-Reste du département : 72
+Plateau lorrain-Sud, Pays haut et vallée de la Moselle-Sud :
+
+100.

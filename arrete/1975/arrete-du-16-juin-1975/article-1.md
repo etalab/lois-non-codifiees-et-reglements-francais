@@ -1,9 +1,11 @@
 # Article 1
 
-Les superficies minima d'installation en polyculture visées à l'article 188-3 du code rural sont fixées ainsi qu'il suit pour le département de la Drôme (en hectares) :
+Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit dans le département de la Moselle (en hectares) :
 
-Zones de montagne : 24
+Plateau lorrain-Nord, Warndt, montagne vosgienne : 30
 
-Reste du département : 18
+Plateau lorrain-Sud, Pays haut : 40
 
-La zone de montagne comprend : Vercors, Diois (sauf vallée de la Drôme), Bochaine, baronnie (partiellement) et pays de Bourdeaux (partiellement).
+Vallée de la Moselle-Nord : 30
+
+Vallée de la Moselle-Sud (voir liste jointe en annexe) : 40.
