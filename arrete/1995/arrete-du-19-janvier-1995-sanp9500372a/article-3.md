@@ -1,0 +1,5 @@
+# Article 3
+
+Les destinataires de ces informations nominatives sont le médecin responsable du centre antipoisons collectant les données régionales dans le cadre habituel de transmission d'informations médicales et les membres de son équipe médicale, ainsi que les médecins traitants dont l'information est nécessaire dans le cadre du suivi thérapeutique de l'enfant.
+
+Les données sont rendues anonymes avant toute exploitation informatique, cette dernière étant conduite à des fins statistiques conformes aux objectifs fixés au système. Les données anonymes sont également transmises au centre antipoisons pilote du réseau de toxicovigilance de Centre - Ile-de-France (Centre antipoisons de Paris) en vue de leur exploitation au niveau national. Les données statistiques sont transmises aux partenaires mentionnés à l'article 1er ainsi qu'aux partenaires institutionnels du système. Elles peuvent être utilisées, sous des conditions définies par les acteurs du système, pour des publications scientifiques.
