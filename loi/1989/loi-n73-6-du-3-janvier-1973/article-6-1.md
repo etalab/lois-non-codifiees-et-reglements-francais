@@ -1,6 +1,6 @@
 # Article 6-1
 
-Le Médiateur de la République dispose, sur l'ensemble du territoire, de délégués qu'il désigne.
+Le Médiateur de la République dispose, sur l'ensemble du territoire, de délégués qu'il désigne. Les délégués exercent leur activité à titre bénévole. Ils perçoivent une indemnité représentative de frais dont le montant est fixé par décision du Médiateur de la République.
 
 Ils apportent aux personnes visées au premier alinéa de l'article 6 les informations et l'assistance nécessaires à la présentation des réclamations.
 
