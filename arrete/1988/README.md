@@ -170,7 +170,6 @@
 - [Arrêté du 8 avril 1988 (FPPP8800132A)](arrete-du-8-avril-1988-fppp8800132a)
 - [Arrêté du 8 avril 1988 (RESP8800450A)](arrete-du-8-avril-1988-resp8800450a)
 - [Arrêté du 8 décembre 1987 (ASES8701850A)](arrete-du-8-decembre-1987-ases8701850a)
-- [Arrêté du 8 décembre 1987 (ASES8701851A)](arrete-du-8-decembre-1987-ases8701851a)
 - [Arrêté du 8 décembre 1988 (PRME8861195A)](arrete-du-8-decembre-1988-prme8861195a)
 - [Arrêté du 8 janvier 1988 (MENF8800079A)](arrete-du-8-janvier-1988-menf8800079a)
 - [Arrêté du 8 janvier 1988 (MENF8800080A)](arrete-du-8-janvier-1988-menf8800080a)
