@@ -947,6 +947,7 @@
 - [Décret n°2002-672 du 24 avril 2002 (DEFP0201455D)](decret-n2002-672-du-24-avril-2002-defp0201455d)
 - [Décret n°2002-673 du 24 avril 2002 (DEFP0201459D)](decret-n2002-673-du-24-avril-2002-defp0201459d)
 - [Décret n°2002-674 du 24 avril 2002 (DEFP0201453D)](decret-n2002-674-du-24-avril-2002-defp0201453d)
+- [Décret n°2000-808 du 25 août 2000 (DEFD0001927D)](decret-n2000-808-du-25-aout-2000-defd0001927d)
 - [Décret n°2000-815 du 25 août 2000 (FPPA0000085D)](decret-n2000-815-du-25-aout-2000-fppa0000085d)
 - [Décret n°2002-1023 du 25 juillet 2002 (JUSE0240125D)](decret-n2002-1023-du-25-juillet-2002-juse0240125d)
 - [Décret n°2002-105 du 25 janvier 2002 (INTM0200001D)](decret-n2002-105-du-25-janvier-2002-intm0200001d)
