@@ -50,7 +50,6 @@
 - [Arrêté du 2 mars 1995 (EQUS9500421A)](arrete-du-2-mars-1995-equs9500421a)
 - [Arrêté du 2 mars 1995 (SPSP9500855A)](arrete-du-2-mars-1995-spsp9500855a)
 - [Arrêté du 2 novembre 1994 (SPSP9403408A)](arrete-du-2-novembre-1994-spsp9403408a)
-- [Arrêté du 2 novembre 1994 (SPSS9403375A)](arrete-du-2-novembre-1994-spss9403375a)
 - [Arrêté du 2 novembre 1995 (ACVP9520060A)](arrete-du-2-novembre-1995-acvp9520060a)
 - [Arrêté du 2 novembre 1995 (MCCB9500545A)](arrete-du-2-novembre-1995-mccb9500545a)
 - [Arrêté du 2 novembre 1995 (SANP9523377A)](arrete-du-2-novembre-1995-sanp9523377a)
