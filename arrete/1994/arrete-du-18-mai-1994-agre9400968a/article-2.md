@@ -20,13 +20,13 @@ Chimie
 
 Durée : 2 heures
 
-coefficient : 1
+coefficient : 2
 
 Biologie
 
 Durée : 3 heures
 
-coefficient : 1,5
+coefficient : 2
 
 Expression française
 
