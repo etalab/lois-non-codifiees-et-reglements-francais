@@ -1,6 +1,6 @@
 # Article 1
 
-Il ne peut être fait appel aux salariés sous contrat de travail à durée déterminée ni aux salariés des entreprises de travail temporaire pour les travaux énumérés ci-après [*interdiction*] :
+Il ne peut être fait appel aux salariés sous contrat de travail à durée déterminée ni aux salariés des entreprises de travail temporaire pour les travaux énumérés ci-après :
 
 1. Les travaux comportant l'exposition aux agents suivants :
 
@@ -46,4 +46,6 @@ Il ne peut être fait appel aux salariés sous contrat de travail à durée dét
 
 - activités de fabrication ou de transformation de matériaux contenant de l'amiante, opérations d'entretien ou de maintenance sur des flocages ou calorifugeages contenant de l'amiante, activités de confinement, de retrait de l'amiante ou de démolition exposant aux poussières d'amiante ;
 
-- fabrication de l'auramine et du magenta.
+- fabrication de l'auramine et du magenta ;
+
+- tous travaux susceptibles d'entraîner une exposition aux rayonnements ionisants dès lors qu'ils sont effectués dans des zones où le débit de dose horaire est susceptible d'être supérieur à 2 millisieverts.
