@@ -12,7 +12,7 @@ Le sous-directeur de la prévention et des études ;
 
 Le sous-directeur des services opérationnels ;
 
-Le directeur de l'Institut national d'études de la sécurité civile ;
+Le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers ;
 
 Le chef de l'inspection générale ;
 
@@ -50,9 +50,7 @@ Les directeurs des centres interrégionaux d'études de la protection civile et 
 
 ou leurs représentants.
 
-4° Personnalités qui, par leurs titres et leurs activités, sont en
-
-mesure d'aider au développement des enseignements de sécurité civile
+4° Personnalités qui, par leurs titres et leurs activités, sont en mesure d'aider au développement des enseignements de sécurité civile
 
 M. Jolis (Pierre), professeur, chef du département d'anesthésie-réanimation à l'hôpital Beaujon ;
 

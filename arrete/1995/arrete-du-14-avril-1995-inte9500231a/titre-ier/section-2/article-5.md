@@ -12,7 +12,7 @@ Un administrateur civil ou un sous-préfet, ou un conseiller de tribunal adminis
 
 Deux enseignants de l'enseignement supérieur ;
 
-Le directeur de l'Institut national d'études de la sécurité civile ou son représentant choisi parmi les officiers de cet établissement ayant au moins le grade de commandant ;
+Le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers ou son représentant choisi parmi les officiers de cet établissement ayant au moins le grade de commandant ;
 
 Un représentant du Centre national de la fonction publique territoriale ;
 

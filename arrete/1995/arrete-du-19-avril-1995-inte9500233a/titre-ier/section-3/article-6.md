@@ -12,7 +12,7 @@ Le jury est nommé par arrêté du ministre chargé de la sécurité civile et c
 
 - un directeur départemental des services d'incendie et de secours ;
 
-- le directeur de l'Institut national d'études de la sécurité civile ou son représentant, choisi parmi les officiers de cet établissement ayant au moins le grade de commandant ;
+- le directeur de l'Ecole nationale supérieure des officiers de sapeurs-pompiers ou son représentant, choisi parmi les officiers de cet établissement ayant au moins le grade de commandant ;
 
 - un officier de sapeurs-pompiers professionnels ayant au moins le grade de commandant de sapeurs-pompiers professionnels ;
 
