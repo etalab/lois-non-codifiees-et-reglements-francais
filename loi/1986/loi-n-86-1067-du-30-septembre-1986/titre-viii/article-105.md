@@ -1,5 +1,9 @@
 # Article 105
 
-Les autorisations délivrées en vertu des articles 17 et 78 de la loi n° 82-652 du 29 juillet 1982 précitée demeurent valables jusqu'à leur terme ; toutefois, elles pourront être suspendues ou retirées dans les conditions fixées à l'article 42 de la présente loi.
+I. -Les autorisations d'exploitation d'un service de communication audiovisuelle délivrées avant la date de publication de la loi n° 89-25 du 17 janvier 1989 ne sont pas interrompues du fait de ladite loi.
 
-Celles dont le terme normal se situe entre le 1er mai 1986 [*date*] et la date de l'appel des candidatures prévu aux articles 29 et 30 pour une zone déterminée demeurent valables jusqu'à une date fixée par la Commission nationale de la communication et des libertés [*CNCL*]. Cette date ne peut être postérieure de plus d'un an à l'installation de la commission.
+Les dispositions des articles 42 à 42-11 sont applicables aux titulaires des autorisations mentionnées à l'alinéa précédent en cas de manquement aux obligations imposées par les textes législatifs et réglementaires et par la décision d'autorisation.
+
+II. -Lorsque le terme des autorisations délivrées en vertu de l'article 17 de la loi n° 82-652 du 29 juillet 1982 précitée se situe entre le 1er mai 1986 et la date de l'appel de candidatures prévu à l'article 29 de la présente loi pour une zone déterminée, ce terme est prorogé jusqu'à une date fixée par le Conseil supérieur de l'audiovisuel.
+
+III. -Le Conseil supérieur de l'audiovisuel contrôle le respect, par la société titulaire d'une concession en vertu des dispositions de l'article 79 de la loi n° 82-652 du 29 juillet 1982 précitée, des obligations contenues dans la convention de concession et le cahier des charges qui lui est annexé. S'il constate que la société concessionnaire a manqué à ces obligations, il soumet au Gouvernement une proposition de sanction sur la base des dispositions de la convention de concession.
