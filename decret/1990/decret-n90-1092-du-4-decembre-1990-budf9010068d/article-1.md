@@ -19,3 +19,5 @@ Sous-groupe VII : Oseraies.
 Sous-groupe VIII : Formations forestières méditerranéennes.
 
 Sous-groupe IX : Futaies résineuses des Landes.
+
+Sous-groupe X : Formations forestières tropicales.
