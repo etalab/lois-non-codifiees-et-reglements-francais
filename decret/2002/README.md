@@ -33,6 +33,7 @@
 - [Décret n°2002-994 du 11 juillet 2002 (DEFD0201703D)](decret-n2002-994-du-11-juillet-2002-defd0201703d)
 - [Décret n°90-601 du 11 juillet 1990 (MCCB9000404D)](decret-n90-601-du-11-juillet-1990-mccb9000404d)
 - [Décret n° 70-738 du 12 août 1970](decret-n-70-738-du-12-aout-1970)
+- [Décret n°2002-1353 du 12 novembre 2002 (AGRP0202156D)](decret-n2002-1353-du-12-novembre-2002-agrp0202156d)
 - [Décret n°2002-348 du 13 mars 2002 (FPPA0210003D)](decret-n2002-348-du-13-mars-2002-fppa0210003d)
 - [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
 - [Décret n°95-402 du 13 avril 1995 (SPSS9403399D)](decret-n95-402-du-13-avril-1995-spss9403399d)
