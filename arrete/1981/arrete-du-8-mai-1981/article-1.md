@@ -1,7 +1,5 @@
 # Article 1
 
-Sont assimilées à des activités industrielles pour l'application de l'article 79-III de la loi de finances pour 1980 instituant une déduction fiscale en faveur de certains investissements réalisés dans les départements d'outre-mer :
+En application du décret du 25 novembre 1977 susvisé, le présent arrêté détermine les conditions dans lesquelles les entreprises qui se livrent au commerce de gros du gibier ou à la fabrication de conserves ou autres produits à base de gibier peuvent obtenir l'autorisation d'exercer leurs activités en dehors des périodes d'ouverture de la chasse.
 
-1° L'extraction des substances suivantes : chromite, phosphorite, kaolin, columbo-tantalite, minerais aurifères non alluvionnaires ;
-
-2° L'exploitation de gîtes géothermiques au sens de l'article 3 du code minier.
+Ces dispositions ne sont pas applicables aux activités portant sur les espèces de gibier non représentées sur le territoire national et dont le transport, le colportage, la mise en vente, la vente et l'achat restent libres au regard de l'article 372 du code rural.
