@@ -4,6 +4,7 @@
 - [Décret n°97-901 du 1 octobre 1997 (DEFP9701915D)](decret-n97-901-du-1-octobre-1997-defp9701915d)
 - [Décret n°97-902 du 1 octobre 1997 (DEFP9701916D)](decret-n97-902-du-1-octobre-1997-defp9701916d)
 - [Décret n°98-1 du 2 janvier 1998 (ECOT9710320D)](decret-n98-1-du-2-janvier-1998-ecot9710320d)
+- [Décret n°98-122 du 2 mars 1998 (ECOP9800009D)](decret-n98-122-du-2-mars-1998-ecop9800009d)
 - [Décret n°98-2 du 2 janvier 1998 (MCCB9700752D)](decret-n98-2-du-2-janvier-1998-mccb9700752d)
 - [Décret n°98-61 du 2 février 1998 (MESO9810007D)](decret-n98-61-du-2-fevrier-1998-meso9810007d)
 - [Décret n°98-62 du 2 février 1998 (ECOT9813956D)](decret-n98-62-du-2-fevrier-1998-ecot9813956d)
