@@ -1,0 +1,7 @@
+# Article 1
+
+Lorsque l'acte déclaratif d'utilité publique prévoit l'application des dispositions de l'article 10 de la loi du 8 août 1962 susvisée [*cité à l'article L. 23-1 du code de l'expropriation*], le maître de l'ouvrage est tenu [*obligation*], dans les conditions précisées aux articles ci-après, de participer financièrement soit à la réinstallation sur des exploitations nouvelles, soit à la reconversion de l'activité des exploitants agricoles dont les exploitations sont supprimées ou déséquilibrées du fait des expropriations auxquelles il est procédé en vue de la réalisation de grands ouvrages publics ou de la création de zones industrielles ou à urbaniser.
+
+La procédure d'expropriation et celle organisée par le présent décret se déroulent indépendamment l'une de l'autre. La fixation des indemnités d'expropriation, leur paiement ou leur consignation et la prise de possession des biens expropriés interviennent conformément au droit commun, quel que soit l'état, à leur date, de la liquidation et du versement des participations prévues à l'alinéa qui précède.
+
+Doivent être considérés comme exploitants agricoles pour l'application du présent décret [*définition*] les personnes qui, mettant en valeur, à la date de la publication de l'acte déclaratif d'utilité publique, des terres d'une importance au moins égale ou équivalente à la moitié de l'exploitation type ouvrant droit à l'intégralité des prestations familiales agricoles, ont adhéré à une caisse de mutualité sociale agricole.
