@@ -6,6 +6,4 @@ Toutefois, les services visés au 1° et 2° dudit article doivent avoir été r
 
 D'autre part, les services visés à l'article 8 (4°) ne doivent pas avoir été rémunérés soit par une pension, soit par une solde de réforme sous réserve de la renonciation prévue à l'article L. 77 du code des pensions civiles et militaires de retraite.
 
-//Complété par le décret n° 302 du 13 mars 1973 :
-
-La période pendant laquelle les intéressés ont été autorisés à accomplir un travail à mi-temps dans les conditions prévues par le statut qui leur est applicable est comptée pour la moitié de sa durée.//
+La période pendant laquelle les intéressés ont été autorisés à accomplir un travail soit à mi-temps soit à trois quarts de temps dans les conditions prévues par le statut qui leur est applicable est comptée soit pour la moitié soit pour les trois quarts de sa durée.

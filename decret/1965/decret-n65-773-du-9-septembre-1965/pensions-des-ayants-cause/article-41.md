@@ -1,5 +1,5 @@
 # Article 41
 
-I - La femme séparée de corps ou divorcée, lorsque le jugement n'a pas été prononcé exclusivement en sa faveur, ne peut prétendre à la pension de veuve ; les enfants, le cas échéant, sont considérés comme orphelins de père et mère et ont droit à la pension déterminée à l'article 37 (IV).
+I - L'ancien conjoint séparé de corps ou divorcé, sauf s'il s'est remarié avant le décès de son ancien conjoint, a droit à la pension [*définition*] prévue soit aux I et II de l'article 35, soit à l'article 44 lorsque la séparation de corps ou le divorce n'a pas été prononcé contre lui.
 
-II - En cas de divorce prononcé au profit exclusif de la femme, celle-ci, sauf si elle s'est remariée avant le décès de son premier mari, a droit à la pension définie à l'article 35 (I et II) [*pension de veuve*].
+II - Si le divorce ou la séparation de corps a été prononcée contre lui, les enfants, le cas échéant, sont considérés comme orphelins de père et de mère et ont droit à la pension déterminée au IV de l'article 37.
