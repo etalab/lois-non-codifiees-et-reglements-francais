@@ -1,39 +1,51 @@
 # Article 2
 
-Les logements doivent présenter les éléments d'équipement ci-après :
+Les logements doivent présenter les caractéristiques ci-après :
 
-a) Comporter au moins une pièce principale dont la surface habitable est de 9 m2 au minimum.
+a) Composition et dimensions :
 
-Lorsque le logement comprend plusieurs pièces principales, la moyenne des surfaces habitables de ces pièces est de 9 m2 au moins, aucune de ces pièces n'ayant une surface inférieure à 7 m2.
+Un logement comprend une ou plusieurs pièces d'habitation et les pièces de service suivantes : cuisine ou coin cuisine, salle d'eau et cabinet d'aisances, celui-ci pouvant être situé dans la salle d'eau.
 
-Une pièce de service telle qu'une cuisine ou un coin cuisine comprenant un évier avec siphon, raccordé à une chute d'eaux usées, sur lequel est installée l'eau potable (chaude et froide).
+Lorsque le logement comprend plusieurs pièces d'habitation, la surface de l'une d'entre elles doit être de neuf mètres carrés au moins, aucune des autres pièces n'ayant une surface inférieure à sept mètres carrés.
 
-La pièce à usage de cuisine ou le coin cuisine est aménagé de manière à pouvoir recevoir un appareil de cuisson (à gaz ou à électricité) suivant les conditions réglementaires en vigueur ou possède un conduit d'évacuation de fumée en bon état.
+Lorsque le logement comporte une seule pièce d'habitation avec une cuisine séparée, la surface de cette pièce d'habitation doit être d'au moins neuf mètres carrés.
 
-Une salle d'eau avec installation d'une baignoire ou d'une douche et un lavabo alimentés en eau courante chaude et froide.
+Lorsque le logement comporte une seule pièce d'habitation avec un coin cuisine, la surface de cette pièce d'habitation doit être d'au moins douze mètres carrés.
 
-Un w.-c. intérieur, avec cuvette à l'anglaise et chasse d'eau ; dans le cas d'une fosse étanche, la chasse d'eau peut être remplacée par un simple effet d'eau ; le w.-c. est séparé de la cuisine et de la pièce où sont pris les repas ; il peut être situé dans la salle d'eau. Dans les logements de plus de deux pièces principales, il est séparé de la cuisine et de la pièce où sont pris les repas par un sas.
+La surface habitable est déterminée conformément à l'article R. 111-2, deuxième et troisième alinéa du code de la construction et de l'habitation. La hauteur sous plafond des pièces d'habitation et de la cuisine est égale au moins à deux mètres vingt. Toutefois, la hauteur sous plafond peut être inférieure à deux mètres vingt sans être, cependant, inférieure à deux mètres, à condition que le logement n'ait pas subi de division en hauteur depuis le 1er septembre 1948.
 
-Toutefois le logement peut ne comporter qu'une pièce principale et un coin cuisine ; dans ce cas, la superficie de cette pièce principale doit être au moins égale à 12 m2 ; la salle d'eau et le w.-c. doivent être séparés de la pièce principale.
+b) Ouverture et ventilation :
 
-b) La hauteur sous plafond des pièces principales, de la cuisine et du logement d'une seule pièce principale, est égale au moins à 2,30 m.
+Toute pièce d'habitation est pourvue d'un ouvrant donnant à l'air libre et permettant une aération satisfaisante. Dans le cas où la hauteur sous plafond est comprise entre deux mètres et deux mètres vingt, chaque pièce d'habitation doit avoir une ou plusieurs ouvertures donnant sur l'extérieur et présentant au total une section ouvrante au moins égale au dixième de sa surface habitable.
 
-Toutefois, la hauteur sous plafond peut être inférieure à 2,30 m, sans être cependant inférieure à 2 m à condition que le logement présente les caractéristiques ci-dessus et qu'il n'ait pas subi de division en hauteur depuis le 1er septembre 1948.
+Toute pièce de service est pourvue d'un ouvrant donnant sur l'extérieur ou, à défaut, est équipée d'un système d'évacuation de l'air vicié débouchant à l'extérieur du bâtiment, tel que gaine de ventilation à tirage naturel ou mécanique.
 
-c) Toutes les pièces principales des logements sont pourvues d'ouvertures donnant à l'air libre. Toutefois, dans le cas où la hauteur sous plafond est comprise entre 2,30 m et 2 m, les pièces principales ou le logement d'une seule pièce principale devront avoir une ou plusieurs ouvertures sur l'extérieur (rue, jardin, cour, courette, etc.) présentant une section ouvrante au moins égale au dixième de leur superficie.
+c) Cuisine ou coin cuisine :
 
-La ventilation des logements est générale et permanente lorsqu'un local, tel que la cuisine, le cabinet d'aisance, la salle d'eau, ne dispose pas de fenêtre ; il doit être pourvu d'un système d'évacuation de l'air vicié débouchant à l'extérieur du bâtiment, tel que gaine de ventilation à tirage naturel (verticale) ou mécanique (horizontale ou verticale), complétée éventuellement par des dispositifs de ventilation dans les pièces principales.
+La cuisine ou le coin cuisine comprend un évier avec siphon raccordé à  une chute d'eaux usées sur lequel sont installées l'eau potable froide et l'eau chaude. La cuisine ou le coin cuisine est aménagé de manière à pouvoir recevoir un appareil de cuisson (à gaz ou électrique) ou possède un conduit d'évacuation de fumée en bon état.
 
-Les nouvelles canalisations de gaz et la ventilation des pièces où le gaz est utilisé doivent être conformes aux textes réglementaires en vigueur.
+d) La salle d'eau et cabinet d'aisances :
 
-Le logement doit être pourvu d'une alimentation électrique conforme aux besoins normaux de l'utilisateur d'un local d'habitation.
+La salle d'eau comporte une baignoire ou une douche et un lavabo alimentés en eau chaude et froide.
 
-d) Les logements doivent présenter un bon état d'entretien intérieur (enduits et papiers d'apprêt notamment).
+Le cabinet d'aisances est intérieur et pourvu d'une cuvette à l'anglaise et d'une chasse d'eau. S'il est équipé d'une fosse étanche, la chasse d'eau peut être remplacée par un simple effet d'eau.
 
-La location des locaux utilisés en tout ou partie à usage professionnel peut être conclue en application de l'article 3 quater susvisé, sous réserve :
+Le cabinet d'aisances et la salle d'eau sont séparées de la cuisine et de la pièce où sont pris les repas. Dans les logements de plus de deux pièces d'habitation, le cabinet d'aisance est séparé de la cuisine et de la pièce où sont pris les repas par un sas.
 
-a) Qu'ils répondent aux prescriptions de la législation en vigueur en matière d'hygiène et de sécurité des travailleurs ;
+Les sols sont étanches et les parois situées autour de la douche ou de la baignoire sont protégées contre les infiltrations.
 
-b) S'ils sont utilisés pour partie à l'habitation, que cette partie comporte au minimum une cuisine avec évier, une pièce habitable, au moins égale à neuf mètres carrés, une salle de bains ou salle de douches ou un cabinet de toilette avec eau courante, un w.-c. intérieur avec effet d'eau et un éclairage électrique normal [*locaux mixtes*] ;
+e) Gaz et électricité :
 
-c) Qu'ils présentent un bon état d'entretien intérieur.
+Les nouvelles canalisations de gaz et la ventilation des pièces où le gaz est utilisé sont conformes à la réglementation. Le logement est pourvu d'une alimentation électrique conforme aux besoins normaux de l'usager d'un logement.
+
+2°) Les locaux utilisés en tout ou partie à usage professionnel doivent présenter les caractéristiques ci-après :
+
+a) Lorsqu'ils sont utilisés à usage mixte professionnel et d'habitation, la partie à usage d'habitation répond aux caractéristiques définies au 1° ci-dessus ;
+
+b) La partie des locaux à usage professionnel obéit à la législation en vigueur en matière d'hygiène et de sécurité des travailleurs.
+
+3°) Les sols, murs, plafonds des logements ou locaux ci-dessus ne présentent pas d'infiltration et de remontée d'eau.
+
+Les ouvrants sont étanches à l'eau et en bon état de fonctionnement.
+
+Les installations d'eau intérieures au logement assurent la permanence de la distribution avec une pression et un débit suffisants.
