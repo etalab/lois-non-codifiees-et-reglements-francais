@@ -143,3 +143,7 @@ Pointe-à-Pitre - Le Raizet ;
 Saint-Denis - Gillot ;
 
 Tahiti-Faaa.
+
+Aérodromes pour lesquels le taux unitaire réduit de l'outre-mer est applicable à l'occasion de liaisons directes entre eux :
+
+Fort-de-France - Le Lamentin, Pointe-à-Pitre - Le Raizet et Cayenne-Rochambeau.

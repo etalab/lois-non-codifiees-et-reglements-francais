@@ -10,4 +10,4 @@ De participer aux services de sécurité et d'honneur mis en place à la demande
 
 De fournir les piquets d'honneur prévus par le cérémonial militaire lors des cérémonies publiques présidées par le Président de la République, les présidents des assemblées parlementaires, le Premier ministre et le ministre chargé des armées ;
 
-De fournir également des détachements d'honneur à l'occasion de séances solennelles du Conseil constitutionnel, du Conseil d'Etat, du Conseil économique et social, de la Cour de cassation et de la Cour des comptes.
+De fournir également des détachements d'honneur à l'occasion de séances solennelles du Conseil constitutionnel, du Conseil d'Etat, du Conseil économique et social, de la Cour de cassation, de la Cour des comptes et de l'Institut de France.
