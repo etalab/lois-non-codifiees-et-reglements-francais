@@ -256,7 +256,6 @@
 - [Arrêté du 9 novembre 1993 (DOMP9300054A)](arrete-du-9-novembre-1993-domp9300054a)
 - [Arrêté du 9 novembre 1993 (INTB9300636A)](arrete-du-9-novembre-1993-intb9300636a)
 - [Arrêté du 9 septembre 1993 (BUDD9370011A)](arrete-du-9-septembre-1993-budd9370011a)
-- [Arrêté du 10 août 1993 (SPSS9302262A)](arrete-du-10-aout-1993-spss9302262a)
 - [Arrêté du 10 décembre 1992 (MENN9204473A)](arrete-du-10-decembre-1992-menn9204473a)
 - [Arrêté du 10 décembre 1993 (ACVP9320071A)](arrete-du-10-decembre-1993-acvp9320071a)
 - [Arrêté du 10 décembre 1993 (ACVP9320072A)](arrete-du-10-decembre-1993-acvp9320072a)
