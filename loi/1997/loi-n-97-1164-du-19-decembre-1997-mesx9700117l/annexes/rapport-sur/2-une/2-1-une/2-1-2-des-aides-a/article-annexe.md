@@ -1,0 +1,7 @@
+# Article Annexe
+
+Aujourd'hui, outre les 250 000 enfants de moins de trois ans accueillis à l'école maternelle, près de 500 000 enfants bénéficient d'un accueil aidé ; plus de la moitié est gardée par une assistante maternelle, ce qui induit le bénéfice de l'AFEAMA (Aide à la famille pour l'emploi d'une assistante maternelle agréée) ; plus de 40 % sont en crèche et environ 7 % sont gardés à domicile par un salarié, leurs parents bénéficiant de l'AGED (Allocation de garde d'enfant à domicile). Il existe des différences très importantes dans les aides publiques aux différents modes de garde, qui privilégient la garde individuelle (le cumul de l'AGED et de la réduction d'impôt pour emplois familiaux peut représenter une aide publique dépassant 80 000 F par an), au détriment des modes de garde en crèche familiale ou collective.
+
+Le Gouvernement rééquilibrera l'aide aux différents modes de garde. Le taux de prise en charge des cotisations sociales par l'AGED passera de 100 % à 50 %. Ce taux sera toutefois de 75 % et le montant maximal majoré en conséquence pour la garde d'un enfant de moins de trois ans lorsque les ressources du ménage sont inférieures à un plafond annuel de 300 000 F.
+
+Plus largement, le Gouvernement engagera une réflexion sur les conditions d'accueil des petits enfants, afin de favoriser les prises en charge collectives qui assurent un meilleur éveil des enfants et une plus grande mixité sociale.

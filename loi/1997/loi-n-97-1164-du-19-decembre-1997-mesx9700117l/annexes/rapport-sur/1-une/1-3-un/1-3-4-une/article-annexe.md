@@ -1,0 +1,9 @@
+# Article Annexe
+
+Le Gouvernement a engagé une réflexion sur la réforme des études médicales, tenant compte du changement profond du contexte scientifique et culturel de la médecine et de la santé. Cette indispensable rénovation des études médicales doit permettre de prendre en compte les besoins non satisfaits en matière de prévention, de santé publique, et d'encourager l'orientation des étudiants dans des disciplines pour lesquelles se fait jour une pénurie, comme l'anesthésie, l'obstétrique et la psychiatrie. Elle doit s'attacher à promouvoir le rôle des médecins généralistes. Compte tenu de l'urgence de la situation, le Gouvernement présentera au Parlement, au cours de l'année 1998, des propositions en vue d'améliorer les conditions d'exercice des spécialités mentionnées ci-dessus dans les établissements participant au service public hospitalier.
+
+La formation médicale continue, consacrée comme un devoir professionnel par le code de déontologie, a été rendue obligatoire par les ordonnances du 24 avril 1996. Le caractère obligatoire est rendu indispensable par la rapidité de l'évolution des connaissances.
+
+Le Gouvernement définira un cadre qui permette au dispositif de la formation médicale continue de fonctionner correctement en répondant aux impératifs de qualité, d'indépendance, de transparence qui, seuls, peuvent garantir son efficacité et son adéquation aux objectifs généraux de la politique de santé. L'organisation de la formation continue doit, en outre, favoriser les échanges entre les différents modes d'exercice professionnel et non pas consacrer les cloisonnements dont souffre notre système de santé.
+
+La même attention sera portée à la formation des autres professions médicales et des professions paramédicales ainsi qu'à la formation médicale continue hospitalière.

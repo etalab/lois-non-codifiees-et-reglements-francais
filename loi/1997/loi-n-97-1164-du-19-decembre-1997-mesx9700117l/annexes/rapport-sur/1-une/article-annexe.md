@@ -1,0 +1,7 @@
+# Article Annexe
+
+Au regard des indications très synthétiques que sont l'espérance de vie totale et l'espérance de vie sans incapacité, l'état de santé de la population française apparaît satisfaisant, que ce soit par référence à des pays comparables ou que ce soit en termes d'évolution. L'espérance de vie s'allonge et les années de vie gagnées sont des années de vie en bonne santé.
+
+Il subsiste cependant un écart très important entre l'espérance de vie à la naissance des femmes (81,9 ans) et celle des hommes (74,0 ans) en 1996 (données provisoires). La mortalité prématurée est importante par rapport aux autres pays. Elle est notamment liée à l'alcoolisme, au tabagisme, mais aussi aux accidents et morts violentes. De nouvelles maladies iatrogènes ou transmissibles se développent. En outre, demeurent des inégalités importantes entre groupes sociaux et entre régions. En 1993, l'espérance de vie des hommes est de 70,4 ans dans le Nord - Pas-de-Calais et de 75,1 ans en Midi-Pyrénées ; pour les femmes, respectivement, 79,4 et 82,4 années. Et l'on constate une accentuation de ces disparités dans les années récentes. Certains groupes sociaux sont de plus en plus vulnérables.
+
+Ces situations sont, pour partie, la conséquence de l'évolution des conditions socio-économiques, et notamment de la montée du chômage, de la précarité et de l'exclusion. Elles appellent aussi une politique de santé publique renforcée, qui tire le meilleur parti de l'ensemble des moyens de santé, au service des populations.

@@ -1,0 +1,3 @@
+# Article Annexe
+
+En 1997, le régime général connaîtra un déficit d'environ 37 millions de francs. Le Gouvernement entend arrêter l'hémorragie qui touche notre système de protection sociale depuis 1993 et prendre les mesures qui permettent un équilibre financier durable. Par rapport à une évolution tendancielle qui conduirait à un déficit de 33 milliards de francs, le Gouvernement entend faire un effort net supérieur à 20 milliards de francs, à travers des économies et des recettes nouvelles, qui prenne également en compte les dépenses nouvelles déjà présentées. Sur la base des hypothèses économiques disponibles aujourd'hui, le Gouvernement entend parvenir à l'équilibre des comptes en 1999.

@@ -1,6 +1,6 @@
 # Article 14
 
-I. - Il est institué une contribution sur les revenus d'activité et de remplacement mentionnés aux articles L. 136-2 à L. 136-4 du code de la sécurité sociale, à l'exception des revenus de source étrangère visés au 1° du III de l'article 15 ci-après, perçus du 1er février 1996 au 31 janvier 2009 par les personnes physiques désignées à l'article L. 136-1 du même code [*assiette, période, point de départ, date limite*].
+I. - Il est institué une contribution sur les revenus d'activité et de remplacement mentionnés aux articles L. 136-2 à L. 136-4 du code de la sécurité sociale, à l'exception des revenus de source étrangère visés au 1° du III de l'article 15 ci-après, perçus du 1er février 1996 au 31 janvier 2014 par les personnes physiques désignées à l'article L. 136-1 du même code [*assiette, période, point de départ, date limite*].
 
 Cette contribution est assise sur les revenus visés et dans les conditions prévues aux articles L. 136-2 à L. 136-4 du code de la sécurité sociale.
 

@@ -1,0 +1,9 @@
+# Article 20
+
+I.-A compter du 1er janvier 1998, les salariés et les anciens salariés de l'ancienne chambre de commerce et d'industrie de Roubaix et leurs ayants droit qui relevaient antérieurement, pour les risques invalidité et vieillesse, du régime spécial de cette chambre sont affiliés ou pris en charge, pour ces risques, par le régime général de sécurité sociale. Il est mis fin à ce régime spécial à compter de la même date.
+
+II.-Les obligations contractées, au titre de ce régime spécial, par la chambre de commerce et d'industrie de Lille-Roubaix-Tourcoing à l'égard des salariés de l'ancienne chambre de commerce et d'industrie de Roubaix, ses anciens salariés et leurs ayants droit bénéficiaires au 31 décembre 1997 dudit régime spécial sont transférées au régime général de sécurité sociale dans la limite des règles qui sont propres à celui-ci concernant l'âge de l'ouverture du droit, la durée maximale d'assurance et le montant maximal de la pension. Un décret apportera aux règles définies par les articles L. 341-1 à L. 341-4, le 1° de l'article L. 341-6, les deuxième, troisième et quatrième alinéas de l'article L. 351-1 et le 1° de l'article L. 351-11 du code de la sécurité sociale les adaptations rendues nécessaires par ce transfert.
+
+Un décret fixe la contribution au régime général de sécurité sociale incombant à la chambre de commerce et d'industrie de Lille-Roubaix-Tourcoing au titre du transfert de droits défini à l'alinéa précédent.
+
+III.-Pour celles des obligations mentionnées au II ci-dessus qui ne sont pas prises en charge par le régime général de sécurité sociale, la chambre de commerce et d'industrie de Lille-Roubaix-Tourcoing pourvoit, à compter du 1er janvier 1998, aux couvertures complémentaires nécessaires en application des titres Ier et II du livre IX du code de la sécurité sociale.
