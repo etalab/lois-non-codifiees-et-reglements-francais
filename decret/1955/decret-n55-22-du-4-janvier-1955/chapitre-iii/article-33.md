@@ -13,5 +13,3 @@ C. - Pour les autres actes, trois mois de leur date.
 Toutefois, le délai est réduit à deux mois pour les actes et décisions en vertu desquels peut être requise l'inscription des privilèges prévus aux articles 2108 et 2109 du code civil.
 
 Au cas où la publicité doit être opérée dans deux ou plusieurs bureaux, les délais ci-dessus prévus sont prorogés d'un mois pour chaque bureau en sus du premier.
-
-Sans préjudice des effets de droit pouvant résulter du défaut de publicité, l'inobservation des délais prescrits par le présent article est sanctionnée par une amende civile de 50 F à la charge des officiers publics ou ministériels visés à l'article 32, ou des successibles qui, n'ayant pas recouru au ministère d'un notaire, se sont abstenus de requérir un de ces officiers publics pour établir l'attestation après décès.
