@@ -4,5 +4,4 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Titre II : Du régime des études dentaires](titre-ii)
-- [Titre III : Commission nationale consultative](titre-iii)
 - [Titre IV : Dispositions transitoires](titre-iv)
