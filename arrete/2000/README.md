@@ -142,6 +142,7 @@
 - [Arrêté du 30 décembre 1999 (ECOI9900573A)](arrete-du-30-decembre-1999-ecoi9900573a)
 - [Arrêté du 30 décembre 1999 (ECOI9900574A)](arrete-du-30-decembre-1999-ecoi9900574a)
 - [Arrêté du 30 décembre 1999 (INTB9900629A)](arrete-du-30-decembre-1999-intb9900629a)
+- [Arrêté du 30 mars 2000 (AGRS0000716A)](arrete-du-30-mars-2000-agrs0000716a)
 - [Arrêté du 31 décembre 1999 (ECOD9970023A)](arrete-du-31-decembre-1999-ecod9970023a)
 - [Arrêté du 31 décembre 1999 (ECOD9970024A)](arrete-du-31-decembre-1999-ecod9970024a)
 - [Arrêté du 31 décembre 1999 (ECOI0000015A)](arrete-du-31-decembre-1999-ecoi0000015a)

@@ -1,0 +1,7 @@
+# Article 1
+
+Le ministre de la recherche propose et, en liaison avec les autres ministres intéressés, met en oeuvre la politique du Gouvernement dans le domaine de la recherche et de la technologie. Il élabore et met en oeuvre, en liaison avec le ministre de l'éducation nationale, la politique de recherche universitaire. Il est compétent en matière de politique de l'espace.
+
+Il prépare les décisions du Gouvernement relatives à l'attribution des ressources et des moyens alloués par l'Etat dans le cadre du budget civil de recherche et de développement technologique ; à cet effet, les autres ministres lui présentent leurs propositions de crédits de recherche.
+
+Il participe à la promotion et à la diffusion des nouvelles technologies.
