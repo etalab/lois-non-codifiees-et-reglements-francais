@@ -1,0 +1,3 @@
+# Article 32
+
+La moitié au moins des actions de la société gérant le fonds commun de placement doit appartenir à un ou plusieurs des établissements énumérés par décret. Toutefois, lorsqu'en application d'un accord de participation prévu à l'article L. 442-5 du code du travail, les actifs compris dans le fonds commun de placement doivent être constitués à concurrence de 75 p. 100 au moins de valeurs mobilières émises par l'entreprise ou d'actions de SICAV, le fonds commun de placement peut être géré par l'entreprise elle-même ou par une autre société régie par le statut de la coopération et constituée entre les salariés.
