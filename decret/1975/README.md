@@ -40,6 +40,7 @@
 - [Décret n°68-906 du 21 octobre 1968](decret-n68-906-du-21-octobre-1968)
 - [Décret n°75-273 du 21 avril 1975](decret-n75-273-du-21-avril-1975)
 - [Décret n°75-282 du 21 avril 1975](decret-n75-282-du-21-avril-1975)
+- [Décret n°75-293 du 21 avril 1975](decret-n75-293-du-21-avril-1975)
 - [Décret n°75-891 du 23 septembre 1975](decret-n75-891-du-23-septembre-1975)
 - [Décret n°75-1084 du 24 novembre 1975](decret-n75-1084-du-24-novembre-1975)
 - [Décret n°75-109 du 24 février 1975](decret-n75-109-du-24-fevrier-1975)
