@@ -399,7 +399,6 @@
 - [Décret n°86-1424 du 31 décembre 1986](decret-n86-1424-du-31-decembre-1986)
 - [Décret n°87-49 du 31 janvier 1987 (BUDF8700002D)](decret-n87-49-du-31-janvier-1987-budf8700002d)
 - [Décret n°87-604 du 31 juillet 1987 (JUSE8740038D)](decret-n87-604-du-31-juillet-1987-juse8740038d)
-- [Décret n°87-606 du 31 juillet 1987 (DOMP8700016D)](decret-n87-606-du-31-juillet-1987-domp8700016d)
 - [Décret n°87-608 du 31 juillet 1987 (AGRX8798315D)](decret-n87-608-du-31-juillet-1987-agrx8798315d)
 - [Décret n°87-611 du 31 juillet 1987 (ASES8700993D)](decret-n87-611-du-31-juillet-1987-ases8700993d)
 - [Décret n°87-612 du 31 juillet 1987 (AGRS8701332D)](decret-n87-612-du-31-juillet-1987-agrs8701332d)
