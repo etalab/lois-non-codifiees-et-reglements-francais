@@ -20,7 +20,9 @@ et 500 mg/m3 d'équivalent SO2 pour les unités de concentration de déchets aci
 
 De plus, des dispositifs permettant de supprimer l'émission de vésicules acides sont installés et les installations de grillage des sels produits par le traitement des déchets sont équipées selon la meilleure technologie disponible en vue de réduire les émissions d'oxydes de soufre.
 
-3° Raffineries de produits pétroliers : pour les raffineries neuves, les dispositions du 3° de l'article 27 sont remplacées par les dispositions suivantes : le rejet total d'oxydes de soufre ne doit pas dépasser le flux journalier correspondant à un rejet au taux moyen de 1 000 mg/m3 (exprimé en SO2) sur la plate-forme pétrolière, sans préjudice de l'application de l'arrêté ministériel du 27 juin 1990 relatif aux grandes installations de combustion.
+3° Raffineries de produits pétroliers :
+
+Pour les raffineries neuves, les dispositions du 3° de l'article 27 sont remplacées par les dispositions suivantes : le rejet total d'oxydes de soufre ne doit pas dépasser le flux journalier correspondant à un rejet au taux moyen de 1 000 mg/m3 (exprimé en SO2) sur la plate-forme pétrolière, sans préjudice de l'application des textes relatifs aux chaudières, turbines et moteurs relevant de la rubrique 2910 de la nomenclature des installations classées.
 
 Remarque : une raffinerie neuve est un établissement constitué entièrement d'unités neuves.
 
@@ -106,11 +108,11 @@ Homopolymères : 1 200 mg/kg de polymère ;
 
 Copolymères : 1 500 mg/kg de polymère.
 
-14° Centrales d'enrobage au bitume de matériaux routiers et installations de séchage de matériaux divers, végétaux, organiques ou minéraux : les dispositions du 1° de l'article 27 sont remplacées par la disposition suivante :
+14° Centrales d'enrobage au bitume de matériaux routiers et installations de séchage de matériaux divers, végétaux organiques ou minéraux : les dispositions du 1° de l'article 27 sont remplacées par la disposition suivante :
 
 a) Centrales d'enrobage au bitume de matériaux routiers temporaires à chaud :
 
-Pour les centrales d'enrobage au bitume de matériaux routiers temporaires à chaud au sens de l'article 23 du décret n° 77-1133 du 21 septembre 1977, la valeur limite de concentration de poussières est de 50 mg/m3 quel que soit le flux horaire autorisé. En dérogation aux articles 52 à 55 et sous réserve de l'absence d'obstacles tels que définis à l'article 56 et de l'utilisation de combustible de type TBTS (teneur en soufre inférieure ou égale à 1 %), la hauteur de la cheminée doit être de 13 mètres au moins pour les centrales d'enrobage de capacité supérieure ou égale à 150 tonnes/heure et de 8 mètres au moins pour les centrales de capacité inférieure à 150 tonnes/heure.
+Pour les centrales d'enrobage au bitume de matériaux routiers temporaires à chaud au sens de l'article 23 du décret n° 77-1133 du 21 septembre 1977, la valeur limite de concentration de poussières est de 50 mg/m3 quel que soit le flux horaire autorisé. En dérogation aux articles 52 à 55 et sous réserve de l'absence d'obstacles tels que définis à l'article 56, la hauteur de la cheminée doit être de 13 mètres au moins pour les centrales d'enrobage de capacité supérieure ou égale à 150 tonnes/heure et de 8 mètres au moins pour les centrales de capacité inférieure à 150 tonnes/heure.
 
 b) Autres centrales et installations :
 
@@ -120,17 +122,13 @@ Quel que soit le flux horaire, la valeur limite de concentration pour les rejets
 
 La concentration en poussières de l'air ambiant à plus de 5 m de l'installation ou du bâtiment renfermant l'installation ne dépasse pas 50 mg/m3.
 
-16° Installations de combustion non visées par l'arrêté du 20 juin 1975 modifié ni par l'arrêté du 27 juin 1990 : les dispositions du 3° de l'article 27 sont remplacées par les dispositions suivantes :
+16° Installations de combustion, à l'exclusion des chaudières, turbines et moteurs relevant de la rubrique 2910 de la nomenclature des installations classées : les dispositions du 3° de l'article 27 sont remplacées par les dispositions suivantes :
 
-Dans le cas d'un combustible liquide, la valeur limite de concentration pour les rejets d'oxydes de soufre (exprimés en dioxyde de soufre) est de 3 400 mg/m3.
+Dans le cas d'un combustible liquide, la valeur limite de concentration pour les rejets d'oxydes de soufre (exprimés en dioxyde de soufre) est de 1 700 mg/Nm3 pour une teneur en oxygène des fumées de 3 % en volume à l'état sec.
 
 Dans le cas des fours, l'arrêté préfectoral d'autorisation tient compte de l'éventuelle rétention du soufre par les produits traités.
 
-Dans le cas d'installations consommant, simultanément ou séparément, plusieurs combustibles, l'arrêté d'autorisation fixe une valeur limite pour chaque utilisation. Si des combustibles sont consommés simultanément, la valeur limite correspond au combustible auquel s'applique individuellement la plus grande valeur limite.
-
-Les dispositions du c et d du 8° de l'article 27 sont remplacées par les dispositions suivantes :
-
-Lorsque le combustible utilisé est un combustible liquide, la valeur limite de concentration pour les rejets de métaux et composés de métaux est de 20 mg/m3 (exprimée en Sb + Cr + Co + Cu + Sn + Mn + Ni + Pb + V + Zn).
+Dans le cas d'installations consommant, simultanément ou séparément, plusieurs combustibles, l'arrêté d'autorisation fixe une valeur limite pour chaque combustible. Si des combustibles sont consommés simultanément, la valeur limite doit être une moyenne pondérée en fonction de la puissance délivrée par chaque combustible.
 
 17° Stockages d'hydrocarbures : les dispositions du 7° de l'article 27 sont remplacées par les dispositions suivantes :
 
@@ -310,81 +308,7 @@ La conception assistée par ordinateur ou d'autres méthodes équivalentes sont 
 
 Dans le tableau suivant, la valeur limite d'émission totale se rapporte à toutes les étapes des opérations qui se déroulent dans la même installation, de l'application par électrophorèse ou par tout autre procédé de revêtement jusqu'au polissage de la couche de finition, ainsi qu'aux solvants utilisés pour le nettoyage du matériel, y compris la zone de pulvérisation et autre équipement fixe, tant pendant la durée de production qu'en dehors de celle-ci. La valeur limite d'émission totale est exprimée en poids total de composés organiques par mètre carré de surface revêtue et en masse totale de composés organiques par carrosserie d'automobile revêtue.
 
-ACTIVITES
-
-SEUIL DE PRODUCTION (production annuelle du produit traité)
-
-VALEUR LIMITE D'ÉMISSION TOTALE
-
-Installations autorisées à compter du 30 décembre 2000
-
-Installations autorisées avant le 1er janvier 2001
-
-Revêtement d'automobiles neuves.
-
-5 000
-
-45 g/m2 ou
-
-1,3 kg/carrosserie + 33 g/m2
-
-60 g/m2 ou
-
-1,9 kg/carrosserie + 41 g/m2
-
-5 000 (monocoque) ou
-
-3 500 (châssis)
-
-90 g/m2 ou
-
-1,5 kg/carrosserie + 70 g/m2
-
-90 g/m2 ou
-
-1,5 kg/carrosserie + 70 g/m2
-
-Revêtement de cabines de camion neuves.
-
-5 000
-
-5 000
-
-65 g/m2
-
-55 g/m2
-
-85 g/m2
-
-75 g/m2
-
-Revêtement de camionnettes et camions neufs
-
-2 500
-
-2 500
-
-90 g/m2
-
-70 g/m2
-
-120 g/m2
-
-90 g/m2
-
-Revêtement d'autobus neufs.
-
-2 000
-
-2 000
-
-210
-
-150
-
-290
-
-225
+(Tableau non reproduit).
 
 34° Extraction d'huiles végétales et de graisses animales et activités de raffinage d'huile végétale (toute activité d'extraction d'huile végétale à partir de graines et d'autres matières végétales, le traitement de résidus secs destinés à la production d'aliments pour animaux, la purification de graisses et d'huiles végétales dérivées de graines, de matière végétale et/ou de matières animales) : si la consommation de solvants est supérieure à 10 tonnes par an, les dispositions du premier alinéa du a du 7° de l'article 27 sont remplacées par les dispositions suivantes :
 
@@ -438,7 +362,7 @@ Par exception aux prescriptions ci-dessus, pour les activités de revêtement du
 
 36° Nettoyage de surfaces
 
-(Toute activité de nettoyage ou de dégraissage de surfaces utilisant des liquides organohalogénés ou des solvants organiques. Une activité de nettoyage constituée de plusieurs étapes se déroulant avant et après une autre activité est considérée comme une seule activité.)
+(Toute activité de nettoyage ou de dégraissage de surfaces utilisant des liquides organohalogénés ou des solvants organiques. Une activité de nettoyage constituée de plusieurs étapes se déroulant avant et après une autre activité est considérée comme une seule activité)
 
 Si la consommation de solvants est supérieure à 2 tonnes par an, les dispositions du premier alinéa du a du 7° de l'article 27 sont remplacées par les dispositions suivantes :
 

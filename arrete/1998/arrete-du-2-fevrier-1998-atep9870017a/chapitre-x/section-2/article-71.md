@@ -10,143 +10,11 @@ Le rejet total d'oxydes de soufre ne doit pas dépasser le flux journalier corre
 
 Le rejet total d'oxydes d'azote ne doit pas dépasser le flux journalier correspondant à un rejet au taux moyen de 500 mg/m3 (exprimé en NO2) sur la plate-forme pétrolière.
 
-Ces dispositions sont respectées à partir du 1er janvier 2000 et sans préjudice de l'application de l'arrêté ministériel du 27 juin 1990 relatif aux grandes installations de combustion.
+Ces dispositions sont respectées à partir du 1er janvier 2000 et sans préjudice de l'application des textes relatifs aux chaudières, turbines et moteurs relevant de la rubrique 2910 de la nomenclature des installations classées.
 
 2° Rejets dans l'eau : selon les catégories définies au 3° de l'article 33, les flux polluants rapportés à la tonne mensuelle de produits entrants sont limités aux valeurs suivantes :
 
-CATÉGORIE DE RAFFINERIES
-
-Flux massique maximal autorisé (1)
-
-1
-
-2
-
-3
-
-Débit d'eau (en m3/t)
-
-0,25
-
-0,65
-
-1
-
-MEST (en g/t)
-
-6
-
-15
-
-25
-
-DCO (en g/t)
-
-25
-
-65
-
-100
-
-DBO5 (en g/t)
-
-6
-
-15
-
-25
-
-Azote total (en g/t)
-
-5
-
-12,5
-
-20
-
-Hydrocarbures (en g/t)
-
-1,2
-
-3
-
-4
-
-Phénols (en g/t)
-
-0,06
-
-0,15
-
-0,25
-
-Les flux polluants rapportés à la tonne annuelle de produits entrants sont limités aux valeurs suivantes :
-
-CATÉGORIE DE RAFFINERIES
-
-Flux massique maximal autorisé (2)
-
-1
-
-2
-
-3
-
-Débit d'eau (en m3/t)
-
-0,2
-
-0,5
-
-0,8
-
-MEST (en g/t)
-
-5
-
-12,5
-
-20
-
-DCO (en g/t)
-
-20
-
-50
-
-80
-
-DBO5 (en g/t)
-
-5
-
-12,5
-
-20
-
-Azote total (en g/t)
-
-4
-
-10
-
-16
-
-Hydrocarbures (en g/t)
-
-1
-
-2,5
-
-3
-
-Phénols (en g/t)
-
-0,05
-
-0,125
-
-0,2
+(Tableau non reproduit).
 
 Ces dispositions sont applicables dans un délai de trois ans.
 
@@ -155,7 +23,3 @@ Le débit d'eau retenu est le débit cumulé des eaux de procédé et des eaux d
 L'arrêté d'autorisation précise des valeurs limites en concentration pour les eaux de procédé.
 
 3° Bruit : en dérogation aux dispositions de l'article 47, les bruits émis par les installations ne sont pas à l'origine d'une émergence supérieure à 5 dB(A) pour les périodes de jour et de nuit, y compris les dimanches et jours fériés.
-
-(1) Moyenne mensuelle.
-
-(2) Moyenne annuelle.

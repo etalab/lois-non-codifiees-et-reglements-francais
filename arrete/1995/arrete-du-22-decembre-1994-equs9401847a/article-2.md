@@ -22,8 +22,8 @@ b) De véhicules acheminant, durant la période de la campagne betteravière, de
 
 7° De véhicules de commerçants pour la vente de leurs produits dans les foires ou les marchés, à l'intérieur d'une zone constituée par la région d'origine et ses départements limitrophes, ou par la région d'origine et ses régions limitrophes dans la limite de 150 kilomètres du premier point de vente.
 
-8° De véhicules assurant le transport d'aliments pour le bétail à compter de la date du présent arrêté et jusqu'au 31 décembre 2003, à l'exclusion des 1er et 2 novembre 2003.
+8° De véhicules assurant le transport d'aliments pour le bétail jusqu'au 31 mars 2004.
 
 Le retour à vide est autorisé dans la zone limitée à la région du premier point de livraison et ses départements limitrophes, ou à la région du premier point de livraison et ses régions limitrophes dans la limite de 150 kilomètres du premier point de livraison.
 
-Pour l'application des dispositions du présent article, la région d'origine est la région de départ du véhicule (ou d'entrée en France) pour l'opération concernée. A compter de la date du présent arrêté et jusqu'au 31 décembre 2003, la circulation à vide des véhicules assurant le transport d'aliments pour le bétail est autorisée sur l'ensemble du territoire, à l'exclusion des 1er et 2 novembre 2003.
+La circulation à vide des véhicules assurant le transport d'aliments pour le bétail est autorisée sur l'ensemble du territoire jusqu'au 31 mars 2004.
