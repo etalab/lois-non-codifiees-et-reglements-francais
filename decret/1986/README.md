@@ -76,6 +76,8 @@
 - [Décret n°86-41 du 9 janvier 1986](decret-n86-41-du-9-janvier-1986)
 - [Décret n°86-44 du 9 janvier 1986](decret-n86-44-du-9-janvier-1986)
 - [Décret n°86-45 du 9 janvier 1986](decret-n86-45-du-9-janvier-1986)
+- [Décret n°86-705 du 9 avril 1986](decret-n86-705-du-9-avril-1986)
+- [Décret n°86-706 du 9 avril 1986](decret-n86-706-du-9-avril-1986)
 - [Décret n°87-263 du 9 avril 1987](decret-n87-263-du-9-avril-1987)
 - [Décret du 10 février 1986](decret-du-10-fevrier-1986)
 - [Décret n°86-332 du 10 mars 1986](decret-n86-332-du-10-mars-1986)
