@@ -1,0 +1,7 @@
+# Article 2
+
+Le Conseil national pour le développement de la mobilité internationale des étudiants a pour mission de formuler toute proposition ou recommandation tendant à l'amélioration des conditions d'accueil et de formation des étudiants étrangers en France et à l'amélioration des conditions de mobilité des étudiants français à l'étranger.
+
+A cet effet, le conseil poursuit une activité d'étude et d'analyse. Il conduit des travaux statistiques ou monographiques permettant d'éclairer les conditions d'accueil des étudiants étrangers en France et les conditions de mobilité des étudiants français à l'étranger.
+
+Le conseil contribue à l'amélioration de l'information de l'administration, des institutions concernées et du public en réalisant des synthèses intégrant les indications fournies par les différentes sources statistiques disponibles et en formulant des recommandations méthodologiques visant à améliorer la cohérence entre ces différentes sources. Il concours à l'évaluation de l'efficacité des dispositifs mis en place par les pouvoirs publics, les établissements d'enseignement supérieur et l'ensemble des organismes concernés pour accroître le nombre des étudiants accueillis et des étudiants français en mobilité à l'étranger, pour améliorer les conditions pédagogiques et matérielles de leur cursus et pour renforcer le rayonnement international de l'enseignement supérieur français à l'étranger.
