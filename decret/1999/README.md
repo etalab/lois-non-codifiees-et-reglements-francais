@@ -672,7 +672,6 @@
 - [Décret n°99-137 du 23 février 1999 (ECOT9936890D)](decret-n99-137-du-23-fevrier-1999-ecot9936890d)
 - [Décret n°99-224 du 23 mars 1999 (MENE9900448D)](decret-n99-224-du-23-mars-1999-mene9900448d)
 - [Décret n°99-226 du 23 mars 1999 (DEFX9903487D)](decret-n99-226-du-23-mars-1999-defx9903487d)
-- [Décret n°99-228 du 23 mars 1999 (AGRH9801949D)](decret-n99-228-du-23-mars-1999-agrh9801949d)
 - [Décret n°99-230 du 23 mars 1999 (PRMX9900031D)](decret-n99-230-du-23-mars-1999-prmx9900031d)
 - [Décret n°99-516 du 23 juin 1999 (DEFP9901094D)](decret-n99-516-du-23-juin-1999-defp9901094d)
 - [Décret n°99-837 du 23 septembre 1999 (FPPX9900089D)](decret-n99-837-du-23-septembre-1999-fppx9900089d)

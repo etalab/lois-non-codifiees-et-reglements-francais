@@ -449,7 +449,6 @@
 - [Décret n°94-699 du 10 août 1994 (ECOC9400065D)](decret-n94-699-du-10-aout-1994-ecoc9400065d)
 - [Décret n°94-978 du 10 novembre 1994 (ENVE9420060D)](decret-n94-978-du-10-novembre-1994-enve9420060d)
 - [Décret n°95-1097 du 10 octobre 1995 (EQUA9501336D)](decret-n95-1097-du-10-octobre-1995-equa9501336d)
-- [Décret n°95-147 du 10 février 1995 (BUDB9510012D)](decret-n95-147-du-10-fevrier-1995-budb9510012d)
 - [Décret n°95-157 du 10 février 1995 (SPSH9500322D)](decret-n95-157-du-10-fevrier-1995-spsh9500322d)
 - [Décret n°95-23 du 10 janvier 1995 (SPSH9403937D)](decret-n95-23-du-10-janvier-1995-spsh9403937d)
 - [Décret n°95-25 du 10 janvier 1995 (INTB9400478D)](decret-n95-25-du-10-janvier-1995-intb9400478d)
