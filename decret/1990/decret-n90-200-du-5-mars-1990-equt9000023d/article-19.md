@@ -1,6 +1,6 @@
 # Article 19
 
-L'inscription habilite à effectuer toute opération de commission de transport sur le territoire métropolitain. Elle est personnelle et incessible.
+L'inscription habilite à effectuer toute opération de commission de transport sur le territoire national. Elle est personnelle et incessible.
 
 En cas de transmission ou de location du fonds de commerce, le bénéficiaire de la transmission ou le locataire doit demander une nouvelle inscription, en justifiant qu'il satisfait aux conditions énoncées au présent décret.
 
