@@ -4,6 +4,6 @@ L'établissement est notamment habilité, même au-dehors de la zone visée à l
 
 a) Acquérir, au besoin par voie d'expropriation, les immeubles bâtis ou non bâtis nécessaires à cet aménagement ;
 
-b) Céder, conformément aux dispositions de l'article 41 de l'ordonnance susvisée du 23 octobre 1958, les immeubles acquis par voie d'expropriation ;
+b) Céder, conformément aux dispositions de l'article L. 21-1 du code de l'expropriation pour cause d'utilité publique, les immeubles acquis par voie d'expropriation ;
 
-c) Exercer le droit de préemption, dans les conditions prévues par la loi susvisée du 26 juillet 1962.
+c) Exercer le droit de préemption dans les conditions prévues par les articles L. 212-1 et suivants du code de l'urbanisme.
