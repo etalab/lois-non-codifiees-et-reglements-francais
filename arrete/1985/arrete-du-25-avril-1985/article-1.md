@@ -1,7 +1,9 @@
 # Article 1
 
-Le propriétaire ou le syndic d'un immeuble équipé d'installations collectives de ventilation mécanique contrôlée auxquelles sont raccordés des appareils à gaz (ventilation mécanique contrôlée - gaz) est tenu de faire entretenir et vérifier périodiquement l'ensemble de ces installations et d'en assurer la maintenance aux termes de contrats écrits faisant référence au présent arrêté passés avec un ou plusieurs professionnels qualifiés.
+Toute installation de production d'eau chaude sanitaire comportant un chauffe-eau instantané à gaz ou à hydrocarbures liquéfiés, d'une puissance égale ou inférieure à 8,72 kW (125 millithermies par minute), non muni des dispositifs de sécurité prévus par l'arrêté du 3 mai 1978 et non raccordé à un conduit d'évacuation des produits de combustion, devra avoir fait l'objet, dans un délai maximal de trois ans à compter de la date de publication du présent arrêté, d'une intervention consistant :
 
-Dans chaque logement d'un tel immeuble, l'utilisateur d'appareils à gaz raccordés à la ventilation mécanique contrôlée - gaz et situés dans ledit logement est tenu de les faire entretenir et vérifier périodiquement par un professionnel qualifié.
+- soit au remplacement du chauffe-eau par un appareil conforme aux prescriptions de l'arrêté du 2 août 1977 modifié et aux textes subséquents (par exemple : par un appareil muni des dispositifs de sécurité prévus par l'arrêté du 3 mai 1978 ou par un appareil raccordé à un conduit d'évacuation des produits de combustion) ;
 
-Dans le cas où les opérations visées au deuxième alinéa ne sont pas exécutées dans le cadre des contrats passés au titre du premier alinéa, les utilisateurs d'appareils sont tenus de fournir au propriétaire ou au syndic de l'immeuble une attestation des opérations d'entretien effectuées sur les appareils sous leur responsabilité. Ils doivent laisser libre accès aux entreprises chargées des opérations visées au premier alinéa.
+- soit au raccordement du chauffe-eau à un conduit d'évacuation des produits de combustion au moyen de pièces fournies par le constructeur de l'appareil (coupe-tirage notamment) et dans des conditions définies par lui.
+
+Cette obligation est immédiate à l'occasion de toute intervention sur l'installation comportant soit l'adjonction d'un poste de puisage d'eau chaude, soit le déplacement ou le renouvellement du chauffe-eau ou le remplacement de son corps de chauffe.

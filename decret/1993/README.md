@@ -344,6 +344,8 @@
 - [Décret du 17 juin 1993 (ECOT9340143D)](decret-du-17-juin-1993-ecot9340143d)
 - [Décret du 17 mars 1993 (SPSS9300205D)](decret-du-17-mars-1993-spss9300205d)
 - [Décret n°92-1016 du 17 septembre 1992 (SANH9201804D)](decret-n92-1016-du-17-septembre-1992-sanh9201804d)
+- [Décret n°93-1014 du 17 août 1993 (MAEA9320309D)](decret-n93-1014-du-17-aout-1993-maea9320309d)
+- [Décret n°93-1015 du 17 août 1993 (INDG9300371D)](decret-n93-1015-du-17-aout-1993-indg9300371d)
 - [Décret n°93-1240 du 17 novembre 1993 (MCCB9300305D)](decret-n93-1240-du-17-novembre-1993-mccb9300305d)
 - [Décret n°93-1241 du 17 novembre 1993 (MCCB9300314D)](decret-n93-1241-du-17-novembre-1993-mccb9300314d)
 - [Décret n°93-222 du 17 février 1993 (INTB9300041D)](decret-n93-222-du-17-fevrier-1993-intb9300041d)
