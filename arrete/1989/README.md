@@ -490,6 +490,7 @@
 - [Arrêté du 21 novembre 1989 (PRME8961528A)](arrete-du-21-novembre-1989-prme8961528a)
 - [Arrêté du 21 septembre 1989 (PTTT8900889A)](arrete-du-21-septembre-1989-pttt8900889a)
 - [Arrêté du 21 septembre 1989 (TEFE8903740A)](arrete-du-21-septembre-1989-tefe8903740a)
+- [Arrêté du 22 décembre 1989 (SPSH8902301A)](arrete-du-22-decembre-1989-spsh8902301a)
 - [Arrêté du 22 février 1984](arrete-du-22-fevrier-1984)
 - [Arrêté du 22 janvier 1987 (DEFD8701044A)](arrete-du-22-janvier-1987-defd8701044a)
 - [Arrêté du 22 juin 1989 (AGRS8901128A)](arrete-du-22-juin-1989-agrs8901128a)

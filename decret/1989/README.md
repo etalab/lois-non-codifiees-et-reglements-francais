@@ -370,6 +370,7 @@
 - [Décret n°91-580 du 21 juin 1991 (AGRA9100718D)](decret-n91-580-du-21-juin-1991-agra9100718d)
 - [Décret n°88-889 du 22 août 1988 (TEFT8803687D)](decret-n88-889-du-22-aout-1988-teft8803687d)
 - [Décret n°89-113 du 22 février 1989 (INTA8900030D)](decret-n89-113-du-22-fevrier-1989-inta8900030d)
+- [Décret n°89-921 du 22 décembre 1989 (SPSS8901786D)](decret-n89-921-du-22-decembre-1989-spss8901786d)
 - [Décret n°89-922 du 22 décembre 1989 (SPSH8902300D)](decret-n89-922-du-22-decembre-1989-spsh8902300d)
 - [Décret n°89-329 du 22 mai 1989 (JUSB8910123D)](decret-n89-329-du-22-mai-1989-jusb8910123d)
 - [Décret n°90-427 du 22 mai 1990 (MENF9000781D)](decret-n90-427-du-22-mai-1990-menf9000781d)
