@@ -39,6 +39,7 @@
 - [Décret n°64-153 du 15 février 1964](decret-n64-153-du-15-fevrier-1964)
 - [Décret n°64-339 du 16 avril 1964](decret-n64-339-du-16-avril-1964)
 - [Décret n°64-726 du 16 juillet 1964](decret-n64-726-du-16-juillet-1964)
+- [Décret n°64-1264 du 17 décembre 1964](decret-n64-1264-du-17-decembre-1964)
 - [Décret n°64-748 du 17 juillet 1964](decret-n64-748-du-17-juillet-1964)
 - [Décret n°64-993 du 17 septembre 1964](decret-n64-993-du-17-septembre-1964)
 - [Décret n°64-994 du 17 septembre 1964](decret-n64-994-du-17-septembre-1964)
