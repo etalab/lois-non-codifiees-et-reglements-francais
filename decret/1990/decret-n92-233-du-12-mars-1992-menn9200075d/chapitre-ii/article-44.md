@@ -1,85 +1,224 @@
 # Article 44
 
-Les aides techniques du 2e et du 1er niveaux sont intégrés dans la 2e classe du corps des agents des services techniques régi par l'article 65 du décret du 31 décembre 1985 susvisé en sept tranches annuelles. Les intégrations prennent effet au 1er août de chacune des années 1990 à 1996, après inscription sur des listes d'aptitude établies sur proposition des présidents, directeurs ou responsables d'établissements après avis de la commission administrative paritaire concernée.
+Les aides techniques du 2e et du 1er niveaux sont intégrés dans la 2e classe du corps des agents des services techniques régi par l'article 65 du décret du 31 décembre 1985 susvisé en quatre tranches annuelles. Les intégrations prennent effet au 1er août de chacune des années 1990 à 1993, après inscription sur des listes d'aptitude établies sur proposition des présidents, directeurs ou responsables d'établissements après avis de la commission administrative paritaire concernée.
 
-Chacune des six premières listes d'aptitude ne peut comprendre un nombre d'agents supérieur à un septième de l'effectif des grades d'aide technique du 2e et du 1er niveau apprécié au 31 juillet 1990.
+Chacune des trois premières listes d'aptitude ne peut comprendre un nombre d'agents supérieur à un septième de l'effectif des grades d'aide technique du 2e et du 1er niveau apprécié au 31 juillet 1990.
 
 Lorsque le nombre ainsi calculé n'est pas entier, sa décimale est ajoutée au nombre calculé au titre de l'année suivante.
 
 Les intégrations réalisées au 1er août 1990 sont prononcées au grade d'agent des services techniques de 2e classe conformément au tableau ci-dessous :
 
-SITUATION ANCIENNE
-
-SITUATION NOUVELLE
-
-Echelons
-
-Echelons
-
-Ancienneté d'échelon
-
-conservée
-
-Aides techniques
-
-Agents des services
-
-techniques
-
-1er niveau :
-
-2e classe :
-
-5e  échelon10e
-
-Ancienneté acquise.
-
-4e  échelon 9e
-
-Ancienneté acquise.
-
-3e  échelon 8e
-
-Moitié de l'ancienneté acquise, majorée de deux ans.
-
-2e  échelon 8e
-
-Moitié de l'ancienneté acquise.
-
-1er échelon 7e
-
-Trois quarts de l'ancienneté acquise.
-
-2e niveau :
-
-8e  échelon 8e
-
-Sans ancienneté.
-
-7e  échelon 7e
-
-Trois quarts de l'ancienneté acquise.
-
-6e  échelon 6e
-
-Trois quarts de l'ancienneté acquise.
-
-5e  échelon 5e
-
-Trois quarts de l'ancienneté acquise.
-
-4e  échelon 4e
-
-Deux tiers de l'ancienneté acquise.
-
-3e  échelon 3e
-
-Deux tiers de l'ancienneté acquise.
-
-2e  échelon 2e
-
-Ancienneté acquise.
-
-1er échelon 1er
-
-Ancienneté acquise.
+<table>
+<tbody>
+<tr>
+<td width="151">
+<p align="center">
+<strong>SITUATION ANCIENNE</strong>
+</p>
+</td>
+<td colspan="2" width="264">
+<p align="center">
+<strong>SITUATION NOUVELLE</strong>
+</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p align="center">Echelons</p>
+</td>
+<td width="59">
+<p align="center">Echelons</p>
+</td>
+<td width="206">
+<p align="center">Ancienneté d'échelon conservée</p>
+</td>
+</tr>
+<tr>
+<td width="151">
+<p align="center">Aides techniques</p>
+</td>
+<td width="59">
+<br/>
+</td>
+<td width="206">
+<p align="center">Agents des services techniques</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>1<sup>er</sup> niveau :</p>
+</td>
+<td valign="top" width="59">
+<br/>
+</td>
+<td valign="top" width="206">
+<p>2<sup>e</sup> classe :</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>5<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">10<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>4<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">9<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>3<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">8<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Moitié de l'ancienneté acquise, majorée de deux ans</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>2<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">8<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Moitié de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>1<sup>er</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">7<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Trois quarts de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>2<sup>e</sup> niveau :</p>
+</td>
+<td valign="top" width="59">
+<br/>
+</td>
+<td valign="top" width="206"/>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>8<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">8<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Sans ancienneté</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>7<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">7<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Trois quarts de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>6<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">6<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Trois quarts de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>5<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">5<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Trois quarts de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>4<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">4<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Deux tiers de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>3<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">3<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Deux tiers de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>2<sup>e</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">2<sup>e</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151">
+<p>1<sup>er</sup> échelon</p>
+</td>
+<td valign="top" width="59">
+<p align="center">1<sup>er</sup>
+</p>
+</td>
+<td valign="top" width="206">
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+</tbody>
+</table>

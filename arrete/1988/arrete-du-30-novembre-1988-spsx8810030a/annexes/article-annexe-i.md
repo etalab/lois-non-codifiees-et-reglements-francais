@@ -4,75 +4,63 @@ CORPS DES INFIRMIERS
 
 Infirmier de classe normale :
 
-Echelon exceptionnel(1) :
+8e échelon
 
-Situation antérieure Indice brut : 487
+indices bruts : 558 (1)
 
-Au 1er août 1991 : Indice brut : 487
+7e échelon
 
-Au 1er août 1992 : Indice brut : 487
+indices bruts : 519
 
-6e échelon :
+6e échelon
 
-Situation antérieure Indice brut : 460
+indices bruts : 480
 
-Au 1er août 1991 : Indice brut : 460
+5e échelon
 
-Au 1er août 1992 : Indice brut : 460
+indices bruts : 443
 
-5e échelon :
+4e échelon
 
-Situation antérieure Indice brut : 425
+indices bruts : 407
 
-Au 1er août 1991 : Indice brut : 425
+3e échelon
 
-Au 1er août 1992 : Indice brut : 425
+indices bruts : 372
 
-4e échelon :
+2e échelon
 
-Situation antérieure Indice brut : 380
+indices bruts : 346
 
-Au 1er août 1991 : Indice brut : 382
+1er échelon
 
-Au 1er août 1992 : Indice brut : 390
+indices bruts : 322
 
-3e échelon :
+(1) Echelon créé à compter du 1er août 1993.
 
-Situation antérieure Indice brut : 343
+Infirmier de classe supérieure
 
-Au 1er août 1991 : Indice brut : 348
+A compter du 1er août 1994
 
-Au 1er août 1992 : Indice brut : 356
+5e échelon
 
-2e échelon :
+indices bruts : 593
 
-Situation antérieure Indice brut : 311
+4e échelon
 
-Au 1er août 1991 : Indice brut : 317
+indices bruts : 565
 
-Au 1er août 1992 : Indice brut : 326
+3e échelon
 
-1er échelon :
+indices bruts : 530
 
-Situation antérieure Indice brut : 286
+2e échelon
 
-Au 1er août 1991 : Indice brut : 291
+indices bruts : 499
 
-Au 1er août 1992 : Indice brut : 301
+1er échelon
 
-(1)Echelon accessible dans les conditions fixées à l'article 4-III du décret n° 88-1077 du 30 novembre 1988 susvisé.
-
-Infirmier de classe supérieure :
-
-5e échelon        Indices bruts : 533
-
-4e échelon        Indices bruts : 501
-
-3e échelon        Indices bruts : 473
-
-2e échelon        Indices bruts : 441
-
-1er échelon       Indices bruts : 418
+indices bruts : 471
 
 Infirmier, surveillant des services médicaux :
 

@@ -8,6 +8,6 @@ Les autres stagiaires sont, après avis de la commission administrative paritair
 
 Ceux dont le stage complémentaire a été jugé satisfaisant sont titularisés dans les conditions fixées au deuxième alinéa du présent article, leur ancienneté d'échelon étant réduite de la durée du stage complémentaire.
 
-Les stagiaires qui ont la qualité de fonctionnaire peuvent, pendant la durée du stage, opter entre le traitement auquel ils auraient droit dans leur corps d'origine et le traitement de délégué stagiaire.
+Les stagiaires qui ont la qualité de fonctionnaire peuvent, pendant la durée du stage, opter entre le traitement auquel ils auraient droit dans leur corps et cadres d'emplois d'origine et le traitement de délégué stagiaire.
 
-Les stagiaires qui avaient précédemment la qualité d'agent de l'Etat peuvent opter pour le traitement indiciaire correspondant à leur situation antérieure. Cette disposition ne peut toutefois avoir pour effet d'assurer aux intéressés un traitement supérieur à celui auquel ils auraient droit s'ils étaient classés dans le grade de délégué de classe normale en application de l'article 6-4 ci-après.
+Les stagiaires qui avaient précédemment la qualité d'agent non titulaire ou d'agent d'une organisation internationale intergouvernementale, des collectivités territoriales et des établissements publics qui en dépendent peuvent opter pour le traitement indiciaire correspondant à leur situation antérieure. Cette disposition ne peut toutefois avoir pour effet d'assurer aux intéressés un traitement supérieur à celui auquel ils auraient droit s'ils étaient classés dans le grade de délégué de classe normale en application de l'article 6-4 ci-après.

@@ -1,18 +1,16 @@
 # Article 39
 
-Peuvent être promus au grade d'aide technique principal de laboratoire, par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative paritaire les aides techniques de laboratoire comptant au mois deux ans d'ancienneté dans le 9e échelon de leur grade.
+Peuvent être promus au grade d'aide technique principal de laboratoire, par voie d'inscription à un tableau annuel d'avancement établi après avis de la commission administrative paritaire les aides techniques de laboratoire comptant au moins deux ans d'ancienneté dans le 9e échelon de leur grade.
 
 Les agents promus au grade d'aide technique principal de laboratoire sont reclassés dans ce grade conformément au tableau ci-après :
 
-SITUATION DANS LE GRADE
+SITUATION DANS LE GRADE d'aide technique de laboratoire
 
-d'aide de laboratoire
+SITUATION DANS LE GRADE d'aide technique principal de laboratoire
 
-SITUATION DANS LE GRADE
+Echelon
 
-d'aide technique principal de laboratoire
-
-Echelon Ancienneté d'échelon
+Ancienneté d'échelon
 
 9e échelon 1er
 

@@ -38,56 +38,56 @@ Ingénieurs d'études principal
 
 2 ans 3 mois
 
-Ingénieur d'études
+Ingénieur
 
-9e  échelon
+10e échelon
 
---
-
-8e  échelon
+9e échelon
 
 4 ans
 
 3 ans
 
-7e  échelon
+8e échelon
 
 4 ans
 
 3 ans
 
-6e  échelon
+7e échelon
+
+4 ans
+
+3 ans
+
+6e échelon
 
 3 ans 6 mois
 
 2 ans 9 mois
 
-5e  échelon
-
-3 ans 6 mois
-
-2 ans 9 mois
-
-4e  échelon
+5e échelon
 
 3 ans
 
 2 ans 3 mois
 
-3e  échelon
+4e échelon
 
 2 ans 6 mois
 
 2 ans
 
-2e  échelon
+3e échelon
 
-1 an 6 mois
+2 ans 6 mois
+
+2 ans
+
+2e échelon
 
 1 an 6 mois
 
 1er échelon
-
-1 an
 
 1 an

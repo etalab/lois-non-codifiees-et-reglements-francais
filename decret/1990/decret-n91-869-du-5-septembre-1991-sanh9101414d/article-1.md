@@ -4,7 +4,7 @@ Le classement indiciaire applicable au corps des ingénieurs hospitaliers est fi
 
 Indices bruts :
 
-- ingénieur subdivisionnaire : 379, 701 ;
+- ingénieur subdivisionnaire : 379, 750 ;
 
 - ingénieur en chef : 486, 801 ;
 

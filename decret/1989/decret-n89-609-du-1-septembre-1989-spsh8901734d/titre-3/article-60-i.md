@@ -1,6 +1,6 @@
 # Article 60-I
 
-Pour l'application de l'article 16 ter du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites suivant les correspondances fixées pour le personnel en activité par les articles 54 à 60 ci-dessus et par les deuxième et troisième alinéas du présent article.
+Pour l'application de l'article 16 ter du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites suivant les correspondances fixées pour le personnel en activité par les articles 54 à 60, par les deuxième et troisième alinéas du présent article ainsi que par les articles 60-II et 60-III.
 
 Pour les surveillants des services médicaux, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites à compter du 1er août 1992 suivant le tableau de correspondance ci-après :
 

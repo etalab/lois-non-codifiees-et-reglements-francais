@@ -1,6 +1,6 @@
 # Article 19
 
-Les agents non titulaires de l'Etat sont nommés au grade d'inspecteur de 2e classe à un échelon déterminé, en prenant en compte, sur la base des durées moyennes fixées à l'article 23 ci-après pour chaque avancement d'échelon, une fraction de leur ancienneté de service dans les conditions suivantes :
+Les agents non titulaires de l'Etat et de ses établissements publics sont nommés au grade d'inspecteur à un échelon déterminé, en prenant en compte, sur la base des durées moyennes fixées à l'article 23 ci-après pour chaque avancement d'échelon, une fraction de leur ancienneté de service dans les conditions suivantes :
 
 - les services accomplis dans un emploi du niveau de la catégorie A sont retenus à raison de la moitié jusqu'à douze ans et des trois quarts au-delà de douze ans ;
 

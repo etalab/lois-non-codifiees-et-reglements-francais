@@ -4,7 +4,7 @@ Par application des dispositions du c de l'article 32 de la loi du 9 janvier 198
 
 1° Parmi les élèves aides-soignants de l'établissement ayant obtenu soit le certificat d'aptitude aux fonctions d'aide-soignant, soit le certificat d'aptitude aux fonctions d'aide médico-psychologique institués par arrêté du ministre chargé de la santé, soit le certificat d'auxiliaire de puériculture institué par le décret n° 47-1544 du 13 août 1947 modifié et délivré par l'une des écoles énumérées par arrêté du ministre chargé de la santé ;
 
-2° Pour 25 p. 100 au plus des recrutements d'aides-soignants effectués dans l'année, parmi les agents des services hospitaliers qualifiés et les agents des services hospitaliers réunissant au moins huit ans de fonctions dans ces corps, admis, après sélection professionnelle et avis de la commission administrative paritaire compétente, à suivre une formation les préparant à ces fonctions et qui a fait l'objet d'une validation.
+2° Pour 25 p. 100 au plus des recrutements d'aides-soignants effectués dans l'année, parmi les agents des services hospitaliers qualifiés, les agents des services hospitaliers hors catégorie et les agents des services hospitaliers réunissant au moins huit ans de fonctions dans ces corps, admis, après sélection professionnelle et avis de la commission administrative paritaire compétente, à suivre une formation les préparant à ces fonctions et qui a fait l'objet d'une validation.
 
 Les modalités de cette sélection, de cette formation et de cette validation sont fixées par arrêté du ministre chargé de la santé.
 

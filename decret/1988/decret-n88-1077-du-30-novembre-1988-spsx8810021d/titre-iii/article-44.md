@@ -1,153 +1,163 @@
 # Article 44
 
-Les infirmiers spécialisés titulaires du certificat d'aptitude aux fonctions d'infirmier spécialisé en anesthésie-réanimation sont reclassés dans le corps des infirmiers spécialisés en anesthésie-réanimation au grade d'infirmier de classe normale selon le tableau de correspondance qui suit :
+Les infirmiers anesthésistes sont reclassés dans le corps des infirmiers anesthésistes au grade d'infirmier anesthésiste de classe normale suivant le tableau de correspondance qui suit :
 
-SITUATION ACTUELLE
+SITUATION antérieure Infirmiers anesthésistes
 
-Infirmier spécialisé : échelon fonctionnel
+Echelons
 
-SITUATION NOUVELLE
+Classe normale
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 8e échelon : ancienneté acquise plus 2 ans
+8e échelon
 
-SITUATION ACTUELLE
+SITUATION NOUVELLE Infirmiers anesthésistes
 
-Infirmier spécialisé : 11e échelon (plus de 2 ans d'ancienneté dans l'échelon)
+Echelons
 
-SITUATION NOUVELLE
+Classe normale créée à compter du 1er août 1993
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 8e échelon : ancienneté acquise au-delà de 2 ans.
+7e échelon
 
-SITUATION ACTUELLE
+Ancienneté conservée dans l'échelon
 
-Infirmier spécialisé : 11e échelon (moins de 2 ans d'ancienneté dans l'échelon)
+1/4 de l'ancienneté acquise dans la limite de 2 ans.
 
-SITUATION NOUVELLE
+SITUATION antérieure Infirmiers anesthésistes
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 7e échelon provisoire de reclassement : ancienneté acquise.(1)
+Echelons
 
-(1) La durée de présence dans cet échelon affecté de l'indice brut 507 est de 2 ans.
+Classe normale
 
-SITUATION ACTUELLE
+7e échelon
 
-Infirmier spécialisé : 10e échelon (après 2 ans)
+SITUATION NOUVELLE Infirmiers anesthésistes
 
-SITUATION NOUVELLE
+Echelons
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 7e échelon : ancienneté acquise au-delà de 2 ans.
+Classe normale créée à compter du 1er août 1993
 
-SITUATION ACTUELLE
+7e échelon
 
-Infirmier spécialisé : 10e échelon (avant 2 ans)
+Ancienneté conservée dans l'échelon
 
-SITUATION NOUVELLE
+1/4 de l'ancienneté acquise dans la limite de 1 an.
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 6e échelon provisoire de reclassement : ancienneté acquise.(2)
+SITUATION antérieure Infirmiers anesthésistes
 
-(2) La durée de présence dans cet échelon affecté de l'indice brut 487 est de 2 ans.
+Echelons
 
-SITUATION ACTUELLE
+Classe normale
 
-Infirmier spécialisé : 9e échelon
+6e échelon
 
-SITUATION NOUVELLE
+SITUATION NOUVELLE Infirmiers anesthésistes
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 6e échelon : 1/2 de l'ancienneté acquise plus 6 mois.
+Echelons
 
-SITUATION ACTUELLE
+Classe normale créée à compter du 1er août 1993
 
-Infirmier spécialisé : 8e échelon (plus de 2 ans d'ancienneté dans l'échelon)
+6e échelon
 
-SITUATION NOUVELLE
+Ancienneté conservée dans l'échelon
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 6e échelon : 1/2 de l'ancienneté acquise au-delà de 2 ans.
+Ancienneté acquise.
 
-SITUATION ACTUELLE
+SITUATION antérieure Infirmiers anesthésistes
 
-Infirmier spécialisé : 8e échelon (moins de 2 ans d'ancienneté dans l'échelon)
+Echelons
 
-SITUATION NOUVELLE
+Classe normale
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 5e échelon : ancienneté acquise plus 2 ans.
+5e échelon
 
-SITUATION ACTUELLE
+SITUATION NOUVELLE Infirmiers anesthésistes
 
-Infirmier spécialisé : 7e échelon
+Echelons
 
-SITUATION NOUVELLE
+Classe normale créée à compter du 1er août 1993
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 5e échelon : 1/2 de l'ancienneté acquise plus 6 mois.
+5e échelon
 
-SITUATION ACTUELLE
+Ancienneté conservée dans l'échelon
 
-Infirmier spécialisé : 6e échelon (plus de 1 an et 6 mois d'ancienneté dans l'échelon)
+Ancienneté acquise.
 
-SITUATION NOUVELLE
+SITUATION antérieure Infirmiers anesthésistes
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 5e échelon : ancienneté acquise au-delà de 1 an 6 mois.
+Echelons
 
-SITUATION ACTUELLE
+Classe normale
 
-Infirmier spécialisé : 6e échelon (moins de 1 an et 6 mois d'ancienneté dans l'échelon)
+4e échelon
 
-SITUATION NOUVELLE
+SITUATION NOUVELLE Infirmiers anesthésistes
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 4e échelon provisoire de reclassement : ancienneté conservée.(3)
+Echelons
 
-(3) La durée de présence dans cet échelon affecté de l'indice brut 425 est de 1 an et 6 mois.
+Classe normale créée à compter du 1er août 1993
 
-SITUATION ACTUELLE
+4e échelon
 
-Infirmier spécialisé : 5e échelon
+Ancienneté conservée dans l'échelon
 
-SITUATION NOUVELLE
+3/4 de l'ancienneté acquise.
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 4e échelon : 1/2 de l'ancienneté acquise plus 6 mois.
+SITUATION antérieure Infirmiers anesthésistes
 
-SITUATION ACTUELLE
+Echelons
 
-Infirmier spécialisé : 4e échelon (plus de 1 an d'ancienneté dans l'échelon)
+Classe normale
 
-SITUATION NOUVELLE
+3e échelon
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 4e échelon : ancienneté acquise au-delà de 1 an.
+SITUATION NOUVELLE Infirmiers anesthésistes
 
-SITUATION ACTUELLE
+Echelons
 
-Infirmier spécialisé : 4e échelon (avant 1 an)
+Classe normale créée à compter du 1er août 1993
 
-SITUATION NOUVELLE
+3e échelon
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 3e échelon : ancienneté acquise plus 2 ans.
+Ancienneté conservée dans l'échelon
 
-SITUATION ACTUELLE
+Ancienneté acquise.
 
-Infirmier spécialisé : 3e échelon
+SITUATION antérieure Infirmiers anesthésistes
 
-SITUATION NOUVELLE
+Echelons
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 3e échelon : ancienneté acquise plus 6 mois.
+Classe normale
 
-SITUATION ACTUELLE
+2e échelon
 
-Infirmier spécialisé : 2e échelon (plus de 9 mois)
+SITUATION NOUVELLE Infirmiers anesthésistes
 
-SITUATION NOUVELLE
+Echelons
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 3e échelon : 2/3 de l'ancienneté acquise au-delà de 9 mois.
+Classe normale créée à compter du 1er août 1993
 
-SITUATION ACTUELLE
+2e échelon
 
-Infirmier spécialisé : 2e échelon (moins de 9 mois d'ancienneté dans l'échelon
+Ancienneté conservée dans l'échelon
 
-SITUATION NOUVELLE
+Ancienneté acquise.
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 2e échelon : ancienneté acquise plus 1 an 3 mois.
+SITUATION antérieure Infirmiers anesthésistes
 
-SITUATION ACTUELLE
+Echelons
 
-Infirmier spécialisé : 1er échelon
+Classe normale
 
-SITUATION NOUVELLE
+1er échelon
 
-Infirmier spécialisé de classe normale (ancienneté conservée) 2e échelon : ancienneté supprimée.
+SITUATION NOUVELLE Infirmiers anesthésistes
+
+Echelons
+
+Classe normale créée à compter du 1er août 1993
+
+1er échelon
+
+Ancienneté conservée dans l'échelon
+
+Ancienneté acquise.

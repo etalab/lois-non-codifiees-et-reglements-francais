@@ -10,7 +10,9 @@ au 1er août 1991 : 291-493 ;
 
 au 1er août 1992 : 301-493,
 
-Classe supérieure : 418 - 533 ;
+au 1er août 1993 : 322-558,
+
+Classe supérieure : 471-593, à compter du 1er août 1994.
 
 Infirmier de bloc opératoire, surveillant des services médicaux :
 

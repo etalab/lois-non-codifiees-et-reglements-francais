@@ -10,7 +10,9 @@ au 1er août 1991 : 291-507 ;
 
 au 1er août 1992 : 301-507,
 
-Classe supérieure : 418 - 533 ;
+au 1er août 1993 : 322-558,
+
+Classe supérieure : 471-593, à compter du 1er août 1994.
 
 Infirmier anesthésiste, surveillant des services médicaux :
 

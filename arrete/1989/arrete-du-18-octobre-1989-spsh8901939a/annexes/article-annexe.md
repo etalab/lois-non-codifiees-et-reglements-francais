@@ -2,7 +2,17 @@
 
 ECHELON : Infirmiers généraux de 1re classe
 
+Situation actuelle :
+
 Echelon fonctionnel (1) : indice brut : 725
+
+Situation future :
+
+Echelon fonctionnel (1) : indice brut : 760
+
+5e  échelon : indice brut : 730
+
+Situation actuelle :
 
 4e  échelon : indice brut : 701
 
@@ -14,7 +24,17 @@ Echelon fonctionnel (1) : indice brut : 725
 
 ECHELON : Infirmiers généraux de 2e classe
 
+Situation actuelle :
+
 6e  échelon : indice brut : 660
+
+Situation future :
+
+7e  échelon : indice brut : 700
+
+6e  échelon : indice brut : 660
+
+Situation actuelle :
 
 5e  échelon : indice brut : 625
 

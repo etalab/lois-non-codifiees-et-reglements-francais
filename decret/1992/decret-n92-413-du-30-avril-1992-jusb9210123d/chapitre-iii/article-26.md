@@ -36,4 +36,4 @@ Après 1 an
 
 1er échelon
 
-Ancienneté acquise dans la limite de 1 an.
+Ancienneté acquise diminuée de 1 an.

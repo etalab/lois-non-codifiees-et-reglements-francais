@@ -2,83 +2,63 @@
 
 CORPS DES INFIRMIERS SPECIALISES EN ANESTHESIE-REANIMATION
 
-Infirmier spécialisé en anesthésie-réanimation de classe normale :
+Infirmier anesthésiste de classe normale
 
-8e échelon :
+8e échelon
 
-Situation antérieure Indice brut : 507
+indices bruts : 558
 
-Au 1er août 1991 Indice brut : 507
+7e échelon
 
-Au 1er août 1992 Indice brut : 507
+indices bruts : 519
 
-7e échelon :
+6e échelon
 
-Situation antérieure Indice brut : 487
+indices bruts : 480
 
-Au 1er août 1991 Indice brut : 487
+5e échelon
 
-Au 1er août 1992 Indice brut : 487
+indices bruts : 443
 
-6e échelon :
+4e échelon
 
-Situation antérieure Indice brut : 460
+indices bruts : 407
 
-Au 1er août 1991 Indice brut : 460
+3e échelon
 
-Au 1er août 1992 Indice brut : 460
+indices bruts : 372
 
-5e échelon :
+2e échelon
 
-Situation antérieure Indice brut : 425
+indices bruts : 346
 
-Au 1er août 1991 Indice brut : 425
+1er échelon
 
-Au 1er août 1992 Indice brut : 425
+indices bruts : 322
 
-4e échelon :
+Infirmier anesthésiste de classe supérieure
 
-Situation antérieure Indice brut : 380
+A compter du 1er août 1994
 
-Au 1er août 1991 Indice brut : 382
+5e échelon
 
-Au 1er août 1992 Indice brut : 390
+indices bruts : 593
 
-3e échelon :
+4e échelon
 
-Situation antérieure Indice brut : 343
+indices bruts : 565
 
-Au 1er août 1991 Indice brut : 348
+3e échelon
 
-Au 1er août 1992 Indice brut : 356
+indices bruts : 530
 
-2e échelon :
+2e échelon
 
-Situation antérieure Indice brut : 311
+indices bruts : 499
 
-Au 1er août 1991 Indice brut : 317
+1er échelon
 
-Au 1er août 1992 Indice brut : 326
-
-1er échelon :
-
-Situation antérieure Indice brut : 286
-
-Au 1er août 1991 Indice brut : 291
-
-Au 1er août 1992 Indice brut : 301
-
-Infirmier spécialisé en anesthésie-réanimation de classe supérieure :
-
-5e échelon        Indices bruts : 533
-
-4e échelon        Indices bruts : 501
-
-3e échelon        Indices bruts : 473
-
-2e échelon        Indices bruts : 441
-
-1er échelon       Indices bruts : 418
+indices bruts : 471
 
 Infirmier spécialisé en anesthésie-réanimation, surveillant des services médicaux :
 

@@ -4,13 +4,9 @@ FONCTIONS EXERCÉES OUVRANT DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDIC
 
 Chargé d'études financières ;
 
-Chef d'unité de gestion des opérations de clientèle pour les produits nouveaux ;
-
 Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux d'une direction ;
 
 Responsable des relations publiques par délégation directe d'un chef de département ;
-
-Chargé des fonctions actuarielles pour les travaux d'inventaire d'une partie du portefeuille de la Caisse nationale de prévoyance ;
 
 Juriste de contentieux au niveau fédéral ;
 
@@ -28,8 +24,6 @@ Assistant marketing ;
 
 Gestionnaire de clientèle ;
 
-Assistant Suivi des émissions obligataires ;
-
 Développeur d'applications sur Info Service ;
 
 Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales ;
@@ -39,10 +33,6 @@ Organisateur informatique au niveau du site ;
 Agent assurant, par délégation d'un chef d'unité, la gestion d'un secteur d'activité comportant une technicité particulièrement étendue en termes de connaissance bancaire ou des marchés financiers ;
 
 Chargé du recrutement et de la mobilité au niveau fédéral ;
-
-Responsable de la section Ordonnancement-paie ;
-
-Chargé de gestion statutaire au niveau fédéral (carrières), dans le domaine administratif ou informatique ;
 
 Technicien de maintenance des installations de climatisation et de chauffage (site parisien) ;
 
@@ -76,9 +66,9 @@ Secrétaire de rédaction au service de presse au niveau fédéral ;
 
 Assistant de contrôle budgétaire et/ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière ;
 
-Responsable de la gestion des indemnités de caractère social et culturel au niveau fédéral ;
+Responsable de la gestion des indemnités de caractère social et
 
-Consultant interne Ingénierie formation au niveau fédéral ;
+culturel au niveau fédéral ;
 
 Assistant de gestion statutaire au niveau d'une direction ;
 
@@ -101,3 +91,35 @@ Responsable de groupe de gestion opérationnel ;
 Gestionnaire logistique polyvalent ;
 
 Responsable d'atelier au niveau fédéral.
+
+Actuaire responsable de l'unité inventaire du portefeuille de la Caisse nationale de prévoyance.
+
+Responsable comptable au sein du service de production bancaire.
+
+Responsable de la réglementation paie.
+
+Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique.
+
+Responsable du service comptabilité-finance de la mutuelle de la Caisse des dépôts et consignations.
+
+Aide documentaliste spécialisé au niveau fédéral.
+
+Responsable d'une unité administrative chargé d'un projet informatique pour la Caisse nationale de retraite des agents des collectivités locales (C.N.R.A.C.L.) ;
+
+Secrétaire du conseil d'administration de la Caisse nationale de retraite des agents des collectivités locales (C.N.R.A.C.L.) ;
+
+Responsable administratif du restaurant d'Arcueil ;
+
+Chargé de mobilité et d'orientation professionnelle au niveau fédéral ;
+
+Analyste de presse ;
+
+Gestionnaire du service intérim interne au niveau fédéral ;
+
+Responsable de la gestion de l'encouragement à la prévoyance individuelle (E.P.I.) au niveau fédéral ;
+
+Chargé de clientèle exerçant des responsabilités particulières dans le domaine commercial de l'imprimerie de la Caisse des dépôts et consignations ;
+
+Responsable de groupe de gestion fonctionnel ;
+
+Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisse de retraites de Bordeaux (B.C.R.B.).

@@ -1,6 +1,6 @@
 # Article 25
 
-Peuvent être promus au choix au deuxième grade les greffiers en chef du troisième grade justifiant d'au moins deux ans et six mois d'ancienneté au 5e échelon de la 1re classe.
+Peuvent être promus au choix au deuxième grade les greffiers en chef du troisième grade justifiant d'au moins deux ans et six mois d'ancienneté au 12e échelon.
 
 Ils sont nommés au 7e échelon du deuxième grade sans ancienneté.
 

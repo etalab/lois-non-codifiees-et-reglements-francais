@@ -1,101 +1,139 @@
 # Article 59
 
-Les pédicures sont reclassés dans le corps des pédicures-podologues au grade de pédicure-podologue de classe normale selon le tableau de correspondance qui suit :
+Les pédicures-podologues, les orthophonistes, les orthoptistes et les diététiciens sont reclassés dans la classe normale du corps correspondant à leur qualification selon le tableau de correspondance qui suit :
 
-SITUATION ACTUELLE = Pédicure
-
-SITUATION NOUVELLE = Pédicure-podologue de classe normale
-
-SITUATION ACTUELLE : 12e échelon
-
-SITUATION NOUVELLE : 7e échelon
-
-Ancienneté acquise plus 1 an.
-
-SITUATION ACTUELLE : 11e échelon
-
-a) Plus de 2 ans d'ancienneté dans l'échelon
-
-SITUATION NOUVELLE : 7e échelon
-
-1/2 de l'ancienneté acquise au-delà de 2 ans.
-
-b) Moins de 2 ans d'ancienneté dans l'échelon       SITUATION NOUVELLE : 6e échelon provisoire de reclassement (1)    (1) La durée de présence dans cet échelon affecté de l'indice brut 487 est de 2 ans.
-
-Ancienneté acquise.
-
-SITUATION ACTUELLE : 10e échelon
-
-SITUATION NOUVELLE : 6e échelon
-
-1/2 de l'ancienneté acquise plus 6 mois.
-
-SITUATION ACTUELLE : 9e échelon
-
-a) Plus de 2 ans d'ancienneté dans l'échelon       SITUATION NOUVELLE : 6e échelon
-
-1/2 de l'ancienneté acquise au-delà de 2 ans.
-
-b) Moins de 2 ans d'ancienneté dans l'échelon       SITUATION NOUVELLE : 5e échelon
-
-Ancienneté acquise plus 2 ans.
-
-SITUATION ACTUELLE : 8e échelon
-
-SITUATION NOUVELLE : 5e échelon
-
-1/2 de l'ancienneté acquise plus 6 mois.
-
-SITUATION ACTUELLE : 7e échelon
-
-a) Plus de 2 ans et 6 mois d'ancienneté dans l'échelon       SITUATION NOUVELLE : 5e échelon
-
-Ancienneté acquise au-delà de 2 ans et 6 mois.
-
-b) Moins de 2 ans et 6 mois d'ancienneté dans l'échelon       SITUATION NOUVELLE : 4e échelon provisoire de reclassement (2)    (2) La durée de présence dans cet échelon affecté de l'indice brut 425 est de 2 ans et 6 mois.
-
-Ancienneté acquise.
-
-SITUATION ACTUELLE : 6e échelon
-
-SITUATION NOUVELLE : 4e échelon
-
-1/2 de l'ancienneté acquise plus 6 mois.
-
-SITUATION ACTUELLE : 5e échelon
-
-a) Plus de 1 an d'ancienneté dans l'échelon       SITUATION NOUVELLE : 4e échelon
-
-Ancienneté acquise au-delà de 1 an.
-
-b) Moins de 1 an d'ancienneté dans l'échelon       SITUATION NOUVELLE : 3e échelon provisoire de reclassement (3)    (3) La durée de présence dans cet échelon affecté de l'indice brut 375 est de 1 an.
-
-------Ancienneté acquise.
-
-SITUATION ACTUELLE : 4e échelon
-
-SITUATION NOUVELLE : 3e échelon
-
-Ancienneté acquise plus 6 mois.
-
-SITUATION ACTUELLE : 3e échelon
-
-a) Plus de 9 mois d'ancienneté dans l'échelon       SITUATION NOUVELLE : 3e échelon
-
-2/3 de l'ancienneté acquise au-delà de 9 mois.
-
-b) Moins de 9 mois d'ancienneté dans l'échelon       SITUATION NOUVELLE : 2e échelon provisoire de reclassement (4)    (4) La durée de présence dans cet échelon affecté de l'indice brut 339 est de 9 mois.
-
-Ancienneté acquise.
-
-SITUATION ACTUELLE : 2e échelon
-
-SITUATION NOUVELLE : 2e échelon
-
-2/3 de l'ancienneté acquise.
-
-SITUATION ACTUELLE : 1er échelon
-
-SITUATION NOUVELLE : 1er échelon
-
-Ancienneté acquise.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SITUATION ANTERIEURE </p>
+<br/>
+<p align="center">Pédicures-podologues, </p>
+<br/>
+<p align="center">orthophonistes, </p>
+<br/>
+<p align="center">orthoptistes, </p>
+<br/>
+<p align="center">diététiciens</p>
+</td>
+<td colspan="2">
+<p align="center">SITUATION NOUVELLE </p>
+<br/>
+<p align="center">Pédicures-podologues, </p>
+<br/>
+<p align="center">orthophonistes, </p>
+<br/>
+<p align="center">orthoptistes, </p>
+<br/>
+<p align="center">diététiciens</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Echelons</p>
+</td>
+<td>
+<p align="center">Echelons</p>
+</td>
+<td>
+<p align="center">Ancienneté conservée dans l'échelon</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Classe normale</p>
+</td>
+<td colspan="2">
+<p align="center">Classe normale créée à compter du 1er août 1993</p>
+</td>
+</tr>
+<tr>
+<td>
+<pre> </pre>
+</td>
+<td>
+<p align="center">8e</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>7e</p>
+</td>
+<td>
+<p align="center">7e</p>
+</td>
+<td>
+<p>¼ de l'ancienneté acquise dans la limite d'un an</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e</p>
+</td>
+<td>
+<p align="center">6e</p>
+</td>
+<td>
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e</p>
+</td>
+<td>
+<p align="center">5e</p>
+</td>
+<td>
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e</p>
+</td>
+<td>
+<p align="center">4e</p>
+</td>
+<td>
+<p>¾ de l'ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e</p>
+</td>
+<td>
+<p align="center">3e</p>
+</td>
+<td>
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e</p>
+</td>
+<td>
+<p align="center">2e</p>
+</td>
+<td>
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er</p>
+</td>
+<td rowspan="2">
+<p align="center">1er</p>
+</td>
+<td rowspan="2">
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+</tbody>
+</table>

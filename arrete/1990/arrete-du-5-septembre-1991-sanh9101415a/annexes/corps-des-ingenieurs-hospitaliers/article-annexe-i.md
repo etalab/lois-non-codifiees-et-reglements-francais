@@ -2,23 +2,81 @@
 
 Ingénieur subdivisionnaire
 
-9e  échelon : indice brut : 701
+10e  échelon (1)
 
-8e  échelon : indice brut : 659
+Situation nouvelle à compter du 1er aou^t 1993 : indice brut : 750 9e  échelon :
 
-7e  échelon : indice brut : 612
+Situation antérieure : indice brut : 701
 
-6e  échelon : indice brut : 579
+Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
 
-5e  échelon : indice brut : 528
+710
 
-4e  échelon : indice brut : 482
+8e  échelon :
 
-3e  échelon : indice brut : 448
+Situation antérieure : indice brut : 659
 
-2e  échelon : indice brut : 420
+Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
 
-1er échelon : indice brut : 379
+668
+
+7e  échelon :
+
+Situation antérieure : indice brut : 612
+
+Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+
+621
+
+6e  échelon :
+
+Situation antérieure : indice brut : 579
+
+Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+
+588
+
+5e  échelon :
+
+Situation antérieure : indice brut : 528
+
+Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+
+540
+
+4e  échelon :
+
+Situation antérieure : indice brut : 482
+
+Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+
+492
+
+3e  échelon :
+
+Situation antérieure : indice brut : 448
+
+Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+
+458
+
+2e  échelon :
+
+Situation antérieure : indice brut : 420
+
+Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+
+430
+
+1er échelon :
+
+Situation antérieure : indice brut : 379
+
+Situation nouvelle à compter du 1er aou^t 1993 : indice brut :
+
+379
+
+(1) Echelon créé à compter du 1er aou^t 1993.
 
 Ingénieur en chef
 

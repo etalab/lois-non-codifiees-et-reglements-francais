@@ -1,149 +1,161 @@
 # Article 45
 
-Les infirmiers spécialisés titulaires du certificat d'aptitude aux fonctions d'infirmier de salle d'opération sont reclassés dans le corps des infirmiers de salle d'opération au grade d'infirmier de salle d'opération de classe normale selon le tableau de correspondance qui suit :
+Les infirmiers de bloc opératoire sont reclassés dans le corps des infirmiers de bloc opératoire au grade d'infirmier de bloc opératoire de classe normale suivant le tableau de correspondance qui suit :
 
-SITUATION ACTUELLE
+SITUATION antérieure Infirmiers de bloc opératoire
 
-Infirmier spécialisé : 11e échelon (plus de 2 ans d'ancienneté dans l'échelon)
+Echelons
 
-SITUATION NOUVELLE
+Classe normale
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 8e échelon : ancienneté acquise au-delà de 2 ans.
+8e échelon
 
-SITUATION ACTUELLE
+SITUATION NOUVELLE Infirmiers de bloc opératoire
 
-Infirmier spécialisé : 11e échelon (moins de 2 ans d'ancienneté dans l'échelon
+Echelons
 
-SITUATION NOUVELLE
+Classe normale créée à compter du 1er août 1993
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 7e échelon provisoire de reclassement : ancienneté acquise.(1)
+7e échelon
 
-(1) La durée de présence dans cet échelon affecté de l'indice brut 493 est de 2 ans.
+Ancienneté conservée dans l'échelon
 
-SITUATION ACTUELLE
+1/4 de l'ancienneté acquise dans la limite de 2 ans.
 
-Infirmier spécialisé : 10e échelon (plus de 2 ans d'ancienneté dans l'échelon)
+SITUATION antérieure Infirmiers de bloc opératoire
 
-SITUATION NOUVELLE
+Echelons
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 7e échelon : ancienneté acquise au-delà de 2 ans.
+Classe normale
 
-SITUATION ACTUELLE
+7e échelon
 
-Infirmier spécialisé : 10e échelon (moins de 2 ans d'ancienneté dans l'échelon)
+SITUATION NOUVELLE Infirmiers de bloc opératoire
 
-SITUATION NOUVELLE
+Echelons
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 6e échelon provisoire de reclassement : ancienneté acquise.(2)
+Classe normale créée à compter du 1er août 1993
 
-(2) La durée de présence dans cet échelon affecté de l'indice brut 487 est de 2 ans.
+7e échelon
 
-SITUATION ACTUELLE
+Ancienneté conservée dans l'échelon
 
-Infirmier spécialisé : 9e échelon
+1/4 de l'ancienneté acquise dans la limite de 1 an.
 
-SITUATION NOUVELLE
+SITUATION antérieure Infirmiers de bloc opératoire
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 6e échelon : 1/2 de l'ancienneté acquise plus 6 mois.
+Echelons
 
-SITUATION ACTUELLE
+Classe normale
 
-Infirmier spécialisé : 8e échelon (plus de 2 ans d'ancienneté dans l'échelon)
+6e échelon
 
-SITUATION NOUVELLE
+SITUATION NOUVELLE Infirmiers de bloc opératoire
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 6e échelon : 1/2 de l'ancienneté acquise au-delà de 2 ans.
+Echelons
 
-SITUATION ACTUELLE
+Classe normale créée à compter du 1er août 1993
 
-Infirmier spécialisé : 8e échelon (moins de 2 ans d'ancienneté dans l'échelon)
+6e échelon
 
-SITUATION NOUVELLE
+Ancienneté conservée dans l'échelon
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 5e échelon : ancienneté acquise plus 2 ans.
+Ancienneté acquise.
 
-SITUATION ACTUELLE
+SITUATION antérieure Infirmiers de bloc opératoire
 
-Infirmier spécialisé : 7e échelon
+Echelons
 
-SITUATION NOUVELLE
+Classe normale
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 5e échelon : 1/2 de l'ancienneté acquise plus 6 mois.
+5e échelon
 
-SITUATION ACTUELLE
+SITUATION NOUVELLE Infirmiers Echelons
 
-Infirmier spécialisé : 6e échelon (plus de 1 an et 6 mois d'ancienneté dans l'échelon
+Classe normale créée à compter du 1er août 1993
 
-SITUATION NOUVELLE
+5e échelon
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 5e échelon : ancienneté acquise au-delà de 1 an 6 mois.
+Ancienneté conservée dans l'échelon
 
-SITUATION ACTUELLE
+Ancienneté acquise.
 
-Infirmier spécialisé : 6e échelon (moins de 1 an et 6 mois d'ancienneté dans l'échelon)
+SITUATION antérieure Infirmiers de bloc opératoire
 
-SITUATION NOUVELLE
+Echelons
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 4e échelon provisoire de reclassement : ancienneté acquise.(3)
+Classe normale
 
-(3) La durée de présence dans cet échelon affecté de l'indice brut 425 est de 1 an et 6 mois.
+4e échelon
 
-SITUATION ACTUELLE
+SITUATION NOUVELLE Infirmiers de bloc opératoire
 
-Infirmier spécialisé : 5e échelon
+Echelons
 
-SITUATION NOUVELLE
+Classe normale créée à compter du 1er août 1993
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 4e échelon : 1/2 de l'ancienneté acquise plus 6 mois.
+4e échelon
 
-SITUATION ACTUELLE
+Ancienneté conservée dans l'échelon
 
-Infirmier spécialisé : 4e échelon (plus de 1 an d'ancienneté dans l'échelon)
+3/4 de l'ancienneté acquise.
 
-SITUATION NOUVELLE
+SITUATION antérieure Infirmiers de bloc opératoire
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 4e échelon : ancienneté acquise au-delà de 1 an.
+Echelons
 
-SITUATION ACTUELLE
+Classe normale
 
-Infirmier spécialisé : 4e échelon (moins de 1 an d'ancienneté dans l'échelon)
+3e échelon
 
-SITUATION NOUVELLE
+SITUATION NOUVELLE Infirmiers de bloc opératoire
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 3e échelon provisoire de reclassement : ancienneté acquise.(4)
+Echelons
 
-(4) La durée de présence dans cet échelon affecté de l'indice brut 375 est de 1 an.
+Classe normale créée à compter du 1er août 1993
 
-SITUATION ACTUELLE
+3e échelon
 
-Infirmier spécialisé : 3e échelon
+Ancienneté conservée dans l'échelon
 
-SITUATION NOUVELLE
+Ancienneté acquise.
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 3e échelon : ancienneté acquise plus 6 mois.
+SITUATION antérieure Infirmiers de bloc opératoire
 
-SITUATION ACTUELLE
+Echelons
 
-Infirmier spécialisé : 2e échelon (plus de 9 mois d'ancienneté dans l'échelon)
+Classe normale
 
-SITUATION NOUVELLE
+2e échelon
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 3e échelon : 2/3 de l'ancienneté au-delà de 9 mois.
+SITUATION NOUVELLE Infirmiers de bloc opératoire
 
-SITUATION ACTUELLE
+Echelons
 
-Infirmier spécialisé : 2e échelon (moins de 9 mois d'ancienneté dans l'échelon)
+Classe normale créée à compter du 1er août 1993
 
-SITUATION NOUVELLE
+2e échelon
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 2e échelon provisoire de reclassement : ancienneté acquise.(5)
+Ancienneté conservée dans l'échelon
 
-(5) La durée de présence dans cet échelon affecté de l'indice brut 339 est de 9 mois.
+Ancienneté acquise.
 
-SITUATION ACTUELLE
+SITUATION antérieure Infirmiers de bloc opératoire
 
-Infirmier spécialisé : 1er échelon
+Echelons
 
-SITUATION NOUVELLE
+Classe normale
 
-Infirmier de salle d'opération de classe normale (ancienneté conservée) 2e échelon : sans ancienneté.
+1er échelon
+
+SITUATION NOUVELLE Infirmiers de bloc opératoire
+
+Echelons
+
+Classe normale créée à compter du 1er août 1993
+
+1er échelon
+
+Ancienneté conservée dans l'échelon
+
+Ancienneté acquise.

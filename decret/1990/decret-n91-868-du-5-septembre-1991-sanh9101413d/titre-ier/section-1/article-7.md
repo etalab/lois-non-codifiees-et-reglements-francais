@@ -60,20 +60,22 @@ Ingénieur en chef
 
 Ingénieur subdivisionnaire
 
-9e  échelon.
+10e  échelon.
 
-8e  échelon : ancienneté moyenne : 4 ans
+9e  échelon : ancienneté moyenne : 3 ans 6 mois
 
-7e  échelon : ancienneté moyenne : 4 ans
+8e  échelon : ancienneté moyenne : 3 ans 6 mois
 
-6e  échelon : ancienneté moyenne : 3 ans 6 mois
+7e  échelon : ancienneté moyenne : 3 ans
 
-5e  échelon : ancienneté moyenne : 3 ans 6 mois
+6e  échelon : ancienneté moyenne : 3 ans
+
+5e  échelon : ancienneté moyenne : 3 ans
 
 4e  échelon : ancienneté moyenne : 3 ans
 
-3e  échelon : ancienneté moyenne : 2 ans 6 mois
+3e  échelon : ancienneté moyenne : 3 ans
 
-2e  échelon : ancienneté moyenne : 1 an 6 mois
+2e  échelon : ancienneté moyenne : 2 an 6 mois
 
 1er échelon : ancienneté moyenne : 1 an

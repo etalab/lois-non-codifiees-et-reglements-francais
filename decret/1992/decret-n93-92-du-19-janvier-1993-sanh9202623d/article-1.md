@@ -12,6 +12,8 @@ Une nouvelle bonification indiciaire dont le montant est pris en compte et soumi
 
 4° Directeurs d'école préparant au diplôme d'Etat de puéricultrice, d'infirmier de bloc opératoire, de manipulateur d'électroradiologie médicale, de masseur-kinésithérapeute et de laborantin d'analyses médicales : 13 points majorés ;
 
+A compter du 1er août 1993, ce montant sera porté à dix-neuf points majorés pour les directeurs d'école préparant au diplôme d'Etat d'infirmier de bloc opératoire.
+
 5° Techniciens de laboratoire placés en cadre d'extinction :
 
 13 points majorés ;

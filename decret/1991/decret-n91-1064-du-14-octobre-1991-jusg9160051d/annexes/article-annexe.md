@@ -8,8 +8,6 @@ Accueil standard.
 
 Moniteur bureautique.
 
-Référent technique à la protection judiciaire de la jeunesse.
-
 Référent technique à l'administration centrale.
 
 Assistante coordinatrice chargée de l'encadrement des assistants sociaux du personnel.
@@ -27,6 +25,8 @@ Assistant de gestion.
 Hôtesse d'accueil.
 
 Agent de sécurité.
+
+Coordinateur de service social chargé de l'organisation de l'accueil au ministère ;
 
 Agent chargé de l'élaboration, de la conception et du suivi des marchés informatiques.
 
@@ -112,6 +112,8 @@ Assistant de gestion chargé de fonctions particulières à la Cour de cassation
 
 Assistant de gestion adjoint chargé de fonctions particulières à la Cour de cassation.
 
+Greffier en chef, délégué à la gestion budgétaire.
+
 (1) Les fonctions exercées par des greffiers en chef nommés sur des emplois du premier grade et classés dans les 1re et 2e catégories ne sont pas bonifiées.
 
 PROTECTION JUDICIAIRE DE LA JEUNESSE
@@ -120,9 +122,7 @@ PROTECTION JUDICIAIRE DE LA JEUNESSE
 
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
 
-Régisseur d'avances et de recettes dont le montant de la régie est égal ou supérieur à 80 000 F.
-
-Régisseur d'avances et de recettes dont le montant de la régie est inférieur à 80 000 F.
+Régisseur d'avances et de recettes .
 
 Directeur d'établissement :
 
@@ -130,7 +130,7 @@ Directeur d'établissement :
 
 - établissement de plus de 35 agents.
 
-Directeur de 2e classe responsable d'un département et d'un centre d'orientation et d'action éducative.
+Directeur responsable d'un département et d'un centre d'action éducative.
 
 Animateur de formation.
 
@@ -142,13 +142,23 @@ Responsable national de l'insertion économique.
 
 Responsable Informatique national.
 
-Chargé de la direction d'un établissement ou d'un service.
+Agent autre que directeur chargé de la direction d'un établissement ou d'un service.
 
 Educateur volant.
 
 Agent technique d'éducation exerçant dans des établissements non pourvus d'un logement de fonction occupé par un directeur ou un éducateur.
 
-Accueil secrétariat.
+Accueil secrétariat ;
+
+Référent technique régional ;
+
+Référent technique à l'administration centrale ;
+
+Directeur de foyer dans un département-ville ;
+
+Chef de service éducatif et éducateur dans les foyers des départements-ville ;
+
+Personnels de catégorie C dans les foyers des départements-ville.
 
 GRANDE CHANCELLERIE DE LA LÉGION D'HONNEUR
 
@@ -171,6 +181,16 @@ Adjoint au responsable du budget.
 Adjoint au chef du bureau de gestion de la Légion d'honneur.
 
 Secrétaire au cabinet du grand chancelier.
+
+Fondé de pouvoir de l'agence comptable ;
+
+Responsable de la comptabilité et du secrétariat du service Bâtiments ;
+
+Adjoint au chef du bureau chargé du service Proposition de la Légion d'honneur ;
+
+Adjoint au chef du bureau chargé du service Gestion de l'ordre national du Mérite ;
+
+Responsable de l'entretien du palais et des services techniques.
 
 MAISONS D'ÉDUCATION DE LA LÉGION D'HONNEUR
 
@@ -197,3 +217,11 @@ Chef d'équipe d'ouvriers d'entretien de la maison d'éducation de Saint-Denis.
 Chef d'équipe d'ouvriers d'entretien de la maison d'éducation des Loges.
 
 Infirmière responsable de la maison d'éducation des Loges.
+
+Chef cuisinier de la maison d'éducation de Saint-Denis ;
+
+Responsable de l'entretien des jardins de la maison d'éducation des Loges ;
+
+Infirmière de la maison d'éducation de Saint-Denis ;
+
+Veilleur de nuit de la maison d'éducation des Loges.

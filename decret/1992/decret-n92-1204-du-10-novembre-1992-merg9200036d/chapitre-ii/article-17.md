@@ -1,6 +1,6 @@
 # Article 17
 
-Les fonctionnaires de l'Etat appartenant à un corps classé dans la catégorie B sont classés au grade d'inspecteur de 2e classe à un échelon déterminé, en prenant en compte, sur la base des durées moyennes fixées à l'article 23 ci-après, pour chaque avancement d'échelon, leur ancienneté dans cette catégorie dans les conditions fixées aux alinéas suivants.
+Les fonctionnaires de l'Etat et de ses établissements publics appartenant à un corps classé dans la catégorie B ou de même niveau sont classés au grade d'inspecteur à un échelon déterminé, en prenant en compte, sur la base des durées moyennes fixées à l'article 23 ci-après, pour chaque avancement d'échelon, leur ancienneté dans cette catégorie dans les conditions fixées aux alinéas suivants.
 
 Cette ancienneté correspond à la durée de la carrière nécessaire pour accéder au grade et à l'échelon que les fonctionnaires intéressés ont atteint à la date de leur nomination comme stagiaire augmentée, le cas échéant, de l'ancienneté acquise dans cet échelon.
 
@@ -16,4 +16,4 @@ L'ancienneté ainsi déterminée n'est pas retenue en ce qui concerne les cinq p
 
 - et à raison des trois quarts pour l'ancienneté acquise au-delà de douze ans.
 
-L'application des dispositions qui précèdent ne peut avoir pour effet de classer un fonctionnaire dans une situation plus favorable que celle qui aurait été la sienne si, préalablement à sa nomination dans le corps des inspecteurs, il avait été promu au grade supérieur ou nommé dans un corps dont l'accès est réservé aux membres de son corps d'origine.
+L'application des dispositions qui précèdent ne peut avoir pour effet de classer un fonctionnaire dans un échelon plus élevé que celui doté d'un indice égal ou, à défaut, immédiatement supérieur à celui de l'échelon terminal de son corps d'origine, ni de lui conférer une situation plus favorable que celle qui aurait été la sienne si, préalablement à sa nomination dans le corps des inspecteurs, il avait été promu au grade supérieur ou nommé dans un corps dont l'accès est réservé aux membres de son corps d'origine.

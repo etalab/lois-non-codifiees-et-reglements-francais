@@ -35,3 +35,5 @@ En ce cas, elle est présidée par le directeur régional des affaires sanitaire
 Les procédures de désignation des membres et la durée des mandats sont fixées par arrêté des ministres chargés des universités et de la santé.
 
 Lorsque les procédures d'agrément et de répartition concernent un ou plusieurs hôpitaux d'instruction des armées, la commission s'adjoint, en outre, un médecin du service de santé des armées désigné par le ministre de la défense.
+
+Lorsque les procédures d'agrément et de répartition concernent le diplôme d'études spécialisées de médecine du travail, la commission s'adjoint le directeur régional du travail et de l'emploi ou son représentant.

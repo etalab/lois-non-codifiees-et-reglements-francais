@@ -1,6 +1,6 @@
 # Article 48-I
 
-Pour l'application de l'article 16 ter du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites suivant les correspondances fixées pour le personnel en activité par les articles 40 à 48 ci-dessus et par les deuxième et troisième alinéas du présent article.
+Pour l'application de l'article 16 ter du décret du 9 septembre 1965 susvisé, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites suivant les correspondances fixées pour le personnel en activité par les articles 40 à 48, par les deuxième et troisième alinéas du présent article ainsi que par les articles 48-II et 48-III.
 
 Pour les surveillants des services médicaux, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 dudit décret sont faites à compter du 1er août 1992 suivant le tableau de correspondance ci-après :
 

@@ -6,75 +6,63 @@ CORPS DES PUERICULTRICES
 
 Infirmier de bloc opératoire de classe normale ou puéricultrice de classe normale :
 
-8e échelon :
+8e échelon
 
-Situation antérieure Indice brut : 493
+indices bruts : 558
 
-Au 1er août 1991 Indice brut : 493
+7e échelon
 
-Au 1er août 1992 Indice brut : 493
+indices bruts : 519
 
-7e échelon :
+6e échelon
 
-Situation antérieure Indice brut : 487
+indices bruts : 480
 
-Au 1er août 1991 Indice brut : 487
+5e échelon
 
-Au 1er août 1992 Indice brut : 487
+indices bruts : 443
 
-6e échelon :
+4e échelon
 
-Situation antérieure Indice brut : 460
+indices bruts : 407
 
-Au 1er août 1991 Indice brut : 460
+3e échelon
 
-Au 1er août 1992 Indice brut : 460
+indices bruts : 372
 
-5e échelon :
+2e échelon
 
-Situation antérieure Indice brut : 380
+indices bruts : 346
 
-Au 1er août 1991 Indice brut : 382
+1er échelon
 
-Au 1er août 1992 Indice brut : 390
+indices bruts : 322
 
-4e échelon :
+Infirmier de bloc opératoire de classe supérieure
 
-Situation antérieure Indice brut : 343
+Puéricultrice de classe supérieure
 
-Au 1er août 1991 Indice brut : 348
+A compter du 1er août 1994
 
-Au 1er août 1992 Indice brut : 356
+5e échelon
 
-3e échelon :
+indices bruts : 593
 
-Situation antérieure Indice brut : 311
+4e échelon
 
-Au 1er août 1991 Indice brut : 317
+indices bruts : 565
 
-Au 1er août 1992 Indice brut : 326
+3e échelon
 
-2e échelon :
+indices bruts : 530
 
-1er échelon :
+2e échelon
 
-Situation antérieure Indice brut : 286
+indices bruts : 499
 
-Au 1er août 1991 Indice brut : 291
+1er échelon
 
-Au 1er août 1992 Indice brut : 301
-
-Infirmier de bloc opératoire de classe supérieure ou puéricultrice de classe supérieure :
-
-5e échelon        Indices bruts : 533
-
-4e échelon        Indices bruts : 501
-
-3e échelon        Indices bruts : 473
-
-2e échelon        Indices bruts : 441
-
-1er échelon       Indices bruts : 418
+indices bruts : 471
 
 Infirmier de bloc opératoire, surveillant des services médicaux ou puéricultrice, surveillant des services médicaux :
 

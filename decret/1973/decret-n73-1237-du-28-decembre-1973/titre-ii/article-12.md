@@ -5,269 +5,256 @@ La durée moyenne et la durée minimum du temps passé dans chaque échelon sont
 <table>
 <tbody>
 <tr>
-<td width="293">
-<p align="center">GRADES, CLASSES ET ÉCHELONS</p>
+<td rowspan="2" width="361">
+<p align="center">GRADES, CLASSES, ÉCHELONS</p>
 </td>
-<td width="208">
-<p align="center">DURÉE MOYENNE</p>
-</td>
-<td width="179">
-<p align="center">DURÉE MINIMUM</p>
+<td colspan="2" width="319">
+<p align="center">DURÉE</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>Délégués interdépartementaux hors classe :</p>
+<td width="159">
+<p align="center">Moyenne</p>
 </td>
-<td valign="top" width="208"/>
-<td valign="top" width="179"/>
+<td width="160">
+<p align="center">Minimale</p>
+</td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td width="361">
+<p align="center">Directeurs régionaux hors classe</p>
+</td>
+<td width="159">
+<br/>
+</td>
+<td width="160">
+<br/>
+</td>
+</tr>
+<tr>
+<td valign="top" width="361">
 <p>2e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
-</td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
-</td>
+<td valign="top" width="159"/>
+<td valign="top" width="160"/>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>1er échelon</p>
 </td>
-<td valign="top" width="208">
-<p>1 an.</p>
+<td valign="top" width="159">
+<p>2 ans</p>
 </td>
-<td valign="top" width="179">
-<p>1 an.</p>
+<td valign="top" width="160">
+<p>1 an 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>Délégués interdépartementaux de classe normale :</p>
+<td width="361">
+<p align="center">Directeurs régionaux de classe normale</p>
 </td>
-<td valign="top" width="208"/>
-<td valign="top" width="179"/>
+<td valign="top" width="159"/>
+<td valign="top" width="160"/>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>6e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans 6 mois.</p>
+<td valign="top" width="159">
+<p>2 ans 6 mois</p>
 </td>
-<td valign="top" width="179">
-<p>2 ans.</p>
+<td valign="top" width="160">
+<p>2 ans</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>5e échelon</p>
 </td>
-<td valign="top" width="208"/>
-<td valign="top" width="179"/>
+<td valign="top" width="159">
+<p>2 ans</p>
+</td>
+<td valign="top" width="160">
+<p>1 an 6 mois</p>
+</td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>4e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>2 ans</p>
 </td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
+<td valign="top" width="160">
+<p>1 an 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>3e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>2 ans</p>
 </td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
+<td valign="top" width="160">
+<p>1 an 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>2e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>2 ans</p>
 </td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
+<td valign="top" width="160">
+<p>1 an 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>1er échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>2 ans</p>
 </td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="293">
-<p>Délégués hors classe :</p>
-</td>
-<td valign="top" width="208"/>
-<td valign="top" width="179"/>
-</tr>
-<tr>
-<td valign="top" width="293">
-<p>5e échelon</p>
-</td>
-<td valign="top" width="208">
-<p>2 ans 6 mois.</p>
-</td>
-<td valign="top" width="179">
-<p>2 ans.</p>
+<td valign="top" width="160">
+<p>1 an 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>4e échelon</p>
+<td width="361">
+<p align="center">Délégués</p>
 </td>
-<td valign="top" width="208">
-<p>3 ans.</p>
+<td valign="top" width="159"/>
+<td valign="top" width="160"/>
+</tr>
+<tr>
+<td valign="top" width="361">
+<p>12e échelon</p>
 </td>
-<td valign="top" width="179">
-<p>2 ans 6 mois.</p>
+<td valign="top" width="159"/>
+<td valign="top" width="160"/>
+</tr>
+<tr>
+<td valign="top" width="361">
+<p>11e échelon</p>
+</td>
+<td valign="top" width="159">
+<p>4 ans</p>
+</td>
+<td valign="top" width="160">
+<p>3 ans</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>3e échelon</p>
+<td valign="top" width="361">
+<p>10e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>3 ans.</p>
+<td valign="top" width="159">
+<p>3 ans</p>
 </td>
-<td valign="top" width="179">
-<p>2 ans 6 mois.</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="293">
-<p>2e échelon</p>
-</td>
-<td valign="top" width="208">
-<p>3 ans.</p>
-</td>
-<td valign="top" width="179">
-<p>2 ans 6 mois.</p>
+<td valign="top" width="160">
+<p>2 ans 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>1er échelon</p>
+<td valign="top" width="361">
+<p>9e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>3 ans</p>
 </td>
-<td valign="top" width="179">
-<p>2 ans.</p>
+<td valign="top" width="160">
+<p>2 ans 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>Délégués de classe normale :</p>
-</td>
-<td valign="top" width="208"/>
-<td valign="top" width="179"/>
-</tr>
-<tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>8e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>3 ans</p>
 </td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
+<td valign="top" width="160">
+<p>2 ans 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>7e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>3 ans</p>
 </td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
+<td valign="top" width="160">
+<p>2 ans 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>6e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>2 ans 6 mois</p>
 </td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
+<td valign="top" width="160">
+<p>2 ans</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>5e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>2 ans</p>
 </td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
+<td valign="top" width="160">
+<p>1 an 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>4e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>2 ans</p>
 </td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
+<td valign="top" width="160">
+<p>1 an 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>3e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>2 ans</p>
 </td>
-<td valign="top" width="179">
-<p>I an 6 mois.</p>
+<td valign="top" width="160">
+<p>1 an 6 mois</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
+<td valign="top" width="361">
 <p>2e échelon</p>
 </td>
-<td valign="top" width="208">
-<p>2 ans.</p>
+<td valign="top" width="159">
+<p>1 an</p>
 </td>
-<td valign="top" width="179">
-<p>1 an 6 mois.</p>
+<td valign="top" width="160">
+<p>1 an</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="293">
-<p>1er échelon et stage</p>
+<td valign="top" width="361">
+<p>1er échelon</p>
 </td>
-<td valign="top" width="208">
-<p>1 an.</p>
+<td valign="top" width="159">
+<p>1 an</p>
 </td>
-<td valign="top" width="179">
-<p>1 an.</p>
+<td valign="top" width="160">
+<p>1 an</p>
 </td>
 </tr>
 </tbody>

@@ -1,6 +1,6 @@
 # Article 21
 
-I. - Dans la classe normale, l'ancienneté moyenne donnant accès à l'échelon supérieur est d'un an dans le 1er échelon, de deux ans dans le 2e échelon, de trois ans dans le 3e échelon, de quatre ans dans chacun des 4e, 5e et 6e échelons.
+Dans la classe normale, l'ancienneté moyenne donnant accès à l'échelon supérieur est de un an au 1er échelon, de deux ans au 2e échelon, de trois ans aux 3e, 4e et 5e échelons, de quatre ans aux 5e, 6e et 7e échelons.
 
 L'échelon exceptionnel est accessible aux agents ayant une ancienneté moyenne de trois ans dans le 7e échelon et titulaires de l'un des diplômes suivants :
 

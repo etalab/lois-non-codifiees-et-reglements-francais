@@ -1,6 +1,6 @@
 # Article 61
 
-Peuvent être inscrits au tableau d'avancement au grade de technicien en chef de laboratoire, les techniciens principaux de laboratoire comptant au moins dix années de services effectifs dans le corps des techniciens de l'éducation nationale dont quatre en qualité de technicien principal.
+Peuvent être inscrits au tableau d'avancement au grade de technicien en chef de laboratoire, les techniciens principaux de laboratoire comptant au moins dix années de services effectifs dans le corps des techniciens de laboratoire des établissements d'enseignement, dont quatre en qualité de technicien principal de laboratoire.
 
 Les techniciens principaux de laboratoire nommés au grade de technicien en chef de laboratoire sont reclassés à un échelon numériquement égal à celui qu'ils avaient atteint en tant que technicien principal de laboratoire.
 

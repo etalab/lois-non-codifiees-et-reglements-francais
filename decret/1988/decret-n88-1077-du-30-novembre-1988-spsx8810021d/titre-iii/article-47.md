@@ -2,88 +2,122 @@
 
 Les infirmiers en fonctions sont reclassés dans le corps des infirmiers au grade d'infirmier de classe normale selon le tableau de correspondance qui suit :
 
-Situation actuelle : échelon exceptionnel
-
-Situation nouvelle : échelon exceptionnel.
-
-Ancienneté conservée : ancienneté acquise + 1 an.
-
-Situation actuelle : 11ème échelon : infirmier diplômé de secteur psychiatrique
-
-Situation nouvelle : 6ème échelon.
-
-Ancienneté conservée : ancienneté acquise + 2 ans.
-
-Situation actuelle : 11ème échelon : infirmier diplômé d'Etat ayant plus de deux ans d'ancienneté dans l'échelon
-
-Situation nouvelle : échelon exceptionnel.
-
-Ancienneté conservée : moitié de l'ancienneté acquise au-delà de 2 ans.
-
-Situation actuelle : 11e échelon : Infirmiers diplômés d'Etat ayant moins de 2 ans d'ancienneté dans l'échelon
-
-Situation nouvelle (ancienneté conservée) 6e échelon provisoire de reclassement : ancienneté acquise.(1)
-
-(1) La durée de présence dans cet échelon affecté de l'indice brut 487 est de 2 ans.
-
-Situation actuelle : 10e échelon
-
-Situation nouvelle (ancienneté conservée) 6e échelon : 1/2 ancienneté acquise plus 6 mois.
-
-Situation actuelle : 9e échelon (plus de 2 ans d'ancienneté dans l'échelon)
-
-Situation nouvelle (ancienneté conservée) 6e échelon : 1/2 ancienneté acquise au-delà de 2 ans.
-
-Situation actuelle : 9e échelon (moins de 2 ans d'ancienneté dans l'échelon)
-
-Situation nouvelle (ancienneté conservée) 5e échelon : ancienneté acquise plus de 2 ans.
-
-Situation actuelle : 8e échelon
-
-Situation nouvelle (ancienneté conservée) 5e échelon : 1/2 ancienneté acquise plus 6 mois.
-
-Situation actuelle : 7e échelon (plus de 2 ans et 6 mois d'ancienneté dans l'échelon)
-
-Situation nouvelle (ancienneté conservée) 5e échelon : ancienneté acquise au-delà de 2 ans et 6 mois.
-
-Situation actuelle : 7e échelon (moins de 2 ans et 6 mois d'ancienneté dans l'échelon)
-
-Situation nouvelle (ancienneté conservée) 4e échelon provisoire de reclassement : ancienneté acquise.(2)
-
-(2) La durée de présence dans cet échelon affecté de l'indice brut 425 est de 2 ans et 6 mois.
-
-Situation actuelle : 6e échelon
-
-Situation nouvelle (ancienneté conservée) 4e échelon : 1/2 de l'ancienneté acquise plus 6 mois.
-
-Situation actuelle : 5e échelon (plus de 1 an d'ancienneté dans l'échelon
-
-Situation nouvelle (ancienneté conservée) 4e échelon : ancienneté acquise au-delà de 1 an.
-
-Situation actuelle : 5e échelon (moins de 1 an d'ancienneté dans l'échelon
-
-Situation nouvelle (ancienneté conservée) 3e échelon provisoire de reclassement : ancienneté acquise.(3)
-
-(3) La durée de présence dans cet échelon affecté de l'indice brut 375, est de 1 an.
-
-Situation actuelle : 4e échelon
-
-Situation nouvelle (ancienneté conservée) 3e échelon : ancienneté acquise plus 6 mois.
-
-Situation actuelle : 3e échelon (plus de 9 mois d'ancienneté dans l'échelon
-
-Situation nouvelle (ancienneté conservée) 3e échelon : 2/3 ancienneté acquise au-delà de 9 mois.
-
-Situation actuelle : 3e échelon (moins de 9 mois d'ancienneté dans l'échelon)
-
-Situation nouvelle (ancienneté conservée) 2e échelon provisoire de reclassement : ancienneté acquise.(4)
-
-(4) La durée de présence dans cet échelon affecté de l'indice brut 339, est de 9 mois.
-
-Situation actuelle : 2e échelon
-
-Situation nouvelle (ancienneté conservée) 2e échelon : 2/3 ancienneté acquise.
-
-Situation actuelle : 1er échelon
-
-Situation nouvelle (ancienneté conservée) 1er échelon : ancienneté acquise.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SITUATION ANTERIEURE</p>
+</td>
+<td colspan="2">
+<p align="center">SITUATION NOUVELLE</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Infirmiers</p>
+</td>
+<td colspan="2">
+<p align="center">Infirmiers</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Echelons</p>
+</td>
+<td>
+<p align="center">Echelons</p>
+</td>
+<td>
+<p align="center">Ancienneté conservée dans l'échelon</p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Classe normale</p>
+</td>
+<td>
+<p align="center">classe normale créée à compter du 1er août 1993</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>7e échelon</p>
+</td>
+<td>
+<p align="center">7e échelon</p>
+</td>
+<td>
+<p>1/4 de l'ancienneté acquise dans la limite de 1 an</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e échelon</p>
+</td>
+<td>
+<p align="center">6e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon</p>
+</td>
+<td>
+<p align="center">5e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon</p>
+</td>
+<td>
+<p align="center">4e échelon</p>
+</td>
+<td>
+<p>3/4 de l'ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="center">3e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="center">2e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="center">1er échelon</p>
+</td>
+<td rowspan="2">
+<p>Ancienneté acquise</p>
+</td>
+</tr>
+</tbody>
+</table>

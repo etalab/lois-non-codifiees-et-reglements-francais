@@ -1,3 +1,3 @@
 # Article 39-1
 
-Les durées d'exercice des fonctions prises en compte pour l'application des articles 5, 10, 15 et 20 et les durées de services prises en compte pour l'application de l'article 29 sont, le cas échéant, complétées, respectivement, par la durée des fonctions exercées et la durée des services accomplis avant l'entrée en vigueur du présent décret, comme titulaire ou stagiaire, dans des emplois d'infirmier, d'infirmier spécialisé ou de puéricultrice.
+Pour l'application des articles 5, 10, 15, 20 et 29 ne sont pas considérés comme services effectifs dans les corps considérés, les services pris en compte au titre des bonifications d'ancienneté mentionnées aux II des articles 4, 9, 14 et 19 ni les services accomplis dans les conditions fixées aux articles 25 et 49-III du présent décret.

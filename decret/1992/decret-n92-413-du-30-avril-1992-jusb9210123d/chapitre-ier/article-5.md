@@ -34,32 +34,70 @@ DURÉE minimum
 
 2e échelon 2 ans 6 mois 1 an s 6 mois
 
-1er échelon 2 ans 6 mois 1 an s 6 mois
+1er échelon 2 ans 6 mois 1 an 6 mois
 
-3e grade :
+3e grade
 
-1re classe 5e échelon
+12e
 
-4e échelon 2 ans 6 mois 2 ans 6 mois
+11e
 
-3e échelon 3 ans 6 mois 2 ans 6 mois
+4 ans
 
-2e échelon 3 ans 6 mois 2 ans 6 mois
+3 ans
 
-1er échelon 3 ans 6 mois 2 ans 6 mois
+10e
 
-2e classe 8e échelon
+3 ans
 
-7e échelon 2 ans 6 mois 1 an s 6 mois
+2 ans 6 mois
 
-6e échelon 2 ans 6 mois 1 an s 6 mois
+9e
 
-5e échelon 2 ans 6 mois 1 an s 6 mois
+3 ans
 
-4e échelon 2 ans 6 mois 1 an s 6 mois
+2 ans 6 mois
 
-3e échelon 2 ans 6 mois 1 an s 6 mois
+8e
 
-2e échelon 2 ans 6 mois 1 an s 6 mois
+3 ans
 
-1er échelon 1 ans 6 mois 1 an s 6 mois
+2 ans 6 mois
+
+7e
+
+3 ans
+
+2 ans 6 mois
+
+6e
+
+2 ans 6 mois
+
+2 ans
+
+5e
+
+2 ans
+
+1 an 6 mois
+
+4e
+
+2 ans
+
+1 an 6 mois
+
+3e
+
+2 ans
+
+1 an 6 mois
+
+2e
+
+1 an
+
+1er
+
+1 an

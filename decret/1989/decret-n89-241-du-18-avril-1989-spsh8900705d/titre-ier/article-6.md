@@ -4,7 +4,7 @@ Les élèves aides-soignants sont recrutés :
 
 1° Parmi les candidats âgés de quarante-cinq ans au plus au 1er janvier de l'année en cours qui ont été reconnus aptes à suivre l'enseignement préparatoire à l'un des titres mentionnés au 1° de l'article 5 ;
 
-2° A raison de 35 p. 100 de l'effectif en formation, parmi les agents des services hospitaliers qualifiés et les agents des services hospitaliers réunissant au moins trois ans de fonctions en ces qualités et ayant fait l'objet d'une sélection professionnelle et d'un avis de la commission administrative paritaire compétente ; ce plafond peut, le cas échéant, être dépassé lorsque la procédure prévue au 1° du présent article n'a pas permis de pourvoir 65 p. 100 des emplois d'élève aide-soignant.
+2° A raison de 35 p. 100 de l'effectif en formation, parmi les agents des services hospitaliers qualifiés, les agents des services hospitaliers hors catégorie et les agents des services hospitaliers réunissant au moins trois ans de fonctions en ces qualités et ayant fait l'objet d'une sélection professionnelle et d'un avis de la commission administrative paritaire compétente ; ce plafond peut, le cas échéant, être dépassé lorsque la procédure prévue au 1° du présent article n'a pas permis de pourvoir 65 p. 100 des emplois d'élève aide-soignant.
 
 Les modalités d'application des dispositions qui précèdent sont fixées par arrêté du ministre chargé de la santé.
 

@@ -1,6 +1,6 @@
 # Article 24
 
-Peuvent être promus au deuxième grade les greffiers en chef du troisième grade appartenant à la 1re classe ou justifiant d'au moins un an d'ancienneté dans le 4e échelon de la 2e classe et ayant accompli cinq ans de services effectifs dans le corps des greffiers en chef. La durée des services effectivement accomplis au titre du service national actif vient, le cas échéant, en déduction de ces cinq années. Il en est de même de la fraction qui excède la douzième année de l'ancienneté déterminée dans un corps, cadre d'emplois ou emploi de catégorie B en application des dispositions de l'article 13 et de la totalité de l'ancienneté qui a été reconnue aux greffiers titulaires de charge lors de leur intégration dans le corps des greffiers en chef. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de trois ans la durée des services effectivement accomplis dans un corps de catégorie A.
+Peuvent être promus au deuxième grade les greffiers en chef du troisième grade ayant atteint au moins le cinquième échelon et ayant accompli cinq années de services effectifs dans le corps des greffiers en chef ou dans un corps de catégorie A. La durée des services effectivement accomplis au titre du service national actif vient, le cas échéant, en déduction de ces cinq années. Il en est de même de la fraction qui excède la douzième année de l'ancienneté déterminée dans un corps, cadre d'emplois ou emploi de catégorie B en application des dispositions de l'article 13 et de la totalité de l'ancienneté qui a été reconnue aux greffiers titulaires de charge lors de leur intégration dans le corps des greffiers en chef. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de trois ans la durée des services effectivement accomplis dans le corps des greffiers en chef ou dans un corps de catégorie A.
 
 Les fonctionnaires mentionnés à l'alinéa précédent doivent avoir été inscrits à un tableau d'avancement établi sur avis de la commission administrative paritaire compétente, au vu des résultats d'une sélection organisée par voie d'examen professionnel.
 
@@ -16,64 +16,68 @@ Les modalités de l'examen et la composition du jury sont fixées par arrêté d
 
 Les fonctionnaires promus sont classés dans les échelons du deuxième grade, conformément aux dispositions du tableau ci-après :
 
-SITUATION dans le 3e grade
+SITUATION dans le troisième grade
 
-Classes et échelons
+SITUATION DANS LE DEUXIÈME GRADE
 
-SITUATION DANS LE 2e GRADE
+Echelons
 
 Echelons
 
 Ancienneté dans l'échelon
 
-1re classe :
+12e
 
-5e échelon 7e
-
-Ancienneté acquise majorée de 1 an  6 mois.
-
-4e échelon  :
-
-- après un an 7e
-
-Ancienneté acquise diminuée de 1 an .
-
-- avan t un an6e
-
-Ancienneté acquise majorée de 3 ans.
-
-3e échelon 6e
+7e
 
 Ancienneté acquise.
 
-2e échelon 5e
+11e
 
-Ancienneté acquise.
-
-1er échelon 4e
-
-Ancienneté acquise.
-
-2e classe :
-
-8e échelon 3e
-
-Ancienneté acquise dans la limite globale de 3 ans.
-
-7e échelon 3e
+7e
 
 Sans ancienneté.
 
-6e échelon 2e
+10e
+
+6e
+
+Ancienneté acquise, majorée d'un tiers dans la limite de 4 ans.
+
+9e
+
+5e
 
 Ancienneté acquise.
 
-5e échelon 1er
+8e
+
+4e
 
 Ancienneté acquise.
 
-4e échelon  :
+7e
 
-- après un an 1er
+4e
 
 Sans ancienneté.
+
+6e :
+
+A partir de 1 an
+
+3e
+
+Deux fois l'ancienneté acquise au-delà de 1 an dans la limite de 3 ans.
+
+Avant 1 an
+
+2e
+
+Ancienneté acquise majorée de 1 an dans la limite de 2 ans.
+
+5e
+
+1er
+
+Ancienneté acquise dans la limite de 2 ans.

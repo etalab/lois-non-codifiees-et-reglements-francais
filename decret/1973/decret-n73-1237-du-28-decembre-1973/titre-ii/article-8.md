@@ -1,3 +1,3 @@
 # Article 8
 
-Les délégués hors classe peuvent être chargés d'une direction interdépartementale.
+Les délégués classés au 9e échelon de leur grade peuvent être chargés d'une direction régionale.

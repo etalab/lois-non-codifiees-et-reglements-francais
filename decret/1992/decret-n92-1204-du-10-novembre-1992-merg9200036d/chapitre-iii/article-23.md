@@ -2,48 +2,122 @@
 
 La durée moyenne et la durée minimum du temps passé dans chacun des échelons et grades d'inspecteur des affaires maritimes sont fixées ainsi qu'il suit :
 
-GRADE
+GRADE ET CLASSE
 
 ÉCHELON
 
-DURÉE
+DURÉE moyenne
 
-Moyenne Minimum
+DURÉE minimale
 
-Inspecteur principal.5
+Inspecteur principal.
 
-44 ans 3 ans
+5e échelon
 
-34 ans 3 ans
+-
 
-24 ans 3 ans
+-
 
-13 ans 2 ans 6 mois
+4e échelon
 
-Inspecteur de 1re classe.5
+4 ans
 
-42 ans 6 mois 2 ans
+3 ans
 
-33 ans 2 ans 6 mois
+3e échelon
 
-23 ans 2 ans 6 mois
+4 ans
 
-13 ans 2 ans 6 mois
+3 ans
 
-Inspecteur de 2e classe.8
+2e échelon
 
-73 ans 2 ans 6 mois
+4 ans
 
-62 ans 1 an 6 mois
+3 ans
 
-52 ans 1 an 6 mois
+1er échelon
 
-42 ans 1 an 6 mois
+3 ans
 
-32 ans 1 an 6 mois
+2 ans 6 mois
 
-22 ans 1 an 6 mois
+Inspecteur.
 
-11 an 1 an
+12e échelon
 
-Stage 1 an 1 an
+-
+
+-
+
+11e échelon
+
+4 ans
+
+3 ans
+
+10e échelon
+
+3 ans
+
+2 ans 6 mois
+
+9e échelon
+
+3 ans
+
+2 ans 6 mois
+
+8e échelon
+
+3 ans
+
+2 ans 6 mois
+
+7e échelon
+
+3 ans
+
+2 ans 6 mois
+
+6e échelon
+
+2 ans 6 mois
+
+2 ans
+
+5e échelon
+
+2 ans
+
+1 an 6 mois
+
+4e échelon
+
+2 ans
+
+1 an 6 mois
+
+3e échelon
+
+2 ans
+
+1 an 6 mois
+
+2e échelon
+
+1 ans
+
+1 an
+
+1er échelon
+
+1 ans
+
+1 an
+
+Stage
+
+1 ans
+
+1 an
