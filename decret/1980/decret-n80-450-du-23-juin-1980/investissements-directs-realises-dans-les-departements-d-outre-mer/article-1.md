@@ -1,0 +1,3 @@
+# Article 1
+
+Les investissements productifs que les entreprises soumises à l'impôt sur les sociétés ou assujetties à un régime réel d'imposition peuvent, à concurrence de moitié, déduire de leurs résultats imposables en vertu du premier alinéa du III de l'article 79 de la loi n° 80-30 du 18 janvier 1980 s'entendent des acquisitions ou créations d'immobilisations neuves, amortissables, affectées aux opérations professionnelles des établissements exploités dans les départements de la Guadeloupe, de la Guyane, de la Martinique ou de la Réunion et appartenant aux secteurs industriel, hôtelier ou de la pêche.
