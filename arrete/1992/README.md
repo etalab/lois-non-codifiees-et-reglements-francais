@@ -495,6 +495,7 @@
 - [Arrêté du 22 janvier 1992 (ECOC9100157A)](arrete-du-22-janvier-1992-ecoc9100157a)
 - [Arrêté du 22 janvier 1992 (SANH9200213A)](arrete-du-22-janvier-1992-sanh9200213a)
 - [Arrêté du 22 juin 1987 (ECOP8700219A)](arrete-du-22-juin-1987-ecop8700219a)
+- [Arrêté du 22 juin 1992 (BUDP9200331A)](arrete-du-22-juin-1992-budp9200331a)
 - [Arrêté du 22 juin 1992 (MERP9200109A)](arrete-du-22-juin-1992-merp9200109a)
 - [Arrêté du 22 juin 1992 (SANM9201494A)](arrete-du-22-juin-1992-sanm9201494a)
 - [Arrêté du 22 mars 1983](arrete-du-22-mars-1983)
