@@ -140,6 +140,46 @@ Emplois de toutes catégories
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Ecole nationale supérieure des mines de Paris
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois scientifiques, techniques et administratifs de recherche
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Ecole nationale supérieure des mines de Saint-Etienne
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois scientifiques, techniques et administratifs de recherche
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Ecole nationale supérieure des techniques industrielles et des mines d'Alès
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois scientifiques, techniques et administratifs de recherche
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Ecole nationale supérieure des techniques industrielles et des mines de Douai
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois scientifiques, techniques et administratifs de recherche
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Ecole nationale supérieure des techniques industrielles et des mines de Nantes
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois scientifiques, techniques et administratifs de recherche
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Etablissement public de la Bibliothèque de France
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
