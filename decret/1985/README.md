@@ -1,6 +1,5 @@
 # 1985
 
-- [Décret n°85-293 du 1 mars 1985](decret-n85-293-du-1-mars-1985)
 - [Décret n°85-294 du 1 mars 1985](decret-n85-294-du-1-mars-1985)
 - [Décret n°85-295 du 1 mars 1985](decret-n85-295-du-1-mars-1985)
 - [Décret n°85-830 du 2 août 1985](decret-n85-830-du-2-aout-1985)
