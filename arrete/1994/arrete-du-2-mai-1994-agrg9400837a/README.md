@@ -1,9 +1,6 @@
 # Arrêté du 2 mai 1994 fixant les conditions sanitaires de préparation des aliments pour animaux de compagnie
 
 - [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 2 bis](article-2-bis.md)
-- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
@@ -15,7 +12,6 @@
 - [Article 12](article-12.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
-- [Article 17](article-17.md)
 - [Article 19](article-19.md)
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
