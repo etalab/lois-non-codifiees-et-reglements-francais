@@ -1,6 +1,6 @@
 # Article 3
 
-Chaque session d'examen fait l'objet d'une publicité au Journal officiel de la République française, qui précise la date limite de dépôt des inscriptions, la date des épreuves, la liste des centres d'examen et l'adresse à laquelle les candidatures doivent être déposées. Le président du Centre national de la fonction publique territoriale assure cette publicité.
+Chaque session d'examen fait l'objet d'une publicité au Journal officiel de la République française, qui précise la date limite de dépôt des inscriptions, la date des épreuves et l'adresse à laquelle les candidatures doivent être déposées. Le délégué régional ou interdépartemental du Centre national de la fonction publique territoriale assure cette publicité.
 
 Le jury de l'examen professionnel ci-dessus mentionné est nommé par arrêté du président du Centre national de la fonction publique territoriale.
 

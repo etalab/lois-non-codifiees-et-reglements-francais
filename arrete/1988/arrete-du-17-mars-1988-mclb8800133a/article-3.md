@@ -1,15 +1,17 @@
 # Article 3
 
-Les jurys de l'examen professionnel sont nommés par arrêté du président du Centre national de la fonction publique territoriale.
+Le jury de l'examen professionnel est nommé par arrêté du président du centre de gestion compétent.
 
-Le jury [*composition*] comprend, outre le président, cinq membres ainsi répartis :
+" Le jury comprend, outre le président, six membres ainsi répartis :
 
-- deux fonctionnaires territoriaux de catégorie A ;
+" - un fonctionnaire territorial de catégorie A et un fonctionnaire du cadre d'emplois ou de la catégorie correspondant, désigné dans les conditions définies à l'article 14 du décret du 20 novembre 1985 susvisé ;
 
-- une personnalité qualifiée ;
+" - une personnalité qualifiée ;
 
-- deux élus locaux dont au moins un représentant des régions ou des départements.
+" - deux élus locaux ;
 
-Les correcteurs sont désignés par le président du Centre national de la fonction publique territoriale pour participer avec les membres du jury à la correction des épreuves. Ils délibèrent avec le jury avec voix consultative pour noter les épreuves qu'ils ont corrigées.
+" - un représentant du Centre national de la fonction publique territoriale, en application de l'article 42 de la loi du 26 janvier 1984 susvisée.
 
-Les épreuves sont anonymes ; chaque composition est corrigée par deux correcteurs.
+" Les correcteurs sont désignés par le président du centre de gestion compétent pour participer avec les membres du jury à la correction des épreuves. Ils délibèrent avec le jury, avec voix consultative, pour noter les épreuves qu'ils ont corrigées.
+
+" Les épreuves sont anonymes ; chaque composition est corrigée par deux correcteurs. "

@@ -1,7 +1,7 @@
 # Article 3
 
-Le programme de l'épreuve de l'examen professionnel au cadre d'emplois des éducateurs des activités physiques et sportives prévue à l'articles 1-3° du décret du 26 mars 1993 susvisé est fixé comme suit :
+L'épreuve de l'examen professionnel d'accès au cadre d'emplois des éducateurs territoriaux des activités physiques et sportives prévue à l'article 1er (3°) du décret du 26 mars 1993 susvisé doit permettre au jury d'apprécier les capacités du candidat à :
 
-Le processus d'élaboration d'un projet : détermination d'objectifs, de moyens, d'indicateurs quantitatifs et qualitatifs ;
+" - élaborer un projet et plus précisément déterminer des objectifs, des moyens, des indicateurs quantitatifs et qualitatifs et prendre en compte le public auquel s'adresse le projet ainsi que le contexte social dans lequel il sera mis en oeuvre ;
 
-La justification des choix au regard des connaissances relatives aux catégories d'activités physiques et sportives, aux publics, au contexte sociologique, économique et politique, aux valeurs associées à la pratique de ces activités.
+" - justifier des choix qu'il a effectués dans la mise au point de son projet. "

@@ -1,6 +1,6 @@
 # Article 3
 
-L'examen professionnel sur épreuves d'accès au grade de technicien territorial chef comporte les épreuves suivantes :
+L'examen professionnel sur épreuves d'accès au grade de technicien territorial chef visés aux articles 18 (2°) et 29 du décret n° 95-29 du 10 janvier 1995 mentionné ci-dessus comporte les épreuves suivantes :
 
 1° Etude d'un dossier technique, examen critique d'un projet ou d'une série de réponses à un questionnaire (durée : quatre heures ; coefficient 5).
 

@@ -21,3 +21,5 @@ Le programme et le niveau de cette épreuve sont ceux du baccalauréat de l'ense
 - techniques sanitaires (durée : deux heures ; coefficient 2).
 
 Le programme de ces deux dernières épreuves est fixé en annexe du décret du 6 mai 1988 susvisé.
+
+Pour les épreuves mentionnées aux 2°, 3°, 4° et 5° du présent article, le candidat choisit au moment de l'inscription à l'examen l'option dans laquelle il souhaite subir l'épreuve concernée.

@@ -1,6 +1,6 @@
 # Article 2
 
-Peuvent être inscrits sur un tableau d'avancement au grade de technicien territorial chef les fonctionnaires territoriaux mentionnés au b de l'article 18 du décret du 6 mai 1988 susvisé et qui justifient de la possession de l'un des titres ou diplômes suivants :
+Peuvent être inscrits sur un tableau d'avancement au grade de technicien territorial chef les fonctionnaires territoriaux mentionnés de l'article 18 (2°) et de l'article 29 du décret n° 95-29 du 10 janvier 1995 portant statut particulier du cadre d'emplois des techniciens territoriaux et qui justifient de la possession de l'un des titres ou diplômes suivants :
 
 1° Titre ou diplôme homologué au moins au niveau III des titres et diplômes de l'enseignement technologique en application de l'article 8 de la loi n° 71-577 du 16 juillet 1971 susvisée ;
 

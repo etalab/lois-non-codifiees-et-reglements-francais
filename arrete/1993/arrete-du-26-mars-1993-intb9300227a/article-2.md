@@ -1,19 +1,49 @@
 # Article 2
 
-Le programme de l'épreuve de l'examen professionnel au cadre d'emplois des éducateurs territoriaux des activités physiques et sportives prévue à l'article 1er (2°) du décret du 26 mars 1993 susvisé est fixé comme suit :
+I. - L'épreuve de l'examen professionnel d'accès au cadre d'emplois des éducateurs territoriaux des activités physiques et sportives prévue à l'article 1er (2°) du décret du 26 mars 1993 susvisé doit permettre au jury d'apprécier les capacités du candidat à :
 
-La détermination d'objectifs en fonction du rythme et de la succession des tâches au sein d'une séance, de la place d'une séance dans un cycle ;
+" - déterminer les objectifs de la séance qu'il est chargé de conduire, en tenant compte du fait que cette séance s'inscrit dans un cycle d'activités ;
 
-L'organisation et la gestion d'un groupe ;
+" - organiser et gérer le groupe qu'il dirige ;
 
-La communication avec un groupe et la relation avec un pratiquant sportif.
+" - communiquer avec ce groupe et avec des pratiquants sportifs.
 
-Le candidat appuie sa réflexion sur des indices relatifs au déroulement de la séance, à l'activité des pratiquants sportifs, à sa propre implication.
+" II. - Le programme de chacune des options prévues à l'article 1er (2°) du décret du 26 mars 1993 susvisé est le suivant :
 
-Cette réflexion permet de vérifier les connaissances théoriques du candidat qui aident à l'interprétation :
+" Groupe 1
 
-- de l'activité des pratiquants sportifs ;
+" Pratiques individuelles
 
-- du fonctionnement du groupe ;
+et activités au service de l'hygiène et de la santé
 
-- des choix pédagogiques et didactiques.
+" Activités de gymnastique : gymnastique artistique, gymnastique rythmique et sportive.
+
+" Activités aquatiques : natation.
+
+" Activités athlétiques : course, saut, lancer.
+
+" Activités au service de l'hygiène et de la santé : relaxation, gymnastique douce.
+
+" Groupe 2
+
+" Pratiques duelles
+
+" Activités de raquettes : tennis, badminton, tennis de table.
+
+" Activités d'opposition : judo, boxe, escrime, lutte, karaté.
+
+" Groupe 3
+
+" Jeux et sports collectifs
+
+" Football, basket-ball, handball, rugby, volley, hockey, baseball, football américain.
+
+" Groupe 4
+
+" Activités de pleine nature
+
+" Activités nautiques : voile, canoë-kayak.
+
+" Activités terrestres : parcours et course d'orientation, vélo tout terrain, tir à l'arc.
+
+" Activités de montagne : ski, escalade. "
