@@ -1,5 +1,6 @@
 # Décret n°46-1917 du 19 août 1946 sur les attributions des agents diplomatiques et consulaires en matière d'état civil.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
