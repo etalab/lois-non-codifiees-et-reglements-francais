@@ -4,9 +4,9 @@ Un conseil de l'ordre, dont les membres sont commandeurs de droit, est institué
 
 I. - Membres de droit.
 
-Le ministre d'Etat chargé des affaires culturelles ou son représentant.
+Le ministre des affaires culturelles ou son représentant.
 
-Le directeur général des Archives de France.
+Le directeur des Archives de France.
 
 Le directeur général du centre national de la cinématographie.
 
@@ -14,7 +14,9 @@ Le directeur de l'architecture.
 
 Le directeur des musées de France.
 
-Le directeur des spectacles, de la musique et des lettres.
+Le directeur du théâtre, des maisons de la culture et des lettres.
+
+Le directeur de la musique, de l'art lyrique et de la danse.
 
 Le directeur de l'administration générale.
 
