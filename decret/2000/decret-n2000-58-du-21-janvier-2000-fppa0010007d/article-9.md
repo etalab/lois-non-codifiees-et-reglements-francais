@@ -1,5 +1,0 @@
-# Article 9
-
-Les administrateurs de la ville de Paris issus du concours interne nommés dans le corps avant la publication du présent décret et classés, à ce jour, au plus au 6e échelon de la 2e classe peuvent demander, dans un délai de six mois, à bénéficier des conditions de classement dans le corps des administrateurs de la ville de Paris prévues à l'article 9 du décret du 1er mars 1977 susvisé. Il en est de même de ceux issus du troisième concours classés au plus au 5e échelon de la 2e classe.
-
-De la même façon, les administrateurs de la ville de Paris issus du concours interne et classés au 1er échelon de la 1re classe peuvent demander, dans le même délai, leur classement au 2e échelon de la 1re classe si leur situation à la date de publication du présent décret est moins favorable que celle qui aurait résulté de l'application de l'article 9 du décret du 1er mars 1977 précité. Leur ancienneté d'échelon est calculée selon les dispositions prévues aux deuxième et troisième alinéas du même article.

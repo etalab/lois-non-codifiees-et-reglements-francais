@@ -1,3 +1,0 @@
-# Article 5
-
-Les techniciens supérieurs d'études et de fabrications et les ingénieurs d'études et de fabrications stagiaires sont nommés au 1er échelon du premier grade de leur corps ou, s'ils avaient auparavant la qualité de fonctionnaire ou d'agent non titulaire de l'Etat, à un échelon déterminé, pour les techniciens supérieurs d'études et de fabrications, dans les conditions fixées aux articles 7, 7-1, 7-2 et 7-3 du décret n° 89-749 du 18 octobre 1989 susvisé et, pour les ingénieurs d'études et de fabrications, dans les conditions fixées aux articles 9 à 11 du décret n° 89-750 du 18 octobre 1989 susvisé.

@@ -1,5 +1,0 @@
-# Article 8
-
-Les caisses de mutualité sociale délivrent aux agriculteurs, sur leur demande, une attestation comportant les éléments permettant, d'une part, la détermination du seuil mentionné par les dispositions de l'article 3 du présent décret et, d'autre part, l'évaluation de la prise en compte de l'emploi prévue par les dispositions de l'article 6 du présent décret. Une convention est signée entre l'Etat et la Caisse centrale de la mutualité sociale agricole pour définir les modalités de délivrance des attestations et les modalités de remboursement des prestations fournies par la Caisse centrale de mutualité agricole.
-
-Les groupements d'employeurs, constitués en application des dispositions des articles L. 127-1 à L. 127-9 du code du travail, sont tenus de délivrer aux agriculteurs ayant recours aux salariés des groupements dans le cadre d'une mise à disposition et qui leur en font la demande une attestation individuelle comportant les éléments nécessaires au calcul du montant représentant la prise en compte de l'emploi prévue par les dispositions de l'article 6 du présent décret.

@@ -1,3 +1,0 @@
-# Article 3
-
-Pendant une durée d'un an à compter de la date d'entrée en vigueur du présent décret, les capitaines de police accédant à l'échelon exceptionnel de leur grade conservent dans cet échelon l'ancienneté acquise dans le quatrième échelon dans la limite de six mois. Pendant une durée de deux ans à compter de cette même date, par dérogation au second alinéa de l'article 15 du décret n° 95-656 du 9 mai 1995 susvisé dans sa rédaction résultant de l'article 2 du présent décret, l'ancienneté dans l'échelon exceptionnel requise pour l'accès à l'échelon spécial du grade de capitaine est réduite à un an.

@@ -1,5 +1,0 @@
-# Article 24
-
-Lorsqu'un syndicat interhospitalier exerce les missions d'un établissement public de santé, il peut être créé par arrêté du ministre chargé de la santé et sur proposition de son conseil d'administration et avec l'accord des conseils d'administration des établissements qui composent ce syndicat une équipe de direction, pour partie ou dans son intégralité, commune auxdits établissements. La création dans ces conditions d'un emploi de direction commun au niveau du syndicat interhospitalier entraîne la suppression des emplois correspondants dans les établissements concernés.
-
-Le secrétaire général peut être choisi après avis du président du conseil d'administration du syndicat et des présidents du conseil d'administration de chacun des établissements concernés parmi les directeurs desdits établissements. Dans ce cas la nomination intervient sans publication préalable de l'emploi de secrétaire général au Journal officiel. Dans le cas contraire, la nomination intervient selon les dispositions des articles 15, 16 et 17 du présent décret.

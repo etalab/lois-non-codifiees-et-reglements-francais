@@ -1,3 +1,0 @@
-# Article 1
-
-Sans préjudice des recrutements effectués en application du décret du 1er août 1990 susvisé, des recrutements dans les corps d'adjoints administratifs des services déconcentrés du ministère de l'agriculture et de la pêche, d'adjoints administratifs de l'enseignement agricole et d'adjoints administratifs de l'Office national interprofessionnel des céréales sont organisés, à titre exceptionnel, chaque année, pendant une période de trois ans à compter de la date de publication du présent décret, à concurrence de contingents fixés par arrêté conjoint des ministres chargés de la fonction publique, de l'agriculture et du budget, dans la limite des emplois budgétaires ouverts à cet effet par la loi de finances.

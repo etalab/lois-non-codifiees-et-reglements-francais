@@ -1,5 +1,0 @@
-# Article 3
-
-La mise en place de ces prêts est subordonnée à la délivrance par le préfet du département dans lequel sont situées les parcelles concernées d'un certificat attestant de l'engagement du demandeur soit de reporter au-delà du 31 décembre 2001 la réalisation des coupes de bois déjà vendues en 1999, soit de reporter au-delà du 31 décembre 2001 les ventes de coupes de bois prévues en 2000 ou 2001 notamment par le document d'aménagement forestier. Ce certificat fixe également le montant maximum de prêt susceptible de faire l'objet d'une bonification de l'Etat.
-
-Ce certificat est établi après avis d'une commission départementale présidée par le préfet du département ou son représentant associant le trésorier-payeur général ou son représentant, le directeur départemental de l'agriculture et de la forêt ou son représentant et, à titre d'expert, le directeur régional de l'Office national des forêts ou son représentant. Un arrêté du préfet de département désigne les membres de la commission départementale.

@@ -1,3 +1,0 @@
-# Article 2
-
-Les recrutements mentionnés à l'article 1er sont réalisés par la voie de concours comportant une admissibilité sur titres et des épreuves d'admission, ouverts par spécialités aux candidats âgés de quarante ans au plus au 1er janvier de l'année du concours et titulaires, pour les candidats au concours de recrutement dans le corps des techniciens supérieurs d'études et de fabrications, des diplômes mentionnés au 2° de l'article 4 du décret n° 89-749 du 18 octobre 1989 susvisé et, pour les candidats au concours de recrutement dans le corps des ingénieurs d'études et de fabrications, des diplômes mentionnés au 1° de l'article 3 du décret n° 89-750 du 18 octobre 1989 susvisé.

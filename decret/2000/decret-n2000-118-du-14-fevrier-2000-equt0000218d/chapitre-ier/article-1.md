@@ -1,3 +1,0 @@
-# Article 1
-
-Le présent décret est applicable aux salariés des entreprises de transport public urbain de voyageurs, qui ressortissent de la classe 60.2A des nomenclatures d'activité et de produits approuvés par le décret du 2 octobre 1992 susvisé : "60.2A Transports urbains de voyageurs", uniquement pour ce qui concerne le transport urbain ou suburbain de voyageurs, sur des lignes et selon des horaires déterminés, même à caractère saisonnier, par tout moyen, et à l'exclusion des personnels de la Société nationale des chemins de fer français, des salariés des entreprises relevant de la convention collective nationale des chemins de fer secondaires d'intérêt général et des voies ferrées d'intérêt local, et des personnels de la Régie autonome des transports parisiens.
