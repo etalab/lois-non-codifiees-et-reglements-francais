@@ -1126,7 +1126,6 @@
 - [Décret n°95-1074 du 29 septembre 1995 (EQUA9501354D)](decret-n95-1074-du-29-septembre-1995-equa9501354d)
 - [Décret n°95-1075 du 29 septembre 1995 (EQUT9500983D)](decret-n95-1075-du-29-septembre-1995-equt9500983d)
 - [Décret n°95-1327 du 29 décembre 1995 (INTA9500387D)](decret-n95-1327-du-29-decembre-1995-inta9500387d)
-- [Décret n°95-1333 du 29 décembre 1995 (BUDZ9500008D)](decret-n95-1333-du-29-decembre-1995-budz9500008d)
 - [Décret n°95-1342 du 29 décembre 1995 (AGRS9502476D)](decret-n95-1342-du-29-decembre-1995-agrs9502476d)
 - [Décret n°95-1351 du 29 décembre 1995 (EQUT9501830D)](decret-n95-1351-du-29-decembre-1995-equt9501830d)
 - [Décret n°95-1354 du 29 décembre 1995 (TASE9511327D)](decret-n95-1354-du-29-decembre-1995-tase9511327d)

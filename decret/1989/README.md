@@ -348,7 +348,6 @@
 - [Décret n°89-998 du 22 décembre 1989 (SPSH8902682D)](decret-n89-998-du-22-decembre-1989-spsh8902682d)
 - [Décret n°89-999 du 22 décembre 1989 (SPSS8901262D)](decret-n89-999-du-22-decembre-1989-spss8901262d)
 - [Décret n°89-329 du 22 mai 1989 (JUSB8910123D)](decret-n89-329-du-22-mai-1989-jusb8910123d)
-- [Décret n°90-427 du 22 mai 1990 (MENF9000781D)](decret-n90-427-du-22-mai-1990-menf9000781d)
 - [Décret n°89-585 du 23 août 1989 (MAEJ8930073D)](decret-n89-585-du-23-aout-1989-maej8930073d)
 - [Décret n°89-707 du 23 septembre 1985 (MENX8900102D)](decret-n89-707-du-23-septembre-1985-menx8900102d)
 - [Décret n°89-775 du 23 octobre 1989 (MENN8902270D)](decret-n89-775-du-23-octobre-1989-menn8902270d)
