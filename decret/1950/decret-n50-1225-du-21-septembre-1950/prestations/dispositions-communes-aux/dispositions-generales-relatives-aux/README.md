@@ -1,3 +1,0 @@
-# DISPOSITIONS GENERALES RELATIVES AUX SOINS.
-
-- [Article 68](article-68.md)
