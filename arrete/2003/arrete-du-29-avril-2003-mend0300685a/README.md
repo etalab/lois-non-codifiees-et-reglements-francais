@@ -1,4 +1,4 @@
-# Chapitre Ier : Procédure devant la Commission de régulation de l'énergie.
+# Arrêté du 29 avril 2003 portant création de l'Ecole supérieure de l'éducation nationale
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
