@@ -6,4 +6,4 @@ Le demandeur doit produire à la caisse les pièces justifiant qu'il satisfait a
 
 L'intéressé peut faire procéder à sa radiation du registre du commerce et des sociétés ou du répertoire des métiers, ou des deux à la fois en cas de double inscription, postérieurement à la réception de la lettre de la caisse et au plus tard dans les douze mois à compter du jour où l'acceptation de sa demande lui est notifiée par la commission locale prévue à l'article 9 du présent décret.
 
-Il perçoit, après sa radiation, de la caisse à laquelle il est affilié l'indemnité de départ sur présentation du certificat de radiation ou des certificats en cas de double inscription, et s'il justifie de la mise en vente de son fonds de commerce, de son entreprise ou de son droit au bail.
+Il perçoit, après sa radiation, de la caisse à laquelle il est affilié l'indemnité de départ sur présentation du certificat de radiation ou des certificats en cas de double inscription.
