@@ -71,6 +71,7 @@
 - [Décret n°97-7 du 7 janvier 1997 (ECOP9600522D)](decret-n97-7-du-7-janvier-1997-ecop9600522d)
 - [Décret n°97-465 du 7 mai 1997 (TASS9721146D)](decret-n97-465-du-7-mai-1997-tass9721146d)
 - [Décret du 8 avril 1997 (FCEC9700020D)](decret-du-8-avril-1997-fcec9700020d)
+- [Décret n°90-724 du 8 août 1990 (INTB9000208D)](decret-n90-724-du-8-aout-1990-intb9000208d)
 - [Décret n°97-316 du 8 avril 1997 (TASS9720508D)](decret-n97-316-du-8-avril-1997-tass9720508d)
 - [Décret n°97-320 du 8 avril 1997 (EQUP9601258D)](decret-n97-320-du-8-avril-1997-equp9601258d)
 - [Décret n°97-325 du 8 avril 1997 (MAEJ9730026D)](decret-n97-325-du-8-avril-1997-maej9730026d)
