@@ -119,6 +119,7 @@
 - [Décret n°91-1321 du 27 décembre 1991 (EQUS9101240D)](decret-n91-1321-du-27-decembre-1991-equs9101240d)
 - [Décret n°91-1403 du 27 décembre 1991 (BUDZ9100013D)](decret-n91-1403-du-27-decembre-1991-budz9100013d)
 - [Décret n°91-1404 du 27 décembre 1991 (SPSS9102274D)](decret-n91-1404-du-27-decembre-1991-spss9102274d)
+- [Décret n°92-102 du 27 janvier 1992 (INTB92300023D)](decret-n92-102-du-27-janvier-1992-intb92300023d)
 - [Décret n°93-712 du 27 mars 1993 (ACVE9250042D)](decret-n93-712-du-27-mars-1993-acve9250042d)
 - [Décret n°93-713 du 27 mars 1993 (ACVE9250041D)](decret-n93-713-du-27-mars-1993-acve9250041d)
 - [Décret n°93-715 du 27 mars 1993 (ACVE9250022D)](decret-n93-715-du-27-mars-1993-acve9250022d)
