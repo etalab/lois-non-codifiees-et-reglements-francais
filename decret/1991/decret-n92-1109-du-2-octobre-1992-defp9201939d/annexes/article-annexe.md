@@ -1,6 +1,6 @@
 # Article ANNEXE
 
-AU DÉCRET N° 92-1109 DU 2 OCTOBRE 1992
+ANNEXE AU DECRET N° 92-1109 DU 2 OCTOBRE 1992
 
 Fonctions exercées pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire (1)
 
@@ -18,768 +18,928 @@ Tableau VI. - Fonctions relevant du service de santé des armées.
 
 Tableau VII. - Fonctions relevant du service des essences des armées.
 
-TABLEAU I
+TABLEAU I. - Fonctions relevant de l'armée de terre.
 
-FONCTIONS RELEVANT DE L'ARMÉE DE TERRE
+I = DÉSIGNATION DE LA FONCTION
 
-DÉSIGNATION DE LA FONCTION
-
-NIVEAU des responsabilités exercées
+II = NIVEAU des responsabilités exercées
 
 Chef de corps, d'établissement ou de centre, directeur de service de 1er niveau et assimilé.
 
-Officier.
+II = Officier
 
 Chef de corps, d'établissement ou de centre, directeur de service de 1er niveau et assimilé dans un organisme en participation interne ou externe (Partin ou Partex).
 
-Officier.
+II = Officier
 
 Chef de corps, d'établissement ou de centre, directeur de service de 2e niveau et assimilé.
 
-Officier.
+II = Officier
 
 Chef de corps, d'établissement ou de centre, directeur de service de 2e niveau et assimilé dans un organisme en participation interne ou externe (Partin ou Partex).
 
-Officier.
+II = Officier
 
 Commandant de promotion en école de formation.
 
-Officier.
+II = Officier
 
 Chef de projet informatique à l'administration centrale.
 
-Officier.
+II = Officier
 
 Adjoint technique de bureau informatique à l'administration centrale.
 
-Officier.
+II = Officier
 
 Chef de section informatique et assimilé en administration centrale et en état-major territorial et chef de section de système informatique de commandement, au niveau du corps d'armée ou équivalent.
 
-Officier.
+II = Officier
 
 Chef de section d'exploitation en centre de traitement de l'information.
 
-Officier.
-
-Commandant d'unité de tir et de sécurité nucléaire.
-
-Officier.
+II = Officier
 
 Chef de peloton de réparation d'aéronefs.
 
-Officier.
+II = Officier
 
 Expert mécanicien contrôleur d'appareil à voilure tournante et mécanicien ou expérimentateur navigant d'essai.
 
-Sous-officier.
+II = Sous-officier
 
 Technicien de maintien en condition des logiciels.
 
-Sous-officier.
+II = Sous-officier
 
-Chef de bureau ou assimilé, chef de section ou assimilé en administration centrale.
+Chef de bureau et chef de section en administration centrale.
 
-Officier.
+II = Officier
 
-Chef de bureau ou assimilé, chef de section ou assimilé dans un organisme Partin ou Partex.
+Chef de bureau et chef de section dans un organisme Partin ou Partex.
 
-Officier.
+II = Officier
 
 Directeur de l'instruction en école interarmées (Partin ou Partex).
 
-Officier.
+II = Officier
 
 Chef de groupe d'étude et de recherche opérationnelle.
 
-Officier.
+II = Officier
+
+Chef de bureau et chef de section en état-major de région militaire de défense, de circonscription militaire de défense, du corps d'armée et de la force d'action rapide.
+
+II = Officier
+
+Officier de programme à l'état-major de l'armée de terre, à la section technique de l'armée de terre et au service technique des bâtiments, fortification et travaux.
+
+II = Officier
+
+Chef de poste de la direction de la protection et de la sécurité de la défense en région militaire de défense (Partin).
+
+II = Officier
+
+Officier chargé de projet à la direction générale de la sécurité extérieure (Partin).
+
+II = Officier
+
+Conseiller ou expert Terre dans un organisme interarmées ou ministériel (Partin).
+
+II = Officier
 
 Commandant d'unité élémentaire de combat, de commandement et de soutien, ou d'instruction.
 
-Officier.
+II = Officier
 
 Commandant d'unité élémentaire ou équivalent dans un organisme Partin ou Partex.
 
-Officier.
-
-Chef de section de tir et de sécurité nucléaire.
-
-Officier ou sous-officier.
+II = Officier
 
 Officier d'ordinaire.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Officier d'ordinaire dans un organisme Partin ou Partex.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Chef d'atelier de réparation d'appareil à voilure tournante.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Linguiste d'écoute.
 
-Sous-officier.
+II = Sous-officier
 
 Linguiste d'écoute ou linguiste analyste exploitant du renseignement dans un organisme Partin ou Partex.
 
-Sous-officier.
+II = Sous-officier
 
 Superviseur des systèmes Hawk et Rita.
 
-Sous-officier.
+II = Sous-officier
 
 Photo-interprète d'images d'origine spatiale dans un organisme Partin ou Partex.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
-Chef de bureau Conservation du patrimoine et chef de bureau Opérations, chef de section opérationnelle ou de maintenance dans un établissement du génie.
+Chef de bureau conservation du patrimoine et chef de bureau opérations, chef de section opérationnelle ou de maintenance dans un établissement du génie.
 
-Officier.
+II = Officier
 
 Chef de section informatique en division des forces et en école.
 
-Officier.
+II = Officier
 
 Directeur de cercle de garnison répertorié à l'ordre de bataille.
 
-Officier.
+II = Officier
 
-Spécialiste en traitement de l'information des systèmes d'armes de l'artillerie et de la brigade Hadès.
+Sous-officier adjoint des postes de commandement de tir numéro 1 et 2 des régiments d'artillerie sol-sol et chef d'équipe de mise en oeuvre de lance roquette multiple.
 
-Sous-officier.
+II = Sous-officier
 
 Expert informatique.
 
-Sous-officier.
+II = Sous-officier
+
+Chef de bureau et chef de section en état-major de division des forces.
+
+II = Officier
+
+Commandant de division dans un BSN ou un centre du service national et chef de centre de service national (Partin).
+
+II = Officier
+
+Contrôleur à l'union française de vérification (Partin).
+
+II = Officier
+
+Chargé d'études dans les organismes interarmées ou ministériels (Partin).
+
+II = Officier ou sous-officier
+
+Officier Recherche en poste de la direction de la protection et de la sécurité de la défense (Partin).
+
+II = Officier
+
+Officier chargé de mission à la direction générale de la sécurité extérieure (Partin).
+
+II = Officier
+
+Sous-officier, maître de système satellite, officier de quart au centre de contrôle Syracuse II.
+
+II = Officier ou sous-officier
+
+Chef de musique principale.
+
+II = Officier
+
+Commandant de centre d'information et de recrutement de l'armée de terre.
+
+II = Officier
 
 Chef de section de combat, de commandement, de soutien ou d'instruction en unité élémentaire, ou équivalent.
 
-Officier ou sous-officier.
-
-Chef de rampe nucléaire.
-
-Sous-officier.
-
-Chef d'élément de transport d'arme nucléaire.
-
-Sous-officier.
+II = Officier ou sous-officier
 
 Assistant renseignement technique ou administratif à la direction générale de la sécurité extérieure (Partin).
 
-Sous-officier.
+II = Sous-officier
 
 Inspecteur et chef d'antenne de la direction de la protection et de la sécurité de la défense (Partin).
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
-TABLEAU II
+Expert à la sous-direction des bureaux du cabinet ou dans un organisme interarmées (Partin).
 
-FONCTIONS RELEVANT DE LA MARINE
+II = Officier ou sous-officier
 
-DÉSIGNATION DE LA FONCTION
+Sous-officier contrôleur à la direction de la qualité (Partin).
 
-NIVEAU des responsabilités exercées
+II = Sous-officier
+
+Chef de section, de centre ou de service dans un organisme interarmées (Partin).
+
+II = Sous-officier
+
+Chef de bureau de poste militaire.
+
+II = Officier ou sous-officier
+
+Gérant de cercle-mess de garnison.
+
+II = Officier ou sous-officier
+
+Chef de musique régionale ou divisionnaire.
+
+II = Officier ou sous-officier
+
+TABLEAU N° II : Fonctions relevant de la marine
+
+I = DÉSIGNATION DE LA FONCTION
+
+II = NIVEAU des responsabilités exercées
 
 Commandant de bâtiment de combat de surface.
 
-Officier.
+II = Officier
 
 Commandant de bâtiment de soutien, d'essais et d'études ou d'instruction.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Commandant de bâtiment de soutien dans un organisme en participation interne ou externe (Partin ou Partex).
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Commandant de sous-marin.
 
-Officier.
+II = Officier
 
 Commandant de commando et de groupe de plongeurs démineurs.
 
-Officier.
+II = Officier
 
 Commandant de formation de combat ou de soutien de l'aéronautique navale.
 
-Officier.
+II = Officier
 
 Chef de bureau ou de section à l'administration centrale, chef ou adjoint au chef d'un grand organisme ou service central de la marine.
 
-Officier.
+II = Officier
 
 Chef de bureau, de poste ou assimilé dans un organisme Partin ou Partex.
 
-Officier.
+II = Officier
 
 Responsable Gestion ressources humaines à l'échelon central.
 
-Officier.
+II = Officier
 
-Commandant ou directeur d'organisme de soutien, d'études ou d'expérimentations, d'école ou de centre d'instruction.
+Commandant ou directeur d'organisme de soutien d'études ou d'expérimentations, d'école ou de centre d'instruction.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Commandant d'organisme de soutien ou d'essais en participation interne ou externe (Partin ou Partex).
 
-Officier.
+II = Officier
 
 Chef et sous-chef d'état-major d'autorité organique.
 
-Officier.
+II = Officier
 
 Commandant en second de bâtiment important ou de grand organisme de soutien.
 
-Officier.
+II = Officier
 
 Chef de bureau de région, de grand état-major ou de direction locale, directeur ou chef de service local ou régional.
 
-Officier.
+II = Officier
 
 Responsable d'équipe de quart Propulsion nucléaire.
 
-Officier marinier.
+II = Officier marinier
 
 Adjoint à un chef de bureau à l'administration centrale ou dans une direction régionale, chef de bureau dans un organisme de région ou dans un grand état-major.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Adjoint à un chef de bureau ou directeur des cours dans un organisme ou une unité Partin ou Partex.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Technicien supérieur en électronique, en informatique ou en radioprotection nucléaire sur un bâtiment ou dans un organisme technique de la marine.
 
-Officier marinier.
+II = Officier marinier
 
 Technicien supérieur en électronique ou en radioprotection nucléaire dans un organisme Partin.
 
-Officier marinier.
+II = Officier marinier
 
 Responsable Gestion et administration du personnel à l'échelon central ou régional.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Technicien supérieur participant aux études, essais et développements de matériels.
 
-Officier marinier.
+II = Officier marinier
 
 Officier rédacteur à l'administration centrale.
 
-Officier.
+II = Officier
 
 Officier rédacteur dans un organisme Partin ou Partex.
 
-Officier.
+II = Officier
 
 Responsable de l'encadrement en école ou de la discipline dans une unité importante.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Responsable de la sécurité ou de la production d'énergie sur une unité nucléaire.
 
-Officier.
+II = Officier
 
 Responsable de tâches administratives importantes ou de la gestion du personnel dans une unité importante ou dans un centre administratif.
 
-Officier marinier.
+II = Officier marinier
 
 Infirmier spécialiste anesthésie-réanimation.
 
-Officier marinier.
+II = Officier marinier
 
 Chef d'équipe de contrôle de l'état des matériels.
 
-Officier marinier.
+II = Officier marinier
 
 Chef de station ou de service radioélectrique.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
-Responsable central ou local du recrutement, de l'information sur les carrières de la marine et de la reconversion.
+Responsable central ou local du recrutement, de l'information sur les carrières de la marine, de la reconversion, de la sélection ou de l'orientation des nouvelles recrues.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Commandant d'unité ne formant pas corps, de base vie ou d'unité marine.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
-Directeur des études, chef de division d'instruction, directeur des cours ou professeur qualifié.
+Directeur des études, chef de division d'instruction, directeur des cours, professeur qualifié.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
-Chef de quart opérations de bâtiment moyen ou responsable d'équipe de contrôle aérien.
+Chef de quart opérations de bâtiment moyen, responsable d'équipe de contrôle aérien, directeur-chef de pont d'envol.
 
-Officier marinier.
+II = Officier marinier
 
-Officier en second ou chef du service énergie-propulsion de petit bâtiment, pilote de port ou patron de transport de rade.
+Commandant en second ou officier en second de bâtiment, chef du service énergie-propulsion de petit bâtiment, pilote de port ou patron de transport de rade.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
-Officier en second ou chef du service énergie-propulsion de petit bâtiment Partin ou Partex.
+Commandant en second ou officier en second de bâtiment Partin ou Partex, chef du service énergie-propulsion de petit bâtiment Partin ou Partex.
 
-Officier marinier.
+II = Officier ou officier marinier
+
+Responsable d'équipe de contrôle aérien dans un organisme Partin ou Partex.
+
+II = Officier marinier
+
+Commandant en second ou officier en second d'organisme de soutien.
+
+II = Officier ou officier marinier
+
+Commandant en second ou officier en second d'organisme de soutien Partin ou Partex.
+
+II = Officier ou officier marinier
+
+Chef des services généraux, opérations, techniques, du service intérieur d'unités importantes, commandant de groupement de gendarmerie, chef de centre informatique ou responsable de la sécurité des systèmes informatiques.
+
+II = Officier ou officier marinier
+
+Chef des services généraux, opérations, techniques, du service intérieur, de centre informatique ou responsable de la sécurité des systèmes informatiques dans un organisme Partin ou Partex.
+
+II = Officier ou officier marinier
+
+Chef de groupement opérations, aviation ou énergie de grand bâtiment et de base aéronautique navale importante.
+
+II = Officier
+
+Chef de groupement dans un organisme Partin ou Partex.
+
+II = Officier
+
+Commandant de base, de détachement embarqué et de centre d'entraînement de l'aéronautique navale.
+
+II = Officier
 
 Responsable d'équipe sécurité plongée sur sous-marin.
 
-Officier marinier.
+II = Officier marinier
 
-Chef de centre administratif, de service administratif d'unité importante ou adjoint à un chef de section d'une direction de commissariat de région.
+Chef de centre administratif, de service administratif d'unité importante, chef de section ou adjoint dans une direction ou un organisme régional du commissariat de la marine.
 
-Officier.
+II = Officier
 
 Infirmier spécialiste et cadre dans un hôpital des armées.
 
-Officier marinier.
+II = Officier marinier
 
-Adjoint ou responsable Gestion et administration du personnel à l'échelon central ou régional ou dans une unité formant corps.
+Adjoint ou responsable Gestion et Administration du personnel à l'échelon central ou régional ou dans une unité formant corps.
 
-Officier marinier.
+II = Officier marinier
 
-Adjoint Gestion et administration du personnel dans une unité Partin formant corps.
+Adjoint Gestion et Administration du personnel dans une unité Partin formant corps.
 
-Officier marinier.
+II = Officier marinier
 
 Emploi comportant l'exécution autonome de tâches complexes et/ou des responsabilités administratives ou techniques particulières dans un organisme de l'administration centrale.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Conseiller technique ou spécialiste marine, responsable de la discipline ou chef de détachement dans un organisme Partin ou Partex.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Responsable de secrétariat à l'administration centrale.
 
-Officier marinier.
+II = Officier marinier
 
 Responsable de secrétariat dans un organisme Partin ou Partex.
 
-Officier marinier.
+II = Officier marinier
 
 Spécialiste en informatique générale dans un centre de traitement ou un organisme central de la marine.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Spécialiste en informatique générale dans un organisme Partin ou Partex.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Adjoint au responsable central ou local du recrutement ou de l'information sur les carrières de la marine.
 
-Officier marinier.
+II = Officier marinier
 
 Commandant de vedette ou de brigade de gendarmerie maritime.
 
-Sous-officier.
+II = Sous-officier
 
-Responsable entretien et mise en oeuvre du matériel dans les unités de la force océanique stratégique.
+Responsable entretien et mise en oeuvre du matériel dans les unités de la force océanique stratégique ou sur une unité nucléaire.
 
-Officier marinier.
+II = Sous-officier
 
 Directeur de pont d'envol de grand porte-aéronefs ou responsable d'un poste de commandement Opérations ou Transmissions d'unité importante.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
 Responsable de la discipline ou de la sécurité en unité.
 
-Officier ou officier marinier.
+II = Officier ou officier marinier
 
-Chef d'agence postale importante ou trésorier d'unité.
+Chef de bureau de poste navale ou d'agence postale importants, trésorier d'unité.
 
-Officier marinier.
+II = Officier ou officier marinier
 
-TABLEAU III
+Directeur de foyer d'unité importante à terre.
 
-FONCTIONS RELEVANT DE L'ARMÉE DE L'AIR
+II = Officier ou officier marinier
 
-DÉSIGNATION DE LA FONCTION
+Sous-chef de musique de la flotte.
 
-NIVEAU des responsabilités exercées
+Officier marinier
+
+Responsable d'équipe de maintenance et de logistique.
+
+II = Officier ou officier marinier
+
+Responsable de la formation dans un centre d'instruction, de formation ou dans une école de la marine.
+
+II = Officier ou officier marinier
+
+Responsable de la formation dans un organisme Partin ou Partex.
+
+II = Officier ou officier marinier
+
+Responsable de la restauration.
+
+II = Officier marinier
+
+Responsable de la restauration dans un organisme Partin ou Partex.
+
+II = Officier marinier
+
+Technicien supérieur hydrographe.
+
+II = Officier marinier
+
+TABLEAU N° III Fonctions relevant de l'armée de l'air
+
+I = DÉSIGNATION DE LA FONCTION
+
+II = NIVEAU des responsabilités exercées
 
 Commandant et commandant en second de base aérienne ou de formation assimilée.
 
-Officier.
+II = Officier
 
 Chef ou sous-chef d'état-major de commandement opérationnel ou organique.
 
-Officier.
+II = Officier
 
 Chef d'état-major de la gendarmerie de l'air.
 
-Officier.
+II = Officier
 
 Sous-directeur de centre de gestion des services.
 
-Officier.
+II = Officier
 
 Fonction de responsabilité administrative ou technique de deuxième niveau à l'administration centrale ou dans un état-major de commandement opérationnel ou organique.
 
-Officier.
+II = Officier
 
-Chef de groupement de la gendarmerie de l'air.
+Commandant de la compagnie de la gendarmerie de l'air de Paris.
 
-Officier.
+II = Officier
 
 Chef de la musique de l'air.
 
-Officier.
+II = Officier
 
 Commandant de groupement régional de la gendarmerie de l'air.
 
-Officier.
+II = Officier
 
 Commandant en second de centre opérationnel.
 
-Officier.
+II = Officier
 
 Commandant et commandant en second, chef des opérations ou des services techniques d'escadre aérienne.
 
-Officier.
+II = Officier
 
 Chef de centre de contrôle, de transmissions, d'exploitation ou des écoles et assimilé.
 
-Officier.
+II = Officier
 
 Commandant d'escadron aérien ou terrestre.
 
-Officier.
+II = Officier
 
 Commandant de groupe d'entretien spécialisé ou de dépôt d'armes ou de munitions.
 
-Officier.
+II = Officier
 
-Commandant d'annexe au centre d'expérimentations aériennes militaires.
+Commandant d'annexe au centre d'expériences aériennes militaires.
 
-Officier.
+II = Officier
 
-Chef de moyens et assimilé sur une base aérienne
+Chef de moyens et assimilé sur une base aérienne.
 
-Officier.
+II = Officier
 
 Commandant de compagnie régionale d'infrastructure.
 
-Officier.
+II = Officier
 
-Commandant, directeur, sous-directeur et adjoint d'établissement, de service ou de centre de gestion des matériels ou du commissariat de l'air.
+Commandant, directeur, sous-directeur et adjoint d'établissement, de service ou de centre de gestion du matériel ou du commissariat ou de la direction de l'infrastructure de l'air.
 
-Officier.
+II = Officier
 
 Fonction de responsabilité administrative ou technique de deuxième niveau dans un organisme en participation interne ou externe (Partin ou Partex).
 
-Officier.
+II = Officier
 
 Fonction de responsabilité administrative ou technique de troisième niveau à l'administration centrale ou dans un état-major de commandement opérationnel ou organique.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Chef de quart en état-major.
 
-Officier.
+II = Officier
 
 Commandant, commandant en second et assimilé d'une unité ou d'un escadron des forces.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Fonction de responsabilité technique ou opérationnelle en escadron aérien ou en centre opérationnel, tactique ou de contrôle.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Commandant d'unité de support, de soutien ou de relations publiques.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Commandant de brigade de gendarmerie de l'air.
 
-Sous-officier.
+Sous-officier
 
 Fonction de commandement dans des unités des transmissions, des détachements ou des unités techniques.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
-Fonction de commandement, de direction ou d'enseignement dans les écoles.
+Fonction de commandement ou de direction dans les unités chargées de la formation du personnel
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
-Fonction de responsabilité au centre d'expérimentations aériennes militaires.
+Fonction de responsabilité au centre d'expériences aériennes militaires.
 
-Officier.
+II = Officier
 
 Chef et sous-chef de division technique ou administrative, de centre ou de groupe et assimilé dans une unité des services.
 
-Officier.
+II = Officier
 
 Commandant d'escadron ou d'équipe dans une unité des services.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Infirmier spécialiste anesthésie-réanimation dans un hôpital des armées.
 
-Sous-officier.
+II = Sous-officier
 
 Fonction de responsabilité administrative ou technique de troisième niveau dans un organisme en participation interne ou externe (Partin ou Partex).
 
-Officier.
-
-Officier psychotechnicien dans un organisme Partin ou officier d'encadrement dans une école interarmées.
-
-Officier.
+II = Officier
 
 Fonction de responsabilité administrative ou technique de quatrième niveau à l'administration centrale ou dans un état-major de commandement opérationnel ou organique.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Chef, sous-chef de service et assimilé dans une unité des forces.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Fonction de commandement ou de responsabilité en escadre, escadron ou escadrille.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Officier de liaison.
 
-Officier.
+II = Officier
 
 Chef de point sensible isolé.
 
-Sous-officier.
+II = Sous-officier
 
 Chef de bureau technique important, de section, de service et assimilé dans une unité des services.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
-Fonction de responsabilité administrative ou technique dans un organisme en participation interne ou externe (Partin ou Partex).
+Fonction de responsabilité administrative ou technique de quatrième niveau dans un organisme en participation interne ou externe (Partin ou Partex).
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Fonction d'exécution autonome de tâches administratives ou techniques complexes requérant une part d'initiative individuelle à l'administration centrale ou dans un état-major de commandement opérationnel ou organique.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Adjoint au chef de service ou au commandant d'unité, responsable de cellule ou d'organisme dans les forces.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
-Officier de permanence opérationnelle et chef de quart dans un centre d'opérations ou de contrôle.
+Chef de quart dans un centre d'opérations ou de contrôle.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Chef de bureau administratif ou technique et assimilé dans une unité des services.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Adjoint à un chef de centre ou de division et assimilé dans une unité des services.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Infirmier spécialiste ou cadre dans un hôpital des armées.
 
-Sous-officier.
+II = Sous-officier
 
 Fonction d'exécution autonome de tâches administratives ou techniques complexes requérant une part d'initiative individuelle dans un organisme Partin ou Partex.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
-TABLEAU IV
+TABLEAU N° IV : Fonctions relevant de la gendarmerie nationale
 
-FONCTIONS RELEVANT DE LA GENDARMERIE NATIONALE
+I = DÉSIGNATION DE LA FONCTION
 
-DÉSIGNATION DE LA FONCTION
+II = NIVEAU des responsabilités exercées
 
-NIVEAU des responsabilités exercées
+Chargé de mission à l'administration centrale.
 
-Commandant de groupement de gendarmerie départementale.
-
-Officier.
-
-Commandant de groupement autre que de groupement de gendarmerie départementale et assimilé.
-
-Officier.
-
-Commandant de section de recherches.
-
-Officier.
-
-Commandant de compagnie ou d'escadron et assimilé.
-
-Officier.
-
-Commandant de brigade territoriale de pleine responsabilité non concernée par la politique de la ville et commandant de brigade de recherches.
-
-Sous-officier.
-
-Commandant de brigade territoriale autre que de brigade territoriale de pleine responsabilité.
-
-Sous-officier.
-
-Commandant de brigade motorisée et assimilé.
-
-Sous-officier.
-
-Commandant de peloton et assimilé.
-
-Sous-officier.
-
-Commandant de brigade de la gendarmerie des transports aériens.
-
-Sous-officier.
-
-Commandant de brigade de la gendarmerie de l'armement.
-
-Sous-officier.
-
-Chef de section (affaires pénales).
-
-Officier.
-
-Chef de centre administratif, chef du dépôt central d'archives, chef de service du greffe (affaires pénales).
-
-Officier.
-
-Responsable de l'informatique (affaires pénales).
-
-Sous-officier.
+II = Officier
 
 Commandant de brigade territoriale de pleine responsabilité concernée par la politique de la ville.
 
-Sous-officier.
+II = Officier ou sous-officier
 
-Gradé autre que le commandant de brigade dans une brigade territoriale de pleine responsabilité concernée par la politique de la ville.
+Commandant de groupement de gendarmerie départementale.
 
-Sous-officier.
+II = Officier
+
+Chef de bureau à l'administration centrale.
+
+II = Officier
+
+Chef des services administratifs et techniques.
+
+II = Officier
+
+Contrôleur de gestion.
+
+II = Officier
+
+Gradé autre que le commandant de brigade, dans une brigade territoriale de pleine responsabilité concernée par la politique de la ville.
+
+II = Sous-officier
+
+Chef de section (affaires pénales).
+
+II = Officier
+
+Chef du centre administratif, chef du dépôt central d'archives, chef de service du greffe (affaires pénales).
+
+II = Officier
+
+Commandant de groupement autre que de groupement de gendarmerie départementale et assimilé.
+
+II = Officier
+
+Commandant de section de recherches.
+
+II = Officier
+
+Commandant de brigade territoriale de pleine responsabilité non concernée par la politique de la ville et commandant de brigade de recherches.
+
+II = Officier ou sous-officier
+
+Chargé de mission, officier de liaison, commandant militaire, commandant en second, chef du secteur sécurité dans un organisme en Partin-Partex.
+
+II = Officier
+
+Commandant de compagnie ou d'escadron et assimilé.
+
+II = Officier
+
+Commandant de brigade territoriale autre que de brigade territoriale de pleine responsabilité.
+
+II = Officier ou sous-officier
+
+Commandant de brigade motorisée et assimilé.
+
+II = Officier ou sous-officier
+
+Commandant de peloton et assimilé.
+
+II = Officier ou sous-officier
+
+Responsable de l'informatique (affaires pénales)
+
+II = Sous-officier
 
 Gendarme dans une brigade territoriale de pleine responsabilité concernée par la politique de la ville.
 
-Sous-officier.
+II = Sous-officier
 
-TABLEAU V
+Commandant des formations spécialisées :
 
-FONCTIONS RELEVANT DE LA DÉLEjGATION GÉNÉRALE POUR L'ARMEMENT
+- des transports aériens et des formations aériennes de la gendarmerie ;
 
-DÉSIGNATION DE LA FONCTION
+- de la gendarmerie de l'armement ;
 
-NIVEAU des responsabilités exercées
+- fluviale et nautique ;
 
-Emploi nécessitant l'exercice de fonctions de coordination, d'impulsion et d'animation d'un ou plusieurs secteurs d'activité dans les domaines scientifiques, techniques ou administratifs.
+- de centre d'information et de recrutement.
 
-Officier du corps technique et administratif ou ingénieur des études et techniques.
+II = Officier ou sous-officier
 
-Emploi requérant une technicité particulièrement étendue dans les domaines scientifiques, techniques ou administratifs particulièrement délicats.
+Encadrement des unités de recherches.
 
-Officier du corps technique et administratif ou ingénieur des études et techniques.
+II = Officier ou sous-officier
 
-Emploi comportant la production de prestations spécifiques dans les domaines scientifiques, techniques ou administratifs hautement spécialisés.
+TABLEAU N° V : Fonctions relevant de la délégation générale pour l'armement
 
-Officier du corps technique et administratif ou ingénieur des études et techniques.
+I = DÉSIGNATION DE LA FONCTION
 
-Emploi comportant la production de prestations spécifiques dans les domaines scientifiques, techniques ou administratifs hautement spécialisés dans un organisme en participation interne (Partin).
+II = NIVEAU des responsabilités exercées
 
-Officier du corps technique et administratif ou ingénieur des études et techniques.
+Fonction de coordination, d'impulsion et d'animation d'un ou plusieurs secteurs d'activité dans les domaines scientifiques, techniques ou administratifs.
 
-Emploi comportant des responsabilités particulières en matière de conception, de réalisation, de maintenance ou d'assistance dans les domaines scientifiques, techniques ou administratifs.
+II = Officier du corps technique et administratif ou ingénieur des études et techniques.
 
-Officier du corps technique et administratif ou ingénieur des études et techniques.
+Fonction requérant une technicité particulièrement étendue dans les domaines scientifiques, techniques ou administratifs particulièrement délicats.
 
-Emploi comportant des responsabilités particulières en matière de conception, de réalisation, de maintenance ou d'assistance dans les domaines scientifiques, techniques ou administratifs dans un organisme en participation interne (Partin).
+II = Officier du corps technique et administratif ou ingénieur des études et techniques.
 
-Officier du corps technique et administratif ou ingénieur des études et techniques.
+Fonction requérant une technicité particulièrement étendue dans les domaines scientifiques, techniques ou administratifs particulièrement délicats dans un organisme en participation interne (Partin).
 
-TABLEAU VI
+II = Officier du corps technique et administratif ou ingénieur des études et techniques.
 
-FONCTIONS RELEVANT DU SERVICE DE SANTÉ DES ARMÉES
+Fonction comportant la production de prestations spécifiques dans les domaines scientifiques, techniques ou administratifs hautement spécialisés.
 
-DÉSIGNATION DE LA FONCTION
+II = Officier du corps technique et administratif ou ingénieur des études et techniques.
 
-NIVEAU des responsabilités exercées
+Fonction comportant la production de prestations spécifiques dans les domaines scientifiques, techniques ou administratifs hautement spécialisés dans un organisme en participation interne (Partin).
+
+II = Officier du corps technique et administratif ou ingénieur des études et techniques.
+
+Fonction comportant des responsabilités particulières en matière de conception, de réalisation, de maintenance ou d'assistance dans les domaines scientifiques, techniques ou administratifs.
+
+II = Officier du corps technique et administratif ou ingénieur des études et techniques.
+
+Fonction comportant des responsabilités particulières en matière de conception, de réalisation, de maintenance ou d'assistance dans les domaines scientifiques, techniques ou administratifs dans un organisme en participation interne (Partin).
+
+II = Officier du corps technique et administratif ou ingénieur des études et techniques.
+
+TABLEAU N° VI Fonctions relevant du service de santé des armées
+
+I = DÉSIGNATION DE LA FONCTION
+
+II = NIVEAU des responsabilités exercées
 
 Physicien agréé des hôpitaux des armées.
 
-Officier.
+II = Officier
 
 Gestionnaire d'un hôpital d'instruction des armées.
 
-Officier.
+II = Officier
 
 Commandant d'un établissement central de matériels.
 
-Officier.
+II = Officier
 
 Gestionnaire d'un centre hospitalier des armées.
 
-Officier.
+II = Officier
 
 Commandant d'un établissement des matériels de mobilisation.
 
-Officier.
+II = Officier
 
-Commandant du bureau central de gestion et d'administration de personnels civils.
+Commandant du bureau central de gestion et d'administration des personnels civils.
 
-Officier.
+II = Officier
 
 Sous-officier secrétaire ou rédacteur à l'administration centrale du service de santé des armées.
 
-Sous-officier.
+II = Sous-officier
 
 Chef d'un service d'administration ou de gestion dans un hôpital d'instruction des armées.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Chef d'un service d'administration ou de gestion dans un centre hospitalier des armées.
 
-Officier ou sous-officier.
+II = Officier ou sous-officier
 
 Chef des services administratifs.
 
-Officier.
+II = Officier
 
-TABLEAU VII
+Chef de bureau ou assimilé à l'administration centrale du service de santé des armées.
 
-FONCTIONS RELEVANT DU SERVICE DES ESSENCES DES ARMÉES
+II = Officier
 
-DÉSIGNATION DE LA FONCTION
+Chef de section ou assimilé, titulaire de responsabilité administrative ou technique à l'administration centrale du service de santé des armées.
 
-NIVEAU des responsabilités exercées
+II = Officier
+
+Chef d'un centre de mandatement du service de santé des armées.
+
+II = Officier
+
+Chef de division à la direction des approvisionnements et des établissements centraux.
+
+II = Officier
+
+Responsable du secrétariat d'une chefferie d'un établissement hospitalier de plus de 100 lits.
+
+II = Sous-officier
+
+Responsable du secrétariat de l'inspection générale du service de santé des armées.
+
+II = Sous-officier
+
+TABLEAU N° VII Fonctions relevant du service des essences des armées
+
+I = DÉSIGNATION DE LA FONCTION
+
+II = NIVEAU des responsabilités exercées
 
 Chef de corps d'un groupement des essences.
 
-Officier.
+II = Officier
 
 Chef de très grand établissement.
 
-Officier.
+II = Officier
 
-Officier de liaison auprès d'un état-major d'armée.
+Fonction d'exécution autonome de tâches administratives ou techniques complexes requérant une part d'initiative individuelle.
 
-Officier.
+II = Sous-officier
 
-Chef de détachement de liaison auprès d'un état-major de région aérienne.
+Fonction de conception de tâches administratives ou techniques dans un état-major.
 
-Officier.
+II = Officier
 
-Chef de dépôt pétrolier sur une base aérienne ou aéronavale.
+Fonction de coordination, d'impulsion et d'animation nécessitant une part d'initiative individuelle.
 
-Sous-officier.
+II = Officier et sous-officier
 
-Chef du bureau finances à l'établissement administratif et technique du service des essences des armées.
+Fonction de coordination, d'impulsion et d'animation nécessitant une part d'initiative individuelle dans un organisme Partin-Partex.
 
-Officier.
+II = Officier
 
-Chef de dépôt pétrolier d'infrastructure important.
+Fonction comportant des responsabilités particulières en matière de conception, de réalisation, de maintenance dans les domaines techniques ou administratifs à l'administration centrale.
 
-Officier.
+II = Officier
 
-Chef de dépôt pétrolier sur une base aérienne ou aéronavale.
+Fonction comportant la production de prestations spécifiques dans les domaines techniques ou administratifs hautement spécialisés.
 
-Officier.
+II = Officier
 
-Chef de dépôt pétrolier sur une base aérienne ou aéronavale dans un organisme en participation externe (Partex).
+Fonction comportant une action de contrôle et de surveillance dans les domaines techniques ou administratifs hautement spécialisés.
 
-Officier.
-
-Chef de dépôt pétrolier d'infrastructure.
-
-Sous-officier.
-
-(1) Sauf lorsque ces fonctions sont exercées par des militaires d'un grade supérieur à lieutenant-colonel, capitaine de frégate ou grade correspondant ou par des officiers appartenant au corps militaire des ingénieurs de l'armement et aux corps militaires des médecins, des pharmaciens chimistes et des vétérinaires biologistes des armées.
+II = Officier ou sous-officier
