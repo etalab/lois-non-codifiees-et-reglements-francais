@@ -1,11 +1,3 @@
 # Article 48
 
-Après la clôture de la procédure de faillite, le bureau foncier doit être requis d'office de radier la mention concernant l'ouverture de faillite inscrite conformément à l'article 24 du présent décret.
-
-Cette requête doit émaner :
-
-1° En cas de concordat simple, du tribunal qui prononce l'homologation, dès que le jugement d'homologation aura acquis force de chose jugée ;
-
-2° En cas d'union, du tribunal statuant sur l'excusabilité du failli, dès que le jugement aura acquis force de chose jugée ;
-
-3° Dans le cas de concordat par abandon d'actif, du juge commissaire qui a convoqué les créanciers après la liquidation de la faillite, dès clôture de cette assemblée.
+La mention au livre foncier du jugement d'ouverture de la procédure de redressement judiciaire ou du jugement prononçant la liquidation judiciaire, effectuée en application de l'article 38-1 de la loi du 1er juin 1924 susvisée est radiée, selon le cas, à la requête de l'administrateur ou, s'il n'en a pas été nommé un, du débiteur assisté du commissaire à l'exécution du plan sur présentation de la décision définitive arrêtant le plan de continuation ou de cession de l'entreprise, ou à la requête du débiteur sur présentation de la décision définitive de clôture des opérations de liquidation judiciaire.
