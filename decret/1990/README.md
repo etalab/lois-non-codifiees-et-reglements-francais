@@ -114,6 +114,7 @@
 - [Décret n°90-336 du 10 avril 1990 (AGRG9000668D)](decret-n90-336-du-10-avril-1990-agrg9000668d)
 - [Décret n°90-40 du 10 janvier 1990 (MAEJ8930119D)](decret-n90-40-du-10-janvier-1990-maej8930119d)
 - [Décret n°90-73 du 10 janvier 1990 (MCCB8900588D)](decret-n90-73-du-10-janvier-1990-mccb8900588d)
+- [Décret n°90-388 du 10 mai 1990 (JUSX9010168D)](decret-n90-388-du-10-mai-1990-jusx9010168d)
 - [Décret n°90-359 du 11 avril 1990 (SPSA9000231D)](decret-n90-359-du-11-avril-1990-spsa9000231d)
 - [Décret n°90-38 du 11 janvier 1990 (ECOA9000009D)](decret-n90-38-du-11-janvier-1990-ecoa9000009d)
 - [Décret n°90-54 du 11 janvier 1990 (MCCX9000003D)](decret-n90-54-du-11-janvier-1990-mccx9000003d)
