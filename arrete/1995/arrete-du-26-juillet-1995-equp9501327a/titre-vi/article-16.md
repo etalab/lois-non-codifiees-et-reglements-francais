@@ -10,7 +10,7 @@ Les candidats non destinés à l'Institut géographique national sont admis dans
 
 - en qualité d'auditeur libre, sur titres, dans la limite des places disponibles, sur décision du directeur de l'Ecole nationale des sciences géographiques.
 
-Des décisions du directeur général de l'Institut géographique national fixent la composition des jurys, le programme et les modalités d'organisation des épreuves, notamment les lieux de centres d'examen en France ou à l'étranger ainsi que la liste des pièces à fournir par les candidats.
+Le directeur général de l'Institut géographique national, sur proposition du directeur de l'Ecole nationale des sciences géographiques, décide le nombre de places disponibles dans les différents cycles de formation, la composition des jurys, le programme et les modalités d'organisation des épreuves, notamment les lieux des centres d'examen en France ou à l'étranger, ainsi que la liste des pièces à fournir par les candidats.
 
 Les auditeurs titulaires des cycles de formation initiale peuvent acquérir la qualité d'élève après leur première année d'études s'ils ont obtenu des résultats satisfaisants. Sinon, ils peuvent être autorisés à redoubler ou, dans la limite des places disponibles, à poursuivre la scolarité en qualité d'auditeur libre. Dans ce dernier cas, ils ne peuvent prétendre à l'obtention du titre de fin d'études.
 
@@ -44,7 +44,7 @@ Peuvent être admis en qualité d'auditeur titulaire après examen probatoire po
 
 - les candidats titulaires d'un diplôme d'ingénieur français ou étranger ;
 
-- les candidats titulaires d'une maîtrise Sciences française ou d'un titre étranger admis en équivalence ;
+- les candidats titulaires d'une maîtrise Sciences française ou d'un titre admis en équivalence ;.
 
 - les officiers de l'armée française remplissant les conditions d'admission au cycle préparatoire aux brevets de l'enseignement militaire supérieur scientifique et technique ;
 
