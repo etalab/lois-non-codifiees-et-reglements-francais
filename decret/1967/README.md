@@ -1,5 +1,6 @@
 # 1967
 
+- [Décret n°67-868 du 2 octobre 1967](decret-n67-868-du-2-octobre-1967)
 - [Décret n°67-441 du 5 juin 1967](decret-n67-441-du-5-juin-1967)
 - [Décret n°67-452 du 6 juin 1967](decret-n67-452-du-6-juin-1967)
 - [Décret n°67-690 du 7 août 1967](decret-n67-690-du-7-aout-1967)
