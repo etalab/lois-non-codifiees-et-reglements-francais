@@ -1,6 +1,6 @@
 # Article 31
 
-Les travailleurs expatriés qui désirent bénéficier de l'assurance volontaire Accidents du travail et maladies professionnelles adressent à la caisse des expatriés une demande d'adhésion conforme à un modèle fixé par arrêté du ministre chargé de la sécurité sociale et accompagnée de pièces justificatives dont la liste est fixée par le même arrêté.
+Les travailleurs expatriés qui désirent bénéficier de l'assurance volontaire Accidents du travail et maladies professionnelles adressent à la caisse des Français de l'étranger une demande d'adhésion conforme à un modèle fixé par arrêté du ministre chargé de la sécurité sociale et accompagnée de pièces justificatives dont la liste est fixée par le même arrêté.
 
 L'immatriculation est faite, le cas échéant, à la diligence de la caisse.
 

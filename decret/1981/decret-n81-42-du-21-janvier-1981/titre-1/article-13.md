@@ -1,6 +1,6 @@
 # Article 13
 
-Lorsque les cotisations n'ont pas été versées à l'échéance prescrite l'union de recouvrement invite le redevable à régulariser sa situation dans le mois suivant [*retard - paiement*].
+Lorsque les cotisations n'ont pas été versées à l'échéance prescrite la caisse des Français de l'étranger invite le redevable à régulariser sa situation dans le mois suivant [*retard - paiement*].
 
 L'intéressé encourt la radiation de l'assurance volontaire lorsque les cotisations n'ont pas été acquittées à deux échéances successives [*sanction*].
 

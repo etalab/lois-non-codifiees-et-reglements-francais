@@ -1,37 +1,49 @@
 # Article 5
 
-Les caisses régionales d'assurance maladie des travailleurs salariés [*organismes compétents*] déterminent le taux net applicable d'une part, à chaque établissement dont l'effectif habituel de salariés est compris dans les limites du tableau ci-après, d'autre part, à chaque établissement d'une même entreprise lorsque l'effectif global habituel de salariés de cette entreprise est compris dans les limites fixées par ledit tableau, conformément aux dispositions de l'article 4, si ces dispositions lui étaient applicables, la valeur du risque définie au 1° dudit article étant toutefois remplacée par la somme des deux termes suivants :
+Les caisses régionales d'assurance maladie des travailleurs salariés [*organismes compétents*] déterminent le taux net, dit Taux mixte, applicable soit à l'entreprise qui ne comporte qu'un seul établissement et dont l'effectif habituel de salariés est compris de 20 à 299, soit à chaque établissement d'une même entreprise lorsque l'effectif global habituel de salariés de cette entreprise est compris de 20 à 299. Le taux mixte est obtenu par l'addition des deux éléments suivants :
 
-a) Le produit, par le nombre total d'accidents ayant entraîné, pendant la période triennale de référence, un premier paiement d'indemnité journalière, du coût moyen d'un accident de cette catégorie dans l'activité professionnelle ou le groupe d'activités auquel ledit établissement est rattaché pour la détermination de ce coût moyen ;
+1° Une fraction du taux collectif fixé pour l'activité professionnelle dont relève l'établissement ;
 
-b) Le produit, par le nombre des accidents ayant, pendant la même période, soit entraîné la mort de la victime, soit donné lieu à l'attribution d'une rente d'incapacité permanente du coût moyen d'un accident de cette catégorie dans l'activité professionnelle ou le groupe d'activités auquel cet établissement est rattaché pour la détermination de ce coût moyen.
+2° Une fraction du taux net réel qui serait attribué à l'établissement conformément aux dispositions de l'article 4 du présent arrêté si ces dispositions lui étaient applicables.
 
-Les coûts moyens susvisés sont déterminés sur la base des résultats statistiques en tenant compte pour chaque activité professionnelle ou groupe d'activités des règles prévues au 1° de l'article 4.
+Les fractions de taux définies ci-dessus varient en fonction du nombre de salariés de l'entreprise dans les proportions fixées par le tableau ci-après :
 
-================================================================
+============================================================
 
 <table>
 <tr>
-<td> : RISQUES DONT LE TAUX COLLECTIF   :     NOMBRE DE SALARIES    :</td>
+<td> :                 :                    : Fraction du taux  :</td>
 </tr>
 <tr>
-<td> : fixé en application de           :     de l'établissement    :</td>
+<td> :                 :                    :    collectif      :</td>
 </tr>
 <tr>
-<td> : l'article 2 pour l'année         :     ou de l'entreprise.   :</td>
+<td> :   Nombre de     : Fraction du taux   :  correspondant à  :</td>
 </tr>
 <tr>
-<td> : précédente est :                 :                           :</td>
+<td> :   salariés      :  réel propre à     :    l'activité     :</td>
 </tr>
 <tr>
-<td> :----------------------------------:---------------------------:</td>
+<td> : de l'entreprise :  l'établissement.  :   exercée dans    :</td>
 </tr>
 <tr>
-<td> : Inférieur à 3 %                  :       200 à 299           :</td>
+<td> :     (1)         :      (2)           : l'établissement.  :</td>
 </tr>
 <tr>
-<td> : Egal ou supérieur à 3 %          :       100 à 299           :</td>
+<td> :                 :                    :       (2)         :</td>
+</tr>
+<tr>
+<td> :-----------------:--------------------:-------------------:</td>
+</tr>
+<tr>
+<td> :                 :     E - 19         :      300 - E      :</td>
+</tr>
+<tr>
+<td> : 20 à 299        :     ------         :      -------      :</td>
+</tr>
+<tr>
+<td> :                 :      281           :        281        :</td>
 </tr>
 </table>
 
-================================================================
+============================================================ (1) L'entreprise peut comporter un ou plusieurs établissements. (2) E représente l'effectif habituel de l'entreprise déterminé conformément aux dispositions de l'article 7 du présent arrêté.

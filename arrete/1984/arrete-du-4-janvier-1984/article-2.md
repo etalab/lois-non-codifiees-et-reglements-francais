@@ -1,3 +1,9 @@
 # Article 2
 
-La valeur limite de prise en compte du dollar prévue à l'arrêté n° 83-45/A du 30 août 1983 relatif aux prix de certains produits pétroliers, modifié par l'arrêté n° 83-72/A du 8 décembre 1983, est portée de 8 à 8,15 francs à partir de la période de référence de décembre 1983.
+Des accords de régulation sont souscrits à titre collectif par les organisations professionnelles ou les organismes représentatifs ou à titre individuel par les entreprises.
+
+Ils sont entérinés par arrêté et sont publiés au Bulletin officiel de la concurrence et de la consommation (B.O.S.P.).
+
+Un accord collectif entériné s'applique à l'ensemble des entreprises exerçant l'activité visée par l'accord.
+
+Un accord individuel entériné ne s'applique qu'à l'entreprise signataire.

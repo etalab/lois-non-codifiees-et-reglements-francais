@@ -1,6 +1,6 @@
 # Article 41
 
-Si la caisse des expatriés entend contester le caractère professionnel de l'accident, elle doit en informer par écrit la victime et les autorités consulaires françaises dans le délai de deux mois à compter de la date à laquelle elle a eu connaissance de l'accident par quelque moyen que ce soit.
+Si la caisse des Français de l'étranger entend contester le caractère professionnel de l'accident, elle doit en informer par écrit la victime et les autorités consulaires françaises dans le délai de deux mois à compter de la date à laquelle elle a eu connaissance de l'accident par quelque moyen que ce soit.
 
 Lorsqu'il est fait état pour la première fois d'une lésion ou d'une maladie présentée par l'assuré comme se rattachant à un accident du travail ou à une maladie professionnelle, la caisse peut en contester le caractère professionnel. Dans ce cas, elle doit sans préjudice de l'application de l'article 40 ci-dessus, en ce qui concerne la contestation d'ordre médical, en informer par écrit la victime et les autorités consulaires dans le délai de deux mois suivant la date à laquelle il a été fait état pour la première fois de cette lésion ou de cette maladie comme se rattachant à un accident du travail ou à une maladie professionnelle.
 

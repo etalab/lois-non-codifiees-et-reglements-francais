@@ -18,6 +18,6 @@ II - L'étendue de l'exonération prévue au I est fixée en fonction :
 
 2° Dans le cas de propriété ou de copropriété de plusieurs navires de la jauge brute totale de ceux-ci.
 
-III - Les dispositions du I du présent article ne sont applicables en ce qui concerne les pilotes que lorsque le volume annuel des bateaux pilotés dans la station à l'entrée et à la sortie des ports est inférieur à cinquante-cinq millions de mètres cubes [*volume maximum*].
+III - Les dispositions du I du présent article ne sont applicables en ce qui concerne les pilotes que lorsque le volume annuel des bateaux pilotés dans la station à l'entrée et à la sortie des ports est inférieur à dix millions de mètres cubes [*volume maximum*].
 
 Le droit à exonération est examiné au 1er janvier de chaque année [*périodicité*] au regard des résultats de l'avant-dernière année civile. Si les conditions requises sont réunies, le bénéfice de l'exonération est accordé jusqu'au 31 décembre suivant [*date limite*].

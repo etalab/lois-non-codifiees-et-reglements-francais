@@ -1,0 +1,3 @@
+# Article 94
+
+Les praticiens hospitaliers, précédemment médecins directeurs des établissements publics de soins ou de cure spécialisés dans la lutte contre la tuberculose, qui ont conservé leurs fonctions administratives et médicales à la date d'effet du présent décret, en application de l'article 56-22 du décret n° 70-198 du 11 mars 1970, peuvent être maintenus dans cette situation par décision du ministre chargé de la santé, après avis du conseil d'administration de l'établissement, du directeur départemental des affaires sanitaires et sociales et du médecin inspecteur régional de la santé. Les intéressés demeurent logés dans l'établissement par nécessité de service.

@@ -1,7 +1,9 @@
 # Article 15
 
-Les bénéficiaires de l'assurance volontaire maladie, maternité et invalidité sont redevables d'une cotisation assise sur un salaire forfaitaire égal au plafond annuel moyen servant de base au calcul des cotisations de sécurité sociale.
+En application de l'article L. 777 du code de la sécurité sociale, les bénéficiaires de l'assurance volontaire Maladie-maternité-invalidité dont les rémunérations sont inférieures au plafond de la sécurité sociale mentionné à l'article 41 de l'ordonnance du 21 août 1967 susvisée sont redevables d'une d'une cotisation assise sur les deux tiers du plafond ; ceux dont les rémunérations sont égales ou supérieures au plafond de la sécurité sociale sont redevables d'une cotisation assise sur ce plafond [*assiette*].
 
-La cotisation est due à compter de la date d'effet de l'adhésion et fait l'objet de paiements trimestriels.
+Pour l'application de l'alinéa 1er du présent article, les rémunérations s'entendent de l'ensemble des rémunérations professionnelles, y compris les primes et indemnités versées aux assurés au cours de l'année civile précédant celle au titre de laquelle la cotisation est due.
 
-La cotisation trimestrielle est exigible le premier jour du trimestre civil auquel elle se rapporte et payable dans le mois qui suit, en francs français, à l'union de recouvrement.
+Lorsqu'ils demandent à cotiser sur la base des deux tiers du plafond de la sécurité sociale, les intéressés fournissent à la caisse tous documents permettant de justifier de leurs ressources, tels qu'une copie certifiée conforme par les autorités consulaires de leurs douze derniers bulletins mensuels de salaire ou une attestation de l'employeur mentionnant le montant de la rémunération annuelle définie ci-dessus ou à défaut la déclaration de leurs revenus.
+
+La caisse peut à tout moment demander aux assurés volontaires la justification de leurs revenus.
