@@ -457,7 +457,6 @@
 - [Arrêté du 12 août 1992 (MENB9200279A)](arrete-du-12-aout-1992-menb9200279a)
 - [Arrêté du 12 décembre 1988 (MENK8870069A)](arrete-du-12-decembre-1988-menk8870069a)
 - [Arrêté du 12 février 1988 (BUDR8803026A)](arrete-du-12-fevrier-1988-budr8803026a)
-- [Arrêté du 12 février 1992 (BUDL9200027A)](arrete-du-12-fevrier-1992-budl9200027a)
 - [Arrêté du 12 février 1992 (SPGG9200424A)](arrete-du-12-fevrier-1992-spgg9200424a)
 - [Arrêté du 12 juin 1992 (ECOM9200206A)](arrete-du-12-juin-1992-ecom9200206a)
 - [Arrêté du 12 juin 1992 (JUSD9230018A)](arrete-du-12-juin-1992-jusd9230018a)
