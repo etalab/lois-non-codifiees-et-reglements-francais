@@ -6,6 +6,7 @@
 - [Arrêté du 11 janvier 1978](arrete-du-11-janvier-1978)
 - [Arrêté du 14 décembre 1977](arrete-du-14-decembre-1977)
 - [Arrêté du 15 décembre 1977](arrete-du-15-decembre-1977)
+- [Arrêté du 15 février 1978](arrete-du-15-fevrier-1978)
 - [Arrêté du 16 juin 1975](arrete-du-16-juin-1975)
 - [Arrêté du 19 décembre 1977](arrete-du-19-decembre-1977)
 - [Arrêté du 19 janvier 1978](arrete-du-19-janvier-1978)
