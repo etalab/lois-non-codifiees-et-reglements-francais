@@ -18,7 +18,9 @@ Panneau AB 6 : Indication du caractère prioritaire d'une route.
 
 Panneau AB 7 : Fin du caractère prioritaire d'une route.
 
-Les panneaux AB 1 et AB 2 sont de forme triangulaire. Ils sont à fond blanc et bordés d'une bande rouge elle-même entourée d'un listel blanc.
+Panneau AB25 : Carrefour à sens giratoire.
+
+Les panneaux AB 1, AB 2 et AB 25 sont de forme triangulaire. Ils sont à fond blanc et bordés d'une bande rouge elle-même entourée d'un listel blanc.
 
 Les symboles sont noirs.
 

@@ -28,38 +28,38 @@ Portique G 3 :
 
 Signalisation des passages à niveau avec voie électrifiée lorsque la hauteur des fils de contact est inférieure à six mètres.
 
-Balise J 1   Balisage des virages.
+Balise J 1 : Balisage des virages.
 
-Balise J 3   Signalisation de position des intersections de routes.
+Balise J 3 : Signalisation de position des intersections de routes.
 
-Balise J 4   Balisage des virages.
+Balise J 4 : Balisage des virages.
 
-Balise J 5   Signalisation des têtes d'îlots directionnels à contourner par la droite.
+Balise J 5 : Signalisation des têtes d'îlots directionnels à contourner par la droite.
 
-Balise J 6   Délinéateur. Balisage des limites de chaussées.
+Balise J 6 : Délinéateur. Balisage des limites de chaussées.
 
-Balise J 7   Manche à air. Balise indiquant l'endroit où souffle fréquemment un vent latéral violent ainsi que l'intensité et la direction de celui-ci.
+Balise J 7 : Manche à air. Balise indiquant l'endroit où souffle fréquemment un vent latéral violent ainsi que l'intensité et la direction de celui-ci.
 
-Balise J 10
-
-Balise pour passage à niveau.
+Balise J 10 : Balise pour passage à niveau.
 
 La balise J 10 est de couleur blanche et comporte une à trois bandes
 
 rouges obliques.
 
-Balise J 11
-
-Dispositif de renforcement d'un marquage continu permanent.
+Balise J 11 : Dispositif de renforcement d'un marquage continu permanent.
 
 La balise J 11 est de couleur blanche.
 
-Balise J 12
-
-Dispositif de renforcement d'un marquage permanent en divergent.
+Balise J 12 : Dispositif de renforcement d'un marquage permanent en divergent.
 
 La balise J 12 est de couleur verte.
 
-Balise J 13. Balise de signalisation d'obstacle.
+Balise J 13 : Balise de signalisation d'obstacle.
 
 La balise J 13 comporte des bandes obliques alternativement bleues et blanches.
+
+Balises J14a et J14b : balises de musoir, signalant la divergence des voies :
+
+La balise J14a est constituée d'un élément unique en forme de demi-cercle portant sur sa face avant deux flèches de couleur blanche sur fond vert ;
+
+La balise J14b est constituée d'une série d'éléments dont la face avant porte un graphisme en forme de chevron de couleur blanche sur fond vert.

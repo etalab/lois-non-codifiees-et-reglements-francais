@@ -80,7 +80,9 @@ Il donne des précisions concernant la réglementation relative au stationnement
 
 On distingue les différents types suivants :
 
-M 6 a qui indique que le stationnement est gênant au sens de l'article R. 37-1 du code de la route.
+M6a qui indique que le stationnement et/ou l'arrêt est gênant au sens de l'article R. 37-1 du code de la route. Dans le cas de stationnement gênant, il complète le panneau B6a1 ou B6b1. Dans le cas de stationnement et d'arrêt gênants, il complète le panneau B6d.
+
+Dans les deux cas, un véhicule en infraction est susceptible d'une mise en fourrière.
 
 M 6 b qui indique que le stationnement est unilatéral à alternance semi-mensuelle.
 
@@ -96,6 +98,8 @@ M 6 g qui donne des indications diverses ne concernant pas les interdictions.
 
 M6h qui signale que le stationnement est réservé aux véhicules des grands invalides civils et des grands invalides de guerre.
 
+M6i qui signale que le stationnement est réservé aux véhicules électriques pendant la durée de recharge de leurs accumulateurs.
+
 PANONCEAU SCHEMA M 7
 
 Il représente par un schéma l'intersection qui va être abordée et indique par un trait large les branches prioritaires. La branche verticale dans la moitié inférieure du panonceau représente la route sur laquelle il est implanté.
@@ -106,7 +110,7 @@ Il donne des indications sur les limites de la section sur laquelle s'applique l
 
 On distingue les différents types suivants :
 
-M 8 a indiquant que la section sur laquelle s'applique la prescription s'étend après le panonceau (c'est le début de la section).
+M 8 a indiquant que la section sur laquelle s'applique la prescription s'étend après le panneau (c'est le début de la section).
 
 M 8 b indiquant que la section sur laquelle s'applique la prescription s'étend avant le panneau (c'est la fin de la section).
 
@@ -130,10 +134,18 @@ Panonceau M 9 c Cédez le passage.
 
 M9d indiquant que le passage pour piétons est surélevé.
 
+M9e indiquant que l'emplacement d'arrêt d'urgence est doté d'un poste d'appel d'urgence.
+
+M9f indiquant que l'emplacement d'arrêt d'urgence est doté d'un poste d'appel d'urgence et d'un moyen de lutte contre l'incendie.
+
 M 9 z indications diverses par inscriptions.
 
-Les panonceaux ne comportent pas de listel :
+Le fond des panonceaux est de couleur blanche.
 
-(Arrêté du 22 septembre 1981, art. 1er-III.) La couleur du fond du panonceau est la même que celle du fond du panneau auquel il est associé ; toutefois, le fond du panonceau schéma M 7 est toujours de couleur blanche. Les symboles sont noirs sur fond clair et blancs sur fond foncé.
+Les pictogrammes et inscriptions figurant sur les pannonceaux sont noirs, sauf :
 
-Toutefois, les panonceaux M 4 k, M 4 l, M 4 m reprennent les couleurs des symboles des panneaux B 18 a, B 18 b et B 18 c. L'éclair du panonceau M 9 b est de couleur rouge.
+- les pictogrammes des pannonceaux M4k, M4l, M4m qui reprennent les couleurs des pictogrammes des panneaux B18a, B18b et B18c ;
+
+- le pictogramme du pannonceau M6h qui est de couleur bleue et blanche ;
+
+- l'éclair du panonceau M9b et l'extincteur du panonceau M9f qui sont de couleur rouge.

@@ -26,6 +26,8 @@ Panneau C 6 : Arrêt d'autobus. Le stationnement est réservé aux autobus sur u
 
 Panneau C 7 : Indication d'un arrêt de tramway. - Le stationnement est réservé aux tramways. Les autres usagers de la route ne doivent pas dépasser un tramway pendant son arrêt, conformément à l'article R. 16 du code de la route.
 
+Panneau C8 : Indication d'un emplacement d'arrêt d'urgence. L'emplacement constitué par un aménagement ponctuel de l'accotement est strictement réservé aux arrêts d'urgence.
+
 Panneau C 12 : Circulation à sens unique.
 
 Panneau C 13 a : Chemin sans issue.
@@ -186,7 +188,7 @@ Panneau CE 7 : Emplacement pour pique-nique.
 
 Panneau CE 8 : Trains autos.
 
-Panneau CE 9 : Trains autos-couchettes.
+Panneau CE 9 : Trains autos-couchettes. (supprimé : arrêté du 16 mai 2001 art. 8).
 
 Panneau CE 10 : Navire transbordeur, bac.
 
@@ -226,6 +228,12 @@ Panneau CE 27 : Point relax.
 
 Panneau CE 28 : Atelier d'entretien de véhicules.
 
+Panneau CE29 : Moyen de lutte contre l'incendie.
+
+Panneau CE30a : Issue de secours vers la droite.
+
+Panneau CE30b : Issue de secours vers la gauche.
+
 Panneau CE 50 : Installations diverses.
 
 Les panneaux de type CE sont de forme carrée.
@@ -241,6 +249,10 @@ Font exception :
 Le panneau CE 1 dont le pictogramme est rouge ;
 
 Le panneau CE 3 b dont plusieurs faces peuvent être polychromes.
+
+Le panneau CE29 dont le pictogramme est rouge ;
+
+Les panneaux CE30a et CE30b qui n'ont pas de bordure bleue et dont le pictogramme est blanc sur fond vert.
 
 2. SIGNAUX DE DIRECTION
 
@@ -281,6 +293,8 @@ Panneau D 31 d : Panneau de signalisation avancée de sortie numérotée.
 Panneau D 31 e : Panneau de signalisation avancée de sortie non numérotée.
 
 Panneau D 31 f : Panneau de signalisation avancée de bifurcation autoroutière.
+
+Panneaux de signalisation d'entrée d'aires de service ou de repos.
 
 Panneau D 32 a : Panneau de signalisation avancée d'aire sur route.
 
@@ -619,6 +633,22 @@ Le ministre chargé des transports arrête la liste des agglomérations et autre
 Sur la base de cette liste peuvent être classés liaisons vertes les itinéraires définis pour relier entre eux les pôles verts.
 
 Le schéma directeur national, constitué par la liste des pôles verts et les cartes des liaisons vertes, est approuvé par le ministre chargé des transports.
+
+2.1. PANNEAUX DE JALONNEMENT PIETONNIER DE TYPE DP :
+
+Panneau Dp1a : Jalonnement piétonnier d'un poste d'appel d'urgence vers la droite.
+
+Panneau Dp1b : Jalonnement piétonnier d'un poste d'appel d'urgence vers la gauche.
+
+Panneau Dp2a : Jalonnement piétonnier d'une issue de secours vers la droite.
+
+Panneau Dp2b:  Jalonnement piétonnier d'une issue de secours vers la gauche.
+
+Les panneaux de type Dp sont de forme rectangulaire et comportent une pointe de flèche dessinée et une indication de distance. Ils ne comportent pas de listel.
+
+Les panneaux de type Dp1 sont à fond blanc ; la pointe de flèche dessinée est de couleur blanche sur fond noir.
+
+Les panneaux de type Dp2 sont à fond vert ; la pointe de flèche dessinée est de couleur verte sur fond blanc.
 
 3. PANNEAUX DE LOCALISATION
 

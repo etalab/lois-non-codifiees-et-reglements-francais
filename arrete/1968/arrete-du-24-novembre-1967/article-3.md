@@ -72,8 +72,6 @@ Panneau A 23. - Traversée d'une aire de danger aérien.
 
 Panneau A 24. - Vent latéral.
 
-Panneau A 25. - Carrefour à sens giratoire.
-
 Les panneaux de danger sont de forme triangulaire. Ils ont le fond blanc et sont bordés d'une bande rouge, elle-même entourée d'un listel blanc.
 
 Les symboles et inscriptions sont noirs à l'exception du symbole du panneau A 17 qui est tricolore et de celui du panneau A 24 qui comportent des éléments alternativement blancs et rouges.

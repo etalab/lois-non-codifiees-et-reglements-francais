@@ -7,3 +7,4 @@
 - [CHAPITRE V : Contrôles et sanctions.](chapitre-v)
 - [CHAPITRE VI : De la Commission nationale de l'expérimentation animale.](chapitre-vi)
 - [CHAPITRE VII : Dispositions finales et transitoires.](chapitre-vii)
+- [Article 37](article-37.md)

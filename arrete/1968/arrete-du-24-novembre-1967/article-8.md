@@ -34,7 +34,7 @@ Les marques sur chaussées sont réparties en trois catégories :
 
 - les lignes transversales, dites Lignes d'effet des feux de circulation, qui sont tracées aux intersections qui ne comportent pas de passage pour piétons ainsi qu'aux endroits où les véhicules doivent éventuellement marquer l'arrêt si cet arrêt n'est pas au droit des feux ou si le feu se trouve en amont du passage pour piétons ont une largeur de 0,15 mètre. Elles sont discontinues et la longueur des traits est égale à celle des intervalles.
 
-3° MARQUES COMPLEMENTAIRES :
+3° MARQUAGES COMPLEMENTAIRES :
 
 - flèches de rabattement : ces flèches légèrement incurvées signalent aux usagers circulant dans le sens de ces flèches qu'ils doivent emprunter la ou les oies situées du côté qu'elles indiquent ;
 
@@ -48,4 +48,6 @@ Les marques sur chaussées sont réparties en trois catégories :
 
 - marques relatives aux ralentisseurs : le marquage constitué d'un ensemble de triangles blancs disposés sur le ralentisseur et dont les pointes sont orientées dans le sens de la circulation indique aux usagers la présence d'un aménagement qui doit être franchi à faible vitesse ;
 
-- marques relatives aux emplacements réservés au stationnement des véhicules des grands invalides civils et des grands invalides de guerre : le pictogramme représentant une silhouette dans un fauteuil roulant, peint sur un emplacement de stationnement ou sur ses limites, rappelle que cet emplacement est réservé au stationnement des véhicules des grands invalides civils et des grands invalides de guerre.
+- marques relatives aux emplacements réservés au stationnement des véhicules des grands invalides civils et des grands invalides de guerre : le pictogramme représentant une silhouette dans un fauteuil roulant, peint sur un emplacement de stationnement ou sur ses limites, rappelle que cet emplacement est réservé au stationnement des véhicules des grands invalides civils et des grands invalides de guerre ;
+
+- marques relatives aux emplacements réservés au stationnement des véhicules électriques pendant la durée de recharge de leurs accumulateurs : le pictogramme représentant un véhicule électrique peint sur les limites d'un emplacement de stationnement rappelle que cet emplacement est réservé au stationnement des véhicules électriques pendant la durée de recharge de leurs accumulateurs.
