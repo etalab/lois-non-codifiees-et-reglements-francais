@@ -3,7 +3,6 @@
 - [Décret n°58-351 du 2 avril 1958](decret-n58-351-du-2-avril-1958)
 - [Décret n°58-368 du 2 avril 1958](decret-n58-368-du-2-avril-1958)
 - [Décret du 3 octobre 1958](decret-du-3-octobre-1958)
-- [Décret n°58-465 du 3 mai 1958](decret-n58-465-du-3-mai-1958)
 - [Décret n° 58-15 du 8 janvier 1958](decret-n-58-15-du-8-janvier-1958)
 - [Décret n°58-254 du 8 mars 1958](decret-n58-254-du-8-mars-1958)
 - [Décret n°58-924 du 8 octobre 1958](decret-n58-924-du-8-octobre-1958)
