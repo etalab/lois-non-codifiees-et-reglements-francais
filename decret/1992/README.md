@@ -433,7 +433,6 @@
 - [Décret n°92-1134 du 12 octobre 1992 (COMX9210439D)](decret-n92-1134-du-12-octobre-1992-comx9210439d)
 - [Décret n°92-1135 du 12 octobre 1992 (AGRX9200184D)](decret-n92-1135-du-12-octobre-1992-agrx9200184d)
 - [Décret n°92-1136 du 12 octobre 1992 (INDX9200185D)](decret-n92-1136-du-12-octobre-1992-indx9200185d)
-- [Décret n°92-1137 du 12 octobre 1992 (PARX9200176D)](decret-n92-1137-du-12-octobre-1992-parx9200176d)
 - [Décret n°92-1157 du 12 octobre 1992 (ENVN9200069D)](decret-n92-1157-du-12-octobre-1992-envn9200069d)
 - [Décret n°92-1213 du 12 novembre 1992 (MAEJ9230063D)](decret-n92-1213-du-12-novembre-1992-maej9230063d)
 - [Décret n°92-1214 du 12 novembre 1992 (MAEJ9230060D)](decret-n92-1214-du-12-novembre-1992-maej9230060d)
