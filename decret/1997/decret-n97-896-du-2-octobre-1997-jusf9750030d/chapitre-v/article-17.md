@@ -1,21 +1,13 @@
 # Article 17
 
-Pour l'application de l'article L. 16 du code des pensions civiles et militaires de retraite, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article L. 15 dudit code sont effectuées conformément au tableau de correspondance ci-après :
+Les agents de service régis par le titre III du décret du 6 février 1980 susvisé, titulaires du grade d'agent spécialiste de 3e catégorie, sont intégrés dans le corps des agents spécialistes régi par le présent décret et nommés au grade d'agent spécialiste de 2e classe dans les conditions suivantes :
 
-ANCIENNE SITUATION : Agent spécialiste hors catégorie
+I. - Ceux qui ont été recrutés avant le 1er août 1993 sont intégrés en quatre tranches annuelles :
 
-NOUVELLE SITUATION : Agent spécialiste hors classe.
+Ces intégrations, prononcées par voie d'inscription sur une liste d'aptitude annuelle établie après avis de la commission administrative paritaire, prennent effet au 1er août 1990, au 1er août 1991, au 1er août 1992 et au 1er août 1993 ;
 
-ANCIENNE SITUATION : Agent spécialiste de 1re catégorie
+Le nombre d'agents inscrits sur chacune des trois premières listes d'aptitude ne peut être supérieur au quart de l'effectif total du grade d'agent spécialiste de 3e catégorie au 31 juillet 1990 ;
 
-NOUVELLE SITUATION : Agent spécialiste hors classe.
+Lorsque le nombre ainsi calculé n'est pas un entier, sa décimale est ajoutée au nombre calculé au titre de l'année suivante.
 
-ANCIENNE SITUATION : Agent spécialiste de 2e catégorie
-
-NOUVELLE SITUATION : Agent spécialiste de 1re classe.
-
-ANCIENNE SITUATION : Agent spécialiste de 3e catégorie
-
-NOUVELLE SITUATION : Agent spécialiste de 2e classe.
-
-Les pensions des fonctionnaires retraités avant l'intervention du présent décret ou celles de leurs ayants cause sont révisées en application des dispositions ci-dessus à compter du 1er août 1993.
+II. - Ceux qui ont été recrutés entre le 1er août 1993 et la date de publication du présent décret sont intégrés dans le corps des agents spécialistes régi par le présent décret et nommés au grade d'agent spécialiste de 2e classe à la date de leur nomination en qualité d'agent spécialiste de 3e catégorie.
