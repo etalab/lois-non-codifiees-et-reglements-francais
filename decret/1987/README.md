@@ -23,6 +23,7 @@
 - [Décret n°87-38 du 21 janvier 1987 (ASES8700056D)](decret-n87-38-du-21-janvier-1987-ases8700056d)
 - [Décret du 22 décembre 1986 (AGRM8700091D)](decret-du-22-decembre-1986-agrm8700091d)
 - [Décret n°86-1371 du 23 décembre 1986](decret-n86-1371-du-23-decembre-1986)
+- [Décret n°87-32 du 23 janvier 1987 (MENL8700013D)](decret-n87-32-du-23-janvier-1987-menl8700013d)
 - [Décret n°86-1316 du 26 décembre 1986](decret-n86-1316-du-26-decembre-1986)
 - [Décret du 29 décembre 1986](decret-du-29-decembre-1986)
 - [Décret n°86-1361 du 29 décembre 1986](decret-n86-1361-du-29-decembre-1986)
