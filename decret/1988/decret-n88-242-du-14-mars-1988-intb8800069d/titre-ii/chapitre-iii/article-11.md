@@ -13,3 +13,15 @@ Chaque session de concours fait l'objet d'une publicité au Journal officiel qui
 " 2° Aux épreuves orales du 2° de l'article 8 du présent décret pour le concours externe et du 3° de ce même article pour le concours interne.
 
 " Ces épreuves spécialisées sont affectées des coefficients des épreuves écrites et orales auxquelles elles se substituent. "
+
+" A titre transitoire et pour les concours ouverts avant le 31 janvier 1993, les candidats peuvent demander, au moment de leur inscription, à être soumis aux épreuves prévues par les arrêtés du 15 juillet 1981 relatifs à l'introduction d'une option Animation dans les concours de rédacteur communal et du 12 juin 1984 relatifs à l'introduction d'une option Informatique dans les concours de rédacteur communal.
+
+" Les candidats ayant choisi l'option Animation doivent satisfaire aux conditions de diplôme énoncées à l'article 2 de l'arrêté du 5 juillet 1981 précité. Les candidats au concours externe ayant choisi l'option Informatique doivent satisfaire aux conditions de diplôme énoncées à l'article 2 de l'arrêté du 12 juin 1984 précité.
+
+" Les candidats ayant choisi l'option Informatique ou l'option Animation doivent satisfaire aux épreuves spécialisées prévues à l'article 2 de l'arrêté du 12 juin 1984 ou de l'arrêté du 15 juillet 1981 précités qui se substituent respectivement :
+
+" 1° A l'épreuve écrite du 2° de l'article 6 du présent décret pour le concours externe et du 2° de l'article 7 du présent décret pour le concours interne ;
+
+" 2° Aux épreuves orales du 2° de l'article 8 du présent décret pour le concours externe et du 3° de ce même article pour le concours interne.
+
+" Ces épreuves spécialisées sont affectées des coefficients des épreuves écrites et orales auxquelles elles se substituent. "
