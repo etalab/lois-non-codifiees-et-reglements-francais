@@ -250,6 +250,7 @@
 - [Arrêté du 22 décembre 1994 (INDP9401517A)](arrete-du-22-decembre-1994-indp9401517a)
 - [Arrêté du 22 décembre 1994 (SANH9503949A)](arrete-du-22-decembre-1994-sanh9503949a)
 - [Arrêté du 22 février 1995 (BUDP9500001A)](arrete-du-22-fevrier-1995-budp9500001a)
+- [Arrêté du 22 février 1995 (MENE9402285A)](arrete-du-22-fevrier-1995-mene9402285a)
 - [Arrêté du 22 février 1995 (RESK9500328A)](arrete-du-22-fevrier-1995-resk9500328a)
 - [Arrêté du 22 février 1995 (SPSS9500653A)](arrete-du-22-fevrier-1995-spss9500653a)
 - [Arrêté du 22 février 1995 (SPSS9500659A)](arrete-du-22-fevrier-1995-spss9500659a)
