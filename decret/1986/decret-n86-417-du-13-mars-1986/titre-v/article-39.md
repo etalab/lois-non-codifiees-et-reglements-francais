@@ -1,6 +1,6 @@
 # Article 39
 
-Dans les trois mois qui suivent la publication du présent décret, les fonctionnaires territoriaux qui ont vocation à être intégrés dans le corps des administrateurs territoriaux en application des 1° à 10° de l'article 31, et des articles 32, 33, 35, 36 et 37 saisissent le Centre national de gestion d'un dossier retraçant leur carrière, accompagné des pièces nécessaires pour arrêter les modalités de leur intégration et de leur reclassement dans le corps des administrateurs territoriaux. Ils informent l'autorité territoriale dont ils dépendent de cette saisine.
+A partir du 1er mars 1987 et jusqu'au 31 mai 1987,[*date*] les fonctionnaires territoriaux qui ont vocation à être intégrés dans le corps des administrateurs territoriaux en application des 1° à 10° de l'article 31, et des articles 32, 33, 35, 36 et 37 saisissent le Centre national de gestion d'un dossier retraçant leur carrière, accompagné des pièces nécessaires pour arrêter les modalités de leur intégration et de leur reclassement dans le corps des administrateurs territoriaux. Ils informent l'autorité territoriale dont ils dépendent de cette saisine.
 
 La même procédure est applicable :
 
