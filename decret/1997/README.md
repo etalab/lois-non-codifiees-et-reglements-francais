@@ -701,7 +701,6 @@
 - [Décret n°97-739 du 25 juin 1997 (MAEJ9730057D)](decret-n97-739-du-25-juin-1997-maej9730057d)
 - [Décret n°97-740 du 25 juin 1997 (MAEJ9730047D)](decret-n97-740-du-25-juin-1997-maej9730047d)
 - [Décret n°97-877 du 25 septembre 1997 (FPPX9700114D)](decret-n97-877-du-25-septembre-1997-fppx9700114d)
-- [Décret n°97-886 du 25 septembre 1997 (EQUH9701125D)](decret-n97-886-du-25-septembre-1997-equh9701125d)
 - [Décret n°97-887 du 25 septembre 1997 (EQUH9701126D)](decret-n97-887-du-25-septembre-1997-equh9701126d)
 - [Décret n°97-890 du 25 septembre 1997 (ECOI9700471D)](decret-n97-890-du-25-septembre-1997-ecoi9700471d)
 - [Décret n°99-902 du 25 octobre 1999 (JUSE9940002D)](decret-n99-902-du-25-octobre-1999-juse9940002d)

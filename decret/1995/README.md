@@ -114,7 +114,6 @@
 - [Décret n°95-904 du 4 août 1995 (SANP9502227D)](decret-n95-904-du-4-aout-1995-sanp9502227d)
 - [Décret n°95-990 du 4 septembre 1995 (INTA9500269D)](decret-n95-990-du-4-septembre-1995-inta9500269d)
 - [Décret n°96-1048 du 4 décembre 1996 (EQUH9601213D)](decret-n96-1048-du-4-decembre-1996-equh9601213d)
-- [Décret n°96-1049 du 4 décembre 1996 (EQUH9601214D)](decret-n96-1049-du-4-decembre-1996-equh9601214d)
 - [Décret n°95-518 du 4 mai 1995 (DEFX9500063D)](decret-n95-518-du-4-mai-1995-defx9500063d)
 - [Décret n°95-522 du 4 mai 1995 (EQUG9500241D)](decret-n95-522-du-4-mai-1995-equg9500241d)
 - [Décret n°95-524 du 4 mai 1995 (SPSA9501357D)](decret-n95-524-du-4-mai-1995-spsa9501357d)

@@ -115,7 +115,6 @@
 - [Arrêté du 24 décembre 1982](arrete-du-24-decembre-1982)
 - [Arrêté du 25 août 1983](arrete-du-25-aout-1983)
 - [Arrêté du 25 avril 1983](arrete-du-25-avril-1983)
-- [Arrêté du 25 janvier 1964](arrete-du-25-janvier-1964)
 - [Arrêté du 25 juillet 1983](arrete-du-25-juillet-1983)
 - [Arrêté du 25 novembre 1983](arrete-du-25-novembre-1983)
 - [Arrêté du 25 octobre 1983](arrete-du-25-octobre-1983)
