@@ -1,13 +1,17 @@
 # Article 2
 
-Le commissariat à l'énergie atomique est administré par un comité qui comprend, sous la présidence du président du Gouvernement provisoire :
+Le commissariat à l'énergie atomique est administré, conformément aux directives générales du Gouvernement, par un comité qui comprend :
 
-Un haut commissaire à l'énergie atomique choisi parmi les personnalités qualifiées par leurs travaux relatifs à l'énergie d'origine atomique ;
+Un administrateur général, délégué du Gouvernement ;
 
-Un administrateur général délégué du Gouvernement ;
+Cinq personnalités qualifiées en raison de leur compétence dans le domaine scientifique et industriel, dont l'une exercera les fonctions de haut-commissaire définies aux articles suivants.
 
-Trois personnalités qualifiées par leurs travaux relatifs à l'énergie d'origine atomique ;
+Une personnalité choisie par le Premier ministre sur proposition du ministre des armées.
 
-Le président du comité de coordination des recherches concernant la défense nationale.
+Le directeur du centre national de la recherche scientifique ;
 
-Les membres du comité autres que le membre de droit sont nommés par décret en conseil des ministres, sur le rapport du ministre de l'éducation nationale et du ministre de la production industrielle et, en ce qui concerne l'administrateur général, avec le contreseing du ministre des finances.
+Cinq hauts fonctionnaires choisis par le Premier ministre.
+
+Le comité est présidé par le Premier ministre ou par un ministre ou secrétaire d'Etat délégué par lui et, à défaut, par l'administrateur général.
+
+Les membres du comité autres que les membres de droit sont nommés pour cinq ans par décret en conseil des ministres.
