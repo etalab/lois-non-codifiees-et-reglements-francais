@@ -4,15 +4,17 @@ La liste des unités, formations et services visée à l'article 1er du décret 
 
 1o Armée de mer:
 
-Groupement des fusiliers commandos;
+- état-major du commandement des fusiliers-marins et des commandos ;
 
-Ecole de plongée;
+- commandos "Jaubert", "Trepel", "de Penfentenyo", "de Montfort" et "Hubert" ;
 
-Ecole de fusiliers (personnel instructeur et d'encadrement pour l'entraînement et la préparation en vue du stage de parachutiste);
+- base des fusiliers-marins et des commandos de Lorient (personnel destiné à renforcer, en cas de besoin, les commandos en opérations) ;
 
-Centre amphibie de la marine;
+- école des fusiliers (personnel instructeur et d'encadrement pour l'entraînement et la préparation en vue du stage de parachutiste) ;
 
-Etat-major du commandement des fusiliers marins.
+- flotille amphibie de Toulon ;
+
+- école de plongée.
 
 2o Armée de l'air:
 
