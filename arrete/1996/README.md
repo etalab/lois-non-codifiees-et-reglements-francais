@@ -388,6 +388,7 @@
 - [Arrêté du 15 janvier 1996 (MENN9503056A)](arrete-du-15-janvier-1996-menn9503056a)
 - [Arrêté du 15 janvier 1996 (MENN9600016A)](arrete-du-15-janvier-1996-menn9600016a)
 - [Arrêté du 15 juillet 1974](arrete-du-15-juillet-1974)
+- [Arrêté du 15 juillet 1996 (BUDD9670495A)](arrete-du-15-juillet-1996-budd9670495a)
 - [Arrêté du 15 mars 1996 (BUDL9600022A)](arrete-du-15-mars-1996-budl9600022a)
 - [Arrêté du 15 mars 1996 (BUDR9605005A)](arrete-du-15-mars-1996-budr9605005a)
 - [Arrêté du 15 mars 1996 (MCCK9600170A)](arrete-du-15-mars-1996-mcck9600170a)

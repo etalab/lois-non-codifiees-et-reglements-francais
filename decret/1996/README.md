@@ -405,6 +405,7 @@
 - [Décret n°96-573 du 21 juin 1996 (INTC9600132D)](decret-n96-573-du-21-juin-1996-intc9600132d)
 - [Décret n°96-741 du 21 août 1996 (TASP9622433D)](decret-n96-741-du-21-aout-1996-tasp9622433d)
 - [Décret n°96-746 du 21 août 1996 (ENVN9640018D)](decret-n96-746-du-21-aout-1996-envn9640018d)
+- [Décret n°96-747 du 21 août 1996 (MENF9602115D)](decret-n96-747-du-21-aout-1996-menf9602115d)
 - [Décret n°96-431 du 21 mai 1996 (ECOT9626154D)](decret-n96-431-du-21-mai-1996-ecot9626154d)
 - [Décret n°96-443 du 21 mai 1996 (DOMP9600015D)](decret-n96-443-du-21-mai-1996-domp9600015d)
 - [Décret n°96-483 du 21 mai 1996 (MENF9502594D)](decret-n96-483-du-21-mai-1996-menf9502594d)
