@@ -11,4 +11,5 @@
 - [Loi du 3 octobre 1940](loi-du-3-octobre-1940)
 - [Loi du 5 octobre 1940](loi-du-5-octobre-1940)
 - [Loi du 8 octobre 1940](loi-du-8-octobre-1940)
+- [Loi du 9 novembre 1940](loi-du-9-novembre-1940)
 - [Loi n°1940-09-10 du 10 septembre 1940](loi-n1940-09-10-du-10-septembre-1940)
