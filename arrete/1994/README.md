@@ -790,8 +790,6 @@
 - [Arrêté du 22 novembre 1994 (EQUZ9401927A)](arrete-du-22-novembre-1994-equz9401927a)
 - [Arrêté du 22 novembre 1994 (EQUZ9401928A)](arrete-du-22-novembre-1994-equz9401928a)
 - [Arrêté du 22 novembre 1994 (EQUZ9401929A)](arrete-du-22-novembre-1994-equz9401929a)
-- [Arrêté du 22 novembre 1994 (INDP9401360A)](arrete-du-22-novembre-1994-indp9401360a)
-- [Arrêté du 22 novembre 1994 (INDP9401361A)](arrete-du-22-novembre-1994-indp9401361a)
 - [Arrêté du 22 novembre 1994 (INDP9401362A)](arrete-du-22-novembre-1994-indp9401362a)
 - [Arrêté du 22 novembre 1994 (INDP9401363A)](arrete-du-22-novembre-1994-indp9401363a)
 - [Arrêté du 22 novembre 1994 (MAEF9410044A)](arrete-du-22-novembre-1994-maef9410044a)

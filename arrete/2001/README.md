@@ -542,8 +542,6 @@
 - [Arrêté du 28 mars 2001 (AGRA0100514A)](arrete-du-28-mars-2001-agra0100514a)
 - [Arrêté du 28 mars 2001 (ECOF0100003A)](arrete-du-28-mars-2001-ecof0100003a)
 - [Arrêté du 28 mars 2001 (EQUA0100514A)](arrete-du-28-mars-2001-equa0100514a)
-- [Arrêté du 28 novembre 2001 (MCCB0100501A)](arrete-du-28-novembre-2001-mccb0100501a)
-- [Arrêté du 28 novembre 2001 (MCCB0100503A)](arrete-du-28-novembre-2001-mccb0100503a)
 - [Arrêté du 28 novembre 2001 (MESH0124103A)](arrete-du-28-novembre-2001-mesh0124103a)
 - [Arrêté du 28 septembre 2001 (ECOB0130025A)](arrete-du-28-septembre-2001-ecob0130025a)
 - [Arrêté du 28 septembre 2001 (INTB0100581A)](arrete-du-28-septembre-2001-intb0100581a)
