@@ -24,7 +24,7 @@ La date d'entrée en jouissance de la pension de réversion mentionnée à l'art
 
 2° Au premier jour du mois suivant la date de réception de la demande si celle-ci est déposée après l'expiration du délai d'un an mentionné au 1° ci-dessus.
 
-Cette date ne peut toutefois pas être antérieure au premier jour du mois suivant le cinquante-cinquième anniversaire du conjoint survivant.
+Cette date ne peut toutefois, sous réserve des dispositions prévues au troisième alinéa de l'article L. 732-62 du code rural, pas être antérieure au premier jour du mois suivant le cinquante-cinquième anniversaire du conjoint survivant.
 
 Pour 2003, la date d'entrée en jouissance de la pension de réversion de la retraite complémentaire obligatoire ne saurait être antérieure au 1er avril 2003.
 
