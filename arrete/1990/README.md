@@ -428,6 +428,8 @@
 - [Arrêté du 16 octobre 1990 (LOGC9000070A)](arrete-du-16-octobre-1990-logc9000070a)
 - [Arrêté du 16 octobre 1990 (MCCK9000670A)](arrete-du-16-octobre-1990-mcck9000670a)
 - [Arrêté du 16 octobre 1990 (PTTR9000818A)](arrete-du-16-octobre-1990-pttr9000818a)
+- [Arrêté du 16 octobre 1990 (PTTR9000819A)](arrete-du-16-octobre-1990-pttr9000819a)
+- [Arrêté du 16 octobre 1990 (PTTR9000820A)](arrete-du-16-octobre-1990-pttr9000820a)
 - [Arrêté du 16 octobre 1990 (PTTR9000821A)](arrete-du-16-octobre-1990-pttr9000821a)
 - [Arrêté du 16 mai 1990 (EQUA9000813A)](arrete-du-16-mai-1990-equa9000813a)
 - [Arrêté du 16 mai 1990 (INDD9000222A)](arrete-du-16-mai-1990-indd9000222a)
