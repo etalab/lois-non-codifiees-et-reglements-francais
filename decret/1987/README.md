@@ -42,6 +42,7 @@
 - [Décret n°87-7 du 7 janvier 1987](decret-n87-7-du-7-janvier-1987)
 - [Décret n°87-11 du 8 janvier 1987](decret-n87-11-du-8-janvier-1987)
 - [Décret n°87-249 du 8 avril 1987 (INTD8700094D)](decret-n87-249-du-8-avril-1987-intd8700094d)
+- [Décret n°87-253 du 8 avril 1987 (ECOM8740013D)](decret-n87-253-du-8-avril-1987-ecom8740013d)
 - [Décret n°87-8 du 8 janvier 1987](decret-n87-8-du-8-janvier-1987)
 - [Décret n°87-823 du 8 octobre 1987 (MENF8700521D)](decret-n87-823-du-8-octobre-1987-menf8700521d)
 - [Décret n°87-158 du 9 mars 1987](decret-n87-158-du-9-mars-1987)
