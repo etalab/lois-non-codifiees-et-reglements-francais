@@ -15,5 +15,6 @@
 - [Titre XV : De la revision.](titre-xv)
 - [Titre XIV : Des Communautés européennes et de l'Union européenne.](titre-xiv)
 - [Titre XVI : Dispositions transitoires.](titre-xvi)
+- [Titre XVII : Dispositions transitoires.](titre-xvii)
 - [Titre premier : De la souveraineté](titre-premier)
 - [Article PREAMBULE](article-preambule.md)
