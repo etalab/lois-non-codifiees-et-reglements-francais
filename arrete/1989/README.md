@@ -501,6 +501,7 @@
 - [Arrêté du 27 juin 1989 (INDD8900398A)](arrete-du-27-juin-1989-indd8900398a)
 - [Arrêté du 27 juin 1989 (PTTP8900551A)](arrete-du-27-juin-1989-pttp8900551a)
 - [Arrêté du 27 octobre 1988 (INDA8800802A)](arrete-du-27-octobre-1988-inda8800802a)
+- [Arrêté du 27 octobre 1989 (AGRA8901650A)](arrete-du-27-octobre-1989-agra8901650a)
 - [Arrêté du 28 août 1989 (BUDR8906006A)](arrete-du-28-aout-1989-budr8906006a)
 - [Arrêté du 28 août 1989 (SPSA8901748A)](arrete-du-28-aout-1989-spsa8901748a)
 - [Arrêté du 28 août 1989 (SPSS8901356A)](arrete-du-28-aout-1989-spss8901356a)

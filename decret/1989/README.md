@@ -372,6 +372,7 @@
 - [Décret n°89-523 du 27 juillet 1989 (DOMP8900021D)](decret-n89-523-du-27-juillet-1989-domp8900021d)
 - [Décret n°89-524 du 27 juillet 1989 (DOMP8900020D)](decret-n89-524-du-27-juillet-1989-domp8900020d)
 - [Décret n°89-525 du 27 juillet 1989 (AGRS8901345D)](decret-n89-525-du-27-juillet-1989-agrs8901345d)
+- [Décret n°89-793 du 27 octobre 1989 (PTTT8900553D)](decret-n89-793-du-27-octobre-1989-pttt8900553d)
 - [Décret n°89-799 du 27 octobre 1989 (MENN8902269D)](decret-n89-799-du-27-octobre-1989-menn8902269d)
 - [Décret n°89-801 du 27 octobre 1989 (BUDF8900006D)](decret-n89-801-du-27-octobre-1989-budf8900006d)
 - [Décret n°89-802 du 27 octobre 1989 (BUDF8900007D)](decret-n89-802-du-27-octobre-1989-budf8900007d)
