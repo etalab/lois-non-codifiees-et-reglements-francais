@@ -8,7 +8,9 @@ II. - Il est institué dans la collectivité territoriale de Mayotte une organis
 
 2° A l'état d'incapacité permanente de travail, et notamment aux taux de cette incapacité en cas d'accident du travail ou de maladie professionnelle ;
 
-3° Aux décisions de la caisse de prévoyance sociale concernant, en matière d'accident du travail, la fixation du taux de cotisation, l'octroi de ristournes ou l'imposition de cotisations supplémentaires.
+3° Aux décisions de la caisse de prévoyance sociale concernant, en matière d'accident du travail, la fixation du taux de cotisation, l'octroi de ristournes ou l'imposition de cotisations supplémentaires ;
+
+4° Aux fautes, abus, fraudes et tous faits intéressant l'exercice de la profession à Mayotte, relevés à l'encontre des professionnels relevant du conseil mentionné à l'article L. 4391-1 du code de la santé publique à l'occasion des soins dispensés aux assurés sociaux.
 
 III. - Le tribunal de première instance de Mayotte connaît des litiges mentionnés aux I et II.
 
