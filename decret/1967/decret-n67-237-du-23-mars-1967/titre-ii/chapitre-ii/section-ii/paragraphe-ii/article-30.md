@@ -1,6 +1,6 @@
 # Article 30
 
-Doivent être déclarés au greffe, dans le délai de quinze jours, pour être mentionnés au registre du commerce, tous faits et actes entraînant une modification des mentions prescrites, et notamment :
+Doivent être déclarées au greffe, dans le délai d'un mois, pour être mentionnés au registre du commerce et des sociétés, tous faits et actes entraînant une modification des mentions prescrites, et notamment :
 
 1° Les décisions définitives plaçant un majeur sous tutelle ou sous curatelle au sens des articles 488, 492 et 508 du code civil tels qu'ils sont rédigés depuis la loi n° 68-5 du 3 janvier 1968 portant réforme du droit des incapables majeurs, ainsi que les décisions définitives donnant mainlevée de la tutelle ou de la curatelle ou rapportant ces mesures.
 
@@ -12,7 +12,7 @@ Doivent être déclarés au greffe, dans le délai de quinze jours, pour être m
 
 5° Les ordonnances rendues par le président du tribunal de grande instance en application de l'article 220-1 du code civil et prescrivant l'une des mesures spécialement prévues au deuxième alinéa de cet article ;
 
-6° Si le mari donne son accord exprès à l'exercice d'un commerce par la femme, la déclaration prévue à l'article 1420 du code civil ;
+6° Si la mari donne son accord exprès à l'exercice d'un commerce par la femme, la déclaration prévue à l'article 1420 du code civil ;
 
 7° La désignation et la cessation de fonctions des personnes visées à l'article 9 (10°) ;
 

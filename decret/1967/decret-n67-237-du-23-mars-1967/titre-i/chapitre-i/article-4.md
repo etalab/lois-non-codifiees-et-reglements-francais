@@ -12,6 +12,6 @@ Le registre tenu au greffe comprend :
 
 a) Pour les personnes physiques, leurs nom, prénoms et date de naissance, la nature de l'activité exercée et l'adresse du principal établissement ;
 
-b) Pour les personnes morales autres que les groupements d'intérêt économique, la forme juridique, la raison sociale ou la dénomination sociale, la nature de l'activité exercée, l'adresse du siège social, et, si ce siège n'est pas situé dans le ressort du tribunal, celui du principal établissement dans ce ressort ;
+b) Pour les personnes morales autres que les groupements d'intérêt économique, la forme juridique et, le cas échéant, le statut légal particulier, la raison sociale ou la dénomination sociale, la nature de l'activité exercée, l'adresse du siège social et, si ce siège n'est pas situé dans le ressort du tribunal, celui du principal établissement dans ce ressort.
 
 c) Pour les groupements d'intérêt économique, la dénomination, l'objet et l'adresse du siège.

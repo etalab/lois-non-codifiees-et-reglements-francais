@@ -1,8 +1,8 @@
 # Article 2
 
-En dehors des dispositions de l'article 5 de la loi sur les sociétés commerciales, l'obligation d'immatriculation s'impose :
+L'obligation d'immatriculation s'impose dans les cas prévus à l'article 1842 du code civil et en outre :
 
-1° A tout commerçant, personne physique, même s'il est tenu de se faire immatriculer au répertoire des métiers en application des dispositions de l'article 1er du décret susvisé du 1er mars 1962 ;
+1° A tout commerçant, personne physique, même s'il est tenu de se faire immatriculer au répertoire des métiers en application des dispositions de l'article 1er du décret susvisé du 1er mars 1962.
 
 2° A toute société commerciale dont le siège est situé en territoire étranger, qui ouvre en territoire français une agence, une succursale, ou tout autre établissement ;
 

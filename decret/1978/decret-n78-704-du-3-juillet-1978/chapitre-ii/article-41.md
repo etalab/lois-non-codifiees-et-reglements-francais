@@ -1,0 +1,3 @@
+# Article 41
+
+Lorsque l'ordre du jour de l'assemblée porte sur la reddition de compte des gérants, le rapport d'ensemble sur l'activité de la société prévu à l'article 1856 du code civil, les rapports de l'organe de surveillance ou des commissaires aux comptes s'il y a lieu, le texte des résolutions proposées et tous autres documents nécessaires à l'information des associés sont adressés à chacun d'eux par lettre simple, quinze jours au moins avant la réunion de l'assemblée. Les mêmes documents sont, pendant ce délai, tenus à la disposition des associés au siège social, où ils peuvent en prendre connaissance ou copie.

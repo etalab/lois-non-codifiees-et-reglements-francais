@@ -1,6 +1,6 @@
 # Article 13
 
-Le greffier doit, dans le délai de huit jours à compter de l'immatriculation, adresser un avis à insérer au Bulletin officiel des annonces commerciales.
+Le greffier doit, dans le délai de huit jours à compter de l'immatriculation, adresser un avis à insérer au Bulletin officiel des annonces civiles et commerciales.
 
 Cet avis contient :
 
@@ -8,7 +8,7 @@ Cet avis contient :
 
 2° La raison sociale ou la dénomination sociale suivie, le cas échéant, de son sigle et de l'enseigne ou nom commercial ;
 
-3° La forme de la société ;
+3° La forme de la société et le cas échéant, l'indication du statut légal particulier auquel elle est soumise ;
 
 4° Le montant du capital et, si la société est à capital variable, le montant au-dessous duquel le capital ne peut être réduit ;
 
@@ -16,7 +16,7 @@ Cet avis contient :
 
 6° La ou les activités exercées et, le cas échéant, la date du commencement d'activité ;
 
-7° Les nom et prénoms des associés indéfiniment tenus des dettes sociales ;
+7° Les nom et prénoms des associés tenus indéfiniment et solidairement des dettes sociales ;
 
 8° Les nom et prénoms des associés ou des tiers ayant dans la société la qualité de gérant, administrateur, président du conseil d'administration, directeur général, membre du directoire, membre du conseil de surveillance ou commissaire aux comptes ;
 

@@ -1,8 +1,8 @@
 # Article 37
 
-Le greffier doit, dans les formes et délais prévus à l'article 10, adresser un avis de radiation à insérer au Bulletin officiel des annonces commerciales.
+Le greffier doit, dans les formes et délais prévus à l'article 10, adresser un avis de radiation à insérer au Bulletin officiel des annonces civiles et commerciales.
 
-Cet avis contient les indications suivantes
+Cet avis contient les indications suivantes :
 
 1° Les nom, prénoms et, le cas échéant, le pseudonyme de l'assujetti ;
 

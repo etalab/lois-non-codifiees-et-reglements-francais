@@ -1,6 +1,6 @@
 # Article 15-3
 
-Le greffier doit, dans le délai de huit jours à compter de l'immatriculation, adresser un avis à insérer au Bulletin officiel des annonces commerciales.
+Le greffier doit, dans le délai de huit jours à compter de l'immatriculation, adresser un avis à insérer au Bulletin officiel des annonces civiles et commerciales.
 
 L'avis contient les indications suivantes :
 
