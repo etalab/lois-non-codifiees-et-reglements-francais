@@ -4,6 +4,16 @@ Au sens du présent arrêté, on entend par :
 
 - bovin : un animal de l'espèce bovine, y compris Bison bison et Bubalus bubalus ;
 
+- bovin destiné à des événements culturels et sportifs : un bovin enregistré dans les livres généalogiques des organisations suivantes :
+
+- pour les animaux nés en France : associations des éleveurs français des taureaux de combat concernant la race brave ou de combat et association des éleveurs de la raço di biou en ce qui concerne la race camargue ou raço di biou (y compris tout croissement de ces races) ;
+
+- pour les animaux nés en Espagne et concernant la race raza bovina de Lidia :
+
+- Asociacion nacional de ganaderias de lidias, Asociacion nacional de ganaderias de lidias unidos, Agrapacion espagnola de reses bravas, Unio, de criadores de toros de lidia ;
+
+- pour les animaux nés au Portugal et concernant la race brava : Associaçao de criadores de toiros de lide ;
+
 - exploitation : tout établissement, toute construction ou, dans le cas d'une exploitation à ciel ouvert, tout lieu situé sur le territoire national, dans lequel les bovins sont détenus, élevés ou entretenus.
 
 Le terme exploitation prend en compte notamment les lieux suivants : lieux d'élevage, lieux de négoces, marchés, centres de rassemblement, abattoirs, établissements d'équarrissage, lieux de manifestation, centres d'insémination artificielle ;
