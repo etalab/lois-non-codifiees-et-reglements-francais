@@ -1028,7 +1028,6 @@
 - [Décret n°93-751 du 27 mars 1993 (EQUU9300550D)](decret-n93-751-du-27-mars-1993-equu9300550d)
 - [Décret n°93-773 du 27 mars 1993 (RESY9300158D)](decret-n93-773-du-27-mars-1993-resy9300158d)
 - [Décret n°93-774 du 27 mars 1993 (RESY9300159D)](decret-n93-774-du-27-mars-1993-resy9300159d)
-- [Décret n°93-958 du 27 juillet 1993 (TEFE9300777D)](decret-n93-958-du-27-juillet-1993-tefe9300777d)
 - [Décret n°93-959 du 27 juillet 1993 (TEFE9300776D)](decret-n93-959-du-27-juillet-1993-tefe9300776d)
 - [Décret n°93-963 du 27 juillet 1993 (PRMG9370420D)](decret-n93-963-du-27-juillet-1993-prmg9370420d)
 - [Décret n°93-971 du 27 juillet 1993 (DEFP9301558D)](decret-n93-971-du-27-juillet-1993-defp9301558d)
