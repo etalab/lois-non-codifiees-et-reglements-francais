@@ -1,8 +1,8 @@
 # Article 2
 
-Sans préjudice des dispositions de l'arrêté du 20 juin 1996 susvisé, les porcs d'élevage issus d'une région française non indemne et destinés à une région française indemne doivent répondre aux conditions suivantes :
+Sans préjudice des dispositions de l'arrêté du 20 juin 1996, les porcs d'élevage issus d'une région française non indemne et destinés à une région française indemne doivent répondre aux conditions suivantes :
 
-1. (alinéa supprimé) ;
+1. Ils proviennent d'un Etat membre où la maladie d'Aujeszky est à déclaration obligatoire ;
 
 2. Ils proviennent d'un troupeau dans lequel aucune preuve clinique ni sérologique n'a été constatée au cours des douze derniers mois ;
 
@@ -16,4 +16,4 @@ Sans préjudice des dispositions de l'arrêté du 20 juin 1996 susvisé, les por
 
 7. Ils ont tous présenté des résultats négatifs à un test ELISA de dépistage de l'anticorps anti-gl effectué sur des échantillons prélevés pendant les dix jours précédant l'expédition. Tous les animaux isolés et présents dans le local agréé doivent avoir aussi présenté des résultats négatifs à ce test. Dans le cas des porcs âgés de plus de quatre mois, le test utilisé doit être le test ELISA "anticorps totaux" ;
 
-8. S'ils sont issus de cheptels qualifiés au titre de l'arrêté du "...", ils doivent être accompagnés du document sanitaire d'accompagnement conforme aux modèles des annexes I ou II de l'arrêté visé au présent article, complété par le directeur des services vétérinaires, pour chaque expédition, de la mention : "Porcs conformes aux dispositions de la décision (C.E.E.) n° 93/24 de la commission du 11 décembre 1992 relative à la maladie d'Aujeszky. Le test utilisé était le test ELISA "anticorps totaux"/ELISA de dépistage de l'anticorps anti-gl. (biffer les mentions inutiles)".
+8. S'ils sont issus de cheptels qualifiés au titre de l'arrêté du 20 juin 1996, ils doivent être accompagnés du document sanitaire d'accompagnement conforme aux modèles des annexes I ou II de l'arrêté visé au présent article, complété par le directeur des services vétérinaires, pour chaque expédition, de la mention : "Porcs conformes aux dispositions de la décision (C.E.E.) n° 93/24 de la commission du 11 décembre 1992 relative à la maladie d'Aujeszky. Le test utilisé était le test ELISA "anticorps totaux"/ELISA de dépistage de l'anticorps anti-gl. (biffer les mentions inutiles)".

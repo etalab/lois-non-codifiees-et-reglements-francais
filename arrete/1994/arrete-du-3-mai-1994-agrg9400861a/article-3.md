@@ -1,8 +1,8 @@
 # Article 3
 
-Sans préjudice des dispositions de l'arrêté du 20 juin 1996 susvisé, les porcs d'élevage issus d'une région française non indemne et destinés à une région française indemne doivent répondre aux conditions suivantes :
+Sans préjudice des dispositions de l'arrêté du 6 juillet 1990 susvisé, les porcs d'engraissement issus d'une région française non indemne et destinés à une région française indemne doivent répondre aux conditions suivantes :
 
-1. (alinéa supprimé) ;
+1. Ils proviennent d'un Etat membre où la maladie d'Aujeszky est à déclaration obligatoire ;
 
 2. Ils proviennent d'un troupeau dans lequel aucune preuve clinique ni sérologique n'a été constatée au cours des douze derniers mois ;
 
