@@ -445,7 +445,6 @@
 - [Décret n°2003-1370 du 31 décembre 2003 (SOCF0312021D)](decret-n2003-1370-du-31-decembre-2003-socf0312021d)
 - [Décret n°2003-1371 du 31 décembre 2003 (SOCS0324980D)](decret-n2003-1371-du-31-decembre-2003-socs0324980d)
 - [Décret n°2003-1372 du 31 décembre 2003 (SOCS0324987D)](decret-n2003-1372-du-31-decembre-2003-socs0324987d)
-- [Décret n°2003-1373 du 31 décembre 2003 (SOCF0312022D)](decret-n2003-1373-du-31-decembre-2003-socf0312022d)
 - [Décret n°2003-1374 du 31 décembre 2003 (SOCF0311937D)](decret-n2003-1374-du-31-decembre-2003-socf0311937d)
 - [Décret n°2003-1375 du 31 décembre 2003 (SOCA0324996D)](decret-n2003-1375-du-31-decembre-2003-soca0324996d)
 - [Décret n°2003-1376 du 31 décembre 2003 (SOCS0325036D)](decret-n2003-1376-du-31-decembre-2003-socs0325036d)
