@@ -2,9 +2,9 @@
 
 Le Conseil national pour l'intégration des populations immigrées est présidé par le ministre chargé des affaires sociales et de l'intégration ou son représentant.
 
-Il comprend [*composition*] :
+Il comprend :
 
-a) Quatorze [*nombre*] personnes issues de l'immigration et appartenant au monde associatif ;
+a) Quatorze personnes issues de l'immigration et appartenant au monde associatif ;
 
 b) Quatorze représentants des organisations syndicales, désignés sur proposition des organisations suivantes :
 
@@ -28,7 +28,7 @@ c) Sept personnes particulièrement engagées dans l'action locale pour l'intég
 
 d) Sept personnes qualifiées ;
 
-e) Le secrétaire général à l'intégration et un représentant des ministères chargés des affaires sociales et de l'intégration, du travail, de l'emploi et de la formation professionnelle, de l'éducation nationale, de la culture, des affaires étrangères, de la ville, de l'équipement et du logement, de la justice, de l'intérieur, de l'agriculture, de la jeunesse et des sports et des droits des femmes ;
+e) Le délégué à l'intégration et un représentant des ministères chargés des affaires sociales et de l'intégration, du travail, de l'emploi et de la formation professionnelle, de l'éducation nationale, de la culture, des affaires étrangères, de la ville, de l'équipement et du logement, de la justice, de l'intérieur, de l'agriculture, de la jeunesse et des sports et des droits des femmes ;
 
 f) Le président du conseil d'administration du Fonds d'action sociale pour les travailleurs immigrés et leurs familles ; le président du conseil d'administration de l'Office des migrations internationales ; le président de l'Union nationale des associations familiales ; le président du service social d'aide aux émigrants ; le président de la Société nationale de construction de logements pour les travailleurs.
 
