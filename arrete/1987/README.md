@@ -428,7 +428,6 @@
 - [Arrêté du 18 novembre 1987 (ASES8701713A)](arrete-du-18-novembre-1987-ases8701713a)
 - [Arrêté du 18 novembre 1987 (MENF8700697A)](arrete-du-18-novembre-1987-menf8700697a)
 - [Arrêté du 18 novembre 1987 (MENF8700698A)](arrete-du-18-novembre-1987-menf8700698a)
-- [Arrêté du 18 septembre 1987 (ASEM8701333A)](arrete-du-18-septembre-1987-asem8701333a)
 - [Arrêté du 18 septembre 1987 (BUDB8730003A)](arrete-du-18-septembre-1987-budb8730003a)
 - [Arrêté du 18 septembre 1987 (ENVP8700148A)](arrete-du-18-septembre-1987-envp8700148a)
 - [Arrêté du 18 mai 1987 (ASEG8700655A)](arrete-du-18-mai-1987-aseg8700655a)
