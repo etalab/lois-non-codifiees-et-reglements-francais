@@ -1,0 +1,3 @@
+# Article 22
+
+Toute fermeture d'un établissement d'abattage public ou privé, d'un atelier de découpe, d'un atelier de préparation de viande hachée ou de transformation de denrées soumises au marquage sanitaire, entraîne le retrait immédiat, par le directeur départemental des services vétérinaires, des estampilles ou des marques de salubrité ou des étiquettes portant les empreintes de ces estampilles ou marques, ainsi que de l'autorisation de reproduire ces estampilles et marques sur les conditionnements des produits. Toute suspension d'agrément pour l'exportation entraîne le retrait immédiat, pour le directeur départemental des services vétérinaires, des estampilles communautaires de salubrité en usage dans l'établissement.

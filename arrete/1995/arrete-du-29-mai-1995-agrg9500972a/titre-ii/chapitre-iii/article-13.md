@@ -1,0 +1,3 @@
+# Article 13
+
+La manipulation, le traitement et l'entreposage des viandes, y compris des abats, s'effectuent conformément aux règles de l'hygiène.    L'exploitant de l'établissement, le propriétaire ou son représentant est tenu de faciliter les opérations de contrôle de l'entreprise et notamment d'effectuer toute manipulation jugée utile et de mettre à la disposition des services vétérinaires les aménagements nécessaires. En particulier, il doit être en mesure, à toute réquisition, de porter à la connaissance du vétérinaire-inspecteur chargé du contrôle la provenance des viandes introduites dans son établissement.

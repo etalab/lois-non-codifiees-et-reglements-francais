@@ -1,0 +1,5 @@
+# Article 1
+
+Le présent arrêté fixe les conditions sanitaires de préparation, manipulation, conditionnement, mise sur le marché et d'inspection des viandes fraîches de volailles découpées, désossées ou non, qu'il s'agisse de volailles domestiques ou de gibiers d'élevage à plumes.    Toutefois, le présent arrêté ne s'applique pas au découpage et à l'entreposage de viandes fraîches de volailles dans les magasins de détail ou dans des locaux contigus à des points de vente où le découpage et l'entreposage sont effectués exclusivement en vue d'une cession directe sur place au consommateur.
+
+Les opérations de découpe effectuées dans les établissements de transformation et de restauration sont également exclues du champ d'application du présent arrêté dans la mesure où les viandes découpées sont utilisées exclusivement pour la fabrication sur place des produits transformés, des plats cuisinés ou des préparations culinaires tels que définis par la réglementation en vigueur. Le découpage de viandes de volailles ayant été exposées à la vente au consommateur est interdit.

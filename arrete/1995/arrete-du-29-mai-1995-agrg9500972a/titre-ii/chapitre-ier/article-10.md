@@ -1,0 +1,3 @@
+# Article 10
+
+Le travail et la manutention des viandes sont interdits aux personnes susceptibles de les contaminer, soit parce qu'elles exercent par ailleurs une activité incompatible avec la manipulation des viandes, soit pour des raisons médicales. Un certificat médical doit être exigé de toute personne affectée au travail et à la manipulation des viandes, en particulier lors de l'embauche. Il atteste qu'aucun motif médical ne s'oppose à cette affectation, et doit être renouvelé tous les ans et chaque fois que le vétérinaire-inspecteur en fait la demande. Il doit en outre être tenu à la disposition de ce dernier.

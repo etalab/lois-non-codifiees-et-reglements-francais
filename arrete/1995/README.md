@@ -847,6 +847,7 @@
 - [Arrêté du 29 mars 1995 (ENVP9540074A)](arrete-du-29-mars-1995-envp9540074a)
 - [Arrêté du 29 mars 1995 (SPSS9500994A)](arrete-du-29-mars-1995-spss9500994a)
 - [Arrêté du 29 novembre 1994 (EQUS9401995A)](arrete-du-29-novembre-1994-equs9401995a)
+- [Arrêté du 29 mai 1995 (AGRG9500972A)](arrete-du-29-mai-1995-agrg9500972a)
 - [Arrêté du 30 décembre 1994 (AGRA9402309A)](arrete-du-30-decembre-1994-agra9402309a)
 - [Arrêté du 30 décembre 1994 (AGRB9402191A)](arrete-du-30-decembre-1994-agrb9402191a)
 - [Arrêté du 30 décembre 1994 (AGRB9402192A)](arrete-du-30-decembre-1994-agrb9402192a)
