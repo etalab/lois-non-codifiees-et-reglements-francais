@@ -8,3 +8,4 @@
 - [Arrêté du 20 décembre 1954](arrete-du-20-decembre-1954)
 - [Arrêté du 20 juin 1955](arrete-du-20-juin-1955)
 - [Arrêté du 24 juin 1955](arrete-du-24-juin-1955)
+- [Arrêté du 27 juin 1955](arrete-du-27-juin-1955)

@@ -1,5 +1,6 @@
 # DISPOSITIONS GENERALES RELATIVES AUX SOINS.
 
+- [Article 9 bis](article-9-bis.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
 - [Article 12 i](article-12-i.md)
