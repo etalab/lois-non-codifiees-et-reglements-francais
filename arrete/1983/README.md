@@ -26,6 +26,7 @@
 - [Arrêté du 7 juillet 1982](arrete-du-7-juillet-1982)
 - [Arrêté du 7 juin 1983](arrete-du-7-juin-1983)
 - [Arrêté du 8 août 1983](arrete-du-8-aout-1983)
+- [Arrêté du 8 juin 1983](arrete-du-8-juin-1983)
 - [Arrêté du 8 mars 1983](arrete-du-8-mars-1983)
 - [Arrêté du 8 octobre 1982](arrete-du-8-octobre-1982)
 - [Arrêté du 9 décembre 1982](arrete-du-9-decembre-1982)
