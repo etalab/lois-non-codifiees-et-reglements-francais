@@ -2,7 +2,7 @@
 
 L'établissement de la première liste d'aptitude en vue de l'agrément des directeurs des établissements de transfusion sanguine agréés conformément à l'article L. 668-2 suit la procédure suivante :
 
-I. - Dans le délai de deux mois suivant la publication du présent décret, les personnes intéressées font connaître à l'Agence française du sang leur souhait d'être inscrites sur la liste d'aptitude.
+I. - Dans le délai de cinq mois suivant la publication du présent décret, les personnes intéressées font connaître à l'Agence française du sang leur souhait d'être inscrites sur la liste d'aptitude.
 
 Les personnes exerçant à la date de publication du présent décret les fonctions de directeur de centre de transfusion sanguine sont, sur leur demande, inscrites à la section I ou II de la liste d'aptitude selon que cet établissement est ou n'est pas situé dans une ville siège de centre hospitalier et universitaire. Toutefois, les personnes exerçant à la date de publication du présent décret les fonctions de directeur d'un établissement relevant de la section I de la liste d'aptitude peuvent être inscrites à la section II de cette même liste si elles remplissent les conditions prévues par l'article D. 668-8-2.
 
