@@ -4,7 +4,7 @@ L'établissement public est administré par un conseil d'administration qui comp
 
 a) Huit membres de droit :
 
-1° Le délégué au développement et aux formations au ministère chargé de la culture ou son représentant ;
+1° Le directeur de la musique, de la danse, du théâtre et des spectacles au ministère chargé de la culture ou son représentant ;
 
 2° Le directeur de l'administration générale au ministère chargé de la culture ou son représentant ;
 
