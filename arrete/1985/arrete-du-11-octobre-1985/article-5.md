@@ -1,3 +1,0 @@
-# Article 5
-
-Le directeur général des douanes et des droits indirects et le directeur de la consommation et de la répression des fraudes au secrétariat d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation, le directeur des industries agricoles et alimentaires et le directeur de la production et des échanges au ministère de l'agriculture, le directeur de la qualité et de la sécurité industrielles au ministère du redéploiement industriel et du commerce extérieur sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

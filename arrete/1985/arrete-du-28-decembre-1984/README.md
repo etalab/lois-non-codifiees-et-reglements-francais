@@ -1,6 +1,5 @@
-# Arrêté du 28 décembre 1984 relatif aux méthodes de calcul des coefficients volumiques de déperditions thermiques et de besoins de chauffage des bâtiments d'habitation.
+# Arrêté du 28 décembre 1984 du 28 décembre 1984 fixant pour 1985 le taux de la taxe parafiscale commune au comité interprofessionnel de développement des industries du cuir et au centre technique du cuir
 
-- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

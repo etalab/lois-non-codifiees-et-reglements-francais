@@ -188,7 +188,6 @@
 - [Décret n°84-473 du 18 juin 1984](decret-n84-473-du-18-juin-1984)
 - [Décret n°84-477 du 18 juin 1984](decret-n84-477-du-18-juin-1984)
 - [Décret n°83-1111 du 19 décembre 1983](decret-n83-1111-du-19-decembre-1983)
-- [Décret n°84-1018 du 19 novembre 1984](decret-n84-1018-du-19-novembre-1984)
 - [Décret n°84-1140 du 19 décembre 1984](decret-n84-1140-du-19-decembre-1984)
 - [Décret n°84-1141 du 19 décembre 1984](decret-n84-1141-du-19-decembre-1984)
 - [Décret n°84-478 du 19 juin 1984](decret-n84-478-du-19-juin-1984)

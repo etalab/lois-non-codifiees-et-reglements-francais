@@ -1,7 +1,0 @@
-# Article 2
-
-Pour la période du 1er janvier au 31 décembre 1985 et nonobstant toutes dispositions contraires, les loyers convenus lors du renouvellement des baux ou contrats de location des locaux ou immeubles à usage professionnel, ainsi que des locaux, immeubles ou emplacements à usage de garage autres que ceux dont le prix de location est fixé par application de l'ordonnance n° 45-1483 du 30 juin 1945 relative aux prix, ou de la loi n° 82-526 du 22 juin 1982 relative aux droits et obligations des locataires et des bailleurs, ne pourront augmenter de plus de 3 p. 100 par rapport aux loyers ou prix de location établis conformément aux dispositions de la loi n° 84-6 du 3 janvier 1984 pour le même local, immeuble ou emplacement en 1984. L'effet de cette limitation reste en vigueur pendant les douze mois consécutifs au renouvellement.
-
-Toutefois, lorsque la dernière fixation de prix remonte à plus de douze mois, l'augmentation de 3 p. 100 sera calculée par référence au dernier prix pratiqué, majoré du pourcentage d'augmentation de l'indice trimestriel du coût de la construction série nationale entre la date de dernière détermination de ce prix et le début de la période de douze mois précédant le renouvellement.
-
-Les clauses contractuelles de révision ou d'indexation suspendues en application du premier alinéa du présent article reprendront leur entier effet à l'expiration du délai de douze mois visé à cet alinéa, sans que les bailleurs puissent percevoir des augmentations destinées à compenser les conséquences de cette suspension.

@@ -1,3 +1,3 @@
 # Article 4
 
-La date de règlement est fixée au 8 août 1985.
+Les informations concernant le jeune cessent d'être conservées au-delà d'un délai de cinq ans et, en toute hypothèse, lorsque le jeune aura vingt-cinq ans révolus.

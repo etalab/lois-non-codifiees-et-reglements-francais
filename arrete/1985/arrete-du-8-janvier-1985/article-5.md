@@ -1,5 +1,3 @@
 # Article 5
 
-Les avis rendus par la commission consultative le sont à la majorité simple des membres présents, les membres suppléants n'ayant voix délibérative que lorsqu'ils remplacent les membres titu­laires absents.
-
-Le président, en cas de partage égal des voix, a voix prépondé­rante.
+Le directeur général de la concurrence et de la consommation au ministère de l'économie, des finances et du budget, le directeur des industries agricoles et alimentaires au ministère de l'agriculture, le directeur des industries chimiques, textiles et diverses au ministère du redéploiement industriel et du commerce extérieur, le directeur de la consommation et de la répression des fraudes au secrétariat d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation, et le directeur général de la santé au secrétariat d'Etat auprès du ministre des affaires sociales et de la solidarité nationale, porte-parole du Gouvernement, chargé de la santé, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

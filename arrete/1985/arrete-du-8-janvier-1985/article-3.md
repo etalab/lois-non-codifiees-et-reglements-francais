@@ -1,3 +1,3 @@
 # Article 3
 
-La commission se réunit à l'initiative de son président qui fixe l'ordre du jour. La présidence peut être assurée, en cas d'absence du président, par l'un des membres titulaires, selon l'ordre indiqué à l'article 2, alinéa 1, puis, à défaut, par l'un des membres titulaires désignés aux alinéas 2, 3, 4 du même article.
+L'acide L - ascorbique et l'acide palmityl - 6 - L - ascorbique utilisés doivent répondre aux critères de pureté généraux et aux spécifications fixés respectivement par les arrêtés du 30 octobre 1973 et du 21 novembre 1980 susvisés.

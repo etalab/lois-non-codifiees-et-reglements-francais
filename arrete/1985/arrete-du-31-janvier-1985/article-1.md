@@ -1,3 +1,0 @@
-# Article 1
-
-Les montants des primes à la construction convertibles en bonifications d'intérêt prévues à l'article 10 du décret du 24 janvier 1972 sont fixés conformément aux barèmes ci-après suivant les diverses catégories de primes et les types de logements, tels qu'ils sont définis par l'arrêté du 22 février 1974 modifié relatif aux caractéristiques techniques et aux prix des logements bénéficiant de primes à la construction convertibles en bonifications d'intérêt et par l'arrêté du 22 février 1974 modifié relatif à la construction et aux conditions de location des logements-foyers réalisés avec le bénéfice des primes convertibles en bonifications d'intérêt et de prêts spéciaux.

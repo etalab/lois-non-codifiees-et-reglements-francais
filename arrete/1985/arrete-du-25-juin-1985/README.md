@@ -1,4 +1,3 @@
-# Arrêté du 25 juin 1985 relatif aux prix de vente au stade de détail de certains fruits et légumes frais
+# Arrêté du 25 juin 1985 relatif aux prix d'entrée dans les réunions sportives, d'utilisation d'installations sportives et aux tarifs d'enseignement de disciplines sportives
 
-- [Article 4](article-4.md)
 - [Annexes](annexes)

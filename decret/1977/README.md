@@ -30,7 +30,6 @@
 - [Décret n°77-1334 du 6 décembre 1977](decret-n77-1334-du-6-decembre-1977)
 - [Décret n°77-779 du 6 juillet 1977](decret-n77-779-du-6-juillet-1977)
 - [Décret n°77-473 du 6 mai 1977](decret-n77-473-du-6-mai-1977)
-- [Décret n°77-1013 du 7 septembre 1977](decret-n77-1013-du-7-septembre-1977)
 - [Décret n°77-151 du 7 février 1977](decret-n77-151-du-7-fevrier-1977)
 - [Décret n°77-219 du 7 mars 1977](decret-n77-219-du-7-mars-1977)
 - [Décret n°77-220 du 7 mars 1977](decret-n77-220-du-7-mars-1977)

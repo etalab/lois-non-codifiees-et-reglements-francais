@@ -40,7 +40,6 @@
 - [Arrêté du 6 mars 1984](arrete-du-6-mars-1984)
 - [Arrêté du 6 novembre 1984](arrete-du-6-novembre-1984)
 - [Arrêté du 7 décembre 1984](arrete-du-7-decembre-1984)
-- [Arrêté du 7 juin 1984](arrete-du-7-juin-1984)
 - [Arrêté du 7 mars 1984](arrete-du-7-mars-1984)
 - [Arrêté du 7 novembre 1984](arrete-du-7-novembre-1984)
 - [Arrêté du 7 septembre 1984](arrete-du-7-septembre-1984)
