@@ -6,7 +6,7 @@ II. - Demeure applicable en 1986, 1987 et 1988 sans modification, le taux sur la
 
 III. Les immobilisations cédées ou mises à disposition au profit d'un tiers ne figurant pas au nombre des collectivités ou établissements bénéficiaires du fonds de compensation pour la taxe sur la valeur ajoutée ne peuvent donner lieu à une attribution dudit fonds.
 
-Toutefois, constituent des opérations ouvrant droit à une attribution du fonds de compensation pour la taxe sur la valeur ajoutée les constructions mises en chantier, acquises à l'état neuf ou ayant fait l'objet d'une rénovation en 1992 ou en 1993, pour lesquelles les travaux sont achevés au plus tard le 31 décembre 1994,
+Toutefois, constituent des opérations ouvrant droit à une attribution du fonds de compensation pour la taxe sur la valeur ajoutée les constructions mises en chantier, acquises à l'état neuf ou ayant fait l'objet d'une rénovation en 1992 ou en 1993, pour lesquelles les travaux sont achevés au plus tard le 31 décembre 1995,
 
 a) Affectées à l'usage de gendarmerie et appartenant à une collectivité territoriale ;
 

@@ -1,0 +1,3 @@
+# Article 9
+
+A l'occasion de la préparation du VIIIe Plan, les conseils généraux et les assemblées des établissements publics régionaux intéressés par les dispositions de la présente loi seront invités à formuler des propositions spéciales en matière d'aménagement du territoire. Ces propositions auront notamment pour objet de permettre aux collectivités locales et aux régions intéressées de bénéficier d'un programme d'action régionale tenant compte des conséquences économiques et sociales, ainsi que celles sur le cadre de vie, l'agriculture et l'environnement, de la construction et de l'exploitation des ouvrages visés à l'article 1er.

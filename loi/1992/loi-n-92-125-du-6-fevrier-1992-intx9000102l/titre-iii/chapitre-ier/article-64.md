@@ -34,9 +34,13 @@ Le produit de ces taxes inscrit à la section de fonctionnement du budget des r�
 
 Celui-ci est imputé sur les attributions mensuelles versées aux régions.
 
-V. - Le potentiel fiscal direct de la région est égal au montant des bases pondérées des quatre taxes directes locales, ces bases étant les bases brutes de la dernière année dont les résultats sont connus servant à l'assiette des impositions régionales.
+" V.-Le potentiel fiscal des régions est égal au produit des bases brutes servant à l'assiette des impositions régionales des quatre taxes de la pénultième année par le taux moyen national d'imposition de la même année à chacune de ces taxes. Il est majoré d'un produit potentiel déterminé en fonction des compensations servies par l'Etat aux régions à raison des exonérations ou réductions de bases de fiscalité directe.
 
-Le coefficient de pondération de la base de chacune des quatre taxes est le taux moyen national d'imposition à la taxe considérée, constaté lors de la dernière année dont les résultats sont connus.
+" Ce produit potentiel est calculé dans les conditions suivantes :
+
+" - les bases de fiscalité de chacune des taxes concernées sont établies par le rapport du montant de la compensation de la pénultième année, ou de la fraction de compensation lorsque la taxe en question a fait l'objet de mesures différentes d'exonérations ou de réductions de bases, sur le dernier taux voté ou constaté l'année précédant la mise en oeuvre de la mesure d'exonération ou de réduction de bases ;
+
+" - ainsi déterminées, ces bases sont pondérées par le taux moyen national d'imposition à chacune de ces taxes de l'année précédant le mise en oeuvre de la mesure d'exonération ou de réduction de bases. "
 
 VI. - L'effort fiscal de la région est égal au rapport entre le produit des quatre taxes directes locales et le potentiel fiscal définis au V du présent article.
 
