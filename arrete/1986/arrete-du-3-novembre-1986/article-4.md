@@ -22,4 +22,8 @@ f) La détection des anticorps antipaludéens chez les donneurs ayant séjourné
 
 g) Le dosage des alanine-amino-transférases (Alat).
 
-h) La détection des anticorps anti-Hbc [*prévention des hépatites autres que A et B*].    i) La détection des anticorps anti-HCV.
+h) La détection des anticorps anti-Hbc
+
+i) La détection des anticorps anti-HCV.
+
+j) La détection des anticorps anti-HTLV 1 - anti-HTLV 2 chez les donneurs dont le prélèvement est destiné à la préparation de produits labiles.
