@@ -1,6 +1,6 @@
 # Article 33
 
-Le chef du service interdépartemental de l'industrie et des mines est chargé, sous l'autorité du préfet, de l'organisation de l'inspection des installations classées.
+Sans préjudice de l'application des dispositions de l'article 9 de la loi du 16 décembre 1964 susvisée,le directeur régional de l'industrie et de la recherche est chargé, sous l'autorité du commissaire de la République dans le département, de l'organisation de l'inspection des installations classées.
 
 Les inspecteurs des installations classées sont des ingénieurs ou des techniciens désignés par le préfet sur la proposition du chef de service interdépartemental de l'industrie et des mines. Toutefois, la désignation des inspecteurs chargés de l'inspection des installations comprises dans une exploitation agricole, ainsi que des élevages, abattoirs et équarrissages, est faite sur proposition du directeur départemental de l'agriculture.
 
