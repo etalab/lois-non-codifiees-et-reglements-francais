@@ -95,7 +95,6 @@
 - [Arrêté du 3 avril 1995 (SANP9501580A)](arrete-du-3-avril-1995-sanp9501580a)
 - [Arrêté du 3 février 1995 (INTE9500077A)](arrete-du-3-fevrier-1995-inte9500077a)
 - [Arrêté du 3 février 1995 (SPSP9500444A)](arrete-du-3-fevrier-1995-spsp9500444a)
-- [Arrêté du 3 janvier 1995 (MCCI9500035A)](arrete-du-3-janvier-1995-mcci9500035a)
 - [Arrêté du 3 janvier 1995 (MCCI9500037A)](arrete-du-3-janvier-1995-mcci9500037a)
 - [Arrêté du 3 janvier 1995 (SANP9500006A)](arrete-du-3-janvier-1995-sanp9500006a)
 - [Arrêté du 3 janvier 1995 (SPSS9403822A)](arrete-du-3-janvier-1995-spss9403822a)

@@ -888,7 +888,6 @@
 - [Arrêté du 24 février 1997 (BUDF9700015A)](arrete-du-24-fevrier-1997-budf9700015a)
 - [Arrêté du 24 février 1997 (DEFB9701344A)](arrete-du-24-fevrier-1997-defb9701344a)
 - [Arrêté du 24 février 1997 (DOMP9600087A)](arrete-du-24-fevrier-1997-domp9600087a)
-- [Arrêté du 24 février 1997 (TASA9720919A)](arrete-du-24-fevrier-1997-tasa9720919a)
 - [Arrêté du 24 janvier 1997 (BUDL9700020A)](arrete-du-24-janvier-1997-budl9700020a)
 - [Arrêté du 24 janvier 1997 (ECOR9707033A)](arrete-du-24-janvier-1997-ecor9707033a)
 - [Arrêté du 24 janvier 1997 (ECOR9707034A)](arrete-du-24-janvier-1997-ecor9707034a)
