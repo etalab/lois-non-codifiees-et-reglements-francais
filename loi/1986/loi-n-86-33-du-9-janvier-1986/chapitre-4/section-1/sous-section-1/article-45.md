@@ -1,18 +1,18 @@
 # Article 45
 
-Des autorisations spéciales d'absence qui n'entrent pas en compte dans le calcul des congés annuels sont accordées, sous réserve des nécessités de service [*bénéficiaires*] :
+Des autorisations spéciales d'absence qui n'entrent pas en compte dans le calcul des congés annuels sont accordées, sous réserve des nécessités de service :
 
 1° Aux représentants dûment mandatés des syndicats pour assister aux congrès professionnels syndicaux fédéraux, confédéraux et internationaux ;
 
 2° Aux membres élus des organismes directeurs des organisations syndicales lors de la réunion desdits organismes, quel que soit leur niveau dans la structure du syndicat considéré ;
 
-3° Aux membres des mutuelles dûment mandatés pour assister aux réunions des organismes directeurs dont ils sont membres élus ;
+3° (Abrogé)
 
 4° Aux membres des assemblées délibérantes des établissements mentionnés à l'article 2 et des organismes statutaires créés en application de dispositions législatives ou réglementaires ;
 
 5° Aux membres de certains organismes privés de coopération interhospitalière, dont la liste est fixée par décret en Conseil d'Etat ;
 
-Aux membres des commissions [*relatives à l'adoption*] mentionnées au deuxième alinéa de l'article 63 du code de la famille et de l'aide sociale ;
+Aux membres des commissions mentionnées au deuxième alinéa de l'article L. 225-2 du code de l'action sociale et des familles ;
 
 6° Aux fonctionnaires, à l'occasion de certains événements familiaux.
 
