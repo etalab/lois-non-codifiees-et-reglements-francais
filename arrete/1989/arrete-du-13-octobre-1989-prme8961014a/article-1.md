@@ -14,6 +14,8 @@ Bryophytes
 
 Sphagnum spp.   Sphaignes (toutes les espèces).
 
+Leucobryum glaucum (Hedw.) Coussinet des bois Angstr.
+
 Ptéridophytes
 
 Lycopodium annotinum L.    Lycopode à rameaux d'un an.
@@ -43,6 +45,8 @@ Asparagus acutifolius L.    Asperge sauvage.
 Asparagus officinalis L. ssp. prostratus (Dumort.) Corb. Asperge prostrée.
 
 Convallaria maialis L.      Muguet.
+
+Rythronium dens-canis L. Dent de chien.
 
 Fritillaria meleagris L.    Fritillaire pintade.
 
@@ -98,6 +102,12 @@ Artemisia umbelliformis Lam.  Genépi blanc, genépi jaune.
 
 Buxus sempervirens L.       Buis.
 
+Carlina acanthifolia All. Carline à feuills d'acanthe, chardousse.
+
+Carlina acaulis L.  Carline acaule.
+
+Cyclamem purpurascens Miller Cyclamem d'Europe.
+
 Crithmum maritimum L.       Criste marine.
 
 Daphne mezereum L.          Bois-joli.
@@ -110,11 +120,15 @@ Delphinium fissum Waldst.   Dauphinelle fendue.
 
 Dianthus spp.               OEillets (toutes les espèces).
 
+Doronicum plantaginium L. Doronic à feuilles de plantain.
+
 Eryngium maritimum L.                 Panicaut de mer.
 
 Gentiana lutea L.                     Gentiane jaune.
 
 Helichrysum stoechas (L.) DC.         Immortelles du groupe stoechas.    s.l.
+
+Hypericum nummularium L. Vulnéraire des chartreux.
 
 Ilex aquifolium L.                    Houx.
 
@@ -123,6 +137,10 @@ Leontopodium alpinum Cass.            Edelweiss.
 Limonium spp.                    Lavande de mer (toutes les espèces).
 
 Otanthus maritimus (L.) Hoffm. et Link.   Diotis blanc.
+
+Papever rhaeticum Leresche. Pavot des Alpes.
+
+Potentilla nitida L. Potentille luisante.
 
 Pulsatilla vulgaris Miller        Anémone pulsatille.
 

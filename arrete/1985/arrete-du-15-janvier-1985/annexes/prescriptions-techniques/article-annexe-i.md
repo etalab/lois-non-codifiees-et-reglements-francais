@@ -68,7 +68,7 @@ Toutefois, sont considérés comme répondant à cette         prescription, les
 
 - de la commande du dispositif de coupure lorsque celui-ci         remplace le limiteur de débit de la polyvanne, conformément         aux dispositions du paragraphe 5.5 de l'appendice 1         ci-après.
 
-3.10. Les sorties en phase gazeuse ne peuvent être utilisées que         pour la carburation du véhicule. Dans ces conditions, s'il         existe des sorties en phase gazeuse, sur les groupes         d'accessoires, non utilisées pour la carburation du véhicule,         elles doivent être condamnées par des bouchons.
+3.10.[*adrogé*]
 
 4. Canalisations et autres équipements de l'installation G.P.L.
 
