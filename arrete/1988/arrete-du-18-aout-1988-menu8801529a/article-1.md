@@ -18,4 +18,8 @@ Génétique ;
 
 Anesthésiologie et réanimation chirurgicale ;
 
-Pharmacologie fondamentale - pharmacologie    clinique - thérapeutique.
+Pharmacologie fondamentale - pharmacologie clinique ;
+
+Thérapeutique ;
+
+Biologie du développement et de la reproduction.
