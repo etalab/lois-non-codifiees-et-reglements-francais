@@ -1,0 +1,3 @@
+# Article 1
+
+- Par dérogation aux dispositions des articles 24 et 25 du décret n° 66-619 du 10 août 1966 modifié susvisé, les personnels de l'Etat et des établissements publics à caractère administratif de l'Etat dont la résidence administrative est située à l'intérieur de la zone de compétence de l'autorité organisatrice des transports parisiens et qui, du fait de leur handicap, sont dans l'incapacité, dûment motivée, d'utiliser les transports en commun bénéficient, dans les conditions prévues au présent décret, d'une allocation spéciale destinée à les dédommager partiellement de leurs frais de déplacement entre leur résidence habituelle et leur lieu de travail.

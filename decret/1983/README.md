@@ -1,5 +1,6 @@
 # 1983
 
+- [Décret n°83-588 du 1 juillet 1983](decret-n83-588-du-1-juillet-1983)
 - [Décret n°84-894 du 1 octobre 1984](decret-n84-894-du-1-octobre-1984)
 - [Décret n°84-895 du 1 octobre 1984](decret-n84-895-du-1-octobre-1984)
 - [Décret n°83-68 du 2 février 1983](decret-n83-68-du-2-fevrier-1983)
@@ -49,6 +50,7 @@
 - [Décret n°83-135 du 24 février 1983](decret-n83-135-du-24-fevrier-1983)
 - [Décret n°83-36 du 24 janvier 1983](decret-n83-36-du-24-janvier-1983)
 - [Décret n°83-38 du 24 janvier 1983](decret-n83-38-du-24-janvier-1983)
+- [Décret n°83-40 du 26 janvier 1983](decret-n83-40-du-26-janvier-1983)
 - [Décret n°83-56 du 26 janvier 1983](decret-n83-56-du-26-janvier-1983)
 - [Décret n°83-53 du 27 janvier 1983](decret-n83-53-du-27-janvier-1983)
 - [Décret n°83-63 du 27 janvier 1983](decret-n83-63-du-27-janvier-1983)
