@@ -377,7 +377,6 @@
 - [Arrêté du 21 décembre 1989 (SPSS8902777A)](arrete-du-21-decembre-1989-spss8902777a)
 - [Arrêté du 21 février 1989 (DEFL8901197A)](arrete-du-21-fevrier-1989-defl8901197a)
 - [Arrêté du 21 février 1989 (DEFL8901198A)](arrete-du-21-fevrier-1989-defl8901198a)
-- [Arrêté du 21 février 1989 (DEFL8901199A)](arrete-du-21-fevrier-1989-defl8901199a)
 - [Arrêté du 21 février 1989 (EQUV8900166A)](arrete-du-21-fevrier-1989-equv8900166a)
 - [Arrêté du 21 janvier 1989 (SPSH8900440A)](arrete-du-21-janvier-1989-spsh8900440a)
 - [Arrêté du 21 juillet 1989 (AGRE8901202A)](arrete-du-21-juillet-1989-agre8901202a)
