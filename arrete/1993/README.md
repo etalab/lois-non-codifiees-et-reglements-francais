@@ -65,7 +65,6 @@
 - [Arrêté du 3 juin 1993 (ECOT9316181A)](arrete-du-3-juin-1993-ecot9316181a)
 - [Arrêté du 3 juin 1993 (ECOT9316182A)](arrete-du-3-juin-1993-ecot9316182a)
 - [Arrêté du 3 mars 1993 (ENEC9300115A)](arrete-du-3-mars-1993-enec9300115a)
-- [Arrêté du 3 mars 1993 (EQUA9300424A)](arrete-du-3-mars-1993-equa9300424a)
 - [Arrêté du 3 mars 1993 (JUSC9320174A)](arrete-du-3-mars-1993-jusc9320174a)
 - [Arrêté du 3 mars 1993 (SANH9300743A)](arrete-du-3-mars-1993-sanh9300743a)
 - [Arrêté du 3 mars 1993 (SANH9300744A)](arrete-du-3-mars-1993-sanh9300744a)
