@@ -8,7 +8,7 @@ Cette rémunération est servie aux mêmes dates que l'allocation évoquée ci-d
 
 Cette rémunération est revalorisée pendant la durée du programme d'insertion locale dans les mêmes conditions que les allocations de chômage précédemment perçues.
 
-Cette rémunération est versée aux allocataires par l'Assedic compétente dans les mêmes conditions que l'allocation de solidarité spécifique.
+Cette rémunération est versée aux allocataires par l'Assedic compétente dans les mêmes conditions que l'allocation de fin de droits et l'allocation de solidarité spécifique.
 
 Le versement de cette rémunération est subordonné à la présence effective du stagiaire aux activités du P.I.L.
 
