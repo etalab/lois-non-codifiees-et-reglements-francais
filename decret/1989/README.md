@@ -89,6 +89,8 @@
 - [Décret n°89-28 du 12 janvier 1989 (MAEJ8830084D)](decret-n89-28-du-12-janvier-1989-maej8830084d)
 - [Décret n°89-29 du 12 janvier 1989 (MAEJ8830085D)](decret-n89-29-du-12-janvier-1989-maej8830085d)
 - [Décret n°89-30 du 12 janvier 1989 (MAEJ8830088D)](decret-n89-30-du-12-janvier-1989-maej8830088d)
+- [Décret n°89-307 du 12 mai 1989 (INTA8900144D)](decret-n89-307-du-12-mai-1989-inta8900144d)
+- [Décret n°89-308 du 12 mai 1989 (INTA8900145D)](decret-n89-308-du-12-mai-1989-inta8900145d)
 - [Décret n°89-169 du 13 mars 1989 (TRST8900132D)](decret-n89-169-du-13-mars-1989-trst8900132d)
 - [Décret n°89-245 du 13 avril 1989 (ACVP8920006D)](decret-n89-245-du-13-avril-1989-acvp8920006d)
 - [Décret n°89-96 du 13 février 1989 (MICT8900057D)](decret-n89-96-du-13-fevrier-1989-mict8900057d)
