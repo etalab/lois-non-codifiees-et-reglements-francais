@@ -89,4 +89,5 @@
 - [Décret n°76-1282 du 29 décembre 1976](decret-n76-1282-du-29-decembre-1976)
 - [Décret n°76-383 du 29 avril 1976](decret-n76-383-du-29-avril-1976)
 - [Décret du 30 mars 1976](decret-du-30-mars-1976)
+- [Décret n°75-1344 du 30 décembre 1975](decret-n75-1344-du-30-decembre-1975)
 - [Décret n°76-288 du 31 mars 1976](decret-n76-288-du-31-mars-1976)
