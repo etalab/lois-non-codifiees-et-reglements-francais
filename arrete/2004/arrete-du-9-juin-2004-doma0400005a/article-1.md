@@ -1,0 +1,3 @@
+# Article 1
+
+Les travaux ouvrant droit à l'abattement en application du I de l'article 1388 ter du code général des impôts doivent permettre de réduire la vulnérabilité des logements et d'améliorer la sécurité des personnes qui y séjournent vis-à-vis d'un ou de plusieurs risques naturels prévisibles énumérés au I de l'article L. 562-1 du code de l'environnement. Ces travaux concernent les accès, les structures, le clos, le couvert, les éléments d'ouverture et de fermeture associés, les équipements des bâtiments et les éléments non structuraux susceptibles de présenter un risque vis-à-vis de la sécurité des personnes, que ces travaux soient afférents aux logements ou aux parties communes, individualisées ou non.
