@@ -1,6 +1,6 @@
 # Article 12
 
-Les postes de 5e classe qui doivent être attribués aux tours réservés au personnel des cadres hospitaliers et qui ne sont pas pourvus par mutation sont déclarés vacants par voie de publication au Journal officiel, à la diligence du ministre de la santé publique et de la population.
+Les postes de 5e classe qui doivent être attribués aux tours réservés au personnel des cadres hospitaliers et qui ne sont pas pourvus par mutation sont déclarés vacants par voie de publication au Journal officiel, à la diligence du ministre de la santé publique et de la population. Un délai de quinze jours à compter de la publication de l'avis de vacance est imparti aux candidats pour faire parvenir leur demande au ministère de la santé publique et de la population.
 
 A l'expiration de ce délai et à défaut de candidature, il peut être pourvu d'office aux postes vacants, après que les intéressés visés au 1° de l'article 10, puis ceux visés au 2° dudit article auront été pressentis par le ministre de la santé publique et de la population dans l'ordre inverse de la liste d'aptitude.
 

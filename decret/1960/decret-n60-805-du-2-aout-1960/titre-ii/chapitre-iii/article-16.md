@@ -1,6 +1,6 @@
 # Article 16
 
-Pendant la durée du stage, les personnels visés à l'article précédent sont placés sous le régime défini par le décret n° 49-1239 du 13 septembre 1949 modifié.
+Pendant la durée du stage, les personnels visés aux articles 14 et 15 ci-dessus sont placés sous le régime défini par le décret n° 49-1239 du 13 septembre 1949 modifié.
 
 Ils sont rémunérés sur la base du traitement afférent à l'échelon de début de l'emploi de directeur économe de 4e classe. Il leur est toutefois attribué, le cas échéant, une indemnité compensatrice, calculée en conformité des dispositions du décret n° 47-1457 du 4 août 1947. Les conditions dans lesquelles les traitements et les indemnités des intéressés seront pris en charge et payés par les établissements hospitaliers seront fixées par un arrêté concerté du ministre des finances et des affaires économiques, du ministre de l'intérieur et du ministre de la santé publique et de la population.
 
