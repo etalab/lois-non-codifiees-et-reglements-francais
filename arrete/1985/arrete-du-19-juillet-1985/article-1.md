@@ -1,11 +1,5 @@
 # Article 1
 
-L'Etat accorde sa garantie au service des deux emprunts obligataires d'ensemble six milliards de francs maximum, qui seront émis par la Caisse française de développement industriel (C.F.D.I.) :
+L'emploi d'une préparation contenant du gluten de blé partiellement hydrolysé, du saccharose et/ou éventuellement d'autres ingrédients alimentaires, comme agent moussant et de texture, est autorisé dans les produits céréaliers de biscuiterie et de pâtisserie préemballés.
 
-L'un à taux fixe de 10,60 p. 100 de 4 milliards de francs maximum en deux tranches :
-
-- la première, de 2 milliards de francs à bons de souscription ;
-
-- la seconde, de 2 milliards de francs au maximum ;
-
-L'autre à taux variable de 2 milliards de francs à option d'échange.
+La quantité de gluten hydrolisé ne doit pas dépasser 2% du produit fini.
