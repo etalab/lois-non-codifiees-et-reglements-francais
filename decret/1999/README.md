@@ -166,7 +166,6 @@
 - [Décret n°98-1167 du 21 décembre 1998 (INTA9800300D)](decret-n98-1167-du-21-decembre-1998-inta9800300d)
 - [Décret n°99-40 du 21 janvier 1999 (DEFX9903381D)](decret-n99-40-du-21-janvier-1999-defx9903381d)
 - [Décret n°99-41 du 21 janvier 1999 (MESH9920088D)](decret-n99-41-du-21-janvier-1999-mesh9920088d)
-- [Décret n°99-42 du 21 janvier 1999 (INTA9800326D)](decret-n99-42-du-21-janvier-1999-inta9800326d)
 - [Décret n°99-652 du 21 juillet 1999 (ATEN9970016D)](decret-n99-652-du-21-juillet-1999-aten9970016d)
 - [Décret n°2000-566 du 22 juin 2000 (FPPX0004192D)](decret-n2000-566-du-22-juin-2000-fppx0004192d)
 - [Décret n°99-122 du 22 février 1999 (PRMX9903436D)](decret-n99-122-du-22-fevrier-1999-prmx9903436d)
