@@ -9,6 +9,7 @@
 - [Décret n°68-14 du 5 janvier 1968](decret-n68-14-du-5-janvier-1968)
 - [Décret n°68-20 du 5 janvier 1968](decret-n68-20-du-5-janvier-1968)
 - [Décret n°68-884 du 10 octobre 1968](decret-n68-884-du-10-octobre-1968)
+- [Décret n°68-47 du 13 janvier 1968](decret-n68-47-du-13-janvier-1968)
 - [Décret n°69-1033 du 14 novembre 1969](decret-n69-1033-du-14-novembre-1969)
 - [Décret n°68-207 du 16 février 1968](decret-n68-207-du-16-fevrier-1968)
 - [Décret n°68-561 du 19 juin 1968](decret-n68-561-du-19-juin-1968)
