@@ -1,0 +1,3 @@
+# Article 7
+
+Lorsqu'elles sont inscrites à l'actif d'une entreprise qui bénéficie d'une exonération temporaire de taxe professionnelle, les constructions nouvelles sur lesquelles porte l'exonération peuvent bénéficier, sans agrément, de l'amortissement exceptionnel de 25 p. 100 prévu au I de l'article 39 quinquies d du code général des impôts, dans les conditions prévues au deuxième alinéa de cet article. Les immeubles en cause doivent être situés dans les zones définies pour l'application de l'article 39 quinquies d précité. La base de l'amortissement ne peut excéder un million de francs par emploi créé.
