@@ -86,6 +86,7 @@
 - [Décret n°87-113 du 17 février 1987 (INDG8700096D)](decret-n87-113-du-17-fevrier-1987-indg8700096d)
 - [Décret n°87-119 du 17 février 1987 (MAEJ8730006D)](decret-n87-119-du-17-fevrier-1987-maej8730006d)
 - [Décret n°87-274 du 17 avril 1987](decret-n87-274-du-17-avril-1987)
+- [Décret n°87-277 du 17 avril 1987 (MCCT8700135D)](decret-n87-277-du-17-avril-1987-mcct8700135d)
 - [Décret n°86-226 du 18 février 1986](decret-n86-226-du-18-fevrier-1986)
 - [Décret n°87-108 du 18 février 1987 (FPPA8700010D)](decret-n87-108-du-18-fevrier-1987-fppa8700010d)
 - [Décret n°87-112 du 18 février 1987 (ASET8703110D)](decret-n87-112-du-18-fevrier-1987-aset8703110d)
