@@ -106,6 +106,7 @@
 - [Arrêté du 27 avril 1981](arrete-du-27-avril-1981)
 - [Arrêté du 27 février 1981](arrete-du-27-fevrier-1981)
 - [Arrêté du 27 janvier 1981](arrete-du-27-janvier-1981)
+- [Arrêté du 27 octobre 1981](arrete-du-27-octobre-1981)
 - [Arrêté du 28 janvier 1981](arrete-du-28-janvier-1981)
 - [Arrêté du 28 juillet 1981](arrete-du-28-juillet-1981)
 - [Arrêté du 28 septembre 1981](arrete-du-28-septembre-1981)
