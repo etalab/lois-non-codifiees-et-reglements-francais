@@ -2,6 +2,7 @@
 
 - [Titre Ier : Organisation générale.](titre-ier)
 - [Titre II : Accès à l'école.](titre-ii)
+- [Titre III : Formation professionnelle des magistrats](titre-iii)
 - [Titre IV : Des auditeurs de justice](titre-iv)
 - [Titre V : Dispositions diverses.](titre-v)
 - [Article 70](article-70.md)
