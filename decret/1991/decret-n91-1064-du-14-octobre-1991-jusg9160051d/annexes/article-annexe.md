@@ -34,8 +34,6 @@ Agent responsable de contentieux internationaux ;
 
 Agent responsable du suivi des procédures de marchés publics dans les antennes régionales d'équipement ;
 
-A compter du 1er août 1996 :
-
 Agent chargé de l'organisation des instances de concertation et du suivi des relations sociales ;
 
 Agent responsable des commissions administratives paritaires et du suivi des décisions ;
@@ -242,6 +240,10 @@ Directeur des services pénitentiaires, adjoint à la mission des services péni
 
 Directeur des services pénitentiaires, chef de cabinet à l'administration centrale.
 
+A compter du 1er septembre 2002 :
+
+Adjoint au chef de l'inspection des services pénitentiaires.
+
 SERVICES JUDICIAIRES.
 
 Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire.
@@ -268,8 +270,6 @@ Sous-directeur de la formation initiale et de la recherche à l'Ecole nationale 
 
 Sous-directeur de la formation permanente à l'Ecole nationale des greffes.
 
-A compter du 1er août 1995 :
-
 Assistant de gestion adjoint chargé de fonctions particulières à la Cour de cassation.
 
 Assistant de gestion chargé de fonctions particulières à la Cour de cassation.
@@ -294,27 +294,19 @@ Greffier placé.
 
 Régisseur d'avances et de recettes dont le montant de l'avance est supérieur à 400 000 F.
 
-A compter du 1er août 1995 :
-
 Greffier responsable du centre de préarchivage de Paris ;
 
 Greffier responsable de l'audiovisuel Ecole nationale des greffes.
 
 Moniteur Ecole nationale des greffes.
 
-A compter du 1er août 1996 :
-
 Greffier en chef, coordonnateur du service administratif régional de la cour d'appel.
 
 (1) Les fonctions exercées par des greffiers en chef nommés sur des emplois du premier grade et classés dans 1es Ire et 2e catégories ne sont pas bonifiées.
 
-A compter du 1er janvier 2000 :
-
 Adjoint et agent administratifs placés.
 
 Responsable de la gestion budgétaire adjoint.
-
-A compter du 1er janvier 2001 :
 
 Greffier d'assises.
 
@@ -329,8 +321,6 @@ Responsable des commissions administratives paritaires et du suivi des décision
 Moniteur bureautique et informatique.
 
 Adjoint du chef du bureau de la gestion des personnels.
-
-A compter du 1er janvier 2002 :
 
 Responsable des relations internationales au service de la communication et des relations internationales.
 
@@ -431,8 +421,6 @@ Secrétaire du grand chancelier de la Légion d'honneur ;
 Secrétaire en poste auprès du secrétaire général ;
 
 Secrétaire en poste auprès du secrétaire général adjoint ;
-
-A compter du 1er août 1995 :
 
 Adjoint au chef de bureau de la médaille militaire.
 
