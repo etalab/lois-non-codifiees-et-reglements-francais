@@ -1,15 +1,15 @@
 # Article 6
 
-Cesse de plein droit d'appartenir à la commission paritaire nationale au sein de laquelle il a été élu le membre qui, en cours de mandat :
+Le recteur concerné procède :
 
-1° Est placé en position de disponibilité ou en congé de longue durée ;
+a) A la désignation du jury :
 
-2° Fait l'objet d'une sanction disciplinaire ;
+Composé :
 
-3° N'exerce plus les fonctions de praticien au titre desquelles il a été élu.
+- pour moitié de représentants qualifiés de la profession désignés à parts égales sur proposition des organisations professionnelles de la spécialité représentatives des employeurs et artisans, des artistes indépendants et des salariés ;
 
-Lorsque, avant l'expiration de son mandat, l'un des représentants titulaires se trouve dans l'impossibilité d'accomplir son mandat, pour l'un des motifs énumérés ci-dessus, son suppléant est nommé titulaire à sa place jusqu'au renouvellement de la commission paritaire nationale.
+- pour moitié de membres de l'enseignement public ou privé ;
 
-Le suppléant nommé titulaire est alors remplacé par le candidat non élu de la même liste qui avait obtenu le plus grand nombre de voix après lui.
+Présidé par l'inspecteur pédagogique régional des arts plastiques ou par l'inspecteur de l'enseignement technique d'éducation artistique concerné ou, sur proposition de celui-ci, par un conseiller de l'enseignement technologique de la spécialité ;
 
-Lorsqu'une liste se trouve dans l'impossibilité de pourvoir dans les conditions prévues ci-dessus aux sièges de membres titulaires auxquels elle a droit plus de six mois avant l'échéance du renouvellement, il est procédé pour la discipline considérée à une élection de l'ensemble des représentants, titulaires et suppléants, pour le temps de mandat restant à accomplir.
+b) Au choix des sujets des épreuves des trois unités obligatoires et des épreuves facultatives, parmi les propositions élaborées par une commission nationale constituée à l'initiative de l'inspection générale et composée sur les mêmes bases que le jury.

@@ -1,15 +1,15 @@
 # Article 4
 
-Les praticiens des hôpitaux à temps partiel sont représentés, selon la discipline dont ils relèvent, par des membres élus dans l'une des disciplines suivantes :
+Le candidat au brevet des métiers d'art Ebéniste peut sans condition préalable s'inscrire à l'une ou l'autre des unités de contrôle. Toutefois, lorsqu'il s'inscrit à la dernière unité ouvrant droit à la délivrance du diplôme ou à l'ensemble de l'examen, il doit justifier à la date de l'examen d'une formation théorique et pratique telle qu'elle est décrite à l'annexe II :
 
-- médecine et spécialités médicales ;
+a) Soit initiale de 2 380 heures dont au moins quatre semaines de stage en entreprise sous la responsabilité de l'établissement scolaire, en complément de la préparation au certificat d'aptitude professionnelle Ebéniste ;
 
-- chirurgie, spécialités chirurgicales et odontologie ;
+b) Soit continue ou de promotion sociale :
 
-- anesthésie, réanimation ;
+De 630 heures en complément :
 
-- radiologie ;
+- d'une part, d'un exercice professionnel de la spécialité d'une durée de trois ans ;
 
-- biologie ;
+- d'autre part, de la possession du C.A,P. Ebéniste ou d'un diplôme de niveau IV et au-delà relevant du secteur des arts appliqués ;
 
-- psychiatrie.
+Ou de 1 500 heures dans les autres cas.
