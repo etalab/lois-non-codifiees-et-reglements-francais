@@ -1,9 +1,0 @@
-# Article 25
-
-Les maîtres de conférences de l'Ecole pratique des hautes études et de l'Ecole nationale des chartes sont nommés en qualité de stagiaire par arrêté du ministre chargé de l'enseignement supérieur. La durée du stage est de d'un an. Pour les stagiaires appartenant à un corps de chercheurs d'un établissement public à caractère scientifique et technologique, la durée du stage est réduite à six mois.
-
-A l'issue de la période de stage prévue à l'alinéa précédent, les maîtres de conférences de l'Ecole pratique des hautes études et de l'Ecole nationale des chartes sont, sur proposition de la commission mentionnée à l'article 24 ci-dessus, soit titularisés, soit maintenus en qualité de stagiaire pour une dernière période égale à la moitié de la durée du stage définie à l'alinéa précédent, soit licenciés par arrêté du ministre chargé de l'enseignement supérieur. Lorsqu'il s'agit de fonctionnaires, il est, le cas échéant, mis fin à leur détachement.
-
-Lors de la titularisation, la durée du stage prévu au 1er alinéa est prise en compte pour l'avancement. Il n'est pas tenu compte des prolongations de stage prévues au 2e alinéa.
-
-Les enseignants chercheurs titulaires et associés, mentionnés à l'article 54 de la loi du 26 janvier 1984, les chefs de travaux et préparateurs licenciés de l'Ecole pratique des hautes études et de l'Ecole nationale des chartes, ayant exercé pendant au moins deux ans des fonctions en ces qualités, ainsi que les vacataires à titre principal maintenus en fonctions par le décret n° 82-862 du 6 octobre 1982, recrutés comme maîtres de conférences, sont dispensés de stage. Bénéficient des mêmes dispositions les anciens enseignants associés ayant la même durée de service qui ont cessé leurs fonctions trois ans au plus avant leur nomination en qualité de maître de conférences .

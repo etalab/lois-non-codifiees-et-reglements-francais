@@ -1,7 +1,0 @@
-# Article 37
-
-A titre transitoire et pendant une période de deux ans [*point de départ*] à compter de la date de publication du présent décret, les maîtres de conférences régis par le décret du 6 juin 1984 susvisé et les maîtres-assistants en fonctions à l'Ecole pratique des hautes études à la date de publication du présent décret sont intégrés, sur leur demande, dans le corps des maîtres de conférences de l'Ecole pratique des hautes études. Ils sont reclassés à équivalence de classe à un échelon correspondant à l'indice qu'ils détenaient dans leur ancien corps avec maintien de l'ancienneté d'échelon acquise dans ce corps. Les maîtres-assistants parvenus à l'échelon spécial sont reclassés au 3e [*troisième*] échelon de la 2e [*deuxième*] classe et conservent, à titre personnel, le bénéfice de leur indice antérieur.
-
-Les maîtres de conférences stagiaires en fonctions à l'Ecole pratique des hautes études à la date de publication du présent décret peuvent, s'ils sont titularisés, demander leur intégration dans le corps des maîtres de conférences de l'école selon les modalités prévues à l'alinéa précédent.
-
-Les maîtres de conférences régis par le décret du 6 juin 1984 susvisé qui n'ont pas bénéficié d'une bonification d'ancienneté au titre de la mobilité, ainsi que les maîtres-assistants, peuvent faire valoir la période de mobilité qu'ils ont accomplie, dans les conditions fixées aux deux derniers alinéas de l'article 28 ci-dessus, avant leur intégration dans le corps des maîtres de conférences de l'Ecole pratique des hautes études.

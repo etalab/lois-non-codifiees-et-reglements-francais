@@ -950,7 +950,6 @@
 - [Décret n°93-716 du 27 mars 1993 (ACVE9250019D)](decret-n93-716-du-27-mars-1993-acve9250019d)
 - [Décret n°92-477 du 27 mai 1992 (SPSC9201157D)](decret-n92-477-du-27-mai-1992-spsc9201157d)
 - [Décret n°92-482 du 27 mai 1992 (MAEJ9230023D)](decret-n92-482-du-27-mai-1992-maej9230023d)
-- [Décret n°89-710 du 28 septembre 1989 (MENX8900104D)](decret-n89-710-du-28-septembre-1989-menx8900104d)
 - [Décret n°91-1418 du 28 décembre 1991 (ECOT9194053D)](decret-n91-1418-du-28-decembre-1991-ecot9194053d)
 - [Décret n°91-1419 du 28 décembre 1991 (ECOT9194054D)](decret-n91-1419-du-28-decembre-1991-ecot9194054d)
 - [Décret n°91-237 du 28 février 1991 (ECOX9110047D)](decret-n91-237-du-28-fevrier-1991-ecox9110047d)

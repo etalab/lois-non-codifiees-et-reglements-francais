@@ -1,3 +1,0 @@
-# Article 34
-
-Les directeurs non cumulants et les sous-directeurs non cumulants recrutés en application de la réglementation antérieure, en fonctions à l'Ecole pratique des hautes études à la date de publication du présent décret, sont intégrés [*point de départ*] à compter de la date de publication du présent décret dans la 2e [*deuxième*] classe du corps des directeurs d'études de l'Ecole pratique des hautes études régi par le présent décret, à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur. Ils conservent l'ancienneté d'échelon acquise dans leur corps d'origine dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur dans le nouveau grade.

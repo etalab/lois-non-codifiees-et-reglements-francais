@@ -1,3 +1,0 @@
-# Article 2
-
-Les personnels régis par le présent décret sont astreints à résider [*obligation de résidence*] au lieu d'exercice de leurs fonctions. Des dérogations individuelles peuvent toutefois être accordées par le président ou le directeur de l'école dans les limites compatibles avec les besoins du service.

@@ -459,7 +459,6 @@
 - [Arrêté du 23 janvier 2001 (DEFP0101111A)](arrete-du-23-janvier-2001-defp0101111a)
 - [Arrêté du 23 janvier 2001 (MENS0100117A)](arrete-du-23-janvier-2001-mens0100117a)
 - [Arrêté du 23 juillet 2001 (PRMX0105014A)](arrete-du-23-juillet-2001-prmx0105014a)
-- [Arrêté du 23 mars 2001 (AGRG0100685A)](arrete-du-23-mars-2001-agrg0100685a)
 - [Arrêté du 23 novembre 2001 (AGRG0102351A)](arrete-du-23-novembre-2001-agrg0102351a)
 - [Arrêté du 23 novembre 2001 (DEFP0102361A)](arrete-du-23-novembre-2001-defp0102361a)
 - [Arrêté du 23 novembre 2001 (MESS0123998A)](arrete-du-23-novembre-2001-mess0123998a)
