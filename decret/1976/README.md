@@ -50,6 +50,8 @@
 - [Décret n°76-473 du 25 mai 1976](decret-n76-473-du-25-mai-1976)
 - [Décret n°76-719 du 26 juillet 1976](decret-n76-719-du-26-juillet-1976)
 - [Décret n°76-506 du 26 mai 1976](decret-n76-506-du-26-mai-1976)
+- [Décret n°76-893 du 28 septembre 1976](decret-n76-893-du-28-septembre-1976)
+- [Décret n°76-901 du 28 septembre 1976](decret-n76-901-du-28-septembre-1976)
 - [Décret n°76-488 du 28 mai 1976](decret-n76-488-du-28-mai-1976)
 - [Décret n°76-492 du 28 mai 1976](decret-n76-492-du-28-mai-1976)
 - [Décret n°76-383 du 29 avril 1976](decret-n76-383-du-29-avril-1976)
