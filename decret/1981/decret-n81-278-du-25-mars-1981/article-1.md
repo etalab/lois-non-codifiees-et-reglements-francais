@@ -7,3 +7,5 @@ Le ministre intéressé ou le ministre de l'industrie décide s'il y a lieu de c
 Il transmet son avis aux ministres intéressés dans un délai d'un mois au plus.
 
 Les mesures prises au titre d'une procédure d'urgence sont communiquées au groupe dans un délai de quinze jours qui suit leur adoption.
+
+Le groupe interministériel des produits chimiques est, en outre, chargé de contrôler la conformité aux bonnes pratiques de laboratoire, figurant en annexe au présent décret, de tout laboratoire d'essais situé sur le territoire français et déclarant appliquer les bonnes pratiques de laboratoire pour la réalisation d'essais non cliniques destinés à l'évaluation des effets sur l'homme, les animaux et l'environnement effectués à des fins réglementaires sur tous les produits chimiques autres que les médicaments et les produits visés à l'alinéa 1 de l'article L. 658-11 du code de la santé publique.
