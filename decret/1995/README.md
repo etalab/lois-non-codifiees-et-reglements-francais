@@ -314,6 +314,7 @@
 - [Décret n°95-455 du 21 avril 1995 (SPSG9500615D)](decret-n95-455-du-21-avril-1995-spsg9500615d)
 - [Décret n°95-458 du 21 avril 1995 (MENF9500431D)](decret-n95-458-du-21-avril-1995-menf9500431d)
 - [Décret n°95-75 du 21 janvier 1995 (INTX9500004D)](decret-n95-75-du-21-janvier-1995-intx9500004d)
+- [Décret n°85-260 du 22 février 1985](decret-n85-260-du-22-fevrier-1985)
 - [Décret n°95-1058 du 22 septembre 1995 (SPSS9502390D)](decret-n95-1058-du-22-septembre-1995-spss9502390d)
 - [Décret n°95-184 du 22 février 1995 (PRMX9500649D)](decret-n95-184-du-22-fevrier-1995-prmx9500649d)
 - [Décret n°95-186 du 22 février 1995 (INTX9500661D)](decret-n95-186-du-22-fevrier-1995-intx9500661d)

@@ -1,0 +1,7 @@
+# Article 5
+
+Pour l'application de l'article 1648 B bis du code général    1° Le potentiel fiscal d'une commune visé aux III et IV de l'article 1648 B bis précité est calculé dans les conditions prévues à l'article L. 234-4 du code des communes. Le potentiel fiscal d'une commune, visé au V de ce même article, est déterminé par application du taux moyen national d'imposition à la taxe professionnelle aux bases communales de la taxe professionnelle servant à l'assiette des impositions communales, minorées, le cas échéant, du montant de celles correspondant à l'écrêtement opéré au titre du Fonds départemental de péréquation de la taxe professionnelle prévu par l'article 1648 A du code général des impôts " ;
+
+2° L'effort fiscal d'une commune est calculé dans les conditions prévues à l'article L. 234-5 du code des communes ;    3° Les groupes démographiques de communes sont ceux qui sont définis a l'article L. 234-3 du code des communes.    4° Le chiffre de la population de chaque commune est celui qui est mentionné à l'article L. 234-2 du code des communes ;    5° Les communes ne bénéficient de la répartition du produit du 2° du I de l'article 1648 B bis du code général des impôts que si elles remplissent les conditions visées aux III et V de ce même article. "
+
+La date à prendre en compte pour le calcul des éléments définis aux 1° à 4° ci-dessus est chaque année celle qui a été retenue pour la répartition de la dotation globale de fonctionnement.
