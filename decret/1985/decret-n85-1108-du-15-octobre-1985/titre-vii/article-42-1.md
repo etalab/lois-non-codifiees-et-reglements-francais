@@ -1,0 +1,3 @@
+# Article 42-1
+
+En cas de changement d'exploitant prévu à l'article 25 de la loi n° 2003-8 du 3 janvier 2003, le cédant et le cessionnaire adressent au ministre chargé de l'énergie une demande de transfert à laquelle sont jointes les pièces énumérées aux 1° à 3° et 5° de l'article 5 du présent décret. La demande précise que le cessionnaire reprend à son compte les engagements souscrits par le cédant, notamment ceux pris dans le cadre des pièces visées aux 7° et 8° de l'article 5 du présent décret ainsi que les engagements figurant dans le plan de surveillance et d'intervention mentionné au second alinéa de l'article 32 du présent décret. Cette demande est instruite dans les conditions définies aux articles 7 et 8 du présent décret.

@@ -816,6 +816,7 @@
 - [Arrêté du 28 août 2003 (AGRP0301925A)](arrete-du-28-aout-2003-agrp0301925a)
 - [Arrêté du 28 août 2003 (AGRP0301926A)](arrete-du-28-aout-2003-agrp0301926a)
 - [Arrêté du 28 août 2003 (AGRP0301927A)](arrete-du-28-aout-2003-agrp0301927a)
+- [Arrêté du 28 août 2003 (AGRP0301928A)](arrete-du-28-aout-2003-agrp0301928a)
 - [Arrêté du 28 août 2003 (AGRP0301929A)](arrete-du-28-aout-2003-agrp0301929a)
 - [Arrêté du 28 août 2003 (EQUA0301178A)](arrete-du-28-aout-2003-equa0301178a)
 - [Arrêté du 28 août 2003 (EQUI0300819A)](arrete-du-28-aout-2003-equi0300819a)

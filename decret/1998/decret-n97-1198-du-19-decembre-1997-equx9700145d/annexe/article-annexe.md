@@ -1,4 +1,4 @@
-# Article ANNEXE
+# Article Annexe
 
 TITRE Ier DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
 
@@ -9,8 +9,6 @@ Code des ports maritimes
 1
 
 Approbation d'une concession d'outillage public dans les ports d'intérêt national lorsque la déclaration d'utilité publique a fait l'objet d'un décret en Conseil d'Etat.
-
-Article R. 122-8
 
 2
 
@@ -52,13 +50,9 @@ Homologation des armatures en acier à haute résistance et des procédés de pr
 
 Article 2 (sauf mentions relatives aux armatures pour béton armé).
 
-Mesure prise par les ministres chargés de l'urbanisme,
+Mesure prise par les ministres chargés de l'urbanisme, du logement et des transports et les ministres intéressés
 
-du logement et des transports et les ministres intéressés
-
-Décret n° 86-664 du 14 mars 1986 déterminant les conditions dans
-
-lesquelles les personnes morales visées à l'article 6 (b) de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée peuvent assurer la conduite d'opération
+Décret n° 86-664 du 14 mars 1986 déterminant les conditions dans lesquelles les personnes morales visées à l'article 6 (b) de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée peuvent assurer la conduite d'opération
 
 1
 
@@ -300,6 +294,26 @@ Désignation des organismes habilités à mettre en oeuvre la procédure d'éval
 
 Art. 16
 
+Mesures prises les ministres chargés des transports et de l'industrie
+
+Décret n° 2003-426 du 9 mai 2003 relatif à la mise sur le marché des constituants et sous-systèmes assurant la sécurité des remontées mécaniques
+
+1.
+
+Habilitation des organismes à évaluer la conformité des constituants et sous-systèmes des remontées mécaniques
+
+Article 15
+
+Mesure prise par les ministres chargés de l'industrie, de l'équipement et du logement.
+
+Décret n° 2003-947 du 3 octobre 2003 modifiant le décret n° 92-647 du 8 juillet 1992 concernant l'aptitude à l'usage des produits de construction.
+
+1
+
+Habilitation des organismes à effectuer les tâches d'attestation de conformité des produits de construction.
+
+Article 1er III
+
 B. - Décisions prises par un ministre
 
 Mesures prises par le ministre chargé de l'équipement
@@ -344,9 +358,7 @@ Article R. 422-17, 2e alinéa.
 
 2
 
-Décisions relatives à l'extension de la compétence territoriale des sociétés anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives de production d'habitations à loyer modéré et des
-
-sociétés anonymes de crédit immobilier.
+Décisions relatives à l'extension de la compétence territoriale des sociétés anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives de production d'habitations à loyer modéré et des sociétés anonymes de crédit immobilier.
 
 SAHLM :
 
@@ -402,20 +414,6 @@ Article R. 313-22.
 
 Mesures prises par le ministre chargé des transports
 
-I. - Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991, 95-18 et 95-19 du 19 juin 1995.
-
-1
-
-Délivrance, suspension temporaire et retrait des licences d'entreprises ferroviaires.
-
-Art. 4, 5 et 13
-
-2
-
-Délivrance, suspension temporaire et retrait des certificats de sécurité.
-
-Art. 4, 15 et 16
-
 Décret n° 2001-386 du 3 mai 2001 relatif aux équipements sous pression transportables et pris pour l'application du 1° de l'article 2 du décret n° 97-34 du 15 janvier 1997 relatif à la déconcentration des décisions administratives individuelles
 
 1
@@ -431,6 +429,30 @@ Articles 19, 20 et 21
 Habilitation ou agrément des organismes de contrôle ainsi que leur suspension ou retrait (citernes).
 
 Articles 14 et 24
+
+Décret n° 2003-425 du 9 mai 2003
+
+relatif à la sécurité des transports publics guidés
+
+1
+
+Agrément des experts et organismes qualifiés
+
+Article 7
+
+I. - Décret n° 98-1190 du 23 décembre 1998 relatif à l'utilisation pour certains transports internationaux de l'infrastructure du réseau ferré national et portant transposition des directives du Conseil des Communautés européennes 91-440 du 29 juillet 1991, 95-18 et 95-19 du 19 juin 1995.
+
+1
+
+Délivrance, suspension temporaire et retrait des licences d'entreprises ferroviaires.
+
+Art. 4, 5 et 13
+
+2
+
+Délivrance, suspension temporaire et retrait des certificats de sécurité.
+
+Art. 4, 15 et 16
 
 II. - Décret n° 2000-286 du 30 mars 2000 relatif à la sécurité du réseau ferré national.
 
