@@ -99,6 +99,7 @@
 - [Arrêté du 19 décembre 1983](arrete-du-19-decembre-1983)
 - [Arrêté du 19 juin 1984](arrete-du-19-juin-1984)
 - [Arrêté du 19 mars 1984](arrete-du-19-mars-1984)
+- [Arrêté du 19 novembre 1984](arrete-du-19-novembre-1984)
 - [Arrêté du 19 septembre 1984](arrete-du-19-septembre-1984)
 - [Arrêté du 20 avril 1984](arrete-du-20-avril-1984)
 - [Arrêté du 20 décembre 1983](arrete-du-20-decembre-1983)
@@ -168,3 +169,4 @@
 - [Arrêté du 30 mai 1984](arrete-du-30-mai-1984)
 - [Arrêté du 31 août 1984](arrete-du-31-aout-1984)
 - [Arrêté du 31 janvier 1984](arrete-du-31-janvier-1984)
+- [Arrêté du 31 octobre 1984](arrete-du-31-octobre-1984)
