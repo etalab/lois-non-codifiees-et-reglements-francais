@@ -138,7 +138,6 @@
 - [Décret n°80-1077 du 23 décembre 1980](decret-n80-1077-du-23-decembre-1980)
 - [Décret n°80-447 du 23 juin 1980](decret-n80-447-du-23-juin-1980)
 - [Décret n°80-450 du 23 juin 1980](decret-n80-450-du-23-juin-1980)
-- [Décret n°80-96 du 23 janvier 1980](decret-n80-96-du-23-janvier-1980)
 - [Décret n°80-380 du 23 mai 1980](decret-n80-380-du-23-mai-1980)
 - [Décret n°80-102 du 24 janvier 1980](decret-n80-102-du-24-janvier-1980)
 - [Décret n°80-1079 du 24 décembre 1980](decret-n80-1079-du-24-decembre-1980)
