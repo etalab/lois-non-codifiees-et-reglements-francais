@@ -1,5 +1,5 @@
 # Article 3
 
-A compter du 1er juillet 1984, le coefficient multiplicateur est fixé à 88.415.
+A compter du 1er juillet 1987, pour l'application de l'article R. 351-61 :
 
-A compter du 1er juillet 1985, le coefficient r prévu par l'article R. 351-61 est fixé à 2.350 [*montant*].
+- le coefficient multiplicateur CM est fixé à 55 000 ;  - le coefficient r est fixé à 5 000.

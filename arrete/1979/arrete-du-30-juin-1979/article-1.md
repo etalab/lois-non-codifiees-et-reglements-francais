@@ -1,6 +1,6 @@
 # Article 1
 
-A compter du 1er juillet 1985, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
+A compter du 1er juillet 1987, les équivalences de loyer et de charges locatives de référence sont fixées comme suit :
 
 <table>
 <tr>
@@ -19,7 +19,7 @@ A compter du 1er juillet 1985, les équivalences de loyer et de charges locative
 <td> :                         :          :           :           :</td>
 </tr>
 <tr>
-<td> : Bénéficiaire isolé      :  1.977   :   1.811   :   1.717   :</td>
+<td> : Bénéficiaire isolé      :  2.001   :   1.833   :   1.738   :</td>
 </tr>
 <tr>
 <td> :                         :          :           :           :</td>
@@ -28,7 +28,7 @@ A compter du 1er juillet 1985, les équivalences de loyer et de charges locative
 <td> : Ménage sans personne à  :          :           :           :</td>
 </tr>
 <tr>
-<td> :  charge                 :  2.316   :   2.109   :   1.997   :</td>
+<td> :  charge                 :  2.344   :   2.134   :   2.021   :</td>
 </tr>
 <tr>
 <td> :                         :          :           :           :</td>
@@ -40,7 +40,7 @@ A compter du 1er juillet 1985, les équivalences de loyer et de charges locative
 <td> :  ménage avec une        :          :           :           :</td>
 </tr>
 <tr>
-<td> :  personne à charge ...  :  2.719   :   2.481   :   2.336   :</td>
+<td> :  personne à charge ...  :  2.752   :   2.511   :   2.364   :</td>
 </tr>
 <tr>
 <td> :                         :          :           :           :</td>

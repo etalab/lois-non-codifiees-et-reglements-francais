@@ -1,13 +1,17 @@
 # Article 4
 
-Pour l'évaluation de l'équivalence de loyer et de charges locatives minimales, les pourcentages et les tranches de ressources sont fixées comme suit à compter du 1er juillet 1985 :
+Pour l'évaluation de l'équivalence de loyer et de charges locatives minimale, les pourcentages et les tranches de ressources sont fixés comme suit à compter du 1er juillet 1987 :
 
-0 pour 100 pour la tranche de ressources inférieure ou égale à 4.750 F ;
+5 p. 100 pour la tranche de ressources inférieure ou égale à 8 000F ;
 
-11 pour 100 pour la tranche de ressources comprise entre 4.750 F et 9.500 F ;
+13 p. 100 pour la tranche de ressources comprise entre 8 000F et 11 000F ;
 
-30 pour 100 pour la tranche de ressources comprise entre 9.500 F et 21.850 F ;
+27 p. 100 pour la tranche de ressources comprise entre 11 000F et 16 000F ;
 
-40 pour 100 pour la tranche de ressources supérieure à 21.850 F.
+33 p. 100 pour la tranche de ressources comprise entre 16 000F et 22 000F ;
 
-La valeur numérique prévue au troisième alinéa de l'article R. 351-62 est fixée à 240 à compter du 1er juillet 1985.
+40 p. 100 pour la tranche de ressources comprise entre 22 000F et 26 000F ;
+
+60 p. 100 pour la tranche de ressources supérieure à 26 000F .
+
+La valeur numérique prévue au troisième alinéa de l'article R. 351-62 est fixée à 240 à compter du 1er juillet 1987.

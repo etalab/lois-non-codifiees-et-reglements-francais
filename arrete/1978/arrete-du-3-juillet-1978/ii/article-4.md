@@ -1,6 +1,6 @@
 # Article 4
 
-A compter du 1er juillet 1985, les loyers de référence sont fixés comme suit [*montant*] :
+A compter du 1er juillet 1987, les loyers de référence sont fixés comme suit [*montant*] :
 
 <table>
 <tr>
@@ -19,7 +19,7 @@ A compter du 1er juillet 1985, les loyers de référence sont fixés comme suit 
 <td> :                         :           :           :           :</td>
 </tr>
 <tr>
-<td> : Bénéficiaire isolé ...  :  1.253    :   1.117  :    1.042  :</td>
+<td> : Bénéficiaire isolé ...  :  1.278    :   1.139   :    1.063  :</td>
 </tr>
 <tr>
 <td> :                         :           :           :           :</td>
@@ -28,7 +28,7 @@ A compter du 1er juillet 1985, les loyers de référence sont fixés comme suit 
 <td> : Ménage sans personne à  :           :           :           :</td>
 </tr>
 <tr>
-<td> :  charge ...             :  1.510    :   1.346   :  1.250    :</td>
+<td> :  charge ...             :  1.540    :   1.373   :  1.275    :</td>
 </tr>
 <tr>
 <td> :                         :           :           :           :</td>
@@ -40,7 +40,7 @@ A compter du 1er juillet 1985, les loyers de référence sont fixés comme suit 
 <td> :  ménage ayant une       :           :           :           :</td>
 </tr>
 <tr>
-<td> :  personne à charge ...  :  1.767    :   1.575   :  1.458    :</td>
+<td> :  personne à charge ...  :  1.802    :   1.607   :  1.487    :</td>
 </tr>
 <tr>
 <td> :                         :           :           :           :</td>
@@ -49,7 +49,7 @@ A compter du 1er juillet 1985, les loyers de référence sont fixés comme suit 
 <td> : Par personne            :           :           :           :</td>
 </tr>
 <tr>
-<td> : supplémentaire à charge :    257    :     229   :    208    :</td>
+<td> : supplémentaire à charge :    262    :     234   :    212    :</td>
 </tr>
 <tr>
 <td> :                         :           :           :           :</td>
