@@ -4,4 +4,6 @@ Conformément aux dispositions de l'article 2 de l'arrêté du 23 novembre 1988 
 
 Ecole des hautes études en sciences sociales (E.H.E.S.S.) ;
 
-Institut d'études politiques de Paris (I.E.P.).
+Institut d'études politiques de Paris (I.E.P.) ;
+
+Institut national des langues et civilisations orientales.
