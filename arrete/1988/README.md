@@ -509,7 +509,6 @@
 - [Arrêté du 22 novembre 1988 (AGRG8802025A)](arrete-du-22-novembre-1988-agrg8802025a)
 - [Arrêté du 22 novembre 1988 (BUDB8860081A)](arrete-du-22-novembre-1988-budb8860081a)
 - [Arrêté du 22 septembre 1988 (ECOT8811032A)](arrete-du-22-septembre-1988-ecot8811032a)
-- [Arrêté du 22 septembre 1988 (MERE8800088A)](arrete-du-22-septembre-1988-mere8800088a)
 - [Arrêté du 23 août 1988 (SPSH8801297A)](arrete-du-23-aout-1988-spsh8801297a)
 - [Arrêté du 23 août 1988 (SPSH8801298A)](arrete-du-23-aout-1988-spsh8801298a)
 - [Arrêté du 23 août 1988 (SPSS8801285A)](arrete-du-23-aout-1988-spss8801285a)
