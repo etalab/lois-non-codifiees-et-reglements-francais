@@ -1,0 +1,3 @@
+# Article 7
+
+Le directeur général de la concurrence et de la consommation au ministère de l'économie, le directeur de la qualité (service de la répression des fraudes et du contrôle de la qualité) au ministère de l'agriculture, le directeur des industries métallurgiques, mécaniques et électriques, le directeur de la qualité et de la sécurité industrielles au ministère de l'industrie et le directeur des routes et de la circulation routière au ministère des transports sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République.
