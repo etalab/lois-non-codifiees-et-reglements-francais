@@ -4,8 +4,10 @@ L'examen professionnel pour l'accès à l'emploi d'aide de laboratoire prévu pa
 
 A. - Ecrit (deux épreuves) :
 
-1. Questions professionnelles portant sur le programme de l'annexe A ci-jointe (durée de l'épreuve : une heure trente ; coefficient : 1);
+1. Questions professionnelles portant sur le programme de l'annexe A ci-jointe (durée de l'épreuve : une heure trente ; coefficient : 1) ;
+
+2. Une question d'hygiène professionnelle (durée : une heure ; coefficient 1).
 
 B. - Pratique-oral :
 
-Une épreuve pratique suivie de questions orales (coefficient 3)
+Une épreuve pratique suivie de questions orales (durée : une heure trente ; coefficient 3).
