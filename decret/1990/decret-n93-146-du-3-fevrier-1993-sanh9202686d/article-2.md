@@ -4,14 +4,14 @@ Le classement indiciaire applicable au corps des adjoints des cadres techniques 
 
 Indices bruts :
 
-- classe normale :
+Classe normale (grade provisoire) : 298, 474 ;
 
-- à compter du 1er janvier 1990 : 274-474 ;
+Classe normale, à compter du 1er août 1996 : 298, 544 ;
 
-- à compter du 1er août 1990 : 286-474 ;
+Classe supérieure (grade provisoire) : 438, 533 ;
 
-- à compter du 1er août 1992 : 298-474 ;
+Classe supérieure, à compter du 1er août 1996 : 359, 579 ;
 
-- classe supérieure : 438-533 ;
+Classe exceptionnelle (grade provisoire) : 324, 579 ;
 
-- classe exceptionnelle : 324-579.
+Classe exceptionnelle, à compter du 1er août 1994 : 393, 612.

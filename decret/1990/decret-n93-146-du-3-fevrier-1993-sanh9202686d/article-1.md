@@ -4,7 +4,7 @@ Le classement indiciaire applicable au corps des ingénieurs de l'Assistance pub
 
 Indices bruts :
 
-- ingénieur subdivisionnaire : 379-701 ;
+- ingénieur subdivisionnaire : 379-750 ;
 
 - ingénieur principal : 486-801 ;
 
