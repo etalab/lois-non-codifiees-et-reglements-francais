@@ -390,6 +390,7 @@
 - [Décret n°92-878 du 13 août 1992 (EQUP9200589D)](decret-n92-878-du-13-aout-1992-equp9200589d)
 - [Décret n°92-879 du 13 août 1992 (EQUP9200590D)](decret-n92-879-du-13-aout-1992-equp9200590d)
 - [Décret n°87-334 du 13 mai 1987 (ECOP8700099D)](decret-n87-334-du-13-mai-1987-ecop8700099d)
+- [Décret n°66-787 du 14 octobre 1966](decret-n66-787-du-14-octobre-1966)
 - [Décret n°87-680 du 14 août 1987 (INTA8700210D)](decret-n87-680-du-14-aout-1987-inta8700210d)
 - [Décret n°88-42 du 14 janvier 1988 (JUSF8850001D)](decret-n88-42-du-14-janvier-1988-jusf8850001d)
 - [Décret n°90-230 du 14 mars 1990 (JUSG8960101D)](decret-n90-230-du-14-mars-1990-jusg8960101d)
