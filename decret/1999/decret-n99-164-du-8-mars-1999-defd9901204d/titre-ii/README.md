@@ -7,3 +7,4 @@
 - [Chapitre IV : Direction du service national.](chapitre-iv)
 - [Chapitre V : Service du patrimoine.](chapitre-v)
 - [Chapitre VI : Service des moyens généraux.](chapitre-vi)
+- [Chapitre VII : Service des moyens généraux.](chapitre-vii)
