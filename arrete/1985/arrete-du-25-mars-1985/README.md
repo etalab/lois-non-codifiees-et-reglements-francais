@@ -1,8 +1,6 @@
 # Arrêté du 25 mars 1985 relatif à la cotisation due par les entreprises visées aux articles L. 731-1 et R. 731-1 du code du travail.
 
-- [Article 1](article-1.md)
 - [Section 1 : Enseignements.](section-1)
-- [Article 2](article-2.md)
 - [Section 2 : Stages.](section-2)
 - [Article 3](article-3.md)
 - [Section 3 : Contrôle de la scolarité](section-3)
