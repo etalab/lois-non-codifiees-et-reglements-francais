@@ -160,6 +160,7 @@
 - [Décret n°82-561 du 29 juin 1982](decret-n82-561-du-29-juin-1982)
 - [Décret n°82-563 du 29 juin 1982](decret-n82-563-du-29-juin-1982)
 - [Décret n°82-575 du 29 juin 1982](decret-n82-575-du-29-juin-1982)
+- [Décret n°82-583 du 29 juin 1982](decret-n82-583-du-29-juin-1982)
 - [Décret n°81-1175 du 30 décembre 1981](decret-n81-1175-du-30-decembre-1981)
 - [Décret n°81-1178 du 30 décembre 1981](decret-n81-1178-du-30-decembre-1981)
 - [Décret n°81-1219 du 30 décembre 1981](decret-n81-1219-du-30-decembre-1981)
