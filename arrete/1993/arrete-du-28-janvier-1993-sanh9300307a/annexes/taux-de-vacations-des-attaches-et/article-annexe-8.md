@@ -16,6 +16,8 @@ Anciens assistants de biologie ayant accompli sept ans de fonctions en cette qua
 
 Médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
+Anciens assistants spécialistes.
+
 Montant au 1er février 1993 : 289,63 F
 
 2. Anciens internes des hôpitaux publics ;
@@ -27,6 +29,8 @@ Médecins spécialistes qualifiés ;
 Anciens praticiens du service de santé des armées répondant aux conditions requises pour l'inscription sur la liste d'aptitude aux fonctions de praticien hospitalier à temps plein prévue à l'article 13 du décret n° 84-131 du 24 février 1984 ;
 
 Médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
+
+Anciens assistants généralistes.
 
 Montant au 1er février 1993 : 246,55 F
 
@@ -50,6 +54,8 @@ Anciens assistants de biologie ayant accompli sept ans de fonctions en cette qua
 
 Médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
 
+Anciens assistants spécialistes.
+
 Montant au 1er février 1993 : 348,22 F
 
 2. Anciens internes des hôpitaux publics ;
@@ -61,6 +67,8 @@ Médecins spécialistes qualifiés ;
 Anciens praticiens du service de santé des armées répondant aux conditions requises pour l'inscription sur la liste d'aptitude aux fonctions de praticien hospitalier à temps plein prévue à l'article 13 du décret n° 84-131 du 24 février 1984 ;
 
 Médecins étrangers ressortissants d'un Etat membre de la Communauté économique européenne pouvant justifier d'une qualification reconnue équivalente.
+
+Anciens assistants généralistes.
 
 Montant au 1er février 1993 : 290,91 F
 

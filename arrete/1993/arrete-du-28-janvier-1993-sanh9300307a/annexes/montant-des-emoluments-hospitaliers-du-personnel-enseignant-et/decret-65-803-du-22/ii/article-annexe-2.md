@@ -142,7 +142,7 @@ Professeurs du premier grade de chirurgie dentaire - odontologistes des services
 
 1re classe, à partir du 4e échelon
 
-Montants au 1er février 1993 : 65984
+Montants au 1er février 1993 : 69984
 
 1re classe, 1er à 3e échelon
 

@@ -34,6 +34,10 @@ Montant (en francs) au 1er février 1993 : 184 632
 
 Maîtres de conférences des universités - praticiens hospitaliers des centres de soins d'enseignement et de recherche dentaires exerçant à temps plein :
 
+Après 24 ans 1/2
+
+Montant (en francs) au 1er février 1993 : 242 858
+
 Après 20 ans
 
 Montant (en francs) au 1er février 1993 : 222 279
@@ -71,6 +75,10 @@ Avant  2 ans
 Montant (en francs) au 1er février 1993 : 123 909
 
 Maîtres de conférences des universités - praticiens hospitaliers des centres de soins d'enseignement et de recherche dentaires exerçant à temps partiel :
+
+Après 24 ans 1/2
+
+Montant (en francs) au 1er février 1993 : 97 153
 
 Après 20 ans
 
