@@ -7,6 +7,7 @@
 - [Décret n°88-480 du 2 mai 1988 (ECOZ8800011D)](decret-n88-480-du-2-mai-1988-ecoz8800011d)
 - [Décret n°88-494 du 2 mai 1988 (ASES8800594D)](decret-n88-494-du-2-mai-1988-ases8800594d)
 - [Décret n°88-495 du 2 mai 1988 (ASES8800598D)](decret-n88-495-du-2-mai-1988-ases8800598d)
+- [Décret n°88-1022 du 3 novembre 1988 (SPSP8801204D)](decret-n88-1022-du-3-novembre-1988-spsp8801204d)
 - [Décret n°88-954 du 3 octobre 1988 (MAEJ8830055D)](decret-n88-954-du-3-octobre-1988-maej8830055d)
 - [Décret n°88-956 du 3 octobre 1988 (MAEJ8830057D)](decret-n88-956-du-3-octobre-1988-maej8830057d)
 - [Décret n°88-958 du 3 octobre 1988 (AGRP8801542D)](decret-n88-958-du-3-octobre-1988-agrp8801542d)
