@@ -302,6 +302,7 @@
 - [Décret n°98-213 du 24 mars 1998 (INTA9800059D)](decret-n98-213-du-24-mars-1998-inta9800059d)
 - [Décret n°98-214 du 24 mars 1998 (EQUS9800150D)](decret-n98-214-du-24-mars-1998-equs9800150d)
 - [Décret n°98-216 du 24 mars 1998 (MESP9820588D)](decret-n98-216-du-24-mars-1998-mesp9820588d)
+- [Décret n°98-314 du 24 avril 1998 (MESX9802952D)](decret-n98-314-du-24-avril-1998-mesx9802952d)
 - [Décret n°98-658 du 24 juillet 1998 (MENF9801592D)](decret-n98-658-du-24-juillet-1998-menf9801592d)
 - [Décret n°98-745 du 24 août 1998 (EQUP9800993D)](decret-n98-745-du-24-aout-1998-equp9800993d)
 - [Décret n°99-524 du 24 juin 1999 (AGRA9900845D)](decret-n99-524-du-24-juin-1999-agra9900845d)
