@@ -44,9 +44,9 @@ Sont autorisés, à titre général, les règlements à destination de l'étrang
 
 21. Droits et redevances de brevets, licences et marques de fabrique, droits d'auteur, redevances d'exploitation cinématographique et autres ;
 
-22. Frais d'installation de résidents s'installant à l'étranger ;
+22. Frais exposés par les fonctionnaires en poste à l'étranger et par les personnes poursuivant des études à l'étranger ;
 
-23. Transfert des avoirs de rapatriés ;
+23. Transfert des avoirs de non-résidents et de résidents émigrés ou émigrant ;
 
 24. Successions ;
 
@@ -58,4 +58,8 @@ Sont autorisés, à titre général, les règlements à destination de l'étrang
 
 28. (abrogé) ;
 
-29. Tous autres paiements qui, par leur nature, peuvent être assimilés aux catégories énumérées ci-dessus.
+29. Tous autres paiements qui, par leur nature, peuvent être assimilés aux catégories énumérées ci-dessus ;
+
+30. Donations ;
+
+31. Acquisitions de biens immobiliers par des résidents.
