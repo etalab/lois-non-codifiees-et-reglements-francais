@@ -1,7 +1,9 @@
 # Article 29
 
-Les aliments pour animaux de compagnie, autres que les conserves, doivent satisfaire aux critères microbiologiques fixés en annexe II de l'arrêté du 30 décembre 1991 précité, à interpréter selon un plan à trois classes tel que décrit à l'annexe I de l'arrêté du 21 décembre 1979 relatif aux critères microbiologiques auxquels doivent satisfaire certaines denrées animales ou d'origine animale.
+L'exploitant ou le gestionnaire d'un établissement de fabrication est tenu de faire procéder, à ses frais, à des contrôles périodiques permettant de s'assurer que :
 
-Les conserves sont soumises aux exigences de l'arrêté du 21 décembre 1979 précité.
+- les conserves d'aliments pour animaux de compagnie satisfont à des épreuves d'incubation, permettant de vérifier leur stabilité, de sept jours à 37 °C ou de dix jours à 35 °C, dans les conditions définies à l'article 8 de l'arrêté du 21 décembre 1979 relatif aux critères microbiologiques auxquels doivent satisfaire certaines denrées animales ou d'origine animale ;
 
-Le producteur est tenu de faire procéder, à ses frais, à des examens microbiologiques périodiques sur les produits finis. La périodicité est fixée, par le fabricant sous sa responsabilité, en fonction de la nature et de la quantité d'aliments fabriqués.
+- les autres aliments pour animaux de compagnie satisfont aux critères microbiologiques fixés en annexe du présent arrêté.
+
+La périodicité de ces contrôles est fixée, sous la responsabilité de l'exploitant ou du gestionnaire de l'établissement de fabrication, en fonction de la nature et de la quantité d'aliments fabriqués.

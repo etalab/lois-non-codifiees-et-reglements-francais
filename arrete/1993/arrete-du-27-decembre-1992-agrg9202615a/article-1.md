@@ -6,7 +6,7 @@ Aux fins du présent arrêté, on entend par :
 
 - navire-usine : un navire à bord duquel les produits de la pêche subissent une ou plusieurs des opérations suivantes, obligatoirement suivies d'un conditionnement et éventuellement d'un emballage :
 
-filetage, tranchage, pelage, hachage, congélation, transformation. Ne sont pas considérés comme navires-usines les navires de pêche qui ne pratiquent à bord que la cuisson des crevettes et mollusques, ou que la congélation, dits respectivement navires-cuiseurs et navires-congélateurs. Ne sont considérés ni comme navires de pêche ni comme navires-usines les navires conchylicoles ;
+filetage, tranchage, pelage, hachage, congélation, transformation. Ne sont pas considérés comme navires-usines les navires de pêche qui ne pratiquent à bord que la cuisson des crevettes et mollusques, ou que la congélation, dits respectivement navire-cuiseurs et navires-congélateurs, que ces opérations soient ou non suivies d'un conditionnement ou emballage. Ne sont considérés ni comme navires de pêche ni comme navires-usines les navires conchylicoles ;
 
 - produit de la pêche : tous les animaux ou parties d'animaux marins ou d'eau douce, y compris leurs oeufs et laitances, à l'exclusion des mammifères et des animaux aquatiques faisant par ailleurs l'objet d'une réglementation sanitaire ;
 

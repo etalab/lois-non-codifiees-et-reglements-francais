@@ -10,12 +10,10 @@ le siège de l'établissement ;
 
 un plan d'ensemble de l'établissement à l'échelle 1/500 accompagné de la description des locaux destinés au stockage des matières premières, à la préparation, au traitement, au conditionnement et au stockage des produits finis et faisant apparaître les différents circuits ;
 
-une note descriptive de l'équipement et du matériel utilisés ;
-
-la capacité journalière de production ;
+une note descriptive de l'équipement et du matériel utilisés ;    la capacité journalière de production ;
 
 la nomenclature des produits ;
 
 le mode de préparation, de traitement et de conditionnement envisagé pour chaque produit.
 
-Le directeur des services vétérinaires attribue à l'établissement un numéro d'immatriculation. Le responsable de l'établissement est tenu d'informer le directeur des services vétérinaires de toute modification importante des locaux, de leur aménagement ou de leur gros équipement.
+Le préfet (directeur des services vétérinaires) enregistre l'établissement en lui attribuant un numéro d'identification dans les conditions définies au chapitre I de l'arrêté du 28 juin 1994 relatif à l'identification et à l' agrément sanitaire des établissements mettant sur le marché des denrées animales ou d'origine animale et au marquage de salubrité. Le responsable de l'établissement est tenu d'informer le directeur des services vétérinaires de toute modification importante des locaux, de leur aménagement ou de leur gros équipement.

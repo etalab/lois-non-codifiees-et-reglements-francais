@@ -8,16 +8,16 @@ Les contrôles d'hygiène, de conformité et de salubrité ont lieu à bord en t
 
 Les services vétérinaires mettent en place pour les navires-usines un système de contrôle et de surveillance analogue au système établi à terre pour les établissements de manipulation des produits de la pêche. Il est notamment vérifié que les conditions d'agrément sont toujours remplies : produits manipulés correctement, locaux, installations et instruments tenus propres, personnels respectueux de l'hygiène et documents sanitaires tenus à jour.
 
-Sans préjudice des dispositions des articles R. 112-6 à R. 112-31 du code de la consommation susvisé, une marque sanitaire comportant l'identification d navire-usine expéditeur de produits de la pêche est apposée :
+Sans préjudice des dispositions des articles R. 112-1 et suivants du code de la consommation relatifs à l'étiquetage et à la présentation des denrées alimentaires préemballées, une marque de salubrité telle que prévue par l'arrêté du 28 juin 1994 précité et comportant l'identification du navire-congélateur ou du navire-usine est apposée :
 
-- sur les emballages des produits issus du navire-usine concerné et sur les conditionnements destinés au consommateur final ;
+- sur les emballages des produits et les conditionnements destinés au consommateur final ;
 
-- ou sur les documents accompagnant ces produits.
+- ou, dans le cas de produits non emballés, sur les documents d'accompagnement de ces produits.
 
-La marque sanitaire doit comporter les indications suivantes qui sont entourées d'une bande ovale. Dans la partie supérieure figure en majuscules d'imprimerie la lettre F ou le mot FRANCE. Dans la partie médiane est porté le numéro d'agrément du navire-usine prévu aux articles 40 et 41 précédents. Dans la partie inférieure vient s'inscrire en majuscules d'imprimerie le sigle C.E.E. Le numéro d'agrément est formé :
+La marque de salubrité est rédigée en caractères d'imprimerie, parfaitement lisible et apposée à un endroit de l'emballage visible de l'extérieur sans qu'il soit nécessaire de l'ouvrir. Elle doit comporter les indications suivantes qui sont entourées d'une bande ovale. Dans la partie supérieure figure la lette F ou le mot France. Dans la partie médiane est porté le numéro prévu à l'article 40 précédent. Dans la partie inférieure vient s'inscrire le sigle CE. Le numéro est formé :
 
-- du numéro minéralogique du département du port d'attache (nombre à deux chiffres) ;
+- du numéro minéralogique du département ;
 
-- du numéro d'ordre du navire-usine (nombre à trois chiffres s'inscrivant dans la séquence des numéros d'ordre des établissements du département agréés pour la manipulation des produits de la pêche) ;
+- du numéro de codification de la commune du port d'attache ;
 
-- des deux lettres PP en majuscules d'imprimerie.
+- du numéro d'ordre du navire parmi les installations de la commune mettant sur le marché des denrées animales ou d'origine animale.

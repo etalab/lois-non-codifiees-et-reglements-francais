@@ -4,7 +4,7 @@ Les ateliers de collecte de matières premières animales ou d'origine animale e
 
 a) Un local frigorifique d'entreposage réservé aux matières premières, dont la température est maintenue entre 0 et + 7 °C ;
 
-b) Un local frigorifique d'entreposage réservé aux matières premières, dont la température est maintenue à -18 °C ;
+b) Un local frigorifique d'entreposage réservé aux matières premières, dont la température est maintenue à -12 °C ;
 
 c) Un local ou un emplacement réservé à la décongélation des matières premières, dont la température est maintenue entre 0 et + 7 °C ;
 
@@ -16,18 +16,16 @@ f) Un local de travail réservé à la fabrication d'aliments pour animaux de co
 
 g) Une unité de congélation ;
 
-h) Un local frigorifique d'entreposage des produits finis congelés permettant leur maintien à -18 °C ; ce local peut être une partie du local prévu sous b ;
+h) Un local frigorifique d'entreposage des produits finis congelés permettant leur maintien à -12 °C ; ce local peut être une partie du local prévu sous b ;
 
 i) Un local d'entreposage des produits finis réfrigérés permettant leur maintien à une température entre 0 et + 4 °C ;
 
 j) Un local d'emballage, ou un emplacement lorsque la dimension des locaux et les procédés de fabrication le justifient ;
 
-k) Un local destiné au stockage des matériaux de conditionnement et d'emballage ;
+k) Un local ou un emplacement destiné au stockage des matériaux de conditionnement et d'emballage ;
 
 l) Un local ou un emplacement réservé au nettoyage du matériel, des bacs et des récipients ;
 
 m) Un local pour le stockage des déchets ;
 
-n) Un local ou un secteur pour le stockage des produits d'entretien ;
-
-o) Une aire de lavage et de désinfection des véhicules servant au transport des matières premières, le cas échéant.
+n) Une aire de lavage et de désinfection des véhicules servant au transport des matières premières, le cas éhéant.

@@ -4,16 +4,16 @@ Chaque foyer évalué ainsi qu'il précède est réputé justifier une contribut
 
 La masse financière annuelle, correspondant aux effectifs de foyers définis à l'article 1er, consacrée par l'Etat aux actions d'insertion dans le département est égale à :
 
-C : (EJ  0,1  CMJ/2  6) p (ED  0,1 X CMD/2  6)
+C = (EJ x 0,064 x CMJ/2 x 6) + (ED x 0,064 x CMD/2 x 6)
 
 où
 
-C r contribution pour chaque département ;
+C : contribution pour chaque département ;
 
-EJ r effectif des allocataires pour le dernier mois de juin connu ;
+EJ : effectif des allocataires pour le dernier mois de juin connu ;
 
-ED r effectif des allocataires pour le dernier mois de décembre connu ;
+ED : effectif des allocataires pour le dernier mois de décembre connu ;
 
-CMJ r contribution moyenne de l'Etat aux actions d'insertion au dernier mois de juin connu ;
+CMJ : contribution moyenne de l'Etat aux actions d'insertion au dernier mois de juin connu ;
 
-CMD r contribution moyenne de l'Etat aux actions d'insertion au dernier mois de décembre connu.
+CMD : contribution moyenne de l'Etat aux actions d'insertion au dernier mois de décembre connu.
