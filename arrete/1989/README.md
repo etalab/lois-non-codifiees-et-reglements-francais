@@ -72,7 +72,6 @@
 - [Arrêté du 3 octobre 1989 (SPSS8902038A)](arrete-du-3-octobre-1989-spss8902038a)
 - [Arrêté du 3 mai 1989 (SPSP8900973A)](arrete-du-3-mai-1989-spsp8900973a)
 - [Arrêté du 4 août 1989 (EQUT8900877A)](arrete-du-4-aout-1989-equt8900877a)
-- [Arrêté du 4 avril 1989 (MENU8900775A)](arrete-du-4-avril-1989-menu8900775a)
 - [Arrêté du 4 avril 1989 (SPSS8900773A)](arrete-du-4-avril-1989-spss8900773a)
 - [Arrêté du 4 avril 1989 (TEFE8903317A)](arrete-du-4-avril-1989-tefe8903317a)
 - [Arrêté du 4 décembre 1989 (ECOT8923038A)](arrete-du-4-decembre-1989-ecot8923038a)
