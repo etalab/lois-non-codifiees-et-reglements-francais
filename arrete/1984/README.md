@@ -93,6 +93,7 @@
 - [Arrêté du 22 décembre 1983](arrete-du-22-decembre-1983)
 - [Arrêté du 22 février 1984](arrete-du-22-fevrier-1984)
 - [Arrêté du 22 juillet 1983](arrete-du-22-juillet-1983)
+- [Arrêté du 23 août 1984](arrete-du-23-aout-1984)
 - [Arrêté du 23 décembre 1983](arrete-du-23-decembre-1983)
 - [Arrêté du 23 février 1984](arrete-du-23-fevrier-1984)
 - [Arrêté du 23 janvier 1984](arrete-du-23-janvier-1984)
