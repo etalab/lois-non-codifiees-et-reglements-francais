@@ -88,6 +88,7 @@
 - [Arrêté du 3 mars 2003 (SANS0320801A)](arrete-du-3-mars-2003-sans0320801a)
 - [Arrêté du 3 mars 2003 (SOCA0320908A)](arrete-du-3-mars-2003-soca0320908a)
 - [Arrêté du 3 mars 2003 (SOCO0310073A)](arrete-du-3-mars-2003-soco0310073a)
+- [Arrêté du 3 novembre 2003 (BUDB0350066A)](arrete-du-3-novembre-2003-budb0350066a)
 - [Arrêté du 3 octobre 2003 (AGRP0301916A)](arrete-du-3-octobre-2003-agrp0301916a)
 - [Arrêté du 3 octobre 2003 (DEFS0302096A)](arrete-du-3-octobre-2003-defs0302096a)
 - [Arrêté du 3 octobre 2003 (SANH0323908A)](arrete-du-3-octobre-2003-sanh0323908a)
