@@ -1,0 +1,5 @@
+# Article 9 bis
+
+Dans le cas où, en application du paragraphe I de l'article 9 de la présente loi, de droit de préemption urbain a été institué le plein droit sur des zones urbaines qui étaient couvertes par une zone d'intervention foncière, la commune ou l'établissement public de coopération intercommunale compétent doit, dans un délai de six mois à compter de la publication de la loi n° 87-557 du 17 juillet 1987 complétant la loi n° 85-729 du 18 juillet 1985 relative à la définition et à la mise en oeuvre de principes d'aménagement, délibérer pour maintenir ce droit. A défaut de cette délibération dans le délai prévu, le droit de préemption urbain n'est plus applicable sur le territoire concerné.
+
+Ces dispositions ne sont pas applicables aux communes et établissements publics de coopération intercommunale compétents qui, entre le 26 avril 1987 et la date de publication de la loi n° 87-557 du 17 juillet 1987 précitée, auront délibéré pour modifier le champ d'application du droit de préemption urbain.
