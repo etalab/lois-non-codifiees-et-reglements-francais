@@ -84,6 +84,7 @@
 - [Décret n°76-1086 du 29 novembre 1976](decret-n76-1086-du-29-novembre-1976)
 - [Décret n°76-1102 du 29 novembre 1976](decret-n76-1102-du-29-novembre-1976)
 - [Décret n°76-1110 du 29 novembre 1976](decret-n76-1110-du-29-novembre-1976)
+- [Décret n°76-1241 du 29 décembre 1976](decret-n76-1241-du-29-decembre-1976)
 - [Décret n°76-383 du 29 avril 1976](decret-n76-383-du-29-avril-1976)
 - [Décret du 30 mars 1976](decret-du-30-mars-1976)
 - [Décret n°76-288 du 31 mars 1976](decret-n76-288-du-31-mars-1976)

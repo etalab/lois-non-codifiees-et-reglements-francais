@@ -1,0 +1,18 @@
+# Loi n° 76-1232 du 29 décembre 1976 DE FINANCES POUR 1977
+
+- [Article 22 VII](article-22-vii.md)
+- [AMENDES FISCALES](amendes-fiscales)
+- [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES](impositions-percues-au)
+- [CONTRIBUTIONS INDIRECTES](contributions-indirectes)
+- [DROIT DE TIMBRE.](droit-de-timbre)
+- [ENERGIE](energie)
+- [ENREGISTREMENT, PUBLICITE FONCIERE, TIMBRE](enregistrement-publicite-fonciere-timbre)
+- [COMMERCE ET ARTISANAT](commerce-et)
+- [ECONOMIE ET FINANCES](economie-et)
+- [ETABLISSEMENT ET RECOUVREMENT DE L'IMPOT](etablissement-et)
+- [PRELEVEMENT CONJONCTUREL EN 1977.](prelevement-conjoncturel-en-1977)
+- [IMPOT SUR LES SOCIETES](impot-sur)
+- [TAXE SUR LE CHIFFRE D'AFFAIRE](taxe-sur)
+- [TAXES SUR LE CHIFFRE D'AFFAIRE](taxes-sur)
+- [TAXES DIVERSES](taxes-diverses)
+- [TRANSPORTS TERRESTRES](transports-terrestres)

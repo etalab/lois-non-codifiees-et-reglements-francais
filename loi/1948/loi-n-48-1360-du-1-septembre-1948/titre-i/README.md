@@ -13,6 +13,7 @@
 - [Article 3 quater](article-3-quater.md)
 - [Article 3 quinquies](article-3-quinquies.md)
 - [Article 3 sexies](article-3-sexies.md)
+- [Article 3 septies](article-3-septies.md)
 - [Chapitre IV : Des locations et sous-locations en meublé.](chapitre-iv)
 - [Chapitre V : De la procédure.](chapitre-v)
 - [Chapitre VI : Des sanctions.](chapitre-vi)

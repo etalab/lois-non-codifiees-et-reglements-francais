@@ -1,0 +1,5 @@
+# Article 3 septies
+
+Les dispositions du présent titre cessent d'être applicables aux logements ayant fait l'objet de travaux d'amélioration et loués dans des conditions fixées par l'article 48 de la loi de finances pour 1977. Toutefois, les locataires ou occupants de bonne foi dans les lieux lors de la notification des travaux bénéficieront d'un bail satisfaisant aux conditions fixées en application de l'article 48 de la loi de finances pour 1977 susvisée.
+
+Les dispositions du présent titre sont applicables, pour des logements améliorés dans les conditions prévues ci-dessus, aux locataires, ou occupants de bonne foi, âgés d'au moins soixante-cinq ans ou d'au moins soixante ans, en cas d'inaptitude au travail, et dont les ressources annuelles imposables sont inférieures à une fois et demie le montant annuel du S.M.I.C. calculé sur la base de la durée légale du travail. Il est tenu compte, pour le calcul des ressources du locataire ou de l'occupant, de celles des personnes vivant avec lui d'une manière effective et permanente. L'ensemble de ces conditions est apprécié à la date de la notification de travaux.

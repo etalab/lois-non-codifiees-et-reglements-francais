@@ -3,6 +3,7 @@
 - [Loi n° 76-1106 du 6 décembre 1976](loi-n-76-1106-du-6-decembre-1976)
 - [Loi n° 76-1201 du 24 décembre 1976](loi-n-76-1201-du-24-decembre-1976)
 - [Loi n° 76-1220 du 28 décembre 1976](loi-n-76-1220-du-28-decembre-1976)
+- [Loi n° 76-1232 du 29 décembre 1976](loi-n-76-1232-du-29-decembre-1976)
 - [Loi n° 76-521 du 16 juin 1976](loi-n-76-521-du-16-juin-1976)
 - [Loi n° 76-539 du 22 juin 1976](loi-n-76-539-du-22-juin-1976)
 - [Loi n° 76-646 du 16 juillet 1976](loi-n-76-646-du-16-juillet-1976)
