@@ -11,6 +11,7 @@
 - [Décret n°95-911 du 7 août 1995 (AGRA9501096D)](decret-n95-911-du-7-aout-1995-agra9501096d)
 - [Décret n°96-527 du 7 juin 1996 (AGRA9600841D)](decret-n96-527-du-7-juin-1996-agra9600841d)
 - [Décret n°96-976 du 7 novembre 1996 (INTC9600275D)](decret-n96-976-du-7-novembre-1996-intc9600275d)
+- [Décret du 8 janvier 1996 (HRUX9601299D)](decret-du-8-janvier-1996-hrux9601299d)
 - [Décret n°96-13 du 8 janvier 1996 (DOME9500052D)](decret-n96-13-du-8-janvier-1996-dome9500052d)
 - [Décret n°96-1086 du 9 décembre 1996 (ENVE9640064D)](decret-n96-1086-du-9-decembre-1996-enve9640064d)
 - [Décret n°96-534 du 12 juin 1996 (INTA9620163D)](decret-n96-534-du-12-juin-1996-inta9620163d)
