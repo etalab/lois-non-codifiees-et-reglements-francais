@@ -46,7 +46,7 @@ Le taux de la taxe, qui peut varier selon les produits, est fixé par arrêté c
 <td> :                    :                :</td>
 </tr>
 <tr>
-<td> :         10         :       30       :</td>
+<td> :         10         :       40       :</td>
 </tr>
 <tr>
 <td> :                                     :</td>
@@ -97,7 +97,7 @@ Le taux de la taxe, qui peut varier selon les produits, est fixé par arrêté c
 <td> :                    :                :</td>
 </tr>
 <tr>
-<td> :         11         :       30       :</td>
+<td> :         11         :       40       :</td>
 </tr>
 <tr>
 <td> :                                     :</td>
