@@ -14,7 +14,7 @@ Il est interdit à toute personne :
 
 6° De passer d'une voiture dans une autre autrement que par les passages disposés à cet effet, de se pencher en dehors et de rester sur les marchepieds pendant la marche ;
 
-7° De fumer dans les salles d'attente des gares et dans les compartiments des voitures portant l'inscription "Non fumeurs". Cette interdiction ne s'applique pas dans les compartiments portant l'inscription "Fumeurs" ni, à condition qu'aucun des voyageurs présents ne s'y oppose, dans ceux qui ne portent aucune des deux inscriptions ci-dessus ;
+7° Alinéa abrogé
 
 8° De cracher ailleurs que dans les crachoirs disposés à cet effet ;
 
