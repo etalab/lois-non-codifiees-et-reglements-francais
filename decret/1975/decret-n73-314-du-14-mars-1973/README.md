@@ -4,5 +4,6 @@
 - [Article 2](article-2.md)
 - [Modalités de tenue à jour du répertoire - Radiation.](modalites-de-tenue-a)
 - [Contenu du répertoire.](contenu-du-repertoire)
+- [Contenu du répertoire national des entreprises et des établissements.](contenu-du-repertoire-national-des-entreprises-et)
 - [Dispositions transitoires et modalités d'entrée en vigueur.](dispositions-transitoires-et)
 - [Publicite et effet de l'inscription au répertoire.](publicite-et)
