@@ -16,6 +16,8 @@ A. - Fonctions exercées en administration centrale
 
 7. Chef de l'inspection des services pénitentiaires.
 
+8. Chef du département de l'état-major de sécurité de la direction de l'administration pénitentiaire.
+
 B. - Fonctions exercées dans les services territoriaux
 
 1. Directeur régional des services pénitentiaires.
