@@ -15,3 +15,5 @@ Les dépenses comprennent [*définition*] :
 6° Le remboursement des frais de déplacement et de séjour aux membres du conseil d'administration ;
 
 7° Les dépenses diverses et accidentelles.
+
+8° Le service des aides et secours attribués en faveurs des retraités.

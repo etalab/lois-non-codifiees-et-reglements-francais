@@ -6,9 +6,7 @@ Le conseil d'administration [*attributions*] délibère sur toutes les questions
 
 2° L'examen de la situation active et passive annuelle de la caisse ;
 
-//Abrogé par le décret 1496 du 30 décembre 1961 :
-
-3° La fixation des contributions complémentaires à imposer aux collectivités en application de l'avant-dernier alinéa de l'article 3 du présent décret pour assurer le service des pensions [*en cas d'insuffisance des ressources de la caisse nationale de retraites*] ; //
+3° Le budget de gestion administrative.
 
 4° L'achat, la vente ou l'échange de tous droits mobiliers ou immobiliers ;
 
