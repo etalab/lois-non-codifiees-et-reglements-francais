@@ -182,7 +182,6 @@
 - [Arrêté du 8 décembre 1987 (AGRE8702163A)](arrete-du-8-decembre-1987-agre8702163a)
 - [Arrêté du 8 décembre 1987 (MCCF8700525A)](arrete-du-8-decembre-1987-mccf8700525a)
 - [Arrêté du 8 janvier 1987](arrete-du-8-janvier-1987)
-- [Arrêté du 8 janvier 1987 (BUDF8720001A)](arrete-du-8-janvier-1987-budf8720001a)
 - [Arrêté du 8 janvier 1987 (MENF8700026A)](arrete-du-8-janvier-1987-menf8700026a)
 - [Arrêté du 8 juillet 1987](arrete-du-8-juillet-1987)
 - [Arrêté du 8 juillet 1987 (DEFE8701568A)](arrete-du-8-juillet-1987-defe8701568a)
