@@ -9,3 +9,5 @@ b) Attestation : procédure correspondant à un risque élevé par laquelle un o
 c) Déclaration : procédure correspondant à un risque important ou à un trouble excessif par laquelle le fabricant, son mandataire ou le responsable de la première mise sur le marché déclare sous sa responsabilité et après mesures que les valeurs limites admissibles sont respectées ; la réalisation des mesures par un organisme agréé peut être exigée pour certains objets ou dispositifs.
 
 Un arrêté interministériel précise, pour chaque type ou famille d'objets ou de dispositifs, les caractéristiques acoustiques et les valeurs limites admissibles ainsi que la procédure applicable.
+
+Les silencieux et les dispositifs d'échappement destinés aux véhicules réceptionnés au titre du code de la route sont soumis à homologation. La procédure applicable à ces produits est celle prévue par les articles R. 321-6 et suivants du code de la route.
