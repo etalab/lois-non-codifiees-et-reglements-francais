@@ -14,8 +14,6 @@ La correction est assurée par un surveillant participant à la formation dans l
 
 L'évaluation de chacun des modules doit avoir lieu au plus tard dans le trimestre qui suit l'enseignement de celui-ci et selon un calendrier soumis à l'avis du conseil technique.
 
-Le module est validé si l'étudiant obtient une note au moins égale à dix sur vingt.
-
 4.1.2. Evaluation clinique
 
 Deux mises en situation professionnelle destinées à évaluer les capacités de l'étudiant, compte tenu du stade de la formation auquel il est parvenu, à élaborer une démarche de soins pour une personne ou une démarche de santé publique et à réaliser des soins ou des actions de santé publique. Celles-ci se déroulent dans le service hospitalier ou le secteur extrahospitalier dans lequel l'étudiant est en stage depuis au moins une semaine.
@@ -32,15 +30,13 @@ L'évaluation est assurée par un surveillant participant à la formation dans l
 
 4.2.1. Evaluation théorique
 
-Huit évaluations portant sur les enseignements théoriques dispensés au cours de la deuxième année dont au minimum trois devoirs écrits et anonymes. Deux au moins de ceux-ci doivent être des cas concrets.
+Six évaluations portant sur les enseignements théoriques dispensés au cours de la deuxième année dont au minimum trois devoirs écrits et anonymes. Deux au moins de ceux-ci doivent être des cas concrets. Chacun d'entre eux porte sur deux modules enseignés au cours de la deuxième année d'études ;
 
 Chaque évaluation est notée sur vingt points.
 
 La correction est assurée par un surveillant participant à la formation dans le centre dont relève l'étudiant ou par toute autre personne ayant participé à l'enseignement du module concerné.
 
 L'évaluation de chacun des modules doit avoir lieu dans le trimestre qui suit l'enseignement de celui-ci.
-
-Le module est validé si l'étudiant obtient une note au moins égale à 10 sur 20.
 
 4.2.2. Evaluation clinique
 
@@ -58,7 +54,7 @@ L'évaluation est assurée par un surveillant participant à la formation dans l
 
 4.3.1. Evaluation théorique
 
-Sept évaluations portant sur les enseignements théoriques dispensés au cours de la troisième année, dont au minimum trois devoirs écrits et anonymes. Deux au moins de ceux-ci doivent être des cas concrets.
+Cinq évaluations portant sur les enseignements théoriques dispensés au cours de la troisième année, dont au minimum trois devoirs écrits et anonymes. Deux au moins de ceux-ci doivent être des cas concrets. Chacun d'entre eux porte sur deux modules enseignés au cours de la troisième année d'études.
 
 Chaque évaluation est notée sur vingt points.
 
