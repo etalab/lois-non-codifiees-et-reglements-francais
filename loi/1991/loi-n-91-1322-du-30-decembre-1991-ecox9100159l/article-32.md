@@ -1,6 +1,6 @@
 # Article 32
 
-Les produits désignés ci-après, élaborés sous contrôle fiscal dans des unités pilotes en vue d'être utilisés comme carburant ou combustible dans le cadre de projets expérimentaux sont exonérés jusqu'au 31 décembre 1996 de la taxe intérieure de consommation sur les produits pétroliers prévue à l'article 265 du code des douanes dans les conditions suivantes :
+Les produits désignés ci-après, élaborés sous contrôle fiscal dans des unités pilotes en vue d'être utilisés comme carburant ou combustible dans le cadre de projets expérimentaux sont exonérés de la taxe intérieure de consommation sur les produits pétroliers prévue à l'article 265 du code des douanes dans les conditions suivantes :
 
 a) Esters d'huile de colza et de tournesol utilisés en substitution du fioul domestique et du gazole ;
 
