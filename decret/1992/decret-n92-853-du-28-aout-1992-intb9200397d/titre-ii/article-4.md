@@ -2,11 +2,21 @@
 
 Sont inscrits sur la liste d'aptitude prévue à l'article 3 ci-dessus les candidats déclarés admis à un concours sur titres avec épreuves ouvert aux candidats titulaires :
 
-1° De la licence et de la maîtrise en psychologie ou de la licence en psychologie obtenue conformément à la réglementation antérieure au décret n° 66-412 du 22 juin 1966 relatif à l'organisation des deux premiers cycles d'enseignement dans les facultés des lettres et sciences humaines ; les candidats doivent en outre justifier de l'obtention de l'un des diplômes d'études supérieures spécialisées en psychologie ou de l'un des titres figurant sur la liste des titres exigés pour l'accès aux concours sur titres ouverts pour le recrutement des agents du corps homologué de la fonction publique hospitalière.
+1° De la licence et de la maîtrise en psychologie ; les candidats doivent en outre justifier de l'obtention :
 
-2° De diplômes étrangers reconnus équivalents aux diplômes mentionnés au 1° dans les conditions fixées par l'article 1er (2°) du décret du 22 mars 1990 susvisé ;
+a) Soit d'un diplôme d'études supérieures spécialisées en psychologie ;
 
-3° Du diplôme de psychologie délivré par l'école des psychologues praticiens de l'Institut catholique de Paris.
+b) Soit d'un diplôme d'études approfondies en psychologie comportant un stage professionnel dont les modalités sont fixées par arrêté du ministre chargé de l'enseignement supérieur ;
+
+c) Soit de l'un des diplômes dont la liste figure en annexe au décret n° 2004-584 du 16 juin 2004 modifiant le présent décret.
+
+2° De diplômes étrangers reconnus équivalents aux diplômes mentionnés au 1° dans les conditions fixées par l'article 1er du décret du 22 mars 1990 modifié ;
+
+3° Du diplôme de psychologie du travail délivré par le Conservatoire national des arts et métiers ;
+
+4° Du diplôme de psychologie délivré par l'école des psychologues praticiens de l'Institut catholique de Paris ;
+
+5° Du diplôme d'Etat de conseiller d'orientation-psychologue.
 
 La nature et les modalités des épreuves du concours sont fixées par décret.
 
