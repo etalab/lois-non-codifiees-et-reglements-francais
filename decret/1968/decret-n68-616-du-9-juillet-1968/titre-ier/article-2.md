@@ -1,9 +1,11 @@
 # Article 2
 
-Le fonds d'intervention et de régularisation du marché du sucre a pour mission de préparer, d'exécuter et de coordonner les décisions gouvernementales et communautaires relatives à l'organisation du marché du sucre. Il est notamment chargé d'exécuter sur le territoire français les interventions sur le marché du sucre qui comportent la mise en oeuvre de ressources communautaires.
+Le Fonds d'intervention et de régularisation du marché du sucre a pour mission de préparer, d'exécuter et de coordonner les décisions gouvernementales et communautaires relatives à l'organisation commune des marchés dans le secteur du sucre pour les produits énumérés à l'article 1er du règlement (C.E.E.) n° 1785/81 du conseil du 30 juin 1981 modifié. Il est notamment chargé d'exécuter sur le territoire français les interventions sur le marché du sucre qui comportent la mise en oeuvre de ressources communautaires.
+
+Toutefois, le fonds n'est pas compétent pour assurer le paiement des restitutions pour les produits agricoles exportés sous forme de marchandises ne relevant pas de l'annexe I du traité de l'Union européenne.
 
 Pour l'exercice de sa mission :
 
-Il est tenu informé de l'activité des divers services de l'Etat dans le domaine de sa compétence ainsi que de celle du comité interprofessionnel des productions saccharifères.
+- il est tenu informé de l'activité des divers services de l'Etat dans le domaine de sa compétence ainsi que de celle du comité interprofessionnel des productions saccharifères ;
 
-Il intervient sur le marché pour en assurer la régularisation soit directement, soit au moyen de conventions passées avec les professionnels intéressés.
+- il intervient sur le marché pour en assurer la régularisation soit directement, soit au moyen de conventions passées avec les professionnels intéressés.
