@@ -10,6 +10,8 @@ Le requérant doit joindre à cette demande :
 
 4° S'il est de nationalité étrangère et non ressortissant d'un Etat membre de la Communauté européenne, les pièces et documents sous le couvert desquels il est autorisé à résider en France et une justification du caractère habituel de cette résidence, sous réserve des dispositions du quatrième alinéa de l'article 3 de la loi du 10 juillet 1991 susvisée ;
 
-5° Le cas échéant, une fiche familiale d'état civil.
+5° Le cas échéant, la justification de sa situation familiale dans les conditions prévues à l'article 2 du décret n° 2000-1277 du 26 décembre 2000 portant simplification de formalités administratives ;
+
+6° Lorsque l'aide juridictionnelle est demandée en vue de parvenir à une transaction avant l'introduction de l'instance, tout élément propre à établir la nature et l'objet du différend ainsi que, le cas échéant, les démarches entamées ou envisagées à cet effet, dans le respect des règles propres au secret professionnel.
 
 Si le réquérant bénéficie de l'allocation supplémentaire du Fonds national de solidarité ou du revenu minimum d'insertion, la déclaration de ressources est remplacée par tout document justifiant de la perception de la prestation. Il en est de même pour le demandeur d'asile bénéficiant de l'allocation d'insertion prévue à l'article L. 351-9 du code du travail.

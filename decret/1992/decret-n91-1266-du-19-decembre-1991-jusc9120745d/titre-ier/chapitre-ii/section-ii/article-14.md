@@ -1,6 +1,6 @@
 # Article 14
 
-Outre son président, la section chargée d'examiner les demandes relatives aux affaires portées devant la cour d'appel comprend :
+Outre son président et son vice-président, la section chargée d'examiner les demandes relatives aux affaires portées devant la cour d'appel comprend :
 
 1° Un avocat établi dans le ressort de la cour d'appel et un avoué près cette cour ;
 

@@ -12,7 +12,7 @@ L'état de recouvrement contient :
 
 5° Le montant des rétributions versées par l'Etat aux officiers publics ou ministériels ;
 
-6° Le montant de la part contributive de l'Etat à la mission de l'avocat ;
+6° Le montant de la part contributive de l'Etat à la mission de l'avocat pour l'instance et, le cas échéant, les pourparlers transactionnels qui l'ont précédée ;
 
 7° Le montant des frais engagés par l'Etat recouvrables sur l'adversaire du bénéficiaire de l'aide juridictionnelle ;
 

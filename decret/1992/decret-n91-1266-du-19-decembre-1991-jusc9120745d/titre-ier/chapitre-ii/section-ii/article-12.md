@@ -1,6 +1,6 @@
 # Article 12
 
-Outre son président, le bureau ou la section du bureau chargé d'examiner les demandes d'admission à l'aide juridictionnelle relatives aux affaires portées devant les juridictions de première instance de l'ordre judiciaire ou la cour d'assises comprend :
+Outre son président et son vice-président, le bureau ou la section du bureau chargé d'examiner les demandes d'admission à l'aide juridictionnelle relatives aux affaires portées devant les juridictions de première instance de l'ordre judiciaire ou la cour d'assises comprend :
 
 1° Un avocat choisi parmi les avocats établis près le tribunal de grande instance ;
 

@@ -1,6 +1,6 @@
 # Article 16
 
-Outre son président, le bureau établi près la Cour de cassation comprend :
+Outre son président et son vice-président, le bureau établi près la Cour de cassation comprend :
 
 1° Deux membres choisis par la Cour de cassation ;
 

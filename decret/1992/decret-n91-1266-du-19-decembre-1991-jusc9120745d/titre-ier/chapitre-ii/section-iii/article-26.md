@@ -14,4 +14,6 @@ Est compétent pour les affaires portées devant une cour administrative d'appel
 
 Est compétent pour les affaires portées devant une autre juridiction administrative statuant à charge de recours devant le Conseil d'Etat le bureau établi au siège du tribunal de grande instance dans le ressort duquel a son siège la cour administrative d'appel dans le ressort de laquelle est installée la juridiction devant laquelle l'affaire est ou doit être portée.
 
+Les dispositions des alinéas précédents sont applicables aux demandes d'aide juridictionnelle formées en vue de parvenir à une transaction avant l'introduction de l'instance.
+
 Dans tous les cas, la demande d'aide juridictionnelle peut être portée devant le bureau établi au siège du tribunal de grande instance du domicile du demandeur. Le bureau ainsi saisi transmet, s'il y a lieu, le dossier, après avoir vérifié qu'il contenait les pièces exigées par la loi, au bureau compétent pour statuer sur la demande.

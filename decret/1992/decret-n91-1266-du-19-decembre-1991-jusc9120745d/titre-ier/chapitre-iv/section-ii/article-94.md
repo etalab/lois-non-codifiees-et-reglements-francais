@@ -4,7 +4,7 @@ La rétribution versée par l'Etat aux huissiers de justice qui prêtent leur co
 
 expulsion et du montant de la rétribution visée au III. 6 de l'article 90 du même décret pour la procédure de distribution des deniers .
 
-Pour les commandements aux fins de saisie, il est ajouté à l'indemnité prévue à l'alinéa premier la moitié du droit proportionnel alloué pour ces actes par le tarif des huissiers de justice en matière civile et commerciale.
+Pour les commandements aux fins de saisie, il est ajouté à l'indemnité prévue à l'alinéa premier la moitié du droit d'engagement de poursuites prévu par le tarif des huissiers de justice en matière civile et commerciale.
 
 Les indemnités prévues au présent article sont majorées de 22 F lorsque les copies de pièces sont établies par l'huissier de justice pour être annexées à l'acte ou au procès-verbal.
 

@@ -1,5 +1,5 @@
 # Article 72
 
-Le bureau d'aide juridictionnelle ou la section du bureau peut faire recueillir tous renseignements et faire procéder à toutes auditions complémentaires.
+Le bureau d'aide juridictionnelle la section du bureau, le président ou, le cas échéant, le vice-président peut faire recueillir tous renseignements et faire procéder à toutes auditions complémentaires.
 
-Il ne peut décider le retrait sans que le bénéficiaire ait été entendu ou appelé à s'expliquer.
+Le retrait ne peut être décidé sans que le bénéficiaire ait été entendu ou appelé à s'expliquer.
