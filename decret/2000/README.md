@@ -194,7 +194,6 @@
 - [Décret n°2000-994 du 12 octobre 2000 (MAEA0020028D)](decret-n2000-994-du-12-octobre-2000-maea0020028d)
 - [Décret n°2000-995 du 12 octobre 2000 (ATET0080073D)](decret-n2000-995-du-12-octobre-2000-atet0080073d)
 - [Décret n°2000-996 du 12 octobre 2000 (ECOT0010394D)](decret-n2000-996-du-12-octobre-2000-ecot0010394d)
-- [Décret n°2000-997 du 12 octobre 2000 (MEST0011330D)](decret-n2000-997-du-12-octobre-2000-mest0011330d)
 - [Décret n°2000-998 du 12 octobre 2000 (AGRP0000099D)](decret-n2000-998-du-12-octobre-2000-agrp0000099d)
 - [Décret n°2001-1051 du 12 novembre 2001 (INTA0100278D)](decret-n2001-1051-du-12-novembre-2001-inta0100278d)
 - [Décret n°2001-527 du 12 juin 2001 (MENF0100956D)](decret-n2001-527-du-12-juin-2001-menf0100956d)
