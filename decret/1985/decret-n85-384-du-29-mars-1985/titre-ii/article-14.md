@@ -22,4 +22,4 @@ Sont également pris en compte les services effectués par les attachés et atta
 
 Les services accomplis en qualité d'interne ne sont pas pris en compte. Les services accomplis à titre provisoire ne sont pris en compte que lorsqu'ils sont accomplis par un praticien relevant du présent statut, en attente d'une réintégration.
 
-Les décisions de classement sont prononcées par arrêté du commissaire de la République du département.
+Les décisions de classement sont prononcées par arrêté du préfet de région.

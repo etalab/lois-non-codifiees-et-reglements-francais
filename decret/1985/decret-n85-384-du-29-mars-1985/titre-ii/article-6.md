@@ -1,6 +1,6 @@
 # Article 6
 
-Les concours de praticien des hôpitaux à temps partiel sont organisés et les listes d'aptitude sont établies par région sanitaire. Lorsque le nombre limité de postes à pourvoir par spécialité dans chaque région le justifie, l'organisation matérielle du concours peut être assurée pour le compte de plusieurs régions sanitaires par l'une d'entre elles dans des conditions fixées par arrêté du ministre chargé de la santé.
+Les concours de praticien des hôpitaux à temps partiel sont organisés par le préfet de la région et les listes d'aptitude sont établies par région sanitaire. Lorsque le nombre limité de postes à pourvoir par spécialité dans chaque région le justifie, l'organisation matérielle du concours peut être assurée pour le compte de plusieurs régions sanitaires par l'une d'entre elles dans des conditions fixées par arrêté du ministre chargé de la santé.
 
 Sont organisés deux concours définis par les articles 7 et 8 ci-après pour chaque discipline ou spécialité dans laquelle des places sur les listes d'aptitude ont été ouvertes.
 
