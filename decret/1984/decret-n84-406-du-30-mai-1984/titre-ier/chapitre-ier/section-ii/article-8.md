@@ -16,7 +16,7 @@ A - En ce qui concerne la personne :
 
 5° Les références des immatriculations secondaires éventuellement souscrites ;
 
-6° Les nom, prénoms, date et lieu de naissance, domicile et nationalité du conjoint qui déclare, avec l'assujetti, collaborer effectivement à l'activité commerciale de celui-ci sans être rémunéré et sans exercer aucune autre activité professionnelle.
+6° Les nom, prénoms, date et lieu de naissance, domicile et nationalité du conjoint qui déclare collaborer effectivement à l'activité commerciale de l'assujetti sans être rémunéré, sans exercer aucune autre activité professionnelle.
 
 B - En ce qui concerne l'établissement :
 
