@@ -11,3 +11,5 @@ Les informations traitées sont :
 adresses, références cadastrales, situations topographiques, consistances, confort et caractéristiques générales, surfaces, valeurs locatives ;
 
 - les éléments d'imposition : situation au regard de l'imposition à l'impôt sur le revenu (revenu imposable et cotisation), bases d'imposition, nature et code des dégrèvements et des abattements de taxe d'habitation, bénéficiaire du Fonds national de solidarité et du revenu minimum d'insertion, montant de la taxe d'habitation.
+
+- le numéro invariant du local.
