@@ -1,0 +1,5 @@
+# Article 3
+
+Toute modification affectant soit le titulaire, soit le montant de la créance à la suite d'une fusion, d'une scission, d'une cession d'entreprise ou d'un apport partiel d'actif, doit être justifiée, auprès du comptable du Trésor, par le titulaire de la créance ou le créancier nanti ou cessionnaire, dans les formes prévues par les textes applicables en l'espèce, notamment en produisant le journal ou le bulletin dans lequel a été publié l'avis prévu par les dispositions des articles 281 à 292 du décret du 23 mars 1967 susvisé et des articles 21 et 106 du décret du 27 décembre 1985 susvisé.
+
+En cas de fusion, scission, cession d'entreprise ou d'apport partiel d'actif, le montant de la créance transférée en application du 3 de l'article 271-A du code général des impôts doit correspondre à l'activité cédée ou apportée. Le transfert ainsi que le remboursement total ou partiel de la créance n'interviennent que si le titulaire de la créance transférée justifie préalablement de son montant auprès du service des impôts dont il relève.
