@@ -22,7 +22,6 @@
 - [Décret n°72-1012 du 7 novembre 1972](decret-n72-1012-du-7-novembre-1972)
 - [Décret n°72-180 du 7 mars 1972](decret-n72-180-du-7-mars-1972)
 - [Décret n°74-388 du 8 mai 1974](decret-n74-388-du-8-mai-1974)
-- [Décret n°72-197 du 10 mars 1972](decret-n72-197-du-10-mars-1972)
 - [Décret n°72-27 du 10 janvier 1972](decret-n72-27-du-10-janvier-1972)
 - [Décret n°72-849 du 11 septembre 1972](decret-n72-849-du-11-septembre-1972)
 - [Décret n°72-283 du 12 avril 1972](decret-n72-283-du-12-avril-1972)
