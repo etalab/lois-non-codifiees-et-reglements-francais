@@ -194,6 +194,7 @@
 - [Arrêté du 11 mars 1993 (MERG9300043A)](arrete-du-11-mars-1993-merg9300043a)
 - [Arrêté du 11 mars 1993 (MERR9300048A)](arrete-du-11-mars-1993-merr9300048a)
 - [Arrêté du 11 mars 1993 (TEFF9300338A)](arrete-du-11-mars-1993-teff9300338a)
+- [Arrêté du 11 mai 1993 (BUDR9305015A)](arrete-du-11-mai-1993-budr9305015a)
 - [Arrêté du 12 février 1993 (COPC9300104A)](arrete-du-12-fevrier-1993-copc9300104a)
 - [Arrêté du 12 février 1993 (COPC9300105A)](arrete-du-12-fevrier-1993-copc9300105a)
 - [Arrêté du 12 février 1993 (COPC9300106A)](arrete-du-12-fevrier-1993-copc9300106a)
