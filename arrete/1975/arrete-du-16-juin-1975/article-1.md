@@ -1,3 +1,9 @@
 # Article 1
 
-La superficie minimale d'installation en polyculture visée à l'article 188-3 du Code rural est fixée à 15,40 hectares pour l'ensemble du département du Finistère.
+Les superficies minima d'installation en polyculture visées à l'article 188-3 du Code rural sont fixées ainsi qu'il suit pour le département de la Haute-Saône (en hectares) :
+
+Vosgienne, Hautes-Vosges, Vôge : 16
+
+Sous-vosgienne, trouée de Belfort : 20
+
+Plaine grayloise, plaine et basse vallée de la Saône, du Doubs et de l'Ognon, région des Plateaux : 24.
