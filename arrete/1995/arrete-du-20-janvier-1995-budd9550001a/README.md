@@ -1,0 +1,3 @@
+# Arrêté du 20 janvier 1995 modifiant l'arrêté du 10 février 1993 instaurant une procédure de présentation en douane pour certaines marchandises et fixant les modalités d'application du décret n° 93-190 du 10 février 1993 relatif à la présentation en douane des produits et technologies à double usage exclus du bénéfice de l'autorisation simplifiée et destinés à être transférés à destination des autres Etats membres de la Communauté économique européenne et du décret n° 93-17 du 6 janvier 1993 modifiant le décret n° 73-364 du 12 mars 1973 modifié relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions
+
+- [Article 2](article-2.md)

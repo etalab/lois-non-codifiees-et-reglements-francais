@@ -12,6 +12,7 @@
 - [Décret n°95-3 du 2 janvier 1995 (ECOT9510225D)](decret-n95-3-du-2-janvier-1995-ecot9510225d)
 - [Décret n°96-88 du 2 février 1996 (EQUH9600141D)](decret-n96-88-du-2-fevrier-1996-equh9600141d)
 - [Décret n°95-114 du 3 février 1995 (RESX9400176D)](decret-n95-114-du-3-fevrier-1995-resx9400176d)
+- [Décret n°95-136 du 3 février 1995 (MAEJ9430088D)](decret-n95-136-du-3-fevrier-1995-maej9430088d)
 - [Décret n°95-15 du 3 janvier 1995 (SPSS9403673D)](decret-n95-15-du-3-janvier-1995-spss9403673d)
 - [Décret n°95-7 du 3 janvier 1995 (RESR9401919D)](decret-n95-7-du-3-janvier-1995-resr9401919d)
 - [Décret n°95-8 du 3 janvier 1995 (SPSS9403821D)](decret-n95-8-du-3-janvier-1995-spss9403821d)
