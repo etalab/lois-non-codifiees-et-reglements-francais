@@ -1,25 +1,29 @@
 # Article 14
 
-Les praticiens des hôpitaux à temps partiel nommés au titre des 1° et 2° de l'article 5 sont reclassés à l'échelon qu'ils détenaient dans leur situation antérieure. Ils conservent leur ancienneté d'échelon.
+Les praticiens des hôpitaux à temps partiel nommés au titre des 1° et 3° de l'article 5 ci-dessus sont classés à l'échelon qu'ils détenaient dans leur situation antérieure. Ils conservent leur ancienneté d'échelon.
 
-Les praticiens nommés au titre des 3° et 4° de l'article 5 sont classés dans l'emploi de praticien des hôpitaux à temps partiel sans pouvoir dépasser le dixième échelon compte tenu :
+Les praticiens nommés au titre des 2°, 4° et 5° de l'article 5 ci-dessus et de l'article 71-1 du présent décret sont classés dans l'emploi de praticien des hôpitaux à temps partiel sans pouvoir dépasser le 10e échelon compte tenu :
 
-1° De la durée légale du service national et des services militaires obligatoires, selon les règles applicables aux fonctionnaires de l'Etat ;
+1° De la durée légale du service national et des services militaires obligatoires selon les règles applicables aux fonctionnaires de l'Etat ;
 
 2° Des services hospitaliers accomplis à l'étranger en application d'un contrat de coopération ;
 
-3° Des services accomplis dans les établissements d'hospitalisation publics en qualité de membre des personnels enseignants et hospitaliers titulaires, de praticien hospitalier à temps plein, de praticien associé, de chef de clinique des universités-assistant des hôpitaux, d'assistant des universités-assistant des hôpitaux, d'assistant hospitalo-universitaire en biologie, d'assistant des universités-odontologiste assistant des services de consultation et de traitements dentaires, d'assistant hospitalier universitaire, d'assistant des hôpitaux, d'assistant hospitalier universitaire de centres de soins, d'enseignement et de recherche dentaires ;
+3° Des services accomplis dans les établissements publics de santé en qualité de membre des personnels enseignants et hospitaliers titulaires et non titulaires, de praticien hospitalier, de praticien des hôpitaux à temps partiel, de praticien associé, d'assistant et d'assistant associé des hôpitaux, de praticien contractuel, de praticien adjoint contractuel, de praticien hospitalier à titre provisoire pour la période comprise entre la date de publication de la liste d'aptitude et la date d'installation dans les fonctions et dans la limite d'une année, d'attaché ou d'attaché associé sous réserve qu'ils aient été accomplis à raison de six vacations hebdomadaires dans un ou plusieurs établissements de santé ;
 
-4° De la durée des fonctions exercées dans un emploi de chercheur au centre national de la recherche scientifique, à l'Institut national de la santé et de la recherche médicale, au Laboratoire national de la santé, à l'Institut Pasteur ou en qualité de médecin d'un centre de lutte contre le cancer ;
+4° De la durée des fonctions exercées dans les établissements ou organismes français de transfusion sanguine, dans un emploi de chercheur au Centre national de la recherche scientifique, à l'Institut national de la santé et de la recherche médicale, au Laboratoire national de la santé, à l'Institut Pasteur ou en qualité de médecin d'un centre de lutte contre le cancer, d'un centre d'étude et de conservation du sperme humain, d'un centre régional d'étude de biologie prénatale ou en qualité de médecin ou de chirurgien-dentiste de l'administration pénitentiaire ;
 
-5° De la durée des fonctions exercées dans le service de santé des armées en qualité de spécialiste des hôpitaux des armées ou de spécialiste de laboratoire de chimie du service de santé des armées.
+5° De la durée des fonctions exercées au titre du service de santé des armées en qualité de spécialiste des hôpitaux des armées ou de spécialiste de laboratoire de chimie du service de santé des armées ;
 
-6° Des services accomplis en qualité de médecin inspecteur de la santé.
+6° De la durée des services accomplis en qualité de médecin inspecteur de la santé ;
 
-Les services énumérés ci-dessus sont pris en compte pour leur totalité et décomptés année pour le classement dans l'un des échelons mentionnés à l'article 20, qu'ils aient été effectués à temps plein ou à temps partiel.
+7° De la durée des services accomplis en qualité de praticien hospitalier ou d'assistant des établissements publics territoriaux d'hospitalisation du territoire de la Nouvelle-Calédonie ou des services accomplis dans le statut particulier du cadre d'emploi des médecins de la fonction publique du territoire de la Polynésie française ;
 
-Sont également pris en compte les services effectués par les attachés et attachés associés, régis par le décret n° 81-291 du 30 mars 1981 susvisé, sous réserve qu'ils aient été accomplis à raison de onze vacations hebdomadaires dans un seul établissement d'hospitalisation public. Ces services sont pris en compte, au-delà d'un an d'exercice, pour la moitié de leur durée.
+8° De la durée des fonctions exercées en qualité de médecin, de pharmacien ou de chirurgien-dentiste dans les établissements de santé privés participant au service public hospitalier.
 
-Les services accomplis en qualité d'interne ne sont pas pris en compte. Les services accomplis à titre provisoire ne sont pris en compte que lorsqu'ils sont accomplis par un praticien relevant du présent statut, en attente d'une réintégration.
+Les services accomplis à temps plein sont comptés pour la totalité de leur durée. Les services accomplis à temps partiel sont comptés au prorata de leur durée. Toutefois, ceux accomplis dans les conditions fixées par le présent décret sont comptés comme des services à temps plein.
+
+Sont pris en compte les services accomplis à titre provisoire par un praticien relevant du présent statut en attente d'une réintégration.
+
+Les services accomplis en qualité d'interne ne sont pas pris en compte.
 
 Les décisions de classement sont prononcées par arrêté du préfet de région.

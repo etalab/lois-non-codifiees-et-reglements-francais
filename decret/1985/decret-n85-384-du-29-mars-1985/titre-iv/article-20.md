@@ -1,6 +1,8 @@
 # Article 20
 
-L'avancement d'échelon s'effectue selon les durées suivantes :
+L'avancement d'échelon s'effectue suivant les durées suivantes :
+
+12e échelon : 4 ans 6 mois ;
 
 11e échelon : 2 ans ;
 
@@ -16,7 +18,7 @@ L'avancement d'échelon s'effectue selon les durées suivantes :
 
 4e échelon : 1 an 6 mois ;
 
-3e échelon : 1 an 6 mois ;
+3e échelon : 1 an ;
 
 2e échelon : 1 an ;
 

@@ -16,8 +16,6 @@ e) Un membre de conseil d'administration ou un directeur d'établissement d'hosp
 
 2° En qualité de représentants des praticiens des hôpitaux à temps partiel régis par le présent décret : six membres titulaires ou leurs suppléants élus, pour chaque discipline, au scrutin de liste proportionnel, avec répartition des restes selon la règle de la plus forte moyenne, par un collège national composé des membres titulaires et suppléants des commissions paritaires régionales prévues à l'article 16.
 
-Les membres élus doivent appartenir au collège électoral. Ils ne peuvent exercer plus de deux mandats consécutifs.
-
-Le mandat de la commission est de cinq ans [*durée*].
+Les membres élus doivent appartenir au collège électoral.    Le mandat de la commission est de cinq ans.
 
 Les modalités de représentation des différentes disciplines, d'organisation des élections, de désignation des membres autres que le président et son suppléant, ainsi que les conditions de fonctionnement de la commission sont fixées par arrêté du ministre chargé de la santé.

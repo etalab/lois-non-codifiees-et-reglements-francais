@@ -6,6 +6,7 @@
 - [TITRE IV : Avancement](titre-iv)
 - [TITRE V : Rémunération](titre-v)
 - [TITRE VI : Exercice de fonctions - Positions](titre-vi)
+- [TITRE VII : Dispositions applicables aux praticiens à temps partiel exerçant dans les départements d'Outre-Mer et à l'établissement public de santé de Mayotte.](titre-vii)
 - [TITRE VIII : Discipline.](titre-viii)
 - [TITRE IX : L'insuffisance professionnelle.](titre-ix)
 - [TITRE X : Cessation de fonctions.](titre-x)

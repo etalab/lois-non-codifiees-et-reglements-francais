@@ -1,6 +1,6 @@
 # Article 43
 
-La mise en disponibilité ou son renouvellement est prononcé par le commissaire de la République de la région. La décision intervient, sauf dans les cas prévus aux articles 30, 59 et 60, après avis de la commission médicale d'établissement et du conseil d'administration de l'établissement où exerce l'intéressé.
+La mise en disponibilité ou son renouvellement est prononcé par le préfet de la région. La décision intervient, sauf dans les cas prévus aux articles 30, 40-1, 59 et 60, après avis de la commission médicale d'établissement et du conseil d'administration de l'établissement où exerce l'intéressé.
 
 Le praticien en disponibilité cesse de bénéficier des émoluments mentionnés au 1° de l'article 21. Le temps passé dans cette position n'est pas pris en compte pour l'avancement.
 
