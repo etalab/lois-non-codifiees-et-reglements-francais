@@ -1,0 +1,3 @@
+# TITRE Ier : MESURES D'AMÉLIORATION ET DE RATIONALISATION.
+
+- [Article 6](article-6.md)
