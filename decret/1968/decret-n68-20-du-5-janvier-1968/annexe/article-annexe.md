@@ -277,6 +277,12 @@ FIXANT LES  CONDITIONS D'APPLICATION DE LA LOI N° 66-496 DU 11 JUILLET 1966 REL
 <p> Agents de bureau d'administration </p>universitaire.</td>
 </tr>
 <tr>
+<td/>
+<td/>
+<td>Professeurs des écoles. </td>
+<td>Professeurs des écoles. </td>
+</tr>
+<tr>
 <td colspan="4"> Ministère de l'équipement et du logement.</td>
 </tr>
 <tr>
@@ -614,6 +620,7 @@ FIXANT LES  CONDITIONS D'APPLICATION DE LA LOI N° 66-496 DU 11 JUILLET 1966 REL
 </td>
 <td/>
 <td>
+<br/>
 <br/>
 <p>Techniciens supérieurs des études et de l'exploitation </p>
 <p>de l'aviation civile. </p>
