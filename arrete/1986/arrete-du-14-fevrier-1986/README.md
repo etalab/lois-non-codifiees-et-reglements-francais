@@ -1,4 +1,4 @@
-# Arrêté du 14 février 1986 fixant les modalités d'application du décret n° 82-935 du 29 octobre 1982 relatif aux indemnités d'hébergement et de transport des jeunes de seize à dix-huit ans bénéficiant des mesures prévues par l'ordonnance n° 82-273 du 26 mars 1982.
+# Arrêté du 14 février 1986 autorisant l'émission d'un emprunt par le Crédit national
 
 - [Article 1](article-1.md)
 - [Article unique](article-unique.md)
