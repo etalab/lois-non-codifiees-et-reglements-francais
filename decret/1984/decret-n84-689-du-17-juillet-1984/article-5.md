@@ -26,4 +26,4 @@ Enregistrement d'électro-cardiogrammes et d'électro-encéphalogrammes après �
 
 Techniques de bloc opératoire en qualité de panseur, d'aide ou d'instrumentiste ;
 
-Anesthésie générale, réanimation et surveillance des malades en salle de réveil.
+Réanimation et surveillance des malades au décours d'intervention.
