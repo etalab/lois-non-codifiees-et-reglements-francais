@@ -96,6 +96,7 @@
 - [Décret n°84-298 du 20 avril 1984](decret-n84-298-du-20-avril-1984)
 - [Décret n°83-929 du 21 octobre 1983](decret-n83-929-du-21-octobre-1983)
 - [Décret n°84-377 du 21 mai 1984](decret-n84-377-du-21-mai-1984)
+- [Décret n°84-383 du 21 mai 1984](decret-n84-383-du-21-mai-1984)
 - [Décret n°77-429 du 22 avril 1977](decret-n77-429-du-22-avril-1977)
 - [Décret n°84-121 du 22 février 1984](decret-n84-121-du-22-fevrier-1984)
 - [Décret n°84-124 du 22 février 1984](decret-n84-124-du-22-fevrier-1984)
