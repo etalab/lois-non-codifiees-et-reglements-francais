@@ -2,7 +2,7 @@
 
 Pour pouvoir être recruté en qualité de praticien contractuel, le postulant doit :
 
-1° Remplir les conditions d'exercice de la profession en France requises par l'article L. 356, par l'article L. 514 ou par l'article L. 514-1 du code de la santé publique ;
+1° Remplir les conditions légales d'exercice de la profession de médecin, de pharmacien ou de chirurgien-dentiste en France ;
 
 2° S'il postule en tant que praticien spécialiste, être inscrit au tableau de l'ordre dont il relève en qualité de praticien qualifié dans la spécialité correspondante ;
 
