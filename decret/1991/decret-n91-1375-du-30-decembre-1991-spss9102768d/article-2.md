@@ -1,0 +1,3 @@
+# Article 2
+
+Les droits acquis, en cours d'acquisition ou susceptibles d'être ouverts aux ayants droit auprès de l'Institution de retraite interprofessionnelle des cadres supérieurs d'entreprise (Iricase), correspondant aux périodes d'activité accomplies par des agents de l'Agence française pour la maîtrise de l'énergie, du centre psychothérapique de l'Ain et de la Société pour la mise en valeur agricole de la Corse sont repris en charge par le régime de l'Ircantec et convertis en points de retraite de ce régime ; en contrepartie, une fraction des réserves de l'Iricase, déterminée par arrêté du ministre chargé de la sécurité sociale et du ministre chargé du budget, est versée à l'Ircantec.
