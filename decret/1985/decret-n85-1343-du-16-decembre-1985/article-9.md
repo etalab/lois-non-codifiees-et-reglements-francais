@@ -20,4 +20,4 @@ Présidé par un représentant du Premier ministre, il comprend [*composition*] 
 
 - un représentant de la Caisse nationale de l'assurance maladie des travailleurs salariés ;
 
-- un représentant de l'agence centrale des organismes de sécurité sociale.
+- un représentant de l'agence centrale des organismes de sécurité sociale.    - un représentant de l'IRCANTEC.

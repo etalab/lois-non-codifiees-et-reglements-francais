@@ -45,6 +45,7 @@
 - [Décret n°90-950 du 26 octobre 1990 (SPSH9002062D)](decret-n90-950-du-26-octobre-1990-spsh9002062d)
 - [Décret n°90-195 du 27 février 1990 (ACVE8950019D)](decret-n90-195-du-27-fevrier-1990-acve8950019d)
 - [Décret n°88-1198 du 28 décembre 1988 (TEFT8804170D)](decret-n88-1198-du-28-decembre-1988-teft8804170d)
+- [Décret n°88-1270 du 28 décembre 1988 (SPSP8801825D)](decret-n88-1270-du-28-decembre-1988-spsp8801825d)
 - [Décret n°89-191 du 28 mars 1989 (SPSS8900027D)](decret-n89-191-du-28-mars-1989-spss8900027d)
 - [Décret n°89-599 du 28 août 1989 (EQUL8900648D)](decret-n89-599-du-28-aout-1989-equl8900648d)
 - [Décret n°89-713 du 28 septembre 1989 (MCCB8900404D)](decret-n89-713-du-28-septembre-1989-mccb8900404d)
