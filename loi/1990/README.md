@@ -20,6 +20,7 @@
 - [Loi n° 90-1146 du 21 décembre 1990 (MAEX9000084L)](loi-n-90-1146-du-21-decembre-1990-maex9000084l)
 - [Loi n° 90-1149 du 21 décembre 1990 (MAEX9000109L)](loi-n-90-1149-du-21-decembre-1990-maex9000109l)
 - [Loi n° 90-1150 du 21 décembre 1990 (MAEX9000058L)](loi-n-90-1150-du-21-decembre-1990-maex9000058l)
+- [Loi n° 90-1159 du 26 décembre 1990 (MAEX9000171L)](loi-n-90-1159-du-26-decembre-1990-maex9000171l)
 - [Loi n° 90-14 du 2 janvier 1990 (MAEX8900081L)](loi-n-90-14-du-2-janvier-1990-maex8900081l)
 - [Loi n° 90-15 du 2 janvier 1990 (MAEX8900085L)](loi-n-90-15-du-2-janvier-1990-maex8900085l)
 - [Loi n° 90-16 du 2 janvier 1990 (MAEX8900086L)](loi-n-90-16-du-2-janvier-1990-maex8900086l)
