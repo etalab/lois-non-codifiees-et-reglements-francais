@@ -173,7 +173,6 @@
 - [Décret n°77-671 du 29 juin 1977](decret-n77-671-du-29-juin-1977)
 - [Décret n°77-678 du 29 juin 1977](decret-n77-678-du-29-juin-1977)
 - [Décret n°77-981 du 29 août 1977](decret-n77-981-du-29-aout-1977)
-- [Décret n°77-982 du 29 août 1977](decret-n77-982-du-29-aout-1977)
 - [Décret n°76-1292 du 30 décembre 1976](decret-n76-1292-du-30-decembre-1976)
 - [Décret n°76-1293 du 30 décembre 1976](decret-n76-1293-du-30-decembre-1976)
 - [Décret n°76-1326 du 30 décembre 1976](decret-n76-1326-du-30-decembre-1976)
