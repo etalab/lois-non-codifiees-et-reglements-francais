@@ -31,3 +31,5 @@ b) Un concours sur épreuves est ouvert aux titulaires des qualifications et dip
 - médecin en fonctions dans une organisation internationale intergouvernementale.
 
 Les emplois qui n'auraient pas été pourvus par la nomination de candidats à l'un des concours ci-dessus peuvent être attribués aux candidats des autres concours ou de l'un des autres concours.
+
+Ce même concours est également ouvert aux médecins vacataires de santé scolaire titulaires des qualifications et diplômes leur conférant le droit à l'exercice de la médecine en France qui, au plus tard à la date de clôture des registres d'inscription audit concours, justifient d'une durée de services publics effectifs au moins égale à quatre ans d'équivalent temps plein accomplis au cours des huit années précédentes.
