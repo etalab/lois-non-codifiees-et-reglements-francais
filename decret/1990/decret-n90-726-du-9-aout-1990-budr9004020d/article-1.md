@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions de l'article 30-I de la loi n° 80-10 du 10 janvier 1980 portant institution d'un système de paiement mensuel de la taxe d'habitation recevront application, à partir du 1er janvier 1991, dans les départements suivants : Allier, Alpes-Maritimes, Aveyron, Bouches-du-Rhône, Calvados, Cantal, Charente, Charente-Maritime, Côte-d'Or, Creuse, Doubs, Drôme, Finistère, Haute-Garonne, Gironde, Hérault, Ille-et-Vilaine, Isère, Haute-Loire, Maine-et-Loire, Marne, Mayenne, Meurthe-et-Moselle, Meuse, Nièvre, Nord, Haut-Rhin, Rhône, Sarthe, Seine-Maritime, Yvelines, Deux-Sèvres, Somme, Vendée, Vienne, Haute-Vienne, Vosges, territoire de Belfort, Seine-Saint-Denis et Val-de-Marne.

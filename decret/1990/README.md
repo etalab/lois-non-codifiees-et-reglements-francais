@@ -170,6 +170,7 @@
 - [Décret n°90-609 du 9 juillet 1990 (ACVP9020009D)](decret-n90-609-du-9-juillet-1990-acvp9020009d)
 - [Décret n°90-610 du 9 juillet 1990 (ACVA9010033D)](decret-n90-610-du-9-juillet-1990-acva9010033d)
 - [Décret n°90-719 du 9 août 1990 (MERP9000026D)](decret-n90-719-du-9-aout-1990-merp9000026d)
+- [Décret n°90-726 du 9 août 1990 (BUDR9004020D)](decret-n90-726-du-9-aout-1990-budr9004020d)
 - [Décret n°90-731 du 9 août 1990 (SPSS9001082D)](decret-n90-731-du-9-aout-1990-spss9001082d)
 - [Décret n°90-743 du 9 août 1990 (SPSS9001083D)](decret-n90-743-du-9-aout-1990-spss9001083d)
 - [Décret n°92-31 du 9 janvier 1992 (MENN9102864D)](decret-n92-31-du-9-janvier-1992-menn9102864d)
