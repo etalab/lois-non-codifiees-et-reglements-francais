@@ -1,3 +1,3 @@
 # Article 2
 
-L'application en est étendue à l'ensemble des entreprises pour les activités qu'elles exercent dans le secteur visé par l'accord.
+Le prélèvement est perçu à compter du 1er juin 1984.

@@ -1,6 +1,4 @@
-# Arrêté du 9 mars 1984 relatif aux tarifs des services de l'automobile, réparation, entretien, dépannage-remorquage des véhicules légers (moins de 3,5 tonnes)
+# Arrêté du 9 mars 1984 relatif au taux du prélèvement pour frais d'assiette, de recouvrement, de dégrèvement et de non-valeurs assis sur le produit des taxes différentielle et spéciale sur les véhicules à moteur, droits d'enregistrement et taxe de publicité foncière transférés aux départements et à la région Corse.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
