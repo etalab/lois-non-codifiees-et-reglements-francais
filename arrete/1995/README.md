@@ -605,7 +605,6 @@
 - [Arrêté du 17 février 1995 (SPSA9500622A)](arrete-du-17-fevrier-1995-spsa9500622a)
 - [Arrêté du 17 janvier 1990 (DEFP9001110A)](arrete-du-17-janvier-1990-defp9001110a)
 - [Arrêté du 17 janvier 1995 (ACVA9410117A)](arrete-du-17-janvier-1995-acva9410117a)
-- [Arrêté du 17 janvier 1995 (AGRB9401382A)](arrete-du-17-janvier-1995-agrb9401382a)
 - [Arrêté du 17 janvier 1995 (AGRE9402458A)](arrete-du-17-janvier-1995-agre9402458a)
 - [Arrêté du 17 janvier 1995 (EQUA9500167A)](arrete-du-17-janvier-1995-equa9500167a)
 - [Arrêté du 17 janvier 1995 (INDB9500115A)](arrete-du-17-janvier-1995-indb9500115a)
