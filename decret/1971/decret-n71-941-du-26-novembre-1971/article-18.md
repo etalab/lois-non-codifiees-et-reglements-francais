@@ -1,3 +1,3 @@
 # Article 18
 
-Les grosses seules sont délivrées en forme exécutoire ; elles sont terminées dans les mêmes termes que les jugements des tribunaux.
+Les copies exécutoires se terminent par la même formule que les jugements des tribunaux. Les autres expéditions ne peuvent être délivrées en forme exécutoire.

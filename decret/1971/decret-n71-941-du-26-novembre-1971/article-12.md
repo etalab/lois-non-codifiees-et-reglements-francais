@@ -29,3 +29,9 @@ Le notaire dépose un exemplaire de l'acte d'habilitation et de l'acte d'asserme
 L'habilitation est révocable à tout moment. Elle cesse d'office, ainsi que les effets du serment, au jour où cessent les fonctions soit du notaire, soit du clerc.
 
 Le notaire informe le procureur de la République et la chambre des notaires de la fin de l'habilitation.
+
+IV - Dans les sociétés civiles professionnelles titulaires d'un office notarial et dans les sociétés d'exercice libéral, quelle que soit la forme de ces dernières, l'habilitation est donnée soit par tous les associés notaires en exercice, soit par le ou les représentants légaux de la société. L'habilitation demeure en cas de changement d'associé.
+
+L'habilitation est révocable à tout moment selon les mêmes modalités. Elle cesse d'office, ainsi que les effets du serment, au jour de la cessation des fonctions du clerc ou de la dissolution de la société.
+
+Les formalités prévues aux troisième et cinquième alinéas du paragraphe III sont applicables.
