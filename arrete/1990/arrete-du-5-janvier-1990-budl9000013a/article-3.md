@@ -2,7 +2,7 @@
 
 Les informations traitées sont :
 
-- identité du contribuable (nom, prénoms, date de naissance, adresse, numéro fiscal) ;
+- identité du contribuable (nom, prénoms, date de naissance, adresse, numéro fiscal, références bancaires) ;
 
 - situation de famille (nombre de personnes à charge, situation matrimoniale, année de naissance des personnes à charge) ;
 
