@@ -1,4 +1,4 @@
-# Arrêté du 3 novembre 1983 RELATIF A L'APPLICATION DU DECRET N° 83-375 DU 5 MAI 1983 RELATIF AUX MODALITES D'EXAMEN DES RESTES A RECOUVRER DES COTISATIONS DE SECURITE SOCIALE DU REGIME GENERAL ET DE LEUR ADMISSION EN NON-VALEUR.
+# Arrêté du 3 novembre 1983 relatif à l'application de l'article 35 de l'arrêté du 2 août 1977 relatif aux règles techniques et de sécurité applicables aux installations de gaz combustible et d'hydrocarbures liquéfiés situées à l'intérieur des bâtiments d'habitation ou de leurs dépendances.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

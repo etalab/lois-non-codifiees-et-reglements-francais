@@ -1,3 +1,5 @@
 # Article 1
 
-Les chefs d'entreprise bénéficiaires des prêts visés à l'article 2 du décret n° 83-316 du 15 avril 1983 relatif au crédit à l'artisanat doivent justifier d'une formation minimale à la gestion ou, à défaut, de trois années d'expérience professionnelle en qualité de chef d'entreprise.
+Le présent arrêté a pour objet de définir les méthodes d'essai et de fixer la classification selon leur réaction au feu des matériaux de construction et d'aménagement à laquelle se réfèrent les règlements de sécurité contre l'incendie.
+
+Les exigences de ces règlements s'appliquent, sauf dispositions particulières, aux matériaux de construction finis, aux revêtements appliqués sur leurs supports et aux matériaux d'aménagement intérieur.
