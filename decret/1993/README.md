@@ -292,6 +292,7 @@
 - [Décret n°93-1160 du 12 octobre 1993 (BUDF9310089D)](decret-n93-1160-du-12-octobre-1993-budf9310089d)
 - [Décret n°93-1174 du 12 octobre 1993 (ECOU9300005D)](decret-n93-1174-du-12-octobre-1993-ecou9300005d)
 - [Décret n°93-1175 du 12 octobre 1993 (BUDF9310027D)](decret-n93-1175-du-12-octobre-1993-budf9310027d)
+- [Décret n°93-1243 du 12 novembre 1993 (EQUT9300026D)](decret-n93-1243-du-12-novembre-1993-equt9300026d)
 - [Décret n°93-201 du 12 février 1993 (BUDF9200045D)](decret-n93-201-du-12-fevrier-1993-budf9200045d)
 - [Décret n°93-204 du 12 février 1993 (MENL9304147D)](decret-n93-204-du-12-fevrier-1993-menl9304147d)
 - [Décret n°93-206 du 12 février 1993 (SPSS9202806D)](decret-n93-206-du-12-fevrier-1993-spss9202806d)
