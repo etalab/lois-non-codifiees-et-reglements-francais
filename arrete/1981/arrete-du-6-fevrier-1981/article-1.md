@@ -17,3 +17,7 @@ Diplômes de Bachelor in Dental Science (B. Dent. Sc.), ou Bachelor of Dental Su
 Royaume-Uni
 
 Diplômes de Bachelor of Dental Surgery (BDS or B. Ch. D.) ou Licenciate in Dental Surgery (LDS), délivrés par les universités ou les Royal Colleges postérieurement au 1er janvier 1980.
+
+Espagne
+
+Diplôme : Licenciado en odontologia.

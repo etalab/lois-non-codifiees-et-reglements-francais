@@ -1,6 +1,7 @@
 # 1997
 
 - [Décret n°93-1272 du 1 décembre 1993 (INDA9300854D)](decret-n93-1272-du-1-decembre-1993-inda9300854d)
+- [Décret n°97-1118 du 1 décembre 1997 (ECOK9700044D)](decret-n97-1118-du-1-decembre-1997-ecok9700044d)
 - [Décret n°97-306 du 1 avril 1997 (TASP9624258D)](decret-n97-306-du-1-avril-1997-tasp9624258d)
 - [Décret n°97-309 du 1 avril 1997 (MJSK9670143D)](decret-n97-309-du-1-avril-1997-mjsk9670143d)
 - [Décret n°97-312 du 1 avril 1997 (ENVN9750023D)](decret-n97-312-du-1-avril-1997-envn9750023d)
@@ -47,6 +48,7 @@
 - [Décret n°97-106 du 3 février 1997 (FCEC9600216D)](decret-n97-106-du-3-fevrier-1997-fcec9600216d)
 - [Décret n°97-107 du 3 février 1997 (MIPP9600436D)](decret-n97-107-du-3-fevrier-1997-mipp9600436d)
 - [Décret n°97-108 du 3 février 1997 (AGRB9602641D)](decret-n97-108-du-3-fevrier-1997-agrb9602641d)
+- [Décret n°97-1117 du 3 décembre 1997 (MAEX9702408D)](decret-n97-1117-du-3-decembre-1997-maex9702408d)
 - [Décret n°97-187 du 3 mars 1997 (ENVN9750019D)](decret-n97-187-du-3-mars-1997-envn9750019d)
 - [Décret n°97-188 du 3 mars 1997 (MIPP9700047D)](decret-n97-188-du-3-mars-1997-mipp9700047d)
 - [Décret n°97-2 du 3 janvier 1997 (DEFD9602093D)](decret-n97-2-du-3-janvier-1997-defd9602093d)
