@@ -1,0 +1,7 @@
+# Article 69
+
+Certaines sociétés de courses autorisées par te ministère de l'agriculture peuvent organiser des paris de combinaison à trois chevaux dénommés paris "triplet". Ils sont soumis aux dispositions des article 59 à 68. Toutefois, les références au pari "couplé gagnant" sont remplacées par des références au pari "jumelé".
+
+Ces divers types de paris sont spécifiques à l'hippodrome. Toutefois, sur autorisation spéciale du ministère de l'agriculture, ils peuvent également être enregistrés en dehors de l'hippodrome dans certaines zones géographiques. Cette autorisation mentionne le nom de la société de courses, la date de la réunion et la zone géographique concernées. Dans ce cas, les postes d'enregistrement situés dans ces zones sont assimilés aux guichets des hippodromes et, par dérogation aux dispositions de l'article 20, paragraphe 1, la mise en paiement de ces paris peut être retardée au lendemain de la réunion. En outre, les dispositions de l'article 20 (2°), septième alinéa, pourront, le cas échéant, s'appliquer à ces paris.
+
+Si une course sur laquelle ont été enregistrés des paris "triplet" est reportée à une autre date, ces paris sont remboursés. Toutefois, si ces paris ont également été enregistrés en dehors des hippodromes, conformément aux dispositions du paragraphe ci-dessus tous les paris "triplet" sur cette course sont exécutés en application des règles énoncées à l'article 68, paragraphe c, applicables au pari "tiercé".
