@@ -11,5 +11,4 @@
 - [Dispositions générales](dispositions-generales)
 - [Elimination des déchets](elimination-des-dechets)
 - [Agence nationale pour la récupération et l'élimination des déchets](agence-nationale-pour-la-recuperation-et)
-- [Production et distribution des produits générateurs de déchets.](production-et)
 - [Sanctions](sanctions)
