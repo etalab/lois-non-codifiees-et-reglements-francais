@@ -1,5 +1,6 @@
 # 1990
 
+- [Arrêté du 1 août 1990 (SPSP9001317A)](arrete-du-1-aout-1990-spsp9001317a)
 - [Arrêté du 1 décembre 1989 (EQUT8901315A)](arrete-du-1-decembre-1989-equt8901315a)
 - [Arrêté du 1 février 1990 (AGRS9000296A)](arrete-du-1-fevrier-1990-agrs9000296a)
 - [Arrêté du 1 février 1990 (MENF8902501A)](arrete-du-1-fevrier-1990-menf8902501a)
@@ -133,6 +134,7 @@
 - [Arrêté du 7 juin 1990 (PRMZ9005019A)](arrete-du-7-juin-1990-prmz9005019a)
 - [Arrêté du 7 juin 1990 (SPSS9001155A)](arrete-du-7-juin-1990-spss9001155a)
 - [Arrêté du 7 mai 1990 (MCCK9000310A)](arrete-du-7-mai-1990-mcck9000310a)
+- [Arrêté du 8 août 1990 (ECOT9010080A)](arrete-du-8-aout-1990-ecot9010080a)
 - [Arrêté du 8 août 1990 (SPSH9001687A)](arrete-du-8-aout-1990-spsh9001687a)
 - [Arrêté du 8 décembre 1989 (PRME9061001A)](arrete-du-8-decembre-1989-prme9061001a)
 - [Arrêté du 8 février 1990 (ECOT9010068A)](arrete-du-8-fevrier-1990-ecot9010068a)
