@@ -2,6 +2,6 @@
 
 Les candidats au concours externe d'accès au cadre d'emplois des attachés territoriaux doivent être titulaires :
 
-a) D'un diplôme national ou reconnu ou visé par l'Etat sanctionnant une formation d'une durée totale au moins égale à trois années d'études supérieures après le baccalauréat ; ou
+a) D'un diplôme national correspondant au moins à un deuxième cycle d'études supérieures ; ou
 
-b) D'un titre ou diplôme homologué au moins au niveau II des titres et diplômes de l'enseignement technologique, en application de l'article 8 de la loi n° 71-577 du 16 juillet 1971 susvisée.
+b) D'un titre ou diplôme homologué au moins au niveau II suivant la procédure définie par le décret n° 92-23 du 8 janvier 1992 relatif à l'homologation des titres et diplômes de l'enseignement technologique.

@@ -1,25 +1,63 @@
 # Article 8
 
-Peuvent seuls être autorisés à se présenter aux épreuves d'admission du concours externe les candidats déclarés admissibles par le jury.
+Peuvent seuls être autorisés à se présenter aux épreuves d'admission du concours externe et du concours interne les candidats déclarés admissibles par le jury.
 
-" Les épreuves d'admission du concours externe comprennent :
+Les épreuves d'admission de ces concours comprennent :
 
-" I. - Pour les candidats ayant choisi la spécialité Administration générale :
+1° Un commentaire suivi d'une conversation avec le jury à partir, au choix du candidat, soit d'un texte court, soit d'un sujet de réflexion (durée : vingt minutes avec préparation de même durée ; coefficient 4).
 
-" 1° Une explication orale et un commentaire suivis d'une conversation avec le jury à partir, au choix du candidat, soit d'un texte court, soit d'un sujet de réflexion (durée : vingt minutes avec préparation de même durée ; coefficient 4) ;
+Cette épreuve doit permettre au jury d'apprécier les motivations du candidat et son aptitude à exercer les missions dévolues au cadre d'emplois, notamment dans la spécialité choisie par le candidat.
 
-" 2° Une interrogation orale portant sur les finances publiques (durée : quinze minutes avec préparation de même durée ; coefficient 2) ;
+Pour les candidats du concours externe et du concours interne ayant choisi la spécialité Administration générale :
 
-" 3° Une épreuve orale de langue vivante d'une durée de trente minutes comportant la traduction, sans dictionnaire, d'un texte, suivie d'une conversation, dans l'une des langues étrangères suivantes au choix du candidat : allemand, anglais, espagnol, italien, grec, néerlandais, portugais, russe et arabe moderne (durée : trente minutes avec préparation de même durée ; coefficient 2) ;
+2° Une interrogation orale portant, au choix du candidat au moment de l'inscription, sur l'une des matières suivantes :
 
-" 4° En outre, les candidats au titre du concours externe peuvent demander, lors de leur inscription, à subir en cas d'admissibilité une épreuve facultative d'exercices physiques (coefficient 1).
+a) Finances publiques ;
 
-" La note obtenue à l'épreuve facultative ne peut entrer en ligne de compte en vue de l'admission que pour la part excédant la note 10 sur 20.
+b) Droit civil ;
 
-" II. - Pour les candidats ayant choisi la spécialité Gestion du secteur sanitaire et social, les épreuves d'admission du concours externe sont celles mentionnées au I du présent article à l'exception de celle visée au I (1°), remplacée par l'épreuve suivante :
+c) Droit de l'urbanisme ;
 
-" - une explication orale et un commentaire suivis d'une conversation avec le jury à partir, au choix du candidat, soit d'un texte court, soit d'un sujet de réflexion relatif à des questions sanitaires et sociales (durée : vingt minutes avec préparation de même durée ; coefficient 4).
+d) Gestion administrative
 
-" III. - Pour les candidats ayant choisi la spécialité Analyste les épreuves d'admission du concours externe sont celles mentionnées au I du présent article à l'exception de celle visée au I (2°), remplacée par l'épreuve suivante :
+(durée : quinze minutes avec préparation de même durée ; coefficient 3).
 
-" - une interrogation orale portant sur la gestion et le traitement de l'information (durée : quinze minutes avec préparation de même durée ; coefficient 2). "
+Pour les candidats du concours externe et du concours interne ayant choisi la spécialité Gestion du secteur sanitaire et social :
+
+2° Une interrogation orale portant, au choix du candidat au moment de l'inscription, sur l'une des matières suivantes :
+
+a) Institutions sociales et droit social ;
+
+b) Institutions sanitaires et droit de la santé ;
+
+c) Economie sanitaire et sociale et grandes politiques sociales
+
+(durée : quinze minutes avec préparation de même durée ; coefficient 3).
+
+Pour les candidats du concours externe et du concours interne ayant choisi la spécialité Analyste :
+
+2° Une interrogation orale portant sur la gestion et le traitement de l'information (durée : quinze minutes avec préparation de même durée ; coefficient 3).
+
+Pour les candidats du concours externe et du concours interne ayant choisi la spécialité Animation :
+
+2° Une interrogation orale portant, au choix du candidat au moment de l'inscription, sur l'une des matières suivantes :
+
+a) Psychologie sociale ;
+
+b) Environnement juridique, social et culturel de l'animation
+
+(durée : quinze minutes avec préparation de même durée ; coefficient 3).
+
+Pour les candidats du concours externe :
+
+3° Une épreuve orale de langue vivante d'une durée de trente minutes comportant la traduction, sans dictionnaire, d'un texte, suivie d'une conversation, dans l'une des langues étrangères suivantes au choix du candidat : allemand, anglais, espagnol, italien, grec, néerlandais, portugais, russe et arabe moderne (durée : trente minutes avec préparation de même durée ; coefficient 2).
+
+Pour les candidats du concours interne :
+
+3° Une épreuve écrite facultative de langue vivante étrangère consistant en la traduction, sans dictionnaire, d'un texte rédigé dans l'une des langues étrangères suivantes au choix du candidat :
+
+allemand, anglais, espagnol, italien, grec, néerlandais, portugais, russe et arabe moderne (durée : deux heures ; coefficient 2).
+
+4° En outre, les candidats du concours externe et du concours interne peuvent demander, lors de leur inscription, à subir, en cas d'admissibilité, une épreuve facultative d'exercices physiques (coefficient 1).
+
+Les notes obtenues aux épreuves facultatives ne peuvent entrer en ligne de compte en vue de l'admission que pour la part excédant la note de 10 sur 20.
