@@ -1,0 +1,3 @@
+# Article 6
+
+L'arrêté du 25 septembre 1944 réglementant la destruction des lapins, l'arrêté du 29 avril 1948 relatif à la lutte contre le doryphore, l'arrêté du 15 décembre 1951 relatif à la lutte contre le rat musqué, l'arrêté du 23 mars 1953 relatif à la lutte contre la fourmi d'Argentine, l'arrêté du 7 avril 1956 relatif à la lutte collective contre les corbeaux et les pies, l'arrêté du 5 février 1957 relatif à la lutte contre le chancre du pommier, l'arrêté du 1er avril 1957 relatif à la lutte contre le chancre de l'écorce du châtaignier, et l'arrêté du 30 juillet 1970 modifié relatif à la lutte obligatoire contre les ennemis des cultures sont abrogés.
