@@ -573,7 +573,6 @@
 - [Arrêté du 14 janvier 1992 (PTTR9200018A)](arrete-du-14-janvier-1992-pttr9200018a)
 - [Arrêté du 14 janvier 1992 (PTTR9200019A)](arrete-du-14-janvier-1992-pttr9200019a)
 - [Arrêté du 14 janvier 1992 (PTTR9200020A)](arrete-du-14-janvier-1992-pttr9200020a)
-- [Arrêté du 14 janvier 1992 (SPSP9200189A)](arrete-du-14-janvier-1992-spsp9200189a)
 - [Arrêté du 14 janvier 1992 (SPSS9200178A)](arrete-du-14-janvier-1992-spss9200178a)
 - [Arrêté du 14 janvier 1993 (SANP9202968A)](arrete-du-14-janvier-1993-sanp9202968a)
 - [Arrêté du 14 octobre 1986](arrete-du-14-octobre-1986)
