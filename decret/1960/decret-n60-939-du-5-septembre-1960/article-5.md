@@ -1,6 +1,6 @@
 # Article 5
 
-Les médecins, chirurgiens, spécialistes ou sages-femmes exerçant en clinique ouverte versent à l'hôpital une redevance égale pour chaque malade admis en clinique ouverte à 10 % des honoraires susceptibles d'être perçus par le praticien intéressé en application des tarifs fixés conformément aux dispositions du régime général de la sécurité sociale en matière de soins dispensés en clientèle privée.
+Les médecins, chirurgiens, spécialistes ou sages-femmes exerçant en clinique ouverte versent à l'hôpital une redevance égale à 10 % des honoraires résultant pour les actes pratiqués de l'application des tarifs plafonds conventionnels fixés, pour la localité d'implantation de l'établissement, en application du décret n° 60-451 du 12 mai 1960 relatif aux soins médicaux dispensés aux assurés sociaux.
 
 Les sommes versées à l'hôpital au titre de la redevance prévue au présent article sont affectées à l'amélioration de l'équipement technique de l'établissement.
 
