@@ -1,0 +1,5 @@
+# Article 6 bis
+
+Les géomètres diplômés d'Alsace et de Lorraine remplissant les conditions fixées par les paragraphes 1er et 2 de l'article 2 du décret du 25 avril 1929, ont droit sans examen au diplôme de géomètre expert. Ce diplôme sera, de même, conféré de plein droit aux anciens élèves de l'école nationales technique de Strasbourg, demeurés soumis au régime de l'ordonnance locale du 25 janvier 1912, lorsqu'ils auront obtenu le diplôme d'ingénieur géomètre en Alsace et Lorraine et qu'ils auront atteint l'âge de 25 ans.
+
+Par mesure transitoire et pendant 5 ans à compter de la date du 25 avril 1929, le diplôme de géomètre expert pourra être conféré, après vérification de leurs capacités professionnelles et s'ils sont âgés d'au moins 30 ans aux personnes justifiant avoir appartenu à l'administration su cadastre d'Alsace et de Lorraine en qualité de technicien géomètre, y avoir fait un stage et justifiant en outre de 10 années au moins de pratique professionnelle comportant l'exécution des mêmes travaux avec des méthodes équivalentes.
