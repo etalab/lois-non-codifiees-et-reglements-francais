@@ -325,6 +325,7 @@
 - [Décret n°87-797 du 25 septembre 1987 (DOMX8798465D)](decret-n87-797-du-25-septembre-1987-domx8798465d)
 - [Décret n°87-944 du 25 novembre 1987 (ASEX8798611D)](decret-n87-944-du-25-novembre-1987-asex8798611d)
 - [Décret n°87-945 du 25 novembre 1987 (ASEX8798612D)](decret-n87-945-du-25-novembre-1987-asex8798612d)
+- [Décret n°87-961 du 25 novembre 1987 (ASEA8701139D)](decret-n87-961-du-25-novembre-1987-asea8701139d)
 - [Décret n°87-354 du 25 mai 1987 (PRMZ8705003D)](decret-n87-354-du-25-mai-1987-prmz8705003d)
 - [Décret du 26 janvier 1987 (AGRM8700086D)](decret-du-26-janvier-1987-agrm8700086d)
 - [Décret n°86-1316 du 26 décembre 1986](decret-n86-1316-du-26-decembre-1986)

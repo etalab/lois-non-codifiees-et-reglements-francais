@@ -597,6 +597,7 @@
 - [Arrêté du 26 juin 1987 (INTD8700212A)](arrete-du-26-juin-1987-intd8700212a)
 - [Arrêté du 26 mars 1987 (ASES8700495A)](arrete-du-26-mars-1987-ases8700495a)
 - [Arrêté du 26 mars 1987 (ASES8700510A)](arrete-du-26-mars-1987-ases8700510a)
+- [Arrêté du 26 novembre 1987 (ECOC8700114A)](arrete-du-26-novembre-1987-ecoc8700114a)
 - [Arrêté du 26 octobre 1987 (ASEX8798550A)](arrete-du-26-octobre-1987-asex8798550a)
 - [Arrêté du 26 mai 1987 (AGRG8700946A)](arrete-du-26-mai-1987-agrg8700946a)
 - [Arrêté du 26 mai 1987 (ASET8703365A)](arrete-du-26-mai-1987-aset8703365a)
