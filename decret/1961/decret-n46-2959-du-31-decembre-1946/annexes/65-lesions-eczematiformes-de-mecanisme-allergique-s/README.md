@@ -1,0 +1,3 @@
+# 65. LESIONS ECZEMATIFORMES DE MECANISME ALLERGIQUE.s
+
+- [Article TABLEAU 65](article-tableau-65.md)
