@@ -65,6 +65,7 @@
 - [Arrêté du 4 mars 1988 (ECOT8816037A)](arrete-du-4-mars-1988-ecot8816037a)
 - [Arrêté du 4 novembre 1987 (ECOC8700122A)](arrete-du-4-novembre-1987-ecoc8700122a)
 - [Arrêté du 4 novembre 1988 (BUDR8805004A)](arrete-du-4-novembre-1988-budr8805004a)
+- [Arrêté du 4 novembre 1988 (ECOC8800048A)](arrete-du-4-novembre-1988-ecoc8800048a)
 - [Arrêté du 4 novembre 1988 (ECOT8820086A)](arrete-du-4-novembre-1988-ecot8820086a)
 - [Arrêté du 4 octobre 1988 (MENU8801556A)](arrete-du-4-octobre-1988-menu8801556a)
 - [Arrêté du 4 octobre 1988 (PTTM8800793A)](arrete-du-4-octobre-1988-pttm8800793a)
