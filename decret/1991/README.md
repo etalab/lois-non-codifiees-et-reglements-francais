@@ -136,6 +136,8 @@
 - [Décret n°91-657 du 15 juillet 1991 (SANG9101253D)](decret-n91-657-du-15-juillet-1991-sang9101253d)
 - [Décret n°91-75 du 15 janvier 1991 (EQUS9001467D)](decret-n91-75-du-15-janvier-1991-equs9001467d)
 - [Décret n°91-374 du 16 avril 1991 (AGRA9002414D)](decret-n91-374-du-16-avril-1991-agra9002414d)
+- [Décret n°91-376 du 16 avril 1991 (BUDF9100003D)](decret-n91-376-du-16-avril-1991-budf9100003d)
+- [Décret n°91-377 du 16 avril 1991 (BUDL9100039D)](decret-n91-377-du-16-avril-1991-budl9100039d)
 - [Décret n°91-57 du 16 janvier 1991 (EQUT9000068D)](decret-n91-57-du-16-janvier-1991-equt9000068d)
 - [Décret n°91-78 du 16 janvier 1991 (SANH9100007D)](decret-n91-78-du-16-janvier-1991-sanh9100007d)
 - [Décret n°91-109 du 17 janvier 1991 (FPPX9100011D)](decret-n91-109-du-17-janvier-1991-fppx9100011d)
