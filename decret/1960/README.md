@@ -3,6 +3,7 @@
 - [Décret n°60-1161 du 2 novembre 1960](decret-n60-1161-du-2-novembre-1960)
 - [Décret n°60-323 du 2 avril 1960](decret-n60-323-du-2-avril-1960)
 - [Décret n°60-516 du 2 juin 1960](decret-n60-516-du-2-juin-1960)
+- [Décret n°60-799 du 2 avril 1960](decret-n60-799-du-2-avril-1960)
 - [Décret n°60-1066 du 4 octobre 1960](decret-n60-1066-du-4-octobre-1960)
 - [Décret n°60-664 du 4 juillet 1960](decret-n60-664-du-4-juillet-1960)
 - [Décret n°60-425 du 4 mai 1960](decret-n60-425-du-4-mai-1960)

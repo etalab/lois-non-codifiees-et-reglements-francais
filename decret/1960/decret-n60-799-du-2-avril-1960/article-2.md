@@ -1,0 +1,3 @@
+# Article 2
+
+Toute personne qui se livre à une navigation maritime sans être munie, conformément aux lois et règlements, soit d'un rôle d'équipage, soit d'un permis ou d'une carte de circulation ou qui n'exhibe pas son rôle, permis ou carte à la première réquisition de l'autorité maritime, est punie de l'amende prévue pour les contraventions de la 5ème classe si le bâtiment a une jauge brute dépassant 25 tonneaux, de l'amende prévue pour les contraventions de la 5ème classe dans le cas contraire. Il peut être ajouté à cette amende un emprisonnement de dix jours à un mois si l'intéressé s'est fait délivrer un rôle d'équipage au lieu et place d'un permis ou d'une carte de circulation.
