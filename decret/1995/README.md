@@ -1044,7 +1044,6 @@
 - [Décret n°95-1351 du 29 décembre 1995 (EQUT9501830D)](decret-n95-1351-du-29-decembre-1995-equt9501830d)
 - [Décret n°95-1354 du 29 décembre 1995 (TASE9511327D)](decret-n95-1354-du-29-decembre-1995-tase9511327d)
 - [Décret n°95-340 du 29 mars 1995 (DOME9500012D)](decret-n95-340-du-29-mars-1995-dome9500012d)
-- [Décret n°95-341 du 29 mars 1995 (DOME9500011D)](decret-n95-341-du-29-mars-1995-dome9500011d)
 - [Décret n°95-818 du 29 juin 1995 (JUSC9520201D)](decret-n95-818-du-29-juin-1995-jusc9520201d)
 - [Décret n°95-819 du 29 juin 1995 (ECOT9551423D)](decret-n95-819-du-29-juin-1995-ecot9551423d)
 - [Décret n°95-962 du 29 août 1995 (EQUS9500428D)](decret-n95-962-du-29-aout-1995-equs9500428d)
