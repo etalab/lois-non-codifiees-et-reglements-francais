@@ -12,6 +12,6 @@ A peine d'irrecevabilité, la demande expose les motifs sur lesquels elle se fon
 
 5° Le bulletin n° 3 du casier judiciaire de la personne concernée si elle est majeure ;
 
-6° Un exemplaire des journaux contenant les insertions prescrites à l'article 3 ;
+6° Un exemplaire des journaux contenant les insertions prescrites à l'article 3.
 
-7° Une fiche familiale d'état civil.
+7° Alinéa abrogé.
