@@ -10,6 +10,7 @@
 - [Décret n°75-1122 du 5 décembre 1975](decret-n75-1122-du-5-decembre-1975)
 - [Décret n°76-1001 du 5 novembre 1976](decret-n76-1001-du-5-novembre-1976)
 - [Décret n°76-1003 du 5 novembre 1976](decret-n76-1003-du-5-novembre-1976)
+- [Décret n°76-125 du 6 février 1976](decret-n76-125-du-6-fevrier-1976)
 - [Décret n°76-1126 du 9 décembre 1976](decret-n76-1126-du-9-decembre-1976)
 - [Décret n°76-1128 du 9 décembre 1976](decret-n76-1128-du-9-decembre-1976)
 - [Décret n°76-1165 du 10 décembre 1976](decret-n76-1165-du-10-decembre-1976)

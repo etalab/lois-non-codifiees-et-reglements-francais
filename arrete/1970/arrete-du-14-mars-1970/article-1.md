@@ -1,3 +1,5 @@
 # Article 1
 
-Lorsqu'un membre du personnel des établissements d'enseignement a obtenu un congé de maladie d'une durée excédant huit jours, sa reprise de service à l'expiration de ce congé est subordonnée à la présentation d'un certificat médical attestant qu'il n'est pas contagieux, sauf dans le cas où le certificat initial pourrait d'emblée stipuler que l'intéressé n'est pas contagieux [*obligation*].
+Les élèves internes des établissements d'enseignement et d'éducation publics et privés de tous ordres, atteints de maladies contagieuses ou ayant été au contact d'une personne présentant l'une de ces affections, sont soumis à un certain nombre de mesures de prophylaxie, dont parfois l'éviction scolaire. Ces mesures peuvent, selon les cas, être étendues aux élèves externes et demi-pensionnaires, et au personnel de l'établissement. Les mêmes dispositions s'appliquent également aux enfants fréquentant les colonies de vacances et les centres aérés.
+
+Le licenciement partiel ou total des élèves ne sera envisagé que sur proposition expressément motivée des autorités sanitaires.
