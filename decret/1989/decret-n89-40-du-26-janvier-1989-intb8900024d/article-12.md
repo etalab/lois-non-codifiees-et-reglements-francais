@@ -1,3 +1,3 @@
 # Article 12
 
-Les fonctions de membre du conseil sont exercées à titre gratuit [*remunération*].
+Les fonctions de membre du conseil et de membre du bureau sont exercées à titre gratuit [*remunération*].
