@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé, en application de l'article 21 du décret du 23 décembre 2002 susvisé, une commission administrative chargée de procéder à la validation des services accomplis par les professeurs des écoles nationales supérieures d'art, à compter de l'année scolaire 1982-1983 jusqu'au 24 décembre 2002, dans les fonctions de directeur d'une école d'art habilitée par le ministre chargé de la culture en application du décret du 10 novembre 1988 susvisé, de chargé de coordination pédagogique ou de chargé de mission d'inspection à la mission permanente d'inspection, de conseil et d'évaluation des enseignements artistiques de la délégation aux arts plastiques.
