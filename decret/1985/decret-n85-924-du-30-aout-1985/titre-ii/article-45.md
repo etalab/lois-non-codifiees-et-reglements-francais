@@ -6,4 +6,4 @@ Tous les droits acquis au cours d'un exercice doivent faire l'objet d'un ordre d
 
 Au début de chaque exercice, l'ordonnateur dispose d'un délai de deux mois pour procéder à l'émission des ordres de recettes correspondant aux droits acquis au cours de l'exercice précédent.
 
-Les ordonnateurs sont autorisés, dans les conditions et limites fixées par arrêté du ministre chargé du budget, à ne pas émettre les ordres de recettes correspondant aux créances dont le montant initial en principal est inférieur à un minimum fixé par décret contresigné par le ministre chargé du budget.
+Les ordonnateurs sont autorisés, dans les conditions et limites fixées par arrêté du ministre chargé du budget, à ne pas émettre les ordres de recettes correspondant aux créances dont le montant initial en principal est inférieur au minimum fixé par le décret pris pour l'application de l'article 82 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique.

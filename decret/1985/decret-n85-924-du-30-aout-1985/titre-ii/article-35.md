@@ -4,11 +4,11 @@ Le budget des collèges, des lycées et des établissements d'éducation spécia
 
 Ces ressources comprennent :
 
-- des subventions de la collectivité de rattachement et de l'Etat, versées en application des articles 14 et 15-9 de la loi du 22 juillet 1983 modifiée; ou dans la collectivité territoriale de Corse, en application de l'article 51 de la loi n° 91-428 du 13 mai 1991 ".
+- des subventions de la collectivité de rattachement et de l'Etat, versées en application des articles L. 211-8, L. 213-2, L. 214-6, L. 216-4, L. 216-5, L. 216-6 et L. 421-11 du code de l'éducation ; ou dans la collectivité territoriale de Corse, en application de l'article L. 4424-2 du code général des collectivités territoriale.
 
 - toute autre contribution d'une collectivité publique ;
 
-des ressources propres, notamment les dons et legs, les recettes de pension et demi-pension, le produit de la vente des objets confectionnés dans les ateliers, de la taxe d'apprentissage, des conventions de formation professionnelle et des conventions d'occupation des logements et locaux et le produit de l'aliénation des biens propres. "
+des ressources propres, notamment les dons et legs, les recettes de pension et demi-pension, le produit de la vente des objets confectionnés dans les ateliers, de la taxe d'apprentissage, des conventions de formation professionnelle et des conventions d'occupation des logements et locaux et le produit de l'aliénation des biens propres.
 
 Les dépenses de la section de fonctionnement prévues au budget pour le service général ont notamment pour objet les activités pédagogiques et éducatives, le chauffage et l'éclairage, l'entretien des matériels et des locaux, les charges générales, la restauration et l'internat, les aides aux élèves.
 
@@ -16,4 +16,4 @@ En outre, des services spéciaux permettent de distinguer, notamment, l'enseigne
 
 Le budget des collèges, des lycées et des établissements d'éducation spéciale comporte en annexe un état récapitulatif faisant apparaître les emplois dont l'établissement dispose à quelque titre que ce soit.
 
-" Lorsque la formation continue est gérée par un établissement support, la gestion est effectuée sous la forme d'un service à comptabilité distincte pour tous les établissements adhérents au groupement d'établissements. L'apprentissage est également géré sous forme de service à comptabilité distincte. "
+Lorsque la formation continue est gérée par un établissement support, la gestion est effectuée sous la forme d'un service à comptabilité distincte pour tous les établissements adhérents au groupement d'établissements. L'apprentissage est également géré sous forme de service à comptabilité distincte.
