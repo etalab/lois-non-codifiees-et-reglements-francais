@@ -1,4 +1,4 @@
-# Article 5
+# Article 8
 
 La formation d'auxiliaire de puériculture est sanctionnée par le certificat d'aptitude aux fonctions d'auxiliaire de puériculture.
 
