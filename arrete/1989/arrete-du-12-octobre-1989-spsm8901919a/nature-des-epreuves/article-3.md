@@ -14,11 +14,9 @@ Soixante questions ou groupes de questions : cotation sur 180 points.
 
 Durée de l'épreuve : deux heures.
 
-Le nombre de questions issues de chaque section doit être égal au moins à quatre.
+2. Exercices d'application (numériques ou non numériques) portant sur les statistiques, les sciences physiques ou chimiques, les sciences du médicament et les sciences biologiques.
 
-2. Exercices d'application (numériques ou non numériques) portant sur la statistique, les sciences physiques ou chimiques, les sciences du médicament et les sciences biologiques.
-
-Le nombre des exercices est au moins de quatre et aucun de ceux-ci ne peut être coté sur plus de 40 points. Chacune des différentes disciplines indiquées ci-dessus doit faire l'objet d'au moins une question.
+Le nombre des exercices est au moins de quatre et aucun de ceux-ci ne peut être coté sur plus de 40 points.
 
 Cotation sur 160 points.
 
@@ -26,7 +24,7 @@ Durée de l'épreuve : deux heures.
 
 3. Questions portant sur les doses maximales des médicaments usuels ainsi que les valeurs biologiques usuelles.
 
-Notées de 0 à 20 : cotation sur 20 points.
+Notées de 0 à 20 ; cotation sur 20 points.
 
 Durée de l'épreuve : dix minutes.
 

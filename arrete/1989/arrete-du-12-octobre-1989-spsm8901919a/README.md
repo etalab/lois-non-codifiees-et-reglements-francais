@@ -2,5 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Banque nationale de questions](banque-nationale-de-questions)
+- [Composition du dossier de candidature](composition-du-dossier-de-candidature)
 - [Constitution des jurys](constitution-des-jurys)
 - [Nature des épreuves](nature-des-epreuves)
