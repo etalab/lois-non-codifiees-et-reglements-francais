@@ -1,0 +1,3 @@
+# Article 10
+
+La commission départementale des sites de Paris désigne pour une durée de trois ans [*durée du mandat*], au cours de la séance qui suit son renouvellement, huit de ses membres dont trois parmi les membres choisis en raison de leurs fonctions pour faire partie d'une délégation permanente. Cette délégation est présidée par le préfet de Paris ou, à son défaut, par un autre membre du corps préfectoral en fonctions dans le département, désigné par lui. Tout membre de la délégation permanente absent à quatre séances consécutives sans excuse légitime peut être déclaré démissionnaire par le préfet ; il est aussitôt pourvu à son remplacement.
