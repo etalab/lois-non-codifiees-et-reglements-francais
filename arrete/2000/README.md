@@ -55,6 +55,7 @@
 - [Arrêté du 18 décembre 2000 (ECOS0070004A)](arrete-du-18-decembre-2000-ecos0070004a)
 - [Arrêté du 19 décembre 2000 (ATEE0090452A)](arrete-du-19-decembre-2000-atee0090452a)
 - [Arrêté du 19 décembre 2000 (MENF0003243A)](arrete-du-19-decembre-2000-menf0003243a)
+- [Arrêté du 19 juin 2000 (MCCB0000455A)](arrete-du-19-juin-2000-mccb0000455a)
 - [Arrêté du 19 octobre 2000 (MENG0002754A)](arrete-du-19-octobre-2000-meng0002754a)
 - [Arrêté du 20 décembre 2000 (ECOM0010009A)](arrete-du-20-decembre-2000-ecom0010009a)
 - [Arrêté du 20 décembre 2000 (EQUA0001878A)](arrete-du-20-decembre-2000-equa0001878a)
