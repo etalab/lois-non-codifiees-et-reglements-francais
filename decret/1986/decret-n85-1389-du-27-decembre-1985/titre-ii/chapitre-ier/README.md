@@ -1,4 +1,4 @@
-# Chapitre Ier : Le conseil national des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises.
+# Chapitre Ier : Le conseil national des administrateurs judiciaires et des mandataires judiciaires au redressement et à la liquidation des entreprises.
 
 - [Section I : Conditions d'inscription sur les listes de mandataires liquidateurs.](section-i)
 - [Section II : Procédure d'inscription sur les listes de mandataires liquidateurs.](section-ii)
