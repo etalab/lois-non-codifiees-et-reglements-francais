@@ -7,7 +7,3 @@ I. - 1° Paragraphe modificateur ;
 II. -Paragraphe modificateur ;
 
 III. -Paragraphe modificateur ;
-
-IV. - 1°, 2°, 3°, 4° Paragraphes modificateurs;
-
-5° Les dispositions du présent paragraphe entrent en vigueur à compter du 1er juillet 1994.
