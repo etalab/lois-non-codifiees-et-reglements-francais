@@ -51,3 +51,45 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 30 points ;
 
 20° Agents techniques territoriaux assurant des fonctions de dessinateur : 10 points. "
+
+" 21° Adjoints administratifs exerçant à titre exclusif les fonctions de directeur d'établissement public local ne figurant pas sur la liste prévue au deuxième alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvisée et assimilable à une commune de moins de 2 000 habitants (selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics) : 15 points majorés ;
+
+" 22° Adjoints administratifs et agents administratifs exerçant à titre principal des fonctions d'accueil du public dans les départements et les O.P.H.L.M. départementaux ou interdépartementaux de plus de 3 000 logements : 10 points majorés ;
+
+" 23° Techniciens territoriaux exerçant les fonctions de directeur des services techniques dans les collectivités ou établissements publics locaux en relevant, où il n'existe pas d'ingénieur territorial : 15 points majorés ;
+
+" 24° Attachés territoriaux exerçant les fonctions de directeur d'offices publics d'H.L.M. :
+
+"  jusqu'à 3 000 logements : 30 points majorés ;
+
+"  de 3 001 à 5 000 logements : 35 points majorés ;
+
+"  de 5 001 à 10 000 logements : 40 points majorés ;
+
+" 25° Attachés, conseillers socio-éducatifs territoriaux exerçant à titre exclusif les fonctions de directeur d'un établissement d'accueil et d'hébergement de personnes âgées : 30 points majorés ;
+
+" 26° Assistants socio-éducatifs et infirmiers territoriaux exerçant à titre exclusif les fonctions de directeur d'un établissement d'accueil et d'hébergement de personnes âgées :
+
+20 points majorés ;
+
+" 27° Agents du patrimoine assurant la distribution itinérante d'ouvrages culturels : 10 points majorés ;
+
+" 28° Agents de maîtrise territoriaux exerçant les fonctions de dessinateur : 10 points majorés ;
+
+" 29° Assistants socio-éducatifs exerçant à titre exclusif leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993 susvisé :
+
+20 points majorés ;
+
+" 30° Agents spécialisés des écoles maternelles exerçant à titre exclusif leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993 susvisé : 10 points majorés ;
+
+" 31° Educateurs des activités physiques et sportives exerçant à titre exclusif leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993 susvisé : 15 points majorés ;
+
+" 32° Opérateurs des activités physiques et sportives exerçant à titre exclusif leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993 susvisé : 10 points majorés ;
+
+" 33° Moniteurs-éducateurs exerçant à titre exclusif leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993 susvisé :
+
+15 points majorés ;
+
+" 34° Educateurs de jeunes enfants exerçant à titre exclusif leurs fonctions dans les grands ensembles ou quartiers d'habitat dégradé dont la liste est fixée par le décret du 5 février 1993 susvisé :
+
+15 points majorés. "

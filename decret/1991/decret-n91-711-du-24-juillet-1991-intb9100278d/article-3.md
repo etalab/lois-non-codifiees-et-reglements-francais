@@ -7,3 +7,5 @@ Les fonctionnaires occupant un emploi à temps non complet et affectés sur un e
 La nouvelle bonification indiciaire cesse d'être versée lorsque le fonctionnaire quitte l'emploi au titre duquel il la percevait.
 
 La nouvelle bonification indiciaire est prise en compte pour le calcul du supplément familial de traitement et de l'indemnité de résidence.
+
+" Lorsqu'un agent est susceptible de bénéficier de la nouvelle bonification indiciaire à plus d'un titre, il perçoit le montant de points majorés le plus élevé. "
