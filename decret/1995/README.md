@@ -584,6 +584,7 @@
 - [Décret n°95-1103 du 13 octobre 1995 (EQUU9500105D)](decret-n95-1103-du-13-octobre-1995-equu9500105d)
 - [Décret n°95-1106 du 13 octobre 1995 (JUSC9520651D)](decret-n95-1106-du-13-octobre-1995-jusc9520651d)
 - [Décret n°95-1107 du 13 octobre 1995 (EQUG9501332D)](decret-n95-1107-du-13-octobre-1995-equg9501332d)
+- [Décret n°95-1285 du 13 décembre 1995 (AGRG9500489D)](decret-n95-1285-du-13-decembre-1995-agrg9500489d)
 - [Décret n°95-278 du 13 mars 1995 (SPSP9500721D)](decret-n95-278-du-13-mars-1995-spsp9500721d)
 - [Décret n°95-282 du 13 mars 1995 (JUSE9540009D)](decret-n95-282-du-13-mars-1995-juse9540009d)
 - [Décret n°95-283 du 13 mars 1995 (INDD9401298D)](decret-n95-283-du-13-mars-1995-indd9401298d)
