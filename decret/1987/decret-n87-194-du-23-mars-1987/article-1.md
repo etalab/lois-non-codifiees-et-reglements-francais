@@ -1,0 +1,3 @@
+# Article 1
+
+Les membres des tribunaux administratifs autorisés, en application du décret du 23 septembre 1986 susvisé, à participer aux groupes de travail départementaux présidés par l'inspecteur d'académie, directeur des services départementaux de l'éducation, et chargés d'opérer le contrôle et l'établissement des résultats définitifs obtenus par les associations et groupements de parents d'élèves à l'occasion des élections annuelles des représentants des parents d'élèves aux conseils d'école des écoles maternelles et élémentaires et aux conseils d'administration ou d'établissement des lycées, des collèges et des établissements d'éducation spéciale perçoivent à ce titre et par demi-journée une indemnité forfaitaire non soumise à retenue pour pension civile.

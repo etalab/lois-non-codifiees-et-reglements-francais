@@ -1,0 +1,3 @@
+# Article 6
+
+Une convention passée entre l'établissement public d'aménagement de la ville nouvelle de Marne-la-Vallée et l'établissement public d'aménagement du secteur IV de Marne-la-Vallée retrace les droits et obligations afférents aux opérations liées à l'aménagement de la zone définie à l'article 2 et engagées par l'établissement public d'aménagement de la ville nouvelle de Marne-la-Vallée avant l'installation du conseil d'administration de l'établissement public d'aménagement du secteur IV de Marne-la-Vallée ; cette convention prévoit le transfert à ce dernier établissement, à compter de cette date, de ces droits et obligations et fixe les conditions financières correspondantes.

@@ -7,3 +7,4 @@
 - [4 - DESCRIPTION DE L'ETIQUETAGE](4)
 - [5 - DISPOSITIONS PARTICULIERES](5)
 - [Article 21](article-21.md)
+- [Annexes](annexes)
