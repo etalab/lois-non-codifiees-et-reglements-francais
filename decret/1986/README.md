@@ -382,7 +382,6 @@
 - [Décret n°86-108 du 21 janvier 1986](decret-n86-108-du-21-janvier-1986)
 - [Décret n°86-1195 du 21 novembre 1986](decret-n86-1195-du-21-novembre-1986)
 - [Décret n°86-241 du 21 février 1986](decret-n86-241-du-21-fevrier-1986)
-- [Décret n°86-242 du 21 février 1986](decret-n86-242-du-21-fevrier-1986)
 - [Décret n°86-718 du 21 avril 1986](decret-n86-718-du-21-avril-1986)
 - [Décret n°86-90 du 21 janvier 1986](decret-n86-90-du-21-janvier-1986)
 - [Décret n°86-985 du 21 août 1986](decret-n86-985-du-21-aout-1986)
