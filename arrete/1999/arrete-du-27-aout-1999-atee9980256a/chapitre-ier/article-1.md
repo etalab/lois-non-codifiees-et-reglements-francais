@@ -1,0 +1,3 @@
+# Article 1
+
+Le déclarant d'une opération non mentionnée à l'article 2 du décret du 2 février 1996 susvisé, soumise à déclaration au titre des rubriques 2.6.2 (1°, b) ou 2.6.2 (2°, b) de la nomenclature annexée au décret n° 93-743 du 29 mars 1993 susvisé relatives aux vidanges d'étangs ou de plans d'eau, hors opérations de chômage des voies navigables, hors piscicultures mentionnées à l'article L. 231-6 du code rural, hors plans d'eau mentionnés à l'article L. 231-7 du même code, est tenu de respecter les prescriptions du présent arrêté, sans préjudice de l'application des prescriptions fixées au titre d'autres rubriques de la nomenclature précitée ou d'autres législations.

@@ -1,0 +1,3 @@
+# Article 5
+
+A titre transitoire, les véhicules équipés d'origine pour le fonctionnement aux gaz de pétrole liquéfiés, mis pour la première fois en circulation à partir du 1er janvier 2000, ainsi que les véhicules usagés, réceptionnés à titre isolé à partir de cette même date suite à leur transformation pour ce type de carburation, devront être au moins munis de la soupape de sûreté et du dispositif limiteur de surpression, tels que décrits aux paragraphes 6.3.1.3 et 6.3.6 du règlement n° 67 susvisé, et répondant aux prescriptions techniques de ce règlement en ce qui concerne leur construction, leur comportement au feu sur le réservoir pour lequel ils sont destinés et leur installation sur le véhicule.
