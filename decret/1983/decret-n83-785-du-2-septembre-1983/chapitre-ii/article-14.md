@@ -4,4 +4,4 @@ L'interne atteint d'une affection qui figure sur la liste de l'article 36 bis du
 
 L'interne qui a obtenu un congé de longue maladie ne peut bénéficier d'un autre congé de même nature que s'il a repris ses activités pendant une année au moins.
 
-Il est mis fin, après avis de la commission mentionnée à l'article 12 du présent décret, aux activités de l'interne qui, à l'issue du congé de longue maladie, ne peut reprendre sa formation.
+Il est mis fin, après avis du comité médical, aux activités de l'interne qui, à l'issue du congé de longue maladie, ne peut reprendre sa formation.
