@@ -39,6 +39,7 @@
 - [Décret n°75-29 du 15 janvier 1975](decret-n75-29-du-15-janvier-1975)
 - [Décret n°75-360 du 15 mai 1975](decret-n75-360-du-15-mai-1975)
 - [Décret n°75-489 du 16 juin 1975](decret-n75-489-du-16-juin-1975)
+- [Décret n°75-640 du 16 juillet 1975](decret-n75-640-du-16-juillet-1975)
 - [Décret n°75-1090 du 17 novembre 1975](decret-n75-1090-du-17-novembre-1975)
 - [Décret n°75-173 du 17 mars 1975](decret-n75-173-du-17-mars-1975)
 - [Décret n°75-180 du 18 mars 1975](decret-n75-180-du-18-mars-1975)
