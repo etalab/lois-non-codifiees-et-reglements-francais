@@ -1,0 +1,3 @@
+# Article 13
+
+Les architectes des bâtiments de France recrutés à titre contractuel en application de l'article 4 du décret n° 46-271 du 21 février 1946 en fonctions depuis moins d'un an à la date d'application du décret peuvent être titularisés au terme d'une période d'un an d'exercice de leurs fonctions dans le corps des architectes des bâtiments de France et classés dans le grade d'architecte des bâtiments de France, conformément au tableau de l'article 12, avec maintien dans l'échelon de classement de l'ancienneté acquise en qualité d'architecte des bâtiments de France contractuel dans la limite d'un an.
