@@ -2,7 +2,7 @@
 
 Sont applicables au conseil régional et au président du conseil régional :
 
-a) Les articles 19, 20, 23, 29, 30, 31, 32, 33, 36 bis, 54 et le second alinéa de l'article 63 de la loi du 10 août 1871 relative aux conseils généraux.
+a) Les articles 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 16, 17, 18, 19, 20, 23, 29, 30, 31, 32, 33, 36 bis, 54 et le second alinéa de l'article 63 de la loi du 10 août 1871 relative aux conseils généraux.
 
 b) L'article 15 de la loi du 10 août 1871 précitée.
 

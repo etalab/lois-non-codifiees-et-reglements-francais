@@ -11,3 +11,9 @@ II. - Lorsque son intervention a pour but d'assurer le maintien des services né
 Pour compléter les aides visées à l'alinéa précédent, la commune peut passer des conventions avec d'autres collectivités territoriales concernées et disposant de moyens adaptés à la conduite de ces actions, notamment au plan financier.
 
 III. - Sont toutefois exclues, sauf autorisation prévue par décret en Conseil d'Etat, toutes participations dans le capital d'une société commerciale et de tout autre organisme à but lucratif n'ayant pas pour objet d'exploiter les services communaux ou des activités d'intérêt général dans les conditions prévues à l'article L. 381-1 du code des communes.
+
+IV. - La commune peut attribuer des subventions à des entreprises existantes ayant pour objet l'exploitation de salles de spectacle cinématographique dans des conditions fixées par décret en Conseil d'Etat. Ces subventions ne peuvent être attribuées qu'aux établissements qui, quel que soit le nombre de leurs salles, réalisent en moyenne hebdomadaire moins de 2200 entrées.
+
+Ces aides ne peuvent bénéficier aux entreprises spécialisées dans la projection de films visés à l'article 281 bis A du code général des impôts.
+
+Ces aides sont attribuées conformément aux stipulations d'une convention conclue entre l'exploitant et la commune.

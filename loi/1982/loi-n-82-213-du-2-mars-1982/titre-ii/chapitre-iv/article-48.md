@@ -13,3 +13,9 @@ Les mesures visées aux alinéas précédents doivent faire l'objet d'un avis pr
 Les mêmes règles s'appliquent lorsque l'intervention a pour but d'assurer le maintien des services nécessaires à la satisfaction des besoins de la population en milieu rural et que l'initiative privée est défaillante ou absente.
 
 III. - Sont toutefois exclues, sauf autorisation prévue par décret en Conseil d'Etat, toutes participations dans le capital d'une société commerciale et de tout autre organisme à but lucratif n'ayant pas pour objet d'exploiter les services départementaux ou des activités d'intérêt général dans les conditions analogues à celles prévues, pour les communes, par l'article L. 381-1 du code des communes.
+
+IV. - Le département peut, après avis du conseil municipal de la commune où est située l'entreprise concernée, attribuer des subventions à des entreprises existantes ayant pour objet l'exploitation de salles de spectacle cinématographique dans des conditions fixées par décret en Conseil d'Etat. Ces subventions ne peuvent être attribuées qu'aux établissements qui, quel que soit le nombre de leurs salles, réalisent en moyenne hebdomadaire moins de 2200 entrées.
+
+Ces aides ne peuvent bénéficier aux entreprises spécialisées dans la projection de films visés à l'article 281 bis A du code général des impôts.
+
+Ces aides sont attribuées conformément aux stipulations d'une convention conclue entre l'exploitant et le département.
