@@ -28,6 +28,8 @@
 - [Décret n°80-22 du 14 janvier 1980](decret-n80-22-du-14-janvier-1980)
 - [Décret n°80-269 du 14 avril 1980](decret-n80-269-du-14-avril-1980)
 - [Décret n°80-148 du 15 février 1980](decret-n80-148-du-15-fevrier-1980)
+- [Décret n°80-274 du 15 avril 1980](decret-n80-274-du-15-avril-1980)
+- [Décret n°80-277 du 15 avril 1980](decret-n80-277-du-15-avril-1980)
 - [Décret n°79-923 du 16 octobre 1979](decret-n79-923-du-16-octobre-1979)
 - [Décret n°80-31 du 17 janvier 1980](decret-n80-31-du-17-janvier-1980)
 - [Décret n°80-33 du 17 janvier 1980](decret-n80-33-du-17-janvier-1980)
