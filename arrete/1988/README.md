@@ -272,7 +272,6 @@
 - [Arrêté du 12 octobre 1988 (PRMG8800064A)](arrete-du-12-octobre-1988-prmg8800064a)
 - [Arrêté du 12 octobre 1988 (PRMG8800065A)](arrete-du-12-octobre-1988-prmg8800065a)
 - [Arrêté du 12 septembre 1988 (MENP8801261A)](arrete-du-12-septembre-1988-menp8801261a)
-- [Arrêté du 12 septembre 1988 (SPSH8801384A)](arrete-du-12-septembre-1988-spsh8801384a)
 - [Arrêté du 12 septembre 1988 (SPSP8801396A)](arrete-du-12-septembre-1988-spsp8801396a)
 - [Arrêté du 12 septembre 1988 (TRSS8800502A)](arrete-du-12-septembre-1988-trss8800502a)
 - [Arrêté du 13 avril 1988 (AGRE8800734A)](arrete-du-13-avril-1988-agre8800734a)
