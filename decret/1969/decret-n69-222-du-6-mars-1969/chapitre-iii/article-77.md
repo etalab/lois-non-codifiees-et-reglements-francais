@@ -1,0 +1,3 @@
+# Article 77
+
+Sont abrogés, à compter de la date de son entrée en vigueur, toutes dispositions contraires au présent décret, notamment les décrets n° 51-1105 du 19 septembre 1951, à l'exception des articles 21 et 42, n° 54477 du 26 avril 1954, n° 54-1109 du 13 novembre 1954, n° 56-13 du 6 janvier 1956, n° 56-748 du 31 juillet 1956, n° 57-857 du 3 août 1957, n° 60-336 du 8 avril 1960 et n° 63-216 du 1er mars 1963 ainsi que les décrets n° 51-1143 du 1er octobre 1951, n° 54-478 du 26 avril 1954, n° 64-404 du 6 mai 1964, n° 65-38 du 13 janvier 1965, n° 85-716 du 16 août 1965 et n° 68-80 du 24 janvier 1968.
