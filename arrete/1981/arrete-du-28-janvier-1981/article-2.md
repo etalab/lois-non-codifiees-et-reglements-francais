@@ -1,3 +1,3 @@
 # Article 2
 
-Le gaz est réputé non corrosif lorsque sa composition chimique reste dans les limites habituelles pour des gaz couramment transportés par canalisations. Il en est de même si le transporteur établit que la nature du gaz à transporter et la qualité des matériaux utilisés ainsi que les conditions physiques d'emploi sont analogues à celles d'un transport de gaz existant, qui a fonctionné pendant, une période au moins égale à cinq ans sans avoir manifesté de corrosion appréciable.
+En application de l'article 2 du décret susvisé, les personnels à statut ouvrier mutés à la Réunion perçoivent pour la période comprise entre le 25 décembre 1977 et la date de publication du présent arrêté les salaires de leurs groupes et échelons afférents à la zone 0 de métropole, affectés des coefficients de majoration suivants : (1).

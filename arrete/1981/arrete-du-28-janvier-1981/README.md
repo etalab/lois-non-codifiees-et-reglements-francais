@@ -1,4 +1,4 @@
-# Arrêté du 28 janvier 1981 relatif à la teneur en soufre et composés sulfurés des gaz naturels transportés par canalisations de transport
+# Arrêté du 28 janvier 1981 fixant le coefficient de majoration applicable à la rémunération des personnels civils à statut ouvrier mutés dans le département de la Réunion
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
