@@ -81,6 +81,7 @@
 - [Décret n°78-1298 du 21 décembre 1978](decret-n78-1298-du-21-decembre-1978)
 - [Décret n°79-262 du 21 mars 1979](decret-n79-262-du-21-mars-1979)
 - [Décret n°79-263 du 21 mars 1979](decret-n79-263-du-21-mars-1979)
+- [Décret n°79-823 du 21 septembre 1979](decret-n79-823-du-21-septembre-1979)
 - [Décret du 21 mai 1979](decret-du-21-mai-1979)
 - [Décret n°79-405 du 21 mai 1979](decret-n79-405-du-21-mai-1979)
 - [Décret n°79-422 du 21 mai 1979](decret-n79-422-du-21-mai-1979)
