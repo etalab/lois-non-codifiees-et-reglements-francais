@@ -30,7 +30,7 @@ La commission spécialisée de terminologie et de néologie du ministère de la 
 
 - la délégation aux affaires stratégiques ;
 
-- le service d'information et de relations publiques des armées ;
+- la délégation à l'information et à la communication de la défense ;
 
 - le haut fonctionnaire de terminologie et de néologie du ministère de la défense ou son suppléant.
 

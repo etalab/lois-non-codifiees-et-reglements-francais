@@ -1,0 +1,5 @@
+# Article 1
+
+I. - La charge de la contribution prévue au III de l'article 25 de la loi du 19 décembre 1997 susvisée est répartie chaque année entre les régimes obligatoires d'assurance maladie au prorata de leurs participations aux charges des dotations globales hospitalières de l'avant-dernière année précédente, déterminées dans les conditions définies à l'article R. 174-1-4 du code de la sécurité sociale. Le décret prévu au III de l'article 25 précité précise le montant dû par chaque régime.
+
+La contribution est versée à la Caisse des dépôts et consignations. La Caisse nationale de l'assurance maladie des travailleurs salariés, la Caisse centrale de la mutualité sociale agricole et la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles versent leurs parts de contribution à raison d'un quart avant le dernier jour de chaque trimestre. Les organismes nationaux des autres régimes débiteurs versent leurs parts de contribution avant le 30 juin.

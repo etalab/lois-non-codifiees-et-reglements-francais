@@ -703,6 +703,8 @@
 - [Décret n°98-532 du 26 juin 1998 (EQUU9800670D)](decret-n98-532-du-26-juin-1998-equu9800670d)
 - [Décret n°98-753 du 26 août 1998 (MESX9800115D)](decret-n98-753-du-26-aout-1998-mesx9800115d)
 - [Décret n°98-756 du 26 août 1998 (MAEA9820301D)](decret-n98-756-du-26-aout-1998-maea9820301d)
+- [Décret n°98-951 du 26 octobre 1998 (MESH9823326D)](decret-n98-951-du-26-octobre-1998-mesh9823326d)
+- [Décret n°98-952 du 26 octobre 1998 (ECOT9851747D)](decret-n98-952-du-26-octobre-1998-ecot9851747d)
 - [Décret n°82-440 du 26 mai 1982](decret-n82-440-du-26-mai-1982)
 - [Décret n°98-111 du 27 février 1998 (ECOM9701650D)](decret-n98-111-du-27-fevrier-1998-ecom9701650d)
 - [Décret n°98-112 du 27 février 1998 (ECOM9701651D)](decret-n98-112-du-27-fevrier-1998-ecom9701651d)
