@@ -8,4 +8,4 @@ Le droit à congé bonifié est acquis à compter du premier jour du trente-cinq
 
 Les congés prévus aux articles 35 et 46 n'interrompent pas, à l'exception des congés de longue durée, les séjours pris en compte pour l'ouverture du droit à congé bonifié.
 
-Les frais de voyage à l'aller et au retour du praticien, de son conjoint et de ses enfants à charge au sens du livre V du Code de la sécurité sociale sont remboursés par l'établissement hospitalier d'affectation sur la base du prix du voyage par avion en classe économique.
+Les frais de voyage à l'aller et au retour du praticien, de son conjoint et de ses enfants à charge au sens du livre V du Code de la sécurité sociale sont remboursés par l'établissement hospitalier d'affectation sur la base du prix du voyage par avion en classe la plus économique.

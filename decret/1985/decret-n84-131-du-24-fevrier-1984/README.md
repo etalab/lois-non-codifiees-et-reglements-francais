@@ -8,7 +8,7 @@
 - [Titre VI : Avancement](titre-vi)
 - [Titre VII : Rémunération](titre-vii)
 - [Titre VIII : Exercice de fonctions - Positions](titre-viii)
-- [Titre X : Dispositions applicables aux praticiens exerçant dans les départements d'Outre-Mer.](titre-x)
+- [Titre X : Dispositions applicables aux praticiens hospitaliers exerçant dans les départements d'Outre-Mer.](titre-x)
 - [Titre XI : Garanties disciplinaires.](titre-xi)
 - [Titre XII : L'insuffisance professionnelle.](titre-xii)
 - [Titre XIII : Cessation de fonctions.](titre-xiii)

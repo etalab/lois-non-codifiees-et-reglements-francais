@@ -14,7 +14,7 @@ Les sanctions disciplinaires applicables aux praticiens relevant du présent sta
 
 6. La révocation.
 
-L'avertissement et le blâme sont prononcés par le ministre chargé de la santé, après avis du préfet, du conseil d'administration et de la commission médicale consultative de l'établissement où exerce le praticien, ou d'une commission restreinte désignée par cette dernière à cet effet, et après communication de son dossier à l'intéressé. Ces décisions sont motivées.
+L'avertissement et le blâme sont prononcés par le ministre chargé de la santé, après avis du préfet, du conseil d'administration et de la commission médicale d'établissement de l'établissement où exerce le praticien, ou d'une commission restreinte désignée par cette dernière à cet effet, et après communication de son dossier à l'intéressé. Ces décisions sont motivées.
 
 Les autres sanctions sont prononcées par décision motivée du ministre chargé de la santé après avis du conseil de discipline.
 

@@ -2,7 +2,7 @@
 
 Les assistants recrutés conformément aux dispositions des articles 12 et 30 du décret du 8 mars 1978 et des articles 37-2 et 3 du décret du 24 août 1961 modifié comptant au moins un an d'ancienneté à la date d'effet du présent décret peuvent être intégrés dans le corps des praticiens hospitaliers après avis respectivement de la commission mentionnée au premier alinéa de l'article 83 et de la commission mentionnée au deuxième alinéa du même article.
 
-Ces commissions apprécient les titres et travaux et la manière de servir des intéressés, après avis de la commission médicale consultative et du conseil d'administration de l'établissement où ils sont affectés.
+Ces commissions apprécient les titres et travaux et la manière de servir des intéressés, après avis de la commission médicale d'établissement et du conseil d'administration de l'établissement où ils sont affectés.
 
 Leur intégration est prononcée par arrêté du ministre chargé de la santé dans les conditions suivantes :
 

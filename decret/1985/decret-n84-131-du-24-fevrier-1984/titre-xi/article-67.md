@@ -6,6 +6,6 @@ Le praticien intéressé doit être avisé au moins deux mois à l'avance, par l
 
 Le droit de citer des témoins appartient également à l'administration.
 
-Le conseil entend toutes les personnes qu'il estime devoir convoquer. Il prend connaissance des observations du préfet du département, du médecin inspecteur régional de la santé, du conseil d'administration et de la commission médicale consultative de l'établissement où exerce le praticien.
+Le conseil entend toutes les personnes qu'il estime devoir convoquer. Il prend connaissance des observations du préfet du département, du médecin inspecteur régional de la santé ou du pharmacien inspecteur régional s'il s'agit d'un pharmacien des hôpitaux, du conseil d'administration et de la commission médicale d'établissement de l'établissement où exerce le praticien.
 
 Le conseil de discipline peut ordonner toute enquête complémentaire susceptible de l'éclairer.

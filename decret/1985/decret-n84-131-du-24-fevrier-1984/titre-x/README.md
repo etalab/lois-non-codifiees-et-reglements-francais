@@ -1,4 +1,4 @@
-# Titre X : Dispositions applicables aux praticiens exerçant dans les départements d'Outre-Mer.
+# Titre X : Dispositions applicables aux praticiens hospitaliers exerçant dans les départements d'Outre-Mer.
 
 - [Article 62](article-62.md)
 - [Article 63](article-63.md)

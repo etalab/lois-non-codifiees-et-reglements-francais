@@ -2,7 +2,7 @@
 
 Le remplacement des praticiens à plein temps durant leurs congés ou absences occasionnelles est assuré par des praticiens de même discipline exerçant dans le même hôpital selon les règles fixées par le règlement intérieur de l'établissement.
 
-Au cas où l'effectif des praticiens exerçant à l'hôpital, dans la discipline considérée, est insuffisant pour assurer les remplacements dans les conditions prévues ci-dessus, le préfet désigne sur proposition du médecin inspecteur régional de la santé et après avis de la commission médicale consultative et du directeur, un ou des praticiens chargés d'assurer la suppléance du titulaire du poste.
+Au cas où l'effectif des praticiens exerçant à l'hôpital, dans la discipline considérée, est insuffisant pour assurer les remplacements dans les conditions prévues ci-dessus, le préfet désigne sur proposition du médecin inspecteur régional de la santé ou du pharmacien inspecteur régional s'il s'agit d'un poste de pharmacien des hôpitaux et après avis de la commission médicale d'établissement et du directeur, un ou des praticiens chargés d'assurer la suppléance du titulaire du poste.
 
 Il ne peut être fait obligation aux suppléants des praticiens à plein temps, à moins qu'ils n'exercent eux-mêmes à plein temps, de consacrer toute leur activité professionnelle à l'hôpital.
 
