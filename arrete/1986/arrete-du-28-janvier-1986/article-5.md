@@ -2,12 +2,14 @@
 
 Lorsque la commission examine des questions intéressant les sages-femmes, la représentation des organisations professionnelles est assurée par :
 
-- deux représentants nommés sur proposition de la confédération des syndicats médicaux français ;
+1° Un représentant nommé sur proposition de la Confédération des syndicats médicaux français ;
 
-- un représentant nommé sur proposition de la fédération des médecins de France ;
+2° Un représentant nommé sur proposition de la Fédération des médecins de France ;
 
-- un représentant nommé sur proposition de l'Organisation nationale des syndicats de sages-femmes ;
+3° Un représentant nommé sur proposition de la Fédération française des médecins généralistes ;
 
-- un représentant nommé sur proposition de l'Union nationale des syndicats de sages-femmes ;
+4° Deux représentants nommés sur proposition de l'Organisation nationale des syndicats de sages-femmes ;
 
-- un représentant nommé sur proposition conjointe des deux organisations ci-dessus.
+5° Un représentant nommé sur proposition de l'Union nationale des syndicats des sages-femmes ;
+
+6° Un représentant nommé sur proposition conjointe des deux organisations ci-dessus.

@@ -567,6 +567,7 @@
 - [Arrêté du 19 avril 1990 (MENF9000812A)](arrete-du-19-avril-1990-menf9000812a)
 - [Arrêté du 19 décembre 1989 (INDD8901005A)](arrete-du-19-decembre-1989-indd8901005a)
 - [Arrêté du 19 décembre 1989 (LOGC8900036A)](arrete-du-19-decembre-1989-logc8900036a)
+- [Arrêté du 19 décembre 1990 (SPSS9002529A)](arrete-du-19-decembre-1990-spss9002529a)
 - [Arrêté du 19 février 1990 (SPSP9000392A)](arrete-du-19-fevrier-1990-spsp9000392a)
 - [Arrêté du 19 janvier 1990 (ECOT8910065A)](arrete-du-19-janvier-1990-ecot8910065a)
 - [Arrêté du 19 janvier 1990 (EQUV9000043A)](arrete-du-19-janvier-1990-equv9000043a)

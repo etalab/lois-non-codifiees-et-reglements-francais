@@ -1,11 +1,13 @@
 # Article 4
 
-Lorsque la commission examine des questions intéressant les chirurgiens-dentistes, la représentation des organisations professionnelles est assurée par [*composition*] :
+Lorsque la commission examine des questions intéressant les chirurgiens-dentistes, la représentation des organisations professionnelles est assurée par :
 
-- un représentant nommé sur proposition de la confédération des syndicats médicaux français ;
+1° Un représentant nommé sur proposition de la Confédération des syndicats médicaux français ;
 
-- un représentant nommé sur proposition de la fédération des médecins de France ;
+2° Un représentant nommé sur proposition de la Fédération des médecins de France ;
 
-- trois représentants nommés sur proposition de la confédération nationale des syndicats dentaires ;
+3° Un représentant nommé sur proposition de la Fédération française des médecins généralistes ;
 
-- un représentant nommé sur proposition de la fédération odontologique de France et des territoires associés.
+4° Trois représentants nommés sur proposition de la Confédération nationale des syndicats dentaires ;
+
+5° Un représentant nommé sur proposition de la Fédération odontologique de France et des territoires associés.

@@ -2,8 +2,12 @@
 
 Lorsque la commission examine des questions intéressant les pédicures-podologues, la représentation des organisations professionnelles est assurée par :
 
-- deux représentants nommés sur proposition de la confédération des syndicats médicaux français ;
+1° Un représentant nommé sur proposition de la Confédération des syndicats médicaux français ;
 
-- un représentant nommé sur proposition de la fédération des médecins de France ;
+2° Un représentant nommé sur proposition de la Fédération des médecins de France ;
 
-- trois représentants nommés sur proposition de la fédération nationale des podologues.
+3° Un représentant nommé sur proposition de la Fédération française des médecins généralistes ;
+
+4° Trois représentants nommés sur proposition de la Fédération nationale des podologues ;
+
+5° Un représentant nommé sur proposition du Syndicat national des podologues.
