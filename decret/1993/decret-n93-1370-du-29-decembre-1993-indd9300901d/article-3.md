@@ -1,8 +1,8 @@
 # Article 3
 
-Les produits ou prestations à raison desquels les entreprises sont assujetties à la taxe parafiscale instituée au profit du comité de coordination des centres de recherche en mécanique (Corem) sont définis par les classes, catégories et sous-catégories suivantes de la classification des produits française (C.P.F.), approuvée par le décret du 2 octobre 1992 susvisé :
+Les produits ou prestations à raison desquels les entreprises sont assujetties à la taxe parafiscale instituée au profit des membres du comité de coordination des centres de recherche en mécanique (Corem) sont définis par les classes, catégories et sous-catégories suivantes de la classification des produits française (C.P.F.), approuvée par le décret du 2 octobre 1992 susvisé :
 
-a)
+a) Activités relevant du Centre technique des industries mécaniques (CETIM) ;
 
 27.22.10. Tubes en acier, pour les tuyaux de poêle, articles de fumisterie et tôlerie de chauffage.
 
@@ -328,7 +328,7 @@ les appareils munis d'un moteur synchrone permettant de déclencher un mécanism
 
 36.63.77. Articles divers, pour les récipients isothermes.
 
-b)
+b) Activités relevant de l'Institut de soudure (IS) ;
 
 27.34. Fils tréfilés, pour la fabrication des fils pleins de soudage.
 
@@ -344,7 +344,7 @@ b)
 
 29.40.60. Matériel de soudage, y compris pour soudobrasage, brasage, brasage tendre, métallisation et machines ou appareils de soudage ou de découpe par procédés thermiques (laser, plasma, autres).
 
-c)
+c) Activités relevant du Centre technique de l'industrie du décolletage (CTDEC) ;
 
 28.52. Opérations de mécanique générale, pour les activités et produits de décolletage y compris :
 
@@ -356,7 +356,7 @@ les opérations de contrôle et de reprise associées.
 
 28.74. Vis, boulons, chaînes et ressorts, pour les produits décolletés.
 
-d)
+d) Activités relevant du Centre technique industriel de la construction métallique (CTICM) ;
 
 28.11. Constructions métalliques, y compris la fabrication et le montage des ossatures métalliques, éventuellement peintes, galvanisées ou métallisées, vendues avec ou sans montage :
 
@@ -406,7 +406,7 @@ les portes flottantes, bateaux portes, docks flottants, ponts-bateaux ;
 
 les barges et caissons à ossatures en poutrelles métalliques.
 
-e)
+e) Activités relevant du Centre technique des industries aérauliques et thermiques (CETIAT).
 
 25.24. Articles divers en matières plastiques, pour les matériels aérauliques et thermiques.
 

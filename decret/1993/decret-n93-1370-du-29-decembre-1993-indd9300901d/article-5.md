@@ -8,4 +8,4 @@ I.  Le taux maximum de la taxe parafiscale est fixé à :
 
 0,32 p. 100 pour les produits ou prestations mentionnés au paragraphe e du même article.
 
-II. Un arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie fixe, pour chaque assiette ou tranche d'assiette, les taux de la taxe parafiscale dans la limite des maxima définis ci-dessus. Ce même arrêté peut fixer les seuils en deçà desquels la taxe parafiscale ne sera pas ou ne sera que partiellement mise en recouvrement.
+II.  Un arrêté conjoint des ministres chargés de l'économie, du budget et de l'industrie fixe, pour chaque centre, le taux de la taxe parafiscale dans la limite des maxima définis ci-dessus.
