@@ -22,6 +22,6 @@ d) Les modalités d'élimination des résidus issus des activités de traitement
 
 6° Les coûts prévisionnels de traitement des déchets pour lesquels l'agrément est demandé et un projet de tarification des services rendus ;
 
-7° Le cas échéant, une copie de l'arrêté préfectoral d'autorisation délivré au titre de la législation relative aux installations classées ou de la demande d'autorisation ainsi qu'une copie de l'arrêté d'autorisation de rejet dans les eaux délivré au titre de la législation relative au régime et à la répartition des eaux et à la lutte contre la pollution ou de la demande d'autorisation ;
+7° [*abrogé*]
 
 8° Un projet de cahier des charges.
