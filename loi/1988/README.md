@@ -4,6 +4,7 @@
 - [Loi n° 87-1129 du 31 décembre 1987 (FPPX8700193L)](loi-n-87-1129-du-31-decembre-1987-fppx8700193l)
 - [Loi n° 87-1132 du 31 décembre 1987 (EQUX8700122L)](loi-n-87-1132-du-31-decembre-1987-equx8700122l)
 - [Loi n° 87-1157 du 31 décembre 1987 (JUSX8700015L)](loi-n-87-1157-du-31-decembre-1987-jusx8700015l)
+- [Loi n° 87-1158 du 31 décembre 1987 (ECOX8700151L)](loi-n-87-1158-du-31-decembre-1987-ecox8700151l)
 - [Loi n° 87-517 du 10 juillet 1987 (ASEX8700081L)](loi-n-87-517-du-10-juillet-1987-asex8700081l)
 - [Loi n° 88-12 du 5 janvier 1988 (CLRX8700126L)](loi-n-88-12-du-5-janvier-1988-clrx8700126l)
 - [Loi n° 88-13 du 5 janvier 1988 (INTX8700039L)](loi-n-88-13-du-5-janvier-1988-intx8700039l)

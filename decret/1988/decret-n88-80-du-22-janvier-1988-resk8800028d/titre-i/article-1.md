@@ -1,0 +1,3 @@
+# Article 1
+
+Sont admis à se présenter aux épreuves du diplôme préparatoire aux études comptables et financières les candidats titulaires soit du baccalauréat, soit d'un titre ou diplôme admis en dispense du baccalauréat en vue de l'inscription dans les universités, soit d'un titre ou diplôme étranger permettant l'accès à l'enseignement supérieur dans le pays de délivrance, soit d'un titre ou diplôme étranger permettant l'accès de l'enseignement supérieur dans le pays de délivrance, soit d'un titre ou diplôme figurant sur une liste fixée par arrêté conjoint du ministre chargé de l'enseignement supérieur et du ministre chargé du budget, après avis de la commission consultative pour la formation professionnelle des experts-comptables.
