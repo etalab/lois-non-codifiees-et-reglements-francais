@@ -1,3 +1,3 @@
 # Article 7
 
-Le secrétariat du conseil supérieur de l'adoption est assuré par la direction de l'action sociale du ministère de la santé.
+Le secrétariat du Conseil supérieur de l'adoption est assuré par les services de la direction de l'action sociale mis à la disposition du ministre chargé de la famille.
