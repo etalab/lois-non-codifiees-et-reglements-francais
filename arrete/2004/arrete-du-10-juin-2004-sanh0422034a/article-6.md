@@ -1,0 +1,3 @@
+# Article 6
+
+Ouvrent droit à l'exercice en France de la profession d'infirmier aux ressortissants des Etats membres de l'Union européenne ou autres Etats parties à l'accord sur l'Espace économique européen les diplômes, certificats et autres titres d'infirmier ne répondant pas aux dénominations mentionnées dans le présent arrêté et ses annexes. Ces diplômes doivent être accompagnés d'un certificat délivré par les autorités ou organismes compétents de l'Etat membre d'origine attestant que ces diplômes, certificats ou autres titres d'infirmier sanctionnent une formation conforme aux dispositions de la directive n° 77 / 453 / CEE et qu'ils sont assimilés par l'Etat membre qui les a délivrés à ceux dont les dénominations figurent dans le présent arrêté et ses annexes.

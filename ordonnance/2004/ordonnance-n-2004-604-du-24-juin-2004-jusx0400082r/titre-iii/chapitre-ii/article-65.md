@@ -1,0 +1,25 @@
+# Article 65
+
+I. - Les dispositions des trois premiers alinéas de l'article L. 225-102-1 du code de commerce prennent effet à Mayotte, en Nouvelle-Calédonie et dans les îles Wallis et Futuna à compter de la publication du rapport annuel portant sur l'exercice ouvert à compter du 1er janvier 2004. Les dispositions du quatrième alinéa de l'article L. 225-102-1 du même code prennent effet à compter de la publication du rapport annuel portant sur l'exercice ouvert à compter du 1er janvier 2005.
+
+II. - Les conseils d'administration et conseils de surveillance de sociétés dont l'immatriculation est faite conformément à la réglementation applicable à Mayotte, en Nouvelle-Calédonie et dans les îles Wallis et Futuna, disposent d'un délai de dix-huit mois à compter de la date de publication de la présente ordonnance pour se mettre en conformité avec les articles L. 225-17, L. 225-69 et L. 225-95 du code de commerce dans leur rédaction issue de cette ordonnance.
+
+III. - Pour les sociétés anonymes dont l'immatriculation est faite conformément à la réglementation applicable à Mayotte, en Nouvelle-Calédonie et dans les îles Wallis et Futuna, à la date de publication de la présente ordonnance, une assemblée générale extraordinaire est convoquée dans un délai de dix-huit mois à compter de cette même date pour procéder à la modification des statuts prévue par le deuxième alinéa de l'article L. 225-51-1 du code de commerce. A défaut, tout intéressé peut demander au président du tribunal statuant en référé d'enjoindre au conseil d'administration de procéder à cette convocation. Lorsqu'il est fait droit à la demande, l'astreinte et les frais de procédure sont mis à la charge des administrateurs.
+
+Les sociétés anonymes dont les titres ne sont pas admis sur un marché réglementé et qui étaient immatriculées selon la réglementation applicable à Mayotte, en Nouvelle-Calédonie et dans les îles Wallis et Futuna avant la date de publication de la présente ordonnance peuvent conserver leurs statuts sans délibération particulière de leur assemblée générale, jusqu'à la convocation d'une assemblée générale extraordinaire pour d'autres raisons.
+
+IV. - Les administrateurs, présidents du conseil d'administration, directeurs généraux, membres du directoire et membres du conseil de surveillance des sociétés immatriculées selon la réglementation applicable à Mayotte, en Nouvelle-Calédonie et dans les îles Wallis et Futuna, disposent d'un délai de dix-huit mois à compter de la date de publication de la présente ordonnance pour se mettre en conformité avec les articles L. 225-21, L. 225-54-1, L. 225-67, L. 225-77, L. 225-94 et L. 225-94-1 du code de commerce dans leur rédaction issue de cette ordonnance. A défaut, ils sont réputés démissionnaires de tous leurs mandats.
+
+V. - Les personnes qui, à la date de publication de la présente ordonnance, avaient reçu du conseil d'administration mandat d'assister le président avec le titre de directeur général prennent le titre de directeur général délégué.
+
+VI. - Les sociétés régies par les dispositions du chapitre Ier du titre III du livre II du code de commerce dont l'immatriculation est faite conformément à la réglementation applicable à Mayotte, en Nouvelle-Calédonie et dans les îles Wallis et Futuna à la date de la publication de la présente ordonnance ont un délai de cinq ans pour se mettre en conformité avec les dispositions de l'article L. 231-5 du même code et notamment pour procéder à la libération du capital social.
+
+VII. - Les commissaires aux comptes à Mayotte, en Nouvelle-Calédonie et dans les îles Wallis et Futuna et les personnes morales immatriculées selon la réglementation applicable à Mayotte, en Nouvelle-Calédonie et dans les îles Wallis et Futuna doivent se mettre en conformité avec les articles L. 820-1 à L. 820-7 du code de commerce dans un délai de dix-huit mois à compter de la publication de la présente ordonnance.
+
+VIII. - Le I et le II de l'article 114 et le II de l'article 136 de la loi du 1er août 2003 de sécurité financière précitée sont applicables en Nouvelle-Calédonie et dans les îles Wallis et Futuna.
+
+IX. - Les dispositions des 1° et 2° du I de l'article 117 de la loi n° 2003-706 du 1er août 2003 de sécurité financière entrent en vigueur en Nouvelle-Calédonie et dans les îles Wallis et Futuna pour les exercices comptables ouverts à partir du 1er janvier 2004.
+
+X. - Les dispositions de l'article L. 233-16 du code de commerce telles qu'elles sont modifiées par la présente ordonnance s'appliquent en Nouvelle-Calédonie et dans les îles Wallis et Futuna à compter du premier exercice ouvert après la publication de cette ordonnance.
+
+XI. - Les dispositions de l'article L. 822-14 du code de commerce sont applicables en Nouvelle-Calédonie et dans les îles Wallis et Futuna trois ans après la publication de la présente ordonnance. Elles ne remettent pas en cause les mandats des commissaires aux comptes qui seront alors en cours dans la limite de six ans à compter de la publication de cette ordonnance.

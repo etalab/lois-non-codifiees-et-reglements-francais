@@ -1,0 +1,3 @@
+# Article 2
+
+Ouvrent droit à l'exercice en France de la profession d'infirmier aux ressortissants des Etats membres de l'Union européenne ou autres Etats parties à l'accord sur l'Espace économique européen les diplômes, certificats et autres titres d'infirmier responsable des soins généraux dont la liste est fixée en annexe 2. Ces diplômes, certificats et autres titres sont délivrés par les Etats membres de l'Union européenne ou autres Etats parties à l'accord sur l'Espace économique européen et doivent être accompagnés d'une attestation de l'Etat membre ayant délivré le diplôme, le certificat ou le titre de formation confirmant que le bénéficiaire a rempli toutes les conditions de formation prévues par les directives susvisées.
