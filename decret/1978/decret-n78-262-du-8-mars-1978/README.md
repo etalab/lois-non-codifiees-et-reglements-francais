@@ -4,5 +4,6 @@
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Emoluments.](titre-ii)
 - [Titre III : Déboursés.](titre-iii)
+- [Titre IV : Dispositions diverses et finales.](titre-iv)
 - [Article 39](article-39.md)
 - [Annexes](annexes)
