@@ -6,9 +6,13 @@ Classe A
 
 Directeur d'union régionale de classe exceptionnelle ou de 1re classe.
 
+Directeur de société de secours minière hors classe.
+
 Classe A-1
 
 Directeur adjoint ou agent comptable d'union régionale de classe exceptionnelle ou de 1re classe.
+
+Directeur adjoint et agent comptable de société de secours minière hors classe.
 
 Classe B
 
@@ -26,6 +30,12 @@ Agent comptable d'union régionale de 2e ou 3e classe.
 
 Agent comptable de société de secours minière de classe exceptionnelle ou de 1re classe.
 
+Sous-directeur de société de secours minière hors classe.
+
+Directeur du centre informatique de la région Nord.
+
+Directeur du centre informatique interrégional Est-Centre-Est.
+
 Classe C
 
 Directeur de société de secours minière de 2e, 3e ou 4e classe.
@@ -42,7 +52,9 @@ Agent comptable de société de secours minière de 2e, 3e ou 4e classe.
 
 Agent comptable adjoint d'union régionale de classe exceptionnelle ou de 1re classe ou de société de secours minière de classe exceptionnelle.
 
-Chef de centre informatique recourant à la technique des ordinateurs (programmes et tâches intégrés).
+Agent comptable adjoint de société de secours minière hors classe.
+
+Directeur du centre informatique interrégional Centre-Ouest-Midi.
 
 Classe C-2
 
@@ -54,4 +66,4 @@ Agent comptable de société de secours minière de 4e classe.
 
 Agent comptable adjoint d'union régionale de 1re classe ou de société de secours minière de classe exceptionnelle.
 
-Chef de centre informatique recourant à la technique des ordinateurs (programmes et tâches intégrés).
+Directeur du centre informatique interrégional Centre-Ouest-Midi.

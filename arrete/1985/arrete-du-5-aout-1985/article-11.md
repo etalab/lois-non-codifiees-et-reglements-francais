@@ -24,11 +24,23 @@ Chef de section faisant fonction d'adjoint et de suppléant de l'agent comptable
 
 Chef de section faisant fonction d'adjoint de sous-directeur ayant plusieurs chefs de section sous ses ordres.
 
-Directeur économe d'établissement de 51 à 100 lits et de 101 à 200 lits.
+Directeur adjoint de centre informatique régional ou inter-régional.
+
+Responsable de production.
+
+Chef de groupe de projets.
+
+Chef de projet.
+
+Directeur-économe d'établissement de 51 à 100 lits et de 101 à 200 lits.
 
 Directeur et sous-directeur d'établissement de 201 à 500 lits.
 
-Assistant social régional d'une union régionale des sociétés de secours minières de classe exceptionnelle, de 1re classe ou de 2e classe.
+Chef de mécanographie d'atelier doté de matériel nécessitant l'écriture de programmes.
+
+Organisateur.
+
+Assistant social régional d'une union régionale des sociétés de secours minières de classe exceptionnelle, de 1re ou de 2e classe.
 
 Assistant social régional adjoint d'une union régionale des sociétés de secours minières de classe exceptionnelle ou de 1re classe.
 
