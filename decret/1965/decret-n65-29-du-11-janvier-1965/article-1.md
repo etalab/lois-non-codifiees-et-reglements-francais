@@ -2,9 +2,9 @@
 
 Sauf en matière de travaux publics, la juridiction administrative ne peut être saisie que par voie de recours formé contre une décision, et ce, dans les deux mois à partir de la notification ou de la publication de la décision attaquée.
 
-Le silence gardé pendant plus de quatre mois sur une réclamation par l'autorité compétente vaut décision de rejet.
+Sauf disposition législative ou réglementaire contraire, le silence gardé pendant plus de deux mois sur une réclamation par l'autorité compétente vaut décision de rejet.
 
-Les intéressés disposent, pour se pourvoir contre cette décision implicite, d'un délai de deux mois à compter du jour de l'expiration de la période de quatre mois susmentionnée. Néanmoins, lorsqu'une décision explicite de rejet intervient dans ce délai de deux mois, elle fait à nouveau courir le délai du pourvoi.
+Les intéressés disposent, pour se pourvoir contre cette décision implicite, d'un délai de deux mois à compter du jour de l'expiration de la période mentionnée à l'alinéa précédent. Néanmoins, lorsqu'une décision explicite de rejet intervient dans ce délai de deux mois, elle fait à nouveau courir le délai du pourvoi.
 
 Toutefois l'intéressé n'est forclos qu'après un délai de deux mois à compter du jour de la notification d'une décision expresse de rejet :
 
