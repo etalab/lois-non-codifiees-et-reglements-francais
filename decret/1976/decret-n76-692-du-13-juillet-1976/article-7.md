@@ -1,3 +1,7 @@
 # Article 7
 
-Nonobstant les dispositions des articles R. 112-9, R. 112-10, R. 112-11 et R. 112-12 du code de la consommation portant application des articles L. 213-1 à L. 216-1 du code de la consommation, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, les mentions obligatoires qui doivent figurer sur les emballages, récipients ou étiquettes des produits définis en annexe, mentions qui doivent être bien visibles, clairement lisibles et indélébiles, sont celles qui sont mentionnées aux titres II et III de ladite annexe.
+Les dispositions du chapitre II du titre Ier du livre Ier du code de la consommation (partie Réglementaire) concernant l'étiquetage et la présentation des denrées alimentaires sont applicables aux produits définis au A de l'annexe I, dans toutes ses dispositions qui ne sont pas contraires au présent décret.
+
+L'étiquetage des produits de cacao et de chocolat définis aux c et d du 2 et aux 3, 4, 5, 8 et 9 du A de l'annexe I indique la teneur en matière sèche totale de cacao par la mention : "Cacao : ... % minimum".
+
+Pour les produits mentionnés au b du 2 du A de l'annexe I et dans la deuxième partie de la phrase figurant au d du 2 du A de l'annexe I, l'étiquetage indique la teneur en beurre de cacao.

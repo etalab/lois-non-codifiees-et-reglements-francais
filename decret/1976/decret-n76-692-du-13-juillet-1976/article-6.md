@@ -1,3 +1,3 @@
 # Article 6
 
-Des arrêtés conjoints du ministre de l'agriculture et du ministre de l'économie et des finances peuvent fixer les poids nets auxquels les produits de cacao et de chocolat doivent être exclusivement mis en vente ou vendus.
+Les produits de chocolat qui, en vertu de l'article 5, contiennent des matières grasses végétales autres que le beurre de cacao peuvent être commercialisés, à condition que leur étiquetage, tel que prévu à l'article 7, soit complété par la mention suivante, attirant l'attention et clairement lisible : "Contient des matières grasses végétales en plus du beurre de cacao". Cette mention apparaît dans le même champ visuel que la liste des ingrédients, de manière bien distincte par rapport à cette liste, et figure, à proximité de la dénomination de vente, en caractères gras au moins aussi grands que ceux de cette dénomination. La dénomination de vente peut également figurer à un autre endroit sans que soit exigée la mention précédente.
