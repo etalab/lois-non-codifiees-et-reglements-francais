@@ -4,6 +4,7 @@
 - [Arrêté du 6 novembre 1974](arrete-du-6-novembre-1974)
 - [Arrêté du 8 janvier 1975](arrete-du-8-janvier-1975)
 - [Arrêté du 9 janvier 1975](arrete-du-9-janvier-1975)
+- [Arrêté du 13 janvier 1975](arrete-du-13-janvier-1975)
 - [Arrêté du 14 janvier 1975](arrete-du-14-janvier-1975)
 - [Arrêté du 14 octobre 1975](arrete-du-14-octobre-1975)
 - [Arrêté du 15 avril 1975](arrete-du-15-avril-1975)
