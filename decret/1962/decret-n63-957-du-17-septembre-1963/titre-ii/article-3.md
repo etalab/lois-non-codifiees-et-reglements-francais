@@ -1,5 +1,0 @@
-# Article 3
-
-Les ouvriers sont recrutés parmi les candidats, remplissant les conditions exigées à l'article 16 de l'ordonnance du 4 février 1959 susvisée, ayant subi avec succès, dans les conditions fixées aux articles suivants, les épreuves d'un concours ou d'un essai professionnel organisé par le directeur du service des eaux et fontaines de Versailles, Marly et Saint-Cloud.
-
-Nul ne peut se présenter à l'un des concours ou essais précités s'il est âge de plus de trente-cinq ans au 1er janvier de l'année du concours ou de l'essai ; cette dernière limite d'âge est reculée, sans cependant pouvoir excéder quarante-cinq ans, d'une part dans les conditions prévues par le code de la famille, d'autre part d'un temps égal à la durée des services antérieurs civils ou militaires valables ou validables pour la retraite et n'ayant pas donné lieu à l'octroi d'une pension. Aucune limite d'âge n'est opposable aux candidats déjà fonctionnaires du service des eaux et fontaines de Versailles, Marly et Saint-Cloud.

@@ -3,4 +3,3 @@
 - [Titre 1er : Dispositions générales.](titre-1er)
 - [Titre II : Recrutement.](titre-ii)
 - [Titre III : Avancement.](titre-iii)
-- [Titre IV : Dispositions transitoires.](titre-iv)
