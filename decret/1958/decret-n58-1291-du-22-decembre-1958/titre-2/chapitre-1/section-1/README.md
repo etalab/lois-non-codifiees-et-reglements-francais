@@ -1,0 +1,3 @@
+# SECTION 1 : COMPETENCE ET ORGANISATION.
+
+- [Article 32](article-32.md)

@@ -1,0 +1,3 @@
+# Article 80
+
+Un    décret en Conseil d'Etat fixera la date d'entrée en vigueur de la présente ordonnance et déterminera les modalités de son application ainsi que les mesures transitoires nécessaires à son exécution. Il fixera notamment les conditions d'accès des magistrats au cadre de l'administration centrale du ministère de la justice, les conditions dans lesquelles les juges de paix en fonction à la date d'entrée en vigueur de la présente ordonnance seront classés dans le nouveau corps judiciaire ainsi que, pour les juges de paix non classés et qui formeront un cadre d'extinction, les règles particulières, dérogatoires à l'article 2 du présent statut, qui leur seront applicables.

@@ -1,0 +1,13 @@
+# Ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature.
+
+- [Chapitre I : Dispositions générales.](chapitre-i)
+- [Chapitre II : De la formation professionnelle des magistrats](chapitre-ii)
+- [Chapitre III : Des magistrats des premier et second grades](chapitre-iii)
+- [Chapitre IV : De la commission d'avancement.](chapitre-iv)
+- [Chapitre V : Des magistrats hors hiérarchie.](chapitre-v)
+- [Chapitre VI : De la rémunération.](chapitre-vi)
+- [Chapitre VII : Discipline](chapitre-vii)
+- [Chapitre VIII : Positions.](chapitre-viii)
+- [Chapitre IX : Cessation des fonctions.](chapitre-ix)
+- [Chapitre X : Dispositions diverses et mesures transitoires.](chapitre-x)
+- [Article 85](article-85.md)
