@@ -1,0 +1,3 @@
+# Article 1
+
+A titre provisoire, les facultés et les écoles nationales de médecine pourront dans les conditions définies au présent décret recruter des attachés de faculté ou école nationale, chefs de clinique, et des attachés de faculté ou école nationale, assistants de sciences fondamentales. Les agents ainsi recrutés sont nommés sur les postes de chef de clinique et d'assistant inscrits au budget de l'Education nationale dans la mesure où les postes hospitaliers correspondants ne sont pas en nombre suffisant pour permettre, les recrutements nécessaires sur des emplois comportant la double fonction hospitalière et universitaire définie par le décret susvisé du 24 septembre 1960.
