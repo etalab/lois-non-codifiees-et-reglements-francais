@@ -4,7 +4,9 @@ Département de l'Ain
 
 1° Lac de Divonne-les-Bains ;
 
-2° Lac de Nantua.
+2° Lac de Nantua ;
+
+3° Lac de Sylans.
 
 Département de l'Allier
 
