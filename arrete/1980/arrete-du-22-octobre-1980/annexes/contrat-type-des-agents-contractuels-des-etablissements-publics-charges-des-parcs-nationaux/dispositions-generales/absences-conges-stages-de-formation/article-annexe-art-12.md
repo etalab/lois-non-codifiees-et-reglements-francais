@@ -1,0 +1,3 @@
+# Article ANNEXE ART. 12
+
+Conformément à l'instruction n° 7 du 23 mars 1950, concernant certaines autorisations pouvant être accordées aux mères de famille, et aux circulaires F1 n° 48 et FP n° 1169 du 15 octobre 1974 et n° B2 A/60 et FP n° 1213 du 21 août 1975 "relatives aux autorisations d'absences pouvant être accordées au personnel de l'administration pour soigner un enfant malade ou en assurer momentanément la garde", les mères de famille ou, le cas échéant, les autres agents qui ont la charge d'un enfant, peuvent bénéficier d'autorisations d'absence pour soigner celui-ci en cas de maladie ou pour en assurer momentanément la garde, dans la limite de douze jours ouvrables pris en plusieurs fois ou de quinze jours consécutifs par an.

@@ -1,0 +1,3 @@
+# Article ANNEXE ART. 7
+
+Les personnels techniques de la catégorie I sont recrutés au vu des titres attestant leur niveau de formation et en fonction de leur expérience dans le domaine correspondant aux attributions qui leur sont confiées ; ils doivent être titulaires d'un diplôme sanctionnant le deuxième cycle de l'enseignement supérieur ou d'un titre équivalent ou d'un diplôme figurant sur une liste fixée par les ministres chargés des parcs nationaux et de la fonction publique. Il pourra être dérogé à ces conditions dans la limite de 25 p. 100 des agents de cette catégorie, notamment en faveur d'agents de l'établissement ou des autres parcs nationaux ayant fait la preuve de leurs compétences dans le service.
