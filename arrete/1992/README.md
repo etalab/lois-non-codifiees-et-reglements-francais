@@ -415,6 +415,7 @@
 - [Arrêté du 26 mars 1992 (MENN9200782A)](arrete-du-26-mars-1992-menn9200782a)
 - [Arrêté du 26 mars 1992 (MENN9200783A)](arrete-du-26-mars-1992-menn9200783a)
 - [Arrêté du 26 mars 1992 (MENN9200798A)](arrete-du-26-mars-1992-menn9200798a)
+- [Arrêté du 26 mars 1992 (MENZ9200743A)](arrete-du-26-mars-1992-menz9200743a)
 - [Arrêté du 26 novembre 1991 (BUDR9104084A)](arrete-du-26-novembre-1991-budr9104084a)
 - [Arrêté du 26 novembre 1991 (DEFC9102254A)](arrete-du-26-novembre-1991-defc9102254a)
 - [Arrêté du 26 novembre 1991 (ENVN9161394A)](arrete-du-26-novembre-1991-envn9161394a)
