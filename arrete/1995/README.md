@@ -4,6 +4,7 @@
 - [Arrêté du 2 novembre 1994 (SPSS9403375A)](arrete-du-2-novembre-1994-spss9403375a)
 - [Arrêté du 3 janvier 1995 (SPSS9403822A)](arrete-du-3-janvier-1995-spss9403822a)
 - [Arrêté du 3 janvier 1995 (SPSX9400560A)](arrete-du-3-janvier-1995-spsx9400560a)
+- [Arrêté du 4 janvier 1995 (EQUZ9402111A)](arrete-du-4-janvier-1995-equz9402111a)
 - [Arrêté du 4 mai 1995 (DEFP9501386A)](arrete-du-4-mai-1995-defp9501386a)
 - [Arrêté du 4 mai 1995 (MAEA9520013A)](arrete-du-4-mai-1995-maea9520013a)
 - [Arrêté du 5 juillet 1994 (INDB9400579A)](arrete-du-5-juillet-1994-indb9400579a)
