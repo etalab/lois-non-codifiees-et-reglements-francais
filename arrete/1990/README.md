@@ -310,7 +310,6 @@
 - [Arrêté du 12 novembre 1990 (SPSA9002258A)](arrete-du-12-novembre-1990-spsa9002258a)
 - [Arrêté du 12 septembre 1990 (ECOT9023054A)](arrete-du-12-septembre-1990-ecot9023054a)
 - [Arrêté du 12 septembre 1990 (ECOZ9009106A)](arrete-du-12-septembre-1990-ecoz9009106a)
-- [Arrêté du 12 septembre 1990 (PRMX9010264A)](arrete-du-12-septembre-1990-prmx9010264a)
 - [Arrêté du 12 septembre 1990 (SPSH9001855A)](arrete-du-12-septembre-1990-spsh9001855a)
 - [Arrêté du 13 août 1990 (EQUS9001183A)](arrete-du-13-aout-1990-equs9001183a)
 - [Arrêté du 13 août 1990 (SPSH9001803A)](arrete-du-13-aout-1990-spsh9001803a)

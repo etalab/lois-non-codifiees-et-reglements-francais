@@ -432,7 +432,6 @@
 - [Arrêté du 12 novembre 1996 (ENVN9650399A)](arrete-du-12-novembre-1996-envn9650399a)
 - [Arrêté du 12 novembre 1996 (EQUS9601496A)](arrete-du-12-novembre-1996-equs9601496a)
 - [Arrêté du 12 novembre 1996 (MENL9603154A)](arrete-du-12-novembre-1996-menl9603154a)
-- [Arrêté du 12 septembre 1990 (PRMX9010264A)](arrete-du-12-septembre-1990-prmx9010264a)
 - [Arrêté du 12 septembre 1996 (BUDF9600012A)](arrete-du-12-septembre-1996-budf9600012a)
 - [Arrêté du 12 septembre 1996 (BUDF9600013A)](arrete-du-12-septembre-1996-budf9600013a)
 - [Arrêté du 12 septembre 1996 (DEFT9601929A)](arrete-du-12-septembre-1996-deft9601929a)

@@ -96,7 +96,6 @@
 - [Arrêté du 26 décembre 2000 (MESS0023511A)](arrete-du-26-decembre-2000-mess0023511a)
 - [Arrêté du 27 décembre 2000 (ECOF0000034A)](arrete-du-27-decembre-2000-ecof0000034a)
 - [Arrêté du 27 décembre 2000 (EQUU0001945A)](arrete-du-27-decembre-2000-equu0001945a)
-- [Arrêté du 27 décembre 2000 (FPPA0010012A)](arrete-du-27-decembre-2000-fppa0010012a)
 - [Arrêté du 27 juin 2000 (EQUA0001115A)](arrete-du-27-juin-2000-equa0001115a)
 - [Arrêté du 28 avril 2000 (INTD0000237A)](arrete-du-28-avril-2000-intd0000237a)
 - [Arrêté du 28 décembre 1999 (DEFP0001021A)](arrete-du-28-decembre-1999-defp0001021a)
