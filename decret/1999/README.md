@@ -30,6 +30,8 @@
 - [Décret n°99-150 du 4 mars 1999 (MESP9824092D)](decret-n99-150-du-4-mars-1999-mesp9824092d)
 - [Décret n°99-151 du 4 mars 1999 (MESP9824090D)](decret-n99-151-du-4-mars-1999-mesp9824090d)
 - [Décret n°99-154 du 4 mars 1999 (ATEN9860030D)](decret-n99-154-du-4-mars-1999-aten9860030d)
+- [Décret n°99-157 du 5 mars 1999 (ECOF9800013D)](decret-n99-157-du-5-mars-1999-ecof9800013d)
+- [Décret n°99-158 du 5 mars 1999 (ECOF9800035D)](decret-n99-158-du-5-mars-1999-ecof9800035d)
 - [Décret n°99-159 du 5 mars 1999 (MENF9900193D)](decret-n99-159-du-5-mars-1999-menf9900193d)
 - [Décret n°99-3 du 5 janvier 1999 (ECOI9801130D)](decret-n99-3-du-5-janvier-1999-ecoi9801130d)
 - [Décret n°99-4 du 5 janvier 1999 (FPPA9810017D)](decret-n99-4-du-5-janvier-1999-fppa9810017d)
