@@ -2,7 +2,7 @@
 
 Service de sécurité incendie
 
-§ 1. En application des articles MS 45 et MS 48, la surveillance des établissements de première catégorie doit être assurée par des agents de sécurité incendie dans les conditions suivantes :
+§ 1. En application des articles MS 45 et MS 46, la surveillance des établissements de première catégorie doit être assurée par des agents de sécurité incendie dans les conditions suivantes :
 
 a) Etablissements comportant un ou deux niveaux accessibles au public :
 
