@@ -10,6 +10,7 @@
 - [Décret n°89-1 du 2 janvier 1989 (MENU8802576D)](decret-n89-1-du-2-janvier-1989-menu8802576d)
 - [Décret n°89-533 du 2 août 1989 (MENF8901207D)](decret-n89-533-du-2-aout-1989-menf8901207d)
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)
+- [Décret n°89-3 du 3 janvier 1989 (SPSP8801764D)](decret-n89-3-du-3-janvier-1989-spsp8801764d)
 - [Décret n°88-209 du 4 mars 1988 (JUSC8820102D)](decret-n88-209-du-4-mars-1988-jusc8820102d)
 - [Décret n°89-69 du 4 février 1989 (PRMG8970046D)](decret-n89-69-du-4-fevrier-1989-prmg8970046d)
 - [Décret n°90-379 du 4 mai 1990 (MCCB9000209D)](decret-n90-379-du-4-mai-1990-mccb9000209d)

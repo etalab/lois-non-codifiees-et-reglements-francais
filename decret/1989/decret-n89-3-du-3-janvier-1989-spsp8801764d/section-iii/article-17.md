@@ -1,0 +1,3 @@
+# Article 17
+
+Toute installation de conditionnement d'eau autre qu'une eau minérale naturelle, toute installation de fabrication et d'emballage de glace alimentaire d'origine hydrique doit être autorisée par arrêté du préfet, après avis du conseil départemental d'hygiène. Un arrêté du ministre chargé de la santé [*autorités compétentes*] détermine les modalités d'instruction de la demande d'autorisation.    L'autorisation est accordée si les installations de conditionnement d'eau ou les installations de fabrication, d'emballage, d'entreposage et de transport de glace sont de nature à éviter tout risque de contamination.

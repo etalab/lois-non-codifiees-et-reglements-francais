@@ -41,6 +41,7 @@
 - [Arrêté du 25 février 1984](arrete-du-25-fevrier-1984)
 - [Arrêté du 26 décembre 1988 (SPSS8801841A)](arrete-du-26-decembre-1988-spss8801841a)
 - [Arrêté du 26 octobre 1990 (SPSH9002063A)](arrete-du-26-octobre-1990-spsh9002063a)
+- [Arrêté du 27 décembre 1988 (SPSH8801956A)](arrete-du-27-decembre-1988-spsh8801956a)
 - [Arrêté du 27 octobre 1988 (INDA8800802A)](arrete-du-27-octobre-1988-inda8800802a)
 - [Arrêté du 29 décembre 1988 (ECOT8820092A)](arrete-du-29-decembre-1988-ecot8820092a)
 - [Arrêté du 29 décembre 1988 (SPSP8801952A)](arrete-du-29-decembre-1988-spsp8801952a)
