@@ -816,6 +816,12 @@ Nomination du comité de coordination.
 
 Règlement CEE n° 95-93 du 18 janvier 1995.
 
+23
+
+Délivrance, suspension ou retrait de l'habilitation d'un organisme technique pour vérifier que les entreprises ou organismes respectent les conditions de délivrance de l'agrément en qualité d'établissement connu ou de chargeur connu.
+
+Article R. 213-16 du code de l'aviation civile.
+
 Autres mesures prises par un ministre
 
 Code des marchés publics
