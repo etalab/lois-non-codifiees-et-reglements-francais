@@ -1,0 +1,3 @@
+# Article 4
+
+Indépendamment des autres possibilités offertes à l'issue des classes préparatoires, les élèves ayant suivi l'enseignement dispensé dans les classes prévues à l'article 3 ci-dessus pourront être admis, dans les conditions définies par le ministre des universités, en année spéciale post-premier cycle des instituts universitaires de technologie en vue de l'obtention du diplôme universitaire de technologie. Ils pourront être également admis, dans les conditions fixées par le ministre de l'éducation et, en ce qui le concerne, le ministre de l'agriculture, en deuxième année des études préparant à l'obtention du brevet de technicien supérieur.
