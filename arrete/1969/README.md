@@ -9,6 +9,7 @@
 - [Arrêté du 20 janvier 1970](arrete-du-20-janvier-1970)
 - [Arrêté du 21 avril 1969](arrete-du-21-avril-1969)
 - [Arrêté du 22 avril 1969](arrete-du-22-avril-1969)
+- [Arrêté du 23 avril 1969](arrete-du-23-avril-1969)
 - [Arrêté du 24 mars 1969](arrete-du-24-mars-1969)
 - [Arrêté du 24 novembre 1972](arrete-du-24-novembre-1972)
 - [Arrêté du 25 avril 1969](arrete-du-25-avril-1969)
