@@ -20,6 +20,7 @@
 - [Décret n°79-218 du 7 mars 1979](decret-n79-218-du-7-mars-1979)
 - [Décret n°79-310 du 9 avril 1979](decret-n79-310-du-9-avril-1979)
 - [Décret n°79-22 du 10 janvier 1979](decret-n79-22-du-10-janvier-1979)
+- [Décret n°79-376 du 10 mai 1979](decret-n79-376-du-10-mai-1979)
 - [Décret n°79-59 du 11 janvier 1979](decret-n79-59-du-11-janvier-1979)
 - [Décret n°79-1072 du 12 décembre 1979](decret-n79-1072-du-12-decembre-1979)
 - [Décret n°79-98 du 12 janvier 1979](decret-n79-98-du-12-janvier-1979)
