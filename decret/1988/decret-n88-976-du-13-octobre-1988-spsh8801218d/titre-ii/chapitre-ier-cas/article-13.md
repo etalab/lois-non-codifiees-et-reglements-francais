@@ -34,4 +34,6 @@ Le détachement d'un fonctionnaire ne peut avoir lieu que dans l'un des cas suiv
 
 14° Détachement auprès de la Commission nationale de la communication et des libertés instituée par la loi n° 86-1067 du 30 septembre 1986 ;
 
-15° Détachement auprès d'un député à l'Assemblée nationale, d'un sénateur ou d'un représentant de la France au Parlement européen.
+15° Détachement auprès d'un député à l'Assemblée nationale, d'un sénateur ou d'un représentant de la France au Parlement européen ;
+
+16° Détachement auprès de l'administration d'un Etat membre de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen. Une convention passée entre l'administration de l'Etat d'accueil et l'établissement d'origine définit la nature et le niveau des activités confiées au fonctionnaire, ses conditions d'emploi et de rémunération ainsi que les modalités du contrôle et de l'évaluation desdites activités.
