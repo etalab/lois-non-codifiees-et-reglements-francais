@@ -24,10 +24,6 @@ Tout devis doit comporter les mentions suivantes :
 
 "S'il s'agit d'un acte uniquement à visée esthétique, les examens, l'intervention, les prescriptions et l'arrêt de travail éventuel ne pourront être pris en charge par l'assurance maladie.
 
-"Il est convenu que doit être respecté un délai minimum de quinze jours entre la remise de ce document et l'intervention éventuelle. C'est un délai de réflexion avant toute décision, pour le praticien comme pour la personne examinée. Pendant cette période, il ne peut être exigé ou obtenu, de la personne examinée, directement ou indirectement, à quelque titre que ce soit ni sous quelque forme que ce soit, une contrepartie quelconque ni aucun engagement, à l'exception du prix de la présente consultation.
-
-"Ce délai peut toutefois être réduit à sept jours, à la demande expresse de la personne examinée, qui devra mentionner elle-même, de manière manuscrite et signée, cette demande sur le présent devis."
-
 Dans tous les cas, le devis, établi en double exemplaire et signé du praticien, doit également comporter l'indication manuscrite, datée et signée du consommateur : "devis reçu avant l'exécution de la prestation de service".
 
 Passé le délai de réflexion, la personne examinée qui accepte le devis doit porter sur l'exemplaire du praticien la mention manuscrite, datée et signée : "devis accepté après réflexion".
