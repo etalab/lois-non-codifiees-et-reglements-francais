@@ -4,11 +4,11 @@ Les stages comprennent :
 
 Au cours de la période de formation générale :
 
-- un stage d'insertion auprès d'une direction départementale du travail et de l'emploi ;
+- un stage d'insertion auprès d'une direction départementale du travail, de l'emploi et de la formation professionnelle ;
 
 - un stage en entreprise ;
 
-- un ou plusieurs stages dans les services centraux ou extérieurs des trois ministères et/ou dans des institutions et organismes intervenant dans les champs de compétences des services.
+- un ou plusieurs stages dans les services centraux ou déconcentrés des trois ministères et/ou dans des institutions et organismes intervenant dans les champs de compétences des services.
 
 Au cours de la période de formation spécifique :
 

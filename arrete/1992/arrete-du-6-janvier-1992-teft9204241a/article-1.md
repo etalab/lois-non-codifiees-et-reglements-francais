@@ -6,4 +6,4 @@ Elle comporte en alternance des périodes d'enseignements à l'institut et des s
 
 L'évaluation des connaissances et capacités acquises par les inspecteurs-élèves du travail au cours de leur formation est organisée conformément aux dispositions de la section IV du présent arrêté.
 
-Le directeur de l'Institut national du travail, de l'emploi et de la formation professionnelle est responsable de la mise en oeuvre des contenus des programmes de formation, de l'organisation des enseignements, de la pédagogie, du choix des intervenants et des autres organismes de formation auxquels il peut recourir.
+Le directeur de l'Institut national du travail, de l'emploi et de la formation professionnelle est responsable de la mise en oeuvre des contenus des programmes de formation, de l'organisation des enseignements, de la pédagogie, du choix des intervenants et des autres organismes de formation auxquels il peut recourir ainsi que de l'organisation des évaluations.
