@@ -7,6 +7,7 @@
 - [Décret n°73-225 du 2 mars 1973](decret-n73-225-du-2-mars-1973)
 - [Décret n°73-237 du 2 mars 1973](decret-n73-237-du-2-mars-1973)
 - [Décret n°73-267 du 2 mars 1973](decret-n73-267-du-2-mars-1973)
+- [Décret n°73-462 du 4 mai 1973](decret-n73-462-du-4-mai-1973)
 - [Décret n°73-124 du 5 février 1973](decret-n73-124-du-5-fevrier-1973)
 - [Décret n°73-132 du 5 février 1973](decret-n73-132-du-5-fevrier-1973)
 - [Décret n°73-243 du 6 mars 1973](decret-n73-243-du-6-mars-1973)
