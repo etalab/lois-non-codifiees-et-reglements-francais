@@ -24,4 +24,4 @@ L'ancienneté de services requise pour faire acte de candidature est appréciée
 
 Les places ouvertes pour l'inscription sur la liste d'aptitude sont réparties par moitié entre le concours A et le concours B. Lorsque ce nombre est impair, la place supplémentaire est mise alternativement à l'un ou l'autre concours.
 
-Le nombre de places ouvertes par catégorie de concours est fixé par arrêté du préfet de région.
+Le nombre de places ouvertes par catégorie de concours est fixé par décision du directeur de l'agence régionale de l'hospitalisation.

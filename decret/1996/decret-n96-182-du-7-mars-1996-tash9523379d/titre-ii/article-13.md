@@ -24,4 +24,4 @@ Sont également pris en compte les services effectués en qualité d'attachés r
 
 Les services accomplis en qualité d'interne en pharmacie ne sont pas pris en compte. Les services accomplis à titre provisoire ne sont pris en compte que lorsqu'ils sont accomplis par un pharmacien des hôpitaux à temps partiel relevant du présent statut en attente d'une réintégration.
 
-Les décisions de classement sont prononcées par arrêté du préfet du département.
+Les décisions de classement sont prononcées par arrêté du préfet de région.
