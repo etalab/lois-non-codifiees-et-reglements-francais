@@ -1,0 +1,15 @@
+# Article 3
+
+Des équivalences partielles sont accordées aux candidats au certificat d'aptitude mentionné à l'article 1er du présent arrêté :
+
+a) Les directeurs et chefs de service pédagogique d'établissement de déficients auditifs en fonctions à la date du présent arrêté justifiant à la date dudit examen de trois années au moins dans la fonction et titulaires du certificat d'aptitude à l'enseignement des sourds-muets (premier degré), ou du certificat d'aptitude du premier degré à l'enseignement des jeunes sourds dans les établissements privés, ou du certificat d'aptitude du premier degré à l'enseignement des jeunes déficients auditifs dans les établissements privés sont crédités de l'ensemble des unités de valeur et des épreuves de pédagogie pratique, à l'exception de l'unité de valeur n° 9, mentionnées à l'article 11 de l'arrêté du 20 août 1987 susvisé ;
+
+b) Les maîtres répétiteurs des instituts nationaux de jeunes sourds en exercice à la date du présent arrêté justifiant de quinze années au moins d'enseignement spécialisé, titulaires d'une licence ou d'une maîtrise et admis aux premier et deuxième examens du certificat d'aptitude au professorat des instituts nationaux de jeunes sourds sont crédités de l'ensemble des unités de valeur et des épreuves de pédagogie pratique, à l'exception de l'unité de valeur n° 9, susmentionnées ;
+
+c) Les titulaires du certificat d'aptitude à l'enseignement des sourds-muets (premier degré), ou du certificat d'aptitude du premier degré à l'enseignement des jeunes sourds dans les établissements privés, ou du certificat d'aptitude du premier degré à l'enseignement des jeunes déficients auditifs dans les établissements privés sont dispensés des épreuves de pédagogie pratique mentionnées à l'article 11 de l'arrêté précité.
+
+Ils peuvent être crédités de tout ou partie des unités de valeur, à l'exception de l'unité de valeur n° 9, par décision du directeur de l'action sociale, après avis du comité consultatif national de l'enseignement des jeunes sourds institué en application de l'article 10 du décret n° 86-1151 du 27 octobre 1986 susvisé. Cette décision est subordonnée à l'engagement du candidat de suivre des enseignements complémentaires, dans le cadre de la formation continue, en fonction d'un projet d'actualisation des qualifications inscrit dans le plan de formation de l'établissement où il exerce ;
+
+d) Les instituteurs titulaires du certificat d'aptitude aux actions pédagogiques spécialisées d'adaptation et d'intégration scolaires, option A, sont crédités des unités de valeur n° 1, 2, 4, 5 a, 5 b, 6 et 7 mentionnées à l'article 12 de l'arrêté du 20 août 1987 susvisé.
+
+Les instituteurs titulaires du certificat d'aptitude aux actions pédagogiques spécialisées, option A, ayant effectué au Centre national d'études et de formation pour l'enfance inadaptée les stages de langue des signes, premier, deuxième et troisième niveaux, en formation continue sont, sur présentation d'une attestation de formation du directeur de ce centre, dispensés de l'unité de valeur 8 A mentionnée à l'article 12 de l'arrêté précité.

@@ -44,7 +44,7 @@ Biologie cellulaire :
 
 - échanges cellulaires ;
 
-- la synthèse des protéines (notions succinctes) :
+- la synthèse des protéines (notions succinctes) ;
 
 - phénomènes énergétiques : respiration, fermentation.
 
@@ -100,7 +100,7 @@ Evaporation et ébullition.
 
 Chaleur de vaporisation.
 
-Condensation
+Condensation.
 
 D - Electrostatique
 
@@ -116,9 +116,7 @@ Courant continu
 
 1. Intensité et tension.
 
-1.1. Extraction d'électrons de la matière par effet thermo-électronique : visualisation d'un faisceau d'électrons :
-
-oscillographe (aspect qualitatif).
+1.1. Extraction d'électrons de la matière par effet thermo-électronique : visualisation d'un faisceau d'électrons ; oscillographe (aspect qualitatif).
 
 1.2. Courant électrique continu : circulation des porteurs de charge, sens conventionnel du courant, détermination du sens du courant et mesure de l'intensité d'un courant, notion de quantité d'électricité.
 
@@ -138,11 +136,11 @@ F - Phénomènes vibratoires et propagation
 
 1. Propagation d'un signal : onde progressive.
 
-1.1. Mise en évidence expérimentale de la propagation d'un signal célérité. Variation d'une part au cours du temps, d'autre part, selon la distance à la source des grandeurs associées à un signal qui se propage.
+1.1. Mise en évidence expérimentale de la propagation d'un signal célérité. Variation d'une part, au cours du temps, d'autre part, selon la distance à la source des grandeurs associées à un signal qui se propage.
 
 1.2. Phénomènes vibratoires entretenus : période, fréquence.
 
-1.3. Propagation d'un phénomène vibratoire entretenu: longueur d'onde, onde progressive, dans un milieu unidimensionnel, double périodicité du phénomène.
+1.3. Propagation d'un phénomène vibratoire entretenu : longueur d'onde, onde progressive, dans un milieu unidimensionnel, double périodicité du phénomène.
 
 1.4. Mise en évidence expérimentale des phénomènes de réflexions, de transmission, de diffraction et d'interférences.
 
@@ -176,15 +174,13 @@ Le champ magnétique.
 
 Application : le champ magnétique terrestre, le champ magnétique créé par un courant.
 
-Chimie
-
-(chimie générale, chimie minérale et chimie organique)
+Chimie (chimie générale, chimie minérale et chimie organique)
 
 L'atome et son noyau (niveau d'énergie, isotopie, écriture spectroscopique).
 
 Les liaisons chimiques (covalence, ionique et dative).
 
-Loi d'Avogadro-Ampère, la mole.
+Loi d'Avogadro-Ampere, la mole.
 
 Loi de Lavoisier,
 
@@ -194,7 +190,7 @@ L'oxydo-réduction :
 
 - exemples d'oxydants et de réducteurs ;
 
-- réactions d'oxydo-réduction :
+- réactions d'oxyda-réduction ;
 
 - nombre d'oxydation ;
 
@@ -206,7 +202,7 @@ Réaction acide-base.
 
 Notion de pH.
 
-. Acides forts, faibles (en utilisant des exemples).
+Acides forts, faibles (en utilisant des exemples).
 
 Bases fortes, faibles (en utilisant des exemples).
 
@@ -220,17 +216,19 @@ Propriétés essentielles de quelques corps ;
 
 - acide sulfurique ;
 
-- acide nitrique ;
+- acide nitrique :
 
-- carbone ; monoxyde de carbone, dioxyde de carbone (gaz carbonique) ;
+- carbone : monoxyde de carbone, dioxyde de carbone (gaz carbonique) :
 
-- sodium ;
+- sodium :
 
 - soude.
 
+- le chlore.
+
 Tétravalence du carbone.
 
-Les hydrocarbures ;
+Les hydrocarbures :
 
 - alcanes, alcènes, alcynes ;
 
@@ -240,13 +238,15 @@ Les hydrocarbures ;
 
 L'éthanol.
 
-L'acide éthanoïque.
+L'acide éthanoique.
 
 La monoéthylamine.
 
 Les acides aminés.
 
 Généralités sur les protéines.
+
+Généralités sur les glucides.
 
 Généralités sur les lipides.
 
