@@ -5,6 +5,7 @@
 - [Décret n°85-1152 du 5 novembre 1985](decret-n85-1152-du-5-novembre-1985)
 - [Décret n°85-1166 du 5 novembre 1985](decret-n85-1166-du-5-novembre-1985)
 - [Décret n°85-684 du 8 juillet 1985](decret-n85-684-du-8-juillet-1985)
+- [Décret n°85-603 du 10 juin 1985](decret-n85-603-du-10-juin-1985)
 - [Décret n°85-712 du 11 juillet 1985](decret-n85-712-du-11-juillet-1985)
 - [Décret n°85-1175 du 12 novembre 1985](decret-n85-1175-du-12-novembre-1985)
 - [Décret n°85-1179 du 13 novembre 1985](decret-n85-1179-du-13-novembre-1985)
