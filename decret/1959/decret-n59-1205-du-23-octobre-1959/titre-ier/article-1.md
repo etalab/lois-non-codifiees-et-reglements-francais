@@ -1,6 +1,6 @@
 # Article 1
 
-Le bureau de recherches géologiques et minières est un établissement public de caractère industriel et commercial doté de la personnalité civile et de l'autonomie financière placé auprès du ministre chargé des mines.
+Le bureau de recherches géologiques et minières est un établissement public à caractère industriel et commercial, placé sous la tutelle du ministre chargé de la recherche et du ministre chargé de l'industrie.
 
 Il est chargé de promouvoir la recherche et l'exploitation des ressources du sous-sol et, à cette fin, notamment :
 
@@ -22,7 +22,7 @@ A prendre des participations dans les sociétés d'exploitation, particulièreme
 
 A accorder des avances aux organisations précitées, et généralement à procéder à toutes opérations commerciales, industrielles et financières compatibles avec son objet.
 
-Le Bureau peut exercer son activité hors du territoire de la République française et entreprendre tous travaux accessoires utiles à la réalisation de son objet.
+Le bureau peut exercer son activité hors du territoire de la République française et entreprendre tous travaux accessoires utiles à la réalisation de son objet.
 
 L'Etat peut passer convention avec le bureau de recherches géologiques et minières en vue de lui confier certaines missions d'ordre général ou particulier.
 
