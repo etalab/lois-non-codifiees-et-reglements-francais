@@ -80,6 +80,8 @@ Conseil supérieur de la mutualité.
 
 (Arrêté du 22 mai 1987.)
 
+Haut comité hospitalo-universitaire (décret n° 92-206 du 3 mars 1992 précité).
+
 Direction de l'action sociale
 
 Certificat d'aptitude à l'enseignement général des aveugles et des déficients visuels (C.A.E.G.A.D.V.), 1re et 2e partie.
@@ -116,9 +118,7 @@ Comité national des registres.
 
 (Arrêté du 10 février 1986.)
 
-Commissions chargées de donner un avis au ministre sur les
-
-demandes d'autorisation d'exercice de la médecine, de la profession de chirurgien-dentiste et de sage-femme.
+Commissions chargées de donner un avis au ministre sur les demandes d'autorisation d'exercice de la médecine, de la profession de chirurgien-dentiste et de sage-femme.
 
 (Décret n° 73-642 du 5 juillet 1973. - Décret n° 82-1079 du 17 décembre 1982.)
 
