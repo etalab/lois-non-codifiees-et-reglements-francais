@@ -206,14 +206,6 @@ Emplois commerciaux de haut niveau
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Institut national des appellations d'origine des vins et eaux-de-vie
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois des catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
 Institut national de la consommation
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
@@ -246,19 +238,19 @@ Emplois de catégorie A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Musée de la Légion d'honneur
-
-EMPLOIS OU CATEGORIES D'EMPLOIS concernés
-
-Emplois des catégories A, B, C et D
-
-ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
-
 Musée de la marine
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
 Emplois de catégorie A, B, C et D
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
+Musée Rodin
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois commerciaux des catégories A, B, C et D
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
