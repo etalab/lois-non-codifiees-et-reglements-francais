@@ -669,7 +669,6 @@
 - [Arrêté du 14 décembre 1995 (AGRP9502515A)](arrete-du-14-decembre-1995-agrp9502515a)
 - [Arrêté du 14 décembre 1995 (ECOU9500024A)](arrete-du-14-decembre-1995-ecou9500024a)
 - [Arrêté du 14 décembre 1995 (MENN9502889A)](arrete-du-14-decembre-1995-menn9502889a)
-- [Arrêté du 14 février 1995 (INTB9500089A)](arrete-du-14-fevrier-1995-intb9500089a)
 - [Arrêté du 14 juin 1995 (AGRP9501057A)](arrete-du-14-juin-1995-agrp9501057a)
 - [Arrêté du 14 mars 1995 (AGRG9500554A)](arrete-du-14-mars-1995-agrg9500554a)
 - [Arrêté du 14 mars 1995 (BUDR9505006A)](arrete-du-14-mars-1995-budr9505006a)
