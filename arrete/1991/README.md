@@ -98,7 +98,6 @@
 - [Arrêté du 3 mai 1991 (MAEA9120206A)](arrete-du-3-mai-1991-maea9120206a)
 - [Arrêté du 3 mai 1991 (MCCB9100066A)](arrete-du-3-mai-1991-mccb9100066a)
 - [Arrêté du 4 avril 1991 (MENK9170010A)](arrete-du-4-avril-1991-menk9170010a)
-- [Arrêté du 4 décembre 1990 (AGRH9002448A)](arrete-du-4-decembre-1990-agrh9002448a)
 - [Arrêté du 4 décembre 1990 (ENVN9061670A)](arrete-du-4-decembre-1990-envn9061670a)
 - [Arrêté du 4 décembre 1990 (TEFT9004106A)](arrete-du-4-decembre-1990-teft9004106a)
 - [Arrêté du 4 décembre 1991 (DEFD9102284A)](arrete-du-4-decembre-1991-defd9102284a)
