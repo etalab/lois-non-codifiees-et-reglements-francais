@@ -1,0 +1,3 @@
+# Article 14
+
+Lorsque, par dérogation aux articles 9, 10 et 11 ci-dessus, il n'est pas exigé, en application des règlements communautaires des 23 mars 1992 et 25 octobre 1993, ou des résolutions de la CEMT acceptées par la France, ou des accords bilatéraux conclus par la France, de copie de la licence communautaire ou d'autorisation de transport multilatérale ou bilatérale, en raison du poids maximum autorisé ou de la charge utile des véhicules, ou de la nature du transport ou des marchandises transportées, les documents d'accompagnement de la marchandise doivent permettre d'établir que le transport est libéralisé de toute licence ou autorisation de transport.

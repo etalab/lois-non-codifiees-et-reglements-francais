@@ -4,21 +4,11 @@
 
 A l'examen d'admission, le candidat ne doit présenter aucune affection ou séquelle de maladie, de traumatisme ou d'intervention chirurgicale intéressant le globe oculaire. A l'admission comme en cours de carrière, les interventions de chirurgie réfractive doivent faire l'objet d'un recul d'au moins trois ans pour être compatibles avec l'aptitude.
 
-4.2. Caractéristiques fonctionnelles particulières
+4.2. Caractéristiques fonctionnelles particulières de l'appareil visuel.
 
-de l'appareil visuel
+L'acuité visuelle de loin, mesurée à l'aide des optotypes de Landolt ou d'optotypes similaires examinés à 5 mètres sous une brillance de 10 nits, doit être de 10/10 pour chacun des deux yeux, éventuellement à l'aide de verres correcteurs en cas d'amétropie ; dans ce dernier cas, la réfraction mesurée par skiascopie, éventuellement après cyclopégie, ne doit pas dépasser la valeur absolue de 3 dioptries pour le méridien le plus réfringent ; la différence de réfraction entre les deux yeux ne doit pas dépasser 3 dioptries.
 
-Norme de niveau 1 :
-
-L'acuité visuelle de loin, mesurée à l'aide des optotypes de Landolt ou d'optotypes similaires examinés à 5 mètres sous une brillance de 10 nits, doit être de 10/10 pour chacun des deux yeux. Après instillation d'un cycloplégique, la réfraction mesurée à l'aide de la skiaskopie ne doit pas montrer de trouble de la réfraction supérieur à 1 dioptrie en myopie et 2 dioptries en hypermétropie ; en cas d'astigmatisme, cette norme est applicable sur le méridien le plus amétrope.
-
-Norme de niveau 2 :
-
-L'acuité visuelle de loin, mesurée à l'aide des optotypes de Landolt ou d'optotypes similaires examinés à 5 mètres sous une brillance de 10 nits, doit être de 10/10 pour chacun des deux yeux, éventuellement à l'aide de verres correcteurs en cas d'amétropie ; dans ce dernier cas, la réfraction mesurée par skiascopie, éventuellement après cycloplégie, ne doit pas dépasser la valeur absolue de 3 dioptries pour le méridien le plus réfringent ; la différence de réfraction entre les deux yeux ne doit pas dépasser 3 dioptries.
-
-4.3. Caractéristiques fonctionnelles communes
-
-de l'appareil visuel
+4.3. Caractéristiques fonctionnelles communes de l'appareil visuel
 
 Au cours des examens révisionnels ou en cours de carrière, l'acuité visuelle minimale doit être égale à 7/10 pour chacun des deux yeux, avec correction optique si nécessaire, et d'au moins 10/10 en vision binoculaire, avec correction optique si nécessaire. Les exigences de réfraction sont les mêmes qu'à l'admission.
 
