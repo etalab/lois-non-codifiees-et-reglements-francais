@@ -13,6 +13,7 @@
 - [Arrêté du 14 mars 1964](arrete-du-14-mars-1964)
 - [Arrêté du 15 septembre 1964](arrete-du-15-septembre-1964)
 - [Arrêté du 17 juillet 1964](arrete-du-17-juillet-1964)
+- [Arrêté du 19 octobre 1964](arrete-du-19-octobre-1964)
 - [Arrêté du 20 juin 1964](arrete-du-20-juin-1964)
 - [Arrêté du 20 septembre 1963](arrete-du-20-septembre-1963)
 - [Arrêté du 21 mai 1964](arrete-du-21-mai-1964)
