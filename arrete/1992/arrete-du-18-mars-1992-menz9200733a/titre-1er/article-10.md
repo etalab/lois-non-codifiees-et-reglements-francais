@@ -1,6 +1,6 @@
 # Article 10
 
-Il est institué une commission pédagogique nationale des études médicales chargée de donner son avis notamment sur l'élaboration et la révision régulière des programmes des enseignements prévus à l'article 8 du présent arrêté.
+Il est institué une commission pédagogique nationale des études médicales chargée de donner son avis notamment sur l'élaboration et la révision régulière des programmes des enseignements prévus à l'article 8 du présent arrêté ainsi qu'à l'article 3 de l'arrêté du 4 mars 1997 relatif à la deuxième partie du deuxième cycle des études médicales.
 
 La commission pédagogique nationale des études médicales comprend :
 
@@ -24,7 +24,7 @@ et vingt membres désignés conjointement par les ministres chargés de l'enseig
 
 1. trois directeurs d'unité de formation et de recherche de médecine et un directeur d'unité de formation et de recherche d'odontologie ;
 
-2. trois professeurs des universités, dont deux professeurs des universités - praticiens hospitaliers, et trois maîtres de conférence des universités, dont deux maîtres de conférence des universités - praticiens hospitaliers ;
+2. quatre professeurs des universités praticiens hospitaliers et quatre maîtres de conférences praticiens hospitaliers ;
 
 3. deux médecins généralistes participant à l'enseignement du troisième cycle de médecine générale, dont au moins un enseignant associé de médecine générale ;
 
@@ -32,7 +32,7 @@ et vingt membres désignés conjointement par les ministres chargés de l'enseig
 
 5. trois médecins n'exerçant pas en milieu hospitalier public, désignés sur proposition des organisations syndicales représentatives ;
 
-6. trois étudiants en médecine, dont un étudiant de troisième cycle, désignés sur proposition des organisations représentatives de ces étudiants.
+6. quatre étudiants en médecine, dont deux étudiants de troisième cycle, désignés sur proposition des organisations représentatives de ces étudiants.
 
 La commission élit en son sein un vice-président qui doit être choisi parmi les professeurs des universités - praticiens hospitaliers.
 
