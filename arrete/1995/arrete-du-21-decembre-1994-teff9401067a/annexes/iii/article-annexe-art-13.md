@@ -1,0 +1,5 @@
+# Article Annexe art. 13
+
+Les dispositions pédagogiques fixées à l'annexe II définissent la durée totale de chacune des formations assurées, la distribution des heures d'enseignement par matière et par année dans le cadre des dispositions de la réglementation applicable aux diplômes ou autres titres considérés, ainsi que les modalités de validation des diplômes ou titres. Elles tiennent compte également des recommandations formulées dans les conventions de coopération conclues entre le ministère de l'éducation nationale ou le ministère de l'agriculture et les organismes professionnels.
+
+Lorsque des apprentis bénéficient d'un contrat à durée réduite ou allongée après évaluation de leurs compétences, le directeur du C.F.A., en liaison avec l'équipe pédagogique, peut organiser, après avis du S.A.I.A. ou du D.R.A.F., des parcours individualisés de formation. Les modalités de cet enseignement particulier établies selon le modèle proposé à l'annexe II seront fournies chaque année au ministère intéressé avant le début de la formation en C.F.A.

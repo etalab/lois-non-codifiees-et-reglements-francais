@@ -1,0 +1,3 @@
+# Article Annexe art. 9
+
+Le centre doit être organisé de manière à constituer, sur le plan fonctionnel, une unité administrative et pédagogique indépendante. Il est placé sous l'autorité d'un directeur nommé par l'organisme gestionnaire dans les conditions prévues par les articles R. 116-27 et R. 116-29 du code du travail. Ce directeur est responsable de l'activité pédagogique et administrative du centre, y compris dans le cadre des conventions citées aux articles 5 et 6 ci-dessus, sous réserve des pouvoirs d'ordre administratif et financier appartenant à l'organisme gestionnaire et qui sont précisés à l'annexe I bis de la convention.
