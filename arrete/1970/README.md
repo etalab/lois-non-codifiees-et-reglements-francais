@@ -18,6 +18,7 @@
 - [Arrêté du 10 mars 1970](arrete-du-10-mars-1970)
 - [Arrêté du 10 septembre 1970](arrete-du-10-septembre-1970)
 - [Arrêté du 11 août 1970](arrete-du-11-aout-1970)
+- [Arrêté du 11 décembre 1970](arrete-du-11-decembre-1970)
 - [Arrêté du 11 septembre 1970](arrete-du-11-septembre-1970)
 - [Arrêté du 11 mai 1970](arrete-du-11-mai-1970)
 - [Arrêté du 12 juin 1970](arrete-du-12-juin-1970)
