@@ -1,5 +1,0 @@
-# Article Annexe, 11
-
-La transmission des titres, obligatoirement nominatifs, ne peut s'opérer, à l'égard de la société et des tiers, que par une déclaration de transfert, signée et transcrite sur les registres de la société conformément aux prescriptions légales et réglementaires.    Les titres sur lesquels les versements échus ont été effectués sont seuls admis au transfert.
-
-Sous réserve des dispositions en vigueur sur la dématérialisation des titres, l'actionnaire doit, en cas de perte ou de vol de son titre nominatif, en aviser la société par lettre recommandée. Cette notification vaut opposition. Lorsqu'il aura justifié de ses droits et après l'expiration d'un délai de trois mois, l'actionnaire dépossédé pourra demander à être inscrit en compte pour les droits lui revenant. Il devra prendre l'engagement de restituer le titre perdu s'il venait à être retrouvé ainsi que celui de prendre en charge toutes les conséquences de la présentation du titre original par un tiers de bonne foi. Il pourra alors toucher les dividendes en suspens, le cas échéant. Tous les frais de cette procédure seront à sa charge.
