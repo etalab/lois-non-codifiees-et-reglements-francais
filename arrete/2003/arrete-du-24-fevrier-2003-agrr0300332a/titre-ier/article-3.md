@@ -1,0 +1,3 @@
+# Article 3
+
+La partie pratique, d'une durée de dix heures minimum, comprend une formation sur les règles générales relatives à l'implantation d'un transpondeur avec, notamment, la présentation de l'anatomie de l'encolure d'un équidé, les modalités pratiques d'implantation (notamment règles d'asepsie et zones d'implantation), la réalisation du rapport d'intervention. Cette partie est complétée par des exercices pratiques comprenant la pose effective de transpondeur et la mise en situation de l'agent selon différents cas (animal sans signalement préalable, animal déjà identifié, animal présenté avec des documents manquants ou non conformes).

@@ -4,7 +4,7 @@ Orientations générales
 
 La formation doit conduire à l'acquisition des connaissances pratiques permettant au chasseur à l'arc de manipuler et d'utiliser un arc de chasse dans les conditions de sécurité optimales.
 
-Contenu (durée : 1/2 journée).
+Contenu (durée : 1 journée).
 
 I. - Théorie
 
@@ -62,7 +62,7 @@ Pour soi-même :
 
 Pour les autres :
 
-- ne jamais tirer en l'air avec une flèche équipée d'une pointe à lames et n'employer dans ce cas que des flèches à large empennage équipées uniquement de pointes du type assommoir ;
+- ne jamais tirer en l'air avec une flèche équipée d'une pointe à lames et n'employer dans ce cas que des flèches à large empennage équipées uniquement de pointes du type assomoir ;
 
 - ne tirer que sur un animal clairement identifié et en tir fichant avec une flèche équipée d'une pointe à lames ;
 

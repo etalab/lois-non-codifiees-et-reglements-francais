@@ -1,0 +1,3 @@
+# Article 7
+
+Tout fonctionnaire ou agent contractuel de l'établissement public "Les Haras nationaux" peut bénéficier d'une reconnaissance de son expérience professionnelle. Il doit en faire la demande auprès du ministre chargé de l'agriculture (direction de l'espace rural et de la forêt). Cette demande est accompagnée de tous éléments de nature à permettre de vérifier le niveau de formation, la nature et la durée de l'activité professionnelle du demandeur. Au vu de ces éléments, et après avis de la Commission nationale d'identification électronique des équidés, il peut être dispensé de la formation spécifique. Le ministre lui délivre alors l'attestation de capacité définie par le présent titre.

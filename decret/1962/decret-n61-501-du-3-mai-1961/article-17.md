@@ -2,4 +2,4 @@
 
 Le présent décret est applicable dans les départements algériens, dans ceux des Oasis et de la Saoura, dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion.
 
-Il est applicable dans les territoires d'outre-mer.
+Le présent décret est applicable en Nouvelle-Calédonie, en Polynésie française, à Wallis-et-Futuna, dans les Terres australes et antarctiques et à Mayotte.

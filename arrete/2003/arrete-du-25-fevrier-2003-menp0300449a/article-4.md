@@ -1,0 +1,5 @@
+# Article 4
+
+Lorsque la demande est présentée au titre de l'établissement, le président ou le directeur de l'établissement la transmet, avec son avis, au conseil scientifique de l'établissement ou à l'organe qui en tient lieu. Ce conseil examine les demandes et propose les candidatures, fixe la durée du congé dont la durée est égale au plus à douze mois et en définit les modalités. Le congé peut être fractionné en périodes inégales et réparti sur plusieurs années dans la limite de six ans.
+
+Lorsque la demande est présentée au titre de l'une des sections du Conseil national des universités, le président ou le directeur de l'établissement la transmet, avec son avis, au ministre chargé de l'enseignement supérieur. Celui-ci saisit la section compétente du Conseil national des universités, qui propose les candidatures retenues ainsi que la durée des congés proposés dans la limite des possibilités qui ont été notifiées à la section. Cette durée est de six ou douze mois et ne peut pas être fractionnée.
