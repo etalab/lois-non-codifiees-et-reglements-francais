@@ -8,7 +8,6 @@
 - [Article 2 quinquies](article-2-quinquies.md)
 - [Article 2 sexies](article-2-sexies.md)
 - [Article 2 septies](article-2-septies.md)
-- [Article 2 octies](article-2-octies.md)
 - [Article 3](article-3.md)
 - [Article 3 bis](article-3-bis.md)
 - [Article 4](article-4.md)
