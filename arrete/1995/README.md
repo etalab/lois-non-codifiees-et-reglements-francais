@@ -765,7 +765,6 @@
 - [Arrêté du 19 janvier 1995 (ECOT9510230A)](arrete-du-19-janvier-1995-ecot9510230a)
 - [Arrêté du 19 janvier 1995 (INDP9500067A)](arrete-du-19-janvier-1995-indp9500067a)
 - [Arrêté du 19 janvier 1995 (INDP9500068A)](arrete-du-19-janvier-1995-indp9500068a)
-- [Arrêté du 19 janvier 1995 (SANP9500372A)](arrete-du-19-janvier-1995-sanp9500372a)
 - [Arrêté du 19 janvier 1995 (SPSP9500290A)](arrete-du-19-janvier-1995-spsp9500290a)
 - [Arrêté du 19 juillet 1995 (DEFA9501919A)](arrete-du-19-juillet-1995-defa9501919a)
 - [Arrêté du 19 juillet 1995 (DEFD9501831A)](arrete-du-19-juillet-1995-defd9501831a)
