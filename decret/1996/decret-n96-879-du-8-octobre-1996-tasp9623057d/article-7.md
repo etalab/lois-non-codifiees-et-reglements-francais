@@ -1,6 +1,6 @@
 # Article 7
 
-Pour la mise en oeuvre de traitements prescrits par le médecin, le masseur-kinésithérapeute est habilité à utiliser les techniques et à réaliser les actes suivants :
+Pour la mise en oeuvre des traitements mentionnés à l'article 5, le masseur-kinésithérapeute est habilité à utiliser les techniques et à réaliser les actes suivants :
 
 a) Massages, notamment le drainage lymphatique manuel ;
 

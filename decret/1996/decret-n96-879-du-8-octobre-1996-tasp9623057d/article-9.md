@@ -6,7 +6,7 @@ a) A prendre la pression artérielle et les pulsations ;
 
 b) Au cours d'une rééducation respiratoire :
 
-- à pratiquer les aspirations rhinopharyngées ;
+- à pratiquer les aspirations rhinopharyngées et les aspirations trachéales chez un malade trachéotomisé ou intubé ;
 
 - à administrer en aérosols, préalablement à l'application de techniques de désencombrement ou en accompagnement de celle-ci, des produits non médicamenteux ou des produits médicamenteux prescrits par le médecin ;
 
