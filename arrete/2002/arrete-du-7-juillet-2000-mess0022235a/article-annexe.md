@@ -73,7 +73,7 @@ LISTE DES PORTS SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPE
 <p>Rouen</p>
 </td>
 <td valign="top" width="378">
-<p align="center">De 1960 à 1974</p>
+<p align="center">De 1960 à 1988</p>
 </td>
 </tr>
 <tr>

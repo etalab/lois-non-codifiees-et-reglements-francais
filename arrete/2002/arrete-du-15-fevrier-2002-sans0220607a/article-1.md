@@ -38,4 +38,8 @@ Les pharmaciens ne peuvent conseiller, dispenser et vendre dans leur officine qu
 
 18° Les produits et appareils de désinfection, de désinsectisation et de dératisation, ainsi que les produits phytosanitaires ;
 
-19° Les supports d'information relatifs à la prévention, à l'éducation pour la santé et au bon usage du médicament.
+19° Les supports d'information relatifs à la prévention, à l'éducation pour la santé et au bon usage du médicament ;
+
+20° Les équipements de protection individuelle de protection solaire ;
+
+21° Les équipements de protection individuelle d'acoustique adaptés au conduit auditif.
