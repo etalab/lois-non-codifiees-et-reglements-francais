@@ -23,7 +23,6 @@
 - [Décret n°62-273 du 12 mars 1962](decret-n62-273-du-12-mars-1962)
 - [Décret n°62-274 du 12 mars 1962](decret-n62-274-du-12-mars-1962)
 - [Décret n°62-275 du 12 mars 1962](decret-n62-275-du-12-mars-1962)
-- [Décret n°62-511 du 13 avril 1962](decret-n62-511-du-13-avril-1962)
 - [Décret n°62-795 du 13 juillet 1962](decret-n62-795-du-13-juillet-1962)
 - [Décret n°62-975 du 13 août 1962](decret-n62-975-du-13-aout-1962)
 - [Décret n° 62-1085 du 14 septembre 1962](decret-n-62-1085-du-14-septembre-1962)
