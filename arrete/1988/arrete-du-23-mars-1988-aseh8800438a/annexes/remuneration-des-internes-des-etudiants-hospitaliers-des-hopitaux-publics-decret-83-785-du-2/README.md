@@ -1,0 +1,3 @@
+# REMUNERATION DES INTERNES, DES ETUDIANTS HOSPITALIERS DES HOPITAUX PUBLICS (Décret n° 83-785 du 2 septembre 1983).
+
+- [Article ANNEXE VII](article-annexe-vii.md)
