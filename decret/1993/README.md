@@ -38,6 +38,7 @@
 - [Décret n°93-281 du 3 mars 1993 (TEFF9300192D)](decret-n93-281-du-3-mars-1993-teff9300192d)
 - [Décret n°93-282 du 3 mars 1993 (TEFF9300211D)](decret-n93-282-du-3-mars-1993-teff9300211d)
 - [Décret n°93-291 du 3 mars 1993 (SPSN9300153D)](decret-n93-291-du-3-mars-1993-spsn9300153d)
+- [Décret n°93-835 du 3 juin 1993 (SPSS9301247D)](decret-n93-835-du-3-juin-1993-spss9301247d)
 - [Décret n°92-494 du 4 juin 1992 (EQUS9200379D)](decret-n92-494-du-4-juin-1992-equs9200379d)
 - [Décret n°93-10 du 4 janvier 1993 (BUDF9200061D)](decret-n93-10-du-4-janvier-1993-budf9200061d)
 - [Décret n°93-11 du 4 janvier 1993 (BUDF9200051D)](decret-n93-11-du-4-janvier-1993-budf9200051d)
