@@ -1027,7 +1027,6 @@
 - [Arrêté du 28 décembre 1992 (ENEG9201013A)](arrete-du-28-decembre-1992-eneg9201013a)
 - [Arrêté du 28 décembre 1992 (MENB9200507A)](arrete-du-28-decembre-1992-menb9200507a)
 - [Arrêté du 28 décembre 1992 (PTTR9200688A)](arrete-du-28-decembre-1992-pttr9200688a)
-- [Arrêté du 28 décembre 1992 (SANP9300006A)](arrete-du-28-decembre-1992-sanp9300006a)
 - [Arrêté du 28 décembre 1992 (SPSS9203280A)](arrete-du-28-decembre-1992-spss9203280a)
 - [Arrêté du 28 décembre 1992 (SPSS9203346A)](arrete-du-28-decembre-1992-spss9203346a)
 - [Arrêté du 28 décembre 1992 (SPSS9203347A)](arrete-du-28-decembre-1992-spss9203347a)
