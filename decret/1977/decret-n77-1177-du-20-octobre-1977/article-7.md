@@ -1,3 +1,3 @@
 # Article 7
 
-Le ministre de l'intérieur et le secrétaire d'Etat à la jeunesse et aux sports sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui prendra effet au 1er novembre 1977 et sera publié au Journal officiel de la République française.
+Les personnes qui exploitent un établissement mentionné à l'article 3 du décret du 20 octobre 1977 et celles qui assurent la surveillance de ces établissements à la date de publication du présent décret sont tenues de compléter ou d'effectuer les déclarations prévues par les décrets des 21 septembre 1989 et 20 octobre 1977 dans les six mois suivant cette publication.
