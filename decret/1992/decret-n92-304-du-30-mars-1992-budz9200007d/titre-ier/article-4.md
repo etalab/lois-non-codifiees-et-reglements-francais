@@ -1,6 +1,6 @@
 # Article 4
 
-Tout locataire d'un appareil récepteur de télévision doit s'acquitter de la redevance soit annuellement conformément aux dispositions de l'article 17 du présent décret, soit pour la durée de location, entre les mains du commerçant bailleur.
+Tout locataire d'un appareil récepteur de télévision doit s'acquitter de la redevance soit annuellement, en un seul versement ou par paiement fractionné conformément aux dispositions de l'article 17 du présent décret, soit pour la durée de location, entre les mains du commerçant bailleur.
 
 Dans ce dernier cas, la redevance exigible est égale, pour une période de sept jours ou moins de location, à 1/26e de la redevance annuelle arrondi au franc inférieur.
 
