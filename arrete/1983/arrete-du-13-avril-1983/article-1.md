@@ -1,0 +1,3 @@
+# Article 1
+
+Il est ouvert, à titre expérimental et pour une durée de deux ans reconductible, un service de diffusion par téléphone dénommé Audiphone. Ce service permet à plusieurs usagers d'appeler simultanément, et à l'aide d'une installation téléphonique ordinaire, un dispositif d'émission agréé à cet effet par l'administration des P.T.T.. Un équipement de diffusion placé dans un central téléphonique public amplifie et démultiplie la modulation du dispositif d'émission. La mise à la disposition des abonnés Audiphone de ces équipements est l'objet de la tarification décrite aux articles 2 à 5.

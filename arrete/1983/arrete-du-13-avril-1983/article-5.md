@@ -1,0 +1,3 @@
+# Article 5
+
+Un abonnement exceptionnel peut être souscrit pour une durée inférieure à quinze jours. Il donne lieu au paiement d'une redevance quotidienne de 200 F par bloc indivisible de trente-deux voies. Dans les cas autres que l'extension exceptionnelle de la capacité d'un abonnement existant, s'ajoute à cette redevance une taxe quotidienne égale à deux trentièmes de la redevance mensuelle de location-entretien d'une liaison spécialisée établie entre l'émetteur et le central public de diffusion ainsi que les frais d'établissement d'une telle liaison selon les tarifs prévus par les décrets de taxe.
