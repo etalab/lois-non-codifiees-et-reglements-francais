@@ -1,6 +1,6 @@
 # Article 4
 
-Jusqu'au 31 décembre 1995 :
+Jusqu'au 31 mars 1996 :
 
 1. Le chèque-service ne peut être utilisé que pour rémunérer les prestations de travail dont la durée hebdomadaire est au plus de huit heures ou qui sont exécutées dans le cadre d'un contrat à durée déterminée dont la durée n'excède pas un mois et qui entrent dans le champ de la réduction d'impôt prévue à l'article 199 sexdecies du code général des impôts.
 
