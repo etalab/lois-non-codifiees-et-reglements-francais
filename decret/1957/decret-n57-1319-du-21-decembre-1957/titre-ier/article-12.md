@@ -1,13 +1,15 @@
 # Article 12
 
-Les préposés conducteurs sont recrutés parmi les préposés (titulaires ou stagiaires) et les préposés spécialisés remplissant, les uns et les autres, les conditions ci-après :
+Les préposés conducteurs sont recrutés parmi les préposés titulaires ou stagiaires remplissant les conditions ci-après :
 
-1° N'avoir pas dépassé l'âge de quarante-cinq ans ;
+1° Etre titulaire du ou des permis de conduire exigés par le code de la route pour la conduite des divers types de véhicules automobiles pouvant être utilisés dans l'exécution du service qui leur sera-confié ;
 
-2° Etre titulaire des permis de conduire des catégories B (tourisme), C (poids lourds) et D (transports en commun) ;
+2° Posséder l'aptitude physique spéciale fixée par l'arrêté ministériel conjoint pris en exécution des dispositions de l'article 15 du décret n° 59-310 du 14 février 1959 relatif aux conditions d'aptitude physique pour l'admission aux emplois publics, à l'organisation des comités médicaux et au régime des congés des fonctionnaires ;
 
-3° Posséder l'aptitude physique spéciale fixée par arrêté pris en exécution des dispositions de l'article 11 du décret du 5 août 1947 modifié portant règlement d'administration publique pour l'application de l'article 90 de la loi du 19 octobre 1946 susvisée ;
+3° Avoir obtenu le ou les certificats réglementaires d'aptitude à la conduite et à l'entretien d'un véhicule automobile des postes et télécommunications.
 
-4° Avoir obtenu les certificats réglementaires d'aptitude à la conduite et à l'entretien d'un véhicule automobile.
+En cas d'insuffisance numérique de ce recrutement, les préposés conducteurs peuvent également être recrutés :
 
-En cas d'insuffisance numérique de ce recrutement, les préposés conducteurs peuvent également être recrutés parmi les postulants reçus au concours de préposé, remplissant les contions énumérées aux alinéas 1°, 2° et 3° ci-dessus et ayant satisfait à un examen psychotechnique.
+a) Parmi ceux qui, étant reçus à un concours de préposés et non encore nommés, remplissent les conditions prévues aux 1° et 2° ci-dessus ;
+
+b) Par concours ouvert aux candidats âgés de dix-sept ans au moins et de moins de quarante-cinq ans et remplissant les conditions prévues aux 1° et 2° ci-dessus. Toutefois, les candidats qui ne possèdent pas le ou les permis requis peuvent être admis à concourir ; ils ne peuvent être nommés que s'ils les obtiennent dans les deux ans qui suivent leur succès au concours ; ils prennent rang du jour de leur nomination. Ceux qui n'obtiennent pas ce ou ces permis dans le délai prescrit peuvent, sur leur demande, être nommés préposés.

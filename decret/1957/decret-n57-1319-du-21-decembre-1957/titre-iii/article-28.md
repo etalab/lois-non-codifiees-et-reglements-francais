@@ -1,17 +1,13 @@
 # Article 28
 
-1° Par voie de concours ouverts aux fonctionnaires âgés de quarante-cinq ans au plus et titulaires de l'un des grades ci-après :
+1° Par concours ouvert :
 
-Préposé spécialisé, préposé conducteur et préposé chef comptant au moins un an d'ancienneté au 5e échelon ;
+a) Aux fonctionnaires du corps des préposés et du corps des agents d'exploitation des branches "services de la distribution et de l'acheminement" et "recettes-distribution", comptant au moins sept ans de services effectifs en qualité de titulaire ou de stagiaire ;
 
-Agent d'exploitation des branches Services de la distribution et de l'acheminement et Recettes distribution en possession au moins du 4e échelon ;
+b) Aux conducteurs de travaux de la distribution et de l'acheminement comptant au moins cinq ans de services effectifs en qualité de titulaire ou de stagiaire.
 
-Agent d'administration principal des branches Services de la distribution et de l'acheminement et Recettes distribution ;
+Les services militaires obligatoires ou le temps accompli au titre du service national actif viennent, le cas échéant, en déduction de l'ancienneté exigée aux a et b ci-dessus.
 
-Conducteur de la distribution appartenant au moins au 3e échelon ;
+Les candidats doivent, en outre, être âgés de moins de quarante-cinq ans et compter au moins deux ans de services effectifs au service de la distribution.
 
-Conducteur principal de la distribution.
-
-Tous les candidats doivent réunir au moins deux ans de services effectifs au service de la distribution.
-
-2° Par voie d'inscription au tableau d'avancement précédée d'un examen professionnel et dans la limite du dixième du nombre des vacances à pourvoir, parmi les conducteurs de la distribution en possession au moins du sixième échelon ainsi que les conducteurs principaux de la distribution en possession au moins du quatrième échelon, les uns et les autres devant en outre être âgés de quarante-cinq ans au moins et de cinquante ans au plus.
+2° Par voie d'inscription au tableau d'avancement précédée d'un examen professionnel et dans la limite du dixième du nombre des vacances à pourvoir, parmi les conducteurs de la distribution en possession au moins du sixième échelon ainsi que les conducteurs de travaux de la distribution et de l'acheminement ayant atteint au moins le septième échelon. Ces candidats, doivent être âgés de quarante-cinq ans au moins et de moins de cinquante ans et compter deux ans au moins de services effectifs au service de la distribution.

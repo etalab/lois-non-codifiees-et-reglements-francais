@@ -6,9 +6,9 @@ Ils assurent le payement des mandats, la présentation et l'encaissement des eff
 
 Ils peuvent être appelés au tri des correspondances de départ.
 
-Ils servent d'intermédiaire entre les usagers et leur bureau d'attache pour les opérations postales, télégraphiques, téléphoniques et financières dans la limite et selon les modalités fixées par l'administration.
+Ils peuvent effectuer directement auprès des usagers ou, en qualité d'intermédiaire entre ceux-ci et le bureau d'attache, diverses opérations postales, financières ou de télécommunications.
 
-Ils effectuent le relevage, le redressage et le timbrage des correspondances ainsi que les travaux d'ordre intérieur.
+Ils effectuent le relevage, le redressage et le timbrage des correspondances, ainsi que des travaux d'ordre intérieur relatifs aux opérations de départ et d'arrivée du courrier.
 
 Les préposés assurent la manipulation, l'échange, le transbordement et, éventuellement, de l'acheminement. Ils participent, à ce titre, à la conduite et au petit entretien des véhicules du transbordement.
 
