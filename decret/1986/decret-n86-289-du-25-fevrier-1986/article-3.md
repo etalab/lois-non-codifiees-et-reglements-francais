@@ -1,0 +1,3 @@
+# Article 3
+
+Les conditions dans lesquelles sont déterminés les taux moyens, les attributions individuelles et le montant des crédits nécessaires au paiement de la prime de participation à la recherche scientifique sont déterminées par arrêté conjoint du ministre de l'économie, des finances et du budget, du ministre de la recherche et de la technologie, du ministre de l'urbanisme, du logement et des transports, du secrétaire d'Etat auprès du Premier  ministre, chargé de la fonction publique et des simplifications administratives, et du secrétaire d'etat auprès du ministre de l'urbanisme, du logement et des transports, chargé de la mer.
