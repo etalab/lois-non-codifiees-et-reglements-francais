@@ -303,7 +303,6 @@
 - [Décret n°87-778 du 22 septembre 1987 (PTTA8700118D)](decret-n87-778-du-22-septembre-1987-ptta8700118d)
 - [Décret n°87-854 du 22 octobre 1987 (ECOC8700098D)](decret-n87-854-du-22-octobre-1987-ecoc8700098d)
 - [Décret n°87-857 du 22 octobre 1987 (ASET8703698D)](decret-n87-857-du-22-octobre-1987-aset8703698d)
-- [Décret n°88-407 du 22 avril 1988 (FPPX8800037D)](decret-n88-407-du-22-avril-1988-fppx8800037d)
 - [Décret n°87-348 du 22 mai 1987 (MCCK8700229D)](decret-n87-348-du-22-mai-1987-mcck8700229d)
 - [Décret n°87-349 du 22 mai 1987 (MAEJ87300250)](decret-n87-349-du-22-mai-1987-maej87300250)
 - [Décret du 23 décembre 1987 (AGRR8702268D)](decret-du-23-decembre-1987-agrr8702268d)
