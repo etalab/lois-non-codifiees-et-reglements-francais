@@ -24,7 +24,7 @@ L'indemnité forfaitaire pour travaux supplémentaires prévue à l'article pré
 <td> :  applicable dans les communes de 2.000   :                :</td>
 </tr>
 <tr>
-<td> :  à 5.000 habitants (1)                   :     2.309      :</td>
+<td> :  à 5.000 habitants (1)                   :     2.436      :</td>
 </tr>
 <tr>
 <td> : Où l'emploi de secrétaire de mairie      :                :</td>
@@ -33,7 +33,7 @@ L'indemnité forfaitaire pour travaux supplémentaires prévue à l'article pré
 <td> :  est doté de l'échelle indiciaire        :                :</td>
 </tr>
 <tr>
-<td> :  brute 267/453 (1)                       :     2.147      :</td>
+<td> :  brute 267/453 (1)                       :     2.265      :</td>
 </tr>
 </table>
 

@@ -20,22 +20,22 @@ Ces indemnités sont attribuées dans la double limite : 1° d'un crédit budgé
 <td> : Directeur de services        :               :              :</td>
 </tr>
 <tr>
-<td> :   administratifs             :    4.239      :    8.478     :</td>
+<td> :   administratifs             :    4.472      :    8.944     :</td>
 </tr>
 <tr>
-<td> : Attaché communal principal   :    3.618      :    7.236     :</td>
-</tr>
-<tr>
-<td> : Attaché communal de          :               :              :</td>
-</tr>
-<tr>
-<td> :   1re classe                 :    3.448      :    6.896     :</td>
+<td> : Attaché communal principal   :    3.817      :    7.634     :</td>
 </tr>
 <tr>
 <td> : Attaché communal de          :               :              :</td>
 </tr>
 <tr>
-<td> :   2e classe (1)              :    2.998      :    5.996     :</td>
+<td> :   1re classe                 :    3.638      :    7.276     :</td>
+</tr>
+<tr>
+<td> : Attaché communal de          :               :              :</td>
+</tr>
+<tr>
+<td> :   2e classe (1)              :    3.163      :    6.326     :</td>
 </tr>
 <tr>
 <td> : Chef de bureau (1)           :      "        :      "       :</td>
@@ -44,13 +44,10 @@ Ces indemnités sont attribuées dans la double limite : 1° d'un crédit budgé
 <td> : Rédacteur chef (1)           :      "        :      "       :</td>
 </tr>
 <tr>
-<td> : Sous-chef de bureau (1)      :    2.219      :    4.438     :</td>
+<td> : Sous-chef de bureau (1)      :    2.341      :    4.682     :</td>
 </tr>
 <tr>
 <td> : Rédacteur principal          :      "        :      "       :</td>
-</tr>
-<tr>
-<td> : Rédacteur (1)                :      "        :      "       :</td>
 </tr>
 <tr>
 <td> : Sous-archiviste principal    :      "        :      "       :</td>

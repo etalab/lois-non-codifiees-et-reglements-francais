@@ -1,6 +1,7 @@
 # Loi n° 76-1232 du 29 décembre 1976 DE FINANCES POUR 1977
 
 - [Article 22 VII](article-22-vii.md)
+- [Article 54](article-54.md)
 - [AMENDES FISCALES](amendes-fiscales)
 - [IMPOSITIONS PERCUES AU PROFIT DES COLLECTIVITES LOCALES](impositions-percues-au)
 - [CONTRIBUTIONS INDIRECTES](contributions-indirectes)

@@ -2,7 +2,7 @@
 
 Le financement de l'aide est assuré par deux taxes ayant le caractère de contributions sociales et perçues annuellement :
 
-1° Une taxe d'entraide, constituée par une fraction de la contribution sociale de solidarité instituée par l'ordonnance n° 67-828 du 23 septembre 1967, complétée par la loi n° 70-13 du 3 janvier 1970 et la loi n° 72-554 du 3 juillet 1972 portant réforme de l'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales. Le taux de cette taxe, fixé par décret, ne peut excéder 0,3 pour mille.
+1° Une taxe d'entraide, constituée par une fraction de la contribution sociale de solidarité instituée par l'ordonnance n° 67-828 du 23 septembre 1967, complétée par la loi n° 70-13 du 3 janvier 1970 et la loi n° 72-554 du 3 juillet 1972 portant réforme de l'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales. Le taux de cette taxe, fixé par décret, ne peut excéder 0,005 %.
 
 La taxe d'entraide s'applique également aux entreprises réalisant un chiffre d'affaires supérieur à 500.000 F dont le chef est affilié à l'une des organisations autonomes visées au titre 1er du livre VIII du Code de la sécurité sociale et intéressant les industriels, commerçants et artisans ;
 
