@@ -6,17 +6,7 @@ Outre les pouvoirs énumérés à l'article 1er du présent arrêté, les pouvoi
 
 Mise en disponibilité (dans les cas prévus aux articles 43, 44, 45, 46 et 47 du décret du 16 septembre 1985 susvisé) :
 
-- avancement d'échelon ;
-
-- autorisation de travailler à temps partiel, à l'exception des conseillers d'administration scolaire et universitaire et des intendants universitaires exerçant les fonctions d'agent comptable ;
-
-- mise en cessation progressive d'activité.
-
-2. S'agissant des personnels de direction d'établissement d'enseignement ou de formation et des inspecteurs de l'éducation nationale :
-
-- classement après recrutement par voie de concours ;
-
-- classement après nomination consécutive à une inscription sur liste d'aptitude ou tableau d'avancement.
+2. (alinéa supprimé)
 
 3. S'agissant des personnels de direction d'établissement d'enseignement ou de formation, des conseillers d'administration scolaire et universitaire et des intendants universitaires :
 
