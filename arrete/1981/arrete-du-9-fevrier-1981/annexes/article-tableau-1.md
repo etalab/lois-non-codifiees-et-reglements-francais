@@ -39,14 +39,6 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Ecole nationale supérieure des ingénieurs des études et techniques d'armement</p>
-</td>
-<td valign="top" width="151">
-<p align="center">II</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
 <p>Ecole nationale supérieure des ingénieurs des constructions aéronautiques</p>
 </td>
 <td valign="top" width="151">
@@ -111,10 +103,10 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des ingénieurs de l'armement</p>
+<p>Cycles de formation des agents sur contrat de 1er, 2e et 3e catégorie B</p>
 </td>
 <td valign="top" width="151">
-<p align="center">I</p>
+<p align="center">III</p>
 </td>
 </tr>
 <tr>
@@ -191,10 +183,10 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des ingénieurs des études et techniques d'armement</p>
+<p>Cycles de formation des secrétares  administratifs</p>
 </td>
 <td valign="top" width="151">
-<p align="center">II</p>
+<p align="center">III</p>
 </td>
 </tr>
 <tr>
@@ -239,10 +231,10 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des agents supérieurs</p>
+<p>Cycles de formation des infirmiers et infirmières civiles de l'Etat</p>
 </td>
 <td valign="top" width="151">
-<p align="center">II</p>
+<p align="center">III</p>
 </td>
 </tr>
 <tr>
@@ -327,7 +319,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des agents techniques du service hydrographique et océanographique</p>
+<p>Cycles de formation des maîtres ouvriers</p>
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
@@ -503,10 +495,10 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des techniciens d'exécution et des agents de maîtrise spécialisés</p>
+<p>Cycles de formation des agents de service, agents civils de gardiennage de la marine</p>
 </td>
 <td valign="top" width="151">
-<p align="center">IV</p>
+<p align="center">V</p>
 </td>
 </tr>
 <tr>
@@ -527,10 +519,10 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des agents techniques du service de santé des armées</p>
+<p>Cycles de formation des ouvriers professionnels</p>
 </td>
 <td valign="top" width="151">
-<p align="center">IV</p>
+<p align="center">V</p>
 </td>
 </tr>
 <tr>
@@ -607,7 +599,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des agents de bureau</p>
+<p>Cycles de formation des ouvriers groupes III et IV</p>
 </td>
 <td valign="top" width="151">
 <p align="center">V</p>
@@ -632,14 +624,6 @@
 <tr>
 <td valign="top" width="454">
 <p>Cycles de formation des ouvriers professionnels des administrations centrales de l'Etat</p>
-</td>
-<td valign="top" width="151">
-<p align="center">V</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Cycles de formation des auxiliaires de bureau et de service</p>
 </td>
 <td valign="top" width="151">
 <p align="center">V</p>

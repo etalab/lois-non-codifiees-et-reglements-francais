@@ -247,10 +247,10 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation aux concours d'accès au corps des techniciens d'exécution</p>
+<p>Préparation pour l'avancement de groupe des ouvriers des professions non graphiques (groupes III et IV)</p>
 </td>
 <td valign="top" width="151">
-<p align="center">IV</p>
+<p align="center">V</p>
 </td>
 </tr>
 <tr>
@@ -267,6 +267,12 @@
 </td>
 <td valign="top" width="151">
 <p align="center">V</p>
+</td>
+</tr>
+<tr>
+<td> Préparation à l'examen professionnel pour la vérification d'aptitude aux fonctions de chef de projet</td>
+<td>
+<p align="center"> II</p>
 </td>
 </tr>
 </tbody>

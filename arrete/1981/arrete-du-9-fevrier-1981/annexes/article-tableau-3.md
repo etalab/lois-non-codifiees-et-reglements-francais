@@ -15,10 +15,10 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury du concours d'entrée dans le corps des ingénieurs de l'armement</p>
+<p>Jury pou l'avancement du groupe des ouvriers (Groupes III et IV)</p>
 </td>
 <td valign="top" width="151">
-<p align="center">I</p>
+<p align="center">V</p>
 </td>
 </tr>
 <tr>
@@ -48,14 +48,6 @@
 <tr>
 <td valign="top" width="454">
 <p>Jury d'examen professionnel pour le recrutement, au choix, dans le corps des ingénieurs des études et techniques des travaux maritimes</p>
-</td>
-<td valign="top" width="151">
-<p align="center">II</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury de sortie de l'école nationale supérieure des ingénieurs des études et techniques d'armement</p>
 </td>
 <td valign="top" width="151">
 <p align="center">II</p>
@@ -287,14 +279,6 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de concours pour l'admission directe à l'emploi d'agent technique du service hydrographique et océanographique</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
 <p>Jury de concours pour l'accès au corps des agents techniques de l'électronique</p>
 </td>
 <td valign="top" width="151">
@@ -311,14 +295,6 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury du concours d'entrée de l'école technique normale de l'armement</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
 <p>Jury de sortie de l'école de formation technique normale</p>
 </td>
 <td valign="top" width="151">
@@ -327,23 +303,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de l'examen probatoire des agents techniques principaux du service hydrographique et océanographique candidats au grade d'ingénieur des études et techniques des travaux maritimes</p>
-</td>
-<td valign="top" width="151">
-<p align="center">II</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
 <p>Jury de concours pour l'accès au corps des agents des transmissions et de l'électronique</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury de concours pour l'accès au corps des techniciens d'exécution</p>
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
@@ -447,14 +407,6 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de concours pour l'accès au corps des caserniers du génie</p>
-</td>
-<td valign="top" width="151">
-<p align="center">V</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
 <p>Jury d'examen professionnel pour la vérification d'aptitude aux fonctions de :</p>
 </td>
 <td valign="top" width="151">
@@ -507,6 +459,12 @@
 </td>
 <td valign="top" width="151">
 <p align="center">V</p>
+</td>
+</tr>
+<tr>
+<td> Jury d'examen professionnel pour la vérification d'aptitude aux fonctions de chef de projet</td>
+<td>
+<p align="center"> II</p>
 </td>
 </tr>
 </tbody>
