@@ -2,7 +2,7 @@
 
 Pour les fonds relevant de l'article L. 214-37 du code monétaire et financier :
 
-1. Les dispositions prévues aux deuxième et quatrième alinéas de l'article L. 214-4 du code monétaire et financier et aux 1 et 4 du II et au IV de l'article 10 ne sont pas opposables. Toutefois, les fonds doivent respecter les règles suivantes :
+1. Les dispositions prévues aux sixième et huitième alinéas de l'article L. 214-4 du code monétaire et financier et aux 1 et 4 du II et au V de l'article 10 ne sont pas opposables. Toutefois, les fonds doivent respecter les règles suivantes :
 
 a) L'actif du fonds ne peut être employé qu'à 50 % au plus en titres ou droits d'un même organisme de placement collectif en valeurs mobilières ou d'une même entité mentionnée au b du 2 de l'article L. 214-36 du code monétaire et financier ;
 

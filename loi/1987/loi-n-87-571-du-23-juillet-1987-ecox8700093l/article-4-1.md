@@ -1,0 +1,3 @@
+# Article 4-1
+
+Les associations et fondations reconnues d'utilité publique, les associations qui ont pour but exclusif l'assistance, la bienfaisance, la recherche scientifique ou médicale ainsi que tout organisme bénéficiaire de dons de personnes physiques ou morales ouvrant droit, au bénéfice des donateurs, à un avantage fiscal au titre de l'impôt sur le revenu ou de l'impôt sur les sociétés doivent assurer, dans des conditions déterminées par décret en Conseil d'Etat, la publicité par tous moyens et la certification de leurs comptes annuels au-dessus d'un montant de dons de 153 000 euros par an.

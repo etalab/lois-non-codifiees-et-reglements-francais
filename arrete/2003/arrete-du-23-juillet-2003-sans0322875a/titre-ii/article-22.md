@@ -1,0 +1,5 @@
+# Article 22
+
+Les bulletins de vote sont établis à la diligence et aux frais de la Caisse nationale d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles, de la Caisse nationale de l'organisation autonome d'assurance vieillesse des travailleurs non salariés des professions artisanales et de la Caisse nationale de l'organisation autonome d'assurance vieillesse des travailleurs non salariés des professions industrielles et commerciales, pour ce qui concerne les organismes dépendant de leur régime respectif. Elles les envoient aux électeurs.
+
+Ces bulletins comportent les noms et prénoms de tous les candidats par ordre alphabétique ainsi que, pour les représentants des agents de direction ou agents comptables, leurs fonctions et l'organisme dans lequel ils exercent et, pour les représentants des conseils d'administration, l'organisme dont ils sont administrateurs ainsi que la catégorie dont ils sont les représentants. Pour les deux collèges, il est mentionné, le cas échéant, l'organisation à laquelle le candidat appartient.

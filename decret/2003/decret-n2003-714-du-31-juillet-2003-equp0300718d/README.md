@@ -1,0 +1,3 @@
+# Décret n°2003-714 du 31 juillet 2003 modifiant le décret n° 2001-1145 du 3 décembre 2001 fixant les dispositions applicables aux personnels non titulaires de l'enseignement maritime et aquacole visés à l'article 133 de la loi de finances pour 2000 (n° 99-1172 du 30 décembre 1999) et le décret n° 2001-1146 du 3 décembre 2001 fixant les éléments de rémunération à prendre en considération pour la détermination de l'indemnité compensatrice susceptible d'être versée aux personnels titularisés en application de l'article 133 de la loi de finances pour 2000 (n° 99-1172 du 30 décembre 1999).
+
+- [Article 3](article-3.md)

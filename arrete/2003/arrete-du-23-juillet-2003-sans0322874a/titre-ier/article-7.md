@@ -1,0 +1,3 @@
+# Article 7
+
+Si elle ne se juge pas suffisamment éclairée sur les faits reprochés à l'intéressé ou les circonstances dans lesquelles ces faits ont été commis, la commission a la faculté d'ordonner un complément d'instruction, et notamment de prescrire une enquête qui peut être confiée soit à un fonctionnaire de la direction régionale des affaires sanitaires et sociales, soit à un membre de l'inspection générale des affaires sociales ; si l'agent en cause est un agent comptable, l'enquête peut également être confiée soit au trésorier-payeur général du département, soit à un membre de l'inspection générale des finances.

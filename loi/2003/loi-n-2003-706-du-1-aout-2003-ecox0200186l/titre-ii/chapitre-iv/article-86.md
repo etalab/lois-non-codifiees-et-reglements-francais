@@ -1,0 +1,3 @@
+# Article 86
+
+Le Fonds de garantie des assurances obligatoires de dommages, le Fonds de garantie des assurés contre la défaillance des sociétés d'assurance de personnes et le Fonds de garantie des dépôts peuvent exercer à l'encontre des dirigeants de droit ou de fait des établissements pour lesquels ils interviennent les actions en responsabilité visées par les dispositions du troisième alinéa des articles L. 421-9-4 et L. 423-5 du code des assurances et du second alinéa de l'article L. 312-6 du code monétaire et financier, même pour des faits antérieurs à la date d'entrée en vigueur des textes précités.

@@ -28,4 +28,8 @@ II. - L'application taxe d'habitation communique des informations aux applicatio
 
 7. Base nationale des particuliers (ADONIS) : données fiscales relatives aux locaux et aux occupants.
 
-III. - En outre, les organismes débiteurs du revenu minimum d'insertion et du Fonds national de solidarité communiquent chaque année la liste de leurs allocataires à la direction générale des impôts pour que celle-ci procède au dégrèvement d'office de la taxe d'habitation prévu pour ceux-ci.
+8. Fichier ACORE : désignation et numéro SPI de l'occupant du local ; locaux de propriétaires résidant à l'étranger.
+
+III. - En outre, les organismes débiteurs du revenu minimum d'insertion, de l'allocation aux adultes handicapés et de l'allocation supplémentaire mentionnée à l'article L. 815-2 ou à l'article L. 815-3 du code de la sécurité sociale communiquent chaque année la liste de leurs allocataires à la direction générale des impôts pour que celle-ci procède au dégrèvement d'office de la taxe d'habitation prévu pour ceux-ci.
+
+Lorsque le transfert est réalisé sur support informatique, le numéro d'identification au répertoire national d'identification des personnes physiques est communiqué par ces organismes afin de permettre l'identification des personnes dans le traitement "Simplification des procédures d'imposition. Cette information ne peut être conservée que dans le cadre de cette dernière application.

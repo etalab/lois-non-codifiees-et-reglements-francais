@@ -1,6 +1,6 @@
 # Article 16-1
 
-Le présent décret est applicable en Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte, à l'exception du quatrième alinéa de l'article 4, des articles 6 à 9, du deuxième alinéa du I de l'article 10, et sous réserve des adaptations suivantes :
+Le présent décret est applicable dans sa rédaction antérieure au décret n° 2003-1103 du 21 novembre 2003 en Nouvelle-Calédonie, dans les territoires d'outre-mer et à Mayotte, à l'exception du quatrième alinéa de l'article 4, des articles 6 à 9, du deuxième alinéa du I de l'article 10, et sous réserve des adaptations suivantes :
 
 - à l'article 1er, les mots : "aux fonds communs de placement d'entreprise" sont supprimés ;
 

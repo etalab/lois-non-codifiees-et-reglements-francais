@@ -14,7 +14,7 @@ Les avis du service central de prévention de la corruption prévus au troisièm
 
 6. Le président du Conseil de la concurrence ;
 
-7. Le président de la Commission des opérations de bourse ;
+7. Le président de l'Autorité des marchés financiers ;
 
 8. Le chef du service créé par l'article 5 de la loi du 12 juillet 1990 susvisée relative à la participation des organismes financiers à la lutte contre le blanchiment des capitaux provenant du trafic des stupéfiants ;
 
