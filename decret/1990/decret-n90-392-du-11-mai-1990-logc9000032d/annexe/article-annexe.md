@@ -178,7 +178,7 @@ Elle détermine le montant de la cotisation.
 
 En règle générale, elle se prononce sur les intérêts de l'association et prend toutes décisions autres que celles réservées à l'assemblée générale extraordinaire.
 
-Sous-section 3.-Assemblée générale extraordinaire
+Sous-section 3. - Assemblée générale extraordinaire
 
 Voix.
 
@@ -188,13 +188,15 @@ Quorum.
 
 Art....
 
-L'assemblée générale extraordinaire délibère valablement lorsque le tiers des membres de l'association sont présents.
+L'assemblée générale extraordinaire délibère valablement lorsque le tiers des membres de l'association sont présents, ceux-ci pouvant se faire représenter lorsque l'assemblée est convoquée à seule fin d'apporter aux statuts de l'association les addition et modification imposées par la modification de la réglementation en vigueur.
 
 Si ce n'est pas le cas, elle est reconvoquée dans les quinze jours suivant la première réunion. Elle délibère valablement quel que soit le nombre des membres présents.
 
 Majorité.
 
-Art....-L'assemblée générale extraordinaire statue à la majorité des deux tiers des membres présents.
+Art.... - L'assemblée générale extraordinaire statue à la majorité des deux tiers des membres présents.
+
+Elle statue à la majorité des deux tiers des membres présents ou représentés lorsqu'elle est convoquée à seule fin d'apporter aux statuts de l'association les addition et modification imposées par la modification de la réglementation en vigueur.
 
 Compétence.
 
