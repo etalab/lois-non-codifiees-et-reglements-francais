@@ -1,3 +1,3 @@
 # Article 41
 
-Nonobstant les dispositions des articles 39 et 40 ci-dessus, lorsque l'agent est l'objet de poursuites pénales en raison de la faute qui lui est reprochée, sa situation n'est définitivement réglée qu'après que la décision de justice le concernant est devenue définitive.
+Lorsque l'agent fait l'objet de poursuites pénales en raison de la faute qui lui est reprochée et que celle-ci a été effectivement constatée par l'inspection générale du Centre national pour l'aménagement des structures des exploitations agricoles, la commission consultative paritaire réunie en formation disciplinaire peut, à la majorité des membres présents, proposer de suspendre la procédure disciplinaire jusqu'à l'intervention de la décision du tribunal. Si, néanmoins, le directeur général décide de poursuivre cette procédure, la commission doit se prononcer dans le délai de deux mois à compter de la notification de cette décision.
