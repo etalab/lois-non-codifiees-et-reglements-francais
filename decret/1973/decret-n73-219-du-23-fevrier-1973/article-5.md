@@ -1,0 +1,3 @@
+# Article 5
+
+Les autorisations de prélèvement d'eaux souterraines accordées par un acte de déclaration d'utilité publique en application de l'article 113 du code rural, les autorisations d'établissement de puits ou de sondages accordées en application du décret du 8 août 1935 et de ses extensions ainsi que les déclarations faites en application de l'article 4 dudit décret et de ses extensions tiennent lieu de la déclaration visée à l'article 1er du présent décret et en dispensent l'exploitant. Le préfet peut toutefois demander au titulaire de ces autorisations de compléter les indications fournies au titre des textes précités, afin de pouvoir disposer des renseignements visés à l'article 3 ci-dessus.

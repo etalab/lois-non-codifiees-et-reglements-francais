@@ -14,6 +14,8 @@
 - [Décret n°73-176 du 22 février 1973](decret-n73-176-du-22-fevrier-1973)
 - [Décret n°73-184 du 23 février 1973](decret-n73-184-du-23-fevrier-1973)
 - [Décret n°73-191 du 23 février 1973](decret-n73-191-du-23-fevrier-1973)
+- [Décret n°73-218 du 23 février 1973](decret-n73-218-du-23-fevrier-1973)
+- [Décret n°73-219 du 23 février 1973](decret-n73-219-du-23-fevrier-1973)
 - [Décret n°73-82 du 24 janvier 1973](decret-n73-82-du-24-janvier-1973)
 - [Décret n°73-84 du 25 janvier 1973](decret-n73-84-du-25-janvier-1973)
 - [Décret n°73-88 du 26 janvier 1973](decret-n73-88-du-26-janvier-1973)

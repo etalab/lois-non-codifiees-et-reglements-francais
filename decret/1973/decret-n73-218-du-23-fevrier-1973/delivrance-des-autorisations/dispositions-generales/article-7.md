@@ -1,0 +1,3 @@
+# Article 7
+
+Dans les cas prévus aux arrêtés ministériels visés à l'article 4 (2.) ci-dessus, le préfet recueille l'avis du conseil supérieur d'hygiène publique de France et, s'il y a lieu, celui du conseil supérieur des établissements classés. Il recueille également l'avis de la mission déléguée de bassin sur les conditions à imposer au pétitionnaire. En cas de désaccord au sein de cette mission, le préfet transmet le dossier au ministre chargé de la protection de la nature et de l'environnement, qui statue après avis de la mission interministérielle de l'eau et, en cas de désaccord au sein de cette mission, saisit pour décision le comité interministériel d'action pour la nature et l'environnement [*nocivité écoulement déversement*].

@@ -1,0 +1,3 @@
+# Article 7
+
+La surveillance et le contrôle des installations définies à l'article 1er du présent décret sont effectués, indépendamment des officiers et agents de police judiciaire, par les fonctionnaires et agents habilités à cet effet par l'article 57 de la loi n° 64-1245 du 16 décembre 1964, chacun d'entre eux agissant selon la compétence de son service qui sera déterminée à cette fin par un arrêté conjoint du ministre délégué auprès du Premier ministre, chargé de la protection de la nature et de l'environnement, du ministre de l'aménagement du territoire, de l'équipement, du logement et du tourisme, du ministre de l'agriculture et du développement rural et du ministre du développement industriel et scientifique.
