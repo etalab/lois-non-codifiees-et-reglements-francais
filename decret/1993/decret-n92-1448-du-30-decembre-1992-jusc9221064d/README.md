@@ -2,6 +2,6 @@
 
 - [TITRE Ier : Des sociétés d'exercice libéral d'huissiers de justice.](titre-ier)
 - [TITRE II : Des sociétés en participation d'huissiers de justice.](titre-ii)
-- [Titre III : Dispositions diverses.](titre-iii)
+- [TITRE III : Des sociétés de participations financières de profession libérale d'huissiers de justice](titre-iii)
 - [TITRE IV : Dispositions diverses.](titre-iv)
 - [Article 84](article-84.md)

@@ -2,3 +2,4 @@
 
 - [TITRE Ier : Des sociétés d'exercice libéral de commissaires-priseurs.](titre-ier)
 - [TITRE II : Des sociétés en participation de commissaires-priseurs.](titre-ii)
+- [TITRE III : Des sociétés de participations financières de profession libérale de commissaires-priseurs judiciaires](titre-iii)

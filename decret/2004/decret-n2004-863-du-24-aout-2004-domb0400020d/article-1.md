@@ -1,0 +1,3 @@
+# Article 1
+
+Le Fonds d'investissement pour le développement économique et social des territoires d'outre-mer prend la dénomination de Fonds d'investissement pour le développement économique et social de l'outre-mer (FIDES). Il concourt au développement économique et social ainsi qu'à l'aménagement de la Nouvelle-Calédonie, de la Polynésie française, des îles Wallis et Futuna, des Terres australes et antarctiques françaises, des îles Juan de Nova, Europa, Bassas da India, Glorieuses, Tromelin et de Clipperton par l'octroi d'aides bénéficiant à des programmes d'investissement et de subventions pouvant compléter d'autres concours financiers de l'Etat.
