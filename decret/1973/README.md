@@ -2,6 +2,9 @@
 
 - [Décret n°73-937 du 2 octobre 1973](decret-n73-937-du-2-octobre-1973)
 - [Décret n°73-938 du 2 octobre 1973](decret-n73-938-du-2-octobre-1973)
+- [Décret n°73-19 du 4 janvier 1973](decret-n73-19-du-4-janvier-1973)
+- [Décret n°73-23 du 4 janvier 1973](decret-n73-23-du-4-janvier-1973)
+- [Décret n°73-26 du 4 janvier 1973](decret-n73-26-du-4-janvier-1973)
 - [Décret n°75-1070 du 4 novembre 1975](decret-n75-1070-du-4-novembre-1975)
 - [Décret n°73-263 du 6 mars 1973](decret-n73-263-du-6-mars-1973)
 - [Décret n°72-1098 du 11 décembre 1972](decret-n72-1098-du-11-decembre-1972)
