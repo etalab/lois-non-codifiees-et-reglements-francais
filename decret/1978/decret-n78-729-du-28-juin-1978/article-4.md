@@ -15,3 +15,5 @@ La solde spéciale est perçue pendant la période correspondant à celle du ser
 La solde spéciale est par ailleurs perçue à un taux particulier fixé par l'arrêté prévu à l'article 5, par les élèves des lycées militaires admis dans ces établissements au titre de l'aide au recrutement d'officiers en application de l'article 3 du décret n° 82-776 du 10 septembre 1982 relatif aux élèves des lycées militaires.
 
 La solde spéciale est également perçue à un taux particulier fixé par l'arrêté prévu à l'article 5 par les élèves de l'Ecole polytechnique pendant la première année de la scolarité à l'école et les élèves médecins, pharmaciens chimistes et vétérinaires biologistes des écoles du service de santé des armées pendant les première et deuxième années d'études universitaires.
+
+Une solde spéciale est en outre perçue à un taux particulier fixé par l'arrêté prévu à l'article 5 par les stagiaires du service militaire adapté.

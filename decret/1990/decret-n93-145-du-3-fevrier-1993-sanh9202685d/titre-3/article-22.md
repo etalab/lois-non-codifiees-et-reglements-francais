@@ -34,4 +34,4 @@ Echelon : 2°
 
 Ancienneté acquise : Ancienneté acquise dans la limite de 4 ans.
 
-Le nombre des agents techniques spécialisés hors classe ne doit pas excéder le dixième de l'effectif du corps.
+Le nombre des agents techniques spécialisés hors classe ne peut excéder 15 % de l'effectif du corps des agents techniques spécialisés.

@@ -1,0 +1,3 @@
+# Article 15
+
+Les fonctionnaires appartenant à un corps dont l'indice terminal est au moins égal à l'indice brut 966 chargés, à la date de publication du présent décret, des fonctions de secrétaire général prévues à l'article 1er du décret du 30 novembre 1970 susvisé, dans sa rédaction issue du présent décret, et ne remplissant pas, à cette même date, les conditions fixées à l'article 2 du décret du 30 novembre 1970 susvisé dans sa rédaction issue du présent décret, peuvent être nommés dans l'emploi correspondant de secrétaire général d'établissement public d'enseignement supérieur à compter de la date de publication du présent décret.

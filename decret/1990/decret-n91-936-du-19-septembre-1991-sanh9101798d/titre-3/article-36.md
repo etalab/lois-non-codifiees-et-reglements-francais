@@ -34,4 +34,4 @@ Echelon : 2er
 
 Ancienneté conservée : ancienneté acquise dans la limite de 4 ans.
 
-Les conducteurs ambulanciers principaux bénéficiaires de ces dispositions ne doivent pas représenter un effectif supérieur à 10 p. 100 de l'effectif du corps.
+Le nombre des conducteurs ambulanciers-chefs ne peut excéder 15 % de l'effectif du corps des conducteurs ambulanciers.

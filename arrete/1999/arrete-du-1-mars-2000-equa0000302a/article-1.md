@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents contractuels administratifs régis par le décret n° 48-1018 du 16 juin 1948 peuvent bénéficier de l'indemnité de fonction définie aux articles 3 et 4 du décret du 1er décembre 1993 portant attribution d'une indemnité de fonction à certains personnels administratifs de la direction générale de l'aviation civile et de l'établissement public Météo-France et de l'indemnité spéciale prévue à l'article 4 du décret du 1er décembre 1993 portant attribution d'une indemnité spéciale à certains personnels administratifs de la direction générale de l'aviation civile et de l'établissement public Météo-France.

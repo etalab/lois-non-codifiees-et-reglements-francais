@@ -1,0 +1,5 @@
+# Article 1
+
+A compter du 1er janvier 1999, les organismes qui demandent l'agrément prévu à l'article 5 du décret du 7 février 1996 susvisé, pour procéder au prélèvement ou à l'analyse et au comptage de fibres d'amiante dans l'air, ou le renouvellement de cet agrément, doivent être accrédités pour le domaine considéré par le Comité français d'accréditation (Cofrac) ou tout autre organisme signataire de l'accord multilatéral européen EA (European Cooperation for Accreditation).
+
+L'accréditation est fondée, d'une part, sur le respect de la norme NF EN 45001 ou NF EN 45004 pour les organismes réalisant des prélèvements d'air et de la norme NF EN 45001 pour ceux qui effectuent des analyses et des comptages et, d'autre part, sur le respect du programme d'accréditation n° 144 établi par le Comité français d'accréditation ou de tout autre programme équivalent basé sur le respect de la norme NF X 43-050 Qualité de l'air. - Détermination de la concentration en fibres d'amiante par microscopie électronique à transmission. - Méthode indirecte.

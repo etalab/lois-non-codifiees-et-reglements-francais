@@ -1,0 +1,3 @@
+# Article 3
+
+Le conseil du Comité national des pêches maritimes et des élevages marins prononce, après avis de la commission sociale, l'agrément ou le retrait des caisses de garantie contre les intempéries et/ou avaries. L'agrément peut être prononcé pour toute caisse constituée conformément à un statut type établi par le Comité national des pêches maritimes et des élevages marins. Toutefois, il ne peut être agréé plus d'une caisse par circonscription territoriale d'un comité local des pêches maritimes et des élevages marins, ou d'un comité régional, le cas échéant, lorsqu'il n'existe pas de comité local dans sa circonscription territoriale. Le retrait est prononcé pour toute caisse ne répondant plus à l'une des conditions nécessaires à l'obtention de l'agrément.

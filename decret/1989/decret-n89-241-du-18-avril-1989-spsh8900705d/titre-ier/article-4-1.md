@@ -1,9 +1,5 @@
 # Article 4-1
 
-A titre transitoire, et jusqu'au 31 juillet 1994, la proportion du nombre des aides-soignants de classe supérieure relevant de l'échelle 4, par rapport à l'effectif total du corps est fixée ainsi qu'il suit :
+Les aides-soignants de classe supérieure ayant atteint au moins le 8e échelon de leur grade peuvent être promus aides-soignants de classe exceptionnelle dans les conditions prévues au 1° de l'article 69 de la loi du 9 janvier 1986 susvisée.
 
-- à compter du 1er août 1992 :  5 p. 100 ;
-
-- à compter du 1er août 1993 : 10 p. 100 ;
-
-- à compter du 1er août 1994 : 15 p. 100.
+L'effectif des aides-soignants de classe exceptionnelle dans un établissement est fixé à 15 % de l'effectif du corps des aides-soignants de l'établissement. Une nomination peut être prononcée dans ce grade lorsque le résultat de l'application de ce pourcentage est inférieur à un et qu'il n'existe aucun titulaire de ce grade dans l'établissement.

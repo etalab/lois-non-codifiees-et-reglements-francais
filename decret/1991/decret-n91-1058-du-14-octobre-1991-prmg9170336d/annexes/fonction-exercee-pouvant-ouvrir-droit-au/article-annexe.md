@@ -72,9 +72,9 @@ Responsable d'unité de facturation chargé de la coordination du traitement des
 
 Secrétaire d'édition chargé des relations avec les administrations clientes sur toutes questions de nature éditoriale.
 
-Responsable de la formation continue des personnels aux applications de micro-informatique ;
+Responsable de la formation continue des personnels aux applications de micro-informatique.
 
-Responsable des affranchissements postaux ;
+Responsable des affranchissements postaux.
 
 Responsable de l'atelier d'expédition.
 
@@ -83,6 +83,8 @@ Responsable de magasin.
 Responsable de caisse.
 
 Secrétaire de rédaction.
+
+Chef d'études.
 
 SERVICE D'INFORMATION ET DE DIFFUSION
 

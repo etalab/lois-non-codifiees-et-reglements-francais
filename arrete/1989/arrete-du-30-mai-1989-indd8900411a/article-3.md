@@ -1,10 +1,10 @@
 # Article 3
 
-3.1. Le maître d'ouvrage doit remettre un descriptif du dispositif de sécurité collective à un organisme agréé qui vérifie et atteste la conformité dudit dispositif aux dispositions du présent arrêté.
+3.1. Le maître d'ouvrage doit remettre un descriptif du dispositif de sécurité collective à un organisme accrédité qui vérifie et atteste la conformité dudit dispositif aux dispositions du présent arrêté.
 
 Le descriptif ainsi que l'attestation précités sont annexés à l'exemplaire du certificat de conformité collectif remis au propriétaire.
 
-3.2. La conformité du dispositif de sécurité collective au descriptif cité ci-avant et son bon fonctionnement sont vérifiés et attestés soit par un organisme agréé, soit par l'installateur.
+3.2. La conformité du dispositif de sécurité collective au descriptif cité ci-avant et son bon fonctionnement sont vérifiés et attestés soit par un organisme accrédité, soit par l'installateur.
 
 L'attestation est annexée à l'exemplaire du certificat de conformité individuel remis au propriétaire.
 

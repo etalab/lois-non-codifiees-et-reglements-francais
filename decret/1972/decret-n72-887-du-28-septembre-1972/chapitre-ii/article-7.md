@@ -1,0 +1,5 @@
+# Article 7
+
+Le ministre de l'éducation nationale détermine pour chaque agent comptable le montant annuel de l'indemnité prévue à l'article 6 ci-dessus dans la limite de taux annuels maximaux fixés par un arrêté conjoint du ministre de l'éducation nationale, du ministre de l'économie et des finances et du ministre chargé de la fonction publique en fonction du chiffre total des recettes budgétaires réellement effectuées par l'établissement considéré pendant l'exercice précédent, déduction faite des subventions versées par l'Etat pour couvrir les dépenses de personnel.
+
+Les recettes budgétaires mentionnées à l'alinéa précédent ne prennent en compte, le cas échéant, ni les ressources procurées par la mise en ouvre d'activités de formation continue des adultes, ni les ressources fournies par les conventions portant création d'un centre de formation d'apprentis ou par les conventions prévues aux 1° et 2° du quatrième alinéa de l'article L. 115-1 et à l'article L.  116-1-1 du code du travail.

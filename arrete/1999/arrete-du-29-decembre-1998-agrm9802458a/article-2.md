@@ -1,0 +1,3 @@
+# Article 2
+
+Pour effectuer les interventions prévues à l'article 1er ci-dessus, le Comité national des pêches maritimes et des élevages marins bénéficie d'une subvention publique de l'Etat dans les conditions prévues aux articles 6 et 49 du décret du 30 mars 1992 susvisé. Cette dotation est destinée à aider sous forme de participation annuelle les caisses de garantie contre les intempéries et/ou avaries, agréées conformément à l'article 3 ci-dessous, dans l'indemnisation des jours de chômage liés au fait d'intempéries et/ou avaries dans la limite de vingt, trente ou quarante jours selon les propositions de chaque caisse.

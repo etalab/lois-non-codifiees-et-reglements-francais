@@ -10,6 +10,6 @@ Le corps des agents techniques d'éducation régi par le présent décret compre
 
 - agent technique d'éducation principal de 1re classe.
 
-Le nombre total des emplois d'agent technique d'éducation de 1re classe et d'agent technique d'éducation principal de 2e classe ne peut excéder 36 % de l'effectif budgétaire du corps.
+Le nombre des emplois d'agent technique d'éducation principal de 2e classe ne peut excéder 30 % de l'effectif total des grades d'agent technique d'éducation de 1re classe, d'agent technique d'éducation principal de 2e classe et d'agent technique d'éducation principal de 1re classe.
 
-L'effectif du grade d'agent technique d'éducation principal de 1re classe ne peut excéder 4 % de l'effectif budgétaire du corps.
+Le nombre des emplois d'agent technique d'éducation principal de 1re classe ne peut excéder 15 % de l'effectif total de ces mêmes grades.

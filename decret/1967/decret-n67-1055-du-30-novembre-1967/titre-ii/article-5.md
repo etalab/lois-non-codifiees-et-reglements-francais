@@ -40,8 +40,8 @@ Ce corps comprend les trois grades ci-après :
 
 3° Agent de constations des alcools.
 
-L'effectif des agents de constatation principaux de 2e classe ne peut être supérieur à 25 % de l'effectif total des deux premiers grades.
+Le nombre des emplois d'agent de constatation principal de 2e classe ne peut excéder 30 p. 100 de l'effectif total du corps.
 
-L'effectif des agents de constatation principaux de 1ère classe ne peut être supérieur à 10 % de l'effectif total du corps.
+Le nombre des emplois d'agent de constatation principal de 1re classe ne peut excéder 15 p. 100 de l'effectif total du corps.
 
 d) Corps et agents de bureau et des agents de service des alcools classés dans la catégorie D prévue à l'article 17 de l'ordonnance du 4 février 1959 susvisée et régis par les dispositions des décrets susvisés n° 70-79 du 27 janvier 1970 modifié et 58-651 et 58-652 du 30 juillet 1958 modifiés.

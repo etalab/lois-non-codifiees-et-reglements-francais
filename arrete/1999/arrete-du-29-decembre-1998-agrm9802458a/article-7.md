@@ -1,0 +1,3 @@
+# Article 7
+
+Les dispositions générales comptables et financières des caisses de garantie doivent répondre aux conditions suivantes : les recettes et les dépenses sont retracées en comptabilité selon un cadre normalisé communiqué par le Comité national des pêches maritimes et des élevages marins et au moyen d'un logiciel de gestion et de contrôle mis à leur disposition ; chaque caisse doit en outre être en mesure de produire, à la fin de chaque exercice comptable, un rapport d'activité, un compte de résultat, un bilan et un budget prévisionnel pour l'exercice suivant ; les comptes financiers doivent être certifiés par un commissaire aux comptes agréé.

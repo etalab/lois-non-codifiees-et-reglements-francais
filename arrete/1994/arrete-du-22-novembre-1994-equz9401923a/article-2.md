@@ -4,7 +4,7 @@ Pour le calcul de la garantie, les éléments du volume d'affaires qui sont rete
 
 Les pourcentages retenus des volumes d'affaires réalisés dans chaque catégorie d'activité pour prendre en compte les risques sont fixés, à partir du 1er janvier 1996, comme suit :
 
-1. Production vendue directement au public : 8 p. 100 ;
+1. Production vendue directement au public : 10 p. 100 ;
 
 2. Production vendue aux distributeurs : 2 p. 100 ;
 

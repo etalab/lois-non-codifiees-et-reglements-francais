@@ -1,12 +1,6 @@
 # Article 3
 
-Le montant de la garantie financière ne peut en aucun cas être inférieur à 750 000 F par licence.
-
-Toutefois, à titre transitoire, ce minimum est fixé à :
-
-350 000 F en 1995 ;
-
-550 000 F en 1996, en 1997 et en 1998.
+Le montant de la garantie financière ne peut en aucun cas être inférieur à 650 000 F par licence.
 
 Il est réévalué de la somme de 250 000 F pour chaque succursale, point de vente ou entreprise conventionnée, lors de la déclaration d'ouverture ou de l'approbation de la convention de mandat, jusqu'à ce que leur volume d'affaires respectif apparaisse pour une année entière dans le volume d'affaires de l'agence.
 

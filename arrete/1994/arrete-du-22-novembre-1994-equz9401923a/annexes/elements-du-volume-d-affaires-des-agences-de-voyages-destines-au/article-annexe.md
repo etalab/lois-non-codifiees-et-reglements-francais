@@ -2,7 +2,7 @@
 
 Individuels :
 
-1. Production vendue directement au public : 8 p. 100 (montant des facturations des voyages organisés et distribués directement par l'agent).
+1. Production vendue directement au public : 10 p. 100 (montant des facturations, des voyages à forfait, groupes et individuels organisés et distribués directement par l'agent).
 
 2. Production vendue aux distributeurs : 2 p. 100 (montant des facturations des voyages organisés par l'agent et vendus par le réseau de distribution sous déduction de la rémunération de celui-ci).
 

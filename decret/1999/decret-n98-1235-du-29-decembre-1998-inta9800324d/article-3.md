@@ -1,0 +1,3 @@
+# Article 3
+
+Le décret n° 51-1418 du 11 décembre 1951 relatif aux indemnités allouées aux fonctionnaires et agents du service des transmissions du ministère de l'intérieur, le décret n° 61-1227 du 6 novembre 1961 attribuant aux personnels du service des transmissions qui effectuent certains travaux de nuit une majoration spéciale pour travail intensif, le décret du 13 août 1963 modifié portant attribution d'une indemnité de sujétions particulières aux fonctionnaires du cadre des transmissions du ministère de l'intérieur et le décret n° 76-344 du 13 avril 1976 portant création d'une indemnité horaire pour travail du dimanche et des jours fériés en faveur des personnels du service des transmissions du ministère de l'intérieur sont abrogés.

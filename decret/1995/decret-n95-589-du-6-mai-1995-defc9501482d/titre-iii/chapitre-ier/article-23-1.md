@@ -1,0 +1,3 @@
+# Article 23-1
+
+Sauf lorsqu'elle est faite en vue du transfert vers un autre Etat membre de la Communauté européenne ou de l'exportation vers un pays tiers, l'acquisition des armes, éléments d'armes, munitions ou éléments de munitions de la 5e catégorie est subordonnée à la présentation, suivant le cas, d'un permis de chasser revêtu du visa et de la validation de l'année en cours ou de l'année précédente, d'une licence de chasse en cours de validité ou d'une licence d'une fédération sportive ayant reçu, au titre de l'article 17 de la loi du 16 juillet 1984 susvisée, délégation du ministre chargé des sports pour la pratique du tir.

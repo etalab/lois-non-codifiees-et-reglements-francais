@@ -34,4 +34,4 @@ Echelon : 2e
 
 Ancienneté conservée : ancienneté acquise dans la limite de 4 ans.
 
-Les maîtres ouvriers bénéficiaires de ces dispositions ne doivent pas représenter un effectif supérieur à 10 p. 100 de l'effectif du corps.
+Le nombre des maîtres ouvriers principaux ne peut excéder 15 % de l'effectif du corps des ouvriers d'état.

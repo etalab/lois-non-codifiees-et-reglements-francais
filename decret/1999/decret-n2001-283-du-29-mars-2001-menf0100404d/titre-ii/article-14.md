@@ -1,0 +1,3 @@
+# Article 14
+
+Par dérogation aux dispositions de l'article 5-1 du décret du 30 novembre 1970 susvisé, dans sa rédaction issue du présent décret, les fonctionnaires exerçant, à la date de publication du présent décret, les fonctions de secrétaire général dans un établissement public d'enseignement supérieur, nommés ou reclassés dans un emploi de secrétaire général d'établissement public d'enseignement supérieur, ne peuvent, à l'issue de la période de détachement en cours, être renouvelés dans les fonctions de secrétaire général du même établissement public d'enseignement supérieur que pour une durée limitée à cinq ans.
