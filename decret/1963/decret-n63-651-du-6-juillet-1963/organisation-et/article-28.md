@@ -1,65 +1,71 @@
 # Article 28
 
-Le conseil d'administration de l'établissement est composé de trente-huit membres [*nombre*] dont :
+Le conseil d'administration de l'établissement public est composé de quarante membres, dont :
 
-1° Treize fonctionnaires, nommés sur la proposition des ministres intéressés et représentant respectivement :
+" 1. Treize fonctionnaires nommés sur proposition des ministres intéressés et représentant respectivement :
 
-Le ministre chargé de la protection de la nature et de l'environnement ;
+" Le ministre chargé de la protection de la nature ;
 
-Le ministre chargé de l'aménagement du territoire ;
+" Le ministre chargé de l'aménagement du territoire ;
 
-Le ministre de l'agriculture et du développement rural ;
+" Le ministre de l'intérieur ;
 
-Le ministre chargé de l'équipement et du logement ;
+" Le ministre chargé de l'agriculture ;
 
-Le ministre de l'économie et des finances ;
+" Le ministre chargé de la défense ;
 
-Le ministre chargé des armées ;
+" Le ministre chargé de l'urbanisme ;
 
-Le ministre de l'éducation nationale ;
+" Le ministre chargé de l'industrie ;
 
-Le ministre des affaires culturelles ;
+" Le ministre chargé des domaines ;
 
-Le ministre de l'intérieur ;
+" Le ministre chargé de l'éducation ;
 
-Le ministre du développement industriel et scientifique ;
+" Le ministre chargé de la culture ;
 
-Le ministre chargé de la santé publique ;
+" Le ministre chargé du tourisme ;
 
-Le ministre chargé du tourisme ;
+" Le ministre chargé de la jeunesse et des sports ;
 
-Le secrétaire d'Etat auprès du Premier ministre, chargé de la jeunesse, des sports et des loisirs.
+" Le ministre chargé de la santé.
 
-2° Neuf conseillers généraux et maires nommés sur proposition du préfet de la Savoie :
+" 2. Dix représentants des collectivités territoriales et locales :
 
-Trois conseillers généraux représentant le département de la Savoie ;
+" a) Un représentant du conseil régional de la région Rhône-Alpes ;
 
-Six maires des communes dont le territoire est partiellement compris dans le parc.
+" b) Trois représentants du conseil général de la Savoie ;
 
-3° Quatre personnalités nommées après avis du préfet de la Savoie sur proposition respectivement :
+" c) Six maires de communes ayant une partie de leur territoire dans le parc national, dont la liste est établie selon les règles définies ci-après :
 
-De la chambre d'agriculture ;
+" - Les maires des communes de Termignon et de Val-d'Isère, membres de droit en application des dispositions de l'article R. 241-19 du code rural ;
 
-De la chambre de commerce et d'industrie ;
+" - Quatre maires élus par un collège constitué par l'ensemble des maires des communes du département ayant une partie de leur territoire comprise dans le parc, à l'exception des maires membres de droit mentionnés ci-dessus.
 
-De la fédération départementale des chasseurs ;
+" 3. Seize personnalités nommées comme suit :
 
-De la fédération départementale des associations agréées de pêche et de pisciculture.
+" a) Quatre personnalités choisies par le ministre chargé de la protection de la nature ;
 
-4° Huit personnalités nommées comme suit :
+" b) Quatre personnalités sur proposition du Conseil national de la protection de la nature, dont deux appartenant au milieu de la recherche scientifique ;
 
-Trois sur proposition du conseil national de la protection de la nature ;
+" c) Une personnalité sur proposition de l'Office national des forêts ;
 
-Une sur proposition du centre national de la recherche scientifique ;
+" d) Sur proposition du préfet de la Savoie, sept personnalités respectivement compétentes en matière de :
 
-Une représentant les associations de protection de la nature et de l'environnement, sur proposition du préfet de la Savoie ;
+" - agriculture ;
 
-Une sur proposition de l'office national des forêts ;
+" - commerce et industrie ;
 
-Une sur proposition du club alpin français ;
+" - chasse ;
 
-Une sur proposition du Touring-club de France.
+" - pêche ;
 
-5° Quatre personnalités nommées à l'initiative du ministre chargé de la protection de la nature et de l'environnement.
+" - protection de la nature ;
 
-Le préfet de la Savoie, commissaire du Gouvernement, le directeur de l'établissement et le contrôleur financier assistent aux séances du conseil avec voix consultative.
+" - activités de plein air ;
+
+" - activités professionnelles de sport et de loisir pratiquées dans le parc.
+
+" 4. Un représentant du personnel élu par l'ensemble du personnel permanent du parc.
+
+" Le préfet de la Savoie, commissaire du Gouvernement, le directeur de la protection de la nature, le président du comité scientifique du parc, le directeur du parc et le contrôleur financier, ou leurs représentants, assistent aux séances du conseil d'administration avec voix consultative. "
