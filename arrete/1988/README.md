@@ -193,7 +193,6 @@
 - [Arrêté du 8 novembre 1988 (SPSH8801739A)](arrete-du-8-novembre-1988-spsh8801739a)
 - [Arrêté du 8 octobre 1987 (ASET8703700A)](arrete-du-8-octobre-1987-aset8703700a)
 - [Arrêté du 8 septembre 1988 (EQUP8800613A)](arrete-du-8-septembre-1988-equp8800613a)
-- [Arrêté du 8 septembre 1988 (FPPA8800081A)](arrete-du-8-septembre-1988-fppa8800081a)
 - [Arrêté du 8 septembre 1988 (INDD8800649A)](arrete-du-8-septembre-1988-indd8800649a)
 - [Arrêté du 9 août 1988 (ASEG8800844A)](arrete-du-9-aout-1988-aseg8800844a)
 - [Arrêté du 9 décembre 1988 (SPSS8801843A)](arrete-du-9-decembre-1988-spss8801843a)
