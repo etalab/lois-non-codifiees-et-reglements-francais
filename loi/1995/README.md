@@ -20,6 +20,7 @@
 - [Loi n° 95-1318 du 22 décembre 1995 (MAEX9500115L)](loi-n-95-1318-du-22-decembre-1995-maex9500115l)
 - [Loi n° 95-1347 du 30 décembre 1995 (ECOX9500162L)](loi-n-95-1347-du-30-decembre-1995-ecox9500162l)
 - [Loi n° 95-1348 du 30 décembre 1995 (TASX9500178L)](loi-n-95-1348-du-30-decembre-1995-tasx9500178l)
+- [Loi n° 95-4 du 3 janvier 1995 (MCCX9400132L)](loi-n-95-4-du-3-janvier-1995-mccx9400132l)
 - [Loi n° 95-73 du 21 janvier 1995 (INTX9400063L)](loi-n-95-73-du-21-janvier-1995-intx9400063l)
 - [Loi n° 95-836 du 13 juillet 1995 (MENX9400151L)](loi-n-95-836-du-13-juillet-1995-menx9400151l)
 - [Loi n° 95-851 du 24 juillet 1995 (ECOX9400042L)](loi-n-95-851-du-24-juillet-1995-ecox9400042l)
