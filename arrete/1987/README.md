@@ -277,7 +277,6 @@
 - [Arrêté du 13 novembre 1987 (TRSA8700423A)](arrete-du-13-novembre-1987-trsa8700423a)
 - [Arrêté du 13 octobre 1987 (ASES8701446A)](arrete-du-13-octobre-1987-ases8701446a)
 - [Arrêté du 13 octobre 1987 (RESP8700885A)](arrete-du-13-octobre-1987-resp8700885a)
-- [Arrêté du 13 mai 1987](arrete-du-13-mai-1987)
 - [Arrêté du 13 mai 1987 (ECOS8760001A)](arrete-du-13-mai-1987-ecos8760001a)
 - [Arrêté du 14 août 1987 (EQUC8700721A)](arrete-du-14-aout-1987-equc8700721a)
 - [Arrêté du 14 août 1987 (EQUC8700722A)](arrete-du-14-aout-1987-equc8700722a)
