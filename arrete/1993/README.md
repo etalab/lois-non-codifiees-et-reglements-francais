@@ -47,8 +47,6 @@
 - [Arrêté du 2 mars 1993 (MENK9300028A)](arrete-du-2-mars-1993-menk9300028a)
 - [Arrêté du 2 mars 1993 (MENN9304567A)](arrete-du-2-mars-1993-menn9304567a)
 - [Arrêté du 2 novembre 1993 (BUDR9307011A)](arrete-du-2-novembre-1993-budr9307011a)
-- [Arrêté du 2 novembre 1993 (INDP9320537A)](arrete-du-2-novembre-1993-indp9320537a)
-- [Arrêté du 2 novembre 1993 (INDP9320538A)](arrete-du-2-novembre-1993-indp9320538a)
 - [Arrêté du 2 septembre 1993 (AGRG9301654A)](arrete-du-2-septembre-1993-agrg9301654a)
 - [Arrêté du 2 septembre 1993 (EQUA9300911A)](arrete-du-2-septembre-1993-equa9300911a)
 - [Arrêté du 2 septembre 1993 (EQUA9300912A)](arrete-du-2-septembre-1993-equa9300912a)
