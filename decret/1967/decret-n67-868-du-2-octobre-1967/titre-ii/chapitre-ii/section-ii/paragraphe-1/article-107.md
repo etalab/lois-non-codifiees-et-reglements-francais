@@ -6,6 +6,6 @@ Si les parties n'ont pu convenir d'un prix de cession, celui-ci est fixé confor
 
 Si l'associé refuse de signer l'acte de cession de ses parts, il est passé outre à son refus deux mois après la sommation qui lui est adressée par la société, par lettre recommandée avec demande d'avis de réception.
 
-Sous réserve des règles de protection et de représentation des incapables, les dispositions du présent article sont applicables à la cession des parts sociales de l'associé frappé d'interdiction légale ou judiciaire.
+Sous réserve des règles de protection et de représentation des incapables, les dispositions du présent article sont applicables à la cession des parts sociales de l'associé frappé d'interdiction légale ou placé sous le régime de la tutelle des incapables majeurs.
 
 Les dispositions des articles 104 et 105 sont applicables au successeur de l'associé destitué ou interdit.

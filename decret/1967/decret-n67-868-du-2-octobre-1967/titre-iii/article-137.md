@@ -1,3 +1,3 @@
 # Article 137
 
-La commission visée à l'article précédent donne également son avis sur l'agrément des sociétés régies par le titre II.
+La commission mentionnée à l'article précédent propose également à l'agrément du garde des sceaux, ministre de la justice, la nomination des sociétés régies par le titre II du présent décret.

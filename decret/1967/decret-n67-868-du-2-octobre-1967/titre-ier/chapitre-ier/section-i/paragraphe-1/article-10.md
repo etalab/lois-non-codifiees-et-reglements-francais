@@ -9,7 +9,3 @@ L'arrêté du garde des sceaux, ministre de la justice, est pris dans tous les c
 L'ouverture d'un bureau annexe peut être autorisée ou prescrite pour une durée limitée. Chaque bureau peut être ouvert soit à dates fixes, soit à titre permanent. La société peut y conserver des minutes.
 
 L'autorisation d'ouverture de bureaux annexes peut être rapportée par arrêté du garde des sceaux, ministre de la justice.
-
-Par dérogation aux dispositions de l'alinéa premier, les sociétés ayant leur siège dans les ressorts des cours d'appel de Besançon ou de Nancy ne peuvent ouvrir de bureaux annexes dans le ressort de la cour d'appel de Colmar.
-
-Les sociétés ayant leur siège dans le ressort de la cour d'appel de Colmar ne peuvent ouvrir de bureaux annexes dans les ressorts des cours d'appel de Besançon et de Nancy.

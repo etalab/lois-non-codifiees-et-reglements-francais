@@ -1,14 +1,14 @@
 # Article 9
 
-Il n'est dû aucune indemnisation en raison des suppressions, transferts et créations d'offices de notaire résultant de la constitution de sociétés régies par le présent titre ou de la nomination d'un nouvel associé.
+Il n'est dû aucune indemnisation en raison des suppressions, transferts et créations d'office de notaire résultant de la constitution de sociétés régies par le présent titre ou de la nomination d'un nouvel associé.
 
 Il en est de même dans le cas de dissolution de ces sociétés.
 
-Toutefois, peuvent donner lieu à indemnisations :
+Toutefois, peuvent donner lieu à indemnisation ;
 
-La création d'un office supplémentaire, dans les cas prévus à l'article 3 (alinéa 2 et 3) et à l'article 4 (alinéa 2) ;
+La création d'un office supplémentaire dans les cas prévus aux articles 3, 3-1 et 4 ;
 
-La suppression de l'office dont la société est titulaire lorsque aucun associé ne bénéficie d'une nomination dans un office créé en application des dispositions de l'article 26 (dernier alinéa) de la loi précitée du 29 novembre 1966 et des articles 86 à 89 du présent décret ;
+La suppression de l'office dont la société est titulaire lorsque aucun associé ne bénéficie d'une nomination dans un office créé en application des dispositions de l'article 26 (dernier alinéa) de la loi susvisée du 29 novembre 1966 et des articles 86 à 89 du présent décret ;
 
 Le transfert de l'office dont la société est nommée titulaire lorsque ce transfert a pour effet d'étendre sa compétence d'instrumentation.
 
