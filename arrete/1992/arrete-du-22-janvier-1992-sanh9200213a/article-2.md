@@ -2,6 +2,26 @@
 
 Les épreuves pour l'accès au cycle préparatoire comprennent :
 
-Admissibilité : la rédaction en quatre heures d'une note de synthèse à partir d'un dossier relatif à l'organisation et au fonctionnement des services et des institutions sanitaires et sociales en France ou de façon plus générale, aux problèmes sanitaires et sociaux.
+A. - Epreuves écrites et anonymes d'admissibilité
 
-Admission : après une préparation de vingt minutes, une conversation de vingt minutes avec le jury à partir de la lecture d'un texte portant sur des problèmes du monde contemporain ; le jury dispose du dossier du candidat.
+1° La rédaction d'une note de synthèse sur un sujet d'ordre général (durée : quatre heures ; coefficient 2).
+
+Cette rédaction est commune aux deux catégories définies à l'article 8-II du décret du 19 février 1988 modifié susvisé.
+
+2° a) Pour les candidats titulaires soit d'un diplôme de l'enseignement supérieur permettant de se présenter au concours externe à l'Ecole nationale d'administration, soit d'une autorisation spéciale de dérogation pour se présenter au concours d'accès au cycle de formation, délivrée par la commission prévue à l'article 5 (I, 1°) du décret du 19 février 1988 modifié susvisé (1re catégorie) :
+
+La rédaction d'une composition sur un sujet d'actualité, à choisir par le candidat à partir de trois sujets (durée : quatre heures ; coefficient 1).
+
+b) Pour les autres candidats (2e catégorie) :
+
+Une rédaction sur quatre questions d'actualité (durée : quatre heures ; coefficient 1).
+
+B. - Epreuve orale d'admission (commune aux deux catégories susvisées)
+
+Une conversation avec les membres du jury se décomposant comme suit (durée : trente minutes ; coefficient 3) :
+
+D'une part, une présentation du parcours professionnel et des motivations du candidat, ainsi qu'un exposé à partir, au choix du candidat, d'un thème ou d'un sujet d'actualité (durée maximale :
+
+quinze minutes, durée de préparation : quinze minutes) ;
+
+D'autre part, des échanges avec le jury (durée maximale : quinze minutes).

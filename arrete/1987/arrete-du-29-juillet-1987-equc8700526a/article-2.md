@@ -36,6 +36,4 @@ Six personnes,
 
 - ou une personne seule avec quatre personnes à charge.
 
-Le couple marié depuis moins de cinq ans dont la somme des âges révolus des deux conjoints le composant est au plus égale à cinquante-cinq ans constitue un jeune ménage au sens du présent arrêté.
-
-Sont à classer dans la catégorie de ménage ayant un conjoint actif, les couples mariés dont les deux conjoints exercent une activité professionnelle productrice de revenus imposables, chacun de ces deux revenus ayant été au moins égal au cours l'année retenue pour l'appréciation des ressources à douze fois la base mensuelle de calcul des allocations familiales en vigueur au 31 décembre de ladite année.
+Le couple marié dont la somme des âges révolus des deux conjoints le composant est au plus égale à cinquante-cinq ans constitue un jeune ménage au sens du présent arrêté.

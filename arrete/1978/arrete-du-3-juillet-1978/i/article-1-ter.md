@@ -1,6 +1,6 @@
 # Article 1 ter
 
-Le montant prévu au premier alinéa de l'article R. 351-7-1 est fixé à 39 000 F ;
+Le montant prévu au premier alinéa de l'article R. 351-7-1 est fixé à 39 500 F ;
 
 - le coefficient prévu au 2° du I de l'article R. 351-7-1 est fixé à :
 

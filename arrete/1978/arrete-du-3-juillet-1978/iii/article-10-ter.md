@@ -1,6 +1,6 @@
 # Article 10 ter
 
-A compter du 1er juillet 1997, pour l'application de l'article R. 351-21-3 [*date, point de départ*] :
+A compter du 1er juillet 1998, pour l'application de l'article R. 351-21-3 [*date, point de départ*] :
 
 - le coefficient a est fixé à 0,75 ;
 
@@ -8,4 +8,4 @@ A compter du 1er juillet 1997, pour l'application de l'article R. 351-21-3 [*dat
 
 - le coefficient y est fixé à 0,038 ;
 
-- le montant auquel le produit yR ne peut être inférieur est fixé à 1 394 F.
+- le montant auquel le produit yR ne peut être inférieur est fixé à 1 409 F.

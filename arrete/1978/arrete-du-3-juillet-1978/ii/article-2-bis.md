@@ -16,7 +16,7 @@ C représente le montant forfaitaire des charges défini à l'article 11 ter de 
 
 PP représente la participation personnelle du ménage à la dépense de logement. Son montant est calculé selon les modalités définies aux articles 2 ter et 2 quater ci-dessous.
 
-II. - A compter du 1er juillet 1997, en application de l'article R. 351-22-1, les plafonds de loyer visés à l'article R. 351-17-3 sont fixés comme suit :
+II. - A compter du 1er juillet 1998, en application de l'article R. 351-22-1, les plafonds de loyer visés à l'article R. 351-17-3 sont fixés comme suit :
 
 <table>
 <tbody>
@@ -32,11 +32,9 @@ II. - A compter du 1er juillet 1997, en application de l'article R. 351-22-1, le
 </td>
 <td width="172">
 <p align="center">PERSONNE SEULE <br/>ou couple ayant une personne à charge<br/>(en francs)</p>
-<br/>
 </td>
 <td width="166">
 <p align="center">PAR PERSONNE À CHARGE<br/>supplémentaire<br/>(en francs)</p>
-<br/>
 </td>
 </tr>
 <tr>
@@ -44,16 +42,16 @@ II. - A compter du 1er juillet 1997, en application de l'article R. 351-22-1, le
 <p align="center">I</p>
 </td>
 <td width="119">
-<p align="center">1 510</p>
+<p align="center">1 546</p>
 </td>
 <td width="159">
-<p align="center">1 820</p>
+<p align="center">1 864</p>
 </td>
 <td width="172">
-<p align="center">2 066</p>
+<p align="center">2 116</p>
 </td>
 <td width="166">
-<p align="center">300</p>
+<p align="center">307</p>
 </td>
 </tr>
 <tr>
@@ -61,16 +59,16 @@ II. - A compter du 1er juillet 1997, en application de l'article R. 351-22-1, le
 <p align="center">II</p>
 </td>
 <td width="119">
-<p align="center">1 325</p>
+<p align="center">1 357</p>
 </td>
 <td width="159">
-<p align="center">1 623</p>
+<p align="center">1 662</p>
 </td>
 <td width="172">
-<p align="center">1 843</p>
+<p align="center">1 887</p>
 </td>
 <td width="166">
-<p align="center">269</p>
+<p align="center">275</p>
 </td>
 </tr>
 <tr>
@@ -78,16 +76,16 @@ II. - A compter du 1er juillet 1997, en application de l'article R. 351-22-1, le
 <p align="center">III</p>
 </td>
 <td width="119">
-<p align="center">1 242</p>
+<p align="center">1 272</p>
 </td>
 <td width="159">
-<p align="center">1 507</p>
+<p align="center">1 543</p>
 </td>
 <td width="172">
-<p align="center">1 705</p>
+<p align="center">1 746</p>
 </td>
 <td width="166">
-<p align="center">244</p>
+<p align="center">250</p>
 </td>
 </tr>
 </tbody>
