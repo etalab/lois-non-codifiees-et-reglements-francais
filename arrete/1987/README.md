@@ -505,7 +505,6 @@
 - [Arrêté du 21 août 1987 (ASET8703628A)](arrete-du-21-aout-1987-aset8703628a)
 - [Arrêté du 21 août 1987 (RESK8700547A)](arrete-du-21-aout-1987-resk8700547a)
 - [Arrêté du 21 janvier 1987 (ASEH8700109A)](arrete-du-21-janvier-1987-aseh8700109a)
-- [Arrêté du 21 janvier 1987 (ECOT8730001A)](arrete-du-21-janvier-1987-ecot8730001a)
 - [Arrêté du 21 janvier 1987 (TRSX8798254A)](arrete-du-21-janvier-1987-trsx8798254a)
 - [Arrêté du 21 juillet 1987 (ASES8701083A)](arrete-du-21-juillet-1987-ases8701083a)
 - [Arrêté du 21 juillet 1987 (ECOC8700081A)](arrete-du-21-juillet-1987-ecoc8700081a)
