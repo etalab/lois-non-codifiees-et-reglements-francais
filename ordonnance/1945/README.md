@@ -21,3 +21,5 @@
 - [Ordonnance n°45-1483 du 30 juin 1945](ordonnance-n45-1483-du-30-juin-1945)
 - [Ordonnance n°45-1484 du 30 juin 1945](ordonnance-n45-1484-du-30-juin-1945)
 - [Ordonnance n° 45-1088 du 30 mai 1945](ordonnance-n-45-1088-du-30-mai-1945)
+- [Ordonnance n°45-1706 du 31 juillet 1945](ordonnance-n45-1706-du-31-juillet-1945)
+- [Ordonnance n°45-1708 du 31 juillet 1945](ordonnance-n45-1708-du-31-juillet-1945)
