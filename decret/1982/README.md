@@ -216,7 +216,6 @@
 - [Décret n°83-852 du 26 septembre 1983](decret-n83-852-du-26-septembre-1983)
 - [Décret n°82-441 du 26 mai 1982](decret-n82-441-du-26-mai-1982)
 - [Décret n°82-461 du 26 mai 1982](decret-n82-461-du-26-mai-1982)
-- [Décret n°77-663 du 27 juin 1977](decret-n77-663-du-27-juin-1977)
 - [Décret n°82-219 du 27 février 1982](decret-n82-219-du-27-fevrier-1982)
 - [Décret n°82-232 du 27 février 1982](decret-n82-232-du-27-fevrier-1982)
 - [Décret n°82-647 du 27 juillet 1982](decret-n82-647-du-27-juillet-1982)
