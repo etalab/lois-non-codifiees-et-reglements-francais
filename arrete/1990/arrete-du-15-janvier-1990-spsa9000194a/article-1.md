@@ -6,6 +6,6 @@ Les ressources de toute nature, à l'exception des prestations familiales dont s
 
 3 p. 100 pour la tranche des revenus annuels égale ou inférieure au montant annuel du minimum vieillesse en vigueur au 1er janvier de l'année de perception des revenus ;
 
-6,5 p. 100 pour la tranche des revenus annuels compris entre le montant annuel du minimum vieillesse et le montant brut annuel du salaire minimum interprofessionnel de croissance en vigueur au 1er janvier de l'année de perception des revenus ;
+7 p. 100 pour la tranche des revenus annuels compris entre le montant annuel du minimum vieillesse et le montant brut annuel du salaire minimum interprofessionnel de croissance en vigueur au 1er janvier de l'année de perception des revenus ;
 
-13 p. 100 pour la tranche des revenus annuels compris entre le montant brut annuel du salaire minimum interprofessionnel de croissance en vigueur au 1er janvier de l'année de perception et le même montant majoré de 75 p. 100.
+14 p. 100 pour la tranche des revenus annuels compris entre le montant brut annuel du salaire minimum interprofessionnel de croissance en vigueur au 1er janvier de l'année de perception et le même montant majoré de 75 p. 100.
