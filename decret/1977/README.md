@@ -75,6 +75,7 @@
 - [Décret n°77-171 du 21 février 1977](decret-n77-171-du-21-fevrier-1977)
 - [Décret n°77-639 du 21 juin 1977](decret-n77-639-du-21-juin-1977)
 - [Décret n°73-183 du 22 février 1973](decret-n73-183-du-22-fevrier-1973)
+- [Décret n°77-864 du 22 juillet 1977](decret-n77-864-du-22-juillet-1977)
 - [Décret n°76-1191 du 23 décembre 1976](decret-n76-1191-du-23-decembre-1976)
 - [Décret n°77-686 du 23 juin 1977](decret-n77-686-du-23-juin-1977)
 - [Décret n°77-535 du 23 mai 1977](decret-n77-535-du-23-mai-1977)

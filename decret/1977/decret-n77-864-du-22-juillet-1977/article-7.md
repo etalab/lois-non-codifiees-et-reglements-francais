@@ -1,0 +1,3 @@
+# Article 7
+
+Une commission régionale complétée en tant que de besoin de l'ingénieur général d'agronomie chargé de région, présidée par le recteur d'académie ou son représentant et composée d'un représentant de l'établissement d'enseignement où l'étudiant est inscrit, d'un médecin désigné par la direction départementale de l'action sanitaire et sociale, d'un représentant des associations de handicapés et d'un représentant des étudiants handicapés désignés l'un et l'autre par le recteur ou l'ingénieur général d'agronomie, est appelée à se prononcer sur l'admission au bénéfice des remboursements de frais [*de déplacement*] visés aux articles 5 et 6 ci-dessus, dans les cas litigieux susceptibles de se présenter.
