@@ -1,0 +1,3 @@
+# Article 45
+
+Le titre Ier de la présente loi, à l'exception de l'article 2, son titre II, à l'exception du dernier alinéa de l'article 10-I, des articles 13-II, 13-III, 13-IV, 14, 15 et 16, son titre III, à l'exception des articles 23, 24 et 30, et l'article 34-I de son titre V sont applicables dans les territoires d'outre-mer et à Mayotte dans leur rédaction antérieure à la promulgation de la loi n° 98-546 du 2 juillet 1998, sous réserve que le délai d'un an prévu au premier alinéa de l'article 29 court à compter de la date de publication de l'ordonnance n° 98-775 du 2 septembre 1998 dans le territoire d'outre-mer ou la collectivité territoriale concernés.
