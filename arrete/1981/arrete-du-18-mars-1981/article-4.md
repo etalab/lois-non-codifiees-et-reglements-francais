@@ -4,4 +4,4 @@ A l'issue de ces épreuves, le jury établit, par ordre alphabétique, dans la l
 
 Les places mises au concours qui ne seraient pas pourvues par la nomination de candidats de la catégorie correspondante peuvent être attribuées aux candidats de l'autre catégorie.
 
-Le jury peut dresser une ou deux listes complémentaires (une par catégorie) comportant, par ordre de mérite, les noms des candidats susceptibles d'être admis au cycle préparatoire dans le cas où des vacances résultant de démissions viendraient à se produire.
+Le jury peut dresser une ou deux listes complémentaires (une par catégorie) comportant, par ordre de mérite, les noms des candidats susceptibles d'être admis au cycle préparatoire dans le cas où des vacances résultant de démissions ou de défections viendraient à se produire.

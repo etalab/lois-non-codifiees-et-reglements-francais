@@ -1,4 +1,4 @@
-# Arrêté du 17 janvier 1983 fixant les conditions d'implantation, en dehors des agglomérations, des enseignes publicitaires et des pré-enseignes visibles des routes nationales, des chemins départementaux et des voies communales n'ayant pas le caractère des routes express
+# Arrêté du 17 janvier 1983 relatif à l'introduction d'une option Dessinateur projeteur ou Métreur vérificateur dans les concours d'accès à l'emploi d'adjoint technique communal.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -16,10 +16,10 @@ Ces dossiers comprennent :
 
 Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission à concourir, des états de service et du certificat médical, les candidats doivent s'adresser, dès l'annonce officielle du concours, au bureau 8 C de la direction des hôpitaux.
 
-Les candidats admis au cycle préparatoire qui n'avaient pas auparavant la qualité d'agent titulaire devront, dès le résultat des épreuves et dans un délai de huit jours au maximum, compléter leur dossier par les pièces suivantes :
+Pour être affectés par le directeur de l'Ecole nationale de la santé publique dans l'un des centres de préparation, les candidats admis à l'issue des épreuves devront, dans un délai fixé par l'arrêté d'ouverture du concours, compléter leur dossier par les pièces suivantes :
 
-Un certificat de nationalité française ;
+1) Un engagement de prise en charge financière de la formation (traitement et indemnité de stage de l'agent, et frais de scolarité) émanant de l'ordonnateur compétent.
 
-Un état signalétique et des services militaires ou une copie certifiée conforme de ce document ou des premières pages du livret militaire et, pour ceux qui n'ont pas accompli leur service militaire, une pièce attestant leur situation au regard des lois sur le recrutement de l'armée.
+2) Pour les candidats n'ayant pas la qualité d'agent titulaire, une fiche d'état civil et de nationalité française et un état signalétique et des services militaires ou une copie de ce document ou les premières pages du livret militaire ; pour ceux qui n'ont pas accompli leur service militaire, une pièce attestant leur situation au regard des lois sur le recrutement de l'armée ;
 
-Ne pourront participer au cycle préparatoire que les candidats dont le dossier aura été complété en temps opportun et qui rempliront toutes les conditions requises.
+Seuls pourront participer au cycle préparatoire, les candidats admis aux épreuves remplissant en outre toutes les conditions requises et dont le dossier aura été complété dans le délai réglementaire. Passé ce délai, il pourra être fait appel, le cas échéant, à des candidats inscrits sur les listes complémentaires établies par le jury du concours en remplacement des candidats défaillants.
