@@ -1,9 +1,7 @@
 # Article 4
 
-Le délégué anime et coordonne les actions de l'Etat menées au titre de la coopération régionale dans la région géographique des Caraïbes et des Guyanes.
+Le préfet de la région Guadeloupe anime et coordonne les actions de l'Etat menées au titre de la coopération régionale dans la région géographique des Caraïbes et des Guyanes intéressant les départements français d'Amérique, en liaison avec les chefs des postes diplomatiques dans les Etats de la région et les préfets de Guyane et de Martinique, dans le respect de leurs compétences respectives.
 
-Il veille en particulier à l'harmonisation interministérielle des décisions relatives à la coopération régionale intéressant les départements français d'Amérique et à la coordination de ces actions menées, au titre de leurs compétences respectives, par les préfets des régions de Guadeloupe, de Guyane et de Martinique, par les chefs des postes diplomatiques, ainsi que par les chefs des missions de coopération et d'action culturelle, dans les Etats de la région.
+" Il établit, à l'intention du Premier ministre, un rapport annuel sur le bilan, l'évaluation et le suivi des actions mentionnées à l'alinéa précédent et fait toutes propositions tendant à développer cette coopération régionale.
 
-Il établit, à l'intention du Premier ministre, un rapport annuel sur le bilan, l'évaluation et le suivi des actions de coopération régionale intéressant les départements français d'Amérique et fait toutes propositions tendant à développer celles-ci.
-
-Les autorités déconcentrées de l'Etat ainsi que les administrations et établissements publics nationaux soumettent à l'avis du délégué tout programme relatif à la coopération régionale intéressant les départements français d'Amérique.
+" Il est consulté par toutes les autorités déconcentrées de l'Etat ainsi que les administrations centrales et établissements publics nationaux sur tout programme relatif à la coopération régionale intéressant les départements français d'Amérique. "
