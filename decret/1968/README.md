@@ -50,7 +50,6 @@
 - [Décret n°69-376 du 24 avril 1969](decret-n69-376-du-24-avril-1969)
 - [Décret n°68-476 du 25 mai 1968](decret-n68-476-du-25-mai-1968)
 - [Décret n°64-283 du 26 mars 1964](decret-n64-283-du-26-mars-1964)
-- [Décret n°68-376 du 26 avril 1968](decret-n68-376-du-26-avril-1968)
 - [Décret n°67-967 du 27 octobre 1967](decret-n67-967-du-27-octobre-1967)
 - [Décret n°68-1086 du 27 novembre 1968](decret-n68-1086-du-27-novembre-1968)
 - [Décret n°68-1052 du 29 novembre 1968](decret-n68-1052-du-29-novembre-1968)
