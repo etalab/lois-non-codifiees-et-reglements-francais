@@ -4,9 +4,23 @@ Electricité de France sera tenue de recevoir sur les réseaux qu'elle exploite,
 
 Ce contrat pourra, à la demande du producteur, être passé pour une durée au moins égale à celle de l'amortissement normal de ses installations. Il fixera notamment, pour des périodes dont la durée pourra, à la demande d'Electricité de France, ne pas descendre au-dessous de cinq ans, les quantités minima que le producteur s'engagera à livrer à Electricité de France et celles que cette dernière s'engagera à prendre.
 
-L'obligation de passer un contrat d'achat sera suspendue lorsqu'il aura été constaté par arrêté du ministre de l'industrie et du commerce que l'ensemble des moyens de production existant sur le territoire métropolitain est suffisant pour faire face, à tout instant, à la demande d'énergie dans des conditions économiques satisfaisantes et que les moyens locaux de distribution sont également suffisants.
+L'obligation de passer un contrat d'achat peut être suspendue, par arrêté du ministre chargé de l'énergie, pour une durée déterminée, sur tout ou partie du territoire national, pour l'ensemble des installations de production ou pour celles répondant à une demande d'électricité de caractéristiques définies (base, semi-base ou pointe), lorsqu'il est constaté que les moyens de production existants sont suffisants pour faire face, à tout instant, à la demande correspondante dans des conditions économiques satisfaisantes de production, transport et distribution.
 
-Toutefois, l'obligation de passer un contrat d'achat sera permanente à l'égard des producteurs visés au 3e paragraphe de l'article 8, 3e alinéa. Electricité de France sera donc tenue d'acheter l'énergie produite par ceux-ci dans la mesure où cette énergie est disponible et où elle était, à la date de la promulgation de la loi du 8 avril 1946, soit livrée ou susceptible d'être livrée à des secteurs de distribution ou à des industriels, soit consommée par le producteur pour ses besoins propres.
+Toutefois, l'obligation de passer un contrat d'achat est permanente à l'égard :
+
+1° Des producteurs visés au troisième paragraphe de l'article 8, troisième alinéa. Electricité de France est tenue d'acheter l'énergie produite par ceux-ci dans la mesure où cette énergie est disponible et où elle était, à la date de la promulgation de la loi du 8 avril 1946, soit livrée ou susceptible d'être livrée à des secteurs de distribution ou à des industriels, soit consommée par le producteur pour ses besoins propres ;
+
+2° Des installations utilisant des techniques de cogénération ; sont considérées comme telles les installations assurant une production combinée de deux énergies utiles, électrique et thermique, qui, en ce qui concerne le rendement énergétique global annuel, le rapport "énergie thermique produite sur énergie électrique produite" et les modalités d'utilisation effective de l'énergie thermique produite, répondent à des caractéristiques techniques fixées par arrêté du ministre chargé de l'énergie et qui ont fait l'objet d'un certificat de conformité dont les conditions de délivrance et de retrait sont fixées par le même arrêté ;
+
+3° Des installations utilisant à titre exclusif ou principal des énergies renouvelables ou des déchets ; sont considérées comme telles :
+
+a) Les installations produisant de l'électricié à partir de l'énergie mécanique ou potentielle des lacs, cours d'eau et mers, de l'énergie thermique des nappes aquifères ou des roches souterraines, de l'énergie mécanique du vent, de l'énergie radiative du soleil ;    b) Les installations produisant de l'électricité à partir de l'énergie dégagée par la combustion ou l'explosion de matières d'origine animale ou végétale non fossile, de déchets, de substances issues de la décomposition ou de la fermentation de ces matières ou déchets ; un arrêté du ministre chargé de l'énergie fixera les limites dans lesquelles ces dernières installations peuvent utiliser une fraction d'énergie non renouvelable.
+
+Les dispositions de l'arrêté de suspension ne sont pas applicables aux projets d'installations pour la réalisation desquels, à la date de sa publication au Journal officiel de la République française, le producteur a :
+
+a) Présenté par écrit à Electricité de France une demande de raccordement ou de contrat d'achat ;
+
+b) Obtenu les autorisations administratives correspondantes, dont la liste est précisée par ledit arrêté.
 
 Les cahiers des charges de concession fixeront les tarifs d'achat et les conditions de la fourniture. En attendant la parution des cahiers des charges, le ministre chargé de l'électricité devra, dans chaque cas d'espèce et sauf accord des parties, fixer ces tarifs et conditions dans les deux mois de la demande qui en aura été faite par l'une des parties.
 
