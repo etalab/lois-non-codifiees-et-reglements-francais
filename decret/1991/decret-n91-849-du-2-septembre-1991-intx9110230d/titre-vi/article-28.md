@@ -1,0 +1,3 @@
+# Article 28
+
+Sont intégrés en qualité de titulaires dans le cadre d'emplois des assistants territoriaux de conservation du patrimoine et des bibliothèques, sur proposition motivée de la commission administrative paritaire compétente, en fonction notamment des responsabilités qu'ils ont exercées, les titulaires d'emplois mentionnés à l'article 25 qui, ne possédant pas le diplôme prévu au a de cet article ou n'ayant pas l'ancienneté de service exigée par le b du même article, ont une qualification permettant de les assimiler, en raison de leur niveau de responsabilité, à celle d'un assistant de conservation de 2e ou de 1re classe ou de hors-classes.
