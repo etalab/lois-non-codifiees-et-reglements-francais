@@ -146,6 +146,7 @@
 - [Décret n°85-789 du 24 juillet 1985](decret-n85-789-du-24-juillet-1985)
 - [Décret n°85-1119 du 25 septembre 1985](decret-n85-1119-du-25-septembre-1985)
 - [Décret n°85-1242 du 25 novembre 1985](decret-n85-1242-du-25-novembre-1985)
+- [Décret n°85-634 du 25 juin 1985](decret-n85-634-du-25-juin-1985)
 - [Décret n°86-261 du 25 février 1986](decret-n86-261-du-25-fevrier-1986)
 - [Décret n°85-1052 du 26 septembre 1985](decret-n85-1052-du-26-septembre-1985)
 - [Décret n°85-1068 du 26 septembre 1985](decret-n85-1068-du-26-septembre-1985)
