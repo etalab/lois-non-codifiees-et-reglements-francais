@@ -1,16 +1,16 @@
 # Article 1
 
-Les déclarations et demandes d'inscription prévues aux articles R. 512-3, R. 512-15, R. 512-17, R. 513-1 et R. 513-2 du code de la propriété intellectuelle sont présentées conformément aux modèles ci-annexés enregistrés par la commission pour les simplifications administratives (COSA) :
+Les demandes d'enregistrement ou d'inscription et déclarations prévues aux articles R. 512-3, R. 512-15, R. 512-17, R. 513-1 et R. 513-2 du code de la propriété intellectuelle sont présentées conformément aux modèles ci-annexés enregistrés par la Commission pour les simplifications administratives (COSA) :
 
-- annexe 1 : déclaration de dépôt (CERFA n° 55-1321) ;
+- annexe 1 : demande d'enregistrement (CERFA n° 11842[*01) ;
 
-- annexe 2 : déclaration de prorogation (CERFA n° 10437*01) ;
+- annexe 2 : déclaration de prorogation (CERFA n° 10437*]01) ;
 
-- annexe 3 : déclaration de renonciation (CERFA n°s 10438*02 et 11603*01) ;
+- annexe 3 : déclaration de renonciation (CERFA n°s 10438[*02 et 11603*]01) ;
 
-- annexe 4 : demande d'inscription au registre national d'un acte affectant la propriété ou la jouissance d'un dépôt (CERFA n°s 11602*01 et 11600*01) ;
+- annexe 4 : demande d'inscription au registre national d'un acte affectant la propriété ou la jouissance d'un dépôt (CERFA n°s 11602[*01 et 11600*]01) ;
 
-- annexe 5 : demande d'inscription au registre national d'une rectification, changement de nom, forme juridique ou adresse, ou correction d'erreur matérielle (CERFA n°s 11601*01 et 11600*01).
+- annexe 5 : demande d'inscription au registre national d'une rectification, changement de nom, forme juridique ou adresse, ou correction d'erreur matérielle (CERFA n°s 11601[*01 et 11600*]01).
 
 La reproduction graphique ou photographique prévue à l'article R. 512-3 du code de la propriété intellectuelle est présentée sur un support conforme au modèle ci-annexé :
 
@@ -20,11 +20,11 @@ Les imprimés correspondants peuvent être obtenus gratuitement à l'Institut na
 
 II. - La reproduction graphique ou photographique prévue à l'article 3 du décret du 13 août 1992 modifié susvisé est présentée sur un support conforme au modèle ci-annexé (1) :
 
-Annexe VI, Support de reproduction (Cerfa n° 55-1322).
+Annexe 6, Support de reproduction (Cerfa n° 55-1322).
 
 II. - La reproduction graphique ou photographique prévue à l'article 3 du décret du 13 août 1992 susvisé est présentée sur un support conforme au modèle ci-annexé (1) :
 
-Annexe VI : Support de reproduction (C.E.R.F.A. n° 55-1277).
+Annexe 6 : Support de reproduction (C.E.R.F.A. n° 55-1277).
 
 III. - Les déclarations, demandes et supports de reproduction susvisés ne doivent présenter ni pliure ni déchirure. Toutes les mentions, autres que celles indiquées comme facultatives, doivent y figurer. Aucune autre mention n'est autorisée.
 
