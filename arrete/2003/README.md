@@ -379,7 +379,6 @@
 - [Arrêté du 11 août 2003 (ECOC0300157A)](arrete-du-11-aout-2003-ecoc0300157a)
 - [Arrêté du 11 août 2003 (MCCB0300576A)](arrete-du-11-aout-2003-mccb0300576a)
 - [Arrêté du 11 août 2003 (SANH0323224A)](arrete-du-11-aout-2003-sanh0323224a)
-- [Arrêté du 11 août 2003 (SPRK0370150A)](arrete-du-11-aout-2003-sprk0370150a)
 - [Arrêté du 11 avril 2003 (EQUP0300399A)](arrete-du-11-avril-2003-equp0300399a)
 - [Arrêté du 11 décembre 2003 (EQUT0301731A)](arrete-du-11-decembre-2003-equt0301731a)
 - [Arrêté du 11 février 2003 (AGRG0300336A)](arrete-du-11-fevrier-2003-agrg0300336a)
