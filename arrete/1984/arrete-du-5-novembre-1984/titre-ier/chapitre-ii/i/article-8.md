@@ -98,7 +98,11 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire ;
 
-2. Le certificat de conformité au type communautaire original (non complété par la rubrique nationale) édité le cas échéant dans une autre langue que le français et une attestation d'identification du véhicule au type communautaire délivrée soit par le constructeur ou son représentant en France, soit par la direction régionale de l'industrie, de la recherche et de l'environnement, dont le modèle est indiqué en annexe XVIII du présent arrêté ;
+2. Le certificat de conformité au type communautaire original (non complété par la rubrique nationale) édité le cas échéant dans une autre langue que le français et comportant, ou permettant d'obtenir directement, l'ensemble des informations nécessaires à l'immatriculation.
+
+Dans le cas où le certificat de conformité au type communautaire ne comporte pas, ou ne permet pas d'obtenir directement, l'ensemble des informations nécessaires à l'immatriculation :
+
+- une attestation d'identification du véhicule au type communautaire, dont le modèle figure en annexe XVIII du présent arrêté, délivrée soit par le constructeur ou son représentant en France, soit par une direction régionale de l'industrie, de la recherche et de l'environnement ;
 
 3. Un certificat de cession ou une facture établis par le vendeur ;
 

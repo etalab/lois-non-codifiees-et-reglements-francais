@@ -18,9 +18,7 @@ En cas de cession à titre gratuit, la précédente carte grise revêtue de la m
 
 4. Une pièce justificative de son identité et une déclaration de domicile et, le cas échéant, celles du locataire (cf. annexe VI).
 
-5. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
-
-6. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise.
+5.  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
 
 10.A. - II. - Cas particulier d'un véhicule tombé dans une succession
 
@@ -30,13 +28,11 @@ Pour obtenir l'immatriculation du véhicule à son nom, l'héritier ou l'un des 
 
 2. La précédente carte grise.
 
-3. Soit une attestation du notaire chargé de la liquidation de la succession certifiant que M..., né(e) le... à..., est décédé(e) le... à..., que dans la succession se trouve un véhicule (avec indication de la marque et du numéro minéralogique et si possible le type et le numéro dans la série du type), soit un acte de notoriété ou certificat de propriété établi par un juge d'instance, soit un certificat d'hérédité délivré par le maire.
+3. Soit une attestation du notaire chargé de la liquidation de la succession certifiant que M..., né(e) le ... à ..., est décédé(e) le .. à ..., que dans la succession se trouve un véhicule (avec indication de la marque et du numéro minéralogique et si possible le type et le numéro dans la série du type), soit un acte de notoriété ou certificat de propriété établi par un juge d'instance, soit un certificat d'hérédité délivré par le maire.
 
 4. En cas de cohéritiers, une lettre de désistement de tous les autres héritiers en faveur de celui qui demande l'immatriculation du véhicule ou un certificat du notaire constatant leur accord pour attribuer le véhicule à l'un d'entre eux.
 
-5. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
-
-6. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise.
+5.  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
 
 Avant toute revente à un tiers, un véhicule tombé dans une succession doit être immatriculé au nom de l'héritier ou d'un des héritiers sauf si cette revente intervient dans un délai n'excédant pas trois mois suivant le décès du titulaire de la carte grise ou sauf si, depuis le décès du titulaire, le véhicule n'a pas circulé sur les voies ouvertes à la circulation publique. Dans ce dernier cas, l'acquéreur devra joindre en sus des pièces visées aux paragraphes 1 à 3 ci-dessus :
 
@@ -46,9 +42,7 @@ Avant toute revente à un tiers, un véhicule tombé dans une succession doit ê
 
 3° Une attestation sur l'honneur de l'héritier qui avait la garde juridique du véhicule certifiant que ce dernier n'a pas circulé depuis le décès du titulaire de la carte grise.
 
-4. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
-
-5. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise.
+4°  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
 
 10.A. - III. - Cas particulier de véhicules vendus aux enchères publiques ou faisant l'objet d'une décision judiciaire déterminant leur propriété
 
@@ -64,9 +58,7 @@ Un procès-verbal de réception à titre isolé délivré par la direction régi
 
 Si le véhicule a été vendu comme " épave " ou " impropre à la circulation ", l'acquéreur devra fournir, même s'il est en possession de la carte grise, un procès-verbal de réception à titre isolé.
 
-4. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
-
-5. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise.
+4.  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
 
 10.B. - La mutation a lieu d'un département à un autre
 
@@ -90,19 +82,33 @@ a) Pour les véhicules précédemment immatriculés dans un Etat membre de l'Uni
 
 La ou les pièces suivantes selon le cas :
 
-3.1. Pour les véhicules conformes à un type national français ou communautaire, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes ainsi que pour les tracteurs agricoles ou forestiers :
+3.1. Pour les véhicules conformes à un type communautaire, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes, à l'exception des tracteurs agricoles ou forestiers :
 
-- une attestation d'identification à un type national ou à un type communautaire, dont le modèle figure en annexe XVII et XVIII au présent arrêté, délivrée soit par le constructeur ou son représentant en France, soit par une direction régionale de l'industrie, de la recherche et de l'environnement ;
+- soit le certificat d'immatriculation, visé au point 2 ci-dessus, conforme aux dispositions de la directive 1999/37/CE du Conseil du 29 avril 1999, relative aux documents d'immatriculation des véhicules, délivré dans le pays d'immatriculation, et comportant, ou permettant d'obtenir directement, l'ensemble des informations nécessaires à l'immatriculation ;
 
-- la preuve d'une visite ou d'un contrôle technique en cours de val dité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
+- soit le certificat de conformité au type communautaire, édité le cas échéant dans une autre langue que le français, et comportant ou permettant d'obtenir directement l'ensemble des données nécessaires à l'immatriculation (ne sont acceptés que : le certificat original restitué par les autorités de l'Etat de première immatriculation précédente, le duplicata du certificat délivré par le constructeur ou son représentant dans l'Etat de première immatriculation ou d'immatriculation précédente, la copie du certificat certifiée conforme par les autorités de l'Etat de première immatriculation ou d'immatriculation précédente) ;
 
-3.2. Pour les véhicules non conformes à un type national français ou communautaire, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes ainsi que pour les tracteurs agricoles ou forestiers :
+- la preuve d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
+
+Dans le cas où le certificat d'immatriculation conforme aux dispositions de la directive 1999/37/CE ou le certificat de conformité au type communautaire ne permet pas d'obtenir directement l'ensemble des informations nécessaires à l'immatriculation :
+
+- une attestation d'identification du véhicule au type communautaire, dont le modèle figure en annexe XVIII du présent arrêté, délivrée soit par le constructeur ou son représentant en France, soit par une direction régionale de l'industrie, de la recherche et de l'environnement ;
+
+- la preuve d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
+
+3.2. Pour les véhicules conformes à un type national français, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes, ainsi que pour les tracteurs agricoles ou forestiers conformes à un type national français ou communautaire :
+
+- une attestation d'identification à un type national ou communautaire, dont le modèle figure en annexe XVII et XVIII au présent arrêté, délivrée soit par le constructeur ou son représentant en France, soit par une direction régionale de l'industrie, de la recherche et de l'environnement ;
+
+- la preuve d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
+
+3.3. Pour les véhicules non conformes à un type national français ou communautaire, d'un poids total autorisé en charge inférieur ou égal à 3,5 tonnes, ainsi que pour les tracteurs agricoles ou forestiers non conformes à un type national français ou communautaire :
 
 - un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie, de la recherche et de l'environnement ;
 
 - la preuve d'une visite ou d'un contrôle technique en cours de validité pour les véhicules dont l'âge et le genre les soumettent à cette obligation.
 
-3.3. Pour les véhicules d'un poids total autorisé en charge supérieur à 3,5 tonnes et les véhicules agricoles autres que les tracteurs agricoles ou forestiers :
+3.4. Pour les véhicules d'un poids total autorisé en charge supérieur à 3,5 tonnes et les véhicules autres que les tracteurs agricoles ou forestiers :
 
 - un procès-verbal de réception à titre isolé délivré par une direction régionale de l'industrie, de la recherche et de l'environnement ;
 
@@ -132,17 +138,15 @@ c) Pour les véhicules précédemment immatriculés dans les départements ainsi
 
 2. Le certificat d'immatriculation ;
 
-3. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise ;
+3.  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
 
-4. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise ;
+4. Abrogé.
 
 5. Un certificat de dédouanement 846 A délivré par l'administration des douanes ;
 
 6. S'il y a eu vente, le certificat de cession (ou la facture) ;
 
-7. Pour les véhicules provenant des territoires d'outre-mer et des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, un procès-verbal de réception à titre isolé, s'il ne peut être produit une attestation de l'administration territoriale concernée précisant que le véhicule a été à l'origine
-
-immatriculé au vu d'un certificat de conformité national ou communautaire.
+7. Pour les véhicules provenant des territoires d'outre-mer et des collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon, un procès-verbal de réception à titre isolé, s'il ne peut être produit une attestation de l'administration territoriale concernée précisant que le véhicule a été à l'origine immatriculé au vu d'un certificat de conformité national ou communautaire.
 
 10.D. - Cas des véhicules précédemment immatriculés dans la série spéciale FFECSA (Forces françaises et élément civil stationnés en Allemagne).
 

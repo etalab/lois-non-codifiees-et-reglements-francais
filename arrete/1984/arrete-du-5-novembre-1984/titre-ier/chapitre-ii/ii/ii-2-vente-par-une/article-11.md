@@ -4,13 +4,11 @@ L'achat par un professionnel d'un véhicule déjà immatriculé doit donner lieu
 
 En vue de l'enregistrement d'une déclaration d'achat, le professionnel doit adresser les volets constituant ce document au préfet (préfet de police pour Paris) du département de son domicile, accompagnés des pièces suivantes :
 
-1. La carte grise remise par l'ancien propriétaire portant la mention " vendu le (date de la transaction) suivie de sa signature ;
+1. La carte grise remise par l'ancien propriétaire portant la mention vendu le (date de la transaction) suivie de sa signature ;
 
 2. Un certificat de vente ;
 
-3. Une attestation d'inscription ou de non-inscription de gage établie depuis moins d'un mois par la préfecture qui a délivré la précédente carte grise.
-
-4. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise.
+3.  Un certificat de non-opposition au transfert du certificat d'immatriculation et une attestation d'inscription ou de non-inscription de gage établis depuis moins d'un mois par le préfet qui a délivré la précédente carte grise ou par le préfet compétent pour délivrer la nouvelle, ou par voie électronique lorsque la demande est présentée par l'intermédiaire du site internet du ministère de l'intérieur.
 
 Le volet A de cette déclaration d'achat après visa de la préfecture est remis au négociant avec la carte grise du véhicule. Il constitue le récépissé de cette déclaration.
 

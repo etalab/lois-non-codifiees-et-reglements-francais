@@ -2,11 +2,11 @@
 
 Le comité d'orientation mentionné à l'article 4 du décret du 14 septembre 1998 susvisé comprend les membres suivants :
 
-1. Un haut fonctionnaire du ministère chargé de l'équipement, désigné pour une durée de trois ans par arrêté du ministre chargé de l'équipement, qui assure la présidence du comité.
+1. Le directeur du personnel, des services et de la modernisation, qui assure la présidence du comité.
 
 2. Trois membres de droit :
 
-- le sous-directeur du recrutement et de la formation de la direction du personnel et des services, qui assure la présidence du comité en cas d'empêchement de son président ;
+- le chef de la mission du développement, des compétences et des qualifications de la direction du personnel, des services et de la modernisation, qui assure la présidence du comité en cas d'empêchement de son président ;
 
 - le directeur du centre d'évaluation, de documentation et d'innovation pédagogiques ;
 
