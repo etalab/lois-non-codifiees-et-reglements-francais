@@ -1,0 +1,5 @@
+# Article 13
+
+Les récipients-mesures non conformes aux exigences métrologiques du présent arrêté, présentés à la vérification primitive avant le 1er janvier 1998, pourront être acceptés, sous réserve qu'ils soient conformes aux exigences métrologiques en vigueur avant la publication du présent arrêté, sous réserve que des essais de stabilité de la position de référence et de la stabilité dimensionnelle permettent d'établir que les récipients-mesures sont suffisamment stables au regard des incertitudes de jaugeage.
+
+Les récipients-mesures non conformes aux exigences métrologiques du présent arrêté, mis en service avant le 1er janvier 1998, pourront être acceptés aux vérifications ultérieures, sous réserve qu'ils soient conformes aux exigences métrologiques en vigueur avant la publication du présent arrêté. Cependant, dans tous les cas, un examen du respect de la position de référence devra être effectué et devra avoir permis d'établir que tous les récipients-mesures sont suffisamment stables au regard des incertitudes de jaugeage.
