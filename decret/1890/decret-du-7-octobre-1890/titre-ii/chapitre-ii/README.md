@@ -2,3 +2,4 @@
 
 - [Section I : Règles communes aux marchés au comptant et aux marchés à terme.](section-i)
 - [Section III : Règles spéciales aux marchés à terme autres que les options négociables.](section-iii)
+- [Section III bis : Règles spéciales aux marchés d'options négociables.](section-iii-bis)

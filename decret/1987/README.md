@@ -85,6 +85,7 @@
 - [Décret n°87-22 du 12 janvier 1987](decret-n87-22-du-12-janvier-1987)
 - [Décret n°87-385 du 12 juin 1987 (MCLB8700154D)](decret-n87-385-du-12-juin-1987-mclb8700154d)
 - [Décret n°87-387 du 12 juin 1987 (EQUC8700312D)](decret-n87-387-du-12-juin-1987-equc8700312d)
+- [Décret n°87-419 du 12 juin 1987](decret-n87-419-du-12-juin-1987)
 - [Décret n°87-97 du 12 février 1987 (AGRI8700211D)](decret-n87-97-du-12-fevrier-1987-agri8700211d)
 - [Décret n°87-98 du 12 février 1987](decret-n87-98-du-12-fevrier-1987)
 - [Décret n°87-325 du 12 mai 1987](decret-n87-325-du-12-mai-1987)

@@ -6,7 +6,7 @@ Le secrétaire de la commission notifie la demande à l'autre partie en l'invita
 
 Le secrétaire adresse un exemplaire de ce mémoire au demandeur et au ministre du travail qui peuvent présenter leurs observations dans un nouveau délai de vingt jours.
 
-Indépendamment du cas prévu au premier alinéa du présent article, le ministre du travail peut saisir la commission de difficultés soulevées par l'application des conditions fixées à l'article 27 susvisé du code de la sécurité sociale [*L211-4 nouveau*].
+Indépendamment du cas prévu au premier alinéa du présent article, le ministre du travail peut saisir la commission de difficultés soulevées par l'application des conditions fixées à l'article 27 susvisé du code de la sécurité sociale (L211-4 nouveau).
 
 Dans ce cas, le secrétaire de la commission invite le groupement mutualiste et la caisse concernés à présenter, sous forme de mémoire en triple exemplaire, leurs observations dans un délai de vingt jours.
 
