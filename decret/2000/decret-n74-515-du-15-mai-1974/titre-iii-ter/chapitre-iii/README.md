@@ -1,6 +1,7 @@
 # CHAPITRE III : Avancement.
 
 - [Article 30-23](article-30-23.md)
+- [Article 30-24](article-30-24.md)
 - [Article 30-25](article-30-25.md)
 - [Article 30-26](article-30-26.md)
 - [Article 30-27](article-30-27.md)
