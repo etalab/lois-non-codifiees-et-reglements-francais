@@ -6,3 +6,4 @@
 - [Loi n° 61-1408 du 22 décembre 1961](loi-n-61-1408-du-22-decembre-1961)
 - [Loi n° 61-1413 du 22 décembre 1961](loi-n-61-1413-du-22-decembre-1961)
 - [Loi n° 61-1414 du 22 décembre 1961](loi-n-61-1414-du-22-decembre-1961)
+- [Loi n° 61-1439 du 26 décembre 1961](loi-n-61-1439-du-26-decembre-1961)
