@@ -1,7 +1,0 @@
-# Article 14
-
-Les licences visées aux articles 2 et 4 ci-dessus [*licence de commissionnaire de transport - de courtier de fret*] et les autorisations visées à l'article 5 [*dépôt de colis - activité de dépositaire*] ne peuvent être attribuées [*octroi*] qu'à des personnes présentant les garanties de moralité nécessaires et justifiant qu'elles ont la nationalité française [*condition*], celle-ci s'entendant, pour des sociétés, de leur siège [*social*] et de leurs dirigeants. Les personnes étrangères peuvent cependant recevoir des licences ou des autorisations si elles ressortissent à un pays accordant un régime de réciprocité aux personnes françaises.
-
-Les licences visées aux articles 2 et 4 ci-dessus et les autorisations visées à l'article 5 sont délivrées pour une durée de dix ans. Le titulaire d'une licence ou d'une autorisation en obtient le renouvellement à l'expiration de la durée de validité, s'il continue à remplir les conditions définies au premier alinéa du présent article.
-
-Les licences et les autorisations sont personnelles et incessibles. En cas de transmission ou de location du fonds de commerce, le bénéficiaire de la transmission ou le locataire doit demander une nouvelle licence ou une nouvelle autorisation, qui lui est accordée s'il remplit les conditions définies au premier alinéa du présent article. L'ancienne licence ou l'ancienne autorisation est alors annulée.
