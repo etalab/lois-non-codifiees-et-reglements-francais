@@ -1,3 +1,0 @@
-# Article 21
-
-Sont abrogés le décret n° 64-1057 du 15 octobre 1964 fixant le statut particulier des contrôleurs des services déconcentrés de la concurrence et de la consommation, le décret n° 64-1058 du 15 octobre 1964 fixant le statut particulier des contrôleurs divisionnaires des services déconcentrés de la concurrence et de la consommation, le titre III du décret n° 85-333 du 13 mars 1985 modifiant certaines dispositions statutaires applicables aux contrôleurs divisionnaires des services déconcentrés du ministère de l'économie, des finances et du budget, et le décret n° 86-995 du 25 août 1986 relatif au statut particulier du corps des contrôleurs de la répression des fraudes.

@@ -1,4 +1,0 @@
-# TITRE VI : CONSTITUTION INITIALE DU CADRE D'EMPLOIS ET AUTRES DISPOSITIONS.
-
-- [Article 25](article-25.md)
-- [Article 33](article-33.md)

@@ -2,6 +2,5 @@
 
 - [Article 1](article-1.md)
 - [TITRE I : PERSONNEL DE DIRECTION.](titre-i)
-- [TITRE II : PERSONNEL ADMINISTRATIF ET PERSONNEL DE SERVICE.](titre-ii)
 - [TITRE III : DISPOSITIONS TRANSITOIRES.](titre-iii)
 - [Article 25](article-25.md)

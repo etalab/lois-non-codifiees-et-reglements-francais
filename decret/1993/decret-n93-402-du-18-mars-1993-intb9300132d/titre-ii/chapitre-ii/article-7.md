@@ -1,7 +1,0 @@
-# Article 7
-
-Les épreuves d'admissibilité du concours interne de recrutement des secrétaires médico-sociaux territoriaux comprennent :
-
-1° Une composition sur un sujet d'ordre général permettant d'apprécier la culture et les connaissances générales du candidat (durée : trois heures ; coefficient 4) ;
-
-2° La rédaction d'une note à partir des éléments d'un dossier portant sur les différents secteurs d'intervention des collectivités territoriales dans le domaine médico-social (durée : trois heures ; coefficient 3).

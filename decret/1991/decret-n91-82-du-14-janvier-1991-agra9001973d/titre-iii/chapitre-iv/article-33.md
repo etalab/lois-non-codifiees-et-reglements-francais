@@ -1,9 +1,0 @@
-# Article 33
-
-Peuvent être promus au grade d'attaché principal :
-
-1° Après inscription sur un tableau d'avancement établi au vu des résultats d'une sélection organisée par voie d'examen professionnel qui comporte une épreuve orale devant un jury désigné par le ministre chargé de l'agriculture, les attachés ayant accompli huit ans de services effectifs dans le corps ou dans un corps, cadre d'emplois ou emploi de catégorie A et comptant au moins un an et six mois d'ancienneté dans le 6e  échelon du grade d'attaché. La durée du service national vient, le cas échéant, en déduction de ces huit années de services effectifs. L'ancienneté éventuellement acquise dans un corps, cadre d'emplois ou emploi de catégorie B au-delà de douze ans est également admise en déduction. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de cinq ans la durée des services effectivement accomplis dans un corps, cadre d'emplois ou emploi de catégorie A. Les candidats retenus par le jury sont inscrits sur une liste de classement qui ne peut comprendre un nombre de candidats supérieur de plus de 50 p. 100 à celui des postes à pourvoir. Les modalités d'organisation de la sélection professionnelle et la nature des épreuves sont fixées par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la fonction publique ;
-
-2° Au choix, dans la limite du sixième des promotions à prononcer au titre du 1° ci-dessus et après inscription sur un tableau d'avancement, les attachés parvenus au 3e échelon de la 1re classe.
-
-Lorsque le nombre des promotions prononcées au titre du 1° ci-dessus n'est pas un multiple de six, le reste est ajouté aux promotions prononcées l'année suivante pour le calcul des nominations à prononcer au titre de cette nouvelle année en application du 2° du présent article.

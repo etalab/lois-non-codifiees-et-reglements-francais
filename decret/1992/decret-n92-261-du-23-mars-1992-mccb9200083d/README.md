@@ -3,6 +3,5 @@
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Recrutement.](chapitre-ii)
 - [CHAPITRE III : Avancement.](chapitre-iii)
-- [CHAPITRE IV : Détachement.](chapitre-iv)
 - [CHAPITRE V : Dispositions transitoires et diverses.](chapitre-v)
 - [Article 20](article-20.md)
