@@ -305,7 +305,6 @@
 - [Arrêté du 11 janvier 1993 (DEFB9301052A)](arrete-du-11-janvier-1993-defb9301052a)
 - [Arrêté du 11 janvier 1993 (ECOT9240125A)](arrete-du-11-janvier-1993-ecot9240125a)
 - [Arrêté du 11 janvier 1993 (EQUU9300081A)](arrete-du-11-janvier-1993-equu9300081a)
-- [Arrêté du 11 janvier 1993 (SPSA9300141A)](arrete-du-11-janvier-1993-spsa9300141a)
 - [Arrêté du 11 janvier 1993 (TOUR9204590A)](arrete-du-11-janvier-1993-tour9204590a)
 - [Arrêté du 11 juin 1993 (BUDL9300106A)](arrete-du-11-juin-1993-budl9300106a)
 - [Arrêté du 11 juin 1993 (EQUA9300954A)](arrete-du-11-juin-1993-equa9300954a)
