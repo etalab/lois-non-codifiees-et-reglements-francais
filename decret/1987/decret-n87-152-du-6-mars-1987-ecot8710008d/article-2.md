@@ -1,3 +1,7 @@
 # Article 2
 
-Le président du conseil d'administration est l'ordonnateur des dépenses de la Caisse d'amortissement de la dette publique. Il peut déléguer sa signature à un membre du conseil d'administration. Il représente la caisse en justice et dans tous les actes de la vie civile.
+Le président du conseil d'administration ou son suppléant désigné dans les conditions prévues à l'article 1er dirige la Caisse de la dette publique. Il rend compte de ses décisions au conseil d'administration.
+
+Il est l'ordonnateur des dépenses de la caisse.
+
+Il représente la caisse en justice et dans tous les actes de la vie civile.

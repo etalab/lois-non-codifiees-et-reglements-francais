@@ -1,3 +1,3 @@
 # Article 4
 
-La Caisse des dépôts et consignations assure, dans les conditions définies par une convention entre les deux établissements, la gestion administrative, comptable et financière des opérations de la Caisse d'amortissement de la dette publique.
+Le service du ministère de l'économie, des finances et de l'industrie chargé de la gestion de la dette et de la trésorerie de l'Etat est mis, en tant que de besoin, à la disposition de la caisse.
