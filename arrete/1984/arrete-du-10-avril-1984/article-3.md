@@ -1,5 +1,9 @@
 # Article 3
 
-Les dispositions des articles 3, 4, 5 et 6 de l'arrêté du 10 avril 1984 modifié susvisé relatif à la composition et au fonctionnement du conseil scientifique s'appliquent aux élections des membres des commissions scientifiques spécialisées. Pour l'élection des membres visés à l'article 1er (1°) ci-dessus, le vote a lieu par commission. A cet effet, les listes électorales sont établies selon le choix des électeurs quant à leur commission de rattachement.
+Sont également dispensés du visa les étrangers :
 
-Il est créé à l'Institut national de la santé et de la recherche médicale une commission électorale pour chacune des commissions scientifiques spécialisées composée de deux représentants de chacun des collèges A1 et A2 et d'un représentant de chacun des collèges B1, B2, C1, et C2 des commissions scientifiques spécialisées sortantes. Cette commission est chargée de suivre les opérations électorales spécifiques à cette commission scientifique spécialisée, une fois les listes électorales constituées. A titre transitoire, la première commission électorale qui sera mise en place pour l'application du présent alinéa sera composée d'un représentant de chacun des collèges A1, B1, B2 et C des commissions scientifiques spécialisées sortantes.
+1° Se trouvant dans un port français à bord d'un navire y faisant escale, en provenance ou à destination de l'étranger, dès lors qu'ils ne quittent pas le navire ;
+
+2° Transitant par le territoire français en empruntant exclusivement la voie aérienne, sous réserve qu'ils ne sortent pas des limites de l'aéroport durant les escales à l'exception des ressortissants des Etats qui sont soumis au visa (consulaire) de transit aéroportuaire.
+
+La liste des Etats dont les ressortissants sont soumis au visa (consulaire) de transit aéroportuaire est arrêtée par le ministre de l'intérieur et le ministre des affaires étrangères.
