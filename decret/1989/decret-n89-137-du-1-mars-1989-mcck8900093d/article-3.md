@@ -1,6 +1,6 @@
 # Article 3
 
-Jusqu'au 31 décembre 1989 [*délai*], les subventions allouées aux entreprises de distribution d'oeuvres cinématographiques d'une durée de projection supérieure à une heure, dans les conditions définies ci-dessus, sont calculées par application des taux suivants au produit de la taxe spéciale sur le prix des places perçues, à compter du 1er janvier 1989, à l'occasion de l'exploitation d'une oeuvre cinématographique déterminée :
+Jusqu'au 31 décembre 1990 [*délai*], les subventions allouées aux entreprises de distribution d'oeuvres cinématographiques d'une durée de projection supérieure à une heure, dans les conditions définies ci-dessus, sont calculées par application des taux suivants au produit de la taxe spéciale sur le prix des places perçues, à compter du 1er janvier 1989, à l'occasion de l'exploitation d'une oeuvre cinématographique déterminée :
 
 50 p. 100 tant que le montant de la recette réalisée par cette oeuvre cinématographique est inférieur ou égal à 20 000 000 F [*montant - francs*] ;
 
