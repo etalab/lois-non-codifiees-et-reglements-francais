@@ -8,4 +8,6 @@ Les adjudications réalisées en application des alinéas qui précèdent emport
 
 Le liquidateur répartit le produit des ventes et règle l'ordre entre les créanciers [*rang*], sous réserve des contestations qui sont portées devant le tribunal de grande instance.
 
+En cas de liquidation judiciaire d'un agriculteur, le tribunal peut, en considération de la situation personnelle et familiale du débiteur, lui accorder des délais de grâce dont il détermine la durée pour quitter sa maison d'habitation principale.
+
 Les modalités d'application du présent article sont fixées par voie réglementaire.
