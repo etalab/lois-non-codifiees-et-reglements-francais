@@ -1,8 +1,8 @@
 # Article 14
 
-Le certificat d'inscription au registre des transporteurs permet de réaliser les transports suivants :
+Le certificat d'inscription au registre permet de réaliser les transports suivants :
 
-1. Sur l'ensemble du territoire, les transports effectués à l'aide de véhicules dont le poids maximum autorisé est inférieur ou égal à 7,5 tonnes, les transports de conteneurs vides de 6 mètres de long au minimum, et les transports de masses indivisibles exécutés au moyen de véhicules spéciaux réceptionnés au titre de l'article R. 109 du Code de la route ;
+1. Sur l'ensemble du territoire, les transports effectués à l'aide de véhicules dont le poids maximum autorisé est inférieur ou égal à 6 tonnes, les transports de conteneurs vides de 6 mètres de long au minimum, et les transports de masses indivisibles exécutés au moyen de véhicules spéciaux réceptionnés au titre de l'article R. 109 du Code de la route ;
 
 2. Sur le territoire national, les transports internationaux exécutés par les transporteurs établis en France ;
 

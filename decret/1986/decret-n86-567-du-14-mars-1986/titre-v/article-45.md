@@ -6,15 +6,15 @@ Les dispositions du titre Ier du présent décret relatives à l'inscription au 
 
 a) Les véhicules utilisés appartiennent à ces entreprises, ou encore ont été pris en location par elles ;
 
-b) Les marchandises transportées doivent être la propriété de l'une ou l'autre des parties ou avoir été vendues, empruntées, prises en location ou produites par l'une d'elles, ou leur avoir été confiées en vue de l'exécution par elles d'une transformation, d'une réparation ou d'un travail à façon. Ces marchandises sont transportées pour la réalisation du travail commun ou de l'activité commune définie au contrat ;
+b) Les marchandises transportées doivent être la propriété de l'une ou l'autre des parties ou avoir été vendues, empruntées, mises en dépôt en vue de leur vente, prises en location ou produites par l'une d'elles, ou leur avoir été confiées en vue de l'exécution par elles d'une transformation, d'une réparation ou d'un travail à façon. Ces marchandises sont transportées pour la réalisation du travail commun ou de l'activité commune définie au contrat ;
 
 c) Le transport n'est que l'accessoire et le complément du travail ou de l'activité définie par le contrat.
 
 Un arrêté du ministre chargé des transports fixe les conditions dans lesquelles sont exécutés ces transports.
 
-" 2. Transports exécutés sur une distance ne dépassant pas 100 kilomètres, calculée par rapport à la commune dans laquelle ce transport a son origine :
+2. Transports exécutés sur une distance ne dépassant pas 100 kilomètres, calculée par rapport à la commune dans laquelle ce transport a son origine :
 
-" - au moyen de véhicules et appareils agricoles définis par le A de l'article R. 138 du code de la route, pour les besoins d'une exploitation agricole. "
+- au moyen de véhicules et appareils agricoles définis par le A de l'article R. 138 du code de la route, pour les besoins d'une exploitation agricole. "
 
 3. Transports exécutés dans le cadre des groupements d'entreprises agricoles dans les conditions suivantes :
 
@@ -33,5 +33,3 @@ c) Le transport n'est que l'accessoire et le complément de l'activité du group
 7. Transports de véhicules accidentés par dépanneuse ou par véhicule spécialisé entre le lieu de l'accident ou de la panne et le lieu de réparation.
 
 8. Transports sur route de wagons de chemin de fer exécutés par des véhicules aménagés spécialement à cet effet.
-
-9. Transports exécutés par une personne physique ou morale lorsqu'ils concernent des marchandises faisant l'objet de son activité professionnelle et sont réalisés dans des conditions fixées par un arrêté du ministre chargé des transports.

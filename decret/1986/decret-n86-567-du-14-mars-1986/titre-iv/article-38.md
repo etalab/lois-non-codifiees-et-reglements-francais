@@ -4,7 +4,7 @@ En application du second alinéa de l'article 33 de la loi d'orientation des tra
 
 1° Les entreprises, les coopératives de transport, les coopératives d'entreprises de transport n'ayant pas opté pour le statut résultant de la loi n° 83-657 du 20 juillet 1983 et les groupements d'entreprises qui, en raison d'une surcharge temporaire d'activité, se trouvent dans l'impossibilité d'exécuter les contrats de transports dont elles sont titulaires pas leurs propres moyens ;
 
-Le montant des opérations sous-traitées à ce titre, qui ne peut excéder 15 % [*pourcentage*] du chiffre d'affaires annuel de l'activité de transport routier de marchandises de l'entreprise, de la coopérative ou du groupement, fait l'objet d'une déclaration par l'entreprise dans des conditions fixées par arrêté du ministre chargé des transports à un organisme professionnel participant à l'application de la réglementation des transports ;
+Le montant des opérations sous-traitées à ce titre, qui ne peut excéder 15 % du chiffre d'affaires annuel de l'activité de transport routier de marchandises de l'entreprise, de la coopérative ou du groupement, fait l'objet d'une déclaration par l'entreprise dans des conditions fixées par arrêté du ministre chargé des transports.
 
 2° Les coopératives d'entreprises de transport ayant opté pour le statut résultant de la loi n° 83-657 du 20 juillet 1983, lorsqu'elles confient l'exécution des contrats de transport routier à d'autres transporteurs publics que leurs membres ou associés, dans les limites fixées par la loi susvisée et dans les conditions de déclaration fixées au 1° ci-dessus ;
 
