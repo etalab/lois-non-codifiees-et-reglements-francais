@@ -1,13 +1,37 @@
 # Article 8
 
-Sont interdits :
+I. - Sont interdits :
 
-- la chasse à tir de la perdrix ou du faisan au poste, soit à l'agrainée soit à proximité d'abreuvoirs ;
+- la chasse à tir de la perdrix ou du faisan au poste, soit à l'agrainée, soit à proximité d'abreuvoirs ;
+
+- la chasse à tir du gibier d'eau à l'agrainée ;
 
 - la chasse de la bécasse à la passée ou à la croule ;
 
 - le déterrage de la marmotte ;
 
-- l'emploi des chiens lévriers pur sang ou croisés.
+- l'emploi des chiens lévriers pur sang ou croisés ;
 
-- la chasse à tir des ongulés à proximité immédiate de dépôts de sel ou de dispositifs d'affouragement.    L'utilisation du furet est autorisée pour la chasse du lapin. Toutefois, elle devra faire l'objet d'une autorisation individuelle délivrée par le commissaire de la République dans les départements figurant sur une liste établie par le ministre chargé de la chasse sur proposition du commissaire de la République.
+- la chasse à tir des ongulés à proximité immédiate de dépôts de sel ou de dispositifs d'affouragement.
+
+II. - Sont interdits :
+
+1. Pour la chasse du chamois ou isard :
+
+- la chasse en battue ou traque, sauf dans les départements suivants : Ain, Alpes-Maritimes, Haute-Savoie, Vosges ;
+
+- l'emploi des chiens, sauf dans les départements suivants :
+
+Alpes-Maritimes, Haute-Savoie, Vosges ;
+
+2. Pour la chasse du mouflon :
+
+- la chasse en battue ou traque, sauf dans les départements suivants : Alpes-Maritimes, Aveyron, Dordogne, Gard, Lozère, Puy-de-Dôme, Haute-Savoie, Vosges ;
+
+- l'emploi des chiens, sauf dans les départements suivants :
+
+Alpes-Maritimes, Aveyron, Dordogne, Gard, Lozère, Puy-de-Dôme, Savoie, Haute-Savoie, Vosges.
+
+III. - La chasse du lapin peut être pratiquée à l'aide du furet. Toutefois son emploi est soumis à une autorisation individuelle délivrée par le préfet dans les départements suivants :
+
+Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ariège, Ardèche, Aude, Aveyron, Bouches-du-Rhône, Cantal, Charente, Corrèze, Corse-du-Sud, Haute-Corse, Côtes-du-Nord, Creuse, Dordogne, Finistère, Gard, Haute-Garonne, Gers, Gironde, Hérault, Landes, Haute-Loire, Lot, Lot-et-Garonne, Lozère, Mayenne, Morbihan, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Haute-Savoie, Tarn-et-Garonne, Var, Vaucluse, Haute-Vienne.

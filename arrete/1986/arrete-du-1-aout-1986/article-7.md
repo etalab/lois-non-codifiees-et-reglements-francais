@@ -6,6 +6,6 @@ Sont interdits pour la chasse et la destruction des animaux nuisibles :
 
 - l'emploi pour attirer le gibier de disques ou de bandes enregistrées reproduisant le cri des animaux ;
 
-- l'emploi de sources lumineuses de nature à faciliter la capture ou la destruction du gibier ;
+- l'emploi de sources lumineuses et de miroirs de nature à faciliter la capture ou la destruction du gibier ;
 
 - l'emploi délibéré de tout dispositif électrocutant.
