@@ -1,3 +1,0 @@
-# Article 1
-
-Le présent arrêté concerne les conditions de préparation, de conservation, quel que soit le lieu où sont effectuées ces opérations, et d'inspection sanitaire des ovoproduits liquides, congelés ou séchés destinés à la consommation humaine. Il s'applique sans préjudice des autres dispositions réglementaires en vigueur, notamment celles du décret n° 65-116 du 15 février 1965 modifié relatif à la qualité des oeufs destinés à la consommation humaine, de l'arrêté interministériel du 4 novembre 1965 relatif aux conditions de collecte et de commercialisation des oeufs et de l'arrêté interministériel du 19 août 1968 concernant les étiquettes pour récipients à produits d'oeufs.
