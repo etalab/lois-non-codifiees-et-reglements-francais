@@ -1,15 +1,9 @@
 # Article 3
 
-Le corps des personnels de direction des services pénitentiaires comprend les grades suivants :
+Le corps des directeurs des services pénitentiaires comprend :
 
-Directeur hors classe ;
+- le grade de directeur hors classe, qui comporte cinq échelons et un échelon fonctionnel ;
 
-Directeur de 1re classe ;
+- le grade de directeur de 1re classe, qui comporte six échelons ;
 
-Directeur de 2e classe.
-
-Le grade de directeur hors classe comporte six échelons.
-
-Le grade de directeur de 1re classe comporte sept échelons.
-
-Le grade de directeur de 2e classe comporte, outre un échelon d'élève, neuf échelons.
+- le grade de directeur de 2e classe, qui comporte huit échelons et un échelon d'élève.
