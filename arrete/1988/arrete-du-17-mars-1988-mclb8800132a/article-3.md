@@ -12,6 +12,8 @@ Le jury [*composition*] comprend, outre le président, six membres ainsi répart
 
 - deux élus locaux dont au moins un pour les régions ou les départements.
 
-Les correcteurs sont désignés par le président du Centre national de la fonction publique territoriale pour participer avec les membres du jury à la correction des épreuves. Ils délibèrent avec le jury avec voix consultative pour noter les épreuves qu'ils ont corrigées.
+Des examinateurs spéciaux et des correcteurs peuvent être désignés par le président du Centre national de la fonction publique territoriale pour participer avec les membres du jury à la correction des épreuves.
+
+Ils participent, le cas échéant, aux délibérations du jury avec voix consultative pour noter les épreuves qu'ils ont corrigées.
 
 Les épreuves sont anonymes ; chaque composition est corrigée par deux correcteurs.

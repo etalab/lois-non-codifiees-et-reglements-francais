@@ -10,6 +10,6 @@ b) Rédaction d'une note à partir soit d'un dossier, soit de textes législatif
 
 2° Epreuves orales
 
-a) Interrogation portant sur les activités des collectivités locales. Le candidat choisira au moment de l'inscription à l'examen l'une des options suivantes : Administration générale, Finances, Comptabilité et statistiques, Urbanisme et environnement, Informatique, Action sanitaire et sociale (durée : dix minutes) ;
+a) Interrogation portant sur les activités des collectivités locales. Le candidat choisira au moment de l'inscription à l'examen l'une des options suivantes : Administration générale, Finances, Comptabilité et statistiques, Urbanisme et environnement, Informatique, Action sanitaire et sociale, animation (durée : dix minutes avec préparation de même durée) ;
 
 b) Conversation avec les membres du jury sur des questions de culture générale en relation avec l'action administrative locale (durée : dix minutes).
