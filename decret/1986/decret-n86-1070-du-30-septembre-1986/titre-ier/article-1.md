@@ -1,0 +1,3 @@
+# Article 1
+
+Pour l'élection des membres de la Commission nationale de la communication et des libertés prévue aux 2°, 3° et 4° de l'article 4 de la loi n° 86-1067 du 30 septembre 1986 et au plus tard le quatrième jour suivant la publication du présent décret, le vice-président du Conseil d'Etat, le premier président de la Cour de cassation et le premier président de la Cour des comptes adressent respectivement aux membres du Conseil d'Etat, de la Cour de cassation et de la Cour des comptes, une note les informant de la date et du lieu de l'élection. Cette note précise en outre la durée du mandat du membre à élire, ainsi que les modalités du dépôt des candidatures et du vote par procuration.

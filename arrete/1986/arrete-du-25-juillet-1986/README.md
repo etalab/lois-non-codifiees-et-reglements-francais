@@ -1,4 +1,4 @@
-# Arrêté du 25 juillet 1986 modifiant la liste des produits et appareils à usage préventif, diagnostique ou thérapeutique soumis à homologation
+# Arrêté du 25 juillet 1986 fixant le programme et les modalités de l'examen professionnel d'huissier de justice
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -15,4 +15,3 @@
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
-- [Annexes](annexes)

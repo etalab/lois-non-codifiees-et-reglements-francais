@@ -34,6 +34,6 @@ L'office de développement de l'intérieur et des îles, l'office culturel, scie
 
 16° Enseignement de second degré sous réserve des dispositions du 3° et 4° de l'article 28.    17° Enseignement supérieur, sous réserve des dispositions de l'article 28 (3° et 4°) ; recherche scientifique, sans préjudice de la faculté pour le territoire d'organiser ses propres services de recherche ;
 
-18° Communication audiovisuelle ; toutefois, le territoire, sous réserve des missions confiées à la Haute Autorité par la loi n° 82-652 du 29 juillet 1982, a la faculté de créer une société de production d'émissions à caractère social, culturel et éducatif pouvant passer pour leur diffusion des conventions avec des sociétés d'Etat.
+18° Communication audiovisuelle ; toutefois, le territoire, sous réserve des missions confiées à la Commission nationale de la communication et des libertés par la loi n°86-1067 du 30 septembre 1986 relative à la liberté de communication , a la faculté de créer une société de production d'émissions à caractère social, culturel et éducatif pouvant passer pour leur diffusion des conventions avec des sociétés d'Etat.
 
 La liste des services d'Etat dans le territoire, leur organisation, le domaine immobilier de l'Etat ainsi que son emprise sont fixés par décret en Conseil d'Etat. Jusqu'à l'intervention de ce décret, les services de l'Etat continuent de bénéficier des prestations de toute nature que le territoire fournit actuellement au fonctionnement de ces services.

@@ -1,0 +1,3 @@
+# Article 5-1
+
+Sont dispensées de la condition de diplôme prévue au 5° de l'article 1er et peuvent être dispensées de stage, dans les conditions prévues à l'article 2, les personnes titulaires soit de la capacité en droit, soit du diplôme universitaire de technologie des carrrières juridiques et judiciaires, soit d'un diplôme national sanctionnant un premier cycle d'études juridiques, soit du diplôme délivré par l'Ecole nationale de procédure de la chambre nationale des huissiers de justice, ayant exercé des fonctions de clerc d'huissier de justice pendant dix ans au moins, dont cinq ans dans les conditions mentionnées à l'article 5.

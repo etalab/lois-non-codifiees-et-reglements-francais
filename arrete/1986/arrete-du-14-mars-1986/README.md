@@ -1,4 +1,4 @@
-# Arrêté du 14 mars 1986 fixant les conditions d'inscription sur la liste d'aptitude aux emplois de direction et d'agent comptable des organismes du régime de sécurité sociale.
+# Arrêté du 14 mars 1986 relatif aux dates de paiement des pensions d'invalidité et des pensions de veuf ou veuve invalide du régime général ainsi que des rentes d'accident du travail
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de la sécurité sociale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les rentes d'accident du travail versées mensuellement sont mises en paiement, dans le délai prévu à l'article R. 436-5 du code de la sécurité sociale, à compter de la date d'échéance fixée le dernier jour du mois au titre duquel elles sont dues.
