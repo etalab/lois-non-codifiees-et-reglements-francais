@@ -20,6 +20,8 @@
 - [Décret n°94-468 du 1 juin 1994 (AGRE9400541D)](decret-n94-468-du-1-juin-1994-agre9400541d)
 - [Décret n°94-550 du 1 juillet 1994 (SPSP9401733D)](decret-n94-550-du-1-juillet-1994-spsp9401733d)
 - [Décret n°94-552 du 1 juillet 1994 (MAEA9420296D)](decret-n94-552-du-1-juillet-1994-maea9420296d)
+- [Décret n°94-669 du 1 août 1994 (MAEJ9430046D)](decret-n94-669-du-1-aout-1994-maej9430046d)
+- [Décret n°94-670 du 1 août 1994 (MAEJ9430048D)](decret-n94-670-du-1-aout-1994-maej9430048d)
 - [Décret n°94-782 du 1 septembre 1994 (SPSH9401937D)](decret-n94-782-du-1-septembre-1994-spsh9401937d)
 - [Décret n°93-1279 du 2 décembre 1993 (EQUX9300198D)](decret-n93-1279-du-2-decembre-1993-equx9300198d)
 - [Décret n°93-1280 du 2 décembre 1993 (EQUX9300199D)](decret-n93-1280-du-2-decembre-1993-equx9300199d)
