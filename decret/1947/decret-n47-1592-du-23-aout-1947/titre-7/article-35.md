@@ -70,12 +70,6 @@ Les prescriptions du présent décret pour l'application desquelles est prévue 
 <td> : Article 29           :    15 jours   :</td>
 </tr>
 <tr>
-<td> : Article 31 b,        :               :</td>
-</tr>
-<tr>
-<td> :  alinéa 2            :     8 jours   :</td>
-</tr>
-<tr>
-<td> :                                      :</td>
+<td> :----------------------:---------------:</td>
 </tr>
 </table>

@@ -8,5 +8,3 @@
 - [TITRE 5 : MANOEUVRES](titre-5)
 - [TITRE 6 : VISITES ET ENTRETIEN](titre-6)
 - [TITRE 7 : DISPOSITIONS DIVERSES](titre-7)
-- [Article 31](article-31.md)
-- [Article 31 b](article-31-b.md)
