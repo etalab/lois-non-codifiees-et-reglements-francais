@@ -12,8 +12,6 @@ Directeur départemental de l'agriculture et de la forêt du Puy-de-Dôme ;
 
 Directeur départemental de l'agriculture et de la forêt de l'Hérault ;
 
-Directeur départemental de l'agriculture et de la forêt du Finistère ;
-
 Directeur départemental de l'agriculture et de la forêt de la Loire ;
 
 Directeur départemental de l'agriculture et de la forêt du Pas-de-Calais ;
@@ -30,4 +28,6 @@ Directeur départemental de l'agriculture et de la forêt du Morbihan ;
 
 Directeur départemental de l'agriculture et de la forêt des Bouches-du-Rhône ;
 
-Directeur départemental de l'agriculture et de la forêt des Deux-Sèvres.
+Directeur départemental de l'agriculture et de la forêt des Deux-Sèvres ;
+
+Directeur de l'agriculture et de la forêt de la Guadeloupe.
