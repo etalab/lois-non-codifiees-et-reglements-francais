@@ -191,7 +191,6 @@
 - [Décret n°87-567 du 17 juillet 1987 (MAEJ8730029D)](decret-n87-567-du-17-juillet-1987-maej8730029d)
 - [Décret n°87-678 du 17 août 1987 (AGRB8701469D)](decret-n87-678-du-17-aout-1987-agrb8701469d)
 - [Décret n°87-685 du 17 août 1987 (ENVN8700163D)](decret-n87-685-du-17-aout-1987-envn8700163d)
-- [Décret n°87-921 du 17 novembre 1987 (MAEA8710016D)](decret-n87-921-du-17-novembre-1987-maea8710016d)
 - [Décret n°86-226 du 18 février 1986](decret-n86-226-du-18-fevrier-1986)
 - [Décret n°87-1019 du 18 décembre 1987 (ASES8701034D)](decret-n87-1019-du-18-decembre-1987-ases8701034d)
 - [Décret n°87-1023 du 18 décembre 1987 (ECOP8700496D)](decret-n87-1023-du-18-decembre-1987-ecop8700496d)
