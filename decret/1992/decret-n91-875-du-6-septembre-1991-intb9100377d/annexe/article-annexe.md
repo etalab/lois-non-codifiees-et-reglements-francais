@@ -528,7 +528,7 @@ C. - Fonctions médico-sociales
 <p>Manipulateur d'électroradiologie :</p>
 <p>Hors classe ;</p>
 <p>Classe supérieure ;</p>
-<p>Classe normale-</p>
+<p>Classe normale.</p>
 </td>
 <td valign="top" width="227">
 <p>Technicien des services vétérinaires :</p>
@@ -546,6 +546,248 @@ C. - Fonctions médico-sociales
 </td>
 <td valign="top" width="227">
 <p>Aide technique de laboratoire des services du ministère de l'agriculture.</p>
+</td>
+<td valign="top" width="227">
+<p>I.H.T.S.</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+D. - Fonctions culturelles
+
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">FONCTION PUBLIQUE TERRITORIALE<br/>Cadres d'emplois concernée</p>
+</td>
+<td width="227">
+<p align="center">FONCTION PUBLIQUE DE L'ÉTAT<br/>Corps équivalents</p>
+</td>
+<td width="227">
+<p align="center">RÉGIME INDEMNITAIRE DE RÉFÉRENCE</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="center">1. Secteur de la conservation</p>
+<p>Conservateur territorial du patrimoine :</p>
+<p>Conservateur en chef.</p>
+<p>Conservateur de 1re classe.</p>
+<p>Conservateur de 2e classe.</p>
+</td>
+<td valign="top" width="227">
+<p>Conservateur du patrimoine </p>
+<p>Conservateur en chef.</p>
+<p>Conservateur de 1re classe.</p>
+<p>Conservateur de 2e classe.</p>
+</td>
+<td valign="top" width="227">
+<p>Indemnité scientifique des personnels de la conservation du patrimoine (décret n° 90-409 du 16 mai 1990).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Conservateur territorial de bibliothèques :</p>
+<p>Conservateur en chef.</p>
+<p>Conservateur de 1re classe.</p>
+<p>Conservateur de 2e classe.</p>
+</td>
+<td valign="top" width="227">
+<p>Conservateur de bibliothèques </p>
+<p>Conservateur en chef.</p>
+<p>Conservateur de 1re classe.</p>
+<p>Conservateur de 2e classe.</p>
+</td>
+<td valign="top" width="227">
+<p>Indemnité spéciale des fonctionnaires du corps scientifique des bibliothèques (décret n° 61-1421 du 22 décembre 1961).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Attaché territorial de conservation du patrimoine et bibliothécaire territorial :</p>
+<p>1re classe.</p>
+<p>2e classe.</p>
+</td>
+<td valign="top" width="227">
+<p>Bibliothécaire :</p>
+<p>1re classe.</p>
+<p>2e classe.</p>
+</td>
+<td valign="top" width="227">
+<p>Indemnité forfaitaire pour travaux supplémentaires (I.F.T.S.) (décret n° 68-560 du 19 juin 1968).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Assistant territorial qualifié de conservation du patrimoine et des bibliothèques :</p>
+<p>Hors classe.</p>
+<p>1re classe.</p>
+<p>2e classe.</p>
+</td>
+<td valign="top" width="227">
+<p>Bibliothécaire adjoint spécialisé</p>
+<p>Hors classe.</p>
+<p>1re classe.</p>
+<p>2e classe.</p>
+</td>
+<td valign="top" width="227">
+<p>I.F.T.S. pour les bibliothécaires adjoints spécialisés hors classe, 1re classe, 2e classe à compter du 6e échelon.</p>
+<p>Indemnité horaire pour travaux supplémentaires (I.H.T.S.) pour les bibliothécaires adjoints spécialisés de 2e classe jusqu'au 5e échelon (décret n° 50-1248 du 6 octobre 1950 modifié).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Assistant territorial de conservation du patrimoine et des bibliothèques :</p>
+<p>Hors classe.</p>
+<p>1re classe.</p>
+<p>2e classe.</p>
+</td>
+<td valign="top" width="227">
+<p>Bibliothécaire adjoint :</p>
+<p>Principal.</p>
+<p>Chef de section.</p>
+<p>Classe normale.</p>
+</td>
+<td valign="top" width="227">
+<p>I.F.T.S. pour les bibliothécaires adjoints principal, chef de section, classe normale à compter du 8e échelon.</p>
+<p>I.H.T.S. pour les bibliothécaires adjoints de classe normale jusqu'au 7e échelon.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Inspecteur territorial de surveillance et de magasinage du patrimoine.</p>
+</td>
+<td valign="top" width="227">
+<p>Inspecteur de surveillance et de magasinage du ministère de la culture.</p>
+</td>
+<td valign="top" width="227">
+<p>1. Prime de sujétions spéciales des personnels de surveillance et de magasinage du ministère de la culture (décret n° 89-768 du 19 octobre 1989).</p>
+<p>2. En outre :</p>
+<p>En l'absence de travail dominical permanent :</p>
+<p>I.F.T.S. à compter du 8e échelon ;</p>
+<p>I.H.T.S. jusqu'au 7e échelon ;</p>
+<p>En cas de travail dominical permanent :</p>
+<p>Indemnité pour travail dominical permanent des personnels de surveillance et de magasinage du ministère de la culture (décret n° 89-770 du 19 octobre 1989).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Agent territorial qualifié du patrimoine.</p>
+</td>
+<td valign="top" width="227">
+<p>Agent-chef de surveillance et de magasinage du ministère de la culture.</p>
+</td>
+<td valign="top" width="227">
+<p>1. Prime de sujétions spéciales des personnels de surveillance et de magasinage du ministère de la culture.</p>
+<p>2. En outre :</p>
+<p>En l'absence de travail dominical permanent :</p>
+<p>I.H.T.S. ;</p>
+<p>En cas de travail dominical permanent :</p>
+<p>Indemnité pour travail dominical permanent des personnels de surveillance et de magasinage du ministère de la culture.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Agent territorial du patrimoine.</p>
+</td>
+<td valign="top" width="227">
+<p>Agent technique de surveillance et de magasinage du ministère de la culture.</p>
+</td>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p align="center">2. Secteur de l'enseignement</p>
+<p>Directeur d'établissement territorial d'enseignement artistique.</p>
+</td>
+<td valign="top" width="227">
+<p>Personnels de direction d'établissements d'enseignement ou de formation.</p>
+</td>
+<td valign="top" width="227">
+<p>1. Indemnité de sujétions spéciales (décret n° 89-443 du 28 juin 1989).</p>
+<p>2. Indemnité de responsabilité (décret n° 89-444 du 28 juin 1989).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Professeur territorial d'enseignement artistique.</p>
+</td>
+<td valign="top" width="227">
+<p>Personnels enseignants du second degré.</p>
+</td>
+<td valign="top" width="227">
+<p>Indemnité de suivi et d'orientation des élèves (décret n° 89-452 du 6 juillet 1989).</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Assistant territorial spécialisé d'enseignement artistique.</p>
+</td>
+<td valign="top" width="227"/>
+<td valign="top" width="227"/>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Assistant territorial d'enseignement artistique.</p>
+</td>
+<td valign="top" width="227"/>
+<td valign="top" width="227"/>
+</tr>
+</tbody>
+</table>
+
+E. - Fonctions sportives
+
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">FONCTION PUBLIQUE TERRITORIALE<br/>Cadres d'emplois concernée</p>
+</td>
+<td width="227">
+<p align="center">FONCTION PUBLIQUE DE L'ÉTAT<br/>Corps équivalents</p>
+</td>
+<td width="227">
+<p align="center">RÉGIME INDEMNITAIRE DE RÉFÉRENCE</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Conseiller territorial des activités physiques et sportives.</p>
+</td>
+<td valign="top" width="227">
+<p>Conseiller d'éducation populaire et de jeunesse</p>
+</td>
+<td valign="top" width="227">
+<p>Indemnité de sujétions spéciales des conseillers d'éducation populaire et de jeunesse relevant du secrétariat d'Etat à la jeunesse et aux sports (décret n° 88-98 du 28 janvier 1988). </p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Educateur territorial des activités physiques et sportives :</p>
+<p>- Educateur hors classe ;</p>
+<p>- Educateur de 1re classe ;</p>
+<p>- Educateur de 2e classe.</p>
+</td>
+<td valign="top" width="227">
+<p>Secrétaire administratif :</p>
+<p>- Secrétaire administratif en chef ;</p>
+<p>- Secrétaire administratif chef de section ;</p>
+<p>- Secrétaire administratif.</p>
+</td>
+<td valign="top" width="227">
+<p>I.F.T.S. pour les secrétaires administratifs des 2e et 3e grades et pour les secrétaires administratifs du 1er grade à partir du 8e échelon.</p>
+<p>I.H.T.S. pour les secrétaires administratifs du 1er grade du 1er au 7e échelon.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>Opérateur territorial des activités physiques et sportives.</p>
+</td>
+<td valign="top" width="227">
+<p>Adjoint administratif.</p>
 </td>
 <td valign="top" width="227">
 <p>I.H.T.S.</p>
