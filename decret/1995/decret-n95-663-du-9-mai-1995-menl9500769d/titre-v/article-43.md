@@ -1,7 +1,7 @@
 # Article 43
 
-Les spécialités de baccalauréat professionnel créées en application du décret n° 86-379 du 11 mars 1986 susvisé peuvent continuer à être délivrées dans les conditions prévues par ce texte, sous réserve des dispositions de l'alinéa suivant.
+Les dispositions des articles 16, 17, 18, alinéa 2, 19, dernier alinéa, 23, alinéas 1 et 2, 24, 25 à 27 et 31 du présent décret entrent en vigueur :
 
-Pour ces spécialités, les dispositions des articles 17, 25 et 26 du présent décret entreront en vigueur à compter de la session 1997, dans des conditions fixées par arrêté du ministre chargé de l'éducation.
+A compter de la session 1998 pour les spécialités du baccalauréat professionnel créées ou rénovées au 1er septembre 1996 ainsi que pour les spécialités du baccalauréat professionnel dont le référentiel de certification, organisé en unités, sera mis en oeuvre à la rentrée 1997 ;
 
-Les dispositions des articles 5 à 16, 18 à 24, 27 à 36 et 38 à 40 du présent décret leur sont applicables à compter du 1er septembre 1996. Toutefois, à titre expérimental, les dispositions des articles 7, 8, alinéa 2, 9, 11, alinéa 2, 12, 13 et 15 du présent décret peuvent entrer en application à compter du 1er septembre 1995.
+A compter de la session 1999 pour les spécialités du baccalauréat professionnel créées ou rénovées et mises en oeuvre à la rentrée 1997. Toutefois, les candidats engagés dans des formations correspondant à ces spécialités et dont la durée de formation aura fait l'objet d'une décision de positionnement passeront l'examen à la session 1998, conformément aux dispositions du présent décret.

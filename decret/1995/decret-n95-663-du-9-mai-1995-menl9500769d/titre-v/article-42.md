@@ -1,3 +1,3 @@
 # Article 42
 
-Les dispositions du présent décret sont applicables aux spécialités de baccalauréat professionnel qui seront créées ou rénovées à compter du 1er septembre 1995, sous réserve des dispositions des articles 17, 25 et 26 du présent décret qui n'entreront en vigueur qu'à compter de la session de 1997.
+Les dispositions du présent décret s'appliquent à l'ensemble des spécialités du baccalauréat professionnel à compter du 1er septembre 1996, sous réserve des dispositions de l'article 43 ci-dessous.
