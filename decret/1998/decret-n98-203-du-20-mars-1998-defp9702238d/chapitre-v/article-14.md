@@ -1,0 +1,3 @@
+# Article 14
+
+Le corps des techniciens du ministère de la défense est ajouté, au titre de la catégorie B, à la liste des corps d'accueil mentionnée à l'article 1er du décret n° 2002-646 du 23 avril 2002 portant organisation de concours de recrutement de fonctionnaires de l'Etat des catégories A, B et C et d'examens professionnels de recrutement de fonctionnaires de l'Etat de catégorie C réservés à certains agents non titulaires au titre du ministère de la défense, en application de l'article 1er de la loi n° 2001-2 du 3 janvier 2001 relative à la résorption de l'emploi précaire et à la modernisation du recrutement dans la fonction publique ainsi qu'au temps de travail dans la fonction publique territoriale et figurant en annexe dudit décret.
