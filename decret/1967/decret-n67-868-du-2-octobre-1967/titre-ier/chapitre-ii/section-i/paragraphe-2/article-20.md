@@ -4,4 +4,4 @@ Toute délibération fait l'objet d'un procès-verbal signé par les associés p
 
 Le procès-verbal signé par tous les associés fait foi de la tenue d'une assemblée.
 
-Les procès-verbaux sont établis sur un registre spécial qui doit être conservé au siège de l'office dont la société est titulaire et qui est préalablement coté et paraphé par le président du tribunal de grande instance ou l'un des magistrats de ce tribunal désigné par lui.
+Les procès-verbaux sont établis sur un registre spécial, préalablement coté et paraphé par le président de la chambre départementale ou un membre de la chambre délégué par lui. Le registre est conservé au siège de la société.

@@ -2,6 +2,6 @@
 
 Sous réserve de l'application de celles du présent titre, toutes dispositions législatives et réglementaires relatives à l'exercice des fonctions de notaire par des personnes physiques et, spécialement, à la déontologie et à la discipline notariale, sont applicables aux sociétés titulaires d'un office notarial et à leurs membres.
 
-Notamment, les interdictions ou incompatibilités visées aux articles 7, 8 et 10 de la loi précitée du 25 ventôse an XI et aux articles 13 et 14 du décret précité du 19 décembre 1945, s'imposent aux membres des sociétés titulaires d'un office notarial et, dans la mesure où elles peuvent leur être appliquées, à ces sociétés.
+Les interdictions ou incompatibilités prévues aux articles 7 et 10 de la loi du 25 ventôse an XI précitée, aux articles 13 et 14 du décret du 19 décembre 1945 précité et à l'article 2 du décret n° 71-941 du 26 novembre 1971 s'imposent aux associés des sociétés titulaires d'un office notarial.
 
-Les notaires associés ne peuvent recevoir des actes dans lesquels l'un d'entre eux, ou les parents ou alliés de ce dernier au degré prohibé par l'article 8 de la loi du 25 ventôse an XI précitée, sont parties ou intéressés. Ils ne peuvent recevoir ensemble un acte nécessitant le concours de deux notaires.
+Les notaires membres d'une même société ne peuvent recevoir ensemble un acte nécessitant le concours de deux notaires.

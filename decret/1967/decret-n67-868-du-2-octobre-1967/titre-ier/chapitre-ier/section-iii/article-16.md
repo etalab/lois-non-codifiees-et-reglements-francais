@@ -1,7 +1,7 @@
 # Article 16
 
-Dans le délai de quinze jours qui suit la publication de l'arrêté de nomination de la société, l'un des originaux de l'acte constitutif, s'il est sous seing privé, ou une expédition de cet acte, s'il a été établi en la forme authentique, est déposé au greffe du tribunal de grande instance du lieu du siège social, à la diligence d'un gérant, et versé à un dossier ouvert par le greffier au nom de la société.
+L'immatriculation de la société au registre du commerce et des sociétés est régie par le décret n° 84-406 du 30 mai 1984, sous réserve des dispositions ci-après.
 
-Jusqu'à l'accomplissement de cette formalité, les dispositions des statuts sont inopposables aux tiers qui peuvent toutefois s'en prévaloir.
+Une ampliation de l'arrêté de nomination prévu à l'article 5 est adressée par les associés, au greffe du tribunal où a été déposée la demande d'immatriculation au registre du commerce et des sociétés. Au reçu de cette ampliation, le greffier procède à l'immatriculation et en informe le procureur de la République près le tribunal de grande instance dans le ressort duquel est fixé le siège de la société.
 
-Tout intéressé peut se faire délivrer à ses frais par le greffier un extrait des statuts contenant, à l'exclusion de toutes autres indications, l'identité des associés, l'adresse du siège de l'office dont la société est titulaire, la raison sociale, la durée pour laquelle la société a été constituée, les clauses relatives aux pouvoirs des associés, à la responsabilité pécuniaire de ceux-ci, et à la dissolution de la société.
+La société est dispensée d'insérer dans un journal d'annonces légales les avis prévus aux articles 22, 24 et 26 du décret n° 78-704 du 3 juillet 1978.

@@ -1,3 +1,3 @@
 # Article 4
 
-Une société régie par les dispositions des articles 3 et 3-1 peut également être nommée titulaire d'un office créé ou vacant, dans les conditions prévues par les articles 49 et suivants du décret susvisé du 5 juillet 1973.
+Une société régie par les dispositions des articles 3 et 3-1 peut également être nommée titulaire d'un office créé ou vacant. La nomination est faite dans les conditions prévues aux articles 49 à 55 du décret n° 73-609 du 5 juillet 1973 ; les épreuves prévues à l'article 53 de ce même décret sont subies par chacune des personnes mentionnées à l'article 3. Une société ne peut être déclarée apte à être nommée à l'office créé que si chacun des futurs associés a été déclaré apte à être nommé à cet office. Pour établir la liste par ordre de mérite, le jury retient la moyenne des résultats obtenus par chacun des futurs associés.

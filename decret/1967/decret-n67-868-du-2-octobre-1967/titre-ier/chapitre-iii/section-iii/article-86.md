@@ -1,5 +1,5 @@
 # Article 86
 
-Dans le cas prévu par l'article 26 (alinéa 4) de la loi précitée du 29 novembre 1966, l'associé ne peut solliciter sa nomination à un office créé à son intention que si la société a été dissoute avant expiration d'un délai de cinq ans à compter de son investiture dans l'office.
+Lorsque la société a été dissoute dans les conditions prévues par le quatrième alinéa de l'article 26 de la loi du 29 novembre 1966 précitée, l'associé, avant l'expiration d'un délai de dix ans à compter de son investiture dans l'office, qui envisage de solliciter sa nomination à un office créé à son intention dans le ressort du tribunal d'instance où la société dissoute a soit son siège, soit un bureau annexe, saisit préalablement la commission instituée par l'article 2 du décret n° 71-942 du 26 novembre 1971 qui donne son avis dans les conditions prévues à l'article 2-3 du même décret.
 
-Il ne peut être nommé qu'à un office créé dans le département où la société dissoute avait son siège.
+A Paris, le ressort dans lequel le siège de l'office créé peut être fixé est celui du tribunal de grande instance de Paris.

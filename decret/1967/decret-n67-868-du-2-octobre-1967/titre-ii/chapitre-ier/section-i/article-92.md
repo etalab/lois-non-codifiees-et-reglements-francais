@@ -1,6 +1,6 @@
 # Article 92
 
-La société doit être agréée par arrêté du garde des sceaux, ministre de la justice.
+La société doit être agréée par arrêté du garde des sceaux, ministre de la justice, pris, en cas de transfert d'office, après avis de la commission prévue à l'article 2 du décret n° 71-942 du 26 novembre 1971.
 
 L'acte constitutif est passé sous la condition suspensive de cet agrément.
 

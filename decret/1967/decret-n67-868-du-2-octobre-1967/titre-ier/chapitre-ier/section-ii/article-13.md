@@ -15,5 +15,3 @@ e) Les immeubles devant servir à l'établissement du siège de l'office, et ceu
 f) Toutes sommes en numéraire ;
 
 g) L'industrie des associés, laquelle, en vertu de l'article 10 de la loi précitée du 29 novembre 1966, ne concourt pas à la formation du capital mais peut donner lieu à l'attribution de parts d'intérêts.
-
-L'évaluation des apports visés aux a, b, c ci-dessus est soumise à l'approbation du garde des sceaux, ministre de la justice.

@@ -1,11 +1,5 @@
 # Article 38
 
-Si l'acte portant cession de parts sociales est établi en la forme sous seing privé, il est dressé autant d'originaux qu'il est nécessaire pour la remise d'un exemplaire à chaque partie et pour satisfaire aux dispositions des articles 27 (alinéa 5), 29 (alinéa 3) et à celles du présent article.
+La publicité de la cession de parts accompagnée, le cas échéant, d'une réduction du capital social, en application de l'article 21 de la loi du 29 novembre 1966 précitée, est accomplie selon les règles fixées par l'article 52 du décret n° 78-704 du 3 juillet 1978.
 
-A la diligence du cessionnaire, mais postérieurement à la prestation de serment exigée le cas échéant de celui-ci, un des originaux de l'acte de cession de parts, s'il est sous seing privé, ou une expédition de cet acte, s'il a été établi en la forme authentique, est déposé au greffe du tribunal de grande instance pour être versé au dossier ouvert au nom de la société.
-
-Jusqu'à l'accomplissement de la formalité prévue à l'alinéa 2 ci-dessus, la cession de parts sociales est inopposable aux tiers qui peuvent toutefois s'en prévaloir.
-
-Dans le cas où il y a lieu à réduction de capital social, en application de l'article 21 de la loi précitée du 29 novembre 1966, un des originaux ou une expédition de l'acte modifiant les statuts de la société est déposé au greffe du tribunal de grande instance à la diligence du gérant pour être versé au dossier.
-
-Tout intéressé peut obtenir, à ses frais, la délivrance, par le greffier du tribunal de grande instance, d'un extrait de l'acte de cession et, le cas échéant, de l'acte modifiant les statuts, contenant, à l'exclusion de toutes autres indications, celles visés à l'article 16 (alinéa 3).
+Dans le cas prévu au dernier alinéa de l'article 28, cette publicité résulte du dépôt de deux copies certifiées conformes de la sommation adressée au cédant et des pièces justifiant de la signification de cette sommation.
