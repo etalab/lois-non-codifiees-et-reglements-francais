@@ -1,0 +1,3 @@
+# Article 5
+
+Le ministre d'Etat chargé des affaires sociales, le ministre de l'intérieur, le ministre du l'économie et des finances, le ministre de l'agriculture et du développement rural, le ministre de la santé publique, le secrétaire d'Etat auprès du premier ministre, chargé des départements et territoires d'outre-mer, le secrétaire d'Etat auprès du ministre de l'économie et des finances, chargé du budget, le secrétaire d'Etat auprès du ministre de l'agriculture et du développement rural et le secrétaire d'Etat auprès du ministre de la santé publique, chargé de l'action sociale et de la réadaptation sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
