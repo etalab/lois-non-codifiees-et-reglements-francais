@@ -401,7 +401,6 @@
 - [Arrêté du 20 février 1989 (EQUV8900178A)](arrete-du-20-fevrier-1989-equv8900178a)
 - [Arrêté du 20 février 1989 (PRME8961309A)](arrete-du-20-fevrier-1989-prme8961309a)
 - [Arrêté du 20 janvier 1989 (ECOC8800129A)](arrete-du-20-janvier-1989-ecoc8800129a)
-- [Arrêté du 20 juillet 1989 (AGRA8901182A)](arrete-du-20-juillet-1989-agra8901182a)
 - [Arrêté du 20 juin 1989 (AGRG8901336A)](arrete-du-20-juin-1989-agrg8901336a)
 - [Arrêté du 20 juin 1989 (ECOC8900034A)](arrete-du-20-juin-1989-ecoc8900034a)
 - [Arrêté du 20 juin 1989 (ECOC8900035A)](arrete-du-20-juin-1989-ecoc8900035a)
