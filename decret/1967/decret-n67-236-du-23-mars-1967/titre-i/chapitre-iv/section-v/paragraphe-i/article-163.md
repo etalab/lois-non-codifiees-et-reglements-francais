@@ -14,7 +14,7 @@ Le bulletin de souscription énonce :
 
 5° Le numéro d'immatriculation de la société au registre du commerce ;
 
-6° L'objet social, indiqué sommairement ;
+6° [*supprimé* ;
 
 7° Le montant et les modalités de l'augmentation du capital ;
 
@@ -26,4 +26,4 @@ Le bulletin de souscription énonce :
 
 11° La mention de la remise au souscripteur d'une copie du bulletin de souscription ;
 
-12° Le cas échéant, la date de la publication au bulletin des annonces légales obligatoires de la notice prévue à l'article 159.
+12° *]supprimé*.
