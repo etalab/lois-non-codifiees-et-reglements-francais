@@ -658,6 +658,7 @@
 - [Arrêté du 22 juin 1998 (MCCK9700619A)](arrete-du-22-juin-1998-mcck9700619a)
 - [Arrêté du 22 juin 1998 (MJSK9870068A)](arrete-du-22-juin-1998-mjsk9870068a)
 - [Arrêté du 22 juin 1998 (MJSK9870069A)](arrete-du-22-juin-1998-mjsk9870069a)
+- [Arrêté du 22 octobre 1998 (MENR9802786A)](arrete-du-22-octobre-1998-menr9802786a)
 - [Arrêté du 22 septembre 1998 (DEFP9852012A)](arrete-du-22-septembre-1998-defp9852012a)
 - [Arrêté du 22 septembre 1998 (INTM9800031A)](arrete-du-22-septembre-1998-intm9800031a)
 - [Arrêté du 22 septembre 1998 (MENE9802435A)](arrete-du-22-septembre-1998-mene9802435a)
