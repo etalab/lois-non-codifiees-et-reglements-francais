@@ -1,9 +1,13 @@
 # Article 105
 
-Les paris par correspondance ne peuvent être enregistrés qu'en compte courant.
+Les paris par serveur vocal interactif ne peuvent être enregistrés qu'en compte courant.
 
-Les parieurs intéressés font une demande d'ouverture de compte au. pari mutuel urbain. Si cette demande est acceptée, le compte est ouvert lorsque le parieur a signé l'imprimé spécial d'ouverture de compte par correspondance et a fait un versement initial à titre de provision égal au moins à cinquante fois le plus faible minimum d'enjeu autorisé pour les divers types de paris. Tout approvisionnement complémentaire du compte doit être effectué par multiples entiers de dix fois le plus faible minimum d'enjeu pour les divers types de paris.
+Seules les personnes physiques peuvent demander l'ouverture de compte au pari mutuel urbain. Une même personne physique ne peut être titulaire que d'un seul compte. Si la demande est acceptée, le pari mutuel urbain communique au parieur intéressé son numéro de compte et son code confidentiel.
+
+Ce numéro de compte et ce code sont strictement personnels et le pari mutuel urbain est dégagé de toute responsabilité en cas d'utilisation frauduleuse de ces éléments. Le parieur est seul responsable de la conservation de la confidentialité et de l'utilisation des informations permettant l'accès à son compte courant.
+
+Le compte est considéré comme ouvert lorsque le parieur a retourné au pari mutuel urbain l'imprimé spécial d'ouverture de compte courant et a fait un versement initial à titre de provision dont le montant minimum est porté à sa connaissance lors de la demande d'ouverture de compte.
+
+Sur simple décision du pari mutuel urbain, les versements par monnaie scripturale, susceptibles d'être rejetés par la banque tirée, pourront n'être portés au crédit du compte considéré qu'après les délais de rejet légaux correspondant à la réglementation bancaire.
 
 Les sommes déposées en compte courant ou portées au crédit de ce compte courant ne bénéficient d'aucun intérêt.
-
-Le compte courant ne peut commencer à fonctionner qu'après avis officiel de l'agence faisant connaître au parieur le numéro de son compte.

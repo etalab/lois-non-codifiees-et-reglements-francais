@@ -1,5 +1,3 @@
 # Article 106
 
-Le pari mutuel urbain se réserve le droit de refuser l'ouverture ou d'arrêter le fonctionnement d'un compte courant sans avoir à justifier à l'intéressé les motifs de sa décision.
-
-Une opposition régulière faite entre les mains du pari mutuel urbain arrête le fonctionnement du compte courant visé par l'opposition.
+Les ordres transmis téléphoniquement par le parieur au serveur vocal interactif du pari mutuel urbain sont reçus tous les jours ou certains jours seulement selon le service choisi par le parieur. Les horaires d'ouverture et de clôture des opérations, ainsi que les paris et les formules acceptés par le serveur vocal interactif du pari mutuel urbain arrêtent le fonctionnement du compte courant visé par l'opposition.
