@@ -36,6 +36,7 @@
 - [Décret n°70-836 du 10 septembre 1970](decret-n70-836-du-10-septembre-1970)
 - [Décret n° 70-492 du 11 juin 1970](decret-n-70-492-du-11-juin-1970)
 - [Décret n°70-1165 du 11 décembre 1970](decret-n70-1165-du-11-decembre-1970)
+- [Décret n°70-738 du 12 août 1970](decret-n70-738-du-12-aout-1970)
 - [Décret n° 70-322 du 13 avril 1970](decret-n-70-322-du-13-avril-1970)
 - [Décret n° 70-323 du 13 avril 1970](decret-n-70-323-du-13-avril-1970)
 - [Décret n° 70-43 du 13 janvier 1970](decret-n-70-43-du-13-janvier-1970)
