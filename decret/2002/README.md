@@ -434,6 +434,7 @@
 - [Décret n°2002-300 du 28 février 2002 (ECOT0214221D)](decret-n2002-300-du-28-fevrier-2002-ecot0214221d)
 - [Décret n°2002-301 du 28 février 2002 (ECOT0214222D)](decret-n2002-301-du-28-fevrier-2002-ecot0214222d)
 - [Décret n°2002-302 du 28 février 2002 (MESN0224378D)](decret-n2002-302-du-28-fevrier-2002-mesn0224378d)
+- [Décret n°2002-418 du 28 mars 2002 (EQUP0200309D)](decret-n2002-418-du-28-mars-2002-equp0200309d)
 - [Décret n°84-1191 du 28 décembre 1984](decret-n84-1191-du-28-decembre-1984)
 - [Décret n°89-710 du 28 septembre 1989 (MENX8900104D)](decret-n89-710-du-28-septembre-1989-menx8900104d)
 - [Décret n°2002-435 du 29 mars 2002 (INTM0200002D)](decret-n2002-435-du-29-mars-2002-intm0200002d)

@@ -1,12 +1,10 @@
 # Article 4
 
-Le corps des administrateurs de l'Institut national de la statistique et des études économiques est réparti en trois classes :
+Le corps des administrateurs de l'Institut national de la statistique et des études économiques comporte deux grades :
 
-Administrateur hors classe
+- le grade d'administrateur ;
 
-Administrateur de 1ere classe
-
-Administrateur de 2e classe.
+- le grade d'administrateur hors classe.
 
 Les administrateurs hors classe sont chargés de fonctions d'encadrement supérieur ou d'études comportant des responsabilités particulières dans les services centraux des administrations et organismes mentionnés à l'article 1er, notamment ceux de la direction générale de l'Institut national de la statistique et des études économiques.
 

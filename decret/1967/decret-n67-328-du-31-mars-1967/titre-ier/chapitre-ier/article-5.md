@@ -1,9 +1,7 @@
 # Article 5
 
-Le nombre des échelons dans chaque classe est fixé comme suit :
+Le nombre des échelons dans chaque grade est fixé comme suit :
 
-Administrateur hors classe : sept échelons ;
+- administrateur : neuf échelons ;
 
-Administrateur de 1ere classe : six échelons ;
-
-Administrateur de 2e classe : sept échelons.
+- administrateur hors classe : sept échelons.
