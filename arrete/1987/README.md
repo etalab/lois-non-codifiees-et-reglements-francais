@@ -270,6 +270,7 @@
 - [Arrêté du 28 avril 1987 (BUDL8700040A)](arrete-du-28-avril-1987-budl8700040a)
 - [Arrêté du 28 avril 1987 (BUDL8700041A)](arrete-du-28-avril-1987-budl8700041a)
 - [Arrêté du 28 avril 1987 (INDA8700270A)](arrete-du-28-avril-1987-inda8700270a)
+- [Arrêté du 28 avril 1987 (PTTT8700311A)](arrete-du-28-avril-1987-pttt8700311a)
 - [Arrêté du 28 décembre 1986](arrete-du-28-decembre-1986)
 - [Arrêté du 28 janvier 1987 (ECOM8710013A)](arrete-du-28-janvier-1987-ecom8710013a)
 - [Arrêté du 28 janvier 1987 (PTTT8700065A)](arrete-du-28-janvier-1987-pttt8700065a)
