@@ -42,7 +42,7 @@ Belleydoux, Dortan.
 
 Canton de Bellegarde-sur-Valserine
 
-Champfromier, Giron, Montanges, Saint-Germain-de-Joux.
+Bellegarde sur Valserine, Champfromier, Giron, Montanges, Saint-Germain-de-Joux.
 
 Canton de Collonges
 
@@ -54,4 +54,4 @@ Sergy, Thoiry.
 
 Canton de Gex
 
-Crozet, Echenevex, Grilly, Lélex, Mijoux, Vesancy.
+Crozet, Divonne les Bains, Echenevex, Gex , Grilly, Lélex, Mijoux, Vesancy telle qu'elle est délimitée par la chartre, et notamment le plan du parc.
