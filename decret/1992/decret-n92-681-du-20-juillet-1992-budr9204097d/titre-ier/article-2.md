@@ -10,4 +10,4 @@ Toutefois, dans les limites et conditions fixées par un arrêté conjoint du mi
 
 - par décision du directeur de l'établissement public national.
 
-Par ailleurs, les régies de recettes et les régies d'avances des établissements publics locaux d'enseignement sont créées, dans les conditions fixées par arrêté conjoint du ministre du budget et des ministres intéressés, par décision du directeur de l'établissement.
+- Elles peuvent être également créées  par décision du directeur de l'établissement public national si elles correspondent à des normes fixées par arrêté du ministre du budget.    Par ailleurs, les régies de recettes et les régies d'avances des établissements publics locaux d'enseignement sont créées, dans les conditions fixées par arrêté conjoint du ministre du budget et des ministres intéressés, par décision du directeur de l'établissement.
