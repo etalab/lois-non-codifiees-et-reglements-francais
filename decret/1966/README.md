@@ -29,6 +29,7 @@
 - [Décret n°66-314 du 17 mai 1966](decret-n66-314-du-17-mai-1966)
 - [Décret n°66-104 du 18 février 1966](decret-n66-104-du-18-fevrier-1966)
 - [Décret n°66-239 du 18 avril 1966](decret-n66-239-du-18-avril-1966)
+- [Décret n°66-866 du 18 novembre 1966](decret-n66-866-du-18-novembre-1966)
 - [Décret n°66-900 du 18 novembre 1966](decret-n66-900-du-18-novembre-1966)
 - [Décret n°66-624 du 19 août 1966](decret-n66-624-du-19-aout-1966)
 - [Décret n°66-626 du 19 août 1966](decret-n66-626-du-19-aout-1966)
