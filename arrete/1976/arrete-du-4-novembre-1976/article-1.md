@@ -68,4 +68,4 @@ Diplôme de technicien de laboratoire du centre de Vienne délivré par l'associ
 
 Diplôme de technicien supérieur physicien chimiste délivré par l'association pour la formation professionnelle des adultes ;
 
-Brevet professionnel des techniques d'analyses de biologie médicale assorti du certificat de scolarité du Centre national d'enseignement à distance.
+Brevet professionnel des techniques d'analyses de biologie médicale assorti du certificat de scolarité du Centre national d'enseignement à distance.    Diplôme d'études universitaires scientifiques et techniques, spécialité Analyses des milieux biologiques, délivré par l'université de Corte.

@@ -88,6 +88,8 @@
 - [Décret n°91-630 du 4 juillet 1991 (BUDB9160035D)](decret-n91-630-du-4-juillet-1991-budb9160035d)
 - [Décret n°91-633 du 4 juillet 1991 (BUDF9100009D)](decret-n91-633-du-4-juillet-1991-budf9100009d)
 - [Décret n°91-8 du 4 janvier 1991 (ECOC9000161D)](decret-n91-8-du-4-janvier-1991-ecoc9000161d)
+- [Décret n°91-866 du 4 septembre 1991 (BUDL9100095D)](decret-n91-866-du-4-septembre-1991-budl9100095d)
+- [Décret n°91-867 du 4 septembre 1991 (INTD9100372D)](decret-n91-867-du-4-septembre-1991-intd9100372d)
 - [Décret n°92-253 du 4 mars 1992 (AGRX9200037D)](decret-n92-253-du-4-mars-1992-agrx9200037d)
 - [Décret n°95-1079 du 4 octobre 1995 (FPPA9500108D)](decret-n95-1079-du-4-octobre-1995-fppa9500108d)
 - [Décret n°91-244 du 5 mars 1991 (TOUR9104505D)](decret-n91-244-du-5-mars-1991-tour9104505d)

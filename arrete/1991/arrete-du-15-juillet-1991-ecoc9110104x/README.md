@@ -1,0 +1,11 @@
+# Arrêté du 15 juillet 1991 relatif au guide de bonnes pratiques hygiéniques des plats préparés réfrigérés élaboré par le Syndicat national des fabricants de plats préparés (Synafap)
+
+- [Chapitre Ier : Champ d'application](chapitre-ier)
+- [Chapitre II : Les matières premières](chapitre-ii)
+- [Chapitre III : Les installations et équipements](chapitre-iii)
+- [Chapitre IV : Le personnel](chapitre-iv)
+- [Chapitre V : Dispositions hygiéniques concernant le traitement](chapitre-v)
+- [Chapitre VI : Les produits finis](chapitre-vi)
+- [Article 22](article-22.md)
+- [Annexes](annexes)
+- [Avertissement.](avertissement)
