@@ -1,0 +1,5 @@
+# Article 1
+
+L'ouverture des concours prévue par les articles 1er et 2 de la loi du 7 juillet 1980, susvisée, en vue du recrutement complémentaire de membres du corps des tribunaux administratifs et des cours administratives d'appel du grade de conseiller donne lieu à publicité, notamment par la voie du Journal officiel, au moins un mois avant la date des épreuves écrites. Cette publicité indique la date des épreuves écrites, la date limite et le lieu de dépôt des candidatures.
+
+Le jury est présidé par le chef de la mission permanente d'inspection des juridictions administratives et comprend un représentant du ministre de la justice, un représentant du ministre chargé de la fonction publique, ainsi que deux professeurs titulaires d'université et deux membres du corps des tribunaux administratifs et des cours administratives d'appel nommés par le vice-président du Conseil d'Etat. Les membres du corps des tribunaux administratifs sont nommés sur présentation du Conseil supérieur des tribunaux administratifs et des cours administratives d'appel.
