@@ -1,6 +1,6 @@
 # Article 22
 
-Dans tous les cas où une nouvelle évaluation des risques que la présence d'organismes génétiquement modifiés fait courir à la santé publique ou à l'environnement le justifie, le directeur général de l'Agence du médicament peut, aux frais du titulaire de l'autorisation :
+Dans tous les cas où une nouvelle évaluation des risques que la présence d'organismes génétiquement modifiés fait courir à la santé publique ou à l'environnement le justifie, le directeur général de l'Agence française de sécurité sanitaire des produits de santé peut, aux frais du titulaire de l'autorisation :
 
 a) Suspendre l'autorisation dans l'attente d'informations complémentaires et, s'il y a lieu, ordonner le retrait des produits de la vente ou en interdire l'utilisation ;
 
