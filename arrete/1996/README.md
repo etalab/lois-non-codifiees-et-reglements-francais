@@ -50,6 +50,7 @@
 - [Arrêté du 4 mars 1996 (MENL9503095A)](arrete-du-4-mars-1996-menl9503095a)
 - [Arrêté du 4 mars 1996 (MENL9503097A)](arrete-du-4-mars-1996-menl9503097a)
 - [Arrêté du 4 octobre 1995 (EQUS9501451A)](arrete-du-4-octobre-1995-equs9501451a)
+- [Arrêté du 5 avril 1996 (DEFB9601375A)](arrete-du-5-avril-1996-defb9601375a)
 - [Arrêté du 5 avril 1996 (EQUZ9600004A)](arrete-du-5-avril-1996-equz9600004a)
 - [Arrêté du 5 avril 1996 (INTF9600161A)](arrete-du-5-avril-1996-intf9600161a)
 - [Arrêté du 5 décembre 1995 (INTC9500759A)](arrete-du-5-decembre-1995-intc9500759a)
