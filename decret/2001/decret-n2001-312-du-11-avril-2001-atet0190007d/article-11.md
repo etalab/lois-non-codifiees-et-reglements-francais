@@ -1,0 +1,5 @@
+# Article 11
+
+La création des emplois et la réalisation des investissements retenus pour le calcul de la prime doivent intervenir dans un délai de trois ans. Au terme de ce délai et en cas de retards imprévisibles et indépendants de la volonté de l'entreprise, celle-ci peut éventuellement bénéficier d'une prorogation de deux ans au maximum pour réaliser ses engagements. Les emplois et les investissements primés doivent être maintenus pendant une durée minimale de cinq années.
+
+L'exécution des conditions prévues pour l'octroi de la prime donne lieu à des contrôles qui peuvent s'exercer dès le démarrage du programme et jusqu'à un an après la fin de la période d'obligation de maintien des effectifs. L'inobservation de ces conditions entraîne la révision de la décision d'attribution de la prime. Après consultation du comité interministériel prévu à l'article 8, le ministre chargé de l'aménagement du territoire peut, par décision motivée et dans le respect de la procédure contradictoire, prononcer l'annulation de la prime perçue et demander son remboursement si les conditions mises à son octroi, notamment les seuils mentionnés à l'article 3, ne sont pas respectées.
