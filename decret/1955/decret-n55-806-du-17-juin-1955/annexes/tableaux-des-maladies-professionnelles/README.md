@@ -5,6 +5,7 @@
 - [30° Rage professionnelle](30-rage-professionnelle)
 - [4° Charbon professionnel](4-charbon-professionnel)
 - [5° Leptospiroses professionnelles](5-leptospiroses-professionnelles)
+- [6° Brucelloses professionnelles](6-brucelloses-professionnelles)
 - [7° Tularémie professionnelle](7-tularemie-professionnelle)
 - [8° Sulfocarbonisme professionnel](8-sulfocarbonisme-professionnel)
 - [18° Maladies causées par le plomb et ses composés.](18-maladies-causees-par)
