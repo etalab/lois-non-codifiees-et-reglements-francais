@@ -107,7 +107,6 @@
 - [Arrêté du 25 janvier 1964](arrete-du-25-janvier-1964)
 - [Arrêté du 25 juillet 1983](arrete-du-25-juillet-1983)
 - [Arrêté du 25 mai 1983](arrete-du-25-mai-1983)
-- [Arrêté du 26 août 1983](arrete-du-26-aout-1983)
 - [Arrêté du 26 avril 1983](arrete-du-26-avril-1983)
 - [Arrêté du 26 novembre 1982](arrete-du-26-novembre-1982)
 - [Arrêté du 26 mai 1983](arrete-du-26-mai-1983)
