@@ -109,6 +109,7 @@
 - [Arrêté du 4 mars 1994 (MAEA9420285A)](arrete-du-4-mars-1994-maea9420285a)
 - [Arrêté du 4 mars 1994 (SPSS9400716A)](arrete-du-4-mars-1994-spss9400716a)
 - [Arrêté du 4 novembre 1993 (MAEC9310010A)](arrete-du-4-novembre-1993-maec9310010a)
+- [Arrêté du 4 novembre 1994 (RESK9401315A)](arrete-du-4-novembre-1994-resk9401315a)
 - [Arrêté du 4 octobre 1994 (BUDR9405023A)](arrete-du-4-octobre-1994-budr9405023a)
 - [Arrêté du 4 octobre 1994 (BUDR9405024A)](arrete-du-4-octobre-1994-budr9405024a)
 - [Arrêté du 4 mai 1994 (BUDF9400009A)](arrete-du-4-mai-1994-budf9400009a)
