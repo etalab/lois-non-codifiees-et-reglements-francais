@@ -1,0 +1,3 @@
+# Article 1
+
+Pour l'application de l'article 6 de la loi n. 79-575 du 10 juillet 1979, une prime d'incitation à l'embauche des travailleurs âgés d'au moins quarante-cinq ans est accordée aux employeurs soumis aux dispositions de l'article L. 351-3 du code du travail, à l'exception des entrepreneurs de travail temporaire, des employeurs visés à l'article L. 351-16 du même code, des entreprises publiques gérant un service public, des organismes dont les documents budgétaires ou financiers sont soumis à l'approbation d'une autorité administrative, des associations financées à plus de 50 p. 100 sur fonds publics et à l'exception des employeurs des salariés définis aux articles L. 771-1, L. 772-1 et L. 773-1 du code du travail.
