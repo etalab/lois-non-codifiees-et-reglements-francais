@@ -1,0 +1,3 @@
+# Article 7
+
+Les dispositions du présent décret peuvent être modifiées par décret en Conseil d'Etat, à l'exception de celles de l'article R. 211-7 du code de la mutualité attribuant compétence au ministre pour délivrer l'agrément administratif, de celles de l'article R. 211-20 du même code donnant compétence au ministre pour s'opposer au choix par une mutuelle ou une union agréée dans la branche de protection juridique d'une autre modalité de gestion que celle précédemment choisie, et de celles de l'article 6, lesquelles peuvent être modifiées dans les conditions prévues par l'article 2 du décret du 15 janvier 1997 susvisé.
