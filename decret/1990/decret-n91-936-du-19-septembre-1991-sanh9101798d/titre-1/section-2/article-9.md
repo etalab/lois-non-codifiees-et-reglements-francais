@@ -8,4 +8,4 @@ a) Les personnels ayant atteint le 5e échelon dans les grades suivants : ouvrie
 
 b) Les maîtres ouvriers et les maîtres ouvriers principaux mentionnés à l'article 13, les blanchisseurs maîtres ouvriers et les blanchisseurs maîtres ouvriers principaux mentionnés à l'article 23 du présent décret.
 
-2° Par inscription sur une liste d'aptitude établie en application du 2° de l'article 35 du titre IV du statut général des fonctionnaires dans la limite du cinquième du nombre des titularisations prononcées au titre du présent article ; peuvent être inscrits sur cette liste les maîtres ouvriers principaux ainsi que les maîtres ouvriers comptant au moins trois ans de services effectifs dans leur grade.
+2° Par inscription sur une liste d'aptitude établie en application du 2° de l'article 35 du titre IV du statut général des fonctionnaires dans la limite du tiers du nombre des titularisations prononcées au titre du présent article ; peuvent être inscrits sur cette liste les maîtres ouvriers principaux ainsi que les maîtres ouvriers comptant au moins trois ans de services effectifs dans leur grade.
