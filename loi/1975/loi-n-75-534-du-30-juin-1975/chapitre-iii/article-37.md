@@ -10,4 +10,4 @@ Les dispositions des articles L. 409, L. 410 et L. 412 du Code de la sécurité 
 
 Les différends auxquels peut donner lieu l'application des articles 35 [*bénéficiaires*] et 37 et qui ne relèvent pas d'un autre contentieux sont réglés suivant les dispositions régissant le contentieux général de la sécurité sociale.
 
-L'Etat verse au fonds national des prestations familiales, géré par la caisse nationale des allocations familiales, une subvention correspondant au montant des dépenses versées au titre de l'allocation aux adultes handicapés.
+L'Etat verse au Fonds national des prestations familiales, géré par la Caisse nationale des allocations familiales, une subvention correspondant au montant des dépenses de ce fonds au titre de l'allocation aux adultes handicapés, et au budget annexe des prestations sociales agricoles une subvention correspondant au montant des dépenses de ce budget au titre de cette même allocation.
