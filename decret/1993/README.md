@@ -64,6 +64,8 @@
 - [Décret n°92-494 du 4 juin 1992 (EQUS9200379D)](decret-n92-494-du-4-juin-1992-equs9200379d)
 - [Décret n°93-10 du 4 janvier 1993 (BUDF9200061D)](decret-n93-10-du-4-janvier-1993-budf9200061d)
 - [Décret n°93-11 du 4 janvier 1993 (BUDF9200051D)](decret-n93-11-du-4-janvier-1993-budf9200051d)
+- [Décret n°93-1140 du 4 octobre 1993 (INTB9300524D)](decret-n93-1140-du-4-octobre-1993-intb9300524d)
+- [Décret n°93-1141 du 4 octobre 1993 (ECOT9351294D)](decret-n93-1141-du-4-octobre-1993-ecot9351294d)
 - [Décret n°93-12 du 4 janvier 1993 (BUDF9200050D)](decret-n93-12-du-4-janvier-1993-budf9200050d)
 - [Décret n°93-13 du 4 janvier 1993 (BUDF9200036D)](decret-n93-13-du-4-janvier-1993-budf9200036d)
 - [Décret n°93-191 du 4 février 1993 (SPSS9203251D)](decret-n93-191-du-4-fevrier-1993-spss9203251d)
