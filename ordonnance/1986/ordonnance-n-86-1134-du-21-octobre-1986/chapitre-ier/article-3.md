@@ -8,7 +8,7 @@ Tout accord doit préciser notamment [*contenu*].
 
 3. Les modalités d'intéressement retenues ;
 
-4. Les critères et les modalités servant au calcul et à la répartition des produits de l'intéressement, le cas échéant selon les catégories de salariés ou les unités de travail ; l'accord peut à cet effet renvoyer à des accords d'établissement ;
+4. Les modalités de calcul de l'intéressement et les critères de répartition de ses produits ; ces critères et ces modalités peuvent varier selon les unités de travail ou, dans le cas où un accord d'intéressement a été conclu dans le cadre d'une convention ou d'un accord collectif de travail, ou dans celui où l'entreprise fait application d'un accord de salaires d'entreprise de moins de trois ans, selon les catégories de salariés ; l'accord peut, à cet effet, renvoyer à des accords d'établissement ;
 
 5. L'époque des versements ;
 
