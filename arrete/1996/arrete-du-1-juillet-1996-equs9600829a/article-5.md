@@ -6,7 +6,7 @@ I. - Dimensions des plaques
 
 Les dimensions des plaques, des caractères d'immatriculation et des espacements sont données en millimètres par le tableau suivant :
 
-(Tableau non reproduit voir JORF du 17 juillet 1996 p. 10785)
+(Tableau non reproduit voir JORF du 27 mars 2004 p. 5905 et suivantes).
 
 II. - Emplacement et caractéristiques du symbole européen
 

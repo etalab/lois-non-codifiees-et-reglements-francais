@@ -1,3 +1,3 @@
 # Article 3
 
-Les personnes physiques et morales sont tenues de répondre, avec exactitude, et dans les délais fixés, aux enquêtes statistiques revêtues du visa défini à l'article 2.
+Les personnes sont tenues de répondre, avec exactitude, et dans les délais fixés, aux enquêtes statistiques qui sont rendues obligatoires en vertu de l'article 1er.
