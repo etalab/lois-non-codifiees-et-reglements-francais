@@ -1,0 +1,3 @@
+# Article 12
+
+Les assistants veillent à la préparation et au contrôle des activités de recherche de l'établissement. Ils participent à la valorisation des résultats de la recherche, à la diffusion de l'information scientifique et technique et en assurent le suivi. Ils apportent leur concours aux activités d'enseignement, de formation ou d'administration de la recherche. Ils peuvent être chargés de la réalisation d'études spécifiques, de la mise au point ou de l'adaptation de techniques nouvelles, et participer à l'encadrement de personnels d'exécution de l'unité de recherche, du service ou du laboratoire auquel ils sont affectés.

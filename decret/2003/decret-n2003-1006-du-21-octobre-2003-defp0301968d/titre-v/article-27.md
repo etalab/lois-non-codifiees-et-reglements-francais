@@ -1,0 +1,3 @@
+# Article 27
+
+Les agents contractuels recrutés par contrat à durée déterminée pour occuper des emplois permanents scientifiques, techniques et administratifs de recherche de l'Ecole polytechnique sont, à la date d'effet du présent décret, placés en contrat à durée indéterminée et classés, compte tenu des fonctions qu'ils exercent et des conditions de titres, de diplômes ou de qualifications prévues au titre II du présent décret, dans l'une des catégories d'emplois mentionnées à l'article 3, après avis d'une commission consultative d'intégration dont la composition et les modalités de fonctionnement sont fixées par le directeur général de l'école après avis du comité technique paritaire central.

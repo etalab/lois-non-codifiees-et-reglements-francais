@@ -1,0 +1,3 @@
+# Article 24
+
+Sans préjudice des recrutements intervenant en application du titre II du présent décret, et sous réserve des dispositions de l'article 25, des agents régis par le présent décret peuvent être, dans les conditions prévues à l'article 22, nommés à la catégorie d'emplois immédiatement supérieure, dans la limite de 20 % des emplois vacants dans cette catégorie. Les intéressés sont choisis parmi les agents présentant l'aptitude nécessaire pour assurer les fonctions correspondantes et justifiant soit des titres, diplômes et qualifications prévus au titre II pour les recrutements externes et de trois années d'ancienneté de service dans leur catégorie, soit de cinq années de service effectif dans cette même catégorie.
