@@ -57,7 +57,6 @@
 - [Décret n°88-745 du 7 juin 1988 (EQUM8801038D)](decret-n88-745-du-7-juin-1988-equm8801038d)
 - [Décret n°88-951 du 7 octobre 1988 (SPSH8801011D)](decret-n88-951-du-7-octobre-1988-spsh8801011d)
 - [Décret n°88-952 du 7 octobre 1988 (PRMX8810856D)](decret-n88-952-du-7-octobre-1988-prmx8810856d)
-- [Décret n°88-957 du 7 octobre 1988 (DOMP8800035D)](decret-n88-957-du-7-octobre-1988-domp8800035d)
 - [Décret n°91-148 du 7 février 1991 (ACVX9100020D)](decret-n91-148-du-7-fevrier-1991-acvx9100020d)
 - [Décret n°88-653 du 7 mai 1988 (RESP8800525D)](decret-n88-653-du-7-mai-1988-resp8800525d)
 - [Décret n°88-654 du 7 mai 1988 (RESP8800524D)](decret-n88-654-du-7-mai-1988-resp8800524d)
