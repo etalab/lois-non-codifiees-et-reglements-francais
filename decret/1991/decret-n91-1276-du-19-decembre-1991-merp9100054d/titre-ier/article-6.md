@@ -1,10 +1,10 @@
 # Article 6
 
-Le conseil comprend cinquante et un membres titulaires et un nombre égal de suppléants. Les membres suppléants n'assistent qu'aux séances où ils remplacent les membres titulaires.
+Le conseil comprend cinquante-sept membres titulaires et un nombre égal de suppléants. Les membres suppléants n'assistent qu'aux séances où ils remplacent les membres titulaires.
 
 Ces membres sont répartis comme suit :
 
-Groupe Production : exploitants d'établissements de pêche sur le domaine public ou privé (éleveurs et expéditeurs) et salariés.
+Groupe Production : exploitants d'établissements de pêche sur le domaine public ou privé (éleveurs et expéditeurs) et salariés ; exploitants représentant les organisations de producteurs reconnues.
 
 I. - Secteur I (huîtres plates et creuses) :
 
@@ -28,7 +28,19 @@ Normandie-mer du Nord 2, Bretagne-Nord 2, Bretagne-Sud 1, Ré-Centre-Ouest 2, Ma
 
 a) 2. Vénériculture (toutes régions) 1.
 
-Groupe Commerce et industrie :
+III. - Secteur III : exploitants représentant les organisations de producteurs reconnues dans le ressort des sectins régionales définies à l'article 17 du présent décret :
+
+Normandie-mer du Nord : 1 ;
+
+Bretagne-Nord et Bretagne-Sud : 1 ;
+
+Ré-Centre-Ouest : 1 ;
+
+Marennes-Oléron : 1 ;
+
+Arcachon-Aquitaine : 1 ;
+
+Méditerranée : 1.    Groupe Commerce et industrie :
 
 a) Représentants du commerce : grossistes, poissonniers-détaillants, restaurateurs, grandes surfaces :
 
