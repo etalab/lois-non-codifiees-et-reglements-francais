@@ -35,6 +35,7 @@
 - [Décret n°72-862 du 22 septembre 1972](decret-n72-862-du-22-septembre-1972)
 - [Décret n° 70-559 du 23 juin 1970](decret-n-70-559-du-23-juin-1970)
 - [Décret n°72-990 du 23 octobre 1972](decret-n72-990-du-23-octobre-1972)
+- [Décret n°72-154 du 24 février 1972](decret-n72-154-du-24-fevrier-1972)
 - [Décret n°72-318 du 24 avril 1972](decret-n72-318-du-24-avril-1972)
 - [Décret n°72-1058 du 25 novembre 1972](decret-n72-1058-du-25-novembre-1972)
 - [Décret n°72-876 du 25 septembre 1972](decret-n72-876-du-25-septembre-1972)

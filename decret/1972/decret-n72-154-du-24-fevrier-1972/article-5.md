@@ -1,0 +1,3 @@
+# Article 5
+
+A l'expiration des congés ou autorisations spéciales d'absence prévus à l'article 2 et de ceux prévus aux articles 3 et 4, les ouvriers et ouvrières qui ne sont pas aptes à reprendre leur service et les ouvrières qui désirent obtenir des congés d'allaitement sont placés dans la position de congé sans salaire. Lorsqu'ils ont passé trente mois dans cette dernière situation sans avoir manifesté l'intention de réintégrer leur emploi ou sans avoir été reconnus physiquement aptes à le reprendre, ils sont rayés des contrôles et peuvent, éventuellement, être admis à faire valoir leurs droits à la retraite.
