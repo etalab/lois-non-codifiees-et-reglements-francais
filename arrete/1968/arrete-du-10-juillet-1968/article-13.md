@@ -1,0 +1,7 @@
+# Article 13
+
+Pour la constitution initiale du cadre, les agents en fonction au service des affaires économiques et internationales et au service d'études techniques des routes et autoroutes à la date d'entrée en vigueur du présent arrêté pourront être intégrés dans le niveau A 2 s'ils détiennent l'un des titres ou diplômes énumérés à l'article 9 (2°) ci-dessus ou dans le niveau A 3 s'ils détiennent l'un des titres ou diplômes énumérés au 3° dudit article 9.
+
+Toutefois, dans la limite de 20 % du nombre total des intégrations réalisées, ceux de ces agents ne détenant pas les titres ou diplômes prévus à l'article 9 (2° et 3°) ci-dessus, pourront être intégrés par dérogation dans le niveau A 2 ou dans le niveau A 3 à la condition d'avoir fait l'objet d'une proposition spéciale de la par d'une commission présidée par le ministre de l'équipement et du logement ou son représentant et comprenant un représentant du ministre de la fonction publique, un représentant du ministre de l'économie et des finances et un représentant du service intéressé; en cas de partage des voix, celle du président est prépondérante.
+
+Les agents intégrés dans le niveau A 2 ou dans le niveau A 3 seront classés à un échelon de ce niveau comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient précédemment, en conservant l'ancienneté acquise dans la mesure où l'augmentation d'indice n'est pas supérieure à celle qui aurait résulté d'un avancement d'échelon dans l'ancien cadre.

@@ -1,0 +1,3 @@
+# Article 81
+
+Sous réserve des dispositions de l'article 80 (alinéa 2), le syndic poursuit seul [*sous le contrôle du juge-commissaire*] la vente des marchandises et effets mobiliers du débiteur, le recouvrement des créances et la liquidation des dettes de celui-ci. Les deniers provenant des ventes et des recouvrements sont, sous la déduction des sommes arbitrées par le juge-commissaire pour le montant des dépenses et des frais versés immédiatement à la caisse des dépôts et consignations. Le syndic justifie au juge-commissaire desdits versements ; en cas de retard il doit les intérêts des sommes qu'il n'a pas versées.

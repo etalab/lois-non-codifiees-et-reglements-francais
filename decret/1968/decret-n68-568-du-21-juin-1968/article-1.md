@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnels civils de l'Etat et des établissements publics à caractère administratif appelés à servir de façon temporaire dans le territoire des Terres australes et antarctiques françaises perçoivent, pendant la durée de leur séjour et à l'exclusion d'indemnité journalière de mission, le traitement afférent à l'indice hiérarchique détenu dans l'emploi occupé, augmenté de l'indemnité de résidence et du supplément familial de traitement qu'ils percevraient s'ils étaient en service à Paris, l'ensemble étant multiplié par le coefficient de majoration prévu par l'article 2 du décret n° 67-600 du 23 juillet 1967 susvisé.

@@ -1,0 +1,3 @@
+# Article 71
+
+Le fonds national d'assurance vieillesse verse à la caisse autonome nationale de la sécurité sociale dans les mines les sommes correspondant au montant de la compensation interprofessionnelle des charges de l'assurance vieillesse effectuée entre les deux régimes, dans les conditions fixées par le décret pris en application de l'article 73 de la loi n° 63-1241 du 19 décembre 1963 portant loi de finances pour 1964. Un arrêté du ministre des affaires sociales, du ministre de l'industrie et du ministre de l'économie et des finances fixe la périodicité et le montant des versements provisionnels prévus par ledit décret.
