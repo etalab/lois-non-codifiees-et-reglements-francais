@@ -1,3 +1,9 @@
 # Article 107
 
-Les dépenses à la charge des bourses de compagnie sont réparties et recouvrées par les conseils régionaux dont relèvent les écoles de notariat et les centres de formation professionnelle, dans les conditions prévues à l'article 12 du décret susvisé du 19 décembre 1945. En cas de difficultés, le conseil supérieur du notariat procède à la répartition et au recouvrement de ces dépenses.
+Une commission présidée par le président du Conseil supérieur du notariat ou son délégué, composée en nombre égal de membres désignés par le Conseil supérieur du notariat et le Centre national de l'enseignement professionnel notarial :
+
+1° Procède au contrôle financier des divers établissements ;
+
+2° Se prononce sur leurs budgets prévisionnels ;
+
+3° Répartit les fonds recueillis entre les centres et les écoles.    En cas de partage des voix, celle du président est prépondérante.    En fin d'exercice, après examen et approbation des comptes d'exploitation, les sommes non utilisées sont reportées à nouveau.
