@@ -6,4 +6,6 @@ Les titulaires d'un D.E.U.G. Sciences, mention Sciences de la vie, peuvent, apr�
 
 Les titulaires des diplômes professionnels mentionnés au premier alinéa ci-dessus peuvent, après réussite d'un concours spécifique, accéder directement en deuxième cycle.
 
-Les modalités des concours prévus aux deuxième et troisième alinéas ci-dessus sont définies par un arrêté du ministre chargé de l'agriculture.
+Les titulaires du diplôme d'Etat de docteur en médecine ou du diplôme d'Etat de docteur en pharmacie ou du diplôme d'Etat de docteur en chirurgie dentaire peuvent, après réussite d'un concours spécifique, être admis directement en deuxième cycle.
+
+Les modalités des concours prévus aux deuxième, troisième et quatrième alinéas ci-dessus sont définies par un arrêté du ministre chargé de l'agriculture.
