@@ -1,3 +1,7 @@
 # Article 2
 
-L'arrêté du 17 octobre 1956 relatif au tarif des huissiers de justice est abrogé.
+Les candidats à une inscription en vue du certificat de capacité d'orthophoniste doivent justifier :
+
+Soit du baccalauréat, soit d'une attestation de succès à un examen spécial d'entrée dans les universités défini par la réglementation nationale ou du diplôme d'accès aux études universitaires, soit d'un titre français admis, conformément à la réglementation nationale en dispense du baccalauréat, soit d'un titre étranger sanctionnant une formation d'un niveau au moins égal quant au contenu, à la durée des études et aux modalités de contrôle des aptitudes et des connaissances à celle que sanctionne le baccalauréat français. Dans ce dernier cas, la décision est prise par le président de l'université, sur proposition d'une commission désignée par lui et composée d'au moins quatre membres choisis parmi les enseignants de la discipline. Cette commission peut assortir sa proposition de l'obligation pour le candidat, soit de suivre des enseignements complémentaires, soit de satisfaire à un contrôle préliminaire des aptitudes et des connaissances, soit encore de remplir l'une et l'autre de ces deux conditions. Le président d'université communique chaque année avant le 31 décembre au ministre de l'éducation nationale la liste des décisions d'admission prononcées sur titre étranger en dispense du baccalauréat.
+
+Ces dispositions s'appliquent sans préjudice des règles posées par le décret n° 81-1221 du 31 décembre 1981 susvisé.

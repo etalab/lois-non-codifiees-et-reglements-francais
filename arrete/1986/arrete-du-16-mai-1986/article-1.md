@@ -1,3 +1,3 @@
 # Article 1
 
-Le taux de prélèvement prévu à l'article 21 du décret n° 67-18 du 5 janvier 1967 est arrêté chaque année par le bureau de la chambre nationale des huissiers de justice. Il ne pourra être supérieur à deux fois et demie la taxe kilométrique ferroviaire en première classe.
+Le certificat de capacité d'orthophoniste est délivré par les universités habilitées à cet effet par arrêté du ministre chargé des universités et du ministre chargé de la santé, pris après avis du Conseil national de l'enseignement supérieur et de la recherche. Cet arrêté mentionne la composante, au sens de l'article 25 de la loi du 26 janvier 1984 susvisée, responsable de la préparation. Il est pris au vu d'un dossier précisant les modalités d'organisation. L'habilitation peut être retirée selon la même procédure.
