@@ -15,7 +15,6 @@
 - [Arrêté du 4 août 1977](arrete-du-4-aout-1977)
 - [Arrêté du 4 février 1977](arrete-du-4-fevrier-1977)
 - [Arrêté du 4 janvier 1977](arrete-du-4-janvier-1977)
-- [Arrêté du 4 juillet 1977](arrete-du-4-juillet-1977)
 - [Arrêté du 4 novembre 1975](arrete-du-4-novembre-1975)
 - [Arrêté du 5 février 1977](arrete-du-5-fevrier-1977)
 - [Arrêté du 5 juillet 1977](arrete-du-5-juillet-1977)

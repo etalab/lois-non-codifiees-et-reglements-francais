@@ -1,4 +1,4 @@
-# Arrêté du 8 janvier 1986 fixant les taux des taxes parafiscales pour la campagne 1985-1986 au profit du Bureau national interprofessionnel du pruneau.
+# Arrêté du 8 janvier 1986 fixant le protocole applicable aux essais analytiques des médicaments vétérinaires
 
 - [Titre 1 : Dispositions relatives à la revalorisation de divers avantages de vieillesse, d'invalidité et d'accident du travail du régime général de la sécurité sociale.](titre-1)
 - [Titre 2 : Dispositions relatives à la revalorisation des prestations d'assurance vieillesse des travailleurs non-salariés des professions artisanales, industrielles et commerciales](titre-2)
