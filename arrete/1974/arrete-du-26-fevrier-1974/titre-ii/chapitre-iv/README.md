@@ -1,4 +1,4 @@
-# Chapitre IV : Dispositifs de contrôle, de régulation et de sécurité.
+# Chapitre IV : Dispositifs de contrôle, de régulation et de sécurité
 
 - [Article 27](article-27.md)
 - [Article 28](article-28.md)

@@ -4,7 +4,7 @@ Pour l'application des dispositions de l'article 5, le constructeur présentera 
 
 Ce dossier comprendra notamment :
 
-- les spécifications techniques des divers procédés de contrôle utilisés et de leur mise en oeuvre ;
+- les spécifications techniques des divers procédés de contrôle utilisés et de leur mise en œuvre ;
 
 - les critères de sanction des contrôles ;
 

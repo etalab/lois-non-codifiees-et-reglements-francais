@@ -6,6 +6,4 @@ Ce dossier comprendra notamment :
 
 - les spécifications techniques des matériaux employés indiquant en particulier leur mode d'élaboration, leur composition chimique et leurs caractéristiques tant dans leur état aux principaux stades de la fabrication que dans l'état final de l'appareil ;
 
-- les résultats des études concernant ces matériaux et permettant de s'assurer de leur bon comportement au cours des opérations de fabrication et en exploitation ;
-
-- les références d'emploi de ces matériaux.
+- les résultats des études concernant ces matériaux et permettant de s'assurer de leur bon comportement au cours des opérations de fabrication et en exploitation ; Les références d'emploi de ces matériaux.
