@@ -1,0 +1,5 @@
+# Article 6
+
+Le conseil scientifique du dépôt légal est composé de représentants des organismes dépositaires et est présidé par l'administrateur général de la Bibliothèque nationale.
+
+Il est chargé de veiller à la cohérence scientifique et à l'unité des procédures du dépôt légal. Il peut rendre des avis et formuler des recommandations sur toutes questions relatives au dépôt légal. Il est associé à la définition des modalités d'exercice de la consultation des documents déposés, prévue à l'article 2 de la présente loi, dans le double respect des principes définis par les lois n° 57-298 du 11 mars 1957 sur la propriété littéraire et artistique et n° 85-660 du 3 juillet 1985 relative aux droits d'auteurs et aux droits des artistes-interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises de communication audiovisuelle et de ceux inhérents au droit, pour le chercheur, d'accéder à titre individuel, dans le cadre de ses recherches, et dans l'enceinte de l'organisme dépositaire, aux documents conservés.

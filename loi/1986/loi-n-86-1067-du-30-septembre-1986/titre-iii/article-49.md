@@ -10,6 +10,8 @@ La société visée à l'article 58 de la présente loi bénéficie de ce même 
 
 L'Institut peut également passer des conventions avec toute personne morale de droit public ou de droit privé pour la conservation et l'exploitation de ses archives audiovisuelles.
 
+En application de la loi n° 92-546 du 20 juin 1992 relative au dépôt légal, l'Institut national de l'audiovisuel est chargé de recueillir et de conserver les documents sonores et audiovisuels radiodiffusés ou télédiffusés, de participer à la constitution et à la diffusion des bibliographies nationales correspondantes et de mettre ces documents à la disposition du public pour consultation. La consultation des documents s'effectue, sous réserve des secrets protégés par la loi, dans des conditions conformes à la législation sur la propriété intellectuelle et compatibles avec leur conservation. L'Institut national de l'audiovisuel exerce ces missions selon des modalités fixées par décret en Conseil d'Etat.
+
 L'Institut peut, dans les conditions fixées par le cahier des charges :
 
 a) Assurer ou faire assurer la formation continue des personnels du secteur de l'audiovisuel et contribuer à la formation initiale et à l'enseignement supérieur ;
