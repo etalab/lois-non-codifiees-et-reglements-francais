@@ -10,7 +10,11 @@ En cas de fermeture d'un réseau ou de licenciement de tout ou partie du personn
 
 L'article 3 de la loi du 15 janvier 1925 est applicable aux pensions liquidées à cette date.
 
-Un agent pourra passer d'une compagnie dans une autre et continuera à être affilié au régime des retraites de la caisse autonome, mais ce, sous la double condition de faire partie du cadre permanent de la nouvelle compagnie et de subir un stage d'un an avec versements ne comptera pas dans la durée de service exigée pour la retraite.
+En cas de licenciement du personnel dans un réseau (en totalité ou en partie) pour cause de compression ou de transformation du service, les agents réunissant au moins quinze années de service ont droit à une pension proportionnelle différée dont l'entrée en jouissance sera reportée au plus tôt à la limite d'âge normale de leur catégorie d'emploi. Les pouvoirs concédants prendront à leur charge la triple contribution prescrite par la loi pour la constitution des retraites pendant la période de temps nécessaire pour parfaire le minimum de vingt ans de service.
+
+Les agents licenciés avant d'avoir atteint quinze ans de service peuvent demander le remboursement, avec les intérêts simples calculés à 5 p. 100, les sommes versées par eux à la caisse autonome mutuelle des retraites.
+
+Un autre agent pourra passer d'une compagnie dans une autre et continuera à être affilié au régime des retraites de la caisse autonome, mais ce, sous la double condition de faire partie du cadre permanent de la nouvelle compagnie et de subir un stage d'un an avec versements ne comptera pas dans la durée de service exigée pour la retraite.
 
 Toutefois, le stage ci-dessus ne sera pas exigé, si la mutation d'une compagnie à une autre a lieu avec l'assentiment des deux compagnies intéressées.
 
