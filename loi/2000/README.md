@@ -21,6 +21,7 @@
 - [Loi n° 2000-516 du 15 juin 2000 (JUSX9800048L)](loi-n-2000-516-du-15-juin-2000-jusx9800048l)
 - [Loi n° 2000-517 du 15 juin 2000 (JUSX0000009L)](loi-n-2000-517-du-15-juin-2000-jusx0000009l)
 - [Loi n° 2000-595 du 30 juin 2000 (JUSX9800178L)](loi-n-2000-595-du-30-juin-2000-jusx9800178l)
+- [Loi n° 2000-596 du 30 juin 2000 (JUSX9802720L)](loi-n-2000-596-du-30-juin-2000-jusx9802720l)
 - [Loi n° 2000-597 du 30 juin 2000 (JUSX9900017L)](loi-n-2000-597-du-30-juin-2000-jusx9900017l)
 - [Loi n° 2000-614 du 5 juillet 2000 (EQUX9900036L)](loi-n-2000-614-du-5-juillet-2000-equx9900036l)
 - [Loi n° 2000-627 du 6 juillet 2000 (MJSX9900111L)](loi-n-2000-627-du-6-juillet-2000-mjsx9900111l)
