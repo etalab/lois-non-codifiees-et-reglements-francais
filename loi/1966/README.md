@@ -7,3 +7,4 @@
 - [Loi n° 66-396 du 17 juin 1966](loi-n-66-396-du-17-juin-1966)
 - [Loi n°66-378 du 15 juin 1966](loi-n66-378-du-15-juin-1966)
 - [Loi n°66-379 du 15 juin 1966](loi-n66-379-du-15-juin-1966)
+- [Loi n°66-400 du 18 juin 1966](loi-n66-400-du-18-juin-1966)
