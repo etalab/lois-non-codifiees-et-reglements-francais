@@ -1,0 +1,3 @@
+# Article 27
+
+Dans des conditions définies par décret en Conseil d'Etat, tout candidat à un contrat ou marché passé par une personne morale de droit public, ainsi que tout sous-traitant d'un titulaire de contrat ou de marché doit attester qu'il n'a pas fait l'objet, au cours des cinq dernières années, d'une condamnation inscrite au bulletin n° 2 du casier judiciaire pour les infractions visées aux articles L. 324-9, L. 324-10, L. 341-6, L. 125-1 et L. 125-3 du code du travail. Ces dispositions s'appliquent à toute personne morale soumise pour la passation de ses contrats et marchés à des règles de publicité et de mise en concurrence.
