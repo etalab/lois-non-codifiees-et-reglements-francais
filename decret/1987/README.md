@@ -78,7 +78,6 @@
 - [Décret n°87-815 du 5 octobre 1987 (TRST8700290D)](decret-n87-815-du-5-octobre-1987-trst8700290d)
 - [Décret n°87-831 du 5 octobre 1987 (JUSB8710272D)](decret-n87-831-du-5-octobre-1987-jusb8710272d)
 - [Décret n°87-307 du 5 mai 1987](decret-n87-307-du-5-mai-1987)
-- [Décret n°87-316 du 5 mai 1987 (MERF8700015D)](decret-n87-316-du-5-mai-1987-merf8700015d)
 - [Décret du 6 novembre 1987 (BUDB8760048D)](decret-du-6-novembre-1987-budb8760048d)
 - [Décret du 6 octobre 1987 (ECOT8723008D)](decret-du-6-octobre-1987-ecot8723008d)
 - [Décret n°87-149 du 6 mars 1987 (EQUC8700007D)](decret-n87-149-du-6-mars-1987-equc8700007d)
