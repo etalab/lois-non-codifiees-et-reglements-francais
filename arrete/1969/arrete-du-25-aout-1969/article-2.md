@@ -41,3 +41,5 @@ Titre d'ancien élève de l'école militaire de la flotte admis aux examens de s
 Certificat d'aptitude pédagogique des instituteurs.
 
 Diplôme d'Etat d'éducateur spécialisé.
+
+Diplôme de fin d'études de l'institut d'études économiques et juridiques appliquées à la construction et à l'habitation (I.C. H.) rattaché au Conservatoire national des arts et métiers.
