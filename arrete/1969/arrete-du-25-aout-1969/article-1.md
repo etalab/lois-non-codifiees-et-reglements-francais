@@ -88,6 +88,8 @@ Professions technico-commerciales des industries des métaux.
 
 Brevet de technicien supérieur agricole (spécialité Gestion et économie agricoles) délivré par le ministère de l'agriculture.
 
+Brevet de technicien supérieur agricole (spécialité Transformation, distribution et commercialisation des produits agricoles).
+
 Baccalauréats de technicien :
 
 Techniques administratives.
@@ -203,6 +205,8 @@ Ecole nationale supérieure des P. T. T.
 Diplôme d'ingénieur figurant sur la liste dressée par la commission des titres d'ingénieur en application de la loi du 10 juillet 1934.
 
 Grade d'ingénieur des travaux publics de l'Etat ou des travaux ruraux.
+
+Diplôme de premier cycle technique du Conservatoire national des arts et métiers (D.P.C. T.)
 
 Diplôme universitaire de technologie :
 
