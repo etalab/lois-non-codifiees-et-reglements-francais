@@ -518,7 +518,6 @@
 - [Décret n°96-925 du 18 octobre 1996 (TASS9623355D)](decret-n96-925-du-18-octobre-1996-tass9623355d)
 - [Décret n°96-944 du 18 octobre 1996 (MCCK9600317D)](decret-n96-944-du-18-octobre-1996-mcck9600317d)
 - [Décret n°97-793 du 18 août 1997 (MESG9710904D)](decret-n97-793-du-18-aout-1997-mesg9710904d)
-- [Décret du 19 mars 1996 (FCEC9600013D)](decret-du-19-mars-1996-fcec9600013d)
 - [Décret du 19 mars 1996 (FCEC9600014D)](decret-du-19-mars-1996-fcec9600014d)
 - [Décret n°96-1010 du 19 novembre 1996 (INDB9600410D)](decret-n96-1010-du-19-novembre-1996-indb9600410d)
 - [Décret n°96-1012 du 19 novembre 1996 (ECOR9604299D)](decret-n96-1012-du-19-novembre-1996-ecor9604299d)
