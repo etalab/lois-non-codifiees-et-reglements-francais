@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsque les besoins du service le justifient, les administrations de l'Etat et de ses établissements publics à caractère administratif peuvent faire appel, pour l'accomplissement de missions d'expertise et de conseil, à des personnes appartenant à l'un des corps d'enseignants-chercheurs mentionnés dans les décrets du 6 juin 1984 et du 21 février 1992 susvisés et justifiant d'une durée de trois ans de fonctions dans l'un ou plusieurs de ces corps. Ces personnes apportent leur concours en continuant d'assurer le plein exercice de leur emploi dans les conditions définies par le présent décret.
