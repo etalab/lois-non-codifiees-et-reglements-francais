@@ -28,6 +28,7 @@
 - [Loi n° 99-641 du 27 juillet 1999 (MESX9900011L)](loi-n-99-641-du-27-juillet-1999-mesx9900011l)
 - [Loi n° 99-67 du 3 février 1999 (ECOX9800147L)](loi-n-99-67-du-3-fevrier-1999-ecox9800147l)
 - [Loi n° 99-899 du 25 octobre 1999 (INTX9900040L)](loi-n-99-899-du-25-octobre-1999-intx9900040l)
+- [Loi n° 99-944 du 15 novembre 1999 (JUSX9803236L)](loi-n-99-944-du-15-novembre-1999-jusx9803236l)
 - [Loi n°89-432 du 28 juin 1989 (SPOX8800141L)](loi-n89-432-du-28-juin-1989-spox8800141l)
 - [Loi n°99-243 du 29 mars 1999 (EQUX9800060L)](loi-n99-243-du-29-mars-1999-equx9800060l)
 - [Loi n°99-894 du 22 octobre 1999 (DEFX9800173L)](loi-n99-894-du-22-octobre-1999-defx9800173l)
