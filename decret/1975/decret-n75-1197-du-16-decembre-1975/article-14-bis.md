@@ -1,5 +1,0 @@
-# Article 14 BIS
-
-A titre transitoire, si l'intéressé justifie de son taux d'incapacité permanente par la présentation de la carte d'invalidité prévue à l'article L. 173 du code de la famille et de l'aide sociale ou si il a ouvert droit antérieurement à l'allocation aux mineurs handicapés jusqu'à l'âge limite d'attribution de cette prestation, l'allocation aux adultes handicapés est attribuée par la caisse [*d'allocations familiales*] mentionnée à l'article 9 sans examen préalable par la commission technique d'orientation et de reclassement professionnel. Ces dispositions s'appliquent aux demandes présentées avant la date à laquelle dans chaque département le préfet a constaté que la commission technique d'orientation et de reclassement professionnel peut se réunir valablement à la diligence de son président.
-
-Le bénéfice de l'allocation aux adultes handicapés ainsi attribuée est prolongé jusqu'à la date à laquelle la commission technique d'orientation et de reclassement professionnel se prononce sur les droits de l'intéressé [*durée*].
