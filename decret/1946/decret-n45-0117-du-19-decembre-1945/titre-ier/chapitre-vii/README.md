@@ -2,4 +2,5 @@
 
 - [Section I : Règles de discipline.](section-i)
 - [Section II : De la comptabilité.](section-ii)
-- [Section III : Différends entre notaires et plaintes contre les notaires.](section-iii)
+- [Section III : De la comptabilité.](section-iii)
+- [Section IV : Différends entre notaires et plaintes contre les notaires.](section-iv)

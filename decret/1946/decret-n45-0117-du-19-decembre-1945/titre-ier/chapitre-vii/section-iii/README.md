@@ -1,5 +1,17 @@
-# Section III : Différends entre notaires et plaintes contre les notaires.
+# Section III : De la comptabilité.
 
+- [Article 15](article-15.md)
+- [Article 16](article-16.md)
+- [Article 16 A](article-16-a.md)
+- [Article 17](article-17.md)
+- [Article 18](article-18.md)
+- [Article 19](article-19.md)
+- [Article 19-1](article-19-1.md)
+- [Article 19-2](article-19-2.md)
+- [Article 20](article-20.md)
+- [Article 20 C](article-20-c.md)
+- [Article 20 A](article-20-a.md)
+- [Article 20 B](article-20-b.md)
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)
 - [Article 26](article-26.md)

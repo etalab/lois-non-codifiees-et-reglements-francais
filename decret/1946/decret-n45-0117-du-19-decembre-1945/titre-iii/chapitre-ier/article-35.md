@@ -4,7 +4,7 @@ Le Conseil supérieur est composé d'un président, de délégués élus à rais
 
 Les délégués sont élus pour quatre ans par les membres du conseil régional et par les membres des chambres de notaires du ressort de ce conseil. Ils ne sont rééligibles qu'après un intervalle d'un an.
 
-Les délégués sont élus au cours des mois de juin et de juillet. Ils prennent leurs fonctions lors de l'assemblée générale du conseil supérieur qui suit leur élection. Le vote par procuration ou par correspondance est interdit.
+Les délégués sont élus au cours des mois de septembre. Ils prennent leurs fonctions lors de l'assemblée générale du conseil supérieur qui suit leur élection. Le vote par procuration ou par correspondance est interdit.
 
 Le conseil supérieur se renouvelle par moitié, tous les deux ans, dans les mêmes conditions que les conseils régionaux.
 
