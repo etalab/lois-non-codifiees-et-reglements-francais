@@ -787,6 +787,8 @@
 - [Décret n°95-931 du 22 août 1995 (LOGC9500051D)](decret-n95-931-du-22-aout-1995-logc9500051d)
 - [Décret n°94-1015 du 23 novembre 1994 (RESK9400873D)](decret-n94-1015-du-23-novembre-1994-resk9400873d)
 - [Décret n°95-1133 du 23 octobre 1995 (ECOT9594375D)](decret-n95-1133-du-23-octobre-1995-ecot9594375d)
+- [Décret n°95-1137 du 23 octobre 1995 (ECOD9570014D)](decret-n95-1137-du-23-octobre-1995-ecod9570014d)
+- [Décret n°95-1139 du 23 octobre 1995 (INDF9500937D)](decret-n95-1139-du-23-octobre-1995-indf9500937d)
 - [Décret n°95-190 du 23 février 1995 (MAEC9510001D)](decret-n95-190-du-23-fevrier-1995-maec9510001d)
 - [Décret n°95-192 du 23 février 1995 (RESK9500125D)](decret-n95-192-du-23-fevrier-1995-resk9500125d)
 - [Décret n°95-193 du 23 février 1995 (DOME9500004D)](decret-n95-193-du-23-fevrier-1995-dome9500004d)
