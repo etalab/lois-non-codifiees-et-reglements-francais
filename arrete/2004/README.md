@@ -333,6 +333,7 @@
 - [Arrêté du 25 novembre 2004 (PRMD0407775A)](arrete-du-25-novembre-2004-prmd0407775a)
 - [Arrêté du 26 août 2005 (EQUA0500749A)](arrete-du-26-aout-2005-equa0500749a)
 - [Arrêté du 26 août 2005 (EQUA0500750A)](arrete-du-26-aout-2005-equa0500750a)
+- [Arrêté du 26 avril 2004 (DOMB0400026A)](arrete-du-26-avril-2004-domb0400026a)
 - [Arrêté du 26 décembre 2003 (FPPA0300169A)](arrete-du-26-decembre-2003-fppa0300169a)
 - [Arrêté du 26 décembre 2003 (INTE0400112A)](arrete-du-26-decembre-2003-inte0400112a)
 - [Arrêté du 26 décembre 2003 (INTE0400113A)](arrete-du-26-decembre-2003-inte0400113a)

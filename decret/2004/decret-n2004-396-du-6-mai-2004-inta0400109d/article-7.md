@@ -1,0 +1,3 @@
+# Article 7
+
+Le scrutin ne durera qu'un jour. Il sera ouvert à 8 heures et clos à 18 heures. Toutefois, pour faciliter aux électeurs l'exercice de leur droit de vote, les représentants de l'Etat dans les départements, en Polynésie française, aux îles Wallis-et-Futuna, en Nouvelle-Calédonie, à Mayotte et à Saint-Pierre-et-Miquelon pourront prendre des arrêtés à l'effet d'avancer ou de retarder dans certaines communes ou circonscriptions administratives l'heure d'ouverture ou de fermeture du scrutin. En aucun cas, le scrutin ne pourra être clos après 20 heures. Ces arrêtés devront être publiés et affichés dans chaque commune ou circonscription administrative, cinq jours au moins avant la date du scrutin.
