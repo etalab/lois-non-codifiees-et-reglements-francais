@@ -594,6 +594,7 @@
 - [Arrêté du 27 janvier 1994 (EQUS9400267A)](arrete-du-27-janvier-1994-equs9400267a)
 - [Arrêté du 27 janvier 1994 (INTD9400079A)](arrete-du-27-janvier-1994-intd9400079a)
 - [Arrêté du 27 janvier 1995 (AGRA9402495A)](arrete-du-27-janvier-1995-agra9402495a)
+- [Arrêté du 27 juin 1994 (ECOT9410210A)](arrete-du-27-juin-1994-ecot9410210a)
 - [Arrêté du 27 juin 1994 (SPSG9401396A)](arrete-du-27-juin-1994-spsg9401396a)
 - [Arrêté du 27 mai 1993 (EQUH9300867A)](arrete-du-27-mai-1993-equh9300867a)
 - [Arrêté du 27 mai 1994 (ECOT9410211A)](arrete-du-27-mai-1994-ecot9410211a)
