@@ -1,9 +1,13 @@
-# Arrêté du 20 novembre 1979 concernant la lutte contre la pollution des eaux (application du décret n° 73-218 du 23 février 1973)
+# Arrêté du 20 novembre 1979 relatif aux travaux d'amélioration des logements à usage locatif et à occupation sociale pouvant donner lieu à l'attribution d'une subvention
 
 - [Article 1](article-1.md)
+- [TITRE 1 : CONDITIONS DE RESSOURCES.](titre-1)
 - [Article 2](article-2.md)
+- [TITRE 2 : TAUX ET MONTANTS DE LA PRIME.](titre-2)
 - [Article 3](article-3.md)
+- [TITRE 3 : PROCEDURE D'OCTROI.](titre-3)
 - [Article 4](article-4.md)
+- [Article 4 bis](article-4-bis.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
@@ -14,3 +18,4 @@
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
+- [Annexes](annexes)

@@ -1,6 +1,6 @@
 # Article 5
 
-L'arrêté d'autorisation d'un rejet pour épandage définit les conditions dans lesquelles celui-ci doit être pratiqué pour éviter la stagnation prolongée des effluents épandus, leur ruissellement hors des surfaces réservées à l'épandage, la contamination des eaux, souterraines ou superficielles.
+L'arrêté d'autorisation d'un rejet pour épandage [*contenu*] définit les conditions dans lesquelles celui-ci doit être pratiqué pour éviter la stagnation prolongée des effluents épandus, leur ruissellement hors des surfaces réservées à l'épandage, la contamination des eaux, souterraines ou superficielles.
 
 L'arrêté fixe notamment :
 
