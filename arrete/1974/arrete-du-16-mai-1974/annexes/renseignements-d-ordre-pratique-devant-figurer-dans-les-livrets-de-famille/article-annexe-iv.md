@@ -100,7 +100,7 @@ Lorsque l'enfant n'a pas été reconnu par son père, la mère peut, dans de nom
 
 Lorsque l'action en recherche de paternité n'est pas possible, la mère peut réclamer en justice au père le versement de subsides (c'est-à-dire d'une pension alimentaire) pendant la minorité de l'enfant, si elle est en mesure de prouver l'existence de relations intimes pendant la période de la conception.
 
-Si la mère ne dispose pas de ressources suffisantes pour payer le frais de justice et les honoraires de l'avocat, elle peut demander le bénéfice de l'aide judiciaire.
+Si la mère ne dispose pas de ressources suffisantes pour payer le frais de justice et les honoraires de l'avocat, elle peut demander le bénéfice de l'aide juridictionnelle.
 
 Nom de l'enfant naturel :
 

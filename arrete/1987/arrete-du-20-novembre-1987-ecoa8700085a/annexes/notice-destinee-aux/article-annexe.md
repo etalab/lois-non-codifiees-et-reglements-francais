@@ -32,7 +32,7 @@ Toutes les victimes dans la mesure où elles ne sont pas responsables de l'accid
 
 Attention : même si vous êtes indemnisé de vos dommages, vous pouvez être tenu de réparer ceux que vous avez causés à autrui si vous êtes responsable.
 
-Comment se deroule l'indemnisation ?
+Comment se déroule l'indemnisation ?
 
 L'assureur du responsable prend contact avec vous.
 
@@ -52,7 +52,7 @@ Dans la plupart des cas : l'assureur qui garantit la responsabilité civile du v
 
 Le propriétaire du véhicule s'il est dispensé de recourir à un assureur (Etat, R.A.T.P. ...).
 
-Le Bureau central français, ou son représentant, s'il s'agit d'un véhicule étranger (B.P. 27-93171, Bagnolet Cedex).
+Le Bureau central français, ou son représentant, s'il s'agit d'un véhicule étranger (B.P. 27-93171, Bagnolet cédex).
 
 Si l'auteur de l'accident est inconnu ou non assuré, il vous appartient de saisir le Fonds de garantie (64, rue de France, 94307 Vincennes cédex).
 
@@ -236,7 +236,7 @@ Constituez votre dossier en conservant l'original ou, à défaut, la copie de to
 
 Vous devez adresser à l'assureur les pièces justifiant les préjudices que vous avez subis.
 
-Vous pouvez prendre l'avis de spécialistes, agent ou courtier d'assurances, avocat, conseiller juridique, médecin... Toutefois, les frais et honoraires de ces intervenants peuvent rester à votre charge, sauf si vous bénéficiez d'une garantie de protection juridique ou de l'aide judiciaire en cas de procès.
+Vous pouvez prendre l'avis de spécialistes, agent ou courtier d'assurances, avocat, conseiller juridique, médecin... Toutefois, les frais et honoraires de ces intervenants peuvent rester à votre charge, sauf si vous bénéficiez d'une garantie de protection juridique ou de l'aide juridictionnelle en cas de procès.
 
 Surveillez les délais afin d'accélérer le règlement de votre dossier. En particulier si un mois après l'accident vous n'avez aucune nouvelle de l'assureur du responsable prenez contact avec lui.
 
