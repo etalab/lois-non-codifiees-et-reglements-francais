@@ -1,6 +1,6 @@
 # Article 5
 
-Les membres du Conseil national de l'enseignement supérieur et de la recherche sont élus ou nommés [*mandat - durée*] pour une période de quatre ans, à l'exception des représentants des étudiants qui sont élus pour deux ans.
+Les membres du Conseil national de l'enseignement supérieur et de la recherche sont élus ou nommés [*mandat - durée*] pour une période de quatre ans, à l'exception des représentants des étudiants qui sont élus pour deux ans. La durée de leur mandat commence à courir du jour de la séance d'installation et au plus tard deux mois après la date de la proclamation des résultats des élections.
 
 Ils ne peuvent accomplir plus de deux mandats successifs.
 
