@@ -1,0 +1,5 @@
+# Article 15
+
+Sont admis en troisième année les élèves ayant obtenu une moyenne générale des notes du contrôle continu et des épreuves terminales égale ou supérieure à 10 sur 20, à la condition qu'ils n'aient obtenu la note 0 à aucune épreuve terminale écrite ou orale.
+
+Les élèves ayant obtenu une moyenne générale inférieure à 10 sur 20 ou la note 0 à l'une des épreuves terminales peuvent se représenter à la seconde session de l'examen de passage en troisième année. Cette seconde session est organisée deux semaines au moins après la dernière épreuve écrite de la première session. Les élèves qui se présentent à cette seconde session conservent la note globale moyenne de l'évaluation continue des enseignements théoriques de l'année ainsi que les notes supérieures ou égales à 10 sur 20 obtenues lors des épreuves terminales de la première session. Les élèves qui échouent à la seconde session de l'examen de passage en troisième année sont admis à redoubler leur deuxième année, à l'exception de ceux ayant déjà redoublé leur première année qui sont exclus définitivement de la formation.
