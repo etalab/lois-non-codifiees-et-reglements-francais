@@ -143,3 +143,5 @@ L'exercice de cette compétence est limitée à la discipline dans laquelle le p
 8° La discipline endocrinologie et maladies métaboliques peut être exercée en tant que compétence simultanément avec une autre compétence, avec la médecine générale, la médecine interne ou les maladies de l'appareil digestif.
 
 9° La génétique médicale, la médecine légale, la médecine exotique et la médecine thermale et climatologie médicale peuvent être exercées simultanément avec toute autre discipline.
+
+Lors de leur demande d'inscription sur les listes des médecins qualifiés en médecine générale ou des médecins spécialistes, les ressortissants des Etats membres de la Communauté européenne doivent communiquer, notamment, leur diplôme, certificat ou autre titre de médecin qualifié en médecine générale ou de médecin spécialiste, accompagné d'une attestation délivrée par les autorités compétentes du pays d'origine ou de provenance certifiant que le bénéficiaire a rempli toutes les conditions de formation prévues par les obligations communautaires.
