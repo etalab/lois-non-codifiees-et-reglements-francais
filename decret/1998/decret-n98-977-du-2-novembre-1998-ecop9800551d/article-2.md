@@ -10,7 +10,7 @@ Conformément aux dispositions législatives et réglementaires régissant les d
 
 4° La tenue de la comptabilité de l'Etat ;
 
-5° En liaison avec la direction du Trésor, la gestion de la dette publique, l'exécution des opérations de trésorerie de l'Etat, ainsi que la réalisation d'opérations de collecte de l'épargne au profit de l'Etat et des correspondants du Trésor ;
+5° En liaison avec la direction générale du Trésor et de la politique économique, la gestion de la dette publique, l'exécution des opérations de trésorerie de l'Etat, ainsi que la réalisation d'opérations de collecte de l'épargne au profit de l'Etat et des correspondants du Trésor ;
 
 6° La gestion financière et comptable des collectivités territoriales et de leurs établissements ;
 

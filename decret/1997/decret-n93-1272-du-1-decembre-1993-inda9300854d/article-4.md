@@ -22,6 +22,6 @@ Elle veille à l'application des dispositions législatives et réglementaires r
 
 Elle assure la représentation internationale du ministère dans les domaines de l'industrie, des postes et des télécommunications.
 
-Avec la direction du Trésor, elle élabore et met en oeuvre la politique menée à l'égard de La Poste et des entreprises industrielles de sa compétence dans lesquelles l'Etat détient une participation. Elle exerce la tutelle des organismes gérés en commun par La Poste et France Télécom et des établissements publics administratifs dans le domaine des postes et télécommunications.
+Avec la direction générale du Trésor et de la politique économique , elle élabore et met en oeuvre la politique menée à l'égard de La Poste et des entreprises industrielles de sa compétence dans lesquelles l'Etat détient une participation. Elle exerce la tutelle des organismes gérés en commun par La Poste et France Télécom et des établissements publics administratifs dans le domaine des postes et télécommunications.
 
 En liaison avec la direction de l'action régionale et de la petite et moyenne industrie, elle anime l'action des directions régionales de l'industrie, de la recherche et de l'environnement, pour ses domaines de compétence.

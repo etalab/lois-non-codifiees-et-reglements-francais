@@ -20,7 +20,7 @@ Le directeur de l'Ecole française d'Extrême-Orient ;
 
 Le directeur de l'Institut d'archéologie d'Athènes ;
 
-Le directeur de l'Institut français d'archéologie du Proche-Orient ;
+Le directeur de l'Institut français du Proche-Orient ou, par délégation, le directeur scientifique des études archéologiques et de l'histoire antique ;
 
 Le directeur de l'Institut d'archéologie orientale du Caire ;
 
