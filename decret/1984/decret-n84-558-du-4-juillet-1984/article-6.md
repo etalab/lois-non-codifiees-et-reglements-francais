@@ -8,8 +8,8 @@ Douze représentants désignés par la fédération nationale des syndicats d'ex
 
 Deux représentants désignés par le centre national des jeunes agriculteurs ;
 
-Un représentant désigné par la fédération nationale des syndicats paysans ;
+Un représentant désigné par la confédération paysanne ;
 
-Un représentant désigné par le mouvement de défense des exploitations familiales ;
+Un représentant désigné par la confédération nationale des syndicats d'exploitants familiaux (Modef) ;
 
 Un représentant désigné par la confédération nationale de la mutualité, de la coopération et du crédit agricoles.
