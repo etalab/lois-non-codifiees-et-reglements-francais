@@ -6,4 +6,5 @@
 - [Titre II : Dispositions relatives à la distribution et à l'utilisation des artifices de divertissement.](titre-ii)
 - [Titre III : Dispositions diverses.](titre-iii)
 - [Titre IV : Dispositions pénales.](titre-iv)
+- [Titre V : Dispositions finales.](titre-v)
 - [Article 29](article-29.md)

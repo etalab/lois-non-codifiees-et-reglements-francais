@@ -1,27 +1,31 @@
 # Article 3
 
-Les méthodes d'essai normalisées suivantes doivent être utilisées pour déterminer les spécifications énoncées à l'article 2 :
+Les méthodes d'essais normalisées suivantes ou toute autre méthode d'essai d'un Etat membre de l'Union européenne ou toute autre méthode d'essai d'un Etat membre de l'Espace économique européen reconnue équivalente doivent être utilisées pour déterminer les caractéristiques énoncées à l'article 2 :
 
-Distillation, NF M 07 002.
+Caractéristiques, méthodes d'essai :
 
-Viscosité, NF T 60 100.
+- Distillation : NF M 070-02.
 
-Teneur en soufre, NF T 60 142.
+- Viscosité cinématique : NF EN ISO 3104.
 
-Teneur en eau, NF T 60 113.
+- Teneur en soufre : NF EN 24260.
 
-Teneur en eau et sédiments, NF M 07 020.
+- Teneur en eau : NF T 60-154.
 
-Résidu conradson, NF T 60 116.
+- Teneur en eau et sédiments : NF M 07-020.
 
-Point d'éclair, NF T 60 103.
+- Résidu du carbone Conradson : NF T 60-116, ou NF EN ISO 10370.
 
-Point d'écoulement, NF T 60 105.
+- Indice de cétane : EN ISO 5165.
 
-Indice de cétane, NF M O7 035.
+- Point d'éclair : NF T 60-103.
 
-Point de trouble, NF T 60 105.
+- Point d'écoulement : NF T 60-105.
 
-ou toute autre norme nationale d'un Etat membre de l'Union européenne ou d'un Etat membre de l'Espace économique européenne reconnue équivalente.
+- Point de trouble : NF EN 23015.
 
-En cas de modification de l'une des normes ci-dessus, l'homologation de la norme modifiée entraîne substitution des dispositions de cette dernière à celles de la norme précédente pour l'application du présent article ; l'arrêté d'homologation fixe le cas échéant des délais d'application et des dispositions transitoires.
+- Stabilité à l'oxydation : NF EN ISO 12205.
+
+Toute interprétation des résultats des mesures concernant les spécifications relève de la norme NF EN ISO 4259 (spécifications des produits pétroliers et application de fidélité relatives aux méthodes d'essai).
+
+Toute norme française homologuée conformément au décret du 26 janvier 1984 susvisé, publiée au Journal officiel de la République française, résultant d'une recommandation par le Bureau de normalisation du pétrole (BNPé) ou mettant en application une norme EN adoptée par le Comité européen de normalisation (CEN) et reconnue équivalente aux méthodes d'essai citées ci-dessus par le Bureau de normalisation du pétrole (BNPé) se substitue à ces dernières.
