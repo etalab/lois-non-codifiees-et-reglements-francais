@@ -1,0 +1,3 @@
+# Article 1
+
+Sont abrogées les dispositions du décret n° 52-867 du 18 juillet 1952 modifié portant règlement d'administration publique relatif au statut particulier du corps des contrôleurs des travaux de mécanique des postes, télégraphes et téléphones, les dispositions du décret n° 58-776 du 25 août 1958 modifié relatif au statut particulier du corps des receveurs et chefs de centre des postes et télécommunications en ce qu'elles concernent les directeurs d'établissement de tri postal, les directeurs d'établissement des télécommunications et les receveurs et chefs de centre hors série, les dispositions du décret n° 59-412 du 12 avril 1959 modifié relatif au statut particulier du corps des conducteurs de chantier vérificateurs des postes, télégraphes et téléphones.
