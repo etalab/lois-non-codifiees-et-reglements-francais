@@ -4,4 +4,4 @@ Les maires membres titulaires et suppléants des commissions paritaires prévues
 
 Selon le cas, le préfet du département ou le préfet de région, avec la collaboration des préfets des départements de la circonscription de la commission, établit la liste électorale.
 
-Les réclamations aux fins d'inscription et de radiation doivent être adressées au préfet ou au préfet de région, selon le cas, [*délai*] au plus tard le trente-cinquième jour précédant la date fixée pour le scrutin. Celui-ci doit statuer et notifier sa décision dans un délai de cinq jours.
+Les réclamations aux fins d'inscription et de radiation doivent être adressées au préfet ou au préfet de région, selon le cas, au plus tard le trente-cinquième jour précédant la date fixée pour le scrutin. Celui-ci doit statuer et notifier sa décision dans un délai de cinq jours.
