@@ -113,6 +113,7 @@
 - [Arrêté du 4 novembre 1988 (EQUV8800757A)](arrete-du-4-novembre-1988-equv8800757a)
 - [Arrêté du 4 novembre 1991 (SANH9102890A)](arrete-du-4-novembre-1991-sanh9102890a)
 - [Arrêté du 4 septembre 1992 (BUDR9205036A)](arrete-du-4-septembre-1992-budr9205036a)
+- [Arrêté du 4 septembre 1992 (INDP9200739A)](arrete-du-4-septembre-1992-indp9200739a)
 - [Arrêté du 4 mai 1992 (AGRP9200881A)](arrete-du-4-mai-1992-agrp9200881a)
 - [Arrêté du 4 mai 1992 (BUDF9200014A)](arrete-du-4-mai-1992-budf9200014a)
 - [Arrêté du 4 mai 1992 (ENVP9250122A)](arrete-du-4-mai-1992-envp9250122a)
