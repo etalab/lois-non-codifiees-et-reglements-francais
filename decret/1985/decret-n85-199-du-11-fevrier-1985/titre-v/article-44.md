@@ -1,7 +1,9 @@
 # Article 44
 
-Les comptes annuels des organismes mentionnés à l'article 7 de la loi du 22 juin 1967 susvisée sont vérifiés, sous la surveillance de la Cour des comptes, pour l'ensemble des activités de ces organismes, par les comités départementaux d'examen présidés par le trésorier-payeur général ou son représentant.
+Un comité présidé par le président de la chambre de la Cour des comptes compétente en matière de contrôle des organismes de sécurité sociale réunit un représentant du ministre chargé du budget, un représentant du ministre chargé de la sécurité sociale et un représentant du ministre chargé de la protection sociale agricole.
 
-Sous réserve des dispositions de l'article 45 ci-après, l'autorité de tutelle statue sur l'approbation des comptes des organismes de sécurité sociale après avis du comité départemental.
+Il anime et coordonne les contrôles effectués par les comités d'examen des comptes mentionnés à l'article L. 134-2 du code des juridictions financières, auxquels il apporte le soutien technique et juridique approprié.
 
-Les comités départementaux peuvent également exercer, avec l'accord de la Cour des comptes, les contrôles prévus à l'article 40 ci-dessus.
+Il arrête les orientations annuelles, ou pluriannuelles, des contrôles exercés par les comités d'examen des comptes et en suit l'exécution.
+
+Ses modalités d'organisation et de fonctionnement sont fixées par décret.

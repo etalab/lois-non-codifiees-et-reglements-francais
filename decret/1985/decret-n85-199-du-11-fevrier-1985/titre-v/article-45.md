@@ -1,11 +1,11 @@
 # Article 45
 
-La Cour des comptes procède à une seconde vérification des comptes des organismes de sécurité sociale :
+Les comptes annuels des organismes mentionnés à l'article L. 134-1 du code des juridictions financières sont vérifiés, sous la surveillance de la Cour des comptes, par les comités d'examen des comptes mentionnés à l'article L. 134-2 du code des juridictions financières.
 
-Soit d'office ou sur réquisition du procureur général, après en avoir informé le ministre de tutelle compétent ;
+Ces comités sont présidés soit par le trésorier-payeur général de région, soit par un trésorier-payeur général, dans des conditions fixées par décret.
 
-Soit à la demande du président du conseil d'administration de l'organisme intéressé ;
+Dans des conditions définies par décret, le comité d'examen des comptes désigne, parmi les personnels des services déconcentrés relevant du ministre chargé du budget, du ministre chargé de la sécurité sociale et du ministre chargé de la protection sociale agricole, des vérificateurs qui réalisent les contrôles mentionnés ci-dessus selon les modalités prévues à l'article 18 du présent décret.
 
-Soit à la demande des agents de direction dont la nomination est subordonnée à l'agrément ministériel ou de l'agent comptable, lorsque la responsabilité de ces derniers peut être mise en cause en raison des faits relevés au cours de la première vérification.
+Hormis le cas où il est fait application des dispositions de l'article 47 du présent décret, les comités d'examen des comptes émettent un avis sur les comptes et la gestion des organismes mentionnés à l'article L. 134-1 du code des juridictions financières, préalablement à l'approbation des comptes par l'autorité de tutelle.
 
-Les ministres de tutelle compétents statuent sur l'approbation des comptes qui ont été l'objet d'une deuxième vérification, au vu de l'avis motivé et des observations formulées par la Cour.
+Ces comités peuvent également exercer, avec l'accord de la Cour des comptes, les contrôles prévus à l'article 40 du présent décret.

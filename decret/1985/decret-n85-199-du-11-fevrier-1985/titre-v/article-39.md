@@ -1,5 +1,5 @@
 # Article 39
 
-La Cour des comptes exerce sur les organismes mentionnés à l'article 7 de la loi n° 67-483 du 22 juin 1967 susvisée un contrôle portant sur l'ensemble de leurs activités ainsi que les résultats obtenus.
+La Cour des comptes contrôle les comptes et la gestion des organismes mentionnés à l'article L. 134-1 du code des juridictions financières.
 
-Ce contrôle est effectué dans les conditions et avec les pouvoirs définis aux titres I et II du présent décret, sous réserve des dispositions particulières suivantes.
+Ce contrôle est effectué dans les conditions définies aux titres Ier et II du présent décret, sous réserve des dispositions particulières suivantes.
