@@ -1,3 +1,0 @@
-# Article 6
-
-L'intendant chargé de la gestion d'un centre régional et le chef des services de gestion d'un centre local des oeuvres universitaires à budget propre peuvent bénéficier d'une indemnité de gestion non soumise à retenue pour pension, non cumulable avec aucune des indemnités visées par le présent texte, dont le montant annuel est fixé par le directeur du centre national dans la limite d'un crédit calculé par application d'un taux moyen fixé par un arrêté conjoint du ministre de l'économie et des finances, du secrétaire d'Etat aux universités et du secrétaire d'Etat auprès du Premier ministre (Fonction publique), sans pouvoir excéder 150 p. 100 de ce taux moyen.

@@ -1,3 +1,0 @@
-# Article 7
-
-Le directeur d'une cité ou d'un restaurant universitaire peut bénéficier d'une indemnité de gestion non soumise à retenue pour pension fixée par le directeur du centre régional dont dépend la cité ou le restaurant dans des conditions précisées par arrêté interministériel. Lorsque les fonctionnaires susvisés sont chargés en même temps de la gestion d'une ou plusieurs cités ou restaurants, le montant maximum de l'indemnité à laquelle ils peuvent prétendre peut atteindre la somme des indemnités auxquelles ouvrent droit ces établissements sous réserve que ce montant ne dépasse pas 150 p. 100 du taux maximum de l'indemnité.
