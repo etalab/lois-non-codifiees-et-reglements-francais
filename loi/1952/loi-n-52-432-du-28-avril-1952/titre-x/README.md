@@ -7,7 +7,6 @@
 - [Article 93](article-93.md)
 - [Article 94](article-94.md)
 - [Article 94 C](article-94-c.md)
-- [Article 94 D](article-94-d.md)
 - [Article 94 A](article-94-a.md)
 - [Article 94 B](article-94-b.md)
 - [Article 94 E](article-94-e.md)
