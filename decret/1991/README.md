@@ -156,6 +156,7 @@
 - [Décret n°91-432 du 13 mai 1991 (INDA9100381D)](decret-n91-432-du-13-mai-1991-inda9100381d)
 - [Décret n°91-433 du 13 mai 1991 (PRMG9170029D)](decret-n91-433-du-13-mai-1991-prmg9170029d)
 - [Décret n°91-480 du 13 mai 1991 (INDZ9100329D)](decret-n91-480-du-13-mai-1991-indz9100329d)
+- [Décret n°88-244 du 14 mars 1988 (INTB8800067D)](decret-n88-244-du-14-mars-1988-intb8800067d)
 - [Décret n°90-1026 du 14 novembre 1990 (MCCB9000487D)](decret-n90-1026-du-14-novembre-1990-mccb9000487d)
 - [Décret n°90-1027 du 14 novembre 1990 (MCCB9000436D)](decret-n90-1027-du-14-novembre-1990-mccb9000436d)
 - [Décret n°91-273 du 14 mars 1991 (ATRC9100210D)](decret-n91-273-du-14-mars-1991-atrc9100210d)
