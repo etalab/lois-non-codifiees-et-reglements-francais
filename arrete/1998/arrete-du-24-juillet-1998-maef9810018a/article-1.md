@@ -13,3 +13,5 @@ En application de l'article 4, alinéa 2, du décret du 13 janvier 1947 susvisé
 - au Portugal, le chef du poste consulaire à Lisbonne ;
 
 - au Pakistan, le chef de la mission diplomatique, pourvue d'une circonscription consulaire, à Islamabad.
+
+- au Canada : le chef de la mission diplomatique, pourvu d'un e circonscription consulaire, et les chefs de poste consulaire à Montréal, Toronto et Vancouver, à compter du 1er mars 2003.

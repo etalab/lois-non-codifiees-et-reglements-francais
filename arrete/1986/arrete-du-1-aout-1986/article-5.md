@@ -1,5 +1,11 @@
 # Article 5
 
-Toute arme de chasse ne peut être transportée à bord d'un véhicule que démontée ou déchargée et placée sous étui.
+La commission paritaire prévue à l'article 31 du décret du 14 mars 1986 susvisé est composée comme suit :
 
-Tout arc de chasse ne peut être transporté à bord d'un véhicule que débandé ou placé sous étui.
+1° Le directeur général du Conseil supérieur de la pêche, ou son suppléant, président ;
+
+2° Le secrétaire général du Conseil supérieur de la pêche, ou son suppléant ;
+
+3° Deux représentants élus du personnel de garderie.
+
+Chaque membre titulaire est pourvu d'un suppléant, désigné dans les mêmes conditions. Le suppléant ne peut siéger qu'en l'absence du titulaire.
