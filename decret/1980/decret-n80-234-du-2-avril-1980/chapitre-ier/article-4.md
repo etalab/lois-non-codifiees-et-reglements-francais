@@ -4,6 +4,6 @@ Chaque épreuve écrite ou orale est notée de 0 à 20. Toute note inférieure �
 
 Nul ne peut être déclaré admissible s'il n'a obtenu, pour les épreuves écrites, une moyenne générale au moins égale à dix. L'admissibilité n'est valable que pour la session au cours de laquelle elle a été acquise.
 
-Pour être admis, les candidats doivent avoir obtenu un total de points au moins égal à 60 s'ils sont dispensés des interrogations orales dans les conditions prévues à l'article précédent.
+Pour être admis, les candidats doivent avoir obtenu un total de points au moins égal à 60 s'ils sont dispensés des cinq interrogations orales dans les conditions prévues à l'article précédent.
 
-Dans le cas contraire, ils doivent, en outre, pour ces interrogations orales, obtenir un nombre moyen de points au moins égal à 10.
+Dans les autres cas, ils doivent, en outre, pour ces interrogations orales, obtenir un nombre moyen de points au moins égal à 10. Les notes obtenues dans les matières ayant fait l'objet d'une dispense sont prises en compte pour le calcul de cette moyenne.
