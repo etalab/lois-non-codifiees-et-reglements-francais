@@ -30,7 +30,7 @@ c) De membres désignés par les organismes qu'ils représentent
 
 4. Un représentant du conseil départemental de la Croix-Rouge française.
 
-d) De membres nommés par le commissaire de la République
+d) De membres nommés, ainsi que leurs suppléants, par le préfet :
 
 1. Un médecin responsable de S.A.M.U. et un médecin responsable de moyens mobiles de secours et de soins d'urgence du département.
 
