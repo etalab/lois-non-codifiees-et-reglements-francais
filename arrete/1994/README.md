@@ -68,6 +68,7 @@
 - [Arrêté du 22 mars 1993 (INDB9300310A)](arrete-du-22-mars-1993-indb9300310a)
 - [Arrêté du 22 mars 1993 (INDB9300311A)](arrete-du-22-mars-1993-indb9300311a)
 - [Arrêté du 22 novembre 1993 (ENVE9320393A)](arrete-du-22-novembre-1993-enve9320393a)
+- [Arrêté du 23 décembre 1993 (EQUT9301886A)](arrete-du-23-decembre-1993-equt9301886a)
 - [Arrêté du 23 décembre 1993 (INDP9320607A)](arrete-du-23-decembre-1993-indp9320607a)
 - [Arrêté du 23 décembre 1993 (INTD9300735A)](arrete-du-23-decembre-1993-intd9300735a)
 - [Arrêté du 23 décembre 1993 (SPSA9303674A)](arrete-du-23-decembre-1993-spsa9303674a)
