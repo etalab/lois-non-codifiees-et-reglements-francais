@@ -3,5 +3,6 @@
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
 - [Sanctions applicables en cas d'infraction à la législation des ententes et des positions dominantes.](sanctions-applicables-en-cas)
+- [Contrôle de la concentration économique](controle-de-la-concentration-economique)
 - [Dispositions transitoires.](dispositions-transitoires)
 - [La commission de la concurrence.](la-commission-de-la-concurrence)
