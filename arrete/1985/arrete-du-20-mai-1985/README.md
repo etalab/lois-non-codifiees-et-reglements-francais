@@ -1,7 +1,0 @@
-# Arrêté du 20 mai 1985 fixant l'assiette des cotisations de sécurité sociale dues pour l'emploi des personnes exerçant une activité accessoire au sein d'une association sportive, de jeunesse ou d'éducation populaire.
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
