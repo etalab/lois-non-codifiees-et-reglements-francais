@@ -1,0 +1,5 @@
+# Article 6
+
+Pour les professeurs stagiaires qui n'ont pas été admis, le président du jury désigne une formation restreinte, composée au moins d'un inspecteur et d'un membre du jury, représentant du corps, compétents dans la ou les disciplines concernées de la section de recrutement. Devant cette formation restreinte, les professeurs stagiaires sont soumis à une épreuve qui consiste en une séance d'enseignement en rapport avec la section de recrutement de deux heures maximum devant des élèves, ou des apprentis, ou des stagiaires de la formation professionnelle continue, suivie d'un entretien dont la durée ne saurait dépasser une heure portant sur la séquence d'enseignement dispensée et plus largement sur les thèmes pédagogiques que le stagiaire a pu développer dans le cadre des stages effectués et des actions de formation qu'il aura pu suivre.
+
+A l'issue d'une nouvelle délibération et après avoir pris connaissance des avis complémentaires de la formation restreinte, le jury propose l'admission, l'ajournement ou le refus définitif des stagiaires.
