@@ -25,6 +25,7 @@
 - [Décret n°2002-39 du 9 janvier 2002 (MESP0123909D)](decret-n2002-39-du-9-janvier-2002-mesp0123909d)
 - [Décret n°2002-994 du 11 juillet 2002 (DEFD0201703D)](decret-n2002-994-du-11-juillet-2002-defd0201703d)
 - [Décret n°90-601 du 11 juillet 1990 (MCCB9000404D)](decret-n90-601-du-11-juillet-1990-mccb9000404d)
+- [Décret n° 70-738 du 12 août 1970](decret-n-70-738-du-12-aout-1970)
 - [Décret n°2002-1342 du 12 novembre 2002 (SOCA0223374D)](decret-n2002-1342-du-12-novembre-2002-soca0223374d)
 - [Décret n°2002-348 du 13 mars 2002 (FPPA0210003D)](decret-n2002-348-du-13-mars-2002-fppa0210003d)
 - [Décret n°79-979 du 13 novembre 1979](decret-n79-979-du-13-novembre-1979)
