@@ -1,9 +1,0 @@
-# Article 3
-
-Lorsqu'il désire bénéficier des dispositions de l'arrêté du 10 mars 1986 modifié relatif à la certification C.E.E. ou C.E. des appareils à pression pour des récipients à pression simples, en vue de leur certification C.E. sous le contrôle de la direction régionale de l'industrie et de la recherche, le constructeur ou son mandataire établi dans la communauté doit introduire une demande auprès du directeur régional de l'industrie et de la recherche compétent, conformément audit arrêté.
-
-§ 1. Cette demande vise, préalablement à la construction des récipients, soit l'obtention d'une attestation d'adéquation C.E. de dossier, soit l'obtention d'une attestation d'examen C.E. de type. Dans le cas où la construction des récipients à pression simples ne respecte pas ou ne respecte qu'en partie les normes visées à l'annexe du présent arrêté, il s'agit obligatoirement d'un examen C.E. de type.
-
-§ 2. Lorsqu'il désire bénéficier des dispositions de l'arrêté du 10 mars 1986 modifié relatif à la certification C.E.E. ou C.E. des appareils à pression pour des récipients à pression simples produits en série, avant leur mise sur le marché, le constructeur ou son mandataire établi dans la communauté doit introduire une demande auprès du directeur régional de l'industrie et de la recherche qui a délivré l'attestation d'adéquation C.E. de dossier ou l'attestation d'examen C.E. de type, conformément audit arrêté.
-
-Cette demande vise soit l'exécution de la vérification C.E., soit le recours à la déclaration de conformité C.E. Dans le cas où le produit PS.V pour les récipients à pression simples en cause est supérieur à 200 bar.litre, le fabricant qui envisage d'effectuer la déclaration de conformité C.E. est soumis à la surveillance C.E. par la direction régionale de l'industrie et de la recherche. Dans le cas où le produit PS.V est supérieur à 3 000 bar.litre, seule la procédure de vérification C.E. peut être retenue.

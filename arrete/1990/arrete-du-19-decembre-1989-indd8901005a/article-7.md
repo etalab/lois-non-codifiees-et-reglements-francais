@@ -1,3 +1,0 @@
-# Article 7
-
-Dans les deux cas prévus aux articles 5 et 6 ci-dessus, le constructeur tient à la disposition du directeur régional de l'industrie et de la recherche tous les procès-verbaux d'essais et de contrôle ainsi que tous autres documents que celui-ci juge nécessaires. Le directeur régional de l'industrie et de la recherche peut, à tout moment, s'assurer du respect des prescriptions de la directive n° 87-404 C.E.E. susvisée et, en cas de doute, exécuter ou faire exécuter aux frais du constructeur tous contrôles ou essais qui lui paraîtraient nécessaires. En cas d'anomalie constatée, il agit comme prévu à l'article 3 (§ 2) de l'arrêté du 10 mars 1986 modifié susvisé.
