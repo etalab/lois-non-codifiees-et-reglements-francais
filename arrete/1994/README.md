@@ -727,7 +727,6 @@
 - [Arrêté du 19 octobre 1994 (COPC9400103A)](arrete-du-19-octobre-1994-copc9400103a)
 - [Arrêté du 19 octobre 1994 (INTC9400413A)](arrete-du-19-octobre-1994-intc9400413a)
 - [Arrêté du 19 octobre 1994 (INTC9400414A)](arrete-du-19-octobre-1994-intc9400414a)
-- [Arrêté du 19 octobre 1994 (PRMX9400398A)](arrete-du-19-octobre-1994-prmx9400398a)
 - [Arrêté du 19 octobre 1994 (RESK9401512A)](arrete-du-19-octobre-1994-resk9401512a)
 - [Arrêté du 19 octobre 1994 (SPSH9402083A)](arrete-du-19-octobre-1994-spsh9402083a)
 - [Arrêté du 19 octobre 1994 (SPSS9403279A)](arrete-du-19-octobre-1994-spss9403279a)
