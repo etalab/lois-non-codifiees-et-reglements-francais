@@ -17,6 +17,7 @@ de la circonscription](classement-des-differentes-parties-de-la-circonscription)
 - [Dépenses obligatoires](depenses-obligatoires)
 - [Désignation des premiers membres](designation-des-premiers-membres)
 - [Emprunts](emprunts)
+- [Engagements de dépenses](engagements-de-depenses)
 - [Formes des budgets et comptes](formes-des-budgets-et)
 - [Occupation temporaire du domaine public
 et police de la pêche](occupation-temporaire-du-domaine-public-et)
