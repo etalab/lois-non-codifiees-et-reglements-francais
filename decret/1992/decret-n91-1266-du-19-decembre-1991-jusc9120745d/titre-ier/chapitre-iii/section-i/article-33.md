@@ -11,3 +11,5 @@ Elle contient les indications suivantes :
 3° Le cas échéant, la juridiction saisie ou celle qui doit être saisie de l'affaire ou, s'il s'agit d'un acte conservatoire ou d'un acte d'exécution, le lieu où ils doivent être effectués ;
 
 4° Le cas échéant, les nom et adresse de l'avocat et des officiers publics ou ministériels choisis.
+
+Tout changement de domicile qui survient postérieurement à la demande d'aide doit être déclaré sans délai au bureau d'aide juridictionnelle initialement saisi.
