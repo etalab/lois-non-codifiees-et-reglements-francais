@@ -1,0 +1,3 @@
+# Article 21
+
+Les élèves qui, à l'issue des épreuves de rattrapage, n'ont pas validé l'ensemble des modules ou parties de modules au cours de la première année du deuxième cycle mais ont obtenu une moyenne générale égale ou supérieure à 10 sur 20 à l'ensemble de ceux-ci sont admis en deuxième année du deuxième cycle. Pour le calcul de cette moyenne générale la ou les notes obtenues aux épreuves de rattrapage se substituent à la ou aux notes initiales des modules ou parties de ceux-ci. Ils valident toutefois les modules où ils n'ont pas obtenu la moyenne requise avant de se présenter au diplôme d'Etat. Les élèves qui ne satisfont pas à cette condition de moyenne générale de 10 sur 20 redoublent la première année du deuxième cycle.
