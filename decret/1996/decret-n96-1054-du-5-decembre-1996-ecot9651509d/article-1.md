@@ -253,3 +253,21 @@ Défense.
 Economie.
 
 Industrie.
+
+Crédit d'équipement des petites et moyennes entreprises (CEPME)
+
+1
+
+Economie.
+
+Société française de garantie des financements des petites et moyennes entreprises (SOFARIS)
+
+5
+
+Economie (x 2).
+
+Industrie.
+
+Petites et moyennes entreprises.
+
+Recherche.
