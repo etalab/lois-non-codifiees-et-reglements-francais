@@ -1,0 +1,3 @@
+# Article 8
+
+L'introduction en France des produits suivants destinés à des usages techniques autres que la fabrication de produits cosmétiques, médicaux ou pharmaceutiques et obtenus à partir de matières premières provenant de bovins abattus au Royaume-Uni : gélatine, phosphate dicalcique, collagène, suif, produits de suif et produits dérivés du suif par saponification, transestérification ou hydrolyse, est autorisée sous réserve qu'ils soient étiquetés ou autrement identifiés de manière à indiquer l'établissement de production et à préciser qu'ils ne conviennent ni à l'alimentation humaine, ni à l'alimentation animale, ni à la fabrication de produits cosmétiques, médicaux ou pharmaceutiques.
