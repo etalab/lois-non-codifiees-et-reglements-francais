@@ -4,4 +4,4 @@ Les ménages ou personnes qui satisfont aux conditions définies à l'article 30
 
 Ce plafond est égal au 1er janvier 1978 à 25.500 F [*montant*]. Il varie au 1er juillet de chaque année par utilisation du coefficient de revalorisation des pensions institué par l'article L. 313 du code de la sécurité sociale, calculé selon les dispositions réglementaires prises pour l'application dudit article.
 
-Il est majoré de 25 p. 100 par enfant à charge à partir du premier enfant.
+Il est majoré de 25 p. 100 par enfant à charge à partir du premier enfant et de 30 p. 100 à partir du troisième enfant à charge.
