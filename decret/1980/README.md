@@ -196,7 +196,6 @@
 - [Décret n°80-305 du 30 avril 1980](decret-n80-305-du-30-avril-1980)
 - [Décret n°80-598 du 30 juillet 1980](decret-n80-598-du-30-juillet-1980)
 - [Décret n°80-599 du 30 juillet 1980](decret-n80-599-du-30-juillet-1980)
-- [Décret n°80-600 du 30 juillet 1980](decret-n80-600-du-30-juillet-1980)
 - [Décret n°80-608 du 30 juillet 1980](decret-n80-608-du-30-juillet-1980)
 - [Décret n°80-854 du 30 octobre 1980](decret-n80-854-du-30-octobre-1980)
 - [Décret n°80-871 du 30 octobre 1980](decret-n80-871-du-30-octobre-1980)
