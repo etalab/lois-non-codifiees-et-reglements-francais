@@ -121,6 +121,8 @@
 - [Décret n°88-274 du 18 mars 1988 (EQUC8800061D)](decret-n88-274-du-18-mars-1988-equc8800061d)
 - [Décret n°88-362 du 18 avril 1988 (MCCT8800227D)](decret-n88-362-du-18-avril-1988-mcct8800227d)
 - [Décret n°88-366 du 18 avril 1988 (INTB8800106D)](decret-n88-366-du-18-avril-1988-intb8800106d)
+- [Décret n°88-372 du 18 avril 1988 (ECOP8700376D)](decret-n88-372-du-18-avril-1988-ecop8700376d)
+- [Décret n°88-376 du 18 avril 1988 (MENF8800239D)](decret-n88-376-du-18-avril-1988-menf8800239d)
 - [Décret n°88-59 du 18 janvier 1988 (ASEP8701793D)](decret-n88-59-du-18-janvier-1988-asep8701793d)
 - [Décret n°88-61 du 18 janvier 1988 (ASES8701861D)](decret-n88-61-du-18-janvier-1988-ases8701861d)
 - [Décret du 19 février 1988 (AGRR8800273D)](decret-du-19-fevrier-1988-agrr8800273d)

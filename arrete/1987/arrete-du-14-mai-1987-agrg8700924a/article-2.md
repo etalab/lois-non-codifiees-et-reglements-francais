@@ -16,10 +16,10 @@ b) Tout bovin, quel que soit son âge, introduit dans le cheptel provient direct
 
 - soit d'un cheptel reconnu officiellement indemne de leucose bovine enzootique ;
 
-- soit d'un cheptel présumé indemne de leucose bovine enzootique au sens de l'application définie à l'article 3 ci-dessous,
+- soit d'un cheptel présumé indemne de leucose bovine enzootique au sens de l'appellation définie à l'article 3 ci-dessous,
 
 et présente un résultat négatif à une épreuve sérologique (I.D.G. ou E.L.I.S.A.) de recherche de la leucose bovine enzootique pratiquée dans les trente jours précédant l'introduction.
 
 Une attestation de provenance est fournie par le directeur des services vétérinaires du département d'origine.
 
-Dans le cas d'un cheptel reconnu officiellement indemne de leucose bovine enzootique depuis plus de deux années, lorsqu'un seul animal présente un résultat positif à l'occasion d'un contrôle sérologique et que cet animal est marqué et éliminé dans le délai de quinze jours après modification du diagnostic, la qualification officiellement indemne de leucose bovine enzootique du cheptel peut être retrouvée après un contrôle sérologique entièrement favorable pratiqué sur l'ensemble des bovins âgés de plus d'un an présents dans le cheptel. Ce contrôle sérologique doit être effectué trois mois au moins après l'élimination de l'animal qui a présenté un résultat sérologique positif.
+Dans le cas d'un cheptel reconnu officiellement indemne de leucose bovine enzootique depuis plus de deux années, lorsqu'un seul animal présente un résultat positif à l'occasion d'un contrôle sérologique et que cet animal est marqué et éliminé dans le délai de quinze jours après notification du diagnostic, la qualification officiellement indemne de leucose bovine enzootique du cheptel peut être retrouvée après un contrôle sérologique entièrement favorable pratiqué sur l'ensemble des bovins âgés de plus d'un an présents dans le cheptel. Ce contrôle sérologique doit être effectué trois mois au moins après l'élimination de l'animal qui a présenté un résultat sérologique positif.
