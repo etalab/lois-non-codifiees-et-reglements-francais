@@ -48,6 +48,7 @@
 - [Arrêté du 11 juillet 1986](arrete-du-11-juillet-1986)
 - [Arrêté du 11 juin 1986](arrete-du-11-juin-1986)
 - [Arrêté du 11 mars 1986](arrete-du-11-mars-1986)
+- [Arrêté du 12 août 1986](arrete-du-12-aout-1986)
 - [Arrêté du 12 décembre 1985](arrete-du-12-decembre-1985)
 - [Arrêté du 12 février 1986](arrete-du-12-fevrier-1986)
 - [Arrêté du 12 janvier 1986](arrete-du-12-janvier-1986)
