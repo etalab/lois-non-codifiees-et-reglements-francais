@@ -689,7 +689,6 @@
 - [Arrêté du 29 juillet 1999 (ECOI9900387A)](arrete-du-29-juillet-1999-ecoi9900387a)
 - [Arrêté du 29 juin 1999 (MESH9921992A)](arrete-du-29-juin-1999-mesh9921992a)
 - [Arrêté du 29 juin 1999 (MESS9922037A)](arrete-du-29-juin-1999-mess9922037a)
-- [Arrêté du 29 mars 1999 (ECOF9920901A)](arrete-du-29-mars-1999-ecof9920901a)
 - [Arrêté du 29 mars 1999 (EQUA9900663A)](arrete-du-29-mars-1999-equa9900663a)
 - [Arrêté du 29 mars 1999 (MAEA9920103A)](arrete-du-29-mars-1999-maea9920103a)
 - [Arrêté du 29 mars 1999 (MESP9921440A)](arrete-du-29-mars-1999-mesp9921440a)
