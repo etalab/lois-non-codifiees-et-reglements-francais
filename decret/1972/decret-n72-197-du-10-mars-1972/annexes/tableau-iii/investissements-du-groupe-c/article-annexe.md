@@ -313,6 +313,27 @@ Taux de subvention de l'Etat : 30 à 80 p. 100
 <tr>
 <td> :------------------------------------------------------------------:</td>
 </tr>
+<tr>
+<td> : Etablissements de formation                :                     :</td>
+</tr>
+<tr>
+<td> : professionnelle                            :        1500         :</td>
+</tr>
+<tr>
+<td> : Etablissements de rééducation              :                     :</td>
+</tr>
+<tr>
+<td> : professionnelle                            :        1500         :</td>
+</tr>
+<tr>
+<td> : Ateliers protégés et centres de            :                     :</td>
+</tr>
+<tr>
+<td> : distribution de travail à domicile         :    4131 et 4139     :</td>
+</tr>
+<tr>
+<td> :------------------------------------------------------------------:</td>
+</tr>
 </table>
 
 (1) Numéro de code de la nomenclature des investissements pris en compte pour la régionalisation du VIe Plan.
