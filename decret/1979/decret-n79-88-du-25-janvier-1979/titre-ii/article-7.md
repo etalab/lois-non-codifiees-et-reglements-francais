@@ -1,10 +1,10 @@
 # Article 7
 
-A l'issue des épreuves, des listes d'admission, par branches distinctes pour chaque concours, sont arrêtées par le directeur général des douanes et droits indirects.
+A l'issue des épreuves, des listes d'admission, par branches distinctes pour chaque concours et par spécialité, sont arrêtées par le directeur général des douanes et droits indirects.
 
-Les emplois mis en compétition à un concours, qui ne sont pas pourvus par la nomination de candidats au titre de ce concours, peuvent être attribués aux candidats de l'autre concours.
+Les emplois mis en compétition à un concours, qui ne sont pas pourvus par la nomination de candidats au titre de ce concours, peuvent être attribués aux candidats des autres concours.
 
-Pour remplacer les candidats qui renonceraient au bénéfice de leur admission ou seraient éliminés pour inaptitude physique, des listes complémentaires d'admission par branche peuvent être établies dans la limite du tiers du nombre des candidats figurant sur les listes principales. Ces listes complémentaires cessent d'être valables à l'expiration d'un délai de six mois à compter de la date de leur publication.
+Pour remplacer les candidats qui renonceraient au bénéfice de leur admission ou seraient éliminés pour inaptitude physique, des listes complémentaires d'admission par branche et par spécialité peuvent être établies.
 
 Le directeur général des douanes et droits indirects fixe la date d'installation des candidats admis.
 
