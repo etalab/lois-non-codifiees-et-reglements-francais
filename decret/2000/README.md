@@ -1,6 +1,5 @@
 # 2000
 
-- [Décret n°2000-1166 du 1 décembre 2000 (AGRX0004526D)](decret-n2000-1166-du-1-decembre-2000-agrx0004526d)
 - [Décret n°2000-1167 du 1 décembre 2000 (PRMX0004525D)](decret-n2000-1167-du-1-decembre-2000-prmx0004525d)
 - [Décret n°2000-1170 du 1 décembre 2000 (DEFP0002056D)](decret-n2000-1170-du-1-decembre-2000-defp0002056d)
 - [Décret n°2000-1173 du 1 décembre 2000 (ECOU0000006D)](decret-n2000-1173-du-1-decembre-2000-ecou0000006d)
