@@ -1,6 +1,6 @@
 # Article Annexe
 
-A N N E X E
+ANNEXE
 
 <div>
 <table>
@@ -255,33 +255,6 @@ A N N E X E
 </td>
 <td align="center"/>
 <td align="center"/>
-</tr>
-<tr>
-<td/>
-<td> Guadeloupe<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">5<br/>
-</td>
-</tr>
-<tr>
-<td/>
-<td> Guyane<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">5<br/>
-</td>
-</tr>
-<tr>
-<td/>
-<td> Martinique<br/>
-</td>
-<td align="center">3<br/>
-</td>
-<td align="center">5<br/>
-</td>
 </tr>
 <tr>
 <td/>
