@@ -1,4 +1,4 @@
-# Chapitre Ier : Officiers de réserve servant en situation d'activité.
+# Chapitre Ier : Officiers sous contrat.
 
 - [Article 82](article-82.md)
 - [Article 83](article-83.md)

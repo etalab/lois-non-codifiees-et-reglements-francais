@@ -6,7 +6,7 @@ Soit par la voie des écoles militaires d'élèves officiers, qui recrutent par 
 
 Soit par concours, par examens ou sur titres parmi les militaires ou, à titre exceptionnel, parmi d'autres catégories de candidats énumérées dans les statuts particuliers ;
 
-Soit au choix, parmi les officiers de réserve et les sous-officiers qui en font la demande ou pour action d'éclat dûment constatée.
+Soit au choix, parmi les officiers sous contrat les sous-officiers qui en font la demande ou pour action d'éclat dûment constatée.
 
 Les statuts particuliers déterminent notamment :
 
