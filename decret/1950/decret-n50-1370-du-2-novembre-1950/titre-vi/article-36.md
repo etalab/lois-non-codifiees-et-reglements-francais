@@ -1,0 +1,3 @@
+# Article 36
+
+Le personnel de l'école centrale des arts et manufactures en fonctions au 1er janvier 1950 sera intégré dans les cadres objet du présent statut, conformément aux dispositions d'un arrêté concerté des ministres des finances et des affaires économiques et des ministres chargés de la fonction publique et de l'enseignement technique. L'intégration du directeur sera prononcée par décret. L'intégration du personnel aux divers échelons aura lieu, compte tenu notamment du temps de service déjà accompli à l'école centrale. Le personnel en fonctions à l'exception du personnel enseignant ne sera intégré qu'en qualité de stagiaire et ne sera, s'il y a lieu, titularisé qu'après l'expiration du délai de deux ans ci-dessus prévu.

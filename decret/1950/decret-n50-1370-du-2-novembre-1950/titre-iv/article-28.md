@@ -1,0 +1,5 @@
+# Article 28
+
+La durée moyenne du temps passé dans chaque échelon par le chef mécanicien et le chef électricien de laboratoire et les aides de laboratoire spécialisés pour accéder à l'échelon supérieur est fixée à trois ans dans les deux premiers échelons et à quatre ans dans chacun des échelons suivants. Cette durée peut être réduite pour les fonctionnaires les mieux notés, dans les conditions prévues à l'article 48 de la loi du 19 octobre 1946, sans toutefois pouvoir être inférieure respectivement à deux ans et à trois ans.
+
+La durée moyenne du temps passé dans chaque échelon par les ouvriers de première et de deuxième catégories pour accéder à l'échelon supérieur est fixée à deux ans pour les deux premiers échelons et à trois ans dans les échelons suivants. Cette durée peut être réduite, pour les fonctionnaires les mieux notés, dans les conditions prévues à l'article 48 de la loi du 19 octobre 1946, sans toutefois pouvoir être inférieure respectivement à dix-huit mois et à deux ans.
