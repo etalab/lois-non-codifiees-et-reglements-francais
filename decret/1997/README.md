@@ -500,6 +500,8 @@
 - [Décret n°97-407 du 24 avril 1997 (TAST9710111D)](decret-n97-407-du-24-avril-1997-tast9710111d)
 - [Décret n°97-440 du 24 avril 1997 (DEFP9701229D)](decret-n97-440-du-24-avril-1997-defp9701229d)
 - [Décret n°97-770 du 24 juillet 1997 (MAEJ9730070D)](decret-n97-770-du-24-juillet-1997-maej9730070d)
+- [Décret n°97-874 du 24 septembre 1997 (JUSB9710306D)](decret-n97-874-du-24-septembre-1997-jusb9710306d)
+- [Décret n°97-875 du 24 septembre 1997 (JUSC9720598D)](decret-n97-875-du-24-septembre-1997-jusc9720598d)
 - [Décret n°97-167 du 25 février 1997 (MENU9700305D)](decret-n97-167-du-25-fevrier-1997-menu9700305d)
 - [Décret n°97-168 du 25 février 1997 (MAEJ9730006D)](decret-n97-168-du-25-fevrier-1997-maej9730006d)
 - [Décret n°97-169 du 25 février 1997 (TASO9710103D)](decret-n97-169-du-25-fevrier-1997-taso9710103d)

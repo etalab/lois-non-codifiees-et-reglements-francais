@@ -1,0 +1,3 @@
+# Article 8
+
+Les avocats, avoués, notaires, huissiers de justice et greffiers de tribunaux de commerce intégrés dans la magistrature sur le fondement de l'article 30 de l'ordonnance du 22 décembre 1958 susvisée qui, à la date de publication du présent décret, n'ont pas présenté une demande dans les conditions fixées à l'article 2 du décret du 5 octobre 1983 susvisé peuvent, dans le délai d'un an à compter de cette date de publication, demander le bénéfice des dispositions du présent décret. Toutefois, par dérogation au deuxième alinéa de l'article 3 du présent décret, la contribution de rachat est calculée sur la valeur nominale du traitement indiciaire afférent à leur grade et échelon à la date de promulgation de la loi organique du 25 février 1992 susmentionnée.

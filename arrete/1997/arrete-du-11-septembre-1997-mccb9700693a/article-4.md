@@ -1,0 +1,3 @@
+# Article 4
+
+Une évaluation du stage de formation suivi par l'agent est établie par le ou les experts mentionnés à l'article précédent en fonction des appréciations fournies par les personnes responsables de cette formation. Cette évaluation est transmise par le ou les experts précités au président de la commission administrative paritaire compétente à l'égard des techniciens des services culturels et des Bâtiments de France ainsi qu'à l'agent concerné. Ce dernier peut transmettre ses observations sur cette évaluation au président de la commission administrative compétente à l'égard de son corps.

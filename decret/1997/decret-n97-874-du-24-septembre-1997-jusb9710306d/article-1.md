@@ -1,0 +1,3 @@
+# Article 1
+
+Les avocats au Conseil d'Etat et à la Cour de cassation et les avocats inscrits à un barreau français intégrés dans la magistrature au titre de l'article 40 de l'ordonnance du 22 décembre 1958 susvisée, et les personnes intégrées dans la magistrature au titre des articles 22, 23 et 24 du même texte, peuvent, en application du quatrième alinéa de l'article 40 et de l'article 25-4 dudit texte et par dérogation aux dispositions de l'article L. 5 du code des pensions civiles et militaires de retraite, faire prendre en compte pour leur pension, dans les conditions précisées ci-après, les années d'activité professionnelle accomplies par eux avant leur nomination en qualité de magistrat.
