@@ -14,6 +14,7 @@
 - [Décret n°76-494 du 3 juin 1976](decret-n76-494-du-3-juin-1976)
 - [Décret n° 77-33 du 4 janvier 1977](decret-n-77-33-du-4-janvier-1977)
 - [Décret n°76-1004 du 4 novembre 1976](decret-n76-1004-du-4-novembre-1976)
+- [Décret n°76-225 du 4 mars 1976](decret-n76-225-du-4-mars-1976)
 - [Décret n°77-32 du 4 janvier 1977](decret-n77-32-du-4-janvier-1977)
 - [Décret n°76-306 du 5 avril 1976](decret-n76-306-du-5-avril-1976)
 - [Décret n°76-131 du 6 février 1976](decret-n76-131-du-6-fevrier-1976)

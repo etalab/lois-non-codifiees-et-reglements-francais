@@ -1,0 +1,3 @@
+# Article 1
+
+Le présent arrêté est applicable à la construction, à la vérification et à l'utilisation des calculateurs électroniques intégrés dans les ensembles de correction de volume de gaz de type 2 définis par l'arrêté du 5 août 1987 susvisé [*champ d'application*].    Ces instruments calculent et indiquent une au moins des grandeurs principales résultantes définies à l'article 1er de l'arrêté du 5 août 1987 susvisé, à partir des grandeurs analogiques ou numériques représentatives du volume dans les conditions de mesurage et des grandeurs caractéristiques du gaz, élaborées par le compteur de volume de gaz et les transducteurs associés à ces calculateurs.

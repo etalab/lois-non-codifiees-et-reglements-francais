@@ -1,3 +1,5 @@
 # Article 3
 
-Le directeur de la sécurité sociale au ministère des affaires sociales et de la solidarité nationale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les professionnels agréés depuis trois ans ou plus lors de la parution de cet arrêté gardent cet avantage.
+
+Les professionnels ne répondant pas à la condition de l'alinéa précédent disposent de cinq ans pour se mettre en conformité avec la nouvelle réglementation.
