@@ -1,4 +1,4 @@
-# Arrêté du 5 septembre 1986 relatif à l'aide à la musique d'oeuvres cinématographiques
+# Arrêté du 5 septembre 1986 portant création d'un traitement automatisé d'informations nominatives relatives à la gestion des greffes des tribunaux administratifs
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,7 @@
 # Article 1
 
-Dans le cadre des marchés sur appel d'offres, il est créé, au secrétariat d'Etat aux anciens combattants, une commission d'ouverture des plis.
+Est approuvé le cahier des clauses comptables dont le texte est annexé au présent arrêté (1).
+
+Ce cahier des clauses comptables se substitue, à compter de la date de publication du présent arrêté, à celui approuvé par l'arrêté du 14 décembre 1977.
+
+(1) Le cahier des clauses comptables annexé au présent arrêté fera l'objet d'une publication au Journal officiel (édition des Documents administratifs) de ce jour.

@@ -1,9 +1,3 @@
 # Article 2
 
-Cette commission comprend, outre le représentant du directeur général de la concurrence, de la consommation et de la répression des fraudes [*composition*] :
-
-La personne responsable des marchés ou son représentant, président.
-
-Deux représentants du service contractant.
-
-Deux personnes choisies en raison de leur compétence.
+Dans les cas prévus à son paragraphe 0.020, le cahier visé à l'article 1er ci-dessus est obligatoirement appliqué par les administrations et les établissements publics ainsi que les entreprises nationales et les sociétés d'économie mixte visées par l'article 164 (I, a) de l'ordonnance n° 58-1374 du 30 décembre 1958. Il doit y être obligatoirement fait référence dans les pièces contractuelles de tout marché ou commande.

@@ -1,3 +1,9 @@
 # Article 4
 
-Le directeur général du Centre national de la cinématographie est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Peuvent seuls être destinataires de ces informations :
+
+- les membres du corps des tribunaux administratifs ;
+
+- les fonctionnaires du greffe ;
+
+- pour chaque dossier, les parties concernées par ces informations.

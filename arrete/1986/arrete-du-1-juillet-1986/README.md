@@ -1,4 +1,4 @@
-# Arrêté du 1 juillet 1986 portant création, composition et fonctionnement d'une commission d'ouverture des plis, dans le cadre des marchés sur appel d'offres, au secrétariat d'Etat aux anciens combattants
+# Arrêté du 1 juillet 1986 portant approbation du cahier des clauses comptables applicables à la détermination des coûts de revient des prestations des sociétés d'ingénierie, des bureaux d'études, des ingénieurs-conseils et des sociétés de conseils
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
