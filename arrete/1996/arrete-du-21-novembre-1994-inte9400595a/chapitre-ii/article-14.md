@@ -4,7 +4,7 @@ Les épreuves pratiques, affectées chacune du coefficient 2, comprennent :
 
 1° Une épreuve d'aptitude au commandement portant sur une manoeuvre de secours routier (temps de préparation : néant ; durée de l'épreuve : 15 minutes).
 
-Le candidat commande, en présence du jury, six équipiers,
+Le candidat commande, en présence du jury, six équipiers au maximum,
 
 2° Une épreuve d'aptitude à l'animation d'une séance d'instruction ; à cet effet, le candidat tire au sort un sujet parmi les techniques suivantes :
 
