@@ -214,7 +214,6 @@
 - [Arrêté du 7 mai 1993 (ECOS9350014A)](arrete-du-7-mai-1993-ecos9350014a)
 - [Arrêté du 7 mai 1993 (ECOT9394193A)](arrete-du-7-mai-1993-ecot9394193a)
 - [Arrêté du 7 mai 1993 (EQUT9300362A)](arrete-du-7-mai-1993-equt9300362a)
-- [Arrêté du 7 mai 1993 (INDP9320210A)](arrete-du-7-mai-1993-indp9320210a)
 - [Arrêté du 7 mai 1993 (LOGC9300041A)](arrete-du-7-mai-1993-logc9300041a)
 - [Arrêté du 8 décembre 1993 (EQUP9301721A)](arrete-du-8-decembre-1993-equp9301721a)
 - [Arrêté du 8 décembre 1993 (SPSC9303506A)](arrete-du-8-decembre-1993-spsc9303506a)

@@ -706,7 +706,6 @@
 - [Arrêté du 19 janvier 1994 (SANH9400233A)](arrete-du-19-janvier-1994-sanh9400233a)
 - [Arrêté du 19 juillet 1994 (DEFL9401941A)](arrete-du-19-juillet-1994-defl9401941a)
 - [Arrêté du 19 juillet 1994 (ECOT9410214A)](arrete-du-19-juillet-1994-ecot9410214a)
-- [Arrêté du 19 juillet 1994 (INDP9400810A)](arrete-du-19-juillet-1994-indp9400810a)
 - [Arrêté du 19 juillet 1994 (INDP9400811A)](arrete-du-19-juillet-1994-indp9400811a)
 - [Arrêté du 19 juillet 1994 (PARX9400318A)](arrete-du-19-juillet-1994-parx9400318a)
 - [Arrêté du 19 juillet 1994 (SPSS9401756A)](arrete-du-19-juillet-1994-spss9401756a)
