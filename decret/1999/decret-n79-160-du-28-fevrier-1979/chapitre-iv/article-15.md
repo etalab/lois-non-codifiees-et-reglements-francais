@@ -1,0 +1,3 @@
+# Article 15
+
+Les résultats du recensement des votes sont constatés par un procès-verbal établi en double exemplaire et signé de tous les membres de la commission locale. Le premier exemplaire est transmis sans délai sous pli chargé, en franchise, au président de la commission nationale de recensement général des votes ; y sont joints avec leurs annexes les procès-verbaux des opérations de vote dans les communes ; ces procès-verbaux portent mention des réclamations présentées par des électeurs. Le deuxième exemplaire est déposé aux archives départementales après le délai de dix jours prescrit à l'article L. 68 du code électoral.
