@@ -27,6 +27,7 @@
 - [Décret n°85-408 du 4 avril 1985](decret-n85-408-du-4-avril-1985)
 - [Décret n°85-416 du 4 avril 1985](decret-n85-416-du-4-avril-1985)
 - [Décret n°85-570 du 4 juin 1985](decret-n85-570-du-4-juin-1985)
+- [Décret n°85-682 du 4 juillet 1985](decret-n85-682-du-4-juillet-1985)
 - [Décret n°85-300 du 5 mars 1985](decret-n85-300-du-5-mars-1985)
 - [Décret n°85-301 du 5 mars 1985](decret-n85-301-du-5-mars-1985)
 - [Décret n°85-302 du 5 mars 1985](decret-n85-302-du-5-mars-1985)
