@@ -1,0 +1,3 @@
+# Article 20
+
+Par dérogation à l'article 5 (3°), le ministre chargé de la recherche et le ministre chargé de la coopération et du développement désignent cinq personnes parmi les personnels de l'Institut d'élevage et de médecine vétérinaire et des organismes mentionnés dans l'annexe au présent décret, après consultation des organisations syndicales représentatives de ces personnels, pour constituer le premier conseil d'administration du centre, jusqu'à la date à laquel1e les élections des représentants du personnel du centre devront intervenir, conformément à la loi du 26 juillet 1983 susvisée.
