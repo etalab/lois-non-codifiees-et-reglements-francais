@@ -24,6 +24,8 @@ Conventions avec des personnes morales publiques ou privées ;
 
 Mise en jeu de la responsabilité pécuniaire des agents habilités à manier des dattiers ou des matières ;
 
-Remises gracieuses et admissions en non-valeur.
+Remises gracieuses et admissions en non-valeur ;
+
+Transactions.
 
 L'administrateur peut soumettre toute autre question au conseil de gestion pour délibération ou avis.
