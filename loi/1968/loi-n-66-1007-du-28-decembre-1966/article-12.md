@@ -1,0 +1,3 @@
+# Article 12
+
+La présente loi s'appliquera le premier jour du semestre civil suivant la date d'entrée en vigueur de la loi sur le règlement judiciaire, la liquidation des biens, la faillite personnelle et les banqueroutes et s'appliquera également aux créances fiscales nées antérieurement à cette date. Toutefois, en ce qui concerne la contribution des patentes et les contributions indirectes, un décret pris sur le rapport du ministre de l'économie et des finances et du garde des sceaux, ministre de la justice, fixera la date d'entrée en vigueur   de la présente loi qui ne pourra être postérieure à plus de deux ans à la date ci-dessus.

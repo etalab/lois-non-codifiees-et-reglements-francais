@@ -1,0 +1,3 @@
+# Article 1
+
+Donnent lieu à publicité, dans les conditions prévues aux articles 2 à 5, les sommes restant dues à titre privilégié par des commerçants et personnes morales de droit privé, même non commerçantes, au titre de l'impôt sur le revenu des personnes physiques et de la taxe complémentaire, de l'impôt sur les bénéfices des sociétés et autres personnes morales, du versement forfaitaire à la charge des employeurs et des débiteurs de certaines pensions, de la contribution des patentes et des taxes annexes, des taxes sur le chiffre d'affaires et des taxes annexes, des contributions indirectes, ainsi qu'au titre des droits, taxes, confiscations, amendes et restitutions en matière douanière.
