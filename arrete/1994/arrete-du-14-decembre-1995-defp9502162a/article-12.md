@@ -1,3 +1,3 @@
 # Article 12
 
-Les droits des personnels visés par le présent arrêté en matière de congé administratif sont identiques à ceux prévus pour les fonctionnaires civils du ministère de la défense affectés à l'étranger, notamment en ce qui concerne les conditions d'ouverture, la durée et les possibilités de cumul.
+Les droits à congés des personnels visés par le présent décret sont, selon le pays d'affectation, de trente et un, trente-trois ou trente-six jours ouvrés par année civile, conformément aux dispositions du décret n° 2002-1200 du 26 septembre 2002 fixant le régime de congés annuels des personnels de l'Etat et des établissements publics de l'Etat à caractère administratif en service à l'étranger et de l'arrêté du 26 septembre 2002 pris pour son application.

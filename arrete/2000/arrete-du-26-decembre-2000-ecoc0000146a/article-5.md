@@ -12,4 +12,4 @@ Par carcasse de veau présentée entière en vue de la pesée, il faut entendre 
 
 5. Chez les mâles et les neutres, de la verge (ses deux racines exceptées), de ses muscles annexes et, le cas échéant, des testicules.
 
-La présentation de la carcasse ne doit pas être modifiée pendant un délai de deux heures après sa pesée.
+La présentation de la carcasse ne doit pas être modifiée pendant un délai de six heures après sa pesée.

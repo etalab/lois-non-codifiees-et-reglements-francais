@@ -10,7 +10,7 @@ Ingénieur de direction
 
 11
 
-Chargé de mission scientifique ou industriel
+Chargé de mission scientifique ou industriel, médecin
 
 13
 
@@ -18,7 +18,7 @@ Ingénieur des études et techniques
 
 16
 
-Chef des services administratifs du service de l'attaché d'armement, chef de département des services de l'attaché d'armement, chef de section documentation, régisseur d'avance
+Chef des services administratifs du service de l'attaché de l'armement, chef de département des services de l'attaché de l'armement, chef de section documentation, régisseur d'avances, expert vérificateur
 
 18
 

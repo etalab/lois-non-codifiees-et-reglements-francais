@@ -12,7 +12,9 @@ Ingénieur de direction.
 
 Chargé de mission scientifique ou industriel ;
 
-Ingénieur des études et techniques.
+Ingénieur des études et techniques ;
+
+Médecin.
 
 Catégorie B :
 
@@ -30,7 +32,9 @@ Rédacteur ;
 
 Traducteur ;
 
-Interprète.
+Interprète ;
+
+Expert vérificateur.
 
 1re catégorie C :
 

@@ -1,5 +1,5 @@
 # Article 13
 
-Le droit au remboursement des frais occasionnés par le voyage de congé administratif de l'agent et de sa famille est ouvert aux agents contractuels recrutés en France dans les mêmes conditions que celles prévues pour les fonctionnaires du ministère de la défense affectés à l'étranger.
+Les agents contractuels recrutés en France peuvent prétendre, pour eux-mêmes et pour leurs ayants droit, dans les conditions définies par le décret du 12 mars 1986 susvisé, au remboursement des frais occasionnés par un voyage de congé en France.
 
-L'agent contractuel recruté sur place n'a pas droit au remboursement de frais de voyage de congé.
+Ce droit s'exerce conformément aux dispositions de l'arrêté du 10 octobre 2002 relatif à la fixation des temps de séjour des agents du ministère des affaires étrangères en service dans les missions diplomatiques et les postes consulaires.

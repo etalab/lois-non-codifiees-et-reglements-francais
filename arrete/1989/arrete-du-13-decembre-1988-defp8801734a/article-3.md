@@ -1,5 +1,3 @@
 # Article 3
 
-Les droits à congé administratif des personnels visés par le présent arrêté sont fixés à trois jours et demi, quatre jours, quatre jours et demi ou cinq jours par mois de service à l'étranger, selon le pays, conformément au tableau figurant en annexe au présent arrêté.
-
-Tout agent qui ne profite pas de son congé annuel peut le cumuler avec celui des années suivantes dans la limite de soixante jours s'il est affecté à un poste ou placé sur un emploi situé en Europe ou dans un des pays situés en bordure de la Méditerranée et de quatre-vingt-dix jours s'il est affecté à un autre poste ou emploi.
+Les droits à congés des personnels visés par le présent arrêté sont de trente et un, trente-trois ou trente-six jours ouvrés par année civile, selon le pays d'affectation, conformément aux dispositions du décret n° 2002-1200 du 26 septembre 2002 fixant le régime de congés annuels des personnels de l'Etat et des établissements publics de l'Etat à caractère administratif en service à l'étranger et de l'arrêté du 26 septembre 2002 pris pour son application.

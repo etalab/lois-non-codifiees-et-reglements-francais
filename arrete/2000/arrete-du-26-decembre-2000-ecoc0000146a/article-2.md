@@ -28,4 +28,4 @@ L'ablation d'une partie quelconque de la paroi abdominale ;
 
 L'élimination de toute partie musculaire, tendineuse ou aponévrotique non comprise dans les amas graisseux dont l'enlèvement est autorisé.
 
-La présentation de la carcasse ne doit pas être modifiée pendant un délai de deux heures après sa pesée.
+La présentation de la carcasse ne doit pas être modifiée pendant un délai de six heures après sa pesée.
