@@ -198,7 +198,6 @@
 - [Arrêté du 29 août 1985](arrete-du-29-aout-1985)
 - [Arrêté du 29 avril 1985](arrete-du-29-avril-1985)
 - [Arrêté du 29 décembre 1984](arrete-du-29-decembre-1984)
-- [Arrêté du 29 janvier 1985](arrete-du-29-janvier-1985)
 - [Arrêté du 29 mars 1985](arrete-du-29-mars-1985)
 - [Arrêté du 29 novembre 1984](arrete-du-29-novembre-1984)
 - [Arrêté du 29 novembre 1985](arrete-du-29-novembre-1985)
