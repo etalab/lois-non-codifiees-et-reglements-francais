@@ -355,6 +355,8 @@
 - [Arrêté du 25 janvier 1989 (JUSG8960003A)](arrete-du-25-janvier-1989-jusg8960003a)
 - [Arrêté du 25 janvier 1989 (MENU8900436A)](arrete-du-25-janvier-1989-menu8900436a)
 - [Arrêté du 25 janvier 1989 (SPSS8801890A)](arrete-du-25-janvier-1989-spss8801890a)
+- [Arrêté du 25 juillet 1989 (EQUA8900843A)](arrete-du-25-juillet-1989-equa8900843a)
+- [Arrêté du 25 juillet 1989 (PTTT8900712A)](arrete-du-25-juillet-1989-pttt8900712a)
 - [Arrêté du 25 mai 1989 (MENL8900269A)](arrete-du-25-mai-1989-menl8900269a)
 - [Arrêté du 26 avril 1989 (ECOS8950026A)](arrete-du-26-avril-1989-ecos8950026a)
 - [Arrêté du 26 avril 1989 (INTE8900219A)](arrete-du-26-avril-1989-inte8900219a)
