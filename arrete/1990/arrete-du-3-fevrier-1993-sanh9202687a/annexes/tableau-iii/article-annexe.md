@@ -1,59 +1,193 @@
 # Article Annexe
 
-Échelons / Indices bruts
-
 Corps des adjoints des cadres techniques
 
-Classe normale :
+Classe normale, grade provisoire :
 
-12e  échelon 474
+(A) : Echelons.
 
-11e  échelon 453
+(B) : Indices bruts.
 
-10e  échelon 430
+!--------------!
 
-9e  échelon 395
+!  A   !   B   !
 
-8e  échelon 389
+!------!-------!
 
-7e  échelon 379
+! 12e  !  474  !
 
-6e  échelon 360
+! 11e  !  453  !
 
-5e  échelon 345
+! 10e  !  430  !
 
-4e  échelon 336
+!  9e  !  395  !
 
-3e  échelon 321
+!  8e  !  389  !
 
-2e  échelon 309
+!  7e  !  379  !
 
-1er échelon 298
+!  6e  !  360  !
 
-Classe supérieure :
+!  5e  !  345  !
 
-4e  échelon 533
+!  4e  !  336  !
 
-3e  échelon 501
+!  3e  !  321  !
 
-2e  échelon 473
+!  2e  !  309  !
 
-1er échelon 438
+! 1er  !  298  !
 
-Classe exceptionnelle :
+!------!-------!
 
-8e  échelon 579
+Classe supérieure, grade provisoire :
 
-7e  échelon 547
+(A) : Echelons.
 
-6e  échelon 510
+(B) : Indices bruts.
 
-5e  échelon 474
+!--------------!
 
-4e  échelon 438
+!  A   !   B   !
 
-3e  échelon 392
+!------!-------!
 
-2e  échelon 359
+!  4e  !  533  !
 
-1er échelon 324
+!  3e  !  501  !
+
+!  2e  !  473  !
+
+! 1er  !  438  !
+
+!------!-------!
+
+Classe exceptionnelle, grade provisoire :
+
+(A) : Echelons.
+
+(B) : Indices bruts.
+
+!--------------!
+
+!  A   !   B   !
+
+!------!-------!
+
+!  8e  !  579  !
+
+!  7e  !  547  !
+
+!  6e  !  510  !
+
+!  5e  !  474  !
+
+!  4e  !  438  !
+
+!  3e  !  392  !
+
+!  2e  !  359  !
+
+! 1er  !  324  !
+
+!------!-------!
+
+Classe normale créée le 1er août 1996.
+
+(A) : Echelons.
+
+(B) : Indices bruts.
+
+!--------------!
+
+!  A   !   B   !
+
+!------!-------!
+
+! 13e  !  544  !
+
+! 12e  !  510  !
+
+! 11e  !  483  !
+
+! 10e  !  450  !
+
+!  9e  !  426  !
+
+!  8e  !  397  !
+
+!  7e  !  380  !
+
+!  6e  !  362  !
+
+!  5e  !  347  !
+
+!  4e  !  336  !
+
+!  3e  !  321  !
+
+!  2e  !  309  !
+
+! 1er  !  298  !
+
+!------!-------!
+
+Classe supérieure créée le 1er août 1996
+
+(A) : Echelons.
+
+(B) : Indices bruts.
+
+!--------------!
+
+!  A   !   B   !
+
+!------!-------!
+
+!  8e  !  579  !
+
+!  7e  !  547  !
+
+!  6e  !  516  !
+
+!  5e  !  485  !
+
+!  4e  !  456  !
+
+!  3e  !  427  !
+
+!  2e  !  389  !
+
+! 1er  !  359  !
+
+!------!-------!
+
+Classe exceptionnelle créée le 1er août 1994
+
+(A) : Echelons.
+
+(B) : Indices bruts.
+
+!--------------!
+
+!  A   !   B   !
+
+!------!-------!
+
+!  8e  !  612  !
+
+!  7e  !  580  !
+
+!  6e  !  549  !
+
+!  5e  !  518  !
+
+!  4e  !  487  !
+
+!  3e  !  457  !
+
+!  2e  !  439  !
+
+! 1er  !  393  !
+
+!------!-------!

@@ -4,72 +4,132 @@
 
 Ingénieur subdivisionnaire
 
-9e  échelon 701
+(A) : Situation antérieure.
 
-8e  échelon 659
+(B) : Situation nouvelle à compter du 1er août 1993.
 
-7e  échelon 612
+!------------------------!
 
-6e  échelon 579
+!        ! Indices bruts !
 
-5e  échelon 528
+!Echelons!---------------!
 
-4e  échelon 482
+!        !   A   !   B   !
 
-3e  échelon 448
+!--------!-------!-------!
 
-2e  échelon 420
+! 10e(+) !   -   !  750  !
 
-1er échelon 379
+!  9e    !  701  !  710  !
+
+!  8e    !  659  !  668  !
+
+!  7e    !  612  !  621  !
+
+!  6e    !  579  !  588  !
+
+!  5e    !  528  !  540  !
+
+!  4e    !  482  !  492  !
+
+!  3e    !  448  !  458  !
+
+!  2e    !  420  !  430  !
+
+! 1er    !  379  !  379  !
+
+!--------!-------!-------!
+
+(+) : Echelon créé à compter du 1er août 1993.
 
 Ingénieur principal
 
-7e  échelon 801
+!--------!--------!
 
-6e  échelon 771
+!Echelons!Indices !
 
-5e  échelon 710
+!        ! bruts  !
 
-4e  échelon 659
+!--------!--------!
 
-3e  échelon 596
+!  7e    !   801  !
 
-2e  échelon 537
+!  6e    !   771  !
 
-1er échelon 486
+!  5e    !   710  !
+
+!  4e    !   659  !
+
+!  3e    !   596  !
+
+!  2e    !   537  !
+
+! 1er    !   486  !
+
+!--------!--------!
 
 Ingénieur en chef de 2e classe
 
-8e  échelon 771
+!--------!--------!
 
-7e  échelon 732
+!Echelons!Indices !
 
-6e  échelon 681
+!        ! bruts  !
 
-5e  échelon 635
+!--------!--------!
 
-4e  échelon 581
+!  8e    !   771  !
 
-3e  échelon 530
+!  7e    !   732  !
 
-2e  échelon 480
+!  6e    !   681  !
 
-1er échelon 450
+!  5e    !   635  !
+
+!  4e    !   581  !
+
+!  3e    !   530  !
+
+!  2e    !   480  !
+
+! 1er    !   450  !
+
+!--------!--------!
 
 Ingénieur en chef de 1re classe
 
-4e  échelon 966
+!--------!--------!
 
-3e  échelon 901
+!Echelons!Indices !
 
-2e  échelon 830
+!        ! bruts  !
 
-1er échelon 750
+!--------!--------!
+
+!  4e    !   966  !
+
+!  3e    !   901  !
+
+!  2e    !   830  !
+
+! 1er    !   750  !
+
+!--------!--------!
 
 Ingénieur en chef hors classe
 
-3e  échelon HEA
+!--------!--------!
 
-2e  échelon 1015
+!Echelons!Indices !
 
-1er échelon. 946
+!        ! bruts  !
+
+!--------!--------!
+
+!  3e    !   HEA  !
+
+!  2e    !  1015  !
+
+! 1er    !   946  !
+
+!--------!--------!
