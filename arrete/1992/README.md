@@ -500,6 +500,7 @@
 - [Arrêté du 31 janvier 1992 (DEFD9201109A)](arrete-du-31-janvier-1992-defd9201109a)
 - [Arrêté du 31 janvier 1992 (ECOT9210142A)](arrete-du-31-janvier-1992-ecot9210142a)
 - [Arrêté du 31 janvier 1992 (INDP9200097A)](arrete-du-31-janvier-1992-indp9200097a)
+- [Arrêté du 31 mars 1992 (BUDR9106030A)](arrete-du-31-mars-1992-budr9106030a)
 - [Arrêté du 31 mars 1992 (ECOM9100173A)](arrete-du-31-mars-1992-ecom9100173a)
 - [Arrêté du 31 mars 1992 (ECOT9195002A)](arrete-du-31-mars-1992-ecot9195002a)
 - [Arrêté du 31 mars 1992 (EQUC9200024A)](arrete-du-31-mars-1992-equc9200024a)
