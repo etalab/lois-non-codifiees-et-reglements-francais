@@ -1,0 +1,3 @@
+# Article 9
+
+Dans le délai d'un mois suivant la notification d'une décision prise à la suite d'une demande d'homologation, le demandeur peut faire appel de cette décision. Cet appel donnera lieu à l'ouverture d'une nouvelle instruction au cours de laquelle le demandeur, assisté, s'il le désire, par un représentant d'une organisation professionnelle de son choix, pourra être entendu par le comité d'homologation des produits antiparasitaires à usage agricole et des produits assimilés ou par des membres désignés par ce comité. La notification définitive sera faite à l'intéressé dans un délai de quatre mois.

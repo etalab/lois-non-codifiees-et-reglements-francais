@@ -11,6 +11,7 @@
 - [Arrêté du 6 mai 1974](arrete-du-6-mai-1974)
 - [Arrêté du 7 août 1974](arrete-du-7-aout-1974)
 - [Arrêté du 7 janvier 1974](arrete-du-7-janvier-1974)
+- [Arrêté du 7 octobre 1974](arrete-du-7-octobre-1974)
 - [Arrêté du 7 mai 1974](arrete-du-7-mai-1974)
 - [Arrêté du 9 août 1974](arrete-du-9-aout-1974)
 - [Arrêté du 9 janvier 1974](arrete-du-9-janvier-1974)
