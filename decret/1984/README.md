@@ -28,6 +28,7 @@
 - [Décret n°84-175 du 12 mars 1984](decret-n84-175-du-12-mars-1984)
 - [Décret n°84-176 du 12 mars 1984](decret-n84-176-du-12-mars-1984)
 - [Décret n°84-183 du 12 mars 1984](decret-n84-183-du-12-mars-1984)
+- [Décret n°84-193 du 12 mars 1984](decret-n84-193-du-12-mars-1984)
 - [Décret n°84-447 du 12 juin 1984](decret-n84-447-du-12-juin-1984)
 - [Décret n°84-105 du 13 février 1984](decret-n84-105-du-13-fevrier-1984)
 - [Décret n°84-147 du 13 février 1984](decret-n84-147-du-13-fevrier-1984)
