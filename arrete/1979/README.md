@@ -15,6 +15,7 @@
 - [Arrêté du 8 août 1979](arrete-du-8-aout-1979)
 - [Arrêté du 8 juin 1979](arrete-du-8-juin-1979)
 - [Arrêté du 8 mars 1979](arrete-du-8-mars-1979)
+- [Arrêté du 9 août 1979](arrete-du-9-aout-1979)
 - [Arrêté du 9 avril 1979](arrete-du-9-avril-1979)
 - [Arrêté du 9 mars 1979](arrete-du-9-mars-1979)
 - [Arrêté du 10 août 1979](arrete-du-10-aout-1979)
