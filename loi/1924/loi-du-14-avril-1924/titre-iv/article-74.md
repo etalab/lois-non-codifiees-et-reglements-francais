@@ -4,21 +4,21 @@ A l'exception des fonctionnaires qui figuraient au jour de la promulgation de la
 
 Pour tenir compte des droits acquis, les fonctionnaires, employés civils et ouvriers dont la nomination est antérieure à la présente loi et qui ont été admis au bénéfice des pensions militaires par application des textes législatifs ou règlements actuellement en vigueur, continueront à bénéficier du régime institué par ces lois ou règlements au point de vue du droit à pension d'ancienneté et des bonifications pour campagnes.
 
-Toutefois, et par dérogation aux dispositions de l'article 2 de la présente loi, seront traités pendant le temps durant lequel ils jouiront de la pension militaire :
+Par dérogation aux dispositions de l'article 2 de la présente loi, seront traités pendant le temps durant lequel ils jouiront de la pension militaire :
 
-Comme adjudants-chefs. - Les ouvriers immatriculés de la guerre chefs d'atelier.
+Comme adjudants-chefs, les ouvriers immatriculés de la guerre chefs d'atelier ;
 
-Comme adjudants. - Les ouvriers immatriculés de la guerre contremaîtres.
+Comme adjudants, les ouvriers immatriculés de la guerre contremaîtres ;
 
-Comme sergents-majors. - Les ouvriers immatriculés de la guerre chefs d'équipes.
+Comme sergents-majors, les ouvriers immatriculés de la guerre chefs d'équipe ;
 
-Comme sergents. - Les ouvriers immatriculés de 1re classe de la guerre.
+Comme sergents, les ouvriers immatriculés de 1re classe de la guerre ;
 
-Comme soldats. - Les ouvriers immatriculés de 2e classe de la guerre.
+Comme soldats, les ouvriers immatriculés de 2e classe de la guerre ;
 
-Comme quartiers-maîtres des directions de port. - Les chefs ouvriers immatriculés de la marine.
+Comme maîtres, les chefs ouvriers immatriculés de la marine ;
 
-Comme marins des directions de port. - Les ouvriers immatriculés de la marine.
+Comme seconds maîtres de 1re classe, les ouvriers immatriculés de la marine.
 
 Les ayants cause des personnels visés au présent article pourront opter soit pour les pensions d'invalidité de la loi du 31 mars 1919 s'ils réunissent les conditions exigées par cette loi, soit pour les dispositions du chapitre III du titre Ier de la présente loi. Dans ce dernier cas, et si le mari ou le père comptait au moment de son décès moins de vingt-cinq ans de services effectifs à l'Etat, la pension de la veuve ou des orphelins sera calculée sur la base d'une pension proportionnelle à la durée des services.
 
