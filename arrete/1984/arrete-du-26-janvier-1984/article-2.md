@@ -1,3 +1,3 @@
 # Article 2
 
-D'une durée de six ans et d'une valeur nominale de 1000 F, les obligations renouvelables de cette série porteront jouissance du 15 mars 1984.
+Une ampliation de tout arrêté intervenu en exécution de l'article 1er ci-dessus est adressée au ministre chargé de la mutualité dans un délai d'un mois à compter de la date dudit arrêté.
