@@ -77,7 +77,6 @@
 - [Décret n°78-1103 du 23 novembre 1978](decret-n78-1103-du-23-novembre-1978)
 - [Décret n°78-1104 du 23 novembre 1978](decret-n78-1104-du-23-novembre-1978)
 - [Décret n°78-1108 du 23 novembre 1978](decret-n78-1108-du-23-novembre-1978)
-- [Décret n°78-1109 du 23 novembre 1978](decret-n78-1109-du-23-novembre-1978)
 - [Décret n°78-409 du 23 mars 1978](decret-n78-409-du-23-mars-1978)
 - [Décret n°78-612 du 23 mai 1978](decret-n78-612-du-23-mai-1978)
 - [Décret n°78-421 du 24 mars 1978](decret-n78-421-du-24-mars-1978)
