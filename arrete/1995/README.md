@@ -7,6 +7,7 @@
 - [Arrêté du 1 février 1995 (SANH9500460A)](arrete-du-1-fevrier-1995-sanh9500460a)
 - [Arrêté du 1 février 1995 (TEFT9500164A)](arrete-du-1-fevrier-1995-teft9500164a)
 - [Arrêté du 1 février 1995 (TEFT9500165A)](arrete-du-1-fevrier-1995-teft9500165a)
+- [Arrêté du 1 juin 1995 (AGRG9501031A)](arrete-du-1-juin-1995-agrg9501031a)
 - [Arrêté du 1 mars 1995 (AGRO9500382A)](arrete-du-1-mars-1995-agro9500382a)
 - [Arrêté du 1 mars 1995 (SANP9500716A)](arrete-du-1-mars-1995-sanp9500716a)
 - [Arrêté du 1 mars 1995 (SPSG9500756A)](arrete-du-1-mars-1995-spsg9500756a)
