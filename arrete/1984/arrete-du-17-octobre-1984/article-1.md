@@ -1,5 +1,7 @@
 # Article 1
 
-Les plants de légumes, des espèces citées à l'annexe I, détenus ou transportés en vue de la vente, mis en vente ou vendus, doivent, quelle que soit leur provenance, répondre aux conditions fixées par le présent arrêté ainsi qu'aux dispositions prévues par la réglementation phytosanitaire.
+Les colles et adhésifs solides ou en poudre conditionnés en préemballages d'une quantité nominale comprise entre 5 grammes inclus et 10 kilogrammes inclus, et non destinés exclusivement à l'usage professionnel, ne peuvent être importés, détenus en vue de la vente, mis en vente ou vendus que dans des emballages [*conditionnements*] renfermant les quantités nominales suivantes exprimées en utilisant comme unité de mesure le kilogramme ou le gramme :
 
-Au sens de celui-ci, on entend par plants de légumes tout végétal herbacé au début de sa croissance, ainsi que les bulbilles, caïeux, oeilletons, griffes ou parties de plante racinée, avant leur mise en place définitive par l'utilisateur.
+25, 50, 125, 250, 500, 1000, 2500, 5000, 8000, 10000 (valeurs exprimées en grammes).
+
+En outre sont admises les valeurs 200 et 300 (valeurs exprimées en grammes).

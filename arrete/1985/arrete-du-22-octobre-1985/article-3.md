@@ -1,3 +1,5 @@
 # Article 3
 
-A titre provisoire, les dispositions du présent arrêté ne sont pas applicables aux caisses primaires de l'assurance maladie de la région Ile-de-France, excepté celle de Seine-et-Marne.
+Le secrétaire de la formation spécialisée est assisté par le bureau B.C.I. (D.A.G.P.B.-Dorique).
+
+Le chef du bureau B.C.I. peut prendre part aux débats, sans voix délibérative.

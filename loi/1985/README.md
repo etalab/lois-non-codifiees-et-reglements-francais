@@ -12,6 +12,7 @@
 - [Loi n° 85-30 du 9 janvier 1985](loi-n-85-30-du-9-janvier-1985)
 - [Loi n° 85-528 du 15 mai 1985](loi-n-85-528-du-15-mai-1985)
 - [Loi n° 85-541 du 22 mai 1985](loi-n-85-541-du-22-mai-1985)
+- [Loi n° 85-542 du 22 mai 1985](loi-n-85-542-du-22-mai-1985)
 - [Loi n° 85-595 du 11 juin 1985](loi-n-85-595-du-11-juin-1985)
 - [Loi n° 85-660 du 3 juillet 1985](loi-n-85-660-du-3-juillet-1985)
 - [Loi n° 85-662 du 3 juillet 1985](loi-n-85-662-du-3-juillet-1985)

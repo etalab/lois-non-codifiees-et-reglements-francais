@@ -1,7 +1,11 @@
 # Article 1
 
-Les farines, gruaux, flocons et semoules de céréales, flocons et farines d'avoine (à l'exclusion des produits mentionnés à l'article 3), conditionnés en préemballages [*conditionnement*] par quantité nominale comprise entre 5 grammes inclus et 10 kilogrammes inclus, et non destinés exclusivement à l'usage professionnel, ne peuvent être importés, détenus en vue de la vente, mis en vente ou vendus que dans des emballages renfermant les quantités nominales suivantes, exprimées en utilisant comme unité de mesure le gramme ou le kilogramme :
+Les eaux minérales, les eaux gazéifiées et les eaux destinées à la consommation humaine, conditionnées en préemballages [*conditionnement*] par quantité nominale égale ou supérieure à 5 millilitres, ne peuvent être importées, détenues en vue de la vente, mises en vente ou vendues que dans des emballages renfermant les volumes nominaux fixés dans le tableau ci-après et suivant les modalités y figurant :
 
-125, 250, 500, 1.000, 1.500, 2.000, 2.500, 5.000, 10.000 (valeurs exprimées en grammes).
+Volumes nominaux en centilitres. Admis à titre définitif :
 
-Toutefois, la valeur 2.500 n'est pas admise dans le cas des flocons et farines d'avoine.
+12,5, 20, 25, 33, 50, 75, 100, 125, 150, 200.
+
+Admis jusqu'au 31 décembre 1988 :
+
+Tous les volumes en-dessous de 20 ansi que 23, 35, 45, 46, 70, 90, 92.
