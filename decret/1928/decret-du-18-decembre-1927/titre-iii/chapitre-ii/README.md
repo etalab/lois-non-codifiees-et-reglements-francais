@@ -2,6 +2,7 @@
 
 - [SECTION I : Assemblées générales.](section-i)
 - [SECTION II : Syndicat.](section-ii)
+- [SECTION III : Directeur.](section-iii)
 - [SECTION IV : Fixation des bases de répartition des dépenses -              Apports.](section-iv)
 - [SECTION V : Travaux.](section-v)
 - [SECTION VI : Budget.](section-vi)
