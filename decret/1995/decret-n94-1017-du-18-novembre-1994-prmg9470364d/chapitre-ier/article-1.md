@@ -36,10 +36,6 @@ b) Corps d'établissements publics de l'Etat :
 
 - secrétaires administratifs de l'Office national interprofessionnel des céréales ;
 
-- secrétaires administratifs des services départementaux de l'Office national des anciens combattants et victimes de guerre ;
-
-- secrétaires administratifs de la Caisse nationale militaire de sécurité sociale ;
-
 - secrétaires techniques de la Caisse des dépôts et consignations.
 
 3. Corps communs aux services déconcentrés et à l'administration centrale :

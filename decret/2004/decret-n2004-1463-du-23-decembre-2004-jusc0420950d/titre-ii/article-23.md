@@ -1,0 +1,5 @@
+# Article 23
+
+L'expert fait connaître tous les ans avant le 1er mars au premier président de la cour d'appel et au procureur général près ladite cour ou, pour celui qui est inscrit sur la liste nationale, au premier président de la Cour de cassation et au procureur général près ladite cour, le nombre de rapports qu'il a déposés au cours de l'année précédente ainsi que, pour chacune des expertises en cours, la date de la décision qui l'a commis, la désignation de la juridiction qui a rendu cette décision et le délai imparti pour le dépôt du rapport. Dans les mêmes conditions, il porte à leur connaissance les formations suivies dans l'année écoulée en mentionnant les organismes qui les ont dispensées.
+
+Le premier président de la cour d'appel et le premier président de la Cour de cassation portent ces informations à la connaissance, selon le cas, de la commission prévue au II de l'article 2 de la loi du 29 juin 1971 susvisée ou du bureau de la Cour de cassation à l'occasion de chaque demande de réinscription.
