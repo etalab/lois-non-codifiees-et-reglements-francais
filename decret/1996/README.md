@@ -336,6 +336,7 @@
 - [Décret n°96-731 du 13 août 1996 (MENF9601806D)](decret-n96-731-du-13-aout-1996-menf9601806d)
 - [Décret n°96-737 du 13 août 1996 (FCEC9600116D)](decret-n96-737-du-13-aout-1996-fcec9600116d)
 - [Décret n°96-815 du 13 septembre 1996 (TASO9611305D)](decret-n96-815-du-13-septembre-1996-taso9611305d)
+- [Décret n°96-990 du 13 novembre 1996 (DEFP9601793D)](decret-n96-990-du-13-novembre-1996-defp9601793d)
 - [Décret n°96-397 du 13 mai 1996 (TASC9620539D)](decret-n96-397-du-13-mai-1996-tasc9620539d)
 - [Décret n°96-399 du 13 mai 1996 (MAEJ9630014D)](decret-n96-399-du-13-mai-1996-maej9630014d)
 - [Décret n°96-400 du 13 mai 1996 (INTC9600096D)](decret-n96-400-du-13-mai-1996-intc9600096d)
