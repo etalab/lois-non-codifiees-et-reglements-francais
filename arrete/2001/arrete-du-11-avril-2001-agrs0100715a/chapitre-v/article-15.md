@@ -6,4 +6,6 @@ Ces garanties de compétence sont appréciées par la commission au vu des diver
 
 La commission peut proposer, pour toute autre personne qui n'occupe plus à la date de son inscription un emploi dans un organisme visé par le présent arrêté, une assimilation de sa situation par rapport à un emploi de cadre ou d'agent de direction dans un tel organisme, compte tenu de l'ancienneté, de l'emploi exercé et des responsabilités assumées antérieurement.
 
+La commission peut, en tant que de besoin, procéder à la requalification de la demande d'un candidat après avoir obtenu son accord.
+
 Le ministre de l'agriculture et de la pêche arrête la liste d'aptitude aux fonctions d'agent de direction et d'agent comptable des organismes de mutualité sociale agricole, sur proposition de la commission.

@@ -18,6 +18,6 @@ sera appréciée, au vu des éléments du dossier, par la commission chargée d'
 
 A l'exception des anciens élèves du Centre national d'études supérieures de sécurité sociale, les candidats doivent, en outre :
 
--être âgés de quarante ans au moins au 1er janvier de l'année pour laquelle la liste est établie ;
+-être âgés de trente-cinq ans au moins au 1er janvier de l'année pour laquelle la liste est établie ;
 
 -avoir obtenu l'attestation délivrée, à l'issue d'une ou plusieurs sessions de perfectionnement effectuées au Centre national d'études supérieures de sécurité sociale d'une durée minimale de 6 semaines au total. Cette condition n'est pas exigée pour l'inscription en deuxième section sur la quatrième liste d'aptitude des candidats exerçant leur activité dans un organisme visé à l'article R. 111-1 du code de la sécurité sociale.

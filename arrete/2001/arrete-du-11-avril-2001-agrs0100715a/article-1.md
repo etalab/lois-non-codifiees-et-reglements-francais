@@ -4,10 +4,10 @@ Pris en application de l'article R. 123-45 du code de la sécurité sociale, le 
 
 Ces organismes sont classés en trois catégories :
 
--la Caisse centrale de la mutualité sociale agricole ;
+Catégorie A : la Caisse centrale de la mutualité sociale agricole ;
 
--les caisses départementales ou pluridépartementales de mutualité sociale agricole ;
+Catégorie B : les caisses départementales ou pluridépartementales de mutualité sociale agricole ainsi que les fédérations constituées entre caisses de mutualité sociale agricole ;
 
--les associations ou groupements d'intérêt économique (GIE) créés entre les caisses de mutualité sociale agricole.
+Catégorie C : les associations ou groupements d'intérêt économique (GIE) créés entre les caisses de mutualité sociale agricole à l'exception des fédérations constituées entre caisses de mutualité sociale agricole.
 
 Cette liste, publiée au Journal officiel, est établie chaque année ; toutefois, la liste d'une année reste valable jusqu'à la date de publication au Journal officiel de la liste établie pour l'année suivante.

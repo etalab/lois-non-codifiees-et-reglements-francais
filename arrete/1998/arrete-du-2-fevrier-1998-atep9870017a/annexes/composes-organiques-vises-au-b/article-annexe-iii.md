@@ -500,7 +500,7 @@
 </tbody>
 </table>
 
-Définitions des termes cités au 7° de l'article 27 et aux 19° à 35° de l'article 30 :
+Définitions des termes cités au 7° de l'article 27 et aux 19° à 36° de l'article 30 :
 
 On entend par "composé organique volatil" (COV) tout composé organique, à l'exclusion du méthane, ayant une pression de vapeur de 0,01 kPa ou plus à une température de 293,15° Kelvin ou ayant une volatilité correspondante dans des conditions d'utilisation parti¬culières.
 
