@@ -1,9 +1,5 @@
 # Article 1
 
-Les sociétés qui, en application des articles 294, 297 et 298 du décret du 23 mars 1967 susvisé, sont tenues de publier au bulletin des annonces légales obligatoires ou d'adresser à tout actionnaire qui leur en fait la demande l'inventaire des valeurs mobilières qu'elles détiennent en portefeuille à la clôture de chaque exercice peuvent inscrire, sur des lignes distinctes, avec la seule indication de la valeur d'inventaire globale par ligne, mais sans désignation détaillée, l'ensemble :
+Sont visés sous la désignation de produits pétroliers dans le présent arrêté : le gas-oil, le fuel-oil domestique, le fuel-oil léger, le fuel-oil lourd n° 1 et le fuel-oil lourd n° 2.
 
-1. De leurs titres de placement et de leurs participations dont la valeur d'inventaire est inférieure à 100.000 F par catégorie de titres ou par participation ;
-
-2. De leurs participations dans des sociétés immobilières dont les actions ne sont pas admises à la cote officielle des bourses de valeurs ;
-
-3. De leurs participations dans des sociétés étrangères dont les actions ne sont pas admises à la cote officielle des bourses de valeurs.
+Lorsqu'ils sont utilisés dans les lieux non visés par la législation des établissements dangereux, insalubres ou incommodes et la réglementation des établissements recevant du public, ces produits doivent, à l'occasion de cette utilisation être stockés et employés conformément aux règles annexées au présent arrêté et approuvées par le comité technique de l'utilisation des produits pétroliers dans sa séance du 30 mai 1967.
