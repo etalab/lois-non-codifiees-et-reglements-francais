@@ -1,0 +1,3 @@
+# Article 1
+
+Il est institué, en sus de la cotisation générale imposée en application du livre VIII, titre 1er, du code de la sécurité sociale aux agents généraux d'assurances qui au cours d'une année, ont perçu un montant de commissions au moins égal à un minimum fixé par les statuts prévus par l'article 4 du présent décret, une cotisation supplémentaire destinée à financer un régime d'assurance vieillesse complémentaire fonctionnant à titre obligatoire entre les personnes susmentionnées et ressortissant à la caisse d'allocation vieillesse des agents généraux et des mandataires non salariés de l'assurance et de capitalisation (C.A.V.A.M.A.C.).
