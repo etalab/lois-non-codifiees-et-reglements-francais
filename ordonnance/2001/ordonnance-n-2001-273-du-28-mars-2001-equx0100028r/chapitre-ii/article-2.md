@@ -11,3 +11,5 @@
 5° La convention de concession passée entre l'Etat et la Société des autoroutes Paris-Normandie et approuvée par le décret du 3 mai 1995 est prolongée jusqu'au 31 décembre 2028.
 
 6° La convention de concession passée entre l'Etat et la Société des autoroutes Paris-Rhin-Rhône et approuvée par le décret du 19 août 1986 est prolongée jusqu'au 31 décembre 2032.
+
+7° La convention de concession passée entre l'Etat et la Société française du tunnel routier du Fréjus en vue de la construction, de l'entretien et de l'exploitation de l'autoroute A 43 entre Aiton et Le Freney, et en vue de l'entretien et de l'exploitation de la section entre Le Freney et la plate-forme d'entrée au tunnel du Fréjus, et approuvée par le décret du 31 décembre 1993, est prolongée jusqu'au 31 décembre 2050.
