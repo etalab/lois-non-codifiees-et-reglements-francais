@@ -1,0 +1,3 @@
+# Article 6
+
+En dehors des suspensions d'activités autorisées qui peuvent être ordonnées en situation d'urgence mettant en cause la sécurité des personnes, conformément à l'article L. 1333-5 du code de la santé publique, les cas de non-conformité des installations notifiés par les services de l'Etat chargés du contrôle donnent lieu, de la part du déclarant ou du titulaire de l'autorisation, à un engagement écrit précisant la nature des actions correctives et leur échéance de mise en oeuvre. En cas de non-exécution, l'autorité peut adresser une mise en demeure au déclarant ou au titulaire de l'autorisation puis prononcer le retrait de l'autorisation dans les conditions fixées à l'article L. 1333-5 du code de la santé publique.

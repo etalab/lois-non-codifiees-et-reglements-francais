@@ -1,0 +1,3 @@
+# Article 4
+
+L'accusé de réception mentionné à l'article R. 1333-22 du code de la santé publique, délivré par le préfet, comporte un rappel des conditions générales de mise en service résultant de l'application de la réglementation en vigueur ainsi que toute information utile ayant trait à la sécurité des personnes. En particulier, l'accusé de réception ne peut pas viser des appareils destinés à la médecine de soins datant de plus de vingt-cinq ans pour lesquels l'utilisation demeure interdite. Le préfet transmet à la direction générale de la sûreté nucléaire et de la radioprotection une copie de l'accusé de réception.
