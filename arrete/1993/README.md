@@ -925,7 +925,6 @@
 - [Arrêté du 26 novembre 1992 (INTE9200554A)](arrete-du-26-novembre-1992-inte9200554a)
 - [Arrêté du 26 novembre 1993 (INDP9320559A)](arrete-du-26-novembre-1993-indp9320559a)
 - [Arrêté du 26 novembre 1993 (INDP9320560A)](arrete-du-26-novembre-1993-indp9320560a)
-- [Arrêté du 26 octobre 1993 (BUDD9370021A)](arrete-du-26-octobre-1993-budd9370021a)
 - [Arrêté du 26 mai 1993 (ACVM9340009A)](arrete-du-26-mai-1993-acvm9340009a)
 - [Arrêté du 26 mai 1993 (AGRH9300963A)](arrete-du-26-mai-1993-agrh9300963a)
 - [Arrêté du 26 mai 1993 (MJSK9370121A)](arrete-du-26-mai-1993-mjsk9370121a)

@@ -1,3 +1,0 @@
-# Article 8
-
-Indépendamment des obligations qui leur sont imposées par le code des douanes, et notamment par son article 65, en matière de communication de documents, toutes les personnes physiques ou morales intéressées à des opérations régulières ou irrégulières concernant les produits visés au présent arrêté sont tenues, à première réquisition, de laisser les fonctionnaires des douanes visiter leurs véhicules, engins ou installations, recenser leurs stocks de produits et prélever les échantillons nécessaires aux analyses et, d'une manière générale, de faciliter l'accomplissement de leurs contrôles en mettant à leur disposition, gratuitement, le personnel et le matériel nécessaires.

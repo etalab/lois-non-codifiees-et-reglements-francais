@@ -580,7 +580,6 @@
 - [Décret n°97-1204 du 19 décembre 1997 (ATEX9700138D)](decret-n97-1204-du-19-decembre-1997-atex9700138d)
 - [Décret n°97-1206 du 19 décembre 1997 (FPPX9700130D)](decret-n97-1206-du-19-decembre-1997-fppx9700130d)
 - [Décret n°97-1207 du 19 décembre 1997 (FPPX9700147D)](decret-n97-1207-du-19-decembre-1997-fppx9700147d)
-- [Décret n°97-1208 du 19 décembre 1997 (MJSX9700134D)](decret-n97-1208-du-19-decembre-1997-mjsx9700134d)
 - [Décret n°98-106 du 19 février 1998 (MAEJ9830010D)](decret-n98-106-du-19-fevrier-1998-maej9830010d)
 - [Décret n°98-189 du 19 mars 1998 (PRMX9702138D)](decret-n98-189-du-19-mars-1998-prmx9702138d)
 - [Décret n°98-192 du 19 mars 1998 (ECOT9826212D)](decret-n98-192-du-19-mars-1998-ecot9826212d)
