@@ -5,5 +5,6 @@
 - [Décret n°57-1019 du 19 septembre 1957](decret-n57-1019-du-19-septembre-1957)
 - [Décret n°57-1319 du 21 décembre 1957](decret-n57-1319-du-21-decembre-1957)
 - [Décret n°57-245 du 24 février 1957](decret-n57-245-du-24-fevrier-1957)
+- [Décret n°56-1425 du 27 décembre 1956](decret-n56-1425-du-27-decembre-1956)
 - [Décret n°57-1342 du 28 décembre 1957](decret-n57-1342-du-28-decembre-1957)
 - [Décret n°57-1360 du 30 décembre 1957](decret-n57-1360-du-30-decembre-1957)
