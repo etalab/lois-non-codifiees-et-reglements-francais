@@ -24,12 +24,12 @@ Cinq représentants des employeurs :
 
 - le président de l'Association des maires de France ou son représentant ;
 
-- un représentant des employeurs du secteur associatif désigné par le directeur des sports ;
+- un représentant des employeurs du secteur associatif désigné par le délégué aux formations.
 
-- un représentant des employeurs du secteur commercial désigné par le directeur des sports.
+- un représentant des employeurs du secteur commercial désigné par le délégué aux formations.
 
 Deux représentants des personnels techniques :
 
 - un représentant de l'association des directeurs techniques nationaux ;
 
-- un représentant des associations regroupant les personnes titulaires des diplômes mentionnés à l'article 43 de la loi du 16 juillet 1984 susvisée, désigné par le directeur des sports.
+- un représentant des associations regroupant les personnes titulaires des diplômes mentionnés à l'article 43 de la loi du 16 juillet 1984 susvisée, désigné par le délégué aux formations.
