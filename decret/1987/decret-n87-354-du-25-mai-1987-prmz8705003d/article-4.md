@@ -6,8 +6,6 @@ L'activité du centre d'études supérieures de la sécurité des systèmes d'in
 
 - deux représentants de services de l'Etat désignés par le Premier ministre ;
 
-- le secrétaire général de la défense nationale ou son représentant ;
-
 - le directeur de l'électronique et de l'information de la délégation générale pour l'armement ;
 
 - le directeur de l'enseignement militaire supérieur scientifique et technique de l'armée de terre ;
