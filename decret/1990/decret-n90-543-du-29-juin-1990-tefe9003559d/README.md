@@ -1,17 +1,3 @@
 # Décret n°90-543 du 29 juin 1990 fixant le statut applicable aux agents de l'Agence nationale pour l'emploi
 
-- [TITRE Ier : Dispositions générales - Champ d'application.](titre-ier)
-- [TITRE II : Droits et obligations des agents - Représentation du personnel](titre-ii)
-- [TITRE III : Recrutement.](titre-iii)
-- [TITRE IV : Rémunérations et durée du travail](titre-iv)
-- [TITRE V : Promotion - Mutation - Mouvements](titre-v)
-- [TITRE VI : Formation.](titre-vi)
-- [TITRE VII : Positions.](titre-vii)
-- [TITRE VIII : Évaluation.](titre-viii)
-- [TITRE IX : Avancement.](titre-ix)
-- [TITRE X : Discipline.](titre-x)
-- [TITRE XI : Protection sociale.](titre-xi)
-- [TITRE XII : Fin de contrat  - Licenciement.](titre-xii-fin)
-- [TITRE XIII : Dispositions particulières.](titre-xiii)
-- [TITRE XIV : Dispositions transitoires et finales](titre-xiv)
 - [Article 67](article-67.md)
