@@ -9,6 +9,7 @@
 - [Arrêté du 13 janvier 1967](arrete-du-13-janvier-1967)
 - [Arrêté du 13 novembre 1967](arrete-du-13-novembre-1967)
 - [Arrêté du 13 septembre 1967](arrete-du-13-septembre-1967)
+- [Arrêté du 17 avril 1967](arrete-du-17-avril-1967)
 - [Arrêté du 18 septembre 1967](arrete-du-18-septembre-1967)
 - [Arrêté du 19 juillet 1967](arrete-du-19-juillet-1967)
 - [Arrêté du 21 août 1967](arrete-du-21-aout-1967)
