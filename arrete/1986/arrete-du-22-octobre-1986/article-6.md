@@ -1,3 +1,13 @@
 # Article 6
 
-Le comité peut, à l'initiative de son président, organiser des groupes de travail, permanents ou temporaires, chargés des questions particulières relevant de la compétence générale du comité.
+Sont placés sous la tutelle de la délégation aux arts plastiques :
+
+Le Centre national des arts plastiques ;
+
+L'Académie de France à Rome ;
+
+L'Ecole nationale supérieure des beaux-arts ;
+
+L'Ecole nationale supérieure des arts décoratifs ;
+
+L'Ecole nationale supérieure de création industrielle.

@@ -1,9 +1,11 @@
 # Article 2
 
-Le comité peut :
+La délégation aux arts plastiques comprend [*composition*] :
 
-- faire procéder par ses rapporteurs aux recherches nécessaires à ses travaux, sous réserve de l'application des règles relatives à la protection du secret de défense ;
+L'inspection générale de la création artistique et l'inspection générale de l'enseignement artistique ;
 
-- demander aux services tous renseignements ou études relatifs aux documents en leur possession ou, en cas de difficulté, proposer au ministre d'en prescrire la production ;
+La sous-direction de la formation, des productions artistiques et des achats ;
 
-- recommander toutes mesures d'organisation et de fonctionnement relatives aux archives de la défense et proposer au ministre d'en prescrire la mise en application.
+La sous-direction de la décentralisation et du soutien à la création ;
+
+Le département de la coordination et des affaires financières.

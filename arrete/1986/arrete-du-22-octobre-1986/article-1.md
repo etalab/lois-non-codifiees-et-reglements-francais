@@ -1,47 +1,11 @@
 # Article 1
 
-Pour l'exercice des missions qui lui sont confiées par l'article 8 du décret du 3 décembre 1979 susvisé, le comité des archives de la défense, placé sous la présidence du directeur de l'administration générale, comprend les membres permanents suivants :
+La délégation aux arts plastiques [*attributions*] définit et met en oeuvre la politique de l'Etat dans le secteur des arts plastiques, par l'incitation à la création, l'aide aux créateurs, les acquisitions et commandes et la formation, ainsi que par la diffusion auprès du public de toutes les formes de l'expression plastique, telles que la peinture, la sculpture, les arts graphiques, les métiers d'art, la photographie, la création industrielle, la mode, la publicité, les vidéogrammes.
 
-L'adjoint au directeur de l'administration générale, vice-président qui supplée le président en cas d'absence ou d'empêchement.
+Elle est notamment chargée :
 
-Le directeur général des Archives de France ou son représentant.
+De la coordination des procédures de la commande publique ;
 
-Les représentants des autorités énumérées ci-après :
+Des questions relatives aux professions artistiques ;
 
-- le secrétaire général de la défense nationale ;
-
-- le délégué général pour l'armement ;
-
-- le chef d'état-major de l'armée de terre ;
-
-- le chef d'état-major de la marine ;
-
-- le chef d'état-major de l'armée de l'air ;
-
-- le chef du contrôle général des armées ;
-
-- le directeur général de la gendarmerie nationale ;
-
-- le directeur des services financiers du ministère de la défense ;
-
-- le directeur de la fonction militaire et des relations sociales ;
-
-- le chef du service historique de l'armée de terre ;
-
-- le chef du service historique de la marine ;
-
-- le chef du service historique de l'armée de l'air ;
-
-- le directeur des archives diplomatiques du ministère des affaires étrangères ;
-
-- le chef du service d'information et de relations publiques des armées.
-
-Un ou plusieurs professeurs de l'enseignement supérieur désignés en accord avec le ministre de l'éducation nationale.
-
-Un représentant de l'administrateur général de la Bibliothèque nationale, compétent en matière d'audiovisuel.
-
-Un archiviste départemental désigné en accord avec le directeur général des Archives de France.
-
-Un conservateur d'archives du ministère de la défense assure les fonctions de rapporteur.
-
-En outre, en fonction des activités du comité, le président peut inviter d'autres personnalités à participer aux travaux soit à titre consultatif, soit en qualité de rapporteur.
+De la préparation et de la mise en oeuvre de la politique de formation, en liaison avec la délégation aux enseignements et aux formations, ainsi que des relations avec les établissements d'enseignement des arts plastiques.

@@ -1,3 +1,3 @@
 # Article 7
 
-L'arrêté du 19 mai 1980 relatif à l'organisation et au fonctionnement du comité des archives de la défense est abrogé.
+La délégation aux arts plastiques agit en liaison avec les organismes publics ou privés qui interviennent dans le domaine des arts plastiques, notamment les musées, le Centre national d'art et de culture Georges-Pompidou [*Beaubourg*] , l'Union centrale des arts décoratifs.

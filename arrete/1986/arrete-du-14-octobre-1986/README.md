@@ -1,4 +1,4 @@
-# Arrêté du 14 octobre 1986 relatif à la fixation des tarifs internationaux du service télégraphique
+# Arrêté du 14 octobre 1986 relatif au règlement intérieur type des unités pour malades difficiles
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 8
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+L'arrêté du 15 octobre 1982 relatif à l'organisation de la délégation aux arts plastiques et les textes y afférents sont abrogés.
