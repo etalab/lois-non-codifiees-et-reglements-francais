@@ -8,6 +8,8 @@ Les chevaux n'ayant pas participé à la course en application du code des cours
 
 Lorsque les paris sont engagés dans un poste d'enregistrement connecté au système central du pari mutuel urbain fonctionnant en temps réel, les paris, unitaires, en formules combinées ou champ, qui comportent la désignation par le parieur d'un ou plusieurs chevaux déclarés non partants, au moment de la présentation du pari, ne sont pas acceptés à l'enregistrement. Les dispositions du présent alinéa ne sont toutefois pas applicables aux paris enregistrés par Minitel.
 
+Lorsqu'un pari engagé dans un des postes d'enregistrement défini à l'alinéa précédent vient à comporter un ou plusieurs chevaux non partants, le parieur a la possibilité, avant le départ de la course, pour les types de pari n'offrant pas la possibilité de désigner le cheval de complément, d'obtenir dans le poste d'enregistrement dans lequel il a engagé son pari l'annulation du pari qu'il a engagé.
+
 Tous les paris comportant un ou plusieurs chevaux non partants sont exécutés en application des règles particulières à chaque type de pari, après prise en compte, le cas échéant, du cheval de complément tel que défini au paragraphe II ci-dessous.
 
 II. - 1. Dans les postes d'enregistrement connectés au système central du pari mutuel urbain fonctionnant en temps réel ainsi que sur tout ou partie des moyens d'enregistrement visés au titre III, les parieurs peuvent, s'ils le désirent, pour certains types de paris dont le règlement prévoit cette possibilité, sélectionner en plus de la désignation des chevaux composant leur pari le numéro d'un cheval de complément qui peut compléter leur pari selon les modalités définies au paragraphe II.
