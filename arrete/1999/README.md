@@ -743,7 +743,6 @@
 - [Arrêté du 30 mai 2001 (ECOP0000227A)](arrete-du-30-mai-2001-ecop0000227a)
 - [Arrêté du 31 août 1999 (AGRB9901851A)](arrete-du-31-aout-1999-agrb9901851a)
 - [Arrêté du 31 août 1999 (EQUR9901067A)](arrete-du-31-aout-1999-equr9901067a)
-- [Arrêté du 31 décembre 1998 (ECOT9820095A)](arrete-du-31-decembre-1998-ecot9820095a)
 - [Arrêté du 31 décembre 1998 (ECOT9820096A)](arrete-du-31-decembre-1998-ecot9820096a)
 - [Arrêté du 31 décembre 1998 (ECOT9820119A)](arrete-du-31-decembre-1998-ecot9820119a)
 - [Arrêté du 31 mars 1999 (DEFM9901363A)](arrete-du-31-mars-1999-defm9901363a)

@@ -665,7 +665,6 @@
 - [Arrêté du 18 octobre 1996 (AGRE9602423A)](arrete-du-18-octobre-1996-agre9602423a)
 - [Arrêté du 18 octobre 1996 (AGRE9602428A)](arrete-du-18-octobre-1996-agre9602428a)
 - [Arrêté du 18 octobre 1996 (AGRE9602429A)](arrete-du-18-octobre-1996-agre9602429a)
-- [Arrêté du 18 octobre 1996 (AGRG9601727A)](arrete-du-18-octobre-1996-agrg9601727a)
 - [Arrêté du 18 octobre 1996 (ECOR9605014A)](arrete-du-18-octobre-1996-ecor9605014a)
 - [Arrêté du 18 octobre 1996 (INTD9600463A)](arrete-du-18-octobre-1996-intd9600463a)
 - [Arrêté du 18 octobre 1996 (INTD9600465A)](arrete-du-18-octobre-1996-intd9600465a)
