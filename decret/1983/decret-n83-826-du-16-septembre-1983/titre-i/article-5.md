@@ -1,0 +1,3 @@
+# Article 5
+
+Les conventions particulières transférées par l'Etat à l'office ou conclues par ce dernier sur la base de la convention passée entre l'Etat et la région peuvent être modifiées en cours d'exécution, par avenants, en matière de dessertes ou de tarifs, dès lors que ces avenants n'entraînent, pour chaque mode de transport et type de trafic, ni remise en cause des modalités d'application du principe de continuité territoriale, ni aggravation des charges du service considéré qui ne serait pas compensée par les ressources supplémentaires prévues au quatrième alinéa de l'article 19 de la loi du 30 juillet 1982.
