@@ -374,6 +374,8 @@
 - [Arrêté du 12 août 1997 (AGRA9701689A)](arrete-du-12-aout-1997-agra9701689a)
 - [Arrêté du 12 août 1997 (AGRM9701745A)](arrete-du-12-aout-1997-agrm9701745a)
 - [Arrêté du 12 décembre 1996 (INTC9700073A)](arrete-du-12-decembre-1996-intc9700073a)
+- [Arrêté du 12 décembre 1997 (DEFA9751022A)](arrete-du-12-decembre-1997-defa9751022a)
+- [Arrêté du 12 décembre 1997 (DEFA9751026A)](arrete-du-12-decembre-1997-defa9751026a)
 - [Arrêté du 12 février 1997 (AGRS9700324A)](arrete-du-12-fevrier-1997-agrs9700324a)
 - [Arrêté du 12 février 1997 (EQUS9700194A)](arrete-du-12-fevrier-1997-equs9700194a)
 - [Arrêté du 12 février 1997 (INDB9700103A)](arrete-du-12-fevrier-1997-indb9700103a)
