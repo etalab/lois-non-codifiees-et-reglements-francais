@@ -1,3 +1,0 @@
-# Article 3
-
-La notification des propositions d'expulsion formulées à l'encontre des étrangers remplissant les conditions prévues par l'article 24 de l'ordonnance du 2 novembre 1945 est effectuée à la diligence du préfet de leur domicile ou de leur résidence habituelle [*autorité compétente*]. Un bulletin de notification mentionnant succinctement les motifs de la mesure envisagée, est remis à l'intéressé qui, s'il ne fait pas connaître sur le champ à l'agent notificateur son désir d'être entendu par la commission prévue à l'article 25 de l'ordonnance précitée, dispose d'un délai de huit jours, à compter de la date de notification pour en aviser le préfet.
