@@ -11,3 +11,7 @@ III. - Dans la limite totale de 3 milliards de francs, la Caisse d'amortissement
 - pour le reliquat, une recette exceptionnelle concourant au financement du déficit prévisionnel de l'exercice 1996 compte non tenu de la recette visée au 3° de l'article L. 612-1 du code de la sécurité sociale ;
 
 IV. - La caisse verse chaque année au budget général de l'Etat, de l'année 1996 à l'année 2000, une somme de 12,5 milliards de francs et, en 2001, une somme de 12,15 milliards de francs. Elle verse une somme de 3 milliards d'euros chaque année, de 2002 à 2005.
+
+V. - La caisse verse le 1er avril 2003 la somme de 1 096 969 089,92 Euros à l'Agence centrale des organismes de sécurité sociale au profit de la Caisse nationale de l'assurance maladie des travailleurs salariés, de la Caisse nationale des allocations familiales et de la Caisse nationale d'assurance vieillesse des travailleurs salariés.
+
+Elle verse à la même date, au titre de la créance relative aux exonérations de cotisations énumérées au 1° de l'article L. 131-9 du code de la sécurité sociale constatée dans les comptes de chacun des régimes au titre de l'exercice 2000, la somme de 171 465 344,88 Euros à la Caisse centrale de la mutualité sociale agricole, la somme de 10 484 547,75 Euros à la Caisse de retraite et de prévoyance des clercs et employés de notaires, la somme de 2 118 360,20 Euros à la Caisse autonome nationale de la sécurité sociale dans les mines et la somme de 1 801 493,21 Euros à l'Etablissement national des invalides de la marine.
