@@ -192,6 +192,8 @@
 - [Décret n°96-156 du 26 février 1996 (INDX9600013D)](decret-n96-156-du-26-fevrier-1996-indx9600013d)
 - [Décret n°96-253 du 26 mars 1996 (INTC9600050D)](decret-n96-253-du-26-mars-1996-intc9600050d)
 - [Décret n°96-255 du 26 mars 1996 (ECOT9620006D)](decret-n96-255-du-26-mars-1996-ecot9620006d)
+- [Décret n°96-273 du 26 mars 1996 (PRMG9570378D)](decret-n96-273-du-26-mars-1996-prmg9570378d)
+- [Décret n°96-274 du 26 mars 1996 (TASS9620022D)](decret-n96-274-du-26-mars-1996-tass9620022d)
 - [Décret n°96-61 du 26 janvier 1996 (FPPA9610002D)](decret-n96-61-du-26-janvier-1996-fppa9610002d)
 - [Décret n°96-69 du 26 janvier 1996 (TASS9523421D)](decret-n96-69-du-26-janvier-1996-tass9523421d)
 - [Décret n°96-157 du 27 février 1996 (JUSB9610056D)](decret-n96-157-du-27-fevrier-1996-jusb9610056d)
