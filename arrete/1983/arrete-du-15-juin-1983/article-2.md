@@ -1,5 +1,3 @@
 # Article 2
 
-Les salaires antérieurs au 1er janvier 1983 ayant servi de base au calcul d'indemnités journalières prévues à l'article L. 448 du code de la sécurité sociale et correspondant à un arrêt de travail d'une durée supérieure à trois mois sont affectés des coefficients de majoration fixés à l'article 1er ci-dessus à compter du 1er juillet 1983.
-
-Les salaires journaliers revalorisés ne pourront excéder le maximum prévu à l'article L. 449 (paragraphe 1er) du code de la sécurité sociale.
+La participation du fonds de compensation est versée aux collectivités sur production d'une demande remboursement (fournie par la Caisse des dépôts et consignations sous la référence modèle F 3) à laquelle doit être joint un double authentifié de l'état des sommes ordonnancées sur la caisse du comptable chargé de payer le revenu de remplacement au bénéficiaire de la cessation anticipée d'activité. Lors de la réception du remboursement, le comptable devra aviser le fonds du montant des sommes non effectivement réglées par ses soins.
