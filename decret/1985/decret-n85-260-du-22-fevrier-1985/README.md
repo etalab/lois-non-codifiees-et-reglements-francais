@@ -2,7 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
-- [SECTION II : Dispositions relatives à la répartition de la part principale entre les communes de métropole](section-ii)
+- [SECTION II : Dispositions relatives à la répartition de la seconde part entre les communes de métropole et leurs groupements dotés d'une fiscalité propre.](section-ii)
 - [Article 3](article-3.md)
 - [SECTION III : Dispositions relatives à la répartition de la seconde part entre les communes de métropole](section-iii)
 - [SECTION IV : Dispositions relatives à l'attribution de la part résiduelle.](section-iv)
