@@ -40,11 +40,19 @@ A l'occasion de la notification du montant du solde et des paiements partiels d�
 
 12.41. En ce qui concerne les cotraitants mentionnés au 1 de l'article 3 ainsi que les sous-traitants payés directement, les acomptes et les décomptes sont décomposés en autant de parties qu'il y a de personnes à payer séparément.
 
-Lorsqu'un sous-traitant est payé directement, le titulaire ou le mandataire joint au projet de décompte une attestation indiquant la somme à prélever sur celles qui lui sont dues, ou qui sont dues à un cotraitant, pour la partie de la prestation exécutée, et que la personne responsable du marché devra faire régler à ce sous-traitant.
+Lorsqu'un sous-traitant est payé directement, le titulaire ou le mandataire joint au projet de décompte une attestation indiquant la somme à prélever sur celles qui lui sont dues, ou qui sont dues à un cotraitant, pour la partie de la prestation exécutée, et que la personne responsable du marché devra faire régler à ce sous-traitant.    12.411. Lorsque le règlement est effectué par un moyen autre que la lettre de change-relevé, il est fait application des dispositions ci-après.
 
-Les mandatements au profit des divers intéressés sont établis dans la limite du montant des états d'acomptes et de solde ainsi que des attestations prévues à l'alinéa précédent.
+Les mandatements au profit des divers intéressés sont établis dans la limite du montant des états d'acomptes et de solde ainsi que des attestations prévues au deuxième alinéa du 41 de l'article 12.
 
 Le montant total des mandatements effectués au profit d'un sous-traitant ramené aux conditions du mois d'établissement des prix du marché ne peut excéder le montant à sous-traiter qui est stipulé dans le marché, ou en dernier lieu l'avenant ou l'acte spécial.
+
+12.412. Lorsque le règlement est effectué au moyen d'une lettre de change-relevé, il est fait application des dispositions ci-après.
+
+Sauf stipulation contraire de l'avenant ou de l'acte spécial, le paiement des sous-traitants s'effectue dans les conditions prévues au marché.
+
+Le montant total des autorisations d'émettre une lettre de change-relevé au profit des divers intéressés est établi dans la limite du montant des états d'acomptes et de solde ainsi que des attestations prévues au deuxième alinéa du 41 de l'article 12.
+
+Le montant total des autorisations d'émettre une lettre de change-relevé établies au profit d'un sous-traitant, ramené aux conditions du mois d'établissement des prix du marché, ne peut excéder le montant à sous-traiter qui est stipulé dans le marché ou en dernier lieu l'avenant ou l'acte spécial.
 
 12.42. En cas de cotraitance, le mandataire est seul habilité à présenter les demandes d'acompte et les projets de décompte, et à accepter les décomptes ; seules sont recevables les réclamations formulées ou transmises par ses soins.
 
@@ -52,9 +60,9 @@ Le montant total des mandatements effectués au profit d'un sous-traitant ramen�
 
 S'il s'agit de demandes d'acompte ou de projets de décompte d'un sous-traitant d'un cotraitant, elles doivent également être acceptées par ce dernier.
 
-12.44. Les mandatements à faire au sous-traitant sont effectués sur la base des pièces justificatives acceptées par le titulaire, conformément aux stipulations du présent article, et transmises par ce titulaire à la personne responsable du marché.
+12.44. Le mandatement et, le cas échéant, les autorisations d'émettre une lettre de change-relevé au profit des sous-traitants sont effectués sur la base des pièces justificatives acceptées par le titulaire, conformément aux stipulations du présent article, et transmises par lui ou par le mandataire à la personne responsable du marché.
 
-Dès réception des pièces mentionnées à l'alinéa précédent, la personne responsable du marché avise directement le sous-traitant de la date de cette réception et lui indique les sommes dont le paiement à son profit a été accepté par le titulaire.
+Dès réception de ces pièces, la personne responsable du marché avise directement le sous-traitant de la date de cette réception et lui indique les sommes dont le paiement à son profit a été accepté par le titulaire.
 
 Le titulaire dispose d'un délai de quinze jours, comptés à partir de la réception des pièces justificatives servant de base au paiement direct, pour les revêtir de son acceptation ou pour signifier au sous-traitant son refus motivé de le faire. Passé ce délai, le silence du titulaire vaut acceptation.
 
@@ -62,19 +70,21 @@ Dans le cas où le titulaire n'a, dans le délai de quinze jours suivant la réc
 
 La personne responsable du marché met aussitôt en demeure le titulaire de lui faire la preuve, dans un délai de quinze jours, qu'il a opposé un refus motivé à son sous-traitant. Dès qu'elle a connaissance de la réception de cette mise en demeure, la personne responsable du marché en informe le sous-traitant.
 
-A l'expiration de ce délai, et au cas où le titulaire n'est pas en mesure d'apporter cette preuve, la personne responsable du marché dispose du délai prévu au 5 du présent article pour mandater les sommes dues au sous-traitant à concurrence des sommes restant dues au titulaire.
+A l'expiration de ce délai, et au cas où le titulaire n'est pas en mesure d'apporter cette preuve, la personne responsable du marché dispose des délais prévus au 6 et au 7 de l'article 12 pour mandater les sommes à régler ou envoyer l'autorisation d'émettre une lettre de change-relevé au sous-traitant.
 
-Un avis de mandatement est adressé au titulaire et au sous-traitant.
+Le montant de ces sommes ne peut excéder le montant des sommes restant dues au titulaire.
 
-Les sommes réclamées par le sous-traitant dans les conditions fixées par les articles 6 et 8 de la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance et qui sont retenues sur celles qui restent à payer au titulaire ne portent pas intérêt.
+Lorsque le règlement est effectué par un moyen autre que la lettre de change-relevé, un avis de mandatement est adressé à l'entrepreneur et au sous-traitant.
 
-12.5. Délais de mandatement.
+Les sommes réclamées par le sous-traitant dans les conditions fixées par les articles 6 et 8 ou 12 et 13 de la loi n° 75-1334 du 31 décembre 1975 relative à la sous-traitance et qui sont retenues sur celles qui restent à payer au titulaire ne portent pas intérêt.
 
-Les délais dont dispose la personne publique pour procéder au mandatement des acomptes, du solde et des paiements partiels définitifs sont fixés comme suit :
+12.5. Règlement par un moyen autre que la lettre de change-relevé.    Lorsque le règlement est effectué par un moyen autre que la lettre de change-relevé, il est fait application des dispositions ci-après.    Les délais dont dispose la personne publique pour procéder au mandatement des acomptes, du solde et des paiements partiels définitifs sont fixés comme suit :
 
 Le mandatement d'un acompte doit avoir lieu dans les quarante-cinq jours comptés à partir de la réception de la demande du titulaire accompagnée des justifications mentionnées au 2 du présent article ;    Le mandatement du solde ou des paiements partiels définitifs doit intervenir dans les quarante-cinq jours suivant la réception par la personne publique du projet de décompte.
 
-En cas de contestation sur le montant de la somme due, la personne responsable du marché fait mandater, dans les délais ci-dessus, les sommes qu'elle a admises. Le complément est mandaté, le cas échéant, après règlement du désaccord ; ce complément donne lieu à des intérêts moratoires au profit du titulaire.
+Lorsque, en application des règles de la comptabilité publique, le comptable assignataire de la dépense suspend le paiement, la personne responsable du marché en informe le titulaire. Le mandatement suivi d'une suspension de paiement est assimilable au défaut de mandatement pour le calcul des intérêts moratoires.
+
+En cas de contestation sur le montant de la somme due, la personne responsable du marché fait mandater, dans les délais prévus au deuxième alinéa, les sommes qu'elle a admises. Le complément est mandaté, le cas échéant, après règlement du désaccord ; ce complément donne lieu à des intérêts moratoires au profit du titulaire.
 
 Toutefois, si la personne responsable du marché est empêchée du fait du titulaire, ou d'un de ses sous-traitants, de procéder à une opération nécessaire au mandatement, les délais sont suspendus pour une période égale au retard qui en est résulté.
 
@@ -84,13 +94,45 @@ Elle prend fin au jour de réception par la personne responsable du marché de l
 
 Si le délai de mandatement restant à courir à compter de la fin de la suspension est inférieur à quinze jours, l'ordonnateur dispose toutefois pour mandater d'un délai de quinze jours.
 
-12.6. Notification du mandatement.
+12.6. Règlement au moyen d'une lettre de change-relevé.
 
-Lorsque, en application des règles de la comptabilité publique, le comptable assignataire de la dépense suspend le paiement, la personne responsable du marché en informe le titulaire. Le mandatement suivi d'une suspension de paiement est assimilable au défaut de mandatement pour le calcul des intérêts moratoires.
+Lorsque le règlement est effectué au moyen d'une lettre de change-relevé, il est fait application des dispositions ci-après.
+
+Les prestations fournies sont rémunérées grâce à l'émission par le titulaire, sur autorisation de la personne publique, de lettres de change-relevé selon la réglementation en vigueur.
+
+L'envoi de l'autorisation d'émettre une lettre de change-relevé intervient dans le délai fixé dans le marché et courant à compter de la date de remise, par le titulaire de son décompte, de sa facture ou de son mémoire. Ce délai ne peut excéder 30 jours.
+
+Dans le cas d'entrepreneurs groupés, il est adressé autant d'autorisations d'émettre une lettre de change-relevé qu'il y a d'entrepreneurs à payer séparément, à concurrence du montant dû à chacun.
+
+Chaque autorisation ne constitue en aucun cas un engagement définitif de la personne publique.
+
+En cas de contestation sur le montant de la somme due, la personne responsable du marché envoie, dans le délai prévu au troisième alinéa, une autorisation d'émettre la lettre de change-relevé pour les sommes qu'elles a admises. Le complément fait l'objet, le cas échéant, d'une nouvelle autorisation d'émettre une lettre de change-relevé, après règlement du différend ou du litige.
+
+Toutefois, si la personne responsable du marché est empêchée, du fait du titulaire ou de l'un de ses sous-traitants, de procéder à une opération nécessaire à l'envoi de l'autorisation, ledit délai est suspendu pour une période égale au retard qui en est résulté.
+
+La suspension du délai ne peut intervenir qu'une seule fois et par l'envoi par la personne responsable du marché au titulaire, huit jours au moins avant l'expiration du délai d'envoi, d'une lettre recommandée avec demande d'avis de réception postal lui faisant connaître les raisons qui, imputables au titulaire ou à l'un de ses sous-traitants, s'opposent à l'envoi de l'autorisation et précisant notamment les pièces à fournir ou à compléter. Cette lettre doit indiquer qu'elle a pour effet de suspendre le délai d'envoi de l'autorisation.
+
+La suspension débute du jour de réception par le titulaire de cette lettre recommandée.
+
+Elle prend fin au jour de réception par la personne responsable du marché de la lettre recommandée avec demande d'avis de réception postal envoyée par le titulaire comportant la totalité des justifications qui lui ont été réclamées ainsi qu'un bordereau des pièces transmises.
+
+Le délai d'envoi de l'autorisation ouvert à la personne responsable du marché à compter de la fin de la suspension ne saurait, en aucun cas, être inférieur à quinze jours.
+
+La lettre de change-relevé ne peut pas faire l'objet d'une acceptation.
+
+En cas de contestation sur le montant de la somme due, postérieure à l'envoi de l'autorisation, il peut être procédé à un paiement partiel de la lettre de change-relevé. Le complément est payé, le cas échéant, après règlement du différend ou du litige, par l'un des moyens de paiement prévus par la réglementation de la comptabilité publique.
+
+Un règlement consécutif à un défaut de paiement, ou à un paiement partiel d'une lettre de change-relevé à sa date d'échéance, est effectué dans les conditions prévues à l'alinéa précédent.
 
 12.7. Intérêts moratoires.
 
-S'il n'est pas justifié, le défaut de mandatement dans les délais indiqués au 5 du présent article fait courir de plein droit, et sans autre formalité, des intérêts moratoires calculés depuis le jour qui suit l'expiration du délai jusqu'au quinzième jour inclus suivant la date du mandatement.
+Le titulaire a droit à des intérêts moratoires dans les conditions réglementaires :
+
+en cas de retard dans le mandatement tel qu'il est prévu au 5 du présent article, sauf si ce retard résulte de l'application des dispositions du 2 de l'article 6 ;
+
+en cas de retard d'envoi de l'autorisation d'émettre une lettre de change-relevé, tel qu'il est prévu au 6 du présent article, sauf si ce retard résulte de l'application des dispositions du 2 de l'article 6 ;
+
+en cas de défaut de paiement, partiel ou total, de la lettre de change-relevé à la date d'échéance figurant sur l'autorisation, tel qu'il est prévu au 7 du présent article.
 
 12.8. Action directe d'un sous-traitant.
 
