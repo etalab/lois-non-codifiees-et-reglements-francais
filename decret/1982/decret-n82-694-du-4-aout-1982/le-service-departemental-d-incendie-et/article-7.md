@@ -16,6 +16,6 @@ Des subventions aux communes centres de secours à titre de participation aux tr
 
 Des subventions pour l'acquisition de matériel de première intervention destiné aux communes qui ne sont pas centres de secours ;
 
-Des indemnités de fonctions prévues par les textes réglementaires ;
+Des indemnités de fonctions prévues par les textes réglementaires et notamment les indemnités de fonctions aux chefs des centres de secours et aux chefs de corps ainsi qu'aux gradés mécaniciens ;
 
 Les dépenses d'acquisition du matériel susceptible d'être mis à la disposition des communes centres de secours.

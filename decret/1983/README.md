@@ -46,6 +46,7 @@
 - [Décret n°83-475 du 10 juin 1983](decret-n83-475-du-10-juin-1983)
 - [Décret n°83-479 du 10 juin 1983](decret-n83-479-du-10-juin-1983)
 - [Décret n°83-487 du 10 juin 1983](decret-n83-487-du-10-juin-1983)
+- [Décret n°83-509 du 10 juin 1983](decret-n83-509-du-10-juin-1983)
 - [Décret n°83-89 du 11 février 1983](decret-n83-89-du-11-fevrier-1983)
 - [Décret n°86-1035 du 11 septembre 1986](decret-n86-1035-du-11-septembre-1986)
 - [Décret n°83-385 du 11 mai 1983](decret-n83-385-du-11-mai-1983)
