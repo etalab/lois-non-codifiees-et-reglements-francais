@@ -51,6 +51,14 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 </td>
 </tr>
 <tr>
+<td>Paris (12e bureau) (création)<br/>
+</td>
+<td>2e et 4e arrondissements <br/>
+</td>
+<td>Paris (1er bureau) <br/>
+</td>
+</tr>
+<tr>
 <td width="151">
 <br/>
 <br/>

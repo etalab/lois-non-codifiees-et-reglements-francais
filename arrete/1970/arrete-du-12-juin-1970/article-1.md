@@ -2246,7 +2246,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Paris (1er bureau) </p>
 </td>
 <td valign="top" width="416">
-<p>1er, 2e, 3e, 4e et 8e arrondissement.</p>
+<p>1er, 3e et 8e arrondissements.</p>
 </td>
 </tr>
 <tr>
@@ -2338,6 +2338,12 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <td valign="top" width="416">
 <p>19e, et 20e arrondissement.</p>
 </td>
+</tr>
+<tr>
+<td/>
+<td>Paris (12e bureau) <br/>
+</td>
+<td>2e et 4e arrondissements.  </td>
 </tr>
 <tr>
 <td valign="top" width="132">
