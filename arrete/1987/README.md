@@ -543,6 +543,7 @@
 - [Arrêté du 25 mars 1987 (REST8700110A)](arrete-du-25-mars-1987-rest8700110a)
 - [Arrêté du 25 novembre 1987 (ASET8703829A)](arrete-du-25-novembre-1987-aset8703829a)
 - [Arrêté du 25 novembre 1987 (JUSX8798617A)](arrete-du-25-novembre-1987-jusx8798617a)
+- [Arrêté du 26 avril 1990 (AGRS9000993A)](arrete-du-26-avril-1990-agrs9000993a)
 - [Arrêté du 26 décembre 1986](arrete-du-26-decembre-1986)
 - [Arrêté du 26 février 1987 (EQUC8700013A)](arrete-du-26-fevrier-1987-equc8700013a)
 - [Arrêté du 26 février 1987 (EQUC8700014A)](arrete-du-26-fevrier-1987-equc8700014a)
