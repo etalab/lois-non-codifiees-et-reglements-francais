@@ -1,3 +1,7 @@
 # Article 7
 
-L'inscription sur la liste des médicaments remboursables, éventuellement assortie de la clause prévue à l'alinéa 2 de l'article 2 ci-dessus, ou la radiation de cette liste est arrêtée par le ministre chargé de la santé publique et le ministre chargé de la sécurité sociale, sur proposition de la commission [*compétente*] constituée à cet effet en ce qui concerne l'inscription, après avis de la même commission en ce qui concerne la radiation.
+La demande d'inscription sur la liste des médicaments remboursables est présentée au ministre chargé de la santé par les titulaires de l'autorisation de mise sur le marché [*formalités obligatoires*].
+
+Le titulaire de l'autorisation de mise sur le marché est tenu de fournir au ministre chargé de la santé, sur la demande de celui-ci, toutes les informations nécessaires à l'appréciation des conditions d'inscription ou de maintien sur la liste. Lorsque intervient une modification des données sur lesquelles a été fondée l'inscription, le titulaire de l'autorisation de mise sur le marché est tenu d'en informer le ministre et de lui fournir les éléments d'appréciation qu'il demande.
+
+L'absence de respect de ces dispositions par le titulaire de l'autorisation de mise sur le marché peut entraîner la radiation des produits concernés [*sanction*].

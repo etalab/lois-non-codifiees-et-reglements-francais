@@ -1,3 +1,3 @@
 # Article 5
 
-Sont rayés de la liste prévue à l'article 2, par arrêté conjoint du ministre chargé de la Santé publique et du ministre chargé de la sécurité sociale, les médicaments qui ne sont pas régulièrement exploités ou qui ont cessé d'être nécessaires à une thérapeutique efficace ou qui ne peuvent plus figurer sur la liste en vertu des dispositions de l'article 4 ci-dessus.
+Peuvent être rayés de la liste prévue à l'article 2, par arrêté du ministre de la santé et de la sécurité sociale, les médicaments qui ne sont plus régulièrement exploités ou qui ne sont plus indispensables à la thérapeutique, ou qui ne peuvent plus figurer sur la liste en vertu des dispositions des articles 3 et 4.

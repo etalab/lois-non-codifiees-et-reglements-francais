@@ -1,5 +1,5 @@
 # Article 12
 
-Les fabricants des produits [*médicaments*] sur lesquels la commission est appelée à se prononcer sont invités à présenter leurs observations orales ou écrites devant chacune des sections [*procédure*].
+La commission [*de la transparence*] peut faire appel à des experts et à des rapporteurs désignés par le ministre chargé de la santé.
 
-En cas de radiation, la notification de la décision au fabricant intéressé comporte la mention [*obligatoire*] des motifs de la mesure.
+Les conditions et les modalités d'indemnisation éventuelle des membres, rapporteurs et experts de la commission sont fixées conformément aux dispositions de l'article 4 du décret du 10 juillet 1948 susvisé.
