@@ -17,3 +17,5 @@ e) Du 1er août 1993 pour les fonctionnaires mentionnés du 21° au 34° dudit a
 " g) Du 1er août 1995 pour les fonctionnaires mentionnés du 46° au 50° dudit article. "
 
 " h) Du 1er août 1995 pour les fonctionnaires mentionnés du 45° (m) au 45° (q) dudit article. "
+
+" i) Du 1er août 1996 pour les fonctionnaires mentionnés du 45° r au 45° v et du 51° au 60° dudit article. "
