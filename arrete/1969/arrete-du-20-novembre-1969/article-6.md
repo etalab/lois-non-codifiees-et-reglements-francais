@@ -1,3 +1,0 @@
-# Article 6
-
-La contribution patronale imposée aux employeurs telle qu'elle résulte des dispositions de l'article 5 ci-dessus est fixé par une décision du conseil d'administration de la caisse nationale de garantie des ouvriers dockers. Cette décision est immédiatement adressée à chacun des ministres de tutelle. Si, dans les quinze jours de cette transmission, aucun des ministres de tutelle n'a notifié son opposition au président du conseil d'administration, la décision fait l'objet d'une publication au Journal officiel de la République française et est applicable de plein droit au premier jour de la quinzaine civile suivant la date de cette publication [*délai, accord tacite*].
