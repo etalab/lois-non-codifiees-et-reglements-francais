@@ -1,3 +1,0 @@
-# Article 17
-
-Le directeur général de la santé est chargé de l'application du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -15,7 +15,6 @@
 - [Décret n°75-19 du 8 janvier 1975](decret-n75-19-du-8-janvier-1975)
 - [Décret n°75-223 du 8 avril 1975](decret-n75-223-du-8-avril-1975)
 - [Décret n°75-465 du 9 juin 1975](decret-n75-465-du-9-juin-1975)
-- [Décret n°75-928 du 9 octobre 1975](decret-n75-928-du-9-octobre-1975)
 - [Décret n°75-1202 du 11 décembre 1975](decret-n75-1202-du-11-decembre-1975)
 - [Décret n°75-754 du 11 août 1975](decret-n75-754-du-11-aout-1975)
 - [Décret n°74-737 du 12 août 1974](decret-n74-737-du-12-aout-1974)
