@@ -8,6 +8,7 @@
 - [Décret n°83-781 du 1 septembre 1983](decret-n83-781-du-1-septembre-1983)
 - [Décret n°84-894 du 1 octobre 1984](decret-n84-894-du-1-octobre-1984)
 - [Décret n°84-895 du 1 octobre 1984](decret-n84-895-du-1-octobre-1984)
+- [Décret du 2 novembre 1983](decret-du-2-novembre-1983)
 - [Décret n°83-153 du 2 mars 1983](decret-n83-153-du-2-mars-1983)
 - [Décret n°83-162 du 2 mars 1983](decret-n83-162-du-2-mars-1983)
 - [Décret n°83-68 du 2 février 1983](decret-n83-68-du-2-fevrier-1983)
