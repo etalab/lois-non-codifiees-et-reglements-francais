@@ -1,8 +1,8 @@
 # Article 3
 
-Des personnes physiques remplissant les conditions requises pour exercer la profession de commissaire-priseur, mais qui ne sont pas titulaires d'un office de commissaire-priseur, peuvent constituer entre elles et, dans les conditions prévues à l'article 5 de la loi n° 90-1258 du 31 décembre 1990 susvisée, avec les personnes mentionnées à cet article une société d'exercice libéral qui peut être nommée commissaire-priseur en remplacement du titulaire d'un office existant.
+Des personnes physiques remplissant les conditions requises pour exercer la profession de commissaire-priseur judiciaire, mais qui ne sont pas titulaires d'un office de commissaire-priseur judiciaire, peuvent constituer entre elles et, dans les conditions prévues et aux articles 5 et 5-1 de la loi n° 90-1258 du 31 décembre 1990 susvisée, avec les personnes mentionnées à cet article une société d'exercice libéral qui peut être nommée commissaire-priseur judiciaire en remplacement du titulaire d'un office existant.
 
-Une ou plusieurs de ces personnes peuvent également constituer dans les mêmes conditions, avec une personne physique titulaire d'un office de commissaire-priseur, une société d'exercice libéral qui peut être nommée :
+Une ou plusieurs de ces personnes peuvent également constituer dans les mêmes conditions, avec une personne physique titulaire d'un office de commissaire-priseur judiciaire, une société d'exercice libéral qui peut être nommée :
 
 a) Dans cet office ;
 
@@ -10,7 +10,7 @@ b) Si ledit office est supprimé ou pourvu d'un nouveau titulaire, dans un autre
 
 c) Dans un office créé dans le même département.
 
-Des personnes physiques titulaires d'offices de commissaire-priseur situés dans le même département peuvent constituer entre elles ou avec une ou plusieurs personnes physiques remplissant les conditions requises pour exercer la profession de commissaire-priseur ou avec celles mentionnées à l'article 5 de la loi du 31 décembre 1990 précitée une société d'exercice libéral qui peut être nommée :
+Des personnes physiques titulaires d'offices de commissaire-priseur judiciaire situés dans le même département peuvent constituer entre elles ou avec une ou plusieurs personnes physiques remplissant les conditions requises pour exercer la profession de commissaire-priseur judiciaire ou avec celles mentionnées à l'article 5 de la loi du 31 décembre 1990 précitée une société d'exercice libéral qui peut être nommée :
 
 a) Dans l'office dont l'un des associés est titulaire, en remplacement de cet associé ;
 
