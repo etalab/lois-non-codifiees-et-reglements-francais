@@ -378,6 +378,7 @@
 - [Arrêté du 29 juin 1989 (MCCK8900367A)](arrete-du-29-juin-1989-mcck8900367a)
 - [Arrêté du 29 mars 1989 (SPSH8900799A)](arrete-du-29-mars-1989-spsh8900799a)
 - [Arrêté du 29 mai 1989 (AGRS8900895A)](arrete-du-29-mai-1989-agrs8900895a)
+- [Arrêté du 29 mai 1989 (EQUV8900258A)](arrete-du-29-mai-1989-equv8900258a)
 - [Arrêté du 29 mai 1989 (INDD8900408A)](arrete-du-29-mai-1989-indd8900408a)
 - [Arrêté du 29 mai 1989 (MENB8901256A)](arrete-du-29-mai-1989-menb8901256a)
 - [Arrêté du 29 mai 1989 (SPSP8901134A)](arrete-du-29-mai-1989-spsp8901134a)
