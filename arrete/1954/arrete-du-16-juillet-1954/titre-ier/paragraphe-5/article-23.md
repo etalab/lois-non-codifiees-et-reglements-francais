@@ -1,6 +1,6 @@
 # Article 23
 
-Les indicateurs de changement de direction doivent être conformes à un type agréé.
+Les indicateurs de changement de direction doivent être conformes à un type agréé. Les lampes équipant ces feux doivent également être conformes à un type agréé.
 
 L'agrément ci-dessus est accordé aux dispositifs qui satisfont aux conditions d'un cahier des charges approuvé par le ministre des transports.
 

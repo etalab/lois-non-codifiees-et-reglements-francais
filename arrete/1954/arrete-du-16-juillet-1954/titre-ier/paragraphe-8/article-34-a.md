@@ -12,6 +12,6 @@ Les feux arrière de brouillard ne doivent pouvoir être allumés que lorsque le
 
 Il doit exister un témoin d'enclenchement des feux arrière de brouillard constitué par un voyant lumineux à intensité fixe et de couleur orangée.
 
-Ils doivent être conformes à un type agréé par le ministre des transports.
+Ces feux et leurs lampes doivent être conformes à un type agréé.
 
 Les dispositifs conformes à un cahier des charges ayant fait l'objet d'un accord international auquel la France participe et qui, après essais, ont reçu l'agrément de l'un quelconque des pays participant audit accord, sont considérés comme ayant reçu l'agré­ment prévu à l'alinéa ci-dessus.

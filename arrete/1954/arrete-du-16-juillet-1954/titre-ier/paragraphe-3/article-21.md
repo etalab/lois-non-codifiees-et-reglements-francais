@@ -8,4 +8,6 @@ En aucun cas l'éclairement de la plaque d'immatriculation ne doit, pour un obse
 
 La source lumineuse ne doit pas être directement visible pour un autre conducteur s'approchant par l'arrière.
 
+Toutefois, pour les véhicules automoteurs spécialisés (VASP) carrossés en bennes à ordures ménagères (BONI), la hauteur maximale de la plage éclairante de tous les feux est portée à 2,50 mètres.
+
 Les dispositifs conformes à un cahier des charges ayant fait l'objet d'un accord international auquel la France participe et qui, après essais, ont reçu l'agrément de l'un quelconque des pays participant audit accord, sont considérés comme observant les prescriptions ci-dessus.

@@ -1,6 +1,6 @@
 # Article 20
 
-Les feux d'encombrement (feux de gabarit) doivent être conformes à un type agréé.
+Les feux d'encombrement (feux de gabarit) doivent être conformes à un type agréé. Les lampes équipant ces feux doivent également être conformes à un type agréé.
 
 Tout feu d'encombrement (feu de gabarit) doit être placé le plus près possible de l'extrémité de la largeur hors tout du véhicule ou de son chargement et à la hauteur maximale possible au-dessus du sol.
 

@@ -26,7 +26,9 @@ a) Projecteur assurant la fonction de feu de route et/ou de feu de croisement et
 
 Toutefois, sur les motocyclettes autres que les motocyclettes légères, un projecteur au moins, assurant la fonction de feu de route et de feu de croisement, doit porter la marque d'homologation internationale prévue par le règlement n° 20 de Genève.
 
-b) Feu de position avant, feu de position arrière, feu stop, indicateurs de changement de directions, dispositif d'éclairage de la plaque d'immatriculation arrière : marques d'homologation prévues par les règlements n° 7 ou n° 50 de Genève ou la directive n° 76-758 C.E.E. du 27 juillet 1976.
+b) Feu de position avant, feu de position arrière, feu stop, indicateurs de changement de direction, dispositifs d'éclairage de la plaque d'immatriculation arrière : marques d'homologation prévues par les règlements n° 6, n° 7 ou n° 50 de Genève ou la directive C.E.E. n° 76-758 du 27 juillet 1976.
+
+Toutefois, le feu de position avant des motocyclettes peut ne pas être homologué et ne pas porter de marque d'homologation.
 
 Toutefois, le feu de position avant des motocyclettes peut ne pas être homologué et ne pas porter de marque d'homologation.
 

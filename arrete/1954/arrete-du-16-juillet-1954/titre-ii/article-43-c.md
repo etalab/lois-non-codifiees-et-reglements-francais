@@ -1,5 +1,7 @@
 # Article 43 c
 
+Les lampes équipant ces feux doivent également être conformes à un type agréé.
+
 c) La plage éclairante doit se trouver à une distance du sol comprise entre 0,35 mètre et 1,90 mètre ou 2,10 mètres pour les véhicules pour lesquels il n'est pas possible pratiquement de res­pecter la limite de 1,90 mètre. Cette distance doit être mesurée sur le véhicule à vide.
 
 d) Pour les véhicules dont la forme extérieure est dissymé­trique, l'une ou l'autre des dispositions suivantes doit être adoptée :
@@ -10,7 +12,7 @@ Angle horizontal.
 
 Pour les deux feux rouges arrière
 
-Soit 45 degrés vers l'intérieur et 80 degrés vers l'extérieur ;  Soit 80 degrés vers l'intérieur et 45 degrés vers l'extérieur.
+Soit 45 degrés vers l'intérieur et 80 degrés vers l'extérieur ; Soit 80 degrés vers l'intérieur et 45 degrés vers l'extérieur.
 
 Angle vertical.
 

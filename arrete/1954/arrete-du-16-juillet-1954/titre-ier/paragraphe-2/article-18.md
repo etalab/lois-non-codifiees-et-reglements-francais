@@ -1,6 +1,6 @@
 # Article 18
 
-Les feux rouges arrière doivent être conformes à un type agréé.
+Les feux rouges arrière doivent être conformes à un type agréé. Les lampes équipant ces feux doivent également être conformes à un type agréé.
 
 Un feu rouge arrière doit être placé de telle sorte que le point de la plage éclairante le plus éloigné du plan longitudinal de symétrie du véhicule se trouvé à moins de 0,40 mètre de l'extrémité de la largeur hors tout du véhicule et que le point de la plage éclairante le plus proche du plan de symétrie soit à plus de 0,30 mètre de ce dernier. Toutefois cette dernière limite est ramenée à 0,20 mètre lorsque la largeur hors tout du véhicule est inférieure à 1,30 mètre.
 

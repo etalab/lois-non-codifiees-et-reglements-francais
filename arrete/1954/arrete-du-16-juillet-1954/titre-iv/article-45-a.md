@@ -1,6 +1,6 @@
 # Article 45 a
 
-Le projecteur pour cyclomoteur prévu à l'article R. 195 (2' alinéa) du code de la route doit être conforme à un type agréé.
+Le projecteur pour cyclomoteur prévu à l'article R. 195 (2e alinéa), du code de la route et la source lumineuse l'équipant doivent être conformés à un type agréé.
 
 L'agrément est accordé aux dispositifs qui, satisfont aux conditions d'un cahier des charges approuvé par le ministre des transports.
 
