@@ -6,9 +6,9 @@ Le conseil d'administration de l'Ecole polytechnique comprend :
 
 - le directeur général de l'école, vice-président ;
 
-- six membres représentant l'Etat :
+- sept membres représentant l'Etat :
 
-- un représentant du ministre chargé des armées ;
+- deux représentants du ministre chargé des armées ;
 
 - un représentant du ministre chargé de la recherche ;
 
