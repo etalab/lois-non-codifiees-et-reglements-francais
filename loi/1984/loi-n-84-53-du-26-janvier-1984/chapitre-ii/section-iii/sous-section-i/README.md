@@ -1,4 +1,4 @@
-# Sous-Section I : Comités techniques paritaires.
+# Sous-Section I : Commissions administratives paritaires.
 
 - [Article 28](article-28.md)
 - [Article 29](article-29.md)
