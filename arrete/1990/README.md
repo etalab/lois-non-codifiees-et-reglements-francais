@@ -455,7 +455,6 @@
 - [Arrêté du 15 novembre 1990 (LOGC9000092A)](arrete-du-15-novembre-1990-logc9000092a)
 - [Arrêté du 15 novembre 1990 (SANA9002222A)](arrete-du-15-novembre-1990-sana9002222a)
 - [Arrêté du 15 novembre 1990 (SPSS9002300A)](arrete-du-15-novembre-1990-spss9002300a)
-- [Arrêté du 15 octobre 1990 (BUDZ9000015A)](arrete-du-15-octobre-1990-budz9000015a)
 - [Arrêté du 15 octobre 1990 (ECOP9000586A)](arrete-du-15-octobre-1990-ecop9000586a)
 - [Arrêté du 15 octobre 1990 (ECOT9010087A)](arrete-du-15-octobre-1990-ecot9010087a)
 - [Arrêté du 15 octobre 1990 (ECOT9016100A)](arrete-du-15-octobre-1990-ecot9016100a)
