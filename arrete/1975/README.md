@@ -1,5 +1,7 @@
 # 1975
 
+- [Arrêté du 1 août 1975](arrete-du-1-aout-1975)
+- [Arrêté du 1 septembre 1975](arrete-du-1-septembre-1975)
 - [Arrêté du 2 juillet 1975](arrete-du-2-juillet-1975)
 - [Arrêté du 4 juillet 1975](arrete-du-4-juillet-1975)
 - [Arrêté du 5 février 1975](arrete-du-5-fevrier-1975)
