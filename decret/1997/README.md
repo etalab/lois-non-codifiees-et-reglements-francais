@@ -128,7 +128,6 @@
 - [Décret n°88-558 du 6 mai 1988 (MCLB8800163D)](decret-n88-558-du-6-mai-1988-mclb8800163d)
 - [Décret n°95-607 du 6 mai 1995 (TEFT9500480D)](decret-n95-607-du-6-mai-1995-teft9500480d)
 - [Décret n°95-608 du 6 mai 1995 (TEFT9500481D)](decret-n95-608-du-6-mai-1995-teft9500481d)
-- [Décret n°97-451 du 6 mai 1997 (MIPP9700069D)](decret-n97-451-du-6-mai-1997-mipp9700069d)
 - [Décret n°97-474 du 6 mai 1997 (MAEJ9730031D)](decret-n97-474-du-6-mai-1997-maej9730031d)
 - [Décret n°97-112 du 7 février 1997 (ECOT9710291D)](decret-n97-112-du-7-fevrier-1997-ecot9710291d)
 - [Décret n°97-113 du 7 février 1997 (AGRS9602626D)](decret-n97-113-du-7-fevrier-1997-agrs9602626d)
