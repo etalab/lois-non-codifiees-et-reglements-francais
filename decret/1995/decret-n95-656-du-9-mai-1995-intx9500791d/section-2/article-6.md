@@ -4,7 +4,7 @@ Sous réserve des dispositions relatives aux emplois réservés, les lieutenants
 
 1° Par deux concours ouverts respectivement :
 
-A. - Le premier, pour 60 p. 100 des emplois à pourvoir, aux candidats titulaires d'un diplôme sanctionnant la réussite à deux années d'enseignement supérieur après le baccalauréat du second cycle de l'enseignement secondaire, ou d'un diplôme ou titre équivalent dont la liste est fixée par arrêté du ministre chargé de l'intérieur et du ministre chargé de la fonction publique, âgés de trente ans au plus au 1er janvier de l'année du concours et qui remplissent les conditions générales d'accès aux emplois des services actifs de la police nationale prévues au décret du 9 mai 1995 susvisé.
+A. - Le premier, pour 60 % des emplois à pourvoir, aux candidats titulaires d'une licence ou d'un diplôme ou titre équivalent figurant sur une liste fixée par arrêté du ministre de l'intérieur et du ministre chargé de la fonction publique, âgés de trente ans au plus au 1er janvier de l'année du concours et qui remplissent les conditions générales d'accès aux emplois actifs de la police nationale prévues par le décret du 9 mai 1995 susvisé.
 
 Toutefois, peuvent être autorisés à se présenter au concours les candidats justifiant qu'ils accomplissent la dernière année d'études en vue de la possession d'un diplôme ou titre tels que mentionnés à l'alinéa précédent.
 
