@@ -12,7 +12,6 @@
 - [Arrêté du 1 mars 1989 (AGRP8900401A)](arrete-du-1-mars-1989-agrp8900401a)
 - [Arrêté du 1 octobre 1989 (AGRG8902208A)](arrete-du-1-octobre-1989-agrg8902208a)
 - [Arrêté du 1 septembre 1989 (PRME8961010A)](arrete-du-1-septembre-1989-prme8961010a)
-- [Arrêté du 1 septembre 1989 (SPSH8901732A)](arrete-du-1-septembre-1989-spsh8901732a)
 - [Arrêté du 1 septembre 1989 (SPSS8901925A)](arrete-du-1-septembre-1989-spss8901925a)
 - [Arrêté du 2 août 1989 (MENZ8901606A)](arrete-du-2-aout-1989-menz8901606a)
 - [Arrêté du 2 décembre 1988 (TRSA8800671A)](arrete-du-2-decembre-1988-trsa8800671a)
