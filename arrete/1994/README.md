@@ -106,7 +106,6 @@
 - [Arrêté du 4 février 1994 (ECOT9426102A)](arrete-du-4-fevrier-1994-ecot9426102a)
 - [Arrêté du 4 février 1994 (EQUT9400268A)](arrete-du-4-fevrier-1994-equt9400268a)
 - [Arrêté du 4 février 1994 (SPSS9400551A)](arrete-du-4-fevrier-1994-spss9400551a)
-- [Arrêté du 4 janvier 1994 (AGRG9400154A)](arrete-du-4-janvier-1994-agrg9400154a)
 - [Arrêté du 4 janvier 1994 (BUDF9300029A)](arrete-du-4-janvier-1994-budf9300029a)
 - [Arrêté du 4 janvier 1994 (ECOT9410198A)](arrete-du-4-janvier-1994-ecot9410198a)
 - [Arrêté du 4 janvier 1994 (ECOT9410199A)](arrete-du-4-janvier-1994-ecot9410199a)
