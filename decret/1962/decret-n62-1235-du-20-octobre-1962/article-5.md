@@ -8,4 +8,4 @@ Lorsqu'un droit de préemption ou un droit préférentiel primant celui de la so
 
 3° Le délai d'exercice du droit de préemption de la société court à compter de la date de la réception de cette décision.
 
-4° S'il s'agit du droit de préemption de l'exploitant preneur en place, la société peut déclarer exercer son droit de préemption à moins que le preneur ne fasse valoir son propre droit, par application des dispositions du deuxième alinéa du III de l'article 7 de la même loi.
+4° La société peut, dans tous les cas, déclarer exercer son droit de préemption sous réserve que le titulaire d'un droit qui prime le sien ne l'exerce pas.
