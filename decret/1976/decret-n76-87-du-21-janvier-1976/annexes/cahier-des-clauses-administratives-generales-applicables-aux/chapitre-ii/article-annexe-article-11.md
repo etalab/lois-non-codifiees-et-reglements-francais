@@ -4,7 +4,7 @@ Rémunération de l'entrepreneur.
 
 11.1. Règlement des comptes :
 
-Le règlement des comptes du marché se fait par des acomptes mensuels et un solde établis et mandatés comme il est indiqué à l'article 13.
+Le règlement des comptes du marché se fait par des acomptes mensuels et un solde établis et réglés comme il est indiqué à l'article 13.
 
 Toutefois, si le délai d'exécution du marché ne dépasse pas trois mois, les parties peuvent stipuler que les comptes seront réglés en une seule fois.
 
@@ -40,9 +40,7 @@ L'obligation pour l'entrepreneur d'exécuter des travaux en régie cesse lorsque
 
 Chaque acompte reçu dans les conditions du 1 du présent article comprend, s'il y a lieu, une part correspondant aux approvisionnements constitués en vue de travaux, à condition que le marché prévoie les modalités de leur règlement.
 
-Le montant correspondant s'obtient en appliquant aux quantités à prendre en compte les prix du bordereau de prix inséré dans le marché ou de la série de prix à laquelle ce dernier se réfère, relatifs aux matériaux, produits ou composants de construction à mettre en oeuvre.
-
-Les matériaux, produits ou composants de construction ayant fait l'objet d'un acompte pour approvisionnement restent la propriété de l'entrepreneur. Ils ne peuvent toutefois être enlevés du chantier sans l'autorisation écrite du maître d'oeuvre.
+Le montant correspondant s'obtient en appliquant aux quantités à prendre en compte les prix du bordereau de prix inséré dans le marché ou de la série de prix à laquelle ce dernier se réfère, relatifs aux matériaux, produits ou composants de construction à mettre en oeuvre.    Les matériaux, produits ou composants de construction ayant fait l'objet d'un acompte pour approvisionnement restent la propriété de l'entrepreneur. Ils ne peuvent toutefois être enlevés du chantier sans l'autorisation écrite du maître d'oeuvre.
 
 11.5. Avances :
 
@@ -62,7 +60,13 @@ Ce coefficient est arrondi au millième supérieur.
 
 11.7. Intérêts moratoires :
 
-L'entrepreneur a droit à des intérêts moratoires, dans les conditions réglementaires, en cas de retard dans les mandatements tels qu'ils sont prévus aux 23 et 43 de l'article 13 sauf si ce retard résulte de l'application des dispositions du 12 de l'article 4 ou du 34 de l'article 10.
+L'entrepreneur a droit à des intérêts moratoires, dans les conditions réglementaires :
+
+- en cas de retard dans les mandatements tels qu'ils sont prévus aux 231 et 431 de l'article 13, sauf si ce retard résulte de l'application des dispositions du 12 de l'article 4 ou du 34 de l'article 10 ;
+
+- en cas de retard d'envoi de l'autorisation d'émettre une lettre de change-relevé, tel qu'il est prévu aux 232 et 432 de l'article 13, sauf si ce retard résulte de l'application des dispositions du 12 de l'article 4 ou du 34 de l'article 10 ;
+
+- en cas de défaut de paiement, total ou partiel, de la lettre de change-relevé à la date d'échéance figurant sur l'autorisation tel qu'il est prévu aux 232 et 432 de l'article 13.
 
 11.8. Rémunération en cas de tranches conditionnelles :
 
