@@ -1,11 +1,19 @@
 # Article 45
 
-Les concours prévus à l'article 43 se déroulent dans les conditions fixées ci-après et précisées par arrêté du ministre chargé de l'enseignement supérieur.
+I. - Les demandes d'inscription sur la liste de qualification aux fonctions de professeur des universités, assorties d'un dossier individuel de qualification, sont examinées par la section compétente du Conseil national des universités. La qualification est appréciée par rapport aux différentes fonctions des enseignants-chercheurs telles qu'elles sont définies à l'article 55 de la loi du 26 janvier 1984 susvisée, et compte tenu des diverses activités des candidats.
 
-I - Pour chaque concours, la commission de spécialistes compétente examine les titres et travaux des candidats. Elle entend pour chaque candidature les rapports des deux rapporteurs désignés par son président. Après avoir délibéré, elle établit la liste des candidats admis à poursuivre le concours.
+Après avoir entendu deux rapporteurs désignés par son bureau pour chaque candidat, la section compétente du Conseil national des universités arrête, par ordre alphabétique, la liste de qualification aux fonctions de professeur des universités.
 
-L'un des deux rapporteurs désignés pour chaque candidature peut être extérieur à la commission. Les rapporteurs peuvent recueillir, sur les travaux des candidats, l'avis écrit d'experts extérieurs à la commission. L'avis est annexé au rapport.
+Les rapporteurs, qui peuvent recueillir, sur les dossiers des candidats, l'avis écrit d'experts extérieurs, établissent des rapports écrits.
 
-II - Il est procédé à l'audition des candidats admis à poursuivre le concours selon des modalités identiques pour un même concours, soit par la commission de spécialistes, soit par une sous-commission d'au moins quatre membres constituée en son sein par la commission de spécialistes à la demande de son président. Cette sous-commission est composée exclusivement de professeurs titulaires et de membres de corps assimilés. Elle transmet à la commission de spécialistes son avis sur les candidats entendus.
+II. - Toutefois, dans les disciplines pharmaceutiques, après avoir entendu les deux rapporteurs désignés par son bureau pour chaque candidat, la section compétente du Conseil national des universités dresse la liste par ordre alphabétique des candidats autorisés à participer à une audition, qui comporte une épreuve pédagogique. Les modalités d'organisation et la durée de l'audition et de l'épreuve pédagogique sont fixées par arrêté du ministre chargé de l'enseignement supérieur. A l'issue de l'épreuve pédagogique, la section compétente du Conseil national des universités arrête, par ordre alphabétique, la liste de qualification aux fonctions de professeur des universités.
 
-III - A l'issue des auditions, la commission de spécialistes dresse par ordre alphabétique la liste des candidats qu'elle a sélectionnés. Cette liste, qui comprend au maximum cinq noms pour chaque emploi offert au concours, est transmise au ministre chargé de l'enseignement supérieur par le chef d'établissement.
+III. - Le bureau communique par écrit à chaque candidat non inscrit sur la liste les motifs pour lesquels sa candidature a été écartée.
+
+Les candidats dont la qualification a fait l'objet de deux refus successifs de la part d'une section du Conseil national des universités peuvent saisir de leur candidature le groupe compétent du Conseil national des universités en formation restreinte aux bureaux de section. Cette formation se prononce dans les mêmes conditions de procédure que la section compétente du Conseil national des universités. Elle procède toutefois à l'audition des candidats.
+
+IV. - La liste de qualification aux fonctions de professeur des universités est rendue publique.
+
+Elle cesse d'être valable à l'expiration d'une période de quatre ans.
+
+Les modalités d'application du présent article sont fixées par arrêté du ministre chargé de l'enseignement supérieur.

@@ -1,3 +1,5 @@
 # Article 25
 
-Les candidats ne possédant pas la nationalité française peuvent, en application des dispositions de l'article 56 de la loi du 26 janvier 1984 susvisée, se présenter aux concours de recrutement de maîtres de conférences dans les conditions prévues au présent chapitre.
+Les concours de recrutement prévus à l'article 22 sont ouverts par arrêté du ministre chargé de l'enseignement supérieur qui désigne le ou les emplois à pourvoir et précise éventuellement leurs caractéristiques.
+
+Ces emplois peuvent correspondre à une ou plusieurs sections du Conseil national des universités.

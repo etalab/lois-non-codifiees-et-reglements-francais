@@ -1,29 +1,19 @@
 # Article 49
 
-Si, à l'issue de la procédure prévue aux articles 45 à 48, tous les emplois n'ont pas été pourvus, des concours peuvent à nouveau être organisés, au titre de la même année, pour pourvoir les emplois restés vacants, selon l'une ou l'autre des modalités prévues à l'article 43, sans que les emplois soient préalablement ouverts à la mutation.
+Les concours prévus aux 1° , 2° et 4° de l'article 46 se déroulent dans les conditions fixées ci-après et précisées par arrêté du ministre chargé de l'enseignement supérieur.
 
-I. - Peuvent seuls se présenter aux concours prévus au présent article les candidats dont la qualification a été reconnue par la section correspondante du Conseil national des universités lors de l'examen prévu à l'article 46.
+La commission de spécialistes examine les titres, travaux et activités des candidats et, après avoir entendu deux rapporteurs désignés par son bureau pour chaque candidat, établit une liste des candidats admis à poursuivre le concours.
 
-II. - Pour chaque concours, la commission de spécialistes compétente établit la liste de classement des candidats, comportant au maximum cinq noms, dans les conditions prévues à l'article 45.
+L'un des deux rapporteurs peut être extérieur à la commission. Les rapporteurs, qui peuvent recueillir sur les travaux des candidats l'avis écrit d'experts extérieurs à la commission, établissent des rapports écrits.
 
-La liste de classement est transmise au conseil d'administration de l'établissement. Le conseil d'administration, siégeant dans les conditions prévues à l'article 47, propose, pour chaque emploi à pourvoir, dans un délai de deux semaines à compter de la date à laquelle la liste de classement lui a été transmise, soit seulement le premier candidat classé par la commission de spécialistes, soit celui-ci et un ou plusieurs des suivants dans l'ordre d'inscription sur la liste de classement. Il peut rejeter la liste de classement proposée par la commission de spécialistes. A l'expiration du délai mentionné ci-dessus, il est réputé avoir approuvé la liste.
+L'audition des candidats admis à poursuivre le concours est faite selon des modalités identiques pour un même concours soit par la commission de spécialistes, soit par une sous-commission d'au moins quatre membres constituée en son sein par la commission de spécialistes à la demande de son président. Cette sous-commission, qui doit être composée exclusivement de professeurs titulaires ou personnels assimilés, transmet son avis sur les candidats entendus à la commission de spécialistes. La commission de spécialistes classe au maximum cinq candidats pour chaque emploi offert au concours. Lorsque dans un même établissement plusieurs emplois d'une même discipline ont été publiés avec les mêmes caractéristiques ou sans caractéristique, la commission de spécialistes établit une seule liste de classement pour ces emplois ; dans ce cas, le nombre maximum de candidats classés sur cette liste est égal à cinq fois le nombre de ces emplois. L'absence de classement fait l'objet d'un rapport motivé établi par le bureau de la commission de spécialistes et transmis au conseil d'administration.
 
-La proposition du conseil d'administration est transmise au ministre chargé de l'enseignement supérieur.
+La liste de classement établie par la commission de spécialistes est transmise au conseil d'administration de l'établissement. Le conseil d'administration, siégeant en formation restreinte aux enseignants-chercheurs et personnels assimilés de rang égal à celui de l'emploi postulé, dispose, pour se prononcer, d'un délai de trois semaines à compter de la date à laquelle la proposition de la commission de spécialistes lui a été transmise. Pour chaque emploi à pourvoir, le conseil propose soit seulement le premier candidat classé par la commission de spécialistes, soit celui-ci et un ou plusieurs des suivants dans l'ordre d'inscription sur la liste de classement. Lorsque plusieurs emplois sont à pourvoir au titre d'un même concours, le conseil d'administration peut soit retenir les premiers candidats classés dans la limite du nombre de postes à pourvoir, soit ceux-ci et un ou plusieurs des candidats suivants, dans l'ordre d'inscription sur la liste de classement.
 
-Lorsque le conseil d'administration siégeant en formation restreinte comprend moins de trois membres, il formule un avis au lieu de la proposition mentionnée ci-dessus.
+Il ne peut en aucun cas modifier l'ordre de la liste de classement. Il peut par décision motivée rejeter la liste proposée par la commission. A l'expiration du délai mentionné ci-dessus, il est réputé avoir approuvé la liste.
 
-III. - A l'Institut d'études politiques de Paris, la consultation au conseil d'administration est remplacée par celle de l'instance compétente pour se prononcer sur le choix des enseignants.
+Lorsque le conseil d'administration siégeant en formation restreinte comprend moins de trois membres, il formule un avis au lieu de la proposition prévue au cinquième alinéa du présent article.
 
-IV. - Lorsque l'emploi à pourvoir est affecté à un institut ou à une école faisant partie d'une université au sens de l'article 33 de la loi du 26 janvier 1984 susvisée, la commission mixte mentionnée au I de l'article 48 examine les candidatures dans les conditions prévues à ce même article et transmet son avis à la commission de spécialistes.
+A l'Institut d'études politiques de Paris, la consultation du conseil d'administration est remplacée par celle de l'instance compétente pour se prononcer sur le choix des enseignants.
 
-La commission de spécialistes, après avoir entendu deux rapporteurs désignés pour chaque candidat par son président, classe au maximum cinq noms pour chaque emploi offert au concours. L'un des deux rapporteurs peut être extérieur à la commission. Les rapporteurs peuvent recueillir, sur les travaux des candidats, l'avis écrit d'experts extérieurs à la commission. L'avis est annexé au rapport.
-
-La liste de classement est transmise à l'instance compétente pour se prononcer sur le choix des enseignants de l'institut ou de l'école et au directeur de l'institut ou de l'école qui doivent se prononcer dans un délai de deux semaines à compter de la date à laquelle la proposition de la commission de spécialistes a été transmise.
-
-Si, à l'expiration du délai prévu ci-dessus, le directeur de l'institut ou de l'école n'a pas usé du pouvoir qu'il tient de l'article 33 de la loi du 26 janvier 1984 susvisée, il est réputé avoir approuvé la liste de classement.
-
-L'instance de l'institut ou de l'école siégeant en formation restreinte aux personnels de rang au moins égal à l'emploi postulé propose, pour chaque emploi à pourvoir, soit seulement le premier candidat classé par la commission de spécialistes, soit celui-ci et un ou plusieurs des suivants dans l'ordre d'inscription sur la liste de classement. Elle peut rejeter la liste proposée par la commission de spécialistes. A l'expiration du délai prévu ci-dessus, l'instance est réputée avoir approuvé la liste de classement.
-
-La proposition est transmise au ministre chargé de l'enseignement supérieur.
-
-Lorsque l'instance de l'institut ou de l'école siégeant en formation restreinte comprend moins de trois membres, elle formule un avis au lieu de la proposition mentionnée à l'alinéa précédent.
+Les propositions sont transmises au ministre chargé de l'enseignement supérieur.

@@ -7,3 +7,5 @@ La répartition des services d'enseignement des professeurs des universités et 
 Les services d'enseignement en présence d'étudiants sont déterminés par rapport à une durée annuelle de référence égale à 128 heures de cours ou 192 heures de travaux dirigés ou 288 heures de travaux pratiques ou toute combinaison équivalente.
 
 Dans le cas où il apparaît impossible d'attribuer le service de référence à ces personnels, le président ou le directeur de établissement leur demande de compléter leur service dans un autre établissement public d'enseignement supérieur de la même académie sans paiement d'heures complémentaires. La région d'Ile-de-France est, pour l'application des dispositions du présent alinéa, considérée comme une seule et même académie.
+
+Les enseignants-chercheurs qui exercent les fonctions de président d'université, ou de vice-président de l'un des trois conseils d'une université, ou de directeur d'un établissement public d'enseignement supérieur sont, de plein droit, déchargés du service d'enseignement mentionné au troisième alinéa ci-dessus sauf s'ils souhaitent conserver tout ou partie de ce service.

@@ -1,23 +1,17 @@
 # Article 24
 
-Le recrutement des maîtres de conférences est assuré par un premier concours et, dans la limite du tiers des emplois mis au concours dans l'ensemble des disciplines, par un deuxième et un troisième concours.
+Les demandes d'inscription sur la liste de qualification aux fonctions de maître de conférences, assorties d'un dossier individuel de qualification, sont examinées par la section compétente du Conseil national des universités. La qualification est appréciée par rapport aux différentes fonctions des enseignants-chercheurs, telles qu'elles sont définies à l'article 55 de la loi du 26 janvier 1984 susvisée, et compte tenu des diverses activités des candidats.
 
-Le premier concours est ouvert aux candidats titulaires, à la date de clôture des inscriptions, du doctorat ou de l'habilitation à diriger des recherches.
+Après avoir entendu deux rapporteurs désignés par son bureau pour chaque candidat, la section compétente du Conseil national des universités arrête, par ordre alphabétique, la liste de qualification aux fonctions de maître de conférences.
 
-Les titulaires de diplômes universitaires, qualifications et titres étrangers de niveau équivalent peuvent être dispensés, par les commissions de spécialistes siégeant en application de l'article 26 ci-après, de la possession des diplômes mentionnés à l'alinéa précédent. Ces dispenses ne sont accordées que pour l'année au titre de laquelle la candidature est présentée.
+Les rapporteurs, qui peuvent recueillir sur les dossiers des candidats l'avis écrit d'experts extérieurs, établissent des rapports écrits.
 
-Le doctorat d'Etat, le doctorat de troisième cycle et le diplôme de docteur ingénieur sont admis en équivalence du doctorat.
+Le bureau communique par écrit à chaque candidat non inscrit sur la liste les motifs pour lesquels sa candidature a été écartée.
 
-II. - Un deuxième concours est ouvert aux personnels enseignants titulaires de l'enseignement du second degré et aux personnels enseignants titulaires de l'Ecole nationale supérieure d'arts et métiers exerçant leurs fonctions en cette qualité dans un établissement d'enseignement supérieur depuis au moins trois ans au 1er janvier de l'année du concours, en possession de l'un des diplômes, qualifications ou titres mentionnés au I du présent article.
+Les candidats dont la qualification a fait l'objet de deux refus successifs de la part d'une section du Conseil national des universités peuvent saisir de leur candidature le groupe compétent du Conseil national des universités en formation restreinte aux bureaux de section. Cette formation se prononce dans les mêmes conditions de procédure que la section compétente du Conseil national des universités. Elle procède toutefois à l'audition des candidats.
 
-Ce concours est également ouvert aux pensionnaires écoles françaises à l'étranger et anciens pensionnaires de ces écoles, ayant terminé leur scolarité depuis moins de deux ans au 1er janvier de l'année du concours, comptant, à cette même date, au moins trois ans d'ancienneté en qualité de pensionnaires et titulaires de l'un des diplômes, qualifications ou titres mentionnés au I du présent article.
+La liste de qualification aux fonctions de maître de conférences est rendue publique.
 
-III. Un troisième concours est ouvert aux candidats entrant dans l'une des catégories suivantes :
+Elle cesse d'être valable à l'expiration d'une période de quatre ans.
 
-1° Candidats comptant, au 1er janvier de l'année du concours, au moins six années d'activité professionnelle effective dans les neuf ans qui précèdent : ne sont pas prises compte les activités d'enseignant les activités de chercheur dans des établissements publics à caractère scientifique et le technique ou les activités mentionnées à l'article 3 du décret du 29 octobre 1936 relatif au cumul de retraites, de rémunération, et de fonctions ;
-
-2° Enseignants associés à temps plein, ayant exercé en cette qualité pendant au moins deux ans, s'ils sont en fonctions au 1er janvier de l'année du concours, ou pendant, trois ans au moins, s'ils ont cessé leurs fonctions depuis moins d'un an 1er janvier de l'année du concours.
-
-IV. - Dans la limite de 10 p. 100 des emplois mis au concours dans l'ensemble des disciplines, les concours prévus au III du présent article peuvent être ouverts à des candidats possédant pas la qualité de fonctionnaire, en vue de procéder à des recrutements comme maître de conférences de 1ère classe.
-
-Les proportions mentionnées au présent article sont calculées sur le plan national.
+Les modalités d'application du présent article sont fixées par arrêté du ministre chargé de l'enseignement supérieur.
