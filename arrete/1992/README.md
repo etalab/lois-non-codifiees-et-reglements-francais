@@ -509,7 +509,6 @@
 - [Arrêté du 14 octobre 1992 (SANH9202641A)](arrete-du-14-octobre-1992-sanh9202641a)
 - [Arrêté du 14 septembre 1992 (ECOC9200096A)](arrete-du-14-septembre-1992-ecoc9200096a)
 - [Arrêté du 14 septembre 1992 (ECOC9200115A)](arrete-du-14-septembre-1992-ecoc9200115a)
-- [Arrêté du 14 septembre 1992 (ECOC9200125A)](arrete-du-14-septembre-1992-ecoc9200125a)
 - [Arrêté du 14 septembre 1992 (SPSS9201563A)](arrete-du-14-septembre-1992-spss9201563a)
 - [Arrêté du 14 mai 1992 (JUSB9210150A)](arrete-du-14-mai-1992-jusb9210150a)
 - [Arrêté du 14 mai 1992 (TEFE9204798A)](arrete-du-14-mai-1992-tefe9204798a)
