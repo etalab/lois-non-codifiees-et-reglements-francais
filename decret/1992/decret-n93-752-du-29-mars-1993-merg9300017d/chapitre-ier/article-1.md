@@ -8,6 +8,6 @@ Ce corps comprend deux classes :
 
 1. La classe normale divisée en onze échelons ;
 
-2. La hors-classe divisée en six échelons.
+2. La hors-classe divisée en sept échelons.
 
 Le nombre d'emplois de professeur technique de l'enseignement maritime à la hors-classe ne peut excéder 15 p. 100 de l'effectif budgétaire de la classe normale.

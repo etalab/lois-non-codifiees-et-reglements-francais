@@ -30,7 +30,11 @@ Les conditions d'avancement d'échelon des conseillers principaux d'éducation h
 </tr>
 <tr>
 <td>Du 5e au 6e</td>
-<td>4 ans</td>
+<td>3 ans</td>
+</tr>
+<tr>
+<td>Du 6e au 7e</td>
+<td>3 ans</td>
 </tr>
 </tbody>
 </table>

@@ -12,9 +12,9 @@ Le pourcentage du nombre d'établissements classés dans chaque catégorie est f
 
 2e catégorie : 35 p. 100 ;
 
-3e catégorie : 35 p. 100 ;
+3e catégorie : 30 p. 100 ;
 
-4e catégorie : 25 p. 100.
+4e catégorie : 30 p. 100.
 
 2° Lycées professionnels agricoles et établissements d'enseignement agricole spécialisés de même niveau :
 
@@ -22,6 +22,6 @@ Le pourcentage du nombre d'établissements classés dans chaque catégorie est f
 
 2e catégorie : 30 p. 100 ;
 
-3e catégorie : 30 p. 100 ;
+3e catégorie : 25 p. 100 ;
 
-4e catégorie : 10 p. 100.
+4e catégorie : 15 p. 100.

@@ -10,6 +10,6 @@ Le premier grade est divisé en onze échelons ; le deuxième grade comporte deu
 
 1° La classe normale divisée en onze échelons ;
 
-2° La hors-classe divisée en six échelons.
+2° La hors-classe divisée en sept échelons.
 
 Le nombre des emplois de professeurs de lycée professionnel agricole du deuxième grade hors classe ne peut excéder 15 p. 100 de l'effectif budgétaire de la classe normale.

@@ -2,64 +2,42 @@
 
 Par dérogation aux dispositions du deuxième alinéa de l'article 5 ci-dessus, la répartition en pourcentage des emplois de direction dans chaque catégorie est fixée, chaque année, comme suit :
 
-1991
+1re catégorie : 1re classe
 
-1992
+1996 : 35%
 
-1993
+1997 : 37,5%
 
-1994
+1998 : 40%
 
-1995
+1re catégorie : 2e classe
 
-(en %)
+1996 : 65%
 
-1re catégorie :
+1997 : 62,5%
 
-1re classe
+1998 : 60%
 
-23
+2e catégorie : 1re classe
 
-30
+1996 : 26%
 
-2e et 3e classe
+1997 : 32,5%
 
-77
+1998 : 35%
 
-70
+1999 : 37,5%
 
-2e catégorie :
+2000 : 40%
 
-1re classe
+2e catégorie : 2e et 3e classe
 
-11
+1996 : 74%
 
-14
+1997 : 67,5%
 
-17
+1998 : 65%
 
-18
+1999 : 62,5%
 
-20
-
-2e et 3e classe
-
-56
-
-60
-
-64
-
-70
-
-80
-
-4e classe
-
-33
-
-26
-
-19
-
-12 0
+2000 : 60%

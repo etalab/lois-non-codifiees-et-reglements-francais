@@ -1,0 +1,3 @@
+# Article 18
+
+Sans préjudice des dispositions des articles R. 233-78 et R. 233-79 du code du travail, l'attestation d'examen de type peut être retirée à tout moment par l'organisme habilité qui l'a délivrée s'il apparaît à l'expérience que les règles techniques applicables ne sont pas prises en compte. Cette décision est prise après que le titulaire de l'attestation d'examen de type a été appelé à présenter ses observations. Elle doit être motivée par des non-conformités suffisamment importantes pour justifier la remise en cause de la décision initiale délivrant une attestation d'examen de type. L'organisme habilité en informe le ministre chargé de l'agriculture. La décision de retrait peut faire l'objet d'une réclamation dans les conditions définies à l'article 15.
