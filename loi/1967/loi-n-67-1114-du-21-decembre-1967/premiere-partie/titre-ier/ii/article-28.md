@@ -1,13 +1,15 @@
 # Article 28
 
-La redevance relative à l'agrément des producteurs ou négociants en bois et plants de vigne est affectée au budget de l'institut des vins de consommation courante, et recouvrée par ses soins.
+La redevance relative à l'agrément des producteurs ou négociants en bois et plants de vigne est affectée au budget de l'office national interprofessionnel des vins de table et recouvrée par ses soins.
 
-Le taux maximal de cette taxe est fixé à 100 F par hectare ou fraction d'hectare de pied-mère cultivé en sus du premier hectare ;
+Le montant maximal de cette redevance est fixé à 500 F par an. Il peut être majoré dans les limites suivantes :
 
-De 2 F par millier ou fraction de millier de boutures non greffées mises en pépinière ;
+a) De 300 F par hectare ou fraction d'hectare de vigne mère. Toutefois cette majoration n'est pas appliquée aux producteurs cultivant une superficie inférieure à 50 ares ;
 
-De 3 F par millier ou fraction de millier de greffes-boutures mises en pépinière.
+b) De 12 F par millier ou fraction de millier de boutures non greffées mises en oeuvre pour la production de plants racinés ;
 
-Un décret fixe chaque année les taux de la redevance et des majorations ci-dessus prévues.
+c) De 15 F par millier ou fraction de millier de greffes-boutures mises en oeuvre pour la production de plants racinés greffés-soudés.
 
-Un arrêté du ministre de l'agriculture et du ministre de l'économie et des finances fixera les modalités de perception de cette redevance.
+Les montants de cette redevance et de ces majorations sont fixés par décret.
+
+De plus, en cas d'inobservation des dispositions réglementaires relatives à la déclaration annuelle des boutures et greffes-boutures mises en oeuvre, des pénalités peuvent être appliquées par augmentation des majorations prévues aux b et c ci-dessus. Ces pénalités ne peuvent dépasser 10 p. 100 en cas de déclaration tardive et 50 p. 100 en cas de défaut partiel ou total de déclaration constaté lors des contrôles.
