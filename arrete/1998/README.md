@@ -99,6 +99,7 @@
 - [Arrêté du 3 mai 2000 (EQUA0000205A)](arrete-du-3-mai-2000-equa0000205a)
 - [Arrêté du 4 août 1998 (DEFT9801841A)](arrete-du-4-aout-1998-deft9801841a)
 - [Arrêté du 4 décembre 1997 (EQUG9701846A)](arrete-du-4-decembre-1997-equg9701846a)
+- [Arrêté du 4 décembre 1998 (EQUA9801202A)](arrete-du-4-decembre-1998-equa9801202a)
 - [Arrêté du 4 décembre 1998 (MESS9823759A)](arrete-du-4-decembre-1998-mess9823759a)
 - [Arrêté du 4 février 1998 (MENF9800119A)](arrete-du-4-fevrier-1998-menf9800119a)
 - [Arrêté du 4 février 1998 (MESP9820553A)](arrete-du-4-fevrier-1998-mesp9820553a)
