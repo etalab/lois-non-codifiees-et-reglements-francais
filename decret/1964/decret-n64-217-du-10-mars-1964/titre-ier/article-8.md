@@ -1,5 +1,11 @@
 # Article 8
 
-Les maîtres contractuels ou agréés assimilés pour leur rémunération aux professeurs agrégés et enseignant dans les classes préparatoires sous contrat peuvent accéder à l'échelle de rémunération des professeurs de chaires supérieures dans les conditions fixées au présent article et aux articles 8-1 et 8-2 ci-après.
+Les maîtres contractuels et les documentalistes contractuels accédant à une échelle de rémunération correspondant à un grade de l'enseignement public sont classés à la classe normale. Ils peuvent accéder, le cas échéant, après inscription sur un tableau d'avancement, à l'échelle de rémunération correspondant à la hors-classe de ce grade, dans les mêmes conditions que les professeurs titulaires exerçant dans l'enseignement public.
 
-Un arrêté conjoint des ministres chargés du budget, de l'éducation et de la fonction publique fixe la liste des classes préparatoires sous contrat des lycées privés dans lesquelles les maîtres bénéficiant de l'échelle de rémunération des professeurs de chaires supérieures doivent exercer leurs fonctions ainsi que la liste des disciplines qu'ils doivent enseigner.
+Les maîtres contractuels et les documentalistes contractuels bénéficiant de l'échelle de rémunération correspondant à la hors-classe d'un grade de l'enseignement public peuvent accéder, le cas échéant, après inscription sur un tableau d'avancement, à l'échelle de rémunération correspondant à la classe exceptionnelle, dans les mêmes conditions que les professeurs titulaires exerçant dans l'enseignement public.
+
+Les maîtres contractuels et les documentalistes contractuels bénéficiant de l'échelle de rémunération des professeurs de lycée professionnel de premier grade peuvent accéder à celle des professeurs de lycée professionnel de deuxième grade, après inscription sur un tableau d'avancement, dans les mêmes conditions que les professeurs titulaires exerçant dans l'enseignement public.
+
+Les tableaux d'avancement prévus au présent article sont arrêtés chaque année par le recteur, après avis de la commission consultative mixte académique. Toutefois, pour les maîtres et documentalistes contractuels classés à l'échelle de rémunération des professeurs agrégés, les tableaux d'avancement sont arrêtés par le ministre chargé de l'éducation nationale, sur proposition du recteur et après avis de la commission consultative mixte académique.
+
+Les maîtres ou documentalistes qui accèdent à une échelle de rémunération par tableau d'avancement sont classés dans cette échelle de rémunération dans les mêmes conditions que les professeurs de l'enseignement public des corps correspondants.

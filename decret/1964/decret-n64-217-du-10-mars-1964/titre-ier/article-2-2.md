@@ -1,6 +1,6 @@
 # Article 2-2
 
-Le remplacement des maîtres contractuels est assuré dans les cas suivants :
+Le remplacement des maîtres contractuels et des documentalistes contractuels est assuré dans les cas suivants :
 
 a) Congé parental ;
 

@@ -1,6 +1,6 @@
 # Article 2-3
 
-Le remplacement des maîtres contractuels pendant la période provisoire prévue au deuxième alinéa de l'article 3 est assuré dans les cas suivants :
+Le remplacement des maîtres et documentalistes ayant obtenu un contrat provisoire prévu à l'article 18 du présent décret est assuré dans les cas suivants :
 
 a) Congé pour élever un enfant de moins de huit ans ou atteint d'une infirmité exigeant des soins continus ;
 
