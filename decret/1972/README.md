@@ -9,4 +9,5 @@
 - [Décret n°72-209 du 20 mars 1972](decret-n72-209-du-20-mars-1972)
 - [Décret n°72-862 du 22 septembre 1972](decret-n72-862-du-22-septembre-1972)
 - [Décret n°72-876 du 25 septembre 1972](decret-n72-876-du-25-septembre-1972)
+- [Décret n°72-923 du 28 septembre 1972](decret-n72-923-du-28-septembre-1972)
 - [Décret n°72-883 du 29 septembre 1972](decret-n72-883-du-29-septembre-1972)
