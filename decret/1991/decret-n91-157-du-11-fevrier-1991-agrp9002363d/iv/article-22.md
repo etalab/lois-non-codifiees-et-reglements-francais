@@ -1,6 +1,6 @@
 # Article 22
 
-La commission mixte départementale, dans la composition prévue au dernier alinéa de l'article 20 du décret n° 85-1144 du 30 octobre 1985 susvisé, est consultée par le préfet, pour avis, notamment sur :
+La commission départementale d'orientation de l'agriculture est consultée par le préfet, pour avis, notamment sur :
 
 - les quantités de référence initiales des jeunes agriculteurs ;
 
@@ -8,7 +8,7 @@ La commission mixte départementale, dans la composition prévue au dernier alin
 
 - les quantités de référence supplémentaires demandées par les producteurs vendant directement à la consommation ;
 
-- les attributions de quantités de référence supplémentaires prélevées sur les réserves nationales visées à l'article 1er (3°), dans la limite des quantités de référence prélevées dans le département, à l'occasion des transferts de quantités de référence entre producteurs, en application du décret n° 87-608 du 31 juillet 1987 susvisé ;
+- les attributions de quantités de référence supplémentaires prélevées sur la réserve nationale, visée à l'article 1er (3°), dans la limite des quantités de références prélevées dans le département, à l'occasion des transferts de quantités de référence entre producteur.
 
 - les attributions de quantités de référence supplémentaires à caractère définitif ou caractère provisoire effectuées par les acheteurs.
 
