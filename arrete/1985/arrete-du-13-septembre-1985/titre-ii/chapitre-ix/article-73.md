@@ -22,6 +22,6 @@ Si le parieur a sélectionné P chevaux, le "champ partiel d'un cheval de base" 
 
 P x (P - 1) / 2 combinaisons unitaires.
 
-Les valeurs des formules "champ total" d'un ou de deux chevaux de base sont déterminées dès qu'est connu le nombre des chevaux déclarés partants. Ces valeurs ne peuvent plus être modifiées même si avant le départ de la course certains chevaux sont retirés.
+Les valeurs des formules "champ total" sont déterminées pour chaque course en fonction du nombre de chevaux déclarés partants par le programme officiel de l'hippodrome et la liste officielle du pari mutuel urbain, compte tenu, le cas échéant, des chevaux ne prenant pas part à la course.
 
-Ceux des paris englobés dans la formule qui comportent un ou plusieurs chevaux n'ayant pas participé à la course sont traités selon les dispositions de l'article 62 relatif aux chevaux non partants.
+Ceux des paris englobés dans la formule qui comportent des chevaux n'ayant pas participé à la course sont remboursés après la course.

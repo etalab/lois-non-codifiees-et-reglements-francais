@@ -1,12 +1,12 @@
 # Article 38
 
-Formules. - Les parieurs peuvent enregistrer  leurs paris "jumelés" soit sous forme de combinaisons unitaires combinant deux des chevaux déclarés partants, soit sous forme de formules dites "combinées" et "champ".
+Formules. - Les parieurs peuvent enregistrer leurs paris "jumelés" soit sous forme de combinaisons unitaires combinant deux des chevaux déclarés partants, soit sous forme de formules dites "combinées" et "champ".
 
 1. Les formules combinées. - Elles englobent l'ensemble des paris "jumelé" combinant entre eux, deux à deux, un certain nombre de chevaux sélectionnés par le parieur :
 
 a) Dans le cas d'un pari "jumelé" sans ordre d'arrivée stipulé, si le parieur sélectionne K chevaux, sa formule englobe :
 
-K x (K - 1) / 2  paris "jumelé".
+K x (K - 1) / 2 paris "jumelé".
 
 b) Dans le cas d'un pari "jumelé" avec ordre d'arrivée stipulé, le parieur peut n'engager chaque combinaison de deux chevaux parmi sa sélection que dans un ordre relatif stipulé. La formule correspondante, dénommée "formule simplifiée", englobe :
 
@@ -22,4 +22,4 @@ b) Dans le cas d'un pari "jumelé" avec ordre d'arrivée stipulé, si la course 
 
 Pour les formules "champ simplifié" total ou partiel, le parieur doit préciser la place à l'arrivée devant être occupée par le cheval de base.
 
-Les valeurs des formules "champ total" sont déterminées dès qu'est connu le nombre des chevaux déclarés partants sur l'hippodrome. Ces valeurs ne peuvent plus être modifiées même si, avant le départ de la course, certains chevaux sont retirés. Ceux des paris englobés dans la formule qui comportent les chevaux n'ayant pas participé à la course sont remboursés après la course.
+Les valeurs des formules "champ total" sont déterminées pour chaque course en fonction du nombre de chevaux déclarés partants par le programme officiel de l'hippodrome et la liste officielle du pari mutuel urbain, compte tenu, le cas échéant, des chevaux ne prenant pas part à la course. Ceux des paris englobés dans la formule qui comportent des chevaux n'ayant pas participé à la course sont remboursés après la course.

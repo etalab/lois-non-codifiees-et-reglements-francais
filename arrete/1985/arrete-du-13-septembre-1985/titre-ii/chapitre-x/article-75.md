@@ -12,8 +12,8 @@ Un pari "trio urbain" est payable si les trois chevaux choisis occupent les troi
 
 b) Course reportée :
 
-Si, par décision des commissaires, une course sur laquelle fonctionne le pari "trio urbain" est reportée, tous les paris "trio urbain" sur cette course sont normalement exécutés, à condition que cette course soit recourue le même jour.
+b) Course reportée.
 
-Si la course est reportée à une autre date, les parieurs qui le désirent peuvent obtenir l'annulation et le remboursement total des paris enregistrés, à condition d'en informer le poste d'enregistrement où ils les avaient primitivement engagés, au plus tard à 11 h 30, le jour où la course reportée est recourue.
+Si, par décision des commissaires, une course est reportée et courue le même jour, tous les paris "trio urbain" enregistrés sur cette course sont normalement exécutés.
 
-En aucun cas de nouveaux paris "trio urbain" ne sont enregistrés sur l'épreuve reportée. Les paris maintenus sur celle-ci sont exécutés sur les chevaux y prenant part. Les paris "trio urbain" comportant des chevaux ne participant pas à la course recourue pour quelque cause que ce soit sont traités selon les dispositions ci-dessus relatives aux chevaux non partants.
+Si la course est reportée à une autre date, tous les paris "trio urbain" sont remboursés.

@@ -28,8 +28,6 @@ S'il n'y a aucune mise sur l'une des combinaisons "couplé placé", le bénéfic
 
 4. Course reportée :
 
-Si par décision des commissaires une course est reportée, tous les paris "couplé" enregistrés sur cette course sont normalement exécutés.
+Si, par décision des commissaires, une course est reportée et courue le même jour, tous les paris "couplé" enregistrés sur cette course sont normalement exécutés.
 
-Si la course est reportée à une autre date, les parieurs qui le désirent peuvent obtenir l'annulation et le remboursement total des paris enregistrés, à condition d'en informer le poste d'enregistrement où ils les avaient primitivement engagés, au plus tard à 11 h 30 le jour où la course reportée est recourue. En aucun cas de nouveaux paris "couplés" ne sont enregistrés sur l'épreuve reportée. Les paris maintenus sur celle-ci sont exécutés sur les chevaux y prenant part.
-
-Les paris "couplé" comportant des chevaux ne participant pas à la course pour quelque cause que ce soit sont traités selon les dispositions ci-dessus relatives aux chevaux non partants.
+Si la course est reportée à une autre date, tous les paris "couplé" sont remboursés.

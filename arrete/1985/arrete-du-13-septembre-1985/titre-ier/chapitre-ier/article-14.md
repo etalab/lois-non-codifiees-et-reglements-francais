@@ -10,4 +10,4 @@ Ces minima et ces maxima sont arrêtés par le ministre de l'agriculture et le m
 
 Les minima peuvent être différents pour un type de pari donné selon que ce type de pari est enregistré sur l'hippodrome ou en dehors des hippodromes, en pari unitaire ou en formule.
 
-Hors hippodromes, les paris s'enregistrent par multiples entiers de ces minima. Sur les hippodromes, ils s'enregistrent à des guichets dont l'unité d'enjeu est un multiple entier de ces minima, les sociétés de courses n'étant pas tenues d'ouvrir sur les hippodromes des guichets au minimum d'enjeu.
+Hors hippodromes, les paris s'enregistrent par multiples entiers de ces minima. Sur les hippodromes, ils s'enregistrent à des guichets dont l'unité d'enjeu est portée à la connaissance du public, les sociétés de courses n'étant pas tenues d'ouvrir sur l'hippodrome des guichets au minimum d'enjeu.

@@ -14,7 +14,7 @@ Les paris "simple placé" sont remboursés s'il n'y a aucune mise sur aucun des 
 
 Lorsque le nombre de chevaux classés à l'arrivée est inférieur à deux pour les courses ayant comporté de quatre à sept chevaux partants inclusivement, ou inférieur à trois pour les courses ayant comporté plus de sept chevaux partants, la masse à partager "placé" est affectée en totalité au calcul des rapports des seuls chevaux classés à l'arrivée.
 
-5° Course reportée. - Lorsque par décision des commissaires une course est reportée, les paris "simple" enregistrés au Pari mutuel urbain et au Pari mutuel hippodrome sont exécutés, à condition que cette course soit recourue le même jour.
+5° Course reportée. - Si, par décision des commissaires, une course est reportée et courue le même jour, tous les paris "simple" enregistrés sur cette course sont normalement exécutés.
 
 Aucun pari "simple" nouveau n'est enregistré sur la course reportée et aucun remboursement n'est effectué sur les paris déjà enregistrés, à l'exception de ceux portant sur les chevaux qui ne participent pas à la course recourue.
 

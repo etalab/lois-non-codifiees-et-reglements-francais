@@ -12,16 +12,10 @@ Dans le cas prévu à l'alinéa précédent et si la course ne comportait que qu
 
 b) En aucun cas un rapport spécial ne peut être réglé aux combinaisons comportant le cheval classé deuxième avec trois chevaux non partants, ou aux combinaisons des chevaux classés premier et troisième avec deux chevaux non partants, ou aux combinaisons des chevaux classés deuxième et troisième avec deux chevaux non partants, ou aux combinaisons des chevaux classés premier, deuxième et quatrième avec un cheval non partant, ou aux combinaisons des chevaux classés deuxième, troisième et quatrième avec un cheval non partant.
 
-c) Course reportée :
+c) Course reportée.
 
-Si par décision des commissaires une course est reportée, tous les paris "quarté" sur cette course sont normalement exécutés.
+Si, par décision des commissaires, une course est reportée et courue le même jour, tous les paris "quarté" enregistrés sur cette course sont normalement exécutés.
 
-Si la course est reportée à une autre date, les parieurs qui le désirent peuvent obtenir l'annulation et le remboursement total des paris enregistrés, à condition d'en informer le bureau d'enregistrement où ils les avaient primitivement engagés; au plus tard à 11 heures trente le jour où la course reportée est recourue. En aucun cas de nouveaux paris "quarté" ne sont enregistrés sur l'épreuve reportée. Les paris maintenus sur celle-ci sont exécutés sur les chevaux y prenant part.
+Si la course est reportée à une autre date, tous les paris "quarté" sont remboursés.
 
-Les paris "quarté" comportant des chevaux ne participant pas à la course recourue, pour quelque cause que ce soit, sont traités selon les dispositions ci-dessus relatives aux chevaux non partants.
-
-d) Lorsqu'une course ne comporte que trois chevaux classés à l'arrivée, la totalité de la masse à partager est répartie au prorata des mises sur toutes les combinaisons comportant les trois chevaux classés, sans tenir compte de l'ordre d'arrivée, ou à défaut entre toutes les combinaisons comportant les deux premiers chevaux classés sans tenir compte de l'ordre d'arrivée. A défaut de mises sur ces combinaisons, tous les paris "quarté" sont remboursés.
-
-Lorsqu'une course ne comporte que deux chevaux classés à l'arrivée, la totalité de la masse à partager est répartie au prorata des mises sur toutes les combinaisons comportant les deux chevaux classés, sans tenir compte de l'ordre d'arrivée. A défaut de mises sur ces combinaisons, tous les paris "quarté" sont remboursés.
-
-Lorsqu'une course comporte moins de deux chevaux classés à l'arrivée, tous les paris "quarté" sont remboursés.
+d) Lorsqu'une course comporte moins de quatre chevaux à l'arrivée, tous les paris "quarté" sont remboursés.
