@@ -4,8 +4,6 @@ Par dérogation aux dispositions de l'article 53, le ministre chargé de l'écon
 
 Après avoir communiqué ses griefs aux entreprises ou personnes morales en cause et recueilli leurs observations sur ces griefs, le ministre consulte le président de la commission de la concurrence. Le dossier qu'il lui transmet comprend la communication des griefs, les observations des intéressés et un projet de décision indiquant les motifs et le montant des sanctions envisagées.
 
-Si le président estime inutile de saisir la commission, le ministre peut, par décision motivée, infliger une sanction pécuniaire n'excédant pas 200.000 F [*francs - sanctions*] (1) à chaque entreprise ou personne morale auteur d'une infraction. Toutefois, si l'une des parties en cause demande le bénéfice de la procédure de l'article 53, celle-ci est de droit.
+Si le président estime inutile de saisir la commission, le ministre peut, par décision motivée, infliger une sanction pécuniaire n'excédant pas 75 000 euros à chaque entreprise ou personne morale auteur d'une infraction. Toutefois, si l'une des parties en cause demande le bénéfice de la procédure de l'article 53, celle-ci est de droit.
 
 Si le président estime que la commission doit être saisie, il est fait application des dispositions des articles 52, 53 et 54.
-
-[*(1) Taux 1980*]
