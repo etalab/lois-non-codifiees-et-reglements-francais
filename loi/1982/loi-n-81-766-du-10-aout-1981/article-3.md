@@ -1,5 +1,9 @@
 # Article 3
 
-Les dispositions du quatrième alinéa de l'article 1er ci-dessus ne sont pas applicables aux associations facilitant l'acquisition des livres scolaires pour leurs membres.
+Par dérogation aux dispositions du quatrième alinéa de l'article 1er et sous réserve des dispositions du dernier alinéa, le prix effectif de vente des livres peut être compris entre 91 % et 100 % du prix de vente au public lorsque l'achat est réalisé :
 
-Elles ne sont pas non plus applicables au prix de vente des livres facturés pour leurs besoins propres, excluant la revente, à l'Etat, aux collectivités locales, aux établissements d'enseignement, de formation professionnelle ou de recherche, aux syndicats représentatifs, aux comités d'entreprise, aux bibliothèques accueillant du public pour la lecture ou pour le prêt, notamment celles des associations régies par la loi du 1er juillet 1901.
+1° Pour leurs besoins propres, excluant la revente, par l'Etat, les collectivités territoriales, les établissements d'enseignement, de formation professionnelle ou de recherche, les syndicats représentatifs ou les comités d'entreprise ;
+
+2° Pour l'enrichissement des collections des bibliothèques accueillant du public, par les personnes morales gérant ces bibliothèques. Le prix effectif inclut le montant de la rémunération au titre du prêt en bibliothèque assise sur le prix public de vente des livres prévue à l'article L. 133-3 du code de la propriété intellectuelle.
+
+Le prix effectif de vente des livres scolaires peut être fixé librement dès lors que l'achat est effectué par une association facilitant l'acquisition de livres scolaires par ses membres ou, pour leurs besoins propres, excluant la revente, par l'Etat, une collectivité territoriale ou un établissement d'enseignement.
