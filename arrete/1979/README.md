@@ -82,4 +82,5 @@
 - [Arrêté du 30 juillet 1979](arrete-du-30-juillet-1979)
 - [Arrêté du 30 juin 1979](arrete-du-30-juin-1979)
 - [Arrêté du 30 mars 1979](arrete-du-30-mars-1979)
+- [Arrêté du 31 août 1979](arrete-du-31-aout-1979)
 - [Arrêté du 31 mai 1979](arrete-du-31-mai-1979)

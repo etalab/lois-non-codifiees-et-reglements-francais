@@ -1,51 +1,49 @@
 # Article 2
 
-Les coefficients d'équivalence applicables aux cultures spécialisées en vue de leur comparaison avec les superficies retenues en polyculture sont fixés comme suit :
+Les coefficients d'équivalence applicables aux cultures spécialisées visées à l'article 188-3 du Code rural sont fixés comme suit :
 
-Cultures maraîchères de plein champ : 6
+Cultures légumières de plein champ : 5
 
-Bulbes, graines de semence : 4
+Cultures maraîchères :
 
-Terrains d'épandage, endives : 5
+Intensives : 13
 
-Cultures arbustives, fraises, plantes médicinales : 7
+Sous châssis : 25
 
-Cultures de pleine terre avec arrosage : 12
+Sous serres hautes : 50
 
-Cultures sous châssis, sous cloches, sous bâches : 23
+Arboriculture fruitière : 4
 
-Cressonnières, cultures en bassin : 100
+Petits fruits : 8
 
-Cultures sous serres hautes (forceries, légumes ou fruits) : 66
+Vignes produisant des vins C.C. : 5
+
+Vignes produisant des vins d'appellations d'origine contrôlée régionales et sous-régionales : 10
+
+Vignes produisant des vins d'appellations d'origine contrôlée communales ou de 1er cru : 18
+
+Vignes produisant des vins d'appellations contrôlées de grands crus : 22
 
 Pépinières :
 
-Forestières : 3
+Forestières : 7
 
-Jeunes plants : 25
+Fruitières : 13
 
-Fruitières : 7
+Jeunes plants : 32
 
-Ornement : 8
+Cultures florales sous abris divers : 70
 
-Arboriculture :
+Cultures florales sous serres : 220
 
-Hautes tiges : 3
+Houblon : 4
 
-Basses tiges : 4
+Tabac : 8
 
-Cultures florales :
+Cressiculture : 33
 
-De plein air : 25
+Pisciculture en bassins : 200
 
-Plantes à parfum : 15
+Pisciculture en étangs naturels : 0,25
 
-Sous abris (serres froides, châssis) : 60
-
-Serres ou châssis chauffés : 150
-
-Pivoines : 17
-
-Aquiculture : 1.200.
-
-Champignonnières : 35.
+Cultures florales de plein air : 25
