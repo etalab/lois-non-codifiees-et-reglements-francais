@@ -278,6 +278,7 @@
 - [Décret n°2004-706 du 13 juillet 2004 (DEFP0400603D)](decret-n2004-706-du-13-juillet-2004-defp0400603d)
 - [Décret n°2004-812 du 13 août 2004 (DEFP0400593D)](decret-n2004-812-du-13-aout-2004-defp0400593d)
 - [Décret n°2004-968 du 13 septembre 2004 (SOCF0411476D)](decret-n2004-968-du-13-septembre-2004-socf0411476d)
+- [Décret n°2004-971 du 13 septembre 2004 (SANS0421919D)](decret-n2004-971-du-13-septembre-2004-sans0421919d)
 - [Décret n°75-150 du 13 mars 1975](decret-n75-150-du-13-mars-1975)
 - [Décret n°2004-408 du 13 mai 2004 (INDI0420613D)](decret-n2004-408-du-13-mai-2004-indi0420613d)
 - [Décret n°2004-409 du 13 mai 2004 (INTA0400127D)](decret-n2004-409-du-13-mai-2004-inta0400127d)
