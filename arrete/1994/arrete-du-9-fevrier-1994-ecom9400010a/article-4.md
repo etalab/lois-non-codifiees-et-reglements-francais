@@ -1,6 +1,6 @@
 # Article 4
 
-Le seuil est fixé à 32 900 000 F hors T.V.A. :
+Le seuil est fixé à 32 700 000 F hors T.V.A. :
 
 1° Pour les marchés publics de travaux entrant dans le champ d'application du livre V du code des marchés publics ;
 
