@@ -368,6 +368,7 @@
 - [Arrêté du 22 mars 1989 (MENU8900647A)](arrete-du-22-mars-1989-menu8900647a)
 - [Arrêté du 22 mars 1989 (PTTT8900273A)](arrete-du-22-mars-1989-pttt8900273a)
 - [Arrêté du 22 mai 1989 (EQUS8900498A)](arrete-du-22-mai-1989-equs8900498a)
+- [Arrêté du 23 août 1989 (EQUP8900903A)](arrete-du-23-aout-1989-equp8900903a)
 - [Arrêté du 23 août 1989 (INTB8900399A)](arrete-du-23-aout-1989-intb8900399a)
 - [Arrêté du 23 août 1989 (SPSS8901783A)](arrete-du-23-aout-1989-spss8901783a)
 - [Arrêté du 23 décembre 1988 (BUDZ8800019A)](arrete-du-23-decembre-1988-budz8800019a)

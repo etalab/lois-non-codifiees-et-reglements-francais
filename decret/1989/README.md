@@ -171,6 +171,7 @@
 - [Décret n°89-245 du 13 avril 1989 (ACVP8920006D)](decret-n89-245-du-13-avril-1989-acvp8920006d)
 - [Décret n°89-501 du 13 juillet 1989 (PTTA8900486D)](decret-n89-501-du-13-juillet-1989-ptta8900486d)
 - [Décret n°89-655 du 13 septembre 1989 (PRMX8900039D)](decret-n89-655-du-13-septembre-1989-prmx8900039d)
+- [Décret n°89-666 du 13 septembre 1989 (INTX8900112D)](decret-n89-666-du-13-septembre-1989-intx8900112d)
 - [Décret n°89-96 du 13 février 1989 (MICT8900057D)](decret-n89-96-du-13-fevrier-1989-mict8900057d)
 - [Décret n°89-97 du 13 février 1989 (MICT8900058D)](decret-n89-97-du-13-fevrier-1989-mict8900058d)
 - [Décret n°90-483 du 13 juin 1990 (MENF9001100D)](decret-n90-483-du-13-juin-1990-menf9001100d)
