@@ -2,7 +2,9 @@
 
 Le conseil de discipline est une formation de la commission administrative paritaire dont relève le fonctionnaire poursuivi.
 
-Le conseil de discipline est présidé par un magistrat du siège appartenant au corps judiciaire, en activité ou honoraire, désigné après avis de l'assemblée générale de la cour d'appel par ordonnance du premier président de la cour d'appel dans le ressort de laquelle le conseil de discipline a son siège. Un suppléant du président est désigné dans les mêmes conditions. Les fonctions de président et de membre du conseil de discipline sont gratuites.
+Le conseil de discipline est présidé par un magistrat de l'ordre administratif, en activité ou honoraire, désigné par le président du tribunal administratif dans le ressort duquel le conseil de discipline a son siège. Lorsque le magistrat est affecté dans une cour administrative d'appel, sa désignation ne peut intervenir qu'avec l'accord préalable du président de cette cour. Deux suppléants du président sont désignés dans les mêmes conditions.
+
+Le conseil de discipline se réunit au centre de gestion de la fonction publique territoriale compétent pour le département où exerce le fonctionnaire concerné. Toutefois, lorsque le tribunal administratif a son siège dans le département où est installé le centre de gestion, le conseil de discipline se réunit soit au centre de gestion, soit au tribunal administratif, à la diligence du président du conseil de discipline. "
 
 Le conseil de discipline comprend en nombre égal des représentants du personnel et des représentants des collectivités territoriales et de leurs établissements publics. Pour les sapeurs-pompiers professionnels dont les emplois sont classés dans la catégorie A ou B, le conseil de discipline comprend 50 p. 100 de représentants du personnel, 25 p. 100 de représentants de l'Etat et 25 p. 100 de représentants des collectivités territoriales et de leurs établissements publics. Lorsque le nombre de représentants de l'administration est impair, le membre supplémentaire est choisi parmi les représentants des collectivités territoriales et de leurs établissements publics.
 

@@ -4,7 +4,9 @@ Il est créé dans chaque région un conseil de discipline de recours. Les sapeu
 
 Le conseil de discipline de recours a son siège au centre de gestion compétent pour le département chef-lieu de la région. Toutefois, en ce qui concerne la région Ile-de-France, le siège du conseil de discipline de recours est au centre de gestion compétent pour les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne.
 
-Les fonctions de président et de membre du conseil de discipline de recours sont gratuites [*rémunération*].
+Le conseil de discipline de recours est présidé par un magistrat de l'ordre administratif, en activité ou honoraire, désigné par le président du tribunal administratif dans le ressort duquel est situé le siège du conseil de discipline de recours. Toutefois, pour la région Lorraine, ce président est celui du tribunal administratif de Nancy. Lorsque le magistrat est affecté dans une cour administrative d'appel ou dans un autre tribunal administratif, sa désignation ne peut intervenir qu'avec l'accord préalable du président de cette juridiction. Un suppléant du président est désigné dans les mêmes conditions.
+
+Le conseil de discipline de recours se réunit à la diligence de son président soit au centre de gestion désigné au deuxième alinéa du présent article, soit au tribunal administratif dans le ressort duquel est situé le siège du conseil de discipline de recours, ou, pour la région Lorraine, au tribunal administratif de Nancy. "
 
 Le conseil de discipline de recours comprend en nombre égal des représentants du personnel et des représentants des collectivités territoriales et de leurs établissements publics. Chaque représentant a un suppléant.
 
