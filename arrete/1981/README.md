@@ -52,6 +52,7 @@
 - [Arrêté du 18 mars 1981](arrete-du-18-mars-1981)
 - [Arrêté du 19 février 1981](arrete-du-19-fevrier-1981)
 - [Arrêté du 19 janvier 1981](arrete-du-19-janvier-1981)
+- [Arrêté du 19 juin 1981](arrete-du-19-juin-1981)
 - [Arrêté du 19 mars 1981](arrete-du-19-mars-1981)
 - [Arrêté du 20 août 1980](arrete-du-20-aout-1980)
 - [Arrêté du 20 février 1981](arrete-du-20-fevrier-1981)
