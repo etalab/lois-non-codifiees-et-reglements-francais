@@ -1,3 +1,3 @@
 # Article 7
 
-Toutes dispositions contraires au présent arrêté sont abrogées, et notamment celles de l'arrêté du 29 juin 1965.
+Les dispositions des articles 1er à 4 et 6 du présent arrêté sont applicables à compter du 1er octobre 1974.
