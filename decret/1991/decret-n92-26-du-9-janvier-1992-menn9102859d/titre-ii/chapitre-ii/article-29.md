@@ -1,6 +1,6 @@
 # Article 29
 
-A l'issue d'une période de détachement de deux ans, les intéressés peuvent être intégrés sur leur demande dans le corps des conservateurs généraux des bibliothèques.
+A l'issue d'une période de détachement de cinq ans, les intéressés peuvent être intégrés sur leur demande dans le corps des conservateurs généraux des bibliothèques.
 
 Cette durée est ramenée à un an pour les membres du corps de l'inspection générale des bibliothèques.
 

@@ -10,4 +10,4 @@ Les demandes de formation relevant du présent article sont accordées par déci
 
 Le bénéficiaire d'une formation relevant du présent article demeure en position d'activité. A l'issue de cette formation, l'intéressé rédige un rapport sur ses activités pendant cette période. Ce rapport est transmis au ministre chargé de l'enseignement supérieur.
 
-L'effectif des conservateurs bénéficiant d'une formation relevant du présent article ne peut excéder 2 % de l'effectif des fonctionnaires en position d'activité et de détachement dans le corps.
+L'effectif des conservateurs bénéficiant d'une formation relevant du présent article ne peut excéder 2 p. 100 de l'effectif budgétaire du corps.

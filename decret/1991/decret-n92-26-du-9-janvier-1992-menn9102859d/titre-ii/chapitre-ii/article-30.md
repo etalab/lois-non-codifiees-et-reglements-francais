@@ -4,4 +4,4 @@ Sans préjudice de l'application des dispositions du décret n° 85-607 du 14 ju
 
 Les périodes de formation effectuées en application de l'article 22 ci-dessus viennent en déduction de cette durée.
 
-L'effectif des conservateurs généraux des bibliothèques bénéficiant de la formation prévue au premier alinéa ci-dessus ne peut excéder 4 % de l'effectif des fonctionnaires en position d'activité et de détachement dans le corps.
+L'effectif des conservateurs généraux des bibliothèques bénéficiant de la formation prévue au premier alinéa ci-dessus ne peut excéder 4 p. 100 de l'effectif budgétaire du corps.
