@@ -236,6 +236,7 @@
 - [Décret n°88-889 du 22 août 1988 (TEFT8803687D)](decret-n88-889-du-22-aout-1988-teft8803687d)
 - [Décret n°89-113 du 22 février 1989 (INTA8900030D)](decret-n89-113-du-22-fevrier-1989-inta8900030d)
 - [Décret n°89-329 du 22 mai 1989 (JUSB8910123D)](decret-n89-329-du-22-mai-1989-jusb8910123d)
+- [Décret n°89-585 du 23 août 1989 (MAEJ8930073D)](decret-n89-585-du-23-aout-1989-maej8930073d)
 - [Décret n°89-775 du 23 octobre 1989 (MENN8902270D)](decret-n89-775-du-23-octobre-1989-menn8902270d)
 - [Décret n°89-776 du 23 octobre 1989 (MENN8902271D)](decret-n89-776-du-23-octobre-1989-menn8902271d)
 - [Décret n°89-122 du 24 février 1989 (MENF8900209D)](decret-n89-122-du-24-fevrier-1989-menf8900209d)

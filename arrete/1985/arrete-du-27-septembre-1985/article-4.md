@@ -4,7 +4,7 @@ Le choix des années-recherche offertes dans chaque interrégion est arrêté pa
 
 Pour l'affectation des internes, il est établi un classement qui tient compte :
 
-D'une part, du nombre de points, exprimés sur la base 100, obtenus aux concours de l'internat en médecine et en pharmacie de l'interrégion par chaque interne en médecine à l'épreuve multidisciplinaire, et par chaque interne en pharmacie à l'ensemble des épreuves du concours ;
+- D'une part, du nombre de points, exprimés sur la base 100, obtenus par chaque interne aux concours de l'internat en médecine ou en pharmacie de l'interrégion, à l'ensemble des épreuves du concours ;
 
 D'autre part, d'une majoration de points, dans la limite de vingt points accordée pour la validation préalable au déroulement du concours, d'enseignements complémentaires de deuxième cycle à raison de :
 
