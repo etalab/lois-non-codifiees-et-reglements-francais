@@ -4,3 +4,4 @@
 - [Article 27 bis](article-27-bis.md)
 - [Article 27 ter](article-27-ter.md)
 - [Article 28](article-28.md)
+- [Article 28 bis](article-28-bis.md)

@@ -16,8 +16,4 @@ Sous réserve du respect des dispositions de l'article 33 de la Convention de Ge
 
 Les dispositions du présent article ne font pas obstacle au droit souverain de l'Etat d'accorder l'asile à toute personne qui se trouverait néanmoins dans l'un des cas mentionnés aux 1° à 4° du présent article.
 
-Dans le cas où l'admission au séjour lui a été refusée
-
-[Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 93-325 DC du 13 août 1993],
-
-le demandeur d'asile peut saisir l'Office français de protection des réfugiés et apatrides d'une demande de reconnaissance de la qualité de réfugié.
+Dans le cas où l'admission au séjour lui a été refusée pour l'un des motifs visés aux 2° à 4° du présent article, le demandeur d'asile peut saisir l'Office français de protection des réfugiés et apatrides d'une demande de reconnaissance de la qualité de réfugié.

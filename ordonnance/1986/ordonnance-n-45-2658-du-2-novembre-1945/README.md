@@ -6,6 +6,7 @@
 - [Chapitre 3 : Pénalités.](chapitre-3)
 - [CHAPITRE III : PENALITES.](chapitre-iii)
 - [Chapitre 4 : De la reconduite à la frontière](chapitre-4)
+- [Chapitre 5 : De l'expulsion.](chapitre-5)
 - [CHAPITRE V : DE L'EXPULSION.](chapitre-v)
 - [Chapitre 5 bis : Dispositions communes à la reconduite à la frontière et à l'expulsion.](chapitre-5-bis)
 - [CHAPITRE V bis : DISPOSITIONS COMMUNES A LA RECONDUITE A LA FRONTIERE ET A L'EXPULSION.](chapitre-v-bis)
