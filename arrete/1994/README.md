@@ -309,7 +309,6 @@
 - [Arrêté du 8 septembre 1994 (INTD9400483A)](arrete-du-8-septembre-1994-intd9400483a)
 - [Arrêté du 9 août 1994 (AGRG9401401A)](arrete-du-9-aout-1994-agrg9401401a)
 - [Arrêté du 9 août 1994 (BUDR9401147A)](arrete-du-9-aout-1994-budr9401147a)
-- [Arrêté du 9 août 1994 (INDH9400934A)](arrete-du-9-aout-1994-indh9400934a)
 - [Arrêté du 9 décembre 1994 (DEFG9402200A)](arrete-du-9-decembre-1994-defg9402200a)
 - [Arrêté du 9 février 1994 (DEFD9401163A)](arrete-du-9-fevrier-1994-defd9401163a)
 - [Arrêté du 9 février 1994 (ECOM9400010A)](arrete-du-9-fevrier-1994-ecom9400010a)
