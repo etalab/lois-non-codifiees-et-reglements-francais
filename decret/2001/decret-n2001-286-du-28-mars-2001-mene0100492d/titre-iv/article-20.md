@@ -14,6 +14,8 @@ Le jury est composé à parts égales :
 
 - de professeurs appartenant à l'enseignement public et, sauf impossibilité, d'au moins un professeur appartenant à l'enseignement privé sous contrat ou exerçant en centre de formation d'apprentis ou en section d'apprentissage ;
 
-- de membres de la profession, employeurs et salariés, correspondant au champ du diplôme.
+- de membres de la profession, employeurs et salariés, correspondant au champ du diplôme ;
+
+- de membres de la profession correspondant au champ du diplôme, choisis en nombre égal parmi les employeurs et les salariés.
 
 Si cette parité n'est pas atteinte en raison de l'absence d'un ou de plusieurs de ses membres, le jury peut néanmoins délibérer valablement.
