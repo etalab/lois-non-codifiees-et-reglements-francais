@@ -8,10 +8,8 @@ A condition d'avoir adopté des statuts conformes à des statuts types définis 
 
 Elles ont un pouvoir disciplinaire, dans le respect des principes généraux du droit, à l'égard des groupements sportifs qui sont affiliés et de leurs licenciés et font respecter les règles techniques et déontologiques de leurs disciplines. Elles peuvent déléguer à des organes internes une partie de leurs attributions dans la limite de la compétence territoriale de ces derniers.
 
-Les fédérations sportives peuvent recevoir un concours financier et en personnel de l'Etat conformément à l'article 44 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
+Les fédérations sportives qui participent à l'exécution d'une mission de service public adoptent des règlements disciplinaires conformes à un règlement type défini par décret en Conseil d'Etat après avis du Comité national olympique et sportif français.
+
+Les fédérations sportives peuvent recevoir un concours financier et en personnel de l'Etat conformément à l'article 44 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat. Des conventions conclues entre l'Etat et les fédérations sportives mentionnées à l'article 17 fixent les objectifs permettant le développement des disciplines sportives ainsi que le perfectionnement et l'insertion professionnelle des athlètes et précisent les engagements souscrits à cet effet. De telles conventions peuvent être également conclues avec les autres fédérations mentionnées au présent article.
 
 Les fédérations sportives sont placées sous la tutelle du ministre chargé des sports, à l'exception de la confédération du sport scolaire et universitaire, des fédérations et unions sportives scolaires et universitaires qui sont placées sous la tutelle du ministre chargé de l'éducation nationale. Toutefois, le ministre chargé des sports participe à la définition et à la mise en oeuvre des objectifs de ces groupements. Les ministres de tutelle veillent, chacun en ce qui le concerne, au respect par les fédérations des lois et règlements en vigueur.
-
-Les comités de direction des fédérations sportives doivent être renouvelés, en application de la présente loi, dans un délai de six mois à compter de la publication du décret prévu au troisième alinéa du présent article.
-
-Par dérogation à la réglementation en vigueur avant la promulgation de la présente loi, les fédérations sportives sont autorisées à proroger dans des délais identiques le mandat de leurs dirigeants élus aux comités de direction.

@@ -1,5 +1,5 @@
 # Article 49
 
-Quiconque ouvre ou fait fonctionner un établissement d'activités physiques et sportives en infraction aux dispositions des articles 37 et 47 de la présente loi ou maintient en activité un établissement frappé d'un arrêté d'interdiction, est puni d'une amende de 6.000 F à 50.000 F et d'un emprisonnement de six mois à un an ou de l'une de ces deux peines seulement [*sanctions pénales*].
+Quiconque exerce une activité d'enseignement, d'encadrement ou d'animation d'une activité physique et sportive, sans avoir procédé à la déclaration requise en application de l'article 47-1, ou en violation d'un arrêté pris en application de l'article 48-1, sera puni d'une amende de 6 000 F à 50 000 F et d'un emprisonnement de six mois à un an ou de l'une de ces deux peines seulement.
 
-Le tribunal peut, en outre, ordonner la fermeture de l'établissement.
+Sera puni des mêmes peines quiconque exploite un établissement sans avoir procédé à la déclaration requise en application de l'article 47-1 ou le maintien en activité en violation de l'article 48.

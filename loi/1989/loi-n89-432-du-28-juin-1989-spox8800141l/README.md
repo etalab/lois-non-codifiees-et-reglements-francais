@@ -8,4 +8,3 @@
 - [Titre 4 : Des mesures administratives.](titre-4)
 - [Titre 5 : Dispositions pénales.](titre-5)
 - [Titre 6 : Dispositions diverses.](titre-6)
-- [TITRE VI : DISPOSITIONS DIVERSES.](titre-vi)

@@ -10,8 +10,8 @@ Des dérogations peuvent être accordées aux collectivités territoriales par a
 
 L'exploitation d'un établissement visé à l'article 47 est également subordonnée à la souscription par l'exploitant d'un contrat d'assurance couvrant sa responsabilité civile, celle des enseignants visée à l'article 43 et de tout préposé de l'exploitant, ainsi que des personnes habituellement ou occasionnellement admises dans l'établissement pour y exercer les activités qui y sont enseignées.
 
-Un décret fixe les modalités d'application des assurances obligatoires instituées par les alinéas précédents, notamment l'étendue des garanties et les modalités de contrôle.
+Un décret fixe les modalités d'application des assurances obligatoires instituées par les alinéas précédents, notamment les modalités de contrôle.
 
-Ces assurances obligatoires entrent en vigueur le premier jour du troisième mois suivant la publication du décret visé à l'alinéa précédent. A compter de cette date, tout contrat d'assurance couvrant expressément la responsabilité des personnes susvisées sera, nonobstant toute clause contraire, réputé comporter des garanties au moins équivalentes à celles fixées par le décret prévu.
+Ces assurances obligatoires entrent en vigueur le premier jour du troisième mois suivant la publication du décret visé à l'alinéa précédent.
 
 Quiconque contrevient aux dispositions du présent article est puni d'une amende de 6.000 F à 50.000 F et d'un emprisonnement de six mois à un an ou de l'une de ces peines seulement [*sanctions pénales*].
