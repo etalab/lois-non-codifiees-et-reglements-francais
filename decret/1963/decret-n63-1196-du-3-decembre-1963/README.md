@@ -6,4 +6,5 @@
 - [TITRE IV : Insignes et brevets](titre-iv)
 - [TITRE V : Discipline.](titre-v)
 - [TITRE VI : Administration de l'ordre.](titre-vi)
+- [TITRE VII : Dispositions diverses.](titre-vii)
 - [Article 40](article-40.md)
