@@ -60,37 +60,21 @@ Diplôme d'élève breveté en bactério-biochimie, anciennement délivré par l
 
 Epreuves du concours.
 
-Le concours comporte les épreuves suivantes :
+Epreuves écrites :
 
 1° Composition sur un sujet d'ordre général en rapport avec la profession (durée : trois heures ; coefficient 2) ;
 
-2° Mathématique : un problème de géométrie et un problème d'algèbre (niveau baccalauréat) (durée : trois heures ; coefficient 2).
+2° Mathématiques : un problème d'algèbre et un problème de géométrie (niveau baccalauréat) (durée : trois heures ; coefficient 2).
 
 Epreuves orales :
 
-1° Une interrogation de physique et de chimie (coefficient 1) ;
+1° Interrogation de physique et de chimie (coefficient 1) ;
 
-2° Une interrogation de droit administratif, de législation et réglementation sanitaires (coefficient 2) ;
+2° Interrogation de législation et réglementation sanitaires et d'organisation administrative et institutions (coefficient 3) ;
 
-3° Une interrogation sur le programme pratique du service et éventuellement une épreuve pratique (coefficient 2).
+3° Interrogation sur la pratique du service pouvant comporter une épreuve pratique (coefficient 2).
 
 Programme.
-
-Arithmétique :
-
-Opérations sur les nombres entiers et décimaux.
-
-Divisibilité : plus grand commun diviseur, plus petit commun multiple.
-
-Fractions.
-
-Système des poids et mesures : mesures de longueurs, surfaces, capacité et poids.
-
-Opérations sur les nombres exprimant la mesure du temps et des angles.
-
-Règle de trois.
-
-Rapports et proportions, partages proportionnels, mélanges, pourcentages, intérêts.
 
 Algèbre :
 
@@ -116,7 +100,7 @@ Calcul des volumes : parallélépipède, prisme, pyramide, cylindre, cône et sp
 
 Physique :
 
-Unités de mesure : pesanteur, mesure des poids, des masses.
+Unités de mesure : pesanteur, mesure de poids, des masses.
 
 Densité et poids spécifique.
 
@@ -138,54 +122,56 @@ Carbone : Combustion, propriétés réductrices ; oxydes de carbone, gaz carboni
 
 Principaux minerais : oxydes, sulfures, carbonates.
 
-Eléments de droit administratif :
-
-Notions élémentaires sur l'organisation administrative :
-
-l'Etat, le département, la commune.
-
-Le bureau d'hygiène.
-
-Rôle du maire en matière d'hygiène (code de l'administration communale, titre V, Police, chap. Ier).
-
-Rôle du préfet (code de la santé publique, livres Ier et VIII).
-
 Législation et réglementation sanitaires :
 
-Code de la santé publique (livre Ier : Protection générale de la santé publique et livre VIII : Institutions).
+Code de la santé publique : Livre Ier "Protection générale de la santé publique", à l'exclusion des titres Ier bis et II.
 
-Règlement sanitaire départemental type (circulaire du 24 mai 1963).
+Le règlement sanitaire départemental type (circulaires du 9 août 1978 et du 26 avril 1982).
 
-Règlement d'urbanisme. Règlement de construction.
+Code de l'urbanisme, code de l'habitation et de la construction.
 
-Législation des établissements classés.
+Législation et réglementation des installations classées (brochures 1001-I, 1001-II, 1001-III du Journal officiel.
 
-Règlement des piscines et baignades (circulaires des 8 et 16 mai 1947).
+Législation et réglementation relatives à la lutte contre les pollutions atmosphériques et les odeurs (loi du 2 août 1961 et textes d'application.
 
-Assainissement des agglomérations (circulaire du 7 juillet 1970 brochure n° 70-135 du Journal officiel).
+Législation et réglementation relatives à l'élimination des déchets et à la récupération des matériaux (brochure n° 1416 du Journal officiel).
 
-Loi du 2 août 1961 sur la pollution atmosphérique et les odeurs ainsi que les règlements et textes subséquents.
+Législation et réglementation relatives à l'habitat insalubre (loi du 7 juillet 1970).
 
-Réglementation des fosses septiques et appareils équivalents (brochure Journal officiel n° 1086).
+Législation et réglementation relatives aux eaux destinées à la consommation humaine (brochure n° 1327 du Journal officiel).
 
-Instruction du conseil supérieur d'hygiène publique de France sur les abattoirs.
+Législation et réglementation relatives à la lutte contre la pollution des eaux et à l'assainissement (brochure n° 1327 du Journal officiel).
 
-Instruction du 14 avril 1962 sur les ordures ménagères (Journal officiel du 2 mai 1962).
+Réglementation relative à la lutte contre le bruit (brochures n° 1383-I et 1383-II du Journal officiel).
 
-Législation des eaux potables (voir recueil textes du ministère de la santé publique n° 62-31 bis).
+Législation et réglementation relatives aux inhumations et aux transports de corps (brochure n° 1279 du Journal officiel).
 
-Ordonnance du 23 octobre 1958 sur le raccordement obligatoire à l'égout des immeubles d'habitation.
+Réglementation sur les matériaux au contact des aliments et des denrées destinées à l'alimentation humaine (brochure n° 1227 du Journal officiel).
 
-Circulaire du 28 mars 1961 relative à la lutte contre le bruit (recueil textes du ministère de la santé publique n° 61-15).
+Organisation administrative et institutions :
 
-Circulaire du 31 mars 1960 relative à l'insalubrité des immeubles (recueil textes du ministère de la santé publique n° 60-15).
+Organisation administrative des services compétents en matière de santé :
 
-Réglementation sur la répression des fraudes et des falsifications des denrées alimentaires (en cas de recrutement d'inspecteurs de salubrité affectés au contrôle des denrées alimentaires).
+Ministère chargé de la santé et ses services extérieurs ;
+
+Bureaux municipaux d'hygiène ;
+
+Autres administrations ;
+
+Laboratoires agréés pour le contrôle sanitaire des eaux.
+
+Rôles du maire et du commissaire de la République en matière d'hygiène et de protection de la santé publique.
+
+Institutions (code de la santé publique, livre VIII) :
+
+Conseil supérieur d'hygiène publique de France ;
+
+Conseil départemental d'hygiène.
 
 Pratique du service :
 
 Notions sur :
 
-L'origine et la prophylaxie des maladies transmissibles.
+L'origine et la prophylaxie des maladies transmissibles ;
 
 Les prescriptions tendant à assurer la salubrité des habitations, des voies et des agglomérations, l'alimentation en eau potable, la protection contre les eaux et les matières usées.

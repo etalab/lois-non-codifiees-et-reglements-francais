@@ -1,0 +1,3 @@
+# Article 1
+
+Dans la limite des crédits ouverts à cet effet, les fonctionnaires du corps des chefs de centre des services déconcentrés du travail et de la main-d'oeuvre et du corps des contrôleurs des services déconcentrés du travail et de la main-d'oeuvre peuvent percevoir une indemnité spéciale dont les taux moyens annuels sont fixés par arrêté conjoint du ministre d'Etat, ministre de la fonction publique et des réformes administratives, du ministre du travail, de l'emploi et de la formation professionnelle et du ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé du budget.

@@ -1,0 +1,5 @@
+# Article 1
+
+A compter de la date d'installation de leur conseil régional, élu dans les conditions prévues par la présente loi, les régions de Guadeloupe, de Guyane, de Martinique et de la Réunion sont érigées en collectivités territoriales conformément aux dispositions de l'article 59 de la loi n° 82-213 du 2 mars 1982 modifiée relative aux droits et libertés des communes, des départements et des régions. Ces régions sont régies par les dispositions de la présente loi et par les dispositions non contraires de la loi n° 72-619 du 5 juillet 1972 portant création et organisation des régions, modifiées par les dispositions des titres III et IV de la loi n° 82-213 précitée.
+
+Le conseil régional règle par ses délibérations les affaires de la région. Il a compétence pour promouvoir le développement économique, social, sanitaire, culturel et scientifique de la région et l'aménagement de son territoire et pour assurer la préservation de son identité, dans le respect de l'intégrité, de l'autonomie et des attributions des départements et des communes.

@@ -1,3 +1,3 @@
 # Article 2
 
-Les fichiers nominatifs ne concernent que des contribuables relevant de la compétence des directions spécialisées, des directions départementales ou des directions régionales compétentes.
+Les fichiers nominatifs concernent les personnels de ces directions ainsi que les élus locaux des régions, départements et communes concernés.

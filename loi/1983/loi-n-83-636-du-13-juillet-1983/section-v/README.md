@@ -1,4 +1,4 @@
-# Section V : Dispositions diverses
+# Section V Dispositions financières et fiscales communes à la communauté d'agglomération nouvelle et au syndicat d'agglomération nouvelle
 
 - [Article 24](article-24.md)
 - [Article 25](article-25.md)

@@ -1,6 +1,7 @@
 # Décret n°87-154 du 27 février 1987 relatif à la coordination interministérielle et à l'organisation de l'administration dans le domaine de l'eau
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

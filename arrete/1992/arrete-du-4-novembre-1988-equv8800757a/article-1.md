@@ -1,0 +1,3 @@
+# Article 1
+
+La mission d'inspection générale exercée par le Conseil général des ponts et chaussées sur les directions départementales de l'équipement, en application de l'article 2 (3e alinéa) du décret n° 86-1175 du 31 octobre 1986 susvisé, est étendue aux missions assurées par ces directions conformément au protocole interministériel du 26 juin 1959 et aux avenants interministériels n° 1 des 2 juin 1969 et 20 juin 1969 relatifs aux constructions d'établissements d'enseignement et aux constructions sportives réalisées pour le compte du ministère de l'éducation nationale, de la jeunesse et des sports.

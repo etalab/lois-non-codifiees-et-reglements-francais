@@ -1,0 +1,3 @@
+# Article 1
+
+Dans les services de médecine de prévention ouverts à l'administration centrale et dans les établissements et services déconcentrés du ministère de la défense, les infirmiers et infirmières en chef assistent le médecin de prévention et sont particulièrement chargés soit de l'organisation et de l'animation des actions de formation et de prévention, soit du suivi des traitements ou examens des agents occupant des postes exposés à des nuisances particulières, soit de l'encadrement d'une équipe médico-administrative composée d'au moins quatre personnes dont deux infirmiers ou infirmières.

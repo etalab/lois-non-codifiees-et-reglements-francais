@@ -1,5 +1,9 @@
 # Article 3
 
-Les informations contenues dans le système de traitement sont les suivantes :
+Le secrétaire général dispose :
 
-nom et prénom du demandeur, adresse, date de l'arrivée de la lettre et nature de la demande, date de l'accusé de réception, date et destination des interventions faites, date origine et nature des réponses obtenues, date et nature des différentes correspondances avec le demandeur, date de la clôture du dossier.
+- de la cellule chargée de la coordination des questions relatives au personnel, mise à disposition du secrétaire d'Etat par la direction du personnel ;
+
+- de la cellule "Equipement - Moyens de fonctionnement", mise à la disposition du secrétaire d'Etat par la direction de l'administration générale.
+
+Il a autorité sur la cellule chargée de la coordination des affaires budgétaires.

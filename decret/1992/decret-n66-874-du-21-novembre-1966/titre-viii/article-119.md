@@ -1,0 +1,3 @@
+# Article 119
+
+Le ministre d'Etat chargé de la réforme administrative, le garde des sceaux, ministre de la justice, le ministre de l'économie et des finances et le secrétaire d'Etat au budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française et qui prendra effet à compter du 1er mai 1966, sauf en ce qui concerne les dispositions relatives aux chefs de maison d'arrêt, aux adjoints de probation, aux instructeurs techniques, aux commis, aux chefs de service pénitentiaire et aux directeurs régionaux, dont la mise en place des emplois correspondants devra s'échelonner progressivement, compte tenu des disponibilités budgétaires.

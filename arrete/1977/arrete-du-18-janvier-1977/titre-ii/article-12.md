@@ -1,5 +1,3 @@
 # Article 12
 
-Seuls sont admis à se présenter aux épreuves d'aptitude physique et aux épreuves orales les candidats ayant obtenu un total de 100 points aux épreuves écrites, la note 6 sur 20 dans l'une quelconque des trois épreuves étant éliminatoire après délibération du jury ".
-
-Le bénéfice de l'admissibilité ne peut être conservé par les candidats se présentant une deuxième fois.
+La liste d'aptitude est établie à l'issue des épreuves d'aptitude physique et des épreuves orales par arrêté du ministre de l'intérieur sur le vu des délibérations de la commission, dans la limite du nombre de candidats fixé à l'arrêté prévu à l'article 7.

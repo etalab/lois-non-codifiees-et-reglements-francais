@@ -1,29 +1,29 @@
 # Article 9
 
-Les personnels visés par le présent arrêté sont répartis ainsi qu'il suit entre les différents groupes énumérés par l'arrêté prévu à l'article 5 du décret du 28 mars 1967 susvisé fixant par pays et par groupes les taux de l'indemnité de résidence.
+Les personnels visés par le présent arrêté sont répartis conformément au tableau ci-après entre les différents groupes énumérés par l'arrêté prévu à l'article 5 du décret du 28 mars 1967 susvisé fixant par pays et par groupes les taux de l'indemnité de résidence :
 
-Groupe 24 :
+- administrateur civil de 1re classe et hors classe :
 
-Commis des services extérieurs.
+groupe 7 ;
 
-Ouvrier professionnel de 1re catégorie et maître-ouvrier.
+- administrateur civil de 2e classe : groupe 8 ;
 
-Agent technique de l'électronique.
+- chef de service administratif, inspecteur principal d'études des transmissions : groupe 13 ;
 
-Agent des transmissions et de l'électronique.
+- attaché de service administratif de 1re classe, ingénieur d'études et de fabrications de 1re et 2e classe, inspecteur principal adjoint des transmissions, inspecteur central des transmissions :
 
-Groupe 25 :
+groupe 14 ;
 
-Sténodactylographe des services extérieurs.
+- ingénieur d'études et de fabrications de 3e classe, attaché de service administratif de 2e classe, inspecteur des transmissions :
 
-Ouvrier professionnel de 2e catégorie.
+groupe 15 ;
 
-Groupe 26 :
+- technicien supérieur d'études et de fabrications de 1re et 2e classe, secrétaire administratif en chef, secrétaire administratif chef de section, contrôleur divisionnaire des transmissions, contrôleur chef de section des transmissions, assistant(e) de service social : groupe 16 ;
 
-Agent technique de bureau des services extérieurs.
+- secrétaire administratif, technicien supérieur d'études et de fabrications de 3e classe, contrôleur des transmissions : groupe 18 ;
 
-Ouvrier professionnel de 3e catégorie.
+- adjoint administratif, maître ouvrier, ouvrier professionnel de 1re catégorie, agent technique de l'électronique, agent des transmissions et de l'électronique : groupe 24 ;
 
-Agent de bureau des services extérieurs.
+- ouvrier professionnel de 2e catégorie : groupe 25 ;
 
-Agent de service des services extérieurs.
+- agent administratif des services déconcentrés, ouvrier professionnel de 3e catégorie, agent de service des services déconcentrés : groupe 26.

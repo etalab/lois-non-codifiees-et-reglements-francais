@@ -1,3 +1,3 @@
 # Article 13
 
-Les épreuves d'aptitude physique et les épreuves orales sont passées dans le centre désigné par le directeur de la sécurité civile pour les candidats ayant subi les épreuves écrites dans un centre non situé dans les D.O.M.
+La liste d'aptitude est établie par ordre alphabétique, en ce qui concerne les candidats inscrits au titre du 1° de l'article 5 ci-dessus, et par ordre de mérite, pour ceux inscrits au titre des 2° et 3° du même article.

@@ -1,3 +1,3 @@
 # Article 4
 
-Les informations permettant d'identifier le demandeur sont fournies aux destinataires des interventions.
+Le secrétaire général est nommé par arrêté du secrétaire d'Etat auprès du Premier ministre, chargé de l'environnement et de la qualité de la vie.

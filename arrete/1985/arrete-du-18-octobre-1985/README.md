@@ -1,5 +1,7 @@
-# Arrêté du 18 octobre 1985 fixant le gain annuel minimum susceptible d'être déclaré par les exploitants agricoles qui contractent, pour les membres de leur famille et pour eux-mêmes, une assurance complémentaire contre les accidents du travail et les maladies professionnelles
+# Arrêté du 18 octobre 1985 portant création de la commission de l'informatique et de la bureautique du ministère de l'environnement.
 
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

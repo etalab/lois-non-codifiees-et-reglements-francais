@@ -1,0 +1,3 @@
+# Article 13
+
+Les directions départementales de l'agriculture et de la forêt du Bas-Rhin, du Haut-Rhin et de la Moselle sont chargées de l'ensemble des problèmes techniques relevant du domaine de l'hydraulique, à l'exclusion de ceux relatifs à la navigation. Elles sont responsables du service d'annonce des crues, des cours d'eau désignés par l'arrêté du 27 février 1984 portant réorganisation des services d'annonce des crues. Elles assurent la gestion des ouvrages hydrauliques de régulation des débits, et notamment des barrages-réservoirs : lacs des Truites, lac de Soultzeren, lac de Schiessrothried, lac de l'Altenweiler, lac de la Lauch, lac du Ballon, dans le Haut-Rhin.

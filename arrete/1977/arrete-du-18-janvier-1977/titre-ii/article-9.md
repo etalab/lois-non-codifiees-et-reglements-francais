@@ -1,6 +1,6 @@
 # Article 9
 
-Le ministre de l'intérieur nomme, par arrêté, les membres de la commission prévue à l'article 2 dont la composition est fixée ainsi qu'il suit :
+Le ministre de l'intérieur nomme par arrêté les membres de la commission dont la composition est fixée ainsi qu'il suit :
 
 Président
 
@@ -10,26 +10,20 @@ Membres
 
 Le chef de l'inspection générale de la sécurité civile ou son représentant ;
 
-Un administrateur civil ;
+Deux représentants des collectivités locales, membres de la commission nationale paritaire ;
 
-Le directeur du centre national d'instruction de la protection contre l'incendie ;
+Un inspecteur départemental professionnel, membre de la commission nationale paritaire désigné en application des dispositions du troisième alinéa de l'article 14 du décret n° 85-1229 du 20 novembre 1985
 
-Un professeur de mathématiques de l'enseignement secondaire ;
+Deux officiers professionnels du grade de capitaine ou d'un grade supérieur, membres de la commission nationale paritaire ;
 
-Un professeur de sciences de l'enseignement secondaire ;
+désigné en application des dispositions du troisième alinéa de l'article 14 du décret n° 85-1229 du 20 novembre 1985
 
-Deux inspecteurs départementaux professionnels des services d'incendie et de secours ;
+Le conseiller juridique de la direction de la sécurité civile ;
 
-Un chef de corps professionnel de sapeurs-pompiers ;
+Deux professeurs de sciences d'une école d'ingénieurs.
 
-Deux médecins chefs ou médecins de sapeurs-pompiers communaux ;
+Le président désigne parmi les membres de la commission ceux chargés de la correction du concours sur épreuves.
 
-L'inspecteur de l'entraînement physique des corps de sapeurs-pompiers ou son suppléant ;
-
-Deux officiers professionnels de sapeurs-pompiers dont un titulaire du brevet d'instruction d'entraînement physique spécialisé ou d'un diplôme d'éducation physique au moins équivalent.
-
-Le président désigne parmi les membres de la commission les correcteurs des épreuves écrites et les examinateurs des épreuves orales et des épreuves d'aptitude physique.
-
-La commission peut s'adjoindre des techniciens avec voix consultative pour assurer ces travaux.
+La commission peut s'adjoindre des techniciens avec voix consultative pour assurer une partie de cette correction, et notamment des médecins chefs ou médecins de sapeurs-pompiers.
 
 Le secrétariat est assuré par le bureau chargé des personnels spécialisés de la sécurité civile.

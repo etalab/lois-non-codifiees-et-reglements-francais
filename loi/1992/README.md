@@ -1,5 +1,6 @@
 # 1992
 
+- [Loi n° 89-1006 du 31 décembre 1989 (JUSX8900137L)](loi-n-89-1006-du-31-decembre-1989-jusx8900137l)
 - [Loi n° 91-1241 du 13 décembre 1991 (DEFX9100113L)](loi-n-91-1241-du-13-decembre-1991-defx9100113l)
 - [Loi n° 91-1256 du 17 décembre 1991 (EQUX9110329L)](loi-n-91-1256-du-17-decembre-1991-equx9110329l)
 - [Loi n° 91-1379 du 28 décembre 1991 (DOMX9100153L)](loi-n-91-1379-du-28-decembre-1991-domx9100153l)

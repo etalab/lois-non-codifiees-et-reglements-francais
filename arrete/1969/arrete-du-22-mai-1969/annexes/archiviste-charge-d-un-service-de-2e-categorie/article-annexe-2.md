@@ -14,9 +14,7 @@ Le nombre des candidats à recevoir est réparti par moitié entre chacun des de
 
 Les épreuves des deux concours sont soumises à l'appréciation d'un même jury.
 
-En cas d'insuffisance du nombre de candidats reçus à l'un des deux concours, des admissions complémentaires peuvent être prononcées, par le jury, au bénéfice des candidats de l'autre concours.
-
-(1) Le recrutement par voie de concours sur titres a été supprimé par l'arrêté du 25 mars 1974, article 1er.
+En cas d'insuffisance du nombre de candidats reçus à l'un des deux concours, des admissions complémentaires peuvent être prononcées, par le jury, au bénéfice des candidats de l'autre concours.    (1) Le recrutement par voie de concours sur titres a été supprimé par l'arrêté du 25 mars 1974, article 1er.
 
 Le concours comporte les épreuves suivantes :
 
@@ -104,4 +102,4 @@ La licence des techniques d'archives et de documentation délivrée par l'univer
 
 Diplôme supérieur des sciences et techniques de l'information et de la documentation délivré par l'institut national des techniques de la documentation du Conservatoire national des arts et métiers.
 
-Diplôme de spécialisation, mention Documentation, délivré par l'université de Paris-VIII.//
+Diplôme de spécialisation, mention Documentation, délivré par l'université de Paris-VIII.//    Diplôme d'études supérieures spécialisées (D.E.S.S.) en techniques d'archives et de documentation délivré par l'université de Haute-Alsace, à Mulhouse.

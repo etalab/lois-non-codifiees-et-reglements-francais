@@ -2,6 +2,7 @@
 
 - [Article 18](article-18.md)
 - [Article 19](article-19.md)
+- [Article 25](article-25.md)
 - [Article 27](article-27.md)
 - [Article 28](article-28.md)
 - [Article 29](article-29.md)

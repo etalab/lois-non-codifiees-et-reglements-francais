@@ -1,3 +1,3 @@
 # Article 3
 
-Toute personne physique ou morale qui organise une animation équestre peut solliciter le bénéfice de ces subventions.
+Les informations saisies sont conservées jusqu'à la fin du premier trimestre de l'année suivant la date de levée d'écrou.

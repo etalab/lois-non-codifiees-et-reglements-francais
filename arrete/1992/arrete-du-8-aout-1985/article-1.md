@@ -1,0 +1,3 @@
+# Article 1
+
+Les collectivités territoriales sont autorisées à verser aux personnels des services déconcentrés du ministère de l'éducation nationale et du ministère de la jeunesse et des sports chargés d'assurer, à titre d'occupation accessoire et pendant la période comprise entre le 1er juillet et la date de la rentrée scolaire de chaque année, les fonctions de maître nageur sauveteur de plages ou de piscines municipales une indemnité forfaitaire mensuelle égale au maximum au traitement brut mensuel servi à un professeur adjoint d'éducation physique et sportive en début de carrière (indice brut 267).
