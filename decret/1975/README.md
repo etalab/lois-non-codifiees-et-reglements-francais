@@ -10,6 +10,7 @@
 - [Décret n°75-84 du 6 février 1975](decret-n75-84-du-6-fevrier-1975)
 - [Décret n°75-79 du 7 février 1975](decret-n75-79-du-7-fevrier-1975)
 - [Décret n°75-19 du 8 janvier 1975](decret-n75-19-du-8-janvier-1975)
+- [Décret n°75-223 du 8 avril 1975](decret-n75-223-du-8-avril-1975)
 - [Décret n°74-737 du 12 août 1974](decret-n74-737-du-12-aout-1974)
 - [Décret n°75-177 du 12 mars 1975](decret-n75-177-du-12-mars-1975)
 - [Décret n°75-150 du 13 mars 1975](decret-n75-150-du-13-mars-1975)
