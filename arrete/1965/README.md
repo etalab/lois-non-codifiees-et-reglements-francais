@@ -21,4 +21,5 @@
 - [Arrêté du 25 avril 1964](arrete-du-25-avril-1964)
 - [Arrêté du 26 avril 1965](arrete-du-26-avril-1965)
 - [Arrêté du 26 février 1965](arrete-du-26-fevrier-1965)
+- [Arrêté du 27 juillet 1965](arrete-du-27-juillet-1965)
 - [Arrêté du 30 avril 1965](arrete-du-30-avril-1965)
