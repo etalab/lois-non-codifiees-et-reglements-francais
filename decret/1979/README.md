@@ -62,6 +62,7 @@
 - [Décret n°79-614 du 16 juillet 1979](decret-n79-614-du-16-juillet-1979)
 - [Décret n°79-40 du 17 janvier 1979](decret-n79-40-du-17-janvier-1979)
 - [Décret n°79-41 du 17 janvier 1979](decret-n79-41-du-17-janvier-1979)
+- [Décret n°79-800 du 17 septembre 1979](decret-n79-800-du-17-septembre-1979)
 - [Décret n°79-394 du 17 mai 1979](decret-n79-394-du-17-mai-1979)
 - [Décret n°79-58 du 18 janvier 1979](decret-n79-58-du-18-janvier-1979)
 - [Décret n°79-67 du 18 janvier 1979](decret-n79-67-du-18-janvier-1979)
