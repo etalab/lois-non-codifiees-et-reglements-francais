@@ -1,6 +1,7 @@
 # Décret n°62-1409 du 27 novembre 1962 relatif aux modalités de financement de l'équipement scolaire du second degré
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 6](article-6.md)
