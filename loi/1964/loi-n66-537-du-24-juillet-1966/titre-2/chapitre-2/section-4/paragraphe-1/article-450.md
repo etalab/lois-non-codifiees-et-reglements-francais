@@ -1,10 +1,10 @@
 # Article 450
 
-Sous réserve des dispositions de l'article 186, seront punis d'une amende de 2.000 F à 120.000 F [*sanctions*], le président, les administrateurs ou les directeurs généraux d'une société anonyme qui, lors d'une augmentation de capital :
+Sous réserve des dispositions des articles 184 à 186-3, seront punis d'une amende de 2.000 à 120.000 francs [*sanctions pénales*], le président, les administrateurs ou les directeurs généraux d'une société anonyme qui, lors d'une augmentation de capital :
 
 1° N'auront pas fait bénéficier les actionnaires, proportionnellement au montant de leurs actions, d'un droit de préférence à la souscription des actions de numéraire ;
 
-2° N'auront pas réservé aux actionnaires un délai de trente jours au moins à dater de l'ouverture de la souscription, pour l'exercice de leur droit de souscription ;
+2° N'auront pas réservé aux actionnaires un délai de vingt jours au moins à dater de l'ouverture de la souscription, pour l'exercice de leur droit de souscription ;
 
 3° N'auront pas attribué les actions rendues disponibles, faute d'un nombre suffisant de souscriptions à titre préférentiel, aux actionnaires ayant souscrit à titre réductible un nombre d'actions supérieur à celui qu'ils pouvaient souscrire à titre préférentiel, proportionnellement aux droits dont ils disposent ;
 
