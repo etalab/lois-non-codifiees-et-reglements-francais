@@ -1,6 +1,6 @@
 # Article 1
 
-Les catégories de liaisons louées dont la fourniture sur le territoire national et vers les pays de la Communauté européenne par l'exploitant public est obligatoire sont les suivantes :
+Les catégories de liaisons louées dont la fourniture sur le territoire national et vers les pays de la Communauté européenne et des autres Etats parties à l'accord sur l'Espace économique européen l'exploitant public est obligatoire sont les suivantes :
 
 a) Les liaisons louées à bande passante vocale de qualité ordinaire qui sont définies comme étant des liaisons à interface analogique 2 fils ou 4 fils ayant des spécifications de performances conformes à la recommandation M. 1040 du Comité consultatif international pour le téléphone et le télégraphe (C.C.I.T.T.) ;
 
