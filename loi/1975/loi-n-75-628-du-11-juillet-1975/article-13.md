@@ -8,4 +8,4 @@ Il arrête les comptes de chaque exercice en vue de les soumettre à l'assemblé
 
 Il admet les nouveaux sociétaires.
 
-Il nomme et révoque le directeur dans des conditions déterminées par le décret prévu à l'article 20. Cette nomination doit recevoir l'agrément du ministre chargé de la marine marchande et du ministre chargé des finances.
+Il nomme et révoque le directeur dans des conditions déterminées par le décret prévu à l'article 20.
