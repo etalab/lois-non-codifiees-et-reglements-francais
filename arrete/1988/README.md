@@ -314,7 +314,6 @@
 - [Arrêté du 14 mars 1986](arrete-du-14-mars-1986)
 - [Arrêté du 14 mars 1988 (AGRB8800564A)](arrete-du-14-mars-1988-agrb8800564a)
 - [Arrêté du 14 mars 1988 (ASEE8803241A)](arrete-du-14-mars-1988-asee8803241a)
-- [Arrêté du 14 novembre 1988 (BUDF8830150A)](arrete-du-14-novembre-1988-budf8830150a)
 - [Arrêté du 14 octobre 1988 (AGRB8801813A)](arrete-du-14-octobre-1988-agrb8801813a)
 - [Arrêté du 14 octobre 1988 (EQUP8800445A)](arrete-du-14-octobre-1988-equp8800445a)
 - [Arrêté du 14 octobre 1988 (SPSP8801605A)](arrete-du-14-octobre-1988-spsp8801605a)
