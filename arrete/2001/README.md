@@ -169,7 +169,6 @@
 - [Arrêté du 18 juillet 2001 (PRMX0105011A)](arrete-du-18-juillet-2001-prmx0105011a)
 - [Arrêté du 18 mai 2001 (JUSE0140010A)](arrete-du-18-mai-2001-juse0140010a)
 - [Arrêté du 19 avril 2001 (AGRG0100849A)](arrete-du-19-avril-2001-agrg0100849a)
-- [Arrêté du 19 avril 2001 (AGRG0100850A)](arrete-du-19-avril-2001-agrg0100850a)
 - [Arrêté du 19 avril 2001 (ECOC0000118A)](arrete-du-19-avril-2001-ecoc0000118a)
 - [Arrêté du 19 avril 2002 (MESG0221046A)](arrete-du-19-avril-2002-mesg0221046a)
 - [Arrêté du 19 décembre 2000 (MCCB0000831A)](arrete-du-19-decembre-2000-mccb0000831a)
