@@ -1,9 +1,7 @@
 # Article 2
 
-1. Le document de transport visé à l'article 3 de la directive du conseil du 17 février 1975 modifiée est constitué par la " déclaration d'expédition internationale " ou le " contrat de transport " établi par l'une des sociétés de transport combiné habilitées dans chaque Etat membre, aux termes d'un contrat passé entre elles-mêmes et les administrations ferroviaires, à organiser les transports combinés rail-route de marchandises.
+En cas de transport pour compte d'autrui, le bénéfice des dispositions du deuxième alinéa de l'article 1er est subordonné à la production, par le transporteur routier, du document de transport accompagnant la marchandise et permettant en outre de justifier de l'appartenance du transport à l'une des catégories de transport combiné telles que définies au deuxième alinéa de l'article 1er.
 
-Pour les transports de camions, de remorques, de semi-remorques avec ou sans tracteur, de superstructures amovibles et de conteneurs de 6 mètres et plus par voie navigable effectués entre Etats membres, ce document est constitué par le contrat de transport fluvial passé entre le donneur d'ordre et l'entreprise de transport fluvial considérée.
+Ce document doit être complété par l'indication des gares ferroviaires d'embarquement ou de débarquement relatives au parcours ferroviaire, ou l'indication des ports fluviaux d'embarquement ou de débarquement relatifs au parcours par voie navigable, ou l'indication des ports maritimes d'embarquement ou de débarquement relatifs au parcours maritime.
 
-2. Un exemplaire de ce document sur lequel est apposé le cachet de la gare ou du port fluvial de débarquement doit accompagner le véhicule routier sur le parcours entre cette gare ou ce port et le point de déchargement des marchandises et être présenté à toute réquisition des agents de contrôle.
-
-3. A l'occasion des contrôles portant sur le parcours entre le point de chargement des marchandises et la gare ou le port fluvial d'embarquement, il pourra être exigé du transporteur qu'il justifie avoir réservé une place pour le transport ferroviaire ou fluvial du véhicule, de la superstructure amovible ou du conteneur de 6 mètres et plus appelé à effectuer le transport international.
+Ces mentions sont apposées avant l'exécution du transport et confirmées par l'apposition d'un cachet des administrations de la gare ou du port de débarquement.

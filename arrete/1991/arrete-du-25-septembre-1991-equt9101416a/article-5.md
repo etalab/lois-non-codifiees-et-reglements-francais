@@ -4,4 +4,4 @@ Lorsque, dans le cadre d'un transport combiné entre Etats membres, l'entreprise
 
 Le trajet routier initial d'un transport combiné entre Etats membres effectué par l'entreprise expéditrice en utilisant un tracteur qui lui appartient ou qu'elle a acheté à tempérament ou loué alors que la remorque ou la semi-remorque est immatriculée par l'entreprise destinataire de la marchandise transportée ou louée par elle, est également considéré comme une opération de transport pour compte propre lorsque le trajet terminal est effectué en compte propre par l'entreprise destinataire.
 
-Dans ce cas, le tracteur doit être muni d'un document apportant la preuve du parcours ferroviaire ou fluvial effectué ou à effectuer par la semi-remorque ou la remorque et est dispensé du document prévu à l'article 2.
+Dans ce cas, le tracteur doit être muni d'un document apportant la preuve du parcours ferroviaire, fluvial ou maritime effectué ou à effectuer par la semi-remorque ou la remorque et est dispensé du document prévu à l'article 2.
