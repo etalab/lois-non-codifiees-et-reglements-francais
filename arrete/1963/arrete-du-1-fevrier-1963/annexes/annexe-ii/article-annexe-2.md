@@ -1,6 +1,6 @@
 # Article Annexe 2
 
-ECHELLE ES 3 :
+ECHELLE ES 3 (3) :
 
 - Commis.
 
@@ -16,9 +16,13 @@ ECHELLE ES 3 :
 
 - Chauffeur de chaudière à haute pression.
 
+- Jardinière d'enfants des établissements départementaux d'aide sociale à l'enfance (cadre d'extinction).
+
 - Ouvrier professionnel de 2e catégorie (2).
 
 - Conducteur d'automobile poids lourds (2).
+
+- Adjoint et adjointe d'internat.
 
 ==============================
 
@@ -71,10 +75,12 @@ ECHELON : INDICES :  DUREE
 <td> Echelon fonctionnel (1)</td>
 </tr>
 <tr>
-<td>         :   335  :</td>
+<td>         :   335   :</td>
 </tr>
 </table>
 
 ==============================   (1) Echelon fonctionnel susceptible d'être créé dans les établissements remplissant les conditions prévues à l'article 3 du présent arrêté et réservé à un agent pour chacun des grades d'agent de désinfection, d'agent d'amphithéâtre, d'ouvrier professionnel de 1re ou 2e catégorie.
 
-(2) Pour les agents recrutés à l'extérieur dans l'emploi d'ouvrier professionnel de 2e catégorie ou dans celui de conducteur d'automobile poids lourds, le 5e échelon sera considéré comme échelon de début.
+(2) Pour les agents recrutés à l'extérieur dans l'emploi d'ouvrier professionnel de 2e catégorie ou dans celui de conducteurs d'automobile poids lourds, le 5e échelon sera considéré comme échelon de début.
+
+(3) Classement prenant effet au 1er janvier 1967.
