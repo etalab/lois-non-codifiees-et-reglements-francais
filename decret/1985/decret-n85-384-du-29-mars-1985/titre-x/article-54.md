@@ -1,6 +1,6 @@
 # Article 54
 
-Il peut être mis fin aux fonctions d'un praticien des hôpitaux à temps partiel après chaque période quinquennale d'activité dans les conditions déterminées à l'article L714-29 du code de la santé publique susvisé.
+Il peut être mis fin aux fonctions d'un praticien des hôpitaux à temps partiel après chaque période quinquennale d'activité dans les conditions déterminées à l'article L. 6152-3 du code de la santé publique susvisé.
 
 La délibération du conseil d'administration de l'établissement proposant cette mesure intervient après audition du praticien intéressé et après avis de la commission médicale d'établissement.
 
