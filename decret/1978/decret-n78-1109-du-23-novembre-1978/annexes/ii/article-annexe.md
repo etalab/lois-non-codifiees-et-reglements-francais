@@ -62,7 +62,7 @@ Ceux définis par les arrêtés prévus à l'article 4 du décret.
 
 2° Dispositions spéciales relatives aux jus de fruits :
 
-a) Le mélange entre eux de jus de fruits d'une ou plusieurs espèces est autorisé.
+a) Le mélange d'une ou de plusieurs espèces entre elles de jus de fruits ou de purées de fruits est autorisé.
 
 b) Est en outre autorisé, pour les jus autres que de poire et de raisin, l'addition de sucres dans les conditions ci-après :
 
@@ -84,7 +84,7 @@ L'addition de sucres dans une quantité non supérieure à 20 p. 100 en poids pa
 
 L'addition d'eau dans une quantité telle que la teneur en jus et ou en purée de fruits et l'acidité totale du produit fini ne soient pas inférieures aux taux fixés au tableau complétant la présente annexe ; en cas de mélange, la teneur en jus et ou en purée, ainsi que l'acidité totale sont proportionnellement conformes aux taux fixés audit tableau ;
 
-Pour la fabrication des nectars pulpeux de fruits, le remplacement total des sucres par du miel en respectant la limite de 20 p. 100 fixée ci-dessus.
+Le remplacement total des sucres par du miel, en respectant la limite de 20 p. 100 fixée ci-dessus.
 
 c) Si plus d'un acide est ajouté au même nectar de fruits, la somme des quantités ajoutées de chacun d'eux, exprimée en pourcentage de la quantité maximale autorisée, ne doit pas dépasser 100 ;
 
@@ -97,6 +97,12 @@ Sont autorisés :
 a) La déshydratation partielle du jus de fruit par un traitement ou un procédé physique, à l'exclusion du feu direct ;
 
 b) La restitution de leurs arômes au moyen des substances aromatiques récupérées lors de la concentration du jus de fruit de base ou de jus de fruit de la même espèce ; cette adjonction est obligatoire pour les jus de fruits concentrés qui sont destinés à la consommation directe.
+
+c) Les traitements et procédés énumérés au 2° de la présente annexe, à l'exclusion des dispositions prévues au b pour les jus de fruits concentrés non destinés au consommateur final.
+
+Dans les cas où le sucrage des jus concentrés est autorisé, la quantité de sucres ajoutée, exprimée par rapport au volume de jus qui serait obtenu à partir du concentré, ne doit pas dépasser la limite permise au b du 2°.
+
+Toutefois, par dérogation aux dispositions fixées aux alinéas précédents, jusqu'au 14 juin 1999, le jus d'orange concentré non destiné au consommateur final peut être additionné de sucres dans une quantité maximale, exprimée en matière sèche, de 15 grammes par litre de concentré en vue de sa correction. Ce sucrage doit être porté à la connaissance du transformateur, conformément aux usages commerciaux.
 
 5° Dispositions spéciales relatives aux jus de fruits déshydratés :
 

@@ -6,7 +6,7 @@ a) La dénomination de vente des produits est celle qui leur est réservée en v
 
 La dénomination de vente est complétée :
 
-i) Pour les produits provenant de deux ou plusieurs espèces de fruits, sauf pour les nectars pulpeux de poires ou de pêches ou d'un mélange de ces fruits en cas d'emploi de jus de citron en remplacement de l'acide citrique, par l'énumération des fruits utilisés, dans l'ordre décroissant de l'importance pondérale des jus ou purées de fruits mis en oeuvre, le cas échéant après reconstitution ; l'utilisation du terme "fruits" est facultative dans ce cas ;
+i) Pour les produits provenant de deux ou plusieurs espèces de fruits, sauf pour les nectars pulpeux de poires ou de pêches ou de pommes ou d'un mélange de ces fruits en cas d'emploi de jus de citron en remplacement de l'acide citrique, par l'énumération des fruits utilisés, dans l'ordre décroissant de l'importance pondérale des jus ou purées de fruits mis en oeuvre, le cas échéant après reconstitution ; l'utilisation du terme "fruits" est facultative dans ce cas ;
 
 ii) Pour les produits additionnés de sucres conformément au b, ii du 2° du II de la présente annexe, par la mention "sucré", suivie de l'indication de la quantité maximale de sucres ajoutés, calculée en matière sèche et exprimée en grammes par litre, la quantité indiquée ne pouvant être supérieure de plus de 15 p. 100 à la quantité effectivement ajoutée ;
 
@@ -36,6 +36,6 @@ iiii) Pour le nectar de fruits, l'indication de la teneur minimale effective en 
 
 - le nom et l'adresse du responsable du fonctionnement de l'appareil distributeur.
 
-5° L'emploi du qualificatif "pur" est réservé aux jus de fruits ou purées de fruits qui n'ont été obtenus ni avec concentration ni à partir de matières premières concentrées et qui n'ont subi l'addition d'aucun produit, à l'exception de sucre lorsque ce dernier est employé en vue de la correction de certains jus.
+5° L'emploi du qualificatif "pur" est réservé aux jus de fruits ou purées de fruits qui n'ont été obtenus ni avec concentration ni à partir de matières premières concentrées et qui n'ont subi l'addition d'aucun produit.
 
 6° L'emploi du qualificatif "frais" est réservé aux jus de fruits purs ou purées de fruits pures n'ayant subi aucun traitement après leur extraction ou leur broyage initial.
