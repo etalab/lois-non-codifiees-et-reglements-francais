@@ -8,6 +8,6 @@ Par la condamnation à une peine afflictive ou infamante, pendant la durée de l
 
 Par les circonstances qui font perdre la qualité de Français, durant la privation de cette qualité ;
 
-Pour les veuves et femmes divorcées, par la déchéance de la puissance paternelle.
+Pour les veuves et femmes divorcées, par la déchéance de l'autorité parentale.
 
 S'il y a lieu, par la suite, à la liquidation ou au rétablissement de la pension, aucun rappel pour les arrérages antérieurs n'est dû.
