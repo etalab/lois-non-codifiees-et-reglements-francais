@@ -1,3 +1,3 @@
 # Article 1
 
-La Caisse centrale de coopération économique est autorisée à émettre un emprunt d'un montant maximum de 1,6 milliard de francs, dont la première tranche sera représentée par 160 000 obligations de 5 000 F assorties chacune d'un bon ouvrant droit à la souscription d'une obligation de la deuxième tranche.
+Par arrêté du ministre de l'économie, des finances et du budget et du secrétaire d'Etat auprès du Premier ministre, chargé des techniques de la communication, en date du 25 octobre 1985, la société France Régions 3 Publicité est autorisée à prendre une participation de 50 p. 100 dans le capital de la société dénommée Espace 3.
