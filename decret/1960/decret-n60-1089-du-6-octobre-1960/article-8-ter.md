@@ -1,0 +1,3 @@
+# Article 8 ter
+
+Lorsque le fonctionnaire a obtenu du tiers responsable au titre de la même invalidité permanente une réparation de caractère viager, autre que l'allocation temporaire d'invalidité, et que l'Etat ne peut plus faire jouer le droit de subrogation prévu par l'ordonnance n° 59-76 du 7 janvier 1959, l'allocation est diminuée du montant de cette réparation. Si la réparation attribuée est un capital, l'allocation est diminuée du montant de la rente viagère qu'aurait produit ledit capital s'il avait été placé, à la date d'entrée en jouissance de l'allocation ou à la date de versement si elle est postérieure, à capital aliéné à la Caisse nationale de prévoyance.
