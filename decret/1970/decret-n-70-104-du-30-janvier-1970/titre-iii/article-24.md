@@ -1,0 +1,5 @@
+# Article 24
+
+Pour une rente différée résultant d'un contrat à primes périodiques qui, pour sa période de constitution, ouvre droit à majoration en vertu des dispositions du VII de l'article 22 de la loi du 29 décembre 1976, le taux de majoration pour une période donnée s'applique à la fraction de la rente totale constituée durant ladite période. Cette fraction est égale au rapport du montant des primes payées durant la période considérée au montant total des primes effectivement payées.
+
+Les dispositions de l'alinéa précédent sont applicables aux rentes de survie ; toutefois, pour les rentes de survie résultant de contrats d'assurance temporaire souscrits à compter du 1er janvier 1977 ou résultant d'adhésions à des contrats collectifs reçues à partir de cette date et dont les titulaires ne sont pas bénéficiaires de l'une des allocations instituées par la loi du 30 juin 1975 d'orientation en faveur des personnes handicapées, les rentes seront considérées comme ayant pris naissance à la date de leur mise en service.
