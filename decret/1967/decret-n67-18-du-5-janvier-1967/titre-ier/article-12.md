@@ -2,20 +2,16 @@
 
 Lorsque les huissiers de justice ont reçu mandat de recouvrer ou d'encaisser amiablement des sommes dues par un débiteur, il leur est alloué un droit proportionnel calculé sur les tranches suivantes :
 
-12 p. 100 de 0 F jusqu'à 1095 F.
+12 p. 100 de 0 F jusqu'à 800 F ;
 
-10 p. 100 de 1096 F jusqu'à 3285 F.
+11 p. 100 de 801 F jusqu'à 2 000 F ;
 
-8 p. 100 de 3286 F jusqu'à 6570 F.
+10 p. 100 de 2 001 F jusqu'à 3 400 F ;
 
-6 p. 100 de 6571 F jusqu'à 8760 F.
+9 p. 100 de 3 401 F jusqu'à 6 300 F ;
 
-4 p. 100 de 8761 F jusqu'à 29200 F.
+6 p. 100 de 6 301 F jusqu'à 14 300 F ;
 
-1,5 p. 100 de 29201 F jusqu'à 182500 F.
+4 p. 100 au-delà de 14 300 F.
 
-1 p. 100 de 182501 F jusqu'à 730000 F.
-
-0,25 p. 100 au-delà de 730000 F.
-
-Ce droit, calculé sur les sommes effectivement encaissées ou recouvrées quel que soit le montant de la créance, ne peut excéder 10000 F. Il est à la charge du créancier et exclusif du droit prévu à l'article 9 perçu sur le débiteur, à l'exception du cas prévu à l'article 12-1 ci-après.
+Ce droit, calculé sur les sommes encaissées ou recouvrées au titre du principal de la créance, ne peut excéder 1 000 taux de base. Il est à la charge du créancier et exclusif du droit prévu à l'article 9 perçu sur le débiteur, sous réserve de dispositions spéciales.
