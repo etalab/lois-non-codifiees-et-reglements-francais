@@ -233,7 +233,6 @@
 - [Décret n°2001-1201 du 17 décembre 2001 (MEST0111676D)](decret-n2001-1201-du-17-decembre-2001-mest0111676d)
 - [Décret n°2001-1202 du 17 décembre 2001 (MEST0111677D)](decret-n2001-1202-du-17-decembre-2001-mest0111677d)
 - [Décret n°2001-1204 du 17 décembre 2001 (MAEA0120366D)](decret-n2001-1204-du-17-decembre-2001-maea0120366d)
-- [Décret n°2001-1218 du 17 décembre 2001 (MEST0111627D)](decret-n2001-1218-du-17-decembre-2001-mest0111627d)
 - [Décret n°2001-1233 du 17 décembre 2001 (DEFM0102298D)](decret-n2001-1233-du-17-decembre-2001-defm0102298d)
 - [Décret n°2001-1237 du 17 décembre 2001 (AGRA0000604D)](decret-n2001-1237-du-17-decembre-2001-agra0000604d)
 - [Décret n°2001-626 du 17 juillet 2001 (ECOI0120184D)](decret-n2001-626-du-17-juillet-2001-ecoi0120184d)
