@@ -1,9 +1,9 @@
 # Article 3
 
-I. - Pour l'application des dispositions de l'article 35 du décret susvisé du 19 décembre 1945, Fort-de-France et Saint-Denis sont représentés au conseil supérieur du notariat par un même délégué, élu par un collège unique composé par l'ensemble des membres des chambres interdépartementale et départementales des cours d'appel précitées, faisant fonction de conseils régionaux.
+I. - Pour l'application des dispositions de l'article 35 du décret du 19 décembre 1945 susvisé, les notaires des ressorts des cours d'appel de Basse-Terre et de Fort-de-France sont représentés au Conseil supérieur du notariat par un même délégué, élu par un collège unique composé par l'ensemble des membres des chambres interdépartementale et départementale des cours d'appel précitées, faisant fonction de conseils régionaux.
 
-Le délégué est élu pour deux ans, successivement parmi les notaires du ressort de chacune des cours d'appel de Basse-Terre, Fort-de France et Saint-Denis.
+Les notaires du ressort de la cour d'appel de Saint-Denis sont représentés au Conseil supérieur du notariat par un délégué élu par les membres de la chambre départementale, faisant fonction de conseil régional.
 
-L'élection est organisée par le bureau du conseil supérieur du notariat ; le vote peut avoir lieu par correspondance. Il est procédé pour le surplus conformément à l'article 35 du décret précité du 19 décembre 1945.
+L'élection est organisée par le bureau du Conseil supérieur du notariat ; le vote peut avoir lieu par correspondance. Il est procédé pour le surplus conformément à l'article 35 du décret du 19 décembre 1945 précité.
 
 II. - Le délégué peut se faire représenter au conseil supérieur du notariat en donnant un mandat général ou spécial, temporaire et récovable à un membre de ce conseil ou aux présidents des chambres interdépartementale et départementales faisant fonction de conseils régionaux des cours d'appel de Basse-Terre, Fort-de-France ou Saint-Denis.
