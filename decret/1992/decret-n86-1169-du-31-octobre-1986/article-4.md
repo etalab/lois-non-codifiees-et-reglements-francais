@@ -40,10 +40,6 @@ Les missions de la direction de l'agriculture et de la forêt ont trait à :
 
 5. L'aménagement des eaux et l'environnement avec en particulier ce qui concerne :
 
-- l'inventaire permanent des ressources en eau ;
-
-- la gestion et l'aménagement des eaux, avec l'élaboration et l'animation de programmes pour l'aménagement des rivières et des bassins à dominante d'espace rural et de la ressource en eaux souterraines ;
-
 - l'amélioration de la qualité des eaux, la lutte contre les pollutions et nuisances ;
 
 - la protection de la nature ;
@@ -64,8 +60,12 @@ Les missions de la direction de l'agriculture et de la forêt ont trait à :
 
 - la diffusion des connaissances en matière de protection des végétaux et l'amélioration de la qualité de leurs produits.
 
-8. La politique sociale agricole avec en particulier ce qui concerne la connaissance des problèmes liés à la protection sociale agricole et à l'emploi de la main-d'oeuvre agricole ;
+8. La politique sociale agricole avec en particulier ce qui
+
+concerne la connaissance des problèmes liés à la protection sociale agricole et à l'emploi de la main-d'oeuvre agricole ;
 
 9. Les haras avec en particulier ce qui concerne l'organisation, le développement et le contrôle de la production et des activités équestres ;
 
 10. Les statistiques agricoles avec en particulier ce qui concerne l'établissement et la diffusion des statistiques à partir des enquêtes publiques approuvées par le Conseil national de l'information statistique ou répondant à la satisfaction de besoins locaux.
+
+[*Loi 92-125 art. 3 : la référence services extérieurs est remplaçée par celle à : services déconcentrés*]
