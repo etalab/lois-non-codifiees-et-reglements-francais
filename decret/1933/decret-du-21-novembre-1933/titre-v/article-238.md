@@ -1,0 +1,3 @@
+# Article 238
+
+Comme représentant de l'action publique, le chef du service judiciaire, désigné dans les conditions prévues au décret du 22 août 1928, veille à l'exécution des lois, ordonnances et règlements en vigueur, fait toutes les réquisitions, hors les cas d'audience foraine, poursuit d'office les exécutions des jugements et arrêts dans les dispositions qui intéressent l'ordre public, surveille l'administration des successions vacantes, les officiers de police judiciaire et officiers ministériels, requiert la force publique dans les cas et suivant les formes déterminées par les lois, décrets et règlements.

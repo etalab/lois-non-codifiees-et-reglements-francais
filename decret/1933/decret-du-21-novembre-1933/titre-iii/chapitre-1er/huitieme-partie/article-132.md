@@ -1,0 +1,3 @@
+# Article 132
+
+Toutes les fois que le code de procédure civile ordonne des formalités telles que apposition de placards, affiches, publications, ventes d'effets mobiliers dans les lieux ou dans une forme déterminée et édicte des délais, et que ces formalités ne peuvent être exécutées et les délais observés conformément au code et aux prescriptions du présent décret à raison d'un empêchement local ou qu'ils ne peuvent l'être que d'une manière dommageable pour les parties par suite de l'état des lieux, la partie la plus diligente doit se pourvoir devant le juge qui détermine par ordonnance rendue sans appel, le mode d'accomplissement de ces formalités et prescrit les délais en les appropriant aux circonstances de la cause.
