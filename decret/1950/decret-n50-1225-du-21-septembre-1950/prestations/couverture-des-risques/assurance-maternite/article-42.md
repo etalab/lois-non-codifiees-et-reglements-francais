@@ -6,6 +6,4 @@ Si l'état morbide consécutif à l'accouchement se déclare après la période 
 
 Pendant la période où l'intéressée reçoit les prestations en espèces de l'assurance maternité, elle ne peut recevoir en même temps les prestations en espèces de l'assurance maladie [*non cumul*].
 
-La période supplémentaire de repos prévue au deuxième alinéa de l'article 36 ci-dessus est attribuée en cas d'état pathologique résultant de la grossesse au cours de la période prénatale.
-
-Elle doit faire l'objet d'une prescription médicale à partir du second examen prénatal que doit subir la future mère en application de l'article L. 159 du code de la santé publique. Elle n'est pas obligatoirement reliée à la période normale de repos prénatal au premier alinéa de l'article 36.
+L'indemnité journalière de repos supplémentaire prévue au II de l'article 36 ci-dessus est attribuée au cours de la période prénatale en cas d'état pathologique résultant de la grossesse. Le repos auquel correspond cette indemnité peut être prescrit dés la déclaration de grossesse.
