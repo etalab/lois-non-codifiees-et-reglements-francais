@@ -14,4 +14,4 @@ A cette fin, tout organisme ou organe habilité doit être en mesure de présent
 
 - la liste des équipements vérifiés et les résultats de ces opérations.
 
-Tout organisme ou organe habilité adresse annuellement au ministre chargé de l'industrie un compte rendu des activités exercées dans le cadre de cette habilitation.
+Tout organisme ou organe habilité par le ministre chargé de l'industrie lui adresse annuellement un compte rendu des activités exercées dans le cadre de cette habilitation.

@@ -6,7 +6,7 @@ Un arrêté du ministre chargé de l'industrie, pris après avis de la commissio
 
 II. - Pour les besoins de cette classification, les fluides sont répartis en deux groupes :
 
-a) Le groupe 1 comprend les fluides :
+a) Le groupe 1 comprend ceux des fluides considérés comme dangereux au sens de l'article R. 231-51 du code du travail appartenant aux catégories suivantes :
 
 - explosifs ;
 
@@ -20,8 +20,6 @@ a) Le groupe 1 comprend les fluides :
 
 - toxiques ;
 
-- comburants ;
-
-- considérés comme dangereux au sens de l'article R. 231-51 du code du travail ;
+- comburants.
 
 b) Le groupe 2 comprend tous les autres fluides qui ne sont pas mentionnés au a ci-dessus.

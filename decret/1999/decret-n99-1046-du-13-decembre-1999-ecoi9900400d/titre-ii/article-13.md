@@ -1,6 +1,6 @@
 # Article 13
 
-I. - Les équipements sous pression et les ensembles mentionnés aux articles 3 et 4 ci-dessus qui ont fait l'objet des procédures d'évaluation de la conformité définies à l'article 9 ci-dessus doivent porter le marquage "CE" de conformité.
+I. - Les équipements sous pression et les ensembles mentionnés aux articles 3 et 4 ci-dessus qui ont fait l'objet des procédures d'évaluation de la conformité définies à l'article 9 ci-dessus et qui sont mis sur le marché doivent porter le marquage "CE" de conformité.
 
 Ce marquage, constitué des initiales "CE" selon le graphisme dont le modèle figure à l'annexe 5, est apposé sur ces équipements ou ensembles par le fabricant, l'importateur ou le responsable de la mise sur le marché. Il est accompagné, le cas échéant, du numéro d'identification de l'organisme habilité impliqué dans la phase de contrôle de production de la procédure d'évaluation de la conformité.
 

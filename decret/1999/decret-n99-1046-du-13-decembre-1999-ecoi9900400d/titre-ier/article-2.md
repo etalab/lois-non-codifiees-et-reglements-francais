@@ -12,7 +12,7 @@ c) Les générateurs d'aérosol définis par l'article 1er de l'arrêté du 6 ja
 
 d) Les équipements destinés au fonctionnement des véhicules mentionnés aux articles R. 106, R. 109-2, R. 163, R. 184 ou R. 200 du code de la route ;
 
-e) Les équipements qui relèveraient au plus de la catégorie I en application de la classification prévue à l'article 8 ci-après et qui sont incorporés ou destinés à être incorporés dans un des produits suivants :
+e) Les équipements qui relèveraient au plus de la catégorie I en application de la classification prévue à l'article 8 ci-après et qui sont incorporés dans un des produits suivants :
 
 - machines mentionnées à l'article R. 233-83 du code du travail ;
 

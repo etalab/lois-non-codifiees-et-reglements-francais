@@ -10,6 +10,6 @@ Les arrêtés mentionnés au I de l'article 17 ci-dessus peuvent également soum
 
 - le contrôle après réparation ou modification, défini au 4 de l'annexe 3.
 
-Les opérations de contrôle précitées sont réalisées sous la surveillance du préfet, qui peut confier tout ou partie de ces opérations techniques à des organismes indépendants habilités à cet effet, conformément au titre IV du présent décret.
+La déclaration de mise en service est effectuée auprès du préfet. Les autres opérations de contrôle sont réalisées par des organismes indépendants habilités à cet effet conformément au titre IV du présent décret.
 
 Ces arrêtés fixent également, s'il y a lieu, les règles particulières de réalisation de ces opérations de contrôle.
