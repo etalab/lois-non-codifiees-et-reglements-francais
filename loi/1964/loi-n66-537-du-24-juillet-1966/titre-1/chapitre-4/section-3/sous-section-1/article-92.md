@@ -10,8 +10,8 @@ Les dispositions de l'alinéa 1er ci-dessus ne sont pas applicables aux représe
 
 - des sociétés d'études ou de recherches tant qu'elles ne sont pas parvenues au stade de l'exploitation ;
 
-- des sociétés dont le capital est détenu à concurrence de 20 % au moins par une autre société dont ils sont déjà administrateurs ou membres du directoire  ou du conseil de surveillance [*groupes de sociétés*], dans la mesure où le nombre des mandats détenus par les intéressés au titre des présentes dispositions n'excède pas cinq ;    - des sociétés de développement régional,
+- des sociétés dont le capital est détenu à concurrence de 20 % au moins par une autre société dont ils sont déjà administrateurs ou membres du directoire  ou du conseil de surveillance [*groupes de sociétés*], dans la mesure où le nombre des mandats détenus par les intéressés au titre des présentes dispositions n'excède pas cinq ;    - des sociétés de développement régional ;
 
-- des sociétés françaises par actions, autres que les sociétés de développement régional, dont l'objet exclusif est de concourir sous forme de participation en capital au financement des entreprises industrielles et commerciales, lorsque les statuts stipulent que leurs fonctions sont exclusives de toute rémunération.
+- des instituts régionaux de participation, à condition que les statuts excluent toute rémunération à ce titre.
 
 Les mandats d'administrateur des diverses sociétés d'assurance ayant la même dénomination sociale ne comptent que pour un seul mandat.
