@@ -1,0 +1,9 @@
+# Article 2
+
+L'organisme officiel de contrôle précité, tout en tenant compte de l'étendue particulière des activités du fournisseur, doit s'assurer que celui-ci a mis en place réellement lui-même ou a fait mettre en place dans son établissement les mécanismes d'autocontrôle et de suivi du processus de production prescrits à l'article 7 du décret du 23 juin 1994 susvisé, qui comportent :
+
+A. - Une procédure de contrôle de la qualité de sa propre production conforme aux dispositions du ou, le cas échéant, des règlements techniques homologués par un arrêté du ministre de l'agriculture, de la pêche et de l'alimentation pris après avis du comité technique permanent de la sélection des plantes cultivées et prévoyant le recours, dans des cas déterminés, à un laboratoire d'analyses agréé ;
+
+B. - L'engagement de laisser à tout moment accès, dans les locaux de l'établissement, aux agents chargés par l'organisme officiel responsable des contrôles et de la surveillance ainsi qu'aux experts éventuellement envoyés par la Commission européenne pour surveiller ces contrôles ou pour effectuer des contrôles supplémentaires ;
+
+C. - L'engagement d'informer immédiatement l'organisme officiel responsable en cas de présence de l'un quelconque des organismes nuisibles visés par la directive 77/93/CEE et par les textes français pris pour son application, ou en cas d'apparition atypique des autres organismes nuisibles ou de leurs symptômes figurant dans les arrêtés relatifs aux conditions de qualité exigées pour chacune des normes ou catégories visées à l'article 2 et 3 du décret du 23 juin 1994, dès lors qu'il en a connaissance ; l'engagement de prendre immédiatement les mesures prescrites par ce dernier et celui de tenir un registre ou de garder des traces par tout autre moyen durable de tous les incidents de ce type et de toutes les mesures prises à cette occasion.
