@@ -1,6 +1,5 @@
 # COUVERTURE DES RISQUES.
 
-- [Article 20](article-20.md)
 - [ASSURANCE DECES.](assurance-deces)
 - [ASSURANCE DECES *MONTANT DU CAPITAL DECES*.](assurance-deces-montant-du-capital-deces)
 - [ASSURANCE INVALIDITE.](assurance-invalidite)
