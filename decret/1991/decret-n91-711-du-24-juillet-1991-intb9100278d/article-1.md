@@ -22,7 +22,7 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 8° Fonctionnaires appartenant aux cadres d'emplois des conseillers socio-éducatifs et des coordinatrices de crèches, exerçant les fonctions de conseillers techniques : 50 points majorés.
 
-9° Fonctionnaires appartenant aux cadres d'emplois des conseillers socio-éducatifs et des coordinatrices de crèches, exerçant les fonctions de responsables de circonscriptions des départements : 35 points majorés. "
+9° Fonctionnaires appartenant aux cadres d'emplois des conseillers socio-éducatifs et des coordinatrices de crèches, exerçant les fonctions de responsables de circonscription ou d'unité territoriale d'action sanitaire et sociale des départements : 35 points majorés. "
 
 10° Attachés exerçant les fonctions de directeur des établissements publics locaux ne figurant pas sur la liste prévue au deuxième alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvisée et assimilables à une commune de plus de 2 000 habitants (selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics) :
 
@@ -36,7 +36,7 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 14° Puéricultrices assurant la direction de haltes-garderies ou de centres de protection maternelle et infantile : 15 points ;
 
-" 15° Rédacteurs territoriaux assurant les fonctions de secrétaire de mairie de communes de moins de 2 000 habitants :
+15° Rédacteurs territoriaux assurant les fonctions de secrétaire de mairie de communes de moins de 2 000 habitants :
 
 15 points ;
 
@@ -150,9 +150,19 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 " o) Auxiliaire de soins : 10 points majorés ;
 
-" p) Agents de police municipale : 10 points majorés ;
+" p) Agents de police municipale : 15 points majorés ;
 
 " q) Gardiens d'H.L.M. : 15 points majorés. "
+
+" r) Conseillers socio-éducatifs : 20 points majorés ;
+
+" s) Contrôleurs de travaux : 15 points majorés ;
+
+" t) Agents de maîtrise : 10 points majorés ;
+
+" u) Adjoints administratifs : 10 points majorés ;
+
+" v) Agents administratifs : 10 points majorés. "
 
 " 46° Infirmières assurant la direction de services de soins à domicile : 20 points majorés ;
 
@@ -173,3 +183,33 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 " 50° Agents de salubrité exerçant, à titre exclusif, les fonctions de fossoyeur dans les communes de plus de 2 000 habitants :
 
 10 points majorés. "
+
+" 51° Attachés de conservation du patrimoine exerçant les fonctions de chef d'établissement d'un musée contrôlé : 30 points majorés ;
+
+" 52° Bibliothécaires exerçant les fonctions de chef d'établissement d'une bibliothèque contrôlée dans les communes de plus de 20 000 habitants ou dans les établissements publics locaux assimilables à une commune de plus de 20 000 habitants, selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics locaux, et disposant de plus de 30 000 ouvrages ou assurant plus de 40 000 prêts par an : 30 points majorés ;
+
+" 53° Attachés assurant des fonctions d'encadrement d'un service comportant au moins vingt agents, à l'exception des fonctions exercées au titre de l'article 53 de la loi du 26 janvier 1984 modifiée : 25 points majorés ;
+
+" 54° Attachés assurant des fonctions d'encadrement d'un service requérant une technicité en matière de gestion des ressources humaines, de gestion des achats et des marchés publics, de gestion financière, de gestion immobilière et foncière, de contentieux ou d'actions liées au développement et à l'aménagement de la collectivité, à l'exception des fonctions exercées au titre de l'article 53 de la loi du 26 janvier 1984 modifiée : 25 points majorés ;
+
+" 55° Attachés détachés sur un emploi fonctionnel de secrétaire général adjoint ou directeur général adjoint : 25 points majorés ;
+
+" 56° Fonctionnaires assurant les fonctions de régisseur d'avances ou de recettes :
+
+" - régie de 20 000 F à 120 000 F : 10 points majorés ;
+
+" - régie supérieure à 120 000 F : 15 points majorés ;
+
+" 57° Adjoints administratifs et agents administratifs exerçant, à titre principal, des fonctions d'accueil du public dans les régions :
+
+10 points majorés ;
+
+" 58° Fonctionnaires assurant les fonctions de thanatopracteur :
+
+15 points majorés ;
+
+" 59° Agents de salubrité assurant, à titre exclusif, les fonctions de fossoyeur dans les établissements publics locaux assimilables à une commune de plus de 2 000 habitants, selon les critères prévus par le décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics locaux :
+
+10 points majorés ;
+
+" 60° Agents de maîtrise assurant des fonctions d'encadrement d'une équipe d'au moins 5 agents : 15 points majorés. "
