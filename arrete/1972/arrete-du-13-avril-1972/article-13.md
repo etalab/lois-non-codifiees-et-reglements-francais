@@ -30,7 +30,7 @@ A titre transitoire, les valeurs du tableau figurant à l'article 1er sont rempl
 <td> :            :         :         1973. :</td>
 </tr>
 <tr>
-<td> : A. 4       :    83   :   6 février   :</td>
+<td> : A. 5       :    83   :   6 février   :</td>
 </tr>
 <tr>
 <td> :            :         :         1973. :</td>
@@ -70,4 +70,4 @@ A titre transitoire, les valeurs du tableau figurant à l'article 1er sont rempl
 </tr>
 </table>
 
-========================================
+======================================== *Nota :    A.1. - Voitures particulières.    A.5. - Véhicules utilitaires de poids total autorisé en charge supérieur à 3,5 tonnes, inférieur ou égal à 12 tonnes et dont le moteur a une puissance nette égale ou supérieure à 200 CV.

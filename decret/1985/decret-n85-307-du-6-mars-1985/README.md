@@ -1,4 +1,4 @@
-# Arrêté du 27 décembre 1977 relatif aux conditions d'application du décret 77-1448 du 27 décembre 1977 relatif au fonds de prévoyance de l'aéronautique.
+# Décret n°85-307 du 6 mars 1985 relatif aux commissions instituées pour assurer la répartition des personnels mentionnés à l'article 39 bis de la loi n° 83-636 du 13 juillet 1983 portant modification du statut des agglomérations nouvelles.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -13,4 +13,3 @@
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
-- [Article 14](article-14.md)
