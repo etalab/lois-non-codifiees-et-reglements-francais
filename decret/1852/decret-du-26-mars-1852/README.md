@@ -1,6 +1,5 @@
 # Décret du 26 mars 1852 relatif aux rues de Paris.
 
-- [Article 2](article-2.md)
 - [CHAPITRE II : Dispositions spéciales à l'Eglise protestante réformée d'Alsace et de Lorraine.](chapitre-ii)
 - [Article 3](article-3.md)
 - [CHAPITRE III : Dispositions spéciales à l'Eglise protestante de la confession d'Augsbourg d'Alsace et de Lorraine.](chapitre-iii)
