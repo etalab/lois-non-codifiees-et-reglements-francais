@@ -10,7 +10,7 @@ c) Les deux véhicules doivent être identifiés ;
 
 d) L'accident doit n'avoir entraîné que des dommages matériels à l'exclusion de toute lésion corporelle ;
 
-e) Le montant hors T.V.A. des dommages matériels ne doit pas dépasser 30.000 F pour un même véhicule.
+e) Le montant hors T.V.A. des dommages matériels ne doit pas dépasser 35.000 F pour un même véhicule.
 
 B - La présente convention concerne :
 
