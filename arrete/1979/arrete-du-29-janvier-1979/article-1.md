@@ -1,0 +1,3 @@
+# Article 1
+
+Pour les transports sanitaires que les sapeurs-pompiers sont amenés à effectuer au sein des services d'incendie et de secours, accessoirement à leurs autres tâches, est reconnue équivalente au certificat de capacité d'ambulancier la formation reçue par les titulaires du brevet national de secourisme, de la spécialisation réanimation et de la spécialisation secourisme routier, qui ont effectué en outre un stage de cinq jours ou dix demi-journées dans un centre hospitalier agréé à cet effet par le ministre de la santé et de la famille et satisfait à un contrôle des connaissances à l'issue de ce stage.
