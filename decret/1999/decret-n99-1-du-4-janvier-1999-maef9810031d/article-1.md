@@ -1,0 +1,3 @@
+# Article 1
+
+Sous réserve de considérations tenant à la sûreté de l'Etat, les décisions de refus de visa d'entrée en France sont motivées lorsque le refus est opposé à un étudiant étranger qui, souhaitant suivre en France des études supérieures constituées par un enseignement à caractère universitaire ou une formation à caractère professionnel et nécessitant sa présence sur le territoire français, a fourni, à l'appui de sa demande de visa, une attestation d'inscription ou de préinscription certifiant qu'il est admis dans un établissement d'enseignement ou de formation public ou privé habilité à délivrer des diplômes visés par l'Etat.
