@@ -1,3 +1,3 @@
 # Article 1
 
-La valeur nominale des titres pour le développement industriel émis par la Caisse des dépôts et consignations est fixée à 100.000 F.
+Les sommes apportées par les titulaires de comptes pour le développement industriel (Codévi) ouverts chez les comptables du Trésor, les receveurs des postes et les caisses de crédit municipal sont placées en totalité en titres pour le développement industriel émis par la Caisse des dépôts et consignations.

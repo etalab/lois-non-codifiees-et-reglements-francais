@@ -2,10 +2,9 @@
 
 Les secrétaires généraux et les secrétaires généraux adjoints de mairie peuvent bénéficier d'une indemnité forfaitaire pour travaux supplémentaires qui ne doit pas dépasser les taux suivants :
 
+=================================================================
+
 <table>
-<tr>
-<td> :===============================:============:==================:</td>
-</tr>
 <tr>
 <td> :                               : Secrétaire :    Secrétaire    :</td>
 </tr>
@@ -22,31 +21,31 @@ Les secrétaires généraux et les secrétaires généraux adjoints de mairie pe
 <td> :                               :            :                  :</td>
 </tr>
 <tr>
-<td> : Plus de 400.000 habitants     :   13.384   :       10.335     :</td>
+<td> : Plus de 400.000 habitants     :   15.177   :       11.719     :</td>
 </tr>
 <tr>
-<td> : 150.001 à 400.000 habitants   :   11.044   :        9.010     :</td>
+<td> : 150.001 à 400.000 habitants   :   12.523   :       10.217     :</td>
 </tr>
 <tr>
-<td> :  80.001 à 150.000 habitants   :    9.719   :        7.597     :</td>
+<td> :  80.001 à 150.000 habitants   :   11.021   :        8.614     :</td>
 </tr>
 <tr>
-<td> :  40.001 à 80.000 habitants    :    8.304   :        6.273     :</td>
+<td> :  40.001 à 80.000 habitants    :    9.416   :        7.113     :</td>
 </tr>
 <tr>
-<td> :  20.001 à 40.000 habitants    :    6.980   :        4.962     :</td>
+<td> :  20.001 à 40.000 habitants    :    7.915   :        5.626     :</td>
 </tr>
 <tr>
-<td> :  10.001 à 20.000 habitants    :    5.566   :          "       :</td>
+<td> :  10.001 à 20.000 habitants    :    6.311   :          "       :</td>
 </tr>
 <tr>
-<td> :   5.001 à 10.000 habitants    :    4.813   :          "       :</td>
+<td> :   5.001 à 10.000 habitants    :    5.457   :          "       :</td>
 </tr>
 <tr>
-<td> : 2.001 à 5.000 habitants (1)   :    3.167   :          "       :</td>
+<td> : 2.001 à 5.000 habitants (1)   :    3.591   :          "       :</td>
 </tr>
 <tr>
-<td> :-------------------------------:------------:------------------:</td>
+<td> :---------------------------------------------------------------:</td>
 </tr>
 <tr>
 <td> :  (1) Indemnité réservée aux secrétaires généraux de mairie    :</td>
@@ -57,7 +56,6 @@ Les secrétaires généraux et les secrétaires généraux adjoints de mairie pe
 <tr>
 <td> :  supérieur à l'indice 390 brut.                               :</td>
 </tr>
-<tr>
-<td> :===============================================================:</td>
-</tr>
 </table>
+
+=================================================================

@@ -2,10 +2,9 @@
 
 L'indemnité forfaitaire pour travaux supplémentaires prévue à l'article précédent peut être versée aux secrétaires de mairie à temps complet des communes de moins de 2.000 habitants dans les limites fixées ci-après :
 
+================================================================
+
 <table>
-<tr>
-<td> :=============================================:================:</td>
-</tr>
 <tr>
 <td> :  COMMUNES DE MOINS DE 2.000 HABITANTS       : TAUX MAXIMUM   :</td>
 </tr>
@@ -28,7 +27,7 @@ L'indemnité forfaitaire pour travaux supplémentaires prévue à l'article pré
 <td> :   dans les communes de 2.000 à 5.000        :                :</td>
 </tr>
 <tr>
-<td> :   habitants (1)                             :      3.167     :</td>
+<td> :   habitants (1)                             :      3.591     :</td>
 </tr>
 <tr>
 <td> : Où l'emploi de secrétaire de mairie est     :                :</td>
@@ -37,7 +36,7 @@ L'indemnité forfaitaire pour travaux supplémentaires prévue à l'article pré
 <td> :   doté de l'échelle indiciaire brute        :                :</td>
 </tr>
 <tr>
-<td> :   267/453 (1)                               :      2.945     :</td>
+<td> :   267/453 (1)                               :      3.339     :</td>
 </tr>
 <tr>
 <td> :---------------------------------------------:----------------:</td>
@@ -51,7 +50,6 @@ L'indemnité forfaitaire pour travaux supplémentaires prévue à l'article pré
 <tr>
 <td> : l'indice brut 390.                                           :</td>
 </tr>
-<tr>
-<td> :==============================================================:</td>
-</tr>
 </table>
+
+================================================================
