@@ -8,6 +8,6 @@ Ils peuvent participer à la formation des professionnels et du public dans les 
 
 Les conservateurs en chef assument des responsabilités particulières en raison de l'importance des collections ou des missions scientifiques ou administratives qui leur sont confiées.
 
-Ils peuvent être chargés de fonctions d'encadrement et de coordination ainsi que d'études et de conseil comportant des responsabilités particulières.
+Alinéa abrogé et codifié dans l'article R241-17 du code de l'éducation.
 
 Ils peuvent se voir confier des missions d'inspection générale par arrêté du ministre chargé de l'enseignement supérieur, pris après avis du ministre chargé de la culture.
