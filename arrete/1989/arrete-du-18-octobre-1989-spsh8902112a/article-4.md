@@ -8,16 +8,10 @@ Si au cours d'une astreinte l'interne est appelé pour une intervention chirurgi
 
 2° Dans les services non chirurgicaux
 
-Taux à compter du 1er-08-91 (en francs).
+Taux à compter du 01-02-92 (en francs).
 
-Indemnité forfaitaire : 52,38.
+Indemnité forfaitaire : 53,58.
 
-Indemnité pour chaque appel donnant lieu à déplacement : 52,38.
-
-Taux à compter du 1er-11-91 (en francs).
-
-Indemnité forfaitaire : 52,90.
-
-Indemnité pour chaque appel donnant lieu à déplacement : 52,90.
+Indemnité pour chaque appel donnant lieu à déplacement : 53,58.
 
 Le montant cumulé des indemnités perçues ne peut excéder, par astreinte, le montant d'une demi-garde d'interne.
