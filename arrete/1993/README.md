@@ -194,6 +194,7 @@
 - [Arrêté du 25 janvier 1993 (SPSS9300314A)](arrete-du-25-janvier-1993-spss9300314a)
 - [Arrêté du 25 juin 1971](arrete-du-25-juin-1971)
 - [Arrêté du 26 août 1992 (SANH9202232A)](arrete-du-26-aout-1992-sanh9202232a)
+- [Arrêté du 26 janvier 1993 (BUDD9340002A)](arrete-du-26-janvier-1993-budd9340002a)
 - [Arrêté du 26 janvier 1993 (BUDF9300002A)](arrete-du-26-janvier-1993-budf9300002a)
 - [Arrêté du 26 janvier 1993 (MENN9304179A)](arrete-du-26-janvier-1993-menn9304179a)
 - [Arrêté du 26 janvier 1993 (TEFE9300078A)](arrete-du-26-janvier-1993-tefe9300078a)

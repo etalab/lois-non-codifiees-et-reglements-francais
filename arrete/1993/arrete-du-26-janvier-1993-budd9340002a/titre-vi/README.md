@@ -1,0 +1,3 @@
+# TITRE VI L'AUTHENTIFICATION DES DÉCLARATIONS.
+
+- [Article 8](article-8.md)
