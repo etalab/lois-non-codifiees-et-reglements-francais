@@ -385,7 +385,6 @@
 - [Arrêté du 11 mars 1994 (AGRH9400515A)](arrete-du-11-mars-1994-agrh9400515a)
 - [Arrêté du 11 mars 1994 (DEFF9401287A)](arrete-du-11-mars-1994-deff9401287a)
 - [Arrêté du 11 mars 1994 (INDP9400042A)](arrete-du-11-mars-1994-indp9400042a)
-- [Arrêté du 11 mars 1994 (JUSG9460013A)](arrete-du-11-mars-1994-jusg9460013a)
 - [Arrêté du 11 mars 1994 (LOGC9400009A)](arrete-du-11-mars-1994-logc9400009a)
 - [Arrêté du 11 mars 1994 (MENL9400524A)](arrete-du-11-mars-1994-menl9400524a)
 - [Arrêté du 11 mai 1994 (BUDR9405015A)](arrete-du-11-mai-1994-budr9405015a)

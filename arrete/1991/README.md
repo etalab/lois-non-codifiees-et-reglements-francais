@@ -550,7 +550,6 @@
 - [Arrêté du 20 juin 1991 (SPSS9101407A)](arrete-du-20-juin-1991-spss9101407a)
 - [Arrêté du 20 mars 1991 (BUDF9100007A)](arrete-du-20-mars-1991-budf9100007a)
 - [Arrêté du 20 mars 1991 (ECOT9110115A)](arrete-du-20-mars-1991-ecot9110115a)
-- [Arrêté du 20 mars 1991 (JUSG9160019A)](arrete-du-20-mars-1991-jusg9160019a)
 - [Arrêté du 20 mars 1991 (MENP9003214A)](arrete-du-20-mars-1991-menp9003214a)
 - [Arrêté du 20 mars 1991 (MENZ9100507A)](arrete-du-20-mars-1991-menz9100507a)
 - [Arrêté du 20 mars 1991 (SPSS9100789A)](arrete-du-20-mars-1991-spss9100789a)
