@@ -1,0 +1,3 @@
+# Article 3
+
+Les caisses d'épargne sont tenues d'adresser six mois avant l'expiration du délai de trente ans prévu à l'article 18 du code des caisses d'épargne, aux fins de remboursement, un avis au titulaire de tout compte atteint par la prescription et dont l'avoir en capital et intérêts est égal ou supérieur à 75 euros. Ces mesures de publicité sont annoncées par un avis au Journal officiel de la République française. Si l'ayant droit ne peut être connu, ou si, pour une cause quelconque, le remboursement ne peut être opéré, la somme inscrite à son crédit est répartie dans les conditions fixées à l'article 18 susvisé.
