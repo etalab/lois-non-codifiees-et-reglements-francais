@@ -2,8 +2,10 @@
 
 - [Article 1](article-1.md)
 - [TITRE III bis : Travaux complémentaires d'exploitation du stockage impliquant des forages de puits.](titre-iii-bis)
+- [TITRE VIII : Dispositions relatives aux servitudes d'utilité publique.](titre-viii)
 - [Article 38](article-38.md)
 - [Article 39](article-39.md)
+- [Article 39-1](article-39-1.md)
 - [Modification, prolongation, cession, renonciation et retrait de l'autorisation de stockage](modification-prolongation-cession-renonciation-et)
 - [Police des travaux de recherches et d'exploitation](police-des-travaux-de-recherches-et)
 - [Occupation temporaire](occupation-temporaire)

@@ -1,19 +1,11 @@
 # Article 16
 
-Il est statué sur la demande d'autorisation par décret en Conseil d'Etat, après avis du conseil supérieur de l'hygiène publique de France et du conseil général des mines.
+Un plan d'opération interne en cas de sinistre est établi par l'exploitant avant toute injection dans le stockage.
 
-Le décret d'autorisation précise notamment [*contenu*] :
+Ce plan définit les mesures d'organisation, les méthodes d'intervention et les moyens nécessaires dont l'exploitant doit disposer et qu'il doit pouvoir mettre en oeuvre pour protéger le personnel, les populations et l'environnement.
 
-La durée de l'autorisation qui ne saurait être supérieure à trente ans ;
+Le plan d'opération interne est modifié, en tant que de besoin, notamment lors de toute modification des installations du stockage et avant la mise en service de tout nouveau puits d'injection et de soutirage.
 
-Le périmètre de stockage et, éventuellement, le périmètre de protection ;
+Sans préjudice des dispositions de l'alinéa précédent, il est mis à jour et testé à des intervalles n'excédant pas trois ans.
 
-Les formations géologiques dans lesquelles le gaz peut être emmagasiné ;
-
-La nature et les caractéristiques du gaz dont le stockage est autorisé ;
-
-Les profondeurs qu'aucun travail effectué dans le périmètre de stockage et le périmètre de protection ne peut dépasser sans autorisation préalable du préfet ;
-
-Eventuellement, si une redevance doit être perçue au profit de l'Etat dans les conditions fixées par l'arrêté prévu à l'article 40 du présent décret.
-
-Il est publié au Journal officiel.
+Lorsqu'il existe un comité d'hygiène, de sécurité et des conditions de travail dans l'établissement dont dépend le stockage, ce comité est consulté par l'exploitant sur le plan d'opération interne et sur ses différentes modifications.

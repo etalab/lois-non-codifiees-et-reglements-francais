@@ -7,3 +7,5 @@
 - [TITRE V : Police des travaux.](titre-v)
 - [TITRE VI : Relations avec les titulaires de titres miniers.](titre-vi)
 - [TITRE VII : Dispositions diverses.](titre-vii)
+- [TITRE VIII : Dispositions relatives aux servitudes d'utilité publique.](titre-viii)
+- [Article 41](article-41.md)
