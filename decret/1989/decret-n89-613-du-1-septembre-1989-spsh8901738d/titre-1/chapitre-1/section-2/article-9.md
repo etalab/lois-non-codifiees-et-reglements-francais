@@ -20,4 +20,4 @@ III. - A compter du 1er août 1993, les aides de pharmacie de classe normale par
 
 L'effectif des aides de pharmacie de classe supérieure ne peut excéder 25 p. 100 de l'effectif total du corps des aides de pharmacie de l'établissement.
 
-Toutefois, lorsque ce pourcentage n'est pas applicable, une nomination peut être prononcée lorsque l'effectif du corps est au moins égal à 3.
+Toutefois, lorsque ce pourcentage n'est pas applicable, une nomination au moins peut être prononcée.

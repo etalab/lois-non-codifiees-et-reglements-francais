@@ -8,4 +8,4 @@ Peuvent être promus à l'emploi de la classe supérieure les aides d'électrora
 
 L'effectif total des aides d'électroradiologie de classe supérieure ne peut excéder 25 p. 100 de l'effectif des aides d'électroradiologie augmenté de celui des aides d'électroradiologie de classe supérieure.
 
-Toutefois, lorsque ce pourcentage n'est pas applicable, une nomination peut être prononcée lorsque l'effectif des emplois d'aide d'électroradiologie, augmenté de celui des aides d'électroradiologie de classe supérieure, est au moins égal à 3.
+Toutefois, lorsque ce pourcentage n'est pas applicable, une nomination au moins peut être prononcée.
