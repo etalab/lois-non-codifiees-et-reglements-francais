@@ -1,0 +1,3 @@
+# Article 2
+
+Les officiers de l'armée de terre en non-activité par suppression d'emploi ou licenciement de corps, dont les droits à l'avancement sont fondés sur les dispositions des articles 16 de la loi du 14 avril 1832 sur l'avancement dans l'armée, et 7 de la loi du 19 mai 1834 sur l'état des officiers, seront, le cas échéant, promus au grade supérieur à l'ancienneté, hors des cadres, à la date à laquelle interviendra la première promotion à l'ancienneté prononcée au profit de l'un des officiers de leur cadre et de leur grade en activité ayant un rang inférieur au leur. Pour les sous-lieutenants, cette promotion sera automatique lorsqu'ils réuniront deux ans d'ancienneté dans leur grade.
