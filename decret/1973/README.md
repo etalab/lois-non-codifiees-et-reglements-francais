@@ -37,6 +37,8 @@
 - [Décret n°73-218 du 23 février 1973](decret-n73-218-du-23-fevrier-1973)
 - [Décret n°73-219 du 23 février 1973](decret-n73-219-du-23-fevrier-1973)
 - [Décret n°73-339 du 23 mars 1973](decret-n73-339-du-23-mars-1973)
+- [Décret n°73-342 du 23 mars 1973](decret-n73-342-du-23-mars-1973)
+- [Décret n°73-344 du 23 mars 1973](decret-n73-344-du-23-mars-1973)
 - [Décret n°73-82 du 24 janvier 1973](decret-n73-82-du-24-janvier-1973)
 - [Décret n°59-772 du 25 juin 1959](decret-n59-772-du-25-juin-1959)
 - [Décret n°73-84 du 25 janvier 1973](decret-n73-84-du-25-janvier-1973)
