@@ -1,61 +1,61 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er avril 1998 :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er novembre 1998 :
 
 TRAITEMENTS ET SOLDES ANNUELS BRUTS
 
-soumis à retenue pour pension à compter du 1er avril 1998
+soumis à retenue pour pension à compter du 1er novembre 1998
 
 Groupes : A
 
-Chevron I (en francs) : 288 230
+Chevron I (en francs) : 289 652
 
-Chevron II (en francs) : 299 720
+Chevron II (en francs) : 301 199
 
-Chevron III (en francs) : 315 149
+Chevron III (en francs) : 316 704
 
 Groupes : B
 
-Chevron I (en francs) : 315 149
+Chevron I (en francs) : 316 704
 
-Chevron II (en francs) : 328 608
+Chevron II (en francs) : 330 230
 
-Chevron III (en francs) : 346 335
+Chevron III (en francs) : 348 045
 
 Groupes : B bis
 
-Chevron I (en francs) : 346 335
+Chevron I (en francs) : 348 045
 
-Chevron II (en francs) : 355 527
+Chevron II (en francs) : 357 282
 
-Chevron III (en francs) : 365 047
+Chevron III (en francs) : 366 849
 
 Groupes : C
 
-Chevron I (en francs) : 365 047
+Chevron I (en francs) : 366 849
 
-Chevron II (en francs) : 372 926
+Chevron II (en francs) : 374 766
 
-Chevron III (en francs) : 381 133
+Chevron III (en francs) : 383 014
 
 Groupes : D
 
-Chevron I (en francs) : 381 133
+Chevron I (en francs) : 383 014
 
-Chevron II (en francs) : 398 532
+Chevron II (en francs) : 400 499
 
-Chevron III (en francs) : 415 931
+Chevron III (en francs) : 417 983
 
 Groupes : E
 
-Chevron I (en francs) : 415 931
+Chevron I (en francs) : 417 983
 
-Chevron II (en francs) : 432 345
+Chevron II (en francs) : 434 478
 
 Groupes : F
 
-Chevron I (en francs) : 448 430
+Chevron I (en francs) : 450 643
 
 Groupes : G
 
-Chevron I (en francs) : 491 763
+Chevron I (en francs) : 494 190
