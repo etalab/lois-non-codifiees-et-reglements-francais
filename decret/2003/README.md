@@ -307,6 +307,7 @@
 - [Décret n°2003-910 du 17 septembre 2003 (FPPA0300108D)](decret-n2003-910-du-17-septembre-2003-fppa0300108d)
 - [Décret n°84-712 du 17 juillet 1984](decret-n84-712-du-17-juillet-1984)
 - [Décret n°90-72 du 17 janvier 1990 (JUSC8920949D)](decret-n90-72-du-17-janvier-1990-jusc8920949d)
+- [Décret n°2002-1269 du 18 octobre 2002 (SPRK0270203D)](decret-n2002-1269-du-18-octobre-2002-sprk0270203d)
 - [Décret n°2003-1087 du 18 novembre 2003 (AGRE0301853D)](decret-n2003-1087-du-18-novembre-2003-agre0301853d)
 - [Décret n°2003-1088 du 18 novembre 2003 (PRMX0300181D)](decret-n2003-1088-du-18-novembre-2003-prmx0300181d)
 - [Décret n°2003-1097 du 18 novembre 2003 (MCCB0300738D)](decret-n2003-1097-du-18-novembre-2003-mccb0300738d)

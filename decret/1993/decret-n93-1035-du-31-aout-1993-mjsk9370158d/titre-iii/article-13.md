@@ -1,7 +1,7 @@
 # Article 13
 
-Le préfet délivre une carte professionnelle d'éducateur sportif à tout titulaire d'un diplôme inscrit sur la liste d'homologation des diplômes des activités physiques et sportives ou d'une autorisation spécifique d'exercer les professions concernées prévue à l'article 43-1 de la loi du 16 juillet 1984 précitée.
+Le préfet délivre une carte professionnelle d'éducateur sportif à tout titulaire d'un diplôme, titre à finalité professionnelle ou certificat de qualification inscrit sur la liste prévue au sixième alinéa du I de l'article L. 363-1 du code de l'éducation, lorsqu'il a fait la déclaration prévue par l'article 12.
 
-Cette carte porte mention du diplôme ou de l'autorisation d'exercice de certaines fonctions ainsi que du type d'établissement où ces fonctions peuvent être exercées.
+La carte professionnelle porte mention du diplôme, titre à finalité professionnelle ou certificat de qualification et des conditions d'exercice afférentes à chaque certification.
 
-Elle est renouvelée tous les trois ans.
+Toute personne ayant fait l'objet d'une mesure mentionnée à l'article L. 463-6 du code de l'éducation ou d'une condamnation mentionnée à l'article L. 363-2 du même code se voit retirer sa carte professionnelle de façon temporaire ou permanente.
