@@ -2,6 +2,7 @@
 
 - [Titre Ier : Dispositions générales](titre-ier)
 - [Titre II : Modalités de recrutement](titre-ii)
+- [Titre III : Congé annuel, congé pour formation syndicale, pour formation de cadres et d'animateurs pour la jeunesse et pour formation professionnelle.](titre-iii)
 - [Titre IV : Congés pour raison de santé](titre-iv)
 - [Titre V : Congés non rémunérés pour raisons familiales ou personnelles](titre-v)
 - [Titre VI : Absences résultant d'une obligation légale.](titre-vi)
