@@ -13,6 +13,7 @@
 - [Arrêté du 4 janvier 1982](arrete-du-4-janvier-1982)
 - [Arrêté du 4 juin 1982](arrete-du-4-juin-1982)
 - [Arrêté du 4 mai 1982](arrete-du-4-mai-1982)
+- [Arrêté du 5 août 1982](arrete-du-5-aout-1982)
 - [Arrêté du 5 avril 1982](arrete-du-5-avril-1982)
 - [Arrêté du 5 février 1982](arrete-du-5-fevrier-1982)
 - [Arrêté du 5 janvier 1982](arrete-du-5-janvier-1982)

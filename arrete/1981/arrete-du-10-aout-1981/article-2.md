@@ -1,25 +1,53 @@
 # Article 2
 
-Pour le remplacement des alcools entrant dans la composition de produits exportés pouvant être considérés comme consommables ou utilisables en l'état, des tarifs réduits sont fixés ainsi qu'il suit.
+"Les taux de remboursement pour les alcools entrant dans la composition de produits exportés pouvant être considérés comme utilisables ou consommables en l'état sont fixés ainsi qu'il suit :
 
-I. - Alcools vendus avec garantie de substance répondant à certaines conditions de titrage des produits élaborés :
+"I - Pour les alcools vendus avec garantie de substance répondant à certaines conditions de titrage des produits élaborés :
 
-1° Eaux-de-vie de vin et alcools de vin :
+"1° Eaux-de-vie de vin et alcools de vin :
 
-A destination des pays tiers :
+"A destination des pays tiers :
 
-450 F pour le vinage des vins, pour la fabrication d'apéritifs ou de liqueurs et pour l'élaboration des brandies pur vin.
+"Pour le vinage des vins, pour la fabrication d'apéritifs ou de liqueurs et pour l'élaboration des brandies pur vin :
 
-2° Alcools de grain :
+204,44 F.
 
-A destination de tous pays : 420 F.
+"2° Alcools de grain :
 
-3° Autres alcools :
+"A destination de tous pays : 125,36 F.
 
-A destination de tous pays : 350 F.
+"3° Autres alcools :
 
-II. - Alcools vendus sans garantie de substance répondant à certaines conditions de titrage des produits élaborés :
+"A destination de tous pays : 145,78 F.
 
-A destination des pays tiers : 250 F.
+"II - Pour les alcools vendus sans garantie de substance répondant à certaines conditions de titrage des produits élaborés :
 
-A destination des pays de la Communauté économique européenne : 300 F.
+"1° Alcools destinés à la consommation de bouche :
+
+"A destination des pays tiers : 196,21 F.
+
+"A destination des pays de la Communauté économique européenne [*CEE*] : 146,21 F.
+
+"2° Alcools destinés à la fabrication des produits de parfumerie et de toilette :
+
+"A destination des pays tiers : 146,63 F.
+
+"A destination des pays de la Communauté économique européenne : 93,63 F.
+
+"3° Alcools faisant l'objet de l'autorisation de mise sur le marché prévue à l'article L. 601 du code de la santé publique et entrant dans les préparations magistrales, les produits officinaux et les spécialités pharmaceutiques destinés à l'usage de la médecine humaine :
+
+"A destination des pays tiers : 150 F.
+
+"A destination des pays de la Communauté économique européenne : 100 F.
+
+4° Alcools destinés aux préparations pharmaceutiques autres que celles visées ci-dessus :
+
+"A destination des pays tiers : 146,63 F.
+
+"A destination des pays de la Communauté économique européenne : 96,63 F.
+
+5° Alcools destinés à la fabrication des vinaigres :
+
+"A destination des pays tiers : 80 F.
+
+"A destination des pays de la Communauté économique européenne : 30 F".
