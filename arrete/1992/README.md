@@ -61,6 +61,7 @@
 - [Arrêté du 27 décembre 1991 (EQUS9101857A)](arrete-du-27-decembre-1991-equs9101857a)
 - [Arrêté du 27 décembre 1991 (SPSH9102870A)](arrete-du-27-decembre-1991-spsh9102870a)
 - [Arrêté du 28 février 1992 (SANH9102814A)](arrete-du-28-fevrier-1992-sanh9102814a)
+- [Arrêté du 28 novembre 1991 (AGRR9102451A)](arrete-du-28-novembre-1991-agrr9102451a)
 - [Arrêté du 29 juillet 1991 (SPSS9101749A)](arrete-du-29-juillet-1991-spss9101749a)
 - [Arrêté du 29 novembre 1991 (SPSP9102750A)](arrete-du-29-novembre-1991-spsp9102750a)
 - [Arrêté du 30 décembre 1991 (AGRS9102723A)](arrete-du-30-decembre-1991-agrs9102723a)
