@@ -1,6 +1,6 @@
 # Article 2
 
-L'examen professionnel d'accès au grade d'ingénieur subdivisionnaire, mentionné au 2°  de l'article 8 du décret n° 90-126 du 9 février 1990 susvisé, comporte les épreuves suivantes :
+L'examen professionnel d'accès au grade d'ingénieur subdivisionnaire, mentionné au 2° et 4° de l'article 8 du décret n° 90-126 du 9 février 1990 susvisé, comporte les épreuves suivantes :
 
 1° Un examen du dossier du candidat ainsi que d'un rapport établi par l'autorité territoriale.
 

@@ -1,12 +1,14 @@
 # Article 1
 
-L'examen professionnel d'accès au grade d'ingénieur subdivisionnaire, mentionné au 1° de l'article 8 du décret n° 90-126 du 9 février 1990 susvisé, comporte deux épreuves écrites et deux épreuves orales. Ces épreuves consistent en :
+L'examen professionnel d'accès au grade d'ingénieur subdivisionnaire, mentionné au 1° et 4° de l'article 8 du décret n° 90-126 du 9 février 1990 susvisé, comporte deux épreuves écrites et deux épreuves orales. Ces épreuves consistent en :
 
 1° Epreuves écrites
 
 1° Rédaction d'une note de synthèse se rapportant à un sujet de portée générale permettant d'apprécier les connaissances professionnelles du candidat (durée : quatre heures ; coefficient 3) ;
 
 2° Etablissement d'un projet ou étude sur l'une des matières suivantes, au choix du candidat (durée quatre heures ; coefficient 4) :
+
+a) pour les candidats à l'examen professionnel mentionné au 1° de l'article 8 susvisé    " Etablissement d'un projet ou étude relatif aux activités d'un service technique, d'un laboratoire d'analyses chimiques ou d'analyses des eaux ou d'un groupe de services techniques. "
 
 - eau et assainissement ;
 
@@ -27,6 +29,8 @@ L'examen professionnel d'accès au grade d'ingénieur subdivisionnaire, mentionn
 - hygiène et prévention des risques ;
 
 - organisation et méthodes de gestion.
+
+b) pour les candidats à l'examen professionnel mentionné au 2° de l'article 8 susvisé :
 
 2° Epreuves orales
 
