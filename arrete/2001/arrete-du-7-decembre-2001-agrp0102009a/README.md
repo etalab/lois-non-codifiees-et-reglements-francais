@@ -4,6 +4,7 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
+- [Commission régionale.](commission-regionale)
 - [Demande d'agrément.](demande-d-agrement)
 - [Sessions d'examens analytique et organoleptique.](sessions-d-examens-analytique-et)
 - [Examen analytique.](examen-analytique)

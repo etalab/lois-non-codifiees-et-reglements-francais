@@ -8,6 +8,10 @@ La nature et la taille maximale des lots ainsi que la méthode d'échantillonnag
 
 Les prélèvements d'échantillons sont effectués en une seule fois dans le lieu d'entrepôt figurant dans la demande d'agrément. Ils doivent porter sur la totalité des volumes de vins de même catégorie, de même couleur et de même type susceptibles de bénéficier d'un certificat d'agrément.
 
+Pour la campagne 2002, par dérogation à l'alinéa précédent, les prélèvements des vins de même catégorie, de même couleur et de même type susceptibles de bénéficier d'un certificat d'agrément peuvent ne pas être réalisés simultanément lorsqu'ils portent sur des appellations revendiquées différentes.
+
+Les appellations concernées figurent sur une liste approuvée par le comité national des vins et eaux-de-vie sur demande motivée du syndicat de défense de l'appellation et après avis du comité régional de l'Institut national des appellations d'origine dont relève l'appellation. La liste est consultable auprès des services de l'Institut national des appellations d'origine.
+
 Toutefois, lorsque des vins sont revendiqués en primeur conformément au quatrième alinéa de l'article 1er du décret du 7 décembre 2001 susvisé, le prélèvement de vins revendiqués en primeur ne porte que sur la totalité des volumes de ces vins.
 
 Les échantillons sont prélevés :
@@ -39,5 +43,7 @@ Le règlement intérieur prévoit le nombre d'échantillons pour chaque prélèv
 Les échantillons soumis à la dégustation sont présentés de façon anonyme.
 
 L'anonymat des échantillons est assuré à leur réception par les services de l'Institut national des appellations d'origine. Toutefois, l'organisme agréé peut procéder aux opérations matérielles relatives à l'anonymat dans le cadre des dispositions de la convention prévue à l'article 2 du décret du 7 décembre 2001 susvisé et sous réserve d'une certification de ce service au sens de l'article L. 115-27 du code de la consommation.
+
+Toutefois, à titre expérimental pour la campagne 2002, la certification visée à l'alinéa précédent n'est pas obligatoire lorsque la convention prévue à l'article 2 du décret du 7 décembre 2001 susvisé comporte la description des procédures à mettre en oeuvre pour assurer l'anonymat. Les services de l'Institut national des appellations d'origine contrôlent le respect de ces procédures.
 
 Ces mêmes dispositions s'appliquent à la levée de l'anonymat.
