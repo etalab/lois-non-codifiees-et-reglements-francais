@@ -1,0 +1,5 @@
+# Article 1
+
+Sous réserve des dispositions de l'article 2 ci-après, il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre sous le nom de "vanille", avec ou sans qualificatif, ou sous une dénomination contenant soit le mot vanille, soit un dérivé ou une imitation de ce mot, un produit autre que le fruit du Vanilla planifolia et des espèces voisines, de la famille des orchichées, cueilli avant la maturité, ayant subi les traitements qui ont pour but d'en développer l'arôme et n'ayant fait l'objet d'aucun retranchement de ses principes utiles.
+
+Cette interdiction ne s'oppose pas à l'emploi du mot "vanille", conformément aux dispositions des décrets pris en application de l'article 11 de la loi du 1er août 1905 ou aux usages loyaux et constants du commerce, lorsqu'il s'agit de produits destinés à l'alimentation ou de denrées alimentaires et boissons dont l'élaboration a nécessité la mise en oeuvre de vanille, à l'exclusion de toute substance aromatisante artificielle mentionnée au décret n° 91-366 du 11 avril 1991.
