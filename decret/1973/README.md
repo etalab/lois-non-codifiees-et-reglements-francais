@@ -18,6 +18,7 @@
 - [Décret n°73-564 du 26 juin 1973](decret-n73-564-du-26-juin-1973)
 - [Décret n°72-1210 du 27 décembre 1972](decret-n72-1210-du-27-decembre-1972)
 - [Décret n°72-1220 du 28 décembre 1972](decret-n72-1220-du-28-decembre-1972)
+- [Décret n°72-1266 du 28 décembre 1972](decret-n72-1266-du-28-decembre-1972)
 - [Décret n°73-1237 du 28 décembre 1973](decret-n73-1237-du-28-decembre-1973)
 - [Décret n°73-1214 du 29 décembre 1973](decret-n73-1214-du-29-decembre-1973)
 - [Décret n°73-878 du 29 août 1973](decret-n73-878-du-29-aout-1973)
