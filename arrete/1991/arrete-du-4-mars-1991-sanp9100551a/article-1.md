@@ -2,7 +2,7 @@
 
 I. - La commission des infirmiers du Conseil supérieur des professions paramédicales comprend [*composition*] :
 
-Vingt personnes désignées par le ministre chargé de la santé, sur propositions respectives des organisations suivantes :
+Vingt et une personnes désignées par le ministre chargé de la santé, sur propositions respectives des organisations suivantes :
 
 Fédération de la santé et de l'action sociale C.G.T. (deux membres) ;
 
@@ -20,7 +20,7 @@ Syndicat national des cadres hospitaliers (S.N.C.H.) ;
 
 Association nationale des infirmières générales (A.N.I.G.) ;
 
-Comité d'entente des écoles d'infirmières et des écoles des cadres (C.E.E.I.E.C.) ;
+Comité d'entente des écoles d'infirmières et des écoles de cadres (C.E.E.I.E.C.) ;
 
 Comité d'entente de formation des infirmières en santé mentale (C.E.F.I.S.M.) ;
 
@@ -33,6 +33,8 @@ Organisation nationale des syndicats d'infirmiers libéraux (O.N.S.I.L.) ;
 Syndicat national des infirmiers spécialisés en anesthésie-réanimation (S.N.I.S.A.R.) ;
 
 Union nationale des associations d'infirmiers(ères) de salle d'opération (U.N.A.I.S.O.) ;
+
+Association nationale des puéricultrices diplômées d'Etat (A.N.D.P.E.) ;
 
 Union nationale des associations et syndicats infirmiers et des infirmiers(ères) (U.N.A.S.I.I.F.).
 
@@ -70,7 +72,7 @@ Seize membres appartenant à l'administration, aux organismes intéressés et au
 
 - deux médecins désignés par le ministre chargé de la santé en raison de leur compétence.
 
-II. - Lorsque la commission est consultée sur des problèmes relatifs aux infirmiers de secteur psychiatrique, aux infirmiers de salle d'opération ou aux infirmiers spécialisés en anesthésie-réanimation, il est adjoint à la commission, respectivement, deux infirmiers de secteur psychiatrique, deux infirmiers de salle d'opération ou deux infirmiers spécialisés en anesthésie-réanimation, désignés par le ministre chargé de la santé.
+II. - Lorsque la commission est consultée sur des problèmes relatifs aux infirmiers de secteur psychiatrique, aux infirmiers de bloc opératoire ou aux infirmiers spécialisés en anesthésie-réanimation, il est adjoint à la commission, respectivement, deux infirmiers de secteur psychiatrique, deux infirmiers de bloc opératoire ou deux infirmiers spécialisés en anesthésie-réanimation, désignés par le ministre chargé de la santé.
 
 III. - Lorsque la commission est consultée sur des problèmes relatifs aux aides-soignants :
 
