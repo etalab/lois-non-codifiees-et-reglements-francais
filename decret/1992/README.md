@@ -56,7 +56,6 @@
 - [Décret n°92-1072 du 2 octobre 1992 (FPPA9200049D)](decret-n92-1072-du-2-octobre-1992-fppa9200049d)
 - [Décret n°92-1074 du 2 octobre 1992 (ENVP9200018D)](decret-n92-1074-du-2-octobre-1992-envp9200018d)
 - [Décret n°92-1075 du 2 octobre 1992 (TEFX9210432D)](decret-n92-1075-du-2-octobre-1992-tefx9210432d)
-- [Décret n°92-1076 du 2 octobre 1992 (TEFE9205294D)](decret-n92-1076-du-2-octobre-1992-tefe9205294d)
 - [Décret n°92-1078 du 2 octobre 1992 (SPSS9201135D)](decret-n92-1078-du-2-octobre-1992-spss9201135d)
 - [Décret n°92-1081 du 2 octobre 1992 (RESY9200393D)](decret-n92-1081-du-2-octobre-1992-resy9200393d)
 - [Décret n°92-1082 du 2 octobre 1992 (RESY9200394D)](decret-n92-1082-du-2-octobre-1992-resy9200394d)
