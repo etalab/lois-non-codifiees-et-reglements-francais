@@ -4,7 +4,7 @@ Les vins bénéficiant d'une des appellations d'origine contrôlées ci-après p
 
 Bergerac blanc et rosé ;
 
-Blayais blanc sec ;
+Blaye blanc sec ;
 
 Bordeaux blanc sec, rosé et clairet ;
 
@@ -24,7 +24,7 @@ Graves de Vayre blanc sec ;
 
 Jurançon sec blanc ;
 
-Montravel blanc et rosé ;
+Montravel blanc ;
 
 Première Côte de Blaye blanc sec ;
 
@@ -60,4 +60,22 @@ Saint-Chinian rosé ;
 
 Costières de Nîmes blanc et rosé ;
 
-Côtes de Provence blanc et rosé.
+Côtes de Provence blanc et rosé ;
+
+Muscadet ;
+
+Muscadet de Sèvre et Maine ;
+
+Muscadet des Coteaux de la Loire ;
+
+Muscadet Côtes de Grand-Lieu ;
+
+Coteaux Varois blanc et rosé ;
+
+Côtes du Ventoux blanc et rosé ;
+
+Côtes de Blaye blanc ;
+
+Côtes du Vivarais blanc et rosé ;
+
+Côtes du Roussillon blanc et rosé.
