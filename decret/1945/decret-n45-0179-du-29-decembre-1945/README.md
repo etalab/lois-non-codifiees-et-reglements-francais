@@ -2,6 +2,7 @@
 
 - [TITRE 2 : PRESTATIONS](titre-2)
 - [ASSURANCE VOLONTAIRE](assurance-volontaire)
+- [ASSURANCES VOLONTAIRES](assurances-volontaires)
 - [DISPOSITIONS SPECIALES AUX BENEFICIAIRES DES DIVERSES LEGISLATIONS DE PREVOYANCE ET D'ASSISTANCE](dispositions-speciales-aux)
 - [DISPOSITIONS DIVERSES](dispositions-diverses)
 - [DISPOSITIONS TRANSITOIRES](dispositions-transitoires)

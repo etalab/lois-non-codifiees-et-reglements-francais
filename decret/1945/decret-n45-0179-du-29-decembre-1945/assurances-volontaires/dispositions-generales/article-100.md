@@ -1,0 +1,3 @@
+# Article 100
+
+1. Les personnes visées aux 1 et 3 de l'article 98 précédent doivent, à l'appui de leur demande, justifier qu'elles relevaient, depuis au moins six mois, de l'assurance sociale obligatoire soit à titre personnel, soit à titre d'ayant droit, par la production de la carte d'immatriculation d'assuré social et des derniers bulletins de paie comportant l'indication du précompte ou, à défaut de bulletin de paie, de toute autre pièce en tenant lieu et, notamment, pour les anciens assurés bénéficiaires du régime d'assurances sociales des étudiants, du dernier bulletin de versement de la cotisation personnelle audit régime.
