@@ -11,3 +11,5 @@ Les parieurs peuvent enregistrer leurs paris "MULTI" sous forme de combinaisons 
 - de sept chevaux, dénommées "MULTI en 7".
 
 Quel que soit le nombre de chevaux choisis par le parieur, il est fixé un seul et même enjeu minimum pour ce mode de pari.
+
+Les parieurs peuvent également enregistrer leurs paris "Multi sous forme de formules dites "champ selon les dispositions de l'article 93-1 ci-dessous.

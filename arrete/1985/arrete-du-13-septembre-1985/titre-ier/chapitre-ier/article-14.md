@@ -2,6 +2,8 @@
 
 Minimum et maximum d'enjeu. - Un minimum d'enjeu est fixé pour chaque type de pari.
 
+Les dispositions de l'alinéa précédent ne font pas obstacle au fait que le Pari mutuel urbain offre ponctuellement aux parieurs de tout ou partie des postes et moyens d'enregistrement visés à l'article 9 du présent arrêté la faculté de régler une partie du montant de leur enjeu sur présentation d'un titre dûment accrédité à cette fin par le Pari mutuel urbain et dont ce dernier ou un annonceur prendrait en charge la contre-valeur.
+
 Il est d'autre part fixé pour certains types de pari un maximum d'enjeu autorisé par parieur.
 
 Toute violation de cette règle entraîne pour son auteur l'application de l'article 8 du présent arrêté.
