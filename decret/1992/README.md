@@ -209,6 +209,7 @@
 - [Décret n°92-160 du 19 février 1992 (INTB9200050D)](decret-n92-160-du-19-fevrier-1992-intb9200050d)
 - [Décret n°92-168 du 19 février 1992 (EQUP9101501D)](decret-n92-168-du-19-fevrier-1992-equp9101501d)
 - [Décret n°92-259 du 19 mars 1992 (MAEA9220068D)](decret-n92-259-du-19-mars-1992-maea9220068d)
+- [Décret n°87-31 du 20 janvier 1987](decret-n87-31-du-20-janvier-1987)
 - [Décret n°89-779 du 20 octobre 1989 (SPSG8901529D)](decret-n89-779-du-20-octobre-1989-spsg8901529d)
 - [Décret n°89-780 du 20 octobre 1989 (SPSG8901530D)](decret-n89-780-du-20-octobre-1989-spsg8901530d)
 - [Décret n°92-152 du 20 février 1992 (INTC9200029D)](decret-n92-152-du-20-fevrier-1992-intc9200029d)
