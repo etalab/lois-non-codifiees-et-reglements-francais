@@ -6,10 +6,6 @@ A. - TAXE POUR LE DÉVELOPPEMENT DES INDUSTRIES
 
 DE L'AMEUBLEMENT
 
-A-I. - Produits, activités et prestations
-
-relevant du centre technique du bois et de l'ameublement
-
 Classe 20.51. Pour les produits désignés ci-après :
 
 20.51.14. Autres ouvrages en bois pour les cercueils, cadres en bois, enceintes acoustiques en bois, cages d'horlogerie.
@@ -52,10 +48,6 @@ Classe 36.50. Jeux et jouets et services associés pour le poste :
 
 36.50.43. Pour les tables de billard et autres meubles pour jeux.
 
-A-II. - Produits, activités et prestations
-
-relevant du centre technique des industries mécaniques
-
 36.14.11. Meubles métalliques divers.
 
 36.12.11. Mobilier métallique de bureau et de magasin, pour le mobilier métallique de bureau.
@@ -80,13 +72,13 @@ a) Cuirs et peaux bruts pour les produits ci-après désignés :
 
 b) Cuirs et peaux semi-finis et finis pour les produits ci-après désignés :
 
-19.10.1.  Cuirs et peaux spécialement surfacés.
+19.10.1. Cuirs et peaux spécialement surfacés.
 
-19.10.2.  Cuirs et peaux de bovins et équidés.
+19.10.2. Cuirs et peaux de bovins et équidés.
 
-19.10.3.  Cuirs et peaux d'ovins, caprins et porcins.
+19.10.3. Cuirs et peaux d'ovins, caprins et porcins.
 
-19.10.4.  Autres cuirs et peaux travaillées.
+19.10.4. Autres cuirs et peaux travaillées.
 
 c) Articles de maroquinerie, de voyage et de chasse, articles divers en cuir, y compris les gants en cuir et les ceintures en cuir, chaussures pour les produits ci-après désignés :
 
@@ -102,13 +94,13 @@ c) Articles de maroquinerie, de voyage et de chasse, articles divers en cuir, y 
 
 19.20.14. Articles techniques en cuir.
 
-19.30.1.  Chaussures et bottes.
+19.30.1. Chaussures et bottes.
 
-19.30.2.  Chaussures de sport.
+19.30.2. Chaussures de sport.
 
-19.30.3.  Articles chaussants divers.
+19.30.3. Articles chaussants divers.
 
-19.30.4.  Accessoires et parties de chaussures.
+19.30.4. Accessoires et parties de chaussures.
 
 31.50.42. Parties d'appareils d'éclairage : en cuir.
 
@@ -366,7 +358,7 @@ relevant du centre technique des industries mécaniques
 
 - les ossatures métalliques visées ci-dessus.
 
-28.21.1.  Réservoirs métalliques, y compris les cuves et citernes métalliques montables sur les matériels de transport, à l'exclusion des produits mentionnés au paragraphe E-IV.
+28.21.1. Réservoirs métalliques, y compris les cuves et citernes métalliques montables sur les matériels de transport, à l'exclusion des produits mentionnés au paragraphe E-IV.
 
 28.21.91. Installation de réservoirs métalliques, pour le montage in situ des réservoirs métalliques autoproduits.
 
@@ -378,7 +370,7 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 - de chaudronnerie et de tuyauterie industrielle ;
 
-- de tôlerie et de mécano-soudure,
+- de tôlerie forte et de mécano-soudure,
 
 à l'exclusion :
 
@@ -386,7 +378,7 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 - des travaux d'entretien.
 
-28.40.1.  Travaux de forge et d'estampage, y compris :
+28.40.1. Travaux de forge et d'estampage, y compris :
 
 - le découpage sur plan quel que soit le procédé (y compris de tôles magnétiques) ;
 
@@ -402,13 +394,21 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 - du vernissage, du laquage, de la peinture à façon et de la plastification.
 
-28.52.20. Opérations de mécanique générale, pour les façons et les produits de l'usinage par enlèvement de métal quel que soit le procédé, y compris :
+28.52.20 Opérations de mécanique générale pour :
+
+- les façons et les produits de l'usinage par l'enlèvement de métal quel que soit le procédé ;
+
+- l'affûtage des outils pour machine ;
+
+- la reconstruction des moteurs thermiques autres que pour automobiles ;
+
+- la reconstruction ou réparation de machines ou équipements, pour le compte de tiers, n'impliquant pas, normalement, les services du constructeur,
+
+y compris :
 
 - les opérations d'usinage de matériaux non métalliques ou composites ;
 
-- la sous-traitance,
-
-à l'exclusion des opérations de montage et démontage dans le cadre de l'entretien.
+- la sous-traitance.
 
 28.61. Articles de coutellerie, à l'exclusion :
 
@@ -418,23 +418,23 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 28.62. Outillage, y compris les outillages sur plans, à l'exclusion, dans la sous-catégorie 28.62.30, des produits mentionnés au paragraphe E-II.
 
-28.63.1.  Serrures et ferrures, y compris la quincaillerie métallique d'ameublement et de bâtiment, à l'exclusion des serrures spécifiques à l'automobile.
+28.63.1. Serrures et ferrures, y compris la quincaillerie métallique d'ameublement et de bâtiment, à l'exclusion des serrures spécifiques à l'automobile.
 
 28.71.11. Récipients métalliques de 50 à 300 litres.
 
-28.72.1.  Emballages légers métalliques, à l'exclusion :
+28.72.1. Emballages légers métalliques, à l'exclusion :
 
 - des boîtes de conserve et pour boisson ainsi que des emballages métalliques entièrement réalisés en aluminium ou en fer-blanc ;
 
 - des articles de bouchage et de surbouchage.
 
-28.73.1.  Articles en fil métallique, pour aiguilles, petites fournitures métalliques diverses et articles en fil, à l'exclusion des produits mentionnés au paragraphe E-II.
+28.73.1. Articles en fil métallique, pour aiguilles, épingles et articles en fil sur plans ou modèles, à l'exclusion des produits mentionnés au paragraphe E-II.
 
 28.74. Vis, boulons, chaînes et ressorts, y compris tous les articles de fixation mécanique, à l'exclusion des produits mentionnés au paragraphe E-III.
 
-28.75.1.  Articles métalliques ménagers, y compris les accessoires de cuisine (friteuses, sauteuses, bains-marie, grilloirs, percolateurs), à l'exclusion des articles en aluminium ou en fer-blanc ou en fonte.
+28.75.1. Articles métalliques ménagers, y compris les accessoires de cuisine (friteuses, sauteuses, bains-marie, grilloirs, percolateurs), à l'exclusion des articles en aluminium ou en fer-blanc ou en fonte.
 
-28.75.2.  Coffres-forts, petits articles et ouvrages métalliques divers, y compris les tuyaux flexibles métalliques ou en tout autre matériau à armature métallique, à l'exclusion :
+28.75.2. Coffres-forts, petits articles et ouvrages métalliques divers, y compris les tuyaux flexibles métalliques ou en tout autre matériau à armature métallique, à l'exclusion :
 
 - des sous-catégories 28.75.24 et 28.75.26 ;
 
@@ -448,7 +448,7 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 - des produits mentionnés au paragraphe E-V.
 
-28.75.3.  Armes blanches.
+28.75.3. Armes blanches.
 
 28.75.90. Installation, réparation et entretien d'articles métalliques divers, pour l'installation de coffres-forts fabriqués par l'entreprise.
 
@@ -626,13 +626,13 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 31.62.12. Electroaimants et aimants permanents, pour accouplements, embrayages, variateurs de vitesse, paliers électromagnétiques, freins électromagnétiques ainsi que plateaux, mandrins et dispositifs électromagnétiques similaires.
 
-31.62.13. Appareillage électrique spécialisé, pour les machines et matériels de revêtements électrolytiques des pièces métalliques.
+31.62.13. Appareillage électrique spécialisé, pour les machines et matériels de revêtements électrolytiques.
 
-31.10.13. Matériels dentaires.
+33.10.13. Matériels dentaires.
 
-31.10.14. Stérilisateurs médicaux.
+33.10.14. Stérilisateurs médicaux.
 
-33.10.15.   Appareils médicaux divers, notamment ciseaux, seringues, bistouris électriques ou non, pinces hémostatiques, instruments tranchants divers, incubateurs pour prématurés et appareils de dialyse et de circulation sanguine extra-corporelle.
+33.10.15. Appareils médicaux divers, notamment ciseaux, seringues, bistouris électriques ou non, pinces hémostatiques, instruments tranchants divers, incubateurs pour prématurés et appareils de dialyse et de circulation sanguine extra-corporelle.
 
 33.10.16. Appareils de mécanothérapie et de thérapie respiratoire.
 
@@ -644,9 +644,9 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 33.20.12. Instruments de mesures géophysiques.
 
-33.20.3.  Instruments de mesures des masses et des longueurs, à l'exclusion des poids en fonte et des instruments en bois et en plastique.
+33.20.3. Instruments de mesures des masses et des longueurs, à l'exclusion des poids en fonte et des instruments en bois et en plastique.
 
-33.20.5.  Instruments de mesure de grandeurs physiques et chimiques, pour les matériels, en association ou non avec l'électricité ou l'électronique :
+33.20.5. Instruments de mesure de grandeurs physiques et chimiques, pour les matériels, en association ou non avec l'électricité ou l'électronique :
 
 - soit faisant appel aux techniques fluidiques, pneumatiques ou optiques ;
 
@@ -654,13 +654,13 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 à l'exclusion des produits mentionnés au paragraphe E-V.
 
-33.20.6.  Appareils de contrôle et de mesures divers, dans les mêmes conditions que le 33.20.5, y compris les instruments de contrôle des états de surface, à l'exclusion des compteurs de distribution électrique.
+33.20.6. Appareils de contrôle et de mesures divers, dans les mêmes conditions que le 33.20.5, y compris les instruments de contrôle des états de surface, à l'exclusion des compteurs de distribution électrique.
 
-33.20.7.  Appareils pour le contrôle automatique, dans les mêmes conditions que le 33.20.5.
+33.20.7. Appareils pour le contrôle automatique, dans les mêmes conditions que le 33.20.5.
 
-33.20.8.  Parties et accessoires d'instruments de mesure, concernant les instruments et appareils mentionnés ci-dessus, dans les catégories 33.20.3, 33.20.5, 33.20.6 et 33.20.7.
+33.20.8. Parties et accessoires d'instruments de mesure, concernant les instruments et appareils mentionnés ci-dessus, dans les catégories 33.20.3, 33.20.5, 33.20.6 et 33.20.7.
 
-33.40.3.  Matériel photographique, y compris le matériel de micrographie et les machines automatiques pour s'autophotographier, à l'exclusion des appareils cinématographiques de prise de vue et de projection pour professionnels et de la sous-catégorie 33.40.31.
+33.40.3. Matériel photographique, y compris le matériel de micrographie et les machines automatiques pour s'autophotographier, à l'exclusion des appareils cinématographiques de prise de vue et de projection pour professionnels et de la sous-catégorie 33.40.31.
 
 33.50.29. Compteurs de temps, pour :
 
@@ -674,7 +674,7 @@ Les chaudières à fluide caloporteur liquide fonctionnant à une température s
 
 35.11.40. Plates-formes, pour les plates-formes de forage ou d'exploitation en mer, y compris les plates-formes d'habitation et de stockage, à l'exclusion des produits mentionnés au paragraphe E-IV.
 
-35.43.1.  Véhicules pour invalides, pour fauteuils roulants et autres véhicules pour invalides, avec ou sans moteur, à l'exception des véhicules de tourisme spécialement équipés pour invalides.
+35.43.1. Véhicules pour invalides, pour fauteuils roulants et autres véhicules pour invalides, avec ou sans moteur, à l'exception des véhicules de tourisme spécialement équipés pour invalides.
 
 35.50. Matériels de transport n.c.a. (non cités ailleurs), à l'exclusion de la sous-catégorie 35.50.90.
 
@@ -702,7 +702,7 @@ E-II. - Produits, activités et prestations
 
 relevant de l'institut de soudure
 
-27.34.1.  Fils tréfilés, pour la fabrication des fils pleins de soudage.
+27.34.1. Fils tréfilés, pour la fabrication des fils pleins de soudage.
 
 27.4. Métaux non ferreux, pour la fabrication des fils et métaux d'apport de soudage, soudobrasage, brasage, brasage tendre et métallisation.
 
@@ -716,7 +716,7 @@ relevant de l'institut de soudure
 
 29.24.40. Matériel fonctionnant sur la base d'une différence de température, pour les pistolets à métalliser à chaud.
 
-29.43.2.  Matériel pour le soudage et le brasage, y compris :
+29.43.2. Matériel pour le soudage et le brasage, y compris :
 
 - machines ou appareils de soudobrasage, brasage, brasage tendre, métallisation ;
 
@@ -736,7 +736,7 @@ relevant du centre technique de l'industrie du décolletage
 
 - les opérations de contrôle et de reprise associées.
 
-28.74.1.  Articles de visserie et ressorts, pour les produits de la boulonnerie et visserie décolletés.
+28.74.1. Articles de visserie et ressorts, pour les produits de la boulonnerie et visserie décolletés.
 
 E-IV. - Produits, activités et prestations relevant
 
@@ -784,7 +784,7 @@ du centre technique industriel de la construction métallique
 
 - les ossatures des escaliers, verrières, auvents et abris divers.
 
-28.21.1.  Réservoirs métalliques, pour les éléments chaudronnés des silos, trémies et enceintes de confinement de capacité unitaire égale ou supérieure à 500 mètres cubes.
+28.21.1. Réservoirs métalliques, pour les éléments chaudronnés des silos, trémies et enceintes de confinement de capacité unitaire égale ou supérieure à 500 mètres cubes.
 
 28.21.91. Installation de réservoirs métalliques, pour le montage in situ des éléments de réservoirs autoproduits.
 
@@ -796,7 +796,7 @@ du centre technique industriel de la construction métallique
 
 - les portes flottantes, bateaux-portes, docks flottants, ponts-bateaux ;
 
-- les barges et caissons à ossature en poutrelles métalliques.
+- les barges ou caissons ou pontons, à ossature métallique.
 
 E-V. - Produits, activités et prestations relevant
 
@@ -878,11 +878,11 @@ y compris :
 
 - les systèmes d'aspiration centralisée industriels, tertiaires ou domestiques ;
 
-- les matériels montés sur site.
+- les matériels assemblés sur site.
 
-29.23.2.  Appareils de ventilation non domestique, pour les ventilateurs industriels et plus généralement tous les appareils comportant ou non des organes mobiles, ayant pour but de mettre en mouvement des gaz, et en particulier de l'air, dans le domaine des basses pressions, quels que soient les matériaux de contruction, à l'exclusion de tous appareils générant une pression supérieure à 30 000 Pa.
+29.23.2. Appareils de ventilation non domestique, pour les ventilateurs industriels et plus généralement tous les appareils comportant ou non des organes mobiles, ayant pour but de mettre en mouvement des gaz, et en particulier de l'air, dans le domaine des basses pressions, quels que soient les matériaux de contruction, à l'exclusion de tous appareils générant une pression supérieure à 30 000 Pa.
 
-29.23.3.  Parties et éléments de matériel aéraulique et frigorifique, pour les appareils de distribution et de diffusion de l'air, les bouches de reprise et de diffusion, les grilles et les clapets coupe-feu destinés aux installations de chauffage, ventilation y compris la ventilation mécanique contrôlée (VMC), conditionnement d'air, séchage, transport par air et par lit fluidisé, à l'exclusion des tampons grilles en fonte ou en produits de fonderie.
+29.23.3. Parties et éléments de matériel aéraulique et frigorifique, pour les appareils de distribution et de diffusion de l'air, les bouches de reprise et de diffusion, les grilles et les clapets coupe-feu destinés aux installations de chauffage, ventilation y compris la ventilation mécanique contrôlée (VMC), conditionnement d'air, séchage, transport par air et par lit fluidisé, à l'exclusion des tampons grilles en fonte ou en produits de fonderie.
 
 29.24. Autres machines d'usage général, pour :
 
@@ -918,7 +918,7 @@ y compris :
 
 - les corps de chauffe des matériels ci-dessus.
 
-33.20.5.  Pour les enceintes d'essais climatiques et leurs équipements.
+33.20.5. Pour les enceintes d'essais climatiques et leurs équipements.
 
 F. - TAXE POUR LE DÉVELOPPEMENT
 
@@ -928,7 +928,7 @@ F-I. - Produits relevant du centre d'études
 
 et de recherches de l'industrie du béton
 
-26.61.1.  Eléments en béton pour la construction.
+26.61.1. Eléments en béton pour la construction.
 
 26.61.11. Matériaux de construction en béton.
 
@@ -936,7 +936,7 @@ et de recherches de l'industrie du béton
 
 26.61.13. Tuyaux en béton.
 
-26.61.2.  Constructions préfabriquées en béton.
+26.61.2. Constructions préfabriquées en béton.
 
 26.66.12. Autres ouvrages en béton.
 
@@ -944,4 +944,6 @@ F-II. - Produits relevant du centre technique
 
 des tuiles et briques
 
-<div/>
+Vous pouvez consulter le tableau dans le JO
+
+n° 62 du 13/03/2004 page 4945 à 4951
