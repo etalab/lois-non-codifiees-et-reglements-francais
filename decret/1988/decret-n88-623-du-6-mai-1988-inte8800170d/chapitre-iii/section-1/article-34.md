@@ -1,7 +1,0 @@
-# Article 34
-
-Le directeur départemental des services d'incendie et de secours exerce [*attributions*], sous l'autorité du préfet ou du maire, les missions dont il est chargé par chacun d'eux dans le cadre de leurs pouvoirs respectifs de police.
-
-Il contrôle la mise en oeuvre opérationnelle de l'ensemble des moyens relevant du service départemental d'incendie et de secours, des communes et des établissements publics de coopération intercommunale compétents en matière de lutte contre l'incendie. Pour l'exercice de cette mission, il peut être assisté d'un ou plusieurs inspecteurs adjoints ayant au moins le grade de capitaine nommés par arrêté conjoint du préfet et de président de la commission administrative du service départemental d'incendie et de secours pour une durée maximum de trois ans renouvelable.
-
-Le directeur départemental des services d'incendie et de secours exerce, dans les domaines énumérés au premier alinéa de l'article 1er du présent décret, des fonctions de conseil sur le plan technique auprès du préfet et des maires du département. Il élabore, à leur demande, des études concernant la prévention des risques de toute nature et notamment la lutte et la protection contre les incendies. Il participe aux travaux relatifs à l'organisation générale des secours dans le département. Sous l'autorité du préfet, il collabore à l'élaboration des plans Orsec et des plans d'urgence prévus à l'article 3 de la loi du 22 juillet 1987 précitée.
