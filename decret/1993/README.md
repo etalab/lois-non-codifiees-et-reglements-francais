@@ -16,6 +16,7 @@
 - [Décret n°93-184 du 9 février 1993 (MENF9200498D)](decret-n93-184-du-9-fevrier-1993-menf9200498d)
 - [Décret n°93-310 du 9 mars 1993 (BUDF9200055D)](decret-n93-310-du-9-mars-1993-budf9200055d)
 - [Décret n°93-311 du 9 mars 1993 (BUDF9200058D)](decret-n93-311-du-9-mars-1993-budf9200058d)
+- [Décret n°89-168 du 10 mars 1989 (RESY8900047D)](decret-n89-168-du-10-mars-1989-resy8900047d)
 - [Décret n°93-194 du 10 février 1993 (INTA9220329D)](decret-n93-194-du-10-fevrier-1993-inta9220329d)
 - [Décret n°93-195 du 10 février 1993 (INTA9220330D)](decret-n93-195-du-10-fevrier-1993-inta9220330d)
 - [Décret n°93-317 du 10 mars 1993 (SANH9300170D)](decret-n93-317-du-10-mars-1993-sanh9300170d)
