@@ -2,6 +2,7 @@
 
 - [TITRE Ier : dispositions générales.](titre-ier)
 - [TITRE II : Le conseil d'administration.](titre-ii)
+- [TITRE III : Le directeur.](titre-iii)
 - [TITRE IV : Les personnels.](titre-iv)
 - [TITRE V : Régime financier.](titre-v)
 - [TITRE VI : Dispositions finales.](titre-vi)
