@@ -329,7 +329,6 @@
 - [Décret n°92-34 du 9 janvier 1992 (MENN9102867D)](decret-n92-34-du-9-janvier-1992-menn9102867d)
 - [Décret n°92-497 du 9 juin 1992 (AGRS9200797D)](decret-n92-497-du-9-juin-1992-agrs9200797d)
 - [Décret n°92-501 du 9 juin 1992 (RESX9200096D)](decret-n92-501-du-9-juin-1992-resx9200096d)
-- [Décret n°92-629 du 9 juillet 1992 (JUSB9210191D)](decret-n92-629-du-9-juillet-1992-jusb9210191d)
 - [Décret n°92-630 du 9 juillet 1992 (JUSB9210192D)](decret-n92-630-du-9-juillet-1992-jusb9210192d)
 - [Décret n°92-640 du 9 juillet 1992 (SPSS9201256D)](decret-n92-640-du-9-juillet-1992-spss9201256d)
 - [Décret n°92-659 du 9 juillet 1992 (BUDF9200015D)](decret-n92-659-du-9-juillet-1992-budf9200015d)
