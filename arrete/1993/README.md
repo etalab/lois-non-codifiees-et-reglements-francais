@@ -29,7 +29,6 @@
 - [Arrêté du 1 septembre 1993 (MCCB9300165A)](arrete-du-1-septembre-1993-mccb9300165a)
 - [Arrêté du 1 septembre 1993 (SPSG9302718A)](arrete-du-1-septembre-1993-spsg9302718a)
 - [Arrêté du 2 août 1993 (SPSN9302193A)](arrete-du-2-aout-1993-spsn9302193a)
-- [Arrêté du 2 août 1993 (TEFM9300877A)](arrete-du-2-aout-1993-tefm9300877a)
 - [Arrêté du 2 décembre 1993 (ECOT9351313A)](arrete-du-2-decembre-1993-ecot9351313a)
 - [Arrêté du 2 décembre 1993 (INTC9300671A)](arrete-du-2-decembre-1993-intc9300671a)
 - [Arrêté du 2 décembre 1993 (RESM9301702A)](arrete-du-2-decembre-1993-resm9301702a)
