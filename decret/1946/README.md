@@ -9,6 +9,7 @@
 - [Décret n°46-448 du 18 mars 1946](decret-n46-448-du-18-mars-1946)
 - [Décret n°45-0117 du 19 décembre 1945](decret-n45-0117-du-19-decembre-1945)
 - [Décret n°45-0120 du 19 décembre 1945](decret-n45-0120-du-19-decembre-1945)
+- [Décret n°46-1834 du 20 août 1946](decret-n46-1834-du-20-aout-1946)
 - [Décret n°46-2583 du 21 novembre 1946](decret-n46-2583-du-21-novembre-1946)
 - [Décret n°46-1541 du 22 juin 1946](decret-n46-1541-du-22-juin-1946)
 - [Décret n°46-2390 du 23 octobre 1946](decret-n46-2390-du-23-octobre-1946)
