@@ -8,6 +8,8 @@ Il comprend [*composition*] :
 
 - les sous-chefs d'état-major compétents des trois armées ;
 
+- le directeur general de la sécurité extérieur ;
+
 - le directeur du personnel et des affaires générales ;
 
 - le directeur des constructions navales ;
