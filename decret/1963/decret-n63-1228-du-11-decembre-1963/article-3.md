@@ -1,6 +1,24 @@
 # Article 3
 
-I- Les installations nucléaires de base ne peuvent être créées qu'après autorisation ; la demande d'autorisation [*contenu*] doit donner les caractéristiques de l'installation ou des installations nucléaires de base ainsi que des établissements visés à l'article 6 bis [*entrant dans le champ d'application de la réglementation des installations classées pour la protection de l'environnement*] faisant l'objet de la demande ; elle doit comporter un plan de situation indiquant, dans le cadre d'un site nucléaire, le périmètre de l'installation. Un site nucléaire peut comprendre plusieurs installations nucléaires de base ayant un même exploitant et constituant un tout organique ; il peut comporter dans les mêmes conditions des possibilités d'accueil d'installations nouvelles.
+" I. - Les installations nucléaires de base ne peuvent être créées qu'après autorisation. La demande d'autorisation porte sur l'installation ou les installations nucléaires de base ainsi que sur les installations classées pour la protection de l'environnement mentionnées à l'article 6 bis. Un site nucléaire peut comprendre plusieurs installations nucléaires de base ayant un même exploitant et constituant un tout organique ; il peut comporter dans les mêmes conditions des possibilités d'accueil d'installations nouvelles.
+
+" La demande d'autorisation est adressée au ministre chargé de l'industrie et, le cas échéant, au ministre dont relève l'établissement. Le ministre chargé de l'industrie la transmet dans les meilleurs délais au ministre chargé de la prévention des risques technologiques majeurs. Il en informe en outre le ministre de l'intérieur et les ministres chargés respectivement de l'aménagement du territoire, de l'urbanisme et de l'architecture, de l'environnement, de l'agriculture, de la santé et des transports.
+
+" A l'appui de la demande d'autorisation, l'exploitant soumet au chef du service central de sûreté des installations nucléaires un rapport préliminaire de sûreté comportant la description de l'installation et des opérations qui y seront effectuées, l'inventaire des risques de toutes origines qu'elle présente, l'analyse des dispositions prises pour prévenir ces risques et des mesures propres à réduire la probabilité des accidents et leurs effets.
+
+" La demande d'autorisation est accompagnée d'un dossier comprenant les pièces suivantes :
+
+" 1. Les nom, prénoms et qualités du pétitionnaire et son domicile ou, s'il s'agit d'une société, sa raison sociale ou sa dénomination, son siège social ainsi que la qualité du signataire de la demande ;
+
+" 2. Une carte au 1/25 000 sur laquelle est indiqué l'emplacement de l'installation projetée ;
+
+" 3. Un plan de situation au 1/10 000 indiquant, dans le cadre d'un site nucléaire, le périmètre de l'installation. Sur ce plan sont indiqués notamment les bâtiments avec leur affectation, les voies de chemin de fer, les voies publiques, les points d'eau, canaux et cours d'eau, les réseaux de transports d'énergie et de produits énergétiques ;
+
+" 4. Un plan détaillé de l'installation à l'échelle de 1/2 500 au minimum ;
+
+" 5. Un document donnant les caractéristiques de l'installation et de son fonctionnement et exposant, à partir des principes énoncés dans le rapport préliminaire de sûreté, les mesures prises pour faire face aux risques présentés par l'installation et limiter les conséquences d'un accident éventuel. Ce document précise également les dispositions destinées à faciliter le démantèlement ultérieur de l'installation.
+
+" Il constitue, pour les installations nucléaires de base, l'étude de dangers au sens de l'article 46 de la loi du 22 juillet 1987 susvisée. "
 
 II- La demande d'autorisation est adressée au ministre du développement industriel et scientifique, et, le cas échéant, au ministre dont relève l'établissement. Le ministre chargé de l'industrie en informe le ministre de l'intérieur et les ministres chargés respectivement de l'aménagement du territoire, de l'urbanisme et de l'architecture, de l'environnement, de l'agriculture, de la santé et des transports.
 
@@ -16,11 +34,9 @@ III- L'enquête publique est régie, sous réserve des dispositions suivantes, p
 
 Le ministre chargé de l'industrie transmet le dossier qui doit être soumis à enquête au commissaire de la République du département sur le territoire duquel sera implantée l'installation projetée.
 
-Le dossier comprend en sus des pièces mentionnées à l'article 6 du décret n° 85-453 du 23 avril 1985 [*contenu*].
+" Le dossier soumis à l'enquête publique comprend, outre la demande d'autorisation et le dossier mentionné au quatrième alinéa du I du présent article, les pièces mentionnées au II de l'article 6 du décret n° 85-453 du 23 avril 1985.
 
-1° Les nom, prénoms et qualités du pétitionnaire et son domicile, ou, s'il s'agit d'une société, sa raison sociale ou sa dénomination, son siège social ainsi que la qualité du signataire de la demande ;
-
-2° Une carte de l'Institut géographique national au 1/25 000 sur laquelle est indiqué l'emplacement de l'installation projetée.
+" Ce dossier ne doit pas contenir d'informations dont la communication est protégée par la loi et, notamment, celles qui sont couvertes par le secret de défense nationale, ou qui seraient de nature à compromettre la sécurité de l'installation ou à affaiblir sa protection contre les actes de malveillance. "
 
 Pour l'étude des questions appelant une compétence technique particulière et lorsque le commissaire enquêteur ou le président de la commission d'enquête en exprime le désir, le commissaire de la République désigne une personne qualifiée, qui assiste le commissaire enquêteur ou la commission d'enquête, mais ne peut participer à la rédaction du rapport et des conclusions.
 

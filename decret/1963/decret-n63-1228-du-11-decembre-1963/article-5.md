@@ -1,5 +1,7 @@
 # Article 5
 
-L'autorisation [*contenu*] de création fixe, compte tenu de la nature de l'installation [*nucléaire de base*], le délai dans lequel celle-ci doit être mise en service.
+- I. - L'exploitant avise le chef du service central de sûreté des installations nucléaires de toutes modifications à l'installation entraînant une mise à jour des rapports de sûreté, des règles générales d'exploitation ou du plan d'urgence interne du site. L'autorisation de création précisera les conditions préalables à la réalisation de ces modifications.
 
-Si l'installation n'est pas mise en service dans le délai fixé ou si elle n'est pas exploitée pendant une durée consécutive de 2 ans, une nouvelle autorisation, délivrée dans les mêmes formes, est nécessaire [*péremption*].
+" II. - Les ministres chargés de l'industrie et de la prévention des risques technologiques majeurs peuvent conjointement demander à tout moment à l'exploitant de procéder au réexamen de la sûreté de l'installation.
+
+" III. - Sans préjudice de l'application des mesures prévues par les règlements en vigueur, tout accident ou incident, nucléaire ou non, ayant ou risquant d'avoir des conséquences notables pour la sûreté des installations mentionnées par le présent décret est déclaré sans délai par l'exploitant au ministre chargé de l'industrie (service central de sûreté des installations nucléaires), au ministre chargé de la prévention des risques technologiques majeurs et au ministre chargé de la santé (service central de protection contre les rayonnements ionisants). "
