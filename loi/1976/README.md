@@ -9,3 +9,4 @@
 - [Loi n° 76-978 du 29 octobre 1976](loi-n-76-978-du-29-octobre-1976)
 - [Loi n°76-1022 du 10 novembre 1976](loi-n76-1022-du-10-novembre-1976)
 - [Loi n°76-1181 du 22 décembre 1976](loi-n76-1181-du-22-decembre-1976)
+- [Loi n°76-1212 du 24 décembre 1976](loi-n76-1212-du-24-decembre-1976)
