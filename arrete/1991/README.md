@@ -184,7 +184,6 @@
 - [Arrêté du 13 février 1991 (MENZ9100306A)](arrete-du-13-fevrier-1991-menz9100306a)
 - [Arrêté du 13 février 1991 (RESZ9000353A)](arrete-du-13-fevrier-1991-resz9000353a)
 - [Arrêté du 13 février 1991 (SANM9100415A)](arrete-du-13-fevrier-1991-sanm9100415a)
-- [Arrêté du 13 février 1991 (SPSS9002584A)](arrete-du-13-fevrier-1991-spss9002584a)
 - [Arrêté du 13 mars 1991 (AGRG9100248A)](arrete-du-13-mars-1991-agrg9100248a)
 - [Arrêté du 13 mars 1991 (INDA9100227A)](arrete-du-13-mars-1991-inda9100227a)
 - [Arrêté du 13 mars 1991 (INDA9100228A)](arrete-du-13-mars-1991-inda9100228a)
