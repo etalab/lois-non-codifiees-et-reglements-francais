@@ -67,6 +67,7 @@
 - [Décret n°2002-1572 du 23 décembre 2002 (AGRS0202024D)](decret-n2002-1572-du-23-decembre-2002-agrs0202024d)
 - [Décret n°2002-1574 du 23 décembre 2002 (MCCB0200802D)](decret-n2002-1574-du-23-decembre-2002-mccb0200802d)
 - [Décret n°2002-1504 du 24 décembre 2002 (DOMA0200044D)](decret-n2002-1504-du-24-decembre-2002-doma0200044d)
+- [Décret n°2002-1538 du 24 décembre 2002 (EQUU0201868D)](decret-n2002-1538-du-24-decembre-2002-equu0201868d)
 - [Décret n°2002-1548 du 24 décembre 2002 (INTB0200299D)](decret-n2002-1548-du-24-decembre-2002-intb0200299d)
 - [Décret n°2002-1549 du 24 décembre 2002 (INTB0200300D)](decret-n2002-1549-du-24-decembre-2002-intb0200300d)
 - [Décret n°2002-1550 du 24 décembre 2002 (INTB0200302D)](decret-n2002-1550-du-24-decembre-2002-intb0200302d)
