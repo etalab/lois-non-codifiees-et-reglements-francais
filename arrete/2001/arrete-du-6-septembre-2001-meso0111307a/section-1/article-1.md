@@ -1,0 +1,3 @@
+# Article 1
+
+Il est institué une commission consultative paritaire compétente à l'égard des agents contractuels dont la direction de l'administration générale, du personnel et du budget ou la direction de l'administration générale et de la modernisation des services assure la gestion, recrutés en application des articles 4 ou 6, alinéa 1er, de la loi du 11 janvier 1984 susvisée ou recrutés sous contrat à durée indéterminée. Cette commission n'est pas compétente pour les agents non titulaires dont le contrat de recrutement indique explicitement leur appartenance à un cabinet ministériel ainsi que pour les catégories d'agents non titulaires relevant d'une instance paritaire de concertation déjà existante.

@@ -1,0 +1,3 @@
+# Article 29
+
+Lorsque la commission évoque la situation d'un représentant du personnel siégeant en tant que titulaire, il est fait appel à son représentant suppléant ou, à défaut, à un autre représentant suppléant appartenant à la même organisation syndicale. Si, pour une organisation syndicale, aucun représentant titulaire ou suppléant ne peut siéger, il est procédé à un tirage au sort parmi les contractuels visés à l'article 1er du présent arrêté. Si les agents ainsi désignés n'acceptent pas, les sièges vacants des représentants du personnel sont attribués à des représentants de l'administration.
