@@ -418,6 +418,7 @@
 - [Arrêté du 16 mars 2004 (MCCF0400227A)](arrete-du-16-mars-2004-mccf0400227a)
 - [Arrêté du 16 mars 2004 (MCCF0400229A)](arrete-du-16-mars-2004-mccf0400229a)
 - [Arrêté du 16 septembre 2004 (INDI0403637A)](arrete-du-16-septembre-2004-indi0403637a)
+- [Arrêté du 16 septembre 2004 (MENF0401903A)](arrete-du-16-septembre-2004-menf0401903a)
 - [Arrêté du 17 août 2004 (EQUA0401169A)](arrete-du-17-aout-2004-equa0401169a)
 - [Arrêté du 17 décembre 2003 (EQUS0301873A)](arrete-du-17-decembre-2003-equs0301873a)
 - [Arrêté du 17 février 2004 (BUDL0400006A)](arrete-du-17-fevrier-2004-budl0400006a)
