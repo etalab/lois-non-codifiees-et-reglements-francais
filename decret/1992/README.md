@@ -102,6 +102,7 @@
 - [Décret n°92-135 du 11 février 1992 (SPSS9200001D)](decret-n92-135-du-11-fevrier-1992-spss9200001d)
 - [Décret n°92-221 du 11 mars 1992 (PRMX9200012D)](decret-n92-221-du-11-mars-1992-prmx9200012d)
 - [Décret n°92-222 du 11 mars 1992 (PRMX9200029D)](decret-n92-222-du-11-mars-1992-prmx9200029d)
+- [Décret n°92-226 du 11 mars 1992 (ECOT9113537D)](decret-n92-226-du-11-mars-1992-ecot9113537d)
 - [Décret n°93-324 du 11 mars 1993 (INTA9300095D)](decret-n93-324-du-11-mars-1993-inta9300095d)
 - [Décret n°87-663 du 12 août 1987 (PTTP8700481D)](decret-n87-663-du-12-aout-1987-pttp8700481d)
 - [Décret n°88-48 du 12 janvier 1988 (DEFP8701758D)](decret-n88-48-du-12-janvier-1988-defp8701758d)
