@@ -2,65 +2,155 @@
 
 1. Les normes harmonisées visées à l'article 1er ci-dessus sont les normes européennes modifiées ou complétées, conformément aux annexes 1.1, 1.2 et 1.3 du présent arrêté ci-jointes, comme il est indiqué ci-après :
 
-Matériel électrique pour atmosphères explosibles :
+Matériel électrique pour atmosphère explosible :
 
 TITRE DE LA NORME : Règles générales.
 
-NORME EUROPEENNE : EN 50 014 (mars 1977).
+NUMERO de la norme européenne : EN 50-014.
 
-NORME française correspondante (1) : NF C 23-514 (mai 1982).
+DATE : Mars 1977.
 
-MODIFICATION ou complément : Annexe 1 - 1.
+NUMERO de la norme française : NF C 23-514.
+
+DATE d'homologation : Mai 1982.
+
+NUMERO de la norme européenne : EN 50-014 Amendement 1.
+
+DATE : Juillet 1979.
+
+NUMERO de la norme française : Rectificatif.
+
+NUMERO de la norme européenne : EN 50-014 Amendement 2.
+
+DATE : Juin 1982.
+
+NUMERO de la norme française : Additif 2.
+
+DATE d'homologation : Mai 1982.
+
+MODIFICATION ou complément : Annexe 1.1.
+
+NUMERO de la norme européenne : EN 50-014 Amendement 3 et 4.
+
+DATE : Décembre 1982.
+
+NUMERO de la norme française : Additif 3 et 4.
+
+DATE d'homologation : Juillet 1983.
 
 TITRE DE LA NORME : Immersion dans l'huile "o".
 
-NORME EUROPEENNE : EN 50 015 (mars 1977).
+NUMERO de la norme européenne : EN 50-015.
 
-NORME française correspondante (1) : NF C 23-515 (mai 1982).
+DATE : Mars 1977.
 
-MODIFICATION ou complément : Néant.
+NUMERO de la norme française : NF C 23-515.
+
+DATE d'homologation : Mai 1982.
+
+NUMERO de la norme européenne : EN 50-015 Amendement 1.
+
+DATE : Juillet 1979.
+
+NUMERO de la norme française : Rectificatif.
 
 TITRE DE LA NORME : Surpression interne "p".
 
-NORME EUROPEENNE : EN 50 016 (mars 1977).
+NUMERO de la norme européenne : EN 50-016.
 
-NORME française correspondante (1) : NF C 23-516 (mai 1982).
+DATE : Mars 1977.
 
-MODIFICATION ou complément : Néant.
+NUMERO de la norme française : NF C 23-516.
+
+DATE d'homologation : Mai 1982.
+
+NUMERO de la norme européenne : EN 50-016 Amendement 1.
+
+DATE : Juillet 1979.
+
+NUMERO de la norme française : Rectificatif.
 
 TITRE DE LA NORME : Remplissage pulvérulent "q".
 
-NORME EUROPEENNE : EN 50 017 (mars 1977).
+NUMERO de la norme européenne : EN 50-017.
 
-NORME française correspondante (1) : NF C 23-517 (mai 1982).
+DATE : Mars 1977.
 
-MODIFICATION ou complément : Néant.
+NUMERO de la norme française : NF C 23-517.
 
-TITRE DE LA NORME : Enveloppe anti-déflagrante "d".
+DATE d'homologation : Mai 1982.
 
-NORME EUROPEENNE : EN 50 018 (mars 1977).
+NUMERO de la norme européenne : EN 50-017 Amendement 1.
 
-NORME française correspondante (1) : NF C 23-518 (mai 1982).
+DATE : Juillet 1979.
 
-MODIFICATION ou complément : Annexe 1 - 2.
+NUMERO de la norme française : Rectificatif.
+
+TITRE DE LA NORME : Enveloppe antidéflagrante "d".
+
+NUMERO de la norme européenne : EN 50-018.
+
+DATE : Mars 1977.
+
+NUMERO de la norme française : NF C 23-518.
+
+DATE d'homologation : Mai 1982.
+
+NUMERO de la norme européenne : EN 50-018 Amendement 1.
+
+DATE : Juillet 1979.
+
+NUMERO de la norme française : Rectificatif.
+
+NUMERO de la norme européenne : EN 50-018 Amendement 2.
+
+DATE : Décembre 1982.
+
+NUMERO de la norme française : Additif 2.
+
+DATE d'homologation : Juillet 1983.
 
 TITRE DE LA NORME : Sécurité augmentée "e".
 
-NORME EUROPEENNE : EN 50 019 (mars 1977).
+NUMERO de la norme européenne : EN 50-019.
 
-NORME française correspondante (1) : NF C 23-519 (mai 1982).
+DATE : Mars 1977.
 
-MODIFICATION ou complément : Néant.
+NUMERO de la norme française : NF C 23-519.
 
-TITRE DE LA NORME : Sécurité intrinsèque "1".
+DATE d'homologation : Mai 1982.
 
-NORME EUROPEENNE : EN 50 020 (mars 1977).
+NUMERO de la norme européenne : EN 50-019 Amendement 1.
 
-NORME française correspondante (1) : NF C 23-520 (mai 1982).
+DATE : Juillet 1979.
 
-MODIFICATION ou complément : Annexe 1 - 3 relative aux systèmes électriques de sécurité intrinsèque.
+NUMERO de la norme française : Rectificatif.
 
-(1) Ces normes sont celles qui ont été enregistrées en juin 1977, elles portent ici leur date d'homologation.
+NUMERO de la norme européenne : EN 50-019 Amendement 2.
+
+DATE : Septembre 1983.
+
+NUMERO de la norme française : Additif 2.
+
+DATE d'homologation : Janvier 1984.
+
+TITRE DE LA NORME : Sécurité intrinsèque "i".
+
+NUMERO de la norme européenne : EN 50-020.
+
+DATE : Mars 1977.
+
+NUMERO de la norme française : NF C 23-520.
+
+DATE d'homologation : Mai 1982.
+
+MODIFICATION ou complément : Annexe 1.2.
+
+NUMERO de la norme européenne : EN 50-020 Amendement 1.
+
+DATE : Juillet 1979.
+
+NUMERO de la norme française : Rectificatif.
 
 2. Les spécifications techniques françaises visées à l'article 1er ci-dessus sont les suivantes :
 
