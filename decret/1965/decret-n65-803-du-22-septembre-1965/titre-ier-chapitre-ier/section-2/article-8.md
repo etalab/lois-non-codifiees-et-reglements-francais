@@ -1,6 +1,6 @@
 # Article 8
 
-Les professeurs du deuxième et du premier grade des écoles nationales de chirurgie dentaire sont respectivement assimilés, du point de vue du statut, de la rémunération et de l'avancement universitaire, aux chefs de travaux et aux maîtres assistants des facultés.
+Les professeurs du deuxième grade et les professeurs du premier grade des écoles nationales de chirurgie dentaire sont respectivement assimilés du point de vue de la rémunération universitaire aux chefs de travaux des facultés et aux maîtres assistants des facultés des sciences.
 
 La rémunération universitaire des assistants est fixée par un arrêté conjoint du ministre de l'éducation nationale et du ministre des finances et des affaires économiques.
 
