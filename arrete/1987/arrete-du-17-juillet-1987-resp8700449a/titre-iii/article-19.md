@@ -1,19 +1,17 @@
 # Article 19
 
-Sur avis du conseil de l'unité de formation et de recherche dispensant des formations pharmaceutiques, le conseil des études et de la vie universitaire propose au conseil d'administration de l'université :
+Sur avis du conseil de l'unité de formation et de recherche dispensant des formations pharmaceutiques, le conseil des études et de la vie universitaire propose au conseil d'administration de l'université les modalités de contrôle des connaissances des quatre premières années d'études.
 
-- les modalités du contrôle des connaissances des quatre premières années d'études.
+Le conseil de l'unité de formation et de recherche dispensant des formations pharmaceutiques fixe, après approbation du président d'université :
 
-A l'issue du trimestre de synthèse est organisé un examen, au moins partiellement oral, permettant de vérifier que l'étudiant maîtrise les connaissances acquises et est capable de les mobiliser face à un problème pratique. Le jury pluridisciplinaire comprend au moins un enseignant des disciplines fondamentales et un pharmacien ou un praticien hospitalier.
+Les conditions de validation de l'enseignement de préparation à la prise de fonctions hospitalières ;
 
-Le conseil de l'unité de formation et de recherche dispensant des formations pharmaceutiques fixe, après approbation du président de l'université :
+Les conditions de validation de l'enseignement de synthèse ; l'examen doit être au moins partiellement oral et permettre d'apprécier, à propos de cas concrets, si l'étudiant maîtrise les connaissances acquises et sera capable de les utiliser dans sa pratique professionnelle ;
 
-- les modalités des contrôles de connaissances de l'année hospitalo-universitaire ainsi que les règles de choix des postes hospitaliers.
+Les conditions de validation des stages et de l'enseignement hospitalier ; cette validation est accordée par un jury, désigné par le directeur de l'unité de formation et de recherche dispensant des formations pharmaceutiques parmi les membres du collège d'enseignement pharmaceutique hospitalier défini à l'article 36 du présent arrêté, et présidé par l'enseignant coordonnateur défini à l'article 10 du présent arrêté ; cette validation prend en compte les notes portées sur le carnet de stage et les appréciations des chefs de service ou de département ayant accueilli les étudiants ;
 
-- les modalités des contrôles des connaissances de la sixième année d'études.
+Les modalités de contrôle des connaissances de la sixième année d'études et de validation des stages, pour laquelle il doit être tenu compte de l'avis motivé du maître de stage.
 
-- les conditions de validation des stages. Pour la validation du stage il est tenu compte de l'avis motivé du maître de stage ;
+Les programmes sur lesquels portent les épreuves d'examens doivent être communiqués aux étudiants avant la fin du premier mois de chaque semestre.
 
-Les programmes sur lesquels portent les épreuves d'examens doivent être communiqués aux étudiants avant la fin du premier mois de chaque semestre. Ils sont approuvés par le conseil de l'unité de formation et de recherche dispensant des formations pharmaceutiques.
-
-Les connaissances exigées, outre celles dispensées au cours de l'année, peuvent correspondre à des enseignements reçus lors des années précédentes en relation avec les matières faisant l'objet de chaque examen, ou à des acquis obtenus par le travail personnel de l'étudiant sur les sujets figurant au programme.
+Les connaissances exigées, outre celles dispensées au cours de l'année, peuvent correspondre à des enseignements reçus lors des années précédentes, en relation avec les matières faisant l'objet de chaque examen, ou à des acquis obtenus par le travail personnel de l'étudiant sur des sujets figurant au programme.

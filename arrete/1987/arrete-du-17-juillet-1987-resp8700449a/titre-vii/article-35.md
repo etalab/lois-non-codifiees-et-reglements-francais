@@ -12,32 +12,40 @@ Il est institué une commission pédagogique nationale des études pharmaceutiqu
 
 - de favoriser les échanges pédagogiques internationaux, notamment les échanges d'étudiants et d'enseignants.
 
-La Commission pédagogique nationale des études pharmaceutiques comprend vingt et un membres titulaires  [*composition*] :
+La Commission pédagogique nationale des études pharmaceutiques comprend :
 
-- le directeur général des enseignements supérieurs et de la recherche ou son représentant, président ;
+Le directeur chargé des enseignements supérieurs ou son représentant, président ;
 
-- le directeur des enseignements supérieurs ou son représentant ;
+Le directeur chargé de la santé ou son représentant ;
 
-- le directeur général de la santé ou son représentant ;
+Le directeur chargé du service de santé des armées ou son représentant ;
 
-- le directeur de la pharmacie et du médicament ou son représentant ;
+Le premier vice-président de la conférence des présidents d'université ou son représentant ;
 
-- le directeur central du service de santé des armées ou son représentant,
+Le président de la conférence des directeurs d'UFR de pharmacie ou son représentant ;
 
-et seize membres nommés conjointement par le ministre chargé des enseignements supérieurs et par le ministre chargé de la santé. Parmi ces membres doivent figurer au moins :
+Le président de la conférence des présidents des commissions médicales d'établissement des centres hospitaliers et universitaires ou son représentant ;
 
-- trois directeurs d'unités de formation et de recherche dispensant des formations pharmaceutiques ;
+Le président du conseil scientifique du concours d'internat en pharmacie,
 
-- trois enseignants d'unités de formation et de recherche dispensant des formations pharmaceutiques de préférence chargés de la pédagogie dans leurs établissements ;
+et dix-neuf membres désignés conjointement par les ministres chargés de l'enseignement supérieur et de la santé :
 
-- un pharmacien hospitalier et un biologiste hospitalier, pharmacien ;
+1. Deux directeurs d'unité de formation et de recherche dispensant des formations pharmaceutiques ;
 
-- trois pharmaciens exerçant dans le domaine privé, officinal, biologique et industriel ;
+2. Six enseignants-chercheurs pharmaciens d'unités de formation et de recherche dispensant des formations pharmaceutiques, dont au moins deux maîtres de conférences des universités ;
 
-- deux membres du C.N.E.S.E.R. ;
+3. Un pharmacien hospitalier et un biologiste hospitalier non universitaires, exerçant dans des services habilités à recevoir des étudiants ;
 
-- deux étudiants en pharmacie désignés pour deux ans.
+4. Deux pharmaciens d'officine, maîtres de stage, agréés selon les dispositions de l'article 24 du présent arrêté ;
 
-La commission élit en son sein un vice-président.
+5. Deux pharmaciens exerçant dans le secteur privé, l'un dans un laboratoire d'analyses de biologie médicale, l'autre dans un établissement industriel ;
 
-Pour l'aider dans ses différentes missions, la commission pédagogique nationale des études pharmaceutiques peut désigner des membres consultants choisis en fonction de leur compétence scientifique ou pédagogique.
+6. Deux membres du CNESER ;
+
+7. Trois étudiants en pharmacie, dont un interne, nommés sur proposition des organisations représentatives de ces étudiants.
+
+La durée du mandat des membres nommés est de quatre ans, à l'exception des représentants des étudiants qui sont désignés pour deux ans. Dans le cas où l'un des membres perd la qualité pour laquelle il a été désigné, la durée de mandat de son remplaçant ne couvre que la période restante du mandat initial.
+
+La commission élit en son sein un vice-président choisi parmi les professeurs des universités.
+
+Pour l'aider dans ses différentes missions, la Commission pédagogique nationale des études pharmaceutiques peut désigner des membres consultants choisis en fonction de leur compétence.
