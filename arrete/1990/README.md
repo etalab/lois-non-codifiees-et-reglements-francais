@@ -506,7 +506,6 @@
 - [Arrêté du 19 juin 1990 (TEFT9003556A)](arrete-du-19-juin-1990-teft9003556a)
 - [Arrêté du 19 mars 1990 (ECOA9000031A)](arrete-du-19-mars-1990-ecoa9000031a)
 - [Arrêté du 19 mars 1990 (EQUM9001179A)](arrete-du-19-mars-1990-equm9001179a)
-- [Arrêté du 19 mars 1990 (SPSM9000677A)](arrete-du-19-mars-1990-spsm9000677a)
 - [Arrêté du 19 novembre 1990 (ECOC9000130A)](arrete-du-19-novembre-1990-ecoc9000130a)
 - [Arrêté du 19 novembre 1990 (ECOC9000131A)](arrete-du-19-novembre-1990-ecoc9000131a)
 - [Arrêté du 19 novembre 1990 (EQUA9001570A)](arrete-du-19-novembre-1990-equa9001570a)

@@ -246,7 +246,6 @@
 - [Décret n°96-333 du 10 avril 1996 (FCEC9600018D)](decret-n96-333-du-10-avril-1996-fcec9600018d)
 - [Décret n°96-616 du 10 juillet 1996 (BUDF9610021D)](decret-n96-616-du-10-juillet-1996-budf9610021d)
 - [Décret n°96-620 du 10 juillet 1996 (FCEC9600086D)](decret-n96-620-du-10-juillet-1996-fcec9600086d)
-- [Décret n°96-621 du 10 juillet 1996 (FCEC9600087D)](decret-n96-621-du-10-juillet-1996-fcec9600087d)
 - [Décret n°96-785 du 10 septembre 1996 (TASS9623157D)](decret-n96-785-du-10-septembre-1996-tass9623157d)
 - [Décret n°96-786 du 10 septembre 1996 (TASS9623158D)](decret-n96-786-du-10-septembre-1996-tass9623158d)
 - [Décret n°96-787 du 10 septembre 1996 (TASP9622432D)](decret-n96-787-du-10-septembre-1996-tasp9622432d)

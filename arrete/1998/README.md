@@ -1061,7 +1061,6 @@
 - [Arrêté du 30 janvier 1998 (DEFM9801177A)](arrete-du-30-janvier-1998-defm9801177a)
 - [Arrêté du 30 janvier 1998 (DEFT9801109A)](arrete-du-30-janvier-1998-deft9801109a)
 - [Arrêté du 30 janvier 1998 (MESH9820571A)](arrete-du-30-janvier-1998-mesh9820571a)
-- [Arrêté du 30 juillet 1998 (AGRS9800679A)](arrete-du-30-juillet-1998-agrs9800679a)
 - [Arrêté du 30 juillet 1998 (EQUP9800874A)](arrete-du-30-juillet-1998-equp9800874a)
 - [Arrêté du 30 juillet 1998 (MENS9802085A)](arrete-du-30-juillet-1998-mens9802085a)
 - [Arrêté du 30 juin 1998 (ATEN9870248A)](arrete-du-30-juin-1998-aten9870248a)

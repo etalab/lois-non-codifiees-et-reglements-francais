@@ -14,7 +14,6 @@
 - [Arrêté du 1 octobre 2001 (INTM0100026A)](arrete-du-1-octobre-2001-intm0100026a)
 - [Arrêté du 1 octobre 2001 (PRMG0170682A)](arrete-du-1-octobre-2001-prmg0170682a)
 - [Arrêté du 2 août 2001 (AGRG0101211A)](arrete-du-2-aout-2001-agrg0101211a)
-- [Arrêté du 2 août 2001 (AGRR0101564A)](arrete-du-2-aout-2001-agrr0101564a)
 - [Arrêté du 2 août 2001 (ECOP0100129A)](arrete-du-2-aout-2001-ecop0100129a)
 - [Arrêté du 2 août 2001 (ECOP0100130A)](arrete-du-2-aout-2001-ecop0100130a)
 - [Arrêté du 2 août 2001 (INTE0100479A)](arrete-du-2-aout-2001-inte0100479a)
