@@ -65,6 +65,7 @@
 - [Arrêté du 17 octobre 1986](arrete-du-17-octobre-1986)
 - [Arrêté du 18 décembre 1986 (ASES8700006A)](arrete-du-18-decembre-1986-ases8700006a)
 - [Arrêté du 18 février 1987](arrete-du-18-fevrier-1987)
+- [Arrêté du 18 février 1987 (ECOT8716001A)](arrete-du-18-fevrier-1987-ecot8716001a)
 - [Arrêté du 18 mars 1988 (ECOP8800068A)](arrete-du-18-mars-1988-ecop8800068a)
 - [Arrêté du 19 décembre 1986](arrete-du-19-decembre-1986)
 - [Arrêté du 19 décembre 1986 (AGRP8700045A)](arrete-du-19-decembre-1986-agrp8700045a)
