@@ -1,0 +1,3 @@
+# TITRE IV : DISPOSITIONS DIVERSES ET TRANSITOIRES.
+
+- [Article 31](article-31.md)
