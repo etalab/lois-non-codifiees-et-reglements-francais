@@ -1,7 +1,9 @@
 # Article 155-1
 
-Dans le cas prévu au deuxième alinéa de l'article 186 de la loi sur les sociétés commerciales, le prix d'émission sans droit préférentiel d'actions conférant, sous réserve de la date de jouissance, les mêmes droits que ceux d'actions de la même catégorie déjà émises, ne peut être inférieur :
+Le rapport du conseil d'administration ou du directoire à l'assemblée générale appelée à autoriser une émission de valeurs mobilières visées aux articles 339-1 et 339-5 de la loi sur les sociétés commerciales indique les motifs de l'opération proposée, les modalités d'attribution des titres de capital auxquels elles donnent droit et avec leur justification le prix ou les modalités de calcul du prix de souscription de ces titres, ainsi que les dates auxquelles peuvent être exercés les droits d'attribution.
 
-1° Lorsque les actions de la société sont inscrites à la cote officielle ou à la cote du second marché, à la moyenne d'au moins vingt premiers cours consécutifs choisis parmi les quarante qui précèdent le jour du début de l'émission ; cette moyenne est corrigée pour tenir compte de la différence de date de jouissance.
+Il indique également l'incidence sur la situation de l'actionnaire de l'émission proposée, en particulier en ce qui concerne sa quote-part du bénéfice et celle des capitaux propres.
 
-2° Lorsque les actions de la société ne sont pas inscrites à la cote officielle ou à la cote du second marché, aux capitaux propres par action, tel qu'il ressort du dernier bilan ou à un prix fixé par un expert désigné par le président du tribunal de commerce à la demande du conseil d'administration ou du directoire sauf à tenir compte de la différence de date de jouissance.
+Dans son rapport spécial, le commissaire aux comptes donne son avis sur les modalités d'attribution des titres auxquels donnent droit les valeurs mobilières mentionnées au premier alinéa et leur justification.
+
+S'il est demandé aux actionnaires et aux porteurs de certificats d'investissement de renoncer à leur droit préférentiel de souscription aux valeurs mobilières donnant droit à l'attribution de titres représentatifs d'une quotité de capital à émettre, le contenu du rapport est régi par les dispositions de l'article 155 ci-dessus. Il indique en outre les dates auxquelles peuvent être exercés les droits d'attribution.

@@ -1,0 +1,3 @@
+# Article 1
+
+Les prêts accordés, en vertu de l'article 1er du décret du 26 décembre 1979 susvisé, aux associations syndicales, aux associations foncières et aux associations de la loi 1901, ainsi qu'à leurs mandataires, remplissant les conditions fixées par le présent arrêté, sont assortis d'un taux d'intérêt de 6 % lorsqu'ils sont destinés à financer des investissements collectifs d'hydraulique agricole ou d'aménagement foncier nécessaires à l'irrigation, à l'assainissement et au drainage des terres agricoles, bénéficiant d'une subvention de la part de l'Etat ou d'une autre collectivité territoriale.

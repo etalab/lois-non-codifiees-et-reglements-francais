@@ -162,6 +162,8 @@
 - [Décret n°88-269 du 22 mars 1988 (INDH8800140D)](decret-n88-269-du-22-mars-1988-indh8800140d)
 - [Décret n°88-409 du 22 avril 1988 (BUDZ8800003D)](decret-n88-409-du-22-avril-1988-budz8800003d)
 - [Décret n°88-411 du 22 avril 1988 (EQUX8810279D)](decret-n88-411-du-22-avril-1988-equx8810279d)
+- [Décret n°88-418 du 22 avril 1988 (JUSC8820229D)](decret-n88-418-du-22-avril-1988-jusc8820229d)
+- [Décret n°88-420 du 22 avril 1988 (DOMP8800010D)](decret-n88-420-du-22-avril-1988-domp8800010d)
 - [Décret n°88-431 du 22 avril 1988 (MCCB8800185D)](decret-n88-431-du-22-avril-1988-mccb8800185d)
 - [Décret n°88-432 du 22 avril 1988 (MCCB8800187D)](decret-n88-432-du-22-avril-1988-mccb8800187d)
 - [Décret n°88-433 du 22 avril 1988 (MCCB8800186D)](decret-n88-433-du-22-avril-1988-mccb8800186d)

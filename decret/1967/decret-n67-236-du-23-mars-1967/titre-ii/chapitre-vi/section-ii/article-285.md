@@ -18,9 +18,7 @@ Il contient les indications suivantes :
 
 6° La durée pour laquelle la société a été constituée ;
 
-7° Le montant des apports en numéraire ;
-
-8° La description des apports en numéraire ;
+7° et 8° [*supprimés* ;
 
 9° Les nom, prénom usuel et domicile des associés tenus indéfiniment des dettes sociales ;
 
@@ -32,15 +30,7 @@ Il contient les indications suivantes :
 
 S'il s'agit d'une société par actions, l'avis contient en outre les autres indications suivantes :
 
-1° Le nombre et la valeur nominale des actions souscrites en numéraire ;
-
-2° le nombre et la valeur nominale des actions attribuées en rémunération de chaque apport en nature ;
-
-3° Si le capital n'est pas entièrement libéré, le montant de la partie libérée ;
-
-4° Les dispositions statutaires relatives à la constitution de réserves et à la répartition des bénéfices et du boni de liquidation ;
-
-5° Les avantages particuliers stipulés au profit de toute personne ;
+1°, 2°, 3°, 4° et 5° *]supprimés* ;
 
 6° Les conditions d'admission aux assemblées d'actionnaires et d'exercice du droit de vote, notamment les conditions d'attribution du droit de vote double ;
 

@@ -2,7 +2,7 @@
 
 La société doit adresser aux actionnaires ou mettre à leur disposition, dans les conditions prévues aux articles 138 et 139, les renseignements suivants contenus dans un ou plusieurs documents :
 
-1° Les nom, prénom usuel et domicile, soit des administrateurs et directeurs généraux, soit des membres du conseil de surveillance et du directoire, ainsi que, le cas échéant, l'indication des autres sociétés dans lesquelles ces personnes exercent des fonctions de gestion, de direction, d'administration ou de surveillance ;
+1° Les nom, prénom usuel, soit des administrateurs et directeurs généraux, soit des membres du conseil de surveillance et du directoire, ainsi que, le cas échéant, l'indication des autres sociétés dans lesquelles ces personnes exercent des fonctions de gestion, de direction, d'administration ou de surveillance ;
 
 2° Le texte des projets de résolution présentés par le conseil d'administration ou le directoire, selon le cas ;
 

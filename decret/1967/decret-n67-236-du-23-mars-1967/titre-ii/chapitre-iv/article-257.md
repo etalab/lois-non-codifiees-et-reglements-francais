@@ -1,5 +1,5 @@
 # Article 257
 
-Le rapport des commissaires aux comptes est déposé au siège social et tenu à la disposition des associés ou des actionnaires, pendant le délai de quinze jours qui précède la réunion de l'assemblée appelée à statuer sur le projet de fusion ou de scission.
+Les commissaires à la fusion ou à la scission sont désignés et accomplissent leur mission dans les conditions prévues à l'article 64.
 
-En cas de consultation par écrit, ce rapport est adressé aux associés avec le projet de résolution qui leur est soumis.
+S'il n'est établi qu'un seul rapport pour l'ensemble de l'opération, la désignation a lieu sur requête conjointe de toutes les sociétés participantes.

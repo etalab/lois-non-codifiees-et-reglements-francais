@@ -1,5 +1,5 @@
 # Article 78
 
-Le mandat du représentant permanent désigné par une personne morale nommée administrateur lui est donné pour la durée du mandat de cette dernière. Il doit être confirmé lors de chaque renouvellement du mandat de la personne morale administrateur.
+Le mandat du représentant permanent désigné par une personne morale nommée administrateur lui est donné pour la durée du mandat de cette dernière.
 
 Si la personne morale révoque le mandat de son représentant permanent, elle est tenue de notifier sans délai à la société, par lettre recommandée, cette révocation ainsi que l'identité de son nouveau représentant permanent. Il en est de même en cas de décès ou de démission du représentant permanent.

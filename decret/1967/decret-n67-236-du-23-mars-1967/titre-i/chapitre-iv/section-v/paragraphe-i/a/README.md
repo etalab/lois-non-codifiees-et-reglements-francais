@@ -7,3 +7,4 @@
 - [Article 169-5](article-169-5.md)
 - [Article 169-6](article-169-6.md)
 - [Article 169-7](article-169-7.md)
+- [Article 169-8](article-169-8.md)

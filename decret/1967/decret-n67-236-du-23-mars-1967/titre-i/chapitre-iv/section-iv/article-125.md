@@ -4,4 +4,4 @@ Les actionnaires, titulaires de titres nominatifs depuis un mois au moins à la 
 
 Tous les copropriétaires d'actions indivises sont convoqués dans les mêmes formes, lorsque leurs droits sont constatés, dans le délai prévu à l'alinéa précédent, par une inscription nominative.
 
-Lorsque les actions sont grevées d'un usufruit, le titulaire du droit de vote déterminé par l'article 163, alinéa 1er, de la loi sur les sociétés commerciales est convoqué dans les mêmes formes et sous les mêmes conditions.
+Lorsque les actions sont grevées d'un usufruit, le titulaire du droit de vote est convoqué dans les mêmes formes et sous les mêmes conditions.

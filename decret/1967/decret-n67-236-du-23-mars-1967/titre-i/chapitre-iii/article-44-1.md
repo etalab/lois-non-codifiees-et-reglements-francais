@@ -1,8 +1,8 @@
 # Article 44-1
 
-Toute société à responsabilité limitée est tenue de déposer, en double exemplaire, au greffe du tribunal, pour être annexés au registre du commerce et des sociétés, dans le mois qui suit leur approbation par l'assemblée ordinaire des associés ou par l'associé unique :
+Toute société à responsabilité limitée est tenue de déposer, en double exemplaire, au greffe du tribunal, pour être annexés au registre du commerce et des sociétés, dans le mois qui suit l'approbation des comptes annuels par l'assemblée ordinaire des associés ou par l'associé unique :
 
-1. Les comptes annuels, le rapport de gestion et, le cas échéant, les comptes consolidés, le rapport sur la gestion du groupe, les rapports des commissaires aux comptes sur les comptes annuels et sur les comptes consolidés, éventuellement complétés de leurs observations sur les modifications apportées par l'assemblée ou l'associé unique aux comptes qui leur ont été soumis ;
+1. Les comptes annuels, le rapport de gestion et, le cas échéant, les comptes consolidés, le rapport sur la gestion du groupe, les rapports des commissaires aux comptes sur les comptes annuels et sur les comptes consolidés, éventuellement complétés de leurs observations sur les modifications apportées par l'assemblée ou l'associé unique aux comptes annuels qui leur ont été soumis ;
 
 2. La proposition d'affectation du résultat soumise à l'assemblée ou à l'associé unique et la résolution d'affectation votée ou la décision d'affectation prise.
 
