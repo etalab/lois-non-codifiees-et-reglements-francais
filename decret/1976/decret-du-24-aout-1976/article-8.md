@@ -1,0 +1,3 @@
+# Article 8
+
+La tenue d'un carnet de pressoir est obligatoire. Ce carnet précise, pour chaque marc, le poids des raisins mis en oeuvre par cépage, leur titre alcoométrique en puissance, leur origine, le nom du viticulteur et les volumes des moûts obtenus. La pesée des raisins est obligatoire sur le lieu de pressurage. Ce carnet doit être rempli au fur et à mesure des mises en oeuvre avec indication de la date et de l'heure du début de chaque opération. Il doit être tenu sur place à la disposition des agents du service de la répression des fraudes et du contrôle de la qualité et de ceux de la direction générale des impôts, qui peuvent effectuer librement toutes les opérations de contrôle.
