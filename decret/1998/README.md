@@ -97,6 +97,7 @@
 - [Décret n°98-367 du 6 mai 1998 (MAEJ9830042D)](decret-n98-367-du-6-mai-1998-maej9830042d)
 - [Décret n°98-368 du 6 mai 1998 (MAEJ9830043D)](decret-n98-368-du-6-mai-1998-maej9830043d)
 - [Décret n°2001-1162 du 7 décembre 2001 (EQUP0101497D)](decret-n2001-1162-du-7-decembre-2001-equp0101497d)
+- [Décret n°68-317 du 7 mars 1968](decret-n68-317-du-7-mars-1968)
 - [Décret n°98-12 du 7 janvier 1998 (MENF9703100D)](decret-n98-12-du-7-janvier-1998-menf9703100d)
 - [Décret n°98-13 du 7 janvier 1998 (MENF9703101D)](decret-n98-13-du-7-janvier-1998-menf9703101d)
 - [Décret n°98-15 du 7 janvier 1998 (ECOX9700176D)](decret-n98-15-du-7-janvier-1998-ecox9700176d)
