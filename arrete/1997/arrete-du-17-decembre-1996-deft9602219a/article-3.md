@@ -12,7 +12,7 @@ Les destinataires des informations enregistrées sont, en fonction de leurs attr
 
 - les trésoriers-payeurs généraux ;
 
-- les caisses d'allocation familiale, de sécurité sociale et de mutuelle ;
+- les caisses d'allocation familiale, de sécurité sociale et de mutuelle, la Caisse nationale d'assurance vieillesse ;
 
 - l'autorité qui reçoit la déclaration des revenus dans le cadre de la procédure de transfert de données sociales et fiscales ;
 

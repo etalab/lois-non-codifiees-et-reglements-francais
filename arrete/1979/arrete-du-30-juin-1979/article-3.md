@@ -2,6 +2,6 @@
 
 Pour l'application de l'article R. 351-61 :
 
-- le coefficient multiplicateur CM est fixé à 10 525,27 ;
+- le coefficient multiplicateur CM est fixé à 10 714,72 ;
 
-- le coefficient r est fixé à 956,59.
+- le coefficient r est fixé à 973,81.

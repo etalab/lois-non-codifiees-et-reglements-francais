@@ -94,7 +94,7 @@ TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur
 <p>Personne seule </p>
 </td>
 <td width="302">
-<p align="center">216,29</p>
+<p align="center">218,89</p>
 </td>
 </tr>
 <tr>
@@ -102,7 +102,7 @@ TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur
 <p>Couple sans personne à charge</p>
 </td>
 <td width="302">
-<p align="center">264,74</p>
+<p align="center">267,92</p>
 </td>
 </tr>
 <tr>
@@ -110,7 +110,7 @@ TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur
 <p>Personne seule ou couple ayant une personne à charge</p>
 </td>
 <td width="302">
-<p align="center">297,91</p>
+<p align="center">301,48</p>
 </td>
 </tr>
 <tr>
@@ -118,7 +118,7 @@ TL représente un taux complémentaire fixé ci-dessous en fonction de la valeur
 <p>Par personne supplémentaire à charge</p>
 </td>
 <td width="302">
-<p align="center">43,35</p>
+<p align="center">43,87</p>
 </td>
 </tr>
 </tbody>

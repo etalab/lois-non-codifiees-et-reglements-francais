@@ -8,4 +8,4 @@ Pour l'application de l'article R. 351-21-3 :
 
 - le coefficient y est fixé à 0,038 ;
 
-- le montant auquel le produit yR ne peut être inférieur est fixé à 234,12 euros.
+- le montant auquel le produit yR ne peut être inférieur est fixé à 228,15 euros.

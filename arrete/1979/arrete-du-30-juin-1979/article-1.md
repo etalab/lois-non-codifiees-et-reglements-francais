@@ -14,56 +14,56 @@ III
 
 Bénéficiaire isolé
 
-373,42
+377,34
 
-341,63
+345,17
 
-324,36
+327,69
 
-Ménage sans personne à charge
+Couple sans personne à charge
 
-437,45
+442,14
 
-398,42
+402,64
 
-376,97
+380,93
 
-Bénéficiaire isolé ou ménage ayant une personne à charge
+Bénéficiaire isolé ou couple ayant une personne à charge
 
-466,74
+471,65
 
-425,09
+429,50
 
-400,25
+404,36
 
-Bénéficiaire isolé ou ménage ayant deux personnes à charge
+Bénéficiaire isolé ou couple ayant deux personnes à charge
 
-499,74
+504,92
 
-455,31
+459,95
 
-426,92
+431,22
 
-Bénéficiaire isolé ou ménage ayant trois personnes à charge
+Bénéficiaire isolé ou couple ayant trois personnes à charge
 
-532,89
+538,34
 
-485,38
+490,26
 
-453,59
+458,09
 
-Bénéficiaire isolé ou ménage ayant quatre personnes à charge
+Bénéficiaire isolé ou couple ayant quatre personnes à charge
 
-568,82
+580,80
 
-517,45
+522,58
 
-483,53
+488,25
 
 Par personne à charge supplémentaire
 
-59,07
+60,28
 
-53,98
+54,50
 
-50,13.
+50,60.
