@@ -34,9 +34,7 @@ La répartition des sièges entre ces organisations s'effectue à la représenta
 
 a) Neuf membres représentant les parents d'élèves de l'enseignement public, proposés par les associations de parents d'élèves de l'enseignement public ; la répartition des sièges entre ces associations s'effectue à la représentation proportionnelle selon le système de la plus forte moyenne, proportionnellement aux résultats des élections aux conseils d'administration et aux conseils d'école ;
 
-b)   Trois membres représentant les parents d'élèves des établissements d'enseignement privés, proposés par les associations de parents d'élèves des établissements d'enseignement privés,
-
-choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
+b)   Trois membres représentant les parents d'élèves des établissements d'enseignement privés, proposés par les associations de parents d'élèves des établissements d'enseignement privés, choisies par le ministre chargé de l'éducation parmi les plus représentatives ;
 
 c) Trois membres représentant les étudiants, proposés par les associations d'étudiants ; la répartition des sièges entre ces associations s'effectue à la représentation proportionnelle selon le système du plus fort reste, proportionnellement aux résultats des élections au Conseil national de l'enseignement supérieur et de la recherche ;
 
@@ -64,12 +62,10 @@ cb) Six membres représentant les organisations syndicales d'employeurs et les c
 
 cc) Un membre représentant les présidents d'université et les responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur.
 
-Le représentant des présidents d'université est désigné par la conférence des présidents d'université ; le représentant des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur est désigné par l'assemblée générale des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur. Pour le premier mandat, le titulaire du siège est un président d'université. Pour le second mandat, le titulaire du siège est un responsable d'établissement ou d'école publics délivrant le diplôme
-
-d'ingénieur. Cette alternance se poursuit au cours des mandats suivants ;
+Le représentant des présidents d'université est désigné par la conférence des présidents d'université ; le représentant des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur est désigné par l'assemblée générale des responsables d'établissement et d'école publics délivrant le diplôme d'ingénieur. Pour le premier mandat, le titulaire du siège est un président d'université. Pour le second mandat, le titulaire du siège est un responsable d'établissement ou d'école publics délivrant le diplôme d'ingénieur. Cette alternance se poursuit au cours des mandats suivants ;
 
 cd) Un membre assurant la représentation de l'enseignement agricole désigné par le Conseil national de l'enseignement agricole.
 
-Chaque siège est occupé par un titulaire et deux suppléants désignés dans les mêmes conditions que le titulaire, à l'exception du siège faisant l'objet du 3° (cc) du présent article pour lequel il n'y a qu'un suppléant.
+Des membres suppléants dont le nombre est égal au double de celui des titulaires, à l'exception du membre visé au 3° cc du présent article pour lequel il n'y a qu'un suppléant, sont désignés dans les mêmes conditions que les membres titulaires.
 
 Les membres titulaires et les membres suppléants autres que ceux qui sont mentionnés au 1° (c) du présent article sont nommés par arrêté du ministre chargé de l'éducation.
