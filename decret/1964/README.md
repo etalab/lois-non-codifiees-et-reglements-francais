@@ -52,6 +52,7 @@
 - [Décret n°64-853 du 21 août 1964](decret-n64-853-du-21-aout-1964)
 - [Décret n°64-881 du 21 août 1964](decret-n64-881-du-21-aout-1964)
 - [Décret n°64-436 du 21 mai 1964](decret-n64-436-du-21-mai-1964)
+- [Décret n°64-1333 du 22 décembre 1964](decret-n64-1333-du-22-decembre-1964)
 - [Décret n°64-454 du 23 mai 1964](decret-n64-454-du-23-mai-1964)
 - [Décret n°64-754 du 25 juillet 1964](decret-n64-754-du-25-juillet-1964)
 - [Décret n°64-1008 du 26 septembre 1964](decret-n64-1008-du-26-septembre-1964)
