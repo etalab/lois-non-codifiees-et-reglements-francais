@@ -90,6 +90,8 @@
 - [Arrêté du 9 février 1987 (TRSA8700049A)](arrete-du-9-fevrier-1987-trsa8700049a)
 - [Arrêté du 9 janvier 1987 (ECOT8730002A)](arrete-du-9-janvier-1987-ecot8730002a)
 - [Arrêté du 9 janvier 1987 (INDD8700017A)](arrete-du-9-janvier-1987-indd8700017a)
+- [Arrêté du 9 juin 1987 (ASED8703436A)](arrete-du-9-juin-1987-ased8703436a)
+- [Arrêté du 9 juin 1987 (ASED8703437A)](arrete-du-9-juin-1987-ased8703437a)
 - [Arrêté du 9 mars 1987 (ASES8700410A)](arrete-du-9-mars-1987-ases8700410a)
 - [Arrêté du 9 mars 1987 (ASES8700444A)](arrete-du-9-mars-1987-ases8700444a)
 - [Arrêté du 9 mars 1987 (COPB8700006A)](arrete-du-9-mars-1987-copb8700006a)

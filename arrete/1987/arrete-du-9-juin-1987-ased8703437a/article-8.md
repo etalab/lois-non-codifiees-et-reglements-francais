@@ -1,0 +1,3 @@
+# Article 8
+
+Les résultats des élections sont proclamés par le président du bureau de vote à l'issue du dépouillement et affichés le premier jour ouvrable suivant l'élection. Un exemplaire du procès-verbal relatant les opérations électorales est transmis aux candidats ainsi qu'aux ministres chargés de la tutelle de l'institut. Les réclamations éventuelles sur la validité des opérations électorales sont portées dans un délai de deux jours ouvrables à compter de la proclamation des résultats devant le directeur de l'institut qui statue dans un délai de trois jours ouvrables à compter de la réception de la réclamation et après avis de la commission électorale.

@@ -1,0 +1,3 @@
+# Article 1
+
+Jusqu'au 31 décembre 1990, [*date limite*] les ouvriers de l'Etat employés dans des services ou établissements de la direction des armements terrestres, de l'armée de terre et de la Société nationale des poudres et explosifs et radiés des contrôles à la suite de mesures de transfert, de fermeture ou de réorganisation de ces services ou établissements bénéficient de la jouissance immédiate de leur pension, s'ils sont âgés de cinquante-cinq ans au moins et s'ils réunissent quinze ans [*durée*] de services liquidables au titre du régime des pensions des ouvriers des établissements industriels de l'Etat fixé par le décret du 24 septembre 1965 susvisé.
