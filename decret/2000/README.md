@@ -92,6 +92,7 @@
 - [Décret n°2000-974 du 5 octobre 2000 (INTA0000269D)](decret-n2000-974-du-5-octobre-2000-inta0000269d)
 - [Décret n°2001-906 du 5 octobre 2001 (PRMX0105120D)](decret-n2001-906-du-5-octobre-2001-prmx0105120d)
 - [Décret n°95-585 du 5 mai 1995 (DEFP9501427D)](decret-n95-585-du-5-mai-1995-defp9501427d)
+- [Décret n°95-586 du 5 mai 1995 (DEFP9501428D)](decret-n95-586-du-5-mai-1995-defp9501428d)
 - [Décret n°2000-1078 du 6 novembre 2000 (MAEA0020437D)](decret-n2000-1078-du-6-novembre-2000-maea0020437d)
 - [Décret n°2000-216 du 6 mars 2000 (MENK0000420D)](decret-n2000-216-du-6-mars-2000-menk0000420d)
 - [Décret n°2000-498 du 6 juin 2000 (ECOF0010029D)](decret-n2000-498-du-6-juin-2000-ecof0010029d)

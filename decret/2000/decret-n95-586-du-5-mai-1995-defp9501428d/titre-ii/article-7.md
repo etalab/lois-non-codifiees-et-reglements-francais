@@ -1,0 +1,3 @@
+# Article 7
+
+Dans les classes du premier degré, la scolarité est organisée par cycles, dans les conditions fixées par la législation et la réglementation applicables, en France, dans l'enseignement public. Lorsque des parents, conformément au quatrième alinéa de l'article D. 321-3 du code de l'éducation, contestent la proposition de réduction ou d'allongement de la durée de scolarité de leur enfant émise par le directeur d'école, leur recours motivé est formé, par dérogation aux dispositions dudit article, devant le chef du service de l'enseignement des forces françaises et de l'élément civil stationnés en Allemagne. Celui-ci statue définitivement.
