@@ -6,17 +6,23 @@ I. - Membres de droit :
 
 Le ministre d'Etat chargé des affaires culturelles ou son représentant.
 
-Le secrétaire général.
-
 Le directeur général des arts et des lettres.
 
-Le directeur général de l'architecture.
-
-Le directeur général des archives de France.
+Le directeur général des Archives de France.
 
 Le directeur général du centre national de la cinématographie.
 
-Le chef du service d'administration générale.
+Le directeur de l'architecture.
+
+Le directeur des musées de France.
+
+Le directeur du théâtre, de la musique et de l'action culturelle.
+
+Le directeur de l'administration générale.
+
+Le chargé de mission pour la création artistique.
+
+Le chargé de mission pour les enseignements artistiques.
 
 II. - Membres désignés par le ministre d'Etat chargé des affaires culturelles :
 
