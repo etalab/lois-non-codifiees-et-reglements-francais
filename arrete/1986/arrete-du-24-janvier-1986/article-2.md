@@ -1,3 +1,3 @@
 # Article 2
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+L'indication qui désigne conventionnellement l'année de fabrication sur les récipients renfermant les semi-conserves alimentaires fabriquées en 1986 est la lettre majuscule H.

@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 10 décembre 1980 relatif à la carte nationale de priorité des mères de famille est abrogé.
+Le délégué à la qualité de la vie est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

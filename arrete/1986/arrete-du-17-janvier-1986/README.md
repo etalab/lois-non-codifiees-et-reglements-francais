@@ -1,4 +1,4 @@
-# Arrêté du 17 janvier 1986 fixant le modèle de la carte familiale de priorité.
+# Arrêté du 17 janvier 1986 portant désignation des représentants de l'administration au comité technique paritaire spécial commun aux délégations régionales à l'architecture et à l'environnement.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

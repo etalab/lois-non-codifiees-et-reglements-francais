@@ -1,3 +1,3 @@
 # Article 1
 
-Le règlement général du marché à terme d'instruments financiers dont le texte est annexé au présent arrêté est approuvé.
+L'indication codée qui désigne conventionnellement l'année de fabrication sur les récipients et emballages renfermant des conserves alimentaires et des laits de conserve partiellement ou totalement déshydratés destinés à l'alimentation humaine, fabriqués en 1986, est la lettre majuscule L.
