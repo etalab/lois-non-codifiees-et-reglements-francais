@@ -10,4 +10,4 @@ A cette fin, elles peuvent notamment :
 
 3° Participer à la mise en valeur des terres incultes récupérables, prévue notamment aux articles 41 et 42 du code rural.
 
-Les sociétés d'aménagement foncier et d'établissement rural ne peuvent, pour l'application de l'article 15 de la loi du 5 août 1960 d'orientation agricole, garder des immeubles plus de cinq ans, sous réserve des dispositions de l'article 17 de cette loi.
+Les sociétés d'aménagement foncier et d'établissement rural peuvent, d'autre part, faciliter l'aménagement rural et la constitution de réserves foncières en application du deuxième alinéa de l'article 15 de la loi n° 60-808 du 5 août 1960, modifiée par l'article 66 de la loi n° 80-502 du 4 juillet 1980. Ne peuvent être rétrocédés aux organismes énumérés audit article et dans la limite de 5 p. 100 des superficies acquises dans l'année que des biens fonciers acquis à l'amiable.
