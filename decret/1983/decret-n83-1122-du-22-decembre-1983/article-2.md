@@ -10,4 +10,4 @@ Les crédits du concours particulier [*montant*], mentionné à l'article 1er ci
 
 20 p. 100 en fonction du nombre de communes de chaque région soumises à des prescriptions nationales ou particulières en application de lois d'aménagement et d'urbanisme, dans les conditions prévues à l'article L. 111-1-1 du code de l'urbanisme ;
 
-Les 10 p. 100 [*taux, pourcentage*] restants sont répartis entre les régions, en cours d'année, pour tenir compte notamment des besoins nouveaux liés à l'évolution de la réglementation ou à la réalisation d'équipements dont l'importance rend urgente l'élaboration, la modification ou la révision d'un document d'urbanisme.
+Sur les 10 p. 100 [*taux, pourcentage*] restants sont prélevés les crédits attribués dans les départements d'outre-mer au titre de ce concours particulier ; le solde est réparti entre les régions, en cours d'année, pour tenir compte, notamment des besoins nouveaux liés à l'évolution de la réglementation ou à la réalisation d'équipements dont l'importance rend urgente l'élaboration, la modification ou la révision d'un document d'urbanisme.

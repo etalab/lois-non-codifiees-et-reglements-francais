@@ -1,0 +1,3 @@
+# Article 2
+
+Chaque établissement public national et société nationale mentionné (e) au titre III (art. 32 à 76 de la loi du 29 juillet 1982 susvisée)arrête son projet de budget dans le cadre fixé par les ministres chargés de la tutelle et le ministre chargé du budget. Ce projet fait apparaître les conditions de financement des différentes fonctions assurées par les organismes et les objectifs que ceux-ci s'assignent ou qui leur sont fixés par leurs cahiers des charges. Il précise l'état de leurs effectifs permanents, la masse salariale globale, l'évolution prévue des coûts de revient. Il contient des indications relatives à la situation financière et aux résultats de la gestion des organismes.

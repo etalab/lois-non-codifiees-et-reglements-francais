@@ -1,0 +1,3 @@
+# Article 9
+
+Les sociétés régionales et territoriales prévues aux articles 50, 51 et 52 de la loi du 29 juillet 1982 susvisée présentent chaque année leur projet de budget et leurs objectifs de communication régionale pour l'année suivante, ainsi que l'état de leurs effectifs, respectivement aux présidents des sociétés prévues aux articles 37, 40 et 42 de la même loi, dans des conditions fixées par ceux-ci. Les états prévisionnels de recettes et de dépenses d'exploitation et d'investissement de ces dernières sociétés, ainsi que l'état de leurs effectifs tels que prévus aux articles 4 et 5 ci-dessus, tiennent compte de ces propositions et de ces objectifs.

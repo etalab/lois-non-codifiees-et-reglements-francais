@@ -1,0 +1,3 @@
+# Article 4-1
+
+Lorsqu'un vendeur offre à la clientèle de prendre à sa charge tout ou partie des frais du crédit visé à l'article 2, il ne peut demander à l'acheteur à crédit une somme d'argent supérieure au prix le plus bas effectivement pratiqué pour l'achat au comptant d'un article ou d'une prestation similaire, dans le même établissement de vente au détail, au cours des trente derniers jours précédant le début de la publicité ou l'offre. Il doit, en outre, proposer un prix pour paiement comptant, inférieur à la somme proposée pour l'achat à crédit et calculé selon les modalités fixées par décret.
