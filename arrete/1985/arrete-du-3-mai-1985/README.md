@@ -1,4 +1,4 @@
-# Arrêté du 3 mai 1985 autorisant la société nationale France Régions 3 à prendre une participation dans le capital d'une société
+# Arrêté du 3 mai 1985 portant modification des seuils d'examen des marchés par la commission spécialisée des marchés de matériels mécaniques, électriques et d'armement
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
