@@ -22,3 +22,4 @@
 - [Décret n°70-79 du 27 janvier 1970](decret-n70-79-du-27-janvier-1970)
 - [Décret n°71-342 du 29 avril 1971](decret-n71-342-du-29-avril-1971)
 - [Décret n°71-234 du 30 mars 1971](decret-n71-234-du-30-mars-1971)
+- [Décret n°69-1274 du 31 décembre 1969](decret-n69-1274-du-31-decembre-1969)
