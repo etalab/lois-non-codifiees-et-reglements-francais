@@ -1,5 +1,5 @@
 # Article 13
 
-Les dépenses de fonctionnement du centre d'aide par le travail proprement dit donnent lieu à l'établissement d'un prix de journée ci-après dénommé [*définition*] : prix de journée "centre d'aide par le travail" et pris en charge au titre de l'aide sociale.
+La dotation au sein du budget annexe de production et de commercialisation d'un compte de provision pour rémunération des personnes handicapées destiné à assurer la continuité des rémunérations en cas d'aléas de production peut être prévue. Le montant maximum de cette provision est fixé dans la convention selon un pourcentage des rémunérations versées aux personnes handicapées qu'elle spécifie.
 
-Le prix de journée "centre d'aide par le travail" est distinct du prix de journée ou de toute autre formule concernant le cas échéant les structures d'hébergement annexées au centre d'aide par le travail.
+Cette provision ne peut être utilisée pour couvrir d'autres charges. La dotation annuelle ne peut entrer en compte dans le calcul de la subvention de fonctionnement prévue à l'article 12.
