@@ -1,0 +1,13 @@
+# Article 8-8
+
+L'échelle de rémunération des professeurs d'enseignement général de collège peut être attribuée aux maîtres contractuels ou agréés bénéficiant de l'échelle de rémunération des instituteurs titulaires choisis sur une liste d'aptitude arrêtée chaque année par le recteur après avis de la commission consultative mixte académique.
+
+Peuvent être inscrits sur la liste d'aptitude établie pour leur académie les maîtres contractuels ou agréés assimilés pour leur rémunération aux instituteurs titulaires de l'enseignement public qui ont accompli en cette qualité cinq années de services effectifs d'enseignement dans des classes sous contrat de cours complémentaires, d'établissements secondaires ou de collèges privés et qui ont subi avec succès les épreuves sanctionnant la première année d'études dans l'enseignement supérieur.
+
+Les conditions de service requises s'apprécient au 1er octobre de l'année scolaire au titre de laquelle est établie la liste d'aptitude.
+
+Les maîtres admis au bénéfice de l'échelle de rémunération des professeurs d'enseignement général de collège au titre du présent article sont reclassés dans cette échelle de rémunération selon les dispositions mentionnées au deuxième alinéa de l'article 10 ci-après. Ceux d'entre eux qui sont reclassés à un échelon ne comportant pas un traitement égal ou supérieur à celui dont ils bénéficiaient dans l'échelle de rémunération des instituteurs perçoivent l'indemnité prévue à l'article 13, alinéas 4 et 5, du décret susvisé du 30 mai 1969.
+
+Le nombre des maîtres susceptibles d'accéder à l'échelle de rémunération des professeurs d'enseignement général de collège au titre du présent article est fixé, chaque année et dans chaque académie, à un neuvième de celui des maîtres qui ont été admis durant l'année considérée aux épreuves du certificat d'aptitude au professorat d'enseignement général de collège qui leur est ouvert en application de l'article 5-1 ci-dessus. Lorsque ce nombre n'est pas un multiple de neuf le reste est ajouté à celui des admis l'année suivante pour déterminer le nombre de maîtres susceptibles de bénéficier des dispositions du présent article.
+
+Pendant une période de cinq ans à compter de la rentrée scolaire de 1980, le nombre de maîtres susceptibles d'accéder à l'échelle de rémunération des professeurs d'enseignement général de collège au titre du présent article peut atteindre le tiers de celui des maîtres contractuels ou agréés qui ont été admis durant l'année considérée au certificat d'aptitude au professorat d'enseignement général des collèges qui leur est ouvert en application de l'article 5-1 ci dessus.
