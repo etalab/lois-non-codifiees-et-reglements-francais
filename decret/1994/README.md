@@ -150,7 +150,6 @@
 - [Décret n°94-364 du 10 mai 1994 (MAEJ9430026D)](decret-n94-364-du-10-mai-1994-maej9430026d)
 - [Décret n°94-365 du 10 mai 1994 (SPSP9400807D)](decret-n94-365-du-10-mai-1994-spsp9400807d)
 - [Décret n°94-366 du 10 mai 1994 (INTB9400125D)](decret-n94-366-du-10-mai-1994-intb9400125d)
-- [Décret n°94-367 du 10 mai 1994 (INTA9400135D)](decret-n94-367-du-10-mai-1994-inta9400135d)
 - [Décret n°94-369 du 10 mai 1994 (DOMP9400012D)](decret-n94-369-du-10-mai-1994-domp9400012d)
 - [Décret n°94-377 du 10 mai 1994 (SPSH9400568D)](decret-n94-377-du-10-mai-1994-spsh9400568d)
 - [Décret n°94-380 du 10 mai 1994 (MAEJ9430012D)](decret-n94-380-du-10-mai-1994-maej9430012d)
