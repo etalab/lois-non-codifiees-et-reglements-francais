@@ -2,4 +2,4 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : De la durée du contrat de location.](chapitre-ii)
-- [Chapitre III : Du loyer et des charges.](chapitre-iii)
+- [Chapitre III : Du loyer, des charges et du règlement des litiges.](chapitre-iii)

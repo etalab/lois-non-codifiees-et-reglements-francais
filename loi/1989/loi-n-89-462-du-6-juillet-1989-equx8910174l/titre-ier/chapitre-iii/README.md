@@ -1,4 +1,4 @@
-# Chapitre III : Du loyer et des charges.
+# Chapitre III : Du loyer, des charges et du règlement des litiges.
 
 - [Article 16](article-16.md)
 - [Article 17](article-17.md)
