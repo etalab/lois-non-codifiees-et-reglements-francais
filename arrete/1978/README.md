@@ -74,7 +74,6 @@
 - [Arrêté du 27 janvier 1978](arrete-du-27-janvier-1978)
 - [Arrêté du 28 décembre 1977](arrete-du-28-decembre-1977)
 - [Arrêté du 29 juillet 1982](arrete-du-29-juillet-1982)
-- [Arrêté du 29 juin 1978](arrete-du-29-juin-1978)
 - [Arrêté du 30 janvier 1978](arrete-du-30-janvier-1978)
 - [Arrêté du 30 mars 1978](arrete-du-30-mars-1978)
 - [Arrêté du 31 décembre 1977](arrete-du-31-decembre-1977)
