@@ -1,3 +1,3 @@
 # Article 6
 
-Le directeur des lycées et collèges est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Une carte de donneur établie selon les indications du ministre chargé de la santé est délivrée à toute personne qui a consenti un don de sang dans un établissement de transfusion sanguine agréé. Cette carte est validée lors d'un deuxième don.

@@ -2,24 +2,20 @@
 
 Une indemnité de charges administratives non soumise à retenue pour pensions civiles de retraite et sécurité sociale est allouée aux personnels d'inspection énumérés ci-après :
 
-- inspecteurs d'académie, directeurs des services départementaux de l'éducation ;
+Inspecteurs d'académie, directeurs des services départementaux de l'éducation nationale ;
 
-- inspecteurs d'académie, adjoints aux inspecteurs d'académie, directeurs des services départementaux de l'éducation ;
+Inspecteurs d'académie adjoints ;
 
-- inspecteurs d'académie, chargés d'un secteur territorial à Paris ;
+Inspecteurs de l'académie de Paris ;
 
-- inspecteurs de l'académie de Paris ;
+Inspecteurs pédagogiques régionaux-inspecteurs d'académie chargés des fonctions de conseiller technique auprès des recteurs d'académie dans les domaines des enseignements techniques, professionnels et de l'apprentissage ;
 
-- inspecteurs principaux de l'enseignement technique, conseillers auprès des recteurs pour l'enseignement technique ;
+Inspecteurs pédagogiques régionaux-inspecteurs d'académie chargés des fonctions de délégué académique à la formation continue ;
 
-- inspecteurs d'académie et inspecteurs principaux de l'enseignement technique, chargés des fonctions de délégué académique à la formation continue ;
+Inspecteurs pédagogiques régionaux-inspecteurs d'académie chargés des fonctions de chef des services académiques d'information et d'orientation ;
 
-- inspecteurs d'académie et inspecteurs principaux de l'enseignement technique, chargés des fonctions de chef des services académiques d'information et d'orientation ;
+Inspecteurs pédagogiques régionaux-inspecteurs d'académie ;
 
-- inspecteurs d'académie et inspecteurs principaux de l'enseignement technique, chargés des fonctions d'inspection pédagogique régionale ;
+Inspecteurs de l'éducation nationale (ex-inspecteurs de l'enseignement technique et inspecteurs de l'information et de l'orientation) ;
 
-- inspecteurs de l'enseignement technique ;
-
-- inspecteurs de l'information et de l'orientation ;
-
-- inspecteurs départementaux de l'éducation nationale.
+Inspecteurs de l'éducation nationale (ex-inspecteurs départementaux de l'éducation nationale).
