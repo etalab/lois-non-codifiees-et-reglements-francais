@@ -1,0 +1,3 @@
+# Article 10
+
+Dans les départements ou les communes dont la liste sera fixée par arrêté du ministre chargé du tourisme, après avis du préfet du département intéressé, les agences de voyages ne peuvent utiliser pour guider les touristes et effectuer des visites commentées sur la voie publique, dans les musées ou monuments historiques ou dans les voitures de transport en commun, que les services de guides interprètes ou de personnes qualifiées en raison de leur compétence. Le décret en Conseil d'Etat prévu à l'article 14 ci-après déterminera les conditions d'exercice de la profession de guide interprète, notamment en ce qui concerne les conditions de moralité et de compétence.
