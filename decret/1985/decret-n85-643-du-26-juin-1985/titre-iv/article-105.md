@@ -1,3 +1,3 @@
 # Article 105
 
-Les dispositions des articles 39 à 48 [*exercice des compétences prévues par la loi du 26 janvier 1984*] sont applicables au centre national de gestion. Les autres centres de gestion chargés de la gestion de fonctionnaires de catégorie A lui communiquent immédiatement les vacances et créations d'emplois portées à leur connaissance par les collectivités et établissements publics administratifs ainsi que les décisions de recrutement concernant ces fonctionnaires.
+Les dispositions des articles 39 à 48 sont applicables au centre national de gestion. Le centre unique de gestion du département et de la ville de Paris lui communique immédiatement les vacances, créations d'emplois ainsi que les décisions de recrutement concernant les fonctionnaires qu'il gère en vertu de leurs statuts particuliers.
