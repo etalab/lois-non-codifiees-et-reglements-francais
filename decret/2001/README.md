@@ -154,6 +154,7 @@
 - [Décret n°2001-331 du 10 avril 2001 (ECOI0100030D)](decret-n2001-331-du-10-avril-2001-ecoi0100030d)
 - [Décret n°2001-34 du 10 janvier 2001 (ATEE0080063D)](decret-n2001-34-du-10-janvier-2001-atee0080063d)
 - [Décret n°92-1280 du 10 décembre 1992 (ECOC9200128D)](decret-n92-1280-du-10-decembre-1992-ecoc9200128d)
+- [Décret n°96-887 du 10 octobre 1996 (JUSC9620137D)](decret-n96-887-du-10-octobre-1996-jusc9620137d)
 - [Décret n°2001-410 du 10 mai 2001 (ECOI0100190D)](decret-n2001-410-du-10-mai-2001-ecoi0100190d)
 - [Décret n°2001-411 du 10 mai 2001 (JUSD0130031D)](decret-n2001-411-du-10-mai-2001-jusd0130031d)
 - [Décret n°2001-412 du 10 mai 2001 (JUSB0110059D)](decret-n2001-412-du-10-mai-2001-jusb0110059d)
