@@ -5,6 +5,7 @@
 - [Décret n°86-27 du 3 janvier 1986](decret-n86-27-du-3-janvier-1986)
 - [Décret n°86-28 du 3 janvier 1986](decret-n86-28-du-3-janvier-1986)
 - [Décret n°86-3 du 3 janvier 1986](decret-n86-3-du-3-janvier-1986)
+- [Décret n°86-313 du 3 mars 1986](decret-n86-313-du-3-mars-1986)
 - [Décret n°86-4 du 3 janvier 1986](decret-n86-4-du-3-janvier-1986)
 - [Décret n°86-5 du 3 janvier 1986](decret-n86-5-du-3-janvier-1986)
 - [Décret n°86-6 du 3 janvier 1986](decret-n86-6-du-3-janvier-1986)

@@ -1,8 +1,7 @@
-# Arrêté du 14 février 1986 autorisant l'émission d'un emprunt par le Crédit national
+# Arrêté du 14 février 1986 fixant les normes et la procédure de classement des hôtels et des résidences de tourisme.
 
-- [Article 1](article-1.md)
-- [Article unique](article-unique.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
+- [I. - Définitions et normes de classement.](i)
+- [II. - Procédure de classement.](ii)
+- [III. - Reclassement. - Déclassement. - Radiation. - Sanctions.](iii)
+- [IV. - Mesures transitoires.](iv)
+- [Annexes](annexes)

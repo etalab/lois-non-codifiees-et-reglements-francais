@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de la protection de la nature et les commissaires de la République sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 25 février 1963 modifié fixant les plans d'eau, cours d'eau ou parties de cours d'eau dans lesquels les truites et les saumons de fontaine peuvent être pêchés pour la consommation familiale est abrogé.

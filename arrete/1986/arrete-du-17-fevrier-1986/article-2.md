@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur général des impôts et le directeur du service de la législation fiscale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Est affectée au fonds spécial d'action sociale institué en application de l'article 1106-4 du code rural une fraction de 1% des cotisations complémentaires enregistrées aux comptes de résultat des caisses de mutualité sociale agricole et des organismes d'assurances habilités en application de l'article 1106-9 du code rural.
