@@ -517,7 +517,6 @@
 - [Décret n°94-904 du 18 octobre 1994 (SPSH9402161D)](decret-n94-904-du-18-octobre-1994-spsh9402161d)
 - [Décret n°94-913 du 18 octobre 1994 (MAEJ9430061D)](decret-n94-913-du-18-octobre-1994-maej9430061d)
 - [Décret n°94-914 du 18 octobre 1994 (MAEJ9430062D)](decret-n94-914-du-18-octobre-1994-maej9430062d)
-- [Décret n°94-999 du 18 novembre 1994 (JUSC9420947D)](decret-n94-999-du-18-novembre-1994-jusc9420947d)
 - [Décret n°94-391 du 18 mai 1994 (SPSS9401195D)](decret-n94-391-du-18-mai-1994-spss9401195d)
 - [Décret n°94-392 du 18 mai 1994 (SPSH9400717D)](decret-n94-392-du-18-mai-1994-spsh9400717d)
 - [Décret n°94-393 du 18 mai 1994 (SPSS9401189D)](decret-n94-393-du-18-mai-1994-spss9401189d)

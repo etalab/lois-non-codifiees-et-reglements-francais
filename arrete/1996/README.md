@@ -1177,7 +1177,6 @@
 - [Arrêté du 29 avril 1996 (AGRP9600501A)](arrete-du-29-avril-1996-agrp9600501a)
 - [Arrêté du 29 avril 1996 (TASG9621199A)](arrete-du-29-avril-1996-tasg9621199a)
 - [Arrêté du 29 avril 1996 (TASG9621201A)](arrete-du-29-avril-1996-tasg9621201a)
-- [Arrêté du 29 avril 1996 (TASH9621380A)](arrete-du-29-avril-1996-tash9621380a)
 - [Arrêté du 29 avril 1996 (TASS9621376A)](arrete-du-29-avril-1996-tass9621376a)
 - [Arrêté du 29 décembre 1995 (BUDD9570016A)](arrete-du-29-decembre-1995-budd9570016a)
 - [Arrêté du 29 décembre 1995 (ECOB9510131A)](arrete-du-29-decembre-1995-ecob9510131a)
