@@ -1,0 +1,7 @@
+# Article 14
+
+S'il s'agit des travaux spécifiés aux n°s 3 et suivants de l'article 1er, les propriétaires qui n'auront pas adhéré au projet d'association pourront, dans le délai d'un mois ci-dessus déterminé, déclarer à la préfecture qu'ils entendent délaisser, moyennant indemnité, les terrains leur appartenant et compris dans le périmètre. Il leur sera donné récépissé de la déclaration. L'indemnité à la charge de l'association sera fixée conformément à la loi du 3 mai 1841 pour les travaux spécifiés aux n°s 6 et 7 de l'article 1er et conformément à l'article 16 de la loi du 21 mai 1836 pour les travaux énumérés aux n°s 4, 5, 8 et suivants.
+
+Si les biens de mineurs, d'interdits, d'absents ou autres incapables sont compris dans le périmètre, les tuteurs, ceux qui ont été envoyés en possession et tous représentants des incapables peuvent, après autorisation du tribunal donnée sur requête en chambre du conseil, le ministère public entendu, déclarer qu'ils entendent délaisser lesdits biens.
+
+Le tribunal ordonne les mesures de conservation. Ces dispositions sont applicables aux immeubles dotaux. Les préfets pourront, dans le même cas, délaisser les biens des départements, s'ils y sont autorisés par délibération du conseil général ; les maires ou administrateurs pourront délaisser les biens des communes et des établissements publics, s'ils y sont autorisés par délibération du conseil municipal ou du conseil d'administration ; le ministre des finances peut délaisser les biens de l'Etat.
