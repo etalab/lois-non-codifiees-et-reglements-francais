@@ -1,11 +1,7 @@
 # Article 18-1
 
-Pour pouvoir être classés, les candidats qui se sont présentés aux concours doivent :
+A titre transitoire et dérogatoire aux conditions prévues à l'article 18 (2°, b) :
 
-a) Lorsqu'ils sont en dernière année de deuxième cycle, avoir effectué au moins sept mois de stages hospitaliers, à savoir du mois d'octobre de l'année qui précède celle du concours au mois d'avril de l'année du concours ;
+- les résidents ayant accédé au troisième cycle de médecine générale lors de l'année universitaire 1996-1997 peuvent se présenter aux concours de l'internat ouverts au titre de l'année universitaire 1998-1999 à la condition qu'aient été validés, à la date des concours, leurs trois premiers semestres de résidanat de façon consécutive ;
 
-b) Lorsqu'ils sont internes ou résidents, avoir assuré leurs fonctions hospitalières depuis le 1er novembre de l'année qui précède celle du concours.
-
-Les dispositions du b ci-dessus ne sont pas applicables aux internes ou résidents qui sont mis en disponibilité par application des b et c de l'article 22 du décret du 2 septembre 1983 susvisé.
-
-Les dispositions du a ci-dessus ne sont pas applicables aux candidats des concours des années 1995 et 1996.
+- les résidents ayant accédé au troisième cycle de médecine générale lors des années antérieures à l'année universitaire 1996-1997, sous le régime en vigueur avant le décret n° 97-494 du 16 mai 1997 susvisé, peuvent se présenter aux concours lors de la session organisée au cours de l'année où ils effectuent leur dernier semestre de résidanat, à condition qu'aient été validés les trois premiers semestres de façon consécutive.
