@@ -2,4 +2,3 @@
 
 - [Titre Ier : Assurance maladie et maternité.](titre-ier)
 - [Titre II : Assurance vieillesse.](titre-ii)
-- [ASSURANCE MALADIE ET MATERNITE Titre Ier : Assurance maladie et maternité.](assurance-maladie-et)

@@ -1,3 +1,0 @@
-# Article 2
-
-Des arrêtés du ministre chargé de la sécurité sociale et du ministre de l'économie et des finances étendront, sur proposition ou après avis de la commission mentionnée à l'alinéa 3 de l'article 1er de l'ordonnance n° 59-238 du 4 février 1959 relative aux régimes complémentaires de retraite, à la condition qu'aucune opposition n'ait été formulée au sein de cette commission, tout ou partie des dispositions d'accords agréés conformément à l'article 1er de ladite ordonnance, à des employeurs, à des salariés et anciens salariés non compris dans le champ d'application de ces accords [*extension - procédure*].

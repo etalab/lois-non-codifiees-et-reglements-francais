@@ -1,4 +1,3 @@
 # Loi n° 70-1325 du 31 décembre 1970 RELATIVE AUX AVANTAGES SOCIAUX DES PRATICIENS ET AUXILIAIRES MEDICAUX CONVENTIONNES.
 
-- [Article 2](article-2.md)
 - [Article 4](article-4.md)

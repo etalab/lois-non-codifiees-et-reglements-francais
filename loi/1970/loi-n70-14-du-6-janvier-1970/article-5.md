@@ -1,3 +1,0 @@
-# Article 5
-
-Par dérogation aux dispositions de l'article 5, alinéa 2, de la loi précitée n° 66-509 du 12 juillet 1966 modifiée, les assurés n'ayant pas réglé le montant des cotisations échues à la date de promulgation de la présente loi seront rétablis dans leurs droits aux prestations pour la période antérieure au 1er mars 1970, s'ils acquittent avant cette date, dans les conditions fixées par la caisse nationale d'assurance maladie et maternité des travailleurs non-salariés, une fraction de leurs cotisations arriérées correspondant au moins à un trimestre et prennent l'engagement de verser le reliquat suivant un plan de paiement échelonné [*défaut de paiement - régularisation*]. Les majorations de retard afférentes à ces cotisations arriérées sont supprimées.

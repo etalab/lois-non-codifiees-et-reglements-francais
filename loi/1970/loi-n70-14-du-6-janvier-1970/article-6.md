@@ -1,3 +1,0 @@
-# Article 6
-
-Lorsque des caisses mutuelles régionales créées en application de la loi précitée n° 66-509 du 12 juillet 1966 modifiée seront appelées à fusionner, partiellement ou totalement, par le fait d'un regroupement de leurs circonscriptions, un décret fixera les modalités selon lesquelles seront attribués les biens, droits et obligations des caisses intéressées par cette fusion [*organisation administrative*]. Les opérations entraînées par ce transfert bénéficieront de l'exonération prévue par l'article 30, alinéa 2, de la loi précitée du 12 juillet 1966 [*droit de timbre et d'enregistrement - taxe spéciale sur les conventions d'assurance*].

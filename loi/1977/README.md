@@ -40,7 +40,6 @@
 - [Loi n°76-660 du 19 juillet 1976](loi-n76-660-du-19-juillet-1976)
 - [Loi n°76-663 du 19 juillet 1976](loi-n76-663-du-19-juillet-1976)
 - [Loi n°77-1408 du 23 décembre 1977](loi-n77-1408-du-23-decembre-1977)
-- [Loi n°77-1454 du 29 décembre 1977](loi-n77-1454-du-29-decembre-1977)
 - [Loi n°77-530 du 26 mai 1977](loi-n77-530-du-26-mai-1977)
 - [Loi n°77-646 du 24 juin 1977](loi-n77-646-du-24-juin-1977)
 - [Loi n°77-680 du 30 juin 1977](loi-n77-680-du-30-juin-1977)

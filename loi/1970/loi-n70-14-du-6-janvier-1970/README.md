@@ -1,6 +1,0 @@
-# Loi n°70-14 du 6 janvier 1970 PORTANT MODIFICATION DE LA N° 66-509 DU 12 JUILLET 1966 MODIFIEE RELATIVE A L'ASSURANCE MALADIE ET MATERNITE DES TRAVAILLEURS NON-SALARIES DES PROFESSIONS NON-AGRICOLES
-
-- [Article 1](article-1.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)

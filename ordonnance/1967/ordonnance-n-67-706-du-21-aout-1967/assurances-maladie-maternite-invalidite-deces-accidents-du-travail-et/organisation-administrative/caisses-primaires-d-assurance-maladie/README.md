@@ -1,3 +1,0 @@
-# CAISSES PRIMAIRES D'ASSURANCE MALADIE.
-
-- [Article 7](article-7.md)

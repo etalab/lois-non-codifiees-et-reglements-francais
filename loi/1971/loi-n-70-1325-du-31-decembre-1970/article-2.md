@@ -1,3 +1,0 @@
-# Article 2
-
-Il est institué au profit du régime d'assurance maladie-maternité [*des travailleurs non-salariés des professions non-agricoles*] institué par la loi n° 66-509 du 12 juillet 1966 une cotisation sociale de solidarité à la charge des médecins, chirurgiens-dentistes, sages-femmes et auxiliaires médicaux conventionnés visés à l'article L. 613-6 du Code de la sécurité sociale. Le taux de cette cotisation additionnelle à la cotisation dont sont redevables personnellement les personnes assujetties en application des dispositions de l'article L. 613-10 du Code de la sécurité sociale, ainsi que les modalités de son versement, sont fixés par arrêté interministériel [*financement*].

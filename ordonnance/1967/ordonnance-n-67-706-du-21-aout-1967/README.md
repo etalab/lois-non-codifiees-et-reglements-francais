@@ -1,14 +1,7 @@
 # Ordonnance n° 67-706 du 21 août 1967 RELATIVE A L'ORGANISATION ADMINISTRATIVE ET FINANCIERE DE LA SECURITE SOCIALE.
 
-- [Article 1](article-1.md)
-- [TITRE 3 : ASSURANCE VIEILLESSE](titre-3)
-- [DISPOSITIONS RELATIVES A L'ORGANISATION DES ASSURANCES SOCIALES ET DES PRESTATIONS FAMILIALES DANS LES DEPARTEMENTS D'OUTRE-MER.](dispositions-relatives-a)
-- [AGENCE CENTRALE DES ORGANISMES DE SECURITE SOCIALE.](agence-centrale-des-organismes-de-securite-sociale)
-- [AGENCE CENTRALE DES ORGANISMES DE SECURITE SOCIALE *ACOSS*.](agence-centrale-des-organismes-de-securite-sociale-acoss)
 - [ALLOCATIONS FAMILIALES](allocations-familiales)
-- [ASSURANCE VEUVAGE](assurance-veuvage)
 - [ASSURANCE VIEILLESSE](assurance-vieillesse)
 - [DISPOSITIONS RELATIVES AU PERSONNEL DES ORGANISMES DE SECURITE SOCIALE.](dispositions-relatives-au)
 - [DISPOSITIONS COMMUNES](dispositions-communes)
-- [ASSURANCES MALADIE, MATERNITE, INVALIDITE, DECES, ACCIDENTS DU TRAVAIL ET MALADIES PROFESSIONNELLES](assurances-maladie-maternite-invalidite-deces-accidents-du-travail-et)
 - [DISPOSITIONS TRANSITOIRES ET FINALES.](dispositions-transitoires-et)
