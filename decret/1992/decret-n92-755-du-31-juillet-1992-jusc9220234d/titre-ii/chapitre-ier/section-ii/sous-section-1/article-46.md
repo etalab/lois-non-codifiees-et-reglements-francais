@@ -1,6 +1,6 @@
 # Article 46
 
-Lorsqu'un compte a fait l'objet d'une saisie, son titulaire peut demander au tiers saisi la mise à disposition immédiate, dans la limite du solde créditeur du compte au jour de réception de la demande, d'une somme à caractère alimentaire d'un montant au plus égal à celui du revenu mensuel minimum d'insertion pour un allocataire.
+Lorsqu'un compte a fait l'objet d'une saisie, son titulaire peut demander au tiers saisi la mise à disposition immédiate, dans la limite du solde créditeur du compte au jour de réception de la demande, d'une somme à caractère alimentaire d'un montant au plus égal à celui du revenu mensuel minimum d'insertion pour un allocataire seul.
 
 La demande doit être présentée dans les quinze jours suivant la saisie.
 

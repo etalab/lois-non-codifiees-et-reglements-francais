@@ -10,7 +10,7 @@ Si le tiers déclare détenir des biens pour le compte du débiteur, il est dres
 
 4° La désignation détaillée des biens saisis ;
 
-5° La mention, en caractères très apparents, que les objets saisis sont indisponibles, qu'ils sont placés sous la garde du tiers, qu'ils ne peuvent être ni aliénés ni déplacés, si ce n'est dans le cas prévu au deuxième alinéa de l'article 91, sous peine des sanctions prévues à l'article 406 du code pénal [* article(s) abrogé(s), cf. article(s) 313-4 du nouveau code pénal *] et que le tiers est tenu de faire connaître la présente saisie à tout créancier qui procéderait à une saisie sur les mêmes biens ;
+5° La mention, en caractères très apparents, que les objets saisis sont indisponibles, qu'ils sont placés sous la garde du tiers, qu'ils ne peuvent être ni aliénés ni déplacés, si ce n'est dans le cas prévu au deuxième alinéa de l'article 91, sous peine des sanctions prévues à l'article 314-6 du code pénal et que le tiers est tenu de faire connaître la présente saisie à tout créancier qui procéderait à une saisie sur les mêmes biens ;
 
 6° La mention que le tiers peut se prévaloir des dispositions de l'article 104 qui est reproduit dans l'acte ;
 
@@ -20,4 +20,4 @@ Si le tiers déclare détenir des biens pour le compte du débiteur, il est dres
 
 9° L'indication, le cas échéant, des nom, prénom et qualité des personnes qui ont assisté aux opérations de saisie, lesquelles doivent apposer leur signature sur l'original et sur les copies ; en cas de refus, il en est fait mention dans l'acte ;
 
-10° La reproduction des dispositions du troisième alinéa de l'article 400 du code pénal [* article(s) abrogé(s), cf. article(s) 312-1 à 312-9 du nouveau code pénal *] avec l'indication des sanctions prescrites par l'article 406 de ce même code.
+10° La reproduction des dispositions de l'article 314-6 du code pénal.
