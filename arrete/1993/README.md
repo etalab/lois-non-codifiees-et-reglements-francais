@@ -163,7 +163,6 @@
 - [Arrêté du 5 mars 1993 (TEFT9300285A)](arrete-du-5-mars-1993-teft9300285a)
 - [Arrêté du 5 mars 1993 (TEFT9300286A)](arrete-du-5-mars-1993-teft9300286a)
 - [Arrêté du 5 novembre 1992 (EQUS9201450A)](arrete-du-5-novembre-1992-equs9201450a)
-- [Arrêté du 5 novembre 1993 (BUDD9370024A)](arrete-du-5-novembre-1993-budd9370024a)
 - [Arrêté du 5 novembre 1993 (BUDD9370027A)](arrete-du-5-novembre-1993-budd9370027a)
 - [Arrêté du 5 novembre 1993 (LOGC9300081A)](arrete-du-5-novembre-1993-logc9300081a)
 - [Arrêté du 5 mai 1993 (BUDD9370008A)](arrete-du-5-mai-1993-budd9370008a)

@@ -1021,7 +1021,6 @@
 - [Arrêté du 27 décembre 1996 (TASS9611845A)](arrete-du-27-decembre-1996-tass9611845a)
 - [Arrêté du 27 février 1997 (AGRA9700214A)](arrete-du-27-fevrier-1997-agra9700214a)
 - [Arrêté du 27 février 1997 (DOMP9700016A)](arrete-du-27-fevrier-1997-domp9700016a)
-- [Arrêté du 27 février 1997 (ECOD9770005A)](arrete-du-27-fevrier-1997-ecod9770005a)
 - [Arrêté du 27 février 1997 (ECOT9710297A)](arrete-du-27-fevrier-1997-ecot9710297a)
 - [Arrêté du 27 février 1997 (EQUS9700378A)](arrete-du-27-fevrier-1997-equs9700378a)
 - [Arrêté du 27 février 1997 (EQUS9700379A)](arrete-du-27-fevrier-1997-equs9700379a)
