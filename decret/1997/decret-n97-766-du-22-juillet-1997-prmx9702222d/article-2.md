@@ -10,8 +10,12 @@ Sont en outre membres de droit :
 
 - le directeur de la prévision au ministère de l'économie, des finances et de l'industrie ;
 
-- le directeur de l'animation, de la recherche, des études et des statistiques au ministère de l'emploi et de la solidarité.
+- le directeur de l'animation, de la recherche, des études et des statistiques au ministère de l'emploi et de la solidarité ;
+
+- le directeur de la recherche, des études, de l'évaluation et des statistiques au ministère de l'emploi et de la solidarité.
 
 Les personnalités choisies en raison de leurs compétences sont nommées par arrêté du Premier ministre pour une période de deux ans renouvelable.
 
 Les membres de droit peuvent se faire représenter.
+
+Des experts peuvent être invités à participer aux travaux du Conseil d'analyse économique.
