@@ -340,7 +340,6 @@
 - [Arrêté du 15 mars 1988 (AGRP8800506A)](arrete-du-15-mars-1988-agrp8800506a)
 - [Arrêté du 15 mars 1988 (BUDL8800015A)](arrete-du-15-mars-1988-budl8800015a)
 - [Arrêté du 15 mars 1988 (ECOC8700067A)](arrete-du-15-mars-1988-ecoc8700067a)
-- [Arrêté du 15 mars 1988 (MERR8800047A)](arrete-du-15-mars-1988-merr8800047a)
 - [Arrêté du 15 novembre 1988 (EQUC8800682A)](arrete-du-15-novembre-1988-equc8800682a)
 - [Arrêté du 15 novembre 1988 (TRST8800571A)](arrete-du-15-novembre-1988-trst8800571a)
 - [Arrêté du 15 septembre 1988 (TEFT8803961A)](arrete-du-15-septembre-1988-teft8803961a)
