@@ -29,3 +29,5 @@ Agent assurant les fonctions d'adjoint au chef des ateliers ;
 Agent assurant les fonctions d'adjoint au chef du service général ;
 
 Agent assurant les fonctions d'encadrement de la section des marchés publics.
+
+Agent assurant les fonctions  de responsable en matière d'hygiène et de sécurité du travail.
