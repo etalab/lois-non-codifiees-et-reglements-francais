@@ -28,3 +28,4 @@
 - [Ordonnance n° 45-2454 du 19 octobre 1945](ordonnance-n-45-2454-du-19-octobre-1945)
 - [Ordonnance n° 45-2456 du 19 octobre 1945](ordonnance-n-45-2456-du-19-octobre-1945)
 - [Ordonnance n° 45-2497 du 24 octobre 1945](ordonnance-n-45-2497-du-24-octobre-1945)
+- [Ordonnance n°45-1483 du 30 juin 1945](ordonnance-n45-1483-du-30-juin-1945)
