@@ -1,11 +1,11 @@
 # Article 9
 
-Le nombre de places d'ingénieur élève mises au concours au titre du 3° du premier alinéa de l'article 8 est égal chaque année à 35 p. 100 du nombre de places offertes au titre du 1° et du 2° du même article. Il est éventuellement majoré du nombre de places qui n'auraient pu être attribuées au titre du 2° du premier alinéa de l'article 7.
+Le nombre de places offertes au concours professionnel prévu au 2° de l'article 7 est au plus égal chaque année à 30 % du nombre de places d'ingénieurs-élèves recrutés au titre de l'article 8. Il est éventuellement majoré du nombre de places qui n'auraient pu être attribuées au titre du 3° de l'article 7.
 
-Les places qui n'auraient pu être attribuées au titre du 3° de l'article 8 peuvent être reportées sur le recrutement par voie de l'examen professionnel organisé en application du 2° de l'article 7, sans pouvoir dépasser pour ce mode de recrutement le sixième des emplois à pourvoir.
+Les places qui n'auraient pu être attribuées au titre du 2° de l'article 7 peuvent être reportées sur le recrutement par voie de la liste d'aptitude spéciale prévue au 3° de l'article 7 du présent décret, sans pouvoir dépasser pour ce mode de recrutement le sixième des emplois à pourvoir.
 
-Les modalités du concours et de l'examen professionnel sont fixées par arrêtés conjoints du ministre chargé de la fonction publique et du ministre chargé des postes et télécommunications.
+Les modalités du concours professionnel sont fixées par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé des télécommunications. Le ministre chargé des télécommunications désigne, par arrêté, le président et les membres du jury.
 
-Le ministre des postes et télécommunications arrêté les listes de candidats autorisés à prendre part au concours et à l'examen professionnel et approuve les listes de candidats admis.
+Le ministre chargé des télécommunications arrête la liste des candidats autorisés à prendre part au concours et approuve la liste des candidats admis.
 
 Nul ne peut se présenter plus de trois fois au concours. Toutefois, les candidats qui ont été admis au moins une fois à subir les épreuves orales peuvent faire acte de candidature une quatrième fois.

@@ -4,9 +4,9 @@ Le temps passé dans chacun des échelons des grades du corps des ingénieurs de
 
 GRADE : Ingénieur général, 1er et 2e échelon
 
-DUREE moyenne : 3 ans.
+DUREE moyenne : 2 ans.
 
-DUREE minimum : 2 ans 3 mois.
+DUREE minimum : 1 an 6 mois.
 
 GRADE : Ingénieur en chef : 5e échelon
 
