@@ -24,6 +24,7 @@
 - [Décret n°75-725 du 6 août 1975](decret-n75-725-du-6-aout-1975)
 - [Décret n°75-8 du 6 janvier 1975](decret-n75-8-du-6-janvier-1975)
 - [Décret n°75-84 du 6 février 1975](decret-n75-84-du-6-fevrier-1975)
+- [Décret n°75-911 du 6 octobre 1975](decret-n75-911-du-6-octobre-1975)
 - [Décret n°75-750 du 7 août 1975](decret-n75-750-du-7-aout-1975)
 - [Décret n°75-755 du 7 août 1975](decret-n75-755-du-7-aout-1975)
 - [Décret n°75-763 du 7 août 1975](decret-n75-763-du-7-aout-1975)
