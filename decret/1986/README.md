@@ -45,6 +45,7 @@
 - [Décret n°85-283 du 27 février 1985](decret-n85-283-du-27-fevrier-1985)
 - [Décret n°85-284 du 27 février 1985](decret-n85-284-du-27-fevrier-1985)
 - [Décret n°86-1157 du 27 octobre 1986](decret-n86-1157-du-27-octobre-1986)
+- [Décret n°72-889 du 28 septembre 1972](decret-n72-889-du-28-septembre-1972)
 - [Décret n°85-1284 du 28 décembre 1985](decret-n85-1284-du-28-decembre-1985)
 - [Décret n°85-1446 du 30 décembre 1985](decret-n85-1446-du-30-decembre-1985)
 - [Décret n°85-1447 du 30 décembre 1985](decret-n85-1447-du-30-decembre-1985)
