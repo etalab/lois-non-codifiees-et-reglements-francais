@@ -609,7 +609,6 @@
 - [Arrêté du 20 septembre 1991 (ECOT9120166A)](arrete-du-20-septembre-1991-ecot9120166a)
 - [Arrêté du 20 septembre 1991 (ECOT9120181A)](arrete-du-20-septembre-1991-ecot9120181a)
 - [Arrêté du 20 septembre 1991 (INTD9100435A)](arrete-du-20-septembre-1991-intd9100435a)
-- [Arrêté du 20 septembre 1991 (MJSK9170124A)](arrete-du-20-septembre-1991-mjsk9170124a)
 - [Arrêté du 21 août 1991 (ECOC9100076A)](arrete-du-21-aout-1991-ecoc9100076a)
 - [Arrêté du 21 août 1991 (ECOC9110096A)](arrete-du-21-aout-1991-ecoc9110096a)
 - [Arrêté du 21 août 1991 (INDG9100712A)](arrete-du-21-aout-1991-indg9100712a)
