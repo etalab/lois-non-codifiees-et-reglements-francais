@@ -12,7 +12,7 @@ Brevet de technicien en biologie, diplômes des élèves, brevets des écoles na
 
 Brevet supérieur de préparateur en bactériologie, délivré par le service de santé des armées ;
 
-Brevet de capacité, délivré par l'école de laboratoire de l'assistance publique de Paris ;
+Brevet de capacité, délivré par l'école du laboratoire de l'assistance publique de Paris ;
 
 Certificat d'inscription sur la liste d'aptitude aux fonctions de laborantin ou de laborantine, délivré par l'assistance publique de Marseille ;
 
@@ -42,7 +42,7 @@ Diplôme délivré par le cours de laborantin du C.H.R. de (Seine-Maritime) ;
 
 Diplôme supérieur de chimie, délivré par l'école technique supérieure de chimie de la faculté catholique de l'Ouest, à Angers ;
 
-Diplôme de laborantin, délivré antérieurement au 1er janvier 1956 par l'école des techniciens de Rabat-Casablanca (Maroc) ;
+Diplôme de laborantin, délivré antérieurement au 1er janvier par l'école des techniciens de Rabat-Casablanca (Maroc) ;
 
 Diplôme de laborantin, délivré antérieurement au 1er novembre 1962 par le C.H.R. d'Alger ;
 
@@ -55,3 +55,5 @@ Diplôme d'Etat d'infirmier ;
 Diplôme d'Etat de sage-femme,
 
 peuvent accéder à l'échelon exceptionnel de leur cadre prévu par les arrêtés interministériels des 8 juillet 1963, 17 juillet 1964 et 23 janvier 1965 susvisés.
+
+Attestation d'admissibilité à la suite des épreuves pratiques du brevet de technicien supérieur Analyses biologiques délivré par le ministère de l'éducation nationale.

@@ -25,3 +25,5 @@ Brevet élémentaire ou du premier degré de la spécialité de l'emploi mis au 
 Certificat de formation professionnelle des adultes dans la spécialité de l'emploi mis au concours.
 
 Tous certificats d'aptitude professionnelle de la spécialité de l'emploi mis au concours.
+
+Certificat d'aptitude professionnelle délivré par l'école de formation des candidats aux concours et examens professionnels d'aides techniques de laboratoire du centre hospitalier régional Bretonneau de Tours.
