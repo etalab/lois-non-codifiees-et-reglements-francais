@@ -36,5 +36,6 @@
 - [Décret n°79-153 du 26 février 1979](decret-n79-153-du-26-fevrier-1979)
 - [Décret n°79-1135 du 27 décembre 1979](decret-n79-1135-du-27-decembre-1979)
 - [Décret n°79-156 du 27 février 1979](decret-n79-156-du-27-fevrier-1979)
+- [Décret n°79-185 du 27 février 1979](decret-n79-185-du-27-fevrier-1979)
 - [Décret n°78-1305 du 29 décembre 1978](decret-n78-1305-du-29-decembre-1978)
 - [Décret n°79-108 du 31 janvier 1979](decret-n79-108-du-31-janvier-1979)
