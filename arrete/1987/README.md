@@ -472,7 +472,6 @@
 - [Arrêté du 21 mai 1987 (ECOT8770002A)](arrete-du-21-mai-1987-ecot8770002a)
 - [Arrêté du 22 avril 1987 (AGRA8700875A)](arrete-du-22-avril-1987-agra8700875a)
 - [Arrêté du 22 avril 1987 (BUDF8710036A)](arrete-du-22-avril-1987-budf8710036a)
-- [Arrêté du 22 décembre 1986](arrete-du-22-decembre-1986)
 - [Arrêté du 22 décembre 1987 (ECOZ8700045A)](arrete-du-22-decembre-1987-ecoz8700045a)
 - [Arrêté du 22 janvier 1987](arrete-du-22-janvier-1987)
 - [Arrêté du 22 janvier 1987 (AGRQ8700283A)](arrete-du-22-janvier-1987-agrq8700283a)

@@ -433,7 +433,6 @@
 - [Décret n°87-801 du 29 septembre 1987 (ASES8700964D)](decret-n87-801-du-29-septembre-1987-ases8700964d)
 - [Décret n°87-802 du 29 septembre 1987 (ASES8700964D)](decret-n87-802-du-29-septembre-1987-ases8700964d)
 - [Décret n°87-889 du 29 octobre 1987 (RESP8700744D)](decret-n87-889-du-29-octobre-1987-resp8700744d)
-- [Décret n°87-358 du 29 mai 1987 (AGRP8700919D)](decret-n87-358-du-29-mai-1987-agrp8700919d)
 - [Décret n°87-360 du 29 mai 1987](decret-n87-360-du-29-mai-1987)
 - [Décret n°86-1357 du 30 décembre 1986](decret-n86-1357-du-30-decembre-1986)
 - [Décret n°86-1366 du 30 décembre 1986](decret-n86-1366-du-30-decembre-1986)
