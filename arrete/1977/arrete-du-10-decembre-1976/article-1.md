@@ -1,0 +1,3 @@
+# Article 1
+
+Art. 1er - Sont interdits sur tout le territoire de la France continentale et de la Corse, ainsi que dans les départements de la Guadeloupe, de la Martinique et de la Réunion, la mise en vente, la vente, l'achat sous toutes leurs formes [*commercialisation*], et notamment celles de pâtés et conserves, et le colportage des espèces migratrices de gibier ci-après : les oies, les canards souchet, pilet, chipeau et le siffleur, les sarcelles, les canards plongeurs (milouin, milouinan, morillon, nyroca), les bécassines, les courlis, les râles, les pluviers, les chevaliers, les bécasseaux, les gravelots, le tournepierre, les barges, la tourterelle, le bruant ortolan, la nette rousse, la bécasse.
