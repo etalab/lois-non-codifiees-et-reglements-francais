@@ -1,6 +1,8 @@
 # Annexes
 
 - [Coefficient de localisation i.](coefficient-de-localisation-i)
+- [Article Annexe IX](article-annexe-ix.md)
+- [Charge foncière de référence.](charge-fonciere-de-reference)
 - [Coefficient de difficultés.](coefficient-de-difficultes)
 - [Coefficient de localisation de l'opération.](coefficient-de-localisation-de-l-operation)
 - [Coefficient de surfaces.](coefficient-de-surfaces)

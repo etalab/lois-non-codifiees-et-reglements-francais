@@ -1,21 +1,25 @@
 # Article 5
 
-Pour obtenir le prix de référence, le prix Pv calculé à l'article 3 est affecté des majorations suivantes, fixées à l'article 2 de l'arrêté du 29 juillet 1977 modifié relatif aux prix témoins et aux prix de vente des logements en accession à la propriété financés au moyen des prêts aidés par l'Etat.
+La charge foncière de référence C est fixée [*calcul*] par application de la formule :
 
-Ventes par des organismes d'habitations à loyer modéré, par des sociétés d'économie mixte ou par des sociétés de construction sous leur égide, le prêt étant géré par l'organisme vendeur :
+C = Co (1 + i + j + k)
 
-Prix révisables (p. 100) : 0.
+dans laquelle :
 
-Prix non révisables (p. 100) : 2.
+Co est la charge foncière de référence de base ;
 
-Ventes par des organismes d'habitations à loyer modéré ou par des sociétés de construction sous leur égide sans gestion du prêt :
+i, j et k sont des coefficients de pondération dépendant :
 
-Prix révisables (p. 100) : 4.
+i de la localisation de l'opération ;
 
-Prix non révisables (p. 100) : 6.
+j de la surface totale des logements de l'opération ;
 
-Toutes formes de ventes ou cessions de part par d'autres organismes promoteurs :
+k du coût de l'aménagement paysager du terrain, plantations, mobilier urbain, etc..
 
-Prix révisables (p. 100) : 5.
+5.1. Charge foncière de référence de base.
 
-Prix non révisables (p. 100) : 7.
+La charge foncière de référence de base Co toutes taxes comprises est fixée en annexe IX au présent arrêté.
+
+5.2. Coefficient de pondération de la charge foncière de référence de base.
+
+Le mode de calcul et les valeurs maximales des coefficients i, j et k sont données en annexe I à III au présent arrêté.
