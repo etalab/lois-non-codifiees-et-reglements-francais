@@ -1,0 +1,7 @@
+# Article 2
+
+MEDOC assure :
+
+- l'identification des personnes physiques ou morales, ou de leurs représentants fiscaux si elles sont établies ou domiciliées hors de France, qui sont redevables des taxes sur le chiffre d'affaires (taxe sur la valeur ajoutée et taxes assimilées), de taxes assises sur les salaires, de l'impôt sur le revenu au titre des bénéfices industriels et commerciaux, des bénéfices non commerciaux et des bénéfices agricoles, de l'impôt sur les sociétés et taxes annexes, de la taxe professionnelle, ainsi que le suivi de leurs obligations déclaratives, au travers de la gestion du fichier des redevables professionnels (FRP) et du fichier des assujettis à la taxe sur la valeur ajoutée intracommunautaire ;
+
+- la gestion, pour l'ensemble des redevables et jusqu'à apurement des droits, de certaines informations nécessaires à l'assiette ou au recouvrement des impôts, droits et taxes et produits du domaine d'Etat perçus par les recettes des impôts et les conservations des hypothèques. Les principales recettes ainsi recouvrées sont les suivantes : taxe sur la valeur ajoutée, droits de mutation, retenue à la source et prélèvements sur les revenus de capitaux mobiliers, taxe sur les conventions d'assurance, taxe de publicité foncière et droits d'enregistrements départementaux, taxe différentielle sur les véhicules à moteur, droits de timbre et impôt sur les opérations de bourse, impôt de solidarité sur la fortune.
