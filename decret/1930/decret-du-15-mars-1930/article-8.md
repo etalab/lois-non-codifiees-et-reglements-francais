@@ -1,0 +1,3 @@
+# Article 8
+
+Le ministre du Travail peut, par arrêté pris sur le rapport des Inspecteurs du Travail, après avis des organisations patronales et ouvrières intéressées, et après avis du Comité consultatif des arts et manufactures, accorder à certaines catégories d'établissements ou parties d'établissements, dispense permanente ou temporaire de tout ou partie des prescriptions des art. 2, 4 et 6 du présent décret, dans le cas où il est reconnu que l'application de ces prescriptions est pratiquement impossible et que la sécurité des travailleurs est assurée dans des conditions au moins équivalentes à celles qui sont fixées par le présent décret.
