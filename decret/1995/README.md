@@ -613,6 +613,7 @@
 - [Décret n°95-482 du 24 avril 1995 (RESK9401631D)](decret-n95-482-du-24-avril-1995-resk9401631d)
 - [Décret n°95-77 du 24 janvier 1995 (MICT9500007D)](decret-n95-77-du-24-janvier-1995-mict9500007d)
 - [Décret n°95-81 du 24 janvier 1995 (ECOC9400207D)](decret-n95-81-du-24-janvier-1995-ecoc9400207d)
+- [Décret n°95-853 du 24 juillet 1995 (FPPX9500065D)](decret-n95-853-du-24-juillet-1995-fppx9500065d)
 - [Décret n°95-91 du 24 janvier 1995 (SPSA9403920D)](decret-n95-91-du-24-janvier-1995-spsa9403920d)
 - [Décret n°95-941 du 24 août 1995 (MENF9501355D)](decret-n95-941-du-24-aout-1995-menf9501355d)
 - [Décret n°95-447 du 25 avril 1995 (TEFE9500326D)](decret-n95-447-du-25-avril-1995-tefe9500326d)
