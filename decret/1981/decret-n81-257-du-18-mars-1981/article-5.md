@@ -13,3 +13,5 @@ Le récépissé indique :
 Dès réception des renseignements ou pièces complémentaires demandés en vertu du 3° ci-dessus ou, à défaut de remise de ces compléments par le déclarant, au plus tard à l'expiration du délai prévu au 3° ci-dessus, le centre transmet, en l'état, les déclarations et pièces justificatives aux organismes destinataires et en avise le déclarant par écrit.
 
 A défaut de transmission par le centre dans les trois jours suivant l'expiration des délais prévus au 1°, au 2° ci-dessus ou à l'alinéa précédent, le déclarant peut obtenir la restitution immédiate de son dossier, afin d'en saisir directement les organismes destinataires.
+
+Lorsque les transmissions sont réalisées par voie télématique ou sur support électronique, elles doivent se conformer à des normes de présentation approuvées par arrêté des ministres chargés des affaires sociales, de la justice, de l'économie, de l'industrie, des transports, du commerce et de l'artisanat, du travail, du budget, de l'agriculture, de la fonction publique et de la réforme administrative.
