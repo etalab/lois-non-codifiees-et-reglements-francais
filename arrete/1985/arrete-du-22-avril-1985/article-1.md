@@ -1,41 +1,7 @@
 # Article 1
 
-En application du décret n° 81-131 du 10 février 1981 susvisé, notamment son article 8, avant-dernier alinéa, les dérogations à la limite du niveau sonore des bruits émis par les scies à chaîne à moteur thermique sont accordées dans les conditions suivantes :
+1° Le collège des présidents de caisses de crédit municipal élit ses représentants à l'Union centrale des caisses de crédit municipal au scrutin majoritaire plurinominal à un tour. En cas d'égalité des voix, le candidat le plus âgé l'emporte.
 
-I - A compter du 1er septembre 1985 et jusqu'au 1er mars 1987, le niveau sonore des bruits émis, mesuré au niveau des oreilles de l'opérateur, ne devra pas dépasser les valeurs suivantes :
+2° Les membres du collège sont informés par écrit de la date du vote deux mois avant celle-ci ; ils notifient leur candidature au plus tard un mois avant le jour du vote ; chaque électeur reçoit la liste des candidats et retourne, au plus tard le jour fixé pour le vote, le nom des quatre candidats de son choix, sous double pli cacheté et signé. Les résultats sont publiés dans la quinzaine qui suit le vote.
 
-CYLINDREE DE SCIES A CHAINE
-
-Inférieure ou égale à 50 cm3
-
-NIVEAU SONORE MAXIMAL EN dB (A)
-
-Ralenti : 85
-
-En charge à 8100 tours/minute + 200 - 400 : 100
-
-Au régime maximal à vide : 100.
-
-CYLINDREE DE SCIES A CHAINE
-
-Supérieure à 50 cm3 et inférieure ou égale à 80 cm3.
-
-NIVEAU SONORE MAXIMAL EN dB (A)
-
-Ralenti : 85
-
-En charge à 8100 tours/minute + 200 - 400 : 102
-
-Au régime maximal à vide : 104.
-
-CYLINDREE DE SCIES A CHAINE
-
-Supérieure à 80 cm3 NIVEAU SONORE MAXIMAL EN dB (A)
-
-Ralenti : 85
-
-En charge à 8100 tours/minute + 200 - 400 : 104
-
-Au régime maximal à vide : 104.
-
-II - A compter du 1er mars 1987, le niveau sonore des bruits émis par les scies à chaîne à moteur thermique, mesuré au niveau des oreilles de l'opérateur, ne devra pas dépasser 100 dB (A) en charge à plein temps et au régime maximal à vide.
+3° L'organisation de la première élection incombe à la direction du Trésor ; l'organisation des élections suivantes est de la responsabilité du président de l'Union centrale des caisses de crédit municipal.

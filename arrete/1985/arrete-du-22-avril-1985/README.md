@@ -1,4 +1,4 @@
-# Arrêté du 22 avril 1985 précisant les conditions d'attribution des dérogations prévues par le décret n° 81-131 du 10 février 1981 fixant les conditions d'hygiène et de sécurité auxquelles doivent satisfaire les scies à chaîne à moteur thermique utilisées pour le travail du bois, du liège et des matières de résistance similaire et portant modification de l'arrêté du 13 mars 1981 fixant les modalités de contrôle auxquelles doivent satisfaire ces mêmes matériels.
+# Arrêté du 22 avril 1985 fixant les modalités d'élection du conseil d'administration de l'Union centrale des caisses de crédit municipal
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
