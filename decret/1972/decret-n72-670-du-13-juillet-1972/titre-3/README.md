@@ -1,4 +1,4 @@
-# Titre 3 : Discipline
+# Titre 3 : Discipline.bligations des conseils juridiques
 
 - [Chapitre 1 : Contrôle exercé par le procureur de la République.](chapitre-1)
 - [Chapitre 2 : Procédure devant le tribunal de grande instance statuant disciplinairement.](chapitre-2)

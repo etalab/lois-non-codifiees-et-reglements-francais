@@ -5,3 +5,5 @@ Le procureur de la République notifie sa décision au requérant par lettre rec
 Lorsque la demande vise à la fois l'inscription sur la liste des conseils juridiques et l'usage d'une mention de spécialisation, la décision doit statuer sur chacun de ces points séparément.
 
 Les décisions de rejet doivent être motivées.
+
+Le procureur de la République informe la commission régionale de sa décision.
