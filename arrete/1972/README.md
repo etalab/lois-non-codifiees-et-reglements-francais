@@ -11,6 +11,7 @@
 - [Arrêté du 10 mars 1972](arrete-du-10-mars-1972)
 - [Arrêté du 11 janvier 1972](arrete-du-11-janvier-1972)
 - [Arrêté du 11 mars 1972](arrete-du-11-mars-1972)
+- [Arrêté du 12 avril 1972](arrete-du-12-avril-1972)
 - [Arrêté du 15 mars 1972](arrete-du-15-mars-1972)
 - [Arrêté du 16 mars 1972](arrete-du-16-mars-1972)
 - [Arrêté du 18 février 1972](arrete-du-18-fevrier-1972)
