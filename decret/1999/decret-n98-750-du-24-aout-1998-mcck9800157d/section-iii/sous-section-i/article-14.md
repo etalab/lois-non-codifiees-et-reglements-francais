@@ -4,7 +4,7 @@ I. - Sans préjudice de l'application des dispositions des articles 12 et 13, le
 
 Toutefois, des avances sur les sommes calculées conformément à l'article 10 peuvent être accordées dans la limite de plafonds.
 
-Ces plafonds peuvent être majorés par le directeur général du Centre national de la cinématographie après avis d'un comité d'experts dans le cas de travaux substantiels de restructuration ou de rénovation d'un établissement. Cette majoration ne peut bénéficier aux personnes qui, directement ou dans les conditions prévues à l'article 13, sont propriétaires de plus de 50 salles de spectacles cinématographiques.
+Ces plafonds peuvent être majorés par le directeur général du Centre national de la cinématographie, après avis d'un comité d'experts, dans le cas de travaux substantiels de restructuration ou de rénovation d'établissement ainsi que dans le cas de création, à condition que le bénéficiaire ne soit pas propriétaire, directement ou dans les conditions prévues à l'article 13, de plus de 50 salles de spectacles cinématographiques. Cette majoration ne peut être accordée pour des opérations de création d'établissements que si ceux-ci ont bénéficié au préalable du soutien financier sélectif prévu à l'article 19.
 
 Chaque avance fait l'objet d'une convention conclue entre le Centre national de la cinématographie et son bénéficiaire. Cette convention fixe notamment les modalités de versement et d'amortissement de l'avance considérée ainsi que les conditions dans lesquelles celle-ci est sujette à répétition.
 
