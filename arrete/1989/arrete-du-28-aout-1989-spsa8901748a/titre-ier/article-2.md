@@ -14,15 +14,15 @@ Sont dispensés des deux dernières conditions les candidats justifiant de cinq 
 
 Pour les candidats répondant à ces conditions, l'admission définitive est prononcée au terme d'une procédure de sélection dont les modalités sont fixées par décision du ministre.
 
-2° En ce qui concerne les personnels du secteur public souhaitant suivre la formation à plein temps en voie directe ouverte aux agents publics :
+2° En ce qui concerne les personnels du secteur public, en vue d'une formation à plein temps, en voie directe, aux agents publics suivants :
 
-- soit être visé par les dispositions de l'article 10 du décret n° 80-793 du 1er octobre 1980 ;
+- éducateurs-chefs relevant du titre IV de la fonction publique placés au moins au 4e échelon de leur grade ou susceptibles de l'atteindre au 1er janvier 1992 ;
 
-- soit être visé par les dispositions des articles 8 ou 16 du décret précité ;
+- fonctionnaires relevant du titre IV de la fonction publique placés au moins à l'indice brut 461 ou susceptibles de l'atteindre au 1er janvier 1992 ;
 
-- soit, pour les personnels non soumis à des règles statutaires spécifiques relatives à la qualification des directeurs, être directeur en titre ou ayant fonction de directeur ou agent placé au moins à l'indice brut 461.
+- directeurs et faisant fonction de directeur relevant du titre IV de la fonction publique dans des établissements mentionnés aux 4°, 5°, 6° et 7° (à l'exclusion, pour le 7°, des établissements de soins et d'hébergement des personnes âgées) de l'article 2 de la loi n° 86-33 du 9 janvier 1986.
 
-Pour les candidats visés au 2° du présent article, à l'exception des directeurs en titre, l'admission définitive en cycle de formation est prononcée au terme d'une procédure de sélection organisée par l'Ecole nationale de la santé publique et dont les modalités sont fixées par décision du ministre.
+Pour les candidats visés au 2°, à l'exception des directeurs en titre, l'admission définitive en cycle de formation est prononcée au terme d'une procédure de sélection dont les modalités sont fixées par décision du ministre.
 
 3° En ce qui concerne les salariés du secteur privé souhaitant suivre la formation en cours d'emploi : être directeur en titre d'un établissement social privé.
 
