@@ -1,7 +1,7 @@
 # Article 12
 
-Le gérant est tenu d'insérer gratuitement, en tête du plus prochain numéro du journal ou écrit périodique, toutes les rectifications qui lui seront adressées par un dépositaire de l'autorité publique, au sujet des actes de sa fonction, qui auront été inexactement rapportés par ledit journal pu écrit périodique.
+Le directeur de la publication sera tenu d'insérer gratuitement, en tête du prochain numéro du journal ou écrit périodique, toutes les rectifications qui lui seront adressées par un dépositaire de l'autorité publique, au sujet des actes de sa fonction qui auront été inexactement rapportés par ledit journal ou écrit périodique [*information - publicité - droit de rectification*].
 
-Toutefois, ces rectifications ne dépasseront pas le double de l'article auquel elles répondront.
+Toutefois, ces rectifications ne dépasseront pas le double [*proportion*] de l'article auquel elles répondront.
 
-En cas de contravention, le gérant sera puni d'une amende de 100 fr. à 1 000 fr.
+En cas de contravention, le directeur de la publication sera puni d'une amende de 360 francs à 15000 F [*refus d'insertion - sanctions pénales*].
