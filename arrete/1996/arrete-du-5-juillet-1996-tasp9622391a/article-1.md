@@ -2,11 +2,9 @@
 
 La commission consultative d'enregistrement des réactifs instituée par l'article 7 du décret du 19 avril 1996 susvisé comprend :
 
-1. Cinq représentants de l'Etat, membres de droit :
+1. Quatre représentants de l'Etat, membres de droit :
 
 - le directeur général de la santé ou son représentant ;
-
-- le directeur des hôpitaux ou son représentant ;
 
 - le directeur général des stratégies industrielles ou son représentant ;
 

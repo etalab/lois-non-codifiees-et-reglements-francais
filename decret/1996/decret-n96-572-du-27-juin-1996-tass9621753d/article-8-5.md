@@ -1,0 +1,3 @@
+# Article 8-5
+
+En cas de fausse déclaration ou en cas de déclaration incomplète tendant à obtenir indûment en 1998 la poursuite du bénéfice de la réduction prévue à l'article 99 de la loi du 12 avril 1996 susvisée, notamment à l'occasion de la modification de la situation juridique de l'employeur, le droit à cette réduction est supprimé à compter du 1er janvier 1998 et l'employeur reverse à l'Etat une somme égale au montant des cotisations dont il a été indûment exonéré au titre de l'article 99 précité ; la convention spécifique mentionnée à l'article 3 du présent décret est dénoncée à effet de cette date selon les modalités prévues à l'article 7 du présent décret.
