@@ -1,0 +1,5 @@
+# Article 24
+
+Les appareils de préhension électromagnétique et les bennes preneuses, ne seront admis que s'ils sont munis de dispositifs efficaces évitant la chute de la charge.
+
+Les dispositifs prévus ci-dessus ne seront pas obligatoires si des mesures efficaces sont prises pour interdire au personnel l'accès des zones où des chutes intempestives pourraient se produire.
