@@ -1,4 +1,18 @@
-# Arrêté du 8 juillet 1977 relatif à l'application de l'article 23 du décret n° 75-306 du 28 avril 1975 relatif à la protection des travailleurs contre les dangers des rayonnements ionisants dans les installations nucléaires de base pour l'approbation des méthodes de contrôles élaborées par l'Office de protection contre les rayonnements ionisants.
+# Arrêté du 8 juillet 1977 relatif aux ovoproduits destinés à la consommation humaine
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)
+- [Article 14](article-14.md)
+- [Article 15](article-15.md)
 - [Annexes](annexes)

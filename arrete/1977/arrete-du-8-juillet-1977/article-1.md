@@ -1,3 +1,3 @@
 # Article 1
 
-Les contrôles prévus à l'article 23 du décret n° 75-306 du 28 avril 1975 sont effectués selon les méthodes élaborées par le service central de protection contre les rayonnements ionisants et données en annexe au présent arrêté.
+Le présent arrêté concerne les conditions de préparation, de conservation, quel que soit le lieu où sont effectuées ces opérations, et d'inspection sanitaire des ovoproduits liquides, congelés ou séchés destinés à la consommation humaine. Il s'applique sans préjudice des autres dispositions réglementaires en vigueur, notamment celles du décret n° 65-116 du 15 février 1965 modifié relatif à la qualité des oeufs destinés à la consommation humaine, de l'arrêté interministériel du 4 novembre 1965 relatif aux conditions de collecte et de commercialisation des oeufs et de l'arrêté interministériel du 19 août 1968 concernant les étiquettes pour récipients à produits d'oeufs.
