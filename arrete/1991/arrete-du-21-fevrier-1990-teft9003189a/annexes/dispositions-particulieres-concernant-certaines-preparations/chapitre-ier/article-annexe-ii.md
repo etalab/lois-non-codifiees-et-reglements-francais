@@ -53,3 +53,13 @@ L'emballage des préparations contenant plus de 1 % de chlore actif doit porter 
 6. Préparations contenant du cadmium (alliages) et destinées à être utilisées pour le brasage et le soudage.
 
 L'emballage de telles préparations devra porter de manière lisible et indélébile les mentions suivantes : "Attention ! Contient du cadmium. Des fumées dangereuses se développent pendant l'utilisation. Voir les informations transmises par le fabricant. Respecter les consignes de sécurité".
+
+7. Préparations liquides contenant des hydrocarbures halogénés.
+
+A compter du 1er janvier 2000, l'emballage des préparations liquides qui ne présentent pas de point d'éclair ou dont le point d'éclair est supérieur à 55 °C et qui contiennent un hydrocarbure halogéné et plus de 5 % de substances inflammables ou facilement inflammables doit porter, selon le cas et respectivement, l'une des inscriptions suivantes :
+
+"Peut devenir inflammable en cours d'utilisation"
+
+ou
+
+"Peut devenir facilement inflammable en cours d'utilisation".

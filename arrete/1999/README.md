@@ -623,6 +623,7 @@
 - [Arrêté du 28 juin 1999 (MESS9921810A)](arrete-du-28-juin-1999-mess9921810a)
 - [Arrêté du 28 juin 1999 (MESS9921811A)](arrete-du-28-juin-1999-mess9921811a)
 - [Arrêté du 28 juin 1999 (MESS9921912A)](arrete-du-28-juin-1999-mess9921912a)
+- [Arrêté du 28 septembre 1999 (ECOC9900081A)](arrete-du-28-septembre-1999-ecoc9900081a)
 - [Arrêté du 28 septembre 1999 (EQUS9901311A)](arrete-du-28-septembre-1999-equs9901311a)
 - [Arrêté du 28 septembre 1999 (INTB9900468A)](arrete-du-28-septembre-1999-intb9900468a)
 - [Arrêté du 28 septembre 1999 (MENE9902076A)](arrete-du-28-septembre-1999-mene9902076a)

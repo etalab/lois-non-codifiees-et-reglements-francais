@@ -42,7 +42,11 @@ Le lot est conforme si au plus deux résultats d'analyse sont compris entre N p.
 
 II. 3. HPD ou HPDA (limite maximale M).
 
-Le lot est conforme si au plus deux résultats d'analyse sont compris entre M p. 100 et M p 2 p. 100 et si aucun résultat n'est au dessus de M p 2 p. 100.
+Le lot est conforme si :
+
+- le rapport L/P (taux de lipides/ taux de protéines) est inférieur en moyenne à 8 et si, pour l'HPD (taux d'humidité rapporté au produit délipidé), au plus deux résultats d'analyse sont compris entre M (82 %) et M + 1 % (83 %), aucun résultat n'étant au-dessus de M + 1 % (83 %) ;
+
+- le rapport L/P est supérieur ou égal en moyenne à 8 et si, pour l'HPD, au plus deux résultats d'analyse sont compris entre M + 1 % (83 %) et M + 2 % (84 %), aucun résultat n'étant au-dessus de M + 2 % (84 %).
 
 Ce plan d'échantillonnage n'exclut pas la possibilité de procéder à des prélèvements de sondage d'une unité de vente afin d'avoir une première idée de la qualité des produits à contrôler.
 
@@ -421,3 +425,7 @@ Présence de déchets conjonctivo-vasculaires en nombre supérieur à la valeur 
 Présence d'éléments étrangers (autres que des foies gras de palmipèdes) ;
 
 Présence importante de tissus lésionnels dans les morceaux de foies gras.
+
+XIII - Méthodes de détermination du taux de protéines.
+
+Le taux de protéines est calculé en multipliant par un facteur 6,25 la teneur en azote total déterminée selon la méthode AFNOR V 04 407, Viandes et produits à base de viande.
