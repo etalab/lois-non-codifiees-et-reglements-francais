@@ -2,7 +2,7 @@
 
 Les personnels visés aux articles 2 et 3 perçoivent des émoluments qui comportent les éléments suivants :
 
-1. Eléments à la charge de l'Etat
+1. Eléments à la charge de l'Agence pour l'enseignement français à l'étranger
 
 A. - Le traitement brut soumis à retenue pour pension correspondant à l'indice hiérarchique que les agents détiennent dans leur corps d'origine ; pour les personnels relevant des décrets du 26 janvier 1983 et du 11 avril 1988 précités, l'indice d'échelon dans le grade est complété par la bonification indiciaire soumise à retenue pour pension attachée à la catégorie de l'établissement d'affectation déterminée par arrêté du ministre chargé du budget et, selon le cas, du ministre des affaires étrangères ou du ministre de la coopération et du développement ;
 
@@ -20,7 +20,7 @@ La répartition par pays et par groupe des agents expatriés fait l'objet d'un a
 
 - le cas échéant, des majorations familiales pour enfants à charge, attribuées au lieu et place des avantages familiaux accordés aux personnels en service en France.
 
-Leur montant est obtenu par application d'un coefficient au mont ant du traitement brut soumis à retenue pour pension afférent à l'indice hiérarchique 100. Il est majoré de 25 p. 100 pour les enfants âgés de dix à quinze ans et de 50 p. 100 pour les enfants âgés de plus de quinze ans.
+Leur montant est obtenu par application d'un coefficient au montant du traitement brut soumis à retenue pour pension afférent à l'indice hiérarchique 100. Il est majoré de 25 p. 100 pour les enfants âgés de dix à quinze ans et de 50 p. 100 pour les enfants âgés de plus de quinze ans.
 
 Un arrêté conjoint du ministre de l'économie, des finances et du budget, du ministre des affaires étrangères et, selon le cas, du ministre de la coopération et du développement fixe, pour chaque pays, le coefficient applicable pour chaque enfant à charge.
 
