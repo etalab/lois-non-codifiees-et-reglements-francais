@@ -2,6 +2,6 @@
 
 Les fonctions de président et de membre du conseil syndical ne donnent pas lieu à rémunération.
 
-Le conseil syndical peut se faire assister par tout technicien de son choix.
+Le conseil syndical peut, pour l'exécution de sa mission, prendre conseil auprès de toute personne de son choix. Il peut aussi, sur une question particulière, demander un avis technique à tout professionnel de la spécialité.
 
-Les honoraires de ces techniciens ainsi que les frais nécessités par le fonctionnement du conseil syndical constituent des dépenses d'administration. Ils sont payés par le syndic dans les conditions fixées par le règlement de copropriété éventuellement modifié ou complété par la décision de l'assemblée générale visée à l'article 22 du présent décret.
+Les dépenses nécessitées par l'exécution de la mission du conseil syndical constituent des dépenses courantes d'administration. Elles sont supportées par le syndicat et réglées par le syndic.

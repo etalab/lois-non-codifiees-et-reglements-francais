@@ -2,14 +2,12 @@
 
 Le syndic peut exiger le versement :
 
-1° De l'avance de trésorerie permanente prévue au règlement de copropriété ;
+1° De l'avance constituant la réserve prévue au règlement de copropriété, laquelle ne peut excéder 1/6 du montant du budget prévisionnel ;
 
-2° Au début de chaque exercice, d'une provision qui, sous réserve des stipulations du règlement de copropriété ou, à défaut, des décisions de l'assemblée générale, ne peut excéder soit le quart du budget prévisionnel voté pour l'exercice considéré, soit la moitié de ce budget si le règlement de copropriété ne prévoit pas le versement d'une avance de trésorerie permanente.
+2° Des provisions du budget prévisionnel prévues aux alinéas 2 et 3 de l'article 14-1 de la loi du 10 juillet 1965 ;
 
-3° En cours d'exercice, soit d'une somme correspondant au remboursement des dépenses régulièrement engagées et effectivement acquittées, soit de provisions trimestrielles qui ne peuvent chacune excéder le quart du budget prévisionnel pour l'exercice considéré ;
+3° Des provisions pour les dépenses non comprises dans le budget prévisionnel prévues à l'article 14-2 de la loi du 10 juillet 1965 et énoncées à l'article 44 du présent décret ;
 
-4° De provisions spéciales destinées à permettre l'exécution de décisions de l'assemblée générale, comme celles de procéder à la réalisation des travaux prévus aux chapitres III et IV de la loi du 10 juillet 1965, dans les conditions fixées par décisions de ladite assemblée.
+4° Des avances correspondant à l'échéancier prévu dans le plan pluriannuel de travaux adopté par l'assemblée générale ;
 
-5° De provisions spéciales éventuellement décidées par l'assemblée générale en application de l'article 18 de la loi du 10 juillet 1965 modifiée en vue de faire face aux travaux d'entretien ou de conservation des parties communes et des éléments d'équipement commun susceptibles d'être nécessaires dans les trois années à échoir et non encore décidés.
-
-L'assemblée générale décide, s'il y a lieu, du mode de placement des fonds ainsi recueillis.
+5° Des avances constituées par les provisions spéciales prévues au sixième alinéa de l'article 18 de la loi du 10 juillet 1965.

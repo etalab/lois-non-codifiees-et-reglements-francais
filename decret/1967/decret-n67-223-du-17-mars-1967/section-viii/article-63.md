@@ -1,5 +1,7 @@
 # Article 63
 
-Toutes les notifications et mises en demeure prévues par la loi du 10 juillet 1965 et par le présent décret, à l'exception de la mise en demeure visée à l'article 19 de ladite loi, sont valablement faites par lettre recommandée avec demande d'avis de réception. Le délai qu' elles font, le cas échéant, courir a pour point de départ le lendemain du jour de la première présentation de la lettre recommandée au domicile du destinataire.
+L'union de syndicats, mentionnée à l'article 29 de la loi du 10 juillet 1965, peut être propriétaire des biens nécessaires à son objet.
 
-Toutefois, la notification des convocations prévues au présent décret ainsi que celle de l'avis mentionné à l'article 59 ci-dessus peuvent valablement résulter d'une remise contre récépissé ou émargement.
+Lorsqu'un syndicat de copropriétaires est membre d'une union de syndicats, le syndic soumet, préalablement pour avis à l'assemblée générale des copropriétaires du syndicat concerné ou, le cas échéant, au conseil syndical, les questions portées à l'ordre du jour de l'assemblée générale de l'union.
+
+Le syndic rend compte à l'assemblée générale des copropriétaires des décisions prises par l'union.

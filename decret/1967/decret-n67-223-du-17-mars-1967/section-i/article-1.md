@@ -1,6 +1,6 @@
 # Article 1
 
-Le règlement de copropriété mentionné par l'article 8 de la loi du 10 juillet 1965 susvisée comporte les stipulations relatives aux objets visés par l'alinéa 1er dudit article ainsi que l'état de répartition des charges prévu au dernier alinéa de l'article 10 de ladite loi.
+Le règlement de copropriété mentionné par l'article 8 de la loi du 10 juillet 1965 susvisée comporte les stipulations relatives aux objets visés par l'alinéa 1er dudit article ainsi que l'état de répartition des charges prévu au troisième alinéa de l'article 10 de ladite loi.
 
 Cet état définit les différentes catégories de charges et distingue celles afférentes à la conservation, à l'entretien et à l'administration de l'immeuble, celles relatives au fonctionnement et à l'entretien de chacun des éléments d'équipement communs et celles entraînées par chaque service collectif.
 

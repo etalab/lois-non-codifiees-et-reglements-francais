@@ -1,4 +1,4 @@
-# Article 64
+# Article 65
 
 En vue de l'application de l'article précédent, chaque copropriétaire ou titulaire d'un droit d'usufruit ou de nue-propriété sur un lot ou une fraction de lot doit notifier au syndic son domicile réel ou élu soit en France métropolitaine si l'immeuble y est situé, soit dans le département ou le territoire d'outre-mer de la situation de l'immeuble.
 

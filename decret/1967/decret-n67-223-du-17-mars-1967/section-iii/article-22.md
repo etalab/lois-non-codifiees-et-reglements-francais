@@ -1,6 +1,8 @@
 # Article 22
 
-A moins que le règlement de copropriété n'ait fixé les règles relatives à l'organisation et au fonctionnement du conseil syndical, ces règles sont fixées ou modifiées dans les conditions de majorité prévues à l'article 25 de la loi du 10 juillet 1965 par l'assemblée générale qui désigne les membres du conseil syndical.
+A moins que le règlement de copropriété n'ait fixé les règles relatives à l'organisation et au fonctionnement du conseil syndical, ces règles sont fixées ou modifiées par l'assemblée générale à la majorité de l'article 24 de la loi du 10 juillet 1965.
+
+Le conseil syndical rend compte à l'assemblée, chaque année, de l'exécution de sa mission.
 
 Le mandat des membres du conseil syndical ne peut excéder trois années renouvelables.
 

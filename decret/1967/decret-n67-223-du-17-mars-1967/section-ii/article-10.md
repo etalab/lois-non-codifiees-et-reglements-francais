@@ -1,3 +1,3 @@
 # Article 10
 
-Dans les six jours de la convocation, un ou plusieurs copropriétaires ou le conseil syndical, s'il en existe un, notifient à la personne qui a convoqué l'assemblée les questions dont ils demandent l'inscription à l'ordre du jour. Ladite personne notifie aux membres de l'assemblée générale un état de ces questions cinq jours au moins avant la date de cette réunion.
+A tout moment, un ou plusieurs copropriétaires, ou le conseil syndical, peuvent notifier au syndic la ou les questions dont ils demandent qu'elles soient inscrites à l'ordre du jour d'une assemblée générale. Le syndic porte ces questions à l'ordre du jour de la convocation de la prochaine assemblée générale. Toutefois, si la ou les questions notifiées ne peuvent être inscrites à cette assemblée compte tenu de la date de réception de la demande par le syndic, elles le sont à l'assemblée suivante.

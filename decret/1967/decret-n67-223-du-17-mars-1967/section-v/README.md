@@ -1,4 +1,4 @@
-# Section V : Dispositions particulières aux syndicats coopératifs.
+# Section V : Dispositions particulières aux syndicats de forme coopérative.
 
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)
