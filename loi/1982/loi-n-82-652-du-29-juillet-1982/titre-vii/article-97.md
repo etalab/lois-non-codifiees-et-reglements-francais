@@ -1,19 +1,7 @@
 # Article 97
 
-Sera puni d'une amende de 6.000 F à 500.000 F [*francs*] :
+Les articles 6, 73, 93-2 et 93-3 sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
 
-1° Toute violation des articles 9, 80, 82-1 et 93-1.
+Les journalistes exerçant leur profession dans une ou plusieurs entreprises de communication audiovisuelle ont la qualité de journaliste au même titre que leurs confrères de la presse écrite. Leur sont applicables, soit les articles L. 761-1 à L. 761-16, L. 796-1 ainsi que les dispositions du titre III du livre Ier du code du travail, soit les dispositions du code du travail en vigueur localement.
 
-2° Toute émission effectuée en violation d'une décision de retrait ou de suspension d'autorisation prononcée conformément aux dispositions de l'article 86 ;
-
-3° Toute violation des dispositions concernant l'émission sur une fréquence autre que celle attribuée, la puissance de l'émetteur ou le lieu d'implantation de l'émetteur, définies dans l'autorisation prévue à l'article 7 de la présente loi.
-
-4° Toute violation des dispositions relatives aux délais ou horaires de diffusion des oeuvres cinématographiques contenues dans les autorisations, contrats de concession, cahiers des charges et décrets prévus par les articles 32, 77, 78, 79, le troisième alinéa de l'article 83 et l'article 89.
-
-5° Toute violation des dispositions concernant la durée minimale hebdomadaire du programme propre contenues dans les cahiers des charges prévu à l'article 83.
-
-Dès la constatation d'une infraction à l'article 89, les officiers de police judiciaire peuvent procéder à la saisie des supports mis illicitement à la disposition du public.
-
-Dans le cas de récidive, ou dans le cas où l'émission irrégulière aura perturbé des émissions ou liaisons hertziennes d'un service public ou d'un service autorisé, l'auteur de l'infraction pourra être, en outre, puni d'un emprisonnement d'une durée maximum de trois mois.
-
-En cas de condamnation, le tribunal pourra prononcer la confiscation des installations et des matériels.
+Le recrutement des journalistes s'effectue, soit selon les règles de la convention collective nationale de la presse et ses avenants, soit selon les règles particulières du code du travail applicables localement.
