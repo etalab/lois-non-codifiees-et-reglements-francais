@@ -1,3 +1,0 @@
-# Article 1
-
-Les représentants de l'Etat dans les conseils d'administration [*conseils*] de gérance ou [*conseils*] de surveillance, des sociétés visées à l'article 12 de la loi n° 70-985 du 25 juillet 1949 sont choisis parmi les fonctionnaires en activité de service ou en retraite titulaires d'un grade au moins équivalent à celui d'un administrateur civil de deuxième classe ayant au moins trente ans d'âge ou huit ans de service [*ancienneté*] et appartenant soit au ministère dont ces sociétés relèvent en raison de leur activité, soit aux ministères des finances, du budget et des affaires économiques, soit aux grands corps de l'Etat [*conditions requises*].

@@ -42,7 +42,6 @@
 - [Décret n°72-302 du 19 avril 1972](decret-n72-302-du-19-avril-1972)
 - [Décret n°72-879 du 19 septembre 1972](decret-n72-879-du-19-septembre-1972)
 - [Décret n°72-208 du 20 mars 1972](decret-n72-208-du-20-mars-1972)
-- [Décret n°72-209 du 20 mars 1972](decret-n72-209-du-20-mars-1972)
 - [Décret n°72-361 du 20 avril 1972](decret-n72-361-du-20-avril-1972)
 - [Décret n°72-678 du 20 juillet 1972](decret-n72-678-du-20-juillet-1972)
 - [Décret n°74-522 du 20 mai 1974](decret-n74-522-du-20-mai-1974)
