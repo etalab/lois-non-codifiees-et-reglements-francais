@@ -12,6 +12,7 @@
 - [Décret n°87-148 du 2 mars 1987 (ASES8700357D)](decret-n87-148-du-2-mars-1987-ases8700357d)
 - [Décret n°87-362 du 2 juin 1987 (INTD8700132D)](decret-n87-362-du-2-juin-1987-intd8700132d)
 - [Décret n°87-371 du 2 juin 1987 (PTTA8700279D)](decret-n87-371-du-2-juin-1987-ptta8700279d)
+- [Décret n°87-491 du 2 juillet 1987 (ASEX8700084D)](decret-n87-491-du-2-juillet-1987-asex8700084d)
 - [Décret n°87-50 du 2 février 1987 (CLRX8798229D)](decret-n87-50-du-2-fevrier-1987-clrx8798229d)
 - [Décret n°87-51 du 2 février 1987 (CLRX8798230D)](decret-n87-51-du-2-fevrier-1987-clrx8798230d)
 - [Décret n°87-53 du 2 février 1987 (MENX8798232D)](decret-n87-53-du-2-fevrier-1987-menx8798232d)
