@@ -1,0 +1,3 @@
+# Article 11
+
+La « mission de conseil et d'assistance de la maintenance » est chargée de l'évaluation de l'état des organes de sécurité des parcs des matériels mobilité et armement en métropole et outre-mer, du contrôle périodique des matériels aériens, de parachutage et de largage et de la vérification de la sécurité du domaine munition. Elle procède également au contrôle technique de tous les matériels affectés à demeure sur les théâtres d'opération. Son action s'exerce sur tous les organismes détenteurs de matériels ressortissants du service du matériel de l'armée de terre. Sur ordre de l'état-major de l'armée de terre, elle peut intervenir au profit d'armées étrangères.

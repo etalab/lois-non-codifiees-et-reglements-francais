@@ -1,0 +1,3 @@
+# Article 2
+
+Dans l'attente de l'intervention du décret prévu à l'article 6 du décret du 31 décembre 2001 susvisé, sont transférés à l'Etat, à la même date, les droits et obligations de l'Etablissement public chargé de l'aménagement des rives de l'étang de Berre concernant les promesses de vente immobilière accordées aux collectivités territoriales et aux particuliers jusqu'à la publication des actes correspondants, les marchés d'études et de travaux qui n'auraient pas été transférés aux collectivités territoriales au 31 décembre 2003, les lettres de commandes relatives aux études et aux travaux passés jusqu'au 31 décembre 2003 et les contentieux nés de l'activité de l'établissement ou durant la période de liquidation.

@@ -1,0 +1,3 @@
+# Article 3
+
+L'Etablissement public foncier de Provence-Alpes-Côte d'Azur exécute, pour le compte de l'Etablissement public chargé de l'aménagement des rives de l'étang de Berre en liquidation et de l'Etat, les droits et obligations liés à l'application du plan social accompagnant la dissolution de l'Etablissement public chargé de l'aménagement des rives de l'étang de Berre et aux moyens de fonctionnement relatifs à l'achèvement de la production des comptes de liquidation de ce dernier. Une convention conclue entre l'Etat, l'Etablissement public chargé de l'aménagement des rives de l'étang de Berre en liquidation et l'Etablissement public foncier de Provence-Alpes-Côte d'Azur en fixe les modalités.
