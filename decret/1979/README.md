@@ -149,7 +149,6 @@
 - [Décret n°79-212 du 27 février 1979](decret-n79-212-du-27-fevrier-1979)
 - [Décret n°79-249 du 27 mars 1979](decret-n79-249-du-27-mars-1979)
 - [Décret n°79-251 du 27 mars 1979](decret-n79-251-du-27-mars-1979)
-- [Décret n°79-252 du 27 mars 1979](decret-n79-252-du-27-mars-1979)
 - [Décret n°79-265 du 27 mars 1979](decret-n79-265-du-27-mars-1979)
 - [Décret n°79-558 du 27 juin 1979](decret-n79-558-du-27-juin-1979)
 - [Décret n°79-638 du 27 juillet 1979](decret-n79-638-du-27-juillet-1979)
