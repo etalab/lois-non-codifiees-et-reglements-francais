@@ -1,3 +1,0 @@
-# Article 15
-
-Les experts ayant procédé aux examens visés aux articles 2 et 8 sont tenus au secret professionnel, sauf vis-à-vis des autorités administratives citées à l'article 3 de la loi du 10 mars 1948 [*référence remplacée par la loi n° 96-1236 du 30 décembre 1996 sur l'air et l'utilisation rationnelle de l'énergie*], et ce pour les faits et renseignements relatifs à l'utilisation de l'énergie, ainsi que vis-à-vis des autorités administratives ou des agents chargés du contrôle des émissions polluantes liées à l'utilisation de l'énergie, et ce pour les faits et renseignements relatifs à ces émissions.
