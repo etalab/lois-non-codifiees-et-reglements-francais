@@ -28,7 +28,6 @@
 - [Arrêté du 2 juin 1987 (AGRP8701070A)](arrete-du-2-juin-1987-agrp8701070a)
 - [Arrêté du 2 juin 1987 (BUDL8700078A)](arrete-du-2-juin-1987-budl8700078a)
 - [Arrêté du 2 mars 1987 (AGRG8700580A)](arrete-du-2-mars-1987-agrg8700580a)
-- [Arrêté du 2 mars 1987 (ASEH8700374A)](arrete-du-2-mars-1987-aseh8700374a)
 - [Arrêté du 2 mars 1987 (BUDF8700003A)](arrete-du-2-mars-1987-budf8700003a)
 - [Arrêté du 2 mars 1987 (BUDF8700004A)](arrete-du-2-mars-1987-budf8700004a)
 - [Arrêté du 2 mars 1987 (BUDR8703028A)](arrete-du-2-mars-1987-budr8703028a)
