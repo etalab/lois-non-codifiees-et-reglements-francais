@@ -6,4 +6,6 @@ Un fonctionnaire peut, avec son accord, être mis à la disposition :
 
 2° D'un organisme d'intérêt général, public ou privé ;
 
-3° D'un organisme à caractère associatif qui assure une mission d'intérêt général.
+3° D'un organisme à caractère associatif qui assure une mission d'intérêt général ;
+
+4° D'une organisation internationale intergouvernementale.

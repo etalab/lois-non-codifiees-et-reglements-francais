@@ -8,13 +8,15 @@ Le détachement d'un fonctionnaire ne peut avoir lieu que dans l'un des cas suiv
 
 3° Détachement pour participer à une mission de coopération au titre de la loi du 13 Juillet 1972 relative à la situation du personnel civil de coopération culturelle, scientifique et technique auprès d'Etats étrangers ;
 
-4° Détachement auprès d'une administration de l'Etat, d'un établissement public de l'Etat, d'une entreprise publique, dans un emploi de l'administration ne conduisant pas à pension du code des pensions civiles et militaires de retraite ;
+4° Détachement auprès d'une administration de l'Etat, d'un établissement public de l'Etat, d'une entreprise publique, d'un groupement d'intérêt public, dans un emploi de l'administration ne conduisant pas à pension du code des pensions civiles et militaires de retraite ;
 
 5° Détachement auprès d'une entreprise ou d'un organisme privé d'intérêt général ou de caractère associatif assurant des missions d'intérêt général : le nombre et la nature des emplois auxquels il est éventuellement pourvu par des fonctionnaires détachés doivent être précisés par une disposition des statuts de l'entreprise ou de l'organisme considéré, approuvée par arrêté du ministre chargé du budget, du ministre chargé de la fonction publique et du ou des ministres intéressés ; les associations ou fondations reconnues d'utilité publique sont dispensées de cette formalité ;
 
 6° Détachement pour dispenser un enseignement à l'étranger ;
 
-7° Détachement pour remplir une mission d'intérêt public à l'étranger ou auprès d'organismes internationaux ;
+7° a) Détachement pour remplir une mission d'intérêt public à l'étranger ou auprès d'une organisation internationale intergouvernementale ;
+
+b) Détachement pour effectuer une mission d'intérêt public de coopération internationale ou auprès d'organismes d'intérêt général à caractère international. Le détachement pour effectuer une mission d'intérêt public de coopération internationale et le détachement auprès d'organismes d'intérêt général à caractère international ne peuvent intervenir que dans les conditions prévues par une convention préalablement passée entre l'administration gestionnaire et l'organisme d'accueil. Cette convention, visée par le contrôleur financier, définit la nature et le niveau des activités confiées au fonctionnaire, ses conditions d'emploi et de rémunération, les modalités d'appel de retenues pour pension ainsi que les modalités du contrôle et de l'évaluation desdites activités. La convention, lorsqu'elle est conclue en vue d'un détachement auprès d'un organisme d'intérêt général à caractère international, est également signée par le ministre des affaires étrangères ;
 
 8° Détachement pour exercer les fonctions de membres du Gouvernement ou une fonction publique élective lorsque cette fonction comporte des obligations empêchant d'assurer normalement l'exercice de la fonction :
 

@@ -1,0 +1,5 @@
+# Article 2
+
+Les personnes autres que celles qui reçoivent de l'Etat, d'un établissement public national à caractère administratif ou d'un organisme mentionné au deuxième alinéa de l'article 1er du présent décret une rémunération ou un salaire au titre de leur activité principale ne peuvent être réglées de leurs frais de déplacement que sur décision du ministre intéressé, du haut-commissaire ou du préfet, du chef ou du directeur de l'établissement ou de l'organisme concerné, ou du fonctionnaire ayant reçu délégation à cet effet, après visa du contrôleur financier tel que défini à l'article 4.
+
+Les frais de transport et de séjour qu'elles sont appelées à engager pour le compte de l'administration peuvent leur être remboursés dans les conditions fixées par le présent décret pour les déplacements temporaires. Toutefois, sur décision de l'autorité qui ordonne le déplacement, l'indemnité de séjour peut être majorée sans pouvoir excéder les cinq tiers du taux de l'indemnité journalière normale.
