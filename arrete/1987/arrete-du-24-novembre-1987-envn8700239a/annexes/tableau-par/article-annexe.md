@@ -22,7 +22,7 @@ Département de l'Ardèche
 
 Département de l'Aveyron
 
-Tous les cours d'eau.
+Tous les cours d'eau, à l'exception du Viaur.
 
 Département du Calvados
 
@@ -329,3 +329,7 @@ Département de la Vienne
 10° Le Salleron.
 
 11° La Bouleure.
+
+Département de la Haute-Vienne
+
+Tous les cours d'eau.

@@ -68,15 +68,11 @@ Département de la Haute-Garonne
 
 Département de l'Hérault
 
-1° L'Agoût, la Cesse, le Jaur et leurs affluents et sous-affluents ;
+1. L'Agoût, la Cesse, le Jaur et leurs affluents et sous-affluents ;
 
-2° Le Verzanobres et l'Ilouvre ;
+2. Les affluents de la rive droite de l'Orb entre la Mare et le Jaur :
 
-3° La Mare et ses affluents et sous-affluents en amont de son confluent avec le Casselouvre ;
-
-4° Le Casselouvre et ses affluents et sous-affluents ;
-
-5° Les affluents de la rive droite de l'Orb entre la Mare et le Jaur ; l'Héric et son affluent le Poustisse, l'Albine, l'Arle, le Madale, le Vernet, le Bitoulet et le Rieux Pourquier.
+L'Hérie et son affluent le Poustisse, l'Albine, l'Arle, le Madale, le Vernet, le Bitoulet et le Rieux Pourquier.
 
 Département de la Loire
 
