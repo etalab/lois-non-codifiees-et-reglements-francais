@@ -63,6 +63,5 @@
 - [Décret n°68-401 du 30 avril 1968](decret-n68-401-du-30-avril-1968)
 - [Décret n°68-418 du 30 avril 1968](decret-n68-418-du-30-avril-1968)
 - [Décret n°68-518 du 30 mai 1968](decret-n68-518-du-30-mai-1968)
-- [Décret n°68-521 du 30 mai 1968](decret-n68-521-du-30-mai-1968)
 - [Décret n°68-534 du 30 mai 1968](decret-n68-534-du-30-mai-1968)
 - [Décret n°68-498 du 31 mai 1968](decret-n68-498-du-31-mai-1968)

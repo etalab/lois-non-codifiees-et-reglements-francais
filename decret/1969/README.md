@@ -50,7 +50,6 @@
 - [Décret n° 69-123 du 24 janvier 1969](decret-n-69-123-du-24-janvier-1969)
 - [Décret n°69-1177 du 24 décembre 1969](decret-n69-1177-du-24-decembre-1969)
 - [Décret n°69-1226 du 24 décembre 1969](decret-n69-1226-du-24-decembre-1969)
-- [Décret n°69-270 du 24 mars 1969](decret-n69-270-du-24-mars-1969)
 - [Décret n°69-281 du 24 mars 1969](decret-n69-281-du-24-mars-1969)
 - [Décret n°69-381 du 24 avril 1969](decret-n69-381-du-24-avril-1969)
 - [Décret n°69-763 du 24 juillet 1969](decret-n69-763-du-24-juillet-1969)
