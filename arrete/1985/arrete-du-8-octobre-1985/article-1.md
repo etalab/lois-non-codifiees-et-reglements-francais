@@ -1,5 +1,3 @@
 # Article 1
 
-La liste prévue à l'article 23-O de l'annexe IV au code général des impôts est complétée comme suit :
-
-"- rémunération perçue par l'intermédiaire placeur d'emprunts émis par voie d'adjudication."
+Le nombre de vacations donnant droit à l'indemnité de garantie accordée aux ouvriers dockers professionnels du port de Dunkerque est fixé à 350 pour l'année 1985.
