@@ -1,30 +1,40 @@
 # Article 4
 
-La liste d'aptitude est divisée en sept classes d'emplois groupant tous les emplois d'agent de direction et d'agent comptable dans les conditions prévues ci-après :
+La liste d'aptitude est divisée en neuf classes d'emplois groupant tous les emplois d'agent de direction et d'agent comptable dans les conditions prévues ci-après :
 
 Classe A
 
 Directeur d'organismes de catégories A et B.
 
-Classe A-1
+Classe A 1
 
 Agent comptable et directeur adjoint de niveau 3 d'organismes de catégories A et B.
 
 Sous-directeur de niveau 3 d'organismes de catégories A et B.
 
+Classe I 1
+
+Directeur informatique d'organismes de catégories A et B.
+
+Directeur et directeur adjoint de niveau 3 de centres nationaux et régionaux de traitement informatique.
+
 Classe B
 
-Directeur d'organismes de catégories C.
+Directeur d'organismes de catégorie C.
 
-Classe B-1
+Classe B 1
 
-Directeur adjoint de niveau 2 d'organismes de catégories A et B ;
+Directeur adjoint de niveau 2 d'organismes de catégories A et B.
 
-Agent comptable et directeur adjoint de niveau 3 d'organismes de catégorie C ;
+Agent comptable et directeur adjoint de niveau 3 d'organismes de catégorie C.
 
-Sous-directeur de niveau 2 d'organismes de catégories A et B ;
+Sous-directeur de niveau 2 d'organismes de catégories A et B.
 
-Sous-directeur de niveau 3 d'organismes de catégories C.
+Sous-directeur de niveau 3 d'organismes de catégorie C.
+
+Classe I 2
+
+Directeur adjoint de niveau 2 de centres nationaux et régionaux de traitement informatique.
 
 Classe C
 
@@ -62,4 +72,4 @@ L'agent de direction dont l'organisme dans lequel il exerce ses fonctions a ét�
 
 La classe C-2 peut également comprendre l'emploi de sous-directeur de niveau 1 des organismes de catégories A et B lorsque celui-ci implique seulement l'exercice de fonctions comparables à celles exercées par un agent de direction de niveau 1 d'organismes de catégories C ou D.
 
-L'emploi de directeur de centre de traitement de l'information est considéré relever de la classe afférente à l'emploi de directeur adjoint de la caisse adhérente la plus élevée, sauf exception prévue par décision ministérielle.
+Sous réserve des dispositions du premier alinéa de l'article  5 ci-dessous, les emplois relevant de la classe I 1 et les emplois relevant de la classe I 2 peuvent être également exercés, respectivement, par des agents inscrits dans la classe A 1 ou agréés dans des fonctions de cette classe et par des agents inscrits dans la classe B 1 ou agréés dans des fonctions de cette classe.
