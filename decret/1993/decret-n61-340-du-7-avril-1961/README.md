@@ -2,3 +2,4 @@
 
 - [CHAPITRE 1ER : Dispositions générales.](chapitre-1er)
 - [CHAPITRE III : Dispositions diverses.](chapitre-iii)
+- [Article 24](article-24.md)

@@ -1,3 +1,0 @@
-# Article 17
-
-L'article L. 23-1 du code de la route est applicable dans les territoires mentionnés à l'article 1er.

@@ -448,6 +448,7 @@
 - [Arrêté du 22 mars 1993 (ECOC9300027A)](arrete-du-22-mars-1993-ecoc9300027a)
 - [Arrêté du 22 mars 1993 (EQUP9300029A)](arrete-du-22-mars-1993-equp9300029a)
 - [Arrêté du 22 mars 1993 (JUSF9350077A)](arrete-du-22-mars-1993-jusf9350077a)
+- [Arrêté du 22 mars 1993 (JUSG9360032A)](arrete-du-22-mars-1993-jusg9360032a)
 - [Arrêté du 22 mars 1993 (MENN9304862A)](arrete-du-22-mars-1993-menn9304862a)
 - [Arrêté du 22 mars 1993 (MERG9300052A)](arrete-du-22-mars-1993-merg9300052a)
 - [Arrêté du 22 mars 1993 (MERP9300051A)](arrete-du-22-mars-1993-merp9300051a)

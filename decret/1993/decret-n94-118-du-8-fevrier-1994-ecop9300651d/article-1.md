@@ -1,0 +1,3 @@
+# Article 1
+
+Les fonctionnaires des douanes qui, amenés à quitter leur direction à la suite du transfert à la direction générale des impôts de la gestion et du recouvrement de la T.V.A. intracommunautaire, sont placés en détachement au plus tard au 31 mars 1994 dans un des corps de la direction générale des impôts, des services déconcentrés du Trésor, de la direction générale de la concurrence, de la consommation et de la répression des fraudes et de l'Institut national de la statistique et des études économiques peuvent être intégrés dans ce corps, après avis de la commission administrative paritaire compétente, dans les conditions fixées par le présent décret.
