@@ -1,3 +1,0 @@
-# Article 8
-
-Lorsque l'organisme gestionnaire est locataire de l'immeuble siège de son activité, le prix de revient prévisionnel comprend le loyer annuel correspondant à la valeur locative réelle de l'immeuble et des accessoires de ce loyer. Si ce loyer est inférieur à cette valeur, il est tenu compte, dans la limite de celle-ci, du loyer prévu au bail majoré, le cas échéant, d'une somme correspondant à la fraction de dépenses non couverte par le loyer et mise par convention à la charge du locataire, bien qu'incombant normalement au propriétaire. Cette somme peut, le cas échéant, être répartie sur la durée du bail.
