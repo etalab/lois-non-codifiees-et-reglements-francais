@@ -4,7 +4,7 @@ Le personnel médico-technique des établissements mentionnés à l'article 2 de
 
 Relèvent de la catégorie B :
 
-a) Le corps des préparateurs en pharmacie ;
+a) Le corps des préparateurs en pharmacie hospitalière ;
 
 b) Le corps des techniciens de laboratoire ;
 

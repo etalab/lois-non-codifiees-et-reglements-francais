@@ -1,95 +1,73 @@
 # Article 40-1
 
-I.  A compter du 1er août 1994, les préparateurs en pharmacie de classe normale sont reclassés selon le tableau de correspondance qui suit :
+I. - Les préparateurs en pharmacie de classe normale sont reclassés à la date de publication du décret n° 2001-825 du 7 septembre 2001 selon le tableau de correspondance ci-après :
 
-Situation antérieure : Préparateurs en pharmacie de classe normale
+(A) : SITUATION ACTUELLE - Prépatateurs en pharmacie de classe normale
 
-2e échelon exceptionnel
+(B) : SITUATION NOUVELLE - Préparateurs en pharmacie hospitalière de classe normale
 
-Situation nouvelle : Préparateurs en pharmacie de classe normale
+!-----------------------------------------------!
 
-9e
+!  A   !                 B                      !
 
-Ancienneté acquise.
+!------!----------------------------------------!
 
-Situation antérieure : Préparateurs en pharmacie de classe normale
+! Eche-! Eche-!     Ancienneté conservée        !
 
-1er échelon exceptionnel
+! -lons! -lons!                                 !
 
-Situation nouvelle : Préparateurs en pharmacie de classe normale
+!------!------!---------------------------------!
 
-8e
+!  9e  !  8e  !  Ancienneté acquise plus 2 ans  !
 
-Ancienneté acquise plus 2 ans.
+!  8e  !  8e  !  Moitié de l'ancienneté acquise !
 
-Situation antérieure : Préparateurs en pharmacie de classe normale
+!  7e  !  7e  !  8/7 de l'ancienneté acquise    !
 
-7e
+!  6e  !  6e  !  8/7 de l'ancienneté acquise    !
 
-Situation nouvelle : Préparateurs en pharmacie de classe normale
+!  5e  !  5e  !  4/3 de l'ancienneté acquise    !
 
-7e
+!  4e  !  4e  !  Ancienneté acquise             !
 
-Ancienneté acquise dans la limite de 3 ans 6 mois.
+!  3e  !  3e  !  Ancienneté acquise             !
 
-Situation antérieure : Préparateurs en pharmacie de classe normale
+!  2e  !  2e  !  Ancienneté acquise             !
 
-6e
+!  1er !  1er !  Ancienneté acquise             !
 
-Situation nouvelle : Préparateurs en pharmacie de classe normale
+!------!------!---------------------------------!
 
-6e
+II. - Les préparateurs en pharmacie situés sur les 1er et 2e échelons exceptionnels de la classe normale sont reclassés à la date de publication du décret n° 2001-825 du 7 septembre 2001 selon le tableau de correspondance ci-après :
 
-7/8 de l'ancienneté acquise.
+(A) : Prépatateurs en pharmacie de classe normale
 
-Situation antérieure : Préparateurs en pharmacie de classe normale
+(B) : Préparateurs en pharmacie hospitalière de classe supérieure
 
-5e
+!---------------------------------------------!
 
-Situation nouvelle : Préparateurs en pharmacie de classe normale
+!  SITUATION   !     SITUATION NOUVELLE       !
 
-5e
+!  ACTUELLE    !                              !
 
-3/4 de l'ancienneté acquise.
+!--------------!----!-------------------------!
 
-Situation antérieure : Préparateurs en pharmacie de classe normale
+!      A       !             B                !
 
-4e
+!--------------!----!-------------------------!
 
-Situation nouvelle : Préparateurs en pharmacie de classe normale
+!   Echelons   !Ech.!  Ancienneté conservée   !
 
-4e
+!--------------!----!-------------------------!
 
-3/4 de l'ancienneté acquise.
+! 2e échelon   !    !                         !
 
-Situation antérieure : Préparateurs en pharmacie de classe normale
+! exceptionnel ! 5e ! Ancienneté acquise      !
 
-3e
+! 1er échelon  ! 4e ! Ancienneté acquise plus !
 
-Situation nouvelle : Préparateurs en pharmacie de classe normale
+! exceptionnel !    !  2 ans                  !
 
-3e
+!--------------!----!-------------------------!
 
-Ancienneté acquise.
-
-Situation antérieure : Préparateurs en pharmacie de classe normale
-
-2e
-
-Situation nouvelle : Préparateurs en pharmacie de classe normale
-
-2e
-
-Ancienneté acquise.
-
-Situation antérieure : Préparateurs en pharmacie de classe normale
-
-1er
-
-Situation nouvelle : Préparateurs en pharmacie de classe normale
-
-1er
-
-Ancienneté acquise.
-
-II.  Les préparateurs en pharmacie de classe fonctionnelle en fonctions au 1er août 1994 conservent la classe, l'échelon et l'ancienneté dans l'échelon qu'ils détenaient à cette date.
+III. - Le nombre des agents reclassés selon le tableau de correspondance figurant au II n'entre pas dans le calcul de la limite mentionnée au deuxième alinéa de l'article 6 du présent décret.
