@@ -54,7 +54,6 @@
 - [Décret n°70-238 du 19 mars 1970](decret-n70-238-du-19-mars-1970)
 - [Décret n°70-239 du 19 mars 1970](decret-n70-239-du-19-mars-1970)
 - [Décret n°70-544 du 19 juin 1970](decret-n70-544-du-19-juin-1970)
-- [Décret n°73-1045 du 19 novembre 1973](decret-n73-1045-du-19-novembre-1973)
 - [Décret n° 70-354 du 21 avril 1970](decret-n-70-354-du-21-avril-1970)
 - [Décret n° 70-360 du 21 avril 1970](decret-n-70-360-du-21-avril-1970)
 - [Décret n°70-251 du 21 mars 1970](decret-n70-251-du-21-mars-1970)
