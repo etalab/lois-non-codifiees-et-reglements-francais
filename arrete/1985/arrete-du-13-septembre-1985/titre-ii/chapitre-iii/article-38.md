@@ -22,4 +22,4 @@ b) Dans le cas d'un pari "jumelé" avec ordre d'arrivée stipulé, si la course 
 
 Pour les formules "champ simplifié" total ou partiel, le parieur doit préciser la place à l'arrivée devant être occupée par le cheval de base.
 
-Les valeurs des formules "champ total" sont déterminées pour chaque course en fonction du nombre de chevaux déclarés partants par le programme officiel de l'hippodrome et la liste officielle du pari mutuel urbain, compte tenu, le cas échéant, des chevaux ne prenant pas part à la course. Ceux des paris englobés dans la formule qui comportent des chevaux n'ayant pas participé à la course sont remboursés après la course.
+Les valeurs des formules "champ total sont déterminées pour chaque course en fonction du nombre de chevaux déclarés partants par le programme officiel de l'hippodrome et la liste officielle du Pari mutuel urbain, compte tenu, le cas échéant, des chevaux déclarés non partants au moment de l'enregistrement du pari. Ceux des paris englobés dans la formule qui comportent des chevaux n'ayant pas participé à la course sont remboursés après la course.

@@ -28,4 +28,6 @@ Si la sélection comporte P chevaux, le "champ partiel d'un cheval" englobe 3 x 
 
 Les valeurs des formules "champ total d'un ou deux chevaux" sont déterminées dès qu'est connu le nombre des chevaux déclarés partants. Ces valeurs ne peuvent plus être modifiées même si avant le départ de la course certains. chevaux étaient retirés.
 
+Cependant, lorsque les paris sont engagés dans un poste d'enregistrement connecté au système central du Pari mutuel urbain fonctionnant en temps réel, les valeurs des formules "champ total d'un ou de deux chevaux sont déterminées pour chaque course en fonction du nombre de chevaux déclarés partants par le programme officiel de l'hippodrome ou la liste officielle du Pari mutuel urbain, compte tenu, le cas échéant, des chevaux déclarés non partants au moment de l'enregistrement du pari.
+
 Ceux des paris englobés dans la formule qui comportent un ou plusieurs chevaux n'ayant pas participé à la course sont traités selon les dispositions de l'article 62 relatif aux chevaux non partants.
