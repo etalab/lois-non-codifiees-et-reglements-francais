@@ -1,4 +1,4 @@
-# Sous-section 1 : Du recrutement par le premier concours interne.
+# Sous-section 1 : Du recrutement par les premiers concours internes et par les premiers concours internes spéciaux
 
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)

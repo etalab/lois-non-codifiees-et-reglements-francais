@@ -6,4 +6,4 @@ Pour les stagiaires qui ont été nommés dans un emploi vacant au titre d'une l
 
 L'organisation générale de la deuxième année de formation professionnelle ainsi que les modalités de sa validation sont fixées par arrêté du ministre chargé de l'éducation.
 
-Les professeurs des écoles stagiaires sont affectés dans un département de l'académie au titre de laquelle ils ont été recrutés. Le choix du département est effectué en fonction des voeux des intéressés et dans l'ordre de leur classement au concours prévu au 1° de l'article 4 du présent décret.
+Les professeurs des écoles stagiaires sont affectés dans un département de l'académie au titre de laquelle ils ont été recrutés. Le choix du département est effectué en fonction des voeux des intéressés et dans l'ordre de leur classement à l'un des concours prévus au 1° de l'article 4 du présent décret.

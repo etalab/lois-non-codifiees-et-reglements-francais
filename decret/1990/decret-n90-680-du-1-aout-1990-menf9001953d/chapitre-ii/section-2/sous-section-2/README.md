@@ -1,4 +1,4 @@
-# Sous-section 2 : Du recrutement par le second concours interne.
+# Sous-section 2 : Du recrutement par les seconds concours internes et par les seconds concours internes spéciaux
 
 - [Article 17-1](article-17-1.md)
 - [Article 17-2](article-17-2.md)
