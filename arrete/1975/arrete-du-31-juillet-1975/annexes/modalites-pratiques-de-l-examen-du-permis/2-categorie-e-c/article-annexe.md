@@ -50,8 +50,6 @@ Le candidat s'assure de la présence des documents suivants (ou facs-similés) e
 
 - attestation(s) d'assurance (2) ;
 
-- notice descriptive du constructeur ;
-
 - manuel ou guide d'utilisation ;
 
 - cartes routières de la région où est implanté le centre d'examen (au 1/200 000).

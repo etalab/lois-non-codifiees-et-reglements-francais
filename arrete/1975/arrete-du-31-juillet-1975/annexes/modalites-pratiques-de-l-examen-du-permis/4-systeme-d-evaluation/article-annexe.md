@@ -18,6 +18,8 @@ Exercice de maniabilité (M) :
 
 Le résultat final de l'épreuve est obtenu par le cumul des trois notations : (I.E.) + (S) + (M).
 
+" Toutefois, dès que l'interrogation écrite est terminée, celle-ci est immédiatement corrigée par l'inspecteur ; si, pour cette seule interrogation écrite, le candidat a enregistré un total de points de pénalité supérieur à 17, l'examen n'est pas poursuivi et le candidat est ajourné. "
+
 4.2. Conditions d'admissibilité
 
 Le seuil de l'admissibilité est fixé à 15 points. Toutefois, avec 16 ou 17 points de pénalité, le candidat est autorisé à effectuer l'épreuve en circulation.
@@ -34,7 +36,7 @@ Lorsque le candidat échoue à l'épreuve en circulation, deux cas peuvent se pr
 
 il conserve le bénéfice de celle-ci pour deux présentations supplémentaires à l'épreuve en circulation pendant un délai d'un an à compter de la date d'obtention de l'admissibilité ;
 
-2e cas : le candidat a obtenu 16 ou 17 points de pénalité à l'épreuve hors circulation : il doit se représenter à l'ensemble de l'épreuve pratique.
+" 2e cas : le candidat a obtenu 16 ou 17 points de pénalité à l'épreuve hors circulation : il doit se représenter à l'ensemble de l'épreuve pratique, à savoir à l'épreuve hors circulation composée des trois tests prévus au paragraphe 3.1.2 ci-dessus, et à l'épreuve en circulation. "
 
 5. Conditions administratives
 
