@@ -155,6 +155,7 @@
 - [Arrêté du 10 juillet 2000 (MCCB0000389A)](arrete-du-10-juillet-2000-mccb0000389a)
 - [Arrêté du 10 mars 2000 (AGRM0000602A)](arrete-du-10-mars-2000-agrm0000602a)
 - [Arrêté du 10 novembre 1999 (ECOI9900528A)](arrete-du-10-novembre-1999-ecoi9900528a)
+- [Arrêté du 10 octobre 2000 (MENS0002592A)](arrete-du-10-octobre-2000-mens0002592a)
 - [Arrêté du 10 mai 2000 (ATEP0090167A)](arrete-du-10-mai-2000-atep0090167a)
 - [Arrêté du 10 mai 2000 (ECOC0000042A)](arrete-du-10-mai-2000-ecoc0000042a)
 - [Arrêté du 10 mai 2000 (EQUS0000777A)](arrete-du-10-mai-2000-equs0000777a)
