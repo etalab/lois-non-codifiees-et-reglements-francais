@@ -172,6 +172,8 @@
 - [Décret n°88-900 du 24 août 1988 (ECOB8820009D)](decret-n88-900-du-24-aout-1988-ecob8820009d)
 - [Décret n°88-1006 du 25 octobre 1988 (INDA8800513D)](decret-n88-1006-du-25-octobre-1988-inda8800513d)
 - [Décret n°88-1008 du 25 octobre 1988 (MAEJ8830066D)](decret-n88-1008-du-25-octobre-1988-maej8830066d)
+- [Décret n°88-1062 du 25 novembre 1988 (PRMC8805100D)](decret-n88-1062-du-25-novembre-1988-prmc8805100d)
+- [Décret n°88-1063 du 25 novembre 1988 (TRSA8800388D)](decret-n88-1063-du-25-novembre-1988-trsa8800388d)
 - [Décret n°88-1014 du 26 octobre 1988 (DOMP8800041D)](decret-n88-1014-du-26-octobre-1988-domp8800041d)
 - [Décret n°88-1011 du 27 octobre 1988 (AGRP8801834D)](decret-n88-1011-du-27-octobre-1988-agrp8801834d)
 - [Décret n°87-361 du 27 mai 1987 (AGRS8700949D)](decret-n87-361-du-27-mai-1987-agrs8700949d)
