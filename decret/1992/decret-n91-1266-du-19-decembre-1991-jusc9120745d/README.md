@@ -2,6 +2,7 @@
 
 - [TITRE Ier : L'aide juridictionnelle](titre-ier)
 - [TITRE II : Les conseils de l'aide juridique](titre-ii)
-- [TITRE III : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.](titre-iii)
-- [TITRE IV : Dispositions diverses et transitoires.](titre-iv)
+- [TITRE III : Les conseils de l'aide juridique](titre-iii)
+- [TITRE IV : Dispositions particulières aux départements du Bas-Rhin, du Haut-Rhin et de la Moselle.](titre-iv)
+- [TITRE V : Dispositions diverses et transitoires.](titre-v)
 - [Article 173](article-173.md)
