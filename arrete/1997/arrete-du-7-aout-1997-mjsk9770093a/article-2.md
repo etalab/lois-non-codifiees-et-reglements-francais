@@ -1,5 +1,25 @@
 # Article 2
 
-Les catégories d'informations nominatives enregistrées sont les suivantes :
+Les informations nominatives enregistrées dans ce fichier sont les suivantes, quel que soit le résultat de l'examen :
 
-Le nom, le(s) prénom(s) et la date de naissance de chaque personne admissible, admise ou ayant échoué aux différents brevets et diplômes délivrés sous le contrôle du ministre de la jeunesse et des sports.
+- nom ;
+
+- prénom ;
+
+- date et lieu de naissance ;
+
+- sexe ;
+
+- adresse du domicile ;
+
+- numéro de téléphone ;
+
+- courrier ;
+
+- diplôme(s) préparé(s) ;
+
+- diplôme(s) obtenu(s) ;
+
+- date(s) d'obtention ;
+
+- direction régionale ayant délivré le(s) diplôme(s).

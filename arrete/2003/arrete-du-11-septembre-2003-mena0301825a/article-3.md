@@ -1,6 +1,6 @@
 # Article 3
 
-Excepté pour ce qui concerne les agents non titulaires mentionnés aux b et d du 2° de l'article 2 ci-dessus et les agents contractuels hors catégorie mentionnés au c du 2° de l'article 2 ci-dessus, les pouvoirs délégués aux recteurs d'académie pour la gestion des agents non titulaires mentionnés aux 1° et 2° de l'article 2 ci-dessus sont les suivants :
+Excepté pour ce qui concerne les agents non titulaires mentionnés aux b et d du 2° de l'article 2 ci-dessus et les agents contractuels hors catégorie mentionnés au c du 2° de l'article 2 ci-dessus, les pouvoirs délégués aux recteurs d'académie pour la gestion des agents non titulaires mentionnés à l'article 2 ci-dessus sont les suivants :
 
 1° Etablissement des avenants éventuels aux contrats ;
 

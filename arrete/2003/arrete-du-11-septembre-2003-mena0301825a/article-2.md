@@ -13,3 +13,5 @@ b) Médecins contractuels de santé scolaire régis par le décret du 27 mars 19
 c) Agents contractuels hors catégorie et de 1re, 2e, 3e et 4e catégories recrutés en application de la circulaire du 9 mars 1976 susvisée ;
 
 d) Agents contractuels de l'UGAP affectés dans les services déconcentrés et les établissements du ministère chargé de l'éducation nationale en application du décret du 30 juillet 1985 susvisé.
+
+3° Agents non titulaires recrutés sur le fondement de l'article 2 de la loi n° 2003-478 du 5 juin 2003 précitée.
