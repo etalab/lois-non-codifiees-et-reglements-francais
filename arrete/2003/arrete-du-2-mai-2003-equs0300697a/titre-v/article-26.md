@@ -1,0 +1,5 @@
+# Article 26
+
+En application de l'article 6 de la directive 95/1/CE susvisée et de l'article R. 311-1 du code de la route, les motocyclettes dont le certificat de conformité à un type ayant fait l'objet d'une réception CE indique une puissance conventionnelle à la roue Pr déclarée par le constructeur supérieure à 73,6 kW ne peuvent être immatriculées en France. De même, ne peuvent faire l'objet d'une réception nationale à titre isolé que les motocyclettes dont la puissance conventionnelle à la roue Pr n'excède pas 73,6 kW.
+
+La puissance conventionnelle à la roue Pr est déterminée comme suit à partir de la puissance nette Po du moteur mesurée conformément aux dispositions de la directive 95/1/CE susvisée : Pr = hPo - 1,5 (kW) si la motocyclette est équipée d'une boîte de vitesses à transmission non fluide, ou Pr = hthcPo - 2 (kW) pour les autres motocyclettes (ht étant le rendement de la boîte calculé conventionnellement conformément aux dispositions de la directive 95/1, et hc le rendement du coupleur ou convertisseur hydraulique non verrouillé).
