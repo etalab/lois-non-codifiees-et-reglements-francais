@@ -4,7 +4,7 @@ Diplôme d'expertise comptable (ancien diplôme d'expert-comptable).
 
 Tous baccalauréats de technicien.
 
-Pour l'accès à la formation de laborantin d'analyses médicales seulement :
+Pour l'accès à la formation de technicien en analyses biomédicales seulement :
 
 - brevet d'enseignement industriel d'aide biochimiste ;
 
