@@ -13,5 +13,6 @@
 - [Chapitre XI : Registre national des brevets.](chapitre-xi)
 - [Chapitre XII : Du certificat d'addition.](chapitre-xii)
 - [Chapitre XIII : Du certificat d'utilité.](chapitre-xiii)
+- [Chapitre XV : Recours en restauration et recours contre les décisions du directeur de l'Institut national de la propriété industrielle.](chapitre-xv)
 - [Chapitre XIV : Taxes et redevances.](chapitre-xiv)
 - [Chapitre XVII : Dispositions diverses.](chapitre-xvii)
