@@ -48,6 +48,5 @@
 - [Loi n° 91-772 du 7 août 1991 (SPSX9100026L)](loi-n-91-772-du-7-aout-1991-spsx9100026l)
 - [Loi n°90-1129 du 19 décembre 1990 (EQUX9000054L)](loi-n90-1129-du-19-decembre-1990-equx9000054l)
 - [Loi n°91-411 du 2 mai 1991 (MERX9000094L)](loi-n91-411-du-2-mai-1991-merx9000094l)
-- [Loi n°91-429 du 13 mai 1991 (INTX9100005L)](loi-n91-429-du-13-mai-1991-intx9100005l)
 - [Loi n°91-6 du 4 janvier 1991 (DOMX9000091L)](loi-n91-6-du-4-janvier-1991-domx9000091l)
 - [Loi n°91-71 du 18 janvier 1991 (JUSX9000073L)](loi-n91-71-du-18-janvier-1991-jusx9000073l)
