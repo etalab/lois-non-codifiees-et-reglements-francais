@@ -18,6 +18,7 @@
 - [Arrêté du 5 janvier 1990 (PTTT9000023A)](arrete-du-5-janvier-1990-pttt9000023a)
 - [Arrêté du 5 novembre 1989 (SPSS9000023A)](arrete-du-5-novembre-1989-spss9000023a)
 - [Arrêté du 5 septembre 1991 (SANH9101415A)](arrete-du-5-septembre-1991-sanh9101415a)
+- [Arrêté du 6 décembre 1989 (SPSH9000054A)](arrete-du-6-decembre-1989-spsh9000054a)
 - [Arrêté du 7 décembre 1989 (MENH8902879A)](arrete-du-7-decembre-1989-menh8902879a)
 - [Arrêté du 7 décembre 1989 (RESY8900367A)](arrete-du-7-decembre-1989-resy8900367a)
 - [Arrêté du 8 août 1990 (SPSH9001687A)](arrete-du-8-aout-1990-spsh9001687a)

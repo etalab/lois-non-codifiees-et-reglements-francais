@@ -89,6 +89,7 @@
 - [Décret n°89-946 du 22 décembre 1989 (AGRB8902594D)](decret-n89-946-du-22-decembre-1989-agrb8902594d)
 - [Décret n°89-948 du 22 décembre 1989 (BUDF8900010D)](decret-n89-948-du-22-decembre-1989-budf8900010d)
 - [Décret n°90-80 du 22 janvier 1990 (AGRS9000039D)](decret-n90-80-du-22-janvier-1990-agrs9000039d)
+- [Décret n°90-82 du 22 janvier 1990 (PRMX8900173D)](decret-n90-82-du-22-janvier-1990-prmx8900173d)
 - [Décret n°91-704 du 23 juillet 1991 (INTC9100270D)](decret-n91-704-du-23-juillet-1991-intc9100270d)
 - [Décret n°91-705 du 23 juillet 1991 (INTC9100272D)](decret-n91-705-du-23-juillet-1991-intc9100272d)
 - [Décret n°90-92 du 24 janvier 1990 (MENN8902941D)](decret-n90-92-du-24-janvier-1990-menn8902941d)
