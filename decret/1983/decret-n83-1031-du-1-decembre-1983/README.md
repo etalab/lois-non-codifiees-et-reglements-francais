@@ -1,6 +1,7 @@
 # Décret n°83-1031 du 1 décembre 1983 relatif au Fonds d'intervention et d'organisation des marchés des produits de la pêche maritime et des cultures maritimes
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
