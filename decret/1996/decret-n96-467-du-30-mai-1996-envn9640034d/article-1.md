@@ -1,0 +1,11 @@
+# Article 1
+
+Sont classées en parc naturel régional, pour une durée de dix ans à compter de la signature du présent décret, sous la dénomination de parc naturel régional Loire-Anjou-Touraine, les 136 communes suivantes dont le territoire est inclus en totalité :
+
+Dans le département d'Indre-et-Loire, soixante-six communes :
+
+Assay, Avoine, Avon-les-Roches, Avrillé-les-Ponceaux, Azay-le-Rideau, Beaumont-en-Véron, Benais, Bourgueil, Braslou, Braye-sous-Faye, Bréhémont, Brizay, Candes-Saint-Martin, Champigny-sur-Veude, La Chapelle-aux-Naux, La Chapelle-sur-Loire, Chaveignes, Cheillé, Chézelles, Chinon, Chouzé-sur-Loire, Cinais, Continvoir, Courcoué, Couziers, Cravant-les-Coteaux, Crissay-sur-Manse, Crouzilles, Faye-la-Vineuse, Gizeux, Huismes, L'Ile-Bouchard, Ingrandes-de-Touraine, Jaulnay, Lémeré, Lerné, Lignières-de-Touraine, Ligré, Luzé, Marçay, Marigny-Marmande, Panzoult, Parçay-sur-Vienne, Razines, Restigné, Richelieu, Rigny-Ussé, Rilly-sur-Vienne, Rivarennes, Rivière, La Roche-Clermault, Saint-Benoît-la-Forêt, Saint-Germain-sur-Vienne, Saint-Michel-sur-Loire, Saint-Nicolas-de-Bourgueil, Saint-Patrice, Savigny-en-Véron, Seuilly, Tavant, Theneuil, Thizay, La Tour-Saint-Gelin, Vallères, Verneuil-le-Château, Villaines-les-Rochers, Villandry ;
+
+Dans le département de Maine-et-Loire, soixante-dix communes :
+
+Allonnes, Ambillou-Château, Andard, Antoigné, Artannes-sur-Thouet, Beaufort-en-Vallée, Blou, La Bohalle, Brain-sur-Allonnes, Brain-sur-l'Authion, La Breille-les-Pins, Brézé, Brigné, Brion, Brossay, Chacé, Chemellier, Chênehutte-Trèves-Cunault, Cizay-la-Madeleine, Corné, Le Coudray-Macouard, Coutures, Courchamps, La Daguenière, Denezé-sous-Doué, Distré, Doué-la-Fontaine, Epieds, Fontaine-Guérin, Fontevraud-l'Abbaye, Forges, Gée, Gennes, Grézillé, Longué-Jumelles, Louerre, Louresse-Rochemenier, Mazé, Meigné-sous-Doué, La Ménitré, Montfort, Montreuil-Bellay, Montsoreau, Neuillé, Noyant-la-Plaine, Parnay, Le Puy-Notre-Dame, Les Rosiers-sur-Loire, Rou-Marson, Saint-Clément-des-Levées, Saint-Cyr-en-Bourg, Saint-Georges-des-Sept-Voies, Saint-Georges-du-Bois, Saint-Just-sur-Dive, Saint-Macaire-du-Bois, Saint-Martin-de-la-Place, Saint-Mathurin-sur-Loire, Saint-Philbert-du-Peuple, Saint-Rémy-la-Varenne, Saumur, Souzay-Champigny, Le Thoureil, Turquant, Les Ulmes, Varennes-sur-Loire, Varrains, Vaudelnay, Verrie, Villebernier, Vivy.
