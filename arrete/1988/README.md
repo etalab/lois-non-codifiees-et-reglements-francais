@@ -396,6 +396,7 @@
 - [Arrêté du 18 novembre 1987 (INTE8700373A)](arrete-du-18-novembre-1987-inte8700373a)
 - [Arrêté du 18 novembre 1988 (AGRS8801984A)](arrete-du-18-novembre-1988-agrs8801984a)
 - [Arrêté du 18 octobre 1988 (DOME8800039A)](arrete-du-18-octobre-1988-dome8800039a)
+- [Arrêté du 18 octobre 1988 (ECOZ8800040A)](arrete-du-18-octobre-1988-ecoz8800040a)
 - [Arrêté du 19 août 1988 (JUSA8800169A)](arrete-du-19-aout-1988-jusa8800169a)
 - [Arrêté du 19 avril 1988 (AGRG8800565A)](arrete-du-19-avril-1988-agrg8800565a)
 - [Arrêté du 19 avril 1988 (AGRG8800566A)](arrete-du-19-avril-1988-agrg8800566a)
