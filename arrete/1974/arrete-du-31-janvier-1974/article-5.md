@@ -1,5 +1,7 @@
 # Article 5
 
-Les réserves des fonds sociaux des caisses résultant de la réglementation en vigueur antérieurement au 1er janvier 1973 peuvent être utilisées par les caisses pour toute action individuelle ou collective prévue par le présent arrêté.
+Le cycle préparatoire est destiné, d'une part, à vérifier l'aptitude des candidats à recevoir avec fruit la formation d'ingénieur et, d'autre part, à leur apporter les compléments de connaissances nécessaires pour accéder au cycle terminal.
 
-Toutefois, les actions à caractère collectif ne peuvent être engagées par les caisses locales interprofessionnelles ou des caisses professionnelles, au moyen des réserves susvisées, qu'après autorisation des caisses nationales.
+D'une durée totale de six à dix-huit mois, il comprend une préparation individuelle et, dans toute la mesure du possible, des périodes de regroupement. Il commence au plus tôt après deux ans et demi d'activité professionnelle telle que définie à l'article 4 ci-dessus. Les travailleurs admis au cycle préparatoire continuent à exercer leur emploi.
+
+Le cycle préparatoire est défini par l'établissement ou les établissements associés dispensant la formation visée à l'article 2. Il est organisé par ces mêmes établissements ou par des organismes ayant passé convention par eux.

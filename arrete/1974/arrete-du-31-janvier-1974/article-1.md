@@ -1,3 +1,3 @@
 # Article 1
 
-Le prélèvement affecté à l'action sociale des caisses d'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales en application de l'article L. 663-4 du code de la sécurité sociale susvisé est utilisé dans les conditions fixées par les articles 2 à 4 ci-après.
+Un diplôme d'ingénieur peut être délivré dans les conditions fixées aux articles suivants, aux travailleurs salariés ou non engagés dans la formation professionnelle continue, par un établissement ou un groupe d'établissements associés à cet effet. Ces établissements peuvent être soit des institutions déjà habilitées à délivrer un diplôme d'ingénieur, soit des écoles spécialement ouvertes à cette fin. Les unes comme les autres doivent être autorisées à délivrer ce diplôme conformément aux dispositions de la loi du 10 juillet 1934.

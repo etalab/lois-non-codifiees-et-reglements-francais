@@ -1,9 +1,6 @@
-# Arrêté du 26 février 1974 fixant les règles techniques et de sécurité applicables au stockage et à l'utilisation de produits pétroliers dans les lieux non visés par la législation des établissements dangereux, insalubres ou incommodes et de la réglementation des établissements recevant du public - Annexe A.
+# Arrêté du 26 février 1974 relatif à la construction et aux conditions de location des logements-foyers réalisés avec le bénéfice des primes convertibles en bonifications d'intérêt et de prêts spéciaux.
 
-- [Article 1](article-1.md)
 - [I - Caractéristiques techniques et prix des logements-foyers.](i)
-- [Article 2](article-2.md)
-- [II - Montants et caractéristiques des prêts à la construction de logements-foyers.](ii)
 - [Article 3](article-3.md)
 - [III. - Conditions de location et de gestion des logements-foyers.](iii)
 - [Article 4](article-4.md)
@@ -12,10 +9,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Différents types de réservoirs](differents-types-de-reservoirs)
-- [Domaine d'application *champ*](domaine-d-application-champ)
-- [Equipement des réservoirs](equipement-des-reservoirs)
-- [Règles de construction et d'essais des différents types de réservoirs](regles-de-construction-et)
-- [Formalités administratives](formalites-administratives)
-- [Règles d'implantation du stockage.](regles-d-implantation-du-stockage)
-- [Règles particulières.](regles-particulieres)
