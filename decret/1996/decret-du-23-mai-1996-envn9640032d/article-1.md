@@ -32,7 +32,7 @@ Département de la Manche :
 
 Canton de Barenton : Barenton, Ger, Saint-Georges-de-Rouellé ;
 
-Canton de Mortain : Saint-Jean-du-Corail.
+Canton de Mortain : Bion, Saint-Jean-du-Corail.
 
 Département de la Mayenne :
 

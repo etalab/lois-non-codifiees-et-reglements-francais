@@ -257,6 +257,7 @@
 - [Arrêté du 8 mars 1996 (FCEC9600049A)](arrete-du-8-mars-1996-fcec9600049a)
 - [Arrêté du 8 mars 1996 (TASS9620822A)](arrete-du-8-mars-1996-tass9620822a)
 - [Arrêté du 8 novembre 1996 (AGRG9602413A)](arrete-du-8-novembre-1996-agrg9602413a)
+- [Arrêté du 8 novembre 1996 (ECOT9620042A)](arrete-du-8-novembre-1996-ecot9620042a)
 - [Arrêté du 8 novembre 1996 (ECOT9651550A)](arrete-du-8-novembre-1996-ecot9651550a)
 - [Arrêté du 8 novembre 1996 (TASS9623984A)](arrete-du-8-novembre-1996-tass9623984a)
 - [Arrêté du 8 octobre 1996 (DEFB9602041A)](arrete-du-8-octobre-1996-defb9602041a)
