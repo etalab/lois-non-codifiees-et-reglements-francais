@@ -33,6 +33,7 @@
 - [Arrêté du 9 janvier 1989 (PTTT8900028A)](arrete-du-9-janvier-1989-pttt8900028a)
 - [Arrêté du 9 janvier 1989 (SPSS8900065A)](arrete-du-9-janvier-1989-spss8900065a)
 - [Arrêté du 9 mai 1989 (MENK8970039A)](arrete-du-9-mai-1989-menk8970039a)
+- [Arrêté du 10 février 1989 (SPSS8900231A)](arrete-du-10-fevrier-1989-spss8900231a)
 - [Arrêté du 10 janvier 1989 (EQUP8800855A)](arrete-du-10-janvier-1989-equp8800855a)
 - [Arrêté du 10 janvier 1989 (MENE8801688A)](arrete-du-10-janvier-1989-mene8801688a)
 - [Arrêté du 10 janvier 1989 (PRME8961135A)](arrete-du-10-janvier-1989-prme8961135a)
