@@ -1,5 +1,0 @@
-# Article 4
-
-Lorsque les coquillages récoltés ou pêchés dans une zone A ou B par un producteur sont transportés ou transférés par celui-ci à destination de sa propre entreprise, ils peuvent être accompagnés d'une autorisation permanente de transport conforme, selon qu'il s'agit d'un transport visé au deuxième alinéa de l'article 1er ou d'un transfert visé au troisième alinéa de ce même article, aux modèles figurant aux annexes IV et V, qui se substitue au bon de transport mentionné à l'article 2, sous réserve que chaque transport fasse l'objet d'un enregistrement.
-
-Les autorisations permanentes de transport sont délivrées par le directeur des affaires maritimes du département siège de l'entreprise ou, le cas échéant, du lieu où se situe l'activité principale de l'entreprise de production, ou par l'agent habilité auquel il aura délégué sa signature à cet effet. Leur validité est au maximum de 12 mois, sous réserve des dispositions de l'article 5. Elles peuvent être suspendues en cas d'infraction à la réglementation.
