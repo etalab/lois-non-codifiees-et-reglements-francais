@@ -21,6 +21,7 @@
 - [Arrêté du 19 mars 1962](arrete-du-19-mars-1962)
 - [Arrêté du 23 août 1962](arrete-du-23-aout-1962)
 - [Arrêté du 25 avril 1962](arrete-du-25-avril-1962)
+- [Arrêté du 25 juillet 1962](arrete-du-25-juillet-1962)
 - [Arrêté du 27 février 1962](arrete-du-27-fevrier-1962)
 - [Arrêté du 27 juin 1962](arrete-du-27-juin-1962)
 - [Arrêté du 28 février 1962](arrete-du-28-fevrier-1962)
