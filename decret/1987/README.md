@@ -151,6 +151,7 @@
 - [Décret n°87-226 du 27 mars 1987 (BUDB8720001D)](decret-n87-226-du-27-mars-1987-budb8720001d)
 - [Décret n°87-228 du 27 mars 1987 (INTB8700085D)](decret-n87-228-du-27-mars-1987-intb8700085d)
 - [Décret n°87-229 du 27 mars 1987 (ASES8700487D)](decret-n87-229-du-27-mars-1987-ases8700487d)
+- [Décret n°87-289 du 27 avril 1987 (STFS8700644D)](decret-n87-289-du-27-avril-1987-stfs8700644d)
 - [Décret n°87-41 du 28 janvier 1987](decret-n87-41-du-28-janvier-1987)
 - [Décret n°87-42 du 28 janvier 1987 (MERE8700002D)](decret-n87-42-du-28-janvier-1987-mere8700002d)
 - [Décret n°87-728 du 28 août 1987 (FPPA8700026D)](decret-n87-728-du-28-aout-1987-fppa8700026d)
