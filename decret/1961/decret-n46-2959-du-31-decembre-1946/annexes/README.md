@@ -17,6 +17,7 @@
 - [66° AFFECTIONS RESPIRATOIRES PROFESSIONNELLES DE MECANISME ALLERGIQUE.](66-affections-respiratoires-professionnelles-de-mecanisme-allergique)
 - [76° Maladies infectieuses contractées en milieu d'hospitalisation.](76-maladies-infectieuses-contractees-en-milieu-d-hospitalisation)
 - [33. MALADIES PROFESSIONNELLES DUES AU BERYLLIUM ET A SES COMPOSES.](33-maladies-professionnelles-dues-au)
+- [5. AFFECTIONS PROFESSIONNELLES LIEES AU CONTACT AVEC LE PHOSPHORE ET LE SESQUISULFURE DE PHOSPHORE.](5-affections-professionnelles-liees-au)
 - [75° Affections professionnelles résultant de l'exposition au sélénium et à ses dérivés minéraux.](75-affections-professionnelles-resultant-de-l-exposition-au)
 - [52. AFFECTIONS CONSECUTIVES AUX OPERATIONS DE POLYMERISATION DU CHLORURE DE VINYLE.](52-affections-consecutives-aux)
 - [70. AFFECTIONS RESPIRATOIRES DUES AUX POUSSIERES DE CARBURES METALLIQUES FRITTES](70-affections-respiratoires-dues-aux)
