@@ -1,6 +1,7 @@
 # 1994
 
 - [Arrêté du 1 février 1994 (RESM9400075A)](arrete-du-1-fevrier-1994-resm9400075a)
+- [Arrêté du 1 février 1994 (TEFE9400118A)](arrete-du-1-fevrier-1994-tefe9400118a)
 - [Arrêté du 1 mars 1994 (SPSH9400685A)](arrete-du-1-mars-1994-spsh9400685a)
 - [Arrêté du 1 mars 1994 (SPSH9400686A)](arrete-du-1-mars-1994-spsh9400686a)
 - [Arrêté du 2 février 1994 (ECOT9451328A)](arrete-du-2-fevrier-1994-ecot9451328a)
@@ -108,6 +109,7 @@
 - [Arrêté du 20 janvier 1994 (AGRG9400036A)](arrete-du-20-janvier-1994-agrg9400036a)
 - [Arrêté du 20 janvier 1994 (AGRG9400037A)](arrete-du-20-janvier-1994-agrg9400037a)
 - [Arrêté du 20 janvier 1994 (ENVP9320424A)](arrete-du-20-janvier-1994-envp9320424a)
+- [Arrêté du 20 janvier 1994 (INTD9400076A)](arrete-du-20-janvier-1994-intd9400076a)
 - [Arrêté du 21 décembre 1993 (EQUS9301875A)](arrete-du-21-decembre-1993-equs9301875a)
 - [Arrêté du 21 décembre 1993 (EQUU9301426A)](arrete-du-21-decembre-1993-equu9301426a)
 - [Arrêté du 21 décembre 1993 (TEFT9301288A)](arrete-du-21-decembre-1993-teft9301288a)
