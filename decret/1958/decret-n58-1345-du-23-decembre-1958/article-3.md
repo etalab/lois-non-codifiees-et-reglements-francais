@@ -1,5 +1,5 @@
 # Article 3
 
-Les contrats intervenus entre les agents commerciaux et leurs mandants sont conclus dans l'intérêt commun des parties [*mandat d'intérêt commun*].
+Le mandant remet à l'agent commercial un relevé des commissions dues, au plus tard le dernier jour du mois suivant le trimestre au cours duquel elles sont acquises *contrôle du calcul des commissions*. Ce relevé mentionne tous les éléments sur la base desquels le montant des commissions a été calculé.
 
-Leur résiliation par le mandant, si elle n'est pas justifiée par une faute du mandataire, ouvre droit au profit de ce dernier, nonobstant toute clause contraire, à une indemnité compensatrice du préjudice subi.
+L'agent commercial a le droit d'exiger de son mandant qu'il lui fournisse toutes les informations, en particulier un extrait des documents comptables, nécessaires pour vérifier le montant des commissions qui lui sont dues.

@@ -1,9 +1,5 @@
 # Article 2
 
-L'agent commercial a le droit d'accepter la représentation de nouveaux mandants sans avoir a en référer. Toutefois, il ne peut accepter la représentation d'une entreprise concurrente de celle d'un de ses mandants sans accord de ce dernier [*rapports entre l'agent commercial et ses mandants*].
+Le mandant doit mettre à la disposition de l'agent commercial toute documentation utile sur les produits ou services qui font l'objet du contrat d'agence *obligation réciproque d'information*.    Il doit communiquer à l'agent commercial les informations nécessaires à l'exécution du contrat. Il doit, notamment s'il prévoit que le volume des opérations sera sensiblement inférieur à celui auquel l'agent commercial aurait pu normalement s'attendre, l'en aviser dans un délai raisonnable.
 
-Il a également le droit d'effectuer des opérations commerciales pour son propre compte.
-
-Il peut recruter ou employer, sans autorisation, des sous-agents rémunérés par lui. Ces sous-agents sont, suivant les conditions dans lesquelles ils exercent leur activité, soumis aux dispositions des articles 29 k et suivants (1) du livre Ier du code du travail ou à celles du présent décret.
-
-[*(1) voir les articles L. 751-1 à L. 751-15 du Code du travail*].
+Il doit également informer l'agent commercial, dans un délai raisonnable, de son acceptation, de son refus ou de l'inexécution d'une opération que celui-ci lui a apportée.
