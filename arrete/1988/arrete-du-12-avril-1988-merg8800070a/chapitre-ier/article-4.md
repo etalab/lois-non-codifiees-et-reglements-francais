@@ -8,7 +8,7 @@ Le dossier d'inscription du candidat comprend :
 
 Les candidats n'ayant pas la qualité de marin doivent mentionner le quartier des affaires maritimes auquel ils seront rattachés en cas de succès à l'examen.
 
-2° Une fiche individuelle d'état civil et de nationalité française.
+2° Une fiche individuelle d'état civil et de nationalité française ou, s'il y a lieu, d'un Etat membre de la Communauté économique européenne. "
 
 3° Pour les candidats majeurs, un extrait du casier judiciaire (bulletin n° 3) n'ayant pas plus de deux mois de date.
 

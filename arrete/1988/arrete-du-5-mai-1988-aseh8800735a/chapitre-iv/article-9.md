@@ -12,10 +12,6 @@ Les Q.C.M. retenues pour cette épreuve sont de deux types :
 
 Pour les trois sessions de concours consécutives à la date de publication du présent arrêté, l'épreuve comporte 7 Q.C.M. pour chacun des 26 enseignements ainsi que les 29 Q.C.M. Chirurgie et 29 Q.C.M. Physiopathologie. L'immatriculation des questions n'est pas indiquée sur les cahiers d'épreuves.
 
-Pour les concours organisés les années suivantes, l'épreuve comporte 5 Q.C.M. pour chacun des 26 enseignements ainsi que les 35 Q.C.M. Chirurgie et 35 Q.C.M. Physiopathologie.
-
-L'immatriculation des questions n'est pas indiquée sur les cahiers d'épreuves.
-
 2° Epreuve de C.C.Q.C.M. :
 
 Pour les trois sessions de concours consécutives à la date de parution du présent arrêté, l'épreuve comprend de 25 à 45 cas cliniques nécessitant au total la réponse à 180 Q.C.M. au plus.
