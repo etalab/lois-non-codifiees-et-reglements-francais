@@ -1,0 +1,7 @@
+# Article 5
+
+Les périodes d'exercice des fonctions d'instituteur chargé de l'enseignement des techniques spécifiques à l'enseignement des enfants aveugles et déficients visuels donnent lieu à évaluation par une commission désignée par le ministre de l'éducation nationale et composée de l'inspecteur départemental de l'éducation nationale de la circonscription ou, en cas d'impossibilité, d'un inspecteur départemental de l'éducation nationale d'une autre circonscription, président, d'un professeur du Centre national d'études et de formation pour l'enfance inadaptée et d'un instituteur exerçant effectivement dans une classe accueillant des enfants handicapés visuels. L'un au moins de ces deux derniers doit avoir suivi l'instituteur stagiaire dans les conditions prévues à l'article 1er ci-dessus.
+
+La commission statue à la majorité de ses membres. Elle se prononce après avoir recueilli l'avis des formateurs sous la tutelle desquels l'instituteur stagiaire a été placé pendant cette période.
+
+Si elle l'estime nécessaire, elle assiste, avant de se prononcer, à la conduite de sa classe par l'instituteur stagiaire pendant au moins deux heures consécutives et s'entretient avec lui. Cette procédure est obligatoire si l'un au moins des formateurs sous la tutelle desquels a été placé l'instituteur stagiaire le demande. En tout état de cause, une évaluation ne peut être déclarée négative sans qu'il y ait eu recours à cette procédure.

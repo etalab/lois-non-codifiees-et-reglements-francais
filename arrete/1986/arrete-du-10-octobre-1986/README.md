@@ -1,4 +1,4 @@
-# Arrêté du 10 octobre 1986 portant création du service Téléimpression
+# Arrêté du 10 octobre 1986 fixant la composition et le fonctionnement de la commission consultative du judo et jiu-jitsu, de l'aïkido, du karaté et des disciplines assimilées
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,3 +7,7 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-Les dépôts sont effectués par les clients auprès des établissements postaux spécialisés habilités à les recevoir, d'abord, à l'ouverture du service, sous forme de bandes magnétiques uniquement, et par la suite également à partir d'une machine Télétex, d'autres moyens de télétransmission, ou d'autres supports d'information numérisée.
+La commission consultative du judo et jiu-jitsu, de l'aïkido, du karaté et des disciplines assimilées est présidée par le ministre chargé des sports ou son représentant.

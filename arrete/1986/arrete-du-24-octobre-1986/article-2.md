@@ -1,3 +1,3 @@
 # Article 2
 
-La taxe est assise [*assiette*] sur le poids à la réception des graines oléagineuses livrées par les producteurs aux intermédiaires agréés, ramené à la qualité type arrêtée, pour chaque campagne, par le Conseil des communautés économiques européennes, conformément aux dispositions de l'article 22 du règlement du 22 septembre 1966 modifié visé ci-dessus.
+L'arrêté du 12 mars 1985 habilitant certaines autorités du ministère de la défense à signer les autorisations prévues par le décret du 12 mars 1973 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions est abrogé.

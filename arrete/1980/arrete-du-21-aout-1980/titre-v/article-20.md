@@ -1,0 +1,5 @@
+# Article 20
+
+Les fabricants, importateurs ou réparateurs de taximètres, sont tenus de mettre à la disposition des agents du service des instruments de mesure chargés de la vérification primitive partielle des appareils présentés dans leurs ateliers, la main d'oeuvre et le matériel nécessaires aux opérations de ce contrôle. Ils doivent être agréés selon la procédure prévue à l'article 6-1 du décret n° 78-363 du 13 mars 1978, modifié par le décret n° 86-1071 du 24 septembre 1986.
+
+Tout taximètre neuf ou réparé ne peut être soumis à la vérification primitive après installation que s'il a, au préalable, subi avec succès les épreuves de la vérification primitive partielle et en porte la marque. L'installateur ou son représentant est tenu de présenter à l'agent chargé du contrôle le véhicule équipé, en état de marche, aux lieu et heure prescrits, de fournir la main-d'oeuvre et le matériel nécessaires à l'exécution de ce contrôle dans les conditions prescrites par le service des instruments de mesure.
