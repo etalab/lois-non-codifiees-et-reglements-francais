@@ -6,8 +6,8 @@ Les renseignements sont recueillis par l'organisme susmentionné auprès des ét
 
 Lorsque le délai prévu à la première phrase du deuxième alinéa n'est pas respecté, ou lorsque les renseignements fournis par l'établissement teneur de compte sont incomplets ou erronés, l'organisme peut demander l'exécution de l'obligation de communication, sous astreinte, au président du tribunal de grande instance statuant en la forme des référés.
 
-Les renseignements susmentionnés ne peuvent être cédés par la société, même à titre gratuit. Toute violation de cette disposition est punie des peines prévues à l'article 378 du code pénal.
+Les renseignements susmentionnés ne peuvent être cédés par la société, même à titre gratuit. Toute violation de cette disposition est punie des peines prévues aux articles 226-13 et 226-14 du code pénal.
 
-Toute personne participant à un titre quelconque à la direction ou à la gestion de l'organisme susmentionné ou qui est employée par celui-ci est tenue au secret professionnel dans les conditions et sous les peines prévues à l'article 378 du code pénal.
+Toute personne participant à un titre quelconque à la direction ou à la gestion de l'organisme susmentionné ou qui est employée par celui-ci est tenue au secret professionnel dans les conditions et sous les peines fixées à l'article 226-13 et 226-14 du code pénal.
 
 Le secret professionnel ne peut être opposé ni à la commission des opérations de bourse ni à l'autorité judiciaire agissant dans le cadre d'une procédure pénale.
