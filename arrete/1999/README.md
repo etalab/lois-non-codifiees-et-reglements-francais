@@ -593,7 +593,6 @@
 - [Arrêté du 24 février 1999 (MCCH9900269A)](arrete-du-24-fevrier-1999-mcch9900269a)
 - [Arrêté du 24 juin 1999 (ECOT9910376A)](arrete-du-24-juin-1999-ecot9910376a)
 - [Arrêté du 24 juin 1999 (ECOT9994741A)](arrete-du-24-juin-1999-ecot9994741a)
-- [Arrêté du 24 juin 1999 (MESS9921960A)](arrete-du-24-juin-1999-mess9921960a)
 - [Arrêté du 24 novembre 1998 (DEFP9802129A)](arrete-du-24-novembre-1998-defp9802129a)
 - [Arrêté du 24 novembre 1999 (AGRG9902252A)](arrete-du-24-novembre-1999-agrg9902252a)
 - [Arrêté du 24 novembre 1999 (ECOL9900146A)](arrete-du-24-novembre-1999-ecol9900146a)

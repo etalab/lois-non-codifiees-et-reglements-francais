@@ -3,7 +3,6 @@
 - [Décret n°90-112 du 1 février 1990 (PRMX9000004D)](decret-n90-112-du-1-fevrier-1990-prmx9000004d)
 - [Décret n°90-113 du 1 février 1990 (PRMX9010042D)](decret-n90-113-du-1-fevrier-1990-prmx9010042d)
 - [Décret n°90-191 du 1 mars 1990 (PRMX9005005D)](decret-n90-191-du-1-mars-1990-prmx9005005d)
-- [Décret n°90-193 du 1 mars 1990 (EQUT9000003D)](decret-n90-193-du-1-mars-1990-equt9000003d)
 - [Décret n°90-454 du 1 juin 1990 (AGRA9000710D)](decret-n90-454-du-1-juin-1990-agra9000710d)
 - [Décret n°90-467 du 1 juin 1990 (DOMP9000012D)](decret-n90-467-du-1-juin-1990-domp9000012d)
 - [Décret n°90-680 du 1 août 1990 (MENF9001953D)](decret-n90-680-du-1-aout-1990-menf9001953d)

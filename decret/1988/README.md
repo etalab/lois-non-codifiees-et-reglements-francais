@@ -54,7 +54,6 @@
 - [Décret n°88-666 du 6 mai 1988 (ASES8800643D)](decret-n88-666-du-6-mai-1988-ases8800643d)
 - [Décret n°88-673 du 6 mai 1988 (ASES8800725D)](decret-n88-673-du-6-mai-1988-ases8800725d)
 - [Décret n°88-682 du 6 mai 1988 (INDD8800287D)](decret-n88-682-du-6-mai-1988-indd8800287d)
-- [Décret du 7 avril 1988 (TRST8800111D)](decret-du-7-avril-1988-trst8800111d)
 - [Décret n°88-1034 du 7 novembre 1988 (SPSA8801306D)](decret-n88-1034-du-7-novembre-1988-spsa8801306d)
 - [Décret n°88-1106 du 7 décembre 1988 (PRMC8805102D)](decret-n88-1106-du-7-decembre-1988-prmc8805102d)
 - [Décret n°88-321 du 7 avril 1988 (RESK8800250D)](decret-n88-321-du-7-avril-1988-resk8800250d)
