@@ -1,0 +1,3 @@
+# Article 43
+
+En cas d'empêchement, le vice-président du Conseil d'Etat est suppléé par le président de section administrative le premier inscrit au tableau ; le président de la section du contentieux est suppléé par les présidents adjoints de ladite section dans l'ordre d'ancienneté de leurs fonctions ; ces derniers sont suppléés par les présidents de sous-section dans l'ordre d'ancienneté de leurs fonctions, à l'exclusion de celui mentionné à l'article 41 (4°) ci-dessus, le président de sous-section mentionné à l'article 41 (4°) est suppléé par l'un des assesseurs de sa sous-section dans l'ordre du tableau.
