@@ -458,6 +458,7 @@
 - [Décret n°94-255 du 30 mars 1994 (TEFX9400143D)](decret-n94-255-du-30-mars-1994-tefx9400143d)
 - [Décret n°94-273 du 30 mars 1994 (DOME9400004D)](decret-n94-273-du-30-mars-1994-dome9400004d)
 - [Décret n°94-546 du 30 juin 1994 (TEFX9400079D)](decret-n94-546-du-30-juin-1994-tefx9400079d)
+- [Décret n°94-549 du 30 juin 1994 (LOGC9400021D)](decret-n94-549-du-30-juin-1994-logc9400021d)
 - [Décret n°96-966 du 30 octobre 1996 (ACVE9550018D)](decret-n96-966-du-30-octobre-1996-acve9550018d)
 - [Décret du 30 mai 1994 (ECOT9451332D)](decret-du-30-mai-1994-ecot9451332d)
 - [Décret n°94-432 du 30 mai 1994 (EQUU9400940D)](decret-n94-432-du-30-mai-1994-equu9400940d)
