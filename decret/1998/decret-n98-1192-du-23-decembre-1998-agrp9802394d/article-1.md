@@ -1,3 +1,0 @@
-# Article 1
-
-La période visée au premier paragraphe du deuxième alinéa de l'article 1er du règlement (CE) n° 2700/93 de la Commission du 30 septembre 1993 relatif à l'attribution d'une prime au bénéfice des producteurs des viandes ovine et caprine, au cours de laquelle les producteurs peuvent déposer une demande de prime pour bénéficier des dispositions prévues par ce règlement, est la période du 1er janvier au 31 janvier de chaque année. Les demandes doivent être déposées auprès du préfet (direction départementale de l'agriculture et de la forêt) du département dont ressort le siège social de l'exploitation.
