@@ -1,0 +1,3 @@
+# Article 2
+
+Les agents qui n'auront pas usé de la faculté d'option prévue à l'article 1er seront, à compter de la date de promulgation de la loi susvisée du 22 octobre 1974, reclassés dans des emplois régis par le livre IX du code de la santé publique et répondant à leur qualification, selon des correspondances fixées par un ou plusieurs arrêtés conjoints du ministre de la santé et de la sécurité sociale, du ministre de l'intérieur, du ministre de l'économie et des finances et, pour les personnels en fonctions dans les départements relevant de sa compétence, du secrétaire d'Etat auprès du ministre de l'intérieur (Départements et territoires d'outre-mer).

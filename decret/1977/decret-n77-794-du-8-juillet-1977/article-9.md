@@ -1,0 +1,3 @@
+# Article 9
+
+Pour les navires autres que ceux mentionnés à l'article 8 ci-dessus, l'autorité visée à l'article 2 détermine pour chaque navire faisant l'objet d'une demande d'application des dispositions des articles 4, 5 ou 6 du présent décret, après avis de la commission de sécurité compétente et par référence aux dispositions du décret prévu à l'article 1er, s'il peut être donné suite favorable à cette demande. Dans l'affirmative, les dispositions des articles 3 et 7 du présent décret sont alors applicables, la commission de visite annuelle vérifiant que le navire continue à répondre aux conditions qui ont motivé la décision.

@@ -1,0 +1,3 @@
+# Article 5
+
+Sur les navires et engins satisfaisant aux dispositions de l'article 1er ci-dessus, le quart à la machine peut être supprimé aux conditions ci-après : l'effectif du navire ou de l'engin doit comprendre des marins, officiers et subalternes, aptes physiquement et professionnellement, en nombre suffisant pour assurer le maintien et, éventuellement, la remise en bon état de fonctionnement de l'appareil propulsif et des auxiliaires, de même que, dans le cas d'avarie momentanée des dispositifs automatiques, la conduite manuelle de la machine et des auxiliaires pendant la durée de la remise en état desdits dispositifs.
