@@ -1,6 +1,6 @@
 # Article 2
 
-Sont membres de la Commission nationale des rapports locatifs mentionnée à l'article 35 de la loi du 22 juin 1982 susvisée [*composition*] :
+Sont membres de la Commission nationale des rapports locatifs mentionnée à l'article 35 de la loi du 22 juin 1982 susvisée :
 
 a) Pour les organisations nationales représentatives des bailleurs.
 
@@ -27,6 +27,8 @@ La confédération nationale des administrateurs de biens (C.N.A.B.) ;
 La fédération nationale des agents immobiliers (F.N.A.I.M.) ;
 
 L'union nationale des intermédiaires et transactionnaires (U.N.I.T.) ;
+
+Le syndicat national des professionnels immobiliers (S.N.P.I.) ;
 
 c) Pour les organisations nationales représentatives des locataires.
 
