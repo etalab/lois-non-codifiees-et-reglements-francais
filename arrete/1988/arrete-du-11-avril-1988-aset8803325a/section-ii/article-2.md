@@ -1,6 +1,6 @@
 # Article 2
 
-Tout organisme sollicitant l'agrément prévu à l'article 4 (alinéa IV) du décret du 1er février 1988 susvisé doit adresser au ministre chargé du travail un dossier indiquant [*contenu*] :
+Tout organisme sollicitant l'agrément pour le contrôle du plomb dans l'atmosphère prévu à l'article 4 (alinéa IV) du décret du 1er février 1988 susvisé doit adresser au ministre chargé du travail un dossier indiquant :
 
 - la raison sociale de l'organisme et son adresse ;
 
@@ -16,4 +16,4 @@ Tout organisme sollicitant l'agrément prévu à l'article 4 (alinéa IV) du dé
 
 - les résultats des essais de qualité pratiqués par l'organisme sous l'égide de l'Institut national de recherche et de sécurité (I.N.R.S.).
 
-Toute demande d'agrément pour l'année à venir doit être déposée avant le 31 octobre [*date limite*] de l'année en cours.
+Toute demande d'agrément pour l'année à venir doit être déposée avant le 31 octobre de l'année en cours.

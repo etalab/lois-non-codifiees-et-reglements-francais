@@ -14,4 +14,14 @@ Pyracantha angustifolia.
 
 Pyracantha x hybride Venrouge.
 
-Poirier (Pyrus L.) : Les cultivars Durondeau et Passe Crassane.
+Poirier (Pyrus L.) : Les cultivars Durondeau et Passe Crassane.    Malus : les variétés cidricoles :
+
+Argile rouge ;
+
+Blanc sur ;
+
+Doux Normandie ;
+
+Peau de Chien ;
+
+Tardive de la Sarthe.
