@@ -2,4 +2,4 @@
 
 Sont soumises à l'autorisation de l'entreprise de communication audiovisuelle la reproduction de ses programmes, ainsi que leur mise à la disposition du public par vente, louage ou échange, leur télédiffusion et leur communication au public dans un lieu accessible à celui-ci moyennant paiement d'un droit d'entrée.
 
-Sont dénommés entreprises de communication audiovisuelle les organismes prévus au titre III de la loi n° 82-652 du 29 juillet 1982 sur la communication audiovisuelle et les fournisseurs de services de communication audiovisuelle, titulaires d'une concession de service public ou déclarés ou autorisés conformément aux dispositions du titre IV de la même loi.
+Sont dénommés entreprises de communication audiovisuelle les organismes qui exploitent un service de communication audiovisuelle au sens de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, quel que soit le régime applicable à ce service. déclarés ou autorisés conformément aux dispositions du titre IV de la même loi.
