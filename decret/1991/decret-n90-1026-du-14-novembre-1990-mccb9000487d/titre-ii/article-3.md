@@ -22,4 +22,4 @@ La Réunion des musées nationaux est administrée par un conseil d'administrati
 
 Le conseil d'administration élit parmi ses membres un vice-président.
 
-L'administrateur général, le directeur de l'Ecole du Louvre, le contrôleur d'Etat et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative. Le président peut appeler à participer aux séances toute personne dont il juge la présence utile, et notamment les responsables des musées nationaux.
+L'administrateur général, le contrôleur d'Etat et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative. Le président peut appeler à participer aux séances toute personne dont il juge la présence utile, et notamment les responsables des musées nationaux.
