@@ -1,0 +1,5 @@
+# Décret n°95-454 du 25 avril 1995 portant création de la commune de Kouaoua en Nouvelle-Calédonie
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
