@@ -149,6 +149,28 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 </td>
 </tr>
 <tr>
+<td/>
+<td align="center"> Département de la Seine-et-Marne<br/>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Coulommiers <br/>
+</td>
+<td>Toutes les communes des cantons de Coulommiers, La Ferté-Gaucher, Rebais, Rozay-en-Brie. <br/>
+</td>
+<td>Coulommiers  <br/>
+</td>
+</tr>
+<tr>
+<td>Meaux <br/>
+</td>
+<td>Toutes les communes des cantons de Champs-sur-Marne, Chelles, Claye-Souilly, Crécy-la-Chapelle, Dammartin-en-Goële, La Ferté-sous-Jouarre, Lagny-sur-Marne, Lizy-sur-Ourcq, Meaux Nord, Meaux Sud, Mitry-Mory, Noisiel, Torcy, Vaires-sur-Marne. <br/>
+</td>
+<td>Meaux  <br/>
+</td>
+</tr>
+<tr>
 <td width="151">
 <br/>
 <br/>
@@ -295,13 +317,6 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 </td>
 </tr>
 <tr>
-<td valign="top" width="151"/>
-<td width="340">
-<p align="center">Département du Rhône</p>
-</td>
-<td valign="top" width="189"/>
-</tr>
-<tr>
 <td/>
 <td align="center"> Département des Alpes-Maritimes<br/>
 </td>
@@ -338,6 +353,11 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 </td>
 <td>Antibes (1er bureau)  <br/>
 </td>
+</tr>
+<tr>
+<td/>
+<td align="center"> Département du Rhône</td>
+<td/>
 </tr>
 <tr>
 <td valign="top" width="151">

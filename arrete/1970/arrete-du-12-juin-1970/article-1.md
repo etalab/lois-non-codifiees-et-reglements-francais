@@ -2840,7 +2840,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Coulommiers</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Coulommiers, La Ferté-Gaucher, Rebais, Rozay-en-Brie.</p>
+<p>Cantons de Coulommiers, Crécy-la-Chapelle, La Ferté-Gaucher, La Ferté-sous-Jouarre, Lizy-sur-Ourcq, Rebais, Rozay-en-Brie.</p>
 </td>
 </tr>
 <tr>
@@ -2858,7 +2858,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>Meaux </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Champs-sur-Marne, Chelles, Claye-Souilly, Crécy­-la-Chapelle, Dammartin-en-Goêle, La Ferté-sous-Jouarre, Lagny-sur-Marne, Lizy-sur-Ourcq, Meaux-Nord, Meaux-Sud, Mitry-Mory, Noisiel, Torcy, Vaires-sur-Marne.</p>
+<p>Cantons de Champs-sur-Marne, Chelles, Claye-Souilly, Dammartin-en-Goële, Lagny-sur-Marne, Meaux-Nord, Meaux-Sud, Mitry-Mory, Noisiel, Torcy, Vaires-sur-Marne.</p>
 </td>
 </tr>
 <tr>
