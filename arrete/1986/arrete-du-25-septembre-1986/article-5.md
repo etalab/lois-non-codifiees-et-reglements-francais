@@ -1,3 +1,11 @@
 # Article 5
 
-Le directeur des services administratifs et financiers du Premier ministre (Aménagement du territoire) et le directeur de la comptabilité publique au ministère de l'économie, des finances et de la privatisation sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les obligations visées à l'article 2 ci-dessus s'appliquent :
+
+a) A l'affichage public sous toutes ses formes, y compris sur les lieux de vente ou d'exposition ;
+
+b) A l'insertion publicitaire dans les organes de la presse écrite, audiovisuelle et radiophonique ;
+
+c) A la correspondance publicitaire destinée aux particuliers ;
+
+d) Aux imprimés publicitaires distribués dans le public, y compris sur les lieux de vente ou d'exposition.

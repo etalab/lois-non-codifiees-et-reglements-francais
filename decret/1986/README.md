@@ -10,6 +10,7 @@
 - [Décret n°86-10 du 3 janvier 1986](decret-n86-10-du-3-janvier-1986)
 - [Décret n°86-1011 du 3 septembre 1986](decret-n86-1011-du-3-septembre-1986)
 - [Décret n°86-1016 du 3 septembre 1986](decret-n86-1016-du-3-septembre-1986)
+- [Décret n°86-1079 du 3 octobre 1986](decret-n86-1079-du-3-octobre-1986)
 - [Décret n°86-23 du 3 janvier 1986](decret-n86-23-du-3-janvier-1986)
 - [Décret n°86-27 du 3 janvier 1986](decret-n86-27-du-3-janvier-1986)
 - [Décret n°86-28 du 3 janvier 1986](decret-n86-28-du-3-janvier-1986)
