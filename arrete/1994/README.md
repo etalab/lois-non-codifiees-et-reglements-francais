@@ -862,7 +862,6 @@
 - [Arrêté du 22 février 1994 (INDP9400265A)](arrete-du-22-fevrier-1994-indp9400265a)
 - [Arrêté du 22 février 1994 (JUSF9450041A)](arrete-du-22-fevrier-1994-jusf9450041a)
 - [Arrêté du 22 février 1994 (MCCK9300400A)](arrete-du-22-fevrier-1994-mcck9300400a)
-- [Arrêté du 22 juillet 1994 (AGRP9401528A)](arrete-du-22-juillet-1994-agrp9401528a)
 - [Arrêté du 22 juillet 1994 (ECOC9400061A)](arrete-du-22-juillet-1994-ecoc9400061a)
 - [Arrêté du 22 juillet 1994 (EQUP9401068A)](arrete-du-22-juillet-1994-equp9401068a)
 - [Arrêté du 22 juillet 1994 (SPSP9401963A)](arrete-du-22-juillet-1994-spsp9401963a)
