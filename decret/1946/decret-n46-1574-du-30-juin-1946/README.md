@@ -3,6 +3,4 @@
 - [TITRE 1 : DISPOSITIONS GENERALES](titre-1)
 - [TITRE 2 : DES CARTES DE SEJOUR](titre-2)
 - [Article 12](article-12.md)
-- [DES DIFFERENTS TYPES DE CARTES DE SEJOUR.](des-differents-types-de-cartes-de-sejour)
 - [DISPOSITIONS GENERALES](dispositions-generales)
-- [DISPOSITIONS TRANSITOIRES.](dispositions-transitoires)
