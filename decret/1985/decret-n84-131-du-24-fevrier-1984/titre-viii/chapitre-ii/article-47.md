@@ -16,6 +16,6 @@ Le détachement ne peut avoir lieu que dans l'un des cas suivants :
 
 6° Détachement en qualité de praticien hospitalier-universitaire, dans les conditions prévues à l'article 21 ;
 
-7° Détachement auprès d'un établissement privé faisant fonction d'établissement public ou auprès d'un établissement ou d'un organisme privé à but non lucratif participant au service public hospitalier.
+7° Détachement auprès d'un établissement privé faisant fonction d'établissement public ou auprès d'un établissement ou d'un organisme privé à but non lucratif participant au service public hospitalier ou auprès d'un établissement privé entrant dans le champ d'application du I de l'article L. 313-12 du code de l'action sociale et des familles ;
 
 8° Détachement auprès d'un groupement d'intérêt public entrant dans l'un des cas prévus aux articles L. 668-1 (4e alinéa, 2°), L. 710-17 et L. 713-12 du code de la santé publique.

@@ -7,3 +7,5 @@ Il leur est interdit, quelle que soit leur position, d'avoir par eux-mêmes ou p
 Les modalités selon lesquelles les praticiens régis par le présent décret accomplissent leurs obligations de service sont précisées par le règlement intérieur de l'établissement dans lequel ils sont affectés.
 
 En outre, lorsqu'elles comprennent une activité de secteur, ces obligations sont définies par un règlement départemental ou par une convention passée dans des conditions fixées par arrêté du ministre chargé de la santé.
+
+Afin d'assurer la continuité des soins, l'organisation du temps de présence médicale, pharmaceutique et odontologique établie en fonction des caractéristiques propres aux différents services ou départements est arrêtée annuellement par le directeur d'établissement après avis de la commission médicale d'établissement. Un tableau de service nominatif, établi sur cette base, est arrêté mensuellement par le directeur sur proposition du chef de service ou de département.
