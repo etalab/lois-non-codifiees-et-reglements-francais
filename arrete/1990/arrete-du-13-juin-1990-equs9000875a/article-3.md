@@ -4,7 +4,7 @@ Les personnes visées aux articles 1er et 2 ci-dessus doivent présenter à la p
 
 - la photocopie certifiée conforme de leur diplôme professionnel :
 
-toutefois, en ce qui concerne le C.A.P. de conducteur routier, cette photocopie peut être remplacée par une attestation de réussite aux épreuves de ce certificat, délivrée par le préfet ou, par délégation, par l'inspecteur d'académie directeur des services départementaux de l'éducation nationale ;
+toutefois, en ce qui concerne les dipl<CB>mes professionnels énnoncés à l'article 1er ci-dessus, cette photocopie peut être remplacée par une attestation de réussite aux épreuves de ce dipl<CB>me, délivrée par le préfet ou, par délégation, par l'inspecteur d'académie directeur des services départementaux de l'éducation nationale ;
 
 - la justification de leur état civil ;
 
