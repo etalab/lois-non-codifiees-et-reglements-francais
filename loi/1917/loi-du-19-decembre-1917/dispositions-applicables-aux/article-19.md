@@ -1,9 +1,0 @@
-# Article 19
-
-Si l'industriel qui a fait une déclaration pour un établissement de troisième classe veut obtenir la suppression ou l'atténuation de quelques unes des prescriptions des arrêtés préfectoraux qui lui ont été notifiés par application "des dispositions législatives et réglementaires en vigueur", il adresse sa demande au préfet, qui statue sur le rapport du conseil départemental d'hygiène, après avis du service chargé de l'inspection des établissements classés et de celui chargé de l'inspection du travail.
-
-Si les intérêts du voisinage ne sont pas garantis par l'exécution des prescriptions générales contre les inconvénients inhérents à l'exploitation d'un établissement de troisième classe ou si des plaintes se produisent à la suite de la suppression ou de l'atténuation d'une ou plusieurs de ces prescriptions obtenues par un industriel, le préfet peut, sur le rapport du conseil départemental d'hygiène, après avis du service chargé de l'inspection des établissements classés et de celui chargé de l'inspection du travail, soit imposer à l'industriel des prescriptions additionnelles, soit rétablir les prescriptions primitives.
-
-L'industriel ou les tiers intéressés peuvent, dans un délai de deux mois à partir de la notification des arrêtés préfectoraux pris en vertu du présent article ou du troisième paragraphe de l'article précédent, exercer le recours prévu à l'article 14 de la présente loi.
-
-Les établissements de troisième classe, régulièrement autorisés avant l'entrée en application de la présente loi, conserveront le bénéfice de leur autorisation et seront dispensés de toute déclaration ; ils seront soumis aux prescriptions des arrêtés généraux "régulièrement intervenus", sauf la possibilité pour l'industriel de solliciter la modification de ces dispositions dans les conditions et suivant les formes prévues au présent article 19.
