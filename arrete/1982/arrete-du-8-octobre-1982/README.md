@@ -1,10 +1,4 @@
-# Arrêté du 8 octobre 1982 relatif à l'émission d'un emprunt de la caisse centrale des banques populaires
+# Arrêté du 8 octobre 1982 relatif à l'importation des moules congelées, des conserves de moules et des préparations à base de moules originaires d'Espagne
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)
-- [Article 7](article-7.md)
-- [Article 8](article-8.md)

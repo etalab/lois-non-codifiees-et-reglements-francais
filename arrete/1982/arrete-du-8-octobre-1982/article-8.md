@@ -1,3 +1,0 @@
-# Article 8
-
-Les titres seront délivrés sous la forme au porteur ou sous la forme nominative, au choix des souscripteurs [*forme des obligations*].    L'admission de l'emprunt aux opérations de la Sicovam sera demandée. Les obligations qui, en l'absence d'une opposition expresse de leur propriétaire, auront été déposées en compte courant à la Sicovam et seront amorties à l'occasion d'un tirage au sort seront réparties entre les adhérents à cet organisme et affectées par ceux-ci à leurs déposants selon les modalités déterminées par les articles 18 (1) à 18 (4) du décret du 4 août 1949, modifié par le décret du 22 août 1977.

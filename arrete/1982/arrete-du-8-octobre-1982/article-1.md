@@ -1,3 +1,5 @@
 # Article 1
 
-La caisse centrale des banques populaires est autorisée à émettre, pour concourir au financement par les banques populaires de crédit aux artisans, un emprunt obligataire de 450 millions de francs, représenté par des obligations d'une valeur nominale de 5.000 francs.
+L'importation des moules congelées, préparées ou conservées et des préparations à base de moules est soumise à la présentation d'un certificat de salubrité conformément aux dispositions de l'arrêté du 23 janvier 1976 susvisé.
+
+Ce certificat sera complété par une attestation des services espagnols d'océanographie indiquant que la teneur des moules en mytilitoxine est inférieure à 80 microgrammes pour 100 grammes de chair de mollusques.
