@@ -4,5 +4,6 @@
 - [TITRE Ier : Du corps des administrateurs](titre-ier)
 - [Article 2](article-2.md)
 - [TITRE II : Du corps latéral des administrateurs](titre-ii)
+- [Article 3](article-3.md)
 - [TITRE III : Dispositions communes](titre-iii)
 - [Article 25](article-25.md)
