@@ -1,5 +1,6 @@
 # 1999
 
+- [Arrêté du 1 février 1999 (AGRG9900225A)](arrete-du-1-fevrier-1999-agrg9900225a)
 - [Arrêté du 1 mars 2000 (EQUA0000302A)](arrete-du-1-mars-2000-equa0000302a)
 - [Arrêté du 2 décembre 1998 (EQUP9801343A)](arrete-du-2-decembre-1998-equp9801343a)
 - [Arrêté du 2 décembre 1998 (EQUP9801344A)](arrete-du-2-decembre-1998-equp9801344a)
@@ -29,6 +30,8 @@
 - [Arrêté du 7 janvier 1999 (INTF9900030A)](arrete-du-7-janvier-1999-intf9900030a)
 - [Arrêté du 7 janvier 1999 (MESH9920054A)](arrete-du-7-janvier-1999-mesh9920054a)
 - [Arrêté du 8 décembre 1998 (ECOI9801060A)](arrete-du-8-decembre-1998-ecoi9801060a)
+- [Arrêté du 8 février 1999 (AGRD9900235A)](arrete-du-8-fevrier-1999-agrd9900235a)
+- [Arrêté du 8 février 1999 (MEST9910179A)](arrete-du-8-fevrier-1999-mest9910179a)
 - [Arrêté du 8 janvier 1999 (ECOI9900005A)](arrete-du-8-janvier-1999-ecoi9900005a)
 - [Arrêté du 8 janvier 1999 (ECOT9951775A)](arrete-du-8-janvier-1999-ecot9951775a)
 - [Arrêté du 8 janvier 1999 (MESN9920115A)](arrete-du-8-janvier-1999-mesn9920115a)
