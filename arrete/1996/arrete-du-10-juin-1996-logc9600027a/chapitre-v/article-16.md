@@ -10,4 +10,4 @@ En application de l'article R. 331-9 du code de la construction et de l'habitat,
 
 Le détail des trois éléments constitutifs du prix de revient prévisionnel des opérations faisant l'objet d'une décision favorable de subvention est présenté en annexe I du présent arrêté.
 
-Le prix de revient prévisionnel comprend les révisions de prix prévisionnelles afférentes à l'opération.
+Le prix de revient prévisionnel comprend les révisions de prix afférentes aux travaux et la part des intérêts de préfinancement qui sont courus depuis la décision de lancement de l'opération jusqu'au moment de leur consolidation, à l'achèvement des logements.

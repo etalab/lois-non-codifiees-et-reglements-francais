@@ -2,54 +2,58 @@
 
 La définition et le tarif de cession des produits sanguins labiles autres que le plasma pour fractionnement sont les suivants :
 
-Sang humain total (unité adulte, unité enfant et unité pédiatrique) :
+Sang humain total (unité adulte, unité enfant et unité pédiatrique) : 447,30 F ;
 
-434,75 F
+Concentré de globules rouges humains (unité adulte, unité enfant et unité pédiatrique) : 531,99 F ;
 
-Concentré de globules rouges humains (unité adulte, unité enfant et unité pédiatrique) : 517,05 F
+Concentré unitaire de granulocytes d'aphérèse : 4 571,99 F ;
 
-Concentré unitaire de granulocytes d'aphérèse : 4 443,55 F
-
-Concentré de plaquettes standard : 196,00 F
+Concentré de plaquettes standard : 201,65 F ;
 
 Concentré de plaquettes d'aphérèse :
 
-- catégorie 1 soit un minimum de 2 x 1011 plaquettes par poche :
+Catégorie 1, soit un minimum de 2 x 1011 plaquettes par poche :
 
-1 805,05 F
+1 857,20 F ;
 
-- catégorie 2 soit un minimum de 4 x 1011 plaquettes par poche :
+Catégorie 2, soit un minimum de 4 x 1011 plaquettes par poche :
 
-4 240,90 F
+4 363,45 F ;
 
-- catégorie 3 soit un minimum de 6 x 1011 plaquettes par poche :
+Catégorie 3, soit un minimum de 6 x 1011 plaquettes par poche :
 
-4 413,25 F
+4 540,80 F ;
 
-Plasma frais congelé, produit autologue (unité adulte, 200 ml au minimum, unité enfant et unité pédiatrique) : 103,60 F
+Plasma frais congelé, produit autologue (unité adulte, 200 ml au minimum, unité enfant et unité pédiatrique) : 106,59 F ;
 
 Plasma humain frais congelé solidarisé (200 ml au minimum) :
 
-126,05 F
+129,72 F ;
 
-Plasma humain frais congelé sécurisé par quarantaine (unité adulte, 200 ml au minimum, unité enfant et unité pédiatrique) : 126,05 F
+Plasma humain frais congelé sécurisé par quarantaine (unité adulte, 200 ml au minimum, unité enfant et unité pédiatrique) :
 
-Plasma frais congelé viro-atténué par solvant détergent (200 ml au minimum) : 328,60 F
+129,72 F ;
 
-Majoration forfaitaire pour transfusion autologue programmée, par programme : 239,00 F
+Plasma frais congelé viro-atténué par solvant détergent (200 ml au minimum) : 338,10 F ;
 
-Majoration pour transformation "apprauvi en leucocytes" : 26,70 F
+Majoration forfaitaire pour transfusion autologue programmée, par programme : 245,91 F ;
 
-Majoration pour qualification "déleucocyté" : 303,30 F
+Majoration pour transformation "appauvri en leucocytes" :
 
-Majoration pour qualification "cryoconservé" : 456,50 F
+27,46 F ;
 
-Majoration pour qualification "phénotypé" : 88,50 F
+Majoration pour qualification "déleucocyté" : 312,07 F ;
 
-Majoration pour qualification "CMV négatif" : 111,50 F
+Majoration pour qualification "cryoconservé" : 469,71 F ;
 
-Majoration pour qualification "déplasmatisé" : 260,25 F
+Majoration pour qualification "phénotypé" : 91,07 F ;
 
-Majoration pour qualification "irradié" : 156,15 F
+Majoration pour qualification "CMV négatif" : 114,71 F ;
 
-Majoration pour transformation "réduction en volume" : 260,25 F
+Majoration pour qualification "déplasmatisé" : 267,76 F ;
+
+Majoration pour qualification "irradié" : 160,65 F ;
+
+Majoration pour transformation "réduction en volume" :
+
+267,76 F.

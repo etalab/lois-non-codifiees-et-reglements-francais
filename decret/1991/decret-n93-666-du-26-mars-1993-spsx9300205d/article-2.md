@@ -1,3 +1,3 @@
 # Article 2
 
-A compter du 1er août 1997 le classement indiciaire applicable aux corps des éducateurs de jeunes enfants de la fonction publique hospitalière est fixé sur trois grades, de l'indice brut 322 à l'indice brut 638.
+Le ministre du budget, le ministre des affaires sociales et de l'intégration et le ministre de la santé et de l'action humanitaire sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française et prend effet au 1er août 1991 *date*.

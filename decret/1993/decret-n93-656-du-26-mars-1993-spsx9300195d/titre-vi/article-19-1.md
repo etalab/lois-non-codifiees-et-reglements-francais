@@ -1,7 +1,3 @@
 # Article 19-1
 
-A titre transitoire, la proportion du nombre d'éducateurs de jeunes enfants de classe supérieure est fixée, par dérogation aux dispositions du I de l'article 11 ci-dessus, ainsi qu'il suit :
-
-- à compter du 1er août 1996, dans la limite de 15 p. 100 ;
-
-- à compter du 1er janvier 1997, dans la limite de 25 p. 100.
+Sont créés à la base du grade d'éducateur de jeunes enfants de classe supérieure, pour le reclassement au 1er août 1997 des éducateurs de jeunes enfants de classe supérieure qui se trouvent au 1er et au 2e échelon, un 1er et un 2e échelon provisoires dotés respectivement des indices bruts 414 et 440 affectés chacun d'une durée moyenne de un an et trois mois.
