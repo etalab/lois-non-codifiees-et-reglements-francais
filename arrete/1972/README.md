@@ -37,6 +37,7 @@
 - [Arrêté du 21 juin 1972](arrete-du-21-juin-1972)
 - [Arrêté du 23 juin 1972](arrete-du-23-juin-1972)
 - [Arrêté du 24 mars 1972](arrete-du-24-mars-1972)
+- [Arrêté du 25 août 1972](arrete-du-25-aout-1972)
 - [Arrêté du 26 avril 1972](arrete-du-26-avril-1972)
 - [Arrêté du 27 août 1971](arrete-du-27-aout-1971)
 - [Arrêté du 27 avril 1972](arrete-du-27-avril-1972)
