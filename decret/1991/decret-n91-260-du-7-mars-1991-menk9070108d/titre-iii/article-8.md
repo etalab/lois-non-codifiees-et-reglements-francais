@@ -8,6 +8,8 @@ Il est institué un certificat de préqualification permettant d'exercer les fon
 
 3° Après succès à une épreuve spéciale pour les candidats mentionnés au 4° de l'article 6 ;
 
-4° Après l'admission à suivre une formation en unités de compétences capitalisables.
+4° Après admission à suivre une formation en unités de compétences capitalisables ;
 
-La durée de validité de ce certificat est de trois ans lorsqu'il est délivré en application des 1°, 2° et 3° de l'alinéa précédent. Cette durée peut, par décision spécialement motivée du directeur régional de la jeunesse, des sports et des loisirs, être prolongée d'un an à deux reprises au maximum. La durée de validité du certificat délivré en application du 4° de l'alinéa précédent est celle de la formation.
+5° Après validation d'un stage de préqualification pour les candidats inscrits dans tout cycle de formation ayant fait l'objet d'une convention avec le directeur régional de la jeunesse, des sports et des loisirs.
+
+La durée de validité de ce certificat est de trois ans. Cette durée peut, sur demande motivée, être prolongée d'un an, à deux reprises au maximum, par le directeur régional de la jeunesse, des sports et des loisirs.
