@@ -34,7 +34,7 @@ Etablissement dont l'activité est transférée :
 
 Fondation nationale de transfusion sanguine.
 
-Date de référence : 31 mars 1996
+Date de référence : 30 avril 1996
 
 Etablissement de recrutement :
 
