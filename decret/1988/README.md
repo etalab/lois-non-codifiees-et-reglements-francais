@@ -47,6 +47,8 @@
 - [Décret n°87-1175 du 24 décembre 1987 (ASES8701875D)](decret-n87-1175-du-24-decembre-1987-ases8701875d)
 - [Décret n°87-1176 du 24 décembre 1987 (ASES8701874D)](decret-n87-1176-du-24-decembre-1987-ases8701874d)
 - [Décret n°88-278 du 24 mars 1988 (MENF8800395D)](decret-n88-278-du-24-mars-1988-menf8800395d)
+- [Décret n°88-84 du 26 janvier 1988 (ASES8701887D)](decret-n88-84-du-26-janvier-1988-ases8701887d)
+- [Décret n°88-85 du 26 janvier 1988 (AGRA8700152D)](decret-n88-85-du-26-janvier-1988-agra8700152d)
 - [Décret n°87-351 du 26 mai 1987 (ASEF8703363D)](decret-n87-351-du-26-mai-1987-asef8703363d)
 - [Décret n°49-1655 du 28 décembre 1949](decret-n49-1655-du-28-decembre-1949)
 - [Décret n°88-102 du 28 janvier 1988 (ASES8701870D)](decret-n88-102-du-28-janvier-1988-ases8701870d)
