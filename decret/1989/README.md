@@ -477,8 +477,6 @@
 - [Décret n°89-604 du 29 août 1989 (DOMP8900025D)](decret-n89-604-du-29-aout-1989-domp8900025d)
 - [Décret n°89-620 du 29 août 1989 (RESY8900189D)](decret-n89-620-du-29-aout-1989-resy8900189d)
 - [Décret n°89-938 du 29 décembre 1989 (ECOX8910405D)](decret-n89-938-du-29-decembre-1989-ecox8910405d)
-- [Décret n°89-994 du 29 décembre 1989 (PTTP8901168D)](decret-n89-994-du-29-decembre-1989-pttp8901168d)
-- [Décret n°89-995 du 29 décembre 1989 (PTTP8901169D)](decret-n89-995-du-29-decembre-1989-pttp8901169d)
 - [Décret n°90-538 du 29 juin 1990 (INTC9000140D)](decret-n90-538-du-29-juin-1990-intc9000140d)
 - [Décret n°90-539 du 29 juin 1990 (MENX9000070D)](decret-n90-539-du-29-juin-1990-menx9000070d)
 - [Décret n°89-339 du 29 mai 1989 (JUSC8920386D)](decret-n89-339-du-29-mai-1989-jusc8920386d)
