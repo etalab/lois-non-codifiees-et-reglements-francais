@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur des enseignements supérieurs et le directeur général de la santé sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Pour les internes nommés à compter du 1er novembre 1991, la liste des diplômes d'études spécialisées complémentaires figurant à l'article 1er du présent arrêté est dite liste des diplômes d'études spécialisées complémentaires du groupe I.
