@@ -165,6 +165,7 @@
 - [Décret n°84-710 du 17 juillet 1984](decret-n84-710-du-17-juillet-1984)
 - [Décret n°84-711 du 17 juillet 1984](decret-n84-711-du-17-juillet-1984)
 - [Décret n°84-738 du 17 juillet 1984](decret-n84-738-du-17-juillet-1984)
+- [Décret n°84-932 du 17 octobre 1984](decret-n84-932-du-17-octobre-1984)
 - [Décret n°84-38 du 18 janvier 1984](decret-n84-38-du-18-janvier-1984)
 - [Décret n°84-45 du 18 janvier 1984](decret-n84-45-du-18-janvier-1984)
 - [Décret n°84-468 du 18 juin 1984](decret-n84-468-du-18-juin-1984)
