@@ -172,6 +172,7 @@
 - [Arrêté du 25 juillet 1986](arrete-du-25-juillet-1986)
 - [Arrêté du 25 juin 1986](arrete-du-25-juin-1986)
 - [Arrêté du 25 mars 1986](arrete-du-25-mars-1986)
+- [Arrêté du 25 novembre 1986](arrete-du-25-novembre-1986)
 - [Arrêté du 25 septembre 1986](arrete-du-25-septembre-1986)
 - [Arrêté du 26 août 1986](arrete-du-26-aout-1986)
 - [Arrêté du 26 février 1986](arrete-du-26-fevrier-1986)
