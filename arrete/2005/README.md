@@ -194,6 +194,7 @@
 - [Arrêté du 30 décembre 2004 (AGRB0402531A)](arrete-du-30-decembre-2004-agrb0402531a)
 - [Arrêté du 30 décembre 2004 (EQUT0401775A)](arrete-du-30-decembre-2004-equt0401775a)
 - [Arrêté du 30 décembre 2004 (MCCF0401008A)](arrete-du-30-decembre-2004-mccf0401008a)
+- [Arrêté du 30 mars 2005 (JUSK0540041A)](arrete-du-30-mars-2005-jusk0540041a)
 - [Arrêté du 30 mars 2005 (MAEF0410072A)](arrete-du-30-mars-2005-maef0410072a)
 - [Arrêté du 30 novembre 2004 (EQUA0401663A)](arrete-du-30-novembre-2004-equa0401663a)
 - [Arrêté du 31 décembre 1998 (ECOT9820095A)](arrete-du-31-decembre-1998-ecot9820095a)

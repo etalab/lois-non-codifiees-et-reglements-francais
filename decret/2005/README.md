@@ -49,6 +49,8 @@
 - [Décret n°2005-89 du 4 février 2005 (JUSG0460091D)](decret-n2005-89-du-4-fevrier-2005-jusg0460091d)
 - [Décret n°2005-90 du 4 février 2005 (MCCB0400926D)](decret-n2005-90-du-4-fevrier-2005-mccb0400926d)
 - [Décret n°2005-92 du 4 février 2005 (DOMB0500001D)](decret-n2005-92-du-4-fevrier-2005-domb0500001d)
+- [Décret n° 2005-322 du 5 avril 2005 (INDI0504808D)](decret-n-2005-322-du-5-avril-2005-indi0504808d)
+- [Décret n°2005-323 du 5 avril 2005 (AGRD0500727D)](decret-n2005-323-du-5-avril-2005-agrd0500727d)
 - [Décret n°2005-6 du 5 janvier 2005 (SOCT0412296D)](decret-n2005-6-du-5-janvier-2005-soct0412296d)
 - [Décret n°2005-8 du 5 janvier 2005 (ECOT0495155D)](decret-n2005-8-du-5-janvier-2005-ecot0495155d)
 - [Décret n°2005-11 du 6 janvier 2005 (SANA0424186D)](decret-n2005-11-du-6-janvier-2005-sana0424186d)
