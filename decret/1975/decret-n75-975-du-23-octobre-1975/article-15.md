@@ -1,3 +1,0 @@
-# Article 15
-
-Le rapport servant au calcul de la valeur de référence définie par l'article 10 de la loi du 29 juillet 1975 est obtenu en divisant, dans chaque commune, le total des bases de taxe professionnelle pour 1976 par celui des bases de patente et de taxe spéciale sur les coopératives agricoles et les sociétés d'intérêt collectif agricole en 1975 préalablement mis a jour. Pour effectuer cette opération, il n'est tenu compte que des bases d'imposition des redevables passibles dans la même commune de la taxe professionnelle en 1976 et de la patente ou de la taxe spéciale sur les coopératives agricoles et les sociétés d'intérêt collectif agricole en 1975.

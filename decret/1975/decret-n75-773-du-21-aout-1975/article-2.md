@@ -1,7 +1,0 @@
-# Article 2
-
-I. - Sans préjudice des dispositions de l'article 9 de la loi n° 62-1529 du 22 décembre 1962 portant loi de finances pour 1963, une compensation tendant à remédier aux inégalités provenant des déséquilibres démographiques et des disparités de capacités contributives est instituée, à compter du 1er janvier 1975 [*point de départ*], entre l'ensemble des régimes d'assurance vieillesse auxquels sont obligatoirement affiliés les salariés et dont l'effectif est conforme aux dispositions de l'article 9 du présent décret.
-
-II. - Cette compensation entre salariés est calculée sur la base d'un régime unique fictif versant à chaque titulaire d'une pension de droit direct, âgé d'au moins soixante-cinq ans, une pension égale à la pension moyenne versée aux salariés agricoles retraités remplissant les mêmes conditions. Le financement est assuré par une cotisation proportionnelle au salaire plafonné de chacun des cotisants. Le taux de celle-ci est égal [*montant*] au produit de l'effectif des retraités d'au moins soixante-cinq ans titulaires d'une pension de droit direct de l'ensemble des régimes concernés, par la prestation de référence, rapporté à la masse salariale sous plafond des ressortissants de l'ensemble desdits régimes. Les effectifs sont appréciés au 1er juillet de l'année considérée.
-
-III. - Le solde de la compensation est égal, pour chaque régime, à la différence entre le produit de la cotisation proportionnelle et le montant des prestations calculées sur la base du régime fictif, définis au paragraphe II ci-dessus.

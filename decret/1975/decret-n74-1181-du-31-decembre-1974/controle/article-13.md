@@ -1,3 +1,0 @@
-# Article 13
-
-Lorsque le service central de protection contre les rayonnements ionisants constate que certaines dispositions de l'arrêté d'autorisation de rejets ne sont pas respectées, il en informe le préfet, le service chargé de la police des eaux, le chef d'établissement et le service central de sûreté des installations nucléaires, chargé de l'inspection de ces installations. Il rend compte immédiatement au ministre de la santé qui saisit le ministre de l'industrie et de la recherche aux fins d'application éventuelle des dispositions prévues à l'article 13 du décret susvisé du 11 décembre 1963.

@@ -1,7 +1,0 @@
-# Article 2
-
-Les ressources du compte d'indemnisation définies au 1° (a, b et d) de l'article 1er ci-dessus sont affectées pour chaque département à la couverture des dépenses prévues au 2° du même article pour ce département.
-
-Lorsque les ressources ainsi affectées au département considéré ne suffisent pas à couvrir les dépenses prévues au 2° de l'article 1er, le déficit constaté est comblé, selon les modalités fixées à l'article 3 ci-après, par prélèvement sur les ressources provenant des redevances cynégétiques nationales, du compte de réserves prévu à l'article 4 ci-dessous, et des ressources disponibles dans les départements non déficitaires après indemnisation des dégâts, la répartition de cette charge supplémentaire s'effectuant alors au prorata des ressources disponibles.
-
-Lorsque, dans un département, ce déficit en fin d'exercice excède une somme double des ressources affectées à ce département, la fédération départementale des chasseurs concernée est tenue de verser au compte d'indemnisation, avant le 1er septembre suivant, une contribution égale à la différence entre les sommes dépensées pour indemniser les dégâts et le triple produit de la quote-part des redevances cynégétiques affectées à l'indemnisation ; toutefois, cette contribution ne peut excéder le montant du produit des cotisations de l'exercice écoulé, calculé sur la base du montant moyen national des cotisations statutaires.

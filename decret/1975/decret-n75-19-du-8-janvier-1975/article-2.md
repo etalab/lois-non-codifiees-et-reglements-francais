@@ -1,3 +1,0 @@
-# Article 2
-
-Les personnes assujetties au paiement de la cotisation du régime d'assurance vieillesse de base visée à l'article L. 663-9 du code de la sécurité sociale, même si elles en sont dispensées en application des articles 8 et 19 du décret susvisé du 22 janvier 1973, et les personnes cotisant à titre volontaire dans les conditions fixées par le décret susvisé du 29 décembre 1973 sont redevables de la cotisation d'assurance invalidité-décès jusqu'au dernier jour du trimestre civil au cours duquel elles atteignent leur soixantième anniversaire [*âge maximum*] en ce qui concerne la fraction affectée à l'assurance invalidité et quel que soit leur âge en ce qui concerne la fraction affectée à l'assurance décès [*durée*].

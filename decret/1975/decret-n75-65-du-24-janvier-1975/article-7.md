@@ -1,5 +1,0 @@
-# Article 7
-
-Des arrêtés pris conjointement par le ministre de l'agriculture, le ministre de l'économie et des finances et le ministre de la santé, après avis du conseil supérieur d'hygiène publique de France et de l'académie nationale de médecine, pourront fixer les mesures de détail relatives à l'application du présent décret, notamment en ce qui concerne la composition, le conditionnement et les dénominations de vente des produits diététiques ou de régime d'une catégorie donnée, les modalités de leur étiquetage et les modalités du contrôle opéré par le fabricant, dans les conditions prévues aux articles 4, 5 et 6 du présent décret.
-
-Sous réserve des dispositions du code de la santé publique, il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre les produits mentionnés à l'article 1er lorsqu'ils ont été additionnés de produits chimiques ou substances biologiques autres que ceux dont l'emploi est déclaré licite par arrêtés pris dans les formes prévues à l'article 1er du décret susvisé du 15 avril 1912. Ces arrêtés pourront préciser les pourcentages maximaux et minimaux d'emploi de ces additifs.

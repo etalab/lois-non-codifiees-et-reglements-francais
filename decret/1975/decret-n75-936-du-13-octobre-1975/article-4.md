@@ -1,3 +1,0 @@
-# Article 4
-
-Les tarifs conventionnels ne peuvent dépasser les plafonds de tarifs fixés [*montant maximum*], par arrêté conjoint du ministre chargé de la sécurité sociale, du ministre chargé de la santé, du ministre de l'agriculture et du ministre de l'économie et des finances, pour chacune des professions concernées, au vu de propositions conjointes ou séparées, de la caisse nationale de l'assurance maladie des travailleurs salariés, de la caisse nationale d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles, de la caisse centrale de secours mutuels agricole et des organisations syndicales nationales les plus représentatives de chaque profession intéressée.

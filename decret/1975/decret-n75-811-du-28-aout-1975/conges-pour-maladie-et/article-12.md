@@ -1,3 +1,0 @@
-# Article 12
-
-Si, à l'expiration des congés prévus aux articles 10 et 11 précédents, l'inspecteur n'est pas apte à reprendre ses fonctions, il sera placé en position de congé sans rémunération pour une durée maximum de trois ans. Au terme de cette période, le contractant sera, sur le vu d'un certificat médical délivré par un médecin assermenté ou médecin agréé attaché à l'administration, soit, si son état de santé le permet, réintégré et affecté au premier poste disponible dans le ressort de l'académie ou, sur sa demande, sur un poste disponible dans une autre académie ou une autre inspection régionale d'agronomie, soit licencié.
