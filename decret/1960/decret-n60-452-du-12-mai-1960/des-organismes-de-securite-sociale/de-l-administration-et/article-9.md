@@ -2,7 +2,7 @@
 
 Le conseil d'administration règle par ses délibérations les affaires de l'organisme.
 
-Il a notamment pour rôle [*attributions*] :
+Il a notamment pour rôle :
 
 1° D'établir les statuts et le règlement intérieur de l'organisme ;
 
@@ -10,7 +10,7 @@ Il a notamment pour rôle [*attributions*] :
 
 3° De voter les budgets d'opérations en capital concernant les programmes d'investissements, de subventions ou de participations financières. Ces budgets, qui font apparaître le montant total de chaque programme autorisé, doivent prévoir l'imputation des paiements correspondants dans les budgets des années où ces paiements doivent avoir lieu ;
 
-4° ....
+4° De contrôler l'application par le directeur et l'agent comptable des dispositions législatives et réglementaires, ainsi que l'exécution de ses propres délibérations ;
 
 5° De nommer le directeur, l'agent comptable et le directeur adjoint, sous réserve de l'agrément ;
 
@@ -19,3 +19,5 @@ Il a notamment pour rôle [*attributions*] :
 7° De désigner les agents chargés de l'intérim des emplois de direction, sous réserve de leur agrément par l'autorité de tutelle ou son représentant territorial.
 
 Le conseil d'administration peut désigner en son sein des commissions et leur déléguer une partie de ses attributions.
+
+Le pouvoir de contrôle dont dispose le conseil d'administration d'un organisme de sécurité sociale sur le fonctionnement général de cet organisme ne l'autorise pas à se substituer ou à donner des injonctions au directeur ou au médecin conseil régional dans l'exercice des pouvoirs propres de décision qui sont reconnus à ces derniers par les dispositions réglementaires applicables, ni à annuler ou à réformer les décisions prises à ce titre.
