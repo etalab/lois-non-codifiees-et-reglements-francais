@@ -4,6 +4,7 @@
 - [Décret n°75-1201 du 4 décembre 1975](decret-n75-1201-du-4-decembre-1975)
 - [Décret n°75-1136 du 11 décembre 1975](decret-n75-1136-du-11-decembre-1975)
 - [Décret n°75-1202 du 11 décembre 1975](decret-n75-1202-du-11-decembre-1975)
+- [Décret n°75-1241 du 12 décembre 1975](decret-n75-1241-du-12-decembre-1975)
 - [Décret n°75-1166 du 15 décembre 1975](decret-n75-1166-du-15-decembre-1975)
 - [Décret n°75-1197 du 16 décembre 1975](decret-n75-1197-du-16-decembre-1975)
 - [Décret n°75-1198 du 16 décembre 1975](decret-n75-1198-du-16-decembre-1975)
