@@ -1,0 +1,5 @@
+# Article 12
+
+Dans le cas où l'ECU cesserait d'être utilisé tant dans le système monétaire européen que pour le règlement des transactions entre les institutions publiques de ou dans la Communauté économique européenne, le paiement des intérêts et le remboursement du principal seraient effectués en francs, sur la base d'un cours de l'ECU déterminé, pour chaque échéance, par arrêté du ministre chargé de l'économie et des finances. Ce cours de l'ECU serait égal à la somme des contre-valeurs en francs des montants des monnaies qui entraient dans la composition de l'ECU lors de sa dernière utilisation, ces contre-valeurs étant calculées sur la base des cours officiels de ces monnaies constatés sur le marché des changes de Paris, deux jours ouvrés avant chaque échéance.
+
+Si, dans le cas visé à l'alinéa précédent, la définition d'une des monnaies entrant dans la composition de l'ECU venait à être modifiée, un décret, pris après avis du Conseil d'Etat, fixerait le montant de monnaie à retenir pour effectuer le calcul visé ci-dessus, de manière à assurer aux obligataires des conditions équivalentes à celles prévalant avant la modification.

@@ -4,26 +4,22 @@ Annexe I
 
 Classement des emplois dans les groupes.
 
-GROUPE III :
+Echelle 3 :
 
-Téléphoniste
+Téléphoniste principal
 
-Conducteur d'automobile de 2e catégorie
+Agent de désinfection
 
-Aide de pharmacie
+Agent d'amphithéâtre
 
-Aide de laboratoire
+Chauffeur de chaudière haute pression
 
-Aide d'électroradiologie
+Conducteur d'automobile de 1re catégorie
 
-Aide-soignant (cadre permanent)
+Jardinière d'enfants (cadre d'extinction)
 
-Dactylographe
+Adjoint et adjointe d'internat
 
-Ouvrier professionnel de 3e catégorie
+Sténodactylographe
 
-Chauffeur de chaudière basse pression
-
-Aide-soignant (cadre d'extinction)
-
-Surveillant du service intérieur.
+Ouvrier professionnel de 2e catégorie.
