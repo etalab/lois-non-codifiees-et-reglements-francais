@@ -2,6 +2,7 @@
 
 - [Article 14](article-14.md)
 - [Appareils de type dangereux](appareils-de-type-dangereux)
+- [Appareils en provenance d'un pays de la C.E.E.](appareils-en-provenance-d-un-pays-de-la-c-e-e)
 - [Appareils soumis au règlement](appareils-soumis-au)
 - [Vérifications préalables aux épreuves](verifications-prealables-aux)
 - [Compétence du préfet de police](competence-du-prefet-de-police)
@@ -12,5 +13,6 @@
 - [Déclaration et enquête en cas d'accident](declaration-et)
 - [Marquages d'identité et de service](marquages-d-identite-et)
 - [Experts](experts)
+- [Marquage des générateurs d'aérosol](marquage-des-generateurs-d-aerosol)
 - [Prescriptions particulières](prescriptions-particulieres)
 - [Vérifications lors des réparations](verifications-lors-des-reparations)
