@@ -547,7 +547,6 @@
 - [Arrêté du 16 mai 1997 (MJSK9770029A)](arrete-du-16-mai-1997-mjsk9770029a)
 - [Arrêté du 16 mai 1997 (MJSK9770051A)](arrete-du-16-mai-1997-mjsk9770051a)
 - [Arrêté du 16 mai 1997 (PRMX9702024A)](arrete-du-16-mai-1997-prmx9702024a)
-- [Arrêté du 16 mai 1997 (TASE9710709A)](arrete-du-16-mai-1997-tase9710709a)
 - [Arrêté du 16 mai 1997 (TASP9721428A)](arrete-du-16-mai-1997-tasp9721428a)
 - [Arrêté du 16 mai 1997 (TASS9721724A)](arrete-du-16-mai-1997-tass9721724a)
 - [Arrêté du 16 mai 1997 (TASS9721726A)](arrete-du-16-mai-1997-tass9721726a)
