@@ -68,6 +68,8 @@
 - [Décret n°2000-309 du 7 avril 2000 (MESX0004045D)](decret-n2000-309-du-7-avril-2000-mesx0004045d)
 - [Décret n°2000-310 du 7 avril 2000 (MENX0004046D)](decret-n2000-310-du-7-avril-2000-menx0004046d)
 - [Décret n°2000-317 du 7 avril 2000 (MCCX0004048D)](decret-n2000-317-du-7-avril-2000-mccx0004048d)
+- [Décret n°2000-318 du 7 avril 2000 (INTX0004021D)](decret-n2000-318-du-7-avril-2000-intx0004021d)
+- [Décret n°2000-319 du 7 avril 2000 (AGRS0000593D)](decret-n2000-319-du-7-avril-2000-agrs0000593d)
 - [Décret n°2000-103 du 8 février 2000 (ECOR9904577D)](decret-n2000-103-du-8-fevrier-2000-ecor9904577d)
 - [Décret n°2000-104 du 8 février 2000 (EQUU0000129D)](decret-n2000-104-du-8-fevrier-2000-equu0000129d)
 - [Décret n°2000-107 du 8 février 2000 (EQUS0000222D)](decret-n2000-107-du-8-fevrier-2000-equs0000222d)
