@@ -54,7 +54,6 @@
 - [Décret n°70-1186 du 17 décembre 1970](decret-n70-1186-du-17-decembre-1970)
 - [Décret n°70-216 du 17 mars 1970](decret-n70-216-du-17-mars-1970)
 - [Décret n°70-281 du 17 mars 1970](decret-n70-281-du-17-mars-1970)
-- [Décret n°70-759 du 18 août 1970](decret-n70-759-du-18-aout-1970)
 - [Décret n° 70-147 du 19 février 1970](decret-n-70-147-du-19-fevrier-1970)
 - [Décret n°70-238 du 19 mars 1970](decret-n70-238-du-19-mars-1970)
 - [Décret n°70-239 du 19 mars 1970](decret-n70-239-du-19-mars-1970)
