@@ -24,6 +24,7 @@
 - [Décret n°68-807 du 13 septembre 1968](decret-n68-807-du-13-septembre-1968)
 - [Décret n°68-440 du 13 mai 1968](decret-n68-440-du-13-mai-1968)
 - [Décret n°68-445 du 13 mai 1968](decret-n68-445-du-13-mai-1968)
+- [Décret n°68-1126 du 14 décembre 1968](decret-n68-1126-du-14-decembre-1968)
 - [Décret n°68-748 du 14 août 1968](decret-n68-748-du-14-aout-1968)
 - [Décret n°68-986 du 14 novembre 1968](decret-n68-986-du-14-novembre-1968)
 - [Décret n°68-244 du 15 mars 1968](decret-n68-244-du-15-mars-1968)
