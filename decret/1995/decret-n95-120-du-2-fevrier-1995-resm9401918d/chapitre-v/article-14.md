@@ -8,31 +8,15 @@ b) Avec effet au 1er août 1995, dans la limite des emplois figurant dans la loi
 
 Les intéressés sont classés conformément au tableau de correspondance ci-dessous :
 
-GRADE
+GRADE d'origine
 
-d'origine
+GRADE d'intégration
 
-GRADE
+ANCIENNETÉ CONSERVÉE dans la limite de la durée de l'échelon
 
-d'intégration
+Bibliothécaire adjoint principal
 
-ANCIENNETÉ CONSERVÉE
-
-dans la limite de la durée
-
-de l'échelon
-
-Bibliothécaire
-
-adjoint principal
-
-Bibliothécaire
-
-adjoint
-
-de classe
-
-exceptionnelle
+Bibliothécaire adjoint de classe exceptionnelle
 
 7e échelon :
 
@@ -107,3 +91,5 @@ Ancienneté conservée.
 1er échelon
 
 Ancienneté conservée.
+
+La situation au 1er août 1995 des agents mentionnés au a et au b du présent article ne peut être moins favorable, en ce qui concerne tant l'échelon que l'ancienneté dans cet échelon, que celle qui aurait été la leur s'ils n'avaient été promus qu'au 1er août 1995 et reclassés dans le grade provisoire de bibliothécaire adjoint principal créé par l'article 16 ci-après, puis reclassés dans la classe exceptionnelle à cette même date. Doivent être appliquées, pour le reclassement dans le grade provisoire, les règles fixées à l'article 21 du présent décret et, pour le reclassement dans la classe exceptionnelle, celles fixées au présent article.
