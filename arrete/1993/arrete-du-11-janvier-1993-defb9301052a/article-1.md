@@ -2,7 +2,7 @@
 
 Il est créé au service d'information sur les carrières de la marine nationale un service télématique accessible par Minitel :
 
-36-15, code Mer, dont les finalités sont indiquées ainsi qu'il suit :
+36-15 MN et 36-15 Marine nationale, dont les finalités sont indiquées ainsi qu'il suit :
 
 a) Fournir toutes informations aux personnes désirant s'engager ou effectuer leur service militaire dans la marine nationale. Les applications permettant de réaliser ce service sont les suivantes :
 
