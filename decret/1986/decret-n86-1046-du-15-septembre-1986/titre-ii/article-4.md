@@ -1,6 +1,6 @@
 # Article 4
 
-Les experts techniques sont recrutés par concours et par examen professionnel organisés par spécialité professionnelle ainsi que par liste d'aptitude.
+Les experts techniques sont recrutés par concours et par examen professionnel organisés par spécialité professionnelle.
 
 Pour être nommés dans le corps, les candidats doivent satisfaire aux épreuves d'un examen psychotechnique subi devant l'un des organismes habilité à cet effet par arrêté du ministre chargé de la fonction publique.
 
