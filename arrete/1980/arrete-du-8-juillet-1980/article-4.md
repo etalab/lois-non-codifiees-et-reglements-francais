@@ -1,0 +1,5 @@
+# Article 4
+
+Le taux de la taxe additionnelle prévue à l'article 1er (4°) du décret n° 64-637 du 29 juin 1964 susvisé est fixé ainsi qu'il suit :
+
+Francs    Semences de maïs (par quintal)                         0,40    Semences de sorgho grains (par quintal)                8    Semences de céréales (par quintal)                     0,30    Semences certifiées de vesces, féveroles, sainfoin (par quintal)                                             1,60    Semences certifiées de pois fourragers (par quintal)   2    Semences certifiées de pois potagers, pois protéagineux, haricots et lentilles (par quintal)         1,35    Semences standard de pois et lentilles (par quintal)   1,35    Semences standard de haricots (par quintal)            1,35    Autres semences fourragères (par quintal)              6,50    Semences de betteraves industrielles (par quintal)     1,25    Semences de betteraves industrielles présentées en unités de 100.000 graines (par 100 unités)                3,90    Semences de tournesol (par quintal)                   28    Semences de lin (par quintal)                          1,90
