@@ -253,7 +253,6 @@
 - [Décret n°2003-33 du 10 janvier 2003 (INTE0300003D)](decret-n2003-33-du-10-janvier-2003-inte0300003d)
 - [Décret n°75-930 du 10 octobre 1975](decret-n75-930-du-10-octobre-1975)
 - [Décret n°90-928 du 10 octobre 1990 (MENT9001968D)](decret-n90-928-du-10-octobre-1990-ment9001968d)
-- [Décret n°94-129 du 10 février 1994 (DEFP9302023D)](decret-n94-129-du-10-fevrier-1994-defp9302023d)
 - [Décret n°94-206 du 10 mars 1994 (INTA9400079D)](decret-n94-206-du-10-mars-1994-inta9400079d)
 - [Décret n°94-207 du 10 mars 1994 (ECOP9400034D)](decret-n94-207-du-10-mars-1994-ecop9400034d)
 - [Décret n°94-208 du 10 mars 1994 (ECOP9400035D)](decret-n94-208-du-10-mars-1994-ecop9400035d)
