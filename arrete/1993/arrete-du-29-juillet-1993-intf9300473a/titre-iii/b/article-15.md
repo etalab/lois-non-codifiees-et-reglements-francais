@@ -52,4 +52,6 @@ En ce qui concerne la préfecture de police de Paris, peuvent également être p
 
 21. Les droits afférents à la délivrance des cartes de brocanteurs ;
 
-22. Les droits de timbre perçus lors des visites médicales pour la délivrance ou le maintien des permis de conduire imputables aux comptes produits divers du budget de l'Etat.
+22. Les droits de timbre perçus lors des visites médicales pour la délivrance ou le maintien des permis de conduire imputables aux comptes produits divers du budget de l'Etat ;
+
+23. Le montant du droit d'examen exigé pour l'inscription au certificat de capacité professionnelle de conducteur de taxi.

@@ -24,4 +24,6 @@ Les régies de recettes créées ou modifiées en application des articles 2 et 
 
 11. Des communications téléphoniques privées, des cessions d'effets ou d'objets ainsi que des prestations de services pouvant être consenties à titre remboursable soit aux personnels des préfectures et sous-préfectures, soit à des collectivités privées ;
 
-12. Des remboursements de frais supplémentaires entraînés par l'emploi des services et forces de police et, plus généralement, de tous les remboursements de frais dont le montant est ou sera éventuellement mis à la charge de personnes et de collectivités privées.
+12. Des remboursements de frais supplémentaires entraînés par l'emploi des services et forces de police et, plus généralement, de tous les remboursements de frais dont le montant est ou sera éventuellement mis à la charge de personnes et de collectivités privées ;
+
+13. Du droit d'examen exigé pour l'inscription au certificat de capacité professionnelle de conducteur de taxi.
