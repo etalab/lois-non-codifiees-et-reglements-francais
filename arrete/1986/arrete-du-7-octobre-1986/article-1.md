@@ -1,3 +1,3 @@
 # Article 1
 
-Est autorisée la création des traitements informatisés regroupés sous la dénomination Agadir-Services ayant pour finalité l'aide à la gestion administrative des directions des services déconcentrés de la direction générale des impôts.
+Est autorisée la création d'un traitement informatisé appelé Agadir-Contrôle fiscal ayant pour finalité le suivi par les directions spécialisées, les directions régionales des impôts ou les directions des services fiscaux du déroulement des programmes annuels de contrôle fiscal.

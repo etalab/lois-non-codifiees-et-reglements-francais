@@ -115,7 +115,6 @@
 - [Décret n°77-686 du 23 juin 1977](decret-n77-686-du-23-juin-1977)
 - [Décret n°77-535 du 23 mai 1977](decret-n77-535-du-23-mai-1977)
 - [Décret n°77-1187 du 24 octobre 1977](decret-n77-1187-du-24-octobre-1977)
-- [Décret n°77-1288 du 24 novembre 1977](decret-n77-1288-du-24-novembre-1977)
 - [Décret n°77-1318 du 24 novembre 1977](decret-n77-1318-du-24-novembre-1977)
 - [Décret n°77-1319 du 24 novembre 1977](decret-n77-1319-du-24-novembre-1977)
 - [Décret n°77-274 du 24 mars 1977](decret-n77-274-du-24-mars-1977)
