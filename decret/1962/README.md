@@ -7,6 +7,7 @@
 - [Décret n°61-501 du 3 mai 1961](decret-n61-501-du-3-mai-1961)
 - [Décret n°62-660 du 6 juin 1962](decret-n62-660-du-6-juin-1962)
 - [Décret n°62-667 du 7 juin 1962](decret-n62-667-du-7-juin-1962)
+- [Décret n°62-670 du 8 juin 1962](decret-n62-670-du-8-juin-1962)
 - [Décret n°64-23 du 8 janvier 1964](decret-n64-23-du-8-janvier-1964)
 - [Décret n°65-1119 du 9 décembre 1965](decret-n65-1119-du-9-decembre-1965)
 - [Décret n°62-261 du 10 mars 1962](decret-n62-261-du-10-mars-1962)
