@@ -104,17 +104,17 @@ o) Les viandes présentant une odeur sexuelle prononcée.
 
 p) Les matériels à risque spécifiés suivants :
 
-i) Le crâne, y compris l'encéphale et les yeux, la colonne vertébrale, y compris les ganglions rachidiens, mais à l'exclusion des vertèbres caudales et des apophyses transverses des vertèbres lombaires, et la moelle épinière des bovins âgés de douze mois et plus ;
+i) Le crâne, y compris l'encéphale et les yeux, la colonne vertébrale, y compris les ganglions rachidiens, mais à l'exclusion des vertèbres caudales et des apophyses transverses des vertèbres thoraciques et lombaires et des ailes du sacrum, et la moelle épinière des bovins âgés de douze mois et plus ;
 
-- la rate des bovins quel que soit leur âge ;
+- la rate des bovins, quel que soit leur âge ;
 
 - la tête entière, comprenant les yeux et les amygdales, mais à l'exclusion de l'encéphale, de la langue et des masséters, des ovins et caprins âgés de moins de six mois ;
 
 - la tête entière, comprenant l'encéphale, les yeux et les amygdales, mais à l'exclusion de la langue et des muscles masséters, des ovins et caprins âgés de six mois et plus ;
 
-- la rate des ovins et caprins quel que soit leur âge ;
+- la rate des ovins et caprins, quel que soit leur âge ;
 
-- la moelle épinière des ovins et caprins âgés de douze mois et plus, et, à compter du 1er janvier 2003, la moelle épinière des ovins et caprins âgés de six mois et plus.
+- la moelle épinière des ovins et caprins âgés de douze mois et plus.
 
 ii) Les tissus suivants provenant d'animaux ayant pu être exposés à un risque spécifique de contamination par un agent d'une encéphalopathie spongiforme subaiguë transmissible (ESST) :
 
@@ -142,7 +142,11 @@ q) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux
 
 r) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de vingt-quatre mois et plus non soumis à un test de dépistage de l'encéphalopathie spongiforme bovine.
 
-s) Les viandes et tous les sous-produits, y compris le cuir, encore présents à l'abattoir, et consignés conformément à l'article 27.A, point 4, du présent arrêté provenant d'animaux de l'espèce bovine, originaires de la même exploitation qu'un bovin soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat non négatif, confirmé par le centre de référence français pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'encéphalopathie spongiforme bovine et identifiée à risque au regard de l'ESB conformément à l'arrêté du 3 décembre 1990 susvisé.
+s) Les viandes et tous les sous-produits, y compris le cuir, encore présents à l'abattoir, et consignés conformément à l'article 27 A, point 4, du présent arrêté provenant d'animaux de l'espèce bovine qui :
+
+- sont originaires de la même exploitation identifiée à risque et décrite à l'article 7 de l'arrêté du 3 décembre 1990 susvisé qu'un bovin soumis à un test de dépistage de l'encéphalopathie spongiforme bovine ayant obtenu un résultat non négatif au test de dépistage de l'ESB, confirmé par le laboratoire de référence français pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'encéphalopathie spongiforme bovine et
+
+- auraient été concernés par le marquage effectué conformément aux dispositions de l'article 9 de l'arrêté du 3 décembre 1990 susvisé s'ils avaient été présents dans l'exploitation identifiée à risque au moment de la confirmation du résultat du test de dépistage de l'ESB par le laboratoire de référence français pour les recherches relatives au diagnostic et à l'épidémiologie animale de l'encéphalopathie spongiforme bovine.
 
 t) Les viandes et tous les sous-produits, à l'exclusion du cuir, issus du bovin abattu avant et des deux bovins abattus après un bovin ayant présenté un résultat non négatif à un test de dépistage de l'encéphalopathie spongiforme bovine, en l'absence de réalisation du retrait de la moelle épinière préalablement à la fente longitudinale de la carcasse en deux demis, conformément aux dispositions de l'avant-dernier alinéa de l'article 15 du présent arrêté.
 

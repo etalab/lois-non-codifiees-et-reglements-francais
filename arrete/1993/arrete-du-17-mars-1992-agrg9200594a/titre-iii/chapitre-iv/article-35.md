@@ -10,8 +10,6 @@ Au cours de leur transport, les viandes fraîches provenant d'un abattoir agré�
 
 - mentionne clairement le nombre de carcasses, demi-carcasses, demi-carcasses découpées en un maximum de trois morceaux et quartiers de bovins dont le retrait de la colonne vertébrale est exigé et le nombre de ceux dont le retrait de la colonne vertébrale n'est pas exigé, conformément aux dispositions de l'article 31, point p, du présent arrêté ;
 
-- à compter du 1er juillet 2002, comporte pour les viandes issues d'animaux des espèces ovine et caprine âgés de moins de six mois et renfermant de la moelle épinière, la mention suivante : "Viandes issues d'animaux âgés de moins de six mois non soumis à l'obligation de retrait de la moelle épinière" ;
-
 - pour les viandes destinées à la Finlande et à la Suède, comporte une des mentions suivantes :
 
 - le test visé à l'article 5, paragraphe 3, point a, de la directive 64/433/CEE a été effectué,

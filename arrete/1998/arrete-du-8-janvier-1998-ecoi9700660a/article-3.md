@@ -21,3 +21,7 @@ h) Point d'éclair : supérieur à 61 °C ;
 i) Corrosion à la lame de cuivre : inférieure à 1b ;
 
 j) Point d'écoulement : inférieur à -15 °C.
+
+k) Traceur : Solvent Yellow 124 (N-éthyl-N-[2-(1-isobutoxyéthoxy) éthyl]-4-(phénylazo)aniline) :
+
+6 mg par litre.
