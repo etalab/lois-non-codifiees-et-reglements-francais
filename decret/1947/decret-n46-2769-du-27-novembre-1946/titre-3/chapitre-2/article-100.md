@@ -10,7 +10,7 @@ Le Fonds national de l'assurance maladie, maternité et décès comprend en rece
 
 4° La fraction du produit des cotisations prévues à l'article L. 231-1 du code des assurances revenant au régime minier ;
 
-5° Le produit des recours contre tiers ;
+5° Le produit des recours contre tiers et des indemnités forfaitaires perçues en application du premier alinéa de l'article 211-1 ;
 
 6° La fraction des intérêts créditeurs et des produits nets des placements prévus aux articles 122 et 124 ;
 
