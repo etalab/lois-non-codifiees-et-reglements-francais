@@ -1,9 +1,5 @@
 # Article 7
 
-Dans les trois premiers mois de chaque année [*délai*], la chambre régionale établit ses propositions en vue de la fixation de la somme nécessaire au fonctionnement et aux besoins de la chambre régionale de commerce et d'industrie pour l'année suivante. Dans le même délai, elle présente directement au ministre du commerce, pour approbation, le compte des recettes et des dépenses de l'exercice précédent, ainsi que le projet de budget de l'année suivante.
-
-En même temps que ces documents, la chambre régionale soumet également à l'approbation du ministre du commerce, pour les mêmes exercices, les comptes et projets de budgets spéciaux relatifs au divers établissements et services que la chambre régionale de commerce et d'industrie est autorisée à créer et administrer [*documents joints*].
-
 Les dépenses nécessaires au fonctionnement de la chambre régionale de commerce et d'industrie et à l'exploitation des divers établissements et services qu'elle administre peuvent être inscrites d'office à son budget général ou à ses budgets spéciaux par le ministre du commerce.
 
 Pour faire face aux dépenses générales annuelles de la chambre régionale de commerce et d'industrie, il est fait appel, tout d'abord, aux ressources propres de ladite chambre régionale de commerce et d'industrie (intérêts des fonds placés, arrérages des dons et legs, reliquat de l'exercice précédent, prélèvement sur le fonds de réserve, montant des subventions qui peuvent lui être accordées, etc.).
@@ -20,4 +16,4 @@ Par chambre de commerce, le montant total des anciens droits de patente retenus 
 
 La répartition effectuée entre les diverses chambres de commerce pour ledit exercice de la somme complémentaire nécessaire au règlement des dépenses de la chambre régionale de commerce et d'industrie compte tenu des ressources propres de cette dernière.
 
-Dès réception du budget de la chambre régionale de commerce et d'industrie approuvé par le ministre du commerce, le président de la chambre régionale notifie aux chambres de commerce le montant de leur contribution qui devra figurer sur leur projet de budget respectif [*information*].
+Dès réception du budget de la chambre régionale de commerce et d'industrie approuvé, le président de la chambre régionale notifie aux chambres de commerce le montant de leur contribution qui devra figurer sur leur projet de budget respectif [*information*].
