@@ -1,0 +1,3 @@
+# Article 12
+
+Pour le fonctionnement du contrôle médical, l'Etablissement national des invalides de la marine peut faire appel, en tant que de besoin, au service de santé des gens de mer et peut recruter, le cas échéant, des médecins vacataires et contractuels dans les conditions fixées par le décret n° 78-1308 du 13 décembre 1978 modifié relatif à la rémunération des médecins, chirurgiens-dentistes, dentistes, vétérinaires et pharmaciens qui apportent leur concours au fonctionnement des services médicaux relevant des administrations de l'Etat et de ses établissements publics à caractère administratif ou à caractère culturel et scientifique. Il peut en outre passer des conventions avec d'autres organismes de sécurité sociale.
