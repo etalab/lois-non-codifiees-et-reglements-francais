@@ -21,6 +21,7 @@
 - [Décret n°93-1051 du 2 septembre 1993 (ENVN9310082D)](decret-n93-1051-du-2-septembre-1993-envn9310082d)
 - [Décret n°93-1054 du 2 septembre 1993 (DEFP9301671D)](decret-n93-1054-du-2-septembre-1993-defp9301671d)
 - [Décret n°93-1206 du 2 novembre 1993 (ENVP9310085D)](decret-n93-1206-du-2-novembre-1993-envp9310085d)
+- [Décret n°93-1276 du 2 décembre 1993 (MCCI9300369D)](decret-n93-1276-du-2-decembre-1993-mcci9300369d)
 - [Décret n°93-135 du 2 février 1993 (INTE9300050D)](decret-n93-135-du-2-fevrier-1993-inte9300050d)
 - [Décret n°93-138 du 2 février 1993 (MENF9204427D)](decret-n93-138-du-2-fevrier-1993-menf9204427d)
 - [Décret n°93-143 du 2 février 1993 (SPSS9300003D)](decret-n93-143-du-2-fevrier-1993-spss9300003d)
