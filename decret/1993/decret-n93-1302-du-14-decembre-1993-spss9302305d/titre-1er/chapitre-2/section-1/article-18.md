@@ -4,7 +4,7 @@ Il est institué pour chaque union régionale une commission de recensement des 
 
 La commission de recensement comprend [*composition*] :
 
-1° Le préfet de région ou son représentant ;
+1° Le préfet de région ou son représentant président ;
 
 2° Les quatre électeurs mentionnés au 3° de l'article 16 ;
 

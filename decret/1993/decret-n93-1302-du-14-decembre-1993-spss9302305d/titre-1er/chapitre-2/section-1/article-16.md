@@ -4,7 +4,7 @@ Les élections sont organisées, pour chaque union régionale, par une commissio
 
 Cette commission comprend [*composition*] :
 
-1° Le préfet de région ou son représentant ;
+1° Le préfet de région ou son représentant président ;
 
 2° Un médecin généraliste et un médecin spécialiste membres de l'assemblée de l'union et désignés par celle-ci ;
 

@@ -7,3 +7,5 @@ Lorsque cette liste est épuisée, il n'est pas procédé au remplacement.
 Toutefois, si la moitié au moins des sièges de l'assemblée deviennent vacants sans qu'il soit possible de pourvoir aux remplacements, il est procédé au renouvellement de l'ensemble de ces sièges par voie d'élection, selon les modalités prévues au chapitre II ci-après. Ce renouvellement a lieu pour la durée du mandant restant à courir.
 
 Les dispositions de l'alinéa qui précède ne sont pas applicables au cours de la dernière année du mandat de l'assemblée.
+
+Le présent article s'applique en cas de vacance de siège pour cause d'annulation de l'élection, sous réserve des dispositions de l'article 14-1 ci-après.
