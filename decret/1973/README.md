@@ -95,6 +95,7 @@
 - [Décret n°73-342 du 23 mars 1973](decret-n73-342-du-23-mars-1973)
 - [Décret n°73-344 du 23 mars 1973](decret-n73-344-du-23-mars-1973)
 - [Décret n°73-361 du 23 mars 1973](decret-n73-361-du-23-mars-1973)
+- [Décret n°73-1220 du 24 décembre 1973](decret-n73-1220-du-24-decembre-1973)
 - [Décret n°73-82 du 24 janvier 1973](decret-n73-82-du-24-janvier-1973)
 - [Décret n°73-916 du 24 septembre 1973](decret-n73-916-du-24-septembre-1973)
 - [Décret n°73-935 du 24 septembre 1973](decret-n73-935-du-24-septembre-1973)

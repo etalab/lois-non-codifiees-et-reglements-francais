@@ -1,0 +1,3 @@
+# Article 8
+
+Le programme de la première épreuve écrite porte sur les dix groupes de spécialités définies en annexe au présent arrêté. En déposant leur demande de /M/participation au concours,/M/arrêté du 4 mai 1981 : participation aux examens// les candidats doivent obligatoirement préciser celui des neuf premiers groupes de spécialités pour lesquels ils optent. Un, deux ou trois sujets sont, selon le cas, proposés dans chaque groupe. Les candidats choisissent au moment de l'épreuve soit l'un des sujets du groupe pour lequel ils ont opté lors du dépôt de la candidature, soit l'un des deux sujets du groupe 10.

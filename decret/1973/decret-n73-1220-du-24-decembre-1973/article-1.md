@@ -1,0 +1,3 @@
+# Article 1
+
+Le directeur du centre d'application annexé à l'institut national d'étude du travail et d'orientation professionnelle (Conservatoire national des arts et métiers) et les conseillers d'orientation affectés audit institut ainsi que les directeurs et les conseillers d'orientation des centres d'information et d'orientation qui fonctionnent en tant que centres d'application de centres de formation de conseillers d'orientation, qui assurent la formation pratique des élèves conseillers d'orientation, peuvent percevoir une indemnité forfaitaire annuelle dont le taux est fixé par un arrêté conjoint du ministre de l'éducation, du ministre de l'économie et des finances et du secrétaire d'Etat auprès du Premier ministre (Fonction publique).
