@@ -1,6 +1,6 @@
 # Article 32
 
-Les internes peuvent demander, avant la fin du quatrième semestre d'internat, à changer de discipline dans la subdivision où ils sont affectés en application des dispositions de l'article 20 ci-dessus. Cette possibilité, qui ne peut s'exercer qu'une fois, leur est offerte dans la mesure où leur rang initial de classement au niveau de la circonscription les a situés, dans la discipline pour laquelle ils souhaitent opter, à un rang au moins égal à celui du dernier candidat du même concours affecté dans cette discipline au niveau de la subdivision.
+Les internes peuvent demander, avant la fin du quatrième semestre d'internat, à changer de discipline dans la subdivision où ils sont affectés en application des dispositions de l'article 19 ci-dessus. Cette possibilité, qui ne peut s'exercer qu'une fois, leur est offerte dans la mesure où leur rang initial de classement les a situés, dans la discipline pour laquelle ils souhaitent opter, à un rang au moins égal à celui du dernier candidat du même concours affecté dans cette discipline au niveau de la subdivision.
 
 Les internes ayant changé de discipline peuvent demander que les semestres précédemment effectués soient pris en compte dans leur nouvelle formation. Ils doivent alors indiquer le diplôme d'études spécialisées qu'ils postulent et obtenir l'accord du coordonnateur prévu à l'article 25 ci-dessus.
 

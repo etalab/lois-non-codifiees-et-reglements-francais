@@ -1,3 +1,5 @@
 # Article 63
 
-Il est organisé chaque année un concours d'internat propre à la circonscription des départements d'outre-mer ouvert pour le nombre de postes fixé par arrêté des ministres chargés des universités et de la santé. La candidature à ce concours n'est pas prise en considération pour la limitation du nombre de concours auxquels un candidat est autorisé à se présenter au titre d'une même année lorsque le nombre de postes mis au concours dans cette circonscription est inférieur à 2 p. 100 [*pourcentage*] du total des postes mis au concours la même année dans l'ensemble des circonscriptions.
+Les candidats au concours d'internat qui demandent à être classés en vue d'être affectés dans la circonscription des départements d'outre-mer doivent se présenter au concours de celle des deux zones géographiques prévues à l'article 15 qui sera désignée à cet effet par arrêté des ministres chargés de l'enseignement supérieur et de la santé. Ils sont classés au titre de cette zone et au titre de la circonscription des départements d'outre-mer.
+
+Le nombre d'internes affectés dans cette circonscription est fixé chaque année, par discipline d'internat, par arrêté des ministres chargés de l'enseignement supérieur et de la santé.

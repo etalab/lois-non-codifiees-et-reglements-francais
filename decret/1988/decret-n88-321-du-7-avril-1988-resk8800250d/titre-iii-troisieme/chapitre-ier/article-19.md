@@ -1,7 +1,5 @@
 # Article 19
 
-Après publication des résultats des concours interrégionaux, chaque candidat reçoit individuellement son classement dans chacune des circonscriptions dans lesquelles il s'est présenté.
+Après publication des résultats, chaque candidat reçoit individuellement son classement dans chacune des zones géographiques dans lesquelles il s'est présenté.
 
-La procédure nationale de choix de la circonscription et de la discipline est organisée selon des modalités fixées par arrêté du ministre chargé des universités et du ministre chargé de la santé [*autorités compétentes*].
-
-Les affectations dans une circonscription et une discipline sont effectuées par le préfet mentionné à l'article 16 du présent décret.
+La procédure nationale de choix de la subdivision et de la discipline est organisée en fonction du rang de classement obtenu par les candidats au concours de la zone géographique où ils se sont présentés et selon des modalités fixées par arrêté des ministres chargés de l'enseignement supérieur et de la santé. Les affectations sont prononcées par les préfets mentionnés à l'article 16 du présent décret.

@@ -14,6 +14,6 @@ Toutefois, en cas d'empêchement à participer aux épreuves résultant de l'acc
 
 Cette période peut être prolongée pour les mêmes raisons lorsque le résidanat n'a pu être accompli en deux années consécutives du fait des obligations du service national ou d'un congé de maternité.
 
-Les candidats aux concours peuvent se présenter, lors de chacune des deux sessions prévues ci-dessus, dans trois des circonscriptions visées à l'article 53 de la loi du 12 novembre 1968 susvisée.
+Les candidats aux concours peuvent se présenter, lors de chacune des deux sessions prévues ci-dessus, dans les deux zones géographiques mentionnées à l'article 15 ci-dessus.
 
 Lorsqu'un candidat participe aux épreuves d'un concours sans remplir les conditions de candidature requises, il épuise un droit à concourir.

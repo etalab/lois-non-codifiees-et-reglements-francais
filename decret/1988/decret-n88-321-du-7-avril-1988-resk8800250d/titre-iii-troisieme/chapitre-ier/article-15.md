@@ -1,17 +1,23 @@
 # Article 15
 
-Il est organisé chaque année, dans chacune des circonscriptions mentionnées à l'article 53 de la loi du 12 novembre 1968 susvisée, un concours d'internat en médecine. Ce concours est ouvert pour le nombre de postes fixé, pour chaque discipline, par arrêté du ministre chargé des universités et du ministre chargé de la santé.
+Il est organisé chaque année un concours d'internat en médecine dans chacune des deux zones géographiques définies par arrêté des ministres chargés de l'enseignement supérieur et de la santé, et qui regroupent respectivement plusieurs circonscriptions mentionnées à l'article 53 de la loi du 12 novembre 1968 susvisée.
+
+Ce concours est ouvert pour le nombre de postes fixé pour chaque discipline d'internat par arrêté des ministres chargés de l'enseignement supérieur et de la santé.
 
 Les disciplines d'internat sont les suivantes :
 
-spécialités médicales ;
+- spécialités médicales ;
 
-santé publique ;
+- santé publique ;
 
-médecine du travail ;
+- médecine du travail ;
 
-spécialités chirurgicales ;
+- spécialités chirurgicales ;
 
-biologie médicale ;
+- biologie médicale ;
 
-psychiatrie.
+- psychiatrie,
+
+ainsi qu'à compter de l'année universitaire 1993-1994 :
+
+anesthésiologie-réanimation chirurgicale.
