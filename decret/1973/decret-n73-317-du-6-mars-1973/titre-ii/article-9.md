@@ -1,3 +1,3 @@
 # Article 9
 
-Les emplois de chef de section principal sont accessibles par voie d'avancement de grade dans les conditions prévues par les articles L. 819 et suivants du code de la santé publique. Peuvent être promus les chefs de section justifiant de quatre années au moins de services effectifs dans leur emploi.
+Sous réserve des dispositions de l'article L. 811 (2e alinéa) du code de la santé publique, les adjoints techniques chefs sont recrutés par voie de concours sur titres ou sur épreuves selon les modalités fixées par arrêté du ministre chargé de la santé. Ces concours sont ouverts par le préfet du département ou les préfets des départements intéressés et sont accessibles aux adjoints techniques justifiant de six années de services effectifs dans leur emploi ainsi qu'aux adjoints techniques principaux.

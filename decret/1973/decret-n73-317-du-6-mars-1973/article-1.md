@@ -24,12 +24,14 @@ a) Plus de 1500 lits : deux ingénieurs principaux et un ou plusieurs ingénieur
 
 b) De 501 à 1500 lits : un ingénieur principal et un ingénieur subdivisionnaire.
 
-4) Dans les établissements, syndicats interhospitaliers et groupements interhospitaliers comptant plus de 200 lits :
+4) Dans les établissements, groupements interhospitaliers et syndicats interhospitaliers comptant plus de deux cents lits :
 
-Des chefs de section principaux.
+Des adjoints techniques chefs.
 
-Des chefs de section.
+Des adjoints techniques principaux.
 
 Des adjoints techniques.
+
+Des dessinateurs chefs de groupe.
 
 Des dessinateurs.

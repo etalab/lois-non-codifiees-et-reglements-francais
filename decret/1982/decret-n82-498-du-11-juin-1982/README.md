@@ -1,4 +1,4 @@
-# Arrêté du 19 mai 1982 relatif aux règles d'institution et de fonctionnement des réserves nationales de chasse
+# Décret n°82-498 du 11 juin 1982 n° 82-498 du 11 juin 1982 pris pour l'application de la loi n° 82-214 du 2 mars 1982 portant statut particulier de la région de Corse : organisation administrative, pour ce qui concerne l'élection de l'assemblée de Corse.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -15,4 +15,3 @@
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
-- [Article 16](article-16.md)
