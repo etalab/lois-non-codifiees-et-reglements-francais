@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents non titulaires du Conservatoire de l'espace littoral et des rivages lacustres qui occupent un emploi présentant les caractéristiques définies à l'article 3 de la loi du 13 juillet 1983 susvisée, qui remplissent les conditions énumérées à l'article 73 de la loi du 11 janvier 1984 susvisée et qui, relevant du deuxième groupe de la 3e catégorie défini par le règlement du 20 avril 1976 régissant le personnel du conservatoire, exercent des tâches de gestion administrative, ont vocation à être titularisés, sur leur demande, dans le corps des adjoints administratifs des services déconcentrés de l'équipement.
