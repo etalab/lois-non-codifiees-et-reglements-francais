@@ -113,6 +113,7 @@
 - [Décret n°81-574 du 15 mai 1981](decret-n81-574-du-15-mai-1981)
 - [Décret n°81-591 du 15 mai 1981](decret-n81-591-du-15-mai-1981)
 - [Décret n°81-599 du 15 mai 1981](decret-n81-599-du-15-mai-1981)
+- [Décret du 16 octobre 1981](decret-du-16-octobre-1981)
 - [Décret n°81-150 du 16 février 1981](decret-n81-150-du-16-fevrier-1981)
 - [Décret n°81-60 du 16 janvier 1981](decret-n81-60-du-16-janvier-1981)
 - [Décret n°81-704 du 16 juillet 1981](decret-n81-704-du-16-juillet-1981)
