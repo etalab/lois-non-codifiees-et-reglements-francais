@@ -1,0 +1,3 @@
+# Article 2
+
+Sous réserve des dispositions de l'article 4 ci-dessous, la détermination des mesures techniques de prévention et de confinement à mettre en oeuvre dans les établissements et les parties d'établissements dans lesquels des travailleurs sont susceptibles d'être exposés à des agents biologiques pathogènes au sens de l'article R. 231-61-1 du code du travail est fondée sur le niveau des risques mis en évidence au terme de l'évaluation prévue à l'article R. 231-62 du code du travail qui tient compte, d'une part, de la classification de ces agents et, d'autre part, des conditions d'exposition des travailleurs.
