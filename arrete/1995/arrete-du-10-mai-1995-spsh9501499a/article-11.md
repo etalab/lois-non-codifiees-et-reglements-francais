@@ -22,4 +22,4 @@ Psychiatrie :
 
 3° Législation et réglementation applicables aux hôpitaux psychiatriques et aux malades mentaux (durée : deux heures ; cotée de 0 à 20).
 
-Toute note inférieure à 6 est éliminatoire.
+Pour les épreuves cotées de 0 à 30, les notes inférieures à 9 sont éliminatoires ; pour les épreuves cotées de 0 à 20, les notes inférieures à 6 sont éliminatoires.

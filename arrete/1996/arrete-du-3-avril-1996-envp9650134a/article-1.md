@@ -1,0 +1,3 @@
+# Article 1
+
+Tout exploitant d'une installation soumise à la taxe parafiscale sur la pollution atmosphérique, membre d'une association agréée par le ministère de l'environnement au titre de l'article 2 du décret du 13 mai 1974 susvisé, peut déduire, en application de l'article 4 du décret du 3 mai 1995 susvisé, du montant de la taxe due au titre de ses installations situées dans la zone surveillée par ledit réseau, les cotisations ou dons de toute nature versés au cours de l'année civile précédente au profit de ladite association, dans la limite de 25 p. 100 de la taxe due si celle-ci est supérieure à deux millions de francs, dans la limite de 500 000 F dans le cas contraire.

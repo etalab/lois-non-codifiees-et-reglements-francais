@@ -36,4 +36,4 @@ Psychiatrie :
 
 3° Une ou plusieurs questions portant sur l'expertise médico-légale, la législation et la réglementation applicables au fonctionnement des hôpitaux psychiatriques ainsi qu'aux malades mentaux (durée : deux heures ; cotée de 0 à 20 ; affectée d'un coefficient 2).
 
-Toute note inférieure à 6 est éliminatoire.
+Pour les épreuves cotées de 0 à 30, les notes inférieures à 9 sont éliminatoires ; pour les épreuves cotées de 0 à 20, les notes inférieures à 6 sont éliminatoires ; pour les épreuves cotées de 0 à 10, les notes inférieures à 3 sont éliminatoires.

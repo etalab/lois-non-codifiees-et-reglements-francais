@@ -1,5 +1,5 @@
 # Article 25
 
-Cinq représentants du personnel sont élus lors des élections au comité technique paritaire central pour siéger à la commission d'action sociale de l'administration centrale.
+Dix représentants du personnel sont désignés par les organisations syndicales siégeant au comité technique paritaire central.
 
-A titre transitoire et dans l'attente de la consultation électorale pour la désignation des représentants du personnel au comité technique paritaire central, les représentants du personnel à la commission d'action sociale pour l'administration centrale sont élus par les représentants du personnel siégeant au comité technique paritaire central.
+Le nombre de sièges de titulaires et de suppléants attribué à chaque organisation syndicale est celui dont elle dispose au comité technique paritaire central.

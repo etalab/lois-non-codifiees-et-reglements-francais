@@ -1,0 +1,5 @@
+# Article 10
+
+La commission d'organisation électorale forme le bureau de vote et, en cas de besoin, des bureaux annexes. Le bureau de vote est présidé par le président de la commission d'organisation électorale. Il comprend, en outre, les autres membres de cette commission ainsi que cinq représentants du personnel choisis par celle-ci, sur proposition des organisations syndicales représentatives du personnel de l'Opéra. Il peut constituer en son sein des bureaux annexes composés par au moins un membre de la commission d'organisation électorale et un représentant du personnel. Le directeur de la caisse de retraites des personnels de l'Opéra national de Paris assure le secrétariat du bureau de vote. Pendant tout le cours des opérations électorales, deux membres du bureau de vote, au moins, doivent être présents.
+
+Avant l'ouverture du scrutin, le bureau de vote doit constater que le nombre des enveloppes et de chacun des bulletins correspond exactement à celui des électeurs inscrits. Le président du bureau constate publiquement l'heure d'ouverture et l'heure de clôture du scrutin. Aucun vote ne peut être reçu après la déclaration de clôture.
