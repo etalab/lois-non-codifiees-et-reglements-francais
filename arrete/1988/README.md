@@ -399,7 +399,6 @@
 - [Arrêté du 20 avril 1988 (ASES8800624A)](arrete-du-20-avril-1988-ases8800624a)
 - [Arrêté du 20 avril 1988 (ASES8800633A)](arrete-du-20-avril-1988-ases8800633a)
 - [Arrêté du 20 décembre 1988 (DEFM8801914A)](arrete-du-20-decembre-1988-defm8801914a)
-- [Arrêté du 20 décembre 1988 (PTTT8801116A)](arrete-du-20-decembre-1988-pttt8801116a)
 - [Arrêté du 20 décembre 1988 (PTTT8801117A)](arrete-du-20-decembre-1988-pttt8801117a)
 - [Arrêté du 20 décembre 1988 (PTTT8801118A)](arrete-du-20-decembre-1988-pttt8801118a)
 - [Arrêté du 20 décembre 1988 (PTTT8801119A)](arrete-du-20-decembre-1988-pttt8801119a)

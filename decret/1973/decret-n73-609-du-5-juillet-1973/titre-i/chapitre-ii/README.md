@@ -1,7 +1,5 @@
 # Chapitre II : Formation professionnelle aux fonctions de notaire.
 
-- [Section I : L'enseignement professionnel.](section-i)
-- [Section 2 : Le stage.](section-2)
 - [Section II : Les attributions et l'organisation des centres de formation professionnelle.](section-ii)
 - [Section III : La formation dispensée par le centre.](section-iii)
 - [Section IV : Le diplôme d'aptitude aux fonctions de notaire.](section-iv)
