@@ -10,4 +10,3 @@
 - [Article Annexe VII](article-annexe-vii.md)
 - [Article Annexe VIII](article-annexe-viii.md)
 - [Article Annexe IX](article-annexe-ix.md)
-- [Pièces justificatives](pieces-justificatives)
