@@ -325,6 +325,7 @@
 - [Décret n°97-299 du 26 mars 1997 (ENVN9750026D)](decret-n97-299-du-26-mars-1997-envn9750026d)
 - [Décret n°97-530 du 26 mai 1997 (TASO9710628D)](decret-n97-530-du-26-mai-1997-taso9710628d)
 - [Décret n°64-96 du 27 janvier 1964](decret-n64-96-du-27-janvier-1964)
+- [Décret n°95-1344 du 27 décembre 1995 (FPPA9510000D)](decret-n95-1344-du-27-decembre-1995-fppa9510000d)
 - [Décret n°96-1178 du 27 décembre 1996 (MIPP9600482D)](decret-n96-1178-du-27-decembre-1996-mipp9600482d)
 - [Décret n°96-1250 du 27 décembre 1996 (MIPP9600512D)](decret-n96-1250-du-27-decembre-1996-mipp9600512d)
 - [Décret n°96-1256 du 27 décembre 1996 (FPPA9610035D)](decret-n96-1256-du-27-decembre-1996-fppa9610035d)
