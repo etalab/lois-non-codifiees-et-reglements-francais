@@ -24,6 +24,7 @@
 - [Arrêté du 25 janvier 1971](arrete-du-25-janvier-1971)
 - [Arrêté du 25 mai 1971](arrete-du-25-mai-1971)
 - [Arrêté du 26 avril 1972](arrete-du-26-avril-1972)
+- [Arrêté du 26 novembre 1971](arrete-du-26-novembre-1971)
 - [Arrêté du 27 août 1971](arrete-du-27-aout-1971)
 - [Arrêté du 27 octobre 1971](arrete-du-27-octobre-1971)
 - [Arrêté du 28 septembre 1971](arrete-du-28-septembre-1971)
