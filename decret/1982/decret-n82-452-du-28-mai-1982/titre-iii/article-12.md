@@ -14,4 +14,6 @@ Les comités techniques paritaires connaissent dans les conditions et les limite
 
 6° Aux problèmes d'hygiène et de sécurité ;
 
-7° Aux critères de répartition des primes de rendement.
+7° Aux critères de répartition des primes de rendement ;
+
+8° Aux plans fixant des objectifs pluriannuels d'amélioration de l'accès des femmes aux emplois d'encadrement supérieur.
