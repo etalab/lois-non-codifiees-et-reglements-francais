@@ -1,0 +1,11 @@
+# Article 23
+
+Les cotisations que doivent acquitter les membres des fédérations par application des dispositions de l'article 22-1 de la loi n° 74-1114 du 27 décembre 1974, sont fixées par l'assemblée générale de chaque fédération, conformément aux dispositions prévues par un arrêté du ministre chargé de la chasse relatif au statut des fédérations départementales des chasseurs, en fonction d'un montant moyen national fixé par le collège des présidents des fédérations réuni chaque année à cet effet en assemblée générale.
+
+Le produit des cotisations statutaires versées aux fédérations départementales des chasseurs est utilisé par chacune d'elles pour son fonctionnement et pour la couverture des dépenses relatives à l'ensemble des actions énumérées au deuxième alinéa de l'article 396 du code rural.
+
+Lorsque, dans un département, il est constaté qu'au cours d'un exercice le montant des sommes versées pour indemniser les dégâts de gibier a atteint le triple du produit de la part des redevances cynégétiques affectées à l'indemnisation, le montant des cotisations statutaires de la fédération intéressée est majoré, au cours de l'exercice suivant, par décision du conseil d'administration de l'office national de la chasse, d'une quote-part de cotisation permettant d'apurer le solde des indemnisations de l'année précédente, sans toutefois que cette quote-part puisse être supérieure au montant moyen national de ces cotisations. Avant la clôture de cet exercice, le montant global de cette majoration est intégralement versé à l'office national de la chasse pour abonder le compte d'indemnisation visé à l'article 1er du décret n° 75-542 du 30 juin 1975.
+
+Pour l'exercice de la chasse maritime, les marins pêcheurs professionnels et les conchyliculteurs assimilés administrativement auxdits marins, qui sont dispensés du visa de leur permis de chasser, ne sont pas obligés d'adhérer à une fédération départementale de chasseurs.
+
+Le contrôle des fédérations départementales des chasseurs est exercé par le directeur départemental de l'agriculture qui approuve leur budget, procède éventuellement à l'inscription des dépenses obligatoires et, le cas échéant, sur décision du ministre chargé de la chasse, assure la gestion d'office de ce budget.
