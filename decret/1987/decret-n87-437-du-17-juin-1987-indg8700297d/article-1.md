@@ -1,0 +1,3 @@
+# Article 1
+
+Le comité technique de l'électricité, institué auprès du ministre chargé de l'électricité, a pour mission de donner son avis dans les cas prévus par les articles 14, 18 (4° et 6°) et 19 de la loi du 15 juin 1906 susvisée, par l'article 17 de l'arrêté du 29 décembre 1954 modifié et l'article 10 de l'arrêté du 6 janvier 1987 susvisés et par toute autre disposition législative ou réglementaire en vigueur prévoyant sa consultation. Il donne également son avis sur les questions dont le ministre chargé de l'électricité le saisit, soit de sa propre initiative, soit sur demande des ministres intéressés.

@@ -1,0 +1,3 @@
+# Article 1
+
+Pendant une période de deux ans à partir de la publication du présent décret et par dérogation aux dispositions des articles 6 et 8 du décret du 29 septembre 1969 susvisé, peuvent être nommés agents du 2e groupe (opérateurs radio) ou du 3e groupe (régulateurs télétypistes, identificateurs techniques, standardistes) dans le corps des agents du service des transmissions les auxiliaires de bureau du service des transmissions, en fonctions à la date de publication du présent décret et comptant à cette date une ancienneté équivalente à deux ans au moins de service à temps complet en cette qualité, qui ont satisfait aux épreuves d'un examen professionnel.
