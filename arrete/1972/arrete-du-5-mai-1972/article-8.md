@@ -6,4 +6,4 @@ Une fiche d'état civil et de nationalité française ;
 
 Une copie ou une photocopie des diplômes certifiée conforme (si cette pièce n'a pas été fournie lors de l'inscription) ;
 
-Un état signalétique et des services militaires ou une copie certifiée conforme de ce document ou des premières pages du livret militaire (si cette pièce n'a pas été fournie lors de l'inscription) avec, éventuellement, copie des citations, et, pour ceux qui n'ont pas accompli leur service national, une pièce attestant leur situation au regard des lois sur le recrutement de l'armée.
+Un état signalétique et des services ou une copie certifiée conforme de ce document (si cette pièce n'a pas été fournie lors de l'inscription) avec éventuellement copie des citations, pour ceux qui n'ont pas accompli leur service national, et une pièce attestant leur situation au regard des obligations du service national, pour ceux qui n'ont pas accompli leur service actif.

@@ -2,28 +2,38 @@
 
 Les candidats constituent un dossier comprenant les pièces suivantes :
 
-1° Pour tous les candidats, une demande établie sur un imprimé dont le modèle est fixé par l'école nationale de la magistrature et précisant notamment :
+1° Pour tous les candidats, une demande établie sur un imprimé dont le modèle est fixé par l'Ecole nationale de la magistrature et précisant notamment :
 
 a) Les matières à option et la langue étrangère choisie ;
 
 b) Le centre d'épreuves écrites choisi.
 
-2° Pour les candidats au concours externe déjà titulaires au moment du dépôt de leur demande de la licence en droit ou du diplôme d'un institut régional d'administration, une copie ou une photocopie certifiée conforme de ces différents diplômes.
+2° Pour les candidats au premier concours déjà titulaires au moment du dépôt de leur demande de l'un des diplômes ou certificats visés à l'article 16 (1°) de l'ordonnance n° 58-1270 du 22 décembre 1958 susvisée, une copie ou une photocopie certifiée conforme de ce diplôme ou certificat.
 
-Toutefois, les candidats au concours externe qui ne seraient pas encore en possession de leurs diplômes à la date limite des inscriptions doivent déposer les documents en faisant foi dans un délai de huit jours au maximum après la proclamation des résultats du concours.
+Toutefois, les candidats au premier concours qui ne seraient pas encore, à la date limite des inscriptions, en possession de leurs diplômes ou certificats et, dans le cas des diplômes délivrés par un Etat membre de la Communauté européenne, des documents attestant de leur équivalence doivent déposer les documents en faisant foi dans un délai de huit jours au maximum après la proclamation des résultats du concours.
 
-Ces candidats doivent néanmoins aviser obligatoirement et le procureur de la République du lieu de constitution du dossier et l'école nationale de la magistrature du résultat des examens conditionnant leur candidature ;
+Ces candidats doivent néanmoins aviser obligatoirement et le procureur de la République du lieu de constitution du dossier et l'Ecole nationale de la magistrature du résultat des examens conditionnant leur candidature ;
 
-3° Pour les candidats au concours interne, un état des services civils et militaires accomplis. Cet état doit être établi par l'autorité administrative investie du pouvoir de nomination sur un imprimé dont le modèle est fixé par l'école nationale de la magistrature. Un état des services doit être fourni pour chacune des administrations auxquelles a appartenu le candidat.
+3° a) Pour les candidats au deuxième concours, un état des services civils et militaires accomplis. Cet état doit être établi par l'autorité administrative investie du pouvoir de nomination sur un imprimé dont le modèle est fixé par l'Ecole nationale de la magistrature. Un état des services doit être fourni pour chacune des administrations auxquelles a appartenu le candidat.
 
-4° Pour les candidats qui désirent bénéficier du recul de la limite d'âge :
+b) Pour les candidats au troisième concours, toute pièce justifiant des activités professionnelles, mandats ou fonctions visés par l'article 17 (3°) de l'ordonnance n° 58-1270 du 22 décembre 1958 susvisée ; un document doit être fourni pour chacune de ces activités, mandats ou fonctions ;
 
-En fonction de leur service militaire : un état signalétique et des services militaires ou une copie certifiée conforme de ce document ou des premières pages du livret militaire ;
+4° Pour les candidats qui désirent bénéficier du recul ou de l'inopposabilité de la limite d'âge :
 
-En tant que père ou mère de famille : une fiche d'état civil tenant lieu de certificat de vie des enfants ;
+En fonction de l'accomplissement du service national : un état signalétique et des services ou une copie certifiée conforme de ce document ;
 
-En raison de leur inscription en vue de la licence en droit dans les conditions prévues par les décrets n° 56-349 du 30 mars 1956, n° 56-1201 du 27 novembre 1956 et n° 61-440 du 5 mai 1961, modifié par le décret n° 63-62 du 25 janvier 1963 : un certificat délivré par l'université précisant la date de la première inscription en vue de la licence en droit et attestant que cette inscription est intervenue en application des décrets visés au présent alinéa ;
+En tant qu'engagé ou rengagé volontaire n'ayant pas accédé à la fonction publique par la voie des emplois réservés : un état signalétique et des services ou tout document justifiant du temps passé effectivement sous les drapeaux ;
 
-En raison de leur accession à un institut régional d'administration par la voie du second concours : un certificat délivré par cet institut précisant que le candidat était âgé de vingt-trois, vingt-quatre ou au moins vingt-cinq ans au 1er janvier de l'entrée à l'institut régional d'adminitration.
+En tant que sous officier de carrière ou militaire non engagé ayant accompli des obligations d'une durée supérieure à celle du service actif : un état signalétique et des services ou tout document justifiant du temps passé sous les drapeaux ;
 
-5° Quatre enveloppes timbrées à l'adresse du candidat et une photographie d'identité récente. Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission et des états des service, les candidats doivent s'adresser aux autorités auprès desquelles ils doivent déposer leurs candidatures.
+A raison de leur situation de famille : une fiche d'état civil établie depuis moins de 3 mois et tous autres documents de nature à établir leur situation ;
+
+En raison de leur inscription en vue de l'un des diplômes visés à l'article 16 (1°) de l'ordonnance n° 58-1270 du 22 décembre 1958 susvisée, dans les conditions prévues au second alinéa de l'article 17 du décret du 4 mai 1972 susvisé : toute pièce ou document propre à justifier de cette inscription ;
+
+En tant que travailleur handicapé, les pièces justificatives établies par la commission technique d'orientation et de reclassement professionnel dont ils dépendent ;
+
+En tant qu'ancien travailleur handicapé, tout document justifiant de la durée des traitements et des soins qu'ils ont eu à subir en cette qualité ;
+
+En tant que sportif ou ancien sportif de haut niveau, la copie de la liste visée aux articles 26 et 29 de la loi n° 84-610 du 16 juillet 1984 relative à l'organisation et à la promotion des activités physiques et sportives, arrêtée par le ministre chargé des sports, sur laquelle il figure, ou tous documents justifiant de la durée de leur inscription sur cette liste ;
+
+5° Quatre enveloppes timbrées à l'adresse du candidat et une photographie d'identité récente. Pour obtenir les imprimés nécessaires à l'établissement de la demande d'admission, des états des service et des documents justificatifs visés au 3° du présent article, les candidats doivent s'adresser aux autorités auprès desquelles ils doivent déposer leurs candidatures.
