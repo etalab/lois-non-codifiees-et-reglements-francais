@@ -1,10 +1,6 @@
 # Article 17
 
-Les fonctionnaires et employés civils qui, en dehors du cas d'invalidité, viennent à quitter le service pour quelque cause que ce soit, avant de pouvoir obtenir leur admission à la retraite ont droit, dans les conditions fixées ci-après, au remboursement de la retenue subie d'une manière effective sur leur traitement.
-
-Le produit de cette retenue, majoré de ses intérêts calculés au taux bonifié à ses déposants par la caisse d'épargne et de prévoyance de Paris à l'époque du départ, est transféré à la caisse nationale d'assurance en cas de décès pour servir à la constitution, au profit du fonctionnaire et de l'employé, d'une assurance de capital différé dont l'échéance est fixée au plus tôt à l'expiration d'un délai de cinq ans à dater du départ de l'intéressé.
-
-Ce transfert peut, au choix du bénéficiaire, être effectué à capital aliéné ou à capital réservé et suivant les modalités prévues par la législation de la caisse nationale d'assurance en cas de décès.
+Les fonctionnaires et employés qui, en dehors du cas d'invalidité, viendront à quitter le service pour quelque cause que ce soit, avant de pouvoir obtenir leur admission à la retraite, ont droit au remboursement direct et immédiat de la retenue subie d'une manière effective sur leur traitement, sauf compensation, le cas échéant, avec les sommes qui pourraient être dues par les intéressés du chef des débets prévus par l'article 54 de la présente loi.
 
 Les femmes fonctionnaires ou employées, mères de trois enfants vivants, quittant leurs fonctions sans avoir droit à pension, peuvent demander le remboursement immédiat de leurs retenues bonifiées de leurs intérêts.
 
