@@ -1,0 +1,3 @@
+# Article 5
+
+Lorsque les titres de la société nouvelle sont apportés à une société civile ou à un fonds commun de placement d'entreprise mentionné à l'article 21 de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs mobilières, la société nouvelle est tenue aux obligations de l'article 4 en cas de cession par un salarié de tout ou partie de ses parts dans la société civile ou dans le fonds commun de placement d'entreprise. Il en est de même en cas de cession des titres de la société nouvelle par la société civile ou par le fonds commun de placement.
