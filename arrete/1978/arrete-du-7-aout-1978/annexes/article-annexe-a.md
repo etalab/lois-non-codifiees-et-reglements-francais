@@ -32,6 +32,9 @@
 <td> : Centrafrique  :     0,085      :</td>
 </tr>
 <tr>
+<td> : Comores       :     0,078      :</td>
+</tr>
+<tr>
 <td> : Congo         :     0,077      :</td>
 </tr>
 <tr>
