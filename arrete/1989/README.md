@@ -229,6 +229,7 @@
 - [Arrêté du 24 janvier 1989 (TEFT8903104A)](arrete-du-24-janvier-1989-teft8903104a)
 - [Arrêté du 24 mars 1989 (PTTT8900275A)](arrete-du-24-mars-1989-pttt8900275a)
 - [Arrêté du 24 novembre 1988 (PRME8861197A)](arrete-du-24-novembre-1988-prme8861197a)
+- [Arrêté du 25 avril 1989 (ECOM8900216A)](arrete-du-25-avril-1989-ecom8900216a)
 - [Arrêté du 25 avril 1989 (PRMX8910096A)](arrete-du-25-avril-1989-prmx8910096a)
 - [Arrêté du 25 avril 1989 (PRMX8910097A)](arrete-du-25-avril-1989-prmx8910097a)
 - [Arrêté du 25 février 1984](arrete-du-25-fevrier-1984)
