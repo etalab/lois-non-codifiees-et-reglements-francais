@@ -1,0 +1,7 @@
+# Article 1
+
+Lorsque la composition du jury des concours ou examens professionnels prévus à l'article 12 de la loi du 3 janvier 2001 susvisée n'est pas fixée pour les concours et examens professionnels d'accès aux corps figurant en annexe du décret n° 2001-1341 du 28 décembre 2001 susvisé, le jury est composé comme suit :
+
+1° Un directeur, chef d'un établissement mentionné à l'article 2 de la loi du 9 janvier 1986 susvisée ou son représentant appartenant à la catégorie A, désigné après tirage au sort par le directeur départemental des affaires sanitaires et sociales du département dans lequel est ouvert un concours, parmi les directeurs chefs d'établissement du département, président ;
+
+2° Deux fonctionnaires hospitaliers de catégorie A, si le corps donnant lieu à recrutement est classé dans la catégorie A ou B, ou deux fonctionnaires hospitaliers de catégorie A ou B, si le corps donnant lieu à recrutement est classé dans la catégorie C. Au moins un de ces deux fonctionnaires relève de la même filière professionnelle que celle pour laquelle le concours est ouvert. Ils sont en fonction dans un des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée situé dans le département dans lequel est ouvert un concours ; ils sont désignés après tirage au sort par le directeur départemental des affaires sanitaires et sociales parmi les fonctionnaires proposés par les établissements du département.
