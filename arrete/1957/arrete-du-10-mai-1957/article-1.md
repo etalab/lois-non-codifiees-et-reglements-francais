@@ -1,0 +1,3 @@
+# Article 1
+
+Eu égard au régime particulier des eaux dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion, les tarifs des redevances annuelles afférentes aux autorisations de prises d'eau accordées dans ces départements, autres que les autorisations de prises d'eau destinées à l'utilisation de la force motrice, seront provisoirement inférieures de 50 p. 100 à ceux prévus par le décret du 2 novembre 1948, ainsi qu'à ceux faisant l'objet des articles 1er et 2 de l'arrêté du 4 décembre 1950 concernant les autorisations de prises d'eau destinées à l'irrigation, la submersion, le colmatage, le limonage, le dessalage des terres ou l'alimentation en eau potable des agriculteurs.
