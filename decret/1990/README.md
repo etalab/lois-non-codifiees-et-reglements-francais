@@ -308,6 +308,7 @@
 - [Décret n°90-495 du 20 juin 1990 (ECOA9000041D)](decret-n90-495-du-20-juin-1990-ecoa9000041d)
 - [Décret n°90-496 du 20 juin 1990 (TEFE9003524D)](decret-n90-496-du-20-juin-1990-tefe9003524d)
 - [Décret n°79-824 du 21 septembre 1979](decret-n79-824-du-21-septembre-1979)
+- [Décret n°81-972 du 21 octobre 1981](decret-n81-972-du-21-octobre-1981)
 - [Décret n°89-925 du 21 décembre 1989 (ECOM8930069D)](decret-n89-925-du-21-decembre-1989-ecom8930069d)
 - [Décret n°90-1137 du 21 décembre 1990 (MERE9000045D)](decret-n90-1137-du-21-decembre-1990-mere9000045d)
 - [Décret n°90-166 du 21 février 1990 (JUSX8900151D)](decret-n90-166-du-21-fevrier-1990-jusx8900151d)
