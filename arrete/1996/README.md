@@ -1078,7 +1078,6 @@
 - [Arrêté du 27 juin 1996 (MJSK9670091A)](arrete-du-27-juin-1996-mjsk9670091a)
 - [Arrêté du 27 juin 1996 (TASE9610994A)](arrete-du-27-juin-1996-tase9610994a)
 - [Arrêté du 27 juin 1996 (TASS9621905A)](arrete-du-27-juin-1996-tass9621905a)
-- [Arrêté du 27 mars 1996 (AGRP9600713A)](arrete-du-27-mars-1996-agrp9600713a)
 - [Arrêté du 27 mars 1996 (MENA9600888A)](arrete-du-27-mars-1996-mena9600888a)
 - [Arrêté du 27 mars 1996 (TASP9621028A)](arrete-du-27-mars-1996-tasp9621028a)
 - [Arrêté du 27 mars 1996 (TASS9621013A)](arrete-du-27-mars-1996-tass9621013a)
