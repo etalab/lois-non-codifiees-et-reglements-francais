@@ -228,6 +228,7 @@
 - [Décret n°90-265 du 23 mars 1990 (SPSS8902351D)](decret-n90-265-du-23-mars-1990-spss8902351d)
 - [Décret n°90-266 du 23 mars 1990 (SPSS8902350D)](decret-n90-266-du-23-mars-1990-spss8902350d)
 - [Décret n°90-276 du 23 mars 1990 (MAEJ9030017D)](decret-n90-276-du-23-mars-1990-maej9030017d)
+- [Décret n°90-364 du 23 avril 1990 (DOMP9000008D)](decret-n90-364-du-23-avril-1990-domp9000008d)
 - [Décret n°90-88 du 23 janvier 1990 (BUDF8900012D)](decret-n90-88-du-23-janvier-1990-budf8900012d)
 - [Décret n°90-98 du 23 janvier 1990 (MENN8902170D)](decret-n90-98-du-23-janvier-1990-menn8902170d)
 - [Décret n°91-704 du 23 juillet 1991 (INTC9100270D)](decret-n91-704-du-23-juillet-1991-intc9100270d)
