@@ -18,6 +18,8 @@ Le directeur de la Caisse nationale des allocations familiales ou son représent
 
 Le directeur de la Caisse nationale d'assurance vieillesse des travailleurs salariés ou son représentant ;
 
+Le directeur de l'agence centrale des organismes de sécurité sociale ou son représentant ;
+
 Le directeur des caisses centrales de mutualité sociale agricole ou son représentant ;
 
 Le directeur de la Caisse autonome nationale de sécurité sociale dans les mines ou son représentant ;
