@@ -1,5 +1,6 @@
 # 1972
 
+- [Décret n°60-424 du 4 mai 1960](decret-n60-424-du-4-mai-1960)
 - [Décret n°72-866 du 6 septembre 1972](decret-n72-866-du-6-septembre-1972)
 - [Décret n°72-849 du 11 septembre 1972](decret-n72-849-du-11-septembre-1972)
 - [Décret n°72-877 du 12 septembre 1972](decret-n72-877-du-12-septembre-1972)
