@@ -33,6 +33,7 @@
 - [Décret n°89-826 du 9 novembre 1989 (MENF8902368D)](decret-n89-826-du-9-novembre-1989-menf8902368d)
 - [Décret n°99-1028 du 9 décembre 1999 (MESS9923695D)](decret-n99-1028-du-9-decembre-1999-mess9923695d)
 - [Décret n°2000-1111 du 10 novembre 2000 (MENF0002693D)](decret-n2000-1111-du-10-novembre-2000-menf0002693d)
+- [Décret n°2000-18 du 10 janvier 2000 (INTM9900056D)](decret-n2000-18-du-10-janvier-2000-intm9900056d)
 - [Décret n°2000-19 du 11 janvier 2000 (MESS9924026D)](decret-n2000-19-du-11-janvier-2000-mess9924026d)
 - [Décret n°2000-660 du 11 juillet 2000 (DEFP0001571D)](decret-n2000-660-du-11-juillet-2000-defp0001571d)
 - [Décret n°2000-1107 du 14 novembre 2000 (MENF0002155D)](decret-n2000-1107-du-14-novembre-2000-menf0002155d)

@@ -1,11 +1,37 @@
 # Article 8
 
-Le président convoque la commission paritaire soit de sa propre initiative, soit à la demande écrite de la majorité des membres titulaires. Il fixe l'ordre du jour de la réunion.
+I. - Sont interdits :
 
-L'avis de la commission est émis à la majorité des membres présents.
+- la chasse à tir de la perdrix ou du faisan au poste, soit à l'agrainée, soit à proximité d'abreuvoirs ;
 
-Lorsqu'elle siège en conseil de discipline et en comité d'avancement, la commission émet un avis à la majorité des membres présents. En cas de partage égal des voix, la voix du président est prépondérante.
+- la chasse à tir du gibier d'eau à l'agrainée ;
 
-Un procès-verbal de chacune des réunions est établi. Le secrétariat de la commission est assuré par le Conseil supérieur de la pêche.
+- la chasse de la bécasse à la passée ou à la croule ;
 
-Le procès-verbal de la commission des litiges est adressé au ministre chargé de la pêche en eau douce.
+- le déterrage de la marmotte ;
+
+- l'emploi des chiens lévriers pur sang ou croisés ;
+
+- la chasse à tir des ongulés à proximité immédiate de dépôts de sel ou de dispositifs d'affouragement.
+
+II. - Sont interdits :
+
+1. Pour la chasse du chamois ou isard :
+
+La chasse en battue ou traque, sauf dans les départements suivants : Ain, Alpes-Maritimes, Haute-Savoie, Vosges ;
+
+L'emploi des chiens, sauf dans les départements suivants :
+
+Haute-Savoie, Vosges.
+
+2. Pour la chasse du mouflon :
+
+- la chasse en battue ou traque, sauf dans les départements suivants : Alpes-Maritimes, Aveyron, Cantal, Dordogne, Gard, Hérault, Puy-de-Dôme, Haute-Savoie, Vosges ;
+
+- l'emploi des chiens, sauf dans les départements suivants :
+
+Aveyron, Dordogne, Gard, Hérault, Puy-de-Dôme, Savoie, Haute-Savoie, Vosges.
+
+III. - La chasse du lapin peut être pratiquée à l'aide du furet. Toutefois son emploi est soumis à une autorisation individuelle délivrée par le préfet dans les départements suivants :
+
+Alpes-de-Haute-Provence, Hautes-Alpes, Alpes-Maritimes, Ariège, Ardèche, Aude, Aveyron, Bouches-du-Rhône, Cantal, Charente, Corrèze, Corse-du-Sud, Haute-Corse, Côtes-du-Nord, Creuse, Dordogne, , Gard, Haute-Garonne, Gers, Gironde, Hérault, Landes, Haute-Loire, Lot, Lot-et-Garonne, Lozère, Morbihan, Puy-de-Dôme, Pyrénées-Atlantiques, Hautes-Pyrénées, Pyrénées-Orientales, Haute-Savoie, Tarn-et-Garonne, Var, Vaucluse, Haute-Vienne.
