@@ -1,8 +1,8 @@
 # Article 3
 
-Pour les associations régies par la loi du 1er juillet 1901, les dossiers de demande d'agrément doivent comprendre [*contenu*] :
+"Pour les associations régies par la loi du 1er juillet 1901 ou par la législation locale sur les associations inscrites dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle, les dossiers de demande d'agrément doivent comprendre :
 
-1° La copie du récépissé de la déclaration de l'association à la préfecture et la date de la publication légale au Journal officiel ;
+"1° La copie du récépissé de la déclaration de l'association à la préfecture et la date de la publication légale au Journal officiel ou la copie du récépissé d'inscription au registre des associations du tribunal d'instance".
 
 2° La justification des droits de pêche leur appartenant collectivement dans le département où la demande est déposée, ces droits devant être suffisamment importants pour que chaque association en cause présente un intérêt général certain ;
 

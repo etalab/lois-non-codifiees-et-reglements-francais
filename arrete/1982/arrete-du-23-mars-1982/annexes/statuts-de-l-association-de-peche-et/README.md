@@ -15,7 +15,6 @@
 - [Article ANNEXE ART. 13](article-annexe-art-13.md)
 - [Article ANNEXE ART. 14](article-annexe-art-14.md)
 - [Article ANNEXE ART. 15](article-annexe-art-15.md)
-- [Article ANNEXE ART. 16](article-annexe-art-16.md)
 - [Article ANNEXE ART. 17](article-annexe-art-17.md)
 - [Article ANNEXE ART. 18](article-annexe-art-18.md)
 - [Article ANNEXE ART. 19](article-annexe-art-19.md)
