@@ -134,6 +134,7 @@
 - [Décret n°2004-151 du 13 février 2004 (INDI0302166D)](decret-n2004-151-du-13-fevrier-2004-indi0302166d)
 - [Décret n°2004-50 du 13 janvier 2004 (AGRE0302308D)](decret-n2004-50-du-13-janvier-2004-agre0302308d)
 - [Décret n°75-150 du 13 mars 1975](decret-n75-150-du-13-mars-1975)
+- [Décret n°2004-327 du 14 avril 2004 (DOMA0400013D)](decret-n2004-327-du-14-avril-2004-doma0400013d)
 - [Décret n°2004-58 du 14 janvier 2004 (SOCN0312066D)](decret-n2004-58-du-14-janvier-2004-socn0312066d)
 - [Décret n°2004-59 du 14 janvier 2004 (SOCN0312069D)](decret-n2004-59-du-14-janvier-2004-socn0312069d)
 - [Décret n°2004-62 du 14 janvier 2004 (BUDD0370060D)](decret-n2004-62-du-14-janvier-2004-budd0370060d)
