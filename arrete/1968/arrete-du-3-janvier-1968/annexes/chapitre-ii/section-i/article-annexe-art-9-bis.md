@@ -1,0 +1,5 @@
+# Article Annexe art. 9 bis
+
+En cas d'indisponibilité simultanée du président et du vice-président, le conseil d'administration peut être convoqué dans les cas prévus au dernier alinéa de l'article 4 ci-dessus par le directeur de la caisse.
+
+La présidence de la réunion peut être assurée, dans le cas d'indisponibilité simultanée du président et du vice-président, par le doyen d'âge ou par un autre membre du conseil d'administration, suivant la décision prise à ce sujet par le conseil d'administration.
