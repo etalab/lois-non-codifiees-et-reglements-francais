@@ -12,6 +12,5 @@
 - [Substances susceptibles d'avoir des effets néfastes pour l'environnement visées au 15 du 3° de l'article 32](substances-susceptibles-d-avoir-des-effets-nefastes-pour-l-environnement-visees-au-15)
 - [Substances très toxiques pour l'environnement aquatique visées au 15 du 3° de l'article 32](substances-tres-toxiques-pour-l-environnement-aquatique-visees-au-15)
 - [Substances visées aux articles 12 et 25](substances-visees-aux)
-- [Chapitres 4.3 et 7.1 de la norme NFU 44-041 relative aux boues des ouvrages de traitement des eaux usées urbaines (art. 36)](chapitres-4-3-et)
 - [Substances toxiques ou néfastes à long terme pour l'environnement aquatique visées au 15 du 3° de l'article 32](substances-toxiques-ou)
 - [Substances visées par l'article 61 pour lesquelles un bilan annuel des rejets dans l'air, l'eau et les sols, ainsi que dans les déchets, est à réaliser](substances-visees-par)
