@@ -234,6 +234,8 @@
 - [Décret n°82-585 du 29 juin 1982](decret-n82-585-du-29-juin-1982)
 - [Décret n°82-681 du 29 juillet 1982](decret-n82-681-du-29-juillet-1982)
 - [Décret n°82-838 du 29 septembre 1982](decret-n82-838-du-29-septembre-1982)
+- [Décret n°82-839 du 29 septembre 1982](decret-n82-839-du-29-septembre-1982)
+- [Décret n°82-842 du 29 septembre 1982](decret-n82-842-du-29-septembre-1982)
 - [Décret n°81-1175 du 30 décembre 1981](decret-n81-1175-du-30-decembre-1981)
 - [Décret n°81-1178 du 30 décembre 1981](decret-n81-1178-du-30-decembre-1981)
 - [Décret n°81-1219 du 30 décembre 1981](decret-n81-1219-du-30-decembre-1981)

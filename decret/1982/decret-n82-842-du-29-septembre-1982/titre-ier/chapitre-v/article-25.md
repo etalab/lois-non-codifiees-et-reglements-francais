@@ -1,0 +1,5 @@
+# Article 25
+
+Le commissaire de la République qui a délivré un permis d'immersion de déblais de dragage peut engager une procédure de modification ou de suppression de ce permis soit de sa propre initiative, soit à la demande du titulaire du permis.
+
+Si le commissaire de la République agit de sa propre initiative, il avertit de la mesure envisagée et de ses motifs le titulaire du permis qui dispose d'un délai d'un mois pour présenter ses observations. Celles-ci sont jointes au dossier de suppression ou de modification qui est instruit suivant la procédure prévue à l'article 21. Toutefois, il n'y a lieu à enquête publique conformément aux dispositions de l'article 21 et, le cas échéant, de l'article 22, que si la modification envisagée tend à déplacer, étendre ou instituer une zone d'immersion en deçà de la limite des eaux territoriales ou risque d'aggraver de façon notable les inconvénients susceptibles de résulter des opérations d'immersion qui y sont effectuées. L'enquête ne porte que sur la modification envisagée.

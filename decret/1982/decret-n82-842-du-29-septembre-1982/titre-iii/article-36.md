@@ -1,0 +1,5 @@
+# Article 36
+
+Si une des zones d'immersion proposées par le pétitionnaire est située dans les eaux territoriales ou intérieures maritimes françaises, le commissaire de la République du département ou le chef du territoire intéressé diligente dans les conditions prévues à l'article 9 du présent décret une enquête publique dans les communes, localités ou circonscriptions territoriales littorales qu'il estime le plus directement intéressées, et, dans tous les cas, dans celles dont le rivage est situé à moins de 3 milles de la limite de la zone d'immersion. Dans les territoires d'outre-mer, cette enquête est réalisée, le cas échéant, suivant les règles particulières applicables à chacun des territoires.
+
+Si le commissaire de la République du département ou le chef du territoire mentionné à l'alinéa précédent n'est pas délégué du Gouvernement au sens de l'article 2 du décret du 25 mai 1979 susvisé, il transmet, dans un délai d'un mois après la clôture de l'enquête, le dossier d'enquête accompagné de son avis au délégué du Gouvernement.

@@ -1,0 +1,5 @@
+# Article 41
+
+Le dossier de demande de permis d'immersion de déblais de dragage est adressé au commissaire de la République du département ou au chef du territoire intéressé, qui procède à la consultation du commandant de la zone maritime ou de son délégué, du chef du service des affaires maritimes, du chef du service maritime ou, à défaut, du chef du service compétent en matière de ports et de conservation du rivage et du directeur du service des télécommunications des réseaux extérieurs. Ceux-ci doivent lui faire parvenir leur avis dans un délai de deux mois.
+
+Au terme de l'instruction et, le cas échéant, de l'enquête publique diligentée dans les cas et conditions prévus à l'article 36, le commissaire de la République ou le chef du territoire soit délivre au pétitionnaire un permis d'immersion de déblais de dragage par arrêté publié au recueil des actes administratifs de la préfecture ou au Journal officiel du territoire, et qui lui est notifié, soit notifie au pétitionnaire un refus motivé d'autorisation.
