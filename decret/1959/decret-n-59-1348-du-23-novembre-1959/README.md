@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Titre I : Du directeur général](titre-i)
-- [Titre II : Au personnel enseignant](titre-ii-au)
 - [Titre III : Du personnel administratif](titre-iii)
 - [Titre IV : Des personnels techniques et ouvriers](titre-iv)
 - [Titre V : Dispositions communes](titre-v)
