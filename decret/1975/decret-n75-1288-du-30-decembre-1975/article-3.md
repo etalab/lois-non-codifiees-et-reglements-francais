@@ -1,3 +1,3 @@
 # Article 3
 
-Les bons du Trésor à intérêt progressif ne peuvent être souscrits par les établissements ou organismes soumis aux dispositions de l'ordonnance n° 45-679 du 13 avril 1945 et du décret n° 45-769 du 20 avril 1945 relatifs au dépôt en comptes courants des valeurs du Trésor à court terme.
+Sauf autorisation donnée par le ministre chargé de l'économie et des finances, la souscription des bons du Trésor à intérêt progressif est réservée aux personnes physiques, aux associations, aux collectivités locales et à leurs établissements publics.
