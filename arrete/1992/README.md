@@ -384,7 +384,6 @@
 - [Arrêté du 11 février 1992 (ECOC9200023A)](arrete-du-11-fevrier-1992-ecoc9200023a)
 - [Arrêté du 11 février 1992 (MENN9200245A)](arrete-du-11-fevrier-1992-menn9200245a)
 - [Arrêté du 11 février 1992 (MENN9200246A)](arrete-du-11-fevrier-1992-menn9200246a)
-- [Arrêté du 11 février 1992 (SPSG9200423A)](arrete-du-11-fevrier-1992-spsg9200423a)
 - [Arrêté du 11 juillet 1992 (ECOC9200092A)](arrete-du-11-juillet-1992-ecoc9200092a)
 - [Arrêté du 11 juin 1992 (COMA9200014A)](arrete-du-11-juin-1992-coma9200014a)
 - [Arrêté du 11 juin 1992 (DEFM9201560A)](arrete-du-11-juin-1992-defm9201560a)
