@@ -1,0 +1,3 @@
+# Article 3
+
+Les membres des instances mentionnées à l'article 2 et leurs groupes de travail, ainsi que les experts ou rapporteurs extérieurs auprès de ces instances et leurs groupes de travail, exerçant une profession libérale, et figurant sur une liste établie par le directeur général de l'agence de sécurité sanitaire des produits de santé, perçoivent pour leur participation aux réunions une indemnisation sous forme de vacations forfaitaires. Dans le cas où ces membres, experts ou rapporteurs extérieurs réalisent des travaux, rapports et études, ils peuvent percevoir des indemnités au titre de l'article 4 du présent décret.

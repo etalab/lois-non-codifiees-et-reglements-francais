@@ -40,4 +40,4 @@ Charente, Charente-Maritime, Dordogne, Gers, Gironde, Landes, Lot-et-Garonne, Py
 
 10e circonscription
 
-Ariège, Aude, Aveyron, Bouches-du-Rhône, Gard, Haute-Garonne, Hérault, Lozère, Pyrénées-Orientales, Tarn et Vaucluse.
+Ariège, Aude, Aveyron, Bouches-du-Rhône, Gard, Haute-Garonne, Hérault, Lozère, Pyrénées-Orientales, Réunion, Tarn et Vaucluse.
