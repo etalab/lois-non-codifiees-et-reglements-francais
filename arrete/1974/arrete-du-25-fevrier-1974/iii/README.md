@@ -1,3 +1,4 @@
-# III - Prêts spéciaux destinés au financement des immeubles à loyer moyen.
+# III - Prêts spéciaux destinés au financement des immeubles à loyer.
 
 - [Article 9](article-9.md)
+- [Article 10](article-10.md)

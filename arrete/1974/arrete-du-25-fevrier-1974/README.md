@@ -5,7 +5,7 @@
 - [CHAPITRE II : Comités techniques régionaux.](chapitre-ii)
 - [II - Prêts pour l'extension et la mise en état d'habitabilité.](ii)
 - [CHAPITRE III : Dispositions communes.](chapitre-iii)
-- [III - Prêts spéciaux destinés au financement des immeubles à loyer moyen.](iii)
+- [III - Prêts spéciaux destinés au financement des immeubles à loyer.](iii)
 - [IV - Prêts consentis pour le financement des prêts immobiliers conventionnés.](iv)
 - [V - Dispositions communes aux différentes catégories de prêts.](v)
 - [Dispositions communes aux différentes catégories de prêts.](dispositions-communes-aux)
