@@ -42,7 +42,7 @@
 </tr>
 <tr>
 <td valign="top">
-<p>Chefs de quartier des affaires maritimes (Q.A.M.)</p>
+<p>Directeur départemental ou interdépartemental des affaires maritimes </p>
 </td>
 </tr>
 <tr>

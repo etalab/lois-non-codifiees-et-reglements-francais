@@ -34,4 +34,4 @@ Dès qu'elle s'estime suffisamment éclairée, la commission rédige :
 
 La commission peut autoriser l'exercice de la profession de marin dans des conditions particulières qu'elle précise alors, aux plans médical et professionnel, éventuellement pour des durées déterminées.
 
-Le directeur régional des affaires maritimes statue sur l'aptitude physique à la navigation au vu des conclusions de la commission et notifie sa décision au requérant. Les décisions relatives à l'aptitude physique des marins identifiés à la Réunion ou à Saint-Pierre-et-Miquelon sont prises par le chef du quartier des affaires maritimes concerné.
+Le directeur régional des affaires maritimes statue sur l'aptitude physique à la navigation au vu des conclusions de la commission et notifie sa décision au requérant. Les décisions relatives à l'aptitude physique des marins identifiés à la Réunion ou à Saint-Pierre-et-Miquelon sont prises par le directeur départemental ou interdépartemental des affaires maritimes.

@@ -6,4 +6,4 @@ Tous les lundis, les capitaines déclarent leurs captures de la semaine précéd
 
 Les captures sont exprimées en kilogramme de poisson vif.
 
-Les déclarations mentionnées aux paragraphes 1 et 2 sont faites par télex, adressé directement ou par l'intermédiaire de la station radiomaritime de Saint-Pierre (TXU) au chef du quartier des affaires maritimes de Saint-Pierre.
+Les déclarations mentionnées aux paragraphes 1 et 2 sont faites par télex, adressé directement ou par l'intermédiaire de la station radiomaritime de Saint-Pierre (TXU) au directeur départemental ou interdépartemental des affaires maritimes de Saint-Pierre.

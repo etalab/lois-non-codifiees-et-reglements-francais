@@ -18,7 +18,7 @@ c) Membres temporaires :
 
 Ces marins pratiques ont chacun deux suppléants.
 
-Les marins pratiques et les suppléants sont nommés, pour chaque affaire, sur proposition du chef de quartier des affaires maritimes par décision :
+Les marins pratiques et les suppléants sont nommés, pour chaque affaire, sur proposition du directeur départemental ou interdépartemental des affaires maritimes par décision :
 
 - du préfet du département concerné par les principales installations lorsque l'affaire relève de la compétence de l'Etat en dehors de la circonscription d'un port autonome ;
 

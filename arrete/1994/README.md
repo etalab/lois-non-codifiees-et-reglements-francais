@@ -435,6 +435,7 @@
 - [Arrêté du 12 avril 1994 (BUDD9470004A)](arrete-du-12-avril-1994-budd9470004a)
 - [Arrêté du 12 avril 1994 (RESK9400526A)](arrete-du-12-avril-1994-resk9400526a)
 - [Arrêté du 12 avril 1994 (TEFE9400333A)](arrete-du-12-avril-1994-tefe9400333a)
+- [Arrêté du 12 décembre 1994 (AGRM9402401A)](arrete-du-12-decembre-1994-agrm9402401a)
 - [Arrêté du 12 décembre 1994 (BUDD9450014A)](arrete-du-12-decembre-1994-budd9450014a)
 - [Arrêté du 12 décembre 1994 (EQUT9401974A)](arrete-du-12-decembre-1994-equt9401974a)
 - [Arrêté du 12 décembre 1994 (RESM9401663A)](arrete-du-12-decembre-1994-resm9401663a)

@@ -1,13 +1,9 @@
 # Article 6
 
-La demande d'autorisation pour les plates-formes visées à l'article précédent est à adresser au préfet, ou au préfet maritime lorsque la plate-forme est située dans le domaine maritime, en quatre exemplaires par la personne physique ou morale de droit privé qui désire utiliser la plate-forme. Elle doit préciser les nom et prénoms ou désignation et l'adresse du demandeur et doit être accompagnée d'un dossier comportant les pièces suivantes :
+Les hydrosurfaces situées en mer, quel que soit leur usage, sont autorisées par arrêté du préfet maritime de la région maritime concernée, ou du délégué du Gouvernement, dans les départements d'outre-mer.
 
-- feuille ou assemblage de feuilles de la carte de la France au 1/50 000 indiquant l'emplacement de la plate-forme ;
+Les hydrosurfaces situées sur un plan d'eau relevant du domaine public, quel que soit leur usage, et les hydrosurfaces situées sur un plan d'eau privé et utilisées à des fins de transport à la demande sont autorisées par arrêté du préfet du département.
 
-- un extrait du plan cadastral précisant les limites domaniales de la plate-forme ;
+Ces arrêtés sont pris après avis du chef du district aéronautique, du chef de secteur de la police de l'air et des frontières, du directeur régional des douanes territorialement compétent, du président du comité régional interarmées de circulation aérienne militaire et, dans la limite de ses compétences, après avis du maire concerné.
 
-- une notice précisant les caractéristiques d'utilisation de la plate-forme et indiquant ses dimensions, ses dégagements et les mesures de sécurité prévues ;
-
-- une déclaration de la personne ayant la jouissance de la plate-forme ou de l'autorité administrative compétente donnant l'accord sur l'utilisation envisagée.
-
-Il est délivré récépissé de la demande.
+En ce qui concerne les hydrosurfaces situées en mer, sont également recueillis l'avis du directeur départemental ou interdépartemental des affaires maritimes compétent et, dans les départements d'outre-mer, l'avis du commandant de zone maritime.

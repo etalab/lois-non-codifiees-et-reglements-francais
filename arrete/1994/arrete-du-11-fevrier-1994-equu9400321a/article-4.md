@@ -1,6 +1,6 @@
 # Article 4
 
-Les demandes de revalidation des titres de formation professionnelle maritime sont déposées auprès du chef du quartier des affaires maritimes d'identification de l'intéressé.
+Les demandes de revalidation des titres de formation professionnelle maritime sont déposées auprès du directeur départemental ou interdépartemental des affaires maritimes d'identification de l'intéressé.
 
 Le dossier doit comprendre :
 

@@ -1,6 +1,6 @@
 # Article 7
 
-L'avis d'appel de candidatures est élaboré par le chef du quartier des affaires maritimes et signé par le préfet qui fait procéder à sa diffusion par voie d'affiches dans les locaux du quartier des affaires maritimes, des stations maritimes et mairies des communes intéressées.
+L'avis d'appel de candidatures est élaboré par le directeur départemental ou interdépartemental des affaires maritimes et signé par le préfet qui fait procéder à sa diffusion par voie d'affiches dans les locaux du quartier des affaires maritimes, des stations maritimes et mairies des communes intéressées.
 
 Dès la mise en oeuvre de cette publicité par voie d'affichage, la procédure d'appel d'offres n'est plus susceptible d'être interrompue à la demande du concessionnaire ou du tiers présenté par celui-ci.
 

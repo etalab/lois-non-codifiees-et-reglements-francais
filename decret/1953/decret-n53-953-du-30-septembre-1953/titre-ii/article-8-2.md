@@ -6,4 +6,4 @@ Les employeurs sont tenus de présenter à ces agents tous documents qui leur se
 
 Les agents de contrôle doivent communiquer, le cas échéant, leurs observations à l'employeur en l'invitant à y répondre dans la huitaine. Ils consignent ces observations soit sur le livre de paie, soit sur un registre ouvert à cet effet.
 
-A l'expiration du délai susindiqué, ils transmettent leurs observations, accompagnées éventuellement de la réponse de l'intéressé, à l'Etablissement national des invalides de la marine et au quartier des affaires maritimes.
+A l'expiration du délai susindiqué, ils transmettent leurs observations, accompagnées éventuellement de la réponse de l'intéressé, à l'Etablissement national des invalides de la marine et à la direction départementale ou interdépartementale des affaires maritimes.

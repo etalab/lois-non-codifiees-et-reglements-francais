@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de la sécurité sociale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'administration des postes et télécommunications peut vérifier le contenu des correspondances visées à l'article 1er. La vérification est effectuée d'office s'il s'agit de plis non clos, ainsi que de plis clos expédiés par les assujettis et ne remplissant pas les conditions fixées à l'article 4 ci-après. Elle ne peut être effectuée qu'en présence d'un représentant de l'organisme expéditeur ou destinataire, selon le cas, lorsqu'il s'agit de plis clos autres que ceux visés ci-dessus.

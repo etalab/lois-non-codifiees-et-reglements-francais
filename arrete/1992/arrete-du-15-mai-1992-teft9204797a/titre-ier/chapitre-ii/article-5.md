@@ -2,7 +2,7 @@
 
 I. - La plongée en scaphandre autonome ne peut être mise en oeuvre que pour des pressions relatives inférieures à 6 000 hPa (6 bars).
 
-L'inspecteur du travail ou le chef de quartier des affaires maritimes peuvent toutefois autoriser des interventions en scaphandre autonome à des pressions supérieures à 6 000 hPa (6 bars) dès lors qu'il est vérifié que les conditions dans lesquelles elles se déroulent assurent aux travailleurs concernés une protection équivalente à celle d'une plongée à une pression inférieure.
+L'inspecteur du travail ou le directeur départemental ou interdépartemental des affaires maritimes peuvent toutefois autoriser des interventions en scaphandre autonome à des pressions supérieures à 6 000 hPa (6 bars) dès lors qu'il est vérifié que les conditions dans lesquelles elles se déroulent assurent aux travailleurs concernés une protection équivalente à celle d'une plongée à une pression inférieure.
 
 II. - En complément du scaphandre qui doit être conforme aux normes en vigueur et être doté d'un système de réserve de gaz ou de contrôle de la pression dans la ou les bouteilles, le travailleur doit disposer d'un équipement individuel spécifique lui permettant d'assurer, en toutes circonstances, son alimentation en gaz respiratoire, de contrôler les différents paramètres de la plongée, de maintenir son équilibre thermique, de se déplacer sans entrave et de remonter en cas d'urgence.
 

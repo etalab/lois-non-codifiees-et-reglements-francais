@@ -6,7 +6,7 @@ Le dossier d'inscription du candidat comprend :
 
 1° Une demande sur papier libre indiquant la nature de l'examen, le centre choisi, éventuellement l'établissement dans lequel s'est déroulée la scolarité.
 
-Les candidats n'ayant pas la qualité de marin doivent mentionner le quartier des affaires maritimes auquel ils seront rattachés en cas de succès à l'examen.
+Les candidats n'ayant pas la qualité de marin doivent mentionner la direction départementale ou interdépartementale des affaires maritimes à laquelle ils seront rattachés en cas de succès à l'examen.
 
 2° Une fiche individuelle d'état civil et de nationalité française ou, s'il y a lieu, d'un Etat membre de la Communauté économique européenne.
 

@@ -1,10 +1,10 @@
 # Article 13
 
-En cas d'adjudication sur soumissions cachetées, les offres des candidats, rédigées conformément au modèle prévu à l'article 10, doivent parvenir au chef du quartier des affaires maritimes indiqué à l'article 8, sous enveloppe cachetée portant l'indication de l'adjudication à laquelle elle se rapporte sans autre indication.
+En cas d'adjudication sur soumissions cachetées, les offres des candidats, rédigées conformément au modèle prévu à l'article 10, doivent parvenir au directeur départemental ou interdépartemental des affaires maritimes indiqué à l'article 8, sous enveloppe cachetée portant l'indication de l'adjudication à laquelle elle se rapporte sans autre indication.
 
 Si l'expédition est faite par la poste, elle doit l'être par envoi recommandé et sous double enveloppe, l'enveloppe intérieure ne portant que la mention susindiquée.
 
-Les enveloppes reçues par le chef du quartier des affaires maritimes sont remises au président du bureau d'adjudication le jour de l'adjudication. Elles sont ouvertes au jour et à l'heure fixés pour l'adjudication. Les soumissions ne peuvent être retirées ni modifiées après l'ouverture de la séance d'adjudication.
+Les enveloppes reçues par le directeur départemental ou interdépartemental des affaires maritimes sont remises au président du bureau d'adjudication le jour de l'adjudication. Elles sont ouvertes au jour et à l'heure fixés pour l'adjudication. Les soumissions ne peuvent être retirées ni modifiées après l'ouverture de la séance d'adjudication.
 
 Le bureau d'adjudication vérifie les pièces contenues dans les enveloppes et en mentionne la liste au procès-verbal de la séance.
 

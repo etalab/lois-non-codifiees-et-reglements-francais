@@ -47,7 +47,7 @@
 </tr>
 <tr>
 <td valign="top">
-<p>- quartier des affaires maritimes n'étant pas le siège d'une direction départementale</p>
+<p>- direction départementale ou interdépartementale des affaires maritimes n'étant pas le siège d'une direction départementale</p>
 </td>
 </tr>
 <tr>

@@ -6,6 +6,6 @@ Les dispositions du décret n° 60-1193 du 7 novembre 1960 sur la discipline à 
 
 2. Le préfet du département exerce les pouvoirs conférés au directeur des affaires maritimes par les articles 22, 28, 29 et 33.
 
-3. Article 29 (premier alinéa) - "Le préfet du département désigne dans les dix jours de la réception de la décision ministérielle le président et les membres du conseil. Un fonctionnaire du quartier des affaires maritimes est désigné pour remplir les fonctions de secrétaire."
+3. Article 29 (premier alinéa) - "Le préfet du département désigne dans les dix jours de la réception de la décision ministérielle le président et les membres du conseil. Un fonctionnaire de la direction départementale ou interdépartementale des affaires maritimes est désigné pour remplir les fonctions de secrétaire."
 
-4. Article 35 - "Le chef du quartier des affaires maritimes est chargé d'assurer l'exécution de la décision ministérielle et son insertion à l'article matriculaire de l'intéressé."
+4. Article 35 - "Le directeur départemental ou interdépartemental des affaires maritimes est chargé d'assurer l'exécution de la décision ministérielle et son insertion à l'article matriculaire de l'intéressé."

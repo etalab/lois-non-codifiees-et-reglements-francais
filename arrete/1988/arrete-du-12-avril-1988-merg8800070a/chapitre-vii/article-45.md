@@ -2,7 +2,7 @@
 
 Demande de délivrance des titres
 
-Les dossiers de demande de certificats, diplômes ou brevets des candidats reçus qui ne réunissent pas au jour de l'examen les conditions requises pour l'obtention du titre sont déposés par les intéressés au siège de leur quartier des affaires maritimes.
+Les dossiers de demande de certificats, diplômes ou brevets des candidats reçus qui ne réunissent pas au jour de l'examen les conditions requises pour l'obtention du titre sont déposés par les intéressés au siège de leur direction départementale ou interdépartementale des affaires maritimes.
 
 Ces dossiers comprennent :
 
@@ -10,4 +10,4 @@ Ces dossiers comprennent :
 
 2° Les pièces nécessaires à la vérification de leurs droits.
 
-Ils sont adressés à l'autorité qualifiée pour la délivrance du titre après vérification par le chef du quartier.
+Ils sont adressés à l'autorité qualifiée pour la délivrance du titre après vérification par le directeur départemental ou interdépartemental.
