@@ -84,7 +84,6 @@
 - [Décret n°94-22 du 10 janvier 1994 (SPSP9303412D)](decret-n94-22-du-10-janvier-1994-spsp9303412d)
 - [Décret n°95-50 du 10 janvier 1995 (AGRA9402305D)](decret-n95-50-du-10-janvier-1995-agra9402305d)
 - [Décret n°94-123 du 11 février 1994 (ECOT9426101D)](decret-n94-123-du-11-fevrier-1994-ecot9426101d)
-- [Décret n°94-127 du 11 février 1994 (INTA9400036D)](decret-n94-127-du-11-fevrier-1994-inta9400036d)
 - [Décret n°94-128 du 11 février 1994 (JUSB9410049D)](decret-n94-128-du-11-fevrier-1994-jusb9410049d)
 - [Décret n°94-130 du 11 février 1994 (INDP9400168D)](decret-n94-130-du-11-fevrier-1994-indp9400168d)
 - [Décret n°94-131 du 11 février 1994 (INDP9400169D)](decret-n94-131-du-11-fevrier-1994-indp9400169d)
