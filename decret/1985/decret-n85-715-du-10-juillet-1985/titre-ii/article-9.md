@@ -1,6 +1,6 @@
 # Article 9
 
-Les personnels des départements scientifiques, des services scientifiques et des services communs de l'Observatoire de Paris participant à la désignation de leurs représentants au sein des différents conseils prévus au présent décret sont répartis en quatre collèges électoraux :
+Les personnels des départements scientifiques, des services scientifiques, de l'Institut de mécanique céleste et de calcul des éphémérides et des services communs de l'Observatoire de Paris participant à la désignation de leurs représentants, au sein des différents conseils prévus au présent décret, sont répartis en quatre collèges électoraux :
 
 a) Un collège des professeurs des universités et personnels assimilés en application de l'article 5 du décret n° 87-31 du 20 janvier 1987 relatif au Conseil national des universités et des autres personnels titulaires d'une habilitation à diriger des recherches exerçant leurs activités de recherche à titre principal au sein de l'établissement.
 

@@ -14,6 +14,6 @@ Le conseil d'administration comprend :
 
 6° Cinq personnalités extérieures à l'établissement choisies par les autres membres du conseil d'administration en raison des fonctions qu'elles exercent dans les domaines qui intéressent l'établissement.
 
-Les directeurs des départements et des services scientifiques ou leurs représentants, le secrétaire général et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative. Dans le cas où un directeur ferait partie du conseil d'administration, le département ou le service scientifique qu'il dirige est représenté conformément au règlement intérieur de l'Observatoire de Paris.
+Les directeurs des départements et des services scientifiques et le directeur de l'Institut de mécanique céleste et de calcul des éphémérides ou leurs représentants, le secrétaire général et l'agent comptable assistent aux séances du conseil d'administration avec voix consultative. Dans le cas où un directeur ferait partie du conseil d'administration, le département ou le service scientifique qu'il dirige est représenté conformément au règlement intérieur de l'Observatoire de Paris.
 
 Le conseil d'administration élit en son sein, sur proposition du président, un vice-président du conseil d'administration.

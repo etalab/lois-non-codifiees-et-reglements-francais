@@ -2,7 +2,7 @@
 
 Le conseil scientifique propose au conseil d'administration les grandes orientations scientifiques de l'Observatoire de Paris et les orientations principales en matière de recrutement. Il est informé des suites données à ses propositions.
 
-Il propose au président la répartition entre les départements, les services scientifiques et les services communs des emplois crées ou vacants de personnels techniques, administratifs et de service affectés à l'Observatoire.
+Il propose au président la répartition entre les départements, les services scientifiques, l'Institut de mécanique céleste et de calcul des éphémérides et les services communs des emplois créés ou vacants de personnel techniques, administratifs et de service affectés à l'observatoire.
 
 Il décide la répartition entre les départements et les services des crédits de recherche scientifique ainsi que des crédits non affectés délégués à l'établissement par des organismes nationaux.
 

@@ -12,6 +12,8 @@ Il approuve, sur proposition du conseil scientifique :
 
 Il approuve, après avis du conseil scientifique, la conclusion des contrats et conventions ayant pour objet des recherches ou des travaux effectués pour le compte de tiers dans l'établissement.
 
+Il approuve également la conclusion des contrats et conventions ayant pour objet des recherches ou travaux effectués par l'Institut de mécanique céleste et de calcul des éphémérides.
+
 Il est tenu informé de tous les contrats et conventions dont bénéficient les formations de recherche de l'établissement.
 
 Il propose au président, après avis du conseil scientifique, les règles générales concernant les prélèvements à opérer sur les contrats pour couvrir les frais généraux de l'établissement.

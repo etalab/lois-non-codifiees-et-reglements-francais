@@ -3,5 +3,5 @@
 - [Titre Ier : Dispositions générales](titre-ier)
 - [Titre II : Organisation administrative](titre-ii)
 - [Titre III : Répartition des compétences](titre-iii)
-- [Titre IV : Départements, services scientifiques et services communs](titre-iv)
+- [Titre IV : Départements, services scientifiques, institut de mécanique céleste et de calcul des éphémérides et services communs](titre-iv)
 - [Titre V : Dispositions diverses et transitoires](titre-v)

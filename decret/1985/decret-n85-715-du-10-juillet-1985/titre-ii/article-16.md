@@ -6,7 +6,7 @@ Le président de l'Observatoire de Paris est élu par une assemblée composée :
 
 - des membres du conseil scientifique, à l'exception des quatre membres de ce conseil désignés par le haut comité scientifique ;
 
-- des directeurs des départements et des services scientifiques. Les directeurs élus membres du conseil d'administration ou du conseil scientifique sont suppléés dans les conditions prévues par le règlement intérieur.
+- des directeurs des départements et des services scientifiques et du directeur de l'Institut de mécanique céleste et de calcul des éphémérides. Les directeurs élus membres du conseil d'administration ou du conseil scientifique sont suppléés dans les conditions prévues par le règlement intérieur.
 
 Les modalités de fonctionnement de l'assemblée sont fixées par le règlement intérieur de l'établissement, dans le respect des dispositions ci-après.
 

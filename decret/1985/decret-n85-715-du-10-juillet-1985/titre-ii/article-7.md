@@ -12,6 +12,6 @@ Le conseil scientifique comprend :
 
 5° Deux personnalités extérieures à l'établissement choisies par les autres membres du conseil scientifique en fonction de leur compétence scientifique.
 
-Les directeurs des départements et des services scientifiques ou leurs représentants assistent aux séances du conseil scientifique avec voix consultative. Dans le cas on un directeur ferait partie du conseil scientifique, le département ou le service scientifique qu'il dirige est représenté conformément au règlement intérieur de l'Observatoire de Paris.
+Les directeurs des départements et des services scientifiques et le directeur de l'Institut de mécanique céleste et de calcul des éphémérides ou leurs représentants assistent aux séances du conseil scientifique avec voix consultative. Dans le cas on un directeur ferait partie du conseil scientifique, le département ou le service scientifique qu'il dirige est représenté conformément au règlement intérieur de l'Observatoire de Paris.
 
 Le conseil scientifique élit en son sein, sur proposition du président, un vice-président du conseil scientifique.
