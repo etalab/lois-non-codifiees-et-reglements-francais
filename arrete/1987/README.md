@@ -709,6 +709,8 @@
 - [Arrêté du 30 octobre 1987 (PTTT8700785A)](arrete-du-30-octobre-1987-pttt8700785a)
 - [Arrêté du 30 octobre 1987 (PTTT8700786A)](arrete-du-30-octobre-1987-pttt8700786a)
 - [Arrêté du 30 octobre 1987 (PTTT8700787A)](arrete-du-30-octobre-1987-pttt8700787a)
+- [Arrêté du 30 octobre 1987 (RESP8700831A)](arrete-du-30-octobre-1987-resp8700831a)
+- [Arrêté du 30 octobre 1987 (RESP8700832A)](arrete-du-30-octobre-1987-resp8700832a)
 - [Arrêté du 30 septembre 1987 (ASET8703688A)](arrete-du-30-septembre-1987-aset8703688a)
 - [Arrêté du 30 septembre 1987 (BUDR8703118A)](arrete-du-30-septembre-1987-budr8703118a)
 - [Arrêté du 30 septembre 1987 (ENVN8700209A)](arrete-du-30-septembre-1987-envn8700209a)
