@@ -2,7 +2,7 @@
 
 Il est institué auprès de l'administration centrale du ministère de la défense un conseil de discipline supérieur composé comme suit :
 
-- le directeur de la fonction militaire et des relations sociales ou son représentant ;
+- le directeur de la fonction militaire et du personnel civil -;
 
 - le directeur des personnels et des affaires générales de l'armement ou son représentant,
 
