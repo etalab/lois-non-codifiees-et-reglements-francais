@@ -6,6 +6,6 @@ Le conseil d'administration établit pour chacun des électeurs inscrits une car
 
 2° La commune dans laquelle il est appelé à voter ;
 
-3° Le texte de l'attestation sur l'honneur par laquelle le titulaire de la carte certifie n'être frappé d'aucune des incapacités électorales résultant des condamnations mentionnées aux articles L. 5 et L. 6 du code électoral et à l'article 1014 du code rural.
+3°Le texte de l'attestation sur l'honneur par laquelle le titulaire de la carte certifie n'être frappé d'aucune des incapacités énoncées aux articles L. 5 à L. 7  du code électoral et à l'article 1014 du code rural.
 
 Pour les électeurs inscrits dans plusieurs collèges, il est établi autant de cartes que d'inscriptions.
