@@ -1,0 +1,9 @@
+# Article 17
+
+I. - A compter de 1989, le taux de la taxe d'habitation, le taux de la taxe foncière sur les propriétés bâties ou le taux de la taxe foncière sur les propriétés non bâties peut être diminué jusqu'au niveau du taux moyen national de la taxe constaté l'année précédente pour, selon le cas, les communes et leurs groupements, les départements, les régions ou, s'il est plus élevé, jusqu'au niveau du taux de la taxe professionnelle de la collectivité ou du groupement concerné, sans que ces diminutions soient prises en compte pour l'application, à la baisse, des dispositions du troisième alinéa du paragraphe I de l'article 1636 B sexies du code général des impôts.
+
+Lorsqu'au titre d'une année, il est fait application des dispositions de l'alinéa précédent, la variation en hausse du taux de la taxe d'habitation ou du taux moyen de la taxe d'habitation et des taxes foncières à prendre en compte, pour l'application du paragraphe I de l'article 1636 B sexies précité, pour la détermination du taux de la taxe professionnelle ou du taux de la taxe foncière sur les propriétés non bâties, est réduite de moitié pendant les trois années suivantes.
+
+Lorsqu'au titre d'une année, le taux de la taxe professionnelle ou le taux de la taxe foncière sur les propriétés non bâties a été augmenté conformément aux dispositions de l'alinéa précédent, il ne peut pas être fait application des dispositions du premier alinéa du présent paragraphe pendant les trois années suivantes.
+
+II. - A compter de 1989, le taux de la taxe d'habitation ne peut pas être réduit dans les conditions prévues au premier alinéa du paragraphe I ter de l'article 1636 B sexies précité. Le deuxième alinéa de ce paragraphe n'est pas applicable aux communes qui recourent aux dispositions du paragraphe I du présent article.

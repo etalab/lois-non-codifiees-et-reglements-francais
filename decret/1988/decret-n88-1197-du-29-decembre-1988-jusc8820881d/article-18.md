@@ -1,0 +1,3 @@
+# Article 18
+
+Les décisions du bureau d'aide judiciaire établi près le Conseil d'Etat et le tribunal des conflits prises avant le 1er janvier 1989 et relatives à des affaires relevant de la compétence des cours administratives d'appel conservent leurs effets. Elles sont transmises à la cour compétente. Les dossiers d'aide judiciaire qui n'ont pas donné lieu à une décision du même bureau avant le 1er janvier 1989 et qui ont trait à des recours relevant de la compétence des cours administratives d'appel sont transmis en l'état à la cour compétente. Ces transmissions sont effectuées par le bureau d'aide judiciaire près le Conseil d'Etat et le tribunal des conflits.
