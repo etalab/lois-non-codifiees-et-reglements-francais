@@ -4,7 +4,7 @@ Les caisses de mutualité sociale agricole peuvent imposer à tout employeur une
 
 Les mesures de prévention visées à l'article 5 (alinéas 1er et 3) et, lorsque les arrêtés ministériels en disposent ainsi, à l'article 8 (alinéa 1er) du décret susvisé du 11 septembre 1973 relèvent de la procédure d'injonction définie aux alinéas ci-dessous du présent article.
 
-Les décisions d'injonction sont prises par les caisses de mutualité sociale agricole soit sur leur initiative après qu'une enquête sur place a été effectuée par un des agents chargés du contrôle de la prévention visés à l'article 1246 (5e alinéa) du code rural, soit à la demande de l'inspecteur départemental des lois sociales en agriculture agissant dans le cadre de l'article 9 du décret susvisé du 11 septembre 1973.
+Les décisions d'injonction sont prises par les caisses de mutualité sociale agricole soit sur leur initiative après qu'une enquête sur place a été effectuée par un des agents chargés du contrôle de la prévention visés à l'article L. 724-9 du code rural, soit à la demande de l'inspecteur départemental des lois sociales en agriculture agissant dans le cadre de l'article 9 du décret susvisé du 11 septembre 1973.
 
 Ces décisions sont notifiées par les caisses de mutualité sociale agricole par lettre recommandée avec demande d'avis de réception.
 

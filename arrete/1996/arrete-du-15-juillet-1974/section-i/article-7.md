@@ -6,4 +6,6 @@ Ce contrat de prévention est conclu après avis du comité d'hygiène, de sécu
 
 La participation financière de la caisse de mutualité sociale agricole présente le caractère d'une avance remboursable qui peut demeurer en totalité ou en partie acquise à l'employeur contractant dès lors que les conditions prévues dans le contrat auront été satisfaites.
 
-Pour bénéficier d'une avance, l'employeur doit être à jour de ses cotisations au titre de ceux de ses établissements implantés dans la circonscription d'une caisse de mutualité sociale agricole, les avoir versées régulièrement au cours des douze derniers mois et se conformer à ses obligations sociales. Il ne doit pas employer un effectif de salariés supérieur à 249.
+Pour bénéficier d'une avance, l'employeur doit être à jour de ses cotisations au titre de ceux de ses établissements implantés dans la circonscription d'une caisse de mutualité sociale agricole, les avoir versées régulièrement au cours des douze derniers mois et se conformer à ses obligations sociales. Il ne doit pas employer un effectif de salariés supérieur à 249. L'effectif est apprécié conformément aux dispositions de l'article L. 431-2 du code du travail, déduction faite des personnels administratifs.
+
+Le montant de l'avance consentie ne peut excéder 50 % du montant des dépenses de prévention prévues dans le projet de l'établisement.
