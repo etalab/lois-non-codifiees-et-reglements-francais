@@ -17,6 +17,7 @@
 - [Arrêté du 11 juillet 1973](arrete-du-11-juillet-1973)
 - [Arrêté du 11 mai 1973](arrete-du-11-mai-1973)
 - [Arrêté du 12 février 1973](arrete-du-12-fevrier-1973)
+- [Arrêté du 12 juillet 1973](arrete-du-12-juillet-1973)
 - [Arrêté du 12 mars 1973](arrete-du-12-mars-1973)
 - [Arrêté du 13 février 1973](arrete-du-13-fevrier-1973)
 - [Arrêté du 13 mars 1973](arrete-du-13-mars-1973)
