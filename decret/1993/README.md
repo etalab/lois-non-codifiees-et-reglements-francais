@@ -457,6 +457,7 @@
 - [Décret n°93-93 du 25 janvier 1993 (FPPX9300004D)](decret-n93-93-du-25-janvier-1993-fppx9300004d)
 - [Décret n°93-96 du 25 janvier 1993 (MENB9200501D)](decret-n93-96-du-25-janvier-1993-menb9200501d)
 - [Décret n°94-751 du 25 août 1994 (MCCB9400225D)](decret-n94-751-du-25-aout-1994-mccb9400225d)
+- [Décret n°93-825 du 25 mai 1993 (INTB9300299D)](decret-n93-825-du-25-mai-1993-intb9300299d)
 - [Décret du 26 janvier 1993 (ECOT9251254D)](decret-du-26-janvier-1993-ecot9251254d)
 - [Décret du 26 janvier 1993 (ECOX9351251D)](decret-du-26-janvier-1993-ecox9351251d)
 - [Décret n°93-104 du 26 janvier 1993 (AGRR9300113D)](decret-n93-104-du-26-janvier-1993-agrr9300113d)
