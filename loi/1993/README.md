@@ -35,6 +35,7 @@
 - [Loi n° 93-844 du 14 juin 1993 (MAEX9300181L)](loi-n-93-844-du-14-juin-1993-maex9300181l)
 - [Loi n° 93-845 du 14 juin 1993 (MAEX9300225L)](loi-n-93-845-du-14-juin-1993-maex9300225l)
 - [Loi n° 93-859 du 22 juin 1993 (BUDX9300070L)](loi-n-93-859-du-22-juin-1993-budx9300070l)
+- [Loi n° 93-880 du 5 juillet 1993 (MAEX9200254L)](loi-n-93-880-du-5-juillet-1993-maex9200254l)
 - [Loi n°92-1282 du 11 décembre 1992 (ECOX9200109L)](loi-n92-1282-du-11-decembre-1992-ecox9200109l)
 - [Loi n°92-1441 du 31 décembre 1992 (DOMX9200192L)](loi-n92-1441-du-31-decembre-1992-domx9200192l)
 - [Loi n°92-1445 du 31 décembre 1992 (EQUX9200143L)](loi-n92-1445-du-31-decembre-1992-equx9200143l)

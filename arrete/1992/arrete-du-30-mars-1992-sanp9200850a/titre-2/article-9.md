@@ -4,7 +4,7 @@ Pour être admis à se présenter aux épreuves du diplôme d'Etat d'infirmier, 
 
 En cas de non-validation d'un ou de plusieurs modules, l'étudiant bénéficie de la possibilité d'une épreuve écrite de rattrapage dans chacun des modules où il a échoué, même dans le cas où le premier contrôle sur le module n'était pas un devoir écrit. Si le premier contrôle sur le module était un cas concret, l'épreuve de rattrapage doit revêtir les mêmes modalités. L'étudiant doit obtenir la moyenne à chaque épreuve écrite de rattrapage. La note obtenue à une épreuve écrite de rattrapage se substitue à la note initiale obtenue lors du premier contrôle sur le module concerné.
 
-Les épreuves écrites de rattrapage se déroulent avant les congés d'été accordés aux étudiants.
+Les épreuves écrites de rattrapage se déroulent avant le stage à temps plein de fin de troisième année.
 
 L'étudiant qui, à l'issue des épreuves de rattrapage, n'a pas validé tous les modules peut être autorisé à redoubler par le directeur du centre de formation après avis du conseil technique.
 

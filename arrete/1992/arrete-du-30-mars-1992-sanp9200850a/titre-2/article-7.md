@@ -2,7 +2,7 @@
 
 Pour être admis en deuxième année, l'étudiant doit obtenir une note au moins égale à dix sur vingt à chacun des modules, une note moyenne au moins égale à dix sur vingt aux mises en situation professionnelle et une note moyenne au moins égale à dix sur vingt à l'ensemble des stages.
 
-En cas de non-validation d'un ou de plusieurs modules, l'étudiant bénéficie de la possibilité d'une épreuve écrite de rattrapage dans chacun des modules où il a échoué, même dans le cas où le premier contrôle sur le module n'était pas un devoir écrit. Si le premier contrôle sur le module était un cas concret, l'épreuve de rattrapage doit revêtir les mêmes modalités. L'étudiant doit obtenir la moyenne à chaque épreuve écrite de rattrapage. Ces épreuves se déroulent avant les congés d'été accordés aux étudiants.
+En cas de non-validation d'un ou de plusieurs modules, l'étudiant bénéficie de la possibilité d'une épreuve écrite de rattrapage dans chacun des modules où il a échoué, même dans le cas où le premier contrôle sur le module n'était pas un devoir écrit. Si le premier contrôle sur le module était un cas concret, l'épreuve de rattrapage doit revêtir les mêmes modalités. L'étudiant doit obtenir la moyenne à chaque épreuve écrite de rattrapage. Ces épreuves se déroulent avant la rentrée scolaire suivante.
 
 L'étudiant qui, à l'issue des épreuves de rattrapage, n'a pas validé tous les modules, peut être autorisé à redoubler la première année par le directeur du centre de formation après avis du conseil technique.
 
