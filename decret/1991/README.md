@@ -564,6 +564,7 @@
 - [Décret n°91-87 du 21 janvier 1991 (SANM9002255D)](decret-n91-87-du-21-janvier-1991-sanm9002255d)
 - [Décret n°85-88 du 22 janvier 1985](decret-n85-88-du-22-janvier-1985)
 - [Décret n°90-502 du 22 juin 1990 (JUSB9010205D)](decret-n90-502-du-22-juin-1990-jusb9010205d)
+- [Décret n°90-81 du 22 janvier 1990 (AGRS9000041D)](decret-n90-81-du-22-janvier-1990-agrs9000041d)
 - [Décret n°91-1190 du 22 novembre 1991 (DEFP9102180D)](decret-n91-1190-du-22-novembre-1991-defp9102180d)
 - [Décret n°91-208 du 22 février 1991 (JUSA9000294D)](decret-n91-208-du-22-fevrier-1991-jusa9000294d)
 - [Décret n°91-223 du 22 février 1991 (EQUT9100273D)](decret-n91-223-du-22-fevrier-1991-equt9100273d)
