@@ -931,7 +931,6 @@
 - [Arrêté du 28 février 1991 (ECOT9113425A)](arrete-du-28-fevrier-1991-ecot9113425a)
 - [Arrêté du 28 février 1991 (ENVN9161089A)](arrete-du-28-fevrier-1991-envn9161089a)
 - [Arrêté du 28 février 1991 (SPSP9100504A)](arrete-du-28-fevrier-1991-spsp9100504a)
-- [Arrêté du 28 janvier 1991 (BUDD9050018A)](arrete-du-28-janvier-1991-budd9050018a)
 - [Arrêté du 28 janvier 1991 (BUDF9000024A)](arrete-du-28-janvier-1991-budf9000024a)
 - [Arrêté du 28 janvier 1991 (EQUP9100233A)](arrete-du-28-janvier-1991-equp9100233a)
 - [Arrêté du 28 janvier 1991 (EQUU9100024A)](arrete-du-28-janvier-1991-equu9100024a)
