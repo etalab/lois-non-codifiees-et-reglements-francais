@@ -2,7 +2,7 @@
 
 A peine d'une amende de 500 000 F, le délai de paiement, par tout producteur, revendeur ou prestataire de services, ne peut être supérieur [*sanctions pénales*] :
 
-- à trente jours après la fin de la décade de livraison pour les achats de produits alimentaires périssables, à l'exception des achats de produits saisonniers effectués dans le cadre de contrats dits de culture visés à l'article 17 de la loi n° 64-678 du 6 juillet 1964 tendant à définir les principes et les modalités du régime contractuel en agriculture ;
+- à trente jours après la fin de la décade de livraison pour les achats de produits alimentaires périssables et de viandes congelées ou surgelées, ainsi que de poissons surgelés, à l'exception des achats de produits saisonniers effectués dans le cadre de contrats dits de culture visés à l'article 17 de la loi n° 64-678 du 6 juillet 1964 tendant à définir les principes et les modalités du régime contractuel en agriculture ;
 
 - à vingt jours après le jour de livraison pour les achats de bétail sur pied destiné à la consommation et de viandes fraîches dérivées ;
 
