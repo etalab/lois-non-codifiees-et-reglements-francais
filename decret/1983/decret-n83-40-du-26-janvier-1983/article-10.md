@@ -18,6 +18,16 @@ Le décompte quotidien, hebdomadaire et mensuel des heures de service effectuée
 
 La durée du temps de service est contrôlée, dans l'établissement d'attache du conducteur, au moyen du décompte quotidien, hebdomadaire et mensuel prévu au présent paragraphe.
 
+Les dispositions prévues par les alinéas 2 à 5 du présent paragraphe 2 pour les personnels de conduite "grands routiers" des transports routiers de marchandises ou de déménagement sont également applicables à tous les personnels de conduite effectuant des transports routiers de marchandises ou de déménagement soumis aux règlements (CEE) n° 3820/85 et (CEE) n° 3821/85 du 20 décembre 1985.
+
+La durée du temps passé au service de l'employeur des personnels de conduite effectuant des transports routiers de marchandises ou de déménagement non soumis aux règlements (CEE) n° 3820/85 et (CEE) n° 3821/85 du 20 décembre 1985 et des personnels roulants des transports routiers de marchandises ou de déménagement autres que les personnels de conduite est enregistrée, attestée et contrôlée au moyen :
+
+- de l'horaire de service, pour les services de transports de marchandises à horaire fixe et ramenant chaque jour les salariés intéressés à leur établissement d'attache ;
+
+- dans les autres cas, d'un livret individuel de contrôle dont les feuillets doivent être remplis quotidiennement par les intéressés pour y faire mention de la durée des différents travaux effectués ; la durée du temps passé au service de l'employeur ainsi enregistrée au moyen des feuillets quotidiens du livret individuel de contrôle fait l'objet, pour chaque salarié concerné, d'un récapitulatif hebdomadaire et mensuel établi par l'employeur.
+
+Les caractéristiques et les modalités d'utilisation de l'horaire de service et du livret individuel de contrôle, dans les transports routiers de marchandises, sont fixées par arrêté du ministre chargé des transports.
+
 Paragraphe 3. Dans les entreprises de collecte de fret maritime ou aérien visées à l'article premier, les horaires de travail du personnel dont l'activité est indispensable aux opérations rendues nécessaires par les mouvements des navires ou des avions peuvent être décalés en fonction desdits mouvements.
 
 Paragraphe 4. Les délégués du personnel peuvent consulter les documents visés au paragraphe 2 du présent article 10, et le document mensuel, annexé au bulletin de paie, visé au deuxième alinéa du paragraphe 6 du présent article 10.
@@ -25,6 +35,10 @@ Paragraphe 4. Les délégués du personnel peuvent consulter les documents visé
 Le conducteur a le droit d'obtenir communication, sans frais, et en bon ordre, des feuilles d'enregistrement de l'appareil de contrôle défini par le règlement CEE n° 3821/85, le concernant, et des documents visés aux paragraphes 2 et 6 (deuxième alinéa) du présent article 10, ayant servi de base à l'élaboration de ses bulletins de paie.
 
 L'entreprise remet, sans frais, et en bon ordre, une copie de ces documents, dans un format identique à celui des originaux, aux conducteurs intéressés qui en font la demande.
+
+Les personnels de conduite effectuant des transports routiers de marchandises ou de déménagement non soumis aux règlements (CEE) n° 3820/85 et (CEE) n° 3821/85 du 20 décembre 1985 et les personnels roulants des transports routiers de marchandises ou de déménagement autres que les personnels de conduite ont le droit d'obtenir communication, sans frais et en bon ordre, des feuillets du livret de contrôle les concernant et des documents visés aux paragraphes 2 et 6 (2e alinéa) du présent article 10, ayant servi de base à l'élaboration de leurs bulletins de paie.
+
+L'entreprise remet, sans frais et en bon ordre, une copie de ces documents, dans un format identique aux originaux, aux salariés intéressés qui en font la demande.
 
 Paragraphe 5. Des modalités de contrôle différentes complétant ou se substituant aux modalités ci-dessus pourront être autorisées par arrêté du ministre chargé des transports et du ministre chargé du travail, pris après avis des organisations d'employeurs et de salariés de la profession.
 
@@ -43,3 +57,5 @@ Le bulletin de paie, ou le document mensuel annexé mentionné au précédent al
 - les informations relatives aux repos compensateurs ou récupérateurs acquis en fonction des durées de temps de service effectuées.
 
 Le bulletin de paie, ou le document mensuel annexé, établi par les conducteurs qui ont effectué dans le mois considéré des services en double équipage, visés au paragraphe 5 de l'article 5 du présent décret, doit mentionner l'intégralité des temps passés par ces conducteurs au service de leur employeur, avant prise en compte du coefficient de 50 p. 100 visé audit paragraphe.
+
+Les dispositions prévues par les alinéas 2 et 3 du présent paragraphe 6 pour les personnels de conduite "grands routiers" des transports routiers de marchandises ou de déménagement sont applicables à tous les personnels roulants du transport routier de marchandises ou de déménagement.
