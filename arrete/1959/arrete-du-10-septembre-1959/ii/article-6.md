@@ -6,7 +6,7 @@ Les concours pour l'emploi de sténodactylographe comportent les épreuves suiva
 
 2) Rétablissement du libellé correct d'un texte de caractère administratif comportant des omissions et des impropriétés de termes (durée : 30 minutes ; coefficient 1,5) ;
 
-3) Prise d'un texte pendant trois minutes en sténographie à la vitesse moyenne de 80 mots à la minute ou en sténotypie à la vitesse moyenne de 150 mots à la minute (durée : 1 heure ; coefficient 3) ;
+3) Prise d'un texte pendant trois minutes en sténographie à la vitesse moyenne de 80 mots à la minute ou en sténotypie pendant deux minutes à la vitesse moyenne de 120 mots à la minute (durée : 1 heure ; coefficient 3) ;
 
 4) Prise de 2 lettres administratives en sténographie ou sténotypie et présentation dactylographique (durée : 20 minutes ; coefficient 2) ;
 
