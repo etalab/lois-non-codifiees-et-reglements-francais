@@ -9,3 +9,5 @@ Lorsque le siège d'un membre d'un conseil d'orientation et de surveillance devi
 Lorsque les dispositions de l'alinéa précédent ne permettent plus de pourvoir aux vacances, il est procédé au renouvellement de toute catégorie de membres du conseil dans laquelle un siège au moins est vacant si le conseil a perdu au moins le tiers de ses membres ou si l'une des catégories ou l'un des collèges institués en application du deuxième alinéa de l'article 20 du présent décret n'a plus de représentation au sein dudit conseil. En ce cas le renouvellement doit avoir lieu dans les deux mois.
 
 Toutefois, il ne peut être procédé à aucun renouvellement en application de l'alinéa précédent moins d'un an avant la date prévue pour le renouvellement général du conseil d'orientation et de surveillance.
+
+Les dispositions du présent article ne sont pas applicables aux caisses d'épargne et de prévoyance qui sont dotées d'un conseil d'orientation et de surveillance constitué dans les conditions prévues à l'article 9 bis du décret du 31 janvier 1984 susvisé.
