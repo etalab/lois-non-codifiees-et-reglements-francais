@@ -46,6 +46,6 @@ Dans la partie supérieure du pourtour, la légende : Centenaire du cinéma.
 
 Dans la partie inférieure, l'inscription : Audrey Hepburn.
 
-Au revers commun à toutes les pièces figurent une représentation d'un cinématographe, la valeur faciale 500 F ou 100 F, le millésime 1994 et les lettres RF.
+Au revers commun à toutes les pièces figurent une représentation d'un cinématographe, la valeur 500 F ou 100 F, le millésime et les lettres RF.
 
 En légende, la devise républicaine : Liberté, Egalité, Fraternité.
