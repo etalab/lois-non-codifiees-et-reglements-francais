@@ -24,4 +24,5 @@
 - [Loi n°77-1455 du 29 décembre 1977](loi-n77-1455-du-29-decembre-1977)
 - [Loi n°78-22 du 10 janvier 1978](loi-n78-22-du-10-janvier-1978)
 - [Loi n°78-23 du 10 janvier 1978](loi-n78-23-du-10-janvier-1978)
+- [Loi n°78-49 du 19 janvier 1978](loi-n78-49-du-19-janvier-1978)
 - [Loi n°78-733 du 12 juillet 1978](loi-n78-733-du-12-juillet-1978)

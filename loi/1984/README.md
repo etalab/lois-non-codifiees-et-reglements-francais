@@ -13,6 +13,7 @@
 - [Loi n° 84-53 du 26 janvier 1984](loi-n-84-53-du-26-janvier-1984)
 - [Loi n° 84-540 du 4 juillet 1984](loi-n-84-540-du-4-juillet-1984)
 - [Loi n° 84-548 du 4 juillet 1984](loi-n-84-548-du-4-juillet-1984)
+- [Loi n° 84-575 du 9 juillet 1984](loi-n-84-575-du-9-juillet-1984)
 - [Loi n° 84-6 du 3 janvier 1984](loi-n-84-6-du-3-janvier-1984)
 - [Loi n° 84-7 du 3 janvier 1984](loi-n-84-7-du-3-janvier-1984)
 - [Loi n°83-660 du 21 juillet 1983](loi-n83-660-du-21-juillet-1983)

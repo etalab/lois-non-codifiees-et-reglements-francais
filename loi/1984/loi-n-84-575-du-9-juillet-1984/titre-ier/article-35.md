@@ -1,0 +1,3 @@
+# Article 35
+
+Les ordonnances n° 84-106 du 16 février 1984, relatives au revenu de remplacement des travailleurs involontairement privés d'emploi, et n° 84-198 du 21 mars 1984, relatives au revenu de remplacement des travailleurs involontairement privés d'emploi et portant modification du code de travail, prises en application de la loi n° 83-1097 du 20 décembre 1983 autorisant le Gouvernement, par application de l'article 38 de la Constitution, à prendre des mesures relatives au revenu de remplacement des travailleurs involontairement privés d'emploi et à la garantie des créances des salariés, sont ratifiées.

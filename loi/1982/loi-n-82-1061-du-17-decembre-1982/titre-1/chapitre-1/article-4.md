@@ -14,4 +14,4 @@ Siègent également, avec voix consultative :
 
 Un représentant des associations familiales ayant, au moment de sa désignation, la qualité d'allocataire ou d'ancien allocataire de prestations familiales, désigné par les unions départementales des associations familiales, territorialement compétentes dans la circonscription de la caisse ou, en cas de désaccord entre celles-ci, par l'union nationale des associations familiales ;
 
-Deux représentants du personnel de la caisse élus dans les conditions prévues par l'article L. 420-7 du code du travail pour l'élection des délégués du personnel dans l'entreprise.
+Trois représentants du personnel élus dans les conditions fixées par décret.
