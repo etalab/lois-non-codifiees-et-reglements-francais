@@ -1,3 +1,3 @@
 # Article 22
 
-Des arrêtés du ministre de l'urbanisme, du logement et des transports précisent l'organisation et les attributions de la direction générale, des directions et des services mentionnés aux articles ci-dessus.
+Le décret n° 78-918 du 6 septembre 1978 fixant l'organisation de l'administration centrale de l'environnement et du cadre de vie et le décret n° 82-259 du 24 mars 1982 relatif à l'organisation de l'administration centrale du ministère des transports sont abrogés.

@@ -8,9 +8,7 @@ La direction des affaires financières et de l'administration générale ;
 
 Le service de l'information et de la communication ;
 
-La direction de l'habitat et de la construction ;
-
-La direction de l'aménagement foncier et de l'urbanisme ;
+La direction générale de l'urbanisme, de l'habitat et de la construction.
 
 La direction des affaires économiques et internationales ;
 
