@@ -2,14 +2,14 @@
 
 La commission consultative de la création artistique (peinture, sculpture, arts graphiques) comprend :
 
-1° Quatre représentants de l'administration :
+1° Cinq membres de droit :
 
 - le délégué aux arts plastiques, président de la commission, ou son représentant ;
 
-- le directeur des musées de France, ou son représentant ;
+- le directeur des musées de France ou son représentant ;
 
-- deux inspecteurs de la création artistique désignés par le ministre chargé de la culture ;
+- le directeur du Musée national d'art moderne - centre de création industrielle du centre Georges Pompidou ou son représentant ;
 
-2° Deux artistes désignés par le ministre chargé de la culture après consultation des organisations professionnelles représenta­tives ;
+- le directeur du Centre national des arts plastiques ou son représentant ;
 
-3° Sept personnalités désignées par le ministre chargé de la culture en raison de leur compétence en matière de peinture, de sculpture ou d'arts plastiques.
+- l'inspecteur général de la création artistique ou son représentant.

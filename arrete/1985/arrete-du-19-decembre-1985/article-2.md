@@ -1,19 +1,17 @@
 # Article 2
 
-Cette commission est composée comme suit :
+La commission consultative de la création artistique chargée de donner un avis sur les propositions d'achat d'oeuvres d'artistes contemporains en matière d'arts décoratifs, de métiers d'art et de création industrielle comprend :
 
-1° Cinq représentants de l'administration, soit :
+1° Cinq membres de droit :
 
-- le délégué aux arts plastiques, président de la commission ou son représentant ;
+- le délégué aux arts plastiques, président de la commission, ou son représentant ;
 
 - le directeur des musées de France ou son représentant ;
 
-- le président de la Commission nationale de la photographie ou son représentant ;
+- le directeur du Centre national des arts plastiques ou son représentant ;
 
-- le directeur du Musée national d'art Moderne ou son représentant ;
+- deux inspecteurs de la création artistique.
 
-- l'inspecteur général pour la photographie ;
+2° Deux artistes, artisans d'art ou créateurs désignés par le ministre chargé de la culture après consultation des organisations professionnelles représentatives ;
 
-2° Deux auteurs désignés par le ministre chargé de l'éducation nationale et de la culture.
-
-3° Sept personnalités désignées par le ministre chargé de l'éducation nationale et de la culture en raison de leur compétence en matière de photographie.
+3° Sept personnalités désignées par le ministre chargé de la culture en raison de leur compétence en matière d'arts décoratifs, de métiers d'art et de création industrielle.
