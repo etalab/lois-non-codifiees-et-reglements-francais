@@ -18,6 +18,7 @@
 - [Loi n° 82-596 du 10 juillet 1982](loi-n-82-596-du-10-juillet-1982)
 - [Loi n° 82-600 du 13 juillet 1982](loi-n-82-600-du-13-juillet-1982)
 - [Loi n° 82-610 du 15 juillet 1982](loi-n-82-610-du-15-juillet-1982)
+- [Loi n° 82-623 du 22 juillet 1982](loi-n-82-623-du-22-juillet-1982)
 - [Loi n°82-1 du 4 janvier 1982](loi-n82-1-du-4-janvier-1982)
 - [Loi n°82-214 du 2 mars 1982](loi-n82-214-du-2-mars-1982)
 - [Loi n°82-3 du 6 janvier 1982](loi-n82-3-du-6-janvier-1982)

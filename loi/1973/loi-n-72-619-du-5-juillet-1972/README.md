@@ -30,3 +30,4 @@
 - [Article 21-2](article-21-2.md)
 - [Article 21-3](article-21-3.md)
 - [Article 22](article-22.md)
+- [Organes de la région](organes-de-la-region)

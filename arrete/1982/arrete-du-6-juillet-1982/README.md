@@ -1,4 +1,4 @@
-# Arrêté du 6 juillet 1982 relatif à la création d'un comité interministériel de restructuration industrielle
+# Arrêté du 6 juillet 1982 RELATIF A LA REVALORISATION DE DIVERS AVANTAGES DE VIEILLESSE, D'INVALIDITE ET D'ACCIDENTS DU TRAVAIL
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

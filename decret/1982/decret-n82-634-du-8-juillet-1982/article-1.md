@@ -1,0 +1,3 @@
+# Article 1
+
+Les émoluments forfaitaires mensuels, les indemnités et les autres rémunérations dus aux personnels médicaux permanents et temporaires des établissements publics d'hospitalisation autres que les hôpitaux locaux et les sommes nécessaires au financement, dans les conditions et limites fixées par décret, des régimes de solidarité qui avaient pour objet, à la date du 24 décembre 1960, la constitution de rentes vieillesse au profit des membres du corps médical des centres hospitaliers régionaux faisant partie des centres hospitaliers et universitaires, sont des dépenses de la section d'exploitation des budgets de ces établissements. Ils sont intégralement compris dans le calcul des prix de revient prévisionnels servant à la détermination des prix de journée.

@@ -7,4 +7,6 @@
 - [Article 70-4](article-70-4.md)
 - [Article 70-5](article-70-5.md)
 - [Article 70-6](article-70-6.md)
+- [Article 70-7](article-70-7.md)
+- [Article 70-8](article-70-8.md)
 - [Article 72-3](article-72-3.md)

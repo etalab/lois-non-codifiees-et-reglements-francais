@@ -1,3 +1,11 @@
 # Article 2
 
-Ce comité a pour mission d'examiner les causes des difficultés d'adaptation de certaines entreprises industrielles à leur environnement et de susciter, des partenaires existants ou potentiels de ces entreprises, l'élaboration et la mise en oeuvre des mesures industrielles, sociales et financières visant à assurer leur redressement, le maintien d'emplois durables et leur contribution au développement économique ou, à défaut, de provoquer la mise au point de mesures de reconversion.
+Le taux de majoration ou de revalorisation prenant effet au 1er juillet 1982 est fixé à 7,4 p. 100.
+
+Les pensions et rentes liquidées avec entrée en jouissance antérieure au 1er juillet 1982 sont donc revalorisées par application du coefficient 1,074.
+
+Ce coefficient majore également :
+
+Les coefficients de revalorisation des salaires ou cotisations servant de base au calcul des pensions de vieillesse et d'invalidité en vigueur antérieurement à cette date ;
+
+Le coefficient en vigueur applicable aux pensions et rentes visées à l'article L. 350 du code de la sécurité sociale.

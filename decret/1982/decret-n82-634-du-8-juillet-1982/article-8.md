@@ -1,0 +1,3 @@
+# Article 8
+
+Un arrêté conjoint des ministres chargés de la santé, de la sécurité sociale et de l'agriculture fixe le modèle des conventions à intervenir entre les organismes de sécurité sociale et de mutualité sociale agricole, d'une part, les établissements hospitaliers publics, d'autre part, en ce qui concerne les conditions d'admission et de séjour des ressortissants des régimes non agricoles, ainsi que des assurés sociaux salariés et non salariés du régime agricole et de leurs ayants droit. Ces conventions déterminent également les conditions dans lesquelles les médecins conseils de la sécurité sociale et les médecins conseils des législations sociales agricoles exercent leur contrôle.

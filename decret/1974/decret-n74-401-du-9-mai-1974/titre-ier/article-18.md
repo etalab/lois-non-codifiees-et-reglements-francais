@@ -4,4 +4,4 @@ Lorsque le nombre des praticiens effectivement en service dans l'établissement 
 
 Les fonctions exercées par ces praticiens ne peuvent donner lieu à une rémunération distincte de celle à laquelle les intéressés peuvent statutairement prétendre.
 
-Les sommes reçues par l'établissement au titre des honoraires afférents aux soins qui ont été dispensés par les praticiens seront reversées par l'établissement concessionnaire à l'établissement d'hospitalisation public intéressé selon des modalités fixées par arrêté du ministre de la santé publique. En cas de déplacement des praticiens, les frais correspondants sont à la charge de l'établissement concessionnaire.
+L'établissement rembourse à l'établissement d'hospitalisation public intéressé, dans les conditions fixées par arrêté du ministre chargé de la santé, la partie du traitement et des charges sociales correspondant à l'activité des praticiens mis à sa disposition, ainsi que, s'il y a lieu, les frais de déplacement exposés à ce titre.

@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsque l'action d'une direction des services fiscaux ou d'une direction régionale des impôts, d'une direction régionale des douanes, d'une direction ou d'un service interrégional des douanes, d'un laboratoire régional du service des laboratoires du ministère de l'économie et des finances s'étend au-delà du département ou de la région, les pouvoirs dévolus au commissaire de la République par les décrets n° 82-389 et n° 82-390 du 10 mai 1982, à l'exception de ses compétences consultatives en matière financière, économique et sociale, sont exercés par le commissaire de la République du département ou de la région où est situé le siège de ce service extérieur de l'Etat.

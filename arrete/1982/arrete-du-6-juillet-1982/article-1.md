@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé, sous la présidence du ministre de l'économie et des finances, un comité interministériel de restructuration industrielle.
+Le coefficient de majoration ou de revalorisation visé au troisième alinéa de l'article 3 du décret n° 73-1212 du 29 décembre 1973 est fixé à 1,146 d'après le rapport du salaire moyen des assurés pour les deux périodes de douze mois précédant le 1er avril 1982.
