@@ -61,5 +61,3 @@ Des courants de moyenne et basse fréquence.
 24° Rééducation orthoptique.
 
 25° Rééducation de la parole et du langage.
-
-26° Audiométrie prothétique.
