@@ -10,6 +10,6 @@ La formation spécifique conduisant au diplôme d'accompagnateur en moyenne mont
 
 - une unité de formation Milieu naturel estival;
 
-- une unité de formation Moyenne montagne enneigée;
+- une unité de formation "moyenne montagne enneigée" ou une unité de formation "moyenne montagne tropicale";
 
 - un examen final.

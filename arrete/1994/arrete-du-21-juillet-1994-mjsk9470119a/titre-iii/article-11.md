@@ -1,6 +1,6 @@
 # Article 11
 
-Peuvent accéder à l'examen final du diplôme d'accompagnateur en moyenne montagne les accompagnateurs stagiaires titulaires d'un livret de formation en cours de validité qui ont satisfait aux épreuves de l'unité de formation Moyenne montagne enneigée.
+Peuvent accéder à l'examen final du diplôme d'accompagnateur en moyenne montagne les accompagnateurs stagiaires titulaires d'un livret de formation en cours de validité qui ont satisfait aux épreuves de l'unité de formation Moyenne montagne enneigée ou aux épreuves de l'unité de formation moyenne montagne tropicale.
 
 L'examen final comporte les épreuves suivantes:
 
