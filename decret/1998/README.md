@@ -556,6 +556,7 @@
 - [Décret n°98-642 du 27 juillet 1998 (DEFD9801651D)](decret-n98-642-du-27-juillet-1998-defd9801651d)
 - [Décret n°98-654 du 27 juillet 1998 (MESH9821867D)](decret-n98-654-du-27-juillet-1998-mesh9821867d)
 - [Décret n°98-667 du 27 juillet 1998 (MCCB9800198D)](decret-n98-667-du-27-juillet-1998-mccb9800198d)
+- [Décret n°98-669 du 27 juillet 1998 (MAEA9820038D)](decret-n98-669-du-27-juillet-1998-maea9820038d)
 - [Décret du 27 mai 1998 (ECOC9700228D)](decret-du-27-mai-1998-ecoc9700228d)
 - [Décret n°98-407 du 27 mai 1998 (MENF9800777D)](decret-n98-407-du-27-mai-1998-menf9800777d)
 - [Décret n°98-408 du 27 mai 1998 (MENF9800776D)](decret-n98-408-du-27-mai-1998-menf9800776d)
