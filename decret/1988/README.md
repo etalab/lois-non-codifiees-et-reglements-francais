@@ -156,6 +156,7 @@
 - [Décret n°88-1054 du 22 novembre 1988 (ECOX8800152D)](decret-n88-1054-du-22-novembre-1988-ecox8800152d)
 - [Décret n°88-1057 du 22 novembre 1988 (SPSS8801339D)](decret-n88-1057-du-22-novembre-1988-spss8801339d)
 - [Décret n°88-1148 du 22 décembre 1988 (SPSX8810044D)](decret-n88-1148-du-22-decembre-1988-spsx8810044d)
+- [Décret n°88-433 du 22 avril 1988 (MCCB8800186D)](decret-n88-433-du-22-avril-1988-mccb8800186d)
 - [Décret n°88-452 du 22 avril 1988 (ASEP8800369D)](decret-n88-452-du-22-avril-1988-asep8800369d)
 - [Décret n°88-766 du 22 juin 1988 (ECOF8800007D)](decret-n88-766-du-22-juin-1988-ecof8800007d)
 - [Décret n°88-771 du 22 juin 1988 (JUSC8820430D)](decret-n88-771-du-22-juin-1988-jusc8820430d)
