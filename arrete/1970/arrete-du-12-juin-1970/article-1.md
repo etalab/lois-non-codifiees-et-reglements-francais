@@ -3022,7 +3022,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Castelsarrasin </p>
+<p>Moissac</p>
 </td>
 <td valign="top" width="416">
 <p>Cantons de Beaumont-de-Lomagne, Castelsarrasin-I, Castelsarrasin-II, Grisolles, Lavit-de-Lomagne, Montech, Saint-Nicolas-de-la-Grave, Verdun-sur-Garonne, commune de Bardigues.</p>
