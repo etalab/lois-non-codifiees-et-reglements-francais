@@ -1,6 +1,7 @@
 # 1973
 
 - [Arrêté du 1 mars 1973](arrete-du-1-mars-1973)
+- [Arrêté du 2 juillet 1973](arrete-du-2-juillet-1973)
 - [Arrêté du 3 juillet 1973](arrete-du-3-juillet-1973)
 - [Arrêté du 4 mai 1973](arrete-du-4-mai-1973)
 - [Arrêté du 5 février 1973](arrete-du-5-fevrier-1973)
