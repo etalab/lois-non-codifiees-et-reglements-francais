@@ -1,6 +1,8 @@
 # Article 56
 
-Le vote de chaque électeur est constaté par la signature ou le paraphe de l'un des membres du bureau, apposé à l'encre sur la liste d'émargement en face du nom du votant [*attributions des assesseurs*]
+Le vote de chaque électeur est constaté par sa signature apposée à l'encre en face de son nom sur la liste d'émargement.
+
+Lorsqu'un électeur se trouve dans l'impossibilité de signer, l'émargement est apposé par un électeur de son choix qui fait suivre sa signature de la mention suivante : "L'électeur ne peut signer lui-même".
 
 En même temps, la carte électorale ou l'attestation d'inscription en tenant lieu est estampillée au moyen d'un timbre portant la date du scrutin.
 
