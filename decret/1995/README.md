@@ -486,6 +486,7 @@
 - [Décret n°95-736 du 10 mai 1995 (DEFP9501496D)](decret-n95-736-du-10-mai-1995-defp9501496d)
 - [Décret n°95-737 du 10 mai 1995 (INTA9500138D)](decret-n95-737-du-10-mai-1995-inta9500138d)
 - [Décret n°95-738 du 10 mai 1995 (ENVN9530036D)](decret-n95-738-du-10-mai-1995-envn9530036d)
+- [Décret n°85-1314 du 11 décembre 1985](decret-n85-1314-du-11-decembre-1985)
 - [Décret n°95-1003 du 11 septembre 1995 (ECOX9501010D)](decret-n95-1003-du-11-septembre-1995-ecox9501010d)
 - [Décret n°95-1004 du 11 septembre 1995 (ECOX9501011D)](decret-n95-1004-du-11-septembre-1995-ecox9501011d)
 - [Décret n°95-1096 du 11 octobre 1995 (MENN9501610D)](decret-n95-1096-du-11-octobre-1995-menn9501610d)
