@@ -419,7 +419,6 @@
 - [Arrêté du 21 décembre 2001 (ATEG0100374A)](arrete-du-21-decembre-2001-ateg0100374a)
 - [Arrêté du 21 décembre 2001 (DEFP0102377A)](arrete-du-21-decembre-2001-defp0102377a)
 - [Arrêté du 21 décembre 2001 (EQUP0101557A)](arrete-du-21-decembre-2001-equp0101557a)
-- [Arrêté du 21 juin 2001 (AGRS0100615A)](arrete-du-21-juin-2001-agrs0100615a)
 - [Arrêté du 21 juin 2001 (EQUA0100681A)](arrete-du-21-juin-2001-equa0100681a)
 - [Arrêté du 21 juin 2001 (EQUA0100682A)](arrete-du-21-juin-2001-equa0100682a)
 - [Arrêté du 21 juin 2001 (EQUA0100683A)](arrete-du-21-juin-2001-equa0100683a)
