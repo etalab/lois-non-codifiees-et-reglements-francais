@@ -1,6 +1,6 @@
 # Article 21
 
-Sont déclarés admis au diplôme d'Etat de pédicure-podologue les candidats ayant obtenu une moyenne générale des notes du contrôle continu de troisième année et des épreuves terminales égale ou supérieure à 10 sur 20 à la condition qu'ils n'aient obtenu la note zéro à aucune des trois épreuves terminales.
+Sont déclarés admis au diplôme d'Etat de pédicure-podologue les candidats ayant obtenu une moyenne générale des notes du contrôle continu de troisième année et des épreuves terminales égale ou supérieure à 10 sur 20 à la condition qu'ils n'aient obtenu de note inférieure à 7 à aucune des trois épreuves terminales.
 
 La liste des candidats admis à l'examen du diplôme d'Etat est établie en séance plénière du jury. Celui-ci ne peut pas ajourner un candidat sans avoir consulté son carnet de scolarité.
 

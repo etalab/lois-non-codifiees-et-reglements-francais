@@ -1,25 +1,31 @@
 # Article 20
 
-L'examen du diplôme d'Etat se compose des trois épreuves de mise en situation professionnelle suivantes :
+L'examen en vue du diplôme d'Etat se compose des trois épreuves suivantes :
 
-Une épreuve comprenant un examen clinique ainsi que la conception et la réalisation d'un appareillage, décomposée de la façon suivante :
+Une épreuve de mise en situation professionnelle, évaluée par un médecin ayant des connaissances particulières dans les matières figurant au programme du diplôme d'Etat et deux pédicures-podologues, comprenant un examen clinique ainsi que la conception et la réalisation d'un appareillage plantaire, décomposée de la façon suivante :
 
-- l'examen du patient d'une durée de quarante-cinq minutes ;
+- examen du patient d'une durée de trente minutes ;
 
-- le passage devant le jury d'une durée de trente minutes ;
+- passage devant les examinateurs d'une durée de trente minutes ;
 
-- la réalisation d'un appareillage adapté à la pathologie et à la chaussure du patient, après accord du jury, d'une durée de quatre-vingt-dix minutes ;
+- réalisation d'un appareillage plantaire adapté à la pathologie et à la chaussure du patient, après accord des examinateurs, d'une durée de quatre-vingt-dix minutes.
 
-Une épreuve comprenant un examen clinique sans appareillage d'une durée de trente minutes, suivi d'un passage devant le jury d'une durée de trente minutes au cours duquel des questions relatives à l'ensemble du programme pourront être posées au candidat ;
+Une épreuve orale, évaluée par un médecin ayant des connaissances particulières dans les matières figurant au programme du diplôme d'Etat et deux pédicures-podologues, d'une durée de trente minutes dont dix minutes de préparation, composée, après tirage au sort, de trois questions :
 
-Une épreuve de soins pédicuraux, d'orthoplastie et/ou d'orthonyxie décomposée de la façon suivante :
+- une question portant sur les matières suivantes : anatomie, biomécanique et cinésiologie, biologie et physiologie humaine ;
+
+- une question portant sur les pathologies étudiées dans le cadre du programme de formation ;
+
+- une question portant sur le reste du programme.
+
+Une épreuve de mise en situation professionnelle, évaluée par trois pédicures-podologues, de soins pédicuraux, d'orthoplastie et/ou d'orthonyxie décomposée de la façon suivante :
 
 - examen du patient et soins d'une durée de quarante-cinq minutes ;
 
-- orthoplastie et/ou d'orthonyxie d'une durée de quarante-cinq minutes ;
+- orthoplastie et/ou orthonyxie d'une durée de quarante-cinq minutes ;
 
-- passage devant le jury d'une durée de quinze minutes.
+- passage devant les examinateurs d'une durée de quinze minutes.
 
-Ces trois épreuves sont notées chacune sur 20 points ; elles se déroulent dans des services agréés comme terrains de stage ou dans tout autre lieu déterminé par le médecin inspecteur régional de la santé.  Pour chaque candidat, le lieu de passage des trois épreuves est déterminé par le médecin inspecteur régional de la santé.
+Ces trois épreuves sont notées chacune sur 20 points. Elles se déroulent dans des services agréés comme terrains de stage ou dans tout autre lieu déterminé par le médecin inspecteur régional de la santé.
 
-Le jury peut intervenir à tout moment si la conduite du candidat porte préjudice au patient ; tout acte dangereux entraîne la note 0 et l'élimination immédiate du candidat de la session d'examen en cours.
+Les examinateurs peuvent intervenir à tout moment si la conduite du candidat porte préjudice au patient. Tout acte dangereux entraîne la note zéro et l'élimination immédiate du candidat de la session d'examen en cours.

@@ -12,7 +12,7 @@ Une épreuve de technologie d'une durée d'une heure et trente minutes notée su
 
 Une épreuve de biologie et physiologie humaine d'une durée d'une heure et trente minutes notée sur 20 points ;
 
-Une épreuve portant sur le reste du programme d'une durée d'une heure notée sur 30 points.
+Une épreuve portant sur le reste du programme d'une durée d'une heure et trente minutes notée sur 30 points.
 
 Les trois épreuves pratiques sont des épreuves de mise en situation professionnelle et portent sur les trois matières suivantes :
 

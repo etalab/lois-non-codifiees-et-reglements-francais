@@ -1,0 +1,3 @@
+# Article 24
+
+La commission administrative paritaire compétente à l'égard du corps des contrôleurs des transports terrestres demeure en fonctions jusqu'à l'expiration du mandat des membres actuellement en exercice. Les représentants du personnel des anciens grades de contrôleur et de contrôleur principal siègent en formation commune et représentent les agents du grade de contrôleur. Les représentants du grade de contrôleur principal exercent les compétences des représentants du nouveau grade de contrôleur principal. Les représentants du grade de contrôleur divisionnaire exercent les compétences des représentants du grade provisoire de contrôleur divisionnaire et du grade de contrôleur divisionnaire.

@@ -20,14 +20,10 @@ Une épreuve de soins pédicuraux, d'orthoplastie et/ou d'orthonyxie, le jury é
 
 45 minutes d'orthoplastie et/ou d'orthonyxie ;
 
-Une épreuve d'examen clinique avec confection et application d'une semelle orthopédique notée sur 40 points, d'une durée globale de trois heures, décomposée comme suit :
+Une épreuve d'examen clinique sans appareillage notée sur 30 points, d'une durée globale d'une heure et quinze minutes, décomposée comme suit :
 
 45 minutes d'examen clinique ;
 
-25 minutes de justification et de discussion ;
+30 minutes de justification et de discussion.
 
-1 heure 45 minutes de confection de la semelle ;
-
-5 minutes pour l'application et l'adaptation ;
-
-Une épreuve de technique imposée de semelles orthopédiques d'une durée d'une heure et quarante-cinq minutes, notée sur 20 points.
+Une épreuve d'orthèses plantaires avec sujet et technique imposés d'une durée d'une heure et quarante-cinq minutes, notée sur 30 points.
