@@ -1,7 +1,11 @@
 # Article 3
 
-Le comité professionnel de la distribution de carburants est administré par un conseil d'administration de douze membres :
+Le comité professionnel de la distribution de carburants est administré par un conseil d'administration de quatorze membres, dont :
 
-a) Huit membres nommés par arrêté du ministre chargé de l'industrie et du ministre chargé du commerce dont sept sur proposition des organisations professionnelles représentatives des détaillants en carburants et un sur proposition de l'Union française des industries pétrolières ;
+a) Dix représentant la profession, nommés par arrêté du ministre chargé de l'industrie et du ministre chargé du commerce, parmi lesquels :
 
-b) Quatre membres représentant les ministres chargés des finances, du budget, de l'aménagement du territoire et du commerce.
+- sept sur proposition des organisations professionnelles représentatives des commerces de détail en carburants ;
+
+- trois sur proposition des organisations professionnelles représentatives des sociétés de distribution de carburants ;
+
+b) Quatre représentant les ministres chargés de l'économie, du budget, de l'aménagement du territoire et du commerce.
