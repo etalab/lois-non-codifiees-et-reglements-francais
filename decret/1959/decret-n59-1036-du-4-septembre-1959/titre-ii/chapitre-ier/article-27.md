@@ -1,14 +1,16 @@
 # Article 27
 
-Les Charbonnages de France sont un organisme de direction, de coordination et de contrôle ayant pour attributions :
+Les Charbonnages de France sont un organisme de direction, de coordination, de contrôle et de participation.
 
-D'exercer la direction d'ensemble des Houillères de bassin en vue d'assurer l'emploi le meilleur, pour l'économie nationale, de leurs gisements et de leurs ressources de toute nature, sans préjudice de la personnalité civile, de l'autonomie financière et du caractère industriel et commercial des établissements.
+Ils exercent la direction d'ensemble des houillères de bassin en vue d'assurer l'emploi le meilleur, pour l'économie nationale, de leurs gisements et de leurs ressources de toute nature, sans préjudice de la personnalité civile, de l'autonomie financière et du caractère industriel et commercial des établissements.
 
-De coordonner leurs diverses activités et de déterminer les règles générales de l'accomplissement de leur mission.
+Ils coordonnent leurs diverses activités et déterminent les règles générales de l'accomplissement de leur mission.
 
-D'organiser les services d'intérêt commun dont l'unité se justifie par des motifs d'efficacité ou d'économie.
+Ils organisent les services d'intérêt commun dont l'unité se justifie par des motifs d'efficacité ou d'économie.
 
-D'assurer la représentation des Houillères de bassin auprès des pouvoirs publics et de tous organismes dont l'autorité s'exerce sur le plan national ou international.
+Ils définissent et mettent en oeuvre, en y participant éventuellement, les structures juridiques et financières permettant, en vue d'en assurer le développement, la mise en commun de certaines de leurs activités, notamment dans le domaine de la production d'électricité.
+
+Ils assurent la représentation des houillères de bassin auprès des pouvoirs publics et de tous organismes dont l'autorité s'exerce sur le plan national ou international.
 
 A ces fins, les Charbonnages de France sont chargés notamment :
 
