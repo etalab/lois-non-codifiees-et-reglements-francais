@@ -832,7 +832,6 @@
 - [Arrêté du 21 juin 1996 (MENE9601847A)](arrete-du-21-juin-1996-mene9601847a)
 - [Arrêté du 21 juin 1996 (MJSK9670088A)](arrete-du-21-juin-1996-mjsk9670088a)
 - [Arrêté du 21 mars 1996 (AGRG9600632A)](arrete-du-21-mars-1996-agrg9600632a)
-- [Arrêté du 21 mars 1996 (AGRG9600633A)](arrete-du-21-mars-1996-agrg9600633a)
 - [Arrêté du 21 mars 1996 (EQUP9600377A)](arrete-du-21-mars-1996-equp9600377a)
 - [Arrêté du 21 novembre 1994 (INTE9400595A)](arrete-du-21-novembre-1994-inte9400595a)
 - [Arrêté du 21 novembre 1994 (INTE9400597A)](arrete-du-21-novembre-1994-inte9400597a)
