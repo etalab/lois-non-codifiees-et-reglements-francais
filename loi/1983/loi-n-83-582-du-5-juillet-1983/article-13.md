@@ -1,0 +1,7 @@
+# Article 13
+
+Les dispositions de la présente loi sont applicables aux eaux sous souveraineté ou juridiction française, situées au large de la collectivité territoriale de Mayotte et des Terres australes et antarctiques françaises ainsi qu'aux eaux situées au large des îles Tromelin, Glorieuses, Juan de Nova, Europa, Bassas da India.
+
+Toutefois, pour ces zones, le délai de soixante-douze heures entre l'appréhension et la remise à l'autorité maritime compétente pour les saisies, tel que fixé par l'article 7, est augmenté du temps de navigation nécessaire pour rejoindre le port de conduite désigné par l'autorité maritime compétente.
+
+De même, le délai de six jours entre l'appréhension d'un navire ou d'une embarcation et l'ordonnance de confirmation de la saisie prononcée par le juge d'instance mentionné à l'article 3 est augmenté de la même durée.

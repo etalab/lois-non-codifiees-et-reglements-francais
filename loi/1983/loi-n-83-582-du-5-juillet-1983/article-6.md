@@ -1,0 +1,5 @@
+# Article 6
+
+Les infractions aux dispositions des textes visés à l'article 1er de la présente loi sont recherchées et constatées, outre les officiers et agents de police judiciaire, par les administrations des affaires maritimes, les officiers du corps technique et administratif des affaires maritimes, les officiers et et officiers mariniers commandant les bâtiments de l'Etat, les contrôleurs des affaires maritimes visés à l'article 5 du décret n° 79-97 du 25 janvier 1979 relatif au statut particulier du corps des contrôleurs des affaires maritimes, les syndics des gens de mer, les personnels embarqués d'assistance et de surveillance des affaires maritimes, les techniques du contrôle les établissements de pêche, les agents des douanes, les gardes jurés et les prud'hommes pêcheurs.
+
+Cette énumération complète, en tant que de besoin, la liste des officiers et agents énumérés à l'article 16 du décret du 9 janvier 1852 modifié, au premier alinéa de l'article 4 de la loi du 1er mars 1888, à l'article 2 de la loi n° 66-471 du 5 juillet 1966 et à l'article 3 de la loi n° 70-616 du 10 juillet 1970.

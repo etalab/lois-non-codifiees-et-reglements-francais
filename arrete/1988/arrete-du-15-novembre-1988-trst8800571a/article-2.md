@@ -1,21 +1,25 @@
 # Article 2
 
-La composition est fixée comme suit :
+Leur composition est fixée comme suit:
 
-Président :
+Président:
 
-Le vice-président délégué du conseil d'administration du Syndicat des transports parisiens.
+Le vice-président du conseil d'administration du Syndicat des transports parisiens.
 
-Membres :
+Membres:
 
-Le chef de la mission de contrôle économique et financier des transports ou son représentant ;
+Le directeur adjoint au vice-président du conseil d'administration du Syndicat des transports parisiens;
 
-Le chef du service administratif et financier du Syndicat des transports parisiens ou son représentant ;
+Le secrétaire général du Syndicat des transports parisiens;
 
-Le chef du service des études du Syndicat des transports parisiens ou son représentant ;
+Le chef de la mission de contrôle économique et financier du Syndicat des transports parisiens ou son représentant;
 
-L'agent comptable du Syndicat des transports parisiens ou son représentant.
+Le directeur financier du Syndicat des transports parisiens ou son représentant;
 
-Un représentant du directeur général de la concurrence et de la consommation assiste aux séances.
+Le directeur des études et du plan du Syndicat des transports parisiens ou son représentant;
 
-En cas d'empêchement du président, le chef du service administratif et financier assure la présidence.
+L'agent comptable du Syndicat des transports parisiens ou son représentant;
+
+Un représentant du directeur général de la concurrence et de la consommation.
+
+En cas d'empêchement du président, le directeur adjoint au vice-président ou le secrétaire général assurent la présidence.

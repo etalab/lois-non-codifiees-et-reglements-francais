@@ -1,0 +1,5 @@
+# Article 5
+
+La recherche des produits des pêches réalisées en infraction aux dispositions législatives ou réglementaires peut être opérée de jour en tout lieu public, à bord des navires ou embarcations, dans tous les locaux et à bord des moyens de transport utilisés pour l'exercice de leur profession, que ce soit à titre principal ou accessoire, par les pêcheurs, les mareyeurs, les industriels de la transformation du poisson, les marchands de poissons, les hôteliers et les restaurateurs, dans les halles à marée où s'effectuent les ventes aux enchères publiques ainsi que dans tous les autres lieux de vente.
+
+Cette recherche peut être également opérée de nuit dans ces mêmes lieux lorsque ceux-ci sont ouverts au public ou lorsqu'à l'intérieur de ceux-ci sont en cours des activités de transformation, de conditionnement, de transport ou de commercialisation, ainsi qu'à bord des navires ou embarcations. Lorsque ces lieux sont également à usage d'habitation, ces contrôles ne peuvent être effectués que de jour et avec l'autorisation du procureur de la République si l'occupant s'y oppose.
