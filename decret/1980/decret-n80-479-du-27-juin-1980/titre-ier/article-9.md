@@ -1,0 +1,7 @@
+# Article 9
+
+L'engagement des attachés scientifiques contractuels est effectué pour une durée de trois ans. Il est renouvelé une fois pour une durée égale, à condition que les intéressés aient soutenu avec succès une thèse de troisième cycle ou obtenu un diplôme de docteur ingénieur ou le diplôme d'études et de recherches en biologie humaine. Des dérogations à cette obligation peuvent être accordées par le directeur général de l'institut national de la recherche agronomique, après avis du comité scientifique, en faveur d'agents ayant poursuivi, préalablement à leur recrutement comme attachés scientifiques contractuels, des études ne conduisant pas normalement à l'obtention de tels diplômes.
+
+Au cours des trois premières années prévues ci-dessus, le contrat peut être résilié s'il s'avère que l'état d'avancement des travaux poursuivis par les intéressés en vue de l'obtention des titres du diplômes définis à l'alinéa précédent ne leur permettra pas de les acquérir avant l'expiration de la troisième année.
+
+Les durées prévues par le présent article sont prolongées d'un temps égal à celui passé effectivement par les intéressés au service national actif postérieurement à leur nomination dans leur emploi, ainsi que du temps passé en congé, rémunéré ou non, pour maladie, maternité ou accident du travail, ou en congé sans traitement pour élever un enfant. Dans la limite globale d'un an, ces durées peuvent également être prorogées d'un temps égal à celui passé par les intéressés dans la position de congé sans traitement prévue par l'article 14 ci-après.
