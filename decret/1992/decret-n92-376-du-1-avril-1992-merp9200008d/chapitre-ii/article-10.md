@@ -6,6 +6,8 @@ Les listes sont déposées auprès de la commission électorale, à partir de la
 
 Elles doivent comporter un nombre de noms égal à celui des membres à élire dans le collège ou la catégorie concernés, ainsi qu'un nombre égal de suppléants.
 
+Toutefois, des listes incomplètes peuvent être présentées par les organisations professionnelles ou syndicats précités, à condition qu'ils aient déposé auprès des commissions électorales des listes complètes ou non au sein d'un même collège ou d'une même catégorie, dans au moins cinq comités locaux répartis dans au moins trois comités régionaux.
+
 Nul ne peut figurer sur plusieurs listes de candidats.
 
 Chaque liste doit faire l'objet d'une déclaration effectuée par un mandataire muni d'une procuration écrite signée de chaque candidat figurant sur la liste.

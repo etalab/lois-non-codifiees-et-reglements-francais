@@ -4,4 +4,4 @@ Un règlement intérieur, approuvé par arrêté du ministre chargé des pêches
 
 Le règlement prévoit la création de commissions de travail destinées à préparer les délibérations sur des questions particulières.
 
-Ces commissions sont constituées majoritairement de membres titulaires ou suppléants de l'assemblée.
+Ces commissions sont constituées majoritairement de membres des organes dirigeants du Comité national ou des comités régionaux.

@@ -1,12 +1,12 @@
 # Article 5
 
-L'assemblée du comité national comprend cent trente membres, ainsi répartis :
+L'assemblée du comité national comprend cent trente-six membres, ainsi répartis :
 
 Vingt-six représentants des comités régionaux des pêches maritimes et des élevages marins ;
 
-Trente-trois représentants des équipages et des salariés du secteur de la production ;
+Trente-six représentants des équipages et des salariés du secteur de la production ;
 
-Trente-trois représentants des chefs d'entreprise de pêche maritime ainsi que des éleveurs marins ;
+Trente-six représentants des chefs d'entreprise de pêche maritime ainsi que des éleveurs marins ;
 
 Seize représentants des coopératives maritimes ;
 

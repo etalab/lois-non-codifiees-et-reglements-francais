@@ -20,6 +20,6 @@ e) Son numéro d'identification, s'il exerce la profession de marin.
 
 Cette demande est accompagnée des pièces justificatives nécessaires à son examen. Elle précise que l'électeur ne s'est pas fait inscrire dans un autre comité et qu'il s'abstiendra de demander son inscription dans un autre comité avant d'avoir obtenu sa radiation de celui-ci.
 
-La liste sur laquelle s'effectue l'inscription est celle qui correspond au collège et éventuellement à la catégorie dont relève le demandeur, dans la circonscription électorale où il a le centre de ses activités ou de ses intérêts professionnels.
+La liste sur laquelle s'effectue l'inscription est celle qui correspond au collège et éventuellement à la catégorie dont relève, à titre principal, le demandeur, dans la circonscription électorale où il a le centre de ses activités ou de ses intérêts professionnels.
 
-Les chefs d'entreprises armant des navires dans la circonscription de plusieurs comités peuvent choisir le comité où ils exercent leur droit de vote.
+Les chefs d'entreprises armant des navires ou pratiquant la pêche maritime à pied dans la circonscription de plusieurs comités peuvent choisir le comité où ils exercent leur droit de vote.
