@@ -15,3 +15,5 @@ a) Neuf membres nommés sur proposition des organisations professionnelles repr�
 b) Deux membres nommés en raison de leurs compétences ;
 
 c) Deux membres nommés sur proposition des ministres chargés respectivement de l'économie et du budget.
+
+Des membres suppléants, appelés à remplacer les membres titulaires en cas d'absence ou d'empêchement, peuvent être désignés dans les mêmes conditions.
