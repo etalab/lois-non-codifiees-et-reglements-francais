@@ -4,4 +4,4 @@ Lorsque sont constatés des manquements graves ou répétés imputables à un co
 
 Au vu de l'avis de cette commission, le préfet peut à titre temporaire ou définitif radier l'entreprise du registre des commissionnaires de transport.
 
-Pour l'application des dispositions du présent article, les commissions des sanctions administratives du comité technique interdépartemental et des comités techniques départementaux des transports de la région Ile-de-France exercent les attributions de la commission des sanctions administratives du comité régional des transports.
+Il est fait rapport trimestriellement à la commission des sanctions administratives du comité régional des transports, des décisions préfectorales prises en application du présent article. Ce rapport est transmis pour information à la commission des sanctions administratives du Conseil national des transports ainsi qu'aux organisations représentatives nationales professionnelles et syndicales.
