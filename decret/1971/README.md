@@ -23,6 +23,7 @@
 - [Décret du 15 avril 1971](decret-du-15-avril-1971)
 - [Décret n°71-136 du 15 février 1971](decret-n71-136-du-15-fevrier-1971)
 - [Décret n°71-766 du 16 septembre 1971](decret-n71-766-du-16-septembre-1971)
+- [Décret n°71-382 du 17 mai 1971](decret-n71-382-du-17-mai-1971)
 - [Décret n°71-208 du 18 mars 1971](decret-n71-208-du-18-mars-1971)
 - [Décret n°71-209 du 18 mars 1971](decret-n71-209-du-18-mars-1971)
 - [Décret n°74-543 du 20 mai 1974](decret-n74-543-du-20-mai-1974)
