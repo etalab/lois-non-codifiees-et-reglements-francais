@@ -16,4 +16,6 @@ Le directeur général dirige l'établissement. A ce titre :
 
 7° Il fixe le prix des prestations et services rendus par l'établissement.
 
+8° Le directeur général procède à l'exécution des décisions d'attribution de subventions de l'Etat et des décisions de prise en charge financées par le Fonds national pour l'archéologie préventive, ainsi que de toute autre décision afférente à la gestion du fonds.
+
 Le directeur général peut, dans l'intervalle des séances du conseil d'administration, apporter au budget, avec l'accord du contrôleur financier, des modifications ne comportant ni accroissement du niveau des effectifs du personnel sous contrat à durée indéterminée ou du montant total des dépenses, ni réduction du montant total des recettes, ni virement de crédits entre la section des opérations en capital et la section de fonctionnement. Ces décisions peuvent concerner des virements de crédits entre les crédits à répartir et la section de fonctionnement. Elles sont ratifiées par le conseil d'administration lors de la première séance qui suit leur signature.
