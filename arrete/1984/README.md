@@ -95,4 +95,5 @@
 - [Arrêté du 30 décembre 1983](arrete-du-30-decembre-1983)
 - [Arrêté du 30 janvier 1984](arrete-du-30-janvier-1984)
 - [Arrêté du 30 mars 1984](arrete-du-30-mars-1984)
+- [Arrêté du 30 mai 1984](arrete-du-30-mai-1984)
 - [Arrêté du 31 janvier 1984](arrete-du-31-janvier-1984)

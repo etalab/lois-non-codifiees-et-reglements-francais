@@ -1,4 +1,4 @@
-# Arrêté du 6 avril 1984 relatif à la commission de terminologie de l'environnement et de la qualité de la vie.
+# Décret n°84-410 du 30 mai 1984 RELATIF A L'AIDE A LA REDUCTION CONCERTEE DE LA DUREE DU TRAVAIL EN VUE DE L'AMELIORATION DE L'EMPLOI
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,4 +7,3 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
-- [Article 8](article-8.md)
