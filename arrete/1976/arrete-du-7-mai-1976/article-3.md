@@ -1,5 +1,9 @@
 # Article 3
 
-Les examinateurs prévus à l'article 6 du décret du 7 mai 1976 susvisé doivent, avant l'épreuve, s'assurer de l'identité des candidats et de la régularité de leur convocation. Ils surveillent et corrigent les épreuves des candidats.
+Les examinateurs prévus à l'article R. 223-7 du code rural s'assurent, avant l'épreuve, de l'identité des candidats et de la régularité de leur convocation.
 
-Tout candidat convaincu de fraude ou de tentative de fraude est immédiatement exclu de la salle d'examen et ajourné.
+" Les candidats leur remettent l'attestation mentionnée à l'article 1er bis. Celle-ci leur est restituée en cas d'échec à l'examen.
+
+" Les examinateurs surveillent et corrigent les épreuves des candidats.
+
+" Tout candidat convaincu de fraude ou de tentative de fraude est immédiatement exclu de la salle d'examen et ajourné. "

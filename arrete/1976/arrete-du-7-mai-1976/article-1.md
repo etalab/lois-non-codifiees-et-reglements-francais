@@ -8,4 +8,4 @@ Tout candidat à l'examen pour la délivrance du permis de chasser doit adresser
 
 3° Deux enveloppes libellée à l'adresse du demandeur et convenablement affranchies.
 
-4° Une attestation de participation à une session de formation pratique, valide au 31 mars de l'année de l'examen.    Le montant du droit d'examen est acquitté par l'apposition sur la demande d'inscription d'un ou plusieurs timbres fiscaux.    La demande concernant un mineur est formulée par la personne ou l'institution investie de l'autorité parentale ou du droit de garde.    Lorsque le candidat déclare qu'il aura une autre résidence au moment de l'examen il peut demander à passer les épreuves dans un autre département.
+Le montant du droit d'examen est acquitté par l'apposition sur la demande d'inscription d'un ou plusieurs timbres fiscaux.    La demande concernant un mineur est formulée par la personne ou l'institution investie de l'autorité parentale ou du droit de garde.    Lorsque le candidat déclare qu'il aura une autre résidence au moment de l'examen il peut demander à passer les épreuves dans un autre département.
