@@ -1,0 +1,3 @@
+# Article Annexe
+
+Le présent contrat s'applique à l'élevage de ... situé à (lieudit, commune, département) ... immatriculé sous le numéro conformément à la réglementation en vigueur ....

@@ -1,0 +1,16 @@
+# Contrat type pour l'élevage à façon de veaux de boucherie
+
+- [Assurance des risques.](assurance-des-risques)
+- [Cas particulier de réduction du nombre de veaux mis en élevage ou de retard de démarrage d'une bande.](cas)
+- [Commission nationale paritaire.](commission-nationale-paritaire)
+- [Conditions de financement des équipements.](conditions-de-financement-des-equipements)
+- [Conditions de règlement.](conditions-de-reglement)
+- [Critères techniques et normes de référence.](criteres-techniques-et)
+- [Enumération des biens et services mis en oeuvre pour l'exécution du contrat.](enumeration-des-biens-et)
+- [Renouvellement et modifications.](renouvellement-et)
+- [Unité du contrat et signature du contrat.](unite-du-contrat-et)
+- [Lieu d'exécution du contrat.](lieu-d-execution-du-contrat)
+- [Litiges.](litiges)
+- [Objet du contrat.](objet-du-contrat)
+- [Obligations réciproques.](obligations-reciproques)
+- [Propriété des moyens de production.](propriete-des-moyens-de-production)

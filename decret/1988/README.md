@@ -170,6 +170,7 @@
 - [Décret n°88-305 du 28 mars 1988 (RESY8800191D)](decret-n88-305-du-28-mars-1988-resy8800191d)
 - [Décret n°88-307 du 28 mars 1988 (JUSB8810099D)](decret-n88-307-du-28-mars-1988-jusb8810099d)
 - [Décret n°88-310 du 28 mars 1988 (ASES8800154D)](decret-n88-310-du-28-mars-1988-ases8800154d)
+- [Décret n°88-313 du 28 mars 1988 (EQUC8800324D)](decret-n88-313-du-28-mars-1988-equc8800324d)
 - [Décret n°88-90 du 28 janvier 1988 (BUDB8830006D)](decret-n88-90-du-28-janvier-1988-budb8830006d)
 - [Décret n°88-97 du 28 janvier 1988 (PRMJ8860003D)](decret-n88-97-du-28-janvier-1988-prmj8860003d)
 - [Décret n°88-98 du 28 janvier 1988 (PRMJ8860004D)](decret-n88-98-du-28-janvier-1988-prmj8860004d)
