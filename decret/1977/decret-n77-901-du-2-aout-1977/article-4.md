@@ -1,7 +1,7 @@
 # Article 4
 
-Les demandes de rachat [*de cotisations de retraite*], doivent être présentées dans les six mois à compter de la date d'effet de l'immatriculation à l'assurance obligatoire, ou, au plus tard, dans les six mois à compter de la libération des intéressés.
+La demande de rachat doit porter sur la totalité des périodes de détention provisoire visées à l'article 3 ci-dessus.
 
-Pour les anciens détenus libèrés avant le 1er juillet 1977, les demandes doivent être présentées au plus tard avant le 1er juillet 1979.
+Toutefois, la demande de rachat peut être limitée à une partie de ces périodes, lorsque l'application de la règle fixée à l'alinéa précédent aurait pour effet, compte tenu des périodes d'assurances retenues par ailleurs, de porter au-delà de quatre-vingts trimestres la durée d'assurance susceptible d'être prise en compte à la date de cette demande. Dans ce cas, le rachat ne peut être demandé que dans l'ordre chronologique de la ou des périodes.
 
-La caisse compétente pour recevoir les demandes de rachat et encaisser les cotisations de rachat est la caisse centrale de secours mutuels agricoles [*organisme*].
+La caisse compétente pour recevoir les demandes de rachat et encaisser les cotisations de rachat est la caisse centrale de secours mutuels agricoles.
