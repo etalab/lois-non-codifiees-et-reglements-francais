@@ -10,9 +10,7 @@ L'administration centrale du ministère de l'agriculture et de la pêche compren
 
 - la direction des affaires financières ;
 
-- la direction de l'espace rural et de la forêt ;
-
-- la direction des exploitations, de la politique sociale et de l'emploi ;
+- la direction générale de la forêt et des affaires rurales ;
 
 - la direction des pêches maritimes et de l'aquaculture ;
 
