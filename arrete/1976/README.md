@@ -30,6 +30,7 @@
 - [Arrêté du 14 avril 1976](arrete-du-14-avril-1976)
 - [Arrêté du 15 juillet 1975](arrete-du-15-juillet-1975)
 - [Arrêté du 15 juillet 1976](arrete-du-15-juillet-1976)
+- [Arrêté du 15 octobre 1976](arrete-du-15-octobre-1976)
 - [Arrêté du 16 août 1976](arrete-du-16-aout-1976)
 - [Arrêté du 16 février 1976](arrete-du-16-fevrier-1976)
 - [Arrêté du 16 juin 1975](arrete-du-16-juin-1975)
