@@ -1,0 +1,9 @@
+# Article 7
+
+Dans les établissements mettant en oeuvre des installations soumises à autorisation en application de l'article R. 1333-24 du code de la santé publique, ainsi que dans les établissements disposant de structures de radiologie interventionnelle, sans préjudice des conditions techniques de fonctionnement fixées en application de l'article L. 6124-1 de ce code, le chef d'établissement arrête un plan décrivant l'organisation de la radiophysique médicale au sein de l'établissement, conformément aux dispositions de l'article 6 du présent arrêté.A défaut de chef d'établissement, ce plan est arrêté dans les conditions fixées au premier alinéa de l'article 6.
+
+Ce plan tient compte des propositions établies par les personnes autorisées à utiliser les rayonnements ionisants en application de l'article R. 1333-24 du code de la santé publique. Il détermine l'organisation et les moyens nécessaires en personnel et tient compte notamment des pratiques médicales réalisées dans l'établissement, du nombre de patients accueillis ou susceptibles de l'être, des contraintes, notamment en temps de travail, découlant de techniques particulières ou complexes, des compétences existantes en matière de dosimétrie et des moyens mis en oeuvre pour la maintenance et le contrôle de qualité interne et externe des dispositifs mentionnés à l'article R. 5212-28 du code de la santé publique.
+
+Dans le cas où l'exécution d'une prestation en radiophysique médicale est confiée à une personne spécialisée en radiophysique médicale ou à un organisme disposant de personnes spécialisées en radiophysique médicale, extérieures à l'établissement, une convention écrite doit être établie avec cette personne ou cet organisme.
+
+Ce plan et, le cas échéant, la convention prévue à l'alinéa précédent sont tenus à la disposition des inspecteurs de radioprotection mentionnés à l'article L. 1333-17 du code de la santé publique.

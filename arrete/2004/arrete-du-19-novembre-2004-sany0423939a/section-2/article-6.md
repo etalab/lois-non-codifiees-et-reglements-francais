@@ -1,0 +1,7 @@
+# Article 6
+
+Le chef de tout établissement où sont exploitées des installations de radiothérapie, de curiethérapie, de radiologie et de médecine nucléaire ou, à défaut, le titulaire de l'autorisation délivrée en application de l'article R. 1333-24, ou la personne qui a déclaré utiliser des appareils électriques émettant des rayonnements ionisants en application de l'article R. 1333-22, définit, met en oeuvre et évalue périodiquement une organisation en radiophysique médicale adaptée pour répondre aux conditions suivantes :
+
+1° Dans les services de radiothérapie externe et de curiethérapie, les effectifs en personnes spécialisées en radiophysique médicale doivent être en nombre et temps de présence suffisants pour assurer, sans interruption de la continuité, les interventions résultant de l'exercice des missions définies à l'article 2, notamment lors de la préparation et de la réalisation des traitements conformément aux exigences de l'article R. 1333-62 du code de santé publique. Dans les services de radiothérapie externe, une personne spécialisée en radiophysique médicale doit être présente pendant la délivrance de la dose de rayonnements aux patients ;
+
+2° Dans les services de médecine nucléaire, dans les structures de santé pratiquant la radiologie interventionnelle et dans les services de radiologie, il doit être fait appel, chaque fois que nécessaire et conformément aux exigences des articles R. 1333-64 et R. 1333-68 du code de la santé publique, à une personne spécialisée en radiophysique médicale.
