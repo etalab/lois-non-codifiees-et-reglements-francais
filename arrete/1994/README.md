@@ -273,7 +273,6 @@
 - [Arrêté du 8 septembre 1994 (DEFT9401907A)](arrete-du-8-septembre-1994-deft9401907a)
 - [Arrêté du 8 septembre 1994 (DEFT9401908A)](arrete-du-8-septembre-1994-deft9401908a)
 - [Arrêté du 8 septembre 1994 (EQUP9401526A)](arrete-du-8-septembre-1994-equp9401526a)
-- [Arrêté du 8 septembre 1994 (INDP9401036A)](arrete-du-8-septembre-1994-indp9401036a)
 - [Arrêté du 8 septembre 1994 (INTD9400450A)](arrete-du-8-septembre-1994-intd9400450a)
 - [Arrêté du 8 septembre 1994 (INTD9400451A)](arrete-du-8-septembre-1994-intd9400451a)
 - [Arrêté du 8 septembre 1994 (INTD9400452A)](arrete-du-8-septembre-1994-intd9400452a)
