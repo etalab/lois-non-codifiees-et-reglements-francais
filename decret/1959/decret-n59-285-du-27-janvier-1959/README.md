@@ -7,7 +7,6 @@
 - [Titre IV : Transport et circulation en plans inclinés](titre-iv)
 - [Titre V : Machines du fond, machines d'extraction et câbles](titre-v)
 - [Titre VI : Travail au fond](titre-vi)
-- [Titre VII : Aérage](titre-vii)
 - [Titre VIII : Eclairage.](titre-viii)
 - [Titre IX : Explosifs](titre-ix)
 - [Titre X](titre-x)
