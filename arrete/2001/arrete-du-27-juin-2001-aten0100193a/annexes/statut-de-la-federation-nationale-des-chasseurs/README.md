@@ -1,3 +1,0 @@
-# STATUT DE LA FÉDÉRATION NATIONALE DES CHASSEURS.
-
-- [Article ANNEXE](article-annexe.md)
