@@ -24,7 +24,7 @@ III = DUREE Minimale
 <td> :10e éc:       :             :</td>
 </tr>
 <tr>
-<td> :9e éch: 3 ans : 2 ans 3 mois:</td>
+<td> :9e éch: 2 ans : 1 an  6 mois:</td>
 </tr>
 <tr>
 <td> :8e éch: 2 ans : 1 an  6 mois:</td>
