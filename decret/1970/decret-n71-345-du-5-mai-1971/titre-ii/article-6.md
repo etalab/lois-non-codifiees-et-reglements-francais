@@ -4,7 +4,7 @@ Les ingénieurs des travaux publics de l'Etat sont nommés par arrêté du minis
 
 I - 1° Pour quatre cinquièmes du nombre des emplois à pourvoir, parmi les élèves ingénieurs des travaux publics de l'Etat, qui ont satisfait aux conditions exigées par le règlement de l'Ecole nationale des travaux publics de l'Etat ;
 
-2° Pour un cinquième des emplois à pourvoir, parmi les techniciens supérieurs de l'équipement qui ont satisfait à un examen professionnel et effectué un stage de perfectionnement ou qui ont été portés sur une liste d'aptitude établie dans les conditions fixées à l'article 15 ;
+2° Pour un cinquième du nombre des emplois à pourvoir, parmi les techniciens supérieurs de l'équipement et les contrôleurs des travaux publics de l'Etat qui ont satisfait à un examen professionnel et qui ont effectué un stage de perfectionnement ou parmi les membres du corps des techniciens supérieurs de l'équipement, qui ont été portés sur une liste d'aptitude établie dans les conditions de l'article 15.
 
 II - Ils peuvent être également recrutés par voie d'un concours par spécialité ouvert aux candidats âgés de quarante ans au plus au 1er janvier de l'année du concours et soit titulaires d'un diplôme ou titre délivré par une école d'ingénieurs dont un des concours d'entrée est du niveau de classe de mathématiques spéciales et qui comporte une scolarité d'une durée minimum de trois années, soit titulaires d'un diplôme ou titre sanctionnant un troisième cycle d'études universitaires ; la liste des spécialités, écoles, diplômes ou titres est fixée par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé de l'équipement.
 

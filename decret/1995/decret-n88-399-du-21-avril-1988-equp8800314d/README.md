@@ -3,7 +3,6 @@
 - [TITRE Ier : DISPOSITIONS GENERALES.](titre-ier)
 - [TITRE II : RECRUTEMENT.](titre-ii)
 - [TITRE III : AVANCEMENT.](titre-iii)
-- [TITRE IV : DISPOSITIONS DIVERSES](titre-iv)
 - [TITRE V : Dispositions transitoires applicables aux conducteurs et aux conducteurs principaux des travaux publics de l'Etat.](titre-v)
 - [TITRE VI : Dispositions transitoires applicables aux contrôleurs et aux contrôleurs principaux des travaux publics de l'Etat.](titre-vi)
 - [Article 25](article-25.md)

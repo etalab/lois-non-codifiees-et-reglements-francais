@@ -1,7 +1,7 @@
 # Article 4
 
-Les contrôleurs principaux des travaux publics de l'Etat assurent l'organisation, la direction et le contrôle des chantiers importants ainsi que la gestion des matériels.
+Les contrôleurs principaux et divisionnaires peuvent être chargés de l'élaboration, de l'organisation des contrôles et de la conduite de chantiers importants ou nécessitant une technicité spécifique.
 
-Ils sont chargés du fonctionnement d'un centre d'exploitation. Ils participent à l'élaboration des programmes annuels et au contrôle de gestion, à l'entretien, à l'exploitation des infra- structures et des ouvrages et à la gestion des trafics.
+Ils participent à l'élaboration, l'organisation et à la mise en oeuvre de programmes ou de politiques locales au sein de services déconcentrés.
 
-Ils peuvent également être adjoints à un chef de subdivision.
+Les contrôleurs principaux et divisionnaires participent à l'encadrement de ces structures et peuvent en assurer la direction. Les contrôleurs divisionnaires peuvent assurer la direction des structures importantes.

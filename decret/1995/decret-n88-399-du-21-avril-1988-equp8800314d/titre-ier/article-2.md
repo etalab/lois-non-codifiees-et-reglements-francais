@@ -1,21 +1,17 @@
 # Article 2
 
-Le corps des contrôleurs des travaux publics de l'Etat comporte deux grades :
+Le corps des contrôleurs des travaux publics de l'Etat comprend trois grades :
 
-Contrôleur des travaux publics de l'Etat ;
+Le grade de contrôleur des travaux publics de l'Etat qui comporte 13 échelons ;
 
-Contrôleur principal des travaux publics de l'Etat.
+Le grade de contrôleur principal des travaux publics de l'Etat qui comporte 8 échelons ;
 
-Le grade de contrôleur des travaux publics de l'Etat comporte treize échelons.
+Le grade de contrôleur divisionnaire des travaux publics de l'Etat qui comporte 8 échelons.
 
-Le grade de contrôleur principal des travaux publics de l'Etat comporte huit échelons.
+Les fonctionnaires de ce corps sont répartis entre les domaines suivants :
 
-Les fonctionnaires de ce corps sont répartis entre les spécialités suivantes :
+1° Aménagement et infrastructures terrestres ;
 
-Routes, bases aériennes ;
+2° Aménagement et infrastructures fluviales, maritimes ou portuaires ;
 
-Voies navigables, ports maritimes ;
-
-Mécaniciens-électriciens ;
-
-Phares et balises.
+3° Phares et balises et sécurité maritime.

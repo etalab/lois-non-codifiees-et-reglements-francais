@@ -1,13 +1,11 @@
 # Article 3
 
-Les contrôleurs des travaux publics de l'Etat (routes, bases aériennes) sont chargés de l'organisation et de la conduite des chantiers. Ils assurent l'encadrement des équipes. Ils contrôlent les travaux confiés aux entreprises. Ils participent à la comptabilité analytique et au contrôle de gestion, à l'instruction des affaires touchant l'urbanisme, à l'entretien et à la conservation du domaine public.
+Les contrôleurs des trois grades sont chargés de la gestion et de l'exploitation des infrastructures de transport, de l'organisation et du contrôle des travaux neufs ou d'entretien réalisés par une entreprise ou en régie, du conseil et de l'assistance à la maîtrise d'ouvrage.
 
-Les contrôleurs des travaux publics de l'Etat (voies navigables, ports maritimes) sont chargés de la surveillance des travaux, de l'exploitation et de la police du domaine public des voies navigables et maritimes.
+Ils participent à la mise en oeuvre des politiques de l'Etat et au contrôle du respect des réglementations relatives notamment à l'urbanisme, à la construction, à l'environnement et au domaine public.
 
-Les contrôleurs des travaux publics de l'Etat (mécaniciens-électriciens) assurent le contrôle de l'entretien et du fonctionnement des ouvrages ainsi que la surveillance des travaux d'équipement, de réparation et d'entretien des installations mécaniques, électriques, électroniques ou hydrauliques.
+Les contrôleurs du domaine phares et balises et sécurité maritime contrôlent le fonctionnement et l'entretien des établissements et installations de signalisation maritime, participent aux activités liées à la sécurité maritime et peuvent être affectés dans les centres régionaux opérationnels de surveillance et de sauvetage en mer.
 
-Les contrôleurs des travaux publics de l'Etat appartenant à la spécialité Phares et balises contrôlent le fonctionnement et l'entretien des établissements de signalisation maritime, des installations mécaniques, électriques et électroniques relevant du service des phares et balises et surveillent les réparations assurées par les centres d'exploitation et d'intervention dudit service. Ils peuvent être notamment chargés des travaux effectués par ces centres d'exploitation et d'intervention.
+Ils peuvent être amenés à encadrer des équipes et peuvent être chargés des fonctions d'adjoint à un chef de subdivision ou à un chef d'unité et à ce titre en assurer l'intérim.
 
 Tous participent également à des missions d'enseignement et de formation professionnelle.
-
-Ils peuvent être chargés des fonctions d'adjoint à un chef de subdivision.
