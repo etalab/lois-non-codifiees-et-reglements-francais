@@ -2,7 +2,7 @@
 
 Les ressources de l'association se composent :
 
-a) Des cotisations des personnes employant des salariés agricoles et des personnes visées à l'article 2 du décret du 11 mai 1982 modifié ;
+a) Des cotisations des personnes employant des salariés agricoles et des personnes visées aux articles 2 et 6 du décret du 11 mai 1982 modifié ;
 
 b) Des participations volontaires des membres d'honneur ;
 

@@ -4,4 +4,4 @@ Cessent de faire partie de l'association, sans que leur départ puisse mettre fi
 
 - les membres qui ne remplissent plus les conditions pour faire partie de l'association ;
 
-- les membres fondateurs ou d'honneur qui auront donné leur démission par lettre adressée au président du conseil d'administration.
+- les membres de droit ou d'honneur qui auront donné leur démission, par lettre adressée, six mois avant la fin de l'exercice, au président du conseil d'administration.

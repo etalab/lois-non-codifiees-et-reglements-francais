@@ -1,8 +1,8 @@
 # Article ANNEXE, 5
 
-Font partie de l'association [*composition*] :
+Font partie de l'association :
 
-1° Les membres fondateurs nommément désignés.
+1° Les membres de droit, c'est-à-dire la ou les caisse(s) de mutualité sociale agricole fondatrice(s) ainsi que celle(s) qui ultérieurement donnera(ont) mandat à l'association.
 
 2° Les personnes concernées par la médecine du travail en agriculture, à savoir :
 

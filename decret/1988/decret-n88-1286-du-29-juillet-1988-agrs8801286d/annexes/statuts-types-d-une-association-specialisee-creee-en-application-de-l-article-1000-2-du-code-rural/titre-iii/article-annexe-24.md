@@ -6,7 +6,7 @@ L'association est dotée d'une comptabilité permettant l'établissement :
 
 - d'un compte de résultats traduisant l'exécution d'un budget établi avant le début de l'exercice.
 
-Cette comptabilité est tenue sous la responsabilité de l'agent comptable de la caisse de mutualité sociale agricole.
+Cette comptabilité est tenue sous la responsabilité de l'agent comptable de l'association.
 
 L'exercice comptable commence le 1er janvier et se termine le 31 décembre.
 
