@@ -6,6 +6,26 @@ Sont admis à suivre le cycle de formation théorique et pratique les candidats 
 
 1° A raison de 60 p. 100 au moins et de 67 p. 100 au plus des places offertes aux deux concours, les candidats ayant satisfait aux épreuves d'un concours externe auquel peuvent se présenter les personnes âgées de quarante ans au plus au 1er janvier de l'année du concours et titulaires, sauf dérogations prévues par les textes législatifs en vigueur, de l'un des diplômes exigés pour l'admission au concours externe d'entrée à l'Ecole nationale d'administration ;
 
+A titre exceptionnel, les candidats qui ne remplissent pas la condition de diplôme prévue à l'alinéa précédent, tout en ayant reçu ou acquis une formation de niveau équivalent peuvent déposer une demande spéciale de dérogation pour se présenter au concours d'accès au cycle de formation auprès d'une commission qui statue au vu de leur dossier.
+
+La commission peut entendre les candidats si elle le juge utile.
+
+La commission est composée :
+
+- du directeur des hôpitaux ou de son représentant ;
+
+- d'un membre de l'inspection générale des affaires sociales ;
+
+- du directeur des enseignements supérieurs au ministère de l'éducation nationale ou de son représentant ;
+
+- d'un directeur d'hôpital ;
+
+- du directeur de l'Ecole nationale de la santé publique ou de son représentant.
+
+La présidence de la commission est assurée par le membre de l'inspection générale des affaires sociales.
+
+Les membres de la commission, autres que les membres de droit, sont nommés pour une durée de trois ans par arrêté du ministre chargé de la santé ;
+
 2° A raison de 33 p. 100 au moins et de 40 p. 100 au plus des places offertes aux deux concours, les fonctionnaires et agents de l'Etat, de la fonction publique hospitalière, des collectivités territoriales et des établissements publics à caractère administratif, les militaires, ainsi que les candidats en fonctions dans une organisation internationale intergouvernementale. Ils doivent justifier soit de deux ans de services effectifs depuis leur titularisation, compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant l'accès à la fonction publique, soit de quatre ans de services publics. L'ancienneté des services exigée est appréciée au 1er janvier de l'année du concours.
 
 Nul ne peut concourir plus de trois fois pour l'accès au cycle de formation.
