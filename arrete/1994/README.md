@@ -1061,7 +1061,6 @@
 - [Arrêté du 27 juin 1994 (TEFT9400674A)](arrete-du-27-juin-1994-teft9400674a)
 - [Arrêté du 27 juin 1994 (TEFT9400675A)](arrete-du-27-juin-1994-teft9400675a)
 - [Arrêté du 27 octobre 1994 (ECOP9400466A)](arrete-du-27-octobre-1994-ecop9400466a)
-- [Arrêté du 27 octobre 1994 (SPSS9403320A)](arrete-du-27-octobre-1994-spss9403320a)
 - [Arrêté du 27 septembre 1994 (ECOP9400286A)](arrete-du-27-septembre-1994-ecop9400286a)
 - [Arrêté du 27 septembre 1994 (ECOT9410220A)](arrete-du-27-septembre-1994-ecot9410220a)
 - [Arrêté du 27 septembre 1994 (ECOT9420013A)](arrete-du-27-septembre-1994-ecot9420013a)
