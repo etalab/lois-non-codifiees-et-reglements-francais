@@ -1,9 +1,8 @@
-# Décret n°84-74 du 26 janvier 1984 fixant le statut de la normalisation
+# Arrêté du 13 mars 1991 relatif aux modalités de l'élection des représentants des assurés au conseil d'administration de la caisse de retraite et de prévoyance des clercs et employés de notaires
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Article 3-1](article-3-1.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
@@ -17,8 +16,3 @@
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
-- [Article 17](article-17.md)
-- [Article 18](article-18.md)
-- [Article 19](article-19.md)
-- [Article 20](article-20.md)
-- [Article 21](article-21.md)

@@ -1,0 +1,3 @@
+# Article 3-1
+
+Un délégué interministériel aux normes, nommé par décret en conseil des ministres est placé auprès du ministre chargé de l'industrie pour l'exercice des attributions confiées à celui-ci par l'article 2. Il peut recevoir délégation de signature de ce ministre dans les conditions prévues par le décret du 23 janvier 1947 susvisé. Il exerce les fonctions de rapporteur général du groupe interministériel des normes. Un délégué adjoint désigné par arrêté du Premier ministre et du ministre chargé de l'industrie assiste le délégué interministériel aux normes et le supplée en cas d'absence ou d'empêchement.
