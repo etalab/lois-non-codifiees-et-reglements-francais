@@ -741,7 +741,6 @@
 - [Arrêté du 21 mai 1992 (INTE9200238A)](arrete-du-21-mai-1992-inte9200238a)
 - [Arrêté du 21 mai 1992 (MENK9200008A)](arrete-du-21-mai-1992-menk9200008a)
 - [Arrêté du 21 mai 1992 (MERP9200042A)](arrete-du-21-mai-1992-merp9200042a)
-- [Arrêté du 22 décembre 1992 (BUDD9220036A)](arrete-du-22-decembre-1992-budd9220036a)
 - [Arrêté du 22 décembre 1992 (BUDD9220037A)](arrete-du-22-decembre-1992-budd9220037a)
 - [Arrêté du 22 décembre 1992 (BUDF9210088A)](arrete-du-22-decembre-1992-budf9210088a)
 - [Arrêté du 22 décembre 1992 (ECOC9200159A)](arrete-du-22-decembre-1992-ecoc9200159a)

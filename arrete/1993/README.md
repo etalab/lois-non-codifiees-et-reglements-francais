@@ -840,7 +840,6 @@
 - [Arrêté du 25 août 1992 (JUSF9250044A)](arrete-du-25-aout-1992-jusf9250044a)
 - [Arrêté du 25 février 1993 (INTF9300174A)](arrete-du-25-fevrier-1993-intf9300174a)
 - [Arrêté du 25 janvier 1993 (BUDD9367678A)](arrete-du-25-janvier-1993-budd9367678a)
-- [Arrêté du 25 janvier 1993 (BUDD9367679A)](arrete-du-25-janvier-1993-budd9367679a)
 - [Arrêté du 25 janvier 1993 (DEFT9301153A)](arrete-du-25-janvier-1993-deft9301153a)
 - [Arrêté du 25 janvier 1993 (ECOT9310167A)](arrete-du-25-janvier-1993-ecot9310167a)
 - [Arrêté du 25 janvier 1993 (ENVN9320049A)](arrete-du-25-janvier-1993-envn9320049a)
