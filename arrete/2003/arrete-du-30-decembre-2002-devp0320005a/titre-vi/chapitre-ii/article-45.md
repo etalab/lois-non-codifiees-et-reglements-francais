@@ -1,0 +1,3 @@
+# Article 45
+
+Les déchets contenant de l'amiante ne sont pas mélangés avec d'autres déchets dans une même alvéole si ce n'est au-dessus et au-dessous. L'alvéole destinée aux déchets contenant de l'amiante est entourée d'alvéoles de déchets solidifiés. Les techniques de mise en oeuvre permettent de garantir la traçabilité et la stabilité de cette alvéole. Il n'est pas exploité plus d'une alvéole de déchets contenant de l'amiante à la fois. Les déchets conditionnés sont manipulés et stockés de manière à éviter au maximum les risques de dispersion des fibres. Des consignes sont données aux employés du centre de stockage dans ce sens.

@@ -1,0 +1,5 @@
+# Article Annexe I
+
+ANNEXE I : CRITERES D'ADMISSION EN INSTALLATION DE STOCKAGE POUR DECHETS DANGEREUX
+
+(Annexe non reproduite, voir JO du 16 avril 2003, pages 6758 à 6760).

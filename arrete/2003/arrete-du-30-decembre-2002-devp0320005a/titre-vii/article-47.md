@@ -1,0 +1,5 @@
+# Article 47
+
+La mise en conformité des conditions d'aménagement, d'exploitation et de suivi des installations de stockage continuant à recevoir des déchets à la date de publication au Journal officiel de la République française du présent arrêté est obligatoire. L'exploitant doit remettre au préfet au plus tard un an après la publication au Journal officiel de la République française du présent arrêté une étude permettant de vérifier la conformité de l'installation de stockage aux exigences du présent arrêté ou de mettre en évidence les points pour lesquels une mise en conformité est nécessaire, assortie d'une proposition d'échéancier.
+
+Sur la base de cette étude, le préfet fixe, s'il y a lieu, les conditions de la poursuite de l'exploitation, intégrant, le cas échéant, un échéancier pour la réalisation des mesures nécessaires. S'il est décidé de mettre fin à l'activité de l'installation, le suivi, après la mise en place de la couverture finale, sera effectué selon les dispositions du chapitre IV du titre V.
