@@ -1,39 +1,13 @@
 # Article 3
 
-Dès sa mise en service, l'émission conventionnelle de tout nouveau réservoir de capacité unitaire au moins égale à 1 500 mètres cubes doit être inférieure ou égale à la quantité définie dans le tableau ci-dessous exprimée en pourcentage de son émission de référence.
+Les ressources du fonds de garantie sont constituées par :
 
-DIAMETRE DU RESERVOIR (en m) : D inférieur à 25
+- un prélèvement sur le produit de la redevance créée par l'article L. 451-3 du code de la construction et de l'habitation. Le montant de ce prélèvement est fixé chaque année par le conseil d'administration ;
 
-CATEGORIE DU PRODUIT STOCKE
+- les produits de placements ;
 
-Brut : 10
+- les remboursements des concours exceptionnels consentis et les intérêts afférents ;
 
-Naphta léger, essence, naphta : 10
+- ainsi que toute ressource provisoire et définitive que le conseil d'administration déciderait de lui affecter.
 
-DIAMETRE DU RESERVOIR (en m) : D inférieur ou égal à 25
-
-D inférieur à 50
-
-CATEGORIE DU PRODUIT STOCKE
-
-Brut : 3
-
-Naphta léger, essence, naphta : 5
-
-DIAMETRE DU RESERVOIR (en m) : D inférieur ou égal à 50
-
-D inférieur à 80
-
-CATEGORIE DU PRODUIT STOCKE
-
-Brut : 2
-
-Naphta léger, essence, naphta : 3
-
-DIAMETRE DU RESERVOIR (en m) : D supérieur ou égal à 80
-
-CATEGORIE DU PRODUIT STOCKE
-
-Brut : 1
-
-Naphta léger, essence, naphta : 2
+Sous réserve des concours exceptionnels, les sommes existant au compte du fonds seront placées en valeurs à court ou moyen terme.

@@ -1,3 +1,5 @@
 # Article 6
 
-Les dispositions des articles 3, 4 et 5 ci-dessus ne sont applicables aux réservoirs intégrés à l'exploitation d'un gisement pétrolier de moins de 5 000 mètres cubes que dans la mesure où elles n'entraînent pas de risques particuliers. Elles sont adaptées et rendues applicables, le cas échéant, à ces réservoirs, par un arrêté préfectoral d'autorisation ou un arrêté complémentaire le précisant.
+Les sommes payées par le fonds à la place des débiteurs défaillants ont [*définition*] , sauf décision contraire du conseil d'administration, le caractère d'avances. Les conditions de remboursement et le taux d'intérêt de ces avances sont fixés par le conseil d'administration.
+
+Le fonds supporte les intérêts moratoires correspondant aux sommes qu'il prend en charge.
