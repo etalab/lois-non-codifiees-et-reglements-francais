@@ -1,6 +1,5 @@
 # 1966
 
-- [Décret n°65-763 du 3 septembre 1965](decret-n65-763-du-3-septembre-1965)
 - [Décret n°66-12 du 3 janvier 1966](decret-n66-12-du-3-janvier-1966)
 - [Décret n°66-586 du 3 août 1966](decret-n66-586-du-3-aout-1966)
 - [Décret n°66-665 du 3 septembre 1966](decret-n66-665-du-3-septembre-1966)
