@@ -91,6 +91,7 @@
 - [Arrêté du 12 janvier 1999 (INTC9900033A)](arrete-du-12-janvier-1999-intc9900033a)
 - [Arrêté du 12 janvier 1999 (JUSG9960002A)](arrete-du-12-janvier-1999-jusg9960002a)
 - [Arrêté du 12 janvier 1999 (MESP9920284A)](arrete-du-12-janvier-1999-mesp9920284a)
+- [Arrêté du 12 mars 1999 (ECOT9910367A)](arrete-du-12-mars-1999-ecot9910367a)
 - [Arrêté du 12 mars 1999 (MESH9920879A)](arrete-du-12-mars-1999-mesh9920879a)
 - [Arrêté du 13 janvier 1999 (ECOC9800139A)](arrete-du-13-janvier-1999-ecoc9800139a)
 - [Arrêté du 13 janvier 1999 (EQUP9900038A)](arrete-du-13-janvier-1999-equp9900038a)
