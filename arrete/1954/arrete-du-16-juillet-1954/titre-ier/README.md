@@ -11,3 +11,4 @@
 - [Paragraphe 8 : Feux antibrouillard](paragraphe-8)
 - [Paragraphe 9 : Feux de marche arrière et projecteurs orientables](paragraphe-9)
 - [Paragraphe 10 : Transports de bois en grumes ou de pièces dépassant en longueur le gabarit du véhicule](paragraphe-10)
+- [Paragraphe 12 : Dispositif complémentaire de signalisation arrière.](paragraphe-12)

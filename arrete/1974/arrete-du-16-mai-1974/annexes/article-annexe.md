@@ -1,292 +1,75 @@
 # Article Annexe
 
-TABLEAU ANNEXE
+Tableau annexe
+
+Classe fonctionnelle (1) :
+
+==============================
+
+ECHELON:   INDICES   : DUREE
 
 <table>
-<tbody>
 <tr>
-<td align="left" colspan="7" valign="middle">
-<p align="center">CLASSE FONCTIONNELLE (1)</p>
-</td>
+<td>        :BRUTS : BRUTS:  MOY</td>
 </tr>
 <tr>
-<td align="left" colspan="2" valign="middle">
-<p align="center">Echelon</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">Indices</p>
-</td>
-<td align="left" colspan="3" valign="middle">
-<p align="center">Durée <br/>
-<br/>Ancienneté moyenne <br/>
-<br/>(à/c du 01-01-1985)</p>
-</td>
+<td>        : AU   :  AU  :</td>
 </tr>
 <tr>
-<td align="left" colspan="2" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" valign="middle">
-<p align="center">bruts</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">nouveaux</p>
-</td>
-<td align="left" colspan="3" valign="middle">
-<pre> </pre>
-</td>
+<td>        :1-7-75:1-7-76:  ANC</td>
 </tr>
-<tr>
-<td align="left" colspan="2" valign="middle">
-<p align="justify">6e</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">579</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">480</p>
-</td>
-<td align="left" colspan="3" valign="middle">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2" valign="middle">
-<p align="justify">5e</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">538</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">448</p>
-</td>
-<td align="left" colspan="3" valign="middle">
-<p align="center">4 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2" valign="middle">
-<p align="justify">4e</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">501</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">423</p>
-</td>
-<td align="left" colspan="3" valign="middle">
-<p align="center">4 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2" valign="middle">
-<p align="justify">3e</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">464</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">396</p>
-</td>
-<td align="left" colspan="3" valign="middle">
-<p align="center">4 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2" valign="middle">
-<p align="justify">2e</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">433</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">372</p>
-</td>
-<td align="left" colspan="3" valign="middle">
-<p align="center">4 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="2" valign="middle">
-<p align="justify">1er</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">384</p>
-</td>
-<td align="left" valign="middle">
-<p align="center">341</p>
-</td>
-<td align="left" colspan="3" valign="middle">
-<p align="center">4 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="7" valign="middle">
-<p align="justify">(1) L'effectif des agents pouvant accéder à la classe fonctionnelle est limité à 16,5 % de l'effectif global des 2 corps, ou à un agent au moins par centre hospitalier régional ou par centre hospitalier ayant au moins 500 lits actifs</p>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="7" valign="middle">
-<p align="center">CLASSE NORMALE</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="center">Echelon</p>
-</td>
-<td align="left" colspan="4" valign="middle">
-<p align="center">Indices</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">Durée <br/>
-<br/>Ancienneté moyenne <br/>
-<br/>(à/c du 01-01-1985)</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<pre> </pre>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">bruts</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">nouveaux</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">2e échelon exceptionnel (2)</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">533</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">447</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="left">1er échelon exceptionnel (2)</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">513</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">432</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">7e</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">487</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">412</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<pre> </pre>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">6e</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">448</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">383</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">4 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">5e</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">416</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">359</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">4 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">4e</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">369</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">329</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">4 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">3e</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">339</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">306</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">3 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">2e</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">306</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">282</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">2 ans</p>
-</td>
-</tr>
-<tr>
-<td align="left" valign="middle">
-<p align="justify">1er</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">280</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">265</p>
-</td>
-<td align="left" colspan="2" valign="middle">
-<p align="center">1 an</p>
-</td>
-</tr>
-<tr>
-<td align="left" colspan="7" valign="middle">
-<p align="justify">(2) Echelons accessibles dans la limite de 30 % de l'effectif global des 2 corps ou à un agent au moins par corps et par établissement, aux agents comptant 2 ans de services effectifs au 7e échelon.</p>
-</td>
-</tr>
-</tbody>
 </table>
+
+-------:------:------:-------- 6 éch  : 569  : 579  : 5 éch  : 528  : 538  : 4 ans 4 éch  : 494  : 501  : 4 ans 3 éch  : 457  : 464  : 4 ans 2 éch  : 426  : 433  : 4 ans 1 éch  : 378  : 384  : 4 ans ==============================     (1) L'effectif des agents pouvant accéder à la classe fonctionnelle est limité à 15 p. 100 de l'effectif global des 2 corps, ou à un agent au moins par centre hospitalier régional ou par centre hospitalier ayant au moins 500 lits actifs   Classe normale
+
+==============================
+
+ECHELON:   INDICES   : DUREE
+
+<table>
+<tr>
+<td>        :BRUTS : BRUTS:  MOY</td>
+</tr>
+<tr>
+<td>        : AU   :  AU  :</td>
+</tr>
+<tr>
+<td>        :1-7-75:1-7-76:  ANC</td>
+</tr>
+<tr>
+<td> -------:------:------:--------</td>
+</tr>
+<tr>
+<td/>
+</tr>
+<tr>
+<td> 2 éch  :      :      :</td>
+</tr>
+<tr>
+<td> except :      :      :</td>
+</tr>
+<tr>
+<td>   (2)  : 523  : 533  :</td>
+</tr>
+<tr>
+<td>        :      :      :</td>
+</tr>
+</table>
+
+1 éch  :      :      : except :      :      :   (2)  : 502  : 513  : 2 ans ==============================     (2) Les échelons exceptionnels sont accessibles, dans la limite de 15 p. 100 de l'effectif global des 2 corps ou à un agent au moins par établissement, aux agents comptant 2 ans de services effectifs au 7e échelon.==============================
+
+ECHELON:   INDICES   : DUREE
+
+<table>
+<tr>
+<td>        :BRUTS : BRUTS:  MOY</td>
+</tr>
+<tr>
+<td>        : AU   :  AU  :</td>
+</tr>
+<tr>
+<td>        :1-7-75:1-7-76:  ANC</td>
+</tr>
+</table>
+
+-------:------:------:-------- 7 éch  : 476  : 487  : 6 éch  : 438  : 448  : 4 ans 5 éch  : 403  : 416  : 4 ans 4 éch  : 361  : 369  : 4 ans 3 éch  : 328  : 336  : 3 ans 2 éch  : 295  : 302  : 2 ans 1 éch  : 275  : 275  : 1 an ==============================

@@ -1,3 +1,3 @@
 # Article 3
 
-Il sera inséré dans les livrets de famille les renseignements relatifs à l'état civil et au droit de la famille figurant à l'annexe IV.
+Le directeur des hôpitaux au ministère de la santé publique et de la sécurité sociale, le directeur général des collectivités locales au ministère de l'intérieur, le directeur du budget au ministère de l'économie et des finances et le secrétaire général pour les départements d'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
