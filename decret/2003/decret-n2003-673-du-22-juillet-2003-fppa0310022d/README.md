@@ -1,0 +1,5 @@
+# Décret n°2003-673 du 22 juillet 2003 fixant les dispositions générales relatives à la situation et aux modalités de classement des ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen nommés dans un cadre d'emplois de la fonction publique territoriale
+
+- [TITRE Ier : DISPOSITIONS RELATIVES A LA SITUATION DES RESSORTISSANTS DES ETATS MEMBRES DE LA COMMUNAUTE EUROPEENNE OU D'UN AUTRE ETAT PARTIE A L'ACCORD SUR L'ESPACE ECONOMIQUE EUROPEEN AUTRES QUE LA FRANCE NOMMES DANS UN CADRE D'EMPLOIS DE LA FONCTION PUBLIQUE TERRITORIALE.](titre-ier)
+- [TITRE II : DISPOSITIONS RELATIVES AUX MODALITES DE CLASSEMENT DES RESSORTISSANTS DES ETATS MEMBRES DE LA COMMUNAUTE EUROPEENNE OU D'UN AUTRE ETAT PARTIE A L'ACCORD SUR L'ESPACE ECONOMIQUE EUROPEEN NOMMES DANS LES CADRES D'EMPLOIS DE LA FONCTION PUBLIQUE TERRITORIALE.](titre-ii)
+- [Article 9](article-9.md)
