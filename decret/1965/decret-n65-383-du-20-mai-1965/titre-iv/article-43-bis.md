@@ -1,0 +1,3 @@
+# Article 43 bis
+
+Jusqu'au 31 décembre 1970, les maîtres auxiliaires en fonctions dans les collèges agricoles, qui sont titulaires du baccalauréat ou du brevet supérieur ou de l'un des titres ou diplômes dont la liste sera fixée par arrêté du ministre de l'agriculture et du ministre chargé de la fonction publique et qui ont accompli trois années de service complet d'enseignement, pourront être recrutés en qualité de professeur de collège agricole, dans la limite de 50 p. 100 des emplois vacants et dans des disciplines et spécialités professionnelles fixées compte tenu des besoins par le ministre de l'agriculture, après avoir subi avec succès les épreuves d'un concours dont les modalités sont fixées par arrêté du ministre de l'agriculture.
