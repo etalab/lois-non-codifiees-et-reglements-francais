@@ -139,7 +139,6 @@
 - [Décret n°2001-1169 du 11 décembre 2001 (ECOC0100073D)](decret-n2001-1169-du-11-decembre-2001-ecoc0100073d)
 - [Décret n°2001-1173 du 11 décembre 2001 (INTB0100343D)](decret-n2001-1173-du-11-decembre-2001-intb0100343d)
 - [Décret n°2001-1174 du 11 décembre 2001 (MENF0102414D)](decret-n2001-1174-du-11-decembre-2001-menf0102414d)
-- [Décret n°2001-1182 du 11 décembre 2001 (MESS0123147D)](decret-n2001-1182-du-11-decembre-2001-mess0123147d)
 - [Décret n°2001-1183 du 11 décembre 2001 (INTM0100043D)](decret-n2001-1183-du-11-decembre-2001-intm0100043d)
 - [Décret n°2001-1190 du 11 décembre 2001 (MENF0102308D)](decret-n2001-1190-du-11-decembre-2001-menf0102308d)
 - [Décret n°2001-1193 du 11 décembre 2001 (DEFP0102365D)](decret-n2001-1193-du-11-decembre-2001-defp0102365d)
