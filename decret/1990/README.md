@@ -73,6 +73,8 @@
 - [Décret n°90-325 du 5 avril 1990 (MAEJ9030007D)](decret-n90-325-du-5-avril-1990-maej9030007d)
 - [Décret n°90-326 du 5 avril 1990 (MAEJ9030008D)](decret-n90-326-du-5-avril-1990-maej9030008d)
 - [Décret n°90-35 du 5 janvier 1990 (PRMX8900174D)](decret-n90-35-du-5-janvier-1990-prmx8900174d)
+- [Décret n°90-566 du 5 juillet 1990 (BUDF9000009D)](decret-n90-566-du-5-juillet-1990-budf9000009d)
+- [Décret n°90-567 du 5 juillet 1990 (LOGC9000048D)](decret-n90-567-du-5-juillet-1990-logc9000048d)
 - [Décret n°91-868 du 5 septembre 1991 (SANH9101413D)](decret-n91-868-du-5-septembre-1991-sanh9101413d)
 - [Décret n°91-869 du 5 septembre 1991 (SANH9101414D)](decret-n91-869-du-5-septembre-1991-sanh9101414d)
 - [Décret n°90-125 du 6 février 1990 (ECOA9000011D)](decret-n90-125-du-6-fevrier-1990-ecoa9000011d)
