@@ -12,6 +12,7 @@
 - [Arrêté du 20 décembre 1973](arrete-du-20-decembre-1973)
 - [Arrêté du 20 février 1974](arrete-du-20-fevrier-1974)
 - [Arrêté du 20 mars 1974](arrete-du-20-mars-1974)
+- [Arrêté du 26 février 1974](arrete-du-26-fevrier-1974)
 - [Arrêté du 26 septembre 1973](arrete-du-26-septembre-1973)
 - [Arrêté du 27 septembre 1973](arrete-du-27-septembre-1973)
 - [Arrêté du 28 janvier 1974](arrete-du-28-janvier-1974)
