@@ -89,6 +89,7 @@
 - [Arrêté du 24 juillet 1981](arrete-du-24-juillet-1981)
 - [Arrêté du 24 mars 1978](arrete-du-24-mars-1978)
 - [Arrêté du 24 mars 1981](arrete-du-24-mars-1981)
+- [Arrêté du 24 septembre 1981](arrete-du-24-septembre-1981)
 - [Arrêté du 25 février 1981](arrete-du-25-fevrier-1981)
 - [Arrêté du 25 mars 1981](arrete-du-25-mars-1981)
 - [Arrêté du 25 novembre 1980](arrete-du-25-novembre-1980)
