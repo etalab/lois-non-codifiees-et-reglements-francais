@@ -212,7 +212,6 @@
 - [Arrêté du 9 juin 1988 (ASEE8803490A)](arrete-du-9-juin-1988-asee8803490a)
 - [Arrêté du 9 juin 1988 (ASEE8803491A)](arrete-du-9-juin-1988-asee8803491a)
 - [Arrêté du 9 juin 1988 (SPSX8810482A)](arrete-du-9-juin-1988-spsx8810482a)
-- [Arrêté du 9 mars 1988 (BUDF8820144A)](arrete-du-9-mars-1988-budf8820144a)
 - [Arrêté du 9 mars 1988 (ECOT8811021A)](arrete-du-9-mars-1988-ecot8811021a)
 - [Arrêté du 9 mars 1988 (ECOT8811022A)](arrete-du-9-mars-1988-ecot8811022a)
 - [Arrêté du 9 mars 1988 (ECOT8816038A)](arrete-du-9-mars-1988-ecot8816038a)
