@@ -301,6 +301,7 @@
 - [Arrêté du 16 février 1988 (PTTT8800164A)](arrete-du-16-fevrier-1988-pttt8800164a)
 - [Arrêté du 16 mars 1988 (AGRR8800790A)](arrete-du-16-mars-1988-agrr8800790a)
 - [Arrêté du 16 septembre 1987 (ASEH8701339A)](arrete-du-16-septembre-1987-aseh8701339a)
+- [Arrêté du 16 septembre 1988 (TEFE8803955A)](arrete-du-16-septembre-1988-tefe8803955a)
 - [Arrêté du 17 août 1988 (PTTT8800532A)](arrete-du-17-aout-1988-pttt8800532a)
 - [Arrêté du 17 août 1988 (PTTT8800533A)](arrete-du-17-aout-1988-pttt8800533a)
 - [Arrêté du 17 août 1988 (SPSS8801219A)](arrete-du-17-aout-1988-spss8801219a)
