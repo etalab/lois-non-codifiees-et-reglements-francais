@@ -1,0 +1,3 @@
+# Article 9
+
+Les fonctionnaires nommés dans un emploi de chef de service de comptabilité sont classés à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui détenu dans leur grade ou emploi. Ils conservent, dans la limite de la durée des services exigée pour l'accès à l'échelon supérieur de leur emploi, l'ancienneté d'échelon acquise dans l'ancien grade ou emploi lorsque leur nomination leur procure un avantage inférieur à celui qui aurait résulté d'un avancement d'échelon dans cet ancien grade ou emploi ou, pour ceux parvenus au dernier échelon dudit grade ou emploi, lorsque leur nomination leur procure un avantage inférieur à celui que leur avait procuré leur nomination audit échelon.
