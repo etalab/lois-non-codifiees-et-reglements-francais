@@ -32,7 +32,7 @@ Le nombre et la nature des autres informations portées sur la déclaration dép
 
 1. Pour les opérateurs dont le montant annuel des échanges intracommunautaires est supérieur au seuil d'assimilation :
 
-- la nomenclature de produit ;
+- la nomenclature de produit. Dans le cas général, les codes à mentionner sont ceux de la nomenclature combinée en vigueur. Dans les cas particuliers prévus par arrêté du ministre chargé des douanes, la codification plus détaillée spécifiée dans cet arrêté doit être utilisée ;
 
 - la valeur fiscale en francs des introductions/expéditions de biens ;
 
