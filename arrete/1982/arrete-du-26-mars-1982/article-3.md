@@ -23,3 +23,5 @@ Le préposé du transporteur chargé de l'exécution du transport, son adjoint, 
 - en cas de transport sous douane, le service des douanes le plus proche.
 
 Avant l'exécution du transport, le transporteur fournit à ses préposés les renseignements nécessaires leur permettant d'alerter les autorités ci-dessus énumérées en cas de besoin.
+
+Si l'incident ou l'accident implique un risque radiologique, il y a lieu de prévenir également le service central de protection contre les rayonnements ionisants.
