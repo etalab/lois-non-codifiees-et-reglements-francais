@@ -179,7 +179,6 @@
 - [Décret n°86-376 du 13 mars 1986](decret-n86-376-du-13-mars-1986)
 - [Décret n°86-384 du 13 mars 1986](decret-n86-384-du-13-mars-1986)
 - [Décret n°86-414 du 13 mars 1986](decret-n86-414-du-13-mars-1986)
-- [Décret n°86-426 du 13 mars 1986](decret-n86-426-du-13-mars-1986)
 - [Décret n°86-427 du 13 mars 1986](decret-n86-427-du-13-mars-1986)
 - [Décret n°86-431 du 13 mars 1986](decret-n86-431-du-13-mars-1986)
 - [Décret n°86-448 du 13 mars 1986](decret-n86-448-du-13-mars-1986)

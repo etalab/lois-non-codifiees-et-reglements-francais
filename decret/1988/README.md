@@ -235,7 +235,6 @@
 - [Décret n°88-1015 du 28 octobre 1988 (EQUX8800138D)](decret-n88-1015-du-28-octobre-1988-equx8800138d)
 - [Décret n°88-1189 du 28 décembre 1988 (BUDZ8800015D)](decret-n88-1189-du-28-decembre-1988-budz8800015d)
 - [Décret n°88-1200 du 28 décembre 1988 (SPSA8801307D)](decret-n88-1200-du-28-decembre-1988-spsa8801307d)
-- [Décret n°88-294 du 28 mars 1988 (EQUS8800188D)](decret-n88-294-du-28-mars-1988-equs8800188d)
 - [Décret n°88-295 du 28 mars 1988 (DOME8800009D)](decret-n88-295-du-28-mars-1988-dome8800009d)
 - [Décret n°88-461 du 28 avril 1988 (PTTT8800385D)](decret-n88-461-du-28-avril-1988-pttt8800385d)
 - [Décret n°88-466 du 28 avril 1988 (ECOZ8700030D)](decret-n88-466-du-28-avril-1988-ecoz8700030d)

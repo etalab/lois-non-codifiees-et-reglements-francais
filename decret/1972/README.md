@@ -16,7 +16,6 @@
 - [Décret n°72-1160 du 5 décembre 1972](decret-n72-1160-du-5-decembre-1972)
 - [Décret n°72-988 du 5 octobre 1972](decret-n72-988-du-5-octobre-1972)
 - [Décret n°72-1080 du 6 décembre 1972](decret-n72-1080-du-6-decembre-1972)
-- [Décret n°72-822 du 6 septembre 1972](decret-n72-822-du-6-septembre-1972)
 - [Décret n°72-827 du 6 septembre 1972](decret-n72-827-du-6-septembre-1972)
 - [Décret n°72-866 du 6 septembre 1972](decret-n72-866-du-6-septembre-1972)
 - [Décret n°76-5 du 6 janvier 1976](decret-n76-5-du-6-janvier-1976)
