@@ -1,0 +1,3 @@
+# Article 3
+
+Pour l'application de l'article 495 du code de la sécurité sociale, la date de la première constatation médicale de la maladie est la date, connue avec certitude, de la première constatation par le médecin traitant ou par le médecin du travail, dans les conditions prévues à l'article 20, deuxième alinéa, du décret n° 52-1263 du 27 novembre 1952, de l'une des maladies énumérées au tableau de la silicose professionnelle, sous réserve de l'avis émis par le médecin agréé en matière de pneumoconioses, conformément aux dispositions de l'article 9 ci-après, ou par le collège prévu à l'article 10 du présent décret.

@@ -1,0 +1,5 @@
+# Article 19
+
+L'expiration du délai de prise en charge prévu par le tableau de la silicose professionnelle n'est pas opposable à la victime ou à ses ayants droit lorsque le collège de trois médecins, après examen effectué dans les conditions fixées au quatrième alinéa de l'article 10, atteste que la victime est ou était atteinte de silicose nettement caractérisée.
+
+Conformément aux dispositions des articles 435 et 495 du code de la sécurité sociale, la charge [*financière*] des prestations, indemnités et rentes incombe à la caisse de sécurité sociale ou à l'organisation spéciale de sécurité sociale [*compétente*] à laquelle la victime est affiliée à la date de la première constatation médicale définie à l'article 3 du présent décret. Dans le cas où, à cette date, la victime n'est plus affiliée à une caisse de sécurité sociale ou à une organisation spéciale couvrant les risques visés au livre IV du code de la sécurité sociale, les prestations et indemnités sont à la charge de la caisse ou de l'organisation spéciale à laquelle la victime est affiliée en dernier lieu, quel que soit l'emploi alors occupé par elle.
