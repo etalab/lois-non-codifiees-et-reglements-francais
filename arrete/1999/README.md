@@ -63,7 +63,6 @@
 - [Arrêté du 3 décembre 1999 (MCCB9900706A)](arrete-du-3-decembre-1999-mccb9900706a)
 - [Arrêté du 3 février 1999 (INTE9900078A)](arrete-du-3-fevrier-1999-inte9900078a)
 - [Arrêté du 3 février 1999 (INTE9900079A)](arrete-du-3-fevrier-1999-inte9900079a)
-- [Arrêté du 3 juin 1999 (ECOC9900024A)](arrete-du-3-juin-1999-ecoc9900024a)
 - [Arrêté du 3 juin 1999 (ECOT9920035A)](arrete-du-3-juin-1999-ecot9920035a)
 - [Arrêté du 3 mars 1999 (DEFT9901286A)](arrete-du-3-mars-1999-deft9901286a)
 - [Arrêté du 3 mars 1999 (ECOP9900110A)](arrete-du-3-mars-1999-ecop9900110a)
