@@ -7,4 +7,4 @@
 - [Paragraphe 4 : Véhicules articulés.](paragraphe-4)
 - [Paragraphe 5 : Ensembles de véhicules comprenant un tracteur ou un véhicule articulé suivi d'une ou plusieurs remorques ou semi-remorques.](paragraphe-5)
 - [Paragraphe 6 : Conditions d'attelage de certaines remorques.](paragraphe-6)
-- [Paragraphe 7 : Contrôle du freinage lors des visites techniques effectuées en application des articles R. 118, R. 118-1, R. 119 et du second alinéa de l'article R. 119-1 du code de la route.](paragraphe-7)
+- [Paragraphe 7 : Contrôle du freinage lors des visites techniques effectuées en application des articles R. 323-23, R. 323-25 et R. 323-26 du code de la route.](paragraphe-7)

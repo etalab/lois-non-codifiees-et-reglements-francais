@@ -8,4 +8,4 @@ b) Le frein de parcage doit pouvoir rester bloqué en l'absence du conducteur et
 
 Il doit pouvoir être actionné par une personne à terre.
 
-La disposition relative à l'arrêt automatique en cas de rupture d'attelage n'est pas obligatoire pour les remorques de camping à deux roues et les remorques légères à bagages, à la double condition que leur poids total en charge n'excède pas 1 250 kilogrammes et qu'elles soient munies, en plus de l'attache principale, de l'attache de secours prescrite à l'article 103 du code de la route, constamment et effectivement utilisées.
+La disposition relative à l'arrêt automatique en cas de rupture d'attelage n'est pas obligatoire pour les remorques de camping à deux roues et les remorques légères à bagages, à la double condition que leur poids total en charge n'excède pas 1 250 kilogrammes et qu'elles soient munies, en plus de l'attache principale, de l'attache de secours prescrite à l'article R. 317-18 du code de la route, constamment et effectivement utilisées.
