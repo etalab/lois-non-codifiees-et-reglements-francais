@@ -12,7 +12,7 @@ Après la classe de troisième:
 
 - les diverses séries des classes de première puis terminales qui préparent aux séries correspondantes du baccalauréat. Chacune des séries constitue une voie d'orientation: littéraire (L), économique et sociale (E.S.),
 
-scientifique (S), sciences et technologies tertiaires (S.T.T.), sciences et technologies industrielles (S.T.I.), sciences et techniques de laboratoire (S.T.L.), sciences médico-sociales (S.M.S.), arts appliqués, sciences et technologies de l'agronomie et de l'environnement (S.T.A.E.);
+scientifique (S), sciences et technologies de la gestion (S.T.G.), sciences et technologies industrielles (S.T.I.), sciences et techniques de laboratoire (S.T.L.), sciences médico-sociales (S.M.S.), sciences et technologies de l'agronomie et de l'environnement (S.T.A.E.), sciences et technologies du produit agroalimentaire (S.T.P.A.) ;
 
 - les classes de première puis terminales préparant au brevet de technicien et au brevet de technicien agricole.
 

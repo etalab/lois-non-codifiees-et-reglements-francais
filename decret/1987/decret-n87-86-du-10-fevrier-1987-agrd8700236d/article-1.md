@@ -16,6 +16,8 @@ Outre l'inspection générale de l'agriculture, le conseil général du génie r
 
 - la direction de la production et des échanges ;
 
+- la direction des pêches maritimes et des cultures marines;
+
 - le service des haras, des courses et de l'équitation.
 
 - le service de la communication ;
