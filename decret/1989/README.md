@@ -34,6 +34,7 @@
 - [Décret n°89-4 du 4 janvier 1989 (ECOT8910036D)](decret-n89-4-du-4-janvier-1989-ecot8910036d)
 - [Décret n°89-69 du 4 février 1989 (PRMG8970046D)](decret-n89-69-du-4-fevrier-1989-prmg8970046d)
 - [Décret n°90-379 du 4 mai 1990 (MCCB9000209D)](decret-n90-379-du-4-mai-1990-mccb9000209d)
+- [Décret n°89-352 du 5 juin 1989 (PTTR8900510D)](decret-n89-352-du-5-juin-1989-pttr8900510d)
 - [Décret n°90-932 du 5 octobre 1990 (INDA9000604D)](decret-n90-932-du-5-octobre-1990-inda9000604d)
 - [Décret n°89-145 du 6 mars 1989 (PRMZ8905023D)](decret-n89-145-du-6-mars-1989-prmz8905023d)
 - [Décret n°89-146 du 6 mars 1989 (INDD8900032D)](decret-n89-146-du-6-mars-1989-indd8900032d)
