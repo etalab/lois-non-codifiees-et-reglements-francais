@@ -32,7 +32,6 @@
 - [Décret n°83-5 du 5 janvier 1983](decret-n83-5-du-5-janvier-1983)
 - [Décret n°83-893 du 5 octobre 1983](decret-n83-893-du-5-octobre-1983)
 - [Décret n°83-194 du 6 août 1927](decret-n83-194-du-6-aout-1927)
-- [Décret n°83-793 du 6 septembre 1983](decret-n83-793-du-6-septembre-1983)
 - [Décret n°83-794 du 6 septembre 1983](decret-n83-794-du-6-septembre-1983)
 - [Décret n°83-795 du 6 septembre 1983](decret-n83-795-du-6-septembre-1983)
 - [Décret n°83-796 du 6 septembre 1983](decret-n83-796-du-6-septembre-1983)
