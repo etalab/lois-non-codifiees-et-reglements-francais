@@ -121,6 +121,7 @@
 - [Décret n°85-454 du 23 avril 1985](decret-n85-454-du-23-avril-1985)
 - [Décret n°84-131 du 24 février 1984](decret-n84-131-du-24-fevrier-1984)
 - [Décret n°84-135 du 24 février 1984](decret-n84-135-du-24-fevrier-1984)
+- [Décret n°85-464 du 24 avril 1985](decret-n85-464-du-24-avril-1985)
 - [Décret n°85-467 du 24 avril 1985](decret-n85-467-du-24-avril-1985)
 - [Décret n°85-101 du 25 janvier 1985](decret-n85-101-du-25-janvier-1985)
 - [Décret n°85-102 du 25 janvier 1985](decret-n85-102-du-25-janvier-1985)
