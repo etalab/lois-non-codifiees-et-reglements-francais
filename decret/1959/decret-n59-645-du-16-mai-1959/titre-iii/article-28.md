@@ -7,3 +7,5 @@ Le déplacement ou la modification des installations sont exécutés aux frais d
 En cas de désaccord persistant entre l'ingénieur en chef centralisateur et le service public intéressé, il est statué conformément aux dispositions de l'article 24 ci-dessus.
 
 Si le bénéficiaire n'exécute pas le déplacement prescrit, il y est pourvu d'office et à ses frais, après mise en demeure infructueuse, par les soins de l'ingénieur en chef du contrôle technique intéressé.
+
+Les dispositions des alinéas 2 à 4 du présent article ne sont pas applicables aux ouvrages dont l'intérêt pour la défense nationale est reconnu par le décret d'autorisation.

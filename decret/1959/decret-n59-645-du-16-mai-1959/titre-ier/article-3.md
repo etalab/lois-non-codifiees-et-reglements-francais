@@ -8,6 +8,8 @@ Les nom, prénoms, qualité, nationalité, domicile du demandeur si la demande e
 
 - du président, des membres du conseil d'administration, des commissaires aux comptes, pour les sociétés anonymes ;
 
+- du président et de chaque membres du directoire, pour les sociétés anonymes dirigées par un directoire.
+
 - des gérants associés commandités et membres du Conseil de surveillance pour les sociétés en commandite par actions ;
 
 - des gérants et membres du conseil de surveillance pour les sociétés à responsabilité limitée ;
@@ -17,5 +19,7 @@ Les nom, prénoms, qualité, nationalité, domicile du demandeur si la demande e
 - de tous les associés, pour les sociétés en nom collectif et pour les sociétés à responsabilité limitée n'ayant pas de conseil de surveillance ;
 
 - des directeurs ayant la signature sociale, pour toutes les sociétés.
+
+- du président et de chacun des membres de l'autorité délibérante, pour les établissements publics.
 
 Lorsque la demande est présentée au nom d'une société en formation, elle doit en faire mention en indiquant les renseignements connus sur le régime juridique et la personnalité du demandeur définitif.
