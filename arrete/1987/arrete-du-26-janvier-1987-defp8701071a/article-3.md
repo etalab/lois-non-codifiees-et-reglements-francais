@@ -12,11 +12,11 @@ Il comprend :
 
 - le directeur de la fonction militaire et des relations sociales ;
 
-- le directeur du personnel et des affaires générales ;
+- le directeur de l'administration et des ressources humaines ;
 
 - le directeur des constructions navales ;
 
-- le directeur des armements terrestres ;
+- le directeur des systemes terrestres et d'information ;
 
 - le directeur central du matériel de l'armée de terre ;
 
