@@ -1,0 +1,7 @@
+# Article 11
+
+1° - Les techniciens supérieurs recrutés en application des dispositions du 1° de l'article 5 ci-dessus qui ont suivi une scolarité de deux ans sont, pour tenir compte de la durée de cette scolarité et sous réserve de remplir les conditions énoncées à l'article 9 ci-dessus, soit titularisés au 2e échelon du grade de technicien supérieur avec une ancienneté conservée d'un an, soit titularisés dans les conditions fixées par les articles 3 à 7 du décret n° 94-1016 du 18 novembre 1994. Dans cette seconde hypothèse, les services effectués en qualité d'élève et de stagiaire entrent en compte pour l'avancement d'échelon dans la limite de deux ans.
+
+Toutefois, les techniciens supérieurs recrutés en application des dispositions du 1° de l'article 5 ci-dessus et nommés techniciens supérieurs stagiaires en application des dispositions du quatrième alinéa du 1° de l'article 8 ci-dessus sont, sous réserve de remplir les conditions énoncées à l'article 9 ci-dessus, soit titularisés au 1er échelon du grade de technicien supérieur avec une ancienneté conservée d'un an, soit titularisés dans les conditions fixées par les articles 3 à 7 du décret n° 94-1016 du 18 novembre 1994. Dans cette seconde hypothèse, les services effectués en qualité de stagiaire entrent en compte pour l'avancement d'échelon dans la limite d'un an.
+
+2° - Les techniciens supérieurs recrutés en application des dispositions du 2° et du 3° de l'article 5 ci-dessus sont titularisés dans les conditions fixées par les articles 3 à 7 du décret n° 94-1016 du 18 novembre 1994.
