@@ -8,6 +8,6 @@ Pour l'application de la présente loi dans les territoires de la Nouvelle-Calé
 
 3° "chambres territoriales des comptes" au lieu de "chambres régionales des comptes" ;
 
-4° "élection des membres des assemblées de province" (Nouvelle-Calédonie) ou "élection des membres de l'assemblée territoriale" (Polynésie française) au lieu de "élection des conseillers généraux" ;
+4° "élection des membres des assemblées de province" (Nouvelle-Calédonie) ou "élection des conseillers territoriaux (Polynésie française) au lieu de "élection des conseillers généraux" ;
 
 5° "circonscriptions électorales" au lieu de "cantons".
