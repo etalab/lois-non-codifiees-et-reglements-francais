@@ -2,7 +2,7 @@
 
 La liste des services techniques et bibliothèques dans lesquels le personnel de service à vocation à servir est fixée ainsi qu'il suit :
 
-I. - Services techniques et bibliothèques            relevant du ministère de l'éducation nationale
+I. - Services techniques et bibliothèques            relevant du ministère de la recherche et de            l'enseignement supérieur.
 
 - Direction des bibliothèques, des musées et de l'information scientifique et technique ;
 
@@ -32,9 +32,11 @@ I. - Services techniques et bibliothèques            relevant du ministère de 
 
 - Bibliothèques des instituts et écoles extérieures aux universités  - Bibliothèques interuniversitaires et bibliothèques d'universités de la région parisienne (académies de Paris, de Créteil et de Versailles).
 
+- Centres régionaux de formation aux carrières des bibliothèques, du livre et de la documentation.
+
 II. - Services techniques et bibliothèques            relevant d'un autre département ministériel
 
-a) Services et bibliothèques relevant du ministère de la culture :
+a) Services et bibliothèques relevant du ministère de la culture       et de la communication :
 
 - Bibliothèque Nationale ;
 
@@ -43,6 +45,8 @@ a) Services et bibliothèques relevant du ministère de la culture :
 - Bibliothèque publique d'information ;
 
 - Bibliothèques des musées de France et bibliothèque de l'Ecole du Louvre ;
+
+- Centre national de coopération des bibliothèques publiques.
 
 b) Services et bibliothèques relevant d'autres départements ministériels :
 

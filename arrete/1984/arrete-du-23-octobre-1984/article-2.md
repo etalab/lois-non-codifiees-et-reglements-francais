@@ -1,5 +1,21 @@
 # Article 2
 
-Le montant mensuel de l'allocation spéciale est fixé forfaitairement, à compter du 1er juillet 1983 à 40 p. 100 des onze douzièmes du prix de la carte orange mensuelle en 2ème classe que les personnels intéressés devraient acheter pour effectuer le trajet de la résidence habituelle au lieu de travail dans le temps le plus court si l'usage des transports publics de voyageurs leur était possible ; à compter du 1er octobre 1983, le pourcentage ci-dessus est porté de 40 p. 100 à 50 p. 100. Lorsque la résidence habituelle des bénéficiaires est située en dehors de la zone de compétence de l'autorité organisatrice des transports parisiens, l'allocation spéciale est calculée en tenant compte de la carte orange dont le nombre de zones permet d'effectuer la portion du trajet comprise à l'intérieur de la zone de compétence.
+Pour tout bénéficiaire d'un régime obligatoire d'assurance maladie autre que le régime des assurances sociales agricoles et le régime de l'assurance maladie des exploitants agricoles, n'ayant pas fait l'objet d'une demande de prise en charge dont la sortie est intervenue, ou qui est présent dans l'établissement au dernier jour du mois, les établissements d'hospitalisation publics et les établissements d'hospitalisation privés participant à l'exécution du service public hospitalier font connaître à la caisse chargée du versement de la dotation globale, dans les quinze premiers jours du deuxieme mois suivant, en sus des informations mentionnées à l'article 1er ci-dessus, les informations suivantes :
 
-L'allocation spéciale est payée chaque mois y compris pendant les périodes de congé annuel.
+1° Le motif de l'absence de demande de prise en charge ;
+
+2° L'organisme d'assurance maladie gestionnaire ;
+
+3° La date de naissance et le rang du bénéficiaire ;
+
+4° Le mode et la discipline d'entrée ;
+
+5° Le type d'hospitalisation ;
+
+6° Le cas échéant :
+
+a) La date de l'accident ;
+
+b) Le numéro du prescripteur de l'hospitalisation ;
+
+c) L'établissement d'hospitalisation antérieur.

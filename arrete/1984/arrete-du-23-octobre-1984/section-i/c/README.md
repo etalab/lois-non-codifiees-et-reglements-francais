@@ -1,3 +1,0 @@
-# C - RESULTATS DES RELEVES PHOTOMETRIQUES.
-
-- [Article 6](article-6.md)

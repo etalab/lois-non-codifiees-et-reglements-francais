@@ -92,6 +92,7 @@
 - [Décret n°88-188 du 25 février 1988 (BUDB8810005D)](decret-n88-188-du-25-fevrier-1988-budb8810005d)
 - [Décret n°88-92 du 25 janvier 1988 (MEND8700946D)](decret-n88-92-du-25-janvier-1988-mend8700946d)
 - [Décret n°88-189 du 26 février 1988 (PRMX8810150D)](decret-n88-189-du-26-fevrier-1988-prmx8810150d)
+- [Décret n°88-191 du 26 février 1988 (ASES8800262D)](decret-n88-191-du-26-fevrier-1988-ases8800262d)
 - [Décret n°88-192 du 26 février 1988 (ASES8800263D)](decret-n88-192-du-26-fevrier-1988-ases8800263d)
 - [Décret n°88-196 du 26 février 1988 (BUDF8720095D)](decret-n88-196-du-26-fevrier-1988-budf8720095d)
 - [Décret n°88-84 du 26 janvier 1988 (ASES8701887D)](decret-n88-84-du-26-janvier-1988-ases8701887d)
