@@ -510,6 +510,7 @@
 - [Décret n°91-1273 du 18 décembre 1991 (SANH9102608D)](decret-n91-1273-du-18-decembre-1991-sanh9102608d)
 - [Décret n°91-1274 du 18 décembre 1991 (SANH9102609D)](decret-n91-1274-du-18-decembre-1991-sanh9102609d)
 - [Décret n°91-1275 du 18 décembre 1991 (TEFE9104170D)](decret-n91-1275-du-18-decembre-1991-tefe9104170d)
+- [Décret n°91-1284 du 18 décembre 1991 (MAEJ9130076D)](decret-n91-1284-du-18-decembre-1991-maej9130076d)
 - [Décret n°91-173 du 18 février 1991 (MENG9100354D)](decret-n91-173-du-18-fevrier-1991-meng9100354d)
 - [Décret n°91-174 du 18 février 1991 (BUDB9150007D)](decret-n91-174-du-18-fevrier-1991-budb9150007d)
 - [Décret n°91-176 du 18 février 1991 (AGRA9100254D)](decret-n91-176-du-18-fevrier-1991-agra9100254d)
