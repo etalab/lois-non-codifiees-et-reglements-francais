@@ -24,7 +24,7 @@ h) Aux anciens internes de pharmacie ;
 
 4° Pour la discipline odontologie, aux titulaires du doctorat d'exercice en chirurgie dentaire et, soit du certificat d'études supérieures de groupe B, soit de certificat d'études cliniques spéciales qualifiants propres à l'odontologie ;
 
-5° Pour la discipline pharmacie, aux pharmaciens ayant effectué une spécialisation en pharmacie au sens de la loi du 12 novembre 1968 susvisée et aux titulaires d'un diplôme d'études supérieures spécialisées de pharmacie.
+5° Pour la discipline pharmacie, aux pharmaciens ayant effectué une spécialisation en pharmacie au sens de la loi du 12 novembre 1968 susvisée et aux titulaires d'un diplôme d'études supérieures spécialisées de pharmacie hospitalière.
 
 Pour l'accès aux concours organisés dans les spécialités qui ne comportent pas de certificat d'études spéciales national, un arrêté conjoint des ministres respectivement chargés de la santé et des universités [*autorités compétentes*] pourra fixer les titres ou diplômes admis en équivalence.
 
