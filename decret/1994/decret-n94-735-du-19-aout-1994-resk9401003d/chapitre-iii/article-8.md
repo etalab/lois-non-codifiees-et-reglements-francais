@@ -1,5 +1,5 @@
 # Article 8
 
-Les étudiants en odontologie ayant fait l'objet d'une procédure de classement au concours de l'internat ne peuvent être nommés internes, et placés sous le statut défini par le décret du 2 septembre 1983 susvisé, que s'ils ont validé le deuxième cycle des études odontologiques.
+Les étudiants en odontologie classés au concours de l'internat ne peuvent être nommés internes et placés sous le statut défini par le décret n° 99-930 du 10 novembre 1999 modifié fixant le statut des internes et des résidents en médecine, des internes en pharmacie et des internes en odontologie que s'ils ont validé le deuxième cycle des études odontologiques.
 
-Les étudiants qui n'ont pas validé le deuxième cycle des études odontologiques gardent toutefois le bénéfice de leur succès au concours jusqu'au concours suivant à condition qu'ils s'inscrivent à nouveau en dernière année du deuxième cycle. Ils peuvent participer à la procédure de choix d'un centre hospitalier universitaire de rattachement dans les conditions prévues à l'article 9, mais ne peuvent prendre part à la procédure de choix des postes mentionnée au même article.
+En cas de non-validation, ils perdent le bénéfice de leur succès au concours mais conservent la possibilité de se présenter deux fois au concours de l'internat.

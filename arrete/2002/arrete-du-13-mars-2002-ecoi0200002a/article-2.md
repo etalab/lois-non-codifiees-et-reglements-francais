@@ -4,7 +4,7 @@ L'installation du producteur est décrite dans le contrat d'achat, qui précise 
 
 1. Nombre et type de générateurs ;
 
-2. Puissance crête installée, telle que définie par la norme NF C 57-100 ;
+2. Puissance crête installée pour les générateurs photovoltaïques, telle que définie par les normes NF EN 61215 et NF EN 61646, ou puissance électrique maximale installée dans les autres cas ;
 
 3. Puissance active maximale de fourniture (puissance maximale produite par l'installation et fournie à l'acheteur) et, le cas échéant, puissance active maximale d'autoconsommation (puissance maximale produite par l'installation et consommée par le producteur pour ses besoins propres) ;
 

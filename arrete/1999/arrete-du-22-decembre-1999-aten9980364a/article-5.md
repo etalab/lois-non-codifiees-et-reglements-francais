@@ -1,6 +1,6 @@
 # Article 5
 
-Par dérogation aux dispositions de l'article 1er ci-dessus, les autorisations de prélèvement, de capture, de destruction ou de transport en vue de réintroduction dans la nature, à des fins scientifiques, de spécimens d'animaux appartenant aux espèces, dont la liste est fixée par l'arrêté du 9 juillet 1999 susvisé, sont délivrées par le ministre chargé de la protection de la nature.
+Par dérogation aux dispositions de l'article 1er ci-dessus, les autorisations de prélèvement, de capture, de destruction ou de transport en vue de réintroduction dans la nature, de spécimens d'animaux appartenant aux espèces, dont la liste est fixée par l'arrêté du 9 juillet 1999 susvisé, sont délivrées par le ministre chargé de la protection de la nature.
 
 Lorsqu'elles concernent des espèces marines, ces autorisations sont délivrées conjointement avec le ministre chargé des pêches maritimes.
 
