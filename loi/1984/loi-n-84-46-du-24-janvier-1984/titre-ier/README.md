@@ -4,4 +4,3 @@
 - [Chapitre II : Interdictions.](chapitre-ii)
 - [Chapitre III : Agrément.](chapitre-iii)
 - [Chapitre IV : Organes centraux.](chapitre-iv)
-- [Chapitre V : Organisation de la profession.](chapitre-v)
