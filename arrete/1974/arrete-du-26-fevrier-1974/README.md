@@ -1,8 +1,6 @@
-# Arrêté du 26 février 1974 portant création de commissions administratives paritaires (divers personnels des services déconcentrés) DOUBLON (VOIR 2E ARRETE)
+# Arrêté du 26 février 1974 portant création d'une zone de protection spéciale dans le département du Nord et extension de l'obligation de la tenue d'un livret de chaufferie
 
-- [Article 1](article-1.md)
 - [I - Caractéristiques techniques et prix des logements-foyers.](i)
-- [Article 2](article-2.md)
 - [II - Montants et caractéristiques des prêts à la construction de logements-foyers.](ii)
 - [Article 3](article-3.md)
 - [III. - Conditions de location et de gestion des logements-foyers.](iii)
@@ -12,12 +10,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Différents types de réservoirs](differents-types-de-reservoirs)
-- [Domaine d'application *champ*](domaine-d-application-champ)
-- [Equipement des réservoirs](equipement-des-reservoirs)
-- [Règles de construction et d'essais des différents types de réservoirs](regles-de-construction-et)
-- [Formalités administratives](formalites-administratives)
-- [Modèle de certificat d'essai des réservoirs](modele-de-certificat-d-essai-des-reservoirs)
-- [Modèle de déclaration d'installation](modele-de-declaration-d-installation)
-- [Règles d'implantation du stockage.](regles-d-implantation-du-stockage)
-- [Règles particulières.](regles-particulieres)

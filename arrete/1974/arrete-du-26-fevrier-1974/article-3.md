@@ -1,5 +1,5 @@
 # Article 3
 
-A modifié les dispositions suivantes :
+A modifié les dispositions suivantes
 
-Arrêté du 12 septembre 1969
+Arrêté du 12 septembre 1989
