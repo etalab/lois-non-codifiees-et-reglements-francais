@@ -1,3 +1,3 @@
 # Article 2
 
-La tenue " de feu " est identique à celle du personnel masculin, telle qu'elle est définie par l'article 2 de l'arrêté susvisé du 18 juillet 1953. Elle est obligatoire et ne peut être portée que dans les circonstances prévues par le règlement du corps ainsi que lors des manoeuvres et des concours.
+Les dispositions de l'arrêté du 20 juin 1978 relatives aux dispositifs de rattrapage ou antidérailleurs sur ouvrages de ligne qui ne figuraient pas dans l'arrêté du 29 juillet 1976 sont applicables aux appareils dont la demande d'autorisation de contruire est postérieure au 1er janvier 1977.
