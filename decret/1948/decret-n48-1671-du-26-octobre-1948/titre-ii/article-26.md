@@ -12,4 +12,6 @@ Si le praticien incriminé ne se présente pas, l'affaire peut être jugée sur 
 
 L'appelant a le premier la parole. Dans tous les cas, le praticien incriminé peut prendre la parole en dernier lieu.
 
-L'audience n'est pas publique et la délibération demeure secrète.
+Lorsque la section se prononce en matière disciplinaire ou en matière électorale, l'audience est publique. Toutefois le président peut, d'office ou à la demande d'une des parties ou de la personne dont la plainte a provoqué la saisine du conseil régional, interdire au public l'accès de la salle pendant tout ou partie de l'audience dans l'intérêt de l'ordre public ou lorsque le respect de la vie privée ou du secret médical le justifie.
+
+La délibération demeure secrète.

@@ -13,5 +13,3 @@ Lorsqu'il s'agit d'un médecin, d'un praticien de l'art dentiste ou d'une sage-f
 Si des syndicats de praticiens sont intervenus dans la procédure, les décisions leur sont notifiées dans le même délai et dans la même forme.
 
 Les décisions prononçant l'une ou l'autre des trois peines prévues par l'article L. 423 du code de la santé publique autres que l'avertissement ou le blâme sont également notifiées, dès qu'elles sont devenues définitives, à tous les conseils départementaux, au directeur régional de la sécurité sociale et, si le praticien sanctionné est chargé de fonctions d'enseignement, au recteur de l'académie dans le ressort de laquelle il exerce.
-
-La personne dont la plainte a provoqué la saisine du conseil est informée par écrit de la décision prise par ce conseil.
