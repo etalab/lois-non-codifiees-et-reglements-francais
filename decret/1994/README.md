@@ -822,6 +822,7 @@
 - [Décret n°94-766 du 31 août 1994 (SPSS9402168D)](decret-n94-766-du-31-aout-1994-spss9402168d)
 - [Décret n°94-772 du 31 août 1994 (ENVP9420041D)](decret-n94-772-du-31-aout-1994-envp9420041d)
 - [Décret n°94-91 du 31 janvier 1994 (INDP9400061D)](decret-n94-91-du-31-janvier-1994-indp9400061d)
+- [Décret n°94-946 du 31 octobre 1994 (ECOC9400139D)](decret-n94-946-du-31-octobre-1994-ecoc9400139d)
 - [Décret n°94-97 du 31 janvier 1994 (SPSS9303620D)](decret-n94-97-du-31-janvier-1994-spss9303620d)
 - [Décret n°95-364 du 31 mars 1995 (DEFP9501165D)](decret-n95-364-du-31-mars-1995-defp9501165d)
 - [Décret n°94-434 du 31 mai 1994 (MAEA9420230D)](decret-n94-434-du-31-mai-1994-maea9420230d)
