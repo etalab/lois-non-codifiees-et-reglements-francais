@@ -62,7 +62,6 @@
 - [Arrêté du 3 août 1994 (MENF9401449A)](arrete-du-3-aout-1994-menf9401449a)
 - [Arrêté du 3 août 1994 (MENL9401452A)](arrete-du-3-aout-1994-menl9401452a)
 - [Arrêté du 3 août 1994 (RESK9400991A)](arrete-du-3-aout-1994-resk9400991a)
-- [Arrêté du 3 août 1994 (SPSS9402575A)](arrete-du-3-aout-1994-spss9402575a)
 - [Arrêté du 3 décembre 1993 (INTA9300730A)](arrete-du-3-decembre-1993-inta9300730a)
 - [Arrêté du 3 décembre 1993 (SANP9303499A)](arrete-du-3-decembre-1993-sanp9303499a)
 - [Arrêté du 3 février 1994 (EQUH9400047A)](arrete-du-3-fevrier-1994-equh9400047a)
