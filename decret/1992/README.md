@@ -293,6 +293,7 @@
 - [Décret n°92-76 du 21 janvier 1992 (SANP9102865D)](decret-n92-76-du-21-janvier-1992-sanp9102865d)
 - [Décret n°92-81 du 21 janvier 1992 (SPSS9102866D)](decret-n92-81-du-21-janvier-1992-spss9102866d)
 - [Décret n°88-416 du 22 avril 1988 (ECOC8800033D)](decret-n88-416-du-22-avril-1988-ecoc8800033d)
+- [Décret n°92-404 du 22 avril 1992 (PRMX9210110D)](decret-n92-404-du-22-avril-1992-prmx9210110d)
 - [Décret n°92-77 du 22 janvier 1992 (JUSC9120859D)](decret-n92-77-du-22-janvier-1992-jusc9120859d)
 - [Décret n°92-86 du 22 janvier 1992 (JUSB9110341D)](decret-n92-86-du-22-janvier-1992-jusb9110341d)
 - [Décret n°92-87 du 22 janvier 1992 (JUSB9110340D)](decret-n92-87-du-22-janvier-1992-jusb9110340d)
