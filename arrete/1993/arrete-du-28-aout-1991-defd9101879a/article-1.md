@@ -6,9 +6,9 @@ Ces fonctions sont les suivantes :
 
 - commandant d'armée ;
 
-- commandant de corps d'armée ;
+- commandant de la force d'action terrestre ;
 
-- commandant de la force d'action rapide ;
+- commandant de la force logistique terrestre ;
 
 - commandant de circonscription militaire de défense ;
 

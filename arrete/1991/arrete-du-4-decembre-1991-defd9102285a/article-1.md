@@ -2,11 +2,11 @@
 
 Les commandants organiques recevant délégation de pouvoirs du ministre de la défense à l'effet de procéder à la délimitation de certaines zones protégées et de fixer les conditions dans lesquelles sont délivrées les autorisations d'y pénétrer sont les suivants :
 
-- commandant de corps d'armée ;
+- commandant de la force d'action terrestre ;
 
 - commandant des forces françaises stationnées en Allemagne ;
 
-- commandant de la force d'action rapide ;
+- commandant de la force logistique terrestre ;
 
 - commandant des organismes de formation de l'armée de terre ;
 
