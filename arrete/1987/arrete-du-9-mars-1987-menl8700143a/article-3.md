@@ -1,8 +1,8 @@
 # Article 3
 
-Le jury national du concours de la Résistance et de la déportation est composé comme suit :
+Le jury national du concours de la Résistance et de la déportation est composé de :
 
-Cinq représentants de l'administration.
+Cinq représentants de l'administration :
 
 - le doyen de l'inspection générale de l'éducation nationale ;
 
@@ -12,7 +12,7 @@ Cinq représentants de l'administration.
 
 - le chef de la mission permanente des commémorations et de l'information historique du secrétariat d'Etat aux anciens combattants.
 
-Trois représentants de l'enseignement et de la recherche historiques.
+Trois représentants de l'enseignement et de la recherche historiques :
 
 - le président de l'association des professeurs d'histoire-géographie ou son représentant ;
 
@@ -20,13 +20,15 @@ Trois représentants de l'enseignement et de la recherche historiques.
 
 - un représentant de l'institut d'histoire des conflits contemporains.
 
-Trois personnalités de la Résistance et de la déportation.
+Quatre personnalités de la Résistance et de la déportation.
 
-Vingt représentants des associations de la Résistance et de la déportation.
+Une personne morale représentative des associations de déportés juifs désignée par le comité du souvenir du Conseil représentatif des institutions juives de France (C.R.I.F.).
+
+Vingt représentants des associations de la Résistance et de la déportation :
 
 - deux représentants de l'Association des Français libres ;
 
-- deux représentants de l'Association nationale des anciens combattants de la résistance (A.N.A.C.R.) ;
+- deux représentants de l'Association nationale des anciens combattants de la Résistance (A.N.A.C.R.) ;
 
 - deux représentantes de l'Association nationale des anciennes déportées et internées de la Résistance (A.N.A.D.I.R.) ;
 
@@ -42,6 +44,6 @@ Vingt représentants des associations de la Résistance et de la déportation.
 
 - deux représentants du Réseau du Souvenir ;
 
-- deux représentants de l'Union nationale des déportés, internés et familles de disparus (U.N.A.D.I.F.).
+- deux représentants de l'Union nationale des déportés, internés et famille de disparus (Unadif).
 
 La présidence du jury national est assurée par le doyen de l'inspection générale de l'éducation nationale ou l'un des inspecteurs généraux honoraires ou en activité.
