@@ -19,6 +19,7 @@
 - [Décret n°76-405 du 10 mai 1976](decret-n76-405-du-10-mai-1976)
 - [Décret n°76-671 du 13 juillet 1976](decret-n76-671-du-13-juillet-1976)
 - [Décret n°76-692 du 13 juillet 1976](decret-n76-692-du-13-juillet-1976)
+- [Décret n°76-700 du 13 juillet 1976](decret-n76-700-du-13-juillet-1976)
 - [Décret n°76-351 du 15 avril 1976](decret-n76-351-du-15-avril-1976)
 - [Décret n°76-352 du 15 avril 1976](decret-n76-352-du-15-avril-1976)
 - [Décret n°76-359 du 15 avril 1976](decret-n76-359-du-15-avril-1976)
