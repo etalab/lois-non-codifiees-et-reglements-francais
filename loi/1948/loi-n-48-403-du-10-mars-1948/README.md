@@ -1,5 +1,0 @@
-# Loi n° 48-403 du 10 mars 1948 COORDONNANT LE REGIME DE L'ORDONNANCE DU 2 FEVRIER 1945 AVEC LES REGIMES DE RETRAITES DES S DES 14 AVRIL 1924,29 JUIN 1927 ET 21 MARS 1928
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
