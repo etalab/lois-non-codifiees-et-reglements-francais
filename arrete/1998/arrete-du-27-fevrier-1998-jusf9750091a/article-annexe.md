@@ -1,7 +1,5 @@
 # Article Annexe
 
-A N N E X E
-
 PROGRAMME PORTANT SUR LA LEGISLATION DU TRAVAIL
 
 I. - Le travail et la formation professionnelle
@@ -69,3 +67,55 @@ Le revenu minimum d'insertion.
 Les autres dispositifs d'aide contre l'exclusion.
 
 Les divers acteurs de l'aide sociale (Etat, collectivités territoriales, associations ...).
+
+PROGRAMME RELATIF A LA SPECIALITE CULTURE ET SAVOIRS DE BASE
+
+Français
+
+Lecture : théories actuelles de l'apprentissage de la lecture ; analyse des compétences de base, des compétences approfondies et des compétences remarquables.
+
+Vocabulaire, orthographe lexicale, grammaire et orthographe grammaticale.
+
+Littérature : les principaux auteurs français et étrangers ; la littérature de la jeunesse.
+
+Mathématiques
+
+Les nombres, le calcul numérique et algébrique (utilisation, interprétation et construction d'une formule algébrique).
+
+La géométrie.
+
+La mesure, le repérage.
+
+Les grands courants de l'épistémologie des mathématiques et des éléments d'histoire des mathématiques.
+
+Sciences et technologie
+
+Unité et diversité du monde vivant.
+
+Le corps humain et l'éducation à la santé.
+
+Le ciel et la Terre.
+
+La matière et l'énergie.
+
+Objets et réalisations technologiques.
+
+Nouvelles technologies de l'information et de la communication (NTIC).
+
+Eléments d'histoire des sciences.
+
+Histoire
+
+Les grandes périodes de l'histoire de la France situées dans l'évolution européenne et mondiale.
+
+Education civique
+
+Une citoyenneté responsable.
+
+La vie civique dans la société.
+
+Pédagogie
+
+Les grands courants pédagogiques.
+
+Les difficultés d'apprentissage : aspects psychologiques cognitifs, sociaux et culturels.

@@ -42,7 +42,7 @@ Technologie agronomique : productions horticoles ;
 
 Technologie agronomique : techniques forestières ;
 
-Français langues étrangères - illettrisme et apprentissage ;
+Culture et savoirs de base ;
 
 Communication administrative et bureautique ;
 
