@@ -254,7 +254,6 @@
 - [Arrêté du 11 juin 1987 (ECOC8700062A)](arrete-du-11-juin-1987-ecoc8700062a)
 - [Arrêté du 11 juin 1987 (ECOC8700063A)](arrete-du-11-juin-1987-ecoc8700063a)
 - [Arrêté du 11 juin 1987 (ENVN8700075A)](arrete-du-11-juin-1987-envn8700075a)
-- [Arrêté du 11 mars 1987 (ASEH8700414A)](arrete-du-11-mars-1987-aseh8700414a)
 - [Arrêté du 11 mars 1987 (STFH8700434Z)](arrete-du-11-mars-1987-stfh8700434z)
 - [Arrêté du 11 septembre 1986](arrete-du-11-septembre-1986)
 - [Arrêté du 11 mai 1987 (COPC8700030A)](arrete-du-11-mai-1987-copc8700030a)
