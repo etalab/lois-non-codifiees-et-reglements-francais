@@ -1,0 +1,5 @@
+# Article 3
+
+Les oppositions concernant des délibérations ou des décisions étrangères aux questions de tarifs et à celles intéressant le plein emploi du matériel de transports pétroliers doivent être confirmées, soit par le ministre chargé des transports, soit par le ministre chargé des carburants lorsque le conseil d'administration soutient dans un mémoire adressé au Gouvernement que les délibérations et actes critiqués ne sont pas contraires à la politique générale du Gouvernement en matière de transports, de carburants et de combustibles. Le mémoire du conseil d'administration doit être présenté dans les huit jours de la notification de l'opposition au président du conseil d'administration, il est remis au commissaire du Gouvernement auteur de l'opposition ; la confirmation de l'opposition doit être notifiée à la société dans les dix jours de la remise de ce mémoire.
+
+Faute par l'un des ministres intéressés de confirmer l'opposition dans ce délai, la décision contre laquelle l'opposition a été formée peut être exécutée.
