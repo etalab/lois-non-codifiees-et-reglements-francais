@@ -1,6 +1,6 @@
 # Article 16
 
-§ 1. Pour toute opération de soudage par fusion pratiquée sur des pièces en acier pour l'exécution d'un assemblage de l'un des types désignés au paragraphe 2 ci-après, la qualification prévue à l'article 9 ci-dessus doit être prononcée par un organisme agréé par le ministre de l'industrie et selon un cahier des charges approuvé.
+§ 1. Pour toute opération de soudage par fusion pratiquée sur des pièces en acier pour l'exécution d'un assemblage de l'un des types désignés au paragraphe 2 ci-après, la qualification prévue à l'article 9 ci-dessus doit être prononcée par un organisme agréé par le ministre de l'industrie et selon un cahier des charges approuvé. Toutefois, pour les appareils à pression dont les caractéristiques sont celles des équipements sous pression et ensembles soumis aux dispositions du titre II du décret du 13 décembre 1999 susvisé en application de son article 2, les qualifications des modes opératoires de soudage des assemblages mentionnés au paragraphe 2 ci-après peuvent être prononcées par un organisme habilité au titre de l'article 10 de ce même décret pour les opérations mentionnées au point 3.1.2 de son annexe I..
 
 Cette qualification est prononcée au bénéfice d'une personne physique ou morale et ne vaut que pour autant qu'elle est utilisée par cette personne.
 

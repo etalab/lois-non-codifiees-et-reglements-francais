@@ -6,6 +6,6 @@ La norme EN 287-1 est complétée par l'amendement EN 287-1/A1 de 1997.
 
 Les qualifications des soudeurs et des opérateurs prononcées selon la norme française NF EN 287-1 ou une norme d'un autre Etat membre de l'UE transposant la norme européenne EN 287-1 demeurent valides dans les domaines fixés par cette norme et son amendement A1..
 
-§ 2. Pour les assemblages dont le coefficient de soudure est égal à 1, cette qualification doit avoir été prononcée par un organisme agréé par le ministre de l'industrie.
+§ 2. Pour les assemblages dont le coefficient de soudure est égal à 1, cette qualification doit avoir été prononcée par un organisme agréé par le ministre de l'industrie. Toutefois, pour les appareils à pression dont les caractéristiques sont celles des équipements sous pression et ensembles soumis aux dispositions du titre II du décret du 13 décembre 1999 susvisé en application de son article 2, cette qualification peut être prononcée par un organisme habilité au titre de l'article 10 de ce même décret pour les opérations mentionnées au point 3.1.2 de son annexe I..
 
 § 3. Le constructeur ou le réparateur doivent pouvoir justifier du respect des prescriptions du présent article par présentation des certificats de qualification appropriés.
