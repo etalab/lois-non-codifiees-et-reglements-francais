@@ -10,20 +10,12 @@ Les fonctionnaires de la catégorie A des services déconcentrés de la directio
 
 4° Directeur divisionnaire : cinq échelons ;
 
-5° Inspecteur principal de 1re classe : trois échelons ;
+5° Inspecteur principal qui comporte deux classes divisées pour la première en trois échelons et pour la deuxième en six échelons ;
 
-6° Inspecteur principal de 2e classe : six échelons ;
+6° Inspecteur départemental qui comporte trois classes divisées chacune en trois échelons ;
 
-7° Inspecteur divisionnaire de classe exceptionnelle : trois échelons ;
+7° Inspecteur : douze échelons ;
 
-8° Inspecteur divisionnaire de classe normale : cinq échelons ;
+8° Conservateur des hypothèques : échelon unique ;
 
-9° Inspecteur : douze échelons ;
-
-10° Conservateur des hypothèques : échelon unique ;
-
-11° Receveur divisionnaire : échelon unique ;
-
-12° Receveur principal de 1re classe : trois échelons ;
-
-13° Receveur principal de 2e classe : deux échelons.
+9° Receveur divisionnaire : échelon unique.
