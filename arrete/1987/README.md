@@ -435,7 +435,6 @@
 - [Arrêté du 23 décembre 1987 (ASEP8701380A)](arrete-du-23-decembre-1987-asep8701380a)
 - [Arrêté du 23 décembre 1987 (ASES8701900A)](arrete-du-23-decembre-1987-ases8701900a)
 - [Arrêté du 23 décembre 1987 (RESP8700995A)](arrete-du-23-decembre-1987-resp8700995a)
-- [Arrêté du 23 février 1987 (ASEE8703284A)](arrete-du-23-fevrier-1987-asee8703284a)
 - [Arrêté du 23 janvier 1987](arrete-du-23-janvier-1987)
 - [Arrêté du 23 janvier 1987 (INDG8700097A)](arrete-du-23-janvier-1987-indg8700097a)
 - [Arrêté du 23 janvier 1987 (MERE8700012A)](arrete-du-23-janvier-1987-mere8700012a)
