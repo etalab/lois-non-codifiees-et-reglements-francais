@@ -1,5 +1,3 @@
 # Article 2
 
-Pour l'application des articles 9 et 12 du décret du 25 juin 1976 susvisé, le montant mensuel de la majoration forfaitaire représentative des charges est fixé à 85 F pour un ménage sans enfant.
-
-Cette somme est, dans la limite de six enfants ou personnes à charge, majorée de 21 F par enfant ou personne à charge.
+Les arrêtés des 2 décembre 1965, 3 juillet 1968, 8 février 1972, 27 août 1973, 8 avril 1977, 7 mars 1978, 12 avril 1979, fixant la liste des hôpitaux tenus de disposer de moyens mobiles des secours et soins d'urgence sont abrogés.
