@@ -1,10 +1,8 @@
-# Décret n°82-440 du 26 mai 1982 portant application des dispositions du livre V du code de l'entrée et du séjour des étrangers et du droit d'asile relatives aux mesures d'éloignement.
+# Décret n°2004-878 du 26 août 2004 relatif au compte épargne-temps dans la fonction publique territoriale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
-- [Article 3-1](article-3-1.md)
-- [Article 3 bis](article-3-bis.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)

@@ -5,3 +5,4 @@
 - [Article 13-3](article-13-3.md)
 - [Article 13-4](article-13-4.md)
 - [Article 13-5](article-13-5.md)
+- [Article 13-6](article-13-6.md)
