@@ -218,7 +218,6 @@
 - [Décret n°93-1231 du 10 novembre 1993 (TEFT9301130D)](decret-n93-1231-du-10-novembre-1993-teft9301130d)
 - [Décret n°93-1238 du 10 novembre 1993 (MCCK9300275D)](decret-n93-1238-du-10-novembre-1993-mcck9300275d)
 - [Décret n°93-1242 du 10 novembre 1993 (AGRA9301805D)](decret-n93-1242-du-10-novembre-1993-agra9301805d)
-- [Décret n°93-1259 du 10 novembre 1993 (AGRG9301575D)](decret-n93-1259-du-10-novembre-1993-agrg9301575d)
 - [Décret n°93-1295 du 10 décembre 1993 (SPSS9303050D)](decret-n93-1295-du-10-decembre-1993-spss9303050d)
 - [Décret n°93-194 du 10 février 1993 (INTA9220329D)](decret-n93-194-du-10-fevrier-1993-inta9220329d)
 - [Décret n°93-195 du 10 février 1993 (INTA9220330D)](decret-n93-195-du-10-fevrier-1993-inta9220330d)
