@@ -11,54 +11,56 @@ Les indices de référence servant de base au décompte de la rémunération de 
 </td>
 </tr>
 <tr>
-<td align="center"> Nets.</td>
+<td align="center">Nets.</td>
 <td align="center">Bruts <br/>
 </td>
 </tr>
 <tr>
 <td>7e échelon............. <br/>
 </td>
-<td align="center"> 500</td>
-<td align="center">685 <br/>
+<td align="center">525</td>
+<td align="center">
+<p align="center">735 <br/>
+</p>
 </td>
 </tr>
 <tr>
 <td>6e échelon............. <br/>
 </td>
-<td align="center"> 475</td>
-<td align="center"> 635</td>
+<td align="center">500</td>
+<td align="center">685</td>
 </tr>
 <tr>
 <td>5e échelon............. <br/>
 </td>
-<td align="center"> 450</td>
-<td align="center">585 <br/>
+<td align="center">475</td>
+<td align="center">635 <br/>
 </td>
 </tr>
 <tr>
 <td>4e échelon............. <br/>
 </td>
-<td align="center"> 425</td>
-<td align="center"> 550</td>
+<td align="center">450</td>
+<td align="center">585</td>
 </tr>
 <tr>
 <td>3e échelon............. <br/>
 </td>
-<td align="center"> 400</td>
-<td align="center"> 515</td>
+<td align="center">425</td>
+<td align="center">550</td>
 </tr>
 <tr>
 <td>2e échelon............. <br/>
 </td>
-<td align="center">375 <br/>
+<td align="center">400 <br/>
 </td>
-<td align="center"> 480</td>
+<td align="center">545</td>
 </tr>
 <tr>
 <td>1er échelon............. <br/>
 </td>
-<td align="center"> 350</td>
-<td align="center"> 445</td>
+<td align="center">375</td>
+<td align="center">480</td>
 </tr>
 </tbody>
 </table>
