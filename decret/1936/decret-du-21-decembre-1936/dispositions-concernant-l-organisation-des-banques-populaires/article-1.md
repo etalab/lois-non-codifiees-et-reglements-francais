@@ -12,4 +12,4 @@ Les statuts de chaque banque populaire indiquent si elle étend à d'autres pers
 
 Ils stipulent que les ouvertures de crédit ne pourront être accordées que dans les limites déterminées pour la banque par la chambre syndicale en exécution des prescriptions du paragraphe 2 de l'article 10 de la loi du 24 juillet 1929.
 
-Les statuts des banques populaires ne peuvent être modifiées que sous réserve de l'agrément de la chambre syndicale des banques populaires et du ministre de l'économie et des finances.
+Les statuts des banques populaires ne peuvent être modifiées que sous réserve de l'agrément de la chambre syndicale des banques populaires.
