@@ -1,5 +1,5 @@
 # Article 2
 
-Il est interdit de mettre sur le marché, de détenir en vue de la vente, de céder à titre onéreux ou gratuit ou d'utiliser des produits antisalissures contenant des composés organostanniques.
+Les composés organostanniques ne peuvent être mis sur le marché comme substances et composants de préparations lorsqu'ils sont utilisés dans des produits antisalissures à composants non liés chimiquement.
 
-Il est seulement fait exception à cette interdiction lorsque les produits ci-dessus mentionnés sont destinés à être utilisés par des entreprises de construction, de réparation et d'entretien de navires pour la protection des coques de navires d'une longueur hors tout supérieure à 25 mètres.
+Lorsque les composés organostanniques sont chimiquement liés à la matrice des produits antisalissures, ces produits ne peuvent être mis sur le marché, détenus en vue de la vente, cédés à titre onéreux ou gratuit que s'ils sont utilisés par des entreprises de construction, de réparation et d'entretien de navires pour la protection des coques de navires d'une longueur hors tout supérieure à 25 mètres. Cette interdiction s'applique quelle que soit la longueur hors tout aux navires ou bateaux principalement destinés à être utilisés sur des voies de navigation intérieure ou sur des lacs et aux appareillages ou équipements quels qu'ils soient, utilisés en aquaculture, pisciculture ou en conchyliculture.
