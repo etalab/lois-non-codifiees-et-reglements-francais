@@ -860,6 +860,7 @@
 - [Arrêté du 26 mars 1996 (INTF9600124A)](arrete-du-26-mars-1996-intf9600124a)
 - [Arrêté du 26 octobre 1995 (ECOJ9500003A)](arrete-du-26-octobre-1995-ecoj9500003a)
 - [Arrêté du 26 septembre 1996 (ECOS9650037A)](arrete-du-26-septembre-1996-ecos9650037a)
+- [Arrêté du 26 septembre 1996 (TASO9611391A)](arrete-du-26-septembre-1996-taso9611391a)
 - [Arrêté du 27 août 1996 (DEFD9601852A)](arrete-du-27-aout-1996-defd9601852a)
 - [Arrêté du 27 août 1996 (INDE9600469A)](arrete-du-27-aout-1996-inde9600469a)
 - [Arrêté du 27 août 1996 (INDH9600603A)](arrete-du-27-aout-1996-indh9600603a)
