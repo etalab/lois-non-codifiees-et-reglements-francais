@@ -16,41 +16,65 @@ Lors de leur nomination, les intéressés sont classés dans les échelons de la
 </tr>
 <tr>
 <td width="151">
-<p align="center">Echelons</p>
+<p align="center">Échelons</p>
 </td>
 <td width="227">
-<p align="center">Ancienneté dans l'échelon</p>
+<p align="center">Ancienneté conservée dans la limite de la durée de l'échelon</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>4e échelon :</p>
+<p>8e échelon</p>
 </td>
 <td valign="top" width="151">
-<br/>
+<p align="center">7e échelon</p>
 </td>
-<td valign="top" width="227"/>
+<td valign="top" width="227">
+<p>Ancienneté acquise.</p>
+</td>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>A partir de 3 ans</p>
+<p>7e échelon</p>
+</td>
+<td valign="top" width="151">
+<p align="center">6e échelon</p>
+</td>
+<td valign="top" width="227">
+<p>Ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>6e échelon</p>
+</td>
+<td valign="top" width="151">
+<p align="center">5e échelon</p>
+</td>
+<td valign="top" width="227">
+<p>Ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>5e échelon</p>
 </td>
 <td valign="top" width="151">
 <p align="center">4e échelon</p>
 </td>
 <td valign="top" width="227">
-<p>Ancienneté acquise diminuée de 3 ans</p>
+<p>Ancienneté acquise.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="227">
-<p>Avant 3 ans</p>
+<p>4e échelon</p>
 </td>
 <td valign="top" width="151">
 <p align="center">3e échelon</p>
 </td>
 <td valign="top" width="227">
-<p>Ancienneté maintenue</p>
+<p>Ancienneté acquise.</p>
 </td>
 </tr>
 <tr>
@@ -61,7 +85,7 @@ Lors de leur nomination, les intéressés sont classés dans les échelons de la
 <p align="center">2e échelon</p>
 </td>
 <td valign="top" width="227">
-<p>Ancienneté comptée pour la moitié </p>
+<p>Ancienneté acquise.</p>
 </td>
 </tr>
 <tr>
@@ -72,7 +96,7 @@ Lors de leur nomination, les intéressés sont classés dans les échelons de la
 <p align="center">1er échelon</p>
 </td>
 <td valign="top" width="227">
-<p>Ancienneté comptée pour les deux tiers</p>
+<p>Ancienneté acquise.</p>
 </td>
 </tr>
 </tbody>

@@ -1,61 +1,63 @@
 # Article 2
 
-La définition et le tarif de cession des produits sanguins labiles sont les suivants :
+La définition et le tarif de cession des produits sanguins labiles autres que le plasma pour le fractionnement sont les suivants :
 
-Sang humain total (unité adulte, unité enfant et unité pédiatrique) :
+Sang humain total (unité adulte, unité enfant et unité pédiatrique) : 529,00 F ;
 
-517,16 F
+Concentré de globules rouges humains (unité adulte, unité enfant et unité pédiatrique) : 741,10 F ;
 
-Concentré de globules rouges humains homologué (unité adulte, unité enfant et unité pédiatrique) : 710,56 F
+Concentré unitaire de granulocytes d'aphérèse : 2 646,00 F ;
 
-Concentré de granulocytes d'aphérèse : 2 552,12 F
+Concentré de plaquettes standard : 187,35 F ;
 
-Concentré de plaquettes standard : 169,16 F
+Concentré de plaquettes d'aphérèse :
 
-Concentré de plaquettes d'aphérèse (concentration minimale de 2 x 1011 plaquettes par poche) : 1 027,25 F
+- concentration minimale de 2 x 1011 plaquettes par poche :
 
-Puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 :
+1065,05 F ;
 
-256,81 F
+- puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 : 266,25 F ;
 
-Plasma frais congelé humain homologué solidarisé pour sans reconstitué : 167,35 F
+Plasma frais congelé humain homologue solidarisé pour sang reconstitué : 171,15 F ;
 
-Plasma frais congelé humain homologué issu de sang total sécurisé par quarantaine (unité adulte, 200 ml au minimum, unité enfant et unité pédiatrique) (tarif applicable jusqu'au 1er septembre 1998) :
+Plasma frais congelé humain homologue issu de sang total sécurisé par quarantaine (unité adulte, 200 ml au minimum, unité enfant et unité pédiatrique) (tarif applicable jusqu'au 1er septembre 1998) :
 
-129,72 F
+147,00 F ;
 
-Plasma frais congelé humain homologué d'aphérèse sécurisé par quarantaine (unité adulte, 200 ml au minimum, unité enfant et unité pédiatrique) : 337,25 F
+Plasma frais congelé humain homologue d'aphérèse sécurisé par quarantaine (unité adulte, 200 ml au minimum, unité enfant et unité pédiatrique) : 359,25 F ;
 
-Plasma frais congelé viro-atténué par solvant détergent (200 ml au minimum) : 567,53 F
+Plasma frais congelé viro-atténué par solvant détergent (200 ml au minimum) : 594,80 F ;
 
-Forfait pour concentrés globules rouges autologues, unité adultes SAG-M, par érythraphérèse : 1 945,21 F
+Forfait pour concentrés globules rouges autologues, unités adultes SAG-M, par érythraphérèse : 1 989,65 F ;
 
-Forfait pour transfusion autologue programmée (comprenant un concentré de globules rouges et un plasma frais congelé), par prélèvement : 841,47 F
+Forfait pour transfusion autologue programmée (comprenant un concentré de globules rouges et un plasma frais congelé), par prélèvement : 860,70 F ;
 
-Majoration pour transformation, mélange de concentrés de plaquettes standards (part fixe) : 115,98 F
+Majoration pour transformation "mélange de concentrés de plaquettes standard" (part fixe) : 118,60 F ;
 
-Majoration pour transformation "mélange de concentrés de plaquettes standard" par unité supplémentaire à partir de la 3e unité mélangée :
+Majoration pour transformation "mélange de concentrés de plaquettes standards" par unité supplémentaire à partir de la troisième unité mélangée : 12,40 F ;
 
-12,11 F
+Majoration pour transformation "appauvri en leucocytes" :
 
-Majoration pour transformation "appauvri en leucocytes" : 27,46 F
+28,10 F ;
 
-Majoration pour transformation "déleucocyté" (applicable sur concentré de globules rouges) : 163,63 F
+Majoration pour transformation "déleucocyté" (applicable sur concentré de globules rouges) : 167,35 F ;
 
-Majoration pour transformation "déleucocyté" (applicable sur mélange de concentrés de plaquettes standard) : 238,14 F
+Majoration pour transformation "déleucocyté" (applicable sur mélange de concentrés de plaquettes standards) : 243,60 F ;
 
-Majoration pour transformation "cryoconservé" : 573,73 F
+Majoration pour qualification "cryoconservé" : 586,85 F ;
 
-Majoration pour qualification "phénotype Rh Kell" : 15,69 F
+Majoration pour qualification "phénotypé Rh Kell" : 16,05 F ;
 
-Majoration pour qualification "phénotype étendu" : 72,81 F
+Majoration pour qualification "phénotype étendu" : 74,45 F ;
 
-Majoration pour qualification "CMV négatif" : 51,47 F
+Majoration pour qualification "CMV négatif" : 52,65 F ;
 
-Majoration pour transformation "déplasmatisé" : 348,37 F
+Majoration pour transformation "déplasmatisé" : 356,30 F ;
 
-Majoration pour transformation "irradié" : 70,41 F
+Majoration pour transformation "irradié" (applicable sur chaque produit) : 72,00 F ;
 
-Majoration pour transformation "réduction volume" : 110,71 F
+Majoration pour transformation "réduction en volume" :
 
-Majoration pour transformation "reconstitution du sang à usage pédiatrique" : 116,64 F
+113,25 F ;
+
+Majoration pour transformation "reconstitution du sang à usage pédiatrique" : 119,30 F.

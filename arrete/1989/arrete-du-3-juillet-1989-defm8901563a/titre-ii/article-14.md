@@ -1,6 +1,6 @@
 # Article 14
 
-Le comité directeur [*composition*] est présidé par le délégué général pour l'armement.
+Le comité directeur est présidé par le délégué général pour l'armement.
 
 Il comprend :
 
@@ -26,16 +26,14 @@ Le haut-commissaire à l'énergie atomique.
 
 Le directeur des applications militaires.
 
-Le directeur pour les questions de défense.
+Le directeur délégué à la propulsion nucléaire du Commissariat à l'énergie atomique.
 
 II. -Des membres occasionnels
 
 Un représentant du ministère de l'intérieur (pour les questions relatives aux transports).
 
-Le directeur des centres d'expérimentations nucléaires.
-
 Le directeur central du service de santé des armées.
 
-Le directeur des missiles et de l'espace et le directeur des constructions navales de la délégation générale pour l'armement.
+Les directeurs concernés de la délégation générale pour l'armement.
 
-Le secrétariat du comité directeur est assuré conjointement par le chargé de mission Atome de la délégation générale pour l'armement et le directeur délégué à la sûreté nucléaire du Commissariat à l'énergie atomique.
+Le secrétariat du comité directeur est assuré conjointement par l'inspecteur de l'armement conseiller du délégué général pour l'armement pour la sécurité nucléaire et le directeur délégué à la sûreté nucléaire du Commissariat à l'énergie atomique.
