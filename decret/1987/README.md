@@ -174,6 +174,7 @@
 - [Décret n°87-34 du 22 janvier 1987 (DEFD8701043D)](decret-n87-34-du-22-janvier-1987-defd8701043d)
 - [Décret n°87-574 du 22 juillet 1987 (AGRG8701310D)](decret-n87-574-du-22-juillet-1987-agrg8701310d)
 - [Décret n°87-582 du 22 juillet 1987 (ASES8700950D)](decret-n87-582-du-22-juillet-1987-ases8700950d)
+- [Décret n°87-584 du 22 juillet 1987 (RESY8700432D)](decret-n87-584-du-22-juillet-1987-resy8700432d)
 - [Décret n°87-348 du 22 mai 1987 (MCCK8700229D)](decret-n87-348-du-22-mai-1987-mcck8700229d)
 - [Décret n°87-349 du 22 mai 1987 (MAEJ87300250)](decret-n87-349-du-22-mai-1987-maej87300250)
 - [Décret n°86-1371 du 23 décembre 1986](decret-n86-1371-du-23-decembre-1986)
