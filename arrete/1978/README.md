@@ -7,6 +7,7 @@
 - [Arrêté du 6 septembre 1978](arrete-du-6-septembre-1978)
 - [Arrêté du 7 mars 1978](arrete-du-7-mars-1978)
 - [Arrêté du 7 octobre 1977](arrete-du-7-octobre-1977)
+- [Arrêté du 8 juin 1978](arrete-du-8-juin-1978)
 - [Arrêté du 9 février 1978](arrete-du-9-fevrier-1978)
 - [Arrêté du 9 janvier 1978](arrete-du-9-janvier-1978)
 - [Arrêté du 9 mars 1978](arrete-du-9-mars-1978)
