@@ -9,6 +9,7 @@
 - [Décret n°72-642 du 3 juillet 1972](decret-n72-642-du-3-juillet-1972)
 - [Décret n°72-950 du 3 octobre 1972](decret-n72-950-du-3-octobre-1972)
 - [Décret n°72-580 du 4 juillet 1972](decret-n72-580-du-4-juillet-1972)
+- [Décret n°72-581 du 4 juillet 1972](decret-n72-581-du-4-juillet-1972)
 - [Décret n°72-582 du 4 juillet 1972](decret-n72-582-du-4-juillet-1972)
 - [Décret n°72-589 du 4 juillet 1972](decret-n72-589-du-4-juillet-1972)
 - [Décret n°72-607 du 4 juillet 1972](decret-n72-607-du-4-juillet-1972)
