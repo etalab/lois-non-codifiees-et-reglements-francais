@@ -33,3 +33,4 @@
 - [Décret n°58-1303 du 23 décembre 1958](decret-n58-1303-du-23-decembre-1958)
 - [Décret n°58-1430 du 23 décembre 1958](decret-n58-1430-du-23-decembre-1958)
 - [Décret n°59-343 du 26 février 1959](decret-n59-343-du-26-fevrier-1959)
+- [Décret n°59-487 du 27 mars 1959](decret-n59-487-du-27-mars-1959)

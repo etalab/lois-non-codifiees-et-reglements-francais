@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'application de l'article 1147 du code rural, l'indemnité qui est allouée à la victime ou ses représentants exonère, à due concurrence, le chef d'entreprise des obligations mises à sa charge. Dans le cas où les rentes prévues aux articles 1168 à 1172 du code rural sont inférieures à la réparation de même nature due à la victime ou à ses ayants droit par le tiers reconnu responsable, les rentes supplémentaires peuvent être allouées sous forme de capital. Celles qui ne seraient pas allouées en capital doivent, dans les deux mois de la décision définitive ou de l'accord des parties, être constituées par le débiteur à la caisse nationale d'assurance sur la vie, suivant le tarif prévu à l'article 462 du code de la sécurité sociale.
