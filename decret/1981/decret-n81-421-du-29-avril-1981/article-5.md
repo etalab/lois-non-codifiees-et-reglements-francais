@@ -1,5 +1,7 @@
 # Article 5
 
-Compte tenu de la capacité de formation des écoles du département, agréées pour la préparation du diplôme d'Etat d'infirmier et d'infirmière et sur le rapport du médecin inspecteur départemental de la santé, le préfet arrête la répartition entre les différentes écoles de l'effectif fixé conformément aux dispositions de l'article 4.
+Le représentant de l'Etat dans la région arrête la répartition entre les différentes écoles de la région de l'effectif fixé conformément aux dispositions de l'article 4.
 
-L'arrêté préfectoral est publié au recueil des actes administratifs du département avant le 1er mars de chaque année [*date limite*].
+Cette répartition est effectuée compte tenu des besoins de chaque département et de la capacité de formation des écoles de la région, sur le rapport du médecin inspecteur régional de la santé qui consulte les médecins inspecteurs départementaux de la santé.
+
+La décision est publiée au recueil des actes administratifs de chaque département de la région.
