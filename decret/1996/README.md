@@ -40,6 +40,7 @@
 - [Décret n°96-116 du 8 février 1996 (BUDF9510078D)](decret-n96-116-du-8-fevrier-1996-budf9510078d)
 - [Décret n°96-118 du 8 février 1996 (AGRB9500281D)](decret-n96-118-du-8-fevrier-1996-agrb9500281d)
 - [Décret n°96-13 du 8 janvier 1996 (DOME9500052D)](decret-n96-13-du-8-janvier-1996-dome9500052d)
+- [Décret n°96-178 du 8 mars 1996 (ACVA9510079D)](decret-n96-178-du-8-mars-1996-acva9510079d)
 - [Décret n°96-20 du 8 janvier 1996 (EQUH9501540D)](decret-n96-20-du-8-janvier-1996-equh9501540d)
 - [Décret n°96-21 du 8 janvier 1996 (ECOT9551484D)](decret-n96-21-du-8-janvier-1996-ecot9551484d)
 - [Décret n°96-104 du 9 février 1996 (EQUL9501706D)](decret-n96-104-du-9-fevrier-1996-equl9501706d)
