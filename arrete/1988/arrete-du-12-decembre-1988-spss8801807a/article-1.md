@@ -4,7 +4,7 @@ Pour l'application de l'article 13 du décret du 12 décembre 1988 susvisé, il 
 
 L'allocation d'insertion prévue à l'article L. 351-9 du code du travail ;
 
-L'allocation de base et l'allocation de fin de droits prévues à l'article L. 351-3 du code du travail ;
+L'allocation d'assurance prévue à l'article L. 351-3 du code du travail ;
 
 L'allocation de solidarité spécifique prévue à l'article L. 351-10 du code du travail ;
 
