@@ -1,0 +1,3 @@
+# Article 17
+
+En cas de procédure ouverte, le délai de réception des offres ne peut être inférieur à cinquante-deux jours à compter de la date d'envoi de l'avis mentionné au premier alinéa de l'article 14 du présent décret à l'Office des publications officielles des communautés européennes. Pour les contrats de travaux et les contrats de services, lorsque l'avis de préinformation prévu à l'article 13 du présent décret a été publié antérieurement, ce délai peut être réduit sans être inférieur à trente-six jours. Lorsque les offres ne peuvent être faites qu'à la suite d'une visite des lieux ou après consultation sur place de documents annexés au cahier des charges, ces délais sont prolongés de façon adéquate.

@@ -1,0 +1,7 @@
+# Article 19
+
+En cas de procédure restreinte ou de procédure négociée prévue à l'article 11 du présent décret, le délai de réception des candidatures ne peut être inférieur à trente-sept jours à compter de la date d'envoi de l'avis mentionné au premier alinéa de l'article 14 du présent décret à l'Office des publications des communautés européennes.
+
+En cas de procédure restreinte, le délai accordé aux candidats retenus pour remettre leurs offres ne peut être inférieur à quarante jours à compter de la date d'envoi de l'invitation écrite à remettre lesdites offres. Pour les contrats de travaux et les contrats de services, lorsque l'avis de préinformation prévu à l'article 13 du présent décret a été publié antérieurement, ce délai peut être réduit sans être inférieur à vingt-six jours. Lorsque les offres ne peuvent être faites qu'à la suite d'une visite des lieux ou après consultation sur place de documents annexes au cahier des charges, ces délais sont prolongés de façon adéquate.
+
+En cas d'urgence ne résultant pas de son fait, la personne qui se propose de conclure un contrat peut décider de ramener le délai prévu au premier alinéa à quinze jours au moins et le délai prévu au deuxième alinéa à dix jours au moins. Les demandes de participation et les invitations à présenter une offre sont faites par les voies les plus rapides et confirmées par lettre avant l'expiration des délais prévus au présent alinéa.

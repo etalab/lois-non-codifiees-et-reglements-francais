@@ -287,6 +287,7 @@
 - [Décret n°98-227 du 30 mars 1998 (ECOT9851668D)](decret-n98-227-du-30-mars-1998-ecot9851668d)
 - [Décret n°98-331 du 30 avril 1998 (ECOF9800005D)](decret-n98-331-du-30-avril-1998-ecof9800005d)
 - [Décret n°98-966 du 30 octobre 1998 (JUSE9840072D)](decret-n98-966-du-30-octobre-1998-juse9840072d)
+- [Décret n°92-311 du 31 mars 1992 (ECOM9100101D)](decret-n92-311-du-31-mars-1992-ecom9100101d)
 - [Décret n°97-1322 du 31 décembre 1997 (MESV9723473D)](decret-n97-1322-du-31-decembre-1997-mesv9723473d)
 - [Décret n°97-1323 du 31 décembre 1997 (MESV9723472D)](decret-n97-1323-du-31-decembre-1997-mesv9723472d)
 - [Décret n°97-1326 du 31 décembre 1997 (ECOB9730088D)](decret-n97-1326-du-31-decembre-1997-ecob9730088d)
