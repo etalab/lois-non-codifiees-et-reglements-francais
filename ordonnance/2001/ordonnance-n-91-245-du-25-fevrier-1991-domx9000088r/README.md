@@ -3,3 +3,4 @@
 - [CHAPITRE Ier : Dispositions relatives au code pénal.](chapitre-ier)
 - [CHAPITRE II : Dispositions concernant le code de procédure pénale.](chapitre-ii)
 - [CHAPITRE III : Dispositions diverses.](chapitre-iii)
+- [Article 29](article-29.md)

@@ -1,3 +1,5 @@
 # Article 7
 
-Le directeur général des impôts est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et affiché dans les centres des impôts au fur et à mesure de l'implantation du traitement.
+Le droit d'accès et de rectification, prévu par la loi du 6 janvier 1978 susvisée, s'exerce auprès du centre des impôts dont relève le redevable.
+
+En outre le droit d'opposition ne s'applique pas au présent traitement.

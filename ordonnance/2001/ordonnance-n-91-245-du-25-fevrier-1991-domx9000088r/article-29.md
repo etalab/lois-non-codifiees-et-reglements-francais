@@ -1,0 +1,3 @@
+# Article 29
+
+Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et du budget, le garde des sceaux, ministre de la justice, le ministre de l'intérieur, le ministre de l'agriculture et de la forêt, le ministre du travail, de l'emploi et de la formation professionnelle, le ministre des départements et territoires d'outre-mer, porte-parole du Gouvernement, et le ministre délégué auprès du garde des sceaux, ministre de la justice, sont chargés, chacun en ce qui le concerne, de l'exécution de la présente ordonnance, qui sera publiée au Journal officiel de la République française.

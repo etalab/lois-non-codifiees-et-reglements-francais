@@ -8,3 +8,4 @@
 - [TITRE V : Les effets de l'aide juridictionnelle.](titre-v)
 - [TITRE VI : Le retrait de l'aide juridictionnelle.](titre-vi)
 - [TITRE VII : Dispositions diverses.](titre-vii)
+- [Article 44](article-44.md)
