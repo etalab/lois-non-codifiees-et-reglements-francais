@@ -13,6 +13,7 @@
 - [Décret n°66-938 du 17 décembre 1966](decret-n66-938-du-17-decembre-1966)
 - [Décret n°66-104 du 18 février 1966](decret-n66-104-du-18-fevrier-1966)
 - [Décret n°66-900 du 18 novembre 1966](decret-n66-900-du-18-novembre-1966)
+- [Décret n°66-166 du 21 mars 1966](decret-n66-166-du-21-mars-1966)
 - [Décret n°66-108 du 23 février 1966](decret-n66-108-du-23-fevrier-1966)
 - [Décret n°66-81 du 25 janvier 1966](decret-n66-81-du-25-janvier-1966)
 - [Décret n°65-1177 du 31 décembre 1965](decret-n65-1177-du-31-decembre-1965)
