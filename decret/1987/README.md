@@ -28,6 +28,7 @@
 - [Décret n°87-1 du 5 janvier 1987](decret-n87-1-du-5-janvier-1987)
 - [Décret n°87-153 du 5 mars 1987](decret-n87-153-du-5-mars-1987)
 - [Décret n°87-155 du 5 mars 1987](decret-n87-155-du-5-mars-1987)
+- [Décret n°87-374 du 5 juin 1987 (INTX8700035D)](decret-n87-374-du-5-juin-1987-intx8700035d)
 - [Décret n°87-4 du 5 janvier 1987](decret-n87-4-du-5-janvier-1987)
 - [Décret n°87-5 du 5 janvier 1987](decret-n87-5-du-5-janvier-1987)
 - [Décret n°87-6 du 5 janvier 1987](decret-n87-6-du-5-janvier-1987)
