@@ -2,4 +2,5 @@
 
 - [TITRE IER : Lycées agricoles et établissements d'enseignement agricole spécialisés de même niveau](titre-ier)
 - [TITRE II : Collèges agricoles et établissements d'enseignement agricole spécialisés de même niveau](titre-ii)
+- [TITRE III : Des personnels d'éducation physique et sportive](titre-iii)
 - [TITRE IV : Dispositions communes](titre-iv)
