@@ -164,6 +164,7 @@
 - [Décret n°94-159 du 23 février 1994 (TEFE9400158D)](decret-n94-159-du-23-fevrier-1994-tefe9400158d)
 - [Décret n°94-160 du 23 février 1994 (TEFE9400159D)](decret-n94-160-du-23-fevrier-1994-tefe9400159d)
 - [Décret n°94-174 du 23 février 1994 (PRMX9300200D)](decret-n94-174-du-23-fevrier-1994-prmx9300200d)
+- [Décret n°95-191 du 23 février 1995 (ECOP9400556D)](decret-n95-191-du-23-fevrier-1995-ecop9400556d)
 - [Décret n°93-479 du 24 mars 1993 (EQUX9300043D)](decret-n93-479-du-24-mars-1993-equx9300043d)
 - [Décret n°94-184 du 24 février 1994 (ECOC9300223D)](decret-n94-184-du-24-fevrier-1994-ecoc9300223d)
 - [Décret n°94-185 du 24 février 1994 (INDP9400129D)](decret-n94-185-du-24-fevrier-1994-indp9400129d)
