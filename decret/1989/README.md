@@ -72,6 +72,7 @@
 - [Décret n°89-216 du 10 avril 1989 (MAEJ8930027D)](decret-n89-216-du-10-avril-1989-maej8930027d)
 - [Décret n°89-90 du 10 février 1989 (MICT8900022D)](decret-n89-90-du-10-fevrier-1989-mict8900022d)
 - [Décret n°89-95 du 10 février 1989 (SPSA8801866D)](decret-n89-95-du-10-fevrier-1989-spsa8801866d)
+- [Décret n°89-296 du 10 mai 1989 (INTB8900136D)](decret-n89-296-du-10-mai-1989-intb8900136d)
 - [Décret n°88-344 du 11 avril 1988 (MENF8800447D)](decret-n88-344-du-11-avril-1988-menf8800447d)
 - [Décret n°88-345 du 11 avril 1988 (MENF8800448D)](decret-n88-345-du-11-avril-1988-menf8800448d)
 - [Décret n°88-346 du 11 avril 1988 (MENF8800449D)](decret-n88-346-du-11-avril-1988-menf8800449d)
