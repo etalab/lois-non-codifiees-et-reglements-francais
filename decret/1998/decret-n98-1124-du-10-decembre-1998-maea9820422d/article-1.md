@@ -42,7 +42,7 @@ V. - La direction générale de la coopération internationale et du développem
 
 - de la direction de l'audiovisuel extérieur et des techniques de communication.
 
-VI. - Les directions et services suivants :
+VI. - Les directions, service et délégation suivants :
 
 - la direction de la coopération européenne ;
 
@@ -66,8 +66,8 @@ VI. - Les directions et services suivants :
 
 - la direction des archives ;
 
-- le service des affaires francophones ;
+- la délégation à l'action humanitaire ;
 
-- le service de l'action humanitaire.
+- le service des affaires francophones.
 
 VII. - Le protocole.
