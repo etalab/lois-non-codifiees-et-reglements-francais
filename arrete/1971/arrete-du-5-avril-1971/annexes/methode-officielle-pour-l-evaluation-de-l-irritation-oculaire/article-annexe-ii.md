@@ -46,7 +46,7 @@ Produits solides et pulvérulents : 100 mg.
 
 4.3. Maintenir les animaux pendant une heure dans le dispositif (3.2) afin qu'ils ne puissent pas se frotter l'oeil, puis les remettre dans leur cage.
 
-4.4. Observer l'oeil des lapins une heure, puis 1, 2, 3, 4 et 7 jours après l'instillation, en utilisant l'oeil non instillé comme témoin pour évaluer une irritation éventuelle de l'oeil traité.
+4.4. Observer l'oeil des lapins une heure puis 1, 2, 3, 4 et 7 jours après l'instillation en utilisant l'oeil non instillé comme témoin pour évaluer une irritation éventuelle de l'oeil traité.
 
 Effectuer les examens dans l'ordre suivant :
 
@@ -54,9 +54,9 @@ Effectuer les examens dans l'ordre suivant :
 
 - iris ;
 
-- cornée (degré et surface d'opacification).
+- cornée (degré et surface d'opacification et/ou d'atteinte épithéliale).
 
-L'observation des lésions de la conjonctive, de l'iris et de la cornée se fera par examen direct. L'observation de la cornée sera complétée par un examen après instillation de la solution de fluorescéine (3.4) et rinçage à l'aide de la solution (3.5) ; elle pourra être poursuivie en utilisant la lampe U.V. (3.8).
+L'observation des lésions de la conjonctive, de l'iris et de la cornée se fera par examen direct. L'observation de la cornée sera complétée par un examen après instillation de la solution de fluoresceine (3.4) et rinçage à l'aide de la solution (3.5). Elle sera poursuivie en utilisant la lampe U.V. (3.8).
 
 V. - Notation.
 
@@ -124,11 +124,15 @@ Maximum = 10.
 
 6.3. Cornée.
 
-Ne tenir compte en ce qui concerne l'opacification que de la zone présentant le degré de lésion le plus élevé.Les zones d'attaque cornéenne se distinguent par une fluorescence très nette.
+Ne tenir compte en ce qui concerne l'opacification et l'atteinte épithéliale que de la zone présentant le degré de lésion le plus élevé.
 
-6.3.1. Degré d'opacification (E) :
+Les zones d'atteinte épithéliale se distinguent par une fluorescence très nette.
 
-Aucune modification visible ni perte de brillant ou de poil 0.
+6.3.1. Absence d'atteinte cornéenne :
+
+Aucune modification visible à l'examen direct (perte de brillant ou de poli) ou après instillation de fluoresceine : 0.
+
+6.3.2. Degré d'opacification cornéenne (E) :
 
 Présence de zones translucides (diffuses ou disséminées), détails de l'iris clairement visibles : 1.
 
@@ -136,9 +140,9 @@ Présence d'une zone translucide facilement identifiable, détails de l'iris lé
 
 Présence d'une zone opalescente, aucun détail de l'iris visible, contour de la pupille à peine discernable : 3.
 
-Présence d'une opacité cornéenne totale rendant l'iris et la pupille invisibles : 4.
+Présence d'une opacité cornéenne totale, rendant l'iris et la pupille invisibles : 4.
 
-6.3.2. Surface d'opacité (F) :
+6.3.3. Surface d'opacité et/ou d'atteinte épithéliale (F) :
 
 Un quart (ou moins mais non nulle) : 1.
 
@@ -148,9 +152,9 @@ Entre la moitié et les trois quarts : 3.
 
 Des trois quarts à toute la surface : 4.
 
-6.3.3. Faire le produit des deux notes et le multiplier par 5 :
+6.3.4. En cas d'atteinte cornéenne, faire le produit des deux notes et le multiplier par 5.
 
-(E x F x 5)
+E x F x 5
 
 Maximum = 80.
 
