@@ -46,7 +46,9 @@ L'Airou, en aval de son confluent avec le ruisseau de la Marchandière, communes
 
 Le Beuvron ;
 
-L'Oir, en aval de son confluent avec le ruisseau de la Vallée-aux-Berges, communes de la Mancellière et d'Isigny-le-Buat ;    La Sée, dans la section comprise entre son confluent avec la Sée rousse et la Sée blanche, commune de Sourdeval, et son confluent avec le Clénon, commune des Gresnays.
+L'Oir, en aval de son confluent avec le ruisseau de la Vallée-aux-Berges, communes de la Mancellière et d'Isigny-le-Buat ;
+
+La Sée, dans la section comprise entre son confluent avec la Sée rousse et la Sée blanche, commune de Sourdeval, et son confluent avec le Clénon, commune des Gresnays.
 
 Dans le département de l'Orne :
 
@@ -140,7 +142,7 @@ Dans le département de l'Aveyron :
 
 L'Aveyron, en amont de la commune de Rodez ; ses affluents et sous-affluents, à l'exception de l'Alzou, entre les cotes N.G.F. 380 et 480, de la Sérène et de ses affluents en amont de la cote 420 N.G.F. ;
 
-Les affluents et sous-affluents du Lot, à l'exception de la Truyère, du Riou-Mort, du Riou-Viou, du Goul et du Gouzou, du Selvet, de la Selves, du Boraldès et de ses affluents, ainsi qu'à l'exception des affluents du Lot entre le pont de Saint-Laurent-d'Olt, en aval de la cote 500 N.G.F. ;
+Les affluents et sous-affluents du Lot, à l'exception de la Truyère, du Riou-Mort, du Riou-Viou, du Goul et du Gouzou, du Selvet, de la Selves, ainsi qu'à l'exception des affluents du Lot entre le pont de Saint-Laurent-d'Olt, en aval de la cote 500 N.G.F. ;
 
 Le Tarn, en amont de la commune de Millau, ses affluents et sous-affluents, à l'exception du Dourdou de Camarès dans sa section située à l'aval de la commune de Camarès, du Rance dans sa section située à l'aval du Pont-Neuf, commune de Saint-Sernin-sur-Rance, et de la Dourbie ;
 
@@ -420,19 +422,19 @@ La Souloise, en amont de la cote 790 N.G.F. ;
 
 Dans le département de la Savoie :
 
-Le Chéran ;
+Le Chéran et ses affluents ;
 
-Le Doron de Beaufort, en amont de l'usine hydro-électrique des Sauces, commune de Beaufort ;
+Le Doron de Beaufort, en amont de l'usine hydro-électrique des Sauces, commune de Beaufort ; ses affluents dans la section considérée ;
 
 Le Doron-de-Belleville ;
 
-Le Doron-de-Chavière ;
+Le Doron-de-Chavière et ses affluents, à l'exception du ruisseau de l'Isertan, du torrent de la Glière et du ruisseau de Vuzelle ;
 
-Le Flon ;
+Le Flon et ses affluents ;
 
-La Leysse, en aval du lieudit Le Bout du Monde, commune de Saint-Alban-Leysse ;
+La Leysse, en aval du lieudit Le Bout du Monde, commune de Saint-Alban-Leysse ; ses affluents dans la section considérée ;
 
-La Méline.
+La Méline et ses affluents.
 
 Bassin versant de la mer Méditerranée
 
@@ -446,12 +448,12 @@ L'Aude et ses affluents ;
 
 La Sègre et ses affluents, à l'exception du Carol en aval de la cote 1 500 N.G.F. ;
 
-Le Tech, en amont du Vieux-Pont-de-Céret, à l'exception de la section comprise entre la cote 920 N.G.F., au lieudit Mas Graffouil, et l'ancienne usine hydro-électrique sise au lieudit Rossignol, commune de Prats-de-Mollo-la-Preste ,
+Le Tech, en amont du Vieux-Pont-de-Céret, à l'exception de la section comprise entre la cote 920 N.G.F., au lieudit Mas Graffouil, et l'ancienne usine hydro-électrique sise au lieudit Rossignol, commune de Prats-de-Mollo-la-Preste, d'autre part, entre les prises de l'usine du Tech et la restitution de l'usine de Pas-du-Loup ;
 
 L'ensemble des affluents du Tech, dans la section située en amont du Vieux-Pont-de-Céret, à l'exception de Ia Parcigoule, à l'aval de la cote l 100 N.G.F., commune de Prats-de-Mollo-la-Preste, et du Riuferrer, à l'aval de la cote 1 350 N.G.F., commune d'Arles-sur-Tech ;
 
 La Têt, en amont du barrage de Vinça, commune de Vinça, à l'exception des sections comprises, d'une part, entre les cotes 1 480 et 1 150 N.G.F., communes de Sauto-Fetges et de la Cabanasse, d'autre part, entre le pont de Serdinya, à la cote 530 N.G.F., commune de Serdinya, et le point de restitution de l'usine E.D.F., à la cote 450 N.G.F., commune de Fuilla ;
 
-L'ensemble des affluents de la Têt, dans la section située à l'amont du barrage de Vinça, à l'exception du Cady, à l'aval de la cote 1 130 N.G.F., commune de Casteil, de la Rotja, à l'aval de la cote 1 400 N.G.F., commune de Py, de la rivière de Mantet, à l'aval de la cote 1 270 N.G.F., commune de Nyer, et de la Carança.
+L'ensemble des affluents de la Têt, dans la section située à l'amont du barrage de Vinça, à l'exception du Cady, à l'aval de la cote 1 130 N.G.F., commune de Casteil, de la Rotja, à l'aval de la cote 1 400 N.G.F., commune de Py, de la rivière de Mantet, à l'aval de la cote 1 270 N.G.F., commune de Nyer.
 
 Pour les cours d'eau qui se jettent dans la mer, les dispositions susmentionnées s'appliquent jusqu'à la limite de salure des eaux.
