@@ -461,6 +461,7 @@
 - [Arrêté du 22 juillet 1987 (INTD8700247A)](arrete-du-22-juillet-1987-intd8700247a)
 - [Arrêté du 22 juin 1987 (ASES8700923A)](arrete-du-22-juin-1987-ases8700923a)
 - [Arrêté du 22 juin 1987 (MENL8700371A)](arrete-du-22-juin-1987-menl8700371a)
+- [Arrêté du 22 octobre 1987 (INDH8700454A)](arrete-du-22-octobre-1987-indh8700454a)
 - [Arrêté du 22 septembre 1987 (BUDB8730094A)](arrete-du-22-septembre-1987-budb8730094a)
 - [Arrêté du 22 septembre 1987 (EQUP8700879A)](arrete-du-22-septembre-1987-equp8700879a)
 - [Arrêté du 22 septembre 1987 (INTD8700306A)](arrete-du-22-septembre-1987-intd8700306a)
