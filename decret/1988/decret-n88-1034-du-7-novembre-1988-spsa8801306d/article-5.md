@@ -1,0 +1,3 @@
+# Article 5
+
+Pour l'application du troisième alinéa de l'article 21 de la loi n° 82-610 du 15 juillet 1982 susvisé, les personnes morales de droit privé chargées de la gestion d'un service public sont constituées par les établissements d'hospitalisation privés participant au service public hospitalier et par les établissements et services sociaux et médico-sociaux habilités à recevoir des bénéficiaires de l'aide sociale ou autorisés à dispenser des soins remboursables aux assurés sociaux, ainsi que par les institutions de formation soumises à l'agrément du ministre chargé des affaires sociales.
