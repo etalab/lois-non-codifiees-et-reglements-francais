@@ -1,0 +1,5 @@
+# Article 30-1
+
+La convention visée à l'article 30 précise les obligations réciproques des parties contractantes dans l'organisation et la mise en oeuvre du service, sa durée, qui ne peut être inférieure à trois ans, les moyens humains, matériels et financiers mis à disposition par les différentes parties ainsi que, en zone de revitalisation rurale et en zone de redynamisation urbaine, le montant des remboursements de l'Etat prévus par le IV de l'article 30 de la loi n° 99-533 du 25 juin 1999 d'orientation pour l'aménagement et le développement durable du territoire et portant modification de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire. Toute autre collectivité publique ou toute autre personne de droit privé peut, à sa demande, être associée à cette convention, auquel cas les obligations de cette collectivité ou de cette personne sont précisées dans la convention qui comporte un dispositif d'évaluation.
+
+Aucune contribution autre que celles figurant dans la convention ne peut être imposée aux collectivités territoriales et à leurs groupements.
