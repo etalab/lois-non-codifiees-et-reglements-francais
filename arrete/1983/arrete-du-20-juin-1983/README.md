@@ -1,8 +1,6 @@
-# Arrêté du 20 juin 1983 relatif à la rémunération des estimateurs de l'office national de la chasse pour l'évaluation des dommages causés par le grand gibier
+# Arrêté du 20 juin 1983 portant application des dispositions de l'article 2 du décret n° 80-590 du 10 juillet 1980 relatif à la sélection, la production, la circulation et la distribution des matériels de multiplication végétative de la vigne
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
-- [Article 5](article-5.md)
-- [Article 6](article-6.md)

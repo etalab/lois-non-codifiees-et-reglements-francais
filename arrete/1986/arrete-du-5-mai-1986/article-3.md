@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur de la programmation, des affaires financières et immobilières au ministère de l'intérieur et le directeur de la construction au ministère de l'équipement, du logement, de l'aménagement du territoire et des transports sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Pour l'ensemble des lacs désignés en annexe du département ou pour chacun des lacs, le préfet arrête la composition de la commission consultative selon les règles définies à l'article 2 du présent arrêté.

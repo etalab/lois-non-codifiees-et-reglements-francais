@@ -1,15 +1,25 @@
 # Article 2
 
-Pendant une période de cinq ans à compter de la date de publication du présent arrêté :
+La composition des commissions consultatives en matière de réglementation de la pêche dans ces lacs, instituées par l'article 46 du décret du 23 décembre 1985 susvisé, est la suivante :
 
-1. Les préfets des départements de Paris, des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne peuvent réserver, dans les programmes de logements construits, améliorés ou acquis et améliorés avec le concours financier de l'Etat ou ouvrant droit à l'aide personnalisée au logement et appartenant aux organismes d'habitations à loyer modéré ou gérés par ceux-ci, un pourcentage desdits logements supérieur aux pourcentages fixés à l'article R. 441-12 du code de la construction et de l'habitation.
+Le préfet ou son représentant, président ;
 
-2. Le nombre de logements ainsi réservés ne peut excéder :
+Le président du conseil général ou son représentant ;
 
-- 500 logements par an dans le département de Paris ;
+Le directeur départemental de l'agriculture et de la forêt ou son représentant ;
 
--  80 logements par an dans le département des Hauts-de-Seine ;
+Le directeur départemental de l'équipement ou son représentant ;
 
--  80 logements par an dans le département de la Seine-Saint-Denis ;
+Le chef du service chargé de la police de la pêche ;
 
--  80 logements par an dans le département du Val-de-Marne.
+Le délégué régional au Conseil supérieur de la pêche ;
+
+Le président de la fédération départementale ou interdépartementale des associations agréées de pêche et de pisciculture ;
+
+Le ou les présidents des associations agréées de pêche ou de pisciculture détentrices de droits de pêche sur le ou les lacs considérés ;
+
+Un ou deux représentants d'organismes scientifiques spécialisés dans le domaine de la pêche et de la gestion des milieux aquatiques ;
+
+Une personnalité choisie parmi les membres des associations de protection de la nature ainsi que, dans le cas où est exercée une pêche aux engins et aux filets à titre amateur ou à titre professionnel, le président de l'association départementale agréée de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public et le président de l'association départementale ou interdépartementale de pêcheurs professionnels, ou son représentant.
+
+Peuvent également être nommés membres de cette commission un ou plusieurs représentants des collectivités territoriales des communes où son situés le ou les lacs concernés.
