@@ -45,6 +45,7 @@
 - [Décret n°2000-24 du 13 janvier 2000 (INTC0000010D)](decret-n2000-24-du-13-janvier-2000-intc0000010d)
 - [Décret n°2000-26 du 13 janvier 2000 (ECOT0014072D)](decret-n2000-26-du-13-janvier-2000-ecot0014072d)
 - [Décret n°2000-1107 du 14 novembre 2000 (MENF0002155D)](decret-n2000-1107-du-14-novembre-2000-menf0002155d)
+- [Décret n°2000-32 du 14 janvier 2000 (MENF9902716D)](decret-n2000-32-du-14-janvier-2000-menf9902716d)
 - [Décret n°99-1049 du 15 décembre 1999 (MESS9923827D)](decret-n99-1049-du-15-decembre-1999-mess9923827d)
 - [Décret n°99-1054 du 15 décembre 1999 (MESS9923697D)](decret-n99-1054-du-15-decembre-1999-mess9923697d)
 - [Décret n°99-1070 du 15 décembre 1999 (MAEA9920475D)](decret-n99-1070-du-15-decembre-1999-maea9920475d)
