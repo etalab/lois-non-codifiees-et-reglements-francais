@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions des articles 8 et 10 du décret susvisé du 9 septembre 1965, la période pendant laquelle les intéressés ont été autorisés à accomplir un service à temps partiel dans les conditions prévues par la loi du 23 décembre 1980 est comptée pour la totalité de sa durée dans la constitution du droit à pension et, dans la liquidation de la pension, pour la fraction de sa durée égale au rapport entre la durée hebdomadaire du service effectué et la durée de service requise des agents de même grade exerçant à temps plein les mêmes fonctions dans les collectivités ou établissements concernés.
