@@ -596,7 +596,6 @@
 - [Arrêté du 19 janvier 1993 (AGRA9202401A)](arrete-du-19-janvier-1993-agra9202401a)
 - [Arrêté du 19 janvier 1993 (INTB9300061A)](arrete-du-19-janvier-1993-intb9300061a)
 - [Arrêté du 19 janvier 1993 (INTE9300065A)](arrete-du-19-janvier-1993-inte9300065a)
-- [Arrêté du 19 juillet 1993 (AGRH9301360A)](arrete-du-19-juillet-1993-agrh9301360a)
 - [Arrêté du 19 juillet 1993 (ECOT9340157A)](arrete-du-19-juillet-1993-ecot9340157a)
 - [Arrêté du 19 juillet 1993 (ECOT9340158A)](arrete-du-19-juillet-1993-ecot9340158a)
 - [Arrêté du 19 mars 1993 (AGRH9300539A)](arrete-du-19-mars-1993-agrh9300539a)
