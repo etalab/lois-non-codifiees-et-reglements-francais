@@ -1,21 +1,7 @@
 # Article 16 bis
 
-La formation spéciale dite commission de la modernisation des services publics est chargée d'examiner les questions mentionnées au quatrième alinéa de l'article 2 du présent décret.
+A la demande des représentants de l'administration ou à la demande des représentants des organisations syndicales, les présidents des commissions mentionnées aux articles 13, 15 et 16 peuvent convoquer toute personne dont l'audition est de nature à éclairer les réflexions des commissions. Ces personnes ne peuvent assister qu'à la partie des débats, à l'exclusion du vote, relative aux questions pour lesquelles leur audition est demandée.
 
-La commission est présidée par le ministre chargé de la fonction publique ou en son absence par le directeur général de l'administration et de la fonction publique.
+L'ordre du jour des séances doit être adressé aux membres des commissions huit jours au moins avant la date de la séance.
 
-Parmi les représentants de l'Administration, sont membres de droit :
-
-- le directeur général de l'administration et de la fonction publique ou son représentant ;
-
-- le directeur du budget ou son représentant ;
-
-- le délégué à l'aménagement du territoire et à l'action régionale ou son représentant ;
-
-- le délégué interministériel à la ville ou son représentant.
-
-Peuvent être désignées en qualité de représentants de l'administration des personnalités choisies en raison de leur compétence.
-
-La commission se réunit au moins deux fois par an sur convocation de son président, à l'initiative du Premier ministre ou dans le délai maximal de deux mois, sur demande de la moitié au moins des représentants des organisations syndicales.
-
-Chaque séance de la commission fait l'objet d'un compte rendu adressé à chacun de ses membres et au Premier ministre.
+Le secrétariat de ces commissions est assuré par la direction générale de l'administration et de la fonction publique.
