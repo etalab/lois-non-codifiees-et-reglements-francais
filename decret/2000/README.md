@@ -300,6 +300,7 @@
 - [Décret n°2000-1027 du 18 octobre 2000 (PRMX0000126D)](decret-n2000-1027-du-18-octobre-2000-prmx0000126d)
 - [Décret n°2000-1030 du 18 octobre 2000 (EQUX0000154D)](decret-n2000-1030-du-18-octobre-2000-equx0000154d)
 - [Décret n°2000-1031 du 18 octobre 2000 (FPPX0000138D)](decret-n2000-1031-du-18-octobre-2000-fppx0000138d)
+- [Décret n°2000-1234 du 18 décembre 2000 (INTX0004553D)](decret-n2000-1234-du-18-decembre-2000-intx0004553d)
 - [Décret n°2000-666 du 18 juillet 2000 (INTX0000128D)](decret-n2000-666-du-18-juillet-2000-intx0000128d)
 - [Décret n°2000-667 du 18 juillet 2000 (INTX0000129D)](decret-n2000-667-du-18-juillet-2000-intx0000129d)
 - [Décret n°2000-677 du 18 juillet 2000 (ECOP0000380D)](decret-n2000-677-du-18-juillet-2000-ecop0000380d)
