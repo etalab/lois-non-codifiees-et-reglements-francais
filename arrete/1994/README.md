@@ -13,6 +13,7 @@
 - [Arrêté du 1 février 1994 (SPSS9400622A)](arrete-du-1-fevrier-1994-spss9400622a)
 - [Arrêté du 1 février 1994 (TEFE9400118A)](arrete-du-1-fevrier-1994-tefe9400118a)
 - [Arrêté du 1 juillet 1976](arrete-du-1-juillet-1976)
+- [Arrêté du 1 juin 1994 (JUSC9420319A)](arrete-du-1-juin-1994-jusc9420319a)
 - [Arrêté du 1 mars 1994 (INTB9400144A)](arrete-du-1-mars-1994-intb9400144a)
 - [Arrêté du 1 mars 1994 (SPSH9400685A)](arrete-du-1-mars-1994-spsh9400685a)
 - [Arrêté du 1 mars 1994 (SPSH9400686A)](arrete-du-1-mars-1994-spsh9400686a)

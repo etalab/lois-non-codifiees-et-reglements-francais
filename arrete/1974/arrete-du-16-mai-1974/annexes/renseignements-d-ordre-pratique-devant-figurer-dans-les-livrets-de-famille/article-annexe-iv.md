@@ -2,13 +2,13 @@
 
 I - Dispositions communes à tous les modèles de livret.
 
-Renseignements relatifs à l'état civil :
+Renseignements relatifs à l'état civil.
 
 Délivrance des extraits d'acte de l'état civil :
 
 On peut obtenir des copies ou extraits d'actes de l'état civil en s'adressant à la mairie qui a établi l'acte.
 
-Lorsque l'acte concernant un Français a été établi à l'étranger (ou dans un ancien territoire français d'outre-mer ou sous tutelle devenu indépendant), la demande doit en être adressée au service central d'état civil du ministère des affaires étrangères, B.P. 1056, 44035 Nantes Cédex.
+Lorsque l'acte concernant un Français a été établi à l'étranger (ou dans un ancien territoire français d'outre-mer ou sous tutelle devenu indépendant), la demande doit en être adressée au service central d'état civil du ministère des affaires étrangères, 44941 Nantes Cédex 9.
 
 Les copies ou extraits sont gratuits. Joindre seulement une enveloppe timbrée pour l'envoi.
 
@@ -44,7 +44,7 @@ Les époux se doivent mutuellement fidélité, secours, assistance.    Ils s'obl
 
 Ils assurent ensemble la direction morale et matérielle de la famille. Ils pourvoient à l'éducation des enfants et préparent leur avenir.
 
-Les époux doivent contribuer aux charges du mariage à proportion de leurs facultés respectives. Ils peuvent demander au juge d'instance, le cas échéant, de fixer cette contribution.
+Les époux doivent contribuer aux charges du mariage à proportion de leurs facultés respectives. Ils peuvent demander au juge aux affaires familiales, le cas échéant, de fixer cette contribution.
 
 Nom des époux :
 
@@ -68,7 +68,7 @@ Lorsque l'un des époux a une créance à faire valoir contre l'autre il peut de
 
 Autorité parentale :
 
-La loi attribue aux père et mère l'autorité parentale sur leurs enfants mineurs. Les père et mère ont à l'égard de l'enfant droit et devoir de garde, de surveillance et d'éducation.
+La loi attribue aux père et mère l'autorité parentale sur leurs enfants mineurs. Il en est de même après divorce sauf décision contraire du juge. Les père et mère ont à l'égard de l'enfant droit et devoir de garde, de surveillance et d'éducation.
 
 Pendant le mariage, les père et mère exercent en commun leur autorité. Toutefois les actes usuels de l'autorité parentale concernant la personne de l'enfant sont accomplis valablement par l'un ou l'autre des époux. Ainsi le mari, comme la femme, peuvent sous leur seule signature inscrire l'enfant dans un établissement scolaire, l'autoriser à voyager hors de France ou à subir les épreuves du permis de conduire, etc....
 
@@ -96,21 +96,25 @@ La reconnaissance est possible, même si le père ou la mère de l'enfant nature
 
 Etablissement en justice de la paternité naturelle :
 
-Lorsque l'enfant n'a pas été reconnu par son père, la mère peut, dans de nombreux cas, demander au tribunal de déclarer la paternité. L'action doit être intentée dans les deux années de la naissance de l'enfant ou dans les deux années qui suivent la cessation du concubinage ou de la participation du père à l'entretien ou à l'éducation de l'enfant. L'action peut aussi être exercée par l'enfant, devenu majeur, dans les deux années qui suivent sa majorité.
+Lorsque l'enfant n'a pas été reconnu par son père, la mère peut demander au tribunal de déclarer la paternité. L'action doit être intentée dans les deux années de la naissance de l'enfant ou dans les deux années qui suivent la cessation du concubinage ou de la participation du père à l'entretien ou à l'éducation de l'enfant. L'action peut aussi être exercée par l'enfant, devenu majeur, dans les deux années qui suivent sa majorité.
 
 Lorsque l'action en recherche de paternité n'est pas possible, la mère peut réclamer en justice au père le versement de subsides (c'est-à-dire d'une pension alimentaire) pendant la minorité de l'enfant, si elle est en mesure de prouver l'existence de relations intimes pendant la période de la conception.
 
 Si la mère ne dispose pas de ressources suffisantes pour payer le frais de justice et les honoraires de l'avocat, elle peut demander le bénéfice de l'aide juridictionnelle.
 
+Etablissement de la filiation par la possession d'état :
+
+Lorsque la filiation n'est établie ni par reconnaissance ni par voie juridictionnelle, elle peut résulter de la possession d'état d'enfant naturel constatée par un acte de notoriété dressé par le juge des tutelles du domicile de l'enfant. Il appartient à ce juge d'ordonner mention du lien de filiation résultant de la possession d'état en marge de l'acte de naissance de l'intéressé.
+
 Nom de l'enfant naturel :
 
 L'enfant naturel prend le nom de celui de ses père et mère qui l'a reconnu le premier. S'il a été reconnu simultanément par l'un et l'autre, il prend le nom du père.
 
-Même s'il n'a été reconnu qu'en second lieu par son père, l'enfant pourra néanmoins prendre le nom de celui-ci, si ses parents en font la déclaration conjointe, devant le juge des tutelles, pendant la minorité de l'enfant.
+Même s'il n'a été reconnu qu'en second lieu par son père, l'enfant pourra néanmoins prendre le nom de celui-ci, si ses parents en font la déclaration conjointe, devant le juge aux affaires familiales, pendant la minorité de l'enfant.
 
-Celui qui a épousé une mère célibataire dont l'enfant n'a pas été reconnu par son père peut, s'il le souhaite, donner son nom à l'enfant : il suffit qu'il en fasse la déclaration, conjointement avec la mère, devant le juge des tutelles.
+Celui qui a épousé une mère célibataire dont l'enfant n'a pas été reconnu par son père peut, s'il le souhaite, donner son nom à l'enfant : il suffit qu'il en fasse la déclaration, conjointement avec la mère, devant le juge aux affaires familiales.
 
-Ces déclarations sont faites devant le juge des tutelles (juge d'instance) du domicile de l'enfant.
+Ces déclarations sont faites devant le juge aux affaires familiales (juge du tribunal de grande instance) du domicile de l'enfant.
 
 Le parent qui exerce l'autorité parentale peut décider qu'au nom de l'enfant sera adjoint, à titre d'usage, le nom de parent qui ne lui a pas transmis le sien.
 
@@ -118,17 +122,25 @@ Autorité parentale sur l'enfant naturel :
 
 L'autorité parentale est exercée sur l'enfant naturel par celui des père et mère qui l'a volontairement reconnu, s'il n'a été reconnu que par l'un d'eux.
 
-Si l'un et l'autre l'ont reconnu, l'autorité parentale est exercée par la mère. L'autorité parentale peut également être exercée en commun par le père et la mère s'ils en font la déclaration conjointe devant le juge des tutelles. En outre, sur la demande du père ou de la mère, le juge aux affaires matrimoniales peut toujours modifier les conditions de cet exercice et décider que l'autorité parentale sera exercée par l'un des deux parents ou par les deux parents. Ce magistrat peut accorder un droit de visite et de surveillance au parent qui n'exerce pas l'autorité parentale.
+Si l'un et l'autre parent ont reconnu l'enfant, l'autorité parentale est exercée automatiquement en commun lorsque la double reconnaissance a lieu avant le premier anniversaire de l'enfant et que les parents vivaient ensemble au moment où ils ont reconnu l'enfant.
+
+Afin de faciliter la justification auprès des tiers de l'exercice en commun de l'autorité parentale, le juge aux affaires familiales du lieu où réside l'enfant peut délivrer aux parents, ou à celui d'entre eux qui lui en fait la demande, un acte de communauté de vie constatant que le père et la mère de l'enfant vivaient ensemble lors de la reconnaissance.
+
+L'autorité parentale peut également être exercée en commun par le père et la mère s'ils en font la déclaration conjointe devant le juge aux affaires familiales du lieu où réside l'enfant.
+
+Dans les autres cas, l'autorité parentale est exercée par la mère.    En outre, sur la demande du père ou de la mère, le juge aux affaires familiales peut toujours modifier les conditions d'exercice de l'autorité parentale et décider que celle-ci sera exercée par l'un des deux parents ou par les deux. Ce magistrat peut accorder un droit de visite et de surveillance au parent qui n'exerce pas l'autorité parentale.
 
 Les père et mère ne peuvent, sauf motif grave, faire obstacle aux relations personnelles de l'enfant avec ses grands-parents.
 
 Légitimation de l'enfant naturel :
 
-L'enfant naturel a en principe les mêmes droits et les mêmes devoirs que l'enfant légitime. Toutefois s'il est né d'une personne mariée et d'un autre que son conjoint, ses droits successoraux peuvent subir certaines restrictions. Ces restrictions disparaissent si l'enfant vient à être légitimé.
+L'enfant naturel a en principe les mêmes droits et les mêmes devoirs que l'enfant légitime. Toutefois s'il est né d'une personne mariée et d'un autre que son conjoint, ses droits successoraux peuvent subir certaines restrictions. Ces restrictions disparaissent si l'enfant vient à être légitimé. La légitimation n'emporte le changement du patronyme des enfants majeurs que sous réserve de leur consentement.
 
 L'enfant naturel est légitimé :
 
-Soit par le mariage de ses parents : aucune formalité préalable n'est nécessaire. Il suffit que l'enfant ait été reconnu, avant le mariage ou au moment du mariage par l'un et l'autre de ses parents.    Soit par décision judiciaire : l'enfant peut être légitimité par décision du tribunal, sous certaines conditions, si le mariage de ses parents est impossible (exemple : l'un d'eux est marié, décédé, disparu ou dans l'impossibilité de manifester sa volonté).
+Soit par le mariage de ses parents : aucune formalité préalable n'est nécessaire. Il suffit que l'enfant ait été reconnu, avant le mariage ou au moment du mariage par l'un et l'autre de ses parents. La légitimation bénéficie aux enfants même décédés avant le mariage de leurs parents.
+
+Soit par décision judiciaire : l'enfant peut être légitimité par décision du tribunal, sous certaines conditions, si le mariage de ses parents est impossible (exemple : l'un d'eux est marié, décédé, disparu ou dans l'impossibilité de manifester sa volonté).
 
 N.B. - Les renseignements qui figurent ci-dessus ne concernent que la famille naturelle.
 
