@@ -8,7 +8,6 @@
 - [Décret n°60-664 du 4 juillet 1960](decret-n60-664-du-4-juillet-1960)
 - [Décret n°60-425 du 4 mai 1960](decret-n60-425-du-4-mai-1960)
 - [Décret n°60-1302 du 5 octobre 1960](decret-n60-1302-du-5-octobre-1960)
-- [Décret n°60-939 du 5 septembre 1960](decret-n60-939-du-5-septembre-1960)
 - [Décret n° 61-1362 du 6 décembre 1961](decret-n-61-1362-du-6-decembre-1961)
 - [Décret n°60-1089 du 6 octobre 1960](decret-n60-1089-du-6-octobre-1960)
 - [Décret n°60-848 du 6 août 1960](decret-n60-848-du-6-aout-1960)
