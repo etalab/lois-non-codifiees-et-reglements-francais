@@ -1,5 +1,11 @@
 # Article 1
 
-Sont agréées conformément aux dispositions de l'article L. 731-9 susvisé de la sécurité sociale, mais seulement jusqu'à concurrence d'un taux contractuel de cotisation de 4 p. 100, les dispositions de l'accord de retraites professionnel du 29 mai 1985 concernant les salariés cadres, non cadres et artistiques des entreprises de radios locales privées.
+En application du décret du 24 septembre 1985 visé ci-dessus, le montant de la taxe parafiscale perçue sur les graines oléagineuses au profit de l'Association nationale pour le développement agricole est fixé comme suit pour la campagne 1986-1987 :
 
-Cet agrément a pour effet de rendre obligatoires, jusqu'à concurrence d'un taux contractuel de cotisation de 4 p. 100, les dispositions de cet accord pour tous les employeurs et tous les travailleurs dans son champ d'application.
+Colza : 8,40 F par tonne ;
+
+Navette : 8,40 F par tonne ;
+
+Tournesol : 10,10 F par tonne ;
+
+Soja : 4,90 F par tonne.

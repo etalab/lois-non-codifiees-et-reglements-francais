@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère de l'économie, des finances et de la privatisation et le directeur de la sécurité sociale au ministère des affaires sociales et de l'emploi sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La taxe est assise [*assiette*] sur le poids à la réception des graines oléagineuses livrées par les producteurs aux intermédiaires agréés, ramené à la qualité type arrêtée, pour chaque campagne, par le Conseil des communautés économiques européennes, conformément aux dispositions de l'article 22 du règlement du 22 septembre 1966 modifié visé ci-dessus.
