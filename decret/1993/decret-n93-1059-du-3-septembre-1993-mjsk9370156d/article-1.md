@@ -1,3 +1,0 @@
-# Article 1
-
-Les fédérations sportives participant à l'exécution d'une mission de service public doivent, en application de l'article 16 de la loi du 16 juillet 1984 susvisée, adopter dans leur règlement intérieur ou dans un règlement disciplinaire particulier, établi conformément à l'article 30 des statuts types annexés au décret du 13 février 1985 susvisé, un règlement conforme au règlement figurant en annexe au présent décret. Est conforme le règlement ne comportant pas de dispositions contraires par leur objet ou leur effet aux dispositions du règlement type. Il peut toutefois comporter des dispositions complétant, précisant ou adaptant, compte tenu de la spécificité de la fédération, les dispositions du règlement type.
