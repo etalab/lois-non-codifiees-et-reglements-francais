@@ -1,0 +1,5 @@
+# Article 3
+
+En application de l'article L. 321-4 du code du travail, l'employeur qui envisage de conclure avec l'Etat une convention destinée à la mise en oeuvre de contrat de formation interne à la sidérurgie est tenu de consulter au préalable sur le principe de ce conventionnement le comité d'entreprise et, le cas échéant, les comités d'établissement, et de les informer des raisons économiques, financières ou techniques fondant les mesures envisagées ainsi que du nombre de contrats de formation interne prévus, du dispositif de formation et de la nature des actions qui seront engagées, des modalités d'information, d'évaluation des capacités professionnelles et d'orientation des agents concernés.
+
+Par ailleurs, l'employeur soumet pour avis à ces mêmes instances le projet de convention ainsi que ses avenants éventuels. L'avis sur le projet de convention ou d'avenant ainsi que la liste nominative des salariés dont l'entrée en contrat de conversion interne est envisagée sont transmis à l'autorité administrative compétente.
