@@ -1,0 +1,3 @@
+# Article 3
+
+Les entreprises exerçant à un degré quelconque une activité du ressort des industries visées à l'article 1er du présent arrêté qui désireraient répondre directement au service enquêteur devraient lever l'option prévue à l'article 4 de la loi du 7 juin 1951 susvisée en envoyant à ce service une lettre recommandée avec demande d'avis de réception précisant leur intention de répondre directement. Le délai prévu à l'article 4 de la loi du 7 juin 1951 précitée est fixé à trois mois. L'option peut être à nouveau exercée avant la fin de chaque année civile pour les entreprises déjà existantes. Pour les entreprises nouvelles, le délai de trois mois court à compter de leur création.
