@@ -12,7 +12,7 @@ d) Le droit du locataire et du fermier en cas de bail d'une durée de plus de do
 
 e) Le paiement anticipé ou la cession d'une somme équivalant à au moins trois années de loyers ou de fermages non échus ;
 
-f) Les restitutions au droit de disposer insérées dans un acte d'aliénation ou découlant de tous autres actes, tels que promesses de vente, legs ou donations sous condition ou avec charge de restitution en vertu des articles 1048 et 1049 du code civil, le droit de retour conventionnel prévu par les articles 951 et 952 du code civil, le droit de réméré ainsi que celles résultant de la saisie immobilière ou de toutes autres décisions judiciaires ;
+f) Les restrictions au droit de disposer insérées dans un acte d'aliénation ou découlant de tous autres actes, tels que promesses de vente, legs ou donations sous condition ou avec charge de restitution en vertu des articles 1048 et 1049 du code civil, le droit de retour conventionnel prévu par les articles 951 et 952 du code civil, le droit de réméré ainsi que celles résultant de la saisie immobilière ou de toutes autres décisions judiciaires ;
 
 g) Tout droit à la résolution d'un contrat synallagmatique ;
 
