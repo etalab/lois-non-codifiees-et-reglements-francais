@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur du budget au ministère de l'économie et des finances est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et prendra effet au 1er mars 1982.
+Le centre d'observation et de prévision conduit ses études en liaison avec les services placés sous l'autorité du ministre du commerce extérieur et les administrations mises à sa disposition.

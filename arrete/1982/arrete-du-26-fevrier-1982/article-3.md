@@ -1,3 +1,5 @@
 # Article 3
 
-L'arrêté du 10 mars 1981 fixant le taux des indemnités forfaitaires de déplacement prévues aux articles 28 et 29 du décret n° 66-619 du 10 août 1966 modifié est abrogé.
+Le chef et les membres du centre d'observation et de prévision sont nommés par le ministre du commerce extérieur.
+
+A la demande du ministre, le centre d'observation et de prévision peut solliciter le concours de personnalités extérieures choisies en raison de leur compétence.
