@@ -1,3 +1,0 @@
-# Article 12
-
-Lorsqu'un nom de région ou de localité constitue une appellation [*d'origine*] désignant un produit qui a un droit exclusif à cette appellation, les propriétaires, viticulteurs, négociants ou commerçants résidant dans cette région ou localité, quand ils mettent en vente ou vendent un produit n'ayant pas droit à ladite appellation, ne peuvent faire figurer sur leurs étiquettes, marques, factures, papiers de commerce, emballages et récipients, le nom de ladite région ou la localité qu'à la condition de le faire précéder des mots "propriétaire à", "viticulteur à", "négociant à" ou "commerçant à", suivie de l'indication du département où est située la région ou la localité, le tout imprimé en caractères identiques.
