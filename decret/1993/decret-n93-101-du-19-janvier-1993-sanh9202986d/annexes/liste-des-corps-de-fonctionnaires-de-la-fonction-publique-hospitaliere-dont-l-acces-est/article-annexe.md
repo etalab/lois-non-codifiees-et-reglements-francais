@@ -13,3 +13,19 @@ Corps des personnels de rééducation de la fonction publique hospitalière (dé
 Corps des personnels médico-techniques de la fonction publique hospitalière (décret n° 89-613 du 1er septembre 1989).
 
 Corps des aides-soignants et des agents des services hospitaliers de la fonction publique hospitalière (décret n° 89-241 du 18 avril 1989).
+
+Corps des cadres socio-éducatifs de la fonction publique hospitalière (décret n° 93-651 du 26 mars 1993).
+
+Corps des assistants socio-éducatifs de la fonction publique hospitalière (décret n° 93-652 du 26 mars 1993).
+
+Corps des conseillers en économie sociale et familiale de la fonction publique hospitalière (décret n° 93-653 du 26 mars 1993).
+
+Corps des éducateurs techniques spécialisés de la fonction publique hospitalière (décret n° 93-655 du 26 mars 1993).
+
+Corps des animateurs de la fonction publique hospitalière (décret n° 93-654 du 26 mars 1993).
+
+Corps des éducateurs de jeunes enfants de la fonction publique hospitalière (décret n° 93-656 du 26 mars 1993).
+
+Corps des moniteurs-éducateurs de la fonction publique hospitalière (décret n° 93-657 du 26 mars 1993).
+
+Corps des moniteurs d'atelier de la fonction publique hospitalière (décret n° 93-658 du 26 mars 1993).
