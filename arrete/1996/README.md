@@ -279,6 +279,8 @@
 - [Arrêté du 11 mars 1996 (ENVP9540331A)](arrete-du-11-mars-1996-envp9540331a)
 - [Arrêté du 11 mars 1996 (ENVP9540332A)](arrete-du-11-mars-1996-envp9540332a)
 - [Arrêté du 11 mars 1996 (FCEC9610061A)](arrete-du-11-mars-1996-fcec9610061a)
+- [Arrêté du 12 août 1996 (ECOR9605012A)](arrete-du-12-aout-1996-ecor9605012a)
+- [Arrêté du 12 août 1996 (ECOR9605013A)](arrete-du-12-aout-1996-ecor9605013a)
 - [Arrêté du 12 avril 1996 (MCCI9600292A)](arrete-du-12-avril-1996-mcci9600292a)
 - [Arrêté du 12 avril 1996 (MENU9601080A)](arrete-du-12-avril-1996-menu9601080a)
 - [Arrêté du 12 avril 1996 (MENU9601111A)](arrete-du-12-avril-1996-menu9601111a)

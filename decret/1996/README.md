@@ -269,6 +269,7 @@
 - [Décret n°96-541 du 14 juin 1996 (MCCX9500188D)](decret-n96-541-du-14-juin-1996-mccx9500188d)
 - [Décret n°96-551 du 14 juin 1996 (TASS9620703D)](decret-n96-551-du-14-juin-1996-tass9620703d)
 - [Décret n°96-721 du 14 août 1996 (TASE9611200D)](decret-n96-721-du-14-aout-1996-tase9611200d)
+- [Décret n°96-725 du 14 août 1996 (TAST9610870D)](decret-n96-725-du-14-aout-1996-tast9610870d)
 - [Décret n°97-1046 du 14 novembre 1997 (FPPA9700127D)](decret-n97-1046-du-14-novembre-1997-fppa9700127d)
 - [Décret n°97-1047 du 14 novembre 1997 (FPPA9700125D)](decret-n97-1047-du-14-novembre-1997-fppa9700125d)
 - [Décret n°96-402 du 14 mai 1996 (INTA9600103D)](decret-n96-402-du-14-mai-1996-inta9600103d)
