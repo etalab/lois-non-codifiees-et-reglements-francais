@@ -288,6 +288,7 @@
 - [Décret n°2004-720 du 15 juillet 2004 (INTC0400186D)](decret-n2004-720-du-15-juillet-2004-intc0400186d)
 - [Décret du 16 juillet 2004 (AGRP0401056D)](decret-du-16-juillet-2004-agrp0401056d)
 - [Décret n°2002-555 du 16 avril 2002 (MENS0200912D)](decret-n2002-555-du-16-avril-2002-mens0200912d)
+- [Décret n°2003-1009 du 16 octobre 2003 (MENF0301911D)](decret-n2003-1009-du-16-octobre-2003-menf0301911d)
 - [Décret n°2004-155 du 16 février 2004 (SANH0420212D)](decret-n2004-155-du-16-fevrier-2004-sanh0420212d)
 - [Décret n°2004-156 du 16 février 2004 (SOCS0420263D)](decret-n2004-156-du-16-fevrier-2004-socs0420263d)
 - [Décret n°2004-157 du 16 février 2004 (BUDB0360039D)](decret-n2004-157-du-16-fevrier-2004-budb0360039d)
