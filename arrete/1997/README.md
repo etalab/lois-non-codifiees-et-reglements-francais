@@ -310,7 +310,6 @@
 - [Arrêté du 10 février 1997 (MENP9700195A)](arrete-du-10-fevrier-1997-menp9700195a)
 - [Arrêté du 10 janvier 1997 (BUDB9730001A)](arrete-du-10-janvier-1997-budb9730001a)
 - [Arrêté du 10 janvier 1997 (MENL9603000A)](arrete-du-10-janvier-1997-menl9603000a)
-- [Arrêté du 10 janvier 1997 (TASS9720089A)](arrete-du-10-janvier-1997-tass9720089a)
 - [Arrêté du 10 juillet 1996 (TASH9622412A)](arrete-du-10-juillet-1996-tash9622412a)
 - [Arrêté du 10 juillet 1997 (MCCI9700601A)](arrete-du-10-juillet-1997-mcci9700601a)
 - [Arrêté du 10 juillet 1997 (MESO9710703A)](arrete-du-10-juillet-1997-meso9710703a)

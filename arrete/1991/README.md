@@ -11,7 +11,6 @@
 - [Arrêté du 1 février 1991 (ECOT9110107A)](arrete-du-1-fevrier-1991-ecot9110107a)
 - [Arrêté du 1 février 1991 (ECOT9113421A)](arrete-du-1-fevrier-1991-ecot9113421a)
 - [Arrêté du 1 février 1991 (EQUC9100179A)](arrete-du-1-fevrier-1991-equc9100179a)
-- [Arrêté du 1 février 1991 (SPSS9100419A)](arrete-du-1-fevrier-1991-spss9100419a)
 - [Arrêté du 1 juillet 1991 (ECOD9120018A)](arrete-du-1-juillet-1991-ecod9120018a)
 - [Arrêté du 1 juillet 1991 (EQUS9101173A)](arrete-du-1-juillet-1991-equs9101173a)
 - [Arrêté du 1 juillet 1991 (EQUT9101316A)](arrete-du-1-juillet-1991-equt9101316a)
