@@ -1,10 +1,10 @@
 # Article 6
 
-Le conseil d'administration comprend vingt-cinq membres :
+Le conseil d'administration comprend trente membres, dont :
 
-a) Neuf membres de droit :
+a) Dix membres de droit :
 
-- cinq représentants de l'Etat désignés par le ministre chargé de l'agriculture dont trois sur propositions respectives des ministres chargés de la culture, de l'environnement et de l'équipement ;
+- six représentants de l'Etat désignés par le ministre de l'agriculture, dont quatre sur proposition des ministres chargés de la culture, de l'environnement, de l'enseignement supérieur et de l'équipement ;
 
 - le président du conseil régional d'Ile-de-France ou son représentant ;
 
@@ -12,18 +12,18 @@ a) Neuf membres de droit :
 
 - le maire de la commune de Versailles ou son représentant ;
 
-- le président de l'Etablissement public national en charge du château de Versailles ou son représentant.
+- le président de l'Etablissement public du musée et du domaine national de Versailles ou son représentant ;
 
-b) Cinq personnalités qualifiées représentatives des activités économiques ou culturelles intéressées par les missions de l'école nommées par le ministre chargé de l'agriculture.
+b) Cinq personnalités qualifiées représentatives des activités économiques, scientifiques et culturelles intéressées par les missions de l'école, désignées par le ministre de l'agriculture, dont quatre sur proposition respective des ministres chargés de la culture, de l'environnement, de l'enseignement supérieur et de l'équipement ;
 
-c) Onze membres élus :
+c) Quinze membres élus :
 
-Trois représentants des professeurs régis par le décret du 21 février 1992 susvisé ou personnels assimilés ;
+1° Quatre représentants des professeurs régis par le décret du 21 février 1992 ;
 
-Un représentant des maîtres de conférences régi par le décret du 21 février 1992 susvisé ou personnel assimilé ;
+2° Deux représentants des maîtres de conférences régis par le décret du 21 février 1992 ;
 
-Deux représentants des autres personnels enseignants ;
+3° Deux représentants des autres enseignants ;
 
-Trois représentants des usagers ;
+4° Trois représentants des élèves ;
 
-Deux représentants des personnels administratifs, ingénieurs, techniques, ouvriers et de service.
+5° Quatre représentants des personnels administratifs, des ingénieurs et des personnels techniques de formation et de recherche régis par le décret n° 95-370 du 6 avril 1995 fixant les dispositions statutaires applicables aux ingénieurs et aux personnels techniques de formation et de recherche du ministère de l'agriculture et de la pêche.

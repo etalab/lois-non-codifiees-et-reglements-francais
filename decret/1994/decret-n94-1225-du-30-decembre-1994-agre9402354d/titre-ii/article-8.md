@@ -16,6 +16,8 @@ Le conseil d'administration délibère notamment sur :
 
 - les emprunts ;
 
-- les actions en justice et les transactions.
+- les actions en justice et les transactions ;
+
+- la prise de participations et la création de filiales.
 
 Il nomme une commission composée de membres du conseil aux fins de contrôler les élections des représentants des personnels et des élèves au sein des différents conseils de l'école.

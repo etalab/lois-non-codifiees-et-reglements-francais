@@ -1,15 +1,21 @@
 # Article 10
 
-Le conseil scientifique, technique et artistique comprend quinze membres :
+Le conseil de l'enseignement et de la recherche comprend vingt membres :
 
-a)Le directeur de l'école, président ;
+a) Le directeur de l'école, président ;
 
-b)Huit personnalités nommées par le ministre chargé de l'agriculture en raison de leurs compétences dans les domaines de formation de l'école ;
+b) Dix personnalités qualifiées représentatives des activités économiques, scientifiques ou culturelles intéressées par les missions de l'école nommées par arrêté du ministre de l'agriculture dont deux sur proposition respective de chacun des ministres chargés de la culture, de l'environnement et de l'équipement et un sur proposition respective de chacun des ministres chargés de l'enseignement supérieur et de la recherche ;
 
-c)Six membres élus :
+c) Neuf membres élus :
 
-Trois représentants des professeurs et des autres personnes qui sont habilitées à diriger des recherches ;
+1° Trois représentants des professeurs ;
 
-Deux représentants des autres personnels enseignants ;
+2° Deux représentants des maîtres de conférences ;
 
-Un représentant des élèves de troisième cycle.
+3° Un représentant des autres enseignants ;
+
+4° Trois représentants des élèves, dont un représentant au moins des élèves de troisième cycle.
+
+Le directeur peut se faire assister aux séances par toute personne de son choix.
+
+Le conseil de l'enseignement et de la recherche est convoqué par le directeur de l'école qui établit l'ordre du jour de ses réunions.

@@ -1,3 +1,3 @@
 # Article 4
 
-L'école est structurée en départements et, en tant que de besoin, en services. Les départements et les services sont créés sur proposition du directeur par le conseil d'administration après avis du conseil scientifique, technique et artistique.
+L'école est dirigée par un directeur et administrée par un conseil d'administration assisté d'un conseil de l'enseignement et de la recherche et d'un conseil intérieur.

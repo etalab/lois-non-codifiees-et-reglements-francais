@@ -1,6 +1,6 @@
 # Article 5
 
-Le directeur est nommé par arrêté du ministre chargé de l'agriculture après avis du conseil d'administration de l'école et dans les conditions fixées par le décret du 25 novembre 1980 susvisé.
+Le directeur est nommé par arrêté conjoint du ministre de l'agriculture et du ministre chargé de l'enseignement supérieur après avis du conseil d'administration de l'école et dans les conditions fixées par le décret du 25 novembre 1980 susvisé.
 
 Il assure le fonctionnement de l'établissement en application des délibérations du conseil d'administration.
 
@@ -15,3 +15,5 @@ Il est ordonnateur des dépenses et recettes de l'école et la représente dans 
 Il peut déléguer sa signature au secrétaire général et au directeur des études.
 
 Il organise les élections aux différents conseils.
+
+En cas d'absence du directeur, le secrétaire général est appelé à le suppléer. En cas de décès ou d'empêchement du directeur, l'intérim est assuré dans les conditions prévues à l'article R. 811-102 du code rural.
