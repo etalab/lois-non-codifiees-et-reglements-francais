@@ -1,0 +1,5 @@
+# Article 1
+
+A titre transitoire et pendant une période de quatre ans à compter de la date d'entrée en vigueur du présent décret, les personnels titulaires relevant du ministère chargé de l'éducation nationale, en fonctions au 31 août 1990 ou nommés ultérieurement dans une école normale primaire, une école normale nationale d'apprentissage ou au centre de formation des professeurs de l'enseignement technique, peuvent être recrutés par la voie de concours spéciaux, dans la limite des emplois créés à cet effet par les lois de finances, selon les modalités prévues aux articles 22, 26, 27, 28, 29 et 30 du décret du 6 juin 1984 susvisé en qualité de maîtres de conférences de 2e classe.
+
+Les intéressés doivent être titulaires du doctorat d'Etat, du doctorat prévu par l'article 16 de la loi du 26 janvier 1984 susvisée, du doctorat de troisième cycle ou du diplôme de docteur-ingénieur et justifier d'au moins quatre ans de fonctions d'enseignement ou de direction dans l'une des écoles ou centres mentionnés au premier alinéa ou dans un institut universitaire de formation des maîtres.
