@@ -2,7 +2,7 @@
 
 Il est statué sur les demandes d'agrément présentées pour l'application du troisième alinéa de l'article 44 quater du code général des impôts :
 
-1. Par le ministre de l'économie, des finances et du budget, après avis du conseil de direction du fonds de développement économique et social :
+1. Par le ministre de l'économie, des finances et du budget, après avis du comité des investissements à caractère économique et social :
 
 - pour les opérations concernant des programmes industriels prévoyant la réalisation de plus de 25 millions de francs d'investissements hors taxes ou engagés par des entreprises réalisant un chiffre d'affaires supérieur à 500 millions de francs ou dont le capital est détenu à plus de 50 p. 100 par une entreprise dont le chiffre d'affaires consolidé dépasse 500 millions de francs ;
 

@@ -1,5 +1,12 @@
-# Arrêté du 14 mars 1985 portant répartition des sièges attribués aux organisations syndicales au sein de la commission mixte paritaire commune à la fonction publique de l'Etat et à la fonction publique territoriale.
+# Arrêté du 14 mars 1985 relatif aux épreuves de vérification des connaissances prévues à l'article 3 du décret n° 84-710 du 17 juillet 1984 fixant les catégories de personnes habilitées à effectuer certains actes d'électroradiologie médicale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
+- [Annexes](annexes)
