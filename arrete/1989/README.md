@@ -297,7 +297,6 @@
 - [Arrêté du 21 juin 1989 (PTTT8900564A)](arrete-du-21-juin-1989-pttt8900564a)
 - [Arrêté du 21 mars 1989 (BUDF8900004A)](arrete-du-21-mars-1989-budf8900004a)
 - [Arrêté du 21 mars 1989 (INTD8900168A)](arrete-du-21-mars-1989-intd8900168a)
-- [Arrêté du 22 décembre 1988 (TRSS8800597A)](arrete-du-22-decembre-1988-trss8800597a)
 - [Arrêté du 22 février 1984](arrete-du-22-fevrier-1984)
 - [Arrêté du 22 janvier 1987 (DEFD8701044A)](arrete-du-22-janvier-1987-defd8701044a)
 - [Arrêté du 22 juin 1989 (AGRS8901128A)](arrete-du-22-juin-1989-agrs8901128a)
