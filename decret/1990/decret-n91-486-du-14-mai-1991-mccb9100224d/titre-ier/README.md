@@ -4,6 +4,7 @@
 - [CHAPITRE Ier : Dispositions statutaires relatives au corps des ingénieurs de recherche](chapitre-ier)
 - [Article 2](article-2.md)
 - [CHAPITRE II : Dispositions statutaires relatives au corps des ingénieurs d'études](chapitre-ii)
+- [CHAPITRE II bis : Dispositions statutaires relatives au corps des assistants ingénieurs](chapitre-ii-bis)
 - [Article 3](article-3.md)
 - [CHAPITRE III : Dispositions statutaires relatives au corps des techniciens de la recherche](chapitre-iii)
 - [Article 4](article-4.md)

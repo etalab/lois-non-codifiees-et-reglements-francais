@@ -27,6 +27,7 @@
 - [Loi n° 91-1406 du 31 décembre 1991 (SPSX9100176L)](loi-n-91-1406-du-31-decembre-1991-spsx9100176l)
 - [Loi n° 91-1407 du 31 décembre 1991 (AGRX9100106L)](loi-n-91-1407-du-31-decembre-1991-agrx9100106l)
 - [Loi n° 91-647 du 10 juillet 1991 (JUSX9100049L)](loi-n-91-647-du-10-juillet-1991-jusx9100049l)
+- [Loi n° 92-1017 du 24 septembre 1992 (MAEX9200086L)](loi-n-92-1017-du-24-septembre-1992-maex9200086l)
 - [Loi n° 92-108 du 3 février 1992 (INTX9100157L)](loi-n-92-108-du-3-fevrier-1992-intx9100157l)
 - [Loi n° 92-11 du 4 janvier 1992 (JUSX9100166L)](loi-n-92-11-du-4-janvier-1992-jusx9100166l)
 - [Loi n° 92-125 du 6 février 1992 (INTX9000102L)](loi-n-92-125-du-6-fevrier-1992-intx9000102l)
