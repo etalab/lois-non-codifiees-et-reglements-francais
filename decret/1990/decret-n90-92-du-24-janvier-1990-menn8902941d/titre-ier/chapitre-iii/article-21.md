@@ -4,7 +4,7 @@ Des concours nationaux sont organisés pour chaque discipline par arrêté conjo
 
 Les candidats aux concours doivent, à la date de dépôt des candidatures :
 
-1° Etre titulaires de l'habilitation à diriger des recherches ou du doctorat d'Etat ;
+1° Etre titulaires de l'habilitation à diriger des recherches ou du doctorat d'Etat. Les diplômes et titres étrangers de niveau équivalent peuvent, pour l'accès à ces concours, être admis en dispense de cette habilitation ou de ce doctorat dans des conditions fixées par arrêté du ministre chargé de l'enseignement supérieur ;
 
 2° Etre maîtres de conférences des universités - praticiens hospitaliers des centres de soins, d'enseignement et de recherche dentaires ou professeurs du premier ou du deuxième grade de chirurgie dentaire - odontologistes des services de consultations et de traitements dentaires et justifier d'au moins trois années de fonctions en position d'activité, de détachement ou de délégation dans l'un de ces corps ;
 

@@ -9,3 +9,5 @@ Les intéressés ne peuvent être remplacés dans leur emploi qu'à titre tempor
 Le temps de délégation est pris en compte pour l'avancement et pour la constitution du droit à pension.
 
 L'arrêté prononçant la délégation précise le montant de la rémunération qui continue d'être servie, celle-ci ne pouvant en aucun cas être supérieure à la rémunération universitaire de l'intéressé ni inférieure aux retenues pour pension civile.
+
+La délégation peut en outre être prononcée auprès de l'Institut universitaire de France, en vue de l'exercice de fonctions de recherche, pour une période de deux ans renouvelable. L'intéressé conserve en ce cas sa rémunération universitaire et, selon le service fait, sa rémunération hospitalière.
