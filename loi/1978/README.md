@@ -7,4 +7,5 @@
 - [Loi n° 78-627 du 10 juin 1978](loi-n-78-627-du-10-juin-1978)
 - [Loi n° 78-731 du 1 juillet 1978](loi-n-78-731-du-1-juillet-1978)
 - [Loi n° 78-741 du 13 juillet 1978](loi-n-78-741-du-13-juillet-1978)
+- [Loi n° 78-753 du 17 juillet 1978](loi-n-78-753-du-17-juillet-1978)
 - [Loi n° 78-763 du 19 juillet 1978](loi-n-78-763-du-19-juillet-1978)

@@ -1,0 +1,7 @@
+# Article 1
+
+Le droit de toute personne à l'information est précisé et garanti par le présent titre en ce qui concerne la liberté d'accès aux documents administratifs.
+
+Sont considérés comme documents administratifs, au sens du présent titre, tous dossiers, rapports, études, comptes rendus, procès-verbaux, statistiques, directives, instructions, circulaires, notes et réponses ministérielles qui comportent une interprétation du droit positif ou une description des procédures administratives, avis, prévisions et décisions, qui émanent de l'Etat, des collectivités territoriales, des établissements publics ou des organismes de droit public ou privé chargés de la gestion d'un service public. Ces documents peuvent revêtir la forme d'écrits, d'enregistrements sonores ou visuels, de documents existant sur support informatique ou pouvant être obtenus par un traitement automatisé d'usage courant.
+
+Ne sont pas considérés comme documents administratifs, au sens du présent titre, les actes des assemblées parlementaires, les avis du Conseil d'Etat et des juridictions administratives, les documents de la Cour des comptes mentionnés à l'article L. 140-9 du code des juridictions financières et les documents des chambres régionales des comptes mentionnés à l'article L. 241-6 du même code, les documents d'instruction des réclamations adressées au Médiateur de la République et les documents préalables à l'élaboration du rapport d'accréditation des établissements de santé visé à l'article L. 710-5 du code de la santé publique.

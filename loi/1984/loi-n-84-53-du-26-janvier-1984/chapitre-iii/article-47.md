@@ -4,9 +4,9 @@ Par dérogation à l'article 41, peuvent être pourvus par la voie du recrutemen
 
 Directeur général des services et, lorsque l'emploi est créé, directeur général adjoint des services des départements et des régions ;
 
-Secrétaire général et directeur général des services techniques des communes de plus de 80000 habitants ;
+Directeur général des services et directeur général des services techniques des communes de plus de 80000 habitants ;
 
-Secrétaire général adjoint des communes de plus de 150000 habitants ;
+Directeur général adjoint des services des communes de plus de 150000 habitants ;
 
 Directeur des établissements publics dont les caractéristiques et l'importance le justifient. La liste de ces établissements est fixée par décret en Conseil d'Etat.
 
