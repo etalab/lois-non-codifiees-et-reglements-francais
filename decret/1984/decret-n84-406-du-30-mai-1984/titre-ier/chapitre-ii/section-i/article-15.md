@@ -1,6 +1,6 @@
 # Article 15
 
-Sont déclarés dans la demande d'immatriculation des sociétés [*mentions obligatoires*] :
+Sont déclarés dans la demande d'immatriculation des sociétés :
 
 A - En ce qui concerne la personne :
 
@@ -34,6 +34,6 @@ b) Le cas échéant, administrateurs, membres du directoire et du conseil de sur
 
 13° Les références des immatriculations secondaires éventuellement souscrites.
 
-B - En ce qui concerne l'établissement :
+Toutefois, lorsqu'une société commerciale dont le siège est situé à l'étranger est soumise à la législation d'un Etat membre de la Communauté économique européenne et revêt une des formes juridiques dont la liste figure en annexe au présent décret, sont seuls déclarés les renseignements prévus aux 1°, 2°, 7°, 10°, ainsi que le lieu et le numéro d'immatriculation de cette société sur un registre public.    Lorsqu'une société commerciale dont le siège est à l'étranger n'est pas soumise à la législation prévue à l'alinéa précédent, mais revêt une forme juridique comparable à celles qui sont visées dans cet alinéa, sont déclarés, outre les renseignements prévus aux 1° à 13°, la législation qui lui est applicable, ainsi que le lieu et le numéro de son immatriculation sur un registre public si la loi étrangère à laquelle cette société est soumise le prévoit.
 
-Les renseignements prévus au B de l'article 8 à l'exception de ceux prévus aux 5°, 6° et 7°, s'il s'agit d'une société non commerciale.
+B. - En ce qui concerne l'établissement, les renseignements prévus au B de l'article 8, à l'exception de ceux prévus aux 4°, 5°, 6°, 7°, s'il s'agit d'une société commerciale dont le siège est à l'étranger visée au deuxième alinéa et de ceux prévus aux 5°, 6°, 7°, s'il s'agit d'une société non commerciale.
