@@ -6,7 +6,7 @@ La juridiction [*compétente*] saisie peut seule ordonner que le condamné soit 
 
 Lorsque la juridiction [*compétente*] saisie n'a pas prononcé la reconduite à la frontière, l'administration doit délivrer immédiatement à l'intéressé une autorisation provisoire de séjour d'au moins six mois [*durée*]. Dans le cas où l'étranger aura été condamné à une peine d'emprisonnement, l'autorisation est délivrée pour une durée d'au moins six mois à compter de la fin de sa détention.
 
-En cas de récidive, la juridiction peut, en outre, prononcer l'interdiction du territoire français pendant une durée qui ne peut excéder un an [*durée*].
+lorsqu'elle prononce la peine prévue par l'alinéa deux ci-dessus la juridiction peut interdire au condamné de pénétrer ou de séjourner sur le territoire francais pendant une durée qui ne peut excéder trois ans.
 
 Dans tous les cas où un prévenu allègue l'existence d'une relation de travail au sens de l'article L. 341-6-1 du code du travail [*emploi irrégulier d'un étranger*], la juridiction doit consulter l'inspection du travail avant de statuer. Si elle estime cette relation établie, elle ajourne le prononcé de la peine pour une durée de six mois. L'administration doit alors délivrer à l'intéressé une autorisation provisoire, de séjour de six mois.
 
