@@ -1,0 +1,3 @@
+# Article 21
+
+Si le prestataire de services agréé commet une faute grave, et, notamment, des actes contraires aux dispositions de l'ordonnance du 26 mars 1982 et du présent décret, ou s'il manque à ses engagements à l'égard de détenteurs de chèques-vacances, son agrément au titre des chèques-vacances peut, sans préjudice des sanctions pénales, être suspendu par l'autorité compétente pour une durée maximale d'un an ou retiré, après que l'intéressé aura été invité à présenter des justifications et après avis de l'agence, s'il s'agit d'une décision ministérielle, ou de l'instance consultative régionale ou départementale compétente en matière de tourisme et de loisirs s'il s'agit d'une décision du commissaire de la République de la région ou du département.

@@ -1,0 +1,7 @@
+# Article 20
+
+La délivrance de l'agrément au titre des chèques-vacances est subordonnée au respect par les prestataires de services de la réglementation en vigueur et, notamment, du quatrième alinéa de l'article 1er de l'ordonnance du 26 mars 1982, ainsi qu'à des garanties de moralité et de solvabilité.
+
+Pour être agréés, les prestataires doivent communiquer à l'agence les pièces attestant soit qu'ils ont fait l'objet d'une reconnaissance de l'autorité publique conformément à des dispositions législatives ou réglementaires, dont la liste sera fixée par un arrêté conjoint du ministre de l'économie et des finances et du ministre du temps libre, soit qu'ils ont procédé à une déclaration réglementaire d'ouverture, soit qu'ils sont liés par contrat à une autorité publique, soit qu'ils adhèrent à une charte homologuée.
+
+A défaut, ils doivent adresser une demande d'agrément au commissaire de la République du département où se trouve leur domicile ou leur siège social. Selon que leurs prestations de services sont fournies dans le cadre du département, d'une ou de plusieurs régions, l'agrément sollicité leur est délivré sur rapport des services compétents de l'Etat, soit par le commissaire de la République, pour le département ou la région concernée, soit par un arrêté conjoint du ministre de l'économie et des finances et du ministre du temps libre, dans un délai d'un mois à compter de la date d'accusé de réception de la demande. La décision d'agrément est immédiatement communiquée à l'agence.
