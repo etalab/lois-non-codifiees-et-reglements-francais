@@ -11,3 +11,5 @@ Un arrêté du ministre de l'économie, des finances et de l'industrie, publié 
 - la nature et le montant des échanges de devises ou de taux d'intérêt, des achats ou des ventes d'options ou de contrats à terme sur titres d'Etat ;
 
 - l'encours des titres pris ou mis en pension à la fin du mois ainsi qu'en moyenne sur le mois.
+
+- le montant des emprunts sur le marché interbancaire et auprès des Etats de la zone euro à la fin du mois ainsi qu'en moyenne sur le mois.
