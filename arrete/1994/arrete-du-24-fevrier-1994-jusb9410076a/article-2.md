@@ -16,4 +16,4 @@ Les candidats doivent joindre à leur demande les pièces suivantes :
 
 7° Pour les candidats qui sollicitent l'application des dispositions légales ou réglementaires relatives au recul de la limite d'âge, toutes pièces justificatives.
 
-Les candidats doivent déposer leur demande accompagnée de toutes les pièces énumérées ci-dessus avant le 1er juillet de chaque année.
+Les candidats doivent déposer leur demande accompagnée de toutes les pièces énumérées ci-dessus avant le 15 avril de chaque année.

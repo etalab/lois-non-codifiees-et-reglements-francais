@@ -1,6 +1,6 @@
 # Article 4
 
-La commission consultative se réunit, au moins une fois par an, sur la convocation de son président.
+La commission consultative se réunit, au moins deux fois par an, sur la convocation de son président.
 
 Elle arrête son règlement intérieur.
 
