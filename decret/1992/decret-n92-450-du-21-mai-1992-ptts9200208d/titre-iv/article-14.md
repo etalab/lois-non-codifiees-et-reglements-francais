@@ -1,3 +1,0 @@
-# Article 14
-
-Les séances du comité technique paritaire ne sont pas publiques.
