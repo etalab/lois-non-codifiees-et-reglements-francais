@@ -4,6 +4,8 @@ I. - Actions nationales
 
 A. - Vaccination contre la grippe en faveur des assurés sociaux répondant à des critères d'âge ou atteints d'une affection de longue durée présentant une indication spécifique pour ce type de vaccination.
 
+Vaccination contre l'hépatite B en faveur des assurés sociaux répondant à des critères d'âge.
+
 B. - Examens de santé conformément aux dispositions des articles L. 321-3 et R. 321-5 du code de la sécurité sociale ainsi que de l'arrêté du 20 juillet 1992.
 
 C. - Prévention des maladies génétiques.

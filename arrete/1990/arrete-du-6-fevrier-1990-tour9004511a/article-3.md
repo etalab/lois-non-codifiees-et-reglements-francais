@@ -1,22 +1,18 @@
 # Article 3
 
-Sont nommés membres de la commission de terminologie du tourisme :
+Sont nommés membres de la commission de terminologie du tourisme les membres de droit mentionnés à l'article 5 du décret n° 86-439 du 11 mars 1986 susvisé :
 
-Des membres de droit mentionnés à l'article 5 du décret n° 86-439 du 11 mars 1986 susvisé :
+- le représentant du ministre de l'éducation nationale ;
 
-- le représentant du ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports ;
+- le représentant du ministre de la jeunesse et des sports ;
 
-- le représentant du ministre de la recherche et de la technologie ;
+- le représentant du ministre de l'enseignement supérieur et de la recherche ;
 
 - le délégué général à la langue française ou son représentant ;
 
-- le directeur des industries touristiques ou son représentant ;
-
 - le président de l'Association française de normalisation ou son représentant ;
 
-- le président du Conseil international de la langue française ou son représentant ;
-
-- le secrétaire général de l'agence de coopération culturelle et technique ou son représentant ;
+- le secrétaire général de l'Agence de coopération culturelle et technique ou son représentant ;
 
 - l'ambassadeur du Canada à Paris ou son représentant ;
 
@@ -24,54 +20,72 @@ Des membres de droit mentionnés à l'article 5 du décret n° 86-439 du 11 mars
 
 - le délégué général de la communauté française de Belgique ou son représentant ;
 
-- le délégué général du Québec ou son représentant.
+- le délégué général du Québec ou son représentant ;
+
+- le président du Conseil international de la langue française ou son représentant ;
+
+- le directeur du tourisme ou son représentant ;
+
+- le directeur de l'Agence française d'ingénierie touristique ou son représentant ;
+
+- le directeur de Maison de la France ou son représentant ;
 
 Des personnalités dont les critères de choix sont définis à l'article 5 du décret n° 86-439 du 11 mars 1986 susvisé :
 
-Mme Audouard (Françoise), attachée de presse de la Fédération nationale des offices de tourisme et syndicats d'initiative.
+M. Barré (Josquin), chroniqueur dans une revue touristique ;
 
-M. Bonneau (Michel), président de l'université d'Angers.
+M. Berville (Pierre), directeur d'une agence de publicité ;
 
-M. Boyer (Marc), professeur d'université.
+M. Blaha (François), professeur de lettres en section Tourisme ;
 
-M. Breville (Jean), président du Syndicat national des chaînes.
+M. Boret (Alain), secrétaire général de l'Association française d'experts scientifiques du tourisme (A.F.E.S.T.), professeur de tourisme ;
 
-M. Cazes (Georges), président de l'Association française des experts scientifiques du tourisme.
+M. Boyer (Marc), professeur d'université ;
 
-M. Cenat (Jean-Luc), inspecteur général de l'éducation nationale.
+M. Bréville (Jean), président du Groupement national des chaînes hôtelières ;
 
-M. Faujas (Alain), journaliste.
+Mme Chaspoul (Claudine), directeur de publication d'une revue touristique ;
 
-M. Ferniot (Jean), journaliste.
+M. Dominique (Jean), journaliste, chroniqueur de radio ;
 
-M. Feutre (Jean-Philippe), président de la chambre nationale de la restauration et de l'hôtellerie.
+M. Ducruet (Hervé), attaché de direction au Syndicat national des agences de voyages (S.N.A.V.) ;
 
-Mme Franjou (Jacqueline), chargé de mission auprès du président d'Air Inter.
+M. Duval (Jean-Pierre), délégué général de l'union de la publicité extérieure.
 
-Mme Gendry (Nicole), responsable de la cellule Langue française au Conseil supérieur de l'audiovisuel.
+M. Fantapié (Alain), professeur d'université, directeur du télé-enseignement de l'université Paris-III ;
 
-M. Gensbittel (Michel-Henri), ingénieur de recherche au Centre d'études et de recherches sur les qualifications.
+M. Ferniot (Jean), journaliste, écrivain ;
 
-M. Hollier (Robert), directeur de la commission européenne du tourisme.
+M. Feutré (Alain-Philippe), président du syndicat français de l'hôtellerie ;
 
-M. Houze (Roger-Alain), journaliste d'une chaîne de télévision.
+Mme Franjou (Jacqueline), conseiller du président chargé de la communication de Visit France ;
 
-M. Lepape (Jean), délégué général du Syndicat national des agents de voyages.
+M. Froidure (Jean), doyen honoraire de la faculté des langues de l'université de Toulouse-Le Mirail ;
 
-M. Leroux (Rémy), président de la Fédération internationale des journalistes et écrivains du tourisme.
+Mme Gendry (Nicole), responsable de la cellule Langue française au Conseil supérieur de l'audiovisuel ;
 
-M. Murat (Jean-Claude), président d'Euromic.
+M. Herbeth (Alain), directeur de publication d'un journal touristique ;
 
-M. Planque (Vincent), inspecteur général honoraire du tourisme.
+M. Hollier (Robert), directeur de la Commission européenne du tourisme ;
 
-Mme Pollefoort (Christine), journaliste d'une radio.
+M. Hugueny (Hervé), journaliste dans un hebdomadaire touristique ;
 
-M. Raynal (Bernard), directeur adjoint de la fédération des pays d'accueil.
+Mme Martin (Colette), consultante dans un groupe de communication ;
 
-M. Raynouard (Yves), président du directoire de la revue Espaces.
+M. Murat (Jean-Claude), conseil en tourisme ;
 
-M. Saint Bris (Gonzague), journaliste.
+M. Planque (Vincent), inspecteur général honoraire ;
 
-M. The (Jacques), président de la Fédération nationale de l'industrie hôtelière.
+M. Reynal (Bernard), administrateur d'un Institut national de formation professionnelle ;
+
+Mme Robert (Arlette), inspecteur général de l'éducation nationale ;
+
+Mme Samuel (Nicole), chercheur au C.N.R.S. ;
+
+M. Serin (Guy), vice-président de la Fédération nationale des offices de tourisme et syndicats d'initiative ;
+
+M. Theumann (Bernard), chef du service Tourisme à l'assemblée des chambres françaises de commerce ;
+
+Mme Vatov (Marie-Christine), chef des informations d'un journal touristique.
 
 En outre, la commission pourra, en tant que de besoin, associer à ses travaux des personnalités choisies en raison de leur compétence, des représentants des milieux professionnels et des usagers qui utilisent le vocabulaire dont l'étude lui est confiée.
