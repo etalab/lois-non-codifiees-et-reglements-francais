@@ -1,0 +1,5 @@
+# Article 27
+
+Les sociétés coopératives artisanales peuvent constituer entre elles des unions. Ces unions [*définition - attributions*] ont pour objet la réalisation de toutes opérations et la prestation de tous services susceptibles de contribuer directement ou indirectement au développement des activités artisanales de leurs associés ainsi que l'exercice de tout ou partie de ces activités.
+
+Ces unions peuvent prendre des participations [*financières*] dans des sociétés coopératives artisanales ou d'autres sociétés ayant la forme commerciale ou un objet commercial. Toutefois, les prises de participation des unions de sociétés coopératives artisanales dans des personnes morales dont l'activité principale n'est pas identique à l'activité de la société participante ou n'est pas complémentaire de cette activité sont soumises à une autorisation administrative.    La constitution d'une union de sociétés coopératives artisanales ne peut avoir pour objet de porter atteinte au caractère coopératif des sociétés coopératives artisanales associées de cette union.

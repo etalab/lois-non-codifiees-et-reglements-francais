@@ -24,6 +24,7 @@
 - [Loi n° 83-634 du 13 juillet 1983](loi-n-83-634-du-13-juillet-1983)
 - [Loi n° 83-635 du 13 juillet 1983](loi-n-83-635-du-13-juillet-1983)
 - [Loi n° 83-636 du 13 juillet 1983](loi-n-83-636-du-13-juillet-1983)
+- [Loi n° 83-657 du 20 juillet 1983](loi-n-83-657-du-20-juillet-1983)
 - [Loi n° 83-8 du 7 janvier 1983](loi-n-83-8-du-7-janvier-1983)
 - [Loi n°82-1172 du 31 décembre 1982](loi-n82-1172-du-31-decembre-1982)
 - [Loi n°83-549 du 30 juin 1983](loi-n83-549-du-30-juin-1983)
