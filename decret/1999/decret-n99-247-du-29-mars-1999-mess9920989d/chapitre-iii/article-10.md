@@ -4,13 +4,15 @@ Le conseil de surveillance du fonds est composé comme suit :
 
 1° Trois personnalités qualifiées dont le président ;
 
-2° Trois représentants de l'Etat :
+2° Quatre représentants de l'Etat :
 
 - un représentant du ministre chargé de la sécurité sociale ;
 
 - un représentant du ministre chargé du budget ;
 
 - un représentant du ministre chargé du travail ;
+
+- un représentant du ministre chargé de l'agriculture ;
 
 3° Huit représentants des organisations siégeant à la commission des accidents du travail et des maladies professionnelles dont le président de celle-ci :
 
@@ -28,7 +30,9 @@ Le conseil de surveillance du fonds est composé comme suit :
 
 - un représentant de la Confédération française des travailleurs chrétiens (CFTC) ;
 
-- un représentant de la Confédération française de l'encadrement Confédération générale des cadres (CFE-CGC).
+- un représentant de la Confédération française de l'encadrement Confédération générale des cadres (CFE-CGC) ;
+
+4° Deux membres titulaires et deux suppléants désignés par arrêté conjoint du ministre chargé de la sécurité sociale et du ministre chargé de l'agriculture sur proposition du conseil central d'administration de la Mutualité sociale agricole.
 
 Le président et les membres du conseil sont désignés pour quatre ans par arrêté du ministre chargé de la sécurité sociale. A l'exception du président de la commission des accidents du travail et des maladies professionnelles, les membres visés au 3° et leurs suppléants sont désignés sur proposition de leur organisation.
 
