@@ -8,7 +8,7 @@ La commission départementale d'orientation de l'agriculture instituée par l'ar
 
 - le trésorier-payeur général ou son représentant ;
 
-- le président de la chambre d'agriculture ou son représentant ;    - le président de la caisse de mutualité sociale agricole ou son représentant ;
+- le président de la chambre d'agriculture ou son représentant ;    - le président de la caisse de mutualité sociale agricole ou son représentant ou, dans les départements d'outre-mer, le président de la caisse générale de sécurité sociale ou son représentant ;
 
 - six représentants des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 1er du décret du 28 février 1990 susvisé, dont au moins un représentant de chacune d'elles ;
 
@@ -23,3 +23,5 @@ La commission départementale d'orientation de l'agriculture instituée par l'ar
 - un représentant de la propriété forestière ;
 
 - deux personnes qualifiées en matière économique.
+
+Dans les départements d'outre-mer, le président du conseil régional ou son représentant est également membre de la commission.

@@ -13,3 +13,5 @@ Sont membres de toutes les sections :
 - le président de la chambre d'agriculture ou son représentant ;    - les six représentants des organisations syndicales d'exploitants agricoles à vocation générale mentionnées à l'article 1er du présent décret.
 
 Conformément à l'avis de la commission départementale d'orientation de l'agriculture, le préfet désigne les autres membres de la commission appelés à siéger dans chaque section en fonction de son objet.
+
+Dans les départements d'outre-mer, le président du conseil régional ou son représentant est également membre de toutes les sections.
