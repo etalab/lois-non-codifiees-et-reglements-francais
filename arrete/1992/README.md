@@ -533,7 +533,6 @@
 - [Arrêté du 14 septembre 1992 (SPSS9201563A)](arrete-du-14-septembre-1992-spss9201563a)
 - [Arrêté du 14 mai 1992 (JUSB9210150A)](arrete-du-14-mai-1992-jusb9210150a)
 - [Arrêté du 14 mai 1992 (TEFE9204798A)](arrete-du-14-mai-1992-tefe9204798a)
-- [Arrêté du 15 avril 1992 (ACVA9210039A)](arrete-du-15-avril-1992-acva9210039a)
 - [Arrêté du 15 avril 1992 (ACVA9210040A)](arrete-du-15-avril-1992-acva9210040a)
 - [Arrêté du 15 avril 1992 (ACVA9210041A)](arrete-du-15-avril-1992-acva9210041a)
 - [Arrêté du 15 avril 1992 (AGRG9200861A)](arrete-du-15-avril-1992-agrg9200861a)

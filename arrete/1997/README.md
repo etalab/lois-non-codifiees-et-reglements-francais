@@ -769,7 +769,6 @@
 - [Arrêté du 22 décembre 1997 (ECOT9736663A)](arrete-du-22-decembre-1997-ecot9736663a)
 - [Arrêté du 22 décembre 1997 (EQUA9701646A)](arrete-du-22-decembre-1997-equa9701646a)
 - [Arrêté du 22 décembre 1997 (MEST9711747A)](arrete-du-22-decembre-1997-mest9711747a)
-- [Arrêté du 22 janvier 1997 (DEFC9701104A)](arrete-du-22-janvier-1997-defc9701104a)
 - [Arrêté du 22 janvier 1997 (DEFC9701109A)](arrete-du-22-janvier-1997-defc9701109a)
 - [Arrêté du 22 janvier 1997 (ENVP9760010A)](arrete-du-22-janvier-1997-envp9760010a)
 - [Arrêté du 22 janvier 1997 (EQUT9601499A)](arrete-du-22-janvier-1997-equt9601499a)
