@@ -8,12 +8,6 @@ Lorsque la garantie de l'Etat n'aura pas joué pour les obligations, les actions
 
 Les superbénéfices seront constitués par les excédents d'exploitation qui substitueraient après le prélèvement de l'intérêt et de l'annuité d'amortissement des obligations, de l'intérêt des actions déterminé comme il est dit au paragraphe 5.
 
-Les superbénéfices seront attribués, dans une attribution de 20 p. 100 au capital-actions et de 80 p. 100 au remboursement sans intérêts des sommes que l'Etat aura versées pour la garantie d'intérêts du capital-obligations, à quelque titre que ce soit.
-
-Après remboursement total, de la dette de garantie, les superbénéfices seront partagés par moitié entre l'Etat et la ou les sociétés concessionnaires.
-
-L'Etat accordera à la société unique ou aux sociétés qui auront été substituées aux concessionnaires des subventions en capital appliquées aux travaux de construction des canaux primaires d'irrigation ou des stations de pompage. Ces subventions seront de neuf dixièmes de la valeur des ouvrages.
-
 L'eau à prélever sur les canaux industriels ou navigables en vue des irrigations sera livrée à des prix fixés par le cahier des charges.
 
 L'énergie destinée aux mêmes usages et aux autres usages agricoles sera payée par les associations ainsi que par les groupements agricoles qui seront reconnus d'utilité générale par décrets délibérés en conseil d'Etat et rendus sur la proposition du ministre des travaux publics, à l'accord avec le ministre de l'agriculture, à des prix réduits fixés par le cahier des charges.
