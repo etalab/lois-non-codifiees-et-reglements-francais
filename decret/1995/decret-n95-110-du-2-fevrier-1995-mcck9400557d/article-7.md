@@ -1,6 +1,6 @@
 # Article 7
 
-I. - Le versement des aides à la production prévues aux paragraphes I (1°, a, et 2°, a), II (1°) et III de l'article 1er du présent décret est subordonné à l'obtention de décisions d'autorisations accordées par le directeur général du Centre national de la cinématographie.
+Le versement des aides à la production prévues aux paragraphes I (1°, a, et 2°, a), III et VI (1°) de l'article 1er du présent décret est subordonné à l'obtention de décisions d'autorisations accordées par le directeur général du Centre national de la cinématographie.
 
 1° Une autorisation préalable est accordée avant le début des prises de vues. Elle prévoit les modalités de versement de l'aide.
 
@@ -22,4 +22,4 @@ III. - Le versement des aides à la préparation prises en application du paragr
 
 Les modalités d'attribution des aides précitées ainsi que la nature des renseignements et documents justificatifs qui doivent être remis pour l'obtention de la décision de versement sont fixées par arrêté du ministre chargé de la culture.
 
-L'entreprise de production dispose d'un délai d'un an à compter de la notification de la décision de versement pour obtenir l'autorisation préalable prévue au paragraphe I ci-dessus. A défaut, l'entreprise de production est tenue de reverser au Centre national de la cinématographie l'aide dont elle a bénéficié. Toutefois, à titre exceptionnel et sur demande motivée de l'entreprise de production, le délai précité peut être prolongé d'une durée de six mois.
+L'entreprise de production dispose d'un délai d'un an à compter de la notification de la décision de versement pour obtenir l'autorisation préalable prévue au paragraphe I ci-dessus. A défaut, l'entreprise de production est tenue de reverser au Centre national de la cinématographie l'aide dont elle a bénéficiée. Toutefois, à titre exceptionnel et sur demande motivée de l'entreprise de production, le délai précité peut être prolongé d'une durée de six mois.
