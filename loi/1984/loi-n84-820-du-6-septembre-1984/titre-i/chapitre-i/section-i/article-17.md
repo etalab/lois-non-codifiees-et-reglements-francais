@@ -1,5 +1,0 @@
-# Article 17
-
-La démission d'un ministre est présentée au président du gouvernement du territoire, lequel en donne acte et en informe le président de l'assemblée territoriale et le haut-commissaire.
-
-Toute modification dans la composition du gouvernement et dans la répartition des fonctions au sein du gouvernement est décidée par arrêté du président du gouvernement du territoire. Cet arrêté est notifié au haut-commissaire et au président de l'assemblée territoriale. La nomination de nouveaux membres du Gouvernement et l'affectation des membres du gouvernement à de nouvelles fonctions ne prennent effet qu'à compter de cette notification. Si la composition du gouvernement ne correspond pas aux dispositions de l'article 5, le président du gouvernement du territoire dispose d'un délai de quinze jours à compter de la notification pour le compléter et notifier son arrêté au haut-commissaire et au président de l'assemblée territoriale. A défaut, le gouvernement est considéré comme démissionnaire et il est fait application des dispositions de l'article 16.
