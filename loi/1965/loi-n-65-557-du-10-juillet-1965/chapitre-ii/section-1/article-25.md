@@ -22,7 +22,7 @@ La nature de ces travaux, les modalités de leur amortissement, notamment celles
 
 h) La pose dans les parties communes de canalisations, de gaines, et la réalisation des ouvrages, permettant d'assurer la mise en conformité des logements avec les normes de salubrité, de sécurité et d'équipement définies par les dispositions prises pour l'application de l'article 1er de la loi n° 67-561 du 12 juillet 1967 relative à l'amélioration de l'habitat ;
 
-i) A moins qu'ils ne relèvent de la majorité prévue par l'article 24, les travaux d'accessibilité aux personnes handicapées à mobilité réduite, sous réserve qu'ils n'affectent pas la structure de l'immeuble ou ses éléments d'équipement essentiels ;
+i) La suppression des vide-ordures pour des impératifs d'hygiène ;
 
 j) L'installation ou la modification d'une antenne collective ou d'un réseau interne à l'immeuble raccordé à un réseau câblé, établi ou autorisé en application de l'article 34 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication;
 

@@ -1,0 +1,3 @@
+# Article 25
+
+Sous réserve des décisions de justice passées en force de chose jugée, les plans locaux d'urbanisme ou documents d'urbanisme en tenant lieu sont validés en tant que leur légalité serait contestée aux motifs qu'ils n'auraient pas été élaborés ou révisés et mis à l'enquête publique pour la totalité du territoire de l'établissement de coopération intercommunale, et notamment à ceux liés, directement ou indirectement, au fait que les documents mis à disposition du public pour l'enquête publique, dans chaque commune membre, n'auraient pas été ceux concernant la totalité du territoire de l'établissement public de coopération intercommunale mais seulement ceux intéressant le territoire de la commune concernée.

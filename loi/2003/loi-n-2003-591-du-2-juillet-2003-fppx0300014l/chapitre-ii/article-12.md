@@ -1,0 +1,3 @@
+# Article 12
+
+Dans les conditions prévues par l'article 38 de la Constitution, le Gouvernement est autorisé à prendre par ordonnance toutes dispositions concourant à l'actualisation, à la clarification et à la simplification des modalités de création, de fonctionnement et de dissolution ainsi que des règles budgétaires, comptables et financières applicables aux associations syndicales de propriétaires régies en tout ou partie par la loi du 21 juin 1865 sur les associations syndicales et à leurs unions ainsi qu'à l'association départementale régie par la loi du 27 juillet 1930 sur l'aménagement du système d'endiguement et d'assainissement des plaines de l'Isère, du Drac et de la Romanche.

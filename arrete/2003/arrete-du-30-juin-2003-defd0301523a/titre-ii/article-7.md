@@ -1,0 +1,5 @@
+# Article 7
+
+L'autorisation prévue à l'article 6 du présent arrêté ne prendra effet que sur présentation, par l'organisateur, au moins quarante-huit heures avant le début de la manifestation aérienne, au préfet de la Seine-Saint-Denis, des contrats d'assurance garantissant sa responsabilité civile, celle de ses préposés et celle de tous les participants à la manifestation aérienne en complément, si cela s'avérait nécessaire, des garanties en propre dont disposent ces derniers en tant qu'exploitants d'aéronefs.
+
+L'organisateur et les participants doivent justifier que le montant des garanties souscrites leur permet de faire face aux conséquences pécuniaires de leur responsabilité civile. Par dérogation aux dispositions qui précèdent, les personnes publiques, y compris de nationalité étrangère, agissant en qualité d'exposants ou d'exploitants d'aéronefs, ne sont pas soumises à l'obligation de souscrire une assurance garantissant les dommages qu'elles sont susceptibles de causer si elles s'engagent auprès de l'organisateur à prendre elles-mêmes en charge les conséquences pécuniaires de leur responsabilité civile.
