@@ -21,3 +21,5 @@ Le président [*de l'université française du Pacifique*] représente l'univers
 - il peut consentir aux directeurs de centre universitaire des délégations de pouvoir dans des limites fixées par le conseil d'administration ;
 
 - il peut déléguer sa signature.
+
+Le président peut, après consultation d'une commission de discipline, prononcer une mesure disciplinaire contre tout usager ayant enfreint les lois et règlements applicables à l'établissement, aux enseignements qu'il dispense et à leur sanction ou ayant commis des faits de nature à porter atteinte à l'ordre et au bon fonctionnement de l'établissement.
