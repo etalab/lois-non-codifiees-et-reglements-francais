@@ -748,6 +748,7 @@
 - [Décret n°95-1293 du 18 décembre 1995 (MENL9502611D)](decret-n95-1293-du-18-decembre-1995-menl9502611d)
 - [Décret n°95-1299 du 18 décembre 1995 (ENVN9530101D)](decret-n95-1299-du-18-decembre-1995-envn9530101d)
 - [Décret n°95-1305 du 18 décembre 1995 (INTD9500301D)](decret-n95-1305-du-18-decembre-1995-intd9500301d)
+- [Décret n°95-1314 du 18 décembre 1995 (DEFP9502050D)](decret-n95-1314-du-18-decembre-1995-defp9502050d)
 - [Décret n°95-405 du 18 avril 1995 (EQUA9500701D)](decret-n95-405-du-18-avril-1995-equa9500701d)
 - [Décret n°95-408 du 18 avril 1995 (ENVP9530012D)](decret-n95-408-du-18-avril-1995-envp9530012d)
 - [Décret n°95-409 du 18 avril 1995 (ENVP9530013D)](decret-n95-409-du-18-avril-1995-envp9530013d)
