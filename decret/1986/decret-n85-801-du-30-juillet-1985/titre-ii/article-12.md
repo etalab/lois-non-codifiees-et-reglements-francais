@@ -18,6 +18,4 @@ Un représentant du ministre chargé des transports ;
 
 Un représentant du ministre chargé de la santé ;
 
-Le secrétaire général de la commission centrale des marchés ;
-
 Quatre personnalités qualifiées choisies par le conseil d'administration sur proposition du président.

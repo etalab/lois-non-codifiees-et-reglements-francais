@@ -7,3 +7,5 @@ Il passe en son nom tous actes, marchés ou contrats et en suit l'exécution. Il
 Il procède à l'engagement et au licenciement des personnels de l'établissement.
 
 Il peut déléguer sa signature et une partie de ses attributions.
+
+Il peut transiger selon les modalités et dans les limites définies par le conseil d'administration.
