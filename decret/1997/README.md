@@ -73,6 +73,7 @@
 - [Décret n°97-45 du 21 janvier 1997 (TASP9624364D)](decret-n97-45-du-21-janvier-1997-tasp9624364d)
 - [Décret n°97-56 du 21 janvier 1997 (LOGC9600075D)](decret-n97-56-du-21-janvier-1997-logc9600075d)
 - [Décret n°97-58 du 21 janvier 1997 (TASH9624478D)](decret-n97-58-du-21-janvier-1997-tash9624478d)
+- [Décret n°97-59 du 23 janvier 1997 (INTA9700019D)](decret-n97-59-du-23-janvier-1997-inta9700019d)
 - [Décret n°96-1133 du 24 décembre 1996 (TAST9611675D)](decret-n96-1133-du-24-decembre-1996-tast9611675d)
 - [Décret n°97-440 du 24 avril 1997 (DEFP9701229D)](decret-n97-440-du-24-avril-1997-defp9701229d)
 - [Décret n°99-902 du 25 octobre 1999 (JUSE9940002D)](decret-n99-902-du-25-octobre-1999-juse9940002d)
