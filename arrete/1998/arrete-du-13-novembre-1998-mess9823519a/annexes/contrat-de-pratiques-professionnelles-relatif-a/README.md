@@ -1,4 +1,0 @@
-# CONTRAT DE PRATIQUES PROFESSIONNELLES RELATIF À LA FONCTION DE COORDINATION ET DE SUIVI PÉRI ET POSTOPÉRATOIRE EN CHIRURGIE
-
-- [Article Annexe VII](article-annexe-vii.md)
-- [Article Annexe IX](article-annexe-ix.md)

@@ -1,3 +1,0 @@
-# PRINCIPES, CRITERES D'OPPOSABILITE DES REFERENCES ET SANCTIONS.
-
-- [Article Annexe I](article-annexe-i.md)
