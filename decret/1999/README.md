@@ -132,6 +132,8 @@
 - [Décret n°99-178 du 10 mars 1999 (ECOM9900134D)](decret-n99-178-du-10-mars-1999-ecom9900134d)
 - [Décret n°99-179 du 10 mars 1999 (INTD9900038D)](decret-n99-179-du-10-mars-1999-intd9900038d)
 - [Décret n°99-180 du 10 mars 1999 (ECOF9920888D)](decret-n99-180-du-10-mars-1999-ecof9920888d)
+- [Décret n°99-490 du 10 juin 1999 (DEFP9852037D)](decret-n99-490-du-10-juin-1999-defp9852037d)
+- [Décret n°99-491 du 10 juin 1999 (FPPX9900034D)](decret-n99-491-du-10-juin-1999-fppx9900034d)
 - [Décret n°99-87 du 10 février 1999 (MCCB9800933D)](decret-n99-87-du-10-fevrier-1999-mccb9800933d)
 - [Décret n°99-88 du 10 février 1999 (MCCB9800934D)](decret-n99-88-du-10-fevrier-1999-mccb9800934d)
 - [Décret n°99-90 du 10 février 1999 (MAEX9800136D)](decret-n99-90-du-10-fevrier-1999-maex9800136d)
