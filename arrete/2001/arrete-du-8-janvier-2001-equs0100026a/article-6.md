@@ -2,29 +2,29 @@
 
 a) Autorisation de mise en circulation de véhicule destiné à l'enseignement de la conduite :
 
-Tout véhicule à moteur destiné à l'enseignement professionnel de la conduite doit être pourvu d'une autorisation de mise en circulation, dont le modèle est défini par circulaire du ministre chargé des transports. Font exception : les cyclomoteurs, les motocyclettes, les tricycles à moteur dont la puissance n'excède pas 15 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes et les quadricycles lourds à moteur.
+Tout véhicule à moteur destiné à l'enseignement professionnel de la conduite doit être pourvu d'une autorisation de mise en circulation délivrée sous la forme d'une mention spéciale portée sur le certificat d'immatriculation. Cette mention est constituée du texte suivant : Véhicule école. Font exception : les cyclomoteurs, les motocyclettes, les tricycles à moteur dont la puissance n'excède pas 15 kilowatts et dont le poids à vide n'excède pas 550 kilogrammes et les quadricycles lourds à moteur.
 
-1° Délivrance de la première autorisation de mise en circulation :
+1° Délivrance et retrait de l'autorisation de mise en circulation :
 
-Cette autorisation est délivrée par le préfet, sur présentation :
+L'autorisation est délivrée par inscription de la mention susvisée sur le certificat d'immatriculation, sur présentation :
 
-- pour un véhicule neuf ayant fait l'objet d'une construction en série pour l'enseignement de la conduite, d'un certificat de conformité du constructeur conforme au modèle défini par circulaire du ministre chargé des transports ;
+- d'un certificat de conformité du constructeur, lorsque le véhicule neuf a fait l'objet d'une construction en série pour l'enseignement de la conduite ;
 
-- pour un véhicule aménagé individuellement, d'un procès-verbal de la visite technique initiale du service des mines chargé de vérifier la conformité de ce véhicule aux alinéas 1 à 6 de la partie b du présent article.
+- d'un procès-verbal de réception à titre isolé, délivré par la direction régionale de l'industrie, de la recherche et de l'environnement, chargée de vérifier la conformité du véhicule aux alinéas 1 à 6 de la partie b du présent article lorsque le véhicule est aménagé individuellement ;
 
-2° Renouvellement de l'autorisation de mise en circulation :
+- de la preuve que le véhicule répond aux conditions requises pour être maintenu en circulation, lorsque le véhicule dont l'âge et la catégorie le soumet à contrôle technique.
 
-L'autorisation de mise en circulation est renouvelée par le préfet à l'issue d'une visite technique du service des mines ayant lieu :
+Lorsque le véhicule cesse d'être utilisé en tant que véhicule destiné à l'enseignement professionnel de la conduite, les dispositifs techniques spécifiques mentionnés à l'alinéa 3 de la partie b du présent arrêté doivent être démontés.
 
-- tous les trois ans pour les véhicules dont le poids total autorisé en chargé (PTAC) n'excède pas 3 500 kilogrammes ;
+La mention spéciale portée sur le certificat d'immatriculation est supprimée, après déclaration au préfet de la cessation d'utilisation en tant que véhicule destiné à l'enseignement professionnel de la conduite et du démontage des dispositifs techniques spécifiques mentionnés à l'alinéa 3 de la partie b du présent arrêté.
 
-- tous les six mois pour les véhicules de transport en commun de personnes ;
+2° Contrôle technique :
 
-- tous les douze mois pour les véhicules de transport de marchandises.
+Les véhicules sont soumis à contrôle technique conformément aux textes relatifs à leurs catégories de poids et d'utilisation respectives.
 
-3° Des contre-visites peuvent être effectuées à la demande du préfet lorsque, en cas de contrôle par les officiers ou agents de la police administrative et judiciaire, il est constaté que le véhicule ne répond plus aux conditions requises pour un maintien en service.
+Le contrôleur agréé ou l'expert en charge du contrôle technique est celui désigné respectivement par l'article R. 323-7 du code de la route pour les véhicules dont le poids total autorisé en charge n'excède pas 3,5 tonnes et non affectés au transport en commun de personnes et par l'arrêté du 15 novembre 1954 susvisé ou l'arrêté du 2 juillet 1982 susvisé pour les autres catégories de véhicules.
 
-4° Dans tous les cas, les frais de visite sont à la charge de l'exploitant.
+Il vérifie en outre que le véhicule satisfait aux dispositions des 3, 4 et 6 de la partie b du présent article.
 
 b) Caractéristiques, durée d'utilisation et équipements des véhicules :
 

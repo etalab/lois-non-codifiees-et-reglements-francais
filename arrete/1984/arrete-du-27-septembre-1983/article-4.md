@@ -1,6 +1,6 @@
 # Article 4
 
-Après surgélation, les pommes de terre préfrites surgelées doivent être conformes aux spécifications analytiques suivantes :
+Après surgélation, les pommes de terre préfrites surgelées définies à l'article 2 doivent être conformes aux spécifications analytiques suivantes :
 
 "Pommes allumettes de 5 à 7 mm" :
 
@@ -33,3 +33,5 @@ Après surgélation, les pommes de terre préfrites surgelées doivent être con
 - pourcentage maximum de matière grasse : 6,
 
 La teneur en acides gras libres de la matière grasse extraite du produit, exprimée en quantité d'acide oléique, ne doit pas dépasser 1,5 p. 100.
+
+Lorsque les pommes de terre fréfrires peuvent être réchauffées au four ou au micro-ondes, le pourcentage de matière grasse est porté à 10 %.

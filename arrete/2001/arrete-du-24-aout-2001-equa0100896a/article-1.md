@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsque le comité permanent de la commission consultative de l'environnement des aérodromes siège en qualité de commission consultative d'aide aux riverains des aérodromes tel que prévu au X de l'article L. 571-13 du code de l'environnement, le ou les préfets des départements concernés ou leurs représentants, le directeur régional de l'environnement ou son représentant et, sauf pour les aérodromes de Paris - Charles-de-Gaulle et de Paris-Orly, le directeur de l'aviation civile ou son représentant assistent avec voix délibérative à ses réunions, conformément à l'article L. 571-16 du même code.
