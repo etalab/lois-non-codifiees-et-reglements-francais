@@ -4,7 +4,9 @@ Les dispositions de l'article 215 du code des douanes sont applicables aux produ
 
 1. Marchandises dangereuses pour la santé publique.
 
-Substances (produits stupéfiants) classés au tableau B de l'article R. 5149 du code de la santé publique et dont la liste est donnée par des arrêtés du ministre délégué auprès du ministre des affaires sociales et de l'emploi, chargé de la santé et de la famille.
+Produits classés comme stupéfiants (substances et préparations) au sens du code de la santé publique.
+
+Produits classés comme psychotropes (substances et préparations) au sens du code de la santé publique.
 
 Produits oestrogènes, anabolisants et autres substances visés par la loi n° 84-609 du 16 juillet 1984.
 
@@ -24,7 +26,7 @@ Livres, photos, films, cassettes et autres marchandises qui ne peuvent être mis
 
 Toutes les marchandises contrefaites (2).
 
-5. Marchandises prohibées au titre d'engagements internationaux.    Produits de haute technologie soumis au régime international du contrôle de la destination finale, et désignés par l'avis aux importateurs et aux exportateurs du 5 décembre 1985.
+5. Marchandises prohibées au titre d'engagements internationaux.    Produits de haute technologie désignés par avis aux importateurs et aux exportateurs relatifs aux produits et technologies soumis au contrôle de la destination finale.
 
 Faune et flore sauvages menacées d'extinction et parties ou produits issus de celles-ci repris à la convention de Washington du 3 mars 1973.
 

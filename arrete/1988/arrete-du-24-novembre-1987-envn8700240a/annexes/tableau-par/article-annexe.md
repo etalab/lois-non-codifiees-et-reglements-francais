@@ -104,53 +104,39 @@ Département de la Loire
 
 13° Le Noyer, le Font-d'Aix, le Machabre, le Ban.
 
-" Département de la Haute-Loire
+" Département de la Haute-Loire :
 
-" Tous les cours d'eau de 1re catégorie, à l'exception de :
+"   1 Le Panis.
 
-" 1° L'Allier ;
+"   2 La Virlange.
 
-" 2° L'Ance du Sud ;
+"   3 La Seuge, en amont de la cascade Portail.
 
-" 3° La Senioure ;
+"   4 La Desges, en amont du pont de Chazelles.
 
-" 4° L'Allagnon ;
+"   5 La Fioule.
 
-" 5° La Loire ;
+"   6 La Marsange.
 
-" 6° La Borne et ses parties orientale et occidentale ;
+"   7 Le Mallat.
 
-" 7° L'Holme ;
+"   8 La Chamalières.
 
-" 8° La Méjeanne ;
+"   9 La Peyrusse.
 
-" 9° La Fouragette ;
+" 10 La Cronce, en amont de Croncelorbe.
 
-" 10° Le ruisseau des Ceyssoux ;
+" 11 L'Avesne.
 
-" 11° La Beaume ;
+" 12 L'Arçon.
 
-" 12° La Gazeille ;
+" 13 La Redonde.
 
-" 13° La Gagne de Solignac ;
+" 14 L'Auzon.
 
-" 14° L'Arzon ;
+" 15 La Sey.
 
-" 15° Le Ramel ;
-
-" 16° Le Lignon du Velay ;
-
-" 17° L'Ance du Nord ;
-
-" 18° La Semène ;
-
-" 19° Tous les affluents et sous-affluents des cours d'eau désignés du 8° au 18° ;
-
-" 20° La Seuge, en aval de la cascade Portail ;
-
-" 21° La Desges, en aval du pont de Chazelles ;
-
-" 22° La Cronce, en aval de Croncelorbe.
+" 16 Les affluents et sous-affluents des cours d'eau désignés ci-dessus. "
 
 Département de la Lozère
 

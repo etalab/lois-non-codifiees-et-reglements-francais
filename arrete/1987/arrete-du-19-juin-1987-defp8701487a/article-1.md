@@ -8,4 +8,12 @@ Travaux d'infrastructure ;
 
 Navigation aérienne ;
 
-Techniques de réparation et de gestion des matériels.
+Techniques de réparation et de gestion des matériels ;
+
+Electronique et électromécanique appliquée ;
+
+Alimentation ;
+
+Administration, habillement et froid ;
+
+Entraînement physique et sportif.
