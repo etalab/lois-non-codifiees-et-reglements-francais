@@ -47,5 +47,6 @@
 - [Décret n°73-84 du 25 janvier 1973](decret-n73-84-du-25-janvier-1973)
 - [Décret n°73-88 du 26 janvier 1973](decret-n73-88-du-26-janvier-1973)
 - [Décret n°73-360 du 27 mars 1973](decret-n73-360-du-27-mars-1973)
+- [Décret n°73-378 du 27 mars 1973](decret-n73-378-du-27-mars-1973)
 - [Décret n°73-207 du 28 février 1973](decret-n73-207-du-28-fevrier-1973)
 - [Décret n°73-102 du 30 janvier 1973](decret-n73-102-du-30-janvier-1973)
