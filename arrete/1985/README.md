@@ -119,7 +119,6 @@
 - [Arrêté du 19 avril 1985](arrete-du-19-avril-1985)
 - [Arrêté du 19 décembre 1984](arrete-du-19-decembre-1984)
 - [Arrêté du 19 décembre 1985](arrete-du-19-decembre-1985)
-- [Arrêté du 19 février 1985](arrete-du-19-fevrier-1985)
 - [Arrêté du 19 juillet 1985](arrete-du-19-juillet-1985)
 - [Arrêté du 19 juin 1985](arrete-du-19-juin-1985)
 - [Arrêté du 19 mars 1985](arrete-du-19-mars-1985)

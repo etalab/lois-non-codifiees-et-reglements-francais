@@ -434,7 +434,6 @@
 - [Arrêté du 20 novembre 1989 (EQUL8901157A)](arrete-du-20-novembre-1989-equl8901157a)
 - [Arrêté du 20 novembre 1989 (PRME8961115A)](arrete-du-20-novembre-1989-prme8961115a)
 - [Arrêté du 20 octobre 1989 (MCCI8900686A)](arrete-du-20-octobre-1989-mcci8900686a)
-- [Arrêté du 20 septembre 1989 (DEFE8901894A)](arrete-du-20-septembre-1989-defe8901894a)
 - [Arrêté du 20 septembre 1989 (SPSH8901921A)](arrete-du-20-septembre-1989-spsh8901921a)
 - [Arrêté du 21 août 1989 (PRME8961358A)](arrete-du-21-aout-1989-prme8961358a)
 - [Arrêté du 21 avril 1989 (EQUA8900446A)](arrete-du-21-avril-1989-equa8900446a)

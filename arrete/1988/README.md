@@ -153,7 +153,6 @@
 - [Arrêté du 6 mai 1988 (MCCT8800266A)](arrete-du-6-mai-1988-mcct8800266a)
 - [Arrêté du 6 mai 1988 (MCCX8810353A)](arrete-du-6-mai-1988-mccx8810353a)
 - [Arrêté du 6 mai 1988 (MCCX8810360A)](arrete-du-6-mai-1988-mccx8810360a)
-- [Arrêté du 6 mai 1988 (PTTT8800426A)](arrete-du-6-mai-1988-pttt8800426a)
 - [Arrêté du 6 mai 1988 (PTTT8800427A)](arrete-du-6-mai-1988-pttt8800427a)
 - [Arrêté du 6 mai 1988 (REFC8800022A)](arrete-du-6-mai-1988-refc8800022a)
 - [Arrêté du 6 mai 1988 (RESP8800591A)](arrete-du-6-mai-1988-resp8800591a)
