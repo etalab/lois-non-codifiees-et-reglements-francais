@@ -486,7 +486,6 @@
 - [Arrêté du 12 octobre 1992 (JUSG9260065A)](arrete-du-12-octobre-1992-jusg9260065a)
 - [Arrêté du 12 octobre 1992 (MERG9200164A)](arrete-du-12-octobre-1992-merg9200164a)
 - [Arrêté du 12 mai 1992 (BUDR9205021A)](arrete-du-12-mai-1992-budr9205021a)
-- [Arrêté du 12 mai 1992 (MENK9200043A)](arrete-du-12-mai-1992-menk9200043a)
 - [Arrêté du 13 août 1992 (INDP9200426A)](arrete-du-13-aout-1992-indp9200426a)
 - [Arrêté du 13 août 1992 (INDP9200547A)](arrete-du-13-aout-1992-indp9200547a)
 - [Arrêté du 13 août 1992 (PTTR9200436A)](arrete-du-13-aout-1992-pttr9200436a)
