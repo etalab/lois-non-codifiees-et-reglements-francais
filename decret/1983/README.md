@@ -163,6 +163,8 @@
 - [Décret n°83-419 du 25 mai 1983](decret-n83-419-du-25-mai-1983)
 - [Décret n°83-40 du 26 janvier 1983](decret-n83-40-du-26-janvier-1983)
 - [Décret n°83-56 du 26 janvier 1983](decret-n83-56-du-26-janvier-1983)
+- [Décret n°83-678 du 26 juillet 1983](decret-n83-678-du-26-juillet-1983)
+- [Décret n°83-679 du 26 juillet 1983](decret-n83-679-du-26-juillet-1983)
 - [Décret n°83-53 du 27 janvier 1983](decret-n83-53-du-27-janvier-1983)
 - [Décret n°83-534 du 27 juin 1983](decret-n83-534-du-27-juin-1983)
 - [Décret n°83-63 du 27 janvier 1983](decret-n83-63-du-27-janvier-1983)
