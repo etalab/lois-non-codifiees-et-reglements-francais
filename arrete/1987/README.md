@@ -445,7 +445,6 @@
 - [Arrêté du 23 juillet 1987 (EQUC8700628A)](arrete-du-23-juillet-1987-equc8700628a)
 - [Arrêté du 23 juillet 1987 (INDL8700441A)](arrete-du-23-juillet-1987-indl8700441a)
 - [Arrêté du 23 juillet 1987 (MEND8700471A)](arrete-du-23-juillet-1987-mend8700471a)
-- [Arrêté du 23 juillet 1987 (MERG8700109A)](arrete-du-23-juillet-1987-merg8700109a)
 - [Arrêté du 23 juin 1987 (PRMG8700031A)](arrete-du-23-juin-1987-prmg8700031a)
 - [Arrêté du 23 mars 1987 (ENVN8700073A)](arrete-du-23-mars-1987-envn8700073a)
 - [Arrêté du 23 mars 1987 (ENVN8700074A)](arrete-du-23-mars-1987-envn8700074a)
