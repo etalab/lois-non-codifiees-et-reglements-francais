@@ -168,9 +168,11 @@ En particulier, les systèmes et équipements doivent, pour être réceptionnés
 
 2 = 93/31/CEE (1)
 
+modifiée par 2000/72/CE (1)
+
 3 = 1er janvier 1996
 
-4 = 1er mai 1999
+4 = 1er juillet 2002 ; 1er mai 1999
 
 1 = 19. Antivol.
 
@@ -214,11 +216,11 @@ En particulier, les systèmes et équipements doivent, pour être réceptionnés
 
 2 = 93/29/CEE (2)
 
+modifiée par 2000/74/CE (2)
+
 3 = 1er janvier 1996
 
-4 = 1er mai 1999
-
-5 = 60/ECE/ONU
+4 = 1er juillet 2002 ; 1er mai 1999
 
 1 = 24. Inscriptions réglementaires.
 
@@ -234,7 +236,7 @@ En particulier, les systèmes et équipements doivent, pour être réceptionnés
 
 3 = 1er juillet 2001 (7)
 
-4 = 1er juillet 2001 (7)
+4 = 17 juin 2003 (8)
 
 5 = 39/ECE/ONU
 
@@ -275,6 +277,8 @@ dispositions relatives à l'homologation des titres III et IV de l'arrêté du 1
 (7) En l'attente d'une nouvelle directive, il y a lieu d'appliquer les dispositions de l'arrêté du 20 novembre 1969 modifié relatif aux rétroviseurs des véhicules et de l'arrêté du 13 avril 1972 modifié relatif au bruit des véhicules, pris pour l'application des directives concernées.
 
 (8) Pour mémoire : les dispositions des articles R. 182 et R. 199 du code de la route sont applicables.
+
+(8) 1er juillet 2001 pour les véhicules, autres que les cyclomoteurs, dont le type a fait l'objet d'une réception CE ; 1er juillet 2002 pour les cyclomoteurs dont le type a fait l'objet d'une réception CE.
 
 2° Pièces utilisables pour l'évaluation de la conformité d'un véhicule aux dispositions du 1° :
 
