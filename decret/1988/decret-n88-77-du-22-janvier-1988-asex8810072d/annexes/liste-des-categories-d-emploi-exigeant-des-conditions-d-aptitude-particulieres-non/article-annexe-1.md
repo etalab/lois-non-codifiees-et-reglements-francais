@@ -30,11 +30,23 @@ INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles
 
 Pompiers.
 
+NUMERO de la nomenclature : 533 b
+
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles emplois salariés d'entreprise (PCS-ESE) :
+
+Agents techniques forestiers, gardes des espaces naturels, exclusivement pour les gardes-chasse et les gardes-pêche.
+
 NUMERO de la nomenclature : 534 a
 
 INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles-emplois salariés d'entreprise (PCS-ESE) :
 
 Agents civils de sécurité et de surveillance, excepté les gardiens d'usine et les gardiens de nuit.
+
+NUMERO de la nomenclature : 534 b
+
+INTITULE DE LA NOMENCLATURE des professions et catégories socioprofessionnelles emplois salariés d'entreprise (PCS-ESE) :
+
+Convoyeurs de fonds, gardes du corps, enquêteurs privés et métiers assimilés.
 
 NUMERO de la nomenclature : 546 a
 
