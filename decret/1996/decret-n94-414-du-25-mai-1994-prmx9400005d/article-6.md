@@ -1,3 +1,0 @@
-# Article 6
-
-Le président du Conseil supérieur de l'emploi, des revenus et des coûts désigne des rapporteurs choisis parmi les fonctionnaires des corps recrutés par la voie de l'Ecole nationale d'administration, les administrateurs de l'Institut national de la statistique et des études économiques et les fonctionnaires des autres corps recrutés par la voie de l'Ecole polytechnique, les professeurs des universités des disciplines juridiques et économiques et les directeurs de recherche des établissements publics à caractère scientifique et technologique. Ces rapporteurs sont désignés pour une durée maximale de trois ans, qui peut être prolongée pour une durée qui ne peut excéder un an par décision du président.
