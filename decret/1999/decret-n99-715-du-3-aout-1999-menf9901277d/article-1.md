@@ -1,6 +1,6 @@
 # Article 1
 
-Le ministre chargé de l'éducation nationale peut déléguer par arrêté aux recteurs d'académie, pour les commissions administratives paritaires compétentes à l'égard des personnels administratifs, techniques, ouvriers, de service, sociaux et de santé des services déconcentrés qui relèvent de son autorité, le pouvoir :
+Le ministre chargé de l'éducation nationale peut déléguer par arrêté aux recteurs d'académie, pour les commissions administratives paritaires compétentes à l'égard des inspecteurs de l'éducation nationale, des personnels de direction d'établissement d'enseignement ou de formation, ainsi que des personnels administratifs, techniques, ouvriers, de service, sociaux et de santé des services déconcentrés qui relèvent de son autorité, le pouvoir :
 
 - de réduire ou proroger la durée du mandat des membres des commissions administratives paritaires académiques dans le cas prévu au deuxième alinéa de l'article 7 du décret du 28 mai 1982 susvisé, après avis du comité technique paritaire académique, et dans les cas prévus au troisième alinéa du même article ;
 
