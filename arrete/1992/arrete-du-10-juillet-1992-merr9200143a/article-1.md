@@ -1,0 +1,3 @@
+# Article 1
+
+Le ministre de l'équipement, du logement et des transports et le secrétaire d'Etat à la mer donnent délégation au bureau des conteneurs de la Société nationale des chemins de fer français, aux sociétés de classification agréées, Bureau Veritas et Lloyd's Register of Shipping, et au Groupement des associations de propriétaires d'appareils à vapeur et électriques (G.A.P.A.V.E.) pour délivrer l'agrément (C.S.C.) des conteneurs au transport international des marchandises par voies terrestre et maritime et pour autoriser l'apposition de la plaque d'agrément visée à l'article 1er du décret n° 80-837 du 22 octobre 1980 relatif à la sécurité des conteneurs.
