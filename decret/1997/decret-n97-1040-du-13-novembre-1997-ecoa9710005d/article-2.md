@@ -6,7 +6,7 @@ Le Fonds national de promotion et de communication de l'artisanat est administr�
 
 2° Un représentant du ministre chargé du budget ;
 
-3° Trois membres proposés par l'Assemblée permanente des chambres de métiers ;
+3° Trois membres proposés par l'Assemblée permanente des chambres de métiers et de l'artisanat ;
 
 4° Trois membres proposés par l'Union professionnelle artisanale ;
 
