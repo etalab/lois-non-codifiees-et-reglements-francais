@@ -12,3 +12,4 @@
 - [Décret n°2000-376 du 28 avril 2000 (INTD0000109D)](decret-n2000-376-du-28-avril-2000-intd0000109d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)
 - [Décret n°2000-286 du 30 mars 2000 (EQUX0000059D)](decret-n2000-286-du-30-mars-2000-equx0000059d)
+- [Décret n° 2000-84 du 31 janvier 2000 (MESC0010122D)](decret-n-2000-84-du-31-janvier-2000-mesc0010122d)
