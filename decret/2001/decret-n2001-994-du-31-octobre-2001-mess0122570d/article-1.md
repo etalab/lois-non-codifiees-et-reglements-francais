@@ -1,0 +1,3 @@
+# Article 1
+
+Les entreprises visées à l'article 4 de la loi du 26 décembre 1996 susvisée qui emploient des personnels relevant du régime spécial de sécurité sociale dans les mines, de celui des clercs et employés de notaires et de celui des marins bénéficient, en application de l'article 4 bis de cette loi, d'une majoration de l'allégement prévu à l'article L. 241-13-1 du code de la sécurité sociale, fixée à un douzième de 458 euros. Cette majoration s'applique à l'allégement déterminé conformément aux dispositions du décret du 2 février 2000 susvisé selon les modalités prévues aux articles 2 et 3.
