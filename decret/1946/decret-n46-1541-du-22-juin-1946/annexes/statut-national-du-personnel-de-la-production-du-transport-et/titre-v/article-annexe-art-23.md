@@ -30,6 +30,18 @@ Les dispositions des articles R. 711-15 et D. 711-3 du code de la sécurité soc
 
 En ce qui concerne les prestations accidents du travail et maladies professionnelles ci-dessus définies, la cotisation est entièrement à la charge du service ou de l'exploitation.
 
+Les cotisations dues au régime général de la sécurité sociale pour les prestations en nature des assurances sociales et des accidents du travail sont assises sur les rémunérations versées aux agents en activité qui relèvent du régime spécial de sécurité sociale du personnel des industries électriques et gazières.
+
+Sont toutefois exclues de l'assiette des cotisations les primes et les indemnités versées en application des articles 16, 26 et 27 du présent statut.
+
+Sont également exclues de l'assiette des cotisations les primes et les indemnités liées à la fonction ou à des sujétions de services ou ayant le caractère de remboursement de frais, versées en application de l'article 28 du présent statut du personnel et selon les modalités en vigueur au 1er janvier 1997.
+
+Sont en revanche incluses dans l'assiette des cotisations les primes et les indemnités liées à la fonction, qui sont versées, en application de l'article 28 du présent statut :
+
+- au titre de l'aide à la mobilité géographique (sur le territoire métropolitain) ou fonctionnelle, et qui n'ont pas le caractère de remboursement de frais ;
+
+- au titre de l'aide au logement.
+
 Caisses mutuelles complémentaires.
 
 Paragraphe 5.
@@ -76,9 +88,27 @@ Les prestations complémentaires de celles du régime général, servies par les
 
 Paragraphe 8.
 
-Les ressources nécessaires aux dépenses des caisses mutuelles complémentaires et d'action sociale concernant le service des prestations complémentaires de celles du régime général proviennent de cotisations assises sur les salaires et les pensions avec un plafond d'une fois et demie celui du régime général de la sécurité sociale et supportées par moitié par les services, exploitations ou entreprises et par moitié par le personnel. Le taux de ces cotisations est fixé par décret pris sur le rapport du ministre chargé de la sécurité sociale, du ministre chargé du gaz et de l'électricité et du ministre chargé du budget sur les propositions du comité de coordination des caisses mutuelles complémentaires et d'action sociale prévu au paragraphe 10 ci-dessous, ou à l'initiative du ministre chargé du gaz et de l'électricité, et après avis des directeurs généraux d'Electricité de France et de Gaz de France et des organisations représentatives des entreprises exclues de la nationalisation, en ce qui concerne les agents en activité ; il est réduit de moitié pour ce qui est des agents pensionnés ; lesdites cotisations sont versées par les services, exploitations ou entreprises à un compte spécial ouvert dans les écritures d'Electricité de France (service national). Le produit des cotisations, déduction faite du prélèvement destiné au fonds de compensation prévu au deuxième alinéa du présent paragraphe, est reversé par Electricité de France (service national) aux caisses mutuelles complémentaires et d'action sociale, conformément à la répartition établie par une commission de péréquation constituée au sein du comité de coordination. Cette répartition est faite en fonction du nombre de membres en activité de service et leurs ayants droit, d'une part, et du nombre des membres en inactivité ou pensionnés de tous ordres et leurs ayants droit, d'autre part, de chacune des caisses ; ce dernier nombre est affecté d'un coefficient de pondération pour tenir compte du rapport existant, en ce qui concerne l'ensemble des caisses, entre la charge moyenne assurée au titre d'un membre en activité de service et la charge moyenne assurée au titre d'un membre en inactivité ou pensionné. Un arrêté du ministre chargé de la sécurité sociale et du ministre chargé du gaz et de l'électricité, pris après avis de la Commission supérieure nationale du personnel des industries électriques et gazières, détermine les modalités d'application des présentes dispositions et fixe les conditions dans lesquelles est établi le coefficient de pondération.
+a) Les ressources nécessaires aux dépenses des caisses mutuelles complémentaires et d'action sociale concernant le service des prestations complémentaires de celles du régime général proviennent de cotisations assises sur les salaires et les pensions avec un plafond de une fois et demie celui du régime général de la sécurité sociale et supportées par moitié par les services, exploitations ou entreprises et par moitié par le personnel ;
 
-Un fonds de compensation entre les caisses mutuelles complémentaires et d'action sociale, géré par la caisse centrale d'activités sociales, est alimenté par un prélèvement sur les cotisations susvisées. Le taux de ce prélèvement est fixé par un arrêté du ministre chargé de la sécurité sociale et du ministre chargé du gaz et de l'électricité, sur les propositions du comité de coordination précité ou du ministre chargé du gaz et de l'électricité. Les modalités selon lesquelles il peut être fait appel à ce fonds de compensation sont précisées au règlement commun des caisses mutuelles complémentaires et d'action sociale prévu au paragraphe 5 du présent article.
+b) Le taux de ces cotisations est fixé par décret pris sur le rapport du ministre chargé de la sécurité sociale, du ministre chargé du gaz et de l'électricité et du ministre chargé du budget, sur les propositions du comité de coordination des caisses mutuelles complémentaires et d'action sociale prévu au paragraphe 10 ci-dessous ou à l'initiative du ministre chargé du gaz et de l'électricité, après avis des directeurs généraux d'Electricité de France et de Gaz de France et des organisations représentatives des entreprises exclues de la nationalisation, en ce qui concerne les agents en activité ; il est réduit de moitié pour ce qui est des agents pensionnés. Les cotisations sont versées par les services, exploitations ou entreprises à un compte spécial ouvert dans les écritures d'Electricité de France (service national).
+
+c) Electricité de France (service national) verse au comité de coordination le montant d'un prélèvement qu'il effectue sur les cotisations et qui alimente pour moitié son budget, tel qu'il est défini à l'article 2 bis du règlement du comité.
+
+d) Un fonds de compensation entre les caisses mutuelles complémentaires et d'action sociale, géré par la caisse centrale d'activités sociales, est alimenté :
+
+- par un prélèvement sur les cotisations dont le montant correspond à un pourcentage des salaires et des pensions soumis à cotisation. Le taux de ce prélèvement est fixé par un arrêté du ministre chargé de la sécurité sociale et du ministre chargé du gaz et de l'électricité sur les propositions du comité de coordination ou du ministre chargé du gaz et de l'électricité ;
+
+- par un prélèvement sur les cotisations destinées aux caisses excédentaires. Le montant de ce prélèvement correspond au solde comptable positif constaté le dernier jour du mois précédant la péréquation des cotisations visée à l'alinéa e du présent paragraphe ;
+
+- et, le cas échéant, lorsque sa provision ne permet pas de satisfaire aux demandes des caisses déficitaires, par un prélèvement sur les réserves disponibles au Fonds national de réserves solidaires visé à l'alinéa f du présent paragraphe.
+
+Les prélèvements effectués sur les cotisations sont versés par Electricité de France (service national) au fonds de compensation. Les montants éventuellement prélevés sur le Fonds national de réserves solidaires sont versés au fonds de compensation par la C.C.A.S. Les modalités selon lesquelles il peut être fait appel à ce fonds de compensation sont précisées au règlement commun des caisses mutuelles complémentaires et d'action sociale prévu au paragraphe 5 du présent article.
+
+e) Le produit des cotisations, déductions faites des prélèvements visés aux alinéas c et d du présent paragraphe, est reversé par Electricité de France (service national) aux caisses mutuelles complémentaires et d'action sociale, conformément à la répartition établie par une commission de péréquation constituée au sein du comité de coordination. Cette répartition est faite en fonction du nombre de membres en activité de service et leurs ayants droit, d'une part, et du nombre des membres en inactivité ou pensionnés de tous ordres et leurs ayants droit, d'autre part, de chacune des caisses ; ce dernier nombre est affecté d'un coefficient de pondération pour tenir compte du rapport existant, en ce qui concerne l'ensemble des caisses, entre la charge moyenne assurée au titre d'un membre en activité de service et la charge moyenne assurée au titre d'un membre en inactivité ou pensionné. Un arrêté du ministre chargé de la sécurité sociale et du ministre chargé du gaz et de l'électricité, pris après avis de la Commission supérieure nationale du personnel des industries électriques et gazières, détermine les modalités d'application des présentes dispositions et fixe les conditions dans lesquelles est établi le coefficient de pondération.
+
+f) Un Fonds national de réserves solidaires entre les caisses mutuelles complémentaires et d'action sociale, géré par la caisse, est alimenté par l'excédent de cotisations détenues, le cas échéant, à la fin de l'exercice comptable par le fonds de compensation visé à l'alinéa d du présent paragraphe.
+
+Les montants ainsi déterminés sont versés par la caisse centrale d'activités sociales au Fonds national de réserves solidaires. Les modalités selon lesquelles il peut être fait appel à ce Fonds national de réserves sont précisées au règlement du comité de coordination et de la caisse centrale d'activités sociales prévus aux paragraphes 10 et 11 du présent article.
 
 Paragraphe 9.
 
@@ -114,9 +144,13 @@ Le règlement du comité de coordination des caisses mutuelles complémentaires 
 
 Paragraphe 11.
 
-La caisse centrale d'activités sociales dotée de la personnalité morale est chargée de gérer :
+La caisse centrale d'activités sociales, dotée de la personnalité morale, est chargée de gérer :
 
-a) Au titre des prestations complémentaires de celles du régime général de la sécurité sociale : le fonds de compensation, prévu au paragraphe 8 ci-dessus et alimenté par les versements effectués directement par les entreprises ou exploitations à la caisse centrale ;
+a) Au titre des prestations complémentaires de celles du régime général de la sécurité sociale :
+
+- le fonds de compensation prévu à l'alinéa d du paragraphe 8 du présent article et alimenté par les versements effectués directement par Electricité de France (service national) à la caisse centrale ;
+
+- le Fonds national de réserves solidaires prévu à l'alinéa f du paragraphe 8 du présent article et alimenté par les excédents de cotisations détenues, le cas échéant, à la fin de l'exercice comptable par le fonds de compensation.
 
 b) Au titre des activités sociales : les activités dont le caractère général ou l'importance exigent qu'elles soient gérées sur le plan national ainsi que les systèmes de compensation qu'il apparaîtrait nécessaire d'établir entre les caisses mutuelles complémentaires et d'action sociale pour faciliter la gestion, par celles-ci, d'activités sociales d'intérêt général mais dont les charges ne seraient pas normalement réparties sur l'ensemble des caisses.
 
