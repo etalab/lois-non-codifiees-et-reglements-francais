@@ -1,0 +1,3 @@
+# Article 22
+
+Aucune autorisation de dissémination ou de mise sur le marché ne peut être délivrée si les organismes animaux génétiquement modifiés et leur descendance ne peuvent être suivis. Lorsque ces organismes appartiennent aux espèces visées par la loi du 28 décembre 1966 susvisée, les modalités de ce suivi sont celles prévues par cette loi et les dispositions réglementaires prises pour son application. Lorsque ces organismes n'appartiennent pas auxdites espèces, les modalités de ce suivi sont fixées par arrêtés du ministre chargé de l'agriculture, après avis de la commission d'étude de la dissémination des produits issus du génie biomoléculaire.

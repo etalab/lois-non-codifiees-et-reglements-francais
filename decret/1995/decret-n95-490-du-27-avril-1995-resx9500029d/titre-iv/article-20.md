@@ -1,0 +1,3 @@
+# Article 20
+
+Nonobstant les dispositions des articles 6 et 13 du présent décret, les fonctionnaires qui ont été placés en position de détachement, avant le 1er janvier 1996, dans le corps des maîtres de conférences ou dans le corps des professeurs des universités en application du 7° de l'article 40-2 ou du 4° de l'article 58-1 du décret du 6 juin 1984 susvisé sont maintenus en position de détachement jusqu'à la date d'expiration de celui-ci. Leur détachement peut être renouvelé. Ils peuvent être intégrés, selon le cas, dans le corps des maîtres de conférences ou dans le corps des professeurs des universités dans les conditions fixées par l'article 40-5 ou l'article 58-4 du décret du 6 juin 1984 susvisé.
