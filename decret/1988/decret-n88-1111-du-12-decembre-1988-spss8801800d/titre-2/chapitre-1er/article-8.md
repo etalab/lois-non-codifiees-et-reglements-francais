@@ -28,10 +28,12 @@ Ne sont pas prises en compte dans les ressources les prestations suivantes :
 
 13° Le capital décès servi par un régime de sécurité sociale.
 
-14° L'allocation du fonds de solidarité en faveur des anciens combattants d'Afrique du Nord créée à l'article 125 de la loi n° 91-1322 du 30 décembre 1991.
+14° L'allocation du fonds de solidarité en faveur des anciens combattants d'Afrique du Nord créée à l'article 125 de la loi n° 91-1322 du 30 décembre 1991 ;
 
-15° L'aide spécifique en faveur des conjoints survivants de nationalité française des membres des formations supplétives et assimilés instituée aux premier et troisième alinéas de l'article 10 de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie.
+15° L'aide spécifique en faveur des conjoints survivants de nationalité française des membres des formations supplétives et assimilés instituée aux premier et troisième alinéas de l'article 10 de la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie ;
 
 16° L'allocation pour jeune enfant instituée par l'article L. 531-1 du code de la sécurité sociale due pendant la période de grossesse et jusqu'au mois de naissance de l'enfant inclus ;
 
-17° La majoration pour âge des allocations familiales instituée par l'article L. 521-3 du code de la sécurité sociale.
+17° La majoration pour âge des allocations familiales instituée par l'article L. 521-3 du code de la sécurité sociale ;
+
+18° La rente viagère instituée par l'article 47 de la loi de finances rectificative pour 1999 (n° 99-1173 du 30 décembre 1999).
