@@ -351,6 +351,7 @@
 - [Décret n°93-1299 du 13 décembre 1993 (ECOT9351314D)](decret-n93-1299-du-13-decembre-1993-ecot9351314d)
 - [Décret n°93-1309 du 13 décembre 1993 (JUSF9350007D)](decret-n93-1309-du-13-decembre-1993-jusf9350007d)
 - [Décret n°93-1311 du 13 décembre 1993 (DOMP9300037D)](decret-n93-1311-du-13-decembre-1993-domp9300037d)
+- [Décret n°93-1312 du 13 décembre 1993 (INDH9300799D)](decret-n93-1312-du-13-decembre-1993-indh9300799d)
 - [Décret n°93-47 du 13 janvier 1993 (LOGC9200004D)](decret-n93-47-du-13-janvier-1993-logc9200004d)
 - [Décret n°93-60 du 13 janvier 1993 (MENF9204309D)](decret-n93-60-du-13-janvier-1993-menf9204309d)
 - [Décret n°93-61 du 13 janvier 1993 (MENB9200470D)](decret-n93-61-du-13-janvier-1993-menb9200470d)
