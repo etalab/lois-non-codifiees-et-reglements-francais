@@ -1,0 +1,3 @@
+# Article 3
+
+Lorsqu'en application de l'article 5 du décret n° 73-219 du 23 février 1973 portant application des dispositions des articles 40 et 57 de la loi n° 64-1245 du 16 décembre 1964, un acte déclaratif d'utilité publique prévu à l'article 113 du Code rural tient lieu de la déclaration prescrite par l'article 40 de la loi n° 64-1245 du 16 décembre 1964, le service du Génie rural, des Eaux et des Forêts assure dans tous les cas la surveillance de l'installation de prélèvement des eaux souterraines correspondante [*autorité compétente, attributions*]. Ce même service est chargé, le cas échéant, de l'instruction du complément de déclaration prévu par l'article du décret n° 73-219 du 23 février 1973 précité.

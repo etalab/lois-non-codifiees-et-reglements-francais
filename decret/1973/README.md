@@ -24,6 +24,7 @@
 - [Décret n°73-276 du 14 mars 1973](decret-n73-276-du-14-mars-1973)
 - [Décret n°73-312 du 14 mars 1973](decret-n73-312-du-14-mars-1973)
 - [Décret n°73-319 du 14 mars 1973](decret-n73-319-du-14-mars-1973)
+- [Décret n°73-431 du 14 mars 1973](decret-n73-431-du-14-mars-1973)
 - [Décret n°73-321 du 15 mars 1973](decret-n73-321-du-15-mars-1973)
 - [Décret n°73-87 du 15 janvier 1973](decret-n73-87-du-15-janvier-1973)
 - [Décret n°73-89 du 19 janvier 1973](decret-n73-89-du-19-janvier-1973)
