@@ -1,6 +1,6 @@
 # Article 5
 
-La durée du stage prévu à l'article 37 de la loi du 9 janvier 1986 susvisée auquel sont astreints les candidats admis aux concours prévus à l'article précédent avant d'être titularisés est fixée à quinze mois.
+La durée du stage prévu à l'article 37 de la loi du 9 janvier 1986 susvisée auquel sont astreints les candidats admis au concours prévu à l'article précédent avant d'être titularisés est fixée à quinze mois.
 
 Ce stage comporte :
 

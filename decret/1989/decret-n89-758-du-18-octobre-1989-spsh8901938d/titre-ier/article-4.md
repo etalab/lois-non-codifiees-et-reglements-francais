@@ -1,6 +1,6 @@
 # Article 4
 
-Les infirmiers généraux de 2e classe sont recrutés à la suite de concours sur épreuves ouverts par le préfet de région pour un ou plusieurs établissements de la région et organisés dans la région. Toutefois, en ce qui concerne l'administration générale de l'assistance publique à Paris, ils sont ouverts par le directeur général.
+Les infirmiers généraux de seconde classe sont recrutés à la suite d'un concours sur épreuves ouvert par le ministre chargé de la santé et organisé sur le plan national.
 
 Peuvent être candidats :
 
