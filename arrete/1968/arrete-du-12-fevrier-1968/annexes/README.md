@@ -6,6 +6,7 @@
 - [Article Annexe 4](article-annexe-4.md)
 - [Article Annexe 5](article-annexe-5.md)
 - [Article Annexe 6](article-annexe-6.md)
+- [Article Annexe 6 bis](article-annexe-6-bis.md)
 - [Article Annexe 7](article-annexe-7.md)
 - [Article Annexe 7 bis](article-annexe-7-bis.md)
 - [Article Annexe 8](article-annexe-8.md)
@@ -20,3 +21,4 @@
 - [Article Annexe 17](article-annexe-17.md)
 - [Article Annexe 18](article-annexe-18.md)
 - [Article Annexe 19](article-annexe-19.md)
+- [Article Annexe 20](article-annexe-20.md)

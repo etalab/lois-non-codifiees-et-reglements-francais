@@ -1,5 +1,5 @@
 # Article Annexe art. 8
 
-Les arrérages des retraites et des pensions de réversion sont payables à terme échu selon la périodicité retenue pour le paiement des arrérages du régime de base ; ils sont dus jusqu'au dernier jour du mois au cours duquel se produit le décès de l'intéressé.
+Les arrérages des retraites et pensions de réversion sont payables à terme échu et à la fin de chaque trimestre civil ; ils sont dus jusqu'au jour du décès de l'intéressé.
 
-La caisse Organic-complémentaire assure directement ou par l'intermédiaire des caisses de base le versement des prestations aux retraités et conjoints survivants qui doivent justifier périodiquement de leur situation.
+La caisse Organic-Complémentaire assure directement le versement des prestations aux retraités et conjoints survivants qui doivent justifier périodiquement de leur situation.

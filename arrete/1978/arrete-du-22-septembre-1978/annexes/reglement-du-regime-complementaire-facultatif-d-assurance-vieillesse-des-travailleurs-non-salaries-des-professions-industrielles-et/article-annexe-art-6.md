@@ -1,21 +1,15 @@
 # Article Annexe art. 6
 
-Pour les retraités titulaires, la limitation de la revalorisation prévue au deuxième alinéa de l'article D. 635-26 du code de la sécurité sociale s'opère en ne prenant pas en compte les pourcentages de revalorisation fixés par le conseil d'administration pour chacune des périodes au titre desquelles l'adhérent a cessé de cotiser alors qu'il restait affilié au régime de base à titre obligatoire.
-
-Le coefficient de réduction propre à chaque période de cessation volontaire d'adhésion est égal au rapport de la valeur du point de retraite en vigueur à la date de cessation d'adhésion à la valeur du point en vigueur selon les cas :
-
-- au premier jour du semestre qui suit la fin de cessation volontaire d'adhésion ;
-
-- ou au premier jour du semestre qui suit la fin d'affiliation obligatoire au régime Organic ;
-
-- ou au premier jour du mois qui suit le soixante-cinquième anniversaire si cette date est antérieure aux deux précédentes.
-
-Lors de la liquidation de la retraite, le nombre de points attribués pour chaque année civile est réduit par application des coefficients de réduction déterminés par chaque période de cessation volontaire d'adhésion postérieure à l'année concernée.
-
-La retraite est servie sur la base des points ainsi ajustés.
+Pour les retraités titulaires, la limitation de la revalorisation prévue au deuxième alinéa de l'article 8 du décret n° 78-321 du 14 mars 1978 s'opère en réduisant le nombre de points attribués lors de chaque versement dans le rapport de la valeur du point en vigueur à la date du versement de l'élément de cotisation à la valeur du point à la date de prise d'effet de la retraite, sans que les coefficients ainsi déterminés puissent être supérieurs à 1. La retraite est servie sur la base du nombre de points ainsi ajustés.
 
 Le conjoint survivant admis au bénéfice d'une pension de réversion à revalorisation limitée perçoit des prestations déterminées en application des dispositions de l'article 5 du présent règlement :
 
-- lorsque le conjoint décédé avait obtenu la liquidation de ses droits, sur la base du nombre de points ajustés qui lui avaient été attribués à titre définitif (avant application, le cas échéant, d'un coefficient d'anticipation) ;
+Sur la base du nombre de points ajustés définis ci-dessus pour la la retraite du conjoint décédé lorsque celui-ci avait obtenu la liquidation de ses droits ;
 
-- lorsque le conjoint décédé n'avait pas obtenu la liquidation de ses droits, sur la base du nombre de points attribués au titulaire et ajustés dans les conditions définies ci-dessus, au plus tard au premier jour du mois suivant le décès.
+En réduisant le nombre de points attribués à l'adhérent non retraité lors de chaque versement de cotisation dans le rapport de la valeur du point en vigueur à la date de chacun des versements à la valeur du point :
+
+Appliquée au premier jour du mois suivant le décès de l'adhérent, s'il était âgé de plus de soixante-cinq ans ;
+
+Appliquée au premier jour du mois suivant celui au cours duquel le conjoint prédécédé aurait atteint l'âge de soixante-cinq ans ou au premier jour du mois de prise d'effet de la pension de réversion si cette date est antérieure,
+
+sans que les coefficients ainsi déterminés puissent être supérieurs à 1.
