@@ -7,6 +7,7 @@
 - [Arrêté du 2 juillet 1979](arrete-du-2-juillet-1979)
 - [Arrêté du 2 mai 1979](arrete-du-2-mai-1979)
 - [Arrêté du 3 juillet 1979](arrete-du-3-juillet-1979)
+- [Arrêté du 5 avril 1979](arrete-du-5-avril-1979)
 - [Arrêté du 5 février 1979](arrete-du-5-fevrier-1979)
 - [Arrêté du 5 octobre 1978](arrete-du-5-octobre-1978)
 - [Arrêté du 5 octobre 1979](arrete-du-5-octobre-1979)
