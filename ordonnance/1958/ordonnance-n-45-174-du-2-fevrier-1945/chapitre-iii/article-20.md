@@ -26,4 +26,4 @@ Si l'accusé a moins de dix-huit ans, le président posera, à peine de nullité
 
 2° Y a-t-il lieu d'exclure l'accusé du bénéfice de la diminution de peine prévue à l'article 20-2 ?
 
-S'il est décidé que l'accusé mineur déclaré coupable ne doit pas faire l'objet d'une condamnation pénale, les mesures relatives à son placement ou à sa garde, sur lesquelles la cour et le jury sont appelés à statuer, seront celles des articles 16 et 19 (alinéa 1er).
+S'il est décidé que l'accusé mineur déclaré coupable ne doit pas faire l'objet d'une condamnation pénale, les mesures relatives à son placement ou à sa garde ou les sanctions éducatives sur lesquelles la cour et le jury sont appelés à statuer seront celles des articles 15-1, 16 et du premier alinéa de l'article 19.

@@ -6,4 +6,4 @@ Toutefois, si le mineur est âgé de plus de seize ans, le tribunal pour enfants
 
 Les dispositions de l'article 132-23 du code pénal relatives à la période de sûreté ne sont pas applicables aux mineurs.
 
-L'emprisonnement est subi par les mineurs dans les conditions définies par décret en Conseil d'Etat.
+L'emprisonnement est subi par les mineurs soit dans un quartier spécial d'un établissement pénitentiaire, soit dans un établissement pénitentiaire spécialisé pour mineurs dans les conditions définies par décret en Conseil d'Etat.
