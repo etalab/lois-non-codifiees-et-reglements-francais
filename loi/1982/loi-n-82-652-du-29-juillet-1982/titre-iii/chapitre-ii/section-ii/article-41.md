@@ -1,3 +1,0 @@
-# Article 41
-
-Le conseil d'administration de la société prévue à l'article 40 comprend douze membres nommés pour trois ans : deux parlementaires désignés respectivement par le Sénat et par l'Assemblée nationale ; un administrateur nommé par la Haute autorité, président ; un administrateur désigné par le conseil national de la communication audiovisuelle ; deux représentants du personnel de la société ; trois administrateurs représentant l'Etat actionnaire ; trois administrateurs désignés par le conseil d'orientation prévu à l'article 40. En cas de partage des voix, celle du président est prépondérante.
