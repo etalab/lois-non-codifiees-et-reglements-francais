@@ -582,7 +582,6 @@
 - [Arrêté du 18 avril 1997 (TASA9721443A)](arrete-du-18-avril-1997-tasa9721443a)
 - [Arrêté du 18 avril 1997 (TASS9721399A)](arrete-du-18-avril-1997-tass9721399a)
 - [Arrêté du 18 décembre 1996 (EQUA9601760A)](arrete-du-18-decembre-1996-equa9601760a)
-- [Arrêté du 18 décembre 1996 (INDB9600877A)](arrete-du-18-decembre-1996-indb9600877a)
 - [Arrêté du 18 décembre 1996 (MIPP9600489A)](arrete-du-18-decembre-1996-mipp9600489a)
 - [Arrêté du 18 décembre 1996 (MIPP9600490A)](arrete-du-18-decembre-1996-mipp9600490a)
 - [Arrêté du 18 décembre 1996 (MIPP9600491A)](arrete-du-18-decembre-1996-mipp9600491a)

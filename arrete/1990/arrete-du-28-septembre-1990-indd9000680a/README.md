@@ -2,9 +2,6 @@
 
 - [Titre Ier : Généralités.](titre-ier)
 - [Titre II : Conditions de construction.](titre-ii)
-- [Titre III : Vérification primitive.](titre-iii)
-- [Titre IV : Vérification après réparation ou modification.](titre-iv)
-- [Titre V : Vérification périodique.](titre-v)
 - [Titre VI : Conditions d'utilisation.](titre-vi)
 - [Titre VII : Dispositions diverses.](titre-vii)
 - [Article 40](article-40.md)
