@@ -1,0 +1,3 @@
+# Article 3
+
+Au cas où les étudiants qui lui paraissent susceptibles d'être immatriculés dans l'assurance sociale obligatoire n'auraient pas fait l'objet de la part de l'établissement d'enseignement, de la déclaration prévue par la réglementation en vigueur, la Caisse primaire de sécurité sociale peut, soit de son propre chef, soit à la requête des intéressés, effectuer au siège des établissements d'enseignement toutes recherches utiles sur la situation desdits étudiants, en vue de leur immatriculation. Elle provoque, à cet égard, les explications des chefs d'établissements d'enseignement et, le cas échéant, des intéressés.
