@@ -1,3 +1,3 @@
 # Article 6
 
-Les entreprises qui commercialisent les carburéacteurs et les essences aviation pour les vols intérieurs sont tenues d'adresser à titre d'information, lors de toute modification, leurs tarifs et conditions de vente à la direction générale de la concurrence et de la consommation et à la direction des hydrocarbures.
+En dehors des agents de la direction générale des impôts qui en sont normalement destinataires dans le cadre de leurs attributions, ces informations ne peuvent être communiquées qu'aux personnes ayant qualité pour en connaître en vertu de dispositions législatives.

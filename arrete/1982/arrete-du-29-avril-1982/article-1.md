@@ -1,13 +1,3 @@
 # Article 1
 
-Les prix de vente en vrac à l'utilisateur des carburéacteurs et des essences aviation, en acquitté, résultent de l'addition des éléments ci-après :
-
-Prix de production ;
-
-Taxes et redevances ;
-
-Cote d'aérodrome ;
-
-Marge de distribution ;
-
-Taxe à la valeur ajoutée.
+La répartition des sièges de représentants des salariés dans les conseils d'administration des banques mentionnées à l'article 12-II a et 12-III et des compagnies financières mentionnées à l'article 29 de la loi susvisée est assurée conformément au tableau annexé au présent arrêté.
