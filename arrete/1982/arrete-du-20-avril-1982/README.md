@@ -1,4 +1,4 @@
-# Arrêté du 20 avril 1982 fixant le montant des redevances cynégétiques
+# Arrêté du 20 avril 1982 RELATIF AU DROIT D'INSCRIPTION A L'EXAMEN DU PERMIS DE CHASSER
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

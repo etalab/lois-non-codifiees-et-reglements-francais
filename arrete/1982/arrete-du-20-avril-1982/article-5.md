@@ -1,6 +1,6 @@
 # Article 5
 
-a) Pour bénéficier des déductions relatives aux économies d'énergie, les contribuables doivent produire les justifications suivantes, à la demande du service des impôts [*conditions*] :
+a) Pour bénéficier des déductions relatives aux économies d'énergie, les contribuables doivent produire les justifications suivantes, à la demande du service des impôts :
 
 1. Les factures délivrées par les fournisseurs et installateurs des matériels admis en déduction. Ces factures doivent mentionner :
 
