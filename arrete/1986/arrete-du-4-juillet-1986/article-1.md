@@ -1,9 +1,3 @@
 # Article 1
 
-La demande d'allocation de logement à caractère social concernant les chômeurs de longue durée doit être établie conformément au modèle n° S. 7142 annexé au présent arrêté.
-
-Ce modèle a été enregistré par le Cerfa (1) sous le numéro 60-3747 (2).
-
-(1) Centre d'enregistrement et de révision des formulaires administratifs.
-
-(2) Les modèles de ces imprimés sont disponibles auprès des organismes et des services de prestations familiales.
+La Banque française du commerce extérieur est autorisée à émettre un emprunt totalisant 4 milliards de francs, en deux tranches de respectivement 1 à 3 milliards à taux fixe d'une durée de treize ans et de 1 à 3 milliards à taux variable d'une durée de dix ans.

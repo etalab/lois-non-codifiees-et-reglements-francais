@@ -1,3 +1,5 @@
 # Article 3
 
-Les fonds dégagés par la dotation spéciale sont affectés à l'attribution par les caisses d'allocations familiales d'une prestation aux familles employant une assistance maternelle agréée pour la garde d'un ou plusieurs jeunes enfants. Les modalités d'utilisation de ces fonds sont précisées par le conseil d'administration de la Caisse nationale des allocations familiales. La répartition des fonds est assurée pour les unions régionales de sociétés de secours minières, par l'intermédiaire de la caisse autonome nationale de la sécurité sociale dans les mines.
+M. Cuxac est nommé président du comité technique pour la valorisation des déchets organiques.
+
+Le secrétariat du comité est assuré par l'A.N.R.E.D. Le comité se réunit sur convocation de son président au moins deux fois par an et peut faire appel, en fonction de son ordre du jour, à toute personnalité qualifiée autre que celles désignées à l'article ci-dessus.

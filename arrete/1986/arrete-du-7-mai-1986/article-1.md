@@ -1,25 +1,23 @@
 # Article 1
 
-En application de l'article 2 du décret du 28 mai 1982 susvisé, les commissions administratives paritaires suivantes sont instituées auprès du président-directeur général de l'Institut national de la recherche agronomique :
+Pour 1986, le montant de la somme forfaitaire à prélever sur le produit de la taxe unique sur les produits forestiers sera rattaché selon la procédure des fonds de concours au budget du ministère de l'agriculture selon les modalités suivantes :
 
-Commission numéro 1. - Directeurs de recherche.
+NUMERO des chapitres : 35-92
 
-Commission numéro 2. - Chargés de recherche.
+LIBELLE :  Forêts - Travaux d'entretien
 
-Commission numéro 3. - Ingénieurs de recherche et chargés d'administration de la recherche.
+MONTANT (en francs) : 24.835.877
 
-Commission numéro 4. - Ingénieurs d'études.
+NUMERO des chapitres : 36-23
 
-Commission numéro 5. - Assistants ingénieurs.
+LIBELLE : Ecole nationale du génie rural, des eaux et des forêts.
 
-Commission numéro 6. - Techniciens de la recherche.
+MONTANT (en francs) : 4.200.000
 
-Commission numéro 7. - Adjoints techniques de la recherche.
+NUMEROS des chapitres : 44-92
 
-Commission numéro 8. - Agents techniques de la recherche.
+LIBELLES : Forêts - Interventions.
 
-Commission numéro 9. - Attachés d'administration de la recherche.
+MONTANT (en francs) : 4.200.000
 
-Commission numéro 10. - Secrétaires d'administration de la recherche.
-
-Commission numéro 11. - Adjoints administratifs de la recherche.
+MONTANTS (en francs) : Total : 33.235.877.

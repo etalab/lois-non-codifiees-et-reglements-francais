@@ -1,3 +1,7 @@
 # Article 5
 
-Le directeur de la sécurité sociale et le directeur de l'action sociale au ministère des affaires sociales et de l'emploi, le directeur du budget au ministère de l'économie, des finances et de la privatisation, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le comité donne un avis sur les orientations et les modalités d'intervention de l'A.N.R.E.D. dans le domaine de la valorisation des déchets organiques, ainsi que sur les projets de valorisation de ces déchets instruits par cet établissement, qui lui sont soumis.
+
+Le comité est informé des programmes de recherches et d'études, et des actions menées dans le domaine de la valorisation des déchets organiques par les ministères chargés de l'environnement et de l'agriculture.
+
+Les avis établis par le comité sont adressés au conseil d'administration de l'A.N.R.E.D. ainsi qu'aux ministres chargés de l'environnement et de l'agriculture.

@@ -1,7 +1,9 @@
-# Arrêté du 5 juin 1986 fixant la répartition des cotisations d'allocations familiales pour l'année 1985
+# Arrêté du 5 juin 1986 portant création du comité technique pour la valorisation des déchets organiques
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
