@@ -1,6 +1,5 @@
 # Loi n° 72-619 du 5 juillet 1972 portant création et organisation des régions.
 
-- [Article 4](article-4.md)
 - [Article 7-1](article-7-1.md)
 - [Article 10](article-10.md)
 - [Article 16](article-16.md)
