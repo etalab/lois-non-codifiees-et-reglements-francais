@@ -1,6 +1,6 @@
 # Article 2
 
-Les institutions gestionnaires du régime d'assurance chômage sont autorisées à collecter elles-mêmes auprès des demandeurs d'emploi [*chômeurs*] leur numéro d'inscription au répertoire.
+Les institutions gestionnaires du régime d'assurance chômage sont autorisées à collecter elles-mêmes auprès des demandeurs d'emploi leur numéro d'inscription au répertoire.
 
 Elles sont également autorisées à consulter le répertoire national d'identification des personnes physiques afin d'obtenir ou de vérifier le numéro d'inscription au répertoire des demandeurs d'emploi indemnisés ou demandant à être indemnisés.
 
@@ -14,4 +14,6 @@ Elles procèdent à cette consultation pour :
 
 4° Rassembler et traiter, à des fins statistiques, des informations individuelles relatives à leurs allocataires ou aux demandeurs d'emploi les sollicitant en vue de percevoir tout revenu de remplacement géré par elles ;
 
-5° Communiquer par traitement automatisé aux employeurs mentionnés à l'article L. 351-12 du code du travail assurant la charge et la gestion de l'allocation d'assurance le numéro d'inscription au répertoire national d'identification des personnes physiques de leurs anciens agents ou salariés inscrits comme demandeurs d'emploi.
+5° Communiquer par traitement automatisé aux employeurs mentionnés à l'article L. 351-12 du code du travail assurant la charge et la gestion de l'allocation d'assurance le numéro d'inscription au répertoire national d'identification des personnes physiques de leurs anciens agents ou salariés inscrits comme demandeurs d'emploi ;
+
+6° Communiquer, par traitement automatisé, le numéro d'inscription au répertoire national d'identification des personnes physiques des salariés des professions de la production cinématographique et des spectacles à la caisse de congés payés et aux institutions des régimes complémentaires de retraite de ces professions, en vue de la vérification du versement des contributions d'assurance chômage et des droits des salariés.
