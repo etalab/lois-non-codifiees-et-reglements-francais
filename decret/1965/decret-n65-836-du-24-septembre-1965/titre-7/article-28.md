@@ -1,6 +1,6 @@
 # Article 28
 
-I - Les personnels visés à l'article 1er supportent une retenue de 7 %, calculée sur les émoluments représentés [*montant de la cotisation d'assurance vieillesse - part salariale*] :
+I - Les personnels visés à l'article 1er supportent une retenue de 7,7 %, calculée sur les émoluments représentés [*montant de la cotisation d'assurance vieillesse - part salariale*] :
 
 a) Pour les intéressés rémunérés par un salaire national, par la somme brute correspondant à l'indice de la catégorie à laquelle ils appartiennent, à l'exclusion de tout autre avantage, quelle qu'en soit la nature ;
 
