@@ -24,3 +24,4 @@
 - [Décret n°58-1034 du 28 octobre 1958](decret-n58-1034-du-28-octobre-1958)
 - [Décret n°58-560 du 28 juin 1958](decret-n58-560-du-28-juin-1958)
 - [Décret n°58-989 du 28 août 1958](decret-n58-989-du-28-aout-1958)
+- [Décret n°58-1039 du 31 octobre 1958](decret-n58-1039-du-31-octobre-1958)
