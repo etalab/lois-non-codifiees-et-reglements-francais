@@ -1,4 +1,4 @@
-# TITRE Ier: Dispositions générales.
+# TITRE 1er : Dispositions g&lt;e'&gt;n&lt;e'&gt;rales.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

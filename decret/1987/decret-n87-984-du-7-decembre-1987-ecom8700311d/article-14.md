@@ -1,0 +1,3 @@
+# Article 14
+
+les bénéficiaires de cession, de nantissement de créance ou de transmission prévue à l'article 191 ou 360 du code des marchés publics ne peuvent exiger d'autres renseignements que ceux prévus à l'article 192 ou 360 dudit code ni intervenir en aucune manière dans l'exécution du marché. Toutefois, si le crédit d'équipement des petites et moyennes entreprises avise la personne désignée au marché qu'il a l'intention d'intervenir dans le cadre de l'article 15 du présent décret au profit du titulaire, toute lettre suspendant le délai d'envoi de l'autorisation mentionnée ci-dessus, conformément aux dispositions de l'article 4 du même décret, doit, sur sa demande, lui être notifiée en même temps et dans les mêmes formes qu'au titulaire.
