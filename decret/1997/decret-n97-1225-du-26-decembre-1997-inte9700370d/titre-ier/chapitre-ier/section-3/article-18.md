@@ -11,3 +11,5 @@ La commission administrative et technique des services d'incendie et de secours 
 4° Le médecin chef du service de santé et de secours médical ou son représentant.
 
 En cas d'absence ou d'empêchement, les sapeurs-pompiers élus à la commission administrative et technique sont remplacés par leur suppléant élu dans les mêmes conditions et pour la même durée que le membre titulaire.
+
+Les sapeurs-pompiers volontaires qui ont la qualité de fournisseurs ou de prestataires de services du service départemental d'incendie et de secours ne peuvent pas siéger à la commission administrative et technique des services d'incendie et de secours ainsi qu'à la commission des marchés du service départemental d'incendie et de secours.
