@@ -28,6 +28,6 @@ Le conseil d'administration délibère notamment sur
 
 12° Les comptes de chaque exercice.
 
-Le conseil d'administration peut déléguer une partie de ses attributions et pouvoirs à son président.
+Le conseil d'administration peut déléguer une partie de ses attributions au président-directeur général.
 
 Le conseil arrête son règlement intérieur.
