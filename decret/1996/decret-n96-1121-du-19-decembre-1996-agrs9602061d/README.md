@@ -1,6 +1,5 @@
-# Arrêté du 21 avril 1995 relatif à la délivrance du certificat général d'opérateur et du certificat restreint d'opérateur des stations radioélectriques de navires dans le cadre du Système mondial de détresse et de sécurité en mer
+# Décret n°96-1121 du 19 décembre 1996 concernant l'octroi d'une indemnité à l'abandon définitif total ou partiel de la production laitière
 
-- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
@@ -9,8 +8,8 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 9-1](article-9-1.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
+- [Article 14](article-14.md)
