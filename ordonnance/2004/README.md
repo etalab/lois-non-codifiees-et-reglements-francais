@@ -38,6 +38,7 @@
 - [Ordonnance n° 2004-1129 du 21 octobre 2004 (JUSX0400167R)](ordonnance-n-2004-1129-du-21-octobre-2004-jusx0400167r)
 - [Ordonnance n° 2004-728 du 22 juillet 2004 (DOMX0400095R)](ordonnance-n-2004-728-du-22-juillet-2004-domx0400095r)
 - [Ordonnance n° 2004-729 du 22 juillet 2004 (DOMX0400043R)](ordonnance-n-2004-729-du-22-juillet-2004-domx0400043r)
+- [Ordonnance n° 2004-1253 du 24 novembre 2004 (DOMX0400209R)](ordonnance-n-2004-1253-du-24-novembre-2004-domx0400209r)
 - [Ordonnance n° 2004-602 du 24 juin 2004 (SOCX0400037R)](ordonnance-n-2004-602-du-24-juin-2004-socx0400037r)
 - [Ordonnance n° 2004-603 du 24 juin 2004 (SOCX0400086R)](ordonnance-n-2004-603-du-24-juin-2004-socx0400086r)
 - [Ordonnance n° 2004-604 du 24 juin 2004 (JUSX0400082R)](ordonnance-n-2004-604-du-24-juin-2004-jusx0400082r)

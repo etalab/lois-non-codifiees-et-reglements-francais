@@ -1,0 +1,5 @@
+# Article 517-3
+
+Les règles du marché peuvent autoriser un investisseur acheteur ou un investisseur vendeur, à la suite de l'exécution de son ordre sur le marché, à différer jusqu'à une date qu'elles fixent le versement des fonds ou la livraison des instruments financiers. L'investisseur acheteur, définitivement engagé dès l'exécution de son ordre à payer le prix des instruments financiers, ne doit verser les fonds qu'à la date, fixée par les règles du marché, à laquelle les instruments financiers sont inscrits à son compte.
+
+Les instruments financiers appartiennent au membre du marché au compte duquel ils sont inscrits, à la date fixée par les règles du marché et dans l'attente de leur inscription au compte de l'acheteur. L'investisseur vendeur, définitivement engagé dès l'exécution de son ordre à livrer les instruments financiers, ne doit livrer ceux-ci qu'à la date, fixée par les règles du marché, à laquelle son compte est débité. Il demeure propriétaire des instruments financiers aussi longtemps que ceux-ci sont inscrits à son compte.

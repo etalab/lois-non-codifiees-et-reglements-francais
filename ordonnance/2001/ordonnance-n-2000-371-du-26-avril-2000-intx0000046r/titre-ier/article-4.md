@@ -18,11 +18,11 @@ e) Personnes mentionnées aux 5° à 9° de l'article 20 ;
 
 f) Travailleurs autorisés à exercer une activité professionnelle salariée dans le territoire ;
 
-2° Sous réserve des conventions internationales, des documents prévus par décret en Conseil d'Etat, à l'objet et aux conditions de son séjour et, d'autre part, s'il y a lieu, à ses moyens d'existence et aux garanties de son rapatriement ;
+2° Sous réserve des conventions internationales, du justificatif d'hébergement prévu à l'article 5-1, s'il est requis, et des autres documents prévus par décret en Conseil d'Etat relatifs, d'une part, à l'objet et aux conditions de son séjour et, d'autre part, s'il y a lieu, à ses moyens d'existence, à la prise en charge par un opérateur d'assurance agréé des dépenses médicales et hospitalières, y compris d'aide sociale, résultant de soins qu'il pourrait engager dans les îles Wallis et Futuna, ainsi qu'aux garanties de son rapatriement ;
 
 3° Des documents nécessaires à l'exercice d'une activité professionnelle s'il se propose d'en exercer une.
 
-Par dérogation aux dispositions qui précèdent, les étrangers titulaires d'un titre de séjour ou du document de circulation délivré aux mineurs en application du troisième alinéa de l'article 11 sont admis dans les îles Wallis et Futuna au seul vu de la présentation de ce titre et d'un document de voyage.
+Par dérogation aux dispositions qui précèdent, les étrangers titulaires d'un titre de séjour ou du document de circulation délivré aux mineurs en application du deuxième alinéa de l'article 11 sont admis dans les îles Wallis et Futuna au seul vu de la présentation de ce titre et d'un document de voyage.
 
 L'accès aux îles Wallis et Futuna peut être refusé à tout étranger dont la présence constituerait une menace pour l'ordre public ou qui fait l'objet soit d'une interdiction du territoire, soit d'un arrêté d'expulsion.
 

@@ -1,0 +1,3 @@
+# Article 621-3
+
+Pour les personnes chargées de l'exécution d'ordres concernant des instruments financiers, constitue également une information privilégiée toute information transmise par un client qui a trait aux ordres en attente de ce client, est d'une nature précise, se rapporte directement ou indirectement, à un ou plusieurs émetteurs d'instruments financiers ou à un ou plusieurs instruments financiers et serait susceptible, si elle était rendue publique, d'avoir une influence sensible sur le cours des instruments financiers concernés ou le cours d'instruments financiers qui leur sont liés.

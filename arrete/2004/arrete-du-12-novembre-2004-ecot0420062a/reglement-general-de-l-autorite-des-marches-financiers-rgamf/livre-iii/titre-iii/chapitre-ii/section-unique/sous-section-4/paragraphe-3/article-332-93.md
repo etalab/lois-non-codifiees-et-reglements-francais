@@ -1,0 +1,3 @@
+# Article 332-93
+
+Lorsque le teneur de compte conservateur est conduit à réaliser, en conformité avec la réglementation en vigueur, un transfert des parts ou liquidités détenues par un porteur ou par l'ensemble des porteurs vers un autre teneur de compte conservateur, il fournit dans les meilleurs délais et au plus tard lors du transfert au nouveau teneur de compte conservateur toutes les informations qui lui sont nécessaires, notamment celles relatives à l'identification précise des titulaires concernés et de leurs parts, ainsi que les éléments chiffrés permettant l'établissement des déclarations fiscales.

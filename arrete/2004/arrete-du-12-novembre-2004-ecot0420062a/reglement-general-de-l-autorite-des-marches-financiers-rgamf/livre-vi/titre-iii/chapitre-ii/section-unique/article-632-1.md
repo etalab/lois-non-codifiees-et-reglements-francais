@@ -1,0 +1,7 @@
+# Article 632-1
+
+Toute personne doit s'abstenir de communiquer, ou de diffuser sciemment, des informations, quel que soit le support utilisé, qui donnent ou sont susceptibles de donner des indications inexactes, imprécises ou trompeuses sur des instruments financiers émis par voie d'appel public à l'épargne au sens de l'article L. 411-1 du code monétaire et financier, y compris en répandant des rumeurs ou en diffusant des informations inexactes ou trompeuses, alors que cette personne savait ou aurait dû savoir que les informations étaient inexactes ou trompeuses.
+
+Constitue en particulier la diffusion d'une fausse information le fait d'émettre, sur quelque support que ce soit, un avis sur un instrument financier ou indirectement sur l'émetteur de celui-ci, après avoir pris des positions sur cet instrument financier et de tirer profit de la situation qui en résulte, sans avoir simultanément rendu public, de manière appropriée et efficace, le conflit d'intérêts existant.
+
+Le non-respect de l'interdiction mentionnée au premier alinéa par des journalistes agissant dans le cadre de leur profession doit être apprécié en tenant compte de la réglementation applicable à cette profession. Cependant ce non-respect est susceptible de constituer par lui-même un manquement dès lors que les intéressés retirent, directement ou indirectement un avantage ou des profits de la diffusion de telles informations.

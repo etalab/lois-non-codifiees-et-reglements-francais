@@ -1,0 +1,3 @@
+# Article 143-5
+
+Tout rapport établi au terme d'un contrôle est communiqué à l'entité ou la personne morale contrôlée. Toutefois, il n'est pas procédé à cette communication si le collège saisi par le secrétaire général constate que le rapport décrit des faits susceptibles de qualification pénale et estime qu'une telle communication pourrait faire obstacle au bon déroulement d'une procédure judiciaire. L'entité ou la personne morale à laquelle le rapport a été transmis est invitée à faire part au secrétaire général de l'AMF de ses observations dans un délai qui ne peut être inférieur à dix jours. Les observations sont transmises au collège lorsque celui-ci examine le rapport en application du I de l'article L. 621-15 du code monétaire et financier.

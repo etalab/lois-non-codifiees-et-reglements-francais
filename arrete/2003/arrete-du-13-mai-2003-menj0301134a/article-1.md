@@ -34,7 +34,7 @@ Mouvement rural de jeunesse chrétienne (MRJC) ;
 
 Office de formation d'animateurs et de directeurs (OFAC) ;
 
-Pionniers de France ;
+Pionniers de France - Enjeu;
 
 Service technique pour les activités de jeunesse (STAJ) ;
 

@@ -1,0 +1,3 @@
+# Article 41-1
+
+Peut également faire l'objet d'un arrêté d'assignation à résidence l'étranger qui a fait l'objet d'un arrêté d'expulsion non exécuté lorsque son état de santé nécessite une prise en charge médicale dont le défaut pourrait entraîner pour lui des conséquences d'une exceptionnelle gravité, sous réserve qu'il ne puisse effectivement bénéficier d'un traitement approprié dans le pays de renvoi. Cette mesure peut être assortie d'une autorisation de travail selon la réglementation applicable localement. Les obligations de présentation aux services de police et aux unités de gendarmerie ainsi que les sanctions en cas de non-respect des prescriptions liées à l'assignation à résidence prévues par l'article 41 sont applicables.

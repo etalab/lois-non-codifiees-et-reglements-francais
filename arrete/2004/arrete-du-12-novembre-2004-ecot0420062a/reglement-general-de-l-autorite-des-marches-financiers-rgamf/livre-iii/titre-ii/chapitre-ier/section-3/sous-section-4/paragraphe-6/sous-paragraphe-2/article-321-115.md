@@ -1,0 +1,7 @@
+# Article 321-115
+
+Pour l'allocation des titres, le prestataire chef de file veille, en concertation avec la société concernée, à ce que soit assuré un traitement équilibré entre les différentes catégories d'investisseurs autres que celles mentionnées à l'article 321-117. S'agissant des investisseurs personnes physiques, lorsque plusieurs procédures conçues à leur intention sont mises en oeuvre concomitamment, il veille à ce que les taux de service de la demande résultant de ces procédures soient du même ordre.
+
+Le prestataire chef de file fait ses meilleurs efforts pour qu'il soit répondu de façon significative aux demandes formulées par les investisseurs personnes physiques. Cet objectif est réputé atteint dès lors qu'est prévue une procédure, centralisée par l'entreprise de marché et caractérisée par une allocation proportionnelle aux demandes formulées et que, par cette procédure accessible aux investisseurs particuliers, 10 % au moins du montant global de l'opération sont mis sur le marché.
+
+Le prestataire chef de file s'attache à éviter un déséquilibre manifeste, aux dépens des investisseurs particuliers, entre le service de la demande qu'ils formulent et le service de la demande des investisseurs institutionnels. Ainsi, quand une procédure de placement conçue à l'intention des investisseurs institutionnels coexiste avec une ou plusieurs procédures conçues à l'intention des investisseurs particuliers, le prestataire chef de file s'attache à prévoir un mécanisme de transfert susceptible d'éviter un tel déséquilibre.

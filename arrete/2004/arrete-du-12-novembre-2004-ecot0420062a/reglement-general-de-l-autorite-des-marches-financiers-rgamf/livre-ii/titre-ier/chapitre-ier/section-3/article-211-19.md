@@ -1,0 +1,3 @@
+# Article 211-19
+
+Les émetteurs d'instruments financiers - autres que les organismes de placements collectifs, les Etats ou leurs collectivités territoriales - admis aux négociations sur un marché réglementé d'un Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen peuvent demander que soit reconnu, pour l'admission de leurs instruments financiers aux négociations sur un marché réglementé en France, le prospectus établi et approuvé depuis moins de trois mois dans un autre Etat membre ou un autre Etat partie à l'occasion de l'admission des mêmes instruments financiers aux négociations sur un marché réglementé ou lors de leur émission dans le public.

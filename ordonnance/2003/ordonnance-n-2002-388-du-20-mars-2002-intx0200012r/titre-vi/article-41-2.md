@@ -1,0 +1,3 @@
+# Article 41-2
+
+Peut également faire l'objet d'un arrêté d'assignation à résidence, à titre probatoire et exceptionnel, l'étranger qui fait l'objet d'un arrêté d'expulsion sur le fondement du dernier alinéa de l'article 35 ou du 2° de l'article 35-1. Cette mesure peut être assortie d'une autorisation de travail selon la réglementation applicable localement. Elle peut être abrogée à tout moment en cas de faits nouveaux constitutifs d'un comportement préjudiciable à l'ordre public. Les obligations de présentation aux services de police et aux unités de gendarmerie ainsi que les sanctions en cas de non-respect des prescriptions liées à l'assignation à résidence prévues par l'article 41 sont applicables.
