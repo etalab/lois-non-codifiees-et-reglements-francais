@@ -1,5 +1,3 @@
 # Article 3
 
-L'épreuve théorique est organisée par le directeur départemental des affaires sanitaires et sociales. Elle est écrite et anonyme et consiste à répondre en une heure à dix questions se rapportant au programme annexé au présent arrêté. Cette épreuve est notée sur 20.
-
-Sont seuls admis au stage les candidats ayant obtenu à l'épreuve théorique une note égale ou supérieure à 12.
+A l'issue du stage, le médecin chef de service transmet au directeur régional des affaires sanitaires et sociales un rapport mentionnant les nom et prénoms du stagiaire, les dates de début et de fin de stage, le nombre et la nature des actes effectués ainsi que son appréciaiton favorable ou défavorable.

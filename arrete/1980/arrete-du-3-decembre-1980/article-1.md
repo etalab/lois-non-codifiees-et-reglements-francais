@@ -1,11 +1,5 @@
 # Article 1
 
-Le certificat de capacité pour effectuer des prélèvements sanguins prévu à l'article 2 du décret susvisé du 3 décembre 1980 est délivré aux candidats ayant réussi aux trois épreuves suivantes :
+Le directeur régional des affaires sanitaires et sociales procède à l'inscription des personnes visées au premier alinéa de l'article 1er du décret du 3 décembre 1980 susvisé qui font acte de candidature au stage préalable à la délivrance des attestations de capacité prévues à l'article 1er du décret précité. Il répartit les candidats dans les divers services hospitaliers ou dispensaires après avoir obtenu l'accord du médecin chef de service.
 
-a) Une épreuve théorique ;
-
-b) Un stage ;
-
-c) Une épreuve pratique de prélèvements effectués en présence du jury.
-
-NOTA - L'annexe sera publiée au Bulletin officiel du ministère de la santé et de la sécurité sociale.
+Les internes en pharmacie de la filière de sciences biologiques spécialisées inscrits en vue du diplôme d'études spécialisées de biologie médicale effectuent le stage préalable à la délivrance des attestations de capacité dans un service clinique et au cours du semestre obligatoire de formation pratique dans un service clinique prévu à l'annexe jointe au décret du 1er avril 1985 susvisé.
