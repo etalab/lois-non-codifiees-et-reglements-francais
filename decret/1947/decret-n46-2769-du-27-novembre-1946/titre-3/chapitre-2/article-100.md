@@ -1,6 +1,6 @@
 # Article 100
 
-Le Fonds national de l'assurance maladie, maternité et décès comprend en recettes :
+Le Fonds national de l'assurance maladie, maternité et congé de parternité et décès comprend en recettes :
 
 1° Les cotisations prévues à l'article 91 ainsi que le produit des pénalités et majorations de retard y afférentes ;
 
@@ -14,13 +14,15 @@ Le Fonds national de l'assurance maladie, maternité et décès comprend en rece
 
 6° La fraction des intérêts créditeurs et des produits nets des placements prévus aux articles 122 et 124 ;
 
-7° Les contributions prévues par les dispositions législatives et réglementaires en vigueur.
+7° Les contributions prévues par les dispositions législatives et réglementaires en vigueur ;
+
+8° Le remboursement par la Caisse nationale des allocations familiales des indemnités versées en application de l'article 197 bis.
 
 Il comprend en dépenses :
 
 1° Les versements aux sociétés de secours minières pour le service des prestations dues au titre de l'assurance maladie, maternité et décès du présent régime ;
 
-2° Les dépenses de la caisse autonome nationale au titre des prestations des assurances maladie, maternité et décès versées à l'étranger ;
+2° Les dépenses de la caisse autonome nationale au titre des prestations des assurances maladie, maternité et congé de paternité et décès versées à l'étranger ;
 
 3° Les contributions au financement des dépenses visées au livre Ier, titre VII, chapitre IV du code de la sécurité sociale ;
 

@@ -1,6 +1,6 @@
 # Article 211
 
-Les salariés étrangers bénéficient, ainsi que leurs ayants droit, pour les services accomplis en France, des mêmes prestations d'assurance maladie, maternité, invalidité, vieillesse et décès que les travailleurs français s'ils ont leur résidence en France.
+Les salariés étrangers bénéficient, ainsi que leurs ayants droit, pour les services accomplis en France, des mêmes prestations d'assurance maladie, maternité et congé de paternité, invalidité, vieillesse et décès que les travailleurs français s'ils ont leur résidence en France.
 
 Toutefois, les salariés étrangers ayant leur résidence à l'étranger et leur lieu de travail permanent en France recevront les prestations de l'assurance maladie et de l'assurance maternité prévues par le présent décret s'il a été passé à cet effet une convention avec leur pays d'origine.
 

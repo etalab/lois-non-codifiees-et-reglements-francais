@@ -1,6 +1,6 @@
 # Article 155
 
-L'organisme qui sert les prestations d'assurance maladie et maternité doit prendre toutes dispositions propres à prévenir l'invalidité pendant la période de maladie ou de maternité.
+L'organisme qui sert les prestations d'assurance maladie et maternité et congé de paternité doit prendre toutes dispositions propres à prévenir l'invalidité pendant la période de maladie ou de maternité et congé de paternité.
 
 Il est tenu de faire connaître à l'affilié, par lettre recommandée, aussitôt qu'il se trouve à même d'apprécier son état, la date à partir de laquelle il ne peut plus prétendre aux prestations en espèces de l'assurance maladie en raison de la stabilisation dudit état. Les prestations en nature ne peuvent être suspendues et l'organisme peut accorder, sous sa responsabilité, des avances qui seront récupérées sur les premiers arrérages de la pension d'invalidité.
 

@@ -5,7 +5,7 @@
 - [Titre 2 : Organisation administrative](titre-2)
 - [Titre 3 : Organisation financière](titre-3)
 - [Titre 4 : Assurance vieillesse, invalidité](titre-4)
-- [Titre 5 : Assurance maladie, maternité, décès](titre-5)
+- [Titre 5 : Assurance maladie, maternité et congé de paternité, décès](titre-5)
 - [Titre 6 : Accidents du travail et maladies professionnelles](titre-6)
 - [Titre 7 : Prestations familiales et prestations assimilées](titre-7)
 - [Titre 8 : Dispositions diverses relatives aux prestations](titre-8)

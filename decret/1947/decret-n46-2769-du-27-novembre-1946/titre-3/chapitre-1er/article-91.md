@@ -1,6 +1,6 @@
 # Article 91
 
-Des cotisations d'assurance maladie, maternité, décès sont dues :
+Des cotisations d'assurance maladie, maternité et congé de paternité, décès sont dues :
 
 1° Au titre des personnes visées aux articles 2 à 5, 6 bis et 8 ter du présent décret et aux articles 2 à 4 et 18 du décret n° 75-8 du 6 janvier 1975 précité ; elles sont assises sur leurs rémunérations ou gains et à la charge des employeurs et des salariés ; leur taux est de 12,70 p. 100, soit respectivement 11,95 p. 100 et 0,75 p. 100 ;
 

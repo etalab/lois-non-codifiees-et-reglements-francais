@@ -4,7 +4,7 @@ Des cotisations sont dues par les bénéficiaires de l'organisation de la sécur
 
 1° De l'assurance vieillesse, invalidité ;
 
-2° De l'assurance maladie, maternité, décès ;
+2° De l'assurance maladie, maternité et congé de paternité, décès ;
 
 3° Des accidents du travail et des maladies professionnelles ;
 

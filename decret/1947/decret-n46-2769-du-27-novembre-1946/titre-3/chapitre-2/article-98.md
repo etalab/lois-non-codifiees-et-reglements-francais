@@ -4,7 +4,7 @@ La Caisse autonome nationale de la sécurité sociale dans les mines gère les f
 
 1° Le Fonds national de l'assurance vieillesse et invalidité ;
 
-2° Le Fonds national de l'assurance maladie, maternité et décès ;
+2° Le Fonds national de l'assurance maladie, maternité et congé de paternité et décès ;
 
 3° Le Fonds national des accidents du travail et des maladies professionnelles ;
 
