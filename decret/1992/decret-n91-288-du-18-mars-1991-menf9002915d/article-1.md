@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnels du lycée professionnel privé de Hayange, du lycée professionnel privé de Guénange et du lycée professionnel privé de Moyeuvre-Grande qui remplissent les conditions exigées à l'article 129 de la loi du 29 décembre 1989 susvisée peuvent, sous réserve de satisfaire aux dispositions de l'article 5 de la loi du 13 juillet 1983 susvisée, et s'ils en font la demande dans un délai de six mois à compter de la date de publication du présent décret, être intégrés dans des corps de fonctionnaires relevant du ministère de l'éducation nationale dans les conditions fixées ci-dessous.

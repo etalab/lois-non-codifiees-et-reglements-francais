@@ -5,3 +5,4 @@
 - [CHAPITRE III : Avancement.](chapitre-iii)
 - [CHAPITRE IV : Dispositions relatives au détachement.](chapitre-iv)
 - [CHAPITRE V : Dispositions transitoires.](chapitre-v)
+- [Article 25](article-25.md)

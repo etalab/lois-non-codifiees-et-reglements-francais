@@ -1,0 +1,3 @@
+# Article 12
+
+Les agents visés à l'article 8 bénéficient des dispositions du décret n° 83-916 du 13 octobre 1983 pris pour l'application de l'article 23 de la loi n° 83-481 du 11 juin 1983 définissant les conditions dans lesquelles doivent être pourvus les emplois civils de l'Etat et de ses établissements publics et autorisant l'intégration des agents non titulaires de l'Etat occupant de tels emplois et de celles du décret n° 84-183 du 12 mars 1984 fixant les éléments de rémunération à prendre en considération pour la détermination de l'indemnité compensatrice prévue à l'article 87 de la loi n° 84-16 du 11 janvier 1984.

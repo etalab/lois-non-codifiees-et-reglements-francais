@@ -1,6 +1,8 @@
 # Article 6
 
-I a) et b) Alinéas modificateurs
+I a) Alinéa modificateur
+
+b) La moyenne des bases de taxe professionnelle par habitant retenue pour l'application en 1987 du paragraphe I de l'article 1648 A du code général des impôts est réduite de 16 p. 100.
 
 Pour l'application de l'article 1647 bis du code général des impôts aux impositions établies au titre de 1986, la diminution de base résultant de l'article 1472 A bis du même code n'est pas prise en compte.
 
@@ -19,6 +21,14 @@ La somme destinée à compenser en 1987 la perte de recettes résultant, pour ch
 (Abrogé).
 
 A compter de 1992, la dotation instituée au premier alinéa du présent paragraphe, est actualisée en fonction de l'indice de variation des recettes fiscales de l'Etat, nettes des remboursements et dégrèvements et des prélèvements sur recettes, tel que cet indice résulte des évaluations de la loi de finances initiale de l'année de versement, corrigé le cas échéant de l'incidence d'éventuels transferts de recettes liés à des transferts de compétences aux collectivités locales et territoriales, à d'autres personnes morales publiques ainsi qu'aux communautés européennes.
+
+Toutefois, pour 1992 et les années suivantes, l'accroissement annuel résultant de l'application de l'alinéa précédent est affecté jusqu'à concurrence d'un montant au plus égal à 300 millions de francs, la première année, 600 millions de francs et 1 milliard de francs les deux années suivantes au Fonds national de péréquation de la taxe professionnelle prévu par l'article 1648 A bis du code général des impôts.
+
+L'application de l'alinéa précédent ne peut réduire la compensation perçue par :
+
+a) Les communes qui remplissent, au titre de l'année précédente, les conditions d'éligibilité à la dotation de solidarité urbaine prévue au titre de la loi n° 91-429 du 13 mai 1991 ;
+
+b) Les communes qui ont bénéficié, au titre de l'année précédente, d'une attribution du Fonds de solidarité des communes de la région d'Ile-de-France institué par l'article 14 de la loi n° 91-429 du 13 mai 1991 précitée.
 
 Alinéa modificateur
 

@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents non titulaires mentionnés aux 1° et 2° de l'article 74 de la loi du 11 janvier 1984 susvisée, en service dans les établissements et organismes de diffusion culturelle et d'enseignement situés à l'étranger et à l'office universitaire et culturel français pour l'Algérie, qui remplissent les conditions énumérées à l'article 73 de ladite loi ont vocation à être titularisés, sur leur demande, dans un corps de fonctionnaires de catégorie C ou D du ministère de l'éducation nationale déterminé, en application de l'article 80 de la loi du 11 janvier 1984 précitée, conformément aux tableaux de correspondance annexés au présent décret (tableaux non reproduits).

@@ -6,7 +6,7 @@ Sont qualifiés pour procéder à la recherche et à la constatation des infract
 
 - les fonctionnaires de la police nationale et les agents de la police municipale, dans la limite des dispositions relatives à leurs compétences ;
 
-- les fonctionnaires et agents du service des ponts et chaussées, du service du génie rural, des eaux et forêts, de l'office national des forêts, du service des mines et des services extérieurs de la marine marchande assermentés ou commissionnés à cet effet ;
+- les fonctionnaires et agents du service des ponts et chaussées, du service du génie rural, des eaux et forêts, de l'office national des forêts, du service des mines et des services déconcentrés de la marine marchande assermentés ou commissionnés à cet effet ;
 
 - les agents habilités en matière de répression des fraudes ;
 
@@ -22,8 +22,4 @@ Les agents verbalisateurs ont libre accès aux installations d'élimination ou d
 
 Les agents verbalisateurs exercent également leur action en cours de transport des produits, déchets ou matériaux. Ils peuvent requérir, pour l'accomplissement de leur mission, l'ouverture de tout emballage ou procéder à la vérification de tout chargement, en présence soit de l'expéditeur, soit du destinataire, soit du transporteur ou du porteur.
 
-L'Agence nationale pour la récupération et l'élimination des déchets et toute association reconnue d'utilité publique se proposant par ses statuts à titre principal d'agir pour la protection et l'amélioration du cadre de vie et de l'environnement peuvent exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant un préjudice direct ou indirect aux intérêts qu'elles ont pour objet de défendre.
-
-[*NOTA :
-
-L'article 29 de la loi 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement dispose que : "la référence à la présente loi est substituée à la référence à la loi du 19 décembre 1917 dans tous les textes contenant une telle disposition."*]
+L'Agence de l'environnement et de la maîtrise de l'énergie et toute association reconnue d'utilité publique se proposant par ses statuts à titre principal d'agir pour la protection et l'amélioration du cadre de vie et de l'environnement peuvent exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant un préjudice direct ou indirect aux intérêts qu'elles ont pour objet de défendre.

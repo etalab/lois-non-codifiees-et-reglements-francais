@@ -1,0 +1,3 @@
+# Article 5
+
+L'administration notifie aux intéressés sa décision ; celle-ci tient compte, dans la mesure où l'intérêt du service le permet, des préférences qu'ils ont éventuellement exprimées. Ils disposent d'un délai d'un mois à compter de la notification de cette décision pour demander, le cas échéant, à être détachés auprès de la Caisse nationale de crédit agricole dans les conditions prévues par l'article 2 du présent décret, le détachement prenant en ce cas effet à l'expiration du délai de trois mois prévu à cet article. Ils peuvent, dans les mêmes conditions, fixer la durée de leur détachement, à défaut de quoi ils sont réputés avoir demandé leur détachement pour la durée maximale de douze ans prévue par l'article 10 de la loi du 18 janvier 1988 susvisée.

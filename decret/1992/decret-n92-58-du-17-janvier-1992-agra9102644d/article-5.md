@@ -1,0 +1,3 @@
+# Article 5
+
+Nonobstant les dispositions statutaires relatives au détachement, prévues dans les décrets susvisés régissant les corps énumérés dans le tableau annexé au présent décret, sont détachés dans un corps de fonctionnaires de catégorie A ou B du ministère de l'agriculture et de la forêt, selon les modalités du tableau de correspondance annexé au présent décret, les fonctionnaires des collectivités territoriales mis à disposition de services relevant du ministère de l'agriculture et de la forêt, en application des dispositions de l'article 125 de la loi du 26 janvier 1984 susvisée, qui optent pour le maintien de leur statut de fonctionnaire territorial avec détachement dans un emploi de l'Etat, dans les conditions fixées aux articles 122 et 123 de la même loi.

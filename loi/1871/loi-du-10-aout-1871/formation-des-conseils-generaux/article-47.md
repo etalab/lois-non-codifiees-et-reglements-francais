@@ -1,5 +1,3 @@
 # Article 47
 
-Les délibérations pour lesquelles est exigée une approbation par arrêté ministériel ou par décret deviennent exécutoires de plein droit lorsque aucune décision n'est intervenue à leur égard dans un délai de trois mois à partir de leur réception par les ministres intéressés.
-
-Toutefois, en ce qui concerne les traités portant concession à titre exclusif ou pour une durée de plus de trente ans des grands services départementaux, ce délai est porté à six mois.
+Les conventions de délégation de services publics locaux qui doivent être passées par les départements ou leurs établissements publics sont, à compter du 1er janvier 1993 et en application des directives communautaires qui les concernent, soumises à une obligation de publicité préalable dans des conditions prévues par décret en Conseil d'Etat. "

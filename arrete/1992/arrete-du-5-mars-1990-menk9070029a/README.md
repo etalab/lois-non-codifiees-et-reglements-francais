@@ -3,3 +3,4 @@
 - [TITRE Ier : Régie de recettes.](titre-ier)
 - [TITRE II : Régie d'avances.](titre-ii)
 - [TITRE III : Dispositions diverses.](titre-iii)
+- [Article 16](article-16.md)

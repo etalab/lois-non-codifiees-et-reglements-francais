@@ -1,0 +1,3 @@
+# ANNEXE AU DECRET N° 87-872 TABLEAU DE CORRESPONDANCE
+
+- [Article ANNEXE](article-annexe.md)

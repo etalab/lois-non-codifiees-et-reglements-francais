@@ -1,0 +1,5 @@
+# Article 9
+
+Les sanctions des troisième et quatrième niveaux sont prononcées, selon le cas, par le directeur de l'établissement, ou sur proposition de ce dernier par l'autorité régionale, le commandant supérieur ou le directeur central, après consultation obligatoire de celui des conseils de discipline compétent en application des articles 4, 5 et 6 du présent décret, et siégeant éventuellement dans la formation définie à l'article 7 ci-dessus, quel que soit l'avis émis par ce conseil [*autorité compétente*].
+
+Le congédiement, avec ou sans suspension des droits à pension, proposé par le directeur d'établissement est respectivement prononcé, après consultation du conseil de discipline supérieur défini à l'article 8 du présent décret, par le directeur de la fonction militaire et des relations sociales ou par le directeur des personnels et des affaires générales de l'armement selon que l'agent dont le cas est examiné relève soit d'un état-major ou service commun, soit de la délégation générale pour l'armement [*autorité compétente*].

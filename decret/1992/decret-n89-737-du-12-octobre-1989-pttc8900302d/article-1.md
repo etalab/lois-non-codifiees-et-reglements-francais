@@ -1,0 +1,3 @@
+# Article 1
+
+Les chefs de service chargés des directions régionales des postes, les chefs de service chargés des directions régionales des télécommunications, les chefs de service chargés respectivement du service de la poste et du service des télécommunications dans chaque département d'outre-mer ainsi que les chefs de service extérieur à compétence nationale représentent l'Etat devant les tribunaux administratifs lorsque le litige met en cause l'assiette des recettes publiques propres au budget annexe des postes et télécommunications perçues en application des tarifs fixés par voie réglementaire.

@@ -4,4 +4,5 @@
 - [CHAPITRE Ier : Des directions régionales de l'éducation surveillée.](chapitre-ier)
 - [CHAPITRE II : Des directions départementales de l'éducation surveillée.](chapitre-ii)
 - [CHAPITRE III : Dispositions diverses.](chapitre-iii)
+- [Article 9](article-9.md)
 - [Annexes](annexes)

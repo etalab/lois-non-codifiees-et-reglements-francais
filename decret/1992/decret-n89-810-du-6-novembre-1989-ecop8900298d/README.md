@@ -5,3 +5,4 @@
 - [CHAPITRE III : Avancement.](chapitre-iii)
 - [CHAPITRE IV : Dispositions particulières.](chapitre-iv)
 - [CHAPITRE V : Dispositions transitoires.](chapitre-v)
+- [Article 22](article-22.md)
