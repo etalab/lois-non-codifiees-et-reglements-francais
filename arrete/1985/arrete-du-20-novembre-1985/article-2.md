@@ -1,3 +1,3 @@
 # Article 2
 
-A compter de la publication du présent arrêté au Journal officiel, le centre technique des conserves de produits agricoles prend pour nouvelle dénomination "centre technique de la conservation des produits agricoles".
+L'arrêté du 26 octobre 1981 portant modification des seuils d'examen de la commission spécialisée des marchés de bâtiment est abrogé.
