@@ -34,9 +34,19 @@ NUMERO de la norme européenne : EN 50-014 Amendement 3 et 4.
 
 DATE : Décembre 1982.
 
-NUMERO de la norme française : Additif 3 et 4.
+NUMERO de la norme française : Additifs 3 et 4.
 
 DATE d'homologation : Juillet 1983.
+
+MODIFICATION ou complément : Annexe 1.1.
+
+NUMERO de la norme européenne : EN 50-014 Amendement 5.
+
+DATE : Février 1986.
+
+NUMERO de la norme française : Additif 5.
+
+DATE d'homologation : Juillet 1986.
 
 TITRE DE LA NORME : Immersion dans l'huile "o".
 
@@ -110,6 +120,14 @@ NUMERO de la norme française : Additif 2.
 
 DATE d'homologation : Juillet 1983.
 
+NUMERO de la norme européenne : EN 50-018 Amendement 3.
+
+DATE : Novembre 1985.
+
+NUMERO de la norme française : Additif 3.
+
+DATE d'homologation : Juillet 1986.
+
 TITRE DE LA NORME : Sécurité augmentée "e".
 
 NUMERO de la norme européenne : EN 50-019.
@@ -134,6 +152,14 @@ NUMERO de la norme française : Additif 2.
 
 DATE d'homologation : Janvier 1984.
 
+NUMERO de la norme européenne : EN 50-019 Amendement 3.
+
+DATE : Décembre 1985.
+
+NUMERO de la norme française : Additif 3.
+
+DATE d'homologation : Juillet 1986.
+
 TITRE DE LA NORME : Sécurité intrinsèque "i".
 
 NUMERO de la norme européenne : EN 50-020.
@@ -144,13 +170,31 @@ NUMERO de la norme française : NF C 23-520.
 
 DATE d'homologation : Mai 1982.
 
-MODIFICATION ou complément : Annexe 1.2.
-
 NUMERO de la norme européenne : EN 50-020 Amendement 1.
 
 DATE : Juillet 1979.
 
 NUMERO de la norme française : Rectificatif.
+
+MODIFICATION ou complément : Annexe 1.2.
+
+NUMERO de la norme européenne : EN 50-020 Amendement 2.
+
+DATE : Décembre 1985.
+
+NUMERO de la norme française : Additif 2.
+
+DATE d'homologation : Juillet 1986.
+
+TITRE DE LA NORME : Encapsulage "m".
+
+NUMERO de la norme européenne : EN 50-028.
+
+DATE : Février 1987.
+
+NUMERO de la norme française : NF EN 50-028.
+
+DATE d'homologation : Décembre 1987.
 
 2. Les spécifications techniques françaises visées à l'article 1er ci-dessus sont les suivantes :
 
