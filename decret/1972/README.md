@@ -19,6 +19,7 @@
 - [Décret n°72-513 du 22 juin 1972](decret-n72-513-du-22-juin-1972)
 - [Décret n°73-979 du 22 octobre 1973](decret-n73-979-du-22-octobre-1973)
 - [Décret n°72-148 du 23 février 1972](decret-n72-148-du-23-fevrier-1972)
+- [Décret n°72-154 du 24 février 1972](decret-n72-154-du-24-fevrier-1972)
 - [Décret n°72-798 du 25 août 1972](decret-n72-798-du-25-aout-1972)
 - [Décret n°72-871 du 25 septembre 1972](decret-n72-871-du-25-septembre-1972)
 - [Décret n°73-417 du 27 mars 1973](decret-n73-417-du-27-mars-1973)
