@@ -1,6 +1,6 @@
 # Article 3
 
-Le conciliateur de justice est nommé, pour une première période d'un an par ordonnance du premier président de la cour d'appel, après avis du procureur général, sur proposition du juge d'instance. A l'issue de celle-ci, le conciliateur de justice peut, dans les mêmes formes, être reconduit dans ses fonctions pour une période renouvelable de deux ans. Le conseil départemental de l'aide juridique est informé de ces nominations.
+Le conciliateur de justice est nommé, pour une première période d'un an par ordonnance du premier président de la cour d'appel, après avis du procureur général, sur proposition du juge d'instance. A l'issue de celle-ci, le conciliateur de justice peut, dans les mêmes formes, être reconduit dans ses fonctions pour une période renouvelable de deux ans. Le conseil départemental de l'accès au droit est informé de ces nominations.
 
 Il peut être mis fin à ses fonctions avant l'expiration de leur terme par ordonnance motivée du premier président, après avis du procureur général et du juge d'instance, l'intéressé ayant été préalablement entendu.
 
