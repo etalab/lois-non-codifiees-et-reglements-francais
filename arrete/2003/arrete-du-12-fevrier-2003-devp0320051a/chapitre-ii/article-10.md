@@ -1,0 +1,3 @@
+# Article 10
+
+L'exploitant prend les dispositions nécessaires dans la conception, la construction et l'exploitation des installations pour limiter les risques de nuisance et de pollution accidentelles de l'air, des eaux ou des sols. Les dispositifs de traitement par déshydratation des cadavres, déchets et sous-produits d'origine animale, ainsi que les dispositifs de traitement des effluents doivent être correctement entretenus afin d'éviter toute indisponibilité prolongée. Pendant leur arrêt accidentel ou pour motif technique, toutes mesures doivent être prises pour éviter l'attente sur place des matières premières à température ambiante.

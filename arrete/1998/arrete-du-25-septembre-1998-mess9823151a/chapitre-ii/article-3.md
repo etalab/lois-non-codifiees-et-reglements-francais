@@ -14,6 +14,10 @@ b) Pour les régimes des travailleurs non salariés :
 
 - directeur général de caisse nationale (ORGANIC, CANCAVA et CANAM) ;
 
+- directeur de la caisse nationale ORGANIC ;
+
+- directeur général adjoint de la caisse nationale CANCAVA ;
+
 c) Pour le régime de sécurité sociale dans les mines :
 
 - directeur de la Caisse autonome nationale de la sécurité sociale dans les mines (CANSSM) ;
@@ -28,7 +32,11 @@ a) Pour le régime général :
 
 b) Pour les régimes des travailleurs non salariés :
 
-- directeur de caisse de catégorie exceptionnelle et de 1re catégorie (caisse ORGANIC, caisse AVA et caisse mutuelle régionale [CMR]) ;
+- directeur de mission de caisse nationale(CANAM);
+
+- directeur de caisse de catégorie A(CMR);
+
+- directeur de caisse de catégorie exceptionnelle et de 1re catégorie (caisse ORGANIC, caisse AVA);
 
 c) Pour le régime de sécurité sociale dans les mines :
 
@@ -36,7 +44,7 @@ c) Pour le régime de sécurité sociale dans les mines :
 
 - directeur de SSM de classe exceptionnelle et de 1re classe ;
 
-d) Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAVIMAC) :
+d)Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAVIMAC) :
 
 - directeur ;
 
@@ -48,7 +56,11 @@ a) Pour le régime général :
 
 b) Pour les régimes des travailleurs non salariés :
 
-- directeur de caisse des 2e et 3e catégories (ORGANIC, AVA et CMR) ;
+directeur de mission de caisse nationale (CANAM);
+
+directeur de caisse des catégories B et C (CMR);
+
+- directeur de caisse des 2e et 3e catégories (ORGANIC, AVA);
 
 c) Pour le régime de sécurité sociale dans les mines :
 
@@ -66,15 +78,11 @@ a) Pour le régime général :
 
 - sous-directeur de niveau 3 d'organisme des catégories A et B :
 
-b) Pour les régimes des travailleurs non salariés :
+b) pour les régimes des travailleurs non salariés :
 
-- directeur et directeur adjoint de la caisse nationale ORGANIC ;
+- directeur adjoint de caisse nationale (ORGANIC, CANCAVA ET CANAM) ;
 
-- directeur général adjoint et directeur adjoint de la caisse nationale CANCAVA ;
-
-- directeur de la caisse nationale CANAM ;
-
-- agent comptable de caisse nationale (ORGANIC, CANCAVA et CANAM) ;
+- agent comptable de caisse nationale (ORGANIC, CANCAVA ET CANAM) ;
 
 c) Pour le régime de sécurité sociale dans les mines :
 
@@ -102,13 +110,15 @@ a) Pour le régime général :
 
 b) Pour les régimes des travailleurs non salariés :
 
-- agent comptable de caisse de catégorie exceptionnelle et de 1re catégorie (ORGANIC, AVA et CMR) ;
+- agent comptable de caisse de catégorie exceptionnelle et de 1re catégorie (ORGANIC, AVA) et agent comptable de caisse de catégorie A (CMR) ;
 
-- directeur adjoint de caisse de catégorie exceptionnelle et de 1re catégorie (ORGANIC, AVA et CMR) ;
+- directeur adjoint de caisse de catégorie exceptionnelle et de 1re catégorie (ORGANIC, AVA) et directeur adjoint de caisse de catégorie A (CMR) ;
 
-- sous-directeur de 1re classe de caisse nationale (ORGANIC, CANCAVA et CANAM) ;
+- sous-directeur de 1re classe de caisse nationale (ORGANIC, CANCAVA et CANAM) et de caisse de catégorie exceptionnelle (ORGANIC et AVA) ;
 
-- sous-directeur de caisse de catégorie exceptionnelle (ORGANIC, AVA et CMR) ;
+- sous-directeur de 1re classe de caisse nationale (ORGANIC, CANCAVA) et sous-directeur niveau 2 de la caisse nationale CANAM ;
+
+- sous-directeur de 1re classe de caisse de catégorie exceptionnelle (ORGANIC, AVA) et sous-directeur niveau 2 de caisse de catégorie A (CMR) ;
 
 - secrétaire général de caisse de catégorie exceptionnelle (ORGANIC et AVA) ;
 
@@ -126,7 +136,7 @@ c) Pour le régime de sécurité sociale dans les mines :
 
 - sous-directeur de SSM hors classe ;
 
-d) Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAVIMAC) :
+d)Pour la caisse d'assurance vieillesse, invalidité et maladie des cultes (CAVIMAC) :
 
 - agent comptable ;
 
@@ -150,13 +160,13 @@ a) Pour le régime général :
 
 b) Pour les régimes des travailleurs non salariés :
 
-- agent comptable de caisse des 2e et 3e catégories (ORGANIC, AVA et CMR) ;
+- agent comptable de caisse des 2e et 3e catégories (ORGANIC, AVA) et agent comptable de caisse des catégories B et C (CMR) ;
 
-- directeur adjoint de caisse des 2e et 3e catégories (ORGANIC, AVA et CMR) ;
+- directeur adjoint de caisse des 2e et 3e catégories (ORGANIC, AVA) et directeur adjoint de caisse des catégories B et C (CMR) ;
 
-- sous-directeur de 2e classe de caisse nationale (ORGANIC, CANCAVA et CANAM) ;
+- sous-directeur de 2e classe de caisse nationale (ORGANIC, CANCAVA) et sous -directeur niveau 1 de la caisse nationale CANAM ;<r>    - sous-directeur de 2e classe de caisse de catégorie exceptionnelle (ORGANIC, AVA) et sous-directeur niveau 1 de caisse des catégories A,B et C (CMR) ;
 
-- sous-directeur de caisse des 1re, 2e et 3e catégories (ORGANIC, AVA et CMR) ;
+- sous-directeur de caisse des 1re, 2e et 3e catégories (ORGANIC, AVA) ;
 
 - secrétaire général de caisse des 1re, 2e et 3e catégories (ORGANIC et AVA) ;
 
@@ -194,12 +204,22 @@ a) Pour le régime général :
 
 - directeur adjoint de niveau 3 de centre national ou régional de traitement informatique ;
 
+b) Pour les régimes des travailleurs non salariés :
+
+- directeur du centre informatique national (ORGANIC) ;
+
+- directeur adjoint du centre informatique national (ORGANIC) ;
+
 8° Classe IF 2 :
 
 a) Pour le régime général :
 
 - directeur adjoint de niveau 2 de centre national ou régional de traitement informatique ;
 
-b) Pour le régime de sécurité sociale dans les mines :
+b) Pour les régimes des travailleurs non salariés :
+
+- sous-directeur du centre informatique national (ORGANIC) ;
+
+c) Pour le régime de sécurité sociale dans les mines :
 
 - directeur de centre informatique régional.

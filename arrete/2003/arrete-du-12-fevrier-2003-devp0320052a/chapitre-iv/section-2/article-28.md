@@ -1,0 +1,5 @@
+# Article 28
+
+I. - Pour les installations visées au paragraphe I de l'article 27, les boues et les déchets issus de l'installation de traitement des eaux usées doivent être traités par une usine d'incinération ou de co-incinération directement ou après déshydratation.
+
+II. - Pour les installations visées au paragraphe II de l'article 27, les matières d'origine animale recueillies lors du prétraitement des eaux résiduaires, en particulier les refus de dégrillage et de tamisage, doivent être traités selon les dispositions réglementaires en vigueur comprenant : l'incinération ou la co-incinération directement ou après déshydratation ; l'enfouissement, le compostage, la transformation en engrais, amendements ou biogaz après un autoclavage à 133 °C pendant 20 minutes sous une pression de 3 bars sans interruption, ou tout autre traitement hygiénisant reconnu d'efficacité équivalente. Les boues produites par les stations d'épuration des eaux peuvent être épandues selon les dispositions prévues à l'annexe II.

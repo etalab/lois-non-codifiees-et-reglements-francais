@@ -8,7 +8,7 @@ Pour pouvoir être inscrit sur la liste d'aptitude, le candidat doit justifier a
 
 3° Pour le régime d'assurance vieillesse des travailleurs non salariés des professions artisanales : cadre administratif de niveau 1 pour la caisse nationale et responsable technique de niveau 1 pour les caisses de base ;
 
-4° Pour le régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles : cadre de niveau 3 ;
+4° Pour le régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles : cadre de niveau E ;
 
 5° Pour le régime de sécurité sociale dans les mines : agent titulaire de catégorie A pour la Caisse autonome nationale et chef de service pour les organismes locaux.
 
