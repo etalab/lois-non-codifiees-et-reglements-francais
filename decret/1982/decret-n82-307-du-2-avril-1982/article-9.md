@@ -41,3 +41,5 @@ Un représentant élu de l'assemblée permanente des chambres de commerce et d'i
 En ce qui concerne la commission siégeant auprès de la Cancava :
 
 Un représentant élu de l'assemblée permanente des chambres de métiers.
+
+Pour remplacer, en cas d'empêchement, les membres titulaires des commissions prévues au présent article, des suppléants sont désignés dans les mêmes conditions que ci-dessus.
