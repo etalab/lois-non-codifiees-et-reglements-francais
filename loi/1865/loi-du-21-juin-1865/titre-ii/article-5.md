@@ -2,6 +2,6 @@
 
 Les associations syndicales libres se forment sans l'intervention de l'administration.
 
-Le consentement unanime des associés doit être constaté par écrit
+Le consentement unanime des associés doit être constaté par écrit [*condition de forme*].
 
-L'acte d'association spécifie le but de l'entreprise ; il règle le mode d'administration de la société et fixe les limites du mandat confié aux administrateurs et syndics ; il détermine les voies et moyens pour subvenir à la dépense, ainsi que le mode de recouvrement des cotisations.
+L'acte d'association [*contenu*] spécifie le but de l'entreprise ; il règle le mode d'administration de la société et fixe les limites du mandat confié aux administrateurs et syndics ; il détermine les voies et moyens pour subvenir à la dépense, ainsi que le mode de recouvrement des cotisations.

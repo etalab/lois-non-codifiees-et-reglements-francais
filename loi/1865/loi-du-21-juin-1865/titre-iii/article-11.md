@@ -1,6 +1,6 @@
 # Article 11
 
-L'arrêté préfectoral ordonnant l'enquête porte également convocation en assemblée générale des propriétaires qui sont présumés devoir profiter des travaux. Il fixe la date, l'heure, ainsi que le lieu de la réunion et nomme le président de cette assemblée sans être tenu de le choisir parmi ses membres.
+L'arrêté préfectoral ordonnant l'enquête [*contenu*] porte également convocation en assemblée générale des propriétaires qui sont présumés devoir profiter des travaux. Il fixe la date, l'heure, ainsi que le lieu de la réunion et nomme le président de cette assemblée sans être tenu de le choisir parmi ses membres.
 
 Dans le cas où la commune ne figure pas parmi les propriétaires présumés intéressés, le maire, sur l'initiative de qui l'association a été constituée, a néanmoins entrée à l'assemblée générale, mais avec voix consultative seulement.
 
