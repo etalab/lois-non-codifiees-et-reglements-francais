@@ -2,7 +2,7 @@
 
 Pour l'application du présent décret :
 
-1° Constituent des enceintes sportives, les lieux dont l'accès est susceptible en permanence d'être contrôlé et qui comportent des tribunes fixes et ceux dans lesquels peuvent être installées des tribunes provisoires ;
+1° Constituent des enceintes sportives, les établissements recevant du public au sens de l'article R. 123-2 du code de la construction et de l'habitation dont l'accès est susceptible en permanence d'être contrôlé et qui comportent des tribunes fixes et ceux dans lesquels peuvent être installées des tribunes provisoires ;
 
 2° Une tribune fixe est une tribune qui reste installée plus de trois mois consécutifs ; dans le cas contraire, il s'agit d'une tribune provisoire ;
 
