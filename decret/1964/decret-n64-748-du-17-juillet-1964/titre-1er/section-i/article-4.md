@@ -1,3 +1,0 @@
-# Article 4
-
-Les préparateurs sont recrutés par voie de concours sur épreuves ouverts par le préfet du chef-lieu du département, selon les modalités fixées par le ministre de la santé publique et de la population. Ces concours, qui peuvent être communs à plusieurs établissements du même département ou de départements voisins, sont ouverts aux candidats âgés de vingt et un ans au moins et de trente-cinq ans au plus au 1er janvier de l'année du concours, satisfaisant aux dispositions de l'article L. 809 du code de la santé publique et titulaires du brevet professionnel prévu à l'article L. 582 du code de la santé publique.
