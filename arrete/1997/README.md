@@ -87,7 +87,6 @@
 - [Arrêté du 3 novembre 1997 (MENH9702134A)](arrete-du-3-novembre-1997-menh9702134a)
 - [Arrêté du 3 octobre 1997 (ECOI9700634A)](arrete-du-3-octobre-1997-ecoi9700634a)
 - [Arrêté du 3 octobre 1997 (MENN9702920A)](arrete-du-3-octobre-1997-menn9702920a)
-- [Arrêté du 3 octobre 1997 (MESH9723133A)](arrete-du-3-octobre-1997-mesh9723133a)
 - [Arrêté du 3 octobre 1997 (MESH9723144A)](arrete-du-3-octobre-1997-mesh9723144a)
 - [Arrêté du 3 octobre 1997 (MESH9723145A)](arrete-du-3-octobre-1997-mesh9723145a)
 - [Arrêté du 3 octobre 1997 (MESH9723146A)](arrete-du-3-octobre-1997-mesh9723146a)
