@@ -8,4 +8,4 @@ Les comités économiques agricoles édictent des règles communes aux organisme
 
 Les priorités et les avantages particuliers dont bénéficient les groupements de producteurs reconnus peuvent être accordés aux comités économiques agricoles lorsqu'ils sont agréés par le ministre de l'agriculture.
 
-L'agrément est accordé, suspendu ou retiré, après avis de la commission nationale technique prévue à l'article précédent.
+L'agrément est accordé, suspendu ou retiré par arrêté du ministre de l'agriculture pris après avis du conseil supérieur d'orientation de l'économie agricole et alimentaire.
