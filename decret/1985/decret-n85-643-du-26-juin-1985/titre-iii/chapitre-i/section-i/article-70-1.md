@@ -1,0 +1,5 @@
+# Article 70-1
+
+En cas de décès, de démission ou de perte de la qualité pour siéger, le membre titulaire représentant des communes ou des établissements publics au conseil d'administration du centre de gestion est remplacé par son suppléant. Lorsque le siège ne peut être pourvu par ce dernier, il est fait appel au premier candidat non élu figurant sur la même liste et ayant qualité pour représenter soit les communes, soit les établissements publics. Si, pour les mêmes motifs, le siège ne peut être pourvu par ce dernier, il est fait appel à son suppléant, ou, à défaut, au candidat titulaire non élu suivant ou à son suppléant.
+
+Lorsqu'une liste des représentants des communes ou des établissements publics est épuisée avant le dix-huitième mois précédant le renouvellement général, il est procédé dans le délai de trois mois à des élections partielles pour les sièges vacants dans les conditions prévues aux articles 69 et 70. Le préfet fixe la date du scrutin et les modalités d'organisation de ces élections partielles.
