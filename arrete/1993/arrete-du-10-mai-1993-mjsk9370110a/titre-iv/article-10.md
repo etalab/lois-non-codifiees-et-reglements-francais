@@ -1,6 +1,6 @@
 # Article 10
 
-Le candidat est évalué au cours de la deuxième semaine sur :
+Le candidat est évalué au cours des deuxième et troisième semaines sur :
 
 - des épreuves techniques (coefficient 3) : aptitude au ski de montagne (coefficient 2) et sauvetage (coefficient 1) ;
 
