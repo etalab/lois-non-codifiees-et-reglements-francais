@@ -1,3 +1,11 @@
 # Article 1
 
-Le permis de chasser est délivré et visé par les autorités chargées de sa délivrance et de son visa dans les conditions énoncées par les articles 366 bis à 370 du code rural et par le décret n° 75-544 du 30 juin 1975.
+La part des redevances cynégétiques nationale et départementale affectée au compte d'indemnisation est fixée ainsi qu'il suit :
+
+Redevance cynégétique nationale : 77 F ;
+
+Redevance cynégétique départementale : 9 F ;
+
+Complément pour validation nationale : 68 F.
+
+En outre, la redevance cynégétique nationale "grand gibier" est intégralement affectée au compte d'indemnisation.

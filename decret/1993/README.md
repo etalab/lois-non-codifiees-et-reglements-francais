@@ -82,6 +82,7 @@
 - [Décret n°61-340 du 7 avril 1961](decret-n61-340-du-7-avril-1961)
 - [Décret n°93-21 du 7 janvier 1993 (JUSB9210428D)](decret-n93-21-du-7-janvier-1993-jusb9210428d)
 - [Décret n°93-837 du 7 juin 1993 (BUDF9200037D)](decret-n93-837-du-7-juin-1993-budf9200037d)
+- [Décret n°93-887 du 7 juillet 1993 (ENVN9310078D)](decret-n93-887-du-7-juillet-1993-envn9310078d)
 - [Décret n°93-810 du 7 mai 1993 (INTC9300253D)](decret-n93-810-du-7-mai-1993-intc9300253d)
 - [Décret n°93-818 du 7 mai 1993 (MAEJ9330013D)](decret-n93-818-du-7-mai-1993-maej9330013d)
 - [Décret n°93-180 du 8 février 1993 (INTD9300012D)](decret-n93-180-du-8-fevrier-1993-intd9300012d)
