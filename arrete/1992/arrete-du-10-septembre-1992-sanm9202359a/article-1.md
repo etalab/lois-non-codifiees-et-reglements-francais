@@ -83,3 +83,7 @@ Ténocyclidine ou TCP ;
 Thiofentanyl ;
 
 TMA ou dl-triméthoxy-3,4,5 alpha-méthyl phényléthylamine.
+
+Etryptamine ;
+
+Methcathinone.
