@@ -712,7 +712,6 @@
 - [Arrêté du 20 septembre 1994 (INDP9401069A)](arrete-du-20-septembre-1994-indp9401069a)
 - [Arrêté du 20 septembre 1994 (SPSI9402963A)](arrete-du-20-septembre-1994-spsi9402963a)
 - [Arrêté du 20 septembre 1994 (SPSS9403037A)](arrete-du-20-septembre-1994-spss9403037a)
-- [Arrêté du 20 mai 1994 (AGRP9401008A)](arrete-du-20-mai-1994-agrp9401008a)
 - [Arrêté du 20 mai 1994 (MJSK9470084A)](arrete-du-20-mai-1994-mjsk9470084a)
 - [Arrêté du 20 mai 1994 (SPSS9401522A)](arrete-du-20-mai-1994-spss9401522a)
 - [Arrêté du 21 avril 1994 (BUDR9404195A)](arrete-du-21-avril-1994-budr9404195a)

@@ -649,7 +649,6 @@
 - [Arrêté du 20 janvier 1998 (EQUS9800085A)](arrete-du-20-janvier-1998-equs9800085a)
 - [Arrêté du 20 janvier 1998 (MCCB9700755A)](arrete-du-20-janvier-1998-mccb9700755a)
 - [Arrêté du 20 juillet 1998 (AGRG9800344A)](arrete-du-20-juillet-1998-agrg9800344a)
-- [Arrêté du 20 juillet 1998 (AGRP9801208A)](arrete-du-20-juillet-1998-agrp9801208a)
 - [Arrêté du 20 juillet 1998 (EQUT9800991A)](arrete-du-20-juillet-1998-equt9800991a)
 - [Arrêté du 20 juillet 1998 (MAEA9820043A)](arrete-du-20-juillet-1998-maea9820043a)
 - [Arrêté du 20 juillet 1998 (MESO9810561A)](arrete-du-20-juillet-1998-meso9810561a)

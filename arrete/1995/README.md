@@ -801,7 +801,6 @@
 - [Arrêté du 19 septembre 1995 (JUSD9530025A)](arrete-du-19-septembre-1995-jusd9530025a)
 - [Arrêté du 19 septembre 1995 (MJSK9570140A)](arrete-du-19-septembre-1995-mjsk9570140a)
 - [Arrêté du 19 septembre 1995 (MJSK9570141A)](arrete-du-19-septembre-1995-mjsk9570141a)
-- [Arrêté du 20 avril 1995 (AGRP9500838A)](arrete-du-20-avril-1995-agrp9500838a)
 - [Arrêté du 20 avril 1995 (DEFM9501490A)](arrete-du-20-avril-1995-defm9501490a)
 - [Arrêté du 20 avril 1995 (ECOM9500450A)](arrete-du-20-avril-1995-ecom9500450a)
 - [Arrêté du 20 avril 1995 (EQUS9500856A)](arrete-du-20-avril-1995-equs9500856a)
