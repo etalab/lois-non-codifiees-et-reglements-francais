@@ -19,5 +19,7 @@
 - [Loi n° 88-1264 du 30 décembre 1988 (DOMX8800050L)](loi-n-88-1264-du-30-decembre-1988-domx8800050l)
 - [Loi n° 89-18 du 13 janvier 1989 (SPSX8800135L)](loi-n-89-18-du-13-janvier-1989-spsx8800135l)
 - [Loi n° 89-19 du 13 janvier 1989 (INTX8800143L)](loi-n-89-19-du-13-janvier-1989-intx8800143l)
+- [Loi n° 89-24 du 17 janvier 1989 (MAEX8800058L)](loi-n-89-24-du-17-janvier-1989-maex8800058l)
+- [Loi n° 89-25 du 17 janvier 1989 (MCCX8800132L)](loi-n-89-25-du-17-janvier-1989-mccx8800132l)
 - [Loi n°73-6 du 3 janvier 1973](loi-n73-6-du-3-janvier-1973)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
