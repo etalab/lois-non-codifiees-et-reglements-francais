@@ -1,3 +1,7 @@
 # Article 2
 
-Les agents titulaires des établissements d'hospitalisation, de soins ou de cure publics et des établissements nationaux de bienfaisance possédant l'un des titres, diplômes ou qualifications dont la liste est fixée à l'article 1er ci-dessus peuvent accéder à l'échelon exceptionnel de leur cadre prévu à l'arrêté interministériel du 10 janvier 1968 susvisé.
+Peuvent accéder à l'échelon exceptionnel de leur cadre :
+
+Les agents titulaires de l'un des titres, diplômes ou qualification dont la liste est fixée à l'article 1er ci-dessus ;
+
+Les agents ayant suivi avec succès l'enseignement de recyclage dispensé par le centre hospitalier régional de Nice.

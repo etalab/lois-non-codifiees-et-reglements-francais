@@ -1,0 +1,3 @@
+# Article 4
+
+Des arrêtés conjoints du ministre de l'intérieur, du ministre de l'économie et des finances, du ministre de la culture et de l'environnement et du secrétaire d'Etat auprès du ministre de l'équipement et de l'aménagement du territoire (Transports) détermineront pour chacun des aéroports concernés et en tenant compte de leur situation particulière les règles de répartition du produit de la taxe ainsi que les zones où pourront être effectuées les dépenses prévues aux paragraphes 2 a et 2 b de l'article 3 ci-dessus. Ils fixeront également les limites et les conditions de ces dépenses.
