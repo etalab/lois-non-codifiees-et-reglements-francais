@@ -221,6 +221,7 @@
 - [Arrêté du 20 janvier 1998 (EQUS9800085A)](arrete-du-20-janvier-1998-equs9800085a)
 - [Arrêté du 20 janvier 1998 (MCCB9700755A)](arrete-du-20-janvier-1998-mccb9700755a)
 - [Arrêté du 20 mars 1998 (DEFP9702241A)](arrete-du-20-mars-1998-defp9702241a)
+- [Arrêté du 20 mars 1998 (EQUA9800414A)](arrete-du-20-mars-1998-equa9800414a)
 - [Arrêté du 20 mars 1998 (EQUA9800415A)](arrete-du-20-mars-1998-equa9800415a)
 - [Arrêté du 20 mars 1998 (EQUP9800071A)](arrete-du-20-mars-1998-equp9800071a)
 - [Arrêté du 20 mars 1998 (INTC9800104A)](arrete-du-20-mars-1998-intc9800104a)
