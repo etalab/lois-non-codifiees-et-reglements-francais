@@ -1,19 +1,3 @@
-# Titre III : Dispositions provisoires relatives à la procédure et aux modes de preuve.
+# Titre III : Dispositions transitoires.
 
-- [Article 78](article-78.md)
-- [Article 79](article-79.md)
-- [Article 81](article-81.md)
-- [Article 82](article-82.md)
-- [Article 83](article-83.md)
-- [Article 84](article-84.md)
-- [Article 85](article-85.md)
-- [Article 87](article-87.md)
-- [Article 88](article-88.md)
-- [Article 89](article-89.md)
-- [Article 90](article-90.md)
-- [Article 92](article-92.md)
-- [Article 93](article-93.md)
-- [Article 94](article-94.md)
-- [Article 95](article-95.md)
-- [Article 96](article-96.md)
-- [Article 97](article-97.md)
+- [Article 36,37,38,39,40,41,42,43,44,45](article-36-37-38-39-40-41-42-43-44-45.md)
