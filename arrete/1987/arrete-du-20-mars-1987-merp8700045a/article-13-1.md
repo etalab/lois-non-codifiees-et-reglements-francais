@@ -12,4 +12,4 @@ Zone 2 : partie des eaux territoriales et de la zone économique située au sud-
 
 Zone 3 : partie des eaux territoriales située au sud du parallèle 46° de latitude nord.
 
-Le seul mode de pêche autorisé pour la pêche du crabe des neiges est le casier à une seule entrée, dans la limite de 160 casiers par navire autorisé à pêcher. Les filières ou train de casiers ne doivent pas compter plus de 20 casiers.
+Le seul mode de pêche autorisé pour la pêche du crabe des neiges est le casier à une seule entrée, dans la limite de 200 casiers par navire autorisé à pêcher. Les filières ou train de casiers ne doivent pas compter plus de 20 casiers.

@@ -1,6 +1,8 @@
 # Article 1
 
-Les prêts spéciaux à moyen terme consentis, en application des articles R. 361-41 à R. 361-50 relatifs aux prêts spéciaux en faveur des victimes de sinistres agricoles pour la réparation des dégâts causés aux récoltes et cultures non pérennes sont accordés pour une durée maximale de quatre ans et assortis d'un taux de bonification de 1,5 point. Le taux nominal des prêts de chaque établissement de crédit est égal au taux maximum des prêts conventionnés diminué du taux de bonification. Le taux des prêts conventionnés est défini dans une convention entre l'Etat et l'établissement concerné.
+Les prêts spéciaux à moyen terme consentis, en application des articles R. 361-41 à R. 361-50 relatifs aux prêts spéciaux en faveur des victimes de sinistres agricoles, pour la réparation des dégâts causés aux récoltes et cultures non pérennes sont accordés pour une durée maximale de quatre ans et assortis d'un taux de bonification de 1,5 point.
+
+Le taux nomimal des prêts de chaque établissement de crédit est égal à un taux de référence diminué du taux de bonification. Ce taux de référence est défini dans une convention entre l'Etat et l'établissement concerné.
 
 Toutefois, la durée de ces prêts est portée à sept ans et le taux de bonification est porté à 2 points dans les cas suivants :
 
