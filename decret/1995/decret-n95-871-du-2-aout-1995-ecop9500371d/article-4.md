@@ -14,7 +14,7 @@ Directeur adjoint : cinq échelons ;
 
 Inspecteur principal de 1re classe : trois échelons ;
 
-Inspecteur principal de 2e classe : cinq échelons ;
+Inspecteur principal de 2e classe : six échelons ;
 
 Inspecteur : douze échelons ;
 

@@ -2,7 +2,7 @@
 
 Les inspecteurs principaux de 1re classe sont choisis parmi :
 
-1° Les inspecteurs principaux de 2e classe comptant deux ans d'ancienneté dans le 5e échelon de leur grade ;
+1° Les inspecteurs principaux de 2e classe comptant, d'une part, au minimum deux années d'ancienneté dans le 6e échelon de leur grade et, d'autre part, au moins deux ans de services effectifs dans leur grade ;
 
 2° Les receveurs principaux de 2e classe comptant deux ans d'ancienneté dans le 2e échelon de leur grade ;
 

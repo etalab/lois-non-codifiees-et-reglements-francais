@@ -10,7 +10,7 @@ Receveur principal de 1re classe, inspecteur principal de 1re classe, directeur 
 
 Recette principale de 1re classe.
 
-Receveur principal de 2e classe, inspecteur principal de 2e classe de 5e échelon
+Receveur principal de 2e classe, inspecteur principal de 2e classe de 6e échelon
 
 Recette principale de 2e classe.
 

@@ -2,206 +2,232 @@
 
 La durée moyenne et la durée minimale du temps passé dans chacun des échelons des différents grades sont fixées comme suit :
 
-GRADES
+GRADE : Chefs de service interrégionaux
 
-ÉCHELONS
+Echelon : 1er
 
-DURÉE
+DURÉE Moyenne d'ancienneté : 2 ans 6 mois
 
-Moyenne d'ancienneté
+DURÉE Minimum d'ancienneté : 2 ans
 
-DURÉE
+GRADE : Directeurs régionaux Classe fonctionnelle
 
-Minimum d'ancienneté
+Echelon : 1er
 
-Chefs de service interrégionaux
+DURÉE Moyenne d'ancienneté : 2 ans 6 mois
 
-1er
+DURÉE Minimum d'ancienneté : 2 ans
 
-2 ans 6 mois
+GRADE : Directeurs régionaux Classe normale
 
-2 ans
+Echelon : 2e
 
-Directeurs régionaux :
+DURÉE Moyenne d'ancienneté : 2 ans 6 mois
 
-Classe fonctionnelle
+DURÉE Minimum d'ancienneté : 2 ans
 
-1er
+GRADE : Directeurs régionaux Classe normale
 
-2 ans 6 mois
+Echelon : 1er
 
-2 ans
+DURÉE Moyenne d'ancienneté : 2 ans 6 mois
 
-Classe normale
+DURÉE Minimum d'ancienneté : 2 ans
 
-2e
+GRADE : Directeurs adjoints
 
-2 ans 6 mois
+Echelon : 4e
 
-2 ans
+DURÉE Moyenne d'ancienneté : 3 ans
 
-1er
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-2 ans 6 mois
+GRADE : Directeurs adjoints
 
-2 ans
+Echelon : 3e
 
-Directeurs adjoints
+DURÉE Moyenne d'ancienneté : 2 ans 6 mois
 
-4e
+DURÉE Minimum d'ancienneté : 2 ans
 
-3 ans
+GRADE : Directeurs adjoints
 
-2 ans 3 mois
+Echelon : 2e
 
-3e
+DURÉE Moyenne d'ancienneté : 2 ans 6 mois
 
-2 ans 6 mois
+DURÉE Minimum d'ancienneté : 2 ans
 
-2 ans
+GRADE : Directeurs adjoints
 
-2e
+Echelon : 1er
 
-2 ans 6 mois
+DURÉE Moyenne d'ancienneté : 2 ans 6 mois
 
-2 ans
+DURÉE Minimum d'ancienneté : 2 ans
 
-1er
-
-2 ans 6 mois
-
-2 ans
-
-Receveurs régionaux
+GRADE : Receveurs régionaux
 
 échelon unique
 
-Receveurs principaux de 1re classe
+GRADE : Receveurs principaux de 1re classe
 
-2e
+Echelon : 2e
 
-3 ans
+DURÉE Moyenne d'ancienneté : 3 ans
 
-2 ans 3 mois
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-1er
+GRADE : Receveurs principaux de 1re classe
 
-3 ans
+Echelon : DURÉE Moyenne d'ancienneté : 3 ans
 
-2 ans 3 mois
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-Inspecteurs principaux de 1re classe
+GRADE : Inspecteurs principaux de 1re classe
 
-2e
+Echelon : 2e
 
-3 ans
+DURÉE Moyenne d'ancienneté : 3 ans
 
-2 ans 3 mois
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-1er
+GRADE : Inspecteurs principaux de 1re classe
 
-3 ans
+Echelon : 1er
 
-2 ans 3 mois
+DURÉE Moyenne d'ancienneté : 3 ans
 
-Inspecteurs principaux de 2e classe
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-4e
+GRADE : Inspecteurs principaux de 2e classe
 
-3 ans
+Echelon : 5e
 
-2 ans 3 mois
+DURÉE Moyenne d'ancienneté : 3 ans
 
-3e
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-2 ans 6 mois
+GRADE : Inspecteurs principaux de 2e classe
 
-2 ans
+Echelon : 4e
 
-2e
+DURÉE Moyenne d'ancienneté : 2 ans 6 mois
 
-2 ans
+DURÉE Minimum d'ancienneté : 2 ans
 
-1 an 6 mois
+GRADE : Inspecteurs principaux de 2e classe
 
-1er
+Echelon : 3e
 
-2 ans
+DURÉE Moyenne d'ancienneté : 2 ans
 
-1 an 6 mois
+DURÉE Minimum d'ancienneté : 1 an 6 mois
 
-Receveurs principaux de 2e classe
+GRADE : Inspecteurs principaux de 2e classe
 
-1er
+Echelon : 2
 
-3 ans
+DURÉE Moyenne d'ancienneté : 2 ans
 
-2 ans 3 mois
+DURÉE Minimum d'ancienneté : 1 an 6 mois
 
-Inspecteurs
+GRADE : Inspecteurs principaux de 2e classe
 
-11e
+Echelon : 1
 
-4 ans
+DURÉE Moyenne d'ancienneté : 1 an
 
-3 ans
+DURÉE Minimum d'ancienneté : 1 an
 
-10e
+GRADE : Receveurs principaux de 2e classe
 
-3 ans
+Echelon : 1er
 
-2 ans 3 mois
+DURÉE Moyenne d'ancienneté : 3 ans
 
-9e
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-3 ans
+GRADE : Inspecteurs
 
-2 ans 3 mois
+Echelon : 11e
 
-8e
+DURÉE Moyenne d'ancienneté : 4 ans
 
-3 ans
+DURÉE Minimum d'ancienneté : 3 ans
 
-2 ans 3 mois
+GRADE : Inspecteurs
 
-7e
+Echelon : 10e
 
-3 ans
+DURÉE Moyenne d'ancienneté : 3 ans
 
-2 ans 3 mois
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-6e
+GRADE : Inspecteurs
 
-2 ans 6 mois
+Echelon : 9e
 
-2 ans
+DURÉE Moyenne d'ancienneté : 3 ans
 
-5e
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-2 ans
+GRADE : Inspecteurs
 
-1 an 6 mois
+Echelon : 8e
 
-4e
+DURÉE Moyenne d'ancienneté : 3 ans
 
-2 ans
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-1 an 6 mois
+GRADE : Inspecteurs
 
-3e
+Echelon : 7e
 
-2 ans
+DURÉE Moyenne d'ancienneté : 3 ans
 
-1 an 6 mois
+DURÉE Minimum d'ancienneté : 2 ans 3 mois
 
-2e
+GRADE : Inspecteurs
 
-1 an
+Echelon : 6e
 
--
+DURÉE Moyenne d'ancienneté : 2 ans 6 mois
 
-1er
+DURÉE Minimum d'ancienneté : 2 ans
 
-1 an
+GRADE : Inspecteurs
 
--
+Echelon : 5e
+
+DURÉE Moyenne d'ancienneté : 2 ans
+
+DURÉE Minimum d'ancienneté : 1 an 6 mois
+
+GRADE : Inspecteurs
+
+Echelon : 4e
+
+DURÉE Moyenne d'ancienneté : 2 ans
+
+DURÉE Minimum d'ancienneté : 1 an 6 mois
+
+GRADE : Inspecteurs
+
+Echelon : 3e
+
+DURÉE Moyenne d'ancienneté : 2 ans
+
+DURÉE Minimum d'ancienneté : 1 an 6 mois
+
+GRADE : Inspecteurs
+
+Echelon : 2e
+
+DURÉE d'ancienneté : 1 an
+
+GRADE : Inspecteurs
+
+Echelon : 1er
+
+DURÉE d'ancienneté : 1 an
