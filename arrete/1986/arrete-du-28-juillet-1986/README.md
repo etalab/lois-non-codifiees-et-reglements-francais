@@ -1,4 +1,4 @@
-# Arrêté du 28 juillet 1986 fixant les modalités de fonctionnement de la section permanente du Conseil supérieur pour le reclassement professionnel et social des travailleurs handicapés
+# Arrêté du 28 juillet 1986 portant fixation du prix de revente de l'alcool de betterave acheté par l'Etat
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

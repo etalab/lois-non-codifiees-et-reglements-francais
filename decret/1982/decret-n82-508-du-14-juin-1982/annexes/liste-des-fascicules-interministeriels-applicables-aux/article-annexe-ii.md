@@ -1,241 +1,113 @@
 # Article Annexe II
 
-II - a 1) Fascicules spécifiques aux marchés de travaux de bâtiment (cahiers des charges D.T.U. et fascicules élaborés par la commission centrale des marchés).
+II - b) Règles de calcul.
 
-CLASSE DU FASCICULE :
+ALUMINIUM :
 
-11. Reconnaissance des sols.
+DENOMINATION : Règles de conception et de calcul des charpentes en alliage d'aluminium.
 
-NUMERO du fascicule D.T.U. : 11-1
+DENOMINATION abrégée : AL
 
-DENOMINATION DU FASCICULE :
+REFERENCE ET DATE de la publication : C.S.T.B. de juillet 1976 et de juillet 1977.
 
-Sondage des sols de fondation.
+BETON DIVERS :
 
-REFERENCE de publication dans les cahiers du C.S.T.B. :
+DENOMINATION : Règles de calcul simplifiées pour les parois et murs en maçonnerie (D.T.U. 20-11).
 
-n° 828 de décembre 1968.
+REFERENCE ET DATE de la publication : C.S.T.B. n° 1530 d'octobre 1978, 1549 de décembre 1978 et 1569 de mai 1979.
 
-CLASSE DU FASCICULE :
+DENOMINATION : Règles de calcul des parois et murs en béton banché (D.T.U. 23-1).
 
-12. Terrassement
+REFERENCE ET DATE de la publication : C.S.T.B. n° 1359 de janvier/février 1976.
 
-NUMERO du fascicule D.T.U. : 12
+CUVELAGE :
 
-DENOMINATION DU FASCICULE : Terrassement pour le bâtiment.
+DENOMINATION : Règles de calcul applicables aux parties immergées de bâtiment en béton armé ou précontraint recevant un cuvelage (D.T.U. 14-1).
 
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 574 de juin 1964.
+REFERENCE ET DATE de la publication : C.S.T.B. n° 1333 de septembre 1975.
 
-CLASSE DU FASCICULE :
+CHEMINEES :
 
-13. Fondations
+DENOMINATION : Règles et processus de calcul des cheminées fonctionnant en tirage naturel.
 
-NUMERO du fascicule D.T.U. : 13-1
+REFERENCE ET DATE de la publication : C.S.T.B. n° 1354 de décembre 1975.
 
-DENOMINATION DU FASCICULE : Fondations superficielles.
+CHARPENTES EN BOIS :
 
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 783 de février 1968.
+DENOMINATION : Règles de calcul des charpentes
 
-NUMERO du fascicule D.T.U. : 13-2
+DENOMINATION abrégée : CB 71
 
-DENOMINATION DU FASCICULE : Fondations profondes.
+REFERENCE ET DATE de la publication : Eyrolles 1975.
 
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1508 de juin 1978 et 1542 de novembre 1978.
+CONSTRUCTIONS METALLIQUES :
 
-CLASSE DU FASCICULE :
+DENOMINATION : Règles de calcul des constructions en acier.
 
-14. Cuvelage
+DENOMINATION abrégée : CM 66
 
-NUMERO du fascicule D.T.U. : 14-1
+REFERENCE ET DATE de la publication : Eyrolles de décembre 1966.
 
-DENOMINATION DU FASCICULE : Cuvelage dans les parties immergées de bâtiment.
+FEU :
 
-REFERENCE de publication dans les cahiers du C.S.T.B. :  n° 1333 de septembre 1975 et 1428 de mars 1977.
+DENOMINATION : Méthodes de prévision par le calcul du comportement au feu des structures en béton (M).
 
-CLASSE DU FASCICULE :
+DENOMINATION  abrégée : FB
 
-20. Maçonnerie
+REFERENCE ET DATE de la publication : C.S.T.B. n° 1642 d'avril 1980 et 1654 de juin 1980.
 
-NUMERO du fascicule D.T.U. : 20
+DENOMINATION : Méthodes de prévision par le calcul du comportement au feu des structures en acier et annexe (méthodologie de caractérisation des produits de protection).
 
-DENOMINATION DU FASCICULE : Maçonnerie, béton armé, plâtrerie.
+REFERENCE ET DATE de la publication : C.S.T.B. n° 1411 de décembre 1976 et 1554 de janvier/février 1979.
 
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 757 d'août 1967, 975 de juillet-août 1970 et 1431 de mars 1977.
+FONDATIONS :
 
-CLASSE DU FASCICULE :
+DENOMINATION : Règles pour le calcul des fondations superficielles (D.T.U. 13-1).
 
-22. Grands panneaux nervurés
+REFERENCE ET DATE de la publication : C.S.T.B. n° 784 de février 1968.
 
-NUMERO du fascicule D.T.U. : 22-1 (N)
+NEIGE ET VENT :
 
-DENOMINATION DU FASCICULE : Murs extérieurs en panneaux préfabriqués de grandes dimensions en béton ordinaire.
+DENOMINATION : Règles définissant les effets de la neige et du vent sur les constructions.
 
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1699 d'avril 1961 (N).
+DENOMINATION abrégée : NV 65
 
-CLASSE DU FASCICULE :
+REFERENCE ET DATE de la publication : Eyrolles - C.S.T.B., décembre 1976.
 
-23. Béton divers
+SECURITE DES CONSTRUCTIONS :
 
-DENOMINATION DU FASCICULE : Béton banché :
+DENOMINATION : Justification par le calcul de la sécurité des constructions. Règles de calcul des constructions en éléments à parois minces en acier.
 
-NUMERO du fascicule D.T.U. : 23-1
+REFERENCE ET DATE de la publication : C.S.T.B. n° 1564 d'avril 1979.
 
-DENOMINATION DU FASCICULE : Parois et murs en béton caverneux.
+SEISMES :
 
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1359 de janvier-février 1976.
+DENOMINATION : Règles parisismiques 1969.
 
-NUMERO du fascicule D.T.U. : 23-2
+DENOMINATION abrégée : PS 69
 
-DENOMINATION DU FASCICULE : Béton caverneux à granulats lourds sans éléments fins.
+REFERENCE ET DATE de la publication : Eyrolles, octobre 1970.
 
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 272 de septembre 1958.
+THERMIQUE :
 
-NUMERO du fascicule D.T.U. : 23-3
+DENOMINATION : Règles de calcul des caractéristiques thermiques utiles des parois de construction.
 
-DENOMINATION DU FASCICULE : Béton caverneux à granulats lourds avec éléments fins.
+DENOMINATION abrégée : Th-K 77
 
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 322 d'octobre 1959.
+REFERENCE ET DATE de la publication : C.S.T.B. n° 1478 de novembre 1977 et 1512 de juin 1978.
 
-NUMERO du fascicule D.T.U. : 23-6
+DENOMINATION : Révision concernant les blocs en béton de granulats légers.
 
-DENOMINATION DU FASCICULE : Béton caverneux de laitier expansé ou de pouzzolane avec ou sans éléments fins.
+REFERENCE ET DATE abrégée : C.S.T.B. n° 1649 de mai 1980
 
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 432 de février 1962.
+DENOMINATION : Règles de calcul des déperditions de base des bâtiments.
 
-CLASSE DU FASCICULE :
+DENOMINATION abrégée : Th (titre II)
 
-24. Fumisterie.
+REFERENCE ET DATE de la publication : C.S.T.B., février 1975
 
-NUMERO du fascicule D.T.U. : 24-1
+DENOMINATION : Règles de calcul du coefficient G des logements et autres locaux d'habitation et du coefficient G 1 des bâtiments autres que les bâtiments d'habitation.
 
-DENOMINATION DU FASCICULE : Fumisterie.
+DENOMINATION abrégée : Th-G 77
 
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1365 de mars 1976.
-
-CLASSE DU FASCICULE :
-
-25. Plâtrerie.
-
-NUMERO du fascicule D.T.U. : 25-1
-
-DENOMINATION DU FASCICULE : Enduits intérieurs en plâtre.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1327 de juillet-août 1975, 1501 de mai 1978 et 1625 de janvier-février 1980.
-
-NUMERO du fascicule D.T.U. : 25-221
-
-DENOMINATION DU FASCICULE : Plafonds constitués par un enduit armé en plâtre.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 353 de juin 1960.
-
-NUMERO du fascicule D.T.U. : 25-222
-
-DENOMINATION DU FASCICULE : Plafonds fixés (plaques de plâtre à enduire, plaques de plâtre à parement lisse).
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 343 d'avril 1960.
-
-NUMERO du fascicule D.T.U. : 25-231
-
-DENOMINATION DU FASCICULE : Plafonds suspendus en éléments de terre cuite.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 313 d'août 1959.
-
-NUMERO du fascicule D.T.U. : 25-232
-
-DENOMINATION DU FASCICULE : Plafonds suspendus (plaques de plâtre à enduire, plaques de plâtre à parement lisse directement suspendues).
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 343 d'avril 1960.
-
-CLASSE DU FASCICULE :
-
-25. Plâtrerie.
-
-NUMERO du fascicule D.T.U. : 25-31
-
-DENOMINATION DU FASCICULE : Ouvrages verticaux de plâtrerie ne nécessitant pas l'application d'un enduit au plâtre (cloisons en carreaux de plâtre à parement lisse).
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1597 d'octobre 1979.
-
-NUMERO du fascicule D.T.U. : 25-41 (N)
-
-DENOMINATION DU FASCICULE : Ouvrages de plaques de parement en plâtre.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1721 de septembre 1961.
-
-NUMERO du fascicule D.T.U. : 25-51
-
-DENOMINATION DU FASCICULE : Plafonds en staff.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 983 de septembre 1970 et 1263 de septembre 1974.
-
-CLASSE DU FASCICULE :
-
-26. Enduits liants hydrauliques.
-
-NUMERO du fascicule D.T.U. : 26-1
-
-DENOMINATION DU FASCICULE : Enduits aux mortiers de liants hydrauliques.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1523 de septembre 1978 et 1544 de novembre 1978.
-
-CLASSE DU FASCICULE :
-
-30. Charpente en bois.
-
-NUMERO du fascicule D.T.U. : 30
-
-DENOMINATION DU FASCICULE : Charpentes et escaliers.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 164 de mars 1953.
-
-NUMERO du fascicule D.T.U. : 31-2
-
-DENOMINATION DU FASCICULE : Maisons traditionnelles à ossature en bois.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1112 de juin 1972.
-
-CLASSE DU FASCICULE :
-
-32. Construction métallique
-
-NUMERO du fascicule D.T.U. : 32-1
-
-DENOMINATION DU FASCICULE : Charpente en acier.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 575 de juin 1964.
-
-DENOMINATION : Charpente en alliages d'aluminium.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 741 d'avril 1967, 1073 de novembre 1971 et 1201 de septembre 1973.
-
-CLASSE DU FASCICULE :
-
-36. Menuiserie
-
-NUMERO du fascicule D.T.U. : 36-1
-
-DENOMINATION DU FASCICULE : Menuiserie en bois.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 698 de juin 1966.
-
-NUMERO du fascicule D.T.U. : 37-1
-
-DENOMINATION DU FASCICULE : Menuiserie métallique.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1025 d'avril 1971 et 1182 de mai 1973.
-
-CLASSE DU FASCICULE :
-
-39. Vitrerie, miroiterie.
-
-NUMERO du fascicule D.T.U. : 39-1 (M)
-
-DENOMINATION DU FASCICULE : Vitrerie.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1628 de janvier-février 1980 et 1654 de juin 1980.
-
-NUMERO du fascicule D.T.U. : 39-4
-
-DENOMINATION DU FASCICULE : Miroiterie et vitrerie en verre épais.
-
-REFERENCE de publication dans les cahiers du C.S.T.B. : n° 1432 de mars 1977 et 1461 de septembre 1977.
+REFERENCE ET DATE de la publication : C.S.T.B. n° 1479 de novembre 1977 et 1512 de juin 1978.

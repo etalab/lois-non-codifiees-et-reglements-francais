@@ -1,5 +1,27 @@
 # Article 1
 
-Pour l'application de l'article 2 du décret n° 86-989 du 8 août 1986 susvisé, le rapport statistique annuel destiné à recueillir les informations relatives à l'exercice par la commune de ses compétences en matière de ports de plaisance doit être conforme au modèle figurant en annexe 1 du présent arrêté. Le même modèle s'impose au département en ce qui concerne la partie port de plaisance des ports d'activité mixte (pêche-plaisance) (1).
+Le tableau de l'article 50 quindecies de l'annexe IV au code général des impôts est ainsi remplacé :
 
-(1) Les annexes seront publiées au Bulletin officiel du secrétariat d'Etat à la mer.
+CARACTERISTIQUES DE L'ACTIVITE :
+
+Activité de vente de marchandises ou de prestations de services exercée sans véhicule
+
+MONTANT de la somme à consigner (en francs) : 1.000
+
+CARACTERISTIQUES DE L'ACTIVITE :
+
+Majoration pour utilisation d'un véhicule
+
+MONTANT de la somme à consigner (en francs) : 500
+
+CARACTERISTIQUES DE L'ACTIVITE :
+
+Majoration pour utilisation de deux véhicules
+
+MONTANT de la somme à consigner (en francs) : 1.000
+
+CARACTERISTIQUES DE L'ACTIVITE :
+
+Majoration pour utilisation de plus de deux véhicules
+
+MONTANT de la somme à consigner (en francs) : 2.000.

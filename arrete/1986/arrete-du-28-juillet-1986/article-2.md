@@ -1,5 +1,3 @@
 # Article 2
 
-La section permanente se réunit sur convocation du ministre des affaires sociales et de l'emploi, qui arrête l'ordre du jour de la réunion.
-
-Les documents nécessaires à l'examen des affaires inscrites à l'ordre du jour sont transmis aux membres de la section permanente au moins cinq jours avant la date de réunion.
+Le directeur du Fonds d'intervention et de régularisation du marché du sucre est chargé de l'exécution du présent arrêté, qui prendra effet à compter du 1er septembre 1986 et sera publié au Journal officiel de la République française.
