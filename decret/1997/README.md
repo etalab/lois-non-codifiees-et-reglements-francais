@@ -438,6 +438,7 @@
 - [Décret n°97-73 du 29 janvier 1997 (FCEE9700005D)](decret-n97-73-du-29-janvier-1997-fcee9700005d)
 - [Décret n°97-76 du 29 janvier 1997 (JUSA9600311D)](decret-n97-76-du-29-janvier-1997-jusa9600311d)
 - [Décret n°97-94 du 29 janvier 1997 (BUDF9700001D)](decret-n97-94-du-29-janvier-1997-budf9700001d)
+- [Décret du 30 juillet 1852](decret-du-30-juillet-1852)
 - [Décret n°96-1223 du 30 décembre 1996 (INDG9600836D)](decret-n96-1223-du-30-decembre-1996-indg9600836d)
 - [Décret n°96-1248 du 30 décembre 1996 (ECOT9610288D)](decret-n96-1248-du-30-decembre-1996-ecot9610288d)
 - [Décret n°97-437 du 30 avril 1997 (TASE9710328D)](decret-n97-437-du-30-avril-1997-tase9710328d)
