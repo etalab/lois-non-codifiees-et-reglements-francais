@@ -1,0 +1,5 @@
+# Article 6
+
+Dans le cas où la quantité d'alcool pur affectée au 31 mars 2001 par un producteur, à la production d'eau-de-vie à appellation d'origine contrôlée "Cognac" et à la production de vin de liqueur à appellation d'origine contrôlée "Pineau des Charentes", est supérieure à celle inscrite pour ces destinations dans la déclaration d'affectation, le bénéfice de la majoration de rendement visée aux articles 2 et 3 ci-dessus est perdu par le producteur dans sa totalité. Il en est de même lorsque la superficie éligible déclarée est supérieure à la superficie maximum éligible au sens du décret du 14 décembre 1998 susvisé.
+
+Dans le cas où la quantité d'alcool pur affectée au 31 mars 2001 par un producteur, à la production d'eau-de-vie à appellation d'origine contrôlée "Cognac" et à la production de vin de liqueur à appellation d'origine contrôlée "Pineau des Charentes", est inférieure à celle inscrite pour ces destinations dans la déclaration d'affectation, le volume correspondant à la différence ne bénéficie pas de la majoration de rendement visée aux articles 2 et 3 du présent arrêté.
