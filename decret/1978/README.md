@@ -35,6 +35,7 @@
 - [Décret du 23 février 1937](decret-du-23-fevrier-1937)
 - [Décret n°78-194 du 24 février 1978](decret-n78-194-du-24-fevrier-1978)
 - [Décret n°78-78 du 25 janvier 1978](decret-n78-78-du-25-janvier-1978)
+- [Décret n°60-1027 du 26 septembre 1960](decret-n60-1027-du-26-septembre-1960)
 - [Décret n°78-171 du 26 janvier 1978](decret-n78-171-du-26-janvier-1978)
 - [Décret n°78-208 du 27 février 1978](decret-n78-208-du-27-fevrier-1978)
 - [Décret n°77-1465 du 28 décembre 1977](decret-n77-1465-du-28-decembre-1977)
