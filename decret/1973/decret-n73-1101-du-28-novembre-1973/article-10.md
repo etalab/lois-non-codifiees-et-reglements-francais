@@ -1,3 +1,3 @@
 # Article 10
 
-Sans préjudice de l'application des dispositions des articles 5 et 6 de la loi susvisée du 2 juillet 1963, est interdit l'emploi de toute indication, de tout signe, de tout mode de présentation, de publicité ou de vente susceptible de créer, dans l'esprit de l'acheteur, une confusion, notamment sur la nature, l'origine, la quantité, les qualités substantielles ou les différentes caractéristiques des produits visés par le présent décret.
+Est interdit l'emploi, sous quelque forme que ce soit, dans la vente, la mise en vente, l'exposition et la publicité des produits visés par le présent décret, de toute inscription, indication ou signe quelconque susceptible de créer une confusion dans l'esprit de l'acheteur sur les caractéristiques des produits, leurs propriétés, l'usage auquel ils sont destinés et leur conformité aux prescriptions réglementaires en vigueur.
