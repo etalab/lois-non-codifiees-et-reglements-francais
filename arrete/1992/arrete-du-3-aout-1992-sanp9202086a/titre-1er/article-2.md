@@ -1,15 +1,11 @@
 # Article 2
 
-Le comité est chargé de [*attributions*] :
+Le comité a pour missions :
 
-1° Proposer la définition du programme national de lutte contre les infections nosocomiales dans toutes ses composantes ;
+1. De fournir une expertise en matière d'évaluation et de gestion du risque infectieux chez l'homme en milieu de soin ;
 
-2° Promouvoir avec le réseau national de santé publique un système national de surveillance des infections nosocomiales reposant sur des centres de coordination de la lutte contre les infections nosocomiales et un réseau d'établissements ou d'organismes publics ou privés de prévention ou de soins ;
+2. D'élaborer des avis ou recommandations relatifs à la prévention du risque infectieux chez l'homme en milieu de soin et aux bonnes pratiques d'hygiène ;
 
-3° Formuler et mettre à jour des recommandations techniques en vue de la surveillance et de la prévention des infections nosocomiales à l'usage des personnels des établissements ou organismes publics ou privés de prévention ou de soins et des comités de lutte contre les infections nosocomiales (C.L.I.N.) ;
+3. D'examiner toute question d'ordre scientifique ou technique relative au risque infectieux chez l'homme en milieu de soin.
 
-4° Assurer la coordination des activités ainsi que l'évaluation des actions menées par les centres de coordination de la lutte contre les infections nosocomiales ;
-
-5° Fournir un rapport national annuel élaboré à partir des bilans établis par les services déconcentrés du ministère chargé de la santé mentionnés à l'article 6 du décret du 6 mai 1988 susvisé.
-
-Le comité peut également faire toute proposition relative à la formation des personnels, au développement des recherches dans le domaine des infections nosocomiales et au financement du programme national de lutte contre les infections nosocomiales.
+Le comité peut être saisi par le ministre chargé de la santé de toute question relevant de son domaine de compétence.
