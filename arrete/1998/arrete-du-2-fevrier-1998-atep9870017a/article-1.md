@@ -18,7 +18,9 @@ Le présent arrêté fixe les prescriptions applicables aux prélèvements et à
 
 - des installations d'incinération de cadavres d'animaux de compagnie ;
 
-- des ateliers de traitement de surface.
+- des ateliers de traitement de surface ;
+
+- des installations relevant de la rubrique 2251 (Préparation, conditionnement de vin, la capacité de production étant supérieure à 20 000 hl/an) de la nomenclature des installations classées pour la protection de l'environnement.
 
 Les dispositions du présent arrêté s'appliquent aux arrêtés d'autorisation des installations classées nouvelles et existantes selon les modalités définies au chapitre X.
 
