@@ -1,6 +1,6 @@
 # Article 18
 
-Au moment de leur titularisation, les ingénieurs stagiaires ainsi que les techniciens des études et de l'exploitation de l'aviation civile recrutés au choix en application de l'article 13 ci-dessus sont nommés ingénieurs du contrôle de la navigation aérienne par arrêté du ministre chargé de l'aviation civile. Sous réserve de l'application des dispositions des a et b du présent article, ils sont nommés au 1er échelon du grade d'ingénieur du contrôle de la navigation aérienne de classe normale, sans ancienneté :
+Au moment de leur titularisation, les ingénieurs stagiaires ainsi que les techniciens supérieurs des études et de l'exploitation de l'aviation civile recrutés au choix en application de l'article 13 ci-dessus sont nommés ingénieurs du contrôle de la navigation aérienne par arrêté du ministre chargé de l'aviation civile. Sous réserve de l'application des dispositions des a et b du présent article, ils sont nommés au 1er échelon du grade d'ingénieur du contrôle de la navigation aérienne de classe normale, sans ancienneté :
 
 a) Ceux qui avaient auparavant la qualité de fonctionnaire de l'Etat, des collectivités territoriales ou des établissements publics qui en dépendent sont nommés à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui qu'ils détenaient dans leur corps, cadre d'emplois ou emploi précédent.
 
