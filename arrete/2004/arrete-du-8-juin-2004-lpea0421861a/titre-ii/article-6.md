@@ -1,0 +1,5 @@
+# Article 6
+
+La formation pratique se déroule sous la forme d'un stage effectué sur un ou deux sites qualifiants. Les sites qualifiants font l'objet d'une procédure de reconnaissance par les établissements de formation. Une convention, conclue entre l'institution employeur et l'établissement de formation, précise les engagements réciproques des signataires tant sur le caractère qualifiant du site que sur les conditions matérielles d'accueil du stagiaire.
+
+Le stage est relié à l'ensemble des unités de formation. Il s'effectue auprès d'un professionnel exerçant des fonctions d'encadrement dans un établissement ou service social ou médico-social et obligatoirement dans un établissement ou service qui ne dépend pas de l'employeur du candidat. Le stage fait l'objet d'une convention de stage entre l'établissement de formation, le stagiaire et l'organisme d'accueil. Cette convention précise les modalités de déroulement du stage, ses objectifs, les modalités d'évaluation, les noms et qualifications des référents professionnels et les modalités d'organisation du tutorat.

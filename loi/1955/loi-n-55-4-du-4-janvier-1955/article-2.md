@@ -8,7 +8,7 @@ Tous les journaux d'information générale, judiciaire ou technique, inscrits à
 
 3° Justifier d'une diffusion atteignant le minimum fixé par décret après avis de la commission prévue ci-dessous, en fonction de l'importance de la population du département ou de ses arrondissements.
 
-La liste est préparée chaque année, au mois de décembre, en vue de l'année suivante, par une commission consultative présidée par le préfet et composée du président du tribunal de grande instance du chef-lieu du département, du président de la chambre départementale des notaires ou de son représentant et, s'ils existent en nombre suffisant, de trois directeurs de journaux, désignés par le préfet, dont au moins deux directeurs de journaux ou publications périodiques, susceptibles de recevoir les annonces légales.
+La liste est préparée chaque année, au mois de décembre, en vue de l'année suivante, par une commission consultative présidée par le préfet et composée du président de la chambre départementale des notaires ou de son représentant et, s'ils existent en nombre suffisant, de trois directeurs de journaux, désignés par le préfet, dont au moins deux directeurs de journaux ou publications périodiques, susceptibles de recevoir les annonces légales.
 
 Cette liste des journaux susceptibles de recevoir les annonces légales, soit dans tout le département, soit dans l'un ou plusieurs de ses arrondissements, est publiée par arrêté du préfet.
 

@@ -1,0 +1,3 @@
+# Article 8
+
+Une instance technique et pédagogique est mise en place par l'établissement de formation. Elle est composée du responsable de la formation, des représentants des secteurs professionnels, des étudiants et de personnalités qualifiées. Elle veille à la mise en oeuvre des orientations du projet pédagogique et aux conditions générales d'organisation de la formation. Elle donne un avis sur les allègements de formation visés aux alinéas 2 et 3 de l'article 5. Dans les établissements de formation assurant d'autres formations préparant aux diplômes du travail social, cette instance peut être organisée à partir de celles déjà mises en place.
