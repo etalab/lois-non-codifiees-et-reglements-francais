@@ -180,6 +180,8 @@
 - [Décret n°83-768 du 23 août 1983](decret-n83-768-du-23-aout-1983)
 - [Décret n°83-844 du 23 septembre 1983](decret-n83-844-du-23-septembre-1983)
 - [Décret n°83-851 du 23 septembre 1983](decret-n83-851-du-23-septembre-1983)
+- [Décret n°83-862 du 23 septembre 1983](decret-n83-862-du-23-septembre-1983)
+- [Décret n°83-863 du 23 septembre 1983](decret-n83-863-du-23-septembre-1983)
 - [Décret n°83-135 du 24 février 1983](decret-n83-135-du-24-fevrier-1983)
 - [Décret n°83-36 du 24 janvier 1983](decret-n83-36-du-24-janvier-1983)
 - [Décret n°83-38 du 24 janvier 1983](decret-n83-38-du-24-janvier-1983)
