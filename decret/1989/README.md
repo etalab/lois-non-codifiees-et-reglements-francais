@@ -6,7 +6,6 @@
 - [Décret n°89-355 du 1 juin 1989 (PRMG8970177D)](decret-n89-355-du-1-juin-1989-prmg8970177d)
 - [Décret n°89-359 du 1 juin 1989 (SPSA8800095D)](decret-n89-359-du-1-juin-1989-spsa8800095d)
 - [Décret n°89-609 du 1 septembre 1989 (SPSH8901734D)](decret-n89-609-du-1-septembre-1989-spsh8901734d)
-- [Décret n°89-610 du 1 septembre 1989 (SPSH8901735D)](decret-n89-610-du-1-septembre-1989-spsh8901735d)
 - [Décret n°89-611 du 1 septembre 1989 (SPSH8901731D)](decret-n89-611-du-1-septembre-1989-spsh8901731d)
 - [Décret n°89-612 du 1 septembre 1989 (SPSH8901730D)](decret-n89-612-du-1-septembre-1989-spsh8901730d)
 - [Décret n°89-613 du 1 septembre 1989 (SPSH8901738D)](decret-n89-613-du-1-septembre-1989-spsh8901738d)
