@@ -12,4 +12,8 @@ Pour les candidats visés à l'alinéa 2, à chaque session le calcul de la moye
 
 Aucune mention ne peut être attribuée aux candidats qui ont demandé à conserver le bénéfice de notes en application des dispositions de l'alinéa 2 du présent article.
 
-Les dispositions des alinéas 2, 3, 4, 5 et 6 du présent article s'appliquent aux candidats scolarisés handicapés physiques moteurs ou sensoriels et aux candidats atteints de maladie grave, dans des conditions fixées par arrêté du ministre chargé de l'éducation nationale.
+Les dispositions des alinéas 2, 3, 4, 5 et 6 du présent article s'appliquent :
+
+a) Aux candidats scolarisés handicapés physiques moteurs ou sensoriels et aux candidats atteints de maladie grave, dans des conditions fixées par arrêté du ministre chargé de l'éducation nationale ;
+
+b) Aux candidats scolarisés inscrits sur la liste des sportifs de haut niveau arrêtée par le ministre chargé des sports.
