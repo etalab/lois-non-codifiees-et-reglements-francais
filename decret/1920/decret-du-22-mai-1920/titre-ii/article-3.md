@@ -1,6 +1,6 @@
 # Article 3
 
-Le bureau du conseil d'administration est nommé, chaque année, par le ministre de l'instruction publique et des beaux-arts.
+Le bureau du conseil d'administration est nommé par le secrétaire d'Etat aux universités, pour une durée de quatre ans.
 
 Il comprend : un président, un vice-président et un secrétaire.
 
