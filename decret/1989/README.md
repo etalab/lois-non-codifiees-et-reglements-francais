@@ -386,7 +386,6 @@
 - [Décret n°85-1396 du 26 décembre 1985](decret-n85-1396-du-26-decembre-1985)
 - [Décret n°89-262 du 26 avril 1989 (MCCK8900091D)](decret-n89-262-du-26-avril-1989-mcck8900091d)
 - [Décret n°89-264 du 26 avril 1989 (PTTA8801158D)](decret-n89-264-du-26-avril-1989-ptta8801158d)
-- [Décret n°89-267 du 26 avril 1989 (ECOX8910107D)](decret-n89-267-du-26-avril-1989-ecox8910107d)
 - [Décret n°89-272 du 26 avril 1989 (MCCB8900049D)](decret-n89-272-du-26-avril-1989-mccb8900049d)
 - [Décret n°89-273 du 26 avril 1989 (MERP8900023D)](decret-n89-273-du-26-avril-1989-merp8900023d)
 - [Décret n°89-274 du 26 avril 1989 (ECOS8950030D)](decret-n89-274-du-26-avril-1989-ecos8950030d)
