@@ -582,6 +582,7 @@
 - [Décret n°90-361 du 20 avril 1990 (MENT9000107D)](decret-n90-361-du-20-avril-1990-ment9000107d)
 - [Décret n°94-1106 du 20 décembre 1994 (DEFX9400175D)](decret-n94-1106-du-20-decembre-1994-defx9400175d)
 - [Décret n°94-1110 du 20 décembre 1994 (INDG9401430D)](decret-n94-1110-du-20-decembre-1994-indg9401430d)
+- [Décret n°94-1115 du 20 décembre 1994 (ACVE9450015D)](decret-n94-1115-du-20-decembre-1994-acve9450015d)
 - [Décret n°94-314 du 20 avril 1994 (JUSB9410134D)](decret-n94-314-du-20-avril-1994-jusb9410134d)
 - [Décret n°94-493 du 20 juin 1994 (TEFT9400437D)](decret-n94-493-du-20-juin-1994-teft9400437d)
 - [Décret n°94-494 du 20 juin 1994 (TEFT9400438D)](decret-n94-494-du-20-juin-1994-teft9400438d)

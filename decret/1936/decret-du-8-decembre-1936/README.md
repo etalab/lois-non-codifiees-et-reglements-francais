@@ -1,4 +1,4 @@
-# Décret du 8 décembre 1936 relatif à l'appellation d'origine contrôlée "Lalande-de-Pomerol"
+# Décret du 8 décembre 1936 relatif à la définition de l'appellation contrôlée "Néac"
 
 - [Article 1](article-1.md)
 - [Article 1 bis](article-1-bis.md)
