@@ -78,6 +78,7 @@
 - [Décret n°88-1112 du 12 décembre 1988 (SPSS8801801D)](decret-n88-1112-du-12-decembre-1988-spss8801801d)
 - [Décret n°88-1114 du 12 décembre 1988 (SPSA8801803D)](decret-n88-1114-du-12-decembre-1988-spsa8801803d)
 - [Décret n°88-1115 du 12 décembre 1988 (SPSA8801804D)](decret-n88-1115-du-12-decembre-1988-spsa8801804d)
+- [Décret n°88-1116 du 12 décembre 1988 (TEFE8804115D)](decret-n88-1116-du-12-decembre-1988-tefe8804115d)
 - [Décret n°88-805 du 12 juillet 1988 (BUDX8800107D)](decret-n88-805-du-12-juillet-1988-budx8800107d)
 - [Décret n°88-812 du 12 juillet 1988 (INTK8800223D)](decret-n88-812-du-12-juillet-1988-intk8800223d)
 - [Décret n°88-814 du 12 juillet 1988 (JUSC8820476D)](decret-n88-814-du-12-juillet-1988-jusc8820476d)
