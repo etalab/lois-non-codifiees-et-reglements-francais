@@ -6,6 +6,12 @@ Cette réduction est fixée, pour chaque département, par arrêté conjoint des
 
 II. - Les dépenses visées au I du présent article sont constituées par les dépenses inscrites au titre de l'aide médicale dans les chapitres des comptes administratifs des départements de 1997 relatifs à l'aide sociale ou à l'insertion, à l'exclusion des charges des services communs réparties entre services utilisateurs.
 
+A compter du 1er janvier 2003, sont également exclues les deux catégories de dépenses suivantes, sous réserve d'être certifiées par les payeurs départementaux :
+
+1° Les dépenses relatives à la constitution de provisions ou au règlement de litiges par voie contentieuse ou transactionnelle portant sur les dépenses d'aide médicale au titre d'exercices antérieurs à l'année 1997 ;
+
+2° Les dépenses de cotisation d'assurance personnelle afférentes au paiement, à titre exceptionnel en 1997, de sommes correspondant à une période excédant une année.
+
 III. - ...
 
 IV. - ...

@@ -1,11 +1,27 @@
 # Article 164
 
-I. Paragraphe modificateur
+I. A créé les dispositions suivantes :
 
-II. - Les dispositions des articles L. 453-1 à L. 453-3 visés au I entrent en vigueur au 1er janvier 2003.
+-Code de la construction et de l'habitation
 
-III. Paragraphe modificateur
+Art. L453-1 ; Art. L453-2 ; Art. L453-3
 
-IV. Paragraphe modificateur
+II.-Les dispositions des articles L. 453-1 à L. 453-3 visés au I entrent en vigueur au 1er juillet 2003.
 
-V. Paragraphe modificateur
+III. A modifié les dispositions suivantes :
+
+-Code de la construction et de l'habitation
+
+Art. L222-2
+
+IV. A modifié les dispositions suivantes :
+
+-Code de la construction et de l'habitation
+
+Art. L222-6
+
+V. A modifié les dispositions suivantes :
+
+-Code de la construction et de l'habitation
+
+Art. L422-3

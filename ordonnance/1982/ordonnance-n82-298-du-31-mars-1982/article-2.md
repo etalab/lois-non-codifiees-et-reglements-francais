@@ -12,6 +12,6 @@ Cette contribution est assise sur le montant des rémunérations soumises à ret
 
 Elle est recouvrée dans les mêmes conditions et selon les mêmes règles que les contributions versées par les régions, les collectivités ou les établissements à la Caisse nationale de retraites des agents des collectivités locales.
 
-Les besoins de trésorerie du fonds de compensation de cessations progressives d'activité peuvent être couverts pour l'année 2002 par des ressources non permanentes, dans la limite de 150 millions d'euros.
+Les besoins de trésorerie du fonds de compensation de cessations progressives d'activité peuvent être couverts pour l'année 2003 par des ressources non permanentes, dans la limite de 180 millions d'euros.
 
 Les modalités d'application de ces dispositions sont précisées par décret.

@@ -16,6 +16,8 @@ Cette contribution est assise sur le montant des rémunérations soumises à ret
 
 Elle est recouvrée dans les mêmes conditions et selon les mêmes règles que les contributions versées par les établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 précitée à la Caisse nationale de retraite des agents des collectivités locales.
 
+Les besoins de trésorerie du fonds pour l'emploi hospitalier peuvent être couverts pour les années 2002 et 2003 par des ressources non permanentes dans la limite de 30 millions d'euros.
+
 Un décret en Conseil d'Etat fixe les modalités d'application du présent I .
 
 II. Le fonds pour l'emploi hospitalier contribue en outre, dans les conditions fixées par décret, au financement des droits à congés acquis au titre de la réduction du temps de travail non pris ou portés dans un compte épargne-temps en raison de la réalisation progressive des recrutements. Ne peuvent être financés à ce titre que les droits acquis en 2002, 2003 et 2004 par les médecins, pharmaciens et odontologistes mentionnés au 1° et au dernier alinéa de l'article L. 6152-1 du code de la santé publique et en 2002 et 2003 par les agents des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 portant dispositions statutaires relatives à la fonction publique hospitalière et sous réserve que les rémunérations des uns et des autres sont prises en compte pour le calcul des ressources allouées par l'assurance maladie à l'établissement.

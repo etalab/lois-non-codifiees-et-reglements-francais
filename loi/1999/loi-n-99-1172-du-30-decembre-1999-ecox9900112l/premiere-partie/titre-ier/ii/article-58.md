@@ -12,7 +12,7 @@ La deuxième section retrace :
 
 En recettes :
 
-- le produit du prélèvement de solidarité pour l'eau versé à l'Etat par les agences de l'eau dont le montant est déterminé chaque année en loi de finances ;
+- dans la limite de soixante millions d'euros, le produit du prélèvement de solidarité pour l'eau versé à l'Etat par les agences de l'eau dont le montant est déterminé chaque année en loi de finances ;
 
 - les recettes diverses ou accidentelles.
 

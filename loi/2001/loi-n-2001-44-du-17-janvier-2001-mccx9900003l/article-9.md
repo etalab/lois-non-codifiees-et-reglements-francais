@@ -60,4 +60,6 @@ En cas de défaut de paiement de la redevance par l'aménageur, l'établissement
 
 Le délai de prescription de la redevance est quadriennal.
 
+IV. bis - Le montant des redevances d'archéologie préventive, pour lesquelles le fait générateur intervient au cours de l'année 2003, dues par chaque personne publique ou privée concernée par le présent article est réduit de 25 %.
+
 V. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

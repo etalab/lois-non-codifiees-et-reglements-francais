@@ -30,7 +30,7 @@ a) En recettes :
 
 - dans des proportions établies chaque année par la loi de finances, le produit de la taxe et du prélèvement prévus à l'article 36 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983) ainsi que le produit de la taxe prévue au I de l'article 49 de la loi de finances pour 1993 (n° 92-1376 du 30 décembre 1992) ;
 
-- le produit des sommes que les titulaires d'une autorisation d'exploiter un service de télévision et les sociétés prévues aux articles 44 (2°, 3° et 4°) et 45 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication sont tenus de verser en application des dispositions des titres II et III de ladite loi ;
+- le produit des sanctions pécuniaires prononcées par le Conseil supérieur de l'audiovisuel à l'encontre éditeurs de services de télévision relevant des titres II et III de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
 
 - la contribution de l'Etat ;
 
