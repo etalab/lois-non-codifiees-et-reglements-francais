@@ -1,9 +1,5 @@
-# Arrêté du 5 mars 1973 relatif aux modalités d'organisation, règles de discipline, programme, déroulement et correction des épreuves des trois concours d'accès à l'école nationale de la magistrature
+# Arrêté du 5 mars 1973 relatif à la fixation de la valeur du point de retraite dans le régime de retraite complémentaire des assurances sociales institué par le décret n° 70-1277 du 23 décembre 1970 (I.R.C.A.N.T.E.C.).
 
 - [Article 1](article-1.md)
-- [TITRE Ier : Organisation des trois concours](titre-ier)
 - [Article 2](article-2.md)
-- [TITRE II : Discipline](titre-ii)
 - [Article 3](article-3.md)
-- [TITRE III : Programme](titre-iii)
-- [TITRE IV : Déroulement et correction des épreuves](titre-iv)
