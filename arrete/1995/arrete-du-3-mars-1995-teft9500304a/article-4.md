@@ -1,0 +1,3 @@
+# Article 4
+
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère de l'économie, le directeur général des stratégies industrielles au ministère de l'industrie, des postes et télécommunications et du commerce extérieur, le directeur des relations du travail au ministère du travail, de l'emploi et de la formation professionnelle, le directeur général des douanes et droits indirects au ministère du budget, le directeur des exploitations, de la politique sociale et de l'emploi au ministère de l'agriculture et de la pêche sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

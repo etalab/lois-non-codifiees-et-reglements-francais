@@ -77,3 +77,15 @@ Royaume-Uni
 - the diploma of membership of the Royal College of Veterinary Surgeons (MRCVS) obtenu à la suite d'un examen après un cycle complet d'études effectué dans une école vétérinaire au Royaume-Uni,
 
 délivrés postérieurement au 1er janvier 1950.
+
+Autriche
+
+Diplom-Tierarzt Mag. med. vet. (diplôme de vétérinaire), délivré par l'université de médecine vétérinaire de Vienne (anciennement l'Ecole supérieure de médecine vétérinaire à Vienne).
+
+Finlande
+
+Todistus eläinlââketieteen lisensiaatin tutkinnosta/betyg över avlagd veterinärmedicine licentiatexamen (diplôme en médecine vétérinaire), délivré par l'Ecole supérieure de médecine vétérinaire.
+
+Suède
+
+Veterinärexamen (diplôme universitaire en médecine vétérinaire), délivré par l'université suédoise d'agronomie.
