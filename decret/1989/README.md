@@ -44,6 +44,8 @@
 - [Décret n°89-759 du 18 octobre 1989 (SPSH8901940D)](decret-n89-759-du-18-octobre-1989-spsh8901940d)
 - [Décret n°89-31 du 19 janvier 1989 (MICT8900040D)](decret-n89-31-du-19-janvier-1989-mict8900040d)
 - [Décret n°89-32 du 19 janvier 1989 (PTTT8800733D)](decret-n89-32-du-19-janvier-1989-pttt8800733d)
+- [Décret du 20 janvier 1989 (DOMX8910039D)](decret-du-20-janvier-1989-domx8910039d)
+- [Décret n°89-33 du 20 janvier 1989 (INDG8800950D)](decret-n89-33-du-20-janvier-1989-indg8800950d)
 - [Décret n°90-262 du 20 mars 1990 (COMA8900009D)](decret-n90-262-du-20-mars-1990-coma8900009d)
 - [Décret n°90-647 du 20 juillet 1990 (INTC9000170D)](decret-n90-647-du-20-juillet-1990-intc9000170d)
 - [Décret n°92-453 du 20 mai 1992 (ACVA9210046D)](decret-n92-453-du-20-mai-1992-acva9210046d)
