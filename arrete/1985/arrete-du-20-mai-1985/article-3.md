@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur de la comptabilité publique est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le montant de l'assiette [*des cotisations*] déterminée en application de l'article 2 ci-dessus est arrondi, le cas échéant, au demi-franc supérieur.

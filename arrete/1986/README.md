@@ -186,6 +186,7 @@
 - [Arrêté du 30 juillet 1986](arrete-du-30-juillet-1986)
 - [Arrêté du 30 juin 1986](arrete-du-30-juin-1986)
 - [Arrêté du 31 décembre 1985](arrete-du-31-decembre-1985)
+- [Arrêté du 31 décembre 1986](arrete-du-31-decembre-1986)
 - [Arrêté du 31 janvier 1985](arrete-du-31-janvier-1985)
 - [Arrêté du 31 janvier 1986](arrete-du-31-janvier-1986)
 - [Arrêté du 31 juillet 1986](arrete-du-31-juillet-1986)

@@ -23,13 +23,19 @@
 <td> : Burundi       :     0,076      :</td>
 </tr>
 <tr>
+<td> : Burkina Faso  :     0,071      :</td>
+</tr>
+<tr>
 <td> : Cameroun      :     0,069      :</td>
 </tr>
 <tr>
 <td> : Cap-Vert      :     0,076      :</td>
 </tr>
 <tr>
-<td> : Centrafrique  :     0,085      :</td>
+<td> : R.C.A.        :     0,085      :</td>
+</tr>
+<tr>
+<td> : Comores       :     0,078      :</td>
 </tr>
 <tr>
 <td> : Congo         :     0,077      :</td>
@@ -38,13 +44,28 @@
 <td> : Côte-d'Ivoire :     0,067      :</td>
 </tr>
 <tr>
+<td> : Djibouti      :     0,091      :</td>
+</tr>
+<tr>
 <td> : Gabon         :     0,091      :</td>
+</tr>
+<tr>
+<td> : Gambie        :     0,072      :</td>
+</tr>
+<tr>
+<td> : Guinée        :     0,094      :</td>
 </tr>
 <tr>
 <td> : Guinée-Bissau :     0,076      :</td>
 </tr>
 <tr>
-<td> : Haute-Volta   :     0,071      :</td>
+<td> : Guinée-       :                :</td>
+</tr>
+<tr>
+<td> : équatoriale   :     0,091      :</td>
+</tr>
+<tr>
+<td> : Haïti         :     0,066      :</td>
 </tr>
 <tr>
 <td> : Madagascar    :     0,071      :</td>
@@ -60,6 +81,12 @@
 </tr>
 <tr>
 <td> : Niger         :     0,076      :</td>
+</tr>
+<tr>
+<td> : Petites-      :                :</td>
+</tr>
+<tr>
+<td> : Antilles      :     0,073      :</td>
 </tr>
 <tr>
 <td> : Rwanda        :     0,087      :</td>
@@ -81,9 +108,6 @@
 </tr>
 <tr>
 <td> : Zaïre         :     0,088      :</td>
-</tr>
-<tr>
-<td> : Djibouti      :     0,091      :</td>
 </tr>
 <tr>
 <td> :                                :</td>

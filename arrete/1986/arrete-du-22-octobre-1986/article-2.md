@@ -1,5 +1,9 @@
 # Article 2
 
-Les stations terriennes de réception de signaux de télévision transmis point à point doivent être d'un type homologué par l'administration chargée des télécommunications. Leurs caractéristiques techniques sont publiées par voie d'instructions ministérielles.
+Le comité peut :
 
-Elles doivent être munies d'une plaque de conformité inamovible et directement accessible aux agents de contrôle.
+- faire procéder par ses rapporteurs aux recherches nécessaires à ses travaux, sous réserve de l'application des règles relatives à la protection du secret de défense ;
+
+- demander aux services tous renseignements ou études relatifs aux documents en leur possession ou, en cas de difficulté, proposer au ministre d'en prescrire la production ;
+
+- recommander toutes mesures d'organisation et de fonctionnement relatives aux archives de la défense et proposer au ministre d'en prescrire la mise en application.

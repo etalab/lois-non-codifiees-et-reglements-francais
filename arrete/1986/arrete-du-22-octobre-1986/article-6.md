@@ -1,3 +1,3 @@
 # Article 6
 
-Le directeur général des télécommunications est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le comité peut, à l'initiative de son président, organiser des groupes de travail, permanents ou temporaires, chargés des questions particulières relevant de la compétence générale du comité.

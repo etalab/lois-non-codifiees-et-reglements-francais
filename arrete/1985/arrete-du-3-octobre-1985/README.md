@@ -1,4 +1,4 @@
-# Arrêté du 3 octobre 1985 autorisant l'informatisation des résumés de sortie standardisés dans les établissements d'hospitalisation publics et privés participant au service public hospitalier.
+# Arrêté du 3 octobre 1985 fixant les conditions dans lesquelles des douches doivent être mises à la disposition du personnel effectuant des travaux insalubres ou salissants
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
