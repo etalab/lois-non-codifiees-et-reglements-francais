@@ -2,7 +2,7 @@
 
 - [Chapitre 1er : Dispositions générales.](chapitre-1er)
 - [Article 1](article-1.md)
-- [Chapitre I : Dispositions générales.](chapitre-i)
+- [Chapitre I : Recrutement](chapitre-i)
 - [Chapitre II : Recrutement.](chapitre-ii)
 - [Chapitre III : Notation et avancement.](chapitre-iii)
 - [Chapitre IV : Discipline.](chapitre-iv)

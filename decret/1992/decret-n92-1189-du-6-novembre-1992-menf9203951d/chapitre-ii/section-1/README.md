@@ -1,4 +1,4 @@
-# Section 1 : Concours de recrutement des professeurs de lycée professionnel du 2e grade.
+# Section 1 : Concours de recrutement des professeurs de lycée professionnel.
 
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
