@@ -1,0 +1,3 @@
+# Article 8
+
+Le ministre d'Etat, ministre de l'économie, des finances et de l'industrie, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, la ministre de la défense, le ministre de la santé et de la protection sociale, le ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales, le ministre délégué à l'industrie, le ministre délégué à la recherche, le ministre délégué aux anciens combattants, le secrétaire d'Etat au budget et à la réforme budgétaire et le secrétaire d'Etat à l'assurance maladie sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
