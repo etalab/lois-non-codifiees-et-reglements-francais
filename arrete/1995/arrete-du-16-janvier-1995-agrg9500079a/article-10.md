@@ -1,6 +1,6 @@
 # Article 10
 
-1. Les exigences des articles 3 à 8 et 12 du présent arrêté ne s'appliquent pas aux échanges intracommunautaires de volailles et d'oeufs à couver lorsqu'il s'agit de petits lots comprenant moins de vingt unités.
+1. Les exigences des articles 3 à 8 et 12 du présent arrêté ne s'appliquent pas aux échanges intracommunautaires de volailles et d'oeufs à couver lorsqu'il s'agit de petits lots comprenant moins de vingt unités, sauf en ce qui concerne les ratites et les oeufs à couver de ratites.
 
 2. Toutefois, les volailles et les oeufs à couver désignés au paragraphe 1 doivent, au moment de leur expédition, provenir de troupeaux :
 

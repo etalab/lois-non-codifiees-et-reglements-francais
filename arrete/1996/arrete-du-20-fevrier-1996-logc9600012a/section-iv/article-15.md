@@ -6,11 +6,15 @@ Les conditions de taux d'intérêt et de progressivité des annuités sont déte
 
 Option 1 :
 
-Le taux d'intérêt est de 2,5 p. 100 l'an et les annuités progressent de 1 p. 100 l'an à partir de la 6e annuité ;
+Le taux d'intérêt I est de 2,27 % l'an ;
+
+Les annuités progressent de 0 % l'an.
 
 Option 2 :
 
-Le taux d'intérêt est de 2,4 p. 100 l'an et les annuités progressent de 0 p. 100 l'an à partir de la 6e annuité ;
+Le taux d'intérêt I est de 2,32 % l'an ;
+
+Les annuités progressent de 0,5 % l'an.
 
 Le prêt est versé en une fois ;
 
