@@ -4,13 +4,15 @@ Le comité comprend, outre son président [*composition*] :
 
 1° Cinq personnalités désignées par le Président de la République et appartenant aux principales familles philosophiques et spirituelles.
 
-2° Seize personnalités qualifiées choisies en raison de leur compétence et de leur intérêt pour les problèmes d'éthique, soit :
+2° Dix-huit personnalités qualifiées choisies en raison de leur compétence et de leur intérêt pour les problèmes d'éthique, soit :
 
 Un membre de l'Assemblée nationale et un membre du Sénat désignés par les présidents de ces assemblées ;
 
 Un membre du Conseil d'Etat, désigné par son vice-président ;
 
 Un magistrat de la Cour de cassation, désigné par son premier président ;
+
+Une personnalité désignée par le Premier ministre ;
 
 Une personnalité désignée par le garde des sceaux, ministre de la justice ;
 
@@ -24,7 +26,7 @@ Une personnalité du secteur éducatif désignée par le ministre de l'éducatio
 
 Une personnalité désignée par le ministre chargé du travail ;
 
-Trois personnalités appartenant aux professions de santé désignées par le ministre chargé de la santé ;
+Quatre personnalités appartenant aux professions de santé désignées par le ministre chargé de la santé ;
 
 Une personnalité désignée par le ministre chargé de communication ;
 
