@@ -19,5 +19,3 @@ Ces bureaux sont autorisés à accepter les paris enregistrés sur l'hippodrome.
 Un signal indique la fin de l'enregistrement des paris.
 
 La mise en paiement des tickets payables commence dès la publication des rapports.
-
-3. Les "agences par téléphone course par course". - Les agences par téléphone course par course acceptent les paris par téléphone selon les dispositions des articles 100, 101, 103 et 104.

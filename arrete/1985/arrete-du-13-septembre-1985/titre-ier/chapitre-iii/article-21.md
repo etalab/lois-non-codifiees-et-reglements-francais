@@ -1,6 +1,6 @@
 # Article 21
 
-Pour obtenir le règlement du gain ou le remboursement de leur pari, les parieurs sont tenus de présenter leur récépissé.
+Pour obtenir le règlement du gain ou le remboursement de leur pari, les parieurs sont tenus de présenter leur récépissé. A défaut, aucun autre mode de preuve n'est recevable.
 
 Dans le cas où, avant paiement, les services du pari mutuel seraient avisés d'une contestation sur la propriété du titre, le paiement pourra être différé, à charge pour le contestant de justifier que sa réclamation fait l'objet d'une instance judiciaire. Les services du pari mutuel se conformeront, pour le paiement de la somme en litige, à toute décision de l'autorité judiciaire ayant la force de chose jugée.
 
