@@ -1,6 +1,6 @@
 # Article 18
 
-Il est créé une commission paritaire nationale, présidée par un conseiller d'Etat en activité ou honoraire, nommé par le ministre chargé de la santé sur proposition du vice-président du Conseil d'Etat, qui comprend [*composition*] :
+Il est créé une commission paritaire nationale, présidée par un membre du Conseil d'Etat ou son suppléant, en activité ou honoraire, nommé par le ministre chargé de la santé sur proposition du vice-président du Conseil d'Etat, qui comprend [*composition*] :
 
 1° En qualité des représentants de l'administration :
 
@@ -20,4 +20,4 @@ Les membres élus doivent appartenir au collège électoral. Ils ne peuvent exer
 
 Le mandat de la commission est de cinq ans [*durée*].
 
-Les modalités de représentation des différentes disciplines, d'organisation des élections, de désignation des membres autres que le président, ainsi que les conditions de fonctionnement de la commission sont fixées par arrêté du ministre chargé de la santé.
+Les modalités de représentation des différentes disciplines, d'organisation des élections, de désignation des membres autres que le président et son suppléant, ainsi que les conditions de fonctionnement de la commission sont fixées par arrêté du ministre chargé de la santé.
