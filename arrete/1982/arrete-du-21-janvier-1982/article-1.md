@@ -1,7 +1,11 @@
 # Article 1
 
-Par dérogation aux dispositions des articles 2 et 3 de l'arrêté du 12 mars 1973 susvisé, les autorisations d'importation des armes et munitions des catégories 4, 5 et 6 au sens du décret du 12 mars 1973 susvisé dans les départements d'outre-mer sont délivrées dans les condition définies ci-dessous :
+Sont renouvelés, à titre précaire et révocable, les agréments accordés aux organismes suivants pour procéder à des mesures ayant pour objet de déterminer la teneur de l'air des ateliers en oxyde de carbone pour une période de trois ans à compter du 1er janvier 1982 ;
 
-- les importateurs doivent adresser aux préfets leur demande d'autorisation d'importation établie dans les conditions définie par l'arrêté du 12 mars 1973 susvisé ;
+Association lyonnaise des propriétaires d'appareils à vapeur et électriques (A.L.P.A.V.E.), 177 route de Sain-Bel, 69160 Tassin-la-Demi-Lune.
 
-- les directeurs régionaux des douanes peuvent octroyer des dérogations exceptionnelles à la prohibition d'importation, sur décisions favorables des préfets.
+Association du Nord de la Picardie des propriétaires d'appareils à vapeur et électriques (A.P.A.V.E. - Nord-Picardie), 8, rue de Valmy, 59019 Lille Cedex.
+
+Association parisienne des propriétaires d'appareils à vapeur et électriques (A.P.P.A.V.E.), 13-17, rue Salneuve, 75854 Paris Cedex 17.
+
+Institut universitaire de médecine du travail, institut Pierre-Mazel, université Claude-Bernard, Lyon I, domaine universitaire Rockfeller, 8, avenue Rockfeller, 69373 Lyon Cedex 2.
