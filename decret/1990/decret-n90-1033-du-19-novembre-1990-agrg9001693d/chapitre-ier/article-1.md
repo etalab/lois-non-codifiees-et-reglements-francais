@@ -1,6 +1,6 @@
 # Article 1
 
-Le mandat sanitaire est attribué par le préfet du département dans lequel le demandeur entend exécuter des opérations de prophylaxie collective des maladies des animaux dirigées par l'Etat et des opérations de police sanitaire.
+Le mandat sanitaire est attribué par le préfet du département dans lequel le demandeur entend exécuter les opérations mentionnées aux articles L. 221-11 et L. 231-3 du code rural.
 
 La candidature à un mandat sanitaire est adressée au préfet par le pétitionnaire, accompagnée d'un dossier comprenant :
 
