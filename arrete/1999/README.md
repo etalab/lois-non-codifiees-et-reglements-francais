@@ -245,6 +245,8 @@
 - [Arrêté du 10 juin 1999 (MESH9921793A)](arrete-du-10-juin-1999-mesh9921793a)
 - [Arrêté du 10 mars 1999 (DEFC9901291A)](arrete-du-10-mars-1999-defc9901291a)
 - [Arrêté du 10 mars 1999 (MCCB9900230A)](arrete-du-10-mars-1999-mccb9900230a)
+- [Arrêté du 10 novembre 1999 (ECOP9900371A)](arrete-du-10-novembre-1999-ecop9900371a)
+- [Arrêté du 10 novembre 1999 (MEND9902482A)](arrete-du-10-novembre-1999-mend9902482a)
 - [Arrêté du 10 mai 1999 (ECOL9900067A)](arrete-du-10-mai-1999-ecol9900067a)
 - [Arrêté du 10 mai 1999 (ECOL9900068A)](arrete-du-10-mai-1999-ecol9900068a)
 - [Arrêté du 10 mai 1999 (ECOL9900069A)](arrete-du-10-mai-1999-ecol9900069a)
