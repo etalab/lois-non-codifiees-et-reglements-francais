@@ -21,4 +21,5 @@
 - [Arrêté du 28 mars 1967](arrete-du-28-mars-1967)
 - [Arrêté du 29 avril 1966](arrete-du-29-avril-1966)
 - [Arrêté du 29 décembre 1965](arrete-du-29-decembre-1965)
+- [Arrêté du 29 juin 1966](arrete-du-29-juin-1966)
 - [Arrêté du 31 mars 1966](arrete-du-31-mars-1966)
