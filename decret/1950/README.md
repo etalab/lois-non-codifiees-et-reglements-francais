@@ -37,4 +37,5 @@
 - [Décret n°50-813 du 29 juin 1950](decret-n50-813-du-29-juin-1950)
 - [Décret n°50-815 du 29 juin 1950](decret-n50-815-du-29-juin-1950)
 - [Décret n°50-613 du 30 mai 1950](decret-n50-613-du-30-mai-1950)
+- [Décret n°50-1409 du 31 octobre 1950](decret-n50-1409-du-31-octobre-1950)
 - [Décret n°50-391 du 31 mars 1950](decret-n50-391-du-31-mars-1950)
