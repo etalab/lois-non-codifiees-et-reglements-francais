@@ -6,58 +6,30 @@ Ressort
 
 Siège
 
-Nord - Pas-de-Calais.
+Nord - Pas-de-Calais - Picardie : Boulogne ;
 
-Boulogne.
+Haute-Normandie : Le Havre.
 
-Haute-Normandie - Picardie.
+Basse-Normandie : Caen.
 
-Le Havre.
+Bretagne : Rennes.
 
-Basse-Normandie.
+Pays de la Loire : Nantes.
 
-Caen.
+Poitou-Charentes : La Rochelle.
 
-Bretagne.
+Aquitaine : Bordeaux.
 
-Rennes.
+Languedoc-Roussillon : Sète.
 
-Pays de la Loire.
+Provence-Alpes-Côte d'Azur : Marseille.
 
-Nantes.
+Corse : Ajaccio.
 
-Poitou-Charentes.
+Guadeloupe : Pointe-à-Pitre.
 
-La Rochelle.
+Martinique : Fort-de-France.
 
-Aquitaine.
+Guyane : Cayenne.
 
-Bordeaux.
-
-Languedoc-Roussillon.
-
-Sète.
-
-Provence-Alpes-Côte d'Azur.
-
-Marseille.
-
-Corse.
-
-Ajaccio.
-
-Guadeloupe.
-
-Pointe-à-Pitre.
-
-Martinique.
-
-Fort-de-France.
-
-Guyane.
-
-Cayenne.
-
-Réunion.
-
-Saint-Denis-de-la-Réunion.
+Réunion, îles Eparses : Saint-Denis-de-la-Réunion.

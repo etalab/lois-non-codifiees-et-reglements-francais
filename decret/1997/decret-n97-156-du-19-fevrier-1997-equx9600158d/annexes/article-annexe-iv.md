@@ -46,8 +46,6 @@ Guyane.
 
 Fort-de-France.
 
-Réunion.
+Réunion, îles Eparses : Saint-Denis-de-la-Réunion ;
 
-Mayotte, îles Eparses.
-
-Saint-Denis-de-la-Réunion.
+Mayotte.

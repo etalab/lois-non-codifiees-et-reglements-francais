@@ -10,6 +10,6 @@ Wallis-et-Futuna
 
 Saint-Pierre-et-Miquelon
 
-Mayotte, îles Eparses
+Mayotte
 
 Terres australes et antarctiques françaises

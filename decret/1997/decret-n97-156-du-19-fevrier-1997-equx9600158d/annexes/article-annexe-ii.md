@@ -82,7 +82,7 @@ Guyane.
 
 Cayenne.
 
-Réunion.
+Réunion, îles Eparses.
 
 Saint-Denis-de-la-Réunion.
 

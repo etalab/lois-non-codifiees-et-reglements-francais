@@ -45,9 +45,3 @@ Guadeloupe.
 Martinique.
 
 Guyane.
-
-Réunion.
-
-Réunion.
-
-Mayotte, îles Eparses.
