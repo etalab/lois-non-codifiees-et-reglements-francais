@@ -1,11 +1,15 @@
 # Article 4
 
-Si l'assuré est hospitalisé, l'indemnité journalière d'assurance maladie est minorée de :
+Les taux servant au calcul des allocations familiales sont fixés en pourcentage de la base mensuelle visée à l'article 1er du présent arrêté à :
 
-a) Un cinquième si l'assuré a un enfant ou un ou plusieurs ascendants à sa charge ;
+23% pour le deuxième enfant à charge ;
 
-b) Deux cinquièmes s'il est marié sans enfant ou ascendant à sa charge ;
+42% pour le troisième enfant à charge ;
 
-c) Trois cinquièmes dans tous les autres cas.
+37,5% pour le quatrième enfant à charge ;
 
-Aucune minoration n'intervient si l'assuré a au moins deux enfants à sa charge.
+35,5% pour le cinquième enfant à charge et chacun des suivants,
+
+soit 23% pour deux enfants à charge, 65% pour trois enfants à charge, 102,5% pour quatre enfants à charge, avec augmentation de 35,5% par enfant à charge au-delà du quatrième.
+
+Ces taux varient comme les taux des allocations familiales fixés pour la France métropolitaine par le décret du 24 mai 1969 susvisé.

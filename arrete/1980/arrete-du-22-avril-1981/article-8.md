@@ -1,3 +1,3 @@
 # Article 8
 
-Le directeur du budget au ministère du budget et le directeur de la sécurité sociale au ministère de la santé et de la sécurité sociale sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Sont abrogés en tant qu'ils fixent les taux des allocations pré et postnatales, des allocations familiales et de leurs majorations pour âge et de l'allocation de salaire unique les articles 12, 15, 19 et 21 de l'arrêté du 15 mars 1966 susvisé.

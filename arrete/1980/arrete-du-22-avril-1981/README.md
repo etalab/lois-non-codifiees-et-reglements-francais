@@ -1,4 +1,4 @@
-# Arrêté du 22 avril 1981 portant revalorisation des indemnités journalières d'assurance maladie à Saint-Pierre-et-Miquelon.
+# Arrêté du 22 avril 1981 FIXANT LA REVALORISATION DES PRESTATIONS FAMILIALES A SAINT-PIERRE-ET-MIQUELON.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,3 +8,4 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
+- [Article 9](article-9.md)

@@ -1,3 +1,7 @@
 # Article 5
 
-Pendant la période d'indemnisation prise en charge par l'employeur, l'indemnité journalière sera égale à un tiers des indemnités prévues aux articles 2, 3 et 4.
+Le montant des majorations pour âge des allocations familiales est fixé à :
+
+9% de la base mensuelle visée à l'article 1er du présent arrêté à partir de dix ans ;
+
+16% de cette même base à partir de quinze ans.
