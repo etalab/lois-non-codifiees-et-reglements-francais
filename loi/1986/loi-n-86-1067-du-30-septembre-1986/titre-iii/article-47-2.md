@@ -1,6 +1,6 @@
 # Article 47-2
 
-Le conseil d'administration de chacune des sociétés Réseau France Outre-mer, Radio France et Radio France Internationale comprend douze membres dont le mandat est de cinq ans :
+Le conseil d'administration de chacune des sociétés Radio France et Radio France Internationale comprend douze membres dont le mandat est de cinq ans :
 
 1° Deux parlementaires désignés respectivement par l'Assemblée nationale et par le Sénat ;
 

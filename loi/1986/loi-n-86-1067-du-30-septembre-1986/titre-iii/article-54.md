@@ -1,6 +1,6 @@
 # Article 54
 
-Le Gouvernement peut à tout moment faire programmer par les sociétés mentionnées aux 1° et 2° du I de l'article 44 toutes les déclarations ou communications qu'il juge nécessaires.
+Le Gouvernement peut à tout moment faire programmer par les sociétés nationales de programmes mentionnées à l'article 44 toutes les déclarations ou communications qu'il juge nécessaires.
 
 Les émissions sont annoncées comme émanant du Gouvernement.
 

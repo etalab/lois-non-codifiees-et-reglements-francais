@@ -1,4 +1,4 @@
-# CHAPITRE II : Dispositions applicables à la radiodiffusion sonore et à la télévision par câble et par satellite
+# CHAPITRE II : Dispositions applicables à la radio et à la télévision par les réseaux n'utilisant pas des fréquences assignées par le Conseil supérieur de l'audiovisuel
 
-- [Section I : Edition de services de radiodiffusion sonore et de télévision par câble et par satellite](section-i)
-- [Section II : Distribution de services de radiodiffusion sonore et de télévision par câble et par satellite](section-ii)
+- [Section I : Edition de services de radio et de télévision par les réseaux n'utilisant pas des fréquences assignées par le Conseil supérieur de l'audiovisuel](section-i)
+- [Section II : Distribution de services de radio et de télévision par les réseaux n'utilisant pas des fréquences assignées par le Conseil supérieur de l'audiovisuel.](section-ii)

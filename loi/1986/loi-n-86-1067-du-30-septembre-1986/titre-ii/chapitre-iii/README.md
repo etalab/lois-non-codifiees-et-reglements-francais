@@ -2,7 +2,6 @@
 
 - [Article 35](article-35.md)
 - [Article 36](article-36.md)
-- [Article 37](article-37.md)
 - [Article 38](article-38.md)
 - [Article 39](article-39.md)
 - [Article 40](article-40.md)
@@ -26,6 +25,4 @@
 - [Article 42-10](article-42-10.md)
 - [Article 42-11](article-42-11.md)
 - [Article 42-12](article-42-12.md)
-- [Article 42-13](article-42-13.md)
-- [Article 42-14](article-42-14.md)
 - [Article 42-15](article-42-15.md)

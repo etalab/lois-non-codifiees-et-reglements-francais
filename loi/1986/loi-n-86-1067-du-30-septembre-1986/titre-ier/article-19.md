@@ -6,9 +6,11 @@ Pour l'accomplissement des missions qui lui sont confiées par la présente loi,
 
 - auprès des autorités administratives, toutes les informations nécessaires à l'élaboration de ses avis et décisions ;
 
-- auprès des administrations ou des éditeurs et distributeurs de services de communication audiovisuelle, toutes les informations nécessaires pour s'assurer du respect des obligations qui sont imposées à ces derniers ;
+- auprès des administrations, des producteurs d'oeuvres audiovisuelles et cinématographiques, des personnes mentionnées à l'article 95 ainsi que des éditeurs et distributeurs de services de communication audiovisuelle, toutes les informations nécessaires pour s'assurer du respect des obligations qui sont imposées à ces derniers ;
 
-- auprès de toute personne physique ou morale détenant, directement ou indirectement, une part égale ou supérieure à 10 % du capital ou des droits de vote aux assemblées générales d'une société éditant ou distribuant un service de télévision ou de radiodiffusion sonore dont les programmes contribuent à l'information politique et générale, toutes les informations sur les marchés publics et délégations de service public pour l'attribution desquels cette personne ou une société qu'elle contrôle ont présenté une offre au cours des vingt-quatre derniers mois ;
+- auprès des opérateurs de réseaux satellitaires, toutes les informations nécessaires à l'identification des éditeurs des services de télévision transportés ;
+
+- auprès de toute personne physique ou morale détenant, directement ou indirectement, une part égale ou supérieure à 10 % du capital ou des droits de vote aux assemblées générales d'une société éditant ou distribuant un service de télévision ou de radio dont les programmes contribuent à l'information politique et générale, toutes les informations sur les marchés publics et délégations de service public pour l'attribution desquels cette personne ou une société qu'elle contrôle ont présenté une offre au cours des vingt-quatre derniers mois ;
 
 2° Faire procéder auprès des administrations ou des éditeurs et distributeurs de services à des enquêtes.
 

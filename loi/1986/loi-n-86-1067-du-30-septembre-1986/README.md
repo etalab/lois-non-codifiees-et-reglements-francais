@@ -3,7 +3,7 @@
 - [Article 1](article-1.md)
 - [TITRE Ier : DU CONSEIL SUPERIEUR DE L'AUDIOVISUEL.](titre-ier)
 - [Article 2](article-2.md)
-- [TITRE  II : DE L'USAGE DES PROCEDES DE TELECOMMUNICATIONS](titre-ii)
+- [TITRE II : DES SERVICES DE COMMUNICATION AUDIOVISUELLE](titre-ii)
 - [Article 2-1](article-2-1.md)
 - [Article 3](article-3.md)
 - [TITRE III : DU SECTEUR PUBLIC DE LA COMMUNICATION AUDIOVISUELLE](titre-iii)

@@ -32,15 +32,15 @@ V. - (Abrogé)
 
 VI. Sauf en ce qui concerne la taxe forfaitaire prévue au premier alinéa du III, le recouvrement et le contentieux des taxes visées au présent article sont suivis par les comptables du Trésor selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.
 
-VII. - Les opérateurs exerçant les activités de télécommunications mentionnées aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications sont assujettis au paiement d'une taxe administrative dans les conditions suivantes :
+VII. - Les opérateurs exerçant les activités de communications électroniques mentionnées aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications sont assujettis au paiement d'une taxe administrative dans les conditions suivantes :
 
 1. Le montant annuel de la taxe est fixé à 20 000 euros.
 
-2. Ce montant est divisé par deux lorsque l'exploitation des réseaux ouverts au public ou la fourniture au public des services de télécommunications est limitée aux départements d'outre-mer ou couvre au plus un département métropolitain.
+2. Ce montant est divisé par deux lorsque l'exploitation des réseaux ouverts au public ou la fourniture au public des services de communications électroniques est limitée aux départements d'outre-mer ou couvre au plus un département métropolitain.
 
 3. Lorsque l'opérateur figure sur l'une des listes prévues au 7° de l'article L. 36-7 du code des postes et télécommunications, le montant résultant de l'application des dispositions du 1 est multiplié par quatre.
 
-4. Lorsqu'elles sont exercées à titre expérimental pour une durée n'excédant pas trois ans, les opérateurs exerçant les activités de télécommunications mentionnées aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications sont exonérés de la taxe prévue au 1.
+4. Lorsqu'elles sont exercées à titre expérimental pour une durée n'excédant pas trois ans, les opérateurs exerçant les activités de communications électroniques mentionnées aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications sont exonérés de la taxe prévue au 1.
 
 5. La taxe est annuelle. Elle est exigible au 1er décembre de chaque année.
 

@@ -1,3 +1,7 @@
 # Article 42-3
 
 L'autorisation peut être retirée, sans mise en demeure préalable, en cas de modification substantielle des données au vu desquelles l'autorisation avait été délivrée, notamment des changements intervenus dans la composition du capital social ou des organes de direction et dans les modalités de financement.
+
+Dans le respect des critères mentionnés à l'article 29, notamment le juste équilibre entre les réseaux nationaux et les services locaux, régionaux et thématiques indépendants, le Conseil supérieur de l'audiovisuel peut donner son agrément à un changement de titulaire d'autorisation pour la diffusion de services de radio lorsque ce changement bénéficie à la personne morale qui contrôle ou qui est contrôlée par le titulaire initial de l'autorisation au regard des critères figurant à l'article L. 233-3 du code de commerce. A l'occasion de ce changement de titulaire de l'autorisation, le conseil peut, dans les mêmes conditions, donner son agrément à un changement de la catégorie pour laquelle le service est autorisé. Ce changement ne peut être agréé hors appel aux candidatures par le Conseil supérieur de l'audiovisuel s'il est incompatible avec la préservation des équilibres des marchés publicitaires, notamment locaux.
+
+Ce changement de titulaire de l'autorisation n'est pas ouvert aux services mentionnés à l'article 80 et aux services locaux, régionaux et thématiques indépendants.

@@ -1,6 +1,6 @@
 # Article 20-1
 
-L'emploi du français est obligatoire dans l'ensemble des émissions et des messages publicitaires des organismes et services de radiodiffusion sonore ou télévisuelle, quel que soit leur mode de diffusion ou de distribution, à l'exception des oeuvres cinématographiques et audiovisuelles en version originale.
+L'emploi du français est obligatoire dans l'ensemble des émissions et des messages publicitaires des organismes et services de radio ou de télévision, quel que soit leur mode de diffusion ou de distribution, à l'exception des oeuvres cinématographiques et audiovisuelles en version originale.
 
 Sous réserve des dispositions du 2° bis de l'article 28 de la présente loi, l'alinéa précédent ne s'applique pas aux oeuvres musicales dont le texte est, en tout ou partie, rédigé en langue étrangère.
 

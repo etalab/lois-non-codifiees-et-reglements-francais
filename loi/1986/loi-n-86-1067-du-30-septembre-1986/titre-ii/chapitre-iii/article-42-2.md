@@ -1,6 +1,6 @@
 # Article 42-2
 
-Le montant de la sanction pécuniaire doit être fonction de la gravité des manquements commis et en relation avec les avantages tirés du manquement, sans pouvoir excéder 3 p. 100 du chiffre d'affaires hors taxes, réalisé au cours du dernier exercice clos calculé sur une période de douze mois. Ce maximum est porté à 5 p. 100 en cas de nouvelle violation de la même obligation.
+Le montant de la sanction pécuniaire doit être fonction de la gravité des manquements commis et en relation avec les avantages tirés du manquement, sans pouvoir excéder 3 % du chiffre d'affaires hors taxes, réalisé au cours du dernier exercice clos calculé sur une période de douze mois. Ce maximum est porté à 5 % en cas de nouvelle violation de la même obligation.
 
 Lorsque le manquement est constitutif d'une infraction pénale, le montant de la sanction pécuniaire ne peut excéder celui prévu pour l'amende pénale.
 

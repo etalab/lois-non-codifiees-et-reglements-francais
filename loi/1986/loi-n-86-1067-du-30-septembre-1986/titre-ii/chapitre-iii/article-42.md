@@ -1,6 +1,6 @@
 # Article 42
 
-Le Conseil supérieur de l'audiovisuel peut mettre en demeure les éditeurs et distributeurs de services de radiodiffusion sonore ou de télévision de respecter les obligations qui leur sont imposées par les textes législatifs et réglementaires et par les principes définis à l'article 1er de la présente loi.
+Les éditeurs et distributeurs de services de radio ou de télévision ainsi que les éditeurs de services mentionnés à l'article 30-5 et les opérateurs de réseaux satellitaires peuvent être mis en demeure de respecter les obligations qui leur sont imposées par les textes législatifs et réglementaires et par les principes définis aux articles 1er et 3-1.
 
 Le Conseil supérieur de l'audiovisuel rend publiques ces mises en demeure.
 

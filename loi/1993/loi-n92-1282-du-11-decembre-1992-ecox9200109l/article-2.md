@@ -18,4 +18,4 @@ b) De mettre à la disposition des transporteurs aériens, maritimes ou fluviaux
 
 4° L'exploitation de réseaux destinés à fournir un service public dans le domaine du transport par chemin de fer, systèmes automatiques, tramways, trolleybus, autobus, autocars ou remontées mécaniques ;
 
-5° La mise à disposition ou l'exploitation de réseaux de télécommunications ouverts au public ou la fourniture d'un ou de plusieurs services de télécommunications visés aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications.
+5° La mise à disposition ou l'exploitation de réseaux de télécommunications ouverts au public ou la fourniture d'un ou de plusieurs services de communications électroniques fournis au public.

@@ -1,4 +1,4 @@
-# Section II : Distribution de services de radiodiffusion sonore et de télévision par câble et par satellite
+# Section II : Distribution de services de radio et de télévision par les réseaux n'utilisant pas des fréquences assignées par le Conseil supérieur de l'audiovisuel.
 
 - [Article 34](article-34.md)
 - [Article 34-1](article-34-1.md)

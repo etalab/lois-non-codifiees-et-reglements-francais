@@ -1,4 +1,4 @@
-# Section III : Règles applicables aux services de communication audiovisuelle diffusés.
+# Section III : Règles applicables aux services de communication audiovisuelle diffusés
 
 - [Article 25](article-25.md)
 - [Article 26](article-26.md)
