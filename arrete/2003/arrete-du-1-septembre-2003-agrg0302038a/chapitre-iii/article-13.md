@@ -1,3 +1,13 @@
 # Article 13
 
-Les autorisations d'utilisation des matières de catégorie 2 et des matières de catégorie 3, non transformées, pour les installations où sont élevés des animaux à fourrure, des chiens d'élevage ou de meute reconnus, et pour les verminières, telles que prévues par le règlement (CE) n° 1774-2002 en son article 23, sont délivrées par le préfet du département d'implantation, sur proposition du directeur départemental des services vétérinaires. Elles sont renouvelables annuellement.
+Les centres de collecte et utilisateurs finaux autorisés sont identifiés par le directeur départemental des services vétérinaires.
+
+Le numéro d'identification est composé dans l'ordre :
+
+- du numéro de codification du département ;
+
+- du numéro de codification de la commune ou, pour Paris, Lyon et Marseille, de l'arrondissement ;
+
+- et du numéro d'ordre de l'établissement intermédiaire, de l'usine de transformation ou du centre de collecte, dans la commune ou, pour Paris, Lyon et Marseille, dans l'arrondissement.
+
+Le numéro d'identification est précédé des lettres FR dans le cas des centres de collecte.

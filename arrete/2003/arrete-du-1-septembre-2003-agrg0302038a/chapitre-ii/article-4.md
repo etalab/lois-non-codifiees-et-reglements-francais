@@ -9,3 +9,5 @@ Le numéro d'identification est composé dans l'ordre :
 - du numéro de codification de la commune ou, pour Paris, Lyon et Marseille, de l'arrondissement ;
 
 - et du numéro d'ordre de l'établissement intermédiaire, de l'usine de transformation ou du centre de collecte, dans la commune ou, pour Paris, Lyon et Marseille, dans l'arrondissement.
+
+Le numéro d'identification est précédé des lettres FR.*.
