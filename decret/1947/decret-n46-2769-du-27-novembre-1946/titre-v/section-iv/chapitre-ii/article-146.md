@@ -1,6 +1,6 @@
 # Article 146
 
-L'assurance vieillesse garantit une rente ou pension de retraite aux affiliés âgés de cinquante-cinq ans. Toutefois, l'ouverture des droits est fixée à cinquante ans pour les travailleurs qui justifient, à cet âge, de trente années de service à la mine dont vingt années au moins au fond, et qui se mettent en instance de pension [*ancienneté, durée d'immatriculation, nombre d'annuités*].
+L'assurance vieillesse garantit une rente ou pension de retraite aux affiliés âgés de cinquante-cinq ans. Toutefois, l'âge d'ouverture du droit à pension, sans pouvoir être inférieur à celui de cinquante ans, est abaissé à raison d'un an par tranche de quatre années de service au fond pour les travailleurs comptant au moins trente années d'affiliation [*durée minimum, nombre d'annuités*].
 
 Pour les affiliés qui ne réunissent pas, à l'âge de cinquante-cinq ans, les conditions de durée de travail exigées pour l'ouverture du droit à pension, les services accomplis à la mine après cet âge entrent en compte, jusqu'à concurrence de trente ans, pour la détermination de leurs droits.
 
