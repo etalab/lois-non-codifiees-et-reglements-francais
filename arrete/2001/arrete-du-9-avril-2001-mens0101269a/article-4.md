@@ -1,0 +1,7 @@
+# Article 4
+
+Les internes qui choisissent leur poste au titre d'une autre discipline que leur discipline d'affectation s'inscrivent définitivement au diplôme d'études spécialisées ou à l'un des diplômes d'études spécialisées correspondant à leur dernière discipline d'affectation conformément aux modalités définies aux articles 31 et 32 du décret du 7 avril 1988 susvisé.
+
+Les internes interclassés avec des internes de promotions différentes du fait de l'interruption de leur cursus universitaire qui choisissent leur poste au titre d'une discipline différente de leur discipline d'affectation s'inscrivent définitivement au diplôme d'études spécialisées ou à l'un des diplômes d'études spécialisées appartenant à l'une des disciplines dans laquelle ils ont été affectés à l'issue du concours d'internat auquel ils ont participé, conformément aux modalités définies aux articles 31 et 32 du décret du 7 avril 1988 modifié susvisé.
+
+Les internes mentionnés à l'article 6 de l'arrêté du 3 janvier 1989 susvisé sont affectés dans une discipline offerte au choix de la promotion à laquelle ils sont nouvellement intégrés. Ils s'inscrivent définitivement au diplôme d'études spécialisées ou à l'un des diplômes d'études spécialisées correspondant à l'une des disciplines mises au choix de la promotion à laquelle ils ont été nouvellement intégrés, conformément aux modalités définies aux articles 31 et 32 du décret du 7 avril 1988 susvisé.

@@ -5,3 +5,4 @@
 - [Chapitre II : Les armes neutralisées (8e catégorie, § 2)](chapitre-ii)
 - [Chapitre III : Les reproductions d'armes anciennes (8e catégorie, § 3)](chapitre-iii)
 - [Article 29](article-29.md)
+- [Annexes](annexes)
