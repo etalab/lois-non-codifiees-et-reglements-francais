@@ -1,8 +1,6 @@
 # Article 2
 
-I. - Les dispositions du titre II du décret n° 50-1225 du 21 septembre 1950, dans leur rédaction antérieure au présent décret, demeurent applicables aux personnes mentionnées à l'article 1025 du code rural.
-
-II. - Sont abrogés, sauf en tant qu'ils concernent les personnes mentionnées à l'article 1025 du code rural :
+I. - Abrogé    II. - Sont abrogés :
 
 1° Les articles 7 à 8-2, 11 et 14 du décret n° 50-444 du 20 avril 1950 susvisé relatif au financement des assurances sociales agricoles ;
 
@@ -16,7 +14,7 @@ II. - Sont abrogés, sauf en tant qu'ils concernent les personnes mentionnées �
 
 6° Le décret n° 78-997 du 6 octobre 1978 relatif à la suppression de la participation des assurés aux tarifs servant de base au calcul des prestations en nature de l'assurance maladie dans les cas prévus à l'article L. 286-1-I (10°, 11° et 12°) du code de la sécurité sociale.
 
-III. - Sont abrogés, sauf en tant qu'ils concernent les personnes mentionnées à l'article 1025 du code rural et les bénéficiaires de l'assurance maladie, invalidité, maternité des membres non salariés des professions agricoles :
+III. - Sont abrogés, sauf en tant qu'ils concernent les bénéficiaires de l'assurance maladie, invalidité, maternité des membres non salariés des professions agricoles :
 
 1° Le décret n° 69-132 du 6 février 1969 susvisé ;
 
