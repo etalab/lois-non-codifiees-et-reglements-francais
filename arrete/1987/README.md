@@ -52,6 +52,7 @@
 - [Arrêté du 10 février 1987](arrete-du-10-fevrier-1987)
 - [Arrêté du 10 mars 1987 (ASED8703218A)](arrete-du-10-mars-1987-ased8703218a)
 - [Arrêté du 10 mars 1987 (EQUS8700326A)](arrete-du-10-mars-1987-equs8700326a)
+- [Arrêté du 10 mars 1987 (TRSM8710012A)](arrete-du-10-mars-1987-trsm8710012a)
 - [Arrêté du 11 février 1987 (MENF8600002A)](arrete-du-11-fevrier-1987-menf8600002a)
 - [Arrêté du 11 septembre 1986](arrete-du-11-septembre-1986)
 - [Arrêté du 12 décembre 1986](arrete-du-12-decembre-1986)
