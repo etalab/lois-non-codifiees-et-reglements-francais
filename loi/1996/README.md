@@ -17,3 +17,4 @@
 - [Loi n° 96-65 du 29 janvier 1996 (MAEX9400128L)](loi-n-96-65-du-29-janvier-1996-maex9400128l)
 - [Loi n° 96-87 du 5 février 1996 (DOMX9500139L)](loi-n-96-87-du-5-fevrier-1996-domx9500139l)
 - [Loi n°96-1 du 2 janvier 1996 (JUSX9500111L)](loi-n96-1-du-2-janvier-1996-jusx9500111l)
+- [Loi n°96-151 du 26 février 1996 (EQUX9500055L)](loi-n96-151-du-26-fevrier-1996-equx9500055l)
