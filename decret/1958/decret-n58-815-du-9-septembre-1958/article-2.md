@@ -2,4 +2,4 @@
 
 Cet établissement prend le nom d'"Aménagement de la région de la Défense".
 
-Sa durée est de trente ans.
+Sa mission prendra fin le 31 décembre 1992.
