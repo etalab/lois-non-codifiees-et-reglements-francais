@@ -2,4 +2,5 @@
 
 - [Titre Ier : Dispositions générales](titre-ier)
 - [Titre II : Dispositions financières](titre-ii)
+- [Titre III : Unions de sociétés coopératives ouvrières de production.](titre-iii)
 - [Titre IV : Dispositions diverses et transitoires](titre-iv)
