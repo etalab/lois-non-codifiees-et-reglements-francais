@@ -1135,7 +1135,6 @@
 - [Décret n°92-1464 du 31 décembre 1992 (EQUP9201683D)](decret-n92-1464-du-31-decembre-1992-equp9201683d)
 - [Décret n°92-1465 du 31 décembre 1992 (EQUP9201682D)](decret-n92-1465-du-31-decembre-1992-equp9201682d)
 - [Décret n°92-1466 du 31 décembre 1992 (INDX9200243D)](decret-n92-1466-du-31-decembre-1992-indx9200243d)
-- [Décret n°92-1471 du 31 décembre 1992 (MJSK9270146D)](decret-n92-1471-du-31-decembre-1992-mjsk9270146d)
 - [Décret n°92-1472 du 31 décembre 1992 (MENX9200221D)](decret-n92-1472-du-31-decembre-1992-menx9200221d)
 - [Décret n°92-1473 du 31 décembre 1992 (MENX9200222D)](decret-n92-1473-du-31-decembre-1992-menx9200222d)
 - [Décret n°92-1474 du 31 décembre 1992 (MENX9200223D)](decret-n92-1474-du-31-decembre-1992-menx9200223d)
