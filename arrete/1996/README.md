@@ -1250,8 +1250,6 @@
 - [Arrêté du 29 février 1996 (AGRS9600468A)](arrete-du-29-fevrier-1996-agrs9600468a)
 - [Arrêté du 29 février 1996 (AVIN9600795A)](arrete-du-29-fevrier-1996-avin9600795a)
 - [Arrêté du 29 février 1996 (AVIN9600796A)](arrete-du-29-fevrier-1996-avin9600796a)
-- [Arrêté du 29 février 1996 (AVIN9600797A)](arrete-du-29-fevrier-1996-avin9600797a)
-- [Arrêté du 29 février 1996 (AVIN9600798A)](arrete-du-29-fevrier-1996-avin9600798a)
 - [Arrêté du 29 février 1996 (BUDL9600281A)](arrete-du-29-fevrier-1996-budl9600281a)
 - [Arrêté du 29 février 1996 (EQUT9600162A)](arrete-du-29-fevrier-1996-equt9600162a)
 - [Arrêté du 29 février 1996 (EQUT9600163A)](arrete-du-29-fevrier-1996-equt9600163a)
