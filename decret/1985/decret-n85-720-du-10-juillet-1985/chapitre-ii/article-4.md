@@ -2,7 +2,7 @@
 
 Les professeurs de sport sont recrutés par la voie de deux concours distincts :
 
-1° Le premier est ouvert aux candidats âges de trente ans au plus, titulaires de la licence ès sciences et techniques des activités physiques et sportives ou d'un diplôme admis en équivalence, dont la liste est fixée par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé de la jeunesse et des sports ;
+1° Le premier est ouvert aux candidats, titulaires de la licence ès sciences et techniques des activités physiques et sportives ou d'un diplôme admis en équivalence, dont la liste est fixée par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé de la jeunesse et des sports ;
 
 2° Le second est ouvert aux fonctionnaires ou agents de l'Etat, des collectivités territoriales, ou des établissements publics qui en dépendent justifiant de cinq ans de services publics effectifs en cette qualité.
 
