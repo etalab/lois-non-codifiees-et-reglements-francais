@@ -22,6 +22,7 @@
 - [Décret n°72-136 du 14 février 1972](decret-n72-136-du-14-fevrier-1972)
 - [Décret n°72-137 du 14 février 1972](decret-n72-137-du-14-fevrier-1972)
 - [Décret n°72-903 du 14 septembre 1972](decret-n72-903-du-14-septembre-1972)
+- [Décret n°72-483 du 15 juin 1972](decret-n72-483-du-15-juin-1972)
 - [Décret n°75-267 du 15 avril 1975](decret-n75-267-du-15-avril-1975)
 - [Décret n°72-395 du 15 mai 1972](decret-n72-395-du-15-mai-1972)
 - [Décret n°72-398 du 16 mai 1972](decret-n72-398-du-16-mai-1972)
