@@ -30,10 +30,6 @@ L. 412-28, L. 412-33 à L. 412-38, L. 412-40 et L. 412-45.
 
 V - Les statuts particuliers pris en application de la présente loi doivent intervenir dans un délai de quatre ans à compter de sa publication.
 
-Toutefois, dans un délai d'un an à compter de l'entrée en vigueur de la présente loi, les règles statutaires actuellement applicables aux agents des collectivités locales devront être modifiées pour permettre l'application des dispositions qui, dans les titres II et III du statut général des fonctionnaires de l'Etat et des collectivités territoriales, résultent des règles fixées par l'article 14 du titre Ier du statut général des fonctionnaires de l'Etat et des collectivités territoriales.
-
-Les mêmes dispositions sont également applicables aux statuts particuliers qui régissent les corps des personnels de la commune et du département de Paris.
-
 VI - Les adaptations des statuts particuliers des corps de la fonction publique de l'Etat et des règles statutaires applicables aux agents des collectivités territoriales prévues pour l'application du premier alinéa de l'article 14 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires , par le quatrième alinéa de l'article 93 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat et par le paragraphe V du présent article, peuvent autoriser l'accès des fonctionnaires de l'Etat et des fonctionnaires territoriaux à la hiérarchie des corps et emplois, par voie, selon les cas, de détachement suivi ou non d'intégration, de promotion interne dans les conditions prévues par les 1° et 2° de l'article 26 de la loi n° 84-16 du 11 janvier 1984 précitée et de l'article 39 de la présente loi et de tour extérieur, eu égard aux caractéristiques des corps et emplois concernés.
 
 Les dispositions de l'alinéa ci-dessus sont applicables aux fonctionnaires régis par le titre IV du présent statut général.

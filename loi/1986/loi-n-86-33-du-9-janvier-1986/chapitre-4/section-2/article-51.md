@@ -7,3 +7,5 @@ Il est prononcé sur la demande du fonctionnaire.
 Le détachement est de courte ou de longue durée.
 
 Il est révocable.
+
+Un fonctionnaire ne peut être détaché auprès d'une personne physique.

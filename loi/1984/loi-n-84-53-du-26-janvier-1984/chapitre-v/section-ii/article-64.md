@@ -9,3 +9,5 @@ Le détachement est de courte durée ou de longue durée. Il est révocable.
 Le fonctionnaire détaché est soumis aux règles régissant la fonction qu'il exerce par l'effet de son détachement.
 
 A l'expiration de son détachement, le fonctionnaire est obligatoirement réintégré dans son corps d'origine.
+
+Un fonctionnaire ne peut être détaché auprès d'une personne physique.
