@@ -12,7 +12,7 @@ I. - Chaque chambre de métiers est constituée de trente-six membres répartis 
 
 4. Services.
 
-Lors de chaque renouvellement des chambres de métiers, la répartition des sièges est arrêtée par le préfet à partir de la liste du répertoire des métiers transmise par la chambre des métiers. Deux sièges sont attribués à chaque catégorie et les seize sièges restants sont attribués proportionnellement au nombre de personnes physiques et morales immatriculées au répertoire des métiers de la chambre de métiers dans la catégorie correspondante au 31 décembre de l'année précédant le renouvellement ; cette répartition se fait suivant la règle du plus fort reste.
+Lors de chaque renouvellement des chambres de métiers et de l'artisanat, la répartition et le nombre de sièges par catégories d'activités sont arrêtés par le préfet à partir de la liste du répertoire des métiers transmise par la chambre de métiers. Deux sièges sont attribués à chaque catégorie et les seize sièges restants sont attribués proportionnellement au nombre de personnes physiques et morales immatriculées au répertoire des métiers de la chambre de métiers dans la catégorie correspondante, au plus tard le 1er juillet précédant le renouvellement ; cette répartition se fait suivant la règle du plus fort reste.
 
 2° Le collège des organisations professionnelles comprend douze membres.
 

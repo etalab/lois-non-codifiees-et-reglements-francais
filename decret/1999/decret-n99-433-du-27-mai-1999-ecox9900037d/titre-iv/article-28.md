@@ -1,7 +1,11 @@
 # Article 28
 
-Le préfet adresse à la commission, au moins vingt-cinq jours avant le scrutin, les enveloppes nécessaires à l'expédition des circulaires et des bulletins de vote ainsi que les enveloppes permettant le vote par correspondance.
+Le préfet adresse à la commission, au moins vingt-cinq jours avant la date de clôture du scrutin, les enveloppes nécessaires à l'expédition des circulaires et des bulletins de vote ainsi que les enveloppes d'acheminement des votes.
 
-La commission adresse ces documents aux électeurs vingt jours avant le scrutin. Chaque électeur reçoit, outre les bulletins de vote et les circulaires, deux enveloppes électorales, l'une pour le vote dans sa catégorie, la seconde pour le vote au collège des organisations professionnelles, ainsi qu'une enveloppe d'expédition et l'attestation d'inscription sur la liste électorale prévue à l'article 11.
+La commission adresse ces documents aux électeurs vingt et un jours au plus tard avant le dernier jour du scrutin.
 
-A cet envoi est jointe une notice indiquant les modalités du scrutin, l'adresse de la préfecture, ou le cas échéant de la sous-préfecture du siège de la chambre, et la date d'élection qui est la date limite d'expédition des votes, ainsi que le nombre de sièges à pourvoir dans chaque catégorie pour l'élection des membres du collège des activités.
+A cet envoi est jointe une notice indiquant les modalités du vote.
+
+Les modalités du vote par correspondance sont fixées par arrêté du ministre chargé de l'artisanat. Ce arrêté fixe notamment les conditions de format, de libellé et d'impression des bulletins de vote et des circulaires, ainsi que les conditions d'acheminement de ces votes.
+
+Les bulletins de vote et les circulaires qui ne sont pas parvenus à leur destinataire sont retournés à la préfecture, qui les conserve jusqu'à l'expiration des délais de recours contre les élections ou, le cas échéant, jusqu'à l'intervention d'un jugement définitif sur les contestations.

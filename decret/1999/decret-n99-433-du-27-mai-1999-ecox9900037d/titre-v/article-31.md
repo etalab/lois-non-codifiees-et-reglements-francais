@@ -1,6 +1,6 @@
 # Article 31
 
-La commission proclame en public les résultats des élections des deux collèges.
+Le président de la commission proclame en public les résultats des élections des deux collèges.
 
 Après proclamation des résultats, un procès-verbal est dressé par la commission et signé par le président et les membres de celle-ci.
 

@@ -1,9 +1,11 @@
 # Article 14
 
-Pendant la période de publicité de la liste électorale et pendant les cinq jours qui la suivent, la liste électorale peut être contestée par les électeurs intéressés devant le tribunal d'instance.
+Pendant la période de publicité de la liste électorale, toute personne qui prétend avoir été omise de la liste électorale, avoir été radiée à tort ou avoir été classée dans une catégorie autre que celle à laquelle elle appartient peut saisir le président de la chambre de métiers d'une réclamation. La décision du président intervient dans un délai de dix jours. Elle peut être contestée devant le tribunal d'instance dans le ressort duquel est située l'entreprise.
 
-Le même droit est ouvert au préfet et au sous-préfet d'arrondissement.
+Pendant la période de publicité de la liste électorale et les vingt jours qui suivent, tout électeur intéressé peut directement réclamer l'inscription ou la radiation d'un électeur omis, ou indûment inscrit, ou son inscription dans une catégorie autre que celle à laquelle il appartient, devant le tribunal d'instance dans le ressort duquel est située l'entreprise.
 
-Ces réclamations sont soumises aux prescriptions des articles L. 25 à L. 27 du code électoral.
+Le tribunal d'instance est compétent pour statuer jusqu'au jour du scrutin.
 
-Le recours et le pourvoi en cassation sont formés dans les conditions prévues aux articles R. 13 à R. 15-7 du code électoral.
+Le même droit est ouvert au préfet.
+
+Les recours sont formés dans les conditions prévues aux 2° et 3° de l'article L. 25 et aux articles L. 27 et R. 13 à R. 15-7 du code électoral.

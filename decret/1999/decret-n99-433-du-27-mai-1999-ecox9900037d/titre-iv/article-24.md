@@ -1,5 +1,5 @@
 # Article 24
 
-Le préfet convoque les électeurs par arrêté publié et affiché au plus tard le trente-cinquième jour avant la date des élections.
+Le ministre chargé de l'artisanat convoque les électeurs et indique la date d'ouverture de la campagne électorale par arrêté, au plus tard le premier jour du mois précédant celui de la date de clôture du scrutin.
 
-L'arrêté fixe le siège de la commission d'organisation des élections ainsi que le nombre de sièges à pourvoir pour chacune des catégories du collège des activités prévues à l'article 1er.
+La campagne électorale débute le vingt et unième jour précédant le dernier jour du scrutin et s'achève la veille de celui-ci, à minuit.

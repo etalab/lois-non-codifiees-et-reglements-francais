@@ -1,15 +1,15 @@
 # Article 10
 
-La liste électorale est dressée par la chambre de métiers le 31 mai de l'année de l'élection ; lorsque cette date est un samedi, un dimanche, un jour férié ou chômé, la liste électorale est arrêtée le jour ouvrable précédent.
+La liste électorale est établie par la chambre de métiers le 31 mai de l'année de l'élection. Lorsque cette date est un samedi, un dimanche, un jour férié ou chômé, la liste électorale est arrêtée le jour ouvrable précédent. Le président de la chambre de métiers transmet au préfet un exemplaire signé de la liste électorale, ainsi que le compte rendu constatant l'accomplissement des opérations de révision de cette liste, dans les cinq jours au plus tard qui suivent l'établissement de celle-ci.
 
-Cette liste est établie par catégories telles qu'elles sont définies à l'article 1er du présent décret, et par commune ou par arrondissement lorsqu'une commune est divisée en arrondissements.
+Si le préfet estime que les formalités et les délais prescrits n'ont pas été observés, il doit, dans les deux jours suivant la réception de la liste, déférer cette dernière au tribunal administratif, qui statue dans les trois jours et fixe éventuellement le délai dans lequel il devra être procédé à de nouvelles opérations.
 
-Doivent figurer sur la liste les nom, prénoms, date et lieu de naissance, domicile, profession de l'électeur et en outre :
+Cette liste est établie par catégories d'activités et dans l'ordre alphabétique du nom patronymique des électeurs.
 
-1° Pour les personnes physiques, l'adresse de l'entreprise et leur numéro d'immatriculation au répertoire des métiers ;
+Doivent figurer sur la liste le nom patronymique, le nom d'épouse, les prénoms, le sexe, la date et le lieu de naissance, le domicile, la profession de l'électeur et, en outre :
 
-2° Pour les conjoints, l'adresse de l'entreprise et le numéro d'immatriculation au répertoire des métiers sous lequel ils sont mentionnés ;
+1° Pour les personnes physiques immatriculées au répertoire des métiers, l'adresse de l'entreprise ou de son établissement principal et leur numéro d'immatriculation au répertoire des métiers ;
 
-3° Pour les personnes morales, l'adresse de la société, son numéro d'immatriculation au répertoire des métiers et le nom des dirigeants sociaux mentionnés à ce répertoire.
+2° Pour les conjoints collaborateurs, l'adresse de l'entreprise ou de son établissement principal et le numéro d'immatriculation au répertoire des métiers sous lequel ils sont mentionnés ;
 
-Dans un délai de dix jours suivant la date fixée au présent article, le président de la chambre de métiers transmet la liste électorale à la commission de révision de la liste électorale prévue à l'article 11.
+3° Pour les dirigeants sociaux, l'adresse du siège de l'entreprise et le numéro d'immatriculation au répertoire des métiers de la personne morale.

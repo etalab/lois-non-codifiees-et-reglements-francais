@@ -2,10 +2,8 @@
 
 Sont éligibles les électeurs qui remplissent en outre les conditions suivantes :
 
-I. - Les personnes physiques doivent être de nationalité française ou ressortissantes des autres Etats membres de l'Union européenne ;
+I. - Les personnes physiques ne peuvent être élues ou réélues si elles sont âgées de soixante-cinq ans révolus le 1er janvier de l'année d'établissement des listes électorales. Lorsqu'ils atteignent cet âge en cours de mandat, les membres de la chambre de métiers poursuivent leur mandat jusqu'au renouvellement suivant.
 
-Elles ne peuvent être élues ou réélues si elles sont âgées de soixante-cinq ans révolus le jour de l'élection. Lorsqu'ils atteignent cet âge en cours de mandat, les membres de la chambre de métiers poursuivent leur mandat jusqu'au renouvellement suivant.
+II. - Les chefs d'entreprise, les conjoints collaborateurs et les dirigeants sociaux des personnes morales doivent être immatriculés ou mentionnés au répertoire des métiers de la chambre de métiers depuis au moins deux ans à la date de clôture du scrutin. L'immatriculation au répertoire des métiers peut être maintenue pendant un délai maximum d'un an en cas de cessation temporaire d'activité, sur déclaration de la personne immatriculée.
 
-II. - Les chefs d'entreprise, les conjoints des chefs d'entreprise et les dirigeants sociaux des personnes morales doivent en outre être immatriculés ou mentionnés au répertoire des métiers de la chambre de métiers depuis au moins deux ans à la date d'ouverture de la période de révision prévue à l'article 10. Toutefois, l'interruption temporaire de l'immatriculation, pour raison de santé médicalement certifiée ou à la suite d'une vente suivie d'un rachat permettant une reprise d'activités ou de démarches en vue de ce rachat, ne fait pas obstacle à l'éligibilité. Dans ce cas, cette interruption ne doit pas être supérieure à un an.
-
-III. - Les personnes physiques et les personnes morales doivent être à jour de leurs cotisations fiscales et sociales ou avoir constitué des garanties jugées suffisantes par l'organisme responsable du recouvrement de l'une ou l'autre de ces cotisations.
+III. - Les personnes physiques et les personnes morales doivent soit être à jour de leurs cotisations fiscales et sociales, soit respecter les échéances d'un plan de règlement signé avec l'organisme chargé du recouvrement des unes ou des autres de ces cotisations, soit avoir constitué des garanties jugées suffisantes par ces organismes.

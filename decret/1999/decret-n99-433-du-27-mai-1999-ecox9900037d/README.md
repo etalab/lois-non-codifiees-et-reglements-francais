@@ -6,5 +6,4 @@
 - [Titre IV : Opérations électorales.](titre-iv)
 - [Titre V : Recensement des votes et proclamations des résultats.](titre-v)
 - [Titre VI : Dispositions transitoires.](titre-vi)
-- [Titre VII : Dispositions diverses.](titre-vii)
 - [Article 38](article-38.md)
