@@ -26,6 +26,8 @@ La commission comprend, outre le président, représentant du ministre, les auto
 
 - le directeur de l'électronique et de l'informatique ;
 
+- le chargé de mission auprès du délégué général pour l'armement,      chargé de l'innovation ;
+
 - le contrôleur financier près le ministre de la défense.
 
 Le contrôle général des armées est tenu informé des dates des réunions de la commission.
