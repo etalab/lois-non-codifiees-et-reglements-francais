@@ -2,7 +2,7 @@
 
 I - Les pensions et les rentes d'invalidité instituées par le présent décret sont incessibles et insaisissables, sauf :
 
-1° En cas de débet envers l'Etat, la caisse nationale de retraites des agents des collectivités locales, les départements, communes ou établissements publics, les territoires d'outre-mer ;
+1° En cas de débet envers l'Etat, la Caisse nationale de retraites des agents des collectivités locales, les communes, les départements, les régions, les établissements publics et les territoires d'outre-mer ;
 
 2° Pour les créances privilégiées aux termes de l'article 2101 du code civil ;
 
