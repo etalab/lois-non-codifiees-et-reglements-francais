@@ -1,6 +1,6 @@
 # Article 2
 
-La commission consultative de la commande publique est composée comme suit :
+La section générale est composée comme suit :
 
 Membres permanents :
 
