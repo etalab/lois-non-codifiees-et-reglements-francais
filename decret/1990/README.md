@@ -258,6 +258,8 @@
 - [Décret n°90-272 du 27 mars 1990 (ECOT9010064D)](decret-n90-272-du-27-mars-1990-ecot9010064d)
 - [Décret n°90-275 du 27 mars 1990 (SPSM9000700D)](decret-n90-275-du-27-mars-1990-spsm9000700d)
 - [Décret n°90-283 du 27 mars 1990 (PRME9061127D)](decret-n90-283-du-27-mars-1990-prme9061127d)
+- [Décret n°90-367 du 27 avril 1990 (TEFE9003355D)](decret-n90-367-du-27-avril-1990-tefe9003355d)
+- [Décret n°90-368 du 27 avril 1990 (TEFE9003369D)](decret-n90-368-du-27-avril-1990-tefe9003369d)
 - [Décret n°91-229 du 27 février 1991 (MENF9003199D)](decret-n91-229-du-27-fevrier-1991-menf9003199d)
 - [Décret du 28 mars 1990 (ECOT9020137D)](decret-du-28-mars-1990-ecot9020137d)
 - [Décret n°89-593 du 28 août 1989 (TEFT8903644D)](decret-n89-593-du-28-aout-1989-teft8903644d)
