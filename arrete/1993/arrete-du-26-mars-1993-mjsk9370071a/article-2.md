@@ -4,7 +4,7 @@ Peuvent exercer les fonctions de directeur d'un séjour où sont hébergés, à 
 
 Le brevet d'aptitude aux fonctions de directeur assorti de l'autorisation d'exercer prévue à l'article 10 du décret n° 87-716 du 28 août 1987 ;
 
-La qualification de directeur stagiaire conformément à l'article 20 du décret n° 87-716 du 28 août 1987 ;
+la qualité de directeur stagiaire conformément à l'article 19 de l'arrêté du 26 mars 1993 fixant les modalités d'organisation des brevets d'aptitude aux fonctions d'animateur et de directeur de centres de vacances et de loisirs ;.
 
 Un des diplômes dont la liste est fixée en annexe (1) du présent arrêté et justifier d'une ou plusieurs expériences d'animation de mineurs, dont une au moins en centre de vacances ou de loisirs, d'une durée totale d'au moins vingt-huit jours dans les cinq ans qui précèdent.
 

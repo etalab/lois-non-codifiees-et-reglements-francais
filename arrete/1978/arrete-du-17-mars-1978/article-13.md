@@ -25,3 +25,7 @@ A partir du 1er octobre 1979 pour les récipients mis en service entre le 1er av
 Articles 7 et 8 :
 
 A partir du 1er avril 1979 pour les récipients mi-fixes utilisés en transport routier et pour tous les récipients mobiles, les chefs de service interdépartementaux de l'industrie et des mines pouvant, en cas de nécessité justifiée, accorder un sursis de deux mois pour cette application.
+
+§ 4. - Les dispositions de l'article 6 du présent arrêté sont abrogées à compter du 1er juin 1993.
+
+§ 5. - Les dispositions de l'article 6 bis du présent arrêté sont applicables aux récipients mis en service à compter du 1er juin 1993.
