@@ -1,0 +1,9 @@
+# Article 3
+
+L'appréhension ou la saisie des filets, engins, matériels, équipements utilisés en plongée et en pêche sous-marines et de tous les instruments utilisés à des fins de pêche est pratiquée soit à terre, soit à bord du navire ou de l'embarcation en mer, au mouillage ou à quai. Dans le cas des filets, engins et instruments de pêche prohibés en tout temps et en tous lieux, l'appréhension ou la saisie peuvent également être faites dans tous les locaux de fabrication, de détention, d'entrepôt ou de vente de ces objets.
+
+L'appréhension ou la saisie des produits des pêches est pratiquée à bord du navire ou de l'embarcation, en mer, au mouillage ou à quai, à l'intérieur des installations à terre et dans tous les locaux énumérés à l'article 5 de la loi du 5 juillet 1983.
+
+Lorsqu'une partie seulement des produits des pêches est susceptible de saisie, le tri est placé sous le contrôle soit de la direction départementale ou interdépartementale des affaires maritimes dans les départements littoraux, soit de la direction départementale de l'agriculture et de la forêt ou de la direction départementale de la concurrence, de la consommation et de la répression des fraudes dans les départements non littoraux. En cas de refus de procéder à ce tri ou lorsqu'il n'est pas praticable en raison de la présence simultanée dans les mêmes lots de pêche de produits illicites et de produits autorisés, la saisie est opérée sur l'ensemble des lots.
+
+L'appréhension ou la saisie des sommes résultant de la vente des produits des pêches est possible dans tous les lieux de vente du poisson et des produits marins provenant de la pêche, que les sommes soient en espèces ou sous forme de titres de paiement. Ces sommes sont appréhendées ou saisies sur la personne du vendeur ou de l'acquéreur ou entre les mains du gestionnaire de la halle à marée.
