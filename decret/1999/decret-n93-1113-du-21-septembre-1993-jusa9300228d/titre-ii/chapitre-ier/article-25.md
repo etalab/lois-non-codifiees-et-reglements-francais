@@ -1,9 +1,7 @@
 # Article 25
 
-Le corps des chefs de service pénitentiaire comprend deux grades :
+Les chefs de service pénitentiaire constituent un corps d'encadrement des services pénitentiaires. Ils participent à l'élaboration de la politique définie par le chef d'établissement pour la prise en charge des personnes faisant l'objet d'une mesure privative ou restrictive de liberté. Ils coordonnent sa mise en oeuvre, dans le cadre de l'exécution des décisions et sentences pénales et du maintien de la sécurité générale de l'établissement.
 
-a) Un grade de chef de service pénitentiaire de 2e classe, qui comporte un échelon d'élève, un échelon de stagiaire et neuf échelons ;
+Ils sont chargés de l'encadrement des membres du corps des gradés et surveillants. Ils assurent les fonctions de chef de détention, les fonctions d'adjoint au chef d'établissement ou de responsable d'un service dans les établissements pénitentiaires. Ils peuvent être affectés dans tout autre service relevant de l'administration pénitentiaire.
 
-b) Un grade de chef de service pénitentiaire de 1re classe, qui comporte cinq échelons et un échelon fonctionnel.
-
-Les chefs de service pénitentiaire de 1re classe exerçant les fonctions de chef d'établissement prennent le titre de chef de maison d'arrêt.
+Les chefs de service pénitentiaire peuvent également exercer la fonction de chef d'établissement dans une maison d'arrêt ou un établissement pour peines d'une capacité inférieure ou égale à 200 places.
