@@ -1,5 +1,6 @@
 # 1950
 
+- [Décret n°50-143 du 1 février 1950](decret-n50-143-du-1-fevrier-1950)
 - [Décret n°50-1370 du 2 novembre 1950](decret-n50-1370-du-2-novembre-1950)
 - [Décret n°50-266 du 4 mars 1950](decret-n50-266-du-4-mars-1950)
 - [Décret n°50-1258 du 6 octobre 1950](decret-n50-1258-du-6-octobre-1950)
