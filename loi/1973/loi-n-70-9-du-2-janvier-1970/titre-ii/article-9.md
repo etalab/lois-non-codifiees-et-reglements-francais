@@ -1,31 +1,49 @@
 # Article 9
 
-Nul ne peut, d'une manière habituelle, se livrer ou prêter son concours, même à titre accessoire, aux opérations portant sur les biens d'autrui visées à l'article 1er s'il a fait l'objet de l'une des condamnations énumérées à l'article 1er de la loi du 30 août 1947 relative à l'assainissement des professions commerciales et industrielles ou d'une condamnation à une peine d'emprisonnement avec ou sans sursis pour l'une des infractions ci-après :
+Nul ne peut, d'une manière habituelle, se livrer ou prêter son concours, même à titre accessoire, aux opérations portant sur les biens d'autrui mentionnées à l'article 1er s'il a fait l'objet depuis moins de dix ans d'une condamnation définitive :
 
-1° Faux et usage de faux en écriture privée, de commerce ou de banque, faux prévu par les articles 441-2, 441-5 et 441-6 du code pénal ;
+I. - Pour crime.
 
-2° Vol, recel, escroquerie, abus de confiance, banqueroute, extorsion de fonds, valeurs ou signatures, délits punis des peines de l'escroquerie, de l'abus de confiance ou de la banqueroute ;
+II. - A une peine d'au moins trois mois d'emprisonnement sans sursis pour :
 
-2° bis Infractions punies des peines prévues à l'article L. 121-28 ou à l'article L. 213-1 du code de la consommation ;
+1° L'une des infractions prévues au titre Ier du livre III du code pénal et pour les délits prévus par des lois spéciales et punis des peines prévues pour l'escroquerie et l'abus de confiance ;
 
-3° Emission de mauvaise foi de chèque sans provision, usure et délit réprimés par l'article 15 de la loi n° 66-1010 du 28 décembre 1966 relative à l'usure, aux prêts d'argent et à certaines opérations de démarchage et de publicité ;
+2° Recel ou l'une des infractions assimilées au recel ou voisines de celui-ci prévues à la section 2 du chapitre Ier du titre II du livre III du code pénal ;
 
-4° Soustraction commise par dépositaire public, concussion commise par fonctionnaire public, corruption de fonctionnaires publics et des employés des entreprises privées, communications de secrets de fabrique ;
+3° Blanchiment ;
 
-5° Atteinte au crédit de l'Etat, organisation du refus collectif de l'impôt ;
+4° Corruption active ou passive, trafic d'influence, soustraction et détournement de biens ;
 
-6° Faux témoignage, faux serment, subornation de témoin ;
+5° Faux, falsification de titres ou autres valeurs fiduciaires émises par l'autorité publique, falsification des marques de l'autorité ;
 
-7° Proxénétisme ou délit puni des peines du proxénétisme ;
+6° Participation à une association de malfaiteurs ;
 
-8° Délits prévus par les articles 423, 425, 432, 433, 434, 435, 437, 449 et 457 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ;
+7° Trafic de stupéfiants ;
 
-9° Délit prévu par l'article 13 de la loi n° 52-332 du 24 mars 1952 relative aux entreprises de crédit différé ;
+8° Proxénétisme ou l'une des infractions prévues par les sections 2 et 2 bis du chapitre V du titre II du livre II du code pénal ;
 
-10° Délit prévu par l'article 21 de la loi du 13 juin 1941 sur l'exercice de la profession bancaire, délit prévu par l'article 6, alinéa 2, de la loi du 14 juin 1941 relative à la réglementation et à l'organisation des professions se rattachant à la profession de banquier ;
+9° L'une des infractions prévues à la section 3 du chapitre V du titre II du livre II du code pénal ;
 
-11° Délit prévu par l'article 4 de la loi n° 60-580 du 21 juin 1960 interdisant certaines pratiques en matière de transaction portant sur des immeubles et des fonds de commerce, par les articles 16, 17 et 18 de la présente loi, et par les articles 13 et 14 de la loi n° 67-3 du 3 janvier 1967, modifiée, relative aux ventes d'immeubles à construire et à l'obligation de garantie à raison des vices de construction ;
+10° L'une des infractions à la législation sur les sociétés commerciales prévues au titre IV du livre II du code de commerce ;
 
-12° Délit prévu par l'article 59 de la loi n° 57-908 du 7 août 1957 tendant à favoriser la construction de logements et les équipements collectifs ;
+11° Banqueroute ;
 
-13° Délits prévus par les articles 188, 189 et 190 du code de l'urbanisme et de l'habitation.
+12° Pratique de prêt usuraire ;
+
+13° L'une des infractions prévues par la loi du 21 mai 1836 portant prohibition des loteries, par la loi du 15 juin 1907 réglementant le jeu dans les cercles et les casinos des stations balnéaires, thermales ou climatiques et par la loi n° 83-628 du 12 juillet 1983 relative aux jeux de hasard ;
+
+14° Infraction à la législation et à la réglementation des relations financières avec l'étranger ;
+
+15° Fraude fiscale ;
+
+16° L'une des infractions prévues aux articles L. 111-34, L. 241-1, L. 241-2, L. 261-17 et L. 311-6 du code de la construction et de l'habitation ;
+
+17° L'une des infractions prévues aux articles L. 115-16 et L. 115-18, L. 115-24, L. 115-30, L. 121-6, L. 121-28, L. 122-8 à L. 122-10, L. 213-1 à L. 213-5, L. 217-1 à L. 217-3, L. 217-6 et L. 217-10 du code de la consommation ;
+
+18° L'infraction prévue à l'article L. 353-2 du code monétaire et financier ;
+
+19° L'une des infractions prévues aux articles L. 324-9, L. 324-10 et L. 362-3 du code du travail ;
+
+20° Les atteintes aux systèmes de traitement automatisé prévues par le chapitre III du titre II du livre III du code pénal.
+
+III. - A la destitution des fonctions d'officier public ou ministériel.

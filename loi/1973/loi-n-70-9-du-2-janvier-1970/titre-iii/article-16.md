@@ -1,9 +1,11 @@
 # Article 16
 
-Sera punie d'une amende de 4 500 euros et, en cas de récidive, d'une amende de 9 000 euros et d'un emprisonnement de six mois ou de l'une de ces deux peines seulement :
+Est puni de deux ans d'emprisonnement et de 30000 euros d'amende le fait :
 
-1° Toute personne qui, d'une manière habituelle, se livre ou prête son concours, même à titre accessoire, à des opérations visées à l'article 1er sans être titulaire de la carte instituée par l'article 3 ou après avoir cessé de remplir les conditions auxquelles la délivrance de cette carte est subordonnée ;
+1° De recevoir ou de détenir, à quelque titre et de quelque manière que ce soit, à l'occasion d'opérations visées à l'article 1er, des sommes d'argent, biens, effets ou valeurs quelconques :
 
-2° Toute personne qui exercera les fonctions de représentant légal ou statutaire d'une personne morale qui, d'une manière habituelle, se livre ou prête son concours, même à titre accessoire, à des opérations visées à l'article 1er lorsqu'elle ne remplit pas ou cesse de remplir les conditions prévues aux 1° et 4° de l'article 3.
+a) Soit en violation de l'article 3 ;
 
-Les mêmes peines sont applicables à toute personne qui, sans y avoir été habilitée, négocie, s'entremet ou prend des engagements pour le compte du titulaire d'une carte professionnelle.
+b) Soit en violation des conditions prévues par l'article 5 pour la tenue des documents et la délivrance des reçus lorsque ces documents et reçus sont légalement requis ;
+
+2° D'exiger ou d'accepter des sommes d'argent, biens, effets, ou valeurs quelconques, en infraction aux dispositions de l'article 6.

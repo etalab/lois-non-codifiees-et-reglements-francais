@@ -1,4 +1,4 @@
-# Titre II : Des incapacités.
+# Titre II : De l'incapacité d'exercer des activités d'entremise et de gestion des immeubles et fonds de commerce.
 
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)

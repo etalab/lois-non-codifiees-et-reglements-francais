@@ -1,13 +1,11 @@
 # Article 18
 
-Sera punie d'un emprisonnement six mois et d'une amende de 4500 euros ou de l'une de ces deux peines seulement :
+Les personnes morales peuvent être déclarées responsables pénalement, dans les conditions prévues par l'article 121-2 du code pénal, des infractions définies aux articles 14, 15, 16 et 17.
 
-1° Toute personne qui, à l'occasion d'opérations visées à l'article 1er, aura reçu ou détenu, à quelque titre et de quelque manière que ce soit, des sommes d'argent, biens, effets ou valeurs quelconques, ou en aura disposé :
+Les peines encourues par les personnes morales sont les suivantes :
 
-a) Soit en violation de l'article 3 ;
+1° L'amende, suivant les modalités prévues par l'article 131-38 du code pénal ;
 
-b) Soit sans avoir, dans des conditions fixées par le décret prévu à l'article 5, tenu les documents ou délivré les reçus exigés ;
+2° Les peines mentionnées à l'article 131-39 du même code.
 
-2° Toute personne qui aura exigé ou accepté des sommes d'argent, biens, effets ou valeurs quelconques, en infraction aux dispositions de l'article 6 ;
-
-3° Toute personne qui n'aura pas communiqué, sur leur demande, aux fonctionnaires chargés du contrôle les documents visés au 1° b du présent article, ainsi que, le cas échéant, tous documents bancaires ou comptables ou tous mandats écrits ou qui, d'une manière générale, aura mis obstacle à l'exercice de la mission de ces fonctionnaires.
+L'interdiction mentionnée au 2° de ce dernier article a pour objet l'activité qui a donné lieu à l'infraction, que cette dernière ait été commise dans l'exercice de l'activité ou à l'occasion de cet exercice.

@@ -1,3 +1,3 @@
 # Article 17
 
-Toute personne qui contrevient à l'interdiction résultant de l'application des articles 9 à 12 est punie d'un emprisonnement de deux ans au plus et d'une amende de 22500 euros au plus, ou de l'une de ces deux peines seulement.
+Est puni de six mois d'emprisonnement et de 7500 euros d'amende le fait de mettre obstacle à l'exercice de la mission des agents publics chargés du contrôle en refusant de leur communiquer les documents réclamés, notamment les documents bancaires ou comptables ainsi que les mandats écrits.
