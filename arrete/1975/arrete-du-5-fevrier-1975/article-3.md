@@ -1,3 +1,11 @@
 # Article 3
 
-Le taux du versement destiné aux transports en commun, institué en application des lois des 12 juillet 1971 et 11 juillet 1973 susvisées, et le taux de la cotisation au fonds national d'aide au logement, instituée en application de la loi du 16 juillet 1971 modifiée susvisée, sont fixés à raison de 80 % des taux applicables aux salariés [*taux réduit*].
+Pour l'application du présent arrêté, les rendements des générateurs devront être déterminés à partir de mesures faites sur le site. Pour cette détermination les générateurs sont à considérer indépendamment des autres éléments de l'installation (et en particulier des purges de déconcentration). Ils doivent fonctionner avec des combustibles appropriés dans des conditions normales, notamment en conformité avec les dispositions relatives à la réduction de la pollution atmosphérique.
+
+Dans le cas d'un générateur fonctionnant en tout ou rien, les mesures doivent être effectuées pendant une période de marche ininterrompue.
+
+Dans le cas d'un générateur fonctionnant en marche continue, les mesures sont effectuées entre la puissance nominale et les deux tiers de cette allure.
+
+Dans le cas d'un générateur fonctionnant en marche modulée, les mesures doivent être effectuées entre la puissance nominale et le tiers de cette allure.
+
+Les rendements sont exprimés par rapport au pouvoir calorifique inférieur du combustible et calculés par l'application de la méthode indirecte, encore appelée méthode des pertes.
