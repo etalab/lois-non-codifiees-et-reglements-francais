@@ -1,4 +1,4 @@
-# Article 8 bis
+# Article 9
 
 I. - Le soutien financier destiné à concourir à l'effort consenti par les exploitants de salles d'art et d'essai pour une programmation de qualité est attribué sous forme de primes forfaitaires et de subventions sélectives.
 
