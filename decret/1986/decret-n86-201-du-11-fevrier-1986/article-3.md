@@ -42,7 +42,9 @@ II. - Représentants des collectivités territoriales :
 
 - le président de la Fédération nationale des pays d'accueil touristiques (FNPAT) ou son représentant ;
 
-- le président de la Fédération française des stations vertes de vacances et des villages de neige ou son représentant.
+- le président de la Fédération française des stations vertes de vacances et des villages de neige ou son représentant ;
+
+- le président de l'Assemblée des conseils économiques et sociaux régionaux de France ou son représentant.
 
 III. - Représentants des syndicats :
 
@@ -84,11 +86,15 @@ IV. - Représentants des professions du tourisme :
 
 - le président du Syndicat national des résidences de tourisme (SNRT) ou son représentant ;
 
-- trois représentants des fédérations de l'industrie hôtelière (hôtels, restaurants, débits de boissons) ;
+- six représentants des fédérations de l'industrie hôtelière (hôtels, restaurants, débits de boissons) ;
 
 - sept représentants d'entreprises d'hôtellerie et de restauration ;
 
-- deux représentants des professions du camping et du tourisme en caravane.
+- deux représentants des professions du camping et du tourisme en caravane ;
+
+- le président de Clé-Vacances ou son représentant ;
+
+- le président de la Conférence permanente du tourisme rural ou son représentant.
 
 V. - Représentants des organismes de voyages et des tours-opérateurs :
 
@@ -128,7 +134,7 @@ VII. - Représentants des entreprises de transport à vocation touristique :
 
 - le président de l'Association des représentants des compagnies aériennes (ARC) ou son représentant ;
 
-- douze représentants des activités de transports ou d'infrastructures de transports liées au tourisme.
+- quatorze représentants des activités de transports ou d'infrastructures de transports liées au tourisme.
 
 VIII. - Représentants des organismes bancaires et financiers :
 
@@ -146,13 +152,13 @@ VIII. - Représentants des organismes bancaires et financiers :
 
 IX. - Représentants d'organismes de valorisation du patrimoine culturel et naturel français :
 
-- le président de la Caisse nationale des monuments historiques et des sites (CNMHS) ou son représentant ;
+- le président du Centre national des monuments nationaux ou son représentant ;
 
 - le président de la Réunion des musées nationaux ou son représentant ;
 
 - le président de la Fédération des écomusées et des musées de société ou son représentant ;
 
-- le président du Comité national pour le fleurissement de la France ou son représentant ;
+- le président du Conseil national des villes et villages fleuris ou son représentant ;
 
 - le président de l'Association des plus beaux villages de France ou son représentant ;
 
@@ -192,7 +198,11 @@ X. - Représentants des entreprises et organismes d'animation touristique :
 
 - le président du Syndicat national des espaces de loisirs et d'attractions (SNELAC) ou son représentant ;
 
-- six représentants d'entreprises d'animation touristique.
+- six représentants d'entreprises d'animation touristique ;
+
+- le Syndicat des casinos modernes de France ou son représentant ;
+
+- le président de Foires, salons et congrès de France ou son représentant, en remplacement du président de l'Association nationale des professionnels des centres de congrès (ANPCC) suite à la fusion-absorption de l'ANPCC par Foires et salons de France.
 
 XI. - Représentants d'organismes qualifiés intervenant dans le tourisme :
 
@@ -278,4 +288,4 @@ XVI. - Représentants d'organisations de consommateurs et usagers :
 
 - trois représentants désignés par le collège "Consommateurs" du Conseil national de la consommation.
 
-XVII. - Vingt et une personnalités qualifiées choisies en fonction de leur compétence en matière de tourisme et nommées par arrêté du ministre chargé du tourisme.
+XVII. - Vingt-deux personnalités qualifiées choisies en fonction de leur compétence en matière de tourisme et nommées par arrêté du ministre chargé du tourisme.
