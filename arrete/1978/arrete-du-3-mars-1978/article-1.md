@@ -32,7 +32,7 @@ Syndicat national des restaurateurs, limonadiers et hôteliers : un membre ;
 
 Confédération française des hôteliers-restaurateurs, cafetiers, discothèques : un membre ;
 
-Chambre nationale de la restauration et de l'hôtellerie : un membre ;
+Le groupement national de la restauration : un membre ;
 
 Confédération nationale de la charcuterie de France : un membre ;
 
