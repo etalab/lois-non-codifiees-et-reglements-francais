@@ -1,12 +1,14 @@
 # Article 9
 
-La couverture contre les risques de défaillance des débiteurs des créances acquises par le fonds commun de créance peut être obtenue par :
+La couverture contre les risques de défaillance des débiteurs des créances acquises par le fonds commun de créances peut être obtenue par :
 
-- l'obtention d'une garantie accordée par un établissement de crédit, une société régie par le code des assurances ou la Caisse des dépôts et consignations, qui ne peut différer le paiement des sommes dues au fonds ;
+- l'obtention d'une ou plusieurs garanties accordées par une personne mentionnée aux 1°, 2°, 3° de l'article 3 bis ou par une société régie par le code des assurances. Ces garants ne peuvent différer le paiement des sommes dues au fonds ;
 
-- l'émission de parts spécifiques supportant le risque de défaillance des débiteurs des créances. Ces parts ne peuvent être souscrites ni détenues par des organismes de placement collectif en valeurs mobilières ou des personnes physiques ;
+- l'émission de parts spécifiques supportant le risque de défaillance des débiteurs des créances. Seuls des investisseurs qualifiés au sens de l'article 6 de l'ordonnance du 28 septembre 1967 précitée, des investisseurs non résidents ou le cédant peuvent souscire et détenir ces parts ;
 
-- la cession au fonds d'un montant de créances excédant le montant des parts émises.
+- l'octroi d'un ou plusieurs prêts subordonnés par personne mentionnée aux 1°, 2°, 3° de l'article 3 bis ;
+
+- la cession au fonds d'un montant de créances excédant le montant des parts émises ;
 
 - l'existence de garanties adéquates attachées aux créances acquises.
 
