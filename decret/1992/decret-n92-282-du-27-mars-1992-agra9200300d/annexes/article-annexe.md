@@ -2,7 +2,11 @@
 
 TABLEAU DE CORRESPONDANCE
 
-CATÉGORIES DE NON-TITULAIRESFONCTIONSCORPS D'ACCUEIL
+CATÉGORIES DE NON-TITULAIRES
+
+FONCTIONS
+
+CORPS D'ACCUEIL
 
 Rédacteur contractuel de 1re catégorie d'administration centrale.
 
@@ -463,3 +467,9 @@ Vérificateur principal adjoint du budget annexe des prestations sociales agrico
 Administratives.
 
 Secrétaire administratif d'administration centrale.
+
+Préposé sanitaire contractuel.
+
+Hygiène alimentaire, santé animale.
+
+Préposé sanitaire des services vétérinaires.
