@@ -1044,6 +1044,7 @@
 - [Décret n°94-1244 du 30 décembre 1994 (INTA9400490D)](decret-n94-1244-du-30-decembre-1994-inta9400490d)
 - [Décret n°94-1245 du 30 décembre 1994 (INTA9400491D)](decret-n94-1245-du-30-decembre-1994-inta9400491d)
 - [Décret n°95-111 du 30 janvier 1995 (COPC9400019D)](decret-n95-111-du-30-janvier-1995-copc9400019d)
+- [Décret n°95-1160 du 30 octobre 1995 (MENF9501276D)](decret-n95-1160-du-30-octobre-1995-menf9501276d)
 - [Décret n°95-337 du 30 mars 1995 (SPSS9500606D)](decret-n95-337-du-30-mars-1995-spss9500606d)
 - [Décret n°95-354 du 30 mars 1995 (ECOC9500026D)](decret-n95-354-du-30-mars-1995-ecoc9500026d)
 - [Décret n°95-359 du 30 mars 1995 (AGRA9500404D)](decret-n95-359-du-30-mars-1995-agra9500404d)
