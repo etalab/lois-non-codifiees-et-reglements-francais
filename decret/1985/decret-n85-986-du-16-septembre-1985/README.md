@@ -2,7 +2,7 @@
 
 - [Titre Ier : De la mise à disposition](titre-ier)
 - [Titre II : Du détachement](titre-ii)
-- [Titre III : Du détachement de certains membres des corps de personnels enseignants.](titre-iii)
+- [TITRE III : Du détachement de certains membres des corps de personnel d'éducation, d'orientation et d'enseignement](titre-iii)
 - [Titre IV : De la position hors cadres des fonctionnaires.](titre-iv)
 - [Titre V : De la disponibilité des fonctionnaires.](titre-v)
 - [Titre VI : Dispositions communes à la mise à disposition, au détachement, à la position hors cadres et à la disponibilité.](titre-vi)

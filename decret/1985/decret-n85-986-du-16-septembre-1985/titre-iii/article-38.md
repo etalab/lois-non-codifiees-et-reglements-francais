@@ -1,3 +1,5 @@
 # Article 38
 
-Sauf circonstances particulières appréciées par l'autorité ayant pouvoir de notation, les notes attribuées aux fonctionnaires détachés dans les conditions prévues au présent titre sont celles dont ils avaient fait l'objet au titre de l'année scolaire précédant celle de leur détachement.
+Le détachement des fonctionnaires mentionnés à l'article 35 est prononcé pour une période maximale de deux années renouvelables deux fois, sans que la durée de ce détachement ne puisse excéder au total six années pour l'ensemble de la carrière.
+
+La période de détachement doit coïncider avec les limites de l'année scolaire.

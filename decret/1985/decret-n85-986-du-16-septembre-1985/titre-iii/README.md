@@ -1,4 +1,4 @@
-# Titre III : Du détachement de certains membres des corps de personnels enseignants.
+# TITRE III : Du détachement de certains membres des corps de personnel d'éducation, d'orientation et d'enseignement
 
 - [Article 35](article-35.md)
 - [Article 36](article-36.md)
