@@ -46,13 +46,13 @@ Pour chaque combinaison, l'ordre exact comporte les quatre chevaux de l'arrivée
 
 Pour chaque combinaison, l'ordre inexact comporte les vingt-trois permutations dans lesquelles l'un quelconque des quatre chevaux n'a pas été désigné à son rang de classement à l'arrivée.
 
-II. - Dans le cas d'arrivée "dead heat " les combinaisons payables au rapport trio sont les suivantes, sauf cas prévus à l'article 86-9 :
+II. - Dans le cas d'arrivée "dead heat " les combinaisons payables au rapport bonus sont les suivantes, sauf cas prévus à l'article 86-9 :
 
 a) Dans le cas de "dead heat " de trois chevaux ou plus à la première place, les combinaisons payables sont toutes les combinaisons comportant trois chevaux classés premiers et un cheval classé à un rang supérieur au quatrième.
 
 b) Dans le cas de "dead heat " de deux chevaux à la première place et d'un cheval ou plus à la troisième place, les combinaisons payables sont toutes les combinaisons comportant les deux chevaux classés premiers, l'un des chevaux classés troisièmes et un cheval classé à un rang supérieur au quatrième.
 
-c) Dans le cas de "dead heat" de deux chevaux ou plus à la deuxième place, les combinaisons payables sont toutes les combinaisons comportant le cheval classé premier, deux des chevaux classés deuxièmes et un cheval à un rang supérieur au quatrième.
+c) Dans le cas de "dead heat" de deux chevaux ou plus à la deuxième place, les combinaisons payables sont toutes les combinaisons comportant le cheval classé premier, deux des chevaux classés deuxièmes et un cheval classé à un rang supérieur au quatrième.
 
 d) Dans le cas de "dead heat" de deux chevaux ou plus à la troisième place, les combinaisons payables sont toutes les combinaisons comportant le cheval classé premier, le cheval classé deuxième, l'un des chevaux classés troisièmes et un cheval classé à un rang supérieur au quatrième.
 

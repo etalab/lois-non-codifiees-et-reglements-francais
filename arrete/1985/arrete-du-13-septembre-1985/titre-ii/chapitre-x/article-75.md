@@ -2,7 +2,7 @@
 
 a) Pour certaines épreuves désignées sur le programme officiel, des paris dénommés "trio urbain" peuvent être organisés.
 
-Ces paris sont spécifiques au pari mutuel urbain et sont recueillis exclusivement dans les agences du P.M.U., les bureaux auxiliaires, les agences par téléphone du matin et les agences par correspondance.
+Ces paris sont spécifiques au pari mutuel urbain et sont recueillis exclusivement dans les agences du P.M.U., les points P.MU., les agences par téléphone du matin et les agences par correspondance.
 
 Un pari trio urbain consiste à désigner trois chevaux d'une même course sans avoir à préciser leur ordre d'arrivée.
 

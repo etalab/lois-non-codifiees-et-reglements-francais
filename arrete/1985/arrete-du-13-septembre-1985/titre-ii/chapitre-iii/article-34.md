@@ -4,9 +4,9 @@ Pour certaines épreuves désignées sur le programme officiel, des paris dénom
 
 Un pari "jumelé" consiste à désigner deux chevaux d'une même course.
 
-Le pari "jumelé" ne peut être organisé que dans les épreuves qui comportent au moins trois chevaux déclarés partants.
+Le pari "jumelé" ne peut être organisé que dans les épreuves qui comportent au moins quatre chevaux déclarés partants.
 
-Lorsque l'épreuve ne comprend que trois ou quatre chevaux déclarés partants, le parieur doit préciser l'ordre relatif d'arrivée des deux chevaux composant son pari. Le pari est payable si les deux chevaux choisis occupent les deux premières places de l'épreuve et s'ils ont été désignés dans l'ordre exact d'arrivée.
+Lorsque l'épreuve ne comprend que quatre chevaux déclarés partants, le parieur doit préciser l'ordre relatif d'arrivée des deux chevaux composant son pari. Le pari est payable si les deux chevaux choisis occupent les deux premières places de l'épreuve et s'ils ont été désignés dans l'ordre exact d'arrivée.
 
 Lorsque l'épreuve comprend plus de quatre chevaux déclarés partants, le pari est payable si les deux chevaux choisis occupent les deux premières places de l'épreuve quel que soit l'ordre d'arrivée. Toutefois, la société de courses a la possibilité, quel que soit le nombre de partants et après en avoir informé le public, de décider que les parieurs ont à désigner les deux premiers chevaux de la course dans l'ordre exact d'arrivée.
 

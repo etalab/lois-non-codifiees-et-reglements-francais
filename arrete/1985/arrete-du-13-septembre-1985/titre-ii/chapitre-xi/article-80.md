@@ -21,3 +21,9 @@ b) Dans les autres cas de "dead heat", le total des mises sur les diverses combi
 40 p. 100 de chacune de ces parties sont affectés aux permutations dans l'ordre exact ; 60 p. 100 sont affectés aux permutations dans un ordre inexact.
 
 Chacune de ces parties est ensuite répartie au prorata du nombre de mises sur les permutations correspondantes. Les quotients ainsi obtenus, augmentés de l'unité de mise, constituent les rapports bruts à payer, sous réserve des dispositions de l'article 81 ci-dessous.
+
+3. Rapport minimum dans l'ordre inexact.
+
+a) Si l'application des règles énoncées aux paragraphes 1 et 2 ci-dessus conduit à un rapport dans l'ordre inexact inférieur à 1,10 F, la masse à partager affectée au calcul du rapport dans l'ordre exact est obtenue en défalquant de la masse à partager totale le montant des paiements à 1,10 F des mises dans l'ordre inexact.
+
+b) Dans le cas visé au paragraphe a ci-dessus les dispositions de l'article 81 ci-dessous ne sont pas applicables.

@@ -6,7 +6,7 @@ Les formules combinées englobent l'ensemble des paris "quarté plus" combinant 
 
 a) Le parieur peut n'engager chaque combinaison de quatre chevaux parmi sa sélection que dans un ordre relatif stipulé.
 
-Si le parieur sélectionne K chevaux, la formule correspondante dénommé "formule simplifiée" englobe :
+Si le parieur sélectionne K chevaux, la formule correspondante dénommée  "formule simplifiée" englobe :
 
 K x (K - 1) x (K - 2) x (K - 3) / 24 paris "quarté plus"
 
@@ -14,7 +14,7 @@ b) S'il désire pour chaque combinaison de quatre chevaux choisis parmi sa séle
 
 K x (K - 1) x (K - 2) x (K - 3) paris "quarté plus"
 
-c) Les formules champ total de trois chevaux englobent, l'ensemble des paris "quarté plus" combinant trois chevaux désignés par le parieur avec tous les autres chevaux officiellement partants.
+c) Les formules "champ total de trois chevaux" englobent, l'ensemble des paris "quarté plus" combinant trois chevaux désignés par le parieur avec tous les autres chevaux officiellement partants.
 
 Si la corse comporte N chevaux officiellement partants, le "champ total de trois chevaux de base" englobe :
 
@@ -24,7 +24,7 @@ Dans ce dernier cas, le parieur doit préciser les places respectives à l'arriv
 
 d) Les formules "champ partiel de trois chevaux" englobent l'ensemble des paris "quarté plus" combinant trois chevaux de base avec une sélection des autres chevaux officiellement déclarés partants, désignés par le parieur.
 
-Si cette sélection comporte P chevaux, le "champ.partiel de trois chevaux" :
+Si cette sélection comporte P chevaux, le "champ.partiel de trois chevaux" englobe :
 
 24 P paris "quarté plus", en formule complète à vingt-quatre permutations, et P paris "quarté plus", en formule simplifiée.
 
@@ -54,7 +54,7 @@ Si la course comporte N chevaux officiellement partants, le "champ total d'un ch
 
 Dans ce dernier cas, le parieur doit préciser la place à l'arrivée devant être occupée par le cheval de base de sa formule, mais n'a pas à classer les autres chevaux dans un ordre relatif.
 
-h) Les formules "champ partiel d'un cheval" englobent l'ensemble des paris "quarté plus" combinant un cheval de base une sélection des autres chevaux officiellement déclarés partants pris trois à trois, désignés par le parieur.
+h) Les formules "champ partiel d'un cheval" englobent l'ensemble des paris "quarté plus" combinant un cheval de base avec une sélection des autres chevaux officiellement déclarés partants pris trois à trois, désignés par le parieur.
 
 Si cette sélection comporte P chevaux, le "champ partiel d'un cheval" englobe :
 

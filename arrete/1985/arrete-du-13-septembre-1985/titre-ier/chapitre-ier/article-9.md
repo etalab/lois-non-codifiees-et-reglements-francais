@@ -4,7 +4,7 @@ Les divers types de paris dont les règles spécifiques sont définies dans le p
 
 - soit aux guichets des hippodromes ayant fait l'objet d'un arrêté d'ouverture du ministre de l'agriculture ;
 
-- soit dans les établissements, hors hippodromes, des services du pari mutuel ouverts par arrêté du ministre de l'agriculture ;
+- soit dans les postes d'enregistrement ouverts dans les conditions prévues par arrêté du ministre de l'agriculture et dont les titulaires ont reçu du pari mutuel urbain l'autorisation d'enregistrer les paris.
 
 - soit dans les postes d'enregistrement dont les titulaires ont reçu l'autorisation d'enregistrer les paris par arrêté du ministre de l'agriculture.
 

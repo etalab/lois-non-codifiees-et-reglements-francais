@@ -10,6 +10,6 @@ Il donne lieu à un rapport dit "quarté dans l'ordre exact" si l'ordre stipulé
 
 Il donne lieu à un rapport dit "quarté dans l'or inexact" ou "de base" lorsque l'ordre d'arrivée stipulé par le parieur pour les quatre chevaux désignés est différent de l'ordre d'arrivée de l'épreuve.
 
-En outre toutes les combinaisons de quatre chevaux comportant les chevaux classés aux trois premières places de l'épreuve, quel que soit l'ordre relatif d'arrivée stipulé par le parieur pour ces trois chevaux, et un cheval classé à un rang supérieur au quatrième donnent lieu à un rapport dit "trio", sauf cas prévus à l'article 86-9.
+En outre toutes les combinaisons de quatre chevaux comportant les chevaux classés aux trois premières places de l'épreuve, quel que soit l'ordre relatif d'arrivée stipulé par le parieur pour ces trois chevaux, et un cheval classé à un rang supérieur au quatrième donnent lieu à un rapport dit "bonus", sauf cas prévus à l'article 86-9.
 
 Chaque cheval participat à la course est triaté séparément dans la détermination des combinaisons payables.
