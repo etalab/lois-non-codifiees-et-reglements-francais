@@ -1,0 +1,3 @@
+# Article 1
+
+Sous réserve des dispositions de l'article 4 du présent décret, les personnels affectés dans les services de la police nationale dans lesquels il est possible de recourir à des astreintes, dans les cas fixés par arrêté conjoint du ministre de l'intérieur, du ministre chargé de la fonction publique et du ministre chargé du budget, bénéficient, dans la limite des crédits disponibles, lorsqu'ils sont appelés à participer à une période d'astreinte telle que définie à l'article 5 du décret du 25 août 2000 susvisé, d'une indemnité d'astreinte non soumise à retenue pour pension ou, à défaut, d'un repos compensateur.

@@ -2,10 +2,10 @@
 
 Le taux de la vacation horaire de base allouée aux officiers, sous-officiers, caporaux et sapeurs-pompiers volontaires est fixé de la manière suivante :
 
-Officiers : 9,95 euros ;
+Officiers  10,01 Euros ;
 
-Sous-officiers : 8 euros ;
+Sous-officiers   8,05 Euros ;
 
-Caporaux : 7,12 euros
+Caporaux   7,16 Euros ;
 
-Sapeurs : 6,62 euros.
+Sapeurs   6,66 Euros.

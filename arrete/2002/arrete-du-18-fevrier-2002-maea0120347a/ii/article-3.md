@@ -1,0 +1,3 @@
+# Article 3
+
+Dans le cadre général des accords de coopération, une lettre de mission précise les fonctions et obligations de l'agent telles qu'elles résultent de l'accord conclu entre les autorités françaises et le partenaire étranger auprès duquel il est placé. Cette lettre précise le secteur d'activité, et le cas échéant la nature du projet de coopération dans lequel l'action de l'agent s'inscrit, les objectifs et résultats attendus de la mission. Porté à la connaissance de l'agent avant la signature du contrat, ce document à caractère informatif ne crée pas de droits à son profit. La lettre de mission est révisable en fonction d'évaluations périodiques.

@@ -9,4 +9,5 @@
 - [Loi n° 2002-6 du 4 janvier 2002 (INTX0104903L)](loi-n-2002-6-du-4-janvier-2002-intx0104903l)
 - [Loi n° 2002-73 du 17 janvier 2002 (MESX0000077L)](loi-n-2002-73-du-17-janvier-2002-mesx0000077l)
 - [Loi n° 2002-92 du 22 janvier 2002 (INTX0000188L)](loi-n-2002-92-du-22-janvier-2002-intx0000188l)
+- [Loi n°2002-282 du 28 février 2002 (RECX0104883L)](loi-n2002-282-du-28-fevrier-2002-recx0104883l)
 - [Loi n°2002-3 du 3 janvier 2002 (EQUX0000153L)](loi-n2002-3-du-3-janvier-2002-equx0000153l)
