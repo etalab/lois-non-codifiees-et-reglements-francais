@@ -2,7 +2,7 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier : RÉGIME GÉNÉRAL](titre-ier)
-- [TITRE II : RÉGIME PARTICULIER ET DISPOSITIONS DIVERSES](titre-ii)
+- [TITRE II : RÉGIMES PARTICULIERS Chapitre II : Régime applicable aux déchets des ménages et déchets assimilés](titre-ii)
 - [TITRE III : Dispositions diverses](titre-iii)
 - [Article 41](article-41.md)
 - [Annexes](annexes)
