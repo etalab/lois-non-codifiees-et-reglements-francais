@@ -173,7 +173,6 @@ Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea
 <tr>
 <td rowspan="2" valign="top" width="119">
 <p>Seigle ................... </p>
-<p>.</p>
 </td>
 <td valign="top" width="105">
 <p>Semences de base.</p>
@@ -242,7 +241,7 @@ Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea
 <p align="center">-</p>
 </td>
 <td valign="top" width="79">
-<p align="center">90 (a)</p>
+<p align="center">90 (a bis)</p>
 </td>
 <td valign="top" width="79">
 <p align="center">98</p>
@@ -293,7 +292,7 @@ Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea
 <p align="center">99,7</p>
 </td>
 <td valign="top" width="79">
-<p align="center">85 (a)</p>
+<p align="center">85 (a ter)</p>
 </td>
 <td valign="top" width="79">
 <p align="center">98</p>
@@ -396,6 +395,10 @@ Le nombre maximal de sclérotes ou fragments de sclérotes de Claviceps purpurea
 </table>
 
 (a) Les semences de base peuvent présenter une faculté germinative inférieure au taux prévu à condition que la faculté germinative réelle soit mentionnée dans le marquage.
+
+(a bis) La faculté germinative des semences de base peut être ramenée à 85 p. 100 à la condition que mention en soit faite dans le marquage ;
+
+(a ter) A condition qu'elles soient, à la fois, produites et com­mercialisées en France et qu'il en soit fait état dans l'étiquetage, la faculté germinative des semences de base peut être ramenée à 80 p. 100, cette indication devant également être portée dans le mar­quage.
 
 (b) Une deuxième graine n'est pas considérée comme impureté si un second échantillon du même poids est exempt de graines d'autres espèces de céréales.
 
