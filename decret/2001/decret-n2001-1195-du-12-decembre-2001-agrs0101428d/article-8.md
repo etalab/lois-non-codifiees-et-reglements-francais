@@ -1,0 +1,3 @@
+# Article 8
+
+Outre la cotisation prévue à l'article 7 du présent décret et en application du V de l'article 99 de la loi de finances pour 2001 susvisée, pour les personnes qui bénéficiaient de la procédure de partage des points de retraite proportionnelle entre époux prévue à l'article L. 732-34 du code rural et ayant opté pour le statut de conjoint collaborateur d'exploitation ou d'entreprise agricole à compter du 1er janvier 1999, la cotisation, prévue à l'article L. 762-33 (alinéa 2) du code rural au titre du conjoint collaborateur d'exploitation ou d'entreprise agricole au sens de l'article L. 321-5 du même code, due au titre de 1999 et 2000, est égale à la cotisation due à l'article 5 pour 12 hectares pondérés.
