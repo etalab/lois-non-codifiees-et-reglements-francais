@@ -1,3 +1,3 @@
-# Article 22
+# Article 21
 
 Les articles 1er, 2, 3 et 13 du décret n° 50-1304 du 20 octobre 1950 modifié relatif au statut particulier du corps de l'inspection du travail et de la main-d'oeuvre et les décrets n° 61-21 du 11 janvier 1961 modifié relatif au statut du corps de l'inspection générale de la sécurité sociale, n° 61-406 du 20 avril 1961 modifié relatif au statut particulier du corps des inspecteurs généraux du ministère de la santé publique et de la population, n° 67-390 du 11 mai 1967 portant regroupement des services d'inspection générale du ministère des affaires sociales au sein de l'inspection générale des affaires sociales et n° 81-491 du 8 mai 1981 modifié relatif aux conditions d'accès au grade d'inspecteur général du travail et de la main-d'oeuvre sont abrogés.

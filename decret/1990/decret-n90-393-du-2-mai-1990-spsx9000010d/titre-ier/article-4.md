@@ -1,3 +1,3 @@
 # Article 4
 
-Le corps de l'inspection générale des affaires sociales comprend trois grades : inspecteur général, inspecteur, inspecteur adjoint.
+Le grade d'inspecteur général comporte trois échelons et un échelon spécial, celui d'inspecteur en comporte sept et celui d'inspecteur adjoint en comporte sept.

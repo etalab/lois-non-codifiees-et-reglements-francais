@@ -1,93 +1,87 @@
 # Article 12
 
-La durée moyenne et la durée minimale du temps passé dans chacun des échelons des différents grades sont fixées comme suit :
+La durée moyenne et la durée minimale du temps passé dans chaque échelon sont fixées comme suit :
 
-GRADE ET ÉCHELON
+GRADE ET ECHELON
 
-DURÉE Moyenne
+DUREE Moyenne
 
-DURÉE Minimale
+DUREE Minimale
 
 Inspecteur général
 
-2e  échelon
+Echelon spécial
 
-3 ans
+-
 
-2 ans 9 mois
+3e échelon
+
+3 ans ; 2 ans 9 mois
+
+2e échelon
+
+3 ans ; 2 ans 9 mois
 
 1er échelon
 
-3 ans
-
-2 ans 9 mois
+3 ans ; 2 ans 9 mois
 
 Inspecteur
 
-5e  échelon
+7e échelon
 
-3 ans
+- ; -
 
-2 ans 6 mois
+6e échelon
 
-4e  échelon
+3 ans ; 2 ans 6 mois
 
-3 ans
+5e échelon
 
-2 ans 6 mois
+3 ans ; 2 ans 6 mois
 
-3e  échelon
+4e échelon
 
-2 ans
+2 ans ; 1 an 6 mois
 
-1 ans 6 mois
+3e échelon
 
-2e  échelon
+2 ans ; 1 an 6 mois
 
-2 ans
+2e échelon
 
-1 ans 6 mois
+1 an ; 9 mois
 
 1er échelon
 
-2 ans
-
-1 ans 6 mois
+1 an ; 9 mois
 
 Inspecteur adjoint
 
-6e  échelon
+7e échelon
 
-2 ans
+- ; -
 
-1 ans 6 mois
+6e échelon
 
-5e  échelon
+2 ans ; 1 an 6 mois
 
-2 ans
+5e échelon
 
-1 ans 6 mois
+2 ans ; 1 an 6 mois
 
-4e  échelon
+4e échelon
 
-1 ans
+1 an ; 9 mois
 
-2 ans 9 mois
+3e échelon
 
-3e  échelon
+1 an ; 9 mois
 
-1 ans
+2e échelon
 
-2 ans 9 mois
-
-2e  échelon
-
-1 ans
-
-2 ans 9 mois
+1 an ; 9 mois
 
 1er échelon
 
-1 ans
-
-2 ans 9 mois
+1 an ; 9 mois

@@ -1,5 +1,3 @@
 # Article 13
 
-Les inspecteurs adjoints ne peuvent être placés en position de détachement qu'après avoir accompli au moins quatre ans de services dans le corps de l'inspection générale des affaires sociales.
-
-Pendant ces quatre années, les inspecteurs adjoints ne peuvent recevoir aucune affectation administrative permanente en dehors de leurs missions de contrôle et doivent rester à la disposition du chef du service de l'inspection générale des affaires sociales.
+Les inspecteurs adjoints ne peuvent recevoir aucune affectation administrative permanente en dehors des missions effectuées sous l'autorité du chef du service de l'inspection générale des affaires sociales, ni être placés en position de service détaché ou de disponibilité en application des dispositions des articles 44, 45 et 46 du décret du 16 septembre 1985 susvisé s'ils n'ont accompli à compter de leur nomination quatre ans de services dans le corps consacrés à des missions accomplies sous l'autorité directe du chef du service, sauf pour l'accomplissement de la mobilité prévue à l'article 1er du décret n° 97-274 du 21 mars 1997 modifié relatif à la mobilité des fonctionnaires recrutés par la voie de l'Ecole nationale d'administration et des administrateurs des postes et télécommunications.

@@ -8,6 +8,10 @@ II. - Lorsqu'elles concernent des fonctionnaires ou agents publics, les nominati
 
 Lors de ces nominations, les intéressés conservent, dans la limite de l'ancienneté requise pour un avancement d'échelon dans leur nouveau grade, l'ancienneté d'échelon acquise dans leur précédent grade ou emploi si l'augmentation de traitement résultant de ces nominations est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancien grade ou emploi.
 
+Toutefois, les inspecteurs recrutés au titre du II de l'article 7 du présent décret conservent l'indice dont ils bénéficiaient dans leur corps d'origine ou dans un statut d'emploi occupé depuis au moins trois ans, dans le cas où cet indice est supérieur à celui afférent à l'échelon terminal du grade d'inspecteur.
+
 Ceux qui sont nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade conservent leur ancienneté d'échelon dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que procure dans leur précédent grade la nomination à ce dernier échelon.
 
 Les inspecteurs généraux nommés en application du III de l'article 9 qui n'avaient pas la qualité de fonctionnaire ou d'agent public sont classés au 1er échelon du grade d'inspecteur général.
+
+III. - Les directeurs d'administration centrale et les fonctionnaires ayant bénéficié pendant trois ans au moins dans leur corps ou emploi d'origine d'un indice équivalent à celui afférent à l'échelon spécial mentionné à l'article 4 du présent décret sont classés à l'échelon spécial lors de leur nomination en qualité d'inspecteur général.

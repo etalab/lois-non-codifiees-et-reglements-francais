@@ -1,5 +1,9 @@
 # Article 2
 
-Pour l'exercice de leurs missions, les membres de l'inspection générale ont libre accès à toutes les administrations de l'Etat et collectivités publiques, à tous les services, établissements et institutions mentionnés à l'article 1er. Ils ont également libre accès aux institutions, oeuvres, associations et groupements de toute nature aux fins de procéder à toute vérification sur l'emploi des fonds reçus de l'Etat, des collectivités publiques, des organismes de sécurité sociale ou de prévoyance sociale soit au titre de prêts ou de subventions, soit à l'occasion de contrats passés avec eux.
+Le chef du service de l'inspection générale des affaires sociales, nommé parmi les inspecteurs généraux, dirige les activités du corps, répartit les missions entre ses membres et fait connaître aux ministres intéressés les conclusions de tous ses travaux.
 
-Les administrations de l'Etat, les collectivités publiques, les services, établissements, institutions, oeuvres, associations et groupements de toute nature mentionnés à l'alinéa précédent sont tenus de prêter leur concours aux membres de l'inspection générale, de leur fournir toutes justifications et tous renseignements utiles et de leur communiquer tous documents nécessaires à l'accomplissement de leurs missions.
+Il gère la carrière des membres du corps de l'inspection générale des affaires sociales. Il représente les ministres auprès desquels le corps est placé pour présider la commission administrative paritaire de ce corps, dont la composition est fixée par arrêté.
+
+La nomination en qualité de chef du service de l'inspection générale des affaires sociales emporte, en tant que de besoin, promotion de l'intéressé à l'échelon spécial du grade d'inspecteur général.
+
+L'organisation interne de l'inspection générale fait l'objet d'un arrêté des ministres chargés de la sécurité sociale, de la santé, de l'action sociale, de la famille, du travail, de l'emploi et de la formation professionnelle.

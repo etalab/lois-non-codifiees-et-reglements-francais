@@ -4,4 +4,3 @@
 - [TITRE II : Recrutement et avancement.](titre-ii)
 - [TITRE III : Dispositions spéciales.](titre-iii)
 - [Titre IV : Dispositions finales.](titre-iv)
-- [TITRE V : Dispositions concernant les retraités.](titre-v)
