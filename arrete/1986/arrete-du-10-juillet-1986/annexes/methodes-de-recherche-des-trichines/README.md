@@ -6,3 +6,4 @@
 - [IV. - Méthode de la digestion d'échantillons collectifs avec assistance mécanique : technique de la sédimentation.](iv)
 - [V. - Méthode de la digestion d'échantillons collectifs avec assistance mécanique/technique de l'isolement par filtration.](v)
 - [VI. - Méthode de la digestion d'échantillons collectifs utilisant un agitateur magnétique.](vi)
+- [VII. - Méthode de digestion automatique pour échantillons collectifs jusqu'à 35 grammes.](vii)

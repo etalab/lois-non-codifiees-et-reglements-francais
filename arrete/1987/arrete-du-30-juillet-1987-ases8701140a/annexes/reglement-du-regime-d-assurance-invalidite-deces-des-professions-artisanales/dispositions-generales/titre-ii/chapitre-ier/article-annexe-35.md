@@ -6,7 +6,7 @@ I. - Ouvre droit à l'attribution du capital visé au 1° b, de l'article 32 le 
 
 2° Réunir quatre-vingts trimestres d'assurance dans le régime d'assurance vieillesse des professions artisanales.
 
-II. - Les dispositions du deuxième alinéa précédent entreront en vigueur le 1er janvier 1998.
+II. - Les dispositions du deuxième alinéa précédent entreront en vigueur le 1er janvier 1999.
 
 A titre transitoire, la durée d'assurance dans le régime d'assurance vieillesse des professions artisanales est fixée à :
 
