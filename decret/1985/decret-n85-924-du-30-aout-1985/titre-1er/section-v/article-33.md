@@ -22,9 +22,7 @@ Sont également membres du conseil de classe lorsqu'ils ont eu à connaître du 
 
 - l'infirmier.
 
-Le chef d'établissement réunit au cours du premier trimestre les responsables des associations et groupements de parents d'élèves qui ont présenté des candidats lors de l'élection des membres du conseil d'administration pour désigner les deux délégués titulaires et les deux délégués suppléants des parents d'élèves de chaque classe à partir des listes préalablement préparées par les associations et groupements de parents d'élèves.
-
-Le chef d'établissement répartit les sièges compte tenu des suffrages recueillis lors de l'élection des membres du conseil d'administration par chaque association ou groupement de parents d'élèves.
+Le chef d'établissement réunit, au cours du premier trimestre, les responsables des listes de candidats qui ont obtenu des voix lors de l'élection des représentants de parents d'élèves au conseil d'administration, pour désigner les deux délégués titulaires et les deux délégués suppléants des parents d'élèves de chaque classe, à partir des listes qu'ils présentent à cette fin. Le chef d'établissement répartit les sièges compte tenu des suffrages obtenus lors de cette élection.
 
 Dans le cas où, pour une classe, il s'avérerait impossible de désigner des parents d'élèves de la classe, les sièges des délégués pourraient être attribués à des parents d'élèves d'autres classes volontaires.
 
@@ -34,9 +32,9 @@ Le conseil de classe se réunit au moins trois fois par an [*périodicité, attr
 
 Le conseil de classe examine les questions pédagogiques intéressant la vie de la classe, notamment les modalités d'organisation du travail personnel des élèves.
 
-" Le professeur principal mentionné au décret du 2 novembre 1971 susvisé ou un représentant de l'équipe pédagogique expose au conseil de classe les résultats obtenus par les élèves et présente ses observations sur les conseils en orientation formulés par l'équipe. Sur ces bases et en prenant en compte l'ensemble des éléments d'ordre éducatif, médical et social apporté par ses membres, le conseil de classe examine le déroulement de la scolarité de chaque élève afin de mieux le guider dans son travail et ses choix d'études.
+Le professeur principal mentionné au décret du 2 novembre 1971 susvisé ou un représentant de l'équipe pédagogique expose au conseil de classe les résultats obtenus par les élèves et présente ses observations sur les conseils en orientation formulés par l'équipe. Sur ces bases et en prenant en compte l'ensemble des éléments d'ordre éducatif, médical et social apporté par ses membres, le conseil de classe examine le déroulement de la scolarité de chaque élève afin de mieux le guider dans son travail et ses choix d'études.
 
-" Dans les mêmes conditions et compte tenu des éléments d'informations complémentaires recueillis à la demande, ou avec l'accord de la famille ou de l'élève majeur, le conseil de classe émet des propositions d'orientation dans les conditions définies à l'article 10 du décret du 14 juin 1990 susvisé ou de redoublement ; "
+Dans les mêmes conditions et compte tenu des éléments d'informations complémentaires recueillis à la demande, ou avec l'accord de la famille ou de l'élève majeur, le conseil de classe émet des propositions d'orientation dans les conditions définies à l'article 10 du décret du 14 juin 1990 susvisé ou de redoublement ;
 
 Ces dispositions ne s'appliquent ni aux écoles régionales du premier degré, ni aux classes élémentaires des établissements régionaux d'enseignement adapté. Les classes élémentaires de ces établissements sont soumises aux mêmes règles de fonctionnement pédagogique que celles des écoles élémentaires communales.
 
