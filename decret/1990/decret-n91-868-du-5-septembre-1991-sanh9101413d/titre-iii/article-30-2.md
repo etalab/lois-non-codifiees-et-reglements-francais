@@ -1,128 +1,239 @@
 # Article 30-2
 
-Les adjoints techniques du grade provisoire de classe exceptionnelle régis par les dispositions de l'article 30-1 ci-dessus sont reclassés dans le grade d'adjoint technique de classe exceptionnelle créé à compter du 1er août 1994, dans l'ordre de nomination dans la classe exceptionnelle créée le 5 septembre 1991, selon le tableau de correspondance et le calendrier ci-après :
+Les techniciens supérieurs du grade provisoire d'hospitalier chef régis par les dispositions de l'article 30-1 ci-dessus sont reclassés dans le grade de technicien supérieur hospitalier chef créé à compter du 1er août 1994, dans l'ordre de nomination dans la classe exceptionnelle créée le 5 septembre 1991, selon le tableau de correspondance et le calendrier ci-après :
 
-Situation ancienne
-
-Classe exceptionnelle (grade provisoire)
-
-Situation nouvelle
-
-Classe exceptionnelle créée le 1er août 1994
-
-Situation ancienne
-
-8e échelon :
-
-- après 2 ans
-
-Situation nouvelle : 8e échelon
-
-Ancienneté acquise moins 2 ans.
-
-Situation ancienne
-
-- avant 2 ans
-
-Situation nouvelle : 7e échelon
-
-Ancienneté acquise plus 2 ans.
-
-Situation ancienne
-
-7e échelon :
-
-- après 2 ans
-
-Situation nouvelle : 7e échelon
-
-Ancienneté acquise moins 2 ans.
-
-Situation ancienne
-
-- avant 2 ans
-
-Situation nouvelle : 6e échelon
-
-Ancienneté acquise plus 1 an.
-
-Situation ancienne
-
-6e échelon :
-
-- après 2 ans
-
-Situation nouvelle : 6e échelon
-
-Ancienneté acquise moins 2 ans.
-
-Situation ancienne
-
-- avant 2 ans
-
-Situation nouvelle : 5e échelon
-
-Ancienneté acquise plus 1 an.
-
-Situation ancienne
-
-5e échelon :
-
-- après 2 ans
-
-Situation nouvelle : 5e échelon
-
-Ancienneté acquise moins 2 ans.
-
-Situation ancienne
-
-- avant 2 ans
-
-Situation nouvelle : 4e échelon
-
-Ancienneté acquise plus 1 an.
-
-Situation ancienne
-
-4e échelon :
-
-- après 2 ans
-
-Situation nouvelle : 4e échelon
-
-Ancienneté acquise moins 2 ans.
-
-Situation ancienne
-
-- avant 2 ans
-
-Situation nouvelle : 3e échelon
-
-Ancienneté acquise.
-
-Situation ancienne
-
-3e échelon
-
-Situation nouvelle : 2e échelon
-
-Ancienneté acquise.
-
-Situation ancienne
-
-2e échelon
-
-Situation nouvelle : 1er échelon
-
-Ancienneté acquise.
-
-Situation ancienne
-
-1er échelon
-
-Situation nouvelle : 1er échelon
-
-Sans ancienneté.
+<table>
+<tbody>
+<tr>
+<td>
+<p align="center">SITUATION ANCIENNE </p>
+<br/>
+<p align="center">Échelon</p>
+</td>
+<td>
+<p align="center">SITUATION NOUVELLE </p>
+<br/>
+<p align="center">Échelon</p>
+</td>
+<td>
+<p align="center">ANCIENNETÉ CONSERVÉE </p>
+<br/>
+<p align="center">dans la limite de la durée de l'échelon </p>
+</td>
+</tr>
+<tr>
+<td>
+<p align="center">Classe exceptionnelle </p>
+<br/>
+<p align="center">(grade provisoire)</p>
+</td>
+<td>
+<p align="center">Classe exceptionnelle créée le 1er août 1994</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>8e échelon :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>- après 2 ans</p>
+</td>
+<td>
+<p align="center">8e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise moins 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>- avant 2 ans</p>
+</td>
+<td>
+<p align="center">7e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise plus 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>7e échelon :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>- après 2 ans</p>
+</td>
+<td>
+<p align="center">7e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise moins 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>- avant 2 ans</p>
+</td>
+<td>
+<p align="center">6e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise plus 1 an.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e échelon :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>- après 2 ans</p>
+</td>
+<td>
+<p align="center">6e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise moins 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>- avant 2 ans</p>
+</td>
+<td>
+<p align="center">5e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise plus 1 an.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e échelon :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>- après 2 ans</p>
+</td>
+<td>
+<p align="center">5e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise moins 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>- avant 2 ans</p>
+</td>
+<td>
+<p align="center">4e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise plus 1 an.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e échelon :</p>
+</td>
+<td>
+<pre> </pre>
+</td>
+<td>
+<pre> </pre>
+</td>
+</tr>
+<tr>
+<td>
+<p>- après 2 ans</p>
+</td>
+<td>
+<p align="center">4e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise moins 2 ans.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>- avant 2 ans</p>
+</td>
+<td>
+<p align="center">3e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e échelon</p>
+</td>
+<td>
+<p align="center">2e échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e échelon</p>
+</td>
+<td>
+<p align="center">1er échelon</p>
+</td>
+<td>
+<p>Ancienneté acquise.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>1er échelon</p>
+</td>
+<td rowspan="2">
+<p align="center">1er échelon</p>
+</td>
+<td rowspan="2">
+<p>Sans ancienneté.</p>
+</td>
+</tr>
+</tbody>
+</table>
 
 Le reclassement se fait :
 

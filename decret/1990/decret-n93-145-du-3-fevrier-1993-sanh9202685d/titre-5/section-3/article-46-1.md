@@ -46,7 +46,7 @@ I. - Pour les ingénieurs subdivisionnaires, les assimilations prévues pour fix
 
 Les pensions des fonctionnaires retraités avant l'intervention des dispositions qui précèdent ainsi que celles de leurs ayants cause sont révisées selon les modalités susvisées.
 
-II. - Pour les adjoints des cadres techniques de classe exceptionnelle, de classes normale et supérieure créés le 3 février 1993, pour les adjoints techniques, de classe exceptionnelle, de classes normale et supérieure provisoires régis par les dispositions de l'article 39-1 ci-dessus, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 du décret du 9 septembre 1965 susvisé sont faites suivant le tableau de correspondance ci-après :
+II. - Pour les adjoints des cadres techniques de classe exceptionnelle, de classes normale et supérieure créés le 3 février 1993, pour les techniciens supérieurs ,hospitaliers chefs, hospitaliers et hospitaliers principaux provisoires régis par les dispositions de l'article 39-1 ci-dessus, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article 15 du décret du 9 septembre 1965 susvisé sont faites suivant le tableau de correspondance ci-après :
 
 (A) : Classe exceptionnelle créée le 3 février 1993 ou grade provisoire.
 

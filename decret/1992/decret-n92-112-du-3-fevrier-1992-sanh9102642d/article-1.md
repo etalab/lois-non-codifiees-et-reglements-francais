@@ -18,7 +18,7 @@ Une nouvelle bonification indiciaire dont le montant est pris en compte et soumi
 
 7° Personnels sociaux, éducatifs ou paramédicaux, exerçant les fonctions de responsable de pouponnière : 13 points majorés ;
 
-8° Adjoints techniques encadrant au moins deux secteurs spécialisés d'un service technique ou exerçant leurs fonctions en génie thermique, ou à titre exclusif, dans le domaine biomédical :
+8° Techniciens supérieurs encadrant au moins deux secteurs spécialisés d'un service technique ou exerçant leurs fonctions en génie thermique, ou à titre exclusif, dans le domaine biomédical :
 
 25 points majorés ;
 

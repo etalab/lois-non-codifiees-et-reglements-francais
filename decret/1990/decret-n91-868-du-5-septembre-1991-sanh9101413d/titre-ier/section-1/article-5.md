@@ -10,9 +10,9 @@ b) Par concours sur épreuves ouverts aux fonctionnaires et agents en fonctions 
 
 2° En application du 1° de l'article 35 du titre IV du statut général des fonctionnaires, dans la limite du tiers du nombre des titularisations prononcées au titre du présent article, par examen professionnel ouvert :
 
-a) Aux adjoints techniques justifiant de dix années au moins de services effectifs dans leur corps ;
+a) Aux techniciens supérieurs justifiant de dix années au moins de services effectifs dans leur corps ;
 
-b) Aux adjoints techniques de classe exceptionnelle justifiant de huit années au moins de services effectifs dans les grades d'adjoint technique de classe supérieure ou de classe exceptionnelle.
+b) Aux techniciens supérieurs hospitaliers chefs justifiant de huit années au moins de services effectifs dans les grades de technicien supérieur hospitalier principal ou de technicien supérieur hospitalier chef.
 
 II. - Les ingénieurs hospitaliers subdivisionnaires bénéficient lors de leur nomination d'une bonification d'ancienneté égale à un an.
 

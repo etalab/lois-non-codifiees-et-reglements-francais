@@ -1,11 +1,13 @@
 # Article 30
 
-I. - Les adjoints techniques des établissements mentionnés à l'article 1er ci-dessus à la date du présent décret sont reclassés dans le corps des adjoints techniques dans les conditions suivantes :
+I. - Les techniciens supérieurs des établissements mentionnés à l'article 1er ci-dessus à la date du présent décret sont reclassés dans le corps des techniciens supérieurs dans les conditions suivantes :
 
-1° Les adjoints techniques, dans le grade d'adjoint technique de classe normale ;
+1° Les techniciens supérieurs, dans le grade de technicien supérieur hospitalier  ;
 
-2° Les adjoints techniques principaux, dans le grade d'adjoint technique de classe supérieure ;
+2° Les techniciens supérieurs principaux, dans le grade de technicien supérieur hospitalier principal  ;
 
-3° Les adjoints techniques chefs, dans le grade d'adjoint technique de classe exceptionnelle.
+3° Les techniciens supérieurs chefs, dans le grade de technicien supérieur hospitalier chef.
 
 Ils sont reclassés dans ces grades à égalité d'échelon et avec maintien de l'ancienneté acquise dans cet échelon.
+
+II. - (paragraphe abrogé).

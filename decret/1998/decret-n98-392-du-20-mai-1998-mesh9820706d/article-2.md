@@ -2,7 +2,7 @@
 
 Les fonctionnaires civils nommés dans l'un des corps visés par le présent décret soit au choix, soit à la suite d'un concours ou d'un examen professionnel, sont classés lors de leur titularisation dans le grade de début de leur corps dans les conditions suivantes :
 
-I. - Les fonctionnaires appartenant aux corps des catégories C et D ou de même niveau, qui détiennent un grade dont l'indice brut terminal est soit égal à 449, soit égal à 479, ou qui sont classés au dernier échelon de l'échelle 5, sont classés, à compter du 1er août 1996, dans l'un des corps de catégorie B suivants : adjoint des cadres hospitaliers, adjoint technique, secrétaire médical, conformément au tableau de correspondance ci-après :
+I. - Les fonctionnaires appartenant aux corps des catégories C et D ou de même niveau, qui détiennent un grade dont l'indice brut terminal est soit égal à 449, soit égal à 479, ou qui sont classés au dernier échelon de l'échelle 5, sont classés, à compter du 1er août 1996, dans l'un des corps de catégorie B suivants : adjoint des cadres hospitaliers, technicien supérieur, secrétaire médical, conformément au tableau de correspondance ci-après :
 
 (A) : SITUATION dans le corps d'origine de catégorie C
 

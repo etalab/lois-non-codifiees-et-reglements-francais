@@ -8,7 +8,7 @@ II. - Pendant la durée du stage, les agents sont classés au 1er échelon du gr
 
 Toutefois,
 
-1° En ce qui concerne les corps d'ingénieurs hospitaliers et d'adjoints techniques, et sauf application de dispositions législatives ou réglementaires plus favorables, ceux de ces agents qui étaient titulaires sont classés à l'échelon du grade de début qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps, cadre d'emploi ou emploi d'origine.
+1° En ce qui concerne les corps d'ingénieurs hospitaliers et de techniciens supérieurs, et sauf application de dispositions législatives ou réglementaires plus favorables, ceux de ces agents qui étaient titulaires sont classés à l'échelon du grade de début qui comporte un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps, cadre d'emploi ou emploi d'origine.
 
 Lorsque ce mode de classement n'apporte pas un gain indiciaire au moins égal à celui qui serait résulté d'un avancement d'échelon dans leur corps, cadre d'emploi ou emploi d'origine, l'ancienneté acquise dans l'échelon précédemment occupé est conservée dans la limite de la durée moyenne d'ancienneté requise pour accéder à l'échelon supérieur.
 
@@ -32,7 +32,7 @@ Les agents non titulaires qui ont occupé antérieurement des emplois d'un nivea
 
 Les dispositions qui précèdent ne peuvent avoir pour conséquence de placer les intéressés dans une situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans l'ancien emploi avec conservation de l'ancienneté d'échelon dans les conditions définies aux deuxième et troisième alinéas du 1° ci-dessus.
 
-3° Les agents nommés dans le corps des adjoints techniques à la suite d'un concours et qui ont eu auparavant la qualité d'agent non titulaire sont classés, lors de leur titularisation, dans le grade de début à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées pour chaque avancement d'échelon, une fraction de l'ancienneté totale acquise à la date de leur nomination comme stagiaire dans les conditions suivantes :
+3° Les agents nommés dans le corps des techniciens supérieurs à la suite d'un concours et qui ont eu auparavant soit la qualité d'agent non titulaire, soit la qualité d'agent d'une organisation internationale intergouvernementale sont classés, lors de leur titularisation, dans le grade de début à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées pour chaque avancement d'échelon, une fraction de l'ancienneté totale acquise à la date de leur nomination comme stagiaire dans les conditions suivantes :
 
 a) Les services accomplis dans un emploi de niveau au moins équivalent à celui de la catégorie B sont retenus à raison des trois quarts de leur durée ;
 
