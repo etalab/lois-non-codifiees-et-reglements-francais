@@ -1,13 +1,11 @@
 # Article 4
 
-Les épreuves professionnelles organisées à l’issue du stage sont les suivantes :
+L'épreuve professionnelle organisée à l'issue du stage est une épreuve orale (durée : une heure ; coefficient 2).
 
-Une épreuve écrite (durée : trois heures ; coefficient 1).
+Cette épreuve est composée de deux parties :
 
-Rédaction d’une note de synthèse à partir d’un dossier relatif à un problème relevant des missions d’un inspecteur de la jeunesse, des sports et des loisirs.
+D'une part, le candidat présente un dossier de formation mettant en évidence les étapes et les compétences acquises lors de son stage dans le service déconcentré dans les domaines de la décision, de l'encadrement, de la gestion, de la communication, ainsi que la démarche méthodologique utilisée (durée : trente minutes, dont dix minutes de présentation) ;
 
-Une épreuve orale (durée : trente minutes ; coefficient 1).
+D'autre part, il expose devant le jury une situation professionnelle rencontrée dans le domaine du contrôle, de l'évaluation ou du conseil. Un dossier d'une dizaine de pages traitant d'un cas concret sert de support à l'exposé ; il est remis au jury un mois avant l'épreuve (durée : trente minutes, dont dix minutes d'exposé).
 
-Exposé et analyse devant le jury d’une situation professionnelle rencontrée dans le domaine du contrôle, de l’évaluation et du conseil. Un dossier d’une dizaine de pages maximum et traitant d’un cas concret est remis au jury un mois avant l’épreuve.
-
-Les membres du jury chargé d’apprécier les épreuves professionnelles sont désignés par arrêté du ministre de la jeunesse et des sports.
+Les membres du jury chargé d'apprécier l'épreuve professionnelle sont désignés par arrêté du ministre chargé de la jeunesse et des sports.
