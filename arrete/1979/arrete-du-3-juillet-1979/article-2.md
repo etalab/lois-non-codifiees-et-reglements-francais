@@ -1,3 +1,3 @@
 # Article 2
 
-Les titres permettant le recrutement direct en qualité d'ingénieur principal dans les établissements relevant du livre IX du code de la santé publique sont ceux figurant au tableau II annexé au présent arrêté.
+La tenue " de feu " est identique à celle du personnel masculin, telle qu'elle est définie par l'article 2 de l'arrêté susvisé du 18 juillet 1953. Elle est obligatoire et ne peut être portée que dans les circonstances prévues par le règlement du corps ainsi que lors des manoeuvres et des concours.
