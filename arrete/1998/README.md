@@ -526,7 +526,6 @@
 - [Arrêté du 16 décembre 1998 (MCCK9800868A)](arrete-du-16-decembre-1998-mcck9800868a)
 - [Arrêté du 16 décembre 1998 (MESP9823894A)](arrete-du-16-decembre-1998-mesp9823894a)
 - [Arrêté du 16 décembre 1998 (MESP9824006A)](arrete-du-16-decembre-1998-mesp9824006a)
-- [Arrêté du 16 décembre 1998 (MEST9811416A)](arrete-du-16-decembre-1998-mest9811416a)
 - [Arrêté du 16 décembre 1998 (PRMX9803322A)](arrete-du-16-decembre-1998-prmx9803322a)
 - [Arrêté du 16 février 1998 (JUSC9820051A)](arrete-du-16-fevrier-1998-jusc9820051a)
 - [Arrêté du 16 février 1998 (MESP9820659A)](arrete-du-16-fevrier-1998-mesp9820659a)
