@@ -12,7 +12,7 @@ Dans les eaux non publiques, la partie supérieure des filets doit être apparen
 
 Le jalonnement des filets, dans les eaux publiques, sera réglementé par le cahier des charges pour l'exploitation de la pêche aux engins ou aux filets dans les cours d'eau du domaine public.
 
-Les filets et engins de toute nature doivent être retirés de l'eau trente-six heures par semaine, du samedi dix-huit heures au lundi six heures, à l'exception toutefois des bosselles, nasses et verveux sans ailes, des carrelets de moins de deux mètres de côté [*dimension*], des lignes dormantes dites cordeaux de fond, des petits éperviers définis à l'article 19 et des balances à écrevisses. Cette relève hebdomadaire n'est pas applicable aux lacs du Bourget et d'Annecy.
+Les filets et engins de toute nature doivent être retirés de l'eau trente-six heures par semaine, du samedi dix-huit heures au lundi six heures, à l'exception toutefois des bosselles, nasses et verveux sans ailes, des carrelets de moins de deux mètres de côté [*dimension*], des lignes dormantes dites cordeaux de fond, des petits éperviers définis à l'article 19 et des balances à écrevisses. Cette relève hebdomadaire n'est pas applicable au lac d'Annecy.
 
 Toutefois, les préfets peuvent, à titre exceptionnel, avancer de vingt-quatre heures cette période d'interdiction et la fixer du vendredi dix-huit heures au dimanche six heures. Dans ce cas, les filets et engins ne peuvent être utilisés du dimanche six heures au lundi six heures que pour la capture des poissons migrateurs.
 
