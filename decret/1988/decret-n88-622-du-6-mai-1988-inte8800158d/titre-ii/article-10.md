@@ -1,3 +1,3 @@
 # Article 10
 
-Par dérogation aux dispositions des articles 8 et 9, les mesures de publicité concernant les installations mentionnées à l'article 17 du décret n° 63-1228 du 11 décembre 1963 susvisé sont soumises aux dispositions du décret n° 81-514 du 12 mai 1981 susvisé.
+Par dérogation aux dispositions des articles 8 et 9, les mesures de publicité concernant les installations mentionnées à l'article 1er du décret n° 99-873 du 11 octobre 1999 relatif aux installations nucléaires de base secrètes sont soumises aux dispositions du décret n° 98-608 du 17 juillet 1998 relatif à la protection des secrets de la défense nationale.

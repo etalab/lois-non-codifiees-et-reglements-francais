@@ -4,7 +4,7 @@ Les plans particuliers d'intervention sont établis pour faire face aux risques 
 
 Font l'objet d'un plan particulier d'intervention :
 
-1° Les sites comportant au moins une installation nucléaire de base de type suivant :
+1° Les sites comportant au moins une installation nucléaire de base, quelle soit ou non secrète, de type suivant :
 
 a) Un réacteur nucléaire d'une puissance thermique supérieure à dix mégawatts ;
 
@@ -14,7 +14,11 @@ c) Une usine de séparation des isotopes de combustibles nucléaires ;
 
 d) Une usine de conversion chimique de combustibles nucléaires ;
 
-e) Une usine de fabrication de combustibles nucléaires.
+e) Une usine de fabrication de combustibles nucléaires ;
+
+f) Une unité de production de matières radioactives à usage militaire ;
+
+g) Une unité de fabrication, d'assemblage ou de mise en oeuvre d'éléments intégrant des matières radioactives à usage militaire.
 
 2° Les installations classées définies par le décret prévu à l'article 7-1 de la loi n° 76-663 du 19 juillet 1976 susvisée ;
 
