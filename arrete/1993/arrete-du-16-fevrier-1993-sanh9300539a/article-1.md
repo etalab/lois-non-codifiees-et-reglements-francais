@@ -12,7 +12,7 @@ La commission de surveillance de chacun des hôpitaux et groupes hospitaliers re
 
 5° Un représentant de la commission du service de soins infirmiers élu par celle-ci ;
 
-6° Deux représentants des personnels désignés sur proposition des organisations syndicales les plus représentatives parmi les personnels titulaires relevant du titre IV du statut général des fonctionnaires.
+6° Deux représentants des personnels désignés sur proposition des organisations syndicales les plus représentatives parmi les personnels titulaires relevant de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière.
 
 La représentativité des organisations syndicales est appréciée dans les conditions prévues à l'article D. 714-2-1-4° du code de la santé publique compte tenu du nombre total de voix recueillies dans l'hôpital ou le groupe hospitalier à l'occasion des élections au comité technique local d'établissement ;
 

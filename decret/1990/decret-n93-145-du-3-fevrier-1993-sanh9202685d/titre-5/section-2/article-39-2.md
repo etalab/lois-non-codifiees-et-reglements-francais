@@ -1,6 +1,6 @@
 # Article 39-2
 
-Les adjoints des cadres techniques du grade provisoire de classe exceptionnelle régis par les dispositions de l'article 39-1 ci-dessus sont reclassés dans le grade d'adjoint des cadres techniques de classe exceptionnelle créé, à compter du 1er août 1994, dans l'ordre de nomination dans la classe exceptionnelle créée le 3 février 1993, selon le tableau de correspondance et le calendrier ci-après :
+Les techniciens supérieurs de l'Assistance publique-hôpitaux de Paris du grade provisoire de classe exceptionnelle régis par les dispositions de l'article 39-1 ci-dessus sont reclassés dans le grade de technicien supérieur hospitalier chef de l'Assistance publique- hôpitaux de Paris créé, à compter du 1er août 1994, dans l'ordre de nomination dans la classe exceptionnelle créée le 3 février 1993, selon le tableau de correspondance et le calendrier ci-après :
 
 (A) : Situation ancienne. Classe exceptionnelle (grade provisoire).
 
@@ -8,71 +8,71 @@ Les adjoints des cadres techniques du grade provisoire de classe exceptionnelle 
 
 !                                     !
 
-!    ECHELONS     !   Ancienneté      !
+! ECHELONS ! Ancienneté !
 
 !                 ! conservée dans la !
 
-!            !    ! limite de la durée!
+! ! ! limite de la durée!
 
-!     A      ! B  !   de l'échelon    !
+! A ! B ! de l'échelon !
 
-!            !    !     d'accueil     !
+! ! ! d'accueil !
 
 !            !    !                   !
 
-!   8e       !    !                   !
+! 8e ! ! !
 
 !après 2 ans ! 8e ! Ancienneté acquise!
 
-!            !    !   moins 2 ans.    !
+! ! ! moins 2 ans. !
 
 !avant 2 ans ! 7e ! Ancienneté acquise!
 
-!            !    !   plus 2 ans.     !
+! ! ! plus 2 ans. !
 
-!   7e       !    !                   !
+! 7e ! ! !
 
 !après 2 ans ! 7e ! Ancienneté acquise!
 
-!            !    !   moins 2 ans.    !
+! ! ! moins 2 ans. !
 
 !avant 2 ans ! 6e ! Ancienneté acquise!
 
-!            !    !   plus 1 an.      !
+! ! ! plus 1 an. !
 
-!   6e       !    !                   !
+! 6e ! ! !
 
 !après 2 ans ! 6e ! Ancienneté acquise!
 
-!            !    !   moins 2 ans.    !
+! ! ! moins 2 ans. !
 
 !avant 2 ans ! 5e ! Ancienneté acquise!
 
-!            !    !   plus 1 an.      !
+! ! ! plus 1 an. !
 
-!   5e       !    !                   !
+! 5e ! ! !
 
 !après 2 ans ! 5e ! Ancienneté acquise!
 
-!            !    !   moins 2 ans.    !
+! ! ! moins 2 ans. !
 
 !avant 2 ans ! 4e ! Ancienneté acquise!
 
-!            !    !   plus 1 an.      !
+! ! ! plus 1 an. !
 
-!   4e       !    !                   !
+! 4e ! ! !
 
 !après 2 ans ! 4e ! Ancienneté acquise!
 
-!            !    !   moins 2 ans.    !
+! ! ! moins 2 ans. !
 
 !avant 2 ans ! 3e ! Ancienneté acquise!
 
-!   3e       ! 2e ! Ancienneté acquise!
+! 3e ! 2e ! Ancienneté acquise!
 
-!   2e       !1er ! Ancienneté acquise!
+! 2e !1er ! Ancienneté acquise!
 
-!  1er       !1er ! Sans ancienneté.  !
+! 1er !1er ! Sans ancienneté. !
 
 !            !    !                   !
 

@@ -1,6 +1,6 @@
 # Article 8
 
-En application des dispositions du deuxième alinéa de l'article 4 du titre IV du statut général des fonctionnaires, plusieurs emplois d'ingénieur général peuvent être créés à l'Assistance publique - hôpitaux de Paris.
+En application des dispositions du deuxième alinéa de l'article 4 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière, plusieurs emplois d'ingénieur général peuvent être créés à l'Assistance publique - hôpitaux de Paris.
 
 L'emploi d'ingénieur général comprend trois échelons. L'ancienneté moyenne pour être nommé à l'échelon supérieur est de trois ans dans chacun des deux premiers échelons.
 

@@ -1,6 +1,6 @@
 # Article 22
 
-Les agents techniques spécialisés de 1re classe comptant au moins deux ans d'ancienneté dans le 9e échelon de leur grade peuvent être promus au grade d'agent technique spécialisé hors classe dans les conditions prévues au 1° du premier alinéa de l'article 69 du titre IV du statut général des fonctionnaires.
+Les agents techniques spécialisés de 1re classe comptant au moins deux ans d'ancienneté dans le 9e échelon de leur grade peuvent être promus au grade d'agent technique spécialisé hors classe dans les conditions prévues au 1° du premier alinéa de l'article 69 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière.
 
 Les agents techniques spécialisés de 1re classe promus au grade d'agent technique spécialisé hors classe sont reclassés dans ce grade conformément au tableau ci-dessous :
 

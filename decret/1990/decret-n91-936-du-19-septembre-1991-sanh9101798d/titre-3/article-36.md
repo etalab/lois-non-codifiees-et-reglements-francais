@@ -1,6 +1,6 @@
 # Article 36
 
-Peuvent être promus au grade de conducteur ambulancier chef, dans les conditions prévues au 1° de l'article 69 du titre IV du statut général des fonctionnaires, les conducteurs ambulanciers principaux comptant au moins deux ans d'ancienneté dans le 9e échelon de leur grade.
+Peuvent être promus au grade de conducteur ambulancier chef, dans les conditions prévues au 1° de l'article 69 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière, les conducteurs ambulanciers principaux comptant au moins deux ans d'ancienneté dans le 9e échelon de leur grade.
 
 Les conducteurs ambulanciers principaux promus au grade de conducteur ambulancier chef sont reclassés dans ce grade conformément au tableau ci-dessous :
 

@@ -1,17 +1,11 @@
 # Article 2
 
-Le classement indiciaire applicable au corps des adjoints des cadres techniques est fixé comme suit :
+Le classement indiciaire applicable au corps des techniciens supérieurs de l'Assistance publique-hôpitaux de Paris est fixé comme suit :
 
 Indices bruts :
 
-Classe normale (grade provisoire) : 298, 474 ;
+- technicien supérieur hospitalier de l'Assistance publique-hôpitaux de Paris : 322-558 ;
 
-Classe normale, à compter du 1er août 1996 : 298, 544 ;
+- technicien supérieur hospitalier principal de l'Assistance publique-hôpitaux de Paris : 391-593 ;
 
-Classe supérieure (grade provisoire) : 438, 533 ;
-
-Classe supérieure, à compter du 1er août 1996 : 359, 579 ;
-
-Classe exceptionnelle (grade provisoire) : 324, 579 ;
-
-Classe exceptionnelle, à compter du 1er août 1994 : 393, 612.
+- technicien supérieur hospitalier-chef de l'Assistance publique-hôpitaux de Paris : 422-638.

@@ -10,7 +10,7 @@ La commission de surveillance de chacun des hôpitaux et groupes hospitaliers re
 
 4. Un représentant de la commission du service de soins infirmiers élu par celle-ci ;
 
-5. Deux représentants des personnels désignés sur proposition des organisations syndicales les plus représentatives parmi les personnels titulaires relevant du titre IV du statut général des fonctionnaires ; la représentativité des organisations syndicales est appréciée dans les conditions prévues au deuxième alinéa du 3° de l'article R. 714-2-25 du code de la santé publique compte tenu du nombre total de voix recueillies dans l'hôpital ou le groupe hospitalier à l'occasion des élections au comité technique local d'établissement ;
+5. Deux représentants des personnels désignés sur proposition des organisations syndicales les plus représentatives parmi les personnels titulaires relevant de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière ; la représentativité des organisations syndicales est appréciée dans les conditions prévues au deuxième alinéa du 3° de l'article R. 714-2-25 du code de la santé publique compte tenu du nombre total de voix recueillies dans l'hôpital ou le groupe hospitalier à l'occasion des élections au comité technique local d'établissement ;
 
 6. Trois personnalités qualifiées nommées par le préfet de la région Ile-de-France, préfet de Paris, après avis du directeur de l'agence régionale de l'hospitalisation de la région où est situé l'hôpital ou le groupe hospitalier, dont un médecin non hospitalier n'exerçant pas dans l'hôpital présenté par le conseil départemental de l'ordre des médecins ;
 

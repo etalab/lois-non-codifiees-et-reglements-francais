@@ -1,12 +1,12 @@
 # Article 37
 
-Dans les conditions prévues à l'article 34 ci-dessus, les chefs d'atelier de 1re catégorie de classe normale sont intégrés dans le corps des adjoints des cadres techniques au grade d'adjoint des cadres techniques de classe exceptionnelle selon le tableau de correspondance qui suit :
+Dans les conditions prévues à l'article 34 ci-dessus, les chefs d'atelier de 1re catégorie de classe normale sont intégrés dans le corps des techniciens supérieurs de l'Assistance publique-hôpitaux e de Paris au grade de technicien supérieur hospitalier chef de l'Assistance publique-hôpitaux de Paris selon le tableau de correspondance qui suit :
 
 SITUATION ACTUELLE : Chef d'atelier de 1re catégorie de classe normale.
 
 1er échelon
 
-SITUATION NOUVELLE : Adjoint des cadres techniques de classe exceptionnelle.
+SITUATION NOUVELLE : Technicien supérieur hospitalier chef de l'Assistance publique-hôpitaux de Paris.
 
 Echelon : 6ème
 
@@ -16,7 +16,7 @@ SITUATION ACTUELLE : Chef d'atelier de 1re catégorie de classe normale
 
 2e  échelon
 
-SITUATION NOUVELLE : Adjoint des cadres techniques de classe exceptionnelle.
+SITUATION NOUVELLE : Technicien supérieur hospitalier chef de l'Assistance publique-hôpitaux de Paris.
 
 Echelon : 7ème
 
@@ -26,7 +26,7 @@ SITUATION ACTUELLE : Chef d'atelier de 1re catégorie de classe normale
 
 3e  échelon
 
-SITUATION NOUVELLE : Adjoint des cadres techniques de classe normale. exceptionnelle.
+SITUATION NOUVELLE : Technicien supérieur hospitalier chef de l'Assistance publique-hôpitaux de Paris.
 
 Echelon : 4ème
 
@@ -36,6 +36,8 @@ SITUATION ACTUELLE : Chef d'atelier de 1re catégorie de classe normale
 
 4e  échelon
 
-SITUATION NOUVELLE : Adjoint des cadres techniques de classe normale. Echelon : 8ème
+SITUATION NOUVELLE : Technicien supérieur hospitalier chef de l'Assistance publique-hôpitaux de Paris.
+
+Echelon : 8ème
 
 Ancienneté : Ancienneté conservée.

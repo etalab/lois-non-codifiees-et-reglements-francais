@@ -1,4 +1,4 @@
-# Section 2 : Adjoints des cadres techniques.
+# Section 2 : Techniciens supérieurs de l'Assistance publique-hôpitaux de Paris.
 
 - [Article 34](article-34.md)
 - [Article 35](article-35.md)

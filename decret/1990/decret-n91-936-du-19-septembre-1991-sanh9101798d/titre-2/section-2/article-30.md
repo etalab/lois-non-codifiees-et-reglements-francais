@@ -6,8 +6,8 @@ Les blanchisseurs ouvriers professionnels sont recrutés :
 
 a) Le concours externe est ouvert aux candidats titulaires d'un certificat d'aptitude professionnelle ou justifiant d'une expérience professionnelle en blanchisserie de deux ans au minimum ;
 
-b) Le concours interne est ouvert aux fonctionnaires et agents comptant au moins un an de services dans les établissements mentionnés à l'article 2 du titre IV du statut général des fonctionnaires ;
+b) Le concours interne est ouvert aux fonctionnaires et agents comptant au moins un an de services dans les établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière ;
 
-2° Par inscription sur une liste d'aptitude établie en application du 2° de l'article 35 du titre IV du statut général des fonctionnaires, dans la limite du tiers du nombre des titularisations prononcées au titre du présent article.
+2° Par inscription sur une liste d'aptitude établie en application du 2° de l'article 35 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière, dans la limite du tiers du nombre des titularisations prononcées au titre du présent article.
 
 Peuvent être inscrits sur cette liste les fonctionnaires et agents relevant de l'Assistance publique - hôpitaux de Paris comptant au moins trois ans de services publics.

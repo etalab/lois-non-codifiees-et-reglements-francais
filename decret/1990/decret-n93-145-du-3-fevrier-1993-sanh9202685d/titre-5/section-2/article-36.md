@@ -1,12 +1,12 @@
 # Article 36
 
-Dans les conditions prévues à l'article 34 ci-dessus, les chefs d'atelier de 2e catégorie et les contremaîtres principaux de blanchisserie sont intégrés dans le corps des adjoints des cadres techniques au grade d'adjoint des cadres techniques de classe supérieure selon le tableau de correspondance qui suit :
+Dans les conditions prévues à l'article 34 ci-dessus, les chefs d'atelier de 2e catégorie et les contremaîtres principaux de blanchisserie sont intégrés dans le corps des techniciens supérieurs de l'Assistance publique-hôpitaux de Paris au grade de technicien supérieur hospitalier principal de l'Assistance publique-hôpitaux de Paris selon le tableau de correspondance qui suit :
 
 SITUATION ACTUELLE : Chef d'atelier de 2e catégorie et contremaître principal de blanchisserie
 
 1er échelon
 
-SITUATION NOUVELLE : Adjoint des cadres techniques de classe supérieure.
+SITUATION NOUVELLE : Technicien supérieur hospitalier principal de l'Assistance publique-hôpitaux de Paris.
 
 Echelon : 2ème
 
@@ -16,7 +16,7 @@ SITUATION ACTUELLE : Chef d'atelier de 2e catégorie et contremaître principal 
 
 2e  échelon
 
-SITUATION NOUVELLE : Adjoint des cadres techniques de classe supérieure.
+SITUATION NOUVELLE : Technicien supérieur hospitalier principal de l'Assistance publique-hôpitaux de Paris.
 
 Echelon : 2ème
 
@@ -26,7 +26,7 @@ SITUATION ACTUELLE : Chef d'atelier de 2e catégorie et contremaître principal 
 
 3e  échelon
 
-SITUATION NOUVELLE : Adjoint des cadres techniques de classe supérieure.
+SITUATION NOUVELLE : Technicien supérieur hospitalier principal de l'Assistance publique-hôpitaux de Paris.
 
 Echelon : 4ème
 
@@ -36,7 +36,7 @@ SITUATION ACTUELLE : Chef d'atelier de 2e catégorie et contremaître principal 
 
 4e  échelon
 
-SITUATION NOUVELLE : Adjoint des cadres techniques de classe supérieure.
+SITUATION NOUVELLE : Technicien supérieur hospitalier principal de l'Assistance publique-hôpitaux de Paris.
 
 Echelon : 4ème
 

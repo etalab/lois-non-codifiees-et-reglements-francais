@@ -36,7 +36,7 @@ CAP n° 4 : personnels d'encadrement technique et ouvrier
 
 Groupe unique
 
-Sous-groupe : adjoint des cadres techniques de classe exceptionnelle ; adjoint des cadres techniques de classe supérieure ; agent technique de coordination de 1re catégorie ; géomètre de classe exceptionnelle ; chef d'atelier de 1re catégorie de classe exceptionnelle (cadre d'extinction) ; adjoint des cadres techniques de classe normale ; agent technique de coordination de 2e catégorie ; géomètre de classe normale ; chef d'atelier de 1re catégorie de classe normale (cadre d'extinction) ; chef d'atelier de 2e catégorie (cadre d'extinction).
+Sous-groupe : technicien supérieur hospitalier chef de l'Assistance publique-hôpitaux de Paris ; technicien supérieur hospitalier principal de l'Assistance publique-hôpitaux de Paris ; agent technique de coordination de 1re catégorie ; géomètre de classe exceptionnelle ; chef d'atelier de 1re catégorie de classe exceptionnelle (cadre d'extinction) ; technicien supérieur hospitalier de l'Assistance publique-hôpitaux de Paris  ; agent technique de coordination de 2e catégorie ; géomètre de classe normale ; chef d'atelier de 1re catégorie de classe normale (cadre d'extinction) ; chef d'atelier de 2e catégorie (cadre d'extinction).
 
 CAP n° 5 : personnels infirmiers
 

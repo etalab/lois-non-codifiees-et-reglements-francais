@@ -1,3 +1,3 @@
 # Article 42
 
-A titre transitoire et pour une période de six ans à compter du 31 octobre 2001, seuls peuvent se présenter au concours interne prévu au b du 1° de l'article 12 du décret du 3 février 1993 susvisé les fonctionnaires relevant des corps d'agents techniques de coordination et d'agents techniques spécialisés justifiant de quatre années au moins de services effectifs.
+Pour une période de quatre ans à compter de la publication du décret n° 2005-919 du 2 août 2005, le concours interne prévu au b du 1° de l'article 12 du présent décret est réservé, pour 50 % des postes offerts à ce concours, aux fonctionnaires relevant des corps d'agents techniques de coordination et d'agents techniques spécialisés justifiant de quatre années au moins de services effectifs.

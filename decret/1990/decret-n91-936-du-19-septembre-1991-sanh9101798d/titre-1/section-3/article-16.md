@@ -1,6 +1,6 @@
 # Article 16
 
-Les maîtres ouvriers comptant au moins deux ans [*durée*] d'ancienneté dans le 9e échelon de leur grade peuvent être promus au grade de maître ouvrier principal dans les conditions prévues au 1° de l'article 69 du titre IV du statut général des fonctionnaires.
+Les maîtres ouvriers comptant au moins deux ans [*durée*] d'ancienneté dans le 9e échelon de leur grade peuvent être promus au grade de maître ouvrier principal dans les conditions prévues au 1° de l'article 69 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière.
 
 Les maîtres ouvriers promus au grade de maître ouvrier principal sont reclassés dans ce grade conformément au tableau ci-après :
 

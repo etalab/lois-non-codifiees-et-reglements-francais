@@ -20,4 +20,4 @@ a) A des actions de recherche ;
 
 b) A des enseignements de formation initiale ou de formation continue ;
 
-c) A des missions pour le compte d'autres établissements mentionnés à l'article 2 du titre IV du statut général des fonctionnaires ou d'organismes publics ou privés d'intérêt général dans le cadre de conventions passées par l'Assistance publique-hôpitaux de Paris avec ces établissements et organismes.
+c) A des missions pour le compte d'autres établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 modifiée portant dispositions statutaires relatives à la fonction publique hospitalière ou d'organismes publics ou privés d'intérêt général dans le cadre de conventions passées par l'Assistance publique-hôpitaux de Paris avec ces établissements et organismes.
