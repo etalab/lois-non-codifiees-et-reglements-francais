@@ -143,6 +143,7 @@
 - [Décret n°92-32 du 9 janvier 1992 (MENN9102865D)](decret-n92-32-du-9-janvier-1992-menn9102865d)
 - [Décret n°92-33 du 9 janvier 1992 (MENN9102868D)](decret-n92-33-du-9-janvier-1992-menn9102868d)
 - [Décret n°92-34 du 9 janvier 1992 (MENN9102867D)](decret-n92-34-du-9-janvier-1992-menn9102867d)
+- [Décret n°92-497 du 9 juin 1992 (AGRS9200797D)](decret-n92-497-du-9-juin-1992-agrs9200797d)
 - [Décret n°93-309 du 9 mars 1993 (BUDF9200038D)](decret-n93-309-du-9-mars-1993-budf9200038d)
 - [Décret n°88-699 du 9 mai 1988 (MCCB8800299D)](decret-n88-699-du-9-mai-1988-mccb8800299d)
 - [Décret du 10 janvier 1992 (ACVP9120015D)](decret-du-10-janvier-1992-acvp9120015d)

@@ -541,6 +541,7 @@
 - [Arrêté du 29 juillet 1991 (SPSS9101749A)](arrete-du-29-juillet-1991-spss9101749a)
 - [Arrêté du 29 novembre 1991 (SPSP9102750A)](arrete-du-29-novembre-1991-spsp9102750a)
 - [Arrêté du 29 mai 1992 (ECOT9213556A)](arrete-du-29-mai-1992-ecot9213556a)
+- [Arrêté du 29 mai 1992 (SANH9201273A)](arrete-du-29-mai-1992-sanh9201273a)
 - [Arrêté du 30 avril 1992 (SPSS9201062A)](arrete-du-30-avril-1992-spss9201062a)
 - [Arrêté du 30 décembre 1991 (AGRG9200029A)](arrete-du-30-decembre-1991-agrg9200029a)
 - [Arrêté du 30 décembre 1991 (AGRS9102430A)](arrete-du-30-decembre-1991-agrs9102430a)
