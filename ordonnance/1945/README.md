@@ -17,4 +17,6 @@
 - [Ordonnance n° 45-1355 du 20 juin 1945](ordonnance-n-45-1355-du-20-juin-1945)
 - [Ordonnance n° 45-476 du 24 mars 1945](ordonnance-n-45-476-du-24-mars-1945)
 - [Ordonnance n° 45-1418 du 28 juin 1945](ordonnance-n-45-1418-du-28-juin-1945)
+- [Ordonnance n°45-1483 du 30 juin 1945](ordonnance-n45-1483-du-30-juin-1945)
+- [Ordonnance n°45-1484 du 30 juin 1945](ordonnance-n45-1484-du-30-juin-1945)
 - [Ordonnance n° 45-1088 du 30 mai 1945](ordonnance-n-45-1088-du-30-mai-1945)
