@@ -26,7 +26,7 @@ La longueur des poissons ci-dessus mentionnés est mesurée du bout du museau à
 
 Dans les plans d'eau, cours d'eau ou parties de cours d'eau des régions montagneuses ou à sol pauvre en chaux désignés par arrêté du ministre chargé de la pêche fluviale, les truites et le saumon de fontaine peuvent cependant être pêchés à partir d'une longueur de 18 centimètres.
 
-Lorsqu'il y a lieu d'assurer la protection particulière des truites et du saumon de fontaine dans certains plans d'eau, cours d'eau ou sections de cours d'eau, le ministre chargé de la pêche fluviale peut, après avis du conseil supérieur de la pêche, augmenter la longueur minimale au-dessous de laquelle les poissons de ces espèces ne peuvent être pêchés en la portant soit de 23 à 25 centimètres, soit de 18 à 20 centimètres.
+Lorsqu'il y a lieu d'assurer la protection particulière de la truite ou du saumon de fontaine dans certains plans d'eau, cours d'eau ou sections de cours d'eau, les commissaires de la République peuvent exceptionnellement augmenter la longueur minimale au-dessous de laquelle les poissons de ces espèces ne peuvent être pêchés en la portant soit de 23 à 25 centimètres, soit de 18 à 20 centimètres.
 
 Quand un cours d'eau est mitoyen entre deux départements et qu'en vertu des dispositions qui précèdent les tailles réglementaires de pêche des truites et du saumon de fontaine sont différentes, il est fait application sur les deux rives de la taille la moins élevée.
 
