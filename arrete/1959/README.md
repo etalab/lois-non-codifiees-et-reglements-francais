@@ -1,5 +1,6 @@
 # 1959
 
+- [Arrêté du 3 septembre 1958](arrete-du-3-septembre-1958)
 - [Arrêté du 3 septembre 1959](arrete-du-3-septembre-1959)
 - [Arrêté du 4 juin 1959](arrete-du-4-juin-1959)
 - [Arrêté du 4 mars 1959](arrete-du-4-mars-1959)
@@ -10,6 +11,7 @@
 - [Arrêté du 7 septembre 1949](arrete-du-7-septembre-1949)
 - [Arrêté du 8 avril 1959](arrete-du-8-avril-1959)
 - [Arrêté du 8 juin 1959](arrete-du-8-juin-1959)
+- [Arrêté du 9 octobre 1959](arrete-du-9-octobre-1959)
 - [Arrêté du 10 septembre 1959](arrete-du-10-septembre-1959)
 - [Arrêté du 12 mars 1959](arrete-du-12-mars-1959)
 - [Arrêté du 16 février 1959](arrete-du-16-fevrier-1959)
