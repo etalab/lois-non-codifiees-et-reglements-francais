@@ -1,0 +1,3 @@
+# Article 4
+
+A titre transitoire, jusqu'au 31 décembre 1999, par dérogation aux dispositions des articles R. 161-3, R. 161-4 et R. 161-5 du code de la sécurité sociale, les personnes dont le maintien du droit aux prestations en nature de l'assurance maladie arrive à échéance bénéficient d'un maintien supplémentaire de ce droit pendant trois ans à compter de cette date d'échéance. Sous réserve des engagements internationaux souscrits par la France, ce maintien supplémentaire de droit ne bénéficie qu'aux personnes qui continuent de résider sur le territoire métropolitain ou dans les départements d'outre-mer.
