@@ -277,7 +277,6 @@
 - [Décret n°82-583 du 29 juin 1982](decret-n82-583-du-29-juin-1982)
 - [Décret n°82-585 du 29 juin 1982](decret-n82-585-du-29-juin-1982)
 - [Décret n°82-681 du 29 juillet 1982](decret-n82-681-du-29-juillet-1982)
-- [Décret n°82-838 du 29 septembre 1982](decret-n82-838-du-29-septembre-1982)
 - [Décret n°82-839 du 29 septembre 1982](decret-n82-839-du-29-septembre-1982)
 - [Décret n°82-842 du 29 septembre 1982](decret-n82-842-du-29-septembre-1982)
 - [Décret n°82-924 du 29 octobre 1982](decret-n82-924-du-29-octobre-1982)
