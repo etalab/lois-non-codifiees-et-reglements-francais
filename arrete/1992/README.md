@@ -634,7 +634,6 @@
 - [Arrêté du 18 août 1992 (SPSS9202174A)](arrete-du-18-aout-1992-spss9202174a)
 - [Arrêté du 18 août 1992 (SPSS9202175A)](arrete-du-18-aout-1992-spss9202175a)
 - [Arrêté du 18 décembre 1991 (AGRP9102612A)](arrete-du-18-decembre-1991-agrp9102612a)
-- [Arrêté du 18 décembre 1991 (PTTR9100425A)](arrete-du-18-decembre-1991-pttr9100425a)
 - [Arrêté du 18 décembre 1992 (ACVE9150037A)](arrete-du-18-decembre-1992-acve9150037a)
 - [Arrêté du 18 décembre 1992 (BUDL9200230A)](arrete-du-18-decembre-1992-budl9200230a)
 - [Arrêté du 18 décembre 1992 (ENVE9250441A)](arrete-du-18-decembre-1992-enve9250441a)
