@@ -525,6 +525,7 @@
 - [Décret n°90-526 du 28 juin 1990 (SPSS9000711D)](decret-n90-526-du-28-juin-1990-spss9000711d)
 - [Décret n°90-529 du 28 juin 1990 (MENK9070009D)](decret-n90-529-du-28-juin-1990-menk9070009d)
 - [Décret n°90-540 du 28 juin 1990 (ECOP9000329D)](decret-n90-540-du-28-juin-1990-ecop9000329d)
+- [Décret n°90-765 du 28 août 1990 (AGRS9001323D)](decret-n90-765-du-28-aout-1990-agrs9001323d)
 - [Décret n°91-826 du 28 août 1991 (EQUP9100860D)](decret-n91-826-du-28-aout-1991-equp9100860d)
 - [Décret n°90-435 du 28 mai 1990 (FPPA9000053D)](decret-n90-435-du-28-mai-1990-fppa9000053d)
 - [Décret n°90-437 du 28 mai 1990 (PRMG9070213D)](decret-n90-437-du-28-mai-1990-prmg9070213d)
