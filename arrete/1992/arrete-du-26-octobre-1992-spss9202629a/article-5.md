@@ -8,6 +8,6 @@ Le jury peut établir, également par ordre de mérite, une liste complémentair
 
 La validité des listes cesse automatiquement à la date de publication des listes issues des concours suivants.
 
-Après chaque concours, le ministre chargé de la sécurité sociale, sur proposition du directeur de la Caisse nationale de l'assurance maladie des travailleurs salariés, procède, par un arrêté publié au Journal officiel, à l'inscription, dans les conditions prévues au présent article, des candidats proposés par les jurys compétents.
+Après chaque concours, le directeur de la Caisse nationale de l'assurance maladie des travailleurs salariés procède, par une décision publiée au Bulletin officiel du ministère chargé de la sécurité sociale, à l'inscription, dans les conditions prévues au présent article, des candidats proposés par les jurys compétents.
 
 Tout candidat inscrit sur une des listes d'admission qui refuse d'accepter un poste peut être radié de cette liste.
