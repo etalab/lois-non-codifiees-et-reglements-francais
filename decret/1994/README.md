@@ -136,4 +136,5 @@
 - [Décret n°93-1449 du 31 décembre 1993 (JUSX9301216D)](decret-n93-1449-du-31-decembre-1993-jusx9301216d)
 - [Décret n°93-1450 du 31 décembre 1993 (AGRS9302292D)](decret-n93-1450-du-31-decembre-1993-agrs9302292d)
 - [Décret n°94-91 du 31 janvier 1994 (INDP9400061D)](decret-n94-91-du-31-janvier-1994-indp9400061d)
+- [Décret n°94-97 du 31 janvier 1994 (SPSS9303620D)](decret-n94-97-du-31-janvier-1994-spss9303620d)
 - [Décret n°95-364 du 31 mars 1995 (DEFP9501165D)](decret-n95-364-du-31-mars-1995-defp9501165d)
