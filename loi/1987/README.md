@@ -4,6 +4,7 @@
 - [Loi n° 86-1383 du 31 décembre 1986](loi-n-86-1383-du-31-decembre-1986)
 - [Loi n° 87-39 du 27 janvier 1987](loi-n-87-39-du-27-janvier-1987)
 - [Loi n° 87-416 du 17 juin 1987](loi-n-87-416-du-17-juin-1987)
+- [Loi n° 87-432 du 22 juin 1987 (JUSX8700042L)](loi-n-87-432-du-22-juin-1987-jusx8700042l)
 - [Loi n° 87-498 du 6 juillet 1987 (JUSX8700079L)](loi-n-87-498-du-6-juillet-1987-jusx8700079l)
 - [Loi n° 87-516 du 10 juillet 1987 (ASEX8700090L)](loi-n-87-516-du-10-juillet-1987-asex8700090l)
 - [Loi n° 87-549 du 16 juillet 1987 (SERX8700099L)](loi-n-87-549-du-16-juillet-1987-serx8700099l)
