@@ -1079,7 +1079,6 @@
 - [Décret n°92-1180 du 30 octobre 1992 (MEND9203234D)](decret-n92-1180-du-30-octobre-1992-mend9203234d)
 - [Décret n°92-1182 du 30 octobre 1992 (PTTS9200496D)](decret-n92-1182-du-30-octobre-1992-ptts9200496d)
 - [Décret n°92-1183 du 30 octobre 1992 (PTTS9200497D)](decret-n92-1183-du-30-octobre-1992-ptts9200497d)
-- [Décret n°92-1186 du 30 octobre 1992 (ECOM9240051D)](decret-n92-1186-du-30-octobre-1992-ecom9240051d)
 - [Décret n°92-1258 du 30 novembre 1992 (PRMG9270615D)](decret-n92-1258-du-30-novembre-1992-prmg9270615d)
 - [Décret n°92-1260 du 30 novembre 1992 (ECOX9251227D)](decret-n92-1260-du-30-novembre-1992-ecox9251227d)
 - [Décret n°92-1379 du 30 décembre 1992 (INTE9200522D)](decret-n92-1379-du-30-decembre-1992-inte9200522d)
