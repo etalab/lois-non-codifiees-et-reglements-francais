@@ -10,3 +10,4 @@
 - [Décret n°54-1128 du 15 novembre 1954](decret-n54-1128-du-15-novembre-1954)
 - [Décret n°54-1163 du 19 novembre 1954](decret-n54-1163-du-19-novembre-1954)
 - [Décret n°54-539 du 26 mai 1954](decret-n54-539-du-26-mai-1954)
+- [Décret n°54-1191 du 30 novembre 1954](decret-n54-1191-du-30-novembre-1954)
