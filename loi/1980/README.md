@@ -21,4 +21,5 @@
 - [Loi n°80-471 du 27 juin 1980](loi-n80-471-du-27-juin-1980)
 - [Loi n°80-526 du 12 juillet 1980](loi-n80-526-du-12-juillet-1980)
 - [Loi n°80-532 du 15 juillet 1980](loi-n80-532-du-15-juillet-1980)
+- [Loi n°80-572 du 25 juillet 1980](loi-n80-572-du-25-juillet-1980)
 - [Loi n°80-9 du 10 janvier 1980](loi-n80-9-du-10-janvier-1980)
