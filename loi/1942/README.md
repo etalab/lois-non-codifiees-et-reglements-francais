@@ -1,5 +1,6 @@
 # 1942
 
+- [Loi du 12 juin 1942](loi-du-12-juin-1942)
 - [Loi du 15 mai 1942](loi-du-15-mai-1942)
 - [Loi du 27 mai 1942](loi-du-27-mai-1942)
 - [Loi du 3 avril 1942](loi-du-3-avril-1942)
