@@ -33,6 +33,7 @@
 - [Décret n°61-172 du 16 février 1961](decret-n61-172-du-16-fevrier-1961)
 - [Décret n°61-62 du 18 janvier 1961](decret-n61-62-du-18-janvier-1961)
 - [Décret n°61-652 du 21 juin 1961](decret-n61-652-du-21-juin-1961)
+- [Décret n°61-776 du 21 juillet 1961](decret-n61-776-du-21-juillet-1961)
 - [Décret n°61-100 du 25 janvier 1961](decret-n61-100-du-25-janvier-1961)
 - [Décret n°61-207 du 25 février 1961](decret-n61-207-du-25-fevrier-1961)
 - [Décret n°61-88 du 25 janvier 1961](decret-n61-88-du-25-janvier-1961)
