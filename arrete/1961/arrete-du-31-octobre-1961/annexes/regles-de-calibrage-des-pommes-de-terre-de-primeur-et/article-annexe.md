@@ -8,14 +8,14 @@ Les pommes de terre de primeur d'un calibre inférieur à 28 mm peuvent cependan
 
 2° Pommes de terre de conservation.
 
-a) Le calibre minimum des pommes de terre de conservation, à l'exception des variétés dont la liste est donnée ci-après ainsi que des pommes de terre destinées à être vendues tout épluchées, est fixé à 35 mm c'est-à-dire que les tubercules ne doivent pas passer au travers d'un crible à maille carrée de 35 mm de côté. Une proportion maximum de 3 p. 100 en poids de tubercules d'un calibre inférieur à celui ci-dessus fixé est toutefois admise.
+a) Le calibre minimal des pommes de terre de conservation, est fixé à 35 mm, c'est-à-dire que les tubercules ne doivent pas passer au travers d'une grille à maille carrée de 35 mm de côté. Les variétés inscrites dans la catégorie consommation à chair ferme au Cataloque des espèces et variétés de plantes cultivées en France ne sont pas soumises à ces dispositions.
 
-b) Liste des variétés de pommes de terre de conservation non soumises au calibre minimum fixé ci-dessus :
+A l'exception des variétés féculières, les pommes de terre de calibre au moins égal à 28 mm et inférieur au calibre minimal fixé peuvent être commercialisées à destination :
 
-Aura, B.F. 15, Belle de Fontenay, Belle de Locronan, Ratte, Rosa, Roseval, Sieglinde, Stella, Valdor, Viola, Perie rose.
+- des entreprises se chargeant de l'épluchage avant la vente aux consommateurs ;
 
-c) Pommes de terre de conservation destinées à être vendues tout épluchées :
-
-Les pommes de terre de conservation destinées à être vendues tout épluchées aux consommateurs peuvent faire l'objet, à l'exception des variétés féculières, de lots ne renfermant que des tubercules d'un calibre inférieur à 35 mm, mais supérieur à 28 mm.
+- des collectivités et restaurants.
 
 Dans ce cas, la mention "grenaille à éplucher" devra figurer sur les emballages et toutes justifications utiles concernant la destination réelle de la marchandise devront pouvoir être données aux agents du contrôle.
+
+Dans tous les cas, il est admis au maximum 3 p. 100 en poids de tubercules d'un calibre inférieur à ceux ci-dessus fixés ou à ceux pris en référence pour la commercialisation du produit dans la limite des calibres minimaux autorisés.

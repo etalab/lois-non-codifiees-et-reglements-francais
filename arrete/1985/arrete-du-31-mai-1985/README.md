@@ -1,4 +1,4 @@
-# Arrêté du 31 mai 1985 fixant les modes de preuve nécessaires à l'ouverture du droit à l'allocation parentale d'éducation prévue aux articles L550 à L555 du code de la sécurité sociale
+# Arrêté du 31 mai 1985 relatif à l'ouverture anticipée du droit à la retraite pour certains personnels des houillères de bassin
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

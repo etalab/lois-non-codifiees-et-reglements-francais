@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de la sécurité sociale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 12 juillet 1976 relatif aux opérations immobilières exécutées au titre de l'action sanitaire et sociale par les organismes de sécurité sociale est abrogé.

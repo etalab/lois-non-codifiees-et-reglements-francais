@@ -195,3 +195,4 @@
 - [Décret n°85-567 du 31 mai 1985](decret-n85-567-du-31-mai-1985)
 - [Décret n°85-571 du 31 mai 1985](decret-n85-571-du-31-mai-1985)
 - [Décret n°85-572 du 31 mai 1985](decret-n85-572-du-31-mai-1985)
+- [Décret n°85-594 du 31 mai 1985](decret-n85-594-du-31-mai-1985)

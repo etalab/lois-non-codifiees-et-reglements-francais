@@ -1,4 +1,4 @@
-# Arrêté du 3 juin 1985 portant application de l'article 26 de la loi n° 85-17 du 4 janvier 1985 relative aux mesures en faveur des jeunes familles et des familles nombreuses.
+# Arrêté du 3 juin 1985 relatif aux opérations immobilières exécutées au titre de l'action sanitaire et sociale par les organismes de sécurité sociale du régime minier.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
