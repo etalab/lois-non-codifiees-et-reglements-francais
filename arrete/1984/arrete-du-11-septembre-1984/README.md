@@ -1,4 +1,4 @@
-# Arrêté du 11 septembre 1984 relatif à la validation de titres pour l'exercice de la profession d'infirmier (titres militaires)
+# Arrêté du 11 septembre 1984 fixant le modèle de déclaration annuelle de données sociales (D.A.D.S.) commune à l'administration fiscale et à la sécurité sociale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

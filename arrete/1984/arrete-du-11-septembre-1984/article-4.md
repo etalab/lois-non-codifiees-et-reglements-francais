@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur général de la santé est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 27 novembre 1974 en tant qu'il fixe le précédent modèle de la D.A.S. 1 est abrogé.
