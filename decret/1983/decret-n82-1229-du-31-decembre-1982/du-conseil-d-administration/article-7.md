@@ -1,6 +1,6 @@
 # Article 7
 
-Le conseil d'administration définit les lignes générales de l'action de l'établissement, dans le respect du cahier des charges [*attributions*].
+Le conseil d'administration définit les lignes générales de l'action de l'établissement, dans le respect du cahier des charges.
 
 Il règle par ses délibérations les affaires de l'établissement et délibère notamment sur :
 
@@ -10,7 +10,7 @@ Il règle par ses délibérations les affaires de l'établissement et délibère
 
 3° Les états prévisionnels de recettes et de dépenses d'exploitation et d'investissement auxquels est annexé un état des effectifs permanents, ainsi que les décisions modificatives intervenant en cours d'exercice ;
 
-4° Les comptes de chaque exercice et l'affectation des résultats [*comptabilité*] ;
+4° Les comptes de chaque exercice et l'affectation des résultats ;
 
 5° Les emprunts ;
 
@@ -28,4 +28,4 @@ Il règle par ses délibérations les affaires de l'établissement et délibère
 
 12° Le rapport annuel d'activités de l'établissement.
 
-Le conseil d'administration est consulté sur le cahier des charges de l'établissement et les conventions collectives applicables au personnel de l'établissement. Il peut déléguer certaines de ses attributions à son président à l'exception des attributions mentionnées aux 1° à 8° inclus et au 12° du présent article. Il arrête son règlement intérieur.
+13° Il arrête un programme de formation à la gestion des entreprises destiné aux représentants du personnel nouvellement élus. Le conseil d'administration est consulté sur le cahier des charges de l'établissement et les conventions collectives applicables au personnel de l'établissement. Il peut déléguer certaines de ses attributions à son président à l'exception des attributions mentionnées aux 1° à 8° inclus et au 12° du présent article. Il arrête son règlement intérieur.
