@@ -1,4 +1,4 @@
-# Arrêté du 4 septembre 1967 relatif aux règles d'aménagement et d'exploitation des usines de traitement de pétrole brut de ses dérivés et résidus - Annexe n° 2.
+# Arrêté du 4 septembre 1967 relatif aux règles d'aménagement et d'exploitation des usines de traitement de pétrole brut de ses dérivés et résidus - Annexe.
 
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
@@ -9,17 +9,13 @@
 - [Article 17](article-17.md)
 - [Article 56](article-56.md)
 - [Dispositions relatives à la direction de la lutte contre l'incendie et des secours](dispositions-relatives-a)
-- [Règles particulières de construction des moteurs Diesel des engins mobiles appelés à circuler temporairement en zones de type 1](regles-particulieres-de-construction-des-moteurs-diesel-des-engins-mobiles-appeles-a)
 - [Définitions](definitions)
 - [Dispositions générales](dispositions-generales)
 - [Dispositions générales concernant l'intervention des inspecteurs des établissements classés](dispositions-generales-concernant-l-intervention-des-inspecteurs-des-etablissements-classes)
-- [Règles particulières de construction et d'essai des moteurs Diesel de sûreté](regles-particulieres-de-construction-et)
 - [Introduction](introduction)
 - [Prévention de la pollution atmosphérique](prevention-de-la-pollution-atmospherique)
 - [Prévention de la pollution des eaux](prevention-de-la-pollution-des-eaux)
-- [Règles d'essai des moteurs Diesel de sûreté](regles-d-essai-des-moteurs-diesel-de-surete)
 - [Règles d'exploitation](regles-d-exploitation)
 - [Règles d'exploitation particulières](regles-d-exploitation-particulieres)
 - [Règles d'implantation](regles-d-implantation)
 - [Règles de construction](regles-de-construction)
-- [Règles de construction des moteurs Diesel de sûreté](regles-de-construction-des-moteurs-diesel-de-surete)
