@@ -4,6 +4,4 @@ Ont seuls qualité pour exécuter les opérations de mise en paiement dans les c
 
 Les comptables publics ;
 
-Les régisseurs d'avances dans la limite des attributions qui leur sont dévolues ;
-
-Les agents délégués conformément à l'article 14 ci-après.
+Les régisseurs d'avances dans la limite des attributions qui leur sont dévolues.
