@@ -1,4 +1,4 @@
-# Arrêté du 10 janvier 1986 relatif aux dépenses d'équipements immobiliers des départements et des régions.
+# Arrêté du 10 janvier 1986 portant modification du chiffre de la population et attribution de population fictive à certaines communes.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-Pour l'application des dispositions de l'article 32-2 du décret du 3 octobre 1975 susvisé et dans les conditions prévues audit article, le tiré a l'obligation de dénoncer le certificat de non-paiement [*qualité pour agir*] au greffier du tribunal de commerce ou, le cas échéant, du tribunal de grande instance statuant  en matière commerciale [*compétence*], lorsque le montant du chèque impayé est supérieur à 10.000 F [*francs*].
+L'arrêté du 18 juillet 1985 portant revalorisation des allocations familiales servies dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion à compter du 1er juillet 1985 est abrogé.

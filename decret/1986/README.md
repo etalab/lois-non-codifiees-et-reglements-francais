@@ -82,6 +82,7 @@
 - [Décret n°85-1460 du 30 décembre 1985](decret-n85-1460-du-30-decembre-1985)
 - [Décret n°85-801 du 30 juillet 1985](decret-n85-801-du-30-juillet-1985)
 - [Décret n°86-146 du 30 janvier 1986](decret-n86-146-du-30-janvier-1986)
+- [Décret n°86-150 du 30 janvier 1986](decret-n86-150-du-30-janvier-1986)
 - [Décret n°85-1486 du 31 décembre 1985](decret-n85-1486-du-31-decembre-1985)
 - [Décret n°85-1488 du 31 décembre 1985](decret-n85-1488-du-31-decembre-1985)
 - [Décret n°85-1490 du 31 décembre 1985](decret-n85-1490-du-31-decembre-1985)
