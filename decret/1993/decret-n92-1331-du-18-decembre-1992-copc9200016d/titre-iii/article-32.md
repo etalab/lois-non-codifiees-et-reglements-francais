@@ -1,3 +1,0 @@
-# Article 32
-
-L'agent accomplissant une mission ou un stage à la demande des autorités françaises et muni d'un ordre de mission délivré par l'administration peut prétendre à la prise en charge de ses frais de voyage et au paiement d'indemnités journalières dans les conditions prévues au titre II du décret n° 86-416 du 12 mars 1986 si la mission ou le stage est accompli à l'étranger et dans les conditions prévues par le décret n° 90-437 du 28 mai 1990 si la mission ou le stage est accompli en France. Ces indemnités ne sont pas dues si la mission ou le stage est accompli dans la commune de résidence de l'agent en France.

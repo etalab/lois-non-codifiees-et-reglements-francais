@@ -456,8 +456,6 @@
 - [Décret du 18 mars 1993 (ACVP9320035D)](decret-du-18-mars-1993-acvp9320035d)
 - [Décret du 18 mars 1993 (LOGC9300018D)](decret-du-18-mars-1993-logc9300018d)
 - [Décret n°46-448 du 18 mars 1946](decret-n46-448-du-18-mars-1946)
-- [Décret n°92-1331 du 18 décembre 1992 (COPC9200016D)](decret-n92-1331-du-18-decembre-1992-copc9200016d)
-- [Décret n°92-1332 du 18 décembre 1992 (COPC9200017D)](decret-n92-1332-du-18-decembre-1992-copc9200017d)
 - [Décret n°93-1008 du 18 août 1993 (JUSB9310259D)](decret-n93-1008-du-18-aout-1993-jusb9310259d)
 - [Décret n°93-1009 du 18 août 1993 (AGRR9300859D)](decret-n93-1009-du-18-aout-1993-agrr9300859d)
 - [Décret n°93-1011 du 18 août 1993 (DEFD9301642D)](decret-n93-1011-du-18-aout-1993-defd9301642d)

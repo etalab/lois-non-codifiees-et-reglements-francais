@@ -1,5 +1,0 @@
-# Article 7
-
-L'agent peut participer à un stage de spécialisation de plus longue durée, à l'initiative de l'administration ou en accord avec elle, sous réserve qu'il s'engage à accomplir, à l'issue de ce dernier, les missions de coopération qui lui seront assignées, pendant une période égale à cinq fois au moins la durée du stage.
-
-Dans le cas où il n'accomplirait pas, pour toute autre raison qu'une incapacité physique constatée par l'autorité médicale agréée par le ministre chargé de la coopération et du développement, la totalité des années de service prévues au titre de ces missions, il pourra être tenu de rembourser une fraction des indemnités de stage éventuellement perçues et, s'il en a été exposé, des frais de scolarité afférents à ce stage, proportionnellement au temps de service qu'il lui reste à accomplir pour son engagement. Toutefois, si une mission en coopération ne lui est pas proposée à l'issue du stage ou à l'expiration de l'un des contrats souscrits postérieurement à ce stage, l'intéressé est dégagé des obligations souscrites en application des dispositions qui précèdent.
