@@ -1,5 +1,3 @@
 # Article 16
 
-Est interdite, en vertu de l'article 3, paragraphe 2, de la loi du 1er août 1905, la détention en vue de la vente, la mise en vente ou la vente comme fruits frais ou légumes frais, de tous fruits et légumes qui ont été soumis au "trempage".
-
-Il est interdit à toute personne de détenir en vue de la vente, de mettre en vente ou de vendre des fruits et légumes dont la partie apparente ne correspondrait pas, comme calibre, forme, coloration, aspect et variété horticole, à la moyenne de la marchandise qu'elle offre effectivement à l'acheteur.
+Il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre en récipients ou emballages, des produits agricoles ou horticoles, et en particulier des fruits et légumes, dont les lots présenteraient les caractéristiques du fardage, c'est-à-dire dont la partie apparente ne correspondrait pas, notamment comme calibre, forme, aspect, espèce ou variété, à la composition moyenne de la marchandise.
