@@ -4,7 +4,7 @@ Les maîtres de conférences sont recrutés par concours nationaux en vue de pou
 
 Les candidats doivent remplir l'une des conditions suivantes :
 
-1° Etre titulaire du doctorat prévu à l'article 16 de la loi du 26 janvier 1984 susvisée ;
+1° Etre titulaire du doctorat prévu à l'article L 612-7 du code de l'éducation ;
 
 2° Etre titulaire du doctorat d'Etat, doctorat de troisième cycle ou diplôme de docteur ingénieur.
 

@@ -13,3 +13,5 @@ b) D'un établissement français d'enseignement supérieur, de recherche ou d'in
 c) D'une entreprise ou de tout autre organisme public ou privé.
 
 Un enseignant-chercheur peut également être placé en délégation pour créer une entreprise.
+
+La délégation peut en outre être prononcée pour l'application des dispositions de l'article 25-1 de la loi du 15 juillet 1982 susvisée.

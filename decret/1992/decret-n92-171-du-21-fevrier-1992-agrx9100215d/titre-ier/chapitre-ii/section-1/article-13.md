@@ -1,6 +1,6 @@
 # Article 13
 
-La délégation est prononcée pour une durée égale au plus à quatre années. Lorsqu'elle est supérieure à six mois, elle est subordonnée à la conclusion entre l'établissement d'origine et l'institution, l'établissement, l'entreprise ou l'organisme d'accueil, d'une convention qui en fixe l'objet et en détermine les modalités.
+La délégation peut être prononcée pour une durée maximale de quatre ans. Toutefois, pour l'application de l'article 25-1 de la loi du 15 juillet 1982 susvisée, elle peut être prononcée pour une durée de deux ans renouvelable deux fois. Elle est subordonnée à la conclusion entre l'établissement d'origine et l'institution, l'établissement, l'entreprise ou l'organisme d'accueil, d'une convention qui en fixe l'objet et en détermine les modalités.
 
 Ces modalités peuvent être les suivantes :
 
@@ -18,4 +18,4 @@ Dans le cas d'une délégation auprès d'une entreprise ou d'un organisme privé
 
 Lorsque la délégation est prononcée pour créer une entreprise, la convention est passée avec l'Agence nationale pour la valorisation de la recherche.
 
-La délégation peut être renouvelée dans les conditions prévues au premier alinéa du présent article lorsqu'elle est prononcée auprès d'un établissement ou d'un service d'intérêt national désigné par arrêté conjoint des ministres respectivement chargés de l'agriculture, de la fonction publique et du budget.
+La délégation prévue à la première phrase du premier alinéa du présent article peut être renouvelée dans les conditions prévues à cet alinéa.

@@ -4,7 +4,7 @@ Les professeurs sont recrutés par concours nationaux en vue de pourvoir un ou p
 
 Les candidats doivent remplir l'une des conditions suivantes :
 
-1° Etre titulaire de l'habilitation à diriger des recherches prévue à l'article 16 de la loi du 26 janvier 1984 susvisée ;
+1° Etre titulaire de l'habilitation à diriger des recherches prévue à l'article L. 612-7 du code de l'éducation ;
 
 2° Etre titulaire du doctorat d'Etat.
 
