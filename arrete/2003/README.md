@@ -527,7 +527,6 @@
 - [Arrêté du 16 avril 2003 (ECOS0350019A)](arrete-du-16-avril-2003-ecos0350019a)
 - [Arrêté du 16 décembre 2002 (AGRG0202742A)](arrete-du-16-decembre-2002-agrg0202742a)
 - [Arrêté du 16 décembre 2002 (DEFP0202475A)](arrete-du-16-decembre-2002-defp0202475a)
-- [Arrêté du 16 décembre 2003 (ECOC0300117A)](arrete-du-16-decembre-2003-ecoc0300117a)
 - [Arrêté du 16 décembre 2003 (EQUI0301525A)](arrete-du-16-decembre-2003-equi0301525a)
 - [Arrêté du 16 décembre 2003 (EQUP0301579A)](arrete-du-16-decembre-2003-equp0301579a)
 - [Arrêté du 16 décembre 2003 (EQUP0301580A)](arrete-du-16-decembre-2003-equp0301580a)
