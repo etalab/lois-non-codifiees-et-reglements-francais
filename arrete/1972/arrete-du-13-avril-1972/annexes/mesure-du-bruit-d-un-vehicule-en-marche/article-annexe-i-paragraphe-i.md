@@ -72,25 +72,87 @@ Lorsque le choix est possible, la position "conduite normale" en ville est utili
 
 La vitesse d'essai à considérer est égale aux trois quarts du maximum réalisable sur la combinaison de vitesse la plus élevée pour le déplacement sur route.
 
-4.1.5. Dispositions particulières applicables aux véhicules des titres IV et V, livre Ier du code de la route.
+" 4.1.5. Dispositions particulières applicables aux véhicules des titres IV et V, livre Ier du code de la route :
 
-4.1.5.1. Utilisation de la boîte de vitesses éventuelle.
+" 4.1.5.1. Réceptionnés par type après le 1er juin 1981 et avant le 1er octobre 1988 pour les motocycles dont la cylindrée n'excède pas 80 cm3 et pour les motocycles dont la cylindrée dépasse 175 cm3.
 
-Lorsque le véhicule est équipé d'une boîte de vitesses à commande manuelle comportant au plus quatre rapports, le deuxième rapport est enclenché.
+" Réceptionnés par type après le 1er juin 1981 et avant le 1er octobre 1989 pour les motocycles dont la cylindrée dépasse 80 cm3 sans excéder 175 cm3.
 
-Lorsque le véhicule est équipé d'une boîte de vitesses à commande manuelle comportant plus de quatre rapports :
+" Mis en circulation avant le 1er octobre 1990.
 
-Le troisième rapport est enclenché pour les véhicules dont la cylindrée ne dépasse pas 350 cm3 ;
+" 4.1.5.1.2. Utilisation de la boîte de vitesses éventuelle :
 
-Le deuxième rapport est enclenché pour les véhicules dont la cylindrée excède 350 cm3.
+" Lorsque le véhicule est équipé d'une boîte de vitesses à commande manuelle comportant au plus quatre rapports, le deuxième rapport est enclenché.
 
-Lorsque le véhicule est équipé d'une boîte de vitesses automatique munie d'un sélecteur manuel, ce sélecteur est placé dans la position immédiatement inférieure à la position correspondant à la vitesse maximale du véhicule.
+" Lorsque le véhicule est équipé d'une boîte de vitesses à commande manuelle comportant plus de quatre rapports :
 
-4.1.5.2. Vitesse d'approche.
+" Le troisième rapport est enclenché pour les véhicules dont la cylindrée ne dépasse pas 350 cm3 ;
 
-Le véhicule s'approche de la ligne AA' à une vitesse stabilisée :
+" Le deuxième rapport est enclenché pour les véhicules dont la cylindrée excède 350 cm3.
 
-Egale à 50 km/h, la vitesse de rotation du moteur étant comprise entre 50 p. 100 et 75 p. 100 du régime de puissance maximale, ou          Inférieure à 50 km/h, la vitesse de rotation du moteur étant égale à 75 p. 100 du régime de puissance maximale, ou          Supérieure à 50 km/h, la vitesse de rotation du moteur étant égale à 50 p. 100 du régime de puissance maximale.
+" Lorsque le véhicule est équipé d'une boîte de vitesses automatique munie d'un sélecteur manuel, ce sélecteur est placé dans la position immédiatement inférieure à la position correspondant à la vitesse maximale du véhicule.
+
+" 4.1.5.1.3. Vitesse d'approche :
+
+" Le véhicule s'approche de la ligne AA' à une vitesse stabilisée :
+
+" Egale à 50 kilomètres/heure, la vitesse de rotation du moteur étant comprise entre 50 p. 100 et 75 p. 100 du régime correspondant à la puissance maximale, ou
+
+" Inférieure à 50 kilomètres/heure, la vitesse de rotation du moteur étant égale à 75 p. 100 du régime correspondant à la puissance maximale, ou
+
+" Supérieure à 50 kilomètres/heure, la vitesse de rotation du moteur étant égale à 50 p. 100 du régime correspondant à la puissance maximale.
+
+" 4.1.5.2. Réceptionnés par type après le 1er octobre 1988 pour les motocycles dont la cylindrée n'excède pas 80 cm3 et pour les motocycles dont la cylindrée dépasse 175 cm3.
+
+" Réceptionnés par type après le 1er octobre 1989 pour les motocycles dont la cylindrée dépasse 80 cm3 sans excéder 175 cm3.
+
+" Mis en circulation après le 1er octobre 1990.
+
+" 4.1.5.2.1. Motocycles à boîte de vitesses non automatique.
+
+" Vitesse d'approche :
+
+" Le motocycle s'approche de la ligne AA' à une vitesse stabilisée :
+
+" Egale à 50 kilomètres/heure, ou
+
+" Correspondant à une vitesse de rotation du moteur égale à 75 p. 100 du régime correspondant à la puissance maximale.
+
+" C'est la vitesse la moins élevée qui est choisie.
+
+" Choix du rapport de boîte de vitesses :
+
+" Les motocycles, quelle que soit la cylindrée de leur moteur et équipés d'une boîte de vitesses ayant quatre rapports ou moins, sont essayés sur le deuxième rapport.
+
+" Les motocycles équipés d'un moteur d'une cylindrée ne dépassant pas 175 cm3 et d'une boîte de vitesses ayant cinq rapports ou plus sont essayés uniquement sur le troisième rapport.
+
+" Les motocycles équipés d'un moteur d'une cylindrée dépassant 175 cm3 et d'une boîte de vitesses ayant cinq rapports ou plus sont soumis à un essai sur le deuxième rapport et à un essai sur le troisième rapport. La moyenne des deux essais est retenue.
+
+" Au cas où, durant l'essai effectué sur le deuxième rapport, le régime du moteur à l'approche de la ligne de sortie de la piste d'essai dépasse 110 p. 100 du régime correspondant à la puissance maximale, l'essai est effectué sur le troisième rapport et le niveau sonore mesuré est le seul retenu en tant que résultat d'essai.
+
+" 4.1.5.2.2. Motocycles à boîte de vitesses automatique.
+
+" 4.1.5.2.2.1. Motocycles sans sélecteur manuel.
+
+" Vitesse d'approche :
+
+" Le motocycle s'approche de la ligne AA' à différentes vitesses stabilisées à 30, 40 et 50 kilomètres/heure ou à 75 p. 100 de la vitesse maximale sur route, si cette valeur est plus faible. On choisit la condition donnant le niveau sonore le plus élevé.
+
+" 4.1.5.2.2.2. Motocycles munis d'un sélecteur manuel à X positions de marche avant.
+
+" Vitesse d'approche :
+
+" Le motocycle s'approche de la ligne AA' à une vitesse stabilisée :
+
+" Inférieure à 50 km/h, la vitesse de rotation du moteur étant égale à 75 p. 100 du régime correspondant à la puissance maximale, ou
+
+" Egale à 50 km/h, la vitesse de rotation du moteur étant inférieure à 75 p. 100 du régime correspondant à la puissance maximale.
+
+" Si dans le cas où la vitesse d'approche est égale à 50 km/h, il se produit une rétrogradation en première, la vitesse d'approche du motocycle peut être augmentée jusqu'à un maximum de 60 km/h afin d'éviter la descente de rapports.
+
+" Position du sélecteur manuel :
+
+" Si le motocycle est muni d'un sélecteur manuel à X positions de marche avant, l'essai doit être effectué avec le sélecteur dans la position la plus élevée ; le dispositif volontaire de descente de rapports (par exemple le " kick-down ") ne doit pas être utilisé. Si une descente automatique de rapports se produit après la ligne AA', on recommence l'essai en utilisant la position la plus élevée - 1 et la position la plus élevée - 2, si c'est nécessaire, afin de trouver la position la plus élevée du secteur qui assure le déroulement de l'essai sans descente automatique (sans utiliser le " kick-down "). "
 
 4.1.6. Interprétation des résultats.
 

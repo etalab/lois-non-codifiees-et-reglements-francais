@@ -220,7 +220,7 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 <td> :              cylindrée n'excède pas      :                 :</td>
 </tr>
 <tr>
-<td> :              80 cm3                      :       78        :</td>
+<td> :              80 cm3                      :       75        :</td>
 </tr>
 <tr>
 <td> :       C.1.3. Motocycles dont la          :                 :</td>
@@ -229,31 +229,13 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 <td> :              cylindrée dépasse 80 cm3    :                 :</td>
 </tr>
 <tr>
-<td> :              sans excéder 175 cm3        :       80        :</td>
+<td> :              sans excéder 175 cm3        :       79        :</td>
 </tr>
 <tr>
 <td> :       C.1.4. Motocycles dont la          :                 :</td>
 </tr>
 <tr>
-<td> :              cylindrée dépasse 125 cm3   :                 :</td>
-</tr>
-<tr>
-<td> :              sans excéder 350 cm3        :       83        :</td>
-</tr>
-<tr>
-<td> :       C.1.5. Motocycles dont la          :                 :</td>
-</tr>
-<tr>
-<td> :              cylindrée dépasse 350 cm3   :                 :</td>
-</tr>
-<tr>
-<td> :              sans excéder 500 cm3        :       85        :</td>
-</tr>
-<tr>
-<td> :       C.1.6. Motocycles dont la          :                 :</td>
-</tr>
-<tr>
-<td> :              cylindrée dépasse 500 cm3   :       86        :</td>
+<td> :              cylindrée dépasse 175 cm3   :       80        :</td>
 </tr>
 <tr>
 <td> :                                          :                 :</td>
@@ -274,6 +256,6 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 
 --------------------------------------------------------------    Toutefois :
 
-- pour les véhicules des catégories A.1 et A.2, les valeurs limites sont augmentées de 1 dB (A) s'ils sont équipés d'un moteur Diesel à injection directe ;
+Pour les véhicules des catégories A 1, A 2 et A 4, les valeurs limites sont augmentées de 1 dB (A) s'ils sont équipés d'un moteur Diesel à injection directe ;
 
-- pour les véhicules de catégorie A ayant une masse maximale autorisée supérieure à 2 tonnes et qui sont conçus pour une utilisation hors route, les valeurs limites sont augmentées de 1 dB (A) s'ils sont équipés d'un moteur d'une puissance inférieure à 150 kW et de 2 dB (A) s'ils sont équipés d'un moteur d'une puissance égale ou supérieure à 150 kW.
+Pour les véhicules de catégorie A ayant une masse maximale autorisée supérieure à 2 tonnes et qui sont conçus pour une utilisation hors route, les valeurs limites sont augmentées de 1 dB (A) s'ils sont équipés d'un moteur d'une puissance inférieure à 150 kW et de 2 dB (A) s'ils sont équipés d'un moteur d'une puissance égale ou supérieure à 150 kW.

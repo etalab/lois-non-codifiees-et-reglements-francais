@@ -24,13 +24,13 @@ A titre transitoire, les valeurs du tableau figurant à l'article 1er sont rempl
 <td> :            :         :               :</td>
 </tr>
 <tr>
-<td> : A. 1       :    90   :   6 février   :</td>
+<td> : A. 1       :    83   :   6 février   :</td>
 </tr>
 <tr>
 <td> :            :         :         1973. :</td>
 </tr>
 <tr>
-<td> : A. 5       :    83   :   6 février   :</td>
+<td> : A. 5       :    90   :   6 février   :</td>
 </tr>
 <tr>
 <td> :            :         :         1973. :</td>

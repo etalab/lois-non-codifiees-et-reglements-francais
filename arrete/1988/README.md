@@ -2,6 +2,7 @@
 
 - [Arrêté du 1 juin 1987 (ASET8703409A)](arrete-du-1-juin-1987-aset8703409a)
 - [Arrêté du 2 février 1988 (BUDF8700009A)](arrete-du-2-fevrier-1988-budf8700009a)
+- [Arrêté du 2 février 1988 (DEFM8801056A)](arrete-du-2-fevrier-1988-defm8801056a)
 - [Arrêté du 2 février 1988 (PRMG8805007A)](arrete-du-2-fevrier-1988-prmg8805007a)
 - [Arrêté du 2 février 1988 (REFC8800005A)](arrete-du-2-fevrier-1988-refc8800005a)
 - [Arrêté du 3 février 1988 (BUDR8803022A)](arrete-du-3-fevrier-1988-budr8803022a)
@@ -85,6 +86,7 @@
 - [Arrêté du 26 janvier 1988 (ASEE8803074A)](arrete-du-26-janvier-1988-asee8803074a)
 - [Arrêté du 26 janvier 1988 (ASEE8803075A)](arrete-du-26-janvier-1988-asee8803075a)
 - [Arrêté du 26 janvier 1988 (ASEP8800155A)](arrete-du-26-janvier-1988-asep8800155a)
+- [Arrêté du 26 janvier 1988 (BUDF8830096A)](arrete-du-26-janvier-1988-budf8830096a)
 - [Arrêté du 26 janvier 1988 (MDSD8800039A)](arrete-du-26-janvier-1988-mdsd8800039a)
 - [Arrêté du 26 novembre 1987 (ENVN8700236A)](arrete-du-26-novembre-1987-envn8700236a)
 - [Arrêté du 26 novembre 1987 (ENVN8700237A)](arrete-du-26-novembre-1987-envn8700237a)
