@@ -219,7 +219,6 @@
 - [Arrêté du 11 avril 1989 (AGRP8900681A)](arrete-du-11-avril-1989-agrp8900681a)
 - [Arrêté du 11 décembre 1989 (BUDR8905057A)](arrete-du-11-decembre-1989-budr8905057a)
 - [Arrêté du 11 décembre 1989 (MCCE8900774A)](arrete-du-11-decembre-1989-mcce8900774a)
-- [Arrêté du 11 décembre 1989 (SPSH8902681A)](arrete-du-11-decembre-1989-spsh8902681a)
 - [Arrêté du 11 décembre 1989 (SPSS8902642A)](arrete-du-11-decembre-1989-spss8902642a)
 - [Arrêté du 11 janvier 1989 (ECOC8800092A)](arrete-du-11-janvier-1989-ecoc8800092a)
 - [Arrêté du 11 janvier 1989 (ECOD8950002A)](arrete-du-11-janvier-1989-ecod8950002a)
