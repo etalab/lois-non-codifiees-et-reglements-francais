@@ -14,4 +14,4 @@ Ce fonds est alimenté chaque année par :
 
 Les crédits prévus aux 1° et 2° du présent article ne sont pas inclus dans la dotation générale de décentralisation visée à l'article 96.
 
-Le montant global des crédits visés aux 1° et 2° du présent article évolue dans les conditions prévues à l'article 102 de la loi n° 82-213 du 2 mars 1982, précitée.
+Le montant global des crédits visés aux 1° et 2° du présent article évolue dans les conditions prévues à l'article 102 de la loi n° 82-213 du 2 mars 1982, précitée. ---Les ressources correspondant aux actions de formation professionnelle continue, mentionnées aux II de l'article 82, destinées aux jeunes de moins de vingt-six ans en vue de leur permettre d'acquérir une qualification, alimentent le fonds régional de l'apprentissage et de la formation professionnelle prévu au présent article. ---les conventions mentionnées au dernier alinéa de l'article 82 prévoient le montant des ressources attribuées par l'Etat, sans préjudice des transferts visés à l'alinéa précédent.
