@@ -4,8 +4,6 @@ L'enseignement technologique doit permettre à ceux qui le suivent l'entrée dan
 
 Des dispositions spéciales seront prises pour les enfants handicapés.
 
-Cet enseignement assure un ensemble de formations pouvant s'étendre de la troisième année du cycle moyen jusqu'à l'enseignement supérieur, inclus.
-
 Ces formations comportent un stage d'initiation ou d'application en milieu professionnel. Ce stage fera l'objet d'un contrat entre l'établissement d'enseignement et l'entreprise.
 
 Les méthodes de l'enseignement technologique peuvent comporter un enseignement à temps plein, alterné ou simultané.
