@@ -45,3 +45,5 @@ Diplôme universitaire de technologie de la spécialité Carrières de l'informa
 Diplôme d'études universitaires scientifiques et techniques des métiers du livre et des médias : Aix-Marseille-I ;
 
 Diplôme d'études universitaires scientifiques et techniques, gestion en exploitation des médiathèques : Toulouse-II.
+
+Diplôme universitaire de technologie information-communication, option Documentation d'entreprise, comprenant un enseignement d'archivistique. "
