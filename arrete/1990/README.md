@@ -498,7 +498,6 @@
 - [Arrêté du 18 septembre 1990 (PRME9061267A)](arrete-du-18-septembre-1990-prme9061267a)
 - [Arrêté du 18 mai 1990 (DEFD9001536A)](arrete-du-18-mai-1990-defd9001536a)
 - [Arrêté du 18 mai 1990 (EQUP9000758A)](arrete-du-18-mai-1990-equp9000758a)
-- [Arrêté du 19 avril 1990 (AGRS9000487A)](arrete-du-19-avril-1990-agrs9000487a)
 - [Arrêté du 19 avril 1990 (MENF9000812A)](arrete-du-19-avril-1990-menf9000812a)
 - [Arrêté du 19 décembre 1989 (LOGC8900036A)](arrete-du-19-decembre-1989-logc8900036a)
 - [Arrêté du 19 décembre 1990 (BUDZ9009143A)](arrete-du-19-decembre-1990-budz9009143a)
