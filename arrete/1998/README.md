@@ -227,7 +227,6 @@
 - [Arrêté du 7 octobre 1998 (JUSB9810333A)](arrete-du-7-octobre-1998-jusb9810333a)
 - [Arrêté du 7 octobre 1998 (MESG9823027A)](arrete-du-7-octobre-1998-mesg9823027a)
 - [Arrêté du 7 octobre 1998 (MESS9823223A)](arrete-du-7-octobre-1998-mess9823223a)
-- [Arrêté du 7 septembre 1998 (DEFD9801665A)](arrete-du-7-septembre-1998-defd9801665a)
 - [Arrêté du 7 septembre 1998 (DEFD9801667A)](arrete-du-7-septembre-1998-defd9801667a)
 - [Arrêté du 7 mai 1998 (ATEN9870178A)](arrete-du-7-mai-1998-aten9870178a)
 - [Arrêté du 7 mai 1998 (ATEN9870179A)](arrete-du-7-mai-1998-aten9870179a)
