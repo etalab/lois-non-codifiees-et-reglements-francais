@@ -235,6 +235,8 @@
 - [Décret n°99-500 du 10 juin 1999 (ECOF9900020D)](decret-n99-500-du-10-juin-1999-ecof9900020d)
 - [Décret n°99-501 du 10 juin 1999 (ECOF9900021D)](decret-n99-501-du-10-juin-1999-ecof9900021d)
 - [Décret n°99-778 du 10 septembre 1999 (PRMX9903660D)](decret-n99-778-du-10-septembre-1999-prmx9903660d)
+- [Décret n°99-784 du 10 septembre 1999 (MESH9922813D)](decret-n99-784-du-10-septembre-1999-mesh9922813d)
+- [Décret n°99-785 du 10 septembre 1999 (INTB9900213D)](decret-n99-785-du-10-septembre-1999-intb9900213d)
 - [Décret n°99-87 du 10 février 1999 (MCCB9800933D)](decret-n99-87-du-10-fevrier-1999-mccb9800933d)
 - [Décret n°99-88 du 10 février 1999 (MCCB9800934D)](decret-n99-88-du-10-fevrier-1999-mccb9800934d)
 - [Décret n°99-90 du 10 février 1999 (MAEX9800136D)](decret-n99-90-du-10-fevrier-1999-maex9800136d)
