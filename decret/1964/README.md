@@ -15,6 +15,7 @@
 - [Décret n°64-203 du 4 mars 1964](decret-n64-203-du-4-mars-1964)
 - [Décret n°64-299 du 4 avril 1964](decret-n64-299-du-4-avril-1964)
 - [Décret n°66-131 du 4 mars 1966](decret-n66-131-du-4-mars-1966)
+- [Décret n°64-1220 du 5 décembre 1964](decret-n64-1220-du-5-decembre-1964)
 - [Décret n°64-212 du 5 mars 1964](decret-n64-212-du-5-mars-1964)
 - [Décret n°64-836 du 5 août 1964](decret-n64-836-du-5-aout-1964)
 - [Décret n°64-417 du 5 mai 1964](decret-n64-417-du-5-mai-1964)

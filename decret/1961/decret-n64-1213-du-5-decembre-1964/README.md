@@ -2,4 +2,6 @@
 
 - [TITRE I : Dispositions générales.](titre-i)
 - [TITRE II : Administration de l'économat.](titre-ii)
+- [TITRE III : Régime financier et comptable.](titre-iii)
+- [TITRE IV : Dispositions diverses.](titre-iv)
 - [Article 19](article-19.md)
