@@ -1,5 +1,3 @@
 # Article 4
 
-Le montant minimum du cautionnement auquel sont astreints les agents chargés du maniement de fonds ou caissiers est fixé au montant des sommes qui leur sont confiées avant justification sans pouvoir être inférieur à 500 F ni supérieur à celui du comptable.
-
-Le montant minimum du cautionnement faisant l'objet de cet article est arrondi au multiple de 500 F immédiatement supérieur.
+Pour les agents chargés seulement d'une partie des attributions de l'agent comptable et de l'exécution de certaines opérations, notamment des vérifications, le montant minimum du cautionnement est fixé à une somme comprise entre le dixième et le quart du cautionnement minimum auquel est tenu l'agent comptable. Le montant du cautionnement des délégués est fixé par l'agent comptable en fonction de la nature des opérations qui leur sont confiées et de l'étendue des responsabilités qui leur incombent. Il figure dans l'acte de délégation du délégué signé par l'agent comptable et visé par le directeur de l'organisme.

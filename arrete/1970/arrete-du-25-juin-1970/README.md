@@ -1,4 +1,4 @@
-# Arrêté du 25 juin 1970 fixant, à titre provisoire, certaines dispositions statutaires applicables aux emplois de dactylographe des communes et des établissements publics communaux.
+# Arrêté du 25 juin 1970 coordonnant, en matière de surveillance médicale du personnel, les dispositions du décret du 13 juin 1969 relatif à l'organisation des services médicaux du travail et celles du décret du 20 aout 1946 fixant les conditions d'autorisation des établissements privés de cure et de prévention pour les soins aux assurés sociaux
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

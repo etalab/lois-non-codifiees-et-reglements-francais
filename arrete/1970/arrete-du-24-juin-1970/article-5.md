@@ -4,6 +4,4 @@ En principe, le cautionnement du comptable ainsi que de chacun des agents visés
 
 Toutefois, le cautionnement du comptable et des agents ayant reçu délégation doit être révisé chaque fois que pendant deux années consécutives le montant des recettes et des dépenses effectuées par la caisse se trouve compris dans une tranche autre que celle qui avait servi à fixer le cautionnement dans les conditions de l'article 2.
 
-Le cautionnement des agents visés à l'article 4 doit être révisé lorsque le montant des sommes qui leur sont confiées diffère de plus de 50 p. 100 du chiffre précédemment fixé.
-
 En cas de mutation des agents visés aux articles 2, 3 et 4, le cautionnement du nouvel agent devra faire l'objet d'une nouvelle détermination sur les bases du présent arrêté.
