@@ -1,0 +1,3 @@
+# Article 68-1
+
+Lorsque l'extinction d'une créance correspondant au montant d'un chèque impayé pour absence ou insuffisance de provision vaut régularisation en application du dernier alinéa de l'article 53 de la loi du 25 janvier 1985, le débiteur demande au banquier tiré d'aviser la Banque de France de cette régularisation. Il justifie à cette fin auprès du banquier tiré de l'absence de déclaration de créance et du défaut de relevé de forclusion dans le délai prévu à l'article 53 précité par la remise d'une attestation émanant du représentant des créanciers, du liquidateur, du commissaire à l'exécution du plan ou du greffier.

@@ -1,0 +1,3 @@
+# Article 153-1
+
+Si le débiteur fait l'objet d'une mesure d'interdiction d'émettre des chèques prise en application de l'article 65-3 du décret-loi du 30 octobre 1935 unifiant le droit en matière de chèques et relatif aux cartes de paiement, le liquidateur se fait remettre par la Banque de France un relevé des incidents de paiement de chèques enregistrés au nom de l'intéressé et le dépose au greffe dans un délai de trois mois suivant le jugement prononçant la clôture de la procédure pour insuffisance d'actif. Le greffier conserve ce relevé pendant dix ans à compter du jugement d'ouverture de la procédure.

@@ -1,0 +1,5 @@
+# Article 17-3
+
+Si la mesure d'interdiction d'émettre des chèques ayant fait l'objet d'une suspension en application de l'article 169-1 de la loi du 25 janvier 1985 reprend ses effets, l'ordonnance visée à l'article 154-2 du décret du 27 décembre 1985 précité est, dans les deux jours ouvrés de sa notification à la Banque de France, transmise par celle-ci à chaque banquier ayant déclaré un ou des incidents de paiement, accompagnée du relevé d'incidents communiqué par le greffier.
+
+Le tiré procède, au plus tard le deuxième jour ouvré suivant la réception de l'ordonnance et du relevé d'incidents, à un nouvel enregistrement des incidents de paiement dont il avait demandé l'annulation dans les conditions prévues à l'article 17-2.. Il transmet les nouvelles déclarations de chacun de ces incidents à la Banque de France. La mesure d'interdiction d'émettre des chèques reprend effet, pour la durée restant à courir, à compter de la délivrance du titre exécutoire visé au dernier alinéa de l'article 169 de la loi du 25 janvier 1985.
