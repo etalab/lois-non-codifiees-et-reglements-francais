@@ -70,7 +70,9 @@ Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-1° La Bourne ; la Joyeuse ; la Savasse, à l'exception des étangs de Chaleyre (commune de Peyrins) ; la Béore ; la Cerne, en amont de l'ancien viaduc du chemin de fer départemental (communes de Jaillans et de Beauregard-Barret) ; le Chalon, l'Herbasse, en amont du pont de la R.N. 532 (commune de Clériaux), la Veaunes.
+1° La Bourne ; la Joyeuse ; la Savasse, à l'exception des étangs de Chaleyre (commune de Peyrins) ; la Béore ; la Cerne, en amont de l'ancien viaduc du chemin de fer départemental (communes de Jaillans et de Beauregard-Barret) ; le Chalon, l'Herbasse, en amont
+
+du pont de la R.N. 532 (commune de Clériaux), la Veaunes.
 
 2° La Drôme, en amont du pont de Sainte-Croix ;
 
@@ -118,7 +120,9 @@ b) De la partie comprise entre les barrages de Tierrouge (papeterie) et de Beaul
 
 c) Du bras du Ciron, rive droite, compris entre le lieudit Pointe-de-Cheveau, à l'amont et le barrage de Quanche, à l'aval sur une longueur de 2 700 mètres environ, y compris le bras mort de la Bouline, sur une longueur de 500 mètres environ (commune de Preignac) ;
 
-d) De son confluent avec la Bardine, en amont au barrage de la Trave en aval (commune d'Uzeste et de Prechac) ;
+d) De son confluent avec la Bardine, en amont au barrage de la
+
+Trave en aval (commune d'Uzeste et de Prechac) ;
 
 e) Du pont de chemin de fer économique en amont au barrage de Villandraut en aval (commune de Villandraut) ;
 
@@ -294,41 +298,45 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie :
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
-83 Département du Var
+83. Département du Var
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
-1° L'Argens en amont de son confluent avec le Caramy.
+1° L'Argens en amont de son confluent avec le Caramy ;
 
-2° Le Caramy en amont de l'écluse des Laurons (commune de Vins).
+2° Le Caramy en amont de l'écluse de Laurons (commune de Vins) ;
 
-3° L'Issole en amont du pont de la R.D. 24, à la station de pompage du barrage de Carcès, à l'exception du lac de Besse.
+3° L'Issole en amont du pont de la R.D. 24, à la station de pompage du barrage de Carcès, à l'exception du lac de Besse ;
 
-4° Les affluents de la rive gauche de l'Argens en amont de la Nartuby, celle-ci comprise : la Nartuby, le Florieyes, le Bresque, le Cassole, l'Eau Salée.
+4° Les affluents de la rive gauche de l'Argens en amont de la Nartuby (celle-ci comprise) : la Nartuby, la Florieyes, le Bresque, le Cassole, l'Eau Salée ;
 
-5° Le Gapeau en amont de la route nationale 97 à Solliès-Pont ; le Réal-Martin en amont du pont de la Portanière et son affluent le Béal.
+5° Le Gapeau en amont de la route nationale 97 à Solliès-Pont ; Le Réal-Martin en amont du pont de la Portanière et son affluent le Béal ;
 
-6° La Siagne en amont du Vieux Pont de Tanneron et son affluent le Briançon (ou Riou-Blanc) en amont des sources de la Foux.
+6° La Siagne en amont du Vieux-Pont-de-Tanneron et son affluent le Briançon (ou Riou-Blanc) en amont des sources de la Foux ;
 
-7° L'Huveaune.
+7° L'Huveaune ;
 
 8° Le Verdon, à l'exception :
 
-- du lac de retenue de Gréoux-les-Bains depuis le pied du barrage de Quinson en amont jusqu'au barrage de Gréoux-les-Bains en aval ;
+- du lac de Sainte-Croix depuis le pont du Galetas sur le CD n° 957 à l'amont jusqu'au barrage de Sainte-Croix à l'aval ;
 
-- du bassin de compensation du barrage de Gréoux-les-Bains depuis la queue de la retenue en amont jusqu'au déversoir à la hauteur du village de Gréoux-les-Bains en aval ;
+- du lac de Quinson depuis le pied du barrage de Sainte-Croix à l'amont jusqu'au barrage de Quinson à l'aval ;
 
-- du lac de retenue de Sainte-Croix depuis le pont du Galetas sur le C.D. 957 à l'amont jusqu'au barrage de Sainte-Croix à l'aval.
+- du lac de retenue de Gréoux-les-Bains depuis le pied du barrage du Quinson en amont, jusqu'au barrage de Gréoux-les-Bains en aval ;
 
-9° Les affluents rive gauche du Verdon : la Malaurie, l'Artuby, le Jabron.
+- du bassin de compensation du barrage de Gréoux-les-Bains depuis la queue de la retenue en amont jusqu'au déversoir à hauteur du village de Gréoux-les-Bains en aval.
 
-10° Le ruisseau de Saint-Paul-lès-Durance ; le Réal ou ruisseau de Rians (affluents de la Durance).
+9° Les affluents rive gauche du Verdon : la Malaurie, l'Artuby, le Jabron ;
+
+10° Le ruisseau de Saint-Paul-lès-Durance ; le Réal ou ruisseau de
+
+Rians (affluents de la Durance) ;
 
 11° Les affluents et sous-affluents des cours d'eau ou portions de cours d'eau désignés ci-dessus, à l'exception :
 
-- des affluents du Verdon se jetant dans le lac de retenu de Gréoux-les-Bains ;
+- des affluents du Verdon se jetant dans le lac de retenue de Gréoux-les-Bains ;
 
-- de la partie du Biançon comprise entre le confluent avec la Siagne et les sources de la Foux, lac de Saint-Cassien compris.
+- de la partie du Briançon comprise entre le confluent avec la Siagne et les sources de la Foux, lac de Saint-Cassien compris.
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
