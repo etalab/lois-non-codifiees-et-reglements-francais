@@ -875,6 +875,8 @@
 - [Décret n°92-1237 du 24 novembre 1992 (PRMX9210496D)](decret-n92-1237-du-24-novembre-1992-prmx9210496d)
 - [Décret n°92-1351 du 24 décembre 1992 (MENB9200453D)](decret-n92-1351-du-24-decembre-1992-menb9200453d)
 - [Décret n°92-1352 du 24 décembre 1992 (INTX9210597D)](decret-n92-1352-du-24-decembre-1992-intx9210597d)
+- [Décret n°92-1354 du 24 décembre 1992 (SPSS9203058D)](decret-n92-1354-du-24-decembre-1992-spss9203058d)
+- [Décret n°92-1355 du 24 décembre 1992 (SANH9202480D)](decret-n92-1355-du-24-decembre-1992-sanh9202480d)
 - [Décret n°92-170 du 24 février 1992 (BUDZ9200001D)](decret-n92-170-du-24-fevrier-1992-budz9200001d)
 - [Décret n°92-188 du 24 février 1992 (MJSK9270002D)](decret-n92-188-du-24-fevrier-1992-mjsk9270002d)
 - [Décret n°92-262 du 24 mars 1992 (PRMX9210073D)](decret-n92-262-du-24-mars-1992-prmx9210073d)
