@@ -1,5 +1,7 @@
 # Article 18
 
-Le diplôme universitaire de technologie, portant mention de la délibération du jury, de la spécialité correspondante, et s'il y a lieu, de l'option suivie, est décerné sur proposition du jury, d'après l'ensemble des notes et appréciations obtenues, au cours de la deuxième année, pour chaque centre d'intérêt.
+Les jurys constitués en vue de l'admission en deuxième année et de la délivrance du diplôme universitaire de technologie sont désignés par le président de l'université sur proposition du directeur de l'institut universitaire de technologie. Ces jurys sont présidés par le directeur de l'institut universitaire de technologie et comprennent les chefs de département, des enseignants-chercheurs, des enseignants, des chargés d'enseignement et des personnalités extérieures exerçant des fonctions en relation étroite avec la spécialité concernée, choisies dans les conditions prévues à l'article 17 de la loi du 26 janvier 1984 susvisée.
 
-Le diplôme universitaire de technologie est délivré par le président de l'université à tous les candidats qui ont obtenu une moyenne générale égale ou supérieure à 10 sur 20, sauf modalités particulières fixées par arrêté ministériel sur proposition de la commission pédagogique nationale compétente.
+Ces jurys siègent séparément et prennent des décisions distinctes pour l'admission en seconde année et pour l'attribution du diplôme universitaire de technologie, y compris dans le cas où ils sont composés des mêmes personnes.
+
+Ces jurys peuvent constituer des sous-commissions correspondant aux divers départements de l'institut universitaire de technologie et présidées par le chef du département concerné.
