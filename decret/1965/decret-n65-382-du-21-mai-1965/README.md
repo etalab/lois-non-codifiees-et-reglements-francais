@@ -4,6 +4,7 @@
 - [Congédiement - Délais-congés.](congediement)
 - [Hygiéne - Sécurité - Médecine du travail.](hygiene)
 - [Rémunérations - Indemnités.](remunerations)
+- [Stage - Titularisation.](stage)
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Arrêt momentané du travail en cas de réparation du matériel ou pour causes accidentelles.](arret-momentane-du-travail-en-cas)
