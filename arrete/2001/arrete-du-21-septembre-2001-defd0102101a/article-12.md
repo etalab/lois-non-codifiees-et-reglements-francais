@@ -1,0 +1,3 @@
+# Article 12
+
+Le chef d'état-major des armées, le délégué général pour 1'armement, le secrétaire général pour l'administration, le chef d'état-major de l'armée de terre, le chef d'état-major de la marine, le chef d'état-major de l'armée de l'air, le directeur général de la sécurité extérieure, le directeur général de la gendarmerie nationale, le directeur central du service de santé des armées, le directeur central du service des essences des armées, le directeur de DCN, le directeur central du génie, le directeur central des travaux immobiliers et maritimes et le directeur central de l'infrastructure de l'air sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
