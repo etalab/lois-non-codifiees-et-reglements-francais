@@ -106,7 +106,6 @@
 - [Arrêté du 21 décembre 1984](arrete-du-21-decembre-1984)
 - [Arrêté du 21 février 1984](arrete-du-21-fevrier-1984)
 - [Arrêté du 21 juillet 1983](arrete-du-21-juillet-1983)
-- [Arrêté du 21 juin 1984](arrete-du-21-juin-1984)
 - [Arrêté du 21 mars 1984](arrete-du-21-mars-1984)
 - [Arrêté du 21 novembre 1983](arrete-du-21-novembre-1983)
 - [Arrêté du 21 septembre 1984](arrete-du-21-septembre-1984)
