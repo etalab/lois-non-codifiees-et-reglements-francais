@@ -3,6 +3,5 @@
 - [CHAPITRE I : Dispositions générales.](chapitre-i)
 - [CHAPITRE II : Recrutement et avancement.](chapitre-ii)
 - [CHAPITRE III : Positions - Discipline.](chapitre-iii)
-- [CHAPITRE IV : Réserves.](chapitre-iv)
 - [CHAPITRE V : Dispositions transitoires.](chapitre-v)
 - [Article 26](article-26.md)
