@@ -1,3 +1,11 @@
 # Article 1
 
-II est créé au plan national un brevet des métiers d'art Ebéniste. Ce diplôme est classé au niveau IV de la nomenclature interministérielle des niveaux de formation utilisée par la commission technique d'homologation des titres et des diplômes de l'enseignement technologique et dans le groupe 36 de la nomenclature analytique des formations relevant du ministère de l'éducation nationale.
+A compter du 1er septembre 1986, le taux de la taxe est fixé comme suit :
+
+0,59 F par quintal de fruits à cidre et à poiré ;
+
+0,78 F par hectolitre de cidre et de poiré ou par hectolitre de moûts de pommes et de poires ;
+
+14,94 F par hectolitre d'alcool pur pour les calvados et les eaux-de-vie de cidre et de poiré.
+
+Elle est supportée par l'acheteur et le vendeur chacun pour moitié.

@@ -1,6 +1,7 @@
 # Professeur d'école municipale de musique contrôlée par l'Etat (conservatoires nationaux de région et écoles nationales de musique)
 
 - [Article Annexe 2](article-annexe-2.md)
+- [Article Annexe 2 D](article-annexe-2-d.md)
 - [Professeur de flûte à bec](professeur-de-flute-a-bec)
 - [Certificat d'aptitude complémentaire aux fonctions de professeur de formation musicale](certificat-d-aptitude-complementaire-aux)
 - [Certificat d'aptitude complémentaire](certificat-d-aptitude-complementaire)

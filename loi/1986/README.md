@@ -36,5 +36,6 @@
 - [Loi n° 86-972 du 19 août 1986](loi-n-86-972-du-19-aout-1986)
 - [Loi n°72-12 du 3 janvier 1972](loi-n72-12-du-3-janvier-1972)
 - [Loi n°75-602 du 10 juillet 1975](loi-n75-602-du-10-juillet-1975)
+- [Loi n°86-1115 du 15 octobre 1986](loi-n86-1115-du-15-octobre-1986)
 - [Loi n°86-19 du 6 janvier 1986](loi-n86-19-du-6-janvier-1986)
 - [Loi n°86-75 du 17 janvier 1986](loi-n86-75-du-17-janvier-1986)

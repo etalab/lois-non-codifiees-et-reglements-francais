@@ -8,6 +8,4 @@ Le brevet des métiers d'art Ebéniste est délivré aux candidats ayant obtenu 
 
 Les points supérieurs à la moyenne obtenus à l'épreuve facultative sont pris en compte dans le total des points obtenus aux épreuves de l'ensemble des trois unités.
 
-Toute note inférieure à 5 sur 20 maintenue par le jury est éliminatoire.
-
 L'obtention d'une moyenne égale ou supérieure à 10 sur 20 à l'ensemble des épreuves d'une même unité, sans note éliminatoire, permet d'en conserver le bénéfice durant cinq sessions.

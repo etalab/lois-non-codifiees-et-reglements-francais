@@ -1,3 +1,3 @@
 # Article 2
 
-Ce diplôme sanctionne l'acquisition des compétences professionnelles décrites en annexe I, impliquant une formation du secteur des arts appliqués dont les composantes sont définies en annexe II et contrôlées dans les conditions prévues en annexe III (I).
+Le directeur général des impôts au ministère du budget et le directeur des industries agricoles et alimentaires au ministère de l'agriculture sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
