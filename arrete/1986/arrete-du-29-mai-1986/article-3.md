@@ -1,3 +1,3 @@
 # Article 3
 
-Le délégué à la formation professionnelle est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'insigne fourni par le Conseil supérieur de la pêche se porte sur la poitrine, côté gauche.
