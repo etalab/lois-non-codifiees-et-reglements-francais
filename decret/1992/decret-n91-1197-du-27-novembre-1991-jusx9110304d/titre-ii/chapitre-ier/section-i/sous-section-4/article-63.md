@@ -6,8 +6,4 @@ L'élève qui méconnaît les obligations résultant du présent décret ou du r
 
 2° Le blâme ;
 
-3° L'exclusion temporaire du centre pour une durée d'un mois au plus ;
-
-4° L'interdiction de se présenter à l'examen d'aptitude à la profession d'avocat avec obligation d'accomplir une autre année de formation ;
-
-5° L'exclusion définitive du centre, assortie ou non de l'interdiction d'être admis dans tout autre centre.
+3° L'exclusion temporaire du centre pour une durée de six mois au plus.
