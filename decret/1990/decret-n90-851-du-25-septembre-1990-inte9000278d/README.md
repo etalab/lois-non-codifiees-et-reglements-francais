@@ -5,4 +5,5 @@
 - [CHAPITRE III : Nomination, formation initiale et titularisation.](chapitre-iii)
 - [CHAPITRE IV : Avancement.](chapitre-iv)
 - [CHAPITRE V : Constitution initiale du cadre d'emplois et autres dispositions transitoires.](chapitre-v)
+- [Chapitre VI : Dispositions relatives aux titulaires de pensions accordées en application du décret n° 65-773 du 9 septembre 1965 relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales](chapitre-vi)
 - [Article 27](article-27.md)
