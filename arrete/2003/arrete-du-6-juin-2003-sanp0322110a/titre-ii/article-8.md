@@ -1,0 +1,3 @@
+# Article 8
+
+En sus du nombre de places affectées annuellement à chaque école et dans la limite de 10 % de ce contingent, les candidats titulaires d'un diplôme, certificat ou titre étranger non validé pour l'exercice en France mais permettant dans le pays dans lequel il a été délivré d'exercer la profession de sage-femme et les candidats dont la nationalité n'ouvre pas droit à l'exercice de la profession en France peuvent être admis dans une école de cadres de sages-femmes par classement sur une liste supplémentaire distincte, après avoir subi, dans les mêmes conditions d'inscription et d'évaluation, les épreuves de sélection prévues à l'article 12 du présent arrêté.

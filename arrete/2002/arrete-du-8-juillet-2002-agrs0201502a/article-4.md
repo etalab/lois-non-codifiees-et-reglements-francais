@@ -10,4 +10,4 @@ Les catégories d'animaux retenues pour calculer le chargement des exploitations
 
 - brebis mères, antenaises âgées au moins de 1 an : 0,15 UGB ; chèvres mères, femelles de l'espèce caprine âgées au moins de 1 an :
 
-0,15 UGB. Les ovins et les caprins retenus sont ceux déclarés à la prime au maintien du troupeau de brebis (PMTB) en 2002 par une demande déposée dans les délais par un producteur éligible à la PMTB.
+0,15 UGB. Les ovins et les caprins retenus sont ceux déclarés à la prime à la brebis et à la chèvre (PBC), pour l'année en cours par une demande déposée dans les délais par un producteur éligible à la PBC. En zone défavorisée simple et piémont, les caprins retenus sont ceux déclarés sur le formulaire ICHN.

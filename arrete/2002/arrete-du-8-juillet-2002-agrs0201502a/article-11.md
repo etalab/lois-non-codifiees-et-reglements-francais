@@ -1,3 +1,3 @@
 # Article 11
 
-Les communes citées en annexe II des départements de l'Aude, de la Haute-Corse, des Hautes-Pyrénées, de l'Isère, du Rhône et de la Haute-Vienne sont reclassées.
+Les communes citées en annexe sont classées en zone défavorisée simple, en zone de montagne sèche, en zone de montagne et en zone de haute montagne.

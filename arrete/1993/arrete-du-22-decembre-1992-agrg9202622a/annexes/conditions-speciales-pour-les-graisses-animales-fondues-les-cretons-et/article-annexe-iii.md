@@ -34,6 +34,8 @@ k) Si les cretons sont destinés à la consommation humaine, des installations a
 
 Par ailleurs, les tissus adipeux provenant de ruminants qui ont été collectés séparément à l'abattoir avant la fente de la colonne vertébrale de la carcasse et introduits au sein d'un établissement préparant des graisses animales fondues doivent être utilisés exclusivement pour la fabrication de graisses animales fondues.
 
+Par dérogation particulière au premier alinéa, accordée par le ministre en charge de l'agriculture qui en précisera les modalités par instruction, l'introduction de tissus adipeux provenant de ruminants qui ont été collectés séparément après la fente de la carcasse est autorisée au sein d'un établissement préparant des graisses animales fondues. Ces tissus adipeux collectés après la fente ne pourront servir qu'à la fabrication de graisses à usage non alimentaire, dans des installations exclusivement réservées à cette production.
+
 B. - Critères d'hygiène supplémentaires relatifs à la préparation des graisses animales fondues, des cretons et des sous-produits.
 
 1. Les matières premières doivent provenir d'animaux qui, après l'inspection ante et post mortem, ont été jugés propres la consommation humaine.
