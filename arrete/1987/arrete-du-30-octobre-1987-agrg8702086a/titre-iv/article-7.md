@@ -1,0 +1,5 @@
+# Article 7
+
+L'importation sous tous régimes douaniers autres que le transit de frontière à frontière sans rupture de charge dans le territoire douanier de plantes et parties de plantes d'espèces fruitières ou ornementales des espèces Cydonia oblonga Mill. et Pyrus communis L. (n° 06-02 A Ex II et 06-02 Ex D du tarif des douanes) est autorisée sous réserve, outre du respect des conditions énoncées pour ces mêmes produits à l'article 1er pour certaines origines ou provenances ci-dessus, du respect de la condition suivante :
+
+Tout envoi sera accompagné d'un certificat phytosanitaire du modèle prévu par la convention internationale pour la protection des végétaux mentionnant chaque espèce sous son nom botanique et établi après constatation officielle que, lors des inspections effectuées pendant les trois dernières périodes complètes de végétation, les végétaux du champ de production et de ses environs immédiats n'ont pas montré de symptômes les rendant suspects d'une contamination par le Pear decline mycoplasma.
