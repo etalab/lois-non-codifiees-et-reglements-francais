@@ -417,6 +417,7 @@
 - [Décret n°2004-291 du 25 mars 2004 (ECOP0400020D)](decret-n2004-291-du-25-mars-2004-ecop0400020d)
 - [Décret n°2004-609 du 25 juin 2004 (PRMX0400077D)](decret-n2004-609-du-25-juin-2004-prmx0400077d)
 - [Décret n°2004-613 du 25 juin 2004 (SANA0421055D)](decret-n2004-613-du-25-juin-2004-sana0421055d)
+- [Décret n°2004-615 du 25 juin 2004 (INTB0400165D)](decret-n2004-615-du-25-juin-2004-intb0400165d)
 - [Décret n°2004-467 du 25 mai 2004 (ECOF0400020D)](decret-n2004-467-du-25-mai-2004-ecof0400020d)
 - [Décret n°2004-468 du 25 mai 2004 (ECOF0400026D)](decret-n2004-468-du-25-mai-2004-ecof0400026d)
 - [Décret n°2004-469 du 25 mai 2004 (ECOF0400028D)](decret-n2004-469-du-25-mai-2004-ecof0400028d)
