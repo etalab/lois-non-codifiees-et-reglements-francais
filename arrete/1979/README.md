@@ -27,6 +27,7 @@
 - [Arrêté du 20 mars 1979](arrete-du-20-mars-1979)
 - [Arrêté du 21 février 1979](arrete-du-21-fevrier-1979)
 - [Arrêté du 22 décembre 1978](arrete-du-22-decembre-1978)
+- [Arrêté du 23 avril 1979](arrete-du-23-avril-1979)
 - [Arrêté du 23 janvier 1979](arrete-du-23-janvier-1979)
 - [Arrêté du 24 novembre 1978](arrete-du-24-novembre-1978)
 - [Arrêté du 25 avril 1979](arrete-du-25-avril-1979)
