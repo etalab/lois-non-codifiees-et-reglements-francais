@@ -430,7 +430,6 @@
 - [Arrêté du 15 janvier 2002 (MENF0102686A)](arrete-du-15-janvier-2002-menf0102686a)
 - [Arrêté du 15 janvier 2002 (RECF0100349A)](arrete-du-15-janvier-2002-recf0100349a)
 - [Arrêté du 15 janvier 2002 (RECF0100352A)](arrete-du-15-janvier-2002-recf0100352a)
-- [Arrêté du 15 mars 2002 (AGRG0200503A)](arrete-du-15-mars-2002-agrg0200503a)
 - [Arrêté du 15 mars 2002 (AGRG0200504A)](arrete-du-15-mars-2002-agrg0200504a)
 - [Arrêté du 15 mars 2002 (AGRG0200524A)](arrete-du-15-mars-2002-agrg0200524a)
 - [Arrêté du 15 mars 2002 (AGRG0200525A)](arrete-du-15-mars-2002-agrg0200525a)
