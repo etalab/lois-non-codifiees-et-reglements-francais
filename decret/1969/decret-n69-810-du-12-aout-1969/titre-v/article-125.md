@@ -20,4 +20,6 @@ Les dispositions des articles 120 et 121 ne sont pas applicables aux :
 
 9° Offices publics d'aménagement et de construction soumis aux règles de la comptabilité des entreprises de commerce régis par les articles L. 411-1-1 et suivants du code de la construction et de l'habitation.
 
+10° Organismes de mutualité sociale agricole mentionnés aux articles 1002 à 1002-4 du code rural.
+
 Le montant des honoraires est alors fixé d'un commun accord entre le commissaire aux comptes et la personne morale, eu égard à l'importance effective du travail nécessaire à l'accomplissement de la mission légale de contrôle.
