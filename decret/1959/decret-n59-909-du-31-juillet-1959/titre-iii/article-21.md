@@ -1,3 +1,0 @@
-# Article 21
-
-Pour chaque campagne céréalière, un arrêté du ministre des finances et des affaires économiques, du ministre de l'agriculture et éventuellement du ministre chargé de l'Algérie, du ministre chargé du Sahara pourra fixer les conditions de dénaturation et de circulation des blés et, éventuellement, des autres céréales destinées à l'alimentation animale, ainsi que les conditions dans lesquelles, lorsqu'il y aura application du quantum, les producteurs de blé auront la possibilité de reprendre, pour les besoins exclusifs de leurs exploitations, de blé dénaturé en contrepartie des quantités en dehors du quantum.

@@ -1,3 +1,0 @@
-# Article *2
-
-Les bonis de liquidation du comité professionnel de la semoulerie et de la caisse professionnelle de l'industrie semoulière seront transférés à un compte spécial de l'office national interprofessionnel des céréales. Ces bonis pourront, sur décision conjointe du ministre de l'agriculture et du ministre des finances et des affaires économiques, prise après consultation de la commission consultative de la semoulerie prévue à l'article suivant, être affectés au financement de toutes mesures propres à faciliter le stockage des matières premières ainsi qu'à améliorer les conditions de production, de vente et d'exportation des semoules.

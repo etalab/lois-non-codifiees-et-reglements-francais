@@ -20,7 +20,6 @@
 - [Décret n°47-539 du 25 mars 1947](decret-n47-539-du-25-mars-1947)
 - [Décret n°47-554 du 26 mars 1947](decret-n47-554-du-26-mars-1947)
 - [Décret n°46-2769 du 27 novembre 1946](decret-n46-2769-du-27-novembre-1946)
-- [Décret n°47-561 du 27 mars 1947](decret-n47-561-du-27-mars-1947)
 - [Décret du 28 décembre 1946](decret-du-28-decembre-1946)
 - [Décret du 28 février 1947](decret-du-28-fevrier-1947)
 - [Décret du 28 juin 1947](decret-du-28-juin-1947)

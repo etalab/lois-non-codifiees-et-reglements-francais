@@ -1,3 +1,0 @@
-# Article 3
-
-Les bonis de liquidation de la caisse professionnelle de l'industrie meunière, y compris ceux du comité professionnel et ceux provenant de l'office professionnel de la meunerie, seront transférés à un compte spécial de l'office national interprofessionnel des céréales. Ces bonis pourront, après consultation de la commission consultative de la meunerie prévue à l'article suivant, être affectés au développement de l'enseignement professionnel et de la recherche scientifique en matière de meunerie, avec l'autorisation du ministre de l'agriculture et du ministre des finances et des affaires économiques.

@@ -1,5 +1,0 @@
-# Article 1
-
-Les établissements de l'élevage, institués par l'article 13 de la loi du 28 décembre 1966 susvisée, sont constitués sous la forme soit d'un établissement départemental ou interdépartemental d'utilité agricole créé par les chambres d'agriculture intéressées, soit d'une association régie par la loi du 1er juillet 1901.
-
-Toutefois, le ministre de l'agriculture peut conférer la qualité d'établissement de l'élevage à des organismes constitués selon d'autres formes juridiques, sous réserve que leurs statuts et règlements intérieurs garantissent la possibilité d'accès à l'établissement de tous groupements formés entre éleveurs en vue de la réalisation en commun d'actions intéressant l'élevage et ayant une activité suffisante dans la circonscription de l'établissement. Un arrêté du ministre de l'agriculture et du ministre de l'économie et des finances précise les modalités d'application aux établissements de l'élevage visés par le présent alinéa des articles 5 et 9 à 12 ainsi que du titre III du présent décret.
