@@ -260,7 +260,6 @@
 - [Arrêté du 6 décembre 1995 (ENVN9540323A)](arrete-du-6-decembre-1995-envn9540323a)
 - [Arrêté du 6 décembre 1995 (ENVN9540373A)](arrete-du-6-decembre-1995-envn9540373a)
 - [Arrêté du 6 décembre 1995 (ENVN9540374A)](arrete-du-6-decembre-1995-envn9540374a)
-- [Arrêté du 6 décembre 1995 (EQUS9501818A)](arrete-du-6-decembre-1995-equs9501818a)
 - [Arrêté du 6 décembre 1995 (EQUT9501821A)](arrete-du-6-decembre-1995-equt9501821a)
 - [Arrêté du 6 décembre 1996 (AGRA9601867A)](arrete-du-6-decembre-1996-agra9601867a)
 - [Arrêté du 6 février 1995 (ACVE9550003A)](arrete-du-6-fevrier-1995-acve9550003a)
