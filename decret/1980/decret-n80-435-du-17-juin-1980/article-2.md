@@ -1,0 +1,3 @@
+# Article 2
+
+Bénéficient de l'exonération prévue à l'article 13 (7ème alinéa) de l'ordonnance n° 67-706 du 21 août 1967 modifiée ainsi qu'aux articles L. 3-2 (2ème alinéa) du code de la sécurité sociale et 1031 (3ème alinéa) du code rural, pour la période allant du 1er juillet d'une année au 30 juin de l'année suivante [*condition d'attribution*], les personnes appartenant à un foyer fiscal dont les ressources au titre de l'avant-dernière année civile précédant le début de la période de douze mois définie ci-dessus donnent lieu, en raison de leur montant, soit à exonération de l'impôt sur le revenu, soit à exemption du paiement de cet impôt en application de l'article 1657-1 bis du code général des impôts.

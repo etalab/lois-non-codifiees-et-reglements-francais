@@ -49,6 +49,8 @@
 - [Décret n°80-285 du 17 avril 1980](decret-n80-285-du-17-avril-1980)
 - [Décret n°80-31 du 17 janvier 1980](decret-n80-31-du-17-janvier-1980)
 - [Décret n°80-33 du 17 janvier 1980](decret-n80-33-du-17-janvier-1980)
+- [Décret n°80-434 du 17 juin 1980](decret-n80-434-du-17-juin-1980)
+- [Décret n°80-435 du 17 juin 1980](decret-n80-435-du-17-juin-1980)
 - [Décret n°80-154 du 18 février 1980](decret-n80-154-du-18-fevrier-1980)
 - [Décret n°80-156 du 18 février 1980](decret-n80-156-du-18-fevrier-1980)
 - [Décret du 19 février 1980](decret-du-19-fevrier-1980)
