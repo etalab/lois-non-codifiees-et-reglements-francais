@@ -654,7 +654,6 @@
 - [Décret n°93-436 du 24 mars 1993 (MENF9304072D)](decret-n93-436-du-24-mars-1993-menf9304072d)
 - [Décret n°93-437 du 24 mars 1993 (MENF9304674D)](decret-n93-437-du-24-mars-1993-menf9304674d)
 - [Décret n°93-438 du 24 mars 1993 (MENF9304676D)](decret-n93-438-du-24-mars-1993-menf9304676d)
-- [Décret n°93-439 du 24 mars 1993 (MENF9304678D)](decret-n93-439-du-24-mars-1993-menf9304678d)
 - [Décret n°93-440 du 24 mars 1993 (MENF9304680D)](decret-n93-440-du-24-mars-1993-menf9304680d)
 - [Décret n°93-441 du 24 mars 1993 (MENF9304761D)](decret-n93-441-du-24-mars-1993-menf9304761d)
 - [Décret n°93-442 du 24 mars 1993 (MENF9304763D)](decret-n93-442-du-24-mars-1993-menf9304763d)
