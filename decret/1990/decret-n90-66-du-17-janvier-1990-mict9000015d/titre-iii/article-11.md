@@ -1,6 +1,6 @@
 # Article 11
 
-Jusqu'au 31 décembre 1991 :
+Jusqu'au 31 mars 1992 :
 
 I. - Sont assimilées aux oeuvres audiovisuelles d'expression originale française les oeuvres audiovisuelles qui ont bénéficié du soutien financier de l'Etat à l'industrie des programmes audiovisuels prévu par le décret n° 86-175 du 6 février 1986 susvisé.
 
