@@ -612,7 +612,6 @@
 - [Arrêté du 25 août 1987 (ASES8701215A)](arrete-du-25-aout-1987-ases8701215a)
 - [Arrêté du 25 août 1987 (ECOC8700032A)](arrete-du-25-aout-1987-ecoc8700032a)
 - [Arrêté du 25 août 1987 (RESY8700494A)](arrete-du-25-aout-1987-resy8700494a)
-- [Arrêté du 25 février 1987 (ASET8703155A)](arrete-du-25-fevrier-1987-aset8703155a)
 - [Arrêté du 25 février 1987 (DEFP8701163A)](arrete-du-25-fevrier-1987-defp8701163a)
 - [Arrêté du 25 février 1987 (INDG8700177A)](arrete-du-25-fevrier-1987-indg8700177a)
 - [Arrêté du 25 février 1987 (INDG8700178A)](arrete-du-25-fevrier-1987-indg8700178a)
