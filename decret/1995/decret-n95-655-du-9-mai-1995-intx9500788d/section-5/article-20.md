@@ -1,22 +1,16 @@
 # Article 20
 
-Les commissaires principaux de police et les commissaires divisionnaires de police sont reclassés dans le corps de conception et de direction de la police nationale à identité de grade et d'échelon conformément au tableau suivant :
+Les commissaires principaux de police et les commissaires divisionnaires de police sont reclassés dans le corps de conception et de direction de la police nationale conformément au tableau suivant :
 
-SITUATION
+SITUATION ANCIENNE
 
-ancienne
+Grade et échelons
 
-Grades et échelons
-
-SITUATION
-
-nouvelle
+SITUATION NOUVELLE
 
 Grades et échelons
 
-ANCIENNETÉ
-
-dans l'échelon
+ANCIENNETÉ dans l'échelon
 
 Commissaire divisionnaire de police
 
@@ -26,41 +20,15 @@ Commissaire divisionnaire de police
 
 3e
 
-Ancienneté conservée.
+Ancienneté conservée majorée de 1 an.
 
-2e
-
-2e
-
-Ancienneté conservée.
-
-1er
-
-1er
-
-Ancienneté conservée.
-
-Commissaire principal
-
-de police
-
-Commissaire principal
-
-de police
-
-4e
-
-4e
-
-Ancienneté conservée.
+2e échelon avec 2 ans d'ancienneté ou plus.
 
 3e
 
-3e
+Ancienneté dans le 2e échelon au-delà de 2 ans reportée dans le 3e échelon.
 
-Ancienneté conservée.
-
-2e
+2e échelon avec moins de 2 ans d'ancienneté.
 
 2e
 

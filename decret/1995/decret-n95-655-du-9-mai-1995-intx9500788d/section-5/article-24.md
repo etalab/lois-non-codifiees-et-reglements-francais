@@ -12,23 +12,21 @@ Grades et échelons
 
 Commissaire divisionnaire de police
 
-Emploi fonctionnel Commissaire divisionnaire
-
-de police
+Emploi fonctionnel Commissaire divisionnaire de police
 
 2 HEA 3
 
-2 HEA 3
+HEA 3
 
 2 HEA 2
 
-2 HEA 2
+HEA 2
 
 2 HEA 1
 
 Echelon fonctionnel
 
-2 HEA 1
+HEA 1
 
 1er échelon
 
@@ -102,4 +100,4 @@ Exceptionnel
 
 1er échelon
 
-Les pensions des fonctionnaires mis à la retraite avant la date de publication du présent décret et celles de leurs ayants droit sont révisées à compter de la date de son application aux personnels en activité.
+Les pensions des fonctionnaires mis à la retraite avant la date mentionnée à l'article 26 du présent décret et celles de leurs ayants droit sont révisées à compter de cette date.

@@ -6,7 +6,7 @@ Peuvent être inscrits au tableau d'avancement :
 
 1° Pour l'accès au grade de commissaire principal de police :
 
-Les commissaires de police ayant atteint au moins le 6e échelon et comptant au 31 décembre de l'année pour laquelle le tableau est dressé au moins sept ans de services effectifs en qualité de titulaire.
+Les commissaires de police comptant au 31 décembre de l'année pour laquelle le tableau est dressé au moins sept ans de services effectifs en qualité de titulaire dans le grade de commissaire de police.
 
 Le temps de service national accompli par les commissaires de police vient en déduction de cette durée.
 
