@@ -1,4 +1,6 @@
 # Chapitre Ier : Définitions relatives aux oeuvres
 
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
 - [Article 6-1](article-6-1.md)
