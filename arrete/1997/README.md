@@ -268,7 +268,6 @@
 - [Arrêté du 8 octobre 1997 (MENH9701918A)](arrete-du-8-octobre-1997-menh9701918a)
 - [Arrêté du 8 septembre 1997 (ECOI9700380A)](arrete-du-8-septembre-1997-ecoi9700380a)
 - [Arrêté du 8 septembre 1997 (MENH9702634A)](arrete-du-8-septembre-1997-menh9702634a)
-- [Arrêté du 8 septembre 1997 (MENH9702635A)](arrete-du-8-septembre-1997-menh9702635a)
 - [Arrêté du 9 avril 1997 (AGRG9700690A)](arrete-du-9-avril-1997-agrg9700690a)
 - [Arrêté du 9 avril 1997 (INDF9700234A)](arrete-du-9-avril-1997-indf9700234a)
 - [Arrêté du 9 avril 1997 (MENL9700897A)](arrete-du-9-avril-1997-menl9700897a)
