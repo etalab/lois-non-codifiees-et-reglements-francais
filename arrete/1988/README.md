@@ -184,7 +184,6 @@
 - [Arrêté du 8 octobre 1987 (ASET8703700A)](arrete-du-8-octobre-1987-aset8703700a)
 - [Arrêté du 8 septembre 1988 (EQUP8800613A)](arrete-du-8-septembre-1988-equp8800613a)
 - [Arrêté du 8 septembre 1988 (INDD8800649A)](arrete-du-8-septembre-1988-indd8800649a)
-- [Arrêté du 9 août 1988 (ASEG8800844A)](arrete-du-9-aout-1988-aseg8800844a)
 - [Arrêté du 9 décembre 1988 (SPSS8801843A)](arrete-du-9-decembre-1988-spss8801843a)
 - [Arrêté du 9 février 1988 (AGRS8800296A)](arrete-du-9-fevrier-1988-agrs8800296a)
 - [Arrêté du 9 février 1988 (BUDZ8800001A)](arrete-du-9-fevrier-1988-budz8800001a)
