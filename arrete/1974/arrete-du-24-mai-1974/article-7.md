@@ -30,8 +30,10 @@ a) Les jeunes gens accomplissant le service actif légal ;
 
 b) Les militaires appartenant à la disponibilité et à la réserve en cas de rappel, de maintien, ou de convocation pour les périodes d'exercice.
 
-4° Les officiers de réserve servant en situation d'activité.
+4° Les officiers de réserve servant en situation d'activité ;
 
-5° Les militaires servant à titre étranger.
+5° Les militaires servant à titre étranger ;
 
-6° Les volontaires du service national féminin prévu par l'article L. 116 du code du service national.
+6° Les volontaires du service national féminin prévu par l'article L. 116 du code du service national ;
+
+7° Les fonctionnaires du service de la trésorerie aux armées et les fonctionnaires de la poste aux armées.
