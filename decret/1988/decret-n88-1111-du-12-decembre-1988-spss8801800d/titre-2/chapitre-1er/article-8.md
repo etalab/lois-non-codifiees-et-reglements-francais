@@ -22,7 +22,7 @@ Ne sont pas prises en compte dans les ressources les prestations suivantes :
 
 10° Les aides et secours financiers dont le montant ou la périodicité n'ont pas de caractère régulier ainsi que les aides et secours affectés à des dépenses concourant à l'insertion du bénéficiaire et de sa famille notamment dans les domaines du logement, des transports, de l'éducation et de la formation ;
 
-11° Les bourses d'études des enfants à charge définis à l'article 2, sauf les bourses de l'enseignement supérieur ;
+11° Les bourses d'études des enfants à charge définis à l'article 2 ;
 
 12° Les frais funéraires mentionnés à l'article L. 435-1 du code de la sécurité sociale ;
 
