@@ -1,6 +1,6 @@
 # Article 16 bis
 
-Si la prévention est établie à l'égard d'un mineur âgé de seize ans, le tribunal pour enfants et la cour d'assises des mineurs pourront aussi prononcer, à titre principal et par décision motivée, la mise sous protection judiciaire pour une durée n'excédant pas cinq années.
+Si la prévention est établie à l'égard d'un mineur, le tribunal pour enfants et la cour d'assises des mineurs pourront aussi prononcer, à titre principal et par décision motivée, la mise sous protection judiciaire pour une durée n'excédant pas cinq années.
 
 Les diverses mesures de protection, d'assistance, de surveillance et d'éducation auxquelles le mineur sera soumis seront déterminées par un décret en Conseil d'Etat.
 
