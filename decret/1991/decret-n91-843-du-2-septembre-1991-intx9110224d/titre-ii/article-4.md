@@ -8,6 +8,6 @@ Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 3 ci-dessus le
 
 Lorsque le nombre des candidats ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne est inférieur au nombre des places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours dans la limite de 15 p. 100 des places offertes à l'un ou l'autre des concours ou d'une place au moins.
 
-Les concours comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités sont fixées par décret et les programmes par arrêté conjoint du ministre chargé des collectivités territoriales et du ministre chargé de la culture. Ces concours peuvent comporter des épreuves communes.
+Les concours comprennent des épreuves d'admissibilité et des épreuves d'admission dont les modalités sont fixées par décret. Les programmes sont fixés par arrêté conjoint du ministre chargé des collectivités territoriales et du ministre chargé de la culture et, pour ce qui concerne la spécialité mentionnée au 5° de l'article 2, par arrêté conjoint du ministre chargé des collectivités territoriales et du ministre chargé de l'enseignement supérieur. "
 
 Le Centre national de la fonction publique territoriale est chargé de la coordination générale de l'organisation de ces concours. Les règles de discipline, la date d'ouverture des épreuves et la liste des candidats admis à y prendre part sont fixées par le président du Centre national de la fonction publique territoriale. Celui-ci arrête également la liste d'aptitude.
