@@ -1,0 +1,3 @@
+# Article 1
+
+Les indemnités susceptibles d'être allouées aux personnalités visées par l'article 4 du décret du 4 janvier 1968 susvisé qui apportent leur concours de façon intermittente aux organismes de la formation professionnelle et de la promotion sociale pour l'exécution d'enquêtes, la rédaction de rapports ou tous autres travaux nécessaires au fonctionnement de ces organismes sont fixées pour chaque affaire par le ministre du travail, de l'emploi et de la formation professionnelle, sur proposition du délégué à la formation professionnelle, en fonction du temps nécessaire à sa préparation.
