@@ -110,6 +110,8 @@
 - [Décret n°83-515 du 23 juin 1983](decret-n83-515-du-23-juin-1983)
 - [Décret n°84-205 du 23 mars 1984](decret-n84-205-du-23-mars-1984)
 - [Décret n°84-208 du 23 mars 1984](decret-n84-208-du-23-mars-1984)
+- [Décret n°84-393 du 23 mai 1984](decret-n84-393-du-23-mai-1984)
+- [Décret n°84-394 du 23 mai 1984](decret-n84-394-du-23-mai-1984)
 - [Décret n°84-137 du 24 février 1984](decret-n84-137-du-24-fevrier-1984)
 - [Décret n°84-304 du 25 avril 1984](decret-n84-304-du-25-avril-1984)
 - [Décret n°84-305 du 25 avril 1984](decret-n84-305-du-25-avril-1984)
