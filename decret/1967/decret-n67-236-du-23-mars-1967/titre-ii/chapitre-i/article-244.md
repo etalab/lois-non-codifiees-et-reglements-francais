@@ -1,6 +1,6 @@
 # Article 244
 
-Les sociétés commerciales qui, à la clôture d'un exercice social, comptent 100 salariés ou plus ou dont le montant net du chiffre d'affaires, à la même époque, est égal ou supérieur à quarante millions de francs, sont tenues d'établir les documents mentionnés à l'article 340-1 de la loi sur les sociétés commerciales.
+Les sociétés commerciales qui, à la clôture d'un exercice social, comptent trois cents salariés ou plus ou dont le montant net du chiffre d'affaires, à la même époque, est égal ou supérieur à cent vingt millions de francs, sont tenues d'établir les documents mentionnés à l'article 340-1 de la loi sur les sociétés commerciales.
 
 Elles cessent d'être assujetties à cette obligation lorsqu'elles ne remplissent aucune de ces conditions pendant deux exercices successifs.
 
