@@ -8,4 +8,4 @@ Les intéressés ne peuvent pas faire plus de trois fois acte de candidature.
 
 Lors de leur nomination dans le corps au premier jour du mois suivant celui au cours duquel ils ont été admis au concours, ils prennent rang sur la liste d'ancienneté de leur grade dans l'ordre de classement audit concours.
 
-Les programmes, les conditions d'organisation et de déroulement des concours ainsi que les coefficients attribués aux différentes épreuves sont fixés par arrêté du ministre chargé des armées.
+Les programmes, les conditions d'organisation et de déroulement des concours ainsi que les coefficients attribués aux différentes épreuves sont fixés par arrêté du ministre de la défense.

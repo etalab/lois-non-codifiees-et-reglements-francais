@@ -4,4 +4,4 @@ Les officiers des corps techniques et administratifs des armées assurent des fo
 
 Ils peuvent exercer des fonctions de commandement dans ces organismes ou services ou participer à leur direction.
 
-Ils peuvent aussi être appelés à faire partie d'organismes interarmées ou relevant d'une autre armée ou de tout autre organisme rattaché au ministère chargé des armées.
+Ils peuvent aussi être appelés à faire partie d'organismes interarmées ou relevant d'une autre armée ou de tout autre organisme rattaché au ministère de la défense.
