@@ -331,6 +331,7 @@
 - [Arrêté du 14 octobre 1988 (TRSS8800548A)](arrete-du-14-octobre-1988-trss8800548a)
 - [Arrêté du 14 septembre 1988 (TRSS8800504A)](arrete-du-14-septembre-1988-trss8800504a)
 - [Arrêté du 15 décembre 1987 (BUDD8730006A)](arrete-du-15-decembre-1987-budd8730006a)
+- [Arrêté du 15 décembre 1988 (SPSA8810365A)](arrete-du-15-decembre-1988-spsa8810365a)
 - [Arrêté du 15 février 1988 (ENVN8800034A)](arrete-du-15-fevrier-1988-envn8800034a)
 - [Arrêté du 15 février 1988 (PTTP8800159A)](arrete-du-15-fevrier-1988-pttp8800159a)
 - [Arrêté du 15 février 1988 (RESP8800167A)](arrete-du-15-fevrier-1988-resp8800167a)
