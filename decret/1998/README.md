@@ -100,6 +100,8 @@
 - [Décret n°98-71 du 4 février 1998 (MAEJ9830004D)](decret-n98-71-du-4-fevrier-1998-maej9830004d)
 - [Décret n°98-72 du 4 février 1998 (MAEJ9830005D)](decret-n98-72-du-4-fevrier-1998-maej9830005d)
 - [Décret n°98-73 du 4 février 1998 (DEFP9752019D)](decret-n98-73-du-4-fevrier-1998-defp9752019d)
+- [Décret n°98-793 du 4 septembre 1998 (MCCT9800488D)](decret-n98-793-du-4-septembre-1998-mcct9800488d)
+- [Décret n°98-794 du 4 septembre 1998 (AGRP9801256D)](decret-n98-794-du-4-septembre-1998-agrp9801256d)
 - [Décret n°98-351 du 4 mai 1998 (MAEJ9830036D)](decret-n98-351-du-4-mai-1998-maej9830036d)
 - [Décret n°98-353 du 4 mai 1998 (MAEJ9830038D)](decret-n98-353-du-4-mai-1998-maej9830038d)
 - [Décret du 5 février 1998 (ECOC9700188D)](decret-du-5-fevrier-1998-ecoc9700188d)

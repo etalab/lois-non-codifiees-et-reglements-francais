@@ -520,6 +520,7 @@
 - [Arrêté du 20 mai 1998 (FPPA9810012A)](arrete-du-20-mai-1998-fppa9810012a)
 - [Arrêté du 20 mai 1998 (MENS9801317A)](arrete-du-20-mai-1998-mens9801317a)
 - [Arrêté du 21 août 1998 (ATEN9870228A)](arrete-du-21-aout-1998-aten9870228a)
+- [Arrêté du 21 août 1998 (ECOT9820069A)](arrete-du-21-aout-1998-ecot9820069a)
 - [Arrêté du 21 avril 1998 (FPPA9810005A)](arrete-du-21-avril-1998-fppa9810005a)
 - [Arrêté du 21 avril 1998 (FPPA9810006A)](arrete-du-21-avril-1998-fppa9810006a)
 - [Arrêté du 21 avril 1998 (MESS9821742A)](arrete-du-21-avril-1998-mess9821742a)
