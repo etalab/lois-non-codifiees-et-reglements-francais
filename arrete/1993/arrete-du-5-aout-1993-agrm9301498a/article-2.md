@@ -4,4 +4,4 @@ Les montants de la taxe prévue à l'article 4 du décret du 19 décembre 1991 s
 
 a) Part fixe prévue à l'article 4 a : 250 F ;
 
-b) Part proportionnelle prévue à l'article 4 b : 36 F par tonne expédiée, au-delà des dix premières tonnes exonérées, entre le 1er octobre 1991 et le 30 septembre 1992.
+b) Part proportionnelle prévue à l'article 4 b : 36 F par tonne expédiée, au-delà des dix premières tonnes exonérées, entre le 1er novembre 1991 et le 31 octobre 1992.

@@ -2,9 +2,12 @@
 
 Le bruit produit par un véhicule à moteur, mesuré lors de la réception par type ou à titre isolé, ne devra pas, pour les véhicules de la catégorie intéressée, et sous les réserves prévues à l'article 13 du présent arrêté, excéder les valeurs indiquées au tableau ci-après (ces valeurs étant susceptibles d'une tolérance d'un décibel) :
 
--------------------------------------------------------------- :         CATEGORIE DE VEHICULES           : NIVEAUX SONORES :
+--------------------------------------------------------------
 
 <table>
+<tr>
+<td> :         CATEGORIE DE VEHICULES           : NIVEAUX SONORES :</td>
+</tr>
 <tr>
 <td> :                                          :  maxima en dBA. :</td>
 </tr>
@@ -21,7 +24,7 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 <td> :                                          :                 :</td>
 </tr>
 <tr>
-<td> : A.1. Voitures particulières              :       77        :</td>
+<td> : A.1. Voitures particulières              :       74        :</td>
 </tr>
 <tr>
 <td> :                                          :                 :</td>
@@ -36,13 +39,13 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 <td> :      autorisé en charge :                :                 :</td>
 </tr>
 <tr>
-<td> :      - n'excédant pas 2 tonnes           :       78        :</td>
+<td> :      - n'excédant pas 2 tonnes           :       76        :</td>
 </tr>
 <tr>
 <td> :      - supérieur à 2 tonnes mais         :                 :</td>
 </tr>
 <tr>
-<td> :         n'excédant pas 3,5 tonnes        :       79        :</td>
+<td> :         n'excédant pas 3,5 tonnes        :       77        :</td>
 </tr>
 <tr>
 <td> :                                          :                 :</td>
@@ -63,25 +66,13 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 <td> :      - avec un moteur d'une puissance    :                 :</td>
 </tr>
 <tr>
-<td> :        inférieure à 150 kW               :                 :</td>
-</tr>
-<tr>
-<td> :         Autobus                          :       80        :</td>
-</tr>
-<tr>
-<td> :         Autocars et divers               :       82        :</td>
+<td> :        inférieure à 150 kW               :       78        :</td>
 </tr>
 <tr>
 <td> :      - avec un moteur d'une puissance    :                 :</td>
 </tr>
 <tr>
-<td> :        égale ou supérieure à 150 kW :    :                 :</td>
-</tr>
-<tr>
-<td> :         Autobus                          :       83        :</td>
-</tr>
-<tr>
-<td> :         Autocars et divers               :       85        :</td>
+<td> :        égale ou supérieure à 150 kW :    :       80        :</td>
 </tr>
 <tr>
 <td> :                                          :                 :</td>
@@ -93,13 +84,13 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 <td> :      total autorisé en charge :          :                 :</td>
 </tr>
 <tr>
-<td> :      - n'excédant pas 2 tonnes           :       78        :</td>
+<td> :      - n'excédant pas 2 tonnes           :       76        :</td>
 </tr>
 <tr>
 <td> :      - supérieur à 2 tonnes mais         :                 :</td>
 </tr>
 <tr>
-<td> :        n'excédant pas 3,5 tonnes         :       79        :</td>
+<td> :        n'excédant pas 3,5 tonnes         :       77        :</td>
 </tr>
 <tr>
 <td> :                                          :                 :</td>
@@ -117,7 +108,7 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 <td> :      - avec un moteur d'une puissance    :                 :</td>
 </tr>
 <tr>
-<td> :        inférieure à 75 kW                :       81        :</td>
+<td> :        inférieure à 75 kW                :       77        :</td>
 </tr>
 <tr>
 <td> :      - avec un moteur d'une puissance    :                 :</td>
@@ -126,19 +117,22 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 <td> :        égale ou supérieur à 75 kW mais   :                 :</td>
 </tr>
 <tr>
-<td> :        inférieure à 150 kW               :       83        :</td>
+<td> :        inférieure à 150 kW               :       78        :</td>
 </tr>
 <tr>
 <td> :      - avec un moteur d'une puissance    :                 :</td>
 </tr>
 <tr>
-<td> :        égale ou supérieure à 150 kW      :       84        :</td>
+<td> :        égale ou supérieure à 150 kW      :       80        :</td>
 </tr>
 </table>
 
----------------------------------------------------------------------------------------------------------------------------- :         CATEGORIE DE VEHICULES           : NIVEAUX SONORES :
+----------------------------------------------------------------------------------------------------------------------------
 
 <table>
+<tr>
+<td> :         CATEGORIE DE VEHICULES           : NIVEAUX SONORES :</td>
+</tr>
 <tr>
 <td> :                                          :  maxima en dBA. :</td>
 </tr>
@@ -189,9 +183,12 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 </tr>
 </table>
 
----------------------------------------------------------------------------------------------------------------------------- :         CATEGORIE DE VEHICULES           : NIVEAUX SONORES :
+----------------------------------------------------------------------------------------------------------------------------
 
 <table>
+<tr>
+<td> :         CATEGORIE DE VEHICULES           : NIVEAUX SONORES :</td>
+</tr>
 <tr>
 <td> :                                          :  maxima en dBA. :</td>
 </tr>
@@ -256,6 +253,4 @@ Le bruit produit par un véhicule à moteur, mesuré lors de la réception par t
 
 --------------------------------------------------------------    Toutefois :
 
-Pour les véhicules des catégories A 1, A 2 et A 4, les valeurs limites sont augmentées de 1 dB (A) s'ils sont équipés d'un moteur Diesel à injection directe ;
-
-Pour les véhicules de catégorie A ayant une masse maximale autorisée supérieure à 2 tonnes et qui sont conçus pour une utilisation hors route, les valeurs limites sont augmentées de 1 dB (A) s'ils sont équipés d'un moteur d'une puissance inférieure à 150 kW et de 2 dB (A) s'ils sont équipés d'un moteur d'une puissance égale ou supérieure à 150 kW.
+"  pour les véhicules de la catégorie A. 1 équipés d'une boîte de vitesse à commande manuelle ayant plus de quatre rapports de marche avant et d'un moteur développant une puissance maximale supérieure à 140 kW et dont le rapport puissance maximale/masse maximale autorisée est supérieur à 75 kW/t, les valeurs limites sont augmentées de 1 dB (A), si la vitesse à laquelle l'arrière du véhicule passe la ligne BB$MG (figure 1 de la directive [C.E.E.] n° 92-97) en troisième rapport est supérieure à 61 km/h. "
