@@ -13,7 +13,6 @@
 - [Arrêté du 9 avril 1968](arrete-du-9-avril-1968)
 - [Arrêté du 9 février 1968](arrete-du-9-fevrier-1968)
 - [Arrêté du 9 mai 1968](arrete-du-9-mai-1968)
-- [Arrêté du 10 janvier 1968](arrete-du-10-janvier-1968)
 - [Arrêté du 10 juillet 1968](arrete-du-10-juillet-1968)
 - [Arrêté du 10 juin 1968](arrete-du-10-juin-1968)
 - [Arrêté du 10 octobre 1968](arrete-du-10-octobre-1968)
