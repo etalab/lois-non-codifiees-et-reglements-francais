@@ -105,6 +105,7 @@
 - [Décret n°82-243 du 15 mars 1982](decret-n82-243-du-15-mars-1982)
 - [Décret n°82-245 du 15 mars 1982](decret-n82-245-du-15-mars-1982)
 - [Décret n°82-339 du 15 avril 1982](decret-n82-339-du-15-avril-1982)
+- [Décret n°82-883 du 15 octobre 1982](decret-n82-883-du-15-octobre-1982)
 - [Décret n°82-167 du 16 février 1982](decret-n82-167-du-16-fevrier-1982)
 - [Décret n°82-253 du 16 mars 1982](decret-n82-253-du-16-mars-1982)
 - [Décret n°82-340 du 16 avril 1982](decret-n82-340-du-16-avril-1982)

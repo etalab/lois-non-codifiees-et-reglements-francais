@@ -1,7 +1,5 @@
 # Article 3
 
-Jusqu'au 31 octobre 1982, les fabricants et leurs dépositaires ont la possibilité de vendre celles de ces spécialités pharmaceutiques qui sont détenues en stocks sans modification de l'étiquetage.
+Sauf ce qui est dit ci-après au paragraphe Remboursement anticipé au gré des obligataires, les obligations rapporteront un intérêt de 16,70 p. 100, soit 835 F par titre, payable en une seule fois le 8 octobre de chaque année et pour la première fois le 8 octobre 1983.
 
-A l'expiration du délai précité, les produits livrés par les fabricants et leurs dépositaires seront obligatoirement étiquetés aux nouveaux prix publics.
-
-Les produits portant des étiquettes mentionnant le prix en vigueur avant la publication du présent arrêté continueront à être commercialisés par les grossistes répartiteurs et les pharmaciens d'officine aux prix correspondant à l'étiquette.
+Les obligations seront émises au pair, jouissance du 8 octobre 1982.

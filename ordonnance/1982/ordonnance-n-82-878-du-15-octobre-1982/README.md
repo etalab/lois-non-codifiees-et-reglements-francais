@@ -1,4 +1,4 @@
-# Arrêté du 15 octobre 1982 relatif à l'émission d'un emprunt par la caisse centrale de coopération économique
+# Ordonnance n° 82-878 du 15 octobre 1982 relative au développement économique de la Nouvelle-Calédonie.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -11,3 +11,4 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
+- [Article Execution](article-execution.md)

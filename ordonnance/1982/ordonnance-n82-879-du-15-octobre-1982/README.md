@@ -1,4 +1,4 @@
-# Arrêté du 15 octobre 1982 relatif à l'émission d'un emprunt par la caisse centrale de coopération économique
+# Ordonnance n°82-879 du 15 octobre 1982 portant création d'un office culturel, scientifique et technique canaque
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -11,3 +11,8 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)
+- [Article 14](article-14.md)
+- [Article 15](article-15.md)
+- [Article Execution](article-execution.md)
