@@ -1,6 +1,6 @@
 # Article 5
 
-Le sous-comité des transports sanitaires est constitué, sous la présidence du préfet ou de son représentant, par les membres du comité départemental suivants [*composition*] :
+Le sous-comité des transports sanitaires est constitué, sous la présidence du préfet ou de son représentant, par les membres du comité départemental suivants :
 
 1. Le médecin inspecteur de la santé ;
 
@@ -27,3 +27,5 @@ b) Un médecin d'exercice libéral ;
 c) Un directeur d'établissement d'hospitalisation privé assurant des transports sanitaires.
 
 Dans le cas où il examine les problèmes de transports sanitaires non terrestres le sous-comité s'adjoint le représentant des administrations concernées et les techniciens nécessaires désignés par le préfet du département.
+
+Lorsqu'il est consulté sur une question relative à l'application de l'article L. 51-6 du code de la santé publique, le sous-comité des transports sanitaires s'adjoint le directeur départemental de la concurrence, de la consommation et de la répression des fraudes, ou son représentant.
