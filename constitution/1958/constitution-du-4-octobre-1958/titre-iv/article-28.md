@@ -1,9 +1,9 @@
 # Article 28
 
-Le Parlement se réunit de plein droit en deux sessions ordinaires par an.
+Le Parlement se réunit de plein droit en une session ordinaire qui commence le premier jour ouvrable d'octobre et prend fin le dernier jour ouvrable de juin.
 
-La première session s'ouvre le 2 octobre [*date*], sa durée est de quatre-vingt jours.
+Le nombre de jours de séance que chaque assemblée peut tenir au cours de la session ordinaire ne peut excéder cent vingt. Les semaines de séance sont fixées par chaque assemblée.
 
-La seconde session s'ouvre le 2 avril, sa durée ne peut excéder quatre-vingt-dix jours.
+Le Premier ministre, après consultation du président de l'assemblée concernée, ou la majorité des membres de chaque assemblée peut décider la tenue de jours supplémentaires de séance.
 
-Si le 2 octobre ou le 2 avril est un jour férié, l'ouverture de la session a lieu le premier jour ouvrable qui suit.
+Les jours et les horaires des séances sont déterminés par le règlement de chaque assemblée.

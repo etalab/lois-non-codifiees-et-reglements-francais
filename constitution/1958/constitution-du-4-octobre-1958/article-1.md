@@ -1,5 +1,3 @@
 # Article 1
 
-La République et les peuples des territoires d'outre-mer qui, par un acte de libre détermination, adoptent la présente Constitution instituent une Communauté.
-
-La Communauté est fondée sur l'égalité et la solidarité des peuples qui la composent.
+La France est une République indivisible, laïque, démocratique et sociale. Elle assure l'égalité devant la loi de tous les citoyens sans distinction d'origine, de race ou de religion. Elle respecte toutes les croyances.

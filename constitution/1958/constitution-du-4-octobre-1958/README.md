@@ -14,6 +14,5 @@
 - [Titre XV : Des Communautés européennes et de l'Union européenne](titre-xv)
 - [Titre XIV : Des accords d'association.](titre-xiv)
 - [Titre XVI : De la révision](titre-xvi)
-- [Titre XVII : Dispositions transitoires.](titre-xvii)
 - [Titre premier : De la souveraineté](titre-premier)
 - [Article PREAMBULE](article-preambule.md)
