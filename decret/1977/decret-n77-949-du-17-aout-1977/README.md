@@ -1,6 +1,7 @@
 # Décret n°77-949 du 17 août 1977 relatif aux mesures particulières d'hygiène applicables dans les établissements où le personnel est exposé à l'action des poussières d'amiante.
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

@@ -6,4 +6,4 @@ Cette décision est prise après examen par l'inspecteur divisionnaire des lois 
 
 Les propositions présentées par la caisse doivent être accompagnées d'un rapport motivé comportant toutes les justifications utiles ainsi que le taux de la cotisation supplémentaire, et éventuellement sa durée d'application.
 
-La caisse de mutualité sociale agricole notifie par lettre recommandée avec demande d'avis de réception à l'employeur sa décision qui prend effet du premier jour du trimestre civil qui lui est postérieur.
+La caisse de mutualité sociale agricole notifie par lettre recommandée avec demande d'avis de réception à l'employeur sa décision qui prend effet à compter de la date à laquelle a été constaté le risque exceptionnel.

@@ -1,8 +1,8 @@
 # Article 5
 
-Les caisses de mutualité sociale agricole peuvent imposer une cotisation supplémentaire à tout employeur qui ne prend pas les mesures de prévention visées à l'article 5 (alinéas 1er et 3) et à l'article 8 (alinéa 1er) du décret susvisé du 11 septembre 1973.
+Les caisses de mutualité sociale agricole peuvent imposer à tout employeur une cotisation supplémentaire pour tenir compte des risques exceptionnels présentés par l'exploitation ou entreprise, révélés notamment par une infraction constatée en application de l'article 611-10 du code du travail ou résultant d'une inobservation des mesures de prévention prescrites en application des articles 5 (alinéas 1er et 3) et 8 (alinéa 1er) du décret susvisé du 11 septembre 1973 et dont l'exécution relève ou non de la procédure d'injonction.
 
-Les mesures de prévention visées à l'alinéa précédent relèvent de la procédure d'injonction définie aux alinéas ci-dessous du présent article.
+Les mesures de prévention visées à l'article 5 (alinéas 1er et 3) et, lorsque les arrêtés ministériels en disposent ainsi, à l'article 8 (alinéa 1er) du décret susvisé du 11 septembre 1973 relèvent de la procédure d'injonction définie aux alinéas ci-dessous du présent article.
 
 Les décisions d'injonction sont prises par les caisses de mutualité sociale agricole soit sur leur initiative après qu'une enquête sur place a été effectuée par un des agents chargés du contrôle de la prévention visés à l'article 1246 (5e alinéa) du code rural, soit à la demande de l'inspecteur départemental des lois sociales en agriculture agissant dans le cadre de l'article 9 du décret susvisé du 11 septembre 1973.
 

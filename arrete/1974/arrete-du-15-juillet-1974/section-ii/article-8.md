@@ -1,6 +1,6 @@
 # Article 8
 
-Lorsqu'il existe un comité d'hygiène et de sécurité ou un organisme professionnel en tenant lieu, l'employeur doit l'informer de la décision d'injonction qui lui a été faite en application de l'article 5 ci-dessus dès réception de celle-ci et le consulter sur les modalités d'exécution des mesures à prendre.
+Lorsqu'il existe un comité technique d'hygiène et de sécurité ou un organisme professionnel en tenant lieu, l'employeur doit l'informer soit de l'injonction qui lui a été faite, soit de la lettre qui lui a été adressée, en application des articles 5 ou 5-1 susvisés, dès réception de ces documents et le consulter sur les modalités d'exécution des mesures à prendre.
 
 S'il n'existe ni comité d'hygiène et de sécurité ni organisme professionnel en tenant lieu, l'employeur doit informer et consulter les délégués du personnel ou, à défaut, le ou les salariés de l'entreprise.
 
