@@ -4,4 +4,4 @@ En cas de travaux occasionnels et de courte durée et s'il est techniquement imp
 
 L'employeur est tenu de prendre toute mesure pour que ces équipements soient effectivement utilisés.
 
-Au moins une fois par trimestre [*périodicité*], l'employeur informe le comité d'hygiène et de sécurité ou à défaut les délégués du personnel des travaux occasionnels effectués dans les conditions prévues au présent article.
+Au moins une fois par trimestre [*périodicité*], l'employeur informe le comité d'hygiène et de sécurité et des conditions de travail [*CHSCT*] ou à défaut les délégués du personnel des travaux occasionnels effectués dans les conditions prévues au présent article.
