@@ -487,7 +487,6 @@
 - [Décret n°92-1310 du 15 décembre 1992 (ECOM9200510D)](decret-n92-1310-du-15-decembre-1992-ecom9200510d)
 - [Décret n°92-1324 du 15 décembre 1992 (BUDL9200116D)](decret-n92-1324-du-15-decembre-1992-budl9200116d)
 - [Décret n°92-1325 du 15 décembre 1992 (BUDF9210086D)](decret-n92-1325-du-15-decembre-1992-budf9210086d)
-- [Décret n°92-1333 du 15 décembre 1992 (JUSC9220555D)](decret-n92-1333-du-15-decembre-1992-jusc9220555d)
 - [Décret n°92-388 du 15 avril 1992 (MAEX9200061D)](decret-n92-388-du-15-avril-1992-maex9200061d)
 - [Décret n°92-389 du 15 avril 1992 (ECOX9200069D)](decret-n92-389-du-15-avril-1992-ecox9200069d)
 - [Décret n°92-390 du 15 avril 1992 (BUDX9200070D)](decret-n92-390-du-15-avril-1992-budx9200070d)
