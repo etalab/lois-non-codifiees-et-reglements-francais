@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé une commission spécialisée composée du délégué à la danse ou de son représentant et d'au moins trois personnalités du monde chorégraphique qu'il désigne selon la nature des dossiers à examiner. Cette commission est chargée d'émettre un avis sur l'attribution par le ministère de la culture et de la communication de bourses d'études chorégraphiques d'une durée maximale d'un an, poursuivies en France ou à l'étranger. Au préalable, un inspecteur de la danse et un représentant de l'administration procèdent à l'examen de la recevabilité des demandes et du projet d'études.
