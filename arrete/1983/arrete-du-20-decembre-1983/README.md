@@ -1,5 +1,3 @@
-# Arrêté du 20 décembre 1983 FIXANT LE PRIX D'ACHAT POUR LA CAMPAGNE 1982-1983 DES ALCOOLS DE VIN LIVRES EN EXCEDENT DES PRESTATIONS VINIQUES.
+# Arrêté du 20 décembre 1983 portant fixation du forfait journalier institué par l'article 4 de la loi n° 83-25 du 19 janvier 1983 portant diverses mesures relatives à la sécurité sociale.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
