@@ -1,0 +1,7 @@
+# Chapitre III : Publicité des droits sur les immeubles autres que les privilèges et hypothèques.
+
+- [Article 29](article-29.md)
+- [Article 30](article-30.md)
+- [Article 31](article-31.md)
+- [Article 33](article-33.md)
+- [Article 36](article-36.md)
