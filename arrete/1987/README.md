@@ -741,7 +741,6 @@
 - [Arrêté du 30 mars 1987 (AGRG8700671A)](arrete-du-30-mars-1987-agrg8700671a)
 - [Arrêté du 30 mars 1987 (INDB8700228A)](arrete-du-30-mars-1987-indb8700228a)
 - [Arrêté du 30 mars 1987 (MCCG8700133A)](arrete-du-30-mars-1987-mccg8700133a)
-- [Arrêté du 30 mars 1987 (TRSA8700125A)](arrete-du-30-mars-1987-trsa8700125a)
 - [Arrêté du 30 octobre 1987 (AGRG8702086A)](arrete-du-30-octobre-1987-agrg8702086a)
 - [Arrêté du 30 octobre 1987 (ECOC8700087A)](arrete-du-30-octobre-1987-ecoc8700087a)
 - [Arrêté du 30 octobre 1987 (EQUS8700991A)](arrete-du-30-octobre-1987-equs8700991a)
