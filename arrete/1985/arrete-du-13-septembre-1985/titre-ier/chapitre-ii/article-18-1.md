@@ -1,6 +1,6 @@
 # Article 18-1
 
-Lorsqu'un même type de pari donne lieu à l'enregistrement de paris, en France et dans d'autres pays, pour des minima d'enjeux, exprimés en francs français, différents, les rapports définissent la somme à payer en proportion de ces différents minima.
+Lorsqu'un même type de pari donne lieu à l'enregistrement de paris, en France et dans d'autres pays, pour des minima d'enjeux, exprimés en euros, différents, les rapports définissent la somme à payer en proportion de ces différents minima.
 
 En l'absence de mise gagnante engagée au plus fort minimum d'enjeu existant pour le type de pari considéré et en présence d'une autre mise gagnante au moins, le rapport correspondant est pondéré dans une proportion égale au quotient résultant de la division du minimum d'enjeu le plus élevé pour lequel il existe au moins une mise gagnante par le plus fort minimum d'enjeu auquel le pari considéré est enregistré. La fraction de la masse à partager non distribuée à l'issue des opérations de répartition est alors réservée pour constituer une tirelire.
 

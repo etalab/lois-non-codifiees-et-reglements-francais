@@ -16,4 +16,4 @@ e) Le rapport spécial net visé au paragraphe d ci-dessus ne doit pas être sup
 
 S'il en est autrement, par application de la règle énoncée au paragraphe d ci-dessus, les calculs de répartition sont faits de sorte que chaque rapport spécial payé aux parieurs soit la moitié du rapport de base du pari "quarté" correspondant.
 
-f) Dans chacun des cas énoncés ci-dessus, les rapports spéciaux payés aux parieurs dont les combinaisons comportent un, deux ou trois chevaux non partants ne peuvent être inférieurs à 1,10 F par unité de mise, sauf application des dispositions de l'article 19. La présente disposition s'applique en particulier lorsque les paris "simple gagnant" et "couplée gagnant" sont remboursés.
+f) Dans chacun des cas énoncés ci-dessus, les rapports spéciaux payés aux parieurs dont les combinaisons comportent un, deux ou trois chevaux non partants ne peuvent être inférieurs à 1,10 euro par unité de mise, sauf application des dispositions de l'article 19. La présente disposition s'applique en particulier lorsque les paris "simple gagnant" et "couplée gagnant" sont remboursés.
