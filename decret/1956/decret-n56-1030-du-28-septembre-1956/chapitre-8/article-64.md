@@ -46,21 +46,21 @@ DEPARTEMENT : Martinique
 
 GROUPE I :
 
-Etat : 91
+Etat : 92
 
-Département : 9.
+Département : 8.
 
 GROUPE II :
 
-Etat : 82
+Etat : 84
 
-Collectivités locales : 18.
+Collectivités locales : 16.
 
 GROUPE III :
 
-Etat : 64
+Etat : 68
 
-Collectivités locales : 36.
+Collectivités locales : 32.
 
 DEPARTEMENT : Réunion
 
