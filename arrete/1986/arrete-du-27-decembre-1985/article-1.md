@@ -1,3 +1,3 @@
 # Article 1
 
-L'arrêté du 1er octobre 1976 relatif à la tarification des risques d'accidents du travail et de maladies professionnelles est applicable au risque professionnel des sportifs professionnels, compte tenu des dispositions particulières visées à l'article 2 ci-dessous.
+Les candidats aux études de sage-femme de nationalité étrangère autres que les citoyens andorrans ou les ressortissants d'un Etat membre de la CEE, du Maroc, de la Tunisie ou d'un pays ayant passé avec la France une convention d'établissement peuvent être admis à suivre l'enseignement, sans concours d'entrée, dans la limite des places disponibles.

@@ -1,4 +1,4 @@
-# Arrêté du 13 janvier 1986 fixant les limites des tranches du tarif de la retenue à la source applicable aux salaires, pensions et rentes viagères versés en 1986 à des personnes domiciliées hors de France
+# Arrêté du 13 janvier 1986 fixant au titre de l'année 1986 le montant et les conditions d'importation de contingents tarifaires relatifs à certaines conserves d'ananas originaires de pays en voie de développement
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
