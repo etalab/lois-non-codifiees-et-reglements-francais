@@ -1,5 +1,6 @@
 # 1979
 
+- [Loi n° 79-10 du 3 janvier 1979](loi-n-79-10-du-3-janvier-1979)
 - [Loi n° 79-1102 du 21 décembre 1979](loi-n-79-1102-du-21-decembre-1979)
 - [Loi n° 79-1129 du 28 décembre 1979](loi-n-79-1129-du-28-decembre-1979)
 - [Loi n° 79-1130 du 28 décembre 1979](loi-n-79-1130-du-28-decembre-1979)
