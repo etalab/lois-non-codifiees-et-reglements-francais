@@ -75,7 +75,7 @@ b) Une cotisation unitaire par licence ou autorisation de transport dont l'entre
 </tr>
 </table>
 
-6° Entreprises exerçant une activité d'auxiliaire de transport de marchandises : 272 F par établissement principal existant au 1er janvier 1993 et 39 F par établissement existant en sus du siège principal à la même date ;
+6° Entreprises exerçant une activité d'auxiliaire de transport de marchandises : 272 F par établissement principal existant au 1er janvier 1994 et 39 F par établissement existant en sus du siège principal à la même date ;
 
 7° Entreprises de transport public de navigation intérieure:
 
