@@ -18,6 +18,4 @@ f) Le cas échéant, les conditions particulières relatives à la vente au cons
 
 g) Les catégories auxquelles appartiennent les additifs alimentaires ;
 
-h) L'inventaire des additifs alimentaires relevant de la procédure prévue à l'article 4.
-
-Cet inventaire est établi après avis du Conseil supérieur d'hygiène publique de France et de l'Académie nationale de médecine sur la base de critères d'ordre sanitaire et notamment toxicologique.
+h) [*paragraphe supprimé*] ;
