@@ -489,6 +489,8 @@
 - [Arrêté du 18 mai 1994 (AGRE9400968A)](arrete-du-18-mai-1994-agre9400968a)
 - [Arrêté du 18 mai 1994 (EQUS9400949A)](arrete-du-18-mai-1994-equs9400949a)
 - [Arrêté du 19 août 1994 (INDP9400840A)](arrete-du-19-aout-1994-indp9400840a)
+- [Arrêté du 19 août 1994 (RESK9401183A)](arrete-du-19-aout-1994-resk9401183a)
+- [Arrêté du 19 août 1994 (RESK9401184A)](arrete-du-19-aout-1994-resk9401184a)
 - [Arrêté du 19 avril 1994 (EQUA9400764A)](arrete-du-19-avril-1994-equa9400764a)
 - [Arrêté du 19 avril 1994 (EQUA9400765A)](arrete-du-19-avril-1994-equa9400765a)
 - [Arrêté du 19 avril 1994 (EQUA9400766A)](arrete-du-19-avril-1994-equa9400766a)

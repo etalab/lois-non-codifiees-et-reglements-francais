@@ -478,6 +478,7 @@
 - [Décret n°94-627 du 22 juillet 1994 (TEFE9400688D)](decret-n94-627-du-22-juillet-1994-tefe9400688d)
 - [Décret n°94-648 du 22 juillet 1994 (PARX9400307D)](decret-n94-648-du-22-juillet-1994-parx9400307d)
 - [Décret n°94-730 du 22 août 1994 (INTB9400308D)](decret-n94-730-du-22-aout-1994-intb9400308d)
+- [Décret n°94-737 du 22 août 1994 (INDP9400777D)](decret-n94-737-du-22-aout-1994-indp9400777d)
 - [Décret n°94-831 du 22 septembre 1994 (SPSH9402295D)](decret-n94-831-du-22-septembre-1994-spsh9402295d)
 - [Décret n°96-931 du 22 octobre 1996 (EQUI9601001D)](decret-n96-931-du-22-octobre-1996-equi9601001d)
 - [Décret n°90-943 du 23 octobre 1990 (MENK9070130D)](decret-n90-943-du-23-octobre-1990-menk9070130d)
