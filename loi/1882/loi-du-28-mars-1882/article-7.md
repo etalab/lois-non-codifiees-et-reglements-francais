@@ -1,8 +1,10 @@
 # Article 7
 
-Au cours du semestre de l'année civile où un enfant atteint l'âge de six ans, les personnes responsables doivent quinze jours au moins avant la rentrée des classes, soit le faire inscrire dans une école publique ou privée, soit déclarer au maire et à l'inspecteur d'académie qu'elles lui feront donner l'instruction dans la famille.
+Les personnes responsables d'un enfant soumis à l'obligation scolaire définie à l'article 1er de l'ordonnance n° 59-45 du 6 janvier 1959 portant prolongation de la scolarité obligatoire doivent le faire inscrire dans un établissement d'enseignement public ou privé, ou bien déclarer au maire et à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, qu'elles lui feront donner l'instruction dans la famille. Dans ce cas, il est exigé une déclaration annuelle.
 
-Lorsqu'une famille change de résidence, elle doit, dans les huit jours qui suivent sa réinstallation, accomplir les formalités exigées au premier alinéa du présent article. A l'appui de sa demande d'inscription de l'enfant dans une école publique ou privée, elle doit produire le livret scolaire institué à l'article 10 ci-après.
+Les mêmes formalités doivent être accomplies dans les huit jours qui suivent tout changement de résidence ou de choix d'instruction.
+
+La présente obligation s'applique à compter de la rentrée scolaire de l'année civile où l'enfant atteint l'âge de six ans.
 
 Les familles domiciliées à proximité de deux ou plusieurs écoles publiques ont la faculté de faire inscrire leurs enfants à l'une ou l'autre de ces écoles, qu'elle soit ou non sur le territoire de leur commune, à moins qu'elle ne compte déjà le nombre maximum d'élèves autorisé par les règlements.
 

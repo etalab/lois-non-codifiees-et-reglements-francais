@@ -1,7 +1,17 @@
 # Article 16
 
-Les enfants qui reçoivent l'instruction dans leur famille sont, à l'âge de huit ans, de dix ans et de douze ans, l'objet d'une enquête sommaire de la mairie compétente, uniquement aux fins d'établir quelles sont les raisons alléguée par les personnes responsables et s'il leur est donné une instruction dans la mesure compatible avec leur état de santé et les conditions de vie de la famille. Le résultat de cette enquête est communiqué à l'inspecteur primaire.
+Les enfants soumis à l'obligation scolaire qui reçoivent l'instruction dans leur famille sont dès la première année, et tous les deux ans, l'objet d'une enquête de la mairie compétente, uniquement aux fins d'établir quelles sont les raisons alléguées par les personnes responsables, et s'il leur est donné une instruction dans la mesure compatible avec leur état de santé et les conditions de vie de la famille. Le résultat de cette enquête est communiqué à l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale.
 
-Ce dernier peut demander à l'inspecteur d'académie de désigner des personnes aptes à se rendre compte de l'état physique et intellectuel de l'enfant. Ces personnes pourront l'examiner sur les notions élémentaires de lecture, d'écriture et de calcul, et proposer, le cas échéant, à l'autorité compétente les mesures qui leur paraîtraient nécessaires en présence d'illettrés.
+Lorsque l'enquête n'a pas été effectuée, elle est diligentée par le représentant de l'Etat dans le département.
 
-Notification de cet avis sera faite aux personnes responsables, avec l'indication du délai dans lequel elles devront fournir leurs explications ou améliorer la situation, et des sanctions dont elles seraient l'objet dans le cas contraire, par application de la présente loi.
+L'inspecteur d'académie doit, au moins une fois par an, à partir du troisième mois suivant la déclaration d'instruction par la famille, faire vérifier que l'enseignement assuré est conforme au droit de l'enfant à l'instruction tel que défini à l'article 1er de la loi n° 98-1165 du 18 décembre 1998 tendant à renforcer le contrôle de l'obligation scolaire.
+
+Ce contrôle prescrit par l'inspecteur d'académie a lieu notamment au domicile des parents de l'enfant.
+
+Ce contrôle est effectué sans délai en cas de défaut de déclaration d'instruction par la famille, sans préjudice de l'application des sanctions pénales.
+
+Le contenu des connaissances requis des élèves est fixé par décret.
+
+Les résultats de ce contrôle sont notifiés aux personnes responsables avec l'indication du délai dans lequel elles devront fournir leurs explications ou améliorer la situation et des sanctions dont elles seraient l'objet dans le cas contraire.
+
+Si, au terme d'un nouveau délai fixé par l'inspecteur d'académie, les résultats du contrôle sont jugés insuffisants, les parents sont mis en demeure, dans les quinze jours suivant la notification, d'inscrire leur enfant dans un établissement d'enseignement public ou privé et de faire connaître au maire, qui en informe l'inspecteur d'académie, l'école ou l'établissement qu'ils auront choisi.
