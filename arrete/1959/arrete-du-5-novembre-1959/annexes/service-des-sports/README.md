@@ -1,3 +1,0 @@
-# Service des sports
-
-- [Article ANNEXE](article-annexe.md)
