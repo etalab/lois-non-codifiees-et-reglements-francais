@@ -1,3 +1,3 @@
 # Article 17
 
-Le président du conseil régional met à la disposition du président du comité économique et social les moyens permettant d'assurer le secrétariat des séances du comité et de celles de ses commissions.
+Chaque année, dans le cadre de la préparation du budget de la région, le président du comité économique et social élabore un projet portant sur les crédits nécessaires à son fonctionnement et à la réalisation de ses études qu'il soumet au président du conseil régional. "
