@@ -40,6 +40,7 @@
 - [Décret n°79-682 du 8 août 1979](decret-n79-682-du-8-aout-1979)
 - [Décret n°79-707 du 8 août 1979](decret-n79-707-du-8-aout-1979)
 - [Décret n°79-310 du 9 avril 1979](decret-n79-310-du-9-avril-1979)
+- [Décret n°79-949 du 9 novembre 1979](decret-n79-949-du-9-novembre-1979)
 - [Décret n°79-22 du 10 janvier 1979](decret-n79-22-du-10-janvier-1979)
 - [Décret n°79-577 du 10 juillet 1979](decret-n79-577-du-10-juillet-1979)
 - [Décret n°79-578 du 10 juillet 1979](decret-n79-578-du-10-juillet-1979)
