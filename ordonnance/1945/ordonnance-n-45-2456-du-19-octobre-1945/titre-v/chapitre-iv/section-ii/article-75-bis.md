@@ -1,0 +1,3 @@
+# Article 75 bis
+
+Un arrêté du ministre du travail et de la sécurité sociale et du ministre des finances déterminera, dans un délai de deux mois à compter de la promulgation de la présente loi, les conditions dans lesquelles l'Etat peut participer à la couverture des risques sociaux assurés par les sociétés mutualistes constituées entre les fonctionnaires, agents et employés de l'Etat et des établissements publics nationaux. Cette participation ne peut être supérieure à 50 p. 100 de la cotisation effectivement versée par les membres participants, ni excéder le tiers des charges entraînées par le service des prestations.

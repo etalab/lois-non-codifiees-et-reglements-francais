@@ -7,3 +7,4 @@
 - [Loi n° 46-643 du 11 avril 1946](loi-n-46-643-du-11-avril-1946)
 - [Loi n° 46-729 du 16 avril 1946](loi-n-46-729-du-16-avril-1946)
 - [Loi n° 46-835 du 25 avril 1946](loi-n-46-835-du-25-avril-1946)
+- [Loi n° 46-860 du 30 avril 1946](loi-n-46-860-du-30-avril-1946)
