@@ -371,6 +371,7 @@
 - [Décret n°69-444 du 14 mai 1969](decret-n69-444-du-14-mai-1969)
 - [Décret n°90-414 du 14 mai 1990 (MENT9000432D)](decret-n90-414-du-14-mai-1990-ment9000432d)
 - [Décret n°94-376 du 14 mai 1994 (ECOT9436519D)](decret-n94-376-du-14-mai-1994-ecot9436519d)
+- [Décret n°67-1007 du 15 novembre 1967](decret-n67-1007-du-15-novembre-1967)
 - [Décret n°94-294 du 15 avril 1994 (SPSA9400972D)](decret-n94-294-du-15-avril-1994-spsa9400972d)
 - [Décret n°94-297 du 15 avril 1994 (DEFX9400046D)](decret-n94-297-du-15-avril-1994-defx9400046d)
 - [Décret n°94-313 du 15 avril 1994 (JUSF9450089D)](decret-n94-313-du-15-avril-1994-jusf9450089d)
