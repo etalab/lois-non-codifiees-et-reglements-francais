@@ -2,9 +2,7 @@
 
 La délivrance des labels prévus à l'article 1er ci-dessus est subordonnée :
 
-1° A la présentation d'une fiche d'encépagement établie dans les conditions fixées par l'arrêté du ministre de l'agriculture.
-
-Jusqu'à la publication dudit arrêté, les viticulteurs souscriront, à l'appui de leur demande de label, une déclaration précisant que les vins en faisant l'objet ont été produits sur les parcelles comprises dans l'aire délimitée selon les méthodes culturales et les pratiques de vinification et avec les cépages prévus par l'appellation revendiquée ;
+1° A la présentation d'une déclaration d'encépagement souscrite dans les mêmes conditions que celles prévues pour les vins à appellation d'origine contrôlée.
 
 2° A l'analyse préalable d'un échantillon du vin pour lequel est réclamé le bénéfice de la dénomination "Vin délimité de qualité supérieure".
 

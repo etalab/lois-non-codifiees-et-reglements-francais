@@ -158,6 +158,7 @@
 - [Décret n°82-807 du 22 septembre 1982](decret-n82-807-du-22-septembre-1982)
 - [Décret n°82-808 du 22 septembre 1982](decret-n82-808-du-22-septembre-1982)
 - [Décret n°82-809 du 22 septembre 1982](decret-n82-809-du-22-septembre-1982)
+- [Décret n°82-818 du 22 septembre 1982](decret-n82-818-du-22-septembre-1982)
 - [Décret n°82-260 du 23 mars 1982](decret-n82-260-du-23-mars-1982)
 - [Décret n°82-263 du 23 mars 1982](decret-n82-263-du-23-mars-1982)
 - [Décret n°82-291 du 23 mars 1982](decret-n82-291-du-23-mars-1982)
