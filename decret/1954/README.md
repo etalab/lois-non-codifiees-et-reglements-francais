@@ -5,6 +5,7 @@
 - [Décret n°54-135 du 6 février 1954](decret-n54-135-du-6-fevrier-1954)
 - [Décret n°54-409 du 6 avril 1954](decret-n54-409-du-6-avril-1954)
 - [Décret n°54-257 du 10 mars 1954](decret-n54-257-du-10-mars-1954)
+- [Décret n°54-429 du 12 avril 1954](decret-n54-429-du-12-avril-1954)
 - [Décret n°54-51 du 16 janvier 1954](decret-n54-51-du-16-janvier-1954)
 - [Décret n°54-65 du 16 janvier 1954](decret-n54-65-du-16-janvier-1954)
 - [Décret n°54-207 du 23 février 1954](decret-n54-207-du-23-fevrier-1954)
