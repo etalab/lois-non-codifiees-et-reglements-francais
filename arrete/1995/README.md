@@ -983,6 +983,7 @@
 - [Arrêté du 28 février 1995 (TEFT9500280A)](arrete-du-28-fevrier-1995-teft9500280a)
 - [Arrêté du 28 juillet 1995 (AGRM9501572A)](arrete-du-28-juillet-1995-agrm9501572a)
 - [Arrêté du 28 juillet 1995 (DEFP9501527A)](arrete-du-28-juillet-1995-defp9501527a)
+- [Arrêté du 28 juillet 1995 (ECOT9594355A)](arrete-du-28-juillet-1995-ecot9594355a)
 - [Arrêté du 28 juillet 1995 (FPPA9500062A)](arrete-du-28-juillet-1995-fppa9500062a)
 - [Arrêté du 28 juillet 1995 (INDB9500862A)](arrete-du-28-juillet-1995-indb9500862a)
 - [Arrêté du 28 juillet 1995 (MENL9501557A)](arrete-du-28-juillet-1995-menl9501557a)
