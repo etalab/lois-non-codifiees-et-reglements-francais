@@ -2,7 +2,9 @@
 
 - [Article Annexe I](article-annexe-i.md)
 - [Anatomie (150 heures).](anatomie-150-heures)
+- [Anglais professionnel (40 heures).](anglais-professionnel-40-heures)
 - [Anglais technique (20 heures).](anglais-technique-20-heures)
+- [Enseignements liés au projet pédagogique (45 heures)](enseignements-lies-au)
 - [Electricité, radiobiologie, radioprotection (35 heures).](electricite-radiobiologie-radioprotection-35-heures)
 - [Informatique et bureautique (35 heures).](informatique-et)
 - [Profession et déontologie, législation (20 heures).](profession-et)
@@ -19,4 +21,5 @@
 - [Sémiologie, pathologie (140 heures).](semiologie-pathologie-140-heures)
 - [Technique d'exploration en imagerie (400 heures).](technique-d-exploration-en-imagerie-400-heures)
 - [Techniques d'électrophysiologie (100 heures).](techniques-d-electrophysiologie-100-heures)
+- [Techniques d'électrophysiologie (35 heures).](techniques-d-electrophysiologie-35-heures)
 - [Techniques de soins (30 heures).](techniques-de-soins-30-heures)
