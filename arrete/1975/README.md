@@ -32,3 +32,4 @@
 - [Arrêté du 29 juillet 1976](arrete-du-29-juillet-1976)
 - [Arrêté du 29 mai 1975](arrete-du-29-mai-1975)
 - [Arrêté du 30 septembre 1975](arrete-du-30-septembre-1975)
+- [Arrêté du 31 juillet 1975](arrete-du-31-juillet-1975)
