@@ -1,0 +1,3 @@
+# Article 3
+
+Elle doit par ailleurs inviter chaque adhérent, ou chaque réversataire lorsque l'adhérent est décédé, à demander le transfert de ses droits et obligations auprès de l'entreprise d'assurance ou de la caisse autonome mutualiste avec laquelle le groupement auquel il a choisi d'adhérer a contracté et l'informer qu'à défaut les contrats dont le transfert n'aurait pas été demandé avant le 30 juin 1998 seront transférés aux entreprises d'assurance ou aux caisses autonomes mutualistes désignées par le ministre chargé de l'économie conformément aux dispositions du VI de l'article 55 de la loi du 18 novembre 1997 susvisée.

@@ -1,0 +1,3 @@
+# Article 4
+
+La lettre doit préciser que, quelle que soit l'entreprise d'assurance ou la caisse autonome mutualiste auprès de laquelle le transfert est effectué, le niveau de la rente viagère différée ou immédiate garantie par l'entreprise d'assurance ou la caisse autonome mutualiste ne peut être inférieur à celui qui était garanti ou servi au 31 décembre 1996, au titre des versements antérieurs à cette date, selon le régime constitué en application de l'article 1122-7 du code rural. Les droits des adhérents correspondant aux cotisations versées après le 31 décembre 1996 sont établis conformément aux dispositions propres à l'organisme assureur auprès duquel le contrat de groupe est souscrit.

@@ -12,9 +12,7 @@ Le ou les coordonnateur(s) désigné(s) sur les aéroports parisiens ;
 
 Aéroports de Paris ;
 
-Compagnie nationale Air France ;
-
-Compagnie Air France Europe ;
+Société Air France ;
 
 Compagnie T.A.T. European airlines ;
 

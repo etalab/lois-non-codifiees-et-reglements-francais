@@ -26,7 +26,7 @@ Section 1. Produits de base homologues
 
 1.8. Concentré de cellules souches hématopoïétiques issues de sang de cordon.
 
-1.9. Plasma frais congelé solidarisé.
+1.9. Plasma frais congelé solidarisé pour préparation de sang reconstitué à usage pédiatrique.
 
 1.10. Plasma frais congelé sécurisé par quarantaine :
 
@@ -152,8 +152,6 @@ Section 4. Transformations des produits de base
 
 4.3.1. Concentré de globules rouges (préparation pédiatrique) ;
 
-4.3.2. Concentré de plaquettes standard ;
-
 4.3.3. Concentré de plaquettes d'aphérèse ;
 
 4.3.4. Concentré de granulocytes d'aphérèse.
@@ -182,8 +180,6 @@ Section 4. Transformations des produits de base
 
 4.6.1.2. Concentré de globules rouges ;
 
-4.6.1.3. Concentré de plaquettes standard ;
-
 4.6.1.4. Concentré de plaquettes d'aphérèse.
 
 4.6.2. Produits autologues :
@@ -197,8 +193,6 @@ Section 4. Transformations des produits de base
 4.7. Déplasmatisation (cette transformation ne s'applique qu'aux produits de base homologues) :
 
 4.7.1. Concentré de globules rouges ;
-
-4.7.2. Concentré de plaquettes standard ;
 
 4.7.3. Concentré de plaquettes d'aphérèse ;
 
@@ -237,8 +231,6 @@ Section 4. Transformations des produits de base
 4.9.1. Sang total ;
 
 4.9.2. Concentré de globules rouges ;
-
-4.9.3. Concentré de plaquettes standard ;
 
 4.9.4. Concentré de plaquettes d'aphérèse ;
 

@@ -1,3 +1,3 @@
 # Article 10
 
-Toute installation nouvelle de transpondeur doit, dès le 1er janvier 1992 [*date*], être A + C (ou mode S, niveau 2 au moins) avec alticodeur.
+Des dérogations, occasionnelles ou permanentes, aux dispositions des articles 4 et 5, au bénéfice des planeurs, y compris les planeurs à dispositif d'envoi incorporé, peuvent être accordées par les gestionnaires de l'espace considéré ; les modalités en sont alors prévues par des protocoles d'accord établis entre ces gestionnaires et les représentants des activités vélivoles.

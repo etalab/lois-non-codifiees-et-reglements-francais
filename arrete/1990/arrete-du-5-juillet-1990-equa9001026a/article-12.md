@@ -1,3 +1,3 @@
 # Article 12
 
-Tout aéronef en vol IFR doit être équipé de transpondeur mode S, niveau 3 au moins, dès le 1er janvier 1998 [*date*], avec un dispositif de diversité d'antenne pour les aéronefs de plus de 5,7 tonnes.
+Des dérogations aux articles 4, 5, 6, 7 et 8 peuvent être accordées, sous certaines conditions, par l'autorité compétente des services de la circulation aérienne, sur demande des intéressés.
