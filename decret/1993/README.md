@@ -216,6 +216,7 @@
 - [Décret n°93-57 du 15 janvier 1993 (TEFG9300045D)](decret-n93-57-du-15-janvier-1993-tefg9300045d)
 - [Décret n°93-63 du 15 janvier 1993 (MENX9200255D)](decret-n93-63-du-15-janvier-1993-menx9200255d)
 - [Décret n°93-79 du 15 janvier 1993 (ECOC9200145D)](decret-n93-79-du-15-janvier-1993-ecoc9200145d)
+- [Décret n°93-793 du 15 avril 1993 (FPPX9300053D)](decret-n93-793-du-15-avril-1993-fppx9300053d)
 - [Décret n°93-82 du 15 janvier 1993 (JUSC9221065D)](decret-n93-82-du-15-janvier-1993-jusc9221065d)
 - [Décret n°93-83 du 15 janvier 1993 (ECOC9200138D)](decret-n93-83-du-15-janvier-1993-ecoc9200138d)
 - [Décret n°93-88 du 15 janvier 1993 (MJSK9270172D)](decret-n93-88-du-15-janvier-1993-mjsk9270172d)
