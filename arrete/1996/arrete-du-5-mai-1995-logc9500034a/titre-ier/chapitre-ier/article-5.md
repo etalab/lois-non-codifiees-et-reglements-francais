@@ -6,12 +6,12 @@ COÛT FORFAITAIRE
 
 Garages enterrés
 
-ZONE 1 : 50 000 F
+ZONE 1 : 57 742 F
 
-ZONES 2 et 3 : 45 000 F
+ZONES 2 et 3 : 51 967 F
 
 Garages en superstructure
 
-ZONE 1 : 34 000 F
+ZONE 1 : 39 265 F
 
-ZONES 2 et 3 : 31 000 F
+ZONES 2 et 3 : 35 800 F
