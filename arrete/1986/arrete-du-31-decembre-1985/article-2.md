@@ -1,3 +1,3 @@
 # Article 2
 
-Le montant minimum de la contribution due par les communes de plus de deux mille habitants [*population*] pour la mission d'aide technique, telle qu'elle est définie à l'article 18 de l'arrêté susvisé, est fixé, pour l'année 1986, à 1,39 F par habitant [*montant*].
+Le directeur de la sécurité sociale, le directeur général de la santé, le directeur du budget et le directeur général de la concurrence, de la consommation et de la répression des fraudes sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
