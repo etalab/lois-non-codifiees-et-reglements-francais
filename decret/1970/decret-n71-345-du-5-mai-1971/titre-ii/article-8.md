@@ -1,0 +1,3 @@
+# Article 8
+
+Le programme et les modalités d'organisation des concours prévus au II de l'article 6 et à l'article 7, ainsi que les modalités de report des places non pourvues entre les filières prévues au 1° de l'article 7, sont fixés par arrêté conjoint du ministre chargé de l'équipement et du ministre chargé de la fonction publique. Des arrêtés conjoints des mêmes ministres fixent chaque année le nombre maximum des places offertes aux concours, les filières dans lesquelles un concours est ouvert en application du 1° de l'article 7 et le nombre de places offertes dans chaque filière, ainsi que les dates d'ouverture des épreuves. Ils déterminent également les spécialités dans lesquelles un concours est ouvert en application du II de l'article 6.
