@@ -895,7 +895,6 @@
 - [Arrêté du 30 mai 1990 (INTB9000221A)](arrete-du-30-mai-1990-intb9000221a)
 - [Arrêté du 31 août 1989 (PRME9061044A)](arrete-du-31-aout-1989-prme9061044a)
 - [Arrêté du 31 août 1990 (AGRH9001862A)](arrete-du-31-aout-1990-agrh9001862a)
-- [Arrêté du 31 août 1990 (AGRH9001876A)](arrete-du-31-aout-1990-agrh9001876a)
 - [Arrêté du 31 août 1990 (ECOZ9000063A)](arrete-du-31-aout-1990-ecoz9000063a)
 - [Arrêté du 31 janvier 1990 (BUDD9070000A)](arrete-du-31-janvier-1990-budd9070000a)
 - [Arrêté du 31 janvier 1990 (BUDR9005007A)](arrete-du-31-janvier-1990-budr9005007a)

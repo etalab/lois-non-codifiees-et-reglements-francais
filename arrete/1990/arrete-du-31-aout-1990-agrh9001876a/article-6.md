@@ -1,3 +1,0 @@
-# Article 6
-
-Les chevaux inscrits à leur naissance au stud-book du cheval de selle français en application des règlements en vigueur à l'époque, mais inscriptibles au stud-book français du cheval anglo-arabe au terme des articles 5 et 9 du présent arrêté, conservent sur leur certificat d'origine l'appellation de race qui leur a été donnée à leur naissance. Mais cette appellation est transformée dans les fichiers informatiques du S.I.R.E. en "anglo-arabe" ou "anglo-arabe de complément" selon leur pourcentage de sang arabe. Ils sont ainsi utilisés comme tels lorsqu'ils sont livrés à la reproduction et pour déterminer la race de leurs descendants.

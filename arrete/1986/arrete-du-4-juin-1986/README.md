@@ -3,7 +3,6 @@
 - [Titre 1er : Stud-book français du cheval arabe.](titre-1er)
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
-- [Titre II : Stud-book de l'anglo-arabe.](titre-ii)
 - [Article 3](article-3.md)
 - [Titre III : Stud-book du cheval de selle français.](titre-iii)
 - [Article 4](article-4.md)
