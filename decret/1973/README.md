@@ -71,6 +71,7 @@
 - [Décret n°73-1120 du 17 décembre 1973](decret-n73-1120-du-17-decembre-1973)
 - [Décret n°73-533 du 18 juin 1973](decret-n73-533-du-18-juin-1973)
 - [Décret n°73-645 du 18 juin 1973](decret-n73-645-du-18-juin-1973)
+- [Décret n°73-74 du 18 janvier 1973](decret-n73-74-du-18-janvier-1973)
 - [Décret n°73-985 du 18 octobre 1973](decret-n73-985-du-18-octobre-1973)
 - [Décret n°73-1117 du 19 décembre 1973](decret-n73-1117-du-19-decembre-1973)
 - [Décret n°73-541 du 19 juin 1973](decret-n73-541-du-19-juin-1973)
