@@ -1,9 +1,5 @@
 # Article 4
 
-Le dossier de demande de licence d'entrepreneur de grande remise comprend les pièces suivantes [*formalités*]:
+Les dossiers de demande de licence d'entrepreneur de remise et de tourisme et les dossiers de demande de certificats supplémentaires de voitures de grande remise sont établis selon les règles fixées par l'annexe I du présent arrêté.
 
-- formulaire de demande de licence ;
-
-- extrait du registre de commerce et des sociétés où est inscrite l'entreprise ou récépissé de demande d'inscription à ce registre ;    - certificat d'aptitude à la profession d'entrepreneur de remise et de tourisme ;
-
-- description des conditions dans lesquelles s'exercera l'activité : bureaux, organisation commerciale, clientèle recherchée, matériel et personnel.
+Les demandes de certificats supplémentaires de voitures de grande remise sont instruites dans les mêmes conditions que les demandes de licence.

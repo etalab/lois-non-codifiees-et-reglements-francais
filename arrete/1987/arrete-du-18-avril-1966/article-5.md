@@ -1,7 +1,7 @@
 # Article 5
 
-Le changement de siège social ou du centre d'exploitation à l'intérieur du même département doit faire l'objet d'une déclaration ; pour les entreprises exploitant plus de deux véhicules, il est soumis à l'agrément préfectoral, après avis de la commission compétente.
+En cas de changement d'adresse du siège de l'entreprise, le représentant légal ou statutaire de celle-ci en avise le préfet ayant délivré la licence. Le transfert du siège de l'entreprise dans un autre département est soumis à autorisation préalable du préfet du département dans lequel l'entreprise veut installer son siège. Cette demande est instruite dans les mêmes conditions qu'une demande d'attribution de licence.
 
-L'établissement d'une succursale est également soumis à l'agrément du préfet, commissaire de la République du département où cette succursale doit être ouverte, après avis de la commission compétente.
+L'ouverture d'un établissement secondaire est soumise à déclaration préalable auprès du préfet de département dans lequel doit être installé cet établissement secondaire. La commission départementale de l'action touristique est informée de cette ouverture.
 
-Le déplacement du siège social ou du centre d'exploitation dans un autre département est soumis à l'agrément des préfets, commissaires de la République du département, intéressés, après avis des commissions compétentes.
+Les demandes de certificats supplémentaires de voitures de grande remise présentées au titre d'un établissement secondaire sont instruites dans les mêmes conditions qu'une demande d'attribution de licence.

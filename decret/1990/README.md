@@ -617,6 +617,8 @@
 - [Décret n°90-765 du 28 août 1990 (AGRS9001323D)](decret-n90-765-du-28-aout-1990-agrs9001323d)
 - [Décret n°90-766 du 28 août 1990 (PRME9061910D)](decret-n90-766-du-28-aout-1990-prme9061910d)
 - [Décret n°90-867 du 28 septembre 1990 (MENT9002221D)](decret-n90-867-du-28-septembre-1990-ment9002221d)
+- [Décret n°90-879 du 28 septembre 1990 (PRME9061916D)](decret-n90-879-du-28-septembre-1990-prme9061916d)
+- [Décret n°90-880 du 28 septembre 1990 (LOGC9000078D)](decret-n90-880-du-28-septembre-1990-logc9000078d)
 - [Décret n°91-236 du 28 février 1991 (MENF9100143D)](decret-n91-236-du-28-fevrier-1991-menf9100143d)
 - [Décret n°91-826 du 28 août 1991 (EQUP9100860D)](decret-n91-826-du-28-aout-1991-equp9100860d)
 - [Décret n°90-435 du 28 mai 1990 (FPPA9000053D)](decret-n90-435-du-28-mai-1990-fppa9000053d)

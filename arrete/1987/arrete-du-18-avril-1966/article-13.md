@@ -1,6 +1,6 @@
 # Article 13
 
-Les décisions du préfet, commissaire de la République du département, prises après avis de la commission départementale de l'action touristique sont susceptibles d'appel devant le ministre chargé du tourisme qui statue après avis d'une commission nationale de grande remise ainsi composée :
+Les décisions du préfet de département, prises après avis de la commission départementale de l'action touristique sont susceptibles d'appel devant le ministre chargé du tourisme qui statue après avis d'une commission nationale de grande remise ainsi composée :
 
 1° Le directeur de l'industrie touristique ou son représentant, président ;
 
@@ -12,4 +12,4 @@ Les décisions du préfet, commissaire de la République du département, prises
 
 5° Deux personnes désignées sur proposition de l'organisation la plus représentative de la profession.
 
-En cas de partage des voix, le président a voix prépondérante [*conditions de majorité*].
+En cas de partage des voix, le président a voix prépondérante.

@@ -1,5 +1,5 @@
 # Article 14
 
-Les types de véhicules susceptibles d'être présentés au contrôle prévu à l'article 6 du décret du 15 juillet 1955 et les types de véhicules susceptibles d'être utilisés comme véhicules auxiliaires sont fixés chaque année par le ministre chargé du tourisme, après avis de la Commission nationale de grande remise, un représentant du ministre chargé de l'industrie ayant été entendu .
+L'annexe IV du présent arrêté fixe les normes applicables aux véhicules principaux et auxiliaires de grande remise. Ces dispositions font l'objet d'un examen annuel par la Commission nationale de la grande remise, qui comprend à cet effet un représentant du ministère chargé de l'industrie.
 
-Les véhicules doivent être de parfaite présentation, en excellent état d'entretien mécanique et faire l'objet d'une assurance garantissant sans limitation les personnes transportées. Lorsque l'entrepreneur utilise des véhicules pris en location, ceux-ci doivent avoir fait l'objet d'une visite technique depuis moins de trois mois au moment où ils sont mis en service.
+Les véhicules doivent être de parfaite présentation, en excellent état d'entretien mécanique et faire l'objet d'une assurance garantissant sans limitation les personnes transportées. Les véhicules, propriété de l'entreprise, ayant été mis en circulation depuis plus de douze mois, doivent faire l'objet d'un contrôle annuel. Lorsque l'entrepreneur utilise des véhicules pris en location, ceux-ci doivent faire l'objet d'une visite technique depuis moins de six mois au moment où ils sont mis en circulation.
