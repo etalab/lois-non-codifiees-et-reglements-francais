@@ -78,6 +78,8 @@
 - [Décret n°86-1084 du 7 octobre 1986](decret-n86-1084-du-7-octobre-1986)
 - [Décret n°86-1089 du 7 octobre 1986](decret-n86-1089-du-7-octobre-1986)
 - [Décret n°86-1090 du 7 octobre 1986](decret-n86-1090-du-7-octobre-1986)
+- [Décret n°86-1178 du 7 novembre 1986](decret-n86-1178-du-7-novembre-1986)
+- [Décret n°86-1179 du 7 novembre 1986](decret-n86-1179-du-7-novembre-1986)
 - [Décret n°86-20 du 7 janvier 1986](decret-n86-20-du-7-janvier-1986)
 - [Décret n°86-203 du 7 février 1986](decret-n86-203-du-7-fevrier-1986)
 - [Décret n°86-21 du 7 janvier 1986](decret-n86-21-du-7-janvier-1986)
