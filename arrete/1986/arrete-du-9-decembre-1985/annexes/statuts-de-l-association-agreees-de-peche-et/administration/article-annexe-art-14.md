@@ -1,3 +1,0 @@
-# Article Annexe, art. 14
-
-Les membres du bureau sont élus, à bulletins secrets, par l'assemblée générale des membres actifs. Ils sont rééligibles. Sauf cas de fondation nouvelle, leur mandat commence le 1er janvier précédant la date d'expiration des baux de pêche consentis par l'Etat sur le domaine public. Il se termine le 31 décembre précédant l'expiration des baux suivants. Ils répondent solidairement de l'exécution de leur mandat. Tous les membres de l'association sont également, conjointement et solidairement, responsables de tous les actes de l'association. L'association ne peut effectuer d'actes de commerce avec les membres du bureau et leur famille.

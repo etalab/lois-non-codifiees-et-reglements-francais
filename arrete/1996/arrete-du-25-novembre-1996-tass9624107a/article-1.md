@@ -1,0 +1,3 @@
+# Article 1
+
+L'avenant pris en application des articles 2 et 3 de la convention nationale de l'hospitalisation privée, approuvée par arrêté du 19 juin 1992, conclu entre, d'une part, la Caisse nationale de l'assurance maladie des travailleurs salariés, la Caisse centrale de la mutualité sociale agricole, la Caisse nationale d'assurance maladie des travailleurs non salariés des professions non agricoles, et, d'autre part, l'Union hospitalière privée, la Fédération intersyndicale des établissements d'hospitalisation privée et la Fédération des établissements hospitaliers et d'assistance privés, membre du Comité professionnel national de l'hospitalisation privée visé à l'article L. 162-22-2 du code de la sécurité sociale, est approuvé.

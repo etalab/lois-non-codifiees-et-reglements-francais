@@ -322,6 +322,14 @@ Emplois de catégorie A, B, C et D de l'unité de recherche de la sécurité rou
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Institution nationale des invalides
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois occupés par les praticiens hospitaliers civils
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Musée de l'armée
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
