@@ -38,7 +38,7 @@ Construction ou aménagement de logements pour des exploitants agricoles, des sa
 
 Jardins familiaux.
 
-Création et aménagement de jardins familiaux dans les communes rurales par les organismes visés à l'article L. 561-1 du code rural.
+Création et aménagement de jardins familiaux par les organismes visés à l'article L. 561-1 du code rural.
 
 Aménagement rural.
 

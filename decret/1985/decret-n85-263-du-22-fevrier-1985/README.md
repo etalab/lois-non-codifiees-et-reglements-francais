@@ -1,4 +1,4 @@
-# Arrêté du 14 février 1985 portant fixation temporaire de certaines conditions d'application de l'article R. 351-50 du Code du travail.
+# Décret n°85-263 du 22 février 1985 relatif à la répartition de la dotation globale d'équipement des départements pour l'année 1985
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,4 +8,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 9](article-9.md)

@@ -42,6 +42,7 @@
 - [Arrêté du 20 décembre 1984](arrete-du-20-decembre-1984)
 - [Arrêté du 21 décembre 1984](arrete-du-21-decembre-1984)
 - [Arrêté du 21 janvier 1985](arrete-du-21-janvier-1985)
+- [Arrêté du 22 février 1985](arrete-du-22-fevrier-1985)
 - [Arrêté du 22 janvier 1985](arrete-du-22-janvier-1985)
 - [Arrêté du 23 janvier 1985](arrete-du-23-janvier-1985)
 - [Arrêté du 24 décembre 1984](arrete-du-24-decembre-1984)

@@ -1,0 +1,3 @@
+# Article 1
+
+Les crédits qui, au titre des autorisations de programme inscrites pour un montant de 2.644.557.000 F au budget de l'Etat pour la dotation globale d'équipement des communes et de leurs groupements, pourront faire l'objet d'une délégation aux commissaires de la République en vue de l'attribution de cette dotation globale d'équipement, sont, conformément au dernier alinéa de l'article 1er du décret n° 84-108 du 16 février 1984 modifié, les crédits de paiement figurant au budget de l'Etat pour un montant de 1.965.188.000 F, diminués d'un montant de 370.260.000 F en application des dispositions du dernier alinéa de l'article 1er du décret du 16 février 1984 précité.
