@@ -11,6 +11,7 @@
 - [Arrêté du 5 février 2004 (AGRA0302335A)](arrete-du-5-fevrier-2004-agra0302335a)
 - [Arrêté du 7 janvier 2004 (SPRK0370242A)](arrete-du-7-janvier-2004-sprk0370242a)
 - [Arrêté du 7 septembre 2004 (ECOP0400570A)](arrete-du-7-septembre-2004-ecop0400570a)
+- [Arrêté du 8 décembre 2003 (EQUT0301651A)](arrete-du-8-decembre-2003-equt0301651a)
 - [Arrêté du 8 décembre 2003 (SOCT0312036A)](arrete-du-8-decembre-2003-soct0312036a)
 - [Arrêté du 8 septembre 2004 (EQUP0301572A)](arrete-du-8-septembre-2004-equp0301572a)
 - [Arrêté du 8 septembre 2004 (JUSG0460047A)](arrete-du-8-septembre-2004-jusg0460047a)
