@@ -621,6 +621,7 @@
 - [Décret n°94-1235 du 29 décembre 1994 (EQUR9401179D)](decret-n94-1235-du-29-decembre-1994-equr9401179d)
 - [Décret n°95-340 du 29 mars 1995 (DOME9500012D)](decret-n95-340-du-29-mars-1995-dome9500012d)
 - [Décret n°95-341 du 29 mars 1995 (DOME9500011D)](decret-n95-341-du-29-mars-1995-dome9500011d)
+- [Décret n°95-747 du 29 mai 1995 (INTD9500157D)](decret-n95-747-du-29-mai-1995-intd9500157d)
 - [Décret n°94-1228 du 30 décembre 1994 (AGRA9402239D)](decret-n94-1228-du-30-decembre-1994-agra9402239d)
 - [Décret n°94-1229 du 30 décembre 1994 (FPPA9400146D)](decret-n94-1229-du-30-decembre-1994-fppa9400146d)
 - [Décret n°94-1230 du 30 décembre 1994 (SPSS9403649D)](decret-n94-1230-du-30-decembre-1994-spss9403649d)
