@@ -1,3 +1,0 @@
-# Article 15
-
-En cas de faute grave et après consultation du conseil d'administration de la caisse régionale ou de l'union, le directeur peut être suspendu pour une période maximale de six mois ou ses fonctions lui être retirées par le ministre chargé de la marine marchande dans les formes et conditions fixées par le décret prévu à l'article 20 [*sanctions*]. Le conseil d'administration doit, aussitôt après ce retrait ou cette suspension, désigner une personne chargée de la direction de la caisse ou de l'union [*remplaçant*]. En cas de carence du conseil d'administration, le ministre compétent procède à cette désignation dans les conditions déterminées par le même décret.

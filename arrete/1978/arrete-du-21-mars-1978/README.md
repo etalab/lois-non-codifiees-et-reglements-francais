@@ -1,5 +1,3 @@
-# Arrêté du 21 mars 1978 relatif aux caractéristiques techniques et aux prix des logements-foyers à usage locatif bénéficiant de prêts aidés par l'Etat.
+# Arrêté du 21 mars 1978 portant création d'une commission de l'informatique au ministère du travail et au ministère de la santé et de la sécurité sociale et d'un comité consultatif de l'informatique dans le domaine du travail et de l'emploi auprès de cette commission.
 
-- [SECTION I - Caractéristiques techniques.](section-i)
-- [SECTION II - Prix de revient - Prix de référence.](section-ii)
 - [Annexes](annexes)
