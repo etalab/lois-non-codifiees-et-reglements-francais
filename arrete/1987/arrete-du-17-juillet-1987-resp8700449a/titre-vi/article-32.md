@@ -1,6 +1,6 @@
 # Article 32
 
-Pour la sixième année d'études, les élèves pharmaciens chimistes des écoles du service de santé des armées sont détachés à l'école d'application du service de santé pour l'armée de terre au Val-de-Grâce, où ils reçoivent une formation théorique et pratique, et dans les hôpitaux d'instruction des armées et dans d'autres établissements des armées de la région Ile-de-France, où ils reçoivent une formation pratique d'une durée de six mois.
+Pour la sixième année d'études, les élèves pharmaciens chimistes des écoles du service de santé des armées sont détachés à l'école d'application du service de santé des armées au Val-de-Grâce, où ils reçoivent une formation théorique et pratique, et dans les hôpitaux d'instruction des armées et dans les autres établissements des armées où ils reçoivent une formation pratique d'une durée de six mois.
 
 La nature du stage est en rapport avec les emplois offerts aux pharmaciens chimistes des armées.
 
