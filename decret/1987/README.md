@@ -440,6 +440,7 @@
 - [Décret n°87-805 du 30 septembre 1987 (ASES8700865D)](decret-n87-805-du-30-septembre-1987-ases8700865d)
 - [Décret n°87-812 du 30 septembre 1987 (MENF8700552D)](decret-n87-812-du-30-septembre-1987-menf8700552d)
 - [Décret n°87-885 du 30 octobre 1987 (EQUU8700933D)](decret-n87-885-du-30-octobre-1987-equu8700933d)
+- [Décret n°87-891 du 30 octobre 1987](decret-n87-891-du-30-octobre-1987)
 - [Décret n°87-357 du 30 mai 1987 (PTTP8700358D)](decret-n87-357-du-30-mai-1987-pttp8700358d)
 - [Décret n°86-1365 du 31 décembre 1986](decret-n86-1365-du-31-decembre-1986)
 - [Décret n°86-1373 du 31 décembre 1986](decret-n86-1373-du-31-decembre-1986)
