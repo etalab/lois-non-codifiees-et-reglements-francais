@@ -1,0 +1,3 @@
+# Article 44
+
+Si les dispositions des articles 37 et 41 ci-dessus ont pour effet de classer les attachés ou les inspecteurs nommés dans le grade de chef de bureau de classe normale ou de chef des services régionaux de classe normale entre le 1er août 1996 et la date de publication du présent décret, à un échelon doté d'un indice inférieur à celui de l'échelon du grade de chef de bureau ou de chef des services régionaux de 2e classe dans lequel ils avaient été classés en application des articles 13 et 14 du décret du 3 avril 1958 susmentionné, les intéressés conservent à titre personnel le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau grade d'un indice au moins égal.

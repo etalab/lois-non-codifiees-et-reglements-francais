@@ -1,0 +1,5 @@
+# Article 49
+
+Les installations, et en particulier les réservoirs, canalisations, équipements contenant de l'ammoniac liquide, gazeux ou biphasique, doivent être protégées pour éviter d'être heurtées ou endommagées par des véhicules, des engins ou des charges, etc. A cet effet, il doit être mis en place des gabarits pour les canalisations aériennes, les installations au sol et leurs équipements sensibles (purge, etc.) et des barrières résistant aux chocs.
+
+De plus, un dispositif limiteur de pression doit être placé sur toute enceinte ou portion de canalisation, qui en régime normal peut être isolé par la fermeture d'une ou de plusieurs vannes sur phase liquide. Les échappements des dispositifs limiteurs de pression (soupapes, disques de rupture, etc.) doivent être captés sans possibilité d'obstruction accidentelle. Si le rejet peut entraîner des conséquences notables pour l'environnement et les personnes, il doit être relié à un dispositif destiné à recueillir ou à neutraliser l'ammoniac (réservoirs de confinement, rampe de pulvérisation, tour de lavage, etc.)

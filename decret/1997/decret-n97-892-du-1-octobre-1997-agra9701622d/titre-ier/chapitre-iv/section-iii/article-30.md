@@ -1,0 +1,11 @@
+# Article 30
+
+I. - Peuvent être promus au grade d'attaché principal de 2e classe, par la voie d'un concours professionnel, dont les modalités sont fixées, sur proposition du directeur général de l'Office national interprofessionnel des céréales, par arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé de la fonction publique, les attachés comptant, au 1er janvier de l'année du concours, au moins 1 an 6 mois d'ancienneté dans le 6e échelon. Les intéressés doivent justifier de huit ans de services effectifs dans un corps, un cadre d'emplois ou un emploi de catégorie A ou de même niveau.
+
+II. - Peuvent être promus au grade d'attaché principal de 2e classe, au choix, dans la limite du sixième des promotions prononcées au titre du I du présent article, après inscription sur un tableau d'avancement établi après avis de la commission administrative paritaire, les attachés parvenus au 9e échelon de leur grade depuis au moins un an et justifiant au 31 décembre de l'année au titre de laquelle le tableau d'avancement est établi d'au moins dix ans de services effectifs dans un corps, un cadre d'emplois ou un emploi de catégorie A ou de même niveau.
+
+Lorsque le nombre des promotions prononcées au titre du I du présent article n'est pas un multiple de six, le reste est ajouté aux promotions prononcées l'année suivante pour le calcul des nominations intervenant au titre de cette nouvelle année en application des dispositions du présent alinéa.
+
+III. - La durée du service national actif effectivement accompli vient, le cas échéant, en déduction des services effectifs exigés au I et au II ci-dessus pour une promotion au grade d'attaché principal de 2e classe. Il en est de même de la fraction qui excède la dixième année de l'ancienneté déterminée dans un corps de catégorie B en application de l'article 24 ci-dessus.
+
+Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de cinq ans la durée des services effectivement accomplis dans un corps, un cadre d'emplois ou un emploi de catégorie A ou de même niveau.

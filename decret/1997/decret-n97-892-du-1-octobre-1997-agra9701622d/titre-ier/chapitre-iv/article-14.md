@@ -1,0 +1,3 @@
+# Article 14
+
+Les membres du corps administratif supérieur de l'Office national interprofessionnel des céréales participent à l'encadrement d'une unité administrative et sont chargés de toute mission relative aux attributions de l'Office national interprofessionnel des céréales. Ils assurent des fonctions de conception, d'expertise, d'inspection et d'encadrement. Ils peuvent également être chargés de missions particulières ou spécialisées relevant de l'ensemble des domaines de compétence de l'Office national interprofessionnel des céréales. Ils exercent leurs fonctions au siège central ou dans les services déconcentrés de l'établissement.
