@@ -721,6 +721,7 @@
 - [Arrêté du 28 mars 2002 (DEFP0201423A)](arrete-du-28-mars-2002-defp0201423a)
 - [Arrêté du 28 mars 2002 (ECOD0260070A)](arrete-du-28-mars-2002-ecod0260070a)
 - [Arrêté du 28 novembre 2002 (SPRK0270221A)](arrete-du-28-novembre-2002-sprk0270221a)
+- [Arrêté du 28 octobre 2002 (DEVG0210368A)](arrete-du-28-octobre-2002-devg0210368a)
 - [Arrêté du 28 octobre 2002 (ECOP0200590A)](arrete-du-28-octobre-2002-ecop0200590a)
 - [Arrêté du 29 août 2002 (ECOP0200709A)](arrete-du-29-aout-2002-ecop0200709a)
 - [Arrêté du 29 août 2002 (ECOP0200710A)](arrete-du-29-aout-2002-ecop0200710a)
