@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions des deux premiers alinéas de l'article D. 4 du code des pensions civiles et militaires de retraite relatives aux modalités de versement des retenues rétroactives par les fonctionnaires qui ont demandé la validation des services de non titulaires qu'ils ont effectués avant leur nomination, les agents bénéficiaires des dispositions du titre II de la loi du 11 juin 1983 susvisée peuvent demander, lorsqu'ils sollicitent la validation de ces services dans un délai d'un an à compter de leur titularisation, que les précomptes mensuels effectués sur le traitement budgétaire net, dans le cas d'un étalement du versement des retenues rétroactives, soient limités à 3 p. 100 de ce traitement.
