@@ -1,6 +1,7 @@
 # 1980
 
 - [Décret n°80-106 du 1 février 1980](decret-n80-106-du-1-fevrier-1980)
+- [Décret n°80-234 du 2 avril 1980](decret-n80-234-du-2-avril-1980)
 - [Décret n°80-6 du 2 janvier 1980](decret-n80-6-du-2-janvier-1980)
 - [Décret n°80-7 du 2 janvier 1980](decret-n80-7-du-2-janvier-1980)
 - [Décret n°80-121 du 4 février 1980](decret-n80-121-du-4-fevrier-1980)
