@@ -1,6 +1,7 @@
 # 1993
 
 - [Loi n° 86-912 du 6 août 1986](loi-n-86-912-du-6-aout-1986)
+- [Loi n° 93-1027 du 24 août 1993 (INTX9300081L)](loi-n-93-1027-du-24-aout-1993-intx9300081l)
 - [Loi n° 93-121 du 27 janvier 1993 (SPSX9200178L)](loi-n-93-121-du-27-janvier-1993-spsx9200178l)
 - [Loi n° 93-893 du 6 juillet 1993 (JUSX9300071L)](loi-n-93-893-du-6-juillet-1993-jusx9300071l)
 - [Loi n° 93-914 du 19 juillet 1993 (INDX9300006L)](loi-n-93-914-du-19-juillet-1993-indx9300006l)
