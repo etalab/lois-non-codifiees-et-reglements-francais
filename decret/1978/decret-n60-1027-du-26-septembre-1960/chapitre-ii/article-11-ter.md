@@ -1,0 +1,3 @@
+# Article 11 ter
+
+En ce qui concerne les mutations des maîtres-assistants ou chefs de travaux des universités d'une discipline à une autre, qu'il y ait ou non changement d'établissement, la demande de l'intéressé est transmise au ministre de l'éducation nationale qui, après avis de la commission de spécialistes compétente et avis favorable du conseil de l'établissement en formation restreinte, saisit pour avis la section compétente du conseil supérieur provisoire des universités. Si l'avis est favorable, la mutation et, le cas échéant, la transformation de l'intitulé de l'emploi sont prononcées par décision du ministre de l'éducation nationale.

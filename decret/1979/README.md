@@ -28,6 +28,7 @@
 - [Décret n°79-668 du 6 août 1979](decret-n79-668-du-6-aout-1979)
 - [Décret n°79-218 du 7 mars 1979](decret-n79-218-du-7-mars-1979)
 - [Décret n°79-387 du 7 mai 1979](decret-n79-387-du-7-mai-1979)
+- [Décret n°79-682 du 8 août 1979](decret-n79-682-du-8-aout-1979)
 - [Décret n°79-310 du 9 avril 1979](decret-n79-310-du-9-avril-1979)
 - [Décret n°79-22 du 10 janvier 1979](decret-n79-22-du-10-janvier-1979)
 - [Décret n°79-577 du 10 juillet 1979](decret-n79-577-du-10-juillet-1979)
