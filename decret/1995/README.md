@@ -739,6 +739,7 @@
 - [Décret n°95-1033 du 18 septembre 1995 (MAEJ9530083D)](decret-n95-1033-du-18-septembre-1995-maej9530083d)
 - [Décret n°95-1111 du 18 octobre 1995 (ECOT9513822D)](decret-n95-1111-du-18-octobre-1995-ecot9513822d)
 - [Décret n°95-1114 du 18 octobre 1995 (SPSX9500135D)](decret-n95-1114-du-18-octobre-1995-spsx9500135d)
+- [Décret n°95-1291 du 18 décembre 1995 (ENVN9530105D)](decret-n95-1291-du-18-decembre-1995-envn9530105d)
 - [Décret n°95-405 du 18 avril 1995 (EQUA9500701D)](decret-n95-405-du-18-avril-1995-equa9500701d)
 - [Décret n°95-408 du 18 avril 1995 (ENVP9530012D)](decret-n95-408-du-18-avril-1995-envp9530012d)
 - [Décret n°95-409 du 18 avril 1995 (ENVP9530013D)](decret-n95-409-du-18-avril-1995-envp9530013d)
