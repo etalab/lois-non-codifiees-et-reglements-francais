@@ -6,4 +6,6 @@
 - [Loi n° 67-523 du 3 juillet 1967](loi-n-67-523-du-3-juillet-1967)
 - [Loi n° 67-563 du 13 juillet 1967](loi-n-67-563-du-13-juillet-1967)
 - [Loi n° 68-671 du 25 juillet 1968](loi-n-68-671-du-25-juillet-1968)
+- [Loi n° 68-690 du 31 juillet 1968](loi-n-68-690-du-31-juillet-1968)
 - [Loi n°67-545 du 7 juillet 1967](loi-n67-545-du-7-juillet-1967)
+- [Loi n°68-688 du 31 juillet 1968](loi-n68-688-du-31-juillet-1968)
