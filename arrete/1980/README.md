@@ -65,7 +65,6 @@
 - [Arrêté du 24 décembre 1980](arrete-du-24-decembre-1980)
 - [Arrêté du 24 janvier 1980](arrete-du-24-janvier-1980)
 - [Arrêté du 24 mars 1980](arrete-du-24-mars-1980)
-- [Arrêté du 24 novembre 1980](arrete-du-24-novembre-1980)
 - [Arrêté du 24 octobre 1980](arrete-du-24-octobre-1980)
 - [Arrêté du 24 septembre 1980](arrete-du-24-septembre-1980)
 - [Arrêté du 25 février 1980](arrete-du-25-fevrier-1980)
