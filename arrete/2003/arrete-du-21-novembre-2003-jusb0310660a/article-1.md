@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé une maison de justice et du droit à Salon-de-Provence (tribunal de grande instance d'Aix-en-Provence) ; Noyon (tribunal de grande instance de Compiègne) ; Denain (tribunal de grande instance de Valenciennes) ; Blois (tribunal de grande instance de Blois) ; Pantin, Le Blanc-Mesnil et Saint-Denis (tribunal de grande instance de Bobigny) ; Nantes-Rezé (tribunal de grande instance de Nantes) ; Fécamp (tribunal de grande instance de Rouen) ; Evreux (tribunal de grande instance d'Evreux) ; Pont-Audemer (tribunal de grande instance de Bernay) ; Toulouse nord et Toulouse ouest (tribunal de grande instance de Toulouse) et Châtenay-Malabry (tribunal de grande instance de Nanterre).

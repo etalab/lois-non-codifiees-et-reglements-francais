@@ -44,4 +44,4 @@ Les moteurs de propulsion des tracteurs, camions et autres véhicules ou engins 
 
 B. - Comme combustible de chauffage ;
 
-C. - Pour tous les usages autres que carburant ou combustible de chauffage ; ces usages n'ouvrent pas droit à l'exonération de la taxe intérieure de consommation prévue à l'article 265 bis (1, a) du code des douanes.
+C. - Pour tous les usages autres que carburant ou combustible de chauffage.
