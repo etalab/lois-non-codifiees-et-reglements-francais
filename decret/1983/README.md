@@ -105,6 +105,7 @@
 - [Décret n°83-816 du 13 septembre 1983](decret-n83-816-du-13-septembre-1983)
 - [Décret n°83-817 du 13 septembre 1983](decret-n83-817-du-13-septembre-1983)
 - [Décret n°83-916 du 13 octobre 1983](decret-n83-916-du-13-octobre-1983)
+- [Décret n°83-1000 du 14 novembre 1983](decret-n83-1000-du-14-novembre-1983)
 - [Décret n°83-195 du 14 mars 1983](decret-n83-195-du-14-mars-1983)
 - [Décret n°83-303 du 14 avril 1983](decret-n83-303-du-14-avril-1983)
 - [Décret n°83-304 du 14 avril 1983](decret-n83-304-du-14-avril-1983)
