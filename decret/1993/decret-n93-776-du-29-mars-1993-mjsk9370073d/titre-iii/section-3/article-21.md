@@ -1,6 +1,6 @@
 # Article 21
 
-Peuvent être placés en position de détachement dans le corps des inspecteurs principaux de la jeunesse, des sports et des loisirs et dans la limite de 5 p. 100 de l'effectif budgétaire du corps, les fonctionnaires de l'Etat et des collectivités territoriales ou établissements publics qui en dépendent appartenant à un grade ou occupant un emploi dont la rémunération principale de fin de carrière est au moins égale à celle afférente à l'indice brut 1015.
+Peuvent être placés en position de détachement dans le corps des inspecteurs principaux de la jeunesse, des sports et des loisirs les fonctionnaires de l'Etat, des collectivités territoriales, de la fonction publique hospitalière ou des établissements publics qui en dépendent appartenant à un corps ou occupant un emploi dont l'indice terminal de fin de carrière est au moins égal à celui afférent à la hors-échelle A.
 
 Le détachement est prononcé à équivalence de grade, après avis de la commission administrative paritaire, à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont les intéressés bénéficiaient dans leur corps ou cadre d'emplois d'origine.
 
