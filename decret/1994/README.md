@@ -406,6 +406,7 @@
 - [Décret n°94-423 du 27 mai 1994 (MCCE9400188D)](decret-n94-423-du-27-mai-1994-mcce9400188d)
 - [Décret n°94-440 du 27 mai 1994 (BUDR9404194D)](decret-n94-440-du-27-mai-1994-budr9404194d)
 - [Décret n°94-447 du 27 mai 1994 (EQUS9400480D)](decret-n94-447-du-27-mai-1994-equs9400480d)
+- [Décret n°71-631 du 28 juillet 1971](decret-n71-631-du-28-juillet-1971)
 - [Décret n°94-1021 du 28 novembre 1994 (INTX9400134D)](decret-n94-1021-du-28-novembre-1994-intx9400134d)
 - [Décret n°94-1022 du 28 novembre 1994 (INTA9400427D)](decret-n94-1022-du-28-novembre-1994-inta9400427d)
 - [Décret n°94-175 du 28 février 1994 (ECOT9420002D)](decret-n94-175-du-28-fevrier-1994-ecot9420002d)
