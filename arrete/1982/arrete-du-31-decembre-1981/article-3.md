@@ -1,3 +1,3 @@
 # Article 3
 
-L'arrêté du 31 décembre 1980 est abrogé.
+Le présent arrêté sera publié au Journal officiel de la République française.

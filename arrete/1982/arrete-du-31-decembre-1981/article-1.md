@@ -1,3 +1,3 @@
 # Article 1
 
-La taxe instituée par l'article 1618 quinquies du code général des impôts est perçue en fonction du poids net des huiles végétales et des huiles d'animaux marins incorporées. Ce poids, ainsi que la nature des huiles, doit être expressément mentionné sur les déclarations d'importation des produits alimentaires en cause [*mention obligatoire*].
+La perception de la contrevaleur de la redevance pour détérioration de la qualité de l'eau émise par les agences financières de bassin fait l'objet d'une rémunération prévue à l'article 18 de l'arrêté du 28 octobre 1975 modifié du ministre de l'environnement et du cadre de vie pris pour l'application des articles 3, 5, 6, 10, 11 et 15 du décret du 28 octobre 1975 susvisé.
