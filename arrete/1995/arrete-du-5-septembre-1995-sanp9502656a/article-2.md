@@ -1,3 +1,3 @@
 # Article 2
 
-Cet examen est annoncé au moins deux mois à l'avance par insertion au Bulletin officiel du ministère chargé de la santé.
+L'ouverture de la session annuelle de l'examen est annoncée au moins deux mois à l'avance par insertion au Journal officiel de la République française.

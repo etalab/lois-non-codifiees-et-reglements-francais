@@ -1,6 +1,6 @@
 # Article 7
 
-L'épreuve pratique est contrôlée conjointement par trois examinateurs désignés par le président du jury national dont l'un appartient au collège des enseignants universitaires de médecine et des personnes qualifiées et les deux autres au collège des thanatopracteurs.
+L'épreuve pratique est contrôlée conjointement par deux examinateurs du collège des thanatopracteurs désignés par le président du jury national.
 
 Elle se déroule dans l'un des centres précisés dans l'arrêté visé à l'article 1er du présent arrêté.
 
