@@ -1,3 +1,3 @@
 # Article 5
 
-Le scrutin est organisé sous l'autorité du ministre chargé de la pêche en eau douce. Le représentant qu'il désigne à cet effet préside le bureau de vote et est assisté par le plus âgé et le plus jeune des présidents des associations susvisées.
+Les postulants aux fonctions de membre titulaire et de membre suppléant du conseil d'administration du Conseil supérieur de la pêche doivent faire connaître leur candidature au président du bureau de vote au cours de l'assemblée générale visée à l'article 2, à l'appel du président de cette assemblée générale.

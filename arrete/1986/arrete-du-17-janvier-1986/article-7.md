@@ -1,3 +1,3 @@
 # Article 7
 
-Les modalités prévues à l'article 2 ne sont pas applicables dans le cas où une fédération regrouperait au niveau national, toutes les associations départementales agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public. Cette fédération sera habilitée à désigner dans les conditions prévues aux articles 3 et 4, les représentants de ces associations au conseil d'administration du Conseil supérieur de la pêche. Le président de cette fédération fait connaître au ministre chargé de la pêche en eau douce le nom des représentants proposés par les associations départementales agréées de pêcheurs amateurs aux engins et aux filets sur les eaux du domaine public pour les représenter au conseil d'administration du conseil supérieur de la pêche.
+L'arrêté du 18 mars 1977 est abrogé.

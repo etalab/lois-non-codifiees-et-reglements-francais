@@ -1,3 +1,3 @@
 # Article 4
 
-L'élection se fait à bulletin secret, à deux tours. Nul n'est élu au premier tour s'il n'a obtenu la majorité des suffrages exprimés. Au second tour, l'élection a lieu à la majorité relative. Si plusieurs candidats obtiennent le même nombre de suffrages, la désignation des membres au conseil d'administration du Conseil supérieur de la pêche est faite par voie de tirage au sort.
+Le scrutin est organisé sous l'autorité du ministre chargé de la pêche en eau douce. Le représentant qu'il désigne à cet effet préside le bureau de vote et est assisté par le plus âgé et le plus jeune des présidents de fédération.
