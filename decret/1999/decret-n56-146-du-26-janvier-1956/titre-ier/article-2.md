@@ -5,3 +5,5 @@ Sous l'autorité du secrétaire général, les deux chefs de service du Conseil 
 Des services législatifs et économiques ;
 
 Des services administratifs.
+
+Ils peuvent être assistés de sous-directeurs.
