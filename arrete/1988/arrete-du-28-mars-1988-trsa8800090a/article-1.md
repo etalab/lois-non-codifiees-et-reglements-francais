@@ -202,7 +202,7 @@ Saint-Rambert-d'Albon Drôme.
 
 Sainte-Foy-la-Grande Dordogne.
 
-Sainte-Léocadie Pyrénées-Orientales.
+Sainte-Léocadie Pyrénés-Orientales.
 
 Sainte-Thénac Charente-Maritime.
 
@@ -243,3 +243,7 @@ Villefranche-Tarare Rhône.
 Villeneuve-sur-Lot Lot-et-Garonne.
 
 Vinon Var.
+
+Aérodrome - Pays
+
+Fontarabie Espagne
