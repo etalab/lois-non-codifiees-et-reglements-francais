@@ -1,6 +1,6 @@
 # Article 24
 
-Sauf dans le cas où il se trouve placé dans l'une des positions de congé que prévoient les articles 18, 19, 20, 21 et 23 du présent décret, le fonctionnaire stagiaire a droit au congé de maladie, au congé de longue maladie et au congé de longue durée mentionnés à l'article 34 de la loi du 11 janvier 1984 susvisée, dans les conditions qui sont fixées par la législation et la réglementation applicables aux fonctionnaires titulaires en activité sous réserve des dispositions ci-après :
+Sauf dans le cas où il se trouve placé dans l'une des positions de congé que prévoient les articles 18, 19, 19 bis, 20, 21, 21 bis et 23 du présent décret, le fonctionnaire stagiaire a droit au congé de maladie, au congé de longue maladie et au congé de longue durée mentionnés à l'article 34 de la loi du 11 janvier 1984 susvisée, dans les conditions qui sont fixées par la législation et la réglementation applicables aux fonctionnaires titulaires en activité sous réserve des dispositions ci-après :
 
 1° Dans le cas mentionné au deuxième alinéa du 2° de l'article 34 de la loi du 11 janvier 1984 susvisée, la durée du congé ouvrant droit au bénéfice de cette disposition est limitée à cinq ans ;
 
