@@ -1,5 +1,6 @@
 # Article Annexe I
 
+<div align="center">
 <table>
 <tbody>
 <tr>
@@ -26,11 +27,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="151">
-<p>1. Arsenic.</p>
+<td rowspan="12" valign="top" width="151">
+<p>1. Arsenic (1-1).</p>
 </td>
 <td valign="top" width="340">
-<p>Matières premières pour aliments des animaux, à l'exception de :</p>
+<p>Matières premières des aliments pour animaux, à l'exception de :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">2</p>
@@ -38,7 +39,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- farines d'herbes, de luzerne et de trèfle déshydraté ainsi que la pulpe séchée de betteraves sucrières et la pulpe séchée, mélassée de betteraves sucrières</p>
+<p>- farines d'herbes, de luzerne et de trèfle déshydraté ainsi que pulpe séchée de betteraves sucrières et pulpe séchée, mélassée de betteraves sucrières</p>
 </td>
 <td valign="top" width="151">
 <p align="center">4</p>
@@ -46,10 +47,50 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- phosphates et aliments des animaux provenant de la transformation de poisson ou d'autres animaux marins</p>
+<p>- tourteau de pression de palmiste</p>
+</td>
+<td valign="top" width="151">
+<p align="center">4 (1-2)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- phosphates et algues marines calcaires</p>
 </td>
 <td valign="top" width="151">
 <p align="center">10</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- carbonate de calcium</p>
+</td>
+<td valign="top" width="151">
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- oxyde de magnésium</p>
+</td>
+<td valign="top" width="151">
+<p align="center">20</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- aliments pour animaux provenant de la transformation de poisson ou d'autres animaux marins</p>
+</td>
+<td valign="top" width="151">
+<p align="center">15 (1-2)</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- farine d'algues marines et matières premières des aliments pour animaux dérivées d'algues marines</p>
+</td>
+<td valign="top" width="151">
+<p align="center">40 (1-2)</p>
 </td>
 </tr>
 <tr>
@@ -62,10 +103,10 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments complets pour poissons</p>
+<p>- aliments complets pour poissons et animaux à fourrure</p>
 </td>
 <td valign="top" width="151">
-<p align="center">4</p>
+<p align="center">6 (1-2)</p>
 </td>
 </tr>
 <tr>
@@ -85,11 +126,11 @@
 </td>
 </tr>
 <tr>
-<td rowspan="7" valign="top" width="151">
+<td rowspan="8" valign="top" width="151">
 <p>2. Plomb.</p>
 </td>
 <td valign="top" width="340">
-<p>Matières premières pour aliments des animaux, à l'exception de :</p>
+<p>Matières premières des aliments pour animaux, à l'exception de :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">10</p>
@@ -105,10 +146,18 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- phosphates</p>
+<p>- phosphates et algues marines calcaires</p>
 </td>
 <td valign="top" width="151">
-<p align="center">30</p>
+<p align="center">15</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- carbonate de calcium</p>
+</td>
+<td valign="top" width="151">
+<p align="center">20</p>
 </td>
 </tr>
 <tr>
@@ -140,15 +189,15 @@
 <p>- aliments minéraux</p>
 </td>
 <td valign="top" width="151">
-<p align="center">30</p>
+<p align="center">15</p>
 </td>
 </tr>
 <tr>
-<td rowspan="12" valign="top" width="151">
+<td rowspan="15" valign="top" width="151">
 <p>3. Fluor.</p>
 </td>
 <td valign="top" width="340">
-<p>Matières premières pour aliments des animaux, à l'exception de :</p>
+<p>Matières premières des aliments pour animaux, à l'exception de :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">150</p>
@@ -156,7 +205,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments d'origine animale</p>
+<p>- aliments d'origine animale, à l'exception des crustacés marins tels que le krill</p>
 </td>
 <td valign="top" width="151">
 <p align="center">500</p>
@@ -164,10 +213,34 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- phosphates</p>
+<p>- phosphates et crustacés marins tels que le krill</p>
 </td>
 <td valign="top" width="151">
 <p align="center">2 000</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- carbonate de calcium</p>
+</td>
+<td valign="top" width="151">
+<p align="center">350</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- oxyde de magnésium</p>
+</td>
+<td valign="top" width="151">
+<p align="center">600</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>- algues marines calcaires</p>
+</td>
+<td valign="top" width="151">
+<p align="center">1 000</p>
 </td>
 </tr>
 <tr>
@@ -180,7 +253,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments complets pous bovins, ovins, caprins :</p>
+<p>- aliments complets pour bovins, ovins et caprins :</p>
 </td>
 <td valign="top" width="151">
 <br/>
@@ -236,10 +309,10 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>Autres aliments complémentaires</p>
+<p>- Autres aliments complémentaires</p>
 </td>
 <td valign="top" width="151">
-<p align="center">125 (1)</p>
+<p align="center">125 (1-3)</p>
 </td>
 </tr>
 <tr>
@@ -412,50 +485,45 @@
 </td>
 </tr>
 <tr>
-<td rowspan="10" valign="top" width="151">
-<p>1. Aflatoxines B<sub>1</sub>
-</p>
-</td>
-<td valign="top" width="340">
-<p>Matières premières pour aliments des animaux, à l'exception de :</p>
-</td>
 <td valign="top" width="151">
-<p align="center">0,05</p>
+<p>1. Aflatoxine B 1.</p>
 </td>
-</tr>
-<tr>
 <td valign="top" width="340">
-<p>- arachide, coprah, palmiste, graines de coton, babassu, maïs et dérivés de leur transformation</p>
+<p>Toutes les matières premières des aliments pour animaux</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,02</p>
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Aliments complets pour bovins, ovins et caprins, à l'exception de :</p>
 </td>
 <td valign="top" width="151">
-<p align="center">0,05</p>
+<p align="center">0,02</p>
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
-<p>- bétail laitier</p>
+<p>- aliments complets pour bétail laitier</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,005</p>
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
-<p>- veaux, agneaux et chevreaux</p>
+<p>- aliments complets pour veaux, agneaux et chevreaux</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,01</p>
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Aliments complets pour porcs et volailles (à l'exception des jeunes animaux)</p>
 </td>
@@ -464,6 +532,7 @@
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Autres aliments complets</p>
 </td>
@@ -472,22 +541,25 @@
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Aliments complémentaires pour bovins, ovins et caprins (à l'exception des aliments complémentaires pour bétail laitier, veaux, agneaux et chevreaux)</p>
 </td>
 <td valign="top" width="151">
-<p align="center">0,05</p>
+<p align="center">0,02</p>
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
-<p>Aliments complémentaires pour porcs et volailles (à l'exception des jeunes animaux)</p>
+<p>Aliments complémentaires pour porc et volailles (à l'exception des jeunes animaux)</p>
 </td>
 <td valign="top" width="151">
-<p align="center">0,03</p>
+<p align="center">0,02</p>
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Autres aliments complémentaires</p>
 </td>
@@ -547,25 +619,36 @@
 </td>
 </tr>
 <tr>
-<td rowspan="6" valign="top" width="151">
+<td valign="top" width="151">
 <p>3. Gossypol libre.</p>
 </td>
 <td valign="top" width="340">
-<p>Matières premières pour aliments des animaux, à l'exception de :</p>
+<p>Matières premières pour aliments pour animaux, à l'exception de :</p>
 </td>
 <td valign="top" width="151">
 <p align="center">20</p>
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
-<p>- tourteaux de graines de coton</p>
+<p>- graines de coton</p>
+</td>
+<td valign="top" width="151">
+<p align="center">5 000</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="151"/>
+<td valign="top" width="340">
+<p>- tourteaux de graines de coton et farine de graines de coton</p>
 </td>
 <td valign="top" width="151">
 <p align="center">1 200</p>
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>Aliments complets, à l'exception de :</p>
 </td>
@@ -574,6 +657,7 @@
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>- aliments complets pour bovins, ovins et caprins</p>
 </td>
@@ -582,14 +666,16 @@
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
-<p>- aliments complets peur volailles (à l'exception des volailles de ponte) et veaux</p>
+<p>- aliments complets pour volailles (à l'exception des volailles de ponte) et aliments complets pour veaux</p>
 </td>
 <td valign="top" width="151">
 <p align="center">100</p>
 </td>
 </tr>
 <tr>
+<td valign="top" width="151"/>
 <td valign="top" width="340">
 <p>- aliments complets pour lapins et porcs (à l'exception des porcelets)</p>
 </td>
@@ -823,7 +909,7 @@
 </tr>
 <tr>
 <td rowspan="4" valign="top" width="151">
-<p>16. Endosulfan (somme des isomères alpha et bêta et de l'endosulfansulfate calculée sous forme d'endosulfan).</p>
+<p>16. Endosulfan (somme des isomères alpha et bêta et du sulfate d'endosulfan, calculée sous forme d'endosulfan).</p>
 </td>
 <td valign="top" width="340">
 <p>Tous les aliments, à l'exception de :</p>
@@ -834,7 +920,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- maïs</p>
+<p>- maïs et produits dérivés de sa transformation</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,2</p>
@@ -842,7 +928,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- graines oléagineuses</p>
+<p>- graines oléagineuses et produits dérivés de leur transformation</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,5</p>
@@ -850,7 +936,7 @@
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>- aliments complets pour poissons</p>
+<p>- aliments complets pour poisson</p>
 </td>
 <td valign="top" width="151">
 <p align="center">0,005</p>
@@ -1095,7 +1181,7 @@
 <p>Tous les aliments</p>
 </td>
 <td rowspan="12" width="151">
-<p>Les graines et fruits et dérivés de leur transformation des espèces végétales ci-contre ne peuvent se trouver dans les aliments des animaux qu'en quantité indécelable.</p>
+<p align="center">Les graines et fruits et dérivés de leur transformation des espèces végétales ci-contre ne peuvent se trouver dans les aliments des animaux qu'en quantité indécelable.</p>
 </td>
 </tr>
 <tr>
@@ -1155,8 +1241,15 @@
 </tr>
 </tbody>
 </table>
+</div>
 
 (1) Teneur en fluor pour 1 % de phosphore.
+
+(1-1) Les teneurs maximales se rapportent aux teneurs totales en arsenic.
+
+(1-2) A la demande des autorités compétentes, l'opérateur responsable doit effectuer une analyse pour démontrer que la teneur maximale en arsenic inorganique est inférieure à 2 ppm. Cette analyse est particulièrement importante dans le cas de l'algue marine hijiki (hizikia fusiforme).
+
+(1-3) Teneur en fluor pour 1 % de phosphore.
 
 (2) Concentrations supérieures ; les concentrations supérieures sont calculées en supposant que toutes les valeurs des différents congénères au-dessous du seuil de quantification sont égales au seuil de quantification.
 
