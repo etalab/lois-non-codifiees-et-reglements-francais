@@ -1,9 +1,13 @@
 # Article 38
 
-Pour obtenir un diplôme d'études spécialisées complémentaires, les anciens internes doivent [*conditions d'admission*] :
+Pour obtenir un diplôme d'études spécialisées complémentaires, les candidats doivent :
 
-être titulaires d'un diplôme d'études spécialisées ;
+1° Etre titulaires d'un diplôme d'études spécialisées donnant accès au diplôme d'études spécialisées complémentaires postulé ;
 
-avoir effectué quatre semestres de fonctions dans des services agréés pour la préparation du diplôme d'études spécialisées complémentaires dont deux au cours de l'internat, sauf dérogation accordée par le coordonnateur du diplôme ;
+2° Avoir satisfait aux conditions fixées par arrêté des ministres chargés des universités et de la santé ;
 
-avoir satisfait à l'ensemble des conditions fixées par arrêté des ministres chargés des universités et de la santé, relatif aux diplômes d'études spécialisées complémentaires.
+3° Avoir effectué :
+
+a) Pour les diplômes d'études spécialisées complémentaires du groupe I, deux semestres de fonctions, au cours de l'internat, sauf dérogation accordée par le coordonnateur ;
+
+b) Pour les diplômes d'études spécialisées complémentaires du groupe II, quatre semestres de fonctions au cours de l'internat.

@@ -1,5 +1,9 @@
 # Article 27
 
-Les stages effectués dans des laboratoires agréés de recherche et au cours d'une année-recherche sont pris en compte, après avis de l'enseignant coordonnateur mentionné à l'article 25 ci-dessus et selon le schéma qu'il définit, dans les obligations de formation pratique prévues pour chaque diplôme d'études spécialisées.
+Un arrêté des ministres chargés du budget, des universités, de la santé et de la recherche fixe les modalités d'organisation de l'année-recherche.
 
-Un arrêté interministériel définit les règles d'accès à l'année-recherche et son organisation.
+Un arrêté des mêmes ministres fixe chaque année le nombre de candidats qui, en fonction de leur classement au concours de l'internat, sont susceptibles de bénéficier d'une année-recherche.
+
+Les stages effectués au cours d'une année-recherche ne sont pas pris en compte dans les obligations de formation pratique prévues pour chaque diplôme d'études spécialisées.
+
+Lorsqu'ils effectuent une année-recherche, les internes sont placés dans la position prévue à l'article 22 (b) du décret du 2 septembre 1983 susvisé.
