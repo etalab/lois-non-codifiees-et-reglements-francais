@@ -1,0 +1,7 @@
+# Article 53
+
+Chaque année, à l'occasion du vote de la loi de finances, le Parlement, sur le rapport d'un membre de chacune des commissions des finances de l'Assemblée nationale et du Sénat ayant les pouvoirs de rapporteur spécial, autorise la perception de la taxe dénommée redevance pour droit d'usage, assise sur les appareils récepteurs de télévision, et approuve la répartition du produit attendu de la redevance entre chacune des sociétés nationales de programme, l'Institut national de l'audiovisuel ainsi que la société prévue à l'article 51 pour le financement de ses missions de service public. Il approuve également le montant du produit attendu des recettes provenant de la publicité de marques. Ces recettes seront plafonnées à compter de 1987 et pour les deux années suivantes.
+
+La répartition proposée au Parlement prend en compte, pour chaque organisme, son projet de budget, l'évolution de son activité et de ses ressources propres, l'effort consenti par lui en faveur de la création, ainsi que ses obligations de service public.
+
+Les résultats financiers de l'année précédente, les comptes provisoires de l'année en cours ainsi que le budget prévisionnel pour l'année suivante des sociétés nationales de programme, de l'Institut national de l'audiovisuel et de la société prévue à l'article 51, accompagnés d'un rapport du Gouvernement sur la situation et la gestion des organismes du secteur public, sont annexés au projet de loi de finances.

@@ -2,7 +2,7 @@
 
 Lorsque, à l'occasion de consultations électorales, il aura été exceptionnellement fait appel à des agents non admis au bénéfice d'indemnités horaires pour travaux supplémentaires, le conseil municipal pourra allouer aux intéressés, dans la limite des crédits ouverts ou rattachés à cet effet au budget de chaque collectivité, une indemnité forfaitaire complémentaire, dont le montant sera calculé au prorata du temps consacré auxdites opérations en dehors des heures normales de service, dans les conditions ci-après :
 
-I. - Elections présidentielles, législatives, régionales,  cantonales, municipales, consultations par voie de référendum, élection des membres de l'Assemblée des communautés européennes.
+I. - Elections présidentielles, législatives, régionales,  cantonales, municipales, consultations par voie de référendum, élection du Parlement européen.
 
 L'indemnité forfaitaire complémentaire sera allouée dans la double limite :
 
