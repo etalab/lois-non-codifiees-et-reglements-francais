@@ -1,0 +1,3 @@
+# Article 1
+
+Les installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 2661 (Transformation de polymères matières plastiques, caoutchouc, élastomères, résines et adhésifs synthétiques par des procédés exigeant des conditions particulières de température ou de pression, la quantité de matière susceptible d'être traitée étant supérieure ou égale à 1 t/j, mais inférieure à 10 t/j ; par tout procédé exclusivement mécanique, la quantité de matière susceptible d'être traitée étant supérieure ou égale à 2 t/j, mais inférieure à 20 t/j) sont soumises aux dispositions de l'annexe I. Les présentes dispositions s'appliquent sans préjudice des autres législations.
