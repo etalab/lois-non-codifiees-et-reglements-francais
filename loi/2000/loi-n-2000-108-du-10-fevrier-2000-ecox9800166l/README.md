@@ -8,4 +8,5 @@
 - [Titre VI : La régulation.](titre-vi)
 - [Titre VII : L'objet d'Electricité de France.](titre-vii)
 - [Titre VIII : Dispositions sociales.](titre-viii)
+- [Titre VIII bis : Dispositions applicables à Mayotte.](titre-viii-bis)
 - [Titre IX : Dispositions diverses ou transitoires.](titre-ix)
