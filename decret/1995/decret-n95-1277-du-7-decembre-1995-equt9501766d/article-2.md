@@ -1,0 +1,3 @@
+# Article 2
+
+Les contrats de voyage simple ou de voyages multiples dont la conclusion dans un bureau d'affrètement aux conditions du tour de rôle se trouverait compromise en raison des conditions du marché, compte tenu notamment des possibilités offertes par d'autres modes de transport, peuvent être dispensés du tour de rôle ou des conditions d'attribution prévues au deuxième alinéa de l'article 6 de la loi du 12 juillet 1994 susvisée, par décision du président ou, en cas d'absence ou d'empêchement de celui-ci, du directeur général de Voies navigables de France prise après avis du comité du transport par voie navigable.

@@ -1,0 +1,3 @@
+# Article 1
+
+Les contrats de voyage simple ou de voyages multiples ayant pour objet les transports de marchandises nécessitant un conditionnement particulier, des moyens de conservation spécifiques ou des équipements particuliers de nature à en faciliter la manutention et à améliorer la rentabilité économique ou la sécurité peuvent être dispensés du tour de rôle ou des conditions d'attribution prévues au deuxième alinéa de l'article 6 de la loi du 12 juillet 1994 susvisée, par décision du président ou, en cas d'absence ou d'empêchement de celui-ci, du directeur général de Voies navigables de France prise après avis du comité du transport par voie navigable.

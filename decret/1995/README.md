@@ -305,6 +305,8 @@
 - [Décret n°95-1274 du 7 décembre 1995 (AGRR9502255D)](decret-n95-1274-du-7-decembre-1995-agrr9502255d)
 - [Décret n°95-1275 du 7 décembre 1995 (AGRS9501438D)](decret-n95-1275-du-7-decembre-1995-agrs9501438d)
 - [Décret n°95-1276 du 7 décembre 1995 (AGRS9502080D)](decret-n95-1276-du-7-decembre-1995-agrs9502080d)
+- [Décret n°95-1277 du 7 décembre 1995 (EQUT9501766D)](decret-n95-1277-du-7-decembre-1995-equt9501766d)
+- [Décret n°95-1278 du 7 décembre 1995 (ENVN9530094D)](decret-n95-1278-du-7-decembre-1995-envn9530094d)
 - [Décret n°95-130 du 7 février 1995 (RESK9402016D)](decret-n95-130-du-7-fevrier-1995-resk9402016d)
 - [Décret n°95-131 du 7 février 1995 (FPPA9500014D)](decret-n95-131-du-7-fevrier-1995-fppa9500014d)
 - [Décret n°95-132 du 7 février 1995 (FPPA9500015D)](decret-n95-132-du-7-fevrier-1995-fppa9500015d)
