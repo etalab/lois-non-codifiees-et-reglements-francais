@@ -1,3 +1,0 @@
-# ÉMOLUMENTS HOSPITALIERS DES PRATICIENS HOSPITALIERS.
-
-- [Article ANNEXE III](article-annexe-iii.md)
