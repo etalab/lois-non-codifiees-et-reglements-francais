@@ -1,6 +1,7 @@
 # Titre 3 : Dispositions diverses et transitoires.
 
 - [Article 490](article-490.md)
+- [Article 490 bis](article-490-bis.md)
 - [Article 491](article-491.md)
 - [Article 492](article-492.md)
 - [Article 494](article-494.md)

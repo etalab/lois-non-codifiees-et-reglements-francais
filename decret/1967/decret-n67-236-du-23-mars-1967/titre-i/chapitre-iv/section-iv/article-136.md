@@ -1,0 +1,5 @@
+# Article 136
+
+Le droit de participer aux assemblées peut être subordonné soit à l'inscription de l'actionnaire sur le registre des actions nominatives de la société, soit au dépôt, aux lieux indiqués par l'avis de convocation, des actions au porteur ou d'un certificat de dépôt délivré par la banque, l'établissement financier ou l'agent de change dépositaire de ces actions.
+
+La date avant laquelle ces formalités doivent être accomplies est fixée par les statuts. Elle ne peut être antérieure de plus de cinq jours à la date de réunion de l'assemblée.

@@ -1,0 +1,3 @@
+# Article 298
+
+Lorsque la moitié au moins de leur capital appartient à une ou plusieurs sociétés visées à l'article 294, les sociétés qui ne revêtent pas la forme de société par actions et les sociétés par actions dont les actions ne sont pas inscrites à une cote officielle sont tenues, si leur bilan dépasse dix millions de francs ou si la valeur d'inventaire ou la valeur boursière de leur portefeuille excède un million de francs, de publier, dans les conditions prévues aux articles 294 et 295, leur bilan, leur compte d'exploitation générale, leur compte de pertes et profits et l'inventaire détaillé de leur portefeuille de valeurs mobilières.

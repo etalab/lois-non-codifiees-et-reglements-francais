@@ -6,6 +6,7 @@
 - [Article 379](article-379.md)
 - [Article 380](article-380.md)
 - [Article 381](article-381.md)
+- [Article 381 bis](article-381-bis.md)
 - [Article 382](article-382.md)
 - [Article 383](article-383.md)
 - [Article 384](article-384.md)
