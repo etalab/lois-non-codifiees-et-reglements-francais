@@ -1,3 +1,3 @@
 # Article 2
 
-Le taux unitaire de redevance figurant à l'article 2 de l'arrêté précité est fixé à 66,05 ECU (1 ECU égale 6,644 76 francs français).
+Le taux unitaire global de redevance figurant à l'article 2 de l'arrêté du 18 juillet 1990 susvisé est fixé à 64,62 écus (un écu égale 6,49970 francs français).
