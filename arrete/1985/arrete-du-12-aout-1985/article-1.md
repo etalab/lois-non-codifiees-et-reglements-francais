@@ -1,3 +1,7 @@
 # Article 1
 
-Les conventions conclues en application des articles D. 322-13 et D. 322-14 du code du travail seront établies conformément au modèle de convention type annexé au présent arrêté.
+L'emploi du thiabendazole ou 2 (4 thiazolyl) benzimidazole pour le traitement en surface des bananes et des agrumes après récolte est autorisé sous réserve qu'au moment de la mise dans le commerce le taux résiduel par kilogramme de fruits entiers ne dépasse pas :
+
+- 6 mg/kg pour les agrumes ;
+
+- 3 mg/kg pour les bananes.
