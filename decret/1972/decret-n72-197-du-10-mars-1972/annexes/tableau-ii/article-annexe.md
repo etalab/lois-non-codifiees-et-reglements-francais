@@ -161,6 +161,84 @@ Taux de subvention de l'Etat : 20 à 50 p. 100
 </tr>
 </table>
 
+<table>
+<tr>
+<td> : Réserves foncières des collectivités       :                     :</td>
+</tr>
+<tr>
+<td> : locales                                    :    (3) 6511         :</td>
+</tr>
+<tr>
+<td> :                                            :                     :</td>
+</tr>
+<tr>
+<td> :                 Agriculture                :                     :</td>
+</tr>
+<tr>
+<td> : Aide à l'enseignement agricole privé       :      1751, 1752     :</td>
+</tr>
+<tr>
+<td> : Aménagement de l'espace rural et           :                     :</td>
+</tr>
+<tr>
+<td> : protection de l'espace naturel :           :                     :</td>
+</tr>
+<tr>
+<td> :    Services publics ruraux : voirie        :                     :</td>
+</tr>
+<tr>
+<td> :    rurale, adduction d'eau et              :                     :</td>
+</tr>
+<tr>
+<td> :    assainissement                          :     4131 à 4134,    :</td>
+</tr>
+<tr>
+<td> :                                            :     4411 à 4423,    :</td>
+</tr>
+<tr>
+<td> :                                            :   4512, 4522, 4542  :</td>
+</tr>
+<tr>
+<td> :    Accueil et animation en milieu rural    :                     :</td>
+</tr>
+<tr>
+<td> :    (opérations dans les zones de           :                     :</td>
+</tr>
+<tr>
+<td> :    rénovation rurale)                      :     4141 à 4144,    :</td>
+</tr>
+<tr>
+<td> :                                            :     4411 à 4423     :</td>
+</tr>
+<tr>
+<td> :    Aménagement de villages (opérations     :                     :</td>
+</tr>
+<tr>
+<td> :    dans les zones de rénovation rurale)    :     4151 à 4154,    :</td>
+</tr>
+<tr>
+<td> :                                            :     4411 à 4423     :</td>
+</tr>
+<tr>
+<td> :    Aménagement des rivières et bassins     :                     :</td>
+</tr>
+<tr>
+<td> :    (matériel, travaux d'intérêt localisé) :      4162, 4163     :</td>
+</tr>
+<tr>
+<td> :                                                                  :</td>
+</tr>
+<tr>
+<td> :  (3) Numéro de code de la nomenclature des fonctions des         :</td>
+</tr>
+<tr>
+<td> : administrations (arrêté du 18 novembre 1975).                   :</td>
+</tr>
+<tr>
+<td> :------------------------------------------------------------------:</td>
+</tr>
+</table>
+
 :------------------------------------------------------------------:
 
 <table>
@@ -238,83 +316,6 @@ Taux de subvention de l'Etat : 20 à 50 p. 100
 </tr>
 <tr>
 <td> : locales)                                   :                     :</td>
-</tr>
-</table>
-<table>
-<tr>
-<td> : Réserves foncières des collectivités       :                     :</td>
-</tr>
-<tr>
-<td> : locales                                    :    (3) 6511         :</td>
-</tr>
-<tr>
-<td> :                                            :                     :</td>
-</tr>
-<tr>
-<td> :                 Agriculture                :                     :</td>
-</tr>
-<tr>
-<td> : Aide à l'enseignement agricole privé       :      1751, 1752     :</td>
-</tr>
-<tr>
-<td> : Aménagement de l'espace rural et           :                     :</td>
-</tr>
-<tr>
-<td> : protection de l'espace naturel :           :                     :</td>
-</tr>
-<tr>
-<td> :    Services publics ruraux : voirie        :                     :</td>
-</tr>
-<tr>
-<td> :    rurale, adduction d'eau et              :                     :</td>
-</tr>
-<tr>
-<td> :    assainissement                          :     4131 à 4134,    :</td>
-</tr>
-<tr>
-<td> :                                            :     4411 à 4423,    :</td>
-</tr>
-<tr>
-<td> :                                            :   4512, 4522, 4542  :</td>
-</tr>
-<tr>
-<td> :    Accueil et animation en milieu rural    :                     :</td>
-</tr>
-<tr>
-<td> :    (opérations dans les zones de           :                     :</td>
-</tr>
-<tr>
-<td> :    rénovation rurale)                      :     4141 à 4144,    :</td>
-</tr>
-<tr>
-<td> :                                            :     4411 à 4423     :</td>
-</tr>
-<tr>
-<td> :    Aménagement de villages (opérations     :                     :</td>
-</tr>
-<tr>
-<td> :    dans les zones de rénovation rurale)    :     4151 à 4154,    :</td>
-</tr>
-<tr>
-<td> :                                            :     4411 à 4423     :</td>
-</tr>
-<tr>
-<td> :    Aménagement des rivières et bassins     :                     :</td>
-</tr>
-<tr>
-<td> :    (matériel, travaux d'intérêt localisé) :      4162, 4163     :</td>
-</tr>
-<tr>
-<td> :                                                                  :</td>
-</tr>
-<tr>
-<td> :  (3) Numéro de code de la nomenclature des fonctions des         :</td>
-</tr>
-<tr>
-<td> : administrations (arrêté du 18 novembre 1975).                   :</td>
-</tr>
-<tr>
-<td> :------------------------------------------------------------------:</td>
 </tr>
 </table>
 
@@ -553,5 +554,28 @@ Taux de subvention de l'Etat : 20 à 50 p. 100
 </tr>
 <tr>
 <td> :------------------------------------------------------------------:</td>
+</tr>
+</table>
+
+:------------------------------------------------------------------:
+
+<table>
+<tr>
+<td> :              INVESTISSEMENTS               :  NUMERO DE CODE (1) :</td>
+</tr>
+<tr>
+<td> :------------------------------------------------------------------:</td>
+</tr>
+<tr>
+<td> :          Premier Ministre                  :                     :</td>
+</tr>
+<tr>
+<td> : Actions de prévention des risques          :                     :</td>
+</tr>
+<tr>
+<td> : technologiques et naturels majeurs         :                     :</td>
+</tr>
+<tr>
+<td> :--------------------------------------------:---------------------:</td>
 </tr>
 </table>
