@@ -2,7 +2,7 @@
 
 Les sociétés françaises par actions ayant pour objet exclusif de concourir sous forme de participation en capital au financement des entreprises industrielles dans les régions qui souffrent de sous-emploi ou d'un développement économique insuffisant, dénommées sociétés de développement régional, peuvent bénéficier des dispositions prévues aux articles ci-dessous, lorsqu'elles remplissent les conditions suivantes :
 
-a) Un capital minimum de 250 millions de francs (2.500.000 F), entièrement versé ;
+a) L'agrément en qualité d'établissement de crédit ;
 
 b) La limitation des participations de la société de développement régional à 25 % de son capital pour une même entreprise, et à 35 % du capital de cette entreprise ;
 
