@@ -4,8 +4,8 @@ Les ouvriers de l'Etat affectés dans un service des anciens combattants au Maro
 
 Ce coefficient de majoration varie en fonction de la durée des services continus dans un même lieu d'affectation. Il est ramené à :
 
-1,38 au-delà de six années révolues ;
+1,64 au-delà de six années révolues ;
 
-0,83 au-delà de neuf années révolues ;
+1,38 au-delà de neuf années révolues ;
 
-0,28 au-delà de douze années révolues.
+1,13 au-delà de douze années révolues.

@@ -4,8 +4,8 @@ Les ouvriers de l'Etat affectés dans un service des anciens combattants en Tuni
 
 Ce coefficient de majoration varie en fonction de la durée des services continus dans une même localité d'affectation. Il est ramené à :
 
-1,34 au-delà de six années révolues ;
+1,59 au-delà de six années révolues ;
 
-0,81 au-delà de neuf années révolues ;
+1,36 au-delà de neuf années révolues ;
 
-0,27 au-delà de douze années révolues.
+1,36 au-delà de neuf années révolues.
