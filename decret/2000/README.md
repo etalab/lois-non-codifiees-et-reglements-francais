@@ -3,6 +3,7 @@
 - [Décret n°2000-748 du 1 août 2000 (MESO0010921D)](decret-n2000-748-du-1-aout-2000-meso0010921d)
 - [Décret n°2000-848 du 1 septembre 2000 (ECOC0000061D)](decret-n2000-848-du-1-septembre-2000-ecoc0000061d)
 - [Décret n°2000-874 du 7 septembre 2000 (ECOI0000361D)](decret-n2000-874-du-7-septembre-2000-ecoi0000361d)
+- [Décret n°96-501 du 7 juin 1996 (AGRA9600567D)](decret-n96-501-du-7-juin-1996-agra9600567d)
 - [Décret n°2000-511 du 8 juin 2000 (DEFP0001561D)](decret-n2000-511-du-8-juin-2000-defp0001561d)
 - [Décret n°2000-326 du 12 avril 2000 (DEFD0001317D)](decret-n2000-326-du-12-avril-2000-defd0001317d)
 - [Décret n°2000-250 du 15 mars 2000 (MENS0000215D)](decret-n2000-250-du-15-mars-2000-mens0000215d)
