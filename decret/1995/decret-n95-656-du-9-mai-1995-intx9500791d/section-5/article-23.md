@@ -2,104 +2,140 @@
 
 Pour l'application de l'article L. 16 du code des pensions civiles et militaires de retraite, les assimilations prévues pour fixer les nouveaux indices de traitement mentionnés à l'article L. 15 dudit code sont effectuées, pour le corps des commandants et officiers de paix, conformément au tableau ci-après :
 
-SITUATION ANCIENNE
+I = SITUATION ANCIENNE (Grades et échelons) : Commandant; Emploi fonctionnel
 
-SITUATION NOUVELLE
+II = SITUATION NOUVELLE (Grades et échelons) : Commandant de police; Emploi fonctionnel
 
-Grades et échelons
+<table>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+<tr>
+<td> :     I       :     II      :</td>
+</tr>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+<tr>
+<td> : 2e échelon  : 2e échelon  :</td>
+</tr>
+<tr>
+<td> : 1er échelon : 1er échelon :</td>
+</tr>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+</table>
 
-Grades et échelons
+I = SITUATION ANCIENNE (Grades et échelons) : Commandant
 
-Commandant Commandant de police
+II = SITUATION NOUVELLE (Grades et échelons) : Commandant de police
 
-Emploi fonctionnel
+<table>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+<tr>
+<td> :     I       :     II      :</td>
+</tr>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+<tr>
+<td> : 5e échelon  : 5e échelon  :</td>
+</tr>
+<tr>
+<td> : 4e échelon  : 4e échelon  :</td>
+</tr>
+<tr>
+<td> : 3e échelon  : 3e échelon  :</td>
+</tr>
+<tr>
+<td> : 2e échelon  : 2e échelon  :</td>
+</tr>
+<tr>
+<td> : 1er échelon : 1er échelon :</td>
+</tr>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+</table>
 
-Emploi fonctionnel
+I = SITUATION ANCIENNE (Grades et échelons) : Officier de paix principal
 
-2e échelon
+II = SITUATION NOUVELLE (Grades et échelons) : Capitaine de police
 
-2e échelon
+<table>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+<tr>
+<td> :     I       :     II      :</td>
+</tr>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+<tr>
+<td> : Ech. except.: Ech. except.:</td>
+</tr>
+<tr>
+<td> : 4e échelon  : 4e échelon  :</td>
+</tr>
+<tr>
+<td> : 3e échelon  : 3e échelon  :</td>
+</tr>
+<tr>
+<td> : 2e échelon  : 2e échelon  :</td>
+</tr>
+<tr>
+<td> : 1er échelon : 1er échelon :</td>
+</tr>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+</table>
 
-1er échelon
+I = SITUATION ANCIENNE (Grades et échelons) : Officier de paix
 
-1er échelon
+II = SITUATION NOUVELLE (Grades et échelons) : Lieutenant de police
 
-Commandant Commandant de police
+<table>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+<tr>
+<td> :     I       :     II      :</td>
+</tr>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+<tr>
+<td> : 8e échelon  : 8e échelon  :</td>
+</tr>
+<tr>
+<td> : 7e échelon  : 7e échelon  :</td>
+</tr>
+<tr>
+<td> : 6e échelon  : 6e échelon  :</td>
+</tr>
+<tr>
+<td> : 5e échelon  : 5e échelon  :</td>
+</tr>
+<tr>
+<td> : 4e échelon  : 4e échelon  :</td>
+</tr>
+<tr>
+<td> : 3e échelon  : 3e échelon  :</td>
+</tr>
+<tr>
+<td> : 2e échelon  : 2e échelon  :</td>
+</tr>
+<tr>
+<td> : 1er échelon : 1er échelon :</td>
+</tr>
+<tr>
+<td> :-------------:-------------:</td>
+</tr>
+</table>
 
-5e échelon
-
-5e échelon
-
-4e échelon
-
-4e échelon
-
-3e échelon
-
-3e échelon
-
-2e échelon
-
-2e échelon
-
-1er échelon
-
-1er échelon
-
-Officier de paix principal Capitaine de police
-
-Echelon exceptionnel
-
-Echelon exceptionnel
-
-4e échelon
-
-4e échelon
-
-3e échelon
-
-3e échelon
-
-2e échelon
-
-2e échelon
-
-1er échelon
-
-1er échelon
-
-Officier de paix Lieutenant de police
-
-8e échelon
-
-8e échelon
-
-7e échelon
-
-7e échelon
-
-6e échelon
-
-6e échelon
-
-5e échelon
-
-5e échelon
-
-4e échelon
-
-4e échelon
-
-3e échelon
-
-3e échelon
-
-2e échelon
-
-2e échelon
-
-1er échelon
-
-1er échelon
-
-Les pensions des fonctionnaires mis à la retraite avant la date de publication du présent décret et celles de leurs ayants droit sont révisées à compter de la date de son application aux personnels en activité.
+Les pensions des fonctionnaires mis à la retraite avant la date d'effet du présent décret et celles de leurs ayants droit sont révisées à compter de la date de son application aux personnels en activité.
