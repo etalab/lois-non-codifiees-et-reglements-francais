@@ -1,5 +1,0 @@
-# Article 10
-
-Les crédits provisionnels s'appliquent [*définition*] aux dépenses dont le montant ne peut correspondre exactement à la dotation inscrite dans la loi de finances parce que les dépenses afférentes à ces crédits sont engagées en vertu d'une loi ou d'un règlement contresigné par le ministre des finances. La liste des chapitres dont les dotations ont un caractère provisionnel est donnée chaque année par la loi de finances.
-
-Les dépenses sur crédits provisionnels ne peuvent être ordonnancées que dans la limite des crédits ouverts. S'il est constaté en cours d'année que ces crédits sont insuffisants, ils peuvent être complétés, par arrêté du ministre des finances, par prélèvements sur le crédit global pour dépenses éventuelles. En cas d'urgence, si ces prélèvements sont eux-mêmes insuffisants, des crédits supplémentaires peuvent être ouverts par décrets d'avance pris sur le rapport du ministre des finances et dont la ratification est demandée au Parlement dans la plus prochaine loi de finances.
