@@ -68,7 +68,6 @@
 - [Arrêté du 12 juillet 1983](arrete-du-12-juillet-1983)
 - [Arrêté du 12 septembre 1983](arrete-du-12-septembre-1983)
 - [Arrêté du 13 avril 1983](arrete-du-13-avril-1983)
-- [Arrêté du 13 janvier 1983](arrete-du-13-janvier-1983)
 - [Arrêté du 13 juillet 1983](arrete-du-13-juillet-1983)
 - [Arrêté du 13 juin 1983](arrete-du-13-juin-1983)
 - [Arrêté du 14 février 1984](arrete-du-14-fevrier-1984)
