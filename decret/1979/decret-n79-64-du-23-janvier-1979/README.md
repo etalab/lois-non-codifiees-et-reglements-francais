@@ -1,5 +1,6 @@
 # Décret n°79-64 du 23 janvier 1979 relatif aux conditions de nomination et d'avancement dans les emplois de chef de service, inspecteur général, directeur adjoint, sous-directeur et contrôleur général des services actifs de la police nationale.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
