@@ -165,6 +165,5 @@
 - [Arrêté du 30 septembre 1983](arrete-du-30-septembre-1983)
 - [Arrêté du 31 août 1983](arrete-du-31-aout-1983)
 - [Arrêté du 31 janvier 1983](arrete-du-31-janvier-1983)
-- [Arrêté du 31 mars 1983](arrete-du-31-mars-1983)
 - [Arrêté du 31 octobre 1983](arrete-du-31-octobre-1983)
 - [Arrêté du 31 mai 1983](arrete-du-31-mai-1983)
