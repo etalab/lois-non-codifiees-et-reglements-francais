@@ -107,6 +107,7 @@
 - [Décret n°93-954 du 21 juillet 1993 (SPSG9301799D)](decret-n93-954-du-21-juillet-1993-spsg9301799d)
 - [Décret n°92-1338 du 22 décembre 1992 (MENB9200481D)](decret-n92-1338-du-22-decembre-1992-menb9200481d)
 - [Décret n°93-87 du 22 janvier 1993 (TEFF9300057D)](decret-n93-87-du-22-janvier-1993-teff9300057d)
+- [Décret n°93-89 du 22 janvier 1993 (MENF9204041D)](decret-n93-89-du-22-janvier-1993-menf9204041d)
 - [Décret n°93-256 du 24 février 1993 (DEFP9301101D)](decret-n93-256-du-24-fevrier-1993-defp9301101d)
 - [Décret n°93-873 du 24 juin 1993 (TEFO9300684D)](decret-n93-873-du-24-juin-1993-tefo9300684d)
 - [Décret n°94-67 du 24 janvier 1994 (FPPA9400001D)](decret-n94-67-du-24-janvier-1994-fppa9400001d)
