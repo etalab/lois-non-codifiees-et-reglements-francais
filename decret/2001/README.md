@@ -428,6 +428,7 @@
 - [Décret n°2001-768 du 27 août 2001 (MESP0122530D)](decret-n2001-768-du-27-aout-2001-mesp0122530d)
 - [Décret n°2001-772 du 27 août 2001 (ECOP0100373D)](decret-n2001-772-du-27-aout-2001-ecop0100373d)
 - [Décret n°2001-785 du 27 août 2001 (AGRS0100646D)](decret-n2001-785-du-27-aout-2001-agrs0100646d)
+- [Décret n°92-280 du 27 mars 1992 (MICT9200113D)](decret-n92-280-du-27-mars-1992-mict9200113d)
 - [Décret n°96-1028 du 27 novembre 1996 (DOMX9600104D)](decret-n96-1028-du-27-novembre-1996-domx9600104d)
 - [Décret n°2001-1130 du 28 novembre 2001 (MCCK0100444D)](decret-n2001-1130-du-28-novembre-2001-mcck0100444d)
 - [Décret n°2001-1131 du 28 novembre 2001 (ECOI0100532D)](decret-n2001-1131-du-28-novembre-2001-ecoi0100532d)
