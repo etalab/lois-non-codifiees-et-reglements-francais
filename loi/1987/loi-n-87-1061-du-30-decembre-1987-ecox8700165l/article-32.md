@@ -1,0 +1,3 @@
+# Article 32
+
+Les textes réglementaires pris en application du troisième alinéa de l'article 21 et de la troisième phrase du deuxième alinéa de l'article 25 de l'ordonnance n° 59-2 du 2 janvier 1959 portant loi organique relative aux lois de finances, sont annexés, dans les conditions prévues pour les textes réglementaires visés à l'article 25 de la loi de finances rectificative pour 1974 (n° 74-1114 du 27 décembre 1974), au plus prochain projet de loi de finances suivant leur publication ou, à défaut, au rapport déposé en application de l'article 38 de l'ordonnance n° 59-2 du 2 janvier 1959 précitée.

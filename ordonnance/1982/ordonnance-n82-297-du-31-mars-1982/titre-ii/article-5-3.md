@@ -1,7 +1,11 @@
 # Article 5-3
 
-Les agents sont admis à bénéficier de la cessation progressive d'activité au plus tôt le premier jour du mois suivant celui de leur cinquante-cinquième anniversaire.
+Les fonctionnaires et les agents non titulaires en cessation progressive d'activité à la date du 1er janvier 2004 conservent le bénéfice des dispositions antérieures. Ils peuvent toutefois demander, dans un délai d'un an à compter de cette date, à bénéficier d'un maintien en activité au-delà de leur soixantième anniversaire, sous réserve de l'intérêt du service, dans les conditions suivantes :
 
-" Les contrats cessent de plein droit au plus tard à la fin du mois au cours duquel les intéressés atteignent l'âge prévu au premier alinéa de l'article L. 351-1 du code de la sécurité sociale pour pouvoir demander la liquidation d'une pension de retraite du régime général d'assurance vieillesse.
+- pour les agents nés en 1944 et 1945, jusqu'à leur soixante et unième anniversaire ;
 
-" Les agents ne peuvent pas reprendre une activité rémunérée auprès de l'Etat ou d'une autre personne morale de droit public.
+- pour les agents nés en 1946 et 1947, jusqu'à leur soixante-deuxième anniversaire ;
+
+- pour les agents nés en 1948, jusqu'à leur soixante-troisième anniversaire.
+
+Ces dispositions sont également applicables aux maîtres et documentalistes contractuels ou agréés à titre définitif des établissements d'enseignement privés sous contrat.

@@ -2,6 +2,7 @@
 
 - [Loi n° 86-1317 du 30 décembre 1986](loi-n-86-1317-du-30-decembre-1986)
 - [Loi n° 86-1383 du 31 décembre 1986](loi-n-86-1383-du-31-decembre-1986)
+- [Loi n° 87-1061 du 30 décembre 1987 (ECOX8700165L)](loi-n-87-1061-du-30-decembre-1987-ecox8700165l)
 - [Loi n° 87-39 du 27 janvier 1987](loi-n-87-39-du-27-janvier-1987)
 - [Loi n° 87-416 du 17 juin 1987](loi-n-87-416-du-17-juin-1987)
 - [Loi n° 87-432 du 22 juin 1987 (JUSX8700042L)](loi-n-87-432-du-22-juin-1987-jusx8700042l)

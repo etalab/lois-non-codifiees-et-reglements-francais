@@ -4,7 +4,7 @@ Le fonctionnaire détaché ne peut, sauf dans le cas où le détachement a été
 
 Il reste tributaire de la caisse nationale de retraite des agents des collectivités locales et effectue les versements fixés par le règlement de cette caisse sur le traitement afférent à son grade et à son échelon dans l'établissement dont il est détaché.
 
-Dans le cas où le fonctionnaire est détaché dans un emploi conduisant à pension de la caisse nationale de retraite des agents des collectivités locales, la retenue pour pension est calculée sur le traitement afférent à l'emploi de détachement.
+Dans le cas où le fonctionnaire est détaché dans un emploi conduisant à pension du régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales ou relevant du code des pensions civiles et militaires de retraite, la retenue pour pension est calculée sur le traitement afférent à l'emploi de détachement.
 
 L'organisme auprès duquel le fonctionnaire est détaché est redevable envers la caisse nationale de retraite des agents des collectivités locales d'une contribution pour la constitution des droits à pension de l'intéressé, dans les conditions prévues par décret en Conseil d'Etat.
 

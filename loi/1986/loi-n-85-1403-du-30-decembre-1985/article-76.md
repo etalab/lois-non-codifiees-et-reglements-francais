@@ -6,4 +6,4 @@ Pour permettre la prise en compte progressive dans la pension des fonctionnaires
 
 La jouissance de la majoration de pension résultant de l'intégration de cette prime est différée jusqu'à l'âge de soixante ans ou, si les emplois sont rangés dans la catégorie B, jusqu'à l'âge de cinquante-cinq ans, sauf pour les fonctionnaires qui sont radiés des cadres ou mis à la retraite pour invalidité et pour les ayants cause de ces fonctionnaires décédés avant leur admission à la retraite. Toutefois, s'agissant des personnels socio-éducatifs , seules les années de service accomplies à l'administration pénitentiaire entrent en ligne de compte pour le calcul de cette majoration de pension.
 
-La prise en compte de cette indemnité sera réalisée progressivement du 1er janvier 1986 au 1er janvier 2000. Les pensions concédées avant le 1er janvier 1986 aux fonctionnaires susvisés des services déconcentrés de l'administration pénitentiaire et à leurs ayants cause seront révisées dans les mêmes conditions.
+La prise en compte de cette indemnité sera réalisée progressivement du 1er janvier 1986 au 1er janvier 2000.

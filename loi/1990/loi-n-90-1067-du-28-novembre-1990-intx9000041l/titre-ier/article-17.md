@@ -6,4 +6,4 @@ La jouissance de la majoration de pension résultant de l'intégration de cette 
 
 Pour permettre la prise en compte progressive de l'indemnité de feu dans leur pension, la retenue pour pension actuellement supportée par les intéressés est majorée dans des conditions fixées par décret en Conseil d'Etat. Les collectivités employeurs supportent pour les mêmes personnels une contribution supplémentaire fixée dans les mêmes conditions. Ces taux peuvent en tant que de besoin être majorés par décret en Conseil d'Etat pour couvrir les dépenses supplémentaires résultant des dispositions de la présente loi pour la Caisse nationale de retraite des agents des collectivités locales.
 
-La prise en compte de cette indemnité sera réalisée progressivement du 1er janvier 1991 au 1er janvier 2003. Les pensions concédées avant le 1er janvier 1991 aux sapeurs-pompiers professionnels et à leurs ayants cause seront révisées dans les mêmes conditions.
+La prise en compte de cette indemnité sera réalisée progressivement du 1er janvier 1991 au 1er janvier 2003.
