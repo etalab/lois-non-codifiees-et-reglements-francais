@@ -1,0 +1,3 @@
+# Article 17
+
+Les bénéficiaires d'une allocation instituée par le présent décret sont tenus, dans le cadre des enseignements qui leur sont dispensés, de suivre une initiation à leur future vie professionnelle en participant à certaines activités scolaires ou périscolaires, à l'exclusion de toute activité d'enseignement en responsabilité. L'institut universitaire de formation des maîtres et le cas échéant les établissements d'enseignement qui lui sont liés par convention sont chargés de la mise en oeuvre de ces dispositions dans le cadre des instructions données par le ministre chargé de l'éducation.
