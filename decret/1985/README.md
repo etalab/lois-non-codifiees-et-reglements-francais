@@ -134,7 +134,6 @@
 - [Décret n°84-135 du 24 février 1984](decret-n84-135-du-24-fevrier-1984)
 - [Décret n°85-1148 du 24 octobre 1985](decret-n85-1148-du-24-octobre-1985)
 - [Décret n°85-1373 du 24 décembre 1985](decret-n85-1373-du-24-decembre-1985)
-- [Décret n°85-771 du 24 juillet 1985](decret-n85-771-du-24-juillet-1985)
 - [Décret n°85-779 du 24 juillet 1985](decret-n85-779-du-24-juillet-1985)
 - [Décret n°85-789 du 24 juillet 1985](decret-n85-789-du-24-juillet-1985)
 - [Décret n°85-1119 du 25 septembre 1985](decret-n85-1119-du-25-septembre-1985)
