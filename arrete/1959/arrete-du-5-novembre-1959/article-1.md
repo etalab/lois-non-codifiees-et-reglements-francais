@@ -1,5 +1,3 @@
 # Article 1
 
-Les échelles indiciaires susceptibles d'être attribuées aux titulaires de certains emplois administratifs ou techniques des communes et établissements publics communaux et intercommunaux ne présentant pas un caractère industriel ou commercial sont fixées conformément aux annexes I et II du présent arrêté.
-
-Ces échelles se substituent à celles qui étaient prévues par l'arrêté interministériel du 19 novembre 1948, modifié portant classement indiciaire des fonctionnaires et agents communaux et l'arrêté ministériel du 5 décembre 1957 portant remise en ordre des échelles du personnel communal des cadres d'exécution.
+L'agent communal titulaire de l'un des emplois mentionnés dans l'arrêté prévu par l'article 4 du décret n° 59-979 du 12 août 1959 modifiant la loi du 28 avril 1952 doit, en vue d'une promotion par voie d'avancement au grade immédiatement supérieur, réunir les conditions minima d'ancienneté fixées par le tableau annexé au présent arrêté.
