@@ -1,0 +1,6 @@
+# Arrêté du 3 février 1975 FIXANT LE TAUX DES COTISATIONS DE SECURITE SOCIALE ET D'ALLOCATIONS FAMILIALES DUES AU TITRE DE L'EMPLOI A TEMPS PARTIEL DES MEMBRES DES PROFESSIONS MEDICALES.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)

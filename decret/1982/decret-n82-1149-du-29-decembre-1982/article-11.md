@@ -1,0 +1,3 @@
+# Article 11
+
+Les praticiens à plein temps hospitaliers et hospitalo-universitaires peuvent, après accord du directeur ou du directeur général de l'établissement hospitalier et, en tant que de besoin, du directeur de l'unité d'enseignement et de recherche, consacrer une demi-journée par semaine à des activités extérieures à leur établissement d'affectation à condition que ces activités présentent un caractère d'intérêt général au titre des soins, de l'enseignement ou de la recherche. Cette activité peut donner lieu à rémunération. Une convention entre l'hôpital et les organismes concernés définit les conditions d'exercice et de rémunération de cette activité.
