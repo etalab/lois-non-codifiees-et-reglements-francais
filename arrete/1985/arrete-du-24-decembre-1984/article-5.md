@@ -1,0 +1,3 @@
+# Article 5
+
+Dans la "zone de sécurité" définie à l'article 3, la multiplication et la plantation des végétaux appartenant aux genres Chaenomeles, Cotoneaster, Cydonia, Malus, Pyracantha, Pyrus, Sorbus (autres que S. intermedia), Stranvaesia, à l'exception des espèces, variétés et/ou cultivars des mêmes genres cités en annexe I du présent arrêté, font l'objet d'une déclaration écrite de la part du propriétaire ou de l'exploitant, adressée au chef de la circonscription phytosanitaire dont dépend le lieu d'implantation des végétaux dans un délai de 30 jours après la multiplication ou la plantation.

@@ -30,6 +30,7 @@
 - [Arrêté du 21 décembre 1984](arrete-du-21-decembre-1984)
 - [Arrêté du 21 janvier 1985](arrete-du-21-janvier-1985)
 - [Arrêté du 22 janvier 1985](arrete-du-22-janvier-1985)
+- [Arrêté du 24 décembre 1984](arrete-du-24-decembre-1984)
 - [Arrêté du 26 décembre 1984](arrete-du-26-decembre-1984)
 - [Arrêté du 27 décembre 1984](arrete-du-27-decembre-1984)
 - [Arrêté du 28 décembre 1984](arrete-du-28-decembre-1984)
