@@ -161,7 +161,6 @@
 - [Arrêté du 23 septembre 1986](arrete-du-23-septembre-1986)
 - [Arrêté du 23 mai 1986](arrete-du-23-mai-1986)
 - [Arrêté du 24 avril 1986](arrete-du-24-avril-1986)
-- [Arrêté du 24 décembre 1974](arrete-du-24-decembre-1974)
 - [Arrêté du 24 décembre 1985](arrete-du-24-decembre-1985)
 - [Arrêté du 24 février 1986](arrete-du-24-fevrier-1986)
 - [Arrêté du 24 janvier 1986](arrete-du-24-janvier-1986)

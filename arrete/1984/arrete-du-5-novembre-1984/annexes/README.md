@@ -1,7 +1,6 @@
 # Annexes
 
 - [INDICATIONS SUPPLEMENTAIRES (REFERENCE : ALINEA 3 DE L'ARTICLE 5 DE LA DIRECTIVE N° 74-150-CEE) A JOINDRE AU CERTIFICAT DE CONFORMITE (ANNEXE III A LA DIRECTIVE, N° 74-150-CEE) A DESTINATION DE LA FRANCE](indications-supplementaires-reference)
-- [Article Annexe XIV](article-annexe-xiv.md)
 - [Pièces à fournir par les sociétés et entreprises de location pour être autorisées à élire domicile à l'adresse du locataire.](pieces-a)
 - [Modèle type de l'imprimé de "Déclaration d'achat" (3 volets) enregistré au C.E.R.F.A. sous le numéro 47-0193](modele-type-de-l-imprime-de-declaration-d-achat-3-volets-enregistre-au)
 - [Modèle type de l'imprimé de "Déclaration de destruction d'un véhicule" enregistré au CERFA sous le numéro 47-0192](modele-type-de-l-imprime-de-declaration-de-destruction-d-un-vehicule-enregistre-au)

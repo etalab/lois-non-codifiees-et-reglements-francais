@@ -2,4 +2,3 @@
 
 - [Chapitre Ier: Dispositions générales.](chapitre-ier)
 - [Chapitre II : Dispositions diverses.](chapitre-ii)
-- [Chapitre III : Dispositions transitoires et diverses.](chapitre-iii)

@@ -28,7 +28,6 @@
 - [Arrêté du 5 juillet 1985](arrete-du-5-juillet-1985)
 - [Arrêté du 5 juin 1985](arrete-du-5-juin-1985)
 - [Arrêté du 5 mars 1985](arrete-du-5-mars-1985)
-- [Arrêté du 5 novembre 1985](arrete-du-5-novembre-1985)
 - [Arrêté du 5 septembre 1985](arrete-du-5-septembre-1985)
 - [Arrêté du 6 août 1985](arrete-du-6-aout-1985)
 - [Arrêté du 6 décembre 1984](arrete-du-6-decembre-1984)
