@@ -1,6 +1,6 @@
 # Article 4
 
-Un conseil supérieur d'orientation de l'économie agricole et alimentaire, composé de représentants des ministres intéressés, de la production agricole, de la transformation, de la commercialisation des produits agricoles, participe à la définition et à la mise en oeuvre de la politique nationale d'orientation et de coordination de l'économie agricole et agro-alimentaire, en conformité avec les principes, les objectifs et les règles de la politique agricole commune et dans le cadre défini par le Plan de la Nation.
+Un conseil supérieur d'orientation de l'économie agricole et alimentaire, composé de représentants des ministres intéressés, de la production agricole, de la transformation, de la commercialisation des produits agricoles ainsi que d'un représentant du comité permanent du financement de l'agriculture, participe à la définition et à la mise en oeuvre de la politique nationale d'orientation et de coordination de l'économie agricole et agro-alimentaire, en conformité avec les principes, les objectifs et les règles de la politique agricole commune et dans le cadre défini par le Plan de la Nation.
 
 Il est compétent pour l'ensemble des productions agricoles, agro-alimentaires et forestières.
 
