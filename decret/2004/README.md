@@ -305,6 +305,7 @@
 - [Décret n°2004-708 du 16 juillet 2004 (FPPX0400114D)](decret-n2004-708-du-16-juillet-2004-fppx0400114d)
 - [Décret n°2004-709 du 16 juillet 2004 (MCCX0400138D)](decret-n2004-709-du-16-juillet-2004-mccx0400138d)
 - [Décret n°2004-71 du 16 janvier 2004 (MCCB0300779D)](decret-n2004-71-du-16-janvier-2004-mccb0300779d)
+- [Décret n°2004-714 du 16 juillet 2004 (FAMS0422150D)](decret-n2004-714-du-16-juillet-2004-fams0422150d)
 - [Décret du 17 mars 2004 (AGRP0400236D)](decret-du-17-mars-2004-agrp0400236d)
 - [Décret n°2003-906 du 17 septembre 2003 (MENE0301739D)](decret-n2003-906-du-17-septembre-2003-mene0301739d)
 - [Décret n°2004-1228 du 17 novembre 2004 (MJSK0470197D)](decret-n2004-1228-du-17-novembre-2004-mjsk0470197d)
