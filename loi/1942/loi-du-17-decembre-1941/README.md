@@ -1,4 +1,4 @@
-# Loi du 17 décembre 1941 portant unification des conditions d'exécution des opérations cadastrales et fusion des différents services chargés de cette exécution.
+# Loi n° 5223 du 17 décembre 1941 fixant les modalités de circulation d ’ eaux-de-vie réglementées
 
 - [Article 1](article-1.md)
 - [I - Exécution.](i)
