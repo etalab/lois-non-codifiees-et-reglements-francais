@@ -1,5 +1,0 @@
-# Article 26
-
-Les installations électriques sont conformes aux normes en vigueur et maintenues en bon état ; elles sont contrôlées tous les trois ans par un technicien compétent et les rapports de contrôle sont tenus à la disposition de l'inspecteur des installations classées.
-
-Les moyens de lutte contre l'incendie sont fxés par l'arrêté préfectoral.
