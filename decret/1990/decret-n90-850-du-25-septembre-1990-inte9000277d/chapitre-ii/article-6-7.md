@@ -1,5 +1,7 @@
 # Article 6-7
 
-En cas de dépassement d'horaire, les sapeurs-pompiers professionnels peuvent percevoir, selon leur niveau indiciaire, les indemnités horaires pour travaux supplémentaires prévues par le décret n° 50-1248 du 6 octobre 1950 fixant le nouveau régime des indemnités horaires pour travaux supplémentaires susceptibles d'être accordées aux personnels civils de l'Etat, ou les indemnités forfaitaires pour travaux supplémentaires prévues par le décret n° 68-560 du 19 juin 1968 relatif aux indemnités forfaitaires pour travaux supplémentaires allouées à certains personnels administratifs titulaires des services extérieurs. Ils ne peuvent percevoir à ce titre de vacations de sapeur-pompier volontaire.
+En cas de dépassement d'horaire, les sapeurs-pompiers professionnels peuvent percevoir, selon leur niveau indiciaire, les indemnités horaires pour travaux supplémentaires dans les conditions fixées par le décret n° 2002-60 du 14 janvier 2002 ou l'indemnité forfaitaire pour travaux supplémentaires dans les conditions fixées par le décret n° 2002-63 du 14 janvier 2002. Ils ne peuvent percevoir à ce titre de vacations de sapeur-pompier volontaire.
 
-Les sapeurs-pompiers professionnels logés en casernement ou par nécessité absolue de service ne peuvent percevoir ces indemnités.
+"Les sapeurs-pompiers professionnels logés en casernement ou par nécessité absolue de service ne peuvent percevoir l'indemnité forfaitaire pour travaux supplémentaires.
+
+"Les sapeurs-pompiers professionnels qui ne bénéficient pas de l'indemnité forfaitaire pour travaux supplémentaires peuvent percevoir l'indemnité d'administration et de technicité dans les conditions fixées par le décret n° 2002-61 du 14 janvier 2002."

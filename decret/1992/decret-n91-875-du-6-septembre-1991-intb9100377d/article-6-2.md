@@ -8,4 +8,4 @@ L'indemnité de sujétion spéciale prévue par le décret n° 91-910 du 6 septe
 
 La prime d'encadrement prévue pour les coordinatrices de crèches par le présent décret peut être versée aux puéricultrices qui assurent les fonctions de directrice de crèche.
 
-Les fonctionnaires territoriaux appartenant aux cadres d'emplois de caractère médico-technique peuvent percevoir une prime de participation aux recettes des laboratoires dont le taux moyen est au plus égal à celui de l'avantage de même nature, alloué aux fonctionnaires de l'Etat de niveau équivalent.
+Les fonctionnaires territoriaux appartenant aux cadres d'emplois de caractère médico-technique peuvent percevoir l'indemnité spéciale de sujétions instituée par le décret n° 2000-240 du 13 mars 2000.
