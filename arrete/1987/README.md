@@ -386,6 +386,7 @@
 - [Arrêté du 27 février 1987 (BUDD8770002A)](arrete-du-27-fevrier-1987-budd8770002a)
 - [Arrêté du 27 janvier 1987 (AGRM8700194A)](arrete-du-27-janvier-1987-agrm8700194a)
 - [Arrêté du 27 janvier 1987 (MCCB8700002A)](arrete-du-27-janvier-1987-mccb8700002a)
+- [Arrêté du 27 juillet 1987 (BUDD8750001A)](arrete-du-27-juillet-1987-budd8750001a)
 - [Arrêté du 27 mars 1987 (ASES8700505A)](arrete-du-27-mars-1987-ases8700505a)
 - [Arrêté du 27 mars 1987 (ECOC8710026A)](arrete-du-27-mars-1987-ecoc8710026a)
 - [Arrêté du 27 mars 1987 (ECOC8710029A)](arrete-du-27-mars-1987-ecoc8710029a)
