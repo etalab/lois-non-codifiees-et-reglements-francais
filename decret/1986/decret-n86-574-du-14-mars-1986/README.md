@@ -3,6 +3,7 @@
 - [Article 1](article-1.md)
 - [CHAPITRE II : Affectation.](chapitre-ii)
 - [CHAPITRE III : Uniforme et marques distinctives.](chapitre-iii)
+- [CHAPITRE IV : Hiérarchie.](chapitre-iv)
 - [CHAPITRE V : Incompatibilités.](chapitre-v)
 - [CHAPITRE VI : Recrutement.](chapitre-vi)
 - [CHAPITRE VII : Notation, avancement.](chapitre-vii)
