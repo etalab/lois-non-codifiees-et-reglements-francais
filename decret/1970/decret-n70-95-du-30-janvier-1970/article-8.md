@@ -6,7 +6,7 @@ La commission de recensement comprend [*composition*] :
 
 En tant que président, un conseiller du tribunal administratif dans le ressort duquel se trouve le siège de la commission de recensement. Il est désigné par le président de ce tribunal ;
 
-Les quatre [*nombre*] électeurs membres de la commission d'organisation électorale ;
+Les électeurs membres de la commission d'organisation électorale ;
 
 Le directeur régional des services postaux ou son représentant ;
 
