@@ -5,6 +5,7 @@
 - [Décret n°80-20 du 7 janvier 1980](decret-n80-20-du-7-janvier-1980)
 - [Décret n°80-14 du 9 janvier 1980](decret-n80-14-du-9-janvier-1980)
 - [Décret n°80-426 du 9 juin 1980](decret-n80-426-du-9-juin-1980)
+- [Décret n°80-22 du 14 janvier 1980](decret-n80-22-du-14-janvier-1980)
 - [Décret n°79-332 du 25 avril 1979](decret-n79-332-du-25-avril-1979)
 - [Décret n°79-1210 du 26 décembre 1979](decret-n79-1210-du-26-decembre-1979)
 - [Décret n°79-1136 du 28 décembre 1979](decret-n79-1136-du-28-decembre-1979)
