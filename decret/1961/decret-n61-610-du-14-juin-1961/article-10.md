@@ -2,6 +2,8 @@
 
 En vue de leur installation sur une exploitation créée ou restructurée par une société d'aménagement foncier et d'établissement rural, les candidats doivent justifier de leur appartenance à l'une des catégories suivantes :
 
+Agriculteurs visés au premier alinéa de l'article 12 dont l'exploitation a été supprimée ou gravement déséquilibrée dans le cadre des opérations mentionnées à l'article 10 de la loi n° 62-933 du 8 août 1962 modifiée ;
+
 Jeunes agriculteurs au sens des dispositions de l'article 2 du décret du 2 février 1978 ;
 
 Bénéficiaires des dispositions du décret du 3 mars 1962 relatives à la promotion sociale ;
@@ -14,7 +16,7 @@ Occupants d'une résidence personnelle ou familiale susceptible de créer des li
 
 Les candidats doivent en outre :
 
-1° Justifier de conditions d'expérience et de capacités professionnelles déterminées par arrêté du ministre de l'agriculture ;
+1° Justifier de conditions d'expérience et de capacités professionnelles déterminées par arrêté du ministre de l'agriculture sauf en ce qui concerne les agriculteurs dont l'exploitation a été supprimée ou gravement déséquilibrée dans le cadre des opérations mentionnées à l'article 10 de la loi n° 62-933 du 8 août 1962 modifiée ;
 
 2° Posséder les qualités nécessaires pour une bonne exploitation des attributions et disposer des moyens financiers indispensables, compte tenu notamment des caractéristiques de l'exploitation et des usages du terroir ;
 
