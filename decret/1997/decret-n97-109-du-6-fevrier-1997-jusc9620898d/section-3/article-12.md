@@ -7,3 +7,5 @@ Elles font également parvenir à la commission un état annuel précisant le no
 La commission doit être avertie de tout projet tendant soit au transfert dans un autre site du laboratoire où sont exécutées les missions d'identification, soit à l'intervention de nouvelles personnes pour assurer celles-ci au sein de la personne morale et en son nom, soit à la cessation des fonctions ou au remplacement d'une ou plusieurs des personnes qui ont la charge de réaliser ces missions dans les conditions prévues à l'alinéa 3 de l'article 5 du présent décret.
 
 Dans l'une ou l'autre de ces hypothèses, il appartient aux personnes agréées de communiquer à la commission les justificatifs propres à établir que les conditions d'habilitation mentionnées aux articles 4 à 9 demeurent remplies.
+
+Les personnes agréées informent sans délai la commission de toute modification affectant les éléments d'appréciation prévus aux a, d et e de l'article 10, au a de l'article 10-1 ou au a de l'article 10-2.

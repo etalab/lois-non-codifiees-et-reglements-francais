@@ -2,6 +2,8 @@
 
 Il est institué auprès du garde des sceaux, ministre de la justice, une commission chargée d'agréer les personnes habilitées à effectuer des missions d'identification par empreintes génétiques dans le cadre de procédures judiciaires.
 
+La commission donne un avis sur les questions relatives à la fiabilité et à la sécurité des analyses d'identification par empreintes génétiques, dont elle est saisie par le garde des sceaux, ministre de la justice.
+
 Cette commission est présidée par un magistrat de la Cour de cassation, en exercice ou honoraire, désigné pour trois ans par arrêté du garde des sceaux, ministre de la justice.
 
 Elle comprend en outre :

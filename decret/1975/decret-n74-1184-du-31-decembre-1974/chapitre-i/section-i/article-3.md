@@ -15,3 +15,5 @@ En vue de l'inscription d'une personne morale sur une liste d'experts, il doit �
 En outre, il y a lieu à la production des statuts et à l'indication du nom de chacune des personnes détenant une fraction d'au moins 10 % du capital social.
 
 Une personne morale qui se donnerait pour objet principal ou accessoire l'exécution de mission d'expertise ne peut être admise sur une liste d'experts.
+
+Toutefois, les dispositions de l'alinéa précédent ne font pas obstacle à l'inscription sur une liste d'experts d'une personne morale ayant pour objet de réaliser des examens, recherches et analyses d'identification par empreintes génétiques conformément aux dispositions du décret n° 97-109 du 6 février 1997 relatif aux conditions d'agrément des personnes habilitées à procéder à des identifications par empreintes génétiques dans le cadre d'une procédure judiciaire.
