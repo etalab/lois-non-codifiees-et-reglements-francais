@@ -236,6 +236,7 @@
 - [Arrêté du 25 janvier 1989 (MENU8900436A)](arrete-du-25-janvier-1989-menu8900436a)
 - [Arrêté du 25 janvier 1989 (SPSS8801890A)](arrete-du-25-janvier-1989-spss8801890a)
 - [Arrêté du 26 avril 1989 (ECOS8950026A)](arrete-du-26-avril-1989-ecos8950026a)
+- [Arrêté du 26 avril 1989 (MENU8900648A)](arrete-du-26-avril-1989-menu8900648a)
 - [Arrêté du 26 avril 1989 (SPSS8900910A)](arrete-du-26-avril-1989-spss8900910a)
 - [Arrêté du 26 décembre 1988 (EQUV8800753A)](arrete-du-26-decembre-1988-equv8800753a)
 - [Arrêté du 26 décembre 1988 (PRME8861200A)](arrete-du-26-decembre-1988-prme8861200a)
