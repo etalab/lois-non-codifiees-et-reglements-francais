@@ -14,7 +14,7 @@ Toute violation de cette interdiction sera punie d'un emprisonnement de deux moi
 
 Le tribunal pourra aussi prononcer la confiscation de tout produit appartenant au condamné et provenant directement ou indirectement de l'infraction.
 
-Les frais résultant des mesures nécessaires à l'exécution de la confiscation seront à la charge du condamné. Ils seront recouvrés comme frais de justice criminelle, correctionnelle et de police.
+Les frais résultant des mesures nécessaires à l'exécution de la confiscation seront à la charge du condamné. Ils seront recouvrés comme frais de justice.
 
 Le tribunal pourra également prononcer à l'encontre du condamné étranger l'interdiction du territoire français pour une durée ne pouvant excéder dix ans.
 
