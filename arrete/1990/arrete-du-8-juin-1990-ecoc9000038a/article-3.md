@@ -15,3 +15,5 @@ Il est composé, outre son président, des membres suivants :
 - le directeur général de la santé ou son représentant ;
 
 - le directeur général de la recherche et de la technologie ou son représentant.
+
+- le directeur du Centre national d'études et de recommandations sur la nutrition et l'alimentation.

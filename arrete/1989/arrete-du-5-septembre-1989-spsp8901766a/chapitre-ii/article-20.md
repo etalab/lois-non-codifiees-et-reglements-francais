@@ -6,4 +6,4 @@ Pour se présenter à l'examen en vue de l'obtention du diplôme d'Etat de masse
 
 - avoir obtenu la validation des stages, sauf cas de dispense(s) de stage(s) accordée(s) par le ministre chargé de la santé ;
 
-- avoir obtenu une note au moins égale à 10 sur 20 au travail écrit prévu à l'article 14 du présent arrêté.
+- avoir réalisé le travail écrit mentionné à l'article 14 du présent arrêté.

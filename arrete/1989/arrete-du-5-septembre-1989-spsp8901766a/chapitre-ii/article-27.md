@@ -2,7 +2,9 @@
 
 Le préfet de région nomme, sur proposition du directeur régional des affaires sanitaires et sociales, après avis du médecin inspecteur régional de la santé ou de son représentant médecin inspecteur de la santé, les différents membres du jury.
 
-Le jury de l'examen est présidé par le médecin inspecteur régional de la santé ou son représentant médecin inspecteur de la santé. Il comprend un médecin ayant des connaissances particulières en rééducation et réadaptation fonctionnelles et deux masseurs-kinésithérapeutes dont au moins un masseur-kinésithérapeute moniteur-cadre.
+Le jury de l'examen est présidé par le médecin régional de la santé ou son représentant médecin inspecteur de la santé. Il comprend un médecin ayant des connaissances particulières en rééducation et réadaptation fonctionnelles et deux masseurs-kinésithérapeutes, dont au moins un masseur-kinésithérapeute moniteur cadre.
+
+Par ailleurs, les membres du jury ne peuvent siéger lors de la soutenance d'un travail écrit dont ils ont assuré la direction.
 
 Un seul des membres du jury peut être enseignant dans l'école d'origine du candidat.
 
