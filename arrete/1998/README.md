@@ -64,7 +64,6 @@
 - [Arrêté du 2 septembre 1998 (ECOT9826214A)](arrete-du-2-septembre-1998-ecot9826214a)
 - [Arrêté du 3 août 1998 (DEFT9801842A)](arrete-du-3-aout-1998-deft9801842a)
 - [Arrêté du 3 avril 1998 (AGRA9800304A)](arrete-du-3-avril-1998-agra9800304a)
-- [Arrêté du 3 avril 1998 (AGRG9800682A)](arrete-du-3-avril-1998-agrg9800682a)
 - [Arrêté du 3 avril 1998 (ECOT9791076A)](arrete-du-3-avril-1998-ecot9791076a)
 - [Arrêté du 3 avril 1998 (ECOU9800017A)](arrete-du-3-avril-1998-ecou9800017a)
 - [Arrêté du 3 avril 1998 (MENP9800888A)](arrete-du-3-avril-1998-menp9800888a)
