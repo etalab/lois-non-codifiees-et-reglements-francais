@@ -12,4 +12,10 @@ Les destinataires des informations enregistrées sont, en fonction de leurs attr
 
 - la direction de la fonction militaire et du personnel civil ;
 
-- les membres des corps d'inspection.
+- les membres des corps d'inspection ;
+
+- les directions ou services de la délégation générale pour l'armement ;
+
+- le service de soutien de la flotte ;
+
+- la structure intégrée de maintien en condition opérationnelle des matériels aéronautiques du ministère de la défense.
