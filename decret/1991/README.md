@@ -466,7 +466,6 @@
 - [Décret n°91-700 du 18 juillet 1991 (SPSS9101258D)](decret-n91-700-du-18-juillet-1991-spss9101258d)
 - [Décret n°91-739 du 18 juillet 1991 (INDX9100070D)](decret-n91-739-du-18-juillet-1991-indx9100070d)
 - [Décret n°91-932 du 18 septembre 1991 (MENT9101959D)](decret-n91-932-du-18-septembre-1991-ment9101959d)
-- [Décret n°96-820 du 18 septembre 1996 (DOMP9600009D)](decret-n96-820-du-18-septembre-1996-domp9600009d)
 - [Décret n°91-1180 du 19 novembre 1991 (INDP9100651D)](decret-n91-1180-du-19-novembre-1991-indp9100651d)
 - [Décret n°91-1267 du 19 décembre 1991 (AGRS9102284D)](decret-n91-1267-du-19-decembre-1991-agrs9102284d)
 - [Décret n°91-1268 du 19 décembre 1991 (SPSS9102592D)](decret-n91-1268-du-19-decembre-1991-spss9102592d)
