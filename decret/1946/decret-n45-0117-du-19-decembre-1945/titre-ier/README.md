@@ -1,5 +1,6 @@
 # Titre Ier : Des chambres des notaires
 
+- [Chapitre II : Désignation des membres de la chambre et durée de leurs fonctions.](chapitre-ii)
 - [Chapitre III : Bureau.](chapitre-iii)
 - [Chapitre IV : Fonctionnement de la chambre.](chapitre-iv)
 - [Chapitre V : Des chambres siégeant en comité mixte.](chapitre-v)
