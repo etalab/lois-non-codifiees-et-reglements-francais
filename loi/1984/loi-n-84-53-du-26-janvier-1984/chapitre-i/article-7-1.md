@@ -1,0 +1,5 @@
+# Article 7-1
+
+Les règles relatives à la définition, à la durée et à l'aménagement du temps de travail des agents des collectivités territoriales et des établissements publics mentionnés au premier alinéa de l'article 2 sont fixées par la collectivité ou l'établissement, dans les limites applicables aux agents de l'Etat, en tenant compte de la spécificité des missions exercées par ces collectivités ou établissements.
+
+Les régimes de travail mis en place antérieurement à l'entrée en vigueur de la loi n° 2001-2 du 3 janvier 2001 relative à la résorption de l'emploi précaire et à la modernisation du recrutement dans la fonction publique ainsi qu'au temps de travail dans la fonction publique territoriale peuvent être maintenus en application par décision expresse de l'organe délibérant de la collectivité ou de l'établissement prise après avis du comité technique paritaire, sauf s'ils comportent des dispositions contraires aux garanties minimales applicables en matière de durée et d'aménagement du temps de travail.

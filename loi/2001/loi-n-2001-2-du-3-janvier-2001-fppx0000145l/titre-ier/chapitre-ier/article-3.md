@@ -1,0 +1,3 @@
+# Article 3
+
+Les agents non titulaires mentionnés aux articles 1er et 2 de la présente loi, qui participent aux missions du service public de formation continue, ainsi que de formation et d'insertion professionnelles, dont les activités sont transférées à un groupement d'intérêt public constitué en application de l'article L. 423-1 du code de l'éducation, conservent le bénéfice des dispositions prévues auxdits articles. Les services accomplis par les intéressés après le transfert des activités sont retenus pour le calcul des conditions d'ancienneté prévues aux 1° et 4° du I de l'article 1er et à l'article 2 de la présente loi.
