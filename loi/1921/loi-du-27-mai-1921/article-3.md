@@ -24,10 +24,8 @@ L'énergie destinée aux mêmes usages et aux autres usages agricoles sera payé
 
 Le ministre de l'agriculture, dans la limite des crédits qui lui sont ouverts chaque année par la loi de finances, pourra accorder aux associations agricoles des subventions en vue de faciliter la réalisation des entreprises envisagées lorsque le prix de l'énergie sera trop élevé pour le permettre.
 
-Les statuts fixeront la composition du conseil d'administration de la société concessionnaire, sans qu'il soit tenu compte des dispositions de la loi provisoirement applicable du 16 novembre 1940 sur les sociétés anonymes ; ils détermineront notamment, le mode de représentation de l'Etat, des collectivités ou des établissements publics et du personnel de la société ; les modalités du concours financier des collectivités ou établissements publics ; les dispositions prises pour la liquidation de la dette de garantie, s'il en reste en fin de concession.
+Un règlement d'administration publique fixera la composition du conseil d'administration de la société concessionnaire sans qu'il soit tenu compte des dispositions de la loi du 16 novembre 1940 sur les sociétés anonymes. Il déterminera, notamment, le mode de représentation de l'Etat, des intérêts généraux liés à l'équipement du Rhône, des actionnaires et du personnel de la société.
 
-Les représentants de l'Etat, des départements et des communes devront comprendre au moins les deux tires, et ceux de l'Etat seul, les deux cinquièmes des membres du conseil d'administration, abstraction faite des représentants du personnel.
+Le président du conseil d'administration sera désigné par l'Etat parmi les membres de ce conseil.
 
-Le Président du Conseil d'administration sera désigné par l'Etat parmi ses représentants.
-
-Par dérogation à la loi du 24 juillet 1867, les représentants du personnel de la société au conseil d'administration seront dispensés de posséder et dépose, en garantie de leur gestion des actions de la société.
+Les représentants, au conseil d'administration, de l'Etat, des intérêts généraux liés à l'équipement du Rhône, du personnel de la société ainsi que ceux des collectivités  et établissements publics autorisés à prendre une participation au capital social de la société ne sont pas tenus d'être personnellement propriétaires d'actions de la société. Les représentants de l'Etat, des intérêts généraux liés à l'équipement du Rhône et ceux du personnel sont également dispensés de déposer, en garantie de leur gestion, des actions de la société.
