@@ -23,3 +23,4 @@
 - [Décret n°55-733 du 26 mai 1955](decret-n55-733-du-26-mai-1955)
 - [Décret n°55-1305 du 29 septembre 1955](decret-n55-1305-du-29-septembre-1955)
 - [Décret n°55-876 du 30 juin 1955](decret-n55-876-du-30-juin-1955)
+- [Décret n°55-753 du 31 mai 1955](decret-n55-753-du-31-mai-1955)

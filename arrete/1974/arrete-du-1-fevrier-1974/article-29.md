@@ -1,0 +1,3 @@
+# Article 29
+
+Le directeur des transports terrestres au ministère des transports, le directeur de la construction mécanique et électrique et de l'électronique au ministère du développement industriel et scientifique, le directeur général de l'administration et du financement (service de la répression des fraudes et du contrôle de la qualité), le directeur de l'aménagement rural et des structures et le directeur des services vétérinaires au ministère de l'agriculture et du développement rural sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

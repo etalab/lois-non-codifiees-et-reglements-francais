@@ -1,0 +1,3 @@
+# Article 19
+
+Les engins de transport définis à l'article 3 doivent être soumis avant leur mise en service à un examen destiné à vérifier que les prescriptions du présent arrêté sont observées, et notamment qu'ils sont aptes à acheminer les denrées dans les conditions de température prévues à l'annexe I. Dans ce but, une demande est adressée par les propriétaires des engins soit au ministère de l'agriculture (direction des services vétérinaires) pour les wagons, soit au directeur départemental des services vétérinaires du département d'immatriculation en ce qui concerne les véhicules routiers ou du siège social de l'entreprise en ce qui concerne les conteneurs.
