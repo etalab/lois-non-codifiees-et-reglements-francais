@@ -183,7 +183,6 @@
 - [Arrêté du 6 décembre 1995 (TASS9523413A)](arrete-du-6-decembre-1995-tass9523413a)
 - [Arrêté du 6 décembre 1996 (DEFA9602170A)](arrete-du-6-decembre-1996-defa9602170a)
 - [Arrêté du 6 décembre 1996 (ECOT9620049A)](arrete-du-6-decembre-1996-ecot9620049a)
-- [Arrêté du 6 décembre 1996 (EQUH9601651A)](arrete-du-6-decembre-1996-equh9601651a)
 - [Arrêté du 6 décembre 1996 (INDD9600824A)](arrete-du-6-decembre-1996-indd9600824a)
 - [Arrêté du 6 février 1996 (MAEA9620062A)](arrete-du-6-fevrier-1996-maea9620062a)
 - [Arrêté du 6 juin 1996 (MENN9601670A)](arrete-du-6-juin-1996-menn9601670a)
