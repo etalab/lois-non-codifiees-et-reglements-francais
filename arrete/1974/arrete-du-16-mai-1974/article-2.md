@@ -1,9 +1,9 @@
 # Article 2
 
-Le livret de famille d'époux est établi conformément au modèle décrit à l'annexe I.
+Les agents occupant l'un des emplois visés à l'article précédent ou ayant cessé leurs fonctions pour un motif autre que la démission, la révocation ou le licenciement pour insuffisance professionnelle seront reclassés dans l'échelle indiciaire prévue par le présent arrêté :
 
-Le livret de famille de la mère naturelle ou adoptive est établi conformément au modèle décrit à l'annexe II. Pareil livret de famille est délivré à la mère d'un enfant ayant fait l'objet d'une légitimation par autorité de justice.
+A l'échelon auquel ils étaient parvenus dans la précédente échelle, s'ils étaient classés dans celle-ci au 1er, 2e, 3e, 4e, 5e, 6e ou 7e échelon ;
 
-Le livret de famille du père naturel ou du père adoptif ou du père d'un enfant ayant fait l'objet d'une légitimation par autorité de justice est également établi sur le modèle établi à l'annexe II. Ce modèle reçoit alors les adaptations nécessaires, le cas échéant, de façon manuscrite.
+Au 2e échelon de la classe exceptionnelle, s'ils étaient en possession de l'échelon exceptionnel de l'échelle antérieure.
 
-Le livret de famille commun des père et mère naturels est établi conformément au modèle fixé à l'annexe III. Le même livret de famille peut être délivré aux père et mère de l'enfant naturel ayant fait l'objet, d'une légitimation par autorité de justice.
+Ils conservent l'ancienneté acquise dans leur précédent échelon.

@@ -1,0 +1,3 @@
+# Article 17
+
+Hors le cas de force majeure, d'opération d'assistance ou de sauvetage, les pilotes utilisant les hélisurfaces doivent être titulaires d'une autorisation permanente valable sur le territoire national, délivrée par le représentant de l'Etat dans le département où le pilote est domicilié ou par le préfet de police pour les personnes résidant à Paris ou à l'étranger, après avis conforme du commandant de groupement de gendarmerie du département ou de Paris et du directeur régional des douanes. Cette autorisation pourra être retirée à tout moment, notamment en cas d'inobservation des dispositions du titre III du présent arrêté.

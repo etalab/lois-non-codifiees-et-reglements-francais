@@ -16,13 +16,13 @@ Les comités régionaux et départementaux de la formation professionnelle, de l
 
 Le comité de coordination des programmes régionaux d'apprentissage et de formation professionnelle continue ;
 
-Le bureau et l'assemblée générale de l'Association nationale pour la formation professionnelle des adultes (A.F.P.A.).
+Le bureau et l'assemblée générale de l'Association nationale pour la formation professionnelle des adultes (A.F.P.A.) ;
 
 Le comité supérieur de l'emploi et sa commission permanente ;
 
 Les commissions professionnelles consultatives placées auprès du ministre de la formation professionnelle ainsi que leurs sous-commissions et groupes de travail.
 
-Le conseil d'administration, les comités consultatifs régionaux et les conseils techniques départementaux de l'agence nationale pour l'emploi ;
+Le conseil d'administration, les comités régionaux et les comités départementaux de l'agence nationale pour l'emploi ;
 
 La commission départementale chargée de donner son avis en cas de recours gracieux formé contre une décision d'exclusion du bénéfice des allocations aux travailleurs privés d'emploi (art. R. 351-10 du code du travail).
 
@@ -113,6 +113,8 @@ Les conseils de gestion des fonds d'assurance formation ;
 Le conseil d'administration du comité paritaire du congé individuel de formation (Copacif) ;
 
 Les conseils d'administration des organismes paritaires chargés de financer les congés individuels de formation.
+
+Les conseils paritaires de perfectionnement des associations de formation (Asfo) agréées au titre des formations professionnelles en alternance.
 
 C - Jurys d'examen.
 
