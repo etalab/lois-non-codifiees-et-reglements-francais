@@ -19,6 +19,7 @@
 - [Décret n°74-429 du 15 mai 1974](decret-n74-429-du-15-mai-1974)
 - [Décret n°74-434 du 15 mai 1974](decret-n74-434-du-15-mai-1974)
 - [Décret n°74-436 du 15 mai 1974](decret-n74-436-du-15-mai-1974)
+- [Décret n°74-442 du 15 mai 1974](decret-n74-442-du-15-mai-1974)
 - [Décret n° 74-325 du 17 avril 1974](decret-n-74-325-du-17-avril-1974)
 - [Décret n°74-53 du 17 janvier 1974](decret-n74-53-du-17-janvier-1974)
 - [Décret n°74-862 du 17 octobre 1974](decret-n74-862-du-17-octobre-1974)

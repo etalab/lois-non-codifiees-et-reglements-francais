@@ -1,3 +1,5 @@
 # Article 5
 
-Les lieutenants de louveterie dressent procès-verbal de chaque battue ou mission particulière ; ils mentionnent notamment le nombre et l'espèce des animaux détruits et les incidents éventuellement constatés. Les procès-verbaux sont adressés au directeur départemental de l'agriculture par l'intermédiaire du préfet.
+L'aide financière à l'insonorisation prévue à l'article 3, paragraphe 2 a, du décret n° 73-193 du 13 février 1973 ne peut excéder 66 p. 100 [*pourcentage*] du montant des travaux réellement exécutés dans les limites fixées à l'article 6 ci-après.
+
+Ce taux peut être porté à 100 p. 100 pour les personnes percevant l'allocation complémentaire du fonds national de solidarité ou bénéficiaires des formes d'aide sociale définies au titre III du code de la famille et de l'aide sociale.

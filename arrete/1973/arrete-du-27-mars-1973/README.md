@@ -1,4 +1,4 @@
-# Arrêté du 27 mars 1973 relatif aux lieutenants de louveterie
+# Arrêté du 27 mars 1973 fixant les règles de répartition du produit de la taxe parafiscale instituée en vue d'atténuer les nuisances subies par les riverains des aérodromes d'Orly et de Roissy-en-France, limites et conditions dans lesquelles peuvent être effectuées les dépenses.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,7 +8,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 9](article-9.md)
-- [Article 10](article-10.md)
-- [Article 11](article-11.md)
-- [Article 12](article-12.md)
