@@ -12,4 +12,4 @@ La désignation des candidats élus est effectuée de la manière suivante :
 
 2° Attribution des sièges aux candidats :
 
-- au sein de chaque liste bénéficiaire d'un ou plusieurs sièges, les sièges sont attribués au(x) candidat(s) ayant le rang de classement le meilleur. Pour établir le rang de classement d'un candidat, on cumule le nombre de points qu'il a obtenus à raison de 3 points pour le candidat classé premier par l'électeur, 2 points pour le candidat classé deuxième et 1 point pour le candidat classé troisième. Les candidats sont classés par ordre décroissant du total des points obtenus et, en cas d'ex aequo, par tirage au sort.
+- au sein de chaque liste bénéficiaire d'un ou plusieurs sièges, les sièges sont attribués au(x) candidat(s) ayant le rang de classement le meilleur. Pour établir le rang de classement d'un candidat, on calcule la valeur moyenne des rangs de classement qui lui ont été attribués par les électeurs. Les candidats sont classés par ordre croissant des rangs moyens ainsi obtenus et, en cas d'ex aequo, par tirage au sort.

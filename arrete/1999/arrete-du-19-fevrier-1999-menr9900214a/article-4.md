@@ -4,9 +4,9 @@ Les collèges électoraux de chaque commission comprennent :
 
 a) L'ensemble des agents de l'institut en service depuis au moins un an à la date à laquelle sont arrêtées les listes électorales, rémunérés sur un emploi budgétaire ou en position de détachement, compétents dans le domaine de la commission ; les agents sont inscrits par l'administration au titre de l'une des commissions et peuvent demander de façon motivée leur rattachement à une autre commission scientifique sectorielle ou à une des commissions de gestion de la recherche et de ses applications prévues à l'article 15 du décret du 5 juin 1984 susvisé ;
 
-b) Les personnes appartenant au conseil scientifique sortant ou aux instances d'évaluation ou qui exercent depuis au moins un an une activité régulière au sein de l'institut ;
+b) Les personnes appartenant au conseil scientifique sortant ou aux instances d'évaluation ou qui exercent depuis au moins un an une activité régulière au sein de l'institut et qui en font la demande ;
 
-c) Les personnes responsables de laboratoires ou d'équipes de recherche auprès desquels des chercheurs de l'institut sont détachés ou mis à disposition ;
+c) Les personnes responsables de laboratoires ou d'équipes de recherche auprès desquels des chercheurs de l'institut sont détachés ou mis à disposition et qui en font la demande ;
 
 d) Les personnes appartenant à un établissement d'enseignement supérieur ou de recherche, français ou relevant d'un pays partenaire, qui en font la demande auprès du directeur général en fournissant à l'appui de cette demande un dossier témoignant de leur implication dans la recherche pour le développement en coopération dans l'un des domaines scientifiques couverts par les commissions, attestée par au moins une publication scientifique récente ou par une justification jugée équivalente par la commission ad hoc définie au présent article.
 
