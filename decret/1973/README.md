@@ -2,11 +2,13 @@
 
 - [Décret n°73-235 du 1 mars 1973](decret-n73-235-du-1-mars-1973)
 - [Décret n°73-236 du 1 mars 1973](decret-n73-236-du-1-mars-1973)
+- [Décret n°73-247 du 1 mars 1973](decret-n73-247-du-1-mars-1973)
 - [Décret n°73-225 du 2 mars 1973](decret-n73-225-du-2-mars-1973)
 - [Décret n°73-237 du 2 mars 1973](decret-n73-237-du-2-mars-1973)
 - [Décret n°73-124 du 5 février 1973](decret-n73-124-du-5-fevrier-1973)
 - [Décret n°73-132 du 5 février 1973](decret-n73-132-du-5-fevrier-1973)
 - [Décret n°73-243 du 6 mars 1973](decret-n73-243-du-6-mars-1973)
+- [Décret n°73-250 du 7 mars 1973](decret-n73-250-du-7-mars-1973)
 - [Décret n°73-151 du 9 février 1973](decret-n73-151-du-9-fevrier-1973)
 - [Décret n°73-138 du 12 février 1973](decret-n73-138-du-12-fevrier-1973)
 - [Décret n°73-137 du 13 février 1973](decret-n73-137-du-13-fevrier-1973)
