@@ -1003,7 +1003,6 @@
 - [Décret n°97-678 du 31 mai 1997 (MCCK9700165D)](decret-n97-678-du-31-mai-1997-mcck9700165d)
 - [Décret n°97-681 du 31 mai 1997 (INDA9700308D)](decret-n97-681-du-31-mai-1997-inda9700308d)
 - [Décret n°97-682 du 31 mai 1997 (INDC9700320D)](decret-n97-682-du-31-mai-1997-indc9700320d)
-- [Décret n°97-687 du 31 mai 1997 (AGRR9701008D)](decret-n97-687-du-31-mai-1997-agrr9701008d)
 - [Décret n°97-688 du 31 mai 1997 (AGRS9700789D)](decret-n97-688-du-31-mai-1997-agrs9700789d)
 - [Décret n°97-690 du 31 mai 1997 (AVIN9701715D)](decret-n97-690-du-31-mai-1997-avin9701715d)
 - [Décret n°97-691 du 31 mai 1997 (AVIC9704116D)](decret-n97-691-du-31-mai-1997-avic9704116d)

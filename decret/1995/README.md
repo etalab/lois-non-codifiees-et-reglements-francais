@@ -560,7 +560,6 @@
 - [Décret n°95-1302 du 14 décembre 1995 (MAEJ9530110D)](decret-n95-1302-du-14-decembre-1995-maej9530110d)
 - [Décret n°95-1303 du 14 décembre 1995 (MAEJ9530112D)](decret-n95-1303-du-14-decembre-1995-maej9530112d)
 - [Décret n°95-176 du 14 février 1995 (AGRP9402413D)](decret-n95-176-du-14-fevrier-1995-agrp9402413d)
-- [Décret n°95-185 du 14 février 1995 (SPSA9503823D)](decret-n95-185-du-14-fevrier-1995-spsa9503823d)
 - [Décret n°95-284 du 14 mars 1995 (SPSP9500545D)](decret-n95-284-du-14-mars-1995-spsp9500545d)
 - [Décret n°95-403 du 14 avril 1995 (MENL9500088D)](decret-n95-403-du-14-avril-1995-menl9500088d)
 - [Décret n°95-404 du 14 avril 1995 (ECOP9500029D)](decret-n95-404-du-14-avril-1995-ecop9500029d)
