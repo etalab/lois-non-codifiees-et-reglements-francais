@@ -1,3 +1,3 @@
 # Article 10
 
-Le comité médical supérieur prévu à l'article 7 du décret n° 59-310 du 14 février 1959 peut être appelé, à la demande du ministre intéressé, à donner son avis en ce qui concerne les congés de longue durée visés à l'article 3 du décret n° 72-154 du 24 février 1972 sur des cas litigieux examinés par les commissions de réforme.
+Outre les cas d'octroi de congés de longue maladie attribués pour des affections non expressément énumérées par le présent arrêté où son avis est obligatoirement sollicité, le Comité médical supérieur peut également être appelé, à la demande du ministre intéressé soit agissant de son initiative, soit saisi par l'ouvrier, à donner son avis, en ce qui concerne les congés de longue durée et longue maladie, sur les cas litigieux examinés par les commissions de réforme.

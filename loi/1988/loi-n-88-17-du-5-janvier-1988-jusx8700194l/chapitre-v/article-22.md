@@ -1,0 +1,7 @@
+# Article 22
+
+Lorsque l'une des entreprises mentionnées à l'article 6 de la loi n° 86-912 du 6 août 1986 relative aux modalités d'application des privatisations décidées par la loi n° 86-793 du 2 juillet 1986 autorisant le Gouvernement à prendre diverses mesures d'ordre économique et social, détient des certificats de droit de vote dans les conditions prévues par le troisième alinéa du même article, l'assemblée générale extraordinaire peut décider de procéder à la reconstitution des certificats existants en actions, et à celle des certificats existants assortis d'avantages particuliers en actions conférant à leurs titulaires les mêmes avantages. La reconstitution s'opère par la cession aux porteurs, à titre gratuit, des certificats de droit de vote correspondants.
+
+A cet effet, la société peut demander l'identification des porteurs de certificats, même en l'absence de disposition statutaire expresse, selon les modalités prévues par l'article 263-1 de la loi n° 66-537 du 24 juillet 1966 précitée.
+
+Si la société a fait usage de l'autorisation d'opérer en bourse sur ses propres certificats conformément aux dispositions des articles 217-2 et 217-10 de la loi n° 66-537 du 24 juillet 1966 précitée, et détient à ce titre des certificats, le conseil d'administration ou le directoire, selon le cas, doit préalablement procéder à la reconstitution en actions de ces certificats. Il n'est pas tenu compte, le cas échéant, des actions ainsi reconstituées pour le calcul du nombre maximum d'actions à acquérir précédemment fixé par l'assemblée générale ordinaire.
