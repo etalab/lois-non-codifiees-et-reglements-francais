@@ -209,7 +209,6 @@
 - [Arrêté du 7 juin 1996 (AGRA9600901A)](arrete-du-7-juin-1996-agra9600901a)
 - [Arrêté du 7 juin 1996 (LOGC9600035A)](arrete-du-7-juin-1996-logc9600035a)
 - [Arrêté du 7 juin 1996 (LOGC9600036A)](arrete-du-7-juin-1996-logc9600036a)
-- [Arrêté du 7 juin 1996 (MIPP9600208A)](arrete-du-7-juin-1996-mipp9600208a)
 - [Arrêté du 7 juin 1996 (MIPP9600226A)](arrete-du-7-juin-1996-mipp9600226a)
 - [Arrêté du 7 juin 1996 (MIPP9600227A)](arrete-du-7-juin-1996-mipp9600227a)
 - [Arrêté du 7 juin 1996 (MIPP9600228A)](arrete-du-7-juin-1996-mipp9600228a)

@@ -239,7 +239,6 @@
 - [Arrêté du 6 décembre 1995 (ENVN9540322A)](arrete-du-6-decembre-1995-envn9540322a)
 - [Arrêté du 6 décembre 1995 (ENVN9540323A)](arrete-du-6-decembre-1995-envn9540323a)
 - [Arrêté du 6 décembre 1995 (ENVN9540373A)](arrete-du-6-decembre-1995-envn9540373a)
-- [Arrêté du 6 décembre 1995 (ENVN9540374A)](arrete-du-6-decembre-1995-envn9540374a)
 - [Arrêté du 6 décembre 1995 (EQUS9501834A)](arrete-du-6-decembre-1995-equs9501834a)
 - [Arrêté du 6 décembre 1995 (EQUT9501821A)](arrete-du-6-decembre-1995-equt9501821a)
 - [Arrêté du 6 décembre 1995 (FPPA9510003A)](arrete-du-6-decembre-1995-fppa9510003a)
