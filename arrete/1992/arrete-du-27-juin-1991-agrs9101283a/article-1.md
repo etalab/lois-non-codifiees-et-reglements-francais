@@ -1,6 +1,6 @@
 # Article 1
 
-Il ne peut pas être fait appel à des salariés sous contrat de travail à durée déterminée ni à des salariés des entreprises de travail temporaire pour les travaux énumérés ci-après :
+Il ne peut pas être fait appel [*interdiction d'emploi*] à des salariés sous contrat de travail à durée déterminée ni à des salariés des entreprises de travail temporaire pour les travaux énumérés ci-après :
 
 1. Travaux comportant l'exposition aux agents suivants :
 
@@ -48,8 +48,6 @@ Il ne peut pas être fait appel à des salariés sous contrat de travail à dur�
 
 - travaux de déflocage et de démolition exposant aux poussières d'amiante ;
 
-- travaux exposant à l'inhalation de poussières de déshydratation de la luzerne ;
-
 - travaux exposant à l'inhalation de poussières de lin ;
 
-- travaux de désinsectisation des bois (pulvérisation du produit, trempage du bois, empilage ou sciage des bois imprégnés, traitement des charpentes en place), des graines de semences ou des cultures.
+- travaux de désinsectisation des bois (pulvérisation du produit, trempage du bois, empilage ou sciage des bois imprégnés, traitement des charpentes en place), des grains lors de leur stockage.

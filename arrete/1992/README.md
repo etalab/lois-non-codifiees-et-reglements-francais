@@ -694,6 +694,7 @@
 - [Arrêté du 27 février 1992 (TEFT9204473A)](arrete-du-27-fevrier-1992-teft9204473a)
 - [Arrêté du 27 janvier 1992 (MCCK9100779A)](arrete-du-27-janvier-1992-mcck9100779a)
 - [Arrêté du 27 janvier 1992 (SPSS9200274A)](arrete-du-27-janvier-1992-spss9200274a)
+- [Arrêté du 27 juillet 1992 (AGRS9201382A)](arrete-du-27-juillet-1992-agrs9201382a)
 - [Arrêté du 27 juillet 1992 (INTE9200352A)](arrete-du-27-juillet-1992-inte9200352a)
 - [Arrêté du 27 juillet 1992 (JUSA9200143A)](arrete-du-27-juillet-1992-jusa9200143a)
 - [Arrêté du 27 juillet 1992 (MENN9203086A)](arrete-du-27-juillet-1992-menn9203086a)
