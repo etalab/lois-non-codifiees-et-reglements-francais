@@ -365,7 +365,6 @@
 - [Décret n°99-879 du 13 octobre 1999 (MENF9902201D)](decret-n99-879-du-13-octobre-1999-menf9902201d)
 - [Décret n°99-880 du 13 octobre 1999 (MENF9901943D)](decret-n99-880-du-13-octobre-1999-menf9901943d)
 - [Décret n°99-94 du 13 février 1999 (ECOT9851764D)](decret-n99-94-du-13-fevrier-1999-ecot9851764d)
-- [Décret n°98-365 du 13 mai 1998 (MESG9820750D)](decret-n98-365-du-13-mai-1998-mesg9820750d)
 - [Décret n°94-886 du 14 octobre 1994 (INTC9400334D)](decret-n94-886-du-14-octobre-1994-intc9400334d)
 - [Décret n°98-1125 du 14 décembre 1998 (JUSC9820732D)](decret-n98-1125-du-14-decembre-1998-jusc9820732d)
 - [Décret n°99-1044 du 14 décembre 1999 (MESF9911632D)](decret-n99-1044-du-14-decembre-1999-mesf9911632d)
