@@ -44,19 +44,21 @@ Tous les cours d'eau, canaux et plans d'eau non classés en 1re catégorie.
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
-1° La Durance, en aval du plan d'eau de la Saulce.
+1° La Durance en aval du plan d'eau de la Saulce.
 
-2° Le Buech, en aval du pont de fer de Serres.
+2° Le Buech en aval du pont de fer de Serres.
 
 3° Le lac des Bouchards.
 
-4° Tous les affluents et sous-affluents des cours d'eau ou portions de cours d'eau visés ci-dessus, à l'exception de la Méouge, la Blaisance, le Riou-de-Saint-Genis, la Blême (affluents du Buech) et leurs affluents.
+4° Tous les affluents et sous-affluents des cours d'eau ou portions de cours d'eau visés ci-dessus, à l'exception de la Méouge, de la Blaisance, du Riou-de-Saint-Genis, de la Blème (affluents du Buech) et de leurs affluents.
 
-5° La retenue de Serre-Ponçon, y compris le plan d'eau d'Embrun, du barrage principal de Serre-Ponçon au pont de la Clapierre sur la Durance, et à la cote 781 NGF pour tous les autres tributaires.
+5° La retenue de Serre-Ponçon, y compris le plan d'eau d'Embrun, du barrage principal de Serre-Ponçon au pont de la Clapierre sur la Durance, et à la cote 781 N.G.F. pour tous les autres tributaires.
 
 6° Le plan d'eau de la Saulce.
 
 7° Le plan d'eau de Siguret.
+
+8° Le lac d'Eygliers.
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 
@@ -144,9 +146,7 @@ Cours d'eau, canaux et plans d'eau de 2e catégorie
 
 13° Le lac de retenue du barrage du Chammet.
 
-14° La retenue hydroélectrique du Dorat (commune de
-
-Faux-la-Montagne).
+14° La retenue hydroélectrique du Dorat (commune de Faux-la-Montagne).
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
 

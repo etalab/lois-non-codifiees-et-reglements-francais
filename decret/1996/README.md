@@ -94,6 +94,7 @@
 - [Décret n°96-135 du 14 février 1996 (TASS9523426D)](decret-n96-135-du-14-fevrier-1996-tass9523426d)
 - [Décret n°96-200 du 14 mars 1996 (DOMX9500003D)](decret-n96-200-du-14-mars-1996-domx9500003d)
 - [Décret n°96-204 du 15 mars 1996 (BUDL9600021D)](decret-n96-204-du-15-mars-1996-budl9600021d)
+- [Décret n°96-205 du 15 mars 1996 (AGRD9502507D)](decret-n96-205-du-15-mars-1996-agrd9502507d)
 - [Décret n°96-27 du 15 janvier 1996 (JUSG9560073D)](decret-n96-27-du-15-janvier-1996-jusg9560073d)
 - [Décret n°96-30 du 15 janvier 1996 (EQUA9501805D)](decret-n96-30-du-15-janvier-1996-equa9501805d)
 - [Décret n°96-32 du 15 janvier 1996 (TASH9523427D)](decret-n96-32-du-15-janvier-1996-tash9523427d)
