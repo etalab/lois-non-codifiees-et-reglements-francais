@@ -56,7 +56,6 @@
 - [Décret n°86-1252 du 5 décembre 1986](decret-n86-1252-du-5-decembre-1986)
 - [Décret n°86-169 du 5 février 1986](decret-n86-169-du-5-fevrier-1986)
 - [Décret n°86-172 du 5 février 1986](decret-n86-172-du-5-fevrier-1986)
-- [Décret n°86-192 du 5 février 1986](decret-n86-192-du-5-fevrier-1986)
 - [Décret n°86-303 du 5 mars 1986](decret-n86-303-du-5-mars-1986)
 - [Décret n°86-331 du 5 mars 1986](decret-n86-331-du-5-mars-1986)
 - [Décret n°86-354 du 5 mars 1986](decret-n86-354-du-5-mars-1986)
