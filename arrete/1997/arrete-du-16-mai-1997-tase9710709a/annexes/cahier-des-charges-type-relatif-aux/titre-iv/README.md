@@ -1,3 +1,0 @@
-# TITRE IV : DUREE, RENOUVELLEMENT, PUBLICITE, RESILIATION.
-
-- [Article ANNEXE](article-annexe.md)
