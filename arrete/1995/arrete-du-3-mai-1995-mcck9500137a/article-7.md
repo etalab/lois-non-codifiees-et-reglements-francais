@@ -1,6 +1,6 @@
 # Article 7
 
-Les aides sont attribuées sous forme de subventions tant que le montant alloué dans l'année à l'entreprise est inférieur ou égal à 800 000 F. Les aides versées au-delà dudit seuil prennent la forme d'avances remboursables sur les recettes telles que définies à l'article 4 ci-dessus et provenant des ventes à l'étranger des oeuvres pour lesquelles l'entreprise a bénéficié d'aides à la promotion.
+Les aides sont attribuées sous forme de subventions tant que le montant alloué dans l'année à l'entreprise est inférieur ou égal à 1 500 000 F. Les aides versées au-delà dudit seuil prennent la forme d'avances remboursables sur les recettes telles que définies à l'article 4 ci-dessus et provenant des ventes à l'étranger des oeuvres pour lesquelles l'entreprise a bénéficié d'aides à la promotion.
 
 Les avances font l'objet de conventions conclues avec les entreprises bénéficiaires. Elles précisent notamment les conditions de
 

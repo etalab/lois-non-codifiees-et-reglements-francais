@@ -6,6 +6,8 @@ Pour l'obtention de la décision prévue à l'article 5 ci-dessus, l'entreprise 
 
 2° La liste des prestataires techniques envisagés ;
 
+2° bis. Un devis détaillé établi pour chaque oeuvre par le prestataire technique ;
+
 3° La liste détaillée des ventes d'oeuvres effectuées à l'étranger dans les vingt-quatre derniers mois ;
 
 4° La copie de l'autorisation préalable ou de l'autorisation définitive, lorsque celle-ci a été délivrée ;
