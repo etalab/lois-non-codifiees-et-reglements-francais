@@ -54,6 +54,8 @@ A 67 Charges exceptionnelles.
 
 A 68 Dotations aux amortissements et aux provisions.
 
+A 709 Remises, rabais et ristournes accordés par l'établissement.
+
 A 7135 Variations des stocks de produits (débits).
 
 Recettes
@@ -134,6 +136,8 @@ LETTRES MNÉMOTECHNIQUES
 
 B : centres et unités de soins de longue durée (long séjour).
 
+E : établissements hébergeant des personnes âgées dépendantes.
+
 J : maisons de retraite.
 
 K : hospices.
@@ -168,6 +172,8 @@ Charges d'exploitation relatives au personnel
 
 648 Autres charges de personnel.
 
+67281 Charges de personnel.
+
 Groupe 2
 
 Charges d'exploitation à caractère médical
@@ -183,6 +189,16 @@ Charges d'exploitation à caractère médical
 6066 Fournitures médicales.
 
 611 Sous-traitance générale.
+
+61357 Matériel médical.
+
+61551 Matériel et outillage médicaux.
+
+615611 Maintenance informatique à caractère médical.
+
+61562 Maintenance du matériel médical.
+
+67282 Charges à caractère médical.
 
 Groupe 3
 
@@ -202,7 +218,7 @@ Charges d'exploitation à caractère hôtelier et général
 
 607 Achats de marchandises.
 
-61 Services extérieurs (sauf 611 et 61681).
+61 Services extérieurs (sauf 611, 61357, 61551, 615611, 61562, 61681).
 
 62 Autres services extérieurs (sauf 621).
 
@@ -211,6 +227,8 @@ Charges d'exploitation à caractère hôtelier et général
 637 Autres impôts, taxes et versements assimilés (autres organismes).
 
 65 Autres charges de gestion courante.
+
+67283 Charges d'exploitation à caractère hôtelier.
 
 713 Variations des stocks de produits (débits).
 
@@ -222,7 +240,7 @@ et exceptionnelles
 
 66 Charges financières.
 
-67 Charges exceptionnelles (sauf compte 6721).
+67 Charges exceptionnelles (sauf 6721, 67281, 67282, 67283).
 
 68 Dotations aux amortissements et aux provisions.
 
@@ -234,6 +252,8 @@ Forfait global de soins
 
 70621 Dotation globale (forfait global annuel) (soins de longue durée maisons de retraite).
 
+70661 Dotation globale de financement soins.
+
 Groupe 2
 
 Forfaits journaliers de soins
@@ -241,6 +261,10 @@ Forfaits journaliers de soins
 706112 Forfait journalier de soins (activités autres que soins de longue durée).
 
 706122 Forfait journalier de soins (longue durée).
+
+70662 Hébergé.
+
+7067 Produits des prestations non prises en compte dans les tarifs journaliers afférents aux soins.
 
 Groupe 3
 
@@ -254,11 +278,15 @@ Produits de l'hébergement
 
 70616 Dotation globale des établissements relevant de la loi sociale.
 
+70617 Tarifs hébergement (EHPAD).
+
 70618 Autres produits des établissements relevant de la loi sociale.
 
 70627 Forfait journalier (article L. 174-4 du code de la sécurité sociale).
 
 7063 Prestation spécifique dépendance.
+
+7064 Tarifs dépendance (EHPAD).
 
 Groupe 4
 
@@ -350,6 +378,8 @@ Groupe 1
 
 Charges d'exploitation relatives au personnel
 
+61681 Maladie, maternité et accident du travail.
+
 621 Personnel extérieur à l'établissement.
 
 631 Impôts, taxes et versements assimilés sur rémunérations (administration des impôts).
@@ -384,6 +414,8 @@ Charges d'exploitation à caractère médical
 
 611 Sous-traitance générale.
 
+61357 Matériel médical.
+
 Groupe 3
 
 Autres charges
@@ -402,7 +434,7 @@ Autres charges
 
 607 Achats de marchandises.
 
-61 Services extérieurs (sauf 611).
+61 Services extérieurs (sauf 611, 61357 et 61681).
 
 62 Autres services extérieurs (sauf 621).
 

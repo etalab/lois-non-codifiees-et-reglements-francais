@@ -120,6 +120,8 @@ Autres dépenses
 
 131...9 Annulation et réduction des titres de recettes de subventions d'équipement reçues émis au cours des exercices précédent et antérieurs.
 
+24 Immobilisations affectées.
+
 261 Titres de participation (syndicats interhospitaliers).
 
 262 Titres de participation (GIP).
@@ -245,6 +247,8 @@ Autres recettes
 229 Droits des concédants.
 
 23...9 Annulation et réduction de mandats de dépenses d'immobilisations en cours émis au cours des exercices précédent et antérieurs.
+
+24 Immobilisations affectées.
 
 26 Participations et créances rattachées à des participations.
 

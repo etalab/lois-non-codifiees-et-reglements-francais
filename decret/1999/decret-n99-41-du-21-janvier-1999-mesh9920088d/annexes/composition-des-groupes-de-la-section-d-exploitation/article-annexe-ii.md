@@ -52,6 +52,10 @@ Charges d'exploitation à caractère médical
 
 611 Sous-traitance générale.
 
+61357 Matériel médical.
+
+61551 Matériel et outillage médicaux.
+
 615611 Maintenance informatique à caractère médical.
 
 61562 Maintenance du matériel médical.
@@ -76,7 +80,7 @@ Charges d'exploitation à caractère hôtelier et général
 
 6072 Achats de marchandises à caratère hôtelier et général.
 
-61 Services extérieurs (sauf 611, 615611, 61562, 61681).
+61 Services extérieurs (sauf 611, 61357, 61551, 615611, 61562, 61681).
 
 62 Autres services extérieurs (sauf 621).
 
@@ -87,6 +91,8 @@ Charges d'exploitation à caractère hôtelier et général
 65 Autres charges de gestion courante.
 
 67283 Charges d'exploitation à caractère hôtelier et général.
+
+709 Remises, rabais et ristournes accordés par l'établissement.
 
 7133 Variation des en-cours de production de biens (débits).
 
@@ -135,6 +141,10 @@ Produits de l'activité hospitalière
 70625 Produits des tarifications au titre des conventions internationales.
 
 70627 Forfait journalier.
+
+706281 Contribution forfaitaire de l'Etat (établissement public de santé territorial de Mayotte).
+
+706282 Contribution forfaitaire de la collectivité territoriale (établissement public de santé territorial de Mayotte).
 
 706511 Consultations entièrement payées par les malades.
 
@@ -202,6 +212,10 @@ Autres produits
 
 7412 Subventions versées au titre de la protection maternelle et infantile.
 
+7414 "Subventions versées au titre de l'aide exceptionnelle au service public hospitalier."
+
+7415 Subventions aux antennes médicales de lutte contre le dopage.
+
 7418 Autres subventions d'exploitation.
 
 742 Participations.
@@ -259,6 +273,10 @@ Autres produits
 7866 Reprises sur provisions pour dépréciation des éléments financiers.
 
 78741 Reprises sur la réserve de trésorerie (postérieure au financement par dotation globale).
+
+78742 Reprises sur autres provisions réglementées - plus-values réinvesties.
+
+78743 Reprises sur la réserve de trésorerie antérieure au financement par dotation globale.
 
 7876 Reprises sur provisions pour dépréciations exceptionnelles.
 
