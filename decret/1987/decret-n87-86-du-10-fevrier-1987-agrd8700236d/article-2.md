@@ -6,8 +6,8 @@ Elle élabore et met en oeuvre la politique du personnel. A ce titre, elle gère
 
 Elle définit et anime la politique des relations sociales.
 
-Elle élabore et met en oeuvre, en liaison avec les autres directions, la politique de modernisation des moyens de fonctionnement du ministère. A ce titre, elle anime et coordonne l'application à l'administration de technologies nouvelles ; elle assure l'organisation matérielle du système de communication et d'information du ministère.
+Elle élabore et met en oeuvre, en liaison avec les autres directions, la politique de modernisation des moyens de fonctionnement du ministère. A ce titre, elle anime et coordonne l'application à l'administration de technologies nouvelles.
 
-Elle est chargée de l'organisation et du fonctionnement des services extérieurs du ministère dont elle coordonne l'action.
+Elle est chargée de l'organisation et du fonctionnement des services déconcentrés du ministère dont elle coordonne l'action.
 
 Le directeur général de l'administration a autorité sur les ingénieurs généraux chargés de mission permanente d'inspection interrégionale.
