@@ -8,4 +8,6 @@ Pour l'application de l'article 17 du décret du 28 mars 1967 susvisé, les pers
 
 - appel par ordre ;
 
-- congé administratif, de maladie, de longue durée, pour couches et allaitement et pour obligations militaires.
+- appel spécial ;
+
+- congé administratif, de maladie, de longue maladie, de longue durée, de grave maladie, de maternité ou d'adoption et pour obligations militaires.
