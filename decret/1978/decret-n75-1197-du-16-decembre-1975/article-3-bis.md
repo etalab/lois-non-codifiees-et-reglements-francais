@@ -1,6 +1,6 @@
-# Article 3 BIS
+# Article 3 bis
 
-Par dérogation aux dispositions de l'article 2 ci-dessus, lorsqu'un titulaire de l'allocation aux adultes handicapés est admis au bénéfice de la garantie de ressources prévue aux articles 32 à 34 de la loi susvisée du 30 juin 1975, l'organisme débiteur de l'allocation suspend les paiements et réexamine, avec effet du premier jour du premier mois d'attribution du complément de rémunération, le droit à l'allocation aux adultes handicapés dans les conditions ci-après :
+Par dérogation aux dispositions de l'article 2 ci-dessus, lorsqu'un titulaire de l'allocation aux adultes handicapés est admis au bénéfice de la garantie de ressources prévue aux articles 32 à 34 de la loi susvisée du 30 juin 1975, l'organisme débiteur de l'allocation suspend les paiements et réexamine, avec effet du premier jour du mois civil suivant le mois d'attribution du complément de rémunération, le droit à l'allocation aux adultes handicapés dans les conditions ci-après :
 
 Les ressources qui avaient été prises en compte pour l'attribution de l'allocation aux adultes handicapés dont bénéficie l'intéressé sont majorées d'une somme égale à onze fois le complément de rémunération dû au titre du premier mois d'attribution de ce complément.
 
