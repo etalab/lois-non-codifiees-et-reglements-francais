@@ -1,5 +1,0 @@
-# Article 1
-
-Il est accordé aux techniciens d'études et de fabrications régis par le décret susvisé du 8 décembre 1953, en service en métropole et en Afrique du Nord, une indemnité forfaitaire dégressive qui, pour les techniciens classés au 1er échelon de leur grade, est égale à la moitié de la différence entre leur rémunération de fonctionnaire, comprenant notamment la prime de rendement au taux moyen, et celle d'un ouvrier de la défense nationale, en service dans le même établissement, classé au 8e échelon du groupe VII et recevant une prime, de rendement moyenne et la prime de fonction de chef d'équipe (15 p. 100).  L'indemnité forfaitaire ainsi définie est régulièrement dégressive par point d'indice net jusqu'à devenir nulle au 2° échelon de la classe exceptionnelle de technicien chef de travaux d'études et de fabrications.
-
-Les stagiaires ne reçoivent aucune indemnité forfaitaire au cours de leur première année de stage ; au cours de la seconde année, ils reçoivent la moitié de l'indemnité allouée aux techniciens d'études et de fabrications de 1er échelon.

@@ -15,7 +15,6 @@
 - [Décret n°56-497 du 14 mai 1956](decret-n56-497-du-14-mai-1956)
 - [Décret n°56-595 du 15 juin 1956](decret-n56-595-du-15-juin-1956)
 - [Décret n°57-589 du 16 mai 1957](decret-n57-589-du-16-mai-1957)
-- [Décret n°56-1296 du 17 décembre 1956](decret-n56-1296-du-17-decembre-1956)
 - [Décret n°56-608 du 18 juin 1956](decret-n56-608-du-18-juin-1956)
 - [Décret n°56-614 du 18 juin 1956](decret-n56-614-du-18-juin-1956)
 - [Décret n°56-841 du 18 août 1956](decret-n56-841-du-18-aout-1956)
