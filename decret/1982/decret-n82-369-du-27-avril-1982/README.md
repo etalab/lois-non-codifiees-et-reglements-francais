@@ -1,4 +1,4 @@
-# Arrêté du 20 avril 1982 fixant le montant des redevances cynégétiques
+# Décret n°82-369 du 27 avril 1982 relatif à la commission paritaire des publications et agences de presse.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
