@@ -1,6 +1,6 @@
 # Article 2
 
-Les concours visés à l'article 1er du présent arrêté sont organisés chaque année au cours du dernier trimestre civil et font l'objet d'un avis publié au Journal officiel un mois au moins avant la date des épreuves.
+Les concours visés à l'article 1er du présent arrêté sont organisés chaque année au cours du second semestre de l'année civile et font l'objet d'un avis publié au Journal officiel un mois au moins avant la date des épreuves.
 
 Les candidats doivent adresser, sous pli recommandé, au ministère de la santé publique et de la sécurité sociale (direction générale de la santé, bureau des concours médicaux), dans les délais fixés pour chaque concours par l'avis publié au Journal officiel, un dossier comprenant :
 
@@ -24,6 +24,6 @@ Un certificat de nationalité française (à demander au tribunal d'instance du 
 
 Pour les candidats masculins, un état signalétique et des services militaires ;
 
-Un certificat médical délivré par un médecin de médecine générale assermenté constatant que l'intéressé n'est atteint d'aucune maladie ou infirmité incompatible avec l'exercice des fonctions de pharmacien des hôpitaux et, de plus, que l'examen effectué orienté notamment vers le dépistage des troubles psychopathologiques, des affections cancéreuses ou d'une affection poliomyélitique n'a mis en évidence aucune manifestation morbide ;
+Un certificat médical délivré par un médecin de médecine générale assermenté constatant que l'intéressé n'est atteint d'aucune maladie ou infirmité incompatible avec l'exercice des fonctions de pharmacien des hôpitaux et, de plus, que l'examen effectué orienté notamment vers le dépistage des troubles psychopathologiques, des affections cancéreuses ou d'une affection poliomyélitique, n'a mis en évidence aucune manifestation morbide ;
 
 Un certificat délivré par un médecin phtisiologue agréé constatant que l'intéressé est indemne de toute affection tuberculeuse.

@@ -1,12 +1,12 @@
 # Article 5
 
-Les concours prévus par le présent arrêté comprennent des épreuves d'admissibilité et des épreuves d'admission,
+Les concours prévus par le présent arrêté comprennent des épreuves d'admissibilité et des épreuves d'admission.
 
 Le choix des sujets des épreuves est fait à la majorité des membres du jury. Les sujets à traiter par écrit sont tirés au sort par un candidat parmi trois sujets proposés par le jury pour chaque épreuve.
 
-1) Admissibilité
+1) Admissibilité.
 
-a) Epreuve écrite consistant en l'étude du point de vue pharmaceutique d'un médicament ou d'un ensemble de médicaments relevant d'une même famille chimique ou d'un même groupe pharmacodynamique. (Durée de l'épreuve : deux heures ; cotée sur 40).
+a) Epreuve écrite consistant en l'étude du point de vue pharmaceutique d'un médicament ou d'un ensemble de médicaments relevant d'une même famille chimique ou d'un même groupe pharmacodynamique. (Durée de l'épreuve : deux heures ; cotée sur 40)
 
 Les candidats ont la faculté de consulter un exemplaire de la pharmacopée française produite par leurs soins, mais non annotée.
 
@@ -16,7 +16,9 @@ c) Après délibération du jury précédant la levée de l'anonymat en séance 
 
 2) Admission.
 
-a) Epreuve orale obligatoire comportant, après vingt minutes de préparation, deux exposés d'une durée globale de quinze minutes sur deux questions tirées au sort portant l'une sur la pharmacie galénique, l'autre sur la chimie analytique appliquée au contrôle des médicaments et suivie de cinq minutes de discussion avec le jury. Chaque exposé est coté sur 35.
+a) Epreuve orale obligatoire comportant, après vingt minutes de préparation, deux exposés d'une durée globale de quinze minutes sur deux questions tirées au sort portant l'une sur la pharmacie galénique, l'autre sur les méthodes analytiques applicables au contrôle des médicaments dans le cadre de la pharmacopie, et suivis de cinq minutes de discussion avec le jury.
+
+Chaque exposé est coté sur 35.
 
 b) Une épreuve facultative écrite portant, au choix du candidat exprimé lors de l'inscription :
 
@@ -26,23 +28,23 @@ Soit sur la réglementation pharmaceutique hospitalière ;
 
 Soit sur la gestion d'une pharmacie hospitalière.
 
-(Durée de l'épreuve : une heure ; cotée sur 10).
+(Durée de l'épreuve : une heure ; cotée sur 10)
 
 c) Appréciation des titres, travaux et services rendus :
 
 Titres et travaux hospitaliers et universitaires :
 
-Points
+Points.
 
 Internat en pharmacie : 2
 
 Médaille d'or sur concours : 2
 
-Doctorat d'Etat en pharmacie : 4
+Doctorat d'Etat en Pharmacie : 4
 
 Doctorat d'Université en pharmacie : 2,5
 
-Doctorat d'Etat ès sciences : 3
+Doctorat d'Etat es sciences : 3
 
 Doctorat d'Etat en médecine : 3,5
 

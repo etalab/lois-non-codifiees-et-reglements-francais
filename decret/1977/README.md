@@ -46,6 +46,7 @@
 - [Décret n°76-1191 du 23 décembre 1976](decret-n76-1191-du-23-decembre-1976)
 - [Décret n°77-285 du 24 mars 1977](decret-n77-285-du-24-mars-1977)
 - [Décret n°77-286 du 24 mars 1977](decret-n77-286-du-24-mars-1977)
+- [Décret n°77-306 du 24 mars 1977](decret-n77-306-du-24-mars-1977)
 - [Décret n°77-138 du 27 janvier 1977](decret-n77-138-du-27-janvier-1977)
 - [Décret n°77-140 du 27 janvier 1977](decret-n77-140-du-27-janvier-1977)
 - [Décret n°76-1304 du 28 décembre 1976](decret-n76-1304-du-28-decembre-1976)
