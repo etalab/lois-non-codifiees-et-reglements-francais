@@ -1,6 +1,6 @@
 # Article 3
 
-La commission technique et pédagogique des centres de vacances et de loisirs, présidée par le directeur de la jeunesse et de la vie associative ou son représentant, est composée de vingt membres désignés nominativement pour deux ans par arrêté du ministre de la jeunesse et des sports.
+La commission technique et pédagogique des centres de vacances et de loisirs, présidée par le directeur de la jeunesse et de la vie associative ou son représentant, est composée de vingt membres désignés nominativement pour une durée de trois ans renouvelable par arrêté du ministre de la jeunesse et des sports.
 
 a) Représentants des administrations :
 
