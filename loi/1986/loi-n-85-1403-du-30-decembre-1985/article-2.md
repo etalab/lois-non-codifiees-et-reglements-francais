@@ -2,11 +2,13 @@
 
 I - Le barème de l'impôt sur le revenu est fixé comme suit :
 
-(tableau non reproduit, voir JO du 31/12/1985 page 15448).
+(tableau non reproduit, voir JO du 31/12/1986 page 15820)
 
 II à V Paragraphes modificateurs
 
-VI - Les cotisations d'impôt sur le revenu sont réduites de 8 p. 100 lorsque leur montant n'excède pas 22.730 F et de 3 p. 100 lorsque leur montant est compris entre 28.410 F et 34.091 F ; elles font l'objet d'une réduction égale à quatre fois la différence entre 1.420 F et 4,25 p. 100 de leur montant, lorsque celui-ci est compris entre 22.730 F et 28.411 F.
+VI - Les cotisations d'impôt sur le revenu dues au titre de l'année 1986 sont minorées dans les conditions suivantes :
+
+(tableau non reproduit, voir JO du 31/12/1986 page 15820).
 
 Les cotisations d'impôt sur le revenu s'entendent avant déduction des crédits d'impôt, de l'avoir fiscal et des prélèvements ou retenues non libératoires.
 
