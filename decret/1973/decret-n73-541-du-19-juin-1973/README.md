@@ -2,6 +2,5 @@
 
 - [Titre Ier : Conditions générales d'aptitude aux fonctions de commissaire-priseur.](titre-ier)
 - [Titre II : Le stage.](titre-ii)
-- [Titre III : L'examen d'aptitude à la profession de commissaire-priseur.](titre-iii)
 - [Titre IV : Nomination aux offices de commissaires-priseurs.](titre-iv)
 - [Article 40](article-40.md)

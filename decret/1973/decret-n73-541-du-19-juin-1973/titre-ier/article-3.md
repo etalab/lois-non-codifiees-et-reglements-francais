@@ -1,15 +1,5 @@
 # Article 3
 
-Sont dispensés des conditions de diplômes prévues au 5° de l'article 2 et peuvent être dispensés de tout ou partie du stage et de certaines épreuves de l'examen d'accès au stage et de l'examen d'aptitude à la profession de commissaire-priseur par décision du procureur général dans le ressort de laquelle est établi leur domicile, prise après avis du bureau de la chambre nationale des commissaires-priseurs :
+Les personnes ayant exercé, avant l'entrée en vigueur du décret du 19 juillet 2001 précité, l'activité de commissaire-priseur ou, depuis cette date, la profession de commissaire-priseur judiciaire sont dispensées de l'examen mentionné à l'article 4 du présent décret.
 
-1° Les anciens magistrats de l'ordre judiciaire régis par l'ordonnance n° 53-1270 du 22 décembre 1953 ;
-
-2° Les anciens huissiers de justice ayant exercé leurs fonctions pendant cinq ans au moins ;
-
-3° Les anciens notaires ayant exercé leurs fonctions pendant cinq ans au moins ;
-
-4° Les anciens syndics et administrateurs judiciaires, les anciens administrateurs judiciaires et mandataires liquidateurs ayant exercé leurs fonctions pendant cinq ans au moins ;
-
-5° Les anciens fonctionnaires de catégorie A ou les personnes assimilées aux fonctionnaires de cette catégorie ayant exercé leurs fonctions pendant cinq ans au moins.
-
-6° Les anciens greffiers des tribunaux de commerce ayant exercé leurs fonctions pendant cinq ans au moins.
+Les personnes bénéficiant de la dispense des conditions de diplôme national en droit mentionnées à l'article 18 du décret du 19 juillet 2001 précité sont dispensées de l'épreuve juridique mentionnée à l'article 4 du présent décret.

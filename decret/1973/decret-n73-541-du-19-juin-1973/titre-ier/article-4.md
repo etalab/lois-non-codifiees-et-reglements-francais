@@ -1,3 +1,7 @@
 # Article 4
 
-Sont dispensées des conditions prévues au 6° et au 7° de l'article 2 les personnes ayant exercé pendant cinq ans au moins les fonctions de principal clerc de commissaire-priseur ou des activités professionnelles comportant des responsabilités équivalentes dans un office de commissaire-priseur ou dans un organisme statutaire de la profession.
+L'examen d'aptitude à la profession de commissaire-priseur judiciaire a lieu au moins une fois par an.
+
+Le programme, les conditions d'organisation et les modalités de l'examen, qui comporte une épreuve juridique et des épreuves destinées à contrôler les connaissances du candidat sur les arts et techniques et sur la pratique professionnelle, sont fixés par arrêté du garde des sceaux, ministre de la justice, après avis de la Chambre nationale des commissaires-priseurs judiciaires.
+
+Nul ne peut se présenter plus de trois fois à l'examen.
