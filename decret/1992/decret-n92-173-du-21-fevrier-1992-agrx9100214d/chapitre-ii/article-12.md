@@ -1,0 +1,3 @@
+# Article 12
+
+Les dispositions de l'article 11 ne s'appliquent pas aux membres des corps des professeurs et des chefs des travaux régis par les décrets n° 65-541 du 1er juillet 1965 modifié relatif aux personnels de direction et d'enseignement des écoles nationales d'ingénieurs des travaux dépendant du ministère de l'agriculture et portant statut particulier des professeurs et des chefs de travaux de ces établissements et n° 68-537 du 30 mai 1968 modifié relatif aux personnels de direction et d'enseignement de l'Ecole nationale supérieure féminine d'agronomie et de l'Ecole nationale de formation agronomique et portant statut particulier des professeurs et des chefs de travaux de ces établissements.

@@ -1,6 +1,6 @@
 # Article 4
 
-La commission comprend, outre le président, représentant du ministre, les autorités désignées ci-après ou leurs représentants [*composition*] :
+La commission comprend, outre le président, représentant du ministre, et le vice-président, qui est le chargé de mission Innovation, les autorités désignées ci-après ou leurs représentants :
 
 - le délégué général pour l'armement ;
 
@@ -8,7 +8,7 @@ La commission comprend, outre le président, représentant du ministre, les auto
 
 - le chef d'état-major de l'armée de terre ;
 
-- le chef d'état-major de l'armée de la marine ;
+- le chef d'état-major de la marine ;
 
 - le chef d'état-major de l'armée de l'air ;
 
@@ -24,11 +24,9 @@ La commission comprend, outre le président, représentant du ministre, les auto
 
 - le directeur des constructions navales ;
 
-- le directeur des engins ;
+- le directeur des missiles et de l'espace ;
 
 - le directeur de l'électronique et de l'informatique ;
-
-- le chargé de mission auprès du délégué général pour l'armement, chargé de l'innovation ;
 
 - le contrôleur financier près le ministre de la défense.
 

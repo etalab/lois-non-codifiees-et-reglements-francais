@@ -1,6 +1,8 @@
 # Article 4
 
-§ 1 - Les résultats des essais exécutés en application de l'article 3 ci-dessus sont appréciés au regard des résultats homologues obtenus par le constructeur pour des bouteilles identiques à celles du lot considéré. Ces bouteilles doivent avoir été prélevées par l'expert au titre de l'application de l'article 5 (§ 1er) de l'arrêté du 12 novembre 1962 ou de l'article 33 (§ 2) de l'arrêté du 9 février 1982 et tous les résultats obtenus doivent avoir été jugés satisfaisants.
+§ 1 - Les résultats des essais exécutés en application de l'article 3 ci-dessus sont appréciés au regard des résultats homologues obtenus par le constructeur pour des bouteilles identiques à celles du lot considéré.
+
+Ces bouteilles doivent avoir été prélevées par l'expert au titre de l'application de l'article 5 (§ 1er) de l'arrêté du 12 novembre 1962 ou de l'article 33 (§ 2) de l'arrêté du 9 février 1982 et tous les résultats obtenus doivent avoir été jugés satisfaisants.
 
 § 2 - L'instruction mentionnée à l'article 2 (§ 2) ci-dessus précise l'étendue de ces résultats d'essais exécutés sur bouteilles neuves, à partir desquels sont notamment déterminées ;
 
@@ -12,7 +14,7 @@ b) Parmi les pressions obtenues, la valeur la plus basse N qui ne soit pas infé
 
 a) L'estimation E de la moyenne ;
 
-b) La limite L de l'intervalle statistique de dispersion unilatéral "à droite" pour un niveau de confiance de 95 p. 100 et une fraction de la population égale à 99 %.
+b) La limite L de l'intervalle statistique de dispersion unilatéral "à droite" pour un niveau de confiance de 95 % et une fraction de la population égale à 99 %.
 
 § 4 - Les conditions à satisfaire sont les suivantes :
 
