@@ -2,9 +2,7 @@
 
 I. - Le droit à pension est ouvert :
 
-- à quarante ans d'âge, pour le personnel féminin de la danse ;
-
-- à quarante-cinq ans d'âge, pour le personnel masculin de la danse ;
+- à quarante ans d'âge pour les artistes du ballet ;
 
 - à cinquante ans d'âge, pour les artistes du chant et les artistes des choeurs ;
 
@@ -27,3 +25,13 @@ III. - Sont assimilés aux services effectifs pour le calcul de la durée de qui
 - dans les conditions prévues à l'article 13 bis du présent décret, les périodes de versement de l'indemnité de soins aux tuberculeux mentionnées à l'article L. 161-21 du code de la sécurité sociale.
 
 L'application des dispositions du présent article ne saurait conduire à la prise en compte de plus de douze mois par an.
+
+IV. Les artistes du ballet peuvent être mis à la retraite à l'initiative du théâtre à quarante-deux ans d'âge. La mise à la retraite peut, par décision du théâtre et avec accord de l'intéressé, être retardée jusqu'au 31 juillet suivant sa date anniversaire.
+
+V. A titre transitoire et par dérogation au IV :
+
+- les artistes masculins du ballet âgés de plus de trente-six ans et de moins de trente neuf ans à la date de publication du décret n° 2002-347 du 12 mars 2002 disposent à partir de cette date d'un délai de six ans avant de pouvoir être mis à la retraite ;
+
+- l'âge auquel peuvent être mis à la retraite les artistes masculins du ballet âgés de trente-neuf ans et plus à la même date* est fixé à quarante-cinq ans.
+
+La mise à la retraite décidée en application de l'un des deux alinéas précédents peut, par décision du théâtre et avec accord de l'intéressé, être retardée jusqu'au 31 juillet suivant sa date anniversaire.
