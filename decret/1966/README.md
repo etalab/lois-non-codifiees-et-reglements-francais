@@ -37,7 +37,6 @@
 - [Décret n°66-624 du 19 août 1966](decret-n66-624-du-19-aout-1966)
 - [Décret n°66-626 du 19 août 1966](decret-n66-626-du-19-aout-1966)
 - [Décret n°66-450 du 20 juin 1966](decret-n66-450-du-20-juin-1966)
-- [Décret n°66-166 du 21 mars 1966](decret-n66-166-du-21-mars-1966)
 - [Décret n°66-270 du 22 avril 1966](decret-n66-270-du-22-avril-1966)
 - [Décret n°66-447 du 22 juin 1966](decret-n66-447-du-22-juin-1966)
 - [Décret n°66-957 du 22 décembre 1966](decret-n66-957-du-22-decembre-1966)
