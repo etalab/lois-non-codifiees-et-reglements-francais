@@ -1,0 +1,5 @@
+# Article 5
+
+Le Gouvernement déposera tous les deux ans [*périodicité*] sur le bureau du Parlement un rapport, établi après avis du conseil supérieur de la fonction publique, de la commission nationale paritaire du personnel communal et des organismes paritaires des personnels des collectivités locales, dressant le bilan des mesures prises pour garantir, à tous les niveaux de la hiérarchie, le respect du principe d'égalité des sexes dans la fonction publique. Le Gouvernement révisera, au vu des conclusions de ce rapport, les dispositions dérogatoires évoquées dans l'article 18 bis de l'ordonnance du 4 février 1959 précitée.
+
+Ce rapport comportera des indications sur l'application de ce principe aux emplois et aux personnels de l'Etat, des collectivités locales, des établissements publics et des entreprises publiques dont le personnel est soumis à un statut réglementaire. Le rapport mentionnera en outre l'état d'application des dispositions relatives au temps partiel dans les emplois publics.
