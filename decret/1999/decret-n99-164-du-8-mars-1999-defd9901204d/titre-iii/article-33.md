@@ -1,0 +1,3 @@
+# Article 33
+
+Le décret n° 78-175 du 16 février 1978 fixant les attributions de la direction des services financiers, le décret n° 80-317 du 30 avril 1980 fixant les attributions de la direction du service national, le décret n° 84-61 du 25 janvier 1984 fixant les attributions de l'inspecteur du personnel civil du ministère de la défense, le décret n° 86-757 du 3 juin 1986 modifié fixant les attributions de la direction de la fonction militaire et du personnel civil, le décret n° 89-254 du 19 avril 1989 fixant les attributions du secrétaire général pour l'administration du ministère de la défense et le décret n° 91-1004 du 30 septembre 1991 fixant les attributions de la direction de l'administration générale sont abrogés.
