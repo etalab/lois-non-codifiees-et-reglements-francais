@@ -1,6 +1,6 @@
 # Article 6
 
-Le conseil comprend cinquante-sept membres titulaires et un nombre égal de suppléants. Les membres suppléants n'assistent qu'aux séances où ils remplacent les membres titulaires.
+Le conseil comprend cinquante-huit membres titulaires et un nombre égal de suppléants. Les membres suppléants n'assistent qu'aux séances où ils remplacent les membres titulaires.
 
 Ces membres sont répartis comme suit :
 
@@ -10,7 +10,7 @@ I. - Secteur I (huîtres plates et creuses) :
 
 a) Représentants des sections régionales définies à l'article 17 du présent décret :
 
-Normandie-mer du Nord 2, Bretagne Nord 2, Bretagne Sud 2, Ré-Centre-Ouest 2, Marennes-Oléron 4, Arcachon-Aquitaine 3, Méditerranée 1.
+Normandie-mer du Nord 2, Bretagne Nord 2, Bretagne Sud 2, Pays de la Loire 2, Poitou-Charentes 4, Arcachon-Aquitaine 3, Méditerranée 1.
 
 b) Représentant des ouvriers conchylicoles 1.
 
@@ -24,7 +24,19 @@ Représentants des sections régionales définies à l'article 17 du présent d�
 
 a) 1. Tous coquillages (sauf vénériculture) :
 
-Normandie-mer du Nord 2, Bretagne-Nord 2, Bretagne-Sud 1, Ré-Centre-Ouest 2, Marennes-Oléron 1, Arcachon-Aquitaine, Méditerranée 2.
+Normandie-mer du Nord 2 ;
+
+Bretagne-Nord 2 ;
+
+Bretagne-Sud 1 ;
+
+Pays de la Loire 1 ;
+
+Poitou-Charentes 2 ;
+
+Arcachon-Aquitaine ;
+
+Méditerranée 2.
 
 a) 2. Vénériculture (toutes régions) 1.
 
@@ -34,9 +46,9 @@ Normandie-mer du Nord : 1 ;
 
 Bretagne-Nord et Bretagne-Sud : 1 ;
 
-Ré-Centre-Ouest : 1 ;
+Pays de la Loire : 1 ;
 
-Marennes-Oléron : 1 ;
+Poitou-Charentes : 1 ;
 
 Arcachon-Aquitaine : 1 ;
 
@@ -59,3 +71,5 @@ Zone VI : régions Alsace, Bourgogne, Lorraine, Champagne-Ardenne et Franche-Com
 b) Représentant de l'industrie 1.
 
 c) Representant des épurateurs 1.
+
+d) Représentant des écaillers 1.
