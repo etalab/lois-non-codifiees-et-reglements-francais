@@ -1,5 +1,5 @@
 # Article 6
 
-Le financement des dépenses effectuées au titre de l'action sociale publique est assuré par une participation de l'Etat et par des contributions facultatives des communes de Saint-Pierre-et-Miquelon.
+Le financement des dépenses d'action sociale publique est assuré par la caisse de prévoyance sociale, un arrêté de l'autorité administrative supérieure définissant la fraction prélevée sur le produit des cotisations perçues par la caisse de prévoyance sociale à cet effet.
 
-Les recettes et les dépenses afférentes à cette action sociale font l'objet d'une comptabilité distincte.
+Ce financement est complété par une contribution de l'Etat et, éventuellement par des contributions facultatives des communes de Saint-Pierre-et-Miquelon.
