@@ -17,6 +17,8 @@
 - [Décret n°77-245 du 4 mars 1977](decret-n77-245-du-4-mars-1977)
 - [Décret n°77-892 du 4 août 1977](decret-n77-892-du-4-aout-1977)
 - [Décret n°77-930 du 4 août 1977](decret-n77-930-du-4-aout-1977)
+- [Décret n°78-832 du 4 août 1978](decret-n78-832-du-4-aout-1978)
+- [Décret n°78-834 du 4 août 1978](decret-n78-834-du-4-aout-1978)
 - [Décret n°77-1352 du 5 décembre 1977](decret-n77-1352-du-5-decembre-1977)
 - [Décret n°77-1364 du 5 décembre 1977](decret-n77-1364-du-5-decembre-1977)
 - [Décret n°77-713 du 5 juillet 1977](decret-n77-713-du-5-juillet-1977)
