@@ -1,5 +1,0 @@
-# Article 7
-
-Si le concédant (commune ou syndicat de communes) n'a pas, dans le délai de deux mois à partir de la date du présent arrêté ou de celle d'un nouvel acte de concession, ou de celle du refus ou du retrait de l'agrément, soumis à l'approbation du préfet les dispositions prises par lui pour assurer le contrôle visé à l'article ci-dessus, le préfet, sur le rapport de l'ingénieur en chef des mines, le met en demeure d'assurer ce service dans un nouveau délai de deux mois.
-
-Faute par la commune, ou le syndicat de communes, d'obtempérer à cette injonction, le préfet, sur le rapport de l'ingénieur en chef des mines, arrête les conditions dans lesquelles le contrôle sera exercé soit par des fonctionnaires du service des mines, soit par toute autre personne ou organisme qualifié proposé par l'ingénieur en chef des mines. Le contrôle ainsi institué peut être commun à plusieurs concessions ou régies de distribution de gaz. Le préfet détermine les conditions dans lesquelles les frais en seront supportés tant par le ou les concessionnaires que par le ou les concédants.
