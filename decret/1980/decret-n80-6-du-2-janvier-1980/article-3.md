@@ -1,63 +1,7 @@
 # Article 3
 
-Pour les cotisations acquittées au profit des institutions relevant de la convention collective nationale de retraite et de prévoyance des cadres du 14 mars 1947, l'Etat supporte les charges incombant à l'employeur dans la limite des taux énoncés au tableau ci-dessous. Les cotisations correspondantes incombant aux maîtres ne peuvent être inférieures aux taux fixés, pour ce qui les concerne, dans le même tableau :
+Pour les cotisations acquittées au profit des institutions relevant de la convention nationale de retraite et de prévoyance des cadres du 14 mars 1947 et à compter du 15 septembre 2002, l'Etat supporte les charges incombant à l'employeur dans la limite d'un taux de 10 %. Les cotisations correspondantes incombant aux maîtres et documentalistes ne peuvent être inférieures au taux de 6 %.
 
-ÉCHELLE DE RÉMUNÉRATION
+A ces taux contractuels doit s'ajouter la majoration résultant de l'application des décisions prises par l'Association générale des institutions de retraite des cadres (AGIRC) au titre de la fixation du taux d'appel des cotisations. Cette majoration est répartie entre l'Etat et les maîtres et documentalistes proportionnellement aux taux visés à l'alinéa précédent.
 
-des maîtres et documentalistes exerçant dans les classes sous contrat PART supportée par l'Etat (en %)
-
-PART MINIMALE incombant aux maîtres (en %)
-
-I. - Professeur de chaires supérieures
-
-10       6
-
-Professeur agrégé.
-
-Professeur certifié et professeur certifié bi-admissible à l'agrégation.
-
-Professeur d'éducation physique et sportive.
-
-Professeur de lycée professionnel du 2e grade.
-
-Professeur des écoles.
-
-II. - Professeur de lycée professionnel du 1er grade.
-
-9         5
-
-Chargé d'enseignement d'éducation physique et sportive.
-
-Professeur d'enseignement général de collège.
-
-Adjoint d'enseignement.
-
-Chargé d'enseignement.
-
-Professeur de collège d'enseignement général (ancien régime).
-
-III. - Maîtres auxiliaires
-
-A compter du 1er janvier 1994
-
-7
-
-3
-
-A compter du 1er janvier 1995
-
-8
-
-4
-
-A compter du 1er janvier 1996
-
-8,5
-
-4,5
-
-A compter du 1er janvier 1997
-
-9
-
-5
+S'y ajoute également, à compter du 15 septembre 2002, la contribution exceptionnelle et temporaire (CET) résultant de l'application des décisions prises par l'Association générale des institutions de retraite des cadres (AGIRC), et assise sur la totalité des rémunérations perçues par les salariés relevant du régime des cadres. Cette contribution incombe à l'Etat dans la limite de 0,22 % et aux maîtres et documentalistes dans la limite de 0,13 %.
