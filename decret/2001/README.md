@@ -12,6 +12,7 @@
 - [Décret n°91-484 du 14 mai 1991 (AGRG9002125D)](decret-n91-484-du-14-mai-1991-agrg9002125d)
 - [Décret n°97-41 du 20 janvier 1997 (JUSB9610414D)](decret-n97-41-du-20-janvier-1997-jusb9610414d)
 - [Décret n°98-844 du 22 septembre 1998 (INTM9800014D)](decret-n98-844-du-22-septembre-1998-intm9800014d)
+- [Décret n°71-708 du 25 août 1971](decret-n71-708-du-25-aout-1971)
 - [Décret n°91-247 du 25 février 1991 (DOMX9100024D)](decret-n91-247-du-25-fevrier-1991-domx9100024d)
 - [Décret n°96-1027 du 26 novembre 1996 (DOMP9600026D)](decret-n96-1027-du-26-novembre-1996-domp9600026d)
 - [Décret n°96-1028 du 27 novembre 1996 (DOMX9600104D)](decret-n96-1028-du-27-novembre-1996-domx9600104d)
