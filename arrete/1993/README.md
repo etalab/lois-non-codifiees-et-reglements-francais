@@ -236,7 +236,6 @@
 - [Arrêté du 9 août 1993 (BUDR9305022A)](arrete-du-9-aout-1993-budr9305022a)
 - [Arrêté du 9 août 1993 (BUDR9305023A)](arrete-du-9-aout-1993-budr9305023a)
 - [Arrêté du 9 août 1993 (EQUI9301181A)](arrete-du-9-aout-1993-equi9301181a)
-- [Arrêté du 9 août 1993 (INDP9320400A)](arrete-du-9-aout-1993-indp9320400a)
 - [Arrêté du 9 août 1993 (SPSS9302590A)](arrete-du-9-aout-1993-spss9302590a)
 - [Arrêté du 9 avril 1993 (MAEA9320005A)](arrete-du-9-avril-1993-maea9320005a)
 - [Arrêté du 9 décembre 1993 (AGRG9302322A)](arrete-du-9-decembre-1993-agrg9302322a)
