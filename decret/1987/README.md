@@ -189,7 +189,6 @@
 - [Décret n°87-934 du 13 novembre 1987 (EQUU8700899D)](decret-n87-934-du-13-novembre-1987-equu8700899d)
 - [Décret n°87-326 du 13 mai 1987](decret-n87-326-du-13-mai-1987)
 - [Décret n°87-328 du 13 mai 1987 (ASEM8700689D)](decret-n87-328-du-13-mai-1987-asem8700689d)
-- [Décret n°86-595 du 14 mars 1986](decret-n86-595-du-14-mars-1986)
 - [Décret n°87-103 du 14 février 1987 (INTB8700044D)](decret-n87-103-du-14-fevrier-1987-intb8700044d)
 - [Décret n°87-16 du 14 janvier 1987](decret-n87-16-du-14-janvier-1987)
 - [Décret n°87-267 du 14 avril 1987](decret-n87-267-du-14-avril-1987)
