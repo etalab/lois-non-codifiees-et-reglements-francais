@@ -1,0 +1,3 @@
+# Article 7
+
+Sous réserve des dispositions des articles 11 à 14, ci-dessous, pour la répartition entre les communes de métropole de la deuxième part visée au 2° du II de l'article 1648 B du code général des impôts, il est calculé chaque année un taux de versement résultant du rapport entre le montant de cette deuxième part, diminué de la somme des attributions à verser en application du deuxième alinéa de l'article 8 ci-dessous, et le montant total des pertes de produits de taxe professionnelle enregistré par rapport à l'année précédente par l'ensemble des communes bénéficiaires. Ces pertes sont diminuées de l'abattement mentionné à l'article 8 ci-dessous et calculées dans les conditions de l'article 10.

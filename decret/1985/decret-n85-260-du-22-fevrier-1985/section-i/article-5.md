@@ -1,0 +1,5 @@
+# Article 5
+
+Pour l'application du 1° du II de l'article 1648 B du code général    1° Le potentiel fiscal d'une commune est calculé dans les conditions prévues à l'article L. 234-6 du code des communes ;    2° L'effort fiscal d'une commune est calculé dans les conditions prévues à l'article L. 234-5 du code des communes ;    3° Les groupes démographiques de communes sont ceux qui sont définis à l'article L. 234-2 du code des communes ;    4° Le chiffre de la population de chaque commune est celui qui est mentionné à l'article L. 234-19-3 du code des communes ;    5° L'insuffisance relative de potentiel fiscal par habitant d'une commune est égale au rapport entre, d'une part, la différence entre le potentiel fiscal moyen par habitant de l'ensemble des communes appartenant au même groupe démographique et le potentiel fiscal par habitant de la commune et, d'autre part, le potentiel fiscal moyen par habitant de l'ensemble des communes appartenant au même groupe démographique.
+
+La date à prendre en compte pour le calcul des éléments définis aux 1° à 4° ci-dessus est chaque année celle qui a été retenue pour la répartition de la dotation globale de fonctionnement.
