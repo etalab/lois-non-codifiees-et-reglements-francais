@@ -1,0 +1,3 @@
+# Article 16
+
+Peuvent être admis au choix, sur leur demande, avec leur grade et leur ancienneté de grade, dans le corps des officiers des armes de l'armée de terre, sur proposition de la commission prévue à l'article 15, les officiers de réserve des grades de capitaine ou de commandant servant en situation d'activité qui comptent au moins dix ans de services militaires. Les intéressés doivent être âgés de moins de quarante ans et titulaires de l'un des diplômes de l'enseignement militaire supérieur prévus par le décret du 14 avril 1970 susvisé. Ils restent affectés à leur arme et ils prennent rang dans l'ordre de leur ancienneté ; à égalité d'ancienneté, il est tenu compte de leur ancienneté dans les grades précédents et, s'il y a lieu, de l'ordre décroissant des âges.

@@ -90,6 +90,7 @@
 - [Décret n°85-339 du 15 mars 1985](decret-n85-339-du-15-mars-1985)
 - [Décret n°85-342 du 15 mars 1981](decret-n85-342-du-15-mars-1981)
 - [Décret n°85-48 du 15 janvier 1985](decret-n85-48-du-15-janvier-1985)
+- [Décret n°85-520 du 15 mai 1985](decret-n85-520-du-15-mai-1985)
 - [Décret n°85-51 du 16 janvier 1985](decret-n85-51-du-16-janvier-1985)
 - [Décret n°84-644 du 17 juillet 1984](decret-n84-644-du-17-juillet-1984)
 - [Décret n°85-64 du 17 janvier 1985](decret-n85-64-du-17-janvier-1985)
