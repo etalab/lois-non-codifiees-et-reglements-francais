@@ -632,6 +632,7 @@
 - [Arrêté du 27 août 2004 (ECOP0400510A)](arrete-du-27-aout-2004-ecop0400510a)
 - [Arrêté du 27 août 2004 (ECOP0400511A)](arrete-du-27-aout-2004-ecop0400511a)
 - [Arrêté du 27 août 2004 (ECOP0400512A)](arrete-du-27-aout-2004-ecop0400512a)
+- [Arrêté du 27 août 2004 (SOCO0411510A)](arrete-du-27-aout-2004-soco0411510a)
 - [Arrêté du 27 avril 2004 (DEFK0400475A)](arrete-du-27-avril-2004-defk0400475a)
 - [Arrêté du 27 avril 2004 (ECOL0400058A)](arrete-du-27-avril-2004-ecol0400058a)
 - [Arrêté du 27 avril 2004 (EQUP0400474A)](arrete-du-27-avril-2004-equp0400474a)
