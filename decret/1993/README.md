@@ -147,7 +147,6 @@
 - [Décret n°93-848 du 9 juin 1993 (MCCB9300035D)](decret-n93-848-du-9-juin-1993-mccb9300035d)
 - [Décret n°93-849 du 9 juin 1993 (DEFP9301494D)](decret-n93-849-du-9-juin-1993-defp9301494d)
 - [Décret n°93-891 du 9 juillet 1993 (AGRP9301132D)](decret-n93-891-du-9-juillet-1993-agrp9301132d)
-- [Décret n°89-168 du 10 mars 1989 (RESY8900047D)](decret-n89-168-du-10-mars-1989-resy8900047d)
 - [Décret n°93-190 du 10 février 1993 (BUDD9250027D)](decret-n93-190-du-10-fevrier-1993-budd9250027d)
 - [Décret n°93-194 du 10 février 1993 (INTA9220329D)](decret-n93-194-du-10-fevrier-1993-inta9220329d)
 - [Décret n°93-195 du 10 février 1993 (INTA9220330D)](decret-n93-195-du-10-fevrier-1993-inta9220330d)
