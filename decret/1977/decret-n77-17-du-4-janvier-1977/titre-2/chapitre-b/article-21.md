@@ -1,3 +1,3 @@
 # Article 21
 
-La formation et le perfectionnement des moniteurs sont assurés soit par les centres interdépartementaux d'études de la protection civile et les écoles interdépartementales de sapeurs-pompiers avec le concours de médecins spécialisés, notamment de médecins anesthésistes-réanimateurs et de conseillers pédagogiques, soit par les associations agréées, soit par les centres relevant des centres hospitaliers régionaux et universitaires, soit par les centres d'instruction et les écoles du service de santé des armées.
+La formation et le perfectionnement des moniteurs sont assurés par les organismes publics habilités et les associations agréées dans les conditions prévues à l'article 1er du décret n° 91-834 du 30 août 1991 relatif à la formation aux premiers secours.
