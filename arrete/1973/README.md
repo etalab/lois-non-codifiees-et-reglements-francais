@@ -5,6 +5,7 @@
 - [Arrêté du 3 juillet 1973](arrete-du-3-juillet-1973)
 - [Arrêté du 4 mai 1973](arrete-du-4-mai-1973)
 - [Arrêté du 5 février 1973](arrete-du-5-fevrier-1973)
+- [Arrêté du 5 juillet 1973](arrete-du-5-juillet-1973)
 - [Arrêté du 6 février 1973](arrete-du-6-fevrier-1973)
 - [Arrêté du 6 mars 1973](arrete-du-6-mars-1973)
 - [Arrêté du 7 décembre 1972](arrete-du-7-decembre-1972)

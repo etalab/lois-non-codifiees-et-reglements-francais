@@ -1,0 +1,3 @@
+# Article 25
+
+Peuvent prétendre au bénéfice de l'allocation prévue au présent chapitre en qualité de femmes divorcées, séparées ou abandonnées, les femmes dont le conjoint, à la date du divorce, du jugement de séparation de corps ou de la séparation de fait, exerçait depuis trois mois au moins [*durée*] une activité non-salariée dans les conditions prévues à l'alinéa a de l'article 24 ci-dessus ou avait eu pour dernière activité professionnelle une activité non-salariée dans les conditions prévues à l'alinéa b de cet article ou bénéficiait de l'un des avantages de vieillesse visés à l'alinéa c dudit article.

@@ -1,0 +1,5 @@
+# Article 4
+
+Pour la période postérieure au 31 décembre 1972, ne peuvent être prises en considération que les périodes d'activité non-salariée ayant fait l'objet du versement de la cotisation d'assurance vieillesse mentionnée à l'article L. 663-9 du Code de la sécurité sociale et ayant procuré un revenu professionnel annuel au moins égal au montant du salaire minimum de croissance en vigueur au 1er janvier de l'année considérée, calculé sur la base de 800 heures. En ce qui concerne les assurés ayant, au cours de tout ou partie d'une année déterminée, exercé leur activité dans l'un des départements de la Guadeloupe, de la Martinique, de la Guyane française et de la Réunion, le montant du salaire minimum de croissance à retenir est celui qui est en vigueur dans ledit département au 1er janvier de l'année considérée.
+
+Sont également prises en considération les périodes assimilées à des périodes d'assurance pour l'ouverture du droit aux prestations d'assurance vieillesse en application de l'article L. 663-1 du Code de la sécurité sociale.
