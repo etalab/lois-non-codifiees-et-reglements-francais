@@ -1,3 +1,3 @@
 # Article 2
 
-Le conseil général [*organisme compétent*] fixe, dans cette limite, le taux applicable au département.
+La deuxième phrase du deuxième alinéa et le troisième alinéa de l'article 6 du décret du 15 novembre 1954 sont abrogés.
