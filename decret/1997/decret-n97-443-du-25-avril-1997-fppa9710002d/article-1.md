@@ -4,4 +4,4 @@ L'autorité territoriale présente, avant le 30 juin de chaque année paire, à 
 
 Le rapport est arrêté au 31 décembre de l'année impaire précédant celle de sa présentation. Il porte sur la totalité de cette année impaire.
 
-La liste des informations devant y figurer est annexée au présent décret.
+La liste des informations devant y figurer fait l'objet de l'annexe I du présent décret.
