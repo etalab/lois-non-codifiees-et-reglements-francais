@@ -12,4 +12,4 @@ Le nombre des adjoints des cadres hospitaliers de classe exceptionnelle ne peut 
 
 II. - Peuvent être nommés au grade d'adjoint des cadres hospitaliers de classe supérieure, dans les conditions fixées au 1° de l'article 69 de la loi du 9 janvier 1986 susvisée, les adjoints des cadres hospitaliers de classe normale ayant atteint le 9e échelon de leur grade et comptant cinq années au moins de services dans un corps, emploi ou cadre d'emploi de la catégorie B.
 
-Le nombre des adjoints des cadres hospitaliers de classe supérieure ne peut être supérieur à 30 p. 100 de l'effectif des deux premiers grades du corps des adjoints des cadres hospitaliers dans l'établissement ou à un agent lorsque ce pourcentage n'est pas applicable.
+Le nombre des adjoints des cadres hospitaliers de classe supérieure ne peut être supérieur à 30 p. 100 de l'effectif des deux premiers grades du corps des adjoints des cadres hospitaliers dans l'établissement.
