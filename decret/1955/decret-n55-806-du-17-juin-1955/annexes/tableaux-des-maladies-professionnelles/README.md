@@ -3,6 +3,7 @@
 - [2° Ankylostomose professionnelle  Délai de responsabilité : trois mois.](2-ankylostomose-professionnelle-delai-de-responsabilite)
 - [1° Tétanos professionnel](1-tetanos-professionnel)
 - [30° Rage professionnelle](30-rage-professionnelle)
+- [39° Affections professionnelles péri-articulaires](39-affections-professionnelles-peri-articulaires)
 - [4° Charbon professionnel](4-charbon-professionnel)
 - [5° Leptospiroses professionnelles](5-leptospiroses-professionnelles)
 - [6° Brucelloses professionnelles](6-brucelloses-professionnelles)
