@@ -1,0 +1,3 @@
+# Article 29
+
+En cas de maladie imputable à l'exercice des fonctions hospitalières ou d'accident survenu dans l'exercice de ses fonctions ou à l'occasion de ses fonctions, l'intéressé continue à percevoir la totalité des émoluments qui lui sont accordés en application du 1° de l'article 19 ci-dessus, dans la limite de six mois, après avis du comité médical mentionné à l'article 27 ci-dessus, sous réserve que soit établie l'imputabilité de la maladie ou de l'accident à l'exercice des fonctions hospitalières. Ce congé peut être prolongé par périodes n'excédant pas six mois, dans les mêmes conditions de rémunération, après avis du comité médical, sans que la durée totale du congé accordé au titre du présent article puisse excéder deux ans.
