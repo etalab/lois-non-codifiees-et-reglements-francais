@@ -1028,7 +1028,6 @@
 - [Décret n°98-699 du 30 juillet 1998 (INTA9800221D)](decret-n98-699-du-30-juillet-1998-inta9800221d)
 - [Décret n°98-700 du 30 juillet 1998 (MAEF9810019D)](decret-n98-700-du-30-juillet-1998-maef9810019d)
 - [Décret n°98-965 du 30 octobre 1998 (JUSC9820703D)](decret-n98-965-du-30-octobre-1998-jusc9820703d)
-- [Décret n°98-966 du 30 octobre 1998 (JUSE9840072D)](decret-n98-966-du-30-octobre-1998-juse9840072d)
 - [Décret n°98-981 du 30 octobre 1998 (MCCB9800548D)](decret-n98-981-du-30-octobre-1998-mccb9800548d)
 - [Décret n°98-994 du 30 octobre 1998 (MESS9822987D)](decret-n98-994-du-30-octobre-1998-mess9822987d)
 - [Décret n°97-704 du 30 mai 1997 (TASP9721247D)](decret-n97-704-du-30-mai-1997-tasp9721247d)
