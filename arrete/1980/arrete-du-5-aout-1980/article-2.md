@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur de la protection de la nature est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'arrêté du 2 décembre 1965 portant exonération de la cotisation d'assurances sociales du régime des étudiants en faveur de certains étudiants étrangers boursiers du Gouvernement français est abrogé.
