@@ -1,20 +1,20 @@
 # Article 7
 
-Le conseil d'administration comprend :
+Le conseil d'administration comprend vingt membres désignés pour trois ans :
 
-1. Huit représentants de l'Etat ;
+1. Huit représentants de l'Etat nommés, ainsi que leurs suppléants, par arrêté du ministre chargé de l'équipement, sur proposition du ministre chargé du budget pour deux d'entre eux, et pour quatre autres, sur propositions respectives des ministres chargés de l'agriculture, de la défense, de l'environnement et de la recherche ;
 
-2. Le directeur général du Centre national d'études spatiales ;
+2. Le directeur général du Centre national d'études spatiales, ou le représentant qu'il désigne ;
 
-3. Trois personnalités choisies en raison de leur compétence, dont un membre du Conseil d'Etat en activité ou honoraire ou un conseiller ou un ancien conseiller d'Etat en service extraordinaire ;
+3. Le président du Conseil national de l'information géographique, ou le représentant qu'il désigne ;
 
-4. Six représentants élus du personnel de l'établissement.
+4. Deux personnalités nommées par arrêté du ministre chargé de l'équipement en raison de leur compétence, dont un membre du Conseil d'Etat en activité ou honoraire ou un conseiller d'Etat ou un ancien conseiller d'Etat en service extraordinaire ;
 
-Les représentants de l'Etat et leurs suppléants sont nommés pour trois ans par le ministre chargé de l'urbanisme et du logement. A l'exception d'un titulaire et d'un suppléant, qui sont désignés par ce ministre, ils sont nommés sur proposition, respectivement, du ministre chargé du Plan, du ministre chargé du budget pour deux d'entre eux, du ministre chargé des relations extérieures, du ministre chargé de la défense, du ministre chargé de l'agriculture et du ministre chargé de la recherche et de la technologie.
+5. Un conseiller général désigné en même temps qu'un suppléant ayant la même qualité, par l'Association des départements de France ;
 
-Les personnalités mentionnées au 3 ci-dessus sont nommées pour la même durée par le ministre chargé de l'urbanisme et du logement.
+6. Un maire désigné en même temps qu'un suppléant ayant la même qualité, par l'Association des maires de France ;
 
-Les représentants du personnel et leurs suppléants sont élus pour trois ans dans les conditions ci-après :
+7. Six représentants du personnel de l'établissement élus, ainsi que leurs suppléants, dans les conditions ci-après :.
 
 a) Trois titulaires et trois suppléants sont élus par un collège composé des personnels relevant du statut général de la fonction publique ;
 
@@ -26,4 +26,6 @@ Le mandat des membres du conseil d'administration est renouvelable. En cas de va
 
 Le directeur général ou son représentant, le contrôleur financier et l'agent comptable assistent aux séances avec voix consultative.
 
-Assistent également aux séances avec voix consultative les personnes dont l'audition est demandée par le conseil d'administration.
+Assistent également aux séances avec voix consultative les personnes dont l'audition est demandée par le président du conseil d'administration ou par le directeur général.
+
+Les fonctions de membres du conseil d'administration sont gratuites. Toutefois, les frais de déplacement et de séjour supportés à l'occasion des réunions peuvent être remboursés dans les conditions prévues par la réglementation applicable aux fonctionnaires de l'Etat.

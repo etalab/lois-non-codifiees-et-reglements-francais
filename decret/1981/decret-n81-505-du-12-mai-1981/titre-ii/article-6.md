@@ -1,6 +1,6 @@
 # Article 6
 
-Le directeur général est nommé par décret en conseil des ministres, sur le rapport du ministre de l'environnement et du cadre de vie.
+Le directeur général est nommé par décret en conseil des ministres, sur le rapport du ministre chargé de l'équipement.
 
 Il assure le fonctionnement de l'établissement en se conformant aux dispositions des décrets susvisés du 10 décembre 1953 et du 29 décembre 1962 et aux délibérations du conseil d'administration.
 
