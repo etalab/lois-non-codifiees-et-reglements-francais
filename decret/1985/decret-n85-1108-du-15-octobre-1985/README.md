@@ -2,7 +2,6 @@
 
 - [TITRE 1er : Dispositions générales](titre-1er)
 - [TITRE II : Dispositions applicables aux ouvrages soumis à autorisation ministérielle.](titre-ii)
-- [TITRE III : Régime de l'autorisation.](titre-iii)
 - [TITRE IV : Dispositions applicables aux ouvrages soumis à la procédure simplifiée d'autorisation préfectorale.](titre-iv)
 - [TITRE V : Etablissement, aménagement et exploitation des ouvrages.](titre-v)
 - [TITRE VII : Dispositions diverses.](titre-vii)
