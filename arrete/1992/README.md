@@ -1230,7 +1230,6 @@
 - [Arrêté du 31 août 1992 (EQUT9201212A)](arrete-du-31-aout-1992-equt9201212a)
 - [Arrêté du 31 août 1992 (EQUT9201213A)](arrete-du-31-aout-1992-equt9201213a)
 - [Arrêté du 31 août 1992 (EQUU9201466A)](arrete-du-31-aout-1992-equu9201466a)
-- [Arrêté du 31 août 1992 (RESZ9200389A)](arrete-du-31-aout-1992-resz9200389a)
 - [Arrêté du 31 décembre 1991 (AGRG9102409A)](arrete-du-31-decembre-1991-agrg9102409a)
 - [Arrêté du 31 décembre 1991 (BUDD9170008A)](arrete-du-31-decembre-1991-budd9170008a)
 - [Arrêté du 31 décembre 1991 (DOMP9200001A)](arrete-du-31-decembre-1991-domp9200001a)
