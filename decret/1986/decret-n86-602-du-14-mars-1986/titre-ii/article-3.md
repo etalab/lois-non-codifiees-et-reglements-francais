@@ -1,0 +1,3 @@
+# Article 3
+
+Outre les avis qu'il est appelé à donner selon les dispositions de l'article L. 326 du code de la santé publique et de l'article 2 du présent décret, le conseil départemental de santé mentale [*attribution*]  peut être également consulté sur l'ensemble des problèmes relatifs à l'organisation et au fonctionnement des équipements et services de lutte contre les maladies mentales, ainsi que sur les projets de création d'établissements sociaux et médico-sociaux visés à l'article 3 de la loi du 30 juin 1975 susvisée, lorsque ces établissements accueillent des malades ou handicapés mentaux.

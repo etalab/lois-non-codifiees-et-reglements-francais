@@ -1,31 +1,27 @@
 # Article 11
 
-Les exploitants de salles de salles de spectacles cinématographiques sont tenus d'établir à la fin de chaque semaine cinématographique un bordereau d'un modèle unique agréé par le Centre national de la cinématographie [*formalité obligatoire*].
+Les exploitants de salles de salles de spectacles cinématographiques sont tenus d'établir à la fin de chaque semaine cinématographique un bordereau d'un modèle agréé par le Centre national de la cinématographie [*formalité obligatoire*] sur lequel figurent [*mentions obligatoires*] :
 
-Sur ce bordereau doivent être portés :
+- le produit de la vente des billets d'entrée (pour chaque journée et pour l'ensemble du programme) sans tenir compte de la taxe spéciale incluse dans le prix de ces billets ;
 
-L'indication du produit de la vente des billets d'entrée (pour chaque séance et pour l'ensemble du programme) sans tenir compte de la taxe spéciale additionnelle et du droit de timbre éventuellement exigibles ;
+- le nombre de séances par journée et pour l'ensemble du programme ;
 
-Le nombre de séances par journée et pour l'ensemble du programme ;
+- le nombre de spectateurs pour chaque journée et pour l'ensemble du programme ;
 
-Le nombre de spectateurs pour chaque séance et pour l'ensemble du programme ;
+- le titre et le numéro d'immatriculation au registre public de la cinématographie des oeuvres cinématographiques composant le programme, y compris ceux du ou des compléments ;
 
-L'indication du titre et du numéro d'immatriculation au registre public de la cinématrographie des films composant le programme y compris celui du ou des compléments ;
+- la dénomination sociale des distributeurs cinématographiques ;
 
-Le nom des distributeurs des films et du journal d'actualités filmées ;
+- les pourcentages prévus dans les contrats de location ;
 
-Les pourcentages prévus dans les contrats de location ;
+- la part revenant aux distributeurs cinématographiques ;
 
-La part revenant aux distributeurs des films et du journal d'acutalités filmées ;
+- les numéros de départ des billets utilisés dans chaque catégorie ;
 
-La redevance due à la société des auteurs, compositeurs et éditeurs de musique au titre de la représentation publique des films composant le programme ;
+- à la fin de chaque programme (ou de chaque semaine), les numéros de départ des billets à utiliser au cours de la journée suivante dans chaque catégorie ;
 
-Les numéros de départ des billets utilisés dans chaque catégorie ;
+- les prix des places par catégorie ;
 
-A la fin de chaque programme (ou de chaque semaine), les numéros de départ des billets à utiliser au cours de la journée suivante dans chaque catégorie ;
-
-Le prix des places par catégorie ;
-
-Les sommes perçues au titre de la taxe spéciale additionnelle avec leur détail et du droit de timbre, éventuellement exigibles.
+- les sommes perçues au titre de la taxe spéciale avec leur  détail.
 
 Les feuillets du bordereau de recettes doivent être adressés dans les cinq jours suivant la fin de chaque semaine cinématographique [*délai*], l'un au Centre national de la cinématographie, les autres aux distributeurs intéressés et à la société des auteurs, compositeurs et éditeurs de musique.

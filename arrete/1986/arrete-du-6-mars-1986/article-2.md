@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur général de la santé est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Compte tenu des acomptes versés en application de l'article D. 134-44 du code de la sécurité sociale, la Caisse nationale de l'assurance maladie des travailleurs salariés doit verser à la caisse centrale de secours mutuels agricoles une somme de 19.811.784 F.

@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé auprès de l'Agence nationale pour la récupération et l'élimination des déchets un comité de gestion du produit de la taxe instituée par le décret n° 86-549 du 14 mars 1986.
+L'admission aux séances de spectacles cinématographiques doit donner lieu, sous peine des sanctions prévues à l'article 18 du code de l'industrie cinématographique, à la délivrance aux spectateurs, avant leur entrée dans le lieu de projection, de billets dans les conditions prévues par le présent arrêté.

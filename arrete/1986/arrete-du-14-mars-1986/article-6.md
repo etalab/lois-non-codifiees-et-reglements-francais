@@ -1,3 +1,3 @@
 # Article 6
 
-Le contrôleur d'Etat près l'Agence nationale pour la récupération et l'élimination des déchets assiste aux réunions sans voix délibérative. Il est destinataire des convocations, ordres du jour, procès-verbaux et tous autres documents adressés aux membres du comité.
+Le directeur général du Centre national de la cinématographie est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

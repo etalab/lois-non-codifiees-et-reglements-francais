@@ -1,5 +1,5 @@
 # Article 8
 
-Le comité de gestion adresse annuellement aux ministres concernés un rapport rendant compte de l'affectation des fonds.
+Les décisions du comité de gestion sont exécutées par l'Agence de l'environnement et de la maitrise de l'énergie.
 
-Au vu de ces résultats, le comité de gestion peut proposer aux ministres concernés une révision du taux de la taxe.
+L'Agence de l'environnement et de la maitrise de l'énergie tient une comptabilité séparée de toutes les opérations de recettes et de dépenses se rapportant à la taxe. Le membre du corps du contrôle général économique et financier peut, à tout moment, se faire présenter ladite comptabilité et demander toute pièce justificative de l'emploi des fonds.

@@ -1,0 +1,3 @@
+# Article 6
+
+Le ministre de l'économie, des finances et du budget, le garde des sceaux, ministre de la justice, le ministre de la défense, le ministre de l'intérieur et de la décentralisation, le ministre de l'agriculture, le ministre des affaires sociales et de la solidarité nationale, porte-parole du Gouvernement, le ministre de l'urbanisme, du logement et des transports, le ministre du commerce, de l'artisanat et du tourisme et le ministre du travail, de l'emploi et de la formation professionnelle sont chargés de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

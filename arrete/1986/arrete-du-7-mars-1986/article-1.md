@@ -1,7 +1,3 @@
 # Article 1
 
-La commission prévue à l'article 2 du décret n° 85-327 du 15 mai 1985 susvisé comprend :
-
--quatre membres titulaires et quatre membres suppléants représentant la direction de l'établissement ;
-
--quatre membres titulaires et quatre membres suppléants représentant le personnel.
+Peuvent entreprendre les études préparatoires au diplôme d'Etat d'assistant de service social prévu à l'article 218 du code de la famille et de l'aide sociale les candidats remplissant les conditions fixées par le présent arrêté et ayant réussi les épreuves d'admission prévues à l'article 7 ci-dessous.

@@ -1,0 +1,7 @@
+# Article 11
+
+Dans chaque région pénitentiaire sont créés un ou plusieurs secteurs de psychiatrie en milieu pénitentiaire, rattachés pour chacun à un établissement hospitalier public désigné par arrêté du ministre chargé de la santé, après consultation du garde des sceaux, ministre de la justice. Chacun de ces secteurs comporte notamment un service médico-psychologique régional aménagé dans un établissement pénitentiaire et qui peut assurer en outre, par convention avec le représentant de l'Etat, une mission de lutte contre l'alcoolisme et les toxicomanies mentionnée aux articles L. 355-1 et L. 355-14 du code de la santé publique. La convention fixe notamment les modalités de prise en charge par l'Etat des frais correspondants.
+
+Le secteur est placé sous l'autorité d'un psychiatre hospitalier désigné selon les modalités prévues à l'article 10 ci-dessus et assisté d'une équipe pluridisciplinaire relevant du centre hospitalier de rattachement.
+
+Un règlement intérieur type, arrêté par le garde des sceaux, ministre de la justice, et par les ministres chargés de la santé et de la sécurité sociale, précise les missions des services médico-psychologiques régionaux et fixe leur organisation et leurs modalités de fonctionnement et de coordination avec les responsables des secteurs de psychiatrie générale et de psychiatrie infanto-juvénile ainsi qu'avec les intervenants et organismes sanitaires et sociaux travaillant en milieu carcéral.

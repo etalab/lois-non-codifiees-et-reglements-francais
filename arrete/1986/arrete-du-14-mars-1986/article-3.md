@@ -1,31 +1,7 @@
 # Article 3
 
-Le comité de gestion est composé [*composition*] de treize membres :
+L'article 4 de l'arrêté du 14 avril 1972 est remplacé par les dispositions suivantes :
 
-a) Six membres représentant l'Etat :
+"Les billets doivent être détachés ou édités au moment de leur remise aux spectateurs et délivrés dans l'ordre des numéros. Leur utilisation est limitée à la catégorie de places à laquelle ils correspondent. Toutefois le changement de catégorie de place doit être constaté soit par la délivrance de billets de supplément, soit par l'annulation et la délivrance d'un nouveau billet lorsque l'exploitant utilise une caisse automatisée.
 
-- le directeur de la prévention des pollutions ou son représentant ;
-
-- le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant ;
-
-- le directeur du budget ou son représentant ;
-
-- le directeur général des douanes et droits indirects ou son représentant ;
-
-- le directeur des hydrocarbures ou son représentant ;
-
-- le directeur de la santé ou son représentant.
-
-b) Le président de l'Agence nationale pour la récupération et l'élimination des déchets, président du comité de gestion ;
-
-c) Deux membres représentant les entreprises de collecte et de traitement des huiles usagées ;
-
-d) Un membre représentant les utilisateurs d'huiles régénérées ;
-
-e) Un membre représentant les entreprises de raffinage produisant les huiles de base soumises à la taxe parafiscale ;
-
-f) Un membre représentant les déteneurs d'huiles usagées ;
-
-g) Un membre représentant les consommateurs ;
-
-Les membres du comité sont nommés par arrêté conjoint des ministres chargés de l'industrie et de l'environnement.
+"Chaque billet ne procure de droit d'entrée que pour une seule personne".

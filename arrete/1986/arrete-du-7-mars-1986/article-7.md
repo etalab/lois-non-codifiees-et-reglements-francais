@@ -1,5 +1,11 @@
 # Article 7
 
-Les convocations aux réunions de la commission sont envoyées aux membres quinze jours au moins avant la date prévue.
+Les établissements de formation organisent avant la rentrée scolaire des épreuves d'admission réservées aux candidats satisfaisant aux conditions posées par l'article 2 ci-dessus.
 
-L'ordre du jour est établi conjointement par le président et le secrétaire de la commission. L'ordre du jour et les documents nécessaires aux travaux de la commission sont joints à la convocation par le président.
+Ces épreuves, organisées à l'initiative du ou des centres de formation, ont pour but d'apprécier leur aptitude à suivre la formation d'assistant de service social et à bénéficier du projet pédagogique de l'école.
+
+Les épreuves d'admission comprennent :
+
+- une ou plusieurs épreuves écrites destinées à vérifier les capacités de synthèse et d'expression écrite des candidats ;
+
+- une ou plusieurs épreuves orales destinées à apprécier les qualités d'écoute, d'observation, de relation ainsi que la capacité d'adaptation des candidats et leur aptitude à l'innovation.

@@ -1,8 +1,10 @@
 # Article 130
 
-Les sociétés faisant publiquement appel à l'épargne sont tenues, avant la réunion de l'assemblée des actionnaires, de publier au Bulletin des annonces légales obligatoires, un avis contenant les indications suivantes :
+Les sociétés faisant publiquement appel à l'épargne sont tenues, avant la réunion de l'assemblée des actionnaires, de publier au bulletin des annonces légales obligatoires, un avis contenant les indications suivantes :
 
-1° La dénomination sociale, suivie le cas échéant de son sigle ;    2° La forme de la société ;
+1° La dénomination sociale, suivie le cas échéant de son sigle ;
+
+2° La forme de la société ;
 
 3° Le montant du capital social ;
 
@@ -13,6 +15,8 @@ Les sociétés faisant publiquement appel à l'épargne sont tenues, avant la r�
 6° Le texte des projets de résolution qui seront présentés à l'assemblée par le conseil d'administration ou la direction, selon le cas ;
 
 7° Les lieux où doivent être déposées les actions dans les conditions prévues à l'article 136.
+
+8° Sauf dans les cas où la société adresse à tous ses actionnaires un formulaire de vote par correspondance, les lieux et les conditions dans lesquels peuvent être obtenus ces formulaires.
 
 Lorsque la société a émis des actions à dividende prioritaire sans droit de vote, les avis publiés doivent également mentionner l'obligation de soumettre les résolutions à l'avis, à l'accord ou à l'approbation de l'assemblée spéciale des titulaires d'actions à dividende prioritaire sans droit de vote.
 

@@ -1,3 +1,3 @@
 # Article 10
 
-L'Agence nationale pour la récupération et l'élimination des déchets est autorisée à prélever sur le produit de la taxe le montant des frais exposés pour la gestion technique et financière des opérations. Elle doit en fournir la justification au comité de gestion.
+Le directeur général de la prévention des pollutions, le directeur du budget et le directeur des hydrocarbures sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

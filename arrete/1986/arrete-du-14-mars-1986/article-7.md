@@ -1,3 +1,3 @@
 # Article 7
 
-Le secrétariat du comité de gestion est assuré par l'Agence nationale pour la récupération et l'élimination des déchets.
+Le comité de gestion adresse annuellement aux ministres  concernés un rapport rendant compte de l'affectation des fonds. "
