@@ -103,6 +103,7 @@
 - [Décret n°92-86 du 22 janvier 1992 (JUSB9110341D)](decret-n92-86-du-22-janvier-1992-jusb9110341d)
 - [Décret n°92-87 du 22 janvier 1992 (JUSB9110340D)](decret-n92-87-du-22-janvier-1992-jusb9110340d)
 - [Décret n°92-88 du 22 janvier 1992 (SANP9102742D)](decret-n92-88-du-22-janvier-1992-sanp9102742d)
+- [Décret n°88-1059 du 23 novembre 1988 (TRSA8800577D)](decret-n88-1059-du-23-novembre-1988-trsa8800577d)
 - [Décret n°91-730 du 23 juillet 1991 (TEFT9103792D)](decret-n91-730-du-23-juillet-1991-teft9103792d)
 - [Décret n°92-260 du 23 mars 1992 (MCCB9200084D)](decret-n92-260-du-23-mars-1992-mccb9200084d)
 - [Décret n°92-261 du 23 mars 1992 (MCCB9200083D)](decret-n92-261-du-23-mars-1992-mccb9200083d)
