@@ -9,6 +9,7 @@
 - [Arrêté du 1 avril 1992 (TEFE9204594A)](arrete-du-1-avril-1992-tefe9204594a)
 - [Arrêté du 1 avril 1992 (TEFF9204593A)](arrete-du-1-avril-1992-teff9204593a)
 - [Arrêté du 1 décembre 1992 (ACVP9220022A)](arrete-du-1-decembre-1992-acvp9220022a)
+- [Arrêté du 1 décembre 1992 (DEFP9201960A)](arrete-du-1-decembre-1992-defp9201960a)
 - [Arrêté du 1 décembre 1992 (DEFP9202119A)](arrete-du-1-decembre-1992-defp9202119a)
 - [Arrêté du 1 juillet 1992 (ECOC9200082A)](arrete-du-1-juillet-1992-ecoc9200082a)
 - [Arrêté du 1 juillet 1992 (EQUS9201032A)](arrete-du-1-juillet-1992-equs9201032a)
