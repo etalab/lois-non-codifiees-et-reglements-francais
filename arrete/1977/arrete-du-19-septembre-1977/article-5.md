@@ -6,7 +6,7 @@ Dans ce cas, le total des deux réductions accordées ne pourra pas excéder :
 
 1° Pour les établissements cotisant sur la base d'un taux inférieur à 2 p. 100 et quel que soit son mode de détermination :
 
-0,50 F pour 100 F de salaires.
+0,50  p. 100 des salaires.
 
 2° Pour les établissements cotisant sur la base d'un taux égal ou supérieur à 2 p. 100 déterminé en application des articles 2 et 3 de l'arrêté du 1er octobre 1976 ou de l'article 4 du décret n° 47-457 du 14 mars 1947 modifié :
 
