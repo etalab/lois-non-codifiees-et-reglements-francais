@@ -2,7 +2,7 @@
 
 Les infirmiers et techniciens des hôpitaux des armées qui sont en fonction, à la date de publication du présent décret, dans des emplois d'aides-préparateurs en pharmacie, d'aides d'électroradiologie, de secrétaires adjoints et de secrétaires sont constitués en quatre cadres d'extinction définis dans le tableau ci-après.
 
-Dans leur cadre d'appartenance, ils sont soumis aux règles qui s'appliquent, à la date du 11 décembre 1992, dans le cadre d'extinction de la fonction publique hospitalière désigné comme cadre homologue dans le même tableau :
+Dans leur cadre d'appartenance, ils sont soumis aux règles qui s'appliquent, à la date du 19 mai 1994, dans le cadre d'extinction de la fonction publique hospitalière désigné comme cadre homologue dans le même tableau :
 
 CADRES D'EXTINCTION militaire
 
