@@ -14,7 +14,9 @@ d) Les catégories de conventions, contrats et marchés qui doivent lui être so
 
 e) Les actions en justice ;
 
-f) Les moyens de faciliter l'emploi des élèves après la sortie de l'école.
+f) Les moyens de faciliter l'emploi des élèves après la sortie de l'école ;
+
+g) Les transactions.
 
 3° Il approuve le règlement de scolarité de l'école.
 

@@ -1,6 +1,6 @@
 # Article 5
 
-Le conseil d'administration arrête, d'une part, l'organisation interne et les règles de fonctionnement de l'école, y compris notamment son centre de recherche, et, d'autre part, sous réserve des dispositions de l'article 8 ci-dessous, le budget et le compte financier de l'école ainsi que les emprunts, aliénations, acquisitions et échanges d'immeubles. Il autorise les actions en justice.
+Le conseil d'administration arrête, d'une part, l'organisation interne et les règles de fonctionnement de l'école, y compris notamment son centre de recherche, et, d'autre part, sous réserve des dispositions de l'article 8 ci-dessous, le budget et le compte financier de l'école ainsi que les emprunts, aliénations, acquisitions et échanges d'immeubles. Il autorise les actions en justice et les transactions.
 
 Le conseil d'administration approuve chaque année les comptes des filiales et se fait rendre compte de la situation des sociétés dans lesquelles des participations ont été prises en application de l'article 25 du présent décret. Les rapports annuels des commissaires aux comptes des filiales lui sont communiqués.
 

@@ -56,6 +56,8 @@ k) Aux remises gracieuses et admissions en non-valeur si le contrôleur financie
 
 l) Aux actions en justice ;
 
-m) Aux offres de concours.
+m) Aux offres de concours ;
+
+n) Aux transactions.
 
 4° Le conseil donne, en outre, son avis sur les questions qui lui sont soumises par le ministre de la défense ou par tout autre ministre intéressé pour les questions relevant de sa compétence, par le président du conseil d'administration ou par le directeur.
