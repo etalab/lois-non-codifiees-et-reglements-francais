@@ -34,7 +34,7 @@ d) Le directeur général de l'industrie des technologies de l'information et de
 
 - un pharmacien ou un docteur ès sciences choisi en raison de sa compétence dans le domaine de la pharmacologie ;
 
-3° Deux personnalités scientifiques nommées par le ministre chargé de la santé, exerçant dans l'industrie des produits cosmétiques ou la représentant, à titre consultatif ;
+3° Trois personnalités scientifiques nommées par le ministre chargé de la santé, exerçant dans l'industrie des produits cosmétiques ou la représentant, à titre consultatif ;
 
 4° Un représentant du comité technique de toxicovigilance désigné par le président de la Commission nationale de toxicovigilance.
 
