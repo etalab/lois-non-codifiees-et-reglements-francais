@@ -1,0 +1,3 @@
+# Article 7
+
+L'arrêté du 10 novembre 2000 relatif aux conditions sanitaires régissant l'emploi, la commercialisation, les échanges, les importations et les exportations de certains produits d'origine animale destinés à l'alimentation animale et à la fabrication d'aliments des animaux est abrogé. Les références aux articles 3 et 4 de l'arrêté du 10 novembre 2000 précité, figurant à l'article 2 de l'arrêté du 13 avril 2001 portant suspension de la mise sur le marché et ordonnant le retrait de certaines matières fertilisantes et supports de culture doivent s'entendre comme références aux articles 3 et 4 du présent arrêté à partir du jour de sa publication.

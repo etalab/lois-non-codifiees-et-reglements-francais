@@ -10,4 +10,8 @@ c) Poussins d'un jour : toutes les volailles de l'espèce Gallus gallus de la fi
 
 d) Couvoir : tout établissement dont l'activité comprend la mise en incubation, l'éclosion d'oeufs à couver et la fourniture de poussins d'un jour de l'espèce Gallus gallus en filière chair ;
 
-e) Troupeau : tout ensemble de volailles de reproduction de l'espèce Gallus gallus en filière chair, de même statut sanitaire, détenues dans un même bâtiment et constituant une unité épidémiologique. Dans les batteries, ce terme inclut tous les oiseaux partageant le même volume d'air.
+e) Troupeau : tout ensemble de volailles de reproduction de l'espèce Gallus gallus en filière chair, de même statut sanitaire, détenues dans un même bâtiment et constituant une unité épidémiologique. Dans les batteries, ce terme inclut tous les oiseaux partageant le même volume d'air ;
+
+f) Volailles : les volailles de reproduction et poussins d'un jour définis au présent article ;
+
+g) Détenteur de volailles : toute personne physique ou morale qui a la garde, à titre permanent ou temporaire, de volailles, à l'exception des animaux détenus aux seules fins de l'autoconsommation.

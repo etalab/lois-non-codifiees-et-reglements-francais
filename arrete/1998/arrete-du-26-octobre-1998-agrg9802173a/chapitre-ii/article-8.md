@@ -1,6 +1,6 @@
 # Article 8
 
-L'Etat participe financièrement aux opérations suivantes, exécutées par le vétérinaire sanitaire lors de suspicion et d'infection à Salmonella enteritidis ou Salmonella typhimurium :
+L'Etat participe financièrement aux opérations suivantes exécutées par le vétérinaire sanitaire, conformément aux instructions du directeur des services vétérinaires, lors de suspicion et d'infection à Salmonella enteritidis ou Salmonella typhimurium.
 
 a) Visite du troupeau suspect par le vétérinaire sanitaire :
 

@@ -66,13 +66,13 @@ Le personnel d'élevage ne doit pas avoir accès au couvoir.
 
 Le personnel du couvoir doit utiliser les vestiaires pour changer de vêtements (blouses, bottes et coiffures, de préférence de couleurs différentes suivant les zones fonctionnelles).
 
-b) OEufs à couver.
+b) OEufs à couver :
 
-Les oeufs à couver doivent obligatoirement provenir d'élevages respectant la charge sanitaire. Ils sont désinfectés à leur arrivée au couvoir, les oeufs sales ne sont pas mis en incubation.
+Les oeufs à couver doivent obligatoirement provenir de troupeaux adhérant à la charte sanitaire. Ils sont désinfectés à leur arrivée au couvoir ; les oeufs sales ne sont pas mis en incubation.
 
-Dans le cas d'oeufs à couver importés, ils doivent provenir d'établissements agréés conformément à la directive du Conseil 90/539/CEE du 15 octobre 1990 et de troupeaux soumis au contrôle prévu à l'annexe III, section I, de la directive du Conseil 92/117/CEE du 17 décembre 1992.
+Dans le cas d'oeufs à couver importés, ils doivent provenir d'établissements agréés conformément à la directive 90/539/CEE du Conseil du 15 octobre 1990 et de troupeaux soumis au contrôle prévu à l'annexe III, section I, de la directive 92/117/CEE du Conseil du 17 décembre 1992.
 
-Les couvoirs ne traitent que des oeufs à couver d'animaux de l'espèce Gallus gallus, filière ponte d'oeufs de consommation.
+Les oeufs à couver d'animaux de l'espèce Gallus gallus filière ponte sont traités de manière entièrement séparée de ceux des éventuelles autres productions traitées.
 
 Les échanges d'oeufs à couver ne peuvent s'effectuer qu'entre couvoirs adhérant à la charte sanitaire. Ils doivent être consignés sur le cahier de couvoir et signalés dans les plus brefs délais aux services vétérinaires. Par dérogation à ce principe, les couvoirs adhérant à la charte peuvent recevoir des oeufs à couver d'établissements non adhérents. Dans ce cas, en supplément, les conditions suivantes doivent être respectées :
 
@@ -94,11 +94,13 @@ La salle et le matériel de tri, de sexage et d'expédition doivent être lavés
 
 Les véhicules affectés au transport des oeufs à couver et des poussins doivent être régulièrement lavés et désinfectés immédiatement après usage.
 
-4. Cahier de couvoir.
+4. Cahier de couvoir :
 
-Un cahier de couvoir doit être régulièrement tenu et conservé pendant au moins deux ans. Doivent y être notés :
+Un cahier de couvoir doit être régulièrement tenu et conservé pendant au moins trois ans. Doivent y être notés :
 
-- toutes les entrées d'oeufs à couver individualisées par troupeau et leur date d'arrivée, et provenance ;
+- la provenance des oeufs, et notamment l'identification du troupeau d'origine ;
+
+- leurs dates de collecte, ou dates de ponte, et d'arrivée ;
 
 - les résultats des éclosions ;
 

@@ -82,9 +82,9 @@ Avant les mises en place de reproducteurs faisant suite à une bande ayant subi 
 
 4. Cahier d'élevage.
 
-Un document d'élevage, ou tout autre moyen d'enregistrement notamment informatique, doit être tenu à jour pour chaque troupeau et conservé pendant au moins deux ans après l'élimination des animaux. Les informations suivantes doivent être portées sur ce document :
+Un document d'élevage, ou tout autre moyen d'enregistrement, notamment informatique, doit être tenu à jour pour chaque troupeau et conservé pendant au moins trois ans après l'élimination des animaux. Les informations suivantes doivent être portées sur ce document :
 
-- attestation d'adhésion à la charte sanitaire de l'établissement d'origine des animaux et résultats des analyses complémentaires effectuées, le cas échéant, tel qu'il est prévu au point 3 (a) ci-dessus ;
+- attestations d'adhésion à la charte sanitaire de l'établissement d'origine des animaux et résultats des analyses complémentaires effectuées, le cas échéant, tel qu'il est prévu au point 3 (a) ci-dessus ;
 
 - nettoyage, désinfection, vide sanitaire (protocole, dates de réalisation et résultats des contrôles) ;
 
@@ -94,7 +94,7 @@ Un document d'élevage, ou tout autre moyen d'enregistrement notamment informati
 
 - application d'insecticides et d'acaricides ;
 
-- mortalités ;
+- mortalité ;
 
 - performances, courbes de ponte, de fertilité et d'éclosabilité ;
 
@@ -208,9 +208,11 @@ Les véhicules affectés au transport des oeufs à couver et des poussins doiven
 
 4. Cahier de couvoir.
 
-Un cahier de couvoir doit être régulièrement tenu et conservé pendant au moins deux ans. Doivent y être notés :
+Un cahier de couvoir doit être régulièrement tenu et conservé pendant au moins trois ans. Doivent y être notés :
 
-- toutes les entrées d'oeufs à couver individualisées par troupeau et leur date d'arrivée, et provenance ;
+- la provenance des oeufs, et notamment l'identification du troupeau d'origine ;
+
+- leurs dates de collecte, ou dates de ponte, et d'arrivée ;
 
 - les résultats des éclosions ;
 

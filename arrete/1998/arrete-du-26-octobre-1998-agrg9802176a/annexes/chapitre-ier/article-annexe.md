@@ -12,7 +12,7 @@ La conception et l'aménagement de l'établissement et de ses abords doivent per
 
 Elle doit être conçue pour empêcher l'introduction d'agents pathogènes dans l'établissement. En particulier les points suivants devront être respectés :
 
-- les accès à l'établissement doivent être délimités de façon à interdire la pénétration des personnes étrangères, d'autres animaux, ainsi que celles des véhicules destinés à l'enlèvement des cadavres ;
+- Les accès à l'établissement doivent être délimités de façon à interdire la pénétration des personnes étrangères, d'autres animaux, ainsi que celles des véhicules destinés à l'enlèvement des cadavres. Dans le cas d'élevage de volailles de rente avec parcours, la protection à mettre en place ne vise pas les oiseaux sauvages ;
 
 - à l'entrée de l'établissement et le cas échéant de chaque bâtiment, un sas doit être mis à la disposition du personnel et de l'éleveur, qui doivent y revêtir une tenue de travail spécifique (combinaison, bottes, coiffe). Ce sas doit respecter le principe de la séparation du secteur propre et du secteur sale et doit comporter un lave-mains à commande non manuelle, avec eau si possible chaude, savon bactéricide, essuie-mains jetables et une poubelle. Il doit être maintenu en bon état d'entretien et de propreté ;
 
@@ -38,7 +38,7 @@ b) Etablissements hébergeant des volailles de rente.
 
 L'aménagement interne doit être conçu pour permettre un nettoyage et une désinfection efficaces.
 
-Dans le cas d'une ferme de ponte, la disposition, l'aménagement interne des bâtiments et le fonctionnement (notamment la circulation du personnel) devront permettre de traiter chaque bâtiment comme une unité distincte. La seule partie commune admise est constituée du convoyeur d'oeufs à condition qu'il existe un dispositif permettant de le désinfecter en continu.
+Dans le cas d'une ferme de ponte, la disposition, l'aménagement interne des bâtiments et le fonctionnement, notamment la circulation du personnel, devront permettre de traiter chaque bâtiment comme une unité distincte. La seule partie commune admise est constituée du convoyeur d'oeufs.
 
 3. Conduite de l'élevage.
 
@@ -90,19 +90,17 @@ Avant les mises en place d'animaux faisant suite à une bande ayant subi une con
 
 4. Cahier d'élevage.
 
-Un document d'élevage, ou tout autre moyen d'enregistrement notamment informatique, doit être tenu à jour pour chaque troupeau et conservé pendant au moins deux ans après l'élimination des animaux. Les informations suivantes doivent être portées sur ce document :
+Un document d'élevage, ou tout autre moyen d'enregistrement, notamment informatique, doit être tenu à jour pour chaque troupeau et conservé pendant au moins trois ans après l'élimination des animaux. Les informations suivantes doivent être portées sur ce document :
 
-- attestations d'adhésion à la charte sanitaire de l'établissement d'origine des animaux et résultats des analyses complémentaires effectuées le cas échéant tel qu'il est prévu au point 3 (a) ci-dessus ;
+- attestations d'adhésion à la charte sanitaire de l'établissement d'origine des animaux et résultats des analyses complémentaires effectuées, le cas échéant, tel qu'il est prévu au point 3 (a) ci-dessus ;
 
-- nettoyage, désinfection, vide sanitaire (protocole, dates de réalisation et résultats des contrôles) ;
-
-- programmes de prophylaxie (maladies infectieuses et parasitaires) avec indication des dates précises des vaccinations et traitements ;
+- nettoyage, désinfection, vide sanitaire (protocole, dates de réalisation et résultats des contrôles) ; programmes de prophylaxie (maladies infectieuses et parasitaires) avec indication des dates précises des vaccinations et traitements ;
 
 - dépôt d'appâts raticides ou souricides ;
 
 - application d'insecticides et d'acaricides ;
 
-- mortalités ;
+- mortalité ;
 
 - performances, courbes de ponte, de fertilité et d'éclosabilité ;
 
