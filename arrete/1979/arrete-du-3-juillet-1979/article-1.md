@@ -1,3 +1,3 @@
 # Article 1
 
-Pour l'application des dispositions du décret n° 69-380 du 18 avril 1969 susvisé, les conditions de mesure de l'émission sonore des engins et matériels de chantier seront déterminées par référence au code général de mesure annexé au présent arrêté.
+Les titres permettant le recrutement direct en qualité d'ingénieur en chef dans les établissements relevant du livre IX du code de la santé publique sont ceux figurant au tableau I annexé au présent arrêté.
