@@ -1,4 +1,4 @@
-# Décret n°93-674 du 27 mars 1993 relatif à l'assemblée spéciale des porteurs de parts à intérêt prioritaire sans droit de vote
+# Décret n°98-623 du 21 juillet 1998 relatif à la commission des comptes et de l'économie de l'environnement
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,5 +8,6 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 8-1](article-8-1.md)
 - [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
