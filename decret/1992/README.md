@@ -92,6 +92,7 @@
 - [Décret n°92-66 du 20 janvier 1992 (JUSC9220004D)](decret-n92-66-du-20-janvier-1992-jusc9220004d)
 - [Décret n°92-83 du 20 janvier 1992 (TEFE9204268D)](decret-n92-83-du-20-janvier-1992-tefe9204268d)
 - [Décret n°93-99 du 20 janvier 1993 (EQUP9200626D)](decret-n93-99-du-20-janvier-1993-equp9200626d)
+- [Décret n°66-874 du 21 novembre 1966](decret-n66-874-du-21-novembre-1966)
 - [Décret n°92-159 du 21 février 1992 (DEFP9201090D)](decret-n92-159-du-21-fevrier-1992-defp9201090d)
 - [Décret n°92-75 du 21 janvier 1992 (SANH9102643D)](decret-n92-75-du-21-janvier-1992-sanh9102643d)
 - [Décret n°92-76 du 21 janvier 1992 (SANP9102865D)](decret-n92-76-du-21-janvier-1992-sanp9102865d)
