@@ -1,3 +1,3 @@
 # Article 1
 
-La garantie de l'Etat est accordée au service en intérêts, amortissement, frais et accessoires de l'emprunt d'un montant de deux milliards de francs et d'une durée de douze ans, émis par le fonds d'intervention sidérurgique.
+Les statuts des caisses départementales ou pluridépartementales de mutualité sociale agricole adoptés par les assemblées générales qui sont soumis à approbation dans les conditions fixées par l'article 1002 du code rural comportent au moins les dispositions des statuts types figurant en annexe au présent arrêté [*mentions obligatoires*].

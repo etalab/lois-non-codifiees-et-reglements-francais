@@ -1,4 +1,4 @@
-# Arrêté du 21 février 1986 relatif aux périodes d'ouverture de la pêche de la truite de mer durant l'année 1986.
+# Arrêté du 21 février 1986 fixant la liste des cours d'eau ou parties de cours d'eau classés comme cours d'eau à truite de mer.
 
 - [Article 1](article-1.md)
 - [Article unique](article-unique.md)

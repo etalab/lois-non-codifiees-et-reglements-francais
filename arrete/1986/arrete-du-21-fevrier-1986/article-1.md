@@ -1,3 +1,3 @@
 # Article 1
 
-En application de l'article 4 du décret du 23 décembre 1985 susvisé, la pêche de la truite de mer est interdite, pour l'année 1986, en dehors des temps d'ouverture afférents aux eaux de la première catégorie.
+La liste des cours d'eau et parties de cours d'eau classés comme cours d'eau à truite de mer s'établit conformément à l'annexe jointe au présent arrêté.

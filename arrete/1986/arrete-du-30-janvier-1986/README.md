@@ -1,4 +1,4 @@
-# Arrêté du 30 janvier 1986 portant revalorisation des allocations familiales servies dans les départements de la Guadeloupe, de la Guyane, de la Martinique et de la Réunion à compter du 1er janvier 1986 et du 1er juillet 1986
+# Arrêté du 30 janvier 1986 relatif à la définition du chapitre et de l'article du budget des collectivités territoriales appliquant les nomenclatures comptables M11, M12 et M51.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
