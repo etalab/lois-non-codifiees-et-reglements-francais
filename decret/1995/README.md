@@ -27,6 +27,7 @@
 - [Décret n°94-1230 du 30 décembre 1994 (SPSS9403649D)](decret-n94-1230-du-30-decembre-1994-spss9403649d)
 - [Décret n°94-1231 du 30 décembre 1994 (SPSS9403933D)](decret-n94-1231-du-30-decembre-1994-spss9403933d)
 - [Décret n°94-1232 du 30 décembre 1994 (BUDB9410120D)](decret-n94-1232-du-30-decembre-1994-budb9410120d)
+- [Décret n°94-1233 du 30 décembre 1994 (INTC9400500D)](decret-n94-1233-du-30-decembre-1994-intc9400500d)
 - [Décret n°96-79 du 30 janvier 1996 (MENF9502346D)](decret-n96-79-du-30-janvier-1996-menf9502346d)
 - [Décret n°96-965 du 30 octobre 1996 (ACVE9550017D)](decret-n96-965-du-30-octobre-1996-acve9550017d)
 - [Décret n°97-571 du 30 mai 1997 (EQUP9700030D)](decret-n97-571-du-30-mai-1997-equp9700030d)
