@@ -154,7 +154,6 @@
 - [Arrêté du 5 mai 1998 (MCCB9800377A)](arrete-du-5-mai-1998-mccb9800377a)
 - [Arrêté du 5 mai 1998 (MENF9801123A)](arrete-du-5-mai-1998-menf9801123a)
 - [Arrêté du 6 avril 1998 (INTE9800150A)](arrete-du-6-avril-1998-inte9800150a)
-- [Arrêté du 6 février 1998 (ATEP9870081A)](arrete-du-6-fevrier-1998-atep9870081a)
 - [Arrêté du 6 février 1998 (DEFD9801124A)](arrete-du-6-fevrier-1998-defd9801124a)
 - [Arrêté du 6 février 1998 (ECOD9870005A)](arrete-du-6-fevrier-1998-ecod9870005a)
 - [Arrêté du 6 janvier 1998 (DEFI9753026A)](arrete-du-6-janvier-1998-defi9753026a)
