@@ -21,3 +21,9 @@ La limite d'âge supérieure mentionnée ci-dessus s'entend sans préjudice de l
 Les candidats qui atteignent l'âge limite pendant une année au titre de laquelle aucun concours n'est ouvert peuvent faire acte de candidature au concours suivant.
 
 2° Un concours interne est ouvert aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, aux militaires et aux magistrats qui, à la date de clôture des inscriptions, sont en activité ou en position de détachement, de congé parental ou accomplissant le service national, ainsi qu'aux agents en fonctions dans une organisation internationale intergouvernementale. Les candidats doivent justifier, au 1er janvier de l'année du concours, de quatre années au moins de services publics.
+
+3° Un troisième concours est ouvert aux candidats âgés de moins de 40 ans au 1er septembre de l'année du concours et qui justifient, à cette même date, de l'exercice durant quatre ans au moins d'une ou plusieurs des activités ou d'un ou plusieurs des mandats mentionnés au 3° de l'article 19 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.
+
+Les activités professionnelles prises en compte doivent avoir été exercées dans le domaine de l'éducation ou de la formation.
+
+Les périodes au cours desquelles l'exercice d'une ou plusieurs activités ou d'un ou plusieurs mandats aura été simultané ne sont prises en compte qu'à un seul titre.
