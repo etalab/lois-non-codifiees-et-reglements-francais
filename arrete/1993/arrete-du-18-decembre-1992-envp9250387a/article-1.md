@@ -4,4 +4,4 @@ Le présent arrêté s'applique aux installations en exploitation de stockage pe
 
 Il s'applique aussi bien aux installations dites collectives, qui reçoivent les déchets de plusieurs producteurs de déchets, qu'aux installations dites internes, exploitées par un industriel producteur de déchets pour ses propres déchets, sur son site de production ou ailleurs.
 
-Les dispositions qui suivent sont applicables dans un délai de trois mois à compter de la publication du présent arrêté.
+" Les dispositions qui suivent sont applicables à compter du 1er janvier 1994. "

@@ -696,6 +696,7 @@
 - [Décret n°93-136 du 28 janvier 1993 (DEFP9202182D)](decret-n93-136-du-28-janvier-1993-defp9202182d)
 - [Décret n°93-137 du 28 janvier 1993 (SPSG9203133D)](decret-n93-137-du-28-janvier-1993-spsg9203133d)
 - [Décret n°93-867 du 28 juin 1993 (JUSD9330009D)](decret-n93-867-du-28-juin-1993-jusd9330009d)
+- [Décret n°93-870 du 28 juin 1993 (LOGC9300056D)](decret-n93-870-du-28-juin-1993-logc9300056d)
 - [Décret n°93-828 du 28 mai 1993 (MEND9305030D)](decret-n93-828-du-28-mai-1993-mend9305030d)
 - [Décret du 29 mars 1993 (INTD9300168D)](decret-du-29-mars-1993-intd9300168d)
 - [Décret n°92-1369 du 29 décembre 1992 (BUDR9204122D)](decret-n92-1369-du-29-decembre-1992-budr9204122d)
