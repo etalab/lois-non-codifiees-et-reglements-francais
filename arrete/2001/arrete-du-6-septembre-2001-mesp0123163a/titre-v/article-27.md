@@ -1,0 +1,5 @@
+# Article 27
+
+Les personnes titulaires d'un diplôme de docteur en médecine bénéficient, à compter du 31 décembre 2004, d'une dispense totale d'enseignement théorique, sous réserve de suivre, dans la limite des places disponibles, dans un institut de formation en soins infirmiers de leur choix, un enseignement de deux semaines portant sur la démarche de soins et d'effectuer un stage à temps complet de soins infirmiers d'une durée de deux mois. Les modalités du stage sont fixées, après avis du conseil technique, par le directeur de l'institut de formation en soins infirmiers choisi par le candidat.
+
+Pour être autorisé à se présenter à l'épreuve prévue à l'article 14 ci-dessus, le candidat doit avoir obtenu une note de stage au moins égale à 10 sur 20. Cette note est étayée d'une appréciation précise et motivée. La personne responsable du stage communique celle-ci au candidat au cours d'un entretien. Si la moyenne n'est pas obtenue, le candidat est autorisé à recommencer une seule fois le stage de deux mois.

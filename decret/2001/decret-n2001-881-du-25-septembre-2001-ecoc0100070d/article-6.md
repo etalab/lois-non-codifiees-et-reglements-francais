@@ -1,0 +1,3 @@
+# Article 6
+
+Les dispositions du présent décret ne s'opposent pas à la commercialisation en France, à l'aide de l'une des dénominations ou des mentions prévues à l'article 2 du présent décret, de solutions aqueuses d'hypochlorite de sodium, légalement fabriquées et commercialisées dans un autre des Etats membres de la Communauté européenne ou de l'Espace économique européen, lorsqu'un degré de protection et d'information du consommateur équivalent à celui recherché par le présent décret peut être assuré par le respect des dispositions réglementaires ou à défaut par le respect des usages loyaux du commerce applicables à ces produits dans cet Etat.

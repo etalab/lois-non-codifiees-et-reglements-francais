@@ -1,0 +1,3 @@
+# Article 20
+
+Le candidat qui échoue à l'issue de cette deuxième session peut demander au directeur de l'institut de formation en soins infirmiers de son choix de le présenter aux épreuves des deux sessions suivantes. Le directeur de l'institut de formation, après avis du conseil technique et sur examen du dossier d'évaluation continue de l'étudiant, peut l'autoriser à redoubler, à se présenter aux épreuves visées aux articles 13 et 14 ci-dessus sans scolarité ou à bénéficier d'un complément de formation. En cas de complément de formation, les évaluations effectuées ne sont pas prises en compte pour l'obtention du diplôme d'Etat.
