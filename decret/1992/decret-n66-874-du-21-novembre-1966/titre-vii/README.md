@@ -5,6 +5,8 @@
 - [Article 82](article-82.md)
 - [Article 83](article-83.md)
 - [Article 84](article-84.md)
+- [Article 84 bis](article-84-bis.md)
+- [Article 84 ter](article-84-ter.md)
 - [Article 85](article-85.md)
 - [Article 86](article-86.md)
 - [Article 87](article-87.md)
