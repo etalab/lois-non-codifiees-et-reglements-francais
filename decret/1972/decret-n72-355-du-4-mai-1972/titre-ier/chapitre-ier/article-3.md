@@ -1,9 +1,9 @@
 # Article 3
 
-Le directeur est secondé par un directeur de la formation initiale, par un directeur de la formation continue, par un sous-directeur chargé de la coordination des missions de formation et par un secrétaire général.
+Le directeur est secondé par un directeur de la formation initiale et des recrutements, par un directeur de la formation continue et du département international et par un secrétaire général.
 
-Le directeur de la formation initiale est secondé par un sous-directeur des études et par un sous-directeur des stages.
+Le directeur de la formation initiale et des recrutements est secondé par un sous-directeur des études et par deux sous-directeurs des stages.
 
-Le directeur de la formation continue est secondé par un sous-directeur.
+Le directeur de la formation continue et du département international est secondé par un sous-directeur de la formation continue et par un sous-directeur chargé du département international.
 
-La fonction de directeur adjoint est attribuée soit au directeur de la formation initiale, soit au directeur de la formation continue.
+Les fonctions de directeur adjoint sont exercées soit par le directeur de la formation initiale et des recrutements, soit par le directeur de la formation continue et du département international.

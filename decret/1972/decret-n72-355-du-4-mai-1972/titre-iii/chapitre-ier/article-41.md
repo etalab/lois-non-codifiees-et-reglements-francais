@@ -2,7 +2,7 @@
 
 L'enseignement est dispensé à l'école par :
 
-1° Des maîtres de conférences nommés par application des dispositions du titre Ier bis du décret n° 59-772 du 25 juin 1959 modifié ;
+1° Des chargés de formation à l'Ecole nationale de la magistrature nommés par application des dispositions du décret n° 2004-422 du 12 mai 2004 ;
 
 2° Des conférenciers auxquels le directeur de l'école peut faire appel occasionnellement et qui sont rémunérés à la vacation.
 

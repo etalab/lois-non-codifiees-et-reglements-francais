@@ -242,6 +242,7 @@
 - [Décret n°2004-731 du 21 juillet 2004 (INTC0400190D)](decret-n2004-731-du-21-juillet-2004-intc0400190d)
 - [Décret n°2004-77 du 21 janvier 2004 (BUDF0300037D)](decret-n2004-77-du-21-janvier-2004-budf0300037d)
 - [Décret n°2004-79 du 21 janvier 2004 (DEFP0302484D)](decret-n2004-79-du-21-janvier-2004-defp0302484d)
+- [Décret n°99-1073 du 21 décembre 1999 (JUSB9910508D)](decret-n99-1073-du-21-decembre-1999-jusb9910508d)
 - [Décret n°2004-255 du 22 mars 2004 (PRMX0407064D)](decret-n2004-255-du-22-mars-2004-prmx0407064d)
 - [Décret n°2004-256 du 22 mars 2004 (JUSE0440045D)](decret-n2004-256-du-22-mars-2004-juse0440045d)
 - [Décret n°2004-277 du 22 mars 2004 (MENF0400328D)](decret-n2004-277-du-22-mars-2004-menf0400328d)

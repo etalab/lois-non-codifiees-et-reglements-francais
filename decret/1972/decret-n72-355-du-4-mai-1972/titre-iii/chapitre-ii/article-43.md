@@ -4,19 +4,19 @@ La commission pédagogique comprend :
 
 1° Le directeur de l'école, président ;
 
-2° Le directeur de la formation initiale, le directeur de la formation continue et les sous-directeurs de l'école ;
+2° Le directeur de la formation initiale et des recrutements, le directeur de la formation continue et les sous-directeurs de l'école ;
 
 3° Trois personnes qualifiées ;
 
-4° Deux maîtres de conférences ;
+4° Deux chargés de formation ;
 
 5° Un magistrat délégué à la formation et un directeur de centre de stage, nommés dans les conditions fixées au e du premier alinéa de l'article 4 ;
 
-6° Deux magistrats n'ayant pas la qualité de maître de conférences ;
+6° Deux magistrats n'ayant pas la qualité de chargé de formation ;
 
 7° Deux auditeurs de justice.
 
-Les maîtres de conférences sont élus au scrutin uninominal majoritaire à un tour par l'ensemble des maîtres de conférences réunis en collège par le directeur. Sont déclarés élus les deux candidats ayant obtenu le plus grand nombre de voix. En cas d'égalité de voix, il est procédé à un tirage au sort.
+Les chargés de formation sont élus au scrutin uninominal majoritaire à un tour par l'ensemble des chargés de formation réunis en collège par le directeur. Sont déclarés élus les deux candidats ayant obtenu le plus grand nombre de voix. En cas d'égalité de voix, il est procédé à un tirage au sort.
 
 Les auditeurs de justice sont désignés par les représentants des auditeurs au conseil d'administration dans les conditions fixées par le règlement intérieur.
 

@@ -34,7 +34,7 @@ Un directeur d'institut d'études judiciaires ;
 
 Un professeur des universités.
 
-d) Un maître de conférences élu, au scrutin majoritaire à deux tours et à bulletin secret, par l'ensemble des maîtres de conférences réunis en collège par le directeur.
+d) Un chargé de formation élu, au scrutin majoritaire à deux tours et à bulletin secret, par l'ensemble des maîtres de conférences réunis en collège par le directeur.
 
 e) Un magistrat délégué à la formation et un directeur de centre de stage, nommés par arrêté du garde des sceaux, ministre de la justice, sur proposition du directeur de l'école ;
 
@@ -42,7 +42,7 @@ f) Un représentant de chaque syndicat ou organisation professionnelle représen
 
 g) Deux représentants des auditeurs de justice de chaque promotion, élus dans les conditions prévues à l'article 6.
 
-Les membres du conseil d'administration visés au g ne participent pas aux travaux du conseil portant sur la nomination d'enseignants à l'école, de magistrats délégués à la formation, de directeurs de centre de stage ou de membres de jurys prévus par le présent décret.
+Les membres du conseil d'administration mentionnés au g ne participent pas aux travaux du conseil portant nomination de magistrats délégués à la formation, de directeurs de centre de stage ou de membres de jurys prévus par le présent décret.
 
 Les membres du conseil d'administration visés au f ont voix consultative.
 
