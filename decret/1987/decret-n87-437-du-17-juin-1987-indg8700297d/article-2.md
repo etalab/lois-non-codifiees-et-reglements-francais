@@ -1,15 +1,23 @@
 # Article 2
 
-Le comité technique de l'électricité est composé de trente-six membres dont :
+Le comité technique de l'électricité est composé de 33 membres, dont :
 
-- sept représentants d'Electricité de France ;
+- deux représentants du gestionnaire du réseau public de transport ;
 
-- deux représentants des distributeurs non nationalisés ;
+- trois représentants des gestionnaires de réseaux publics de distribution ;
 
-- deux représentants des exploitants de réseaux de traction électrique dont un représentant de la Société nationale des chemins de fer français ;
+- quatre représentants de producteurs d'électricité ;
 
-- un représentant des collectivités concédantes et organismes de groupement maîtres d'oeuvre en matière d'électrification rurale ;
+- deux représentants des grands consommateurs d'énergie ;
 
-- six représentants des entreprises ou organismes dont l'activité relève du secteur des grandes industries électriques ;
+- deux représentants des réseaux ferrés électrifiés ;
 
-- dix-huit représentants des ministres dont relèvent les secteurs suivants : électricité, métrologie, électrotechnique, informatique, armées, collectivités locales, sécurité civile, protection de la nature et de l'environnement, prévention des pollutions, protection des abords des monuments historiques et des sites classés et inscrits, urbanisme, sécurité routière et voirie routière de l'Etat, aviation civile, transports terrestres, postes et télécommunications, agriculture, travail, à raison de deux représentants pour le secteur Electricité et d'un représentant pour les autres secteurs.
+- un représentant des collectivités concédantes de la distribution électrique ;
+
+- un représentant d'Electricité de France ;
+
+- cinq représentants des entreprises, établissements ou organismes scientifiques, techniques, ou professionnels intéressés par l'électricité ou par les matériels et services associés ;
+
+- trois personnalités qualifiées choisies en raison de leurs hautes compétences sur les aspects technologiques ou économiques du système électrique ;
+
+- dix représentants des ministres dont relèvent les secteurs suivants : électricité, consommation, intérieur, environnement, équipement, transports, télécommunications, agriculture, travail, à raison de deux représentants pour le secteur de l'électricité et d'un représentant pour les autres secteurs.
