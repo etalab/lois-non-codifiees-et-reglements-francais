@@ -1,7 +1,7 @@
 # Article 5
 
-Les comptables publics sont tenus de produire leurs comptes devant la Cour des comptes. Cette juridiction statue sur ces comptes par voie d'arrêts.
+Les comptables publics autres que ceux qui relèvent de la juridiction des chambres régionales des comptes sont tenus de produire, dans les délais réglementaires, leurs comptes à la Cour des comptes, qui statue sur ces derniers par voie d'arrêts, à titre provisoire ou définitif.
 
-Toutefois, des décrets organisent un apurement administratif par les trésoriers-payeurs généraux et les receveurs particuliers des finances et, dans les territoires d'outre-mer, par les trésoriers-payeurs généraux, des comptes de certaines catégories de collectivités ou établissements publics. Cet apurement s'exerce sous le contrôle de la Cour et sous réserve de ses droits d'évocation et de réformation.
+Toutefois, le jugement des comptes de certains établissements publics nationaux peut être confié, dans des conditions définies par décret, aux chambres régionales des comptes par arrêtés du premier président de la Cour des comptes pris après avis du procureur général près la Cour des comptes et des présidents des chambres régionales des comptes intéressés.
 
-La Cour juge les comptes que lui rendent les personnes qu'elle a déclarées comptables de fait. Elle n'a pas juridiction sur les ordonnateurs, sauf sur ceux qu'elle a déclarés comptables de fait.
+La Cour des comptes juge les comptes que lui rendent les personnes qu'elle a déclarées comptables de fait. Elle n'a pas juridiction sur les ordonnateurs, sauf sur ceux qu'elle a déclarés comptables de fait.
