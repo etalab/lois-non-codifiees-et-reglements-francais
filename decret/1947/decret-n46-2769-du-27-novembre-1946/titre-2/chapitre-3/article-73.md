@@ -2,9 +2,9 @@
 
 Nomination des directeurs et agents comptables
 
-Les directeurs et agents comptables des sociétés de secours minières et des unions régionales de sociétés de secours minières sont nommés parmi les personnes inscrites sur la liste d'aptitude visée à l'article R. 123-45 du code de la sécurité sociale. Ces nominations sont soumises à l'agrément du préfet de région après avis, pour ce qui concerne l'agent comptable du trésorier-payeur général compétent pour la circonscription. Le refus d'agrément empêche les intéressés de continuer leurs fonctions : son retrait met fin à celles-ci.
+Les directeurs et agents comptables des caisses régionales de la sécurité sociale dans les mines sont nommés parmi les personnes inscrites sur la liste d'aptitude visée à l'article R. 123-45 du code de la sécurité sociale. Ces nominations sont soumises à l'agrément du préfet de région après avis, pour ce qui concerne l'agent comptable du trésorier-payeur général compétent pour la circonscription. Le refus d'agrément empêche les intéressés de continuer leurs fonctions : son retrait met fin à celles-ci.
 
-Les candidatures sont reçues par le directeur de la Caisse autonome nationale pendant trois mois à compter de la publication de l'appel à candidatures au Bulletin périodique d'information ; copie doit être adressée au directeur régional des affaires sanitaires et sociales dont relève l'organisme dans lequel les candidats exercent leurs fonctions.
+Les candidatures sont reçues par le directeur de la Caisse autonome nationale pendant un mois à compter de la publication de l'appel à candidatures au Bulletin périodique d'information ; copie doit être adressée au directeur régional des affaires sanitaires et sociales dont relève l'organisme dans lequel les candidats exercent leurs fonctions.
 
 Pour chaque nomination, le directeur de la Caisse autonome nationale propose au conseil d'administration concerné une liste d'au plus trois noms, établie après avis du comité d'évaluation institué par le présent article. Le directeur de la Caisse autonome nationale informe chaque candidat de la présence ou de l'absence de son nom sur cette liste.
 
@@ -40,12 +40,14 @@ Le comité se réunit sur convocation de son président, en tant que de besoin e
 
 Nomination des autres cadres de direction
 
-Les autres cadres de direction des sociétés de secours minières et des unions régionales de sociétés de secours minières sont nommés par le conseil d'administration, sur proposition du directeur de l'organisme parmi les personnes inscrites sur la liste d'aptitude visée à l'article R. 123-45 du code de la sécurité sociale.
+Les autres cadres de direction des caisses régionales de la sécurité sociale dans les mines sont nommés par le conseil d'administration, sur proposition du directeur de l'organisme parmi les personnes inscrites sur la liste d'aptitude visée à l'article R. 123-45 du code de la sécurité sociale.
 
 Toutes les nominations susvisées sont soumises à l'agrément du préfet de région après avis, en ce qui concerne l'agent comptable, du trésorier-payeur général compétent pour la circonscription. Le refus d'agrément empêche les intéressés de continuer leurs fonctions ; son retrait met fin à celles-ci.
 
 Le directeur de la caisse autonome nationale est nommé par décret rendu sur le rapport du ministre chargé de la sécurité sociale. Son directeur adjoint est nommé par arrêté des ministres chargés de la sécurité sociale, du budget et des mines, son agent comptable par arrêté des ministres chargés de la sécurité sociale et du budget sur proposition du directeur. Les autres agents de direction sont nommés, sur proposition du directeur, par le conseil d'administration ; le refus d'agrément empêche les intéressés de continuer leurs fonctions ; son retrait met fin à celles-ci.
 
 Les directeurs et les agents comptables des organismes mentionnés à l'article 10 exercent leurs fonctions dans les conditions prévues par les articles D. 253-4 à D. 253-7, D. 253-9 à D. 253-13 et D. 253-64 à D. 253-83 du code de la sécurité sociale.
+
+_Ces dispositions ne s'appliquent pas au directeur et à l'agent comptable de la Caisse autonome nationale pour les missions confiées à la Caisse des dépôts et consignations (1)._
 
 L'intérim des fonctions d'agent comptable des organismes mentionnés à l'article 10 est assuré dans les conditions prévues par l'article D. 253-14 du code de la sécurité sociale.
