@@ -8,6 +8,7 @@
 - [Décret n°75-267 du 15 avril 1975](decret-n75-267-du-15-avril-1975)
 - [Décret n°73-899 du 18 septembre 1973](decret-n73-899-du-18-septembre-1973)
 - [Décret n°74-522 du 20 mai 1974](decret-n74-522-du-20-mai-1974)
+- [Décret n°71-1140 du 21 décembre 1971](decret-n71-1140-du-21-decembre-1971)
 - [Décret n°72-513 du 22 juin 1972](decret-n72-513-du-22-juin-1972)
 - [Décret n°73-979 du 22 octobre 1973](decret-n73-979-du-22-octobre-1973)
 - [Décret n°72-148 du 23 février 1972](decret-n72-148-du-23-fevrier-1972)
