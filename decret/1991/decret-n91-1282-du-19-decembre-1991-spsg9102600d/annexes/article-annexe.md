@@ -28,19 +28,71 @@ VIII.  Documentalistes.
 
 IX.  Correspondants logistiques dans les bureaux d'affaires générales.
 
-Ministère chargé des affaires sociales et ministère chargé de la santé
+FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE DANS LES SERVICES CENTRAUX DU MINISTÈRE CHARGÉ DES AFFAIRES SOCIALES ET DE LA SANTÉ
 
-X. - Chef des ateliers.
+A compter du 1er août 1995
 
-XI. - Assistants techniques des ateliers.
+1. Responsables des secrétariats particuliers des :
 
-XII. - Responsables d'atelier.
+- délégués ;
 
-XIII. - Adjoint du chef des ateliers.
+- directeurs généraux et directeurs de l'administration centrale ;
 
-XIV. - Agents d'orientation standardistes.
+- chef du service de l'inspection générale des affaires sociales ;
 
-XV. - Personnels exerçant des fonctions de documentation.
+- chef du service des droits des femmes ;
+
+- chef du service des statistiques, études et des systèmes d'information ;
+
+- chefs de service et sous-directeurs de l'administration centrale ;
+
+- contrôleur financier.
+
+2. Régisseurs d'avances et régisseurs de recettes.
+
+3. Responsables de la réalisation des tâches de photocomposition et de reprographie.
+
+4. Chargés de mission départementale au service des droits des femmes.
+
+5. Agents chargés de l'accueil.
+
+6. Personnels du service social.
+
+7. Chef des ateliers.
+
+8. Assistants techniques des ateliers.
+
+9. Responsables des ateliers.
+
+10. Adjoint du chef des ateliers.
+
+11. Agents d'orientation standardistes.
+
+12. Personnels chargés des soins.
+
+13. Personnels exerçant des fonctions de documentation.
+
+14. Chef magasinier.
+
+15. Magasiniers.
+
+16. Responsable du standard.
+
+17. Régisseur de la salle de conférences.
+
+18. Responsable du service du courrier central.
+
+19. Agents du service du courrier central.
+
+20. Responsable de la gestion et de la maintenance des télécopieurs.
+
+21. Responsables sécurité incendie.
+
+22. Responsables des concours.
+
+23. Agents chargés de l'audiovisuel.
+
+24. Agents chargés de la maintenance immobilière.
 
 FONCTIONS EXERCÉES POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE DANS LES SERVICES CENTRAUX DU TRAVAIL, DE L'EMPLOI ET DE LA FORMATION PROFESSIONNELLE
 
