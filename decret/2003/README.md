@@ -518,6 +518,7 @@
 - [Décret n°2003-689 du 24 juillet 2003 (ECOT0337056D)](decret-n2003-689-du-24-juillet-2003-ecot0337056d)
 - [Décret n°2003-912 du 24 septembre 2003 (INTB0300230D)](decret-n2003-912-du-24-septembre-2003-intb0300230d)
 - [Décret n°76-832 du 24 août 1976](decret-n76-832-du-24-aout-1976)
+- [Décret n°90-89 du 24 janvier 1990 (AGRA8902380D)](decret-n90-89-du-24-janvier-1990-agra8902380d)
 - [Décret n°93-439 du 24 mars 1993 (MENF9304678D)](decret-n93-439-du-24-mars-1993-menf9304678d)
 - [Décret n°95-473 du 24 avril 1995 (INTB9500097D)](decret-n95-473-du-24-avril-1995-intb9500097d)
 - [Décret du 25 août 2003 (AGRP0300395D)](decret-du-25-aout-2003-agrp0300395d)
