@@ -16,6 +16,7 @@
 - [Article 5-9](article-5-9.md)
 - [Article 5-10](article-5-10.md)
 - [Article 5-11](article-5-11.md)
+- [Article 5-12](article-5-12.md)
 - [Article 5-15](article-5-15.md)
 - [Article 5-16](article-5-16.md)
 - [Article 5-17](article-5-17.md)
