@@ -1,0 +1,3 @@
+# Article 3
+
+Le directeur général de l'administration et de la fonction publique au ministère de la fonction publique et des réformes administratives, le directeur de l'administration générale au ministère de l'équipement, du logement, des transports et de la mer, le directeur de l'administration générale et de la modernisation des services au ministère du travail, de l'emploi et de la formation professionnelle et le directeur général de l'administration au ministère de l'agriculture et de la forêt sont chargés, chacun en ce qui concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

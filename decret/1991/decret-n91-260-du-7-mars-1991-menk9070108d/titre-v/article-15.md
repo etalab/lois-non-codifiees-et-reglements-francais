@@ -1,0 +1,3 @@
+# Article 15
+
+Les candidats qui ne remplissent pas les conditions d'ancienneté de diplôme mentionnées à l'article 7 sont autorisés par le ministre chargé des sports à s'inscrire aux brevets d'Etat du second ou du troisième degré s'ils justifient d'une expérience professionnelle ou sportive d'une durée équivalente à celles mentionnées à cet article ayant conduit à des titres professionnels ou sportifs particuliers.

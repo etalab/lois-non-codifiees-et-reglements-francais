@@ -12,8 +12,8 @@ Le coefficient Co est l'évaluation théorique des consommations de ce même log
 
 Le coefficient Co est évalué conformément à la méthode de calcul du C visée à l'article 4 du deuxième arrêté du 5 avril 1988 susvisé.
 
-Deux seuils sont définis pour le label solaire correspondant à des valeurs de CS au moins égales à 15 et 30.
+Deux seuils sont définis pour le label solaire correspondant à des valeurs de CS au moins égales à 10 et 20.
 
-Les opérations qui obtiennent un label haute performance énergétique trois étoiles et pour lesquelles chaque logement présente une contribution solaire CS supérieure ou égale à 15 pourront bénéficier d'un label solaire trois étoiles.
+Les opérations qui obtiennent un label haute performance énergétique trois étoiles et pour lesquelles chaque logement présente une contribution solaire CS supérieure ou égale à 10 pourront bénéficier d'un label solaire trois étoiles.
 
-Les opérations qui obtiennent un label haute performance énergétique quatre étoiles et pour lesquelles chaque logement présente une contribution solaire CS supérieure ou égale à 30 pourront bénéficier d'un label solaire quatre étoiles.
+Les opérations qui obtiennent un label haute performance énergétique quatre étoiles et pour lesquelles chaque logement présente une contribution solaire CS supérieure ou égale à 20 pourront bénéficier d'un label solaire quatre étoiles.
