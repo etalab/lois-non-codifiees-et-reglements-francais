@@ -168,7 +168,6 @@
 - [Décret n°79-558 du 27 juin 1979](decret-n79-558-du-27-juin-1979)
 - [Décret n°79-638 du 27 juillet 1979](decret-n79-638-du-27-juillet-1979)
 - [Décret n°79-641 du 27 juillet 1979](decret-n79-641-du-27-juillet-1979)
-- [Décret n°79-835 du 27 septembre 1979](decret-n79-835-du-27-septembre-1979)
 - [Décret n°79-848 du 27 septembre 1979](decret-n79-848-du-27-septembre-1979)
 - [Décret du 28 novembre 1979](decret-du-28-novembre-1979)
 - [Décret n°79-1013 du 28 novembre 1979](decret-n79-1013-du-28-novembre-1979)
