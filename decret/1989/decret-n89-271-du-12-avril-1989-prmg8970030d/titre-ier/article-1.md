@@ -10,8 +10,8 @@ Le présent décret fixe les conditions et les modalités de règlement des frai
 
 4. Pour se rendre d'un département d'outre-mer dans un autre département d'outre-mer.
 
-Le présent décret ne s'applique pas aux voyages de congés bonifiés [*champ d'application*].
+Le présent décret ne s'applique pas aux voyages de congés bonifiés.
 
-Pour l'application du présent décret, les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon sont considérées comme des départements d'outre-mer.
+Pour l'application du présent décret, Mayotte et Saint-Pierre-et-Miquelon sont considérés comme des départements d'outre-mer.
 
 Le présent décret est également applicable au règlement des frais de déplacement à la charge des budgets des organismes qui sont soumis au contrôle économique et financier de l'Etat et dont les dépenses de fonctionnement sont couvertes au moins à 25 p. 100 par des subventions de l'Etat et des établissements visés au premier alinéa, par la perception de taxes parafiscales ou par la vente de produits du domaine public ou privé de l'Etat ou des collectivités publiques. Un arrêté conjoint du ministre chargé du budget et du ministre intéressé pourra fixer des modalités particulières d'application du présent décret à chacun de ces organismes ou établissements. Jusqu'à l'intervention de cet arrêté, les régimes particuliers de remboursement des frais de déplacement actuellement en vigueur pourront continuer d'être appliqués, mais ne pourront faire l'objet d'aucune revalorisation.

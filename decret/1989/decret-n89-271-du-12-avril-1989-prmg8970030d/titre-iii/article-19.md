@@ -10,7 +10,7 @@ a) Par une suppression d'emploi ;
 
 b) Par une mutation pour pourvoir un emploi vacant pour lequel aucune candidature n'a été présentée ou lorsque l'autorité ayant pouvoir de nomination a écarté toutes le candidatures présentées ; pour l'application de ces dispositions, le consentement des magistrats de l'ordre judiciaire, lorsqu'il est statutairement exigé, n'est pas assimilable à une candidature ;
 
-c) Par une promotion de grade ou, pour les magistrats, par une nomination à un groupe de fonctions hiérarchiquement supérieur ou à un emploi classé hors hiérarchie ;
+c) Par une promotion de grade ou, pour les magistrats, par une nomination à un emploi hors hiérarchie ;
 
 d) Par une nomination :
 
@@ -22,7 +22,7 @@ e) Par une nomination dans un autre corps de même catégorie ou de catégorie s
 
 f) Par une réintégration à l'expiration d'un congé de longue maladie ou de longue durée, conformément aux dispositions de l'article 46 du décret n° 86-442 du 14 mars 1986 relatif, notamment, au régime des congés de maladie des fonctionnaires ;
 
-g) Par l'accomplissement des obligations statutaires prévues par les dispositions de l'article 1er du décret n° 72-555 du 30 juin 1972 relatif à l'emploi des fonctionnaires des corps recrutés par la voie de l'Ecole nationale d'administration et des administrateurs des postes et télécommunications et de l'article 9 du décret n° 58-1277 du 22 décembre 1958 pris pour l'application de l'ordonnance du 22 décembre 1958 susvisée ;
+g) Par l'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 39, alinéas 2 et 3, de l'ordonnance du 22 décembre 1958 susvisée et par les dispositions de l'article 1er du décret n° 97-274 du 21 mars 1997 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale de l'administration et des administrateurs des postes et télécommunications ;
 
 h) Par un retour au lieu de la résidence habituelle reconnu indispensable en raison de l'état de santé de l'agent par le comité médical prévu par le décret n° 86-442 du 14 mars 1986 ;
 
@@ -42,6 +42,6 @@ Dans les cas visés au 2 ci-dessus, les indemnités prévues aux articles 26 et 
 
 Sous réserve des articles 20 et 21 ci-après, les agents n'ont droit à aucun remboursement ou indemnisation dans tous les autres cas, notamment dans celui de première nomination dans la fonction publique, de déplacement d'office prononcé après une procédure disciplinaire, ainsi que dans celui de mise en disponibilité, en service détaché dans un emploi ne conduisant pas à pension du code des pensions civiles et militaires de retraite ou en position hors cadre au sens des dispositions statutaires relatives à la fonction publique de l'Etat.
 
-II. -Changement de résidence à l'intérieur d'un même département d'outre-mer
+Par exception aux dispositions précédentes relatives à la première nomination dans la fonction publique, l'agent contractuel nommé à un premier emploi de fonctionnaire peut être indemnisé de ses frais de changement de résidence, sous réserve d'avoir accompli la durée de services mentionnée au I, 2 (a) du présent article.
 
-Les droits des agents qui changent de résidence à l'intérieur d'un département d'outre-mer sont appréciés dans les conditions prévues par le décret du 10 août 1966 susvisé.
+II. - Les droits des agents qui changent de résidence à l'intérieur d'un département d'outre-mer sont appréciés dans les conditions prévues par le décret n° 90-437 du 28 mai 1990 modifié fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés.
