@@ -1,3 +1,5 @@
 # Article 18
 
-Pendant une période de cinq ans à compter de l'entrée en vigueur du présent décret, les limites d'âge supérieures fixées en ce qui concerne l'admission aux épreuves des examens et concours visés à l'article 5 ci-dessus ne sont pas opposables aux maîtres en fonctions à la date de publication du présent décret.
+Les concours institués par l'article 4 du présent décret seront organisés progressivement à partir de l'année 1994.
+
+Jusqu'au premier septembre de l'année précédant la première session du concours dans la section ou éventuellement l'option, un contrat provisoire d'un an, renouvelable par tacite reconduction, pourra être attribué à des candidats justifiant de l'un des titres de capacité exigés des candidats aux concours externes correspondants de l'enseignement public. Les maîtres ou les documentalistes ainsi recrutés sont classés en fonction de leurs titres ou diplômes dans l'une des échelles de rémunération des maîtres auxiliaires.

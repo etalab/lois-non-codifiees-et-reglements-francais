@@ -1,12 +1,10 @@
 # Article 5-7
 
-Outre les concours ouverts en application de l'article 5 ci-dessus, un concours d'accès à l'échelle de rémunération des professeurs de lycée professionnel du 2e grade est ouvert aux maîtres ou aux documentalistes des établissements d'enseignement privés sous contrat qui remplissent l'une des conditions suivantes :
+Outre les concours ouverts en application des articles 4 et 5 ci-dessus, un concours d'accès à l'échelle de rémunération des professeurs de lycée professionnel du 2e grade est ouvert aux maîtres ou aux documentalistes des établissements d'enseignement privés sous contrat qui remplissent l'une des conditions suivantes :
 
 a) Bénéficier de l'échelle de rémunération des professeurs de lycée professionnel du 1er grade et avoir accompli deux années de services d'enseignement ou de documentation ;
 
 b) Justifier du diplôme d'études universitaires générales ou d'un brevet de technicien supérieur ou d'un diplôme universitaire de technologie ou d'un titre ou diplôme de niveau égal ou supérieur sanctionnant un cycle d'études post-secondaires d'au moins deux années et avoir accompli trois années de services d'enseignement ou de documentation.
-
-Toutefois, les candidats qui s'inscrivent, au titre d'une même session, à la fois au concours institué par le présent article et aux concours correspondants prévus à l'article 5 du présent décret ne peuvent prétendre au bénéfice des dispositions des deux derniers alinéas de l'article 5 précité.
 
 Les maîtres reçus au concours mentionné au présent article accèdent définitivement à l'échelle de rémunération des professeurs de lycée professionnel du deuxième grade à l'issue d'une période probatoire d'une année scolaire, selon des modalités fixées par arrêté du ministre chargé de l'éducation nationale. Ils sont classés dans l'échelle de rémunération des professeurs de lycée professionnel du deuxième grade dès le début de la période probatoire, selon les modalités fixées à l'article 10 du présent décret.
 
