@@ -2,7 +2,7 @@
 
 Le conseil supérieur de la coopération comprend :
 
-a. Huit représentants des administrations concernées par les activités coopérative, nommés par arrêté du Premier ministre ;
+a. Onze représentants des administrations concernées par les activités coopératives, nommés par arrêté du Premier ministre ;
 
 b. Quatre membres du Parlement désignés en nombre égal par l'Assemblée nationale et le Sénat ;
 

@@ -1,3 +1,5 @@
 # Article 7
 
-Un bureau provisoire désigné par arrêté du Premier ministre dans les conditions prévues à l'article 6 ci-dessus est chargé de préparer la prochaine réunion du conseil supérieur de la coopération.
+Le Conseil supérieur de la coopération et son bureau ne délibèrent valablement sur les questions portées à l'ordre du jour que si la majorité absolue de ses membres ayant voix délibérative est présente.
+
+Le président a voix prépondérante en cas de partage égal des voix.
