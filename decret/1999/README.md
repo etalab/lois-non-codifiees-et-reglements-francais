@@ -87,6 +87,7 @@
 - [Décret n°99-12 du 7 janvier 1999 (EQUU9801795D)](decret-n99-12-du-7-janvier-1999-equu9801795d)
 - [Décret n°99-13 du 7 janvier 1999 (ECOI9800912D)](decret-n99-13-du-7-janvier-1999-ecoi9800912d)
 - [Décret n°99-277 du 7 avril 1999 (ECOC9800094D)](decret-n99-277-du-7-avril-1999-ecoc9800094d)
+- [Décret n°99-470 du 7 juin 1999 (FPPA9910009D)](decret-n99-470-du-7-juin-1999-fppa9910009d)
 - [Décret n°99-9 du 7 janvier 1999 (ECOD9870033D)](decret-n99-9-du-7-janvier-1999-ecod9870033d)
 - [Décret n°99-353 du 7 mai 1999 (INTM9900009D)](decret-n99-353-du-7-mai-1999-intm9900009d)
 - [Décret n°99-356 du 7 mai 1999 (MCCT9900340D)](decret-n99-356-du-7-mai-1999-mcct9900340d)
