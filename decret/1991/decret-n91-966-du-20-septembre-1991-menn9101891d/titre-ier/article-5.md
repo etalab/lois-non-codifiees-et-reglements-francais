@@ -1,0 +1,7 @@
+# Article 5
+
+Les professeurs associés des universités à plein temps sont nommés pour une durée qui ne peut être inférieure à six mois ni supérieure à cinq ans. Dans cette dernière limite, au terme d'une période qu'il fixe, le décret de nomination peut prévoir que l'intéressé pourra, sur sa demande et sur proposition des instances de l'établissement mentionnées au premier alinéa de l'article 4 ci-dessus, être maintenu au moins une fois dans ses fonctions par arrêté du ministre chargé de l'enseignement supérieur et, s'il exerce simultanément des fonctions hospitalières, du ministre chargé de la santé.
+
+Les maîtres de conférences associés des universités sont nommés pour une durée qui ne peut être inférieure à six mois ni supérieure à un an. Sans pouvoir excéder cinq ans au total, leurs fonctions peuvent être renouvelées sur proposition des instances de l'établissement mentionnées au premier alinéa de l'article 4.
+
+Les chefs de clinique et les assistants associés des universités sont nommés pour une durée qui ne peut être inférieure à six mois ni supérieure à un an, renouvelable dans la limite des durées de service prévues pour les emplois hospitalo-universitaires correspondants par les décrets n° 84-135 du 24 février 1984 et n° 90-92 du 24 janvier 1990 susvisés. Le renouvellement des chefs de clinique et des assistants associés des universités est prononcé dans les conditions prévues au deuxième alinéa de l'article 4.

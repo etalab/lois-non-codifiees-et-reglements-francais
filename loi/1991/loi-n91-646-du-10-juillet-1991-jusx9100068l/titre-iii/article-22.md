@@ -1,0 +1,5 @@
+# Article 22
+
+Les juridictions compétentes pour ordonner des interceptions en application du code de procédure pénale ainsi que le Premier ministre ou, en ce qui concerne l'exécution des mesures prévues à l'article 20, le ministre de la défense ou le ministre de l'intérieur, peuvent recueillir, auprès des personnes physiques ou morales exploitant des réseaux de télécommunications ou fournisseurs de services de télécommunications les informations ou documents qui leur sont nécessaires, chacun en ce qui le concerne, pour la réalisation et l'exploitation des interceptions autorisées par la loi.
+
+La fourniture des informations ou documents visés à l'alinéa précédent ne constitue pas un détournement de leur finalité au sens de l'article 44 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.

@@ -36,4 +36,5 @@
 - [Loi n°91-429 du 13 mai 1991 (INTX9100005L)](loi-n91-429-du-13-mai-1991-intx9100005l)
 - [Loi n°91-593 du 25 juin 1991 (COMX9000175L)](loi-n91-593-du-25-juin-1991-comx9000175l)
 - [Loi n°91-6 du 4 janvier 1991 (DOMX9000091L)](loi-n91-6-du-4-janvier-1991-domx9000091l)
+- [Loi n°91-646 du 10 juillet 1991 (JUSX9100068L)](loi-n91-646-du-10-juillet-1991-jusx9100068l)
 - [Loi n°91-71 du 18 janvier 1991 (JUSX9000073L)](loi-n91-71-du-18-janvier-1991-jusx9000073l)

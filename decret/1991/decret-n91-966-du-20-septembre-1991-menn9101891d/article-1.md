@@ -1,0 +1,5 @@
+# Article 1
+
+Dans les centres hospitaliers et universitaires, des personnalités françaises et étrangères, dès lors qu'elles ne remplissent pas les conditions fixées par les statuts pour le recrutement en qualité de professeur et maître de conférences des universités - praticien hospitalier ou de professeur et maître de conférences des universités - praticien hospitalier des centres de soins, d'enseignement et de recherche dentaires, peuvent être recrutées en qualité de professeur ou de maître de conférences associé des universités. Elles exercent leurs fonctions à plein temps ou à mi-temps.
+
+Des personnalités ne remplissant pas les conditions statutaires pour être recrutées en qualité de chef de clinique des universités - assistant des hôpitaux, assistant hospitalier universitaire ou assistant hospitalier universitaire des centres de soins d'enseignement et de recherche dentaires peuvent être recrutées pour participer aux activités d'enseignement et de recherche en qualité de chef de clinique ou d'assistant associé des universités. Elles ne peuvent exercer que des fonctions à plein temps.
