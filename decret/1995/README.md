@@ -558,6 +558,8 @@
 - [Décret n°95-54 du 17 janvier 1995 (ACVA9410116D)](decret-n95-54-du-17-janvier-1995-acva9410116d)
 - [Décret n°95-841 du 17 juillet 1995 (ECOT9551448D)](decret-n95-841-du-17-juillet-1995-ecot9551448d)
 - [Décret n°95-924 du 17 août 1995 (SANP9502393D)](decret-n95-924-du-17-aout-1995-sanp9502393d)
+- [Décret n°95-927 du 17 août 1995 (INDG9500768D)](decret-n95-927-du-17-aout-1995-indg9500768d)
+- [Décret n°95-928 du 17 août 1995 (INDG9500809D)](decret-n95-928-du-17-aout-1995-indg9500809d)
 - [Décret n°97-246 du 17 mars 1997 (MENN9603521D)](decret-n97-246-du-17-mars-1997-menn9603521d)
 - [Décret n°97-259 du 17 mars 1997 (INTA9700048D)](decret-n97-259-du-17-mars-1997-inta9700048d)
 - [Décret n°94-1017 du 18 novembre 1994 (PRMG9470364D)](decret-n94-1017-du-18-novembre-1994-prmg9470364d)
