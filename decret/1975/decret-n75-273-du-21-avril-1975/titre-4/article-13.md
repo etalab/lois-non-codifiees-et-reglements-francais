@@ -1,5 +1,0 @@
-# Article 13
-
-Les membres de l'inspection générale des affaires sociales parvenus au moins au grade d'inspecteur, ainsi que les administrateurs civils parvenus au moins au 3ème échelon de la 1re classe et justifiant de cinq ans de services civils effectifs dans l'un des trois ministères mentionnés à l'article 1er ci-dessus peuvent être détachés sur un emploi de directeur du travail. La proportion des emplois ainsi pourvus ne peut excéder 20 % de l'effectif budgétaire du grade de directeur hors classe et 10 % de l'effectif de chacune des classes de directeur du travail.
-
-Les intéressés sont classés à l'échelon de ce grade comportant un indice égal ou immédiatement supérieur à celui qu'ils détenaient dans leur corps d'origine. Ils conservent l'ancienneté acquise dans leur ancien échelon si leur nomination leur procure une augmentation de traitement inférieure à celle qu'ils auraient obtenue par avancement d'échelon dans leur ancien grade ou, s'ils étaient parvenus à l'échelon terminal, à celle qui résultait de leur dernière promotion.
