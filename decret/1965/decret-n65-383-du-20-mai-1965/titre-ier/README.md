@@ -6,4 +6,3 @@
 ou directrices adjointes.](chapitre-ier)
 - [Chapitre II : Des professeurs](chapitre-ii)
 - [Chapitre III : Des adjoints d’enseignement](chapitre-iii)
-- [Chapitre IV : Des professeurs techniques adjoints](chapitre-iv)
