@@ -1,3 +1,5 @@
 # Article 1
 
-En vue de concourir au financement des dépenses d'investissement du budget annexe des postes et télécommunications, il sera émis à compter du 1er septembre 1977 des bons à intérêt progressif d'une durée maximale de cinq ans, dénommés Bons d'épargne des P.T.T..
+Le délai de mandatement du solde des marchés, d'une durée supérieure à six mois, faisant référence au cahier des clauses administratives générales applicables aux marchés publics de travaux, est de deux mois à compter de la notification du décompte général au titulaire du marché.
+
+Le délai de mandatement du solde des marchés, d'une durée supérieure à six mois, faisant référence au cahier des clauses administratives générales applicables aux marchés industriels, est de soixante-quinze jours à compter de la date d'effet de la réception des prestations ou de la date de réception de la facture si celle-ci est postérieure à la précédente.

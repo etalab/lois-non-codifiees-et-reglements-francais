@@ -1,4 +1,4 @@
-# Arrêté du 29 août 1977 relatif à l'ouverture de l'émission de bons d'épargne des P.T.T.
+# Arrêté du 29 août 1977 relatif aux intérêts moratoires dus au titre des marchés de l'Etat
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
