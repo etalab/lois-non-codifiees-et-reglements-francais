@@ -1,0 +1,9 @@
+# Article 2
+
+L'inspection générale de l'architecture et du patrimoine a pour mission de suivre, d'inspecter et d'évaluer, en liaison avec l'inspection générale de l'administration des affaires culturelles, l'action des services de la direction de l'architecture et du patrimoine, des services intervenant dans ces domaines sous l'autorité des directeurs régionaux des affaires culturelles, des services départementaux de l'architecture et du patrimoine ainsi que des organismes placés sous la tutelle ou le contrôle de la direction.
+
+Elle formule des avis scientifiques, techniques, esthétiques et architecturaux et participe au contrôle de l'application du code du patrimoine en matière d'archéologie, d'inventaire général du patrimoine culturel, de monuments historiques, de secteurs sauvegardés et de zones de protection du patrimoine architectural, urbain et paysager et, à ce titre, elle participe aux travaux des instances consultatives compétentes dans le domaine de l'architecture et du patrimoine.
+
+Elle contribue directement au contrôle scientifique et technique de l'Etat dans le domaine de l'archéologie, de l'inventaire général du patrimoine culturel ou de l'exécution des travaux sur les monuments historiques.
+
+Elle conseille les directeurs sur la définition des orientations de la politique en matière d'architecture et de patrimoine. Elle participe à l'évaluation des carrières des personnels. Avec l'accord des directeurs, elle fait bénéficier de son expérience et de ses conseils, à leur demande, les services de la direction, les organismes placés sous sa tutelle ainsi que les organismes avec lesquels elle est liée par convention. Un de ses membres peut être chargé par un des directeurs d'animer ou de coordonner l'action des services de la direction sur un thème intéressant plusieurs d'entre eux.
