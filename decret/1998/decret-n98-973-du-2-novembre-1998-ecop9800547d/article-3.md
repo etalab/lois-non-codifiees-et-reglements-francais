@@ -10,4 +10,6 @@ Elle définit la politique immobilière du ministère.
 
 Elle facilite et coordonne les échanges entre les directions.
 
+Elle développe la recherche historique et prospective sur les domaines relevant de la compétence du ministère.
+
 Elle prépare le budget du ministère et en suit l'exécution.
