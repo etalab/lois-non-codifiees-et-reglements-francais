@@ -259,8 +259,6 @@
 - [Décret n°86-664 du 14 mars 1986](decret-n86-664-du-14-mars-1986)
 - [Décret n°86-665 du 14 mars 1986](decret-n86-665-du-14-mars-1986)
 - [Décret n°86-666 du 14 mars 1986](decret-n86-666-du-14-mars-1986)
-- [Décret n°86-675 du 14 mars 1986](decret-n86-675-du-14-mars-1986)
-- [Décret n°86-676 du 14 mars 1986](decret-n86-676-du-14-mars-1986)
 - [Décret n°86-684 du 14 mars 1986](decret-n86-684-du-14-mars-1986)
 - [Décret n°86-687 du 14 mars 1986](decret-n86-687-du-14-mars-1986)
 - [Décret n°86-708 du 14 avril 1986](decret-n86-708-du-14-avril-1986)

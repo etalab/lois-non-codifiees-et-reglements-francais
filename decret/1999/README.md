@@ -593,7 +593,6 @@
 - [Décret n°99-1104 du 21 décembre 1999 (JUSB9910478D)](decret-n99-1104-du-21-decembre-1999-jusb9910478d)
 - [Décret n°99-1106 du 21 décembre 1999 (INTB9900298D)](decret-n99-1106-du-21-decembre-1999-intb9900298d)
 - [Décret n°99-1107 du 21 décembre 1999 (DEFP9902174D)](decret-n99-1107-du-21-decembre-1999-defp9902174d)
-- [Décret n°99-1108 du 21 décembre 1999 (AGRS9901655D)](decret-n99-1108-du-21-decembre-1999-agrs9901655d)
 - [Décret n°99-1109 du 21 décembre 1999 (MESF9911629D)](decret-n99-1109-du-21-decembre-1999-mesf9911629d)
 - [Décret n°99-1110 du 21 décembre 1999 (MESF9911630D)](decret-n99-1110-du-21-decembre-1999-mesf9911630d)
 - [Décret n°99-1112 du 21 décembre 1999 (ECOP9900874D)](decret-n99-1112-du-21-decembre-1999-ecop9900874d)
