@@ -1,3 +1,3 @@
 # Article 1
 
-Est approuvé le cahier des charges type annexé au présent décret, applicable aux concessions de transport de gaz à distance par canalisations en vue de la fourniture du gaz combustible en application de l'article 4 du décret n° 50-578 du 24 mai 1950, modifié par le décret n° 51-440 du 17 avril 1951.
+Est approuvé le cahier des charges type annexé au présent décret, applicable aux canalisations de transport de gaz autorisées en application du décret n° 85-1108 du 15 octobre 1985 relatif au régime des transports de gaz combustibles par canalisations.
