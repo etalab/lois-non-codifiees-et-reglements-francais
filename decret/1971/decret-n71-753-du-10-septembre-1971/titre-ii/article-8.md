@@ -1,3 +1,3 @@
 # Article 8
 
-Les personnes autres que la société nationale précitée peuvent être autorisées à exécuter des opérations de production, d'importation, de vente ou d'exportation de poudres et substances explosives destinées à un usage civil dans les conditions fixées par les articles 8-1 à 8-7 ci-après.
+Toute personne qui entend exécuter des opérations de production, de transfert, d'importation, de vente, d'exportation de poudres et de substances explosives destinées à un usage civil doit y être autorisée dans les conditions fixées par les articles 8-1 à 8-9 ci-après.
