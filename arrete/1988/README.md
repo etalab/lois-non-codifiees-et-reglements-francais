@@ -315,7 +315,6 @@
 - [Arrêté du 15 février 1988 (RESP8800170A)](arrete-du-15-fevrier-1988-resp8800170a)
 - [Arrêté du 15 janvier 1988 (INTE8800013A)](arrete-du-15-janvier-1988-inte8800013a)
 - [Arrêté du 15 janvier 1988 (MCCB8800042A)](arrete-du-15-janvier-1988-mccb8800042a)
-- [Arrêté du 15 juin 1988 (AGRG8801049A)](arrete-du-15-juin-1988-agrg8801049a)
 - [Arrêté du 15 mars 1988 (AGRP8800505A)](arrete-du-15-mars-1988-agrp8800505a)
 - [Arrêté du 15 mars 1988 (AGRP8800506A)](arrete-du-15-mars-1988-agrp8800506a)
 - [Arrêté du 15 mars 1988 (BUDL8800015A)](arrete-du-15-mars-1988-budl8800015a)
