@@ -1,81 +1,29 @@
 # Article 3
 
-La commission se réunit au moins deux fois par an en réunion plénière.
+Les comptes d'impôt des contribuables défaillants sont constitués à partir des informations provenant de la phase amiable du recouvrement de l'impôt :
 
-Elle est présidée par le ministre des affaires sociales et de la solidarité nationale ou son représentant.
+- identité (n° S.P.I., nom, prénoms, sexe, date et lieu de naissance) ;
 
-Elle comprend :
+- adresse ;
 
-Au titre du ministère des affaires sociales et de la solidarité nationale
+- imposition (nature et montant des impositions dues).
 
-Le secrétaire d'Etat aux personnes âgées ou son représentant ;
+Les comptes d'impôts sont complétés d'informations nécessaires au recouvrement, collectées par les agents de la comptabilité publique et de la direction générale des impôts au cours de la phase du recouvrement forcé de l'impôt ;
 
-Le secrétaire d'Etat à la santé ou son représentant ;
+- liens entre les personnes physiques (en cas de solidarité ou d'indivision) ;
 
-Le secrétaire d'Etat aux rapatriés ou son représentant ;
+- n° SIRET éventuellement ;
 
-Le directeur général de la santé ou son représentant ;
+- nom et adresse des tiers détenteurs de fonds (employeurs, organismes bancaires, officiers ministériels) ;
 
-Le directeur de l'administration générale, du personnel et du budget ou son représentant ;
+- diligences et poursuites exercées ;
 
-Le directeur des hôpitaux ou son représentant ;
+- versements effectués ;
 
-Le directeur de la sécurité sociale ou son représentant ;
+- informations sur la situation financière du contribuable :
 
-Le directeur de l'action sociale ou son représentant ;
+- ces dernières, recueillies dans le cadre du droit de communication, sont exclusives de toute appréciation subjective, et leur exploitation informatique est limitée à leur enregistrement, leur visualisation et leur effacement ;
 
-Le directeur de la pharmacie et du médicament ou son représentant ;
+- ces informations donnent lieu à un droit d'accès immédiat, par la remise d'une recopie de l'écran obtenue sur l'imprimante connectée au terminal du poste comptable.
 
-Le directeur de la population et des migrations ou son représentant ;
-
-Le directeur général du Laboratoire national de la santé ;
-
-Le chef de l'inspection générale des affaires sociales ou son représentant ;
-
-Un représentant des directeurs régionaux des affaires sanitaires et sociales ;
-
-Un représentant des directeurs départementaux des affaires sanitaires et sociales.
-
-Au titre d'organismes intervenant dans le domaine sanitaire et social
-
-Le directeur de la Caisse nationale d'assurance maladie des travailleurs salariés ou son représentant ;
-
-Le directeur de la Caisse nationale d'assurance vieillesse des travailleurs salariés ou son représentant ;
-
-Le directeur de la Caisse nationale des allocations familiales ou son représentant ;
-
-Le directeur de l'Agence centrale des organismes de sécurité sociale ou son représentant ;
-
-Le directeur de l'Institut national de la santé et de la recherche médicale ou son représentant ;
-
-Le directeur de l'Agence nationale du développement de l'informatique hospitalière ou son représentant.
-
-Au titre des organisations professionnelles représentatives
-
-Le président de la confédération syndicale des médecins de France ou son représentant ;
-
-Le président de la fédération des médecins de France ou son représentant ;
-
-Le président de la fédération nationale de la mutualité française ou son représentant ;
-
-Le président de la fédération nationale de la mutualité des travailleurs ou son représentant ;
-
-Le président de la mutuelle sociale agricole ou son représentant ;
-
-Le président de la fédération hospitalière de France ou son représentant ;
-
-Le président de l'union hospitalière privée ou son représentant ;
-
-Le président de la fédération intersyndicale des établissements d'hospitalisation privés ;
-
-Le président de la fédération des établissements d'hospitalisation et d'assistance privés à but non lucratif ou son représentant ;
-
-Le président du syndicat national de l'industrie pharmaceutique ou son représentant ;
-
-Le président de la fédération française des industries du médicament ou son représentant ;
-
-Le président des syndicats pharmaceutiques de France ou son représentant ;
-
-Le président de l'union nationale des pharmaciens de France ou son représentant.
-
-La commission peut entendre toute personnalité représentant une administration ou un organisme intéressé par les travaux.
+Les données sont supprimées du fichier accessible en temps réel, dans l'année qui suit le recouvrement ou l'admission en non-valeur. Elles sont alors conservées sur microfiches.

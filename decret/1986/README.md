@@ -30,6 +30,8 @@
 - [Décret n°85-885 du 12 août 1985](decret-n85-885-du-12-aout-1985)
 - [Décret n°85-886 du 12 août 1985](decret-n85-886-du-12-aout-1985)
 - [Décret n°86-73 du 13 janvier 1986](decret-n86-73-du-13-janvier-1986)
+- [Décret n°86-74 du 15 janvier 1986](decret-n86-74-du-15-janvier-1986)
+- [Décret n°86-77 du 15 janvier 1986](decret-n86-77-du-15-janvier-1986)
 - [Décret n°86-852 du 17 juillet 1986](decret-n86-852-du-17-juillet-1986)
 - [Décret n°86-232 du 18 février 1986](decret-n86-232-du-18-fevrier-1986)
 - [Décret n°85-1346 du 19 décembre 1985](decret-n85-1346-du-19-decembre-1985)
