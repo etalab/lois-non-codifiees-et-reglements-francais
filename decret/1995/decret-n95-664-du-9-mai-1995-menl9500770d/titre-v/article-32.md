@@ -1,7 +1,7 @@
 # Article 32
 
-Les spécialités de brevet professionnel créées en application du décret n° 79-332 du 25 avril 1979 modifié sont préparées et délivrées dans les conditions prévues par ledit décret, sous réserve des dispositions des alinéas suivants.
+Les dispositions des articles 11, 12, alinéa 1, 13, 17 à 21 et 23 du présent décret entrent en vigueur :
 
-Pour ces spécialités, les dispositions des articles 12, alinéa 3, 14, 15 et 16 du présent décret entreront en application à compter du 1er septembre 1995, et les dispositions des articles 12, alinéa 1, 19, 20, 21 et 22 du présent décret à compter de la session d'examen de 1997, dans les conditions fixées par arrêté du ministre chargé de l'éducation nationale.
+- à compter de la session 1998 pour les spécialités du brevet professionnel créées ou rénovées au 1er septembre 1996, ainsi que pour les spécialités de brevet professionnel dont le référentiel de certification organisé en unités sera mis en oeuvre à la rentrée 1997 ;
 
-Les dispositions des articles 7, alinéa 2, 9 et 10 seront applicables à compter du 1er septembre 1996. Toutefois, à titre expérimental, elles pourront entrer en application à compter du 1er septembre 1995 dans des conditions définies par le ministre chargé de l'éducation nationale.
+- à compter de la session 1999 pour les spécialités de brevet professionnel créées ou rénovées et mises en oeuvre à la rentrée 1997. Toutefois, les candidats engagés dans des formations correspondant à ces spécialités et dont la durée de formation aura été aménagée passeront l'examen conformément aux dispositions du présent décret à la session 1998.
