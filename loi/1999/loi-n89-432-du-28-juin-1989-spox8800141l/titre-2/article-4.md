@@ -1,0 +1,3 @@
+# Article 4
+
+Les ministres compétents agréent des fonctionnaires du ministère chargé des sports et des vétérinaires, qui sont assermentés dans des conditions fixées par décret en Conseil d'Etat pour procéder [*attribution*], sur instruction du ministre chargé des sports, aux enquêtes et contrôles nécessaires à l'application de la présente loi. Ces enquêtes et contrôles peuvent être également demandés par les fédérations sportives. Dans les mêmes conditions, les fonctionnaires du ministère chargé des sports agréés et assermentés en application du présent article peuvent seuls procéder à des perquisitions et saisies selon les modalités prévues à l'article 7.

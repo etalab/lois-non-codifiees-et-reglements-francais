@@ -11,3 +11,4 @@
 - [Loi n° 99-5 du 6 janvier 1999 (AGRX9800014L)](loi-n-99-5-du-6-janvier-1999-agrx9800014l)
 - [Loi n° 99-56 du 28 janvier 1999 (MAEX9800119L)](loi-n-99-56-du-28-janvier-1999-maex9800119l)
 - [Loi n° 99-67 du 3 février 1999 (ECOX9800147L)](loi-n-99-67-du-3-fevrier-1999-ecox9800147l)
+- [Loi n°89-432 du 28 juin 1989 (SPOX8800141L)](loi-n89-432-du-28-juin-1989-spox8800141l)
