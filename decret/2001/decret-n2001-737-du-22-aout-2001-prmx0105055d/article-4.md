@@ -1,0 +1,5 @@
+# Article 4
+
+L'agence fournit un appui aux administrations pour la conception et le développement de leurs projets techniques, contribue à assurer la coordination de ces projets et favorise le transfert des compétences et des savoir-faire. Elle élabore des modèles de cahiers des charges.
+
+Elle apporte son concours à la politique mise en oeuvre par le ministre chargé de la réforme de l'Etat pour développer l'usage des technologies de l'information et de la communication dans les administrations de l'Etat. Elle participe, notamment avec la délégation interministérielle à la réforme de l'Etat, aux actions de formation des agents de l'Etat à ces technologies et s'attache, en particulier, au développement des compétences techniques et de maîtrise d'ouvrage. Elle peut émettre des recommandations sur le contenu des formations techniques et sur les programmes des examens professionnels et des concours organisés pour le recrutement des agents de l'Etat chargés des systèmes d'information et de communication.
