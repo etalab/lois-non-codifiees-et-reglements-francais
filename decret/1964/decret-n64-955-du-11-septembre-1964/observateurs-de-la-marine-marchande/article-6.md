@@ -1,0 +1,3 @@
+# Article 6
+
+Les officiers, les radio-électriciens et personnels de la marine marchande appelés à effectuer et à transmettre des observations météorologiques à bord des navires de la marine marchande et à bord des stations maritimes fixes (bouées, bateaux-feux et plates-formes maritimes de forages pétroliers, etc.) perçoivent pour chaque observation effectuée et transmise conformément aux instructions de la direction de la météorologie nationale, des indemnités pour travaux supplémentaires allouées trimestriellement et à terme échu dont les taux sont fixés par arrêté pris conjointement par le ministre de l'économie et des finances, le secrétaire d'Etat aux transports et le secrétaire d'Etat auprès du Premier ministre (Fonction publique).
