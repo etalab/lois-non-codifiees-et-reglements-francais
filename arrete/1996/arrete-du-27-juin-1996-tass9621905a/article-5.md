@@ -2,6 +2,8 @@
 
 Sauf décision souveraine du jury, les candidats ne peuvent pas se présenter plus de deux fois aux épreuves de cet examen.
 
-En aucun cas les notes obtenues aux épreuves écrites ne pourront être maintenues d'une année sur l'autre.
+En aucun cas la note obtenue à l'épreuve écrite d'admission ne pourra être maintenue d'une année sur l'autre.
 
-Par dérogation à l'alinéa précédent, les candidats du cycle 1995-1996 autorisés à redoubler par le jury dans le cadre des dispositions antérieurement en vigueur conserveront, pour 1997 uniquement, le bénéfice de l'épreuve écrite d'admissibilité portant sur les écritures comptables passée en 1996.
+En revanche, le bénéfice de l'admissibilité est maintenu si le candidat représente l'examen l'année suivante.
+
+A titre transitoire, les candidats du cycle 1995-1996 autorisés à redoubler par le jury dans le cadre des dispositions antérieurement en vigueur conserveront, pour 1997 uniquement, le bénéfice de l'épreuve d'admissibilité portant sur les écritures comptables passée en 1996.

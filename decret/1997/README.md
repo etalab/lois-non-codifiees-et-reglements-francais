@@ -135,6 +135,8 @@
 - [Décret n°97-61 du 23 janvier 1997 (DEFX9600153D)](decret-n97-61-du-23-janvier-1997-defx9600153d)
 - [Décret n°96-1133 du 24 décembre 1996 (TAST9611675D)](decret-n96-1133-du-24-decembre-1996-tast9611675d)
 - [Décret n°97-163 du 24 février 1997 (AGRS9700228D)](decret-n97-163-du-24-fevrier-1997-agrs9700228d)
+- [Décret n°97-164 du 24 février 1997 (EQUP9700195D)](decret-n97-164-du-24-fevrier-1997-equp9700195d)
+- [Décret n°97-166 du 24 février 1997 (TASS9720086D)](decret-n97-166-du-24-fevrier-1997-tass9720086d)
 - [Décret n°97-440 du 24 avril 1997 (DEFP9701229D)](decret-n97-440-du-24-avril-1997-defp9701229d)
 - [Décret n°99-902 du 25 octobre 1999 (JUSE9940002D)](decret-n99-902-du-25-octobre-1999-juse9940002d)
 - [Décret n°96-1147 du 26 décembre 1996 (MENG9603659D)](decret-n96-1147-du-26-decembre-1996-meng9603659d)
