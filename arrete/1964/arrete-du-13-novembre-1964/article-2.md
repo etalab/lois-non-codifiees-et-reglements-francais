@@ -12,29 +12,7 @@ Diplôme d'infirmière hospitalière de l'U. F. F. (Union des femmes de France) 
 
 Diplôme supérieur d'infirmière de la S. S. B. M. (Société de secours aux blessés militaires).
 
-2° Armée :
-
-a) Terre. - Brevet supérieur d'infirmier du service de santé de l'armée de terre, dénommé également :
-
-Brevet de spécialité du deuxième degré d'infirmier militaire.
-
-Brevet du deuxième degré d'infirmier militaire.
-
-b) Mer. - Brevet supérieur d'infirmier de la marine.
-
-c) Outre-mer :
-
-Brevet supérieur de capacité d'infirmier des troupes coloniales, dénommé également ;
-
-Brevet du premier degré d'infirmier militaire du service de santé des troupes coloniales.
-
-Brevet du premier degré d'infirmier militaire du service de santé des troupes d'outre-mer.
-
-Brevet technique du premier degré d'infirmier militaire du service de santé des troupes de marine.
-
-Brevet technique du deuxième degré d'infirmier militaire du service de santé des troupes de marine.
-
-d) Air. - Brevet supérieur de maître-infirmier de l'armée de l'air.
+2° (Abrogé)
 
 3° Hôpitaux :
 
