@@ -10,8 +10,8 @@ a) Epreuves écrites d'admissibilité :
 
 b) Epreuves orales d'admission :
 
-1. Conversation avec le jury débutant par le commentaire d'un texte court ou d'une citation tiré au sort (préparation : trente minutes ; commentaire : environ dix minutes ; conversation : environ vingt minutes ; coefficient 2).
+1. Conversation avec le jury débutant par le commentaire d'un texte court ou d'une citation tiré au sort (préparation : trente minutes ; commentaire : environ dix minutes ; conversation : environ vingt minutes ; coefficient 3).
 
-2. Epreuve de langue vivante étrangère (allemand, anglais, italien ou russe) au choix du candidat, comportant la traduction d'un texte court, suivie d'une conversation.
+2. Epreuve de langue vivante étrangère (allemand, anglais, espagnol, italien ou russe) au choix du candidat, comportant la traduction d'un texte court, suivie d'une conversation.
 
 L'utilisation d'un dictionnaire unilingue est autorisée pour la préparation (préparation : trente minutes ; traduction : environ dix minutes ; conversation : environ vingt minutes ; coefficient 2).

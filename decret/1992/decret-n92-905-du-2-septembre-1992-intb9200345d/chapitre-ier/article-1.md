@@ -23,5 +23,3 @@ L'épreuve d'éducation physique et sportive est affectée du coefficient 1 et c
 - soit une course de vitesse sur une distance de 100 mètres (hommes) ou de 60 mètres (femmes) ;
 
 - soit un saut en hauteur ;
-
-- soit un grimper à la corde.

@@ -63,3 +63,23 @@ Diplôme des métiers des arts du décor architectural (Olivier-de-Serres) :
 - option C : Domaine du métal ;
 
 - option D : Domaine des matériaux de synthèse.
+
+" Diplôme des métiers des arts de l'habitat (Boulle) :
+
+" - option Décors et mobiliers ;
+
+" - option Ornements et objets.
+
+" Diplôme des métiers des arts textiles et céramiques (Duperré) :
+
+" - option Arts textiles ;
+
+" - option Arts de la céramique artisanale.
+
+" Diplôme des métiers des arts graphiques (Estienne) :
+
+" - option Arts de la gravure ;
+
+" - option Arts de la reliure ;
+
+" - option Arts de l'illustration.

@@ -11,3 +11,5 @@ Un entretien avec le jury à partir de questions relatives, selon le choix effec
 - de musées, ou
 
 - de documentation.
+
+" durée quinze minutes après une préparation de même durée ; coefficient 4 ".
