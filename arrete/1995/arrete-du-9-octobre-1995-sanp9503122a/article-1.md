@@ -1,0 +1,3 @@
+# Article 1
+
+On entend par traçabilité d'un élément ou produit du corps humain [*définition*] (organe, tissu, cellule ou dérivés) l'ensemble des informations et des mesures prises pour suivre et retrouver rapidement l'ensemble des étapes allant de l'examen clinique du donneur à l'utilisation thérapeutique de cet élément ou produit du corps humain, en passant par le prélèvement, la transformation, la conservation, le transport, la distribution, la dispensation à un patient. La traçabilité permet d'établir un lien entre le donneur et le ou les receveur(s). Elle est établie à partir d'une codification préservant l'anonymat des personnes.
