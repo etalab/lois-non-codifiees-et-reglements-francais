@@ -1,6 +1,6 @@
 # Article 3
 
-I. - Sans préjudice des dispositions des articles 8-1, 8-2 et 8-3 relatives aux huiles d'olive, la dénomination "Huile vierge de ..." (nom d'une graine ou d'un fruit), à l'exclusion de tout qualificatif ou toute mention autres que ceux prévus au paragraphe IV et à l'article 3-1 ci-dessous, est réservée aux huiles alimentaires provenant exclusivement de la graine ou du fruit dont le nom figure dans la dénomination.
+I. - Sans préjudice des dispositions du décret n° 91-899 du 6 septembre 1991 concernant les huiles d'olive et les huiles de grignons d'olive, la dénomination "Huile vierge de ..." (nom d'une graine ou d'un fruit), à l'exclusion de tout qualificatif ou toute mention autres que ceux prévus au paragraphe IV et à l'article 3-1 ci-dessous, est réservée aux huiles alimentaires provenant exclusivement de la graine ou du fruit dont le nom figure dans la dénomination.
 
 Toutefois, les huiles vierges de colza dont la teneur en acide érucique ne dépasse pas celle qui est fixée à l'article 2-1 du présent décret doivent être dénommées, en vue de la vente : nouvelle huile vierge de colza.
 
