@@ -37,7 +37,6 @@
 - [Loi n°83-660 du 21 juillet 1983](loi-n83-660-du-21-juillet-1983)
 - [Loi n°84-1 du 2 janvier 1984](loi-n84-1-du-2-janvier-1984)
 - [Loi n°84-4 du 3 janvier 1984](loi-n84-4-du-3-janvier-1984)
-- [Loi n°84-5 du 3 janvier 1984](loi-n84-5-du-3-janvier-1984)
 - [Loi n°84-512 du 29 juin 1984](loi-n84-512-du-29-juin-1984)
 - [Loi n°84-52 du 26 janvier 1984](loi-n84-52-du-26-janvier-1984)
 - [Loi n°84-562 du 4 juillet 1984](loi-n84-562-du-4-juillet-1984)
