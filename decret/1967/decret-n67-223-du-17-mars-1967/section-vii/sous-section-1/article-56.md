@@ -1,0 +1,3 @@
+# Article 56
+
+Tout intéressé peut demander au président du tribunal de grande instance, statuant sur requête, de désigner un mandataire ad hoc pour ester en justice au nom du syndicat lorsque celui-ci est partie dans une instance relative à l'exécution de la construction de l'immeuble, aux garanties dues ou aux responsabilités encourues à cette occasion, si le syndic, son conjoint, leurs commettants ou employeurs, leurs préposés, leurs parents ou alliés jusqu'au troisième degré inclus ont, directement ou indirectement, à quelque titre que ce soit, même par personne interposée, participé à ladite construction.
