@@ -2,15 +2,15 @@
 
 Les situations dans lesquelles peuvent être placés les personnels mentionnés par le présent arrêté ainsi que les conditions à remplir sont définies ci-après :
 
-- la présence au poste ;
+-la présence au poste ;
 
-- l'instance d'affectation ;
+-l'instance d'affectation ;
 
-- l'appel par ordre ;
+-l'appel par ordre ;
 
-- les congés (administratif, de maladie, de maternité ou d'adoption et pour obligations militaires) ;
+-les congés annuel, de maladie, de maternité, de paternité ou d'adoption et pour obligations militaires ;
 
-- l'appel spécial.
+-l'appel spécial.
 
 Les émoluments des personnels placés dans chacune de ces situations sont fixés conformément aux articles 18 à 27 du décret du 28 mars 1967 susvisé.
 
@@ -24,4 +24,4 @@ Les agents mentionnés par le présent arrêté peuvent être appelés par ordre
 
 c) Congés :
 
-Les droits et émoluments en matière de congés de maladie, de longue maladie, de longue durée, de maternité ou d'adoption ou pour obligations militaires des agents visés par le présent arrêté sont ceux fixés par les articles 24 à 29 du décret du 28 mars 1967 susvisé et par l'article 9 de l'arrêté du 28 mars 1967 susvisé.
+Les droits et émoluments en matière de congés de maladie, de longue maladie, de longue durée, de maternité, de paternité ou d'adoption ou pour obligations militaires des agents visés par le présent arrêté sont ceux fixés par les articles 24 à 29 du décret du 28 mars 1967 susvisé et par l'article 9 de l'arrêté du 28 mars 1967 susvisé.

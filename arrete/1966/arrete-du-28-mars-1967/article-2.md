@@ -4,7 +4,7 @@ Les situations prévues à l'article 17 du décret du 28 mars 1967 susvisé, dan
 
 - présence au poste ;
 
-- congé administratif, de maladie, de maternité ou d'adoption et pour obligations militaires ;
+- congé annuel, de maladie, de maternité, de paternité ou d'adoption et pour obligations militaires ;
 
 - intérim ;
 

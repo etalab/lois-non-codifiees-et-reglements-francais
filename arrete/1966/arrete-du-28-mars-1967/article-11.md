@@ -1,6 +1,6 @@
 # Article 11
 
-L'indemnité d'intérim est due également à l'agent qui est appelé à occuper momentanément un poste ou un emploi que le titulaire a quitté par suite de congé (administratif, de maladie, de longue maladie, de longue durée, de maternité ou d'adoption ou pour obligations militaires), d'appel par ordre, d'appel spécial ou de mutation.
+L'indemnité d'intérim est due également à l'agent qui est appelé à occuper momentanément un poste ou un emploi que le titulaire a quitté par suite de congé (annuel, de maladie, de longue maladie, de longue durée, de maternité, de paternité ou d'adoption ou pour obligations militaires), d'appel par ordre, d'appel spécial ou de mutation.
 
 Seuls donnent droit à une indemnité d'intérim les emplois suivants :
 
