@@ -4,7 +4,7 @@ I. - Les installations nucléaires de base ne peuvent être créées qu'après a
 
 La demande d'autorisation est adressée au ministre chargé de l'industrie et, le cas échéant, au ministre dont relève l'établissement. Le ministre chargé de l'industrie la transmet dans les meilleurs délais au ministre chargé de la prévention des risques technologiques majeurs. Il en informe en outre le ministre de l'intérieur et les ministres chargés respectivement de l'aménagement du territoire, de l'urbanisme et de l'architecture, de l'environnement, de l'agriculture, de la santé et des transports.
 
-A l'appui de la demande d'autorisation, l'exploitant soumet au chef du service central de sûreté des installations nucléaires un rapport préliminaire de sûreté comportant la description de l'installation et des opérations qui y seront effectuées, l'inventaire des risques de toutes origines qu'elle présente, l'analyse des dispositions prises pour prévenir ces risques et des mesures propres à réduire la probabilité des accidents et leurs effets.
+A l'appui de la demande d'autorisation, l'exploitant soumet au chef de la direction générale de la sûreté nucléaire et de la radioprotection un rapport préliminaire de sûreté comportant la description de l'installation et des opérations qui y seront effectuées, l'inventaire des risques de toutes origines qu'elle présente, l'analyse des dispositions prises pour prévenir ces risques et des mesures propres à réduire la probabilité des accidents et leurs effets.
 
 La demande d'autorisation est accompagnée d'un dossier comprenant les pièces suivantes :
 
@@ -34,25 +34,25 @@ c) Pour les demandes d'autorisation de changement d'exploitation présentées co
 
 III- L'enquête publique est régie, sous réserve des dispositions suivantes, par les chapitres Ier et II du décret n° 85-453 du 23 avril 1985.
 
-Le ministre chargé de l'industrie transmet le dossier qui doit être soumis à enquête au commissaire de la République du département sur le territoire duquel sera implantée l'installation projetée.
+Le ministre chargé de l'industrie transmet le dossier qui doit être soumis à enquête au préfet du département sur le territoire duquel sera implantée l'installation projetée.
 
 Le dossier soumis à l'enquête publique comprend, outre la demande d'autorisation et le dossier mentionné au quatrième alinéa du I du présent article, les pièces mentionnées au II de l'article 6 du décret n° 85-453 du 23 avril 1985.
 
 Ce dossier ne doit pas contenir d'informations dont la communication est protégée par la loi et, notamment, celles qui sont couvertes par le secret de défense nationale, ou qui seraient de nature à compromettre la sécurité de l'installation ou à affaiblir sa protection contre les actes de malveillance.
 
-Pour l'étude des questions appelant une compétence technique particulière et lorsque le commissaire enquêteur ou le président de la commission d'enquête en exprime le désir, le commissaire de la République désigne une personne qualifiée, qui assiste le commissaire enquêteur ou la commission d'enquête, mais ne peut participer à la rédaction du rapport et des conclusions.
+Pour l'étude des questions appelant une compétence technique particulière et lorsque le commissaire enquêteur ou le président de la commission d'enquête en exprime le désir, le préfet désigne une personne qualifiée, qui assiste le commissaire enquêteur ou la commission d'enquête, mais ne peut participer à la rédaction du rapport et des conclusions.
 
-Le commissaire de la République informe de l'ouverture de l'enquête les divers services départementaux intéressés. Il prend l'avis de ces services.
+Le préfet informe de l'ouverture de l'enquête les divers services départementaux intéressés. Il prend l'avis de ces services.
 
-Lorsqu'une bande de 5 km de largeur tracée autour du périmètre proposé par l'exploitant pour l'installation nucléaire de base empiète sur le territoire de plusieurs départements, la procédure d'enquête s'applique dans les mêmes conditions que celles prévues au deuxième alinéa de l'article 7 du décret n° 85-453 du 23 avril 1985  pour les opérations réalisées sur le territoire de plusieurs départements.
+Lorsqu'une bande de 5 km de largeur tracée autour du périmètre proposé par l'exploitant pour l'installation nucléaire de base empiète sur le territoire de plusieurs départements, la procédure d'enquête s'applique dans les mêmes conditions que celles prévues au deuxième alinéa de l'article 7 du décret n° 85-453 du 23 avril 1985 pour les opérations réalisées sur le territoire de plusieurs départements.
 
 Le délai de l'enquête, même s'il a été prorogé en application de l'article 19 du décret du 23 avril 1985 susvisé, peut être prorogé d'une durée maximale d'un mois par décret pris sur le rapport des ministres chargés de l'énergie et des risques technologiques majeurs,
 
 après avis du commissaire enquêteur ou du président de la commission d'enquête. Le préfet complète en tant que de besoin l'arrêté d'organisation de l'enquête. Ces modifications font l'objet d'un avis affiché dans toutes les communes dont la mairie a été désignée comme lieu d'enquête. L'accomplissement des formalités prévues à l'article 20 du décret du 23 avril 1985 susvisé est reporté à la clôture de l'enquête ainsi prorogée.
 
-La transmission au ministre chargé de l'industrie de la copie du rapport et des conclusions relatives à l'enquête, prévue à l'article 21 du décret n° 85-453 du 23 avril 1985, doit avoir lieu dans un délai d'un mois à compter du jour où le dossier d'enquête a été remis au commissaire de la République. Cette transmission est accompagnée de l'avis de ce dernier.
+La transmission au ministre chargé de l'industrie de la copie du rapport et des conclusions relatives à l'enquête, prévue à l'article 21 du décret n° 85-453 du 23 avril 1985, doit avoir lieu dans un délai d'un mois à compter du jour où le dossier d'enquête a été remis au préfet. Cette transmission est accompagnée de l'avis de ce dernier.
 
-IV- L'autorisation est délivrée [*autorité compétente*], après avis de la commission prévue à l'article 7 [*interministérielle*], par décret pris sur le rapport du ministre chargé de l'industrie et, le cas échéant, du ministre dont relève l'établissement, après avis conforme du ministre chargé de la santé.
+IV- L'autorisation est délivrée, après avis de la commission prévue à l'article 7, par décret pris sur le rapport du ministre chargé de l'industrie et, le cas échéant, du ministre dont relève l'établissement, après avis conforme du ministre chargé de la santé.
 
 Dans le cas où le ministre chargé de la santé publique n'aurait pas fait connaître son avis dans le délai de trois mois à compter de la demande d'avis, l'autorisation peut être délivrée par décret pris en conseil des ministres.
 
