@@ -572,6 +572,7 @@
 - [Décret du 22 novembre 1999 (ECOC9900135D)](decret-du-22-novembre-1999-ecoc9900135d)
 - [Décret du 22 novembre 1999 (ECOC9900136D)](decret-du-22-novembre-1999-ecoc9900136d)
 - [Décret n°2000-566 du 22 juin 2000 (FPPX0004192D)](decret-n2000-566-du-22-juin-2000-fppx0004192d)
+- [Décret n°55-1397 du 22 octobre 1955](decret-n55-1397-du-22-octobre-1955)
 - [Décret n°99-122 du 22 février 1999 (PRMX9903436D)](decret-n99-122-du-22-fevrier-1999-prmx9903436d)
 - [Décret n°99-125 du 22 février 1999 (EQUU9900170D)](decret-n99-125-du-22-fevrier-1999-equu9900170d)
 - [Décret n°99-126 du 22 février 1999 (EQUU9900171D)](decret-n99-126-du-22-fevrier-1999-equu9900171d)

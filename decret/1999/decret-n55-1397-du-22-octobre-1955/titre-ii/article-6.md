@@ -1,6 +1,6 @@
-# Article 1
+# Article 6
 
-Le ministre de l'intérieur est autorisé à créer un système de fabrication et de gestion informatisée des cartes nationales d'identité. Ce système est conçu et organisé de façon à limiter les risques de falsification ou de contrefaçon des cartes. Il ne peut être utilisé qu'aux fins ci-après :
+Le ministre de l'intérieur est autorisé à créer un système permettant la fabrication de cartes nationales d'identité sécurisées et la gestion informatisée desdites cartes. Ce système est conçu et organisé de façon à limiter les risques de falsification ou de contrefaçon des cartes. Il ne peut être utilisé qu'aux fins ci-après :
 
 1° Permettre au titulaire de la carte de justifier de son identité dans les cas et conditions définis par les lois et règlements en vigueur ;
 
