@@ -1,0 +1,5 @@
+# Article 17
+
+Les frais nécessités par l'intervention du médecin agréé en matière de pneumoconioses ou du collège et, le cas échéant, les frais de radiographie, de laboratoire d'autopsie et d'expertise, dans les cas prévus aux articles 9, 10, 11, 13, 15 et 16, sont supportés [*charge financière des prestations*], selon le cas, soit par la caisse primaire soit par l'organisation spéciale de sécurité sociale [*compétente*] dont relève l'intéressé, conformément aux tarifs et dans les conditions fixées par un arrêté du secrétaire d'Etat au travail et à la sécurité sociale et du secrétaire d'Etat aux affaires économiques.
+
+La victime ou ses ayants droit sont tenus de verser à la caisse primaire de sécurité sociale ou à l'organisation spéciale de sécurité sociale le montant des honoraires et frais visés à l'alinéa précédent, mis à leur charge lorsque la contestation élevée par eux est reconnue manifestement abusive, conformément aux dispositions du troisième alinéa de l'article 488 du code de la sécurité sociale [*sanction*].
