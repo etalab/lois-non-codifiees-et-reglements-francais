@@ -2,7 +2,7 @@
 
 Les statuts déterminent notamment [*contenu, mentions*] :
 
-1° Le siège social ;
+1° Le siège social ; Toutefois, pour les sociétés de secours minières constituées entre le 31 août et le 9 novembre 1989, ce siège est provisoirement fixé jusqu'à cette dernière date par arrêté des ministres chargés de la sécurité sociale et des mines.
 
 2° La composation du conseil d'administration et du bureau ;
 

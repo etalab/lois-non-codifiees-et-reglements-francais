@@ -1,4 +1,4 @@
-# Chapitre 4 : Des déclarations de candidatures et des opérations de vote
+# Section 4 : Des déclarations de candidatures et des opérations de vote
 
 - [Article 10](article-10.md)
 - [Article 10 bis](article-10-bis.md)
