@@ -1,4 +1,4 @@
-# Arrêté du 4 août 1982 relatif aux prix à la production de certains produits alimentaires saisonniers
+# Arrêté du 4 août 1982 PORTANT REPARTITION DES SIEGES DE REPRESENTANT DES SALARIES DANS LES CONSEILS D'ADMINISTRATION DE BANQUES NATIONALISEES.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 6
 
-Le présent arrêté est applicable dans les départements d'outre-mer.
+Le directeur des hôpitaux est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
