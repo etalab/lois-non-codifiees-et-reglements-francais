@@ -4,6 +4,7 @@
 - [Section II : Constitution des sociétés anonymes](section-ii)
 - [Section III : Direction et administration des sociétés anonymes](section-iii)
 - [Section IV : Assemblées d'actionnaires.](section-iv)
+- [Section IV bis : Assemblées spéciales des titulaires d'actions à dividendes prioritaire sans droit de vote.](section-iv-bis)
 - [Section V : Modifications du capital social et actionnariat des salariés](section-v)
 - [Section VI : Contrôle des sociétés anonymes.](section-vi)
 - [Section VII : Transformation des sociétés anonymes.](section-vii)
