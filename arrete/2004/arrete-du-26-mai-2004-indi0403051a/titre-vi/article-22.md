@@ -1,0 +1,9 @@
+# Article 22
+
+Les opérations de contrôle visées par le présent arrêté sont effectuées avec des poids ou masses étalons de travail conformes soit aux exigences de construction fixées pour la catégorie mesures de masse, soit à celles de la recommandation 111 de l'Organisation internationale de métrologie légale (OIML), soit à celles d'une décision du ministre chargé de l'industrie.
+
+Les étalons de travail des organismes doivent être correctement identifiés et entretenus. Ils font l'objet, selon une périodicité annuelle, d'un certificat d'étalonnage et d'un constat de vérification indiquant leur classe par rapport aux textes cités ci-dessus, délivrés par un laboratoire d'étalonnage accrédité par le Comité français d'accréditation (COFRAC) ou tout autre signataire de l'accord multilatéral d'European Accreditation (EA). En fonction des règles propres aux organismes d'accréditation d'EA, les deux documents ci-dessus peuvent être regroupés en un seul document. Les résultats des étalonnages et la nature des opérations d'entretien doivent être enregistrés et conservés.
+
+Les masses exclusivement destinées à la recherche des seuils ne sont pas concernées par le paragraphe ci-dessus. Elles doivent être vérifiées selon une méthode documentée par l'organisme qui les utilise.
+
+Des dispositions exceptionnelles concernant une extension de la périodicité d'étalonnage, la non-disponibilité des masses en permanence, le recours à des méthodes mettant en oeuvre des moyens autres que des masses (substitution ou autre) pourront être acceptées par le préfet compétent pour délivrer l'agrément de vérificateur ou par l'organisme désigné pour approuver le système d'assurance de la qualité du réparateur sur la base d'un dossier justificatif. S'il s'agit d'une mesure de portée nationale, elle fera l'objet d'une décision du ministre chargé de l'industrie.

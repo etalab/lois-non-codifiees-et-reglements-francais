@@ -1,0 +1,7 @@
+# Décret n°2004-565 du 17 juin 2004 portant application des articles 12 à 14 de la loi n° 96-987 du 14 novembre 1996 modifiée relative à la mise en oeuvre du pacte de relance pour la ville et de l'article 146 modifié de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001) afférents aux exonérations sociales en faveur des zones franches urbaines et des zones de redynamisation urbaine et abrogeant les décrets n° 97-125 et n° 97-126 du 12 février 1997.
+
+- [Chapitre Ier : Dispositions portant application des articles 12 et 13 modifiés de la loi du 14 novembre 1996 : Exonération de cotisations patronales de sécurité sociale, du versement de transport et des cotisations au Fonds national d'aide au logement pour les entreprises implantées dans les zones franches urbaines.](chapitre-ier)
+- [Chapitre II : Dispositions portant application de l'article 12-1 de la loi du 14 novembre 1996 : exonération de cotisations patronales de sécurité sociale, du versement de transport et des cotisations au Fonds national d'aide au logement pour les associations implantées dans une zone de redynamisation urbaine ou dans une zone franche urbaine.](chapitre-ii)
+- [Chapitre III : Dispositions portant application des articles 14 de la loi n° 96-987 du 14 novembre 1996 et 146 de la loi de finances pour 2002 (n° 2001-1275 du 28 décembre 2001).](chapitre-iii)
+- [Chapitre IV : Dispositions finales.](chapitre-iv)
+- [Article 24](article-24.md)

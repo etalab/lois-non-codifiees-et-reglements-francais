@@ -1,0 +1,3 @@
+# Article 29
+
+Le Premier ministre, le ministre d'Etat, ministre de l'économie, des finances et de l'industrie, le ministre de l'intérieur, de la sécurité intérieure et des libertés locales, le garde des sceaux, ministre de la justice, la ministre de la défense, le ministre de la santé et de la protection sociale, le ministre de l'équipement, des transports, de l'aménagement du territoire, du tourisme et de la mer, le ministre de la fonction publique et de la réforme de l'Etat et le ministre de la culture et de la communication sont responsables, chacun en ce qui le concerne, de l'application de la présente ordonnance, qui sera publiée au Journal officiel de la République française.

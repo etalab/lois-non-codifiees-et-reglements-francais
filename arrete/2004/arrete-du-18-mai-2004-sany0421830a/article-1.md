@@ -1,0 +1,3 @@
+# Article 1
+
+Le présent arrêté définit, en application de l'article R. 1333-74 du code de la santé publique, les conditions auxquelles doivent répondre les programmes de formation portant sur la radioprotection des patients exposés aux rayonnements ionisants. Cette formation s'adresse aux professionnels mentionnés à l'article L. 1333-11 du code de la santé publique en exercice à la date de publication du présent arrêté ou en début d'exercice lorsque leur formation initiale ne comporte pas d'enseignement sur la radioprotection des patients. Dans tous les cas, la mise à jour des connaissances doit être réalisée au minimum tous les dix ans.

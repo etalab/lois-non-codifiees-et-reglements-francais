@@ -1,0 +1,3 @@
+# Article 3
+
+Pour les entreprises qui s'implantent, se créent ou créent un établissement dans l'une des zones franches urbaines figurant sur la liste indiquée au I de l'annexe à la loi du 14 novembre 1996 susvisée, la limite d'effectif de cinquante salariés mentionnée au premier alinéa du II et au troisième alinéa du III de l'article 12 de la loi du 14 novembre 1996 susvisée est appréciée en fonction de la moyenne de l'effectif employé dans l'entreprise, tous établissements confondus, déterminé selon les modalités fixées par l'article L. 421-2 du code du travail au cours des douze mois civils précédant la date de l'implantation ou de la création dans ladite zone.
