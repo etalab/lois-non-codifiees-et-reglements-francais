@@ -1,11 +1,3 @@
 # Article 1
 
-Sont interdits, sauf autorisation délivrée dans les conditions prévues par le décret du 25 novembre 1977 susvisé et sous réserve des dispositions prévues à l'article 2 ci-après :
-
-- l'importation sous tous régimes douaniers, à l'exception du transit de frontière à frontière sans rupture de charge et du régime du perfectionnement actif ;
-
-- le colportage, la mise en vente, la vente ou l'achat des spécimens vivants ou morts, détruits, capturés ou enlevés sur tout le territoire national,
-
-de toutes les espèces d'oiseaux non domestiques considérées comme gibier dont la chasse est autorisée.
-
-Ces dispositions sont applicables aux produits issus de ces espèces, notamment aux pâtés et conserves, ainsi qu'à leurs nids et à leurs oeufs.
+Sont interdits, sauf autorisation délivrée dans les conditions prévues aux articles R. 212-1 à R. 212-6 du code rural et sous réserve des dispositions de l'arrêté du 17 avril 1981 fixant les listes des oiseaux protégés sur l'ensemble du territoire et de l'article 2 du présent arrêté, l'importation, à l'exception du transit de frontière à frontière et du régime de perfectionnement actif, le colportage, la mise en vente, la vente ou l'achat de nids, d'oiseaux ou d'oeufs, vivants ou morts, d'espèces non domestiques dont la chasse est autorisée, ainsi que des parties et produits issus de ces spécimens, notamment des pâtés et conserves.
