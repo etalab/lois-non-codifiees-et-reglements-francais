@@ -2,7 +2,7 @@
 
 Il est interdit à toute personne :
 
-1° De voyager dans une voiture sans être munie d'un titre de transport valable complété, s'il y a lieu, par les opérations incombant au voyageur telles que compostage, validation ou apposition de mentions manuscrites ; de pénétrer dans les parties de la voie ferrée et de ses dépendances dont l'accès est réservé aux personnes munies d'un titre de transport sans être munie d'un titre valable et complété, s'il y a lieu, comme il est dit ci-dessus (1).
+1° De voyager dans une voiture sans être munie d'un titre de transport valable complété, s'il y a lieu, par les opérations incombant au voyageur telles que compostage, validation ou apposition de mentions manuscrites ; de pénétrer dans les parties de la voie ferrée et de ses dépendances dont l'accès est réservé aux personnes munies d'un titre de transport sans être munie d'un titre valable et complété, s'il y a lieu, comme il est dit ci-dessus.
 
 2° De prendre une place déjà retenue régulièrement par un autre voyageur et d'occuper régulièrement les places et filets avec des effets, colis ou autres objets, chaque voyageur ne pouvant disposer que de l'espace situé au-dessus ou au-dessous de la place à laquelle il a droit ;
 
@@ -22,10 +22,8 @@ Il est interdit à toute personne :
 
 10° De souiller ou de détériorer le matériel, d'enlever ou de détériorer les étiquettes, cartes, pancartes ou inscriptions intéressant le service de la voie ferrée, ainsi que la publicité régulièrement apposée dans les gares et les voitures, sur les wagons ou les cadres et, d'une façon générale, dans toute dépendance du chemin de fer ;
 
-11° De faire usage, dans les voitures, dans les salles d'attente, sur les quais ou dans les dépendances des gares accessibles aux voyageurs et aux autres usagers, d'appareils ou instruments sonores ;
+11° De faire usage, dans les voitures, dans les salles d'attente, sur les quais ou dans les dépendances des gares accessibles aux voyageurs et aux autres usagers, d'appareils ou instruments sonores.
 
-12° De revendre au-dessus des prix résultant des tarifs homologués des titres de transport, des bulletins de réservation de places, suppléments couchettes ou voitures-lits (1).
+12° De revendre au-dessus des prix résultant des tarifs homologués des titres de transport, des bulletins de réservation de places, suppléments couchettes ou voitures-lits.
 
 Lorsque la perception du prix des places est effectuée dans les voitures, tout voyageur est tenu de payer le prix de la place occupée par lui aussitôt que l'agent de perception se présente et, s'il ne s'est pas présenté, avant de quitter soit la voiture, soit la gare d'arrivée, suivant les cas ; l'agent de perception est tenu de délivrer un billet à chaque voyageur.
-
-Les voyageurs sont tenus d'obtempérer aux injonctions à eux adressées par les agents de l'administration exploitante pour assurer l'observation des dispositions contenues dans le présent règlement ou pour éviter tout désordre.
