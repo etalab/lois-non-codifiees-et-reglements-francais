@@ -46,6 +46,7 @@
 - [Décret n°73-314 du 14 mars 1973](decret-n73-314-du-14-mars-1973)
 - [Décret n°75-178 du 14 mars 1975](decret-n75-178-du-14-mars-1975)
 - [Décret n°75-244 du 14 avril 1975](decret-n75-244-du-14-avril-1975)
+- [Décret n°75-765 du 14 août 1975](decret-n75-765-du-14-aout-1975)
 - [Décret n°75-29 du 15 janvier 1975](decret-n75-29-du-15-janvier-1975)
 - [Décret n°75-643 du 15 juillet 1975](decret-n75-643-du-15-juillet-1975)
 - [Décret n°75-644 du 15 juillet 1975](decret-n75-644-du-15-juillet-1975)

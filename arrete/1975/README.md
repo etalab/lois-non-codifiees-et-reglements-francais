@@ -36,6 +36,7 @@
 - [Arrêté du 24 février 1975](arrete-du-24-fevrier-1975)
 - [Arrêté du 24 janvier 1975](arrete-du-24-janvier-1975)
 - [Arrêté du 25 février 1975](arrete-du-25-fevrier-1975)
+- [Arrêté du 25 juillet 1975](arrete-du-25-juillet-1975)
 - [Arrêté du 26 mai 1975](arrete-du-26-mai-1975)
 - [Arrêté du 27 juillet 1972](arrete-du-27-juillet-1972)
 - [Arrêté du 27 novembre 1974](arrete-du-27-novembre-1974)
