@@ -1,4 +1,4 @@
-# MODALITÉS PRATIQUES DE L'EXAMEN DU PERMIS : DE CONDUIRE DES CATÉGORIES C, D, E (C)    Introduite par l'arrêté du 13 juin 1990.
+# MODALITÉS PRATIQUES DE L'EXAMEN DU PERMIS : DE CONDUIRE DES CATÉGORIES C, D, E (C) 2. Examen.
 
 - [1. Moyens.](1-moyens)
 - [2. Examen.](2-examen)
