@@ -197,6 +197,7 @@
 - [Arrêté du 8 décembre 2003 (EQUT0301651A)](arrete-du-8-decembre-2003-equt0301651a)
 - [Arrêté du 8 décembre 2003 (SOCT0312036A)](arrete-du-8-decembre-2003-soct0312036a)
 - [Arrêté du 8 décembre 2003 (SOCT0410094A)](arrete-du-8-decembre-2003-soct0410094a)
+- [Arrêté du 8 décembre 2004 (SOCF0412364A)](arrete-du-8-decembre-2004-socf0412364a)
 - [Arrêté du 8 janvier 2004 (AGRP0400182A)](arrete-du-8-janvier-2004-agrp0400182a)
 - [Arrêté du 8 janvier 2004 (BUDD0370012A)](arrete-du-8-janvier-2004-budd0370012a)
 - [Arrêté du 8 janvier 2004 (MAEF0310097A)](arrete-du-8-janvier-2004-maef0310097a)
