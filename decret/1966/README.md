@@ -19,3 +19,4 @@
 - [Décret n°66-81 du 25 janvier 1966](decret-n66-81-du-25-janvier-1966)
 - [Décret n°65-1177 du 31 décembre 1965](decret-n65-1177-du-31-decembre-1965)
 - [Décret n°65-1178 du 31 décembre 1965](decret-n65-1178-du-31-decembre-1965)
+- [Décret n°66-247 du 31 mars 1966](decret-n66-247-du-31-mars-1966)
