@@ -1,8 +1,8 @@
 # Article 9
 
-§ 1er. Sous une pression égale à la pression de calcul le taux de travail des tubes droits ou cintrés ne doit pas excéder :
+Paragraphe 1er. Sous une pression égale à la pression de calcul le taux de travail des tubes droits ou cintrés ne doit pas excéder :
 
-1° Tubes en acier austénitique : trois huitièmes de la résistance à la traction du métal à la température maximale en service ;
+1° Tubes en acier inoxydable austénitique : trois huitièmes de la résistance à la traction du métal à la température maximale en service ;
 
 2° Autres tubes en acier. - La plus faible des deux valeurs suivantes :
 
@@ -12,7 +12,7 @@
 
 Sont cependant admis sans justification supplémentaire les tubes cintrés avec un rayon de courbure au moins égal à vingt fois leur diamètre s'ils ont été obtenus à partir de tubes droits satisfaisant aux dispositions ci-dessus.
 
-§ 2. Le taux de travail maximal autorisé en application du paragraphe 1er ci-dessus est majoré d'un quart pour les parties de canalisation satisfaisant à l'une des conditions suivantes :
+Paragraphe 2. Le taux de travail maximal autorisé en application du paragraphe 1er ci-dessus est majoré d'un quart pour les parties de canalisation satisfaisant à l'une des conditions suivantes :
 
 a) Etre enfouie à même le sol à une profondeur au moins égale à 0,80 mètre compté au-dessus de la génératrice supérieure des tubes.
 
@@ -20,7 +20,7 @@ b) Etre enfilée dans une gaine continue enfouie à même le sol à une profonde
 
 c) Etre posée dans un caniveau continu exclusivement réservé à la canalisation et à ses accessoires et calculé conformément aux dispositions de l'annexe Il au présent arrêté.
 
-§ 3. Le taux de travail maximal autorisé en application des paragraphes 1er et 2 ci-dessus est réduit d'un cinquième pour les parties de canalisation fabriquées avec des tubes à soudure longitudinale à moins que ceux-ci ne satisfassent aux conditions suivantes :
+Paragraphe 3. Le taux de travail maximal autorisé en application des paragraphes 1er et 2 ci-dessus est réduit d'un cinquième pour les parties de canalisation fabriquées avec des tubes à soudure longitudinale à moins que ceux-ci ne satisfassent aux conditions suivantes :
 
 a) S'ils ont été soudés par un procédé continu, ils doivent avoir subi après soudage une opération de calibrage, de laminage ou d'étirage.
 
