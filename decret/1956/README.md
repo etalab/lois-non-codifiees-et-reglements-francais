@@ -13,6 +13,7 @@
 - [Décret n°56-608 du 18 juin 1956](decret-n56-608-du-18-juin-1956)
 - [Décret n°56-614 du 18 juin 1956](decret-n56-614-du-18-juin-1956)
 - [Décret n°56-612 du 20 juin 1956](decret-n56-612-du-20-juin-1956)
+- [Décret n°56-726 du 20 juillet 1956](decret-n56-726-du-20-juillet-1956)
 - [Décret du 24 janvier 1956](decret-du-24-janvier-1956)
 - [Décret n°56-511 du 24 mai 1956](decret-n56-511-du-24-mai-1956)
 - [Décret n°56-220 du 29 février 1956](decret-n56-220-du-29-fevrier-1956)
