@@ -1,0 +1,3 @@
+# Article 4
+
+L'épreuve d'aptitude consiste en une épreuve écrite d'une durée de quatre heures organisée en centre d'examen interrégional. Cette épreuve porte sur le domaine choisi par le candidat à travers l'analyse d'une situation institutionnelle en référence à l'épreuve de certification " connaissance des politiques sociales " mentionnée à l'article 11 de l'arrêté précité. Elle est suivie d'un entretien avec le jury composé conformément à l'article 6 du décret du 11 juin 2004 susvisé. L'écrit, ainsi que l'entretien, est noté sur 20 points. Cette épreuve ne peut être validée que lorsque le candidat a obtenu au moins 20 points sur 40.
