@@ -1,3 +1,3 @@
-# Chapitre VII : Qualification de vol aux instruments essais-réceptions.
+# Chapitre VII : Qualification d'instructeur.
 
 - [Article Annexe](article-annexe.md)

@@ -1,11 +1,15 @@
 # Article Annexe
 
-Tout détenteur d'une licence du personnel navigant d'essais ou de réceptions est habilité à donner l'instruction en vol nécessaire pour la délivrance de ladite licence et des qualifications qu'elle comporte et dont il est également titulaire, lorsqu'il a obtenu la qualification d'instructeur pour la licence considérée.
+9.1. Carnet de vol
 
-Pour obtenir cette qualification, le candidat doit remplir les conditions suivantes :
+Le titulaire d'une carte de stagiaire ou de l'une des licences définies par le présent arrêté doit être détenteur d'un carnet de vol dont le modèle est fixé par la décision visée au paragraphe 2.3 sur lequel sont inscrites la nature et la durée du vol qu'il effectue.
 
-1° Avoir acquis dans l'exercice de la licence d'essais ou de réceptions dont il est titulaire une expérience au moins égale à 200 heures de vol ;
+Le carnet de vol doit être communiqué par l'intéressé aux services de contrôle sur simple demande de ceux-ci, pour vérification et, en tout cas au moment de la délivrance ou du renouvellement d'une licence.
 
-2° Etre agréé par le ministre de la défense, après avis du conseil du personnel navigant professionnel de l'aéronautique civile, section essais et réceptions pour les instructeurs exerçant hors de l'EPNER.
+9.2. Règles particulières de décompte du temps de vol pour l'obtention des licences de pilote définies dans le présent arrêté
 
-La qualification d'instructeur est valable deux ans renouvelable par période de même durée, après nouvel agrément du ministre de la défense.
+Tout pilote a le droit de faire porter à son crédit le total du temps de vol pendant lequel il a rempli les fonctions de pilote commandant de bord.
+
+Le temps de vol en double commande est compté intégralement.
+
+Lorsque le titulaire d'une licence de pilote remplit les fonctions de copilote, il a le droit de faire porter à son crédit 50 % du temps de vol accompli en cette qualité.
