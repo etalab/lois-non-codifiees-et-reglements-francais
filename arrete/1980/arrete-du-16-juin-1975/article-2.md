@@ -4,28 +4,24 @@ Les coefficients d'équivalence applicables aux cultures spécialisées visées 
 
 Cultures légumières de plein champ : 5
 
-Cultures légumières de plein champ irriguées : 10
+Cultures maraîchères de pleine terre : 6
 
-Cultures maraîchères sous châssis et serres froides : 20
+Cultures maraîchères intensives : 20
 
-Cultures maraîchères sous serres chauffées : 60
+Cultures maraîchères sous châssis : 33
 
-Vergers : 3
+Cultures maraîchères sous serres : 100
 
-Vignes : 3
+Pépinières décoratives et fruitières : 12
 
-Pépinières : 10
+Pépinières forestières : 5
 
-Peupleraies : 0,5
+Cultures horticoles intensives : 20
 
-Tabac : 8
+Cultures horticoles sous châssis : 33
 
-Semences de maïs et de betteraves : 1,5
+Cultures horticoles sous serres : 100
 
-Landes, friches et parcours : 0,10
+Champignonnières : 25
 
-Pisciculture :
-
-Vallée de la Garonne et du Lot : 160
-
-Reste du département : 230.
+Pisciculture en bassin : 200.
