@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur général des impôts est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Ces recommandations précisent les objectifs à atteindre dans l'organisation, l'exécution et le contrôle des études de toxicologie expérimentale.
