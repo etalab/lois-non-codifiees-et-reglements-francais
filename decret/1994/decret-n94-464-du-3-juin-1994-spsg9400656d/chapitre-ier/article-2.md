@@ -1,0 +1,5 @@
+# Article 2
+
+Les éducateurs spécialisés des instituts nationaux de jeunes sourds et de l'Institut national des jeunes aveugles participent dans les instituts nationaux de jeunes sourds et de jeunes aveugles à l'ensemble des actions concourant à la réalisation des missions des instituts telles qu'elles sont définies à l'article 2 du décret du 26 avril 1974 susvisé. Ils assurent principalement des fonctions d'éducation, de prévention et de suite et des activités éducatives et parascolaires en faveur de jeunes déficients sensoriels, notamment par le développement de la communication et la compensation du handicap, l'accompagnement familial et l'intégration scolaire en milieu ordinaire, l'acquisition de l'autonomie et tout ce qui concourt à l'insertion sociale.
+
+Ils peuvent également exercer leur activité dans les services déconcentrés du ministère chargé des affaires sociales, en assurant des missions de protection, de soutien, d'information des personnes en difficulté et d'aide à leur réinsertion et leur autonomie.

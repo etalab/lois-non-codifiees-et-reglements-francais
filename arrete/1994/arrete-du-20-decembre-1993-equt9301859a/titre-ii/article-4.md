@@ -9,3 +9,9 @@ diplôme de fin d'études de l'école de maîtrise du transport routier (E.M.T.R
 diplôme de fin d'études de l'école du transport et de la logistique (E.T.L.) ;
 
 brevet professionnel de transport et des activités auxiliaires, option Transport routier ou Auxiliaire de transport.
+
+Jusqu'au 31 octobre 1994 :
+
+- brevet de technicien Transport ;
+
+- baccalauréat professionnel, section Logistique et transport, option Exploitation des transports.

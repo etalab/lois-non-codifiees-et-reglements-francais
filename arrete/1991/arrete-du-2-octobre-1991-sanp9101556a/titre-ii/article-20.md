@@ -20,6 +20,6 @@ Une épreuve de soins pédicuraux, d'orthoplastie et/ou d'orthonyxie décomposé
 
 - passage devant le jury d'une durée de quinze minutes.
 
-Ces trois épreuves sont notées chacune sur 20 points ; elles se déroulent dans des services agréés comme terrains de stage. Pour chaque candidat, le lieu de passage des trois épreuves est déterminé par le médecin inspecteur régional de la santé.
+Ces trois épreuves sont notées chacune sur 20 points ; elles se déroulent dans des services agréés comme terrains de stage ou dans tout autre lieu déterminé par le médecin inspecteur régional de la santé.  Pour chaque candidat, le lieu de passage des trois épreuves est déterminé par le médecin inspecteur régional de la santé.
 
 Le jury peut intervenir à tout moment si la conduite du candidat porte préjudice au patient ; tout acte dangereux entraîne la note 0 et l'élimination immédiate du candidat de la session d'examen en cours.
