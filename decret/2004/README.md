@@ -443,6 +443,7 @@
 - [Décret n°2004-821 du 18 août 2004 (SANS0421860D)](decret-n2004-821-du-18-aout-2004-sans0421860d)
 - [Décret n°2004-822 du 18 août 2004 (MCCB0400317D)](decret-n2004-822-du-18-aout-2004-mccb0400317d)
 - [Décret n°86-1053 du 18 septembre 1986](decret-n86-1053-du-18-septembre-1986)
+- [Décret n°94-236 du 18 mars 1994 (ENVP9420017D)](decret-n94-236-du-18-mars-1994-envp9420017d)
 - [Décret n°2004-420 du 18 mai 2004 (INDI0402885D)](decret-n2004-420-du-18-mai-2004-indi0402885d)
 - [Décret n°2004-421 du 18 mai 2004 (INTD0400115D)](decret-n2004-421-du-18-mai-2004-intd0400115d)
 - [Décret n°2004-171 du 19 février 2004 (SOCF0410135D)](decret-n2004-171-du-19-fevrier-2004-socf0410135d)
