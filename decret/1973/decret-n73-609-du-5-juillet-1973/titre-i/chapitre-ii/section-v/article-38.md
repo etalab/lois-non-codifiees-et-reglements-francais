@@ -1,6 +1,6 @@
 # Article 38
 
-Le stagiaire participe à l'activité professionnelle de la personne auprès de laquelle est effectué son stage sous la direction et la responsabilité de celle-ci, sans pouvoir se substituer à elle dans les actes de sa fonction.
+Le stagiaire participe à l'activité du maître de stage sous la direction et la responsabilité de celui-ci, sans pouvoir se substituer à lui pour les actes de sa profession, dans les conditions définies par le Centre national de l'enseignement professionnel notarial, après consultation du Conseil supérieur du notariat.
 
 Les travaux de pratique professionnelle doivent correspondre à la durée normale du travail, telle qu'elle résulte des règlements, conventions collectives, accords ou usages en vigueur pour la catégorie professionnelle considérée. Toutefois, le temps nécessaire pour suivre les séminaires prévus à l'article 36 doit être laissé au stagiaire.
 

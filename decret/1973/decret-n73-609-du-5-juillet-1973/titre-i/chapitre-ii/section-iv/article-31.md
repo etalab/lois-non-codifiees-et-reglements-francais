@@ -4,7 +4,7 @@ Le jury de l'examen prévu à l'article 28 est composé ainsi qu'il suit :
 
 1° Un magistrat de l'ordre judiciaire, président ;
 
-2° Un professeur de droit des universités, en activité ou émérite ;
+2° Un professeur en activité ou émérite ou maître de conférences d'université, chargé d'un enseignement juridique.
 
 3° Trois notaires ;
 
@@ -12,9 +12,9 @@ Le jury de l'examen prévu à l'article 28 est composé ainsi qu'il suit :
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
-Le président et les membres du jury sont désignés conjointement par le premier président de la cour d'appel du siège du centre et le procureur général près cette cour. Le professeur de droit est désigné sur proposition des présidents des universités avec lesquelles le centre a passé convention, les notaires sur proposition du conseil régional ou, lorsque le centre est commun à plusieurs conseils régionaux, de ces conseils, et le clerc après avis des organisations syndicales les plus représentatives.
+Le président et les membres du jury sont désignés conjointement par le premier président de la cour d'appel du siège du centre et le procureur général près cette cour. Le professeur de droit ou le maître de conférences est désigné sur proposition des présidents des universités avec lesquelles le centre a passé convention, les notaires sur proposition du conseil régional ou, lorsque le centre est commun à plusieurs conseils régionaux, de ces conseils, et le clerc après avis des organisations syndicales les plus représentatives.
 
-Le président et les membres du jury ne peuvent siéger plus de trois années consécutives [*durée*].
+Le président et les membres du jury sont nommés pour une durée de trois ans, renouvelable deux fois.
 
 Des suppléants sont désignés en nombre égal et dans les mêmes conditions.
 

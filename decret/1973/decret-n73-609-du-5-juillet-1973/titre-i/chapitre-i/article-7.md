@@ -1,11 +1,9 @@
 # Article 7
 
-Sont dispensées des conditions prévues aux 5° et 6° de l'article 3, les personnes ayant exercé pendant cinq années au moins des activités professionnelles auprès d'un notaire et, en outre, pendant quatre années des activités professionnelles ou auprès d'un notaire, ou dans un organisme statutaire du notariat, ou dans un organisme notarial d'enseignement ou de recherche, si ces personnes remplissent en outre les conditions suivantes :
+Sont dispensées des conditions prévues aux 5° et 6° de l'article 3 les personnes ayant exercé pendant cinq années au moins des activités professionnelles auprès d'un notaire et, en outre, pendant au moins quatre années, des activités professionnelles auprès d'un notaire, ou dans un organisme statutaire du notariat, ou dans un organisme notarial d'enseignement ou de recherche, si elles sont titulaires du diplôme de premier clerc de notaire depuis au moins six ans.
 
-1. Etre titulaire du diplôme de premier clerc de notaire depuis au moins six ans ;
+Sont dispensées de la conditions prévue au 6° de l'article 3 les personnes remplissant la condition prévue au 5° de l'article 3, qui ont exercé les activités ci-dessus définies pendant, respectivement, des durées de quatre années au moins et de trois années au moins, si elles sont titulaires du diplôme de premier clerc de notaire depuis au moins quatre ans.
 
-2. Avoir subi avec succès les épreuves d'un examen de contrôle devant le jury national prévu à l'article 6.
+Les personnes visées aux alinéas précédents doivent, en outre, avoir subi avec succès les épreuves d'un examen de contrôle des connaissances techniques devant le jury national prévu à l'article 6.    L'admission à subir les épreuves de l'examen est prononcée par le garde des sceaux, ministre de la justice.
 
-L'admission à subir les épreuves de l'examen est prononcée par le garde des sceaux, ministre de la justice.
-
-Le certificat d'aptitude aux fonctions de notaire est décerné aux personnes ayant subi avec succès l'examen de contrôle des connaissances prévu au présent article.
+Un certificat d'aptitude aux fonctions de notaire est décerné aux personnes ayant subi avec succès l'examen de contrôle des connaissances prévu au présent article.

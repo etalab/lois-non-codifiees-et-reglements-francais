@@ -1,8 +1,8 @@
 # Article 110
 
-Nul ne peut être nommé notaire dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle s'il ne remplit, outre les conditions générales d'aptitude prévues à l'article 3, les conditions particulières suivantes :
+Nul ne peut être nommé notaire dans les départements du Haut-Rhin, du Bas-Rhin et de la Moselle s'il ne remplit, outre les conditions générales d'aptitude prévues au chapitre Ier du titre Ier, les conditions particulières suivantes :
 
-1° Avoir accompli, selon les modalités définies aux articles 25, 26, 28 à 30, 32 et 33, quatre années de stage dont deux années au moins de stage ininterrompu dans un office de notaire du ressort de la Cour d'appel de Colmar ou de Metz ;
+1° Avoir accompli, selon les modalités définies aux articles 33 à 40, à l'exception du premier alinéa de l'article 35, trois années de stage dont deux années de stage au moins ininterrompu dans un ou plusieurs offices de notaire du ressort de la cour d'appel de Colmar ou de Metz.
 
 2° Avoir été reçu au concours professionnel défini aux articles suivants.
 

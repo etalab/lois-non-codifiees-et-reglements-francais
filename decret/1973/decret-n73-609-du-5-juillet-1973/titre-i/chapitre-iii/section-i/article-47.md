@@ -1,6 +1,6 @@
 # Article 47
 
-Le procureur de la République recueille l'avis motivé de la chambre de discipline sur la moralité et sur les capacités professionnelles de l'intéressé ainsi que sur ses possibilités financières au regard des engagements contractés.
+Le procureur de la République recueille l'avis motivé de la chambre des notaires sur la moralité et sur les capacités professionnelles de l'intéressé ainsi que sur ses possibilités financières au regard des engagements contractés.
 
 La chambre recueille, s'il y a lieu, tous renseignements utiles auprès, notamment, d'une autre chambre ou d'un conseil régional, du centre de formation professionnelle ou de l'école de notariat.
 
