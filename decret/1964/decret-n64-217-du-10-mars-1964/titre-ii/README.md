@@ -10,6 +10,7 @@
 - [Article 13-7](article-13-7.md)
 - [Article 13-8](article-13-8.md)
 - [Article 13-9](article-13-9.md)
+- [Article 13-10](article-13-10.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
