@@ -1,6 +1,6 @@
 # Article 1
 
-Pour les travaux énumérés au présent article et sans préjudice des dispositions prévues pour les travailleurs relevant du régime général de sécurité sociale, le ou les médecins chargés de la surveillance médicale du personnel des exploitations minières et assimilées effectuant d'une façon habituelle lesdits travaux, consacreront à cette surveillance le temps prévu par le deuxième alinéa de l'article D. 711.2 du code du travail.
+Pour les travaux énumérés au présent article et sans préjudice des dispositions prévues pour les travailleurs relevant du régime général de sécurité sociale, le ou les médecins chargés de la surveillance médicale du personnel des exploitations minières et assimilées effectuant d'une façon habituelle lesdits travaux, consacreront à cette surveillance le temps prévu par le deuxième alinéa de l'article D. 711-2 du code du travail.
 
 I. - Travaux effectués dans les types de chantiers assujettis au décret n° 54-1277 du 24 décembre 1954 modifié et pour lesquels l'arrêté du 30 novembre 1956 relatif à la prévention médicale de la silicose professionnelle dans les mines et les carrières a fixé un intervalle de visite inférieur ou égal à un an ;
 
@@ -68,4 +68,6 @@ Dérivés halogénés, nitrés et aminés des hydrocarbures et de leurs dérivé
 
 Brais, goudrons et huiles minérales ;
 
-Rayons X et substances radioactives.
+Rayons X et substances radioactives ;
+
+Amiante.
