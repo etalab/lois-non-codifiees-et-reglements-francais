@@ -20,7 +20,7 @@ Le directeur général de la police nationale anime et coordonne l'action :
 
 - la direction de la formation de la police nationale ;
 
-- le service central des compagnies républicaines de sécurité ;
+- la direction centrale des compagnies républicaines de sécurité ;
 
 - le service de coopération technique internationale de police ;
 
