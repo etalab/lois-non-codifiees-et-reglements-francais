@@ -1,3 +1,7 @@
 # Article 1
 
-A partir du 20 février 1980, les pièces de 5 F en argent, de 10 F en argent et de 50 F en argent cesseront d'avoir cours légal entre particuliers et ne seront plus acceptées en paiement par les caisses publiques.
+Toute construction publique qui constitue un élément du cadre de vie des Français, exécutée ou subventionnée par le ministère du travail et de la participation, doit comporter une réalisation conçue par un artiste plasticien.
+
+Cette réalisation doit contribuer à la qualité des constructions publiques en associant l'art à l'architecture et permettre une prise de contact avec des réalisations originales de l'art contemporain.
+
+A cet effet, les artistes sont associés à la conception du projet dès son stade initial et participent à son élaboration en liaison étroite avec le maître d'oeuvre et le maître d'ouvrage.
