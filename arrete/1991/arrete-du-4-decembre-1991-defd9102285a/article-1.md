@@ -4,7 +4,7 @@ Les commandants organiques recevant délégation de pouvoirs du ministre de la d
 
 - commandant de la force d'action terrestre ;
 
-- commandant des forces françaises stationnées en Allemagne ;
+- commandant des forces françaises et de l'élément civil stationnés en Allemagne ;
 
 - commandant de la force logistique terrestre ;
 

@@ -16,7 +16,7 @@ Ces fonctions sont les suivantes :
 
 - commandant des organismes de formation de l'armée de terre ;
 
-- commandant des forces françaises stationnées en Allemagne ;
+- commandant des forces françaises et de l'élément civil stationnés en Allemagne ;
 
 - commandant supérieur dans les départements et territoires d'outre-mer ;
 

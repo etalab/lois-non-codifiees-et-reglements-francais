@@ -16,7 +16,7 @@ d) Le conseiller principal d'éducation ou le conseiller d'éducation le plus an
 
 e) Deux représentants des forces armées françaises stationnées en Allemagne, désignés par le général commandant ces forces ;
 
-f) Deux personnalités qualifiées désignées par le commandant des forces françaises stationnées en Allemagne ;
+f) Deux personnalités qualifiées désignées par le commandant des forces françaises et de l'élément civil stationnés en Allemagne ;
 
 g) Huit représentants élus des personnels de l'établissement, dont six au titre des personnels d'enseignement, d'éducation et de surveillance et deux au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
 
@@ -32,7 +32,7 @@ c) Le conseiller principal d'éducation ou le conseiller d'éducation, si l'éta
 
 d) Un représentant des forces françaises stationnées en Allemagne, désigné par le commandant de ces forces ;
 
-e) Une personnalité qualifiée désignée par le commandant des forces françaises stationnées en Allemagne dans les établissements non dotés de conseiller principal d'éducation ou de conseiller d'éducation ;
+e) Une personnalité qualifiée désignée par le commandant des forces françaises et de l'élément civil stationnés en Allemagne dans les établissements non dotés de conseiller principal d'éducation ou de conseiller d'éducation ;
 
 f) Quatre représentants élus des personnels de l'établissement, dont trois au titre des personnels d'enseignement, d'éducation et de surveillance et un au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
 

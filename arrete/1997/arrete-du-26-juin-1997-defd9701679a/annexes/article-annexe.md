@@ -28,7 +28,7 @@ Le commandant de la brigade de sapeurs-pompiers de Paris, sous réserve des règ
 
 Les commandants organiques des éléments français de force multinationale.
 
-Le commandant des forces françaises stationnées en Allemagne.
+Le commandant des forces françaises et de l'élément civil stationnés en Allemagne.
 
 Les commandants supérieurs dans les départements et territoires d'outre-mer, les commandants de forces à l'étranger et leurs adjoints, chacun en ce qui concerne les éléments de leur armée d'appartenance relevant de leur autorité, ou le chef d'état-major de l'armée dont relève l'élément considéré lorsque ces autorités ne sont pas instituées.
 
