@@ -1,3 +1,0 @@
-# Article 7
-
-Le renard peut être enfumé à l'aide de produits non toxiques ou déterré avec ou sans chien, toute l'année.

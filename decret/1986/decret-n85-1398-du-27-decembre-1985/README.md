@@ -3,4 +3,3 @@
 - [TITRE Ier : Dispositions générales](titre-ier)
 - [TITRE II : Administration du conseil supérieur de la pêche](titre-ii)
 - [TITRE III : Dispositions financières et comptables](titre-iii)
-- [TITRE IV : Dispositions diverses](titre-iv)

@@ -217,7 +217,6 @@
 - [Décret n°82-745 du 24 août 1982](decret-n82-745-du-24-aout-1982)
 - [Décret n°82-991 du 24 novembre 1982](decret-n82-991-du-24-novembre-1982)
 - [Décret n°82-993 du 24 novembre 1982](decret-n82-993-du-24-novembre-1982)
-- [Décret n°77-1295 du 25 novembre 1977](decret-n77-1295-du-25-novembre-1977)
 - [Décret n°77-1301 du 25 novembre 1977](decret-n77-1301-du-25-novembre-1977)
 - [Décret n°82-200 du 25 février 1982](decret-n82-200-du-25-fevrier-1982)
 - [Décret n°82-220 du 25 février 1982](decret-n82-220-du-25-fevrier-1982)

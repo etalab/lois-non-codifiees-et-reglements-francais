@@ -1,3 +1,0 @@
-# Article 1
-
-Par dérogation aux dispositions de l'article 396 du code rural, sont instituées deux fédérations interdépartementales des chasseurs, l'une pour la ville de Paris et les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne, l'autre pour les départements des Yvelines, de l'Essonne et du Val d'Oise. Toutes les dispositions législatives et réglementaires relatives aux fédérations départementales leur sont applicables de plein droit. Le modèle de statuts adopté par le ministre de l'agriculture en application de l'alinéa 1er de l'article 396 susvisé peut comporter des dispositions particulières à ces fédérations interdépartementales.

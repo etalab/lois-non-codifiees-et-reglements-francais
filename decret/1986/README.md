@@ -80,7 +80,6 @@
 - [Décret n°86-175 du 6 février 1986](decret-n86-175-du-6-fevrier-1986)
 - [Décret n°86-195 du 6 février 1986](decret-n86-195-du-6-fevrier-1986)
 - [Décret n°86-197 du 6 février 1986](decret-n86-197-du-6-fevrier-1986)
-- [Décret n°86-198 du 6 février 1986](decret-n86-198-du-6-fevrier-1986)
 - [Décret n°86-321 du 6 mars 1986](decret-n86-321-du-6-mars-1986)
 - [Décret n°86-322 du 6 mars 1986](decret-n86-322-du-6-mars-1986)
 - [Décret n°86-323 du 6 mars 1986](decret-n86-323-du-6-mars-1986)

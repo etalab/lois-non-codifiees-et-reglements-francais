@@ -1,7 +1,6 @@
 # Décret n°86-574 du 14 mars 1986 portant statut des gardes-pêche de l'Office national de l'eau et des milieux aquatiques.
 
 - [Article 1](article-1.md)
-- [CHAPITRE Ier : Missions](chapitre-ier)
 - [CHAPITRE II : Affectation.](chapitre-ii)
 - [CHAPITRE III : Uniforme et marques distinctives.](chapitre-iii)
 - [CHAPITRE V : Incompatibilités.](chapitre-v)
