@@ -861,7 +861,6 @@
 - [Décret n°94-559 du 30 juin 1994 (MAEJ9430014D)](decret-n94-559-du-30-juin-1994-maej9430014d)
 - [Décret n°94-560 du 30 juin 1994 (MAEJ9430042D)](decret-n94-560-du-30-juin-1994-maej9430042d)
 - [Décret n°94-561 du 30 juin 1994 (EQUT9400776D)](decret-n94-561-du-30-juin-1994-equt9400776d)
-- [Décret n°94-562 du 30 juin 1994 (MCCK9400002D)](decret-n94-562-du-30-juin-1994-mcck9400002d)
 - [Décret n°94-563 du 30 juin 1994 (MCCK9400001D)](decret-n94-563-du-30-juin-1994-mcck9400001d)
 - [Décret n°94-565 du 30 juin 1994 (AGRA9400922D)](decret-n94-565-du-30-juin-1994-agra9400922d)
 - [Décret n°94-750 du 30 août 1994 (COMC9400003D)](decret-n94-750-du-30-aout-1994-comc9400003d)
