@@ -421,7 +421,6 @@
 - [Décret n°90-421 du 16 mai 1990 (ECOC9000033D)](decret-n90-421-du-16-mai-1990-ecoc9000033d)
 - [Décret n°90-422 du 16 mai 1990 (ECOC9000056D)](decret-n90-422-du-16-mai-1990-ecoc9000056d)
 - [Décret n°90-424 du 16 mai 1990 (BUDL9000074D)](decret-n90-424-du-16-mai-1990-budl9000074d)
-- [Décret n°90-1120 du 17 décembre 1990 (AGRG9002168D)](decret-n90-1120-du-17-decembre-1990-agrg9002168d)
 - [Décret n°90-1124 du 17 décembre 1990 (SPSA9002206D)](decret-n90-1124-du-17-decembre-1990-spsa9002206d)
 - [Décret n°90-1127 du 17 décembre 1990 (BUDF9010067D)](decret-n90-1127-du-17-decembre-1990-budf9010067d)
 - [Décret n°90-357 du 17 avril 1990 (AGRR9000289D)](decret-n90-357-du-17-avril-1990-agrr9000289d)
