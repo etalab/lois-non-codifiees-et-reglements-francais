@@ -35,4 +35,3 @@
 - [Loi n° 90-1258 du 31 décembre 1990 (JUSX9000026L)](loi-n-90-1258-du-31-decembre-1990-jusx9000026l)
 - [Loi n° 92-1441 du 31 décembre 1992 (DOMX9200192L)](loi-n-92-1441-du-31-decembre-1992-domx9200192l)
 - [Loi n° 96-1 du 2 janvier 1996 (JUSX9500111L)](loi-n-96-1-du-2-janvier-1996-jusx9500111l)
-- [Loi n°2001-153 du 19 février 2001 (ATEX0004061L)](loi-n2001-153-du-19-fevrier-2001-atex0004061l)
