@@ -40,18 +40,6 @@ Communication.
 
 NOM DE LA SOCIETE
 
-Compagnie financière de C.I.C. et de l'Union européenne
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-1
-
-REPARTITION PAR MINISTERE
-
-Economie.
-
-NOM DE LA SOCIETE
-
 Compagnie générale de matières nucléaires (Cogéma)
 
 NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
@@ -79,30 +67,6 @@ NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillanc
 REPARTITION PAR MINISTERE
 
 Industrie.
-
-NOM DE LA SOCIETE
-
-Groupe des assurances nationales International
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-1
-
-REPARTITION PAR MINISTERE
-
-Economie.
-
-NOM DE LA SOCIETE
-
-Groupe des assurances nationales S.A..
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-1
-
-REPARTITION PAR MINISTERE
-
-Economie.
 
 NOM DE LA SOCIETE
 
@@ -259,44 +223,6 @@ Budget.
 Economie.
 
 Transports.
-
-NOM DE LA SOCIETE
-
-Société pour la réalisation de la liaison fluviale Saône-Rhin
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-6
-
-REPARTITION PAR MINISTERE
-
-Aménagement du territoire.
-
-Budget.
-
-Economie.
-
-Energie.
-
-Environnement.
-
-Voies navigables.
-
-NOM DE LA SOCIETE
-
-Thomson-C.S.F..
-
-NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
-
-3
-
-REPARTITION PAR MINISTERE
-
-Défense.
-
-Economie.
-
-Industrie.
 
 NOM DE LA SOCIETE
 
