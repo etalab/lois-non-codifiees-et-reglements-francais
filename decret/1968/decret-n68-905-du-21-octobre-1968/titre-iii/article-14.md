@@ -2,15 +2,11 @@
 
 Les ressources du Théâtre de France comprennent notamment :
 
-1° Les recettes des représentations théâtrales.
+1° Les recettes des représentations théâtrales ou le produit des coréalisations.
 
-Pour ces représentations, le tarif des places est fixé par arrêté du ministre des affaires culturelles, après accord du ministre de l'économie et des finances.
-
-Pour les représentations données en dehors des salles mises à la disposition du Théâtre de France, le directeur est libre de fixer le tarif des places. Les recettes de tous ordres afférentes auxdites représentations ne pourront donner lieu à une comptabilité distincte de celle du Théâtre de France.
+Les recettes de tous ordres afférentes aux représentations données en dehors des salles mises à la disposition du Théâtre national de l'Odéon ne pourront donner lieu à une comptabilité distincte de celle du Théâtre national de l'Odéon.
 
 2° Les recettes des manifestations artistiques et culturelles diverses: concerts, conférences, projections cinématographiques, représentations radiodiffusées ou télévisées, etc.
-
-Pour ces manifestations le tarif des places ne peut, sans l'accord du ministre des affaires culturelles, être supérieur à celui qui est fixé pour les représentations habituelles.
 
 3° Le produit de la location des salles de spectacles.
 
