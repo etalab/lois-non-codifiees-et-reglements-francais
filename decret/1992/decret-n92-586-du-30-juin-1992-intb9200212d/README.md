@@ -1,0 +1,3 @@
+# Décret n°92-586 du 30 juin 1992 relatif à la prise en compte de la nouvelle bonification indiciaire dans le calcul des pensions de retraite des bénéficiaires de la Caisse nationale de retraites des agents des collectivités locales et modifiant le décret n° 47-1846 du 19 septembre 1947 modifié relatif à la constitution de la Caisse nationale de retraites prévue à l'article 3 de l'ordonnance du 17 mai 1945 ainsi que le décret n° 65-773 du 9 septembre 1965 modifié relatif au régime de retraite des fonctionnaires affiliés à la Caisse nationale de retraites des agents des collectivités locales
+
+- [Article 5](article-5.md)
