@@ -26,6 +26,7 @@
 - [Arrêté du 16 février 1973](arrete-du-16-fevrier-1973)
 - [Arrêté du 17 mai 1973](arrete-du-17-mai-1973)
 - [Arrêté du 18 décembre 1972](arrete-du-18-decembre-1972)
+- [Arrêté du 18 juin 1973](arrete-du-18-juin-1973)
 - [Arrêté du 18 mai 1973](arrete-du-18-mai-1973)
 - [Arrêté du 19 avril 1973](arrete-du-19-avril-1973)
 - [Arrêté du 19 mars 1973](arrete-du-19-mars-1973)
