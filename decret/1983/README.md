@@ -162,6 +162,7 @@
 - [Décret n°83-547 du 24 juin 1983](decret-n83-547-du-24-juin-1983)
 - [Décret n°83-548 du 24 juin 1983](decret-n83-548-du-24-juin-1983)
 - [Décret n°83-689 du 25 juillet 1983](decret-n83-689-du-25-juillet-1983)
+- [Décret n°83-707 du 25 juillet 1983](decret-n83-707-du-25-juillet-1983)
 - [Décret n°83-419 du 25 mai 1983](decret-n83-419-du-25-mai-1983)
 - [Décret n°83-40 du 26 janvier 1983](decret-n83-40-du-26-janvier-1983)
 - [Décret n°83-56 du 26 janvier 1983](decret-n83-56-du-26-janvier-1983)
