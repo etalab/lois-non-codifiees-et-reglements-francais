@@ -1,0 +1,3 @@
+# Article 4
+
+Pour les secteurs industriels qui ne sont pas mentionnés ci-dessus ou dont les rejets en cadmium ne sont réglementés par aucun des trois arrêtés du 26 septembre 1985 (Journal officiel du 16 novembre 1985) relatifs respectivement aux ateliers de traitements de surface, aux rejets de cadmium dans les eaux en provenance des ateliers de fabrication de batteries et aux rejets de cadmium dans les eaux en provenance d'installations métallurgiques concernant les métaux non ferreux, les normes d'émission qu'imposent les arrêtés préfectoraux d'autorisation tiennent compte des meilleurs moyens techniques disponibles et ne sont pas moins strictes que la valeur limite la plus comparable contenue dans le tableau ci-dessus ou dans l'un des trois arrêtés précités.
