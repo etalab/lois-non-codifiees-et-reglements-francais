@@ -2,23 +2,27 @@
 
 I. - Le conseil de discipline de l'établissement comprend :
 
-- le chef d'établissement ou son adjoint, président ;
+1° Le chef d'établissement ;
 
-- un conseiller principal d'éducation ou un conseiller d'éducation désigné par le conseil d'administration, sur proposition du chef d'établissement ;
+2° L'adjoint au chef d'établissement ;
 
-- le gestionnaire de l'établissement ;
+3° Un conseiller principal d'éducation désigné par le conseil d'administration, sur proposition du chef d'établissement ;
 
-- trois représentants des personnels dont deux au titre des personnels d'enseignement et un au titre des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
+4° Le gestionnaire de l'établissement ;
 
-- trois représentants des parents d'élèves dans les collèges et deux dans les lycées ;
+5° Cinq représentants des personnels dont quatre représentant les personnels d'enseignement et d'éducation et un représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service ;
 
-- deux représentants des élèves dans les collèges et trois dans les lycées.
+6° Trois représentants des parents d'élèves dans les collèges et deux dans les lycées ;
 
-Les représentants des personnels sont élus chaque année en leur sein par les membres du conseil d'administration appartenant à leurs catégories respectives. Cette élection a lieu, pour les personnels d'enseignement au scrutin proportionnel au plus fort reste et pour le représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service au scrutin uninominal à un tour.
+7° Deux représentants des élèves dans les collèges et trois dans les lycées.
 
-Les représentants des parents et des élèves sont élus chaque année par leurs représentants au sein du conseil d'administration au scrutin proportionnel au plus fort reste.
+Le conseil de discipline est présidé par le chef d'établissement ou, en cas d'absence de celui-ci, par son adjoint.
 
-Pour chaque membre élu du conseil, un suppléant est élu dans les mêmes conditions.
+Les représentants des personnels sont élus chaque année en leur sein par les membres titulaires et suppléants du conseil d'administration appartenant à leurs catégories respectives. Cette élection a lieu, pour les représentants des personnels d'enseignement et d'éducation, au scrutin proportionnel au plus fort reste, pour le représentant des personnels administratifs, sociaux et de santé, techniques, ouvriers et de service, au scrutin uninominal à un tour.
+
+Les représentants des parents d'élèves et des élèves sont élus chaque année en leur sein par les membres titulaires et suppléants du conseil d'administration appartenant respectivement à chacune de ces catégories au scrutin proportionnel au plus fort reste.
+
+Pour chaque membre élu du conseil de discipline, un suppléant est désigné dans les mêmes conditions.
 
 II. - Le conseil de discipline est saisi par le chef d'établissement. Il a compétence pour prononcer à l'encontre des élèves l'ensemble des sanctions et des mesures mentionnées à l'article 3, dans les conditions fixées par ce même article.
 
