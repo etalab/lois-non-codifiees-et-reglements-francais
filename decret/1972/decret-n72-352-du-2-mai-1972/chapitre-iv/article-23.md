@@ -1,0 +1,3 @@
+# Article 23
+
+A titre transitoire et jusqu'à ce qu'il soit possible de fixer les limites des secteurs et des régions sanitaires dans les conditions prévues à l'article 44 de la loi susvisée du 31 décembre 1970, un arrêté du ministre de la santé publique et de la sécurité sociale fixe, pour l'application du présent décret, les limites des secteurs et des régions sanitaires, après avis de la commission nationale de l'équipement hospitalier instituée par l'article 1er du décret n° 58-1202 du 11 décembre 1958 ou, lorsqu'elle aura été constituée, de la commission nationale de l'équipement sanitaire prévue à l'article 44 précité.
