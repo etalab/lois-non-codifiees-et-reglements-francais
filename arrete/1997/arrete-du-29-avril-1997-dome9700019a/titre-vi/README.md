@@ -1,0 +1,3 @@
+# TITRE VI : DISPOSITIONS TRANSITOIRES.
+
+- [Article 18](article-18.md)
