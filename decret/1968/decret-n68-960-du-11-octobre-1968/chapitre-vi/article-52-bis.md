@@ -1,0 +1,7 @@
+# Article 52 bis
+
+Les tributaires, régulièrement affiliés au régime spécial, qui ont quitté le service sans droit à pension de ce régime avant l'entrée en vigueur du présent article peuvent demander le bénéfice des dispositions de l'article 6 bis du présent décret et recevoir à ce titre la pension ou le complément de pension auquel ils ont droit, à compter de la demande qu'ils en font, compte tenu de la pension dont ils bénéficient pour les mêmes périodes au titre du régime général de sécurité sociale. Ce complément prend effet au jour anniversaire de leurs soixante-cinq ans au profit des titulaires n'ayant pas atteint cet âge à la date d'entrée en vigueur du présent article. Pour les tributaires ayant dépassé cet âge, la pension prend effet le premier jour du mois suivant celui de la demande.
+
+Pour être rétablis dans leurs droits, les intéressés doivent reverser à la caisse de retraites le montant des retenues dont ils ont obtenu le remboursement sur la base de la valeur de ces cotisations actualisées au jour du rachat.
+
+Les sommes dues sont précomptées, à la demande de l'intéressé, sur les arrérages de pension. Elles sont acquittées sur autant de semestres que le temps de services à valider compte d'années entières, sans que toutefois ce prélèvement puisse réduire le montant des arrérages de plus d'un cinquième. Les intéressés conservent la faculté de se libérer à tout moment des sommes restant dues.
