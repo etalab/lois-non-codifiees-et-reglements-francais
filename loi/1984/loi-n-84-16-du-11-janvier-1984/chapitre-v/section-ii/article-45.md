@@ -16,4 +16,4 @@ Le fonctionnaire détaché remis à la disposition de son administration d'origi
 
 A l'expiration de son détachement, le fonctionnaire est obligatoirement réintégré dans son corps d'origine.
 
-Toutefois, il peut être intégré dans le corps de détachement dans les conditions prévues par le statut particulier de ce corps.    un fonctionnaire ne peut être détaché auprès d'une personne physique.
+Toutefois, il peut être intégré dans le corps de détachement dans les conditions prévues par le statut particulier de ce corps.

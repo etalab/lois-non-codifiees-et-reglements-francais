@@ -17,4 +17,6 @@
 - [Loi n° 88-1262 du 30 décembre 1988 (INTX8800142L)](loi-n-88-1262-du-30-decembre-1988-intx8800142l)
 - [Loi n° 88-1263 du 30 décembre 1988 (DOMX8800017L)](loi-n-88-1263-du-30-decembre-1988-domx8800017l)
 - [Loi n° 88-1264 du 30 décembre 1988 (DOMX8800050L)](loi-n-88-1264-du-30-decembre-1988-domx8800050l)
+- [Loi n° 89-18 du 13 janvier 1989 (SPSX8800135L)](loi-n-89-18-du-13-janvier-1989-spsx8800135l)
+- [Loi n° 89-19 du 13 janvier 1989 (INTX8800143L)](loi-n-89-19-du-13-janvier-1989-intx8800143l)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)

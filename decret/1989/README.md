@@ -9,6 +9,7 @@
 - [Décret n°89-614 du 1 septembre 1989 (SPSH8901737D)](decret-n89-614-du-1-septembre-1989-spsh8901737d)
 - [Décret n°88-906 du 2 septembre 1988 (JUSC8820528D)](decret-n88-906-du-2-septembre-1988-jusc8820528d)
 - [Décret n°89-1 du 2 janvier 1989 (MENU8802576D)](decret-n89-1-du-2-janvier-1989-menu8802576d)
+- [Décret n°89-20 du 2 janvier 1989 (BUDB8820023D)](decret-n89-20-du-2-janvier-1989-budb8820023d)
 - [Décret n°89-533 du 2 août 1989 (MENF8901207D)](decret-n89-533-du-2-aout-1989-menf8901207d)
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)
 - [Décret n°89-3 du 3 janvier 1989 (SPSP8801764D)](decret-n89-3-du-3-janvier-1989-spsp8801764d)
