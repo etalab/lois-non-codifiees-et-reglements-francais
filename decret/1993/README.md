@@ -268,6 +268,7 @@
 - [Décret n°93-74 du 18 janvier 1993 (SPSS9203100D)](decret-n93-74-du-18-janvier-1993-spss9203100d)
 - [Décret n°93-75 du 18 janvier 1993 (RESY9200337D)](decret-n93-75-du-18-janvier-1993-resy9200337d)
 - [Décret du 19 mars 1993 (FPPA9300027D)](decret-du-19-mars-1993-fppa9300027d)
+- [Décret n°87-848 du 19 octobre 1987 (AGRG8701834D)](decret-n87-848-du-19-octobre-1987-agrg8701834d)
 - [Décret n°93-101 du 19 janvier 1993 (SANH9202986D)](decret-n93-101-du-19-janvier-1993-sanh9202986d)
 - [Décret n°93-227 du 19 février 1993 (EQUT9300275D)](decret-n93-227-du-19-fevrier-1993-equt9300275d)
 - [Décret n°93-228 du 19 février 1993 (AGRP9202217D)](decret-n93-228-du-19-fevrier-1993-agrp9202217d)
