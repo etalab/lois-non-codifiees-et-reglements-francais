@@ -707,6 +707,7 @@
 - [Arrêté du 18 décembre 1991 (AGRP9102612A)](arrete-du-18-decembre-1991-agrp9102612a)
 - [Arrêté du 18 décembre 1991 (PTTR9100425A)](arrete-du-18-decembre-1991-pttr9100425a)
 - [Arrêté du 18 décembre 1991 (PTTR9100426A)](arrete-du-18-decembre-1991-pttr9100426a)
+- [Arrêté du 18 décembre 1992 (ACVE9150037A)](arrete-du-18-decembre-1992-acve9150037a)
 - [Arrêté du 18 février 1992 (ACVA9210004A)](arrete-du-18-fevrier-1992-acva9210004a)
 - [Arrêté du 18 février 1992 (ACVA9210005A)](arrete-du-18-fevrier-1992-acva9210005a)
 - [Arrêté du 18 février 1992 (ACVA9210006A)](arrete-du-18-fevrier-1992-acva9210006a)
