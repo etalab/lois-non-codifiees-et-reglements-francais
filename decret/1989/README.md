@@ -73,6 +73,8 @@
 - [Décret n°89-102 du 14 février 1989 (PRME8961308D)](decret-n89-102-du-14-fevrier-1989-prme8961308d)
 - [Décret n°89-105 du 14 février 1989 (MAEJ8930002D)](decret-n89-105-du-14-fevrier-1989-maej8930002d)
 - [Décret n°89-170 du 14 mars 1989 (BUDF8910016D)](decret-n89-170-du-14-mars-1989-budf8910016d)
+- [Décret n°89-172 du 14 mars 1989 (MAEJ8930018D)](decret-n89-172-du-14-mars-1989-maej8930018d)
+- [Décret n°89-175 du 14 mars 1989 (SPSA8900068D)](decret-n89-175-du-14-mars-1989-spsa8900068d)
 - [Décret n°90-487 du 14 juin 1990 (EQUP8901081D)](decret-n90-487-du-14-juin-1990-equp8901081d)
 - [Décret n°89-106 du 15 février 1989 (JUSB8910032D)](decret-n89-106-du-15-fevrier-1989-jusb8910032d)
 - [Décret n°89-98 du 15 février 1989 (EQUC8900026D)](decret-n89-98-du-15-fevrier-1989-equc8900026d)
