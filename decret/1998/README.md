@@ -243,6 +243,8 @@
 - [Décret n°98-29 du 13 janvier 1998 (MESF9711748D)](decret-n98-29-du-13-janvier-1998-mesf9711748d)
 - [Décret n°98-40 du 13 janvier 1998 (MENN9703125D)](decret-n98-40-du-13-janvier-1998-menn9703125d)
 - [Décret n°98-593 du 13 juillet 1998 (MESH9822198D)](decret-n98-593-du-13-juillet-1998-mesh9822198d)
+- [Décret n°98-596 du 13 juillet 1998 (ECOT9826215D)](decret-n98-596-du-13-juillet-1998-ecot9826215d)
+- [Décret n°98-597 du 13 juillet 1998 (AGRA9800763D)](decret-n98-597-du-13-juillet-1998-agra9800763d)
 - [Décret n°99-20 du 13 janvier 1999 (MENF9802992D)](decret-n99-20-du-13-janvier-1999-menf9802992d)
 - [Décret n°99-21 du 13 janvier 1999 (MENF9802993D)](decret-n99-21-du-13-janvier-1999-menf9802993d)
 - [Décret n°98-369 du 13 mai 1998 (EQUH9701764D)](decret-n98-369-du-13-mai-1998-equh9701764d)
