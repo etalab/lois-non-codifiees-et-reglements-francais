@@ -117,6 +117,7 @@
 - [Décret n°82-103 du 22 janvier 1982](decret-n82-103-du-22-janvier-1982)
 - [Décret n°82-537 du 22 juin 1982](decret-n82-537-du-22-juin-1982)
 - [Décret n°82-639 du 22 juillet 1982](decret-n82-639-du-22-juillet-1982)
+- [Décret n°82-665 du 22 juillet 1982](decret-n82-665-du-22-juillet-1982)
 - [Décret n°82-71 du 22 janvier 1982](decret-n82-71-du-22-janvier-1982)
 - [Décret n°82-72 du 22 janvier 1982](decret-n82-72-du-22-janvier-1982)
 - [Décret n°82-260 du 23 mars 1982](decret-n82-260-du-23-mars-1982)
