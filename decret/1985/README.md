@@ -85,6 +85,7 @@
 - [Décret n°85-426 du 12 avril 1985](decret-n85-426-du-12-avril-1985)
 - [Décret n°85-427 du 12 avril 1985](decret-n85-427-du-12-avril-1985)
 - [Décret n°85-709 du 12 juillet 1985](decret-n85-709-du-12-juillet-1985)
+- [Décret n°85-713 du 12 juillet 1985](decret-n85-713-du-12-juillet-1985)
 - [Décret n°85-889 du 12 août 1985](decret-n85-889-du-12-aout-1985)
 - [Décret n° 85-218 du 13 février 1985](decret-n-85-218-du-13-fevrier-1985)
 - [Décret n° 85-338 du 13 mars 1985](decret-n-85-338-du-13-mars-1985)

@@ -6,4 +6,4 @@ A 1 p. 100 du montant brut des droits d'auteur des artistes auteurs d'oeuvres li
 
 A 1 p. 100 de la rémunération brute des artistes auteurs d'oeuvres graphiques et plastiques, lorsque les oeuvres ne sont pas vendues au public ;
 
-A 1,5 p. 100 du montant du chiffre d'affaires réalisé à l'occasion de la diffusion ou de l'exploitation commerciale d'oeuvres graphiques ou plastiques.
+A 3,3 p. 100 du montant du chiffre d'affaires réalisé à l'occasion de la diffusion ou de l'exploitation commerciale d'oeuvres graphiques ou plastiques.
