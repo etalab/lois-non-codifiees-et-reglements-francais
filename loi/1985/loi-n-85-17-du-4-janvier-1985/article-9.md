@@ -9,3 +9,5 @@ Ces subventions couvrent également les défaillances de remboursement des empru
 Elles sont financées comme les prestations familiales.
 
 Un décret fixe le montant maximum du prêt pour l'emprunteur, les quotas de remise en cas de naissance ainsi que le délai de carence mentionné ci-dessus.
+
+Les articles L. 557 à L. 559 du code de la sécurité sociale sont applicables dans le cas où les infractions qu'ils définissent se rattachent aux prêts institués par le présent article.
