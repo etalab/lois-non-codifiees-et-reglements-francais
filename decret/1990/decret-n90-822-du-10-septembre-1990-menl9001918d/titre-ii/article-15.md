@@ -1,6 +1,6 @@
 # Article 15
 
-Les candidats qui, pour une cause de force majeure dûment constatée, n'ont pu subir les épreuves de la session organisée à la fin de l'année scolaire peuvent, avec l'autorisation du recteur, subir des épreuves de remplacement organisées en septembre sur le même modèle que celles prévues à la session normale. Si l'empêchement est motivé par une raison de santé, ils doivent fournir un certificat délivré par un médecin concourant à l'exercice des tâches médico-scolaires.
+Les candidats qui, en cas d'absence justifiée liée à un événement indépendant de leur volonté, n'ont pu subir les épreuves de la session organisée à la fin de l'année scolaire peuvent, avec l'autorisation du recteur, subir des épreuves de remplacement organisées en septembre sur le même modèle que celles prévues à la session normale. Si l'empêchement est motivé par une raison de santé, ils doivent fournir un certificat délivré par un médecin concourant à l'exercice des tâches médico-scolaires.
 
 Ces dispositions s'appliquent aux épreuves anticipées.
 

@@ -10,9 +10,7 @@ II. - Des organismes extérieurs, dont les attributions, l'organisation et le fo
 
 - les directions locales en région ou en arrondissement maritime ;
 
-- le service technique du commissariat de la marine ;
-
-- le service des marchés généraux du commissariat de la marine ;
+- le service technique et des marchés généraux du commissariat de la marine ;
 
 - le centre informatique du commissariat de la marine ;
 
