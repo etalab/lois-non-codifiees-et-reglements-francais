@@ -1,6 +1,6 @@
 # Article 12
 
-1° Le droit à pension d'ancienneté est acquis aux agents employés ou ouvriers de l'un ou de l'autre sexe, à soixante ans d'âge après trente ans accomplis de services effectifs valables pour la retraite. Toutefois, il suffit de cinquante-cinq ans d'âge et de vingt-cinq ans de services valables pour la retraite pour les agents qui ont passé quinze ans au moins dans la catégorie B (service actif) ;
+1° Le droit à pension d'ancienneté est acquis aux agents employés ou ouvriers de l'un ou de l'autre sexe, à soixante ans d'âge après trente ans accomplis de services effectifs valables pour la retraite.    Toutefois, il suffit de cinquante-cinq ans d'âge et de vingt-cinq ans de services valables pour la retraite pour les agents qui ont passé quinze ans au moins dans la catégorie B (service actif) ;
 
 2° Les intéressés pourront, s'ils le demandent, et avec le consentement de l'exploitant, être maintenus en activité au delà des âges ci-dessus indiqués ; l'entrée en jouissance de la pension sera alors reculée aussi longtemps que le titulaire restera en activité.
 
@@ -10,7 +10,11 @@ La liste des emplois classés dans chacune des deux catégories A (services séd
 
 4° La pension d'ancienneté, telle qu'elle est déterminée par l'application des dispositions ci-dessus, est majorée de 10 p. 100 pour tout agent ayant élevé trois enfants jusqu'à l'âge de 16 ans. Si le nombre des enfants élevés jusqu'à l'âge de 16 ans est supérieur à trois, des majorations supplémentaires de 5 p. 100 sont ajoutées pour chaque enfant au-delà du troisième.
 
+Entreront en compte les enfants décédés par faits de guerre.
+
 Les majorations pour enfants calculées compte tenu des divers maxima applicables à la pension ne pourront pas, en s'ajoutant à cette pension, la porter au-delà du dernier salaire d'activité soumis à retenue pour pension.
+
+Le bénéfice de ces majorations est étendu, sans condition d'âge, aux titulaires de pensions de réforme qui remplissent la condition de durée de service, vingt-cinq ou trente ans, prévue pour leur catégorie d'emploi.
 
 Le temps passé ou à passer sous les drapeaux, en sus du service dans l'armée active, entre, en cas de mobilisation, en ligne de compte dans la durée du service.
 
