@@ -16,7 +16,6 @@
 - [Arrêté du 1 juillet 1993 (EQUA9301073A)](arrete-du-1-juillet-1993-equa9301073a)
 - [Arrêté du 1 juillet 1993 (EQUT9301024A)](arrete-du-1-juillet-1993-equt9301024a)
 - [Arrêté du 1 juillet 1993 (EQUT9301025A)](arrete-du-1-juillet-1993-equt9301025a)
-- [Arrêté du 1 juillet 1993 (PRMX9300326A)](arrete-du-1-juillet-1993-prmx9300326a)
 - [Arrêté du 1 mars 1993 (ECOT9326071A)](arrete-du-1-mars-1993-ecot9326071a)
 - [Arrêté du 1 mars 1993 (ENVN9320120A)](arrete-du-1-mars-1993-envn9320120a)
 - [Arrêté du 1 mars 1993 (MENH9300149A)](arrete-du-1-mars-1993-menh9300149a)
