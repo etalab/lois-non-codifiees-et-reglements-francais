@@ -14,9 +14,9 @@ d) Aux veuves et orphelins des marins propriétaires ou copropriétaires ci-dess
 
 II - L'étendue de l'exonération prévue au I est fixée en fonction :
 
-1° Dans le cas de propriété ou de copropriété d'un navire unique de la jauge brute de celui-ci ;
+1° Dans le cas de propriété ou de copropriété d'un navire unique de la longueur hors tout de celui-ci ;
 
-2° Dans le cas de propriété ou de copropriété de plusieurs navires de la jauge brute totale de ceux-ci.
+2° Dans le cas de propriété ou de copropriété de plusieurs navires de la longueur obtenue par application des règles de calcul fixées par l'article R. 25, 3° alinéa, du code des pensions de retraite des marins.
 
 III - Les dispositions du I du présent article ne sont applicables en ce qui concerne les pilotes que lorsque le volume annuel des bateaux pilotés dans la station à l'entrée et à la sortie des ports est inférieur à dix millions de mètres cubes [*volume maximum*].
 

@@ -17,16 +17,16 @@ dues à la caisse générale de prévoyance des marins
 <td> :       SITUATIONS ENVISAGEES         :  MARIN  : EMPLOYEUR :</td>
 </tr>
 <tr>
-<td> :-------------------------------------:---------:-----------:</td>
+<td> :                                     :  p. 100 :   p. 100  :</td>
 </tr>
 <tr>
-<td> :                                     :  P. 100 :   P. 100  :</td>
+<td> :-------------------------------------:---------:-----------:</td>
 </tr>
 <tr>
 <td> :                                     :         :           :</td>
 </tr>
 <tr>
-<td> : Cas général                         :    6    :    14,75  :</td>
+<td> : Cas général ...                     :    6    :    15,75  :</td>
 </tr>
 <tr>
 <td> :                                     :         :           :</td>
@@ -35,7 +35,7 @@ dues à la caisse générale de prévoyance des marins
 <td> : Equipage des navires armés à la     :         :           :</td>
 </tr>
 <tr>
-<td> :  petite pêche, à la pêche côtière,  :         :           :</td>
+<td> :  petite pêche, à la pêche côtière   :         :           :</td>
 </tr>
 <tr>
 <td> :  à la pêche au large, à la          :         :           :</td>
@@ -50,49 +50,40 @@ dues à la caisse générale de prévoyance des marins
 <td> :  copropriétaires sont embarqués :   :         :           :</td>
 </tr>
 <tr>
-<td> :   Navires de plus de 35 tonneaux    :         :           :</td>
+<td> :                                     :         :           :</td>
 </tr>
 <tr>
-<td> :    de jauge brute :                 :         :           :</td>
+<td> :   - navire d'une longueur           :         :           :</td>
 </tr>
 <tr>
-<td> :     Propriétaire embarqué           :    6    :     4,55  :</td>
+<td> :     inférieure ou égale à 12 m :    :         :           :</td>
 </tr>
 <tr>
-<td> :     Autres membres de l'équipage    :    6    :    14,75  :</td>
+<td> :     Propriétaire embarqué ...       :    6    :     5,55  :</td>
+</tr>
+<tr>
+<td> :     Autres membres de l'équipage    :    6    :     6,85  :</td>
 </tr>
 <tr>
 <td> :                                     :         :           :</td>
 </tr>
 <tr>
-<td> :   Navires de plus de 30 tonneaux    :         :           :</td>
+<td> :   - navire d'une longueur           :         :           :</td>
 </tr>
 <tr>
-<td> :    de jauge brute, sans dépasser    :         :           :</td>
+<td> :     supérieure à 12 m et inférieure :         :           :</td>
 </tr>
 <tr>
-<td> :    35 tonneaux de jauge brute :     :         :           :</td>
+<td> :     ou égale à 25 m :               :         :           :</td>
 </tr>
 <tr>
-<td> :     Propriétaire embarqué           :    6    :     4,55  :</td>
+<td> :     Propriétaire embarqué ...       :    6    :     5,55  :</td>
 </tr>
 <tr>
-<td> :     Autres membres de l'équipage    :    6    :     8,31  :</td>
+<td> :     Autres membres de l'équipage    :    6    :    11,00  :</td>
 </tr>
 <tr>
 <td> :                                     :         :           :</td>
-</tr>
-<tr>
-<td> :   Navires de 30 tonneaux de jauge   :         :           :</td>
-</tr>
-<tr>
-<td> :    brute et moins :                 :         :           :</td>
-</tr>
-<tr>
-<td> :     Propriétaire embarqué           :    6    :     4,55  :</td>
-</tr>
-<tr>
-<td> :     Autres membres de l'équipage    :    6    :     5,85  :</td>
 </tr>
 </table>
 
