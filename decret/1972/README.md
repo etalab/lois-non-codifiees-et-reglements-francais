@@ -2,6 +2,7 @@
 
 - [Décret n°72-1076 du 1 décembre 1972](decret-n72-1076-du-1-decembre-1972)
 - [Décret n°72-1028 du 2 novembre 1972](decret-n72-1028-du-2-novembre-1972)
+- [Décret n°72-350 du 2 mai 1972](decret-n72-350-du-2-mai-1972)
 - [Décret n°72-352 du 2 mai 1972](decret-n72-352-du-2-mai-1972)
 - [Décret n°72-378 du 2 mai 1972](decret-n72-378-du-2-mai-1972)
 - [Décret n°72-950 du 3 octobre 1972](decret-n72-950-du-3-octobre-1972)

@@ -1,0 +1,3 @@
+# Article 3
+
+TEXTE    Dès réception des avis de crue, les maires en assureront la diffusion aux intéressés par les moyens les plus sûrs et les plus rapides appropriés aux circonstances, qu'ils définiront à l'avance. Ils établiront, si besoin est, le code des signaux optiques, sonores ou lumineux nécessaires. COMMENTAIRES    On précisera, le cas échéant, les intéressés particulièrement concernés, usiniers, responsables de terrains de camping ...    Préciser éventuellement les autres lieux où le public pourra prendre connaissance de ces avis. TEXTE    Ce code devra être porté à la connaissance du public par voie d'affichage aux portes de la mairie.

@@ -1,0 +1,3 @@
+# Article 2
+
+TEXTE    En cas d'impossibilité d'assurer son service, l'observateur devra se faire remplacer par : ...    Au cas où, pour une raison quelconque, le service devrait être interrompu, l'observateur devrait en informer dans les meilleurs délais le chef du centre d'annonce des crues de ...
