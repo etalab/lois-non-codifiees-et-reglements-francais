@@ -1,5 +1,5 @@
 # Article 27
 
-Un tableau établi trimestriellement [*périodicité*] retrace les activités, les charges et consommations de chaque centre de responsabilité. Les tableaux, accompagnés d'une analyse des écarts par rapport aux prévisions initiales, sont communiqués, à sa demande, à l'autorité de tutelle [*information*]. Cette dernière les tient à la disposition de la direction régionale des affaires sanitaires et sociales et de la caisse régionale d'assurance maladie des travailleurs salariés.
+Pour les besoins de la gestion financière et comptable, l'établissement tient une comptabilité analytique par activités. Un tableau de synthèse des coûts par activités est présenté en valeurs financières et unités d'oeuvres, au début de chaque exercice et selon une nomenclature arrêtée par les ministres chargés de la santé et de la sécurité sociale.
 
-Pour chaque établissement, un tableau des effectifs rémunérés au dernier jour de chaque trimestre civil est établi et communiqué à l'autorité de tutelle.
+A la clôture de l'exercice, les résultats de la comptabilité analytique sont retracés dans le tableau de synthèse visé ci-dessus. Ils sont accompagnés d'une analyse des écarts par rapport aux prévisions.

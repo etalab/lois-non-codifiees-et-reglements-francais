@@ -10,16 +10,20 @@ b) Les unités de long séjour mentionnées à l'article 4 de la loi susvisée d
 
 c) Les centres et les postes de transfusion sanguine régis par le décret n° 54-65 du 16 janvier 1954 ;
 
-d) Les services mobiles d'urgence [*SMUR*] dans les conditions fixées à l'article 11 du décret n° 65-1178 du 31 décembre 1965 ;
+d) Les services mobiles d'urgence [*SMUR*] dans les conditions fixées à l'article 11 du décret n° 80-284 du 17 avril 1980 ;
 
 e) Les centres informatiques lorsqu'ils délivrent des prestations à des tiers ;
 
-f) Chacun des services mentionnés par la loi n° 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales.
+f) Chacun des services mentionnés par la loi n° 75-535 du 30 juin 1975 relative aux institutions sociales et médico-sociales.    Les budgets annexes désignés aux alinéas a, b et f du présent article ne peuvent recevoir de subventions d'équilibre du budget général.
 
-Les budgets annexes désignés aux alinéas a, b et f du présent article ne peuvent recevoir de subventions d'équilibre du budget général.
+1° Les excédents des budgets annexes obligatoires désignés au a sont affectés à l'équipement hospitalier ;
 
-Les résultats d'exploitation des budgets annexes mentionnés aux alinéas b et f du présent article sont reportés à ces mêmes budgets au cours de l'exercice suivant l'exercice au cours duquel ils sont constatés.
+2° Ceux des budgets annexes désignés aux b et f sont affectés à la réduction des charges d'exploitation des mêmes budgets de l'exercice suivant celui au cours duquel ils ont été constatés ;
 
-Les résultats d'exploitation des autres budgets annexes sont, après appréciation des circonstances ayant engendré ces résultats, affectés par délibération du conseil d'administration au budget de l'exercice suivant celui au cours duquel ces résultats ont été constatés.
+3° Ceux des budgets annexes désignés aux c, d et e sont totalement ou partiellement affectés, après délibération du conseil d'administration, soit au financement de mesures d'investissement, soit à la réduction des charges d'exploitation des mêmes budgets de l'exercice suivant celui au cours duquel ils ont été constatés.
+
+Les déficits de chacun des budgets annexes obligatoires sont couverts par ajout aux charges d'exploitation des mêmes budgets de l'exercice suivant celui au cours duquel ils ont été constatés.
+
+Les résultats d'exploitation des budgets annexes facultatifs sont incorporés à ceux du budget général du même exercice. Les résultats ainsi consolidés sont ensuite affectés dans les conditions prévues à l'article 19 du présent décret.
 
 Un arrêté des ministres chargés du budget [*autorité administrative compétente*], de la sécurité sociale et de la santé, fixe la liste des activités autres que celles énumérées ci-dessus qui sont susceptibles de faire l'objet d'un budget annexe.

@@ -8,3 +8,4 @@
 - [Chapitre V : Dispositions financières](chapitre-v)
 - [Chapitre VI : Dons et legs](chapitre-vi)
 - [Chapitre VII : Dispositions diverses](chapitre-vii)
+- [Article 27](article-27.md)
