@@ -1,0 +1,3 @@
+# Article 1
+
+Les comptables chargés du recouvrement des taxes, versements et participations mentionnés à l'article L. 255 A du livre des procédures fiscales et à l'article L. 142-2 du code de l'urbanisme doivent justifier de l'entière réalisation de ces produits au 31 décembre de la quatrième année suivant celle au cours de laquelle soit le permis de construire a été délivré ou la déclaration de construction déposée, soit le procès-verbal constatant une infraction a été établi. A défaut, ils ne sont dispensés de verser en tout ou partie les montants non recouvrés que s'ils obtiennent un sursis de versement ou une admission en non-valeur.

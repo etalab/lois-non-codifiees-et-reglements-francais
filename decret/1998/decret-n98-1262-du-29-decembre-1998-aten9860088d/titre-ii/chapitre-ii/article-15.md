@@ -1,0 +1,9 @@
+# Article 15
+
+Lors de leur nomination à titre définitif, les agents de l'Office national de la chasse sont classés dans la classe de base de leur groupe, dans les conditions suivantes :
+
+a) Les agents qui avaient déjà la qualité d'agent de l'Office national de la chasse sont classés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur situation antérieure. Ils conservent l'ancienneté d'échelon acquise dans leur précédente situation, dans la limite de la durée moyenne exigée pour l'accès à l'échelon supérieur dans leur nouvelle classe, lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation. Les agents promus alors qu'ils avaient atteint l'échelon le plus élevé de leur classe d'origine conservent leur ancienneté d'échelon dans les mêmes limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle résultant d'un avancement à ce dernier échelon.
+
+Toutefois, les personnels d'exécution sont classés dans leur nouveau groupe de rémunération selon les mêmes règles que celles prévues par le décret du 27 janvier 1970 susvisé pour les fonctionnaires de l'Etat de catégorie C ;
+
+b) Les agents qui n'avaient pas précédemment la qualité d'agent de l'Office national de la chasse sont classés à un échelon déterminé en prenant en compte, sur la base des durées moyennes prévues pour la classe de base du groupe auquel ils accèdent, outre le temps passé au service national actif, pour leur totalité les services précédemment accomplis en qualité d'agent public et, pour les deux tiers de leur durée, les services accomplis après l'âge de dix-huit ans en qualité de salarié de droit privé dans des fonctions de nature comparable. Le directeur de l'Office national de la chasse apprécie ces services au vu des justificatifs produits.

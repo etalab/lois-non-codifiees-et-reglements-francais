@@ -1,0 +1,3 @@
+# Article 7
+
+Les membres titulaires et suppléants des comités techniques paritaires sont désignés pour trois ans, sous réserve du cas prévu au dernier alinéa de l'article précédent, parmi les fonctionnaires en activité, détachés ou mis à disposition, ou les agents contractuels. Toutefois, la durée du mandat de ces membres peut être modifiée par décision du président du conseil d'administration de La Poste de façon à assurer le renouvellement des comités techniques paritaires départementaux ou spéciaux intéressant une direction ou un service dans un délai de six mois suivant la date des élections professionnelles au niveau considéré.
