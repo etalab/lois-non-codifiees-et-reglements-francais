@@ -1,0 +1,5 @@
+# Article 1
+
+Les cotisations prises en charge par l'Etat, en vertu de l'article premier de la loi n° 77-704 du 5 juillet 1977, sont les cotisations incombant à l'armateur au titre des dispositions du code des pensions de retraites des marins, du décret-loi du 17 juin 1938 et des décrets des 24 mars 1947 et 16 juillet 1948, à l'exclusion des cotisations supportées par le marin, des cotisations destinées au fonds national d'aide au logement et de toutes autres cotisations encaissées par l'établissement national des invalides de la marine ou les caisses nationales d'allocations familiales des marins du commerce et de la pêche maritime.
+
+Les obligations de l'armateur relatives au paiement des cotisations dues à l'établissement national des invalides de la marine et aux caisses d'allocations familiales au titre des marins, ouvrant droit au bénéfice de la prise en charge par l'Etat, se limitent au versement, à chaque échéance, aux agents comptables de ces organismes, des seules cotisations précomptées sur le salaire de ces marins.
