@@ -93,6 +93,7 @@
 - [Arrêté du 6 mars 1989 (SPSH8900450A)](arrete-du-6-mars-1989-spsh8900450a)
 - [Arrêté du 6 mars 1989 (SPSM8801477A)](arrete-du-6-mars-1989-spsm8801477a)
 - [Arrêté du 6 mars 1989 (TEFF8903220A)](arrete-du-6-mars-1989-teff8903220a)
+- [Arrêté du 6 septembre 1989 (ECOT8920103A)](arrete-du-6-septembre-1989-ecot8920103a)
 - [Arrêté du 7 août 1989 (AGRA8901494A)](arrete-du-7-aout-1989-agra8901494a)
 - [Arrêté du 7 août 1989 (AGRR8901513A)](arrete-du-7-aout-1989-agrr8901513a)
 - [Arrêté du 7 août 1989 (SPSA8910329A)](arrete-du-7-aout-1989-spsa8910329a)
