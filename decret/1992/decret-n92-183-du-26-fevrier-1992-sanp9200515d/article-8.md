@@ -10,7 +10,7 @@ La commission d'indemnisation comprend en outre quatre membres nommés par arrê
 
 2. Un membre de l'inspection générale des affaires sociales ;
 
-3. Un médecin membre du Conseil national du syndrome de l'immuno-déficience acquise ;
+3. Un médecin membre ou ancien membre du Conseil national du syndrome de l'immunodéficience acquise ;
 
 4. Une personnalité qualifiée dans le domaine de la santé.
 
