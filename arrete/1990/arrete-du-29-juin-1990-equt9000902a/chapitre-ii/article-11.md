@@ -1,3 +1,0 @@
-# Article 11
-
-L'utilisation des autorisations de transport intérieur d'encadrement dans des conditions autres que celles prévues aux articles 8 à 10 du présent arrêté ou la non-restitution des autorisations périmées peuvent entraîner, sur décision du préfet de la région qui les a délivrées, et sans préjudice d'autres sanctions, l'annulation des autorisations de transport intérieur d'encadrement en cours de validité ou le non-renouvellement des autorisations périmées et l'interdiction de recevoir de nouvelles autorisations de transport intérieur d'encadrement pour une durée maximale de deux ans.

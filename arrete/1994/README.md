@@ -707,7 +707,6 @@
 - [Arrêté du 20 décembre 1993 (EQUS9301953A)](arrete-du-20-decembre-1993-equs9301953a)
 - [Arrêté du 20 décembre 1993 (EQUT9301838A)](arrete-du-20-decembre-1993-equt9301838a)
 - [Arrêté du 20 décembre 1993 (EQUT9301839A)](arrete-du-20-decembre-1993-equt9301839a)
-- [Arrêté du 20 décembre 1993 (EQUT9301840A)](arrete-du-20-decembre-1993-equt9301840a)
 - [Arrêté du 20 décembre 1993 (EQUT9301859A)](arrete-du-20-decembre-1993-equt9301859a)
 - [Arrêté du 20 décembre 1993 (SANP9303600A)](arrete-du-20-decembre-1993-sanp9303600a)
 - [Arrêté du 20 décembre 1993 (SPSH9303638A)](arrete-du-20-decembre-1993-spsh9303638a)

@@ -218,8 +218,6 @@
 - [Décret n°88-262 du 18 mars 1988 (ECOP8800067D)](decret-n88-262-du-18-mars-1988-ecop8800067d)
 - [Décret n°87-123 du 19 février 1987 (MAEJ8730009D)](decret-n87-123-du-19-fevrier-1987-maej8730009d)
 - [Décret n°87-124 du 19 février 1987 (MAEJ8730005D)](decret-n87-124-du-19-fevrier-1987-maej8730005d)
-- [Décret n°87-178 du 19 mars 1987 (INTD8700076D)](decret-n87-178-du-19-mars-1987-intd8700076d)
-- [Décret n°87-179 du 19 mars 1987 (INTD8700077D)](decret-n87-179-du-19-mars-1987-intd8700077d)
 - [Décret n°87-182 du 19 mars 1987 (MERP8700010D)](decret-n87-182-du-19-mars-1987-merp8700010d)
 - [Décret n°87-195 du 19 mars 1987 (ASED8703205D)](decret-n87-195-du-19-mars-1987-ased8703205d)
 - [Décret n°87-428 du 19 juin 1987](decret-n87-428-du-19-juin-1987)
