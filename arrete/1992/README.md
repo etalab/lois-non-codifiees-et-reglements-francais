@@ -243,6 +243,7 @@
 - [Arrêté du 16 janvier 1992 (TEFT9204335A)](arrete-du-16-janvier-1992-teft9204335a)
 - [Arrêté du 16 mars 1992 (AGRA9200524A)](arrete-du-16-mars-1992-agra9200524a)
 - [Arrêté du 16 mars 1992 (BUDF9200011A)](arrete-du-16-mars-1992-budf9200011a)
+- [Arrêté du 16 mars 1992 (DEFB9201330A)](arrete-du-16-mars-1992-defb9201330a)
 - [Arrêté du 16 mars 1992 (ECOC9200043A)](arrete-du-16-mars-1992-ecoc9200043a)
 - [Arrêté du 16 mars 1992 (EQUC9200377A)](arrete-du-16-mars-1992-equc9200377a)
 - [Arrêté du 16 mars 1992 (EQUS9200052A)](arrete-du-16-mars-1992-equs9200052a)
