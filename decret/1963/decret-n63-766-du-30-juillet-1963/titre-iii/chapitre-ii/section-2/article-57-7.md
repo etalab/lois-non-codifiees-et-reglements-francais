@@ -1,3 +1,5 @@
 # Article 57-7
 
-La décision juridictionnelle de refus d'admission est notifiée au requérant ou à son mandataire. Elle n'est susceptible que du recours en rectification d'erreur matérielle et du recours en révision.    Lorsque la commission ne refuse pas l'admission du pourvoi, le dossier est transmis au président de la section du contentieux afin qu'il soit procédé à son instruction dans les conditions ordinaires ; le requérant ou son mandataire est avisé de cette transmission.
+En cas de désistement avant l'admission du pourvoi, ou si le requérant est réputé s'être désisté en application de l'article 53-3, le président de la sous-section donne acte du désistement par ordonnance.
+
+Lorsque le pourvoi devient sans objet avant son admission, le président de la sous-section peut constater par ordonnance qu'il n'y a pas lieu d'y statuer.

@@ -1,9 +1,5 @@
 # Article 57-5
 
-Lorsqu'elle examine les dossiers qui lui sont soumis en application du précédent article, la commission est composée de trois membres ayant voix délibérative, à savoir :
+La décision juridictionnelle de refus d'admission est notifiée au requérant ou à son mandataire. Elle n'est susceptible que du recours en rectification d'erreur matérielle et du recours en révision.
 
-- le président ou le président suppléant ;
-
-- un assesseur ;
-
-- le rapporteur.
+Lorsque la formation de jugement ne refuse pas l'admission du pourvoi, il est procédé à l'instruction de l'affaire dans les conditions ordinaires. Le requérant ou son mandataire en est avisé.

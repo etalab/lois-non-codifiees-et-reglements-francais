@@ -14,8 +14,4 @@ ou
 
 ou
 
-"Le Conseil d'Etat statuant au contentieux (section du contentieux, énième sous-section).
-
-ou
-
-"Le Conseil d'Etat statuant au contentieux (section du contentieux, commission d'admission des pourvois en cassation)
+"Le Conseil d'Etat statuant au contentieux (section du contentieux, énième sous-section)".

@@ -1,3 +1,3 @@
 # Article 57-8
 
-Lorsque les conclusions d'un pourvoi en cassation sont assorties de conclusions à fin de sursis à exécution, le président de la commission d'admission peut, s'il y a lieu, rejeter ces dernières conclusions sans instruction ; dans le cas contraire, les conclusions à fin de sursis sont transmises à une sous-section.
+Lorsque le pourvoi en cassation devant le Conseil d'Etat n'est pas recevable sans le ministère d'un avocat au Conseil d'Etat et à la Cour de cassation, la notification des décisions des juridictions administratives statuant en dernier ressort fait mention de cette obligation. Lorsque la notification ne comporte pas cette mention, le requérant est invité par le Conseil d'Etat à régulariser sa requête.
