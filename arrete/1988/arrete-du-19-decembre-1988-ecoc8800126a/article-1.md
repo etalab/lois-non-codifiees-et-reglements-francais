@@ -1,0 +1,3 @@
+# Article 1
+
+En l'absence des méthodes d'analyse permettant de déterminer le taux de migration des constituants des matériaux et objets en matière plastique dans les denrées alimentaires, les laboratoires chargés de concourir à l'application de la réglementation relative à la répression des fraudes sont tenus d'utiliser pour la vérification de la migration des constituants de matériaux et objets en matière plastique au contact des denrées, produits et boissons alimentaires les règles de base définies en annexe de la directive n° 82-711 C.E.E. du 18 octobre 1982 susvisée ainsi que la liste des simulants annexée à la directive n° 85-572 C.E.E. du 19 décembre 1985 susvisée.

@@ -1,4 +1,4 @@
-# Arrêté du 25 novembre 1986 portant suppression de la déclaration préalable prévue pour l'importation de certains engrais potassiques composés et complexes
+# Arrêté du 25 novembre 1986 instituant un Grand prix national de la muséographie
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
