@@ -4,6 +4,6 @@ La chambre des notaires est renouvelée par tiers chaque année, au cours du moi
 
 En cas de renouvellement simultané de tous les membres de la chambre, les membres des deux premières séries sortantes sont désignés par voie de tirage au sort.
 
-Si un membre vient à cesser ses fonctions avant l'expiration de la durée normale de son mandat, il est pourvu, dans le délai de trois mois, à son remplacement. En ce cas les fonctions du nouveau membre expirent à l'époque où auraient cessé celles du membre qu'il a remplacé.
+Si un membre vient à cesser ses fonctions avant l'expiration de la durée de son mandat, il est remplacé lors de l'assemblée générale de la compagnie qui suit sa cessation de fonctions. En ce cas les fonctions du nouveau membre expirent à l'époque où auraient cessé celles du membre qu'il a remplacé.
 
 Les membres sortants ne sont rééligibles qu'après un intervalle d'un an.

@@ -1,6 +1,6 @@
 # Article 12
 
-Il est pourvu aux dépenses de la compagnie sur une bourse commune, dans laquelle doivent être versées les sommes nécessaires tant aux dépenses spontanément votées par l'assemblée générale qu'à celles qui sont mises à sa charge par le conseil régional pour subvenir au fonctionnement des organismes professionnels et des oeuvres sociales du notariat.
+Il est pourvu aux dépenses de la compagnie sur une bourse commune, dans laquelle doivent être versées les sommes nécessaires tant aux dépenses votées par l'assemblée générale qu'à celles qui sont mises à sa charge par le conseil régional pour subvenir au fonctionnement des organismes professionnels et des oeuvres sociales du notariat.
 
 Les dépenses entraînées par le fonctionnement du conseil supérieur sont réparties entre les conseils régionaux proportionnellement aux produits des études de leur ressort ; les dépenses afférentes au fonctionnement des conseils régionaux sont prises en charge, pour chacun d'eux, par les compagnies qui en relèvent, proportionnellement aux produits réalisés par les études de leurs ressorts respectifs.
 

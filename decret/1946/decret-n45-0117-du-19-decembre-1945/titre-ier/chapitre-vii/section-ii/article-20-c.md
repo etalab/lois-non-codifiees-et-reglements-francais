@@ -1,8 +1,8 @@
 # Article 20 C
 
-Les carnets prévus aux articles 16 A et 20 ci-dessus sont délivrés par les soins de la chambre départementale contre récépissé.
+Les carnets de reçus mentionnés aux articles 16 A et 20 sont délivrés sous le contrôle de la chambre.
 
-Sur le reçu délivré doivent figurer les prescriptions suivantes des articles 13 et 14 du présent décret [*mentions obligatoires*] :
+Sur le reçu délivré doivent figurer les prescriptions suivantes des articles 13 et 14 du présent décret :
 
 "Art. 13 - Il est interdit aux notaires, soit par eux-mêmes, soit par personnes interposées, soit directement, soit indirectement :
 
