@@ -6,4 +6,4 @@ Le nombre de points "tabac" acquis au titre d'une année résulte de la formule 
 
 (Remises corrigées x 1) / (100 x coefficient de référence).
 
-Le coefficient de référence est fixé chaque année par le ministre des finances et des affaires économiques, sur proposition de la commission, en fonction du prix moyen de vente au détail des tabacs fabriqués.
+Le coefficient de référence est fixé chaque année par le ministre de l'économie et des finances, sur proposition de la commission, en fonction du prix moyen de vente au détail des tabacs fabriqués et du taux moyen pondéré des remises allouées aux débitants de tabac.
