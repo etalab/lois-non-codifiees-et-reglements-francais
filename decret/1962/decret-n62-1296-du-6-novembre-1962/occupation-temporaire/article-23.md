@@ -14,4 +14,4 @@ Elle indique [*contenu*] :
 
 A la demande est joint un extrait du plan cadastral sur lequel est figuré le périmètre des terrains dont l'occupation est demandée.
 
-Copie de la demande est adressée au chef de l'arrondissement minéralogique.
+Copie de la demande est adressée au directeur régional de l'industrie, de la recherche et de l'environnement.
