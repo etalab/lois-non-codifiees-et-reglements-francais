@@ -1,6 +1,7 @@
 # Décret n°67-542 du 30 juin 1967 relatif à l'organisation et au fonctionnement de la caisse nationale d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles.
 
 - [Article 2](article-2.md)
+- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
