@@ -310,7 +310,7 @@ La Galange ;
 
 La Bernade ;
 
-L'Isole ;
+L'Iscle ;
 
 La Chalvagne.
 
