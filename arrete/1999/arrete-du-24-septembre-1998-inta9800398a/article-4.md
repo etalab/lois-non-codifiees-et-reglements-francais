@@ -1,3 +1,3 @@
 # Article 4
 
-Le présent arrêté, qui entrera en vigueur à compter du 1er janvier 1999, sera publié au Journal officiel de la République française.
+L'arrêté du 16 février 1976 fixant la liste des pièces d'identité exigées des électeurs au moment du vote pour l'élection des députés, des conseillers généraux et des conseillers municipaux dans les communes de plus de 5 000 habitants est abrogé.

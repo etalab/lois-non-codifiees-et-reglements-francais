@@ -4,6 +4,6 @@ Les ressortissants de l'Union européenne autres que les Français, lorsqu'ils s
 
 - soit d'un des documents énumérés à l'article 1er ;
 
-- soit d'un passeport en cours de validité délivré par l'administration compétente du pays dont le titulaire possède la nationalité ;
+- soit d'une carte d'identité ou passeport délivrés par l'administration compétente du pays dont le titulaire possède la nationalité ;
 
 - soit du titre de séjour autorisant leur présence sur le territoire français.

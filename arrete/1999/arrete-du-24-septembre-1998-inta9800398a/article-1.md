@@ -19,5 +19,3 @@ La liste des titres d'identité prévue par l'article R. 60 du code électoral p
 - permis de chasser avec photographie ;
 
 - titre de réduction de la Société nationale des chemins de fer français avec photographie.
-
-Ces titres doivent être en cours de validité.
