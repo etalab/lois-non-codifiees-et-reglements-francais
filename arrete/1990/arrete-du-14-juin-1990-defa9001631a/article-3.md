@@ -32,7 +32,7 @@ Etat-major des armées (E.M.A.) ;
 
 Direction de la protection et de la sécurité de défense (D.P.S.D.) ;
 
-Service central de la sécurité des systèmes d'information (S.C.S.S.I.) ;
+Direction centrale de la sécurité des systèmes d'information (D.C.S.S.I.) ;
 
 Direction des personnels et des affaires générales de l'armement (D.P.A.G.) ;
 

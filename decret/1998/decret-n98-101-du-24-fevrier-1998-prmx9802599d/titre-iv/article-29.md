@@ -6,7 +6,7 @@ II. - Le fait d'utiliser un moyen ou une prestation de cryptologie soumis au ré
 
 III. - Le fait d'utiliser un moyen ou une prestation de cryptologie soumis au régime d'autorisation prévu à l'article 12, sans avoir obtenu cette autorisation ou en dehors des conditions de l'autorisation délivrée, est puni de l'amende prévue pour les contraventions de la 5e classe.
 
-IV. - Le fait, pour un fournisseur, d'utiliser un moyen ou une prestation de cryptologie à des fins exclusives de développement, de validation ou de démonstration, prévues à l'article 15, sans en avoir au préalable informé le service central de la sécurité des systèmes d'information ou sans respecter les prescriptions du Premier ministre est puni de l'amende prévue pour les contraventions de la 4e classe.
+IV. - Le fait, pour un fournisseur, d'utiliser un moyen ou une prestation de cryptologie à des fins exclusives de développement, de validation ou de démonstration, prévues à l'article 15, sans en avoir au préalable informé la direction centrale de la sécurité des systèmes d'information ou sans respecter les prescriptions du Premier ministre est puni de l'amende prévue pour les contraventions de la 4e classe.
 
 V. - Le tribunal peut, à l'encontre des personnes physiques coupables des infractions prévues par le présent article, prononcer la confiscation des moyens de cryptologie en cause.
 

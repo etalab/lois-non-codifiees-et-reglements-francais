@@ -386,7 +386,6 @@
 - [Décret n°99-1067 du 14 décembre 1999 (INTM9900050D)](decret-n99-1067-du-14-decembre-1999-intm9900050d)
 - [Décret n°99-1074 du 14 décembre 1999 (INTM9900046D)](decret-n99-1074-du-14-decembre-1999-intm9900046d)
 - [Décret n°99-24 du 14 janvier 1999 (MENS9803335D)](decret-n99-24-du-14-janvier-1999-mens9803335d)
-- [Décret n°99-285 du 14 avril 1999 (PRMX9903516D)](decret-n99-285-du-14-avril-1999-prmx9903516d)
 - [Décret n°99-292 du 14 avril 1999 (MESH9920789D)](decret-n99-292-du-14-avril-1999-mesh9920789d)
 - [Décret n°99-794 du 14 septembre 1999 (EQUU9901038D)](decret-n99-794-du-14-septembre-1999-equu9901038d)
 - [Décret n°99-795 du 14 septembre 1999 (AGRS9901822D)](decret-n99-795-du-14-septembre-1999-agrs9901822d)

@@ -1,6 +1,6 @@
 # Article 6
 
-Doivent être notifiés sans délai au service central de la sécurité des systèmes d'information :
+Doivent être notifiés sans délai à la direction centrale de la sécurité des systèmes d'information :
 
 a) Tout changement dans :
 
