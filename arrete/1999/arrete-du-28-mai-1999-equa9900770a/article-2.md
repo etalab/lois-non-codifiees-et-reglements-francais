@@ -2,7 +2,7 @@
 
 Le nombre de prestataires autorisés à fournir des services d'assistance en escale sur l'aéroport Charles-de-Gaulle est limité de la façon suivante :
 
-I. - Pour l'aérogare CDG 1, limitation à deux prestataires pour chacun des services suivants :
+I. - Pour l'aérogare CDG 1, limitation à trois prestataires pour chacun des services suivants  :
 
 - assistance au stationnement (catégorie 5.2) ;
 
@@ -24,9 +24,9 @@ II. - Pour l'aérogare CDG 2, limitation à deux prestataires pour chacun des se
 
 III. - Pour l'ensemble des terminaux A, B, D et F de l'aérogare CDG 2, limitation à deux prestataires pour l'assistance bagages (catégorie 3).
 
-IV. - Pour l'ensemble des terminaux A, B, D et F de l'aérogare CDG 2, limitation à deux prestataires pour le transport des passagers entre l'avion et l'aérogare (catégorie 5.4).
+IV. - Pour l'aérogare CDG 2, limitation à deux prestataires pour le transport  des passagers entre l'avion et l'aérogare (catégorie 5.4). En plus de ces deux  prestataires, Aéroports de Paris peut réaliser de tels transports au moyen de  véhicules à élévation de cabine, dits "aérobus".
 
-V. - Pour le terminal C de l'aérogare CDG 2, limitation, jusqu'au 31 décembre 2000, à un prestataire pour le transport des passagers entre l'avion et l'aérogare (catégorie 5.4).
+V. - Paragraphe supprimé.
 
 VI. - Pour l'aérogare T 9, limitation à deux prestataires pour chacun des services suivants :
 
