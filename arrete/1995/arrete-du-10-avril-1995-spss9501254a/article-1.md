@@ -10,6 +10,8 @@ Hépatite B ;
 
 Infection à Haemophilus influenzae B ;
 
+Infections à pneumocoque ;
+
 Oreillons ;
 
 Poliomyélite ;

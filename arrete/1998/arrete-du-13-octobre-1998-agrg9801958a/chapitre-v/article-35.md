@@ -1,0 +1,5 @@
+# Article 35
+
+Tout animal de l'espèce caprine reconnu non indemne de brucellose au sens de l'article 14 (5°) du présent arrêté à l'occasion d'une transaction commerciale doit être marqué sur les lieux mêmes où il se trouve, dans les huit jours qui suivent la notification du diagnostic, sauf dans le cas où une rédhibition judiciaire est intentée. Ces animaux sont transportés directement, sans rupture de charge et sous couvert d'un laissez-passer - titre d'élimination, depuis l'exploitation de départ jusqu'à l'abattoir désigné conformément aux dispositions de l'article 11 du présent arrêté.
+
+Dans le cas de rédhibition amiable, le marquage du caprin non indemne peut être pratiqué après accord des deux parties soit chez l'acheteur, soit chez le vendeur, qui reprend possession de l'animal. Dans ce dernier cas, et par dérogation accordée par le directeur des services vétérinaires, l'obligation de marquage peut être suspendue le temps que le caprin rejoigne, sous couvert d'un laissez-passer, l'exploitation de son propriétaire, sans pour autant que le délai de huit jours prévu ci-dessus soit prolongé.
