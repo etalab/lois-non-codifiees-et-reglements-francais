@@ -398,6 +398,15 @@ DES FIBRES CONTENUES DANS UN PRODUIT TEXTILE
 </td>
 </tr>
 <tr>
+<td>
+<p align="center">33a</p>
+</td>
+<td>Polylactide</td>
+<td>
+<p align="center">1,50</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="95">
 <p align="center">34</p>
 </td>

@@ -382,6 +382,15 @@ TABLEAU DES FIBRES TEXTILES
 </td>
 </tr>
 <tr>
+<td align="left" valign="top">
+<p align="center">33a</p>
+</td>
+<td align="left" valign="top">
+<p align="left">Polylactide.</p>
+</td>
+<td>Fibre formée de macromolécules linéaires présentant dans la chaîne au moins 85 % (en masse) d'unités d'esters d'acide lactique obtenus à partir de sucres naturels et dont la température de fusion est d'au moins 135 °C.</td>
+</tr>
+<tr>
 <td valign="top" width="94">
 <p align="center">34</p>
 </td>
