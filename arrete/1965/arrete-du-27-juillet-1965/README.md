@@ -1,4 +1,4 @@
-# Arrêté du 27 juillet 1965 relatif à la fixation des taxes perçues en matière de brevets d'invention
+# Arrêté du 27 juillet 1965 portant création du centre technique des industries mécaniques
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,5 @@
 # Article 3
 
-Le montant de la taxe supplémentaire pour revendication de priorité prévu à l'article 6 bis de la loi du 5 juillet 1844, modifié par l'article 3 du décret n° 65-622 du 27 juillet 1965, est fixé à 20 F.
+Des conventions particulières soumises à l'approbation du ministre de l'industrie pourront être conclues entre le Cetim et les centres techniques ou organismes à buts similaires exerçant leur activité principale dans le domaine défini à l'article 2 ci-dessus.
+
+Ces conventions détermineront les conditions de collaboration sur les sujets d'intérêt commun et la répartition des charges et ressources financières correspondantes, compte tenu, notamment, de l'importance des cotisations versées par les entreprises intéressées.
