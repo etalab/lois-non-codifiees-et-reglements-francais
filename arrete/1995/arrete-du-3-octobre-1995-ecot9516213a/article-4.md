@@ -2,7 +2,7 @@
 
 Les émissions des pièces définies par le présent arrêté sont limitées à :
 
-99 exemplaires de 500 F pesant 155,5 grammes d'or pur pour les premier et troisième thèmes concernés, soit 198 pièces au total ;
+99 exemplaires de 500 F pesant 155,52 grammes d'or pur pour chacun des trois thèmes, soit 297 pièces au total ;
 
 3 000 exemplaires de 500 F pesant 31,104 grammes d'or pur pour chacun des trois thèmes, soit 9 000 pièces au total ;
 

@@ -157,6 +157,7 @@
 - [Décret n°96-327 du 16 avril 1996 (TASP9620064D)](decret-n96-327-du-16-avril-1996-tasp9620064d)
 - [Décret n°96-37 du 16 janvier 1996 (COMA9500056D)](decret-n96-37-du-16-janvier-1996-coma9500056d)
 - [Décret n°96-38 du 16 janvier 1996 (DEFP9601007D)](decret-n96-38-du-16-janvier-1996-defp9601007d)
+- [Décret n°96-336 du 17 avril 1996 (COPC9500015D)](decret-n96-336-du-17-avril-1996-copc9500015d)
 - [Décret n°96-40 du 17 janvier 1996 (DEFF9502263D)](decret-n96-40-du-17-janvier-1996-deff9502263d)
 - [Décret n°96-41 du 17 janvier 1996 (TASG9511275D)](decret-n96-41-du-17-janvier-1996-tasg9511275d)
 - [Décret n°96-43 du 17 janvier 1996 (AVIC9600003D)](decret-n96-43-du-17-janvier-1996-avic9600003d)
