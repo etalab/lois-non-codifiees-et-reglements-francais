@@ -1,3 +1,3 @@
 # Article 1
 
-L'élection des représentants des conseils régionaux à la commission instituée par l'article 94 de la loi du 7 janvier 1983 susvisée est fixée au 16 mai 1983 [*date*].
+la date de l'élection des représentants des conseils régionaux à la commission instituée par l'article 94 de la loi n° 83-8 du 7 janvier 1983 est fixée par arrêté du ministre chargé des collectivités locales.
