@@ -955,7 +955,6 @@
 - [Décret n°96-477 du 30 mai 1996 (ECOX9601461D)](decret-n96-477-du-30-mai-1996-ecox9601461d)
 - [Décret n°97-565 du 30 mai 1997 (MENF9701286D)](decret-n97-565-du-30-mai-1997-menf9701286d)
 - [Décret n°97-567 du 30 mai 1997 (MENF9701288D)](decret-n97-567-du-30-mai-1997-menf9701288d)
-- [Décret n°96-682 du 31 juillet 1996 (MIPP9600265D)](decret-n96-682-du-31-juillet-1996-mipp9600265d)
 - [Décret n°96-683 du 31 juillet 1996 (LOGC9600033D)](decret-n96-683-du-31-juillet-1996-logc9600033d)
 - [Décret n°96-687 du 31 juillet 1996 (TASH9622736D)](decret-n96-687-du-31-juillet-1996-tash9622736d)
 - [Décret n°96-692 du 31 juillet 1996 (COMK9603001D)](decret-n96-692-du-31-juillet-1996-comk9603001d)
