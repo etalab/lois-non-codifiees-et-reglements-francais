@@ -1,4 +1,4 @@
-# Arrêté du 14 février 1985 portant création des formations complémentaires d'initiative locale.
+# Arrêté du 14 février 1985 relatif à la création des formations complémentaires d'initiative locale .
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
