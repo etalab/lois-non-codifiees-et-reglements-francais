@@ -1,6 +1,6 @@
 # Article 55
 
-Tout fonctionnaire est placé dans une des positions [*nombre*] suivantes :
+Tout fonctionnaire est placé dans une des positions suivantes :
 
 1° Activité à temps complet ou à temps partiel ;
 
@@ -12,6 +12,6 @@ Tout fonctionnaire est placé dans une des positions [*nombre*] suivantes :
 
 5° Accomplissement du service national et des activités dans la    réserve opérationnelle ;
 
-6° Congé parental.
+6° Congé parental et congé de présence parentale.
 
 Les décisions relatives aux positions sont prises par l'autorité territoriale.
