@@ -711,7 +711,6 @@
 - [Arrêté du 24 octobre 1990 (BUDL9000173A)](arrete-du-24-octobre-1990-budl9000173a)
 - [Arrêté du 24 octobre 1990 (ECOT9023058A)](arrete-du-24-octobre-1990-ecot9023058a)
 - [Arrêté du 24 octobre 1990 (SPSS9001836A)](arrete-du-24-octobre-1990-spss9001836a)
-- [Arrêté du 24 septembre 1990 (SPSH9001949A)](arrete-du-24-septembre-1990-spsh9001949a)
 - [Arrêté du 24 septembre 1990 (SPSH9001951A)](arrete-du-24-septembre-1990-spsh9001951a)
 - [Arrêté du 24 septembre 1990 (SPSH9001952A)](arrete-du-24-septembre-1990-spsh9001952a)
 - [Arrêté du 24 septembre 1990 (SPSH9001953A)](arrete-du-24-septembre-1990-spsh9001953a)
