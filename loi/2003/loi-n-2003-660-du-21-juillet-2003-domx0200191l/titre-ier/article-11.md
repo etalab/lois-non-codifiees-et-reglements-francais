@@ -1,0 +1,3 @@
+# Article 11
+
+Lorsque les contrats prévus à l'article L. 322-4-20 du code du travail sont conclus par des collectivités territoriales ou des établissements publics des départements d'outre-mer et de Saint-Pierre-et-Miquelon, ils peuvent être prolongés pour trente-six mois au maximum au-delà de la durée fixée au premier alinéa du II dudit article, sous réserve que l'aide spécifique de l'Etat ait été accordée dans le cadre d'un avenant à la convention initiale. Sont réputés de même nature ceux des contrats qui seraient parvenus à leur terme avant la publication de la présente loi et se seraient poursuivis à l'issue de la période initiale, et qui peuvent être prolongés depuis cette date dans la même limite et dans les mêmes conditions.

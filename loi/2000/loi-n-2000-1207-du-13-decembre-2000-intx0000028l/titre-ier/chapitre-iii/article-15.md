@@ -26,11 +26,9 @@ III. - La convention-cadre fixe les modalités d'ouverture du droit à l'allocat
 
 IV. - La convention-cadre fixe également les contreparties de la mise en oeuvre du congé-solidarité dans les limites suivantes :
 
-1° La durée collective du travail est fixée à au plus soit trente-cinq heures hebdomadaires, soit 1 600 heures sur l'année ;
+1° Pour chaque salarié adhérant à la convention d'application du congé solidarité, l'employeur est tenu d'embaucher, sous contrat à durée indéterminée conclu dans le délai fixé par ladite convention, qui ne peut excéder trois mois, un jeune travailleur à temps complet ou des jeunes dont les durées de travail cumulées équivalent à un temps complet et âgés de seize ans à vingt-neuf ans révolus. Cette condition d'âge n'est pas opposable aux jeunes mentionnés à l'article L. 322-4-19 du code du travail arrivant au terme de leur contrat de travail ;
 
-2° Pour chaque salarié adhérant à la convention d'application du congé-solidarité, l'employeur est tenu d'embaucher un jeune âgé d'au plus trente ans sous contrat à durée indéterminée fixant un horaire au moins égal à celui du salarié remplacé et conclu dans le délai fixé par cette convention et qui ne peut excéder six mois ;
-
-3° L'effectif atteint à la date de la dernière embauche à laquelle est tenu l'employeur et déterminé selon les modalités prévues à l'article L. 421-2 du code du travail ne doit pas être réduit pendant la durée fixée par la convention et qui ne peut être inférieure à deux ans.
+2° L'effectif atteint à la date de signature de la convention et déterminé selon les modalités prévues à l'article L. 421-2 du même code ne doit pas être réduit pendant la durée fixée par la convention qui ne peut être inférieure à deux ans.
 
 V. - Le financement de l'allocation de congé-solidarité et des cotisations de retraite complémentaire afférentes aux périodes de versement de l'allocation est assuré conjointement par l'Etat, l'entreprise, le conseil régional ou le conseil général.
 
@@ -46,10 +44,10 @@ VI. - Les services de l'Etat compétents en matière d'emploi assurent la gestio
 
 VII. - Les bénéficiaires de l'allocation de congé-solidarité bénéficient, pour eux-mêmes et leurs ayants droit, de prestations en nature en cas de maladie et de maternité du régime dont ils relevaient à la date de leur adhésion à la convention d'application.
 
-Les périodes de versement de l'allocation de congé-solidarité sont assimilées à des périodes d'assurance pour l'ouverture du droit à la pension de retraite du régime de sécurité sociale dont relevait le bénéficiaire.
-
-somme correspondant à cette validation et reçoit à ce titre le produit de cotisations à la charge des personnes mentionnées au premier alinéa du V établies sur une base forfaitaire fixée par décret.
+Les périodes de versement de l'allocation de congé-solidarité sont assimilées à des périodes d'assurance pour l'ouverture du droit à la pension de retraite du régime de sécurité sociale dont relevait le bénéficiaire. Le fonds de solidarité vieillesse mentionné à l'article L. 135-2 du code de la sécurité sociale verse au régime concerné une somme correspondant à cette validation et reçoit à ce titre le produit de cotisations à la charge des personnes mentionnées au premier alinéa du V établies sur une base forfaitaire fixée par décret.
 
 VIII. - Le non-respect par l'employeur des engagements souscrits dans la convention de congé-solidarité entraîne une majoration de sa contribution financière fixée par celle-ci. Aucune nouvelle adhésion à la convention d'application ne peut alors être acceptée.
 
-Tout employeur ayant conclu une convention de congé-solidarité est tenu de s'assurer en vue de garantir la poursuite du versement de sa contribution en cas de redressement ou de liquidation judiciaires. Cette assurance est souscrite auprès de l'association mentionnée à l'article L. 143-11-4 du code du travail.
+Lorsque la gestion du dispositif est confiée à l'un des organismes gestionnaires mentionnés à l'article L. 351-21 du code du travail, les procédures prévues à l'article L. 351-6 du même code sont applicables à la contribution financière de l'employeur.
+
+Tout employeur ayant conclu une convention de congé-solidarité est tenu de s'assurer en vue de garantir la poursuite du versement de sa contribution en cas de redressement ou de liquidation judiciaires. Cette assurance est souscrite auprès de l'organisme désigné par les organisations professionnelles d'employeurs les plus représentatives dans la collectivité considérée.

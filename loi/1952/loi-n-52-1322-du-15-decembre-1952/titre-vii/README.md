@@ -5,3 +5,4 @@
 - [Chapitre III : Des délégués du personnel.](chapitre-iii)
 - [Chapitre IV : Des moyens de contrôle.](chapitre-iv)
 - [Chapitre V : Du placement.](chapitre-v)
+- [Chapitre VI : Des aides à l'emploi.](chapitre-vi)

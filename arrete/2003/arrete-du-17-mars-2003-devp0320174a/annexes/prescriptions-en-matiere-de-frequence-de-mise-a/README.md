@@ -1,0 +1,3 @@
+# PRESCRIPTIONS EN MATIÈRE DE FRÉQUENCE DE MISE À JOUR DE L'INFORMATION.
+
+- [Article Annexe](article-annexe.md)

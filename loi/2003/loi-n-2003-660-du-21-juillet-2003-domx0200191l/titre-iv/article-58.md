@@ -1,0 +1,3 @@
+# Article 58
+
+Les biens immobiliers et mobiliers de l'Etat situés sur l'île de Hao, reconnus définitivement inutiles pour l'exercice des compétences conservées par l'Etat mais nécessaires à l'accomplissement des compétences de la Polynésie française ou de la commune de Hao sont, par dérogation aux articles L. 53, L. 54 et L. 67 et suivants du code du domaine de l'Etat, cédés gratuitement à ces collectivités. Une convention conclue entre l'Etat, le territoire de la Polynésie française et la commune de Hao détermine les biens cédés et la collectivité bénéficiaire. Le transfert de propriété prend effet à la signature de la convention.
