@@ -12,7 +12,7 @@ a) En recettes :
 
 - le produit de la taxe et du prélèvement prévus au II de l'article 11 de la loi de finances pour 1976 (n° 75-1278 du 30 décembre 1975) ;
 
-- dans des proportions établies chaque année par la loi de finances, le produit de la taxe et du prélèvement prévus à l'article 36 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983) ainsi que le produit de la taxe prévue au I de l'article 49 de la loi de finances pour 1993 (n° 92-1376 du 30 décembre 1992) ;
+- dans des proportions établies chaque année par la loi de finances, le produit des taxes prévues aux articles 302 bis KB et 302 bis KE du code général des impôts ;
 
 - la contribution de l'Etat ;
 
@@ -28,7 +28,7 @@ b) En dépenses :
 
 a) En recettes :
 
-- dans des proportions établies chaque année par la loi de finances, le produit de la taxe et du prélèvement prévus à l'article 36 de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983) ainsi que le produit de la taxe prévue au I de l'article 49 de la loi de finances pour 1993 (n° 92-1376 du 30 décembre 1992) ;
+- dans des proportions établies chaque année par la loi de finances, le produit des taxes prévues aux articles 302 bis KB et 302 bis KE du code général des impôts ;
 
 - le produit des sanctions pécuniaires prononcées par le Conseil supérieur de l'audiovisuel à l'encontre éditeurs de services de télévision relevant des titres II et III de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication ;
 
