@@ -1,0 +1,3 @@
+# Article 1
+
+Est autorisée la frappe, pour le compte de l'Etat, par la direction des Monnaies et médailles, de pièces de collection d'une valeur faciale de cinq cents euros, deux cents euros, cent euros, cinquante euros, vingt-cinq euros, vingt euros, quinze euros, dix euros, cinq euros, quatre euros, trois euros, d'un euro et demi, de soixante-quinze centimes ou trois quarts d'euro, d'un demi-euro, de vingt-cinq centimes ou quart d'euro, d'un cinquième d'euro et de quinze centimes, en platine, or, argent, palladium, électrum, titane, bronze, cuivre, nickel, zinc et aluminium, dont le titre, les caractéristiques et le type seront fixés par arrêté du ministre chargé de l'économie.
