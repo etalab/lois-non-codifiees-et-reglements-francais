@@ -22,7 +22,7 @@ L'établissement public est administré par un conseil d'administration comporta
 
 - un représentant du département de l'Essonne désigné en son sein par le conseil général :
 
-- le président du syndicat d'agglomération nouvelle de Rougeau-Sénart ;
+-  le président du syndicat d'agglomération nouvelle de Sénart, en Essonne ;
 
 - le président du syndicat d'agglomération nouvelle de Sénart-Ville nouvelle ;
 
