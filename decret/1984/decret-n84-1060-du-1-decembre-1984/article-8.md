@@ -1,6 +1,6 @@
 # Article 8
 
-Les membres de la commission prévue par l'article 87 de la loi n° 82-652 susvisée, nommés par décret pour trois ans [*durée du mandat*], sont désignés dans les conditions suivantes :
+Les membres de la commission prévue par l'article 87 de la loi n° 82-652 susvisée, nommés par décret pour trois ans, sont désignés dans les conditions suivantes :
 
 Le membre du Conseil d'Etat, président, sur présentation du vice-président du Conseil d'Etat ;
 
@@ -20,4 +20,4 @@ Le représentant de la Société nationale de programme assurant la coordination
 
 Les représentants d'associations culturelles et d'éducation populaire sur présentation conjointe des ministres chargés du temps libre, de la culture et de la communication.
 
-Des suppléants sont désignés pour chaque titulaire, par le même décret, dans les conditions prévues aux alinéas précédents.
+Les demandeurs et titulaires d'autorisation font l'objet d'unr représentation distincte selon que la commission est appelée à émettre un avis en matière de radiodiffusion sonore, en matière de radiotélévision par câble ou en matière de télévision locale par voie hertzienne.
