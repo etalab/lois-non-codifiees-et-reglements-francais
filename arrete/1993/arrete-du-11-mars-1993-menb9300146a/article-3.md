@@ -6,7 +6,7 @@ Les membres du comité sont nommés par le ministre pour un mandat de trois ans 
 
 Sont membres de droit :
 
-- un inspecteur général de l'administration des affaires culturelles désigné par le ministre chargé de la culture sur proposition du chef de service ;
+- un inspecteur général de l'administration des affaires culturelles en activité ou honoraire  désigné par le ministre chargé de la culture sur proposition du chef de service ;
 
 - le directeur de l'administration générale ;
 
