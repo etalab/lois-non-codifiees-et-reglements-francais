@@ -2,7 +2,7 @@
 
 Toute infraction aux lois et règlements relatifs au marché à terme ainsi que tout manquement à leurs obligations professionnelles, commis par une des personnes mentionnées aux articles 8 et 8-1 donne lieu à des sanctions disciplinaires prononcées par le conseil du marché à terme.
 
-Le conseil agit soit d'office, soit à la demande du commissaire du Gouvernement. Il statue par décision motivée. Aucune sanction ne peut être prononcée sans que l'intéressé ait été entendu ou dûment appelé.
+Le Conseil agit soit d'office, soit à la demande du commissaire du Gouvernement, soit à la demande de la Commission des opérations de bourse. Il statue par décision motivée. Aucune sanction ne peut être prononcée sans que l'intéressé ait été entendu ou dûment appelé.
 
 Les sanctions sont l'avertissement, le blâme, l'interdiction temporaire ou définitive de tout ou partie des activités.
 
