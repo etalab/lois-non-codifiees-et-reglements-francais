@@ -1,0 +1,3 @@
+# Article 2
+
+Pour les assurés bénéficiaires desdites allocations, autres que ceux mentionnés à l'article 3 ci-dessous, le salaire servant de base au calcul de l'indemnité journalière est, sous réserve des dispositions des articles 14 et suivants du décret du 29 juin 1973 susvisé, celui du mois précédant la date de suspension ou de rupture du contrat de travail. Le salaire servant de base au calcul des rentes est, sous réserve des dispositions des articles 24 et suivants du décret du 29 juin 1973 susvisé, la rémunération effective totale reçue chez un ou plusieurs employeurs pendant les douze mois civils précédant la date de suspension ou de rupture du contrat de travail.

@@ -1,0 +1,3 @@
+# Article 10
+
+Lorsqu'une servitude est établie en application de l'article 71-2 du code minier, le propriétaire qui veut bénéficier de la faculté, prévue à l'article 71-3, de procéder lui-même à l'enlèvement des obstacles doit en avertir le titulaire de l'autorisation dans un délai de quinze jours à compter de la notification de l'arrêté préfectoral autorisant l'établissement de la servitude. L'accomplissement des travaux par le propriétaire ne peut entraîner, pour le bénéficiaire de la servitude, ni une dépense ni des délais d'exécution supérieur à ceux qu'il aurait eu normalement à supporter s'il avait lui-même assuré la conduite des travaux ou choisi l'entrepreneur.
