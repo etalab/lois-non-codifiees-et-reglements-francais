@@ -10,15 +10,15 @@ Les agents et les exploitants possèdent le droit d'améliorer les retraites au 
 
 Les versements portés sur le livret seront faits à capital réservé et la totalité du capital - formé par ces versements capitalisés au taux moyen des placements de la caisse autonome - pourra, sur la demande de l'agent, être remise à celui-ci quand il prendra sa retraite.    4° Le montant de la pension ne peut dépasser les trois quarts du salaire moyen.
 
-Lorsque la pension calculée d'après les règles ci-dessus et compte tenu du maximum prévu à l'alinéa précédent est supérieur à 30.000 fr., la part comprise entre :
+Lorsque la pension calculée d'après les règles ci-dessus et compte tenu du maximum prévu à l'alinéa précédent est supérieur à 90.000 F, la part comprise :
 
-30.000 et 40.000 fr. sera réduite de moitié.
+Entre 90.000 et 120.000 F ne sera comptée que pour moitié ;
 
-40.000 et 55.000 fr. sera réduite des deux tiers.
+Entre 120.000 et 165.000 F ne sera comptée que pour un tiers ;
 
-55.000 et 75.000 fr. sera réduite des trois quarts.
+Entre 165.000 et 225.000 F ne sera comptée que pour un quart.
 
-Il ne sera pas tenu compte de la part excédant 75.000 fr..
+Ces dispositions ne s'appliqueront qu'aux pensions concédées après le 31 janvier 1945 et dans la liquidation desquelles il sera fait état en totalité ou en partie d'augmentations de salaires prenant effet postérieurement à cette date.
 
 5° Les bénéficiaires de la présente loi ainsi que leurs ayants droit, sont tenus, à peine de déchéance, de se pourvoir en liquidation, dans un délai de cinq ans à partir de la cessation de l'activité ou, en ce qui concerne la veuve et l'orphelin, du décès de l'intéressé.
 
