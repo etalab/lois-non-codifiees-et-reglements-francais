@@ -1,5 +1,7 @@
 # Article 13
 
-Les organismes de placement collectif en valeurs mobilières dont les statuts ou le règlement prévoient qu'ils peuvent investir plus de 5 p. 100 de leur actif en actions ou parts d'autres organismes de placement collectif en valeurs mobilières sont régis par les dispositions du chapitre Ier du présent décret à l'exception du 1 de l'article 3.
+Les dispositions du chapitre I sont applicables aux organismes de placement collectif en valeurs mobilières régis par le présent chapitre.
 
-Par dérogation aux dispositions de l'article 4 du présent décret, ces organismes de placement collectif en valeurs mobilières peuvent investir jusqu'à 10 p. 100 de leur actif en actions ou parts d'un même organisme de placement collectif en valeurs mobilières sans que la limite de 40 p. 100 leur soit applicable.
+Par dérogation au 1° de l'article 3 et au premier alinéa de l'article 4, les organismes de placement collectif en valeurs mobilières régis par le présent chapitre peuvent investir jusqu'à la totalité de leur actif en parts ou actions d'organismes de placement collectif en valeurs mobilières mentionnés au 1° de l'article 3 et jusqu'à 35 % de leur actif en parts ou actions d'un même organisme de placement collectif en valeurs mobilières. Ils peuvent détenir jusqu'à 35 % des parts ou actions d'un organisme de placement collectif en valeurs mobilières.
+
+Lorsqu'ils sont régis par le présent chapitre, les organismes de placement collectif en valeurs mobilières ne peuvent pas investir dans des parts ou actions d'organismes de placement collectif en valeurs mobilières régis par le présent chapitre.

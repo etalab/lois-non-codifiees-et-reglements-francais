@@ -6,4 +6,4 @@ a) Les valeurs mobilières assorties d'un droit de vote d'un même émetteur ;
 
 b) Les valeurs mobilières donnant accès directement ou indirectement au capital d'un même émetteur ;
 
-c) Les valeurs mobilières conférant directement ou indirectement un droit de créance général sur le patrimoine d'un même émetteur ;    d) Les actions ou parts d'un même organisme de placement collectif en valeurs mobilières.
+c) Les valeurs mobilières conférant directement ou indirectement un droit de créance général sur le patrimoine d'un même émetteur ;    d) Les actions ou parts d'un même organisme de placement collectif en valeurs mobilières à l'exclusion des parts de fonds communs de placement à risques.

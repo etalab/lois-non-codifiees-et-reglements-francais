@@ -5,4 +5,6 @@
 - [Chapitre III : Dispositions particulières aux fonds communs de placement à risques.](chapitre-iii)
 - [Chapitre IV : Dispositions particulières aux fonds communs d'intervention sur les marchés à terme.](chapitre-iv)
 - [Chapitre V : Dispositions particulières aux organismes de placement collectif en valeurs mobilières qui investissent en actions ou parts d'autres organismes de placement collectif en valeurs mobilières.](chapitre-v)
+- [Chapitre VII : Dispositions particulières aux organismes de placement collectif en valeurs mobilières à compartiments.](chapitre-vii)
+- [Chapitre VIII : Dispositions relatives aux organismes de placement collectif en valeurs mobilières indiciels.](chapitre-viii)
 - [Annexes](annexes)
