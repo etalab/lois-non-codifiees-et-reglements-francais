@@ -1,11 +1,5 @@
 # Article 1
 
-La date limite à laquelle les redevables du droit de garantie doivent remettre ou envoyer à la recette des impôts de rattachement du bureau de garantie dont ils dépendent la déclaration prévue à l'article 521 du code général des impôts est fixée comme suit :
+Le montant des charges financières afférent aux compétences transférées aux communes ou aux établissements publics de coopération intercommunale, au titre des contrats d'assurance destinés à les garantir contre les risques découlant de la délivrance des autorisations d'utilisation du sol, est estimé en 1984 pour une année pleine à 10441655 F.
 
-1° Pour les entreprises individuelles, avant le 10 du mois
-
-suivant ;
-
-2° Pour les sociétés à responsabilité limitée et les sociétés en nom collectif, avant le 15 du mois suivant ;
-
-3° Pour les autres sociétés, avant le 20 du mois suivant.
+Le montant de la dotation à verser en 1984 aux communes et à leurs groupements, compte tenu de la date d'entrée en vigueur du transfert de compétences, est fixé à 7600000 F.

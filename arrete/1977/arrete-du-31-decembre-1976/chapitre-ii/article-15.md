@@ -1,6 +1,6 @@
 # Article 15
 
-Sont compétents pour effectuer cette vérification :
+Sont compétents pour effectuer la vérification du signalement :
 
 1° Les agents du service des haras dûment habilités ;
 
