@@ -1,9 +1,5 @@
 # Article 1
 
-En application des dispositions de l'article 1er du décret du 28 juin 1984 susvisé, le montant des redevances cynégétiques est fixé ainsi qu'il suit à compter de la campagne de chasse 1984-1985 :
+Il est créé au secrétariat d'Etat auprès du Premier ministre chargé de l'environnement et de la qualité de la vie un comité technique paritaire spécial commun aux délégations régionales à l'architecture et à l'environnement.
 
-1° Redevance cynégétique nationale           517,65 F [*francs*]
-
-2° Redevance cynégétique départementale      103,95 F
-
-3° Redevance cynégétique "gibier d'eau"       42,00 F.
+Ce comité a compétence pour connaître, dans le cadre des dispositions du titre III du décret du 28 mai 1982 susvisé, de toutes les questions concernant les délégations régionales à l'architecture et à l'environnement.
