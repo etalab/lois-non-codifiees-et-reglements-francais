@@ -1,4 +1,4 @@
-# Arrêté du 5 juillet 1984 fixant les normes auxquelles doivent répondre les groupements d'établissements publics d'enseignement et de formation dans lesquels les fonctions d'agent comptable peuvent être confiées à des conseillers d'administration scolaire et universitaire (branche d'administration financière).
+# Arrêté du 5 juillet 1984 relatif aux établissements publics dans lesquels peuvent être affectés les conseillers d'administration scolaire et universitaire de la branche d'administration générale.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
