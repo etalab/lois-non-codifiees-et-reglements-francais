@@ -1,0 +1,3 @@
+# Article 7
+
+Il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre sous les noms de "chicorée", "chicorée à café" avec ou sans qualificatif, un autre produit que la racine de chicorée convenablement nettoyée, touraillée, torréfiée, concassée et tamisée. Les racines mises en oeuvre ne doivent avoir subi aucune addition ni aucun retranchement de leurs principes constituants et leur nettoyage devra être suffisant pour que le résidu de la calcination du produit soit, dans toutes les sortes, inférieur à 10 p. 100 du produit supposé sec, dont 3 p. 100 au plus de matières siliceuses insolubles dans l'acide chlorydrique.
