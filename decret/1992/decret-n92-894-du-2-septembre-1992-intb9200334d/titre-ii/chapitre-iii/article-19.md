@@ -4,11 +4,11 @@ Les jurys des concours sont nommés par arrêté du président du Centre nationa
 
 Le jury de chaque concours comprend, outre le président;    a) Deux élus locaux ;
 
-b) Deux fonctionnaires territoriaux de catégorie A, dont un appartenant au cadre d'emplois des professeurs territoriaux d'enseignement artistique et titulaire du grade le plus élevé dans ce cadre d'emplois ;
+b) Deux fonctionnaires territoriaux de catégorie A, dont un appartenant au cadre d'emplois des professeurs territoriaux d'enseignement artistique ;
 
-c) Deux personnalités qualifiées ;
+c) Deux personnalités qualifiées dans la spécialité et, le cas échéant, la discipline concernées ;
 
-d) Sur proposition du ministre chargé de la culture, et pour chaque spécialité ouverte au concours, un membre de l'inspection de la création et des enseignements artistiques qualifié dans la spécialité concernée. "
+d) Sur proposition du ministre chargé de la culture, et pour chaque spécialité ouverte au concours, un membre de l'inspection de la création et des enseignements artistiques qualifié dans la spécialité et, le cas échéant, dans la discipline concernées.
 
 Le président et deux membres de chacun de ces jurys, dont un élu local, sont communs au jury du concours externe et au jury du concours interne.
 
