@@ -9,6 +9,7 @@
 - [Arrêté du 15 octobre 1969](arrete-du-15-octobre-1969)
 - [Arrêté du 17 avril 1969](arrete-du-17-avril-1969)
 - [Arrêté du 20 novembre 1969](arrete-du-20-novembre-1969)
+- [Arrêté du 21 novembre 1969](arrete-du-21-novembre-1969)
 - [Arrêté du 22 octobre 1969](arrete-du-22-octobre-1969)
 - [Arrêté du 22 mai 1969](arrete-du-22-mai-1969)
 - [Arrêté du 25 août 1969](arrete-du-25-aout-1969)
