@@ -337,6 +337,7 @@
 - [Décret n°95-59 du 12 janvier 1995 (INDA9401442D)](decret-n95-59-du-12-janvier-1995-inda9401442d)
 - [Décret n°95-60 du 12 janvier 1995 (INDA9401443D)](decret-n95-60-du-12-janvier-1995-inda9401443d)
 - [Décret n°95-61 du 12 janvier 1995 (INDA9401444D)](decret-n95-61-du-12-janvier-1995-inda9401444d)
+- [Décret n°87-264 du 13 avril 1987 (INTD8700102D)](decret-n87-264-du-13-avril-1987-intd8700102d)
 - [Décret n°95-278 du 13 mars 1995 (SPSP9500721D)](decret-n95-278-du-13-mars-1995-spsp9500721d)
 - [Décret n°95-282 du 13 mars 1995 (JUSE9540009D)](decret-n95-282-du-13-mars-1995-juse9540009d)
 - [Décret n°95-283 du 13 mars 1995 (INDD9401298D)](decret-n95-283-du-13-mars-1995-indd9401298d)
