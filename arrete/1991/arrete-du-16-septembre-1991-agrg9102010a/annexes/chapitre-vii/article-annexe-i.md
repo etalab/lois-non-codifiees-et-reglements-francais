@@ -1,0 +1,3 @@
+# Article Annexe I
+
+31. L'exemplaire original du certificat de salubrité qui doit accompagner les produits à base d'issues, de graisses ou d'extraits de viande au cours de leur transport vers le pays destinataire doit être délivré par le vétérinaire officiel au moment de l'embarquement. Le certificat de salubrité doit correspondre dans sa présentation et son contenu, selon le cas, au modèle de l'annexe II pour les extraits de viandes ou produits à base d'extraits de viandes, de l'annexe III pour les boyaux, vessies et estomacs, blanchis, salés ou séchés, ou de l'annexe IV pour les graisses animales fondues ou pour les margarines qui en contiennent.
