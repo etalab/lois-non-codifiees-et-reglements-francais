@@ -14,4 +14,6 @@ Les interdictions définies à l'article 10 de la présente loi ne font pas obst
 
 6° Remettre des espèces en garantie d'un prêt de titres en application du c de l'article 31 de la loi n° 87-416 du 17 juin 1987 sur l'épargne ;
 
+Le Comité peut refuser l'agrément lorsque l'exercice de la mission de surveillance de l'entreprise requérante est susceptible d'être entravé soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise et d'autres personnes physiques ou morales, soit par l'existence de dispositions législatives ou réglementaires d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
+
 7° Prendre ou mettre en pension des valeurs mobilières, des titres de créances négociables sur un marché réglementé français ou étranger ou des effets publics.

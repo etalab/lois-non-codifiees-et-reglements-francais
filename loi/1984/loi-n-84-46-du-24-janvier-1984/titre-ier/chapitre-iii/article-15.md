@@ -6,6 +6,10 @@ Le comité des établissements de crédit et des entreprises d'investissement v�
 
 Le comité apprécie également l'aptitude de l'entreprise requérante à réaliser ses objectifs de développement dans des conditions compatibles avec le bon fonctionnement du système bancaire et qui assurent à la clientèle une sécurité satisfaisante.
 
+Le comité peut limiter l'agrément qu'il délivre à l'exercice de certaines opérations définies par l'objet social du demandeur.
+
+Le Comité peut refuser l'agrément lorsque l'exercice de la mission de surveillance de l'entreprise requérante est susceptible d'être entravé soit par l'existence de liens de capital ou de contrôle directs ou indirects entre l'entreprise et d'autres personnes physiques ou morales, soit par l'existence de dispositions législatives ou réglementaires d'un Etat qui n'est pas partie à l'accord sur l'Espace économique européen et dont relèvent une ou plusieurs de ces personnes.
+
 Le comité peut, en outre, refuser l'agrément si les personnes visées à l'article 17 ne possèdent pas l'honorabilité nécessaire et l'expérience adéquate à leur fonction.
 
 Le comité statue dans un délai de douze mois à compter de la réception de la demande. Tout refus d'agrément est notifié au demandeur.

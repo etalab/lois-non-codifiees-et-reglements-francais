@@ -18,7 +18,7 @@ Concernant les prestataires de services d'investissement, les entreprises de mar
 
 6° Les règles applicables aux personnes visées à l'article 74 de la présente loi ;
 
-7° Les conditions dans lesquelles sont constitués un ou plusieurs fonds de garantie destinés à intervenir au bénéfice de la clientèle des prestataires de services d'investissement ;
+7° (paragraphe supprimé).
 
 8° Les conditions dans lesquelles certains prestataires de services d'investissement peuvent intervenir en qualité de non-ducroire ;
 

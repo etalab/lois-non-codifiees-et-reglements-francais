@@ -4,7 +4,7 @@ L'actif d'un fonds commun de placement à risques doit être constitué, pour 40
 
 L'actif peut également comprendre, dans des conditions et limites fixées par le décret mentionné à l'alinéa précédent, des avances en compte courant consenties par le fonds aux sociétés dans lesquelles il détient une participation.
 
-Ce décret fixe en outre, pour les fonds communs de placement à risques qui font l'objet de publicité ou de démarchage, des règles spécifiques relatives aux conditions et limites de la détention des actifs.
+Ce décret fixe en outre, des règles relatives aux conditions d'acquisition et de cession ainsi qu'aux limites de la détention d' actifs.
 
 Les porteurs de parts ne peuvent demander le rachat de celles-ci avant l'expiration d'une période qui ne peut excéder dix ans. Au terme de ce délai, les porteurs de parts peuvent exiger la liquidation du fonds si leurs demandes de remboursement n'ont pas été satisfaites dans le délai d'un an.
 

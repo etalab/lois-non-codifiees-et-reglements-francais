@@ -4,6 +4,6 @@ Les séances du Conseil de la concurrence ne sont pas publiques. Seules les part
 
 Le Conseil de la concurrence peut entendre toute personne dont l'audition lui paraît susceptible de contribuer à son information.
 
-Le rapporteur général et le commissaire du Gouvernement peuvent présenter des observations.
+Le rapporteur général, le ou les rapporteurs généraux adjoints et le commissaire du Gouvernement peuvent présenter des observations.
 
 Le rapporteur général et le rapporteur assistent au délibéré, sans voix délibérative.

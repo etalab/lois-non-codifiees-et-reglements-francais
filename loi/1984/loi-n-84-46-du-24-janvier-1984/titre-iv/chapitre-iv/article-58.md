@@ -1,6 +1,6 @@
 # Article 58
 
-Toute personne physique résidant en France, dépourvue d'un compte de dépôt, a droit à l'ouverture d'un tel compte dans l'établissement de crédit de son choix ou auprès des services financiers de La Poste ou du Trésor public.
+Toute personne physique ou morale domiciliée en France, dépourvue d'un compte de dépôt, a droit à l'ouverture d'un tel compte dans l'établissement de crédit de son choix ou auprès des services financiers de La Poste ou du Trésor public.
 
 L'ouverture d'un tel compte intervient après remise auprès de l'établissement de crédit d'une déclaration sur l'honneur attestant le fait que le demandeur ne dispose d'aucun compte. En cas de refus de la part de l'établissement choisi, la personne peut saisir la Banque de France afin qu'elle lui désigne soit un établissement de crédit, soit les services financiers de La Poste, soit ceux du Trésor public.
 

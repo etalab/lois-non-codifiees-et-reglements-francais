@@ -12,7 +12,21 @@ Par dérogation à la loi n° 66-537 du 24 juillet 1966 sur les sociétés comme
 
 5° Le commissaire aux comptes est désigné pour six exercices par le conseil d'administration ou le directoire, après accord de la Commission des opérations de bourse.
 
-Le commissaire aux comptes porte à la connaissance de l'assemblée générale de la S.I.C.A.V. ainsi qu'à celle de la Commission des opérations de bourse les irrégularités et inexactitudes qu'il a relevées dans l'accomplissement de sa mission ;
+Le commissaire aux comptes porte à la connaissance de l'assemblée générale de la S.I.C.A.V. les irrégularités et inexactitudes qu'il a relevées dans l'accomplissement de sa mission ;
+
+Le commissaire aux comptes est délié du secret professionnel à l'égard de la Commission des opérations de bourse.
+
+Le commissaire aux comptes est tenu de signaler dans les meilleurs délais à la Commission des opérations de bourse tout fait ou décision concernant une société d'investissement à capital variable dont il a eu connaissance dans l'exercice de sa mission, de nature :
+
+- à constituer une violation des dispositions législatives ou réglementaires applicables à cette société et susceptible d'avoir des effets significatifs sur la situation financière, le résultat ou le patrimoine ;
+
+- à porter atteinte à la continuité de son exploitation ;
+
+- à entraîner l'émission de réserves ou le refus de la certification des comptes.
+
+La responsabilité du commissaire aux comptes ne peut être engagée pour les informations ou divulgations de faits auxquelles il procède en exécution des obligations imposées par le présent article.
+
+La Commission des opérations de bourse peut également transmettre aux commissaires aux comptes des sociétés d'investissement à capital variable les informations nécessaires à l'accomplissement de leur mission. Les informations transmises sont couvertes par la règle du secret professionnel.
 
 6° La mise en paiement des produits distribuables doit avoir lieu dans le délai d'un mois après la tenue de l'assemblée générale ayant approuvé les comptes de l'exercice ;
 
@@ -25,3 +39,5 @@ Le commissaire aux comptes porte à la connaissance de l'assemblée générale d
 Les statuts ne peuvent prévoir d'avantages particuliers ;
 
 10° L'assemblée générale annuelle est réunie dans les quatre mois de la clôture de l'exercice [*délai*].
+
+11° Le siège social et l'administration centrale de la société d'investissement à capital variable sont situés en France.

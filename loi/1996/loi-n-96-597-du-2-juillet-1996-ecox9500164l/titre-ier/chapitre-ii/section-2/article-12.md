@@ -2,7 +2,7 @@
 
 Pour délivrer l'agrément à une entreprise d'investissement, le Comité des établissements de crédit et des entreprises d'investissement visé à l'article 29 de la loi n° 84-46 du 24 janvier 1984 précitée vérifie si celle-ci :
 
-1° A son siège social en France ;
+1° A son siège social et son administration centrale en France ;
 
 2° Dispose, compte tenu de la nature du service qu'elle souhaite fournir, d'un capital initial suffisant déterminé par le Comité de la réglementation bancaire et financière ;
 
