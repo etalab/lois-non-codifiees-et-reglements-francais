@@ -3,4 +3,3 @@
 - [Titre I : Formalités relatives à l'inscription au greffe du tribunal de commerce du privilège résultant de la vente ou du nantissement d'un fonds de commerce.](titre-i)
 - [Titre II : Formalités des inscriptions et mentions à l'office national de la propriété industrielle.](titre-ii)
 - [Titre IV : Taxation des frais de l'administration provisoire.](titre-iv)
-- [Formalités des inscriptions et mentions à l'office national de la propriété industrielle.](formalites-des-inscriptions-et)
