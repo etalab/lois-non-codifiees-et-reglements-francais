@@ -1,0 +1,3 @@
+# Article 6
+
+Le ministre de l'agriculture arrête, sur proposition du comité technique permanent de la sélection des plantes cultivées, les conditions que doivent remplir les personnes qui demandent l'inscription de variétés au catalogue, les conditions d'ordre génétique, physiologique, technologique et agronomique que ces variétés doivent remplir pour être inscrites ainsi que les modalités selon lesquelles ces variétés doivent être expérimentées. Lors du dépôt de la demande d'admission d'une variété, le demandeur doit indiquer si celle-ci a déjà fait l'objet d'une demande dans un autre Etat membre de la Communauté économique européenne et préciser la suite réservée à cette demande.

@@ -1,0 +1,3 @@
+# Article 2
+
+Les familles qui sollicitent l'admission de leur enfant dans une section internationale d'école élémentaire en application de l'article 5 du décret du 11 mai 1981 susvisé doivent déposer auprès du directeur de l'école un dossier comportant les diverses pièces prévues par la réglementation en vigueur, et notamment le certificat d'inscription délivré par le maire de la commune. Ce dossier doit également comprendre toutes pièces permettant d'apprécier l'aptitude de l'élève à suivre les enseignements spécifiques de cette section (attestation de séjour à l'étranger, mention d'un apprentissage précoce de langue étrangère à l'école maternelle par exemple).

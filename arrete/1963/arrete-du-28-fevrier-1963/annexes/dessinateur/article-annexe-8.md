@@ -4,55 +4,61 @@ Indépendamment des dispositions législatives sur les emplois réservés aux vi
 
 1. Dans la proportion des cinq sixièmes des emplois à pourvoir, par la voie de concours sur titres ou de concours sur épreuves soumis à un jury commun et ouverts respectivement :
 
-a) Pour 25 p. 100 [*pourcentage*] des emplois mis aux concours, aux candidats remplissant les conditions générales de recrutement prévues par le statut du personnel des communes, après concours sur titres parmi les titulaires de l'un des diplômes suivants :
+a) Pour 25 p. 100 des emplois mis au concours, aux candidats remplissant les conditions générales de recrutement prévues par le statut du personnel communal, après concours sur titres ouvert aux titulaires des diplômes ou titres suivants :
 
-Certificat d'aptitude professionnelle, spécialités :
+Certificats d'aptitude professionnelle, spécialités :
 
 Dessinateur en bâtiment ;
 
 Dessinateur en construction mécanique ;
 
+Dessinateur industriel en construction métallique ;
+
+Dessinateur industriel en construction électrique ;
+
+Métré du bâtiment ;
+
+Opérateur géomètre.
+
+Brevets d'études professionnelles, spécialités :
+
+Dessinateur en génie civil (bâtiments et travaux publics) ;
+
+Métré du bâtiment ;
+
+Opérateur géomètre topographe.
+
+Brevets professionnels, spécialités :
+
+Chef de brigade géomètre ;
+
+Dessinateur en chaudronnerie et tuyauterie industrielle ;
+
+Dessinateur en construction mécanique ;
+
 Dessinateur en construction métallique ;
 
-Dessinateur en construction électrique ;
-
-Opérateur géomètre ;
+Dessinateur en construction navales ;
 
 Métré du bâtiment.
 
-Brevet d'enseignement industriel, spécialités :
+Brevets d'enseignement industriel, spécialités :
+
+Dessinateur en béton armé ;
 
 Dessinateur commis d'architecte ;
 
 Dessinateur en construction mécanique ;
 
-Dessinateur en béton armé ;
-
 Dessinateur projeteur en chauffage.
 
-Dessinateur d'une commune.
-
-Brevet d'études professionnelles, spécialités :
-
-Dessinateur en génie civil ;
-
-Métré du bâtiment ;
-
-Opérateur-géomètre-topographe.
-
-Brevet professionnel, spécialités :
-
-Chef de brigade géomètre ;
-
-Métré du bâtiment.
-
-Certificat de formation professionnelle délivré par le ministère du travail et de la participation homologué au niveau IV dans les spécialités suivantes :
+Certificats de formation professionnelle ou de perfectionnement professionnel délivrés par le ministère du travail et de la participation, homologués au niveau IV des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1981 d'orientation sur l'enseignement technologique), spécialités :
 
 Dessinateur du bâtiment ;
 
 Dessinateur en béton armé ;
 
-Dessinateur en construction métalliques ;
+Dessinateur en constructions métalliques ;
 
 Dessinateur d'études du bâtiment (gros oeuvre) ;
 
@@ -60,19 +66,55 @@ Dessinateur métreur ;
 
 Dessinateur métreur (gros oeuvre) ;
 
-Dessinateur en serrurerie, menuiserie et charpentes métalliques.
+Dessinateur en serrurerie, menuiserie et charpentes métalliques ;
 
-Certificat de formation professionnelle délivré par le ministère du travail et de la participation homologué au niveau III dans les spécialités suivantes :
+Technicien métreur (couverture, sanitaire, chauffage, ventilation) ;
+
+Technicien métreur en charpente et menuiserie ;
+
+Technicien métreur en charpente et menuiserie bois ;
+
+Technicien métreur gros oeuvre.
+
+Certificats de formation professionnelle ou de perfectionnement professionnel délivrés par le ministère du travail et de la participation, homologués au niveau III des titres et diplômes de l'enseignement technologique (art. 8 de la loi n° 71-577 du 16 juillet 1971 d'orientation sur l'enseignement technologique), spécialités :
 
 Dessin d'études en mécanique générale ;
 
 Dessinateur projeteur en béton armé ;
 
-Dessinateur projeteur en constructions métalliques.
+Dessinateur projeteur en constructions métalliques ;
 
-Certificat de perfectionnement au métré du bâtiment délivré par le centre promotionnel de formation et de perfectionnement des industries du bâtiment et des travaux publics (niveau IV).
+Opérateur géomètre topographe ;
 
-b) Pour 25 p. 100 [*pourcentage*] des emplois mis au concours, aux candidats remplissant les conditions générales de recrutement prévues par le statut général du personnel des communes, après concours comportant des épreuves exclusivement écrites, qui sont les suivantes et dont le niveau est celui du B.E.P.C. en ce qui concerne la rédaction, la dictée et les mathématiques :
+Technicien géomètre topographe.
+
+Brevets de technicien, spécialités :
+
+Collaborateur d'architecte ;
+
+Dessinateur en arts appliqués.
+
+Autres diplômes et titres :
+
+Brevet de collaborateur d'architecte ;
+
+Brevet supérieur de collaborateur d'architecte ;
+
+Brevet de dessinateur du bâtiment des écoles d'art associées ;
+
+Certificat de perfectionnement au métré du bâtiment délivré par le centre promotionnel de formation et de perfectionnement des industries du bâtiment et des travaux publics (niveau IV) ;
+
+Diplôme de collaborateur d'architecte délivré par une école d'art ;
+
+Diplôme de la section Bâtiment des écoles d'art (D.S.B.E.A.) ;
+
+Diplôme de fin d'études de métreur T.C.E., dessinateur détaillant, délivré par l'école régionale des beaux-arts de Lille ;
+
+Examen préliminaire du diplôme de géomètre expert foncier ;
+
+Dessinateur d'une commune.
+
+b) Pour 25 p. 100 des emplois mis au concours, aux candidats remplissant les conditions générales de recrutement prévues par le statut général du personnel des communes, après concours comportant des épreuves exclusivement écrites, qui sont les suivantes et dont le niveau est celui du B.E.P.C. en ce qui concerne la rédaction, la dictée et les mathématiques :
 
 1° Rédaction sur un sujet d'ordre général (durée : deux heures ; coefficient rédaction 3) ;
 
@@ -82,21 +124,15 @@ b) Pour 25 p. 100 [*pourcentage*] des emplois mis au concours, aux candidats rem
 
 4° Mathématiques (problèmes ou exercices) (durée : deux heures ; coefficient 3) ;
 
-5° Première épreuve de dessin portant au choix du candidat sur le dessin topographique ou le dessin d'urbanisme (durée :
+5° Première épreuve de dessin portant au choix du candidat sur le dessin topographique ou le dessin d'urbanisme (durée : quatre heures ; coefficient 5) ;
 
-quatre heures ; coefficient 5) ;
-
-6° Seconde épreuve de dessin portant au choix du candidat sur le dessin d'ouvrage d'art ou le dessin de bâtiment (durée :
-
-quatre heures ; coefficient 5).
+6° Seconde épreuve de dessin portant au choix du candidat sur le dessin d'ouvrage d'art ou le dessin de bâtiment (durée : quatre heures ; coefficient 5).
 
 c) Pour 50 p. 100 des emplois mis au concours, aux agents titulaires et non titulaires à temps complet ou non complet des communes et des établissements publics communaux visés à l'article 477 du code de l'administration communale, âgés de quarante ans au plus au 1er janvier de l'année du concours et ayant accompli à cette même date deux années de services effectifs, après concours comportant les mêmes épreuves qu'au paragraphe b, la quatrième épreuve (mathématiques) étant toutefois remplacée par :
 
-4° Avant-métré d'un ouvrage simple (durée : deux heures ; coefficient 4).
+"4° Avant-métré d'un ouvrage simple (durée : deux heures ; coefficient 4)."    La limite d'âge prévue ci-dessus s'entend sans préjudice de l'application des dispositions en vigueur en matière de report des âges limites au titre des services militaires, du service national et des charges de famille.
 
-La limite d'âge prévue ci-dessus s'entend sans préjudice de l'application des dispositions en vigueur en matière de report des âges limites au titre des services militaires, du service national et des charges de famille.
-
-En cas d'insuffisance de candidats reçus à l'un des trois concours, des admissions complémentaires peuvent être prononcées par le jury au bénéfice des candidats des autres concours. Toutefois, les nominations prononcées en application du paragraphe c ne peuvent excéder de plus de 20 p. 100 [*pourcentage*] le nombre des postes primitivement réservés à cette catégorie.
+En cas d'insuffisance de candidats reçus à l'un des trois concours, des admissions complémentaires peuvent être prononcées par le jury au bénéfice des candidats des autres concours. Toutefois, les nominations prononcées en application du paragraphe c ne peuvent excéder de plus de 20 p. 100 le nombre des postes primitivement réservés à cette catégorie.
 
 2. Au titre de la promotion sociale et dans la limite d'une nomination pour cinq candidats nommés en application du paragraphe 1 ci-dessus, par la voie d'un examen professionnel ouvert aux agents communaux titulaires, âgés de quarante ans au moins au 1er janvier de l'année de l'examen et ayant exercé à cette date, pendant au moins cinq ans, un emploi dans la fonction communale.
 
@@ -168,9 +204,7 @@ Dessin d'urbanisme.
 
 Mise à jour d'un plan parcellaire avec report d'un aménagement.
 
-Dessin d'ouvrage d'art ou de bâtiment.
-
-Dessin au crayon, à une échelle donnée, d'un petit ouvrage d'art (maçonnerie, béton armé, métal, bois) ou d'un petit bâtiment (gros oeuvre) d'après croquis remis au candidat. Mise au net à l'encre, ou calque à l'encre de tout ou partie du travail au crayon.
+Dessin d'ouvrage d'art ou de bâtiment    Dessin au crayon, à une échelle donnée, d'un petit ouvrage d'art (maçonnerie, béton armé, métal, bois) ou d'un petit bâtiment (gros oeuvre) d'après croquis remis au candidat. Mise au net à l'encre, ou calque à l'encre de tout ou partie du travail au crayon.
 
 On recherchera la meilleure disposition des figures.
 
