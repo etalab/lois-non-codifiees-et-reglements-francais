@@ -188,6 +188,8 @@
 - [Arrêté du 14 janvier 1991 (SPSS9100148A)](arrete-du-14-janvier-1991-spss9100148a)
 - [Arrêté du 14 mars 1991 (JUSD9130017A)](arrete-du-14-mars-1991-jusd9130017a)
 - [Arrêté du 14 mars 1991 (SANH9100768A)](arrete-du-14-mars-1991-sanh9100768a)
+- [Arrêté du 14 mai 1991 (BUDZ9100004A)](arrete-du-14-mai-1991-budz9100004a)
+- [Arrêté du 14 mai 1991 (BUDZ9100005A)](arrete-du-14-mai-1991-budz9100005a)
 - [Arrêté du 14 mai 1991 (ECOT9110121A)](arrete-du-14-mai-1991-ecot9110121a)
 - [Arrêté du 14 mai 1991 (ECOT9190004A)](arrete-du-14-mai-1991-ecot9190004a)
 - [Arrêté du 14 mai 1991 (EQUX9110312A)](arrete-du-14-mai-1991-equx9110312a)
