@@ -704,19 +704,15 @@ Art. 2-1.
 
 Art. 2-4.
 
-Décret n° 89-3 du 3 janvier 1989 modifié relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles
+Décret n° 2001-1220 du 20 décembre 2001 relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles
 
-1
+1. Agrément des laboratoires chargés d'effectuer des analyses pour la vérification de la qualité de l'eau (article 16) ;
 
-Agrément des laboratoires chargés d'effectuer des analyses pour la vérification de la qualité de l'eau.
+2. Autorisation d'utilisation des matériaux en contact avec l'eau et des produits et procédés de traitement de l'eau dans les systèmes de production et de distribution (article 32) ;
 
-Art. 12.
+3. Autorisation des produits et procédés de traitement complémentaire de l'eau dans les réseaux intérieurs de distribution (article 40) ;
 
-2
-
-Autorisation des produits et procédés utilisés pour le traitement complémentaire de l'eau dans les installations intérieures de distribution d'eaux destinées à la consommation humaine.
-
-Art. 32.
+4. Autorisation d'utilisation des substances ou matériaux de conditionnement de l'eau ou des matériaux d'emballage de la glace, ainsi que des produits et procédés de traitement qui leur sont spécifiques (article 46).
 
 Décret n° 89-38 du 24 janvier 1989 portant publication du règlement sanitaire international (1969) adopté par la vingt-deuxième assemblée mondiale de la santé en 1969 et modifié par la vingt-sixième assemblée mondiale de la santé en 1973 et par la trente-quatrième assemblée mondiale de la santé en 1981
 
