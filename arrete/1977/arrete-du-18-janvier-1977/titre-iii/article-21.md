@@ -1,3 +1,3 @@
 # Article 21
 
-Les arrêtés des 26 juillet 1973, 31 janvier et 3 juillet 1974 relatifs au recrutement sur titres des capitaines stagiaires de sapeurs-pompiers professionnels ainsi que l'arrêté du 27 mars 1973 fixant les conditions d'attribution du brevet de capitaine professionnel des sapeurs-pompiers communaux sont abrogés.
+L'examen écrit est organisé dans un ou plusieurs centres désignés en fonction des candidatures reçues au ministère de l'intérieur. Les épreuves identiques pour tous les centres sont passées le même jour à la même heure, les sujets étant adressés sous plis cachetés au préfet du département dans lequel fonctionne le centre d'examen.

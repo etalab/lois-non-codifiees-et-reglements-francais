@@ -1,9 +1,21 @@
 # Article 19
 
-Les épreuves professionnelles exclusivement orales sont :
+Les candidatures doivent être adressées par l'intermédiaire du préfet au ministère de l'intérieur (direction de la sécurité civile).
 
-1° Des questions destinées à permettre d'apprécier les aptitudes professionnelles et les connaissances techniques et administratives des candidats (coefficient 3).
+Le dossier comprend les pièces suivantes :
 
-2° Une conversation d'une durée de quinze minutes destinée à permettre de juger des aptitudes générales et de la personnalité des candidats (coefficient 3).
+- demande de l'intéressé ;
 
-Ne peuvent être inscrits sur la liste d'aptitude les candidats ayant obtenu un total de points inférieur à 80.
+- avis du maire ;
+
+- fiches de notation des trois dernières années ;
+
+- avis du chef de corps ;
+
+- avis de l'inspecteur départemental des services d'incendie et de secours ;
+
+- avis du préfet ;
+
+- photocopies des diplômes, brevets et certificats ;
+
+- attestation du médecin-chef du service départemental d'incendie et de secours du domicile de l'intéressé ou, à défaut, d'un médecin de sapeurs-pompiers de centre de secours certifiant que le candidat remplit les conditions d'aptitude physique prescrites par le titre Ier de l'arrêté ministériel du 25 janvier 1964.
