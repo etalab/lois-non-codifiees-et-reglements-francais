@@ -489,7 +489,6 @@
 - [Arrêté du 18 avril 2002 (EQUA0200321A)](arrete-du-18-avril-2002-equa0200321a)
 - [Arrêté du 18 avril 2002 (JUSC0220187A)](arrete-du-18-avril-2002-jusc0220187a)
 - [Arrêté du 18 avril 2002 (MENA0201007A)](arrete-du-18-avril-2002-mena0201007a)
-- [Arrêté du 18 décembre 2001 (AGRG0102675A)](arrete-du-18-decembre-2001-agrg0102675a)
 - [Arrêté du 18 décembre 2001 (MESO0111769A)](arrete-du-18-decembre-2001-meso0111769a)
 - [Arrêté du 18 février 2002 (ECOI0200039A)](arrete-du-18-fevrier-2002-ecoi0200039a)
 - [Arrêté du 18 février 2002 (EQUS0200341A)](arrete-du-18-fevrier-2002-equs0200341a)
