@@ -96,7 +96,6 @@
 - [Arrêté du 6 décembre 1989 (SPSS8902705A)](arrete-du-6-decembre-1989-spss8902705a)
 - [Arrêté du 6 février 1989 (ECOC8800131A)](arrete-du-6-fevrier-1989-ecoc8800131a)
 - [Arrêté du 6 février 1989 (PRMG8905007A)](arrete-du-6-fevrier-1989-prmg8905007a)
-- [Arrêté du 6 février 1989 (TRSS8900072A)](arrete-du-6-fevrier-1989-trss8900072a)
 - [Arrêté du 6 janvier 1989 (ECOZ8800041A)](arrete-du-6-janvier-1989-ecoz8800041a)
 - [Arrêté du 6 janvier 1989 (MENP8802192A)](arrete-du-6-janvier-1989-menp8802192a)
 - [Arrêté du 6 juillet 1989 (MERR8900135A)](arrete-du-6-juillet-1989-merr8900135a)
