@@ -1,0 +1,5 @@
+# Article 4
+
+Le pourcentage limite mentionné à l'article 6 de la loi du 2 mars 1982 précitée et dont les éléments sont définis aux articles 1er à 3 ci-dessus est fixé à 70 p. 100.
+
+Toutefois, ce pourcentage limite ne s'applique pas aux garanties d'emprunts ou aux cautionnements accordés par une commune pour les opérations de construction, d'acquisition ou d'amélioration de logements réalisées avec le bénéfice des prêts aidés par l'Etat.

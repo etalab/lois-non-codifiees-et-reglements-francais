@@ -27,6 +27,8 @@
 - [Décret n° 83-11 du 5 janvier 1983](decret-n-83-11-du-5-janvier-1983)
 - [Décret n°83-3 du 5 janvier 1983](decret-n83-3-du-5-janvier-1983)
 - [Décret n°83-5 du 5 janvier 1983](decret-n83-5-du-5-janvier-1983)
+- [Décret n°83-590 du 5 juillet 1983](decret-n83-590-du-5-juillet-1983)
+- [Décret n°83-592 du 5 juillet 1983](decret-n83-592-du-5-juillet-1983)
 - [Décret n°83-375 du 5 mai 1983](decret-n83-375-du-5-mai-1983)
 - [Décret n°83-194 du 6 août 1927](decret-n83-194-du-6-aout-1927)
 - [Décret n°83-15 du 7 janvier 1983](decret-n83-15-du-7-janvier-1983)

@@ -1,4 +1,4 @@
-# Décret n°83-591 du 5 juillet 1983 relatif aux modalités d'octroi par les départements de leur garantie ou de leur caution pour les emprunts contractés par des personnes de droit privé
+# Décret n°83-592 du 5 juillet 1983 relatif aux modalités d'octroi par les communes de leur garantie ou de leur caution pour les emprunts contractés par des personnes de droit privé
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
