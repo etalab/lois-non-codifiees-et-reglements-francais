@@ -121,6 +121,7 @@
 - [Décret n°2003-1246 du 18 décembre 2003 (JUSC0320741D)](decret-n2003-1246-du-18-decembre-2003-jusc0320741d)
 - [Décret n°2004-240 du 18 mars 2004 (SANH0421001D)](decret-n2004-240-du-18-mars-2004-sanh0421001d)
 - [Décret n°2004-241 du 18 mars 2004 (SANH0420880D)](decret-n2004-241-du-18-mars-2004-sanh0420880d)
+- [Décret n°66-104 du 18 février 1966](decret-n66-104-du-18-fevrier-1966)
 - [Décret n°2004-73 du 19 janvier 2004 (SANS0324118D)](decret-n2004-73-du-19-janvier-2004-sans0324118d)
 - [Décret n°99-886 du 19 octobre 1999 (MENF9901993D)](decret-n99-886-du-19-octobre-1999-menf9901993d)
 - [Décret n°2004-76 du 20 janvier 2004 (BUDF0300012D)](decret-n2004-76-du-20-janvier-2004-budf0300012d)
