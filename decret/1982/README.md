@@ -101,7 +101,6 @@
 - [Décret n°82-1052 du 13 décembre 1982](decret-n82-1052-du-13-decembre-1982)
 - [Décret n°82-1054 du 13 décembre 1982](decret-n82-1054-du-13-decembre-1982)
 - [Décret n°82-602 du 13 juillet 1982](decret-n82-602-du-13-juillet-1982)
-- [Décret n°82-603 du 13 juillet 1982](decret-n82-603-du-13-juillet-1982)
 - [Décret n°82-715 du 13 août 1982](decret-n82-715-du-13-aout-1982)
 - [Décret n°82-723 du 13 août 1982](decret-n82-723-du-13-aout-1982)
 - [Décret n°82-780 du 13 septembre 1982](decret-n82-780-du-13-septembre-1982)
