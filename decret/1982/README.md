@@ -99,6 +99,8 @@
 - [Décret n°82-400 du 12 mai 1982](decret-n82-400-du-12-mai-1982)
 - [Décret n°82-425 du 12 mai 1982](decret-n82-425-du-12-mai-1982)
 - [Décret n°81-938 du 13 octobre 1981](decret-n81-938-du-13-octobre-1981)
+- [Décret n°82-1052 du 13 décembre 1982](decret-n82-1052-du-13-decembre-1982)
+- [Décret n°82-1054 du 13 décembre 1982](decret-n82-1054-du-13-decembre-1982)
 - [Décret n°82-602 du 13 juillet 1982](decret-n82-602-du-13-juillet-1982)
 - [Décret n°82-603 du 13 juillet 1982](decret-n82-603-du-13-juillet-1982)
 - [Décret n°82-715 du 13 août 1982](decret-n82-715-du-13-aout-1982)
