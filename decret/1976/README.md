@@ -18,6 +18,7 @@
 - [Décret n°76-607 du 7 juillet 1976](decret-n76-607-du-7-juillet-1976)
 - [Décret n°76-618 du 7 juillet 1976](decret-n76-618-du-7-juillet-1976)
 - [Décret n°76-398 du 7 mai 1976](decret-n76-398-du-7-mai-1976)
+- [Décret n°76-1156 du 8 décembre 1976](decret-n76-1156-du-8-decembre-1976)
 - [Décret n°76-502 du 8 juin 1976](decret-n76-502-du-8-juin-1976)
 - [Décret n°76-628 du 8 juillet 1976](decret-n76-628-du-8-juillet-1976)
 - [Décret n°76-921 du 8 octobre 1976](decret-n76-921-du-8-octobre-1976)
