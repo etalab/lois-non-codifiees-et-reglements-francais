@@ -218,6 +218,7 @@
 - [Décret n°2001-947 du 16 octobre 2001 (MESF0110992D)](decret-n2001-947-du-16-octobre-2001-mesf0110992d)
 - [Décret n°2001-950 du 16 octobre 2001 (MCCB0100569D)](decret-n2001-950-du-16-octobre-2001-mccb0100569d)
 - [Décret n°2002-87 du 16 janvier 2002 (MENF0102415D)](decret-n2002-87-du-16-janvier-2002-menf0102415d)
+- [Décret n°2001-1198 du 17 décembre 2001 (ECOI0100525D)](decret-n2001-1198-du-17-decembre-2001-ecoi0100525d)
 - [Décret n°2001-1204 du 17 décembre 2001 (MAEA0120366D)](decret-n2001-1204-du-17-decembre-2001-maea0120366d)
 - [Décret n°2001-626 du 17 juillet 2001 (ECOI0120184D)](decret-n2001-626-du-17-juillet-2001-ecoi0120184d)
 - [Décret n°2001-633 du 17 juillet 2001 (INTM0100021D)](decret-n2001-633-du-17-juillet-2001-intm0100021d)
