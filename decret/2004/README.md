@@ -228,6 +228,8 @@
 - [Décret n°2004-349 du 22 avril 2004 (EURX0407250D)](decret-n2004-349-du-22-avril-2004-eurx0407250d)
 - [Décret n°2004-350 du 22 avril 2004 (COPX0407251D)](decret-n2004-350-du-22-avril-2004-copx0407251d)
 - [Décret n°2004-357 du 22 avril 2004 (JUSG0460031D)](decret-n2004-357-du-22-avril-2004-jusg0460031d)
+- [Décret n°2004-364 du 22 avril 2004 (JUSC0420216D)](decret-n2004-364-du-22-avril-2004-jusc0420216d)
+- [Décret n°2004-365 du 22 avril 2004 (JUSC0420215D)](decret-n2004-365-du-22-avril-2004-jusc0420215d)
 - [Décret n°2004-80 du 22 janvier 2004 (AGRD0300891D)](decret-n2004-80-du-22-janvier-2004-agrd0300891d)
 - [Décret n°2003-1392 du 23 décembre 2003 (DEVP0310010D)](decret-n2003-1392-du-23-decembre-2003-devp0310010d)
 - [Décret n°2003-1397 du 23 décembre 2003 (AGRE0202153D)](decret-n2003-1397-du-23-decembre-2003-agre0202153d)

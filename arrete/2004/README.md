@@ -172,6 +172,7 @@
 - [Arrêté du 14 janvier 2004 (MENE0400023A)](arrete-du-14-janvier-2004-mene0400023a)
 - [Arrêté du 14 janvier 2004 (SANS0420208A)](arrete-du-14-janvier-2004-sans0420208a)
 - [Arrêté du 14 janvier 2004 (SOCN0312071A)](arrete-du-14-janvier-2004-socn0312071a)
+- [Arrêté du 15 avril 2004 (MCCF0400369A)](arrete-du-15-avril-2004-mccf0400369a)
 - [Arrêté du 15 février 2005 (BUDF0426168A)](arrete-du-15-fevrier-2005-budf0426168a)
 - [Arrêté du 15 janvier 2004 (SANP0420224A)](arrete-du-15-janvier-2004-sanp0420224a)
 - [Arrêté du 15 novembre 2004 (JUSG0460102A)](arrete-du-15-novembre-2004-jusg0460102a)
