@@ -63,6 +63,7 @@
 - [Décret n°88-97 du 28 janvier 1988 (PRMJ8860003D)](decret-n88-97-du-28-janvier-1988-prmj8860003d)
 - [Décret n°88-98 du 28 janvier 1988 (PRMJ8860004D)](decret-n88-98-du-28-janvier-1988-prmj8860004d)
 - [Décret n°88-99 du 28 janvier 1988 (PRMJ8860005D)](decret-n88-99-du-28-janvier-1988-prmj8860005d)
+- [Décret n°88-106 du 29 janvier 1988 (INDA8700870D)](decret-n88-106-du-29-janvier-1988-inda8700870d)
 - [Décret n°88-510 du 29 avril 1988 (ACVE8850007D)](decret-n88-510-du-29-avril-1988-acve8850007d)
 - [Décret n°87-1107 du 30 décembre 1987 (INTB8700401D)](decret-n87-1107-du-30-decembre-1987-intb8700401d)
 - [Décret n°87-1144 du 31 décembre 1987 (MCCT8700545D)](decret-n87-1144-du-31-decembre-1987-mcct8700545d)
