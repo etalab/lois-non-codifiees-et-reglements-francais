@@ -126,6 +126,7 @@
 - [Décret n°94-137 du 17 février 1994 (INDD9400231D)](decret-n94-137-du-17-fevrier-1994-indd9400231d)
 - [Décret n°94-141 du 17 février 1994 (SPSN9400228D)](decret-n94-141-du-17-fevrier-1994-spsn9400228d)
 - [Décret n°94-161 du 17 février 1994 (AGRS9302372D)](decret-n94-161-du-17-fevrier-1994-agrs9302372d)
+- [Décret n°94-233 du 17 mars 1994 (MAEJ9430007D)](decret-n94-233-du-17-mars-1994-maej9430007d)
 - [Décret n°94-55 du 17 janvier 1994 (ECOM9300079D)](decret-n94-55-du-17-janvier-1994-ecom9300079d)
 - [Décret n°98-489 du 17 juin 1998 (AGRS9800099D)](decret-n98-489-du-17-juin-1998-agrs9800099d)
 - [Décret n°89-902 du 18 décembre 1989 (MENT8902456D)](decret-n89-902-du-18-decembre-1989-ment8902456d)
