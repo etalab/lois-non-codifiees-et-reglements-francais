@@ -1172,7 +1172,6 @@
 - [Arrêté du 28 décembre 1995 (TASF9610040A)](arrete-du-28-decembre-1995-tasf9610040a)
 - [Arrêté du 28 décembre 1995 (TASP9620015A)](arrete-du-28-decembre-1995-tasp9620015a)
 - [Arrêté du 28 décembre 1996 (AGRB9602670A)](arrete-du-28-decembre-1996-agrb9602670a)
-- [Arrêté du 28 décembre 1996 (AGRB9602671A)](arrete-du-28-decembre-1996-agrb9602671a)
 - [Arrêté du 28 décembre 1996 (AGRB9602672A)](arrete-du-28-decembre-1996-agrb9602672a)
 - [Arrêté du 28 décembre 1996 (AGRB9602673A)](arrete-du-28-decembre-1996-agrb9602673a)
 - [Arrêté du 28 décembre 1996 (AGRB9602674A)](arrete-du-28-decembre-1996-agrb9602674a)
