@@ -30,6 +30,7 @@
 - [Décret n°74-200 du 26 février 1974](decret-n74-200-du-26-fevrier-1974)
 - [Décret n°74-63 du 28 janvier 1974](decret-n74-63-du-28-janvier-1974)
 - [Décret n°73-1216 du 29 décembre 1973](decret-n73-1216-du-29-decembre-1973)
+- [Décret n°74-314 du 29 mars 1974](decret-n74-314-du-29-mars-1974)
 - [Décret n°76-119 du 29 janvier 1976](decret-n76-119-du-29-janvier-1976)
 - [Décret n°74-76 du 30 janvier 1974](decret-n74-76-du-30-janvier-1974)
 - [Décret n°74-1204 du 31 décembre 1974](decret-n74-1204-du-31-decembre-1974)
