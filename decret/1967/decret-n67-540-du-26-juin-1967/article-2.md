@@ -4,11 +4,13 @@ La durée de l'enseignement est de trois ans.
 
 Un arrêté du ministre des affaires sociales fixera notamment :
 
-Les conditions d'agrément des formations;
+Les conditions d'agrément des formations ;
 
-Les conditions d'admission des élèves;
+Les conditions d'admission des élèves ;
 
-Le programme et le déroulement des études;
+Le programme et le déroulement des études ;
+
+Les conditions d'indemnisation des stages effectués par les étudiants ;
 
 Les modalités des épreuves sanctionnant cet enseignement.
 
