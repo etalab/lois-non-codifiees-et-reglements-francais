@@ -1,0 +1,3 @@
+# Article 20
+
+Des règlements d'administration publique fixeront les modalités d'application du présent titre et notamment celles qui sont relatives aux immeubles et aux meubles corporels utilisés par les services d'aide sociale à l'enfance des départements de la Seine et de Seine-et-Oise ainsi qu'aux droits et obligations se rattachant auxdits immeubles. Ces règlements d'administration publique fixeront également les conditions d'application de la loi en ce qui concerne la détermination du domicile de secours des enfants relevant de ces services d'aide sociale ainsi que l'exercice de la tutelle ou la surveillance sur ces enfants.
