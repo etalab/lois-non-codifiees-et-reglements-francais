@@ -72,6 +72,16 @@ porte sur le système de transport réalisé ou en cours de réalisation
 
 4.5.2. Déroulement et résultats du programme des tests et essais.
 
-5. Signature
+5. Conclusions de l'EOQA lorsque son intervention porte sur un système de transport en service en application de l'article 44 du décret n° 2003-425.
+
+Les conclusions sont classées selon les rubriques ci-après :
+
+5.1. Sécurité satisfaisante ou défauts de sécurité mineurs ;
+
+5.2. Défauts de sécurité significatifs ;
+
+5.3. Défauts de sécurité majeurs.
+
+6. Signature
 
 Date et signature de l'EOQA et, le cas échéant, signature du responsable de l'organisme qualifié de rattachement.
