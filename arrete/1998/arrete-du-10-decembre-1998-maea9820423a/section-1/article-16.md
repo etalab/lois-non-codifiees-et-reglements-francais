@@ -23,5 +23,3 @@ III. - La direction de la coopération militaire et de défense est chargée de 
 La sous-direction de la coopération militaire et la sous-direction de la coopération de défense préparent et mettent en oeuvre, chacune dans leur domaine de compétence, les actions de coopération technique et militaire résultant de l'application d'accords conclus avec des Etats étrangers.
 
 IV. - Le service de la politique étrangère et de sécurité commune définit, anime et coordonne, en liaison avec la direction de la coopération européenne, les actions prévues en ce domaine par le traité sur l'Union européenne.
-
-V. - La mission de liaison avec les organisations internationales non gouvernementales suit l'action développée à l'étranger par des organisations non gouvernementales dont le siège est en France, et sur le territoire national pour celles dont le siège est situé à l'étranger.
