@@ -1,0 +1,3 @@
+# Article 5
+
+Conformément aux dispositions du deuxième alinéa du VI de l'article L. 322-4-16 du code du travail, toute entreprise d'insertion et toute association intermédiaire fournit au conseil départemental de l'insertion par l'activité économique un état des trois plus fortes rémunérations des salariés assurant la gestion et l'encadrement de l'organisme. Cet état précise la durée du travail correspondant à la rémunération de ces salariés. Il est fourni à l'occasion de la demande de conventionnement, de la procédure de renouvellement ou, en cas de convention pluriannuelle, à chaque date anniversaire de la convention initiale.

@@ -1,0 +1,5 @@
+# Article 2
+
+L'agrément ouvre à l'employeur qu'il désigne le droit aux aides et exonérations visées aux I et II de l'article L. 322-4-16 du code du travail pour le contrat de travail conclu avec la personne concernée en application des articles L. 322-4-16-1 ou L. 322-4-16-2 du même code, dans le mois suivant sa délivrance, ainsi que pour tout autre nouveau contrat conclu avec cette personne, en application des mêmes dispositions et dans la limite d'une période de vingt-quatre mois.
+
+L'agrément peut permettre l'embauche de la personne qu'il concerne par un autre organisme conventionné en application du I de l'article L. 322-4-16 précité, et ce dans la limite des vingt-quatre mois qui suivent sa délivrance. La demande de nouvelle embauche doit être transmise par l'organisme à l'Agence nationale pour l'emploi avant qu'elle n'ait lieu, accompagnée de l'agrément. A défaut de réponse dans un délai de cinq jours ouvrés après la réception de cette demande, l'accord de l'Agence nationale pour l'emploi est réputé acquis.
