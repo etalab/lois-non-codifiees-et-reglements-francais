@@ -1,13 +1,13 @@
 # Article 2
 
-Le financement de cette action sociale spécifique est assuré par une dotation globale fixée pour 1993 à 328,5 MF.
+La dotation globale est fixée pour 1994 à 282 MF [*montant*].
 
-Cette dotation est répartie comme suit, en fonction de la participation familiale moyenne et du nombre de rationnaires :
+Cette dotation est répartie comme suit :
 
-Réunion : 175,3 MF ;
+Réunion : 145,5 MF ;
 
-Guadeloupe : 63 MF ;
+Guadeloupe : 56,5 MF ;
 
-Martinique : 75,4 MF ;
+Martinique : 65,7 MF ;
 
-Guyane : 14,8 MF.
+Guyane : 14,3 MF.

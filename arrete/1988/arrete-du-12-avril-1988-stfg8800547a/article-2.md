@@ -1,6 +1,6 @@
 # Article 2
 
-L'exécution des actes de cytogénétique mentionnés à l'article 1er du présent arrêté ne peut être réalisée que dans les laboratoires dont au moins un directeur ou un directeur adjoint justifie d'une formation en cytogénétique humaine.
+L'exécution des actes de cytogénétique mentionnés à l'article 1er du présent arrêté ne peut être réalisée que dans les laboratoires dont au moins un directeur ou un directeur adjoint justifie d'une formation en cytogénétique humaine ou bien, en dehors des laboratoires, seulement par les médecins mentionnés à l'article 1er, second alinéa, qui justifient d'une formation en cytogénétique humaine.
 
 L'exécution des actes de biologie moléculaire, ou biochimie ou immunologie en vue de diagnostic prénatal ne peut être réalisée que dans les laboratoires dont au moins un directeur ou un directeur adjoint, médecin ou pharmacien, justifie de formation en ce domaine.
 
