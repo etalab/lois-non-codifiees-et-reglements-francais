@@ -2,147 +2,13 @@
 
 Coordination des transports ferroviaires et routiers
 
-Titre Ier : Dispositions générales.
-
-Définition des transports privés et des transports publics de voyageurs.
-
-Article 1er, paragraphe 1er. - Sont considérés comme transports privés de voyageurs, pour l'application du présent décret :
-
-a) Les transports effectués à titre gracieux, sans rémunération directe ou indirecte ;
-
-b) Les transports effectués par toute personne physique ou morale pour son compte exclusif, sous la condition que les véhicules utilisés lui appartiennent ou soient mis à sa disposition dans des conditions fixées par décret et qu'ils ne transportent, en sus des conducteurs, que des personnes attachées à son établissement.
-
-Paragraphe 2. - Tous les transports de voyageurs autres que ceux définis ci-dessus sont considérés comme transports publics.
-
-Définition des transports privés et des transports publics de marchandises.
-
-Article 2, paragraphe 1er. - Sont considérés comme marchandises, pour l'application du présent décret, les biens meubles tels qu'ils sont définis par les dispositions ci-après de l'article 528 du code civil :
-
-Sont meubles par leur nature les corps qui peuvent se transporter d'un lieu à un autre, soit qu'ils se meuvent par eux-mêmes, comme les animaux, soit qu'ils ne puissent changer de place que par l'effet d'une force étrangère, comme les choses inanimées.
-
-Paragraphe 2.- Sont considérés comme transports privés de marchandises, pour l'application du présent décret :
-
-a) Les transports effectués pour ses propres besoins par une personne physique ou morale, pour déplacer des marchandises lui appartenant ou faisant l'objet de son commerce, de son industrie ou de son exploitation, avec des véhicules lui appartenant ou mis à sa disposition dans des conditions fixées par décret ;
-
-b) Les transports de marchandises agricoles effectués occasionnellement et à titre gracieux par un agriculteur pour le compte d'un autre agriculteur de la même commune ou d'une commune appartenant au même canton ou à un canton limitrophe.
-
-Paragraphe 3. - Tous les transports de marchandises autres que ceux définis ci-dessus sont considérés comme transports publics.
-
-Il en est ainsi, notamment, des transports effectués au moyen de véhicules en co-propriété, lorsque les marchandises transportées n'appartiennent pas à l'ensemble des co-propriétaires dans les mêmes conditions que les véhicules servant au transport.
-
-D'autre part, l'adjonction à un transport privé de marchandises d'un fret de complément constitué de marchandises autres que celles visées aux alinéas a et b du paragraphe 2 ci-dessus, enlève à ce transport le caractère de transport privé et lui confère celui de transport public.
-
-Transports de marchandises effectués au moyen de véhicules pris en location.
-
-Article 3 . - Pour les transports de marchandises effectués au moyen de véhicules pris en location, l'usage auquel les locataires affectent les véhicules détermine le caractère public ou privé des transports.
-
-Conseil supérieur des transports.
-
-Article 4. - Le conseil supérieur des transports, institué par le titre III du décret du 31 août 1937, ou, dans la limite des délégations qui lui sont accordées, le comité de coordination des transports ferroviaires et routiers, exerce, en matière de coordination des transports ferroviaires et routiers, les attributions définies par le présent décret ainsi que par toutes dispositions légales ou réglementaires en la matière.
-
-Le ministre consulte cet organisme dans tous les cas prévus par la réglementation sur la coordination et toutes les fois qu'il le juge utile.
-
-Comités techniques départementaux.
-
-Article 5. - Il est constitué, dans chaque département, un organisme dit  Comité technique départemental des transports , présidé par le préfet.
-
-Ces comités ont un rôle d'information, d'étude et de surveillance en matière de coordination des transports ferroviaires et routiers.
-
-Ils ont, en outre, un pouvoir de décision dans les conditions visées au présent décret et aux textes subséquents.
-
-Ils sont dotés de la personnalité civile.
-
-Les attributions générales, l'organisation et le fonctionnement de ces comités sont fixés par décret.
-
-Recours au ministre
-
-Article 6. - Il peut être fait appel de toute décision du comité technique départemental devant le ministre des travaux publics, qui statue après avis du conseil supérieur des transports ; cet appel n'est pas suspensif de l'exécution de la décision du comité technique, sauf dans les cas prévus expressément par les textes législatifs ou réglementaires.
-
-Création éventuelle d'organismes régionaux.
-
-Article 7. - Lorsque les plans de transport de voyageurs visés au titre II du présent décret auront été mis en application dans l'ensemble du pays, le ministre pourra, par décret, supprimer les comités techniques départementaux et y substituer des organismes régionaux.
-
-Ces organismes seront dotés de la personnalité civile. Leurs attributions, leur organisation et leur fonctionnement seront fixés par décret.
-
-Contestation sur le caractère des transports.
-
-Article 8. - Toute contestation ou réclamation relative à la qualification juridique d'un transport ou d'un service routier est tranchée par le comité technique départemental.
+Titre Ier : Dispositions générales. (Dispositions abrogées par la loi n° 82-1153 article 49)
 
 Titre II : Dispositions spéciales aux transports publics de voyageurs.
 
-Chapitre Ier : Services soumis à la coordination.
+Chapitre Ier : Services soumis à la coordination. (Dispositions abrogées par l'article 32 de la loi du 22 mars 1941)
 
-Classification des services de transport public de voyageurs.
-
-Article 9. - Les services soumis à la coordination sont :
-
-a) Les services réguliers de voyageurs, y compris les services saisonniers ou périodiques ;
-
-b) Les services occasionnels de voyageurs qui, bien que faits à la demande, répondent à des besoins du public qui se renouvellent régulièrement pendant une partie de l'année ;
-
-c) Les services de taxis collectifs visés à l'article 17 ci-après ;
-
-d) Les services exceptionnels de voyageurs, c'est-à-dire les services spéciaux destinés à faire face à des besoins qui ne se renouvellent pas régulièrement. Ces services ne sont toutefois soumis qu'aux règles particulières prévues par l'article 19 et le titre VII ci-après.
-
-Les caractéristiques des diverses catégories de services sont précisées par décret.
-
-Chapitre II : Plans de transports.
-
-Rôle des comités techniques départementaux.
-
-Article 10. - Les comités techniques départementaux élaborent des plans d'organisation rationnelle des transports publics de voyageurs par fer et par route évitant les doubles emplois onéreux et permettant d'exécuter les transports dans les conditions les meilleures pour l'économie générale.
-
-Ils présentent, compte tenu des besoins du public reconnus justifiés, des propositions pour réaliser, en principe par voie d'échange, les suppressions de services ferroviaires et routiers qui seraient reconnues nécessaires, notamment en vue de faire cesser les concurrences inutiles aux services concédés ou subventionnés maintenus.
-
-Rôle des conseils généraux.
-
-Article 11, paragraphe 1er. - Les propositions du comité technique départemental sont transmises au conseil général du département.
-
-Celui-ci, après avoir procédé aux négociations utiles, apporte les modifications nécessaires au plan d'organisation des transports qu'il soumet au ministre des travaux publics.
-
-Paragraphe 2. - Le conseil général peut, dans le cadre du plan approuvé par le ministre des travaux publics, placer les services routiers qu'il désigne sous l'autorité et le contrôle du département en passant des conventions avec les transporteurs intéressés et en les soumettant à des cahiers des charges.
-
-Etablissement d'office du plan de transports.
-
-Article 12. - Dans le cas où le conseil général n'a pas présenté, à la date du 1er juillet 1938, de plan d'organisation des transports satisfaisant, le ministre des travaux publics arrête, après avis du conseil supérieur des transports, les dispositions à adopter.
-
-Approbation.
-
-Article 13. - Après avis du conseil supérieur des transports, le ministre des travaux publics rend exécutoires, par arrêté, les plans auxquels il donne son approbation, ainsi que les dispositions qu'il leur substitue en tout ou partie ou les additions et modifications qu'il apporte à des plans antérieurement approuvés.
-
-Suppression de services ferroviaires.
-
-Article 14. - L'établissement et l'approbation du plan de transports ne font pas obstacle aux droits que tiennent les autorités concédantes d'autoriser la Société nationale des chemins de fer ou toute entreprise ferroviaire à supprimer des services par fer lorsqu'elles estiment que les besoins du public sont ou peuvent être convenablement assurés par d'autres moyens de transport. Il appartient dans ce cas aux entreprises ou collectivités intéressées de passer, le cas échéant, les conventions nécessaires en se conformant aux règlements en vigueur.
-
-Cas de désaccord des transporteurs routiers.
-
-Article 15. - Les entreprises routières qui n'acceptent pas les dispositions d'un plan de transports approuvé par le ministre des travaux publics, après avis conforme du conseil supérieur des transports, perdent tout droit à l'exploitation des services créés ou supprimés par le plan.
-
-Autorisation et cahier des charges.
-
-Article 16, paragraphe 1er. - Les services routiers de transport public de voyageurs prévus par le plan de transports sont exploités aux conditions d'une autorisation du ministre des travaux publics et d'un cahier des charges dont le type est arrêté par décret et qui fixe notamment les règles applicables aux horaires, itinéraires, tarifs, à l'acceptation des transports postaux, aux assurances, à l'obligation d'assurer le service, et, s'il y a lieu, à l'obligation de transporter.
-
-Sont fixées par décret les conditions dans lesquelles les dispositions ci-dessus sont applicables aux entreprises soumises par ailleurs à un cahier des charges en vertu de contrats passés avec des collectivités publiques.
-
-L'autorisation est délivrée pour une durée qui ne peut dépasser le 31 décembre 1947 ; elle fait mention, le cas échéant, des accords intervenus, soit entre transporteurs ferroviaires et transporteurs routiers, soit entre transporteurs routiers.
-
-Paragraphe 2. - Dans le cas où le plan approuvé comporte le maintien de services routiers en parallèle avec le chemin de fer ou des services subventionnés, les tarifs desdits services routiers doivent être établis conformément aux règles qui sont fixées par décret.
-
-Taxis collectifs
-
-Article 17. - A dater du 1er décembre 1938, les entrepreneurs ou artisans assurant un transport public de voyageurs sur une relation déterminée au moyen de taxis ou de voitures similaires doivent obligatoirement faire partie d'une association professionnelle qui est seule habilitée à recevoir l'autorisation ministérielle prévue par l'article 16 ci-dessus, pour l'exploitation de tout ou partie des services assurés antérieurement au 21 avril 1934 à titre individuel par ses membres.
-
-Les conditions d'exploitation des taxis collectifs sont fixées par décret.
-
-Services de remplacement de trains.
-
-Article 18, paragraphe 1er. - Lorsqu'il est démontré, par les résultats d'une exploitation continue d'au moins une année, qu'un service routier de transport de voyageurs, substitué par raison d'économie à un service ferroviaire sur une ligne d'intérêt général, ne peut pas couvrir ses frais normaux, une fois effectués tous les aménagements des conditions techniques et commerciales du service compatibles avec les besoins du public, le chemin de fer peut être autorisé par le ministre des travaux publics, dans des conditions fixées par décret, à subventionner ce service routier, ou à lui garantir une recette kilométrique minimum ; il peut également être autorisé à couvrir tout ou partie du déficit de la première année.
-
-Paragraphe 2. - Dans certains cas, le chemin de fer peut être autorisé par le ministre des travaux publics à subventionner le service routier sans attendre l'achèvement de la première année d'exploitation.
-
-Paragraphe 3. - S'il est reconnu, avant tout commencement d'exécution, que le service de remplacement de trains ne peut pas être exploité sans subvention, le chemin de fer détermine, en accord avec l'exploitant et sous réserve de l'autorisation du ministre des travaux publics, les conditions dans lesquelles il peut prendre à sa charge, dès le début de l'exploitation routière, tout ou partie du déficit.
-
-Paragraphe 4. - Dans le cas où, par application de l'article 11 ci-dessus, un département décide de placer sous son autorité et son contrôle un service de remplacement de chemin de fer d'intérêt général, il doit prendre à sa charge les garanties financières prévues au présent article.
+Chapitre II : Plans de transports. (Dispositions abrogées par la loi n° 82-1153 article 49)
 
 Chapitre III : Services exceptionnels.
 
@@ -194,7 +60,7 @@ Article 23. - Les transports routiers de camionnage urbain sont soumis à un ré
 
 c) Transports à petite distance.
 
-Article 24,  paragraphe 1er. - Les transports routiers de marchandises à petite distance sont soumis à des mesures de contingentement, fixées par décret, sur la base de l'activité réelle des véhicules antérieurement au 21 avril 1934. Ce contingentement peut porter sur le tonnage des véhicules en service et leur champ d'activité.
+Article 24, paragraphe 1er. - Les transports routiers de marchandises à petite distance sont soumis à des mesures de contingentement, fixées par décret, sur la base de l'activité réelle des véhicules antérieurement au 21 avril 1934. Ce contingentement peut porter sur le tonnage des véhicules en service et leur champ d'activité.
 
 Paragraphe 2. - Les véhicules affectés à des transports routiers de marchandises à petite distance ne peuvent circuler que sous le couvert d'une autorisation du ministre des travaux publics.
 
@@ -416,7 +282,7 @@ Article 50. - Les infractions aux dispositions législatives et réglementaires 
 
 D'autre part, les fonctionnaires et agents désignés par le ministre des travaux publics et assermentés ont qualité pour constater, par procès-verbal, les infractions aux dispositions de l'article 41 ci-dessus.
 
-Les procès-verbaux sont dispensés de l'affirmation ; ils sont visés pour timbre et enregistrés en débet.
+Les procès-verbaux sont visés pour timbre et enregistrés en débet.
 
 Transmission des procès-verbaux.
 
@@ -553,6 +419,8 @@ Paragraphe 2. - Sont exemptés du payement des taxes prévues aux articles 57 et
 1° Jusqu'au 30 juin 1941 inclus, les véhicules à accumulateurs électriques et ceux fonctionnant à l'aide de moteurs à combustion interne alimentés par gazogène ou par gaz comprimés, à condition qu'ils ne sortent pas de la zone définie au paragraphe 1er du précédent article. Après la date indiquée, ils bénéficieront dans cette zone d'une réduction de 50 % sur la taxe déjà réduite par application du paragraphe 1er susvisé ;
 
 2° Sauf lorsque les relations intéressées sont desservies par d'autres entreprises, les véhicules affectés, exclusivement, aux services organisés en vertu de l'article 21 du cahier des charges de la Société nationale des chemins de fer français.
+
+3° Les taxes prévues aux articles 57 et 58 ci-dessus sont réduites de moitié pour les véhicules visés au 1° du paragraphe 2 du présent article, et qui sortent de la zone définie au paragraphe 1er du même article.
 
 IV. - Transports privés de marchandises.
 
