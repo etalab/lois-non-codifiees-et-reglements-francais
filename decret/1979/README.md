@@ -44,6 +44,8 @@
 - [Décret n°79-65 du 23 janvier 1979](decret-n79-65-du-23-janvier-1979)
 - [Décret n°79-66 du 23 janvier 1979](decret-n79-66-du-23-janvier-1979)
 - [Décret n°79-71 du 23 janvier 1979](decret-n79-71-du-23-janvier-1979)
+- [Décret n°79-323 du 24 avril 1979](decret-n79-323-du-24-avril-1979)
+- [Décret n°79-324 du 24 avril 1979](decret-n79-324-du-24-avril-1979)
 - [Décret n°79-113 du 25 janvier 1979](decret-n79-113-du-25-janvier-1979)
 - [Décret n°79-114 du 25 janvier 1979](decret-n79-114-du-25-janvier-1979)
 - [Décret n°79-88 du 25 janvier 1979](decret-n79-88-du-25-janvier-1979)

@@ -1,4 +1,4 @@
-# Loi n° 79-12 du 3 janvier 1979 relative aux sociétés d'investissement à capital variable
+# Décret n°79-323 du 24 avril 1979 portant application de la loi n° 79-12 du 3 janvier 1979 relative aux sociétés d'investissement à capital variable (SICAV)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -22,9 +22,3 @@
 - [Article 20](article-20.md)
 - [Article 21](article-21.md)
 - [Article 22](article-22.md)
-- [Article 23](article-23.md)
-- [Article 24](article-24.md)
-- [Article 25](article-25.md)
-- [Article 26](article-26.md)
-- [Article 29](article-29.md)
-- [Article 30](article-30.md)
