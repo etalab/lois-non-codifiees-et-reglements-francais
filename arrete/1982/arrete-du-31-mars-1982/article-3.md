@@ -1,3 +1,3 @@
 # Article 3
 
-Un nouvel arrêté à paraître au Journal officiel de la République française le 28 mai 1982, au plus tard, pourra avancer la date de jouissance.
+Les mono et diglycérides d'acides gras qui font l'bjet du présent arrêté doivent répondre aux caractéristiques et aux critères de pureté chimique et microbiologique qui figurent en annexe et ne doivent présenter aucune teneur dangereuse du point de vue toxicologie, en éléments chimiques, notamment métaux lourds.

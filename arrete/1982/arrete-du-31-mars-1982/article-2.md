@@ -1,3 +1,3 @@
 # Article 2
 
-Les obligations, émises au pair, porteront jouissance du 5 juillet 1982 [*date*]. Elles seront assorties d'un taux [*d'intérêt*] nominal de 16,90 p. 100 l'an.
+En cas d'emploi simultané de mono et diglycérides d'acides gras et d'autres agents stabilisants, épaississants ou gélifiants autorisés, la quantité totale de ces substances ne doit pas dépasser 10 grammes par kilogramme à condition que la dose fixée à l'article 1er soit respectée.

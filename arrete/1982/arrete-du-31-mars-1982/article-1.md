@@ -1,3 +1,3 @@
 # Article 1
 
-Electricité de France est autorisé à émettre, en vue de consolider l'emprunt qu'il a émis en 1964, un emprunt représenté par des obligations d'une valeur nominale de 500 F.
+L'addition, comme agents émulsifiants, de mono et diglycérides d'acides gras, référencés sous le numéro communautaire E 471, est autorisée, à la dose maximale de 3 grammes par kilogramme, dans les glaces et les crèmes glacées.
