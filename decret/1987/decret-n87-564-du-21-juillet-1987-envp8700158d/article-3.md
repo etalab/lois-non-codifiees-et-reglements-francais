@@ -1,26 +1,6 @@
 # Article 3
 
-I. - La direction de l'eau et de la prévention des pollutions et des risques a pour mission [*attributions*] :
-
-1° De connaître et d'évaluer le niveau des pollutions ;
-
-2° De proposer et de mettre en oeuvre les mesures propres à réduire les pollutions et à en prévenir les risques.
-
-Dans le domaine de l'eau, elle exerce en outre une mission générale de gestion de la ressource.
-
-Elle est notamment chargée à cet effet :
-
-a) De la protection, de la police et de la gestion des eaux superficielles et souterraines, de la protection des eaux marines et de la prévention des inondations ;
-
-b) De la prévention des risques et pollutions liés aux activités industrielles et agricoles et de l'élaboration des règles relatives aux installations classées.
-
-A ces titres, elle exerce la coordination interministérielle des politiques de l'eau, de prévention de la pollution de l'air et du sol, d'élimination et de récupération des déchets. Elle prépare la programmation des interventions de l'Etat dans ces domaines.
-
-Elle met en oeuvre la législation sur le contrôle des produits chimiques pour la protection de l'environnement. Elle a également pour mission de promouvoir des techniques et technologies propres et d'évaluer l'impact sur l'environnement des équipements énergétiques.
-
-Elle assure les secrétariats de la mission interministérielle de l'eau et du Comité national de l'eau, du Conseil supérieur des installations classées, du Comité national pour la récupération et l'élimination des déchets et de la commission interministérielle de coordination dans le domaine de l'élimination des déchets, de la commission d'évaluation de l'écotoxicité des substances chimiques.
-
-Elle est chargée de la tutelle des agences financières de bassin, de l'Agence nationale pour la récupération et l'élimination des déchets et de l'Agence pour la qualité de l'air.
+I. - [*Paragraphe abrogé*].
 
 II. - Le directeur de l'eau et de la prévention des pollutions et des risques assume les fonctions de délégué aux risques majeurs [*attributions*]. Il lui appartient à ce titre :
 
