@@ -10,7 +10,7 @@ b) Trois représentants du ministre de l'agriculture ou leurs suppléants désig
 
 c) Un représentant du ministre chargé des départements et des territoires d'outre-mer ou son suppléant désigné ;
 
-d) Quatre représentants de la production agricole ou leurs suppléants, dont deux désignés parmi les personnalités proposées par chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990, un représentant de l'assemblée permanente des chambres d'agriculture ou son suppléant désigné, et un représentant de la Confédération nationale de la mutualité, de la coopération et du crédit agricoles ou son suppléant désigné ;
+d) Cinq représentants de la production agricole ou leurs suppléants, dont trois désignés parmi les personnalités proposées par chacune des organisations syndicales d'exploitants agricoles à vocation générale habilitées en application de l'article 3 du décret n° 90-187 du 28 février 1990, un représentant de l'assemblée permanente des chambres d'agriculture ou son suppléant désigné, et un représentant de la Confédération nationale de la mutualité, de la coopération et du crédit agricoles ou son suppléant désigné ;
 
 e) Deux représentants de la transformation agricole ou leurs suppléants désignés.
 
