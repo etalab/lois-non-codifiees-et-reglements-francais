@@ -1,16 +1,14 @@
 # Article 2
 
-a) Lors de la mise à la consommation, le fioul domestique visé à l'article 1er ci-dessus doit contenir dans les doses indiquées, le colorant et l'agent traceur désignés au tableau ci-après :
+a) Lors de la mise à la consommation, le fioul domestique visé à l'article 1er ci-dessus doit contenir dans les doses indiquées, un des colorants ainsi que l'agent traceur désignés au tableau ci-après :
 
-Désignation des colorants, agents traceurs et doses.
+Désignation des colorants et de l'agent traceur, doses.
 
-I. - Colorant rouge écarlate rtho toluène, azo ortho toluène, azo bêta napthol) ou tout autre colorant autrement dénommé mais chimiquement identique ; 1 gramme de ce colorant chimiquement pur par hectolitre.
+I. - Colorants : rouge écarlate (ortho toluène, azo ortho toluène, azo bêta napthtol) ou tout autre colorant autrement dénommé mais chimiquement identique, ou rouge N-éthyl-1-[[4-(phénylazo) phényl]azo]-2-naphthalénamine ou tout autre colorant autrement dénommé mais chimiquement identique : 1 gramme de colorant chimiquement pur par hectolitre.
 
-II. - Agent traceur :
+II. - Agent traceur : Solvent Yellow 124. N-éthyl-N-[2-(1-isobutoxyéthoxy) éthyl]-4-(phénylazo)aniline :
 
-- Solvent Yellow 124 : 6 mg minimum de marqueur chimiquement pur par litre.
-
-N-éthyl-N--(lisobutoxyéthoxy)éthyl-4(phénylazo)aniline.
+6 mg minimum de marqueur chimiquement pur par litre.
 
 b) La fabrication de fioul domestique s'effectue sous douane et sous la surveillance des agents des douanes.
 

@@ -4,7 +4,7 @@ Est dénommé fioul domestique le mélange d'hydrocarbures d'origine minérale o
 
 a) Aspect : clair et limpide à 20 °C ;
 
-b) Couleur : rouge. La couleur sera obtenue par addition de 1 gramme par hectolitre de rouge écarlate (ortho-toluène-azo-ortho-toluène-azo-béta-naphtol) ou tout autre colorant autrement dénommé mais chimiquement identique ;
+b) Couleur : rouge, la couleur sera obtenue par addition de 1 gramme par hectolitre de rouge écarlate (ortho-toluène-azo-ortho-toluène-azo-béta-naphtol) ou rouge N-éthyl-1-<<4-(phénylazo)phényl>azo>-2-naphtalénamine ou tout autre colorant autrement dénommé mais chimiquement identique ;
 
 c) Distillation : volume de distillat, y compris les pertes de distillation :
 
@@ -34,8 +34,6 @@ l) Point de trouble inférieur ou égal à + 2 °C ;
 
 m) Stabilité à l'oxydation inférieure ou égale à 25 g/m3 ;
 
-n) Agents traceurs :
+n) Agent traceur :
 
-- diphénylamine : 5 g/hl ;
-
-- furfural : 1 g/hl.
+- Solvent Yellow 124 (N-éthyl-N-<2-(1-isobutoxyéthoxy)éthyl>-4-(phénylazo)aniline) : 0,6 g par hectolitre.

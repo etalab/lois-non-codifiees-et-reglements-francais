@@ -58,6 +58,8 @@
 - [Arrêté du 19 avril 2000 (AGRP0000771A)](arrete-du-19-avril-2000-agrp0000771a)
 - [Arrêté du 19 décembre 2000 (ATEE0090452A)](arrete-du-19-decembre-2000-atee0090452a)
 - [Arrêté du 19 décembre 2000 (MENF0003243A)](arrete-du-19-decembre-2000-menf0003243a)
+- [Arrêté du 19 juin 2000 (ECOI0000280A)](arrete-du-19-juin-2000-ecoi0000280a)
+- [Arrêté du 19 juin 2000 (ECOI0000281A)](arrete-du-19-juin-2000-ecoi0000281a)
 - [Arrêté du 19 juin 2000 (MCCB0000455A)](arrete-du-19-juin-2000-mccb0000455a)
 - [Arrêté du 19 octobre 2000 (MENG0002754A)](arrete-du-19-octobre-2000-meng0002754a)
 - [Arrêté du 20 décembre 2000 (ECOM0010009A)](arrete-du-20-decembre-2000-ecom0010009a)

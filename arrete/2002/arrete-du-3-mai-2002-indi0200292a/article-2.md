@@ -1,0 +1,9 @@
+# Article 2
+
+L'importateur ou le responsable de la première mise sur le marché national d'un engrais à base de nitrate d'ammonium et à forte teneur en azote doit pouvoir présenter, à leur demande, aux agents qualifiés, en application de l'article L. 255-9 du code rural :
+
+1. Un original, ou une copie, de l'attestation délivrée par une entité d'inspection, domiciliée dans un Etat membre de l'Union européenne ou dans un Etat partie contractante à l'accord instituant l'Espace économique européen offrant des garanties d'impartialité et d'indépendance et n'être notamment ni producteur, ni fabricant, ni importateur, ni vendeur d'engrais à base de nitrate d'ammonium et à forte teneur en azote, certifiant qu'un échantillon prélevé sur un engrais identique, c'est-à-dire fabriqué dans la même unité avec même teneur en éléments fertilisants et mêmes spécifications, a été reconnu conforme à l'essai de détonabilité tel que défini par l'arrêté du 21 septembre 1989 susvisé ou un essai répondant à des exigences identiques ;
+
+2. Un original, ou une copie, du rapport d'essai établi par un laboratoire, domicilié dans un Etat membre de l'Union européenne ou dans un Etat partie contractante à l'accord instituant l'Espace économique européen et disposant des installations techniques et du savoir-faire nécessaire pour effectuer l'essai de détonabilité, qui a procédé à un essai de détonabilité tel que défini par l'arrêté du 21 septembre 1989 susvisé ou un essai répondant à des exigences identiques sur ledit échantillon.
+
+L'attestation et le rapport d'essai, mentionnés dans le présent article, doivent permettre d'apporter la preuve que le prélèvement de l'échantillon sur un engrais identique et l'essai de détonabilité sur ledit échantillon ont été effectués depuis moins de trois mois au moment de la date de l'importation ou de la première mise sur le marché national du produit concerné.

@@ -1,16 +1,14 @@
 # Article 8 ter
 
-Lors de la mise à la consommation, les émulsions d'eau dans du gazole sous conditions d'emploi doivent contenir dans les doses indiquées à la colonne 2 les colorants et agents traceurs désignés à la colonne 1 du tableau ci-après :
+Lors de la mise à la consommation, les émulsions d'eau dans le gazole sous conditions d'emploi doivent contenir dans les doses indiquées, un des colorants ainsi que l'agent traceur désignés au tableau ci-après :
 
-Désignation des colorants et agents traceurs, doses (1, 2).
+Désignation des colorants et de l'agent traceur, doses.
 
-I. - Colorant rouge écarlate (ortho toluène, azo ortho toluène, azo bêta naphtol) ou tout autre colorant autrement dénommé mais chimiquement identique : 1 gramme de produit chimiquement pur par hectolitre du volume total de l'émulsion.
+I. - Colorants : rouge écarlate (ortho toluène, azo ortho toluène, azo bêta napthtol) ou tout autre colorant autrement dénommé mais chimiquement identique, ou rouge N-éthyl-I-[[4-(phénylazo) phényl]azo]-2-naphthalénamine ou tout autre colorant autrement dénommé mais chimiquement identique : 1 gramme de colorant chimiquement pur par hectolitre.
 
-II. - Agents traceurs :
+II. - Agent traceur : Solvent Yellow 124. N-éthyl-N-[2-(1-isobutoxyéthoxy) éthyl]-4-(phénylazo)aniline.
 
-Diphénylamine : 5 grammes de produit chimiquement pur par hectolitre du volume total de l'émulsion.
-
-Furfurol : 1 gramme de produit chimiquement pur par hectolitre du volume total de l'émulsion.
+6 mg minimum de marqueur chimiquement pur par litre.
 
 La fabrication des émulsions d'eau dans du gazole sous conditions d'emploi s'effectue sous douane et sous la surveillance des agents des douanes.
 
