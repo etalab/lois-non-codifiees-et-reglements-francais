@@ -1,3 +1,0 @@
-# Article 1
-
-En ce qui concerne les personnels titulaires et stagiaires des corps de recherche et de formation régis par le décret du 31 décembre 1985 susvisé, ne peuvent faire l'objet de la délégation prévue à l'article 5 de la loi du 20 juillet 1992 susvisée les décisions relatives à la mise à disposition, au détachement nécessitant un arrêté interministériel ou l'accord d'un ou de plusieurs ministres, à la mise en position hors cadres ainsi que les décisions relatives à l'octroi des congés prévus à l'article 34 de la loi du 11 janvier 1984 susvisée, lorsque l'avis du comité médical supérieur est requis.

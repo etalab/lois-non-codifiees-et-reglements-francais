@@ -1,7 +1,0 @@
-# Article 23
-
-Le règlement prévoit que l'organisme disciplinaire d'appel statue en dernier ressort.
-
-Il prévoit que sa décision doit intervenir dans un délai maximum de six mois à compter du jour où un procès-verbal d'enquête et de contrôle établi en application de l'article 5 de la loi du 28 juin 1989 a été transmis à la fédération.
-
-Il prévoit que sa décision est, dans les huit jours, notifiée par lettre recommandée avec demande d'avis de réception au ministre chargé des sports et à la Commission nationale de lutte contre le dopage, conformément à l'artice 8 du décret du 29 mai 1990 susvisé.

@@ -37,7 +37,6 @@
 - [Décret n°92-373 du 1 avril 1992 (TEFC9204595D)](decret-n92-373-du-1-avril-1992-tefc9204595d)
 - [Décret n°92-376 du 1 avril 1992 (MERP9200008D)](decret-n92-376-du-1-avril-1992-merp9200008d)
 - [Décret n°92-379 du 1 avril 1992 (EQUR9200013D)](decret-n92-379-du-1-avril-1992-equr9200013d)
-- [Décret n°92-381 du 1 avril 1992 (MJSK9270015D)](decret-n92-381-du-1-avril-1992-mjsk9270015d)
 - [Décret n°92-383 du 1 avril 1992 (MAEJ9230009D)](decret-n92-383-du-1-avril-1992-maej9230009d)
 - [Décret n°92-384 du 1 avril 1992 (MAEJ9230015D)](decret-n92-384-du-1-avril-1992-maej9230015d)
 - [Décret n°92-479 du 1 juin 1992 (SPSS9201044D)](decret-n92-479-du-1-juin-1992-spss9201044d)
