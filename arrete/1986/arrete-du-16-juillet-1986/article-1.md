@@ -1,3 +1,3 @@
 # Article 1
 
-Les établissements de crédit ayant passé une convention avec le ministre chargé de l'économie et des finances conformément à l'article 2 du décret du 21 juin 1983 susvisé fixent librement le taux nominal des prêts visés à l'article 4 du même décret et destinés à financer les investissements liés à la création d'une entreprise ou d'un groupement ainsi qu'à leur développement lorsque celui-ci s'accompagne de la création d'emplois, à l'intérieur d'une fourchette dont les limites sont définies dans la convention susvisée.
+Par arrêté du ministre d'Etat, ministre de l'économie, des finances et de la privatisation, en date du 16 juillet 1986, les prévisions de recettes et de dépenses du budget de l'Institut national de la consommation pour l'exercice 1986 sont fixées à la somme nette de 96.408.309 F.
