@@ -11,6 +11,7 @@
 - [Arrêté du 17 décembre 1990 (ENVP9061608A)](arrete-du-17-decembre-1990-envp9061608a)
 - [Arrêté du 17 décembre 1990 (JUSG9060102A)](arrete-du-17-decembre-1990-jusg9060102a)
 - [Arrêté du 17 octobre 1990 (TEFE9003888A)](arrete-du-17-octobre-1990-tefe9003888a)
+- [Arrêté du 18 décembre 1990 (EQUR9001671A)](arrete-du-18-decembre-1990-equr9001671a)
 - [Arrêté du 18 décembre 1990 (EQUT9001680A)](arrete-du-18-decembre-1990-equt9001680a)
 - [Arrêté du 18 décembre 1990 (SPSG9002563A)](arrete-du-18-decembre-1990-spsg9002563a)
 - [Arrêté du 19 décembre 1990 (SPSS9002554A)](arrete-du-19-decembre-1990-spss9002554a)
