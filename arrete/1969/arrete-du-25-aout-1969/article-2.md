@@ -63,3 +63,7 @@ Certificat d'études architecturales de premier cycle.
 Diplôme de conseiller en économie familiale et sociale.
 
 Titre d'ancien élève de l'école militaire du corps technique et administratif de Coëtquidan, admis aux examens de sortie.
+
+Diplôme d'Etat d'éducateur de jeunes enfants.
+
+Diplôme d'Etat de psychorééducateur.
