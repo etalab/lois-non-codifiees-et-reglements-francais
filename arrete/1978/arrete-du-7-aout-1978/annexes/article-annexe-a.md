@@ -32,9 +32,6 @@
 <td> : Centrafrique  :     0,085      :</td>
 </tr>
 <tr>
-<td> : Comores       :     0,078      :</td>
-</tr>
-<tr>
 <td> : Congo         :     0,077      :</td>
 </tr>
 <tr>
@@ -50,7 +47,7 @@
 <td> : Haute-Volta   :     0,071      :</td>
 </tr>
 <tr>
-<td> : Madagascar    :     0,061      :</td>
+<td> : Madagascar    :     0,071      :</td>
 </tr>
 <tr>
 <td> : Mali          :     0,077      :</td>
