@@ -901,7 +901,6 @@
 - [Décret n°93-115 du 27 janvier 1993 (JUSC9220874D)](decret-n93-115-du-27-janvier-1993-jusc9220874d)
 - [Décret n°93-118 du 27 janvier 1993 (SANH9203112D)](decret-n93-118-du-27-janvier-1993-sanh9203112d)
 - [Décret n°93-1192 du 27 octobre 1993 (SPSN9302766D)](decret-n93-1192-du-27-octobre-1993-spsn9302766d)
-- [Décret n°93-1205 du 27 octobre 1993 (AGRG9301042D)](decret-n93-1205-du-27-octobre-1993-agrg9301042d)
 - [Décret n°93-1207 du 27 octobre 1993 (COPC9300021D)](decret-n93-1207-du-27-octobre-1993-copc9300021d)
 - [Décret n°93-1208 du 27 octobre 1993 (INTB9300545D)](decret-n93-1208-du-27-octobre-1993-intb9300545d)
 - [Décret n°93-127 du 27 janvier 1993 (MENT9204175D)](decret-n93-127-du-27-janvier-1993-ment9204175d)
