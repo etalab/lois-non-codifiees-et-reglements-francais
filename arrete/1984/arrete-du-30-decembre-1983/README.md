@@ -1,4 +1,4 @@
-# Arrêté du 30 décembre 1983 du 30 décembre 1983 relatif au taux de la taxe parafiscale commune au comité interprofessionnel de développement des industries du cuir et au centre technique du cuir.
+# Arrêté du 30 décembre 1983 DU 30 DECEMBRE 1983 FIXANT LES CONDITIONS D'APPLICATION DE LA TAXE SPECIALE SUR LES HUILES INSTITUEE PAR L'ARTICLE 1618 QUINQUIES DU CODE GENERAL DES IMPOTS POUR LES PRODUITS ALIMENTAIRES IMPORTES.
 
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)

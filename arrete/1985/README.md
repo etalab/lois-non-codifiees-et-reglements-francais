@@ -3,7 +3,6 @@
 - [Arrêté du 1 décembre 1984](arrete-du-1-decembre-1984)
 - [Arrêté du 2 janvier 1985](arrete-du-2-janvier-1985)
 - [Arrêté du 3 janvier 1985](arrete-du-3-janvier-1985)
-- [Arrêté du 4 janvier 1985](arrete-du-4-janvier-1985)
 - [Arrêté du 5 novembre 1985](arrete-du-5-novembre-1985)
 - [Arrêté du 6 décembre 1984](arrete-du-6-decembre-1984)
 - [Arrêté du 7 décembre 1984](arrete-du-7-decembre-1984)
