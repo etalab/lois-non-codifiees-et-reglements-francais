@@ -1,9 +1,7 @@
 # Article 4
 
-Les superficies maxima des cumuls visés à l'article 188-1 du Code rural sont fixées ainsi qu'il suit (en hectares) :
+La superficie maximum des cumuls visée à l'article 188-1 du Code rural est fixée à trois fois la superficie minimum d'installation pour l'ensemble du département soit (en hectares) :
 
-Bas-Berry : 96
+Vallée de la Garonne et du Lot : 48
 
-Plateau de Millevaches : 130
-
-Reste du département : 100
+Reste du département : 69.
