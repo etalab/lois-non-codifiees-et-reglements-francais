@@ -1,0 +1,3 @@
+# Article 4
+
+Le conseil supérieur de la sûreté nucléaire [*fonctionnement*] constitue, s'il l'estime utile ou à la demande du ministre de l'industrie, des groupes de travail spécialisés chargés de suivre plus particulièrement certaines questions scientifiques ou techniques importantes en matière de sûreté nucléaire ou de promouvoir une information sur certains sujets touchant à ce domaine. Ces groupes de travail sont constitués de personnalités, désignées par ce conseil, ou en cas d'urgence par son président, en raison de leurs compétences sur le sujet traité. Ces personnalités peuvent être choisies hors du conseil supérieur de la sûreté nucléaire.
