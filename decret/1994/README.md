@@ -83,6 +83,7 @@
 - [Décret n°94-41 du 13 janvier 1994 (DOMP9300041D)](decret-n94-41-du-13-janvier-1994-domp9300041d)
 - [Décret n°86-599 du 14 mars 1986](decret-n86-599-du-14-mars-1986)
 - [Décret n°86-640 du 14 mars 1986](decret-n86-640-du-14-mars-1986)
+- [Décret n°89-223 du 14 avril 1989 (DEFP8901285D)](decret-n89-223-du-14-avril-1989-defp8901285d)
 - [Décret n°94-132 du 14 février 1994 (EQUB9400297D)](decret-n94-132-du-14-fevrier-1994-equb9400297d)
 - [Décret n°94-139 du 14 février 1994 (SPSH9303295D)](decret-n94-139-du-14-fevrier-1994-spsh9303295d)
 - [Décret n°94-39 du 14 janvier 1994 (RESK9301635D)](decret-n94-39-du-14-janvier-1994-resk9301635d)
