@@ -6,7 +6,7 @@ L'examen professionnel comporte les épreuves suivantes :
 
 - pour la spécialité Surveillance et accueil, en l'étude d'une situation à laquelle un technicien des services culturels, spécialité Surveillance et accueil, peut être confronté, sur la base d'un dossier technique comportant des éléments d'organisation et de calcul ;
 
-- pour la spécialité Maintenance des bâtiments et des matériels techniques, en l'élaboration d'un rapport à partir des éléments d'un dossier remis au candidat relatif aux problèmes propres à la dominante technique choisie ;
+- pour la spécialité Maintenance des bâtiments et des matériels techniques, en l'élaboration d'un rapport à partir des éléments d'un dossier remis au candidat, relatif au lancement et à l'organisation d'un chantier faisant intervenir plusieurs corps de métiers ;
 
 - pour la spécialité Bâtiments de France, en la rédaction d'une note ou d'un rapport sur un sujet se rapportant à la conservation ou la mise en valeur du patrimoine monumental et architectural.
 
