@@ -14,21 +14,17 @@ I. - Pour l'ensemble des aérogares Sud et Ouest, limitation à deux transporteu
 
 - transport des passagers entre l'avion et l'aérogare (catégorie 5.4) ;
 
-- transport de l'équipage entre l'avion et l'aérogare (catégorie 5.4) ;
-
 - assistance au démarrage de l'avion (catégorie 5.5) ;
 
 - déplacement de l'avion (catégorie 5.6).
 
-II. - Pour l'aérogare Sud, limitation à deux transporteurs aériens pour le service de l'assistance au stationnement (catégorie 5.2).
+II. - Paragraphe supprimé.
 
 III. - Pour la zone fret, limitation à deux transporteurs aériens pour chacun des services suivants :
 
 - assistance au stationnement (catégorie 5.2) ;
 
 - chargement et déchargement de l'avion (catégorie 5.4) ;
-
-- transport de l'équipage entre l'avion et l'aérogare (catégorie 5.4) ;
 
 - assistance au démarrage de l'avion (catégorie 5.5) ;
 
