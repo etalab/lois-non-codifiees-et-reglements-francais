@@ -1,0 +1,3 @@
+# Article 9
+
+L'envoi devant le conseil d'enquête prévu par l'article 2 du décret du 22 avril 1974 susvisé peut également être ordonné, chacun en ce qui les concerne, par les commandants des corps d'armée et le commandant de la force d'action rapide, en ce qui concerne celles de leurs formations stationnées sur le territoire de la région militaire de défense, par les généraux commandant les circonscriptions militaires de défense, par les directeurs des services implantés sur le territoire de la région militaire de défense et par le général commandant les écoles de l'armée de terre, pour ce qui concerne les écoles situées sur le territoire de celle-ci.
