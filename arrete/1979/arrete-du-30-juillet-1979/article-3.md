@@ -1,3 +1,3 @@
 # Article 3
 
-Sont considérées comme distributeurs au sens du présent arrêté pour cette partie de leur activité les entreprises distribuant du butane commercial, du propane commercial ou du mélange spécial carburant.
+La carte "Station debout pénible" ne confère aucun des avantages attachés à la carte d'invalidité instituée par l'article 173 du code de la famille et de l'aide sociale.
