@@ -11,3 +11,5 @@ Elle prévoit le remboursement par l'administration de l'Etat, par l'établissem
 Elle peut toutefois prévoir l'exonération totale ou partielle, temporaire ou permanente, de ce remboursement sauf lorsque la mise à disposition intervient au bénéfice d'un syndicat interhospitalier.
 
 La convention est conclue pour la durée de la mise à disposition. Elle peut être renouvelée.
+
+Le présent article est applicable dans le cas d'une mise à disposition auprès d'une collectivité territoriale ou d'un établissement public en dépendant.

@@ -6,7 +6,7 @@ Ils peuvent être détachés :
 
 1° Auprès d'un autre établissement hospitalier public, dans un emploi relevant du présent statut ;
 
-2° Auprès d'un établissement d'hospitalisation privé faisant fonction d'établissement public ou auprès d'un établissement ou d'un organisme privé à but non lucratif participant au service public hospitalier. Ces praticiens demeurent régis par le présent statut et leur rémunération est déterminée dans les conditions prévues par le présent décret ;
+2° Auprès d'un établissement d'hospitalisation privé faisant fonction d'établissement public ou auprès d'un établissement ou d'un organisme privé à but non lucratif participant au service public hospitalier ou d'un établissement privé entrant dans le champ d'application du I de l'article L. 313-12 du code de l'action sociale et des familles. Ces praticiens demeurent régis par le présent statut et leur rémunération est déterminée dans les conditions prévues par le présent décret ;
 
 3° Auprès d'une administration de l'Etat, auprès d'un établissement public de l'Etat ou d'une entreprise publique ;
 
