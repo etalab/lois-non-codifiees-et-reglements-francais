@@ -779,7 +779,6 @@
 - [Arrêté du 20 juin 1992 (AGRB9201254A)](arrete-du-20-juin-1992-agrb9201254a)
 - [Arrêté du 20 mars 1992 (INTB9200177A)](arrete-du-20-mars-1992-intb9200177a)
 - [Arrêté du 20 novembre 1992 (DEFC9202211A)](arrete-du-20-novembre-1992-defc9202211a)
-- [Arrêté du 20 octobre 1992 (EQUP9201079A)](arrete-du-20-octobre-1992-equp9201079a)
 - [Arrêté du 20 octobre 1992 (PRMA9200065A)](arrete-du-20-octobre-1992-prma9200065a)
 - [Arrêté du 20 mai 1992 (DEFG9201504A)](arrete-du-20-mai-1992-defg9201504a)
 - [Arrêté du 20 mai 1992 (MERG9200093A)](arrete-du-20-mai-1992-merg9200093a)
