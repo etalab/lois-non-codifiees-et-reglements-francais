@@ -53,3 +53,7 @@ d) Outre-mer
 8° Certificat d'aptitude technique n° 2 d'infirmier des troupes d'outre-mer délivré jusqu'au 31 août 1964 ;
 
 9° Certificat d'aptitude technique n° 2 d'infirmier des troupes de marine délivré jusqu'au 31 décembre 1966.
+
+e) Personnels issus de l'école du personnel paramédical des armées
+
+Diplôme d'infirmier des armées délivré à compter du 1er septembre 1995.
