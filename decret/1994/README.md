@@ -906,7 +906,6 @@
 - [Décret n°96-966 du 30 octobre 1996 (ACVE9550018D)](decret-n96-966-du-30-octobre-1996-acve9550018d)
 - [Décret du 30 mai 1994 (ECOT9451332D)](decret-du-30-mai-1994-ecot9451332d)
 - [Décret n°94-432 du 30 mai 1994 (EQUU9400940D)](decret-n94-432-du-30-mai-1994-equu9400940d)
-- [Décret n°93-1425 du 31 décembre 1993 (JUSC9320854D)](decret-n93-1425-du-31-decembre-1993-jusc9320854d)
 - [Décret n°93-1426 du 31 décembre 1993 (ECOT9351315D)](decret-n93-1426-du-31-decembre-1993-ecot9351315d)
 - [Décret n°93-1427 du 31 décembre 1993 (ECOT9310200D)](decret-n93-1427-du-31-decembre-1993-ecot9310200d)
 - [Décret n°93-1428 du 31 décembre 1993 (EQUF9301896D)](decret-n93-1428-du-31-decembre-1993-equf9301896d)
