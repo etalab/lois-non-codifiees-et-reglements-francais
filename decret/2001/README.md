@@ -143,6 +143,7 @@
 - [Décret n°2001-960 du 19 octobre 2001 (PRMX0105135D)](decret-n2001-960-du-19-octobre-2001-prmx0105135d)
 - [Décret n°2002-552 du 19 avril 2002 (MESG0221045D)](decret-n2002-552-du-19-avril-2002-mesg0221045d)
 - [Décret n°93-1334 du 20 décembre 1993 (RESM9300956D)](decret-n93-1334-du-20-decembre-1993-resm9300956d)
+- [Décret n°93-1335 du 20 décembre 1993 (RESM9300954D)](decret-n93-1335-du-20-decembre-1993-resm9300954d)
 - [Décret du 22 janvier 2001 (AGRP0001838D)](decret-du-22-janvier-2001-agrp0001838d)
 - [Décret du 22 janvier 2001 (AGRP0001972D)](decret-du-22-janvier-2001-agrp0001972d)
 - [Décret n°2000-1115 du 22 novembre 2000 (JUSC0020694D)](decret-n2000-1115-du-22-novembre-2000-jusc0020694d)
