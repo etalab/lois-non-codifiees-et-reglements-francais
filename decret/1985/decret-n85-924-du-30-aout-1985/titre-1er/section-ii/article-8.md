@@ -8,7 +8,7 @@ a) Représente l'établissement en justice et dans tous les actes de la vie civi
 
 b) A autorité sur le personnel n'ayant pas le statut de fonctionnaire de l'Etat, recruté par l'établissement ;
 
-c) Préside le conseil d'administration, la commission permanente et dans les lycées le conseil des délégués des élèves;
+c) Préside le conseil d'administration, la commission permanente et dans les lycées la conférence des délégués des élèves et le conseil des délégués pour la vie lycéenne ;
 
 d) Est ordonnateur des recettes et des dépenses de l'établissement ;
 
@@ -28,12 +28,12 @@ Lorsque l'établissement est associé, pour la mise en oeuvre de ses missions de
 
 a) A autorité sur l'ensemble des personnels affectés ou mis à disposition de l'établissement. Il désigne à toutes les fonctions au sein de l'établissement pour lesquelles aucune autre autorité administrative n'a reçu de pouvoir de nomination. Il fixe le service des personnels dans le respect du statut de ces derniers ;
 
-b) Veille au bon déroulement des enseignements, de l'orientation et du contrôle des connaissances des élèves  ;
+b) Veille au bon déroulement des enseignements, de l'orientation et du contrôle des connaissances des élèves ;
 
 c) Prend toutes dispositions, en liaison avec les autorités administratives compétentes, pour assurer la sécurité des personnes et des biens, l'hygiène et la salubrité de l'établissement ;
 
 d) Est responsable de l'ordre dans l'établissement. Il veille au respect des droits et des devoirs de tous les membres de la communauté scolaire et assure l'application du règlement intérieur ;
 
-e) Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il prononce seul les sanctions de l'avertissement ou de l'exclusion temporaire, de huit jours maximum, de l'établissement, sans préjudice de l'application des sanctions prévues éventuellement par le règlement intérieur. Le chef d'établissement et l'équipe éducative recherchent, dans la mesure du possible avant la mise en oeuvre d'une procédure disciplinaire, toute mesure utile de nature éducative.
+e) Engage les actions disciplinaires et intente les poursuites devant les juridictions compétentes. A l'égard des élèves, il peut prononcer seul, dans les conditions fixées à l'article 3, les sanctions suivantes : l'avertissement, le blâme ou l'exclusion temporaire, de huit jours au plus, de l'établissement ou de l'un de ses services annexes, ainsi que les mesures de prévention, d'accompagnement et de réparation prévues à cet article. Le chef d'établissement et l'équipe éducative recherchent, dans la mesure du possible avant la mise en oeuvre d'une procédure disciplinaire, toute mesure utile de nature éducative.
 
 Le chef d'établissement rend compte de sa gestion au conseil d'administration et en informe l'autorité académique et la collectivité locale de rattachement.

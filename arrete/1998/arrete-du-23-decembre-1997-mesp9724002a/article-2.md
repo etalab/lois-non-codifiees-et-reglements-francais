@@ -1,59 +1,105 @@
 # Article 2
 
-La définition et le tarif de cession des produits sanguins labiles autres que le plasma pour fractionnement sont les suivants :
+La définition et le tarif de cession des produits sanguins labiles sont les suivants :
 
-Sang humain total (unité adulte, unité enfant et unité pédiatrique) : 565,15 F ;
+En francs
 
-Concentré de globules rouges humains homologue (unité adulte, unité enfant et unité pédiatrique) : 954,45 F ;
+Sang humain total (unité adulte, unité enfant et unité pédiatrique)
 
-Concentré de globules rouges humains homologue déleucocyté (unité adulte, unité enfant et unité pédiatrique) : 954,45 F ;
+578,71
 
-Concentré unitaire de granulocytes d'aphérèse : 2 797,15 F ;
+Concentré de globules rouges humains homologues (unité adulte, unité enfant et unité pédiatrique)
 
-Concentré de plaquettes standard : 196,05 F ;
+977,36
+
+Concentré de globules rouges humains homologues déleucocyté (unité adulte, unité enfant et unité pédiatrique)
+
+977,36
+
+Concentré unitaire de granulocytes d'aphérèse
+
+2 864,28
+
+Concentré de plaquettes standard
+
+200,76
 
 Concentré de plaquettes d'aphérèse :
 
-- concentration minimale de 2 x 1011 plaquettes par poche :
+Concentration minimale de 2 x 1011 plaquettes par poche
 
-1 142,90 F ;
+1 170,33
 
-- puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011 : 278,60 F ;
+Puis par tranche supplémentaire d'unité thérapeutique de 0,5 x 1011
 
-Plasma frais congelé humain homologue solidarisé pour sang reconstitué : 179,10 F ;
+285,29
 
-Plasma frais congelé humain homologue d'aphérèse sécurisé par quarantaine (unité adulte [200 ml au minimum], unité enfant et unité pédiatrique) : 375,90 F ;
+Plasma frais congelé humain homologue solidarisé pour sang reconstitué
 
-Plasma frais congelé viro-atténué par solvant détergent (200 ml au minimum) : 622,40 F ;
+183,40
 
-Forfait pour concentrés globules rouges autologues (unités adultes SAG-M, par érythraphérèse) : 2 081,85 F ;
+Plasma frais congelé humain homologue d'aphérèse sécurisé par quarantaine (unité adulte [200 ml au minimum], unité enfant et unité pédiatrique)
 
-Forfait pour transfusion autologue programmée (comprenant un concentré de globules rouges et un plasma frais congelé autologues), par prélèvement : 1 076,85 F ;
+384,92
 
-Majoration pour transformation "mélange de concentrés de plaquettes standard" (part fixe) : 124,10 F ;
+Plasma frais congelé viro atténué par solvant détergent (200 ml au minimum)
 
-Majoration pour transformation "mélange de concentrés de plaquettes standard" par unité supplémentaire à partir de la troisième unité mélangée : 13 F ;
+637,34
 
-Majoration pour transformation "déleucocyté" (applicable sur concentré de globules rouges autologue) : 129,40 F ;
+Forfait pour concentrés globules rouges autologues (unités adultes SAG-M par érythraphérèse)
 
-Majoration pour transformation "déleucocyté" (applicable sur mélange de concentrés de plaquettes standard) : 254,90 F ;
+2 290,04
 
-Majoration pour transformation "cryoconservé" : 614,05 F ;
+Forfait  pour  transfusion  autologue  programmée (comprenant  un  concentré  de  globules  rouges  et un plasma frais congelé autologues), par prélèvement
 
-Majoration pour qualification "phénotypé Rh Kell" :
+1 184,54
 
-16,80 F ;
+Majoration pour transformation "mélange de concentrés de plaquettes standard" (part fixe)
 
-Majoration pour qualification "phénotype étendu" : 77,90 F ;
+127,08
 
-Majoration pour qualification "CMV négatif" : 55,10 F ;
+Majoration pour transformation "mélange de concentrés de plaquettes
 
-Majoration pour transformation "déplasmatisé" : 372,80 F ;
+standard" par unité supplémentaire à partir de la troisième unité mélangée
 
-Majoration pour transformation "irradié" (applicable sur chaque produit) : 75,35 F ;
+13,31
 
-Majoration pour transformation "réduction en volume" :
+Majoration pour transformation "déleucocyté" (applicable sur concentré de globules rouges autologue)
 
-118,50 F ;
+132,51
 
-Majoration pour transformation "reconstitution du sang à usage pédiatrique" : 124,80 F.
+Majoration pour transformation "déleucocyté" (applicable sur mélange de concentrés de plaquettes standard)
+
+261,02
+
+Majoration pour transformation "cryoconservé"
+
+628,79
+
+Majoration pour qualification "phénotypé Rh Kell"
+
+17,20
+
+Majoration pour qualification "phénotype étendu"
+
+79,77
+
+Majoration pour qualification "CMV négatif"
+
+56,42
+
+Majoration pour transformation "déplasmatisé"
+
+381,75
+
+Majoration pour transformation "irradié" (applicable sur chaque produit)
+
+77,16
+
+Majoration pour transformation "réduction de volume"
+
+121,34
+
+Majoration pour transformation "reconstitution du sang à usage pédiatrique"
+
+127,80
