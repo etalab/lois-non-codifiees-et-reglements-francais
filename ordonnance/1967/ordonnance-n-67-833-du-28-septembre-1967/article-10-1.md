@@ -1,0 +1,5 @@
+# Article 10-1
+
+Seront punies d'un emprisonnement de deux mois à deux ans et d'une amende de 5000 à 5 millions de francs dont le montant pourra être porté au-delà de ce chiffre jusqu'au quadruple du montant du gain éventuellement réalisé ou de l'une de ces deux peines [*sanctions pénales*] seulement, les personnes mentionnées à l'article 162-1 de la loi n° 66-537 du 24 juillet 1966 ainsi que toutes autres personnes disposant, à l'occasion de l'exercice de leur profession ou de leurs fonctions, d'informations privilégiées sur la marche technique, commerciale et financière d'une société, qui auront réalisé sur le marché boursier, soit directement, soit par interposition de personnes, une ou plusieurs opérations en exploitant lesdites informations avant que le public en ait connaissance.
+
+Sera punie des mêmes peines toute personne qui aura sciemment répandu dans le public par des voies et moyens quelconques [*intention frauduleuse*] des informations fausses ou trompeuses sur la marche technique, commerciale ou financière d'une société, afin d'agir sur le cours des titres de celle-ci.
