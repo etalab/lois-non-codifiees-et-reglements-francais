@@ -1,0 +1,3 @@
+# Article 137
+
+Pour les collectivités, services, organismes et entreprises visés aux 1°, 2°, 3°, 5°, 6°, 7° et 8° de l'article 61 du décret du 8 juin 1946, l'organisation en vigueur avant le 1er janvier 1947 demeure applicable jusqu'à l'intervention des textes particuliers qui les régiront, notamment des décrets prévus à l'article 17 de l'ordonnance du 4 octobre 1945. Toutefois, à l'exception du personnel visé à l'article 5 de la loi du 30 octobre 1946, le personnel compris dans la garantie d'un contrat souscrit auprès d'un organisme d'assurances privé ou de la caisse nationale d'assurances en cas d'accidents sera temporairement affilié au régime général de la sécurité sociale.
