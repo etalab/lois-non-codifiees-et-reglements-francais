@@ -230,7 +230,6 @@
 - [Arrêté du 6 janvier 1992 (BUDR9205002A)](arrete-du-6-janvier-1992-budr9205002a)
 - [Arrêté du 6 janvier 1992 (BUDR9205003A)](arrete-du-6-janvier-1992-budr9205003a)
 - [Arrêté du 6 janvier 1992 (EQUA9200032A)](arrete-du-6-janvier-1992-equa9200032a)
-- [Arrêté du 6 janvier 1992 (INDH9200002A)](arrete-du-6-janvier-1992-indh9200002a)
 - [Arrêté du 6 janvier 1992 (TEFT9204241A)](arrete-du-6-janvier-1992-teft9204241a)
 - [Arrêté du 6 janvier 1992 (TEFT9204298A)](arrete-du-6-janvier-1992-teft9204298a)
 - [Arrêté du 6 janvier 1992 (TEFX9110349A)](arrete-du-6-janvier-1992-tefx9110349a)
