@@ -1,0 +1,3 @@
+# Article 31
+
+Sont abrogées les dispositions de la section 1 et de la section 3 du décret n° 70-815 du 4 septembre 1970 modifié portant statut particulier de certains agents des services médicaux des établissements nationaux de bienfaisance, des hôpitaux psychiatriques autonomes, de l'Etablissement national de bienfaisance de Saint-Maurice, du Sanatorium national de Zuydcoote et des Thermes nationaux d'Aix-les-Bains et le décret n° 84-99 du 10 février 1984 modifié relatif au statut des infirmières et infirmiers des services médicaux des administrations centrales de l'Etat, des services extérieurs qui en dépendent et des établissements publics de l'Etat.
