@@ -3,6 +3,5 @@
 - [Section I : Constitution de la société.](section-i)
 - [Section II : Augmentation du capital et modification des statuts.](section-ii)
 - [Section III : Information des associés et du public.](section-iii)
-- [Section IV : Plan comptable.](section-iv)
 - [Section V : Assemblées générales.](section-v)
 - [Section VI : Dispositions diverses.](section-vi)
