@@ -6,14 +6,16 @@ Après avis d'une commission, et après consultation des maires de l'ensemble de
 
 Au cas où ces transferts feraient apparaître, au contraire, un excédent de plus de 10 p. 100 [*pourcentage*] de la section de fonctionnement du budget d'une commune, cet excédent devra être reversé à l'organisme d'agglomération et constituera pour la commune une dépense obligatoire.
 
-La dotation de chaque commune évolue par rapport à celle de l'année précédente et, pour la première année, par rapport à la dotation de référence, selon un indice résultant :
+" La dotation de chaque commune, ou le reversement prévu au troisième alinéa ci-dessus, évolue par rapport à celle de l'année précédente selon un indice résultant :
 
-1° De l'indice de variation des bases de taxe professionnelle de l'ensemble de l'agglomération ;
+" 1° D'un pourcentage de l'indice de variation des bases imposées de taxe professionnelle de l'ensemble de l'agglomération nouvelle.
 
-2° D'un indice de modulation calculé, à somme totale constante, en fonction de l'évolution d'une année à l'autre du poids de la population légale augmentée de la population fictive de chaque commune par rapport à la population totale légale augmentée de la population fictive de l'agglomération ;
+" Ce pourcentage est fixé à 70 p. 100 ;
 
-3° Du plus petit des deux indices résultant pour chaque commune de l'application des dispositions du troisième alinéa de l'article 1636 B sexies du code général des impôts.
+" 2° D'un indice de modulation calculé, à somme totale constante, en fonction de l'évolution d'une année à l'autre du poids de la population légale totale de chaque commune par rapport à la population légale totale de l'agglomération.
 
-La modulation du 2° s'applique également aux reversements des communes prévus au troisième alinéa du présent article. Les modalités de calcul de cette modulation seront fixées par décret.
+" Les modalités de calcul des dispositions ci-dessus sont fixées par décret.
+
+" La dotation de l'exercice 1988 est calculée à partir d'une dotation 1987 déterminée par l'application des dispositions précédentes. Pour le calcul de la variation mentionnée au 1° ci-dessus, relative à 1987, les bases imposées de l'exercice 1986 sont diminuées de 8 p. 100. "
 
 Lorsqu'il est procédé à une révision de l'inventaire prévu à l'article 19, le représentant de l'Etat dans le département [*commissaire de la République*] procède à une révision de l'ensemble des dotations de référence et des reversements communaux après avis de la commission prévue au présent article qui doit comprendre au moins deux maires.
