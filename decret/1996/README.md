@@ -722,7 +722,6 @@
 - [Décret n°96-943 du 25 octobre 1996 (FCEC9600051D)](decret-n96-943-du-25-octobre-1996-fcec9600051d)
 - [Décret n°99-901 du 25 octobre 1999 (JUSE9940216D)](decret-n99-901-du-25-octobre-1999-juse9940216d)
 - [Décret n°99-441 du 25 mai 1999 (INTA9900090D)](decret-n99-441-du-25-mai-1999-inta9900090d)
-- [Décret du 26 avril 1996 (FCEC9500171D)](decret-du-26-avril-1996-fcec9500171d)
 - [Décret n°96-1018 du 26 novembre 1996 (COMK9607001D)](decret-n96-1018-du-26-novembre-1996-comk9607001d)
 - [Décret n°96-1019 du 26 novembre 1996 (JUSB9610360D)](decret-n96-1019-du-26-novembre-1996-jusb9610360d)
 - [Décret n°96-1026 du 26 novembre 1996 (DOMP9600027D)](decret-n96-1026-du-26-novembre-1996-domp9600027d)
