@@ -41,6 +41,7 @@
 - [Décret n°76-820 du 20 août 1976](decret-n76-820-du-20-aout-1976)
 - [Décret n°68-906 du 21 octobre 1968](decret-n68-906-du-21-octobre-1968)
 - [Décret n°75-273 du 21 avril 1975](decret-n75-273-du-21-avril-1975)
+- [Décret n°75-282 du 21 avril 1975](decret-n75-282-du-21-avril-1975)
 - [Décret n°75-305 du 21 avril 1975](decret-n75-305-du-21-avril-1975)
 - [Décret n°75-310 du 23 avril 1975](decret-n75-310-du-23-avril-1975)
 - [Décret n°75-109 du 24 février 1975](decret-n75-109-du-24-fevrier-1975)
