@@ -1,3 +1,4 @@
-# Arrêté du 1 août 1979 fixant le taux de l'indemnité de responsabilité attribuée aux personnels de direction énumérés par l'article L. 792 (1°, 2° et 3°) du code de la santé publique.
+# Arrêté du 1 août 1979 relatif à l'agrément d'organismes pour effectuer des contrôles de poussières à l'émission
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
