@@ -12,4 +12,4 @@ II. - Ne sont pas pris en compte dans le chiffre d'affaires annuel net d'une soc
 
 4° Le prélèvement effectué au profit du compte de soutien financier de l'industrie cinématographique et de l'industrie des programmes audiovisuels prévu par l'article 36-II de la loi de finances pour 1984 (n° 83-1179 du 29 décembre 1983) précitée ;
 
-5° La part consacrée à la programmation d'émissions sur une zone géographique dont la population recensée est inférieure à 6 millions d'habitants.
+5° La part consacrée à la programmation d'émissions sur une zone géographique dont la population recensée est inférieure à 10 millions d'habitants.
