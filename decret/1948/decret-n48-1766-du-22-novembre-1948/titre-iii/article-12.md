@@ -1,17 +1,13 @@
 # Article 12
 
-Le coefficient destiné à tenir compte des conséquences de la vétusté et de l'état d'entretien du local peut varier, par palier de 0,1, entre 1 et 0,3 :
+A dater du 1er janvier 1961 le coefficient destiné à tenir compte de l'état d'entretien du corps de bâtiment où se trouve situé le local sera déterminé conformément aux règles fixées par l'annexe III du présent décret.
 
-Le coefficient 1 s'applique à une construction en parfait état, ne présentant aucune trace de vétusté et ayant conservé, quel que soit son âge, toutes ses qualités initiales en ce qui concerne l'habitabilité et l'aspect, et dont la peinture intérieure du local est en bon état ;
+A ce coefficient sera appliqué un abattement de :
 
-Le coefficient 0,9 s'applique à une construction dont l'état d'entretien assure de façon permanente des conditions satistaisantes d'habitabilité et d'aspect, la réparation des défauts dus à la vétusté étant faite avec soin et régulièrement, de telle manière qu'ils n'occasionnent aucune gêne et restent peu apparents ;
+1,00 pour un logement achevé depuis moins de dix ans ;
 
-Le coefficient 0,8 s'applique à une construction présentant des défauts permanents dus à la vétusté, mais dont l'entretien est néanmoins assuré régulièrement ; ces défauts ne compromettent pas les conditions d'habitabilité mais augmentent les difficultés d'entretien pour l'occupant et réduisent l'agrément des locaux (jeu des portes et fenêtres, planchers dénivelés, plafonds, murs et cloisons légèrement crevassés, etc.) ;
+0,50 pour un logement achevé depuis plus de dix ans et moins de vingt ans.
 
-Le coefficient 0,7 s'applique à une construction présentant les mêmes caractères que la précédente, mais dans laquelle les défauts dus à la vétusté ont subi des réparations insuffisantes ;
+Le coefficient d'entretien ne pourra, sauf accord des parties, excéder 1,70 que si le local comprend au minimum les éléments d'équipement suivants : installation électrique permettant un éclairage normal, W. C. particulier avec effet d'eau, cuisine avec poste d'eau et vidange, salle d'eau.
 
-Le coefficient 0,5 s'applique à une construction vétuste ou non et dont l'entretien est négligé au point de compromettre certaines des conditions essentielles d'habitabilité (par exemple, étanchéité, isolement des locaux, fermetures mal assurés ; sols, plafonds,  cloisons, gauchis ou dégradés ; marches d'escaliers usées et branlantes) ;
-
-Le coefficient 0,3 s'applique à une construction à l'état d'abandon ne présentant pas les conditions élémentaires de salubrité et de sécurité, en raison de son état d'entretien et de conservation ; il s'applique, notamment, aux locaux déclarés insalubres.
-
-Pour l'application du présent article, il ne doit être tenu compte que des travaux et des réparations effectués par le propriétaire.
+Pour l'application du présent article ne pourront être pris en considération que les travaux et installations qui n'ont pas été effectués aux frais du locataire ou occupant ou ne sont pas restés à sa charge.
