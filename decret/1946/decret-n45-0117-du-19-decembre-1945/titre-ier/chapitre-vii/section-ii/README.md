@@ -9,4 +9,3 @@
 - [Article 20 C](article-20-c.md)
 - [Article 20 A](article-20-a.md)
 - [Article 20 B](article-20-b.md)
-- [Article 21](article-21.md)
