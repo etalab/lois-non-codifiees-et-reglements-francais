@@ -1,3 +1,0 @@
-# Article 1
-
-Le montant de la taxe perçue lors du dépôt de demande d'autorisation administrative d'exploitation d'eau minérale naturelle, d'industrie d'embouteillage, d'établissement thermal, de dépôt d'eau minérale naturelle prévue à l'article 1er du décret n° 57-404 du 28 mars 1957 portant règlement d'administration publique sur la police et la surveillance des eaux minérales, ainsi que toute demande d'autorisation administrative de matériaux autres que le verre prévue par le décret n° 64-1255 du 11 décembre 1964 portant règlement d'administration publique pour l'application de l'article L. 751 du code de la santé publique en ce qui concerne les industries d'embouteillage d'eau minérale prévue par l'article 21 de la loi du 4 janvier 1993 susvisée est fixée à 22 500 F.
