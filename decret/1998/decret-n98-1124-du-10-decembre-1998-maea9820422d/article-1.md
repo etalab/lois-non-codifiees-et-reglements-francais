@@ -28,17 +28,19 @@ IV. - La direction générale de l'administration, composée de :
 
 - le service de la logistique diplomatique.
 
-V. - La direction générale de la coopération internationale et du développement, composée de :
+V. - La direction générale de la coopération internationale et du développement, composée :
 
-- la direction de la stratégie, de la programmation et de l'évaluation ;
+- du service de la stratégie, des moyens et de l'évaluation ;
 
-- la direction du développement et de la coopération technique ;
+- du service de la coordination géographique ;
 
-- la direction de la coopération culturelle et du français ;
+- de la direction du développement et de la coopération technique ;
 
-- la direction de la coopération scientifique, universitaire et de recherche ;
+- de la direction de la coopération culturelle et du français ;
 
-- la direction de l'audiovisuel extérieur et des techniques de communication.
+- de la direction de la coopération scientifique, universitaire et de recherche ;
+
+- de la direction de l'audiovisuel extérieur et des techniques de communication.
 
 VI. - Les directions et services suivants :
 
