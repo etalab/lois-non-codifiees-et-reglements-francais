@@ -1,0 +1,7 @@
+# Article 9
+
+Nul ne peut être nommé receveur général des finances de la Seine, payeur général de la Seine ou trésorier-payeur général s'il est âgé de moins de quarante ans ou de plus de cinquante-sept ans et si les services accomplis ajoutés à ceux restant à accomplir jusqu'à l'âge de soixante ans ne représentent pas trente années de services valables pour la retraite.
+
+La limite d'âge prévue au précédent alinéa est portée de cinquante-sept à cinquante-huit ans en faveur des receveurs particuliers des finances et des receveurs percepteurs et directeurs adjoints des services départementaux du Trésor bénéficiaires des dispositions du 2e alinéa de l'article 4 de la loi du 18 août 1936 ou de l'article 18 de la loi du 27 février 1948 et des administrateurs civils de l'administration centrale des finances occupant un emploi de directeur, chef de service, directeur adjoint ou sous-directeur.
+
+Nonobstant les dispositions des deux alinéas précédents, les receveurs particuliers des finances et les receveurs percepteurs et directeurs adjoints des services départementaux du Trésor inscrits sur la liste d'aptitude d'une année donnée peuvent être nommés trésoriers-payeurs généraux jusqu'au 31 décembre de ladite année. Les administrateurs civils de l'administration centrale occupant un emploi de directeur, chef de service, directeur adjoint ou sous-directeur peuvent également être nommés à une trésorerie générale jusqu'au 31 décembre de l'année au cours de laquelle ils ont atteint l'âge de cinquante-huit ans.
