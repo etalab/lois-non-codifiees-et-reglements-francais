@@ -10,7 +10,7 @@ En application du dernier alinéa de l'article 2 du décret du 25 juin 1999 susv
 
 4° Le concours de la spécialité " médecine d'urgence " est ouvert aux médecins titulaires de la capacité d'aide médecine d'urgence, de médecine d'urgence ou de médecine de catastrophe ;
 
-5° Le concours de la spécialité " épidémiologie, économie de la santé, prévention, biostatistique, informatique médicale " est ouvert aux médecins et aux pharmaciens titulaires d'un des diplômes d'études spécialisées permettant l'exercice de la profession et d'un diplôme de troisième cycle correspondant à l'une des composantes de l'intitulé de la spécialité ;
+5° (abrogé).
 
 6° Le concours de la spécialité " explorations fonctionnelles " est ouvert aux médecins titulaires d'un diplôme d'études spécialisées de biologie médicale ou d'un des diplômes d'études spécialisées de médecine ;
 
