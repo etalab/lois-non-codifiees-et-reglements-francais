@@ -1,22 +1,24 @@
 # Article 6
 
-Le conseil d'administration est composé de vingt-six membres, à raison de :
+Le conseil d'administration est composé de vingt-sept membres, à raison de :
 
-1° Huit membres de droit :
+1° Neuf membres de droit :
 
-- le directeur général de la santé au ministère chargé de la santé ou son suppléant nommément désigné ;
+- le directeur général de la santé au ministère chargé de la santé ou son représentant nommément désigné ;
 
-- le directeur des hôpitaux au ministère chargé de la santé ou son suppléant nommément désigné ;
+- le directeur des hôpitaux au ministère chargé de la santé ou son représentant nommément désigné ;
 
-- le directeur de la pharmacie et du médicament au ministère chargé de la santé ou son suppléant nommément désigné ;
+- le directeur de la pharmacie et du médicament au ministère chargé de la santé ou son représentant nommément désigné ;
 
-- le président de la mission scientifique et technique au ministère chargé de la recherche ou son suppléant nommément désigné ;
+- le directeur général de la recherche et de la technologie au ministère chargé de la recherche ou son représentant nommément désigné ;
 
-- le directeur général de la recherche et de la technologie au ministère chargé de la recherche ou son suppléant nommément désigné ;
+- le directeur de l'administration et du financement de la recherche au ministère chargé de la recherche ou son représentant nommément désigné ;
 
-- le directeur général des enseignements supérieurs et de la recherche au ministère chargé de l'éducation nationale ou son suppléant nommément désigné ;
+- le directeur de la recherche et des études doctorales au ministère chargé de l'enseignement supérieur ou son représentant nommément désigné ;
 
-- le directeur du budget au ministère chargé du budget ou son suppléant nommément désigné ;
+- le directeur du budget au ministère chargé du budget ou son représentant nommément désigné ;
+
+- le directeur général des stratégies industrielles au ministère chargé de l'industrie ou son représentant nommément désigné ;
 
 - le président du conseil d'administration du Centre national de la recherche scientifique.
 
