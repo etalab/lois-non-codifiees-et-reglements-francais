@@ -69,6 +69,7 @@
 - [Arrêté du 7 mars 1991 (SPSS9100651A)](arrete-du-7-mars-1991-spss9100651a)
 - [Arrêté du 8 avril 1991 (RESY9100050A)](arrete-du-8-avril-1991-resy9100050a)
 - [Arrêté du 8 avril 1991 (SPSN9100897A)](arrete-du-8-avril-1991-spsn9100897a)
+- [Arrêté du 8 avril 1991 (SPSS9100877A)](arrete-du-8-avril-1991-spss9100877a)
 - [Arrêté du 8 février 1991 (JUSC9120101A)](arrete-du-8-fevrier-1991-jusc9120101a)
 - [Arrêté du 8 février 1991 (MERG9100020A)](arrete-du-8-fevrier-1991-merg9100020a)
 - [Arrêté du 8 février 1991 (SPSS9100404A)](arrete-du-8-fevrier-1991-spss9100404a)
