@@ -27,6 +27,7 @@
 - [Décret n°89-202 du 4 avril 1989 (AGRP8900091D)](decret-n89-202-du-4-avril-1989-agrp8900091d)
 - [Décret n°89-204 du 4 avril 1989 (INDD8900129D)](decret-n89-204-du-4-avril-1989-indd8900129d)
 - [Décret n°89-206 du 4 avril 1989 (MERG8900015D)](decret-n89-206-du-4-avril-1989-merg8900015d)
+- [Décret n°89-222 du 4 avril 1989 (MCCB8900141D)](decret-n89-222-du-4-avril-1989-mccb8900141d)
 - [Décret n°89-4 du 4 janvier 1989 (ECOT8910036D)](decret-n89-4-du-4-janvier-1989-ecot8910036d)
 - [Décret n°89-69 du 4 février 1989 (PRMG8970046D)](decret-n89-69-du-4-fevrier-1989-prmg8970046d)
 - [Décret n°90-379 du 4 mai 1990 (MCCB9000209D)](decret-n90-379-du-4-mai-1990-mccb9000209d)
