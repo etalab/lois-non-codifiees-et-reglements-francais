@@ -1,6 +1,6 @@
 # Article 10
 
-Les prescriptions générales prévues à l'article 3, dernier alinéa, sont édictées par arrêtés préfectoraux, pris après avis de la commission départementale consultative compétente et, pour les ateliers hors sol, de la commission départementale des structures agricoles. Elles s'appliquent automatiquement à toute installation nouvelle ou soumise à nouvelle déclaration [*arrêté type*].
+Les prescriptions générales prévues à l'article 3, dernier alinéa, sont édictées par arrêtés préfectoraux, pris après avis de la commission départementale consultative compétente et, pour les ateliers hors sol, de la commission départementale d'orientation de l'agriculture. Elles s'appliquent automatiquement à toute installation nouvelle ou soumise à nouvelle déclaration [*arrêté type*].
 
 Les modifications ultérieures de ces prescriptions générales peuvent être rendues applicables aux installations existantes selon les modalités et selon les délais prévus dans l'arrêté préfectoral qui fixe également les conditions dans lesquelles les prescriptions générales peuvent être adaptées aux circonstances locales.
 
