@@ -593,7 +593,6 @@
 - [Arrêté du 21 décembre 1989 (ECOT8920128A)](arrete-du-21-decembre-1989-ecot8920128a)
 - [Arrêté du 21 décembre 1989 (EQUS8901462A)](arrete-du-21-decembre-1989-equs8901462a)
 - [Arrêté du 21 décembre 1989 (INTA8900580A)](arrete-du-21-decembre-1989-inta8900580a)
-- [Arrêté du 21 décembre 1989 (MAEF8910053A)](arrete-du-21-decembre-1989-maef8910053a)
 - [Arrêté du 21 décembre 1989 (MENH8902996A)](arrete-du-21-decembre-1989-menh8902996a)
 - [Arrêté du 21 décembre 1990 (SPSS9002512A)](arrete-du-21-decembre-1990-spss9002512a)
 - [Arrêté du 21 décembre 1992 (INTA9300030A)](arrete-du-21-decembre-1992-inta9300030a)
