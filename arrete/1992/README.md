@@ -976,7 +976,6 @@
 - [Arrêté du 26 mai 1992 (MENZ9202416A)](arrete-du-26-mai-1992-menz9202416a)
 - [Arrêté du 26 mai 1992 (SANP9201246A)](arrete-du-26-mai-1992-sanp9201246a)
 - [Arrêté du 26 mai 1992 (SANP9201266A)](arrete-du-26-mai-1992-sanp9201266a)
-- [Arrêté du 27 août 1982](arrete-du-27-aout-1982)
 - [Arrêté du 27 août 1992 (BUDF9200024A)](arrete-du-27-aout-1992-budf9200024a)
 - [Arrêté du 27 août 1992 (BUDF9200026A)](arrete-du-27-aout-1992-budf9200026a)
 - [Arrêté du 27 août 1992 (ECOC9200103A)](arrete-du-27-aout-1992-ecoc9200103a)
