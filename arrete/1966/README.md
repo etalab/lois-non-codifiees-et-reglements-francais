@@ -23,6 +23,7 @@
 - [Arrêté du 22 mars 1966](arrete-du-22-mars-1966)
 - [Arrêté du 24 août 1966](arrete-du-24-aout-1966)
 - [Arrêté du 24 janvier 1966](arrete-du-24-janvier-1966)
+- [Arrêté du 25 novembre 1966](arrete-du-25-novembre-1966)
 - [Arrêté du 25 mai 1966](arrete-du-25-mai-1966)
 - [Arrêté du 28 décembre 1965](arrete-du-28-decembre-1965)
 - [Arrêté du 28 mars 1966](arrete-du-28-mars-1966)
