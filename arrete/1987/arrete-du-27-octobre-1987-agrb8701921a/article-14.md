@@ -1,0 +1,3 @@
+# Article 14
+
+Le règlement des frais occasionnés par le déplacement du personnel de la chambre d'agriculture est opéré dans les conditions prévues à l'article R. 511-69 du code rural et, en ce qui concerne le personnel administratif, par l'article 33 de leur statut. Ils doivent être réglés sur états appuyés de pièces justificatives, et notamment sur production de l'ordre de mission délivré par le président de la chambre en cas de déplacement hors du département du siège de la chambre et sur production d'une autorisation du président de la chambre en cas d'utilisation d'une voiture personnelle.

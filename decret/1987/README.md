@@ -165,6 +165,7 @@
 - [Décret n°87-97 du 12 février 1987 (AGRI8700211D)](decret-n87-97-du-12-fevrier-1987-agri8700211d)
 - [Décret n°87-98 du 12 février 1987](decret-n87-98-du-12-fevrier-1987)
 - [Décret n°87-325 du 12 mai 1987](decret-n87-325-du-12-mai-1987)
+- [Décret du 13 novembre 1987 (MCCT8700453D)](decret-du-13-novembre-1987-mcct8700453d)
 - [Décret n°87-105 du 13 février 1987 (AGRP8700292D)](decret-n87-105-du-13-fevrier-1987-agrp8700292d)
 - [Décret n°87-171 du 13 mars 1987 (TRST8700046D)](decret-n87-171-du-13-mars-1987-trst8700046d)
 - [Décret n°87-172 du 13 mars 1987 (JUSC8720148D)](decret-n87-172-du-13-mars-1987-jusc8720148d)
