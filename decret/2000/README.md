@@ -7,6 +7,7 @@
 - [Décret n°2000-1178 du 4 décembre 2000 (DEFD0002365D)](decret-n2000-1178-du-4-decembre-2000-defd0002365d)
 - [Décret n°2000-1194 du 5 décembre 2000 (MESG0022611D)](decret-n2000-1194-du-5-decembre-2000-mesg0022611d)
 - [Décret n°2000-200 du 6 mars 2000 (MAEF9910042D)](decret-n2000-200-du-6-mars-2000-maef9910042d)
+- [Décret n°2000-216 du 6 mars 2000 (MENK0000420D)](decret-n2000-216-du-6-mars-2000-menk0000420d)
 - [Décret n°2000-302 du 7 avril 2000 (PRMX0000055D)](decret-n2000-302-du-7-avril-2000-prmx0000055d)
 - [Décret n°2000-874 du 7 septembre 2000 (ECOI0000361D)](decret-n2000-874-du-7-septembre-2000-ecoi0000361d)
 - [Décret n°96-501 du 7 juin 1996 (AGRA9600567D)](decret-n96-501-du-7-juin-1996-agra9600567d)
