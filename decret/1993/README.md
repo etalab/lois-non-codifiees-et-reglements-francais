@@ -533,6 +533,7 @@
 - [Décret n°93-706 du 26 mars 1993 (PTTS9300135D)](decret-n93-706-du-26-mars-1993-ptts9300135d)
 - [Décret n°93-769 du 26 mars 1993 (RESY9300177D)](decret-n93-769-du-26-mars-1993-resy9300177d)
 - [Décret n°93-771 du 26 mars 1993 (RESY9300139D)](decret-n93-771-du-26-mars-1993-resy9300139d)
+- [Décret n°93-806 du 26 avril 1993 (HUMX9300996D)](decret-n93-806-du-26-avril-1993-humx9300996d)
 - [Décret du 27 mars 1993 (ENVN9310037D)](decret-du-27-mars-1993-envn9310037d)
 - [Décret n°92-1241 du 27 novembre 1992 (ECOT9295001D)](decret-n92-1241-du-27-novembre-1992-ecot9295001d)
 - [Décret n°92-1244 du 27 novembre 1992 (BUDF9200029D)](decret-n92-1244-du-27-novembre-1992-budf9200029d)
