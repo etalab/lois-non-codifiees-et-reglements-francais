@@ -94,6 +94,8 @@
 - [Décret n°78-902 du 25 août 1978](decret-n78-902-du-25-aout-1978)
 - [Décret n°78-1210 du 26 décembre 1978](decret-n78-1210-du-26-decembre-1978)
 - [Décret n°78-1211 du 26 décembre 1978](decret-n78-1211-du-26-decembre-1978)
+- [Décret n°78-1243 du 26 décembre 1978](decret-n78-1243-du-26-decembre-1978)
+- [Décret n°78-1244 du 26 décembre 1978](decret-n78-1244-du-26-decembre-1978)
 - [Décret n°78-794 du 26 juillet 1978](decret-n78-794-du-26-juillet-1978)
 - [Décret n°78-1219 du 27 novembre 1978](decret-n78-1219-du-27-novembre-1978)
 - [Décret n°78-1114 du 28 novembre 1978](decret-n78-1114-du-28-novembre-1978)
