@@ -18,9 +18,7 @@ Fabrication du plomb tétraéthyle.
 
 Récupération des résidus industriels mercuriels (agents catalytiques, etc.).
 
-Fabrication et réparation d'accumulateurs électriques au mercure.
-
-Fabrication des composés du mercure.
+Fabrication et réparation d'accumulateurs électriques au mercure.    Fabrication des composés du mercure.
 
 Sécrétage des peaux par le nitrate acide de mercure.
 
@@ -70,4 +68,8 @@ Travaux d'abattage des volailles.
 
 Travaux d'équarrissage.
 
-Tueries particulières.    Travaux occasionnels et poussiéreux exposant à l'amiante.
+Tueries particulières.
+
+Travaux occasionnels et poussiéreux exposant à l'amiante.
+
+Travaux exposant aux poussières de chlorure de potassium.
