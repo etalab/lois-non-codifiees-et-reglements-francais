@@ -6,4 +6,6 @@ Le Conseil Economique et Social est obligatoirement saisi pour avis des projets 
 
 Il peut être saisi des projets de lois ou de décrets ainsi que des propositions de lois entrant dans le domaine de sa compétence.
 
-Il peut également être consulté sur tout problème de caractère économique ou social intéressant la République ou la Communauté.
+Dans les cas prévus aux deux alinéas précédents, si le Gouvernement déclare l'urgence, le Conseil Economique et Social donne son avis dans un délai d'un mois.
+
+Il peut également être consulté sur tout problème de caractère économique ou social intéressant la République.

@@ -2,36 +2,34 @@
 
 Le Conseil Economique et Social comprend :
 
-1° Quarante-cinq représentants des ouvriers, employés, fonctionnaires, techniciens, ingénieurs et cadres ;
+1° Soixante-neuf représentants des salariés,
 
-2° Quarante et un représentants des entreprises industrielles, commerciales et artisanales, dont :
+2° Soixante-douze représentants des entreprises, dont :
 
-Six représentants des entreprises nationalisées,
-
-Neuf représentants des entreprises commerciales,
+Vingt-sept représentants des entreprises privées non agricoles ;
 
 Dix représentants des artisans ;
 
-Les délégués prévus au 1° et au 2° ci-dessus, à l'exception de ceux des entreprises nationalisées, sont désignés, pour chaque catégorie, par les organisations professionnelles les plus représentatives.
+Dix représentants des entreprises publiques ;
 
-3° Quarante représentants désignés par les organismes agricoles les plus représentatifs, dont cinq représentants des coopératives agricoles ;
+Vingt-cinq représentants des exploitants agricoles ;
 
-4° Quinze personnalités qualifiées dans le domaine économique, social, scientifique ou culturel, dont cinq personnalités choisies à ce dernier titre ;
+3° Trois représentants des professions libérales ;
 
-5° Quinze représentants des activités sociales au titre desquelles sont choisis, notamment, les représentants du logement, de l'épargne, de la santé publique, des coopératives de consommation et de construction et au moins huit représentants des associations familiales ;
+4° Dix représentants de la mutualité, de la coopération et du crédit agricoles ;
 
-6° Sept représentants des activités diverses, dont :
+5° Cinq représentants des coopératives non agricoles ;
 
-Deux représentants des coopératives de production,
+6° Quatre représentants de la mutualité non agricole ;
 
-Un représentant des activités touristiques,
+7° Dix-sept représentants des activités sociales, dont dix représentants des associations familiales, un représentant du logement, un représentant de l'épargne, cinq représentants des autres associations ;
 
-Deux représentants des activités exportatrices,
+8° Huit représentants des activités économiques et sociales des départements et territoires d'outre-mer ;
 
-Deux représentants des organismes participant au développement économique régional ;
+9° Deux représentants des Français établis hors de France ;
 
-7° Deux représentants de l'organisation la plus représentative des classes moyennes ;
+10° Quarante personnalités qualifiées dans le domaine économique, social, scientifique ou culturel.
 
-8° Dix personnalités qualifiées par leur connaissance des problèmes économiques et sociaux d'outre-mer ou ayant une activité se rapportant à l'expansion économique dans la zone franc.
+Les délégués prévus aux 1° et 2° ci-dessus, à l'exception de ceux des entreprises publiques, sont désignés, pour chaque catégorie, par les organisations professionnelles les plus représentatives.
 
-Un décret en Conseil d'Etat précisera la répartition et les conditions de désignation des membres du Conseil Economique et Social.
+Un décret en Conseil d'Etat précisera la répartition et les conditions de désignation des membres du Conseil économique et social.

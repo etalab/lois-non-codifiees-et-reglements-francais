@@ -1,5 +1,3 @@
 # Article 16
 
-L'assemblée du Conseil tient une session ordinaire tous les trois mois.
-
-Elle peut être réunie en sessions spéciales à la demande du Gouvernement.
+Le conseil économique et social se réunit selon les modalités définies par son règlement intérieur. Il peut tenir des séances spéciales à la demande du Gouvernement.
