@@ -7,6 +7,7 @@
 - [Décret n°78-993 du 4 octobre 1978](decret-n78-993-du-4-octobre-1978)
 - [Décret n°79-124 du 5 février 1979](decret-n79-124-du-5-fevrier-1979)
 - [Décret n°79-135 du 5 février 1979](decret-n79-135-du-5-fevrier-1979)
+- [Décret n°79-180 du 6 mars 1979](decret-n79-180-du-6-mars-1979)
 - [Décret n°79-218 du 7 mars 1979](decret-n79-218-du-7-mars-1979)
 - [Décret n°79-22 du 10 janvier 1979](decret-n79-22-du-10-janvier-1979)
 - [Décret n°79-59 du 11 janvier 1979](decret-n79-59-du-11-janvier-1979)
