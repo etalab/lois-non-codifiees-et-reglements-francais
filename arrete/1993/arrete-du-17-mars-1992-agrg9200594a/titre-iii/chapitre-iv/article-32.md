@@ -12,15 +12,9 @@ doivent être soumises à un traitement au sens de l'arrêté du 22 janvier 1993
 
 B. - Les carcasses de bovins originaires de Suisse doivent être désossées dans un atelier de découpe agréé conformément aux dispositions de l'arrêté du 17 mars 1992 relatif aux conditions auxquelles doivent satisfaire les établissements se livrant à la préparation et à la mise sur le marché de viandes d'animaux de boucherie découpées, désossées ou non.
 
-C. - En dérogation aux dispositions du i) du point p de l'article 31 du présent arrêté, le directeur des services vétérinaires peut autoriser la sortie de l'abattoir :
+C. - En dérogation aux dispositions du i) du point p de l'article 31 du présent arrêté, le directeur des services vétérinaires peut autoriser la sortie de l'abattoir, à titre transitoire, des carcasses des ovins et des caprins de plus de douze mois, non fendues, desquelles n'a pas été retirée la moelle épinière, sous réserve que ce soit :
 
-- des têtes entières dépouillées des bovins âgés de plus de six mois et des ovins et caprins âgés de plus de douze mois ;
-
-- à titre transitoire, des carcasses des ovins et des caprins de plus de douze mois, non fendues, desquelles n'a pas été retirée la moelle épinière,
-
-sous réserve que ce soit :
-
-- à destination directe d'un atelier de découpe ou de transformation de viande de boucherie agréé en vertu de l'article 260 du code rural, où ces tissus seront retirés et envoyés à la destruction conformément aux dispositions du dernier alinéa de l'article 31 précité ;
+- à destination directe d'un atelier de découpe ou de transformation de viande de boucherie agréé en vertu de l'article 260 du code rural, où ce tissu sera retiré et envoyé à la destruction conformément aux dispositions du dernier alinéa de l'article 31 précité ;
 
 - en accord avec le directeur des services vétérinaires du département d'implantation de l'établissement destinataire.
 
@@ -34,4 +28,6 @@ E. - En dérogation aux dispositions du dernier alinéa de l'article 31 du prés
 
 - en accord avec le directeur des services vétérinaires du département d'implantation de l'établissement destinataire.
 
-Les intestins préalablement débarrassés de la graisse mésentérique et vidés doivent être expédiés sous couvert d'un laissez-passer du modèle figurant en annexe IX du présent arrêté, visé par le vétérinaire inspecteur de l'abattoir qui en adresse une télécopie au moment du départ au directeur des services vétérinaires du département d'implantation de l'établissement de traitement industriel destinataire.
+Les intestins préalablement débarrassés de la graisse mésentérique et vidés doivent être expédiés sous couvert d'un laissez-passer du modèle figurant en annexe X du présent arrêté, visé par le vétérinaire inspecteur de l'abattoir qui en adresse une télécopie au moment du départ au directeur des services vétérinaires du département d'implantation de l'établissement de traitement industriel destinataire.
+
+F. - En dérogation aux dispositions du dernier alinéa de l'article 31 du présent arrêté, les cuirs issus des animaux de l'espèce bovine âgés de plus de trente mois visés au point r de ce même article ne sont pas soumis à l'obligation de destruction par incinération s'ils sont réservés à l'industrie de la tannerie, à l'exclusion de toute autre valorisation.

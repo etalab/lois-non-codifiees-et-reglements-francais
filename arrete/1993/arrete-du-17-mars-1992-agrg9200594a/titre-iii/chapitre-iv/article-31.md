@@ -62,25 +62,25 @@ Même si aucune de ces lésions n'a été constatée, les mamelles, le tractus g
 
 c) Les parties de carcasses présentant des infiltrations séreuses ou hémorragiques importantes, des abcès localisés ou des souillures localisées ;
 
-- les abats et viscères présentant des lésions pathologiques d'origine infectieuse, parasitaire ou traumatique ;
+- les abats et viscères présentant des lésions pathologiques d'origine infectieuse, parasitaire ou traumatique.
 
 d) Les viandes :
 
 - à pH anormalement bas, dites fièvreuses ;
 
-- présentant de graves anomalies en ce qui concerne la couleur, l'odeur, la consistance et la saveur ;
+- présentant de graves anomalies en ce qui concerne la couleur, l'odeur, la consistance et la saveur.
 
 e) Lorsque le vétérinaire inspecteur constate qu'une carcasse ou un abat est atteint de lymphadénite caséeuse ou de toute autre affection suppurée, sans que cette affection soit généralisée ou accompagnée de cachexie :
 
 i) Tout organe et le ganglion lymphatique correspondant, si l'affection décrite précédemment est présente à la surface ou à l'intérieur de cet organe ou de ce ganglion lymphatique ;
 
-ii) Dans tous les cas auxquels ne s'applique pas le point i) qui précède, la lésion et toutes les parties du pourtour que le vétérinaire inspecteur juge nécessaire de retenir compte tenu de l'âge et du degré d'activité de la lésion, étant entendu qu'une lésion ancienne solidement encapsulée peut être considéré comme inactive ;
+ii) Dans tous les cas auxquels ne s'applique pas le point i) qui précède, la lésion et toutes les parties du pourtour que le vétérinaire inspecteur juge nécessaire de retenir compte tenu de l'âge et du degré d'activité de la lésion, étant entendu qu'une lésion ancienne solidement encapsulée peut être considéré comme inactive.
 
-f) Les viandes résultant du parage de la plaie de saignée ;
+f) Les viandes résultant du parage de la plaie de saignée.
 
-g) Lorsque le vétérinaire inspecteur constate qu'une carcasse entière ou une partie de carcasse ou un abat est atteint d'une maladie ou d'une affection autre que celles qui sont mentionnées aux points précédents, la carcasse tout entière et les abats, ou la partie de la carcasse ou l'abat qu'il lui apparaît nécessaire de déclarer impropre à la consommation humaine ;
+g) Lorsque le vétérinaire inspecteur constate qu'une carcasse entière ou une partie de carcasse ou un abat est atteint d'une maladie ou d'une affection autre que celles qui sont mentionnées aux points précédents, la carcasse tout entière et les abats, ou la partie de la carcasse ou l'abat qu'il lui apparaît nécessaire de déclarer impropre à la consommation humaine.
 
-h) Les carcasses dont les abats n'ont pas été soumis à l'inspection post mortem ;
+h) Les carcasses dont les abats n'ont pas été soumis à l'inspection post mortem.
 
 i) Le sang d'un animal dont les viandes ont été déclarées impropres à la consommation conformément aux points précédents, ainsi que le sang contaminé par le contenu de l'estomac ou toute autre substance,
 
@@ -90,15 +90,15 @@ j) Les viandes fraîches provenant d'animaux auxquels ont été administrées :
 
 i) Des substances anabolisantes, des substances à action thyréostatique, des substances agonistes bêta adrénergiques interdites ou administrées sans respect des conditions en vigueur,
 
-ii) Des substances à effet d'attendrisseurs ;
+ii) Des substances à effet d'attendrisseurs.
 
-k) Les viandes fraîches contenant des résidus des substances visées au point j, i ;
+k) Les viandes fraîches contenant des résidus des substances visées au point j, i.
 
-l) Les viandes contenant des résidus de substances autorisées à action hormonale, de médicaments, d'antibiotiques, de pesticides ou d'autres substances nuisibles ou susceptibles de rendre éventuellement la consommation de viandes fraîches dangereuse ou nocive pour la santé humaine, dans la mesure où ces résidus dépassent les limites de tolérance fixées par la réglementation ;
+l) Les viandes contenant des résidus de substances autorisées à action hormonale, de médicaments, d'antibiotiques, de pesticides ou d'autres substances nuisibles ou susceptibles de rendre éventuellement la consommation de viandes fraîches dangereuse ou nocive pour la santé humaine, dans la mesure où ces résidus dépassent les limites de tolérance fixées par la réglementation.
 
-m) Les foies et les reins d'animaux de plus de deux ans originaires des régions dans lesquelles l'exécution des plans de surveillance prévus par le réglementation a permis de constater la présence généralisée de métaux lourds dans l'environnement ;
+m) Les foies et les reins d'animaux de plus de deux ans originaires des régions dans lesquelles l'exécution des plans de surveillance prévus par le réglementation a permis de constater la présence généralisée de métaux lourds dans l'environnement.
 
-n) Les viandes qui ont été traitées aux radiations ionisantes ou ultra-violettes ;
+n) Les viandes qui ont été traitées aux radiations ionisantes ou ultra-violettes.
 
 o) Les viandes présentant une odeur sexuelle prononcée.
 
@@ -122,4 +122,8 @@ iii) Les abats spécifiés suivants :
 
 Le thymus, les amygdales et les intestins, y compris la graisse mésentérique, des bovins, quel que soit leur âge.
 
-Les viandes et tous les sous-produits des animaux retirés de la consommation humaine pour le motif visé au point a, viii et ix, les abats visés au point p du présent article ainsi que les viandes retirées de la consommation du fait de l'état sanitaire de l'animal dont elles proviennent ou du fait de la présence de résidus de substances susceptibles de mettre en danger la santé des personnes ou des animaux sont badigeonnés à l'aide d'une teinture avant leur enlèvement. Ils sont détruits par incinération ou, pour autant que la teinture soit détectable après traitement, traités puis incinérés ou utilisés comme combustible.
+q) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de plus de trente mois soumis à un test de dépistage de l'encéphalopathie spongiforme bovine avec résultat positif ;
+
+r) Les viandes et tous les sous-produits, y compris le cuir, provenant d'animaux de l'espèce bovine âgés de plus de trente mois non soumis à un test de dépistage de l'encéphalopathie spongiforme bovine.
+
+Les viandes et tous les sous-produits des animaux retirés de la consommation humaine pour des motifs visés au point a, viii) et ix), les abats visés au point p du présent article, les viandes et tous les sous-produits, y compris le cuir, visés aux points q et r du présent article ainsi que les viandes retirées de la consommation du fait de l'état sanitaire de l'animal dont elles proviennent ou du fait de la présence de résidus de substances susceptibles de mettre en danger la santé des personnes ou des animaux sont badigeonnés à l'aide d'une teinture avant leur enlèvement. Ils sont détruits par incinération ou, pour autant que la teinture soit détectable après traitement, traités puis incinérés ou utilisés comme combustible.

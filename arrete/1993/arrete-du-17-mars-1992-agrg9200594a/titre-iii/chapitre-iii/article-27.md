@@ -12,6 +12,8 @@ A. - Le vétérinaire inspecteur doit, en outre, effectuer systématiquement :
 
 - pour les viandes fraîches provenant de solipèdes importés d'Europe centrale ou de l'Est, la recherche doit porter sur un échantillon de 10 grammes par carcasse.
 
+4. Un test de dépistage de l'encéphalopathie spongiforme bovine sur tous les bovins âgés de plus de trente mois abattus en vue de la consommation humaine selon des modalités définies par instruction du ministre chargé de l'agriculture. Les viandes et tous les sous-produits, y compris le cuir, issus des animaux soumis à cet examen sont consignés dans l'attente des résultats à ce test.
+
 B. 1. Sans préjudice des cas prévus à l'article 31 (point 1, a, iii), les viandes fraîches de porcs et de solipèdes domestiques en provenance des pays tiers n'ayant pas été soumises à la recherche des trichines selon une méthode officiellement reconnue sont soumises à un traitement par le froid, conformément à l'annexe VIII de l'arrêté du 10 juillet 1986 relatif à l'entrée en France de viandes fraîches d'animaux de boucherie destinées à la consommation.
 
 2. Après la saisie des parties porteuses de lésions, les carcasses et abats provenant d'animaux présentant une infestation non généralisée de Cysticercus bovis ou de Cysticercus cellulosae doivent être soumis à un traitement par le froid, conformément à l'annexe VII du présent arrêté.
