@@ -108,6 +108,7 @@
 - [Décret n°2000-1107 du 14 novembre 2000 (MENF0002155D)](decret-n2000-1107-du-14-novembre-2000-menf0002155d)
 - [Décret n°2000-118 du 14 février 2000 (EQUT0000218D)](decret-n2000-118-du-14-fevrier-2000-equt0000218d)
 - [Décret n°2000-32 du 14 janvier 2000 (MENF9902716D)](decret-n2000-32-du-14-janvier-2000-menf9902716d)
+- [Décret n°2000-245 du 15 mars 2000 (AGRB0000513D)](decret-n2000-245-du-15-mars-2000-agrb0000513d)
 - [Décret n°99-1049 du 15 décembre 1999 (MESS9923827D)](decret-n99-1049-du-15-decembre-1999-mess9923827d)
 - [Décret n°99-1054 du 15 décembre 1999 (MESS9923697D)](decret-n99-1054-du-15-decembre-1999-mess9923697d)
 - [Décret n°99-1070 du 15 décembre 1999 (MAEA9920475D)](decret-n99-1070-du-15-decembre-1999-maea9920475d)
