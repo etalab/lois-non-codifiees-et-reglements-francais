@@ -1,0 +1,3 @@
+# Article 4
+
+Le jury est présidé par le directeur général de l'Office national interprofessionnel des céréales ou son représentant. Il comprend, outre le président, deux membres désignés par le directeur général de l'Office national interprofessionnel des céréales et choisis parmi le personnel de direction, les inspecteurs généraux adjoints et les attachés divisionnaires de l'Office national interprofessionnel des céréales. Le jury comprend également deux fonctionnaires d'autres administrations choisis pour leur compétence dans les domaines d'intervention de l'Office national interprofessionnel des céréales.
