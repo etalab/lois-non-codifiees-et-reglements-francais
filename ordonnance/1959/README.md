@@ -7,4 +7,6 @@
 - [Ordonnance n° 59-28 du 5 janvier 1959](ordonnance-n-59-28-du-5-janvier-1959)
 - [Ordonnance n° 59-32 du 5 janvier 1959](ordonnance-n-59-32-du-5-janvier-1959)
 - [Ordonnance n°59-30 du 5 janvier 1959](ordonnance-n59-30-du-5-janvier-1959)
+- [Ordonnance n° 59-44 du 6 janvier 1959](ordonnance-n-59-44-du-6-janvier-1959)
+- [Ordonnance n°59-45 du 6 janvier 1959](ordonnance-n59-45-du-6-janvier-1959)
 - [Ordonnance n° 58-1453 du 31 décembre 1958](ordonnance-n-58-1453-du-31-decembre-1958)

@@ -1,0 +1,5 @@
+# Article 13
+
+Lorsqu'un boursier a reçu pour motif disciplinaire un avertissement du conseil de discipline de l'établissement public ou du chef de l'établissement privé, cet avertissement est notifié à la famille et le recteur peut prononcer une suspension de la bourse pour une durée qui ne peut excéder trois mois. Après deux avertissements, le recteur peut prononcer le transfert par mesure disciplinaire dans un établissement de même ordre. Au troisième avertissement le recteur prononce le retrait de la bourse.
+
+En cas de faute grave, le ministre, sur avis motivé du recteur, de l'inspecteur d'académie et du chef de l'établissement, peut prononcer le retrait de la bourse sans avertissement préalable. L'avis du conseil de discipline de l'établissement public ou du chef d'établissement privé et le certificat scolaire de l'élève figureront au dossier. Si la faute est suffisamment grave, le chef d'établissement peut procéder à l'exclusion immédiate du boursier et il en réfère au recteur qui propose au ministre le retrait de la bourse ou l'affectation du boursier dans un autre établissement.

@@ -4,3 +4,4 @@
 - [Section III : Bureau.](section-iii)
 - [Section VII : Vérification de la comptabilité.](section-vii)
 - [Section VIII : Différends entre avoués et plaintes contre les avoués.](section-viii)
+- [Section IX : Avoués honoraires.](section-ix)
