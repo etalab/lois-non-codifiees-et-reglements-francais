@@ -14,4 +14,4 @@ Le conseil d'administration [*de l'université française du Pacifique*] est com
 
 6. Deux représentants désignés par le gouvernement du territoire de la Polynésie française, deux représentants désignés par le congrès du territoire de la Nouvelle-Calédonie et dépendances et un représentant désigné par l'assemblée territoriale du territoire de Wallis-et-Futuna.
 
-Assistent aux séances du conseil d'administration avec voix consultative : un représentant du ministre chargé de l'enseignement supérieur, un représentant du ministre chargé des affaires étrangères, le secrétaire général de l'université, le contrôleur financier et l'agent comptable.
+Assistent aux séances du conseil d'administration avec voix consultative : un représentant du ministre chargé de l'enseignement supérieur, un représentant du ministre des affaires étrangères, un représentant du ministre chargé des départements et territoires d'outre-mer, un représentant du ministre chargé de la recherche, le premier délégué de la France à la commission du Pacifique-Sud, le secrétaire général de l'université, le contrôleur financier et l'agent comptable.
