@@ -7,3 +7,5 @@ Les titulaires d'ouvrages de prise d'eau déduisent du montant de la taxe due po
 Les titulaires d'autres ouvrages assujettis à la taxe déduisent pour 1991 le montant de la seule redevance acquittée au titre de l'occupation temporaire du domaine.
 
 Le paiement de la taxe due doit être effectué par les redevables avant le 30 septembre 1991.
+
+" Le paiement de la taxe due en 1992 devra être effectué par les redevables avant le 1er octobre 1992. "
