@@ -98,7 +98,6 @@
 - [Arrêté du 23 décembre 1982](arrete-du-23-decembre-1982)
 - [Arrêté du 23 mars 1982](arrete-du-23-mars-1982)
 - [Arrêté du 23 novembre 1982](arrete-du-23-novembre-1982)
-- [Arrêté du 24 février 1982](arrete-du-24-fevrier-1982)
 - [Arrêté du 24 mars 1982](arrete-du-24-mars-1982)
 - [Arrêté du 24 novembre 1982](arrete-du-24-novembre-1982)
 - [Arrêté du 24 septembre 1982](arrete-du-24-septembre-1982)
