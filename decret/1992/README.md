@@ -52,6 +52,7 @@
 - [Décret n°92-24 du 10 janvier 1992 (SPSS9102812D)](decret-n92-24-du-10-janvier-1992-spss9102812d)
 - [Décret n°92-44 du 10 janvier 1992 (ENVN9161997D)](decret-n92-44-du-10-janvier-1992-envn9161997d)
 - [Décret n°93-324 du 11 mars 1993 (INTA9300095D)](decret-n93-324-du-11-mars-1993-inta9300095d)
+- [Décret n°88-48 du 12 janvier 1988 (DEFP8701758D)](decret-n88-48-du-12-janvier-1988-defp8701758d)
 - [Décret n°93-364 du 12 mars 1993 (AGRA9300144D)](decret-n93-364-du-12-mars-1993-agra9300144d)
 - [Décret n°82-331 du 13 avril 1982](decret-n82-331-du-13-avril-1982)
 - [Décret n°82-332 du 13 avril 1982](decret-n82-332-du-13-avril-1982)
