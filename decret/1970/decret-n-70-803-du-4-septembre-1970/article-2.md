@@ -1,5 +1,11 @@
 # Article 2
 
-Le montant de la cotisation prévue à l'article 1er est fixé annuellement à la moitié du tarif plafond du forfait d'accouchement simple prévu pour Paris par arrêté pris en application de l'article 2-111 du décret n° 60-451 du 12 mai 1960 modifié en vigueur au 1er octobre de l'année précédente.
+Le régime d'assurance invalidité-décès comporte trois classes de cotisations : A, B et C.
+
+Les montants des cotisations des classes B et C sont respectivement égaux à deux et trois fois le montant de la cotisation de la classe A.
+
+La classe A constitue la classe minimum obligatoire. Les conditions dans lesquelles les assurés peuvent opter pour les classes B et C sont fixées par les statuts prévus à l'article 4.
+
+Les montants des cotisations des classes A, B et C sont fixés annuellement par décret sur proposition du conseil d'administration de la section professionnelle des sages-femmes.
 
 Le mode de calcul de la cotisation petit être modifié par décret après avis du conseil d'administration de la section professionnelle des sages-femmes.
