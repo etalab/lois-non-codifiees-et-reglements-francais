@@ -1,0 +1,3 @@
+# Article 5
+
+Le directeur de la qualité et le directeur des industries agricoles et alimentaires au ministère de l'agriculture, le directeur de la qualité et de la sécurité industrielles au ministère du redéploiement industriel et du commerce extérieur, le directeur de la consommation et de la répression des fraudes au secrétariat d'Etat auprès du ministre de l'économie, des finances et du budget, chargé de la consommation, et le directeur des pêches maritimes et des cultures marines au secrétariat d'Etat, auprès du ministre de l'urbanisme, du logement et des transports, chargé de la mer, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

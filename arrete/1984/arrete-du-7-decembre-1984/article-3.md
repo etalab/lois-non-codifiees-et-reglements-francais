@@ -1,3 +1,5 @@
 # Article 3
 
-Le directeur de la sécurité sociale et le directeur des relations du travail sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Lorsqu'un préemballage est constitué de plusieurs préemballages contenant la même quantité du même produit, l'indication de la quantité nette est donnée en mentionnant la quantité nette contenue dans chaque préemballage individuel et leur nombre total. Ces mentions ne sont toutefois pas obligatoires lorsque le nombre total des préemballages individuels peut être clairement vu et facilement compté de l'extérieur et lorsqu'au moins une indication de la quantité nette contenue dans chaque préemballage individuel peut être clairement vue de l'extérieur.
+
+Lorsqu'un préemballage est constitué de plusieurs emballages contenant la même quantité du même produit, qui ne sont pas considérés comme unités de vente, l'indication de la quantité nette est donnée en mentionnant la quantité nette totale et le nombre total des emballages individuels.

@@ -1,5 +1,9 @@
 # Article 1
 
-La déclaration de ressources à prendre en compte pour l'attribution ou le renouvellement d'une allocation ou d'une prestation à caractère familial ou social doit être conforme pour l'année 1984 au modèle n° S. 7123g annexé au présent arrêté (1). Ce modèle a été enregistré par le CERFA sous le n° 60-3722.
+L'indication de la quantité nette est exprimée en unité de volume pour les produits liquides et en unité de masse pour les autres denrées.
 
-(1) Le modèle de cet imprimé est disponible auprès des organismes et des services de prestations familiales.
+Toutefois des arrêtés interministériels peuvent en disposer autrement. Ils peuvent également prévoir l'expression de la quantité en nombre d'unités.
+
+Pour les escargots préparés en coquille et les huîtres, la quantité peut s'exprimer également en nombre d'unités avec l'indication du calibre.
+
+En ce qui concerne les moules en coquille la quantité peut également être indiquée en unité de volume.
