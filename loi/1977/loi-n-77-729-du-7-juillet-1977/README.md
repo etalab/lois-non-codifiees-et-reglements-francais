@@ -2,7 +2,7 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Mode de scrutin](chapitre-ii)
-- [Chapitre III : Conditions d'éligibilité et d'inéligibilité, incompatibilités.](chapitre-iii)
+- [Chapitre III : Conditions d'éligibilité et d'inéligibilité](chapitre-iii)
 - [Chapitre IV : Déclarations de candidatures.](chapitre-iv)
 - [Chapitre V : Propagande.](chapitre-v)
 - [Chapitre VI : Opérations électorales](chapitre-vi)
