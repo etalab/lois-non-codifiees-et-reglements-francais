@@ -1,5 +1,0 @@
-# Article 6
-
-La direction de la programmation et du développement élabore en liaison avec les directions de la recherche, de la technologie, de l'enseignement supérieur et de l'enseignement scolaire la politique d'implantation sur le territoire national des activités de formation et de recherche. A ce titre, elle coordonne les relations avec la Délégation à l'aménagement du territoire et à l'action régionale et avec les collectivités territoriales. Elle assure la préparation des contrats de plan Etat-région dans le domaine de compétences du ministre et en suit l'exécution. Elle est responsable de la politique des constructions universitaires.
-
-Elle est chargée de la conception et de la gestion du système d'information statistique du ministère et de la diffusion des informations correspondantes. Elle conduit et fait réaliser les études générales et les prévisions permettant de programmer le développement du système éducatif. Elle contribue, en liaison avec les directions et organismes intéressés, à l'analyse des résultats du système éducatif.
