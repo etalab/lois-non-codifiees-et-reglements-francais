@@ -140,7 +140,6 @@
 - [Arrêté du 7 avril 1987 (ENVP8700081A)](arrete-du-7-avril-1987-envp8700081a)
 - [Arrêté du 7 décembre 1987 (ASED8703878A)](arrete-du-7-decembre-1987-ased8703878a)
 - [Arrêté du 7 décembre 1987 (ECOM8700375A)](arrete-du-7-decembre-1987-ecom8700375a)
-- [Arrêté du 7 décembre 1987 (MCCH8700526A)](arrete-du-7-decembre-1987-mcch8700526a)
 - [Arrêté du 7 janvier 1987](arrete-du-7-janvier-1987)
 - [Arrêté du 7 janvier 1987 (ECOA8700001A)](arrete-du-7-janvier-1987-ecoa8700001a)
 - [Arrêté du 7 juillet 1987 (ECOT8710027A)](arrete-du-7-juillet-1987-ecot8710027a)
