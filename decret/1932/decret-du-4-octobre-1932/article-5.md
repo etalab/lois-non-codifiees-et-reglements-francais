@@ -1,0 +1,5 @@
+# Article 5
+
+Après l'expiration d'un délai d'un an suivant la promulgation du présent décret, les produits fabriqués, tels que les vernis, les peintures, les encaustiques, les cirages et autres produits dans lesquels le solvant volatil n'est pas toujours constitué exclusivement par de l'essence de térébenthine ou toute essence de produits résineux quelconques (essences de pin, de bois ou de résine, terpènes, pinène), ne pourront être présentés au public comme contenant l'une de ces essences sans que soit indiquée la proportion centésimale exprimée en poids dans laquelle l'essence de térébenthine ou l'essence de produits résineux intervient dans la quantité totale du mélange des solvants volatiles employés.
+
+Cette indication devra obligatoirement précéder ou suivre immédiatement le nom de ces essences ; elle devra figurer sans abréviation en caractères typographiques de mêmes dimensions que ce nom et être disposée de façon à ne pas le dissimuler sur les emballages, prospectus, réclames, prix-courants et papiers de commerce, tableaux-réclame et affiches.
