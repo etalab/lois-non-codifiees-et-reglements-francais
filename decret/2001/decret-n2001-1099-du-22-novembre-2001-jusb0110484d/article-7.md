@@ -1,0 +1,5 @@
+# Article 7
+
+Les fonctionnaires et agents publics qui détiennent dans leur corps ou emploi d'origine un indice supérieur à celui correspondant à l'échelon auquel l'application de l'article 6 aboutirait à les classer sont classés à l'échelon de leur grade comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps ou emploi d'origine.
+
+Dans la limite de l'ancienneté exigée par l'article 12 du décret du 7 janvier 1993 susvisé pour une promotion à l'échelon supérieur, ils conservent alors l'ancienneté d'échelon acquise dans leur précédent grade ou classe lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation. Les agents nommés alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade ou classe conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui était résultée d'un avancement à ce dernier échelon.

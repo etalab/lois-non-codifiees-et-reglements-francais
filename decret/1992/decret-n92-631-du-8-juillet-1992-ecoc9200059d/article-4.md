@@ -12,4 +12,6 @@ d) Des limites spécifiques de migration de certains constituants ou groupe de c
 
 e) Une limite globale de migration des constituants dans ou sur les denrées, produits et boissons ;
 
-f) Les mesures visant à protéger la santé des risques éventuels qui peuvent résulter d'un contact buccal avec les matériaux et objets.
+f) Les mesures visant à protéger la santé des risques éventuels qui peuvent résulter d'un contact buccal avec les matériaux et objets ;
+
+g) Les conditions de traitements physiques des matériaux et objets au cours de leur fabrication ou après celle-ci, susceptibles d'altérer leur inertie à l'égard des denrées alimentaires, tels que le traitement par rayonnements ionisants.
