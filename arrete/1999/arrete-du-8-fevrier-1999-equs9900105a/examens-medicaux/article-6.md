@@ -1,6 +1,6 @@
 # Article 6
 
-Lorsque la commission médicale primaire conclut à l'inaptitude du candidat ou du conducteur, celui-ci peut demander à comparaître devant la commission médicale d'appel. Toutefois, cet appel ne met pas obstacle à ce que le préfet suspende immédiatement la validité du permis de conduire.
+Lorsque la commission médicale primaire conclut à l'aptitude ou à l'inaptitude du candidat ou du conducteur, celui-ci peut demander à comparaître devant la commission médicale d'appel. Toutefois, cet appel ne met pas obstacle à ce que le préfet suspende immédiatement la validité du permis de conduire.
 
 Cette commission, après avoir examiné le candidat ou le conducteur et entendu, si elle l'estime utile, les médecins de la commission primaire, transmet au préfet son avis motivé.
 
