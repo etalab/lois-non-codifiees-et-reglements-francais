@@ -1,3 +1,3 @@
 # Article 10
 
-Toutes les épreuves des concours et examens professionnels prévus aux alinéas a et b de l'article 3 ci-dessus sont subies dans le centre désigné par le directeur de la sécurité civile.
+Les épreuves écrites ont lieu dans un ou plusieurs centres d'examen désignés en fonction des candidatures reçues au ministère de l'intérieur. Les épreuves identiques pour tous les centres sont passées le même jour à la même heure, les sujets étant adressés sous plis cachetés au préfet du département dans lequel fonctionne le centre d'examen.

@@ -1,0 +1,3 @@
+# Article 6
+
+Les chercheurs titulaires relevant du décret du 30 décembre 1983 susvisé justifiant d'une ancienneté de trois ans en cette qualité peuvent être détachés pour exercer des fonctions d'enseignant associé à temps plein s'ils sont en possession d'un des titres ou diplômes mentionnés au 2° de l'article 2 ci-dessus. Les chercheurs détachés sont nommés en qualité d'enseignant associé conformément aux règles prévues à l'article 3 ci-dessus. La durée de leurs fonctions en qualité d'enseignant associé est égale à la durée de leur détachement et peut être prolongée, s'il est renouvelé, dans les conditions prévues à l'article 4 ci-dessus.
