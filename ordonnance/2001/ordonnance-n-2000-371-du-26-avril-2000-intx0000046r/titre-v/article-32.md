@@ -8,9 +8,9 @@ L'expulsion prévue à l'article 31 ne peut être prononcée que dans les condit
 
 a) Du président du tribunal de première instance ou d'un juge délégué par lui, président ;
 
-b) D'un conseiller du conseil du contentieux administratif ;
+b) D'un conseiller du tribunal administratif ;
 
-c) D'une personnalité désignée d'un commun accord par le président du tribunal de première instance et par le président du conseil du contentieux administratif.
+c) D'une personnalité désignée d'un commun accord par le président du tribunal de première instance et par le président du tribunal administratif.
 
 Le fonctionnaire responsable du service chargé des étrangers au sein des services de l'administrateur supérieur assure les fonctions de rapporteur ; le responsable du service territorial chargé de l'action sociale ou son représentant est entendu par la commission ; ils n'assistent pas à la délibération de la commission.
 

@@ -8,7 +8,7 @@ I. - Le Gouvernement est autorisé, dans les conditions prévues à l'article 38
 
 3° Intégrer, dans la fonction publique de l'Etat, les agents du territoire de la Polynésie française et de la collectivité départementale de Mayotte affectés dans les services pénitentiaires ;
 
-4° Supprimer le conseil du contentieux administratif des îles Wallis et Futuna et rendre applicables, dans ce territoire, les dispositions législatives du code de justice administrative.
+4° Supprimer le tribunal administratif des îles Wallis et Futuna et rendre applicables, dans ce territoire, les dispositions législatives du code de justice administrative.
 
 II. - Les projets d'ordonnance sont soumis pour avis :
 
