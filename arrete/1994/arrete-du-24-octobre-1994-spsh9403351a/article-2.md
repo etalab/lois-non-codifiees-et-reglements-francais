@@ -1,0 +1,3 @@
+# Article 2
+
+Sont électeurs dans chacune des disciplines, groupe de disciplines ou catégories visées aux articles R. 714-16-1, R. 714-16-3, R. 714-16-6 et R. 714-16-11 l'ensemble des personnels, en position d'activité ou de congés à la date de clôture définitive de la liste, appartenant à la discipline, groupe de disciplines ou à la catégorie concernée, à l'exception des praticiens nommés à titre provisoire en application de l'article 20 du décret n° 84-131 du 24 février 1984 modifié et de l'article 15 du décret n° 85-384 du 29 mars 1985 modifié ; cette dernière disposition ne s'applique pas aux praticiens des hôpitaux locaux appartenant aux catégories mentionnées au 2° de l'article L. 714-27.
