@@ -1,6 +1,6 @@
 # Article 98-1
 
-L'officier servant sous contrat est celui qui, ayant satisfait aux obligations du service national actif ou en ayant été régulièrement dispensé, est admis par contrat à servir volontairement dans les armées ou les formations rattachées en vue d'exercer des fonctions déterminées à caractère scientifique, technique ou pédagogique, correspondant à sa qualification professionnelle.
+L'officier servant sous contrat est celui qui est admis par contrat à servir volontairement dans les armées ou les formations rattachées en vue d'exercer des fonctions déterminées à caractère scientifique, technique ou pédagogique, correspondant à sa qualification professionnelle.
 
 Le grade de l'officier servant sous contrat est conféré par arrêté du ministre chargé des armées. Il ne donne droit au commandement que dans le cadre de la fonction exercée.
 
