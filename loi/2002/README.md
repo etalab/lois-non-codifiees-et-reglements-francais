@@ -6,6 +6,8 @@
 - [Loi n° 2002-1 du 2 janvier 2002 (ECOX0004502L)](loi-n-2002-1-du-2-janvier-2002-ecox0004502l)
 - [Loi n° 2002-1050 du 6 août 2002 (ECOX0200116L)](loi-n-2002-1050-du-6-aout-2002-ecox0200116l)
 - [Loi n° 2002-1062 du 6 août 2002 (JUSX0200109L)](loi-n-2002-1062-du-6-aout-2002-jusx0200109l)
+- [Loi n° 2002-1094 du 29 août 2002 (INTX0200114L)](loi-n-2002-1094-du-29-aout-2002-intx0200114l)
+- [Loi n° 2002-1095 du 29 août 2002 (SOCX0200120L)](loi-n-2002-1095-du-29-aout-2002-socx0200120l)
 - [Loi n° 2002-214 du 19 février 2002 (INTX0100196L)](loi-n-2002-214-du-19-fevrier-2002-intx0100196l)
 - [Loi n° 2002-268 du 26 février 2002 (JUSX0205311L)](loi-n-2002-268-du-26-fevrier-2002-jusx0205311l)
 - [Loi n° 2002-276 du 27 février 2002 (INTX0100065L)](loi-n-2002-276-du-27-fevrier-2002-intx0100065l)

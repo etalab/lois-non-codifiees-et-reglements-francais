@@ -1,0 +1,5 @@
+# Article 1
+
+En vue de l'élection des représentants du personnel aux commissions administratives et consultatives paritaires instituées dans les services de l'administration centrale du ministère de la justice, sont admis à voter par correspondance les agents qui n'exercent pas leurs fonctions au siège d'une section de vote ou qui se trouvent mis à disposition, en service détaché, en congé parental, suspendus de leurs fonctions pour des raisons disciplinaires, en congé de maternité, en congé de paternité, en congé de présence parentale, en congé de maladie ordinaire, de longue maladie, de longue durée, en congé suite à un accident de service, en position d'absence régulièrement autorisée, en position d'absence pour raison syndicale ou en congé de formation professionnelle, et ceux qui sont empêchés, en raison des nécessités du service, de se rendre à la section de vote le jour du scrutin.
+
+Les agents visés à l'alinéa précédent, à l'exception de ceux empêchés en raison des nécessités du service, ont la faculté de voter directement à la section de vote à laquelle ils sont rattachés, en application du paragraphe 1 de l'article 2.
