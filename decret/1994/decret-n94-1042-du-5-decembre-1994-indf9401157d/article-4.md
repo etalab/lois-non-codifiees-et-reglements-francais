@@ -1,6 +1,6 @@
 # Article 4
 
-Avant le nouveau chargement en combustible du réacteur à haut flux, l'exploitant soumettra à la direction de la sûreté des installations nucléaires les conditions dans lesquelles il entend l'effectuer.
+Avant le nouveau chargement en combustible du réacteur à haut flux, l'exploitant soumettra à la direction générale de la sûreté nucléaire et de la radioprotection les conditions dans lesquelles il entend l'effectuer.
 
 L'exploitant sera tenu, si nécessaire, d'assurer la mise à jour :
 

@@ -4,7 +4,7 @@ L'installation nucléaire de base dont la création est autorisée par le prése
 
 (1) Ce plan peut être consulté :
 
-- à la direction de la sûreté des installations nucléaires, 99, rue de Grenelle, 75353 Paris 07 SP ;
+- à la direction générale de la sûreté nucléaire et de la radioprotection, 99, rue de Grenelle, 75353 Paris 07 SP ;
 
 - à la direction régionale de l'industrie, de la recherche et de l'environnement de la région Provence-Alpes-Côte d'Azur, 67-69, avenue du Prado, 13286 Marseille Cedex 06 ;
 

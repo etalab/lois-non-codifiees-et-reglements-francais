@@ -8,7 +8,7 @@ En application de l'arrêté du 10 août 1984 relatif à la qualité de la conce
 
 En particulier, la société Nersa procédera à la surveillance et au contrôle de l'action de ses fournisseurs sur les différents matériels, notamment du circuit primaire.
 
-Un dossier précisant, pour les différents matériels, les classes de sûreté et les niveaux de qualité adoptés ainsi que les règles, codes ou normes utilisés avec la justification de cette utilisation, sera tenu à jour et adressé à l'occasion de ses mises à jour à la direction de la sûreté des installations nucléaires.
+Un dossier précisant, pour les différents matériels, les classes de sûreté et les niveaux de qualité adoptés ainsi que les règles, codes ou normes utilisés avec la justification de cette utilisation, sera tenu à jour et adressé à l'occasion de ses mises à jour à la direction générale de la sûreté nucléaire et de la radioprotection.
 
 2. Eléments combustibles
 
@@ -22,7 +22,9 @@ En outre, seront soumis à autorisation, délivrée par les ministres chargés d
 
 - toute modification de l'installation ou de son exploitation ayant un impact notable sur les principales caractéristiques neutroniques du coeur ;
 
-- toute expérience d'incinération d'actinides mineurs. En tout état de cause, chaque expérience ne pourra porter que sur une quantité d'actinides mineurs inférieure à 20 kilogrammes ;
+- toute expérience d'incinération d'actinides mineurs. En tout
+
+état de cause, chaque expérience ne pourra porter que sur une quantité d'actinides mineurs inférieure à 20 kilogrammes ;
 
 - tout fonctionnement du réacteur en sous-génération de plutonium. En tout état de cause, la capacité de sous-génération sera limitée à 25 kilogrammes de plutonium par terawattheure.
 
@@ -36,23 +38,23 @@ Les structures internes, et notamment le sommier supportant les éléments combu
 
 La cuve principale et le système de remplissage qui lui est associé seront conçus de façon que toute vidange accidentelle soit impossible. Des dispositions seront prises pour que, en cas de fuite de sodium primaire, le refroidissement des éléments combustibles soit suffisant pour éviter un endommagement grave de leur intégrité.
 
-Nersa tiendra à jour et transmettra à la direction de la sûreté des installations nucléaires un dossier justifiant les dispositions prises ou prévues en application des trois derniers alinéas ci-dessus.
+Nersa tiendra à jour et transmettra à la direction générale de la sûreté nucléaire et de la radioprotection un dossier justifiant les dispositions prises ou prévues en application des trois derniers alinéas ci-dessus.
 
 4. Enceinte primaire : cuve de sécurité et dôme
 
 Des dispositions seront prises pour permettre l'inspection en service de la cuve de sécurité. Par ailleurs, des moyens permettant, en tant que de besoin, les essais d'étanchéité des traversées de l'enceinte primaire seront prévus.
 
-Nersa tiendra à jour et transmettra à la direction de la sûreté des installations nucléaires un dossier sur ces deux points.
+Nersa tiendra à jour et transmettra à la direction générale de la sûreté nucléaire et de la radioprotection un dossier sur ces deux points.
 
 L'enceinte intermédiaire et l'enceinte primaire seront conçues de façon à résister aux conséquences d'un accident qui libérerait brutalement une énergie mécanique de 800 mégajoules. L'enceinte intermédiaire ne sera pas la source de projectiles risquant d'endommager l'enceinte primaire ; par ailleurs, les fuites de sodium seront limitées. L'enceinte primaire contiendra, avec une étanchéité suffisante, les effets secondaires éventuels d'un tel accident ; en particulier, pour tenir compte d'un éventuel feu de sodium primaire sous forme pulvérisée, elle pourra supporter une surpression de trois bars.
 
-Nersa réexaminera périodiquement les dispositions prises pour respecter les exigences fixées à l'alinéa précédent et en informera la direction de la sûreté des installations nucléaires.
+Nersa réexaminera périodiquement les dispositions prises pour respecter les exigences fixées à l'alinéa précédent et en informera la direction générale de la sûreté nucléaire et de la radioprotection.
 
 5. Surveillance des matériels et structures
 
 Des dispositions appropriées seront prises et périodiquement actualisées afin d'apprécier l'état des matériels et structures importants pour la sûreté et de détecter précocement leur éventuel vieillissement.
 
-Dans ce cadre, Nersa transmettra à la direction de la sûreté des installations nucléaires, tous les deux ans, un dossier spécifique au bloc réacteur et aux générateurs de vapeur.
+Dans ce cadre, Nersa transmettra à la direction générale de la sûreté nucléaire et de la radioprotection, tous les deux ans, un dossier spécifique au bloc réacteur et aux générateurs de vapeur.
 
 6. Enceinte secondaire
 
@@ -76,7 +78,7 @@ Par ailleurs, les fuites éventuelles de sodium primaire vers le sodium secondai
 
 Les générateurs de vapeur seront conçus et réalisés de façon à limiter les conséquences d'une éventuelle réaction du sodium avec l'eau en cas de fuite ou de rupture d'un tube ; ils seront par ailleurs dotés de dispositifs de protection permettant de prévenir les dommages qui pourraient être causés par la propagation d'ondes de pression à l'ensemble du générateur de vapeur concerné ainsi qu'au circuit de sodium secondaire et à l'échangeur intermédiaire associés. Des dispositifs permettront, d'autre part, de détecter les fuites d'eau vers le sodium et des actions automatiques de sécurité seront, en tant que de besoin, prévues.
 
-Un dossier relatif aux risques de propagation de la rupture d'un tube de générateur de vapeur aux tubes voisins sera périodiquement actualisé et adressé à la direction de la sûreté des installations nucléaires.
+Un dossier relatif aux risques de propagation de la rupture d'un tube de générateur de vapeur aux tubes voisins sera périodiquement actualisé et adressé à la direction générale de la sûreté nucléaire et de la radioprotection.
 
 En cas de défaillance totale de l'ensemble des moyens normaux de refroidissement, une évacuation en secours de la puissance résiduelle sera assurée de façon à éviter un endommagement grave des éléments combustibles.
 

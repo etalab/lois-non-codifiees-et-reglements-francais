@@ -62,7 +62,7 @@ Des dispositions sont prises en vue d'assurer un confinement suffisant des subst
 
 Des dispositions sont également prises pour maintenir l'installation dans un état sûr en cas d'inondation, de hautes ou de basses températures, de vents forts ou de chutes de neige importantes.
 
-L'exploitant se tient informé de tous les projets de modification de l'environnement par rapport à la description du dossier joint à la demande d'autorisation de modification susvisée, ayant ou pouvant avoir des conséquences sur le respect des prescriptions du présent décret ou sur la sûreté de l'installation, et présente si nécessaire à la direction de la sûreté des installations nucléaires un dossier précisant les conséquences de la modification envisagée sur son installation, compte tenu des circonstances normales ou accidentelles prévisibles.
+L'exploitant se tient informé de tous les projets de modification de l'environnement par rapport à la description du dossier joint à la demande d'autorisation de modification susvisée, ayant ou pouvant avoir des conséquences sur le respect des prescriptions du présent décret ou sur la sûreté de l'installation, et présente si nécessaire à la direction générale de la sûreté nucléaire et de la radioprotection un dossier précisant les conséquences de la modification envisagée sur son installation, compte tenu des circonstances normales ou accidentelles prévisibles.
 
 4.9. Formation du personnel
 

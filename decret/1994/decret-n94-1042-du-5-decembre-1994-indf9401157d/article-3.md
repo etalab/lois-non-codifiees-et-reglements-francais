@@ -12,7 +12,7 @@ Le coeur du réacteur est composé d'un seul élément combustible dont la mati�
 
 Un contrôle des caractéristiques neutroniques et dimensionnelles de l'élément combustible sera effectué préalablement à sa mise en pile.
 
-Avant toute utilisation éventuelle d'autres types d'élément combustible, l'institut Max von Laue-Paul Langevin devra obtenir une autorisation particulière des ministres chargés de l'industrie et de l'environnement (direction de la sûreté des installations nucléaires).
+Avant toute utilisation éventuelle d'autres types d'élément combustible, l'institut Max von Laue-Paul Langevin devra obtenir une autorisation particulière des ministres chargés de l'industrie et de l'environnement (direction générale de la sûreté nucléaire et de la radioprotection).
 
 Un dispositif de mesure de la radioactivité de l'eau de refroidissement du coeur du réacteur doit permettre de déceler d'éventuelles ruptures de gaines de l'élément combustible. Les conditions d'utilisation de ce dispositif de mesure et les actions de sécurité associées seront précisées dans les règles générales d'exploitation prévues à l'article 4 du présent décret.
 
@@ -120,7 +120,7 @@ Des dispositions appropriées doivent être prises pour réduire les risques et 
 
 Les installations annexes du réacteur et en particulier les installations destinées au stockage et au traitement, notamment de détritiation de l'eau lourde ou de produits radioactifs, doivent être conçues et exploitées pour assurer le contrôle permanent des effluents radioactifs gazeux rejetés après filtration éventuelle.
 
-Tout traitement de détritiation d'eau lourde en provenance d'installations extérieures au périmètre de l'installation autorisée par le présent décret devra faire l'objet, sur la base d'un dossier particulier présenté par l'exploitant, d'une autorisation spécifique préalable des ministres chargés de l'industrie et de l'environnement (direction de la sûreté des installations nucléaires), après avis du ministre chargé de la santé.
+Tout traitement de détritiation d'eau lourde en provenance d'installations extérieures au périmètre de l'installation autorisée par le présent décret devra faire l'objet, sur la base d'un dossier particulier présenté par l'exploitant, d'une autorisation spécifique préalable des ministres chargés de l'industrie et de l'environnement (direction générale de la sûreté nucléaire et de la radioprotection), après avis du ministre chargé de la santé.
 
 3.16. Protection des travailleurs et du public
 
@@ -146,7 +146,7 @@ La durée d'entreposage des déchets sur le site devra être aussi courte que po
 
 L'exploitant s'efforcera de réduire le volume et la nocivité des déchets. Afin de faciliter leur traitement, leur conditionnement et leur stockage ultérieur, les déchets seront triés par nature et par catégorie de nuisance radioactive ou chimique. Toute expédition de déchets devra faire l'objet des contrôles et des autorisations réglementaires.
 
-Un inventaire de tous les types de déchets, indiquant notamment leur destination, leurs caractéristiques physico-chimiques, leur mode de conditionnement, leur volume et leur activité sera tenu à jour par l'exploitant. Cet inventaire et un bilan des expéditions seront adressés périodiquement à la direction de la sûreté des installations nucléaires.
+Un inventaire de tous les types de déchets, indiquant notamment leur destination, leurs caractéristiques physico-chimiques, leur mode de conditionnement, leur volume et leur activité sera tenu à jour par l'exploitant. Cet inventaire et un bilan des expéditions seront adressés périodiquement à la direction générale de la sûreté nucléaire et de la radioprotection.
 
 3.19. Transport des produits radioactifs
 

@@ -1,27 +1,41 @@
 # Article 17
 
-La direction de la sûreté des installations nucléaires est responsable de l'étude, de la définition et de la mise en oeuvre de la politique en matière de sûreté nucléaire, ainsi que des problèmes qui s'y rattachent.
+I. - La direction générale de la sûreté nucléaire et de la radioprotection élabore, propose et met en oeuvre la politique du Gouvernement en matière de sûreté nucléaire, à l'exclusion de ce qui concerne les installations et activités nucléaires intéressant la défense. Pour l'application de ces dispositions, la sûreté nucléaire est définie comme l'ensemble des dispositions techniques et des mesures d'organisation relatives à la conception, à la construction, au fonctionnement, à l'arrêt et au démantèlement des installations comportant une source de rayonnements ionisants, ainsi qu'au transport des matières radioactives, et destinées à prévenir les accidents et à en limiter les effets.
 
-Elle est notamment chargée :
+II. - La direction générale de la sûreté nucléaire et de la radioprotection élabore et propose la politique du Gouvernement en matière de radioprotection et la met en oeuvre dans son domaine d'attribution. Pour l'application de ces dispositions, la radioprotection est définie comme l'ensemble des règles, des procédures et des moyens de prévention et de surveillance visant à empêcher ou à réduire les effets nocifs des rayonnements ionisants produits sur les personnes directement ou indirectement, y compris par les atteintes portées à l'environnement.
 
-1. De préparer et de mettre en oeuvre toutes actions techniques du ministère relatives à la sûreté des installations nucléaires, et en particulier :
+III. - La direction générale de la sûreté nucléaire et de la radioprotection est chargée, dans son domaine d'attribution :
 
-a) D'élaborer la réglementation technique concernant la sûreté des installations nucléaires et de suivre son application ;
+1. De préparer et de mettre en oeuvre toutes mesures relatives à la sûreté des installations nucléaires de base, notamment en élaborant la réglementation technique correspondante et en contrôlant son application ;
 
-b) D'organiser et animer l'inspection de ces installations, sans préjudice de l'application des dispositions de la loi n° 61-842 du 2 août 1961 relative à la lutte contre les pollutions atmosphériques et les odeurs et portant modification de la loi du 19 décembre 1917 ;
+2. De préparer et mettre en oeuvre toutes mesures relatives à la sûreté des transports de matières radioactives et fissiles à usage civil, notamment en élaborant, en concertation avec les services du ministre chargé des transports, la réglementation technique correspondante et en contrôlant son application ;
 
-2. D'examiner pour avis les programmes du Commissariat à l'énergie atomique concernant la sûreté des installations nucléaires ainsi que les propositions budgétaires correspondantes et de suivre l'exécution de ces programmes ;
+3. De préparer et de mettre en oeuvre, en liaison avec les autres administrations compétentes, toutes mesures destinées à prévenir ou limiter les risques sanitaires liés à l'exposition aux rayonnements ionisants, notamment en élaborant la réglementation technique concernant la radioprotection, à l'exception de celle relative à la protection des travailleurs contre les rayonnements ionisants, et en contrôlant son application ;
 
-3. De suivre les travaux de recherche et développement des autres établissements publics relevant du département dans le domaine de la sûreté nucléaire ;
+4. D'organiser les inspections, en matière de sûreté, des installations nucléaires de base et, en liaison avec les services compétents du ministre chargé des transports, du transport des matières radioactives et fissiles à usage civil ;
 
-4. De recueillir toutes informations utiles sur les problèmes de sûreté nucléaire et les mesures prises en ce domaine en France et à l'étranger ;
+5. Sans préjudice des inspections prévues par le code du travail et le code de l'environnement, d'organiser les inspections en matière de radioprotection prévues par le code de la santé publique et par la loi du 2 août 1961 susvisée et ses textes d'application, et d'animer l'ensemble des inspections qui concourent au contrôle de la radioprotection dans les domaines industriel, médical et de la recherche, y compris par le suivi des sources de rayonnements ionisants utilisées dans ces domaines ;
 
-5. De proposer et d'organiser l'information du public sur les problèmes se rapportant à la sûreté ;
+6. D'organiser la veille permanente en matière de radioprotection, notamment la surveillance radiologique de l'environnement sur l'ensemble du territoire ;
 
-6. D'une façon générale, d'examiner les mesures propres à assurer la sûreté des installations nucléaires, notamment les mesures proposées dans ce domaine par le Commissariat à l'énergie atomique en application de l'article 2 du décret n° 70-878 du 29 septembre 1970 relatif au Commissariat à l'énergie atomique et de promouvoir leur mise en oeuvre.
+7. De contrôler les rejets d'effluents gazeux et liquides et les déchets en provenance des installations nucléaires de base ;
 
-La direction de la sûreté des installations nucléaires doit être à tout moment en mesure de faire la synthèse des problèmes se rapportant à la sûreté des installations nucléaires. Elle prépare et propose, en ce domaine, les positions françaises dans les discussions avec les gouvernements ou les administrations des pays étrangers et organise sur le plan français les modalités pratiques de ces discussions.
+8. De proposer, coordonner et mettre en oeuvre la politique du Gouvernement en matière de réglementation et de contrôle de la gestion des déchets radioactifs ;
 
-Pour l'exercice de sa mission, la direction de la sûreté des installations nucléaires est habilitée à entreprendre ou promouvoir toutes études, participer à toutes concertations, présenter toutes recommandations utiles, prendre tous contacts nécessaires.
+9. De recueillir toutes informations sur les travaux de recherche et développement menés dans le domaine de la sûreté nucléaire et de la radioprotection ;
 
-Elle tient le Conseil supérieur de la sûreté et de l'information nucléaires informé de ses activités et assure le secrétariat de ce conseil.
+10. De participer, en liaison avec les autres administrations compétentes, notamment les services chargés de la sécurité civile, à la définition et à la mise en oeuvre d'une organisation technique de crise en cas d'accident sur une installation nucléaire ou sur un transport de matières radioactives, ou plus généralement de tout accident de nature à porter atteinte à la santé des personnes par exposition aux rayonnements ionisants, survenant en France ou susceptible d'affecter le territoire français ;
+
+11. De recueillir toutes informations dans le domaine de la sûreté nucléaire et de la radioprotection et sur les mesures prises dans ce domaine en France ou à l'étranger et de diffuser ces informations aux administrations concernées ;
+
+12. De contribuer à l'information du public sur les sujets se rapportant à la sûreté nucléaire et à la radioprotection.
+
+Les missions citées aux 3 et 5 ci-dessus sont exercées, s'il y a lieu, conjointement avec les agents de l'inspection du travail mentionnés aux articles L. 611-1, L. 611-4 et L. 611-6 du code du travail et les autres corps d'inspection et administrations compétents.
+
+En liaison avec les services du ministre des affaires étrangères, la direction générale de la sûreté nucléaire et de la radioprotection prépare et propose, dans ses domaines de compétence, les positions françaises en vue des discussions internationales et communautaires.
+
+Pour l'exercice de ses missions, elle peut entreprendre ou faire réaliser toutes études utiles.
+
+IV. - La direction générale de la sûreté nucléaire et de la radioprotection assure le secrétariat du Conseil supérieur de la sûreté et de l'information nucléaires, de la commission interministérielle des installations nucléaires de base, de la commission interministérielle des radioéléments artificiels et de la section de la radioprotection du Conseil supérieur d'hygiène publique de France.
+
+V. - En liaison avec les autres administrations compétentes, la direction générale de la sûreté nucléaire et de la radioprotection oriente, organise et contrôle, dans son domaine de compétence, l'activité des services déconcentrés de l'Etat concernés. Elle anime et coordonne leurs actions. Elle assure la prévision des moyens qui leur sont nécessaires.

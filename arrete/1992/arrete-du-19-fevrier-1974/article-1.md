@@ -12,13 +12,13 @@ Le directeur des hydrocarbures ;
 
 Le directeur du gaz, de l'électricité et du charbon ;
 
-Le directeur de la sûreté des installations nucléaires ;
+Le directeur général de la sûreté nucléaire et de la radioprotection ;
 
 Le directeur régional de l'industrie, de la recherche et de l'environnement de la région Bourgogne.
 
 § 3. - Les membres nommés par arrêté comprennent :
 
-Dix représentants du ministère chargé de l'industrie choisis parmi les membres du conseil général des mines et le personnel de la direction de l'action régionale et de la petite et moyenne industrie, de la direction de la sûreté des installations nucléaires, des directions régionales de l'industrie, de la recherche et de l'environnement et des écoles des mines ;
+Dix représentants du ministère chargé de l'industrie choisis parmi les membres du conseil général des mines et le personnel de la direction de l'action régionale et de la petite et moyenne industrie, de la direction générale de la sûreté nucléaire et de la radioprotection, des directions régionales de l'industrie, de la recherche et de l'environnement et des écoles des mines ;
 
 Un représentant du ministère de la défense ;
 

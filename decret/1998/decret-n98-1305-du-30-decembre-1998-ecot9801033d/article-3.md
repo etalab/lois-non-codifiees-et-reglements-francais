@@ -66,7 +66,7 @@ Des zones réglementées seront délimitées à l'intérieur de l'installation d
 
 Sans préjudice de l'application de la réglementation en vigueur sur la limitation des doses annuelles pouvant être reçues par les travailleurs et par le public, des dispositions appropriées seront prises pour que, dans le cadre des règles générales de surveillance et d'entretien, et compte tenu des différents travaux prévus, notamment des opérations de déchargement du réacteur et de transport de substances radioactives, les équivalents de doses individuelles et collectives reçus par les travailleurs et le public restent aussi faibles que raisonnablement possible.
 
-A l'issue des opérations autorisées par le présent décret, l'exploitant transmettra à la direction de la sûreté des installations nucléaires et à la direction générale de la santé, ainsi qu'à l'Office de protection contre les rayonnements ionisants, un bilan radiologique des travaux.
+A l'issue des opérations autorisées par le présent décret, l'exploitant transmettra à la direction générale de la sûreté nucléaire et de la radioprotection et à la direction générale de la santé, ainsi qu'à l'Office de protection contre les rayonnements ionisants, un bilan radiologique des travaux.
 
 3.6. Effluents liquides et gazeux
 

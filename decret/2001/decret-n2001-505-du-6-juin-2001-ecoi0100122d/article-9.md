@@ -1,0 +1,3 @@
+# Article 9
+
+Dans un délai de neuf mois au moins avant la mise à l'arrêt définitif et le démantèlement de son installation, l'exploitant s'attachera, dans les documents de sûreté prévus à l'article 6 ter du décret du 11 décembre 1963 susvisé, à justifier les différentes étapes qu'il envisage pour permettre de la rayer de la liste des installations nucléaires de base ; il présentera les options de sûreté associées à ces différentes étapes. L'exploitant produira également dans les mêmes délais les documents spécifiques nécessaires à la mise à jour, voire au remplacement de l'étude déchets prévue par l'arrêté du 31 décembre 1999 susvisé.

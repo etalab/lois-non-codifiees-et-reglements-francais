@@ -10,7 +10,7 @@ Nota :
 
 (1) Le plan annexé au présent décret peut être consulté :
 
-- à la direction de la sûreté des installations nucléaires, 99, rue de Grenelle, 75353 Paris 07 SP ;
+- à la direction générale de la sûreté nucléaire et de la radioprotection, 99, rue de Grenelle, 75353 Paris 07 SP ;
 
 - à la direction régionale de l'industrie, de la recherche et de l'environnement (région Rhône-Alpes), 146, rue Pierre-Corneille, 69426 Lyon Cedex 03 ;
 

@@ -26,7 +26,7 @@ contre le risque de dissémination de la radioactivité
 
 La nouvelle installation sera surveillée de telle sorte que soit respecté l'ensemble des règles applicables en matière de protection contre la dissémination de substances radioactives à l'intérieur de l'installation et dans son environnement. En particulier, les eaux pluviales et souterraines feront l'objet d'un contrôle périodique.
 
-Un compte rendu sera adressé chaque année à l'Office de protection contre les rayonnements ionisants et à la direction de la sûreté des installations nucléaires.
+Un compte rendu sera adressé chaque année à l'Office de protection contre les rayonnements ionisants et à la direction générale de la sûreté nucléaire et de la radioprotection.
 
 L'ensemble des alarmes liées aux systèmes de surveillance de l'installation pendant les travaux de transformation sera retransmis en un lieu du site où se trouve en permanence un personnel de surveillance.
 
@@ -50,7 +50,7 @@ Des zones réglementées seront délimitées à l'intérieur de l'installation d
 
 Sans préjudice de l'application de la réglementation en vigueur sur la limitation des doses annuelles pouvant être reçues par les travailleurs et par le public, des dispositions appropriées seront prises pour que, dans le cadre des règles générales d'exploitation, et compte tenu des différents travaux prévus, les équivalents de doses individuelles et collectives reçus par les travailleurs et le public restent aussi faibles que raisonnablement possible.
 
-A l'issue des opérations de démantèlement partiel, l'exploitant transmettra à la direction de la sûreté des installations nucléaires et à la direction générale de la santé, ainsi qu'à l'Office de protection contre les rayonnements ionisants, un bilan radiologique des travaux.
+A l'issue des opérations de démantèlement partiel, l'exploitant transmettra à la direction générale de la sûreté nucléaire et de la radioprotection et à la direction générale de la santé, ainsi qu'à l'Office de protection contre les rayonnements ionisants, un bilan radiologique des travaux.
 
 4.6. Effluents liquides et gazeux
 
@@ -96,7 +96,7 @@ Durant la phase des travaux, les chemins d'évacuation devront être parfaitemen
 
 Des dispositions seront prises en vue d'assurer un confinement suffisant des substances radioactives, compte tenu de toutes les circonstances plausibles pouvant résulter du fonctionnement normal ou accidentel des installations voisines ou des transports effectués au voisinage de l'installation, notamment des effets dynamiques et des projectiles susceptibles d'atteindre cette dernière.
 
-L'exploitant se tiendra informé de tous projets de modification de l'environnement par rapport à la description du dossier joint à la demande d'autorisation de création susvisé, ayant ou pouvant avoir des conséquences sur le respect des prescriptions du présent décret ou sur la sûreté de l'installation, et présentera à la direction de la sûreté des installations nucléaires un dossier précisant les conséquences de la modification envisagée, compte tenu des circonstances normales ou accidentelles prévisibles.
+L'exploitant se tiendra informé de tous projets de modification de l'environnement par rapport à la description du dossier joint à la demande d'autorisation de création susvisé, ayant ou pouvant avoir des conséquences sur le respect des prescriptions du présent décret ou sur la sûreté de l'installation, et présentera à la direction générale de la sûreté nucléaire et de la radioprotection un dossier précisant les conséquences de la modification envisagée, compte tenu des circonstances normales ou accidentelles prévisibles.
 
 4.10. Protection contre les séismes
 

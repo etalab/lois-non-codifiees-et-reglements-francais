@@ -48,7 +48,7 @@ L'exploitant prendra toutes dispositions appropriées pour réduire au minimum l
 
 L'exploitant assurera, notamment par archivage, la traçabilité (localisation, quantité, nature) des déchets jusqu'à leur élimination définitive par traitement, réutilisation ou stockage définitif dans une installation autorisée.
 
-A l'issue des opérations de mise à l'arrêt définitif, l'exploitant transmettra à la direction de la sûreté des installations nucléaires un bilan des déchets, radioactifs et non radioactifs, produits au cours desdites opérations dans lequel sera précisé la nature physico-chimique, le volume, l'activité et le devenir de ces déchets.
+A l'issue des opérations de mise à l'arrêt définitif, l'exploitant transmettra à la direction générale de la sûreté nucléaire et de la radioprotection un bilan des déchets, radioactifs et non radioactifs, produits au cours desdites opérations dans lequel sera précisé la nature physico-chimique, le volume, l'activité et le devenir de ces déchets.
 
 3.6. Effluents radioactifs liquides et gazeux
 
