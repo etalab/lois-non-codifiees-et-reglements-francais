@@ -4,4 +4,4 @@ Sous réserve des droits des bénéficiaires de la législation sur les emplois 
 
 Toutefois, peuvent être nommés préposés, sans concours, les jeunes facteurs âgés de dix-huit ans au moins au 1er janvier de l'année considérée, comptant, à cette même date, deux ans au moins de services et ayant subi avec succès l'examen clôturant les cours postscolaires organisés à leur intention.
 
-En outre, vingt emplois de préposé au maximum peuvent être attribués au choix, chaque année, aux fonctionnaires de sexe masculin des corps d'agents de service et d'huissiers en possession au moins du cinquième échelon de leur grade, âgés de quarante-cinq ans au plus, aptes physiquement à l'emploi recherché et remplissant, en outre, les conditions prévues au tableau des filières.
+En outre, dans la limite du sixième des titularisations prononcées au titre des deux alinéas précédents, les préposés peuvent être recrutés au choix parmi les fonctionnaires masculins des postes et télécommunications appartenant à la catégorie D, ayant atteint le cinquième échelon et reconnus physiquement aptes à l'emploi recherché.
