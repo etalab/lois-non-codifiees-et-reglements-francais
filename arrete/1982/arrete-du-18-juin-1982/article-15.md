@@ -1,6 +1,6 @@
 # Article 15
 
-Les souscriptions seront reçues aux caisses désignées ci-après :
+Les souscriptions seront reçues aux caisses désignées ci-après [*organismes compétents*] :
 
 Comptables directs du Trésor dans la métropole et leurs correspondants ;
 

@@ -1,4 +1,4 @@
-# Arrêté du 18 juin 1982 relatif à l'octroi de la garantie de l'Etat à un emprunt de la caisse centrale de crédit coopératif
+# Arrêté du 18 juin 1982 RELATIF A LA REPARTITION POUR L'ANNEE 1982 DU PRODUIT DES COTISATIONS PREVUES A L'ARTICLE 1062 DU CODE RURAL
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 1
 
-La caisse centrale de crédit coopératif est autorisée à émettre un emprunt obligatoire d'un montant nominal maximum de 1. 400 millions de francs, dont la première tranche sera représentée par 140. 000 obligations de 5. 000 F nominal assorties de bons de souscription qui donneront droit à la souscription d'une deuxième tranche réservée exclusivement aux détenteurs de ces bons dans les conditions fixées au présent arrêté.
+La fraction du produit des cotisations prévues à l'article 1062 du code rural, qui est affectée au financement des prestations familiales servies aux salariés agricoles, s'élève à 1575340000 F pour l'année 1982 *montant*.
