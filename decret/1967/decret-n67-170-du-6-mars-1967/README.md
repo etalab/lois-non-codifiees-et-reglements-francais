@@ -1,9 +1,11 @@
-# Décret n°62-1409 du 27 novembre 1962 relatif aux modalités de financement de l'équipement scolaire du second degré
+# Décret n°67-170 du 6 mars 1967 fixant les modalités de financement de certaines constructions scolaires pour enfants inadaptés.
 
 - [Article 1](article-1.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
+- [Article 5](article-5.md)
 - [Article 6](article-6.md)
+- [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)

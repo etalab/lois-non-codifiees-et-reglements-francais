@@ -9,6 +9,7 @@
 - [Décret n°67-1082 du 5 décembre 1967](decret-n67-1082-du-5-decembre-1967)
 - [Décret n°67-441 du 5 juin 1967](decret-n67-441-du-5-juin-1967)
 - [Décret n°68-333 du 5 avril 1968](decret-n68-333-du-5-avril-1968)
+- [Décret n°67-170 du 6 mars 1967](decret-n67-170-du-6-mars-1967)
 - [Décret n°67-452 du 6 juin 1967](decret-n67-452-du-6-juin-1967)
 - [Décret n°67-886 du 6 octobre 1967](decret-n67-886-du-6-octobre-1967)
 - [Décret n°67-451 du 7 juin 1967](decret-n67-451-du-7-juin-1967)
