@@ -1,7 +1,0 @@
-# Article 21
-
-En attendant l'approbation des nouveaux plans de transports, les entreprises de transport routier de voyageurs pourront exploiter leurs services conformément aux plans de transport mis en application avant le 1er septembre 1939 ou aux actes en tenant lieu avec les fréquences actuelles. Toutefois, le préfet peut autoriser tout transporteur à augmenter ses fréquences dans les limites de celles qui sont inscrites auxdits plans et actes sous réserve d'un avis favorable du comité technique départemental des transports ; dans le cas contraire, la décision est prise par le ministre des transports après avis du conseil supérieur des transports.
-
-Les tarifs des services routiers resteront soumis à l'ordonnance du 30 juin 1945 tant que ne seront pas fixés la tarification de base nationale et le barème national d'adaptation prévus à l'article 11, qui devront être arrêtés dans les trois mois qui suivront la publication du présent décret.
-
-En attendant la notification du règlement d'exploitation qui devra intervenir dans un délai de six mois suivant la publication du présent décret, les clauses générales du chapitre II du titre III du livre II du décret du 12 janvier 1939 relatif à la coordination des transports ferroviaires et routiers en tiendront lieu dans la mesure où elles ne sont pas contraires aux dispositions du présent décret. Il pourra être fait application, le cas échéant, des mesures prévues au paragraphe 3 de l'article 8 du présent décret.
