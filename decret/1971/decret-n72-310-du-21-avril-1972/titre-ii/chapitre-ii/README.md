@@ -6,4 +6,5 @@
 - [Article 18-3](article-18-3.md)
 - [Article 18-4](article-18-4.md)
 - [Article 18-5](article-18-5.md)
+- [Article 19](article-19.md)
 - [Article 20](article-20.md)
