@@ -1,0 +1,3 @@
+# Article 12
+
+Est interdit l'emploi, sous quelque forme que ce soit, dans la vente, la mise en vente, l'exposition des produits définis à l'article 1er ainsi que dans tout procédé de vente, d'exposition, d'étalage, de présentation, d'étiquetage et de publicité de ces produits, de toute inscription, indication, signe, dénomination de fantaisie susceptible de créer une confusion dans l'esprit de l'acheteur notamment sur la nature, la composition, les qualités substantielles, le mode de fabrication, le poids, le nombre d'unités ou l'origine des produits faisant l'objet du présent décret, ainsi que sur l'usage auquel ces produits sont destinés.

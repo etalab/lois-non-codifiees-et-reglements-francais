@@ -1,4 +1,4 @@
-# Décret n°78-1108 du 23 novembre 1978 pris pour l'application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services en ce qui concerne le tabac, les produits du tabac et leurs succédanés
+# Arrêté du 27 novembre 1979 pris pour l'application de la loi n° 79-594 du 13 juillet 1979 et du décret n° 79-835 du 27 septembre 1979 sur les fonds communs de placement
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -12,5 +12,4 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
-- [Article 13](article-13.md)
-- [Article 14](article-14.md)
+- [Annexes](annexes)
