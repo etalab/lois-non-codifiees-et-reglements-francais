@@ -1,8 +1,6 @@
 # Article 6
 
-Le conseil d'administration délibère notamment sur
-
-[*attributions*] :
+Le conseil d'administration délibère notamment sur :
 
 1° La fixation du siège de la Régie ;
 
@@ -31,3 +29,5 @@ Le conseil d'administration délibère notamment sur
 Le conseil d'administration peut déléguer une partie de ses attributions au président-directeur général.
 
 Le conseil arrête son règlement intérieur.
+
+13° La délivrance des titres d'occupation du domaine public de l'Etat en application des articles L. 34-1 à L. 34-9 du code du domaine de l'Etat et de l'article 3 de la loi n° 94-631 du 25 juillet 1994.
