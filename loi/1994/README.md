@@ -18,6 +18,7 @@
 - [Loi n° 94-1080 du 15 décembre 1994 (MAEX9400008L)](loi-n-94-1080-du-15-decembre-1994-maex9400008l)
 - [Loi n° 94-1098 du 19 décembre 1994 (MAEX9400017L)](loi-n-94-1098-du-19-decembre-1994-maex9400017l)
 - [Loi n° 94-1099 du 19 décembre 1994 (MAEX9400127L)](loi-n-94-1099-du-19-decembre-1994-maex9400127l)
+- [Loi n° 94-112 du 9 février 1994 (EQUX9300099L)](loi-n-94-112-du-9-fevrier-1994-equx9300099l)
 - [Loi n° 94-1131 du 27 décembre 1994 (BUDX9400011L)](loi-n-94-1131-du-27-decembre-1994-budx9400011l)
 - [Loi n° 94-1133 du 27 décembre 1994 (JUSX9400530L)](loi-n-94-1133-du-27-decembre-1994-jusx9400530l)
 - [Loi n° 94-1134 du 27 décembre 1994 (ATRX9400038L)](loi-n-94-1134-du-27-decembre-1994-atrx9400038l)
