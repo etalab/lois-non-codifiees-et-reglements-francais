@@ -1,0 +1,3 @@
+# Article 3
+
+Les destinataires de ces informations sont, dans le cadre de leurs attributions et la limite de leur compétence, les autorités responsables de la délivrance des différentes cartes d'accès telles qu'elles sont définies par la circulaire n° 49 D.B.A. du 28 août 1975 modifiée, les autorités de la police de l'air et des frontières et de la gendarmerie des transports aériens, ainsi que les personnels nommément désignés par ces autorités pour la gestion des fichiers et la fabrication des cartes d'accès. Le traitement automatisé d'informations nominatives concernant les cartes d'accès et de circulation des personnels sur les aérodromes ne fera l'objet d'aucune interconnexion avec un autre fichier.
