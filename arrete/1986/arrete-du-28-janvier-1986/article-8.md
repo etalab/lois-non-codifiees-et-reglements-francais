@@ -1,13 +1,7 @@
 # Article 8
 
-Lorsque la commission examine des questions intéressant les orthophonistes, la représentation des organisations professionnelles est assurée par :
+Lorsque la commission examine des questions intéressant les masseurs-kinésithérapeutes, la représentation des organisations professionnelles est assurée par :
 
-1° Un représentant nommé sur proposition de la Confédération des syndicats médicaux français ;
+1° Cinq représentants nommés sur proposition de la Fédération française des masseurs-kinésithérapeutes-rééducateurs ;
 
-2° Un représentant nommé sur proposition de la Fédération des médecins de France ;
-
-3° Un représentant nommé sur proposition de la Fédération française des médecins généralistes ;
-
-4° Trois représentants nommés sur proposition de la Fédération nationale des orthophonistes ;
-
-5° Un représentant nommé sur proposition de la Fédération des orthophonistes de France.
+2° Deux représentants nommés sur proposition du Syndicat national des masseurs-kinésithérapeutes-rééducateurs.

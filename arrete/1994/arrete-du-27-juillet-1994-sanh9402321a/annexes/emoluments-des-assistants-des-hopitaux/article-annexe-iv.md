@@ -12,38 +12,38 @@ Assistants généralistes :
 
 1re et 2e année
 
-130 359
+134 269
 
 3e et 4e année
 
-142 040
+147 722
 
 Assistants spécialistes :
 
 1re et 2e année
 
-171 244
+176 380
 
 3e et 4e année
 
-182 924
+192 071
 
 Assistants associés généralistes :
 
 1re et 2e année
 
-123 935
+127 653
 
 3e et 4e année
 
-135 031
+140 432
 
 Assistants associés spécialistes :
 
 1re et 2e année
 
-162 775
+167 658
 
 3e et 4e année
 
-173 871
+182 564
