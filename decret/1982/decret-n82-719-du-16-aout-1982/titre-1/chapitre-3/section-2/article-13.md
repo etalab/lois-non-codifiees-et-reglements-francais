@@ -1,3 +1,3 @@
 # Article 13
 
-Le directeur peut nommer des ordonnateurs secondaires après avis du conseil d'administration.
+Le président-directeur général peut nommer des ordonnateurs secondaires après avis du conseil d'administration.

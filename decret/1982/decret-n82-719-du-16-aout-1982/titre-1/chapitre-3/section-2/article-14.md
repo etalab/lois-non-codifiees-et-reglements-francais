@@ -1,5 +1,5 @@
 # Article 14
 
-L'agent comptable est nommé par arrêté conjoint du ministre du temps libre et du ministre délégué chargé du budget après avis du conseil d'administration.
+L'agent comptable est nommé par arrêté conjoint du ministre chargé du tourisme et du ministre délégué chargé du budget après avis du conseil d'administration.
 
-Des comptables secondaires peuvent être désignés par le directeur après avis de l'agent comptable principal et avec l'agrément conjoint du ministre du temps libre et du ministre délégué chargé du budget.
+Des comptables secondaires peuvent être désignés par le président-directeur général après avis de l'agent comptable principal et avec l'agrément conjoint du ministre chargé du tourisme et du ministre délégué chargé du budget.
