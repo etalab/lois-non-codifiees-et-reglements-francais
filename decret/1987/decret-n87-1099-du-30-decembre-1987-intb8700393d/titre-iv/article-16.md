@@ -1,8 +1,6 @@
 # Article 16
 
-La seconde classe du grade d'attaché comprend neuf échelons.
-
-La première classe du grade d'attaché comprend cinq échelons.
+le grade d'attaché comprend douze échelons.
 
 Le grade d'attaché principal comprend six échelons.
 
