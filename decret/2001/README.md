@@ -59,6 +59,7 @@
 - [Décret n°2001-424 du 14 mai 2001 (MESH0121152D)](decret-n2001-424-du-14-mai-2001-mesh0121152d)
 - [Décret n°2001-156 du 15 février 2001 (DEFP0101050D)](decret-n2001-156-du-15-fevrier-2001-defp0101050d)
 - [Décret n°2001-157 du 15 février 2001 (DEFP0101051D)](decret-n2001-157-du-15-fevrier-2001-defp0101051d)
+- [Décret n°2001-42 du 15 janvier 2001 (EQUU0100001D)](decret-n2001-42-du-15-janvier-2001-equu0100001d)
 - [Décret n°2000-1003 du 16 octobre 2000 (ECOC0000096D)](decret-n2000-1003-du-16-octobre-2000-ecoc0000096d)
 - [Décret n°2001-1067 du 16 novembre 2001 (PRMX0105174D)](decret-n2001-1067-du-16-novembre-2001-prmx0105174d)
 - [Décret n°2001-1079 du 16 novembre 2001 (MJSK0170144D)](decret-n2001-1079-du-16-novembre-2001-mjsk0170144d)
