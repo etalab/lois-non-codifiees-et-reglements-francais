@@ -68,6 +68,7 @@
 - [Arrêté du 18 mars 1986](arrete-du-18-mars-1986)
 - [Arrêté du 19 décembre 1985](arrete-du-19-decembre-1985)
 - [Arrêté du 19 février 1986](arrete-du-19-fevrier-1986)
+- [Arrêté du 19 juin 1969](arrete-du-19-juin-1969)
 - [Arrêté du 19 mars 1986](arrete-du-19-mars-1986)
 - [Arrêté du 20 décembre 1985](arrete-du-20-decembre-1985)
 - [Arrêté du 20 février 1986](arrete-du-20-fevrier-1986)
