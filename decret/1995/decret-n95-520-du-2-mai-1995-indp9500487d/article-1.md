@@ -1,6 +1,6 @@
 # Article 1
 
-Pendant une période de quatre ans à compter de la date de publication du présent décret et par dérogation aux dispositions des articles 13 et 14 du décret du 25 août 1958 susvisé, peuvent être nommés sur leur demande :
+Jusqu'au 2 mai 2003 et par dérogation aux dispositions des articles 13 et 14 du décret du 25 août 1958 susvisé, peuvent être nommés sur leur demande :
 
 a) Au grade de directeur départemental de La Poste ou à celui de directeur départemental de France Télécom les fonctionnaires de l'exploitant public intéressé exerçant un emploi supérieur de deuxième niveau, tel que celui-ci est défini par les décrets des 26 et 27 mars 1993 susvisés ;
 
