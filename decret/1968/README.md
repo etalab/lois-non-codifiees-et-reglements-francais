@@ -20,6 +20,7 @@
 - [Décret n°68-268 du 21 mars 1968](decret-n68-268-du-21-mars-1968)
 - [Décret n°67-1165 du 22 décembre 1967](decret-n67-1165-du-22-decembre-1967)
 - [Décret n°68-464 du 22 mai 1968](decret-n68-464-du-22-mai-1968)
+- [Décret n°68-536 du 23 mai 1968](decret-n68-536-du-23-mai-1968)
 - [Décret n°69-376 du 24 avril 1969](decret-n69-376-du-24-avril-1969)
 - [Décret n°68-476 du 25 mai 1968](decret-n68-476-du-25-mai-1968)
 - [Décret n°68-376 du 26 avril 1968](decret-n68-376-du-26-avril-1968)
@@ -31,4 +32,5 @@
 - [Décret n°68-401 du 30 avril 1968](decret-n68-401-du-30-avril-1968)
 - [Décret n°68-418 du 30 avril 1968](decret-n68-418-du-30-avril-1968)
 - [Décret n°68-521 du 30 mai 1968](decret-n68-521-du-30-mai-1968)
+- [Décret n°68-534 du 30 mai 1968](decret-n68-534-du-30-mai-1968)
 - [Décret n°68-498 du 31 mai 1968](decret-n68-498-du-31-mai-1968)
