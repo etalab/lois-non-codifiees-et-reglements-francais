@@ -1,0 +1,3 @@
+# Article 1
+
+Les techniciens d'études et de fabrications relevant du ministère des armées provenant du personnel ouvrier ou du personnel contractuel régi par le décret du 3 octobre 1949 perçoivent, le cas échéant, une indemnité différentielle ; cette indemnité est égale à la différence entre, d'une part, le salaire maximum de la profession ouvrière à laquelle appartenaient les anciens ouvriers ou le salaire réellement perçu par les anciens contractuels à la date de leur nomination et, d'autre part, la rémunération qui leur est allouée en qualité de fonctionnaire. Cette indemnité n'est pas cumulable avec l'indemnité forfaitaire dégressive accordée aux techniciens d'études et de fabrications en application du décret n° 56-1296 du 17 décembre 1956 susvisé.
