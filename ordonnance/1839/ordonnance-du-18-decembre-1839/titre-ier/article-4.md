@@ -1,0 +1,3 @@
+# Article 4
+
+Les commissions instituées par l'article 1er, chargées de la surveillance générale de toutes les parties du service des établissements, seront appelées à donner leur avis sur le régime intérieur, sur les budgets et les comptes, sur les actes relatifs à l'administration, tels que le mode de gestion des biens. les projets de travaux, les procès à intenter ou à soutenir, les transactions, les emplois de capitaux, les acquisitions, les emprunts, les ventes ou échanges d'immeubles, les acceptations de legs ou donations, les pensions à accorder s'il y a lieu, les traités à conclure pour le service des malades.
