@@ -8,7 +8,9 @@ Le conseil d'administration délibère :
 
 3° Sur l'acceptation des libéralités grevées de charges, de conditions ou d'affectations permanentes ;
 
-4° Sur l'emploi des crédits incorporés dans le budget propre du conservatoire, et sur leur répartition entre les différents services de l'établissement ;
+4° sur le budget et le compte financier ;
+
+4 bis. Le conseil d'administration arrête le règlement intérieur sur proposition du directeur du Conservatoire national des arts et métiers ;
 
 Le conseil de perfectionnement entendu :
 
@@ -16,10 +18,4 @@ Le conseil de perfectionnement entendu :
 
 6° Sur l'organisation générale des cours et leurs programmes ;
 
-7° Sur les acquisitions de machines et de modèles à faire pour les collections ;
-
-8° La commission technique du laboratoire d'essais entendue :
-
-Sur les acquisitions de machines et d'appareils à faire pour le laboratoire ;
-
-9° Sur le taux des taxes à fixer pour les divers genres d'essais.
+7° Sur les acquisitions de machines et de modèles à faire pour les collections.
