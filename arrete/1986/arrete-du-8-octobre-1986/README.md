@@ -1,4 +1,4 @@
-# Arrêté du 8 octobre 1986 relatif à la frappe et à la mise en circulation des pièces commémoratives de 10 F
+# Arrêté du 8 octobre 1986 relatif aux conditions sanitaires des échanges intracommunautaires de bovins et porcins
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

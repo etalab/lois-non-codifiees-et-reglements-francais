@@ -4,7 +4,7 @@ Les porcs d'élevage et de rente doivent, en complément des prescriptions des a
 
 1° Provenir d'un cheptel porcin indemne de brucellose et d'une exploitation officiellement indemne de peste porcine ou d'une exploitation indemne de peste porcine à condition que, dans ce dernier cas, les animaux soient accompagnés d'un certificat attestant qu'ils n'ont pas été vaccinés.
 
-Lorsqu'il s'agit de porcs reproducteurs âgés de plus de quatre mois, il doivent avoir présenté, lors d'épreuves effectuées dans les trente jours précédant l'embarquement :
+Lorsqu'il s'agit de porcs d'un poids supérieur à 25 kg, il doivent avoir présenté, lors d'épreuves effectuées dans les trente jours précédant l'embarquement :
 
 a) Un titre brucellique inférieur à trente unités internationales agglutinantes par millilitre, lors d'une séro-agglutination officielle ;
 

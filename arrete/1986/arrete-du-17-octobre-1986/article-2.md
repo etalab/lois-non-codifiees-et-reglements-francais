@@ -1,9 +1,7 @@
 # Article 2
 
-Le taux de la redevance forfaitaire à verser à l'Office national d'immigration par les Algériens pour l'examen médical subi en vue de la première délivrance d'un certificat de résidence d'un an ou de dix ans est fixé à :
+Les prêts consentis par les organismes collecteurs de la participation des employeurs à l'effort de construction à des personnes physiques pour des opérations d'accession à la propriété, ainsi que les prêts consentis directement par les employeurs à leurs salariés en application de l'article R. 313-9 (1°) du code de la construction et de l'habitation sont pris en compte, conformément à l'article R. 313-15 (premier alinéa) dudit code, dans les limites ci-après :
 
-Etudiants : 250 F ;
+1° 15 p. 100 du coût de l'opération pour les personnes physiques dont les ressources sont au plus égales aux plafonds prévus par l'article R. 331-42 du code de la construction et de l'habitation. Ces prêts ne peuvent en outre excéder un montant de 70 000 F en région Ile-de-France et de 60 000 F dans les autres régions. Cependant, pour les personnes physiques ayant au moins trois personnes à charge, ainsi que pour celles qui sont tenues de changer de résidence principale pour des raisons de mobilité professionnelle, cette limite est portée à 100 000 F en région Ile-de-France et 80 000 F dans les autres régions ;
 
-Autres : 800 F.
-
-Les dispositions du présent article ne s'appliquent pas aux Algériens auxquels est délivré un certificat de résidence d'un an portant la mention Salarié ou Membre de famille ni aux Algériens visés au quatrième alinéa a, b, d, e et f de l'article 7 bis de l'accord franco-algérien du 27 décembre 1968 [*éxonération*].
+2° 10 p. 100 du coût de l'opération pour les personnes physiques autres que celles visées au paragraphe 1° ci-dessus. Ces prêts ne peuvent en outre excéder un montant de 70 000 F en région Ile-de-France et de 60 000 F dans les autres régions. Cependant, pour les personnes physiques ayant au moins trois personnes à charge ainsi que pour celles qui sont tenues de changer de résidence principale pour des raisons de mobilité professionnelle, cette limite est portée à 100 000 F en région Ile-de-France et 80 000 F dans les autres régions.

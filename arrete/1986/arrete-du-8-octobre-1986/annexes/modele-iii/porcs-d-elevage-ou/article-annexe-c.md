@@ -56,7 +56,7 @@ e) Ils ont séjourné les trente derniers jours (5) dans une exploitation situé
 
 - dans une exploitation (2),
 
-sur un marché d'animaux d'élevage ou de rente officiellement agréé pour l'expédition vers un autre Etat membre : ... (2) (désignation du marché).
+sur un marché d'animaux d'élevage ou de rente officiellement agréé pour l'expédition vers un autre Etat membre : ...(2) (désignation du marché).
 
 g) Ils ont été transportés directement en passant, sans passer (2) par un lieu de rassemblement :
 
@@ -86,4 +86,4 @@ Fait à ... le ... (jour d'embarquement).
 
 (5) Ce délai se réfère au jour d'embarquement.
 
-(6) La séro-agglutination et la réaction de fixation du complément ne sont pratiquées que pour les porcs reproducteurs âgés de plus de quatre mois.
+(6) La séro-agglutination et la réaction de fixation du complément ne sont pratiquées que pour les porcs dont le poids dépasse 25 kg.
