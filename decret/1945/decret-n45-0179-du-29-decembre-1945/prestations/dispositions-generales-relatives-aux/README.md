@@ -15,3 +15,5 @@
 - [Article 12 j](article-12-j.md)
 - [Article 12 k](article-12-k.md)
 - [Article 13](article-13.md)
+- [Article 13 bis](article-13-bis.md)
+- [Article 13 ter](article-13-ter.md)
