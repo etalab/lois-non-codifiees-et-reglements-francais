@@ -427,7 +427,6 @@
 - [Arrêté du 18 octobre 1999 (MESX9903795A)](arrete-du-18-octobre-1999-mesx9903795a)
 - [Arrêté du 18 mai 1999 (ECOC9900176A)](arrete-du-18-mai-1999-ecoc9900176a)
 - [Arrêté du 18 mai 1999 (ECOF9900017A)](arrete-du-18-mai-1999-ecof9900017a)
-- [Arrêté du 18 mai 1999 (FPPA9910006A)](arrete-du-18-mai-1999-fppa9910006a)
 - [Arrêté du 19 août 1999 (EQUG9901235A)](arrete-du-19-aout-1999-equg9901235a)
 - [Arrêté du 19 avril 1999 (ECOP9900167A)](arrete-du-19-avril-1999-ecop9900167a)
 - [Arrêté du 19 février 1999 (DEFI9953002A)](arrete-du-19-fevrier-1999-defi9953002a)
