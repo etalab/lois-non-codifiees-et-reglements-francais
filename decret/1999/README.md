@@ -218,6 +218,7 @@
 - [Décret n°99-208 du 17 mars 1999 (FPPX9900026D)](decret-n99-208-du-17-mars-1999-fppx9900026d)
 - [Décret n°99-211 du 17 mars 1999 (MESX9900027D)](decret-n99-211-du-17-mars-1999-mesx9900027d)
 - [Décret n°99-499 du 17 juin 1999 (INTC9900118D)](decret-n99-499-du-17-juin-1999-intc9900118d)
+- [Décret n°99-376 du 17 mai 1999 (ECOT9951811D)](decret-n99-376-du-17-mai-1999-ecot9951811d)
 - [Décret n°89-749 du 18 octobre 1989 (DEFP8901692D)](decret-n89-749-du-18-octobre-1989-defp8901692d)
 - [Décret n°99-105 du 18 février 1999 (MESF9811349D)](decret-n99-105-du-18-fevrier-1999-mesf9811349d)
 - [Décret n°99-106 du 18 février 1999 (MESF9811350D)](decret-n99-106-du-18-fevrier-1999-mesf9811350d)
