@@ -118,6 +118,7 @@
 - [Décret n°90-601 du 11 juillet 1990 (MCCB9000404D)](decret-n90-601-du-11-juillet-1990-mccb9000404d)
 - [Décret n°2000-655 du 12 juillet 2000 (HRUX0000127D)](decret-n2000-655-du-12-juillet-2000-hrux0000127d)
 - [Décret n°2000-881 du 12 septembre 2000 (ECOI0020290D)](decret-n2000-881-du-12-septembre-2000-ecoi0020290d)
+- [Décret n°2000-901 du 12 septembre 2000 (EQUP0001345D)](decret-n2000-901-du-12-septembre-2000-equp0001345d)
 - [Décret n°2001-527 du 12 juin 2001 (MENF0100956D)](decret-n2001-527-du-12-juin-2001-menf0100956d)
 - [Décret n°2000-514 du 13 juin 2000 (INTC0000128D)](decret-n2000-514-du-13-juin-2000-intc0000128d)
 - [Décret n°2000-518 du 13 juin 2000 (ECOI0020066D)](decret-n2000-518-du-13-juin-2000-ecoi0020066d)
