@@ -4,9 +4,9 @@ Composition du conseil de perfectionnement.
 
 5.1. Le conseil de perfectionnement comprend les membres suivants :
 
-a) Le président, désigné par le ministre chargé de l'équipement sur proposition du directeur général de l'Institut géographique national.
+a) Le président, désigné pour trois ans par le ministre chargé de l'équipement sur proposition du directeur général de l'Institut géographique national.
 
-Le vice-président, désigné par le directeur général de l'Institut géographique national. Il supplée le président en cas d'empêchement de ce dernier.
+Le vice-président, désigné pour trois ans par le directeur général de l'Institut géographique national. Il supplée le président en cas d'empêchement de ce dernier.
 
 b) Six membres de droit :
 

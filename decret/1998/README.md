@@ -138,6 +138,8 @@
 - [Décret n°99-521 du 21 juin 1999 (EQUA9900464D)](decret-n99-521-du-21-juin-1999-equa9900464d)
 - [Décret n°96-1004 du 22 novembre 1996 (INTE9600286D)](decret-n96-1004-du-22-novembre-1996-inte9600286d)
 - [Décret n°90-427 du 22 mai 1990 (MENF9000781D)](decret-n90-427-du-22-mai-1990-menf9000781d)
+- [Décret n°98-109 du 23 février 1998 (MAEJ9830014D)](decret-n98-109-du-23-fevrier-1998-maej9830014d)
+- [Décret n°98-110 du 23 février 1998 (MAEJ9830015D)](decret-n98-110-du-23-fevrier-1998-maej9830015d)
 - [Décret n°98-1182 du 23 décembre 1998 (MENF9802883D)](decret-n98-1182-du-23-decembre-1998-menf9802883d)
 - [Décret n°98-49 du 23 janvier 1998 (EQUB9800012D)](decret-n98-49-du-23-janvier-1998-equb9800012d)
 - [Décret n°98-54 du 23 janvier 1998 (MENU9703766D)](decret-n98-54-du-23-janvier-1998-menu9703766d)
