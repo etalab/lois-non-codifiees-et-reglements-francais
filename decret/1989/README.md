@@ -1,6 +1,5 @@
 # 1989
 
-- [Décret n°67-759 du 1 septembre 1967](decret-n67-759-du-1-septembre-1967)
 - [Décret n°89-132 du 1 mars 1989 (EQUX8900026D)](decret-n89-132-du-1-mars-1989-equx8900026d)
 - [Décret n°89-136 du 1 mars 1989 (MCCK8900092D)](decret-n89-136-du-1-mars-1989-mcck8900092d)
 - [Décret n°89-137 du 1 mars 1989 (MCCK8900093D)](decret-n89-137-du-1-mars-1989-mcck8900093d)
