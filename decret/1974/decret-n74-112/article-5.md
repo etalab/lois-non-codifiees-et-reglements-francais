@@ -1,3 +1,3 @@
 # Article 5
 
-Le ministre de l'éducation nationale, le ministre de la santé publique et de la sécurité sociale, le secrétaire d'Etat auprès du ministre de l'éducation nationale et le secrétaire d'Etat auprès du ministre de la santé publique et de la sécurité sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret qui sera publié au Journal officiel de la République française.
+Pour être admis en première année dans les écoles préparant au diplôme d'Etat de psycho-rééducateur, les candidats doivent posséder le baccalauréat de l'enseignement du second degré ou un titre admis en dispense du baccalauréat en vue de l'inscription dans les facultés et établissements de l'enseignement supérieur.
