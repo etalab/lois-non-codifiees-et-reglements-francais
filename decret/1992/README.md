@@ -216,7 +216,6 @@
 - [Décret n°90-1087 du 5 décembre 1990 (EQUX9000144D)](decret-n90-1087-du-5-decembre-1990-equx9000144d)
 - [Décret n°92-117 du 5 février 1992 (TEFX9210023D)](decret-n92-117-du-5-fevrier-1992-tefx9210023d)
 - [Décret n°92-118 du 5 février 1992 (ACVP9120045D)](decret-n92-118-du-5-fevrier-1992-acvp9120045d)
-- [Décret n°92-1185 du 5 novembre 1992 (INTA9200476D)](decret-n92-1185-du-5-novembre-1992-inta9200476d)
 - [Décret n°92-1187 du 5 novembre 1992 (SANP9202703D)](decret-n92-1187-du-5-novembre-1992-sanp9202703d)
 - [Décret n°92-1188 du 5 novembre 1992 (MENX9210478D)](decret-n92-1188-du-5-novembre-1992-menx9210478d)
 - [Décret n°92-119 du 5 février 1992 (BUDF9200003D)](decret-n92-119-du-5-fevrier-1992-budf9200003d)
