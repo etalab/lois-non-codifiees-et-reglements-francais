@@ -43,6 +43,7 @@
 - [Décret n°82-370 du 4 mai 1982](decret-n82-370-du-4-mai-1982)
 - [Décret n°83-370 du 4 mai 1983](decret-n83-370-du-4-mai-1983)
 - [Décret n°90-380 du 4 mai 1990 (SPSS9000198D)](decret-n90-380-du-4-mai-1990-spss9000198d)
+- [Décret n°90-381 du 4 mai 1990 (ECOZ9000008D)](decret-n90-381-du-4-mai-1990-ecoz9000008d)
 - [Décret n°90-116 du 5 février 1990 (ECOZ9000002D)](decret-n90-116-du-5-fevrier-1990-ecoz9000002d)
 - [Décret n°90-120 du 5 février 1990 (AGRS8902382D)](decret-n90-120-du-5-fevrier-1990-agrs8902382d)
 - [Décret n°90-121 du 5 février 1990 (MCCK8900747D)](decret-n90-121-du-5-fevrier-1990-mcck8900747d)
