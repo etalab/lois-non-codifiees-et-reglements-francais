@@ -64,35 +64,39 @@ II. - Classes terminales :
 
 6. Classes terminales S.T.I. :
 
-1. Génie mécanique (quelle que soit l'option) ([*)
+1. Génie mécanique (quelle que soit l'option) (*)
 
-2. Génie des matériaux (*])
+2. Génie des matériaux (*)
 
-3. Génie électronique ([*)
+3. Génie électronique (*)
 
-4. Génie électrotechnique (*])
+4. Génie électrotechnique (*)
 
-5. Génie civil ([*)
+5. Génie civil (*)
 
-6. Génie énergétique (*])
+6. Génie énergétique (*)
 
 7. - Classes terminales S.T.L.
 
-1. Physique de laboratoire et de procédés industriels ([*)
+1. Physique de laboratoire et de procédés industriels (*)
 
-2. Chimie de laboratoire et de procédés industriels (*])
+2. Chimie de laboratoire et de procédés industriels (*)
 
 3. Biochimie - génie biologique
 
 8. Classes terminales S.M.S. :
 
-1. Sciences médico-sociales ([*)
+1. Sciences médico-sociales (*)
 
 9. Classes terminales S.T.T. :
 
 1. Economie - droit : 6 heures
 
-(*]) De 6 heures à 16 heures (en fonction des séries, des spécialités ainsi que de la nature du sujet).
+(*) De 6 heures à 16 heures (en fonction des séries, des spécialités ainsi que de la nature du sujet).
+
+10. Classe terminale hôtellerie :
+
+technologie et gestion hôtelières : de 4 à 8 heures
 
 III. - Classes de première et classes terminales :
 
