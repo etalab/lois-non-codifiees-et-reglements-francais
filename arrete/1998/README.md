@@ -80,6 +80,7 @@
 - [Arrêté du 3 mars 1998 (DEFC9850004A)](arrete-du-3-mars-1998-defc9850004a)
 - [Arrêté du 3 mars 1998 (MENE9703712A)](arrete-du-3-mars-1998-mene9703712a)
 - [Arrêté du 3 novembre 1997 (ECOR9707036A)](arrete-du-3-novembre-1997-ecor9707036a)
+- [Arrêté du 3 novembre 1998 (PRMP9860003A)](arrete-du-3-novembre-1998-prmp9860003a)
 - [Arrêté du 3 septembre 1998 (AGRP9801361A)](arrete-du-3-septembre-1998-agrp9801361a)
 - [Arrêté du 3 septembre 1998 (AGRP9801755A)](arrete-du-3-septembre-1998-agrp9801755a)
 - [Arrêté du 3 septembre 1998 (ECOS9850054A)](arrete-du-3-septembre-1998-ecos9850054a)

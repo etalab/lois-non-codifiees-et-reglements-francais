@@ -275,6 +275,7 @@
 - [Décret n°97-942 du 10 octobre 1997 (MENU9702930D)](decret-n97-942-du-10-octobre-1997-menu9702930d)
 - [Décret n°98-1020 du 10 novembre 1998 (ECOT9820061D)](decret-n98-1020-du-10-novembre-1998-ecot9820061d)
 - [Décret n°98-1021 du 10 novembre 1998 (ECOT9820092D)](decret-n98-1021-du-10-novembre-1998-ecot9820092d)
+- [Décret n°98-1022 du 10 novembre 1998 (ECOF9800024D)](decret-n98-1022-du-10-novembre-1998-ecof9800024d)
 - [Décret n°98-151 du 10 mars 1998 (MESF9810271D)](decret-n98-151-du-10-mars-1998-mesf9810271d)
 - [Décret n°98-156 du 10 mars 1998 (MESS9820682D)](decret-n98-156-du-10-mars-1998-mess9820682d)
 - [Décret n°98-160 du 10 mars 1998 (JUSE9740116D)](decret-n98-160-du-10-mars-1998-juse9740116d)
