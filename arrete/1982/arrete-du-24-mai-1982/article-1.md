@@ -1,3 +1,5 @@
 # Article 1
 
-La rémunération due par les professionnels, en application de l'article 191 de l'annexe III au code général des impôts, pour la détermination par les bureaux de garantie du titre des lingots, apprêts ou composants entrant dans leurs fabrications, est fixée, par opération, à 100 F pour l'or et le platine et à 60 F pour l'argent.
+La liste des pays francophones prévue à l'article 9 du décret du 12 mai 1981 susvisé est fixée ainsi qu'il suit :
+
+Algérie, Bénin, Burundi, Cameroun, Centrafrique, Congo, Comores, Côte-d'Ivoire, Djibouti, Gabon, Guinée, Haïti, Haute-Volta, Liban, Madagascar, Mali, Maroc, Maurice, Mauritanie, Monaco, Niger, Rwanda, Sénégal, Seychelles, Syrie, Tchad, Togo, Tunisie, Zaïre.
