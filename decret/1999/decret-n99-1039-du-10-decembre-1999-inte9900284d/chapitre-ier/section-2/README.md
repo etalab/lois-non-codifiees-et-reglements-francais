@@ -6,3 +6,4 @@
 - [Sous-section 4 : Discipline.](sous-section-4)
 - [Sous-section 5 : Suspension de l'engagement.](sous-section-5)
 - [Sous-section 6 : Cessation d'activité.](sous-section-6)
+- [Sous-section 7 : Cessation d'activité.](sous-section-7)
