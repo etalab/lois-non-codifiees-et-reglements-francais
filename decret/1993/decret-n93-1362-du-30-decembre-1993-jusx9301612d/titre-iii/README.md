@@ -1,4 +1,4 @@
-# Titre III : Des déclarations tendant à la répudiation de la nationalité française, à la renonciation à la faculté de répudiation et à la perte de la nationalité française en cas d'acquisition volontaire d'une nationalité étrangère.
+# Titre III : Des déclarations tendant à répudier ou à renoncer à répudier la nationalité française, à décliner cette nationalité ou à la perdre en cas d'acquisition volontaire d'une nationalité étrangère.
 
 - [Article 22](article-22.md)
 - [Article 23](article-23.md)

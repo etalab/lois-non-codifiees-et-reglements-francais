@@ -8,7 +8,7 @@ Elle mentionne en outre :
 
 2° L'objet de la déclaration et le motif sur lequel s'appuie le déclarant ;
 
-3° Le cas échéant, l'état civil des enfants mineurs étrangers du déclarant résidant avec lui de manière habituelle ;
+3° Le cas échéant, l'état civil des enfants mineurs étrangers du déclarant résidant avec lui de manière habituelle ou alternativement dans le cas de séparation ou de divorce.
 
 4° Les pièces produites par le déclarant pour justifier que les conditions de recevabilité de la déclaration sont remplies.
 

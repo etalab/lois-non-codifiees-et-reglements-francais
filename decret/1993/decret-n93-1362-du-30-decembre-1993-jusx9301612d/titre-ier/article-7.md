@@ -1,3 +1,0 @@
-# Article 7
-
-Lorsque la manifestation de volonté résulte de la participation volontaire aux opérations de recensement en vue de l'accomplissement du service national ou de la demande de certificat de nationalité française, le maire de la commune dans laquelle est effectuée la démarche pour le recensement en vue de l'accomplissement du service national, à Paris, Lyon ou Marseille, le maire de l'arrondissement où cette démarche est effectuée, ou le juge d'instance compétent en application de l'article 31-1 du code civil pour délivrer le certificat de nationalité, procèdent, selon le cas, conformément aux dispositions soit des articles 2 et 3, soit de l'article 6 du présent décret.

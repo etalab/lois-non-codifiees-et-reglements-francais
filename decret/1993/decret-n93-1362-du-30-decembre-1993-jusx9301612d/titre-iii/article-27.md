@@ -10,4 +10,4 @@ Pour exercer la faculté de répudiation de la nationalité française qui lui e
 
 4° Les documents justifiant que la résidence habituelle des époux est fixée à l'étranger ;
 
-5° Lorsque le déclarant est un Français de sexe masculin âgé de moins de trente-cinq ans, un document délivré par les autorités militaires françaises justifiant qu'il a satisfait aux obligations du service actif imposées par le code du service national ou qu'il en a été dispensé ou exempté.
+5° Lorsque le déclarant est un Français de moins de trente-cinq ans soumis aux obligations du livre II du code du service national, un document émanant des bureaux du service national justifiant qu'il a satisfait à ces obligations ou qu'il en a été dispensé ou exempté.

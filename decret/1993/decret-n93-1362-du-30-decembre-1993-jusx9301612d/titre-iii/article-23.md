@@ -4,9 +4,9 @@ Pour exercer la faculté de répudiation de la qualité de français qui lui est
 
 1° Un extrait de son acte de naissance ;
 
-2° Un certificat délivré par les autorités du pays dont il se réclame établissant qu'il a, par filiation, la nationalité de ce pays ainsi que les dispositions de la loi étrangère applicables ;
+2° Un certificat délivré par les autorités du pays dont il se réclame, établissant qu'il a, par filiation, la nationalité de ce pays ;
 
-3° Tous documents émanant des bureaux du service national établissant qu'il n'a pas contracté d'engagement dans les armées françaises ni participé volontairement aux opérations de recensement en vue de l'accomplissement du service national ;
+3° Tous documents émanant des bureaux du service national établissant qu'il n'a pas contracté d'engagement dans les armées françaises;
 
 4° Le certificat de nationalité française, les actes de l'état civil ou tous documents émanant des autorités françaises de nature à établir qu'il est français en vertu de l'article 19-3 du code civil et qu'il remplit la condition posée par l'article 19-4 du même code ;
 
