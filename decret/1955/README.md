@@ -10,4 +10,5 @@
 - [Décret n°55-1366 du 18 octobre 1955](decret-n55-1366-du-18-octobre-1955)
 - [Décret n°55-1390 du 18 octobre 1955](decret-n55-1390-du-18-octobre-1955)
 - [Décret n°55-1226 du 19 septembre 1955](decret-n55-1226-du-19-septembre-1955)
+- [Décret n°55-687 du 21 mai 1955](decret-n55-687-du-21-mai-1955)
 - [Décret n°55-1305 du 29 septembre 1955](decret-n55-1305-du-29-septembre-1955)
