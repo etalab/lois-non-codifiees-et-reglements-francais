@@ -1,0 +1,3 @@
+# Article 22
+
+Lorsque le trafic a cessé sur une ligne ou section de ligne du réseau, RFF peut, après consultation des régions concernées et de la SNCF, décider de fermer la ligne à tout trafic et procéder à la dépose de la voie sur cette ligne ou section de ligne. Au moins trois mois avant la date envisagée pour la fermeture de la ligne, il informe de son intention le ministre chargé des transports qui consulte les ministres ayant des attributions en matière de défense. RFF communique au ministre l'avis des régions concernées et de la SNCF. A défaut d'opposition du ministre chargé des transports dans un délai de deux mois à compter de la date à laquelle il a été informé du projet de fermeture, celui-ci est considéré comme approuvé.
