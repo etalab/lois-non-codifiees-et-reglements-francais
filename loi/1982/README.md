@@ -7,3 +7,4 @@
 - [Loi n° 82-4 du 6 janvier 1982](loi-n-82-4-du-6-janvier-1982)
 - [Loi n°82-1 du 4 janvier 1982](loi-n82-1-du-4-janvier-1982)
 - [Loi n°82-3 du 6 janvier 1982](loi-n82-3-du-6-janvier-1982)
+- [Loi n°82-6 du 7 janvier 1982](loi-n82-6-du-7-janvier-1982)

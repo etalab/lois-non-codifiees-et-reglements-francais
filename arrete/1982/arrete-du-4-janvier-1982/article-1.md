@@ -1,3 +1,9 @@
 # Article 1
 
-L'actualisation des taux de la taxe intérieure de consommation sur les produits pétroliers et assimilés, prévue à l'article 25 de la loi de finances susvisée, prend effet le 7 janvier 1982 à zéro heure.
+Le taux de la taxe perçue sur certaines viandes et destinée au fonds national de développement agricole est fixé comme suit par kilogramme net de viande :
+
+Pour la viande de boeuf et la viande de veau : 0,23 p. 100 du prix d'orientation communautaire défini pour un kilogramme de poids vif de gros bovins ;
+
+Pour la viande de porc : 0,25 p. 100 du prix de base communautaire pour un kilogramme de viande de porc abattu ;
+
+Pour la viande de mouton : 0,09 p. 100 du prix de référence communautaire fixé pour un kilogramme de viande de mouton.

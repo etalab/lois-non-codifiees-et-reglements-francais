@@ -1,4 +1,4 @@
-# Arrêté du 4 janvier 1982 TAUX DE LA TAXE INTERIEURE DE CONSOMMATION SUR LES PRODUITS PETROLIERS ET ASSIMILES
+# Arrêté du 4 janvier 1982 Taxe parafiscale sur certaines viandes destinée à alimenter le fonds national de développement agricole.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
