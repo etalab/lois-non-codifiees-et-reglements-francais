@@ -205,6 +205,7 @@
 - [Arrêté du 10 mai 1999 (EQUA9900530A)](arrete-du-10-mai-1999-equa9900530a)
 - [Arrêté du 10 mai 1999 (EQUE9900536A)](arrete-du-10-mai-1999-eque9900536a)
 - [Arrêté du 10 mai 1999 (MENS9901032A)](arrete-du-10-mai-1999-mens9901032a)
+- [Arrêté du 11 août 1999 (MENS9901783A)](arrete-du-11-aout-1999-mens9901783a)
 - [Arrêté du 11 février 1999 (ECOI9920051A)](arrete-du-11-fevrier-1999-ecoi9920051a)
 - [Arrêté du 11 janvier 1999 (DEFA9901033A)](arrete-du-11-janvier-1999-defa9901033a)
 - [Arrêté du 11 janvier 1999 (ECOC9800191A)](arrete-du-11-janvier-1999-ecoc9800191a)
