@@ -1,11 +1,15 @@
 # Article 2
 
-Les dispositions du présent décret sont applicables à tout transport d'animaux vertébrés vivants effectué sur une distance de plus de 50 kilomètres.
+Les dispositions du présent décret sont applicables à tout transport d'animaux vertébrés vivants.
 
-Elles ne sont toutefois pas applicables :
+Toutefois, elles ne sont pas applicables :
 
-1° Aux transports privés sans but lucratif en vue de la transhumance saisonnière ;
+a) Au transport d'un animal accompagnant une personne physique qui a la responsabilité de l'animal durant le transport ;
 
-2° Aux transports d'animaux vivants effectués dans un but privé par les personnes qui les ont en charge et aux transports d'animaux familiers ou de compagnie accompagnés de leur propriétaire ou de leur gardien.
+b) Au transport d'animaux familiers ou de compagnie accompagnant leur propriétaire ou leur gardien au cours d'un voyage privé ;
 
-Dans le cas prévu au 2° ci-dessus, le transport d'animaux dans les voitures particulières et, lorsqu'il est autorisé, dans les véhicules de transport en commun, est effectué sous la responsabilité de l'accompagnateur de telle sorte que les animaux disposent d'un espace et d'une aération répondant à leurs besoins vitaux.
+c) Aux transports privés sans but lucratif en vue de la transhumance saisonnière ;
+
+d) Aux transports d'animaux vivants effectués sans but lucratif, pour compte propre ou pour le compte de tiers, sur une distance de moins de 50 kilomètres.
+
+Dans les cas prévus aux a et b ci-dessus, le transport d'animaux dans des voitures particulières et, lorsqu'il est autorisé, dans des véhicules de transport en commun est effectué sous la responsabilité de l'accompagnateur de telle sorte que les animaux disposent d'un espace et d'une aération répondant à leurs besoins vitaux.
