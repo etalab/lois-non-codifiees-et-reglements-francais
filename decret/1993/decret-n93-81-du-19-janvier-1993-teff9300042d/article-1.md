@@ -1,7 +1,3 @@
 # Article 1
 
-La convention constitutive d'un groupement d'intérêt public dans le domaine de la formation et de l'orientation professionnelles, mentionné à l'article 26 de la loi du 17 juillet 1992 susvisée, ainsi que ses avenants éventuels sont approuvés par arrêté du ministre chargé de la formation professionnelle et du ministre chargé du budget.
-
-Pour les groupements comprenant des établissements qui relèvent de l'autorité ou du contrôle d'autres départements ministériels, l'arrêté d'approbation est également signé par le ou les ministres compétents.
-
-Les ministres peuvent déléguer ce pouvoir, par arrêté conjoint, aux préfets de région.
+La convention constitutive du groupement d'intérêt public est approuvée par arrêté du préfet de région. Lorsque le ressort géographique du groupement d'intérêt public excède les limites d'une région, cet arrêté est pris par le préfet de la région dans laquelle est situé son siège social.
