@@ -1,6 +1,6 @@
 # Article 126
 
-Les concours externes et internes d'accés aux différents corps régis par le présent décret sont ouverts à tous les candidats qui remplissent les conditions requises, quels que soient leur lieu de résidence ou leur établissement d'affectation.
+Les concours externes et internes d'accès aux différents corps régis par le présent décret ainsi que les concours prévus au 3° des articles 26 et 35 du présent décret sont ouverts à tous les candidats qui remplissent les conditions requises, quels que soient leur lieu de résidence ou leur établissement d'affectation.
 
 Ils sont organisés par branche d'activité professionnelle et emplois types définis conformément aux dispositions des articles 9 et 74 ci-dessus. Toutefois les concours internes peuvent être organisés par branche d'activité professionnelle ou par regroupement de branches d'activité professionnelle.
 

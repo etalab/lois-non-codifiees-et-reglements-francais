@@ -43,3 +43,9 @@ b) Aux fonctionnaires régis par des statuts particuliers pris en application de
 c) Aux fonctionnaires appartenant à un corps dont l'échelonnement indiciaire est au moins équivalent à celui d'un corps de catégorie B et remplissant les conditions de services fixées au a ;
 
 d) Aux agents non titulaires assurant des fonctions du niveau de la catégorie A ou B, dotés d'une rémunération au moins équivalente à celle des corps mentionnés au a et remplissant les mêmes conditions de services.
+
+3° Des troisièmes concours sont ouverts aux candidats qui justifient, au 1er septembre de l'année du concours, de l'exercice durant quatre ans au moins d'une ou plusieurs des activités ou d'un ou plusieurs des mandats mentionnés au 3° de l'article 19 de la loi du 11 janvier 1984 susvisée.
+
+Les activités professionnelles prises en compte doivent avoir été exercées dans le domaine de l'éducation, de la formation ou de la recherche.
+
+Les périodes au cours desquelles l'exercice d'une ou plusieurs activités ou d'un ou plusieurs mandats aura été simultané ne sont prises en compte qu'à un seul titre.
