@@ -14,24 +14,24 @@ L'annexe I du présent arrêté précise l'orientation de cette épreuve.
 
 2° Une composition rédigée en quatre heures portant, au choix du candidat, sur l'une des matières suivantes (coefficient 3) :
 
-- droit public et questions administratives (annexe II) ;
+Législation de sécurité sociale (annexe IV) ;
 
-- droit du travail (annexe III) ;
+Législation d'aide sociale (annexe V) ;
 
-- législation de sécurité sociale (annexe IV) ;
-
-- législation d'aide sociale (annexe V) ;
-
-- santé publique (annexe VI).
+Droit des établissements sociaux et médico-sociaux (annexe IX).
 
 Le choix du candidat est exprimé avant la clôture des inscriptions.
 
 3° Une composition rédigée en trois heures portant, au choix du candidat, sur l'une des matières suivantes (coefficient 3) :
 
-- finances publiques (annexe VII) ;
+Finances publiques (annexe VII) ;
 
-- économie (annexe VIII) ;
+Economie (annexe VIII) ;
 
-- droit des établissements sociaux et médico-sociaux (annexe IX).
+Droit public et questions administratives (annexe II) ;
+
+Droit du travail (annexe III) ;
+
+Santé publique (annexe VI).
 
 Le choix du candidat est exprimé avant la clôture des inscriptions.

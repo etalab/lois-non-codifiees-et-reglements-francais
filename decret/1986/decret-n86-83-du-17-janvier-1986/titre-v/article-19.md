@@ -1,27 +1,35 @@
 # Article 19
 
-Pour l'agent non titulaire, utilisé de manière continue et ayant été employé de manière permanente, justifiant d'une ancienneté minimale d'un an à la date de la naissance ou de l'arrivée au foyer d'un enfant de moins de trois ans confié en vue de son adoption, le congé parental est accordé de droit sur sa demande :
+I. - Pour l'agent non titulaire employé de manière continue et justifiant d'une ancienneté minimale d'un an à la date de naissance de son enfant ou de l'arrivée au foyer d'un enfant qui est adopté ou confié en vue de son adoption et qui n'a pas encore atteint l'âge de la fin de l'obligation scolaire, le congé parental est accordé de droit sur sa demande :
 
-- à la mère après un congé de maternité ou un congé d'adoption d'un enfant âgé de moins de trois ans ;
+- à la mère, après un congé de maternité, après un congé d'adoption ou à l'arrivée au foyer de l'enfant adopté ;
 
-- au père, après la naissance ou à l'arrivée au foyer de l'enfant adopté.
+- au père, après la naissance, après un congé d'adoption ou à l'arrivée au foyer de l'enfant adopté.
 
-Il prend fin au plus tard au troisième anniversaire de l'enfant ou, en cas d'adoption, à l'expiration d'un délai de trois ans à compter de l'arrivée au foyer de l'enfant de moins de trois ans.
+Il prend fin au plus tard au troisième anniversaire de l'enfant ou, en cas d'adoption à l'expiration d'un délai de trois ans, à compter de l'arrivée au foyer de l'enfant de moins de trois ans, ou à l'expiration d'un délai d'un an à compter de l'arrivée au foyer d'un enfant âgé de trois ans ou plus qui n'a pas atteint l'âge de la fin de l'obligation scolaire.
 
-La demande de congé parental doit être présentée un mois au moins avant le début du congé demandé. Le congé parental est accordé par l'autorité investie du pouvoir de nomination dont relèvent les intéressés.
+II. - La demande de congé parental doit être présentée au moins un mois avant le début du congé demandé. Le congé parental est accordé par l'autorité investie du pouvoir de nomination dont relèvent les intéressés.
 
-Sous réserve de règles particulières prévues à l'égard de certaines catégories de personnel par arrêté conjoint du ministre du budget, du ministre chargé de la fonction publique et du ministre intéressé, le congé parental est accordé par périodes de sis mois renouvelables par tacite reconduction pour prendre fin au plus tard au terme de la période définie au deuxième alinéa du présent article. L'agent qui souhaite écourter son congé parental doit en avertir son administration par lettre recommandée, un mois au moins avant l'expiration de la période de six mois en cours.
+Sous réserve de règles particulières prévues à l'égard de certaines catégories de personnel par arrêté conjoint du ministre du budget, du ministre chargé de la fonction publique et du ministre intéressé, le congé parental est accordé par périodes de six mois renouvelables. Les demandes de renouvellement doivent être présentées deux mois au moins avant l'expiration de la période de congé parental en cours, sous peine de cessation de plein droit du bénéfice du congé parental.
 
-Si une nouvelle naissance ou adoption intervient alors que l'agent bénéficie déjà d'un congé parental, l'intéressé a droit, du chef de son nouvel enfant et à compter de la naissance de celui-ci ou de l'arrivée au foyer de l'enfant adopté, à une prolongation du congé parental jusqu'au troisième anniversaire du nouvel enfant ou jusqu'au terme de la période de trois ans à compter de l'arrivée au foyer du nouvel enfant adopté. La demande doit en être formulée un mois au moins avant la date présumée de la naissance ou de l'arrivée de l'enfant.
+A l'expiration de l'une des périodes de six mois de congé parental l'agent peut renoncer au bénéfice du congé parental au profit de l'autre parent agent non titulaire, pour la ou les périodes restant à courir jusqu'à la limite maximale définie ci-dessus. La demande doit être présentée dans le délai de deux mois avant l'expiration de la période en cours.
 
-L'autorité qui a accordé le congé parental peut à tout moment faire procéder aux enquêtes nécessaires pour s'assurer que l'activité de l'agent bénéficiaire du congé est réellement consacrée à élever son enfant.
+La dernière période de congé parental peut être inférieure à six mois pour assurer le respect de l'expiration des délais mentionnés ci-dessus.
 
-Le congé parental cesse de plein droit en cas de décès de l'enfant ou de retrait de l'enfant placé en vue de son adoption. Il peut également être écourté si un contrôle révèle que l'activité de l'agent n'est pas réellement consacrée à élever son enfant.
+Si une nouvelle naissance ou adoption intervient alors que l'agent bénéficie déjà d'un congé parental, l'intéressé a droit, du chef de son nouvel enfant, à une prolongation du congé parental, pour une durée de trois ans au plus à compter de la naissance ou de l'arrivée au foyer de l'enfant lorsque celui-ci est âgé de moins de trois ans, et d'un an au plus à compter de l'arrivée au foyer de l'enfant adopté lorsque celui-ci est âgé de trois ans ou plus et n'a pas atteint l'âge de la fin de l'obligation scolaire. La demande doit en être formulée un mois au moins avant la date présumée de la naissance ou de l'arrivée au foyer de l'enfant.
 
-La durée du congé parental est prise en compte pour moitié dans la détermination des avantages liés à l'ancienneté.
+III. - La durée du congé parental est prise en compte pour moitié dans la détermination des avantages liés à l'ancienneté.
 
-L'agent non titulaire ne peut être réemployé au terme du congé parental que s'il en formule la demande par lettre recommandée au plus tard un mois avant ce terme. A défaut d'une telle demande, l'agent est considéré comme démissionnaire.
+IV. - L'autorité qui a accordé le congé parental peut faire procéder aux enquêtes nécessaires pour s'assurer que l'activité de l'agent bénéficiaire du congé est réellement consacrée à élever l'enfant. Si le contrôle révèle que le congé n'est pas utilisé à cette fin, il peut y être mis fin après que l'agent ait été invité à présenter ses observations.
 
-Au terme du congé parental, s'il a formulé la demande visée à l'alinéa précédent, ou à l'issue de la période de six mois en cours, si l'agent a averti son administration qu'il souhaitait écourter son congé ou un mois au plus tard après que le congé ait cessé de plein droit ou à la suite d'un contrôle administratif, l'agent physiquement apte est réemployé dans la mesure permise par le service dans les conditions définies à l'article 32 ci-dessous. Il ne peut prétendre à une nouvelle période de congé parental du chef du même enfant.
+Le congé parental cesse de plein droit en cas de décès de l'enfant ou de retrait de l'enfant placé en vue de son adoption.
+
+L'agent en congé parental peut demander que la durée du congé soit écourtée en cas de nouvelle naissance ou pour motif grave, notamment en cas de diminution des revenus du ménage.
+
+V. - Au terme du congé parental ou un mois au plus tard après que le congé ait cessé de plein droit, l'agent est réemployé sur son précédent emploi, sous réserve, pour l'agent recruté sur un contrat à durée déterminée, que le terme de celui-ci soit postérieur à la date à laquelle la demande de réemploi est formulée et, dans ce cas, pour la période restant à courir avant le terme du contrat. Dans le cas où cet emploi ne peut lui être proposé, l'agent est réemployé dans un emploi équivalent, le plus près possible de son dernier lieu de travail, assorti d'une rémunération au moins équivalente.
+
+Lorsqu'il est mis un terme au congé parental à la suite d'un contrôle administratif, l'agent est réemployé dans les conditions prévues aux articles 32 et 33 du présent décret.
+
+L'agent qui a réintégré son emploi ou un emploi équivalent ne peut prétendre à une nouvelle période de congé parental du chef du même enfant.
 
 Le congé parental peut être demandé à l'occasion de chaque naissance ou de chaque adoption.

@@ -8,7 +8,7 @@ Dans cette situation, nonobstant les dispositions de l'article L. 419 du livre I
 
 - pendant deux mois après deux ans de services ;
 
-- pendant trois mois après quatre ans de services.
+- pendant trois mois après trois ans de services.
 
 A l'expiration de la période de rémunération à plein traitement, l'intéressé bénéficie des indemnités journalières prévues dans le code susvisé qui sont servies :
 

@@ -10,6 +10,4 @@ Toutefois l'indemnité de licenciement n'est pas due à l'agent qui remplit les 
 
 4° Est démissionnaire de ses fonctions ;
 
-5° Est licencié pour inaptitude physique sauf lorsque cette inaptitude résulte d'un accident du travail ou d'une maladie professionnelle survenu ou contracté au service de l'administration employeur ;
-
-6° A été engagé pour effectuer des vacations.
+5° A été engagé pour effectuer des vacations.

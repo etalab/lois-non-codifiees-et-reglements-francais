@@ -56,8 +56,6 @@ Chef du service économie agricole et agroalimentaire de la Corrèze ;
 
 Chef du service de l'économie agricole de la Manche ;
 
-Chef du service économie et production agricole du Nord ;
-
 Chef du service environnement-aménagement hydraulique et foncier de l'Aveyron ;
 
 Chef du service des équipements publics ruraux du Vaucluse ;
@@ -68,6 +66,22 @@ Adjoint au directeur des services agricoles de la collectivité territoriale de 
 
 Directeur du haras de Villeneuve-sur-Lot ;
 
-Directeur du centre de formation des personnels du ministère de l'agriculture, à Nancy.
+Directeur du centre de formation des personnels du ministère de l'agriculture, à Nancy ;
 
-Responsable de la délégation générale aux missions d'ingénierie publique.
+Responsable de la délégation générale aux missions d'ingénierie publique ;
+
+Chef du service Economie agricole de la Loire-Atlantique ;
+
+Adjoint au directeur départemental de l'agriculture et de la forêt du Puy de Dôme ;
+
+Chef du service Economie agricole des Hautes Pyrénées ;
+
+Chef du service régional de la protection des végétaux du Limousin ;
+
+Chef du service régional des haras de Champagne-Ardennes ;
+
+Chef du service des haras d'Auvergne ;
+
+Chef du service économie agricole agroalimentaire du gers.
+
+Chef du service économie agricole du Loiret ;
