@@ -409,6 +409,7 @@
 - [Décret n°96-560 du 18 juin 1996 (MENN9600421D)](decret-n96-560-du-18-juin-1996-menn9600421d)
 - [Décret n°96-561 du 18 juin 1996 (MENU9601327D)](decret-n96-561-du-18-juin-1996-menu9601327d)
 - [Décret n°96-563 du 18 juin 1996 (ENVE9640031D)](decret-n96-563-du-18-juin-1996-enve9640031d)
+- [Décret n°96-821 du 18 septembre 1996 (INTA9600250D)](decret-n96-821-du-18-septembre-1996-inta9600250d)
 - [Décret n°97-793 du 18 août 1997 (MESG9710904D)](decret-n97-793-du-18-aout-1997-mesg9710904d)
 - [Décret du 19 mars 1996 (FCEC9600013D)](decret-du-19-mars-1996-fcec9600013d)
 - [Décret du 19 mars 1996 (FCEC9600014D)](decret-du-19-mars-1996-fcec9600014d)
