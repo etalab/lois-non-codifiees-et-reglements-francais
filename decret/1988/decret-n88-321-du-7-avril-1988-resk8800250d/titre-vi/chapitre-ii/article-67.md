@@ -1,3 +1,0 @@
-# Article 67
-
-Les internes peuvent, sans que leur soient opposables les conditions prévues à l'article 33 du présent décret, effectuer des stages dans la ou les circonscriptions dont les universités sont habilitées à délivrer conjointement le diplôme d'études spécialisées qu'ils postulent. Lorsque, de ce fait, ils choisissent un poste hors de leur circonscription d'origine, ils participent au choix des postes dans la circonscription d'accueil dans les conditions applicables à l'ensemble des internes. Leur ancienneté de fonctions dans la circonscription d'origine est assimilée à une ancienneté équivalente dans la circonscription d'accueil.

@@ -1,5 +1,0 @@
-# Article 38
-
-Sans préjudice des pouvoirs généraux de tutelle et de contrôle, lorsqu'un établissement entrant dans le champ d'application du présent décret connaît des difficultés de fonctionnement ou de gestion, le préfet peut soumettre ceux-ci à l'examen d'une mission d'enquête, qui peut comprendre le trésorier-payeur général du département, le directeur régional et le directeur départemental des affaires sanitaires et sociales, le directeur départemental de la concurrence et de la consommation et, pour les établissements concourant à l'insertion professionnelle des personnes accueillies, le directeur départemental du travail et de l'emploi, ou leurs représentants.
-
-La mission d'enquête peut procéder à l'audition de toute personne qu'elle juge utile d'entendre. Le préfet communique les conclusions de la mission d'enquête au président du conseil d'administration de l'établissement public ou au responsable de l'organisme gestionnaire ; il propose les mesures de nature à remédier aux difficultés de fonctionnement ou de gestion constatées.

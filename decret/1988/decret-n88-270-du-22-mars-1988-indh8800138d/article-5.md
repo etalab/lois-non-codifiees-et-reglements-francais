@@ -1,3 +1,0 @@
-# Article 5
-
-Pour satisfaire aux obligations définies par les articles 1er et 2 du présent décret, les titulaires d'autorisation spéciale d'importation et de mise à la consommation de produits dérivés du pétrole ou des personnes autres que la Sagess, mais autorisées par une décision du ministre chargé des hydrocarbures, après avis de la commission interministérielle des dépôts d'hydrocarbures, pourront mettre des stocks à disposition des assujettis et de la société. Les contrats passés à cet effet par la Sagess ou par un titulaire d'autorisation spéciale avec un tiers devront être approuvés par le ministre chargé des hydrocarbures.

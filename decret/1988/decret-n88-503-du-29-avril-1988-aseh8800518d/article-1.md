@@ -1,3 +1,0 @@
-# Article 1
-
-La réduction de capacité à laquelle est subordonnée l'autorisation de regroupement prévue au deuxième alinéa de l'article 33 de la loi du 31 décembre 1970 susvisée est égale à 80 p. 100 du rapport entre, d'une part, l'excédent de lits constaté dans la discipline en cause sur les besoins du secteur tels qu'ils résultent de la carte sanitaire et, d'autre part, le nombre de lits précédemment autorisé dans ce secteur. Le résultat obtenu est, le cas échéant, arrondi au nombre entier le plus proche. Il ne peut toutefois être exigé de réduction de capacité supérieure à 20 p. 100 du nombre total des lits des établissements ou services faisant l'objet du regroupement, à l'exception du plus important d'entre eux.

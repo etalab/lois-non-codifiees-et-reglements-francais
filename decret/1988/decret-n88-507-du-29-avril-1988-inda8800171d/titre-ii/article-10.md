@@ -1,3 +1,0 @@
-# Article 10
-
-Les ingénieurs stagiaires recrutés au titre du I a et du I c de l'article 4 ci-dessus accomplissent un stage d'une durée d'un an. Ils sont titularisés à l'issue de leur stage s'ils sont reconnus aptes à exercer leurs fonctions. Les stagiaires non titularisés sont, par décision du ministre chargé de l'industrie, soit autorisés à poursuivre leur stage pendant une année de plus, soit remis à la disposition de leur administration d'origine, soit licenciés. La durée du stage est prise en compte pour l'avancement d'échelon dans la limite d'un an. Un arrêté du ministre chargé de l'industrie et du ministre chargé de la fonction publique pris après avis du conseil général des mines prévoit les modalités du stage.

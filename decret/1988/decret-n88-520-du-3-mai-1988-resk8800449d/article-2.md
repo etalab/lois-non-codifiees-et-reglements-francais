@@ -1,5 +1,0 @@
-# Article 2
-
-Les missions des services mentionnés à l'article 1er sont fixées, conformément aux lois et règlements en vigueur, dans les conditions prévues aux articles 4 et 10 du présent décret. Elles doivent obligatoirement comprendre, conformément à l'article L. 191 du code de la santé publique, l'organisation d'un contrôle médical préventif des étudiants. Un arrêté conjoint du ministre chargé de l'enseignement supérieur et du ministre chargé de la santé définira le contenu et les modalités des prestations médicales de caractère obligatoire assumées par les services mentionnés à l'article 1er. Ces prestations médicales englobent les soins d'urgence.
-
-A l'initiative des universités, d'autres missions de prévention et d'éducation sanitaire peuvent être confiées à ces services, telles que les conférences, les campagnes de prévention, l'action sur l'environnement et, lorsque des moyens appropriés sont mis à leur disposition, des actions de médecine du sport et une contribution à la médecine de prévention des personnels.

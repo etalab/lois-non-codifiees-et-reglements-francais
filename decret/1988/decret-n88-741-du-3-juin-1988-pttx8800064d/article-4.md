@@ -1,3 +1,0 @@
-# Article 4
-
-Le Premier ministre, le ministre d'Etat, ministre de l'éducation nationale, de la recherche et des sports, le ministre de la défense, le ministre de l'industrie, du commerce extérieur et de l'aménagement du territoire, le ministre de la culture et de la communication, le ministre des postes et télécommunications et de l'espace et le ministre délégué auprès du ministre d'Etat, ministre de l'éducation nationale, de la recherche et des sports, chargé de la recherche, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

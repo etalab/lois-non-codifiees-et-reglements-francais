@@ -1,5 +1,0 @@
-# Article 1
-
-Dans les domaines relevant de l'inspection de la législation du travail visés à l'article 7 du décret n° 82-389 du 10 mai 1982 et à l'article 6 du décret n° 82-390 du 10 mai 1982, délégation de compétence est donnée par le ministre chargé du travail aux directeurs régionaux du travail et de l'emploi à l'effet de représenter l'Etat devant les tribunaux administratifs dans les litiges nés dans le ressort de la région et relatifs aux décisions fondées sur les dispositions législatives et réglementaires du code du travail, prises soit par eux-mêmes, soit par les directeurs départementaux du travail et de l'emploi, soit par les inspecteurs du travail, soit par les fonctionnaires de contrôle assimilés placés sous la responsabilité du ministre chargé du travail.
-
-Toutefois, les dispositions de l'alinéa précédent ne s'appliquent ni aux recours de plein contentieux ni aux recours en annulation pour excès de pouvoir, dès lors que le ministre est saisi d'un recours hiérarchique contre la décision.

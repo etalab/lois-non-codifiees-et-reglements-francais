@@ -1,3 +1,0 @@
-# Article 1
-
-Le nombre de nominations qui peuvent être prononcées chaque année en application de l'article 6 de la loi n° 87-1127 du 31 décembre 1987 est fixé par un arrêté conjoint du ministre de l'intérieur et du ministre chargé de la fonction publique. Cet arrêté détermine également la répartition par grade des emplois offerts et fixe la date limite de dépôt des candidatures. Toutefois, les places offertes en vue du recrutement de conseillers hors classe qui n'auraient pu être attribuées aux candidats à ce recrutement peuvent, par décision de la commission de sélection, être ajoutées au nombre de places offertes au titre du recrutement de conseillers de 1re classe.

@@ -1,3 +1,0 @@
-# Article 2
-
-Pour l'exercice de ses attributions, le ministre délégué auprès du ministre des affaires sociales et de l'emploi, chargé de la famille, des droits de la femme, de la solidarité et des rapatriés, dispose de la direction de l'action sociale, de la direction de la population et des migrations, de la délégation à la condition féminine, du service central des rapatriés, de la délégation pour l'accueil et le reclassement des rapatriés et fait appel, en tant que de besoin, aux autres services du ministère des affaires sociales et de l'emploi ainsi qu'à l'Agence nationale pour l'indemnisation des rapatriés.

@@ -1,3 +1,0 @@
-# Article 19
-
-Peuvent être inscrits au tableau d'avancement à la 1ère classe de leur grade les attachés de 2e classe ayant accompli treize ans de services effectifs dans le grade ou dans un corps de catégorie A. La durée du service militaire obligatoire ou du service national actif effectivement accompli vient, le cas échéant, en déduction de ces treize années ; il en est de même de la fraction qui excède la douzième année de l'ancienneté déterminée dans un corps de catégorie B en application de l'article 11. Ces déductions ne peuvent toutefois avoir pour effet de réduire à moins de deux ans et six mois la durée des services effectivement accomplis au 7e échelon de la 2e classe.

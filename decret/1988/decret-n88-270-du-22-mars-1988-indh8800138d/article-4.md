@@ -1,5 +1,0 @@
-# Article 4
-
-Pour la constitution des stocks définis à l'article 1er, les titulaires sont autorisés à substituer aux produits mentionnés ci-dessus une quantité de pétrole brut ou de produits intermédiaires du raffinage dont ils disposent sur le territoire de la métropole soit eux-mêmes directement, soit par voie d'accord ou d'échange. Le montant de cette substitution est fixé par le ministre chargé des hydrocarbures, après avis de la commission interministérielle prévue à l'article 2 de la loi de 1928 susvisée, dans la limite de 40 p. 100 pour les trois premières catégories et de 50 p. 100 pour la catégorie fuels lourds des quantités prévues audit article.
-
-La quantité de pétrole brut ou de produits intermédiaires du raffinage substituée à des produits finis sera prise en compte d'après le rapport existant entre, d'une part, la quantité globale des produits assujettis à l'obligation de stockage fabriqués en France au cours de l'année civile précédente et, d'autre part, la quantité de pétrole brut utilisée durant la même année pour ces fabrications. Le ministre chargé des hydrocarbures publie annuellement la valeur de ce rapport.

@@ -1,5 +1,0 @@
-# Article 7
-
-Nonobstant les dispositions des articles 5 et 6 ci-dessus, les dérogations au statut général des fonctionnaires de l'Etat, prises par application de dispositions dudit statut, font l'objet, en ce qui concerne les fonctionnaires des administrations parisiennes, de décrets en Conseil d'Etat ; lorsque la disposition correspondante de la fonction publique de l'Etat prévoit la consultation du Conseil supérieur de la fonction publique de l'Etat, il est procédé à la consultation du Conseil supérieur des administrations parisiennes.
-
-Les suppressions d'emplois par mesure d'économie ou de réorganisation des services sont décidées après avis du comité technique paritaire. Les fonctionnaires occupant ces emplois sont reclassés dans l'un des emplois vacants similaires des administrations parisiennes ou en surnombre provisoire dans l'un des emplois similaires de leur administration d'origine. Toutefois, ils peuvent demander à percevoir une indemnité de départ égale à un mois de traitement par année de service.

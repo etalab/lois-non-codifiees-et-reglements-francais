@@ -1,3 +1,0 @@
-# PROGRAMME DES EPREUVES D'ADMISSION : CONCOURS EXTERNE.
-
-- [Article ANNEXE III](article-annexe-iii.md)

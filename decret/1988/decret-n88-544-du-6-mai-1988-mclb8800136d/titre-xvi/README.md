@@ -1,3 +1,0 @@
-# TITRE XVI : DISPOSITIONS TRANSITOIRES.
-
-- [Article 53](article-53.md)

@@ -1,3 +1,0 @@
-# Article 5
-
-La détention en vue de la vente, la mise en vente, la vente, l'offre ou la distribution à titre gratuit, l'utilisation et l'importation sous tous régimes douaniers à l'exclusion du transit des produits suivants sont interdites s'ils contiennent des fibres d'amiante définies à l'article 1er du présent décret : jouets, matériaux ou préparations destinés à être appliqués par flocage ; produits finis sous forme de poudre destinés à la vente au détail au public ; articles pour fumeurs, notamment les pipes à tabac, porte-cigarettes et porte-cigares ; tamis catalytiques et dispositifs d'isolation des appareils de chauffage utilisant du gaz liquéfié ; peintures et vernis.

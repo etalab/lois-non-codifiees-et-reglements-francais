@@ -1,3 +1,0 @@
-# Article 2
-
-Sous réserve des dispositions du présent décret, les règles applicables aux fonctionnaires des administrations parisiennes sont celles du régime général des fonctionnaires de l'Etat et de ses modalités d'application, notamment en matière d'organismes consultatifs, d'accès à la fonction publique, d'exercice du droit syndical, de structure des carrières, de positions, de notation, d'avancement, de mutation, de reclassement, de modalités de calcul du traitement, de l'indemnité de résidence et du supplément familial de traitement, de formation, d'hygiène et de sécurité ainsi que de prévention médicale, de discipline et de cessation définitive de fonctions.
