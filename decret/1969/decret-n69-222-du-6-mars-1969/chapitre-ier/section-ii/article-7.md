@@ -9,3 +9,5 @@ III. - Par dérogation au deuxième alinéa de l'article 55 de la loi du 11 janv
 IV. - Par dérogation au deuxième alinéa de l'article 9 du décret n° 59-308 du 14 février 1959 relatif aux conditions générales de notation et d'avancement des fonctionnaires, la répartition des réductions de la durée moyenne des services requise pour accéder d'un échelon à l'échelon supérieur n'est pas soumise à l'avis de la commission administrative paritaire.
 
 V.- Le pouvoir de prononcer, à l'encontre des ministres plénipotentiaires, les sanctions des premier et deuxième groupes définies à l'article 66 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat est délégué au ministre des affaires étrangères.
+
+Il saisit la commission administrative paritaire siégeant en conseil de discipline lorsque sa consultation est nécessaire.
