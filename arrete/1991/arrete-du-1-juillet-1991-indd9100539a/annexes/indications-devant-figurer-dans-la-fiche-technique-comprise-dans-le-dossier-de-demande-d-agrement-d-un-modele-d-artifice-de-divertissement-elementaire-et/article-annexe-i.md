@@ -22,6 +22,8 @@ Préciser en particulier, s'il y a lieu, l'altitude de fonctionnement, la durée
 
 Indication et description de l'effet (lumineux, fumigène, sonore, etc.).
 
+Indication de la distance de sécurité par rapport au public à respecter impérativement lors du tir de l'artifice de divertissement.
+
 5. Description de l'artifice et de ses variantes dans l'état où il est vendu par le demandeur.
 
 5.1. Description de l'artifice élémentaire complet et des pièces d'artifices dont il fait partie.
@@ -56,7 +58,7 @@ Constitution, longueur et fabricant de la mèche (éventuellement).
 
 5.4. Variantes (liste des variantes avec description des différences avec l'artifice de référence).
 
-6. Classement proposé pour l'artifice élémentaire (K 1 à K 3) avec, éventuellement, commentaires sur cette proposition.
+6. Classement proposé pour l'artifice élémentaire (K 1 à K 4) avec, éventuellement, commentaires sur cette proposition.
 
 7. Marquage de l'artifice élémentaire.
 
