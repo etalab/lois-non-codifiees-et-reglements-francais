@@ -190,6 +190,7 @@
 - [Décret n°92-1194 du 4 novembre 1992 (INTB9200425D)](decret-n92-1194-du-4-novembre-1992-intb9200425d)
 - [Décret n°92-1197 du 4 novembre 1992 (MENN9203391D)](decret-n92-1197-du-4-novembre-1992-menn9203391d)
 - [Décret n°92-1270 du 4 décembre 1992 (ECOC9200130D)](decret-n92-1270-du-4-decembre-1992-ecoc9200130d)
+- [Décret n°92-1281 du 4 décembre 1992 (EQUS9200351D)](decret-n92-1281-du-4-decembre-1992-equs9200351d)
 - [Décret n°92-218 du 4 mars 1992 (ENVP9200010D)](decret-n92-218-du-4-mars-1992-envp9200010d)
 - [Décret n°92-243 du 4 mars 1992 (FPPX9200030D)](decret-n92-243-du-4-mars-1992-fppx9200030d)
 - [Décret n°92-486 du 4 juin 1992 (DEFP9201389D)](decret-n92-486-du-4-juin-1992-defp9201389d)

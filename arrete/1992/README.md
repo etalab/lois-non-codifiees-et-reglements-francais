@@ -146,6 +146,7 @@
 - [Arrêté du 4 avril 1990 (EQUP9000544A)](arrete-du-4-avril-1990-equp9000544a)
 - [Arrêté du 4 décembre 1991 (INDB9101015A)](arrete-du-4-decembre-1991-indb9101015a)
 - [Arrêté du 4 décembre 1991 (JUSG9160083A)](arrete-du-4-decembre-1991-jusg9160083a)
+- [Arrêté du 4 décembre 1992 (BUDF9200046A)](arrete-du-4-decembre-1992-budf9200046a)
 - [Arrêté du 4 janvier 1983](arrete-du-4-janvier-1983)
 - [Arrêté du 4 juin 1992 (BUDR9205022A)](arrete-du-4-juin-1992-budr9205022a)
 - [Arrêté du 4 juin 1992 (MENZ9202453A)](arrete-du-4-juin-1992-menz9202453a)
