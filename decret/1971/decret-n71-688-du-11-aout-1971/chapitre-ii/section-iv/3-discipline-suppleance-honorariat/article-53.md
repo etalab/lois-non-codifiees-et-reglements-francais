@@ -1,5 +1,5 @@
 # Article 53
 
-Sous réserve des articles suivants, les dispositions de la loi susvisée du 3 mars 1954 et du décret susvisé du 26 avril 1954 sont applicables à la société et aux associés.
+Sous réserve des articles suivants, les dispositions des articles L. 822-1 à L. 822-7 et R. 822-1 à R. 822-18 du code de l'organisation judiciaire sont applicables à la société et aux associés.
 
-La société peut faire l'objet de poursuites disciplinaires indépendamment de celles qui seraient intentées contre les associés.
+La société ne peut faire l'objet de poursuites disciplinaires indépendamment de celles qui seraient intentées contre les associés.
