@@ -138,6 +138,7 @@
 - [Décret n°89-565 du 11 août 1989 (SPSS8900958D)](decret-n89-565-du-11-aout-1989-spss8900958d)
 - [Décret n°89-566 du 11 août 1989 (MENN8901337D)](decret-n89-566-du-11-aout-1989-menn8901337d)
 - [Décret n°89-568 du 11 août 1989 (JUSB8910211D)](decret-n89-568-du-11-aout-1989-jusb8910211d)
+- [Décret n°89-653 du 11 septembre 1989 (TEFE8903698D)](decret-n89-653-du-11-septembre-1989-tefe8903698d)
 - [Décret n°89-729 du 11 octobre 1989 (MENF8902174D)](decret-n89-729-du-11-octobre-1989-menf8902174d)
 - [Décret n°89-730 du 11 octobre 1989 (MENF8902173D)](decret-n89-730-du-11-octobre-1989-menf8902173d)
 - [Décret n°89-731 du 11 octobre 1989 (MENF8902172D)](decret-n89-731-du-11-octobre-1989-menf8902172d)
@@ -376,3 +377,5 @@
 - [Décret n°89-57 du 31 janvier 1989 (ECOP8700437D)](decret-n89-57-du-31-janvier-1989-ecop8700437d)
 - [Décret n°89-606 du 31 août 1989 (SPSS8901353D)](decret-n89-606-du-31-aout-1989-spss8901353d)
 - [Décret n°89-618 du 31 août 1989 (MICT8900490D)](decret-n89-618-du-31-aout-1989-mict8900490d)
+- [Décret n°89-648 du 31 août 1989 (PRME8961504D)](decret-n89-648-du-31-aout-1989-prme8961504d)
+- [Décret n°89-649 du 31 août 1989 (PRME8961505D)](decret-n89-649-du-31-aout-1989-prme8961505d)
