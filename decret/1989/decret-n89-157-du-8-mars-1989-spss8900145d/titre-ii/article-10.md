@@ -1,0 +1,3 @@
+# Article 10
+
+Les conjoints survivants des personnes bénéficiant ou susceptibles de bénéficier d'un avantage de droit direct en application des articles 1er à 3, 5, 7 et 9 et décédées postérieurement au 31 décembre 1988 ont droit, le cas échéant, à l'allocation de veuvage visée au chapitre VI du titre IV du livre III du code de la sécurité sociale, dans les conditions d'ouverture de droit et de service et au taux définis audit chapitre, lorsqu'ils ne peuvent bénéficier d'un avantage de réversion au titre des articles 4, 5, 7 et 9 et sous réserve que cette allocation ne puisse être attribuée au titre d'une période d'affiliation à l'assurance veuvage.

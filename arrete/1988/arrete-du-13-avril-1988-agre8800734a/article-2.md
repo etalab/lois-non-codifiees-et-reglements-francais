@@ -18,13 +18,13 @@ Les personnels d'enseignement de l'établissement ;
 
 Les personnels de recherche exerçant leur activité dans l'établissement, mais n'appartenant pas au personnel enseignant de l'établissement ;
 
-Les étudiants inscrits à la préparation d'un diplôme de doctorat dans l'établissement.
+Les étudiants inscrits à la préparation d'un diplôme de doctorat dans l'établissement ou préparant un doctorat dans un laboratoire de l'établissement.
 
 Les membres élus et les membres nommés se répartissent comme suit :
 
-- deux tiers de membres élus, leur nombre étant arrondi à l'unité supérieure ;
+-deux tiers de membres élus, leur nombre étant arrondi à l'unité supérieure ;
 
-- un tiers de membres nommés par le ministre de l'agriculture, choisis parmi les personnels d'enseignement de l'établissement, leur nombre étant arrondi à l'unité inférieure.
+-un tiers de membres nommés par le ministre de l'agriculture, choisis parmi les personnels d'enseignement de l'établissement, leur nombre étant arrondi à l'unité inférieure.
 
 2° Des membres nommés par le ministre de l'agriculture, choisis en raison de leur compétence scientifique ou professionnelle et exerçant leur activité hors de l'établissement.
 
