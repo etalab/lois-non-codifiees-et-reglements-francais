@@ -673,6 +673,7 @@
 - [Arrêté du 27 janvier 1992 (SPSS9200274A)](arrete-du-27-janvier-1992-spss9200274a)
 - [Arrêté du 27 juillet 1992 (INTE9200352A)](arrete-du-27-juillet-1992-inte9200352a)
 - [Arrêté du 27 juillet 1992 (JUSA9200143A)](arrete-du-27-juillet-1992-jusa9200143a)
+- [Arrêté du 27 juillet 1992 (SPSG9201278A)](arrete-du-27-juillet-1992-spsg9201278a)
 - [Arrêté du 27 juin 1991 (AGRS9101283A)](arrete-du-27-juin-1991-agrs9101283a)
 - [Arrêté du 27 mars 1992 (AGRG9200600A)](arrete-du-27-mars-1992-agrg9200600a)
 - [Arrêté du 27 mars 1992 (COMG9100008A)](arrete-du-27-mars-1992-comg9100008a)
