@@ -28,4 +28,4 @@ Elle est assistée de quatre fonctionnaires :
 
 - un représentant du ministre chargé de la communication.
 
-La commission nationale de contrôle est installée immédiatement aprés la publication du décret portant convocation des électeurs pour l'élection du Président de la République.
+La commission nationale de contrôle est installée dans la semaine suivant la date fixée pour l'envoi, par l'autorité administrative, des formulairesmentionnés à l'article 3 aux citoyens habilités à présenter un candidat.
