@@ -1,0 +1,3 @@
+# Article 2
+
+Le livret scolaire que doivent présenter, en application des décrets susvisés, les candidats au baccalauréat général et au baccalauréat technologique est établi conformément aux modèles annexés au présent arrêté, respectivement en annexe I (1) pour le baccalauréat général, en annexe II (1) pour le baccalauréat technologique, série Sciences et technologies industrielles (S.T.I.), en annexe III (1) pour le baccalauréat technologique, série Techniques de la musique et de la danse et série Arts appliqués, en annexe IV (1) pour le baccalauréat technologique, série Sciences médico-sociales (S.M.S.), série Sciences et techniques de laboratoire (S.T.L.), série Sciences et technologies tertiaires (S.T.T.) et série Hôtellerie.
