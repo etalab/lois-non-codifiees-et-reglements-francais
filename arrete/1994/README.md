@@ -148,7 +148,6 @@
 - [Arrêté du 5 décembre 1994 (ENVE9430401A)](arrete-du-5-decembre-1994-enve9430401a)
 - [Arrêté du 5 décembre 1994 (EQUS9402049A)](arrete-du-5-decembre-1994-equs9402049a)
 - [Arrêté du 5 décembre 1994 (SPSS9403771A)](arrete-du-5-decembre-1994-spss9403771a)
-- [Arrêté du 5 janvier 1994 (EQUA9400028A)](arrete-du-5-janvier-1994-equa9400028a)
 - [Arrêté du 5 janvier 1994 (EQUU9400050A)](arrete-du-5-janvier-1994-equu9400050a)
 - [Arrêté du 5 janvier 1994 (MAEX9410001A)](arrete-du-5-janvier-1994-maex9410001a)
 - [Arrêté du 5 juillet 1994 (AGRG9401295A)](arrete-du-5-juillet-1994-agrg9401295a)
