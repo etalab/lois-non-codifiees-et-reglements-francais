@@ -4,7 +4,7 @@ PREAMBULE
 
 Les normes fixées par le présent arrêté relatives aux équipements de communication, de navigation, de surveillance et d'anti-abordage à bord des aéronefs sont issues de :
 
-- l'annexe 10 (Télécommunications aéronautiques) - amendement no 74 - à la convention relative à l'aviation civile internationale (1) ;
+- l'annexe 10 (Télécommunications aéronautiques) - amendement 77 - à la convention relative à l'aviation civile internationale (1) ;
 
 - la norme Eurocontrol - Doc 003-93 - Version 2.2 - Equipement de navigation de surface - Besoins opérationnels et besoins fonctionnels (2).
 
@@ -240,43 +240,23 @@ b) Exemption :
 
 Les aéronefs d'Etat sont exemptés de cette obligation. Ils se conforment alors à des procédures particulières établies avec l'autorité compétente des services de la circulation aérienne.
 
-Jusqu'au 31 août 2002, les aéronefs civils supersoniques sont exemptés de cette obligation. Ils se conforment alors à des procédures particulières établies avec l'autorité compétente des services de la circulation aérienne.
-
 2.2.1.5. Immunité FM :
 
 a) Définition :
 
 Immunité FM : immunité des équipements récepteurs de bord embarqués vis-à-vis des brouillages générés par les stations de radiodiffusion en modulation de fréquences (FM).
 
-b) Dispositions jusqu'au 31 décembre 2001 :
+b) Performances d'immunité des récepteurs VOR à l'égard du brouillage :
 
-Jusqu'au 31 décembre 2001, l'utilisation de certaines procédures de départ normalisé aux instruments (SID), d'arrivée normalisée aux instruments (STAR) et d'approche aux instruments (ILS, LLZ et VOR) peut être interdite aux aéronefs dont les équipements de radionavigation VHF ne sont pas conformes aux normes d'immunité FM de l'annexe 10 de l'OACI.
+Tout système récepteur VOR embarqué assure une immunité suffisante à l'égard du brouillage FM conformément aux normes OACI (annexe 10, volume I, § 3.3.8, performances d'immunité des récepteurs VOR à l'égard du brouillage) ;
 
-Ces restrictions sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+c) Performances d'immunité des récepteurs d'alignement de piste ILS à l'égard du brouillage :
 
-c) Performances d'immunité des récepteurs VOR à l'égard du brouillage :
+Tout système récepteur d'alignement de piste ILS embarqué assure une immunité suffisante à l'égard du brouillage FM conformément aux normes OACI (annexe 10, volume I, § 3.1.4, caractéristiques d'immunité des récepteurs d'alignement de piste ILS à l'égard du brouillage) ;
 
-A compter du 1er janvier 2002, tout système récepteur VOR embarqué assure une immunité suffisante à l'égard du brouillage FM conformément aux normes OACI. - Annexe 10. - Volume I. - § 3.3.8. - Performances d'immunité des récepteurs VOR à l'égard du brouillage.
+d) Exemption :
 
-(- X OACI. - Annexe 10. - Volume I. - § 3.3.8. - Cette obligation est en vigueur depuis le 1er janvier 1998.)
-
-d) Performances d'immunité des récepteurs d'alignement de piste ILS à l'égard du brouillage :
-
-A compter du 1er janvier 2002, tout système récepteur d'alignement de piste ILS embarqué assure une immunité suffisante à l'égard du brouillage FM conformément aux normes OACI. - Annexe 10. - Volume I. - § 3.1.4. - Caractéristiques d'immunité des récepteurs d'alignement de piste ILS à l'égard du brouillage.
-
-(- X OACI. - Annexe 10. - Volume I. - § 3.1.4 - Cette obligation est en vigueur depuis le 1er janvier 1998.)
-
-e) Exemption :
-
-Mesure transitoire :
-
-Jusqu'au 30 avril 2002, certains aéronefs peuvent être exemptés des dispositions des paragraphes c et d ci-dessus, sous certaines conditions portées à la connaissance des usagers par la voie de l'information aéronautique.
-
-L'utilisation de certaines procédures de départ normalisé aux instruments (SID), d'arrivée normalisée aux instruments (STAR) et d'approche aux instruments (ILS, LLZ et VOR) peut alors être interdite à ces aéronefs. Ces restrictions sont portées à la connaissance des usagers par la voie de l'information aéronautique.
-
-Aéronefs d'Etat :
-
-A compter du 1er janvier 2002, les aéronefs d'Etat sont exemptés des dispositions des paragraphes c et d ci-dessus. Ils se conforment alors à des procédures particulières prévues à cet effet.
+Les aéronefs d'Etat sont exemptés des dispositions des paragraphes b et c ci-dessus. Ils se conforment alors à des procédures particulières prévues à cet effet.
 
 2.2.2. Aéronefs en vol VFR
 
@@ -314,39 +294,37 @@ Volume 4 :
 
 3.2. Obligations d'emport
 
-3.2.1. Aéronefs en vol IFR
+3.2.1. Transpondeur répondant au besoin de la surveillance élémentaire
 
-3.2.1.1. Jusqu'au 30 mars 2003 :
-
-Tout aéronef est équipé d'un transpondeur mode A + C avec alticodeur ou d'un transpondeur mode S niveau 2 au moins avec alticodeur.
-
-3.2.1.2. A compter du 31 mars 2003 :
-
-Tout aéronef est équipé d'un transpondeur mode S niveau 2 au moins avec alticodeur et disposant de :
+Un transpondeur répondant au besoin de la surveillance élémentaire est un transpondeur mode S niveau 2 au moins avec alticodeur disposant de :
 
 - la transmission automatique au sol de l'identité du vol (indicatif d'appel radiotéléphonique ou, en son absence, immatriculation de l'aéronef) ;
 
 - la gestion du code SI (Surveillance Identifier) ;
 
-- la diversité d'antenne pour les aéronefs dont la masse maximale est supérieure à 5 700 kg ou dont la vitesse vraie maximale de croisière est supérieure à 463 km/h (250 noeuds).
+- la diversité d'antenne pour les aéronefs dont la masse maximale est supérieure à 5 700 kg ou dont la vitesse vraie maximale de croisière est supérieure à 463 km/h (250 noeuds) ;
 
-(- X OACI. - Annexe 10. - Volume IV. - § 2.1.5.3. - La diversité d'antenne est obligatoire pour les aéronefs dont la vitesse vraie maximale de croisière est supérieure à 324 km/h 175 noeuds).
+- la transmission des avis de résolution (RA) émis par le système d'anti-abordage (ACAS), lorsque l'aéronef en est équipé.
 
-3.2.1.3. Dispositions transitoires :
+3.2.2.1. Jusqu'au 30 mars 2005.
 
-a) Aéronefs d'Etat :
+a) Aéronef dont le 1er certificat de navigabilité est délivré avant le 31 mars 2004.
 
-Jusqu'au 31 décembre 2008, les aéronefs d'Etat, équipés d'un transpondeur mode A + C avec alticodeur, sont exemptés des dispositions du paragraphe 3.2.1.2 ;
+Tout aéronef dont le 1er certificat de navigabilité est délivré avant le 31 mars 2004 est équipé d'un transpondeur mode A + C avec alticodeur ou d'un transpondeur mode S niveau 2 au moins avec alticodeur ;
 
-b) Aéronefs de moins de 5 700 kg et de moins de 19 passagers :
+b) Aéronef dont le 1er certificat de navigabilité est délivré à compter du 31 mars 2004.
 
-Jusqu'au 30 mars 2005, les aéronefs dont la masse maximale certifiée au décollage est inférieure ou égale à 5 700 kg et dont la configuration maximale approuvée en sièges passagers est inférieure ou égale à 19 sont exemptés des dispositions du paragraphe 3.2.1.2 ;
+Tout aéronef dont le 1er certificat de navigabilité est délivré à compter du 31 mars 2004 est équipé d'un transpondeur répondant au besoin de la surveillance élémentaire conformément aux dispositions du paragraphe 3.2.1.
 
-c) Dérogations :
+3.2.2.2. A compter du 31 mars 2005.
 
-Jusqu'au 30 mars 2005, des dérogations temporaires à tout ou partie des fonctions qui peuvent être associées à un transpondeur mode S, niveau 2, au moins avec alticodeur peuvent être accordées par l'autorité compétente, sur demande motivée des intéressés. Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+Tout aéronef est équipé d'un transpondeur répondant au besoin de la surveillance élémentaire conformément aux dispositions du paragraphe 3.2.1.
 
-3.2.2. Aéronefs en vol VFR
+3.2.2.3. Exemption.
+
+Jusqu'au 31 décembre 2008, les aéronefs d'Etat, équipés d'un transpondeur mode A + C avec alticodeur, sont exemptés des dispositions du paragraphe 3.2.2.1 et 3.2.2.2. Ils se conforment alors à des procédures particulières prévues à cet effet.
+
+3.2.3. Aéronefs en vol VFR
 
 a) Obligations :
 
@@ -394,9 +372,7 @@ Des dérogations au paragraphe 4.3.1 (a), peuvent être accordées par l'autorit
 
 - vol de convoyage, en provenance d'une région où l'équipement ACAS II n'est pas obligatoire ;
 
-- vol pour maintenance, en provenance ou à destination d'une région où l'équipement ACAS II n'est pas obligatoire ;
-
-- vol humanitaire.
+- vol pour maintenance, en provenance ou à destination d'une région où l'équipement ACAS II n'est pas obligatoire.
 
 Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
 
