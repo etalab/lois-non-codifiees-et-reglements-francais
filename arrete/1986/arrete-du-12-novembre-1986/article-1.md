@@ -1,3 +1,3 @@
 # Article 1
 
-Le montant de l'émission d'obligations assimilables aux obligations 7,50 p. 100 Juillet 1995 de la première tranche de l'emprunt d'Etat Juillet 1986, de la série Novembre 1986, est fixé à 4,350 milliards de francs.
+Sont rendues obligatoires, pour tous les employeurs et tous les salariés mentionnés à l'article L. 351-4 du code du travail, les dispositions de l'avenant à l'annexe II du 10 décembre 1985 au règlement annexé à la convention du 19 novembre 1985 relative à l'assurance chômage.

@@ -1,0 +1,3 @@
+# Article 2
+
+Chacun de ces comités est constitué [*composition*] de dix-sept personnalités nommées par arrêté conjoint des ministres chargé de la santé et chargé de la recherche dont une issue du conseil scientifique et huit des commissions scientifiques spécialisées après avis de leur instance d'origine [*autorité compétente*]. Parmi les neuf membres issus des instances scientifiques, trois au moins son issus du collège A1, trois au moins du collège A2, un au moins du collège B1 et un au moins du collège B2. La présidence de chacun de ces comités est assurée par le membre issu du conseil scientifique.

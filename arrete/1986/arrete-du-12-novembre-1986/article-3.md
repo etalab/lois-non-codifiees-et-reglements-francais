@@ -1,3 +1,3 @@
 # Article 3
 
-Les obligations de cette émission portent jouissance du 25 juillet 1986.
+Le délégué à l'emploi est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française, ainsi que le texte de l'accord agréé.

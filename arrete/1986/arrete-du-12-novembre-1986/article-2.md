@@ -1,3 +1,3 @@
 # Article 2
 
-Les obligations de cette émission sont assimilées aux obligations de la première tranche de l'emprunt d'Etat Juillet 1986 dès la date de règlement, fixée au 25 novembre.
+L'agrément des effets et sanctions de l'accord visé à l'article 1er est donné pour la durée de la validité dudit accord.

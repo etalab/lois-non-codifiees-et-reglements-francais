@@ -1,4 +1,4 @@
-# Arrêté du 12 novembre 1986 relatif à l'émission de deux séries Novembre 1986 d'obligations assimilées aux obligations de la première tranche de l'emprunt d'Etat Juillet 1986 et aux obligations de la deuxième tranche de l'emprunt d'Etat Juin 1985
+# Arrêté du 12 novembre 1986 portant agrément de l'avenant à l'annexe II du 10 décembre 1985 au règlement annexé à la convention du 19 novembre 1985 relative à l'assurance chômage
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

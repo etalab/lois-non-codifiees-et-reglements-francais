@@ -1,4 +1,4 @@
-# Arrêté du 10 avril 1984 relatif à la composition et au fonctionnement des commissions scientifiques spécialisées et intercommissions de l'Institut national de la santé et de la recherche médicale.
+# Arrêté du 30 juin 1967 relatif aux effectifs à bord des navires de commerce, de pêche et de plaisance
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,3 +9,7 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
+- [Article 10](article-10.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)
