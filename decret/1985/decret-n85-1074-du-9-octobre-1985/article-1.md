@@ -4,7 +4,7 @@ La composition du conseil du marché à terme d'instruments financiers est fixé
 
 - quatre sociétés de bourse désignées par le Conseil des bourses de valeurs ;
 
-- quatre personnalités exerçant des fonctions de direction dans les établissements de crédit, désignées par l'association française des établissements de crédit ;
+- quatre personnalités exerçant des fonctions de direction dans les établissements de crédit, désignées par l'association française des établissements de crédit et des entreprises d'investissement ;
 
 - deux personnalités exerçant des fonctions de direction dans des compagnies d'assurances, désignées par la fédération française des assurances ;
 

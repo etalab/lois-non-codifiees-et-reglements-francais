@@ -34,4 +34,4 @@ Sont également membres du Conseil supérieur :
 
 - un représentant de la Fédération nationale du bois ;
 
-- un représentant du Centre technique des industries mécaniques ;    - un représentant de l'Association française de normalisation ;    - un représentant de la Fédération nationale du crédit agricole ;    - un représentant de l'Association française des établissements de crédit.
+- un représentant du Centre technique des industries mécaniques ;    - un représentant de l'Association française de normalisation ;    - un représentant de la Fédération nationale du crédit agricole ;    - un représentant de l'Association française des établissements de crédit et des entreprises d'investissement.
