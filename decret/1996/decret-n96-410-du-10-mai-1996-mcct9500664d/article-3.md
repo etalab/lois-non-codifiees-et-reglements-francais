@@ -1,0 +1,3 @@
+# Article 3
+
+La répartition de l'aide entre les hebdomadaires régionaux répondant aux conditions fixées par l'article 2 du présent décret est effectuée par le service juridique et technique de l'information et de la communication, qui détermine un taux unitaire de subvention par exemplaire. La subvention est calculée en multipliant le taux unitaire de subvention par le nombre d'exemplaires effectivement vendus. Toutefois, le montant minimum de subvention ne peut être inférieur à celui qu'obtiendrait une publication hebdomadaire régionale ayant une diffusion totale payée au numéro de 2 000 exemplaires par parution, ni supérieur à celui qu'obtiendrait une publication ayant une diffusion totale payée au numéro de 20 000 exemplaires par parution.
