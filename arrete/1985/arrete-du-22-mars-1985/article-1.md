@@ -1,7 +1,7 @@
 # Article 1
 
-L'Etat accorde sa garantie au service des deux emprunts obligataires d'ensemble 2.000.000.000 F qui seront émis par le Fonds spécial de grands travaux :
+Pour la tenue de leur comptabilité, à compter du 1er janvier 1986 les organismes mutualistes doivent utiliser le plan comptable particulier annexé au présent arrêté (1).
 
-- l'un à taux révisable annuellement de 1.500.000.000 F ;
+Les organismes mutualistes dont l'effectif est au plus égal à 3 500 personnes protégées et qui ne gèrent pas d'oeuvre sociale peuvent utiliser le système abrégé également annexé au présent arrêté (1).
 
-- l'autre à taux fixe de 500.000.000 F.
+(1) Ce plan comptable particulier et son système abrégé seront publiés au Bulletin officiel du ministère des affaires sociales et de la solidarité nationale.

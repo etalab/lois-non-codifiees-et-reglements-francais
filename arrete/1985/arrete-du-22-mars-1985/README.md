@@ -1,4 +1,4 @@
-# Arrêté du 22 mars 1985 accordant la garantie de l'Etat à des emprunts du Fonds spécial de grands travaux
+# Arrêté du 22 mars 1985 relatif à la tenue de la comptabilité des organismes mutualistes.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
