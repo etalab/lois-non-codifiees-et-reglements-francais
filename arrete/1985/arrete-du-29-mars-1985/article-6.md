@@ -1,3 +1,3 @@
 # Article 6
 
-Les dispositions du présent arrêté ne font pas obstacle à l'application de l'arrêté n° 25921 du 16 septembre 1971.
+L'arrêté n° 83-54/A du 3 octobre 1983 modifié est abrogé à l'exception des dispositions de l'article 11 qui sont applicables à l'ensemble des prestations [*de service*] visées à l'article 1er a de l'arrêté n° 85-26/A.

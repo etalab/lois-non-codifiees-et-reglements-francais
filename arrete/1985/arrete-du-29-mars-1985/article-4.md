@@ -1,9 +1,3 @@
 # Article 4
 
-Toute publicité écrite, effectuée quel que soit le support utilisé, à l'exception des annuaires, doit comporter les mentions suivantes, dès lors qu'elle porte sur les prestations visées par le présent arrêté :
-
-- le nom, la raison sociale et l'adresse de l'entreprise ;
-
-- les taux horaires de la main-d'oeuvre toutes taxes comprises pratiqués pour chaque catégorie de prestation concernée ou les prix unitaires, quelles que soient les unités ;
-
-- le cas échéant, toute autre condition de rémunération.
+Les prix des prestations nouvellement rendues sont soumis à la procédure d'homologation définie à l'article 4 de l'arrêté n° 82-96/A du 22 octobre 1982 relatif aux prix de tous les services.

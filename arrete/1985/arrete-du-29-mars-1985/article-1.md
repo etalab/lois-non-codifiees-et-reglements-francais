@@ -1,9 +1,7 @@
 # Article 1
 
-Les dispositions du présent arrêté s'appliquent :
+Le Crédit national est autorisé à émettre deux emprunts obligataires :
 
-a) Aux prestations d'entretien, de dépannage, de réparation énumérées à l'annexe du présent arrêté, dès lors qu'elles sont effectuées dans les locaux d'habitation, dans les locaux mixtes d'habitation et d'activité professionnelle, commerciale ou agricole, y compris dans les annexes et parties communes ;
+- l'un à taux fixe de deux milliards de francs ;
 
-b) Aux prestations d'entretien, de dépannage, de réparation, portant sur des équipements électroménagers, appareils de radio-télévision, d'enregistrement et de reproduction du son et de l'image, quel que soit le lieu d'exécution ;
-
-c) Aux opérations courantes de raccordement effectuées en vue de l'installation d'un appareil ménager.
+- l'autre à taux variable d'un milliard de francs.

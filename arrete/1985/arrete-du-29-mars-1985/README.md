@@ -1,4 +1,4 @@
-# Arrêté du 29 mars 1985 relatif à la publicité des prix de certains services
+# Arrêté du 29 mars 1985 autorisant l'émission de deux emprunts par le Crédit national
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
