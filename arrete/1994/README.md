@@ -1068,8 +1068,6 @@
 - [Arrêté du 29 décembre 1995 (AGRA9502041A)](arrete-du-29-decembre-1995-agra9502041a)
 - [Arrêté du 29 juillet 1994 (AGRG9401590A)](arrete-du-29-juillet-1994-agrg9401590a)
 - [Arrêté du 29 juillet 1994 (INDD9400862A)](arrete-du-29-juillet-1994-indd9400862a)
-- [Arrêté du 29 juillet 1994 (INDP9400868A)](arrete-du-29-juillet-1994-indp9400868a)
-- [Arrêté du 29 juillet 1994 (INDP9400869A)](arrete-du-29-juillet-1994-indp9400869a)
 - [Arrêté du 29 juillet 1994 (SPSP9402809A)](arrete-du-29-juillet-1994-spsp9402809a)
 - [Arrêté du 29 juin 1994 (ENVN9430235A)](arrete-du-29-juin-1994-envn9430235a)
 - [Arrêté du 29 juin 1994 (EQUA9401495A)](arrete-du-29-juin-1994-equa9401495a)
