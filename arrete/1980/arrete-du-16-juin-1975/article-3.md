@@ -1,87 +1,231 @@
 # Article 3
 
-Les coefficients d'équivalence et les seuils d'application valant abattement à la base applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
+Les coefficients d'équivalence et les seuils d'application valant abattement à la base, applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
 
-NATURE DE L'ELEVAGE
+<table>
+<tr>
+<td> :====================================</td>
+</tr>
+<tr>
+<td> :      NATURE         :             :</td>
+</tr>
+<tr>
+<td> :        DE           :             :</td>
+</tr>
+<tr>
+<td> :     L'ELEVAGE       :             :</td>
+</tr>
+<tr>
+<td> :---------------------:-------------:</td>
+</tr>
+<tr>
+<td> : I. Aviculture       :             :</td>
+</tr>
+<tr>
+<td> : Equivalence en ares :             :</td>
+</tr>
+<tr>
+<td> : pour 1 m2 de        :             :</td>
+</tr>
+<tr>
+<td> : clapier ou de       :             :</td>
+</tr>
+<tr>
+<td> : poulailler          :             :</td>
+</tr>
+<tr>
+<td> : Poules pondeuses    :    2 a      :</td>
+</tr>
+<tr>
+<td> : Poulets de chair    :    2 a      :</td>
+</tr>
+<tr>
+<td> : II. Elevage porcin  :             :</td>
+</tr>
+<tr>
+<td> : Equivalence en      :             :</td>
+</tr>
+<tr>
+<td> : hectares par animal :             :</td>
+</tr>
+<tr>
+<td> : Truies (naisseurs)  :    0,3 ha   :</td>
+</tr>
+<tr>
+<td> : Truies (naisseurs   :             :</td>
+</tr>
+<tr>
+<td> : engraisseurs)       :    0,6 ha   :</td>
+</tr>
+<tr>
+<td> : Porcs à l'engrais   :    0,026 ha :</td>
+</tr>
+<tr>
+<td> : III. Elevage bovin  :             :</td>
+</tr>
+<tr>
+<td> : Equivalence en      :             :</td>
+</tr>
+<tr>
+<td> : hectares par animal :             :</td>
+</tr>
+<tr>
+<td> : Veaux en batterie   :    0,052 ha :</td>
+</tr>
+<tr>
+<td> : IV. Elevages        :             :</td>
+</tr>
+<tr>
+<td> : divers              :             :</td>
+</tr>
+<tr>
+<td> : Equivalence en ares :             :</td>
+</tr>
+<tr>
+<td> : pour 1 m2 de        :             :</td>
+</tr>
+<tr>
+<td> : clapier ou de       :             :</td>
+</tr>
+<tr>
+<td> : poulailler          :             :</td>
+</tr>
+<tr>
+<td> : Dindons             :    1 a      :</td>
+</tr>
+<tr>
+<td> : Pintades            :    1 a      :</td>
+</tr>
+<tr>
+<td> : Lapins              :    5,2 a    :</td>
+</tr>
+<tr>
+<td> : Lièvres             :    2,5 a    :</td>
+</tr>
+<tr>
+<td> : Oies                :    1 a      :</td>
+</tr>
+<tr>
+<td> : Canards             :    1 a      :</td>
+</tr>
+<tr>
+<td> :====================================</td>
+</tr>
+</table>
 
-I. Aviculture
-
-Equivalence en ares de 1 m2 de clapier ou de poulailler
-
-Poules pondeuses : 2,8 a
-
-Poulets de chair : 1,4 a
-
-Canards : 1 a
-
-NATURE DE L'ELEVAGE
-
-Equivalence en hectares par animal
-
-II. Elevage porcin
-
-Truies (naisseurs) : 0,4 ha
-
-Truies (naisseurs-engraisseurs) : 0,8 ha
-
-Porcs à l'engrais : 0,035 ha
-
-NATURE DE L'ELEVAGE
-
-III. Elevage bovin
-
-Veaux en batterie : 0,070 ha
-
-NATURE DE L'ELEVAGE
-
-IV. Elevages divers
-
-Equivalence en ares de 1 m2 de clapier ou de poulailler
-
-Dindons : 1,4 a
-
-Pintades : 1,4 a
-
-Lapins : 0,7 a
-
-Apiculture : 25 ruches
-
-NATURE DE L'ELEVAGE
-
-Seuil d'application valant abattement à la base
-
-I. Aviculture
-
-Poules pondeuses : 75 m2
-
-Poulets de chair : 150 m2
-
-Canards : 150 m2
-
-NATURE DE L'ELEVAGE
-
-II. Elevage porcin
-
-Truies (naisseurs) : 5 truies
-
-Truies (naisseurs-engraisseurs) : 2,5 truies
-
-Porcs à l'engrais : 60 porcs (an)
-
-NATURE DE L'ELEVAGE
-
-III. Elevage bovin
-
-Veaux en batterie : 30 veaux (an)
-
-NATURE DE L'ELEVAGE
-
-IV. Elevages divers
-
-Dindons : 150 m2
-
-Pintades : 150 m2
-
-Lapins : 30 m2
-
-Apiculture : 25 ruches (équivalence pour 1 hectare).
+<table>
+<tr>
+<td>:====================================</td>
+</tr>
+<tr>
+<td> :      NATURE         : Seuils d'   :</td>
+</tr>
+<tr>
+<td> :        DE           : application :</td>
+</tr>
+<tr>
+<td> :     L'ELEVAGE       : valant      :</td>
+</tr>
+<tr>
+<td> :                     : abattement  :</td>
+</tr>
+<tr>
+<td> :                     : à la base   :</td>
+</tr>
+<tr>
+<td> :---------------------:-------------:</td>
+</tr>
+<tr>
+<td> : I. Aviculture       :             :</td>
+</tr>
+<tr>
+<td> : Equivalence en ares :             :</td>
+</tr>
+<tr>
+<td> : pour 1 m2 de        :             :</td>
+</tr>
+<tr>
+<td> : clapier ou de       :             :</td>
+</tr>
+<tr>
+<td> : poulailler          :             :</td>
+</tr>
+<tr>
+<td> : Poules pondeuses    :  75 m2      :</td>
+</tr>
+<tr>
+<td> : Poulets de chair    :  150 m2     :</td>
+</tr>
+<tr>
+<td> : II. Elevage porcin  :             :</td>
+</tr>
+<tr>
+<td> : Equivalence en      :             :</td>
+</tr>
+<tr>
+<td> : hectares par animal :             :</td>
+</tr>
+<tr>
+<td> : Truies (naisseurs)  : 5 truies    :</td>
+</tr>
+<tr>
+<td> : Truies (naisseurs   :             :</td>
+</tr>
+<tr>
+<td> : engraisseurs)       : 2,5 truies  :</td>
+</tr>
+<tr>
+<td> : Porcs à l'engrais   : 60 / an     :</td>
+</tr>
+<tr>
+<td> : III. Elevage bovin  :             :</td>
+</tr>
+<tr>
+<td> : Equivalence en      :             :</td>
+</tr>
+<tr>
+<td> : hectares par animal :             :</td>
+</tr>
+<tr>
+<td> : Veaux en batterie   : 30 / an     :</td>
+</tr>
+<tr>
+<td> : IV. Elevages        :             :</td>
+</tr>
+<tr>
+<td> : divers              :             :</td>
+</tr>
+<tr>
+<td> : Equivalence en ares :             :</td>
+</tr>
+<tr>
+<td> : pour 1 m2 de        :             :</td>
+</tr>
+<tr>
+<td> : clapier ou de       :             :</td>
+</tr>
+<tr>
+<td> : poulailler          :             :</td>
+</tr>
+<tr>
+<td> : Dindons             :   150 m2    :</td>
+</tr>
+<tr>
+<td> : Pintades            :   150 m2    :</td>
+</tr>
+<tr>
+<td> : Lapins              :    30 m2    :</td>
+</tr>
+<tr>
+<td> : Lièvres             :    2,5      :</td>
+</tr>
+<tr>
+<td> : Oies                :    150 m2   :</td>
+</tr>
+<tr>
+<td> : Canards             :    150 m2   :</td>
+</tr>
+<tr>
+<td> :====================================</td>
+</tr>
+</table>

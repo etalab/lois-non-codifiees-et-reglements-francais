@@ -1,3 +1,3 @@
 # Article 6
 
-Le préfet du Cher est chargé de l'application du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le préfet du Loir-et-Cher est chargé de l'application du présent arrêté, qui sera publié au Journal officiel de la République française.
