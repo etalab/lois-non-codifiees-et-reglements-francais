@@ -119,6 +119,7 @@
 - [Décret n°2001-230 du 12 mars 2001 (INTM0100006D)](decret-n2001-230-du-12-mars-2001-intm0100006d)
 - [Décret n°2002-1339 du 12 novembre 2002 (PRMX0205871D)](decret-n2002-1339-du-12-novembre-2002-prmx0205871d)
 - [Décret n°2002-176 du 12 février 2002 (ECOP0100789D)](decret-n2002-176-du-12-fevrier-2002-ecop0100789d)
+- [Décret n°93-1174 du 12 octobre 1993 (ECOU9300005D)](decret-n93-1174-du-12-octobre-1993-ecou9300005d)
 - [Décret n°94-50 du 12 janvier 1994 (AGRA9302182D)](decret-n94-50-du-12-janvier-1994-agra9302182d)
 - [Décret n°2002-178 du 13 février 2002 (RECF0200039D)](decret-n2002-178-du-13-fevrier-2002-recf0200039d)
 - [Décret n°2002-365 du 13 mars 2002 (MESH0220278D)](decret-n2002-365-du-13-mars-2002-mesh0220278d)
