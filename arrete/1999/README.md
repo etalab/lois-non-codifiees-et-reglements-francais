@@ -627,7 +627,6 @@
 - [Arrêté du 26 avril 1999 (MESP9921403A)](arrete-du-26-avril-1999-mesp9921403a)
 - [Arrêté du 26 février 1999 (AGRA9900305A)](arrete-du-26-fevrier-1999-agra9900305a)
 - [Arrêté du 26 janvier 1999 (ATEN9870472A)](arrete-du-26-janvier-1999-aten9870472a)
-- [Arrêté du 26 janvier 1999 (DEFI9853028A)](arrete-du-26-janvier-1999-defi9853028a)
 - [Arrêté du 26 juillet 1999 (EQUU9900905A)](arrete-du-26-juillet-1999-equu9900905a)
 - [Arrêté du 26 mars 1999 (ECOA9951799A)](arrete-du-26-mars-1999-ecoa9951799a)
 - [Arrêté du 26 mars 1999 (ECOU9900006A)](arrete-du-26-mars-1999-ecou9900006a)
