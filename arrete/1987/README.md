@@ -483,6 +483,8 @@
 - [Arrêté du 26 mai 1987 (AGRG8700946A)](arrete-du-26-mai-1987-agrg8700946a)
 - [Arrêté du 26 mai 1987 (ASET8703365A)](arrete-du-26-mai-1987-aset8703365a)
 - [Arrêté du 26 mai 1987 (ENVN8700125A)](arrete-du-26-mai-1987-envn8700125a)
+- [Arrêté du 27 août 1987 (ASEH8701222A)](arrete-du-27-aout-1987-aseh8701222a)
+- [Arrêté du 27 août 1987 (ECOC8700033A)](arrete-du-27-aout-1987-ecoc8700033a)
 - [Arrêté du 27 avril 1987 (INTB8700144A)](arrete-du-27-avril-1987-intb8700144a)
 - [Arrêté du 27 avril 1987 (PTTC8700258A)](arrete-du-27-avril-1987-pttc8700258a)
 - [Arrêté du 27 février 1987](arrete-du-27-fevrier-1987)
