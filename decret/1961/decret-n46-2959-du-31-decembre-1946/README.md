@@ -2,7 +2,7 @@
 
 - [SOINS - READAPTATION FONCTIONNELLE](soins)
 - [TITRE 4 : DECLARATION ET ENQUETE](titre-4)
-- [TITRE 6 : REPARATION](titre-6)
+- [TITRE 6 : REPARATIONS](titre-6)
 - [Annexes](annexes)
 - [DISPOSITIONS SPECIALES AUX MALADIES PROFESSIONNELLES.](dispositions-speciales-aux)
 - [CHAMP D'APPLICATION](champ-d-application)
