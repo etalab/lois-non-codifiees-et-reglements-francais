@@ -1,12 +1,14 @@
 # Article 2
 
-Les personnels de direction mentionnés à l'article 1er peuvent également être chargés de la direction d'un établissement annexe comptant au plus 250 lits et places, rattaché à un établissement public de santé ou à un des établissements et services mentionnés au deuxième alinéa de l'article R. 716-3-1 du code de la santé publique.
+Les personnels de direction mentionnés à l'article 1er peuvent également être chargés de la direction d'un établissement annexe comptant au plus 250 lits et places, rattaché à un établissement public de santé, à un établissement public médico-social ou à un des établissements et services mentionnés au deuxième alinéa de l'article R. 716-3-1 du code de la santé publique.
 
 Au sens du présent article, un établissement annexe est :
 
 - soit un établissement constitué de services ou fédérations de services assurant principalement des soins de suite ou des soins de longue durée ;
 
-- soit un établissement d'hébergement pour personnes âgées mentionné à l'article L. 711-2-1 du code de la santé publique.
+- soit un établissement d'hébergement pour personnes âgées mentionné à l'article L. 711-2-1 du code de la santé publique ;
+
+- soit l'un et l'autre des établissements susmentionnés.
 
 La liste de ces établissements annexes est fixée par arrêté des ministres chargés de la santé et de l'action sociale.
 
