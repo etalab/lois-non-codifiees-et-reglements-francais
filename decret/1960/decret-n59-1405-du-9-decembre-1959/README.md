@@ -7,6 +7,7 @@
 - [TITRE VI : Horaire de travail - Discipline](titre-vi)
 - [TITRE VII : Mutation](titre-vii)
 - [TITRE VIII : Dispositions diverses](titre-viii)
+- [Article 41](article-41.md)
 - [Article 42](article-42.md)
 - [Article 56](article-56.md)
 - [TITRE PREMIER : Dispositions générales](titre-premier)
