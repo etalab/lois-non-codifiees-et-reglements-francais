@@ -21,7 +21,6 @@
 - [Décret n°71-917 du 8 novembre 1971](decret-n71-917-du-8-novembre-1971)
 - [Décret n° 70-413 du 8 mai 1970](decret-n-70-413-du-8-mai-1970)
 - [Décret n° 70-415 du 8 mai 1970](decret-n-70-415-du-8-mai-1970)
-- [Décret n°70-392 du 8 mai 1970](decret-n70-392-du-8-mai-1970)
 - [Décret n°70-413 du 8 mai 1970](decret-n70-413-du-8-mai-1970)
 - [Décret du 9 septembre 1970](decret-du-9-septembre-1970)
 - [Décret n° 70-1169 du 9 décembre 1970](decret-n-70-1169-du-9-decembre-1970)
