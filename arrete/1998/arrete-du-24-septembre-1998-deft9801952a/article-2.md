@@ -10,4 +10,4 @@ Les catégories d'informations enregistrées sont celles relatives :
 
 - aux éléments de rémunération (taux de prime de rendement, nombre d'heures [sans salaire, de congés, non mensualisées, payées au groupe supérieur], temps passé en travaux insalubres, dangereux ou salissants, nombre de primes de panier à taux plein et à taux réduit, renseignements non interdits par la loi ou la réglementation).
 
-La durée de conservation des informations nominatives ainsi enregistrées est limitée à un an maximum après le départ de l'intéressé de l'établissement du matérial de Bruz.
+La durée de conservation des informations nominatives ainsi enregistrées est limitée à un an maximum après le départ de l'intéressé.
