@@ -626,8 +626,6 @@
 - [Arrêté du 30 avril 1988 (INTB8800194A)](arrete-du-30-avril-1988-intb8800194a)
 - [Arrêté du 30 décembre 1987 (EQUC8701110A)](arrete-du-30-decembre-1987-equc8701110a)
 - [Arrêté du 30 décembre 1988 (BUDD8870017A)](arrete-du-30-decembre-1988-budd8870017a)
-- [Arrêté du 30 décembre 1988 (MERP8800136A)](arrete-du-30-decembre-1988-merp8800136a)
-- [Arrêté du 30 décembre 1988 (MERP8800137A)](arrete-du-30-decembre-1988-merp8800137a)
 - [Arrêté du 30 décembre 1988 (SPSS8801856A)](arrete-du-30-decembre-1988-spss8801856a)
 - [Arrêté du 30 mars 1988 (ECOC8800002A)](arrete-du-30-mars-1988-ecoc8800002a)
 - [Arrêté du 30 mars 1988 (TRST8800086A)](arrete-du-30-mars-1988-trst8800086a)
