@@ -1,9 +1,7 @@
-# Arrêté du 10 novembre 1983 relatif à la qualification des agents communaux affectés au traitement de l'information *informatique*.
+# Arrêté du 10 novembre 1983 relatif aux conditions d'émission des obligations P.T.T. 1983
 
 - [Article 1](article-1.md)
-- [Titre I : Dispositions permanentes](titre-i)
 - [Article 2](article-2.md)
-- [Titre II : Dispositions transitoires](titre-ii)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

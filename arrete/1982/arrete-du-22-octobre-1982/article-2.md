@@ -1,5 +1,5 @@
 # Article 2
 
-Des attestations d'unités capitalisables après contrôle des acquis ne pourront être délivrées que pour les diplômes dont la sanction est prévue sous cette forme.
+A compter du 1er janvier 1984, les entreprises peuvent appliquer des prix supérieurs aux prix licites à la date du 31 décembre 1983 dans le cadre d'engagements agréés au titre de 1984.
 
-La mise en oeuvre par un établissement d'enseignement du contrôle continu pour l'obtention d'unités de contrôle capitalisables est subordonnée à l'autorisation donnée par le ministre de l'éducation nationale, de pratiquer ce mode de contrôle en vertu de l'arrêté du 13 juin 1972 susvisé.
+En cas de non-respect des engagements [*de lutte contre l'inflation*] agréés, les prix ou leur évolution seront fixés par décision du ministre de l'économie et des finances. Ces décisions, publiées au Bulletin officiel de la concurrence et de la consommation (Bulletin officiel des services des prix), désigneront les produits, entreprises ou branches concernés.

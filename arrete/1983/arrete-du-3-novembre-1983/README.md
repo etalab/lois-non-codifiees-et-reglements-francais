@@ -1,4 +1,4 @@
-# Arrêté du 3 novembre 1983 fixant la liste des diplômes d'études spécialisées de pharmacie.
+# Arrêté du 3 novembre 1983 RELATIF A L'APPLICATION DU DECRET N° 83-375 DU 5 MAI 1983 RELATIF AUX MODALITES D'EXAMEN DES RESTES A RECOUVRER DES COTISATIONS DE SECURITE SOCIALE DU REGIME GENERAL ET DE LEUR ADMISSION EN NON-VALEUR.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

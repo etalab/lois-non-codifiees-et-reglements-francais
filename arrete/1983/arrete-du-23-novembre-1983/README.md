@@ -1,4 +1,4 @@
-# Arrêté du 22 octobre 1982 relatif aux prix à la production des produits industriels
+# Arrêté du 23 novembre 1983 RELATIF AUX MODALITES D'APPLICATION DE L'ARTICLE R322-7 DU CODE DU TRAVAIL
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
