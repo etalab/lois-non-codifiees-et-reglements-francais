@@ -1,3 +1,3 @@
 # Article 2
 
-La présidence et la vice-présidence du comité permanent sont assurées par le président et le vice-président de la commission nationale de l'inventaire.
+Le directeur général de la santé et le directeur des hôpitaux sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -1,3 +1,3 @@
 # Article 7
 
-Ce certificat permet à son titulaire de donner des soins d'hygiène générale, à l'exclusion de tout soin médical, sous l'autorité du personnel infirmier diplômé ou autorisé.
+Le jury de l'examen d'admission est présidé par le médecin inspecteur départemental de la santé et comprend obligatoirement un ou plusieurs professeurs de l'enseignement public du second degré ou de l'enseignement professionnel long et une infirmière assurant la formation des aides soignants.

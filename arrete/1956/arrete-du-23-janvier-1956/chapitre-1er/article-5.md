@@ -1,11 +1,15 @@
 # Article 5
 
-L'examen comporte :
+Les élèves aides soignants sont recrutés parmi les candidats titulaires d'un des titres, diplômes ou attestations ci-après :
 
-Une épreuve écrite d'une durée d'une heure portant sur une des matières figurant au programme. Une note sur 10 sera attribuée pour le fond et une note sur 10 pour la présentation et l'orthographe.
+Brevet d'études professionnelles préparatoires aux carrières sanitaires et sociales (option Sanitaire) ;
 
-Les candidats auront le choix entre deux sujets.
+Brevet sanctionnant la fin du premier cycle de l'enseignement du second degré ;
 
-Deux épreuves pratiques d'un quart d'heure chacune au lit d'un malade, comportant également l'interrogation du candidat.
+Certificat d'aptitude professionnelle d'aide maternelle délivré avant le 30 septembre 1970 ;
 
-Chaque épreuve est notée sur 80 ; toute note égale ou inférieure à cinq est éliminatoire.
+Attestation d'admission à poursuivre les études en deuxième cycle de l'enseignement secondaire ou de l'enseignement professionnel long.
+
+La priorité est accordée aux titulaires du B.E.P. (option Sanitaire).
+
+A défaut, les candidats doivent satisfaire aux épreuves d'un examen d'entrée dont les modalités sont fixées ci-après.

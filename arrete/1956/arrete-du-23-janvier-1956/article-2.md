@@ -1,3 +1,5 @@
 # Article 2
 
-Peuvent être admis à s'inscrire en vue de la préparation à ce certificat les personnels de toutes catégories d'un établissement hospitalier public ou privé effectivement en fonction depuis une année au moins.
+Sont admis à suivre l'enseignement préparatoire au certificat d'aptitude aux fonctions d'aide soignant les élèves aides soignants.
+
+Peuvent être admis à suivre cet enseignement les agents des services hospitaliers justifiant de trois ans de services effectifs dans leurs fonctions.
