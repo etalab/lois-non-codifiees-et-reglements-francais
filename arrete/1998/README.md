@@ -205,7 +205,6 @@
 - [Arrêté du 7 décembre 1998 (EQUM9801613A)](arrete-du-7-decembre-1998-equm9801613a)
 - [Arrêté du 7 décembre 1998 (EQUP9801152A)](arrete-du-7-decembre-1998-equp9801152a)
 - [Arrêté du 7 décembre 1998 (MAEA9820428A)](arrete-du-7-decembre-1998-maea9820428a)
-- [Arrêté du 7 décembre 1998 (MCCB9800902A)](arrete-du-7-decembre-1998-mccb9800902a)
 - [Arrêté du 7 décembre 2001 (EQUP0101498A)](arrete-du-7-decembre-2001-equp0101498a)
 - [Arrêté du 7 janvier 1998 (ECOS9700007A)](arrete-du-7-janvier-1998-ecos9700007a)
 - [Arrêté du 7 janvier 1998 (ECOT9810321A)](arrete-du-7-janvier-1998-ecot9810321a)
