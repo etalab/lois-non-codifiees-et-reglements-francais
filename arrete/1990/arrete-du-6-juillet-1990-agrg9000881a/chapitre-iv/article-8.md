@@ -1,33 +1,31 @@
 # Article 8
 
-L'Etat participe financièrement aux opérations techniques que nécessite l'assainissement des exploitations infectées de tuberculose bovine dépistées lors des opérations de prophylaxie collective dans les conditions prévues par le décret du 19 mars 1963 modifié et par l'arrêté du 16 mars 1990 susvisés.
+L'Etat assure le financement des opérations techniques de police sanitaire effectuées lors de l'application des mesures prescrites par l'arrêté préfectoral portant déclaration d'infection des troupeaux où la tuberculose a été confirmée, pris en application de l'article 26 de l'arrêté du 15 septembre 2003 fixant les mesures techniques et administratives relatives à la prophylaxie collective et à la police sanitaire de la tuberculose des bovinés et des caprins, et ce jusqu'à ce que cet arrêté préfectoral soit rapporté.
 
-Jusqu'à obtention ou réobtention de la qualification du cheptel bovin officiellement indemne de tuberculose, les opérations auxquelles l'Etat participe ainsi que le montant de ces participations, fixées hors taxe, sont les suivantes :
+Les opérations financées par l'Etat ainsi que leur montant fixé hors taxe sont les suivants :
 
-1° Visites d'exploitations comprenant forfaitement :
+1° Visites d'exploitations comprenant forfaitairement :
 
-- les déplacements ;
+- la prescription à l'éleveur des mesures de prévention à adopter ;
 
-- la prescription à l'éleveur des mesures sanitaires à respecter ;
-
-- le recensement exact de l'effectif bovin et, éventuellement, de l'effectif caprin ;
-
-- les intradermotuberculinations nécessaires au diagnostic de la tuberculose bovine, pratiquées sur les bovins et éventuellement les caprins entretenus sur l'exploitation, avec fourniture des tuberculines nécessaires ;
-
-- le passage pour lecture et interprétation des réactions aux épreuves d'intradermotuberculination ;
-
-- le marquage des animaux reconnus infectés de tuberculose bovine ou contaminés ;
+- le recensement exact des effectifs des espèces sensibles à la tuberculose ;
 
 - le contrôle de l'application par l'éleveur des mesures sanitaires prescrites ;
 
 - la rédaction et l'envoi des documents réglementaires.
 
-Par visite effectuée : 20 F.
+Par visite effectuée : 2 AMO ;
 
-2° Intradermotuberculination simple.
+2° Intradermotuberculination simple, l'allergène étant fourni par le vétérinaire sanitaire, comprenant la lecture objective de la réaction avec mesures des plis de peau : 1/5 AMO ;
 
-Pour chaque animal testé : 5 F.
+3° Intradermotuberculination comparative, les allergènes étant fournis par le vétérinaire sanitaire, comprenant la lecture objective des réactions avec mesures des plis de peau : 1/2 AMO ;
 
-3° Intradermotuberculination comparative.
+4° En cas de nécessité, prélèvements destinés au diagnostic sérologique différentiel de la tuberculose : pour chaque animal prélevé : 1/5 AMO ;
 
-Pour chaque animal testé : 10 F.
+5° En cas de nécessité, prélèvements destinés au diagnostic bactériologique : par animal prélevé : 1/2 AMO ;
+
+6° Actes de marquage des animaux : par animal marqué :
+
+1/5 AMO ;
+
+7° Les déplacements selon les modalités fixées à l'article 1er de l'arrêté du 30 septembre 2004 relatif à la rémunération des vétérinaires sanitaires pour les opérations de police sanitaire.

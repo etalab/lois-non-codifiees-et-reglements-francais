@@ -36,4 +36,6 @@ Font l'objet d'une tarification par arrêté préfectoral :
 
 10. Les prélèvements d'aphtes ou de muqueuse sur les différentes espèces d'animaux domestiques et sauvages pouvant faire l'objet de mesures de police sanitaire ;
 
-11. Les prélèvements du système nerveux central des animaux domestiques et sauvages pouvant faire l'objet de mesures de police sanitaire.
+11. Les prélèvements du système nerveux central des animaux domestiques et sauvages pouvant faire l'objet de mesures de police sanitaire ;
+
+12. Le temps de déplacement.

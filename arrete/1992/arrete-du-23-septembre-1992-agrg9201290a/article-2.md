@@ -68,6 +68,4 @@ Une seule visite est prise en charge par établissement.
 
 Pour chaque équidé prélevé : un quart d'A.M.O.
 
-7° Frais de déplacement des vétérinaires sanitaires occasionnés par l'exécution des opérations visées aux paragraphes 1° à 5° =
-
-indemnités kilométriques calculées selon les mêmes modalités que celles applicables aux fonctionnaires et agents de l'Etat, conformément aux dispositions du décret n° 90-437 du 28 mai 1990.
+7° Les déplacements pour l'exécution des opérations visées aux paragraphes 1° à 5° selon les modalités fixées à l'article 1er de l'arrêté du 30 septembre 2004 relatif à la rémunération des vétérinaires sanitaires pour les opérations de police sanitaire.

@@ -1,3 +1,3 @@
 # Article 15
 
-Pour les déplacements afférents aux visites et aux actes mentionnés à l'article 2 du présent arrêté, les vétérinaires sanitaires perçoivent, sauf disposition contraire, des indemnités kilomètriques calculées selon les mêmes modalités que celles applicables aux fonctionnaires et agents de l'Etat, conformément aux dispositions du décret n° 90-437 du 28 mai 1990.
+Pour les déplacements afférents aux visites et aux actes mentionnés à l'article 2 du présent arrêté, les vétérinaires sanitaires sont rémunérés selon les modalités fixées à l'article 1er de l'arrêté du 30 septembre 2004 relatif à la rémunération des vétérinaires sanitaires pour les opérations de police sanitaire.
