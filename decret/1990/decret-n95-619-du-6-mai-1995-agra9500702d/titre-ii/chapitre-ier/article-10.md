@@ -1,6 +1,6 @@
 # Article 10
 
-Les adjoints techniques des haras participent, sous l'autorité du directeur de haras et de leurs supérieurs hiérarchiques, à toutes les activités incombant au service des haras.
+Les adjoints techniques des haras participent, sous l'autorité du directeur de haras et de leurs supérieurs hiérarchiques, à toutes les activités incombant à l'établissement public Les Haras nationaux.
 
 Ils mettent en oeuvre le service de la monte et les prestations qui y sont liées et ont vocation à assurer les fonctions de chef des stations de monte les plus importantes.
 
