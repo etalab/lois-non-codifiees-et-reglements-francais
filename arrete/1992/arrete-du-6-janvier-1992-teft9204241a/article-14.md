@@ -1,0 +1,3 @@
+# Article 14
+
+Le directeur de l'administration générale et de la modernisation des services au ministère du travail, de l'emploi et de la formation professionnelle, le directeur général de l'administration au ministère de l'agriculture et de la forêt, l'inspecteur général du travail dans les transports au ministère de l'équipement, du logement, des transports et de l'espace, le directeur général de l'administration et de la fonction publique au ministère de la fonction publique et de la modernisation de l'administration sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

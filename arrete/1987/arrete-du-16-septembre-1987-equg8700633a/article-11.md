@@ -20,21 +20,23 @@ Sous-commission A (Mer) :
 
 - une personnalité particulièrement qualifiée désignée par le président de la sous-commission A ;
 
+- le directeur du centre administratif des affaires maritimes.
+
 - le secrétaire permanent ou son représentant.
 
-Le président de la sous-commission A est désigné par le secrétaire d'Etat à la mer.
+- Le président de la sous-commission A est désigné par le secrétaire d'Etat à la mer.
 
 Sous-commission B (Aviation civile et météorologie) :
 
 - le directeur général de l'aviation civile ou son représentant ;
+
+- le directeur des ressources humaines et des affaires financières ou son représentant ;
 
 - le directeur de la météorologie ou son représentant ;
 
 - le chef du service technique de la navigation aérienne ou son représentant ;
 
 - le chef du centre d'études de la navigation aérienne ou son représentant ;
-
-- le chef du service des personnels et de la gestion ou son représentant ;
 
 - une personnalité particulièrement qualifiée désignée par le président de la sous-commission B ;
 
@@ -56,9 +58,11 @@ Sous-commission C (Environnement) :
 
 - le chef du service de la recherche, des études et du traitement de l'information sur l'environnement ou son représentant ;
 
-- un représentant des services extérieurs désigné par le président de la sous-commission C ;
+- un représentant des services déconcentrés désigné par le président de la sous-commission C ;
 
-- deux représentants des établissements sous tutelle désigné par le président de la sous-commission C ;
+- deux représentants des établissements sous tutelle désigné par
+
+le président de la sous-commission C ;
 
 - le secrétaire permanent ou son représentant.
 
@@ -82,7 +86,7 @@ Sous-commission D (Equipement) :
 
 - le directeur du C.E.T.E. de Lyon ou son représentant ;
 
-- le directeur régional de l'équipement de la région Rhône-Alpes ou son représentant ;
+- le directeur régional de l'équipement de la région Aquitaine ou son représentant ;
 
 - le directeur départemental de l'équipement du Puy-de-Dôme ;
 

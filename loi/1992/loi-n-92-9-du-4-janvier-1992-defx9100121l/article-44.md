@@ -1,0 +1,3 @@
+# Article 44
+
+Les dispositions de l'article 3 de la présente loi sont applicables aux jeunes gens incorporés à partir du 1er octobre 1991. Nonobstant les dispositions qui pourront être prises en application du premier alinéa de l'article L. 76 du code du service national, les jeunes gens qui, incorporés à partir du 1er août 1991, auraient dû accomplir une durée de douze mois, à l'exception des bénéficiaires des dispositions des articles L. 9 et L. 10, bénéficieront d'une réduction d'un mois de la durée de leur service actif. Toutefois, les jeunes gens pourront demander à bénéficier des dispositions antérieures concernant la durée du service actif.
