@@ -1,0 +1,3 @@
+# Article 34
+
+Sont abrogés, à compter du 1er janvier 1987, les articles 4 et 5 de l'ordonnance n° 82-290 du 30 mars 1982 relative à la limitation des possibilités de cumuls entre pensions de retraite et revenus d'activité, les articles L. 651-10 et L. 651-11 du code de sécurité sociale, la loi n° 86-75 du 17 janvier 1986 portant modification de l'ordonnance n° 82-290 du 30 mars 1982 et de la loi n° 84-575 du 9 juillet 1984 et relative à la limitation des possibilités de cumuls entre pensions de retraite et revenus d'activité et le dernier alinéa de l'article 12 et le titre III de la loi n° 86-19 du 6 janvier 1986 relative à l'abaissement à soixante ans de l'âge de la retraite des personnes non salariées des professions agricoles.

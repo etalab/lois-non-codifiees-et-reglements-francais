@@ -2,6 +2,8 @@
 
 I  - Le droit d'option prévu à l'article 122 est exercé dans un délai de neuf ans à compter du 1er janvier 1984 pour les agents visés à l'article 125, à l'exception de ceux qui ont été mis à disposition dans le cadre du partage des services extérieurs du ministère de l'intérieur et pour lesquels ce droit expire le 31 décembre 1990. "
 
+" Le délai d'exercice du droit d'option susvisé est prorogé de six mois à compter du 1er janvier 1993 pour les personnels techniques de catégorie B et C des services santé/environnement et les travailleurs sociaux visés à l'article 125 qui ont été mis à disposition dans le cadre du partage des services déconcentrés des ministères chargés des affaires sociales et de la santé. "
+
 II- Si les fonctionnaires ont opté pour le statut autre que celui dont ils relèvent, il est fait droit à leur demande dans un délai maximal de deux ans à compter de la date de réception de celle-ci.
 
 III -Si les fonctionnaires ont opté pour le maintien de leur statut antérieur, ils peuvent :

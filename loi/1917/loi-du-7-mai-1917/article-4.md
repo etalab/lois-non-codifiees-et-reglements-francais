@@ -1,5 +1,7 @@
 # Article 4
 
+Lorsque les sociétés coopératives de consommation ont recours aux dispositions de l'article 3 bis de la loi n° 47-1775 du 10 septembre 1947 portant statut de la coopération, leurs statuts peuvent prévoir que les associés mentionnés à cet article ne peuvent exercer aux assemblées générales plus de 49 p. 100 des droits de vote présents ou représentés.
+
 Sont applicables aux assemblées générales des sociétés coopératives de consommation les dispositions suivantes qui, pour celles revêtues de la forme anonyme [*sociétés anonymes*], emportent dérogation aux prescriptions des articles 29, 30 et 31 de la loi du 24 juillet 1867, modifiée par la loi du 22 novembre 1913 (1).
 
 Les assemblées générales qui ont à délibérer dans des cas autres que ceux prévus par les deux alinéas qui suivent, doivent être composées d'un nombre de sociétaires représentant par eux-mêmes ou par procuration le sixième au moins du nombre total des membres inscrits à la société à la date de la convocation [*quorum*].

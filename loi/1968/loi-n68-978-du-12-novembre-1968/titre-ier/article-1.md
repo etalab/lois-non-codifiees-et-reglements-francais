@@ -19,3 +19,9 @@ L'enseignement supérieur doit être ouvert aux anciens étudiants ainsi qu'aux 
 Les universités doivent concourir, notamment en tirant parti des moyens nouveaux de diffusion des connaissances, à l'éducation permanente à l'usage de toutes les catégories de la population et à toutes fins qu'elle peut comporter.
 
 D'une manière générale, l'enseignement supérieur - ensemble des enseignements qui font suite aux études secondaires - concourt à la promotion culturelle de la société et par là même à son évolution vers une responsabilité plus grande de chaque homme dans son propre destin.
+
+A compter de l'année universitaire 1995-1996, il est institué un troisième cycle long des études odontologiques dénommé Internat en odontologie, d'une durée de trois ans et accessible par concours national aux étudiants ayant validé le deuxième cycle des études odontologiques. Après validation de ce troisième cycle et soutenance d'une thèse, les internes obtiennent en plus du diplôme d'Etat de docteur en chirurgie dentaire une attestation d'études approfondies en chirurgie dentaire.
+
+Le titre d'ancien interne ne peut être utilisé que par les docteurs en chirurgie dentaire qui ont obtenu l'attestation mentionnée à l'alinéa précédent.
+
+Un décret en Conseil d'Etat détermine les modalités du concours de l'internat, le contenu des formations et fixe le statut des internes en odontologie.

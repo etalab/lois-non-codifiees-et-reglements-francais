@@ -4,7 +4,7 @@ I. - Sous réserve des dispositions du II ci-après, les conventions conclues en
 
 II. - A titre transitoire, les tarifs des prestations dispensées avec hébergement dans les établissements mentionnés à l'article L. 162-22 du code de la sécurité sociale sont fixés par les conventions prévues par cet article tant que ces prestations ne sont pas incluses dans la classification mentionnée au 2° de l'article L. 162-22-1 et au 2° du III de l'article L. 162-22-5 du code de la sécurité sociale.
 
-Ces tarifs comprennent les frais d'analyses et d'examens de biologie médicale : leur homologation est accordée au vu, d'une part, des caractéristiques propres de chaque établissement, notamment du volume de son activité, d'autre part, de l'évolution des dépenses hospitalières définie à partir des hypothèses économiques générales et par référence à la politique sociale et sanitaire de l'Etat.
+L'homologation des tarifs mentionnés à l'alinéa ci-dessus est accordée par l'autorité administrative au vu, d'une part, des caractéristiques propres de chaque établissement, notamment du volume de son activité, d'autre part, de l'évolution des dépenses hospitalières définie à partir des hypothèses économiques générales et par référence à la politique sociale et sanitaire de l'Etat.
 
 A défaut des conventions prévues par l'article L. 162-22 du code de la sécurité sociale ou si les tarifs conventionnels n'ont pas été homologués, les caisses fixent des tarifs de responsabilité applicables pour les soins mentionnés au premier alinéa. Ces tarifs sont homologués dans les mêmes conditions que les tarifs conventionnels.
 

@@ -12,7 +12,7 @@ Le prix d'émission des certificats coopératifs d'investissement émis dans les
 
 Dans les sociétés dont les certificats coopératifs d'investissement sont inscrits à la cote officielle ou à la cote du second marché, le prix d'émission ne peut être inférieur à 90 p. 100 de la moyenne des cours cotés aux vingt séances de bourse précédant le jour de la décision de mise en distribution diminuée du montant net de la rémunération.
 
-Dans les autres sociétés, le prix d'émission est fixé en divisant par le nombre de certificats coopératifs d'investissement existants la fraction de l'actif net visée à l'article 19 undecies et calculée d'après le dernier bilan approuvé par l'assemblée générale. L'application des règles de détermination du prix d'émission est vérifiée par le commissaire aux comptes qui présente un rapport spécial à l'assemblée générale annuelle.
+Dans les autres sociétés, le prix d'émission est fixé soit à dire d'expert, soit en divisant par le nombre de certificats coopératifs d'investissement existants la fraction de l'actif net visée à l'article 19 undecies et calculée d'après le dernier bilan approuvé par l'assemblée générale. L'application des règles de détermination du prix d'émission est vérifiée par le commissaire aux comptes qui présente un rapport spécial à l'assemblée générale annuelle.
 
 Lorsque le montant de la rémunération à laquelle il a droit ne correspond pas à un nombre entier de certificats coopératifs d'investissement, le titulaire peut recevoir le nombre de certificats coopératifs d'investissement immédiatement inférieur complété d'une soulte en numéraire ou, si l'assemblée générale l'a autorisé, le nombre de certificats coopératifs d'investissement immédiatement supérieur, en versant la différence en numéraire.
 
