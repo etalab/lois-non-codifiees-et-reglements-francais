@@ -449,7 +449,6 @@
 - [Décret n°85-283 du 27 février 1985](decret-n85-283-du-27-fevrier-1985)
 - [Décret n°85-284 du 27 février 1985](decret-n85-284-du-27-fevrier-1985)
 - [Décret n°85-968 du 27 août 1985](decret-n85-968-du-27-aout-1985)
-- [Décret n°86-1002 du 27 août 1986](decret-n86-1002-du-27-aout-1986)
 - [Décret n°86-1005 du 27 août 1986](decret-n86-1005-du-27-aout-1986)
 - [Décret n°86-1010 du 27 août 1986](decret-n86-1010-du-27-aout-1986)
 - [Décret n°86-1014 du 27 août 1986](decret-n86-1014-du-27-aout-1986)

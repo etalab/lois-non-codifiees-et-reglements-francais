@@ -165,7 +165,6 @@
 - [Arrêté du 22 octobre 1985](arrete-du-22-octobre-1985)
 - [Arrêté du 22 octobre 1986](arrete-du-22-octobre-1986)
 - [Arrêté du 22 septembre 1986](arrete-du-22-septembre-1986)
-- [Arrêté du 23 décembre 1985](arrete-du-23-decembre-1985)
 - [Arrêté du 23 décembre 1986](arrete-du-23-decembre-1986)
 - [Arrêté du 23 septembre 1986](arrete-du-23-septembre-1986)
 - [Arrêté du 23 mai 1986](arrete-du-23-mai-1986)

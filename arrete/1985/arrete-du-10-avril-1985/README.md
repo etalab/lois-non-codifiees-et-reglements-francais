@@ -1,4 +1,4 @@
-# Arrêté du 10 avril 1985 relatif à la participation aux frais d'hospitalisation des assurés relevant du régime de protection sociale de Saint-Pierre-et-Miquelon.
+# Arrêté du 10 avril 1985 fixant la liste des manifestations sportives admises au bénéfice de l'exonération de l'impôt sur les spectacles
 
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

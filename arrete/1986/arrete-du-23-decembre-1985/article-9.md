@@ -1,3 +1,0 @@
-# Article 9
-
-Le comité de gestion prévu à l'article 4 ci-dessus établit pour chaque exercice, à partir d'un programme général d'activités, un budget qui récapitule l'ensemble des recettes et dépenses, dont quinze pour cent au moins sont affectées à la lutte contre les nuisances. Ce budget est soumis pour approbation aux ministres de tutelle avant le 1er décembre de l'exercice précédent et devient exécutoire dans un délai d'un mois en l'absence d'opposition de l'un de ces ministres. Le centre technique de l'industrie des papiers, cartons et celluloses établit pour ce qui le concerne un budget retraçant notamment l'emploi des ressources parafiscales et le transmet aux ministres de tutelle un mois avant sa mise en application.

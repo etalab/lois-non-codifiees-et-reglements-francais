@@ -1,3 +1,0 @@
-# Annexes
-
-- [TAUX DES TAXES PERCUES PAR LES COMITES LOCAUX DES PECHES MARITIMES](taux-des-taxes-percues-par)

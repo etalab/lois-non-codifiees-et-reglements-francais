@@ -47,7 +47,6 @@
 - [Décret du 7 novembre 1984](decret-du-7-novembre-1984)
 - [Décret n°84-1000 du 7 novembre 1984](decret-n84-1000-du-7-novembre-1984)
 - [Décret n°84-1090 du 7 décembre 1984](decret-n84-1090-du-7-decembre-1984)
-- [Décret n°84-1106 du 7 décembre 1984](decret-n84-1106-du-7-decembre-1984)
 - [Décret n°84-1111 du 7 décembre 1984](decret-n84-1111-du-7-decembre-1984)
 - [Décret n°84-1118 du 7 décembre 1984](decret-n84-1118-du-7-decembre-1984)
 - [Décret n°84-1127 du 7 décembre 1984](decret-n84-1127-du-7-decembre-1984)
