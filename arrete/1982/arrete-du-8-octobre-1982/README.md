@@ -1,4 +1,4 @@
-# Arrêté du 8 octobre 1982 RELATIF AUX MODALITES DE REMBOURSEMENT PAR L'ETAT AUX REGIMES DE SECURITE SOCIALE DES COTISATIONS DE SECURITE SOCIALE PRISES EN CHARGE DANS LE CADRE DES CONTRATS DE SOLIDARITE.
+# Arrêté du 8 octobre 1982 relatif à l'émission d'un emprunt de la caisse centrale des banques populaires
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

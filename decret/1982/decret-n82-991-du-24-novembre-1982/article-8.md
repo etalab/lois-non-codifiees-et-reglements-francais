@@ -1,0 +1,7 @@
+# Article 8
+
+A compter du 1er janvier 1983 et par dérogation aux dispositions de l'article 6 ci-dessus, après examen de la situation individuelle des allocataires :
+
+a) Les allocations mentionnées à l'article 6 ci-dessus pourront être maintenues jusqu'aux limites d'âge fixées aux articles 2 et 3 aux personnes en cours d'indemnisation à l'âge de cinquante-sept ans et six mois qui ont été privées d'emploi depuis un an au moins et qui ont appartenu pendant au moins dix ans à un ou plusieurs régimes de sécurité sociale au titre d'emplois salariés relevant du champ d'application du régime d'assurance chômage, ou de périodes assimilées à ces emplois, et sous réserve qu'elles justifient, soit d'une année continue, soit de deux années discontinues d'appartenance dans une ou plusieurs entreprises au cours des cinq années précédant la rupture du contrat de travail ;
+
+b) Le montant de l'allocation de fin de droits est majoré de 100 p. 100 en faveur des allocataires âgés de plus de cinquante-cinq ans qui ont été privés d'emploi depuis un an au moins et qui ont appartenu pendant vingt ans au moins à un ou plusieurs régimes de sécurité sociale au titre d'emplois salariés relevant du champ d'application du régime d'assurance chômage, ou de périodes assimilées à ces emplois et sous réserve qu'ils justifient soit d'une année continue, soit de deux années discontinues d'appartenance dans une ou plusieurs entreprises au cours des cinq années précédant la rupture du contrat de travail.
