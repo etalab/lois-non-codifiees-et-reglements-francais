@@ -1,3 +1,3 @@
-# Arrêté du 5 mai 1983 relatif à la valeur de remboursement de la fraction du capital de l'emprunt d'Etat 8,80 p. 100 1977 amortie le 23 mai 1983
+# Arrêté du 5 mai 1983Taux de la taxe parafiscale sur certains produits pétroliers instituée par le décret n° 83-285 du 8 avril 1983.
 
-- [Article 1](article-1.md)
+- [Article 2](article-2.md)
