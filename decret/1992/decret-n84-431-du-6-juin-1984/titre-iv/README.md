@@ -1,6 +1,7 @@
 # Titre IV : Dispositions diverses et transitoires.
 
 - [Article 59](article-59.md)
+- [Article 60](article-60.md)
 - [Article 65](article-65.md)
 - [Article 66](article-66.md)
 - [Article 68](article-68.md)
