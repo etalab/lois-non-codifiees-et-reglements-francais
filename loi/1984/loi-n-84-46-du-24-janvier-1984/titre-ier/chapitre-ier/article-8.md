@@ -4,4 +4,4 @@ Ne sont pas soumis à la présente loi : le Trésor public, la Banque de France,
 
 Ces institutions et services peuvent effectuer les opérations de banque prévues par les dispositions législatives et réglementaires qui les régissent.
 
-Les règlements du comité de la réglementation bancaire peuvent, sous réserve des adaptations nécessaires et dans des conditions fixées par décret en Conseil d'Etat, être étendus aux services financiers de la poste, à la caisse des dépôts et consignations et aux comptables du Trésor assurant un service de dépôts de fonds de particuliers.
+Les règlements du comité de la réglementation bancaire et financière ainsi que les règlements du comité de la réglementation comptable peuvent, sous réserve des adaptations nécessaires et dans des conditions fixées par décret en Conseil d'Etat, être étendus aux services financiers de la poste, à la caisse des dépôts et consignations et aux comptables du Trésor assurant un service de dépôts de fonds de particuliers.
