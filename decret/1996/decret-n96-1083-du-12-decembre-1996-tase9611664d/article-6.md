@@ -1,0 +1,3 @@
+# Article 6
+
+Le complément de prime variable et collectif est constitué de deux parts dont les quotités sont fixées par un arrêté conjoint des ministres chargés du travail, du budget et de la fonction publique. La première part rétribue les agents ayant collectivement atteint les objectifs nationaux. La seconde part est attribuée aux agents ayant collectivement atteint les objectifs fixés aux services auxquels ils appartiennent. La nature des objectifs des services est déterminée par l'arrêté prévu à l'article 4 ci-dessus. Le directeur général de l'Agence nationale pour l'emploi détermine les modalités de fixation et le montant en francs des parts susmentionnées dans les conditions fixées par l'arrêté prévu ci-dessus.
