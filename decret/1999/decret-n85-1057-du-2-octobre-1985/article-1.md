@@ -14,7 +14,7 @@ I. - L'administration centrale du ministère de l'intérieur comprend les direct
 
 6° La direction de la programmation, des affaires financières immobilières ;
 
-7° La direction des transmissions et de l'informatique.
+7° La direction des systèmes d'information et de communication.
 
 II. - Elle comprend également les services et organismes suivants :
 
