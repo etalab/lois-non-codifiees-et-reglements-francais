@@ -1,0 +1,3 @@
+# Article ANNEXE  , 1
+
+La présente convention a pour objet de définir les conditions dans lesquelles une subvention forfaitaire de fonctionnement est attribuée par le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports, en application de l'article 15 de la loi n° 59-1557 du 31 décembre 1959 modifiée, au centre de formation pédagogique privé dénommé ayant son siège à, déclaré le ,au titre de la loi du 12 juillet 1875, qui assure la formation initiale des maîtres appelés à exercer dans les écoles privées ayant conclu avec l'Etat l'un des contrats prévus par la loi précitée, dans les conditions fixées par l'arrêté du 29 juillet 1987.

@@ -142,6 +142,8 @@
 - [Arrêté du 7 mai 1988 (INDB8800225A)](arrete-du-7-mai-1988-indb8800225a)
 - [Arrêté du 7 mai 1988 (RESP8800672A)](arrete-du-7-mai-1988-resp8800672a)
 - [Arrêté du 7 mai 1988 (RESP8800673A)](arrete-du-7-mai-1988-resp8800673a)
+- [Arrêté du 8 août 1988 (MENF8801414A)](arrete-du-8-aout-1988-menf8801414a)
+- [Arrêté du 8 août 1988 (MENP8801467A)](arrete-du-8-aout-1988-menp8801467a)
 - [Arrêté du 8 avril 1988 (AGRB8800485A)](arrete-du-8-avril-1988-agrb8800485a)
 - [Arrêté du 8 avril 1988 (COPA8800040A)](arrete-du-8-avril-1988-copa8800040a)
 - [Arrêté du 8 avril 1988 (ECOZ8800014A)](arrete-du-8-avril-1988-ecoz8800014a)
