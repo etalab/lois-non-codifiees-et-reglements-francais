@@ -8,4 +8,4 @@ Les administrateurs judiciaires ayant exercé leur profession pendant cinq ans a
 
 Les administrateurs judiciaires ayant exercé leur profession pendant moins de cinq ans peuvent être dispensés par la commission de l'examen d'aptitude ou de certaines épreuves de celui-ci, ainsi que de tout ou partie du stage professionnel.
 
-La commission statue dans les conditions prévues aux articles 47 à 50.
+La commission statue dans les conditions prévues aux articles 47 à 50. Le commissaire du Gouvernement adresse au ministre de la justice, dans les quinze jours de la notification qui lui en est faite, copie des décisions de dispense fondée sur le cinquième alinéa de l'article 21 de la loi n° 85-99 du 25 janvier 1985.

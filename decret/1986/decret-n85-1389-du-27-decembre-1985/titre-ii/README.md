@@ -1,4 +1,4 @@
 # Titre II : Les mandataires liquidateurs
 
-- [Chapitre Ier : Etablissement des listes des mandataires liquidateurs](chapitre-ier)
+- [Chapitre Ier : Le conseil national des administrateurs judiciaires et des mandataires judiciaires à la liquidation des entreprises.](chapitre-ier)
 - [Chapitre II : Contrôle, inspections et comptabilité](chapitre-ii)

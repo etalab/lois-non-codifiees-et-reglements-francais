@@ -7,3 +7,5 @@ Le bureau est élu au scrutin uninominal majoritaire à un tour pour une périod
 En cas d'égalité des voix, le plus âgé des candidats est proclamé élu.
 
 Le président et le vice-président appartiennent, en alternance, l'un à la profession des administrateurs judiciaires, l'autre à la profession des mandataires judiciaires à la liquidation des entreprises.
+
+Le président sortant n'est rééligible à cette fonction et à celle de vice-président qu'après un intervalle de quatre années au moins.

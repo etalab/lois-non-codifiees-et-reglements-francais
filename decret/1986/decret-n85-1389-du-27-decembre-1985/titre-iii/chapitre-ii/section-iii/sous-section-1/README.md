@@ -1,4 +1,4 @@
-# Sous-section 1 : Dispositions communes aux administrateurs judiciaires en matière commerciale et en matière civile et aux mandataires liquidateurs.
+# Sous-section 1 : Tenue de la comptabilité
 
 - [Article 58](article-58.md)
 - [Article 59](article-59.md)

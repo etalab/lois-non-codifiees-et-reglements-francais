@@ -1,5 +1,5 @@
 # Article 63
 
-Des états sont établis périodiquement par les administrateurs judiciaires et les mandataires liquidateurs [*attributions - obligations*] pour toutes les procédures en cours ou clôturées durant la période considérée.
+Des états sont établis chaque trimestre par les administrateurs judiciaires et les mandataires judiciaires à la liquidation des entreprises pour tous les mandats n'ayant pas fait l'objet d'une reddition des comptes.
 
-Ces états mentionnent pour chaque procédure [*mentions obligatoires*] : le numéro de l'affaire, le nom de celle-ci, la date du jugement, les sommes totales reçues pour l'affaire depuis l'origine, les mouvements à la Caisse des dépôts et consignations, le solde à la Caisse des dépôts et consignations, et, le cas échéant, les sommes disponibles aux mains de l'administrateur judiciaire ou du mandataire liquidateur.
+Ces états mentionnent pour chaque mandat : le numéro de l'affaire au répertoire, le nom de celle-ci, le nom de la juridiction mandante ou la qualité du mandant, la date de la décision de désignation, la nature de la mission concernée, les mouvements comptables enregistrés pour l'affaire depuis l'origine, les mouvements et le solde par compte ouvert à la Caisse des dépôts et consignations et dans d'autres établissements financiers, ainsi que l'ensemble des fonds, effets, titres ou valeurs appartenant à autrui et, le cas échéant, les espèces disponibles aux mains du professionnel.

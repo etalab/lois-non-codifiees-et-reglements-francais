@@ -1,3 +1,5 @@
 # Article 66
 
-A tout moment, le total des sommes dont l'administrateur judiciaire ou le mandataire liquidateur est comptable au titre d'une procédure doit être couvert par les fonds déposés à la Caisse des dépôts et consignations, par le solde des comptes bancaires et des comptes chèques postaux professionnels du titulaire et par les espèces encaissées.
+A tout moment, le total des sommes dont l'administrateur judiciaire ou le mandataire judiciaire à la liquidation des entreprises est comptable au titre d'un mandat doit être couvert par les fonds, effets, titres et autres valeurs appartenant à autrui déposés sur les comptes ouverts à la Caisse des dépôts et consignations et dans d'autres établissements financiers, et par les espèces en caisse.
+
+Les fonds détenus au titre d'un mandat ne peuvent en aucun cas être utilisés au bénéfice d'un autre mandat.
