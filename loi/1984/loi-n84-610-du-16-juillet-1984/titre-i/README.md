@@ -1,6 +1,5 @@
 # Titre I : L'organisation des activités physiques et sportives
 
-- [ChapitreIX : La sécurité des équipements et des manifestations sportives.](chapitreix)
 - [Chapitre I : L'éducation physique et sportive.](chapitre-i)
 - [Chapitre II : Les associations et les sociétés sportives.](chapitre-ii)
 - [Chapitre III : Les fédérations sportives.](chapitre-iii)
