@@ -10,8 +10,8 @@ Les régularisations de déductions auxquelles les assujettis sont tenus de proc
 
 2° Conformément au b du 12 de l'article 6 de la loi du 17 juillet 1992 susvisée, la taxe déductible dont l'imputation n'a pu être opérée peut faire l'objet d'une demande de remboursement adressée au centre des impôts du principal établissement dans chaque région.
 
-Ces demandes de remboursement sont déposées au cours du mois de janvier de chaque année civile et portent sur un montant au moins égal à 1000 F.
+Ces demandes de remboursement sont déposées au cours du mois de janvier de chaque année civile et portent sur un montant au moins égal à 150 euros.
 
-Toutefois, lorsque la déclaration d'octroi de mer déposée au titre d'un trimestre civil fait apparaître un crédit de taxe déductible au moins égal à 5000 F, une demande de remboursement peut être déposée au cours du mois suivant ce trimestre ;
+Toutefois, lorsque la déclaration d'octroi de mer déposée au titre d'un trimestre civil fait apparaître un crédit de taxe déductible au moins égal à 760 euros, une demande de remboursement peut être déposée au cours du mois suivant ce trimestre ;
 
-3° Les demandes de remboursement présentées en application des dispositions du 13 de l'article 6 de la loi du 17 juillet 1992 susvisée sont déposées dans le mois qui suit la fin de chaque trimestre civil auprès du service des impôts du principal établissement dans chaque région. Ces demandes doivent porter sur un montant au moins égal à 1000 F et être appuyées de pièces justificatives.
+3° Les demandes de remboursement présentées en application des dispositions du 13 de l'article 6 de la loi du 17 juillet 1992 susvisée sont déposées dans le mois qui suit la fin de chaque trimestre civil auprès du service des impôts du principal établissement dans chaque région. Ces demandes doivent porter sur un montant au moins égal à 150 euros et être appuyées de pièces justificatives.
