@@ -34,9 +34,11 @@ Par. 5 - A l'expiration de chaque année civile, les employeurs doivent procéde
 
 La différence éventuelle entre le montant des cotisations ainsi déterminées et le montant de celles qui ont été précédemment versées au titre de l'année considérée fait l'objet d'un versement complémentaire : celui-ci est effectué dans le délai fixé à l'article 6 bis.
 
-Par. 6 - Les collectivités relevant du champ d'application de l'Ircantec doivent s'assurer, au moyen des déclarations qui leur sont faites par leurs agents en application de l'article 149, par. 1, du décret n° 46-1378 du 8 juin 1946, que ceux-ci ne sont pas susceptibles d'être ressortissants du régime au titre d'une autre activité professionnelle exercée concomitamment.
+Par. 6 - Les collectivités relevant du champ d'application de l'Ircantec doivent s'assurer, au moyen des déclarations qui leur sont faites par leurs agents en application de l'article R242-3 du code de la sécurité sociale, que ceux-ci ne sont pas susceptibles d'être ressortissants du régime au titre d'une autre activité professionnelle exercée concomitamment.
 
-Dans le cas où certains de leurs agents travailleraient simultanément pour plusieurs collectivités relevant du champ d'application du régime, les différents employeurs doivent s'entendre pour déterminer au prorata des rémunérations qu'ils ont effectivement versées, la part de cotisation afférente à la tranche de rémunération correspondant au plafond des cotisations pour la retraite du régime général des assurances sociales et à celle supérieure à ce plafond, qui est due par chacun.
+Dans le cas où certains de leurs agents travailleraient simultanément pour plusieurs employeurs relevant ou non du champ d'application du régime et sous réserve du respect de la réglementation en vigueur, les différents employeurs affiliés à l'Ircantec doivent s'entendre pour déterminer, au prorata des rémunérations qu'ils ont effectivement versées, la part des cotisations afférente à la tranche de rémunération correspondant au plafond des cotisations pour la retraite du régime général des assurances sociales et à celle supérieure à ce plafond, qui est due par chacun.
+
+Dans ce but, les tranches sont déterminées comme si l'ensemble des employeurs relevaient du régime.
 
 En cas d'absence des déclarations visées au premier alinéa du présent paragraphe, chaque employeur calcule les cotisations dues au titre de la tranche de rémunération correspondant au plafond des cotisations pour la retraite du régime général des assurances sociales et de celle supérieure à ce plafond en faisant abstraction de l'existence d'employeurs concomitants.
 
