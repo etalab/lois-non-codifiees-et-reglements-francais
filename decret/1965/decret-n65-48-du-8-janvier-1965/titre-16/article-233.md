@@ -24,12 +24,6 @@ Les prescriptions du présent décret pour l'application desquelles est prévue 
 <td> :-------------------:-------------:</td>
 </tr>
 <tr>
-<td> : Article 16        :             :</td>
-</tr>
-<tr>
-<td> :  (alinéa 1)       :   4 jours   :</td>
-</tr>
-<tr>
 <td> : Article 23        :             :</td>
 </tr>
 <tr>

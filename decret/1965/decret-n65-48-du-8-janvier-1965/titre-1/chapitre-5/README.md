@@ -1,3 +1,0 @@
-# CHAPITRE 5 : TRAVAUX EXECUTES PAR GRAND VENT.
-
-- [Article 19](article-19.md)

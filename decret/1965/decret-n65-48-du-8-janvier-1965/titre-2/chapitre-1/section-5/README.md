@@ -1,3 +1,0 @@
-# SECTION 5 : TRANSPORT OU ELEVATION DU PERSONNEL.
-
-- [Article 43](article-43.md)
