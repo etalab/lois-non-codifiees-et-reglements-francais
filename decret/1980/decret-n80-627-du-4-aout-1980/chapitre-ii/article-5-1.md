@@ -1,0 +1,3 @@
+# Article 5-1
+
+Le certificat d'aptitude au professorat d'éducation physique et sportive est délivré aux candidats qui, ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne ou d'un troisième concours, ont accompli en qualité de professeur d'éducation physique et sportive stagiaire, dans les conditions définies à l'article 5-7 ci-après, un stage d'une durée d'une année sanctionné par un examen de qualification professionnelle dont les modalités sont fixées par arrêté du ministre chargé de l'éducation. Les prolongations éventuelles du stage sont prononcées par le recteur de l'académie dans le ressort de laquelle le stage est effectué.
