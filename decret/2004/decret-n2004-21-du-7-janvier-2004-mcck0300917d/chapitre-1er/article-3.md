@@ -1,6 +1,6 @@
 # Article 3
 
-I. - Pour les oeuvres cinématographiques de fiction, le respect des conditions prévues au 1° du II de l'article 220 sexies est apprécié au moyen d'un barème de 40 points attribués aux personnels et prestations mentionnés au a et au b du 1° précité et répartis en groupes de professions et d'activités dans les conditions suivantes :
+I. - Pour les oeuvres cinématographiques de fiction, le respect des conditions prévues au 1° du 1 du II de l'article 220 sexies du code général des impôts et la est apprécié au moyen d'un barème de 40 points attribués aux personnels et prestations mentionnés au a et au b du 1° précité et répartis en groupes de professions et d'activités dans les conditions suivantes :
 
 1° Groupe "Techniciens collaborateurs de création".
 
@@ -48,4 +48,4 @@ Les points affectés aux personnels du groupe "Ouvriers" sont accordés en tout 
 
 En ce qui concerne les lieux de tournage figurant au poste "localisation des éléments de tournage" du groupe "Tournage et post-production", si une partie du tournage est effectuée à l'étranger et qu'elle n'est pas dûment justifiée par des raisons artistiques, les points relevant de ce poste ne sont pas obtenus. En ce qui concerne le laboratoire de tournage figurant au même poste, si l'entreprise chargée d'exécuter la prestation n'est pas établie en France mais dans le pays où le tournage est effectué, les points peuvent, par dérogation, être obtenus pour les oeuvres cinématographiques dites "d'initiative française" si des raisons techniques le justifient.
 
-III. - Sont considérées comme réalisées essentiellement avec le concours des personnels et prestations mentionnés aux a et b du 1° du II de l'article 220 sexies du code général des impôts les oeuvres cinématographiques de fiction qui réunissent, sur le barème prévu au I ci-dessus, un nombre minimum de 38 points.
+III. - Sont considérées comme réalisées essentiellement avec le concours des personnels et prestations mentionnés aux a et b du 1° du 1 du II de l'article 220 sexies du code général des impôts les oeuvres cinématographiques de fiction qui réunissent, sur le barème prévu au I ci-dessus, un nombre minimum de 38 points.

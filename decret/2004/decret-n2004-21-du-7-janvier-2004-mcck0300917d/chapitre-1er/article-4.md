@@ -1,6 +1,6 @@
 # Article 4
 
-I. - Pour les oeuvres cinématographiques documentaires, le respect des conditions prévues au 1° du II de l'article 220 sexies est apprécié au moyen d'un barème de 40 points attribués aux personnels et prestations mentionnés aux a et b du 1° précité et répartis en groupes de professions et d'activités dans les conditions suivantes :
+I. - Pour les oeuvres cinématographiques documentaires, le respect des conditions prévues au 1° du 1 du II de l'article 220 sexies du code général des impôts est apprécié au moyen d'un barème de 40 points attribués aux personnels et prestations mentionnés aux a et b du 1° précité et répartis en groupes de professions et d'activités dans les conditions suivantes :
 
 1° Groupe "Techniciens collaborateurs de création".
 
@@ -30,4 +30,4 @@ Post-production image : 8 points. Ces points concernent les travaux effectués e
 
 II. - Tout point ou ensemble de points correspondant à des personnels ou prestations auxquels il n'est pas fait appel pour des raisons artistiques ou techniques dûment justifiées est réputé obtenu pour les oeuvres cinématographiques dites "d'initiative française".
 
-III. - Sont considérées comme réalisées essentiellement avec le concours des personnels et prestations mentionnés aux a et b du 1° du II de l'article 220 sexies du code général des impôts les oeuvres cinématographiques documentaires qui réunissent, sur le barème prévu au I ci-dessus, un nombre minimum de 38 points.
+III. - Sont considérées comme réalisées essentiellement avec le concours des personnels et prestations mentionnés aux a et b du 1° du 1 du II de l'article 220 sexies du code général des impôts les oeuvres cinématographiques documentaires qui réunissent, sur le barème prévu au I ci-dessus, un nombre minimum de 38 points.

@@ -1,6 +1,6 @@
 # Article 5
 
-I. - Pour les oeuvres cinématographiques d'animation, le respect des conditions prévues au 2° du II de l'article 220 sexies est apprécié au moyen d'un barème de 64 points attribués aux personnels et prestataires mentionnés aux a, b et c du 2° précité et répartis en groupes de professions dans les conditions suivantes :
+I. - Pour les oeuvres cinématographiques d'animation, le respect des conditions prévues au 2° du 1 du II de l'article 220 sexies du code général des impôts est apprécié au moyen d'un barème de 64 points attribués aux personnels et prestataires mentionnés aux a, b et c du 2° précité et répartis en groupes de professions dans les conditions suivantes :
 
 1° Groupe "Techniciens collaborateurs de création".
 
@@ -68,4 +68,4 @@ Mixage : 2 points.
 
 II. - Les points affectés aux personnels du groupe "Collaborateurs chargés de la préparation de l'animation" et du groupe "Collaborateurs chargés de la fabrication de l'animation" sont accordés en tout ou partie compte tenu notamment du nombre de personnes constituant les équipes, de la nature des emplois, de la durée des engagements et du montant des salaires.
 
-III. - Sont considérées comme réalisées essentiellement avec le concours des personnels et prestations mentionnés aux a, b et c du 2° du II de l'article 220 sexies du code général des impôts, les oeuvres cinématographiques d'animation qui réunissent, sur le barème prévu au I ci-dessus, un nombre minimum de 40 points.
+III. - Sont considérées comme réalisées principalement avec le concours des personnels et prestations mentionnés aux a, b et c du 2° du 1 du II de l'article 220 sexies du code général des impôts, les oeuvres cinématographiques d'animation qui réunissent, sur le barème prévu au I ci-dessus, un nombre minimum de 40 points.
