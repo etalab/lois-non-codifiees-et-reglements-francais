@@ -1,0 +1,5 @@
+# Article 28
+
+Les décrets portant promotion de grade ou nomination aux fonctions prévues au quatrième alinéa de l'article 2 sont pris par le Président de la République sur proposition du garde des sceaux, ministre de la justice, après avis [Disposition déclarée non conforme à la Constitution par décision du Conseil constitutionnel n° 92-305 DC du 21 février 1992] du Conseil supérieur de la magistrature en ce qui concerne les magistrats du siège, et après avis de la commission consultative du parquet, dans les conditions prévues à l'article 36-1, en ce qui concerne les magistrats du parquet.
+
+Les conseillers référendaires à la Cour de cassation sont choisis, sur proposition du Conseil supérieur de la magistrature, parmi les magistrats du deuxième grade inscrits ou ayant été inscrits à une liste d'aptitude spéciale ou inscrits sous une rubrique spéciale du tableau d'avancement. La durée d'exercice des fonctions de conseiller référendaire est de dix années ; elle ne peut être ni renouvelée, ni prorogée.

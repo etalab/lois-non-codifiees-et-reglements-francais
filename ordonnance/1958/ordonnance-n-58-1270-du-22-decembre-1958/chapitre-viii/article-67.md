@@ -8,6 +8,8 @@ Tout magistrat est placé dans l'une des positions suivantes :
 
 3° En disponibilité ;
 
-4° Sous les drapeaux.
+4° Sous les drapeaux ;
 
-5° En congé postnatal.
+5° En congé parental.
+
+Les modalités de classement des magistrats détachés dans les corps de la fonction publique de l'Etat sont réglées par les statuts particuliers de ces corps.

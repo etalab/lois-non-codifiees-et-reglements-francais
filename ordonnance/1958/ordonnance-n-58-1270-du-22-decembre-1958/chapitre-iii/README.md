@@ -1,4 +1,7 @@
 # Chapitre III : Des magistrats des premier et second grades
 
+- [Article 27](article-27.md)
+- [Article 28](article-28.md)
+- [Article 30](article-30.md)
 - [Article 33](article-33.md)
 - [*intitulé modifié : loi organique 67-130 1967-02-20 art. 3 JORF 21 février 1967*.](intitule-modifie-loi)

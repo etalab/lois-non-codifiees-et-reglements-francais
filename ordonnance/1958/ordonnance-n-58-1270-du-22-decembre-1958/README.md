@@ -6,6 +6,7 @@
 - [Chapitre III : Des magistrats des premier et second grades](chapitre-iii)
 - [Chapitre IV : De la commission d'avancement.](chapitre-iv)
 - [Chapitre V : Des magistrats hors hiérarchie.](chapitre-v)
+- [Chapitre V ter : Du détachement judiciaire.](chapitre-v-ter)
 - [Chapitre VI : De la rémunération.](chapitre-vi)
 - [Chapitre VII : Discipline](chapitre-vii)
 - [Chapitre VIII : Positions.](chapitre-viii)

@@ -1,7 +1,5 @@
 # Article 35-1
 
-Les membres de la commission d'avancement visés aux 2°, 3° et 4° de l'article précédent sont désignés pour trois ans [*durée du mandat*], par décret pris sur la proposition du garde des sceaux, ministre de la justice.
+La durée du mandat des membres titulaires et suppléants de la commission d'avancement visés aux 2°, 3° ou 4° de l'article 35 est de quatre ans non renouvelables.
 
-Lorsqu'une vacance se produit plus de six mois avant la date normale d'expiration des mandats, il est procédé dans un délai de trois mois et suivant les modalités prévues à l'article précédent à une désignation complémentaire : le membre ainsi désigné achève le mandat de son prédécesseur.
-
-Les mandats des membres sortants ne sont pas immédiatement renouvelables.
+Lorsque le siège de l'un des membres visés aux 2°, 3° ou 4° de l'article 35 devient vacant par suite de décès, d'empêchement définitif, de démission ou en cas de perte de la qualité au titre de laquelle il a été élu, ce siège est pourvu par le suppléant qui achève le mandat du titulaire. Le suppléant peut remplacer le titulaire momentanément empêché. Ils ne peuvent siéger ensemble.

@@ -2,7 +2,7 @@
 
 Dans chaque ressort de cour d'appel, les magistrats, à l'exception des premiers présidents et des procureurs généraux, sont inscrits sur une liste unique.
 
-Les magistrats du premier et du second grade de la Cour de cassation et les magistrats de la Cour de sûreté de l'Etat autres que le premier président et le procureur général sont inscrits sur la liste des magistrats du ressort de la Cour d'appel de Paris.
+Les magistrats du premier et du second grade de la Cour de cassation sont inscrits sur la liste des magistrats du ressort de la Cour d'appel de Paris.
 
 Les magistrats en service à l'administration centrale du ministère de la justice et les magistrats placés en position de détachement sont inscrits sur une liste particulière.
 
