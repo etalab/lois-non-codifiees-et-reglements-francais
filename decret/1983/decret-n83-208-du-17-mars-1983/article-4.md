@@ -1,0 +1,3 @@
+# Article 4
+
+Les anciens fonctionnaires, militaires et magistrats de l'ordre judiciaire admis à effectuer avant l'intervention du présent décret des versements de cotisations au régime général en vue de la validation, au titre de l'assurance vieillesse, de tout ou partie de leurs périodes de service public antérieures au 29 janvier 1950 qui entrent dans le champ d'application de l'article 23 de la loi du 13 juillet 1982 susvisée pourront demander le remboursement par ledit régime des cotisations qu'ils ont versées pour la ou les périodes susceptibles de faire l'objet d'un rétablissement en application des articles 1er et 2 ci-dessus, déduction faite des arrérages déjà perçus au titre de la prestation de vieillesse et correspondant aux périodes considérées.

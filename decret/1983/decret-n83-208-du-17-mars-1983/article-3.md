@@ -1,0 +1,3 @@
+# Article 3
+
+Les personnes énumérées à l'article 23 de la loi du 13 juillet 1982 susvisée qui, ayant été tributaires par ailleurs du régime général de la sécurité sociale, avaient demandé la liquidation de leurs droits à pension de vieillesse auprès de ce régime avant l'entrée en vigueur de ladite loi obtiennent la révision de leur pension avec effet du 1er décembre 1982, pour tenir compte des périodes validées à leur profit par le régime général, en application de l'article 1er ci-dessus, dans la limite du maximum de trimestres susceptibles d'être pris en compte à la date d'effet initiale de la pension.
