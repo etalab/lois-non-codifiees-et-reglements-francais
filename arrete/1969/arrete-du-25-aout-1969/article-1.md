@@ -316,6 +316,8 @@ Biochimie.
 
 Physique.
 
+Sciences biologiques (option Biochimie ou option Biologie).
+
 Etudes littéraires et de sciences humaines.
 
 Titre d'ancien élève, admis aux examens de sortie, des écoles suivantes :
