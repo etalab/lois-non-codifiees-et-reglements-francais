@@ -699,6 +699,7 @@
 - [Décret n°99-971 du 24 novembre 1999 (DEFD9902097D)](decret-n99-971-du-24-novembre-1999-defd9902097d)
 - [Décret n°2000-706 du 25 juillet 2000 (MESS0020868D)](decret-n2000-706-du-25-juillet-2000-mess0020868d)
 - [Décret n°78-1044 du 25 octobre 1978](decret-n78-1044-du-25-octobre-1978)
+- [Décret n°78-79 du 25 janvier 1978](decret-n78-79-du-25-janvier-1978)
 - [Décret n°84-304 du 25 avril 1984](decret-n84-304-du-25-avril-1984)
 - [Décret n°99-1003 du 25 novembre 1999 (MESS9922538D)](decret-n99-1003-du-25-novembre-1999-mess9922538d)
 - [Décret n°99-51 du 25 janvier 1999 (ECOT9810354D)](decret-n99-51-du-25-janvier-1999-ecot9810354d)
