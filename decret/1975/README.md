@@ -8,6 +8,7 @@
 - [Décret n°75-228 du 4 avril 1975](decret-n75-228-du-4-avril-1975)
 - [Décret n°78-529 du 4 avril 1978](decret-n78-529-du-4-avril-1978)
 - [Décret n°75-847 du 5 septembre 1975](decret-n75-847-du-5-septembre-1975)
+- [Décret n°75-315 du 5 mai 1975](decret-n75-315-du-5-mai-1975)
 - [Décret n°75-8 du 6 janvier 1975](decret-n75-8-du-6-janvier-1975)
 - [Décret n°75-84 du 6 février 1975](decret-n75-84-du-6-fevrier-1975)
 - [Décret n°75-79 du 7 février 1975](decret-n75-79-du-7-fevrier-1975)
