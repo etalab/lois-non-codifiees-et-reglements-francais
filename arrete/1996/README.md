@@ -1276,7 +1276,6 @@
 - [Arrêté du 29 mai 1996 (MIPP9600194A)](arrete-du-29-mai-1996-mipp9600194a)
 - [Arrêté du 29 mai 1996 (MIPP9600195A)](arrete-du-29-mai-1996-mipp9600195a)
 - [Arrêté du 29 mai 1996 (MIPP9600196A)](arrete-du-29-mai-1996-mipp9600196a)
-- [Arrêté du 30 août 1996 (AGRG9600595A)](arrete-du-30-aout-1996-agrg9600595a)
 - [Arrêté du 30 août 1996 (ECOP9600259A)](arrete-du-30-aout-1996-ecop9600259a)
 - [Arrêté du 30 août 1996 (TASH9623306A)](arrete-du-30-aout-1996-tash9623306a)
 - [Arrêté du 30 avril 1996 (AGRG9600897A)](arrete-du-30-avril-1996-agrg9600897a)
