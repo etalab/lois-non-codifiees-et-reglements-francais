@@ -1,3 +1,3 @@
 # Article 2
 
-Les stocks visés à l'article 1er ci-dessus sont transférés pour une valeur nette comptable de 42.522.812,83 F.
+L'ensemble des biens, créances, immobilisations en cours, disponibilités en caisse ou inscrites à des comptes externes de disponibilités qui constituent les actifs de l'Institut national de l'audiovisuel visé à l'article 3 de la loi n° 74-696 du 7 août 1974, ainsi que l'ensemble des capitaux, réserves, provisions fiscales et dettes qui constituent ses éléments de passif, tels qu'ils sont constatés au bilan de sortie de la gestion 1982, sont transférés à la date du 1er janvier 1983 à l'Institut national de la communication audiovisuelle visé à l'article 47 de la loi n° 82-652 du 29 juillet 1982.

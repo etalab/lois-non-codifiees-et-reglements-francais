@@ -24,6 +24,8 @@
 - [Décret n°83-100 du 10 février 1983](decret-n83-100-du-10-fevrier-1983)
 - [Décret n°83-171 du 10 mars 1983](decret-n83-171-du-10-mars-1983)
 - [Décret n°83-172 du 10 mars 1983](decret-n83-172-du-10-mars-1983)
+- [Décret n°83-178 du 10 mars 1983](decret-n83-178-du-10-mars-1983)
+- [Décret n°83-179 du 10 mars 1983](decret-n83-179-du-10-mars-1983)
 - [Décret n°83-89 du 11 février 1983](decret-n83-89-du-11-fevrier-1983)
 - [Décret n°86-1035 du 11 septembre 1986](decret-n86-1035-du-11-septembre-1986)
 - [Décret n° 83-16 du 13 janvier 1983](decret-n-83-16-du-13-janvier-1983)

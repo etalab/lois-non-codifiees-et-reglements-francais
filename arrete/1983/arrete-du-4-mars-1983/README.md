@@ -1,4 +1,4 @@
-# Arrêté du 4 mars 1983 relatif à la détermination du modèle de marque distincte devant être apposée sur le conditionnement des boissons alcooliques
+# Arrêté du 4 mars 1983 relatif à l'organisation et fonctionnement du comité technique consulté en vue de l'agrément des installations, appareils et instruments utilisés pour l'immobilisation, l'étourdissement et la mise à mort des animaux de boucherie, de charcuterie, de basse-cour et des gibiers d'élevage destinés à l'abattage
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,9 +1,7 @@
 # Article 1
 
-La marque distincte apposée sur les bouteilles de boissons alcooliques d'une teneur en alcool supérieure à 25 p. 100 du volume est de forme circulaire d'un diamètre au moins égal à 12 mm pour les unités de conditionnement d'un volume supérieur à 10 cl.
+Le comité technique institué par l'article 11 du décret n° 80-791 du 1er octobre 1980 modifié susvisé est consulté pour avis par le ministre de l'agriculture sur l'agrément des installations, appareils et instruments utilisés pour l'étourdissement des animaux à l'abattage, l'immobilisation des bovins lors d'abattage rituel et la mise à mort sans saignée des gibiers d'élevage.
 
-Elle comporte à son pourtour l'indication "Cotisation sécurité sociale" et en son centre deux anneaux entrelacés.
+Il étudie les dossiers techniques de demande d'agrément qui lui sont présentés conformément aux dispositions de l'arrêté du 10 avril 1981 susvisé, et peut le cas échéant demander des pièces complémentaires.
 
-Elle est conforme au modèle annexé au présent arrêté (1).
-
-(1) L'annexe peut être consultée à la direction générale des impôts.
+Il examine le rapport relatif aux essais effectués conformément aux dispositions de l'arrêté interministériel précité et assiste au fonctionnement du matériel présenté à l'agrément, et peut, le cas échéant, demander des essais complémentaires.

@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur de la sécurité sociale, le directeur général des impôts et le directeur général des douanes et droits indirects sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Lorsque le ministre émet une décision de refus, celui-ci est notifié au demandeur en lui précisant le motif ainsi que, éventuellement, les conditions à remplir pour que le requérant puisse demander à nouveau l'agrément du matériel qu'il présente.
