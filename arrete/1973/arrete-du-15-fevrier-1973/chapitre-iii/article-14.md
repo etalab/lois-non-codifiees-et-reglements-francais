@@ -4,7 +4,7 @@ Les tableaux mensuels nominatifs prévus à l'article 9 ci-dessus mentionnent au
 
 1° Nature du service de garde.
 
-Celui-ci peut prendre la forme
+Celui-ci peut prendre la forme:
 
 D'une garde mise en place dans les secteurs comportant une activité intense pendant la nuit ou pendant la journée d'un dimanche ou d'un jour férié;
 
@@ -16,112 +16,54 @@ La garde et l'astreinte opérationnelle à domicile peuvent être divisées en d
 
 - pour la seconde partie de la nuit la demi-garde peut être prolongée par une demi-astreinte opérationnelle;
 
-au cas où dans le cadre de cette demi-astreinte opérationnelle les praticiens seraient appelés à effectuer une intervention se prolongeant d'au moins 3 heures au-delà de la limite de 1 h 30, cette demi-astreinte opérationnelle se transforme en demi-garde;
+au cas où dans le cadre de cette demi-astreinte opérationnelle les praticiens seraient appelés à effectuer une intervention se prolongeant d'au moins 3 heures au-delà de la limite de 1 h 30, cette demi-astreinte opérationnelle se transforme en demi-garde.
 
 D'une astreinte de sécurité de nuit, de dimanche ou jour férié dans les disciplines qui ne donnent lieu qu'à des appels peu fréquents;
 
-D'appels exceptionnels. Les disciplines dans lesquelles les appels sont exceptionnels ne donnent pas lieu à une liste de garde.
+D'appels exceptionnels. Les disciplines dans lesquelles, les appels sont exceptionnels ne donnent pas lieu à une liste de garde.
 
-2° Indemnisation des participations au service de garde :
+2° Indemnisation des participations au service de garde
 
-Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés quelle que soit la catégorie à laquelle ils appartiennent ;
+Ces participations sont indemnisées sur la base de taux forfaitaires communs à tous les praticiens concernés, quelle que soit la catégorie à laquelle ils appartiennent.
 
-Ces taux, ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique, sont fixés ainsi qu'il suit :
+Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique sont fixés ainsi qu'il suit :
 
-1. Service de garde sur place
+Taux à compter du 1er mars 1988
 
-Garde :
+1° Service de garde sur place :
 
-Taux à compter du 1er mai 1987 (en francs) : 812,80
+Garde : 824,96 F ;
 
-Garde :
+Demi-garde : 412,48 F.
 
-Taux à compter du 1er août 1987 (en francs) : 816,80
-
-Demi-garde :
-
-Taux à compter du 1er mai 1987 (en francs) : 406,40
-
-Demi-garde :
-
-Taux à compter du 1er août 1987 (en francs) : 408,40
-
-2. Service de garde par astreinte :
+2° Service de garde par astreinte :
 
 Astreinte opérationnelle :
 
 a) Indemnité forfaitaire de base par demi-astreinte :
 
-Taux à compter du 1er mai 1987 (en francs) : 101,60
+103,12 F ;
 
-Taux à compter du 1er août 1987 (en francs) : 102,10
-
-b) Indemnité due pour chaque appel :
-
-Taux à compter du 1er mai 1987 (en francs) : 101,60
-
-Taux à compter du 1er août 1987 (en francs) : 102,10
+b) Indemnité due pour chaque appel : 103,12 F.
 
 Le premier appel ne donne pas lieu à rémunération.
 
-Le montant cumulé des indemnités perçues ne peut excéder par demi-astreinte :
-
-Taux à compter du 1er mai 1987 (en francs) : 406,40
-
-Taux à compter du 1er août 1987 (en francs) : 408,40
+Le montant cumulé des indemnités perçues ne peut excéder 412,48 F par demi-astreinte.
 
 Astreinte de sécurité :
 
-a) Indemnité forfaitaire de base :
+a) Indemnité forfaitaire de base : 103,12 F.
 
-Taux à compter du 1er mai 1987 (en francs) : 101,60
+Le montant cumulé des indemnités forfaitaires de base ne peut excéder 825 F pour quatre semaines ou 1 031 F pour cinq semaines.
 
-Taux à compter du 1er août 1987 (en francs) : 102,10
-
-Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
-
-- pour quatre semaines
-
-Taux à compter du 1er mai 1987 (en francs) : 812,80
-
-Taux à compter du 1er août 1987 (en francs) : 816,80
-
-- pour cinq semaines
-
-Taux à compter du 1er mai 1987 (en francs) : 1016
-
-Taux à compter du 1er août 1987 (en francs) : 1021
-
-b) Indemnité due pour chaque appel :
-
-Taux à compter du 1er mai 1987 (en francs) : 101,60
-
-Taux à compter du 1er août 1987 (en francs) : 102,10
+b) Indemnité due pour chaque appel : 103,12 F.
 
 Les deux premiers appels ne donnent pas lieu à rémunération.
 
-Appels exceptionnels.
+Appels exceptionnels :
 
-a) Ils ne donnent lieu à aucune indemnité forfaitaire.
+a) Ils ne donnent lieu à aucune indemnité forfaitaire ;
 
-b) Indemnité due pour chaque appel :
+b) Indemnité due pour chaque appel : 103,12 F.
 
-Taux à compter du 1er mai 1987 (en francs) : 101,60
-
-Taux à compter du 1er août 1987 (en francs) : 102,10
-
-Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou de garde par astreinte à domicile ne peut excéder :
-
-- pour quatre semaines :
-
-Taux à compter du 1er mai 1987 (en francs) : 8636
-
-Taux à compter du 1er août 1987 (en francs) : 8679
-
-- pour cinq semaines :
-
-Taux à compter du 1er mai 1987 (en francs) : 10770
-
-Taux à compter du 1er août 1987 (en francs) : 10823
-
-Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
+Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou de garde par astreinte à domicile ne peut excéder 8 766 F pour quatre semaines ou 10 931 F pour cinq semaines. Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
