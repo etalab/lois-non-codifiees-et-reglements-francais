@@ -1,0 +1,5 @@
+# Article 10
+
+Lorsqu'il est saisi par la région, un département, une commune ou un groupement de communes de la région qui n'a pas obtenu, soit de la Caisse des dépôts et consignations ou des caisses d'épargne, soit de la Caisse d'aide à l'équipement des collectivités locales, le prêt sollicité, le comité régional des prêts inscrit cette question à l'ordre du jour de sa prochaine réunion.
+
+Il entend les observations du représentant de la collectivité ou de l'établissement public intéressé ainsi que celles du délégué régional de la Caisse des dépôts et consignations. Il formule un avis qui est notifié à la collectivité ou à l'établissement public intéressé et au délégué régional de la Caisse des dépôts et consignations. Il peut demander un nouvel examen de la demande de prêt. Dans ce cas, l'organisme prêteur dispose d'un délai de deux mois pour se prononcer sur la demande. Sa décision est notifiée par le délégué régional de la Caisse des dépôts et consignations à la collectivité ou à l'établissement public intéressé ainsi qu'au président du comité régional des prêts.
