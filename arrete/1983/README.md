@@ -34,6 +34,7 @@
 - [Arrêté du 8 juin 1983](arrete-du-8-juin-1983)
 - [Arrêté du 8 mars 1983](arrete-du-8-mars-1983)
 - [Arrêté du 8 octobre 1982](arrete-du-8-octobre-1982)
+- [Arrêté du 8 septembre 1983](arrete-du-8-septembre-1983)
 - [Arrêté du 9 août 1983](arrete-du-9-aout-1983)
 - [Arrêté du 9 décembre 1982](arrete-du-9-decembre-1982)
 - [Arrêté du 9 février 1983](arrete-du-9-fevrier-1983)

@@ -1,0 +1,5 @@
+# Article 2
+
+Sous réserve des consultations prévues par les règlements et accords collectifs, le tableau réglant l'organisation du travail dans les conditions fixées à l'article 1er est dressé par le capitaine du navire, visé par l'autorité chargée de l'inspection du travail maritime, annexé au journal de bord et affiché dans les locaux réservés à l'équipage. Les modifications apportées à ce tableau en cours de voyage sont consignées sur le journal de bord et affichées dans les locaux de l'équipage ; le capitaine en rend compte, dès le retour, à l'autorité chargée de l'inspection du travail maritime.
+
+Si la durée du travail effectif d'un marin n'apparaît pas de façon précise au vu du tableau annexé au journal de bord, elle doit figurer sur un registre permettant de contrôler les droits à rémunération, congés et repos acquis au titre du travail supplémentaire. Le registre est visé par l'autorité chargée de l'inspection du travail maritime, à chaque visite de partance et chaque fois qu'elle le juge utile ; il est tenu à la disposition des représentants du personnel.

@@ -1,0 +1,3 @@
+# Décret n°83-794 du 6 septembre 1983 PRIS POUR L'APPLICATION DE L'ARTICLE 24 DU CODE DU TRAVAIL MARITIME
+
+- [Article 1](article-1.md)
