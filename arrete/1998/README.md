@@ -801,8 +801,6 @@
 - [Arrêté du 24 juillet 1998 (MESP9822467A)](arrete-du-24-juillet-1998-mesp9822467a)
 - [Arrêté du 24 juin 1998 (DEFP9801613A)](arrete-du-24-juin-1998-defp9801613a)
 - [Arrêté du 24 juin 1998 (ECOC9800073A)](arrete-du-24-juin-1998-ecoc9800073a)
-- [Arrêté du 24 juin 1998 (ECOI9800536A)](arrete-du-24-juin-1998-ecoi9800536a)
-- [Arrêté du 24 juin 1998 (ECOI9800537A)](arrete-du-24-juin-1998-ecoi9800537a)
 - [Arrêté du 24 juin 1998 (ECOS9850031A)](arrete-du-24-juin-1998-ecos9850031a)
 - [Arrêté du 24 juin 1998 (EQUA9800879A)](arrete-du-24-juin-1998-equa9800879a)
 - [Arrêté du 24 juin 1998 (EQUS9800318A)](arrete-du-24-juin-1998-equs9800318a)
