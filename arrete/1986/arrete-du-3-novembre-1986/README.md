@@ -1,8 +1,8 @@
-# Arrêté du 3 novembre 1986 relatif aux prélèvements de sang
+# Arrêté du 3 novembre 1986 définissant le concours général des lycées
 
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
 - [Article 4](article-4.md)
-- [Article 10](article-10.md)
-- [Article 16](article-16.md)
-- [Article 17](article-17.md)
-- [Article 18](article-18.md)
-- [Article Annexe](article-annexe.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)

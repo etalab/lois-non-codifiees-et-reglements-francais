@@ -74,6 +74,8 @@ Bordeaux.
 
 Strasbourg.
 
+Diplôme interuniversitaire de médecine subaquatique et hyperbare délivré par les universités de Nancy, Strasbourg et Besançon.
+
 Pour la mention D
 
 Certificats I.N.P.P. correspondants, obtenus avant le 1er octobre 1990.
