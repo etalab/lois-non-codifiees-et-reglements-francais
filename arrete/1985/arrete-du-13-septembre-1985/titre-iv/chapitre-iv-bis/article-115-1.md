@@ -48,7 +48,7 @@ j) Un sceau cryptographique.
 
 Le parieur est tenu de contrôler immédiatement la conformité des éléments imprimés sur le récépissé avec le pari qu'il souhaitait engager, aucune réclamation sur ce point ne pouvant, par la suite, être prise en considération.
 
-Toute modification ou altération du récépissé donnera lieu à l'application de l'article 8 du présent arrêté.
+Tout récépissé, modifié, altéré ou dont au moins un seul de ses éléments d'identification, quelle qu'en soit la cause, est rendu illisible, n'est ni réglé, ni remboursé, sans préjudice de l'éventuelle application de l'article 8 du présent arrêté.
 
 Le parieur est seul responsable de la conservation de son récépissé.
 

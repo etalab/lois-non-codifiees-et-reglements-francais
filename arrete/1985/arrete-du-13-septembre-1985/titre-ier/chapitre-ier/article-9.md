@@ -10,6 +10,6 @@ Les divers types de paris dont les règles spécifiques sont définies dans le p
 
 - soit auprès des services d'enregistrement par téléphone ou télématiques du pari mutuel urbain.
 
-Les modalités particulières à chaque poste ou moyen d'enregistrement du pari mutuel urbain sont définies aux articles 96 à 108-8 du présent arrêté et portées à la connaissance du public dans chacun de ces établissements.
+Les modalités particulières à chaque poste ou moyen d'enregistrement du pari mutuel urbain sont définies au titre III du présent arrêté et portées à la connaissance du public dans chacun de ces établissements.
 
 Certaines sociétés peuvent mettre à la disposition du public des guichets placés sous l'autorité d'un mandataire dont les préposés acceptent les enjeux des parieurs disposant d'un compte courant auprès de ce mandataire.

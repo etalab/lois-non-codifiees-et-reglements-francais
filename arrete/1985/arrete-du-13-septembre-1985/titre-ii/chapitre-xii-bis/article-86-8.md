@@ -18,7 +18,7 @@ c) Les formules "champ total de trois chevaux" englobent, l'ensemble des paris "
 
 Si la corse comporte N chevaux officiellement partants, le "champ total de trois chevaux de base" englobe :
 
-24 x (N - 3) paris "quarté plus", en formule complète à vingt-quatre permutations et (N -3) paris "quarté plus", en formule simplifiée.
+24 x (N - 3) paris "quarté plus", en formule dans tous les ordresà vingt-quatre permutations et (N -3) paris "quarté plus", en formule simplifiée.
 
 Dans ce dernier cas, le parieur doit préciser les places respectives à l'arrivée devant être occupées par les trois chevaux de base de sa formule.
 
@@ -26,7 +26,7 @@ d) Les formules "champ partiel de trois chevaux" englobent l'ensemble des paris 
 
 Si cette sélection comporte P chevaux, le "champ.partiel de trois chevaux" englobe :
 
-24 P paris "quarté plus", en formule complète à vingt-quatre permutations, et P paris "quarté plus", en formule simplifiée.
+24 P paris "quarté plus", en formule dans tous les ordresà vingt-quatre permutations, et P paris "quarté plus", en formule simplifiée.
 
 "Dans ce dernier cas, le parieur doit préciser les places respectives à l'arrivée devant être occupées par les trois chevaux de base de sa formule.
 
@@ -34,7 +34,7 @@ e) Les formules "champ total de deux chevaux" englobent l'ensemble des paris "qu
 
 Si la course comporte N chevaux officiellement partants, le "champ de deux chevaux de base" englobe :
 
-12 x (N - 2) x (N - 3) paris "quarté plus", en formule complète à vingt-quatre permutations, et (N - 2) x (N - 3) paris "quarté plus", en formule simplifiée.
+12 x (N - 2) x (N - 3) paris "quarté plus", en formule dans tous les ordresà vingt-quatre permutations, et (N - 2) x (N - 3) paris "quarté plus", en formule simplifiée.
 
 Dans ce dernier cas, le parieur doit préciser les places respectives à l'arrivée devant être occupées par les deux chevaux de base de sa formule, mais n'a pas à donner les autres chevaux dans un ordre relatif.
 
@@ -42,7 +42,7 @@ f) Les formules "champ partiel de deux chevaux" englobent l'ensemble des paris "
 
 Si cette sélection comporte P chevaux "le champ partiel de deux chevaux" englobe :
 
-12 x P x (P - 1) paris "quarté plus", en formule complète à vingt-quatre permutations, et P x (P - 1) paris "quarté plus", en formule simplifiée.
+12 x P x (P - 1) paris "quarté plus", en formule dans tous les ordresà vingt-quatre permutations, et P x (P - 1) paris "quarté plus", en formule simplifiée.
 
 Dans ce dernier cas, le parieur doit préciser en outre les places respectives à l'arrivée devant être occupées par les deux chevaux de base de sa formule, mais n'a pas à classer les chevaux de sa sélection dans un ordre relatif, chaque combinaison de quatre chevaux comportant en effet les deux permutations des chevaux autres que les chevaux de base dans les deux ordres possibles.
 
@@ -50,7 +50,7 @@ g) Les formules "champ total d'un cheval" englobent l'ensemble des paris "quart�
 
 Si la course comporte N chevaux officiellement partants, le "champ total d'un cheval de base" englobe :
 
-4 x (N - 1) x (N - 2) x (N - 3) paris "quarté plus", en formule complète à vingt-quatre permutations et (N - 1) x (N - 2) x (N - 3) paris "quarté plus", en formule simplifiée.
+4 x (N - 1) x (N - 2) x (N - 3) paris "quarté plus", en formule dans tous les ordresà vingt-quatre permutations et (N - 1) x (N - 2) x (N - 3) paris "quarté plus", en formule simplifiée.
 
 Dans ce dernier cas, le parieur doit préciser la place à l'arrivée devant être occupée par le cheval de base de sa formule, mais n'a pas à classer les autres chevaux dans un ordre relatif.
 
@@ -58,7 +58,7 @@ h) Les formules "champ partiel d'un cheval" englobent l'ensemble des paris "quar
 
 Si cette sélection comporte P chevaux, le "champ partiel d'un cheval" englobe :
 
-4 x P x (P - 1) x (P - 2) paris "quarté plus", en formule complète à vingt-quatre permutations, et P x (P - 1) x (P - 2) paris "quarté plus", en formule simplifiée.
+4 x P x (P - 1) x (P - 2) paris "quarté plus", en formule dans tous les ordres à vingt-quatre permutations, et P x (P - 1) x (P - 2) paris "quarté plus", en formule simplifiée.
 
 Dans ce dernier cas, le parieur doit préciser en outre la place à l'arrivée devant être occupée par le cheval de base de sa formule, mais n'a pas à classer les chevaux de sa sélection selon un ordre relatif, chaque combinaison de quatre chevaux comportant en effet les six permutations des chevaux autres que le cheval de base dans les six ordres possibles.
 
