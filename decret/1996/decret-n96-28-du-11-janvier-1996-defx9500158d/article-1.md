@@ -2,7 +2,7 @@
 
 I. - Sont tenus d'informer sans délai par écrit l'administration militaire de la nature de l'activité privée lucrative qu'ils se proposent d'exercer :
 
-1° Les militaires de carrière qui demandent à être placés en disponibilité, en congé du personnel navigant, en congé pour convenances personnelles sans solde d'une durée supérieure à six mois ou en congé spécial ;
+1° Les militaires de carrière qui demandent à être placés en disponibilité, en congé du personnel navigant, en congé pour convenances personnelles sans solde d'une durée supérieure à six mois, en congé spécial, en congé de reconversion ou en congé complémentaire de reconversion ;.
 
 2° Les officiers généraux admis dans la deuxième section en application de l'article 74 de la loi du 13 juillet 1972 susvisée ;
 
