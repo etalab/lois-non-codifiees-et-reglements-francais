@@ -1,11 +1,9 @@
 # Article 9
 
-I. Les agents non titulaires exerçant à temps plein des fonctions permanentes, comptant plus de trois ans de services effectifs continus dans l'administration [*condition d'ancienneté*] et qui désirent suivre, en vue de leur formation personnelle, une des actions de formation ayant reçu l'agrément de l'Etat au titre du présent article, ont droit, sur demande adressée à leur chef de service, à un congé. Peuvent être prises en compte les interruptions de service si leur total n'excède pas deux mois au cours de la période considérée.
+I. Les agents non titulaires visés à l'article 1er et justifiant de trois années ou l'équivalent de trois années de services effectifs dans l'administration [*condition d'ancienneté*] et désirant suivre, en vue de leur formation personnelle, une des actions de formation ayant reçu l'agrément de l'Etat au titre du présent article, ont droit sur demande adressée à leur chef de service à un congé de formation. Peuvent être prises en compte les interruptions de service si leur total n'excède pas deux mois au cours de la période considérée.
 
-II. Dans chaque administration centrale, établissement public national, service départemental, régional ou interrégional relevant de chaque ministère, la satisfaction de certaines demandes est différée si le nombre d'heures de congé, accordées en application du présent titre, dépasse 1 p. 100 du nombre total des heures de travail effectuées l'année précédente par l'ensemble des agents mentionnées au I ci-dessus.
+Le total des périodes de congé accordées pour formation sur le fondement des dispositions du présent titre ne peut excéder trois ans.
 
-III. Le congé correspond à la durée du stage, sans pouvoir excéder trois mois s'il s'agit d'un stage continu à temps plein, ou 300 heures s'il s'agit de stages constituant un cycle pédagogique comportant des enseignements discontinus ou à temps partiel.
+Un agent ayant bénéficié d'une autorisation d'absence pour participer à une action de formation relevant du titre II ne peut obtenir une mise en congé pour formation dans les douze mois qui suivent la fin de l'action pour laquelle l'autorisation lui a été accordée.
 
-Le stage peut toutefois excéder trois mois ou 300 heures s'il s'agit d'un stage ayant fait l'objet d'un agrément spécial.
-
-IV. L'agrément prévu au I et l'agrément spécial prévu au III du présent article sont accordés par arrêté du ministre chargé de la fonction publique, après avis du groupe de coordination de la formation professionnelle continue dans la fonction publique et de la commission de formation professionnelle du conseil supérieur de la fonction publique.
+II. L'agrément prévu à l'alinéa 1 est accordé par arrêté du ministre chargé de la fonction publique, après avis du groupe de coordination de la formation professionnelle continue dans la fonction publique et de la commission de la formation professionnelle du conseil supérieur de la fonction publique.
