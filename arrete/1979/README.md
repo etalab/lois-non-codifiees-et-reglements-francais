@@ -83,6 +83,7 @@
 - [Arrêté du 26 octobre 1978](arrete-du-26-octobre-1978)
 - [Arrêté du 26 octobre 1979](arrete-du-26-octobre-1979)
 - [Arrêté du 26 septembre 1979](arrete-du-26-septembre-1979)
+- [Arrêté du 26 mai 1978](arrete-du-26-mai-1978)
 - [Arrêté du 27 août 1979](arrete-du-27-aout-1979)
 - [Arrêté du 27 avril 1979](arrete-du-27-avril-1979)
 - [Arrêté du 27 décembre 1978](arrete-du-27-decembre-1978)

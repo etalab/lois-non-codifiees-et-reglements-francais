@@ -104,6 +104,7 @@
 - [Décret n°78-1114 du 28 novembre 1978](decret-n78-1114-du-28-novembre-1978)
 - [Décret n°78-1121 du 28 novembre 1978](decret-n78-1121-du-28-novembre-1978)
 - [Décret n°78-498 du 28 mars 1978](decret-n78-498-du-28-mars-1978)
+- [Décret n°78-721 du 28 juin 1978](decret-n78-721-du-28-juin-1978)
 - [Décret n°78-729 du 28 juin 1978](decret-n78-729-du-28-juin-1978)
 - [Décret n°78-795 du 28 juillet 1978](decret-n78-795-du-28-juillet-1978)
 - [Décret n°78-796 du 28 juillet 1978](decret-n78-796-du-28-juillet-1978)
