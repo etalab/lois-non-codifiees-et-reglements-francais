@@ -1,15 +1,15 @@
 # Article 3
 
-Le bordereau de groupage contient au minimum les indications ci-après :
+Le bordereau récapitulatif de chargement contient au minimum les indications ci-après :
 
-- identification de l'entreprise qui constitue le lot ;
+- identification de l'entreprise commissionnaire de transport qui constitue le lot ;
 
-- numéro d'inscription au registre des commissionnaires de transport ;
+- lieu de constitution du lot ;
 
-- lieux de constitution et de remise du lot ;
+- nombre de colis ;
 
-- toutes spécifications relatives à chacune des expéditions constituant le groupage, et notamment numéro de la lettre de voiture ou du récépissé, noms et adresses de l'expéditeur et du destinataire, nombre de colis composant l'expédition, numéros et marques des colis, nature des marchandises, poids brut des marchandises, prix payé par le client ou référence à une facture, suppléments et frais accessoires ;
+- poids total du chargement ;
 
-- entreprise exécutant le transport du lot de groupage ;
+- indication, s'il y a lieu, que des colis concernant des matières dangereuses ou devant être transportées sous température dirigée font partie du chargement ;
 
-- prix revenant au transporteur pour le transport du lot.
+- en cas d'affrètement d'un transporteur, identification de celui-ci.

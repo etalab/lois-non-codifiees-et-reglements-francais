@@ -1,6 +1,6 @@
 # Article 7
 
-Chaque feuille de route est composée d'une liasse comprenant cinq feuillets :
+Chaque lettre de voiture-transports de lots est composée d'une liasse autocopiante comprenant cinq feuillets :
 
 " - le premier est destiné à l'expéditeur ;
 
@@ -8,32 +8,46 @@ Chaque feuille de route est composée d'une liasse comprenant cinq feuillets :
 
 " - le troisième, qui accompagne la marchandise, reçoit la décharge du destinataire constatant la livraison de la marchandise ;
 
-" - le quatrième est destiné au contrôle, il doit être à bord du véhicule et être présenté à toute réquisition des agents chargés du contrôle des transports routiers. A l'issue du transport, il peut rester à la disposition du salarié qui peut l'utiliser en fonction des besoins. Sur ce seul feuillet, à l'exception de tout autre, les mentions à caractère commercial ne doivent pas apparaître. Les mentions portées sur le quatrième feuillet devront être reportées sur la souche ;
+" - le quatrième est destiné au contrôle ; il doit être à bord du véhicule et être présenté à toute réquisition des agents chargés du contrôle des transports routiers. A l'issue du transport, il peut rester à la disposition du salarié qui peut l'utiliser en fonction des besoins ;
 
 " - le cinquième constitue la souche qui est conservée par l'entreprise.
 
-" L'entreprise doit, avant tout transport, remplir les divers exemplaires de la feuille de route en y faisant apparaître les indications relatives :
+" 1. Avant tout transport, l'entreprise doit établir la lettre de voiture-transports de lots en y faisant apparaître les mentions suivantes :
 
-" - à l'identification de l'entreprise et à celle du véhicule utilisé ;
+" - date d'établissement de ce document ;
 
-" - aux autorisations administratives sous couvert desquelles s'effectue le transport ;
+" - identification du transporteur ;
 
-" - à l'identification de l'expéditeur et à celle du destinataire ;
+" - immatriculation du ou des véhicules moteurs et de la ou des remorques ou semi-remorques utilisés pour le transport ;
 
-" - aux lieu et date de chargement et au lieu de déchargement ;
+" - distance ;
 
-" - à la désignation précise et au poids brut de la marchandise ;
+" - instructions du transporteur au conducteur ou aux conducteurs, s'il y a lieu, en application de l'arrêté du 6 janvier 1993 susvisé ;
 
-" - à la distance ;
+" - identification du donneur d'ordres (client ou commissionnaire) ;
 
-" - le cas échéant, à l'intervention d'un commissionnaire de transport.
+" - identification de la marchandise déclarée par le remettant (nombre, nature, ainsi que le poids, volume ou mètre linéaire) ;
 
-" Les heures de mise à disposition du véhicule au chargement et au déchargement et celles de fin du chargement et du déchargement doivent être portées sur la feuille de route sitôt qu'elles sont connues.
+" - le cas échéant, transport de marchandises dangereuses ou sous température dirigée ;
 
-" Sauf en cas de "libre service", l'heure de départ doit être portée contradictoirement sur la feuille de route par le conducteur du véhicule et par la personne ayant la responsabilité opérationnelle du chargement du véhicule.
+" - raison sociale de l'expéditeur et adresse complète du lieu de chargement ;
 
-" L'heure d'arrivée demandée est portée dans les mêmes conditions contradictoires s'il y a présence d'un représentant habilité du donneur d'ordres.
+" - raison sociale du destinataire et adresse complète du lieu de déchargement.
 
-" Si l'heure d'arrivée demandée figure sur un autre document présent dans le véhicule, elle est reportée par le conducteur sur la feuille de route avec indication de la nature de ce document.
+" 2. En phase de chargement, la lettre de voiture-transports de lots doit être complétée par le conducteur des indications suivantes :
 
-" S'il n'est pas fait mention de l'heure d'arrivée, il est considéré qu'il n'y a pas d'impératif de livraison particulier. "
+" - date et heure d'arrivée au lieu de chargement ;
+
+" - date et heure de départ du véhicule chargé libéré ;
+
+" - ces mentions particulières sont constatées contradictoirement et font l'objet d'une signature conjointe du conducteur et du remettant de la marchandise ; en cas de désaccord, mention en est portée par le conducteur sous la rubrique " observations ou réserves ".
+
+" 3. En phase de déchargement, la lettre de voiture-transports de lots doit être complétée par le conducteur des indications suivantes :
+
+" - date et heure d'arrivée au lieu de déchargement ;
+
+" - date et heure de départ du véhicule déchargé libéré ;
+
+" - ces mentions particulières sont constatées contradictoirement et font l'objet d'une signature conjointe du conducteur et du destinataire de la marchandise ; en cas de désaccord, mention en est portée par le conducteur sous la rubrique observations ou réserves.
+
+4. Lors des phases chargement ou déchargement, il est fait mention, s'il y a lieu, des prestations annexes effectuées par le conducteur autres que la conduite du véhicule, la préparation de celui-ci aux opérations de chargement et de déchargement ou à la mise en oeuvre des matériels spécialisés attachés au véhicule. Les prestations annexes non prévues initialement au contrat de transport sont confirmées par le demandeur bénéficiaire des prestations par apposition de sa signature sous la rubrique nom du demandeur, signature.

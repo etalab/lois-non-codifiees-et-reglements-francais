@@ -33,3 +33,5 @@ Le commissionnaire de transport est tenu de fournir au transporteur affrété to
 Les commissionnaires de transport peuvent procéder aux enregistrements prévus par le présent article en établissant des feuilles d'expédition numérotées tenues dans l'ordre chronologique des envois et comportant au minimum les indications énumérées à l'alinéa 3 du présent article.
 
 Les enregistrements ou, si l'entreprise a opté pour l'établissement de feuilles d'expédition, les souches de celles-ci, éventuellement complétées après le transport, doivent être conservées par chacun des établissements ou bureaux de l'entreprise commissionnaire de transport pendant un délai de trois ans pour être présentées à toute réquisition des services de l'administration.
+
+Les systèmes informatiques d'enregistrement de données sont admis lorsqu'ils permettent de satisfaire aux obligations du présent article.

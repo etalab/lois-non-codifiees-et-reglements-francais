@@ -4,4 +4,4 @@ Les commissionnaires de transport qui exercent des activités de groupage doiven
 
 - par expédition, une lettre de voiture ou un récépissé ;
 
-- par lot d'expéditions groupées, un bordereau de groupage.
+- par lot d'expéditions groupées, un bordereau  récapitulatif de chargement.

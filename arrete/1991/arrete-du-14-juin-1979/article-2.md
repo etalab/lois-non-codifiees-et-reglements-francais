@@ -20,21 +20,23 @@ Les membres de droit sont :
 
 - le directeur général de la santé ;
 
+- le directeur général de la concurrence, de la consommation  et de la répression des fraudes.
+
 Les membres nommés par arrêté comprennent :
 
 - un représentant du conseil général des mines désigné sur proposition du vice-président du conseil général des mines ;
 
 - trois représentants des directions régionales de l'industrie de la recherche et de l'environnement ;
 
-- trois représentants de Gaz de France ;
+- deux représentants de Gaz de France ;
 
 - deux représentants de l'association technique de l'industrie du gaz en France ;
 
 - un représentant de l'association française de normalisation ;
 
-- deux représentants du comité français du butane et du propane ;
+- un représentant du comité français du butane et du propane ;
 
-- deux représentants des producteurs et distributeurs de gaz non nationalisés ;
+- un représentant du Syndicat professionnel des entreprises gazières municipales et assimilées (S-P-E-G-N-N).
 
 - un représentant du groupement des industries françaises des appareils d'équipement ménager ;
 
@@ -42,4 +44,6 @@ Les membres nommés par arrêté comprennent :
 
 - un représentant de l'union nationale des chambres syndicales de couverture et de plomberie en France ;
 
-- Cinq personnalité désignées en raison de leur compétence.
+- trois personnalités désignées en raison de leur compétence.
+
+- un représentant d'une association de consommateurs.
