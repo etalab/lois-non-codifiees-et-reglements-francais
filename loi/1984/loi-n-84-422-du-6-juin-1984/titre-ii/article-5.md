@@ -1,0 +1,3 @@
+# Article 5
+
+Les personnes remplissant les conditions définies au huitième alinéa de l'article 61 du code de la famille et de l'aide sociale peuvent dans un délai de six mois à compter de la promulgation de la présente loi, saisir le tribunal de grande instance aux fins de se voir accorder, à l'égard de tout mineur immatriculé pupille de l'Etat dans le cadre des dispositions antérieurement en vigueur, le droit de visite prévu au dernier alinéa du même article. Cette demande est irrecevable si l'enfant a fait l'objet d'un jugement d'adoption plénière devenu définitif ou d'un placement en vue d'adoption.

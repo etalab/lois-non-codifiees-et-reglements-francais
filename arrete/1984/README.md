@@ -20,6 +20,7 @@
 - [Arrêté du 5 janvier 1984](arrete-du-5-janvier-1984)
 - [Arrêté du 5 juillet 1984](arrete-du-5-juillet-1984)
 - [Arrêté du 5 mars 1984](arrete-du-5-mars-1984)
+- [Arrêté du 5 septembre 1984](arrete-du-5-septembre-1984)
 - [Arrêté du 6 avril 1984](arrete-du-6-avril-1984)
 - [Arrêté du 6 février 1984](arrete-du-6-fevrier-1984)
 - [Arrêté du 6 janvier 1984](arrete-du-6-janvier-1984)

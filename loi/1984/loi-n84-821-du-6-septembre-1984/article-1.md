@@ -1,0 +1,5 @@
+# Article 1
+
+La présente loi a pour objet, dans la ligne de la déclaration du Gouvernement à Nainville-les-Roches en date du 12 juillet 1983, de doter le territoire de la Nouvelle-Calédonie et dépendances d'un nouveau statut évolutif et spécifique. A l'issue d'un délai de cinq ans, les populations de la Nouvelle-Calédonie et dépendances seront consultées par voie de référendum conformément aux dispositions de l'article 53 (alinéa 3) de la Constitution.
+
+Il est créé un comité Etat-Territoire qui aura notamment pour rôle [*attributions*] de préparer les conditions dans lesquelles sera exercé le droit à l'autodétermination conformément aux dispositions du premier alinéa. Ce comité est composé, à parts égales, de représentants de l'Etat et de représentants du territoire. La répartition des représentants du territoire sera proportionnelle au nombre de conseillers territoriaux appartenant à chacune des formations politiques siégeant à l'assemblée territoriale. La composition, l'organisation et le fonctionnement de ce comité feront l'objet d'un arrêté du ministre chargé des départements et territoires d'outre-mer.
