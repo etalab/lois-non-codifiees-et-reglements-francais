@@ -1,0 +1,3 @@
+# Article 2
+
+Sans préjudice des dispositions de l'article 7 du décret du 6 novembre 1992 susvisé, peuvent se présenter, au titre des sessions de 1999, de 2000 et de 2001, au concours interne de recrutement des professeurs de lycée professionnel du deuxième grade, les enseignants non titulaires des établissements publics d'enseignement relevant du ministre chargé de l'éducation justifiant de trois années de services d'enseignement effectués dans des établissements publics d'enseignement du second degré et qui ont suivi dans son intégralité, en qualité d'élève professeur, un cycle préparatoire aux concours donnant accès au deuxième grade du corps des professeurs de lycée professionnel.

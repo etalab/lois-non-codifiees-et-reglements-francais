@@ -1,0 +1,3 @@
+# Article 1
+
+Sans préjudice des dispositions de l'article 14 du décret du 4 juillet 1972 susvisé, peuvent se présenter, au titre des sessions de 1999, de 2000 et de 2001, au concours interne de recrutement des professeurs certifiés dans les disciplines de l'enseignement technique, les enseignants non titulaires des établissements publics d'enseignement relevant du ministre chargé de l'éducation justifiant de trois années de services d'enseignement effectués dans des établissements publics d'enseignement du second degré et qui ont suivi dans son intégralité, en qualité d'élève professeur, un cycle préparatoire aux concours permettant l'obtention du certificat d'aptitude au professorat de l'enseignement technique.
