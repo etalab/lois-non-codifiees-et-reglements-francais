@@ -449,6 +449,8 @@
 - [Décret n°88-42 du 14 janvier 1988 (JUSF8850001D)](decret-n88-42-du-14-janvier-1988-jusf8850001d)
 - [Décret n°90-230 du 14 mars 1990 (JUSG8960101D)](decret-n90-230-du-14-mars-1990-jusg8960101d)
 - [Décret n°92-1138 du 14 octobre 1992 (AGRX9200121D)](decret-n92-1138-du-14-octobre-1992-agrx9200121d)
+- [Décret n°92-1152 du 14 octobre 1992 (MAEJ9230053D)](decret-n92-1152-du-14-octobre-1992-maej9230053d)
+- [Décret n°92-1153 du 14 octobre 1992 (MAEJ9230056D)](decret-n92-1153-du-14-octobre-1992-maej9230056d)
 - [Décret n°92-141 du 14 février 1992 (INDG9100988D)](decret-n92-141-du-14-fevrier-1992-indg9100988d)
 - [Décret n°92-143 du 14 février 1992 (SANP9102747D)](decret-n92-143-du-14-fevrier-1992-sanp9102747d)
 - [Décret n°92-144 du 14 février 1992 (SANP9102787D)](decret-n92-144-du-14-fevrier-1992-sanp9102787d)

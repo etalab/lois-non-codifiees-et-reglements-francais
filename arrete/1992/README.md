@@ -514,6 +514,7 @@
 - [Arrêté du 15 juin 1992 (MENN9202428A)](arrete-du-15-juin-1992-menn9202428a)
 - [Arrêté du 15 octobre 1992 (ENVN9250294A)](arrete-du-15-octobre-1992-envn9250294a)
 - [Arrêté du 15 septembre 1992 (AGRE9201762A)](arrete-du-15-septembre-1992-agre9201762a)
+- [Arrêté du 15 septembre 1992 (DEFC9201914A)](arrete-du-15-septembre-1992-defc9201914a)
 - [Arrêté du 15 septembre 1992 (INDD9200756A)](arrete-du-15-septembre-1992-indd9200756a)
 - [Arrêté du 15 septembre 1992 (MENK9200112A)](arrete-du-15-septembre-1992-menk9200112a)
 - [Arrêté du 15 septembre 1992 (PRMX9210404A)](arrete-du-15-septembre-1992-prmx9210404a)
