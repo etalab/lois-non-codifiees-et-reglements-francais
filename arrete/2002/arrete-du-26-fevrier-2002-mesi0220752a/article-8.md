@@ -1,0 +1,5 @@
+# Article 8
+
+La direction de la recherche, des études, de l'évaluation et des statistiques peut, sur la base d'une convention, transmettre à des fins statistiques l'échantillon national interrégimes d'allocataires de minima sociaux à l'Institut national de la statistique et des études économiques, à la Caisse centrale de la mutualité sociale agricole, à la Caisse nationale des allocations familiales et aux institutions gestionnaires du régime d'assurance chômage, aux services statistiques ou d'études ministériels ou à des organisations susceptibles de réaliser des études dans le domaine concerné. Chaque convention précisera les finalités statistiques poursuivies dans le cadre de la mise à disposition de l'échantillon et contiendra l'engagement de l'organisme destinataire de ne pas traiter les données à d'autres fins et d'en assurer la sécurité.
+
+Les données transmises dans le cadre visé à l'alinéa précédent ne contiennent pas le numéro d'ordre personnel propre à l'échantillon national interrégimes d'allocataires de minima sociaux.

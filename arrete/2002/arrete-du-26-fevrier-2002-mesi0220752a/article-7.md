@@ -1,0 +1,3 @@
+# Article 7
+
+Les informations visées aux articles 4 et 5 sont transmises à la direction de la recherche, des études, de l'évaluation et des statistiques, à l'exception du numéro d'inscription au répertoire national d'identification des personnes physiques, du numéro d'ordre dans l'organisme de base, du jour de naissance, du nom et des prénoms des personnes concernées. Seul le numéro d'ordre personnel propre à l'échantillon national interrégimes d'allocataires de minima sociaux est utilisé par la direction de la recherche, des études, de l'évaluation et des statistiques pour apparier les fichiers transmis, afin de constituer l'échantillon national interrégimes d'allocataires de minima sociaux.

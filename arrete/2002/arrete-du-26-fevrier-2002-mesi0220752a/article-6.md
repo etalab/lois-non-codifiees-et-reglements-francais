@@ -1,0 +1,3 @@
+# Article 6
+
+A l'occasion de la constitution des fichiers décrits aux articles 4 et 5 ou, ponctuellement, à l'occasion du lancement d'une enquête mise en oeuvre après avis de la Commission nationale de l'informatique et des libertés, les organismes sociaux concernés peuvent constituer des fichiers contenant uniquement le numéro d'ordre personnel propre à l'échantillon, le numéro d'ordre dans l'organisme de base à l'exclusion du numéro d'inscription au répertoire d'identification des personnes physiques, le nom, le prénom et l'adresse de la personne concernée, à seule fin de réalisation d'enquêtes statistiques.

@@ -68,6 +68,7 @@
 - [Décret n°2002-469 du 5 avril 2002 (MAEA0220081D)](decret-n2002-469-du-5-avril-2002-maea0220081d)
 - [Décret n°2001-1157 du 6 décembre 2001 (ECOI0100574D)](decret-n2001-1157-du-6-decembre-2001-ecoi0100574d)
 - [Décret n°2002-1070 du 6 août 2002 (AGRA0201204D)](decret-n2002-1070-du-6-aout-2002-agra0201204d)
+- [Décret n°2002-324 du 6 mars 2002 (JUSC0220104D)](decret-n2002-324-du-6-mars-2002-jusc0220104d)
 - [Décret n°2002-1071 du 7 août 2002 (AGRA0200981D)](decret-n2002-1071-du-7-aout-2002-agra0200981d)
 - [Décret n°2002-1090 du 7 août 2002 (AGRA0200983D)](decret-n2002-1090-du-7-aout-2002-agra0200983d)
 - [Décret n°2002-1331 du 7 novembre 2002 (INTC0200254D)](decret-n2002-1331-du-7-novembre-2002-intc0200254d)
