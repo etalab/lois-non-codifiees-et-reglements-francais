@@ -6,8 +6,6 @@ Chargé d'études financières ;
 
 Responsable de la gestion statutaire et/ou des affaires générales d'une direction ou d'un département ;
 
-Agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ;
-
 Assistant marketing ;
 
 Gestionnaire de clientèle ;
@@ -30,8 +28,6 @@ Comptable de production bancaire ou d'opérations fournisseurs au niveau d'une d
 
 Gestionnaire de plusieurs systèmes d'information ;
 
-Assistant Méthodes et procédures informatiques ;
-
 Assistant de direction ;
 
 Assistant de contrôle budgétaire et/ou de gestion pour une direction, un département, un site, ou chargé d'une responsabilité fonctionnelle particulière ;
@@ -43,8 +39,6 @@ culturel au niveau fédéral ;
 Conducteur d'opérations B.T.P. (site parisien) ;
 
 Responsable Exploitation transport ;
-
-Responsable Audiovisuel ;
 
 Gestionnaire expert ;
 
@@ -82,8 +76,6 @@ Responsable comptable et/ou budgétaire au niveau fédéral ;
 
 Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales et pour le reseau équipement ;
 
-Assistant du chef d'unité en matière de prêts d'équipement ;
-
 Responsable de l'unité chargée de la gestion du fonds d'action sociale de la Caisse nationale de retraite des agents des collectivités locales ;
 
 Gestionnaire financier ;
@@ -98,8 +90,6 @@ Gestionnaire d'application ;
 
 Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction ;
 
-Responsable administratif du restaurant d'Arcueil et de Paris ;
-
 Chargé du recrutement et/ou des carrières et/ou de la mobilité et/ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction ;
 
 Technicien de maintenance des installations de climatisation et de chauffage (site parisien) ou du dispositif téléphonique (site bordelais) ;
@@ -113,10 +103,6 @@ Responsable de la communication du département des marchés ;
 Responsable du guichet de la C.N.P. Assurances ;
 
 Chargé d'études à la direction de la stratégie de la C.N.P. Assurances ;
-
-Adjoint au responsable de portefeuille Assurances individuelles ;
-
-Chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ;
 
 Responsable comptable au sein du service de production bancaire ou au sein du service comptable de la Caisse nationale de retraite des agents des collectivités locales ;
 
@@ -134,8 +120,6 @@ Responsable de la fonction correspondant informatique ou de la fonction correspo
 
 Responsable d'une équipe médicale au niveau fédéral ;
 
-Responsable de l'accueil téléphonique à la branche Caisses de retraites de Bordeaux ;
-
 Concepteur maquéttiste de documents d'information pour l'association comité social d'établissement et vacances loisirs ;
 
 A compter du 1er août 1997, sont rajoutés les emplois suivants :
@@ -151,3 +135,15 @@ Technicien des opérations post-marché ou d'opérations bancaires et/ou financi
 Assistant de gestion statutaire et/ou financière des personnels au niveau d'une direction ou au niveau fédéral ;
 
 Chargé d'étude pour l'établissement du bilan social du Groupe ou de la CNP Assurances.
+
+A compter du 1er août 1998, sont ajoutés les emplois suivants :
+
+- chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou responsable du service aux assurés B ;
+
+- agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service ;
+
+- responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ;
+
+- responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche Caisses de retraites de Bordeaux ;
+
+- responsable du service aux assurés A ou responsable production A ou responsable activités transversales.
