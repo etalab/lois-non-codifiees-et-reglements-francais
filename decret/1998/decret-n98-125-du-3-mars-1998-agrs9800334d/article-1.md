@@ -1,6 +1,10 @@
 # Article 1
 
-Ont droit à la majoration de la retraite forfaitaire acquise à titre personnel mentionnée au 1° de l'article 1121, au premier alinéa de l'article 1122-1 et au 1° de l'article 1142-5 du code rural, en application de l'article 1121-4 de ce code et, à compter du 1er janvier 1999, en application de l'article 1121 6 les personnes dont ladite retraite a pris effet antérieurement au 1er janvier 1998, qui ont exercé leur activité pendant une durée minimum de trente-deux années et demie et qui ne sont pas titulaires d'un autre avantage servi à quelque titre que ce soit par le régime d'assurance vieillesse des membres non salariés des professions agricoles.
+Ont droit à la majoration de la retraite forfaitaire acquise à titre personnel mentionnée au 1° de l'article 1121, au premier alinéa de l'article 1122-1 et au 1° de l'article 1142-5 du code rural les personnes dont ladite retraite a pris effet antérieurement au 1er janvier 1998 et qui remplissent la double condition suivante :
+
+- avoir exercé leur activité non salariée agricole pendant une durée minimum de trente-deux années et demie ou, pour les pensions dues à compter du 1er janvier 2000 et lorsqu'il s'agit de personnes ayant effectué au moins quinze années en qualité de conjoints participant aux travaux au sens de l'article 1122-1 du code rural, qui ne bénéficient pas d'un autre avantage de retraite que leur avantage servi par le régime d'assurance vieillesse des personnes non salariées de l'agriculture, pendant une durée minimum de vingt-sept années et demie ;
+
+- ne pas être titulaire d'un autre avantage servi à quelque titre que ce soit par le régime d'assurance vieillesse des membres non salariés des professions agricoles.
 
 Toutefois, le bénéfice d'une retraite proportionnelle acquise à titre personnel et d'un montant correspondant à moins de 280 points ne fait pas obstacle au versement de ladite majoration.
 

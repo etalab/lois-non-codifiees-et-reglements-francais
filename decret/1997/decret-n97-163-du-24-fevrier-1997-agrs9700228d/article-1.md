@@ -26,6 +26,6 @@ IV. - Pour les assurés qui justifient d'une durée d'activité déterminée sui
 
 15 % pour chacune des deux premières années manquantes ;
 
-20 % pour chacune des troisième, quatrième et cinquième années suivantes ;
+10 % pour chacune des trois années suivantes ;
 
-10 % pour la sixième et dernière année.
+40 % pour la sixième année.
