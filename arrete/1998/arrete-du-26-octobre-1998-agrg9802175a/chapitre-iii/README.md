@@ -1,0 +1,5 @@
+# Chapitre III : Mesures à prendre en cas de suspicion ou d'infection dans les troupeaux de reproducteurs.
+
+- [Article 12](article-12.md)
+- [Article 16](article-16.md)
+- [Article 17](article-17.md)
