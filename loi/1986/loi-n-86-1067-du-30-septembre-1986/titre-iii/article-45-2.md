@@ -18,10 +18,12 @@ Chaque société de programme conclut annuellement avec l'assemblée dont elle r
 
 Le capital de chacune de ces sociétés est détenu en totalité par celle des deux assemblées à laquelle elle se rattache. Le financement des sociétés de programme est assuré par des dotations annuelles, chaque assemblée dotant sa société directement de la totalité des sommes qu'elle estime nécessaires à l'accomplissement de ses missions.
 
+Sous réserve des dispositions du présent article, ces sociétés sont soumises à la législation sur les sociétés anonymes. ;
+
 La Chaîne parlementaire ne diffuse aucun message publicitaire et aucune émission de téléachat.
 
 Les sociétés de programme, ainsi que les émissions qu'elles programment, ne relèvent pas de l'autorité du Conseil supérieur de l'audiovisuel.
 
-Concernant les matières mentionnées aux 2°, 2° bis, 3°, 4° et 5° de l'article 33, le bureau de chacune des assemblées fixe et contrôle les conditions dans lesquelles la réglementation en vigueur s'applique à La Chaîne parlementaire.
+Le bureau de chacune des assemblées fixe et contrôle les conditions dans lesquelles la réglementation applicable aux services mentionnés à l'article 33 s'applique à La Chaîne Parlementaire.
 
 L'article L. 133-1 du code des juridictions financières n'est pas applicable à ces sociétés, qui sont soumises aux dispositions du règlement de chacune des assemblées concernant le contrôle de leurs comptes.

@@ -1,3 +1,3 @@
 # Article 45-3
 
-Sauf opposition des organes dirigeants des sociétés de programme mentionnées à l'article 45-2, toute personne qui établit avec des éditeurs de services des relations contractuelles en vue de constituer une offre de services de communication audiovisuelle, mise à disposition du public par satellite ou par câble, ainsi que toute personne qui constitue une telle offre en établissant des relations contractuelles avec d'autres distributeurs, est tenue de diffuser, à ses frais, les programmes de La Chaîne parlementaire. Ces programmes sont mis gratuitement à disposition de l'ensemble des abonnés.
+Sauf opposition des organes dirigeants des sociétés de programme mentionnées à l'article 45-2, tout distributeur de services est tenu de diffuser, à ses frais, les programmes de La Chaîne Parlementaire. Ces programmes sont mis gratuitement à disposition de l'ensemble des abonnés.

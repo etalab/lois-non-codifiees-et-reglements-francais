@@ -1,8 +1,8 @@
 # Article 51
 
-Une société dont les statuts sont approuvés par décret, et dont la majorité du capital est détenue directement ou indirectement par l'Etat, assure [*attributions*] la diffusion et la transmission, en France et vers l'étranger, par tous procédés de télécommunication, des programmes des sociétés nationales mentionnées à l'article 44.
+Une société dont les statuts sont approuvés par décret, et dont la majorité du capital est détenue directement ou indirectement par l'Etat, assure la diffusion et la transmission, en France et vers l'étranger, par tous procédés analogiques de télécommunication, des programmes des sociétés mentionnées aux articles 44 et 45.
 
-Elle peut offrir, concurremment avec d'autres opérateurs, tous services de diffusion et de transmission aux exploitants de services de communication audiovisuelle.
+Sous réserve des dispositions de l'alinéa précédent, elle peut offrir, concurremment avec d'autres opérateurs, tous services de diffusion et de transmission à l'ensemble des distributeurs et des éditeurs de services de communication audiovisuelle.
 
 Elle a vocation à procéder aux recherches et à collaborer à la fixation des normes concernant les matériels et les techniques de radiodiffusion sonore et de télévision.
 

@@ -16,5 +16,4 @@
 - [Loi n° 88-828 du 20 juillet 1988 (JUSX8800077L)](loi-n-88-828-du-20-juillet-1988-jusx8800077l)
 - [Loi n°88-1088 du 1 décembre 1988 (ASEX8800072L)](loi-n88-1088-du-1-decembre-1988-asex8800072l)
 - [Loi n°88-1089 du 1 décembre 1988 (DOMX8800018L)](loi-n88-1089-du-1-decembre-1988-domx8800018l)
-- [Loi n°88-21 du 6 janvier 1988 (CCLX8700197L)](loi-n88-21-du-6-janvier-1988-cclx8700197l)
 - [Loi n°88-23 du 7 janvier 1988 (JUSX8700196L)](loi-n88-23-du-7-janvier-1988-jusx8700196l)

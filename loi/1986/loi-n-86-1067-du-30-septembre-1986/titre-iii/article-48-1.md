@@ -1,6 +1,6 @@
 # Article 48-1
 
-Le Conseil supérieur de l'audiovisuel peut mettre en demeure les sociétés nationales de programme visées à l'article 44 et la société mentionnée à l'article 45 de respecter les obligations qui leur sont imposées par les textes législatifs et réglementaires, et par les principes définis à l'article 1er.
+Le Conseil supérieur de l'audiovisuel peut mettre en demeure les sociétés mentionnées à l'article 44 de respecter les obligations qui leur sont imposées par les textes législatifs et réglementaires, et par les principes définis à l'article 1er.
 
 Le Conseil supérieur de l'audiovisuel rend publiques ces mises en demeure.
 

@@ -1,6 +1,6 @@
 # Article 41-1
 
-Afin de prévenir les atteintes au pluralisme sur le plan national, aucune autorisation relative à un service de radiodiffusion sonore ou de télévision par voie hertzienne terrestre ou à l'exploitation d'un réseau distribuant par câble des services de radiodiffusion sonore et de télévision ne peut être délivrée à une personne qui se trouverait, de ce fait, dans plus de deux situations suivantes :
+Afin de prévenir les atteintes au pluralisme sur le plan national en mode analogique, aucune autorisation relative à un service de radiodiffusion sonore ou de télévision par voie hertzienne terrestre en mode analogique ou à l'exploitation d'un réseau distribuant par câble des services de radiodiffusion sonore et de télévision ne peut être délivrée à une personne qui se trouverait, de ce fait, dans plus de deux situations suivantes :
 
 1° Etre titulaire d'une ou de plusieurs autorisations relatives à des services de télévision diffusés par voie hertzienne terrestre permettant la desserte de zones dont la population recensée atteint quatre millions d'habitants ;
 

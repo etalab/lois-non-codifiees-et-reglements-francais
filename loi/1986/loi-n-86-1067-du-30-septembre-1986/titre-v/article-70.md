@@ -1,6 +1,6 @@
 # Article 70
 
-Les services de communication audiovisuelle qui diffusent des oeuvres cinématographiques, et notamment les sociétés nationales de programme, contribuent au développement des activités cinématographiques nationales selon des modalités fixées par les cahiers des charges des sociétés nationales, les autorisations accordées en application des articles 30, 31 et 65 de la présente loi et les décrets prévus aux articles 33 et 43.
+Les services de communication audiovisuelle qui diffusent des oeuvres cinématographiques, et notamment les sociétés mentionnées à l'article 44, contribuent au développement des activités cinématographiques nationales selon des modalités fixées par les cahiers des charges, les autorisations accordées en application des articles 30, 30-1, 31 et 65 de la présente loi et les décrets prévus aux articles 33 et 43.
 
 Les dispositions relatives à la diffusion des oeuvres cinématographiques incluses dans les cahiers des charges, les autorisations et les décrets visés à l'alinéa précédent doivent préciser :
 

@@ -1,3 +1,3 @@
 # Article 36
 
-Les actions représentant le capital d'une société titulaire d'une autorisation relative à un service de communication audiovisuelle doivent être nominatives.
+Les actions représentant le capital d'une société titulaire d'une autorisation délivrée en application de la présente loi doivent être nominatives.

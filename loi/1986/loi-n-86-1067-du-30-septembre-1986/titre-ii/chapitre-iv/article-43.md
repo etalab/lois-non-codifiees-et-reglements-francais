@@ -2,9 +2,9 @@
 
 Sont soumis à déclaration préalable :
 
-1° Les services de communication audiovisuelle autres que les services prévus aux chapitres Ier et II du présent titre et aux titres III et IV de la présente loi ;
+1° [*Paragraphe abrogé*] ;
 
-2° Par dérogation aux articles 34 et 34-1 de la présente loi :
+2° Par dérogation aux articles 33-1 et 34 de la présente loi :
 
 a) L'exploitation des réseaux qui desservent moins de cent foyers et qui ne distribuent que des services de radiodiffusion sonore et de télévision diffusés par voie hertzienne terrestre et par satellite, et normalement reçus dans la zone, ainsi que l'exploitation des réseaux qui ne distribuent que des services de radiodiffusion sonore et de télévision diffusés par voie hertzienne terrestre et normalement reçus dans la zone. L'exploitation peut alors être assurée par toute personne morale.
 
