@@ -448,7 +448,6 @@
 - [Arrêté du 21 juillet 1987 (ASES8701083A)](arrete-du-21-juillet-1987-ases8701083a)
 - [Arrêté du 21 juillet 1987 (ECOC8700081A)](arrete-du-21-juillet-1987-ecoc8700081a)
 - [Arrêté du 21 octobre 1987 (ECOC8700119A)](arrete-du-21-octobre-1987-ecoc8700119a)
-- [Arrêté du 21 octobre 1987 (INDR8700663A)](arrete-du-21-octobre-1987-indr8700663a)
 - [Arrêté du 21 mai 1987 (ECOT8733035A)](arrete-du-21-mai-1987-ecot8733035a)
 - [Arrêté du 21 mai 1987 (ECOT8733036A)](arrete-du-21-mai-1987-ecot8733036a)
 - [Arrêté du 21 mai 1987 (ECOT8770002A)](arrete-du-21-mai-1987-ecot8770002a)
