@@ -104,7 +104,6 @@
 - [Arrêté du 13 octobre 1986](arrete-du-13-octobre-1986)
 - [Arrêté du 14 avril 1986](arrete-du-14-avril-1986)
 - [Arrêté du 14 février 1986](arrete-du-14-fevrier-1986)
-- [Arrêté du 14 janvier 1986](arrete-du-14-janvier-1986)
 - [Arrêté du 14 mars 1986](arrete-du-14-mars-1986)
 - [Arrêté du 14 novembre 1986](arrete-du-14-novembre-1986)
 - [Arrêté du 14 octobre 1986](arrete-du-14-octobre-1986)
