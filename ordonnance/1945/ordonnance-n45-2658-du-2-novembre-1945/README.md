@@ -9,4 +9,5 @@
 - [Chapitre 4 : De l'expulsion.](chapitre-4)
 - [CHAPITRE IV : DE L'EXPULSION.](chapitre-iv)
 - [Chapitre 5 : Office d'immigration](chapitre-5)
+- [Chapitre 6 : Dispositions diverses.](chapitre-6)
 - [CHAPITRE VI : DISPOSITIONS DIVERSES.](chapitre-vi)
