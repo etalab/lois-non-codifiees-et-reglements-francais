@@ -1,12 +1,10 @@
 # Article 4
 
-Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 3 ci-dessus les candidats déclarés admis :
-
-1° Pour la spécialité Musique et danse, à un concours externe sur titres ouvert aux candidats titulaires du diplôme d'Etat de professeur de musique ou de danse, ou du diplôme universitaire de musicien intervenant ;
+1° Pour les spécialités Musique et Danse, à l'un des concours externes sur titres ouverts dans l'une de ces spécialités et, le cas échéant, dans l'une des disciplines mentionnées à l'article 2, aux candidats titulaires du diplôme d'Etat de professeur de musique ou de danse, ou du diplôme universitaire de musicien intervenant ; "
 
 2° Pour la spécialité Arts plastiques, à un concours externe sur titres avec épreuves, ouvert aux candidats titulaires d'un diplôme de fin de premier cycle d'études supérieures figurant sur une liste établie par décret, ou d'un titre ou diplôme de niveau équivalent ou un diplôme homologué au niveau III suivant la procédure définie par le décret n° 90-883 du 1er octobre 1990 figurant sur la liste susmentionnée ;
 
-3° A un concours interne sur épreuves ouvert, dans l'une ou l'autre des spécialités mentionnées à l'article 2 ci-dessus, pour 20 p. 100 des postes à pourvoir, aux assistants d'enseignement artistique.
+3° A un concours interne sur épreuves ouvert, dans l'une ou l'autre des spécialités mentionnées à l'article 2 ci-dessus et, le cas échéant, dans l'une des disciplines mentionnées à cet article pour 20 p. 100 des postes à pourvoir, aux assistants d'enseignement artistique.
 
 Les candidats au concours interne doivent justifier au 1er janvier de l'année du concours de trois années au moins de services publics effectifs, compte non tenu des périodes de stage ou de formation dans une école ou établissement ouvrant accès à un grade de la fonction publique.
 
