@@ -2,4 +2,4 @@
 
 Peuvent être nommés au grade d'agent administratif principal, dans les conditions prévues au 1° de l'article 69 de la loi du 9 janvier 1986 susvisée, les agents administratifs parvenus au 6e échelon de leur grade.
 
-Le nombre des agents administratifs principaux ne peut être supérieur à 25 p. 100 de l'effectif du corps dans l'établissement ou à un agent lorsque ce pourcentage n'est pas applicable.
+Le nombre de promotions dans le grade d'agent administratif principal est calculé chaque année, dans chaque établissement, dans les conditions fixées à l'article 1er du décret n° 2002-782 du 3 mai 2002.

@@ -36,6 +36,6 @@ Echelon : 2e
 
 Ancienneté acquise : Ancienneté acquise dans la limite de 4 ans.
 
-Le nombre des permanenciers auxiliaires de régulation médicale chefs dans un établissement ne peut excéder 15 % de l'effectif du corps de l'établissement. Une nomination peut être prononcée dans ce grade lorsque le résultat de l'application de ce pourcentage est inférieur à un et qu'il n'existe aucun titulaire de ce grade dans l'établissement.
+Le nombre de promotions dans le grade de permanencier auxiliaire de régulation médicale chef est calculé chaque année, dans chaque établissement, dans les conditions fixées à l'article 1er du décret n° 2002-782 du 3 mai 2002.
 
 L'ancienneté moyenne dans le grade de permanencier auxiliaire de régulation médicale chef est de trois ans dans le 1er échelon et de quatre ans dans le 2e échelon.
