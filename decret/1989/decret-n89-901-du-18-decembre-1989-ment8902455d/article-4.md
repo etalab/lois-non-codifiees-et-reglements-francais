@@ -10,4 +10,8 @@ Constituent des établissements publics à caractère administratif rattachés �
 
 - l'institut d'études politiques de Lyon rattaché à l'université de Lyon-II ;
 
-- l'institut d'études politiques de Toulouse rattaché à l'université de Toulouse-I.
+- l'institut d'études politiques de Toulouse rattaché à l'université de Toulouse-I ;
+
+Institut d'études politiques de Lille rattaché à l'université Lille-II ;
+
+Institut d'études politiques de Rennes rattaché à l'université Renne-I.
