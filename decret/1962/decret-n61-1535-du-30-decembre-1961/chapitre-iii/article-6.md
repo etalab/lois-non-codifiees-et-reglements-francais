@@ -1,34 +1,23 @@
 # Article 6
 
-Les indices de référence servant de base au décompte de la rémunération de l'agent comptable du Conservatoire national des arts et métiers sont fixés conformément au tableau ci-après :
+Les indices de référence servant de base au décompte de la rémunération de l'agent comptable du Conservatoire national des arts et métiers sont fixés conformément au tableau ci-après à compter du 1er août 1977 :
 
 <table>
 <tbody>
 <tr>
-<td rowspan="2" width="205">
+<td width="205">
 <p align="center">ECHELONS</p>
 </td>
-<td colspan="2" width="409">
-<p align="center">INDICES DE REFERENCE</p>
+<td width="409">
+<p align="center">INDICES BRUTS</p>
 </td>
 </tr>
 <tr>
 <td width="205">
-<p align="center">Nets</p>
+<p align="center">7e échelon</p>
 </td>
 <td width="205">
-<p align="center">Bruts</p>
-</td>
-</tr>
-<tr>
-<td width="205">
-<p align="center">7<sup>E</sup> échelon</p>
-</td>
-<td width="205">
-<p align="center">570</p>
-</td>
-<td width="205">
-<p align="center">825</p>
+<p align="center">841</p>
 </td>
 </tr>
 <tr>
@@ -36,10 +25,7 @@ Les indices de référence servant de base au décompte de la rémunération de 
 <p align="center">6<sup>e</sup> échelon</p>
 </td>
 <td width="205">
-<p align="center">550</p>
-</td>
-<td width="205">
-<p align="center">785</p>
+<p align="center">801</p>
 </td>
 </tr>
 <tr>
@@ -47,10 +33,7 @@ Les indices de référence servant de base au décompte de la rémunération de 
 <p align="center">5<sup>e</sup> échelon</p>
 </td>
 <td width="205">
-<p align="center">525</p>
-</td>
-<td width="205">
-<p align="center">735</p>
+<p align="center">750</p>
 </td>
 </tr>
 <tr>
@@ -58,10 +41,7 @@ Les indices de référence servant de base au décompte de la rémunération de 
 <p align="center">4<sup>e</sup> échelon</p>
 </td>
 <td width="205">
-<p align="center">500</p>
-</td>
-<td width="205">
-<p align="center">685</p>
+<p align="center">701</p>
 </td>
 </tr>
 <tr>
@@ -69,10 +49,7 @@ Les indices de référence servant de base au décompte de la rémunération de 
 <p align="center">3<sup>e</sup> échelon</p>
 </td>
 <td width="205">
-<p align="center">475</p>
-</td>
-<td width="205">
-<p align="center">655</p>
+<p align="center">672</p>
 </td>
 </tr>
 <tr>
@@ -80,10 +57,7 @@ Les indices de référence servant de base au décompte de la rémunération de 
 <p align="center">2<sup>e</sup> échelon</p>
 </td>
 <td width="205">
-<p align="center">450</p>
-</td>
-<td width="205">
-<p align="center">585</p>
+<p align="center">616</p>
 </td>
 </tr>
 <tr>
@@ -91,10 +65,7 @@ Les indices de référence servant de base au décompte de la rémunération de 
 <p align="center">1<sup>er</sup> échelon</p>
 </td>
 <td width="205">
-<p align="center">425</p>
-</td>
-<td width="205">
-<p align="center">550</p>
+<p align="center">582</p>
 </td>
 </tr>
 </tbody>
@@ -102,4 +73,4 @@ Les indices de référence servant de base au décompte de la rémunération de 
 
 Aux rémunérations correspondant à ces indices s'ajoutent l'indemnité de résidence et les suppléments pourc charges de famille.
 
-Aucune indemnité ou avantage accessoire, de quelque nature que ce soit, ne peut être accordé à l'intéressé que dans les conditions fixées par les articles 5 et 7 de l'ordonnance du 6 janvier 1945.
+Aucune indemnité ou avantage accessoire, de quelque nature que ce soit, ne peut être accordé à l'intéressé autrement que dans les conditions fixées par l'article 4 du décret du 10 juillet 1948 susvisé.
