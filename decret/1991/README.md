@@ -291,6 +291,7 @@
 - [Décret n°91-923 du 12 septembre 1991 (SPSS9101485D)](decret-n91-923-du-12-septembre-1991-spss9101485d)
 - [Décret n°91-1097 du 13 septembre 1991 (ECOC9100037D)](decret-n91-1097-du-13-septembre-1991-ecoc9100037d)
 - [Décret n°91-1165 du 13 novembre 1991 (SANH9102002D)](decret-n91-1165-du-13-novembre-1991-sanh9102002d)
+- [Décret n°91-1166 du 13 novembre 1991 (ECOP9100696D)](decret-n91-1166-du-13-novembre-1991-ecop9100696d)
 - [Décret n°91-160 du 13 février 1991 (ECOT9113411D)](decret-n91-160-du-13-fevrier-1991-ecot9113411d)
 - [Décret n°91-164 du 13 février 1991 (INTC9100024D)](decret-n91-164-du-13-fevrier-1991-intc9100024d)
 - [Décret n°91-165 du 13 février 1991 (INDH9000827D)](decret-n91-165-du-13-fevrier-1991-indh9000827d)
