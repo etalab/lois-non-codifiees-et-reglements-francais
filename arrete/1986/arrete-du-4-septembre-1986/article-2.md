@@ -2,24 +2,18 @@
 
 Les approbations prévues à l'article 85 du décret du 28 septembre 1979 susvisé sont données :
 
-2.1. En ce qui concerne les établissements ou organismes relevant du délégué général pour l'armement par les autorités ci-après désignées, chacune pour ses établissements et organismes :
+Pour les établissements ou organismes relevant du délégué général pour l'armement, par le directeur des centres d'expertises et d'essais et le chef du service de la maintenance aéronautique respectivement pour chacun de leurs établissements et organismes et, pour tous les autres établissements et organismes, par le directeur des systèmes de forces et de prospective.
 
-- le directeur des centres d'expertise et d'essais ;
+Pour les établissements ou organismes relevant du chef d'état-major de l'armée de terre, par le directeur central du matériel de l'armée de terre.
 
-- le chef du service de la maintenance aéronautique.
+Pour les établissements ou organismes relevant du chef d'état-major de la marine, par le directeur central du service de soutien de la flotte pour la pyrotechnie de Toulon et la pyrotechnie Saint-Nicolas-de-Brest ; par l'amiral commandant les forces sous-marines et la force océanique stratégique pour la pyrotechnie de l'Ile Longue et par le sous-chef d'état-major opérations logistiques pour tous les autres établissements et organismes.
 
-Pour ceux des établissements ou organismes qui ne relèvent d'aucune des autorités ci-dessus, ces approbations sont données par le directeur des systèmes de forces et de la prospective.
+Pour les établissements ou organismes relevant du chef d'état-major de l'armée de l'air, par le directeur central du matériel de l'armée de l'air.
 
-Les autorités susvisées consultent, avant de donner leur approbation, l'inspecteur de l'armement pour les poudres et explosifs.
+Pour les formations de la gendarmerie nationale :
 
-2.2. En ce qui concerne les établissements ou organismes relevant du chef d'état-major de l'armée de terre, par le directeur central du matériel de l'armée de terre, après consultation du contrôle technique du matériel de l'armée de terre.
+- par le sous-directeur de l'infrastructure et des équipements pour les stockages soumis à autorisation par la législation relative aux installations classées pour la protection de l'environnement ;
 
-2.3. En ce qui concerne les établissements ou organismes relevant du chef d'état-major de la marine, après consultation de l'inspecteur de l'armement pour les poudres et explosifs, par le directeur central du service de soutien de la flotte, pour les pyrotechnies maritimes métropolitaines, et par le sous-chef d'état-major opérations-logistique pour les autres établissements et organismes.
+- par les commandants de région de gendarmerie pour les formations de leur ressort et les commandants des écoles de la gendarmerie nationale pour les écoles et centres nationaux d'instruction, pour les stockages non soumis à autorisation par la législation relative aux installations classées pour la protection de l'environnement.
 
-2.4. En ce qui concerne les établissements ou organismes relevant du chef d'état-major de l'armée de l'air, par le sous-chef d'état-major de l'armée de l'air Logistique, après consultation de l'inspection technique de l'armée de l'air.
-
-2.5. En ce qui concerne les formations de la gendarmerie nationale, par le directeur général de la gendarmerie nationale, après consultation de l'inspection technique de la gendarmerie.
-
-2.6. En ce qui concerne les établissements ou organismes relevant du service à compétence nationale DCN, par le directeur de DCN, après consultation de l'inspecteur de l'armement pour les poudres et explosifs.
-
-2.7. Une copie des décisions prises en application des paragraphes qui précèdent est adressée aux contrôleurs généraux des armées, chargés de l'inspection du travail et de l'inspection des installations classées, au ministère de la défense.
+Les autorités susmentionnées consultent, avant de donner leur approbation, l'inspecteur de l'armement pour les poudres et explosifs.
