@@ -7,6 +7,7 @@
 - [Décret n°72-866 du 6 septembre 1972](decret-n72-866-du-6-septembre-1972)
 - [Décret n°72-849 du 11 septembre 1972](decret-n72-849-du-11-septembre-1972)
 - [Décret n°72-877 du 12 septembre 1972](decret-n72-877-du-12-septembre-1972)
+- [Décret n°72-1038 du 16 novembre 1972](decret-n72-1038-du-16-novembre-1972)
 - [Décret n°72-879 du 19 septembre 1972](decret-n72-879-du-19-septembre-1972)
 - [Décret n°72-208 du 20 mars 1972](decret-n72-208-du-20-mars-1972)
 - [Décret n°72-209 du 20 mars 1972](decret-n72-209-du-20-mars-1972)

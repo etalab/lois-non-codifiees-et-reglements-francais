@@ -4,6 +4,7 @@
 - [Arrêté du 1 septembre 1972](arrete-du-1-septembre-1972)
 - [Arrêté du 2 juin 1972](arrete-du-2-juin-1972)
 - [Arrêté du 2 mars 1972](arrete-du-2-mars-1972)
+- [Arrêté du 2 novembre 1972](arrete-du-2-novembre-1972)
 - [Arrêté du 2 octobre 1972](arrete-du-2-octobre-1972)
 - [Arrêté du 3 janvier 1972](arrete-du-3-janvier-1972)
 - [Arrêté du 3 juillet 1972](arrete-du-3-juillet-1972)
@@ -52,3 +53,4 @@
 - [Arrêté du 29 juin 1972](arrete-du-29-juin-1972)
 - [Arrêté du 29 mai 1972](arrete-du-29-mai-1972)
 - [Arrêté du 30 décembre 1971](arrete-du-30-decembre-1971)
+- [Arrêté du 31 octobre 1972](arrete-du-31-octobre-1972)
