@@ -52,8 +52,6 @@ Brosserie, tabletterie et articles de bureau.
 
 Industries diverses (vannerie, paille ouvrée, travail du liège).
 
-Transformation des matières plastiques.
-
 Commerce des bois (à l'exception du commerce du liège).
 
 IV - Industries chimiques.
@@ -97,6 +95,8 @@ Amiante.
 Tissus enduits.
 
 Papier, carton.
+
+Plasturgie.
 
 VII - Industries du livre.
 
@@ -169,6 +169,8 @@ Boyauderie.
 Commerces agricoles et alimentaires (à l'exception des commerces de chevaux, ânes, mulets, petits animaux, des commerces de plantes médicinales, de fleurs naturelles).
 
 Exploitation d'eaux minérales naturelles.
+
+Cafés, hôtels, restaurants.
 
 XII - Industries des transports et de la manutention.
 

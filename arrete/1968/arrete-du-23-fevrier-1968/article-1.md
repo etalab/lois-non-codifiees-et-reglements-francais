@@ -1,6 +1,6 @@
 # Article 1
 
-Il est créé, pour chacune des branches ou chacun des groupes de branches d'activité désignées ci-après, un comité technique national chargé d'assister le conseil d'administration de la caisse nationale de l'assurance maladie des travailleurs salariés dans l'étude technique de toutes les questions générales relatives à la prévention, à la statistique, à l'assurance et à la tarification des risques d'accidents du travail et de maladies professionnelles :
+Il est créé, pour chacune des branches ou chacun des groupes de branches d'activité désignées ci-après, un comité technique national chargé d'assister la commission des accidents du travail et des maladies professionnelles de la caisse nationale de l'assurance maladie des travailleurs salariés dans l'étude technique de toutes les questions générales relatives à la prévention, à la statistique, à l'assurance et à la tarification des risques d'accidents du travail et de maladies professionnelles :
 
 Industries de la métallurgie.
 
@@ -32,4 +32,4 @@ Commerces non alimentaires.
 
 Activités du groupe interprofessionnel (banque, assurance, etc.).
 
-En outre, il est créé, pour l'ensemble des branches d'activité existant dans les départements d'outre-mer, un comité technique particulier chargé d'assister le conseil d'administration de la caisse nationale de l'assurance maladie des travailleurs salariés dans l'étude technique de toutes les questions générales relatives à la prévention, à l'assurance, à la statistique et à la tarification des risques d'accidents du travail et de maladies professionnelles.
+En outre, il est créé, pour l'ensemble des branches d'activité existant dans les départements d'outre-mer, un comité technique particulier chargé d'assister la commission des accidents du travail et des maladies professionnelles de la caisse nationale de l'assurance maladie des travailleurs salariés dans l'étude technique de toutes les questions générales relatives à la prévention, à l'assurance, à la statistique et à la tarification des risques d'accidents du travail et de maladies professionnelles.
