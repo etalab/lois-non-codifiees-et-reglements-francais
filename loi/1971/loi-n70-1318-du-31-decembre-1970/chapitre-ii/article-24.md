@@ -1,6 +1,6 @@
 # Article 24
 
-Dans chaque établissement d'hospitalisation public, il est institué une commission médicale d'établissement [*lieu de création*].
+Dans chaque établissement public de santé, il est institué une commission médicale d'établissement.
 
 La commission médicale d'établissement [*attributions*] est obligatoirement consultée sur le programme, le plan directeur, le budget et les comptes de l'établissement ainsi que sur l'organisation et le fonctionnement des services médicaux et pharmaceutiques et, le cas échéant, des pôles d'activités et des départements, ainsi que sur tous les aspects techniques des activités médicales. Elle est tenue régulièrement informée de l'exécution du budget. Elle est également consultée sur le fonctionnement des services autres que médicaux et pharmaceutiques qui intéressent la qualité des soins ou la santé des malades.
 

@@ -9,3 +9,5 @@ Dans le cas où le fonctionnaire est détaché dans un emploi conduisant à pens
 L'organisme auprès duquel le fonctionnaire est détaché est redevable envers la caisse nationale de retraite des agents des collectivités locales d'une contribution pour la constitution des droits à pension de l'intéressé, dans les conditions prévues par décret en Conseil d'Etat.
 
 Dans le cas des fonctionnaires détachés auprès de députés ou de sénateurs, la contribution est versée par le député ou le sénateur intéressé.
+
+Si ces fonctionnaires sont remis à la disposition de leur administration d'origine pour une cause autre qu'une faute commise dans l'exercice de leurs fonctions, ils sont réintégrés de plein droit dans leur corps d'origine, au besoin en surnombre.

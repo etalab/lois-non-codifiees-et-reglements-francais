@@ -2,7 +2,7 @@
 
 Les dispositions du présent titre [*champ d'application*] s'appliquent aux personnes qui, régies par les dispositions du titre premier du statut général, ont été nommées dans un emploi permanent à temps complet ou à temps non complet dont la quotité de travail est au moins égale au mi-temps, et titularisées dans un grade de la hiérarchie des établissements ci-après énumérés :
 
-1° Etablissements d'hospitalisation publics et syndicats interhospitaliers mentionnés par la loi n° 70-1318 du 31 décembre 1970 portant réforme hospitalière ;
+1° Etablissements publics de santé et syndicats interhospitaliers mentionnés aux articles L. 711-6 et L. 713-5 du code de la santé publique ;
 
 2° Hospices publics ;
 
@@ -16,4 +16,4 @@ Les dispositions du présent titre [*champ d'application*] s'appliquent aux pers
 
 7° Centre d'accueil et de soins hospitaliers de Nanterre.
 
-Les dispositions du présent titre ne s'appliquent pas aux médecins, biologistes, pharmaciens et odontologistes mentionnés au 3° de l'article 25 de la loi n° 70-1318 du 31 décembre 1970.
+Les dispositions du présent titre ne s'appliquent pas aux médecins, biologistes, pharmaciens et odontologistes mentionnés aux 2° et 3° ainsi qu'à l'avant-dernier alinéa de l'article L. 714-27 du code de la santé publique.

@@ -1,6 +1,6 @@
 # Article 21
 
-Le conseil d'administration des établissements ou groupes d'établissements d'hospitalisation publics comprend des représentants des collectivités locales intéressées, des caisses d'assurance maladie, du personnel médical et pharmaceutique hospitalier, du personnel titulaire n'appartenant pas au corps médical et des personnes qualifiées dont, obligatoirement un médecin non hospitalier.
+Le conseil d'administration des établissements ou groupes d'établissements publics de santé comprend des représentants des collectivités locales intéressées, des caisses d'assurance maladie, du personnel médical et pharmaceutique hospitalier, du personnel titulaire n'appartenant pas au corps médical et des personnes qualifiées dont, obligatoirement un médecin non hospitalier.
 
 Les modalités de désignation ou d'élection des membres de chacune des catégories sont fixées par voie réglementaire, de même que le mode de représentation au sein du conseil d'administration des collectivités autres que celles dont relève l'établissement. Toutefois, le président de la commission médicale d'établissement et, pour les centres hospitaliers régionaux faisant partie de centres hospitaliers et universitaires, le directeur de l'unité d'enseignement et de recherche médicale ou le président du comité de coordination de l'enseignement médical, sont membres de droit du conseil d'administration de l'établissement.
 
