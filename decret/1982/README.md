@@ -153,6 +153,7 @@
 - [Décret n°82-902 du 20 octobre 1982](decret-n82-902-du-20-octobre-1982)
 - [Décret n°82-903 du 20 octobre 1982](decret-n82-903-du-20-octobre-1982)
 - [Décret n°82-904 du 20 octobre 1982](decret-n82-904-du-20-octobre-1982)
+- [Décret n°82-906 du 20 octobre 1982](decret-n82-906-du-20-octobre-1982)
 - [Décret n°82-1089 du 21 décembre 1982](decret-n82-1089-du-21-decembre-1982)
 - [Décret n°82-355 du 21 avril 1982](decret-n82-355-du-21-avril-1982)
 - [Décret n°82-358 du 21 avril 1982](decret-n82-358-du-21-avril-1982)
