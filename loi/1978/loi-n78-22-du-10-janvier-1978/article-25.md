@@ -1,0 +1,5 @@
+# Article 25
+
+Le prêteur ou le vendeur qui, en infraction aux dispositions de l'article 7 (troisième alinéa) et de l'article 15, réclame ou reçoit de l'emprunteur ou de l'acheteur un paiement sous quelque forme que ce soit sera puni d'une amende de 2.000 F à  200.000 F. La même peine est applicable à celui qui fait signer des formules de prélèvement sur comptes bancaires ou postaux contenant des clauses contraires aux dispositions des alinéas susvisés.
+
+Elle est également applicable à celui qui fait souscrire, ou accepter, ou avaliser par l'emprunteur ou l'acheteur des lettres de change ou des billets à ordre, à celui qui persiste indûment à ne pas payer les sommes visées au quatrième alinéa de l'article 13 et à celui qui, en infraction aux dispositions de l'article 7 de la présente loi, enregistre ou fait enregistrer sur un fichier le nom des personnes usant de la faculté de rétractation ainsi qu'à celui qui fait signer par un même client plusieurs offres préalables d'un montant total en capital supérieur à la valeur payable à crédit du bien acheté ou de la prestation de services fournie.
