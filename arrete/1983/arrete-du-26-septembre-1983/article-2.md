@@ -1,6 +1,6 @@
 # Article 2
 
-Il est institué auprès du ministre chargé de la sécurité sociale une commission nationale de classement chargée d'arrêter [*attributions*], chaque année [*périodicité*], la liste d'aptitude. Cette commission comprend des membres titulaires et suppléants qui sont nommés par arrêté du ministre chargé de la sécurité sociale.
+Il est institué auprès du ministre chargé de la sécurité sociale une commission nationale de classement chargée d'arrêter, chaque année, la liste d'aptitude. Cette commission comprend des membres titulaires et suppléants qui sont nommés par arrêté du ministre chargé de la sécurité sociale.
 
 La composition de la commission est la suivante :
 
@@ -18,7 +18,7 @@ La composition de la commission est la suivante :
 
 - un représentant de la Cancava ;
 
-- un représentant de la Canam ;
+- Un représentant de la Canam ;
 
 - deux représentants du personnel de direction et des agents comptables des caisses de base de l'Organic élus pour trois années ;
 
@@ -26,7 +26,7 @@ La composition de la commission est la suivante :
 
 - deux représentants du personnel de direction et des agents comptables des caisses de base de la Canam (caisses mutuelles régionales) élus pour trois années ;
 
-- un représentant de l'Association des élèves et anciens élèves du C.N.E.S.S.S..
+- un représentant  de l'Association des élèves et anciens élèves du C.N.E.S.S..
 
 Lorsqu'elle se prononce sur l'inscription sur la liste d'un candidat exerçant ou ayant exercé les fonctions d'agent comptable, la commission est complétée par un représentant du ministre chargé du budget ayant voix consultative.
 

@@ -1,6 +1,6 @@
 # Article 17
 
-A titre exceptionnel les représentants des agents de direction et agents comptables de caisses mutuelles régionales élus en 1985 verront leur mandat prendre fin le 8 février 1987, date d'extinction du mandat des autres membres élus de la commission.
+A titre exceptionnel, le mandat des représentants élus visés à l'article 2 prendra fin le 30 juin 1987.
 
 A titre exceptionnel et pour l'établissement de la liste d'aptitude pour l'année 1986, la date limite de dépôt des candidatures est fixée au 1er octobre 1985.
 

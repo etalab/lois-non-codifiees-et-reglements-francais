@@ -1,6 +1,6 @@
 # Article 1
 
-Dans la limite des crédits prévus à cet effet, des indemnités pour frais de déplacement et exceptionnellement pour perte de salaire peuvent être allouées, dans les conditions fixées aux articles suivants, aux membres des commissions dépendant du ministère de l'agriculture ci-après énumérées :
+Dans la limite des crédits prévus à cet effet, des indemnités pour frais de déplacement et exceptionnellement pour perte de salaire peuvent être allouées, dans les conditions fixées aux articles suivants, aux membres des commissions dépendant du ministère de l'agriculture ci-après énumérées [*liste*] :
 
 1° Conseil supérieur de l'enseignement, de la formation professionnelle, de la promotion sociale agricoles et de la jeunesse rurale, commission et sections en dépendant.
 
@@ -52,9 +52,7 @@ Dans la limite des crédits prévus à cet effet, des indemnités pour frais de 
 
 25° Commissions techniques et sanitaires agricoles.
 
-26° Conseil de direction du fonds d'orientation et de régularisation des marchés agricoles et sections qui y sont
-
-rattachées.
+26° Conseil de direction du fonds d'orientation et de régularisation des marchés agricoles et sections qui y sont rattachées.
 
 27° Conseil interprofessionnel de l'institut des vins de consommation courante et commissions qui en dépendent.
 
@@ -118,7 +116,7 @@ rattachées.
 
 57° Commissions d'expertise pour le contrôle du conditionnement dans les départements d'outre-mer.
 
-58° Comité consultatif interprofessionnel des plantes médicinales.
+58° Comité consultatif interprofessionnel des plantes médicinales .
 
 59° Comité consultatif de règlement amiable des litiges relatifs aux marchés publics passés par le ministère de l'agriculture.
 
@@ -134,7 +132,7 @@ rattachées.
 
 65° Commission d'essais des appareils ou instruments d'étourdissement des animaux.
 
-66° Conseil d'administration de l'Office national de l'eau et des milieux aquatiques et commissions en dépendant.
+66° Conseil d'administration du conseil supérieur de la pêche et commissions en dépendant.
 
 67° Commission de discipline nationale des praticiens conseils ;
 
@@ -155,5 +153,3 @@ rattachées.
 75° Conseil national du froid.
 
 76° Commissions consultatives départementales chargées d'examiner les demandes d'affiliation au régime de protection sociale des membres non salariés des professions agricoles en qualité d'entrepreneurs de travaux forestiers.
-
-77° Commission d'étude de l'utilisation de produits issus du génie biomoléculaire.
