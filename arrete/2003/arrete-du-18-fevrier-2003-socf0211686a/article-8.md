@@ -1,0 +1,3 @@
+# Article 8
+
+La Caisse nationale de surcompensation centralise à un compte ouvert à son nom dans les écritures de la Caisse des dépôts et consignations la totalité des cotisations d'intempéries recueillies par la caisse de congés payés. Sur sa demande, la Caisse des dépôts et consignations transfère aux caisses de congés payés les sommes qui leur sont nécessaires pour qu'elles opèrent le remboursement des indemnités d'intempéries dont les entreprises ont fait l'avance. La Caisse des dépôts et consignations rembourse sur sa demande, aux caisses de congés payés, les frais exposés par celle-ci pour la gestion de leur service d'indemnisation des intempéries. Ces frais de gestion ne devront pas dépasser 10 % du montant des cotisations.
