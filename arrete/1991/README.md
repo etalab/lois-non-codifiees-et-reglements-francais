@@ -340,7 +340,6 @@
 - [Arrêté du 11 février 1991 (MENN9100299A)](arrete-du-11-fevrier-1991-menn9100299a)
 - [Arrêté du 11 février 1991 (MENN9100300A)](arrete-du-11-fevrier-1991-menn9100300a)
 - [Arrêté du 11 février 1991 (SPSS9100458A)](arrete-du-11-fevrier-1991-spss9100458a)
-- [Arrêté du 11 janvier 1991 (BUDF9120376A)](arrete-du-11-janvier-1991-budf9120376a)
 - [Arrêté du 11 janvier 1991 (MERG9100003A)](arrete-du-11-janvier-1991-merg9100003a)
 - [Arrêté du 11 janvier 1991 (TOUR9104502A)](arrete-du-11-janvier-1991-tour9104502a)
 - [Arrêté du 11 juillet 1991 (AGRG9101348A)](arrete-du-11-juillet-1991-agrg9101348a)
