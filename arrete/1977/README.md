@@ -32,6 +32,7 @@
 - [Arrêté du 9 mars 1977](arrete-du-9-mars-1977)
 - [Arrêté du 10 décembre 1976](arrete-du-10-decembre-1976)
 - [Arrêté du 10 mars 1977](arrete-du-10-mars-1977)
+- [Arrêté du 10 octobre 1977](arrete-du-10-octobre-1977)
 - [Arrêté du 11 juillet 1977](arrete-du-11-juillet-1977)
 - [Arrêté du 11 mars 1977](arrete-du-11-mars-1977)
 - [Arrêté du 12 octobre 1977](arrete-du-12-octobre-1977)

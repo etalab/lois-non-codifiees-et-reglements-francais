@@ -52,6 +52,7 @@
 - [Décret n°77-1249 du 9 novembre 1977](decret-n77-1249-du-9-novembre-1977)
 - [Décret n°77-612 du 9 juin 1977](decret-n77-612-du-9-juin-1977)
 - [Décret n°72-196 du 10 mars 1972](decret-n72-196-du-10-mars-1972)
+- [Décret n°77-1153 du 10 octobre 1977](decret-n77-1153-du-10-octobre-1977)
 - [Décret n°77-123 du 10 février 1977](decret-n77-123-du-10-fevrier-1977)
 - [Décret n°77-230 du 10 mars 1977](decret-n77-230-du-10-mars-1977)
 - [Décret n°77-593 du 10 juin 1977](decret-n77-593-du-10-juin-1977)
