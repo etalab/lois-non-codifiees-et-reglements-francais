@@ -929,7 +929,6 @@
 - [Arrêté du 24 mars 1993 (FPPA9300026A)](arrete-du-24-mars-1993-fppa9300026a)
 - [Arrêté du 24 mars 1993 (MENG9304895A)](arrete-du-24-mars-1993-meng9304895a)
 - [Arrêté du 24 mars 1993 (MENN9304839A)](arrete-du-24-mars-1993-menn9304839a)
-- [Arrêté du 24 mars 1993 (SANH9301040A)](arrete-du-24-mars-1993-sanh9301040a)
 - [Arrêté du 24 mars 1993 (SPSA9301006A)](arrete-du-24-mars-1993-spsa9301006a)
 - [Arrêté du 24 mars 1993 (SPSS9301008A)](arrete-du-24-mars-1993-spss9301008a)
 - [Arrêté du 24 mars 1993 (SPSS9301093A)](arrete-du-24-mars-1993-spss9301093a)
