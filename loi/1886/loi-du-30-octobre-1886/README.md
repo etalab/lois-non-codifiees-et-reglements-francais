@@ -3,4 +3,3 @@
 - [Titre Ier : Dispositions générales](titre-ier)
 - [Titre II : De l'enseignement public](titre-ii)
 - [Titre III : De l'enseignement privé](titre-iii)
-- [Article 36](article-36.md)
