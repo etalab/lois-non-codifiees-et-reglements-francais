@@ -992,6 +992,7 @@
 - [Décret n°2002-1314 du 25 octobre 2002 (SOCS0222755D)](decret-n2002-1314-du-25-octobre-2002-socs0222755d)
 - [Décret n°2002-1315 du 25 octobre 2002 (ECOC0200027D)](decret-n2002-1315-du-25-octobre-2002-ecoc0200027d)
 - [Décret n°2002-1316 du 25 octobre 2002 (SANH0222951D)](decret-n2002-1316-du-25-octobre-2002-sanh0222951d)
+- [Décret n°2002-1376 du 25 novembre 2002 (ECOT0251082D)](decret-n2002-1376-du-25-novembre-2002-ecot0251082d)
 - [Décret n°2002-277 du 25 février 2002 (ECOB0210007D)](decret-n2002-277-du-25-fevrier-2002-ecob0210007d)
 - [Décret n°2002-400 du 25 mars 2002 (MESF0210302D)](decret-n2002-400-du-25-mars-2002-mesf0210302d)
 - [Décret n°2002-401 du 25 mars 2002 (MESA0124286D)](decret-n2002-401-du-25-mars-2002-mesa0124286d)
