@@ -945,7 +945,6 @@
 - [Arrêté du 30 octobre 1990 (PRMD9050005A)](arrete-du-30-octobre-1990-prmd9050005a)
 - [Arrêté du 30 octobre 1990 (TEFT9003941A)](arrete-du-30-octobre-1990-teft9003941a)
 - [Arrêté du 30 mai 1990 (BUDF9000008A)](arrete-du-30-mai-1990-budf9000008a)
-- [Arrêté du 30 mai 1990 (ECOA9000037A)](arrete-du-30-mai-1990-ecoa9000037a)
 - [Arrêté du 30 mai 1990 (INTB9000221A)](arrete-du-30-mai-1990-intb9000221a)
 - [Arrêté du 31 août 1989 (PRME9061044A)](arrete-du-31-aout-1989-prme9061044a)
 - [Arrêté du 31 août 1990 (AGRH9001862A)](arrete-du-31-aout-1990-agrh9001862a)
