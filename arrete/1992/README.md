@@ -14,8 +14,6 @@
 - [Arrêté du 1 décembre 1992 (INDM9200965A)](arrete-du-1-decembre-1992-indm9200965a)
 - [Arrêté du 1 décembre 1992 (INDM9200966A)](arrete-du-1-decembre-1992-indm9200966a)
 - [Arrêté du 1 décembre 1992 (INDM9200967A)](arrete-du-1-decembre-1992-indm9200967a)
-- [Arrêté du 1 décembre 1992 (MENT9200467A)](arrete-du-1-decembre-1992-ment9200467a)
-- [Arrêté du 1 décembre 1992 (MENT9200468A)](arrete-du-1-decembre-1992-ment9200468a)
 - [Arrêté du 1 décembre 1992 (SPSS9202900A)](arrete-du-1-decembre-1992-spss9202900a)
 - [Arrêté du 1 juillet 1992 (ECOC9200082A)](arrete-du-1-juillet-1992-ecoc9200082a)
 - [Arrêté du 1 juillet 1992 (EQUS9201032A)](arrete-du-1-juillet-1992-equs9201032a)

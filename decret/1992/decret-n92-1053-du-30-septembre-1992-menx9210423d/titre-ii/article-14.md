@@ -1,3 +1,0 @@
-# Article 14
-
-En cas de retrait de l'autorisation en application du 4° de l'article 42-1 ou de l'article 42-3 de la loi du 30 septembre 1986 susvisée ou en cas de cessation volontaire d'activité, la partie de la subvention qui n'a pas encore été utilisée conformément à son objet est reversée au fonds de soutien dans les conditions prévues aux articles 18 et 19. Si le service bénéficiaire de la subvention d'installation dépasse le plafond de ressources défini à l'article 80 de la même loi au cours de ses deux premiers exercices comptables, la subvention est reversée au fonds de soutien dans les mêmes conditions.

@@ -1081,7 +1081,6 @@
 - [Décret n°91-1377 du 30 décembre 1991 (TEFX9110354D)](decret-n91-1377-du-30-decembre-1991-tefx9110354d)
 - [Décret n°91-741 du 30 juillet 1991 (JUSG9160034D)](decret-n91-741-du-30-juillet-1991-jusg9160034d)
 - [Décret n°92-105 du 30 janvier 1992 (ACVC9200005D)](decret-n92-105-du-30-janvier-1992-acvc9200005d)
-- [Décret n°92-1053 du 30 septembre 1992 (MENX9210423D)](decret-n92-1053-du-30-septembre-1992-menx9210423d)
 - [Décret n°92-1058 du 30 septembre 1992 (SPSC9202144D)](decret-n92-1058-du-30-septembre-1992-spsc9202144d)
 - [Décret n°92-106 du 30 janvier 1992 (ACVC9200004D)](decret-n92-106-du-30-janvier-1992-acvc9200004d)
 - [Décret n°92-1066 du 30 septembre 1992 (SPSS9202370D)](decret-n92-1066-du-30-septembre-1992-spss9202370d)
