@@ -5,10 +5,10 @@
 <td>:=================================:</td>
 </tr>
 <tr>
-<td> :    DEPARTEMENTS     :  MONTANT  :</td>
+<td> :                     :  MONTANT  :</td>
 </tr>
 <tr>
-<td> :                     :    de la  :</td>
+<td> :      REGIONS        :    de la  :</td>
 </tr>
 <tr>
 <td> :                     :  dotation :</td>
@@ -23,80 +23,56 @@
 <td> :                     :           :</td>
 </tr>
 <tr>
-<td> : Alpes-Maritimes     :    11200  :</td>
+<td> : Provence - Alpes    :           :</td>
 </tr>
 <tr>
-<td> : Aude                :   218240  :</td>
+<td> : Côte-d'Azur        :   361255  :</td>
 </tr>
 <tr>
-<td> : Bouches-du-Rhône    :    14240  :</td>
+<td> : Basse-Normandie     :   233168  :</td>
 </tr>
 <tr>
-<td> : Calvados            :    14880  :</td>
+<td> : Aquitaine           :   212459  :</td>
 </tr>
 <tr>
-<td> : Charente-Maritime   :   371840  :</td>
+<td> : Languedoc Roussillon:  1091441  :</td>
 </tr>
 <tr>
-<td> : Côtes-du-Nord       :    89440  :</td>
+<td> : Bretagne            :  2459769  :</td>
 </tr>
 <tr>
-<td> : Finistère           :   101440  :</td>
+<td> : Pays-de-la-Loire    :   536900  :</td>
 </tr>
 <tr>
-<td> : Gironde             :    88480  :</td>
+<td> : Nord-Pas-de-Calais  :   397680  :</td>
 </tr>
 <tr>
-<td> : Hérault             :    29120  :</td>
+<td> : Picardie            :     8054  :</td>
 </tr>
 <tr>
-<td> : Ille-et-Vilaine     :    72960  :</td>
+<td> : Poitou-Charentes    :  1838499  :</td>
 </tr>
 <tr>
-<td> : Landes              :      160  :</td>
+<td> : Guadeloupe          :   141895  :</td>
 </tr>
 <tr>
-<td> : Loire-Atlantique    :    43360  :</td>
+<td> : Martinique          :   307951  :</td>
 </tr>
 <tr>
-<td> : Manche              :    76000  :</td>
+<td> : Guyane              :    31065  :</td>
 </tr>
 <tr>
-<td> : Morbihan            :   346400  :</td>
-</tr>
-<tr>
-<td> : Pas-de-Calais       :     5920  :</td>
-</tr>
-<tr>
-<td> : Somme               :     3360  :</td>
-</tr>
-<tr>
-<td> : Var                 :     1920  :</td>
-</tr>
-<tr>
-<td> : Vendée              :   110240  :</td>
-</tr>
-<tr>
-<td> : Guyane              :      160  :</td>
-</tr>
-<tr>
-<td> : Martinique          :      480  :</td>
-</tr>
-<tr>
-<td> : Saint-Pierre-et-    :           :</td>
-</tr>
-<tr>
-<td> :         Miquelon    :      160  :</td>
+<td> : La Réunion          :    49855  :</td>
 </tr>
 <tr>
 <td> :                     :===========:</td>
 </tr>
 <tr>
-<td> :      Total (1)      :  1600000  :</td>
+<td> :        Total (1)    :  7670000  :</td>
 </tr>
 <tr>
 <td> :=================================:</td>
 </tr>
 </table>
 
-(1) Le montant total du transfert est de 5000000 F en autorisations de programme. Conformément aux dispositions de l'article 111 de la loi du 7 janvier 1983, les crédits de paiement correspondants seront intégrés dans la D.G.D. sur une période qui ne peut excéder trois ans.
+(1) Le montant total du transfert est de 11670000 F dont 6000000 F en autorisations de programme. Conformément aux dispositions de l'article 111 de la loi du 7 janvier 1983, les crédits de paiement correspondants seront intégrés dans la D.G.D. sur une période qui ne peut excéder trois ans.
