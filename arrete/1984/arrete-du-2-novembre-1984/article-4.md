@@ -1,12 +1,12 @@
 # Article 4
 
-Les personnes remplissant les conditions requises et qui désirent prendre part à un concours d'intégration doivent remettre, ou faire parvenir par pli recommandé, au plus tard à la date de clôture des inscriptions, à l'adresse indiquée sur l'avis de concours les pièces suivantes [*procédure, délai, mentions obligatoires*] :
+Les personnes remplissant les conditions requises et qui désirent prendre part à un concours d'intégration doivent remettre, ou faire parvenir par pli recommandé, au plus tard à la date de clôture des inscriptions, à l'adresse indiquée sur l'avis de concours les pièces suivantes :
 
 1) Une demande de candidature mentionnant leurs nom, prénoms, date de naissance et adresse ;
 
 2) Une fiche individuelle d'état civil datant de moins de trois mois ;
 
-3) Tout acte de nature à établir la nationalité française ;
+3) Tout acte de nature à établir la nationalité ;
 
 4) Un extrait de casier judiciaire (bulletin n°3) établi depuis moins de trois mois ;
 
