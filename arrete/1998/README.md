@@ -69,6 +69,7 @@
 - [Arrêté du 5 mai 1988 (ASEH8800736A)](arrete-du-5-mai-1988-aseh8800736a)
 - [Arrêté du 5 mai 1998 (ECOL9800055A)](arrete-du-5-mai-1998-ecol9800055a)
 - [Arrêté du 5 mai 1998 (JUSG9860021A)](arrete-du-5-mai-1998-jusg9860021a)
+- [Arrêté du 5 mai 1998 (MCCB9800377A)](arrete-du-5-mai-1998-mccb9800377a)
 - [Arrêté du 5 mai 1998 (MENF9801123A)](arrete-du-5-mai-1998-menf9801123a)
 - [Arrêté du 6 avril 1998 (INTE9800150A)](arrete-du-6-avril-1998-inte9800150a)
 - [Arrêté du 6 février 1998 (ATEP9870081A)](arrete-du-6-fevrier-1998-atep9870081a)
