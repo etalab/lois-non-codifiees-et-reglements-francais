@@ -77,6 +77,7 @@
 - [Décret n°2003-36 du 13 janvier 2003 (DEVX0306258D)](decret-n2003-36-du-13-janvier-2003-devx0306258d)
 - [Décret n°2003-52 du 13 janvier 2003 (FPPA0310000D)](decret-n2003-52-du-13-janvier-2003-fppa0310000d)
 - [Décret n°86-68 du 13 janvier 1986](decret-n86-68-du-13-janvier-1986)
+- [Décret n°95-1007 du 13 septembre 1995 (PRMX9500117D)](decret-n95-1007-du-13-septembre-1995-prmx9500117d)
 - [Décret n°2003-114 du 14 février 2003 (INTA0300034D)](decret-n2003-114-du-14-fevrier-2003-inta0300034d)
 - [Décret n°2003-115 du 14 février 2003 (INTA0300035D)](decret-n2003-115-du-14-fevrier-2003-inta0300035d)
 - [Décret n°2003-139 du 14 février 2003 (BUDF0200023D)](decret-n2003-139-du-14-fevrier-2003-budf0200023d)
