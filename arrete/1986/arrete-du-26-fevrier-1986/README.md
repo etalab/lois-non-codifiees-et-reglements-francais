@@ -1,4 +1,4 @@
-# Arrêté du 26 février 1986 portant fixation temporaire de certaines conditions d'application de l'article R. 351-50 du code du travail
+# Arrêté du 26 février 1986 portant organisation de l'élection des représentants du personnel au sein des commissions consultatives paritaires compétentes à l'égard des agents non titulaires des services du Premier ministre
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -14,4 +14,5 @@
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
+- [Article 15](article-15.md)
 - [Article 16](article-16.md)

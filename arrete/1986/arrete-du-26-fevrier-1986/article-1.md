@@ -1,3 +1,5 @@
 # Article 1
 
-Pour la période comprise entre le 1er janvier et le 31 décembre 1986, le contingent annuel d'heures indemnisables au titre du régime d'indemnisation pour privation partielle d'emploi est fixé à 500 heures pour l'ensemble des branches professionnelles.
+L'élection des représentants du personnel au sein des commissions consultatives paritaires compétentes à l'égard des agents non titulaires des services du Premier ministre est organisée dans les conditions fixées par le présent arrêté.
+
+Un arrêté du Premier ministre fixe la date des élections qui, sauf renouvellement anticipé d'une commission, ont lieu quatre mois au plus et un mois au moins avant la date d'expiration du mandat de la commission en exercice.
