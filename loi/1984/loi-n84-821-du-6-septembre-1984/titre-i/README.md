@@ -18,5 +18,6 @@
 - [Article 55](article-55.md)
 - [Article 56](article-56.md)
 - [Article 63](article-63.md)
+- [Article 70](article-70.md)
 - [Article 101](article-101.md)
 - [Article 108](article-108.md)
