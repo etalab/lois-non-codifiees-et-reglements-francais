@@ -1012,6 +1012,7 @@
 - [Arrêté du 30 mars 1998 (MESP9821234A)](arrete-du-30-mars-1998-mesp9821234a)
 - [Arrêté du 30 mars 1998 (MESS9821189A)](arrete-du-30-mars-1998-mess9821189a)
 - [Arrêté du 30 mars 1998 (MJSK9870041A)](arrete-du-30-mars-1998-mjsk9870041a)
+- [Arrêté du 30 octobre 1998 (AGRA9802164A)](arrete-du-30-octobre-1998-agra9802164a)
 - [Arrêté du 30 octobre 1998 (MESS9823438A)](arrete-du-30-octobre-1998-mess9823438a)
 - [Arrêté du 30 octobre 1998 (MESS9823439A)](arrete-du-30-octobre-1998-mess9823439a)
 - [Arrêté du 30 septembre 1998 (ECOC9800079A)](arrete-du-30-septembre-1998-ecoc9800079a)
