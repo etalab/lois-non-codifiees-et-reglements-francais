@@ -1,0 +1,5 @@
+# Article 4
+
+Pour l'exercice de sa mission et dans le domaine de la fusion thermonucléaire par confinement inertiel, le comité est tenu informé par le ministre de l'industrie et le secrétaire d'Etat auprès du Premier ministre (Recherche) des programmes d'études et de recherches, de leurs modalités d'exécution, de leurs développements et résultats, des projets d'investissement ainsi que des noms et qualités des personnes participant en permanence ou de façon occasionnelle à ces travaux.
+
+Le comité est chargé d'émettre un avis, lequel est transmis au Premier ministre, en ce qui concerne l'autorisation préalable d'études et de recherches visée à l'article 2 du présent décret. Celle-ci porte sur le programme détaillé des études et recherches envisagées, sur les modalités prévues d'exécution, sur les publications et communications de toutes natures auxquelles ces activités pourraient donner lieu. Le comité émet un avis préalable sur les dispositions à prendre pour assurer et contrôler la protection du secret de la défense nationale.
