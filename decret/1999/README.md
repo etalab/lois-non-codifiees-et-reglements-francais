@@ -229,6 +229,7 @@
 - [Décret n°99-300 du 15 avril 1999 (ECOA9833001D)](decret-n99-300-du-15-avril-1999-ecoa9833001d)
 - [Décret n°99-35 du 15 janvier 1999 (ECOC9800120D)](decret-n99-35-du-15-janvier-1999-ecoc9800120d)
 - [Décret n°99-494 du 15 juin 1999 (MESG9921154D)](decret-n99-494-du-15-juin-1999-mesg9921154d)
+- [Décret n°99-497 du 15 juin 1999 (JUSB9910183D)](decret-n99-497-du-15-juin-1999-jusb9910183d)
 - [Décret n°99-95 du 15 février 1999 (MESS9920005D)](decret-n99-95-du-15-fevrier-1999-mess9920005d)
 - [Décret n°99-97 du 15 février 1999 (ECOT9851762D)](decret-n99-97-du-15-fevrier-1999-ecot9851762d)
 - [Décret n°99-98 du 15 février 1999 (ECOM9900064D)](decret-n99-98-du-15-fevrier-1999-ecom9900064d)
