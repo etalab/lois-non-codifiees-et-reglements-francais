@@ -1,0 +1,5 @@
+# Article 2
+
+Les haricots doivent être produits et conditionnés à l'intérieur de l'aire géographique qui comprend les communes suivantes du département des Côtes-d'Armor :
+
+Bégard, Berhet, Bréhat, Brélidy, Camlez, Caouënnec-Lanvézéac, Cavan, Coatascorn, Coatreven, Etables-sur-Mer, Le Faouët, Gommennec'h, Goudelin, Hengoat, Kerbors, Kerfot, Kermaria-Sulard, Kermoroc'h, Landebaëron, Langoat, Lanleff, Lanloup, Lanmerin, Lanmodez, Lannebert, Lannion, Lanvollon, Lézardrieux, Louannec, Mantallot, Minihy-Tréguier, Paimpol, Penvenan, Perros-Guirec, Pléguien, Pléhédel, Pleubian, Pleudaniel, Pleumeur-Bodou, Pleumeur-Gautier, Ploëzal, Ploubazlanec, Ploubezre, Plouëc-du-Trieuc, Plouézec, Plougrescrant, Plouguiel, Plouha, Ploulec'h, Ploumilliau, Plourhan, Plourivo, Pludual, Pluzunet, Pommerit-Jaudy, Pommerit-le-Vicomte, Pontrieux, Pouldouran, Prat, Quemper-Guézennec, Quemperven, La Roche-Derrien, Rospez, Runan, Saint-Clet, Saint-Gilles-les-Bois, Saint-Laurent, Saint-Quay-Perros, Saint-Quay-Portrieux, Squiffiec, Tonquédec, Trébeurden, Trédarzec, Trédrez, Trégastel, Trégonneau, Tréguier, Trélévern, Tréméven, Tréveneuc, Trévérec, Trévou-Tréguignec, Trézény, Troguéry, Yvias.
