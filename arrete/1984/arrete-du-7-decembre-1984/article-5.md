@@ -1,3 +1,3 @@
 # Article 5
 
-La mention [*obligatoire*] prescrite par l'article 12 du décret du 7 décembre 1984 susvisé doit être indiquée soit à proximité immédiate de la dénomination de vente, soit dans la liste des ingrédients.
+L'arrêté du 21 décembre 1982 fixant la cotisation due pour l'alimentation du fonds commun par les établissements ou collectivités gérant la totalité du risque Accidents du travail est abrogé.

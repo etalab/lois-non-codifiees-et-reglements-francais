@@ -32,6 +32,8 @@ b) Les communes qui ont bénéficié, au titre de l'année précédente, d'une a
 
 En 1995, la compensation versée aux communes progresse comme l'indice prévisionnel du prix de la consommation des ménages (hors tabac) figurant dans la projection économique annexée au projet de loi de finances. La différence avec le montant résultant de l'application du quatrième alinéa est affectée au fonds national de péréquation institué à l'article 1648 B bis du code général des impôts.
 
+Pour chacune des années 1996, 1997 et 1998, le taux d'évolution de la dotation instituée au premier alinéa du présent paragraphe est celui qui permet, compte tenu du montant total des autres dotations à structure constante, de respecter la norme d'évolution fixée au I de l'article 32 de la loi de finances pour 1996 (n° 95-1346 du 30 décembre 1995).
+
 Alinéa modificateur
 
 IV bis. - A compter de 1992, la dotation prévue au premier alinéa du IV est majorée afin de compenser, dans les conditions ci-après, la perte de recettes qui résulte, chaque année, pour les collectivités locales et leurs groupements dotés d'une fiscalité propre créés avant le 1er janvier 1987, des dispositions de l'article 1469 A bis et du dernier alinéa du II de l'article 1478 du code général des impôts.

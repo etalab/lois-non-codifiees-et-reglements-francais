@@ -1,0 +1,3 @@
+# Article 21
+
+Le représentant de l'Etat dans le département exige le remboursement de la subvention de l'Etat au titre du dépassement des valeurs foncières de référence, prévue à l'article R. 331-24 du code de la construction et de l'habitation, consécutif à la mise en oeuvre de l'article R. 331-7 du code précité ou de la procédure de remboursement de la subvention au titre de l'acquisition de terrains ou d'immeubles bâtis prévue à l'article R. 331-25 dudit code. Dans ce cas, la subvention au titre du dépassement des valeurs foncières de référence est majorée d'une indemnité égale à 20 p. 100 de son montant.

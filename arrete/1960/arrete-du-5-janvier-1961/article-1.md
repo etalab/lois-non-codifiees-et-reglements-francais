@@ -4,16 +4,16 @@ Les médecins experts des commissions médicales chargées de l'examen des candi
 
 Paris :
 
-Première heure : 51,80 F ;
+Première heure : 52,50 F ;
 
-Chaque heure en sus : 43,10 F.
+Chaque heure en sus : 43,70 F.
 
 Province :
 
-Première heure : 43,10 F ;
+Première heure : 43,70 F ;
 
-Chaque heure en sus : 38,50 F.
+Chaque heure en sus : 39,00 F.
 
 Le montant de la vacation comprend la rédaction du certificat d'aptitude physique.
 
-Le total des indemnités ne peut excéder 137,80 F pour Paris et 120,70 F pour la province pour une vacation continue de trois heures.
+Le total des indemnités ne peut excéder 139,70 F pour Paris et 122,40 F pour la province, pour une vacation continue de trois heures.

@@ -1,0 +1,6 @@
+# Décret n°96-56 du 25 janvier 1996 relatif au régime budgétaire et comptable applicable dans le territoire des îles Wallis-et-Futuna
+
+- [TITRE Ier : DISPOSITIONS APPLICABLES AU TERRITOIRE ET À SES ÉTABLISSEMENTS PUBLICS.](titre-ier)
+- [TITRE II : DISPOSITIONS APPLICABLES AU TERRITOIRE, AUX CIRCONSCRIPTIONS ET À LEURS ÉTABLISSEMENTS PUBLICS.](titre-ii)
+- [TITRE III : DISPOSITIONS APPLICABLES À L'ÉTAT ET À SES ÉTABLISSEMENTS PUBLICS.](titre-iii)
+- [TITRE IV : DISPOSITIONS COMMUNES.](titre-iv)

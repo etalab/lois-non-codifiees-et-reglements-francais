@@ -1,7 +1,9 @@
 # Article 1
 
-Le montant global des cotisations patronales à l'assurance maladie, maternité, invalidité et décès, aux assurances vieillesse et accidents du travail, aux allocations familiales et au fonds national d'aide au logement à verser à la caisse nationale de compensation des cotisations de sécurité sociale des voyageurs, représentants et placiers de commerce à cartes multiples par les employeurs de voyageurs, représentants et placiers de commerce qui travaillent pour le compte de deux ou plusieurs employeurs et affiliés à ladite caisse est calculé pour chaque voyageur, représentant et placier à raison de [*part patronale*] :
+Les cotisations patronales d'assurance maladie, maternité, invalidité et décès, d'assurance vieillesse, d'accidents du travail, d'allocations familiales ainsi que la cotisation au Fonds national d'aide au logement versées à la Caisse nationale de compensation des cotisations de sécurité sociale des voyageurs, représentants et placiers à cartes multiples par les employeurs de voyageurs, représentants et placiers travaillant pour le compte de deux ou plusieurs employeurs sont calculées selon les modalités suivantes :
 
-5,74 % du montant de la rémunération nette allouée à l'intéressé après déduction des frais professionnels et jusqu'à concurrence, par trimestre et par employeur, d'un maximum égal au quart du plafond annuel des rémunérations soumises à cotisations de sécurité sociale [*plafond*] ;
+- aux taux du régime général fixés en application des articles L. 241-1, L. 241-3, L. 241-5 et L. 241-6 du code de la sécurité sociale pour celles qui sont assises sur le salaire brut après déduction des frais professionnels ;
 
-21,20 % du montant de la rémunération nette totale allouée à l'intéressé après déduction des frais professionnels.
+- au taux de 5,74 p. 100 du montant de la rémunération brute après déduction des frais professionnels pour celles qui sont dues, par trimestre et par employeur, dans la limite du plafond trimestriel.
+
+Les cotisations salariales de sécurité sociale sont calculées selon les règles et les taux du régime général fixés en application des articles L. 241-1, L. 241-3, L. 241-5 et L. 241-6 du code de la sécurité sociale.

@@ -1,0 +1,3 @@
+# Article 97
+
+Le ministre chargé du budget et le ministre chargé des transports sont habilités à modifier par arrêté, dans le respect des prescriptions de l'article R. 134-4 du code de l'aviation civile, le montant de la redevance pour services terminaux de la circulation aérienne due au titre des années 1991 à 1995. Sous réserve des décisions de justice passées en force de chose jugée, de nouveaux titres de perception seront substitués à ceux qui ont été émis au titre de ces années sur le fondement des arrêtés des 9 mars et 13 décembre 1990, 5 décembre 1991, 21 décembre 1992, 29 décembre 1993 et 25 août 1994 et les montants dus par chaque redevable prendront en compte les intérêts éventuellement dus par l'Etat et la capitalisation de ces intérêts.
