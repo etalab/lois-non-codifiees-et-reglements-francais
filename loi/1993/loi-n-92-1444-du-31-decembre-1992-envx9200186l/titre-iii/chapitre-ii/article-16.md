@@ -16,43 +16,4 @@ Cette taxe est fondée sur les éléments suivants :
 
 Le calcul de la taxe en fonction des paramètres ci-dessus est établi comme suit :
 
-(1) GROUPE acoustique de l'aéronef
-
-(2) TAUX (6 H - 22 H)
-
-(3) TAUX (22 H - 6 H)
-
-(F) = (t) X (log M) ([*) aéronefs non certifiés acoustiquement
-
-<table>
-<tr>
-<td> :------:----------:---------:</td>
-</tr>
-<tr>
-<td> : (1)  :    (2)   :  (3)    :</td>
-</tr>
-<tr>
-<td> :------:----------:---------:</td>
-</tr>
-<tr>
-<td> : 1 et :          :         :</td>
-</tr>
-<tr>
-<td> : (*])  : 12 X (F) :  6 X (F):</td>
-</tr>
-<tr>
-<td> :  2   :  4 X (F) : 18 X (F):</td>
-</tr>
-<tr>
-<td> :  3   :  3 X (F) :4,5 X (F):</td>
-</tr>
-<tr>
-<td> :  4   :  2 X (F) :2,4 X (F):</td>
-</tr>
-<tr>
-<td> :  4   :   (F)    :1,2 X (F):</td>
-</tr>
-<tr>
-<td> :------:----------:---------:</td>
-</tr>
-</table>
+[*tableau non reproduit voir JORF du 31 décembre 1995*]

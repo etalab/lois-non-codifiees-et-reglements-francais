@@ -1,6 +1,6 @@
 # Article 15
 
-I. - En ce qui concerne les opérations visées au 1° de l'article 1er, l'octroi de mer est perçu et contrôlé comme en matière de droits de douane.
+I. - En ce qui concerne les opérations visées au 1° de l'article 1er et au 1 bis de l'article 5, l'octroi de mer est perçu et contrôlé comme en matière de droits de douane.
 
 Les infractions sont instruites et jugées comme en matière de douane.
 

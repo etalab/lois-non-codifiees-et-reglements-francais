@@ -2,6 +2,8 @@
 
 1. Pour l'application du 1° de l'article 1er, le fait générateur se produit et la taxe devient exigible au moment où les biens sont introduits à l'intérieur des régions de Guadeloupe, de Guyane, de Martinique ou de la Réunion.
 
+1 bis. Pour les produits pétroliers et assimilés énumérés au tableau B du 1 de l'article 265 du code des douanes, le fait générateur se produit et la taxe devient exigible lors de leur mise à la consommation à l'intérieur des régions de Guadeloupe, de Guyane, de Martinique ou de la Réunion.
+
 2. Pour l'application des 2° et 3° de l'article 1er, le fait générateur de la taxe se produit et la taxe devient exigible au moment :
 
 a) De la livraison par les producteurs des produits issus de leurs opérations de fabrication, de transformation ou de rénovation ;

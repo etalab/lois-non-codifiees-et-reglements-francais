@@ -7,5 +7,4 @@
 - [Article 103-2](article-103-2.md)
 - [Article 103-3](article-103-3.md)
 - [Article 103-4](article-103-4.md)
-- [Article 103-5](article-103-5.md)
 - [Article 103-6](article-103-6.md)
