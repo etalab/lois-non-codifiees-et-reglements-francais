@@ -1,7 +1,16 @@
-# TITRE II : LES VACATIONS HORAIRES ET L'ALLOCATION DE VÉTÉRANCE DU SAPEUR-POMPIER VOLONTAIRE.
+# TITRE II : Les vacations horaires, l'allocation de vétérance et la prestation de fidélisation et de reconnaissance des sapeurs-pompiers volontaires
 
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
+- [Article 15-1](article-15-1.md)
+- [Article 15-2](article-15-2.md)
+- [Article 15-3](article-15-3.md)
+- [Article 15-4](article-15-4.md)
+- [Article 15-5](article-15-5.md)
+- [Article 15-6](article-15-6.md)
+- [Article 15-7](article-15-7.md)
+- [Article 15-8](article-15-8.md)
+- [Article 15-9](article-15-9.md)

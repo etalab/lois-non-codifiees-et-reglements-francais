@@ -2,7 +2,7 @@
 
 Les membres de la commission prévue à l'article 41 de la loi du 13 juillet 1972 susvisée et leurs suppléants sont, pour chacun des corps techniques et administratifs, désignés par arrêté du ministre de la défense.
 
-Cette commission présente au ministre de la défense ses propositions d'inscriptions aux tableaux d'avancement aux grades d'officiers supérieurs et sur les recrutements prévus aux 1° et 3° de l'article 14 et à l'article 15-2 du présent décret.
+Cette commission présente au ministre de la défense ses propositions d'inscription aux tableaux d'avancement de grade prévus aux articles 19 et 20 du présent décret.
 
 Elle comprend notamment :
 

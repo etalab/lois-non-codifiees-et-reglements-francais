@@ -245,6 +245,7 @@
 - [Décret n°2004-702 du 13 juillet 2004 (MENX0300152D)](decret-n2004-702-du-13-juillet-2004-menx0300152d)
 - [Décret n°2004-703 du 13 juillet 2004 (MENG0401424D)](decret-n2004-703-du-13-juillet-2004-meng0401424d)
 - [Décret n°2004-706 du 13 juillet 2004 (DEFP0400603D)](decret-n2004-706-du-13-juillet-2004-defp0400603d)
+- [Décret n°2004-812 du 13 août 2004 (DEFP0400593D)](decret-n2004-812-du-13-aout-2004-defp0400593d)
 - [Décret n°75-150 du 13 mars 1975](decret-n75-150-du-13-mars-1975)
 - [Décret n°2004-408 du 13 mai 2004 (INDI0420613D)](decret-n2004-408-du-13-mai-2004-indi0420613d)
 - [Décret n°2004-409 du 13 mai 2004 (INTA0400127D)](decret-n2004-409-du-13-mai-2004-inta0400127d)

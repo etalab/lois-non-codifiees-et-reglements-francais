@@ -1,6 +1,6 @@
 # Article 16
 
-I. - Il est institué, à compter du 1er février 1996 et jusqu'au 31 janvier 2014, une contribution prélevée sur les produits de placement désignés au I de l'article L. 136-7 du code de la sécurité sociale à l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du II ci-après. Cette contribution est assise, recouvrée et contrôlée selon les modalités prévues au II du même article.
+I. - Il est institué, à compter du 1er février 1996, une contribution prélevée sur les produits de placement désignés au I de l'article L. 136-7 du code de la sécurité sociale à l'exception de ceux ayant déjà supporté la contribution au titre des 3° et 4° du II ci-après. Cette contribution est assise, recouvrée et contrôlée selon les modalités prévues au II du même article.
 
 II. - Sont également assujettis à la contribution selon les modalités prévues au I, pour la partie acquise à compter du 1er février 1996 et, le cas échéant, constatée à compter du 1er février 1996 en ce qui concerne les placements visés du 3° au 9° :
 
@@ -29,5 +29,3 @@ La valeur liquidative ou de rachat ne tient pas compte des gains nets et produit
 9° Les gains nets et les produits des placements en valeurs mobilières effectués en vertu d'un engagement d'épargne à long terme respectivement visés aux 5 du III de l'article 150-0 A et 16° de l'article 157 du code général des impôts, lors de l'expiration du contrat.
 
 III. - Les dispositions du II ne sont pas applicables aux revenus visés au 3° s'agissant des seuls contrats en unités de comptes et aux 5° à 9°, lorsque ces revenus entrent dans le champ d'application de l'article 15.
-
-IV. - Les revenus de placement visés au II, acquis ou en ce qui concerne les placements visés du 3° au 9° du II ci-dessus, constatés à la date du 31 janvier 2014 et pour lesquels la contribution n'est pas encore exigible sont soumis à cette date à la contribution.

@@ -2,5 +2,5 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier : LA DISPONIBILITÉ DU SAPEUR-POMPIER VOLONTAIRE.](titre-ier)
-- [TITRE II : LES VACATIONS HORAIRES ET L'ALLOCATION DE VÉTÉRANCE DU SAPEUR-POMPIER VOLONTAIRE.](titre-ii)
+- [TITRE II : Les vacations horaires, l'allocation de vétérance et la prestation de fidélisation et de reconnaissance des sapeurs-pompiers volontaires](titre-ii)
 - [TITRE III : DISPOSITIONS DIVERSES.](titre-iii)

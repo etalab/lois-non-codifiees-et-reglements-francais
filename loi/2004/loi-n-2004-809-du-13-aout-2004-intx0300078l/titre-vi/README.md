@@ -1,0 +1,3 @@
+# TITRE VI : COMPENSATION DES TRANSFERTS DE COMPÉTENCES.
+
+- [Article 118](article-118.md)
