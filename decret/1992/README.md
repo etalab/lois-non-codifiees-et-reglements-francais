@@ -1062,7 +1062,6 @@
 - [Décret n°92-335 du 30 mars 1992 (MERP9200007D)](decret-n92-335-du-30-mars-1992-merp9200007d)
 - [Décret n°92-382 du 30 mars 1992 (PTTS9200009D)](decret-n92-382-du-30-mars-1992-ptts9200009d)
 - [Décret n°92-413 du 30 avril 1992 (JUSB9210123D)](decret-n92-413-du-30-avril-1992-jusb9210123d)
-- [Décret n°92-414 du 30 avril 1992 (JUSB9210124D)](decret-n92-414-du-30-avril-1992-jusb9210124d)
 - [Décret n°92-415 du 30 avril 1992 (JUSB9210122D)](decret-n92-415-du-30-avril-1992-jusb9210122d)
 - [Décret n°92-567 du 30 juin 1992 (PRMX9210206D)](decret-n92-567-du-30-juin-1992-prmx9210206d)
 - [Décret n°92-568 du 30 juin 1992 (INTB9200240D)](decret-n92-568-du-30-juin-1992-intb9200240d)
