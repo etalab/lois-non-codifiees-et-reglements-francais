@@ -1129,7 +1129,6 @@
 - [Décret n°95-1342 du 29 décembre 1995 (AGRS9502476D)](decret-n95-1342-du-29-decembre-1995-agrs9502476d)
 - [Décret n°95-1351 du 29 décembre 1995 (EQUT9501830D)](decret-n95-1351-du-29-decembre-1995-equt9501830d)
 - [Décret n°95-1354 du 29 décembre 1995 (TASE9511327D)](decret-n95-1354-du-29-decembre-1995-tase9511327d)
-- [Décret n°95-1355 du 29 décembre 1995 (TASS9523472D)](decret-n95-1355-du-29-decembre-1995-tass9523472d)
 - [Décret n°95-340 du 29 mars 1995 (DOME9500012D)](decret-n95-340-du-29-mars-1995-dome9500012d)
 - [Décret n°95-341 du 29 mars 1995 (DOME9500011D)](decret-n95-341-du-29-mars-1995-dome9500011d)
 - [Décret n°95-818 du 29 juin 1995 (JUSC9520201D)](decret-n95-818-du-29-juin-1995-jusc9520201d)
