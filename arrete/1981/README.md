@@ -20,7 +20,6 @@
 - [Arrêté du 6 avril 1981](arrete-du-6-avril-1981)
 - [Arrêté du 6 février 1981](arrete-du-6-fevrier-1981)
 - [Arrêté du 6 juillet 1981](arrete-du-6-juillet-1981)
-- [Arrêté du 6 mai 1981](arrete-du-6-mai-1981)
 - [Arrêté du 7 août 1981](arrete-du-7-aout-1981)
 - [Arrêté du 7 avril 1981](arrete-du-7-avril-1981)
 - [Arrêté du 7 septembre 1981](arrete-du-7-septembre-1981)
