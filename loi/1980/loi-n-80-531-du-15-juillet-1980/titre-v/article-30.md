@@ -6,11 +6,11 @@ Les installations et matériels concernés figurent sur une liste établie par d
 
 Ces sociétés doivent satisfaire aux conditions prévues à l'article 5 A et C de l'ordonnance n° 67-837 du 28 septembre 1967 relatif au statut des sociétés immobilières pour le commerce et l'industrie.
 
-II. - Les sociétés agréées pour le financement d'installations ou de matériels visées au paragraphe I sont soumises aux dispositions suivantes *avantages fiscaux*.
+II. - Les sociétés agréées pour le financement d'installations ou de matériels visées au paragraphe I sont soumises aux dispositions suivantes.
 
 a) Elles sont exonérées d'impôt sur les sociétés pour la partie de leur bénéfice net provenant des opérations de crédit-bail et de location mentionnées au I ci-dessus ou des plus-values qu'elles réalisent dans le cadre des opérations de crédit-bail.
 
-b) Les dispositions des articles 158 bis, 159 ter et 223 sexies du code général des impôts relatifs à l'avoir fiscal et au précompte ainsi que celles des articles 145 et 216 relatifs au régime fiscal des sociétés mères ne sont pas applicables aux produits distribués à leurs associés.
+b) Les dispositions des articles 145 et 216 du code général des impôts relatifs au régime fiscal des sociétés mères ne sont pas applicables aux produits distribués à leurs associés (1).
 
 c) Les actes constatant les apports mobiliers qui leur sont faits sont enregistrés au droit fixe mentionné à l'article 830 du code général des impôts.
 

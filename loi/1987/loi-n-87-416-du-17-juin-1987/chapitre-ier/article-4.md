@@ -22,6 +22,6 @@ Les versements effectués sous forme de primes d'assurances ne sont pas soumis a
 
 Lorsque, à la fin d'un trimestre civil, le pourcentage de valeurs et titre émis par des sociétés françaises n'est pas atteint ou lorsque la proportion maximale de liquidités du plan est dépassée, les sommes ainsi employées irrégulièrement donnent lieu à l'application d'une amende de 3 p. 100. Cette amende est établie et recouvrée annuellement, sur la base des données propres de chacun des quatre trimestres civils, d'après les règles, sous les sanctions et avec les garanties prévues en matière d'impôt sur le revenu. Elle n'est pas mise en recouvrement si son montant est inférieur à 80 F.
 
-Les produits et plus-values que procurent les placements effectués, ainsi que les avoirs fiscaux et crédits d'impôt attachés à ces produits et remboursés par l'Etat, s'ajoutent aux versements. Ils ne sont pas soumis à l'impôt sur le revenu.
+Les produits et plus-values que procurent les placements effectués, ainsi que les crédits d'impôt attachés à ces produits et remboursés par l'Etat, s'ajoutent aux versements. Ils ne sont pas soumis à l'impôt sur le revenu. (1)
 
 (paragraphe II modificateur).

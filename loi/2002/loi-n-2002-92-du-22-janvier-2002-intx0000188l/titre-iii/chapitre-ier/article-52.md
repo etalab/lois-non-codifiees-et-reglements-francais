@@ -1,24 +1,24 @@
 # Article 52
 
-I. - Les employeurs de main-d'oeuvre agricole installés en Corse au moment de la promulgation de la présente loi peuvent, lorsqu'ils sont redevables de cotisations patronales dues au régime de base obligatoire de sécurité sociale des salariés agricoles pour des périodes antérieures au 1er janvier 1999, bénéficier d'une aide de l'Etat, dans la limite de 50 % du montant desdites cotisations dues.
+I. - Les employeurs de main-d'oeuvre agricole installés en Corse au moment de la promulgation de la présente loi peuvent, lorsqu'ils sont redevables de cotisations patronales dues au régime de base obligatoire de sécurité sociale des salariés agricoles pour des périodes antérieures au 1er janvier 2003, bénéficier d'une aide de l'Etat, dans la limite de 50 % du montant desdites cotisations dues. Ce dispositif est ouvert aux agriculteurs installés en Corse au 23 janvier 2002.
 
 II. - Le bénéfice de l'aide prévue au I est subordonné pour chaque demandeur aux conditions cumulatives suivantes :
 
 - apporter la preuve, par un audit extérieur, de la viabilité de l'exploitation ;
 
-- être à jour de ses cotisations sociales afférentes aux périodes d'activité postérieures au 31 décembre 1998 ;
+- être à jour de ses cotisations sociales afférentes aux périodes d'activité postérieures au 31 décembre 2002 ;
 
 - s'être acquitté auprès de la caisse de mutualité sociale agricole de Corse :
 
-- soit d'au moins 50 % de la dette relative aux cotisations patronales de sécurité sociale, antérieures au 1er janvier 1999 ;
+- soit d'au moins 50 % de la dette relative aux cotisations patronales de sécurité sociale, antérieures au 1er janvier 2003 ;
 
 - soit, pour ces mêmes cotisations, des échéances correspondant au moins aux huit premières années du plan, dans le cas où la caisse a accordé l'étalement de la dette sur une période qui ne peut excéder quinze ans ;
 
-- être à jour de la part salariale des cotisations de sécurité sociale visées par l'aide, ou s'engager à son paiement intégral par la conclusion d'un échéancier signé pour une durée maximale de deux ans entre l'exploitant et la caisse ;
+- être à jour de la part salariale des cotisations de sécurité sociale visées par l'aide, ou s'engager à son paiement intégral par la conclusion d'un échéancier signé pour une durée maximale de deux ans entre l'exploitant et la caisse    pour les seules parts salariales non visées par les dispositions de l'article L. 725-21 du code rural.
 
 - autoriser l'Etat à se subroger dans le paiement des cotisations sociales auprès de la caisse de mutualité sociale agricole de Corse.
 
-III. - La demande d'aide prévue au I doit être présentée à l'autorité administrative de l'Etat dans un délai d'un an à compter de la publication de la présente loi.
+III. - La demande d'aide prévue au I doit être présentée à l'autorité administrative de l'Etat dans un délai de six mois à compter de la publication de la présente loi.
 
 IV. - Pour l'application des I, II et III, la conclusion d'un échéancier de paiement de la dette avec la caisse de mutualité sociale agricole entraîne la suspension des poursuites.
 

@@ -27,3 +27,5 @@ Le ministre chargé de l'aviation civile est ordonnateur principal de ce compte 
 - les restitutions de sommes indûment perçues ;
 
 - les dépenses diverses ou accidentelles.
+
+- les dotations versées aux collectivités locales d'outre-mer au titre de la continuité territoriale.

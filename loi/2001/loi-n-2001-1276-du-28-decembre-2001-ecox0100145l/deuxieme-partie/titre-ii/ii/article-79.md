@@ -1,15 +1,13 @@
 # Article 79
 
-I. - L'Etat peut percevoir un dividende annuel sur le résultat des établissements publics placés sous sa tutelle dont l'activité présente à titre principal un caractère industriel, commercial ou financier.
+I. - L'Etat peut percevoir un dividende sur le résultat des établissements publics placés sous sa tutelle.
 
-II. - Le dividende est prélevé sur le bénéfice distribuable, constitué du bénéfice de l'exercice, après dotations aux amortissements et provisions, diminué des pertes antérieures ainsi que des sommes à porter en réserves, et augmenté du report bénéficiaire.
+II. Le dividende est prélevé par priorité sur le bénéfice distribuable de l'exercice, au sens de l'article L. 232-11 du code de commerce. Il peut être prélevé sur les réserves disponibles.
 
-Le dividende constitue le mode exclusif de rémunération de l'Etat actionnaire.
+Les dotations en capital reçues par les établissements publics ne donnent pas lieu à rémunération.
 
-Tout établissement public qui verse un dividende à l'Etat ne peut rémunérer les dotations en capital qu'il reçoit.
-
-III. - Après examen de la situation financière de l'établissement public et constatation de l'existence de sommes distribuables, sur le rapport du conseil d'administration, du conseil de surveillance ou de l'organe délibérant en tenant lieu, le ministre chargé de l'économie, le ministre chargé du budget et les ministres chargés d'exercer la tutelle de l'Etat déterminent par arrêté le montant du dividende versé à l'Etat.
+III. - Après examen de la situation financière de l'établissement public et constatation de l'existence de sommes distribuables, sur le rapport du conseil d'administration, du conseil de surveillance ou de l'organe délibérant en tenant lieu, le ministre chargé de l'économie et le ministre chargé du budget déterminent par arrêté le montant du dividende versé à l'Etat.
 
 IV. - Les comptes annuels de l'établissement public qui verse un dividende comportent une annexe financière détaillée relative à la politique de distribution de dividende par l'établissement.
 
-V. - Les modalités d'application du présent article sont déterminées par décret en Conseil d'Etat.
+V. Abrogé.

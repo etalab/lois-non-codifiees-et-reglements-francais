@@ -1,6 +1,6 @@
 # Article 124
 
-I. - L'exploitation, l'entretien, l'amélioration, l'extension des voies navigables et de leurs dépendances et la gestion du domaine de l'Etat nécessaire à l'accomplissement de ses missions sont confiés à l'établissement public créé par l'article 67 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de l'exercice 1912.
+I. L'établissement public créé par l'article 67 de la loi du 27 février 1912 portant fixation du budget général des dépenses et des recettes de l'exercice 1912 assure l'exploitation, l'entretien, l'amélioration, l'extension et la promotion des voies navigables et de leurs dépendances. Pour l'accomplissement de ses missions, il gère et exploite le domaine de l'Etat qui lui est confié ainsi que son domaine privé.
 
 Pour assurer l'ensemble de ses missions, l'établissement public perçoit à son profit des taxes sur les titulaires d'ouvrages de prise d'eau, rejet d'eau ou autres ouvrages hydrauliques destinés à prélever ou à évacuer des volumes d'eau sur le domaine public fluvial qui lui est confié ainsi que les redevances et droits fixes sur les personnes publiques ou privées pour toute autre emprise sur ce domaine et pour tout autre usage d'une partie de celui-ci.
 

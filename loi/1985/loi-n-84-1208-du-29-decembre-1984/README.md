@@ -24,7 +24,6 @@
 - [Article 42](article-42.md)
 - [Article 47](article-47.md)
 - [Article 49](article-49.md)
-- [Article 62](article-62.md)
 - [Article 71](article-71.md)
 - [Article 72](article-72.md)
 - [Article 80](article-80.md)

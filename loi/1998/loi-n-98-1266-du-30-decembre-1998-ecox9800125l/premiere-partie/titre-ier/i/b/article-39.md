@@ -10,12 +10,4 @@ I. 1. 2. 3. 4. Alinéas modificateurs.
 
 13. à 33. Alinéas modificateurs.
 
-II. Il est institué une dotation budgétaire afin de compenser à chaque région la perte de recettes résultant de l'application du I.
-
-La compensation versée à chaque région est égale, à compter de 1999, au montant, affecté d'un pourcentage, des droits relatifs à la taxe additionnelle régionale mentionnée à l'article 1599 sexies du code général des impôts, effectivement encaissés pour le compte de chaque région, entre le 1er janvier 1997 et le 31 décembre 1997.
-
-Le pourcentage mentionné à l'alinéa précédent est défini en fonction du montant des droits relatifs à la taxe additionnelle régionale encaissés en 1997 rapporté au nombre d'habitants résultant du dernier recensement général.
-
-Il est égal à 100 % lorsque le montant des droits par habitant est inférieur ou égal à 59 F et à 95 % lorsque le montant des droits par habitant est supérieur à 59 F.
-
-Le montant de la compensation ainsi définie, revalorisé en fonction de l'évolution de la dotation globale de fonctionnement au titre de 1998, évolue chaque année comme la dotation globale de fonctionnement à partir de 1999.
+II. Abrogé

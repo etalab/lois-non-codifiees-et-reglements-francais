@@ -1,5 +1,15 @@
 # Article 85
 
-Le Gouvernement présentera chaque année, à l'appui des projets de loi de finances, un état récapitulatif de l'effort budgétaire et financier consacré aux départements et aux territoires d'outre-mer. Cet état fera l'objet de deux documents distincts qui seront fournis en temps voulu pour la discussion budgétaire. Ces documents précisent la répartition des crédits respectivement par département et par territoire.
+Le Gouvernement présente deux annexes générales au projet de loi de finances de l'année, l'une pour les départements et régions d'outre-mer, l'autre pour les collectivités d'outre-mer à statut particulier, qui comportent :
 
-Cet état récapitulatif évalue le coût et les résultats des exonérations de cotisations sociales prévues aux articles L. 752-3-1 du code de la sécurité sociale, L. 762-4 du code rural et 3 de la loi n° 2000-1207 du 13 décembre 2000 d'orientation pour l'outre-mer et des exonérations fiscales.
+- un état récapitulatif de l'effort budgétaire et financier consacré à chaque département, région ou autre collectivité d'outre-mer ;
+
+- une évaluation du coût net de chaque exonération de cotisation sociale ou d'impôt destinée à l'outre-mer ;
+
+- un état de la mise en oeuvre du principe de continuité territoriale en matière de transports de personnes ;
+
+- le détail et le coût des compléments de rémunérations, de pensions et d'indemnités temporaires applicables aux fonctionnaires en poste outre-mer ;
+
+- le détail des statuts fiscaux particuliers ;
+
+- tous les deux ans, une appréciation des différences de salaires et de prix à la consommation entre les collectivités territoriales ultramarines et la métropole.

@@ -12,7 +12,9 @@ c) Droits ou bons de souscription ou d'attribution attachés aux actions mention
 
 a) D'actions de sociétés d'investissement à capital variable qui emploient plus de 60 % de leurs actifs en titres et droits mentionnés aux a, b et c du 1°. Ce pourcentage est porté à 75 % à compter du 1er janvier 2003 ;
 
-b) De parts de fonds communs de placement qui emploient plus de 75 % de leurs actifs en titres et droits mentionnés aux a, b et c du 1°;
+b) De parts de fonds communs de placement qui emploient plus de 75 % de leurs actifs en titres et droits mentionnés aux a, b et c du 1° ;
+
+c) De parts ou actions d'organismes de placement collectif en valeurs mobilières établis dans d'autres Etats membres de la Communauté européenne bénéficiant de la procédure de reconnaissance mutuelle des agréments prévue par la directive 85/611/CE du Conseil du 20 décembre 1985 portant coordination des dispositions législatives, réglementaires et administratives concernant certains organismes de placement collectif en valeurs mobilières (OPCVM) et qui emploient plus de 75 % de leurs actifs en titres et droits mentionnés aux a, b et c du 1. (1)
 
 1. ter Les sommes versées sur un plan d'épargne en actions peuvent également être employées dans un contrat de capitalisation en unités de compte régi par le code des assurances et investi dans une ou plusieurs catégories de titres mentionnés ci-dessus, sous réserve des dispositions de l'article L. 131-1 du même code.
 
@@ -24,7 +26,7 @@ Les sommes versées sur un plan d'épargne en actions ne peuvent être employée
 
 2. Les titres ou parts dont la souscription a permis au titulaire du plan de bénéficier des avantages fiscaux résultant des dispositions du dernier alinéa de l'article 62, des 2° quater et 2° quinquies de l'article 83, des articles 163 quinquies A, 163 quinquies B, 163 septdecies, 199 undecies et 199 terdecies du code général des impôts ainsi que des articles 90, 93 et 95 de la loi de finances pour 1992 (n° 91-1322 du 31 décembre 1991) ne peuvent figurer dans le plan.
 
-3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne doivent pas, pendant la durée du plan, détenir ensemble, directement ou indirectement, plus de 25 % des droits dans les bénéfices de sociétés dont les titres figurent au plan ou avoir détenu cette participation à un moment quelconque au cours des cinq années précédant l'acquisition de ces titres dans le cadre du plan.
+3. Le titulaire du plan, son conjoint et leurs ascendants et descendants ne doivent pas, pendant la durée du plan, détenir ensemble, directement ou indirectement, plus de 25 p. 100 des droits dans les bénéfices de sociétés dont les titres figurent au plan ou avoir détenu cette participation à un moment quelconque au cours des cinq années précédant l'acquisition de ces titres dans le cadre du plan.
 
 4. Les contribuables ayant ouvert un plan d'épargne en actions sont réputés avoir définitivement renoncé au bénéfice de la déduction prévue à l'article 163 quindecies du code général des impôts.
 

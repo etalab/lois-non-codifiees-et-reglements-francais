@@ -50,7 +50,7 @@ II. - L'abrogation des dispositions prévues aux 5°, 13°, 15°, 20°, 21°, 22
 
 1° Le quatrième alinéa de l'article 1er, le VII de l'article 6, les articles 31, 53, 54 et 56 de la loi n° 75-534 du 30 juin 1975 d'orientation en faveur des personnes handicapées ;
 
-2° La deuxième phrase du premier alinéa et le deuxième alinéa de l'article 1er, des troisième aux douzième alinéas de l'article 36, les quatre premiers alinéas de l'article 37, l'article 43, la deuxième phrase du troisième alinéa de l'article 42-7-1 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion ;
+2° La deuxième phrase du premier alinéa de l'article 1er, des troisième aux douzième alinéas de l'article 36, les quatre premiers alinéas de l'article 37, l'article 43, la deuxième phrase du troisième alinéa de l'article 42-7-1 de la loi n° 88-1088 du 1er décembre 1988 relative au revenu minimum d'insertion ;
 
 3° L'article 77 de la loi n° 93-121 du 27 janvier 1993 portant diverses mesures d'ordre social ;
 

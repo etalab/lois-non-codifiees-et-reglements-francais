@@ -32,6 +32,8 @@ Les modalités d'attribution des subventions et avances remboursables destinées
 
 Les modalités d'attribution des aides à la distribution sont définies par décret.
 
+Chaque année avant la fin du mois de juin, le comité d'orientation du fonds transmet au Parlement et au ministre chargé de la communication son rapport d'activité au titre de l'exercice précédent.
+
 II. - La seconde section, dénommée : "Fonds de soutien à l'expression radiophonique locale", retrace :
 
 1° En recettes :

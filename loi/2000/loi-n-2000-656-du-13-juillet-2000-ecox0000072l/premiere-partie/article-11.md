@@ -2,11 +2,7 @@
 
 I. - 1. Paragraphe modificateur.
 
-2. a) A compter de 2001, il est institué une dotation budgétaire afin de compenser la perte de recettes résultant du 1.
-
-Cette compensation est égale au produit des rôles généraux de taxe d'habitation ou de taxe spéciale d'équipement additionnelle à la taxe d'habitation émis au profit de chaque région et de la collectivité territoriale de Corse en 2000 revalorisé en fonction du taux d'évolution de la dotation globale de fonctionnement.
-
-A compter de 2002, le montant de cette compensation évolue chaque année, comme la dotation globale de fonctionnement ;
+2. a) Abrogé
 
 b) Paragraphe modificateur.
 

@@ -1,12 +1,12 @@
 # Article 33
 
-Il est ouvert dans les écritures du Trésor un compte d'affectation spéciale, géré par le ministre de l'économie et des finances, intitulé "Compte d'emploi de la redevance de la radiodiffusion télévision française".
+Il est ouvert dans les écritures du Trésor un compte d'affectation spéciale, géré par le ministre de l'économie et des finances, intitulé "Compte d'emploi de la redevance audiovisuelle".
 
 Il retrace :
 
 En recettes :
 
-. le produit de la redevance pour droit d'usage des postes récepteurs de radiodiffusion et de télévision ;
+. le produit de la redevance audiovisuelle ;
 
 . les versements du budget général ;
 

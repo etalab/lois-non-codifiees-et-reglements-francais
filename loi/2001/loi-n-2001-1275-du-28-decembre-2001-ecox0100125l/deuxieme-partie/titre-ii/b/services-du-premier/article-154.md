@@ -36,4 +36,8 @@ VII. La commission dresse un procès-verbal dans lequel elle constate que les d�
 
 Le procès-verbal est remis par le président de la commission au Premier ministre et au ministre chargé du budget qui le transmet à la Cour des comptes.
 
+VII bis. - Les crédits nécessaires au fonctionnement de la commission sont inscrits au budget des services généraux du Premier ministre.
+
+Le président est ordonnateur des dépenses de la commission. Il a autorité sur les agents de la commission. Les dispositions de la loi du 10 août 1922 relative à l'organisation du contrôle des dépenses engagées ne sont pas applicables aux dépenses de la commission.
+
 VIII. Paragraphe modificateur.
