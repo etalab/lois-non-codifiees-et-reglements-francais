@@ -1,3 +1,3 @@
 # Article 4
 
-Le droit d'accès prévu par l'article 34 de la loi du 6 janvier 1978 susvisée s'exerce auprès du secrétariat du bureau central de tarification de l'assurance automobile.
+Le chef du service de l'information et des relations publiques, les directeurs généraux, les directeurs et chefs de service sont chargés, chacun en ce qui concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
