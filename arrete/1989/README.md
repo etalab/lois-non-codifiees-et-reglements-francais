@@ -571,7 +571,6 @@
 - [Arrêté du 30 mai 1990 (MENF9000977A)](arrete-du-30-mai-1990-menf9000977a)
 - [Arrêté du 30 mai 1990 (MENF9000978A)](arrete-du-30-mai-1990-menf9000978a)
 - [Arrêté du 30 mai 1990 (MENF9000980A)](arrete-du-30-mai-1990-menf9000980a)
-- [Arrêté du 31 août 1989 (INTB8900417A)](arrete-du-31-aout-1989-intb8900417a)
 - [Arrêté du 31 août 1989 (PRME8961506A)](arrete-du-31-aout-1989-prme8961506a)
 - [Arrêté du 31 décembre 1988 (BUDB8840083A)](arrete-du-31-decembre-1988-budb8840083a)
 - [Arrêté du 31 janvier 1989 (RESY8900037A)](arrete-du-31-janvier-1989-resy8900037a)
