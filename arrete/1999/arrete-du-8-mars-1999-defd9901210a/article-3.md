@@ -10,8 +10,6 @@ A ce titre, elle est notamment chargée :
 
 -de tenir à jour la collection des textes législatifs et réglementaires intéressant le ministère, d'animer les activités de la commission de publication et de refonte du Bulletin officiel des armées et d'en assurer le secrétariat et, à ce titre, d'imprimer ou de faire imprimer pour l'ensemble du ministère les bulletins officiels des armées et d'en assurer la diffusion ;
 
--d'assurer le secrétariat de la commission spécialisée de terminologie et de néologie du ministère de la défense ;
-
 -d'élaborer la réglementation en matière d'inventions du personnel ;
 
 -d'établir les récépissés de déclaration et les actes d'autorisation des installations classées du ministère de la défense.
