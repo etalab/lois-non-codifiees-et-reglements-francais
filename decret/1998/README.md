@@ -54,6 +54,7 @@
 - [Décret n°98-434 du 3 juin 1998 (ECOC9800007D)](decret-n98-434-du-3-juin-1998-ecoc9800007d)
 - [Décret n°98-435 du 3 juin 1998 (FPPA9810007D)](decret-n98-435-du-3-juin-1998-fppa9810007d)
 - [Décret n°98-438 du 3 juin 1998 (INTX9800067D)](decret-n98-438-du-3-juin-1998-intx9800067d)
+- [Décret n°98-448 du 3 juin 1998 (DEFP9801460D)](decret-n98-448-du-3-juin-1998-defp9801460d)
 - [Décret n°99-709 du 3 août 1999 (INTE9900168D)](decret-n99-709-du-3-aout-1999-inte9900168d)
 - [Décret n°2000-386 du 3 mai 2000 (EQUA0000198D)](decret-n2000-386-du-3-mai-2000-equa0000198d)
 - [Décret du 4 juin 1998 (ECOC9800026D)](decret-du-4-juin-1998-ecoc9800026d)
