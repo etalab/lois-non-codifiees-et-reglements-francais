@@ -64,8 +64,16 @@ Les emplois de rapporteur et de rapporteur général.
 
 INSTITUTIONS ADMINISTRATIVES spécialisées de l'Etat :
 
-Conseil supérieur de l'audiovisuel
+Conseil supérieur de l'audiovisuel ;
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés :
 
 Les emplois du niveau des catégories A, B, C et D du statut    général des fonctionnaires.
+
+INSTITUTIONS ADMINISTRATIVES spécialisées de l'Etat :
+
+Comité national d'évaluation des établissements publics à    caractère scientifique, culturel et professionnel ;
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés :
+
+Les emplois du niveau des catégories A, B et C du statut    général de fonctionnaires.
