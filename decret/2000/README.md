@@ -129,6 +129,8 @@
 - [Décret n°2000-1107 du 14 novembre 2000 (MENF0002155D)](decret-n2000-1107-du-14-novembre-2000-menf0002155d)
 - [Décret n°2000-118 du 14 février 2000 (EQUT0000218D)](decret-n2000-118-du-14-fevrier-2000-equt0000218d)
 - [Décret n°2000-32 du 14 janvier 2000 (MENF9902716D)](decret-n2000-32-du-14-janvier-2000-menf9902716d)
+- [Décret n°2000-337 du 14 avril 2000 (ECOX0000024D)](decret-n2000-337-du-14-avril-2000-ecox0000024d)
+- [Décret n°2000-338 du 14 avril 2000 (ECOR0006048D)](decret-n2000-338-du-14-avril-2000-ecor0006048d)
 - [Décret du 15 mars 2000 (ECOC9900132D)](decret-du-15-mars-2000-ecoc9900132d)
 - [Décret n°2000-245 du 15 mars 2000 (AGRB0000513D)](decret-n2000-245-du-15-mars-2000-agrb0000513d)
 - [Décret n°2000-247 du 15 mars 2000 (ECOP0000062D)](decret-n2000-247-du-15-mars-2000-ecop0000062d)
