@@ -153,7 +153,6 @@
 - [Décret n°2001-417 du 11 mai 2001 (DEFD0101130D)](decret-n2001-417-du-11-mai-2001-defd0101130d)
 - [Décret n°2001-426 du 11 mai 2001 (AGRM0100486D)](decret-n2001-426-du-11-mai-2001-agrm0100486d)
 - [Décret du 12 février 2001 (EQUT0001498D)](decret-du-12-fevrier-2001-equt0001498d)
-- [Décret n°2001-1047 du 12 novembre 2001 (ECOP0100443D)](decret-n2001-1047-du-12-novembre-2001-ecop0100443d)
 - [Décret n°2001-1048 du 12 novembre 2001 (ECOP0100293D)](decret-n2001-1048-du-12-novembre-2001-ecop0100293d)
 - [Décret n°2001-1177 du 12 décembre 2001 (ECOT0151003D)](decret-n2001-1177-du-12-decembre-2001-ecot0151003d)
 - [Décret n°2001-1178 du 12 décembre 2001 (ECOP0100799D)](decret-n2001-1178-du-12-decembre-2001-ecop0100799d)

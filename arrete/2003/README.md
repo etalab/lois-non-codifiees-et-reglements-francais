@@ -542,7 +542,6 @@
 - [Arrêté du 23 avril 2003 (AGRA0300822A)](arrete-du-23-avril-2003-agra0300822a)
 - [Arrêté du 23 avril 2003 (AGRG0300861A)](arrete-du-23-avril-2003-agrg0300861a)
 - [Arrêté du 23 avril 2003 (AGRG0300862A)](arrete-du-23-avril-2003-agrg0300862a)
-- [Arrêté du 23 avril 2003 (DEFA0301487A)](arrete-du-23-avril-2003-defa0301487a)
 - [Arrêté du 23 avril 2003 (INTE0300241A)](arrete-du-23-avril-2003-inte0300241a)
 - [Arrêté du 23 décembre 2002 (BUDD0270047A)](arrete-du-23-decembre-2002-budd0270047a)
 - [Arrêté du 23 décembre 2002 (EQUS0201961A)](arrete-du-23-decembre-2002-equs0201961a)
