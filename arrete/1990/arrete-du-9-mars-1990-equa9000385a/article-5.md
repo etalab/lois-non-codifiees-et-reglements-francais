@@ -1,6 +1,6 @@
 # Article 5
 
-Taux unitaire applicable à tous les vols au départ des aérodromes métropolitains, y compris la Corse, dont la liste figure en annexe : 29,55 F par unité de service ;
+Taux unitaire applicable à tous les vols au départ des aérodromes métropolitains, y compris la Corse, dont la liste figure en annexe : 27,58 F par unité de service ;
 
 Taux unitaire applicable aux vols au départ des aérodromes d'outre-mer :
 
