@@ -1,7 +1,9 @@
 # Article 55
 
-En vue de permettre l'exercice du droit de préemption prévu aux paragraphes 2° et 3° de l'article 52, tout officier public ou ministériel, courtier, mandataire ou toute autre personne procédant à la vente est tenu d'en aviser le préfet vingt jours à l'avance.
+Par dérogation aux dispositions de l'article 53, le ministre chargé de l'économie [*compétence*] peut infliger dans les conditions précisées ci-après une sanction pécuniaire à une ou plusieurs entreprises ou personnes morales pour des faits qui ont été consignés ou constatés selon les modalités fixées au deuxième alinéa de l'article 52 et dont il estime qu'ils constituent une infraction aux prescriptions de l'article 50, sans être justifiés par les dispositions de l'article 51.
 
-La déclaration prévue à l'alinéa 2 de l'article 58 tient lieu, le cas échéant, de l'avis ci-dessus prescrit.
+Après avoir communiqué ses griefs aux entreprises ou personnes morales en cause et recueilli leurs observations sur des griefs, le ministre consulte le président de la commission de la concurrence. Le dossier qu'il lui transmet comprend la communication des griefs, les observations des intéressés et un projet de décision indiquant les motifs et le montant des sanctions envisagées.
 
-En cas d'urgence, notamment lorsque la vente porte sur des denrées périssables, le préfet peut autoriser la vente avant l'expiration de ce délai.
+Si le président estime inutile de saisir la commission, le ministre peut, par décision motivée, infliger une sanction pécuniaire n'excédant pas 100.000 F [*francs*] à chaque entreprise ou personne morale auteur d'une infraction. Toutefois, si l'une des parties en cause demande le bénéfice de la procédure de l'article 53, celle-ci est de droit.
+
+Si le président estime que la commission doit être saisie, il est fait application des dispositions des articles 52, 53 et 54.

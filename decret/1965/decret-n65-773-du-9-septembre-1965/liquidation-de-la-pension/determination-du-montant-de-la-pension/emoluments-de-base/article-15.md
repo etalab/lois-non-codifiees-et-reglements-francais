@@ -8,15 +8,13 @@ Toutefois, sous réserve que l'agent ait continué sa carrière dans la même co
 
 1° Directeur général et secrétaire général de l'assistance publique de Paris, directeur de la caisse de crédit municipal de Paris et directeur du bureau d'aide sociale de Paris ;
 
-2° Emplois supérieurs visés à l'article 5 (alinéa 2), du décret n° 60-727 du 25 juillet 1960 portant règlement d'administration publique relatif au statut des personnels de la ville de Paris et du département de la Seine ;
+2° Secrétaire général, secrétaire général adjoint, directeur général, directeur, sous-directeur et ingénieur général de la commune de Paris ;
 
-3° Directeurs adjoints et sous-directeurs de la ville de Paris et du département de la Seine ;
-
-4° Emplois supérieurs visés à l'article 3 (2e alinéa) de l'arrêté du préfet de police n° 53-1270 du 21 mars 1953 portant statut spécial des fonctionnaires des services actifs de police de la préfecture de police, approuvé par le décret n° 54-629 du 11 juin 1954 portant règlement d'administration publique.
+3° Directeur, sous-directeur et ingénieur général du département de Paris.
 
 Pour bénéficier des dispositions qui précèdent, l'agent doit en faire la demande, sous peine de forclusion, dans le délai d'un an à compter de la date de cessation des fonctions mentionnées ci-dessus [*formalités*].
 
-La demande entraîne pour lui l'obligation de supporter
+La demande entraîne pour lui l'obligation de supporter les retenues pour pension, à compter de la cessation desdites fonctions, sur la base des derniers émoluments soumis à retenue afférents aux grade, classe, échelon, chevron qu'il détenait depuis six mois au moins à cette dernière date ou, dans le cas contraire, sur les derniers émoluments soumis à retenue afférents aux grade, classe, échelon, chevron antérieurs. La collectivité
 
 II - (abrogé).
 

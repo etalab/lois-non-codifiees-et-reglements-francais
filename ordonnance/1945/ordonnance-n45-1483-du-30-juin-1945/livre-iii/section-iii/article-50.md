@@ -1,15 +1,19 @@
 # Article 50
 
-Lorsqu'il y a lieu à vente aux enchères ou à cri public de marchandises, denrées ou objets quelconques neufs ou d'occasion, cette vente ne peut, en aucun cas, donner lieu à un prix d'adjudication [*limite*] qui, sans tenir compte des frais serait supérieur [*prix maximum*] :
+Les actions concertées, conventions, ententes expresses ou tacites, ou coalitions sous quelque forme et pour quelque cause que ce soit, ayant pour objet ou pouvant avoir pour effet d'empêcher, de restreindre ou de fausser le jeu de la concurrence, notamment :
 
-1° S'il s'agit de la vente d'une marchandise, denrée ou objet quelconque neufs, au prix résultant des décisions de fixation prises par les autorités compétentes, et à défaut de telles décisions :
+En faisant obstacle à l'abaissement des prix de revient, de vente ou de revente ;
 
-Soit par l'application de barèmes de caractère officiel ;
+En favorisant la hausse ou la baisse artificielle des prix ;
 
-Soit d'une homologation prononcée par l'organisme agréé compétent ;
+En entravant le progrès technique ;
 
-Soit d'une expertise, dispensée des formes ordinaires, confiée à un expert agréé par les tribunaux ou désigné par l'organisme agréé compétent, lequel expert devra tenir compte des prix pratiqués dans le commerce des marchandises, denrées ou objets identiques ou similaires et, s'il n'existe pas de prix actuels, des prix les plus rapprochés en date ;
+En limitant l'exercice de la libre concurrence par d'autres entreprises, sont prohibées sous réserve des dispositions de l'article suivant.
 
-2° S'il s'agit de la vente d'une marchandise, denrée ou objet quelconque d'occasion, au prix résultant des décisions de fixation prises par les autorités compétentes et spéciales à cette marchandise, denrée ou objet considérés à l'état d'occasion et, à défaut de telles décisions, à 90 p. 100 (quatre vingt-dix pour cent) [*pourcentage*] du prix de la marchandise, denrée ou objets neufs tel qu'il résulte de l'application de l'alinéa précédent.
+Ces prohibitions s'appliquent à tous les biens, produits ou services nonobstant toutes dispositions contraires.
 
-Pour l'application des dispositions figurant à la présente décision, sont considérés comme marchandises, denrées ou objets d'occasion [*définition*] toutes marchandises, denrées ou objets, quelles qu'en soient la nature, l'origine et la destination, qui, à un stade quelconque de la production ou de la distribution, sont entrés en la possession d'un consommateur par un acte de négoce ou par tout autre acte à titre onéreux ou à titre gratuit.
+Tout engagement ou convention se rapportant à une pratique ainsi prohibée est nul de plein droit.
+
+Cette nullité peut être invoquée par les articles et par les tiers ; elle ne peut être opposée aux tiers par les parties ; elle est éventuellement constatée par les tribunaux de droit commun à qui l'avis de la commission de la concurrence, s'il en est intervenu un, doit être communiqué.
+
+Sont prohibées dans les mêmes conditions les activités d'une entreprise ou d'un groupe d'entreprises occupant sur le marché intérieur ou une partie substantielle de celui-ci une position dominante caractérisée par une situation de monopole ou par une concentration manifeste de la puissance économique, lorsque ces activités ont pour objet ou peuvent avoir pour effet d'entraver le fonctionnement normal du marché.

@@ -53,4 +53,5 @@
 - [Arrêté du 29 novembre 1976](arrete-du-29-novembre-1976)
 - [Arrêté du 30 décembre 1976](arrete-du-30-decembre-1976)
 - [Arrêté du 30 juillet 1976](arrete-du-30-juillet-1976)
+- [Arrêté du 30 juin 1977](arrete-du-30-juin-1977)
 - [Arrêté du 31 décembre 1976](arrete-du-31-decembre-1976)
