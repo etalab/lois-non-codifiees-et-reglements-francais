@@ -10,6 +10,6 @@ c) Assurer, par des moyens modernes, la diffusion des publications auprès des n
 
 Des projets peuvent être présentés conjointement par plusieurs publications ou agences de presse.
 
-Les projets dont l'exécution a débuté avant la date de publication du présent décret ne peuvent faire l'objet d'une aide au titre du fonds.
+L'exécution des projets ne doit pas débuter avant que le ministre chargé de la communication ait statué sur la demande d'aide les concernant.
 
 Les dépenses correspondant à la gestion normale de l'entreprise, et notamment les investissements de simple renouvellement des équipements, ne sont pas éligibles au bénéfice du fonds.
