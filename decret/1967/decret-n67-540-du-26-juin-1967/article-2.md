@@ -1,6 +1,6 @@
 # Article 2
 
-La durée de l'enseignement est de deux ans.
+La durée de l'enseignement est de trois ans.
 
 Un arrêté du ministre des affaires sociales fixera notamment :
 
