@@ -2,20 +2,20 @@
 
 Les traitements informatisés :
 
-- F.G.I. (fichier général d'identification) ;
+" FIP (fichier des contribuables à l'impôt sur le revenu, à la taxe d'habitation et à l'impôt de solidarité sur la fortune) ;
 
-- F.I.P. (fichier des contribuables à l'impôt sur le revenu, à la taxe d'habitation et à l'impôt sur les grandes fortunes) ;
+" Medoc (mécanisation des opérations comptables, gestion des taxes sur le chiffre d'affaires) ;
 
-- Médoc (mécanisation des opérations comptables, gestion des taxes sur le chiffre d'affaires) ;
+" Singapour (fichier des propriétaires) ;
 
-- Singapour (fichier des propriétaires) ;
+" Majic 2 (mise à jour des informations cadastrales, gestion des rôles fonciers) ;
 
-- Majic 2 (mise à jour des informations cadastrales, gestion des rôles fonciers),
+" I.S.F. (impôt de solidarité sur la fortune),
 
-fournissent au système S.P.I. les informations nominatives nécessaires à sa constitution et à sa mise à jour.
+" fournissent au système SPI les informations nominatives nécessaires à sa constitution et à sa mise à jour.
 
-S.P.I. délivre à chacun de ces traitements les numéros fiscaux qu'il a attribués aux personnes figurant sur leurs fichiers.
+" SPI délivre à chacun d'eux les numéros fiscaux qu'il a attribués aux personnes figurant sur leurs fichiers.
 
-Les traitements énumérés ci-dessus ainsi que le traitement T.D.S. (transfert de données sociales) peuvent consulter le système S.P.I..
+" Les traitements ci-avant énumérés ainsi que le traitement TDS (transfert de données sociales) peuvent consulter le système SPI.
 
-S.P.I. peut être également interrogé par les services de la direction générale des impôts et de la direction de la comptabilité publique, habilités à avoir accès aux informations correspondantes.    Le traitement S.I.R. (simplification de la gestion des information de recoupement) peut consulter le système S.P.I.
+" SPI peut être également interrogé par les services de la direction générale des impôts et de la direction de la comptabilité publique, habilités à avoir accès aux informations correspondantes.
