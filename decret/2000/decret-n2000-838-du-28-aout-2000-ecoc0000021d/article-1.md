@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions des points 1 et 2 de l'article 1er, des points 1 et 2 de l'article 2, des points 1 à 3 et du premier alinéa du point 4 de l'article 3, des points 1 et 2 de l'article 4, de l'article 5, à l'exclusion des deux dernières phrases de son premier alinéa, du point 1 et du dernier alinéa du point 4 de l'article 6, du point 2 de l'article 7, des points 1 et 2 de l'article 8 et du premier alinéa du point 1 de l'article 9 du règlement du 27 janvier 1997 susvisé constituent les mesures d'exécution prévues à l'article L. 214-1 du code de la consommation. Il en est de même des dispositions des règlements communautaires, ayant le même objet, qui les modifieraient ou seraient prises pour leur application.

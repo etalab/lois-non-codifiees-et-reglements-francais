@@ -1,7 +1,3 @@
 # Article 4
 
-Les arrêtés préfectoraux d'autorisation ou des arrêtés complémentaires fixent, si nécessaire, les modalités détaillées d'application du présent arrêté.
-
-Ils peuvent, si nécessaire, instaurer une autosurveillance simplifiée pour les établissements rejetant moins de 10 kg de cadmium par an.
-
-" Les conditions techniques de rejet sont réexaminées au moins tous les quatre ans [*périodicité*]. "
+L'assuré peut renoncer au recouvrement des cotisations par prélèvement mensuel. Lorsque le point de départ de l'option est fixé au 1er janvier, la dénonciation doit avoir lieu au plus tard le 31 décembre pour prendre effet au 1er janvier suivant ; lorsque le point de départ de l'option est fixé au 1er juillet, la dénonciation doit avoir lieu au plus tard le 31 mai pour prendre effet le 1er juillet suivant.
