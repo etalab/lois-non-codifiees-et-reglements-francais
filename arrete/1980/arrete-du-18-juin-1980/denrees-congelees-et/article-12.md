@@ -1,6 +1,6 @@
 # Article 12
 
-Les températures des denrées congelées ou surgelées doivent être en tous points du produit constamment inférieures ou égales à celles indiquées ci-dessous :
+Les températures des denrées congelées et surgelées doivent être en tous points du produit constamment inférieures ou égales à celles indiquées ci-dessous :
 
 Glaces et crèmes glacées : - 20° C.
 
@@ -18,4 +18,4 @@ Ovoproduits, abats, issues, lapins, volailles et gibiers :
 
 - 12° C.
 
-Viandes : - 10° C.
+Viandes : - 12° C.
