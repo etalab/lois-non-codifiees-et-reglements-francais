@@ -13,3 +13,5 @@ Un employeur qui sollicite l'autorisation prévue à l'article 5 (alinéa 3) du 
 - la qualification et l'effectif du personnel qui serait chargé d'effectuer ces contrôles ;
 
 - les résultats des analyses des prélèvements effectués avec le matériel dudit laboratoire sur un banc de génération d'atmosphère à l'Institut national de recherche et de sécurité (INRS).
+
+L'autorisation visée au présent article est révocable. Les essais effectués à l'institut national de recherche et de sécurité doivent être renouvelés tous les trois ans [*périodicité*].

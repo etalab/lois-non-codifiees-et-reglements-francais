@@ -1,4 +1,4 @@
-# Arrêté du 5 décembre 1986 relatif à l'émission d'obligations assimilées aux obligations de la première tranche de l'emprunt d'Etat Décembre 1985, de la série Décembre 1986
+# Arrêté du 5 décembre 1986 accordant la garantie de l'Etat à deux emprunts du Crédit d'équipement des petites et moyennes entreprises
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
