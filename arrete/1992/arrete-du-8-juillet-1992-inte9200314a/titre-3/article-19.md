@@ -1,3 +1,3 @@
 # Article 19
 
-Les habilitations et agréments pour les formations aux premiers secours valent pour la formation des moniteurs.
+Les habilitations des organismes et les agréments des associations ou délégations départementales délivrées par le préfet pour les formations aux premiers secours précisent les formations autorisées.

@@ -12,7 +12,7 @@ d) Une lettre du président de l'association nationale certifiant l'affiliation 
 
 e) Une liste des personnes participant à la formation avec indication de leurs titres ainsi que, pour les moniteurs des premiers secours, le numéro et la date du brevet national de moniteur des premiers secours et la photocopie de la carte officielle en cours de validité.
 
-Les médecins et moniteurs ne peuvent appartenir à une équipe pédagogique que d'une seule association ;
+Le responsable et les membres de l'équipe pédagogique d'un organisme habilité ou d'une association agréée, mentionnés dans la déclaration au préfet, ne peuvent représenter que l'organisme ou l'association qui les mandate.
 
 f) La nature des formations assurées ;
 

@@ -8,7 +8,7 @@ b) Les lieux de formation ;
 
 c) La liste des personnes chargées de la formation, avec indication de leurs titres ainsi que, pour les moniteurs des premiers secours, le numéro et la date du brevet national de moniteur des premiers secours et la photocopie de la carte officielle en cours de validité.
 
-Les médecins et moniteurs ne peuvent appartenir à l'équipe pédagogique que d'un seul organisme ;
+Le responsable et les membres de l'équipe pédagogique d'un organisme habilité ou d'une association agréée, mentionnés dans la déclaration au préfet, ne peuvent représenter que l'organisme ou l'association qui les mandate.
 
 d) La nature des formations assurées ;
 
