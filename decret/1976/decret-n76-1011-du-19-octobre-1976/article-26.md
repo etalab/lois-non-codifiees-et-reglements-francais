@@ -1,3 +1,3 @@
 # Article 26
 
-En cas de dissolution d'une caisse régionale ou d'une union l'affectation du reliquat de l'actif est décidée par le ministre chargé de la marine marchande après avis de la commission supérieure du crédit maritime mutuel.
+En cas de dissolution d'un établissement de crédit maritime mutuel, l'affectation du reliquat de l'actif à un organisme d'intérêt maritime est décidé par le ministre chargé des pêches maritimes après avis [*consultatif*] de la commission supérieure du crédit maritime mutuel.
