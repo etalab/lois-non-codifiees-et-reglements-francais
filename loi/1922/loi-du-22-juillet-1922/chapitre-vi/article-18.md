@@ -1,12 +1,16 @@
 # Article 18
 
-Les pensions de retraite sont réversibles pour moitié au profit des veuves, sauf en cas de divorce et de séparation de corps prononcée aux torts exclusifs de la femme.
+La pension de retraite est réversible pour moitié au profit de la veuve, sauf en cas de divorce et de séparation de corps prononcé aux torts exclusifs de la femme à la condition :
 
-La réversibilité n'aura lieu que si le mariage est de trois ans au moins antérieur à l'époque à laquelle le mari aura cessé ses fonctions. Aucune condition de durée de mariage ne sera exigée pour la réversibilité s'il existe un enfant né des conjoints au moment où le mari cesse ses fonctions.
+a) Si le mari a obtenu ou pouvait obtenir soit une pension d'ancienneté, soit une pension proportionnelle, accordée dans les cas prévus aux articles 12, 13 et 14 ci-dessus, que le mariage ait été contracté deux ans au moins avant la cessation de l'activité du mari, sauf si un ou plusieurs enfants sont issus du mariage antérieurement à ladite cessation ;
 
-Lorsque la cessation des fonctions du mari sera la conséquence d'un accident survenu dans le service, il suffira que le mariage soit antérieur à l'accident.
+b) Si le mari a obtenu ou pouvait obtenir soit une pension de réforme accordée dans les cas prévus aux articles 15 et 16 ci-dessus, que le mariage soit antérieur à l'événement qui a amené la mise à la retraite par réforme ou la mort du mari.
 
-Chaque orphelin a droit, en outre, jusqu'à l'âge de 21 ans, à une pension temporaire égale à 10 p. 100 de la retraite d'ancienneté, proportionnelle ou d'invalidité, sans toutefois que le cumul de la pension de la mère et de celle des orphelins puisse excéder le montant de la pension attribuée ou qui aurait été attribuée au père. S'il y a excédent, il est procédé à la réduction temporaire des pensions d'orphelins.
+Nonobstant la condition d'antériorité prévue ci-dessus en a et b si le mariage antérieur ou postérieur à la cessation de l'activité a duré au moins six années, le droit à pension de veuve est acquis si le mari a obtenu ou pouvait obtenir au moment de son décès une pension d'ancienneté.
+
+L'entrée en jouissance de la pension est éventuellement différée jusqu'à la date à laquelle la veuve atteindra son cinquante-cinquième anniversaire.
+
+Au cas d'existence, au moment du décès du mari, d'un ou plusieurs enfants issus du mariage, le droit à pension de veuve est acquis si le mariage a été contracté trois ans au moins avant ledit décès, et la jouissance de pension est immédiate.    Chaque orphelin a droit, en outre, jusqu'à l'âge de 21 ans, à une pension temporaire égale à 10 p. 100 de la retraite d'ancienneté, proportionnelle ou d'invalidité, sans toutefois que le cumul de la pension de la mère et de celle des orphelins puisse excéder le montant de la pension attribuée ou qui aurait été attribuée au père. S'il y a excédent, il est procédé à la réduction temporaire des pensions d'orphelins.
 
 Au cas de décès de la mère ou si celle-ci est inhabile à obtenir pension ou déchue de ses droits, les droits qui lui appartiendraient passent aux orphelins âgés de moins de 21 ans et la pension temporaire de 10 p. 100 est maintenue à partir du deuxième à chaque enfant mineur, dans la limite du maximum fixé à l'alinéa précédent.
 
