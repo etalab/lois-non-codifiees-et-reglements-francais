@@ -7,3 +7,7 @@ Le Conseil supérieur de l'audiovisuel peut retirer aux sociétés nationales de
 Il peut également leur retirer celles des fréquences qui ne sont plus nécessaires à l'accomplissement des missions définies par leurs cahiers des charges.
 
 Le conseil attribue en priorité à la société mentionnée à l'article 51 l'usage des fréquences supplémentaires qui apparaîtront nécessaires à l'accomplissement par les sociétés nationales de programme de leurs missions de service public.
+
+Dans les mêmes conditions, le Conseil supérieur de l'audiovisuel attribue en priorité à la société mentionnée à l'article 51 l'usage des fréquences nécessaires à la chaîne culturelle européenne issue du traité signé le 2 octobre 1990 pour l'accomplissement des missions qui lui sont assignées par ce traité.
+
+Le Gouvernement présente au Parlement un rapport triennal sur l'exécution de ses missions par la chaîne culturelle européenne.

@@ -1,6 +1,6 @@
 # Article 34-1
 
-Les services de radiodiffusion sonore et de télévision qui ne consistent pas en la reprise intégrale et simultanée soit d'un service fourni par une société nationale mentionnée à l'article 44, soit d'un service bénéficiaire d'une autorisation en application des articles 29, 30, 31 et 65, soit d'un service soumis au régime de la concession de service public ne peuvent être distribués sur les réseaux câblés établis en application du présent chapitre qu'après qu'a été conclue avec le Conseil supérieur de l'audiovisuel une convention définissant les obligations particulières à ces services.
+Les services de radiodiffusion sonore et de télévision qui ne consistent pas en la reprise intégrale et simultanée soit d'un service fourni par une société nationale mentionnée à l'article 44 ou par la chaîne culturelle européenne issue du traité signé le 2 octobre 1990, soit d'un service bénéficiaire d'une autorisation en application des articles 29, 30, 31 et 65, soit d'un service soumis au régime de la concession de service public ne peuvent être distribués sur les réseaux câblés établis en application du présent chapitre qu'après qu'a été conclue avec le Conseil supérieur de l'audiovisuel une convention définissant les obligations particulières à ces services.
 
 La condition de simultanéité prévue à l'alinéa précédent n'est pas exigée lorsque le programme est mis à la disposition directe du public dans les départements d'outre-mer et dans la collectivité territoriale de Saint-Pierre-et-Miquelon.
 
