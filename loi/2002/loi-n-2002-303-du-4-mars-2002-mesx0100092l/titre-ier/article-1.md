@@ -12,4 +12,4 @@ II. - Toute personne handicapée a droit, quelle que soit la cause de sa défici
 
 III. - Le Conseil national consultatif des personnes handicapées est chargé, dans des conditions fixées par décret, d'évaluer la situation matérielle, financière et morale des personnes handicapées en France et des personnes handicapées de nationalité française établies hors de France prises en charge au titre de la solidarité nationale, et de présenter toutes les propositions jugées nécessaires au Parlement et au Gouvernement, visant à assurer, par une programmation pluriannuelle continue, la prise en charge de ces personnes.
 
-IV. - Le présent article est applicable en Polynésie française, en Nouvelle-Calédonie, dans les îles Wallis et Futuna ainsi qu'à Mayotte et Saint-Pierre-et-Miquelon.
+IV. - Le présent article est applicable en Polynésie française, en Nouvelle-Calédonie, dans les îles Wallis et Futuna ainsi qu'à Mayotte et dans les Terres australes et antarctiques françaises.

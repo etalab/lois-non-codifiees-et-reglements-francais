@@ -1,6 +1,6 @@
 # Article 4
 
-Dans chacun des départements de la Guadeloupe et de la Martinique, il est créé, pour une durée de dix ans, un établissement public d'Etat dénommé " Agence pour la mise en valeur des espaces urbains de la zone dite des cinquante pas géométriques ".
+Dans chacun des départements de la Guadeloupe et de la Martinique, il est créé, pour une durée de quinze ans, un établissement public d'Etat dénommé "Agence pour la mise en valeur des espaces urbains de la zone dite des cinquante pas géométriques".
 
 Ces agences constituent un instrument de coopération entre l'Etat et les communes. Leurs relations avec ces collectivités territoriales peuvent faire l'objet de conventions spécifiques.
 
