@@ -1,0 +1,3 @@
+# Article 2
+
+Les plantations éligibles aux aides de l'Etat attribuées pour les travaux d'élagage visés à l'article R. 532-8 (2°) du code forestier devront avoir été réalisées dans les conditions permettant l'octroi d'une aide à la reconstitution, à l'amélioration ou à l'extension forestière visée à l'article R. 532-1 (1°) du code forestier et avoir été régulièrement entretenues conformément aux documents d'aménagement existants (plan simple de gestion, document d'aménagement des forêts des collectivités soumises au régime forestier) ou au projet d'entretien arrêté lors de l'attribution d'une aide de l'Etat à la reconstitution, à l'amélioration ou à l'extension forestière.
