@@ -9,6 +9,7 @@
 - [Loi n° 85-17 du 4 janvier 1985](loi-n-85-17-du-4-janvier-1985)
 - [Loi n° 85-30 du 9 janvier 1985](loi-n-85-30-du-9-janvier-1985)
 - [Loi n° 85-528 du 15 mai 1985](loi-n-85-528-du-15-mai-1985)
+- [Loi n° 85-541 du 22 mai 1985](loi-n-85-541-du-22-mai-1985)
 - [Loi n° 85-8 du 2 janvier 1985](loi-n-85-8-du-2-janvier-1985)
 - [Loi n° 85-97 du 25 janvier 1985](loi-n-85-97-du-25-janvier-1985)
 - [Loi n° 85-98 du 25 janvier 1985](loi-n-85-98-du-25-janvier-1985)

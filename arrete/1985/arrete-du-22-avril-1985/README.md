@@ -1,4 +1,4 @@
-# Arrêté du 22 avril 1985 fixant les modalités d'élection du conseil d'administration de l'Union centrale des caisses de crédit municipal
+# Arrêté du 22 avril 1985 fixant le modèle de relevé des prestations en espèces imposables versées à un assuré
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,9 +1,27 @@
 # Article 5 STATUT ANNEXE
 
-La fédération peut faire assurer par ses gardes une surveillance complémentaire des territoires de chasse appartenant à des personnes physiques et morales dans les conditions suivantes :
+La comptabilité de la fédération, tenue suivant un plan comptable défini par l'office national de la classe, fait apparaître :
 
-1. La demande peut être souscrite par les adhérents à la fédération et ne peut leur être refusée s'ils sont titulaires d'un droit de chasse ;
+I - Les ressources comprenant :
 
-2. Les taux de la redevance spéciale demandée à cet effet sont calculés à partir d'une base territoriale dans les limites fixées par le collège des présidents des fédérations départementales des chasseurs ; toutefois cette redevance ne peut être inférieure à 200 F par territoire d'un seul tenant  ;
+1. Le produit des cotisations prévues au deuxième alinéa de l'article 1er ;
 
-3. Un contrat précise notamment les modalités et la durée de l'engagement qui ne peut être inférieure à un an renouvelable par tacite reconduction.
+2. Le produit des contributions versées directement par les membres qui désirent passer avec la fédération départementale des chasseurs un contrat de service pour leur territoire;
+
+3. Le montant des sommes versées par l'office national de la chasse permettant le paiement du personnel concourant à la surveillance et à la police de la chasse désigné par décision ministérielle ;
+
+4. Le produit des quotes-parts des cotisations et les contribution affectées à l'indemnisation administrative des dégâts de gibier suivant les textes réglementaires en vigueur;
+
+5. Le montant des dons, legs, subventions, rétributions qu'elle pourrait recevoir ;
+
+6. Le montant des indemnités et dommages-intérêts qui peuvent lui être accordés.
+
+II. - Les dépenses faisant ressortir :
+
+1° Celles afférentes à l' emploi des personnels visés à l'article 4 (2°)    2° Celles afférentes aux missions prévues à l'article 3, notamment par l'emploi d'agents assermentés chargés de l'exécution des contrats de service visés à l'article 6;
+
+3° Le montant de la contribution prévue par les textes réglementaires en vigueur en cas de déficit du compte départemental d'indemnisation administrative des dégâts de gibier;
+
+4° Les cotisations et subventions;
+
+5° Les frais généraux.

@@ -1,19 +1,19 @@
 # Article 11 STATUT ANNEXE
 
-L'assemblée générale de la fédération se réunit par convocation du conseil d'administration au moins une fois par an au cours du premier semestre.
+Le président est le représentant légal de la fédération en toute circonstance, notamment en justice et dans ses rapports avec les tiers. Il signe tous les actes et pièces au nom de la fédération. Il peut déléguer provisoirement ses pouvoirs à un membre du conseil d'administration.
 
-Elle se compose :
+Pour assurer les missions prévues à l'article 4, deuxième alinéa, l'Office national de la chasse place à sa disposition un service départemental de garderie composé de personnels commissionnés par le ministre. A cette fin, une convention est passée entre l'Office national de la chasse et la fédération départementale des chasseurs conforme au modèle approuvé par arrêté du ministre chargé de la chasse. Cette convention énonce les droits et obligations des parties contractantes en matière d'emploi et de gestion des personnels du service départemental de garderie dont les effectifs sont fixés par arrêté du ministre chargé de la chasse.
 
-1. Des membres du conseil d'administration ;
+Outre les dispositions prévues par le décret n° 72-334 du 27 avril 1972 et en cas de manquement aux règlements concernant le régime des personnels ou aux dispositions de la convention citée ci-dessus, après mise en demeure restée sans effet, le commissaire de la République peut être appelé par le ministre chargé de la chasse à se substituer au président de la fédération défaillant pour tout ou partie de ses pouvoirs : le ministre chargé de la chasse entend le président intéressé, assisté d'une personne de son choix, dans ses observations avant de prendre sa décision. En tout état de cause, la fédération départementale des chasseurs reste liée dans les mêmes conditions que précédemment par les engagements souscrits en application du présent statut et spécialement de la convention prévue au deuxième alinéa ci-dessus.
 
-2. Des personnes physiques ou morales prévues au 2 du premier alinéa de l'article 1er disposant d'autant de voix qu'elles ont de chasseurs ayant acquitté la cotisation fédérale qui chassent sur leur territoire ; toutefois, le nombre de ces voix ne peut excéder le nombre de membres qu'elles ont déclaré au moment de leur adhésion à la fédération ou lors du renouvellement annuel de cette adhésion. Elles disposent en outre d'une voix supplémentaire par 20 hectares ou tranche de 20 hectares et ce jusqu'à une superficie de 2000 hectares.
+Le président est assisté d'un personnel administratif et technique appointé. Il peut, à la demande du directeur de l'Office national de la chasse, désigner parmi ce personnel un correspondant pour recevoir délégation du directeur de l'Office national de la chasse afin d'assurer tout ou partie de la gestion administrative des missions de service public mises à la charge de la fédération prévue à l'article 4.
 
-Les personnes physiques ou morales visées ci-dessus doivent présenter à la fédération, quinze jours au moins avant la date de l'assemblée générale, une liste nominative des droits de vote dont elles disposent ainsi que l'indication de la superficie et de la consistance de leur territoire ; les membres de la fédération peuvent consulter ces documents au siège de la fédération pendant les quinze jours qui précèdent l'assemblée générale.
+Le secrétaire tient le procès-verbal de chaque réunion ou conseil d'administration et de chaque assemblée et le présente à la réunion suivante aux fins d'approbation.
 
-Le contrôle du vote est exercé par le conseil d'administration de la fédération.
+Le trésorier procède au recouvrement des recettes et au paiement des dépenses, après visa du président. Il fait tous les encaissements et tient les comptes de dépôts de fonds ouverts au nom de la fédération.
 
-Les convocations sont faites par voie d'annonce insérée dans au moins deux journaux locaux d'information générale, au minimum vingt jours à l'avance.
+Les chèques, les titres de paiement quels qu'ils soient et les titres de recettes doivent, obligatoirement, porter les deux signatures du président et du trésorier ou de leurs délégués, membres du conseil d'administration.
 
-L'assemblée générale est présidée par le président de la fédération ou, à défaut, par un administrateur désigné spécialement par le président ; elle choisit son bureau qui peut être celui du conseil d'administration.
+Le trésorier doit toujours être en mesure de présenter ses comptes à toute demande du président ou d'un contrôleur qualifié et notamment du directeur départemental de l'agriculture.
 
-Les fonctions de secrétaire sont remplies par le secrétaire du conseil d'administration ou, à défaut, par un membre du conseil désigné par le bureau.
+Les comptes sont obligatoirement vérifiés chaque année par un expert comptable inscrit au tableau de son ordre.

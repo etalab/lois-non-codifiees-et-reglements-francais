@@ -1,57 +1,37 @@
 # Article 7 STATUT ANNEXE
 
-Le président est nommé pour trois ans, à compter du 1er juillet de l'année de nomination, par le ministre chargé de la chasse. Il doit faire partie du conseil d'administration et sa candidature, présentée par ce conseil après chaque renouvellement partiel et avant le 30 juin de l'année du renouvellement, est transmise par le préfet avec l'avis du directeur départemental de l'agriculture.
+La fédération est administrée par un conseil d'administration dont le nombre des membres est compris entre sept au moins et quinze au plus. Sa composition assure une représentation, en fonction de leur importance, des divers secteurs géographiques, des divers types et modes de chasse pratiqués et des différentes formes d'organisation de la chasse existant dans le département.
 
-Si la candidature présentée n'est pas retenue par le ministre, le conseil d'administration présente une autre candidature, transmise dans les mêmes conditions.
+A cet effet le conseil d'administration est composé comme suit :
 
-Nul ne peut être nommé aux fonctions de président s'il est âgé de moins de vingt-trois ans ou de plus de soixante-douze ans.
+Les membres du conseil d'administration sont élus pour neuf ans par l'assemblée générale et renouvelables par tiers tous les trois ans ; s'il y a lieu, les membres renouvelables sont désignés par tirage au sort.
 
-Les fonctions du président prennent fin de plein droit si, au cours de son mandat, il cesse de faire partie du conseil d'administration ainsi qu'en cas de démission ou révocation prononcée par le ministre après avis du conseil d'administration de l'office national de la chasse.
+L'administrateur élu en remplacement d'un autre dont le mandat n'est pas expiré ne demeure en fonction que pendant le temps restant à courir sur le mandat de son prédécesseur.
 
-Lorsque le mandat du président vient à expiration pour quelque motif que ce soit, le conseil d'administration procède immédiatement à l'élection d'un autre candidat à proposer au ministre. Ce candidat exerce provisoirement pendant trois mois les fonctions de président en attendant la décision du ministre.
+Les membres sortants sont rééligibles.
 
-En cas de non-acceptation de la candidature proposée, le conseil d'administration procède immédiatement à l'élection d'un autre membre du conseil d'administration à proposer au ministre. Ce nouveau candidat exerce provisoirement les fonctions de président en attendant la décision du ministre.
+En cas de vacance de trois membres au plus au cours de la période triennale, le conseil pourvoit à leur remplacement sous réserve de ratification des nominations ainsi faites au prochain scrutin.
 
-Le président nommé en remplacement du président décédé ou révoqué ou qui a cessé de faire partie du conseil d'administration ou qui a démissionné ne demeure en fonctions que pendant le temps restant à courir sur le mandat de son prédécesseur.
+Ne peut être candidate au conseil d'administration :
 
-Le président sortant est rééligible.
+1° Toute personne qui n'est pas de nationalité française ;
 
-Le président est assisté d'un bureau comprenant deux administrateurs au moins dont un secrétaire et un trésorier désignés chaque année par le conseil d'administration. Leurs fonctions ne sont pas cumulatives.
+2° Toute personne qui n'est pas membre de la fédération ;
 
-[*L'article 7 du statut annexe est remplacé par les dispositions suivantes pour la fédération interdépartementale de Paris, Hauts-de-Seine, Seine-Saint-Denis et Val-de-Marne :*]    Le président est nommé pour trois ans par le ministre chargé de la chasse. Il doit faire partie du conseil d'administration et sa candidature est présentée par le conseil. Son mandat est renouvelable.
+3° Toute personne non détentrice d'un permis de chasser validé depuis au moins cinq années consécutives ;
 
-Si la candidature présentée n'est pas retenue par le ministre, de conseil d'administration présente une autre candidature, transmise dans les mêmes conditions.
+4° Toute personne étant ou ayant été depuis moins de trois ans soit appointée par la fédération, soit chargée sur le plan départemental de son contrôle financier ;
 
-Nul ne peut être nommé aux fonctions de président s'il est âgé de moins de vingt-trois ans ou de plus de soixante-douze ans.
+5° Toute personne ayant été condamnée à une peine afflictive ou infamante ;
 
-Les fonctions du président prennent fin de plein droit si, au cours de son mandat, il cesse de faire partie du conseil d'administration ainsi qu'en cas de démission ou révocation prononcée par le ministre après avis du conseil d'administration de l'office national de la chasse.
+6° Toute personne ayant été condamnée depuis moins de cinq ans pour délit en matière de chasse ou à la loi du 10 juillet 1976 sur la protection de la nature ;
 
-Lorsque le mandat du président vient à expiration pour quelque motif que ce soit, le conseil d'administration procède immédiatement à l'élection d'un autre candidat à proposer au ministre. Ce candidat exerce provisoirement pendant trois mois les fonctions de président en attendant la décision du ministre.
+7° Toute personne étant déjà administrateur d'une autre fédération départementale de chasseurs.
 
-En cas de non-acceptation de la candidature proposée, le conseil d'administration procède immédiatement à l'élection d'un autre membre du conseil d'administration à proposer au ministre. Ce nouveau candidat exerce provisoirement les fonctions du président en attendant la décision du ministre.
+Tout administrateur qui ne répond plus à l'une de ces conditions est réputé démissionnaire.
 
-Le président nommé en remplacement du président décédé ou révoqué ou qui a cessé de faire partie du conseil d'administration ou qui a démissionné ne demeure en fonctions que pendant le temps restant à courir sur le mandat de son prédécesseur.
+Toutefois le préfet a la possibilité de s'opposer à la candidature d'une personne ou de révoquer un administrateur qui ont été condamnés depuis moins de cinq ans pour contravention en matière de chasse ou à la loi du 10 juillet 1976 sur la protection de la nature.
 
-Le président sortant est rééligible.
+Il est interdit à tout administrateur de faire acte de commerce avec la fédération ou de percevoir de celle-ci directement ou indirectement une quelconque prestation rémunérée, sauf autorisation du conseil d'administration de l'office national de la chasse.
 
-Le président est assisté d'un bureau comprenant trois administrateurs au moins dont un vice-président, un secrétaire et un trésorier désignés par le conseil. Leurs fonctions ne sont pas cumulatives.
-
-[*L'article 7 du statut annexe est remplacé par les dispositions suivantes pour la fédération interdépartementale des Yvelines, Essonne et Val-d'Oise :*]    Le président est nommé pour trois ans à compter du 1er juillet de l'année de nomination, par le ministre chargé de la chasse. Il doit faire partie du conseil d'administration et sa candidature présentée par ce conseil après chaque renouvellement partiel et avant le 30 juin de l'année de renouvellement est transmise par le préfet de son département, après avis de directeurs départementaux de l'agriculture intéressés et sur avis conformes des préfets des deux autres départements.
-
-Si la candidature présentée n'est pas retenue par le ministre, le conseil d'administration présente une autre candidature, transmise dans les mêmes conditions.
-
-Nul ne peut être nommé aux fonctions de président s'il est âgé de moins de vingt-trois ans ou de plus de soixante-douze ans.
-
-Les fonctions du président prennent fin de plein droit si, au cours de son mandat, il cesse de faire partie du conseil d'administration ainsi qu'en cas de démission ou révocation prononcée par le ministre après avis du conseil d'administration de l'office national de la chasse.
-
-Lorsque le mandat du président vient à expiration pour quelque motif que ce soit, le conseil d'administration procède immédiatement à l'élection d'un autre candidat à proposer au ministre. Ce candidat exerce provisoirement pendant trois mois les fonctions de président en attendant la décision du ministre.
-
-En cas de non-acceptation de la candidature proposée, le conseil d'administration procède immédiatement à l'élection d'un autre membre du conseil d'administration à proposer au ministre. Ce nouveau candidat exerce provisoirement les fonctions de président en attendant la décision du ministre.
-
-Le président nommé en remplacement du président décédé ou révoqué ou qui a cessé de faire partie du conseil d'administration ou qui a démissionné ne demeure en fonctions que pendant le temps restant à courir sur le mandat de son prédécesseur.
-
-Le président sortant est rééligible.
-
-Le président est assisté :
-
-De deux vice-présidents, désignés par le conseil d'administration parmi les administrateurs de chacun des départements autres que celui du président et nommés à ces fonctions par le ministre chargé de la chasse sur transmission de leur candidature par le préfet intéressé après avis du directeur départemental de l'agriculture ; D'un bureau comprenant deux administrateurs au moins dont un secrétaire et un trésorier désignés chaque année par le conseil d'administration. Leurs fonctions ne sont pas cumulatives.
+Tout administrateur qui, sans excuse valable, n'assistera à aucune réunion du conseil pendant un an pourra être considéré comme démissionnaire par décision du conseil.

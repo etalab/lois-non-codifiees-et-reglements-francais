@@ -1,0 +1,3 @@
+# Article 2
+
+Ont seules vocation à participer aux négociations commerciales, dans les conditions prévues par le règlement CEE n° 954-79 du 15 mai 1979, en vue de l'accès en qualité de compagnie maritime nationale à l'une des conférences maritimes mentionnées à l'article 1er, les compagnies qui, d'une part, répondent aux conditions prévues au chapitre Ier de la convention du 6 avril 1974 ou bien bénéficient du droit d'établissement au titre du traité instituant la Communauté économique européenne, et qui, d'autre part, ont la qualité d'armateur aux termes de la loi n° 69-8 du 3 janvier 1969 relative à l'armement et aux ventes maritimes, et font usage, à titre habituel et principal, de navires battant pavillon français.
