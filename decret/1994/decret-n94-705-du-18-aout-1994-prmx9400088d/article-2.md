@@ -1,0 +1,3 @@
+# Article 2
+
+La présente autorisation est accordée au vu des statuts de la société nationale d'économie mixte Grand Stade, approuvés par le décret du 18 août 1994 susvisé. Elle cessera de produire effet si elle n'est pas renouvelée à la demande des collectivités intéressées, en cas de modification des statuts approuvés affectant de façon substantielle l'organisation ou le fonctionnement de la société et, notamment, en cas de modification portant sur sa forme, son objet, sa durée ou sur les droits des actionnaires ou la composition et les attributions de l'assemblée générale et du conseil d'administration.
