@@ -9,3 +9,5 @@ Responsable de l'organisation et du fonctionnement du secrétariat du S.G.D.N. e
 Chef de garage coordinateur du parc automobile.
 
 Responsable de l'engagement et du suivi des crédits du S.G.D.N.
+
+Agent assurant la gestion, le recrutement et la formation des personnels.
