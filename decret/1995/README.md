@@ -131,6 +131,7 @@
 - [Décret n°95-194 du 20 février 1995 (ACVP9420066D)](decret-n95-194-du-20-fevrier-1995-acvp9420066d)
 - [Décret n°95-70 du 20 janvier 1995 (MICT9500008D)](decret-n95-70-du-20-janvier-1995-mict9500008d)
 - [Décret n°95-71 du 20 janvier 1995 (MICT9500006D)](decret-n95-71-du-20-janvier-1995-mict9500006d)
+- [Décret n°88-399 du 21 avril 1988 (EQUP8800314D)](decret-n88-399-du-21-avril-1988-equp8800314d)
 - [Décret n°95-177 du 21 février 1995 (INTB9500038D)](decret-n95-177-du-21-fevrier-1995-intb9500038d)
 - [Décret n°95-182 du 21 février 1995 (AGRS9500097D)](decret-n95-182-du-21-fevrier-1995-agrs9500097d)
 - [Décret n°95-75 du 21 janvier 1995 (INTX9500004D)](decret-n95-75-du-21-janvier-1995-intx9500004d)
