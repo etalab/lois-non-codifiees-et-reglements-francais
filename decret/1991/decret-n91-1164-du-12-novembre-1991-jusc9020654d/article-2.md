@@ -1,5 +1,9 @@
 # Article 2
 
-Le président du tribunal de grande instance ou le magistrat du siège désigné par lui est saisi par une simple requête émanant du préfet et à Paris du préfet de police qui a pris la décision de maintien. Cette requête est motivée, datée, signée et accompagnée de toutes les pièces justificatives utiles.
+Le président du tribunal de grande instance ou le magistrat délégué par lui est saisi par une simple requête émanant du préfet et à Paris du préfet de police qui a pris la décision de maintien.
 
-Cette requête doit, avant l'expiration du délai de vingt-quatre heures mentionné au cinquième alinéa de l'article 35 bis de l'ordonnance du 2 novembre 1945 précitée, être déposée au greffe du tribunal. Elle y est enregistrée et un timbre indiquant la date et l'heure d'arrivée y est apposé ainsi que sur les pièces jointes.
+Cette requête est motivée, datée, signée et accompagnée de toutes pièces justificatives utiles. De plus, lorsqu'elle tend à la prorogation du délai de six jours prévu à l'article 35 bis de l'ordonnance du 2 novembre 1945 susvisée, elle contient, à peine d'irrecevabilité, l'exposé des éléments de fait qui, selon le cas, caractérisent l'urgence absolue et la menace d'une particulière gravité pour l'ordre public, ou montrent que ce délai supplémentaire est de nature à permettre l'obtention du document de voyage de l'étranger.
+
+La requête est déposée au greffe du tribunal, selon le cas, avant l'expiration du délai de vingt-quatre heures mentionné à l'article 35 bis de l'ordonnance du 2 novembre 1945 susvisée, ou dans les vingt-quatre heures précédant l'expiration du délai de six jours mentionné à ce même article.
+
+Le greffier l'enregistre et y appose, ainsi que sur les pièces jointes, un timbre indiquant la date et l'heure de son dépôt.
