@@ -1,4 +1,4 @@
-# Arrêté du 22 août 1985 relatif à la commission compétente pour les projets informatiques et bureautiques des organismes de sécurité sociale.
+# Arrêté du 22 août 1985 relatif à la rémunération des services publics de distribution d'eau
 
 - [Article 1](article-1.md)
 - [Titre Ier : Moniteurs, monitrices des écoles de cadres de sages-femmes](titre-ier)

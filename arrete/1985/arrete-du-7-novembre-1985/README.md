@@ -1,0 +1,17 @@
+# Arrêté du 7 novembre 1985 relatif aux conditions d'agrément d'organismes susceptibles d'effectuer des contrôles de poussières à l'émission.
+
+- [Article 1](article-1.md)
+- [Section I : Désignation des représentants de l'administration](section-i)
+- [Article 2](article-2.md)
+- [Section II : Désignation des représentants des praticiens des hôpitaux à temps partiel](section-ii)
+- [Article 3](article-3.md)
+- [Section III : Fonctionnement de la commission paritaire régionale](section-iii)
+- [Article 4](article-4.md)
+- [Section IV : Dispositions particulières applicables lorsque la commission paritaire régionale se réunit en application de l'article 54 du décret n° 85-384 du 29 mars 1985](section-iv)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 42](article-42.md)
+- [Annexes](annexes)
+- [Article 5-1](article-5-1.md)
+- [Article 5-2](article-5-2.md)
