@@ -1,6 +1,6 @@
 # Article 8
 
-Pour le calcul de la retraite proportionnelle, le nombre de points acquis chaque année par les intéressés en fonction des cotisations versées en application du b de l'article 1123 du Code rural est déterminé suivant le barème annexé au présent décret.
+Pour le calcul de la retraite proportionnelle, le nombre de points acquis chaque année par les intéressés en fonction des cotisations versées en application du b de l'article 1123 et de l'article 1125 (anciens) du Code rural dans leur rédaction antérieure à la loi n° 90-85 du 23 janvier 1990 est déterminé suivant le barème annexé au présent décret.
 
 Pour les années antérieures à l'entrée en vigueur du présent décret, le nombre de points résulte des dispositions des décrets du 30 avril 1965, du 21 janvier 1967, du 26 juin 1968, du 15 mai 1974 et du 10 février 1975 susvisés.
 

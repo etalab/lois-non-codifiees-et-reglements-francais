@@ -1,27 +1,49 @@
 # Article 1
 
-Le montant de la pension de retraite forfaitaire mentionnée au 1° du premier alinéa de l'article 1121 et au premier alinéa de l'article 1122-1 du code rural est déterminé selon les modalités ci-après :
+Le montant de la pension de retraite forfaitaire mentionné au 1° de l'article L. 732-24 du code rural est déterminé selon les modalités ci-après :
 
-1° Lorsque les assurés justifient dans le régime des non-salariés des professions agricoles ou dans ce régime et un ou plusieurs autres régimes de base obligatoires, de périodes d'assurance ou de périodes reconnues équivalentes, telles que définies à l'article 11, d'une durée au moins égale à trente-sept années et demie, le montant de leur retraite forfaitaire est :
+I. - Lorsque l'assuré justifie dans le régime d'assurance vieillesse des personnes non salariées des professions agricoles ou dans ce régime et dans un ou plusieurs autres régimes de base obligatoires, de périodes d'assurance ou de périodes reconnues équivalentes, telles que définies à l'article 11 du présent décret, d'une durée au moins égale à la durée minimale d'assurance ou de périodes reconnues équivalentes mentionnée à l'article L. 732-25 du code rural, le montant de sa pension de retraite forfaitaire est, avant application de la majoration prévue à l'article L. 732-25-1 du même code :
 
-a) Egal à celui de l'allocation aux vieux travailleurs salariés à condition qu'ils aient exercé une activité non-salariée agricole pendant au moins trente-sept années et demie ;
+1° Egal à celui de l'allocation aux vieux travailleurs salariés à condition qu'il ait exercé une activité agricole non salariée d'une durée au moins égale à la durée minimale mentionnée au 1° de l'article L. 732-24 du code rural.
 
-b) Calculé proportionnellement à leur durée d'activité non-salariée agricole à raison d'un trente-septième et demi de ladite prestation par année d'activité, s'ils ont exercé cette activité pendant une durée inférieure à trente-sept années et demie.
+Cette durée est fixée, pour les pensions prenant effet avant le 1er janvier 2009 :
 
-Toutefois, en application du IV de l'article 2 de la loi n° 86-19 du 6 janvier 1986, le montant de la retraite forfaitaire est égal à celui de l'allocation aux vieux travailleurs salariés pour les assurés qui justifient d'une durée d'exercice de l'activité non-salariée agricole au moins égale à :
+- à 37,5 années pour l'assuré né avant le 1er janvier 1944 ;
 
-a) Trente-trois années et demie, lorsque la retraite prend effet au cours de l'année 1986 ;
+- à 38 années pour l'assuré né en 1944 ;
 
-b) Trente-quatre années et demie, lorsque la retraite prend effet au cours de l'année 1987 ;
+- à 38,5 années pour l'assuré né en 1945 ;
 
-c) Trente-cinq années et demie, lorsque la retraite prend effet au cours de l'année 1988 ;
+- à 39 années pour l'assuré né en 1946 ;
 
-d) Trente-six années et demie, lorsque la retraite prend effet au cours de l'année 1989.
+- à 39,5 années pour l'assuré né en 1947 ;
 
-En cas de durée d'activité moindre, la retraite forfaitaire est calculée proportionnellement à cette durée à raison d'un trente-troisième et demi, d'un trente-quatrième et demi, d'un trente-cinquième et demi, d'un trente-sixième et demi de ladite prestation par année d'activité, selon que la retraite prend effet, respectivement, au cours de l'année 1986, de l'année 1987, de l'année 1988 et de l'année 1989.
+- à 40 années pour l'assuré né en 1948.
 
-2° Lorsque les assurés ne relèvent pas des dispositions du 1° ci-dessus, il est appliqué au montant de la retraite forfaitaire un coefficient de minoration qui est fonction soit du nombre de trimestres correspondant à la durée séparant l'âge auquel leur pension prend effet de leur soixante-cinquième anniversaire, soit du nombre de trimestres supplémentaires qui leur serait nécessaire, à la date d'effet de leur pension, pour justifier de trente-sept années et demie d'assurance ou de périodes reconnues équivalentes ; le nombre de trimestres correspondant est éventuellement arrondi au nombre immédiatement supérieur.
+Pour les pensions prenant effet après le 31 décembre 2008, cette durée est déterminée par la limite mentionnée au troisième alinéa de l'article L. 351-1 du code de la sécurité sociale ;
 
-Le plus petit de ces deux nombres est pris en considération.
+2° Egal, s'il a exercé une activité agricole non salariée pendant une durée inférieure à la durée minimale mentionnée au 1° de l'article L. 732-24 du code rural et définie au 1° ci-dessus, au produit du nombre d'années de cette activité par le rapport du montant défini audit 1° sur la durée minimale mentionnée au 1° de l'article L. 732-24 du code rural et définie au 1° ci-dessus.
 
-Pour chaque trimestre ainsi retenu, le coefficient de minoration à appliquer est de 2,50 p. 100.
+II. - Lorsque l'assuré ne justifie pas dans le régime d'assurance vieillesse des personnes non salariées des professions agricoles ou dans ce régime et dans un ou plusieurs autres régimes de base obligatoires de périodes d'assurance ou de périodes reconnues équivalentes, telles que définies à l'article 11 du présent décret, d'une durée au moins égale à la durée minimale d'assurance ou de périodes reconnues équivalentes mentionnée à l'article L. 732-25 du code rural, le montant de sa pension de retraite forfaitaire est minoré en fonction soit du nombre de trimestres séparant l'âge auquel sa pension prend effet de son soixante-cinquième anniversaire, soit du nombre de trimestres supplémentaires qui lui serait nécessaire, à la date d'effet de sa pension, pour justifier de la durée minimale d'assurance ou de périodes reconnues équivalentes mentionnée à l'article L. 732-25 du code rural. La minoration est égale au produit du plus petit de ces deux nombres, arrondis chacun au nombre immédiatement supérieur, par le coefficient suivant :
+
+- 2,5 % pour l'assuré né avant le 1er janvier 1944 ;
+
+- 2,375 % pour l'assuré né en 1944 ;
+
+- 2,25 % pour l'assuré né en 1945 ;
+
+- 2,125 % pour l'assuré né en 1946 ;
+
+- 2 % pour l'assuré né en 1947 ;
+
+- 1,875 % pour l'assuré né en 1948 ;
+
+- 1,75 % pour l'assuré né en 1949 ;
+
+- 1,625 % pour l'assuré né en 1950 ;
+
+- 1,5 % pour l'assuré né en 1951 ;
+
+- 1,375 % pour l'assuré né en 1952 ;
+
+- 1,25 % pour l'assuré né après 1952.

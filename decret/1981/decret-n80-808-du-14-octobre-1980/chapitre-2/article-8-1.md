@@ -1,6 +1,6 @@
 # Article 8-1
 
-A compter du 1er janvier 1990, le versement de la cotisation prévue au b de l'article 1123 du code rural ainsi qu'à compter du 1er février 1991 celui de la cotisation prévue au c du même article donnent droit, pour l'année au titre de laquelle elles sont dues, à un nombre de points qui est fonction du montant des revenus professionnels déterminés conformément aux dispositions de l'article 1003-12 dudit code.
+A compter du 1er janvier 1990, le versement de la cotisation prévue au a du 2° de l'article L. 731-42 du code rural ainsi qu'à compter du 1er février 1991 celui de la cotisation prévue au c du même article donnent droit, pour l'année au titre de laquelle elles sont dues, à un nombre de points qui est fonction du montant des revenus professionnels déterminés conformément aux dispositions des articles L. 731-14 à L. 731-19 dudit code.
 
 Ce nombre de points est déterminé dans les conditions définies du 1° au 5° ci-après, entre un minimum fixé à 15 et un maximum M résultant chaque année [*périodicité*] du rapport entre le montant maximum de la pension de vieillesse du régime général de la sécurité sociale, diminué du montant de l'allocation aux vieux travailleurs salariés, et trente-sept fois et demie la valeur du point, selon la formule suivante :
 
@@ -18,7 +18,7 @@ VP représente la valeur du point de retraite proportionnelle.
 
 P = 15 + 15 x R - 400 SMIC / 400 SMIC
 
-où R représente le montant des revenus professionnels retenus en vue du calcul des cotisations mentionnées au b et au c de l'article 1123 du code rural ;
+où R représente le montant des revenus professionnels retenus en vue du calcul des cotisations mentionnées au a du 2° et au 3° de l'article L. 731-42 du code rural ;
 
 SMIC représente le taux horaire du salaire minimum de croissance.
 
@@ -28,7 +28,7 @@ SMIC représente le taux horaire du salaire minimum de croissance.
 
 P = 30 + (M - 30) x (R - 2 MC / PL - 2 MC)
 
-où R représente le montant des revenus professionnels retenus en vue du calcul des cotisations mentionnées au b et au c de l'article 1123 du code rural ;
+où R représente le montant des revenus professionnels retenus en vue du calcul des cotisations mentionnées au a du 2° de l'article L. 731-42 du code rural ;
 
 MC représente l'intégralité du montant annuel minimum de pension garanti en application de l'article L. 351-10 du code de la sécurité sociale ;
 
