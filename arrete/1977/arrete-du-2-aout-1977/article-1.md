@@ -137,22 +137,22 @@ Gardes-chefs principaux.
 <td> :  8è échelon                        :         267           :</td>
 </tr>
 <tr>
-<td> :  7è échelon                        :         261           :</td>
+<td> :  7è échelon                        :         264           :</td>
 </tr>
 <tr>
-<td> :  6è échelon                        :         253           :</td>
+<td> :  6è échelon                        :         258           :</td>
 </tr>
 <tr>
-<td> :  5è échelon                        :         244           :</td>
+<td> :  5è échelon                        :         249           :</td>
 </tr>
 <tr>
-<td> :  4è échelon                        :         235           :</td>
+<td> :  4è échelon                        :         241           :</td>
 </tr>
 <tr>
-<td> :  3è échelon                        :         225           :</td>
+<td> :  3è échelon                        :         235           :</td>
 </tr>
 <tr>
-<td> :  2è échelon                        :         214           :</td>
+<td> :  2è échelon                        :         228           :</td>
 </tr>
 <tr>
 <td> :  1er échelon                       :         203           :</td>
