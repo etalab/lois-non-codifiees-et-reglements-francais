@@ -7,6 +7,8 @@
 - [Article 3](article-3.md)
 - [Chapitre III : Du prix.](chapitre-iii)
 - [Article 3 bis](article-3-bis.md)
+- [Article 3 ter](article-3-ter.md)
+- [Article 3 quater](article-3-quater.md)
 - [Chapitre IV : Des locations et sous-locations en meublé.](chapitre-iv)
 - [Chapitre V : De la procédure.](chapitre-v)
 - [Chapitre VI : Des sanctions.](chapitre-vi)
