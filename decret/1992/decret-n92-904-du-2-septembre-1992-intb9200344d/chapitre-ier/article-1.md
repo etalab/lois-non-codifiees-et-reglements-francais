@@ -1,6 +1,6 @@
 # Article 1
 
-Les concours externe et interne d'accès au cadre d'emplois des agents territoriaux qualifiés du patrimoine comprennent des épreuves d'admissibilité et d'admission notées de 0 à 20. Seuls peuvent être admis à se présenter à l'épreuve orale d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et, pour l'ensemble des épreuves écrites, un total de points qui ne peut en aucun cas être inférieur à 60.
+Les concours externe, interne et le troisième concours d'accès au cadre d'emplois des agents territoriaux qualifiés du patrimoine comprennent des épreuves d'admissibilité et d'admission notées de 0 à 20. Seuls peuvent être admis à se présenter à l'épreuve orale d'admission les candidats ayant obtenu pour chacune des épreuves écrites une note au moins égale à 5 sur 20 et, pour l'ensemble des épreuves écrites, un total de points qui ne peut en aucun cas être inférieur à 60.
 
 1° Concours externe
 
@@ -77,3 +77,35 @@ L'épreuve d'éducation physique et sportive (coefficient 1) comprend au choix d
 - soit un saut en hauteur ;
 
 - soit un grimper à la corde.
+
+3° Du troisième concours.
+
+A. - Epreuves d'admissibilité
+
+Les épreuves d'admissibilité du troisième concours de recrutement des agents territoriaux qualifiés du patrimoine comprennent :
+
+1. La résolution d'un cas pratique à partir des données communiquées au candidat relatif à une situation à laquelle un agent territorial qualifié du patrimoine peut être confronté dans l'exercice de ses fonctions (durée : deux heures ; coefficient 4) ;
+
+2. Une série de questions sur l'organisation et le fonctionnement des collectivités territoriales (durée : une heure ; coefficient 2).
+
+B. - Epreuve d'admission
+
+L'épreuve d'admission du troisième concours comprend un entretien ayant pour point de départ un exposé du candidat sur son expérience destiné à permettre d'apprécier les qualités d'analyse et de réflexion du candidat ainsi que sa motivation à exercer les missions dévolues au cadre d'emplois (durée : vingt minutes dont cinq minutes au plus d'exposé ; coefficient 4).
+
+C. - Epreuve facultative
+
+Les candidats peuvent demander, au moment de l'inscription au concours, à passer une épreuve facultative d'admission soit de langue, soit de traitement automatisé de l'information, soit d'éducation physique et sportive (coefficient 1).
+
+L'épreuve de langue est une épreuve écrite à choisir parmi les langues suivantes : allemand, anglais, espagnol, italien, portugais, néerlandais, russe ou arabe moderne (durée : une heure).
+
+L'épreuve facultative de traitement automatisé de l'information est d'une durée d'une heure.
+
+L'épreuve d'éducation physique et sportive comprend au choix du candidat et selon son sexe :
+
+- soit une course de vitesse sur une distance de 100 mètres (hommes) ou de 60 mètres (femmes) ;
+
+- soit un saut en hauteur ;
+
+- soit un grimper à la corde.
+
+Les points excédant la note 10 à l'épreuve facultative s'ajoutent au total des notes obtenues aux épreuves obligatoires et sont valables uniquement pour l'admission.
