@@ -102,6 +102,7 @@
 - [Décret n°93-1443 du 27 décembre 1993 (ACVE9350003D)](decret-n93-1443-du-27-decembre-1993-acve9350003d)
 - [Décret n°93-532 du 27 mars 1993 (MENT9304718D)](decret-n93-532-du-27-mars-1993-ment9304718d)
 - [Décret n°93-694 du 27 mars 1993 (SPSS9300881D)](decret-n93-694-du-27-mars-1993-spss9300881d)
+- [Décret n°94-93 du 27 janvier 1994 (MENE9306293D)](decret-n94-93-du-27-janvier-1994-mene9306293d)
 - [Décret n°94-1021 du 28 novembre 1994 (INTX9400134D)](decret-n94-1021-du-28-novembre-1994-intx9400134d)
 - [Décret n°94-1022 du 28 novembre 1994 (INTA9400427D)](decret-n94-1022-du-28-novembre-1994-inta9400427d)
 - [Décret n°94-87 du 28 janvier 1994 (MCCB9300362D)](decret-n94-87-du-28-janvier-1994-mccb9300362d)
