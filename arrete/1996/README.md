@@ -1149,7 +1149,6 @@
 - [Arrêté du 27 février 1996 (BUDF9620921A)](arrete-du-27-fevrier-1996-budf9620921a)
 - [Arrêté du 27 février 1996 (DEFA9601238A)](arrete-du-27-fevrier-1996-defa9601238a)
 - [Arrêté du 27 février 1996 (ECOT9613864A)](arrete-du-27-fevrier-1996-ecot9613864a)
-- [Arrêté du 27 février 1996 (FPPA9610012A)](arrete-du-27-fevrier-1996-fppa9610012a)
 - [Arrêté du 27 février 1996 (INTE9600106A)](arrete-du-27-fevrier-1996-inte9600106a)
 - [Arrêté du 27 février 1996 (MENL9600720A)](arrete-du-27-fevrier-1996-menl9600720a)
 - [Arrêté du 27 février 1996 (TASH9620678A)](arrete-du-27-fevrier-1996-tash9620678a)
