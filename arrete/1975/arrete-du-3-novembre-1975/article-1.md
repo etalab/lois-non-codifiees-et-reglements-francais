@@ -1,3 +1,3 @@
 # Article 1
 
-Les centres de gestion agréés qui apportent une assistance en matière de gestion aux industriels, commerçants, artisans et agriculteurs sont liés à l'administration fiscale par une convention type figurant en annexe au présent arrêté.
+Les laboratoires chargés de concourir à l'application de la réglementation relative à la répression des fraudes sont tenus d'employer, pour la mesure de l'activité bêta des précipités d'oxalate obtenus à partir des végétaux, la méthode décrite en annexe.

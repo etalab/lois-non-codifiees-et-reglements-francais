@@ -1,3 +1,3 @@
 # Article 2
 
-Les parties signataires de la convention peuvent inclure dans celle-ci toute disposition complémentaire rendue nécessaire pour adapter la convention type aux conditions particulières de fonctionnement du centre, sans pouvoir déroger aux dispositions de cette convention.
+Le chef du service de la répression des fraudes et du contrôle de la qualité est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
