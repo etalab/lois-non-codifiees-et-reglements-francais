@@ -3,4 +3,3 @@
 - [Section I : Ambassadeurs de France](section-i)
 - [Section II : Ministres plénipotentiaires](section-ii)
 - [Section V : Chanceliers](section-v)
-- [Section VI : Secrétaires de chancellerie](section-vi)
