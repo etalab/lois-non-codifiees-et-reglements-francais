@@ -12,7 +12,7 @@ Ce taux est réduit de 50 p. 100 pour la fraction de la superficie de l'emprise 
 
 Le nombre d'habitants de chaque commune est déterminé par le dernier recensement disponible de l'Institut national de la statistique et des études économiques.
 
-B. - Pour les ouvrages autres que les ouvrages hydroélectriques autorisés au titre de la loi du 16 octobre 1919 modifiée relative à l'utilisation de l'énergie hydraulique, le taux de base mentionné au b du II du même article 124 est fixé à 2,01 centimes par mètre cube prélevable ou rejetable.
+B. - Pour les ouvrages autres que les ouvrages hydroélectriques autorisés au titre de la loi du 16 octobre 1919 modifiée relative à l'utilisation de l'énergie hydraulique, le taux de base mentionné au b du II du même article 124 est fixé à 2,04 centimes par mètre cube prélevable ou rejetable.
 
 Le volume prélevable ou rejetable est défini ainsi qu'il suit :
 
