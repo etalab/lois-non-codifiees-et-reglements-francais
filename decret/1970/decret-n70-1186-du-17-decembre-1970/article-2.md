@@ -2,8 +2,10 @@
 
 Le personnel secondaire des services médicaux des établissements visés au premier alinéa de l'article précédent comprend :
 
-Les aides soignants ;
+Les aides-soignants ;
 
-Les élèves aides soignants ;
+Les élèves aides-soignants ;
 
-Les agents des services hospitaliers.
+Les agents des services hospitaliers de 1re catégorie ;
+
+Les agents des services hospitaliers de 2e catégorie.

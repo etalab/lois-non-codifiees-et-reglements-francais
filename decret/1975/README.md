@@ -1,5 +1,6 @@
 # 1975
 
+- [Décret n°77-1020 du 1 septembre 1977](decret-n77-1020-du-1-septembre-1977)
 - [Décret n°75-614 du 2 juillet 1975](decret-n75-614-du-2-juillet-1975)
 - [Décret n°75-820 du 2 septembre 1975](decret-n75-820-du-2-septembre-1975)
 - [Décret du 3 mars 1975](decret-du-3-mars-1975)
@@ -54,11 +55,14 @@
 - [Décret n°75-244 du 14 avril 1975](decret-n75-244-du-14-avril-1975)
 - [Décret n°75-765 du 14 août 1975](decret-n75-765-du-14-aout-1975)
 - [Décret n°75-770 du 14 août 1975](decret-n75-770-du-14-aout-1975)
+- [Décret n°77-261 du 14 mars 1977](decret-n77-261-du-14-mars-1977)
+- [Décret n°77-262 du 14 mars 1977](decret-n77-262-du-14-mars-1977)
 - [Décret n°75-29 du 15 janvier 1975](decret-n75-29-du-15-janvier-1975)
 - [Décret n°75-643 du 15 juillet 1975](decret-n75-643-du-15-juillet-1975)
 - [Décret n°75-644 du 15 juillet 1975](decret-n75-644-du-15-juillet-1975)
 - [Décret n°75-645 du 15 juillet 1975](decret-n75-645-du-15-juillet-1975)
 - [Décret n°75-360 du 15 mai 1975](decret-n75-360-du-15-mai-1975)
+- [Décret n°75-1195 du 16 décembre 1975](decret-n75-1195-du-16-decembre-1975)
 - [Décret n°75-489 du 16 juin 1975](decret-n75-489-du-16-juin-1975)
 - [Décret n°75-640 du 16 juillet 1975](decret-n75-640-du-16-juillet-1975)
 - [Décret n°75-658 du 16 juillet 1975](decret-n75-658-du-16-juillet-1975)
@@ -115,3 +119,4 @@
 - [Décret n°74-1181 du 31 décembre 1974](decret-n74-1181-du-31-decembre-1974)
 - [Décret n°74-1182 du 31 décembre 1974](decret-n74-1182-du-31-decembre-1974)
 - [Décret n°74-1184 du 31 décembre 1974](decret-n74-1184-du-31-decembre-1974)
+- [Décret n°76-482 du 31 mai 1976](decret-n76-482-du-31-mai-1976)

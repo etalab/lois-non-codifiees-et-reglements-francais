@@ -1,7 +1,5 @@
-# Arrêté du 30 juillet 1975 fixant la liste des espèces nuisibles en zone de chasse maritime
+# Arrêté du 30 juillet 1975 fixant les conditions de délivrance des certificats de limitation de nuisances des aéronefs.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
 - [Certificats de type](certificats-de-type)
 - [Certificats individuels](certificats-individuels)
 - [Certificats pour exportation](certificats-pour-exportation)

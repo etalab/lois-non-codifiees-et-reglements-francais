@@ -36,6 +36,7 @@
 - [Arrêté du 20 juin 1975](arrete-du-20-juin-1975)
 - [Arrêté du 20 mai 1975](arrete-du-20-mai-1975)
 - [Arrêté du 21 mai 1975](arrete-du-21-mai-1975)
+- [Arrêté du 22 août 1975](arrete-du-22-aout-1975)
 - [Arrêté du 22 juillet 1975](arrete-du-22-juillet-1975)
 - [Arrêté du 23 avril 1975](arrete-du-23-avril-1975)
 - [Arrêté du 24 avril 1975](arrete-du-24-avril-1975)
