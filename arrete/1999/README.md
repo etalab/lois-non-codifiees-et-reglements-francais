@@ -310,6 +310,7 @@
 - [Arrêté du 25 janvier 1999 (INTM9800047A)](arrete-du-25-janvier-1999-intm9800047a)
 - [Arrêté du 25 janvier 1999 (PRMX9903390A)](arrete-du-25-janvier-1999-prmx9903390a)
 - [Arrêté du 25 janvier 1999 (PRMX9903397A)](arrete-du-25-janvier-1999-prmx9903397a)
+- [Arrêté du 25 mai 1999 (ECOT9951815A)](arrete-du-25-mai-1999-ecot9951815a)
 - [Arrêté du 26 avril 1999 (MESA9921084A)](arrete-du-26-avril-1999-mesa9921084a)
 - [Arrêté du 26 avril 1999 (MESA9921085A)](arrete-du-26-avril-1999-mesa9921085a)
 - [Arrêté du 26 avril 1999 (MESA9921086A)](arrete-du-26-avril-1999-mesa9921086a)
