@@ -1,6 +1,6 @@
 # Article 10
 
-I. - Les enregistrements visuels de vidéosurveillance ne sont considérés comme des informations nominatives, au sens de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés, que s'ils sont utilisés pour la constitution d'un fichier nominatif.
+I. - Les enregistrements visuels de vidéosurveillance répondant aux conditions fixées au II sont soumis aux dispositions ci-après, à l'exclusion de ceux qui sont utilisés dans des traitements automatisés ou contenus dans des fichiers structurés selon des critères permettant d'identifier, directement ou indirectement, des personnes physiques, qui sont soumis à la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés.
 
 II. - La transmission et l'enregistrement d'images prises sur la voie publique, par le moyen de la vidéosurveillance, peuvent être mis en oeuvre par les autorités publiques compétentes aux fins d'assurer la protection des bâtiments et installations publics et de leurs abords, la sauvegarde des installations utiles à la défense nationale, la régulation du trafic routier, la constatation des infractions aux règles de la circulation ou la prévention des atteintes à la sécurité des personnes et des biens dans des lieux particulièrement exposés à des risques d'agression ou de vol.
 
@@ -24,6 +24,8 @@ Toute personne intéressée peut saisir la commission départementale mentionné
 
 Les dispositions du précédent alinéa ne font pas obstacle au droit de la personne intéressée de saisir la juridiction compétente, au besoin en la forme du référé.
 
-VI. - Le fait de procéder à des enregistrements de vidéosurveillance sans autorisation, de ne pas les détruire dans le délai prévu, de les falsifier, d'entraver l'action de la commission départementale, de faire accéder des personnes non habilitées aux images ou d'utiliser ces images à d'autres fins que celles pour lesquelles elles sont autorisées est puni de trois ans d'emprisonnement et de 45000 euros [*taux*] d'amende, sans préjudice des dispositions des articles 226-1 du code pénal et L. 120-2, L. 121-8 et L. 432-2-1 du code du travail.
+VI. - Le fait de procéder à des enregistrements de vidéosurveillance sans autorisation, de ne pas les détruire dans le délai prévu, de les falsifier, d'entraver l'action de la commission départementale, de faire accéder des personnes non habilitées aux images ou d'utiliser ces images à d'autres fins que celles pour lesquelles elles sont autorisées est puni de trois ans d'emprisonnement et de 45000 euros d'amende, sans préjudice des dispositions des articles 226-1 du code pénal et L. 120-2, L. 121-8 et L. 432-2-1 du code du travail.
+
+VI bis. - Le Gouvernement transmet chaque année à la Commission nationale de l'informatique et des libertés un rapport faisant état de l'activité des commissions départementales visées au III et des conditions d'application du présent article.
 
 VII. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

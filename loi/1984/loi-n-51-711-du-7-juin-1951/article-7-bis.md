@@ -12,7 +12,7 @@ Seules les personnes responsables de l'opération, désignées à cet effet par 
 
 Sous réserve de l'article 777-3 du code de procédure pénale, les dispositions des l'alinéas précédents s'appliquent nonobstant toutes dispositions contraires relatives au secret professionnel.
 
-Les cessions portant sur des informations nominatives, telles qu'elles sont définies à l'article 4 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés sont soumises aux dispositions de ladite loi ; l'acte réglementaire et, lorsque les cessions se font entre deux personnes morales distinctes, les conventions entre le cédant et le cessionnaire de ces informations prévoient les modalités de la transmission, la finalité du traitement envisagé et le sort des informations après leur utilisation aux fins de traitement statistique.
+Les cessions portant sur des données à caractère personnel, telles qu'elles sont définies à l'article 2 de la loi n° 78-17 du 6 janvier 1978 relative à l'informatique, aux fichiers et aux libertés sont soumises aux dispositions de ladite loi ; l'acte réglementaire et, lorsque les cessions se font entre deux personnes morales distinctes, les conventions entre le cédant et le cessionnaire de ces informations prévoient les modalités de la transmission, la finalité du traitement envisagé et le sort des informations après leur utilisation aux fins de traitement statistique.
 
 Les cessions portant sur des informations concernant des personnes morales sont autorisées par décision conjointe du ministre dont relève l'Institut national de la statistique et des études économiques et des ministres intéressés.
 

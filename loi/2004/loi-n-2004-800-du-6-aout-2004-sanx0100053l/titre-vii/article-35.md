@@ -1,0 +1,5 @@
+# Article 35
+
+I. - Les autorisations qui, en application des dispositions législatives et réglementaires applicables avant la date d'entrée en vigueur de la présente loi, ont été délivrées aux établissements qui se livrent à des activités de préparation, de transformation, de conservation, de distribution, de cession, d'importation, d'exportation de greffe ou d'administration des cellules non destinées à des thérapies cellulaire et génique et de produits de thérapies cellulaire et génique valent autorisation respectivement au sens des articles L. 1243-2, L. 1243-6, L. 1245-5, L. 4211-8, L. 4211-9 et L. 5124-13 du code de la santé publique issus de la présente loi.
+
+II. - Les autorisations des produits de thérapies cellulaire et génique délivrées en application des dispositions législatives et réglementaires applicables avant la date d'entrée en vigueur de la présente loi valent autorisation selon la nature du produit, au sens de l'article L. 1243-5 et des 12° et 13° de l'article L. 5121-1 du code de la santé publique issus de la présente loi.

@@ -15,5 +15,7 @@
 - [Loi n° 2004-639 du 2 juillet 2004 (DOMX0400036L)](loi-n-2004-639-du-2-juillet-2004-domx0400036l)
 - [Loi n° 2004-669 du 9 juillet 2004 (ECOX0300083L)](loi-n-2004-669-du-9-juillet-2004-ecox0300083l)
 - [Loi n° 2004-734 du 26 juillet 2004 (EQUX0400005L)](loi-n-2004-734-du-26-juillet-2004-equx0400005l)
+- [Loi n° 2004-800 du 6 août 2004 (SANX0100053L)](loi-n-2004-800-du-6-aout-2004-sanx0100053l)
+- [Loi n° 2004-801 du 6 août 2004 (JUSX0100026L)](loi-n-2004-801-du-6-aout-2004-jusx0100026l)
 - [Loi n° 90-568 du 2 juillet 1990 (PTTX9000053L)](loi-n-90-568-du-2-juillet-1990-pttx9000053l)
 - [Loi n° 91-646 du 10 juillet 1991 (JUSX9100068L)](loi-n-91-646-du-10-juillet-1991-jusx9100068l)
