@@ -1,4 +1,4 @@
-# Arrêté du 19 juin 1981 FIXANT LES DISPOSITIONS RELATIVES A LA MISE EN PLACE D'UN SYSTEME AUTOMATISE D'EXPLOITATION DES DECLARATIONS DE RECOLTE DE VIN
+# Arrêté du 19 juin 1981 relatif au classement dans la 5e catégorie de certaines armes historiques
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
