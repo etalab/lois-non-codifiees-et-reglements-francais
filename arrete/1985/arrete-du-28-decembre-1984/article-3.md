@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur de la sécurité sociale est chargé de l'exécution du présent arrêté, qui prendra effet du premier jour du trimestre civil suivant sa publication au Journal officiel de la République française et s'appliquera aux rémunérations versées à compter de la date d'effet ainsi déterminée.
+Ces règles, méthodes et modèles visés à l'article 2 sont agréés sous certaines conditions et dans les domaines d'utilisation définis dans les annexes I et II du présent arrêté.
