@@ -1,0 +1,5 @@
+# Article 7
+
+Après un an de fonctions ou dès leur nomination s'ils sont anciens chefs de clinique ou anciens assistants des universités-assistants des hôpitaux, les attachés et attachés associés effectuant au moins trois vacations hebdomadaires ont droit, pendant une période de douze mois consécutifs en cas de de maladie dûment constatée les mettant dans l'impossibilité d'exercer leurs fonctions, à un congé de trois mois pendant lequel ils perçoivent les deux tiers de la rémunération correspondant à leurs obligations de service normales et de trois mois supplémentaires au cours desquels ladite rémunération est réduite au tiers.
+
+Si à l'issue de six mois de congé de maladie au cours d'une même période de douze mois l'intéressé n'est pas en mesure de reprendre son service, un congé non rémunéré, dont la durée ne peut excéder un an, peut être accordé par le directeur ou le directeur général de l'établissement, après avis de la commission médicale consultative ; la durée de ce congé peut être portée à deux an au maximum pour ceux des attachés qui ont fait l'objet d'une prorogation de fonctions de trois ans dans les conditions déterminées à l'article 13.
