@@ -88,7 +88,6 @@
 - [Décret n°98-258 du 3 avril 1998 (ECOU9800003D)](decret-n98-258-du-3-avril-1998-ecou9800003d)
 - [Décret n°98-259 du 3 avril 1998 (AGRA9800303D)](decret-n98-259-du-3-avril-1998-agra9800303d)
 - [Décret n°98-260 du 3 avril 1998 (AGRA9800302D)](decret-n98-260-du-3-avril-1998-agra9800302d)
-- [Décret n°98-263 du 3 avril 1998 (MESS9820485D)](decret-n98-263-du-3-avril-1998-mess9820485d)
 - [Décret n°98-268 du 3 avril 1998 (ECOI9800075D)](decret-n98-268-du-3-avril-1998-ecoi9800075d)
 - [Décret n°98-434 du 3 juin 1998 (ECOC9800007D)](decret-n98-434-du-3-juin-1998-ecoc9800007d)
 - [Décret n°98-435 du 3 juin 1998 (FPPA9810007D)](decret-n98-435-du-3-juin-1998-fppa9810007d)
