@@ -4,4 +4,4 @@ Les inspecteurs généraux de l'éducation nationale constituent un corps class�
 
 Ce corps est placé sous l'autorité directe du ministre chargé de l'éducation nationale.
 
-Ce corps comporte un seul grade divisé en trois échelons et un échelon spécial.
+Ce corps comprend un seul grade qui comporte trois échelons et un échelon spécial dont l'effectif ne peut excéder 20 % de l'effectif budgétaire du corps, sans que ce pourcentage inclue les anciens directeurs d'administration centrale et les anciens recteurs ayant occupé ces emplois pendant au moins trois ans.
