@@ -1,0 +1,5 @@
+# Article 6
+
+Le raccordement peut être constitué d'une ou de plusieurs liaisons. Chaque liaison de raccordement doit normalement comporter deux cellules disjoncteurs, l'une située dans l'installation du consommateur et exploitée par lui, et l'autre située au poste du réseau public de transport et exploitée par le gestionnaire du réseau public. Chaque cellule est composée d'un ensemble de sectionneur, disjoncteur, réducteurs de mesures et protections.
+
+Une liaison avec une seule cellule disjoncteur est notamment possible lorsque le raccordement proposé par le gestionnaire du réseau est en piquage sur une liaison existante du réseau public de transport. La cellule est située dans ce cas chez le consommateur et des dispositifs de séparation sont installés au point de piquage. Ce mode de raccordement est toutefois soumis à des conditions restrictives liées à l'exploitation du réseau et à la puissance de l'installation, inférieur à 120 MW généralement. Il n'est pas applicable en cas de raccordement sur le réseau HTB3.

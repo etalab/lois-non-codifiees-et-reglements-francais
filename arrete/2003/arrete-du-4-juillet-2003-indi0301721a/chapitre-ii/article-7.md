@@ -1,0 +1,15 @@
+# Article 7
+
+Le consommateur doit équiper son installation d'un système de protection qui élimine tout défaut d'isolement au sein de son installation susceptible de créer une surintensité ou une dégradation de la qualité de l'électricité sur le réseau public de transport.
+
+Ce dispositif doit aussi être capable d'éliminer tout apport de courant de court-circuit émanant de l'installation lors de l'occurrence d'un défaut d'isolement sur la liaison de raccordement et sur le jeu de barres du réseau public de transport auquel elle est raccordée.
+
+En complément, le gestionnaire du réseau prescrit les conditions nécessaires pour que le système de protection élimine l'apport de courant de court-circuit de l'installation lors de certains défauts d'isolement situés sur les autres liaisons raccordées au poste de raccordement au réseau public, ces conditions étant généralement exprimées par le dépassement de seuils, d'amplitude et de durée, relatifs à des grandeurs électriques mesurables.
+
+Le gestionnaire du réseau remet au consommateur un cahier des charges du système de protection qu'il doit mettre en oeuvre et lui fournit toute information nécessaire pour sa conception, son réglage et sa coordination avec le système de protection du réseau public de transport. Il lui prescrit les exigences fonctionnelles que son système de protection doit respecter en termes de rapidité et de sélectivité d'élimination des défauts d'isolement et lui précise notamment les temps maximaux dans lesquels il doit éliminer les défauts, en fonctionnement normal ou en secours, suite à une défaillance de son système de protection principal. Il peut, si nécessaire, lui demander aussi de mettre en place un dispositif d'échange d'informations qui coordonne le fonctionnement des protections aux deux extrémités de la liaison de raccordement. Ce dispositif doit être agréé par le gestionnaire du réseau et compatible avec ses équipements.
+
+Le gestionnaire du réseau précise aussi au consommateur les exigences de qualité qui permettent de garantir le fonctionnement correct dans le temps de son système de protection. En retour, le consommateur doit fournir au gestionnaire du réseau un plan qualité décrivant les dispositions retenues pour la conception et la réalisation du système de protection de son installation. Ce plan doit aussi préciser les conditions de mise en service et de maintenance curative, préventive et évolutive de ce système, ainsi que les dispositions relatives à son exploitation, notamment celles qui concernent l'enregistrement des conditions de fonctionnement.
+
+Le cahier des charges du gestionnaire du réseau et le plan qualité du consommateur sont annexés aux conventions de raccordement et d'exploitation de l'installation.
+
+Si en cours de vie de l'installation, il s'avère nécessaire de modifier le système de protection de l'installation pour l'adapter à des évolutions de l'installation ou à de nécessaires évolutions du plan de protection du réseau public de transport, de telles modifications et leurs échéances doivent être définies dans le cadre d'une concertation entre le gestionnaire du réseau et le consommateur.

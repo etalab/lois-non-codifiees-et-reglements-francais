@@ -1,0 +1,3 @@
+# Article 5-1
+
+L'Office national de la chasse et de la faune sauvage peut recruter des agents en contrat à durée déterminée pour assurer des fonctions qui ne présentent pas un caractère permanent ou lorsque la nature des fonctions et le besoin du service le justifient. Ces agents sont engagés sur des contrats d'une durée maximale de trois ans, qui ne peuvent être renouvelés que par reconduction expresse, sans pouvoir excéder six ans au total. Ils sont régis par le décret du 17 janvier 1986 susvisé, sous réserve des dispositions de l'article 7 du même décret relatives aux contrats conclus pour répondre à des besoins occasionnels ou saisonniers.

@@ -1,0 +1,3 @@
+# Article 21
+
+Quelle que soit la puissance installée des groupes de production, le consommateur et le gestionnaire du réseau doivent conclure un accord afin de préciser les conditions de gestion du transit des énergies active et réactive au point de livraison en application des articles 9 et 14 du présent arrêté. Cet accord doit tenir compte du schéma de l'installation et de la capacité constructive des groupes de production et ne doit pas pénaliser l'utilisateur pour l'énergie réactive non produite du fait de la participation de ses groupes au réglage de la tension du réseau public de transport. L'accord doit être inclus dans les conventions de raccordement et d'exploitation de l'installation.

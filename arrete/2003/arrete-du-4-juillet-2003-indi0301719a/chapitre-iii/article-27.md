@@ -1,0 +1,13 @@
+# Article 27
+
+Les installations de puissance supérieure à 120 MW doivent être équipées pour pouvoir communiquer en permanence au centre de conduite du réseau les mesures, signalisations (arrêt, démarrage, changement de position des organes de coupure, fonctionnement d'automates de protections, mise en oeuvre de limitations et butées) qui sont nécessaires à la conduite du réseau et au fonctionnement des réglages centralisés fréquence/puissance active et tension/puissance réactive. Ces informations doivent être acheminées jusqu'aux interfaces de téléréglage et de téléconduite correspondantes en un temps maximal garanti inférieur à dix secondes.
+
+Ces installations doivent également pouvoir communiquer en permanence au gestionnaire du réseau une image des réserves de puissance active primaire et secondaire de chaque groupe participant aux réglages primaire et secondaire, ces informations étant nécessaires au gestionnaire du réseau pour s'assurer de la sûreté du réseau. Ces évaluations doivent pouvoir être établies et acheminées vers le gestionnaire du réseau de façon à ce que celui-ci puisse disposer au niveau de ses centres de conduite de l'information réactualisée nécessaire à un horizon de 10 minutes. Ces images n'ont pas de valeur contractuelle et ne doivent pas être utilisées dans le processus de contrôle des performances relatif aux services auxiliaires.
+
+Le producteur doit aussi pouvoir communiquer au centre de conduite du gestionnaire du réseau les limitations de performance en puissance active et réactive ainsi que les indisponibilités susceptibles d'affecter la production, les services auxiliaires ou le programme de marche dans les heures à venir.
+
+Le gestionnaire du réseau doit notamment pouvoir communiquer à ces installations les ajustements éventuels du programme de marche de la journée en cours et leur envoyer les consignes de réglage centralisé. En cas d'aléa, il doit pouvoir leur demander les actions à effet immédiat que sont les consignes de puissance et de tension et les ordres de sauvegarde.
+
+Sauf lorsque des téléinformations captées sur le réseau suffisent à satisfaire le besoin d'observation-diagnostic, les installations de puissance inférieure ou égale à 120 MW doivent pouvoir communiquer au gestionnaire du réseau des télémesures et des télésignalisations concernant des grandeurs telles que les puissances active et réactive, la tension au point de livraison, la position des disjoncteurs et sectionneurs, voire l'état de certains automates et protections.
+
+Le besoin de rapidité d'exécution de certaines commandes peut également rendre nécessaire l'envoi de commandes ou valeurs de consigne ou consignes de téléréglage.

@@ -1,0 +1,5 @@
+# Article 14
+
+Le gestionnaire du réseau public de transport et le consommateur, ainsi que les producteurs concernés, doivent apprécier au préalable si l'installation est susceptible de fonctionner en réseau séparé viable de petite taille incluant des ouvrages du réseau public de transport. Le fonctionnement d'un tel réseau est subordonné à l'acceptation par le producteur et les consommateurs concernés de la responsabilité des incidents qui peuvent avoir lieu durant ces périodes et des répercussions possibles sur la qualité de l'alimentation.
+
+La convention d'exploitation de l'installation doit préciser les situations éventuelles suite auxquelles ce fonctionnement en réseau séparé de petite taille, séparé du réseau interconnecté, peut s'initier et les rôles des opérateurs concernés. Elle doit préciser aussi les réglages adoptés pour les protections de l'installation afin de tenir compte de ces situations de réseau séparé. Ces points pourront être revus si les besoins de sûreté des consommateurs évoluent.
