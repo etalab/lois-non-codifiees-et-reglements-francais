@@ -1,4 +1,4 @@
-# TITRE IER : Inscription au registre des transporteurs et au registre des loueurs.
+# TITRE IER : Inscription au registre des transporteurs et au registre
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
