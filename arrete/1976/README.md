@@ -49,6 +49,7 @@
 - [Arrêté du 20 juillet 1976](arrete-du-20-juillet-1976)
 - [Arrêté du 21 avril 1976](arrete-du-21-avril-1976)
 - [Arrêté du 21 juillet 1976](arrete-du-21-juillet-1976)
+- [Arrêté du 21 septembre 1976](arrete-du-21-septembre-1976)
 - [Arrêté du 21 mai 1976](arrete-du-21-mai-1976)
 - [Arrêté du 22 décembre 1975](arrete-du-22-decembre-1975)
 - [Arrêté du 22 juin 1976](arrete-du-22-juin-1976)
