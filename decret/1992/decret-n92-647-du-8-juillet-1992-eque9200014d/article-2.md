@@ -1,6 +1,6 @@
 # Article 2
 
-Sauf exception visée à l'article 14 ci-après, les produits de construction soumis aux dispositions du présent décret ne peuvent être mis sur le marché que s'ils sont munis du marquage CE défini à l'article 6 ci-dessous.
+Sauf exception visée à l'article 14, les produits de construction soumis aux dispositions du présent décret, fabriqués, importés, détenus en vue de la vente ou de l'utilisation dans les conditions prévues à l'article 1er, distribués à titre gratuit ou vendus doivent être munis du marquage CE défini à l'article 6.
 
 Les produits marqués CE sont présumés aptes à l'usage, c'est-à-dire présenter des caractéristiques telles que les ouvrages dans lesquels ils doivent être utilisés puissent, à condition d'avoir été convenablement conçus et construits, satisfaire aux exigences essentielles suivantes :
 

@@ -1,10 +1,10 @@
 # Article 6
 
-Il incombe au fabricant, ou à son mandataire établi sur le territoire d'un des Etats membres, d'apposer le marquage "CE" sur le produit, sur une étiquette fixée au produit, sur l'emballage ou sur les documents commerciaux d'accompagnement.
+Il incombe au fabricant ou à son mandataire établi sur le territoire d'un des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, ou, à défaut, au responsable de la première mise sur le marché français, d'apposer le marquage CE sur le produit, sur une étiquette fixée au produit, sur son emballage ou sur ses documents d'accompagnement.
 
 Le marquage de conformité est constitué des initiales "CE" selon le graphisme ci-après :
 
-(cliché non reproduit, voir au Journal officiel).
+(Vous pouvez consulter le cliché à l'adresse suivante : http://www.legifrance.gouv.fr/jopdf/common/jo_pdf.jsp?numJO=0&dateJO=19920714&pageDebut=09483&pageFin=09485&pageCourante=09484
 
 En cas de réduction ou d'agrandissement du marquage "CE", les proportions telles qu'elles ressortent du graphisme gradué figurant ci-dessus doivent être respectées.
 
