@@ -12,4 +12,6 @@ Outre les avis conformes qu'il doit émettre en application de l'article 1012 du
 
 4° Les projets de statuts et de règlement intérieur de la caisse.
 
-Le directeur de la caisse, dans le respect de l'organisation et des moyens de celle-ci et à la demande du comité, mettra à la disposition de ce dernier les moyens nécessaires pour remplir les missions qui lui incombent.
+Le comité de protection sociale des non-salariés peut, dans les conditions et limites qu'il fixe, déléguer à un comité restreint, composé de deux administrateurs du premier collège et d'un administrateur du troisième collège, le pouvoir de donner l'avis conforme mentionné au dernier alinéa de l'article 1012 du code rural. Il peut aussi, dans les mêmes conditions, déléguer à ce comité les attributions consultatives énumérées aux 1°, 2° et 4° du deuxième alinéa du présent article.
+
+Le directeur de la caisse, dans le respect de l'organisation et des moyens de celle-ci et à la demande du comité, mettra [*mise*] à la disposition de ce dernier les moyens nécessaires pour remplir les missions qui lui incombent.
