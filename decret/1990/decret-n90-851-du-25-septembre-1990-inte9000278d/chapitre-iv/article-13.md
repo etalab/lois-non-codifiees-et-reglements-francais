@@ -109,3 +109,7 @@ Minimale : 2 ans.
 Dans chaque collectivité ou établissement public d'emploi, le nombre de sous-officiers professionnels est au plus égal au quart d'un effectif de référence de sapeurs-pompiers non officiers comprenant l'ensemble des professionnels ainsi que le nombre des volontaires limité à celui des professionnels.
 
 Le nombre des adjudants de sapeurs-pompiers professionnels ne peut excéder celui des sergents professionnels.
+
+Jusqu'au 31 décembre 2001, dans les collectivités et établissements publics d'emploi où l'effectif des sergents et adjudants professionnels est égal ou supérieur à celui résultant de l'application de l'alinéa précédent, le nombre de sapeurs-pompiers volontaires pris en compte dans l'effectif de référence est porté à une fois et demie celui des professionnels.
+
+Décret 93-135 1993-02-03 art. 26 : Dans tous les textes réglementaires, les termes "sapeurs-pompiers non professionnels" sont remplaçés par les termes "sapeurs-pompiers volontaires"
