@@ -36,6 +36,7 @@
 - [Décret n°2000-376 du 28 avril 2000 (INTD0000109D)](decret-n2000-376-du-28-avril-2000-intd0000109d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)
 - [Décret n°2000-465 du 29 mai 2000 (ECOI0000190D)](decret-n2000-465-du-29-mai-2000-ecoi0000190d)
+- [Décret n°2000-1159 du 30 novembre 2000 (MAEA0020385D)](decret-n2000-1159-du-30-novembre-2000-maea0020385d)
 - [Décret n°2000-286 du 30 mars 2000 (EQUX0000059D)](decret-n2000-286-du-30-mars-2000-equx0000059d)
 - [Décret n°99-1228 du 30 décembre 1999 (DEFP9902155D)](decret-n99-1228-du-30-decembre-1999-defp9902155d)
 - [Décret n° 2000-84 du 31 janvier 2000 (MESC0010122D)](decret-n-2000-84-du-31-janvier-2000-mesc0010122d)
