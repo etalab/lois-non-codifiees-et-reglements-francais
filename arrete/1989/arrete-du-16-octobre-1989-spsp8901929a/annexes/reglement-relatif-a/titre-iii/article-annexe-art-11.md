@@ -4,30 +4,6 @@ La qualification de médecin spécialiste telle qu'elle est prévue par le règl
 
 France
 
-Chirurgie générale (rubrique européenne : "Chirurgie générale").
-
-Allemagne : Chirurgie.
-
-Belgique : Chirurgie-keelkunde.
-
-Danemark : Kirurgi eller kirurgiske sygdomme.
-
-Espagne : Cirugia general y del aparato digestivo.
-
-Grèce : Xeiroyrgixh.
-
-Irlande : General surgery.
-
-Luxembourg : Chirurgie générale.
-
-Pays-Bas : Heelkunde.
-
-Portugal : Cirurgia geral.
-
-Royaume-Uni : General surgery.
-
-France
-
 Electro-radiologie (rubrique européenne : "Radiologie").
 
 Allemagne : Radiologie.

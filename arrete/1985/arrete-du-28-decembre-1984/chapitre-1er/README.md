@@ -5,6 +5,7 @@
 - [1. INDUSTRIES TEXTILES.](1-industries-textiles)
 - [5. ACTIVITES DU GROUPE INTERPROFESSIONNEL.](5-activites-du-groupe-interprofessionnel)
 - [6. DEPARTEMENTS D'OUTRE-MER.](6-departements-d-outre-mer)
+- [8. VENDEURS A DOMICILE.](8-vendeurs-a)
 - [6. DEPARTEMENTS D'OUTRE-MER *DOM*](6-departements-d-outre-mer-dom)
 - [2. INDUSTRIES ET COMMERCES DE L'ALIMENTATION.](2-industries-et)
 - [3. INDUSTRIES DES TRANSPORTS ET DE LA MANUTENTION.](3-industries-des-transports-et)

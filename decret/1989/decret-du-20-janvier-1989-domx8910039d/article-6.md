@@ -1,3 +1,7 @@
 # Article 6
 
-Le ministre d'Etat, ministre de l'économie, des finances et du budget, le ministre des départements et territoires d'outre-mer, le ministre de l'agriculture et de la forêt, le ministre de la solidarité, de la santé et de la protection sociale, porte-parole du Gouvernement, et le ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé du budget, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+Les actions envisagées par l'Etat au titre de sa participation financière prévue à l'article 2 du présent décret sont intégrées dans les prévisions que le préfet transmet au conseil départemental d'insertion en application du deuxième alinéa de l'article 36 de la loi du 1er décembre 1988 susvisée.
+
+Les crédits correspondants sont délégués au préfet, en totalité, dès que le programme est arrêté.
+
+En fin de gestion, les préfets adressent au Gouvernement un rapport sur l'utilisation des crédits, les actions entreprises et les résultats obtenus.

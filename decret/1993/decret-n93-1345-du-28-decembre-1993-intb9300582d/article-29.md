@@ -1,0 +1,3 @@
+# Article 29
+
+Le ministre d'Etat, ministre des affaires sociales, de la santé et de la ville, le ministre d'Etat, ministre de l'intérieur et de l'aménagement du territoire, le ministre du budget, porte-parole du Gouvernement, le ministre de l'enseignement supérieur et de la recherche et le ministre délégué à l'aménagement du territoire et aux collectivités locales sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, dont les articles 1er, 2, 5, 6, 11, 12, 14, 15, 16, 17, 18, 19, 20, paragraphes I à VI et paragraphes IX et X, 21, 22, paragraphes I à VI et paragraphes IX et X, 23, 25, 26, 27 et 28, prennent effet au 1er août 1993 et qui sera publié au Journal officiel de la République française.

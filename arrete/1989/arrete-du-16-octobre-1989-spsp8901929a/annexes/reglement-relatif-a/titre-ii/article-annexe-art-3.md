@@ -66,6 +66,30 @@ Italie : Patologia diagnostica di laboratorio.
 
 Portugal : Patologia clinica.
 
+France : chirurgie générale (rubrique européenne : Chirurgie générale ;
+
+Allemagne : chirurgie ;
+
+Belgique : chirurgie heelkunde ;
+
+Danemark : Kirurgi eller Kirurgiske sygdomme ;
+
+Espagne : cirurgia general y del aparato digestivo ;
+
+Grèce : xeIromrggxh ;
+
+Irlande : general surgery ;
+
+Italie : chirurgia generale ;
+
+Luxembourg : chirurgie générale ;
+
+Pays-Bas : heelkunde ;
+
+Portugal : cirurgia geral ;
+
+Royaume-Uni : general surgery.
+
 France
 
 Chirurgie infantile (rubrique européenne : "Chirurgie pédiatrique").
@@ -234,7 +258,9 @@ Pays-Bas : Dermatologie en venerologie.
 
 Portugal : Dermatovenereologia.
 
-France Endocrinologie - maladies métaboliques (rubrique européenne :
+France
+
+Endocrinologie - maladies métaboliques (rubrique européenne :
 
 "Endocrinologie").
 
@@ -642,7 +668,9 @@ Portugal : Radiodiagnostico.
 
 Royaume-Uni : Diagnostic radiology.
 
-France Rééducation et réadaptation fonctionnelles (rubrique européenne : "Physiothérapie").
+France
+
+Rééducation et réadaptation fonctionnelles (rubrique européenne : "Physiothérapie").
 
 Belgique : Médecine physique/Fysische-geneeskunde.
 

@@ -4,3 +4,4 @@
 - [Titre II : De la scolarité](titre-ii)
 - [Titre III : De l'administration de l'école.](titre-iii)
 - [Titre IV : Dispositions transitoires et diverses.](titre-iv)
+- [Article 59](article-59.md)
