@@ -1,0 +1,3 @@
+# Article 10
+
+Un représentant du ministre auprès duquel les fonctionnaires visés à l'article 1er (alinéa 1) ci-dessus sont placés en position de détachement participe de plein droit, avec voix consultative, aux travaux des commissions administratives paritaires appelées à émettre un avis sur les tableaux d'avancement auxquels les intéressés peuvent prétendre à être inscrits. A cet effet, ce ministre reçoit, en temps utile, communication des documents fournis aux membres des commissions paritaires et des dispositions envisagées en faveur des fonctionnaires accomplissant une mission de coopération.
