@@ -9,6 +9,7 @@
 - [Loi n° 2002-1094 du 29 août 2002 (INTX0200114L)](loi-n-2002-1094-du-29-aout-2002-intx0200114l)
 - [Loi n° 2002-1095 du 29 août 2002 (SOCX0200120L)](loi-n-2002-1095-du-29-aout-2002-socx0200120l)
 - [Loi n° 2002-1138 du 9 septembre 2002 (JUSX0200117L)](loi-n-2002-1138-du-9-septembre-2002-jusx0200117l)
+- [Loi n° 2002-1487 du 20 décembre 2002 (SANX0200141L)](loi-n-2002-1487-du-20-decembre-2002-sanx0200141l)
 - [Loi n° 2002-214 du 19 février 2002 (INTX0100196L)](loi-n-2002-214-du-19-fevrier-2002-intx0100196l)
 - [Loi n° 2002-268 du 26 février 2002 (JUSX0205311L)](loi-n-2002-268-du-26-fevrier-2002-jusx0205311l)
 - [Loi n° 2002-276 du 27 février 2002 (INTX0100065L)](loi-n-2002-276-du-27-fevrier-2002-intx0100065l)

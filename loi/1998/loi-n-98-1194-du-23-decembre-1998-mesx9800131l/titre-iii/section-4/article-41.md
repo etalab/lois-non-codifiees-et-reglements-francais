@@ -14,7 +14,7 @@ Le bénéfice de l'allocation de cessation anticipée d'activité est ouvert aux
 
 2° Avoir atteint un âge déterminé qui pourra varier en fonction de la durée du travail dans le port sans pouvoir être inférieur à cinquante ans.
 
-Ont également droit, dès l'âge de cinquante ans, à l'allocation de cessation anticipée d'activité les salariés ou anciens salariés reconnus atteints au titre du régime général d'une maladie professionnelle provoquée par l'amiante et figurant sur une liste établie par arrêté des ministres chargés du travail et de la sécurité sociale.
+Ont également droit, dès l'âge de cinquante ans, à l'allocation de cessation anticipée d'activité les personnes reconnues atteintes, au titre du régime général ou du régime d'assurance contre les accidents du travail et les maladies professionnelles des salariés agricoles, d'une maladie professionnelle provoquée par l'amiante et figurant sur une liste établie par arrêtés des ministres chargés du travail, de la sécurité sociale et de l'agriculture.
 
 Le bénéfice de l'allocation de cessation anticipée d'activité ne peut se cumuler ni avec l'un des revenus ou l'une des allocations mentionnés à l'article L. 131-2 du code de la sécurité sociale, ni avec un avantage personnel de vieillesse, ni avec un avantage d'invalidité, ni avec une allocation de préretraite ou de cessation anticipée d'activité, sous réserve des dispositions de l'alinéa suivant.
 
@@ -22,17 +22,17 @@ Une allocation différentielle peut être versée en complément d'une pension d
 
 II. - Le montant de l'allocation est calculé en fonction de la moyenne actualisée des salaires mensuels bruts des douze derniers mois d'activité salariée du bénéficiaire pour lesquels ne sont pas prises en compte dans des conditions prévues par décret, certaines périodes d'activité donnant lieu à rémunération réduite. Il est revalorisé comme les avantages alloués en application du deuxième alinéa de l'article L. 322-4 du code du travail.
 
-L'allocation est attribuée et servie par les caisses régionales d'assurance maladie.
+L'allocation est attribuée et servie par les caisses régionales d'assurance maladie. Pour les personnes reconnues atteintes, au titre du régime d'assurance contre les accidents du travail et les maladies professionnelles des salariés agricoles, d'une maladie professionnelle, l'allocation est attribuée et servie par les caisses de mutualité sociale agricole.
 
 L'allocation cesse d'être versée lorsque le bénéficiaire remplit les conditions requises pour bénéficier d'une pension de vieillesse au taux plein, telle qu'elle est définie aux articles L. 351-1 et L. 351-8 du code de la sécurité sociale.
 
-III. - Il est créé un Fonds de cessation anticipée d'activité des travailleurs de l'amiante, chargé de financer l'allocation visée au I. Ses ressources sont constituées d'une fraction égale à 0,39 % du produit du droit de consommation prévu à l'article 575 du code général des impôts et d'une contribution de la branche accidents du travail et maladies professionnelles du régime général de la sécurité sociale, dont le montant est fixé chaque année par la loi de financement de la sécurité sociale.
+III. - Il est créé un Fonds de cessation anticipée d'activité des travailleurs de l'amiante, chargé de financer l'allocation visée au I. Ses ressources sont constituées d'une fraction égale à 0,35 % du produit du droit de consommation prévu à l'article 575 du code général des impôts, d'une contribution de la branche accidents du travail et maladies professionnelles du régime général de la sécurité sociale dont le montant est fixé chaque année par la loi de financement de la sécurité sociale et d'une contribution de la branche accidents du travail et maladies professionnelles du régime des salariés agricoles dont le montant est fixé chaque année par arrêtés des ministres chargés de la sécurité sociale, du budget et de l'agriculture.
 
-Un conseil de surveillance, composé de représentants de l'Etat, de représentants de la commission des accidents du travail et des maladies professionnelles mentionnée à l'article L. 221-4 du code de la sécurité sociale et de personnalités qualifiées, veille au respect des dispositions du présent article. Il examine les comptes du fonds et transmet au Parlement et au Gouvernement un rapport annuel retraçant l'activité du fonds et formulant toutes observations relatives à son fonctionnement.
+Un conseil de surveillance, composé de représentants de l'Etat, de représentants de la commission des accidents du travail et des maladies professionnelles mentionnée à l'article L. 221-4 du code de la sécurité sociale, des représentants du conseil central d'administration de la mutualité sociale agricole mentionné à l'article L. 723-32 du code rural et de personnalités qualifiées, veille au respect des dispositions du présent article. Il examine les comptes du fonds et transmet au Parlement et au Gouvernement, avant le 15 juillet, un rapport annuel retraçant l'activité du fonds et formulant toutes observations relatives à son fonctionnement.
 
 IV. - L'allocation de cessation anticipée d'activité est assujettie aux mêmes cotisations et contributions sociales que les revenus et allocations mentionnés au deuxième alinéa de l'article L. 131-2 du code de la sécurité sociale.
 
-Les personnes percevant cette allocation et leurs ayants droit bénéficient des prestations en nature des assurances maladie et maternité du régime général.
+Les personnes percevant cette allocation et leurs ayants droit bénéficient des prestations en nature des assurances maladie et maternité du régime dont elles relevaient avant la cessation d'activité.
 
 Le fonds des travailleurs de l'amiante assure, pendant la durée du versement de l'allocation de cessation anticipée d'activité, le financement des cotisations à l'assurance volontaire mentionnée à l'article L. 742-1 du code de la sécurité sociale ainsi que le versement de l'ensemble des cotisations aux régimes de retraite complémentaire mentionnés à l'article L. 921-1 du même code.
 
