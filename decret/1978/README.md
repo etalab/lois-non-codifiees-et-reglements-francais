@@ -4,6 +4,7 @@
 - [Décret du 2 mars 1978](decret-du-2-mars-1978)
 - [Décret n°78-838 du 2 août 1978](decret-n78-838-du-2-aout-1978)
 - [Décret n°78-15 du 3 janvier 1978](decret-n78-15-du-3-janvier-1978)
+- [Décret n°78-20 du 3 janvier 1978](decret-n78-20-du-3-janvier-1978)
 - [Décret n°78-520 du 3 avril 1978](decret-n78-520-du-3-avril-1978)
 - [Décret n°78-526 du 3 avril 1978](decret-n78-526-du-3-avril-1978)
 - [Décret n°78-704 du 3 juillet 1978](decret-n78-704-du-3-juillet-1978)

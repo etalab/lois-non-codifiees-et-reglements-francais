@@ -1,6 +1,6 @@
 # Article 1
 
-Peuvent être employées en qualité de technicien dans un laboratoire d'analyses de biologie médicale les personnes titulaires de l'un des titres ou diplômes suivants [*conditions d'exercice de la profession*] :
+Peuvent être employées en qualité de technicien dans un laboratoire d'analyses de biologie médicale les personnes titulaires de l'un des titres ou diplômes suivants :
 
 Attestation de réussite aux épreuves pratiques du diplôme d'Etat de laborantin d'analyses médicales ou attestation de dispense de ces épreuves ;
 
@@ -62,10 +62,12 @@ Brevet de technicien agricole (option Laboratoire agricole) ;
 
 Brevet de technicien supérieur de biophysicien de laboratoire délivré par l'école technique supérieure du laboratoire, 93-95, rue du Dessous-des-Berges, Paris (13e) ;
 
-Certificat de formation professionnelle délivré par le centre universitaire de cure et de réadaptation de Bouffémont (spécialité Technicien biochimiste) ;
+Titre professionnel délivré par le centre universitaire de cure et de réadaptation de Bouffémont (spécialité Technicien biochimiste) ;
 
 Diplôme de technicien de laboratoire du centre de Vienne délivré par l'association nationale pour la formation professionnelle des adultes ruraux ;
 
 Diplôme de technicien supérieur physicien chimiste délivré par l'association pour la formation professionnelle des adultes ;
 
-Brevet professionnel des techniques d'analyses de biologie médicale assorti du certificat de scolarité du Centre national d'enseignement à distance.    Diplôme d'études universitaires scientifiques et techniques, spécialité Analyses des milieux biologiques, délivré par l'université de Corte.
+Brevet professionnel des techniques d'analyses de biologie médicale assorti du certificat de scolarité du Centre national d'enseignement à distance.
+
+Diplôme d'études universitaires scientifiques et techniques, spécialité Analyses des milieux biologiques, délivré par l'université de Corte.

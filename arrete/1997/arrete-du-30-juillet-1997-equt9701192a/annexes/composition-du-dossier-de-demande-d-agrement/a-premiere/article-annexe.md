@@ -16,7 +16,7 @@ b) Expérience en matière de formation professionnelle qualifiante dans le tran
 
 - copie de la décision portant agrément technique pour les établissements autorisés à valider une formation professionnelle par la délivrance de l'un des titres suivants du ministère chargé du travail, de l'emploi et de la formation professionnelle :
 
-- certificat de formation professionnelle de conducteur routier de marchandises (CFP M 128 ou CFP M 148) ;
+- titre professionnel de conducteur routier de marchandises (CFP M 128 ou CFP M 148) ;
 
 - certificat de formation technique aux métiers du transport (CFTT) (étant précisé que ce titre n'est plus homologué depuis le 31 janvier 1997) ;
 

@@ -272,7 +272,7 @@ Graisseur et électricien titulaires d'un certificat d'ouvrier spécialisé
 
 Ou d'un C.A.P. de l'enseignement technique ;
 
-Ou d'un brevet élémentaire de mécanicien de la marine délivré par les écoles de Saint-Mandrier et de Lorient ou du certificat de formation professionnelle accélérée ;
+Ou d'un brevet élémentaire de mécanicien de la marine délivré par les écoles de Saint-Mandrier et de Lorient ou du titre professionnel accélérée ;
 
 Ou ayant passé avec succès un examen organisé dans le cadre d'une entreprise après avoir rempli dans cette entreprise les fonctions de graisseur pendant 10 ans ;
 

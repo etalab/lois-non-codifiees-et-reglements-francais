@@ -1,6 +1,6 @@
 # Article 2
 
-Pour l'application du présent décret [*définition*] :
+Pour l'application du présent décret :
 
 L'expression "matelot patron" désigne le marin qui est seul à bord ou avec un ou plusieurs marins de moins de dix-huit ans ;
 
@@ -18,7 +18,7 @@ Certificat d'aptitude professionnelle maritime,
 
 Certificat d'aptitude professionnelle de l'enseignement technique,
 
-Certificat de formation professionnelle des adultes,
+Titre professionnel des adultes,
 
 Brevet élémentaire de mécanicien ou d'armurier de la marine nationale.
 

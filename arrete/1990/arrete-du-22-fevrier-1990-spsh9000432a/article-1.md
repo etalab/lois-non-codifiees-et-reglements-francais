@@ -52,11 +52,11 @@ Diplôme de chimie appliquée délivré au plus tard le 4 décembre 1974 par le 
 
 Attestation de scolarité de laborantin délivrée par le centre de postcure et de réadaptation professionnelle Beauvoir de la caisse régionale d'assurance maladie de Paris (formation d'Evry) ;
 
-Certificat de formation professionnelle de technicien de laboratoire biologique délivré par le ministère des affaires sociales et de l'emploi à l'issue de la formation assurée par le centre de postcure et de réadaptation professionnelle Beauvoir, à Evry (Essonne) ;
+Titre professionnel de technicien de laboratoire biologique délivré par le ministère des affaires sociales et de l'emploi à l'issue de la formation assurée par le centre de postcure et de réadaptation professionnelle Beauvoir, à Evry (Essonne) ;
 
-Certificat de formation professionnelle délivré par le centre universitaire de cure et de réadaptation de Bouffémont (spécialité Technicien biochimiste) ;
+Titre professionnel délivré par le centre universitaire de cure et de réadaptation de Bouffémont (spécialité Technicien biochimiste) ;
 
-Certificat de formation professionnelle de technicien biochimiste délivré par le ministère des affaires sociales et de l'emploi à l'issue de la formation assurée par le centre de cure et de réadaptation de Bouffémont (Val-d'Oise) ;
+Titre professionnel de technicien biochimiste délivré par le ministère des affaires sociales et de l'emploi à l'issue de la formation assurée par le centre de cure et de réadaptation de Bouffémont (Val-d'Oise) ;
 
 Diplôme de technicienne de laboratoire de biochimie-biologie clinique délivré par l'école supérieure de technicienne de biochimie-biologie de la faculté catholique des sciences de Lyon ;
 

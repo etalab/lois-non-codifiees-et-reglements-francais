@@ -20,6 +20,6 @@ Les techniciens de laboratoire sont recrutés par voie de concours sur titres ou
 
 9° Le diplôme de technicien supérieur de laboratoire Biochimie-biologie ou le diplôme de technicien de laboratoire Biochimie-biologie clinique délivré par l'Ecole supérieure de technicien Biochimie-biologie de la faculté catholique des sciences de Lyon ;
 
-10° Le certificat de formation professionnelle de technicien supérieur physicien chimiste homologué par la commission technique d'homologation des titres et diplômes de l'enseignement technologique du ministère du travail.
+10° Le titre professionnel de technicien supérieur physicien chimiste homologué par la commission technique d'homologation des titres et diplômes de l'enseignement technologique du ministère du travail.
 
 Un arrêté du ministre chargé de la santé fixe la composition du jury et les modalités d'organisation de ce concours.
