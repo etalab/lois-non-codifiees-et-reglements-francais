@@ -1,3 +1,0 @@
-# Article 27 bis
-
-Le ministre des transports peut, si l'état du marché des transports le justifie, autoriser la délivrance à une entreprise d'une licence de zone courte d'un département sur le registre duquel elle est inscrite, lorsque cette entreprise renonce à une licence de zone courte de même classe d'un autre département. Toutefois, si ce dernier département a fait l'objet d'une extension mentionnée au II a de l'article 26, l'autorisation ne peut être donnée qu'à titre exceptionnel, si elle est nécessaire à l'entreprise pour suivre les besoins d'une clientèle qui déplace ses activités et si l'entreprise disposait de la licence avant l'extension.
