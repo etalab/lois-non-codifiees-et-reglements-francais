@@ -1,3 +1,0 @@
-# Article 20
-
-Autorisation relative à une source scellée radioactive : Tout exploitant qui envisage de détenir et de mettre en oeuvre une source scellée radioactive doit en demander l'autorisation à la commission interministérielle des radioéléments artificiels en mentionnant l'activité, la nature du radioélément, les moyens de détection dont il dispose, ainsi que toute autre information prévue dans le cadre des dispositions du code de la santé publique. Si l'autorisation est accordée, l'exploitant est tenu de le porter à la connaissance du directeur régional de l'industrie et de la recherche. Il doit également déclarer à cette commission et au directeur régional de l'industrie et de la recherche toute cessation d'emploi d'une telle source.

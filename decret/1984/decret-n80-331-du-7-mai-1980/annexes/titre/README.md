@@ -5,4 +5,3 @@
 - [Section 2 : Dispositions complémentaires pour les exploitations à ciel ouvert](section-2)
 - [Section 3 : Dispositions complémentaires pour les exploitations souterraines](section-3)
 - [Première partie : Protection du personnel](premiere-partie)
-- [Deuxième partie : Protection de l'environnement](deuxieme-partie)

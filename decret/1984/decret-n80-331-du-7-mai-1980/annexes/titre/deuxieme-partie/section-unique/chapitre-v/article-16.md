@@ -1,3 +1,0 @@
-# Article 16
-
-Voies de transfert des substances radioactives vers les populations : Dans le cas visé au premier tiret du premier alinéa de l'article 15, l'exploitant doit établir, au plus tard deux ans après l'ouverture des travaux, la liste des principales voies de transfert vers les populations des substances radioactives provenant de l'exploitation et de ses installations. Tous les deux ans, la teneur en radium 226 et en uranium doit être déterminée aux principaux maillons des chaînes de transfert. En fonction des résultats ainsi obtenus, l'exploitant détermine les quantités de radium 226 et d'uranium susceptibles d'être ingérées par les personnes du public les plus exposées et calcule les taux d'exposition correspondants.
