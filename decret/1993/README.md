@@ -433,6 +433,7 @@
 - [Décret n°93-1116 du 16 septembre 1993 (BUDB9360036D)](decret-n93-1116-du-16-septembre-1993-budb9360036d)
 - [Décret n°93-1117 du 16 septembre 1993 (ACVP9320032D)](decret-n93-1117-du-16-septembre-1993-acvp9320032d)
 - [Décret n°93-1237 du 16 novembre 1993 (COMK9300007D)](decret-n93-1237-du-16-novembre-1993-comk9300007d)
+- [Décret n°93-1251 du 16 novembre 1993 (AGRP9301553D)](decret-n93-1251-du-16-novembre-1993-agrp9301553d)
 - [Décret n°93-213 du 16 février 1993 (MENT9304082D)](decret-n93-213-du-16-fevrier-1993-ment9304082d)
 - [Décret n°93-214 du 16 février 1993 (MENT9304083D)](decret-n93-214-du-16-fevrier-1993-ment9304083d)
 - [Décret n°93-219 du 16 février 1993 (PRMX9210438D)](decret-n93-219-du-16-fevrier-1993-prmx9210438d)
