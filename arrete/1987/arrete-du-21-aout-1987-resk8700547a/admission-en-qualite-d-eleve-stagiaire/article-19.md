@@ -1,0 +1,3 @@
+# Article 19
+
+En fonction des résultats obtenus à l'examen probatoire, le jury, nommé par le directeur de l'Ecole centrale après avis du conseil d'administration, dresse la liste des candidats autorisés à subir les épreuves orales. Celles-ci sont communes à celles que subissent les candidats au concours d'admission en première année en qualité d'élève-ingénieur, à l'exception de l'épreuve de langue vivante étrangère dont ils sont dispensés. Le jury établit la liste, par ordre de mérite, des candidats proposés pour une admission définitive en fonction des résultats qu'ils ont obtenus à la totalité des épreuves du concours. Il établit également la liste complémentaire.
