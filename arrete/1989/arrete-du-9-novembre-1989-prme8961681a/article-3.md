@@ -12,9 +12,25 @@ Pour les constructions et voies extérieures elle est égale à :
 
 d = 3,12 M0,425 (seuil de létalité).
 
+sauf pour le butane où elle est égale à :
+
+d = 1,72 M0,437
+
+et pour le propane où elle est égale à :
+
+d = 1,92 M0,442.
+
 Pour les constructions et voies extérieures importantes elle est égale à :
 
 d = 4,71 M0,405 (seuil des brûlures significatives).
+
+sauf pour le butane où elle est égale à :
+
+d = 2,44 M0,427
+
+et pour le propane où elle est égale à :
+
+d = 2,97 M0,425.
 
 (d s'exprime en mètres, M est la masse maximale de gaz liquéfié contenu dans le réservoir, exprimée en kilogrammes).
 
@@ -32,7 +48,7 @@ Pour les constructions et voies extérieures importantes elle est égale à :
 
 d = 22 3 M (seuil des blessures réversibles).
 
-(d s'exprime en mètres, M est la masse maximale de gaz libérable en cas de rupture d'une canalisation visée à l'article 2.3, c'est-à-dire la quantité contenue entre les dispositifs prévus au point 23.2 et la première vanne de sectionnement rapide située au-delà de ceux-ci).
+(   d s'exprime en mètres, M est la masse maximale de gaz libérable en cas de rupture d'une canalisation visée à l'article 2.3, c'est-à-dire la quantité contenue entre les dispositifs prévus au point 23.2 et la première vanne de sectionnement rapide située au-delà de ceux-ci).
 
 Toutefois, lorsque l'implantation du réservoir concourt à améliorer la sécurité de l'établissement par le remplacement de réservoirs aériens ne satisfaisant pas certaines des conditions définies au présent article en raison de leur antériorité à la date de publication du présent arrêté, le préfet peut autoriser une distance de la paroi à la clôture inférieure à 50 mètres, sans toutefois être inférieure à 30 mètres, dans l'un des cas suivants :
 
