@@ -1,0 +1,3 @@
+# Article 57
+
+Les médecins chefs sont tenus aux obligations qui sont imposées aux médecins des établissements d'aliénés par la loi du 30 juin 1838. Ils sont chargés notamment de régler dans leur service le mode de placement, de surveillance et de traitement des malades, de fixer les travaux et exercices auxquels ils peuvent être occupés. Ils déterminent la thérapeutique et ont seuls qualité pour prescrire les bains et douches, le placement en chambre d'isolement et l'emploi des moyens de contrainte. Ils doivent rédiger les bulletins de santé constatant l'état physique et mental des malades et les faire transmettre aux familles quand elles les demandent.
