@@ -1,0 +1,3 @@
+# Article 1
+
+Les chefs d'établissements assujettis au décret du 14 novembre 1962 qui se proposent de mettre en oeuvre la mise des masses au neutre prévue à l'article 39 de ce texte, en vue d'assurer la protection des travailleurs contre les risques de contact avec des masses mises accidentellement sous tension, doivent se conformer aux dispositions prévues à cet effet par la norme NF C 15-100 relative aux installations électriques à basse tension, notamment les paragraphes 413-1 et 413-2 ; cette norme a été homologuée par arrêté du 29 juillet 1977 du ministre de l'industrie, du commerce et de l'artisanat.
