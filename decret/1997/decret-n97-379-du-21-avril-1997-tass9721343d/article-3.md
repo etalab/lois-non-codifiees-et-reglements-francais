@@ -13,3 +13,5 @@ Le montant plafond de l'allocation servie aux médecins ayant adhéré au dispos
 Ces montants plafonds sont revalorisés chaque année dans les mêmes proportions que l'allocation mentionnée à l'article L. 811-1 du code de la sécurité sociale.
 
 Le montant plafond applicable aux allocations versées aux médecins adhérant au dispositif de cessation anticipée d'activité à compter du 1er janvier 1999 est celui fixé pour les médecins âgés de soixante à soixante-quatre ans.
+
+Le montant plafond de l'allocation servie aux médecins âgés de cinquante-sept à cinquante-neuf ans adhérant au dispositif de cessation anticipée d'activité à compter du 1er octobre 2000 est fixé à 100 000 F.
