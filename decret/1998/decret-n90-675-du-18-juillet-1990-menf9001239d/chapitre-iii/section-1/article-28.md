@@ -164,7 +164,7 @@
 </tbody>
 </table>
 
-2° Les personnels de direction de 1re catégorie, 2e classe, et de 2e catégorie, 1re classe, sont classés, lors de leur titularisation dans la classe normale, conformément au tableau ci-dessous :
+2° Les personnels de direction de 1re classe, sont classés, lors de leur titularisation dans la classe normale, conformément au tableau ci-dessous :
 
 <table>
 <tbody>
@@ -328,7 +328,7 @@
 </tbody>
 </table>
 
-3° Les professeurs des universités de 2e classe, les maîtres de conférences hors classe, les maîtres de conférences de 1re classe, les maîtres-assistants de 1re classe, les professeurs agrégés hors classe, les professeurs de chaire supérieure, les personnels de direction de 1re catégorie, 1re classe, et les inspecteurs de l'éducation nationale sont classés, lors de leur titularisation, à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine.
+3° Les professeurs des universités de 2e classe, les maîtres de conférences, les maîtres-assistants de 1re classe, les professeurs agrégés hors classe, les professeurs de chaire supérieure, les personnels de direction hors classe, et les inspecteurs de l'éducation nationale sont classés, lors de leur titularisation, à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine.
 
 Dans la limite de la durée exigée par les dispositions statutaires régissant leur nouveau corps pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
 
