@@ -1,0 +1,3 @@
+# Article 1
+
+Les mairies de Mayotte, le greffe du tribunal de première instance de Mamoudzou, le service de l'état civil du ministère de l'outre-mer, pour les besoins de la tenue des registres de l'état civil de droit commun et de droit local applicable à Mayotte, ainsi que la commission de révision de l'état civil instituée par l'article 18 de l'ordonnance n° 2000-218 du 8 mars 2000 susvisée, pour les besoins de la gestion des dossiers relatifs aux demandes tendant à faire établir un des actes prévus à l'article 20 de ladite ordonnance, sont autorisés à enregistrer et conserver les données à caractère personnel relatives à la polygamie et au statut civil des personnes qui relèvent des données visées par l'article 31 de la loi du 6 janvier 1978 susvisée.

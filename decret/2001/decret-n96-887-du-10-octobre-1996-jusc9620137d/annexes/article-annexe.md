@@ -220,13 +220,15 @@ L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordo
 
 Article 23
 
-La rétribution est versée à l'avocat désigné, selon le cas :
+La rétribution est versée, selon le cas, à l'avocat :
 
-- dans la décision du bureau d'aide juridictionnelle ;
+a) Mentionné dans la décision du bureau d'aide juridictionnelle ;
 
-- dans la décision du président de ce bureau pour les interventions en matière de médiation ou de composition pénales ou au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée ;
+b) Mentionné dans la décision du président de ce bureau pour les interventions en matière de médiation ou de composition pénales ou au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée ;
 
-- par le bâtonnier pour les interventions au cours de la garde à vue et pour l'aide à l'intervention de l'avocat pour l'assistance aux détenus au cours de procédures disciplinaires.
+c) Désigné par le bâtonnier pour les interventions au cours de la garde à vue ;
+
+d) Désigné par le bâtonnier ou choisi par le détenu pour les interventions en matière d'assistance aux détenus au cours de procédures disciplinaires.
 
 Toutefois, en cas de changement d'avocat en cours de procédure, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'attestation de fin de mission transactionnelle, sous réserve des règles de répartition prévues à l'article 103 du décret du 19 décembre 1991 précité.
 

@@ -1,4 +1,4 @@
-# TITRE Ier : Professeurs des universités et maîtres de conférences associés ou invités à temps plein.
+# Arrêté du 31 juillet 2002 relatif aux classes à horaires aménagés pour les enseignements artistiques renforcés destinés aux élèves des écoles et des collèges
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
