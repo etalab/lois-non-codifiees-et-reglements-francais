@@ -315,6 +315,7 @@
 - [Arrêté du 13 août 1999 (AGRP9901758A)](arrete-du-13-aout-1999-agrp9901758a)
 - [Arrêté du 13 août 1999 (AGRP9901759A)](arrete-du-13-aout-1999-agrp9901759a)
 - [Arrêté du 13 août 1999 (EQUU9900897A)](arrete-du-13-aout-1999-equu9900897a)
+- [Arrêté du 13 décembre 1999 (PRMX9903831A)](arrete-du-13-decembre-1999-prmx9903831a)
 - [Arrêté du 13 janvier 1999 (ECOC9800139A)](arrete-du-13-janvier-1999-ecoc9800139a)
 - [Arrêté du 13 janvier 1999 (EQUP9900038A)](arrete-du-13-janvier-1999-equp9900038a)
 - [Arrêté du 13 juillet 1999 (AGRS9901516A)](arrete-du-13-juillet-1999-agrs9901516a)
