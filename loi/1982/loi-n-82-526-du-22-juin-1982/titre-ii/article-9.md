@@ -1,0 +1,11 @@
+# Article 9
+
+Lorsque le contrat initial de location a été conclu pour une durée au moins égale à six ans, le bailleur personne physique peut, au terme de chaque année du contrat et selon les règles prévues à l'article 17, résilier le contrat de location, à la condition qu'une clause de ce contrat l'y autorise, en vue de reprendre le logement pour l'habiter lui-même ou le faire habiter par son conjoint, ses ascendants, ses descendants ou par ceux de son conjoint. Toutefois, les parties peuvent convenir, aux lieu et place du terme de l'année du contrat, d'une autre date dans l'année pour l'exercice du droit de résiliation en vue de reprendre le logement pendant le cours du contrat initial, sans que cette date puisse être fixée avant le terme de la première année du contrat. Le bénéficiaire de la reprise doit occuper le logement dans les six mois suivant le départ du locataire et pendant une durée qui ne peut être inférieure à deux ans à compter de l'expiration du délai de préavis prévu à l'article 17.
+
+A l'expiration du contrat initial ou du contrat renouvelé, quelle qu'ait été la durée du contrat initial, le bailleur personne physique peut refuser de renouveler le contrat de location en vue de reprendre le logement dans les conditions prévues au présent article.
+
+A l'expiration du délai de préavis, le locataire est déchu de plein droit de tout titre d'occupation sur le logement.
+
+Lors de chaque renouvellement, quelle qu'ait été la durée du contrat initial, le bailleur personne physique peut insérer dans le contrat, s'il ne la contient déjà, une clause autorisant le droit de résiliation du contrat en vue de reprendre le logement dans les conditions prévues au présent article.
+
+Lorsque le bailleur personne physique ou son conjoint est établi hors de France, et pour ce qui concerne sa résidence, le bailleur, si lui-même ou son conjoint est tenu, par suite d'un cas de force majeure, de rentrer en France, peut à tout moment résilier le contrat de location, selon les règles prévues à l'article 17 et à condition qu'une clause de ce contrat l'y autorise, en vue de reprendre le logement pour l'habiter lui-même ou le faire habiter par son conjoint, dans les conditions mentionnées au présent article. Toutefois, la résiliation du contrat de location ne peut intervenir pendant la première année du contrat.

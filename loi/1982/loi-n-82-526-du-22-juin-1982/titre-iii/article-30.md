@@ -1,0 +1,3 @@
+# Article 30
+
+Chacune des associations mentionnées à l'article 29 notifie au bailleur et, le cas échéant, au gestionnaire, et, dans les immeubles soumis au statut de la copropriété, au syndic, par lettre recommandée avec demande d'avis de réception, le nom de ses représentants statutaires dont le nombre ne peut être supérieur à trois ou, dans les bâtiments d'habitation ou les ensembles de bâtiments d'habitation qui comportent plus de 200 logements locatifs, à cinq. Les représentants statutaires devront être choisis parmi les locataires du bâtiment d'habitation ou de l'ensemble de bâtiments d'habitation.

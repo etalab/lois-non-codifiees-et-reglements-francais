@@ -22,8 +22,12 @@ Soit d'une pension de grand invalide de guerre ouvrant droit au bénéfice des d
 
 Soit d'une rente d'invalide du travail correspondant à une incapacité au moins égale à 80 p. 100.
 
-En cas de sous-location, la majoration de 50 p. 100 ne s'applique pas aux locataires ou occupants qui sous-louent une ou plusieurs pièces lorsqu'ils occupent suffisamment les locaux compte non tenu de ces pièces ou qu'ils appartiennent aux catégories visées aux 1° et 2° ci-dessus, à la condition que la sous-location soit conclue au profit de personnes appartenant à des catégories déterminées par arrêté interministériel.
+Soit d'une allocation servie à toute personne dont l'infirmité entraîne au moins 80 p. 100 d'incapacité permanente et qui est qualifiée Grand infirme en application de l'article 169 du code de la famille et de l'aide sociale.
 
-Pour l'application des dispositions ci-dessus, sont, sauf preuve contraire, présumées sous-locataires les personnes vivant de façon continue au foyer du locataire ou de l'occupant, dès lors qu'elles ne présentent avec ce dernier aucun lien de parenté ou d'alliance au sens de la loi ou qu'elles ne sont ni à sa charge ni à son service.
+En cas de sous-location, la majoration de 50 p. 100 ne s'applique pas aux locataires ou occupants qui sous-louent une ou plusieurs pièces lorsqu'ils occupent suffisamment les locaux compte tenu de ces pièces ou qu'ils appartiennent aux catégories visées aux 1° et 2° ci-dessus, à la condition que la sous-location soit conclue au profit de personnes appartenant à des catégories déterminées par arrêté interministériel.
 
-Les majorations de 50 p. 100 prévues au présent article ne peuvent se cumuler.
+Pour l'application des dispositions ci-dessus, sont, sauf preuve contraire, présumées sous-locataires les personnes vivant de façon continue au foyer du locataire ou de l'occupant, des lors qu'elles ne présentent avec ce dernier aucun lien de parenté ou d'alliance au sens de la loi ou qu'elles ne sont ni à sa charge ni à son service.
+
+Les majorations de 50 p. 100 prévues au présent article ne peuvent se cumuler (1).
+
+(1) Les majorations de 50 p. 100 prévues à cet article ont pris effet à compter du 1er janvier 1968.
