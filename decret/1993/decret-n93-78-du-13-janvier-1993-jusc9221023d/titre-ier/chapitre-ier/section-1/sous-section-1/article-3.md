@@ -1,6 +1,6 @@
 # Article 3
 
-Des personnes physiques remplissant les conditions requises pour exercer la profession de notaire, mais qui ne sont pas titulaires d'un office de notaire, peuvent constituer entre elles et, dans les conditions prévues à l'article 5 de la loi n° 90-1258 du 31 décembre 1990 susvisée, avec les personnes mentionnées à cet article, une société d'exercice libéral qui peut être nommée notaire en remplacement du titulaire d'un office existant.
+Des personnes physiques remplissant les conditions requises pour exercer la profession de notaire, mais qui ne sont pas titulaires d'un office de notaire, peuvent constituer entre elles et, dans les conditions prévues aux articles 5 et 5-1 de la loi n° 90-1258 du 31 décembre 1990 susvisée, avec les personnes mentionnées à cet article, une société d'exercice libéral qui peut être nommée notaire en remplacement du titulaire d'un office existant.
 
 Une ou plusieurs de ces personnes peuvent également constituer dans les mêmes conditions, avec une personne physique titulaire d'un office de notaire, une société d'exercice libéral qui peut être nommée :
 
