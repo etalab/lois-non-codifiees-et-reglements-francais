@@ -18,7 +18,7 @@ Sont déclarés admis, par décision du préfet de région sur proposition du ju
 
 Un livret de formation est ouvert au nom de chaque candidat sélectionné.
 
-Pour les formations relevant d'une procédure d'agrément national :
+Pour les formations générales assurées en totalité par un organisme unique  :
 
 - la responsabilité de la sélection peut être déléguée à l'organisme de formation s'il en fait la demande ;
 
