@@ -137,7 +137,7 @@ fleuves, rivières et canaux fréquentés par les bâtiments de mer
 </tr>
 <tr>
 <td colspan="2" valign="top" width="718">
-<p align="center">Département des Côtes-du-Nord</p>
+<p align="center">Département des Côtes-d'Armor</p>
 </td>
 </tr>
 <tr>
