@@ -80,6 +80,7 @@
 - [Décret n°95-941 du 24 août 1995 (MENF9501355D)](decret-n95-941-du-24-aout-1995-menf9501355d)
 - [Décret n°95-82 du 25 janvier 1995 (AGRS9402388D)](decret-n95-82-du-25-janvier-1995-agrs9402388d)
 - [Décret n°94-1146 du 26 décembre 1994 (SPSS9403475D)](decret-n94-1146-du-26-decembre-1994-spss9403475d)
+- [Décret n°95-85 du 26 janvier 1995 (COMK9504002D)](decret-n95-85-du-26-janvier-1995-comk9504002d)
 - [Décret n°94-1140 du 27 décembre 1994 (SPSS9403734D)](decret-n94-1140-du-27-decembre-1994-spss9403734d)
 - [Décret n°94-1145 du 27 décembre 1994 (DOMX9400174D)](decret-n94-1145-du-27-decembre-1994-domx9400174d)
 - [Décret n°94-1149 du 27 décembre 1994 (SPSS9403717D)](decret-n94-1149-du-27-decembre-1994-spss9403717d)
