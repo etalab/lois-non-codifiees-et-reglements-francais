@@ -1,9 +1,9 @@
 # Article 45
 
-Sauf stipulation contraire [*contrat de représentation - contenu*], l'autorisation de radiodiffuser l'oeuvre ou de la communiquer publiquement selon tout autre mode de diffusion sans fil, des signes, des sons ou des images, couvre l'ensemble des communications faites par l'organisme bénéficiaire de la cession.
+Sauf stipulation contraire [*contrat de représentation - contenu*] :
 
-Conformément aux dispositions de l'article 30, l'autorisation de radiodiffuser n'implique pas l'autorisation d'enregistrer l'oeuvre radiodiffusée au moyen d'instruments portant fixation des sons ou des images.
+1° L'autorisation de télédiffuser une oeuvre par voie hertzienne ne comprend pas la distribution par câble de cette télédiffusion, à moins qu'elle ne soit faite en simultané et intégralement par l'organisme bénéficiaire de cette autorisation et sans extension de la zone géographique contractuellement prévue;
 
-Toutefois, exceptionnellement, en raison de l'intérêt national qu'ils représentent ou de leur caractère de documentation, certains enregistrements pourront être autorisés. Leurs modalités de réalisation et d'utilisation seront fixées par les parties ou, à défaut d'accord, par décision signée conjointement par le ministre chargé des beaux-arts et le ministre chargé de l'information. Ces enregistrements pourront être conservés dans les archives officielles.
+2° L'autorisation de télédiffuser l'oeuvre ne vaut pas autorisation de communiquer la télédiffusion de cette oeuvre dans un lieu accessible au public;
 
-L'autorisation de radiodiffuser n'implique pas l'autorisation de communiquer publiquement par haut-parleur ou par tout autre instrument analogue transmetteur de signes, de sons ou d'images, l'oeuvre radiodiffusée.
+3° L'autorisation de télédiffuser l'oeuvre par voie hertzienne ne comprend pas son émission vers un satellite permettant la réception de cette oeuvre par l'intermédiaire d'organismes tiers, à moins que les auteurs ou leurs ayants droit aient contractuellement autorisé ces organismes à communiquer l'oeuvre au public; dans ce cas, l'organisme d'émission est exonéré du paiement de toute rémunération.

@@ -1,8 +1,8 @@
 # Article 14
 
-Ont la qualité d'auteur d'une oeuvre cinématographique la ou les personnes physiques qui réalisent la création intellectuelle de cette oeuvre.
+Ont la qualité d'auteur d'une oeuvre audiovisuelle la ou les personnes physiques qui réalisent la création intellectuelle de cette oeuvre.
 
-Sont présumés, sauf preuve contraire [*charge de la preuve*], coauteurs d'une oeuvre cinématographique réalisée en collaboration :
+Sont présumés, sauf preuve contraire [*charge de la preuve*], coauteurs d'une oeuvre audiovisuelle réalisée en collaboration :
 
 1° L'auteur du scénario ;
 
@@ -14,4 +14,4 @@ Sont présumés, sauf preuve contraire [*charge de la preuve*], coauteurs d'une 
 
 5° Le réalisateur.
 
-Lorsque l'oeuvre cinématographique est tirée d'une oeuvre ou d'un scénario préexistants encore protégés, les auteurs de l'oeuvre originaire sont assimilés aux auteurs de l'oeuvre nouvelle [*oeuvre dérivée*].
+Lorsque l'oeuvre audiovisuelle est tirée d'une oeuvre ou d'un scénario préexistants encore protégés, les auteurs de l'oeuvre originaire sont assimilés aux auteurs de l'oeuvre nouvelle [*oeuvre dérivée*].

@@ -12,6 +12,6 @@ Les analyses et courtes citations justifiées par le caractère critique, polém
 
 Les revues de presse ;
 
-La diffusion, même intégrale, par la voie de la presse ou de la radiodiffusion, à titre d'information d'actualité, des discours destinés au public prononcés dans les assemblées politiques, administratives, judiciaires ou académiques, ainsi que dans les réunions publiques d'ordre politique et les cérémonies officielles ;
+La diffusion, même intégrale, par la voie de la presse ou de la télédiffusion, à titre d'information d'actualité, des discours destinés au public prononcés dans les assemblées politiques, administratives, judiciaires ou académiques, ainsi que dans les réunions publiques d'ordre politique et les cérémonies officielles ;
 
 4° La parodie, le pastiche et la caricature, compte tenu des lois du genre.

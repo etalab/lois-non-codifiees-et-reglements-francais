@@ -1,6 +1,6 @@
 # Article 23
 
-Pour les oeuvres posthumes, la durée du droit exclusif [*d'exploitation*] est de cinquante années à compter de la date de publication de l'oeuvre.
+Pour les oeuvres posthumes, la durée du droit exclusif [*d'exploitation*] est de cinquante années à compter de la date de publication de l'oeuvre; toutefois, pour les compositions musicales avec ou sans paroles, cette durée est de soixante-dix années.
 
 Le droit d'exploitation des oeuvres posthumes appartient aux ayants droit de l'auteur si l'oeuvre est divulguée au cours de la période prévue à l'article 21.
 
