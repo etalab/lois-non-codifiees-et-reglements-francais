@@ -319,7 +319,6 @@
 - [Décret n°89-241 du 18 avril 1989 (SPSH8900705D)](decret-n89-241-du-18-avril-1989-spsh8900705d)
 - [Décret n°2000-1023 du 19 octobre 2000 (PRMX0000135D)](decret-n2000-1023-du-19-octobre-2000-prmx0000135d)
 - [Décret n°2000-1032 du 19 octobre 2000 (MJSK0040097D)](decret-n2000-1032-du-19-octobre-2000-mjsk0040097d)
-- [Décret n°2000-1047 du 19 octobre 2000 (DEFP9952050D)](decret-n2000-1047-du-19-octobre-2000-defp9952050d)
 - [Décret n°2000-1237 du 19 décembre 2000 (EQUU0001812D)](decret-n2000-1237-du-19-decembre-2000-equu0001812d)
 - [Décret n°2000-1238 du 19 décembre 2000 (EQUU0001813D)](decret-n2000-1238-du-19-decembre-2000-equu0001813d)
 - [Décret n°2000-1242 du 19 décembre 2000 (MESS0023661D)](decret-n2000-1242-du-19-decembre-2000-mess0023661d)
