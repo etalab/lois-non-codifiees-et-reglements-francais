@@ -121,6 +121,7 @@
 - [Décret n°87-38 du 21 janvier 1987 (ASES8700056D)](decret-n87-38-du-21-janvier-1987-ases8700056d)
 - [Décret n°87-339 du 21 mai 1987 (EQUU8700426D)](decret-n87-339-du-21-mai-1987-equu8700426d)
 - [Décret n°87-341 du 21 mai 1987 (EQUU8700425D)](decret-n87-341-du-21-mai-1987-equu8700425d)
+- [Décret n°87-346 du 21 mai 1987 (MCCB8700190D)](decret-n87-346-du-21-mai-1987-mccb8700190d)
 - [Décret du 22 décembre 1986 (AGRM8700091D)](decret-du-22-decembre-1986-agrm8700091d)
 - [Décret n°87-284 du 22 avril 1987 (EQUU8700009D)](decret-n87-284-du-22-avril-1987-equu8700009d)
 - [Décret n°87-285 du 22 avril 1987 (EQUU8700121D)](decret-n87-285-du-22-avril-1987-equu8700121d)
