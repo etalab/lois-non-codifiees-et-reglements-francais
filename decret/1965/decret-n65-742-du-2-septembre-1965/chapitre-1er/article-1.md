@@ -1,0 +1,3 @@
+# Article 1
+
+Les Français titulaires de droits acquis, en cours d'acquisition ou éventuels à des prestations de vieillesse auprès des caisses du régime général algérien non agricole de sécurité sociale obtiennent, s'ils résident en France, conformément aux dispositions ci-après, dans le cadre du régime général non agricole de la sécurité sociale, la validation des périodes d'activité salariée exercée en Algérie pendant lesquelles, avant le 1er juillet 1962, ils ont été affiliés à ces caisses, ainsi que des périodes antérieures à leur affiliation qui ont été ou auraient pu être validées selon la législation et la réglementation applicables en Algérie.

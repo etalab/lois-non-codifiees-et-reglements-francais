@@ -1,6 +1,12 @@
 # 1965
 
 - [Décret n°65-541 du 1 juillet 1965](decret-n65-541-du-1-juillet-1965)
+- [Décret n°65-742 du 2 septembre 1965](decret-n65-742-du-2-septembre-1965)
+- [Décret n°65-743 du 2 septembre 1965](decret-n65-743-du-2-septembre-1965)
+- [Décret n°65-744 du 2 septembre 1965](decret-n65-744-du-2-septembre-1965)
+- [Décret n°65-745 du 2 septembre 1965](decret-n65-745-du-2-septembre-1965)
+- [Décret n°65-746 du 2 septembre 1965](decret-n65-746-du-2-septembre-1965)
+- [Décret n°65-747 du 2 septembre 1965](decret-n65-747-du-2-septembre-1965)
 - [Décret n°65-536 du 5 juillet 1965](decret-n65-536-du-5-juillet-1965)
 - [Décret n°65-692 du 13 août 1965](decret-n65-692-du-13-aout-1965)
 - [Décret n°65-612 du 22 juillet 1965](decret-n65-612-du-22-juillet-1965)

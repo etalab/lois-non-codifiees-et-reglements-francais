@@ -1,0 +1,3 @@
+# Article 1
+
+Les personnes visées aux articles 1er et 2 de la loi du 26 décembre 1964, qui ont été affiliées au régime d'assurance vieillesse des professions industrielles et commerciales prévu par le titre II de l'arrêté du ministre de l'Algérie en date du 30 décembre 1957 sont, pour l'application de ladite loi, rattachées au régime d'assurance vieillesse des professions industrielles et commerciales fixé par le décret du 31 mars 1958 susvisé, à l'exception de celles dont l'activité professionnelle relevait du régime d'assurance vieillesse des professions artisanales prévu par l'article 1er de l'arrêté du 3 décembre 1957.

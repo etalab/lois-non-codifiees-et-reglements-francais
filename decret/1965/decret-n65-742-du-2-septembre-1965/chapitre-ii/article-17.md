@@ -1,0 +1,3 @@
+# Article 17
+
+Les personnes visées à l'article 3 de la loi du 26 décembre 1964 qui ne bénéficient pas des prestations de l'assurance invalidité auxquelles elles peuvent prétendre auprès de la caisse du régime général algérien non agricole compétente en vertu de la réglementation en vigueur en Algérie au 1er juillet 1962 reçoivent des avances d'un montant égal à celui de la pension d'invalidité dont elles auraient pu bénéficier au titre du chapitre IV du livre III du code de la sécurité sociale si les périodes d'assurances ou assimilées dont justifient ces assurés avaient été accomplies en France.
