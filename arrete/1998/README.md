@@ -645,7 +645,6 @@
 - [Arrêté du 19 décembre 1997 (EQUA9701969A)](arrete-du-19-decembre-1997-equa9701969a)
 - [Arrêté du 19 décembre 1997 (MESP9820103A)](arrete-du-19-decembre-1997-mesp9820103a)
 - [Arrêté du 19 février 1998 (ECOT9810329A)](arrete-du-19-fevrier-1998-ecot9810329a)
-- [Arrêté du 19 février 1998 (EQUK9800289A)](arrete-du-19-fevrier-1998-equk9800289a)
 - [Arrêté du 19 février 1998 (EQUK9800290A)](arrete-du-19-fevrier-1998-equk9800290a)
 - [Arrêté du 19 février 1998 (EQUP9800225A)](arrete-du-19-fevrier-1998-equp9800225a)
 - [Arrêté du 19 février 1998 (EQUP9800236A)](arrete-du-19-fevrier-1998-equp9800236a)
