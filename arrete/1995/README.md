@@ -417,7 +417,6 @@
 - [Arrêté du 9 janvier 1995 (BUDR9505001A)](arrete-du-9-janvier-1995-budr9505001a)
 - [Arrêté du 9 janvier 1995 (BUDR9505002A)](arrete-du-9-janvier-1995-budr9505002a)
 - [Arrêté du 9 janvier 1995 (BUDR9505003A)](arrete-du-9-janvier-1995-budr9505003a)
-- [Arrêté du 9 janvier 1995 (DEFC9402205A)](arrete-du-9-janvier-1995-defc9402205a)
 - [Arrêté du 9 janvier 1995 (INDA9500072A)](arrete-du-9-janvier-1995-inda9500072a)
 - [Arrêté du 9 janvier 1995 (MCCF9500004A)](arrete-du-9-janvier-1995-mccf9500004a)
 - [Arrêté du 9 janvier 1995 (MENE9402293A)](arrete-du-9-janvier-1995-mene9402293a)
