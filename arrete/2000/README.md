@@ -72,7 +72,6 @@
 - [Arrêté du 19 juin 2000 (MCCB0000455A)](arrete-du-19-juin-2000-mccb0000455a)
 - [Arrêté du 19 octobre 2000 (MENG0002754A)](arrete-du-19-octobre-2000-meng0002754a)
 - [Arrêté du 20 décembre 2000 (ECOM0010009A)](arrete-du-20-decembre-2000-ecom0010009a)
-- [Arrêté du 20 décembre 2000 (EQUA0001878A)](arrete-du-20-decembre-2000-equa0001878a)
 - [Arrêté du 20 novembre 2000 (MENE0002876A)](arrete-du-20-novembre-2000-mene0002876a)
 - [Arrêté du 20 septembre 2000 (ECOC0000069A)](arrete-du-20-septembre-2000-ecoc0000069a)
 - [Arrêté du 21 décembre 2000 (INTE0000758A)](arrete-du-21-decembre-2000-inte0000758a)

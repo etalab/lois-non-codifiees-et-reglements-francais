@@ -440,7 +440,6 @@
 - [Arrêté du 15 octobre 2002 (MENF0201968A)](arrete-du-15-octobre-2002-menf0201968a)
 - [Arrêté du 16 août 2002 (MENS0201513A)](arrete-du-16-aout-2002-mens0201513a)
 - [Arrêté du 16 août 2002 (MENS0201514A)](arrete-du-16-aout-2002-mens0201514a)
-- [Arrêté du 16 avril 2002 (ATEP0210114A)](arrete-du-16-avril-2002-atep0210114a)
 - [Arrêté du 16 avril 2002 (EQUA0200663A)](arrete-du-16-avril-2002-equa0200663a)
 - [Arrêté du 16 avril 2002 (EQUP0200012A)](arrete-du-16-avril-2002-equp0200012a)
 - [Arrêté du 16 avril 2002 (EQUP0200174A)](arrete-du-16-avril-2002-equp0200174a)
