@@ -2,7 +2,7 @@
 
 I - Peuvent seuls être promus ou nommés au grade supérieur :
 
-1° Les capitaines ayant au moins trois ans et au plus sept ans de grade dans le corps des officiers de l'air, et au moins quatre ans et au plus huit ans de grade dans les deux autres corps et qui ont exercé comme officier un commandement pendant deux ans au moins. La limite maximale d'ancienneté de grade s'apprécie, uniquement pour l'avancement de grade, au 1er janvier de l'année de promotion ;
+1° Les capitaines ayant au moins quatre ans et au plus huit ans de grade dans chacun des trois corps et qui ont exercé comme officier un commandement pendant deux ans au moins. La limite maximale d'ancienneté de grade s'apprécie uniquement pour l'avancement de grade, au 1er janvier de l'année de promotion ;
 
 2° Les lieutenants-colonels ayant au moins trois ans et au plus sept ans de grade dans le corps des officiers de l'air et au moins quatre ans et au plus huit ans de grade dans les deux autres corps qui ont exercé un commandement pendant deux ans au moins après leur promotion ou leur nomination au grade de commandant. La limite maximale d'ancienneté de grade s'apprécie, uniquement pour l'avancement de grade, au 1er janvier de l'année de promotion ;
 
