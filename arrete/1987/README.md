@@ -521,7 +521,6 @@
 - [Arrêté du 23 octobre 1986](arrete-du-23-octobre-1986)
 - [Arrêté du 23 octobre 1987 (INDD8700692A)](arrete-du-23-octobre-1987-indd8700692a)
 - [Arrêté du 23 octobre 1987 (INDD8700693A)](arrete-du-23-octobre-1987-indd8700693a)
-- [Arrêté du 23 octobre 1987 (RESY8700730A)](arrete-du-23-octobre-1987-resy8700730a)
 - [Arrêté du 23 septembre 1987 (BUDB8760054A)](arrete-du-23-septembre-1987-budb8760054a)
 - [Arrêté du 23 septembre 1987 (BUDR8703116A)](arrete-du-23-septembre-1987-budr8703116a)
 - [Arrêté du 23 septembre 1987 (DEFE8701799A)](arrete-du-23-septembre-1987-defe8701799a)
