@@ -3,3 +3,5 @@
 - [Titre Ier : Corps des infirmiers.](titre-ier)
 - [Titre II : Aides-soignants.](titre-ii)
 - [Titre III : Dispositions finales.](titre-iii)
+- [Titre IV : Corps des agents des services hospitaliers](titre-iv)
+- [Titre V : Dispositions finales.](titre-v)

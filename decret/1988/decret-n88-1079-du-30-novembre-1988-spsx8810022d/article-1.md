@@ -4,7 +4,7 @@ Le classement indiciaire applicable au corps des infirmiers est fixé comme suit
 
 Indices bruts :
 
-Classe normale : 274 - 460 (487) ;
+Classe normale : 286 - 460 (487) ;
 
 Classe supérieure : 418 - 533 ;
 

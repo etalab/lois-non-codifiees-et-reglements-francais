@@ -1,68 +1,102 @@
 # Article 3
 
-La durée maximale et la durée minimale du temps passé dans chacun des échelons des échelles et groupes :
+Les grades et emplois classés dans les échelles de rémunération mentionnées aux articles précédents comportent chacun le nombre d'échelons suivants :
 
 <table>
 <tr>
-<td> :------------------------------:</td>
+<td>:---------------------------:</td>
 </tr>
 <tr>
-<td> :  ECHELONS  :   A    :   B    :</td>
+<td> :  ECHELLE : A COMPTER DU   :</td>
 </tr>
 <tr>
-<td> :------------------------------:</td>
+<td> :          : 1er août 1990 :</td>
 </tr>
 <tr>
-<td> :1er échelon : 1 an   : 1 an   :</td>
+<td> :---------------------------:</td>
 </tr>
 <tr>
-<td> :2e échelon  : 2 ans  : 1 an   :</td>
+<td> : Echelle 1 :  11 échelons  :</td>
 </tr>
 <tr>
-<td> :            :        : 6 mois :</td>
+<td> : Echelle 2 :  10 échelons  :</td>
 </tr>
 <tr>
-<td> : 3e échelon : 2 ans  : 1 an   :</td>
+<td> : Echelle 3 :  10 échelons  :</td>
 </tr>
 <tr>
-<td> :            :        : 6 mois :</td>
+<td> : Echelle 4 :  10 échelons  :</td>
 </tr>
 <tr>
-<td> : 4e échelon : 2 ans  : 1 an   :</td>
+<td> : Echelle 5 :  10 échelons  :</td>
 </tr>
 <tr>
-<td> :            :        : 6 mois :</td>
-</tr>
-<tr>
-<td> : 5e échelon : 3 ans  : 2 ans  :</td>
-</tr>
-<tr>
-<td> : 6e échelon : 3 ans  : 2 ans  :</td>
-</tr>
-<tr>
-<td> : 7e échelon : 3 ans  : 2 ans  :</td>
-</tr>
-<tr>
-<td> : 8e échelon : 4 ans  : 3 ans  :</td>
-</tr>
-<tr>
-<td> : 9e échelon : 4 ans  : 3 ans  :</td>
-</tr>
-<tr>
-<td> :10e échelon :    -   :   -    :</td>
-</tr>
-<tr>
-<td> :            :--------:--------:</td>
-</tr>
-<tr>
-<td> :   Total    : 24 ans : 17 ans :</td>
-</tr>
-<tr>
-<td> :            :        : 6 mois :</td>
-</tr>
-<tr>
-<td> :------------------------------:</td>
+<td> :---------------------------:</td>
 </tr>
 </table>
 
-(A) Durée maximale. (B) Durée minimale.
+<table>
+<tr>
+<td>:---------------------------:</td>
+</tr>
+<tr>
+<td> :  ECHELLE :  A COMPTER DU  :</td>
+</tr>
+<tr>
+<td> :          : 1er août 1991 :</td>
+</tr>
+<tr>
+<td> :---------------------------:</td>
+</tr>
+<tr>
+<td> : Echelle 1 :  11 échelons  :</td>
+</tr>
+<tr>
+<td> : Echelle 2 :  11 échelons  :</td>
+</tr>
+<tr>
+<td> : Echelle 3 :  11 échelons  :</td>
+</tr>
+<tr>
+<td> : Echelle 4 :  10 échelons  :</td>
+</tr>
+<tr>
+<td> : Echelle 5 :  10 échelons  :</td>
+</tr>
+<tr>
+<td> :---------------------------:</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>:---------------------------:</td>
+</tr>
+<tr>
+<td> :  ECHELLE :  A COMPTER DU  :</td>
+</tr>
+<tr>
+<td> :          : 1er août 1992 :</td>
+</tr>
+<tr>
+<td> :---------------------------:</td>
+</tr>
+<tr>
+<td> : Echelle 1 :  11 échelons  :</td>
+</tr>
+<tr>
+<td> : Echelle 2 :  11 échelons  :</td>
+</tr>
+<tr>
+<td> : Echelle 3 :  11 échelons  :</td>
+</tr>
+<tr>
+<td> : Echelle 4 :  11 échelons  :</td>
+</tr>
+<tr>
+<td> : Echelle 5 :  11 échelons  :</td>
+</tr>
+<tr>
+<td> :---------------------------:</td>
+</tr>
+</table>

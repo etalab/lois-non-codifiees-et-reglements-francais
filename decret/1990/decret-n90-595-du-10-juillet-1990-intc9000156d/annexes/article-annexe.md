@@ -454,9 +454,15 @@ Un demi de l'ancienneté acquise.
 
 Ancienneté maintenue.
 
-Conducteur auto 2e catégorie groupe III bis
+Conducteur auto
 
-Enquêteur 2e classe
+2e catégorie
+
+échelle 2
+
+Enquêteur
+
+2e classe
 
 10e échelon
 
@@ -498,86 +504,28 @@ Deux neuvièmes de l'ancienneté acquise.
 
 1er échelon
 
-Une fois et demie l'ancienneté acquise.
+Un demi de l'ancienneté acquise.
 
 3e échelon
 
-3e échelon provisoire
+3e échelon
+
+provisoire
 
 Un demi de l'ancienneté acquise.
 
 2e échelon
 
-2e échelon provisoire
+2e échelon
+
+provisoire
 
 Un demi de l'ancienneté acquise.
 
 1er échelon
 
-1er échelon provisoire
+1er échelon
+
+provisoire
 
 Ancienneté maintenue.
-
-Conducteur 2e catégorie groupe III
-
-Enquêteur 2e classe
-
-10e échelon
-
-2e échelon
-
-Ancienneté maintenue dans la limite de 8 mois, plus 16 mois.
-
-9e échelon
-
-2e échelon
-
-Ancienneté maintenue dans la limite de 8 mois, plus 8 mois.
-
-8e échelon
-
-2e échelon
-
-Ancienneté maintenue dans la limite de 8 mois.
-
-7e échelon
-
-2e échelon
-
-Sans ancienneté.
-
-6e échelon
-
-1er échelon
-
-Ancienneté maintenue dans la limite de 1 an.
-
-5e échelon
-
-3e échelon provisoire
-
-Ancienneté maintenue dans la limite de 3 mois.
-
-4e échelon
-
-3e échelon provisoire
-
-Sans ancienneté.
-
-3e échelon
-
-2e échelon provisoire
-
-Sans ancienneté.
-
-2e échelon
-
-1er échelon provisoire
-
-Ancienneté maintenue dans la limite de 3 mois.
-
-1er échelon
-
-1er échelon provisoire
-
-Sans ancienneté.

@@ -2,134 +2,132 @@
 
 L'échelonnement indiciaire applicable aux échelle et groupes de rémunération prévus par le décret n° 88-1082 du 30 novembre 1988 susvisé est fixé ainsi qu'il suit :
 
-Echelle I :
+Echelle 1
 
-1er échelon : indices bruts = 209.
+Echelons - indices bruts - à compter du 1er août 1990 - à compter du 1er août 1991
 
-2e échelon : indices bruts = 220.
+11e  échelon : 301, 314
 
-3e échelon : indices bruts = 229.
+10e  échelon : 296, 303
 
-4e échelon : indices bruts = 237.
+9e  échelon : 284, 293
 
-5e échelon : indices bruts = 244.
+8e  échelon : 274, 280
 
-6e échelon : indices bruts = 253.
+7e  échelon : 266, 268
 
-7e échelon : indices bruts = 262.
+6e  échelon : 257, 259
 
-8e échelon : indices bruts = 267.
+5e  échelon : 247, 248
 
-9e échelon : indices bruts = 274.
+4e  échelon : 237, 237
 
-10e échelon : indices bruts = 282.
+3e  échelon : 229, 229
 
-Groupe III :
+2e  échelon : 220, 220
 
-1er échelon : indices bruts = 220.
+1er échelon : 209, 209
 
-2e échelon : indices bruts = 230.
+Echelle 2
 
-3e échelon : indices bruts = 239.
+Echelons - indices bruts - à compter du 1er août 1990 - A compter du 1er août 1991 - A compter du 1er août 1994
 
-4e échelon : indices bruts = 247.
+11e  échelon : -, 328, 343
 
-5e échelon : indices bruts = 252.
+10e  échelon : 309, 315, 321
 
-6e échelon : indices bruts = 261.
+9e  échelon : 301, 306, 311
 
-7e échelon : indices bruts = 265.
+8e  échelon : 293, 298, 302
 
-8e échelon : indices bruts = 268.
+7e  échelon : 285, 290, 294
 
-9e échelon : indices bruts = 274.
+6e  échelon : 278, 281, 287
 
-10e échelon : indices bruts = 282.
+5e  échelon : 268, 271, 274
 
-Groupe III bis :
+4e  échelon : 260, 262, 263
 
-1er échelon : indices bruts = 232.
+3e  échelon : 248, 250, 251
 
-2e échelon : indices bruts = 241.
+2e  échelon : 241, 241, 241
 
-3e échelon : indices bruts = 248.
+1er échelon : 220, 220, 220
 
-4e échelon : indices bruts = 260.
+Echelle 3
 
-5e échelon : indices bruts = 268.
+Echelons - indices bruts - à compter du 1er août 1990 - à compter du 1er août 1991 - à compter du 1er août 1994
 
-6e échelon : indices bruts = 278.
+11e  échelon : -, 354, 364
 
-7e échelon : indices bruts = 285.
+10e  échelon : 336, 342, 347
 
-8e échelon : indices bruts = 293.
+9e  échelon : 322, 328, 333
 
-9e échelon : indices bruts = 301.
+8e  échelon : 314, 320, 324
 
-10e échelon : indices bruts = 309.
+7e  échelon : 303, 307, 311
 
-Echelle 3 :
+6e  échelon : 293, 297, 299
 
-1er échelon : indices bruts = 232.
+5e  échelon : 282, 284, 287
 
-2e échelon : indices bruts = 242.
+4e  échelon : 267, 268, 269
 
-3e échelon : indices bruts = 256.
+3e  échelon : 256, 256, 257
 
-4e échelon : indices bruts = 267.
+2e  échelon : 242, 242, 242
 
-5e échelon : indices bruts = 282.
+1er échelon : 232, 232, 232
 
-6e échelon : indices bruts = 293.
+Echelle 4
 
-7e échelon : indices bruts = 303.
+Echelons - indices bruts - à compter du 1er août 1990 - à compter du 1er août 1992 - à compter du 1er août 1995
 
-8e échelon : indices bruts = 314.
+11e  échelon : -, 378, 382
 
-9e échelon : indices bruts = 322.
+10e  échelon : 365, 371, 374
 
-10e échelon : indices bruts = 336.
+9e  échelon : 351, 358, 360
 
-Echelle 4 :
+8e  échelon : 339, 343, 345
 
-1er échelon : indices bruts = 238.
+7e  échelon : 325, 330, 333
 
-2e échelon : indices bruts = 253.
+6e  échelon : 311, 315, 318
 
-3e échelon : indices bruts = 268.
+5e  échelon : 298, 302, 305
 
-4e échelon : indices bruts = 284.
+4e  échelon : 284, 289, 290
 
-5e échelon : indices bruts = 298.
+3e  échelon : 268, 270, 271
 
-6e échelon : indices bruts = 311.
+2e  échelon : 253, 256, 257
 
-7e échelon : indices bruts = 325.
+1er échelon : 238, 238, 238
 
-8e échelon : indices bruts = 339.
+Echelle 5
 
-9e échelon : indices bruts = 351.
+Echelons - indices bruts - à compter du 1er août 1990 - à compter du 1er août 1992 - à compter du 1er août 1996
 
-10e échelon : indices bruts = 365.
+11e  échelon : -, 407, 427
 
-Echelle 5 :
+10e  échelon : 390, 393, 396
 
-1er échelon : indices bruts = 249.
+9e  échelon : 373, 376, 379
 
-2e échelon : indices bruts = 266.
+8e  échelon : 358, 361, 363
 
-3e échelon : indices bruts = 281.
+7e  échelon : 343, 344, 347
 
-4e échelon : indices bruts = 299.
+6e  échelon : 329, 330, 333
 
-5e échelon : indices bruts = 314.
+5e  échelon : 314, 315, 318
 
-6e échelon : indices bruts = 329.
+4e  échelon : 299, 301, 302
 
-7e échelon : indices bruts = 343.
+3e  échelon : 281, 284, 284
 
-8e échelon : indices bruts = 358.
+2e  échelon : 266, 266, 266
 
-9e échelon : indices bruts = 373.
-
-10e échelon : indices bruts = 390.
+1er échelon : 249, 249, 249

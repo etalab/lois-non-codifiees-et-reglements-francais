@@ -1,5 +1,6 @@
 # Titre Ier : Dispositions permanentes.
 
+- [Article 1](article-1.md)
 - [Chapitre Ier : Dispositions relatives aux corps de chercheurs de l'I.N.R.I.A. Section 2 : Dispositions relatives aux corps de chargés de recherche de l'I.N.R.I.A.](chapitre-ier)
 - [Article 2](article-2.md)
 - [Chapitre II : Dispositions relatives aux corps d'ingénieurs de personnels techniques et d'administration de la recherche de l'I.N.R.I.A.](chapitre-ii)

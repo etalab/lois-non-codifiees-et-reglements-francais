@@ -34,22 +34,6 @@ Indices bruts
 
 1er échelon : 418
 
-- Rédacteurs
-
-Indices bruts
-
-12e échelon : 474
-
-11e échelon : 453
-
-10e échelon : 430
-
-9e échelon : 395
-
-8e échelon : 377
-
-7e échelon : 360
-
 6e échelon : 342
 
 5e échelon : 328
@@ -61,3 +45,79 @@ Indices bruts
 2e échelon : 289
 
 1er échelon : 274.
+
+- Rédacteurs
+
+Indices bruts à compter du 1er août 1990 12e échelon : 474
+
+11e échelon : 453
+
+10e échelon : 430
+
+9e échelon : 395
+
+8e échelon : 379
+
+7e échelon : 366
+
+6e échelon : 347
+
+5e échelon : 333
+
+4e échelon : 321
+
+3e échelon : 306
+
+2e échelon : 294
+
+1er échelon : 280.
+
+- Rédacteurs
+
+Indices bruts à compter du 1er août 1991 12e échelon : 474
+
+11e échelon : 453
+
+10e échelon : 430
+
+9e échelon : 395
+
+8e échelon : 381
+
+7e échelon : 371
+
+6e échelon : 352
+
+5e échelon : 339
+
+4e échelon : 326
+
+3e échelon : 311
+
+2e échelon : 299
+
+1er échelon : 289.
+
+Indices bruts à compter du 1er août 1992 12e échelon : 474
+
+11e échelon : 453
+
+10e échelon : 430
+
+9e échelon : 395
+
+8e échelon : 389
+
+7e échelon : 379
+
+6e échelon : 360
+
+5e échelon : 345
+
+4e échelon : 336
+
+3e échelon : 321
+
+2e échelon : 309
+
+1er échelon : 296.

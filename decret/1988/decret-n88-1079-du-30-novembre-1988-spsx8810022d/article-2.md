@@ -4,7 +4,7 @@ Le classement indiciaire applicable au corps des infirmiers de salle d'opératio
 
 Indices bruts :
 
-Classe normale : 274 - 493 ;
+Classe normale : 286 - 493 ;
 
 Classe supérieure : 418 - 533 ;
 

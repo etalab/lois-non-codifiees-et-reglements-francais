@@ -4,7 +4,7 @@ Le classement indiciaire applicable au corps des orthoptistes s'établit comme s
 
 Indices bruts :
 
-Classe normale : 274-487 ;
+Classe normale : 286-487 ;
 
 Classe supérieure : 418-533 ;
 

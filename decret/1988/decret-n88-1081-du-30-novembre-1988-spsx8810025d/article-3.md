@@ -1,41 +1,55 @@
 # Article 3
 
-La durée moyenne et la durée minimale du temps passé dans chaque échelon sont fixées ainsi qu'il suit :
+La durée moyenne et la durée minimale du temps passé dans chacun des échelons des échelles de rémunération des catégories C et D sont fixées ainsi qu'il suit :
 
-1er échelon : durée minimale : 1an.
+échelles et échelons - durée - moyenne - minimale
 
-2e échelon : durée moyenne : 2 ans.
+Echelles dotées de 10 échelons :
 
-durée minimale : 1 an et demi.
+10e échelon -
 
-3e échelon : durée moyenne : 2 ans.
+9e échelon - 4 ans - 3 ans
 
-durée minimale : 1 an et demi.
+8e échelon - 4 ans - 3 ans
 
-4e échelon : durée moyenne : 2 ans.
+7e échelon - 3 ans - 2 ans
 
-durée minimale : 1 an et demi.
+6e échelon - 3 ans - 2 ans
 
-5e échelon : durée moyenne : 3 ans.
+5e échelon - 3 ans - 2 ans
 
-durée minimale : 2 ans.
+4e échelon - 2 ans - 1 ans 6 mois
 
-6e échelon : durée moyenne : 3 ans.
+3e échelon - 2 ans - 1 ans 6 mois
 
-durée minimale : 2 ans.
+2e échelon - 2 ans - 1 ans 6 mois
 
-7e échelon : durée moyenne : 3 ans.
+1er échelon - 1 ans - 1 an
 
-durée minimale : 2 ans.
+échelles et échelons - durée - moyenne - minimale
 
-8e échelon : durée moyenne : 4 ans.
+Echelles dotées de 11 échelons :
 
-durée minimale : 3 ans.
+11e échelon -
 
-9e échelon : durée moyenne : 4 ans.
+10e échelon - 4 ans - 3 ans
 
-durée minimale : 3 ans.
+9e échelon - 4 ans - 3 ans
 
-10e échelon : durée moyenne ou minimale : .....
+8e échelon - 4 ans - 3 ans
+
+7e échelon - 3 ans - 2 ans
+
+6e échelon - 3 ans - 2 ans
+
+5e échelon - 3 ans - 2 ans
+
+4e échelon - 2 ans - 1 ans 6 mois
+
+3e échelon - 2 ans - 1 ans 6 mois
+
+2e échelon - 2 ans - 1 ans 6 mois
+
+1er échelon - 1 ans - 1 an
 
 Les durées moyennes d'ancienneté ne peuvent faire l'objet d'aucune majoration.

@@ -1,0 +1,7 @@
+# Article 53
+
+Les agents ayant fait l'objet, avant la date de publication du présent décret, et conformément à la réglementation applicable au 31 juillet 1990, d'une inscription sur une liste d'aptitude pour l'accès aux corps d'adjoints techniques, d'agents techniques, d'adjoints administratifs ou d'agents d'administration conservent le bénéfice de cette inscription en vue d'une nomination, selon le cas, dans les corps d'adjoints techniques de 2e classe, d'agents techniques de 2e niveau, d'adjoints administratifs ou d'agents d'administration créés par le présent décret. Le reclassement des intéressés dans leur nouveau corps s'effectue dans les conditions prévues par le décret du 27 janvier 1970 susvisé, en prenant en compte la situation des agents, telle qu'elle résulte des opérations d'intégration et de classement fixées par les articles 38 à 50 ci-dessus.
+
+Les inscriptions sur les tableaux d'avancement de grades des corps d'adjoints techniques, d'agents techniques, d'aides techniques, d'adjoints administratifs, d'agents d'administration et d'agents de bureau, intervenues avant la date de publication du présent décret, ouvrent droit, à leur date d'effet, à une révision du classement des intéressés dans les conditions prévues aux articles 38 à 50 ci-dessus.
+
+Les réductions d'ancienneté obtenues dans les échelons d'origine et non encore utilisées sont conservées dans les échelons de reclassement des nouveaux corps créés par le présent décret.

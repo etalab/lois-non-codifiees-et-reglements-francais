@@ -1,3 +1,5 @@
 # Article 20
 
-Un arrêté du ministre chargé de la santé fixe les conditions dans lesquelles les corps d'aide-soignant et d'agent des services hospitaliers peuvent être créés dans les centres hospitaliers spécialisés en psychiatrie et dans les services psychiatriques des centres hospitaliers généraux.
+Les agents des services hospitaliers constituent un corps de la catégorie D auquel s'appliquent les dispositions du décret du 30 novembre 1988 susvisé.
+
+Ce corps est classé dans l'échelle 1 de rémunération.

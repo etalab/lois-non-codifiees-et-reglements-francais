@@ -1,9 +1,7 @@
 # Article 1
 
-Les grades des cadres d'emplois territoriaux de catégorie D et, si le statut particulier de cadre d'emplois le prévoit, ceux de catégorie C, sont classés dans les échelles et groupes de rémunération énumérés ci-dessous :
+Les grades et emplois des fonctionnaires territoriaux classés dans les catégories C et D sont répartis entre les cinq échelles de rémunération énumérées ci-dessous :
 
-" Catégorie D : échelle 1 ;
+" - catégorie D : échelle 1 ;
 
-" Catégorie C : groupe III, échelle 3, échelle 4, échelle 5.
-
-" Le groupe III bis est destiné au classement dans le groupe supérieur des fonctionnaires dont le grade est classé dans le groupe III. "
+" - catégorie C : échelle 2, échelle 3, échelle 4 et échelle 5.

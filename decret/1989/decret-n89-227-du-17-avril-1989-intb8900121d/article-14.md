@@ -1,5 +1,3 @@
 # Article 14
 
-Lorsque l'application des règles prévues par les statuts particuliers conduit à calculer un nombre de fonctionnaires promouvables au grade supérieur qui n'est pas un nombre entier, le nombre ainsi calculé est arrondi à l'entier le plus proche.
-
-Toutefois, le bénéfice de cette règle n'est acquis que lorsque le grade ou l'emploi d'avancement est doté d'un indice brut terminal inférieur ou égal à 625.
+Lorsque l'application des règles prévues par les statuts particuliers conduit à calculer un nombre de fonctionnaires promouvables au grade supérieur qui n'est pas un nombre entier, le nombre ainsi calculé est arrondi à l'entier supérieur.

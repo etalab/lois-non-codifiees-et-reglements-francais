@@ -1,3 +1,3 @@
 # Article 25
 
-Le ministre d'Etat, ministre de l'économie, des finances et du budget, le ministre de la solidarité, de la santé et de la protection sociale et le ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé du budget, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française et prendra effet au 1er janvier 1989 [*date*].
+La limite d'âge de quarante-cinq ans fixée aux articles 5, 6, 17 et 21 est reculée conformément aux dispositions législatives et réglementaires en vigueur. Elle est, en outre, reculée de la durée des services accomplis dans les établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée en qualité de religieux hospitalier.

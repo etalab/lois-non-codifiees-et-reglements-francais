@@ -1,3 +1,11 @@
 # Article 3
 
-Le directeur du budget au ministère de l'économie, des finances et du budget et le directeur des hôpitaux au ministère de la solidarité, de la santé et de la protection sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et prend effet, sauf dispositions contraires, au 1er janvier 1990 [*date*].
+L'échelle indiciaire applicable aux grades suivants :
+
+- adjoint administratif hospitalier principal ;
+
+- permanencier auxiliaire de régulation médicale chef ;
+
+- chef de standard téléphonique principal,
+
+est fixée conformément au tableau III annexé au présent arrêté.

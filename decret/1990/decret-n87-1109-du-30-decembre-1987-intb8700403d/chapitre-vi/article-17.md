@@ -1,0 +1,3 @@
+# Article 17
+
+Sont intégrés dans le cadre d'emplois au grade de commis ou de commis principal les fonctionnaires territoriaux nommés dans des emplois créés en application de l'article L. 412-2 du code des communes [*conditions*] s'ils exercent des fonctions de nature administrative et s'ils bénéficient d'une échelle indiciaire dont l'indice afférent à l'échelon de début n'est pas inférieur à l'indice afférent au 1er échelon, respectivement, du grade de commis territorial ou de commis principal territorial. Ils sont classés dans leur grade dans les mêmes conditions que celles mentionnées à l'article 12 du présent décret.

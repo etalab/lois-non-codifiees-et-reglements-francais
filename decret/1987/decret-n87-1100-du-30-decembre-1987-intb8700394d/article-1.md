@@ -139,7 +139,7 @@ L'échelonnement indiciaire applicable au cadre d'emplois des attachés territor
 <td> : 4e échelon         :   431   :</td>
 </tr>
 <tr>
-<td> : 3e échelon         :   404   :</td>
+<td> : 3e échelon         :   410   :</td>
 </tr>
 <tr>
 <td> : 2e échelon         :   379   :</td>

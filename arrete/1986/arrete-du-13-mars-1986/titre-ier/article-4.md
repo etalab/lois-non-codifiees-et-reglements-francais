@@ -28,6 +28,6 @@ Les honoraires correspondants et taxes diverses.
 
 " Les honoraires correspondants et taxes diverses.
 
-" Le montant maximal en francs du prix de revient de la viabilisation du terrain est limité à 41 343 F pour les départements de la Guadeloupe, de la Martinique et de la Guyane et à 45 356 F pour le département de la Réunion.
+Le montant maximal en francs du prix de revient de la viabilisation du terrain est limité à 42 170 F à compter du 1er juillet 1990, pour les départements de la Guadeloupe, de la Martinique et de la Guyane et à 46 263 F, à compter du 1er juillet 1990, pour le département de la Réunion. "
 
 " La subvention est déterminée dans les conditions prévues à l'article 6-II ci-après. "

@@ -1,7 +1,7 @@
 # Article 1
 
-Les corps des fonctionnaires hospitaliers relèvent :
+Les corps des fonctionnaires hospitaliers classés dans les catégories C et D mentionnées à l'article 4 de la loi du 9 janvier 1986 susvisée sont répartis par leurs statuts particuliers entre les échelles de rémunération énumérées ci-dessous :
 
-1° De l'échelle 1 de rémunération lorsqu'ils appartiennent à la catégorie D ;
+Catégorie D : échelle 1 ;
 
-2° Des groupes de rémunération III et III bis et des échelles 3, 4 et 5 de rémunération lorsqu'ils appartiennent à la catégorie C. Leurs statuts particuliers fixent la répartition des grades entre les groupes et échelles.
+Catégorie C : échelle 2, échelle 3, échelle 4, échelle 5.

@@ -4,11 +4,15 @@ Le prix plafond de vente d'une opération de logements est calculé par applicat
 
 1° Départements de la Guadeloupe, de la Guyane et de la Martinique :
 
-PV = 137 435 N + 4 240 (S + Sa2/2)
+A partir du 1er juillet 1990.
+
+PV = 140 184 N + 4 325 (S + Sa2/2)
 
 2° Département de la Réunion :
 
-PV = 150 779 N + 4 653 (S + Sa/2)
+A partir du 1er juillet 1990.
+
+PV = 153 795 N + 4 746 (S + Sa/2)
 
 - N étant le nombre de logements de l'opération ;
 

@@ -18,11 +18,9 @@ Les corps des agents chefs et des agents techniques sont classés dans la catég
 
 Ils sont régis par les dispositions du décret du 27 janvier 1970 susvisé et par celles du présent décret.
 
-Le corps des agents chefs comporte les grades suivants :
+Le corps des agents chefs comporte les grades suivants : agent chef principal, agent chef de première classe, agent chef de deuxième classe.
 
--agent chef de première classe ;
-
--agent chef de deuxième classe.
+Le nombre des emplois d'agent chef principal ne peut excéder le dixième de l'effectif total du corps.
 
 Le corps des agents techniques comporte les grades suivants :
 

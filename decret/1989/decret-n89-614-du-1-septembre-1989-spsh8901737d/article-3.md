@@ -4,7 +4,7 @@ Le classement indiciaire applicable au corps des manipulateurs d'électroradiolo
 
 Indices bruts :
 
-Classe normale : 274-487 (493).
+Classe normale : 286-487 (493).
 
 Classe supérieure : 418-533.
 

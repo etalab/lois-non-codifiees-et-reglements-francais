@@ -4,7 +4,7 @@ Le classement indiciaire applicable au corps des infirmiers spécialisés en ane
 
 Indices bruts :
 
-Classe normale : 274 - 507 ;
+Classe normale : 286 - 507 ;
 
 Classe supérieure : 418 - 533 ;
 

@@ -2,13 +2,15 @@
 
 Les surveillants de l'Institution nationale des invalides sont reclassés au grade de surveillant des services médicaux selon le tableau de correspondance qui suit :
 
-Situation actuelle - Surveillant - echelons : 7° échelon.
+Situation actuelle - Surveillant des services médicaux -
+
+échelons : 7° échelon.
 
 Situation nouvelle - Surveillant des services médicaux -
 
-échelons : 6°échelon.
+a) avant 3 ans : 6° échelon ancienneté conservée : Ancienneté acquise
 
-ancienneté conservée : Ancienneté acquise dans la limite de 2 ans et 6 mois.
+b) après 3 ans : 7° échelon ancienneté conservée : Ancienneté acquise dans la limite de 6 mois.
 
 Situation actuelle - Surveillant - échelons : 6° échelon.
 
