@@ -2,7 +2,7 @@
 
 Chacune de ces commissions [*composition*] comprend :
 
-Trois représentants du ministre chargé de la santé dont le directeur général de la santé ou son représentant, président ;
+Trois représentants du ministre chargé de la santé, dont le directeur de l'hospitalisation et de l'organisation des soins, président.
 
 Trois représentants du ministre chargé des universités ;
 
