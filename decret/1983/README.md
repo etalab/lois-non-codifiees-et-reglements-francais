@@ -33,6 +33,8 @@
 - [Décret n°83-80 du 7 février 1983](decret-n83-80-du-7-fevrier-1983)
 - [Décret n°83-285 du 8 avril 1983](decret-n83-285-du-8-avril-1983)
 - [Décret n°83-287 du 8 avril 1983](decret-n83-287-du-8-avril-1983)
+- [Décret n°83-471 du 9 juin 1983](decret-n83-471-du-9-juin-1983)
+- [Décret n°83-473 du 9 juin 1983](decret-n83-473-du-9-juin-1983)
 - [Décret n°83-86 du 9 février 1983](decret-n83-86-du-9-fevrier-1983)
 - [Décret n°83-381 du 9 mai 1983](decret-n83-381-du-9-mai-1983)
 - [Décret n°83-100 du 10 février 1983](decret-n83-100-du-10-fevrier-1983)
