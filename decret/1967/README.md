@@ -65,6 +65,7 @@
 - [Décret n°67-1044 du 30 novembre 1967](decret-n67-1044-du-30-novembre-1967)
 - [Décret n°67-1047 du 30 novembre 1967](decret-n67-1047-du-30-novembre-1967)
 - [Décret n°67-1055 du 30 novembre 1967](decret-n67-1055-du-30-novembre-1967)
+- [Décret n°67-278 du 30 mars 1967](decret-n67-278-du-30-mars-1967)
 - [Décret n°67-513 du 30 juin 1967](decret-n67-513-du-30-juin-1967)
 - [Décret n°67-519 du 30 juin 1967](decret-n67-519-du-30-juin-1967)
 - [Décret n°67-542 du 30 juin 1967](decret-n67-542-du-30-juin-1967)
