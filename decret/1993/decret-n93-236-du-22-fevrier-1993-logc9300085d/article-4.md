@@ -1,3 +1,3 @@
 # Article 4
 
-L'inspection du logement social est exercée par des agents mis à disposition ou détachés par le ministre chargé de la construction et de l'habitat, notamment des membres du conseil général des ponts et chaussées, et par les ministres chargés de l'économie et du budget.
+Sont affectés à la mission des agents désignés par le ministre chargé du logement : le ministre chargé de l'économie ou le ministre chargé du budget.

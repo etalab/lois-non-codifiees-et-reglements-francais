@@ -2,24 +2,22 @@
 
 Un comité directeur définit les priorités du programme d'inspection de la mission. Il comprend :
 
-Trois représentants du ministre chargé de la construction et de l'habitat :
+1° Deux représentants du ministre chargé du logement :
 
-Le directeur de l'habitat et de la construction, président du comité ;
+Le directeur général de l'urbanisme, de l'habitat et de la construction, président du comité ;
 
-Le directeur du personnel et des services ;
+Le vice-président du Conseil général des ponts et chaussées.
 
-Le vice-président du conseil général des ponts et chaussées.
-
-Trois représentants des ministres chargés de l'économie et des finances et du budget :
+2° Deux représentants des ministres chargés de l'économie et du budget :
 
 Le directeur du Trésor ;
 
-Le directeur du budget ;
+Le directeur général de la comptabilité publique.
 
-Le directeur de la comptabilité publique.
+3° Un membre de la Cour des comptes, désigné par le premier président.
 
-Ces membres peuvent se faire représenter.
+Les membres mentionnés aux 1° et 2° peuvent se faire représenter.
 
 Peuvent également participer à titre consultatif aux travaux de ce comité des personnalités invitées par le président en raison de leur compétence.
 
-Le comité se réunit au moins deux fois par an, sur convocation de son président. Son secrétariat est assuré par la mission.
+Le chef de la mission participe aux travaux avec voix consultative. Le comité se réunit au moins deux fois par an, sur convocation de son président. Son secrétariat est assuré par les services de la mission.
