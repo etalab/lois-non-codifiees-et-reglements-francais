@@ -1,0 +1,3 @@
+# Article 16
+
+La réalisation des travaux de construction ou d'aménagement des locaux visés aux articles 13 et 14 ne peut être entreprise sans l'accord préalable de l'établissement et des ministres chargés des armées et de la santé publique. Si les dépenses résultant de ces travaux ou celles d'entretien des locaux sont à la charge de l'Etat, une réduction est opérée sur le prix de journée payé par l'Etat en application de l'article 19 ci-après. Cette réduction est égale à la fraction du prix de journée représentant les dépenses de même nature qui seraient effectuées dans les bâtiments affectés au traitement des civils.

@@ -1,0 +1,3 @@
+# Article 20
+
+Il est créé auprès des ministres chargés des armées et de la santé publique une commission composée : d'un inspecteur général des affaires sociales, du directeur général de la santé ou de son représentant, du directeur des Hôpitaux ou de son représentant, du directeur de la sécurité sociale ou de son représentant, du directeur des affaires sociales au ministère de l'agriculture et du développement rural ou de son représentant, d'un représentant du ministre de l'éducation nationale et de six représentants du service de santé des armées désignés par le ministre chargé des armées. La présidence de cette commission est assurée par le représentant de l'inspection générale des affaires sociales.
