@@ -22,6 +22,8 @@ Picea abies Karst. (Picea excelsa Link), Epicéa.
 
 Picea sitchensis Trautv. et Mey, Epicéa de Sitka.
 
+Pinus halepenis mill, Pin d'Alep.
+
 Pinus nigra Arn. (1) :
 
 - Pinus nigra Arn. ssp nigricans Host, Pin noir d'Autriche.
@@ -30,9 +32,15 @@ Pinus nigra Arn. (1) :
 
 - Pinus nigra Arn. ssp laricio Poir. var. Corsicana Loud, Pin laricio de Corse.
 
+Pinus pinaster Ait, Pin maritime.
+
+Pinus pinea L., Pin pignon.
+
 Pinus sylvestris L., Pin sylvestre.
 
 Pinus strobus L., Pin Weymouth.
+
+Prunus avium L., Merisier.
 
 Pseudotsuga menziesii (Mirb.) Franco (Pseudotsuga douglassi (Lindl.) Carr., Pseudotsuga taxifolia (Poir.) Britt.), Douglas.
 
@@ -47,3 +55,7 @@ Groupe II.
 Nom botanique et nom commun :
 
 Populus sp. L., Peuplier.
+
+Essences dont la reproduction est habituellement végétative, c'est-à-dire assurée au moyen de parties de plantes :
+
+Prunus avium L. Merisier.
