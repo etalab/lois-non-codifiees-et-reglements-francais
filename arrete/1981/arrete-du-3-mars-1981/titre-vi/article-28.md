@@ -1,0 +1,3 @@
+# Article 28
+
+Les viandes ne remplissant pas les conditions de l'article précédent ne peuvent se trouver dans les établissements agréés qu'à la condition d'y être entreposées à des emplacements séparés ; elles doivent être utilisées dans d'autres endroits ou à d'autres moments que les viandes qui répondent auxdites conditions. Le vétérinaire inspecteur doit avoir libre accès à tout moment aux entrepôts frigorifiques et à tous les locaux de travail pour vérifier le respect rigoureux de ces dispositions. Les produits à base de viande élaborés à partir de ces viandes ne peuvent être munis que de la marque de salubrité prévue à l'article 19.
