@@ -2,11 +2,11 @@
 
 Il est institué auprès du ministre de l'agriculture une commission consultative mixte ainsi composée :
 
-a) Le directeur général de l'enseignement et de la recherche au ministère de l'agriculture ou son représentant, présidant avec voix prépondérante ;
+a) Le directeur général de l'administration au ministère de l'agriculture et de la forêt ou son représentant, président, avec voix prépondérante ;
 
-b) Deux fonctionnaires désignés pour trois ans par le ministre de l'agriculture ;
+b) Le directeur général de l'enseignement et de la recherche au ministère de l'agriculture et de la forêt ou son représentant ;
 
-c) Trois membres titulaires de l'enseignement agricole public, dont un chef d'établissement, désignés pour trois ans par le ministre de l'agriculture ;
+c) Quatre fonctionnaires désignés pour trois ans par le ministre de l'agriculture et de la forêt.
 
 d) Trois chefs d'établissements de l'enseignement agricole privés relevant de l'article 4 de la loi du 31 décembre 1984 susvisée élus pour trois ans par leurs collègues au scrutin de liste avec représentation proportionnelle suivant la règle de la plus forte moyenne ;
 

@@ -2,9 +2,9 @@
 
 Il est institué auprès du ministre de l'agriculture un conseil de discipline ainsi composé :
 
-a) Le directeur général de l'enseignement et de la recherche au ministère de l'agriculture ou son représentant, président ;
+a) Le directeur général de l'administration au ministère de l'agriculture et de la forêt ou son représentant, président ;
 
-b) Un fonctionnaire de l'administration centrale ;
+b) Le directeur général de l'enseignement et de la recherche au ministère de l'agriculture et de la forêt ou son représentant.
 
 c) Deux chefs d'établissement de l'enseignement agricole privé ;
 

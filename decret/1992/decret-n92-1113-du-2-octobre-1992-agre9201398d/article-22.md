@@ -1,0 +1,7 @@
+# Article 22
+
+Indépendamment de la limite prévue par l'article 21 du décret du 20 juin 1989 susvisé les enseignants contractuels de 3e catégorie qui enseignent à titre principal en cycle long ou supérieur court et justifient de l'un des titres, diplômes ou qualités prévus à l'article 9 de ce décret dès lors qu'ils ont accompli au 1er janvier 1991 cinq années d'enseignement à temps complet ou leur équivalent peuvent accéder à la 2e catégorie par voie d'inscription sur un liste d'aptitude établie après avis du chef d'établissement et de la commission instituée par l'article 55 du décret du 20 juin 1989.
+
+Les intéressés sont nommés dans cette catégorie à l'issue d'une période probatoire d'une durée maximum d'un an sanctionnée par une inspection pédagogique favorable.
+
+Par dérogation aux dispositions de l'article 22 du décret du 20 juin 1989 ils sont reclassés à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui détenu dans la catégorie d'origine. Dans la limite de l'ancienneté exigée pour une promotion à l'échelon supérieur, les intéressés conservent l'ancienneté qu'ils avaient acquise dans l'échelon de leur ancienne catégorie lorsque l'augmentation de traitement consécutive à leur promotion est inférieure à celle que leur aurait procuré un avancement d'échelon dans leur ancienne catégorie. Toutefois, les enseignants ayant atteint le dernier échelon de la 3e catégorie conservent l'ancienneté qu'ils avaient acquise dans cet échelon dans la limite du temps nécessaire à une promotion d'échelon dans la nouvelle catégorie.
