@@ -129,6 +129,7 @@
 - [Décret n°98-351 du 4 mai 1998 (MAEJ9830036D)](decret-n98-351-du-4-mai-1998-maej9830036d)
 - [Décret n°98-353 du 4 mai 1998 (MAEJ9830038D)](decret-n98-353-du-4-mai-1998-maej9830038d)
 - [Décret du 5 février 1998 (ECOC9700188D)](decret-du-5-fevrier-1998-ecoc9700188d)
+- [Décret n°84-430 du 5 juin 1984](decret-n84-430-du-5-juin-1984)
 - [Décret n°98-11 du 5 janvier 1998 (MCCB9700769D)](decret-n98-11-du-5-janvier-1998-mccb9700769d)
 - [Décret n°98-128 du 5 mars 1998 (INTM9800008D)](decret-n98-128-du-5-mars-1998-intm9800008d)
 - [Décret n°98-3 du 5 janvier 1998 (MESS9723948D)](decret-n98-3-du-5-janvier-1998-mess9723948d)
