@@ -10,14 +10,20 @@ Les informations indirectement nominatives sont les suivantes :
 
 - nationalité (française ou non) ;
 
-- activité professionnelle (en douze postes) ;
+- couverture sociale ;
 
-- pathologie associée (en neuf postes) ;
+- bénéficiaire du revenu minimum d'insertion ;
 
-- modalités de prise en charge : motif d'admission, nature et structure de prise en charge ;
+- activité professionnelle (en huit postes) ;
+
+- pathologie associée (affection V.I.H., hépatite B, hépatite C) ;
+
+- modalité de prise en charge : motifs d'admission, nature et structure de prise en charge ;
 
 - prise en charge antérieure éventuelle (année et nature de la structure de prise en charge précédente et de premier recours) ;
 
 - existence d'une consommation au cours du dernier mois ;
 
-- nature des substances consommées.
+- nature des substances consommées ;
+
+- administration intraveineuse du produit.
