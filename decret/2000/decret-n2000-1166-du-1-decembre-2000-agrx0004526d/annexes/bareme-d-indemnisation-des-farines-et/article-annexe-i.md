@@ -1,14 +1,18 @@
 # Article Annexe I
 
-Farines de viande et d'os : 243,92 euros/t.
+Farines animales produites ou présentes dans les stocks de l'entreprise à compter du 6 août 2001 : 230 euros/t ;
 
-Graisses de cuisson et graisses d'os : 274,41 euros/t.
+Farines animales produites ou présentes dans les stocks de l'entreprise à compter du 1er octobre 2001 : 200 euros/t ;
 
-Farines de volaille, farines de plumes et cretons : 274,41 euros/t.
+Farines animales produites ou présentes dans les stocks de l'entreprise à compter du 1er janvier 2002 : 185 euros/t ;
 
-Graisses de volaille : 304,90 euros/t.
+Graisses de fonte produites ou présentes dans les stocks de l'entreprise à compter du 11 juin 2001 : 274,41 euros/t ;
 
-Farines de sang : 365,88 euros/t.
+Graisses animales produites ou présentes dans les stocks de l'entreprise à compter du 6 août 2001 : 230 euros/t ;
+
+Graisses animales produites ou présentes dans les stocks de l'entreprise à compter du 1er octobre 2001 : 190 euros/t ;
+
+Graisses animales produites ou présentes dans les stocks de l'entreprise à compter du 1er janvier 2002 : 150 euros/t.
 
 Ce barème vise les produits fabriqués par les transformateurs qui bénéficient d'une indemnisation non soumise à la TVA.
 
