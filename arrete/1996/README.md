@@ -776,6 +776,7 @@
 - [Arrêté du 24 septembre 1996 (BUDD9650008A)](arrete-du-24-septembre-1996-budd9650008a)
 - [Arrêté du 24 septembre 1996 (DEFD9601565A)](arrete-du-24-septembre-1996-defd9601565a)
 - [Arrêté du 24 septembre 1996 (EQUP9600734A)](arrete-du-24-septembre-1996-equp9600734a)
+- [Arrêté du 24 septembre 1996 (MENF9602773A)](arrete-du-24-septembre-1996-menf9602773a)
 - [Arrêté du 24 mai 1996 (BUDL9600661A)](arrete-du-24-mai-1996-budl9600661a)
 - [Arrêté du 24 mai 1996 (ECOT9651511A)](arrete-du-24-mai-1996-ecot9651511a)
 - [Arrêté du 24 mai 1996 (LOGC9600028A)](arrete-du-24-mai-1996-logc9600028a)
