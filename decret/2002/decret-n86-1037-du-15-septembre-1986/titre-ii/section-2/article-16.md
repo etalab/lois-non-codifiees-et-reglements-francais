@@ -6,7 +6,7 @@ a) La marque d'identification ou la marque commerciale du responsable des indica
 
 b) Le nom ou la raison sociale et l'adresse ou le siège social du fabricant, si celui-ci n'est pas responsable des indications d'étiquetage, en lieu et place de la mention prévue au k de l'article 15 ;
 
-c) Le cas échéant, le numéro de référence du lot ;
+c) (alinéa supprimé) ;
 
 d) Le pays de production ou de fabrication ;
 
@@ -14,7 +14,7 @@ e) Le prix du produit ;
 
 f) La dénomination ou la marque commerciale du produit ;
 
-g) Pour les produits destinés à des animaux familiers autres que les chiens et chats, l'énumération des matières premières pour aliments des animaux selon les modalités précisées au d de l'article 15 en ce qui concerne les produits destinés aux chiens et aux chats ;
+g) (alinéa supprimé) ;
 
 h) Les indications concernant l'état physique du produit ou le traitement spécifique qu'il a subi ;
 
