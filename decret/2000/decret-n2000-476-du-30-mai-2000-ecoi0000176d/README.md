@@ -1,4 +1,4 @@
-# Arrêté du 24 février 1994 relatif au classement des artifices de divertissement
+# Décret n°2000-476 du 30 mai 2000 autorisant le Commissariat à l'énergie atomique à procéder à une modification du laboratoire d'essais sur combustibles irradiés du centre d'études nucléaires de Saclay (département de l'Essonne).
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -11,3 +11,5 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)

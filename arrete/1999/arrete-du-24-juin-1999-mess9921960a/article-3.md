@@ -4,9 +4,9 @@ L'examen mentionné à l'article 1er du présent arrêté consiste en une épreu
 
 - un membre de l'inspection générale des affaires sociales, président ;
 
-- un directeur régional des affaires sanitaires et sociales ;
+- deux directeurs régionaux des affaires sanitaires et sociales ;
 
-- deux directeurs d'organismes de sécurité sociale.
+- trois directeurs d'organismes de sécurité sociale.
 
 Le jury comprend un nombre égal de membres suppléants ayant la même qualité que les membres titulaires.
 
