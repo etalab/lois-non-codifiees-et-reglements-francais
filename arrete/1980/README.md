@@ -72,7 +72,6 @@
 - [Arrêté du 24 octobre 1980](arrete-du-24-octobre-1980)
 - [Arrêté du 24 septembre 1980](arrete-du-24-septembre-1980)
 - [Arrêté du 25 février 1980](arrete-du-25-fevrier-1980)
-- [Arrêté du 25 janvier 1980](arrete-du-25-janvier-1980)
 - [Arrêté du 25 juin 1980](arrete-du-25-juin-1980)
 - [Arrêté du 25 novembre 1980](arrete-du-25-novembre-1980)
 - [Arrêté du 26 novembre 1979](arrete-du-26-novembre-1979)
