@@ -1,0 +1,11 @@
+# Article 3
+
+Les inspecteurs exercent leur activité dans l'un des quatre domaines de compétence définis à l'article 2 du décret statutaire et précisés ci-après :
+
+1° Inspecteurs à compétence pédagogique, eux-mêmes répartis par spécialités : ils exercent leurs missions à l'égard des personnels enseignants, des formateurs et des équipes pédagogiques des établissements d'enseignement et de formation professionnelle agricoles assurant des formations qui peuvent s'étendre, selon les cas, de la classe de quatrième du collège à l'enseignement supérieur inclus. Ils participent également à l'inspection de l'ensemble du fonctionnement et de l'organisation pédagogiques de ces établissements et de leurs centres ;
+
+2° Inspecteurs des missions particulières de l'enseignement agricole : formation continue et formation par apprentissage, développement, expérimentation, recherche, coopération internationale, animation rurale, insertion : ils exercent leurs missions vis-à-vis des établissements d'enseignement et de formation professionnelle agricoles et des établissements d'enseignement supérieur agricoles et de leurs agents ;
+
+3° Inspecteurs à compétence administrative, juridique et financière : ils exercent leurs missions à l'égard des personnels administratifs, techniques, ouvriers, de service et de santé des établissements d'enseignement et de formation professionnelle agricoles et des établissements d'enseignement supérieur agricoles. Ils concourent à l'inspection administrative générale de ces établissements et contrôlent leur gestion ;
+
+4° Inspecteurs à compétence générale : ils ont particulièrement vocation à exercer leurs missions vis-à-vis du fonctionnement général des établissements d'enseignement et de formation professionnelle agricoles et des établissements d'enseignement supérieur agricole et de leurs agents, en ce qui concerne l'exercice de leurs missions, la réalisation de leurs projets, leur vie sociale, scolaire et étudiante, l'organisation du service et la manière de servir des personnels, notamment des personnels de direction et d'encadrement. Ils exercent également leur mission à l'égard des dispositifs de formation et à l'égard des projets régionaux de l'enseignement agricole du point de vue de leur mise en oeuvre.

@@ -1,0 +1,3 @@
+# Article 4
+
+Pour l'organisation des activités de l'inspection de l'enseignement agricole, le doyen est assisté dans ses fonctions par des chargés de coordination de domaine d'activités, dont deux d'entre eux exercent en outre des fonctions d'assesseur du doyen. Les chargés de coordination sont choisis parmi les inspecteurs en fonction et nommés par le directeur général de l'enseignement et de la recherche sur proposition du doyen. L'inspection de l'enseignement agricole dispose d'un secrétariat général. Le secrétaire général est nommé par le directeur général de l'enseignement et de la recherche sur proposition du doyen parmi les fonctionnaires de catégorie A en poste au ministère chargé de l'agriculture.
