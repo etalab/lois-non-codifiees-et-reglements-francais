@@ -1,3 +1,3 @@
 # Article 1
 
-La contribution instituée par l'article 30 de la loi n° 82-540 du 28 juin 1982 est exonérée de prélèvement pour frais d'assiette et de recouvrement.
+Nonobstant toutes dispositions contraires, les prix toutes taxes et service compris de toutes les prestations de l'ensemble des établissements hôteliers, qu'ils soient homologués tourisme ou non et quelle que soit la catégorie de classement, ne peuvent être supérieurs aux prix licitement pratiqués à la date du 29 septembre 1983 ou, à défaut, à la date antérieure la plus proche.

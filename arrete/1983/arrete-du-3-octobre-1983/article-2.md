@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur général des collectivités locales et le directeur du budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les établissements saisonniers d'hiver ne peuvent pas pratiquer des tarifs supérieurs de 7 % à ceux de la période correspondante de la saison précédente, prestation par prestation.

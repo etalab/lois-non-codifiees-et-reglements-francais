@@ -1,0 +1,3 @@
+# Article 9 bis
+
+A titre transitoire, les dispositions du présent arrêté ne s'appliquent pas aux sociétés mutualistes dont les sections locales ou les correspondants exercent leur activité dans les départements d'outre-mer [*DOM*] ni aux décomptes de prestations des fonctionnaires en activité à l'étranger, dont la rémunération sera fixée par le ministre chargé de la sécurité sociale et le ministre chargé du budget, par voie de circulaire, après avis de la Caisse nationale de l'assurance maladie des travailleurs salariés et de la Fédération nationale des mutuelles de fonctionnaires et agents de l'Etat.
