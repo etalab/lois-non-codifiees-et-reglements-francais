@@ -10,6 +10,7 @@
 - [Loi n° 96-1093 du 16 décembre 1996 (FPPX9600101L)](loi-n-96-1093-du-16-decembre-1996-fppx9600101l)
 - [Loi n° 96-110 du 14 février 1996 (ECOX9601356L)](loi-n-96-110-du-14-fevrier-1996-ecox9601356l)
 - [Loi n° 96-1106 du 18 décembre 1996 (INDX9500156L)](loi-n-96-1106-du-18-decembre-1996-indx9500156l)
+- [Loi n° 96-1111 du 19 décembre 1996 (DEFX9600095L)](loi-n-96-1111-du-19-decembre-1996-defx9600095l)
 - [Loi n° 96-126 du 21 février 1996 (TEFX9500150L)](loi-n-96-126-du-21-fevrier-1996-tefx9500150l)
 - [Loi n° 96-127 du 21 février 1996 (MAEX9500019L)](loi-n-96-127-du-21-fevrier-1996-maex9500019l)
 - [Loi n° 96-128 du 21 février 1996 (MAEX9500098L)](loi-n-96-128-du-21-fevrier-1996-maex9500098l)

@@ -542,6 +542,8 @@
 - [Décret n°96-1010 du 19 novembre 1996 (INDB9600410D)](decret-n96-1010-du-19-novembre-1996-indb9600410d)
 - [Décret n°96-1012 du 19 novembre 1996 (ECOR9604299D)](decret-n96-1012-du-19-novembre-1996-ecor9604299d)
 - [Décret n°96-1013 du 19 novembre 1996 (INDE9600685D)](decret-n96-1013-du-19-novembre-1996-inde9600685d)
+- [Décret n°96-1114 du 19 décembre 1996 (JUSF9650008D)](decret-n96-1114-du-19-decembre-1996-jusf9650008d)
+- [Décret n°96-1116 du 19 décembre 1996 (TASS9624385D)](decret-n96-1116-du-19-decembre-1996-tass9624385d)
 - [Décret n°96-124 du 19 février 1996 (MENN9502515D)](decret-n96-124-du-19-fevrier-1996-menn9502515d)
 - [Décret n°96-210 du 19 mars 1996 (JUSC9620246D)](decret-n96-210-du-19-mars-1996-jusc9620246d)
 - [Décret n°96-212 du 19 mars 1996 (MIPP9600048D)](decret-n96-212-du-19-mars-1996-mipp9600048d)

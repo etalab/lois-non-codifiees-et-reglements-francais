@@ -1,0 +1,3 @@
+# Article 7
+
+L'utilisation des bouteilles de type CEE pour l'emmagasinage de l'hydrogène, du monoxyde de carbone ou de tout gaz susceptible de contenir des traces d'hydrogène sulfuré et de point de rosée supérieur à - 10°C n'est autorisée que si l'annexe technique au certificat d'agrément CEE ou de vérification CEE présenté à l'expert en application de l'article 5 (§ 1) ci-dessus précise une valeur maximale garantie du rapport Re/Rm mentionné à l'article 4 (§ 1°) de l'arrêté du 9 février 1982 susvisé inférieure à 0,90. Dans ce cas, le numéro de fabrication de ces bouteilles doit se terminer par la lettre H.
