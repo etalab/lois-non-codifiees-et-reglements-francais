@@ -26,4 +26,4 @@ Du 5e  au 6e échelon
 
 4 ans 6 mois
 
-Le ministre chargé des anciens combattants prononce, pour chaque année scolaire, les promotions des professeurs des écoles de rééducation professionnelle et des enseignants visés à l'article 23 ci-dessus.
+Le directeur général de l'Office national des anciens combattants et victimes de guerre prononce, pour chaque année scolaire, les promotions des professeurs des écoles de rééducation professionnelle et des enseignants visés à l'article 23 ci-dessus.

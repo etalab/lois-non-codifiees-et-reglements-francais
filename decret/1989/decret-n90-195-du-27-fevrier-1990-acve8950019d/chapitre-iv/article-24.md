@@ -178,6 +178,6 @@ b) Une liste des professeurs atteignant au cours de cette période l'ancienneté
 
 c) Les fonctionnaires qui ne bénéficient pas d'une promotion au grand choix ou au choix sont promus lorsqu'ils justifient de la durée de services prévue pour l'avancement à l'ancienneté.
 
-Pour les personnels visés à l'article 23 ci-dessus, le ministre chargé des anciens combattants dresse, respectivement pour chaque grade et pour chaque année scolaire, la liste des personnels détachés ou affectés dans un établissement d'enseignement supérieur, la liste des personnels exerçant des fonctions d'enseignement dans d'autres établissements et la liste des personnels ne remplissant pas des fonctions d'enseignement. Il prononce les promotions après avis de la commission administrative paritaire.
+Pour les personnels visés à l'article 23 ci-dessus, le directeur général de l'Office national des anciens combattants et victimes de guerre dresse, respectivement pour chaque grade et pour chaque année scolaire, la liste des personnels détachés ou affectés dans un établissement d'enseignement supérieur, la liste des personnels exerçant des fonctions d'enseignement dans d'autres établissements et la liste des personnels ne remplissant pas des fonctions d'enseignement. Il prononce les promotions après avis de la commission administrative paritaire.
 
-Pour ces personnels, le ministre procède à l'avancement d'échelon dans les conditions fixées aux a, b et c du présent article.
+Pour ces personnels, le directeur général procède à l'avancement d'échelon dans les conditions fixées aux a, b et c du présent article.
