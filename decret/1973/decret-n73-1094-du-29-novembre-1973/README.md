@@ -1,6 +1,5 @@
 # Décret n°73-1094 du 29 novembre 1973 relatif au recrutement et à l'avancement de certains agents des services médicaux des établissements d'hospitalisation, de soins ou de cure publics.
 
-- [Article 1](article-1.md)
 - [Section I : personnel d'encadrement des services médicaux](section-i)
 - [Section II : personnel infirmier](section-ii)
 - [Section III : sages-femmes](section-iii)
