@@ -1,3 +1,0 @@
-# Article 6
-
-Les dépenses de fonctionnement exposées par l'organisme chargé du recouvrement ou la caisse au titre de la déclaration unique d'embauche sont réparties entre les administrations, services et organismes concernés par l'une ou l'autre des déclarations ou demandes prévues à l'article 1er selon des modalités définies par arrêté du ministre chargé du travail, du ministre chargé de la sécurité sociale et du ministre chargé des petites et moyennes entreprises, du commerce et de l'artisanat, et, pour le régime des salariés agricoles, par arrêté du ministre chargé de l'agriculture, du ministre chargé du travail et du ministre chargé de la sécurité sociale.
