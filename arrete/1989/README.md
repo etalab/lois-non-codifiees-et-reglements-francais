@@ -494,7 +494,6 @@
 - [Arrêté du 28 avril 1989 (SPSM8900965A)](arrete-du-28-avril-1989-spsm8900965a)
 - [Arrêté du 28 décembre 1988 (TEFT8804201A)](arrete-du-28-decembre-1988-teft8804201a)
 - [Arrêté du 28 décembre 1989 (ECOT8916095A)](arrete-du-28-decembre-1989-ecot8916095a)
-- [Arrêté du 28 février 1989 (INDD8900155A)](arrete-du-28-fevrier-1989-indd8900155a)
 - [Arrêté du 28 février 1989 (TEFX8910055A)](arrete-du-28-fevrier-1989-tefx8910055a)
 - [Arrêté du 28 juillet 1989 (DEFL8901789A)](arrete-du-28-juillet-1989-defl8901789a)
 - [Arrêté du 28 juillet 1989 (DEFL8901790A)](arrete-du-28-juillet-1989-defl8901790a)
