@@ -5,3 +5,4 @@
 - [Loi n° 57-32 du 10 janvier 1957](loi-n-57-32-du-10-janvier-1957)
 - [Loi n° 57-444 du 8 avril 1957](loi-n-57-444-du-8-avril-1957)
 - [Loi n° 57-746 du 4 juillet 1957](loi-n-57-746-du-4-juillet-1957)
+- [Loi n° 57-821 du 23 juillet 1957](loi-n-57-821-du-23-juillet-1957)

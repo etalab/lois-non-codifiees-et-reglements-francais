@@ -1,0 +1,3 @@
+# Article 1
+
+Chaque établissement public ou privé qui reçoit pour leur observation, leur éducation ou leur rééducation soit en internat, soit sous diverses formes d'externat, soit en foyer, soit concurremment sous plusieurs de ces régimes, des mineurs bénéficiaires des dispositions du chapitre VI du titre III du code de la famille et de l'aide sociale (1) requérant à la fois des soins, une éducation spécialisée, éventuellement une formation professionnelle adaptée à leur état doit, pour les mineurs au-dessus de trois ans, répondre aux conditions d'installation et de fonctionnement prévues par le présent arrêté.
