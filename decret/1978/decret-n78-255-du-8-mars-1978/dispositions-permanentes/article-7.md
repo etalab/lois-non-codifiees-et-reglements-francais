@@ -1,3 +1,3 @@
 # Article 7
 
-L'avancement des maîtres agréés est prononcé après avis de la commission consultative mixte mentionnée à l'article 9 ou à l'article 10 ci-après [*condition*]. Il est soumis aux dispositions applicables aux catégories correspondantes de l'enseignement public.
+Les commissions instituées aux articles 8 et 9 du décret du 28 juillet 1960 susvisé sont compétentes pour émettre un avis sur le classement indiciaire, l'avancement ou le retrait d'agrément des maîtres agréés des établissements spécialisés sous contrat accueillant des enfants et adolescents handicapés.
