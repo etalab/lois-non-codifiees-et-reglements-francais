@@ -627,7 +627,6 @@
 - [Décret n°96-757 du 23 août 1996 (INTE9600200D)](decret-n96-757-du-23-aout-1996-inte9600200d)
 - [Décret n°96-758 du 23 août 1996 (BUDZ9600008D)](decret-n96-758-du-23-aout-1996-budz9600008d)
 - [Décret n°96-759 du 23 août 1996 (BUDF9610032D)](decret-n96-759-du-23-aout-1996-budf9610032d)
-- [Décret n°96-840 du 23 septembre 1996 (PRMX9601656D)](decret-n96-840-du-23-septembre-1996-prmx9601656d)
 - [Décret n°96-841 du 23 septembre 1996 (MENL9602293D)](decret-n96-841-du-23-septembre-1996-menl9602293d)
 - [Décret n°96-843 du 23 septembre 1996 (BUDF9610029D)](decret-n96-843-du-23-septembre-1996-budf9610029d)
 - [Décret du 23 mai 1996 (ENVN9640032D)](decret-du-23-mai-1996-envn9640032d)
