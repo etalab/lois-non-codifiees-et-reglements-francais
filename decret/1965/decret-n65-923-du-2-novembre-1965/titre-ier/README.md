@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Recrutement et avancement.](chapitre-ii)
+- [Chapitre III : Dispositions transitoires.](chapitre-iii)
