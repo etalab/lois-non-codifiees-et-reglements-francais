@@ -204,4 +204,4 @@ La liste des commissions prévues à l'article 3 du décret du 28 mai 1990 susvi
 
 101° Commission des comptes de l'agriculture de la nation ;
 
-102° Comité de simplification.
+102°Commission interdirections de la simplification et groupe utilisateurs.
