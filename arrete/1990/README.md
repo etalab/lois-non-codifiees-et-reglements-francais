@@ -605,7 +605,6 @@
 - [Arrêté du 26 décembre 1989 (SPSS8902776A)](arrete-du-26-decembre-1989-spss8902776a)
 - [Arrêté du 26 février 1990 (ECOP9000115A)](arrete-du-26-fevrier-1990-ecop9000115a)
 - [Arrêté du 26 février 1990 (PTTT9000210A)](arrete-du-26-fevrier-1990-pttt9000210a)
-- [Arrêté du 26 janvier 1990 (ECOM9000002A)](arrete-du-26-janvier-1990-ecom9000002a)
 - [Arrêté du 26 janvier 1990 (ECOT8913231A)](arrete-du-26-janvier-1990-ecot8913231a)
 - [Arrêté du 26 janvier 1990 (EQUS9000143A)](arrete-du-26-janvier-1990-equs9000143a)
 - [Arrêté du 26 janvier 1990 (MERG9000013A)](arrete-du-26-janvier-1990-merg9000013a)
