@@ -1,0 +1,7 @@
+# Article 4
+
+Ouvrent droit à l'exonération prévue à l'article L. 322-13 du code du travail les embauches de salariés mentionnés à l'article 1er du présent décret ayant pour effet de porter le nombre de salariés employés dans l'entreprise ou le groupement d'employeurs à la date d'effet de l'embauche, dans les conditions prévues au III dudit article L. 322-13, à un niveau supérieur au total du nombre des salariés employés dans les mêmes conditions dans l'entreprise ou le groupement au 31 décembre 1996 et du nombre de salariés embauchés dans les mêmes conditions depuis cette date, compte non tenu, parmi ces derniers, de ceux embauchés en compensation de salariés employés au 31 décembre 1996 et dont le contrat de travail est rompu, postérieurement à cette date, pour un motif indépendant de la volonté de l'employeur.
+
+En cas de rupture, pour un motif indépendant de la volonté de l'employeur, du contrat de travail d'un salarié dont l'embauche ouvre droit à l'exonération, ce droit est ouvert, pour la durée restant à courir à compter de la date d'effet de la rupture, au titre de la première embauche effectuée postérieurement à la date de la rupture et dans les conditions prévues au III de l'article L. 322-13 du code du travail.
+
+Pour l'application de la limite de cinquante salariés, est pris en compte l'effectif des salariés de l'entreprise ou du groupement employés dans les conditions prévues au III dudit article L. 322-13 et dont le contrat de travail est en cours d'exécution ou suspendu avec ou sans versement de rémunération.
