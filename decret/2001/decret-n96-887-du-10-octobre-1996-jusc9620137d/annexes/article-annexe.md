@@ -8,13 +8,15 @@ Dispositions générales
 
 Article 1er
 
-Conformément aux dispositions des articles 27, 64-1 et 64-2 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit des dotations annuelles correspondant à la contribution de l'Etat à la rétribution des avocats inscrits au barreau pour :
+Conformément aux dispositions des articles 27, 64-1, 64-2 et 64-3 de la loi n° 91-647 du 10 juillet 1991 relative à l'aide juridique et des articles 118 et 132-1 du décret n° 91-1266 du 19 décembre 1991, la caisse de règlements pécuniaires des avocats (Carpa) reçoit des dotations annuelles correspondant à la contribution de l'Etat à la rétribution des avocats inscrits au barreau pour :
 
 1° Les missions d'aide juridictionnelle qu'ils accomplissent ;
 
 2° Les interventions au cours de la garde à vue en cas de désignation d'office ;
 
-3° Les missions d'aide à l'intervention en matière de médiation pénale et de composition pénale, et au titre de la mesure prévue à l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante qu'ils accomplissent.
+3° Les missions d'aide à l'intervention en matière de médiation pénale et de composition pénale, et au titre de la mesure prévue à l'article 12-1 de l'ordonnance n° 45-174 du 2 février 1945 relative à l'enfance délinquante qu'ils accomplissent ;
+
+4° Les missions d'assistance aux détenus au cours de procédures disciplinaires en relation avec leur détention.
 
 Ces fonds sont versés sur le compte spécial prévu à l'article 29 de la loi du 10 juillet 1991 précitée où ils font l'objet d'enregistrements distincts.
 
@@ -24,13 +26,15 @@ Article 2
 
 Il est procédé, dans les livres d'un établissement de crédit, à l'ouverture des comptes ci-après désignés :
 
-1° Au titre du compte spécial : trois comptes distincts intitulés respectivement :
+1° Au titre du compte spécial : quatre comptes distincts intitulés respectivement :
 
 a) Carpa - aide juridictionnelle ;
 
 b) Carpa - garde à vue ;
 
 c) Carpa-médiation et composition pénales et mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 ;
+
+d) CARPA - assistance d'un détenu au cours d'une procédure disciplinaire en relation avec sa détention.
 
 2° Trois comptes annexes, intitulés respectivement :
 
@@ -58,7 +62,7 @@ La Carpa doit être équipée d'un logiciel homologué par le gard e des sceaux,
 
 Article 6
 
-La Carpa procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés par l'Etat au titre de l'aide juridictionnelle, de la garde à vue, de la médiation et de la composition pénales et de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée ainsi que, le cas échéant, du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 précité.
+La CARPA procède à l'enregistrement comptable de tous les mouvements affectant les fonds versés par l'Etat au titre de l'aide juridictionnelle, de la garde à vue, de la médiation et de la composition pénales, de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée, et de l'aide à l'intervention de l'avocat pour l'assistance aux détenus au cours de procédures disciplinaires, ainsi que, le cas échéant, du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 précité.
 
 Article 7
 
@@ -72,7 +76,7 @@ Article 8
 
 Les placements de fonds correspondant aux dotations versées par l'Etat doivent être distincts des autres placements effectués par la Carpa.
 
-Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre du protocole des articles 91 et 132-6 du décret du 19 décembre 1991 précité, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle ou d'aide à l'intervention de l'avocat au cours de la garde à vue et en matière de médiation et de composition pénales, ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée.
+Les fonds versés par l'Etat, à l'exception de la dotation complémentaire au titre du protocole conclu en application des articles 91 et 132-6 du décret du 19 décembre 1991 précité, ne peuvent avoir d'autre destination finale que la rétribution des avocats au titre des missions d'aide juridictionnelle, d'aide à l'intervention de l'avocat au cours de la garde à vue, en matière de médiation et de composition pénales, au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée et au titre de l'aide à l'intervention de l'avocat pour l'assistance aux détenus au cours de procédures disciplinaires.
 
 Article 9
 
@@ -84,7 +88,7 @@ Le montant des produits financiers perçus est arrêté, au plus tard, le 31 dé
 
 Article 11
 
-Les produits financiers perçus par la Carpa au titre des fonds reçus de l'Etat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et de l'aide à l'intervention de l'avocat au cours de la garde à vue et en matière de médiation et de composition pénales, ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée exposés par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément au protocole conclu au titre des articles 91 et 132-6 du décret du 19 décembre 1991 précité.
+Les produits financiers perçus par la Carpa au titre des fonds reçus de l'Etat sont exclusivement utilisés pour couvrir en tout ou partie les charges de gestion du service de l'aide juridictionnelle et de l'aide à l'intervention de l'avocat au cours de la garde à vue et en matière de médiation et de composition pénales, ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée et au titre de l'aide à l'intervention de l'avocat pour l'assistance aux détenus au cours de procédures disciplinaires exposés par la Carpa ou l'ordre et, le cas échéant, les charges exposées au titre de l'organisation de la défense, conformément au protocole conclu au titre des articles 91 et 132-6 du décret du 19 décembre 1991 précité.
 
 Article 12
 
@@ -194,6 +198,14 @@ L'article 20 s'applique aux rétributions dues à l'avocat pour les missions rel
 
 Section 4
 
+Aide à l'intervention de l'avocat pour l'assistance aux détenus au cours de procédures disciplinaires
+
+Article 20-4
+
+La rétribution due à l'avocat ayant accompli une mission d'assistance à une personne détenue dans le cadre d'une procédure disciplinaire en relation avec sa détention est versée contre la remise à la CARPA d'une attestation visée par le président de la commission de discipline et par le bâtonnier ou son représentant.
+
+Section 5
+
 Dispositions communes
 
 Article 21
@@ -204,7 +216,7 @@ Il fournit les références du compte ouvert dans les livres d'un établissement
 
 Article 22
 
-L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission transactionnelle qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours de la garde à vue.
+L'avocat doit remettre sans délai à la Carpa les attestations de mission, ordonnances et attestations de fin de mission transactionnelle qui lui ont été délivrées ainsi que les imprimés prévus pour les interventions au cours de la garde à vue et pour l'assistance aux détenus au cours de procédures disciplinaires.
 
 Article 23
 
@@ -214,7 +226,7 @@ La rétribution est versée à l'avocat désigné, selon le cas :
 
 - dans la décision du président de ce bureau pour les interventions en matière de médiation ou de composition pénales ou au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée ;
 
-- par le bâtonnier pour les interventions au cours de la garde à vue.
+- par le bâtonnier pour les interventions au cours de la garde à vue et pour l'aide à l'intervention de l'avocat pour l'assistance aux détenus au cours de procédures disciplinaires.
 
 Toutefois, en cas de changement d'avocat en cours de procédure, la rétribution est versée à l'avocat dont le nom figure sur l'attestation de mission, sur l'ordonnance ou sur l'attestation de fin de mission transactionnelle, sous réserve des règles de répartition prévues à l'article 103 du décret du 19 décembre 1991 précité.
 
@@ -315,3 +327,5 @@ La Carpa transmet au garde des sceaux, ministre de la justice, un état de trés
 2° Les montants des rétributions versées pour les interventions des avocats au cours de la garde à vue ;
 
 3° Les montants des rétributions versées aux avocats pour l'aide à l'intervention en matière de médiation et de composition pénales ainsi qu'au titre de la mesure prévue à l'article 12-1 de l'ordonnance du 2 février 1945 précitée.
+
+4° Les montants des rétributions versées aux avocats pour l'assistance aux détenus au cours de procédures disciplinaires.
