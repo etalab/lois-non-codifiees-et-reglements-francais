@@ -6,7 +6,7 @@
 
 17.1.2.1. A compter d'un an après la date de publication du présent arrêté, la reconstruction de tout four dans une installation devra comporter les aménagements permettant d'assurer la mise en place des équipements externes éventuellement nécessaires au respect des valeurs limites de rejets fixées à l'article 11.2 ci-dessus pour les émissions du four correspondant.
 
-17.1.2.1.1. Les valeurs limites de rejets fixées pour les poussières à l'article 11.2.1 devront être respectées au plus tard dans un délai de dix ans à compter de la date de publication du présent arrêté.
+17.1.2.1.1. Les valeurs limites de rejets fixées pour les poussières à l'article 11.2.1 devront être respectées au plus tard au 31 décembre 2004.
 
 En cas de reconstruction du four, les valeurs limites visées ci-dessus devront être respectées au plus tard dans un délai de deux ans à compter de la date de reconstruction pour les émissions canalisées provenant du ou des fours reconstruits.
 

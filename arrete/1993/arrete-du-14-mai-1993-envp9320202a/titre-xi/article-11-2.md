@@ -101,3 +101,15 @@ Pour les verres techniques dits " spéciaux et le cristal au plomb les rejets pr
 La somme des teneurs en métaux (As + Cr + Pb + Cd + Sb + Ni + Co + Se + V) ne doit pas dépasser la valeur limite d'émission la plus élevée correspondant aux métaux normalement présents dans l'effluent gazeux.
 
 La teneur en acide fluorhydrique des émissions provenant des postes de polissage du verre spécial ou de cristal froid est limitée à 10 mg/Nm3.
+
+11.2.5. Pour les installations de capacité nominale supérieure à 25 t/j construites ou reconstruites dans la période du 9 juillet 1994 au 31 décembre 2004, et dont les émissions en oxydes d'azote exprimées en dioxyde d'azote respectent les valeurs maximales suivantes :
+
+- fours Unit Melter (U.M.) : 1 kg/t de verre ou 500 mg/Nm3 ;
+
+- fours à boucle : 1,5 kg/t de verre ou 700 mg/Nm3 ;
+
+- fours transversaux : 2 kg/t de verre ou 1 100 mg/Nm3.
+
+Les valeurs limites de rejet en poussières définies à l'article 11.2.1 ci-dessus sont portées aux valeurs suivantes :
+
+0,35 kg/t de verre ou 150 mg/Nm3.

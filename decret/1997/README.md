@@ -53,6 +53,8 @@
 - [Décret n°96-1178 du 27 décembre 1996 (MIPP9600482D)](decret-n96-1178-du-27-decembre-1996-mipp9600482d)
 - [Décret n°96-1250 du 27 décembre 1996 (MIPP9600512D)](decret-n96-1250-du-27-decembre-1996-mipp9600512d)
 - [Décret n°96-1256 du 27 décembre 1996 (FPPA9610035D)](decret-n96-1256-du-27-decembre-1996-fppa9610035d)
+- [Décret n°96-1257 du 27 décembre 1996 (ECOS9650049D)](decret-n96-1257-du-27-decembre-1996-ecos9650049d)
+- [Décret n°96-1258 du 27 décembre 1996 (ECOS9650050D)](decret-n96-1258-du-27-decembre-1996-ecos9650050d)
 - [Décret n°88-303 du 28 mars 1988 (RESY8800358D)](decret-n88-303-du-28-mars-1988-resy8800358d)
 - [Décret n°97-90 du 28 janvier 1997 (ECOP9600039D)](decret-n97-90-du-28-janvier-1997-ecop9600039d)
 - [Décret n°99-544 du 28 juin 1999 (INTC9900125D)](decret-n99-544-du-28-juin-1999-intc9900125d)

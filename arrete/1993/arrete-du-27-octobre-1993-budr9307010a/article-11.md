@@ -1,3 +1,3 @@
 # Article 11
 
-Le droit d'accès prévu par l'article 34 de la loi du 6 janvier 1978 susvisée s'exerce auprès du centre régional (ou du service en outre-mer) de la redevance de l'audiovisuel territorialement compétent.
+Les droits d'accès et de modification, prévus par les articles 34 à 36 de la loi du 6 janvier 1978 susvisée, s'exercent auprès du centre régional (ou du service en outre-mer) ou, pour ce qui concerne la recherche de postes non déclarés, de la circonscription de contrôle de la redevance de l'audiovisuel territorialement compétents.
