@@ -409,7 +409,6 @@
 - [Arrêté du 20 décembre 1988 (PTTT8801119A)](arrete-du-20-decembre-1988-pttt8801119a)
 - [Arrêté du 20 décembre 1988 (TRSL8800530A)](arrete-du-20-decembre-1988-trsl8800530a)
 - [Arrêté du 20 janvier 1988 (AGRP8702075A)](arrete-du-20-janvier-1988-agrp8702075a)
-- [Arrêté du 20 janvier 1988 (AGRS8800075A)](arrete-du-20-janvier-1988-agrs8800075a)
 - [Arrêté du 20 janvier 1988 (ASEP8800520A)](arrete-du-20-janvier-1988-asep8800520a)
 - [Arrêté du 20 janvier 1988 (ECOT8813057A)](arrete-du-20-janvier-1988-ecot8813057a)
 - [Arrêté du 20 juillet 1988 (ECOB8810025A)](arrete-du-20-juillet-1988-ecob8810025a)
