@@ -176,6 +176,7 @@
 - [Arrêté du 9 mars 1989 (SPSS8900499A)](arrete-du-9-mars-1989-spss8900499a)
 - [Arrêté du 9 novembre 1989 (BUDB8960060A)](arrete-du-9-novembre-1989-budb8960060a)
 - [Arrêté du 9 novembre 1989 (PRME8961681A)](arrete-du-9-novembre-1989-prme8961681a)
+- [Arrêté du 9 novembre 1989 (TEFE8903890A)](arrete-du-9-novembre-1989-tefe8903890a)
 - [Arrêté du 9 octobre 1989 (ECOC8900125A)](arrete-du-9-octobre-1989-ecoc8900125a)
 - [Arrêté du 9 octobre 1989 (EQUT8901098A)](arrete-du-9-octobre-1989-equt8901098a)
 - [Arrêté du 9 octobre 1989 (SPSH8902111A)](arrete-du-9-octobre-1989-spsh8902111a)
