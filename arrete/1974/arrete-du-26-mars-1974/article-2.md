@@ -1,0 +1,3 @@
+# Article 2
+
+Par dérogation aux dispositions de l'article 1er ci-dessus, des autorisations limitées peuvent être accordées par le ministre de la santé publique et de la sécurité sociale, pour les utilisations déterminées à caractère restreint et ne nécessitant l'administration à un patient que des doses correspondant à des activités inférieures ou égales à cinq microcuries (185 kilobecquerels) par examen, à des docteurs en médecine justifiant d'un stage soit dans un service d'exploration fonctionnelle par les radio-éléments, soit au service central de protection contre les rayonnements ionisants, soit dans les divisions de radiobiologie du service de santé des armées.
