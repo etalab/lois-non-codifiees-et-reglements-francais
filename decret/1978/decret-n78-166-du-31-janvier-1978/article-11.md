@@ -1,11 +1,9 @@
 # Article 11
 
-La mise en vente ou la vente d'un lot de préemballages refusé au contrôle métrologique n'est autorisée que dans des conditions prescrites par l'agent chargé du contrôle et garantissant qu'aucun préjudice n'est subi par l'acheteur, à savoir :
+Lorsqu'un lot n'est pas conforme aux prescriptions de l'article 4, le conditionneur ne peut le mettre en vente qu'à la condition de garantir à l'acheteur qu'il ne subit aucun préjudice, à savoir :
 
-La mise en conformité du lot ;
+- par la mise en conformité du lot ;
 
-La vente à un acheteur dûment informé pour sa consommation propre ;
+- par la vente à un acheteur dûment informé pour sa consommation propre ;
 
-Lorsqu'ils ne font pas l'objet d'un texte normalisant leur masse ou leur volume, l'apposition sur les préemballages d'un étiquetage approprié indiquant de manière très apparente le contenu effectif et le prix à l'unité de mesure.
-
-Afin d'empêcher une commercialisation irrégulière des préemballages non conformes aux dispositions du présent décret, notamment de l'article 6, l'agent chargé du contrôle appose sur chacun de ces préemballages l'inscription : "Vente interdite".
+- lorsqu'ils ne font pas l'objet d'un texte normalisant leur masse ou leur volume, par l'apposition sur les préemballages d'un étiquetage approprié indiquant de manière apparente le contenu effectif et le prix à l'unité de mesure.
