@@ -241,7 +241,6 @@
 - [Décret n°92-42 du 10 janvier 1992 (SANH9102612D)](decret-n92-42-du-10-janvier-1992-sanh9102612d)
 - [Décret n°91-420 du 10 mai 1991 (BUDB9150026D)](decret-n91-420-du-10-mai-1991-budb9150026d)
 - [Décret n°91-423 du 10 mai 1991 (SANH9100732D)](decret-n91-423-du-10-mai-1991-sanh9100732d)
-- [Décret n°91-427 du 10 mai 1991 (DOMP9100013D)](decret-n91-427-du-10-mai-1991-domp9100013d)
 - [Décret n°91-438 du 10 mai 1991 (MENF9100483D)](decret-n91-438-du-10-mai-1991-menf9100483d)
 - [Décret n°91-439 du 10 mai 1991 (MENF9100484D)](decret-n91-439-du-10-mai-1991-menf9100484d)
 - [Décret n°91-452 du 10 mai 1991 (EQUC9100124D)](decret-n91-452-du-10-mai-1991-equc9100124d)
