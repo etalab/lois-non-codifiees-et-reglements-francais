@@ -503,7 +503,6 @@
 - [Arrêté du 26 février 1987 (TRST8700054A)](arrete-du-26-fevrier-1987-trst8700054a)
 - [Arrêté du 26 janvier 1987](arrete-du-26-janvier-1987)
 - [Arrêté du 26 janvier 1987 (ASEH8700120A)](arrete-du-26-janvier-1987-aseh8700120a)
-- [Arrêté du 26 janvier 1987 (DEFP8701071A)](arrete-du-26-janvier-1987-defp8701071a)
 - [Arrêté du 26 juin 1987 (AGRR8701408A)](arrete-du-26-juin-1987-agrr8701408a)
 - [Arrêté du 26 juin 1987 (ASES8700949A)](arrete-du-26-juin-1987-ases8700949a)
 - [Arrêté du 26 juin 1987 (ECOT8750038A)](arrete-du-26-juin-1987-ecot8750038a)
