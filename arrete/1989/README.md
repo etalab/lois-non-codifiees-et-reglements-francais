@@ -350,6 +350,7 @@
 - [Arrêté du 20 juin 1989 (ECOC8900034A)](arrete-du-20-juin-1989-ecoc8900034a)
 - [Arrêté du 20 juin 1989 (ECOC8900035A)](arrete-du-20-juin-1989-ecoc8900035a)
 - [Arrêté du 20 juin 1989 (JUSC8920426A)](arrete-du-20-juin-1989-jusc8920426a)
+- [Arrêté du 20 septembre 1989 (SPSH8901921A)](arrete-du-20-septembre-1989-spsh8901921a)
 - [Arrêté du 21 août 1989 (PRME8961358A)](arrete-du-21-aout-1989-prme8961358a)
 - [Arrêté du 21 avril 1989 (BUDR8904019A)](arrete-du-21-avril-1989-budr8904019a)
 - [Arrêté du 21 avril 1989 (EQUA8900446A)](arrete-du-21-avril-1989-equa8900446a)
