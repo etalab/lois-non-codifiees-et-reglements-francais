@@ -1,0 +1,3 @@
+# Article 1
+
+En complément des attributions qui leur sont conférées par les articles L. 422-1 à L. 422-5 du code du travail et sans préjudice des attributions des commissions administratives paritaires prévues par le décret du 11 février 1994 susvisé, les délégués du personnel de France Télécom ont pour mission de présenter toutes les réclamations individuelles ou collectives relatives à l'application aux fonctionnaires de France Télécom des dispositions législatives et réglementaires relatives à leur statut ainsi que des stipulations des conventions ou accords d'entreprise qui leur sont applicables.
