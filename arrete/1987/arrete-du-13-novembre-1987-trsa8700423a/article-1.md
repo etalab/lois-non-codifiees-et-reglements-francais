@@ -1,0 +1,3 @@
+# Article 1
+
+Les ingénieurs des ponts et chaussées, les ingénieurs des études et de l'exploitation, les techniciens supérieurs des études et de l'exploitation de l'aviation civile et les fonctionnaires du ministère de la défense affectés à la direction générale de l'aviation civile peuvent être habilités par le ministre chargé de l'aviation civile à procéder au contrôle technique que l'Etat exerce pour l'application des dispositions fixées par les conventions internationales, les lois et règlements en vigueur concernant le personnel navigant, le matériel volant et l'exploitant technique de ce matériel.
