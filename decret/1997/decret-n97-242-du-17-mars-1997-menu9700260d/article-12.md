@@ -18,7 +18,7 @@ II. - Elle est composée des membres suivants :
 
 3° Le président du jury de l'examen de géomètre expert foncier diplômé par le Gouvernement ou un membre du jury le représentant ;
 
-4° Un représentant du ministre chargé de l'architecture proposé par ce dernier et nommé par le ministre chargé de l'enseignement supérieur ;
+4° Un représentant du ministre chargé de l'urbanisme proposé par ce dernier et nommé par le ministre chargé de l'enseignement supérieur ;
 
 5° Le directeur général de l'Institut géographique national ou son représentant ;
 
