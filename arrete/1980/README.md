@@ -11,4 +11,5 @@
 - [Arrêté du 15 octobre 1979](arrete-du-15-octobre-1979)
 - [Arrêté du 17 décembre 1979](arrete-du-17-decembre-1979)
 - [Arrêté du 21 décembre 1979](arrete-du-21-decembre-1979)
+- [Arrêté du 27 décembre 1979](arrete-du-27-decembre-1979)
 - [Arrêté du 31 décembre 1980](arrete-du-31-decembre-1980)
