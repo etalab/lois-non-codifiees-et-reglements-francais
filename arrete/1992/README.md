@@ -8,6 +8,7 @@
 - [Arrêté du 2 octobre 1992 (TEFO9205291A)](arrete-du-2-octobre-1992-tefo9205291a)
 - [Arrêté du 4 décembre 1991 (JUSG9160083A)](arrete-du-4-decembre-1991-jusg9160083a)
 - [Arrêté du 8 mars 1993 (SPSG9300507A)](arrete-du-8-mars-1993-spsg9300507a)
+- [Arrêté du 9 décembre 1991 (JUSG9160052A)](arrete-du-9-decembre-1991-jusg9160052a)
 - [Arrêté du 10 décembre 1991 (ENVP9161434A)](arrete-du-10-decembre-1991-envp9161434a)
 - [Arrêté du 10 décembre 1991 (SPSS9102714A)](arrete-du-10-decembre-1991-spss9102714a)
 - [Arrêté du 11 décembre 1991 (ENVN9161406A)](arrete-du-11-decembre-1991-envn9161406a)
