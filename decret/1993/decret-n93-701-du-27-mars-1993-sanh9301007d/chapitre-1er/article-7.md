@@ -6,7 +6,7 @@ Le contrat précise :
 
 2° Celles des dispositions de l'article 2 ci-dessus au titre desquelles le recrutement est effectué ;
 
-3° La nature des fonctions occupées ainsi que les obligations de service incombant au praticien, notamment en ce qui concerne sa participation au service de gardes et astreintes ;
+3° La nature des fonctions occupées ainsi que les obligations de service incombant au praticien, notamment en ce qui concerne sa participation à la continuité des soins ou à la permanence pharmaceutique sur place ou en astreinte ,
 
 4° La date de prise de fonction du praticien, la durée du contrat ainsi que la date à laquelle celui-ci prend fin et, le cas échéant, la période d'essai fixée à un mois pour un contrat d'une durée inférieure à six mois et à deux mois pour un contrat d'une durée égale ou supérieure à six mois ;
 

@@ -1,7 +1,13 @@
 # Article 4-1
 
-Les praticiens contractuels des établissements publics de santé doivent entretenir et perfectionner leurs connaissances.
+Le service hebdomadaire des praticiens contractuels exerçant à temps plein est fixé à dix demi-journées hebdomadaires, sans que la durée de travail puisse excéder quarante-huit heures par semaine, cette durée étant calculée en moyenne sur une période de quatre mois. Lorsqu'il est effectué la nuit, il est compté pour deux demi-journées.
 
-Ceux d'entre eux qui sont médecins, ou biologistes titulaires d'un diplôme permettant l'exercice de la profession de médecin, doivent satisfaire à l'obligation de formation médicale continue prévue à l'article L. 367-2 du code de la santé publique. Lorsqu'ils sont recrutés au titre du 6° du I de l'article 2 du présent décret et exercent leurs fonctions à temps plein dans un ou plusieurs établissements, ils doivent justifier du respect de cette obligation auprès de la commission médicale d'établissement mentionnée à l'article L. 714-16 du même code. Leur formation est organisée selon les modalités prévues par les plans de formation visés au 9° de l'article L. 714-16 susmentionné.
+Lorsque l'activité médicale est organisée en temps continu, l'obligation de service hebdomadaire des praticiens est, par dérogation à l'alinéa ci-dessus, calculée en heures, en moyenne sur une période de quatre mois, et ne peut dépasser quarante-huit heures.
 
-En ce qui concerne les praticiens contractuels titulaires d'un diplôme de pharmacien ou de chirurgien-dentiste, exerçant en qualité de pharmacien, de biologiste-pharmacien et d'odontologiste, recrutés au titre du 6° du I de l'article 2 du présent décret et exerçant à temps plein dans un ou plusieurs établissements, la formation continue est organisée selon les modalités prévues par les plans de formation visés au 9° de l'article 714-16 du code de la santé publique.
+Les praticiens peuvent accomplir, sur la base du volontariat au-delà de leurs obligations de service hebdomadaires, un temps de travail additionnel donnant lieu soit à récupération, soit à indemnisation, dans les conditions prévues au II de l'article 8 ci-dessous.
+
+Les praticiens contractuels bénéficient d'un repos quotidien d'une durée minimale de onze heures consécutives par période de vingt-quatre heures.
+
+Par dérogation aux dispositions de l'alinéa précédent, ils peuvent accomplir une durée de travail continue n'excédant pas vingt-quatre heures ; dans ce cas, ils bénéficient, immédiatement à l'issue de cette période, d'un repos d'une durée équivalente.
+
+Le temps de soins accompli dans le cadre d'un déplacement en astreinte est considéré comme temps de travail effectif.
