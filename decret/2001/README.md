@@ -212,6 +212,7 @@
 - [Décret n°2001-52 du 17 janvier 2001 (JUSC0120007D)](decret-n2001-52-du-17-janvier-2001-jusc0120007d)
 - [Décret n°2001-55 du 17 janvier 2001 (MESA0021984D)](decret-n2001-55-du-17-janvier-2001-mesa0021984d)
 - [Décret n°2002-83 du 17 janvier 2002 (MESG0124004D)](decret-n2002-83-du-17-janvier-2002-mesg0124004d)
+- [Décret n°2001-336 du 18 avril 2001 (EQUU0100315D)](decret-n2001-336-du-18-avril-2001-equu0100315d)
 - [Décret n°2001-58 du 18 janvier 2001 (ECOD0070034D)](decret-n2001-58-du-18-janvier-2001-ecod0070034d)
 - [Décret n°2001-628 du 18 juillet 2001 (PRMX0105010D)](decret-n2001-628-du-18-juillet-2001-prmx0105010d)
 - [Décret n°2001-63 du 18 janvier 2001 (ATEP0080077D)](decret-n2001-63-du-18-janvier-2001-atep0080077d)
