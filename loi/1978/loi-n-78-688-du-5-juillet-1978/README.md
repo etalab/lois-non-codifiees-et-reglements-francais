@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
+- [Article 13 BIS](article-13-bis.md)
 - [CALCUL DES PRODUITS IMPOSABLES.](calcul-des-produits-imposables)
 - [CESSIONS IMPORTANTES.](cessions-importantes)
 - [DISPOSITIONS DIVERSES.](dispositions-diverses)
