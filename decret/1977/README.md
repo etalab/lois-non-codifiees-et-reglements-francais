@@ -127,7 +127,6 @@
 - [Décret n°76-1304 du 28 décembre 1976](decret-n76-1304-du-28-decembre-1976)
 - [Décret n°77-1477 du 28 décembre 1977](decret-n77-1477-du-28-decembre-1977)
 - [Décret n°77-307 du 28 mars 1977](decret-n77-307-du-28-mars-1977)
-- [Décret n°77-333 du 28 mars 1977](decret-n77-333-du-28-mars-1977)
 - [Décret n°77-347 du 28 mars 1977](decret-n77-347-du-28-mars-1977)
 - [Décret n°77-361 du 28 mars 1977](decret-n77-361-du-28-mars-1977)
 - [Décret n°77-363 du 28 mars 1977](decret-n77-363-du-28-mars-1977)

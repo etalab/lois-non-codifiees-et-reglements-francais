@@ -1068,7 +1068,6 @@
 - [Décret n°93-867 du 28 juin 1993 (JUSD9330009D)](decret-n93-867-du-28-juin-1993-jusd9330009d)
 - [Décret n°93-870 du 28 juin 1993 (LOGC9300056D)](decret-n93-870-du-28-juin-1993-logc9300056d)
 - [Décret n°93-961 du 28 juillet 1993 (INDP9320262D)](decret-n93-961-du-28-juillet-1993-indp9320262d)
-- [Décret n°93-969 du 28 juillet 1993 (SPSS9301491D)](decret-n93-969-du-28-juillet-1993-spss9301491d)
 - [Décret n°94-954 du 28 octobre 1994 (EQUL9400599D)](decret-n94-954-du-28-octobre-1994-equl9400599d)
 - [Décret n°95-228 du 28 février 1995 (AGRA9500114D)](decret-n95-228-du-28-fevrier-1995-agra9500114d)
 - [Décret n°95-229 du 28 février 1995 (AGRA9500115D)](decret-n95-229-du-28-fevrier-1995-agra9500115d)
