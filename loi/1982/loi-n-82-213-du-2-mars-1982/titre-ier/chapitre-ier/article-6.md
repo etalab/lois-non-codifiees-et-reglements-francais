@@ -20,6 +20,12 @@ Les dispositions des alinéas précédents ne sont pas applicables aux garanties
 
 3° En application du plan départemental prévu à l'article 2 de la loi n° 90-449 du 31 mai 1990 visant à la mise en oeuvre du droit au logement.
 
+Une commune de 3500 habitants et plus qui ne fait pas application des dispositions du II du présent article et qui accorde elle-même une garantie d'emprunt ou son cautionnement à des organismes autres que ceux visés aux cinquième et huitième à dixième alinéas du présent article doit obtenir un cautionnement à cet effet.
+
+Une commune n'est pas tenue à cette obligation dès lors qu'elle constitue une provision assise sur les annuités d'emprunts garantis ou cautionnés par ses soins.
+
+Un décret en Conseil d'Etat fixe les modalités d'application de cette disposition.
+
 II. - Par dérogation aux dispositions du paragraphe III de l'article 5 de la présente loi, une commune, seule ou avec d'autres collectivités territoriales, peut participer au capital d'un établissement de crédit revêtant la forme de société anonyme régie par la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales et ayant pour objet exclusif de garantir les concours financiers accordés à des personnes morales de droit privé, et notamment celles qui exploitent des entreprises nouvellement créées, dès lors qu'une ou plusieurs sociétés commerciales, dont au moins un établissement régi par la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle des établissements de crédit, participent également au capital de cet établissement de crédit.
 
 La commune peut participer par versement de subventions à la constitution de fonds de garantie auprès de l'établissement de crédit mentionné à l'alinéa précédent. La commune passe avec l'établissement de crédit une convention déterminant notamment l'objet, le montant et le fonctionnement du fonds de garantie ainsi que les conditions de restitution des subventions versées en cas de modification ou de cessation d'activité de ce fonds.

@@ -14,4 +14,4 @@ Lorsque le budget d'une commune a été réglé et rendu exécutoire par le repr
 
 S'il est fait application de la procédure définie à l'alinéa ci-dessus, les dates fixées au deuxième alinéa de l'article 7 de la présente loi pour l'adoption du budget primitif sont reportées respectivement au 1er juin et au 15 juin. Dans ce cas, le délai limite de transmission du compte de gestion du comptable prévu à l'article 9 de la présente loi est ramenée au 1er mai.
 
-Toutefois, pour l'application du présent article, n'est pas considéré comme étant en déséquilibre, le budget dont la section de fonctionnement comporte ou reprend un excédent et dont la section d'investissement est en équilibre réel, après reprise pour chacune des sections des résultats apparaissant au compte administratif de l'exercice précédent.
+Toutefois, pour l'application du présent article, n'est pas considéré comme étant en déséquilibre le budget dont la section de fonctionnement comporte ou reprend un excédent reporté par décision du conseil municipal ou dont la section d'investissement comporte un excédent, notamment après inscription des dotations aux amortissements et aux provisions exigées.

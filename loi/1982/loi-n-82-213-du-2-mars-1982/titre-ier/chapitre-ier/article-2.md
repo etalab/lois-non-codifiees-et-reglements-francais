@@ -20,6 +20,8 @@ Les décisions individuelles relatives à la nomination, à l'avancement de grad
 
 Le permis de construire, les autres autorisations d'utilisation du sol, le certificat d'urbanisme et le certificat de conformité délivrés par le maire ou le président de l'établissement public de coopération intercommunale, lorsqu'il a reçu compétence dans les conditions prévues à l'article L. 421-2-1 du code de l'urbanisme.
 
+Les ordres de réquisition du comptable pris par le maire.
+
 Sont également soumises aux dispositions du I du présent article les décisions relevant de l'exercice de prérogatives de puissance publique, prises par les sociétés d'économie mixte locales pour le compte d'une commune ou d'un établissement public de coopération intercommunale.
 
 III. - Les actes pris au nom de la commune autres que ceux mentionnés au paragraphe II sont exécutoires de plein droit dès qu'il a été procédé à leur publication ou à leur notification aux intéressés.
