@@ -2,7 +2,7 @@
 
 I - Il est institué un permis de chasser délivré à titre permanent par le préfet. Le permis est visé et validé chaque année dans les conditions fixées ci-après :
 
-a) La délivrance du permis de chasser est subordonnée à l'admission à un examen.
+a) la délivrance du permis de chasser est subordonnée à l'admission à un examen.
 
 Toutefois, les personnes ayant obtenu un permis de chasse ou une autorisation délivrée par l'administration des affaires maritimes, antérieurement à l'entrée en vigueur du présent article, sont dispensées de l'examen.
 
@@ -16,7 +16,7 @@ II - Le montant de ces redevances est versé à l'office national de la chasse p
 
 III - Il est perçu :
 
-a) Pour la délivrance du permis de chasser, un droit de timbre de 50 F au profit de l'Etat et de 25 F pour chaque duplicata. Les personnes dispensées de l'examen sont également dispensées du droit de timbre.
+a) Pour la délivrance du permis de chasser, un droit de timbre de 50 F au profit de l'Etat et de 25 F pour chaque duplicata. Les personnes dispensées de l'examen sont également dispensées du droit de timbre ;
 
 b) Pour le visa du permis de chasser :
 
@@ -25,6 +25,8 @@ Un droit de timbre annuel de 20 F au profit de l'Etat ;
 Une taxe annuelle de 10 F au profit de la commune où la demande de visa a été présentée.
 
 c) Pour la délivrance de chaque duplicata du visa annuel du permis de chasser, une taxe de 10 F au profit de la commune où la demande de visa est présentée.
+
+d) Pour l'inscription à l'examen du permis de chasser, un droit d'examen dont le montant est fixé dans la limite de 50 F, par arrêté du ministre de la qualité de la vie et du ministre de l'économie et des finances. Ce droit est perçu à compter de l'examen organisé pour la campagne de chasse 1976-1977.
 
 IV - Un décret en Conseil d'Etat précise les modalités d'application des dispositions contenues dans le présent article qui, à l'exception des dispositions concernant l'examen, entrent en vigueur le 1er juillet 1975. Les dispositions concernant l'examen entreront en vigueur le 5 janvier 1976.
 
