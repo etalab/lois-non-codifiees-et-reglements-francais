@@ -1,3 +1,3 @@
 # Article 4
 
-Le commissaire à la normalisation remplit les fonctions de commissaire du Gouvernement auprès de l'Association française de normalisation.
+Le délégué interministériel aux normes remplit les fonctions de commissaire du Gouvernement auprès de l'Association française de normalisation.

@@ -1,11 +1,5 @@
 # Article 2
 
-Le ministre chargé de l'industrie assure la cohésion de la politique de normalisation des produits, biens et services.
+Le ministre chargé de l'industrie assure, après consultation du groupe interministériel des normes prévu à l'article 3 du présent décret, la définition de la politique des pouvoirs publics en matière de normes pour l'ensemble des produits, biens et services, et s'assure de la cohérence des actions des différents intervenants dans ce domaine.
 
-En accord avec les autres ministres intéressés,
-
-a) Il fixe les directives générales qui doivent être suivies dans l'établissement des normes ;
-
-b) Il exerce le contrôle de l'application des normes et il statue sur les demandes de dérogation auxdites normes ;
-
-c) Il contrôle les travaux des organismes français de normalisation.
+Il fixe notamment les directives générales qui doivent être suivies dans l'établissement des normes. Il contrôle les travaux des organismes français de normalisation.
