@@ -6,7 +6,7 @@ La limite d'âge supérieure prévue audit article est reculée dans les conditi
 
 Les candidats doivent par ailleurs :
 
-a) Posséder la nationalité française depuis cinq ans au moins, sous réserve des dispositions de l'article 64 du code de la nationalité française ;
+a) Posséder la nationalité française depuis cinq ans au moins, sous réserve des dispositions de l'article 21-19 du code civil ;
 
 b) Jouir de leurs droits civiques ;
 

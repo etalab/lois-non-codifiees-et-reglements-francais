@@ -1,177 +1,291 @@
 # Article Annexe
 
-Programme limitatif des épreuves pratiques et orales des concours pour l'accès à l'emploi d'aide-préparateur en pharmacie dans les établissements d'hospitalisation, de soins ou de cure publics.
+Programme limitatif des épreuves écrites, orales et pratiques des concours pour l'accès à l'emploi de manipulateur d'électroradiologie des établissements d'hospitalisation, de soins ou de cure publics.
 
-A. - EPREUVES PRATIQUES
+A - Epreuves écrites
 
-Liste limitative des préparations :
+1 - RADIOTHERAPIE.
 
-- Collutoires.
+a) Roentgenthérapie.
 
-- Collyres.
+La notion de dose, les unités de mesure.
 
-- Emulsions.
+Le dosimètre.
 
-- Glycères.
+Le rendement en profondeur, la filtration.
 
-- Liniments.
+La salle de radiothérapie.
 
-- Ovules.
+L'appareillage : le tube, le générateur, les localisateurs, les filtres, les champs.
 
-- Pâtes et pommades.
+Les diverses installations : radiothérapie de contact, radiothérapie superficielle, radiothérapie à 200 kW, hautes énergies.
 
-- Pilules et granulés.
+La fiche de radiothérapie, la surveillance du traitement, la chronologie du traitement.
 
-- Potions et sirops.
+b) Radiumthérapie. - Isotopes radioactifs.
 
-- Soluté injectable.
+Notions théoriques.
 
-- Suppositoires.
+Les principaux isotopes utilisés en pratique : cobalt, césium, iode, phosphore, or.
 
-B. - EPREUVES ORALES.
+Les diverses modalités d'application.
 
-I. - Principales opérations pharmaceutiques.
+Manipulation du radium et radio-éléments, précautions spéciales.
 
-1 Les opérations de mesure :
+c) La protection en radiologie.
 
-a) Mesures en poids : les balances.
+Effets biologiques nécessitant la protection.
 
-b) Mesures en volume :
+Les divers éléments de la protection.
 
-Les unités couramment utilisées : le litre, le centimètre cube, la goutte.
+2 - RADIODIAGNOSTIC.
 
-Les instruments couramment utilisés : les récipients jauges, les récipients gradués, le compte-gouttes normal.
+La radioscopie.
 
-c) Détermination des densités :
+La radiographie.
 
-La densité d'un liquide, conversion d'un volume en poids et inversement ;
+Eléments assurant la qualité de la radiographie.
 
-Les instruments servant à la détermination des densités :
+Les constantes : tension, intensité, temps de pose.
 
-pèse-sirops, alcoomètres, etc.
+Variations de l'énergie avec la distance.
 
-d) Détermination des températures :
+L'antidiffusion.
 
-Les thermomètres, thermomètres de laboratoire, pour bains, thermomètres médicaux.
+Les écrans et les films.
 
-2 Les opérations physiques :
+Les erreurs de manipulations.
 
-a) Opérations de chauffage :
+Les causes de flou.
 
-Bec Bunsen, réchauds, alambics, étuves ;
+Le développement :
 
-Emploi de la chaleur pour la stérilisation, autoclaves, fours, poupinels.
+- Le laboratoire;
 
-Précautions à prendre dans les manipulations comportant chauffage.
+- Les opérations de développement;
 
-b) Dissolution :
+- Machine à développer;
 
-Solubilité, concentration.
+- Les modifications du contraste;
 
-c) Extractions :
+- Les procédés utilisés dans la reproduction des radiographies.
 
-Macération, infusion, digestion, décoction, lixiviation.
+Défauts des radiographies.
 
-3 Les opérations mécaniques :
+Les techniques spéciales.
 
-a) Division.
+L'agrandissement radiologique.
 
-b) Pulvérisation, les mortiers, les tamis.
+La tomographie.
 
-c) Séparation des solides et des liquides :
+La radiocinématographie.
 
-Décantation ;
+La radiophotographie.
 
-Filtration, les entonnoirs, les filtres et les chausses ;
+Les contrastes artificiels; les produits de contraste.
 
-Clarification.
+L'exploration des divers appareils.
 
-II. - Formes pharmaceutiques.
+1 - Le squelette.
 
-1 Les mélanges de plantes : les espèces.
+Notions anatomiques et techniques radiologiques intéressant :
 
-2 Les médicaments obtenus par pulvérisation : les poudres
+- Le crâne et le massif facial;
 
-3 Les médicaments obtenus par solution :
+Le rachis;
 
-a) Par solution dans l'eau :
+Le membre supérieur, la ceinture scapulaire;
 
-- les solutés ;
+- Le thorax et le sternum;
 
-- les solutés injectables ;
+- Le membre inférieur, la ceinture pelvienne et le sacrum;
 
-- les collyres liquides ;
+- L'arthographie.
 
-- les gargarismes, les lotions ;
+2 - L'appareil digestif et les glandes annexes.
 
-- les sirops ;
+Notions d'anatomie, de physiologie, matériel à préparer et conduite à tenir au cours des examens de :
 
-- les potions, les limonades.
+- L'oesophage, l'estomac, le duodénum, l'intestin grêle, le colon;
 
-- les pseudo-solutions et les émulsions.
+La radiographie de l'abdomen sans préparation;
 
-b) Par solution dans l'alcool :
+L'exploration des voies biliaires.
 
-- les teintures ou alcools ;
+3 - L'appareil respiratoire.
 
-- les alcoolatures.
+Notions anatomiques et physiologiques, techniques radiologiques intéressant :
 
-c) par solution dans l'huile :
+- Le pharynx-larynx;
 
-- les huiles médicinales.
+- Le poumon et l'arbre bronchique;
 
-- les liminents.
+- Le médiastin;
 
-d) Par solution dans le vin ou le vinaigre :
+- La bronchographie (matériel à préparer, conduite à tenir pendant l'examen).
 
-- les vins et vinaigres médicinaux.
+4 - L'appareil circulatoire.
 
-4 Les médicaments obtenus par distillation :
+Notions anatomiques et physiologiques, techniques radiographiques intéressant le coeur.
 
-- les eaux distillées ;
+- angiocardiographie;
 
-- les essences ;
+- aortographie, phlébographie, splénoportographie, lymphographie (matériel à préparer et conduite à tenir en cours d'examen);
 
-- les alcoolats.
+- matériel d'injection et de contrôle : stérilisation, préparation (aiguilles, catheters).
 
-5 Les médicaments obtenus par extraction :
+5 - Le système nerveux.
 
-- les extraits et les intraits ;
+Notions anatomiques intéressant :
 
-- les sucs végétaux.
+- l'encéphale, la moelle et le canal rachidien;
 
-6 Les médicaments obtenus à l'aide de corps gras utilisés comme excipient :
+- technique d'encéphalographie, de ventriculographie, de myélographie, de discoradiculographie, d'artériographie (matériel à préparer et conduite à tenir en cours d'examen).
 
-- les pommades ;
+6 - L'appareil urinaire :
 
-- les collyres gras ;
+Notions anatomiques et physiologiques, techniques radiologiques intéressant :
 
-- les crèmes ;
+- l'appareil urinaire inférieur et supérieur;
 
-- les emplâtres et les sparadraps ;
+- les glandes surrénales;
 
-- les cérats et les suppositoires
+- le rétropneumopéritoine (matériel à préparer et conduite à tenir pendant l'examen).
 
-7 Les médicaments obtenus à l'aide de glycérine utilisée comme excipient :
+7 - Appareil génital féminin et glandes mammaires.
 
-- les glycères ;
+Notions anatomiques, physiologiques, techniques radiologiques intéressant :
 
-- les collutoires,
+- les organes génitaux;
 
-- les ovules et les suppositoires à la glycérine.
+- hystérographie, pelvigraphie (matériel à préparer et conduite à tenir pendant l'examen);
 
-8 Les médicaments à forme spéciale :
+- exploration de la glande mammaire;
 
-- les cachets et paquets ;
+- la radiologie obstétricale.
 
-- les capsules ;
+8 - Techniques spéciales de radiologie en pédiatrie.
 
-- les comprimés, pilules et granulés ;
+Chez le nourrisson et le jeune enfant.
 
-- les pâtes et les tablettes ;
+Contention.
 
-- les saccharures granulés ;
+9 - La radiologie en salle d'opération.
 
-- les savons.
+10 - La radiologie d'urgence et au lit du malade.
 
-III. - Notions sommaires sur le livre V du code de la santé publique (pharmacie) : partie législative et partie réglementaire, et textes d'application concernant les substances vénéneuses.
+B - EPREUVES ORALES.
+
+1 - ELECTROPHYSIOTHERAPIE.
+
+Le courant continu : propriétés, appareillage, installation d'un malade pour un traitement.
+
+Le courant faradique : propriétés, appareillage, installation d'un malade pour un traitement.
+
+L'électrodiagnostic : préparation de l'examen, appareillage, notions sur l'électrodiagnostic classique.
+
+Notions sur l'électrodiagnostic de détection : technique, appareillage, préparation de l'examen.
+
+Ionisation : technique, mise en place d'un traitement.
+
+Courant de basse fréquence, ondes courtes : mise en place d'un traitement.
+
+Infrarouge : propriétés, applications, mise en place d'un traitement.
+
+Ultraviolet : propriétés, sources, applications, mise en place d'un traitement.
+
+Ultrasons : propriétés, appareillage, applications.
+
+Infrasons : mise en place d'un traitement.
+
+Dangers de l'électricité.
+
+Particularités des traitements physiothérapiques au cours des diverses affections : paralysie, infections cutanées, rhumatismales.
+
+2 - a) PHYSIQUE RADIOLOGIQUE.
+
+Structure de l'atome.
+
+Rayons X, production.
+
+Absorption, ionisation.
+
+Effet de fluorescence, effet photographique.
+
+Effets biologiques.
+
+La salle de radiodiagnostic.
+
+Le tube de rayons X :
+
+Constitution
+
+Anode, charge admissible par le foyer.
+
+Utilisation du tube, échauffement, surveillance, abaque, vieillissement du tube.
+
+Gaines, câbles, générateurs, redresseurs.
+
+Tables, pupitres.
+
+Divers types d'installation (appareils portatifs, appareils de moyenne et de grande puissance).
+
+Entretien, pannes.
+
+Amplificateur de brillance, télévision radiologique.
+
+Radiocinématographique.
+
+Enregistrement magnétique.
+
+Electricité :
+
+Notions de courant électrique.
+
+Action chimique du courant.
+
+Electrolyse.
+
+Courant alternatif.
+
+b) FORMATION PROFESSIONNELLE.
+
+Secrétariat. - Archives, dossiers.
+
+Inscription et classement des films.
+
+Fiches d'examen.
+
+Rôle et responsabilités des manipulateurs.
+
+Le secret professionnel.
+
+Structures hospitalières.
+
+Soins aux malades dans le service de radiologie.
+
+Accidents pouvant survenir dans un service de radiologie :
+
+prévention, conduite à tenir.
+
+C - EPREUVES PRATIQUES.
+
+Le programme est le même que celui des épreuves écrites complété par le programme ci-après :
+
+Cassettes, écrans et films.
+
+Le développement du film radiologique :
+
+Les opérations de développement;
+
+Les bains;
+
+L'éclairage du laboratoire;
+
+Les voiles - Défauts des radiographies;
+
+Machine à développer automatique - Entretien;
+
+Reproduction photographique.
+
+Les produits de contraste.
