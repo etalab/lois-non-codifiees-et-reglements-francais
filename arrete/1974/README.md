@@ -3,6 +3,7 @@
 - [Arrêté du 1 février 1974](arrete-du-1-fevrier-1974)
 - [Arrêté du 3 janvier 1974](arrete-du-3-janvier-1974)
 - [Arrêté du 4 octobre 1973](arrete-du-4-octobre-1973)
+- [Arrêté du 5 avril 1974](arrete-du-5-avril-1974)
 - [Arrêté du 7 janvier 1974](arrete-du-7-janvier-1974)
 - [Arrêté du 9 janvier 1974](arrete-du-9-janvier-1974)
 - [Arrêté du 10 avril 1974](arrete-du-10-avril-1974)
