@@ -240,7 +240,6 @@
 - [Décret n°98-1012 du 9 novembre 1998 (INTB9800276D)](decret-n98-1012-du-9-novembre-1998-intb9800276d)
 - [Décret n°98-1013 du 9 novembre 1998 (INTB9800277D)](decret-n98-1013-du-9-novembre-1998-intb9800277d)
 - [Décret n°98-1014 du 9 novembre 1998 (INTB9800278D)](decret-n98-1014-du-9-novembre-1998-intb9800278d)
-- [Décret n°98-1016 du 9 novembre 1998 (ECOT9820098D)](decret-n98-1016-du-9-novembre-1998-ecot9820098d)
 - [Décret n°98-1019 du 9 novembre 1998 (ECOF9800031D)](decret-n98-1019-du-9-novembre-1998-ecof9800031d)
 - [Décret n°98-1108 du 9 décembre 1998 (MESF9811264D)](decret-n98-1108-du-9-decembre-1998-mesf9811264d)
 - [Décret n°98-1109 du 9 décembre 1998 (MESF9811265D)](decret-n98-1109-du-9-decembre-1998-mesf9811265d)

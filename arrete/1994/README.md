@@ -539,7 +539,6 @@
 - [Arrêté du 16 août 1994 (SPSS9402681A)](arrete-du-16-aout-1994-spss9402681a)
 - [Arrêté du 16 avril 1994 (AGRH9400759A)](arrete-du-16-avril-1994-agrh9400759a)
 - [Arrêté du 16 décembre 1993 (DEFE9302237A)](arrete-du-16-decembre-1993-defe9302237a)
-- [Arrêté du 16 décembre 1993 (EQUP9301832A)](arrete-du-16-decembre-1993-equp9301832a)
 - [Arrêté du 16 décembre 1993 (SPSG9303695A)](arrete-du-16-decembre-1993-spsg9303695a)
 - [Arrêté du 16 décembre 1994 (SPSH9402719A)](arrete-du-16-decembre-1994-spsh9402719a)
 - [Arrêté du 16 décembre 1994 (SPSH9402722A)](arrete-du-16-decembre-1994-spsh9402722a)
