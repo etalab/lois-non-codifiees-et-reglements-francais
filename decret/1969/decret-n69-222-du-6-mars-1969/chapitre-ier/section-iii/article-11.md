@@ -2,9 +2,11 @@
 
 I. - Les conseillers des affaires étrangères de 2e classe du cadre d'Orient sont recrutés par la voie de deux concours organisés en sections géographiques.
 
+Le nombre de places offertes à l'un des concours ne peut être inférieur à 30 % du nombre total de places offertes aux deux concours, externe et interne.
+
 Le nombre de places offertes, par section, aux concours externe et interne est fixé par arrêté conjoint du ministre des affaires étrangères et du ministre chargé de la fonction publique.
 
-II. - Le concours externe est ouvert, pour les deux tiers des emplois offerts, aux candidats âgés de moins de trente ans au 1er janvier de l'année au titre de laquelle le concours est organisé et qui :
+II. - Le concours externe est ouvert aux candidats âgés de moins de trente ans au 1er janvier de l'année au titre de laquelle le concours est organisé et qui :
 
 - soit sont titulaires de l'un des titres ou diplômes exigés des candidats au concours externe d'entrée à l'Ecole nationale d'administration ou de l'un des titres, diplômes ou certificats attestant l'accomplissement d'une formation ou d'un cycle d'études de niveau comparable, dont la liste est arrêtée par le ministre des affaires étrangères et par le ministre chargé de la fonction publique ;
 
@@ -20,7 +22,9 @@ d) d'un représentant du ministre des affaires étrangères.
 
 Les règles de saisine et les modalités de fonctionnement de cette commission sont arrêtées par le ministre des affaires étrangères et par le ministre chargé de la fonction publique.
 
-III. - Le concours interne est ouvert, pour le tiers des emplois offerts, aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent comptant, au ler janvier de l'année au titre de laquelle le concours est organisé, quatre ans au moins de services publics. Ce concours est également ouvert aux candidats en fonctions dans une organisation internationale intergouvernementale.
+III. - Le concours interne est ouvert aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent. Ce concours est également ouvert aux candidats en fonction dans une organisation internationale intergouvernementale.
+
+Les candidats mentionnés à l'alinéa précédent doivent justifier au 1er janvier de l'année au titre de laquelle le concours est organisé de quatre ans au moins de services publics.
 
 IV. - Les emplois qui n'auraient pas été pourvus par la nomination des candidats à une section de l'un des deux concours peuvent être attribués par le jury :
 
@@ -40,7 +44,7 @@ Les candidats qui atteignent la limite d'âge supérieure mentionnée à l'alin�
 
 V. - Les conseillers des affaires étrangères de 2e classe (cadre d'Orient) recrutés dans les conditions prévues au présent article sont nommés en qualité de stagiaire par arrêté du ministre des affaires étrangères pour une durée d'un an. A l'expiration de cette période, ceux dont les services ont donné satisfaction sont titularisés au 1er échelon de leur grade.
 
-Toutefois, si l'indice qu'ils détiennent dans leur corps, cadre d'emplois ou emploi d'origine est supérieur à celui correspondant au 1er échelon du grade de base, les conseillers des affaires étrangères du cadre d'Orient recrutés par la voie du concours interne sont placés à l'échelon du grade de conseiller des affaires étrangères de 2e classe comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient dans leur corps, cadre d'emplois ou emploi d'origine pour les agents non titulaires.
+Toutefois, si l'indice qu'ils détiennent dans leur corps, cadre d'emplois ou emploi d'origine est supérieur à celui correspondant au 1er échelon du grade de base, les conseillers des affaires étrangères du cadre d'Orient recrutés par la voie du concours interne sont placés à l'échelon du grade de conseiller des affaires étrangères de 2e classe comportant un traitement égal ou, à défaut, immédiatement supérieur à celui dont ils bénéficiaient antérieurement dans leur corps, cadre d'emplois ou emploi d'origine pour les fonctionnaires ou dans leur emploi pour les agents non titulaires.
 
 Dans la limite de l'ancienneté exigée au premier alinéa, de l'article 17 pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent grade ou classe lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui résulterait d'un avancement d'échelon dans leur ancienne situation.
 

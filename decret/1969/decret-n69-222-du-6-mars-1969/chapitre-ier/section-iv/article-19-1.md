@@ -2,7 +2,7 @@
 
 Au titre d'une même année, les concours prévus au 1° de l'article 19 ci-dessus peuvent être ouverts, dans chacun des deux cadres (cadre général et cadre d'Orient), par arrêté conjoint du ministre des affaires étrangères et du ministre chargé de la fonction publique :
 
-1° Le concours externe, pour au moins la moitié des emplois offerts, aux candidats âgés de trente-cinq ans au plus au 1er janvier de l'année au titre de laquelle le concours est organisé et qui :
+1° Le concours externe aux candidats âgés de trente-cinq ans au plus au 1er janvier de l'année au titre de laquelle le concours est organisé et qui :
 
 - soit sont titulaires d'un des titres ou diplômes exigés des candidats au concours externe d'entrée à l'Ecole nationale d'administration ou d'un des titres, diplômes ou certificats attestant l'accomplissement d'une formation ou d'un cycle d'études de niveau comparable, dont la liste est arrêtée par le ministre des affaires étrangères et par le ministre chargé de la fonction publique, ou susceptibles d'en justifier la possession au plus tard au 31 décembre de l'année au titre de laquelle le concours est organisé ;
 
@@ -26,6 +26,8 @@ La limite d'âge supérieure mentionnée ci-dessus s'entend sans préjudice de l
 
 Les candidats qui atteignent l'âge limite pendant une année au titre de laquelle aucun concours n'est ouvert peuvent faire acte de candidature au concours suivant ;
 
-2° Le concours interne, pour au plus la moitié des emplois à pourvoir, aux fonctionnaires et agents du ministère de affaires étrangères âgés de plus de vingt-trois ans au 1er janvier de l'année au titre de laquelle le concours est organisée et comptant à cette même date quatre ans au moins de services publics, dont trois ans de services effectifs au ministère des affaires étrangères.
+2° Le concours interne, aux fonctionnaires et agents de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent. Ce concours est également ouvert aux candidats en fonction dans une organisation internationale intergouvernementale.
+
+Les candidats mentionnés à l'alinéa précédent doivent être âgés de plus de vingt-trois ans au 1er janvier de l'année au titre de laquelle le concours est organisé et justifier à la même date de quatre ans au moins de services publics.
 
 La liste des candidats autorisés à prendre part aux épreuves est arrêtée par le ministre des affaires étrangères à la date de clôture des inscriptions.
