@@ -10,7 +10,7 @@ Article 8 (alinéa 3) de la loi n° 70-1300 du 31 décembre 1970 fixant le régi
 
 Articles 101 et 111 du décret n° 67-868 du 2 octobre 1967 pris pour l'application à la profession de notaire de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles ;
 
-Article 101 du décret n° 69-763 du 24 juillet 1969 pris pour l'application à la profession de commissaire-priseur de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles ;
+Article 101 du décret n° 69-763 du 24 juillet 1969 pris pour l'application à la profession de commissaire-priseur judiciaire de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles ;
 
 Articles 101 et 111 du décret n° 69-1274 du 31 décembre 1969 pris pour l'application à la profession d'avoué de la loi n° 66-879 du 29 novembre 1966 relative aux sociétés civiles professionnelles.
 

@@ -6,7 +6,7 @@ Les personnes visées à l'article 49 de la loi du 31 décembre 1971 précitée 
 
 3° A la profession de notaire sans être titulaires des titres ou diplômes exigés au 5° de l'article 3 du décret n° 73-609 du 5 juillet 1973 relatif à la formation professionnelle dans le notariat et aux conditions d'accès aux fonctions de notaire ni avoir subi l'examen d'accès au centre de formation professionnelle des notaires prévu à l'article 11 du même décret ;
 
-4° A la profession de commissaire-priseur sans être titulaires des titres ou diplômes exigés au 5° de l'article 2 du décret n° 73-541 du 19 juin 1973 relatif à la formation professionnelle des commissaires-priseurs et aux conditions d'accès à cette profession ni avoir subi l'examen d'accès au stage prévu au 6° de l'article 2 du même décret ;
+4° A la profession de commissaire-priseur judiciaire sans être titulaires des titres ou diplômes exigés au 5° de l'article 2 du décret n° 73-541 du 19 juin 1973 relatif à la formation professionnelle des commissaires-priseurs judiciaires et aux conditions d'accès à cette profession ni avoir subi l'examen d'accès au stage prévu au 6° de l'article 2 du même décret ;
 
 5° A la profession de greffier de tribunal de commerce sans être titulaires des titres ou diplômes exigés au 6° de l'article 1er du décret n° 87-601 du 29 juillet 1987 relatif aux conditions d'accès à la profession de greffier de tribunal de commerce ;
 

@@ -1,3 +1,3 @@
 # Article 61
 
-Les fonctions de commissaire-priseur associé sont assimilées à celles de commissaire-priseur pour la collation du titre de commissaire-priseur honoraire.
+Les fonctions de  commissaire-priseur judiciaire  associé sont assimilées à celles de  commissaire-priseur judiciaire  pour la collation du titre de  commissaire-priseur judiciaire  honoraire.

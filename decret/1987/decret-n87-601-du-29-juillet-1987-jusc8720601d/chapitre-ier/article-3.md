@@ -4,9 +4,9 @@ Sont dispensés de la condition de diplôme prévue en 6° de l'article 1er et p
 
 1° Les anciens magistrats de l'ordre judiciaire régis par l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature ;
 
-2° Les anciens avocats précédemment inscrits au tableau, les anciens avoués près les cours d'appel et les anciens avocats à la Cour de cassation et au Conseil d'Etat ayant exercé leurs fonctions pendant cinq ans au moins [*durée*] ;
+2° Les anciens avocats précédemment inscrits au tableau, les anciens avoués près les cours d'appel et les anciens avocats à la Cour de cassation et au Conseil d'Etat ayant exercé leurs fonctions pendant cinq ans au moins ;
 
-3° Les anciens notaires, les anciens huissiers de justice, les anciens commissaires-priseurs ayant exercé leurs fonctions pendant cinq ans au moins ;
+3° Les anciens notaires, les anciens huissiers de justice, les anciens commissaires-priseurs judiciaires ayant exercé leurs fonctions pendant cinq ans au moins ;
 
 4° Les personnes ayant été inscrites pendant cinq ans au moins sur une liste de conseils juridiques ;
 

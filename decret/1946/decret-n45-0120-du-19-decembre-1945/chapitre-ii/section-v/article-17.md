@@ -10,6 +10,6 @@ Toute délibération est inscrite sur un registre coté et paraphé par le prés
 
 Les fonctions de membre de la chambre siégeant en comité mixte sont gratuites ; elles donnent lieu au remboursement, sur le budget de la compagnie, des frais de séjour et de transport, dans les mêmes conditions que celles fixées en application de l'article 11 ci-dessus.
 
-Les commissaires-priseurs sont tenus de donner à leurs clercs ou employés membres de la chambre siégeant en comité mixte, la possibilité d'assister aux séances.
+Les  commissaires-priseurs judiciaires  sont tenus de donner à leurs clercs ou employés membres de la chambre siégeant en comité mixte, la possibilité d'assister aux séances.
 
 Aucune retenue ne peut être opérée par les appointements en raison des absences motivées par l'assistance aux réunions de la chambre siégeant en comité mixte, dans la limite de douze jours par an au maximum.

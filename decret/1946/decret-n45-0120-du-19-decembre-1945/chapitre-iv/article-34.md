@@ -1,6 +1,6 @@
 # Article 34
 
-Il sera procédé aux diverses opérations électorales visées à l'alinéa 1er de l'article précédent par les soins de l'un des membres représentant l'Etat au conseil d'administration de la caisse de retraite et de prévoyance des clercs et employés de notaires, assisté de deux commissaires-priseurs, et de deux clercs ou employés de commissaire-priseur, tous désignés par le président dudit conseil d'administration.
+Il sera procédé aux diverses opérations électorales visées à l'alinéa 1er de l'article précédent par les soins de l'un des membres représentant l'Etat au conseil d'administration de la caisse de retraite et de prévoyance des clercs et employés de notaires, assisté de deux  commissaires-priseurs judiciaires , et de deux clercs ou employés de commissaire-priseur judiciaire, tous désignés par le président dudit conseil d'administration.
 
 Toutefois, les listes électorales seront dressées par les chambres régionales qui assureront, en outre, l'envoi des cartes d'électeur et des enveloppes.
 

@@ -1,6 +1,6 @@
 # Article 47
 
-L'associé destitué est déchu de sa qualité de commissaire-priseur associé et cesse l'exercice de son activité professionnelle à compter du jour où la décision prononçant sa destitution est passée en force de chose jugée. Il perd, à compter de la même date, le droit d'assister et de voter aux assemblées de la société.
+L'associé destitué est déchu de sa qualité de  commissaire-priseur judiciaire associé et cesse l'exercice de son activité professionnelle à compter du jour où la décision prononçant sa destitution est passée en force de chose jugée. Il perd, à compter de la même date, le droit d'assister et de voter aux assemblées de la société.
 
 Ses actions ou parts sociales sont cédées dans les conditions fixées à l'article 28.
 

@@ -1,18 +1,18 @@
 # Article 7
 
-Les commissaires-priseurs sont groupés en compagnies de la manière suivante :
+Les  commissaires-priseurs judiciaires  sont groupés en compagnies de la manière suivante :
 
 Cours d'appel, siège de la chambre, nom de la compagnie.
 
-Douai - Amiens :
+Douai-Amiens :
 
 Douai : Nord.
 
-Rouen - Caen :
+Rouen-Caen :
 
 Rouen : Normandie.
 
-Rennes - Angers :
+Rennes-Angers :
 
 Rennes : Anjou et Bretagne.
 
@@ -24,20 +24,20 @@ Paris (ville de Paris et départements des Hauts-de-Seine, Seine-Saint-Denis, Va
 
 Paris : Paris.
 
-Nancy - Dijon - Reims - Besançon :
+Nancy-Dijon-Reims-Besançon :
 
 Dijon : Est.
 
-Lyon - Grenoble - Chambéry - Aix - Nîmes :
+Lyon-Grenoble-Chambéry-Aix-Nîmes :
 
 Lyon : Lyon et Sud-Est.
 
-Orléans - Bourges - Limoges - Riom :
+Orléans-Bourges-Limoges-Riom :
 
 Bourges : Centre.
 
-Poitiers - Bordeaux Pau - Agen - Toulouse Montpellier :
+Poitiers-Bordeaux Pau-Agen-Toulouse Montpellier :
 
 Bordeaux : Midi et Sud-Ouest.
 
-Basse-Terre - Fort-de-France - Saint-Denis : Paris - Paris.
+Basse-Terre-Fort-de-France-Saint-Denis : Paris-Paris.

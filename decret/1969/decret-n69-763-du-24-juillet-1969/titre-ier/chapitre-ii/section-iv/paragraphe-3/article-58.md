@@ -1,6 +1,6 @@
 # Article 58
 
-L'associé destitué est déchu de sa qualité de commissaire-priseur associé et cesse l'exercice de son activité professionnelle [*durée des fonctions*] à compter du jour où la décision prononçant sa destitution est devenue exécutoire [*destitution - effets - sanctions disciplinaires*].
+L'associé destitué est déchu de sa qualité de commissaire-priseur judiciaire associé et cesse l'exercice de son activité professionnelle  à compter du jour où la décision prononçant sa destitution est devenue exécutoire.
 
 Ses parts sociales sont cédées dans les conditions fixées à l'article 32.
 

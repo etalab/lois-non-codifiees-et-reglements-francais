@@ -1,6 +1,6 @@
 # Article 13
 
-Une société d'exercice libéral peut absorber une ou plusieurs sociétés d'exercice libéral ou sociétés civiles professionnelles titulaires d'un office de commissaire-priseur. La société absorbante peut être nommée :
+Une société d'exercice libéral peut absorber une ou plusieurs sociétés d'exercice libéral ou sociétés civiles professionnelles titulaires d'un office de  commissaire-priseur judiciaire. La société absorbante peut être nommée :
 
 a) Dans l'office dont l'une des sociétés absorbées est titulaire en remplacement de celle-ci ;
 

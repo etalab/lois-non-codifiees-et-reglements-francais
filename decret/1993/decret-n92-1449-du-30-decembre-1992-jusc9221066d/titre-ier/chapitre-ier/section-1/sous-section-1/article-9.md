@@ -1,6 +1,6 @@
 # Article 9
 
-Il n'est dû aucune indemnisation en raison des suppressions, tansferts et créations d'offices de commissaire-priseur résultant de la constitution d'une société d'exercice libéral ou de la nomination d'un nouvel associé exerçant en son sein.
+Il n'est dû aucune indemnisation en raison des suppressions, tansferts et créations d'offices de  commissaire-priseur judiciaire résultant de la constitution d'une société d'exercice libéral ou de la nomination d'un nouvel associé exerçant en son sein.
 
 Il en est de même dans le cas de dissolution de ces sociétés.
 

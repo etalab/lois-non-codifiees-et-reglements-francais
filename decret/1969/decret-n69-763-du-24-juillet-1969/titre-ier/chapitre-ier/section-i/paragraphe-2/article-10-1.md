@@ -1,6 +1,6 @@
 # Article 10-1
 
-Des sociétés civiles professionnelles titulaires d'un office de commissaire-priseur situées dans un même département peuvent constituer par voie de fusion une nouvelle société civile professionnelle qui peut être nommée :
+Des sociétés civiles professionnelles titulaires d'un office de commissaire-priseur judiciaire situées dans un même département peuvent constituer par voie de fusion une nouvelle société civile professionnelle qui peut être nommée :
 
 a) Dans l'office dont l'une d'elles est titulaire en remplacement de celle-ci ;
 

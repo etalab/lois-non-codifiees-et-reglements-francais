@@ -4,7 +4,7 @@ Le stage doit être accompli dans une étude d'huissier de justice à concurrenc
 
 Il peut être accompli, pour le reste de la durée exigée :
 
-Soit dans un office de notaire, de commissaire-priseur, d'avoué d'appel ;
+Soit dans un office de notaire, de commissaire-priseur judiciaire, d'avoué d'appel ;
 
 Soit chez un avocat, un conseil juridique, un expert-comptable ;
 

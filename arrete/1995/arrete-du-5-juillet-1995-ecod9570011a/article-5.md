@@ -1,6 +1,6 @@
 # Article 5
 
-Les officiers ministériels qui effectuent des ventes publiques sont dispensés de la tenue du registre prévu à l'article 537 du code des impôts sous réserve que les opérations soient inscrites sur le registre des salles de vente ou sur le registre des commissaires-priseurs, conformément aux dispositions de l'article 3-2 relatives aux ouvrages d'occasion.
+Les officiers ministériels qui effectuent des ventes publiques sont dispensés de la tenue du registre prévu à l'article 537 du code des impôts sous réserve que les opérations soient inscrites sur le registre des salles de vente ou sur le registre des commissaires-priseurs judiciaires, conformément aux dispositions de l'article 3-2 relatives aux ouvrages d'occasion.
 
 Les caisses de crédit municipal n'inscrivent sur leur registre que les ouvrages mis en vente, à l'exclusion des ouvrages détenus en gage.
 
