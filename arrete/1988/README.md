@@ -390,6 +390,7 @@
 - [Arrêté du 21 mars 1988 (INDB8800194A)](arrete-du-21-mars-1988-indb8800194a)
 - [Arrêté du 21 mars 1988 (RESK8800241A)](arrete-du-21-mars-1988-resk8800241a)
 - [Arrêté du 21 mars 1988 (STFP8800414A)](arrete-du-21-mars-1988-stfp8800414a)
+- [Arrêté du 22 août 1988 (INDE8800588A)](arrete-du-22-aout-1988-inde8800588a)
 - [Arrêté du 22 août 1988 (RESV8800797A)](arrete-du-22-aout-1988-resv8800797a)
 - [Arrêté du 22 août 1988 (SPSA8801291A)](arrete-du-22-aout-1988-spsa8801291a)
 - [Arrêté du 22 août 1988 (SPSG8801293A)](arrete-du-22-aout-1988-spsg8801293a)
