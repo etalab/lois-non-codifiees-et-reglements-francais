@@ -3,4 +3,3 @@
 - [Titre I.](titre-i)
 - [Titre II.](titre-ii)
 - [Titre III.](titre-iii)
-- [Titre IV : Des associations étrangères.](titre-iv)
