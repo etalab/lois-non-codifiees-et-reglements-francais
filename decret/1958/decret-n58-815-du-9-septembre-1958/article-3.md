@@ -1,27 +1,33 @@
 # Article 3
 
-L'établissement public est administré par un conseil d'administration composé de seize membres, à savoir :
+L'établissement public est administré par un conseil d'administration composé de dix-huit membres :
 
-1° Huit membres représentant les collectivités locales et établissements publics suivants :
+1° Neuf membres représentant les collectivités locales et établissements publics suivants :
 
-Trois représentants du département de la Seine désignés en son sein par le conseil général de ce département, dont au moins un conseiller municipal de la ville de Paris ;
+Deux représentants du département des Hauts-de-Seine désignés en son sein par le conseil général.
 
-Un représentant de chacune des communes de Courbevoie, Nanterre et Puteaux qui seront désignés par les conseils municipaux de chacune de ces trois communes ;
+Un représentant de la ville de Paris désigné par le conseil de Paris.
 
-Un représentant de l'office des transports parisiens désigné par le conseil d'administration de cet organisme ;
+Un représentant de chacune des communes de Courbevoie, Nanterre et Puteaux désigné par les conseils municipaux.
 
-Un représentant de la chambre de commerce de Paris désigné par cette compagnie.
+Un représentant du Syndicat des transports parisiens désigné par le conseil d'administration de cet organisme.
 
-2° Huit membres représentant l'Etat, à savoir :
+Un représentant de la chambre de commerce et d'industrie de Paris désigné par le conseil d'administration de la compagnie.
 
-Deux représentants du ministre de la construction ;
+Un représentant du district de la région parisienne désigné par le conseil d'administration du district.
 
-Deux représentants du ministre des finances et des affaires économiques ;
+2° Neuf membres représentant l'Etat, à savoir :
 
-Un représentant du ministre de l'intérieur ;
+Trois représentants du ministre de l'équipement et du logement.
 
-Un représentant du ministre des travaux publics, des transports et du tourisme ;
+Deux représentants du ministre de l'économie et des finances.
 
-Un représentant du ministre de l'industrie et du commerce ;
+Un représentant du ministre de l'intérieur.
 
-Un représentant du ministre de l'éducation nationale.
+Un représentant du ministre des transports.
+
+Un représentant du ministre de l'industrie.
+
+Un représentant du ministre chargé des affaires culturelles.
+
+A défaut de désignation de l'un ou de plusieurs des représentants des collectivités locales et établissements publics énumérés au présent article dans le délai de trois mois suivant la demande qui leur aura été adressée à cette fin par le préfet des Hauts-de-Seine, il pourra y être pourvu par décret en conseil des ministres.
