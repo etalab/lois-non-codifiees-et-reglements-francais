@@ -1,3 +1,5 @@
 # Article 1
 
 Sous réserve des dispositions de l'article 5 ci-dessous, et sauf en cas de déplacement professionnel, pour les travailleurs salariés et assimilés auxquels l'employeur fournit la nourriture, la valeur de cet avantage est évaluée forfaitairement par journée à 8 Euros ou, pour un seul repas, à la moitié de cette somme.
+
+Pour le personnel des entreprises compris dans le champ d'application de la convention collective nationale des hôtels, cafés, restaurants, de la convention collective nationale de restauration de collectivités, de la convention collective nationale de la restauration rapide, de la convention collective nationale des chaînes de cafétérias et assimilés et de la convention collective nationale des casinos, que les conditions particulières de travail, les accords collectifs ou les usages imposent à l'employeur de nourrir gratuitement, en totalité ou en partie, dans l'établissement, la valeur de cet avantage est fixée par les dispositions de l'article D. 141-6 du code du travail.
