@@ -1,3 +1,7 @@
 # Article 47
 
-Les rapatriés salariés désireux de se reclasser dans l'artisanat peuvent, à titre exceptionnel, bénéficier des prêts et subventions prévus au présent titre.
+Il est institué auprès de chaque délégation régionale pour l'accueil et l'orientation une commission économique et une commission sociale.
+
+Il peut être institué auprès de chaque préfecture chef-lieu de circonscription d'action régionale une commission économique et une commission sociale, ou l'une de ces deux commissions.
+
+Il est institué auprès du secrétaire d'Etat aux rapatriés une commission centrale pour les questions sociales.
