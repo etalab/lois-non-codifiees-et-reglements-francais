@@ -9,3 +9,4 @@
 - [Article 25-3](article-25-3.md)
 - [Article 25-4](article-25-4.md)
 - [Article 26](article-26.md)
+- [Article 27](article-27.md)
