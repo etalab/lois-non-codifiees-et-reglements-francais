@@ -1,6 +1,7 @@
 # Décret n°51-318 du 28 février 1951 portant règlement d'administration publique pour l'application de la loi n° 58-879 du 29 juillet 1950, étendant le bénéfice de la sécurité sociale aux grands invalides de guerre, aux veuves de guerre, aux veuves de guerre, aux veuves des grands invalides de guerre et aux orphelins de guerre.
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
