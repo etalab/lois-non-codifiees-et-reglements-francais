@@ -8,4 +8,4 @@ I - Sont abrogés :
 
 3° L'article 3 de la loi n° 59-912 du 31 juillet 1959 relative à l'équipement sanitaire et social.
 
-II -  L'article 85 de la loi n° 47-1465 du 8 août 1947 relative à certaines dispositions d'ordre financier sera abrogé, en tant qu'il concerne l'Etat et les établissements publics nationaux, à la date d'entrée en vigueur des dispositions prévues aux articles 14 et 15.
+II - L'article 85 de la loi n° 47-1465 du 8 août 1947 relative à certaines dispositions d'ordre financier sera abrogé, en tant qu'il concerne l'Etat et les établissements publics nationaux, à la date d'entrée en vigueur des dispositions prévues aux articles 10 et 11.
