@@ -18,6 +18,8 @@ Les conventions relatives aux marchés et aux emprunts ainsi que les conventions
 
 Les décisions individuelles relatives à la nomination, à l'avancement de grade, à l'avancement d'échelon, aux sanctions soumises à l'avis du conseil de discipline et au licenciement d'agents du département.
 
+Sont également soumises aux dispositions du I du présent article les décisions relevant de l'exercice de prérogatives de puissance publique, prises par les sociétés d'économie mixte locales pour le compte d'un département ou d'une institution interdépartementale.
+
 II bis. - Les actes réglementaires pris par les autorités départementales sont publiés dans un recueil des actes administratifs dans des conditions fixées par décret en Conseil d'Etat.
 
 III. - Les actes pris au nom du département et autres que ceux mentionnés au paragraphe II sont exécutoires de plein droit dès qu'il a été procédé à leur publication ou à leur notification aux intéressés.

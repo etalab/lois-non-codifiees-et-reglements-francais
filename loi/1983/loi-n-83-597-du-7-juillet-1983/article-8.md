@@ -16,4 +16,6 @@ Par dérogation à l'article 91 de la loi n° 66-537 du 24 juillet 1966 précit�
 
 Les organes délibérants des collectivités territoriales et de leurs groupements actionnaires se prononcent sur le rapport écrit qui leur est soumis au moins une fois par an par leurs représentants au conseil d'administration ou au conseil de surveillance. Lorsque ce rapport est présenté à l'assemblée spéciale, celle-ci en assure la communication immédiate aux mêmes fins aux organes délibérants des collectivités et groupements qui en sont membres.
 
+" Toute prise de participation d'une société d'économie mixte locale dans le capital d'une société commerciale fait préalablement l'objet d'un accord exprès de la ou des collectivités territoriales et de leurs groupements actionnaires disposant d'un siège au conseil d'administration, en application du premier alinéa du présent article. "
+
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article.

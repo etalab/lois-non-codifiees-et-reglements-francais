@@ -10,5 +10,4 @@
 - [Attributions du conseil général.](attributions-du-conseil-general)
 - [Dispositions générales.](dispositions-generales)
 - [BUDGET ET COMPTES DU DEPARTEMENT.](budget-et)
-- [Formation des conseils généraux.](formation-des-conseils-generaux)
 - [SESSIONS DES CONSEILS GENERAUX.](sessions-des-conseils-generaux)

@@ -1,6 +1,8 @@
 # Article 2
 
-Les enquêtes sont diligentées à la demande du Premier ministre ou du ministre chargé de l'économie et des finances ou, pour son département et les établissements placés sous sa tutelle, à la demande de chaque ministre ou du chef de la mission lorsque l'enquête sur un marché fait présumer des irrégularités dans d'autres marchés. En outre, elles peuvent être diligentées à la demande du préfet lorsqu'elles concernent des marchés passés par les collectivités territoriales, leurs établissements publics et les sociétés d'économie mixte locales.
+Les enquêtes sont diligentées à la demande du Premier ministre ou du ministre chargé de l'économie et des finances ou, pour son département, les établissements et les sociétés d'économie mixte placés sous sa tutelle à la demande de chaque ministre ou du chef de la mission lorsque l'enquête sur un marché ou une convention de délégation de service public fait présumer des irrégularités dans d'autres marchés ou conventions.
+
+Elles peuvent être diligentées à la demande du préfet lorsqu'elles concernent des marchés ou des conventions de délégation de service public passés par les collectivités territoriales, leurs établissements publics et les sociétés d'économie mixte locales.
 
 Elles donnent lieu à l'établissement de rapports et, le cas échéant, de comptes rendus d'audition.
 
