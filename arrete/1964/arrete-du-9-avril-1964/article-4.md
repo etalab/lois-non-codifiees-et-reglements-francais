@@ -1,0 +1,5 @@
+# Article 4
+
+Les bouteilles doivent être montées sur le véhicule de façon telle qu'elles ne soient exposées ni à l'érosion ni à l'action corrosive. des produits transportés. Elles doivent être protégées contre les agents atmosphériques par un revêtement régulièrement entretenu ou renouvelé.
+
+Elles doivent être disposées de manière à permettre une vérification facile de leur fixation et des marques dont l'apposition est prescrite par les règlements ci-dessus visés, dans un emplacement tel qu'elles ne risquent pas d'élever de façon dangereuse le centre de gravité du véhicule. Elles doivent rester, pour la charge maximale de ce dernier, à une hauteur au-dessus du sol au moins égale à 25 centimètres lorsqu'elles sont disposées entre deux essieux ou 30 centimètres lorsqu'elles sont disposées en porte-à-faux. Elles ne doivent pas présenter de saillies latérales en dehors du gabarit du véhicule antérieur à leur mise en place, ni se trouver en contact avec des tuyauteries pouvant atteindre une température élevée.
