@@ -122,10 +122,6 @@ b) Agents ayant atteint ou atteignant le dernier échelon de leur grade :
 
 L'indemnité est bloquée en valeur absolue au niveau atteint après la dernière imputation indiciaire possible dans le grade. Cette indemnité est à nouveau réduite dans les conditions définies au a des gains indiciaires dus à une nomination à un grade supérieur dans la limite du niveau hiérarchique maximum prévu à l'article 7 ci-dessus.
 
-3° A partir de la vingt-cinquième année d'exercice des fonctions pour les programmeurs de système d'exploitation et les chefs d'exploitation, à partir de la vingt et unième année pour les autres fonctions, toutes les augmentations de traitement et d'indemnité de résidence sont imputées sur l'indemnité dont le montant est bloqué en valeur absolue, jusqu'à sa disparition complète.
+3° A partir de la vingt-cinquième année d'exercice des fonctions pour les programmeurs de système d'exploitation et les chefs d'exploitation, à partir de la vingt et unième année pour les autres fonctions, toutes les augmentations de traitement et d'indemnité de résidence sont imputées sur l'indemnité dont le montant est bloqué en valeur absolue, jusqu'à sa disparition complète.    Toutefois, en ce qui concerne les analystes et les chefs de projet, l'indemnité est maintenue sans limitation de durée. Elle ne peut en aucun cas être inférieure à la somme mensuelle des éléments suivants : 37,50 F + 15/10000 du traitement annuel brut soumis à retenue pour pension afférent à l'indice brut 585.    " Les personnels recrutés à compter du 1er janvier 1989 [*date*] ne pourront bénéficier de la prime provisoire.
 
-Toutefois, en ce qui concerne les analystes et les chefs de projet, l'indemnité est maintenue sans limitation de durée. Elle ne peut en aucun cas être inférieure à la somme mensuelle des éléments suivants : 37,50 F + 15/10000 du traitement annuel brut soumis à retenue pour pension afférent à l'indice brut 585.
-
-Les personnels recrutés à compter du 1er janvier 1988 [*date*] ne pourront bénéficier de la prime provisoire.
-
-Pour ces agents, l'indemnité prévue à l'alinéa précédent en faveur des analystes et des chefs de projet est fixée à 15/10000 du traitement afférent à l'indice brut 585.
+" Pour ces agents, l'indemnité prévue à l'alinéa précédent en faveur des analystes et des chefs de projet est fixée à quinze dix-millièmes du traitement afférent à l'indice brut 585. "

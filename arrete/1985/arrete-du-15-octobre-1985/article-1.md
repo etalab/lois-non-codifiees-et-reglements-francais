@@ -1,3 +1,3 @@
 # Article 1
 
-L'examen auquel est subordonnée la délivrance de l'attestation de capacité, prévu à l'article 7 b du décret n° 85-891 du 16 août 1985 susvisé, est organisé selon le programme et les modalités ci-dessous.
+Les praticiens nommés sur un emploi de praticien hospitalier à temps plein régi par le décret n° 84-131 du 24 février 1984 modifié susvisé quittant un établissement hospitalier pour recevoir une affectation dans un autre établissement hospitalier bénéficient, sur les bases et dans les conditions fixées pour les agents de l'Etat, du remboursement des frais engagés par eux et les membres de leur famille à l'occasion de ce changement de résidence, lorsqu'il est effectué dans l'un des cas prévus à l'article 2 ci-après.

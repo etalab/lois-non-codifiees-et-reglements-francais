@@ -1,8 +1,6 @@
-# Arrêté du 25 février 1986 régissant les règles d'attribution des subventions du fonds pour l'amélioration des conditions de travail.
+# Arrêté du 3 janvier 1989 relatif au choix de la circonscription et de la discipline et à l'affectation des internes du troisième cycle de médecine spécialisée
 
 - [Article 1](article-1.md)
-- [Article 1 bis](article-1-bis.md)
-- [Article 1 ter](article-1-ter.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
@@ -11,3 +9,4 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
+- [Article 10](article-10.md)

@@ -1,3 +1,3 @@
 # Article 1
 
-Par arrêté du ministre de l'économie, des finances et du budget en date du 30 novembre 1984, le règlement n° 84-12 du comité de la réglementation bancaire annexé au présent arrêté est homologué.
+La prime provisoire prévue à l'article 4 de l'arrêté du 23 juillet 1973 susvisé peut éventuellement s'ajouter à la prime de fonctions jusqu'au 31 décembre 1989.
