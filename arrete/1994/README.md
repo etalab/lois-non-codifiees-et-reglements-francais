@@ -515,6 +515,7 @@
 - [Arrêté du 26 janvier 1994 (SPSS9400293A)](arrete-du-26-janvier-1994-spss9400293a)
 - [Arrêté du 26 mai 1994 (BUDD9470001A)](arrete-du-26-mai-1994-budd9470001a)
 - [Arrêté du 26 mai 1994 (EQUT9400770A)](arrete-du-26-mai-1994-equt9400770a)
+- [Arrêté du 26 mai 1994 (LOGC9400038A)](arrete-du-26-mai-1994-logc9400038a)
 - [Arrêté du 26 mai 1994 (SPSP9401425A)](arrete-du-26-mai-1994-spsp9401425a)
 - [Arrêté du 27 décembre 1993 (ACVE9350004A)](arrete-du-27-decembre-1993-acve9350004a)
 - [Arrêté du 27 décembre 1993 (AGRS9302511A)](arrete-du-27-decembre-1993-agrs9302511a)
