@@ -1,14 +1,14 @@
 # Article 17
 
-Le conseil de l'ordre a pour attribution de traiter toutes questions intéressant l'exercice de la profession et de veiller à l'observation des devoirs des avocats ainsi qu'à la protection de leurs droits. Il a pour tâches, notamment :
+Le conseil de l'ordre a pour attribution de traiter toutes questions intéressant l'exercice de la profession et de veiller à l'observation des devoirs des avocats ainsi qu'à la protection de leurs droits. Sans préjudice des dispositions de l'article 21-1, il a pour tâches, notamment :
 
-1° D'arrêter et, s'il y a lieu, de modifier les dispositions du règlement intérieur, de statuer sur l'inscription au tableau des avocats, sur l'omission de ce tableau décidée d'office ou à la demande du procureur général, sur l'admission au stage ou l'omission de la liste du stage décidée d'office ou à la demande du procureur général, des maîtres ou docteurs en droit qui ont prêté serment devant les cours d'appel, sur l'inscription au tableau des avocats stagiaires après l'accomplissement de leur stage, sur l'inscription et sur le rang des avocats qui, ayant déjà été inscrits au tableau et ayant abandonné l'exercice de la profession, se présentent de nouveau pour la reprendre ainsi que sur l'autorisation d'ouverture de bureaux secondaires ou le retrait de cette autorisation .
+1° D'arrêter et, s'il y a lieu, de modifier les dispositions du règlement intérieur, de statuer sur l'inscription au tableau des avocats, sur l'omission de ce tableau décidée d'office ou à la demande du procureur général, sur l'inscription et sur le rang des avocats qui, ayant déjà été inscrits au tableau et ayant abandonné l'exercice de la profession, se présentent de nouveau pour la reprendre ainsi que sur l'autorisation d'ouverture de bureaux secondaires ou le retrait de cette autorisation.
 
-Lorsqu'un barreau comprend au moins cinq cents avocats disposant du droit de vote mentionné au deuxième alinéa de l'article 15, le conseil de l'ordre peut siéger, en vue de statuer soit sur l'inscription au tableau ou sur la liste du stage du barreau ou sur l'omission du tableau ou de la liste du stage du barreau, soit sur l'autorisation d'ouverture de bureaux secondaires ou le retrait de cette autorisation, en une ou plusieurs formations de neuf membres, présidées par le bâtonnier ou un ancien bâtonnier. Le président et les membres de la ou des formations et deux membres suppléants sont désignés au début de chaque année par délibération du conseil de l'ordre.
+Lorsqu'un barreau comprend au moins cinq cents avocats disposant du droit de vote mentionné au deuxième alinéa de l'article 15, le conseil de l'ordre peut siéger, en vue de statuer, soit sur l'inscription au tableau du barreau ou sur l'omission du tableau, soit sur l'autorisation d'ouverture de bureaux secondaires ou le retrait de cette autorisation, en une ou plusieurs formations de cinq membres, présidées par le bâtonnier ou un ancien bâtonnier. Les membres qui composent ces formations peuvent être des membres du conseil de l'ordre ou des anciens membres du conseil de l'ordre ayant quitté leurs fonctions depuis moins de huit ans. Ces membres sont choisis sur une liste arrêtée chaque année par le conseil de l'ordre.
 
 La formation restreinte peut renvoyer l'examen de l'affaire à la formation plénière ;
 
-2° D'exercer la discipline dans les conditions prévues par les articles 22 à 25 de la présente loi et par les décrets visés à l'article 53 ;
+2° De concourir à la discipline dans les conditions prévues par les articles 22 à 25 de la présente loi et par les décrets visés à l'article 53 ;
 
 3° De maintenir les principes de probité, de désintéressement, de modération et de confraternité sur lesquels repose la profession et d'exercer la surveillance que l'honneur et l'intérêt de ses membres rendent nécessaire ;
 
@@ -25,5 +25,7 @@ La formation restreinte peut renvoyer l'examen de l'affaire à la formation plé
 9° De vérifier la tenue de la comptabilité des avocats, personnes physiques ou morales, et la constitution des garanties imposées par l'article 27 et par les décrets visés à l'article 53 ;
 
 10° D'assurer dans son ressort l'exécution des décisions prises par le Conseil national des barreaux.
+
+11° De veiller à ce que les avocats aient satisfait à l'obligation de formation continue prévue par l'article 14-2.
 
 Les contrats de collaboration ou de travail conclus par les avocats sont communiqués au conseil de l'ordre qui peut, dans des conditions fixées par décret en Conseil d'Etat, mettre en demeure les avocats de modifier les contrats dont les stipulations seraient contraires aux dispositions de l'article 7.

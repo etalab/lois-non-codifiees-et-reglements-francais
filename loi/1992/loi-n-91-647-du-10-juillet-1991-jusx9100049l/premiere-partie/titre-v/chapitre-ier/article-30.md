@@ -1,6 +1,6 @@
 # Article 30
 
-La caisse des règlements pécuniaires désigne un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article 219 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales pour une durée de six exercices. Les dispositions concernant les fonctions de commissaire aux comptes suppléant prévues à l'article 223 de cette loi sont applicables.
+La caisse des règlements pécuniaires désigne un commissaire aux comptes et un suppléant choisis sur la liste mentionnée à l'article L. 225-219 du code de commerce pour une durée de six exercices. Les dispositions concernant les fonctions de commissaire aux comptes suppléant prévues à l'article L. 225-228.
 
 Ne peuvent être choisis comme commissaires aux comptes :
 
@@ -14,10 +14,10 @@ Ne peuvent être choisis comme commissaires aux comptes :
 
 5° Les sociétés de commissaires aux comptes dont soit l'un des dirigeants, soit l'associé ou actionnaire exerçant les fonctions de commissaire aux comptes au nom de la société, a son conjoint qui se trouve dans l'une des situations prévues au 4° ;
 
-6° Les avocats anciens conseils juridiques qui sont autorisés par le XI de l'article 50 de la loi n° 71-1130 du 31 décembre 1971 précitée à poursuivre les activités de commissaire aux comptes.
+6° Les avocats anciens conseils juridiques qui ont été autorisés à poursuivre les activités de commissaire aux comptes par le XI de l'article 50 de la loi n° 71-1130 du 31 décembre 1971 précitée dans sa rédaction antérieure de la loi n° 2004-130 du 11 février 2004 réformant le statut de certaines professions judiciaires ou juridiques, des experts judiciaires, des conseils en propriété industrielle et des experts en ventes aux enchères publiques.
 
 Le commissaire aux comptes vérifie que la dotation de l'Etat a été versée sur un compte spécial établi chaque année à cet effet dans des conditions fixées par décret en Conseil d'Etat et qu'elle a été utilisée conformément à la présente loi.
 
-Les dispositions des articles 229, 233, 234, 235, 456 et 457 de la loi n° 66-537 du 24 juillet 1966 précitée sont applicables.
+Les dispositions des articles L. 225-236, L. 225-240, L. 225-241, L. 225-242, L. 242-26 et L. 242-27 du code de commerce sont applicables.
 
-Les dispositions de l'article 455 de ladite loi sont applicables au président de la caisse et celles de l'article 458 de la même loi au président de la caisse et à toute personne au service de celle-ci.
+Les dispositions de l'article L. 242-25 sont applicables au président de la caisse et celles de l'article L. 242-28 au président de la caisse et à toute personne au service de celle-ci.
