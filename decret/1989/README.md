@@ -94,6 +94,8 @@
 - [Décret n°89-214 du 10 avril 1989 (MAEJ8930025D)](decret-n89-214-du-10-avril-1989-maej8930025d)
 - [Décret n°89-216 du 10 avril 1989 (MAEJ8930027D)](decret-n89-216-du-10-avril-1989-maej8930027d)
 - [Décret n°89-489 du 10 juillet 1989 (MAEJ8930067D)](decret-n89-489-du-10-juillet-1989-maej8930067d)
+- [Décret n°89-492 du 10 juillet 1989 (MENF8901165D)](decret-n89-492-du-10-juillet-1989-menf8901165d)
+- [Décret n°89-495 du 10 juillet 1989 (EQUS8900431D)](decret-n89-495-du-10-juillet-1989-equs8900431d)
 - [Décret n°89-90 du 10 février 1989 (MICT8900022D)](decret-n89-90-du-10-fevrier-1989-mict8900022d)
 - [Décret n°89-95 du 10 février 1989 (SPSA8801866D)](decret-n89-95-du-10-fevrier-1989-spsa8801866d)
 - [Décret n°89-296 du 10 mai 1989 (INTB8900136D)](decret-n89-296-du-10-mai-1989-intb8900136d)
