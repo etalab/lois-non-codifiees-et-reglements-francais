@@ -1,5 +1,3 @@
 # Article 3
 
 Pour les bénéficiaires des conventions d'allocation spéciale du Fonds national de l'emploi qui, du fait de la situation économique de l'entreprise, ont accepté la transformation de leur emploi à temps plein en emploi à mi-temps, le montant de la ressource garantie est fixé à 30 p. 100 du salaire journalier de référence défini à l'article R. 322-7 du code du travail, dans la limite du plafond prévu à l'article L. 241-3 du code de la sécurité sociale, et à 25 p. 100 du salaire journalier de référence pour la part de ce salaire excédant ce plafond, dans la limite du plafond de cotisation au régime de la convention collective nationale du 14 mars 1947.
-
-Toutefois, pour celles de ces personnes qui, avant la transformation de leur emploi à temps plein en emploi à mi-temps, ont fait liquider un ou plusieurs avantages vieillesse à caractère viager ou qui auraient pu prétendre à un tel avantage liquidable sans coefficient de minoration dans un régime autre que celui dont elles relèvent au titre de l'emploi transformé à mi-temps, le montant de la ressource garantie est réduit du quart des susdits avantages vieillesse liquidés ou liquidables.
