@@ -10,9 +10,7 @@ Sont inscrits sur la liste d'aptitude prévue au 1° de l'article 3 les candidat
 
 Lorsque le nombre de postes à pourvoir n'est pas un multiple de quatre, le poste supplémentaire est attribué au concours interne.
 
-Nul ne peut participer plus de trois fois à l'un ou l'autre de ces concours.
-
-Lorsque le nombre des candidats ayant subi avec succès les épreuves d'un concours externe ou d'un concours interne est inférieur au nombre des places offertes à ce concours, le jury peut modifier la répartition des places entre les deux concours dans la limite de 15 p. 100 des places offertes à l'un ou l'autre des concours.
+" Lorsque le nombre de candidats ayant subi avec succès les épreuves d'un concours est inférieur au nombre de places offertes à ce concours, le jury peut reporter 15 p. 100 au plus des places offertes à ce concours sur les autres concours. "
 
 Le concours sur titres comprend une conversation avec le jury et des exercices sportifs.
 
