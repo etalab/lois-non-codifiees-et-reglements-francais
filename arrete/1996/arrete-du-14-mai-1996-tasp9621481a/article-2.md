@@ -22,4 +22,6 @@ Le comité est composé de personnalités qualifiées :
 
 - un représentant des observatoires régionaux de la santé ;
 
-- un médecin généraliste.
+- un médecin généraliste ;
+
+- un spécialiste en anatomo-cytopathologie.

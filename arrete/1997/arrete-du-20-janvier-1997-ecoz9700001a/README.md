@@ -1,4 +1,4 @@
-# Arrêté du 14 mai 1996 portant création d'un comité scientifique sur le dépistage du cancer du côlon et du rectum
+# Arrêté du 20 janvier 1997 portant création de la Commission spécialisée de terminologie et de néologie en matière économique et financière
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

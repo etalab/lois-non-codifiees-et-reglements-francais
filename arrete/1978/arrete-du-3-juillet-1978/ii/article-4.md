@@ -34,36 +34,8 @@ ZONE II (en francs)  : 264
 
 ZONE III (en francs) : 239
 
-Toutefois, dans le cas de colocation prévu aux articles R. 351-17 (6e alinéa) et R. 351-17-2, les loyers de référence des logements à usage locatif visés ci-dessus sont fixés à 80 p. 100 des loyers de référence mentionnés à l'alinéa précédent, soit :
+Dans le cas de colocation prévu aux articles R. 351-17 (6e alinéa) et R. 351-17-2, les loyers de référence des logements à usage locatif visés au premier alinéa du présent article sont fixés à 75 % des loyers de référence mentionnés audit premier alinéa.
 
-Bénéficiaire isolé
+Lorsque le logement occupé est une chambre, le loyer de référence est fixé à 90 % du loyer de référence applicable au bénéficiaire isolé et mentionné au premier alinéa du présent article, sauf dans le cas visé à l'article L. 351-15 où le loyer de référence est fixé par l'arrêté du 18 juillet 1990 relatif au calcul de l'aide personnalisée au logement versée aux personnes âgées ou handicapées adultes hébergées chez des particuliers.
 
-ZONE I (en francs)   : 1 167
-
-ZONE II (en francs)  : 1 024
-
-ZONE III (en francs) :   960
-
-Ménage sans personne à charge
-
-ZONE I (en francs)   : 1 406
-
-ZONE II (en francs)  : 1 254
-
-ZONE III (en francs) : 1 165
-
-Bénéficiaire isolé ou ménage ayant une personne à charge
-
-ZONE I (en francs)   : 1 620
-
-ZONE II (en francs)  : 1 446
-
-ZONE III (en francs) : 1 338
-
-Par personne supplémentaire à charge
-
-ZONE I (en francs)   : 235
-
-ZONE II (en francs)  : 211
-
-ZONE III (en francs) : 191
+Les montants obtenus par l'application de ces pourcentages sont arrondis au franc le plus proche.
