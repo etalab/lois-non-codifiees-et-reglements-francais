@@ -2,5 +2,4 @@
 
 - [Chapitre Ier : Dispositions relatives au code pénal](chapitre-ier)
 - [Chapitre III : Dispositions relatives au code forestier.](chapitre-iii)
-- [Chapitre VII : Dispositions relatives au code du travail.](chapitre-vii)
 - [Chapitre IX : Dispositions relatives à l'entrée et au séjour des étrangers en France.](chapitre-ix)
