@@ -5,4 +5,3 @@
 - [Du droit de préemption](du-droit-de-preemption)
 - [De l'office foncier de la Nouvelle-Calédonie et dépendances](de-l-office-foncier-de-la-nouvelle-caledonie-et)
 - [Article Execution](article-execution.md)
-- [Des baux conclus par l'office foncier de Nouvelle-Calédonie et dépendances.](des-baux-conclus-par)
