@@ -8,6 +8,7 @@
 - [Publicité du rapport et des conclusions.](publicite-du-rapport-et)
 - [Formalités de clôture de l'enquête.](formalites-de-cloture-de-l-enquete)
 - [Information des maires.](information-des-maires)
+- [Personnes ne pouvant être designées pour exercer les fonctions de commissaire enquêteur.](personnes-ne)
 - [Observations du public.](observations-du-public)
 - [Organisation d'une réunion publique.](organisation-d-une-reunion-publique)
 - [Désignation du commissaire enquêteur ou d'une commission d'enquête.](designation-du-commissaire-enqueteur-ou)
