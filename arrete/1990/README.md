@@ -219,6 +219,7 @@
 - [Arrêté du 10 juillet 1990 (SPSS9001464A)](arrete-du-10-juillet-1990-spss9001464a)
 - [Arrêté du 10 juin 1990 (DEFA9001540A)](arrete-du-10-juin-1990-defa9001540a)
 - [Arrêté du 10 septembre 1990 (BUDF9000019A)](arrete-du-10-septembre-1990-budf9000019a)
+- [Arrêté du 10 septembre 1990 (BUDR9005048A)](arrete-du-10-septembre-1990-budr9005048a)
 - [Arrêté du 10 mai 1990 (DEFM9001491A)](arrete-du-10-mai-1990-defm9001491a)
 - [Arrêté du 10 mai 1990 (EQUT9000722A)](arrete-du-10-mai-1990-equt9000722a)
 - [Arrêté du 11 avril 1990 (DEFM9001362A)](arrete-du-11-avril-1990-defm9001362a)
