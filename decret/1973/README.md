@@ -52,6 +52,7 @@
 - [Décret n°73-378 du 27 mars 1973](decret-n73-378-du-27-mars-1973)
 - [Décret n°73-384 du 27 mars 1973](decret-n73-384-du-27-mars-1973)
 - [Décret n°73-405 du 27 mars 1973](decret-n73-405-du-27-mars-1973)
+- [Décret n°73-412 du 27 mars 1973](decret-n73-412-du-27-mars-1973)
 - [Décret n°73-433 du 27 mars 1973](decret-n73-433-du-27-mars-1973)
 - [Décret n°73-207 du 28 février 1973](decret-n73-207-du-28-fevrier-1973)
 - [Décret n°73-102 du 30 janvier 1973](decret-n73-102-du-30-janvier-1973)
