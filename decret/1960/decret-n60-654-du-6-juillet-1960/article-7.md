@@ -1,0 +1,5 @@
+# Article 7
+
+Les malades payants et les parturientes payantes, à l'exclusion des bénéficiaires d'un régime de prévoyance sociale, des assurés sociaux, des bénéficiaires de l'aide médicale et des bénéficiaires des soins gratuits aux victimes de guerre, versent directement les honoraires aux médecins et sages-femmes.
+
+Dans les autres cas, les médecins et sages-femmes consignent sur les feuilles de soins, aux tarifs indiqués à l'article qui précède, les actes qu'ils ont effectués. Ces feuilles sont, périodiquement, et au plus tard au moment de la sortie de la personne hospitalisée, remises à l'ordonnateur, qui procède au recouvrement des honoraires dans les conditions prévues par la réglementation hospitalière en vigueur. Après prélèvement de 5 % pour frais de recouvrement et, en outre, de 5 % destinés à l'amélioration de l'équipement et des conditions de fonctionnement des services de l'établissement, le comptable de l'hôpital crédite, trimestriellement au moins, chaque médecin et sage-femme des sommes encaissées pour son compte.

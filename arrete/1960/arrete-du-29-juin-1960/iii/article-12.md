@@ -1,0 +1,3 @@
+# Article 12
+
+Dans le mois qui suit leur admission dans les cadres du personnel de l'un des établissements visés à l'article L. 792 du code de la santé publique, les agents de toutes catégories, après une nouvelle visite médicale ayant pour but de s'assurer s'il y a ou non des contre-indications et sous réserve de celles-ci, doivent satisfaire aux obligations des lois sur les vaccinations obligatoires. Les résultats et observations relatifs à ces diverses vaccinations sont portés sur la fiche médicale de l'agent et sur le registre prévu par l'arrêté du 19 janvier 1949. Copie en est remise à l'agent sur sa demande.

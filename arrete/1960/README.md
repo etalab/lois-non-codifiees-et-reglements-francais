@@ -11,4 +11,5 @@
 - [Arrêté du 26 juillet 1961](arrete-du-26-juillet-1961)
 - [Arrêté du 27 avril 1960](arrete-du-27-avril-1960)
 - [Arrêté du 29 février 1960](arrete-du-29-fevrier-1960)
+- [Arrêté du 29 juin 1960](arrete-du-29-juin-1960)
 - [Arrêté du 30 mars 1960](arrete-du-30-mars-1960)
