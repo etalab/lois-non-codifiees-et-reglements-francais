@@ -1,0 +1,3 @@
+# Article 1
+
+La liste des diplômes ouvrant droit à la validation d’acquis professionnels mentionnée à l’article 1er du décret n° 93-489 du 26 mars 1993 est fixée ainsi qu’il suit : certificat d’aptitude professionnelle, brevet d’études professionnelles et les mentions complémentaires y afférentes, baccalauréat professionnel, brevet professionnel, baccalauréat technologique, brevet de technicien, brevet des métiers d’art, brevet de technicien supérieur, diplôme des métiers d’art, diplôme supérieur des arts appliqués, diplôme de technicien supérieur ainsi que les diplômes spécifiques de l’enseignement technologique et professionnel délivrés par le ministre de l’éducation nationale et classés aux niveaux III, IV et V de la nomenclature des niveaux de formation.
