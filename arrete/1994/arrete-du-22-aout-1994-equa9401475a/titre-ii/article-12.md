@@ -1,0 +1,3 @@
+# Article 12
+
+Un des médecins du centre autre que le médecin-chef doit être chargé d'assurer un système interne de contrôle de qualité permettant de vérifier par audit/enquête, dans le respect du secret médical, que l'organisation et les procédures en vigueur satisfont aux dispositions du présent arrêté. Ce système doit notamment prévoir l'analyse des données traitées de façon à mettre en évidence toute anomalie de fonctionnement ; cette analyse fait l'objet d'un document approprié qui doit être communiqué, sur demande, au conseil médical de l'aéronautique civile et au ministre chargé de l'aviation civile.

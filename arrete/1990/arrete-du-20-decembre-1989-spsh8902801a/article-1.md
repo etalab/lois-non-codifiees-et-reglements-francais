@@ -1,9 +1,19 @@
 # Article 1
 
-Les concours sur épreuves pour l'accès au corps des préparateurs en pharmacie sont ouverts par arrêté du préfet du département du siège du ou des établissements disposant de postes vacants et, en ce qui concerne l'administration générale de l'assistance publique à Paris, par le directeur général.
+Les concours sur épreuves pour l'accès au corps des préparateurs en pharmacie sont ouverts :
 
-Dans le cas où l'organisation d'un concours commun à plusieurs établissements situés dans des départements voisins a été décidée, ce concours est ouvert par arrêté conjoint des préfets des départements intéressés.
+a) Pour le compte de plusieurs établissements d'un même département, par l'autorité investie du pouvoir de l'établissement du département comportant le plus grand nombre de lits ;
 
-L'arrêté directorial, préfectoral ou interpréfectoral prévu aux alinéas précédents doit préciser le nombre de postes mis au concours. Il doit en outre indiquer les établissements où ces postes sont à pourvoir et désigner le centre où se déroulent les épreuves du concours.
+b) Pour le compte d'un seul établissement, par décision de l'autorité investie du pouvoir de nomination de cet établissement, après accord du représentant de l'Etat dans le département ;
 
-En cas de concours commun à plusieurs établissements situés dans des départements voisins, l'arrêté préfectoral portant ouverture du concours peut prévoir, pour les épreuves écrites uniquement, l'organisation d'un centre d'épreuves au chef-lieu de chacun des départements intéressés.
+c) Pour le compte de plusieurs établissements situés dans des départements différents, par décision conjointe des directeurs des établissements comportant le plus grand nombre de lits de chaque département.
+
+En ce qui concerne l'administration générale de l'Assistance publique - hôpitaux de Paris, ils sont ouverts par le directeur général.
+
+Dans tous les cas, l'arrêté directorial doit préciser le nombre de postes mis au concours. Il doit en outre indiquer les établissements où ces postes sont à pourvoir et désigner le centre où se dérouleront les épreuves du concours.
+
+Selon que le concours est destiné à pourvoir des postes dans un ou plusieurs établissements du même département, les épreuves ont lieu respectivement dans l'établissement concerné ou dans l'établissement comportant le plus grand nombre de lits dans le département.
+
+Dans les cas où le concours est destiné à pourvoir des postes dans plusieurs établissements situés dans des départements différents, l'arrêté portant ouverture du concours détermine l'établissement dans lequel auront lieu les épreuves.
+
+Il peut prévoir, pour les épreuves écrites exclusivement, l'organisation d'un centre d'épreuves dans chacun des départements intéressés.

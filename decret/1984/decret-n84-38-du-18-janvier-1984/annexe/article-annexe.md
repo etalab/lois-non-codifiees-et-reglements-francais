@@ -188,11 +188,15 @@ Emplois scientifiques, techniques et administratifs de recherche
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
-Etablissement public de la Bibliothèque de France
+Etablissement public de la Bibliothèque nationale de France
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
-Emplois de catégorie A, B, C et D
+Emplois des catégorie A, B et C nécessaires à l'accomplissement des missions de construction des bâtiments de Tolbiac et de Marne-la- Vallée jusqu'à la réception de ces bâtiments ;
+
+Emplois des catégorie A, B et C nécessaires à l'accomplissement des missions d'aménagement, de constitution des collections, d'organisation et d'ouverture des bâtiments de Tolbiac et de Marne-la-Vallée, et ce, respectivement, pour les bâtiments de Tolbiac jusqu'à l'ouverture au public des bâtiments et pour les bâtiments de Marne-la-Vallée, jusqu'à la mise en service des installations.
+
+Emplois des catégories a, B et C des services commerciaux et d'édition, des services de la communication et des services d'organisation des expositions, à l'exception des chefs de service
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 

@@ -1,6 +1,6 @@
 # Article 3
 
-Les candidatures doivent parvenir au moins un mois avant la date des épreuves au directeur des affaires sanitaires et sociales du département dont le chef-lieu a été choisi pour le déroulement des épreuves écrites et orales et, en ce qui concerne l'administration générale de l'assistance publique à Paris, au directeur général.
+Les candidatures doivent parvenir au moins un mois avant la date des épreuves au directeur de l'établissement dans lequel est ouvert le concours et, en ce qui concerne l'administration générale de l'Assistance publique - hôpitaux de Paris, au directeur général.
 
 A l'appui de leur demande, les candidats doivent joindre les pièces suivantes :
 
