@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 23 décembre 1980 pris en exécution de l'article 10 (1er alinéa) du décret n° 75-996 du 28 octobre 1975 susvisé est abrogé.
+Le taux de conversion de l'Ecu en francs français pour les échanges agricoles en vigueur au 15 novembre 1981 est de 6,086.56 F pour un Ecu.
