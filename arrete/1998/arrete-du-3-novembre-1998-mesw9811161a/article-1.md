@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé à la direction de l'animation de la recherche, des études et des statistiques (DARES) un traitement automatisé d'informations nominatives rendues anonymes dont l'objet est, à la suite des réformes apportées par les lois susvisées concernant les institutions représentatives du personnel et la négociation d'entreprise, et à la suite de l'enquête " Relations professionnelles et négociations d'entreprises " réalisée en 1993, d'approfondir les connaissances sur la pratique et l'évolution des relations professionnelles, sur les enjeux et les modalités de la négociation, tels que les voient les acteurs en entreprise (employeurs, représentants du personnel et salariés).
