@@ -1,6 +1,6 @@
 # Article 4
 
-Les commissions départementales et la commission supérieure des soins gratuits ont qualité :
+Les commissions contentieuses et la commission supérieure des soins gratuits ont qualité :
 
 1° Pour opérer tous redressements et abattements sur les mémoires qui leur sont déférés ;
 
