@@ -348,7 +348,6 @@
 - [Décret n°2000-43 du 20 janvier 2000 (FPPA9910019D)](decret-n2000-43-du-20-janvier-2000-fppa9910019d)
 - [Décret n°2000-545 du 20 juin 2000 (ECOT0020012D)](decret-n2000-545-du-20-juin-2000-ecot0020012d)
 - [Décret n°2000-568 du 20 juin 2000 (ECOD0050004D)](decret-n2000-568-du-20-juin-2000-ecod0050004d)
-- [Décret n°2000-684 du 20 juillet 2000 (MESH0021805D)](decret-n2000-684-du-20-juillet-2000-mesh0021805d)
 - [Décret n°2000-686 du 20 juillet 2000 (INTB0000189D)](decret-n2000-686-du-20-juillet-2000-intb0000189d)
 - [Décret n°2000-687 du 20 juillet 2000 (AGRP0001194D)](decret-n2000-687-du-20-juillet-2000-agrp0001194d)
 - [Décret n°2000-688 du 20 juillet 2000 (AGRS0001187D)](decret-n2000-688-du-20-juillet-2000-agrs0001187d)
