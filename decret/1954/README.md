@@ -2,6 +2,7 @@
 
 - [Décret n°54-122 du 1 février 1954](decret-n54-122-du-1-fevrier-1954)
 - [Décret n°54-213 du 1 mars 1954](decret-n54-213-du-1-mars-1954)
+- [Décret n°54-474 du 4 mai 1954](decret-n54-474-du-4-mai-1954)
 - [Décret n°54-135 du 6 février 1954](decret-n54-135-du-6-fevrier-1954)
 - [Décret n°54-409 du 6 avril 1954](decret-n54-409-du-6-avril-1954)
 - [Décret n°54-257 du 10 mars 1954](decret-n54-257-du-10-mars-1954)
