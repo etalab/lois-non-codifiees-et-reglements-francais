@@ -10,13 +10,13 @@ NOMBRE DE PARLEMENTAIRES
 
 ayant déclaré y être inscrits ou s'y rattacher :
 
-- Assemblée nationale : 258
+- Assemblée nationale : 257
 
 - Sénat : 60
 
-- Total : 318
+- Total : 317
 
-MONTANT de l'aide attribuée (en francs) : 93 946 488
+MONTANT de l'aide attribuée (en francs) : 93 651 059
 
 PARTI OU GROUPEMENT POLITIQUE :
 
@@ -120,13 +120,13 @@ NOMBRE DE PARLEMENTAIRES
 
 ayant déclaré y être inscrits ou s'y rattacher :
 
-- Assemblée nationale : 8
+- Assemblée nationale : 9
 
 - Sénat : 6
 
-- Total : 14
+- Total : 15
 
-MONTANT de l'aide attribuée (en francs) : 4 136 009
+MONTANT de l'aide attribuée (en francs) : 4 431 438
 
 PARTI OU GROUPEMENT POLITIQUE :
 
