@@ -8,6 +8,6 @@ Les attributions des officiers spécialisés de la marine s'exercent dans les do
 
 Les officiers de marine et les officiers spécialisés de la marine participent à la constitution, à l'encadrement et au fonctionnement de l'ensemble des organismes de la marine.
 
-Ils peuvent être appelés à faire partie des formations interarmées ou relevant d'une autre armée ou de toute formation ou organisme rattaché au ministère chargé des armées.
+Ils peuvent être appelés à faire partie des formations interarmées ou relevant d'une autre armée ou de toute formation ou organisme rattaché au ministère de la défense.
 
 En permanence en haute mer et, s'il y a lieu, dans les eaux territoriales étrangères, les officiers des deux corps, à la fois militaires et gens de mer, représentent la France. Ils ont pour mission de faire respecter ses intérêts et de protéger ses ressortissants. Les commandements des navires et des forces navales sont attribués par décrets et leurs titulaires reçoivent une lettre de commandement.

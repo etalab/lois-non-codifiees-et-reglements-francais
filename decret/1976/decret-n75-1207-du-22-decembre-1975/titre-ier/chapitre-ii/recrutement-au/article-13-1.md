@@ -1,7 +1,13 @@
 # Article 13-1
 
-Peuvent être recrutés sur titres au grade d'enseigne de vaisseau de 1re classe, dans la limite du pourcentage indiqué à l'article 16, sur leur demande et sur avis de la commission mentionnée à l'article 23, dans l'un des corps régis par le titre Ier du présent décret, les titulaires d'un diplôme de fin de deuxième cycle de l'enseignement supérieur, d'un titre d'ingénieur délivré dans les conditions fixées par la loi du 10 juillet 1934, d'un brevet délivré par la marine marchande figurant sur une liste arrêtée par le ministre chargé des armées ou d'un diplôme délivré par une école navale étrangère équivalent à l'un des diplômes cités précédemment et dont la liste est fixée par une commission d'équivalence.
+Peuvent être recrutés au grade d'enseigne de vaisseau de 1re classe, dans le corps des officiers de marine ou dans le corps des officiers spécialisés de la marine, par concours sur titre, les titulaires de titres ou diplômes d'un niveau de troisième cycle de l'enseignement supérieur figurant sur une liste établie par arrêté du ministre de la défense. Les conditions d'organisation et de déroulement de ces concours sont fixées par arrêté du ministre de la défense.
 
-La composition et les modalités de fonctionnement de cette commission sont fixées par arrêté du ministre chargé des armées. Cette commission est présidée par le ministre chargé des armées ou son représentant et comprend, outre les membres désignés par le ministre chargé des armées, un représentant du ministre chargé du budget et un représentant du ministre chargé de la fonction publique.
+Les candidats recrutés dans le corps des officiers de marine sont admis en troisième année de l'école navale et les candidats recrutés dans le corps des officiers spécialisés de la marine sont admis à des stages d'application spécialisés.
 
-Les candidats doivent remplir les conditions d'aptitude prévues à l'article 4, être âgés de plus de vingt-deux ans et de moins de trente ans au 1er janvier de l'année de leur nomination et avoir accompli le service militaire actif. Les intéressés prennent rang dans leur grade dans chacun des deux corps dans l'ordre arrêté par le ministre chargé des armées sur proposition de la commission mentionnée à l'article 23.
+Le nombre total de places offertes chaque année pour les concours sur titre, réparties par corps, branches, spécialités ou groupes de spécialités mentionnés à l'article 4 du présent décret, est fixé par arrêté du ministre de la défense.
+
+Les candidats doivent remplir les conditions d'aptitude définies dans l'arrêté prévu à l'article 4, être âgés de plus de vingt-deux ans et de moins de vingt-huit ans pour le corps des officiers de marine, de plus de vingt-deux ans et de moins de trente ans pour le corps des officiers spécialisés de la marine et être en situation régulière au regard des obligations du service national.
+
+Les conditions d'âge exigées sont appréciées au 1er janvier de l'année du concours.
+
+La nomination au grade d'enseigne de vaisseau de 1re classe est prononcée lorsque l'intéressé a satisfait à une période probatoire de dix mois, en qualité d'élève officier sous contrat, d'aspirant ou d'officier sous contrat. Cette période peut être antérieure à la candidature au concours.

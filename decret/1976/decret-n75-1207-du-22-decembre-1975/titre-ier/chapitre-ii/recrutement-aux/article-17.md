@@ -2,12 +2,12 @@
 
 A égalité de grade et d'ancienneté, les officiers recrutés au titre des articles 6 à 15 prennent rang dans l'ordre suivant :
 
-Officiers recrutés au titre de l'article 6 ;
+1° Officiers recrutés au titre de l'article 6 ;
 
-Officiers recrutés au titre de l'article 13 ;
+2° Officiers recrutés au titre de l'article 13 ;
 
-Officiers recrutés au titre de l'article 13-1 ;
+3° Officiers recrutés au titre des articles 13-1 et 13-2 ;
 
-Officiers recrutés au titre de l'article 14 ;
+4° Officiers recrutés au titre de l'article 14 ;
 
-Officiers recrutés au titre de l'article 15.
+5° Officiers recrutés au titre de l'article 15.

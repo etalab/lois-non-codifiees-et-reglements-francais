@@ -6,4 +6,4 @@ Ils sont les conseillers du commandement en matière administrative, financière
 
 Ils participent, en tant que corps navigant de la marine, à l'activité opérationnelle et à l'encadrement militaire des unités ou organismes de cette armée.
 
-Ils peuvent être appelés à faire partie d'organismes interarmées ou relevant d'une autre armée ou de tout autre organisme rattaché au ministère chargé des armées.
+Ils peuvent être appelés à faire partie d'organismes interarmées ou relevant d'une autre armée ou de tout autre organisme rattaché au ministère de la défense.
