@@ -1,0 +1,3 @@
+# Article 63
+
+Toute personne intéressée ou le ministère public, qui a connaissance d'un événement entraînant la dissolution d'une personne morale inscrite au registre peut mettre en demeure, par voie de signification la personne morale ou, à défaut, le dernier dirigeant connu de celle-ci, de procéder à la dissolution. Si la régularisation n'intervient pas dans le délai de six mois, la personne intéressée ou le ministère public peut demander au tribunal de commerce lorsque la personne morale est commerçante, ou au tribunal de grande instance dans les autres cas, de constater la dissolution et, s'il y a lieu, d'ordonner la liquidation et la radiation du registre.
