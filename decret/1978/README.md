@@ -116,7 +116,6 @@
 - [Décret n°78-1297 du 28 décembre 1978](decret-n78-1297-du-28-decembre-1978)
 - [Décret n°78-283 du 28 février 1978](decret-n78-283-du-28-fevrier-1978)
 - [Décret n°78-498 du 28 mars 1978](decret-n78-498-du-28-mars-1978)
-- [Décret n°78-721 du 28 juin 1978](decret-n78-721-du-28-juin-1978)
 - [Décret n°78-729 du 28 juin 1978](decret-n78-729-du-28-juin-1978)
 - [Décret n°78-795 du 28 juillet 1978](decret-n78-795-du-28-juillet-1978)
 - [Décret n°78-796 du 28 juillet 1978](decret-n78-796-du-28-juillet-1978)
