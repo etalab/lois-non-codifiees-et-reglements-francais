@@ -1,0 +1,3 @@
+# Article 16
+
+Dans le but d'assurer l'écoulement par préférence sur le territoire métropolitain des matières grasses et acides gras provenant du cheptel français, des graines oléagineuses ainsi que des brais et colophanes de provenance métropolitaine, par leur utilisation notamment dans les industries du savon, des bougies, du saindoux, de la margarine, de l'oléo-margarine, des graisses alimentaires animales, végéto-animales et végétales, un décret, rendu en conseil des ministres, après avis des comités centraux de la viande, du lait et des produits résineux, fixera, s'il y a lieu, les quantités de matières premières d'origine étrangère entrant dans les fabrications ci-dessus énumérées qui pourront être importées chaque année.
