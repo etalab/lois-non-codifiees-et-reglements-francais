@@ -2,7 +2,7 @@
 
 Sont soumis à l'obligation du visa consulaire de transit aéroportuaire les ressortissants des Etats suivants :
 
-Afghanistan, Albanie, Angola, Bangladesh, Erythrée, Ethiopie, Ghana, Haïti, Irak, Iran, Liberia, Nigeria, Libye, Pakistan, Sierra Leone, Somalie, Sri Lanka, République démocratique du Congo.
+Afghanistan, Albanie, Angola, Bangladesh, Erythrée, Ethiopie, Ghana, Guinée, Haïti, Inde, Irak, Iran, Liberia, Nigeria, Libye, Pakistan, Sierra Leone, Somalie, Soudan, Sri Lanka, Syrie, République démocratique du Congo.
 
 Sont dispensés de l'obligation du visa consulaire de transit aéroportuaire les ressortissants des Etats mentionnés dans le présent arrêté, titulaires :
 
