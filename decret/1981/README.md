@@ -67,6 +67,7 @@
 - [Décret n° 59-771 du 26 juin 1959](decret-n-59-771-du-26-juin-1959)
 - [Décret n°81-184 du 26 février 1981](decret-n81-184-du-26-fevrier-1981)
 - [Décret n°81-185 du 26 février 1981](decret-n81-185-du-26-fevrier-1981)
+- [Décret n°81-283 du 26 mars 1981](decret-n81-283-du-26-mars-1981)
 - [Décret n°81-187 du 27 février 1981](decret-n81-187-du-27-fevrier-1981)
 - [Décret n°81-61 du 27 janvier 1981](decret-n81-61-du-27-janvier-1981)
 - [Décret n°81-69 du 28 janvier 1981](decret-n81-69-du-28-janvier-1981)
