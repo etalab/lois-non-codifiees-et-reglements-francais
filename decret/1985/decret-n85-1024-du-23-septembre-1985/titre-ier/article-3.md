@@ -1,3 +1,0 @@
-# Article 3
-
-Pour le calcul du taux moyen réel de participation des communes ou de leurs groupements aux dépenses des collèges nationalisés, auquel le 1° de l'article 15 de la loi du 22 juillet 1983 modifiée limite le taux global de participation de ces collectivités, le montant des participations inscrites au budget de fonctionnement des collèges nationalisés au titre des exercices 1981, 1982, 1983 et 1984 est diminué des sommes que le département versait directement aux communes afin d'alléger la charge qu'elles supportaient du fait de ces participations. Le taux moyen réel de participation est égal au rapport entre le montant ainsi obtenu et l'ensemble des dépenses de fonctionnement des mêmes collèges au cours des mêmes exercices.

@@ -1,3 +1,0 @@
-# OBLIGATIONS DES GERANTS OU DEPOSITAIRES
-
-- [Article 6](article-6.md)

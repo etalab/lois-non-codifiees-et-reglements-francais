@@ -1,3 +1,0 @@
-# Article 1
-
-La garantie de l'Etat, prévue au II de l'article 13 de la loi n° 85-695 du 11 juillet 1985 susvisée, peut être accordée à des emprunts obligataires émis par le détenteur de billets à ordre représentatifs de prêts consentis pour le financement d'opérations immobilières, garantis par une hypothèque ou par un privilège immobilier de premier rang, dès lors que les prêts représentent une quotité de financement maximale fixée à 66 p. 100 du montant total des opérations ou que le montant des contrats constituant les créances mises à disposition en garantie de l'échéance de ces billets excède le montant de ces mêmes billets dans une proportion minimale de 25 p. 100.

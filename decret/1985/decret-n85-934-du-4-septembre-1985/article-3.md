@@ -1,5 +1,0 @@
-# Article 3
-
-Une délibération du conseil d'administration de l'établissement fixe le tarif des frais d'hébergement. Ces tarifs comprennent le coût direct des prestations et une participation aux charges générales de fonctionnement de l'établissement ; cette participation [*minimum, maximum, montant*] tient compte des orientations données par la collectivité de rattachement ; elle ne peut être inférieure à 30 p. 100 du tarif de pension, à 10 p. 100 du tarif de demi-pension ou du tarif appliqué aux commensaux et hôtes prévus à l'article 5, ni être supérieure à 35 p. 100 et 25 p. 100 des mêmes tarifs. Les tarifs comprennent en outre, le cas échéant, la participation au fonds commun des services d'hébergement déterminée comme il est dit à l'article 6.
-
-Des tarifs d'hébergement différents peuvent être pratiqués selon les prestations servies en fonction des niveaux ou de la nature des formations, notamment pour les élèves des classes de sixième et cinquième, pour ceux des classes préparatoires aux grandes écoles, sections de techniciens supérieurs, sections sports-études et sections hôtelières.

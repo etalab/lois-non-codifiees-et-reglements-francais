@@ -1,3 +1,0 @@
-# TITRE IV : ORGANISATION FINANCIERE ET COMPTABLE.
-
-- [Article 21](article-21.md)

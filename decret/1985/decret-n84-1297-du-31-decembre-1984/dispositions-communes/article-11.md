@@ -1,3 +1,0 @@
-# Article 11
-
-Un arrêté conjoint du ministre chargé des pêches maritimes et du ministre chargé de l'économie, des finances et du budget fixe, après avis du comité central des pêches maritimes, le taux des taxes perçues par le comité central et par les comités locaux des pêches maritimes ainsi que le montant de la contribution du comité central au fonds d'intervention et d'organisation des marchés des produits de la pêche maritime et des cultures marines. Cet arrêté fixe également le taux de la taxe perçue par l'Institut français de recherche pour l'exploitation de la mer relative à l'activité du mareyage.

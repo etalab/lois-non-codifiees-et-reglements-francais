@@ -1,7 +1,0 @@
-# Article 11
-
-Les délibérations du conseil d'établissement qui ne sont pas mentionnées aux alinéas suivants sont exécutoires de plein droit si le commissaire du Gouvernement n'y fait pas opposition dans les quinze jours qui suivent soit la réunion du conseil d'établissement s'il y a assisté, soit la réception du procès-verbal de la séance. Cette opposition cesse d'avoir effet, si, dans un délai d'un mois, elle n'a pas été confirmée par le ministre chargé de la culture. En cas de refus d'approbation, le ministre peut demander une nouvelle délibération.
-
-Le budget, les décisions modificatives, le compte financier, les délibérations relatives aux conditions générales de passation des marchés, à la composition de la commission prévue à l'article 96 du code des marchés publics et à celle d'un bureau des marchés ainsi que les acquisitions, aliénations et échanges d'immeubles sont approuvés par arrêté conjoint du ministre chargé de la culture et du ministre chargé du budget.
-
-Toutefois, les décisions modificatives ne comportant pas de variations du montant du budget ou du niveau es effectifs, de virements de crédits entre la section de fonctionnement et la section des opérations en capital ou entre les chapitres de personnel et les chapitres de matériel sont arrêtées par le directeur de l'école après accord du contrôleur financier ; elles sont exécutoires par provision et sont soumises pour ratification au conseil d'établissement lors de sa plus prochaine séance.

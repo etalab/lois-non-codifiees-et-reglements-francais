@@ -1,3 +1,0 @@
-# Article 13
-
-La durée des autorisations spéciales d'absence accordées en application de l'article précédent à un même agent, au cours d'une année, ne peut excéder dix jours dans le cas de participation aux congrès des syndicats nationaux, des fédérations et des confédérations de syndicats. Cette limite est portée à vingt jours par an lorsque cet agent est appelé à participer aux congrès syndicaux internationaux ou aux réunions des organismes directeurs des organisations syndicales internationales, de syndicats nationaux, des fédérations, des confédérations et des instances statutaires départementales, interdépartementales et régionales.

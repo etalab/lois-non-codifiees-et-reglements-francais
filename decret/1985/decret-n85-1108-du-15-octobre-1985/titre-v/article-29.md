@@ -1,3 +1,0 @@
-# Article 29
-
-La déclaration d'utilité publique des travaux relatifs aux ouvrages de transport de gaz qui ne nécessitent que l'établissement de servitudes est prononcée conformément aux dispositions du décret n° 70-492 du 11 juin 1970, modifié par le décret n° 85-1109 du 15 octobre 1985. Elle confère au transporteur le droit d'user des servitudes énumérées à l'article 35 modifié de la loi du 8 avril 1946 sur la nationalisation de l'électricité et du gaz et de la servitude de passage prévue à l'article 12 de la loi du 15 juin 1906 sur les distributions d'énergie dans les conditions fixées à cet article. Ces servitudes sont établies conformément aux dispositions du titre II du décret du 11 juin 1970 précité.

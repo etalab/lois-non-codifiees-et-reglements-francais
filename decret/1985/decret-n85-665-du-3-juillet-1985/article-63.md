@@ -1,5 +1,0 @@
-# Article 63
-
-Lorsque le nombre d'heures de travail effectivement accompli par le commissaire aux comptes au cours du dernier exercice social clos avant la publication du présent décret est inférieur à celui prévu à l'article 120 du décret du 12 août 1969, le nouveau programme de travail est établi de telle sorte que les dispositions de l'article 120 précité reçoivent application au cours du second exercice ouvert après la publication du présent décret. Pendant ce délai, le nombre d'heures défini au programme du travail de chaque exercice doit être déterminé de telle manière que le nombre d'heures prévu par l'article 120 soit atteint au terme d'une progression régulière.
-
-Pour les personnes morales qui, en vertu de la loi n° 84-148 du 1er mars 1984 susvisée, sont tenues de désigner un commissaire aux comptes pour la première fois, le nombre d'heures de travail afférent au premier exercice du mandat ne peut être fixé à moins du tiers du nombre inférieur de chaque tranche prévu à l'article 120 du décret précité. Le nombre d'heures est fixé, pour les exercices suivants, dans les conditions prévues au premier alinéa du présent article.

@@ -1,3 +1,0 @@
-# OBLIGATIONS DES PORTEURS DE PARTS OU ACTIONS *DE SII OU DE SCPI*.
-
-- [Article 5](article-5.md)
