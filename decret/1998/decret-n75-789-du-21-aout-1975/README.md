@@ -4,3 +4,4 @@
 - [Titre Ier : Dispositions permanentes.](titre-ier)
 - [Article 2](article-2.md)
 - [Titre II : Dispositions transitoires.](titre-ii)
+- [Article 13](article-13.md)
