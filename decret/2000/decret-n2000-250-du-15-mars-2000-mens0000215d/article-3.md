@@ -22,6 +22,8 @@ Institut d'études politiques de Paris ;
 
 Institut de physique du Globe de Paris ;
 
+Institut national d'histoire de l'art ;
+
 Institut national des langues et civilisations orientales ;
 
 Muséum national d'histoire naturelle ;
