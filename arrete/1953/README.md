@@ -1,5 +1,6 @@
 # 1953
 
+- [Arrêté du 1 juin 1953](arrete-du-1-juin-1953)
 - [Arrêté du 2 mars 1953](arrete-du-2-mars-1953)
 - [Arrêté du 3 mars 1953](arrete-du-3-mars-1953)
 - [Arrêté du 19 mars 1953](arrete-du-19-mars-1953)
