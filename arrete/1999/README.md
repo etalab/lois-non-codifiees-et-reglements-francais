@@ -231,7 +231,6 @@
 - [Arrêté du 9 juin 1999 (DEFP9901613A)](arrete-du-9-juin-1999-defp9901613a)
 - [Arrêté du 9 juin 1999 (MESP9921859A)](arrete-du-9-juin-1999-mesp9921859a)
 - [Arrêté du 9 juin 1999 (MESS9921592A)](arrete-du-9-juin-1999-mess9921592a)
-- [Arrêté du 9 mars 1999 (PRMX9903437A)](arrete-du-9-mars-1999-prmx9903437a)
 - [Arrêté du 9 novembre 1999 (EQUT9901586A)](arrete-du-9-novembre-1999-equt9901586a)
 - [Arrêté du 9 septembre 1999 (DEFT9901902A)](arrete-du-9-septembre-1999-deft9901902a)
 - [Arrêté du 9 septembre 1999 (DEFT9901907A)](arrete-du-9-septembre-1999-deft9901907a)

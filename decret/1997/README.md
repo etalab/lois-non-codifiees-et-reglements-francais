@@ -969,7 +969,6 @@
 - [Décret n°97-787 du 31 juillet 1997 (ATEE9750066D)](decret-n97-787-du-31-juillet-1997-atee9750066d)
 - [Décret n°97-788 du 31 juillet 1997 (ATEN9750068D)](decret-n97-788-du-31-juillet-1997-aten9750068d)
 - [Décret n°97-88 du 31 janvier 1997 (TASP9720013D)](decret-n97-88-du-31-janvier-1997-tasp9720013d)
-- [Décret n°96-481 du 31 mai 1996 (PRMX9601531D)](decret-n96-481-du-31-mai-1996-prmx9601531d)
 - [Décret du 31 mai 1997 (FCEC9700085D)](decret-du-31-mai-1997-fcec9700085d)
 - [Décret du 31 mai 1997 (FCEC9700086D)](decret-du-31-mai-1997-fcec9700086d)
 - [Décret du 31 mai 1997 (FCEC9700087D)](decret-du-31-mai-1997-fcec9700087d)
