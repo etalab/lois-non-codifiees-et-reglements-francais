@@ -3,5 +3,4 @@
 - [TITRE 1 : DISPOSITIONS GENERALES](titre-1)
 - [TITRE 2 : DES CARTES DE SEJOUR](titre-2)
 - [TITRE 3 : Du séjour des demandeurs d'asile](titre-3)
-- [Article 12](article-12.md)
 - [DISPOSITIONS GENERALES](dispositions-generales)
