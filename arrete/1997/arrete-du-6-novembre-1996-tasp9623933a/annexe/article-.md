@@ -66,15 +66,21 @@ III. - Règles spécifiques
 
 1.4. En cas de proposition pour greffe simultanée de deux organes différents dont l'un est un rein et l'autre un pancréas, ce sont les règles de répartition et d'attribution du pancréas décrites au point III-5 qui s'appliquent.
 
-2. Greffons cardiaques, pulmonaires et cardio-pulmonaires
+1.5. Pour les malades en attente de greffes simultanées dont l'une est le rein et l'autre un organe vital (coeur-poumons, poumons, coeur, foie), toute demande d'inscription dans une catégorie prioritaire ou dérogatoire conduit l'Etablissement français des greffes à recourir à un groupe d'experts issu des collèges d'experts adéquats.
 
-2.1. Une règle d'attribution prioritaire des greffons cardiaques, pulmonaires ou cardiopulmonaires à l'échelon interrégional, pour des malades dont la vie est menacée à très court terme, doit être approuvée par l'Etablissement français des greffes. Dans ce cas, pour les malades de groupe sanguin rare, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Etablissement français des greffes qui comportent le recours au collège d'experts.
+2. Greffons cardiaques, pulmonaires et cardio-pulmonaires.
 
-2.2 Une priorité à l'échelon interrégional pour certains malades en attente de greffe cardio-pulmonaire doit être approuvée par l'Etablissement français des greffes après recours au collège d'experts.
+2.1. Les malades dont la vie est menacée à très court terme sont prioritaires à l'échelon national. La possibilité d'inscription dans cette catégorie prioritaire est offerte selon des modalités définies par l'Etablissement français des greffes qui comportent le recours au collège d'experts. Pour ces malades une dérogation à la règle décrite au point II.10 est possible selon des modalités définies par l'Etablissement français des greffes qui comportent le recours au collège d'experts.
 
-2.3. Si le coeur et les poumons ne trouvent pas de receveur à l'échelon local, ils sont proposés aux autres équipes de l'interrégion avec une priorité pour le bloc coeur-poumons. En l'absence d'acceptation du coeur et des poumons dans l'interrégion, ils sont proposés à l'échelon national avec priorité pour le bloc coeur-poumons.
+2.2. Une règle d'attribution prioritaire des greffons cardiaques, pulmonaires ou cardio-pulmonaires à l'échelon interrégional, pour des malades dont la vie est menacée à très court terme, doit être approuvée par l'Etablissement français des greffes. Pour ces malades, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Etablissement français des greffes qui comportent le recours au collège d'experts.
 
-2.4. En dehors des priorités définies ci-dessus, si un greffon cardiaque ou pulmonaire ne trouve pas de receveur à l'échelon local, les autres équipes de l'interrégion sont appelées à tour de rôle. Si un greffon cardiaque ou pulmonaire ne trouve pas de receveur dans l'interrégion, les autres interrégions sont appelées à tour de rôle.
+2.3. Pour les malades pour lesquels la probabilité d'accès à un greffon apparié est faible, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Etablissement français des greffes qui comportent le recours au collège d'experts.
+
+2.4. Une priorité à l'échelon interrégional pour certains malades en attente de greffe cardiopulmonaire doit être approuvée par l'Etablissement français des greffes après recours au collège d'experts.
+
+2.5. Si le coeur et les poumons ne trouvent pas de receveur à l'échelon local, ils sont proposés aux autres équipes de l'interrégion avec une priorité pour le bloc coeur-poumons. En l'absence d'acceptation du coeur et des poumons dans l'interrégion, ils sont proposés à l'échelon national avec priorité pour le bloc coeur-poumons.
+
+2.6. En dehors des priorités définies ci-dessus, si un greffon cardiaque ou pulmonaire ne trouve pas de receveur à l'échelon local, les autres équipes de l'interrégion sont appelées à tour de rôle. Si un greffon cardiaque ou pulmonaire ne trouve pas de receveur dans l'interrégion, les autres interrégions sont appelées à tour de rôle.
 
 3. Greffons hépatiques
 
@@ -82,31 +88,29 @@ III. - Règles spécifiques
 
 La possibilité d'inscription dans cette catégorie prioritaire est offerte selon des modalités définies par l'Etablissement français des greffes qui comportent le recours au collège d'experts.
 
-3.2. Les malades chez lesquels, du fait de l'urgence, la probabilité d'obtention d'un greffon dans un délai convenable est très faible et qui s'inscrivent dans les catégories suivantes sont prioritaires à l'échelon interrégional : nécrose ischémique dans l'atrésie des voies biliaires ;
-
-présentation aiguë de certaines maladies métaboliques ; défaillance fonctionnelle rapide d'un greffon précédent.
+3.2. Les malades chez lesquels, du fait de l'urgence, la probabilité d'obtention d'un greffon dans un délai convenable est très faible et qui s'inscrivent dans les catégories suivantes sont prioritaires à l'échelon interrégional : nécrose ischémique dans l'atrésie des voies biliaires ; présentation aiguë de certaines maladies métaboliques ; défaillance fonctionnelle rapide d'un greffon précédent.
 
 L'inscription dans ces catégories prioritaires est faite selon des modalités définies par l'Etablissement français des greffes et qui comportent le recours au collège d'experts. Dans ce cas, il peut être dérogé à la règle décrite au point II-10.
 
 3.3. Les enfants de moins de seize ans sont prioritaires à l'échelon national pour les greffons prélevés chez les donneurs de moins de seize ans et à l'échelon interrégional pour les greffons prélevés chez les donneurs de moins de trente ans.
 
-3.4. Si un greffon ne trouve pas receveur à l'échelon local, les autres équipes de l'interrégion sont appelées à tour de rôle selon des modalités définies par l'Etablissement français des greffes. S'il ne trouve pas receveur dans l'interrégion, les autres interrégions sont appelées à tour de rôle.
+3.4. Pour les malades pour lesquels la probabilité d'accès à un greffon apparié est faible, une dérogation à la règle décrite au point II.10 est possible, selon des modalités définies par l'Etablissement français des greffes qui comportent le recours au collège d'experts.
 
-4. Greffons rénaux
+3.5. Si un greffon ne trouve pas receveur à l'échelon local, les autres équipes de l'interrégion sont appelées à tour de rôle selon des modalités définies par l'Etablissement français des greffes. S'il ne trouve pas receveur dans l'interrégion, les autres interrégions sont appelées à tour de rôle.
 
-Ceux-ci sont proposés en fonction des priorités successives suivantes :
+4. Greffons rénaux.
 
-4.1. En cas d'urgence, du fait d'une impossibilité de mise en oeuvre de la dialyse, le malade peut bénéficier d'une priorité nationale selon des modalités définies par l'Etablissement français des greffes qui comporte un recours au collège d'experts.
+4.1. Ceux-ci sont proposés en fonction des priorités successives suivantes :
 
-4.2. Les patients hyperimmunisés définis par un taux d'alloanticorps anti-HLA réagissant avec au moins 80 p. 100 des cellules d'un panel équilibré sont prioritaires à l'échelon national dans le cas où il existe au plus une incompatibilité HLA. En cas de receveur hyperimmunisé en attente d'une greffe du rein et du pancréas, le pancréas est proposé avec le rein dans des conditions définies par l'Etablissement français des greffes. Chez les patients hyperimmunisés, il est possible de déroger à la règle décrite au point II.10.
+4.1.1. En cas d'urgence, le malade peut bénéficier d'une priorité nationale selon des modalités définies par l'Etablissement français des greffes qui comportent un recours au collège d'experts.
 
-4.3. Un malade n'ayant aucune incompatibilité HLA avec le donneur est prioritaire à l'échelon national.
+4.1.2. Les patients dont la probabilité d'obtenir un greffon apparié est très faible sont prioritaires à l'échelon national ou à l'échelon interrégional. Les différentes catégories de malades prioritaires sont définies par l'Etablissement français des greffes. L'inscription des malades dans une catégorie prioritaire s'effectue selon des modalités pouvant comporter le recours au collège d'experts. Chez les patients prioritaires, il est possible de déroger à la règle décrite au point II.10.
 
-4.4. Pour les malades de groupe sanguin rare pour lesquels la probabilité d'accès à un greffon est très faible, notamment en raison d'une immunisation préalable, une dérogation à la règle décrite au point II-10 est possible à l'échelon interrégional selon des modalités définies par l'Etablissement français des greffes et comportant le recours au collège d'experts.
+4.1.3. Les enfants de moins de seize ans sont prioritaires à l'échelon national pour les greffons prélevés chez les donneurs de moins de seize ans et à l'échelon interrégional pour les greffons prélevés chez les donneurs de moins de trente ans.
 
-4.5. Les enfants de moins de seize ans sont prioritaires à l'échelon national pour les greffons prélevés chez les donneurs de moins de seize ans et à l'échelon interrégional pour les greffons prélevés chez les donneurs de moins de trente ans.
+4.2. En dehors de ces priorités, le greffon est proposé successivement à l'échelon local puis à l'échelon interrégional selon des modalités approuvées par l'Etablissement français des greffes. Les greffons non utilisés à l'échelon interrégional sont proposés à l'échelon national selon des modalités définies par l'Etablissement français des greffes et tenant compte de l'ancienneté d'inscription sur la liste d'attente et du degré de compatibilité HLA.
 
-4.6. En dehors de ces priorités, le greffon est proposé successivement à l'échelon local puis à l'échelon interrégional selon des modalités approuvées par l'Etablissement français des greffes. Les greffons non utilisés à l'échelon interrégional sont proposés à l'échelon national selon des modalités définies par l'Etablissement français des greffes et tenant compte de l'ancienneté d'inscription sur la liste d'attente et du degré de compatibilité HLA.
+4.3. Pour les malades ne relevant pas d'une des catégories prioritaires du point 4.1 mais pour lesquels la probabilité d'accès à un greffon apparié est très faible, une dérogation à la règle décrite au point II-10 est possible selon des modalités définies par l'Etablissement français des greffes qui comportent le recours au collège d'experts.
 
 5. Greffons pancréatiques
 
