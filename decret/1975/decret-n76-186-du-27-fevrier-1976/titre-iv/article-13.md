@@ -1,0 +1,3 @@
+# Article 13
+
+Les membres permanents chargés de recherche bénéficient d'avancement d'échelon selon les conditions d'ancienneté et les pourcentages prévus pour la promotion au choix et à l'ancienneté des chefs de travaux inscrits sur la liste d'aptitude à l'enseignement supérieur prévue au décret du 14 mars 1946 susvisé. Les membres permanents maîtres de recherche bénéficient d'avancement d'échelon selon les conditions d'ancienneté et les pourcentages prévus pour la promotion au choix et à l'ancienneté des maîtres de conférences des universités. Les avancements prévus au présent article sont prononcés par le directeur de l'école française d'Extrême-Orient, après avis du conseil d'administration.

@@ -1,0 +1,5 @@
+# Article 13
+
+Les fonctionnaires qui ont été promus ou recrutés antérieurement au 1er janvier 1970 par application des règles statutaires normales à l'un des grades ou emplois régis par le décret n° 57-175 du 16 février 1957 et qui sont reclassés dans les groupes de rémunération institués par le décret susvisé du 27 janvier 1970 ont la faculté, jusqu'au 1er juillet 1970, de renoncer à la date d'effet de la nomination dont ils ont été l'objet pour y voir substituée la date du 1er janvier 1970, si l'application à cette dernière date des dispositions de l'article 5 ci-dessus à la situation qu'ils auraient eue dans leur grade d'origine au cas où ils y seraient demeurés, leur confère une amélioration de situation. Leur ancienneté de service dans le grade ou emploi qu'ils occupent au 1er janvier 1970 continue toutefois à être décomptée à partir de la date à laquelle ils y ont initialement accédé.
+
+Les reclassements opérés en application du présent article ne produiront effet pécuniaire qu'à compter du 1er janvier 1970.
