@@ -1,3 +1,3 @@
 # Article 1
 
-Le montant de l'emprunt d'Etat 16,20 p. 100 janvier 1982 est fixé à 10 milliards de francs.
+Les dispositions des quatrième alinéa, cinquième alinéa (avant-dernier paragraphe) et sixième alinéa de l'article 6 du décret n° 73-46 du 9 janvier 1973 susvisé s'appliquent au coupon de l'emprunt d'Etat 7 p. 100 1973 détachable le 16 janvier 1982.
