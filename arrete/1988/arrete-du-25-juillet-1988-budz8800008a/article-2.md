@@ -1,9 +1,9 @@
 # Article 2
 
-Le traitement I.L.I.A.D. a pour finalité :
+Le traitement ILIAD a pour finalité :
 
-- l'automatisation au niveau local de la consultation et de la mise à jour du répertoire des contribuables, des locaux d'habitation et du contentieux ;
+- la gestion informatisée du dossier fiscal du contribuable intitulé "dossier 2004" et de son "résumé permanent" (bulletin 2011) ;
 
-- l'allégement des travaux de saisie au sein des centres régionaux informatiques ;
+- la gestion de l'impôt sur le revenu, de la taxe d'habitation, de la taxe annuelle sur les logements vacants, de la contribution sociale généralisée (CSG), de la contribution au remboursement de la dette sociale (CRDS) ;
 
-- l'édition locale des documents de gestion.
+- le traitement des affaires contentieuses de ces impôts.
