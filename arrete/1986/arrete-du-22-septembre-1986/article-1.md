@@ -18,7 +18,7 @@ b) Cinq représentants des salariés désignés respectivement par :
 
 - la confédération générale des cadres (C.G.C.).
 
-c) Six représentants des associations mentionnées à l'article R. 313-9 (2°, a) désignés par l'union nationale interprofessionnelle du logement (U.N.I.L.).
+c) Sept représentants des associés collecteurs (CIL et CCI) de l'Union d'économie sociale du logement désignés par elle.
 
 d) Un représentant du ministre chargé de l'économie et des finances ;
 
@@ -34,12 +34,10 @@ e) Au titre des personnes qualifiées :
 
 - le secrétaire général de la commission nationale du logement des immigrés ;
 
-- un représentant de l'union nationale interprofessionnelle du logement ;
+- un représentant de l'Union d'économie sociale du logement ;
 
 - un représentant de l'union nationale des fédérations d'organismes d'habitations à loyer modéré (U.N.F.O.H.L.M.) ;
 
-- un représentant de la fédération nationale des sociétés d'économie mixte de construction, d'aménagement et de rénovation (F.N.S.E.M.) ;
+- un représentant de la Fédération nationale des sociétés d'économie mixte (F.N.S.E.M.) ;
 
-- un représentant de l'assemblée permanente des chambres de commerce et d'industrie (A.P.C.C.I.).
-
-" ... le directeur général de l'Agence nationale pour la participation des employeurs à l'effort de construction (A.N.P.E.E.C.). "
+- le directeur général de l'Agence nationale pour la participation des employeurs à l'effort de construction (A.N.P.E.E.C.).

@@ -184,11 +184,11 @@ Lettre-clé Z :
 
 - Z1 (électro-radio + gastro-entéro + onco radio)
 
-DEPARTEMENTS : Métropolitains : 10,95 F
+DEPARTEMENTS : Métropolitains : 9,47 F
 
-DEPARTEMENTS : Antilles-Guyane : 10,95 F
+DEPARTEMENTS : Antilles-Guyane : 9,47 F
 
-DEPARTEMENTS : Réunion : 10,95 F
+DEPARTEMENTS : Réunion : 9,47 F
 
 - Z2 (rhumato + pneumo)
 
