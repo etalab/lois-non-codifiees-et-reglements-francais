@@ -19,6 +19,8 @@
 - [Décret n°87-6 du 5 janvier 1987](decret-n87-6-du-5-janvier-1987)
 - [Décret n°87-66 du 5 février 1987 (COMC8700003D)](decret-n87-66-du-5-fevrier-1987-comc8700003d)
 - [Décret n°87-81 du 5 février 1987](decret-n87-81-du-5-fevrier-1987)
+- [Décret n°87-149 du 6 mars 1987 (EQUC8700007D)](decret-n87-149-du-6-mars-1987-equc8700007d)
+- [Décret n°87-150 du 6 mars 1987 (EQUC8700008D)](decret-n87-150-du-6-mars-1987-equc8700008d)
 - [Décret n°87-77 du 6 février 1987 (ASES8700214D)](decret-n87-77-du-6-fevrier-1987-ases8700214d)
 - [Décret n°87-78 du 6 février 1987 (ASES8700215D)](decret-n87-78-du-6-fevrier-1987-ases8700215d)
 - [Décret n°87-89 du 6 février 1987 (MAEJ8730003D)](decret-n87-89-du-6-fevrier-1987-maej8730003d)

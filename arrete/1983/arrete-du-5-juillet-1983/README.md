@@ -1,4 +1,4 @@
-# Arrêté du 5 juillet 1983 relatif à l'importation des déchets toxiques et dangereux
+# Arrêté du 5 juillet 1983 relatif au financement des opérations de logements-foyers neufs à usage locatif aidées par l'Etat et bénéficiant du label Haute performance énergétique ou du label Solaire.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
