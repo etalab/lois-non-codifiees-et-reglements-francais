@@ -1,6 +1,6 @@
 # Article 1
 
-Les étrangers visés aux articles 7 et 11 du décret du 30 juin 1946 susvisé et à l'article L. 341-2 du code du travail doivent justifier qu'ils ont subi un examen médical complet comportant obligatoirement :
+Les étrangers visés aux articles 7, 11 et 12 du décret du 30 juin 1946 susvisé et à l'article L. 341-2 du code du travail doivent justifier qu'ils ont subi un examen médical complet comportant obligatoirement :
 
 1° Un examen clinique général effectué par un médecin qui a la faculté de s'entourer d'avis de spécialistes et de demander des examens complémentaires ;
 
