@@ -1,3 +1,3 @@
 # Article 13
 
-Immédiatement après le dépouillement du scrutin, les procès-verbaux de chaque commune, arrêtés et signés, sont portés au chef-lieu du canton par deux [*nombre*] membres du bureau. Le recensement général des votes est fait par le bureau du chef-lieu, et le résultat est proclamé par son président, qui adresse tous les procès-verbaux et les pièces au préfet.
+Les dispositions des articles 10 à 12 ne sont pas applicables aux voyages d'études des conseils généraux. Les délibérations relatives à ces voyages précisent leur objet, qui doit avoir un lien direct avec l'intérêt du département, ainsi que leur coût prévisionnel. "

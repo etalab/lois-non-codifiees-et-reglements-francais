@@ -2,9 +2,7 @@
 
 Des autorisations spéciales d'absence qui n'entrent pas en compte dans le calcul des congés annuels sont accordées [*conditions*] :
 
-1° Aux fonctionnaires territoriaux qui occupent des fonctions publiques électives pour la durée totale des sessions des assemblées dont ils font partie ;
-
-2° Aux représentants dûment mandatés des syndicats pour assister aux congrès professionnels syndicaux fédéraux, confédéraux et internationaux, et aux réunions des organismes directeurs dont ils sont membres élus, quel que soit le niveau de cet organisme dans la structure du syndicat considéré ;
+1° [*alinéa abrogé par l'article 39 de la loi 92-108 du 3 février 1992*]    2° Aux représentants dûment mandatés des syndicats pour assister aux congrès professionnels syndicaux fédéraux, confédéraux et internationaux, et aux réunions des organismes directeurs dont ils sont membres élus, quel que soit le niveau de cet organisme dans la structure du syndicat considéré ;
 
 3° Sous réserve des nécessités du service, aux membres des organisations mutualistes dûment mandatés pour assister aux réunions des organismes directeurs dont ils sont membres élus ;
 

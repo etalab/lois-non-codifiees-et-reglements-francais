@@ -1,0 +1,7 @@
+# Article 38
+
+Restent à la charge de l'Etat les prestations de toute nature qu'il fournit actuellement au fonctionnement des services mis à la disposition de la collectivité territoriale en tant que de besoin, ainsi qu'aux agents de ces services. Dans les mêmes conditions, restent à la charge de la collectivité territoriale les prestations de toute nature, y compris celles relatives à l'entretien et à l'acquisition des matériels, qu'elle fournit actuellement au fonctionnement de l'administration préfectorale et des services extérieurs de l'Etat ainsi qu'à leurs agents.
+
+Lorsque ces participations entraînent l'inscription de crédits au budget de l'Etat, titres III et IV, et à la section de fonctionnement du budget de la collectivité territoriale, le montant de ceux-ci doit être, pour la première année, au moins égal à la moyenne des crédits engagés sur les budgets des trois dernières années à l'exclusion de toutes dépenses engagées à titre exceptionnel. Pour les années ultérieures, la progression annuelle de ces crédits ne peut être inférieure au taux de progression de la dotation globale de fonctionnement des départements.
+
+Pour l'application du premier alinéa du présent article, les biens de l'Etat affectés à la date d'entrée en vigueur de la présente loi au fonctionnement des services de la collectivité territoriale et les biens de la collectivité territoriale affectés à la même date au fonctionnement des services de l'Etat conservent leur affectation, sauf accord contraire du représentant de l'Etat et du président du conseil général.
