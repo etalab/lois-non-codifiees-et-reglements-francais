@@ -1,0 +1,3 @@
+# Article 11
+
+Les opérations ayant pour objet de conditionner à nouveau ou de débiter à la demande des crèmes crues ou pasteurisées doivent être effectuées dans un local ou une partie du local de vente spécialement aménagé de façon à empêcher d'éventuelles souillures. Les récipients, les instruments ou appareils utilisés à cet effet doivent être propres, nettoyés et désinfectés en tant que de besoin, et constitués de matériaux conformes à la réglementation. La crème, en dehors des opérations proprement dites de reconditionnement ou de débit, doit être protégée au moyen d'un couvercle adapté à la forme du récipient.

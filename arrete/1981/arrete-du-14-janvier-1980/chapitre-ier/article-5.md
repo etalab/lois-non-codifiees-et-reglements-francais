@@ -1,0 +1,3 @@
+# Article 5
+
+Les crèmes destinées à la consommation humaine doivent être conditionnées dans des récipients clos et étanches maintenus constamment fermés jusqu'à leur remise au consommateur ou à l'utilisateur ; cependant, les crèmes pourront être débitées dans les conditions prévues aux articles 11 et 12. Les récipients, à l'exception des récipients en verre, ne doivent pas être réutilisés lorsque leur capacité est inférieure à un litre. Les récipients dont le réemploi est autorisé doivent être maintenus en bon état d'entretien et, avant leur remplissage, être nettoyés, lavés, désinfectés par un procédé autorisé par la réglementation et rincés.

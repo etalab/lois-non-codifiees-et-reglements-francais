@@ -1,0 +1,3 @@
+# Article 1
+
+Les prescriptions du présent arrêté visent toutes les crèmes de lait, traitées thermiquement ou non, légères ou non, préemballées ou en vrac, sous pression ou non, telles qu'elles sont définies par l'article 15 du décret du 25 mars 1924 modifié pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles en ce qui concerne le lait et les produits de laiterie. Sont exclues du champ d'application du présent arrêté, les crèmes qui font l'objet d'un transport entre deux usines laitières en vue d'une transformation et celles utilisées pour la fabrication de beurre, d'huile de beurre ou de matière grasse laitière anhydre.
