@@ -22,7 +22,7 @@ a) Epreuves écrites et anonymes d'admissibilité :
 
 1° Explication de texte portant sur un sujet d'ordre général sanitaire et social (durée : une heure trente ; coefficient : 2) ;
 
-2° Mise au net dactylographiée d'un texte manuscrit ou dactylographié à caractère administratif d'une longueur ne pouvant excéder 500 mots qui pourra comporter des tableaux, renvois, surcharges, ratures et des annotations en marge, à l'exclusion de fautes d'orthographe (durée : une heure trente ; coefficient : 2).
+2° Mise au net dactylographiée d'un texte manuscrit ou dactylographié à caractère administratif d'une longueur ne pouvant excéder 500 mots qui pourra comporter des tableaux, renvois, surcharges, ratures et des annotations en marge, à l'exclusion de fautes d'orthographe (durée : une heure trente ; coefficient : 1).
 
 Chaque copie est notée par deux correcteurs.
 
