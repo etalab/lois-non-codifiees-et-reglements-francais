@@ -1,4 +1,4 @@
-# Arrêté du 21 mars 1978 RELATIF AU NOMBRE MAXIMUM DE SALARIES SUSCEPTIBLES DE BENEFICIER AU COURS D'UNE ANNEE DES CONGES NON REMUNERES PREVUS PAR L'ARTICLE L. 451-1 DU CODE DU TRAVAIL.
+# Arrêté du 21 mars 1978 portant création d'un comité consultatif de l'informatique de gestion hospitalière auprès de la commission de l'informatique et nomination des membres de ce comité.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

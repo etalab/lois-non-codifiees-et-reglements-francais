@@ -1,3 +1,0 @@
-# Article 13
-
-Les personnes qui auraient droit au complément familial mais qui, à la date d'entrée en vigueur de la présente loi, perçoivent des prestations plus élevées au titre des allocations énumérées à l'article précédent et des majorations de l'allocation de salaire unique et de l'allocation de la mère au foyer, conservent le bénéfice de ces prestations au titre des enfants dont elles ont la charge à ladite date.  Elles ne pourront bénéficier du complément familial que lorsque le montant des anciennes prestations perçues deviendra inférieur au montant du complément familial, ce dernier se substituant aux anciennes prestations.

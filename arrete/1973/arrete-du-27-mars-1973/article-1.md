@@ -1,3 +1,15 @@
 # Article 1
 
-Les dépenses prévues pour les immeubles à usage d'habitation à l'article 2 a et 2 b, du décret n° 73-193 du 13 février 1973, ne peuvent être effectuées que si ces immeubles sont situés à l'intérieur ou en limite de la zone A représentée sur le plan n° 1 annexé au présent arrêté et relatif à l'aérodrome de Roissy-en-France.
+Il est créé auprès de la commission de l'informatique un comité consultatif de l'informatique médicale.
+
+Ce comité est chargé :
+
+De proposer au ministre les grandes orientations de la politique à mener pour assurer la coordination de l'informatique médicale en matière de développement ;
+
+De présenter au ministre toute mesure qui lui paraîtrait nécessaire dans le cadre de cet objectif ;
+
+D'établir un rapport annuel concernant le développement de l'informatique médicale ;
+
+De faciliter les échanges d'expériences et la concertation des équipes qui mènent des travaux d'informatique médicale.
+
+Le comité rend compte périodiquement à la commission de l'informatique de l'état d'avancement de ses travaux. Il est tenu informé des délibérations de la commission de l'informatique.

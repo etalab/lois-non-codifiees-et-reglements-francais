@@ -1,13 +1,15 @@
 # Article 1
 
-L'arrêté du 30 septembre 1957 fixant le nombre maximum de salariés susceptibles de bénéficier au cours d'une année des congés prévus à l'article L. 451-1 du code du travail est abrogé et remplacé par les dispositions suivantes :
+Il est créé auprès de la commission de l'informatique un comité consultatif de l'informatique de gestion hospitalière.
 
-"Le nombre maximum de salariés par établissement pouvant bénéficier au cours d'une année, allant du 1er octobre au 30 septembre suivant, des congés prévus à l'article L. 451-1 du code du travail est fixé comme suit :
+Ce comité est chargé :
 
-"Etablissements comprenant de 1 à 500 salariés :
+De donner un avis au ministre sur les grandes orientations de la politique à mener pour assurer un développement cohérent et coordonné de l'informatique de gestion hospitalière ;
 
-1 bénéficiaire par tranche ou fraction de tranche supplémentaire de 25 salariés ;
+De présenter au ministre toute mesure qui lui paraîtrait nécessaire dans le cadre de cet objectif ;
 
-"Etablissements comprenant de 501 à 1.000 salariés : 1 bénéficiaire de plus par tranche ou fraction de tranche supplémentaire de 50 salariés ;
+D'établir un rapport annuel concernant le développement de l'informatique de gestion hospitalière ;
 
-"Etablissements comprenant plus de 1.000 salariés : 1 bénéficiaire de plus par tranche ou fraction de tranche supplémentaire de 200 salariés."
+De faciliter les échanges d'expériences et la concertation des équipes qui mènent des travaux d'informatique de gestion hospitalière.
+
+Le comité rend compte périodiquement à la commission de l'informatique de l'état d'avancement de ses travaux.

@@ -1,4 +1,0 @@
-# Loi n° 78-5 du 2 janvier 1978 TENDANT AU DEVELOPPEMENT DE LA CONCERTATION DANS LES ENTREPRISES AVEC LE PERSONNEL D'ENCADREMENT.
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)

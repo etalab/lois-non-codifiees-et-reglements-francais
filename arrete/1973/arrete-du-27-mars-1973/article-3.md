@@ -1,15 +1,23 @@
 # Article 3
 
-Les dépenses prévues pour les immeubles à usage d'habitation à l'article 3 (par. 2, a) du décret n° 73-193 du 13 février 1973, modifié par le décret n° 78-160 du 10 février 1978, ne peuvent être effectuées que pour les seuls immeubles :
+Le comité comprend :
 
-1° Que leurs propriétaires justifient avoir acquis à titre onéreux ou pour lesquels l'autorisation de construire a été obtenue avant le 1er juillet 1970, date correspondant au moment où une gêne importante due au bruit était prévisible du fait de la mise en service prochaine de l'aéroport Charles-de-Gaulle ;
+a. Le directeur général de la santé ou son représentant ;
 
-2° Que leurs propriétaires auraient acquis à titre gratuit postérieurement à cette date ;
+Le directeur des hôpitaux ou son représentant ;
 
-a) Dans le cas où le bâtiment n'a fait l'objet d'aucune mutation à titre onéreux depuis sa construction, s'il a été édifié antérieurement à cette même date ;
+Le directeur général de l'institut national de la santé et de la recherche médicale ou son représentant ;
 
-b) Dans le cas contraire, si la dernière mutation à titre onéreux est antérieure à cette même date ;
+Le directeur général de l'industrie ou son représentant ;
 
-3° Qui sont situés à l'intérieur ou en limite de la zone I représentée sur le plan n° 1 A annexé au présent arrêté (1).
+Le délégué général à la recherche scientifique et technique ou son représentant ;
 
-((1) Ce plan peut être consulté à l'aéroport de Paris, 291 Boulevard Raspail, 75014 Paris et dans les préfectures de la Seine-Saint-Denis, du Val-d'Oise, de Seine-Saint-Denis, du Val-d'Oise, de Seine-et-Marne, de l'Essonne et du Val-de-Marne).
+Le directeur de l'institut de recherche d'informatique et d'automatique ou son représentant ;
+
+Le directeur des recherches et études techniques du ministère de la défense (groupe Biologie et sciences humaines) ou son représentant ;
+
+Un représentant du ministre des universités ;
+
+Le chef de la division Organisation et méthodes-informatique ou son représentant.
+
+b. Quatorze personnalités désignées en raison de leur compétence dans le domaine de l'informatique médicale et nommées pour une durée de trois ans.
