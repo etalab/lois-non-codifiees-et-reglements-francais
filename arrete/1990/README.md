@@ -712,7 +712,6 @@
 - [Arrêté du 22 mai 1990 (AGRG9001098A)](arrete-du-22-mai-1990-agrg9001098a)
 - [Arrêté du 22 mai 1990 (AGRS9001026A)](arrete-du-22-mai-1990-agrs9001026a)
 - [Arrêté du 22 mai 1990 (ECOC9000053A)](arrete-du-22-mai-1990-ecoc9000053a)
-- [Arrêté du 22 mai 1990 (INTF9000218A)](arrete-du-22-mai-1990-intf9000218a)
 - [Arrêté du 23 août 1990 (EQUS9001036A)](arrete-du-23-aout-1990-equs9001036a)
 - [Arrêté du 23 août 1990 (MAEA9020330A)](arrete-du-23-aout-1990-maea9020330a)
 - [Arrêté du 23 août 1990 (MAEA9020332A)](arrete-du-23-aout-1990-maea9020332a)
