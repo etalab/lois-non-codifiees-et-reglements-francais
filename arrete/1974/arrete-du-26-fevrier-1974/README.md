@@ -1,11 +1,14 @@
-# Arrêté du 26 février 1974 relatif à la construction et aux conditions de location des logements-foyers réalisés avec le bénéfice des primes convertibles en bonifications d'intérêt et de prêts spéciaux.
+# Arrêté du 26 février 1974 relatif à la construction du circuit primaire principal des chaudières nucléaires à eau.
 
-- [I - Caractéristiques techniques et prix des logements-foyers.](i)
+- [Titre Ier : Dispositions générales.](titre-ier)
+- [Titre II : Construction](titre-ii)
 - [Article 3](article-3.md)
-- [III. - Conditions de location et de gestion des logements-foyers.](iii)
+- [Titre III : Mise en service, usage, entretien et surveillance en exploitation.](titre-iii)
 - [Article 4](article-4.md)
-- [IV - Dispositions transitoires et diverses.](iv)
+- [Titre IV : Dispositions diverses.](titre-iv)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
+- [Article 48](article-48.md)
+- [Article 49](article-49.md)
