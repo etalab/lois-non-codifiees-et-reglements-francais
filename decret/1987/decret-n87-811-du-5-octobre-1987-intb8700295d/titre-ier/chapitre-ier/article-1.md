@@ -1,13 +1,11 @@
 # Article 1
 
-Les sièges du conseil d'administration du Centre national de la fonction publique territoriale sont attribués [*répartition*] de la façon suivante :
+Les sièges du conseil d'administration du Centre national de la fonction publique territoriale sont attribués de la façon suivante : [*répartition nombre*]    " 1° Douze sièges pour les communes dont la moitié pour celles de moins de 20 000 habitants ;
 
-1° Douze sièges pour les communes de moins de 40 000 habitants ;
+" 2° Trois sièges pour les départements ;
 
-2° Douze sièges pour les communes de 40 000  [*nombre*] habitants et plus ;
+" 3° Deux sièges pour les régions ;
 
-3° Cinq sièges pour les départements ;
+" 4° Dix-sept sièges pour les représentants des organisations syndicales de fonctionnaires territoriaux.
 
-4° Deux sièges pour les régions.
-
-Chaque titulaire a deux suppléants.
+" Chaque titulaire a deux suppléants. "

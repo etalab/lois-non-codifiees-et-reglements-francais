@@ -2,8 +2,8 @@
 
 Les séances du conseil d'administration ne sont pas publiques.
 
-Le conseil d'administration ne peut siéger que si la moitié de ses membres sont présents ou représentés lors de l'ouverture de la réunion.
+Le conseil d'administration ne peut délibérer valablement sur les points de l'ordre du jour que si la moitié de ses membres ayant qualité pour participer au scrutin sont présents ou représentés.
 
-Lorsque le quorum prévu à l'alinéa précédent n'est pas atteint, une nouvelle convocation est envoyée dans le délai de huit jours aux membres du conseil d'administration qui siège alors valablement, quel que soit le nombre des membres présents ou représentés.
+Lorsque le quorum prévu à l'alinéa précédent n'est pas atteint, une nouvelle convocation est envoyée dans le délai de huit jours aux membres du conseil d'administration qui délibère alors valablement, quel que soit le nombre des membres présents ou représentés.
 
 Lorsqu'un membre titulaire n'est pas en mesure de participer à une séance du conseil d'administration, il peut être remplacé par l'un de ses suppléants.

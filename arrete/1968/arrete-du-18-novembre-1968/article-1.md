@@ -52,7 +52,9 @@ Dans la limite des crédits prévus à cet effet, des indemnités pour frais de 
 
 25° Commissions techniques et sanitaires agricoles.
 
-26° Conseil de direction du fonds d'orientation et de régularisation des marchés agricoles et sections qui y sont rattachées.
+26° Conseil de direction du fonds d'orientation et de régularisation des marchés agricoles et sections qui y sont
+
+rattachées.
 
 27° Conseil interprofessionnel de l'institut des vins de consommation courante et commissions qui en dépendent.
 
@@ -116,7 +118,7 @@ Dans la limite des crédits prévus à cet effet, des indemnités pour frais de 
 
 57° Commissions d'expertise pour le contrôle du conditionnement dans les départements d'outre-mer.
 
-58° Comité consultatif interprofessionnel des plantes médicinales .
+58° Comité consultatif interprofessionnel des plantes médicinales.
 
 59° Comité consultatif de règlement amiable des litiges relatifs aux marchés publics passés par le ministère de l'agriculture.
 
@@ -153,3 +155,5 @@ Dans la limite des crédits prévus à cet effet, des indemnités pour frais de 
 75° Conseil national du froid.
 
 76° Commissions consultatives départementales chargées d'examiner les demandes d'affiliation au régime de protection sociale des membres non salariés des professions agricoles en qualité d'entrepreneurs de travaux forestiers.
+
+77° Commission d'étude de l'utilisation de produits issus du génie biomoléculaire.
