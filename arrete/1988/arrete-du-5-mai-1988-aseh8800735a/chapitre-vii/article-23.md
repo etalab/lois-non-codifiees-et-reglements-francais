@@ -4,7 +4,7 @@ Conformément à l'article 18 du décret du 7 avril 1988 susvisé, les personnes
 
 Le retrait est individuel, il ne peut être effectué que par le candidat qui doit être muni de sa carte d'étudiant et d'une pièce d'identité.
 
-Les candidats doivent envoyer par lettre recommandée avec avis de réception à la direction régionale des affaires sanitaires et sociales responsable du concours pour l'interrégion où se situe leur université d'origine, même s'ils ne sont pas candidats dans la zone correspondante, un dossier comportant les pièces suivantes :
+Les candidats doivent envoyer par lettre recommandée avec avis de réception à la direction régionale des affaires sanitaires et sociales chargée des inscriptions pour l'interrégion où se situe leur université d'origine, même s'ils ne sont pas candidats dans la zone correspondante, un dossier comportant les pièces suivantes :
 
 Pour tous les candidats :
 
@@ -36,7 +36,7 @@ L'ensemble des pièces mentionnées ci-dessus doit être impérativement fourni 
 
 La liste des candidats admis à titre conditionnel à concourir est établie par les préfets de région mentionnés à l'article 2 du présent arrêté.
 
-Pour pouvoir être classés, les candidats ayant concouru doivent justifier de leur situation universitaire et hospitalière. A cette fin, les unités de formation et de recherche et les établissements hospitaliers doivent fournir aux directions régionales des affaires sanitaires et sociales responsables de concours, au plus tard le 8 juillet de l'année du concours, les pièces suivantes :
+Pour pouvoir être classés, les candidats ayant concouru doivent justifier de leur situation universitaire et hospitalière. A cette fin, les unités de formation et de recherche et les établissements hospitaliers doivent fournir au ministre chargé de la santé, au plus tard le 8 juillet de l'année du concours, les pièces suivantes :
 
 1. Pour les candidats concourant au titre du 1° de l'article 18 du décret du 7 avril 1988 susvisé et pour ceux inscrits en dernière année du deuxième cycle concourant au titre du a du 2° de l'article 18 du même décret, une attestation mentionnant :
 
@@ -50,10 +50,10 @@ c) Une attestation précisant que le candidat a effectué sept mois de stages ho
 
 3. Pour les candidats concourant au titre du b du 2° de l'article 18 du décret du 7 avril 1988 susvisé :
 
-a) Une attestation de validation du troisième semestre de résidanat ;
+a) Une attestation de validation du quatrième semestre de résidanat ;
 
-b) Une attestation de prise de fonctions au titre du quatrième semestre de résidanat ;
+b) Une attestation de prise de fonctions au titre du cinquième semestre de résidanat ;
 
 Les candidats qui ont participé aux épreuves sans répondre aux exigences réglementaires sont considérés comme s'étant présentés aux concours au sens de l'article 18 du décret du 7 avril 1988 susvisé.
 
-Les candidats de dernière année de deuxième cycle, affectés dans une subdivision et une discipline d'internat, ne peuvent participer à la procédure de choix de postes, organisée au titre de l'article 30 du décret du 7 avril 1988 susvisé, que s'ils ont validé le dernier stage hospitalier de cette année d'études. Les unités de formation et de recherche font parvenir aux directions régionales des affaires sanitaires et sociales responsables de concours, au plus tard le 22 septembre de l'année du concours, un document attestant la validation de ce dernier stage hospitalier. En cas de non-validation de ce stage, les candidats gardent un an seulement le bénéfice de leur concours.
+Les candidats de dernière année de deuxième cycle, affectés dans une subdivision et une discipline d'internat, ne peuvent participer à la procédure de choix de postes, organisée au titre de l'article 30 du décret du 7 avril 1988 susvisé, que s'ils ont validé le dernier stage hospitalier de cette année d'études. Les unités de formation et de recherche font parvenir au ministre chargé de la santé, au plus tard le 22 septembre de l'année du concours, un document attestant la validation de ce dernier stage hospitalier. En cas de non-validation de ce stage, les candidats gardent un an seulement le bénéfice de leur concours.

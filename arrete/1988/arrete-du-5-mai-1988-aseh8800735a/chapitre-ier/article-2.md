@@ -1,15 +1,11 @@
 # Article 2
 
-Les préfets de région responsables de l'organisation du concours sont :
+Le ministre chargé de la santé est responsable :
 
-a) Pour les inscriptions :
+a) De l'organisation et du déroulement des épreuves du concours ;
 
-- pour la zone Nord, les préfets des régions d'Ile-de-France, Lorraine et Nord - Pas-de-Calais ;
+b) De la procédure nationale de choix de la subdivision et de la discipline en fonction du rang de classement obtenu par les candidats et des postes ouverts au concours.
 
-- pour la zone Sud, les préfets des régions Aquitaine, Languedoc-Roussillon, Pays de la Loire et Rhône-Alpes ;
+Les préfets des régions Aquitaine, Ile-de-France, Languedoc-Roussillon, Lorraine, Nord - Pas-de-Calais, Pays de la Loire et Rhône-Alpes sont chargés des inscriptions.
 
-b) Pour le déroulement des épreuves et pour les autres actes relatifs à l'organisation du concours :
-
-- pour la zone Nord : le préfet de la région d'Ile-de-France ;
-
-- pour la zone Sud : le préfet de la région Languedoc-Roussillon.
+Les préfets de région procèdent à l'affectation des candidats nommés dans les subdivisions correspondantes.

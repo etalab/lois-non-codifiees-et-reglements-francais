@@ -1,6 +1,6 @@
 # Article 15
 
-Ces résultats et ce classement sont communiqués individuellement aux candidats par le Centre national des concours d'internat.
+Ces résultats et ce classement sont communiqués individuellement aux candidats par le ministre chargé de la santé.
 
 Les candidats communiquent alors au Centre national des concours d'internat, dans les délais qui leur sont impartis, le choix des circonscriptions et des subdivisions où ils souhaitent être affectés par ordre décroissant de préférence. Pour chacune des disciplines d'internat les candidats sont affectés dans les subdivisions en fonction de leur rang de classement et des places disponibles.
 

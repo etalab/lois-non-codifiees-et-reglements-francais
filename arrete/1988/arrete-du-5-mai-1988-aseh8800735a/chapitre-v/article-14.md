@@ -8,4 +8,4 @@ Le président est assisté d'un vice-président, désigné également en fonctio
 
 En cas de partage égal des voix, sur une décision nécessitant une procédure de vote, la voix du président est prépondérante.
 
-Un procès-verbal des opérations de concours signale les incidents survenus éventuellement lors du déroulement du concours dans les centres d'épreuves. Il est adressé au président du jury, qui y mentionne également les motifs d'annulation des questions rejetées par le jury lors des corrections. Le président du jury signe ce procès-verbal et l'adresse au Centre national des concours d'internat par l'intermédiaire du préfet de région visé au premier alinéa du présent article.
+Un procès-verbal des opérations de concours signale les incidents survenus éventuellement lors du déroulement du concours dans les centres d'épreuves. Il est adressé au président du jury, qui y mentionne également les motifs d'annulation des questions rejetées par le jury lors des corrections. Le président du jury signe ce procès-verbal et l'adresse au ministre chargé de la santé.

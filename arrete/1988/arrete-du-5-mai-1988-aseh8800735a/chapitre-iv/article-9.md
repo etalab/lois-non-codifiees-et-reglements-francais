@@ -24,7 +24,7 @@ Elle est composée :
 
 - de deux représentants du conseil scientifique et pédagogique du Centre national des concours d'internat et de six membres du jury de la zone, un par grande discipline d'internat, désignés par arrêté du ministre chargé de l'éducation nationale et du ministre chargé de la santé ;
 
-- du directeur régional des affaires sanitaires et sociales de la région du centre d'épreuves.
+- du directeur des hôpitaux ou de son représentant.
 
 Cette commission peut annuler, en cas d'erreur matérielle grave, des questions de Q.C.M. et C.C.Q.C.M. Les questions ainsi annulées ne sont pas remplacées.
 

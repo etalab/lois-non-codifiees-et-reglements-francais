@@ -10,7 +10,7 @@ La discipline au titre de laquelle le candidat souhaite concourir ainsi que le d
 
 2° Un document officiel datant de moins de six mois mentionnant l'état civil du candidat. Si ce document n'est pas établi en français, il doit être accompagné de l'original d'une traduction effectuée par un traducteur assermenté.
 
-3° Un certificat de nationalité ou tout document officiel attestant la nationalité, l'un ou l'autre datant de moins de six mois. Si ce document n'est pas établi en français, il doit être accompagné de l'original d'une traduction effectuée par un traducteur assermenté.
+3° Un certificat de nationalité ou tout document officiel attestant la nationalité, l'un ou l'autre datant de moins de six mois. Si ce document n'est pas établi en français, il doit être accompagné de l'original d'une traduction effectuée par un traducteur assermenté. Le candidat remplit une déclaration sur l'honneur attestant qu'il n'est pas titulaire d'une double nationalité incluant la nationalité française.
 
 4° La photocopie certifiée conforme du diplôme de médecin, ou une attestation établie par les autorités sanitaires ou l'ambassade du pays dont relève le candidat, mentionnant que ce dernier possède à la date de fin des inscriptions un diplôme de médecin permettant l'exercice de la médecine dans le pays d'obtention ou d'origine du candidat. Si ce document n'est pas établi en français, il doit être accompagné de l'original d'une traduction effectuée par un traducteur assermenté.
 

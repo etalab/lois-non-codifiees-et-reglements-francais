@@ -1,6 +1,6 @@
 # Article 12
 
-La correction de l'épreuve de dossiers est effectuée par le jury. Celui-ci se répartit en groupes de correcteurs, sous réserve que chaque groupe comporte au minimum quatre membres. Un séminaire résidentiel de correction est organisé par les préfets de région mentionnés à l'article 2 du présent arrêté en liaison avec le Centre national des concours d'internat.
+La correction de l'épreuve de dossiers est effectuée par le jury. Celui-ci se répartit en groupes de correcteurs, sous réserve que chaque groupe comporte au minimum quatre membres. Un séminaire résidentiel de correction est organisé par le ministre chargé de la santé.
 
 Le jury établit une grille de correction en s'aidant éventuellement des propositions de réponses transmises par le Centre national des concours d'internat.
 
