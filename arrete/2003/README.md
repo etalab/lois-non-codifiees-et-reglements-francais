@@ -710,7 +710,6 @@
 - [Arrêté du 20 février 2003 (JUSE0340022A)](arrete-du-20-fevrier-2003-juse0340022a)
 - [Arrêté du 20 février 2003 (MENJ0300419A)](arrete-du-20-fevrier-2003-menj0300419a)
 - [Arrêté du 20 février 2003 (SPRK0370015A)](arrete-du-20-fevrier-2003-sprk0370015a)
-- [Arrêté du 20 janvier 2003 (AGRR0300163A)](arrete-du-20-janvier-2003-agrr0300163a)
 - [Arrêté du 20 janvier 2004 (INTC0400077A)](arrete-du-20-janvier-2004-intc0400077a)
 - [Arrêté du 20 juin 2003 (AGRA0300966A)](arrete-du-20-juin-2003-agra0300966a)
 - [Arrêté du 20 juin 2003 (EQUA0300973A)](arrete-du-20-juin-2003-equa0300973a)
