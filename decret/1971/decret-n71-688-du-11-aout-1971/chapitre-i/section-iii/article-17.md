@@ -2,8 +2,8 @@
 
 Les dispositions législatives et réglementaires relatives à la prestation de serment et au dépôt de la signature et du paraphe des personnes physiques nommées dans les fonctions de greffier de tribunal de commerce associé sont applicables aux greffiers de tribunal de commerce associés.
 
-Tout greffier de tribunal de commerce associé n'a le droit d'exercer ses fonctions qu'à compter du jour de sa prestation de serment.
+La société ne peut entrer en fonction qu'après la prestation de serment de tous ses membres ; ceux-ci n'ont le droit d'accomplir les actes de la profession qu'à compter du jour où ils ont prêté serment.
 
-Jusqu'à cette prestation de serment, le greffier démissionnaire, nommé greffier associé dans l'office duquel est nommée la société, continue d'exercer provisoirement ses fonctions dans son ancien office.
+L'associé, précédemment titulaire d'un office de greffier de tribunal de commerce, qui a fait apport de son droit de présentation à la société, n'a pas à renouveler son serment.
 
-Si, sans motif reconnu valable, le greffier de tribunal de commerce associé ne prête pas serment dans le mois suivant la publication de l'arrêté [*de nomination*] prévu à l'article 5, il est déchu [*sanctions*], par arrêté du garde des sceaux, ministre de la justice, de sa qualité de greffier de tribunal de commerce associé et ses parts sociales sont cédées dans les conditions fixées à l'article 32 du présent décret.
+Tout associé qui n'a pas prêté serment dans le mois suivant la publication de l'arrêté prévu à l'article 5 peut, sauf cas de force majeure, être déchu par arrêté du garde des sceaux, ministre de la justice, de sa qualité d'associé ; en ce cas, ses parts sont cédées dans les conditions fixées à l'article 32.
