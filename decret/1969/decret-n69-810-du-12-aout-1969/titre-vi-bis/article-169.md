@@ -1,3 +1,7 @@
 # Article 169
 
-L'associé auquel il est temporairement interdit d'exercer ses fonctions, en application de l'article 112, conserve, pendant la durée de l'interdiction, sa qualité d'associé, avec tous les droits et obligations qui ne découlent pas directement de l'exercice de la profession. Toutefois, sa participation aux bénéfices est réduite de moitié, l'autre moitié étant attribuée à ceux des autres associés qui n'ont pas fait l'objet d'une mesure identique.
+En cas de retrait ou d'entrée d'actionnaires ou d'associés ou de membres des organes de gestion, de direction, d'administration ou de surveillance, la société est tenue de demander à la commission régionale la modification correspondante de son inscription sur la liste.
+
+Si la commission constate que la société à la suite de l'opération demeure constituée en conformité aux dispositions de l'article 218 de la loi du 24 juillet 1966 précitée, elle modifie l'inscription de la société sur la liste.
+
+Dans le cas contraire la commission régionale impartit un délai de régularisation. Si la situation n'a pas été régularisée à l'expiration de ce délai, la commission régionale prononce la radiation de la société.

@@ -1,3 +1,3 @@
 # Article 168
 
-L'associé radié de la liste [*des commissaires aux comptes*] cesse d'exercer son activité professionnelle de commissaire aux comptes à compter du jour où la décision prononçant la radiation est définitive. Ses parts sociales sont cédées dans les conditions fixées à l'article 150.
+Les dispositions de l'alinéa 1er de l'article 129 et des articles 131, 137-2, 137-3 du présent décret s'appliquent à la constitution des sociétés de commissaires aux comptes autres que les sociétés civiles professionnelles [*champ d'application*].
