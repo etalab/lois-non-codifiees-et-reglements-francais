@@ -498,6 +498,7 @@
 - [Arrêté du 15 décembre 1998 (AGRS9802522A)](arrete-du-15-decembre-1998-agrs9802522a)
 - [Arrêté du 15 décembre 1998 (ATEP9870002A)](arrete-du-15-decembre-1998-atep9870002a)
 - [Arrêté du 15 décembre 1998 (ECOC9800152A)](arrete-du-15-decembre-1998-ecoc9800152a)
+- [Arrêté du 15 décembre 1998 (ECOI9801078A)](arrete-du-15-decembre-1998-ecoi9801078a)
 - [Arrêté du 15 janvier 1998 (MESH9820420A)](arrete-du-15-janvier-1998-mesh9820420a)
 - [Arrêté du 15 janvier 1998 (MESP9820139A)](arrete-du-15-janvier-1998-mesp9820139a)
 - [Arrêté du 15 janvier 1998 (MESP9820140A)](arrete-du-15-janvier-1998-mesp9820140a)
