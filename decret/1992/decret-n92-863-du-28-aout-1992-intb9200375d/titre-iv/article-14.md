@@ -84,83 +84,29 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <tr>
 <td> :-----------------------------:</td>
 </tr>
-<tr>
-<td> : Rééducateur de classe       :</td>
-</tr>
-<tr>
-<td> :  supérieure                 :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
-<tr>
-<td> : 5e échelon :   -   :    -   :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 4e échelon : 4 ans : 4 ans  :</td>
-</tr>
-<tr>
-<td> :            : 4 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 3e échelon : 3 ans : 3 ans  :</td>
-</tr>
-<tr>
-<td> :            : 3 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> : 2e échelon : 3 ans : 3 ans  :</td>
-</tr>
-<tr>
-<td> :            : 3 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> :1er échelon : 3 ans : 3 ans  :</td>
-</tr>
-<tr>
-<td> :            : 3 mois:        :</td>
-</tr>
-<tr>
-<td> :            :       :        :</td>
-</tr>
-<tr>
-<td> :-----------------------------:</td>
-</tr>
 </table>
 
 <table>
 <tr>
-<td>: Rééducateur de classe       :</td>
+<td>:    Rééducateur de classe    :</td>
 </tr>
 <tr>
-<td> :  normale                    :</td>
+<td> :          normale            :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 <tr>
-<td> : Echelon    :   -   :   -    :</td>
-</tr>
-<tr>
-<td> : exception. :       :        :</td>
+<td> : 8e échelon :   -   :   -    :</td>
 </tr>
 <tr>
 <td> :            :       :        :</td>
 </tr>
 <tr>
-<td> : 7e échelon : 3 ans : 3 ans  :</td>
+<td> : 7e échelon : 4 ans : 4 ans  :</td>
+</tr>
+<tr>
+<td> :            : 6 mois:        :</td>
 </tr>
 <tr>
 <td> :            :       :        :</td>
@@ -169,7 +115,7 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> : 6e échelon : 4 ans : 4 ans  :</td>
 </tr>
 <tr>
-<td> :            : 4 mois:        :</td>
+<td> :            : 6 mois:        :</td>
 </tr>
 <tr>
 <td> :            :       :        :</td>
@@ -178,16 +124,16 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> : 5e échelon : 4 ans : 4 ans  :</td>
 </tr>
 <tr>
-<td> :            : 4 mois:        :</td>
+<td> :            : 6 mois:        :</td>
 </tr>
 <tr>
 <td> :            :       :        :</td>
 </tr>
 <tr>
-<td> : 4e échelon : 4 ans : 4 ans  :</td>
+<td> : 4e échelon : 3 ans : 3 ans  :</td>
 </tr>
 <tr>
-<td> :            : 4 mois:        :</td>
+<td> :            : 6 mois:        :</td>
 </tr>
 <tr>
 <td> :            :       :        :</td>
@@ -196,7 +142,7 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> : 3e échelon : 3 ans : 3 ans  :</td>
 </tr>
 <tr>
-<td> :            : 3 mois:        :</td>
+<td> :            : 6 mois:        :</td>
 </tr>
 <tr>
 <td> :            :       :        :</td>
@@ -205,17 +151,18 @@ La durée maximale et la durée minimale du temps passé dans chacun des échelo
 <td> : 2e échelon : 2 ans : 2 ans  :</td>
 </tr>
 <tr>
-<td> :            : 2 mois:        :</td>
+<td> :            : 6 mois:        :</td>
 </tr>
 <tr>
 <td> :            :       :        :</td>
 </tr>
 <tr>
-<td> :1er échelon : 1 an  : 1 an   :</td>
+<td> :1er échelon : 2 ans : 1 an   :</td>
+</tr>
+<tr>
+<td> :            :       :        :</td>
 </tr>
 <tr>
 <td> :-----------------------------:</td>
 </tr>
 </table>
-
-Peuvent accéder à l'échelon exceptionnel les rééducateurs de classe normale exerçant les fonctions de masseur-kinésithérapeute, d'ergothérapeute ou de psychomotricien comptant trois ans d'ancienneté dans le 7e échelon de leur grade.
