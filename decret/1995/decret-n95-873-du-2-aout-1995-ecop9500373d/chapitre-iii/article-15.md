@@ -6,6 +6,4 @@ Les intéressés sont nommés à la classe normale de leur nouveau grade à l'é
 
 Les chefs de service départemental promus au grade de directeur départemental alors qu'ils avaient atteint l'échelon le plus élevé de leur précédent grade sont nommés au 3e échelon du grade de directeur départemental de classe normale sans ancienneté.
 
-Nul ne peut être nommé directeur départemental s'il est à moins de cinq ans de la date de la retraite par limite d'âge.
-
 Peuvent être nommés à la classe exceptionnelle de leur grade les directeurs départementaux appartenant au moins au 2e échelon de la classe normale. Les intéressés sont classés à l'échelon de la classe exceptionnelle comportant l'indice de rémunération immédiatement supérieur à celui dont ils bénéficiaient antérieurement. Les directeurs départementaux de classe normale de 2e échelon nommés au 1er échelon de la classe exceptionnelle conservent, dans la limite de 2 ans 6 mois, l'ancienneté acquise dans leur échelon d'origine.
