@@ -5,3 +5,4 @@
 - [CHAPITRE II : Déroulement du contrat.](chapitre-ii)
 - [CHAPITRE III : Arrivée à terme du contrat.](chapitre-iii)
 - [CHAPITRE IV : Dispositions diverses.](chapitre-iv)
+- [Article 12](article-12.md)
