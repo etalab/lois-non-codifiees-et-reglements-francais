@@ -1,3 +1,3 @@
 # Article Annexe art. 5
 
-Si le contrat est résilié pour cessation d'activité ou pour cause de décès, la garantie s'exercera moyennant prime subséquente pour les réclamations présentées pendant les six années qui suivront la résiliation du contrat.
+L'assureur à la faculté de demander une prime subséquente à la suite de la survenance de l'un des événements ci-dessus définis. Le paiement de cette prime doit être effectué dans un délai de trois mois à compter de la notification de cette demande par l'assureur.
