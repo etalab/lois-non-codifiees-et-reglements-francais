@@ -9,6 +9,7 @@
 - [Arrêté du 16 avril 1991 (SANH9100977A)](arrete-du-16-avril-1991-sanh9100977a)
 - [Arrêté du 16 janvier 1991 (MENT9100042A)](arrete-du-16-janvier-1991-ment9100042a)
 - [Arrêté du 17 décembre 1990 (ENVP9061608A)](arrete-du-17-decembre-1990-envp9061608a)
+- [Arrêté du 17 décembre 1990 (JUSG9060102A)](arrete-du-17-decembre-1990-jusg9060102a)
 - [Arrêté du 17 octobre 1990 (TEFE9003888A)](arrete-du-17-octobre-1990-tefe9003888a)
 - [Arrêté du 18 décembre 1990 (EQUT9001680A)](arrete-du-18-decembre-1990-equt9001680a)
 - [Arrêté du 18 décembre 1990 (SPSG9002563A)](arrete-du-18-decembre-1990-spsg9002563a)
@@ -55,3 +56,4 @@
 - [Arrêté du 31 décembre 1990 (AGRG9002163A)](arrete-du-31-decembre-1990-agrg9002163a)
 - [Arrêté du 31 décembre 1990 (AGRS9002077A)](arrete-du-31-decembre-1990-agrs9002077a)
 - [Arrêté du 31 décembre 1990 (BUDD9070013A)](arrete-du-31-decembre-1990-budd9070013a)
+- [Arrêté du 31 décembre 1990 (INDD9000813A)](arrete-du-31-decembre-1990-indd9000813a)

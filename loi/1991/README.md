@@ -10,4 +10,7 @@
 - [Loi n° 90-603 du 12 juillet 1990 (FAMX9000011L)](loi-n-90-603-du-12-juillet-1990-famx9000011l)
 - [Loi n° 91-1 du 3 janvier 1991 (TEFX9000165L)](loi-n-91-1-du-3-janvier-1991-tefx9000165l)
 - [Loi n° 91-3 du 3 janvier 1991 (ECOX9000061L)](loi-n-91-3-du-3-janvier-1991-ecox9000061l)
+- [Loi n° 91-4 du 3 janvier 1991 (MAEX9000149L)](loi-n-91-4-du-3-janvier-1991-maex9000149l)
+- [Loi n° 91-5 du 3 janvier 1991 (AGRX9000138L)](loi-n-91-5-du-3-janvier-1991-agrx9000138l)
 - [Loi n°91-2 du 3 janvier 1991 (PRMX9000039L)](loi-n91-2-du-3-janvier-1991-prmx9000039l)
+- [Loi n°91-6 du 4 janvier 1991 (DOMX9000091L)](loi-n91-6-du-4-janvier-1991-domx9000091l)
