@@ -623,7 +623,6 @@
 - [Décret n°2000-828 du 28 août 2000 (MESG0021842D)](decret-n2000-828-du-28-aout-2000-mesg0021842d)
 - [Décret n°2000-831 du 28 août 2000 (AGRP0000964D)](decret-n2000-831-du-28-aout-2000-agrp0000964d)
 - [Décret n°2000-838 du 28 août 2000 (ECOC0000021D)](decret-n2000-838-du-28-aout-2000-ecoc0000021d)
-- [Décret n°2000-952 du 28 septembre 2000 (AGRS0001330D)](decret-n2000-952-du-28-septembre-2000-agrs0001330d)
 - [Décret n°2000-961 du 28 septembre 2000 (MCCB0000490D)](decret-n2000-961-du-28-septembre-2000-mccb0000490d)
 - [Décret n°2000-962 du 28 septembre 2000 (MCCB0000491D)](decret-n2000-962-du-28-septembre-2000-mccb0000491d)
 - [Décret n°2000-963 du 28 septembre 2000 (AGRS0001575D)](decret-n2000-963-du-28-septembre-2000-agrs0001575d)

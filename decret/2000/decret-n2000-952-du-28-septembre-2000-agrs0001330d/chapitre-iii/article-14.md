@@ -1,3 +1,0 @@
-# Article 14
-
-Outre la cotisation prévue à l'article 13 du présent décret et en application du II de l'article 116 de la loi de finances pour 2000 susvisée, les personnes bénéficiant du statut de conjoint collaborateur d'exploitation ou d'entreprise agricoles à compter du 1er janvier 1999 doivent acquitter, au titre de l'année 1999, la cotisation prévue au 2° de l'article L. 731-42 du code rural au titre du conjoint collaborateur d'exploitation ou d'entreprise agricoles au sens de l'article L. 321-5 du même code, assise sur l'assiette minimum prévue au II de l'article 14 du décret du 9 août 1994 susvisé à laquelle est appliqué un taux de 8,44 %.
