@@ -207,9 +207,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td>
-<div align="center">
 <pre>5</pre>
-</div>
 </td>
 <td>
 <p>Assistants ingénieurs</p>
@@ -229,9 +227,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td rowspan="3">
-<div align="center">
 <pre>6</pre>
-</div>
 </td>
 <td>
 <p>Techniciens de 1<sup>re</sup> classe</p>
@@ -273,9 +269,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td rowspan="2">
-<div align="center">
 <pre>7</pre>
-</div>
 </td>
 <td>
 <p>Adjoints techniques 1<sup>re</sup> classe</p>
@@ -306,9 +300,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td rowspan="2">
-<div align="center">
 <pre>8</pre>
-</div>
 </td>
 <td>
 <p>Agents techniques 1<sup>re</sup> niveau</p>
@@ -339,9 +331,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td>
-<div align="center">
 <pre>9</pre>
-</div>
 </td>
 <td>
 <p>Chargés d'administration de la recherche</p>
@@ -361,9 +351,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td rowspan="3">
-<div align="center">
 <pre>10</pre>
-</div>
 </td>
 <td>
 <p>Attachés principaux d'administration de la recherche</p>
@@ -405,9 +393,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td rowspan="3">
-<div align="center">
 <pre>11</pre>
-</div>
 </td>
 <td>
 <p>Secrétaires d'administration de la recherche 1<sup>re</sup> classe</p>
@@ -449,9 +435,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td rowspan="2">
-<div align="center">
 <pre>12</pre>
-</div>
 </td>
 <td>
 <p>Adjoints administratifs de la recherche 1<sup>re</sup> classe </p>
@@ -482,9 +466,7 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 </tr>
 <tr>
 <td rowspan="2">
-<div align="center">
 <pre>13</pre>
-</div>
 </td>
 <td>
 <p>Agents d'administration de la recherche 1<sup>er</sup> niveau</p>
@@ -510,6 +492,26 @@ La composition de ces commissions administratives paritaires est fixée ainsi qu
 <p align="center">2</p>
 </td>
 <td width="58">
+<p align="center">2</p>
+</td>
+</tr>
+<tr>
+<td>
+<pre>14</pre>
+</td>
+<td>
+<p>Chargés de mission de la recherche </p>
+</td>
+<td width="49">
+<p align="center">2</p>
+</td>
+<td width="58">
+<p align="center">2</p>
+</td>
+<td width="49">
+<p align="center">2</p>
+</td>
+<td>
 <p align="center">2</p>
 </td>
 </tr>
