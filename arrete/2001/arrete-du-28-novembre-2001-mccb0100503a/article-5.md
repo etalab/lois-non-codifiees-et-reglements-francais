@@ -1,0 +1,5 @@
+# Article 5
+
+La sous-direction des études, de la documentation et de l'inventaire a pour mission d'assurer la cohérence méthodologique, technique et documentaire de l'ensemble des actions de recherche et d'étude conduites par la direction, par les établissements publics et les organismes placés sous la tutelle de celle-ci et de participer à l'élaboration des politiques de protection. Elle coordonne la conception et l'établissement de la carte du patrimoine, ainsi que les publications scientifiques de la direction. Elle est chargée de conduire l'inventaire général des monuments et richesses artistiques de la France afin de recenser, d'étudier et de faire connaître toute oeuvre qui constitue un élément du patrimoine national, en raison de son caractère artistique, historique, architectural, archéologique ou ethnologique. Elle veille à la répartition des moyens nécessaires à cette politique auprès des services déconcentrés. Elle assure le secrétariat de la Commission nationale de l'inventaire général des monuments et des richesses artistiques de la France.
+
+Est en outre rattachée au sous-directeur la médiathèque de l'architecture et du patrimoine.

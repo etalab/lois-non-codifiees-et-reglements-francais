@@ -1,0 +1,7 @@
+# Article 9
+
+La sous-direction des enseignements et de la recherche architecturale et urbaine a pour mission de définir les objectifs et de veiller à la mise en oeuvre de la formation initiale dans les domaines de l'architecture, envisagée notamment dans ses incidences sur les politiques du territoire, du paysage, de la ville et du patrimoine, ainsi que ceux de la politique de la recherche architecturale et urbaine liée à ces formations. Elle bénéficie pour cela de l'appui de l'observatoire socio-économique des professions. Elle assure la tutelle pédagogique, administrative et financière des écoles d'architecture et coordonne leurs actions communes. Elle élabore les réglementations relatives aux études et participe à l'élaboration des textes concernant les écoles et leurs personnels.
+
+Elle veille au renforcement des liens entre les enseignements et la recherche dans le domaine de l'architecture et du patrimoine. Elle assure les conditions nécessaires au développement de la recherche architecturale et urbaine en relation avec les différentes instances chargées de la recherche et participe à son animation et à sa valorisation. Elle assure, dans ces domaines, la liaison avec les services du ministère chargé de l'enseignement supérieur et de la recherche.
+
+Elle assure le secrétariat du Conseil supérieur de l'enseignement de l'architecture, du comité consultatif de la recherche architecturale, de la commission culturelle, scientifique et technique.
