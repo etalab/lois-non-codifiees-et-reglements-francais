@@ -32,6 +32,5 @@
 - [Arrêté du 26 avril 1965](arrete-du-26-avril-1965)
 - [Arrêté du 26 février 1965](arrete-du-26-fevrier-1965)
 - [Arrêté du 27 juillet 1965](arrete-du-27-juillet-1965)
-- [Arrêté du 28 juillet 1965](arrete-du-28-juillet-1965)
 - [Arrêté du 28 octobre 1965](arrete-du-28-octobre-1965)
 - [Arrêté du 30 avril 1965](arrete-du-30-avril-1965)
