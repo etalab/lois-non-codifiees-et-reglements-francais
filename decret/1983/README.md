@@ -143,7 +143,6 @@
 - [Décret n°83-246 du 18 mars 1983](decret-n83-246-du-18-mars-1983)
 - [Décret n°83-247 du 18 mars 1983](decret-n83-247-du-18-mars-1983)
 - [Décret n°83-248 du 18 mars 1983](decret-n83-248-du-18-mars-1983)
-- [Décret n°83-656 du 18 juillet 1983](decret-n83-656-du-18-juillet-1983)
 - [Décret n°83-917 du 18 octobre 1983](decret-n83-917-du-18-octobre-1983)
 - [Décret n°83-992 du 18 novembre 1983](decret-n83-992-du-18-novembre-1983)
 - [Décret n°83-394 du 18 mai 1983](decret-n83-394-du-18-mai-1983)
