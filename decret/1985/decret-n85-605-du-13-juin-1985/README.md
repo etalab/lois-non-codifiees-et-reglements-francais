@@ -1,4 +1,4 @@
-# Décret n°61-440 du 5 mai 1961 MODIFIANT LES CONDITIONS D'ACCES AUX FACULTES ET ETABLISSEMENTS D'ENSEIGNEMENT SUPERIEUR EN VUE DE FAVORISER LA PROMOTION SOCIALE
+# Décret n° 85-605 du 13 juin 1985 relatif aux groupements d'intérêt public constitués en application de la loi n° 84-52 du 26 janvier 1984 sur l'enseignement supérieur.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
