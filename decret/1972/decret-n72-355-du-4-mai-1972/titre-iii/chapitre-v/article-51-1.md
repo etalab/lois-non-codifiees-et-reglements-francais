@@ -4,4 +4,4 @@ Les magistrats adressent chaque demande de participation aux actions nationales 
 
 L'Ecole nationale de la magistrature informe de sa décision les intéressés et les chefs de cour ou les chefs de service.
 
-La formation continue des magistrats exerçant des fonctions dans les D.O.M. et les T.O.M. est assurée prioritairement à l'occasion de leurs congés en métropole, la durée de la formation s'ajoutant à celle des congés.
+La formation continue des magistrats exerçant des fonctions dans les DOM et les TOM est assurée prioritairement à l'occasion de leurs congés en métropole, la durée de la formation s'ajoutant à celle des congés.

@@ -14,4 +14,6 @@ Les dépenses de l'école comprennent notamment :
 
 6° Les dépenses afférentes aux périodes de formation préalable à l'installation dans les fonctions et aux stages probatoires visés respectivement aux articles 25-2 et 25-3 de l'ordonnance du 22 décembre 1958 ;
 
-7° Les dépenses afférentes à la formation probatoire des candidats aux fonctions de magistrat à titre temporaire prévues par l'article 41-12 de l'ordonnance du 22 décembre 1958.
+7° Les dépenses afférentes à la formation probatoire des candidats aux fonctions de magistrat à titre temporaire prévues par l'article 41-12 de l'ordonnance du 22 décembre 1958 ;
+
+8° Les dépenses afférentes aux actions de formation mentionnées à l'article 41-2.

@@ -12,7 +12,7 @@ Le directeur des services judiciaires ou son représentant ;
 
 Le directeur général de l'administration et de la fonction publique, ou son représentant.
 
-b) Huit membres nommés par arrêté du garde des Sceaux :
+b) Neuf membres nommés par arrêté du garde des sceaux, ministre de la justice :
 
 Un directeur à l'administration centrale du ministère de la justice, ou son suppléant désigné dans les mêmes formes ;
 
@@ -26,7 +26,7 @@ Un magistrat ancien auditeur de justice ayant moins de sept ans de services effe
 
 Un membre des professions judiciaires ;
 
-Deux personnalités qualifiées.
+Trois personnalités qualifiées, dont une personne exerçant l'une des fonctions à la formation desquelles l'Ecole nationale de la magistrature peut contribuer, en application de l'article 41-2.
 
 c) Deux membres nommés par arrêté conjoint du garde des Sceaux, ministre de la justice, et du ministre de l'éducation nationale :
 
@@ -36,9 +36,9 @@ Un professeur des universités.
 
 d) Un chargé de formation élu, au scrutin majoritaire à deux tours et à bulletin secret, par l'ensemble des maîtres de conférences réunis en collège par le directeur.
 
-e) Un magistrat délégué à la formation et un directeur de centre de stage, nommés par arrêté du garde des sceaux, ministre de la justice, sur proposition du directeur de l'école ;
+e) Un magistrat délégué à la formation et un directeur de centre de stage, nommés par arrêté du garde des sceaux, ministre de la justice, sur proposition du directeur de l'école.
 
-f) Un représentant de chaque syndicat ou organisation professionnelle représentatif à l'égard des magistrats d'après le nombre de voix recueillies lors de l'élection du collège des magistrats, désigné par le garde des sceaux, ministre de la justice, sur proposition desdits syndicats ou organisations ;
+f) Un représentant de chaque syndicat ou organisation professionnelle représentatif à l'égard des magistrats d'après le nombre de voix recueillies lors de l'élection du collège des magistrats, désigné par le garde des sceaux, ministre de la justice, sur proposition desdits syndicats ou organisations.
 
 g) Deux représentants des auditeurs de justice de chaque promotion, élus dans les conditions prévues à l'article 6.
 

@@ -1,4 +1,4 @@
-# Titre III : Formation professionnelle des magistrats
+# Titre III : Formation professionnelle assurée par l'Ecole nationale de la magistrature
 
 - [Chapitre Ier : Dispositions générales.](chapitre-ier)
 - [Chapitre II : Commission pédagogique.](chapitre-ii)
