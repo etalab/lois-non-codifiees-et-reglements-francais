@@ -522,6 +522,8 @@
 - [Arrêté du 25 février 1992 (MENH9200491A)](arrete-du-25-fevrier-1992-menh9200491a)
 - [Arrêté du 25 janvier 1988 (INTD8800037A)](arrete-du-25-janvier-1988-intd8800037a)
 - [Arrêté du 25 juin 1992 (EQUA9200838A)](arrete-du-25-juin-1992-equa9200838a)
+- [Arrêté du 25 juin 1992 (EQUS9200862A)](arrete-du-25-juin-1992-equs9200862a)
+- [Arrêté du 25 juin 1992 (EQUS9200868A)](arrete-du-25-juin-1992-equs9200868a)
 - [Arrêté du 25 mars 1992 (AGRS9200623A)](arrete-du-25-mars-1992-agrs9200623a)
 - [Arrêté du 25 mars 1992 (INTE9200176A)](arrete-du-25-mars-1992-inte9200176a)
 - [Arrêté du 25 mars 1992 (SPSP9200834A)](arrete-du-25-mars-1992-spsp9200834a)
