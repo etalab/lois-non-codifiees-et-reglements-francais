@@ -1,0 +1,3 @@
+# Article 6
+
+Le directeur régional de l'agriculture et de la forêt notifie l'habilitation à l'établissement concerné. L'habilitation prononcée reste valable pour les cycles suivants de la même filière tant que les conditions exigées pour l'accorder demeurent remplies. Lorsque, suite à une modification, les conditions d'habilitation ne sont plus réunies, le chef d'établissement en informe le directeur régional de l'agriculture et de la forêt au plus tard un mois après le début de la formation ; ce dernier retire alors l'habilitation. En cas d'omission de cette obligation, l'habilitation est retirée pour trois années, indépendamment de l'application de l'article 7 ci-dessous.

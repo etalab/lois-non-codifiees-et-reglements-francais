@@ -1,0 +1,5 @@
+# Article 8
+
+L'arrêté du 20 juillet 1989 relatif à la procédure d'habilitation en vue de la mise en oeuvre du contrôle certificatif en cours de formation dans les filières préparant au brevet de technicien supérieur agricole, l'arrêté du 20 juillet 1989 relatif au brevet de technicien supérieur agricole, l'arrêté du 20 juillet 1989 relatif à la procédure d'habilitation en vue de la mise en oeuvre du contrôle certificatif en cours de formation dans les filières préparant au certificat d'aptitude professionnelle agricole ou au brevet d'études professionnelles agricoles, l'arrêté du 20 juillet 1989 relatif à l'agrément pédagogique de formation conduisant au diplôme du brevet de technicien supérieur agricole, l'arrêté du 15 juin 1990 relatif à l'agrément pédagogique des formations conduisant au diplôme du brevet professionnel, l'arrêté du 20 juillet 1989 relatif à l'agrément pédagogique des formations conduisant aux diplômes du certificat d'aptitude professionnelle agricole et du brevet d'études professionnelles agricoles sont abrogés.
+
+Ils restent toutefois applicables pour les formations qui conduisent à la session d'examen de 1996.
