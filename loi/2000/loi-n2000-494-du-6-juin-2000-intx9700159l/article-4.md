@@ -6,7 +6,7 @@ La réclamation est adressée à un député ou à un sénateur. Celui-ci la tra
 
 La commission adresse au parlementaire auteur de la saisine un accusé de réception.
 
-Le Premier ministre et les membres du Parlement peuvent, en outre, saisir de leur propre chef la commission de faits mentionnés au premier alinéa.
+Le Premier ministre et les membres du Parlement peuvent, en outre, saisir de leur propre chef la commission de faits mentionnés au premier alinéa. La commission peut également être saisie directement par le Défenseur des enfants.
 
 La commission ne peut être saisie par les parlementaires qui en sont membres.
 

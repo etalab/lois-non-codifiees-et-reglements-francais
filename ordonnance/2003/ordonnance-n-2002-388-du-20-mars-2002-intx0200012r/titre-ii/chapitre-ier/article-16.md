@@ -13,3 +13,5 @@ La carte de séjour temporaire délivrée à l'étranger qui, désirant exercer 
 La carte de séjour temporaire peut être refusée à tout étranger dont la présence constitue une menace pour l'ordre public.
 
 La carte de séjour temporaire peut être retirée à tout employeur, titulaire de cette carte, en infraction avec les dispositions en vigueur localement relatives à l'emploi de la main-d'oeuvre étrangère.
+
+La carte de séjour temporaire peut être retirée à l'étranger passible de poursuites pénales sur le fondement des articles 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7, 311-4 (7° ) et 312-12-1 du code pénal.

@@ -1,12 +1,12 @@
 # Article 2
 
-La Commission nationale de déontologie de la sécurité est composée de huit membres, nommés pour une durée de six ans non renouvelable :
+La Commission nationale de déontologie de la sécurité est composée de quatorze membres, nommés pour une durée de six ans non renouvelable :
 
 - le président, nommé par décret du Président de la République ;
 
-- un sénateur, désigné par le président du Sénat ;
+- deux sénateurs, désignés par le président du Sénat ;
 
-- un député, désigné par le président de l'Assemblée nationale ;
+- deux députés, désignés par le président de l'Assemblée nationale ;
 
 - un conseiller d'Etat, désigné par le vice-président du Conseil d'Etat ;
 
@@ -14,13 +14,13 @@ La Commission nationale de déontologie de la sécurité est composée de huit m
 
 - un conseiller maître, désigné par le premier président de la Cour des comptes ;
 
-- deux personnalités qualifiées désignées par les autres membres de la Commission nationale de déontologie de la sécurité.
+- six personnalités qualifiées désignées par les autres membres de la Commission nationale de déontologie de la sécurité.
 
 La commission est renouvelée par moitié tous les trois ans.
 
 La qualité de membre de la commission est incompatible avec l'exercice, à titre principal, d'activités dans le domaine de la sécurité.
 
-Les parlementaires membres de la commission cessent d'y exercer leurs fonctions lorsqu'ils cessent d'appartenir à l'assemblée au titre de laquelle ils ont été désignés.
+Les parlementaires membres de la commission cessent d'y exercer leurs fonctions lorsqu'ils cessent d'appartenir à l'assemblée au titre de laquelle ils ont été désignés. Le mandat des députés prend fin avec la législature au titre de laquelle ils ont été élus.
 
 Si, en cours de mandat, un membre de la commission cesse d'exercer ses fonctions, le mandat de son successeur est limité à la période restant à courir. Par dérogation au premier alinéa, le mandat de ce dernier est renouvelable lorsqu'il a commencé moins de deux ans avant son échéance normale.
 

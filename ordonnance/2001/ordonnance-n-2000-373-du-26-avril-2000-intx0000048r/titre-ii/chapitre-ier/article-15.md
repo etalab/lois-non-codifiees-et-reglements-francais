@@ -1,10 +1,10 @@
 # Article 15
 
-I. - La carte de séjour temporaire délivrée à l'étranger qui apporte la preuve qu'il peut vivre de ses seules ressources et qui prend l'engagement de n'exercer à Mayotte aucune activité professionnelle soumise à autorisation porte la mention " visiteur ".
+I. - La carte de séjour temporaire délivrée à l'étranger qui apporte la preuve qu'il peut vivre de ses seules ressources et qui prend l'engagement de n'exercer à Mayotte aucune activité professionnelle soumise à autorisation porte la mention "visiteur".
 
-II. - La carte de séjour temporaire délivrée à l'étranger qui établit l'existence de liens personnels et familiaux à Mayotte tels que le refus d'autoriser son séjour porterait au respect de sa vie privée et familiale une atteinte disproportionnée au regard des motifs du refus porte la mention " liens personnels et familiaux " ; elle est notamment délivrée :
+II. - La carte de séjour temporaire délivrée à l'étranger qui établit l'existence de liens personnels et familiaux à Mayotte tels que le refus d'autoriser son séjour porterait au respect de sa vie privée et familiale une atteinte disproportionnée au regard des motifs du refus porte la mention "liens personnels et familiaux" ; elle est notamment délivrée :
 
-1° A l'étranger, ne vivant pas en état de polygamie, marié à un ressortissant étranger titulaire d'une carte de séjour temporaire portant la mention " scientifique " à condition que son entrée sur le territoire de Mayotte ait été régulière ;
+1° A l'étranger, ne vivant pas en état de polygamie, marié à un ressortissant étranger titulaire d'une carte de séjour temporaire portant la mention "scientifique" à condition que son entrée sur le territoire de Mayotte ait été régulière ;
 
 2° A l'étranger, ne vivant pas en état de polygamie, qui est père ou mère d'un enfant français et mineur résidant à Mayotte à la condition qu'il exerce même partiellement l'autorité parentale à l'égard de cet enfant ou qu'il subvienne effectivement à ses besoins. Lorsque la qualité de père ou de mère d'un enfant français résulte d'une reconnaissance de l'enfant postérieure à la naissance, la carte de séjour temporaire n'est délivrée à l'étranger que s'il subvient à ses besoins depuis sa naissance ou depuis au moins un an ;
 
@@ -16,12 +16,14 @@ La conclusion d'un pacte civil de solidarité constitue l'un des éléments d'ap
 
 Cette carte donne droit à l'exercice d'une activité professionnelle.
 
-III. - La carte de séjour temporaire délivrée à l'étranger et sous réserve d'une entrée régulière pour lui permettre de mener des travaux de recherche ou de dispenser un enseignement de niveau universitaire porte la mention " scientifique ".
+III. - La carte de séjour temporaire délivrée à l'étranger et sous réserve d'une entrée régulière pour lui permettre de mener des travaux de recherche ou de dispenser un enseignement de niveau universitaire porte la mention "scientifique".
 
-IV. - La carte de séjour temporaire délivrée à un artiste-interprète tel que défini par l'article L. 212-1 du code de la propriété intellectuelle ou à un auteur d'une oeuvre littéraire ou artistique visée à l'article L. 112-2 du même code, titulaire d'un contrat de plus de trois mois passé avec une entreprise ou un établissement dont l'activité principale comporte la création ou l'exploitation d'une oeuvre de l'esprit, porte la mention " profession artistique et culturelle ".
+IV. - La carte de séjour temporaire délivrée à un artiste-interprète tel que défini par l'article L. 212-1 du code de la propriété intellectuelle ou à un auteur d'une oeuvre littéraire ou artistique visée à l'article L. 112-2 du même code, titulaire d'un contrat de plus de trois mois passé avec une entreprise ou un établissement dont l'activité principale comporte la création ou l'exploitation d'une oeuvre de l'esprit, porte la mention "profession artistique et culturelle".
 
 V. - La carte de séjour temporaire délivrée à l'étranger qui, désirant exercer à Mayotte une activité professionnelle soumise à autorisation, justifie l'avoir obtenue porte la mention de cette activité, conformément aux lois et règlements en vigueur.
 
 La carte de séjour temporaire peut être refusée à tout étranger dont la présence constitue une menace pour l'ordre public.
 
 La carte de séjour temporaire peut être retirée à tout employeur, titulaire de cette carte, en infraction avec l'article L. 330-2 du code du travail applicable à Mayotte.
+
+La carte de séjour temporaire peut être retirée à l'étranger passible de poursuites pénales sur le fondement des articles 225-4-1 à 225-4-4, 225-4-7, 225-5 à 225-11, 225-12-5 à 225-12-7, 311-4 (7°) et 312-12-1 du code pénal.

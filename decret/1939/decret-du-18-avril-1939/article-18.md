@@ -1,5 +1,7 @@
 # Article 18
 
-Toute personne ayant été traitée dans un hôpital psychiatrique ne pourra acquérir ou détenir une arme ou des munitions si elle n'est pas en mesure de produire un certificat délivré par un médecin psychiatre dans les conditions et suivant les formes qui sont déterminées par un décret d'application.
+Toute personne physique sollicitant la délivrance ou le renouvellement d'une autorisation d'acquisition ou de détention de matériels, d'armes ou de munitions des 1re et 4e catégories ou faisant une déclaration de détention d'armes des 5e et 7e catégories doit produire un certificat médical attestant que son état de santé physique et psychique n'est pas incompatible avec la détention de ces matériels, armes ou munitions.
 
-Les armes ou munitions détenues par toute personne visée à l'alinéa précédent qui n'aura pas satisfait à la condition prévue audit alinéa seront saisies par l'autorité administrative dans les conditions qui seront fixées par le même décret d'application.
+Dans le cas où la personne mentionnée au précédent alinéa suit ou a suivi un traitement dans un service ou un secteur de psychiatrie d'un établissement de santé, l'autorité administrative lui demande de produire également un certificat médical délivré par un médecin psychiatre.
+
+Un décret en Conseil d'Etat, pris après avis du Conseil national de l'ordre des médecins, fixe les modalités d'application du présent article. Il prévoit notamment les conditions que doivent remplir la délivrance, le renouvellement ou la validation du permis de chasser ou de la licence de tir pour que la présentation de ces documents, au moment de la demande d'autorisation d'acquisition ou de détention, ou de son renouvellement, ou de la déclaration, supplée l'obligation prévue au premier alinéa. Il prévoit également les conditions dans lesquelles le préfet peut vérifier si la personne visée au premier alinéa est ou a été dans le cas visé au deuxième alinéa.
