@@ -1,6 +1,6 @@
 # Article 2
 
-Les fonds d'assurance formation doivent adresser, au plus tard le 30 avril [*date limite*], au secrétariat général de la formation professionnelle (services du premier ministre), les comptes rendus statistiques et financiers établis à l'aide d'imprimés fournis par ce service et produisant les éléments d'information ci-après [*mentions obligatoires*] :
+Les fonds d'assurance formation doivent adresser, au plus tard le 30 avril au délégué à la formation professionnelle (services du premier ministre), les comptes rendus statistiques et financiers établis à l'aide d'imprimés fournis par ce service et produisant les éléments d'information ci-après :
 
 1. Le champ d'intervention du fonds d'assurance formation et le produit des cotisations recueillies auprès des entreprises adhérentes (ou des adhérents) au titre d'une année donnée ;
 
