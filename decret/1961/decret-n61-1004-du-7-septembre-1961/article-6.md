@@ -1,0 +1,3 @@
+# Article 6
+
+Les maîtres de conférences des facultés de l'université de Paris, anciens professeurs titulaires des facultés des universités des départements, qui, par suite de leur classement antérieur, n'ont pu être nommés professeurs titulaires à titre personnel en application de l'article 3 du décret n° 52-1378 du 22 décembre 1952 susvisé, recevront, à compter du 1er mai 1961, le traitement de l'échelon des professeurs de facultés des universités dans lequel ils auraient été reclassés s'ils avaient conservé la qualité de professeur titulaire des facultés des universités des départements à cette date.
