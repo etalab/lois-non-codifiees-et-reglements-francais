@@ -1066,7 +1066,6 @@
 - [Arrêté du 30 mars 1998 (EQUA9800427A)](arrete-du-30-mars-1998-equa9800427a)
 - [Arrêté du 30 mars 1998 (FPPA9810008A)](arrete-du-30-mars-1998-fppa9810008a)
 - [Arrêté du 30 mars 1998 (FPPA9810009A)](arrete-du-30-mars-1998-fppa9810009a)
-- [Arrêté du 30 mars 1998 (MESP9821227A)](arrete-du-30-mars-1998-mesp9821227a)
 - [Arrêté du 30 mars 1998 (MESP9821234A)](arrete-du-30-mars-1998-mesp9821234a)
 - [Arrêté du 30 mars 1998 (MJSK9870041A)](arrete-du-30-mars-1998-mjsk9870041a)
 - [Arrêté du 30 novembre 1998 (AGRR9802429A)](arrete-du-30-novembre-1998-agrr9802429a)
