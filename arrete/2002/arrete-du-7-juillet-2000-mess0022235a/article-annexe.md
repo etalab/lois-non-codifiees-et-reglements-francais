@@ -49,7 +49,7 @@ LISTE DES PORTS SUSCEPTIBLES D'OUVRIR DROIT A L'ALLOCATION DE CESSATION ANTICIPE
 <p>Le Havre</p>
 </td>
 <td valign="top" width="378">
-<p align="center">De 1949 à 1981</p>
+<p align="center">De 1949 à 1992</p>
 </td>
 </tr>
 <tr>
