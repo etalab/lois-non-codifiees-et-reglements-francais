@@ -9,7 +9,6 @@
 - [Article 14](article-14.md)
 - [Article 18](article-18.md)
 - [Article 20](article-20.md)
-- [Article 22](article-22.md)
 - [Article 31](article-31.md)
 - [Article 33](article-33.md)
 - [Article 34](article-34.md)
