@@ -3,6 +3,7 @@
 - [TITRE Ier : Classement des agents.](titre-ier)
 - [TITRE II : Recrutement.](titre-ii)
 - [TITRE III : Rémunération.](titre-iii)
+- [TITRE IV : Notation et avancement.](titre-iv)
 - [TITRE V : Congés](titre-v)
 - [TITRE VI : Horaires de travail - Discipline.](titre-vi)
 - [TITRE VII : Mutation - Cessation de fonctions.](titre-vii)
