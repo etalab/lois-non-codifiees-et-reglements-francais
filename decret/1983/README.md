@@ -61,6 +61,7 @@
 - [Décret n°83-195 du 14 mars 1983](decret-n83-195-du-14-mars-1983)
 - [Décret n°83-303 du 14 avril 1983](decret-n83-303-du-14-avril-1983)
 - [Décret n°83-304 du 14 avril 1983](decret-n83-304-du-14-avril-1983)
+- [Décret n°83-489 du 14 juin 1983](decret-n83-489-du-14-juin-1983)
 - [Décret n°84-187 du 14 mars 1984](decret-n84-187-du-14-mars-1984)
 - [Décret n°86-662 du 14 mars 1986](decret-n86-662-du-14-mars-1986)
 - [Décret n°83-101 du 15 février 1983](decret-n83-101-du-15-fevrier-1983)
