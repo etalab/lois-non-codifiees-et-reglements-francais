@@ -1,6 +1,6 @@
 # Article 1
 
-La direction générale de la gendarmerie nationale comprend, outre le cabinet du directeur général et l'inspecteur technique, directement rattachés au directeur général :
+La direction générale de la gendarmerie nationale comprend, outre le cabinet et le délégué aux réserves directement rattachés au directeur général :
 
 - un service des opérations et de l'emploi articulé en deux sous-directions :
 
@@ -14,8 +14,10 @@ La direction générale de la gendarmerie nationale comprend, outre le cabinet d
 
 - la sous-direction du personnel.
 
-- un service de plans et moyens articulé en deux sous-directions :
+- un service des plans et moyens articulé en trois sous-directions :
 
-- la sous-direction des télécommunications et de l'informatique ;
+- la sous-direction administrative et financière ;
 
-- la sous-direction de la logistique.
+- la sous-direction de l'infrastructure et des équipements ;
+
+- la sous-direction des télécommunications et de l'informatique.
