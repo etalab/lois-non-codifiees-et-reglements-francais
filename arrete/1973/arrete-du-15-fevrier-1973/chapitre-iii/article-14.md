@@ -28,19 +28,17 @@ A. - Ces participations sont indemnisées sur la base de taux forfaitaires commu
 
 Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique sont fixés ainsi qu'il suit :
 
-Taux à compter du 1er janvier 1994 (en francs)
+Taux à compter du 1er juillet 1994 (en francs)
 
 1. Service de garde sur place :
 
-Garde   1 334
+Garde   1 400
 
-Demi-garde   667
+Demi-garde   700
 
-De 18 h 30 à 1 heure du matin  617
+De 18 h 30 à 1 heure du matin  650
 
-De 1 heure du matin à 8 h 30  717
-
-De jour
+De 1 heure du matin à 8 h 30  750
 
 2. Service de garde par astreinte :
 
@@ -50,13 +48,13 @@ a) Indemnité forfaitaire de base  216
 
 Par demi-astreinte  108
 
-b) Indemnité due pour chaque déplacement  267
+b) Indemnité due pour chaque déplacement  300
 
 Le montant cumulé des indemnités perçues ne peut excéder :
 
-Au titre d'une demi-astreinte opérationnelle   667
+Au titre d'une demi-astreinte opérationnelle   700
 
-Au titre d'une astreinte opérationnelle   1 334
+Au titre d'une astreinte opérationnelle   1 400
 
 Astreinte de sécurité :
 
@@ -68,7 +66,7 @@ Pour quatre semaines   1 120
 
 Pour cinq semaines   1 400
 
-b) Indemnité due pour chaque déplacement  267
+b) Indemnité due pour chaque déplacement  300
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
@@ -76,13 +74,13 @@ Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excé
 
 a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
-b) Indemnité due pour chaque déplacement  267
+b) Indemnité due pour chaque déplacement  300
 
 4. Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou astreinte à domicile ne peut excéder :
 
-Pour quatre semaines   13 340
+Pour quatre semaines   14 000
 
-Pour cinq semaines   16 675
+Pour cinq semaines   17 500
 
 Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 

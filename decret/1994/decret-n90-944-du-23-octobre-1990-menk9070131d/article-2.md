@@ -1,0 +1,5 @@
+# Article 2
+
+Le taux moyen annuel servant de base au calcul des crédits pour l'attribution de cette indemnité est fixé par arrêté conjoint du ministre chargé de la fonction publique, du ministre chargé du budget et du ministre chargé de la jeunesse et des sports.
+
+Les attributions individuelles de l'indemnité prévue à l'article 1er ci-dessus sont déterminées par le ministre chargé de la jeunesse et des sports s'agissant des directeurs régionaux de la jeunesse, des sports et des loisirs, des directeurs régionaux adjoints de la jeunesse, des sports et des loisirs et des directeurs départementaux de la jeunesse, des sports et des loisirs et par décision des directeurs régionaux de la jeunesse, des sports et des loisirs s'agissant des inspecteurs de la jeunesse, des sports et des loisirs et des inspecteurs principaux de la jeunesse, des sports et des loisirs affectés dans les services déconcentrés et dans les établissements publics sous tutelle du ministère chargé de la jeunesse et des sports. Elles sont fixées dans la limite comprise entre 80 p. 100 et 120 p. 100 du taux moyen annuel défini au premier alinéa ci-dessus.
