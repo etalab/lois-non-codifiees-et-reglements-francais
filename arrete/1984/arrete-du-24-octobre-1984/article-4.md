@@ -1,5 +1,3 @@
 # Article 4
 
-Le taux applicable à chaque exploitation ou entreprise [*agricole*] visé à l'article 1er est un taux mixte obtenu par l'addition d'une fraction égale à 20 pour 100 de son taux propre et d'une fraction égale à 80 pour 100 du taux de la catégorie de risque dans laquelle elle est classée [*mode de calcul*].
-
-Si l'exploitation ou l'entreprise comporte plusieurs établissements, chaque caisse de mutualité sociale agricole détermine, dans les conditions définies à l'article 5, le taux propre applicable à chacun des établissements situés dans sa circonscription, en regroupant le cas échéant les établissements relevant de la même catégorie d'activités.
+Est considérée comme une présomption de preuve de la conformité aux normes françaises de l'annexe A la présence sur le produit ou appareil de la marque nationale NF de conformité aux normes, apposée dans les conditions fixées par le règlement particulier correspondant, et la présentation de la décision d'admission à la marque NF, délivrée par l'Afnor ou à défaut, la présentation d'une attestation d'agrément en cours de validité délivrée par le ministre responsable de la ressource, après avis du directeur général de l'Afnor, et après un contrôle technique réalisé selon les modalités prévues à l'article 5.

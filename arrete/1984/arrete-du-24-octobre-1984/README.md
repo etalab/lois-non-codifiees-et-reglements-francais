@@ -1,4 +1,4 @@
-# Arrêté du 24 octobre 1984 fixant les modalités de la tarification individualisée du régime de l'assurance obligatoire des salariés agricoles contre les accidents du travail et les maladies professionnelles
+# Arrêté du 24 octobre 1984 portant mise en application obligatoire de normes
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
