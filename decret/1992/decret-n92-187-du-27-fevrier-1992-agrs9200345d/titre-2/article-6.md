@@ -21,3 +21,5 @@ b) Lorsque les superficies sont libérées par des exploitations d'une dimension
 c) Ou dans le but de faciliter la constitution des emprises des grands ouvrages linéaires en application de l'article 10 de la loi du 8 août 1962 susvisée.
 
 Dans le cas où la superficie cédée comporte des bâtiments d'exploitation, ceux-ci sont cédés concomitamment avec les terres en cause. Toutefois, si cette cession des bâtiments ne peut être réalisée parce qu'ils sont attenants à la maison d'habitation du demandeur ou parce que le repreneur des terres ne souhaite pas en bénéficier, il appartient au préfet d'apprécier, au cas par cas, s'il y a lieu, éventuellement, d'accorder l'allocation de préretraite compte tenu de la qualité restructurante de l'opération.
+
+Pour les exploitations spécialisées hors-sol définies à l'article 13, les bâtiments et équipements affectés aux productions hors-sol doivent être cédés lors de la cession des terres, dans les mêmes conditions que celles-ci. Toutefois, en cas d'impossibilité de reprise de ces bâtiments ou équipements, ceux-ci sont désaffectés dans des conditions fixées par décision préfectorale.
