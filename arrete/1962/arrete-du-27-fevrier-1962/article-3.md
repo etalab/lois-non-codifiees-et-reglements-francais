@@ -97,6 +97,12 @@ Ces indemnités sont attribuées dans la double limite :
 <td> : Inspecteur de salubrité (1)       (             :              :</td>
 </tr>
 <tr>
+<td> : Sous-archiviste chef              (     4.112   :      8.224   :</td>
+</tr>
+<tr>
+<td> : Sous-bibliothécaire chef          )             :              :</td>
+</tr>
+<tr>
 <td> :-----------------------------------:-------------:--------------:</td>
 </tr>
 <tr>
