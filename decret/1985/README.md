@@ -130,7 +130,6 @@
 - [Décret n°85-1243 du 26 novembre 1985](decret-n85-1243-du-26-novembre-1985)
 - [Décret n°85-1244 du 26 novembre 1985](decret-n85-1244-du-26-novembre-1985)
 - [Décret n°85-1250 du 26 novembre 1985](decret-n85-1250-du-26-novembre-1985)
-- [Décret n°85-1378 du 26 décembre 1985](decret-n85-1378-du-26-decembre-1985)
 - [Décret n°85-1382 du 26 décembre 1985](decret-n85-1382-du-26-decembre-1985)
 - [Décret n°85-475 du 26 avril 1985](decret-n85-475-du-26-avril-1985)
 - [Décret n°85-476 du 26 avril 1985](decret-n85-476-du-26-avril-1985)
