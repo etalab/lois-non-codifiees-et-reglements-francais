@@ -1,3 +1,5 @@
 # Article 8
 
-Par dérogation aux dispositions du deuxième alinéa de l'article 7 du décret du 28 mai 1982 susvisé, la durée de la réduction ou de la prorogation du mandat des membres des commissions administratives paritaires régies par le présent décret peut être portée à deux ans, en vue de permettre le renouvellement simultané de toutes les commissions administratives paritaires concernées, sans que la fin du mandat, objet de la réduction ou de la prorogation, puisse être postérieure au 28 février 1995.
+Il est créé une commission administrative paritaire placée respectivement auprès des vice-recteurs de Nouvelle-Calédonie et de Mayotte.
+
+Les dispositions applicables aux commissions administratives paritaires académiques mentionnées au titre II sont applicables aux commissions administratives paritaires prévues à l'alinéa précédent.

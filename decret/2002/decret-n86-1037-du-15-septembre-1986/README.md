@@ -3,4 +3,5 @@
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Règles de commercialisation, distribution à titre gratuit ou détention et d'étiquetage](titre-ii)
 - [Titre III : Dispositions communes.](titre-iii)
+- [Article 23](article-23.md)
 - [Annexes](annexes)
