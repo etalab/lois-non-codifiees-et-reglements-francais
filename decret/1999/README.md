@@ -148,7 +148,6 @@
 - [Décret n°99-76 du 5 février 1999 (EQUK9900096D)](decret-n99-76-du-5-fevrier-1999-equk9900096d)
 - [Décret n°99-77 du 5 février 1999 (EQUK9900097D)](decret-n99-77-du-5-fevrier-1999-equk9900097d)
 - [Décret n°99-78 du 5 février 1999 (MCCB9800847D)](decret-n99-78-du-5-fevrier-1999-mccb9800847d)
-- [Décret n°99-79 du 5 février 1999 (MCCT9900011D)](decret-n99-79-du-5-fevrier-1999-mcct9900011d)
 - [Décret n°99-858 du 5 octobre 1999 (EQUU9901042D)](decret-n99-858-du-5-octobre-1999-equu9901042d)
 - [Décret n°99-861 du 5 octobre 1999 (INTC9900234D)](decret-n99-861-du-5-octobre-1999-intc9900234d)
 - [Décret n°99-352 du 5 mai 1999 (INTD9900095D)](decret-n99-352-du-5-mai-1999-intd9900095d)

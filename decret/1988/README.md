@@ -144,7 +144,6 @@
 - [Décret n°69-389 du 18 avril 1969](decret-n69-389-du-18-avril-1969)
 - [Décret n°88-1052 du 18 novembre 1988 (BUDF8810091D)](decret-n88-1052-du-18-novembre-1988-budf8810091d)
 - [Décret n°88-274 du 18 mars 1988 (EQUC8800061D)](decret-n88-274-du-18-mars-1988-equc8800061d)
-- [Décret n°88-59 du 18 janvier 1988 (ASEP8701793D)](decret-n88-59-du-18-janvier-1988-asep8701793d)
 - [Décret n°88-821 du 18 juillet 1988 (MENX8800104D)](decret-n88-821-du-18-juillet-1988-menx8800104d)
 - [Décret n°88-822 du 18 juillet 1988 (TEFX8800094D)](decret-n88-822-du-18-juillet-1988-tefx8800094d)
 - [Décret n°88-823 du 18 juillet 1988 (MCCX8800098D)](decret-n88-823-du-18-juillet-1988-mccx8800098d)

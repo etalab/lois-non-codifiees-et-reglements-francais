@@ -169,7 +169,6 @@
 - [Arrêté du 4 mai 1995 (JUSF9550039A)](arrete-du-4-mai-1995-jusf9550039a)
 - [Arrêté du 4 mai 1995 (MAEA9520013A)](arrete-du-4-mai-1995-maea9520013a)
 - [Arrêté du 4 mai 1995 (MAEA9520216A)](arrete-du-4-mai-1995-maea9520216a)
-- [Arrêté du 4 mai 1995 (MCCE9500238A)](arrete-du-4-mai-1995-mcce9500238a)
 - [Arrêté du 4 mai 1995 (MJSK9570053A)](arrete-du-4-mai-1995-mjsk9570053a)
 - [Arrêté du 4 mai 1995 (MJSK9570054A)](arrete-du-4-mai-1995-mjsk9570054a)
 - [Arrêté du 4 mai 1995 (TEFE9500506A)](arrete-du-4-mai-1995-tefe9500506a)

@@ -117,7 +117,6 @@
 - [Décret n°87-1009 du 10 décembre 1987 (MAEJ8730056D)](decret-n87-1009-du-10-decembre-1987-maej8730056d)
 - [Décret n°87-1010 du 10 décembre 1987 (MAEJ8730058D)](decret-n87-1010-du-10-decembre-1987-maej8730058d)
 - [Décret n°87-168 du 10 mars 1987 (ECOP8700023D)](decret-n87-168-du-10-mars-1987-ecop8700023d)
-- [Décret n°87-268 du 10 avril 1987 (AGRA8700497D)](decret-n87-268-du-10-avril-1987-agra8700497d)
 - [Décret n°87-647 du 10 août 1987 (PRMX8798343D)](decret-n87-647-du-10-aout-1987-prmx8798343d)
 - [Décret n°87-649 du 10 août 1987 (JUSB8710358D)](decret-n87-649-du-10-aout-1987-jusb8710358d)
 - [Décret n°87-650 du 10 août 1987 (JUSB8710359D)](decret-n87-650-du-10-aout-1987-jusb8710359d)
