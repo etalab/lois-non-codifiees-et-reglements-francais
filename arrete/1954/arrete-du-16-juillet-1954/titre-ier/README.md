@@ -5,6 +5,7 @@
 - [Paragraphe 3 : Dispositif d'éclairage de la plaque d'immatriculation arrière](paragraphe-3)
 - [Paragraphe 4 : Signal de freinage (feu stop)](paragraphe-4)
 - [Paragraphe 5 : Indicateurs de changement de direction](paragraphe-5)
+- [Paragraphe 5 a : Signal de détresse.](paragraphe-5-a)
 - [Paragraphe 6 : Dispositifs réfléchissants](paragraphe-6)
 - [Paragraphe 7 : Signal vert](paragraphe-7)
 - [Paragraphe 8 : Feux antibrouillard](paragraphe-8)
