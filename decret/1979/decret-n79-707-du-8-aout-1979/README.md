@@ -5,6 +5,7 @@
 - [Article 2](article-2.md)
 - [SECTION 2 : Opposition entre les mains de tiers détenteurs.](section-2)
 - [Article 3](article-3.md)
+- [SECTION 3 : Procédure sommaire.](section-3)
 - [Article 4](article-4.md)
 - [SECTION 4 : Dispositions communes.](section-4)
 - [Article 5](article-5.md)
