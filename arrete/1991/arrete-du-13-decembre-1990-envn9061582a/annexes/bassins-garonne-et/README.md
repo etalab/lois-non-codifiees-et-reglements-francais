@@ -1,3 +1,0 @@
-# BASSINS GARONNE ET DORDOGNE, CHARENTE, : ADOUR NIVE NIVELLE.
-
-- [Article ANNEXE I](article-annexe-i.md)

@@ -156,7 +156,6 @@
 - [Décret n°88-865 du 11 août 1988 (TRSX8810712D)](decret-n88-865-du-11-aout-1988-trsx8810712d)
 - [Décret n°89-477 du 11 juillet 1989 (ECOZ8900025D)](decret-n89-477-du-11-juillet-1989-ecoz8900025d)
 - [Décret n°89-558 du 11 août 1989 (PRMG8970108D)](decret-n89-558-du-11-aout-1989-prmg8970108d)
-- [Décret n°89-559 du 11 août 1989 (INDD8900058D)](decret-n89-559-du-11-aout-1989-indd8900058d)
 - [Décret n°89-561 du 11 août 1989 (INTB8900238D)](decret-n89-561-du-11-aout-1989-intb8900238d)
 - [Décret n°89-564 du 11 août 1989 (SPSS8900957D)](decret-n89-564-du-11-aout-1989-spss8900957d)
 - [Décret n°89-565 du 11 août 1989 (SPSS8900958D)](decret-n89-565-du-11-aout-1989-spss8900958d)
