@@ -2,7 +2,7 @@
 
 I. et II. Paragraphes modificateurs
 
-III. - Les contrats mentionnés au premier alinéa du I de l'article 125-0 A du code général des impôts peuvent, par avenant conclu avant le 1er janvier 1999, être transformés en contrats mentionnés au septième alinéa du I du même article. Cette transformation n'entraîne pas les conséquences fiscales du dénouement du contrat qui conserve son antériorité.
+III. - Les contrats mentionnés au premier alinéa du I de l'article 125-0 A du code général des impôts peuvent, par avenant conclu avant le 1er juillet 1999, être transformés en contrats mentionnés au septième alinéa du I du même article. Cette transformation n'entraîne pas les conséquences fiscales du dénouement du contrat qui conserve son antériorité.
 
 IV. à VII. Paragraphes modificateurs
 

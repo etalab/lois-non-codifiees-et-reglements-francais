@@ -1,10 +1,10 @@
 # Article 37
 
-Les agents non titulaires des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 précitée, âgés de cinquante-huit ans au moins, peuvent accéder, sur leur demande et sous réserve des nécessités de la continuité et du fonctionnement du service, au congé de fin d'activité s'ils remplissent les conditions suivantes :
+Les agents non titulaires des établissements mentionnés à l'article 2 de la loi n° 86-33 du 9 janvier 1986 précitée, âgés de cinquante six ans au moins, peuvent accéder, sur leur demande et sous réserve des nécessités de la continuité et du fonctionnement du service, au congé de fin d'activité s'ils remplissent les conditions suivantes :
 
 1° Ne pas bénéficier d'un congé non rémunéré ;
 
-2° Justifier de cent soixante trimestres validés au titre des régimes de base obligatoires d'assurance vieillesse et avoir accompli au moins vingt-cinq années de services militaires ou civils effectifs en qualité de fonctionnaire ou d'agent public.
+2° Justifier de cent soixante trimestres validés au titre des régimes de base obligatoires d'assurance vieillesse et avoir accompli au moins quinze années de services militaires ou civils effectifs en qualité de fonctionnaire ou d'agent public.
 
 La condition d'âge n'est pas opposable aux agents qui justifient de cent soixante-douze trimestres validés au titre des régimes mentionnés ci-dessus et de quinze années de services militaires ou civils effectifs en qualité de fonctionnaire ou d'agent public.
 

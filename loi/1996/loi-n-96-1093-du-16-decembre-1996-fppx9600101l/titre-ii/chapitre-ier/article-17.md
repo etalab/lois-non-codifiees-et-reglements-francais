@@ -1,6 +1,6 @@
 # Article 17
 
-Dans cette situation, les agents non titulaires de l'Etat et de ses établissements publics à caractère administratif perçoivent un revenu de remplacement égal à 70 p. 100 de leur salaire brut soumis à cotisations sociales obligatoires, calculé sur la moyenne des salaires perçus au cours des six derniers mois précédant leur départ en congé de fin d'activité. Pour les agents autorisés à exercer leurs fonctions à temps partiel ou bénéficiaires d'un congé de grave maladie ainsi que pour ceux mentionnés à l'avant-dernier alinéa de l'article 16, le revenu de remplacement est égal à 70 p. 100 du salaire brut à temps plein.
+Dans cette situation, les agents non titulaires de l'Etat et de ses établissements publics à caractère administratif perçoivent un revenu de remplacement égal à 70 p. 100 de leur salaire brut soumis à cotisations sociales obligatoires, calculé sur la moyenne des salaires perçus au cours des douze derniers mois précédant leur départ en congé de fin d'activité. Pour les agents autorisés à exercer leurs fonctions à temps partiel ou bénéficiaires d'un congé de grave maladie ainsi que pour ceux mentionnés à l'avant-dernier alinéa de l'article 16, le revenu de remplacement est égal à 70 p. 100 du salaire brut à temps plein.
 
 Le revenu de remplacement ne peut être inférieur à un minimum fixé par décret. Il évolue dans les mêmes conditions que le salaire de l'intéressé en application de son contrat.
 

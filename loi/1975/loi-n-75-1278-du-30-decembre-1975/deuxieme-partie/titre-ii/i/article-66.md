@@ -10,4 +10,6 @@ I. Le Gouvernement publiera chaque année, dans le fascicule "Voies et moyens" a
 
 - montants recouvrés au cours de l'année.
 
+Les résultats du contrôle fiscal externe sont détaillés par région à partir de la loi de finances pour 2000, et par région et par département de plus d'un million d'habitants à partir de la loi de finances pour 2001, en distinguant les droits simples et les pénalités, ainsi que le recouvrement des droits rappelés et les conséquences de la juridiction gracieuse sur le non-recouvrement de ces droits.
+
 II. La première publication concernera les résultats de l'année 1976.

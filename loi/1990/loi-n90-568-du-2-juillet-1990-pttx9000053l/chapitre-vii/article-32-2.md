@@ -2,7 +2,7 @@
 
 En cas de cession d'une participation de l'Etat dans le capital de France Télécom suivant les procédures du marché financier, un avantage spécifique pourra être accordé aux agents affectés à la direction générale des télécommunications qui ont fait valoir leur droit à la retraite avant le 1er janvier 1991 et qui peuvent se prévaloir d'une ancienneté supérieure à cinq ans dans un service relevant de cette direction.
 
-L'avantage spécifique qui peut leur être accordé consiste en un remboursement d'une partie du prix de cession des titres qu'ils auront acquis dans le cadre de la procédure d'offre publique à prix ferme. Le taux de ce remboursement ne peut être supérieur à 20 % de ce prix de cession.
+L'avantage spécifique qui peut leur être accordé consiste en un remboursement d'une partie du prix de cession des titres qu'ils auront acquis dans le cadre de toute offre mentionnée à l'article 13 de la loi n° 86-912 du 6 août 1986 relative aux modalités des privatisations. Le taux de ce remboursement ne peut être supérieur à 20 % de ce prix de cession.
 
 Les titres acquis par les bénéficiaires de l'avantage prévu à l'alinéa précédent ne peuvent être cédés avant trois ans à compter de la date d'acquisition.
 

@@ -6,7 +6,7 @@ Le ministre chargé du logement est ordonnateur principal de ce compte qui retra
 
 1° En recettes :
 
-- les versements prévus à l'article 45 de la loi de finances pour 1998 (n° 97-1269 du 30 décembre 1997) ;
+- les versements prévus en 1999 à l'article 56 de la loi de finances pour 1999 (n° 98-1266 du 30 décembre 1998) ;
 
 - les recettes diverses et accidentelles ;
 
