@@ -1,6 +1,7 @@
 # 1941
 
 - [Loi du 11 octobre 1941](loi-du-11-octobre-1941)
+- [Loi du 12 avril 1941](loi-du-12-avril-1941)
 - [Loi du 15 février 1941](loi-du-15-fevrier-1941)
 - [Loi du 19 mai 1941](loi-du-19-mai-1941)
 - [Loi du 22 mars 1941](loi-du-22-mars-1941)
