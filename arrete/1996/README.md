@@ -780,7 +780,6 @@
 - [Arrêté du 20 mars 1996 (TAST9610465A)](arrete-du-20-mars-1996-tast9610465a)
 - [Arrêté du 20 mars 1998 (MESG9810119A)](arrete-du-20-mars-1998-mesg9810119a)
 - [Arrêté du 20 novembre 1995 (DEFG9502261A)](arrete-du-20-novembre-1995-defg9502261a)
-- [Arrêté du 20 novembre 1996 (EQUH9600588A)](arrete-du-20-novembre-1996-equh9600588a)
 - [Arrêté du 20 novembre 1996 (EQUP9601521A)](arrete-du-20-novembre-1996-equp9601521a)
 - [Arrêté du 20 novembre 1996 (MENU9603247A)](arrete-du-20-novembre-1996-menu9603247a)
 - [Arrêté du 20 novembre 1996 (MENY9603173A)](arrete-du-20-novembre-1996-meny9603173a)
