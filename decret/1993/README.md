@@ -45,6 +45,8 @@
 - [Décret n°73-364 du 12 mars 1973](decret-n73-364-du-12-mars-1973)
 - [Décret n°93-201 du 12 février 1993 (BUDF9200045D)](decret-n93-201-du-12-fevrier-1993-budf9200045d)
 - [Décret n°93-37 du 12 janvier 1993 (JUSG9260087D)](decret-n93-37-du-12-janvier-1993-jusg9260087d)
+- [Décret n°93-43 du 12 janvier 1993 (SPSS9303276D)](decret-n93-43-du-12-janvier-1993-spss9303276d)
+- [Décret n°93-44 du 12 janvier 1993 (PTTR9200315D)](decret-n93-44-du-12-janvier-1993-pttr9200315d)
 - [Décret n°59-1193 du 13 octobre 1959](decret-n59-1193-du-13-octobre-1959)
 - [Décret n°93-1103 du 14 septembre 1993 (MENF9305536D)](decret-n93-1103-du-14-septembre-1993-menf9305536d)
 - [Décret n°91-451 du 14 mai 1991 (TEFT9103515D)](decret-n91-451-du-14-mai-1991-teft9103515d)

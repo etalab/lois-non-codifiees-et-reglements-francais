@@ -1,0 +1,3 @@
+# Article 7
+
+La personne qui se propose de conclure un contrat devra utiliser des critères objectifs pour sélectionner les soumissionnaires ou pour l'attribution du contrat. En particulier, pour attribuer le contrat, la personne qui se propose de le conclure ne peut se fonder que sur le prix le plus bas ou sur différents critères permettant de déterminer l'offre économiquement la plus avantageuse. Ces critères peuvent être notamment le prix, le délai d'exécution, le coût d'utilisation, la rentabilité, la valeur technique, la sécurité, l'assurance de la qualité. Ces critères doivent être mentionnés dans l'appel d'offres et le cahier des charges.
