@@ -39,7 +39,6 @@
 - [Décret n°69-1011 du 17 octobre 1969](decret-n69-1011-du-17-octobre-1969)
 - [Décret n°69-260 du 18 mars 1969](decret-n69-260-du-18-mars-1969)
 - [Décret n°69-697 du 18 juin 1969](decret-n69-697-du-18-juin-1969)
-- [Décret n°69-1047 du 19 novembre 1969](decret-n69-1047-du-19-novembre-1969)
 - [Décret n°69-1048 du 19 novembre 1969](decret-n69-1048-du-19-novembre-1969)
 - [Décret n°69-679 du 19 juin 1969](decret-n69-679-du-19-juin-1969)
 - [Décret n°69-689 du 19 juin 1969](decret-n69-689-du-19-juin-1969)
