@@ -46,9 +46,7 @@ Directeur régional des affaires culturelles mentionné dans le décret n° 78-9
 
 Directeur de la manufacture nationale de Sèvres mentionné dans le décret n° 63-424 du 22 avril 1963 ;
 
-Administrateur général du Mobilier national et des manufactures
-
-nationales des Gobelins, de Beauvais et de la Savonnerie mentionné dans le décret n° 64-264 du 20 mars 1964, modifié par le décret n° 65-677 du 11 août 1965.
+Administrateur général du Mobilier national et des manufactures nationales des Gobelins, de Beauvais et de la Savonnerie mentionné dans le décret n° 64-264 du 20 mars 1964, modifié par le décret n° 65-677 du 11 août 1965.
 
 Conservateur régional des monuments historiques mentionné dans le décret n° 81-544 du 12 mai 1981.
 
@@ -82,7 +80,7 @@ Inspecteur général et inspecteur de l'agriculture, mentionnés dans le décret
 
 Directeur d'école nationale vétérinaire, mentionné dans le décret n° 69-833 du 8 septembre 1969.
 
-Directeur et directeur adjoint de lycée agricole, directeur de collège agricole, mentionnés dans le décret n° 65-383 du 20 mai 1965.
+Personnels de direction de 1re catégorie, 1re classe, 2e classe ou 3e classe ; personnels de direction de 2e catégorie, 1re classe, 2e classe, 3e classe ou 4e classe, mentionnés dans le décret n° 91-921 du 12 septembre 1991.
 
 Directeur et sous-directeur de l'école nationale supérieure féminine d'agronomie, de l'école nationale de formation agronomique et de l'institut nationale agricole et rural de la montagne, mentionnés dans le décret n° 68-537 du 30 mai 1968 modifié. (1).
 
@@ -92,9 +90,7 @@ Sous-directeurs des écoles nationales d'ingénieurs des travaux du ministère d
 
 Directeur de l'école nationale supérieure des industries agricoles et alimentaires, mentionné dans le décret n° 66-314 du 17 mai 1966.
 
-Directeur général adjoint, directeur à la caisse nationale de
-
-crédit agricole, ainsi que secrétaire général (pour la période du 14 mars 1964 au 13 mars 1973) et secrétaire général adjoint (pour la période du 14 mars 1964 au 26 novembre 1968) à la caisse nationale de crédit agricole, mentionnés à l'article 713 du code rural modifié par le décret n° 64-242 du 14 mars 1964, le décret n° 65-946 du 9 novembre 1965, le décret n° 68-1042 du 27 novembre 1968 et le décret n° 73-356 du 14 mars 1973.
+Directeur général adjoint, directeur à la caisse nationale de crédit agricole, ainsi que secrétaire général (pour la période du 14 mars 1964 au 13 mars 1973) et secrétaire général adjoint (pour la période du 14 mars 1964 au 26 novembre 1968) à la caisse nationale de crédit agricole, mentionnés à l'article 713 du code rural modifié par le décret n° 64-242 du 14 mars 1964, le décret n° 65-946 du 9 novembre 1965, le décret n° 68-1042 du 27 novembre 1968 et le décret n° 73-356 du 14 mars 1973.
 
 Vice-président, président de section et secrétaire général du conseil général du génie rural, des eaux et forêts, mentionnés dans le décret n° 76-705 du 23 juillet 1976.
 
@@ -172,9 +168,7 @@ Directeur ou directrice d'école maternelle comptant au moins cinq classes, dire
 
 Directeur de l'office national d'information sur les enseignements et les professions, mentionné dans le décret n° 76-966 du 21 octobre 1976 ;
 
-Directeur adjoint de l'office national d'information sur les enseignements et les professions, mentionné dans le décret n° 76-966
-
-du 21 octobre 1976 ;
+Directeur adjoint de l'office national d'information sur les enseignements et les professions, mentionné dans le décret n° 76-966 du 21 octobre 1976 ;
 
 Directeur du centre d'études et de recherches sur les qualifications, mentionné dans le décret n° 76-966 du 21 octobre 1976.
 
@@ -226,9 +220,7 @@ Inspecteur général des transports et des travaux publics, mentionné dans le d
 
 Inspecteur général de l'aviation civile, mentionné dans le décret n° 61-1356 du 7 décembre 1961.
 
-Directeur de l'école nationale de l'aviation civile, chef du centre d'expérimentation de la navigation aérienne, adjoint au
-
-directeur de la navigation aérienne et adjoint au chef du service de la formation aéronautique, mentionnés dans le décret n° 71-234 du 30 mars 1971.
+Directeur de l'école nationale de l'aviation civile, chef du centre d'expérimentation de la navigation aérienne, adjoint au directeur de la navigation aérienne et adjoint au chef du service de la formation aéronautique, mentionnés dans le décret n° 71-234 du 30 mars 1971.
 
 Adjoint au directeur de la météorologie nationale chef des services climatologique et hydrométéorologique et directeur de l'école de la météorologie, mentionnés dans le décret n° 70-74 du 22 janvier 1970.
 
@@ -270,8 +262,6 @@ Chef de service régional (direction générale des postes et directions relevan
 
 Chef de service départemental (direction générale des postes et directions relevant des services généraux) mentionné dans le décret n° 79-496 du 20 juin 1979 ;
 
-Directeur d'établissement principal de 1re et de 2e classe des postes et directeur d'établissement principal de 1re et de 2e classe des télécommunications mentionnés dans les décrets n° 78-934 et
-
-n° 78-935 du 30 août 1978 modifiant respectivement les décrets n° 76-118 et n° 76-119 du 29 janvier 1976.
+Directeur d'établissement principal de 1re et de 2e classe des postes et directeur d'établissement principal de 1re et de 2e classe des télécommunications mentionnés dans les décrets n° 78-934 et n° 78-935 du 30 août 1978 modifiant respectivement les décrets n° 76-118 et n° 76-119 du 29 janvier 1976.
 
 Chef de service de comptabilité des postes et télécommunications, mentionné dans les décrets n° 89-264 du 26 avril 1989 et n° 89-334 du 25 mai 1989.

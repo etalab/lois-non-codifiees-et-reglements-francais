@@ -1,0 +1,3 @@
+# Article 9
+
+Lorsque des travaux d'aménagement, de transformation d'un emplacement de travail ou d'essais, ou lorsque des opérations de mise en place, de montage et de démontage de matériels lourds ou encombrants nécessitent l'intervention de personnes non autorisées au sens de l'article 3 du présent arrêté, les points d'alimentation en énergie dont les parties actives ne présentent pas par elles-mêmes le degré minimal de protection IP 2 X ou IP XXB en B.T.A. et B.T.B. ou IP 3 X ou IP XXC au sens de la norme susvisée, en H.T.A. et H.T.B., doivent faire l'objet des opérations visées à l'article 44 du titre susvisé.
