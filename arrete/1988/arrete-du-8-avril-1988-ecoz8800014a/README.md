@@ -1,4 +1,4 @@
-# TITRE Ier : REGLES D'ORGANISATION ET DE FONCTIONNEMENT.
+# Arrêté du 8 avril 1988 fixant la date et les conditions dans lesquelles sera exécutée une application pilote en vue du prochain recensement général de la population
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,4 +8,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 8 bis](article-8-bis.md)

@@ -1,0 +1,3 @@
+# Article 2
+
+Les travailleurs salariés titulaires d'un livret d'épargne institué par l'article 80 de la loi n° 76-1232 du 29 décembre 1976, ou leur conjoint, qui suivent un stage agréé par l'Etat ou une région au titre de la rémunération des stagiaires et dont la demande de prise en charge du stage n'a pas reçu l'accord de l'un des organismes mentionnés à l'article L. 951-3 du code du travail, perçoivent une rémunération mensuelle égale à leur salaire antérieur, déterminée suivant les conditions prévues au deuxième alinéa du 1° de l'article R. 961-6 du même code dans les limites du plancher et du plafond fixés à l'article 14 ci-après.

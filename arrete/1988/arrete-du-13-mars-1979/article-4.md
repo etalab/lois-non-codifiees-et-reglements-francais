@@ -1,0 +1,3 @@
+# Article 4
+
+Révision des prix de vente - S'il est constaté qu'à la date de conclusion de la vente d'un logement ou de la cession des parts ou actions si la vocation à la propriété du logement est acquise par cette voie, le dernier indice bâtiment BT 01 publié est supérieur au dernier indice publié à la date du dépôt du dossier de demande de décision favorable d'octroi du prêt, le prix de vente, toutes taxes comprises, à la date de la vente ou de la cession des parts est au plus égal au prix de vente prévisionnel du logement majoré d'un pourcentage égal aux trois quarts de la variation constatée.

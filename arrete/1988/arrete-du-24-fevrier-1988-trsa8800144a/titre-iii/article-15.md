@@ -1,0 +1,3 @@
+# Article 15
+
+Les fabricants d'équipements fabriqués hors de France dans un pays avec lequel les autorités françaises ont un accord bi ou multilatéral relatif aux certificats de navigabilité ou un accord de portée similaire, et destinés à être montés sur des aéronefs civils, peuvent demander au ministre chargé de l'aviation civile de leur délivrer une approbation de la conception de ces équipements vis-à-vis de conditions techniques notifiées. Cette approbation donne lieu à la remise au postulant d'un document intitulé Qualification aviation civile pour importation (Q.A.C.I.). Cette approbation a pour but de faciliter la prise en compte du niveau de qualité d'un équipement dans le cadre d'un processus de certification avion.
