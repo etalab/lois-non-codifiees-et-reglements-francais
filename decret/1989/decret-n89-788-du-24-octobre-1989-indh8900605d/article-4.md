@@ -22,4 +22,4 @@ Les immeubles et les droits réels immobiliers décrits dans cette annexe doiven
 
 9. Un mémoire exposant les dangers que peut présenter l'exploitation de l'ouvrage et justifiant les mesures prises pour en réduire la probabilité d'occurrence et les effets.
 
-Toutefois, les informations couvertes par les dispositions relatives à la protection du secret industriel peuvent être disjointes du dossier de déclaration et transmises par le déclarant sous pli séparé cacheté. Mention de cet envoi séparé est alors faite dans le dossier de déclaration.
+Toutefois les informations classifiées au titre de la protection du secret de la défense nationale et celles couvertes par les dispositions relatives à la protection du secret industriel peuvent être disjointes du dossier de déclaration et transmises par le déclarant sous pli séparé cacheté. Mention de cet envoi séparé est alors faite dans le dossier de déclaration.
