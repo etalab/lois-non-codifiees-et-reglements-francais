@@ -8,4 +8,4 @@ Le consistoire supérieur est composé :
 
 3° d'un professeur du séminaire, délégué par ce corps ;
 
-4° du président du directoire, qui est de droit président du consistoire supérieur, et du membre laïque du directoire nommé par le ministre de l'intérieur.
+4° du président du directoire, qui est de droit président du consistoire supérieur, et du membre laïque du directoire nommé par le Gouvernement.
