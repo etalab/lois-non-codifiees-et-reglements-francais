@@ -1166,7 +1166,6 @@
 - [Arrêté du 29 juillet 1993 (TEFE9300864A)](arrete-du-29-juillet-1993-tefe9300864a)
 - [Arrêté du 29 juin 1993 (AGRG9301400A)](arrete-du-29-juin-1993-agrg9301400a)
 - [Arrêté du 29 juin 1993 (AGRG9301401A)](arrete-du-29-juin-1993-agrg9301401a)
-- [Arrêté du 29 juin 1993 (AGRS9301184A)](arrete-du-29-juin-1993-agrs9301184a)
 - [Arrêté du 29 juin 1993 (ENVP9320241A)](arrete-du-29-juin-1993-envp9320241a)
 - [Arrêté du 29 juin 1993 (ENVP9320242A)](arrete-du-29-juin-1993-envp9320242a)
 - [Arrêté du 29 juin 1993 (INDA9300559A)](arrete-du-29-juin-1993-inda9300559a)
