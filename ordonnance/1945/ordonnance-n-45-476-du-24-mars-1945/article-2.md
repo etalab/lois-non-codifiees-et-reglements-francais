@@ -1,0 +1,3 @@
+# Article 2
+
+Sous réserve du maintien des dispositions des articles 172 à 179 du Code d'instruction criminelle modifiés par la loi validée du 13 novembre 1941, les différents taux applicables aux amendes pénales en vertu de l'article 1er de la loi validée du 26 juillet 1941, modifiée par la loi validée du 17 février 1942, sont, dans toutes les dispositions législatives antérieures à l'entrée en vigueur de la loi validée du 26 juillet 1941, substitués aux taux d'amende correspondants, applicables en vertu desdites dispositions, lesquelles doivent être regardées comme modifiées de plein droit à cet égard par ladite loi et ne peuvent désormais être visées que sous cette teneur nouvelle.
