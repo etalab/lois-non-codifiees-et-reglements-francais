@@ -744,7 +744,6 @@
 - [Arrêté du 20 août 1992 (SANH9201908A)](arrete-du-20-aout-1992-sanh9201908a)
 - [Arrêté du 20 août 1992 (SANH9201909A)](arrete-du-20-aout-1992-sanh9201909a)
 - [Arrêté du 20 décembre 1988 (TRSL8800585A)](arrete-du-20-decembre-1988-trsl8800585a)
-- [Arrêté du 20 décembre 1991 (COMK9105004A)](arrete-du-20-decembre-1991-comk9105004a)
 - [Arrêté du 20 décembre 1991 (EQUA9101858A)](arrete-du-20-decembre-1991-equa9101858a)
 - [Arrêté du 20 décembre 1991 (SANP9200031A)](arrete-du-20-decembre-1991-sanp9200031a)
 - [Arrêté du 20 décembre 1991 (SANP9200032A)](arrete-du-20-decembre-1991-sanp9200032a)
