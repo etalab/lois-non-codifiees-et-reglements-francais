@@ -2,101 +2,105 @@
 
 Les chefs opérateurs et les chefs opérateurs adjoints seront intégrés dans l'un des emplois suivants : adjoint technique, rédacteur, sous-archiviste ou sous-bibliothécaire, dans les conditions ci-dessous :
 
---------------------------------------------------------------- :                  :           SITUATION NOUVELLE             :
+--------------------------------------------------------------- : : SITUATION NOUVELLE :
 
 <table>
+<tbody>
 <tr>
-<td> :    SITUATION     :------------------------------------------:</td>
+<td>: SITUATION :------------------------------------------:</td>
 </tr>
 <tr>
-<td> :    ANCIENNE      :    Echelons (1)   :     Ancienneté       :</td>
+<td>: ANCIENNE : Echelons (1) : Ancienneté :</td>
 </tr>
 <tr>
-<td> :                  :                   :   dans l'échelon     :</td>
+<td>: : : dans l'échelon :</td>
 </tr>
 <tr>
-<td> :------------------:-------------------:----------------------:</td>
+<td>:------------------:-------------------:----------------------:</td>
 </tr>
 <tr>
-<td> : Chef opérateur : :                   :                      :</td>
+<td>: Chef opérateur : : : :</td>
 </tr>
 <tr>
-<td> :  6é échelon      : Echelon           :                      :</td>
+<td>: 6é échelon : Echelon : :</td>
 </tr>
 <tr>
-<td> :                  : exceptionnel      : Ancienneté maintenue :</td>
+<td>: : exceptionnel : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :  5é échelon      : 11é échelon       : Ancienneté maintenue :</td>
+<td>: 5é échelon : 11é échelon : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :                  :                   : majorée de 2 ans     :</td>
+<td>: : : majorée de 2 ans :</td>
 </tr>
 <tr>
-<td> :  4é échelon      : 11é échelon       : Ancienneté maintenue :</td>
+<td>: 4é échelon : 11é échelon : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :  3é échelon      :  9é échelon       : Ancienneté maintenue :</td>
+<td>: 3é échelon : 9é échelon : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :  2é échelon      :  8é échelon       : Ancienneté maintenue :</td>
+<td>: 2é échelon : 8é échelon : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :  1er échelon     :  6é échelon       : Ancienneté maintenue :</td>
+<td>: 1er échelon : 6é échelon : Ancienneté maintenue :</td>
 </tr>
+</tbody>
 </table>
 
------------------------------------------------------------------------------------------------------------------------------- :                  :           SITUATION NOUVELLE             :
+------------------------------------------------------------------------------------------------------------------------------ : : SITUATION NOUVELLE :
 
 <table>
+<tbody>
 <tr>
-<td> :    SITUATION     :------------------------------------------:</td>
+<td>: SITUATION :------------------------------------------:</td>
 </tr>
 <tr>
-<td> :    ANCIENNE      :    Echelons (1)   :     Ancienneté       :</td>
+<td>: ANCIENNE : Echelons (1) : Ancienneté :</td>
 </tr>
 <tr>
-<td> :                  :                   :   dans l'échelon     :</td>
+<td>: : : dans l'échelon :</td>
 </tr>
 <tr>
-<td> :------------------:-------------------:----------------------:</td>
+<td>:------------------:-------------------:----------------------:</td>
 </tr>
 <tr>
-<td> : Chef opérateur   :                   :                      :</td>
+<td>: Chef opérateur : : :</td>
 </tr>
 <tr>
-<td> : adjoint :        :                   :                      :</td>
+<td>: adjoint : : : :</td>
 </tr>
 <tr>
-<td> :  6é échelon      : 11é échelon       : Ancienneté maintenue :</td>
+<td>: 6é échelon : 11é échelon : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :                  :                   : dans la limite de    :</td>
+<td>: : : dans la limite de :</td>
 </tr>
 <tr>
-<td> :                  :                   : 2 ans                :</td>
+<td>: : : 2 ans :</td>
 </tr>
 <tr>
-<td> :  5é échelon      : 10é échelon       : Ancienneté maintenue :</td>
+<td>: 5é échelon : 10é échelon : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :  4é échelon      :  9é échelon       : Ancienneté maintenue :</td>
+<td>: 4é échelon : 9é échelon : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :  3é échelon      :  7é échelon       : Ancienneté maintenue :</td>
+<td>: 3é échelon : 7é échelon : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :  2é échelon      :  5é échelon       : Ancienneté maintenue :</td>
+<td>: 2é échelon : 5é échelon : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :  1er échelon     :  3é échelon       : Ancienneté maintenue :</td>
+<td>: 1er échelon : 3é échelon : Ancienneté maintenue :</td>
 </tr>
 <tr>
-<td> :                  :                   : dans la limite de    :</td>
+<td>: : : dans la limite de :</td>
 </tr>
 <tr>
-<td> :                  :                   : 18 mois              :</td>
+<td>: : : 18 mois :</td>
 </tr>
+</tbody>
 </table>
 
 ---------------------------------------------------------------
@@ -109,6 +113,6 @@ Les agents rémunérés sur la base des trois premiers échelons de l'emploi de 
 
 Les agents ainsi reclassés seront promus à l'échelon exceptionnel de leur nouvel emploi dès qu'ils réuniront les conditions d'ancienneté exigée des agents classés au 11é échelon.
 
-Des promotions aux emplois de chef de section, de rédacteur principal, de sous-bibliothécaire principal ou de sous-archiviste principal pourront être prononcées, après avis de la commission paritaire compétente, en faveur des agents intégrés dans la limite de 15 p. 100 [*pourcentage*] des intégrations prononcées ou d'au moins un emploi.
+Des promotions aux emplois de chef de section, de rédacteur principal, de sous-bibliothécaire principal ou de sous-archiviste principal pourront être prononcées, après avis de la commission paritaire compétente, en faveur des agents intégrés dans la limite de 15 p. 100 des intégrations prononcées ou d'au moins un emploi.
 
 En outre, des concours ou examens professionnels spéciaux réservés aux agents intégrés seront organisés, dans le délai de deux ans à compter de la publication du présent arrêté, pour l'accès à l'emploi de chef de section principal ou de chef de bureau.

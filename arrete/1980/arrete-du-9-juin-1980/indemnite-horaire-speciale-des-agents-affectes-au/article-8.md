@@ -1,6 +1,6 @@
 # Article 8
 
-Les agents des communes et des établissements publics communaux et intercommunaux qui exercent dans les centres de traitement automatisés de l'information pendant la durée légale du travail, entre 20 heures et 7 heures, ou pendant la journée du samedi, du dimanche ou des jours fériés les fonctions d'analyste, de chef d'exploitation, de programmeur de système, de chef programmeur, de programmeur, de pupitreur ou d'agent de traitement peuvent percevoir une indemnité horaire spéciale destinée à tenir compte de leurs sujétions particulières.
+Les agents des communes et des établissements publics communaux et intercommunaux qui exercent dans les centres de traitement automatisés de l'information pendant la durée légale du travail, entre 20 heures et 7 heures, ou pendant la journée du samedi, du dimanche ou des jours fériés, les fonctions de chef de projet, d'analyste, de chef d'exploitation, de programmeur des systèmes, de chef programmeur, de programmeur, de pupitreur ou d'agent de traitement peuvent percevoir une indemnité horaire spéciale destinée à tenir compte de leurs sujétions particulières.
 
 Les taux de cette indemnité horaire spéciale, qui sont déterminés à l'annexe I du présent arrêté, sont majorés lorsque les fonctions sont exercées pendant les journées du samedi, du dimanche et des jours fériés ainsi que pendant les nuits qui précèdent et suivent un dimanche ou un jour férié.
 
