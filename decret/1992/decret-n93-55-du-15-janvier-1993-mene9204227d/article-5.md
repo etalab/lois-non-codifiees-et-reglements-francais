@@ -1,0 +1,5 @@
+# Article 5
+
+Les professeurs agrégés enseignant dans quatre classes ou plus depuis la rentrée scolaire de 1989, sans être professeur principal dans l'une de ces classes, peuvent continuer de percevoir l'indemnité pour participation aux conseils de classe prévue à l'article 1er du décret du 2 novembre 1971 susvisé, au taux fixé au 1er mars 1989 et non revalorisé tant que ce taux demeure supérieur au taux de la part fixe de l'indemnité de suivi et d'orientation des élèves prévue à l'article 1er de ce décret.
+
+De même, les professeurs agrégés assurant, à compter du 1er septembre 1992, les fonctions fixées à l'article 3 ci-dessus pourront continuer de percevoir l'indemnité de professeur principal prévue à l'article 1er du décret du 2 novembre 1971 susvisé au taux fixé au 1er septembre 1992 et non revalorisé, tant que ce taux demeurera supérieur au taux de la part modulable de l'indemnité de suivi et d'orientation des élèves et tant qu'ils exerceront ces fonctions dans une division qui ouvrait droit à l'indemnité de professeur principal.

@@ -4,17 +4,21 @@ En outre, lorsque le service normal de nuit nécessite un travail intensif, les 
 
 1° Les personnels régis par les décrets :
 
-- n° 68-97 du 10 janvier 1968 modifié relatif au recrutement et à l'avancement des personnels d'encadrement et d'exécution des services de pharmacie, de laboratoires et d'électroradiologie ;
+- n° 88-1077 du 30 novembre 1988 modifié portant statuts particuliers des personnels infirmiers de la fonction publique hospitalière ;
 
-- n° 70-1186 du 17 décembre 1970 relatif au recrutement et à l'avancement du personnel secondaire des services médicaux ;
+- n° 89-241 du 18 avril 1989 modifié portant statuts particuliers des aides-soignants et des agents des services hospitaliers de la fonction publique hospitalière et portant statut particulier des agents des services hospitaliers qualifiés de la fonction publique hospitalière ;
 
-- n° 77-1536 du 21 décembre 1977 relatif au recrutement et à l'avancement des sages-femmes et des sages-femmes surveillantes-chefs des établissements d'hospitalisation publics et de certains établissements à caractère social ;
+- n° 89-609 du 1er septembre 1989 modifié portant statuts particuliers des personnels de rééducation de la fonction publique hospitalière ;
 
-- n° 80-253 du 3 avril 1980 relatif au statut particulier de certains agents des services médicaux des établissements d'hospitalisation publics et de certains établissements à caractère social ;
+- n° 89-611 du 1er septembre 1989 modifié portant statut particulier des sages-femmes de la fonction publique hospitalière ;
 
-- n° 88-1077 du 30 novembre 1988 portant statuts particuliers des personnels infirmiers de la fonction publique hospitalière ;
+- n° 89-613 du 1er septembre 1989 modifié portant statuts particuliers des personnels médico-techniques de la fonction publique hospitalière ;
 
-- n° 88-1080 du 30 novembre 1988 portant dispositions statutaires relatives aux aides-soignants de la fonction publique hospitalière,
+- n° 91-1271 du 18 décembre 1991 portant statut particulier des personnels infirmiers surveillants-chefs des services médicaux de la fonction publique hospitalière et modifiant le décret n° 88-1077 du 30 novembre 1988 modifié portant statuts particuliers des personnels infirmiers de la fonction publique hospitalière ;
+
+- n° 91-1269 du 18 décembre 1991 portant statut particulier des personnels de rééducation surveillants-chefs des services médicaux de la fonction publique hospitalière et modifiant le décret n° 89-609 du 1er septembre 1989 modifié portant statuts particuliers des personnels de rééducation de la fonction publique hospitalière ;
+
+- n° 91-1273 du 18 décembre 1991 portant statut particulier des personnels médico-techniques surveillants-chefs de la fonction publique hospitalière et modifiant le décret n° 89-613 du 1er septembre 1989 portant statuts particuliers des personnels médico-techniques de la fonction publique hospitalière,
 
 lorsqu'ils effectuent pendant la nuit les mêmes travaux effectifs que ceux qu'ils accompliraient en service de jour.
 
@@ -22,4 +26,4 @@ lorsqu'ils effectuent pendant la nuit les mêmes travaux effectifs que ceux qu'i
 
 3° Les agents assurant la conduite des chaudières et des moteurs.
 
-4° Les personnels affectés dans les standards téléphoniques desservant au moins cinq cents lits [*nombre*].
+4° Les personnels affectés dans les standards téléphoniques desservant au moins cinq cents lits.
