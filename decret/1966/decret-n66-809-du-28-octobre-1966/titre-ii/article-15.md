@@ -1,0 +1,3 @@
+# Article 15
+
+Les orphelins de père et de mère qui étaient atteints, au jour du décès de leur auteur, d'une infirmité permanente les mettant dans l'impossibilité de gagner leur vie et qui ne peuvent prétendre à pension parce que ce décès est antérieur au 23 septembre 1948 bénéficient d'une allocation annuelle dans les conditions prévues à l'article 12. Cette allocation n'est pas cumulable avec toute autre pension ou rente d'un régime légal obligatoire ou facultatif attribuée au titre de la vieillesse ou de l'invalidité à concurrence du montant de ces avantages et est suspendue si l'orphelin cesse d'être dans l'impossibilité de gagner sa vie. Le montant de la ou des allocations d'orphelin ainsi attribuées ne pourra excéder 50 p. 100 de la pension de l'auteur.

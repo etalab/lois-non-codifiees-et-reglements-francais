@@ -1,0 +1,3 @@
+# Article 2
+
+Dans un délai de six mois à partir de la date de publication du présent décret, les fonctionnaires des anciens cadres de la France d'outre-mer, demeurés tributaires du régime de retraites du décret n° 50-461 du 21 avril 1950 par l'option qu'ils ont exercée en application de l'article 41 du décret n° 59-1379 du 8 décembre 1959, pourront renoncer au bénéfice de leur régime spécial de retraites à condition d'être en activité de service à la date de la renonciation. Dans ce cas, leurs droits à pension seront déterminés par les dispositions du code des pensions civiles et militaires de retraite.
