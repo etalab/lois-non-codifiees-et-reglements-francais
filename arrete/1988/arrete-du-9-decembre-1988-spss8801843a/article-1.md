@@ -1,6 +1,6 @@
 # Article 1
 
-En application de l'article D. 461-6 du code de la sécurité sociale, des collèges de trois médecins, dont le secrétariat est assuré par la direction régionale des affaires sanitaires et sociales dans la circonscription de laquelle ils ont leur siège, sont créés dans les villes suivantes :
+En application de l'article D. 461-6 du code de la sécurité sociale, des collèges de trois médecins, dont le secrétariat est assuré par l'échelon régional du contrôle médical de la Caisse nationale de l'assurance maladie des travailleurs salariés dans la circonscription duquel ils ont leur siège, sont créés dans les villes suivantes :
 
 Amiens, nombre de collèges : 1
 

@@ -1,0 +1,5 @@
+# Article 3
+
+Par dérogation aux dispositions de l'article 37 du décret du 28 mai 1992 susvisé, lorsque le fonctionnaire dont le cas est soumis à l'examen de la commission administrative paritaire des professeurs agrégés, des professeurs certifiés, des professeurs d'éducation physique et sportive ou des chargés d'enseignement d'éducation physique et sportive appartient à la hors-classe de ce corps, le représentant de ce grade ou ses deux représentants siègent avec leurs premiers suppléants ou à défaut leurs deuxièmes suppléants qui ont alors voix délibérative. Pour chaque suppléant ainsi désigné, il est fait appel à un représentant supplémentaire de l'administration choisi parmi les suppléants.
+
+Lorsque le fonctionnaire dont le cas est soumis à l'examen de la commission administrative paritaire des chargés d'enseignement d'éducation physique et sportive appartient à la classe exceptionnelle de ce corps, le représentant de ce grade siège avec son premier suppléant ou à défaut son deuxième suppléant qui a alors voix délibérative. II est fait appel à un représentant supplémentaire de l'administration choisi parmi les suppléants.

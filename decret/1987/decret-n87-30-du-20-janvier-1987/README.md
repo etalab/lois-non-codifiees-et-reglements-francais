@@ -3,5 +3,6 @@
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Les inspecteurs de l'enseignement agricole.](chapitre-ii)
 - [CHAPITRE III : Les inspecteurs principaux de l'enseignement agricole.](chapitre-iii)
+- [CHAPITRE III bis : Dispositions communes aux emplois d'inspection.](chapitre-iii-bis)
 - [CHAPITRE IV : Dispositions transitoires et diverses.](chapitre-iv)
 - [Article Execution](article-execution.md)
