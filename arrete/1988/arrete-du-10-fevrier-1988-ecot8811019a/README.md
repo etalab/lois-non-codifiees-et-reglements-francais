@@ -1,4 +1,4 @@
-# Arrêté du 10 décembre 1987 relatif à l'émission des obligations des deuxième, troisième et cinquième tranches de l'emprunt d'Etat Janvier 1987, de la série Décembre 1987
+# Arrêté du 10 février 1988 relatif à l'émission des obligations assimilables du Trésor de la série Février 1988
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -9,4 +9,3 @@
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
-- [Article 10](article-10.md)

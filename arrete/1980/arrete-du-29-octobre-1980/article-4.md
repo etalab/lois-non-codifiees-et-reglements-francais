@@ -26,6 +26,6 @@ La commission comprend, outre le président, représentant du ministre, les auto
 
 - le directeur de l'électronique et de l'informatique ;
 
-- un membre du contrôle général des armées ;
-
 - le contrôleur financier près le ministre de la défense.
+
+Le contrôle général des armées est tenu informé des dates des réunions de la commission.

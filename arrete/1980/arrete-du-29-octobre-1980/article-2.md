@@ -7,5 +7,3 @@ Le classement des inventions ;
 L'exercice du droit d'attribution par l'Etat (défense) en matière d'inventions ;
 
 La rémunération des inventions de service et des inventions ouvrant droit à attribution au profit de l'Etat.
-
-En outre, la commission donne un avis sur les propositions de récompenses pécuniaires aux auteurs d'inventions non brevetables [*attributions*].

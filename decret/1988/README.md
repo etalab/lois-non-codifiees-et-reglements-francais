@@ -27,6 +27,7 @@
 - [Décret n°88-30 du 8 janvier 1988 (BUDF8720085D)](decret-n88-30-du-8-janvier-1988-budf8720085d)
 - [Décret n°88-31 du 8 janvier 1988 (INTB8800002D)](decret-n88-31-du-8-janvier-1988-intb8800002d)
 - [Décret n°88-136 du 9 février 1988 (MCCT8800049D)](decret-n88-136-du-9-fevrier-1988-mcct8800049d)
+- [Décret n°88-139 du 10 février 1988 (INTB8800004D)](decret-n88-139-du-10-fevrier-1988-intb8800004d)
 - [Décret n°88-46 du 12 janvier 1988 (PRMG8770403D)](decret-n88-46-du-12-janvier-1988-prmg8770403d)
 - [Décret n°88-49 du 12 janvier 1988 (ASEP8701203D)](decret-n88-49-du-12-janvier-1988-asep8701203d)
 - [Décret n°88-38 du 13 janvier 1988 (JUSB8710496D)](decret-n88-38-du-13-janvier-1988-jusb8710496d)
