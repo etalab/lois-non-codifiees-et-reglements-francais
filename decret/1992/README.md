@@ -154,6 +154,7 @@
 - [Décret n°92-239 du 11 mars 1992 (ECOM9200049D)](decret-n92-239-du-11-mars-1992-ecom9200049d)
 - [Décret n°92-291 du 11 mars 1992 (COMG9100001D)](decret-n92-291-du-11-mars-1992-comg9100001d)
 - [Décret n°93-324 du 11 mars 1993 (INTA9300095D)](decret-n93-324-du-11-mars-1993-inta9300095d)
+- [Décret n°92-428 du 11 mai 1992 (MERC9200009D)](decret-n92-428-du-11-mai-1992-merc9200009d)
 - [Décret n°87-663 du 12 août 1987 (PTTP8700481D)](decret-n87-663-du-12-aout-1987-pttp8700481d)
 - [Décret n°88-48 du 12 janvier 1988 (DEFP8701758D)](decret-n88-48-du-12-janvier-1988-defp8701758d)
 - [Décret n°89-737 du 12 octobre 1989 (PTTC8900302D)](decret-n89-737-du-12-octobre-1989-pttc8900302d)
