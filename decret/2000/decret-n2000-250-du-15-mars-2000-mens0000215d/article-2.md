@@ -8,6 +8,8 @@ Ecole centrale de Lyon ;
 
 Ecole centrale de Nantes ;
 
+Ecole généraliste d'ingénieurs de Marseille ;
+
 Institut national des sciences appliquées de Lyon ;
 
 Institut national des sciences appliquées de Rennes ;
