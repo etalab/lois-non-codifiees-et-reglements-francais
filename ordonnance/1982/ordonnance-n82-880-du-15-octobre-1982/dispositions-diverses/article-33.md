@@ -1,3 +1,5 @@
 # Article 33
 
-L'office foncier peut passer une convention avec le territoire en vue d'assurer la gestion des terres dépendant du domaine privé de cette collectivité territoriale et affectées aux groupements relevant du droit particulier local.
+L'office foncier peut conclure des conventions avec les collectivités territoriales pour assurer la gestion de leur domaine privé.
+
+Il peut également conclure des contrats de gestion avec des groupements de droit particulier local attributaires de droits d'usage coutumiers.
