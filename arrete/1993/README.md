@@ -248,7 +248,6 @@
 - [Arrêté du 8 février 1993 (PTTR9300069A)](arrete-du-8-fevrier-1993-pttr9300069a)
 - [Arrêté du 8 janvier 1993 (AGRG9300036A)](arrete-du-8-janvier-1993-agrg9300036a)
 - [Arrêté du 8 janvier 1993 (COMK9206003A)](arrete-du-8-janvier-1993-comk9206003a)
-- [Arrêté du 8 janvier 1993 (MERE9300009A)](arrete-du-8-janvier-1993-mere9300009a)
 - [Arrêté du 8 janvier 1993 (SPSI9300037A)](arrete-du-8-janvier-1993-spsi9300037a)
 - [Arrêté du 8 juillet 1993 (AGRM9300948A)](arrete-du-8-juillet-1993-agrm9300948a)
 - [Arrêté du 8 juillet 1993 (INDP9320383A)](arrete-du-8-juillet-1993-indp9320383a)
