@@ -1,7 +1,6 @@
-# Arrêté du 1 août 1985 fixant le modèle de la déclaration de revenus professionnels de 1984 - Employeurs et travailleurs indépendants.
+# Arrêté du 1 août 1985 relatif à l'emploi de correcteurs d'acidité dans les conserves de viandes et les produits de charcuterie-salaison
 
 - [Article 1](article-1.md)
-- [Article unique](article-unique.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
