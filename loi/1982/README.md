@@ -12,6 +12,7 @@
 - [Loi n° 82-213 du 2 mars 1982](loi-n-82-213-du-2-mars-1982)
 - [Loi n° 82-4 du 6 janvier 1982](loi-n-82-4-du-6-janvier-1982)
 - [Loi n° 82-526 du 22 juin 1982](loi-n-82-526-du-22-juin-1982)
+- [Loi n° 82-596 du 10 juillet 1982](loi-n-82-596-du-10-juillet-1982)
 - [Loi n° 82-599 du 13 juillet 1982](loi-n-82-599-du-13-juillet-1982)
 - [Loi n° 82-600 du 13 juillet 1982](loi-n-82-600-du-13-juillet-1982)
 - [Loi n° 82-610 du 15 juillet 1982](loi-n-82-610-du-15-juillet-1982)
