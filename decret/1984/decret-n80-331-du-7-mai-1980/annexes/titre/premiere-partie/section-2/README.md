@@ -1,5 +1,5 @@
-# Section 2 : Dispositions complémentaires pour les travaux souterrains de recherche ou d'exploitation de substances radioactives
+# Section 2 : Dispositions complémentaires pour les travaux à ciel ouvert, les installations de surface et les dépendances légales des mines et des carrières, au regard de l'exposition aux poussières alvéolaires siliceuses
 
-- [Chapitre Ier : Personnel](chapitre-ier)
-- [Chapitre II : Radioprotection](chapitre-ii)
-- [Chapitre III : Lutte contre les rayonnements ionisants](chapitre-iii)
+- [Chapitre Ier : Empoussiérage](chapitre-ier)
+- [Chapitre II : Personnel](chapitre-ii)
+- [Chapitre III : Contrôles et vérifications](chapitre-iii)

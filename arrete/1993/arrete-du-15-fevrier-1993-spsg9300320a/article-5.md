@@ -12,23 +12,23 @@ trois heures ; coefficient 2).
 
 Il est attribué à chacune des épreuves une note de 0 à 20. Les notes inférieures à 5 sur 20 sont éliminatoires. Seuls peuvent être admis à se présenter à l'oral les candidats ayant obtenu pour l'ensemble des épreuves obligatoires d'admissibilité une note au moins égale à 50 points après application des coefficients.
 
+Ces épreuves sont communes aux premier et deuxième concours et peuvent porter sur des sujets distincts.
+
 II - Epreuves d'admission
 
 Première épreuve - Entretien avec le jury permettant d'apprécier les qualités de réflexion, la formation et, le cas échéant, l'expérience professionnelle du candidat ainsi que ses motivations (durée : vingt minutes ; coefficient 4).
 
 Deuxième épreuve - Exposé sur une question de législation pharmaceutique tirée au sort, suivi d'une interrogation (préparation : dix minutes ; durée : vingt minutes ; coefficient 3).
 
-Troisième épreuve - Une épreuve orale de langue vivante comportant la lecture et la traduction d'un texte ainsi qu'une conversation dans l'une des quatre langues étrangères suivantes :
-
-allemand, anglais, espagnol, italien (préparation : vingt minutes ; durée : vingt minutes ; coefficient 1).
-
-Quatrième épreuve - Une épreuve d'exercices physiques dont les modalités d'organisation figurent en annexe au présent arrêté (coefficient 1) (1).
+Troisième épreuve - Une épreuve orale de langue vivante comportant la lecture et la traduction d'un texte ainsi qu'une conversation dans l'une des quatre langues étrangères suivantes : allemand, anglais, espagnol, italien (préparation : vingt minutes ; durée : vingt minutes ; coefficient 1).
 
 III - Epreuves d'admission facultatives
 
 En outre, les candidats peuvent demander à subir les épreuves facultatives ci-après :
 
 Une épreuve orale de langue étrangère autre que celle choisie à la troisième épreuve orale d'admission : allemand, anglais, arabe, espagnol, italien, portugais ou russe (préparation : vingt minutes ; durée : vingt minutes ; coefficient 1) ;
+
+Une épreuve d'exercices physiques dont les modalités d'organisation figurent en annexe du présent arrêté (coefficient 1) ;
 
 Une épreuve écrite portant sur le traitement automatisé de l'information (durée : une heure ; coefficient 1).
 

@@ -1,19 +1,7 @@
 # Article 4
 
-Valeur maximale du taux d'exposition totale : Sous réserve des dispositions des articles 14, 15, 16, 17 et 30 :
+Concentration moyenne en poussières inhalables : 1. Les quantités de poussières inhalables dans l'atmosphère des lieux de travail sont évaluées par la concentration moyenne, exprimée en mg/m3 d'air sur une période de 8 heures.
 
-- le taux d'exposition totale de chaque personne, pour douze mois consécutifs, ne doit pas être supérieur à :
+2. Chaque année, l'exploitant doit définir les objectifs de concentrations moyennes en poussières inhalables dans l'atmosphère des lieux de travail et les moyens nécessaires pour les atteindre, après avoir recueilli l'avis du médecin du travail, du comité d'hygiène, de sécurité et des conditions de travail ou, à défaut de ce dernier, lorsqu'ils existent, des délégués mineurs, des délégués permanents de la surface ou des délégués du personnel concernés.
 
-- 1 pour les personnes âgées de dix-huit ans et plus ;
-
-- 0,3 pour les étudiants et apprentis âgés de moins de dix-huit ans ;
-
-- le taux d'exposition totale, pour trois mois consécutifs, ne doit pas être supérieur à :
-
-- 0,6 pour toute personne, sauf pour les femmes en état de procréer ;
-
-- 0,25 pour les femmes en état de procréer ;
-
-- la quantité de poussières d'uranate inhalée ne doit pas dépasser 2,5 mg/jour.
-
-Dès qu'une grossesse est déclarée au médecin du travail, des dispositions doivent être prises pour que le taux de l'exposition totale subie entre cette déclaration et le moment de l'accouchement ne dépasse pas 0,2.
+3. L'exploitant doit indiquer dans un document les éléments permettant d'apprécier la situation par rapport aux objectifs visés au paragraphe 2.

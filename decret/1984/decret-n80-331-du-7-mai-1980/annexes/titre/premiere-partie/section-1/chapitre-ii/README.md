@@ -1,4 +1,4 @@
-# Chapitre II : Personnel
+# Chapitre II : Poussières inhalables dans l'atmosphère des lieux de travail
 
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
@@ -8,3 +8,4 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
+- [Article Annexe EM-1-R, art. 5](article-annexe-em-1-r-art-5.md)

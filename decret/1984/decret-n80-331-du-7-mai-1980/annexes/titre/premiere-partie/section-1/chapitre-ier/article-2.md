@@ -1,15 +1,13 @@
 # Article 2
 
-Domaine d'application : Sont applicables :
+Domaine d'application : 1. Les dispositions de la section 1 sont applicables à tous les travaux et installations.
 
-- aux travaux souterrains de recherche et d'exploitation de substances radioactives, les dispositions des sections 1 et 2 ;
+2. Les dispositions de la section 2 sont applicables aux travaux à ciel ouvert, aux installations de surface et aux dépendances légales, des mines et des carrières dans lesquels la fonction de travail d'une personne l'expose à l'inhalation de poussières alvéolaires siliceuses.
 
-- aux travaux à ciel ouvert de recherche et d'exploitation de substances radioactives, les dispositions des sections 1 et 3 ;
+3. Les dispositions de la section 3 sont applicables aux travaux souterrains des mines et des carrières dans lesquels la fonction de travail d'une personne l'expose à l'inhalation de poussières alvéolaires siliceuses.
 
-- aux installations de surface et aux dépendances légales des exploitations de substances radioactives, les dispositions des sections 1 et 4 ;
+4. Ne sont pas soumis aux dispositions des articles 6 à 35 :
 
-- aux travaux et installations des autres mines et des carrières :
+- le personnel des entreprises extérieures dont l'activité dans les mines et carrières est au plus égale à trente jours par an ;
 
-- où est utilisée une source radioactive, les dispositions de la section 1 ;
-
-- et, quand il s'agit de travaux en souterrain, les dispositions de la section 5.
+- les tiers autres que les entreprises extérieures.
