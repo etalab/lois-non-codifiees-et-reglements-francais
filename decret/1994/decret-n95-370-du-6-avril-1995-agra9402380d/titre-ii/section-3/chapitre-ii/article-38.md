@@ -10,7 +10,7 @@ Brevet de technicien supérieur ;
 
 Diplôme d'études universitaires scientifiques et technologiques ;
 
-Diplôme délivré par un établissement d'enseignement public ou privé ou diplôme délivré ou reconnu dans un Etat membre de l'Union européenne autre que la France dont l'équivalence avec l'un des diplômes ci-dessus aura été reconnue, pour l'application du présent décret, par la commission prévue à l'article 18 ci-dessus.
+Diplôme délivré par un établissement d'enseignement public ou privé ou diplôme délivré ou reconnu dans un Etat membre de la Communauté européenne ou dans un autre Etat partie à l'accord sur l'Espace économique européen autre que la France dont l'équivalence avec l'un des diplômes ci-dessus aura été reconnue, pour l'application du présent décret, par la commission prévue à l'article 18 ci-dessus.
 
 Ces concours sont également ouverts aux candidats justifiant qu'ils possèdent dans l'industrie une qualification professionnelle jugée, par la commission prévue à l'article 18 ci-dessus, équivalente à l'un des diplômes cités à l'alinéa précédent.
 
