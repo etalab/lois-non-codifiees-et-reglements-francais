@@ -1,4 +1,4 @@
-# Arrêté du 23 mai 1985 relatif aux tarifs des cotisations d'accidents du travail pour les industries du caoutchouc, papier et carton.
+# Décret n°85-573 du 5 juin 1985 relatif aux obligations comptables des entreprises ayant exclusivement pour objet la réassurance
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -6,3 +6,4 @@
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
+- [Article 7](article-7.md)

@@ -1,5 +1,6 @@
 # Chapitre II : Recrutement.
 
+- [Article 8-1](article-8-1.md)
 - [Article 9](article-9.md)
 - [Article 9-2](article-9-2.md)
 - [Article 9-3](article-9-3.md)
