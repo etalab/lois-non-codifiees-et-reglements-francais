@@ -1,3 +1,3 @@
 # Article 1
 
-Les demandes de regroupement de leur famille sont déposées par les étrangers qui demandent le bénéfice de la procédure de regroupement familial auprès des services [*organismes compétents*] de l'Office des migrations internationales dans les départements des Bouches-du-Rhône, de la Haute-Garonne, de Meurthe-et-Moselle, de la Moselle, du Rhône, de l'Essonne et des Hauts-de-Seine.
+Les demandes de regroupement familial présentées par les étrangers qui en sollicitent le bénéfice sont déposées auprès des services de l'Office des migrations internationales dans les départements suivants : Bouches-du-Rhône, Haute-Garonne, Gironde, Meurthe-et-Moselle, Moselle, Rhône, Yvelines, Essonne, Hauts-de-Seine et Guyane.
