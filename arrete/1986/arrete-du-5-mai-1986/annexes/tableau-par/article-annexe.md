@@ -1,93 +1,213 @@
 # Article Annexe
 
-Département de l'Ain    1° Lac de Divonne-les-Bains ;    2° Lac de Nantua.               Département des Alpes-de-Haute-Provence
+Département de l'Ardèche     1° L'Ardèche : de la confluence avec la ligne au pont d'Arc.     2° l'Eyrieux : du barrage, lieudit Saint-Andéol, à la confluence avec le rhône .     3° Le Chassezac : du pont de Gravières à la confluence avec l'Ardèche.      Département de l'Aveyron
 
-1° Lacs de retenue de Castillon, Chaudanne, Sainte-Croix, Quinson, Gréoux-les-Bains, Serre-Ponçon, Espinasse, Saulce, Salignac, l'Escale ;
+Tous les cours d'eau      Département du Calvados
 
-2° Tous les lacs de montagne situés à une altitude supérieure à 1.800 mètres.
+Tous les cours d'eau.
 
-Département des Hautes-Alpes
+Département du Cantal
 
-Lac de retenue de Serre-Ponçon, du barrage principal de Serre-Ponçon au pont de la Clapière sur la Durance, au pont de Pellegrin sur l'Ubaye et à la cote 781 N.G.F. pour tous les autres tributaires.
+Lac de retenue de Saint-Etienne-Cantalès.
 
-Département des Alpes-Maritimes
+Département de la Charente-Maritime
 
-Tous les lacs de montagne situés à une altitude supérieure à 1.800 mètres.
+Tous les cours d'eau, canaux et plans d'eau.      Département du Cher
 
-Département de l'Ardèche.
+1° L'Auron, en aval du pont du C.D. n° 951 ;
 
-Lac d'Issarlès.                  Département de l'Aude.    Barrage du lampy.                  Département de la Creuse.
+2° La Loubière, en aval du pont du C.D. n° 1 ;
 
-Lac de retenue de Vassivière.                  Département du Doubs.
+3° La Marmande, en aval du pont du C.D. n° 76 ;
 
-1° Lacs de Saint-Point, Bouverans, Rémorey ;
+4° L'Arnon, en aval de son confluent avec le Porte-feuille ;
 
-2° Etang de Frasne.                  Département de la Haute-Garonne
+5° La Théols, sur tout son cours dans le département du Cher ;
 
-Tous les lacs de montagne situés à une altitude supérieure à    1. 400 mètres.
+8° L'Yèvre, en aval du pont du C.D. n° 46 ;
 
-Département de l'Isère
+9° L'Annain, en aval du pont du C.D. n° 104 ;
 
-Lac de Paladru.
+10° Le Barabgeon, en aval du pont de la R.N. n° 116 ;
 
-Département du Jura
+11° Le Croulas, en aval du pont de la R.N. n° 76 ;
 
-1° Lac de retenue de Vouglans ;
+12° L'Yévrette, en aval du pont du C.D. n° 46 ;
 
-2° Lacs de Chalain et des Rousses ;
+13° La Voiselle, sur tout son cours ;
 
-3° Grand lac de Clairvaux.
+14° Le Faux Pallouet, sur tout son cours ;
 
-Département de la Loire-Atlantique
+15° Grand canal de dessèchement, sur tout son cours ;
 
-1° Lac de Grandlieu ;
+16° Le Langis, en aval du pont de la R.N. 151 ;
 
-2° Marais indivis de Grande Brière Mottière.
+17° Le Fouzon, sour tout son cours ;
 
-Département de la Marne
+18° La Rèze, en aval du pont du C.D. n° 79, à la limite départementale Cher - Loire-et-Cher ;
 
-Lac du Der Chantecoq.
+19° L'Aubois, en aval du pont de la déviation de la R.N. 116 ;
 
-Département de la Haute-Marne
+20° Le Moule, sur tout son cours ;
 
-Lac du Der Chantecoq.
+21° La Vauvise, en aval du pont du C.D. n° 6.      Département de la Côte d'Or        1° La dheune        2° La Beze        3° La Vingeanne        4° Le Vingeannot        5° l'Ognon        6° l'Ouche
 
-Département de Meurthe-et-Moselle
+Département de l'Essonne
 
-Lac de Pierre-Percée.
+1° L'Yerre, La Bièvre, L'Essonne, L'Orge, l'Yvette, la Remarde, La Juine en aval du pont de Morigny-Champigny ;
 
-Département de l'Orne
+2° Tous les plans d'eau en communication avec la Seine ou avec les cours d'eau désignés au 1°.
 
-Lac de retenue de Rabodanges.
+Département de l'Eure
 
-Département des Pyrénées-Atlantiques
+1° Ballastières de Venables, Bernières et Tosny ;
 
-1° Lacs de retenue de Fabrèges, Sainte-Engrace, Bious-Artigues, Anglus, Peilhou, Artouste, Castet ;
+2° Plans d'eau entre les P.K. 161,310 et 172,100 en bordure de Seine à Poses ;
 
-2° Lac Alain Cami à Saint-Pée-sur-Nivelle ;
+3° Plans d'eau entre les P.K. 188,500 et 198,100 en bordure de Seine à Tosny.
 
-3° Tous les lacs de montagne situés à une altitude supérieure à 1.000 mètres.
+Département d'Eure-et-Loire
 
-Département du Haut-Rhin
+1° Le Loir et ses affluents ;
 
-Lacs blanc, Noir, du Forlet, Vert, du Schiessrothried, de l'Altenweiher, du Fischboedle, de la Lauch, du Ballon, de Kruth-Wildenstein, d'Alfred, de Sewen, des Perches, des Petit et Grand Neuweiher.
+2° L'Eure et ses affluents ;
 
-Département de la Savoie
+3° L'Huisne.      Département du Gers    1° l'Adour    2° l'Arros
 
-Lacs d'Aiguebelette et du Bourget.
+Département de la Gironde
 
-Département de la Haute-Savoie
+1° Etangs de Carcans-Hourtin et Lacanau ;
 
-Lac d'Annecy.
+2° La Dronne, en amont du moulin de Coutras ;
 
-Département du Var
+3° La Dropt, en amont de l'écluse du moulin de Labarthe ;
 
-Lacs de retenue de Sainte-Croix, Quinson, Saint-Cassien,    Gréoux-les-Bains.
+4° Le canal des Etangs, en aval de l'étang de Lacanau ;
 
-Département de la Haute-Vienne
+5° Les marais et cours d'eau situés sur les communes de Saint-Androny, Saint-Genès-de-Blaye, Saint-Ciers-sur-Gironde, Anglade, Braud-et-Saint-Louis, Etauliers ;
 
-Lacs de retenue de Vassivière et de Saint-Pardoux.
+6° Les marais et cours d'eau situés sur les communes de Bruges, Blanquefort, Ludon-Médoc, Macau, Parempuyre, Castelnau-Médoc, Arcans, Arsac, Avensan, Cantenac, Cussac-Fort-Médoc, Labarde, Lamarque, Listrac-Médoc, Margaux, Moulis, Soussans, Saint-Laurent-et-Benon, Pauillac, Cissac-Médoc, Saint-Estèphe, Saint-Julien-Beychevelle, Saint-Sauveur, Saint-Seurin-de-Cadourne, Vertheuil, Lesparre-Médoc, Bégadan, Blaignan, Civrac-en-Médoc, Queyrac, Saint-Christoly-Médoc, Saint-Germain-d'Esteuil, Saint-Yzan-de-Médoc, Valeyrac, Vendays, Saint-Vivien-de-Médoc, Grayan-l'Hôpital, Jau-Dignac-et-Loirac, Soulac-sur-Mer, Talais, Vensac, Le Verdon-sur-Mer.
 
-Département des Vosges.
+Département de l'Hérault
 
-Lacs de Gérardmer et Longemer.
+Tous les cours d'eau et plans d'eau.
+
+Département d'Ille-et-Vilaine
+
+Tous les plans d'eau.
+
+Département de l'Indre
+
+1° L'Anglin, en aval du pont neuf à Belâtre ;
+
+2° La Claise, en aval du pont de Mézières-en-Brenne ;
+
+3° L'Indre, en aval du pont de Villedieu-sur-Indre ;
+
+4° Le Fouzon ;
+
+5° Le Nahon, en aval du pont de Crotz à Grehée ;
+
+6° Le Théols, en aval du pont de la R.N. 960 à Issoudin ;
+
+7° Le Rénon, en aval du pont d'Aize ;
+
+8° L'Arnon.
+
+Département d'Indre-et-Loire
+
+1° L'Indre ;
+
+2° L'Indrois ;
+
+3° La Claise ;
+
+4° La Cisse ;
+
+5° L'Esves.
+
+Département des Landes
+
+1° Le Luy, en amont du lieudit Le Courant ;
+
+2° Le Louts, en aval du moulin de Vielle ;
+
+3° Etangs de : Cazeaux-Sanguinet, Biscarrosse-Parentis, Mimizan-Aureilhan, Petit-Aureilhan, Léon, Soustons, Hardy, Blanc, Turc, Tarnos-Garros, Yrieux ;
+
+4° Courants de : Mimizan, Sainte-Eulalie, Contis, Huchet, Vieux-Boucau et ruisseau de Hardy ;
+
+5° Canal du littoral des Landes.
+
+Département de Loir-et-Cher
+
+Tous les cours d'eau et plans d'eau      Département de la Loire-Atlantique
+
+Tous les cours d'eau et plans d'eau.
+
+Département du Loiret
+
+1° Le Loing ;
+
+2° Le Loiret.
+
+Département du Lot
+
+1° La Cère ;
+
+2° Le Célé ;
+
+3° L'Ouysse en aval du gouffre de C..
+
+Département du Lot-et-Garonne
+
+Tous les cours d'eau et plans d'eau.
+
+Département de Maine-et-Loire
+
+1° L'Erdre ;
+
+2° L'Oudon ;
+
+3° Le Couasnon ;
+
+4° Le Lathan ;
+
+5° L'Aubance ;
+
+6° L'Evre ;
+
+7° La Moine ;
+
+8° La Sèvre ;
+
+9° L'Authion ;
+
+10° Le Layon.
+
+Département de la Mayenne
+
+1° L'Erve ;
+
+2° La Vaige ;
+
+1° L'Ouette ;
+
+1° La Taude ;
+
+1° La Seiche ;
+
+1° Le Béron ;
+
+1° L'Oudon ;
+
+1° La Pelterie ;
+
+1° Le Chéran ;
+
+10° L'Hière ;
+
+11° Le Vicoin ;
+
+12° La Varenne ;
+
+13° La Mayenne, du barrage de Saint-Fraimbault-de-Prières en amont  à l'écluse de Bootz en aval.   14° La jouanne.   15° l'Uzure.   16° La Mée.   17° Tous les plans d'eau
