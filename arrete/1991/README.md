@@ -49,7 +49,6 @@
 - [Arrêté du 2 décembre 1991 (EQUT9101736A)](arrete-du-2-decembre-1991-equt9101736a)
 - [Arrêté du 2 décembre 1991 (SANM9102655A)](arrete-du-2-decembre-1991-sanm9102655a)
 - [Arrêté du 2 décembre 1991 (SPSG9102806A)](arrete-du-2-decembre-1991-spsg9102806a)
-- [Arrêté du 2 janvier 1991 (BUDD9170000A)](arrete-du-2-janvier-1991-budd9170000a)
 - [Arrêté du 2 janvier 1991 (INDD9100050A)](arrete-du-2-janvier-1991-indd9100050a)
 - [Arrêté du 2 juillet 1991 (JUSA9100179A)](arrete-du-2-juillet-1991-jusa9100179a)
 - [Arrêté du 2 mars 1991 (AGRP9100525A)](arrete-du-2-mars-1991-agrp9100525a)
