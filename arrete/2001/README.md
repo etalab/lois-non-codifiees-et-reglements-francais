@@ -170,7 +170,6 @@
 - [Arrêté du 13 avril 2001 (MAEA0120122A)](arrete-du-13-avril-2001-maea0120122a)
 - [Arrêté du 13 avril 2001 (MENA0100496A)](arrete-du-13-avril-2001-mena0100496a)
 - [Arrêté du 13 décembre 2000 (ECOP0000937A)](arrete-du-13-decembre-2000-ecop0000937a)
-- [Arrêté du 13 février 2001 (AGRG0100097A)](arrete-du-13-fevrier-2001-agrg0100097a)
 - [Arrêté du 13 février 2001 (ATEP0090451A)](arrete-du-13-fevrier-2001-atep0090451a)
 - [Arrêté du 13 février 2001 (JUSF0150001A)](arrete-du-13-fevrier-2001-jusf0150001a)
 - [Arrêté du 13 mars 1986](arrete-du-13-mars-1986)

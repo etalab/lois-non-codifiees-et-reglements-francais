@@ -42,7 +42,6 @@
 - [Arrêté du 14 décembre 2000 (AGRS0002606A)](arrete-du-14-decembre-2000-agrs0002606a)
 - [Arrêté du 14 décembre 2000 (ECOC0000091A)](arrete-du-14-decembre-2000-ecoc0000091a)
 - [Arrêté du 14 janvier 2000 (ATEP0090027A)](arrete-du-14-janvier-2000-atep0090027a)
-- [Arrêté du 14 novembre 2000 (AGRG0002286A)](arrete-du-14-novembre-2000-agrg0002286a)
 - [Arrêté du 15 décembre 2000 (PRMX0004542A)](arrete-du-15-decembre-2000-prmx0004542a)
 - [Arrêté du 15 juin 1990 (PRMX9010128A)](arrete-du-15-juin-1990-prmx9010128a)
 - [Arrêté du 15 mars 2000 (ECOI0000147A)](arrete-du-15-mars-2000-ecoi0000147a)
