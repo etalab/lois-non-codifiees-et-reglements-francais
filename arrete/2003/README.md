@@ -289,7 +289,6 @@
 - [Arrêté du 8 juillet 2003 (SANS0322597A)](arrete-du-8-juillet-2003-sans0322597a)
 - [Arrêté du 8 juillet 2003 (SOCT0310970A)](arrete-du-8-juillet-2003-soct0310970a)
 - [Arrêté du 8 juillet 2003 (SOCT0310971A)](arrete-du-8-juillet-2003-soct0310971a)
-- [Arrêté du 8 juillet 2003 (SPRK0370109A)](arrete-du-8-juillet-2003-sprk0370109a)
 - [Arrêté du 8 octobre 2003 (ECOC0300084A)](arrete-du-8-octobre-2003-ecoc0300084a)
 - [Arrêté du 8 octobre 2003 (INDI0320365A)](arrete-du-8-octobre-2003-indi0320365a)
 - [Arrêté du 8 octobre 2003 (PRMX0306865A)](arrete-du-8-octobre-2003-prmx0306865a)
