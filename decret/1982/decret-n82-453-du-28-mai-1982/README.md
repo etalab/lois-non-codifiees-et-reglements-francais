@@ -4,5 +4,4 @@
 - [Titre II : Formation en matière d'hygiène et de sécurité.](titre-ii)
 - [Titre III : Médecine de prévention.](titre-iii)
 - [Titre IV : Organismes compétents en matière d'hygiène et de sécurité](titre-iv)
-- [Titre V : Dispositions diverses.](titre-v)
 - [Article 64](article-64.md)
