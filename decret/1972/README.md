@@ -8,6 +8,7 @@
 - [Décret n°72-950 du 3 octobre 1972](decret-n72-950-du-3-octobre-1972)
 - [Décret n°72-580 du 4 juillet 1972](decret-n72-580-du-4-juillet-1972)
 - [Décret n°72-607 du 4 juillet 1972](decret-n72-607-du-4-juillet-1972)
+- [Décret n°72-665 du 4 juillet 1972](decret-n72-665-du-4-juillet-1972)
 - [Décret n°60-424 du 4 mai 1960](decret-n60-424-du-4-mai-1960)
 - [Décret n°72-355 du 4 mai 1972](decret-n72-355-du-4-mai-1972)
 - [Décret n°72-1160 du 5 décembre 1972](decret-n72-1160-du-5-decembre-1972)

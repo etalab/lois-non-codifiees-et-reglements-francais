@@ -1,13 +1,11 @@
 # Article 295
 
-Les sociétés visées à l'article précédent ont la faculté de développer à leur gré les subdivisions des bilans types, à la condition d'en respecter les rubriques. Les inscriptions aux différents postes du bilan devront respecter les définitions prévues par l'article 2 du décret précité du 28 octobre 1965. Les règles d'évaluation prévues par les articles 4 à 11 du même décret devront être suivies. Toutefois, les sociétés pourront, sous la responsabilité du conseil d'administration, du directoire ou des gérants et sans préjudice de l'application de l'article 341 de la loi sur les sociétés commerciales, adopter d'autres règles d'évaluation à condition de publier, à la suite de leur bilan, les règles ainsi adoptées.
+Dans les quatre mois de la clôture de l'exercice et quinze jours au moins avant la réunion de l'assemblée générale ordinaire des actionnaires, les sociétés visées à l'article 294 publient au bulletin des annonces légales obligatoires les documents suivants, relatifs à l'exercice écoulé, sous un titre faisant clairement apparaître qu'il s'agit de projets non vérifiés par les commissaires au comptes :
 
-Au bilan doivent être annexé :
+1. Les comptes annuels ;
 
-1° L'indication du montant des engagements hors bilan contractés par la société, s'il en existe ;
+2. L'inventaire des valeurs mobilières détenues en portefeuille à la clôture de l'exercice écoulé avec l'indication, pour chaque catégorie, de leur nombre et de leur valeur d'inventaire ; toutefois, certaines valeurs pourront être inscrites pour un montant global lorsqu'elles ne sont pas d'importance significative ; si certaines de ces indications sont omises en raison du préjudice grave qui pourrait résulter de leur divulgation, il est fait mention du caractère incomplet de cette information ;
 
-2° Un tableau relatif à la répartition et à l'affectation des bénéfices décidées par l'assemblée générale des actionnaires et établi conformément au modèle fixé par l'article 1er du décret précité du 28 octobre 1965 ;
+3. Le projet d'affectation du résultat ;
 
-3° Un tableau de renseignements concernant les filiales et les participations, dont le modèle est annexé au présent décret.
-
-Modèle non reproduit, voir au Journal officiel.
+4. Les comptes consolidés annexés aux comptes annuels, s'ils sont disponibles.

@@ -1,6 +1,6 @@
 # Article 59
 
-La notice prévue par l'article 74, alinéa 2, de la loi sur les sociétés commerciales est publiée au bulletin des annonces légales obligatoires, avant le début des opérations de souscription et préalablement à toute mesure de publicité.
+La notice prévue par l'article 74, alinéa 2, de la loi sur les sociétés commerciales est publiée au Bulletin des annonces légales obligatoires, avant le début des opérations de souscription et préalablement à toute mesure de publicité.
 
 Elle contient les indications suivantes :
 
@@ -30,9 +30,7 @@ Elle contient les indications suivantes :
 
 13° Le cas échéant, les clauses relatives à l'agrément des cessionnaires d'actions ;
 
-14° Les dispositions relatives à la répartition des bénéfices, à la constitution de réserves et à la répartition du boni de liquidation ;
-
-15° Le nom et la résidence du notaire ou la dénomination sociale et le siège de la banque qui recevra les fonds provenant de la souscription ; le cas échéant, l'indication que les fonds seront déposés à la caisse des dépôts et consignations ;
+14° Les dispositions relatives à la répartition du résultat, à la constitution de réserves et à la répartition du boni de liquidation ;    15° Le nom et la résidence du notaire ou la dénomination sociale et le siège de la banque qui recevra les fonds provenant de la souscription ; le cas échéant, l'indication que les fonds seront déposés à la caisse des dépôts et consignations ;
 
 16° Le délai ouvert pour la souscription, avec l'indication de la possibilité de clôture anticipée, en cas de souscription intégrale avant l'expiration dudit délai ;
 

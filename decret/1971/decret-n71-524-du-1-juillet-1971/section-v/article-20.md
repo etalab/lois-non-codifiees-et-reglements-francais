@@ -8,7 +8,7 @@ A compter de la convocation de l'assemblée et jusqu'au cinquième jour inclusiv
 
 3° Le ou les rapports des commissaires aux comptes ;
 
-4° S'il s'agit de l'assemblée générale ordinaire prévue à l'article 14, alinéa 1, de la loi susvisée du 31 décembre 1970, le compte d'exploitation générale, le compte des pertes et profits, le bilan [*comptes annuels*], le cas échéant les rapports du conseil de surveillance et des commissaires aux comptes.
+4° S'il s'agit de l'assemblée générale ordinaire prévue à l'article 14, alinéa 1, de la loi susvisée du 31 décembre 1970, le bilan , le compte de résultats, l'annexe [*comptes annuels*], le cas échéant les rapports  du conseil de surveillance et des commissaires aux comptes.
 
 Lorsque l'ordre du jour comporte la désignation du conseil de surveillance ou de membres des organes de gestion [*dirigeants*], de direction ou d'administration, la convocation indique [*forme - contenu*] :
 

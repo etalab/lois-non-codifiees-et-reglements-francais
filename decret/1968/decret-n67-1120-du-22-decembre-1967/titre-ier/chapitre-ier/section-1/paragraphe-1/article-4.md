@@ -1,6 +1,6 @@
 # Article 4
 
-La déclaration de cessation des paiements est déposée au greffe.    A cette déclaration sont jointes, outre le bilan, le compte d'exploitation générale, le compte de pertes et profits ainsi que l'état des engagements hors bilan du dernier exercice, les pièces ci-après établies à la date de la déclaration [*formalités*] :
+La déclaration de cessation des paiements est déposée au greffe.    A cette déclaration sont jointes, outre le bilan, le compte d'exploitation générale, le compte de résultat et l'annexe du dernier exercice, les pièces ci-après établies à la date de la déclaration [*formalités*] :
 
 1° Un état de situation ;
 

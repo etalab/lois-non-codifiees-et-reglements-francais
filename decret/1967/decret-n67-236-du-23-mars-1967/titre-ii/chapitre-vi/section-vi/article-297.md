@@ -1,15 +1,7 @@
 # Article 297
 
-Toute société dont les actions sont inscrites à la cote officielle des bourses de valeurs et dont le bilan n'excède pas dix millions de francs doit adresser, dans un délai de quinze jours, à tout actionnaire qui lui en fait la demande, tels qu'ils ont été approuvés par la dernière assemblée générale :
+Les sociétés visées à l'article 294 publient au bulletin des annonces légales obligatoires :
 
-1° Le bilan présenté conformément au modèle prévu par l'article 1er du décret précité du 28 octobre 1965 ;
+1. Dans les quatre mois qui suivent la fin du premier semestre de l'exercice, un tableau d'activités et de résultats du semestre écoulé, indiquant notamment le montant net du chiffre d'affaires et le résultat avant impôt, établi sur la base des éléments prévus aux articles 14 à 16 du décret n° 83-1020 du 29 novembre 1983 ; la commission des opérations de bourse peut autoriser l'adaptation de ce tableau ou la modification de la période à laquelle il s'applique pour tenir compte du caractère particulier de l'activité de certaines sociétés ou catégories de sociétés ;
 
-2° Le compte de pertes et profits faisant apparaître, notamment, le montant de l'impôt sur les sociétés afférent aux bénéfices de l'exercice.
-
-Les sociétés visées au présent adressent, dans les mêmes conditions, à tout actionnaire qui leur en fait la demande :
-
-1° Leur compte d'exploitation générale, faisant apparaître distinctement la valeur des stocks au début et à la fin de l'exercice ainsi que le montant des principales charges et des principaux produits d'exploitation ;
-
-2° L'inventaire des valeurs mobilières détenues en portefeuille à la clôture de l'exercice, établi dans les conditions prévues au 4° de l'article 294.
-
-Les dispositions de l'article 295 sont applicables aux sociétés visées au présent article.
+2. Dans les quarante-cinq jours qui suivent chacun des trimestres de l'exercice, le montant net du chiffre d'affaires du trimestre écoulé et, le cas échéant, de chacun des trimestres précédents de l'exercice en cours et de l'ensemble de cet exercice ainsi que l'indication des chiffres correspondants de l'exercice précédent ; les sociétés ayant plusieurs branches d'activité publient le chiffre d'affaires correspondant à chacune d'elles avec les mêmes comparaisons ; elles publient, le cas échéant, le montant du chiffre d'affaires consolidé selon les méthodes ci-dessus indiquées ; la commission des opérations de peut prescrire l'adaptation de ces données pour tenir compte du caractère particulier de certaines sociétés ; ces indications sont omises lorsque leur publicité est de nature à porter gravement préjudice aux sociétés concernées.
