@@ -2,7 +2,7 @@
 
 Dans les eaux de la 2e catégorie, la pêche aux lignes est autorisée toute l'année.
 
-La pêche aux engins et aux filets est interdite en dehors des temps d'ouverture fixés du 1er janvier au troisième dimanche d'avril et du deuxième samedi de juin au 31 décembre. Le commissaire de la République peut, par arrêté, lever partiellement ou totalement cette interdiction, d'une part, pour la pêche des aloses, de l'anguille, du flet, des lamproies et du mulet, et, d'autre part, pour la pêche du saumon et de la truite de mer uniquement pendant le temps d'ouverture de la pêche de ces deux espèces fixé à l'article 4 du présent décret.
+La pêche aux engins et aux filets est interdite en dehors des temps d'ouverture fixés du 1er janvier au troisième dimanche d'avril et du deuxième samedi de juin au 31 décembre. Le commissaire de la République peut, par arrêté, lever partiellement ou totalement cette interdiction, d'une part, pour la pêche de l'écrevisse américaine, des aloses, de l'anguille, du flet, des lamproies et du mulet , et, d'autre part, pour la pêche du saumon et de la truite de mer uniquement pendant le temps d'ouverture de la pêche de ces deux espèces fixé à l'article 4 du présent décret.
 
 Dans les eaux de la 2e catégorie, par dérogation aux alinéas précédents, toute pêche des espèces ci-après est interdite en dehors des temps d'ouverture suivants :
 
