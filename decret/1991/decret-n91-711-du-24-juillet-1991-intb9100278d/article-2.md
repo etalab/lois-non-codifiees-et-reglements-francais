@@ -11,3 +11,5 @@ c) Du 1er septembre 1992, date d'application des décrets n° 92-841 du 28 août
 d) Du 1er août 1992 pour les fonctionnaires mentionnés du 10° au 20° dudit article. "
 
 e) Du 1er août 1993 pour les fonctionnaires mentionnés du 21° au 34° dudit article. "
+
+" f) Du 1er août 1994 pour les fonctionnaires mentionnés du 35° au 45° dudit article. "
