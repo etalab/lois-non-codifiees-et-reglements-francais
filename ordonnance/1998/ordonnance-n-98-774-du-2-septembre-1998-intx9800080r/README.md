@@ -3,4 +3,5 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 17](article-17.md)
+- [Article 17 bis](article-17-bis.md)
 - [Article 18](article-18.md)

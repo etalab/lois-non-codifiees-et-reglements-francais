@@ -1,0 +1,3 @@
+# Article 7
+
+Les médecins habilités perçoivent au titre de ces fonctions le remboursement des frais de déplacement par les sections constituant les unions dans des conditions fixées par le règlement intérieur desdites sections. Ce règlement intérieur prévoit l'attribution par la section constituant l'union d'une indemnité forfaitaire destinée à compenser la réduction de l'activité professionnelle entraînée par ces fonctions, dans la limite d'un montant égal, par réunion d'une demi-journée, à douze fois la valeur de la consultation du médecin généraliste telle qu'elle résulte de l'application des articles L. 162-5-2, L. 162-5-9 ou L. 162-38 du code de la sécurité sociale.
