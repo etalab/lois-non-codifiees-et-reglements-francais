@@ -1,3 +1,0 @@
-# Article 21
-
-Si le prestataire de services ne remplit plus les conditions requises pour être agréé, ou s'il a manqué aux engagements souscrits dans la convention prévue à l'article précédent, ou s'il a commis des manquements caractérisés à l'égard des détenteurs de chèques-vacances, notamment en ce qui concerne la qualité ou la quantité des services offerts ou fournis, l'agence peut suspendre l'agrément pour une durée maximum d'un an et procéder à son retrait motivé, temporaire ou définitif, après avoir entendu les explications du prestataire de services ou de son représentant qualifié. Toute convention passée entre l'agence et un prestataire de services doit comporter les clauses prévoyant l'éventualité et les conditions d'une suspension ou d'un retrait.
