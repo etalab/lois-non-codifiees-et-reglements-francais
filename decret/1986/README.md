@@ -2,6 +2,8 @@
 
 - [Décret n°86-10 du 3 janvier 1986](decret-n86-10-du-3-janvier-1986)
 - [Décret n°86-23 du 3 janvier 1986](decret-n86-23-du-3-janvier-1986)
+- [Décret n°86-27 du 3 janvier 1986](decret-n86-27-du-3-janvier-1986)
+- [Décret n°86-28 du 3 janvier 1986](decret-n86-28-du-3-janvier-1986)
 - [Décret n°86-3 du 3 janvier 1986](decret-n86-3-du-3-janvier-1986)
 - [Décret n°86-4 du 3 janvier 1986](decret-n86-4-du-3-janvier-1986)
 - [Décret n°86-5 du 3 janvier 1986](decret-n86-5-du-3-janvier-1986)
@@ -56,5 +58,6 @@
 - [Décret n°85-1515 du 31 décembre 1985](decret-n85-1515-du-31-decembre-1985)
 - [Décret n°85-1517 du 31 décembre 1985](decret-n85-1517-du-31-decembre-1985)
 - [Décret n°85-1519 du 31 décembre 1985](decret-n85-1519-du-31-decembre-1985)
+- [Décret n°85-1525 du 31 décembre 1985](decret-n85-1525-du-31-decembre-1985)
 - [Décret n°85-1530 du 31 décembre 1985](decret-n85-1530-du-31-decembre-1985)
 - [Décret n°85-1531 du 31 décembre 1985](decret-n85-1531-du-31-decembre-1985)
