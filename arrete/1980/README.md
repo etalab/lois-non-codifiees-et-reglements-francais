@@ -38,7 +38,6 @@
 - [Arrêté du 17 novembre 1980](arrete-du-17-novembre-1980)
 - [Arrêté du 19 décembre 1973](arrete-du-19-decembre-1973)
 - [Arrêté du 19 décembre 1980](arrete-du-19-decembre-1980)
-- [Arrêté du 19 juin 1980](arrete-du-19-juin-1980)
 - [Arrêté du 19 novembre 1980](arrete-du-19-novembre-1980)
 - [Arrêté du 20 novembre 1980](arrete-du-20-novembre-1980)
 - [Arrêté du 20 octobre 1980](arrete-du-20-octobre-1980)
