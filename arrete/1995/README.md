@@ -762,7 +762,6 @@
 - [Arrêté du 19 juillet 1995 (JUSE9540053A)](arrete-du-19-juillet-1995-juse9540053a)
 - [Arrêté du 19 juillet 1995 (SPSS9502211A)](arrete-du-19-juillet-1995-spss9502211a)
 - [Arrêté du 19 juin 1995 (COMA9500026A)](arrete-du-19-juin-1995-coma9500026a)
-- [Arrêté du 19 juin 1995 (DEFT9501708A)](arrete-du-19-juin-1995-deft9501708a)
 - [Arrêté du 19 octobre 1995 (INDD9501045A)](arrete-du-19-octobre-1995-indd9501045a)
 - [Arrêté du 19 octobre 1995 (JUSG9560062A)](arrete-du-19-octobre-1995-jusg9560062a)
 - [Arrêté du 19 octobre 1995 (MCCK9500530A)](arrete-du-19-octobre-1995-mcck9500530a)
