@@ -1,7 +1,0 @@
-# Titre III : Opérations avec l'étranger soumises à déclaration ou à autorisation
-
-- [Section I : Investissements directs à l'étranger.](section-i)
-- [Section II : Investissements directs en France.](section-ii)
-- [Section II bis : Investissements directs à l'intérieur de la Communauté économique européenne.](section-ii-bis)
-- [Section II ter : Régime applicable à certains investissements directs étrangers en France.](section-ii-ter)
-- [Section V : Relations avec les Etats dont l'institut d'émission est lié au Trésor français par un compte d'opérations.](section-v)
