@@ -2,7 +2,7 @@
 
 La taxe est recouvrée selon les règles, conditions, garanties et sanctions suivantes :
 
-1. Les exploitants d'aéronefs déclarent chaque mois ou, si le montant des sommes dues est inférieur à 500 F par mois, chaque trimestre, sur un imprimé fourni par l'Agence de l'environnement et de la maîtrise de l'énergie, le nombre de décollages effectués le mois ou le trimestre précédents à partir des aérodromes visés aux articles 16 et 17, ainsi que la masse, le groupe acoustique et les heures de décollage des aéronefs concernés. Cette déclaration, accompagnée du paiement de la taxe due, est adressée au comptable public compétent.
+1. Les exploitants d'aéronefs déclarent chaque mois ou, si le montant des sommes dues est inférieur à 76,22 euros par mois, chaque trimestre, sur un imprimé fourni par l'Agence de l'environnement et de la maîtrise de l'énergie, le nombre de décollages effectués le mois ou le trimestre précédents à partir des aérodromes visés aux articles 16 et 17, ainsi que la masse, le groupe acoustique et les heures de décollage des aéronefs concernés. Cette déclaration, accompagnée du paiement de la taxe due, est adressée au comptable public compétent.
 
 2. Cette déclaration est contrôlée par les services de l'Agence de l'environnement et de la maîtrise de l'énergie. A cette fin, les agents assermentés peuvent examiner sur place les documents utiles.
 
