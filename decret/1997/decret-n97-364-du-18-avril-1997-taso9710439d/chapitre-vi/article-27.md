@@ -1,0 +1,7 @@
+# Article 27
+
+A compter du 1er janvier 1997 et jusqu'à la constitution de la commission administrative paritaire du corps des contrôleurs du travail, qui interviendra avant le 1er juillet 1998, les représentants aux commissions administratives paritaires des corps de chefs de centre des services extérieurs du travail et de la main-d'oeuvre, de contrôleurs des services extérieurs du travail et de la main-d'oeuvre, de contrôleurs de la formation professionnelle et de contrôleurs des lois sociales en agriculture se réunissent en formation commune.
+
+Les représentants du corps de chef de centre des services extérieurs du travail et de la main-d'oeuvre, des grades de contrôleurs en chef de la formation professionnelle et de contrôleur divisionnaire des lois sociales en agriculture exercent les compétences du grade de contrôleur de classe exceptionnelle du travail.
+
+Les représentants des grades de contrôleur chef de section des services extérieurs du travail et de la main-d'oeuvre, de contrôleur chef de section de la formation professionnelle et de contrôleur principal des lois sociales en agriculture, et les représentants des grades de contrôleur des services extérieurs du travail et de la main-d'oeuvre, de contrôleur de la formation professionnelle et de contrôleur des lois sociales en agriculture exercent les compétences des représentants des grades de contrôleur de classe supérieure et de contrôleur de classe normale du travail.

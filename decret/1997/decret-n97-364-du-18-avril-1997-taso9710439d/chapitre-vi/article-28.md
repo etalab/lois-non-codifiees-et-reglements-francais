@@ -1,0 +1,3 @@
+# Article 28
+
+Le décret n° 66-752 du 3 octobre 1966 modifié relatif au statut particulier des chefs de centre des services extérieurs du travail et de la main-d'oeuvre, le décret n° 66-753 du 3 octobre 1966 modifié relatif au statut particulier des contrôleurs des services extérieurs du travail et de la main-d'oeuvre, le décret n° 70-874 du 16 septembre 1970 modifié relatif au statut particulier des contrôleurs des lois sociales en agriculture et le décret n° 85-1117 du 16 octobre 1985 modifié portant statut particulier des contrôleurs de la formation professionnelle sont abrogés à compter du 1er janvier 1997.
