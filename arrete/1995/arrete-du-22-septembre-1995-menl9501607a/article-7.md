@@ -27,3 +27,5 @@ c) Au niveau de l'administration centrale :
 - les agents habilités de la direction de l'évaluation et de la prospective ;
 
 d) Les parents d'élèves.
+
+En vue du règlement de l'allocation de rentrée scolaire pour les élèves âgés de seize à dix-huit ans, les caisses d'allocations familiales sont destinataires des données suivantes : nom, prénom, date de naissance de l'élève, nom et prénom de l'un des parents, commune de résidence.
