@@ -22,7 +22,7 @@ b) Le lieu de la vérification et le mode de convocation individuelle des assuje
 
 c) Les moyens de vérification que les fabricants, réparateurs ou détenteurs d'instruments de mesure doivent mettre à la disposition des agents chargés du contrôle ;
 
-4° Les conditions dans lesquelles les fabricants et réparateurs déposent au service des poids et mesures leurs marques d'identification.
+4° Les conditions dans lesquelles les marques d'identification sont attribuées aux fabricants et réparateurs.
 
 5° Les signes et documents au moyen desquels sont constatés les résultats des opérations.
 

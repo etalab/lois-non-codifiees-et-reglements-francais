@@ -1,0 +1,5 @@
+# Article 9
+
+Peut être agréée pour effectuer les opérations de réparation, d'installation ou de vérification périodique toute personne physique ou morale qui dispose des compétences et des moyens techniques nécessaires à l'exécution des travaux concernés et dont l'activité principale n'est pas liée au transport par route ou au commerce des véhicules de transport. Le refus d'agrément doit être motivé.
+
+L'agrément, prononcé pour une durée de deux ans, est renouvelable par tacite reconduction. Il peut être retiré par décision motivée de l'autorité qui l'a prononcé après que le responsable de l'organisme agréé ait été mis en mesure de présenter ses observations lorsque l'une des conditions prévues par le présent décret et ses textes d'application n'est plus remplie. L'intéressé peut faire appel de la décision de retrait devant le ministre chargé de la métrologie légale, qui statue après avis de la commission technique des instruments de mesure au plus tard quatre mois après réception de la demande ; l'appel n'est pas suspensif.
