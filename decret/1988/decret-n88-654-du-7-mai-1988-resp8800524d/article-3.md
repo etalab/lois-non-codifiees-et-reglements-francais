@@ -1,6 +1,6 @@
 # Article 3
 
-Les candidatures sont déposées auprès du recteur de l'académie, chancelier des universités, qui, après vérification de leur recevabilité, les transmet aux présidents des universités ou aux directeurs des établissements concernés.
+Les candidatures sont déposées auprès du président de l'université ou du directeur de l'établissement concerné.
 
 La commission de spécialistes propose, dans la limite des possibilités de recrutement, les candidats retenus.
 
