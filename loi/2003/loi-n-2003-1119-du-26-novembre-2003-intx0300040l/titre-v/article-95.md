@@ -4,7 +4,7 @@ I. - 1. Le Gouvernement est autorisé, dans les conditions prévues à l'article
 
 Les projets d'ordonnance seront, selon les cas, soumis pour avis :
 
-- pour la Polynésie française ou la Nouvelle-Calédonie, aux institutions compétentes prévues respectivement par la loi organique n° 96-312 du 12 avril 1996 portant statut d'autonomie de la Polynésie française et par la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
+- pour la Polynésie française ou la Nouvelle-Calédonie, aux institutions compétentes prévues respectivement par la loi organique n° 2004-192 du 27 février 2004 portant statut d'autonomie de la Polynés française et par la loi organique n° 99-209 du 19 mars 1999 relative à la Nouvelle-Calédonie ;
 
 - pour les îles Wallis et Futuna, à l'assemblée territoriale des îles Wallis et Futuna ;
 
