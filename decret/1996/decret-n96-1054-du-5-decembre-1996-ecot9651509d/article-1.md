@@ -26,16 +26,6 @@ Cinquième Développement
 
 Communication.
 
-Compagnie Air France Europe
-
-3
-
-Budget.
-
-Economie.
-
-Transports.
-
 Compagnie financière de C.I.C. et de l'Union européenne
 
 1
@@ -59,16 +49,6 @@ Défense.
 Economie.
 
 Industrie.
-
-Compagnie nationale Air France
-
-3
-
-Budget.
-
-Economie.
-
-Transports.
 
 Entreprise minière et chimique (Belgique)
 
