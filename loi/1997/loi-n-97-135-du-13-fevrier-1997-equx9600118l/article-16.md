@@ -1,0 +1,7 @@
+# Article 16
+
+A compter du 1er janvier 1997, la Société nationale des chemins de fer français continue d'exercer à titre transitoire, pour le compte de Réseau ferré de France, les missions dévolues au nouvel établissement qui lui étaient confiées par les lois, règlements et conventions en vigueur avant cette date, d'assumer les responsabilités correspondantes et de recevoir, dans les mêmes conditions, les concours financiers prévus par ces lois, règlements et conventions, jusqu'à l'intervention des dispositions réglementaires mentionnées aux articles 1er, 2, 3 et au troisième alinéa de l'article 5 de la présente loi, ainsi que de la convention entre Réseau ferré de France et la Société nationale des chemins de fer français mentionnée au quatrième alinéa de l'article 1er.
+
+Les actes relatifs aux biens mentionnés au premier alinéa de l'article 5, passés par la Société nationale des chemins de fer français à compter du 1er janvier 1997 et jusqu'à l'intervention des dispositions réglementaires et de la convention mentionnées à l'alinéa précédent, sont réputés conclus au nom et pour le compte de Réseau ferré de France.
+
+A défaut de convention passée dans le délai de six mois après la publication des dispositions réglementaires susmentionnées, un décret en Conseil d'Etat fixe les conditions d'exécution et de rémunération des missions mentionnées au troisième alinéa de l'article 1er, jusqu'à l'intervention de ladite convention.

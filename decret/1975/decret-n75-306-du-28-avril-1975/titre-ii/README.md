@@ -2,5 +2,6 @@
 
 - [CHAPITRE Ier - MESURES D'ORDRE ADMINISTRATIF.](chapitre-ier)
 - [CHAPITRE II - MESURES D'ORGANISATION CONCERNANT LES ZONES CONTROLEES ET SURVEILLEES.](chapitre-ii)
+- [Chapitre IV bis : Dispositions particulières applicables aux travailleurs des entreprises extérieures](chapitre-iv-bis)
 - [CHAPITRE V - MESURES PARTICULIERES APPLICABLES AUX ZONES SURVEILLEES.](chapitre-v)
 - [CHAPITRE VI - MESURES RELATIVES A L'ORGANISATION DES SECOURS ET A LA PREVENTION DES INCENDIES](chapitre-vi)

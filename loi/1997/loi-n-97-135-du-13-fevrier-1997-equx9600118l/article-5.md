@@ -1,0 +1,7 @@
+# Article 5
+
+Les biens constitutifs de l'infrastructure et les immeubles non affectés à l'exploitation des services de transport appartenant à l'Etat et gérés par la Société nationale des chemins de fer français sont, à la date du 1er janvier 1997, apportés en pleine propriété à Réseau ferré de France. Les biens constitutifs de l'infrastructure comprennent les voies, y compris les appareillages fixes associés, les ouvrages d'art et les passages à niveau, les quais à voyageurs et à marchandises, les triages et les chantiers de transport combiné, les installations de signalisation, de sécurité, de traction électrique et de télécommunications liées aux infrastructures, les bâtiments affectés au fonctionnement et à l'entretien des infrastructures.
+
+Sont exclus de l'apport, d'une part, les biens dévolus à l'exploitation des services de transport, qui comprennent les gares, les entrepôts et cours de marchandises ainsi que les installations d'entretien du matériel roulant, et, d'autre part, les ateliers de fabrication, de maintenance et de stockage des équipements liés à l'infrastructure, ainsi que les immeubles administratifs. Il en est de même des biens affectés au logement social ou au logement des agents de la Société nationale des chemins de fer français par nécessité de service et de ceux affectés aux activités sociales, des filiales et des participations financières.
+
+Les modalités de détermination de ces biens sont fixées par décret en Conseil d'Etat.

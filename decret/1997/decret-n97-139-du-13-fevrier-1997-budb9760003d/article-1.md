@@ -1,0 +1,3 @@
+# Article 1
+
+La contribution libératoire due par France Télécom au titre d'une année déterminée en application du c de l'article 30 de la loi du 2 juillet 1990 susvisée est obtenue par l'application d'un taux déterminé dans les conditions définies à l'article 2 du présent décret au montant des sommes soumises à retenue pour pension, payées au cours de la même année aux fonctionnaires affectés à France Télécom. Toutefois, la fraction de ces sommes qui représente la part des rémunérations des fonctionnaires en congé de fin de carrière, prévus à l'article 30-1 de la loi du 2 juillet 1990 susvisée, correspondant aux traitements, est affectée du coefficient 10/7.

@@ -1,0 +1,11 @@
+# Article 1
+
+Il est créé à la date du 1er janvier 1997 un établissement public national à caractère industriel et commercial dénommé : "Réseau ferré de France". Cet établissement a pour objet, conformément aux principes du service public et dans le but de promouvoir le transport ferroviaire en France dans une logique de développement durable, l'aménagement, le développement, la cohérence et la mise en valeur de l'infrastructure du réseau ferré national. La consistance et les caractéristiques principales de ce réseau sont fixées par l'Etat, dans les conditions prévues à l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs.
+
+Réseau ferré de France met en oeuvre, sous le contrôle de l'Etat, le schéma du réseau ferroviaire prévu au II de l'article 17 de la loi n° 95-115 du 4 février 1995 d'orientation pour l'aménagement et le développement du territoire.
+
+Compte tenu des impératifs de sécurité et de continuité du service public, la gestion du trafic et des circulations sur le réseau ferré national ainsi que le fonctionnement et l'entretien des installations techniques et de sécurité de ce réseau sont assurés par la Société nationale des chemins de fer français pour le compte et selon les objectifs et principes de gestion définis par Réseau ferré de France. Il la rémunère à cet effet.
+
+Un décret en Conseil d'Etat précise les modalités d'exercice des missions de Réseau ferré de France. Sur la base de ce décret, une convention entre Réseau ferré de France et la Société nationale des chemins de fer français fixe, notamment, les conditions d'exécution et de rémunération des missions mentionnées au précédent alinéa.
+
+Le décret prévu à l'alinéa précédent détermine les modalités selon lesquelles Réseau ferré de France exerce la maîtrise d'ouvrage des opérations d'investissement sur le réseau ferré national ou confie, par dérogation à la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée, à la Société nationale des chemins de fer français, après définition des programmes et enveloppes financières prévisionnelles, des mandats de maîtrise d'ouvrage pouvant porter sur des ensembles d'opérations.
