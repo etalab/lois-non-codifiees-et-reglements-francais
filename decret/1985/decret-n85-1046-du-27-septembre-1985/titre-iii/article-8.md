@@ -1,0 +1,3 @@
+# Article 8
+
+Un arrêté conjoint du ministre chargé des universités et du ministre chargé de la santé, pris après avis du conseil de perfectionnement des écoles de sages-femmes et du Conseil national de l'enseignement supérieur et de la recherche, fixe les conditions d'accès à ce concours, la nature des épreuves ainsi que les conditions générales de son organisation. Celle-ci est confiée aux représentants de l'Etat dans les régions et dans les territoires d'outre-mer. Les représentants de l'Etat déterminent dans la limite des règles fixées par l'arrêté prévu au présent article la composition des jurys, procèdent à la nomination des membres de ces derniers, proclament les résultats du concours et affectent les candidats.
