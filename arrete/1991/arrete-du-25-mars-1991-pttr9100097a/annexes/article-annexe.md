@@ -1,8 +1,8 @@
 # Article ANNEXE
 
-CAHIER DES CHARGES RELATIF À L'AUTORISATION GSM F2
+CAHIER DES CHARGES RELATIF À L'AUTORISATION GSM F1
 
-Titulaire de l'autorisation : Société française du radiotéléphone.
+Titulaire de l'autorisation : France Télécom.
 
 Définitions
 
@@ -14,11 +14,11 @@ Il s'agit du titulaire de l'autorisation, visé à l'article 1er de l'arrêté a
 
 GSM F1
 
-Il s'agit du service de communication personnelle conforme à la norme GSM exploité par la société France Télécom.
+Il s'agit du service de communication personnelle conforme à la norme GSM exploité par l'opérateur.
 
 GSM F2
 
-Il s'agit du service de communication personnelle conforme à la norme GSM exploité par l'opérateur.
+Il s'agit du service de communication personnelle conforme à la norme GSM exploité par la Société française du radiotéléphone.
 
 DCS F3
 
@@ -62,7 +62,7 @@ Il s'agit de la famille de normes définies par l'ETSI constituée de la norme G
 
 Le service
 
-Il s'agit du service de communication personnelle défini au paragraphe 1.1 du présent cahier des charges.
+Il s'agit du service de communication personnelle défini au chapitre Ier du présent cahier des charges.
 
 Les abonnés au service
 
@@ -74,11 +74,11 @@ Il s'agit de l'association de droit suisse créée par les signataires du protoc
 
 Les usagers visiteurs
 
-Il s'agit des abonnés des réseaux radioélectriques ouverts au public autorisés en France, autres que le réseau GSM F2, munis d'équipements terminaux compatibles avec le service GSM F2 et désireux d'utiliser le service GSM F2.
+Il s'agit des abonnés des réseaux radioélectriques ouverts au public autorisés en France, autres que le réseau GSM F1, munis d'équipements terminaux compatibles avec le service GSM F1 et désireux d'utiliser le service GSM F1.
 
 Les usagers itinérants
 
-Il s'agit des clients, autres que les usagers visiteurs et les abonnés au service, abonnés aux services conformes à la norme GSM exploités par les opérateurs membres de l'association du protocole d'accord GSM, munis d'équipements terminaux compatibles avec le service GSM F2 et désireux d'utiliser le service GSM F2.
+Il s'agit des clients, autres que les usagers visiteurs et les abonnés au service, abonnés aux services conformes à la norme GSM exploités par les opérateurs membres de l'association du protocole d'accord GSM, munis d'équipements terminaux compatibles avec le service GSM F1 et désireux d'utiliser le service GSM F1.
 
 Les conventions d'interconnexion
 
@@ -92,7 +92,7 @@ de déploiement du réseau et des services
 
 1.1. Description du réseau
 
-L'opérateur établit sur le territoire métropolitain un réseau radioélectrique ouvert au public conforme à la norme GSM, en vue de la fourniture des services décrits au paragraphe 1.2. Il est autorisé à étendre ce réseau aux départements de la Guadeloupe, de la Guyane et de la Martinique.
+L'opérateur établit sur le territoire métropolitain un réseau radioélectrique ouvert au public conforme à la norme GSM, en vue de la fourniture des services décrits au paragraphe 1.2. Il est autorisé à étendre ce réseau au département de la Réunion.
 
 Dans ce cadre, l'opérateur est autorisé à établir :
 
@@ -110,7 +110,7 @@ En outre, l'opérateur peut compléter son réseau par des liaisons louées à d
 
 1.2. Services
 
-L'opérateur fournit au public, sur le territoire métropolitain, un service de communication personnelle conforme à la norme GSM. Il est autorisé à fournir le même service dans les départements de la Guadeloupe, de la Guyane et de la Martinique.
+L'opérateur fournit au public, sur le territoire métropolitain, un service de communication personnelle conforme à la norme GSM. Il est autorisé à fournir le même service dans le département de la Réunion.
 
 Ce service permet aux clients de l'opérateur (abonnés, usagers visiteurs ou usagers itinérants) munis d'équipements terminaux, lorsqu'ils sont dans la zone de couverture du réseau, d'établir des communications téléphoniques avec l'ensemble des clients des autres réseaux ouverts au public (sous réserve des restrictions éventuelles, prévues par les contrats entre les opérateurs et leurs clients, d'acheminement du poste demandeur ou demandé).
 
@@ -118,7 +118,7 @@ Il permet également à un client de l'opérateur situé dans la zone de couvert
 
 En complément à ce service de communication personnelle, l'opérateur offre à ses clients les services prévus par le protocole d'accord mentionné au paragraphe 1.3. L'opérateur peut également proposer à ses clients les autres services prévus par la norme GSM.
 
-L'offre par l'opérateur d'autres services non prévus par la norme GSM est soumise aux procédures définies par le code des postes et télécommunications.
+L'offre par l'opérateur d'autres services non prévus par la norme GSM est soumise aux procédures définies par le code des postes et des communications électroniques.
 
 1.3. Engagement international
 
@@ -134,11 +134,11 @@ A la fin de l'année 1998, le service de l'opérateur devra être accessible, av
 
 Au 1er juillet 2000, le service de l'opérateur devra être accessible, avec des terminaux portatifs (puissance 1 ou 2 watts), depuis des zones géographiques représentant au minimum 90 % de la population métropolitaine.
 
-Conformément aux engagements pris par l'opérateur dans le cadre des dispositions de l'article L. 35-3 du code des postes et télécommunications, l'opérateur devra étendre, à partir de l'année 2000, la couverture de son réseau pour un montant d'investissement au moins équivalent au montant des exemptions dont il aura bénéficié. Il devra participer et fournir les informations nécessaires aux travaux de l'Autorité de régulation des communications électroniques et des postes qui permettront de définir cette extension de couverture visant spécifiquement des zones faiblement peuplées et non couvertes à la date de remise du premier rapport mentionné à l'article L. 35-7 du code des postes et télécommunications. Les paramètres permettant de déterminer ces zones seront fixés par l'Autorité de régulation des communications électroniques et des postes, après consultation des opérateurs, et prendront en compte, dans la mesure du possible, l'inscription de l'extension de couverture de chaque opérateur dans le prolongement de sa couverture existante.
+Conformément aux engagements pris par l'opérateur dans le cadre des dispositions de l'article L. 35-3 du code des postes et des communications électroniques, l'opérateur devra étendre, à partir de l'année 2000, la couverture de son réseau pour un montant d'investissement au moins équivalent au montant des exemptions dont il aura bénéficié. Il devra participer et fournir les informations nécessaires aux travaux de l'Autorité de régulation des communications électroniques et des postes qui permettront de définir cette extension de couverture visant spécifiquement des zones faiblement peuplées et non couvertes à la date de remise du premier rapport mentionné à l'article L. 35-7 du code des postes et des communications électroniques. Les paramètres permettant de déterminer ces zones seront fixés par l'Autorité de régulation des communications électroniques et des postes après consultation des opérateurs, et prendront en compte, dans la mesure du possible, l'inscription de l'extension de couverture de chaque opérateur dans le prolongement de sa couverture existante.
 
-b) Département des Antilles et de la Guyane
+b) Département de la Réunion
 
-En cas d'attribution, par l'Autorité de régulation des communications électroniques et des postes, de fréquences à l'opérateur dans un département des Antilles ou le département de la Guyane, des obligations de couverture propre à ce département seront fixées.
+En cas d'attribution, par l'Autorité de régulation des communications électroniques et des postes, de fréquences à l'opérateur dans le département de la Réunion, des obligations de couverture propre à ce département seront fixées.
 
 1.5. Accueil des usagers visiteurs et itinérants
 
@@ -146,13 +146,13 @@ a) Accueil des usagers visiteurs
 
 L'opérateur peut rendre possible l'accueil des usagers visiteurs sur son réseau. Dans ce cas, il respecte les dispositions du paragraphe 13.3.
 
-En vue de tirer parti de la complémentarité de la couverture des réseaux GSM F1, GSM F2 et DCS F3, le ministre chargé des télécommunications pourra décider de rendre l'accueil des usagers visiteurs sur les réseaux GSM F1, GSM F2 et DCS F3 obligatoire dans certaines zones géographiques. Une telle décision ne pourra être prise que lorsque les exploitants de ces trois réseaux auront rempli les obligations de couverture figurant au paragraphe 1.4 de leur cahier des charges, à l'exception de celles liées aux dispositions de l'article L. 35-3 du code des postes et télécommunications. Cette éventuelle décision devra permettre à ces trois opérateurs d'augmenter d'une manière comparable la couverture qu'ils offrent à leurs abonnés respectifs.
+En vue de tirer parti de la complémentarité de la couverture des réseaux GSM F1, GSM F2 et DCS F3, le ministre chargé des télécommunications pourra décider de rendre l'accueil des usagers visiteurs sur les réseaux GSM F1, GSM F2 et DCS F3 obligatoire dans certaines zones géographiques. Une telle décision ne pourra être prise que lorsque les exploitants de ces trois réseaux auront rempli les obligations de couverture figurant au paragraphe 1.4 de leur cahier des charges, à l'exception de celles liées aux dispositions de l'article L. 35-3 du code des postes et des communications électroniques. Cette éventuelle décision devra permettre à ces trois opérateurs d'augmenter d'une manière comparable la couverture qu'ils offrent à leurs abonnés respectifs.
 
 b) Accueil des usagers itinérants
 
 L'opérateur accueille sur son réseau les usagers itinérants conformément aux dispositions prévues par l'association du protocole d'accord GSM.
 
-Conformément aux engagements pris par l'opérateur en application de l'article L. 35-3 du code des postes et télécommunications, l'opérateur doit passer, dès que cela sera techniquement faisable, au moins un accord d'itinérance avec un système mobile satellitaire autorisé en France. Il doit également satisfaire dans des conditions non discriminatoires les demandes des autres opérateurs de systèmes satellitaires. Ces accords devront être conformes à l'accord standard d'itinérance défini par l'association du protocole d'accord GSM. Ils seront notifiés à l'Autorité de régulation des communications électroniques et des postes.
+Conformément aux engagements pris par l'opérateur en application de l'article L. 35-3 du code des postes et des communications électroniques, l'opérateur doit passer, dès que cela sera techniquement faisable, au moins un accord d'itinérance avec un système mobile satellitaire autorisé en France. Il doit également satisfaire dans des conditions non discriminatoires les demandes des autres opérateurs de systèmes satellitaires. Ces accords devront être conformes à l'accord standard d'itinérance défini par l'association du protocole d'accord GSM. Ils seront notifiés à l'Autorité de régulation des communications électroniques et des postes.
 
 Chapitre II
 
@@ -162,7 +162,7 @@ de disponibilité et modes d'accès
 
 2.1. Conditions de permanence du réseau et des services
 
-L'opérateur doit prendre les dispositions nécessaires pour assurer de manière permanente et continue l'exploitation du réseau et du service téléphonique au public et pour qu'il soit remédié aux effets de la défaillance du système dégradant la qualité du service pour l'ensemble ou une partie des clients, dans les délais les plus brefs.
+L'opérateur doit prendre les dispositions nécessaires pour assurer de manière permanente et continue l'exploitation du réseau et des services décrits au paragraphe 1.2 et pour qu'il soit remédié aux effets de la défaillance du système dégradant la qualité du service pour l'ensemble ou une partie des clients, dans les délais les plus brefs.
 
 L'opérateur met en oeuvre les protections et redondances nécessaires pour garantir une qualité et une disponibilité de service satisfaisantes.
 
@@ -208,7 +208,7 @@ Dans l'attente que de telles solutions puissent constituer une protection effica
 
 - l'opérateur a l'obligation de communiquer systématiquement et gratuitement à l'abonné la procédure de désactivation de ce mécanisme à l'issue d'une période proportionnée au risque encouru, ne devant en aucun cas excéder six mois à compter de la date de conclusion du contrat d'abonnement.
 
-Dans le cas où l'opérateur souhaite mettre en place un tel mécanisme, il en informe au préalable, au moins un mois avant sa mise en oeuvre effective, l'Autorité de régulation des communication s électroniques et des postes.
+Dans le cas où l'opérateur souhaite mettre en place un tel mécanisme, il en informe au préalable, au moins un mois avant sa mise en oeuvre effective, l'Autorité de régulation des communications électroniques et des postes.
 
 Chapitre III
 
@@ -316,15 +316,17 @@ Chapitre VII
 
 Contribution de l'opérateur à la recherche
 
-et à la formation en matière de télécommunications
+et à la formation en matière de télécommunications (1)
 
 L'opérateur doit justifier qu'il a contribué aux missions de recherche et de développement et de formation dans le domaine des télécommunications à hauteur d'un montant annuel minimal de 5 % du montant hors taxe de ses investissements d'infrastructures, équipements et logiciels de télécommunications pour l'activité de l'année précédente couverte par l'autorisation.
 
 L'opérateur satisfait à cette obligation par des contributions en nature ou par des contributions financières à des actions de recherche et de développement et de formation favorisant le développement des télécommunications en France, dont une part consacrée à la recherche coopérative ou précompétitive.
 
-L'opérateur est libre de la répartition de ces sommes, dont il rend compte a posteriori. A cet effet, il présente à l'Autorité de régulation des communications électroniques et des postes et au ministre chargé des télécommunications un récapitulatif précisant ses actions de promotions et de subventions et ses travaux, études, recherches, développement et formation en matière de télécommunications, notamment ses actions avec des organismes de recherche.
+L'opérateur est libre de la répartition de ces sommes, dont il rend compte a posteriori.  A cet effet, il présente à l'Autorité de régulation des communications électroniques et des postes et au ministre chargé des télécommunications un récapitulatif précisant ses actions de promotions et de subventions et ses travaux, études, recherches, développement et formation en matière de télécommunications, notamment ses actions avec des organismes de recherche.
 
 L'Autorité de régulation des communications électroniques et des postes peut, à la demande de l'opérateur qui présente alors un plan pluriannuel, autoriser la réalisation des dépenses correspondantes sur plusieurs années afin d'assurer une contribution plus régulière sur l'ensemble de la durée de l'autorisation.
+
+(1) Cette contribution ne s'ajoute pas à celle prévue à l'article 19 du cahier des charges annexé au décret n° 96-1225 du 27 décembre 1996, qui reste due.
 
 Chapitre VIII
 
@@ -332,17 +334,17 @@ Utilisation des fréquences
 
 et redevances dues à ce titre
 
-L'opérateur est autorisé à utiliser des fréquences radioélectriques pour l'établissement et l'exploitation de son réseau, sous réserve des dispositions du III de l'article L. 33-1 du code des postes et télécommunications.
+L'opérateur est autorisé à utiliser des fréquences radioélectriques pour l'établissement et l'exploitation de son réseau, sous réserve des dispositions du III de l'article L. 33-1 du code des postes et des communications électroniques.
 
 8.1. Attribution des fréquences
 
-Les fréquences sont attribuées à l'opérateur dans les conditions prévues à l'article L. 36-7 du code des postes et télécommunications.
+Les fréquences sont attribuées à l'opérateur dans les conditions prévues à l'article L. 36-7 du code des postes et des communications électroniques.
 
 8.2. Conditions d'utilisation
 
-Dans le cadre défini par l'Autorité de régulation des communications électroniques et des postes, l'opérateur peut adresser directement à l'Agence nationale des fréquences ses demandes d'assignation de fréquences, en application du 4° de l'article R. 52-2-1 du code des postes et télécommunications.
+Dans le cadre défini par l'Autorité de régulation des communications électroniques et des postes, l'opérateur peut adresser directement à l'Agence nationale des fréquences ses demandes d'assignation de fréquences, en application du 4° de l'article R. 52-2-1 du code des postes et des communications électroniques.
 
-Dans les canaux qui lui ont été attribués, l'opérateur demande l'accord de l'Agence nationale des fréquences préalablement à l'implantation de stations radioélectriques, lorsque cet accord est requis, en application du 5° de l'article R. 52-2-1 du code des postes et télécommunications. L'opérateur transmet la demande directement à l'Agence nationale des fréquences et en informe l'Autorité de régulation des communications électroniques et des postes.
+Dans les canaux qui lui ont été attribués, l'opérateur demande l'accord de l'Agence nationale des fréquences préalablement à l'implantation de stations radioélectriques, lorsque cet accord est requis, en application du 5° de l'article R. 52-2-1 du code des postes et des communications électroniques. L'opérateur transmet la demande directement à l'Agence nationale des fréquences et en informe l'Autorité de régulation des communications électroniques et des postes.
 
 8.3. Redevances de mise à disposition
 
@@ -366,9 +368,13 @@ REDEVANCE ANNUELLE PAR CANAL
 
 (en francs)
 
-Jusqu'au 31 décembre 1998
+Jusqu'au
 
-A partir du 1er janvier 1999
+31 décembre 1998
+
+A partir
+
+du 1er janvier 1999
 
 Zone couvrant moins de 20 % du territoire métropolitain et ne contenant pas l'agglomération parisienne.
 
@@ -490,7 +496,7 @@ des 37-39,5 GHz
 
 (en francs)
 
-L 3,5
+L  3,5
 
 6 300
 
@@ -498,7 +504,7 @@ L 3,5
 
 2 800
 
-3,5 < L 7
+3,5 < L  7
 
 12 600
 
@@ -506,7 +512,7 @@ L 3,5
 
 5 600
 
-7 < L 14
+7 < L  14
 
 18 900
 
@@ -514,7 +520,7 @@ L 3,5
 
 8 400
 
-14 < L 28
+14 < L  28
 
 25 200
 
@@ -542,17 +548,19 @@ BANDE DES 17,7-19,7 GHz
 
 (en francs)
 
-14 < L 28
+14 < L  28
+
+-
 
 21 000
 
-28 < L 7
+28 < L  7
 
 37 800
 
 29 400
 
-56 < L 14
+56 < L  14
 
 46 200
 
@@ -574,7 +582,7 @@ L'opérateur utilise les ressources en numérotation qui lui ont été attribué
 
 9.2. Redevances
 
-L'opérateur doit s'acquitter des redevances dues pour les ressources en numérotation attribuées dans les conditions prévues par les textes en vigueur, notamment l'article L. 34-10 du code des postes et télécommunications et le décret du 27 décembre 1996 relatif aux redevances dues pour les frais de gestion du plan national de numérotation et de contrôle de son utilisation.
+L'opérateur doit s'acquitter des redevances dues pour les ressources en numérotation attribuées dans les conditions prévues par les textes en vigueur, notamment l'article L. 34-10 du code des postes et des communications électroniques et le décret du 27 décembre 1996 relatif aux redevances dues pour les frais de gestion du plan national de numérotation et de contrôle de son utilisation.
 
 Chapitre X
 
@@ -620,13 +628,13 @@ Les conventions d'interconnexion conclues par l'opérateur sont communiquées à
 
 Avant la mise en oeuvre effective de l'interconnexion, les interfaces font l'objet d'essais définis et réalisés conjointement par les deux opérateurs concernés. Ces essais sont réalisés sur site si l'une des parties le demande. Dans le cas où les essais d'interconnexion ne s'effectueraient pas dans des conditions techniques et de délai normales, l'une ou l'autre des parties peut saisir l'Autorité de régulation des communications électroniques et des postes.
 
-Les interfaces d'interconnexion doivent être conformes aux spécifications techniques adoptées et publiées par l'Autorité de régulation des communications électroniques et des postes, en application de l'article D. 99-8 du code des postes et télécommunications, en vue de garantir le respect des exigences essentielles et la qualité de bout en bout.
+Les interfaces d'interconnexion doivent être conformes aux spécifications techniques adoptées et publiées par l'Autorité de régulation des communications électroniques et des postes, en application de l'article D. 99-8 du code des postes et des communications électroniques, en vue de garantir le respect des exigences essentielles et la qualité de bout en bout.
 
 Sur demande de l'opérateur, des codes d'identification de réseaux de transmission de données (DNIC) ou des codes de points sémaphores peuvent lui être attribués par l'Autorité de régulation des communications électroniques et des postes, dans des conditions transparentes et non discriminatoires.
 
 12.2. Respect des exigences essentielles
 
-L'opérateur prend l'ensemble des mesures, qu'il précise dans ses conventions d'interconnexion, nécessaires pour garantir le respect des exigences essentielles, et en particulier :
+L'opérateur prend l'ensemble des mesures, qu'il précise dans ses conventions d'interconnexion, nécessaires pour garantir le respect des exigences essentielles et en particulier :
 
 - la sécurité de fonctionnement du réseau ;
 
@@ -694,13 +702,17 @@ Le présent chapitre pourra être révisé pour tenir compte de l'évolution de 
 
 13.2. Capital de l'opérateur
 
-Aucune participation directe ou indirecte au capital de l'opérateur ne pourra être prise ou détenue par une société d'un groupe détenant directement ou indirectement plus de 25 % du capital des exploitants de réseaux GSM F1 ou DCS F3.
+Aucune participation directe ou indirecte au capital de l'opérateur ne pourra être prise ou détenue par une société d'un groupe détenant directement ou indirectement plus de 25 % du capital des exploitants de réseaux GSM F2 ou DCS F3.
 
 13.3. Accueil des usagers visiteurs
 
 L'opérateur communique à l'Autorité de régulation des communications électroniques et des postes, dans un délai de dix jours suivant leur conclusion, les accords passés avec des opérateurs tiers visant à permettre l'accueil sur le réseau de l'opérateur des usagers visiteurs.
 
 L'Autorité de régulation des communications électroniques et des postes s'assure que ces accords ne sont pas contradictoires avec le maintien des conditions nécessaires à l'exercice d'une concurrence loyale.
+
+13.4. Séparation comptable
+
+La tenue des documents comptables doit permettre d'individualiser l'activité d'établissement du réseau et d'exploitation du service GSM F1 des autres activités de l'opérateur. A cet effet, les données comptables relatives à ce réseau et au service y afférent font l'objet d'un traitement séparé des autres activités de l'opérateur. Ce traitement comporte l'établissement d'un document qui permet de s'assurer que les éventuels transferts de charges et de ressources entre les différentes activités ne portent pas atteinte aux conditions de concurrence. Ces comptes sont audités par un expert indépendant. Ils sont communiqués semestriellement à l'Autorité de régulation des communications électroniques et des postes ainsi, au moins une fois par an, que le rapport de l'expert.
 
 Chapitre XIV
 
@@ -728,15 +740,15 @@ Conditions nécessaires pour assurer
 
 l'interopérabilité des services
 
-L'opérateur se conforme en particulier aux prescriptions techniques arrêtées par l'Autorité de régulation des communications électroniques et des postes dans les conditions prévues à l'article L. 36-6 (3°) du code des postes et télécommunications et applicables au réseau et aux services fournis sur ce réseau en vue de garantir leur interopérabilité. L'opérateur se conforme également aux conditions d'interconnexion définies au chapitre XII qui garantissent l'interopérabilité des services.
+L'opérateur se conforme en particulier aux prescriptions techniques arrêtées par l'Autorité de régulation des communications électroniques et des postes dans les conditions prévues à l'article L. 36-6 (3°) du code des postes et des communications électroniques et applicables au réseau et aux services fournis sur ce réseau en vue de garantir leur interopérabilité. L'opérateur se conforme également aux conditions d'interconnexion définies au chapitre XII qui garantissent l'interopérabilité des services.
 
 Chapitre XVI
 
 Obligations permettant le contrôle du cahier des charges
 
-par l'Autorité de régulation des communications électroniques et des postes
+par l'Autorité de régulation des communications électroniques et des postes.
 
-L'opérateur doit fournir à l'Autorité de régulation des communications électroniques et des postes des éléments chiffrés relatifs à l'exploitation de son réseau dans les domaines financiers, commerciaux et techniques. Il s'engage notamment à communiquer à l'Autorité de régulation des tes communications électroniques et des postes les informations suivantes :
+L'opérateur doit fournir à l'Autorité de régulation des communications électroniques et des postes des éléments chiffrés relatifs à l'exploitation de son réseau dans les domaines financiers, commerciaux et techniques. Il s'engage notamment à communiquer à l'Autorité de régulation des communications électroniques et des postes les informations suivantes :
 
 Sans délai :
 
@@ -752,7 +764,9 @@ Avant leur mise en oeuvre :
 
 - tarifs et conditions générales de l'offre.
 
-Selon une périodicité qui sera définie par décision de l'Autorité de régulation des communications électroniques et des postes :<RL >    - les données de trafic et de chiffre d'affaires ;
+Selon une périodicité qui sera définie par décision de l'Autorité de régulation des communications électroniques et des postes :
+
+- les données de trafic et de chiffre d'affaires ;
 
 - les informations relatives à l'utilisation qualitative et quantitative des ressources attribuées par l'Autorité de régulation des communications électroniques et des postes, notamment fréquences et numéros ;
 
@@ -776,13 +790,13 @@ A la demande de l'Autorité de régulation des communications électroniques et 
 
 - les contrats avec les clients ;
 
-- toute information nécessaire à l'instruction par l'Autorité de régulation des tes communications électroniques et des postes des demandes de conciliation en vue de régler les litiges entre opérateurs, conformément aux dispositions de l'article L. 36-9 ;
+- toute information nécessaire à l'instruction par l'Autorité de régulation des communications électroniques et des postes des demandes de conciliation en vue de régler les litiges entre opérateurs, conformément aux dispositions de l'article L. 36-9 ;
 
 - les contrats avec les opérateurs des pays tiers ;
 
 - toute information nécessaire pour vérifier le respect de l'égalité des conditions de concurrence, et notamment les conventions ou contrats conclus entre les filiales de l'opérateur, les sociétés appartenant au même groupe ou des branches d'activité de l'opérateur distinctes de celles couvertes par la présente autorisation.
 
-L'Autorité de régulation des communications électroniques et des postes peut exercer un contrôle du respect des conditions de l'autorisation. Ce contrôle s'effectue dans les conditions définies par le code des postes et télécommunications, et notamment les articles L. 32-4 et L. 36-13.
+L'Autorité de régulation des communications électroniques et des postes peut exercer un contrôle du respect des conditions de l'autorisation. Ce contrôle s'effectue dans les conditions définies par le code des postes et des communications électroniques, et notamment les articles L. 32-4 et L. 36-13.
 
 Chapitre XVII
 
