@@ -1,6 +1,6 @@
 # Article 2
 
-Les dispositions du présent titre [*champ d'application*] s'appliquent aux personnes qui, régies par les dispositions du titre premier du statut général, ont été nommées dans un emploi permanent à temps complet ou à temps non complet dont la quotité de travail est au moins égale au mi-temps, et titularisées dans un grade de la hiérarchie des établissements ci-après énumérés :
+Les dispositions du présent titre s'appliquent aux personnes qui, régies par les dispositions du titre premier du statut général, ont été nommées dans un emploi permanent à temps complet ou à temps non complet dont la quotité de travail est au moins égale au mi-temps, et titularisées dans un grade de la hiérarchie des établissements ci-après énumérés :
 
 1° Etablissements publics de santé et syndicats interhospitaliers mentionnés aux articles L. 711-6 et L. 713-5 du code de la santé publique ;
 
@@ -12,7 +12,7 @@ Les dispositions du présent titre [*champ d'application*] s'appliquent aux pers
 
 5° Etablissements publics ou à caractère public pour mineurs ou adultes handicapés ou inadaptés, à l'exception des établissements nationaux et des établissements d'enseignement ou d'éducation surveillée ;
 
-6° Centres d'hébergement et de réadaptation sociale, publics ou à caractère public, mentionnés à l'article 185 du code de la famille et de l'aide sociale ;
+6° Centres d'hébergement et de réadaptation sociale, publics ou à caractère public, mentionnés à l'article L. 345-1 du code de l'action sociale et des familles ;
 
 7° Centre d'accueil et de soins hospitaliers de Nanterre.
 

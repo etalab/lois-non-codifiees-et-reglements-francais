@@ -20,7 +20,7 @@ Pour l'application du 21° des dispositions de l'article L. 311-3 du code de la 
 
 9° Les médecins experts, les rapporteurs et les médecins qualifiés mentionnés aux articles R. 143-4, R. 143-27 et R. 143-28 du code de la sécurité sociale ;
 
-10° Les médecins experts de la commission centrale ou des commissions départementales d'aide sociale désignés par le préfet, en application de l'article 130 du code de la famille et de l'aide sociale, et les médecins consultés par les commissions départementales d'aide sociale en application des dispositions du deuxième alinéa de l'article 11 de la loi du 24 janvier 1997 susvisée ;
+10° Les médecins experts de la commission centrale ou des commissions départementales d'aide sociale désignés par le préfet, en application de l'article L. 134-7 du code de l'action sociale et des familles, et les médecins consultés par les commissions départementales d'aide sociale en application des dispositions du deuxième alinéa de l'article 11 de la loi du 24 janvier 1997 susvisée ;
 
 11° Les médecins membres des commissions départementales du permis de conduire mentionnées à l'article R. 127 du code de la route ;
 
