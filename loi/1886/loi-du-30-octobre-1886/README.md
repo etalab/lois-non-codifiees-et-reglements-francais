@@ -3,7 +3,6 @@
 - [Titre Ier : Dispositions générales](titre-ier)
 - [Titre II : De l'enseignement public](titre-ii)
 - [Titre III : De l'enseignement privé](titre-iii)
-- [Article 16](article-16.md)
 - [Article 22](article-22.md)
 - [Article 23](article-23.md)
 - [Article 24](article-24.md)
