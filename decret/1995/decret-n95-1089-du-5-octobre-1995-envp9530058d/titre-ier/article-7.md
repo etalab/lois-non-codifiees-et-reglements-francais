@@ -2,7 +2,7 @@
 
 Le projet de plan de prévention des risques naturels prévisibles est soumis à l'avis des conseils municipaux des communes sur le territoire desquelles le plan sera applicable.
 
-Si le projet de plan contient des dispositions de prévention des incendies de forêt ou de leurs effets, ces dispositions sont aussi soumises à l'avis des conseils généraux et régionaux concernés.
+Si le projet de plan contient des dispositions de prévention des incendies de forêt ou de leurs effets, ces dispositions sont aussi soumises à l'avis des conseils généraux et régionaux concernés ainsi qu'à l'avis des groupements de communes et des services départementaux d'incendie et de secours intéressés.
 
 Si le projet de plan concerne des terrains agricoles ou forestiers, les dispositions relatives à ces terrains sont soumises à l'avis de la chambre d'agriculture et du centre régional de la propriété forestière.
 
