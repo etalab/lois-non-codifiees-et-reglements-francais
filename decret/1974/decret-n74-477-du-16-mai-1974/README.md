@@ -6,4 +6,3 @@
 - [CHAPITRE IV : Réserves.](chapitre-iv)
 - [CHAPITRE V : Dispositions transitoires.](chapitre-v)
 - [Article 26](article-26.md)
-- [Annexes](annexes)
