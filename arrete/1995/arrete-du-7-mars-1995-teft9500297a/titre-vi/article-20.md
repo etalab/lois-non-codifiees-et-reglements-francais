@@ -1,0 +1,3 @@
+# Article 20
+
+Sans préjudice des autres obligations prévues par le présent titre, ne peuvent prétendre à l'agrément que les organismes de formation employant à la fonction de formateur, dans les conditions définies à l'article R. 238-11 (2e alinéa) du code du travail, des formateurs titulaires de l'attestation de compétence de formateur visée à l'article R. 238-13 dudit code et justifiant, au moment de la candidature au stage de formateur de coordonnateur, soit d'une expérience de formateur antérieurement acquise par la pratique d'une fonction de formation, soit du suivi d'une formation spécifique préparant à l'exercice de la fonction de formateur.

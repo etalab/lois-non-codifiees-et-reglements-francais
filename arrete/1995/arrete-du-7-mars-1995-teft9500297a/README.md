@@ -1,0 +1,12 @@
+# Arrêté du 7 mars 1995 relatif à la formation des coordonnateurs et des formateurs de coordonnateurs en matière de sécurité et de santé ainsi qu'à l'agrément des organismes de formation (art. R. 238-15 du code du travail)
+
+- [Article 1](article-1.md)
+- [Titre Ier : Admission aux stages de formation](titre-ier)
+- [Titre II : Formation des coordonnateurs](titre-ii)
+- [Titre III : Formation des formateurs de coordonnateurs](titre-iii)
+- [Titre IV : Modalités du contr&lt;CB&gt;le de capacité et indications à faire figurer sur les attestations](titre-iv)
+- [Titre V : Révision de la formation.](titre-v)
+- [Titre VI : Conditions d'agrément des organismes assurant la formation des coordonnateurs.](titre-vi)
+- [Article 31](article-31.md)
+- [Annexes](annexes)
+- [Dispositions transitoires.](dispositions-transitoires)
