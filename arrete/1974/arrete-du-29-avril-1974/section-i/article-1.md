@@ -1,0 +1,3 @@
+# Article 1
+
+les membres titulaires et suppléants de la commission nationale chargée, en application de l'article 7 du décret susvisé du 29 avril 1974, d'émettre un avis sur les difficultés concernant la mise en oeuvre des dispositions relatives à l'enseignement de la biologie dispensé aux étudiants en pharmacie dans les laboratoires d'un centre hospitalier régional faisant partie d'un centre hospitalier et universitaire ou l'élaboration de la liste des laboratoires de biologie placés totalement ou partiellement en dehors du centre hospitalier et universitaire, sont nommés à l'issue d'un scrutin uninominal à un tour organisé sur le plan national dans les conditions définies par le présent arrêté.
