@@ -1,3 +1,3 @@
 # Article 2
 
-Les commissions énumérées à l'article précédent ne peuvent valablement se réunir qu'en présence de tous leurs membres [*quorum*].
+Le directeur de la qualité et de la sécurité industrielles est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
