@@ -523,6 +523,7 @@
 - [Arrêté du 21 novembre 1989 (SPSH8902744A)](arrete-du-21-novembre-1989-spsh8902744a)
 - [Arrêté du 21 septembre 1990 (SPSH9001848A)](arrete-du-21-septembre-1990-spsh9001848a)
 - [Arrêté du 21 septembre 1990 (SPSH9001851A)](arrete-du-21-septembre-1990-spsh9001851a)
+- [Arrêté du 21 septembre 1990 (SPSS9002068A)](arrete-du-21-septembre-1990-spss9002068a)
 - [Arrêté du 21 mai 1990 (ECOT9051008A)](arrete-du-21-mai-1990-ecot9051008a)
 - [Arrêté du 21 mai 1990 (SPSS9001078A)](arrete-du-21-mai-1990-spss9001078a)
 - [Arrêté du 21 mai 1990 (SPSS9001079A)](arrete-du-21-mai-1990-spss9001079a)
