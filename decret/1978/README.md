@@ -27,7 +27,6 @@
 - [Décret n°78-21 du 9 janvier 1978](decret-n78-21-du-9-janvier-1978)
 - [Décret n°78-860 du 9 août 1978](decret-n78-860-du-9-aout-1978)
 - [Décret n°78-887 du 9 août 1978](decret-n78-887-du-9-aout-1978)
-- [Décret n°78-280 du 10 mars 1978](decret-n78-280-du-10-mars-1978)
 - [Décret n°78-850 du 10 août 1978](decret-n78-850-du-10-aout-1978)
 - [Décret n°78-728 du 11 juillet 1978](decret-n78-728-du-11-juillet-1978)
 - [Décret n°78-737 du 11 juillet 1978](decret-n78-737-du-11-juillet-1978)
