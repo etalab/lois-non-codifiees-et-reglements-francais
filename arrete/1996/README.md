@@ -1031,7 +1031,6 @@
 - [Arrêté du 27 février 1996 (ACVA9610009A)](arrete-du-27-fevrier-1996-acva9610009a)
 - [Arrêté du 27 février 1996 (ACVA9610011A)](arrete-du-27-fevrier-1996-acva9610011a)
 - [Arrêté du 27 février 1996 (ACVA9610012A)](arrete-du-27-fevrier-1996-acva9610012a)
-- [Arrêté du 27 février 1996 (AGRA9600197A)](arrete-du-27-fevrier-1996-agra9600197a)
 - [Arrêté du 27 février 1996 (BUDF9620921A)](arrete-du-27-fevrier-1996-budf9620921a)
 - [Arrêté du 27 février 1996 (DEFA9601238A)](arrete-du-27-fevrier-1996-defa9601238a)
 - [Arrêté du 27 février 1996 (ECOT9613864A)](arrete-du-27-fevrier-1996-ecot9613864a)

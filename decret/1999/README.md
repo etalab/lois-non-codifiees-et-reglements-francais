@@ -717,7 +717,6 @@
 - [Décret n°99-237 du 26 mars 1999 (MESS9920420D)](decret-n99-237-du-26-mars-1999-mess9920420d)
 - [Décret n°99-238 du 26 mars 1999 (MENS9900478D)](decret-n99-238-du-26-mars-1999-mens9900478d)
 - [Décret n°99-316 du 26 avril 1999 (MESA9921082D)](decret-n99-316-du-26-avril-1999-mesa9921082d)
-- [Décret n°99-317 du 26 avril 1999 (MESA9921083D)](decret-n99-317-du-26-avril-1999-mesa9921083d)
 - [Décret n°99-320 du 26 avril 1999 (MESS9920826D)](decret-n99-320-du-26-avril-1999-mess9920826d)
 - [Décret n°99-330 du 26 avril 1999 (INTM9900015D)](decret-n99-330-du-26-avril-1999-intm9900015d)
 - [Décret n°99-333 du 26 avril 1999 (MCCB9900256D)](decret-n99-333-du-26-avril-1999-mccb9900256d)
