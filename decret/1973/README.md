@@ -43,7 +43,6 @@
 - [Décret n°72-937 du 12 octobre 1972](decret-n72-937-du-12-octobre-1972)
 - [Décret n°73-1098 du 12 décembre 1973](decret-n73-1098-du-12-decembre-1973)
 - [Décret n°73-138 du 12 février 1973](decret-n73-138-du-12-fevrier-1973)
-- [Décret n°73-707 du 12 juillet 1973](decret-n73-707-du-12-juillet-1973)
 - [Décret n°73-170 du 13 février 1973](decret-n73-170-du-13-fevrier-1973)
 - [Décret n°73-278 du 13 mars 1973](decret-n73-278-du-13-mars-1973)
 - [Décret n°73-649 du 13 juillet 1973](decret-n73-649-du-13-juillet-1973)
