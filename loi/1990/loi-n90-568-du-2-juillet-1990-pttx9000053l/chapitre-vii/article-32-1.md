@@ -1,0 +1,5 @@
+# Article 32-1
+
+Les dispositions des articles 208-1 à 208-19 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, des articles 11 à 14 de la loi n° 86-912 du 6 août 1986 relative aux modalités des privatisations et du chapitre III de la loi n° 88-1201 du 23 décembre 1988 relative aux organismes de placement collectif en valeurs mobilières et portant création des fonds communs de créances s'appliquent également aux agents ou anciens agents mentionnés aux articles 29 et 44 de la présente loi, affectés à France Télécom ou ayant été affectés pendant au moins cinq ans à la personne morale de droit public France Télécom ou à l'entreprise nationale France Télécom.
+
+Dans ce cadre, 10 p. 100 du capital de France Télécom seront proposés au personnel de l'entreprise.

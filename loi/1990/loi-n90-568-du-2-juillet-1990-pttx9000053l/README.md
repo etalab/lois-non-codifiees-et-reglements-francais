@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [CHAPITRE Ier : Les missions des exploitants publics.](chapitre-ier)
+- [Article 1-1](article-1-1.md)
 - [CHAPITRE II : Organes dirigeants.](chapitre-ii)
 - [CHAPITRE III : Cadre de gestion.](chapitre-iii)
 - [CHAPITRE IV : Fiscalité.](chapitre-iv)

@@ -11,3 +11,7 @@ b) Une contribution complémentaire permettant la prise en charge intégrale des
 Les charges résultant de l'application aux agents de La Poste et de France Télécom des dispositions de l'article L. 134-1 du code de la sécurité sociale incombent en leur totalité aux exploitants publics.
 
 Un décret en Conseil d'Etat détermine, en tant que de besoin, les conditions d'application des présentes dispositions.
+
+c) S'agissant de l'entreprise nationale France Télécom, une contribution employeur à caractère libératoire, due à compter du 1er janvier 1997, en proportion des sommes payées à titre de traitement soumis à retenue pour pension. Le taux de la contribution libératoire est calculé de manière à égaliser les niveaux de charges sociales et fiscales obligatoires assises sur les salaires entre France Télécom et les autres entreprises du secteur des télécommunications relevant du droit commun des prestations sociales, pour ceux des risques qui sont communs aux salariés de droit commun et aux fonctionnaires de l'Etat. Ce taux peut faire l'objet d'une révision en cas de modification desdites charges. Les modalités de la détermination et du versement à l'Etat de la contribution employeur sont fixées par décret en Conseil d'Etat ;
+
+d) A la charge de l'entreprise nationale France Télécom, une contribution forfaitaire exceptionnelle, dont le montant et les modalités de versement seront fixés en loi de finances avant le 31 décembre 1996.
