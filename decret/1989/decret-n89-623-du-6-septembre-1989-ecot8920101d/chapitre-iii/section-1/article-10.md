@@ -8,23 +8,25 @@ La société de gestion d'un fonds commun de placement à risques dispose d'un d
 
 II. - L'actif d'un fonds commun de placement à risques peut être constitué :
 
-- pour 35 % au plus en actions ou parts d'un même organisme de placement collectif en valeurs mobilières ;
+- pour 35 % au plus en actions ou parts d'un même organisme de placement collectif en valeurs mobilières et pour 50 % au plus en actions ou parts d'un même organisme de placement collectif en valeurs mobilières lorsque le fonds bénéficie d'une procédure allégée ;
 
 - pour 15 % au plus sous forme d'avances en compte courant consenties, pour une durée de trois ans au plus, à des sociétés dans lesquelles le fonds détient au moins 5 % du capital ;
 
 - pour plus de 5 % en titres d'un même émetteur.
 
-Lorsque le fonds commun de placement à risques ne fait pas l'objet de publicité ou de démarchage, il dispose d'un délai de deux ans à partir de la date de sa création pour respecter les conditions de pourcentage mentionnées au deuxième tiret ci-dessus.
+Lorsque le fonds commun de placement à risques bénéficie d'une procédure allégée, il dispose d'un délai de deux ans à partir de la date de sa création pour respecter les conditions de pourcentage mentionnées au deuxième tiret ci-dessus.
 
 La limite fixée au quatrième alinéa de l'article 25 de la loi du 23 décembre 1988 susvisée n'est pas opposable aux fonds communs de placement à risques pour les catégories de valeurs mobilières mentionnées aux a, b et c de l'article 5 du présent décret.
 
 III. - Lorsqu'il est procédé, par la société de gestion d'un fonds, à des opérations d'achat ou de vente à terme portant sur des valeurs mobilières non admises à la négociation sur un marché réglementé ou sur des parts de S.A.R.L., les conventions concernant ces opérations sont conclues dans les limites et sous les conditions précisées par le règlement du fonds.
 
-IV - Lorsque le fonds fait l'objet de publicité ou de démarchage, il ne peut employer plus de 10 % de son actif en parts ou actions d'organismes de placement collectif en valeurs mobilières bénéficiant d'une procédure allégée. Il ne peut employer en titres d'un même émetteur, autre qu'un organisme de placement collectif en valeurs mobilières, plus de 15 % de son actif net ni détenir plus de 35 % du capital ou des droits de vote de cet émetteur. Un fonds commun de placement à risques doit respecter les dispositions du présent alinéa à l'expiration d'un délai de deux ans à compter de sa création ou de sa transformation en fonds faisant l'objet de publicité ou de démarchage.
+IV - Lorsque le fonds ne bénéficie pas d'une procédure allégée, il ne peut employer plus de 10 % de son actif en parts ou actions d'organismes de placement collectif en valeurs mobilières relevant du chapitre V ter de la loi du 23 décembre 1988 susvisée . Il ne peut employer en titres d'un même émetteur, autre qu'un organisme de placement collectif en valeurs mobilières, plus de 15 % de son actif net ni détenir plus de 35 % du capital ou des droits de vote de cet émetteur. Un fonds commun de placement à risques doit respecter les dispositions du présent alinéa à l'expiration d'un délai de deux ans à compter de sa création ou de sa transformation en fonds ne bénéficiant pas d'une procédure allégée.
 
-La société de gestion ne peut, pour le compte d'un fonds qui fait l'objet de publicité ou de démarchage, procéder à d'autres opérations que celles d'achat ou de vente à terme ou au comptant de ses éléments d'actifs dans les limites fixées par le présent décret.
+La société de gestion ne peut, pour le compte d'un fonds qui ne bénéficie pas d'une procédure allégée, procéder, pour ses éléments d'actifs qui ne sont pas négociés sur un marché d'instruments financiers répondant aux caractéristiques précisées au premier alinéa du I de l'article 42 de la loi n° 96-597 du 2 juillet 1996, à d'autres opérations que celles d'achat ou de vente à terme ou au comptant dans les limites fixées par le présent décret, ni procéder pour ces mêmes éléments d'actifs à des cessions ou acquisitions à une entreprise qui lui est liée de titres en capital ou de créances détenus depuis plus de douze mois.
 
-V. - Lorsque le fonds ne fait pas l'objet de publicité ou de démarchage, la société de gestion peut conclure avec des tiers des conventions relatives à la gestion des participations du fonds et comportant des engagements autres que de livraison, lorsque les conditions suivantes sont remplies :
+Est présumée "entreprise liée" au sens du présent décret toute entreprise contrôlée par la société de gestion de manière exclusive ou conjointe au sens de l'article 357-1 de la loi du 24 juillet 1966 susvisée, toute entreprise contrôlant la société de gestion de manière exclusive ou conjointe au sens de ce même article 357-1, toute entreprise filiale de la même société mère ainsi que toute entreprise avec laquelle la société de gestion a des mandataires sociaux ou des dirigeants communs et qui exercent des fonctions de gestion de participations pour le compte de l'entreprise, ou de gestion au sens du d de l'article 4 de la loi du 2 juillet 1996 susmentionnée et de l'article 11 de la loi du 23 décembre 1988 susvisée, ou de conseil au sens du d de l'article 5 de la loi du 2 juillet 1996 précitée.
+
+V. - Lorsque le fonds bénéficie d'une procédure allégée , la société de gestion peut conclure avec des tiers des conventions relatives à la gestion des participations du fonds et comportant des engagements autres que de livraison, lorsque les conditions suivantes sont remplies :
 
 - le montant des engagements correspondant doit être déterminable ;
 

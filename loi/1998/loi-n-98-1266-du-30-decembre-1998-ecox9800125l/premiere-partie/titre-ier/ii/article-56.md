@@ -8,7 +8,7 @@ La contribution est versée spontanément au comptable du Trésor du lieu du si�
 
 Le contrôle, le recouvrement, le contentieux, les garanties et les sanctions relatifs à cette contribution sont régis par les règles applicables en matière de taxe sur les salaires.
 
-II. - Pour 1999, la fraction visée au I est égale à 42,6 %.
+II. - Pour 2000, la fraction visée au I est égale à 32,5 % (1).
 
 Les associés collecteurs de l'Union d'économie sociale du logement, visée à l'article L. 313-17 du code de la construction et de l'habitation, sont libérés des versements leur incombant pour 1999 au titre du présent article dès lors que le versement de cette union à l'Etat, tel qu'il résulte de l'engagement de substitution prévu par l'article 9 de la loi n° 96-1237 du 30 décembre 1996 relative à l'Union d'économie sociale du logement, atteint 6 400 millions de francs.
 

@@ -24,8 +24,12 @@ Pour les groupements qui perçoivent pour la première fois à compter de 1999 l
 
 Au titre des années 2000 à 2003, la compensation est actualisée, chaque année, compte tenu du taux d'évolution de la dotation globale de fonctionnement entre 1999 et l'année de versement.
 
+Au titre de 2000, la compensation est actualisée en tenant compte du taux d'évolution de la dotation globale de fonctionnement visé au premier alinéa de l'article L. 1613-1 du code général des collectivités territoriales.
+
 A compter de 2004, cette compensation est intégrée à la dotation globale de fonctionnement et évolue comme cette dernière.
 
 III. - La compensation prévue au I fait l'objet de versements mensuels.
 
 E. - Le Gouvernement remet chaque année au Parlement, avant le 1er octobre, un rapport évaluant les résultats pour l'emploi de la réforme de la taxe professionnelle prévue par le présent article et fournissant des simulations sur les conséquences de celles-ci pour les entreprises, les collectivités locales et l'Etat.
+
+Ce rapport présente, en outre, les conséquences de la réforme sur la répartition de la taxe pour frais de chambres de métiers et de l'imposition additionnelle à la taxe professionnelle perçue au profit des chambres de commerce et d'industrie entre l'ensemble de leurs redevables.
