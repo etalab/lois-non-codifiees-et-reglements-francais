@@ -162,6 +162,7 @@
 - [Arrêté du 7 juin 2004 (SOCF0411172A)](arrete-du-7-juin-2004-socf0411172a)
 - [Arrêté du 7 juin 2004 (SOCF0411199A)](arrete-du-7-juin-2004-socf0411199a)
 - [Arrêté du 7 novembre 2003 (INDI0302016A)](arrete-du-7-novembre-2003-indi0302016a)
+- [Arrêté du 7 octobre 2004 (MENP0402201A)](arrete-du-7-octobre-2004-menp0402201a)
 - [Arrêté du 7 septembre 2004 (ECOF0400045A)](arrete-du-7-septembre-2004-ecof0400045a)
 - [Arrêté du 7 septembre 2004 (ECOP0400570A)](arrete-du-7-septembre-2004-ecop0400570a)
 - [Arrêté du 7 septembre 2004 (INDI0403590A)](arrete-du-7-septembre-2004-indi0403590a)
