@@ -10,6 +10,7 @@
 - [Décret n°96-12 du 5 janvier 1996 (AGRS9502491D)](decret-n96-12-du-5-janvier-1996-agrs9502491d)
 - [Décret n°96-18 du 5 janvier 1996 (ENVP9530072D)](decret-n96-18-du-5-janvier-1996-envp9530072d)
 - [Décret n°96-6 du 5 janvier 1996 (PRMX9500187D)](decret-n96-6-du-5-janvier-1996-prmx9500187d)
+- [Décret n°96-93 du 6 février 1996 (TASS9523513D)](decret-n96-93-du-6-fevrier-1996-tass9523513d)
 - [Décret n°95-911 du 7 août 1995 (AGRA9501096D)](decret-n95-911-du-7-aout-1995-agra9501096d)
 - [Décret n°96-527 du 7 juin 1996 (AGRA9600841D)](decret-n96-527-du-7-juin-1996-agra9600841d)
 - [Décret n°96-976 du 7 novembre 1996 (INTC9600275D)](decret-n96-976-du-7-novembre-1996-intc9600275d)
@@ -86,3 +87,5 @@
 - [Décret n°96-85 du 30 janvier 1996 (AGRA9502213D)](decret-n96-85-du-30-janvier-1996-agra9502213d)
 - [Décret n°96-956 du 30 octobre 1996 (JUSF9650088D)](decret-n96-956-du-30-octobre-1996-jusf9650088d)
 - [Décret n°96-76 du 31 janvier 1996 (EQUR9600027D)](decret-n96-76-du-31-janvier-1996-equr9600027d)
+- [Décret n°96-90 du 31 janvier 1996 (PRMP9560003D)](decret-n96-90-du-31-janvier-1996-prmp9560003d)
+- [Décret n°96-91 du 31 janvier 1996 (TASS9523449D)](decret-n96-91-du-31-janvier-1996-tass9523449d)

@@ -78,4 +78,6 @@ Un représentant de l'Association nationale et fédérale des infirmiers de sect
 
 Un représentant du Syndicat national des psychologues ;
 
-Un représentant du groupe d'études et de recherches sur le service social en psychiatrie.
+Un représentant du groupe d'études et de recherches sur le service social en psychiatrie ;
+
+Un représentant de l'association des services médico-psychologiques régionaux.
