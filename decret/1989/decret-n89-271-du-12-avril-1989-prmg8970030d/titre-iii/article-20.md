@@ -1,0 +1,3 @@
+# Article 20
+
+En cas de séparation de corps ou de divorce intervenant en cours de séjour, et si le mariage a été contracté antérieurement au voyage d'affectation de l'agent, le conjoint séparé ou l'ex-conjoint satisfaisant aux conditions de ressources prévues à l'article 17 ci-dessus peut prétendre au remboursement des frais de changement de résidence lorsqu'il demande, dans un délai d'un an à compter de la date de la séparation ou du divorce, son rapatriement, ainsi que celui des enfants à charge qui lui ont été confiés, au lieu de la résidence habituelle de l'agent au moment du divorce ou de la séparation, ou, éventuellement, au lieu de sa propre résidence habituelle.
