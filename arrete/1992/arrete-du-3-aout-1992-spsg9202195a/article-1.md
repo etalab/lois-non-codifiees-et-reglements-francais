@@ -1,0 +1,3 @@
+# Article 1
+
+Peuvent être validés pour la retraite au titre de l'article L. 5, dernier alinéa, du code des pensions civiles et militaires de retraite, les services accomplis à temps complet en qualité d'agent contractuel au centre d'études supérieures de sécurité sociale institué par l'article 24 du décret n° 60-452 du 12 mai 1960 et au Centre national d'études supérieures de sécurité sociale qui lui a succédé en application de l'article 1er du décret n° 77-604 du 10 juin 1977, à l'exception des services effectués par les agents recrutés en application de l'article L. 123-4 du code de la sécurité sociale.
