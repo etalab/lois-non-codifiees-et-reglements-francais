@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur général de la santé et le directeur des enseignements supérieurs et de la recherche sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les examens de recherche et de titrage des anticorps d'immunisation pour le dépistage des risques d'allo-immunisation foeto-maternelle sont réservés aux personnes possédant les diplômes énumérés à l'article 4 du présent arrêté et ne peuvent être effectués que dans un laboratoire d'analyses de biologie médicale dont au moins un directeur ou un directeur adjoint remplit les mêmes conditions.
