@@ -38,9 +38,9 @@
 </td>
 </tr>
 <tr>
-<td> Centre de formation à la gestion des ressources humaines</td>
+<td>Centre de formation à la gestion des ressources humaines</td>
 <td>
-<p align="center"> I</p>
+<p align="center">I</p>
 </td>
 </tr>
 <tr>
@@ -61,23 +61,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Ecole technique normale de l'armement</p>
-</td>
-<td valign="top" width="151">
-<p align="center">III</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Ecole technique préparatoire de l'armement</p>
-</td>
-<td valign="top" width="151">
-<p align="center">III</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Ecole de formation technique normale :</p>
+<p>Ecoles de formation technique :</p>
 </td>
 <td valign="top" width="151">
 <br/>
@@ -85,18 +69,10 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>2e année</p>
+<p>2e et 3e années</p>
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>1re année</p>
-</td>
-<td valign="top" width="151">
-<p align="center">V</p>
 </td>
 </tr>
 <tr>
@@ -236,6 +212,12 @@
 </td>
 </tr>
 <tr>
+<td>Cycles de formation des coordonnateurs et déélgués régionaux en hygiène et sécurité du travail</td>
+<td>
+<p align="center"> II</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="454">
 <p>Cycles de formation des infirmiers et infirmières civiles de l'Etat</p>
 </td>
@@ -340,11 +322,23 @@
 </td>
 </tr>
 <tr>
+<td>Cycles de formation des conseillers techniques de service social</td>
+<td>
+<p align="center"> II</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="454">
 <p>Cycles de formation des agents comptables</p>
 </td>
 <td valign="top" width="151">
 <p align="center">II</p>
+</td>
+</tr>
+<tr>
+<td> Cycles de formation des officiers et ingénieurs en hygiène et sécurité du travail</td>
+<td>
+<p align="center"> II</p>
 </td>
 </tr>
 <tr>
@@ -365,7 +359,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des assistants et assistantes de service social</p>
+<p>Cycles de formation des assistants de service social</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -373,7 +367,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des infirmiers et infirmières de l'Etat et des infirmières civiles des hôpitaux militaires</p>
+<p>Cycles de formation des infirmiers et infirmières civils de l'Etat </p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -392,7 +386,7 @@
 <p>Cycles de formation des agents sur contrat de 3e catégorie C</p>
 </td>
 <td valign="top" width="151">
-<p align="center">lII</p>
+<p align="center">II</p>
 </td>
 </tr>
 <tr>
@@ -428,6 +422,12 @@
 </td>
 </tr>
 <tr>
+<td> Cycles de formation des chargés de prévention en hygiène et sécurité</td>
+<td>
+<p align="center"> III</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="454">
 <p>Cycles de formation des inspecteurs de service intérieur et du matériel</p>
 </td>
@@ -448,7 +448,7 @@
 <p>Cycles de formation des techniciens à statut ouvrier T. 4 à T. 5 bis</p>
 </td>
 <td valign="top" width="151">
-<p align="center">IV</p>
+<p align="center">III</p>
 </td>
 </tr>
 <tr>
@@ -477,26 +477,22 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des commis et des adjoints administratifs</p>
+<p>Cycles de formation des adjoints administratifs</p>
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Cycles de formation des secrétaires sténodactylographes et des sténodactylographes</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
+<td>Cycles de formation des agents administratifs</td>
+<td>
+<p align="center"> IV</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Cycles de-formation des agents des transmissions et de l'électronique</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
+<td>Cycles de formation des agents des services techniques</td>
+<td>
+<p align="center"> IV</p>
 </td>
 </tr>
 <tr>
@@ -510,14 +506,6 @@
 <tr>
 <td valign="top" width="454">
 <p>Cycles de formation des contremaîtres et des agents principaux des services techniques</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Cycles de formation des téléphonistes (chef de standard)</p>
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
@@ -545,14 +533,6 @@
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>T. 0 et T. 1</p>
-</td>
-<td valign="top" width="151">
-<p align="center">V</p>
 </td>
 </tr>
 <tr>
@@ -589,31 +569,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Cycles de formation des téléphonistes et téléphonistes principaux</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Cycles de formation des agents techniques de bureau</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Cycles de formation des ouvriers groupes III et IV</p>
-</td>
-<td valign="top" width="151">
-<p align="center">V</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Cycles de formation des huissiers</p>
+<p>Cycles de formation des ouvriers groupes IVN</p>
 </td>
 <td valign="top" width="151">
 <p align="center">V</p>

@@ -22,8 +22,14 @@
 </td>
 </tr>
 <tr>
+<td> Préparation à l'examen professionnel de chef de service administratif de 2e classe des services déconcentrés</td>
+<td>
+<p align="center"> II</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="454">
-<p>Préparation à l'examen professionnel d'inspecteur principal adjoint d'études des transmissions</p>
+<p>Préparation à l'examen professionnel d'inspecteur principal de 2e classe des transmissions</p>
 </td>
 <td valign="top" width="151">
 <p align="center">II</p>
@@ -55,10 +61,16 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation au concours d'accès aux corps des attachés de service administratif des services extérieurs et d'administration centrale</p>
+<p>Préparation au concours d'accès aux corps des attachés de service administratif des services déconcentrés et d'administration centrale</p>
 </td>
 <td valign="top" width="151">
 <p align="center">II</p>
+</td>
+</tr>
+<tr>
+<td>Préparation au concours d'accès aux corps des conseillers techniques de service social</td>
+<td>
+<p align="center"> II</p>
 </td>
 </tr>
 <tr>
@@ -87,15 +99,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation aux examens professionnels pour l'accès au grade de technicien chef de travaux principal</p>
-</td>
-<td valign="top" width="151">
-<p align="center">III</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Préparation aux examens professionnels pour l'accès au grade de secrétaire administratif en chef</p>
+<p>Préparation aux examens professionnels pour l'accès au grade de secrétaire administratif de classe exceptionnelle</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -119,7 +123,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation aux concours d'accès aux corps des secrétaires administratifs des services extérieurs et d'administration centrale</p>
+<p>Préparation aux concours d'accès aux corps des secrétaires administratifs des services déconcentrés et d'administration centrale</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -143,7 +147,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation aux concours d'accès au corps des infirmières</p>
+<p>Préparation aux concours d'accès au corps des infirmières et des infirmiers</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -151,7 +155,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation aux concôurs d'accès au corps des assistantes sociales</p>
+<p>Préparation aux concôurs d'accès au corps des assistants de service social</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -175,7 +179,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation aux concours d'accès au corps des commis et des adjoints administratifs</p>
+<p>Préparation aux concours d'accès au corps des adjoints administratifs</p>
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
@@ -187,6 +191,12 @@
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
+</td>
+</tr>
+<tr>
+<td> Préparation au concours d'accès au corps des maîtres ouvriers</td>
+<td>
+<p align="center"> IV</p>
 </td>
 </tr>
 <tr>
@@ -207,30 +217,6 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation aux concours d'accès au corps des agents des transmissions et de l'électronique</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Préparation aux concours d'accès au corps des sténodactylographes</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Préparation aux examens professionnels pour la vérification d'aptitude aux fonctions d'agent technique de bureau</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
 <p>Préparation aux examens professionnels pour la vérification d'aptitude aux fonctions de monitrice de dactylocodage</p>
 </td>
 <td valign="top" width="151">
@@ -239,7 +225,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Préparation pour l'avancement de groupe des ouvriers des professions non graphiques (groupes III et IV)</p>
+<p>Préparation pour l'avancement de groupe des ouvriers des professions non graphiques (groupes IVN)</p>
 </td>
 <td valign="top" width="151">
 <p align="center">V</p>

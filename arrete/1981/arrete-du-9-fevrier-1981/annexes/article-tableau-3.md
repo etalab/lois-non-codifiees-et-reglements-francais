@@ -15,7 +15,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury pou l'avancement du groupe des ouvriers (Groupes III et IV)</p>
+<p>Jury pour l'avancement du groupe des ouvriers (Groupes III et IV)</p>
 </td>
 <td valign="top" width="151">
 <p align="center">V</p>
@@ -31,7 +31,15 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de concours pour l'admission directe au grade d'ingénieurs des études et techniques des travaux maritimes</p>
+<p>Jury de concours pour l'admission directe au grade d'ingénieurs des études et techniques de travaux maritimes</p>
+</td>
+<td valign="top" width="151">
+<p align="center">I</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="454">
+<p>Jury de l'examen professionnel pour l'accès au grade d'inspecteur principal de 2e classe des transmissions</p>
 </td>
 <td valign="top" width="151">
 <p align="center">II</p>
@@ -39,15 +47,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de l'examen professionnel pour l'accès, au choix, au grade d'inspecteur principal adjoint d'études des transmissions</p>
-</td>
-<td valign="top" width="151">
-<p align="center">II</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury d'examen professionnel pour le recrutement, au choix, dans le corps des ingénieurs des études et techniques des travaux maritimes</p>
+<p>Jury d'examen professionnel pour le recrutement dans le corps des ingénieurs des études et techniques de travaux maritimes</p>
 </td>
 <td valign="top" width="151">
 <p align="center">II</p>
@@ -63,14 +63,6 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de l'examen professionnel pour l'accès, au choix, au corps des inspecteurs des transmissions</p>
-</td>
-<td valign="top" width="151">
-<p align="center">II</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
 <p>Jury de concours pour l'accès au corps des ingénieurs d'études et de fabrications</p>
 </td>
 <td valign="top" width="151">
@@ -79,7 +71,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de concours ou d'examen pour l'accès au corps de techniciens supérieurs d'études et de fabrication</p>
+<p>Jury de concours pour l'accès au corps des techniciens supérieurs d'études et de fabrication</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -90,6 +82,18 @@
 <p>Jury de concours pour l'accès au corps administratif supérieur</p>
 </td>
 <td valign="top" width="151">
+<p align="center">II</p>
+</td>
+</tr>
+<tr>
+<td>Jury de concours pour l'accès au corps des conseillers techniques de service social</td>
+<td>
+<p align="center">II</p>
+</td>
+</tr>
+<tr>
+<td>Jury de l'examen professionnel pour l'accès au grade de chef de service administratif de 2e classe des services déconcentrés</td>
+<td>
 <p align="center">II</p>
 </td>
 </tr>
@@ -135,7 +139,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury d'examen professionnel pour l'accès au grade de contrôleur divisionnaire</p>
+<p>Jury d'examen professionnel pour l'accès au grade de contrôleur des transmissions de classe exceptionnelle</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -151,7 +155,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury d'examen professionnel pour l'accès au grade de secrétaire administratif en chef</p>
+<p>Jury d'examen professionnel pour l'accès au grade de secrétaire administratif de classe exceptionnelle (administration centrale et services déconcentrés)</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -159,39 +163,21 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de concours pour l'accès au corps des infirmières</p>
+<p>Jury de concours pour l'accès au corps des infirmiers et des infirmières</p>
 </td>
 <td valign="top" width="151">
+<p align="center">III</p>
+</td>
+</tr>
+<tr>
+<td>Jury d'examen professionnel pour l'accès au grade d'infirmier en chef ou d'infirmière en chef des services médicaux des administrations de l'Etat</td>
+<td>
 <p align="center">III</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="454">
 <p>Jury de concours pour l'accès au corps des assistants de service social</p>
-</td>
-<td valign="top" width="151">
-<p align="center">III</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury de concours d'entrée à l'école technique normale de l'armement</p>
-</td>
-<td valign="top" width="151">
-<p align="center">III</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury de sortie de l'école technique préparatoire de l'armement</p>
-</td>
-<td valign="top" width="151">
-<p align="center">III</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury de sortie de l'école technique normale de l'armement</p>
 </td>
 <td valign="top" width="151">
 <p align="center">III</p>
@@ -247,14 +233,6 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de l'examen de sortie du cours de technicien des P.T.T. ou cours équivalent (service technique des transmissions de la marine)</p>
-</td>
-<td valign="top" width="151">
-<p align="center">III</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
 <p>Jury de concours pour l'accès au corps des agents techniques de l'électronique</p>
 </td>
 <td valign="top" width="151">
@@ -271,7 +249,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de sortie de l'école de formation technique normale</p>
+<p>Jury de sortie des écoles de formation technique </p>
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
@@ -279,25 +257,27 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de concours pour l'accès au corps des agents des transmissions et de l'électronique</p>
+<p>Jury de concours pour l'accès aux corps des adjoints administratifs</p>
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Jury de concours pour l'accès aux corps des commis et des adjoints administratifs</p>
-</td>
-<td valign="top" width="151">
+<td>Jury de concours pour l'accès aux corps des agents administratifs</td>
+<td>
 <p align="center">IV</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="454">
-<p>Jury de concours pour l'accès aux corps des secrétaires sténodactylographes et des sténodactylographes</p>
+<td>Jury de concours pour l'accès aux corps des agents des services techniques</td>
+<td>
+<p align="center">IV</p>
 </td>
-<td valign="top" width="151">
+</tr>
+<tr>
+<td>Jury de concours pour l'accès aux corps des maîtres ouvriers et ouvriers professionnels</td>
+<td>
 <p align="center">IV</p>
 </td>
 </tr>
@@ -343,7 +323,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury pour l'avancement de groupe des T. S. 0. T. 0 à T. 3</p>
+<p>Jury pour l'avancement de groupe des techniciens à statut ouvrier T. 0 à T. 3</p>
 </td>
 <td valign="top" width="151">
 <p align="center">IV</p>
@@ -366,8 +346,20 @@
 </td>
 </tr>
 <tr>
+<td>Jury de l'examen professionnel de conducteur dépanneur</td>
+<td>
+<p align="center">IV</p>
+</td>
+</tr>
+<tr>
+<td>Jury de l'examen professionnel de chef de garage</td>
+<td>
+<p align="center">IV</p>
+</td>
+</tr>
+<tr>
 <td valign="top" width="454">
-<p>Jury du concours d'entrée à l'école de formation technique normale</p>
+<p>Jury du concours d'entrée des écoles de formation technique </p>
 </td>
 <td valign="top" width="151">
 <p align="center">V</p>
@@ -375,55 +367,7 @@
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Jury de concours pour l'accès au corps des téléphonistes</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury d'examen professionnel pour la vérification d'aptitude aux fonctions de :</p>
-</td>
-<td valign="top" width="151">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Dactylocodeur</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Agent technique de bureau :</p>
-</td>
-<td valign="top" width="151">
-<br/>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Dactylographe</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Dactylocodeur</p>
-</td>
-<td valign="top" width="151">
-<p align="center">IV</p>
-</td>
-</tr>
-<tr>
-<td valign="top" width="454">
-<p>Jury pour l'avancement de groupe des ouvriers (groupes I à IV inclus)</p>
+<p>Jury pour l'avancement de groupe des ouvriers (groupes IVN)</p>
 </td>
 <td valign="top" width="151">
 <p align="center">V</p>
