@@ -268,6 +268,7 @@
 - [Décret n°95-213 du 27 février 1995 (AGRS9500101D)](decret-n95-213-du-27-fevrier-1995-agrs9500101d)
 - [Décret n°95-215 du 27 février 1995 (SPSS9500321D)](decret-n95-215-du-27-fevrier-1995-spss9500321d)
 - [Décret n°95-221 du 27 février 1995 (RESM9401865D)](decret-n95-221-du-27-fevrier-1995-resm9401865d)
+- [Décret n°95-331 du 27 mars 1995 (ECOT9426127D)](decret-n95-331-du-27-mars-1995-ecot9426127d)
 - [Décret n°95-468 du 27 avril 1995 (SPSS9500754D)](decret-n95-468-du-27-avril-1995-spss9500754d)
 - [Décret n°95-88 du 27 janvier 1995 (AGRG9500100D)](decret-n95-88-du-27-janvier-1995-agrg9500100d)
 - [Décret n°95-241 du 28 février 1995 (SPSH9403451D)](decret-n95-241-du-28-fevrier-1995-spsh9403451d)
