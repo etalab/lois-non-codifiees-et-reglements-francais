@@ -6,11 +6,15 @@ Toutefois, le ministre de l'Equipement et du Logement, en même temps qu'il pren
 
 Lorsque la décision est prise par le préfet en application de l'article premier ci-dessus, il consulte directement les services locaux intéressés.
 
-//DECR. 1141 :
+Le dossier soumis à l'enquête comporte l'étude d'impact,
 
-- Le dossier soumis à l'enquête comporte l'étude d'impact, définie à l'article 2 du décret n° 77-1141 du 12 octobre 1977, lorsque le coût total des travaux de construction ou d'extension excède le montant fixé au C de l'article 3 du même décret.//    L'enquête comporte les formalités ci-après qui sont effectuées simultanément [*contenu*] :
+définie à l'article R. 122-3 du code de l'environnement, lorsque le coût total des travaux de construction ou d'extension excède le montant fixé à l'article R. 122-8 du même code.
 
-1. consultation de l'Office national de la navigation lorsqu'il s'agit de travaux d'intérêt national ou du directeur régional s'il s'agit de travaux d'intérêt régional, départemental ou local ;
+Le dossier soumis à l'enquête comporte également l'évaluation mentionnée à l'article 5 du décret n° 84-617 du 17 juillet 1984 pris pour l'application de l'article 14 de la loi n° 82-1153 du 30 décembre 1982 d'orientation des transports intérieurs, lorsque les travaux constituent un grand projet d'infrastructures tel que défini à l'article 3 du même décret.
+
+L'enquête comporte les formalités ci-après qui sont effectuées simultanément :
+
+1. consultation de Voies navigables de France lorsqu'il s'agit de travaux d'intérêt national ou du directeur régional s'il s'agit de travaux d'intérêt régional, départemental ou local ;
 
 2. consultation des organisations professionnelles de la batellerie ;
 
