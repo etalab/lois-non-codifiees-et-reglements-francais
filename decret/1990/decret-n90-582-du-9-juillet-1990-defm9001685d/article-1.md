@@ -1,0 +1,3 @@
+# Article 1
+
+Les ouvriers, chefs d'équipe et techniciens à statut ouvrier de la défense qui se prononcent pour un recrutement par la société nationale citée par la loi du 23 décembre 1989 susvisée et demandent à être placés sous le régime défini par le présent décret conservent, à ce titre, le bénéfice des dispositions appliquées aux ouvriers sous statut en fonctions dans les établissements relevant du ministère de la défense en ce qui concerne la structure, les modes de détermination et d'évolution des salaires, les congés de maladie, maternité, accidents du travail et congé parental, le régime disciplinaire et le régime de cessation progressive d'activité conformément aux textes susvisés et à ceux qui pourraient les modifier ou s'y substituer.
