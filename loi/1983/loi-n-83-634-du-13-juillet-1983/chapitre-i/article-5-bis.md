@@ -1,6 +1,6 @@
 # Article 5 bis
 
-Les ressortissants des Etats membres de la Communauté européenne autres que la France ont accès, dans les conditions prévues au statut général, aux corps, cadres d'emplois et emplois dont les attributions soit sont séparables de l'exercice de la souveraineté, soit ne comportent aucune participation directe ou indirecte à l'exercice de prérogatives de puissance publique de l'Etat ou des autres collectivités publiques.
+Les ressortissants des Etats membres de la Communauté européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen autres que la France ont accès, dans les conditions prévues au statut général, aux corps, cadres d'emplois et emplois dont les attributions soit sont séparables de l'exercice de la souveraineté, soit ne comportent aucune participation directe ou indirecte à l'exercice de prérogatives de puissance publique de l'Etat ou des autres collectivités publiques.
 
 " Ils ne peuvent avoir la qualité de fonctionnaires :
 

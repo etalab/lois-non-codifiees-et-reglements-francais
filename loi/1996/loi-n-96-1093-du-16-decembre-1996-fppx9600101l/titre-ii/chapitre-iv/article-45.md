@@ -1,0 +1,9 @@
+# Article 45
+
+Un fonds de compensation du congé de fin d'activité des fonctionnaires et agents non titulaires relevant de la loi n° 84-53 du 26 janvier 1984 précitée et de la loi n° 86-33 du 9 janvier 1986 précitée rembourse aux collectivités et établissements mentionnés à l'article 2 de ces lois le revenu de remplacement versé aux bénéficiaires de ce congé. Sa gestion est assurée par la Caisse des dépôts et consignations. Ce fonds est alimenté par un prélèvement sur les réserves du régime de l'allocation temporaire d'invalidité, prévue par les articles L. 417-8 et L. 417-9 du code des communes, le III de l'article 119 de la loi n° 84-53 du 26 janvier 1984 précitée et l'article 80 de la loi n° 86-33 du 9 janvier 1986 précitée.
+
+Le remboursement prévu au premier alinéa du présent article est effectué mensuellement au profit de la collectivité ou de l'établissement qui assure le service du revenu de remplacement lorsque cette collectivité ou cet établissement procède à un recrutement dans les conditions fixées aux articles 36 et 38 de la loi n° 84-53 du 26 janvier 1984 précitée ou aux articles 27, 29 ainsi qu'aux a, b et c de l'article 32 de la loi n° 86-33 du 9 janvier 1986 précitée. Il prend effet à la date de départ du bénéficiaire du congé de fin d'activité si le recrutement compensant ce départ dans les effectifs de la collectivité ou de l'établissement intervient dans un délai de six mois à compter de cette date ou à la date du recrutement si celui-ci intervient après ce délai.
+
+Le fonds procède au remboursement prévu au premier alinéa du présent article lorsqu'un office public d'aménagement et de construction recrute un agent pour compenser le départ d'un fonctionnaire auquel il a accordé un congé de fin d'activité.
+
+Lors de la dissolution du fonds, qui interviendra au plus tard le 31 décembre de l'an 2000, le reliquat éventuel sera reversé au régime de l'allocation temporaire d'invalidité mentionnée au premier alinéa.

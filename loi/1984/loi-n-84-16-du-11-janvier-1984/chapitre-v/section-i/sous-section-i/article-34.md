@@ -14,7 +14,7 @@ Les dispositions du deuxième alinéa du 2° du présent article sont applicable
 
 Le fonctionnaire qui a obtenu un congé de longue maladie ne peut bénéficier d'un autre congé de cette nature, s'il n'a pas auparavant repris l'exercice de ses fonctions pendant un an ;
 
-4° A un congé de longue durée, en cas de tuberculose, maladie mentale, affection cancéreuse ou poliomyélite, de trois ans à plein traitement et de deux ans à demi-traitement. Le fonctionnaire conserve ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
+4° A un congé de longue durée, en cas de tuberculose, maladie mentale, affection cancéreuse, poliomyélite ou déficit immunitaire grave et acquis, de trois ans à plein traitement et de deux ans à demi-traitement. Le fonctionnaire conserve ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
 
 Si la maladie ouvrant droit à congé de longue durée a été contractée dans l'exercice des fonctions, les périodes fixées ci-dessus sont respectivement portées à cinq ans et trois ans.
 

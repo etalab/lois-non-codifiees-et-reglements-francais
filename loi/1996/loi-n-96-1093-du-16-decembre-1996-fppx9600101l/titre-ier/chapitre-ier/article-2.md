@@ -1,0 +1,3 @@
+# Article 2
+
+Peuvent également être ouverts selon les modalités définies à l'article 1er des concours réservés aux agents remplissant les conditions fixées aux 2°, 4° et 5° de l'article 1er et justifiant à la date du 14 mai 1996 de la qualité d'agent non titulaire de droit public d'un établissement public administratif, recruté à titre temporaire sur des emplois ou crédits inscrits au budget de l'Etat et assurant des missions de service public dévolues aux agents titulaires. Ces agents doivent exercer des fonctions du niveau de la catégorie C ou des fonctions d'enseignement mentionnées au 3° de l'article 1er, correspondant à des emplois autres que ceux figurant sur la liste prévue au 2° de l'article 3 de la loi n° 84-16 du 11 janvier 1984 précitée.

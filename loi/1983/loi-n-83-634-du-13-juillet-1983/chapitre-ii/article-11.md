@@ -6,4 +6,6 @@ Lorsqu'un fonctionnaire a été poursuivi par un tiers pour faute de service et 
 
 La collectivité publique est tenue de protéger les fonctionnaires contre les menaces, violences, voies de fait, injures, diffamations ou outrages dont ils pourraient être victimes à l'occasion de leurs fonctions, et de réparer, le cas échéant, le préjudice qui en est résulté.
 
-La collectivité publique est subrogée aux droits de la victime pour obtenir des auteurs des menaces ou attaques la restitution des sommes versées au fonctionnaire intéressé. Elle dispose, en outre, aux mêmes fins, d'une action directe qu'elle peut exercer au besoin par voie de constitution de partie civile devant la juridiction pénale.
+La collectivité publique est tenue d'accorder sa protection au fonctionnaire ou à l'ancien fonctionnaire dans le cas où il fait l'objet de poursuites pénales à l'occasion de faits qui n'ont pas le caractère d'une faute personnelle.
+
+La collectivité publique est subrogée aux droits de la victime pour obtenir des auteurs des menaces ou attaques la restitution des sommes versées au fonctionnaire intéressé. Elle dispose, en outre, aux mêmes fins, d'une action directe qu'elle peut exercer au besoin par voie de constitution de partie civile devant la juridiction pénale. Les dispositions du présent article sont applicables aux agents publics non titulaires. "

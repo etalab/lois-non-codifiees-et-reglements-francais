@@ -18,9 +18,9 @@ La collectivité et subrogée dans les droits éventuels du fonctionnaire victim
 
 Le fonctionnaire qui a obtenu un congé de longue maladie ne peut bénéficier d'un autre congé de cette nature s'il n'a pas auparavant repris l'exercice de ses fonctions pendant un an.
 
-Les dispositions des deuxième, troisième et quatrième alinéas du 2° du présent article sont applicables aux congés de longue maladie ;
+Les dispositions des deuxième, troisième et quatrième alinéas du 2° du présent article sont applicables aux congés de longue maladie  ;
 
-4° A des congés de longue durée, en cas de tuberculose, maladie mentale, affection cancéreuse ou de poliomyélite, de trois ans à plein traitement et de deux ans à demi-traitement. Le fonctionnaire conserve ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
+4° A un congé de longue durée, en cas de tuberculose, maladie mentale, affection cancéreuse, poliomyélite ou déficit immunitaire grave et acquis, de trois ans à plein traitement et de deux ans à demi-traitement. Le fonctionnaire conserve ses droits à la totalité du supplément familial de traitement et de l'indemnité de résidence.
 
 Si la maladie ouvrant droit à congé de longue durée a été contractée dans l'exercice des fonctions, les périodes fixées ci-dessus sont respectivement portées à cinq ans et trois ans.
 
@@ -30,17 +30,17 @@ Sur demande de l'intéressé, l'administration a la faculté, après avis du com
 
 Les dispositions de la deuxième phrase du quatrième alinéa du 2° du présent article sont applicables aux congés de longue durée.
 
-" 4° bis. Après un congé de longue maladie ou de longue durée, les fonctionnaires peuvent être autorisés, après avis du comité médical compétent, à accomplir un service à mi-temps pour raison thérapeutique, accordé pour une période de trois mois et renouvelable dans la limite d'un an par affection ayant ouvert droit à congé de longue maladie ou congé de longue durée.
+4° bis. Après un congé de longue maladie ou de longue durée, les fonctionnaires peuvent être autorisés, après avis du comité médical compétent, à accomplir un service à mi-temps pour raison thérapeutique, accordé pour une période de trois mois et renouvelable dans la limite d'un an par affection ayant ouvert droit à congé de longue maladie ou congé de longue durée.
 
-" Après un congé pour accident de service ou maladie contractée dans l'exercice des fonctions, le travail à mi-temps thérapeutique peut être accordé pour une période d'une durée maximale de six mois renouvelable une fois, après avis favorable de la commission de réforme compétente.
+Après un congé pour accident de service ou maladie contractée dans l'exercice des fonctions, le travail à mi-temps thérapeutique peut être accordé pour une période d'une durée maximale de six mois renouvelable une fois, après avis favorable de la commission de réforme compétente.
 
-" Le mi-temps thérapeutique peut être accordé :
+Le mi-temps thérapeutique peut être accordé :
 
-" - soit parce que la reprise des fonctions à mi-temps est reconnue comme étant de nature à favoriser l'amélioration de l'état de santé de l'intéressé ;
+- soit parce que la reprise des fonctions à mi-temps est reconnue comme étant de nature à favoriser l'amélioration de l'état de santé de l'intéressé ;
 
-" - soit parce que l'intéressé doit faire l'objet d'une rééducation ou d'une réadaptation professionnelle pour retrouver un emploi compatible avec son état de santé.
+- soit parce que l'intéressé doit faire l'objet d'une rééducation ou d'une réadaptation professionnelle pour retrouver un emploi compatible avec son état de santé.
 
-" Les fonctionnaires autorisés à travailler à mi-temps pour raison thérapeutique perçoivent l'intégralité de leur traitement. "
+Les fonctionnaires autorisés à travailler à mi-temps pour raison thérapeutique perçoivent l'intégralité de leur traitement.
 
 5° Au congé pour maternité, ou pour adoption, avec traitement, d'une durée égale à celle prévue par la législation sur la sécurité sociale ;
 

@@ -7,6 +7,7 @@
 - [Loi n° 95-1404 du 30 décembre 1995 (MAEX9500114L)](loi-n-95-1404-du-30-decembre-1995-maex9500114l)
 - [Loi n° 96-1075 du 11 décembre 1996 (DOMX9600114L)](loi-n-96-1075-du-11-decembre-1996-domx9600114l)
 - [Loi n° 96-1076 du 11 décembre 1996 (TASX9601781L)](loi-n-96-1076-du-11-decembre-1996-tasx9601781l)
+- [Loi n° 96-1093 du 16 décembre 1996 (FPPX9600101L)](loi-n-96-1093-du-16-decembre-1996-fppx9600101l)
 - [Loi n° 96-110 du 14 février 1996 (ECOX9601356L)](loi-n-96-110-du-14-fevrier-1996-ecox9601356l)
 - [Loi n° 96-126 du 21 février 1996 (TEFX9500150L)](loi-n-96-126-du-21-fevrier-1996-tefx9500150l)
 - [Loi n° 96-127 du 21 février 1996 (MAEX9500019L)](loi-n-96-127-du-21-fevrier-1996-maex9500019l)
