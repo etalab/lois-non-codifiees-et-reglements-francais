@@ -207,7 +207,6 @@
 - [Décret n°89-43 du 24 janvier 1989 (MAEJ8930004D)](decret-n89-43-du-24-janvier-1989-maej8930004d)
 - [Décret n°90-668 du 24 juillet 1990 (AGRA9001250D)](decret-n90-668-du-24-juillet-1990-agra9001250d)
 - [Décret n°89-265 du 25 avril 1989 (PRME8961244D)](decret-n89-265-du-25-avril-1989-prme8961244d)
-- [Décret n°89-36 du 25 janvier 1989 (SPSS8801887D)](decret-n89-36-du-25-janvier-1989-spss8801887d)
 - [Décret n°89-334 du 25 mai 1989 (PTTA8800761D)](decret-n89-334-du-25-mai-1989-ptta8800761d)
 - [Décret n°89-336 du 25 mai 1989 (MENL8900267D)](decret-n89-336-du-25-mai-1989-menl8900267d)
 - [Décret n°89-342 du 25 mai 1989 (BUDZ8900006D)](decret-n89-342-du-25-mai-1989-budz8900006d)
