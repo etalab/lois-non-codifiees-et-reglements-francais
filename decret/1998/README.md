@@ -434,6 +434,7 @@
 - [Décret n°98-215 du 26 mars 1998 (PRMP9860001D)](decret-n98-215-du-26-mars-1998-prmp9860001d)
 - [Décret n°98-221 du 26 mars 1998 (INTM9800007D)](decret-n98-221-du-26-mars-1998-intm9800007d)
 - [Décret n°98-53 du 26 janvier 1998 (JUSA9700299D)](decret-n98-53-du-26-janvier-1998-jusa9700299d)
+- [Décret n°82-440 du 26 mai 1982](decret-n82-440-du-26-mai-1982)
 - [Décret n°98-111 du 27 février 1998 (ECOM9701650D)](decret-n98-111-du-27-fevrier-1998-ecom9701650d)
 - [Décret n°98-112 du 27 février 1998 (ECOM9701651D)](decret-n98-112-du-27-fevrier-1998-ecom9701651d)
 - [Décret n°98-113 du 27 février 1998 (ECOM9701652D)](decret-n98-113-du-27-fevrier-1998-ecom9701652d)
