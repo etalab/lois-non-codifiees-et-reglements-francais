@@ -1,3 +1,3 @@
 # Article 3
 
-Les expertises sont effectuées aux frais et risques des importateurs.
+La surveillance technique des activités visées à l'article 1er et confiées au banc d'épreuve des armes à feu de Saint-Etienne, dans le cadre du présent arrêté, est assurée par le service de la surveillance industrielle de l'armement relevant du ministère de la défense.
