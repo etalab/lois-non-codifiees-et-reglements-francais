@@ -1,0 +1,3 @@
+# Article 15-1
+
+S'ils avaient la qualité de fonctionnaire ou d'agent non titulaire, les ingénieurs des travaux publics de l'Etat titularisés en application des articles 12, 14 et 15 dans leur grade dans les conditions définies aux articles 15-2 à 15-7 ci-après. Ceux dont l'indice de traitement dans l'emploi de chef de subdivision régi par le décret du 24 février 1995 susvisé était supérieur à l'indice afférent à l'échelon du grade d'ingénieur des travaux publics de l'Etat dans lequel ils sont classés conservent, à titre personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficient dans leur nouveau corps d'un indice au moins égal.
