@@ -1,0 +1,3 @@
+# Arrêté du 20 juillet 1982 RELATIF A L'IMPOSITION DU SERVICE DES ALCOOLS A L'IMPOT SUR LES SOCIETES.
+
+- [Article 1](article-1.md)
