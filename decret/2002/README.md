@@ -123,7 +123,6 @@
 - [Décret n°2002-1436 du 3 décembre 2002 (JUSC0220574D)](decret-n2002-1436-du-3-decembre-2002-jusc0220574d)
 - [Décret n°2002-15 du 3 janvier 2002 (EQUA0101640D)](decret-n2002-15-du-3-janvier-2002-equa0101640d)
 - [Décret n°2002-16 du 3 janvier 2002 (EQUA0101641D)](decret-n2002-16-du-3-janvier-2002-equa0101641d)
-- [Décret n°2002-17 du 3 janvier 2002 (ATEE0190071D)](decret-n2002-17-du-3-janvier-2002-atee0190071d)
 - [Décret n°2002-18 du 3 janvier 2002 (FPPX0100186D)](decret-n2002-18-du-3-janvier-2002-fppx0100186d)
 - [Décret n°2002-23 du 3 janvier 2002 (DEFC0102226D)](decret-n2002-23-du-3-janvier-2002-defc0102226d)
 - [Décret n°2002-24 du 3 janvier 2002 (EQUA0101720D)](decret-n2002-24-du-3-janvier-2002-equa0101720d)
