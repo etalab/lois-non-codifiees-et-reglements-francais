@@ -1,3 +1,0 @@
-# Article 1
-
-Le comité interministériel de lutte contre la drogue et la toxicomanie a pour mission de préparer les décisions du Gouvernement, tant au plan national qu'international, en ce qui concerne la lutte contre, d'une part, la production, la transformation, le transport, la revente des produits stupéfiants ainsi que les transactions financières qui s'y rapportent et, d'autre part, la consommation de ces produits et la toxicomanie. A cette fin, il favorise la prévention, les soins, l'insertion sociale, l'information, la recherche et la formation des personnes intervenant dans la lutte contre la drogue et la toxicomanie.
