@@ -379,6 +379,7 @@
 - [Décret n°97-729 du 18 juin 1997 (DEFX9702115D)](decret-n97-729-du-18-juin-1997-defx9702115d)
 - [Décret n°97-792 du 18 août 1997 (FPPA9700097D)](decret-n97-792-du-18-aout-1997-fppa9700097d)
 - [Décret n°97-858 du 18 septembre 1997 (MENF9701872D)](decret-n97-858-du-18-septembre-1997-menf9701872d)
+- [Décret n°97-861 du 18 septembre 1997 (FPPA9700090D)](decret-n97-861-du-18-septembre-1997-fppa9700090d)
 - [Décret n°93-101 du 19 janvier 1993 (SANH9202986D)](decret-n93-101-du-19-janvier-1993-sanh9202986d)
 - [Décret n°96-1115 du 19 décembre 1996 (EQUX9600154D)](decret-n96-1115-du-19-decembre-1996-equx9600154d)
 - [Décret n°97-152 du 19 février 1997 (INDC9700012D)](decret-n97-152-du-19-fevrier-1997-indc9700012d)
