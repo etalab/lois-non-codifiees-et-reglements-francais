@@ -1,4 +1,4 @@
-# Arrêté du 5 janvier 1995 portant organisation des élections pour le renouvellement des membres des sections du Comité national de la recherche scientifique
+# Arrêté du 21 mars 1995 réglementant le transport des marchandises dangereuses par la liaison fixe trans-Manche (Matières dangereuses 1995, n° 1)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -17,3 +17,8 @@
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
 - [Article 17](article-17.md)
+- [Article 18](article-18.md)
+- [Article 19](article-19.md)
+- [Article 20](article-20.md)
+- [Article 21](article-21.md)
+- [Annexes](annexes)

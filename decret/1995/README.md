@@ -229,6 +229,7 @@
 - [Décret n°95-405 du 18 avril 1995 (EQUA9500701D)](decret-n95-405-du-18-avril-1995-equa9500701d)
 - [Décret n°95-408 du 18 avril 1995 (ENVP9530012D)](decret-n95-408-du-18-avril-1995-envp9530012d)
 - [Décret n°95-409 du 18 avril 1995 (ENVP9530013D)](decret-n95-409-du-18-avril-1995-envp9530013d)
+- [Décret n°95-410 du 18 avril 1995 (SPSS9500838D)](decret-n95-410-du-18-avril-1995-spss9500838d)
 - [Décret n°95-57 du 18 janvier 1995 (INTA9500009D)](decret-n95-57-du-18-janvier-1995-inta9500009d)
 - [Décret n°95-80 du 18 janvier 1995 (MJSK9470162D)](decret-n95-80-du-18-janvier-1995-mjsk9470162d)
 - [Décret n°95-68 du 19 janvier 1995 (SPSA9403647D)](decret-n95-68-du-19-janvier-1995-spsa9403647d)

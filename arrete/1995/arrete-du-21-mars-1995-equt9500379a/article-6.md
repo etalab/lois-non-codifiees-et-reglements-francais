@@ -1,0 +1,5 @@
+# Article 6
+
+Dès qu'il pénètre sur la liaison fixe trans-Manche, tout véhicule ou ensemble routier transportant des marchandises dangereuses est tenu de se déclarer comme tel et de se diriger vers l'itinéraire prévu à cet effet. L'ensemble des documents de transport établis en application du marginal 2002 de l'ADR, paragraphe (3) a, doivent être présentés aux représentants des concessionnaires, ainsi que, lorsqu'il s'agit de documents séparés, l'ensemble des déclarations mentionnées au marginal 2002 de l'ADR, paragraphe 9. Si le véhicule est admis au transit, un badge d'identification doit être apposé de façon visible sur le véhicule. Ce badge ne peut être retiré qu'à la sortie de la liaison fixe trans-Manche.
+
+Les dispositions du présent arrêté ne s'appliquent pas lorsque les seules marchandises dangereuses transportées le sont conformément au marginal 10010 de l'ADR. Elles s'appliquent par contre également lorsque le transport s'effectue en deçà des quantités limites prévues au marginal 10011 de l'ADR.
