@@ -1,0 +1,5 @@
+# Article 3
+
+Les délibérations du conseil de gestion relatives à la perception, à la gestion et à l'utilisation des fonds provenant de la taxe prévue à l'article 1609 sexvicies susvisé du code général des impôts sont notifiées au commissaire du Gouvernement. En l'absence d'opposition de ce dernier, elles sont exécutoires à l'issue d'un délai de huit jours à compter de cette notification. Toute demande d'information complémentaire du commissaire du Gouvernement suspend ce délai, jusqu'à réception. Le commissaire du Gouvernement indique si la demande d'information entraîne suspension de l'ensemble de la délibération ou suspension du seul point sur lequel elle porte.
+
+En cas d'opposition, le commissaire du Gouvernement saisit immédiatement le ministre chargé de l'éducation nationale. Ce dernier dispose d'un délai d'un mois à compter de la réception des projets de délibérations pour les approuver ou les refuser. A l'issue de ce délai, en l'absence de décision expresse, la délibération est réputée approuvée.
