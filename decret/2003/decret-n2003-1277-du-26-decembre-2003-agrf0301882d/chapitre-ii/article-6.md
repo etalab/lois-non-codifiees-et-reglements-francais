@@ -1,6 +1,6 @@
 # Article 6
 
-I. - L'assiette forfaitaire mentionnée à l'article L. 762-36 du code rural est fixée à 2 028 fois le montant du salaire minimum de croissance en vigueur au 1er janvier de l'année considérée.
+I. - L'assiette forfaitaire mentionnée à l'article L. 762-36 du code rural est fixée à 1957 fois le montant du salaire minimum de croissance en vigueur au 1er janvier de l'année considérée.
 
 II. - Au titre des périodes postérieures au 31 décembre 2002, le nombre de points de retraite complémentaire obligatoire porté au compte de l'assuré mentionné au 1° de l'article 2 du présent décret est déterminé comme suit :
 
