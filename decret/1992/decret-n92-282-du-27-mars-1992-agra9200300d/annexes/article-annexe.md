@@ -619,3 +619,27 @@ Préposé sanitaire contractuel.
 FONCTIONS EXERCEES : Administratives.
 
 CORPS D'ACCUEIL : Préposé sanitaire des services vétérinaires.
+
+CATÉGORIE de non-titulaires :
+
+Préposés sanitaires vacataires.
+
+FONCTIONS :
+
+Hygiène alimentaire, santé animale.
+
+CORPS D'ACCUEIL :
+
+Préposés sanitaires des services vétérinaires.
+
+CATÉGORIE de non-titulaires :
+
+Agents des établissements publics locaux d'enseignement et de formation professionnelle agricoles recrutés sur le fondement de contrats individuels du niveau de la catégorie B.
+
+FONCTIONS :
+
+Fonctions administratives d'application (rédaction, gestion, comptabilité).
+
+CORPS D'ACCUEIL :
+
+Secrétaires d'administration scolaire et universitaire du ministère de l'agriculture.
