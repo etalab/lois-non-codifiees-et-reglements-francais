@@ -1036,7 +1036,6 @@
 - [Arrêté du 29 décembre 1994 (INTB9400628A)](arrete-du-29-decembre-1994-intb9400628a)
 - [Arrêté du 29 décembre 1997 (ECOI9800031A)](arrete-du-29-decembre-1997-ecoi9800031a)
 - [Arrêté du 29 décembre 1997 (EQUA9701651A)](arrete-du-29-decembre-1997-equa9701651a)
-- [Arrêté du 29 décembre 1997 (EQUT9701985A)](arrete-du-29-decembre-1997-equt9701985a)
 - [Arrêté du 29 décembre 1997 (MENL9703397A)](arrete-du-29-decembre-1997-menl9703397a)
 - [Arrêté du 29 décembre 1998 (AGRM9802366A)](arrete-du-29-decembre-1998-agrm9802366a)
 - [Arrêté du 29 décembre 1998 (DEFD9801664A)](arrete-du-29-decembre-1998-defd9801664a)
