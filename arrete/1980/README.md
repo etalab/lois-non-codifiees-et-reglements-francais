@@ -7,6 +7,7 @@
 - [Arrêté du 4 février 1980](arrete-du-4-fevrier-1980)
 - [Arrêté du 4 juillet 1980](arrete-du-4-juillet-1980)
 - [Arrêté du 4 juin 1980](arrete-du-4-juin-1980)
+- [Arrêté du 5 août 1980](arrete-du-5-aout-1980)
 - [Arrêté du 5 juin 1980](arrete-du-5-juin-1980)
 - [Arrêté du 5 mars 1980](arrete-du-5-mars-1980)
 - [Arrêté du 6 mars 1980](arrete-du-6-mars-1980)
@@ -47,4 +48,5 @@
 - [Arrêté du 29 février 1976](arrete-du-29-fevrier-1976)
 - [Arrêté du 29 février 1980](arrete-du-29-fevrier-1980)
 - [Arrêté du 29 mai 1980](arrete-du-29-mai-1980)
+- [Arrêté du 30 juillet 1980](arrete-du-30-juillet-1980)
 - [Arrêté du 31 mars 1980](arrete-du-31-mars-1980)

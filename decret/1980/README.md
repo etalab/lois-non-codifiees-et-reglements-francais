@@ -105,6 +105,7 @@
 - [Décret n°80-220 du 25 mars 1980](decret-n80-220-du-25-mars-1980)
 - [Décret n°80-308 du 25 avril 1980](decret-n80-308-du-25-avril-1980)
 - [Décret n°80-580 du 25 juillet 1980](decret-n80-580-du-25-juillet-1980)
+- [Décret n°80-665 du 25 août 1980](decret-n80-665-du-25-aout-1980)
 - [Décret n°79-1210 du 26 décembre 1979](decret-n79-1210-du-26-decembre-1979)
 - [Décret n°80-169 du 27 février 1980](decret-n80-169-du-27-fevrier-1980)
 - [Décret n°80-479 du 27 juin 1980](decret-n80-479-du-27-juin-1980)
