@@ -507,6 +507,7 @@
 - [Arrêté du 22 mars 1991 (SPSS9100826A)](arrete-du-22-mars-1991-spss9100826a)
 - [Arrêté du 22 novembre 1991 (DEFP9102181A)](arrete-du-22-novembre-1991-defp9102181a)
 - [Arrêté du 22 octobre 1980](arrete-du-22-octobre-1980)
+- [Arrêté du 23 août 1991 (SANP9101921A)](arrete-du-23-aout-1991-sanp9101921a)
 - [Arrêté du 23 avril 1991 (AGRS9100964A)](arrete-du-23-avril-1991-agrs9100964a)
 - [Arrêté du 23 avril 1991 (BUDR9105020A)](arrete-du-23-avril-1991-budr9105020a)
 - [Arrêté du 23 avril 1991 (DEFT9101036A)](arrete-du-23-avril-1991-deft9101036a)
