@@ -313,6 +313,7 @@
 - [Décret n°94-96 du 28 janvier 1994 (ECOM9200424D)](decret-n94-96-du-28-janvier-1994-ecom9200424d)
 - [Décret n°95-244 du 28 février 1995 (AGRA9500054D)](decret-n95-244-du-28-fevrier-1995-agra9500054d)
 - [Décret n°95-335 du 28 mars 1995 (DEFP9501219D)](decret-n95-335-du-28-mars-1995-defp9501219d)
+- [Décret n°73-877 du 29 août 1973](decret-n73-877-du-29-aout-1973)
 - [Décret n°93-1143 du 29 septembre 1993 (RESN9300803D)](decret-n93-1143-du-29-septembre-1993-resn9300803d)
 - [Décret n°93-1144 du 29 septembre 1993 (RESN9300804D)](decret-n93-1144-du-29-septembre-1993-resn9300804d)
 - [Décret n°93-1409 du 29 décembre 1993 (AGRR9302293D)](decret-n93-1409-du-29-decembre-1993-agrr9302293d)

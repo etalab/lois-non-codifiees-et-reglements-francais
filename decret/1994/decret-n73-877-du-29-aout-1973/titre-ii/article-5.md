@@ -1,0 +1,3 @@
+# Article 5
+
+Les fonctionnaires des services actifs de la police nationale mis à la retraite pour invalidité imputable au service peuvent être nommés sans concours à l'échelon de début du grade d'adjoint administratif de la police nationale, nonobstant les dispositions de l'article 5 du décret du 1er août 1990 susmentionné et de l'article 2 ci-dessus. La nomination ne peut avoir lieu qu'après vérification de l'aptitude physique, des titres et des aptitudes professionnelles des intéressés. Une commission nommée par arrêté du ministre de l'intérieur apprécie ces titres et aptitudes professionnelles dans les conditions fixées par le même arrêté.
