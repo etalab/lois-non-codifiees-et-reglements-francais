@@ -866,7 +866,6 @@
 - [Arrêté du 24 décembre 1996 (EQUS9601590A)](arrete-du-24-decembre-1996-equs9601590a)
 - [Arrêté du 24 décembre 1996 (EQUS9601750A)](arrete-du-24-decembre-1996-equs9601750a)
 - [Arrêté du 24 décembre 1996 (INTC9600566A)](arrete-du-24-decembre-1996-intc9600566a)
-- [Arrêté du 24 décembre 1996 (PRMX9601827A)](arrete-du-24-decembre-1996-prmx9601827a)
 - [Arrêté du 24 décembre 1996 (TASF9611799A)](arrete-du-24-decembre-1996-tasf9611799a)
 - [Arrêté du 24 décembre 1996 (TASP9720101A)](arrete-du-24-decembre-1996-tasp9720101a)
 - [Arrêté du 24 décembre 1997 (AGRP9702568A)](arrete-du-24-decembre-1997-agrp9702568a)
