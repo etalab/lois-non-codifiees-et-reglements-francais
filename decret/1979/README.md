@@ -30,7 +30,6 @@
 - [Décret n°79-866 du 4 octobre 1979](decret-n79-866-du-4-octobre-1979)
 - [Décret n°79-124 du 5 février 1979](decret-n79-124-du-5-fevrier-1979)
 - [Décret n°79-135 du 5 février 1979](decret-n79-135-du-5-fevrier-1979)
-- [Décret n°79-437 du 5 juin 1979](decret-n79-437-du-5-juin-1979)
 - [Décret n°79-602 du 5 juillet 1979](decret-n79-602-du-5-juillet-1979)
 - [Décret n°79-1065 du 6 décembre 1979](decret-n79-1065-du-6-decembre-1979)
 - [Décret n°79-180 du 6 mars 1979](decret-n79-180-du-6-mars-1979)
