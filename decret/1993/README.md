@@ -10,7 +10,6 @@
 - [Décret n°93-134 du 1 février 1993 (RESX9300002D)](decret-n93-134-du-1-fevrier-1993-resx9300002d)
 - [Décret n°93-167 du 1 février 1993 (ECOT9220013D)](decret-n93-167-du-1-fevrier-1993-ecot9220013d)
 - [Décret n°93-270 du 1 mars 1993 (INTB9300060D)](decret-n93-270-du-1-mars-1993-intb9300060d)
-- [Décret n°93-273 du 1 mars 1993 (BUDB9210061D)](decret-n93-273-du-1-mars-1993-budb9210061d)
 - [Décret n°93-283 du 1 mars 1993 (BUDR9306040D)](decret-n93-283-du-1-mars-1993-budr9306040d)
 - [Décret n°93-284 du 1 mars 1993 (SPSN9300193D)](decret-n93-284-du-1-mars-1993-spsn9300193d)
 - [Décret n°93-285 du 1 mars 1993 (MAEJ9330006D)](decret-n93-285-du-1-mars-1993-maej9330006d)
