@@ -1,4 +1,4 @@
-# Arrêté du 15 janvier 1986 fixant le montant des dépenses de personnel prises en charge par l'Etat et le département de la Guyane en 1986 pris en application de l'article 6 de la loi n° 85-1098 du 11 octobre 1985.
+# Arrêté du 15 janvier 1986 relatif à l'admission temporaire en exonération de taxe sur la valeur ajoutée des biens destinés à être utilisés en l'état dans le territoire français.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

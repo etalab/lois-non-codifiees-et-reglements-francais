@@ -1,3 +1,3 @@
 # Article 1
 
-L'indication codée qui désigne conventionnellement l'année de fabrication sur les récipients et emballages renfermant des conserves alimentaires et des laits de conserve partiellement ou totalement déshydratés destinés à l'alimentation humaine, fabriqués en 1986, est la lettre majuscule L.
+La garantie de l'Etat est accordée au service des deux emprunts obligataires de 250 millions de francs chacun, émis par les sociétés de développement régional Centrest, Tofinso, Bretagne, Champex, Expanso, Lordex, Normandie, Picardie, Sade, Sodecco, Soderag, Sodero, Sodler, Sud-Est et la Caisse de développement de la Corse.
