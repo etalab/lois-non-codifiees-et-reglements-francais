@@ -6,7 +6,7 @@ Les obligations découlant des dispositions énoncées dans la présente annexe 
 
 #####<font size="1">Module A : (contrôle interne de la fabrication)</font>
 
-**1.** Le président module écrit la procédure par laquelle le fabricant, ou son mandataire établi dans la Communauté, qui remplit les obligations du point 2, assure et déclare que l'équipement sous pression satisfait aux exigences de la directive qui lui sont applicables. Le fabricant, ou son mandataire établi dans la Communauté, appose le marquage "CE" sur chaque équipement sous pression et établit par écrit une déclaration de conformité.
+**1.** Le présent module écrit la procédure par laquelle le fabricant, ou son mandataire établi dans la Communauté, qui remplit les obligations du point 2, assure et déclare que l'équipement sous pression satisfait aux exigences de la directive qui lui sont applicables. Le fabricant, ou son mandataire établi dans la Communauté, appose le marquage "CE" sur chaque équipement sous pression et établit par écrit une déclaration de conformité.
 
 **2.**Le fabricant établit la documentation technique décrite au point 3 ; le fabricant, ou son mandataire établi dans la Communauté, tient celle-ci à la disposition des autorités nationales à des fins d'inspection pendant une durée de dix ans à compter de la date de fabrication du dernier équipement sous pression.
 
@@ -252,7 +252,7 @@ Elle comprend en particulier une description adéquate :
 
 L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie de l'équipement sous pression concerné. La procédure d'évaluation comporte une visite d'inspection dans les installations du fabricant.
 
-La décision est habilitée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
+La décision est notifiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
 
 **3.4.** Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est agréé et à faire en sorte qu'il reste adéquat et efficace.
 
@@ -352,7 +352,7 @@ Elle comprend en particulier une description adéquate :
 
 L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie de l'équipement sous pression concerné. La procédure d'évaluation comporte une visite d'inspection dans les installations du fabricant.
 
-La décision est habilitée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
+La décision est  notififiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
 
 **4.4.** Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est agréé et à faire en sorte qu'il reste adéquat et efficace.
 
@@ -436,7 +436,7 @@ Elle comprend en particulier une description adéquate :
 
 L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie de l'équipement sous pression concerné. La procédure d'évaluation comporte une visite d'évaluation dans les installations du fabricant.
 
-La décision est  habilitée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée.
+La décision est  notifiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée.
 
 **3.4.** Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est agréé et à faire en sorte qu'il reste adéquat et efficace.
 
@@ -536,7 +536,7 @@ Elle comprend en particulier une description adéquate :
 
 L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie de l'équipement sous pression concerné. La procédure d'évaluation comprend une visite d'inspection dans les locaux du fabricant.
 
-La décision est habilitée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
+La décision est notifiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
 
 **4.4.**Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est agréé et à faire en sorte qu'il reste adéquat et efficace.
 
@@ -721,7 +721,7 @@ Elle comprend en particulier une description adéquate :
 
 L'équipe d'auditeurs comportera au moins un membre expérimenté dans l'évaluation de la technologie de l'équipement sous pression concerné. La procédure d'évaluation comporte une visite d'inspection dans les installations du fabricant.
 
-La décision est  habilitée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
+La décision est notifiée au fabricant. La notification contient les conclusions du contrôle et la décision d'évaluation motivée. Une procédure de recours doit être prévue.
 
 **3.4.** Le fabricant s'engage à remplir les obligations découlant du système de qualité tel qu'il est agréé et à faire en sorte qu'il demeure adéquat et efficace.
 
