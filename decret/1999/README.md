@@ -42,6 +42,7 @@
 - [Décret n°99-788 du 13 septembre 1999 (MESO9910826D)](decret-n99-788-du-13-septembre-1999-meso9910826d)
 - [Décret n°99-876 du 13 octobre 1999 (ATEG9970043D)](decret-n99-876-du-13-octobre-1999-ateg9970043d)
 - [Décret n°99-877 du 13 octobre 1999 (ATEG9970044D)](decret-n99-877-du-13-octobre-1999-ateg9970044d)
+- [Décret n°94-886 du 14 octobre 1994 (INTC9400334D)](decret-n94-886-du-14-octobre-1994-intc9400334d)
 - [Décret n°98-1125 du 14 décembre 1998 (JUSC9820732D)](decret-n98-1125-du-14-decembre-1998-jusc9820732d)
 - [Décret n°99-24 du 14 janvier 1999 (MENS9803335D)](decret-n99-24-du-14-janvier-1999-mens9803335d)
 - [Décret n°98-1142 du 15 décembre 1998 (ECOC9800138D)](decret-n98-1142-du-15-decembre-1998-ecoc9800138d)
