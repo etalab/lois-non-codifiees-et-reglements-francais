@@ -80,14 +80,6 @@ Section 2, Décisions prises par le ministre chargé de l'agriculture, de la for
 
 Forêt et aménagement de l'espace.
 
-Refus d'autorisation de défrichement d'un bois appartenant à un particulier :
-
-R. 311-1 du code forestier.
-
-Décisions relatives aux défrichements des bois et forêts de collectivités ou personnes morales mentionnées au premier alinéa de l'article L. 141-1 du code forestier pour les opérations portant sur des superficies au moins égales à 1 hectare :
-
-Article R. 312-1 du code forestier.
-
 Décisions relatives aux coupes de plantes aréneuses sur les formations dunaires appartenant à des collectivités ou personnes morales mentionnées au premier alinéa de l'article L. 141-1 du code forestier pour les opérations portant sur des superficies au moins égales à 0,5 hectare :
 
 Article L. 431-2 du code forestier.
@@ -186,9 +178,9 @@ Répartition du contingent de fécule de pomme de terre :
 
 Règlement (CEE) n° 1868/94 du Conseil du 27 juillet 1994 instituant un régime de contingentement pour la production de fécule de pomme de terre.
 
-Délivrance des certificats d'importation, d'exportation ou de préfixation de la restitution :
+Délivrance des certificats d'importation, d'exportation ou de préfixation, à l'exception de ceux délivrés en Guadeloupe, en Guyane, en Martinique et à La Réunion :
 
-Règlement (CEE) n° 3719/88 de la Commission du 16 novembre 1988 portant modalités communes d'application du régime des certificats d'importation, d'exportation et de préfixation pour les produits agricoles.
+Règlement (CE) n° 1291/2000 de la Commission du 9 juin 2000 portant modalités communes d'application du régime des certificats d'importation, d'exportation et de préfixation pour les produits agricoles.
 
 Agrément des programmes d'amélioration génétique :
 
