@@ -6,13 +6,9 @@ Médecine générale.
 
 Conditions à remplir par le remplaçant ou l'adjoint et semestres requis :
 
-1° Etre inscrit en troisième cycle de médecine générale et avoir effectué trois semestres de résidanat, dont un chez un praticien généraliste agréé.
+1° Etre inscrit en troisième cycle de médecine générale et avoir effectué trois semestres de résidanat dont un chez un praticien généraliste agréé.
 
-2° Par dérogation au 1°, et jusqu'au 1er novembre 1999, les étudiants inscrits en troisième cycle des études médicales peuvent être admis par le préfet, après avis favorable du conseil départemental de l'ordre, à remplacer en médecine générale dans les conditions suivantes :
-
-a) Pour les étudiants inscrits en troisième cycle de médecine générale, avoir effectué deux semestres de résidanat ;
-
-b) Pour les étudiants inscrits en troisième cycle de spécialité, avoir effectué deux semestres d'internat dans un service agréé en médecine générale.
+2° Par dérogation au 1°, et jusqu'au 1er novembre 2001, être inscrit en troisième cycle de médecine générale et avoir effectué trois semestres de résidanat.
 
 Activité du médecin remplacé :
 
