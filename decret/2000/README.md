@@ -57,6 +57,7 @@
 - [Décret n°2000-651 du 3 juillet 2000 (MJSK0070010D)](decret-n2000-651-du-3-juillet-2000-mjsk0070010d)
 - [Décret n°2000-967 du 3 octobre 2000 (EQUU0001322D)](decret-n2000-967-du-3-octobre-2000-equu0001322d)
 - [Décret n°2000-971 du 3 octobre 2000 (FPPA0010016D)](decret-n2000-971-du-3-octobre-2000-fppa0010016d)
+- [Décret n°68-414 du 3 mai 1968](decret-n68-414-du-3-mai-1968)
 - [Décret n°2000-385 du 3 mai 2000 (DEFD0001363D)](decret-n2000-385-du-3-mai-2000-defd0001363d)
 - [Décret n°2002-828 du 3 mai 2002 (MENF0200402D)](decret-n2002-828-du-3-mai-2002-menf0200402d)
 - [Décret n°2000-861 du 4 septembre 2000 (MEST0010745D)](decret-n2000-861-du-4-septembre-2000-mest0010745d)
