@@ -1,11 +1,7 @@
 # Article 2
 
-Il ne peut être fait de propagande ou de publicité directe ou indirecte en faveur du tabac et des produits du tabac :
+Toute propagande ou publicité, directe ou indirecte, en faveur du tabac ou des produits du tabac ainsi que toute distribution gratuite sont interdites.
 
-1° Par des émissions de radiodiffusion ou de télévision, par des enregistrements ou par voie de télédistribution ;
+Ces dispositions ne s'appliquent pas aux enseignes des débits de tabac, ni aux affichettes disposées à l'intérieur de ces établissements, non visibles de l'extérieur, à condition que ces enseignes ou ces affichettes soient conformes à des caractéristiques définies par arrêté interministériel.
 
-2° Par des projections ou des annonces dans les salles de spectacles et autres lieux publics ou ouverts au public ;
-
-3° Par affiches, panneaux réclames, prospectus ou enseignes, lumineuses ou non. Ces dispositions ne s'appuient pas, toutefois, à la publicité faite au moyen d'affiches, de panneaux réclames ou d'enseignes lumineuses ou non à l'intérieur des débits de tabac, ni aux enseignes et panneaux signalant ces établissements ;
-
-4° Par voie aérienne, fluviale ou maritime.
+Toute opération de parrainage est interdite lorsqu'elle a pour objet ou pour effet la propagande ou la publicité directe ou indirecte en faveur du tabac ou des produits du tabac.
