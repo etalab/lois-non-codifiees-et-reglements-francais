@@ -1,6 +1,6 @@
 # Article 1
 
-La taxe d'usage instituée par l'article 35 de la loi n° 88-1193 du 29 décembre 1988, due par toute personne faisant abattre un animal dans un abattoir public, au profit de la collectivité propriétaire, est calculée par application d'un taux national et d'un taux local au poids de viande fraîche net, tel qu'il est défini aux articles 111 quater B à 111 quater E de l'annexe III du code général des impôts, constaté lors de la pesée et affecté des abattements prévus à l'article 111 quater F.
+La taxe d'usage instituée par l'article 35 de la loi du 29 décembre 1988 susvisée, due par toute personne faisant abattre un animal dans un abattoir public, au profit de la collectivité propriétaire, est calculée par application d'un taux national et d'un taux local au poids de la viande fraîche net, tel qu'il est défini à l'article 111 quater LA de l'annexe III du code général des impôts.
 
 Le produit du taux national de la taxe d'usage est affecté par la collectivité propriétaire d'un abattoir public inscrit au plan d'équipement à la couverture des charges d'annuités des emprunts agréés par le ministre de l'agriculture et de la forêt et se rapportant aux locaux, installations, équipements et agencements :
 
