@@ -15,3 +15,5 @@ La notification rappelle :
 - le cas échéant, l'obligation faite au bénéficiaire du plan de chasse de présenter à un agent de l'Etat ou de ses établissements publics tout ou partie de l'animal prélevé et les conditions de cette présentation ;
 
 - l'obligation de faire connaître au préfet, dans les dix jours suivant la clôture de la chasse de l'espèce concernée, le nombre de têtes de gibier prélevé et les conditions de cette information.
+
+- le cas échéant, l'acceptation ou le refus motivé du bénéfice de dispositifs de prémarquage, ainsi que, en cas d'acceptation, le lieu de substitution par le bénéficiaire du plan de chasse du dispositif de marquage au dispositif de prémarquage, et le nom et l'adresse de l'agent de l'Etat ou de l'un de ses établissements publics qui doit être informé en application de l'article 1er bis (III).
