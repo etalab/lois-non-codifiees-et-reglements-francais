@@ -10,6 +10,8 @@ Cette commission comprend : [*composition*]    1° Trois élus, désignés par l
 
 Un représentant du Conseil d'Etat assure la présidence de la commission.
 
+" Deux membres suppléants peuvent être désignés dans les mêmes conditions que celles mentionnées au présent article pour chacun des membres titulaires de cette commission. "
+
 La commission peut s'adjoindre des personnes qualifiées, choisies notamment parmi les magistrats en fonctions ou honoraires des juridictions administratives et financières, chargées d'instruire et de rapporter les demandes. Elle entend, le cas échéant, le fonctionnaire intéressé et toute personne dont elle juge l'audition nécessaire.
 
 La commission statue après avoir recueilli l'avis de l'autorité territoriale.
