@@ -1,12 +1,6 @@
 # Article 15
 
-Il est créé auprès du Premier ministre un comité national de l'eau composé pour égales parts :
-
-1. De représentants des différentes catégories d'usagers ;
-
-2. De représentants des conseils généraux et des conseils municipaux ;
-
-3. De représentants de l'Etat.
+Il est créé auprès du Premier ministre un comité national de l'eau.
 
 Ce comité a pour mission :
 
