@@ -1,5 +1,5 @@
 # Article 12
 
-Lorsqu'il y a lieu de procéder à des élections, le préfet convoque les électeurs par arrêté publié au moins un mois avant ces élections.
+Le ministre chargé de l'artisanat fixe par arrêté la date du renouvellement triennal des membres des chambres de métiers. Le commissaire de la République convoque les électeurs par arrêté publié au moins un mois avant cette date. Cet arrêté détermine l'emplacement des bureaux de vote et les heures auxquelles le scrutin doit être ouvert et fermé.
 
-Cet arrêté fixe la date du scrutin, l'emplacement des bureaux de vote et les heures auxquelles le scrutin devra être ouvert et fermé.
+La durée du scrutin ne peut être inférieure à six heures.
