@@ -2,8 +2,6 @@
 
 La concentration moyenne en fibres d'amiante de l'atmosphère inhalée par un travailleur en huit heures de travail [*durée*] ne doit pas dépasser les valeurs suivantes :
 
-a) 1 fibre par centimètre cube pour toutes les variétés minéralogiques de l'amiante autres que la crocidolite (amiante bleu) ;
+a) 0,60 fibre par centimètre cube lorsque la chrysotile est la seule variété minéralogique d'amiante utilisée ;
 
-b) 0,5 fibre par centimètre cube lorsque la crocidolite est la seule variété d'amiante utilisée ;
-
-c) 0,8 fibre par centimètre cube pour les mélanges contenant de la crocidolite ; "
+b) 0,30 fibre par centimètre cube pour toutes les autres variétés minéralogiques de l'amiante, soit isolées, soit en mélange, y compris lorsqu'il s'agit d'un mélange contenant de la chrysotile.
