@@ -1,6 +1,6 @@
 # Article 9
 
-En application du deuxième alinéa de l'article 4 du titre IV du statut général des fonctionnaires, un ou plusieurs emplois d'ingénieur général hospitalier peuvent être créés dans les centres hospitaliers régionaux dont la liste est fixée par arrêté du ministre chargé de la santé. Cet arrêté fixe également le nombre et la répartition de ces emplois.
+En application du deuxième alinéa de l'article 4 du titre IV du statut général des fonctionnaires, un ou plusieurs emplois d'ingénieur général hospitalier peuvent être créés dans les centres hospitaliers régionaux.
 
 Les ingénieurs généraux hospitaliers sont chargés de la coordination et du contrôle des services techniques de l'établissement.
 
