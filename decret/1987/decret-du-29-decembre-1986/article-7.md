@@ -1,3 +1,9 @@
 # Article 7
 
-L'emploi de toute indication ou de tout signe susceptible de faire croire à l'acheteur qu'un fromage a droit à l'appellation d'origine "Selles-sur-Cher " alors qu'il ne répond pas à toutes les conditions fixées par le présent décret est poursuivi conformément à la législation sur la répression des fraudes et sur la protection des appellations d'origine.
+Indépendamment des mentions réglementaires applicables à tous les fromages, l'étiquetage des fromages bénéficiant de l'appellation d'origine Chaource doit comporter le nom de l'appellation d'origine inscrit en caractères de dimensions au moins égales aux deux tiers de celles des caractères les plus grands figurant sur l'étiquetage.
+
+L'emploi de tout qualificatif ou autre mention accompagnant ladite appellation d'origine est interdit dans l'étiquetage, la publicité, les factures ou papiers de commerce à l'exception:
+
+- des marques de commerce ou de fabrique particulières ;
+
+- des mentions autorisées par le règlement intérieur visé à l'article 4 du présent décret et sur avis conforme du Comité national des appellations d'origine des fromages.
