@@ -1,0 +1,3 @@
+# Article 12
+
+Dans les deux mois de l'installation des centres de gestion et des centres de formation, le centre de formation des personnels communaux met à la disposition des centres de gestion et des centres de formation suivant les propositions de la commission de répartition les agents autres que ceux qui, mentionnés à l'article 11, ont été nommés par les autorités territoriales. Le président du centre de gestion ou du centre de formation informe, dans un délai de deux mois à compter de la mise à la disposition, le président de son acceptation ou de son refus, après avis de la commission administrative paritaire. A défaut de refus signifié dans ce délai, l'accord [*tacite*] du centre est réputé acquis sur l'affectation définitive du ou des agents à ce centre.
