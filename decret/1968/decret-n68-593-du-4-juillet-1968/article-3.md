@@ -1,3 +1,3 @@
 # Article 3
 
-Les déclarations doivent être adressées au ministère de l' agriculture avant le cinquième jour ouvrable du mois suivant le mois considéré.
+Les états des stocks de denrées sont transmis dans les délais les plus brefs au ministère de l'agriculture et de la pêche ou aux préfets, dès lors qu'ils en font la demande.
