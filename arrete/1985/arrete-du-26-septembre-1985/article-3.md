@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur du budget et le directeur du gaz, de l'électricité et du charbon sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+L'option annuelle pour le prélèvement est exercée avant le 31 décembre d'une année pour prendre effet au 1er janvier suivant ou avant le 31 mai pour prendre effet au 1er juillet.
