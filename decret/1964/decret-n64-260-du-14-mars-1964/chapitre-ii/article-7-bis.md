@@ -1,0 +1,3 @@
+# Article 7 bis
+
+Les administrateurs civils, les sous-préfets, les fonctionnaires des autres corps dont le recrutement est normalement assuré par l'Ecole nationale d'administration, les magistrats de l'ordre judiciaire et les fonctionnaires relevant d'une des catégories mentionnées à l'article 6 bis nommés sur un poste territorial de 1re catégorie qui, précédemment à leur nomination, occupaient un emploi de chef de service, de directeur adjoint ou de sous-directeur d'administration centrale ou de directeur de projet conservent, à titre personnel, le traitement dont ils bénéficiaient dans leur emploi.

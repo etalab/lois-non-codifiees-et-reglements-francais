@@ -698,6 +698,7 @@
 - [Décret n°2002-1012 du 19 juillet 2002 (AGRA0201122D)](decret-n2002-1012-du-19-juillet-2002-agra0201122d)
 - [Décret n°2002-1189 du 19 septembre 2002 (EQUX0200077D)](decret-n2002-1189-du-19-septembre-2002-equx0200077d)
 - [Décret n°2002-1190 du 19 septembre 2002 (BUDD0270038D)](decret-n2002-1190-du-19-septembre-2002-budd0270038d)
+- [Décret n°2002-1199 du 19 septembre 2002 (INTA0200216D)](decret-n2002-1199-du-19-septembre-2002-inta0200216d)
 - [Décret n°2002-218 du 19 février 2002 (ATED0190027D)](decret-n2002-218-du-19-fevrier-2002-ated0190027d)
 - [Décret n°2002-373 du 19 mars 2002 (MESS0220581D)](decret-n2002-373-du-19-mars-2002-mess0220581d)
 - [Décret n°2002-375 du 19 mars 2002 (JUSC0220069D)](decret-n2002-375-du-19-mars-2002-jusc0220069d)

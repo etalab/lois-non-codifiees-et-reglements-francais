@@ -16,7 +16,9 @@ Le responsable de l'atelier identifie tout aspect dans les activités qu'il se p
 
 Dans le cadre d'une démarche de qualité, le responsable de l'atelier peut en outre élaborer un guide de bonnes pratiques d'hygiène prenant en compte les différentes activités de son atelier, ou adopter un guide de bonnes pratiques élaboré par des professionnels du secteur alimentaire et traitant des activités exercées dans l'atelier. Ce guide de bonnes pratiques doit être reconnu par le directeur des services vétérinaires comme adapté aux activités exercées.
 
-Les contrôles doivent porter sur les outils, les installations et les machines à tous les stades de la production et, si nécessaire, sur les produits. La nature des contrôles, leur fréquence ainsi que les méthodes d'échantillonnage et d'examen bactériologique sont déterminées par l'exploitant. Les résultats d'autocontrôles ainsi que toutes les autres données nécessaires sont tenus à la disposition des services vétérinaires.
+Des contrôles microbiologiques portant sur les outils, les installations et les machines à tous les stades de la production doivent être effectués par l'exploitant conformément à la procédure définie par instruction du ministre de l'agriculture, de l'alimentation, de la pêche et des affaires rurales. Les échantillons sont prélevés sur les sites où le risque de contamination biologique est le plus probable. La nature des contrôles, leur fréquence ainsi que les méthodes d'échantillonnage et d'examen bactériologique sont définies dans une instruction du ministre en charge de l'agriculture.
+
+Des contrôles peuvent en outre être effectués sur les produits selon une méthode déterminée par l'exploitant.
 
 Le vétérinaire doit procéder à l'analyse régulière des résultats de ces autocontrôles. Il peut, en fonction de cette analyse, faire procéder à des examens complémentaires à tous les stades de la production ou sur les produits.
 
