@@ -6,7 +6,7 @@ Néanmoins, par dérogation aux principes exposés à l'article 1er ci-dessus et
 
 Les commandants en chefs investis par le Gouvernement ont pouvoir de donner, dans la zone géographique intéressée, aux chefs des organismes de transport, les instructions voulues pour faire assurer les transports nécessaires à la conduite des opérations et à l'entretien de leurs forces.
 
-Les mêmes pouvoirs peuvent être exercés sur décision du Gouvernement par les commandants supérieurs, les commandants d'armée français et les commandants de circonscription militaire de défense, dans les parties du territoire où se développent les opérations militaires.
+Les mêmes pouvoirs peuvent être exercés sur décision du Gouvernement par les commandants supérieurs et les officiers généraux de zone de défense, dans les parties du territoire où se développent les opérations militaires.
 
 Dans les cas fixés par le Gouvernement ou lorsque celui-ci, saisi d'une demande du ministre de la défense, estime que les circonstances l'exigent, la direction de l'exploitation de tout ou partie de certains moyens de transport dans des zones déterminées est remise au ministre de la défense pour une période définie.
 
