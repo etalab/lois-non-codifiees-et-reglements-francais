@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions de l'article 6 des décrets n°s 83-244, 83-245, 83-246, 83-247 et 83-248 du 18 mars 1983 modifiés susvisés, la durée du mandat des membres des conseils de direction de l'Office national interprofessionnel des vins, de l'Office national interprofessionnel des plantes à parfum, aromatiques et médicinales, de l'Office national interprofessionnel des fruits, des légumes et de l'horticulture, de l'Office national interprofessionnel du lait et des produits laitiers et de l'Office national interprofessionnel des viandes, de l'élevage et de l'aviculture, en fonctions à la date de publication du présent décret, est prorogée jusqu'au 12 juillet 1994.

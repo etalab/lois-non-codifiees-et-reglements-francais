@@ -1,0 +1,3 @@
+# Article 1
+
+La Compagnie nationale d’aménagement de la région du Bas-Rhône et du Languedoc, concessionnaire de l’exécution des travaux et de l’exploitation des ouvrages destinés à l’irrigation, à la mise en valeur et à la reconversion dans les départements du Gard, de l’Hérault et de l’Aude en vertu des dispositions des décrets des 27 juillet 1956, 24 juin 1961 et 10 janvier 1977 susvisés, est autorisée à affermer en totalité ou en partie l’exploitation des ouvrages concédés à une filiale dont elle détient la majorité du capital social, dans les conditions prévues par une convention approuvée conjointement par les ministres chargés de l’économie, du budget et de l’agriculture, après avis du ministre chargé de l’eau.
