@@ -462,7 +462,6 @@
 - [Décret n°95-699 du 9 mai 1995 (COMA9500023D)](decret-n95-699-du-9-mai-1995-coma9500023d)
 - [Décret n°95-700 du 9 mai 1995 (TEFS9500156D)](decret-n95-700-du-9-mai-1995-tefs9500156d)
 - [Décret n°95-701 du 9 mai 1995 (MCCB9500200D)](decret-n95-701-du-9-mai-1995-mccb9500200d)
-- [Décret n°95-702 du 9 mai 1995 (AGRS9500560D)](decret-n95-702-du-9-mai-1995-agrs9500560d)
 - [Décret n°95-703 du 9 mai 1995 (AGRS9500766D)](decret-n95-703-du-9-mai-1995-agrs9500766d)
 - [Décret n°95-704 du 9 mai 1995 (ENVN9530056D)](decret-n95-704-du-9-mai-1995-envn9530056d)
 - [Décret n°95-705 du 9 mai 1995 (ENVN9530025D)](decret-n95-705-du-9-mai-1995-envn9530025d)
