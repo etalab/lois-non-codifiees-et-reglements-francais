@@ -1,6 +1,8 @@
 # 1982
 
 - [Décret n°81-695 du 1 juillet 1981](decret-n81-695-du-1-juillet-1981)
+- [Décret n°81-897 du 2 octobre 1981](decret-n81-897-du-2-octobre-1981)
+- [Décret n°82-126 du 2 février 1982](decret-n82-126-du-2-fevrier-1982)
 - [Décret n°81-1068 du 3 décembre 1981](decret-n81-1068-du-3-decembre-1981)
 - [Décret n°82-2 du 5 janvier 1982](decret-n82-2-du-5-janvier-1982)
 - [Décret n°82-5 du 5 janvier 1982](decret-n82-5-du-5-janvier-1982)
