@@ -178,6 +178,7 @@
 - [Décret n°93-53 du 12 janvier 1993 (MJSK9270158D)](decret-n93-53-du-12-janvier-1993-mjsk9270158d)
 - [Décret n°93-68 du 12 janvier 1993 (RESY9200288D)](decret-n93-68-du-12-janvier-1993-resy9200288d)
 - [Décret n°93-816 du 12 mai 1993 (INDG9300420D)](decret-n93-816-du-12-mai-1993-indg9300420d)
+- [Décret n°93-821 du 12 mai 1993 (MAEJ9330014D)](decret-n93-821-du-12-mai-1993-maej9330014d)
 - [Décret n°59-1193 du 13 octobre 1959](decret-n59-1193-du-13-octobre-1959)
 - [Décret n°93-47 du 13 janvier 1993 (LOGC9200004D)](decret-n93-47-du-13-janvier-1993-logc9200004d)
 - [Décret n°93-60 du 13 janvier 1993 (MENF9204309D)](decret-n93-60-du-13-janvier-1993-menf9204309d)
