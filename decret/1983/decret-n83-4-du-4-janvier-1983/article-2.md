@@ -1,8 +1,10 @@
 # Article 2
 
-Des dérogations peuvent être accordées au délai [*de commercialisation*] fixé à l'article précédent, sur demande de toute personne ou entreprise détentrice des droits d'exploitation de l'oeuvre cinématographique sous forme de supports destinés à la vente ou à la location pour l'usage privé [*vidéocassettes - vidéodisques*], par le ministre de la culture après avis d'une commission constituée auprès du Centre national de la cinématographie. La composition de cette commission est fixée par arrêté du ministre de la culture.
+Des dérogations au délai fixé à l'article précédent sont accordées par le ministre chargé de la culture, sur demande de la personne ou de l'entreprise détentrice des droits d'exploitation de l'oeuvre cinématographique sous forme de supports destinés à la vente ou à la location pour l'usage privé du public, accompagnée d'une lettre d'accord de l'entreprise de distribution de l'oeuvre cinématographique en salles de spectacles cinématographiques.
 
-Ces dérogations sont accordées en fonction des résultats de l'exploitation commerciale de l'oeuvre cinématographique en salles.
+La demande de dérogation est adressée au Centre national de la cinématographie.
+
+Aucune dérogation ne peut être accordée avant l'expiration d'un délai de six mois à compter de la date de sortie de l'oeuvre cinématographique en salles de spectacles cinématographiques. La date de sortie en salles de spectacles cinématographiques est celle figurant sur le matériel publicitaire.
 
 La délivrance de ces dérogations est réputée acquise à l'issue du silence gardé par l'administration pendant une durée de deux mois courant à compter de la date de réception de la demande.
 
