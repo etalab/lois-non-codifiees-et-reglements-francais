@@ -1,0 +1,3 @@
+# Article 1
+
+Dans les académies dans lesquelles un conseil académique des langues régionales a été créé en application des articles D. 312-33 à D. 312-39 du code de l'éducation, un enseignement bilingue en langue régionale à parité horaire peut être mis en place par le recteur d'académie dans les écoles et les sections langues régionales des collèges et des lycées, après consultation du conseil académique des langues régionales, avis des comités techniques paritaires académiques, comités techniques paritaires départementaux, conseils académiques de l'éducation nationale, conseils départementaux de l'éducation nationale et avis des collectivités territoriales concernées.
