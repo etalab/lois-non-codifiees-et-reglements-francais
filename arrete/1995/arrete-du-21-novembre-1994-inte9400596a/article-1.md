@@ -1,0 +1,3 @@
+# Article 1
+
+Sont reconduites jusqu'au 31 décembre 1995 les dispositions de l'arrêté du 1er mars 1991 modifié relatif au recrutement des sapeurs-pompiers professionnels non officiers, à l'exception de celles de l'article 13, les dispositions de l'arrêté du 1er mars 1991 modifié relatif à l'avancement au grade de sergent de sapeurs-pompiers professionnels, à l'exception de celles de l'article 18, les dispositions de l'arrêté du 1er mars 1991 modifié relatif au recrutement des officiers de sapeurs-pompiers professionnels, à l'exception de celles de l'article 7, ainsi que les dispositions de l'article 5 de l'arrêté du 20 juillet 1992 relatif à la formation continue des sapeurs-pompiers professionnels.

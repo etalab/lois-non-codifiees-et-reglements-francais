@@ -4,6 +4,7 @@
 - [Décret n°96-88 du 2 février 1996 (EQUH9600141D)](decret-n96-88-du-2-fevrier-1996-equh9600141d)
 - [Décret n°95-7 du 3 janvier 1995 (RESR9401919D)](decret-n95-7-du-3-janvier-1995-resr9401919d)
 - [Décret n°95-8 du 3 janvier 1995 (SPSS9403821D)](decret-n95-8-du-3-janvier-1995-spss9403821d)
+- [Décret du 4 janvier 1995 (ECOC9400083D)](decret-du-4-janvier-1995-ecoc9400083d)
 - [Décret n°95-6 du 4 janvier 1995 (ECOT9451391D)](decret-n95-6-du-4-janvier-1995-ecot9451391d)
 - [Décret n°96-173 du 6 mars 1996 (JUSF9650013D)](decret-n96-173-du-6-mars-1996-jusf9650013d)
 - [Décret n°95-567 du 6 mai 1995 (SPSG9500984D)](decret-n95-567-du-6-mai-1995-spsg9500984d)
@@ -36,3 +37,4 @@
 - [Décret n°96-79 du 30 janvier 1996 (MENF9502346D)](decret-n96-79-du-30-janvier-1996-menf9502346d)
 - [Décret n°96-965 du 30 octobre 1996 (ACVE9550017D)](decret-n96-965-du-30-octobre-1996-acve9550017d)
 - [Décret n°97-571 du 30 mai 1997 (EQUP9700030D)](decret-n97-571-du-30-mai-1997-equp9700030d)
+- [Décret n°94-1237 du 31 décembre 1994 (LOGC9400041D)](decret-n94-1237-du-31-decembre-1994-logc9400041d)
