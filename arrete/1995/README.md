@@ -950,7 +950,6 @@
 - [Arrêté du 23 août 1995 (PRMG9570445A)](arrete-du-23-aout-1995-prmg9570445a)
 - [Arrêté du 23 août 1996 (ACVA9610094A)](arrete-du-23-aout-1996-acva9610094a)
 - [Arrêté du 23 avril 1996 (AGRA9600542A)](arrete-du-23-avril-1996-agra9600542a)
-- [Arrêté du 23 décembre 1994 (INDP9401550A)](arrete-du-23-decembre-1994-indp9401550a)
 - [Arrêté du 23 février 1995 (AGRA9500323A)](arrete-du-23-fevrier-1995-agra9500323a)
 - [Arrêté du 23 février 1995 (AGRE9500419A)](arrete-du-23-fevrier-1995-agre9500419a)
 - [Arrêté du 23 février 1995 (DEFP9501230A)](arrete-du-23-fevrier-1995-defp9501230a)

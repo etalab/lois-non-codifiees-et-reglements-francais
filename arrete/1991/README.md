@@ -617,7 +617,6 @@
 - [Arrêté du 22 novembre 1991 (TEFT9104162A)](arrete-du-22-novembre-1991-teft9104162a)
 - [Arrêté du 22 octobre 1980](arrete-du-22-octobre-1980)
 - [Arrêté du 22 octobre 1991 (AGRS9001253A)](arrete-du-22-octobre-1991-agrs9001253a)
-- [Arrêté du 22 octobre 1991 (SPSA9102410A)](arrete-du-22-octobre-1991-spsa9102410a)
 - [Arrêté du 23 août 1991 (SANP9101921A)](arrete-du-23-aout-1991-sanp9101921a)
 - [Arrêté du 23 août 1991 (SANP9101934A)](arrete-du-23-aout-1991-sanp9101934a)
 - [Arrêté du 23 août 1991 (SANP9101935A)](arrete-du-23-aout-1991-sanp9101935a)
