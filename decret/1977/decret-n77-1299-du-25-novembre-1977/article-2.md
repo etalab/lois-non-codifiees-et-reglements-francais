@@ -2,10 +2,10 @@
 
 Les infractions à la réglementation des parcs nationaux seront punies d'une amende forfaitaire de :
 
-1. 25 F pour les contraventions passibles d'une amende dont le montant maximum n'excède pas 40 F ;
+1°  50 F pour les contraventions de la 1° classe ;
 
-2. 50 F pour les contraventions passibles d'une amende dont le montant maximum n'excède pas 80 F ;
+2° 150 F pour les contraventions de la 2° classe ;
 
-3. 120 F pour les contraventions passibles d'une amende dont le montant maximum n'excède pas 160 F ;
+3° 300 F pour les contraventions de la 3° classe ;
 
-4. 250 F pour les contraventions passibles d'une amende dont le montant maximum n'excède pas 600 F.
+4° 600 F pour les contraventions de la 4° classe [*sanction*].
