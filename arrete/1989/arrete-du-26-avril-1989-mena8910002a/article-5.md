@@ -1,6 +1,6 @@
 # Article 5
 
-Les sous-directions de la direction de la programmation et du développement universitaire prévues à l'article 3 de l'arrêté susvisé du 26 avril 1989 sont organisées comme suit :
+Les sous-directions de la direction de la programmation et du développement universitaire prévues à l'article 3 de l'arrêté du 26 avril 1989 susvisé, modifié par l'arrêté du 16 janvier 1992 portant organisation de l'administration centrale du ministère de l'éducation nationale, sont organisées comme suit :
 
 A. - La sous-direction des constructions et de l'aménagement des campus comprend, outre la mission d'aménagement des sites universitaires :
 
@@ -8,26 +8,20 @@ A. - La sous-direction des constructions et de l'aménagement des campus compren
 
 - le bureau de la programmation immobilière.
 
-B. -La sous-direction de la programmation et des contrats comprend :
+B. - La sous-direction des établissements comprend :
 
-Le bureau des études prévisionnelles et de la programmation ;
+- le bureau de la modernisation de la gestion des établissements ;
 
-Le bureau des contrats d'établissement ;
-
-Le bureau des méthodes et de l'analyse des moyens.
-
-C. - La sous-direction des établissements comprend :
+- le bureau des contrats d'établissement ;
 
 - le bureau des affaires juridiques et statutaires ;
 
-- le bureau de la réglementation et de la gestion financière et comptable ;
+- le bureau de la gestion financière et comptable.
 
-- le bureau de la modernisation de la gestion des établissements.
+C. - La sous-direction des bibliothèques comprend :
 
-D. -La sous-direction des bibliothèques comprend :
+- le bureau de la coordination documentaire ;
 
-Le bureau de la coordination documentaire ;
+- le bureau de la modernisation des bibliothèques ;
 
-Le bureau de la modernisation des bibliothèques ;
-
-Le bureau de la formation, de l'édition et des systèmes d'information.
+- le bureau de la formation, de l'édition et des systèmes d'information.
