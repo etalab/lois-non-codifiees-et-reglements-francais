@@ -1,0 +1,3 @@
+# Article 10
+
+La durée du mandat des membres du comité de gestion de la taxe sur les déchets industriels spéciaux est de cinq ans. Ce mandat est renouvelable une fois. Le mandat des membres désignés en raison des fonctions qu'ils exercent prend fin à l'expiration de celles-ci. En cas de vacances par suite de démission ou pour toute autre cause, il est pourvu à la désignation du ou des membres dans le délai de trois mois. Tout membre désigné pour remplacer un membre du comité exerce son mandat jusqu'à l'expiration du mandat de son prédécesseur.
