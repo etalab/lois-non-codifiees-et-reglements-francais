@@ -1,4 +1,4 @@
-# Arrêté du 24 août 1970 relatif à la commission paritaire instituée par l'article 27 du décret n° 69-662 du 13 juin 1969 relatif à la nomination et à l'avancement du personnel de direction des établissements d'hospitalisation, de soins ou de cure publics.
+# Arrêté du 24 août 1970 relatif à la section d'enseignement d'administration hospitalière de l'Ecole nationale de la santé publique.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

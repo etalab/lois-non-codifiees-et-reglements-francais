@@ -1,3 +1,3 @@
 # Article 4
 
-Les avis de la commission sont pris à la majorité des voix des membres présents. En cas de partage égal des voix, celle du président est prépondérante.
+Les dispositions de l'arrêté du 26 juillet 1961 sont abrogées à l'exception de celles du premier alinéa de l'article 1er.

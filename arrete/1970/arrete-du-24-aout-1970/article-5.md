@@ -1,3 +1,3 @@
 # Article 5
 
-Le chef du service des établissements au ministère de la santé publique et de la sécurité sociale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le directeur de l'administration générale, du personnel et du budget, le chef du service des établissements et le directeur de l'Ecole nationale de la santé publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté.

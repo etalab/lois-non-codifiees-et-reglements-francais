@@ -1,17 +1,3 @@
 # Article 1
 
-La commission paritaire, instituée par l'article 27 du décret susvisé du 13 juin 1969, est composée ainsi qu'il suit :
-
-Un conseiller d'Etat, président ;
-
-Le chef du service des établissements ;
-
-Le sous-directeur de la tutelle des établissements des personnels para-médical et d'administration générale ;
-
-Un inspecteur général de la santé publique ;
-
-Les deux représentants titulaires du personnel de direction de 4e classe siégeant à la commission paritaire nationale ;
-
-Les deux représentants titulaires du personnel de direction de 5e classe siégeant à la commission paritaire nationale.
-
-Le service des établissements est chargé du secrétariat de la commission.
+La section d'enseignement d'administration hospitalière de l'Ecole nationale de la santé publique est destinée notamment à la formation et au perfectionnement des personnels de direction des établissements de soins ou de cure publics ainsi qu'aux personnels de direction des établissements nationaux de bienfaisance et des thermes nationaux d'Aix-les-Bains.
