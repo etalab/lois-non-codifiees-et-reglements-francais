@@ -1,10 +1,6 @@
 # Article 18
 
-Le taux de chacune des taxes prévues à l'article précédent est fixé par le conseil régional [*compétence*] ; il ne peut être institué qu'un seul taux pour chaque taxe.
-
-Le total des ressources que l'établissement public peut recevoir au titre de la taxe additionnelle sur les mutations d'immeubles et de droits immobiliers ne peut excéder 30 p. 100 du total de ses ressources fiscales (1) [*montant*].
-
-Le total des ressources fiscales que chaque établissement public peut recevoir est limité à 25 F [*Francs*] par habitant dénombré dans la circonscription au dernier recensement général. Cette limite est fixée à 15 F pour le premier exercice.
+Le taux de chacune des taxes prévues à l'article précédent est fixé par le conseil régional ; il ne peut être institué qu'un seul taux pour chaque taxe. Le total des ressources fiscales que chaque établissement public peut recevoir est limité à 25 F par habitant dénombré dans la circonscription au dernier recensement général. Cette limite est fixée à 15 F pour le premier exercice.
 
 Lorsque les recouvrements opérés font apparaître que ce maximum a été dépassé pour un exercice, l'excédent de ressources est reporté et vient en déduction du montant maximum de ressources autorisé pour l'exercice suivant cette constatation.
 

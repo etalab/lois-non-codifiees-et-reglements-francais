@@ -2,6 +2,5 @@
 
 - [TITRE I : Organismes](titre-i)
 - [TITRE II : Inventaire et classement des monuments naturels et des sites](titre-ii)
-- [TITRE III : Sites protégés.](titre-iii)
 - [TITRE IV : Dispositions pénales](titre-iv)
 - [TITRE V : Dispositions diverses](titre-v)
