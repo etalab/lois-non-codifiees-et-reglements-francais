@@ -1,6 +1,6 @@
 # Article 3
 
-Le concours est organisé par un préfet de région [*autorité compétente*] désigné par le ministre chargé de la santé.
+Le concours est organisé par le ministre chargé de la santé.
 
 Un arrêté conjoint du ministre chargé des universités, du ministre chargé de la santé et du ministre chargé du budget fixe, chaque année, après consultation du ministre chargé des affaires étrangères et du ministre chargé de la coopération, le nombre de postes offerts au concours et leur répartition, par diplôme d'études spécialisées et pour chacune des circonscriptions prévues à l'article 53 de la loi du 12 novembre 1968 susvisée. La région Ile-de-France est considérée comme une interrégion pour l'application du présent décret.
 
