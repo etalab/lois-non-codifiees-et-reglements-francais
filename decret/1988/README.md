@@ -267,7 +267,6 @@
 - [Décret n°88-1230 du 30 décembre 1988 (AGRP8802300D)](decret-n88-1230-du-30-decembre-1988-agrp8802300d)
 - [Décret n°88-1233 du 30 décembre 1988 (SPSS8801798D)](decret-n88-1233-du-30-decembre-1988-spss8801798d)
 - [Décret n°88-1234 du 30 décembre 1988 (SPSS8801855D)](decret-n88-1234-du-30-decembre-1988-spss8801855d)
-- [Décret n°88-1236 du 30 décembre 1988 (SPSS8801893D)](decret-n88-1236-du-30-decembre-1988-spss8801893d)
 - [Décret n°88-1237 du 30 décembre 1988 (SPSS8801903D)](decret-n88-1237-du-30-decembre-1988-spss8801903d)
 - [Décret n°88-1238 du 30 décembre 1988 (SPSS8801939D)](decret-n88-1238-du-30-decembre-1988-spss8801939d)
 - [Décret n°88-1239 du 30 décembre 1988 (SPSS8801940D)](decret-n88-1239-du-30-decembre-1988-spss8801940d)
