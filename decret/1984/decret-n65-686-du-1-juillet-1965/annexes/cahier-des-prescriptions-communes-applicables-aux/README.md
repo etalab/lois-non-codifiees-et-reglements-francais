@@ -1,0 +1,18 @@
+# Cahier des prescriptions communes applicables aux marchés de fils à coudre, à repriser et à broder passés au nom de l'Etat
+
+- [Chapitre I : Généralités.](chapitre-i)
+- [Chapitre II : Terminologie](chapitre-ii)
+- [Chapitre III : Prescriptions relatives à la fabrication.](chapitre-iii)
+- [Chapitre IV : Résultats à obtenir, décisions à prendre.](chapitre-iv)
+- [Chapitre V : Contrôles à effectuer.](chapitre-v)
+- [Chapitre VI : Décisions à prendre, résultats à obtenir.](chapitre-vi)
+- [Chapitre VII : Contrôle du retrait des fils synthétiques.](chapitre-vii)
+- [Contrôle de la résistance à la traction de l'allongement et du coefficient d'irrégularité.](controle-de-la-resistance-a)
+- [Contrôle de la conformité des traitements complémentaires.](controle-de-la-conformite-des-traitements-complementaires)
+- [Contrôle de la longueur.](controle-de-la-longueur)
+- [Contrôle de la masse nette.](controle-de-la-masse-nette)
+- [Contrôle de la solidité des teintures.](controle-de-la-solidite-des-teintures)
+- [Contrôle du vrillage des fils synthétiques.](controle-du-vrillage-des-fils-synthetiques)
+- [Vérification de la composition des fils ordinaires et des fils tressés.](verification-de-la-composition-des-fils-ordinaires-et)
+- [Vérifications portant sur les matières premières.](verifications-portant-sur)
+- [Vérification du titre.](verification-du-titre)

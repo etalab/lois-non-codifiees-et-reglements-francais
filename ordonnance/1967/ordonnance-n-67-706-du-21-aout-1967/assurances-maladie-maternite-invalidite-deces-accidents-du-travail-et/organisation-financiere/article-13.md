@@ -6,11 +6,11 @@ Les ressources des assurances maladie, maternité, invalidité et décès sont �
 
 - les avantages de retraite, soit qu'ils aient été financés en tout ou partie par une contribution de l'employeur, soit qu'ils aient donné lieu à rachat de cotisations ainsi que les avantages de retraite versés au titre des articles L. 242-2 et L. 244 du code de la sécurité sociale, à l'exclusion des bonifications ou majorations pour enfants autres que les annuités supplémentaires ;
 
-- les allocations de garantie de ressources [*chômage - préretraite*] perçues en application des articles L. 351-5, L. 351-16 et L. 351-17 du code du travail par les assurés ayant démissionné de leur emploi pour en bénéficier.
+- les allocations et revenus de remplacement mentionnés à l'article 6 de la loi n° 82-1- du 4 janvier 1982;
 
 Des cotisations forfaitaires peuvent être fixées par arrêté du ministre chargé de la sécurité sociale pour certains catégories de travailleurs salariés ou assimilés.
 
-Les cotisations dues au titre des assurances maladie, maternité, invalidité et décès sont à la charge des employeurs et des travailleurs salariés et personnes assimilées ainsi que des titulaires des avantages de retraite et des allocations de garantie de ressources mentionnés aux troisième et quatrième alinéas du présent article.
+Les cotisations dues au titre des assurances maladie, maternité, invalidité et décès sont à la charge des employeurs et des travailleurs salariés et personnes assimilées ainsi que des titulaires des avantages de retraite et des allocations et revenus de remplacement mentionnés aux troisième et quatrième alinéas du présent article.
 
 Les cotisations dues au titre des accidents du travail et des maladies professionnelles sont à la charge exclusive des employeurs.
 
