@@ -17,3 +17,7 @@ Institut industriel du Nord de la France ;
 Institut supérieur des matériaux et de la construction mécanique ;
 
 Université française du Pacifique.
+
+Institut national de recherche pédagogique ;
+
+Instituts universitaires de formation des maîtres.

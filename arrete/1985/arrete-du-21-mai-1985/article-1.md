@@ -8,7 +8,7 @@ Sucre vanillé et sucre vanilliné (vanille artificielle) (dose maximale : 10 gr
 
 Dextrose (dose maximale : 0,5 grammes par kilogramme) ;
 
-Arômes alimentaires en poudre (dose maximale : 10 grammes par kilogramme) ;
+Arômes alimentaires en poudre (dose maximale 30 grammes par kilogramme) ;
 
 Bouillons et potages en poudre destinés aux distributeurs automatiques (dose maximale : 10 grammes par kilogramme) ;
 
