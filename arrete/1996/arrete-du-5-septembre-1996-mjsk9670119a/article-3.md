@@ -6,7 +6,7 @@ Les candidats au concours externe subissent les épreuves suivantes :
 
 Epreuve n° 1
 
-Epreuve écrite de culture sportive, dont l'objet est de vérifier la connaissance par le candidat des grandes problématiques économiques, sociales et politiques appliquées au domaine du sport (durée de l'épreuve : quatre heures ; coefficient 3).
+Epreuve écrite de culture sportive, dont l'objet est de vérifier la connaissance par le candidat des grandes problématiques contemporaines économiques, sociales et politiques appliquées au domaine du sport (durée de l'épreuve : quatre heures ; coefficient 3).
 
 Epreuve n° 2
 
@@ -26,7 +26,7 @@ Epreuve orale permettant au jury, à partir d'une question de nature institution
 
 Epreuve n° 2
 
-Epreuve orale de langue étrangère dans l'une des langues figurant à l'annexe II du présent arrêté. A partir d'un document relatif au domaine du sport fourni par le jury, écrit dans l'une des langues admises au concours et choisie par le candidat, celui-ci présente le texte en français. Cette présentation sera suivie d'une conversation avec le jury dans la langue choisie (durée de l'épreuve : cinquante minutes ; coefficient 2).
+Epreuve orale de langue étrangère dans l'une des langues figurant à l'annexe II du présent arrêté. A partir d'un document relatif au domaine du sport fourni par le jury, écrit dans l'une des langues admises au concours et choisie par le candidat, celui-ci trie les informations, repère les messages les plus importants et en organise la présentation en français. Cette présentation est suivie d'une conversation avec le jury dans la langue choisie (durée de l'épreuve : cinquante minutes ; coefficient 2).
 
 Epreuve n° 3
 
@@ -36,6 +36,8 @@ Epreuve de conception, planification et réalisation dans l'option choisie par l
 
 Il sera amené à justifier ses décisions et à proposer un plan d'action à plus long terme (durée de l'épreuve : une heure quinze minutes ; coefficient 4).
 
-2° Dans l'option Conseiller d'animation sportive, le candidat élabore un dossier (de douze pages dactylographiées maximum) relatif à une discipline choisie dans la liste figurant à l'annexe I du présent arrêté, sous forme de rapport critique relatant son expérience professionnelle ou associative dans le domaine du sport. Il le remet au jury à une date fixée par le président du jury.
+2° Dans l'option Conseiller d'animation sportive, Le candidat élabore un rapport (douze pages dactylographiées maximum) relatant son expérience professionnelle ou associative dans le domaine du sport, relatif à une discipline choisie dans la liste figurant à l'annexe I du présent arrêté. Il le remet au jury à une date fixée par le président du jury. A partir de la présentation de ce rapport, le jury pose les questions permettant au candidat de développer les arguments aidant à une prise de décision dans les domaines du développement et de la formation et à une conduite d'action (durée de l'épreuve : quarante-cinq minutes ; coefficient 4).
 
-A partir de la présentation du dossier, le jury pose les questions permettant au candidat de développer les arguments aidant à une prise de décision dans les domaines du développement et de la formation et à une conduite d'action (durée de l'épreuve : une heure ; coefficient 4).
+Epreuve n° 4 facultative
+
+Entretien sur la base d'un dossier dont les caractéristiques sont indiquées en annexe III du présent arrêté. Au cours de l'entretien, le candidat devra présenter et analyser sa pratique et ses connaissances en matière de sport de haut niveau. Le dossier est remis au jury à une date fixée par le président du jury. Pour cette épreuve facultative, seuls les points obtenus au-dessus de la moyenne sont pris en compte (durée : quarante-cinq minutes ; coefficient 1).
