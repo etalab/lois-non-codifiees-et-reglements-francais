@@ -14,5 +14,6 @@
 - [Loi n° 76-463 du 31 mai 1976](loi-n-76-463-du-31-mai-1976)
 - [Loi n° 76-516 du 14 juin 1976](loi-n-76-516-du-14-juin-1976)
 - [Loi n° 76-519 du 15 juin 1976](loi-n-76-519-du-15-juin-1976)
+- [Loi n° 76-539 du 22 juin 1976](loi-n-76-539-du-22-juin-1976)
 - [Loi n°75-1335 du 31 décembre 1975](loi-n75-1335-du-31-decembre-1975)
 - [Loi n°76-97 du 31 janvier 1976](loi-n76-97-du-31-janvier-1976)
