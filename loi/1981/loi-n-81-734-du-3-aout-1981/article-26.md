@@ -5,3 +5,5 @@ Les pensions, rentes ou allocations viagères attribuées aux ressortissants de 
 Elles pourront faire l'objet de revalorisations dans des conditions et suivant des taux fixés par décret.
 
 Les dispositions prévues aux alinéas ci-dessus sont applicables aux prestations de même nature, également imputées sur le budget de l'Etat ou d'établissements publics de l'Etat, qui ont été attribuées aux ressortissants de l'Algérie après le 3 juillet 1962 en vertu des dispositions du droit commun ou au titre de dispositions législatives ou réglementaires particulières et notamment en application du décret n° 62-319 du 20 mars 1962.
+
+La retraite du combattant pourra être accordée, au tarif tel qu'il est défini ci-dessus, aux anciens combattants qui remplissent les conditions requises postérieurement à la date d'effet de cet article.

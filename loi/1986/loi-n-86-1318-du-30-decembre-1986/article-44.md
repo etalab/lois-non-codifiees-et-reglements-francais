@@ -14,15 +14,17 @@ Peuvent bénéficier de cette mesure :
 
 - les sociétés industrielles et commerciales dont le capital est détenu par les rapatriés définis à l'article 1er de la loi n° 61-1439 du 26 décembre 1961 précitée, à concurrence de 51 p. 100, si la société a été créée avant le 15 juillet 1970, ou de 90 p. 100, si la société a été constituée après cette date.
 
+- les sociétés civiles d'exploitation agricole et les sociétés civiles immobilières pour lesquelles la répartition du capital ou des droits aux résultats d'exploitation répondent aux conditions prévues à l'alinéa précédent.
+
 Les catégories de prêts visés au premier alinéa sont les suivantes :
 
 a) Pour les personnes physiques :
 
 - les prêts de réinstallation mentionnés à l'article 46 de la loi n° 70-632 du 15 juillet 1970 relative à une contribution nationale à l'indemnisation des Français dépossédés de biens situés dans un territoire antérieurement placé sous la souveraineté, le protectorat ou la tutelle de la France ;
 
-- les prêts complémentaires aux prêts de réinstallation directement liés à l'exploitation, à l'exclusion des prêts  calamités agricoles , des ouvertures en comptes courants et des prêts plans de développement dans le cadre des directives communautaires ;
+- les prêts complémentaires aux prêts de réinstallation directement liés à l'exploitation, à l'exclusion des prêts calamités agricoles , des ouvertures en comptes courants et des prêts plans de développement dans le cadre des directives communautaires.
 
-- les prêts à l'amélioration de l'habitat principal situé sur l'exploitation, consentis dans un délai de dix ans à compter de la date d'obtention du prêt principal de réinstallation, à l'exclusion des prêts destinés à l'accession à la propriété ;
+- les prêts à l'amélioration de l'habitat principal situé sur l'exploitation, consentis dans un délai de dix ans à compter de la date d'obtention du prêt principal de réinstallation, à l'exclusion des prêts destinés à l'accession à la propriété qui ne sont pas accordés pour l'acquisition d'un logement lié à l'activité professionnelle sur le lieu de l'exploitation ;
 
 - les prêts accordés en 1969 par la commission économique centrale agricole pour la mise en valeur de l'exploitation ;
 

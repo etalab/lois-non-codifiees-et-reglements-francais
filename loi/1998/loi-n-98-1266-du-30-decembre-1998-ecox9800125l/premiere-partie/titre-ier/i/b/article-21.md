@@ -2,4 +2,4 @@
 
 I. Paragraphe modificateur
 
-II. - Pour les successions ouvertes à compter du 1er janvier 2001, les règles d'évaluation des biens immobiliers situés en Corse sont celles de droit commun.
+II. - Pour les successions ouvertes à compter du 1er janvier 2002, les règles d'évaluation des biens immobiliers situés en Corse sont celles de droit commun.

@@ -4,41 +4,19 @@ I. Les demandeurs ou les titulaires d'autorisations relatives à de réseaux et 
 
 A. - Réseaux ouverts au public, visés à l'article L. 33-1 du code des postes et télécommunications.
 
-1° Le montant de la taxe est fixé à 50 000 F pour les réseaux couvrant tout ou partie d'une unité urbaine d'au plus 100 000 habitants, 100 000 F pour les réseaux couvrant au plus un département, 250 000 F pour les réseaux couvrant au plus une région, 500 000 F pour les réseaux couvrant au plus cinq régions, 1 750 000 F pour les réseaux couvrant plus de cinq régions, 250 000 F pour les réseaux utilisant exclusivement des capacités de télécommunications par satellite. ;
+1° Le montant de la taxe est fixé à 50 000 F pour les réseaux couvrant tout ou partie d'une unité urbaine d'au plus 100 000 habitants, 100 000 F pour les réseaux couvrant au plus un département de la France métropolitaine ou un ou plusieurs départements d'outre-mer, 250 000 F pour les réseaux couvrant au plus une région, 500 000 F pour les réseaux couvrant au plus cinq régions, 1 750 000 F pour les réseaux couvrant plus de cinq régions, 250 000 F pour les réseaux utilisant exclusivement des capacités de télécommunications par satellite ;
 
-2° Elle est due lors de la délivrance de l'autorisation.
+2° Elle est due lors de la délivrance de l'autorisation ;
 
-3° Pour les autorisations délivrées avant le 15 janvier 1997, la taxe est due au 15 janvier 1997.
+3° Pour les autorisations délivrées avant le 15 janvier 1997, la taxe est due au 15 janvier 1997 ;
 
 4° Lorsque les autorisations sont délivrées à l'issue d'une procédure d'appel à candidatures décidée en application du V de l'article L. 33-1 du code des postes et télécommunications, le montant résultant de l'application des dispositions du 1° ci-dessus est multiplié par deux.
 
-B. et C. (Abrogés)
-
-D. - Réseaux radioélectriques indépendants utilisant des capacités de satellites, autorisés au titre de l'article L. 33-2 du code des postes et télécommunications, qu'ils soient à usage privé ou à usage partagé.
-
-1° La taxe est fixée pour les réseaux de catégorie 1 à 25 000 F et pour les réseaux de catégorie 2 et les réseaux de communication avec des mobiles par satellite à 40 000 F.
-
-Un réseau est classé en catégorie 1 si le nombre de stations du réseau implantées sur le territoire de la métropole et des départements d'outre-mer est au plus égal à cinq et si l'emplacement de ces stations est connu dès le dépôt de la demande d'autorisation.
-
-Un réseau est classé en catégorie 2 dans les autres cas.
-
-Le nombre de stations prend en compte la station maîtresse, lorsque celle-ci est installée sur le territoire de la métropole et des départements d'outre-mer.
-
-Toute modification d'un réseau, qui le fait passer de la catégorie 1 à la catégorie 2, entraîne la perception de la taxe de 40 000 F.
-
-2° Les taxes visées au 1° sont dues lors de la délivrance de l'autorisation.
-
-E. - Réseaux indépendants filaires, visés à l'article L. 33-2 du code des postes et télécommunications.
-
-La taxe est fixée selon le barème suivant :
-
-(tableau non reproduit)
-
-Elle est due lors de la délivrance de l'autorisation.
+B. - C. - D. - E. - (Abrogés).
 
 F. - Fourniture du service téléphonique au public, visée à l'article L. 34-1 du code des postes et télécommunications.
 
-1° Le montant de la taxe est fixé à 50 000 F pour les opérateurs couvrant tout ou partie d'une unité urbaine d'au plus 100 000 habitants, 100 000 F pour les opérateurs couvrant au plus un département, 150 000 F pour les opérateurs couvrant au plus une région, 300 000 F pour les opérateurs couvrant au plus cinq régions, 750 000 F pour les opérateurs couvrant plus de cinq régions, 250 000 F pour les opérateurs ne recourant qu'à un réseau utilisant exclusivement des capacités de télécommunications par satellite ;
+1° Le montant de la taxe est fixé à 250 000 F, sauf pour les services ne couvrant qu'un ou plusieurs départements d'outre-mer pour lesquels la taxe est fixée à 50 000 F.
 
 2° Elle est due lors de la délivrance de l'autorisation.
 
@@ -72,17 +50,13 @@ B. - Les utilisateurs du service amateur et les utilisateurs d'installations de 
 
 6° En cas de perte ou de destruction des documents énumérés ci-dessus, un duplicata est délivré contre un droit de 80 F.
 
-V. - L'agrément des équipements terminaux, des installations radioélectriques et l'admission des installateurs en télécommunications et en radiocommunications donnent lieu à la perception des taxes, forfaitaires et non remboursables, suivantes :
-
-1° La demande d'agrément des équipements terminaux destinés à être connectés à un réseau ouvert au public et des installations radioélectriques, prévue à l'article L. 34-9 du code des postes et télécommunications, est soumise à la perception d'une taxe de constitution de dossier d'un montant de 2 000 F par dossier déposé.
-
-2° La demande d'admission des installateurs en télécommunications et en radiocommunications, prévue à l'article L. 34-9 du code des postes et télécommunications, donne lieu à la perception d'une taxe de constitution de dossier d'un montant de 1 000 F par dossier déposé.
+V. - (Abrogé)
 
 VI. Sauf en ce qui concerne la taxe forfaitaire prévue au premier alinéa du III, le recouvrement et le contentieux des taxes visées au présent article sont suivis par les comptables du Trésor selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.
 
-VII. - Les titulaires d'autorisations relatives à des réseaux et services de télécommunications visés aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications, et délivrées à compter du 29 juillet 1996, sont assujettis au paiement d'une taxe de gestion et de contrôle de l'autorisation, dans les conditions suivantes :
+VII. - Les titulaires d'autorisations relatives à des réseaux et services de télécommunications mentionnés aux articles L. 33-1 et L. 34-1 du code des postes et télécommunications, et délivrées ou modifiées à compter du 29 juillet 1996, sont assujettis au paiement d'une taxe de gestion et de contrôle de l'autorisation dans les conditions suivantes :
 
-1° Le montant annuel de la taxe est égal au montant résultant de l'application des dispositions du 1° du A et du 1° du F du I du présent article ;
+1° Le montant annuel de la taxe est égal à la moitié du montant résultant de l'application des dispositions du 1° du A et du 1° du F du présent article ;
 
 2° Pour un opérateur qui figure sur la liste prévue au 7° de l'article L. 36-7 du code des postes et télécommunications, le montant annuel résultant des dispositions du 1° du présent VII est multiplié par deux ;
 
