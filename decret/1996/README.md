@@ -260,7 +260,6 @@
 - [Décret n°96-894 du 10 octobre 1996 (INDA9600576D)](decret-n96-894-du-10-octobre-1996-inda9600576d)
 - [Décret n°96-912 du 10 octobre 1996 (INDH9600564D)](decret-n96-912-du-10-octobre-1996-indh9600564d)
 - [Décret du 10 mai 1996 (FCEC9600017D)](decret-du-10-mai-1996-fcec9600017d)
-- [Décret n°96-388 du 10 mai 1996 (ENVN9640011D)](decret-n96-388-du-10-mai-1996-envn9640011d)
 - [Décret n°96-389 du 10 mai 1996 (PRMX9601499D)](decret-n96-389-du-10-mai-1996-prmx9601499d)
 - [Décret n°96-390 du 10 mai 1996 (DEFM9601297D)](decret-n96-390-du-10-mai-1996-defm9601297d)
 - [Décret n°96-391 du 10 mai 1996 (ENVP9640025D)](decret-n96-391-du-10-mai-1996-envp9640025d)
