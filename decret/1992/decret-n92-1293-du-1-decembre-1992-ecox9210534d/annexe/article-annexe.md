@@ -46,8 +46,6 @@ Responsable de groupe de gestion opérationnel ;
 
 Gestionnaire logistique polyvalent ;
 
-Responsable d'atelier au niveau fédéral.
-
 Responsable de la réglementation paie.
 
 Chargé de gestion statutaire ou financière au niveau fédéral dans le domaine administratif ou informatique.
@@ -64,21 +62,15 @@ Responsable de groupe de gestion fonctionnel ;
 
 Responsable du contentieux et des affaires générales au sein d'une unité administrative chargée de la gestion d'un fonds de la branche Caisse de retraites de Bordeaux (B.C.R.B.) ;
 
-Responsable comptable et/ou budgétaire au niveau fédéral ;
-
 Développeur micro-informatique pour le réseau habitat de l'ensemble des directions régionales et pour le reseau équipement ;
 
 Responsable de l'unité chargée de la gestion du fonds d'action sociale de la Caisse nationale de retraite des agents des collectivités locales ;
-
-Gestionnaire financier ;
 
 Chef de projet utilisateur ;
 
 Assistant de gestion de portefeuille des fonds d'épargne ;
 
 Chargé de production bancaire ;
-
-Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction ;
 
 Chargé du recrutement et/ou des carrières et/ou de la mobilité et/ou d'orientation professionnelle au niveau fédéral ou au niveau d'une direction ;
 
@@ -94,8 +86,6 @@ Responsable du guichet de la C.N.P. Assurances ;
 
 Responsable comptable au sein du service de production bancaire ou au sein du service comptable de la Caisse nationale de retraite des agents des collectivités locales ;
 
-Responsable du secteur des affaires générales au comité social d'établissement ou directeur administratif adjoint du comité social d'établissement de la branche Caisses de retraite de Bordeaux ;
-
 Assistant juridique et fiscal au niveau fédéral ou au niveau d'une direction ;
 
 Secrétaire de rédaction au service de presse ;
@@ -105,8 +95,6 @@ Chargé de la communication d'un département ou d'une direction ;
 Technicien de production bancaire exerçant des responsabilités particulières dans les évolutions "systèmes" ;
 
 Responsable de la fonction correspondant informatique ou de la fonction correspondant réseau ou de la coordination des projets informatiques au sein de la branche Caisses de retraites de Bordeaux ;
-
-Responsable d'une équipe médicale au niveau fédéral ;
 
 A COMPTER DU 1ER AOÛT 1997, SONT RAJOUTES LES EMPLOIS SUIVANTS :
 
@@ -128,18 +116,24 @@ chef d'unité opérationnelle ou fonctionnelle dans le domaine des assurances ou
 
 agent ayant un pouvoir de décision, d'animation et de coordination du niveau d'un responsable d'unité ou assistant d'un chef de service ;
 
-responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche Caisses de retraites de Bordeaux ;
-
 responsable du service aux assurés A ou responsable production A ou responsable activités transversales.
 
 A COMPTER DU 1ER AOÛT 1999, SONT AJOUTES LES EMPLOIS SUIVANTS :
 
 Directeur de centre de loisirs ;
 
-Assistant de gestion d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire ;
-
 Responsable audiovisuel.
 
 A COMPTER DU 1ER AOÛT 2000, SONT AJOUTES LES EMPLOIS SUIVANTS :
 
 Responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ou d'une société de vente et de diffusion.
+
+A COMPTER DU 1ER AOÛT 2001, SONT AJOUTES LES EMPLOIS SUIVANTS :
+
+Responsable du budget et/ou du contrôle de gestion et/ou des moyens généraux et/ou du service du personnel et/ou du contentieux d'une direction et/ou responsable recrutement carrières à la CNP Assurances ;
+
+Responsable du secteur des affaires générales ou directeurs administratifs adjoints du comité social d'établissement ;
+
+Responsable de l'accueil téléphonique ou gestionnaire de l'autocommutateur à la branche caisses de retraites de Bordeaux et/ou responsable du standard de Paris ;
+
+Responsable d'un secteur d'activité comportant une technicité et une responsabilité particulière dans le domaine bancaire et/ou dans le domaine des prestations de service.
