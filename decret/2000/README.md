@@ -14,6 +14,7 @@
 - [Décret n°2000-141 du 21 février 2000 (MESH0020488D)](decret-n2000-141-du-21-fevrier-2000-mesh0020488d)
 - [Décret n°2000-685 du 21 juillet 2000 (MESG0010702D)](decret-n2000-685-du-21-juillet-2000-mesg0010702d)
 - [Décret n°2000-262 du 22 mars 2000 (MJSK0070023D)](decret-n2000-262-du-22-mars-2000-mjsk0070023d)
+- [Décret n°2000-1119 du 23 novembre 2000 (INTA0000307D)](decret-n2000-1119-du-23-novembre-2000-inta0000307d)
 - [Décret n°2000-789 du 24 août 2000 (MAEA0020137D)](decret-n2000-789-du-24-aout-2000-maea0020137d)
 - [Décret n°2000-1277 du 26 décembre 2000 (FPPA0000142D)](decret-n2000-1277-du-26-decembre-2000-fppa0000142d)
 - [Décret n°2000-1296 du 26 décembre 2000 (AGRB0002227D)](decret-n2000-1296-du-26-decembre-2000-agrb0002227d)
