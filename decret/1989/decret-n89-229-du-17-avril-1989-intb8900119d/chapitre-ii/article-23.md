@@ -20,13 +20,15 @@ En cas d'égalité du nombre de sièges obtenus, l'ordre des choix est détermin
 
 Dans l'hypothèse où une partie ou la totalité des sièges n'a pu être pourvue par voie d'élection, la commission administrative paritaire est complétée par voie de tirage au sort parmi les électeurs à cette commission relevant de chaque groupe hiérarchique concerné.
 
+Lorsqu'il est fait application de l'article 6, la liste électorale est mise à jour, au plus tôt un mois et au plus tard huit jours avant le tirage au sort.
+
 Le jour, l'heure et le lieu du tirage au sort sont annoncés au moins huit jours à l'avance par affichage dans les locaux administratifs. Tout électeur à la commission administrative paritaire peut y assister.
 
 Le tirage au sort est effectué par l'autorité territoriale, ou son représentant. Si un bureau central de vote a été mis en place, ses membres sont convoqués pour assister au tirage au sort.
 
 c) Dispositions spéciales :
 
-Dans le cas où deux listes ont la même moyenne, le siège revient à la liste qui a obtenu le plus grand nombre de suffrages. Si les deux listes en cause ont recueilli le même nombre de voix, le siège est attribué au plus âgé des candidats en présence.
+Dans le cas où, pour l'attribution d'un siège, des listes ont la même moyenne, le siège est attribué à la liste qui a recueilli le plus grand nombre de voix. Si les listes en cause ont recueilli le même nombre de voix, le siège est attribué à celle qui a présenté, en application du deuxième alinéa de l'article 12, le plus grand nombre de candidats au titre de la commission administrative paritaire. Si plusieurs de ces listes ont obtenu le même nombre de voix et ont présenté le même nombre de candidats, le siège est attribué par voie de tirage au sort.
 
 d) Désignation des représentants suppléants :
 

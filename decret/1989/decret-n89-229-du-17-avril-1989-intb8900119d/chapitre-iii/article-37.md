@@ -1,3 +1,3 @@
 # Article 37
 
-Les membres des commissions administratives paritaires ne perçoivent aucune rémunération du fait de leurs fonctions. Toutefois, les membres siégeant avec voix délibérative sont indemnisés de leurs frais de déplacement et de séjour dans les conditions fixées par le décret n° 66-619 du 10 août 1966 susvisé.
+Les membres des commissions administratives paritaires ne perçoivent aucune rémunération du fait de leurs fonctions. Toutefois, les membres siégeant avec voix délibérative sont indemnisés de leurs frais de déplacement et de séjour dans les conditions fixées par le décret n° 91-573 du 19 juin 1991 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels des collectivités et établissements publics mentionnés à l'article 2 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
