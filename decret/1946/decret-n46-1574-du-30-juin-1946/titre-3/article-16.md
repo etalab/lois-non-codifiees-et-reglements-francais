@@ -1,0 +1,5 @@
+# Article 16
+
+Sur présentation du certificat de dépôt de la demande de reconnaissance de la qualité de réfugié ou dès l'enregistrement de cette demande par l'Office français de protection des réfugiés et apatrides, le demandeur d'asile visé au premier alinéa de l'article 15 du présent décret est mis en possession d'un récépissé de demande d'asile valant autorisation provisoire de séjour et portant la mention : "récépissé constatant le dépôt d'une demande de statut de réfugié", d'une durée de validité de trois mois renouvelable jusqu'à la notification de la décision de l'Office français de protection des réfugiés et apatrides.
+
+Indépendamment des dispositions du troisième alinéa de l'article 32 de l'ordonnance du 2 novembre 1945 précitée, si, dans le délai d'un mois suivant la délivrance de l'autorisation provisoire de séjour prévue à l'article 15 du présent décret, l'Office français de protection des réfugiés et apatrides n'a pas délivré de certificat de dépôt d'une demande de reconnaissance de la qualité de réfugié ou enregistré cette demande, une décision refusant le séjour peut être prise.
