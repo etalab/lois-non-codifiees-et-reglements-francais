@@ -11,6 +11,7 @@
 - [Arrêté du 1 juin 1987 (AGRP8701098A)](arrete-du-1-juin-1987-agrp8701098a)
 - [Arrêté du 1 juin 1987 (ASES8700815A)](arrete-du-1-juin-1987-ases8700815a)
 - [Arrêté du 1 juin 1987 (ECOC8700048A)](arrete-du-1-juin-1987-ecoc8700048a)
+- [Arrêté du 1 juin 1987 (ECOP8700201A)](arrete-du-1-juin-1987-ecop8700201a)
 - [Arrêté du 1 juin 1987 (ECOT8720019A)](arrete-du-1-juin-1987-ecot8720019a)
 - [Arrêté du 1 juin 1987 (ECOT8750030A)](arrete-du-1-juin-1987-ecot8750030a)
 - [Arrêté du 1 juin 1987 (MCCK8700257A)](arrete-du-1-juin-1987-mcck8700257a)

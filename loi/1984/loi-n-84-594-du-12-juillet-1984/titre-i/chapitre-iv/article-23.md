@@ -1,6 +1,6 @@
 # Article 23
 
-Les formations organisées par les centres régionaux et le Centre national sont assurées par eux-mêmes ou par :
+Les formations organisées par le centre national de la fonction publique territoriale et ses délégations sont assurées par eux-mêmes ou par :
 
 1° Les organismes suivants :
 
