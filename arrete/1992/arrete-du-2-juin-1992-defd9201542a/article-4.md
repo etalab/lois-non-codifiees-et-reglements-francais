@@ -24,6 +24,8 @@ Les membres en sont :
 
 - l'inspecteur des armements nucléaires ou son représentant ;
 
+- l'inspecteur des forces maritimes ;
+
 - un représentant de la direction centrale du service de santé des armées ;
 
 - le commandant de l'école des applications militaires de l'énergie atomique.
