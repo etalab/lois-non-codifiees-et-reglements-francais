@@ -1,0 +1,5 @@
+# Article 10
+
+Lorsque, au cours de la même année, les personnels mentionnés au a de l'article 1er ci-dessus peuvent bénéficier de la prise en charge par l'Etat des frais de voyage de congé et doivent subir sur le territoire européen de la France les épreuves d'admission aux examens ou concours donnant lieu aux remboursements prévus par la réglementation sur les frais de déplacement, ces personnels ne peuvent prétendre au remboursement par l'Etat que d'un seul voyage.
+
+Dans ce cas, le magistrat ou le fonctionnaire, dont le lieu de résidence habituelle est situé sur le territoire européen de la France ou dans le département d'outre-mer où il exerce ses fonctions, peut, lorsque les nécessités du service ne s'y opposent pas, faire coïncider la période de son congé et celle des épreuves. Toutefois, les personnels des établissements d'enseignement ou des centres de formation scolaires ou universitaires qui bénéficient du remboursement des frais de voyage au titre des épreuves d'admission ne peuvent prétendre à un congé bonifié que pendant les grandes vacances scolaires ou universitaires de l'année suivante.

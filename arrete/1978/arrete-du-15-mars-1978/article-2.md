@@ -1,3 +1,3 @@
 # Article 2
 
-Le présent arrêté, qui sera publié au Journal officiel de la République française, prend effet à la date de mise en application du décret susvisé du 15 mars 1978.
+Tout employeur désireux d'obtenir cette prime en fait la demande au directeur départemental du travail et de la main-d'oeuvre. A l'appui de la demande est jointe une attestation d'assiduité de l'apprenti délivrée par le directeur de centre de formation d'apprentis.

@@ -1,4 +1,4 @@
-# Arrêté du 15 mars 1978 fixant l'échelonnement indiciaire applicable à l'emploi de directeur des études et des stages d'institut régional d'administration.
+# Arrêté du 15 mars 1978 RELATIF A LA PRIME ATTRIBUEE AUX EMPLOYEURS FORMANT DES APPRENTIS HANDICAPES (APPLICATION DE L'ARTICLE R. 119-79 DU CODE DU TRAVAIL).
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
