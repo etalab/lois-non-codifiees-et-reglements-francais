@@ -1,0 +1,5 @@
+# Article 1
+
+Les ingénieurs électroniciens des systèmes de la sécurité aérienne sont chargés, dans les organismes de la navigation aérienne, d'assurer la maintenance et la supervision technique des équipements et des systèmes qui contribuent à la sécurité des vols, de participer au développement de ces équipements et systèmes et d'exécuter, dans l'administration de l'aviation civile, des missions d'encadrement, d'instruction, d'étude ou de direction de service ou de partie de service.
+
+Le corps des ingénieurs électroniciens des systèmes de la sécurité aérienne est régi par un statut spécial fixé par décret en Conseil d'Etat, après avis du comité technique paritaire compétent. Ce statut peut, en raison des sujétions et des responsabilités exceptionnelles attachées aux fonctions de ces ingénieurs, déroger aux dispositions des articles 12 et 16 de la loi n° 83-634 du 13 juillet 1983 portant droits et obligations des fonctionnaires et à celles de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat.

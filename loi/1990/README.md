@@ -31,6 +31,8 @@
 - [Loi n° 90-547 du 2 juillet 1990 (MAEX9000038L)](loi-n-90-547-du-2-juillet-1990-maex9000038l)
 - [Loi n° 90-548 du 2 juillet 1990 (MAEX9000080L)](loi-n-90-548-du-2-juillet-1990-maex9000080l)
 - [Loi n° 90-55 du 15 janvier 1990 (INTX8900076L)](loi-n-90-55-du-15-janvier-1990-intx8900076l)
+- [Loi n° 90-557 du 2 juillet 1990 (EQUX9000018L)](loi-n-90-557-du-2-juillet-1990-equx9000018l)
+- [Loi n° 90-558 du 2 juillet 1990 (AGRX9000025L)](loi-n-90-558-du-2-juillet-1990-agrx9000025l)
 - [Loi n° 90-8 du 2 janvier 1990 (FPPX8910391L)](loi-n-90-8-du-2-janvier-1990-fppx8910391l)
 - [Loi n° 90-85 du 23 janvier 1990 (AGRX8900045L)](loi-n-90-85-du-23-janvier-1990-agrx8900045l)
 - [Loi n° 90-86 du 23 janvier 1990 (SPSX8900124L)](loi-n-90-86-du-23-janvier-1990-spsx8900124l)

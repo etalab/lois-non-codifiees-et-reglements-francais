@@ -1,0 +1,3 @@
+# Article 19-3
+
+La fondation d'entreprise peut, sous réserve des dispositions de l'article 19-8, faire tous les actes de la vie civile qui ne sont pas interdits par ses statuts mais elle ne peut acquérir ou posséder d'autres immeubles que ceux nécessaires au but qu'elle se propose. Toutes les valeurs mobilières doivent être placées en titres nominatifs, en titres pour lesquels est établi le bordereau de références nominatives prévu à l'article 55 de la loi n° 87-416 du 17 juin 1987 sur l'épargne ou en valeurs admises par la Banque de France en garanties d'avances. Lorsque la fondation d'entreprise détient des actions des sociétés fondatrices ou de sociétés contrôlées par elles, la fondation ne peut exercer les droits de vote attachés à ces actions.
