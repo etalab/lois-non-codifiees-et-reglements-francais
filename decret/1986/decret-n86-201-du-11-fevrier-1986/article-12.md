@@ -1,5 +1,5 @@
 # Article 12
 
-Un conseil d'orientation comprenant les membres du bureau et seize membres désignés chaque année par les quatre sections à raison de quatre représentants par section se réunit au moins deux fois par an sur convocation du ministre chargé du tourisme, ou à la demande de la majorité de ses membres. Les membres ainsi élus sont rééligibles.
+Un conseil d'orientation comprenant les membres du bureau et seize membres désignés lors de chaque renouvellement d'ensemble des membres du conseil par les quatre sections à raison de quatre représentants par section se réunit au moins deux fois par an sur convocation du ministre chargé du tourisme, ou à la demande de la majorité de ses membres [*périodicité*]. Les membres ainsi élus sont rééligibles.
 
 Le conseil d'orientation a délégation du Conseil national pour donner en son nom les avis requis par les réglementations en vigueur. Il coordonne les travaux des sections, commissions et groupes de travail. Il étudie périodiquement l'évolution de la conjoncture du tourisme et procède à des échanges de vues généraux avec les responsables de la direction du tourisme. Il est en outre chargé de suivre la mise en oeuvre des recommandations et propositions du Conseil national. Il est présidé par le ministre chargé du tourisme ou, en son absence, par le directeur de l'industrie touristique.
