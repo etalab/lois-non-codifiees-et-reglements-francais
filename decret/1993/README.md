@@ -29,6 +29,7 @@
 - [Décret n°59-1193 du 13 octobre 1959](decret-n59-1193-du-13-octobre-1959)
 - [Décret n°93-1103 du 14 septembre 1993 (MENF9305536D)](decret-n93-1103-du-14-septembre-1993-menf9305536d)
 - [Décret n°91-451 du 14 mai 1991 (TEFT9103515D)](decret-n91-451-du-14-mai-1991-teft9103515d)
+- [Décret n°86-95 du 15 janvier 1986](decret-n86-95-du-15-janvier-1986)
 - [Décret n°94-814 du 15 septembre 1994 (MCCB9400321D)](decret-n94-814-du-15-septembre-1994-mccb9400321d)
 - [Décret n°92-521 du 16 juin 1992 (JUSC9121120D)](decret-n92-521-du-16-juin-1992-jusc9121120d)
 - [Décret n°93-1115 du 16 septembre 1993 (EQUA9301371D)](decret-n93-1115-du-16-septembre-1993-equa9301371d)
