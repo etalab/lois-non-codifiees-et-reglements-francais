@@ -1,0 +1,3 @@
+# DISPOSITIONS DIVERSES OU TRANSITOIRES
+
+- [Article 38](article-38.md)
