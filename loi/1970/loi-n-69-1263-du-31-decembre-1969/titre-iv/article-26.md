@@ -1,0 +1,3 @@
+# Article 26
+
+Les fonctionnaires et agents des préfectures des départements du Bas-Rhin, du Haut-Rhin et de la Moselle, intégrés d'office, à compter du 1er janvier 1945, dans les cadres de l'Etat et admis à la retraite postérieurement au 1er décembre 1964, pourront opter, dans un délai d'un an à compter de la présente loi, soit pour le régime de la double pension instituée par l'article 107 de la loi de finances du 31 décembre 1937 et le décret modifié du 28 juillet 1942, soit pour le régime de la pension unique prévu à l'article 11 de la loi n° 64-1339 du 26 décembre 1964 portant réforme du code des pensions civiles et militaires de retraite (partie législative).
