@@ -4,7 +4,7 @@ Peuvent postuler le diplôme du brevet des métiers d'art les candidats justifia
 
 - soit avoir effectué dans un lycée ou une des écoles privées d'enseignement technique visées par le code de l'enseignement technique, le cycle d'études de deux ans conduisant au diplôme postulé soit 1 680 heures au moins ;
 
-- soit avoir suivi dans le cadre de l'apprentissage une préparation dans un C.F.A. d'une durée au moins égale à 1 500 heures ;
+- soit avoir suivi dans le cadre de l'apprentissage une préparation dans un CFA d'une durée au moins égale à 1 350 heures ;
 
 - soit avoir suivi dans le cadre de la formation professionnelle continue une préparation au diplôme d'une durée au moins égale (compte non tenu de la période de formation en milieu professionnel) à :
 
