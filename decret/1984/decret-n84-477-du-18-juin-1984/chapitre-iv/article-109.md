@@ -6,7 +6,7 @@ Les dépenses administratives nécessitées par les opérations électorales et 
 
 2° Les frais d'établissement et d'envoi des cartes d'électeur ;
 
-3° La fourniture des enveloppes opaques non gommées destinées aux votes ;
+3° La fourniture des enveloppes opaques non gommées destinées aux votes et des enveloppes destinées au vote par correspondance ;
 
 4° Les frais de publication ou d'affichage des renseignements utiles aux électeurs, y compris les listes des candidats ;
 
@@ -16,7 +16,7 @@ Les dépenses administratives nécessitées par les opérations électorales et 
 
 7° Les frais exposés par les communes pour les élections ;
 
-8° Les frais d'affranchissement en compte avec l'administration des P.T.T. [*PTT*] ;
+8° Les frais d'affranchissement en compte avec La Poste ;
 
 9° Les frais de fonctionnement de la commission de recensement des votes ;
 
