@@ -1,4 +1,4 @@
-# Titre Ier : Dispositions communes aux opération mises en oeuvre par les entreprises régies par le code des assurances, par les institutions relevant du titre III du livre VII du code de la sécurité sociale et de la section 4 du chapitre II du titre II du livre VII du code rural et par les mutuelles relevant du code de la mutualité.
+# Titre Ier : Dispositions communes aux opérations mises en oeuvre par les entreprises régies par le code des assurances, par les institutions de prévoyance relevant du titre III du livre IX du code de la sécurité sociale et de la section 4 du chapitre II du titre II du livre VII du code rural et par les mutuelles relevant du code de la mutualité.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

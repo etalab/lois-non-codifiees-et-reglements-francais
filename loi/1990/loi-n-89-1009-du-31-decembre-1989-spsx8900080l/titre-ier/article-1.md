@@ -6,9 +6,9 @@ Seuls sont habilités à mettre en oeuvre les opérations de couverture visées 
 
 a) Entreprises régies par le code des assurances ;
 
-b) Institutions relevant du titre III du livre VII du code de la sécurité sociale ;
+b) Institutions de prévoyance relevant du titre III du livre IX du code de la sécurité sociale ;
 
-c) Institutions relevant de la section 4 du chapitre II du titre II du livre VII du code rural ;
+c) Institutions de prévoyance relevant de la section 4 du chapitre II du titre II du livre VII du code rural ;
 
 d) Mutuelles relevant du code de la mutualité.
 
