@@ -748,7 +748,6 @@
 - [Arrêté du 25 novembre 1991 (ECOC9100138A)](arrete-du-25-novembre-1991-ecoc9100138a)
 - [Arrêté du 25 novembre 1991 (EQUT9101719A)](arrete-du-25-novembre-1991-equt9101719a)
 - [Arrêté du 25 novembre 1991 (MCCK9100716A)](arrete-du-25-novembre-1991-mcck9100716a)
-- [Arrêté du 25 novembre 1991 (SPSG9102587A)](arrete-du-25-novembre-1991-spsg9102587a)
 - [Arrêté du 25 octobre 1991 (AGRA9102401A)](arrete-du-25-octobre-1991-agra9102401a)
 - [Arrêté du 25 octobre 1991 (EQUC9101322A)](arrete-du-25-octobre-1991-equc9101322a)
 - [Arrêté du 25 octobre 1991 (EQUC9101323A)](arrete-du-25-octobre-1991-equc9101323a)

@@ -173,7 +173,6 @@
 - [Décret n°95-1006 du 6 septembre 1995 (EQUZ9501169D)](decret-n95-1006-du-6-septembre-1995-equz9501169d)
 - [Décret n°95-1084 du 6 octobre 1995 (DOME9500039D)](decret-n95-1084-du-6-octobre-1995-dome9500039d)
 - [Décret n°95-1085 du 6 octobre 1995 (EQUP9500806D)](decret-n95-1085-du-6-octobre-1995-equp9500806d)
-- [Décret n°95-11 du 6 janvier 1995 (TEFO9401252D)](decret-n95-11-du-6-janvier-1995-tefo9401252d)
 - [Décret n°95-1161 du 6 novembre 1995 (TEFF9501140D)](decret-n95-1161-du-6-novembre-1995-teff9501140d)
 - [Décret n°95-1162 du 6 novembre 1995 (MCCT9500563D)](decret-n95-1162-du-6-novembre-1995-mcct9500563d)
 - [Décret n°95-1163 du 6 novembre 1995 (DOME9500036D)](decret-n95-1163-du-6-novembre-1995-dome9500036d)
