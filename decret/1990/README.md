@@ -424,7 +424,6 @@
 - [Décret n°90-1119 du 18 décembre 1990 (BUDD9050008D)](decret-n90-1119-du-18-decembre-1990-budd9050008d)
 - [Décret n°90-1122 du 18 décembre 1990 (PTTC9000974D)](decret-n90-1122-du-18-decembre-1990-pttc9000974d)
 - [Décret n°90-1123 du 18 décembre 1990 (PTTC9000975D)](decret-n90-1123-du-18-decembre-1990-pttc9000975d)
-- [Décret n°90-1125 du 18 décembre 1990 (PRMX9000142D)](decret-n90-1125-du-18-decembre-1990-prmx9000142d)
 - [Décret n°90-1135 du 18 décembre 1990 (MAEJ9030089D)](decret-n90-1135-du-18-decembre-1990-maej9030089d)
 - [Décret n°90-1136 du 18 décembre 1990 (MAEJ9030088D)](decret-n90-1136-du-18-decembre-1990-maej9030088d)
 - [Décret n°90-497 du 18 juin 1990 (SPSS9000495D)](decret-n90-497-du-18-juin-1990-spss9000495d)

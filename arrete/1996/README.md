@@ -428,7 +428,6 @@
 - [Arrêté du 12 janvier 1996 (DEFT9601064A)](arrete-du-12-janvier-1996-deft9601064a)
 - [Arrêté du 12 janvier 1996 (ECOS9650002A)](arrete-du-12-janvier-1996-ecos9650002a)
 - [Arrêté du 12 janvier 1996 (ECOS9650003A)](arrete-du-12-janvier-1996-ecos9650003a)
-- [Arrêté du 12 janvier 1996 (INDP9501251A)](arrete-du-12-janvier-1996-indp9501251a)
 - [Arrêté du 12 janvier 1996 (INTE9600025A)](arrete-du-12-janvier-1996-inte9600025a)
 - [Arrêté du 12 janvier 1996 (INTE9600026A)](arrete-du-12-janvier-1996-inte9600026a)
 - [Arrêté du 12 janvier 1996 (INTE9600027A)](arrete-du-12-janvier-1996-inte9600027a)
