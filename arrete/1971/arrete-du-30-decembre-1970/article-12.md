@@ -7,3 +7,5 @@ La demande de validation doit être formulée dans le délai de deux ans à comp
 La validation demandée après l'expiration du délai de deux ans visé à l'alinéa précédent est subordonnée au versement, par l'intéressé, de sa cotisation majorée dans la même proportion que le salaire de référence depuis la date de forclusion.
 
 Les versements rétroactifs à la charge du bénéficiaire doivent être effectués en totalité sous peine de déchéance du droit à validation avant l'expiration d'un délai courant à partir de la notification faite à l'intéressé et calculé à raison de un trimestre par année entière de services à valider.
+
+Le versement du solde éventuellement dû par le bénéficiaire en application du paragraphe 2 de l'article 9 du décret du 23 décembre 1970 doit être effectué dans les mêmes conditions.
