@@ -4,6 +4,7 @@
 - [CHAPITRE 6. CHAPITRE 6](chapitre-6-chapitre-6)
 - [CHAPITRE 8. DES DISPOSITIONS RELATIVES AUX PROFESSIONS AGRICOLES](chapitre-8-des-dispositions-relatives-aux)
 - [CHAPITRE 1ER. DISPOSITIONS GENERALES](chapitre-1er-dispositions-generales)
+- [CHAPITRE 2. ALLOCATION POSTNATALE.](chapitre-2-allocation-postnatale)
 - [CHAPITRE 2. ALLOCATIONS POSTNATALES.](chapitre-2-allocations-postnatales)
 - [CHAPITRE 3. ALLOCATIONS FAMILIALES.](chapitre-3-allocations-familiales)
 - [CHAPITRE 5. ALLOCATIONS PRENATALES.](chapitre-5-allocations-prenatales)

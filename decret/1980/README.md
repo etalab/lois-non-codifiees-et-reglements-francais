@@ -94,5 +94,6 @@
 - [Décret n°80-307 du 29 avril 1980](decret-n80-307-du-29-avril-1980)
 - [Décret n°80-112 du 30 janvier 1980](decret-n80-112-du-30-janvier-1980)
 - [Décret n°80-305 du 30 avril 1980](decret-n80-305-du-30-avril-1980)
+- [Décret n°80-599 du 30 juillet 1980](decret-n80-599-du-30-juillet-1980)
 - [Décret n°80-99 du 30 janvier 1980](decret-n80-99-du-30-janvier-1980)
 - [Décret n°79-1228 du 31 décembre 1979](decret-n79-1228-du-31-decembre-1979)
