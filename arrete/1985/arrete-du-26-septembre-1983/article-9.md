@@ -1,6 +1,6 @@
 # Article 9
 
-I - Avant le 1er juin [*date limite*] de l'année précédant celle pour laquelle est établie la liste d'aptitude, les personnes qui désirent être inscrites formulent à cet effet une demande dans les conditions suivantes :
+I - Avant le 1er mai [*date limite*] de l'année précédant celle pour laquelle est établie la liste d'aptitude, les personnes qui désirent être inscrites formulent à cet effet une demande dans les conditions suivantes :
 
 Les candidats en fonctions dans l'une des caisses relevant des organisations autonomes d'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales, ou relevant du régime d'assurance maladie et maternité des travailleurs non salariés des professions non agricoles doivent indiquer [*mentions obligatoires*] :
 

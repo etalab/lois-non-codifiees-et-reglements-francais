@@ -32,9 +32,11 @@ Verres oxydés au sulfate :
 
 0,5 kg/tv ou 250 mg/Nm3 pour les fours électriques.
 
+Pour les fours à combustible liquide, non équipés de système de désulfuration, des dérogations limitées dans le temps pourront être accordées, après avis de l'inspection des installations classées, en cas d'impossibilité momentanée d'approvisionnement du marché.
+
 11.2.3 Les valeurs limites de rejets des oxydes d'azote exprimées en dioxyde d'azote sont limitées comme suit (1) :
 
-Verres " non spéciaux " :
+Verres " non spéciaux :
 
 Fours à boucle :
 
@@ -70,9 +72,9 @@ Verres spéciaux et verres oxydés au nitrate : les valeurs ci-dessus sont doubl
 
 - ammoniac (exprimé en NH3) 50 mg/Nm3 en cas d'utilisation d'ammoniac pour la dénitrification.
 
-Pour les verres " non spéciaux ", la somme des teneurs en métaux (Cr VI + Pb + Cd + Sb + Ni + Co + Se + V) ne doit pas dépasser 35 g/tv ou 5 mg/Nm3.
+Pour les verres " non spéciaux, la somme des teneurs en métaux (Cr VI + Pb + Cd + Sb + Ni + Co + Se + V) ne doit pas dépasser 35 g/tv ou 5 mg/Nm3.
 
-Pour les verres techniques dits " spéciaux " et le cristal au plomb les rejets provenant des fours de fusion et des postes de travail automatiques du verre fondu doivent également respecter les valeurs suivantes, exprimées sur effluent brut :
+Pour les verres techniques dits " spéciaux et le cristal au plomb les rejets provenant des fours de fusion et des postes de travail automatiques du verre fondu doivent également respecter les valeurs suivantes, exprimées sur effluent brut :
 
 - antimoine : 21 g/tv ou 3 mg/Nm3 ;
 

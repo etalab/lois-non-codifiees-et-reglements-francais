@@ -1,6 +1,6 @@
 # Article 9
 
-Avant le 1er juin de l'année précédant celle pour laquelle est établie la liste d'aptitude [*date limite*], les personnes susceptibles de réunir, au 1er janvier suivant, les conditions requises et qui désirent être inscrites sur la liste d'aptitude formulent à cet effet une demande en double ou en triple exemplaire.
+Avant le 1er mai de l'année précédant celle pour laquelle est établie la liste d'aptitude [*date limite*], les personnes susceptibles de réunir, au 1er janvier suivant, les conditions requises et qui désirent être inscrites sur la liste d'aptitude formulent à cet effet une demande en double ou en triple exemplaire.
 
 Les candidats en fonctions dans un organisme de base adressent directement un exemplaire de leur demande sous pli recommandé, avant la date fixée ci-dessus, le cachet de la poste faisant foi, à la direction régionale des affaires sanitaires et sociales de la circonscription dans laquelle ils exercent leurs fonctions. Le deuxième exemplaire est transmis au directeur de l'organisme dont ils relèvent, qui assure l'envoi collectif des demandes des candidats de l'organisme à la direction régionale des affaires sanitaires et sociales, après vérification des indications qu'elles comportent. Le troisième exemplaire est adressé à la caisse autonome nationale de la sécurité sociale dans les mines.
 
