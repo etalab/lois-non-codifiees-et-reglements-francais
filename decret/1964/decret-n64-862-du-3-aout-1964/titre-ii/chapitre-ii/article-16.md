@@ -8,6 +8,8 @@ Sont créées au sein du conseil supérieur des prestations sociales agricoles l
 
 3° La section de l'assurance maladie, maternité, invalidité et de l'assurance vieillesse des membres non salariés des professions agricoles. Cette section constitue la commission prévue à l'article 1106-6 du code rural ;
 
+3° bis La section de l'assurance des non-salariés agricoles contre les accidents du travail et les maladies professionnelles ;
+
 4° Une section qui constitue le comité de gestion du budget annexe des prestations familiales agricoles.
 
 Cette section comporte deux sous-commissions, la sous-commission du budget et la sous-commission des dépenses complémentaires qui instruisent les affaires concernant le budget annexe et le contrôle de la gestion des dépenses complémentaires des organismes assureurs et en font rapport écrit au comité de gestion. Ces sous-commissions doivent être saisies dix jours au moins avant leur réunion des documents nécessaires à l'établissement de leurs rapports ;

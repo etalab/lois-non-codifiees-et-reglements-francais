@@ -98,6 +98,36 @@ Un représentant du haut-comité médical de la sécurité sociale.
 
 Un représentant de l'ordre national des médecins.
 
+4° bis Sont membres de la section de l'assurance des non-salariés agricoles contre les accidents du travail et les maladies professionnelles :
+
+Les membres communs énumérés au 1° ci-dessus :
+
+Le président de la Commission supérieure des maladies professionnelles ;
+
+Le médecin-conseil national du régime agricole de protection sociale ;
+
+Un représentant du Haut Comité médical de sécurité sociale ;
+
+Quatre représentants du groupement mentionné à l'article L. 752-14 du code rural ;
+
+Un représentant de l'ordre national des médecins ;
+
+Un représentant du Conseil national des professions de santé ;
+
+Un représentant de la Fédération nationale des accidentés du travail et des handicapés.
+
+Le comité de gestion mentionné à l'article L. 752-18 du code rural est composé des membres suivants de la section :
+
+Le directeur des exploitations, de la politique sociale et de l'emploi au ministère de l'agriculture et de la pêche ou son représentant ;
+
+Trois représentants de la Caisse centrale de la mutualité sociale agricole ;
+
+Trois représentants du groupement mentionné à l'article L. 752-14 du code rural ;
+
+Le président de ce comité est désigné par la section ;
+
+Le directeur général et l'agent comptable de la Caisse centrale de mutualité sociale agricole participent à titre consultatif aux travaux du comité de gestion.
+
 5° Sont membres de la section du comité de gestion l'ensemble des membres du conseil supérieur, à l'exception toutefois des membres du corps médical, des représentants des syndicats dentaires, des syndicats pharmaceutiques et des syndicats de sages-femmes.
 
 6° Sont membres de la section permanente :
