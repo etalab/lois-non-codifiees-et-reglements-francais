@@ -1,0 +1,7 @@
+# Article 1
+
+Est autorisée pour la récolte 1985 l'augmentation, par concentration ou par adjonction de moût de raisins concentré ou de moût de raisins concentré rectifié, prévue au premier alinéa de l'article 4 du décret du 21 avril 1972 susvisé, du titre alcoométrique volumique naturel des produits repris dans cet article destinés à l'élaboration de vins de table, de vins de pays ou de vins destinés à l'élaboration de vins mousseux.
+
+Dans les départements compris dans la zone viticole B ainsi que dans les départements suivants : Allier, Hautes-Alpes, Cantal, Charente-Maritime, Corrèze, Côte-d'Or, Drôme, Isère, Loire, Haute-Loire, Nièvre, Puy-de-Dôme, Rhône, Saône-et-Loire, Haute-Vienne et Yonne, l'enrichissement par sucrage à sec est autorisé pour les raisins et les moûts de la récolte 1985 sous réserve que les vins obtenus répondent aux conditions de production des vins de pays et soient destinés à la commercialisation sous les dénominations respectivement applicables aux vins appartenant à cette dernière catégorie.
+
+Dans les départements compris dans la zone viticole B ainsi que dans les départements suivants : Allier, Hautes-Alpes, Charente-Maritime, Corrèze, Côte-d'Or, Drôme, Isère, Loire, Haute-Loire, Nièvre, Puy-de-Dôme, Rhône, Saône-et-Loire, Haute-Vienne et Yonne, l'enrichissement par sucrage à sec est autorisé pour les raisins frais et les moûts de la récolte 1985 sous réserve que les vins obtenus soient utilisés pour l'élaboration de vins mousseux.
