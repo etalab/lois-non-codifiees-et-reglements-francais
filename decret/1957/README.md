@@ -3,7 +3,6 @@
 - [Décret n°57-549 du 2 mai 1957](decret-n57-549-du-2-mai-1957)
 - [Décret n°57-1107 du 5 octobre 1957](decret-n57-1107-du-5-octobre-1957)
 - [Décret n°57-759 du 6 juillet 1957](decret-n57-759-du-6-juillet-1957)
-- [Décret n°57-684 du 7 juin 1957](decret-n57-684-du-7-juin-1957)
 - [Décret n°57-559 du 7 mai 1957](decret-n57-559-du-7-mai-1957)
 - [Décret n°57-281 du 9 mars 1957](decret-n57-281-du-9-mars-1957)
 - [Décret n°57-44 du 15 janvier 1957](decret-n57-44-du-15-janvier-1957)

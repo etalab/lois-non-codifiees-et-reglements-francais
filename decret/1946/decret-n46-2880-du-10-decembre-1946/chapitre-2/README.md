@@ -1,3 +1,0 @@
-# CHAPITRE 2. : ALLOCATION POSTNATALE *MONTANT*.
-
-- [Article 13](article-13.md)
