@@ -1,6 +1,6 @@
 # Article 2
 
-A compter de 1995, la redevance visée à l'article 1er ci-dessus est majorée de 183 F par hectare, ou fraction d'hectare, de vignes mères de porte-greffe et de 127 F par hectare, ou fraction d'hectare, de vignes mères de greffons cultivées.
+A compter de 1995, la redevance visée à l'article 1er ci-dessus est majorée de 186 F par hectare, ou fraction d'hectare, de vignes mères de porte-greffe et de 130 F par hectare, ou fraction d'hectare, de vignes mères de greffons cultivées.
 
 L'exemption pour la majoration de la redevance prévue au paragraphe a de l'article 28 de la loi n° 67-1114 du 21 décembre 1967 susvisée est appliquée séparément aux superficies des vignes mères produisant des porte-greffes, d'une part, et aux superficies des vignes mères produisant des greffons, d'autre part.
 
