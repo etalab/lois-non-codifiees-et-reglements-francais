@@ -7,5 +7,6 @@
 - [Loi n° 75-1258 du 27 décembre 1975](loi-n-75-1258-du-27-decembre-1975)
 - [Loi n° 75-1278 du 30 décembre 1975](loi-n-75-1278-du-30-decembre-1975)
 - [Loi n° 75-1280 du 30 décembre 1975](loi-n-75-1280-du-30-decembre-1975)
+- [Loi n° 75-534 du 30 juin 1975](loi-n-75-534-du-30-juin-1975)
 - [Loi n° 75-853 du 13 septembre 1975](loi-n-75-853-du-13-septembre-1975)
 - [Loi n°75-551 du 2 juillet 1975](loi-n75-551-du-2-juillet-1975)
