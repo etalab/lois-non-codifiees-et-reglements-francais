@@ -8,7 +8,7 @@ a) Des membres de droit, avec voix délibérative :
 
 Militaires : le commandant du lycée, président, et le commandant en second ;
 
-Civils : le proviseur et le censeur ;
+Civils : le proviseur et le proviseur adjoint ;
 
 b) Des membres désignés avec voix délibérative :
 

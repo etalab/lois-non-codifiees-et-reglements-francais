@@ -8,7 +8,7 @@ I - Dans les classes de l'enseignement secondaire, l'admission s'effectue exclus
 
 L'accès au premier cycle a lieu sur l'examen de dossier :
 
-- au lycée militaire d'Autun, notamment au profit des élèves issus de l'Ecole nationale Hériot ;
+- au lycée militaire d'Autun, notamment au profit des élèves issus de l'école régionale du premier degré Hériot ;
 
 - à l'école des pupilles de l'air de Grenoble avec une priorité relative pour l'élaboration des listes d'admission au profit des ressortissants de la famille aéronautique militaire.
 

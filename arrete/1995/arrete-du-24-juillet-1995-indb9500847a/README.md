@@ -1,4 +1,4 @@
-# Arrêté du 26 mai 1983 relatif à l'organisation et au fonctionnement des lycées militaires.
+# Arrêté du 24 juillet 1995 fixant les prescriptions techniques d'utilisation des équipements de travail
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -18,6 +18,3 @@
 - [Article 16](article-16.md)
 - [Article 17](article-17.md)
 - [Article 18](article-18.md)
-- [Article 19](article-19.md)
-- [Article 21](article-21.md)
-- [Annexes](annexes)
