@@ -1,0 +1,3 @@
+# Article 1
+
+Les normes citées aux articles 3 et 4 du présent arrêté constituent des prescriptions techniques au sens de l'article D. 385-9 du code des postes et télécommunications. Ces normes relatives à l'interconnexion des systèmes ouverts (OSI), adoptées par le Comité européen de normalisation et par le Comité européen de normalisation électrotechnique (C.E.N./Cenelec), sont identifiées par leurs références Afnor et C.E.N./Cenelec (ENV), accompagnées d'un titre. Ces prescriptions s'appliquent aux réseaux dont la taille est supérieure aux seuils N 3 et N 4, tels que prévus par l'article précité.
