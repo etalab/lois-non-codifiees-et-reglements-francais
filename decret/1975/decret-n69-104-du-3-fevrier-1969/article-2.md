@@ -5,3 +5,5 @@ La fabrication et la mise sur le marché des médicaments et produits contracept
 Pour les médicaments et produits contraceptifs renfermant des principes actifs nouveaux la demande d'autorisation de mise sur le marché doit comporter des compte rendus d'expertises tératologiques effectuées sous le contrôle d'un expert agréé ou désigné par le ministre des affaires sociales.
 
 Dans tous les cas, les expertises cliniques et, éventuellement, les expertises pharmaco-toxicologiques doivent permettre de constater l'innocuité et la tolérance des produits et des médicaments dans les conditions d'emploi prévues, ainsi que leur action contraceptive.
+
+Les essais, réalisés avant ou après la délivrance de l'autorisation de mise sur le marché, sont soumis aux conditions fixées aux articles R. 5117 à R. 5127 du code de la santé publique.
