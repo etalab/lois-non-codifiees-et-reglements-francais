@@ -45,3 +45,4 @@
 - [Décret n°69-92 du 30 janvier 1969](decret-n69-92-du-30-janvier-1969)
 - [Décret n°69-497 du 30 mai 1969](decret-n69-497-du-30-mai-1969)
 - [Décret n°69-294 du 31 mars 1969](decret-n69-294-du-31-mars-1969)
+- [Décret n°69-520 du 31 mai 1969](decret-n69-520-du-31-mai-1969)
