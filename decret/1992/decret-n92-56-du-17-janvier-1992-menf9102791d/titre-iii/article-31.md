@@ -1,3 +1,0 @@
-# Article 31
-
-Le conseil d'administration du Centre national de documentation pédagogique, le directeur général, le directeur général adjoint, les directeurs des centres régionaux et départementaux ainsi que les agents comptables en exercice à la date de publication du présent décret demeurent en fonction jusqu'à l'intervention des nominations prononcées dans les conditions fixées par ce texte. Par dérogation à l'article 17, les budgets des centres régionaux pour l'année 1992 sont élaborés par le directeur général et adoptés par le conseil d'administration du centre national ; ils sont exécutés par les organes définis au présent décret et conformément aux procédures qu'il institue.

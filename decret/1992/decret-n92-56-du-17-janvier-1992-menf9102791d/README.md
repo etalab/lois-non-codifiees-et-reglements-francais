@@ -2,5 +2,3 @@
 
 - [TITRE Ier : Le centre national de documentation pédagogique.](titre-ier)
 - [TITRE II : Les centres régionaux de documentation pédagogique.](titre-ii)
-- [TITRE III : Dispositions transitoires et diverses.](titre-iii)
-- [Article 33](article-33.md)

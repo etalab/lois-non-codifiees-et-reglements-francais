@@ -1,3 +1,0 @@
-# Article 12
-
-Les opérations de recettes et de dépenses du Centre national de documentation pédagogique sont confiées à un agent comptable nommé par arrêté conjoint du ministre chargé de l'éducation et du ministre chargé du budget. Outre les fonctions qui pourraient lui être confiées par le conseil d'administration, l'agent comptable exerce les attributions et est astreint aux obligations fixées par les décrets du 10 décembre 1953 et du 29 décembre 1962 susvisés. Il tient à jour la comptabilité du centre national et prépare pour le ministre chargé de l'éducation le document de synthèse des comptes financiers des centres régionaux mentionnés au 9° de l'article 2. Il est placé sous l'autorité du directeur général.
