@@ -92,7 +92,6 @@
 - [Décret n°76-506 du 26 mai 1976](decret-n76-506-du-26-mai-1976)
 - [Décret n°76-893 du 28 septembre 1976](decret-n76-893-du-28-septembre-1976)
 - [Décret n°76-901 du 28 septembre 1976](decret-n76-901-du-28-septembre-1976)
-- [Décret n°76-974 du 28 octobre 1976](decret-n76-974-du-28-octobre-1976)
 - [Décret n°76-488 du 28 mai 1976](decret-n76-488-du-28-mai-1976)
 - [Décret n°76-492 du 28 mai 1976](decret-n76-492-du-28-mai-1976)
 - [Décret n°76-1085 du 29 novembre 1976](decret-n76-1085-du-29-novembre-1976)
