@@ -1,4 +1,4 @@
-# Article Annexe 1
+# Article ANNEXE 1
 
 Liste A.
 
@@ -127,8 +127,6 @@ Université de Paris-XIII (formation supérieure d'ingénieurs en matériaux) ;
 Université de technologie de Compiègne ;
 
 Ecole nationale d'ingénieurs d'Alger-maison carrée (diplômes délivrés de 1953 à 1963) ;
-
-Diplôme d'architecte ;
 
 Diplôme de paysagiste diplômé par le ministre de l'agriculture.
 
