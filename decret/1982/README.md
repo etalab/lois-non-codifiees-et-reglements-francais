@@ -287,7 +287,6 @@
 - [Décret n°82-1148 du 29 décembre 1982](decret-n82-1148-du-29-decembre-1982)
 - [Décret n°82-1149 du 29 décembre 1982](decret-n82-1149-du-29-decembre-1982)
 - [Décret n°82-1151 du 29 décembre 1982](decret-n82-1151-du-29-decembre-1982)
-- [Décret n°82-1160 du 29 décembre 1982](decret-n82-1160-du-29-decembre-1982)
 - [Décret n°82-1168 du 29 décembre 1982](decret-n82-1168-du-29-decembre-1982)
 - [Décret n°82-542 du 29 juin 1982](decret-n82-542-du-29-juin-1982)
 - [Décret n°82-543 du 29 juin 1982](decret-n82-543-du-29-juin-1982)
