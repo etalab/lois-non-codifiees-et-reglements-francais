@@ -724,6 +724,7 @@
 - [Arrêté du 26 avril 1995 (ECOT9520005A)](arrete-du-26-avril-1995-ecot9520005a)
 - [Arrêté du 26 avril 1995 (ECOT9526139A)](arrete-du-26-avril-1995-ecot9526139a)
 - [Arrêté du 26 avril 1995 (EQUE9500799A)](arrete-du-26-avril-1995-eque9500799a)
+- [Arrêté du 26 avril 1995 (EQUS9500771A)](arrete-du-26-avril-1995-equs9500771a)
 - [Arrêté du 26 avril 1995 (INDP9500513A)](arrete-du-26-avril-1995-indp9500513a)
 - [Arrêté du 26 avril 1995 (MCCK9400659A)](arrete-du-26-avril-1995-mcck9400659a)
 - [Arrêté du 26 avril 1995 (MEND9500847A)](arrete-du-26-avril-1995-mend9500847a)
