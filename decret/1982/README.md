@@ -138,6 +138,8 @@
 - [Décret n°82-462 du 28 mai 1982](decret-n82-462-du-28-mai-1982)
 - [Décret n°82-111 du 29 janvier 1982](decret-n82-111-du-29-janvier-1982)
 - [Décret n°82-284 du 29 mars 1982](decret-n82-284-du-29-mars-1982)
+- [Décret n°82-542 du 29 juin 1982](decret-n82-542-du-29-juin-1982)
+- [Décret n°82-546 du 29 juin 1982](decret-n82-546-du-29-juin-1982)
 - [Décret n°81-1164 du 30 décembre 1981](decret-n81-1164-du-30-decembre-1981)
 - [Décret n°81-1166 du 30 décembre 1981](decret-n81-1166-du-30-decembre-1981)
 - [Décret n°81-1167 du 30 décembre 1981](decret-n81-1167-du-30-decembre-1981)
