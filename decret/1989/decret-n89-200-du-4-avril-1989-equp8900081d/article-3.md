@@ -1,0 +1,3 @@
+# Article 3
+
+Les dispositions des articles 3 à 8 du décret du 13 avril 1988 susvisé ainsi modifié sont applicables aux agents non titulaires de la direction de l'équipement de Saint-Pierre-et-Miquelon rattachés à la fonction publique de l'Etat en application de l'article 66 de la loi du 13 juillet 1987 susvisée, en fonctions à la date du 27 janvier 1984, ayant accompli à la date du dépôt de leur candidature, des services effectifs à une durée équivalente à deux ans au moins de services à temps complet dans un emploi permanent à temps complet et qui remplissent les conditions énumérées à l'article 5 de la loi du 13 juillet 1983 susvisée.

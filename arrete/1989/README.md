@@ -15,6 +15,7 @@
 - [Arrêté du 2 janvier 1989 (SPSH8900008A)](arrete-du-2-janvier-1989-spsh8900008a)
 - [Arrêté du 2 mars 1989 (ECOX8910059A)](arrete-du-2-mars-1989-ecox8910059a)
 - [Arrêté du 2 mars 1989 (ECOX8910060A)](arrete-du-2-mars-1989-ecox8910060a)
+- [Arrêté du 3 avril 1989 (BUDR8905020A)](arrete-du-3-avril-1989-budr8905020a)
 - [Arrêté du 3 décembre 1988 (INTB8800468A)](arrete-du-3-decembre-1988-intb8800468a)
 - [Arrêté du 3 février 1989 (MAEC8900001A)](arrete-du-3-fevrier-1989-maec8900001a)
 - [Arrêté du 3 février 1989 (PTTP8900102A)](arrete-du-3-fevrier-1989-pttp8900102a)
