@@ -42,6 +42,6 @@ Maladies justiciables de mesures à prendre à l'échelon local et faisant l'obj
 
 - paludisme autochtone ;
 
-- syndrome immuno-déficitaire acquis (SIDA) avéré ;
+- paludisme d'importation dans les départements d'outre-mer ;    - légionelloses ;    - syndrome immuno-déficitaire acquis (SIDA) avéré ;
 
 - brucelloses.
