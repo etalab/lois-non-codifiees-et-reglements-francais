@@ -6,7 +6,9 @@ Il peut notamment, aux côtés du maître de stage :
 
 Assister à la réception des clients :
 
-Assister aux audiences ou séances de toutes juridictions ou commissions, sauf, si les débats ne sont pas publics, interdiction du président ;
+Assister aux audiences ou séances de toutes juridictions ou commissions, sauf interdiction du président si les débats ne sont pas publics ;
+
+Avec l'autorisation du président, formuler des observations orales à l'audience ;
 
 Assister aux actes d'instruction préparatoire.
 
