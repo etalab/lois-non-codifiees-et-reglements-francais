@@ -1,5 +1,3 @@
 # Article 1
 
-La déclaration de ressources à prendre en compte pour l'attribution ou le renouvellement d'une allocation ou d'une prestation à caractère familial ou social doit être conforme pour l'année 1984 au modèle n° S. 7123g annexé au présent arrêté (1). Ce modèle a été enregistré par le CERFA sous le n° 60-3722.
-
-(1) Le modèle de cet imprimé est disponible auprès des organismes et des services de prestations familiales.
+En vue de leur participation à l'alimentation du fonds commun des accidents du travail visé à l'article L. 491 du code de la sécurité sociale, les établissements ou les collectivités assumant pour l'ensemble de leur personnel la gestion totale du risque Accidents du travail sont tenus de verser, à compter du 1er janvier 1985 [*date, point de départ*] une cotisation dont le taux correspond à 5,5 p. 100 du taux établi conformément aux dispositions de l'arrêté du 1er octobre 1976 et qui serait applicable à leur personnel s'il relevait de l'organisation générale de la sécurité sociale pour les accidents du travail et les maladies professionnelles.
