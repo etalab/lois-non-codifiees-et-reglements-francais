@@ -17,4 +17,6 @@
 - [Décret n°66-1074 du 30 décembre 1966](decret-n66-1074-du-30-decembre-1966)
 - [Décret n°68-503 du 30 mai 1968](decret-n68-503-du-30-mai-1968)
 - [Décret n°66-1067 du 31 décembre 1966](decret-n66-1067-du-31-decembre-1966)
+- [Décret n°67-100 du 31 janvier 1967](decret-n67-100-du-31-janvier-1967)
+- [Décret n°67-99 du 31 janvier 1967](decret-n67-99-du-31-janvier-1967)
 - [Décret n°69-1265 du 31 décembre 1969](decret-n69-1265-du-31-decembre-1969)
