@@ -2,7 +2,7 @@
 
 Les fonctionnaires titulaires mentionnés à l'article 14 sont intégrés par décision de l'autorité investie du pouvoir de nomination dans le corps des éducateurs techniques spécialisés à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps, cadre d'emplois ou emploi d'origine.
 
-Ils conservent dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, l'ancienneté acquise dans leur précédent corps, cadre d'emplois ou emploi, sous réserve que la durée totale des services effectifs qu'ils ont accomplis dans ce corps, cadre d'emplois ou emploi soit au moins égale à celle qui est nécessaire pour parvenir à l'échelon dans lequel ils sont classés.
+Dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent corps, cadre d'emplois ou emploi lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle qui aurait résulté d'un avancement d'échelon dans leur ancienne situation.
 
 Les services accomplis dans le corps, cadre d'emplois ou emploi d'origine sont assimilés à des services accomplis dans le corps d'intégration.
 

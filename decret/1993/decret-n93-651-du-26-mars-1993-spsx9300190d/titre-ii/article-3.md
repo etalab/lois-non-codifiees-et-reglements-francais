@@ -2,7 +2,7 @@
 
 Les cadres socio-éducatifs sont recrutés :
 
-1° Par concours interne sur épreuves ouvert pour un ou plusieurs établissements d'une région par le préfet de région.
+1° Par concours interne sur épreuves ouvert pour un ou plusieurs établissements d'une région par le préfet de région. En ce qui concerne l'Assistance publique - hôpitaux de Paris, le concours est ouvert par le directeur général.
 
 Peuvent être candidats les assistants socio-éducatifs, les conseillers en économie sociale et familiale et les éducateurs techniques spécialisés des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée, de l'Etat, des collectivités territoriales et de leurs établissements publics justifiant, au 1er janvier de l'année du concours, d'au moins six ans de services effectifs dans leur corps ou cadre d'emplois d'origine, compte non tenu des périodes de stage ou de formation dans une école ou un établissement ouvrant accès à un grade de la fonction publique.
 

@@ -1,9 +1,141 @@
 # Article 16
 
-Les personnels titulaires mentionnés à l'article précédent sont intégrés par décision de l'autorité investie du pouvoir de nomination dans le corps des conseillers en économie sociale et familiale à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps, cadre d'emplois ou emploi d'origine.
+Les personnels titulaires mentionnés à l'article précédent sont intégrés dans le corps des conseillers en économie sociale et familiale par décision de l'autorité investie du pouvoir de nomination selon le tableau de reclassement ci-après :
 
-Ils conservent, dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, l'ancienneté acquise dans leur précédent corps, cadre d'emplois ou emploi, sous réserve que la durée totale des services effectifs qu'ils ont accomplie dans ce corps, cadre d'emplois ou emploi soit au moins égale à celle qui est nécessaire pour parvenir à l'échelon dans lequel ils sont classés.
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">SITUATION ACTUELLE</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">SITUATION NOUVELLE</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">Conseillère en économie <br/>
+<br/>sociale et familiale <br/>
+<br/>monitrice d'enseignement ménager</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">Conseiller en économie sociale et familiale <br/>
+<br/>(1er grade)</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">Echelons</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Echelons</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté conservée</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">8e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">10e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Sans ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">7e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">8e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise plus 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">6e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">7e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise plus 6 mois</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">5e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">4e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise dans la limite de 2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">3e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise dans la limite de 2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">2e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise dans la limite de 2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon avec plus d'un an d'ancienneté</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2e </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="left">1er échelon avec moins d'un an d'ancienneté</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1er </p>
+</td>
+<td align="left" valign="middle">
+<p align="justify">Ancienneté acquise</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Les services accomplis dans le cadre d'emplois, corps ou emploi d'origine sont assimilés à des services accomplis dans le corps d'intégration.
+Les services accomplis dans le corps, cadre d'emplois ou emploi d'origine sont assimilés à des services accomplis dans le corps d'intégration.
 
-Les fonctionnaires qui ont atteint un indice supérieur à l'indice de l'échelon terminal de leur grade d'intégration sont intégrés à l'échelon terminal de ce grade mais conservent, à titre personnel, leur traitement indiciaire antérieur.
+Les personnels qui ont atteint un indice supérieur à l'indice de l'échelon terminal de leur grade d'intégration sont intégrés à l'échelon terminal de ce grade mais conservent, à titre personnel, leur indice de rémunération antérieur.

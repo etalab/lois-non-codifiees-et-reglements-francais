@@ -1,9 +1,156 @@
 # Article 15
 
-Les personnels titulaires mentionnés à l'article précédent sont intégrés par décision de l'autorité investie du pouvoir de nomination dans le corps des assistants socio-éducatifs à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur corps, cadre d'emplois ou emploi d'origine.
+Les personnels titulaires mentionnés à l'article précédent sont intégrés dans le corps des assistants socio-éducatifs par décision de l'autorité investie du pouvoir de nomination selon le tableau de reclassement ci-après :
 
-Ils conservent, dans la limite de l'ancienneté moyenne exigée pour une promotion à l'échelon supérieur, l'ancienneté acquise dans leur précédent corps, cadre d'emplois ou emploi, sous réserve que la durée totale des services effectifs qu'ils ont accomplis dans ce corps, cadre d'emplois ou emploi soit au moins égale à celle qui est nécessaire pour parvenir à l'échelon dans lequel ils sont classés.
+<table>
+<tbody>
+<tr>
+<td align="left" valign="middle">
+<p align="center">SITUATION ACTUELLE : <br/>
+<br/>Educateur spécialisé assistant de service social</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">SITUATION NOUVELLE : <br/>
+<br/>Assistant socio-éducatif</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">Echelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Echelon</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté conservée dans l'échelon</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">10e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">11e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise dans la limite de 4 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">9e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">10e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">8e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">9e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise dans la limite de 3 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">7e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">8e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">6e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">7e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">5e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise dans la limite de 2 ans</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">4e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">3e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">2e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3e</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">1er avec plus d'un an d'ancienneté</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">2e </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">1er avec moins d'un an d'ancienneté</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">1er</p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté acquise</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-Les services accomplis dans leur corps, cadre d'emplois ou emploi d'origine sont assimilés à des services accomplis dans le corps d'intégration.
+Les services accomplis dans le corps, cadre d'emplois ou emploi d'origine sont assimilés à des services accomplis dans le corps d'intégration.
 
-Les fonctionnaires qui ont atteint un indice supérieur à l'indice de l'échelon terminal du corps d'intégration sont intégrés à l'échelon terminal de ce corps mais conservent, à titre personnel, leur traitement indiciaire antérieur.
+Les personnels bénéficiant avant leur reclassement d'un indice supérieur à l'indice correspondant à leur échelon d'intégration conservent, à titre personnel, leur indice de rémunération antérieur jusqu'à ce qu'ils aient atteint un échelon comportant un indice au moins égal.
+
+Les personnels qui ont atteint un indice supérieur à l'indice de l'échelon terminal de leur corps d'intégration sont intégrés à l'échelon terminal de ce corps mais conservent, à titre personnel, leur indice de rémunération antérieur.
