@@ -4,7 +4,6 @@
 - [CHAPITRE II : Dispositions spéciales à l'Eglise protestante réformée d'Alsace et de Lorraine.](chapitre-ii)
 - [Article 3](article-3.md)
 - [CHAPITRE III : Dispositions spéciales à l'Eglise protestante de la confession d'Augsbourg d'Alsace et de Lorraine.](chapitre-iii)
-- [Article 4](article-4.md)
 - [CHAPITRE IV : Dispositions générales.](chapitre-iv)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
