@@ -20,13 +20,13 @@ LO représente le loyer minimum défini au paragraphe I ci-après.
 
 I. - Le loyer minimum est la part de loyer L, tel que défini ci-dessus, qui doit rester à la charge de l'allocataire compte tenu des ressources du foyer définies à l'article 4 ci-après et de la composition de la famille. Il est égal à un pourcentage desdites ressources déterminé comme suit :
 
-0 p. 100, pour la tranche de ressources inférieure ou égale    à 6.270 F ;
+0 p. 100, pour la tranche de ressources inférieure ou égale    à 6.675 F ;
 
-15 p. 100, pour la tranche de ressources comprise entre 6.270 F    et 12.540 F ;
+15 p. 100, pour la tranche de ressources comprise entre 6.675 F    et 13.350 F ;
 
-26 p. 100, pour la tranche de ressources comprise entre 12.540 F    et 25.080 F ;
+26 p. 100, pour la tranche de ressources comprise entre 13.350 F    et 26.700 F ;
 
-36 p. 100, pour la tranche de ressources supérieure à 25.080 F.
+36 p. 100, pour la tranche de ressources supérieure à 26.700 F.
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées des coefficients (ou nombre de parts) ci-après :
 
@@ -44,7 +44,7 @@ R
 
 K = 0,09 - -------------.
 
-127.300 x N
+133.665 x N
 
 Dans laquelle
 
@@ -52,6 +52,6 @@ R représente les ressources imposables déterminées conformément à l'article
 
 N représente le nombre de parts déterminé dans les conditions prévues au paragraphe précédent.
 
-III. - Les bénéficiaires sans personne à charge de l'allocation de logement en application de l'article L. 536 (1°) du code de la sécurité sociale au titre de la perception des allocations prénatales sont assimilés aux ménages sans enfant pour la détermination de la valeur des éléments K, L, C, Lo, N ci-dessus désignés et servant au calcul de la prestation qui leur est due.
+III. - Les bénéficiaires sans personne à charge de l'allocation de logement en application de l'article L. 527 (1°) du code de la sécurité sociale au titre de la perception des allocations prénatales sont assimilés aux ménages sans enfant pour la détermination de la valeur des éléments K, L, C, Lo, N ci-dessus désignés et servant au calcul de la prestation qui leur est due.
 
-IV. - Lorsque le montant de l'allocation de logement ainsi calculé est inférieur à 30 F par mois il n'est pas procédé à son versement.
+IV. - Lorsque le montant de l'allocation de logement ainsi calculé est inférieur à 40 F par mois il n'est pas procédé à son versement.
