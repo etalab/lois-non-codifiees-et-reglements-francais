@@ -952,7 +952,6 @@
 - [Arrêté du 26 octobre 1998 (MCCE9800460A)](arrete-du-26-octobre-1998-mcce9800460a)
 - [Arrêté du 26 mai 1998 (ECOI9800372A)](arrete-du-26-mai-1998-ecoi9800372a)
 - [Arrêté du 26 mai 1998 (MENA9801550A)](arrete-du-26-mai-1998-mena9801550a)
-- [Arrêté du 27 août 1998 (MEST9810945A)](arrete-du-27-aout-1998-mest9810945a)
 - [Arrêté du 27 avril 1998 (DEFD9801265A)](arrete-du-27-avril-1998-defd9801265a)
 - [Arrêté du 27 avril 1998 (ECOR9805007A)](arrete-du-27-avril-1998-ecor9805007a)
 - [Arrêté du 27 avril 1998 (MESN9821630A)](arrete-du-27-avril-1998-mesn9821630a)

@@ -1117,7 +1117,6 @@
 - [Arrêté du 25 janvier 1995 (MENE9500086A)](arrete-du-25-janvier-1995-mene9500086a)
 - [Arrêté du 25 juillet 1995 (AGRE9501485A)](arrete-du-25-juillet-1995-agre9501485a)
 - [Arrêté du 25 juillet 1995 (AGRE9501490A)](arrete-du-25-juillet-1995-agre9501490a)
-- [Arrêté du 25 juillet 1995 (AGRG9501483A)](arrete-du-25-juillet-1995-agrg9501483a)
 - [Arrêté du 25 octobre 1995 (ACVP9520058A)](arrete-du-25-octobre-1995-acvp9520058a)
 - [Arrêté du 25 octobre 1995 (ENVN9540345A)](arrete-du-25-octobre-1995-envn9540345a)
 - [Arrêté du 25 octobre 1995 (MENT9502406A)](arrete-du-25-octobre-1995-ment9502406a)
