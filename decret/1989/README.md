@@ -140,6 +140,7 @@
 - [Décret n°89-116 du 21 février 1989 (MAEJ8930010D)](decret-n89-116-du-21-fevrier-1989-maej8930010d)
 - [Décret n°89-117 du 21 février 1989 (MAEJ8930012D)](decret-n89-117-du-21-fevrier-1989-maej8930012d)
 - [Décret n°89-257 du 21 avril 1989 (ACVA8910004D)](decret-n89-257-du-21-avril-1989-acva8910004d)
+- [Décret n°89-260 du 21 avril 1989](decret-n89-260-du-21-avril-1989)
 - [Décret n°88-889 du 22 août 1988 (TEFT8803687D)](decret-n88-889-du-22-aout-1988-teft8803687d)
 - [Décret n°89-113 du 22 février 1989 (INTA8900030D)](decret-n89-113-du-22-fevrier-1989-inta8900030d)
 - [Décret n°89-775 du 23 octobre 1989 (MENN8902270D)](decret-n89-775-du-23-octobre-1989-menn8902270d)

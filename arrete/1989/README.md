@@ -83,6 +83,7 @@
 - [Arrêté du 9 mars 1989 (SPSP8900485A)](arrete-du-9-mars-1989-spsp8900485a)
 - [Arrêté du 9 mars 1989 (SPSS8900499A)](arrete-du-9-mars-1989-spss8900499a)
 - [Arrêté du 9 mai 1989 (MENK8970039A)](arrete-du-9-mai-1989-menk8970039a)
+- [Arrêté du 10 avril 1989 (AGRS8900687A)](arrete-du-10-avril-1989-agrs8900687a)
 - [Arrêté du 10 avril 1989 (TEFF8903322A)](arrete-du-10-avril-1989-teff8903322a)
 - [Arrêté du 10 avril 1989 (TEFT8903343A)](arrete-du-10-avril-1989-teft8903343a)
 - [Arrêté du 10 février 1989 (ECOC8800159A)](arrete-du-10-fevrier-1989-ecoc8800159a)
