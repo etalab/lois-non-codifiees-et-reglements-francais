@@ -12,4 +12,4 @@ Le coût des publications et des insertions dans la presse professionnelle ;
 
 Les dépenses afférentes aux informations adressées au domicile ou au cabinet des praticiens.
 
-Leur montant total est arrondi à la centaine de francs inférieure.
+Leur montant total est arrondi à la centaine de francs inférieure.    Lorsque la comptabilité de l'entreprise ne permet pas d'isoler les charges définies ci-dessus parmi celles de même nature afférentes à l'ensemble des spécialités pharmaceutiques, la répartition de ces charges s'effectue forfaitairement par application du rapport entre le chiffre d'affaires hors taxes réalisé en France en spécialités remboursables et le chiffre d'affaires hors taxes réalisé en France en spécialités pharmaceutiques. Ce rapport est exprimé en pourcentage arrondi, le cas échéant, au centième par défaut.
