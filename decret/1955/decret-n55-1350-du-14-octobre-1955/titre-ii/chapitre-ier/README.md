@@ -2,3 +2,4 @@
 
 - [Section II : Mentions en marge.](section-ii)
 - [Section III : Inscriptions en renouvellement.](section-iii)
+- [Section IV : Dispositions communes.](section-iv)
