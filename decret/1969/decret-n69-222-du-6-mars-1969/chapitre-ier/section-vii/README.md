@@ -20,6 +20,8 @@
 - [Article 34-6](article-34-6.md)
 - [Article 34-7](article-34-7.md)
 - [Article 35](article-35.md)
+- [Article 35-1](article-35-1.md)
+- [Article 35-2](article-35-2.md)
 - [Article 35-3](article-35-3.md)
 - [Article 35-4](article-35-4.md)
 - [Article 36](article-36.md)
