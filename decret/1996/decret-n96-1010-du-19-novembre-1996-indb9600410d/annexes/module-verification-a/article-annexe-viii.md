@@ -10,7 +10,7 @@ L'organisme habilité appose ou fait apposer son numéro d'identification sur l'
 
 Cette documentation contient, dans la mesure nécessaire à l'évaluation :
 
-- une description générale du type ;
+- une description générale du produit ;
 
 - des dessins de conception et de fabrication, ainsi que des schémas de composants, sous-ensembles, circuits, etc. ;
 
