@@ -74,6 +74,7 @@
 - [Décret n°2000-51 du 20 janvier 2000 (FPPA0010006D)](decret-n2000-51-du-20-janvier-2000-fppa0010006d)
 - [Décret n°2000-913 du 20 septembre 2000 (JUSB0010281D)](decret-n2000-913-du-20-septembre-2000-jusb0010281d)
 - [Décret n°2000-53 du 21 janvier 2000 (ECOP0000002D)](decret-n2000-53-du-21-janvier-2000-ecop0000002d)
+- [Décret n°2000-58 du 21 janvier 2000 (FPPA0010007D)](decret-n2000-58-du-21-janvier-2000-fppa0010007d)
 - [Décret n°99-1079 du 21 décembre 1999 (MESS9923699D)](decret-n99-1079-du-21-decembre-1999-mess9923699d)
 - [Décret n°99-1224 du 21 décembre 1999 (MENS9902633D)](decret-n99-1224-du-21-decembre-1999-mens9902633d)
 - [Décret n°99-1225 du 21 décembre 1999 (MENS9902632D)](decret-n99-1225-du-21-decembre-1999-mens9902632d)
