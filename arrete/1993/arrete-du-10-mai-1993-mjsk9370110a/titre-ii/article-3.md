@@ -1,21 +1,21 @@
 # Article 3
 
-Les candidats à l’examen probatoire du diplôme d’aspirant guide doivent être âgés de dix-huit ans au moins au 1er janvier de l’année de l’examen.
+Les candidats à l'examen probatoire du diplôme d'aspirant guide doivent être âgés de dix-huit ans révolus au 1er janvier de l'année de l'examen.
 
-Pour faire acte de candidature, les intéressés doivent déposer à la direction départementale de la jeunesse et des sports du lieu de leur domicile, deux mois au moins avant la date de l’examen, un dossier d’inscription comprenant les pièces suivantes :
+Les candidats doivent adresser au directeur de l'Ecole nationale de ski et d'alpinisme, deux mois au moins avant la date des épreuves, un dossier comprenant :
 
-1. Une demande d’inscription rédigée sur papier de format normalisé 21 x 29,7 accompagnée du montant du droit d’inscription en timbres fiscaux ;
+- une demande d'inscription établie sur un imprimé normalisé, comportant une photographie d'identité ;
 
-2. Une fiche individuelle d’état civil datant de moins de trois mois ;
+- une photocopie de la carte nationale d'identité, recto et verso ;
 
-3. Un extrait du casier judiciaire (bulletin n° 3) datant de moins de trois mois ;
+- une photocopie de l'attestation de recensement et du certificat individuel de participation à l'appel de préparation à la défense pour les Français de moins de vingt-cinq ans ;
 
-4. Un certificat médical d’aptitude fonctionnelle à la pratique et à l’enseignement de l’alpinisme datant de moins de trois mois ;
+- une attestation de formation aux premiers secours ;
 
-5. Deux exemplaires d’une liste de courses et escalades répondant aux exigences définies en annexe I ; l’original de cette liste sera adressé par le candidat au moment du dépôt de son dossier au directeur de l’Ecole nationale de ski et d’alpinisme ;
+- un certificat médical de non-contre-indication à la pratique et à l'enseignement de l'alpinisme datant de moins de trois mois à l'ouverture des épreuves ;
 
-6. Deux photographies d’identité ;
+- une photocopie d'identité ;
 
-7. Deux enveloppes timbrées, portant le nom, le prénom et l’adresse du candidat.
+- deux enveloppes affranchies, dont l'une de format 23 16 cm, au tarif d'un envoi de 20 à 50 grammes, portant mention du nom, du prénom et de l'adresse du candidat ;
 
-Après vérification, le dossier complet sera transmis à l’Ecole nationale de ski et d’alpinisme quarante-cinq jours au moins avant la date du début du stage.
+- une liste de courses et escalades établie conformément au modèle fixé par l'Ecole nationale de ski et d'alpinisme après avis de la section permanente de l'alpinisme du Conseil supérieur des sports de montagne.
