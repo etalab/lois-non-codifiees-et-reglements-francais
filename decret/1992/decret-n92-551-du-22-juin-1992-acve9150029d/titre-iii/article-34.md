@@ -1,0 +1,9 @@
+# Article 34
+
+Les stagiaires effectuent un stage d'un an. A l'issue du stage, ceux dont les services ont donné satisfaction sont titularisés.
+
+Les autres stagiaires peuvent, après avis de la commission administrative paritaire, être autorisés à effectuer un stage complémentaire d'une durée maximale d'un an. Si le stage complémentaire a été jugé satisfaisant, les intéressés sont titularisés.
+
+Les stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire et ceux dont le stage complémentaire n'a pas été jugé satisfaisant sont soit licenciés, soit, s'ils étaient déjà fonctionnaires, réintégrés dans leur corps, cadre d'emplois ou emploi d'origine.
+
+La durée du stage est prise en compte pour l'avancement dans la limite d'un an.

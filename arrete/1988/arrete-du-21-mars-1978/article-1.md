@@ -6,7 +6,7 @@ Prix témoins des logements-foyers
 
 1-1. Logements des résidents
 
-Jusqu'au 30 juin 1991
+Jusqu'au 30 juin 1992
 
 <table>
 <tr>
@@ -31,28 +31,28 @@ Jusqu'au 30 juin 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     253.785    :</td>
+<td> :  I et I'   :     266.045    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     315.735    :</td>
+<td> :  I bis     :     330.985    :</td>
 </tr>
 <tr>
-<td> :  II        :     372.625    :</td>
+<td> :  II        :     390.620    :</td>
 </tr>
 <tr>
-<td> :  III       :     490.075    :</td>
+<td> :  III       :     513.740    :</td>
 </tr>
 <tr>
-<td> :  IV        :     607.805    :</td>
+<td> :  IV        :     637.155    :</td>
 </tr>
 <tr>
-<td> :  V         :     727.140    :</td>
+<td> :  V         :     762.255    :</td>
 </tr>
 <tr>
-<td> :  VI        :     846.490    :</td>
+<td> :  VI        :     887.365    :</td>
 </tr>
 <tr>
-<td> :  VII       :     965.935    :</td>
+<td> :  VII       :   1 012.580    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -82,28 +82,28 @@ Jusqu'au 30 juin 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     229.725    :</td>
+<td> :  I et I'   :     235.815    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     286.585    :</td>
+<td> :  I bis     :     294.180    :</td>
 </tr>
 <tr>
-<td> :  II        :     337.120    :</td>
+<td> :  II        :     346.065    :</td>
 </tr>
 <tr>
-<td> :  III       :     443.140    :</td>
+<td> :  III       :     454.480    :</td>
 </tr>
 <tr>
-<td> :  IV        :     549.615    :</td>
+<td> :  IV        :     564.190    :</td>
 </tr>
 <tr>
-<td> :  V         :     657.565    :</td>
+<td> :  V         :     675.000    :</td>
 </tr>
 <tr>
-<td> :  VI        :     765.520    :</td>
+<td> :  VI        :     785.820    :</td>
 </tr>
 <tr>
-<td> :  VII       :     873.585    :</td>
+<td> :  VII       :     896.750    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -133,28 +133,28 @@ Jusqu'au 30 juin 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     216.665    :</td>
+<td> :  I et I'   :     219.700    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     271.715    :</td>
+<td> :  I bis     :     275.520    :</td>
 </tr>
 <tr>
-<td> :  II        :     317.710    :</td>
+<td> :  II        :     322.160    :</td>
 </tr>
 <tr>
-<td> :  III       :     412.215    :</td>
+<td> :  III       :     423.055    :</td>
 </tr>
 <tr>
-<td> :  IV        :     517.365    :</td>
+<td> :  IV        :     524.610    :</td>
 </tr>
 <tr>
-<td> :  V         :     619.000    :</td>
+<td> :  V         :     627.665    :</td>
 </tr>
 <tr>
-<td> :  VI        :     720.655    :</td>
+<td> :  VI        :     730.745    :</td>
 </tr>
 <tr>
-<td> :  VII       :     822.400    :</td>
+<td> :  VII       :     833.915    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -184,28 +184,28 @@ Jusqu'au 30 juin 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     268.625    :</td>
+<td> :  I et I'   :     281.600    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     368.425    :</td>
+<td> :  I bis     :     386.215    :</td>
 </tr>
 <tr>
-<td> :  II        :     422.565    :</td>
+<td> :  II        :     442.970    :</td>
 </tr>
 <tr>
-<td> :  III       :     543.310    :</td>
+<td> :  III       :     571.645    :</td>
 </tr>
 <tr>
-<td> :  IV        :     674.030    :</td>
+<td> :  IV        :     706.575    :</td>
 </tr>
 <tr>
-<td> :  V         :     804.835    :</td>
+<td> :  V         :     843.705    :</td>
 </tr>
 <tr>
-<td> :  VI        :     935.380    :</td>
+<td> :  VI        :     980.555    :</td>
 </tr>
 <tr>
-<td> :  VII       :   1.065.825    :</td>
+<td> :  VII       :   1.117.295    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -235,28 +235,28 @@ Jusqu'au 30 juin 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     240.920    :</td>
+<td> :  I et I'   :     247.310    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     331.210    :</td>
+<td> :  I bis     :     339.995    :</td>
 </tr>
 <tr>
-<td> :  II        :     378.640    :</td>
+<td> :  II        :     388.680    :</td>
 </tr>
 <tr>
-<td> :  III       :     488.120    :</td>
+<td> :  III       :     501.065    :</td>
 </tr>
 <tr>
-<td> :  IV        :     603.435    :</td>
+<td> :  IV        :     619.435    :</td>
 </tr>
 <tr>
-<td> :  V         :     720.535    :</td>
+<td> :  V         :     739.640    :</td>
 </tr>
 <tr>
-<td> :  VI        :     837.560    :</td>
+<td> :  VI        :     859.770    :</td>
 </tr>
 <tr>
-<td> :  VII       :     954.640    :</td>
+<td> :  VII       :     979.955    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -286,35 +286,35 @@ Jusqu'au 30 juin 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     223.010    :</td>
+<td> :  I et I'   :     226.130    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     307.360    :</td>
+<td> :  I bis     :     311.665    :</td>
 </tr>
 <tr>
-<td> :  II        :     349.175    :</td>
+<td> :  II        :     354.065    :</td>
 </tr>
 <tr>
-<td> :  III       :     449.905    :</td>
+<td> :  III       :     456.205    :</td>
 </tr>
 <tr>
-<td> :  IV        :     556.430    :</td>
+<td> :  IV        :     564.220    :</td>
 </tr>
 <tr>
-<td> :  V         :     664.545    :</td>
+<td> :  V         :     673.850    :</td>
 </tr>
 <tr>
-<td> :  VI        :     772.145    :</td>
+<td> :  VI        :     782.955    :</td>
 </tr>
 <tr>
-<td> :  VII       :     880.495    :</td>
+<td> :  VII       :     892.820    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
 </table>
 
-A partir du 1er juillet 1991
+A partir du 1er juillet 1992
 
 <table>
 <tr>
@@ -339,28 +339,28 @@ A partir du 1er juillet 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     262.370    :</td>
+<td> :  I et I'   :     269.715    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     326.415    :</td>
+<td> :  I bis     :     335.555    :</td>
 </tr>
 <tr>
-<td> :  II        :     385.225    :</td>
+<td> :  II        :     396.010    :</td>
 </tr>
 <tr>
-<td> :  III       :     506.645    :</td>
+<td> :  III       :     520.830    :</td>
 </tr>
 <tr>
-<td> :  IV        :     628.360    :</td>
+<td> :  IV        :     645.955    :</td>
 </tr>
 <tr>
-<td> :  V         :     751.730    :</td>
+<td> :  V         :     772.780    :</td>
 </tr>
 <tr>
-<td> :  VI        :     875.115    :</td>
+<td> :  VI        :     899.920    :</td>
 </tr>
 <tr>
-<td> :  VII       :     998.600    :</td>
+<td> :  VII       :   1 026.560    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -390,28 +390,28 @@ A partir du 1er juillet 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     232.560    :</td>
+<td> :  I et I'   :     239.070    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     290.120    :</td>
+<td> :  I bis     :     298.245    :</td>
 </tr>
 <tr>
-<td> :  II        :     341.285    :</td>
+<td> :  II        :     350.840    :</td>
 </tr>
 <tr>
-<td> :  III       :     448.610    :</td>
+<td> :  III       :     461.170    :</td>
 </tr>
 <tr>
-<td> :  IV        :     556.400    :</td>
+<td> :  IV        :     571.980    :</td>
 </tr>
 <tr>
-<td> :  V         :     665.680    :</td>
+<td> :  V         :     684.320    :</td>
 </tr>
 <tr>
-<td> :  VI        :     774.970    :</td>
+<td> :  VI        :     796.670    :</td>
 </tr>
 <tr>
-<td> :  VII       :     884.370    :</td>
+<td> :  VII       :     909.130    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -441,28 +441,28 @@ A partir du 1er juillet 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     216.665    :</td>
+<td> :  I et I'   :     222.730    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     271.715    :</td>
+<td> :  I bis     :     279.325    :</td>
 </tr>
 <tr>
-<td> :  II        :     317.710    :</td>
+<td> :  II        :     326.605    :</td>
 </tr>
 <tr>
-<td> :  III       :     417.215    :</td>
+<td> :  III       :     428.895    :</td>
 </tr>
 <tr>
-<td> :  IV        :     517.365    :</td>
+<td> :  IV        :     531.850    :</td>
 </tr>
 <tr>
-<td> :  V         :     619.000    :</td>
+<td> :  V         :     636.330    :</td>
 </tr>
 <tr>
-<td> :  VI        :     720.655    :</td>
+<td> :  VI        :     740.835    :</td>
 </tr>
 <tr>
-<td> :  VII       :     822.400    :</td>
+<td> :  VII       :     845.425    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -492,28 +492,28 @@ A partir du 1er juillet 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     277.710    :</td>
+<td> :  I et I'   :     285.845    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     380.885    :</td>
+<td> :  I bis     :     391.550    :</td>
 </tr>
 <tr>
-<td> :  II        :     436.855    :</td>
+<td> :  II        :     449.085    :</td>
 </tr>
 <tr>
-<td> :  III       :     563.750    :</td>
+<td> :  III       :     579.535    :</td>
 </tr>
 <tr>
-<td> :  IV        :     696.820    :</td>
+<td> :  IV        :     716.330    :</td>
 </tr>
 <tr>
-<td> :  V         :     832.055    :</td>
+<td> :  V         :     855.355    :</td>
 </tr>
 <tr>
-<td> :  VI        :     967.015    :</td>
+<td> :  VI        :     994.090    :</td>
 </tr>
 <tr>
-<td> :  VII       :   1 101.870    :</td>
+<td> :  VII       :   1 132.720    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -543,28 +543,28 @@ A partir du 1er juillet 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     243.895    :</td>
+<td> :  I et I'   :     250.725    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     335.300    :</td>
+<td> :  I bis     :     344.690    :</td>
 </tr>
 <tr>
-<td> :  II        :     383.315    :</td>
+<td> :  II        :     394.050    :</td>
 </tr>
 <tr>
-<td> :  III       :     494.145    :</td>
+<td> :  III       :     507.980    :</td>
 </tr>
 <tr>
-<td> :  IV        :     610.885    :</td>
+<td> :  IV        :     627.990    :</td>
 </tr>
 <tr>
-<td> :  V         :     729.430    :</td>
+<td> :  V         :     749.855    :</td>
 </tr>
 <tr>
-<td> :  VI        :     847.900    :</td>
+<td> :  VI        :     871.640    :</td>
 </tr>
 <tr>
-<td> :  VII       :     966.425    :</td>
+<td> :  VII       :     993.485    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -594,28 +594,28 @@ A partir du 1er juillet 1991
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I et I'   :     223.010    :</td>
+<td> :  I et I'   :     229.255    :</td>
 </tr>
 <tr>
-<td> :  I bis     :     307.360    :</td>
+<td> :  I bis     :     315.965    :</td>
 </tr>
 <tr>
-<td> :  II        :     349.175    :</td>
+<td> :  II        :     358.950    :</td>
 </tr>
 <tr>
-<td> :  III       :     449.905    :</td>
+<td> :  III       :     462.500    :</td>
 </tr>
 <tr>
-<td> :  IV        :     556.430    :</td>
+<td> :  IV        :     572.010    :</td>
 </tr>
 <tr>
-<td> :  V         :     664.545    :</td>
+<td> :  V         :     683.150    :</td>
 </tr>
 <tr>
-<td> :  VI        :     772.145    :</td>
+<td> :  VI        :     793.765    :</td>
 </tr>
 <tr>
-<td> :  VII       :     880.495    :</td>
+<td> :  VII       :     905.150    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -624,7 +624,7 @@ A partir du 1er juillet 1991
 
 1-2. Foyers soleil
 
-Jusqu'au 30 juin 1990
+Jusqu'au 30 juin 1992
 
 <table>
 <tr>
@@ -649,28 +649,28 @@ Jusqu'au 30 juin 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      13.120    :</td>
+<td> :  I         :      13.750    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      13.120    :</td>
+<td> :  I bis     :      13.750    :</td>
 </tr>
 <tr>
-<td> :  II        :      22.965    :</td>
+<td> :  II        :      24.075    :</td>
 </tr>
 <tr>
-<td> :  III       :      32.820    :</td>
+<td> :  III       :      34.405    :</td>
 </tr>
 <tr>
-<td> :  IV        :      42.665    :</td>
+<td> :  IV        :      44.720    :</td>
 </tr>
 <tr>
-<td> :  V         :      52.495    :</td>
+<td> :  V         :      55.030    :</td>
 </tr>
 <tr>
-<td> :  VI        :      62.355    :</td>
+<td> :  VI        :      65.360    :</td>
 </tr>
 <tr>
-<td> :  VII       :      72.205    :</td>
+<td> :  VII       :      75.695    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -700,28 +700,28 @@ Jusqu'au 30 juin 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      12.335    :</td>
+<td> :  I         :      12.665    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      12.335    :</td>
+<td> :  I bis     :      12.665    :</td>
 </tr>
 <tr>
-<td> :  II        :      21.595    :</td>
+<td> :  II        :      22.170    :</td>
 </tr>
 <tr>
-<td> :  III       :      30.855    :</td>
+<td> :  III       :      31.670    :</td>
 </tr>
 <tr>
-<td> :  IV        :      40.110    :</td>
+<td> :  IV        :      41.175    :</td>
 </tr>
 <tr>
-<td> :  V         :      49.380    :</td>
+<td> :  V         :      50.690    :</td>
 </tr>
 <tr>
-<td> :  VI        :      58.625    :</td>
+<td> :  VI        :      60.180    :</td>
 </tr>
 <tr>
-<td> :  VII       :      67.890    :</td>
+<td> :  VII       :      69.685    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -751,28 +751,28 @@ Jusqu'au 30 juin 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      11.455    :</td>
+<td> :  I         :      11.615    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      11.455    :</td>
+<td> :  I bis     :      116155    :</td>
 </tr>
 <tr>
-<td> :  II        :      20.030    :</td>
+<td> :  II        :      20.310    :</td>
 </tr>
 <tr>
-<td> :  III       :      28.630    :</td>
+<td> :  III       :      29.030    :</td>
 </tr>
 <tr>
-<td> :  IV        :      37.210    :</td>
+<td> :  IV        :      37.730    :</td>
 </tr>
 <tr>
-<td> :  V         :      45.795    :</td>
+<td> :  V         :      46.435    :</td>
 </tr>
 <tr>
-<td> :  VI        :      54.390    :</td>
+<td> :  VI        :      55.150    :</td>
 </tr>
 <tr>
-<td> :  VII       :      62.985    :</td>
+<td> :  VII       :      63.865    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -802,28 +802,28 @@ Jusqu'au 30 juin 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      14.100    :</td>
+<td> :  I         :      15.910    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      14.100    :</td>
+<td> :  I bis     :      15.910    :</td>
 </tr>
 <tr>
-<td> :  II        :      24.655    :</td>
+<td> :  II        :      29.225    :</td>
 </tr>
 <tr>
-<td> :  III       :      35.230    :</td>
+<td> :  III       :      39.770    :</td>
 </tr>
 <tr>
-<td> :  IV        :      45.795    :</td>
+<td> :  IV        :      51.695    :</td>
 </tr>
 <tr>
-<td> :  V         :      59.170    :</td>
+<td> :  V         :      63.630    :</td>
 </tr>
 <tr>
-<td> :  VI        :      66.940    :</td>
+<td> :  VI        :      75.575    :</td>
 </tr>
 <tr>
-<td> :  VII       :      77.500    :</td>
+<td> :  VII       :      87.500    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -853,28 +853,28 @@ Jusqu'au 30 juin 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      13.755    :</td>
+<td> :  I         :      14.475    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      13.755    :</td>
+<td> :  I bis     :      14.475    :</td>
 </tr>
 <tr>
-<td> :  II        :      24.050    :</td>
+<td> :  II        :      25.310    :</td>
 </tr>
 <tr>
-<td> :  III       :      34.370    :</td>
+<td> :  III       :      36.165    :</td>
 </tr>
 <tr>
-<td> :  IV        :      44.675    :</td>
+<td> :  IV        :      47.010    :</td>
 </tr>
 <tr>
-<td> :  V         :      57.730    :</td>
+<td> :  V         :      60.740    :</td>
 </tr>
 <tr>
-<td> :  VI        :      65.305    :</td>
+<td> :  VI        :      68.720    :</td>
 </tr>
 <tr>
-<td> :  VII       :      75.615    :</td>
+<td> :  VII       :      79.560    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -910,29 +910,29 @@ Jusqu'au 30 juin 1990
 <td> :  I bis     :      12.790    :</td>
 </tr>
 <tr>
-<td> :  II        :      22.395    :</td>
+<td> :  II        :      22.710    :</td>
 </tr>
 <tr>
-<td> :  III       :      31.990    :</td>
+<td> :  III       :      32.440    :</td>
 </tr>
 <tr>
-<td> :  IV        :      41.590    :</td>
+<td> :  IV        :      42.170    :</td>
 </tr>
 <tr>
-<td> :  V         :      51.180    :</td>
+<td> :  V         :      51.895    :</td>
 </tr>
 <tr>
-<td> :  VI        :      60.785    :</td>
+<td> :  VI        :      61.635    :</td>
 </tr>
 <tr>
-<td> :  VII       :      70.370    :</td>
+<td> :  VII       :      71.355    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
 </tr>
 </table>
 
-A partir du 1er juillet 1990
+A partir du 1er juillet 1992
 
 <table>
 <tr>
@@ -957,28 +957,28 @@ A partir du 1er juillet 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      13.560    :</td>
+<td> :  I         :      13.940    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      13.560    :</td>
+<td> :  I bis     :      13.940    :</td>
 </tr>
 <tr>
-<td> :  II        :      23.745    :</td>
+<td> :  II        :      24.410    :</td>
 </tr>
 <tr>
-<td> :  III       :      33.930    :</td>
+<td> :  III       :      34.880    :</td>
 </tr>
 <tr>
-<td> :  IV        :      44.105    :</td>
+<td> :  IV        :      45.340    :</td>
 </tr>
 <tr>
-<td> :  V         :      54.270    :</td>
+<td> :  V         :      55.790    :</td>
 </tr>
 <tr>
-<td> :  VI        :      64.460    :</td>
+<td> :  VI        :      66.265    :</td>
 </tr>
 <tr>
-<td> :  VII       :      74.650    :</td>
+<td> :  VII       :      76.740    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -1008,28 +1008,28 @@ A partir du 1er juillet 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      12.490    :</td>
+<td> :  I         :      12.840    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      12.490    :</td>
+<td> :  I bis     :      12.840    :</td>
 </tr>
 <tr>
-<td> :  II        :      21.865    :</td>
+<td> :  II        :      22.475    :</td>
 </tr>
 <tr>
-<td> :  III       :      31.235    :</td>
+<td> :  III       :      32.110    :</td>
 </tr>
 <tr>
-<td> :  IV        :      40.605    :</td>
+<td> :  IV        :      41.740    :</td>
 </tr>
 <tr>
-<td> :  V         :      49.990    :</td>
+<td> :  V         :      51.390    :</td>
 </tr>
 <tr>
-<td> :  VI        :      59.350    :</td>
+<td> :  VI        :      51.010    :</td>
 </tr>
 <tr>
-<td> :  VII       :      68.725    :</td>
+<td> :  VII       :      70.650    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -1059,28 +1059,28 @@ A partir du 1er juillet 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      11.455    :</td>
+<td> :  I         :      11.775    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      11.455    :</td>
+<td> :  I bis     :      11.775    :</td>
 </tr>
 <tr>
-<td> :  II        :      20.030    :</td>
+<td> :  II        :      20.590    :</td>
 </tr>
 <tr>
-<td> :  III       :      28.630    :</td>
+<td> :  III       :      29.430    :</td>
 </tr>
 <tr>
-<td> :  IV        :      37.210    :</td>
+<td> :  IV        :      38.250    :</td>
 </tr>
 <tr>
-<td> :  V         :      45.795    :</td>
+<td> :  V         :      47.075    :</td>
 </tr>
 <tr>
-<td> :  VI        :      54.390    :</td>
+<td> :  VI        :      55.915    :</td>
 </tr>
 <tr>
-<td> :  VII       :      62.985    :</td>
+<td> :  VII       :      64.750    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -1110,28 +1110,28 @@ A partir du 1er juillet 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      15.690    :</td>
+<td> :  I         :      16.130    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      15.690    :</td>
+<td> :  I bis     :      16.130    :</td>
 </tr>
 <tr>
-<td> :  II        :      28.820    :</td>
+<td> :  II        :      29.625    :</td>
 </tr>
 <tr>
-<td> :  III       :      39.220    :</td>
+<td> :  III       :      40.320    :</td>
 </tr>
 <tr>
-<td> :  IV        :      50.980    :</td>
+<td> :  IV        :      52.405    :</td>
 </tr>
 <tr>
-<td> :  V         :      62.750    :</td>
+<td> :  V         :      64.505    :</td>
 </tr>
 <tr>
-<td> :  VI        :      74.530    :</td>
+<td> :  VI        :      76.615    :</td>
 </tr>
 <tr>
-<td> :  VII       :      86.290    :</td>
+<td> :  VII       :      88.705    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -1161,28 +1161,28 @@ A partir du 1er juillet 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      14.275    :</td>
+<td> :  I         :      14.675    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      14.275    :</td>
+<td> :  I bis     :      14.675    :</td>
 </tr>
 <tr>
-<td> :  II        :      24.960    :</td>
+<td> :  II        :      25.660    :</td>
 </tr>
 <tr>
-<td> :  III       :      35.665    :</td>
+<td> :  III       :      36.665    :</td>
 </tr>
 <tr>
-<td> :  IV        :      46.360    :</td>
+<td> :  IV        :      47.660    :</td>
 </tr>
 <tr>
-<td> :  V         :      59.900    :</td>
+<td> :  V         :      61.575    :</td>
 </tr>
 <tr>
-<td> :  VI        :      67.770    :</td>
+<td> :  VI        :      69.670    :</td>
 </tr>
 <tr>
-<td> :  VII       :      78.460    :</td>
+<td> :  VII       :      80.655    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
@@ -1212,28 +1212,28 @@ A partir du 1er juillet 1990
 <td> :------------:----------------:</td>
 </tr>
 <tr>
-<td> :  I         :      12.790    :</td>
+<td> :  I         :      13.150    :</td>
 </tr>
 <tr>
-<td> :  I bis     :      12.790    :</td>
+<td> :  I bis     :      13.150    :</td>
 </tr>
 <tr>
-<td> :  II        :      22.395    :</td>
+<td> :  II        :      23.020    :</td>
 </tr>
 <tr>
-<td> :  III       :      31.990    :</td>
+<td> :  III       :      32.885    :</td>
 </tr>
 <tr>
-<td> :  IV        :      41.590    :</td>
+<td> :  IV        :      42.755    :</td>
 </tr>
 <tr>
-<td> :  V         :      51.180    :</td>
+<td> :  V         :      52.615    :</td>
 </tr>
 <tr>
-<td> :  VI        :      60.785    :</td>
+<td> :  VI        :      62.485    :</td>
 </tr>
 <tr>
-<td> :  VII       :      70.370    :</td>
+<td> :  VII       :      72.340    :</td>
 </tr>
 <tr>
 <td> :                             :</td>
