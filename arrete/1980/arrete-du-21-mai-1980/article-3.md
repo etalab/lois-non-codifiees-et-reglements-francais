@@ -1,3 +1,3 @@
 # Article 3
 
-La demande devra en être présentée, sous peine de forclusion, dans un délai de six mois suivant soit la mutation du bénéficiaire, soit la cessation d'activité de son conjoint.
+Les gaz de combustion des installations visées à l'article 1er du présent arrêté ne doivent pas contenir plus de 4,3 milligrammes de plomb par kilowatt-heure (5 milligrammes de plomb) par thermie) de combustible consommé.

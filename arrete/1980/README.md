@@ -3,6 +3,7 @@
 - [Arrêté du 1 février 1980](arrete-du-1-fevrier-1980)
 - [Arrêté du 3 avril 1980](arrete-du-3-avril-1980)
 - [Arrêté du 4 février 1980](arrete-du-4-fevrier-1980)
+- [Arrêté du 4 juin 1980](arrete-du-4-juin-1980)
 - [Arrêté du 5 mars 1980](arrete-du-5-mars-1980)
 - [Arrêté du 6 mars 1980](arrete-du-6-mars-1980)
 - [Arrêté du 6 mai 1980](arrete-du-6-mai-1980)
