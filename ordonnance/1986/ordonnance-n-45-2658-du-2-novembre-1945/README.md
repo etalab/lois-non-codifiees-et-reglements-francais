@@ -2,7 +2,6 @@
 
 - [Chapitre 1er : Dispositions générales concernant l'entrée et le séjour des étrangers en France.](chapitre-1er)
 - [CHAPITRE Ier : DISPOSITIONS GENERALES CONCERNANT L'ENTREE ET LE SEJOUR DES ETRANGERS EN FRANCE.](chapitre-ier)
-- [Chapitre 2 : Des différentes catégories d'étrangers d'après leur séjour en france](chapitre-2)
 - [CHAPITRE II : DES DIFFERENTES CATEGORIES D'ETRANGERS SELON LES TITRES QU'ILS DETIENNENT](chapitre-ii)
 - [Chapitre 3 : Pénalités.](chapitre-3)
 - [CHAPITRE III : PENALITES.](chapitre-iii)
@@ -11,7 +10,6 @@
 - [Chapitre 5 bis : Dispositions communes à la reconduite à la frontière et à l'expulsion.](chapitre-5-bis)
 - [CHAPITRE V bis : DISPOSITIONS COMMUNES A LA RECONDUITE A LA FRONTIERE ET A L'EXPULSION.](chapitre-v-bis)
 - [Chapitre 6 : Du regroupement familial.](chapitre-6)
-- [CHAPITRE VI : DISPOSITIONS DIVERSES.](chapitre-vi)
 - [Chapitre 7 : Des demandeurs d'asile.](chapitre-7)
 - [CHAPITRE VII : DES DEMANDEURS D'ASILE.](chapitre-vii)
 - [Chapitre 8 : Dispositions diverses.](chapitre-8)
