@@ -6,11 +6,17 @@ Un double de l'autorisation est joint à l'ordonnance ou au mandat, à titre de 
 
 L'autorisation est délivrée sur un document qui doit être conforme à un modèle fixé par arrêté du ministre chargé du budget.
 
-II. - La lettre de change-relevé est payable à une échéance postérieure de trente, quarante, cinquante ou soixante jours à la date d'émission de l'autorisation.
+II.  a) En ce qui concerne les marchés publics de l'Etat et de ses établissements publics autres que ceux ayant le caractère industriel et commercial, la lettre de change-relevé est payable trente ou trente-cinq jours après la date d'émission de l'autorisation ;
 
-Il ne peut y avoir modification conventionnelle de l'échéance de la lettre de change-relevé.
+b) En ce qui concerne les marchés publics des autres organismes publics, la lettre de change-relevé est payable trente, quarante, cinquante ou soixante jours après la date d'émission de l'autorisation.
 
-III. - Le comptable n'est pas tenu de régler à l'échéance la lettre de change-relevé s'il n'a pas reçu le dossier de mandatement vingt et un jours au moins avant ladite échéance.
+Il ne peut y avoir modification conventionnelle de l'échéance de la lettre de change-relevé visée au a et b ci-dessus.
+
+III.   Le comptable n'est pas tenu de régler à l'échéance la lettre de change-relevé s'il n'a pas reçu le dossier de mandatement :
+
+a) Dix-huit jours au moins avant ladite échéance lorsqu'il s'agit d'un marché public de l'Etat ou de ses établissements publics autres que ceux ayant le caractère industriel et commercial ;
+
+b) Vingt et un jours au moins avant ladite échéance lorsqu'il s'agit d'un marché public des autres organismes publics.
 
 Il en est de même en cas de réception, moins de cinq jours ouvrés avant l'échéance, d'un nouveau dossier de mandatement ou d'un ordre de réquisition consécutifs à une suspension de paiement.
 
