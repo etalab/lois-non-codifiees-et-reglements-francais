@@ -1,0 +1,5 @@
+# Article 11
+
+Est interdite, à peine de nullité, l'acquisition, la prise de contrôle ou la prise en location-gérance d'une publication quotidienne imprimée d'information politique et générale lorsque cette opération a pour effet de permettre à une personne physique ou morale ou à un groupement de personnes physiques ou morales de posséder, de contrôler, directement ou indirectement, ou d'éditer en location-gérance des publications quotidiennes imprimées d'information politique et générale dont le total de la diffusion excède 30 p. 100 de la diffusion sur le territoire national de toutes les publications quotidiennes imprimées de même nature. Cette diffusion est appréciée sur les douze derniers mois connus précédant la date d'acquisition, de prise de contrôle ou de prise en location-gérance.
+
+Le contrôle mentionné à l'alinéa précédent s'apprécie au regard des critères figurant à l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales ou s'entend de toute situation dans laquelle une personne physique ou morale ou un groupement de personnes physiques ou morales aurait placé une publication sous son autorité ou sa dépendance.

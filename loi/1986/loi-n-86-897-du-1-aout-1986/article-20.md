@@ -1,0 +1,3 @@
+# Article 20
+
+Les sociétés éditrices, dont l'objet principal est la mise à la disposition du public ou de catégories de publics de services définis à l'article 77 de la loi n° 82-652 du 29 juillet 1982 précitée et dont les actions ne sont pas nominatives, sont tenues de publier un mois au plus aprés la promulgation de la présente loi, dans un journal d'annonces légales, un avis aux porteurs d'actions les invitant à mettre leurs titres sous la forme nominative selon les modalités prévues au I de l'article 94 de la loi de finances pour 1982, n° 81-1160 du 30 décembre 1981, modifié par l'article 111 de la loi de finances pour 1984, n° 83-1179 du 29 décembre 1983.

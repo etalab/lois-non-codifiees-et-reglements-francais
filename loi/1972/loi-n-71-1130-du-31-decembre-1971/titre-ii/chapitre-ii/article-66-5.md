@@ -1,3 +1,3 @@
 # Article 66-5
 
-Les consultations adressées par un avocat à son client et les correspondances échangées entre le client et son avocat sont couvertes par le secret professionnel.
+En toute matière les consultations adressées par un avocat à son client ou destinées à celui-ci et les correspondances échangées entre le client et son avocat sont couvertes par le secret professionnel.

@@ -8,6 +8,7 @@
 - [Loi n° 89-466 du 10 juillet 1989 (FPPX8900050L)](loi-n-89-466-du-10-juillet-1989-fppx8900050l)
 - [Loi n° 89-469 du 10 juillet 1989 (EQUX8900038L)](loi-n-89-469-du-10-juillet-1989-equx8900038l)
 - [Loi n° 89-548 du 2 août 1989 (INTX8900060L)](loi-n-89-548-du-2-aout-1989-intx8900060l)
+- [Loi n° 89-874 du 1 décembre 1989 (MCCX8800164L)](loi-n-89-874-du-1-decembre-1989-mccx8800164l)
 - [Loi n° 89-935 du 29 décembre 1989 (ECOX8900115L)](loi-n-89-935-du-29-decembre-1989-ecox8900115l)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
 - [Loi n°89-432 du 28 juin 1989 (SPOX8800141L)](loi-n89-432-du-28-juin-1989-spox8800141l)

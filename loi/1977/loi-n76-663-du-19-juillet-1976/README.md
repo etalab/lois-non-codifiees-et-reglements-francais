@@ -4,6 +4,7 @@
 - [TITRE II : Dispositions applicables aux installations soumises à autorisation](titre-ii)
 - [TITRE III : Dispositions applicables aux installations soumises à déclaration](titre-iii)
 - [TITRE IV : Dispositions applicables à toutes les installations classée](titre-iv)
+- [TITRE IV BIS :Dispositions applicables aux exploitations de carrières.](titre-iv-bis)
 - [TITRE V : Dispositions financières](titre-v)
 - [TITRE VI : Sanctions pénales](titre-vi)
 - [TITRE VII : Sanctions administratives](titre-vii)

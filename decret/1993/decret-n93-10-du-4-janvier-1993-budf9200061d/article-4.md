@@ -1,0 +1,3 @@
+# Article 4
+
+Comme suite au décret n° 92-1431 du 30 décembre 1992 fixant les modalités de transfert des compétences de la direction générale des impôts à la direction générale des douanes et droits indirects en matière de contributions indirectes à compter du 1er janvier 1993, seront également applicables ou mis en oeuvre par la direction générale des douanes et droits indirects à partir de cette date, pour leurs dispositions relatives aux matières transférées, les articles suivants du livre des procédures fiscales : art. R. 24-2, R. 24-3, R. 247-2, R. 247-6, R. 247-7, R. 247-8, R. 247-9, R. 247-11, R. 277-3, R. 277-4, R. 277-5 et R. 277-6.

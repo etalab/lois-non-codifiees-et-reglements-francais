@@ -38,10 +38,10 @@ Le calcul de la taxe en fonction des paramètres ci-dessus est établi comme sui
 <td> : 1 et :          :         :</td>
 </tr>
 <tr>
-<td> : (*])  : 24 X (F) : 36 X (F):</td>
+<td> : (*])  : 12 X (F) :  6 X (F):</td>
 </tr>
 <tr>
-<td> :  2   :  6 X (F) :  9 X (F):</td>
+<td> :  2   :  4 X (F) : 18 X (F):</td>
 </tr>
 <tr>
 <td> :  3   :  3 X (F) :4,5 X (F):</td>

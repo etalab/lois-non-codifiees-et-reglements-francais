@@ -8,5 +8,6 @@
 - [Titre VI : Hygiène et sécurité - Service médical](titre-vi)
 - [Titre VII : Des organismes et moyens d'exécution](titre-vii)
 - [Titre VIII : Des différends du travail](titre-viii)
+- [Titre VIII bis : De la formation professionnelle](titre-viii-bis)
 - [Titre IX : Pénalités.](titre-ix)
 - [Titre X : Dispositions transitoires.](titre-x)

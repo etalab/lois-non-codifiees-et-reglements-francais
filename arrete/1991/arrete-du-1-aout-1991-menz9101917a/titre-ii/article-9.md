@@ -11,3 +11,5 @@ L'attestation de formation spécialisée approfondie est délivrée au candidat,
 - de la commission mentionnée à l'article 8 de l'arrêté du 4 mai 1988 fixant la réglementation des diplômes d'études spécialisées complémentaires de médecine en ce qui concerne les attestations de formation spécialisée approfondie délivrées avec mention de la spécialité d'un diplôme d'études spécialisées complémentaires de médecine ;
 
 - de la commission mentionnée à l'article 8 de l'arrêté du 29 avril 1988 fixant la réglementation et la liste des diplômes d'études spécialisées complémentaires de biologie médicale, en ce qui concerne les attestations de formation spécialisée approfondie délivrées avec mention de la spécialité d'un diplôme d'études spécialisées complémentaires de biologie médicale.
+
+Les attestations de formation spécialisée approfondie délivrées précisent le nombre et la nature des semestres validés par leur titulaire.

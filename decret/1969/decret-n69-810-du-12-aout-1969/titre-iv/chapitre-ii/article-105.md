@@ -1,3 +1,7 @@
 # Article 105
 
-Le fait pour un syndic de ne pas déférer dans un délai normal aux injonctions prévues aux articles 93, 94 et 98 (alinéa 3), constitue une faute passible de sanction disciplinaire. L'action est intentée directement devant la chambre nationale de discipline [*compétence*].
+La décision de la chambre nationale est notifiée par le secrétaire à l'intéressé, au procureur général, au commissaire du Gouvernement, au président de la compagnie nationale et au président de la compagnie régionale.
+
+Cette notification est faite dans les conditions prévues à l'article 99.
+
+L'auteur de la plainte est avisé de la décision.
