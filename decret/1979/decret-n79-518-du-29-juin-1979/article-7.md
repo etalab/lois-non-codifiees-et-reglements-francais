@@ -1,0 +1,5 @@
+# Article 7
+
+Lorsqu'une demande de concession d'endigage entre dans le champ d'application de l'article 5 et que la concession constitue un élément d'une opération qui doit faire, par ailleurs, l'objet d'une enquête publique au titre d'une législation autre que celle du domaine public maritime, cette enquête peut être menée conjointement avec celle prévue à l'article 5. Dans ce cas, le dossier [*contenu*] soumis à l'enquête doit comporter, outre les documents énumérés au deuxième alinéa de l'article 5, tous ceux qui sont exigés en application de la législation en cause. L'avis de mise à l'enquête doit préciser les différents objets de celle-ci.
+
+Toutefois, lorsque la concession d'endigage constitue un élément d'une opération ayant fait, avant la date de publication du présent décret, l'objet d'une déclaration d'utilité publique, les dispositions de l'article 5 ne s'appliquent pas dès lors que le dossier soumis à l'enquête publique préalable à la déclaration d'utilité publique a comporté des documents faisant apparaître les caractéristiques générales de l'ouvrage et son emprise sur le domaine public maritime.

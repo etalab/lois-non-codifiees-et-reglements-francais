@@ -50,5 +50,6 @@
 - [Arrêté du 28 mars 1979](arrete-du-28-mars-1979)
 - [Arrêté du 28 mai 1979](arrete-du-28-mai-1979)
 - [Arrêté du 29 janvier 1979](arrete-du-29-janvier-1979)
+- [Arrêté du 30 juin 1979](arrete-du-30-juin-1979)
 - [Arrêté du 30 mars 1979](arrete-du-30-mars-1979)
 - [Arrêté du 31 mai 1979](arrete-du-31-mai-1979)

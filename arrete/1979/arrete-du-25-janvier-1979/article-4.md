@@ -1,5 +1,3 @@
 # Article 4
 
-La bande d'accès latérale prévue à côté des places de stationnement automobile aménagées pour les personnes handicapées doit avoir une largeur d'au moins de 0,80 mètre sans que la largeur totale de l'emplacement puisse être inférieure à 3,30 mètres.
-
-Les emplacements réservés sont signalisés.
+Le présent arrêté est applicable à partir du 1er juillet 1979, date à laquelle l'arrêté du 23 décembre 1977 susvisé est abrogé.
