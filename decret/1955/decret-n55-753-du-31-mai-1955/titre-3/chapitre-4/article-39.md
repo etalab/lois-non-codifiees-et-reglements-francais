@@ -6,6 +6,4 @@ Peuvent adhérer à l'assurance volontaire vieillesse gérée par le régime de 
 
 2° Les personnes mentionnées à l'article 1122-8 du code rural qui, ayant exercé en dernier lieu une des professions visées au 1° ci-dessus et ne pouvant prétendre en raison de leur âge aux prestations de vieillesse, n'exercent aucune activité professionnelle susceptible de les assujettir à un régime de sécurité sociale.
 
-Les personnes mentionnées aux 1° et 2° ci-dessus peuvent également demander l'adhésion à l'assurance volontaire vieillesse visée au premier alinéa, de leur conjoint et des membres de leur famille définis à l'article 1122-1 du code rural, sous réserve que les intéressés remplissent les conditions prévues par les dispositions susvisées.
-
-L'adhésion à l'assurance volontaire vieillesse permet l'adhésion au régime complémentaire d'assurance vieillesse facultatif, institué en application de l'article 1122-7 du code rural.
+Les personnes mentionnées aux 1° et 2° ci-dessus peuvent également demander l'adhésion à l'assurance volontaire vieillesse visée au premier alinéa de leur conjoint mentionné aux articles L. 732-34 ou L. 732-35 du code rural et des membres de leur famille définis audit article L. 732-34, sous réserve que les intéressés remplissent les conditions prévues par les dispositions susvisées.

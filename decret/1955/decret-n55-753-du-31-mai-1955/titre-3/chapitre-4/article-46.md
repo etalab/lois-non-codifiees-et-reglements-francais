@@ -1,7 +1,7 @@
 # Article 46
 
-Sans préjudice des dispositions de l'article 9-II du décret n° 90-498 du 21 juin 1990, les cotisations dues par les assurés volontaires sont calculées sur le revenu de la catégorie de cotisations dans laquelle l'assuré est classé, déterminé conformément aux dispositions de l'article 43 ci-dessus.
+Sans préjudice des dispositions du II de l'article 14 du décret n° 94-690 du 9 août 1994 relatif au calcul des cotisations sociales dues au régime de protection sociale des personnes non salariées des professions agricoles et assises sur les revenus mentionnés à l'article 1003-12 (L. 731-14 à L. 731-21) du code rural, les cotisations dues par les assurés volontaires sont calculées sur le revenu de la catégorie dans laquelle l'assuré est classé, déterminé conformément aux dispositions de l'article 43. Toutefois, la cotisation mentionnée au d de l'article 45, ainsi que la cotisation mentionnée au e du même article lorsqu'elle concerne un aide familial majeur ou un conjoint collaborateur, est assise sur l'assiette minimum déterminée au II de l'article 14 du décret du 9 août 1994 précité.
 
-Lorsque les cotisations dues au régime obligatoire seront intégralement assises sur les revenus prévus à l'article 1003-12 dudit code, les taux applicables pour le calcul des cotisations de l'assurance volontaire seront ceux en vigueur dans le régime obligatoire. A titre transitoire, les taux des cotisations de l'assurance volontaire seront fixés chaque année par le décret relatif au financement du régime de protection sociale des personnes non salariées des professions agricoles.
+Les taux applicables pour le calcul des cotisations de l'assurance volontaire sont ceux en vigueur dans le régime obligatoire.
 
-Les cotisations d'assurance volontaire vieillesse sont calculées annuellement.
+Les cotisations d'assurance volontaire sont calculées annuellement.

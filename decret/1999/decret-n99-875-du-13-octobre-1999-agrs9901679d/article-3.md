@@ -11,5 +11,3 @@ II. - Pour les assurés qui justifient d'une durée d'assurance inférieure à t
 - de 10 % pour chacune des trois années suivantes ;
 
 - de 40 % pour la sixième année.
-
-Il n'est pas appliqué de coefficient de minoration supplémentaire au titre des années manquantes situées au-delà de la cinquième.

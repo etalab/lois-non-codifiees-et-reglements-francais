@@ -12,7 +12,7 @@ Pour la 4e catégorie, à 20 p. 100 de ce plafond.
 
 La valeur mensuelle du plafond mentionné ci-dessus est celle en vigueur au 1er janvier de l'année considérée.
 
-II. - Les assurés volontaires visés à l'article 1122-8 du code rural sont classés dans la catégorie correspondant à la moyenne des revenus professionnels non salariés agricoles se rapportant à leurs trois dernières années d'activité, déterminés conformément aux dispositions de l'article 1003-12 du code rural. A titre transitoire, les revenus pris en considération sont, pour l'année 1990, ceux de l'année 1988 et, pour l'année 1991, ceux des années 1988 et 1989.
+II. - Les assurés volontaires visés à l'article L. 722-17 du code rural sont classés dans la catégorie correspondant aux revenus professionnels pris en compte pour le calcul des cotisations dues au titre de leur dernière année d'activité et déterminés conformément aux dispositions des articles L. 731-14 à L. 731-21 du code rural ou, à défaut de tels revenus, dans la première catégorie.
 
 Sont classés :
 

@@ -396,6 +396,7 @@
 - [Décret n°2000-1258 du 22 décembre 2000 (ECOT0051929D)](decret-n2000-1258-du-22-decembre-2000-ecot0051929d)
 - [Décret n°2000-1265 du 22 décembre 2000 (AGRR0001973D)](decret-n2000-1265-du-22-decembre-2000-agrr0001973d)
 - [Décret n°2000-1331 du 22 décembre 2000 (MENF0003058D)](decret-n2000-1331-du-22-decembre-2000-menf0003058d)
+- [Décret n°2000-261 du 22 mars 2000 (AGRS0000477D)](decret-n2000-261-du-22-mars-2000-agrs0000477d)
 - [Décret n°2000-271 du 22 mars 2000 (MENS0000403D)](decret-n2000-271-du-22-mars-2000-mens0000403d)
 - [Décret n°2000-278 du 22 mars 2000 (ECOI0000034D)](decret-n2000-278-du-22-mars-2000-ecoi0000034d)
 - [Décret n°2000-554 du 22 juin 2000 (AGRB0000276D)](decret-n2000-554-du-22-juin-2000-agrb0000276d)
