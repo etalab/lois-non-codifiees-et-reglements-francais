@@ -276,7 +276,6 @@
 - [Arrêté du 11 avril 1990 (DEFT9001357A)](arrete-du-11-avril-1990-deft9001357a)
 - [Arrêté du 11 décembre 1989 (PTTR8901121A)](arrete-du-11-decembre-1989-pttr8901121a)
 - [Arrêté du 11 décembre 1989 (RESY8900378A)](arrete-du-11-decembre-1989-resy8900378a)
-- [Arrêté du 11 décembre 1990 (PTTR9000959A)](arrete-du-11-decembre-1990-pttr9000959a)
 - [Arrêté du 11 janvier 1990 (ECOZ8900034A)](arrete-du-11-janvier-1990-ecoz8900034a)
 - [Arrêté du 11 janvier 1990 (EQUT9000150A)](arrete-du-11-janvier-1990-equt9000150a)
 - [Arrêté du 11 juillet 1990 (AGRG9001599A)](arrete-du-11-juillet-1990-agrg9001599a)
