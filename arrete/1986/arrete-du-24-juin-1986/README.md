@@ -1,4 +1,4 @@
-# Arrêté du 24 juin 1986 portant création d'une série et d'une tranche d'obligations renouvelables assimilables du Trésor
+# Arrêté du 24 juin 1986 relatif à la liste des espèces végétales protégées en Corse complétant la liste nationale
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,3 @@
 # Article 2
 
-D'une durée de huit ans et d'une valeur nominale de 1.000 F, les obligations renouvelables assimilables portent jouissance du 15 juin 1986.
+Le directeur de la protection de la nature, le directeur de la qualité et le directeur de la pharmacie et du médicament sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -238,6 +238,7 @@
 - [Décret n°86-684 du 14 mars 1986](decret-n86-684-du-14-mars-1986)
 - [Décret n°86-687 du 14 mars 1986](decret-n86-687-du-14-mars-1986)
 - [Décret n°86-708 du 14 avril 1986](decret-n86-708-du-14-avril-1986)
+- [Décret n°86-960 du 14 août 1986](decret-n86-960-du-14-aout-1986)
 - [Décret n°86-741 du 14 mai 1986](decret-n86-741-du-14-mai-1986)
 - [Décret n°86-479 du 15 mars 1986](decret-n86-479-du-15-mars-1986)
 - [Décret n°86-480 du 15 mars 1986](decret-n86-480-du-15-mars-1986)
