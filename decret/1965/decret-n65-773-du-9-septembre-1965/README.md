@@ -10,5 +10,6 @@
 - [Invalidité](invalidite)
 - [Jouissance de la pension.](jouissance-de-la-pension)
 - [Liquidation de la pension](liquidation-de-la-pension)
+- [Cessation ou reprise de service - coordination avec le régime de la sécurité sociale.](cessation-ou)
 - [Invalidité *résultant ou non de l'exercice des fonctions*](invalidite-resultant-ou-non)
 - [Pensions des ayants cause.](pensions-des-ayants-cause)

@@ -1,0 +1,3 @@
+# Article 34
+
+L'agent qui se trouve dans l'incapacité permanente de continuer ses fonctions en raison d'une invalidité ne résultant pas du service peut être mis à la retraite par anticipation soit sur sa demande, soit d'office dans les délais prévus à l'article 24 (2e alinéa) [*à l'expiration des congés de longue durée, des congés de maladie, ou de la durée de la disponibilité rémunérée*]. L'intéressé a droit à la pension rémunérant les services prévue aux articles 6 (2°) et 21 (2°), sous réserve que ses blessures ou maladies aient été contractées ou aggravées au cours d'une période durant laquelle il acquérait des droits à pension.
