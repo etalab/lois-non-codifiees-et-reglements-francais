@@ -1,0 +1,7 @@
+# REMUNERATIONS VERSEES AUX STAGIAIRES
+
+- [STAGES OUVERTS AUX JEUNES GENS DE SEIZE A DIX-HUIT ANS *AGE*.](stages-ouverts-aux)
+- [DISPOSITIONS COMMUNES.](dispositions-communes)
+- [STAGES D'ENTRETIEN OU DE PERFECTIONNEMENT DES CONNAISSANCES.](stages-d-entretien-ou)
+- [STAGES DITS "DE CONVERSION"](stages-dits-de-conversion)
+- [STAGES DITS "DE PROMOTION PROFESSIONNELLE".](stages-dits-de-promotion-professionnelle)
