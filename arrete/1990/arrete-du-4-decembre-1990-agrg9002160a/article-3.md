@@ -4,4 +4,4 @@ L'Etat participe financièrement à l'exécution du prélèvement de la tête de
 
 Par tête prélevée et acheminée à destination d'un laboratoire :
 
-200 F.
+30,50 euros.

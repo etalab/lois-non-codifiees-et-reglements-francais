@@ -37,3 +37,7 @@ b) Pour les opérations prévues à l'article 4 ter du même arrêté, les honor
 c) Pour le prélèvement de système nerveux central, deux fois le montant de l'acte médical défini par l'ordre des vétérinaires. Ce tarif s'entend hors matériel à usage unique spécifiquement nécessaire au prélèvement.
 
 Ces montants sont fixés hors taxe et comprennent les frais de déplacement.
+
+4. Pour les opérations prévues à l'article 9, paragraphes A (4°) et B (3°), de l'arrêté du 3 décembre 1990 susvisé, il est alloué au(x) vétérinaire(s) sanitaire(s) qui réalise(nt) l'euthanasie des animaux 6 fois le montant de l'acte médical défini par l'ordre des vétérinaires.
+
+Ce tarif s'entend exclusivement pour le temps consacré aux seules opérations d'euthanasie, hors fournitures des produits nécessaires. Toute heure commencée est due.
