@@ -1,5 +1,3 @@
 # Article 2
 
-Le laboratoire de l'Union technique de l'automobile, du motocycle et du cycle, autodrome de Linas-Montlhéry, 91 Linas-Montlhéry, est agréé pour effectuer les essais prévus par ledit règlement.
-
-Les essais sont à la charge du demandeur.
+La réception C.E.E. en ce qui concerne les émissions de polluants provenant des moteurs Diesel destinés à la propulsion des véhicules est accordée par le directeur régional de l'industrie et de la recherche de la région Ile-de-France aux véhicules répondant aux prescriptions de la directive n° 72-306 C.E.E. du 2 août 1972 modifiée conformément aux directives qui lui portent adaptation au progrès technique. "
