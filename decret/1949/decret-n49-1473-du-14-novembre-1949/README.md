@@ -2,4 +2,3 @@
 
 - [Titre II : TRANSPORTS DE MARCHANDISES](titre-ii)
 - [Article 42](article-42.md)
-- [DISPOSITIONS COMMUNES AUX TRANSPORTS DE VOYAGEURS ET AUX TRANSPORTS DE MARCHANDISES](dispositions-communes-aux)
