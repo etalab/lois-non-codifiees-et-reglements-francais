@@ -1,0 +1,10 @@
+# Loi n° 96-314 du 12 avril 1996 portant diverses dispositions d'ordre économique et financier *DDOEF* (1)
+
+- [Titre Ier : Mesures en faveur des petites et moyennes entreprises](titre-ier)
+- [Titre III : Mesures de soutien de l'activité](titre-iii)
+- [Titre IV : Dispositions relatives au contrôle en matière financière et douanière](titre-iv)
+- [Titre V : Dispositions relatives au service public](titre-v)
+- [Titre VI : Dispositions relatives aux transports, à l'agriculture et à l'aménagement foncier](titre-vi)
+- [Titre VII : Modifications du code général des collectivités territoriales et du code des juridictions financières](titre-vii)
+- [Titre VIII : Modifications du code de la sécurité sociale](titre-viii)
+- [Titre IX : Dispositions diverses](titre-ix)

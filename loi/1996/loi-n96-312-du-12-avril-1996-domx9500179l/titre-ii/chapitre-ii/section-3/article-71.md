@@ -1,0 +1,3 @@
+# Article 71
+
+Entre les sessions, la commission permanente règle par ses délibérations les affaires qui lui sont renvoyées par l'assemblée de la Polynésie française ou qui lui sont adressées directement par le gouvernement de la Polynésie française lorsque celui-ci en a déclaré l'urgence. Elle émet aussi des avis sur les textes pour lesquels la consultation de l'assemblée de la Polynésie française par l'Etat est prévue, ainsi que les voeux mentionnés à l'article 70. Les votes du budget annuel du territoire, du compte administratif du territoire, de la motion de censure sont exclus de la compétence de la commission permanente.

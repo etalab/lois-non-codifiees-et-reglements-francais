@@ -1,0 +1,5 @@
+# Article 22
+
+I. - Par dérogation au premier alinéa de l'article L. 442-7 et à l'article L. 443-6 du code du travail, un accord conclu dans les conditions prévues par les articles L. 442-10 et L. 442-11 dudit code peut prévoir que tout ou partie des droits constitués au profit de chaque salarié au titre de la réserve spéciale de participation des exercices ouverts en 1991 et 1992 sont négociables ou exigibles à compter du 1er janvier 1996 et jusqu'au 30 septembre 1996.
+
+II. - Par dérogation à l'article L. 443-6 du code du travail, un accord conclu dans les conditions prévues à l'article L. 442-10 dudit code, ou une décision du chef d'entreprise lorsque le plan d'épargne d'entreprise a été établi à l'initiative de celui-ci, peuvent prévoir que tout ou partie des actions ou parts acquises par chaque salarié dans le cadre d'un plan d'épargne d'entreprise, dont la date normale de délivrance est fixée entre le 1er janvier 1997 et le 31 décembre 1998, sont négociables ou exigibles à compter du 1er janvier 1996 et jusqu'au 30 septembre 1996.
