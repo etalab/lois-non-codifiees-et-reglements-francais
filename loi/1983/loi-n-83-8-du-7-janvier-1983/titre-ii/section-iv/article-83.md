@@ -1,10 +1,8 @@
 # Article 83
 
-Sous réserve des dispositions contenues dans le deuxième alinéa de l'article 82, la création des centres de formation d'apprentis fait l'objet de conventions passées avec la région par les départements, les communes, les établissements publics, les compagnies consulaires, les chambres de métiers, les chambres d'agriculture, les établissements d'enseignement privé, les organisations professionnelles, les associations, les entreprises ou toute autre personne physique ou morale, après avis du comité régional de la formation professionnelle, de la promotion sociale et de l'emploi.
+La région établit, après avis du comité régional de la formation professionnelle, de la promotion sociale et de l'emploi, un schéma prévisionnel de l'apprentissage coordonné avec le schéma prévisionnel des formations prévu à l'article 13 de la loi n° 83-663 du 22 juillet 1983 complétant la loi n° 83-8 du 7 janvier 1983 relative à la répartition de compétences entre les communes, les départements, les régions et l'Etat. Elle établit également la liste des investissements prioritaires intéressant l'apprentissage.
 
-Cet avis porte notamment sur les garanties de tous ordres présentées par le projet, et sur son intérêt eu égard aux besoins de la formation professionnelle dans la zone d'action considérée.
-
-La demande de convention doit donner lieu à une décision dans un délai de six mois à compter de son dépôt. En cas de réponse négative, ou de dénonciation d'une convention, la décision doit être motivée. La dénonciation ne peut intervenir que selon la procédure prévue à l'article L. 116-4 du code du travail. Les pouvoirs attribués à l'Etat par cet article sont exercés par la région. Toutefois l'Etat conserve ses attributions en matière de contrôle pédagogique.
+Le schéma prévisionnel de l'apprentissage est transmis au représentant de l'Etat qui en tient compte pour les décisions qu'il est amené à prendre en matière de formation professionnelle initiale.
 
 A titre transitoire, la région poursuit jusqu'à leur terme l'exécution des conventions passées avec l'Etat en dehors du champ défini par le deuxième alinéa de l'article 82.
 
