@@ -6,6 +6,7 @@
 - [Loi du 19 avril 1930](loi-du-19-avril-1930)
 - [Loi du 19 juin 1930](loi-du-19-juin-1930)
 - [Loi du 2 mai 1930](loi-du-2-mai-1930)
+- [Loi du 24 août 1930](loi-du-24-aout-1930)
 - [Loi du 26 avril 1930](loi-du-26-avril-1930)
 - [Loi du 29 avril 1930](loi-du-29-avril-1930)
 - [Loi du 9 août 1930](loi-du-9-aout-1930)
