@@ -17,6 +17,7 @@
 - [Décret n°98-65 du 4 février 1998 (MENF9800118D)](decret-n98-65-du-4-fevrier-1998-menf9800118d)
 - [Décret n°98-66 du 4 février 1998 (PRMX9700168D)](decret-n98-66-du-4-fevrier-1998-prmx9700168d)
 - [Décret n°98-67 du 4 février 1998 (MENL9703266D)](decret-n98-67-du-4-fevrier-1998-menl9703266d)
+- [Décret du 5 février 1998 (ECOC9700188D)](decret-du-5-fevrier-1998-ecoc9700188d)
 - [Décret n°98-11 du 5 janvier 1998 (MCCB9700769D)](decret-n98-11-du-5-janvier-1998-mccb9700769d)
 - [Décret n°98-3 du 5 janvier 1998 (MESS9723948D)](decret-n98-3-du-5-janvier-1998-mess9723948d)
 - [Décret n°98-4 du 5 janvier 1998 (MESG9711540D)](decret-n98-4-du-5-janvier-1998-mesg9711540d)
