@@ -47,7 +47,6 @@
 - [Décret n°58-1303 du 23 décembre 1958](decret-n58-1303-du-23-decembre-1958)
 - [Décret n°59-1091 du 23 septembre 1959](decret-n59-1091-du-23-septembre-1959)
 - [Décret n°59-1205 du 23 octobre 1959](decret-n59-1205-du-23-octobre-1959)
-- [Décret n° 59-771 du 26 juin 1959](decret-n-59-771-du-26-juin-1959)
 - [Décret n°54-1304 du 27 décembre 1954](decret-n54-1304-du-27-decembre-1954)
 - [Décret n°59-285 du 27 janvier 1959](decret-n59-285-du-27-janvier-1959)
 - [Décret n°59-1510 du 29 décembre 1959](decret-n59-1510-du-29-decembre-1959)
