@@ -30,9 +30,9 @@ Les mots : " au ministre " et : " Le ministre " sont remplacés respectivement p
 
 5° L'article 4 est ainsi rédigé :
 
-" Art. 4. -     Lorsque l'asile territorial a été accordé, le haut-commissaire de la République délivre une carte de séjour temporaire au demandeur ainsi que, le cas échéant, à son conjoint et à ses enfants mineurs, dans les conditions prévues par la réglementation en vigueur en Nouvelle-Calédonie. "
+" Art. 4. -     Lorsque l'asile territorial a été accordé, le haut-commissaire de la République délivre une carte de séjour temporaire au demandeur ainsi que, le cas échéant, à son conjoint et à ses enfants mineurs, dans les conditions prévues à l'article 18 de l'ordonnance n° 2002-388 du 20 mars 2002 relative aux conditions d'entrée et de séjour des étrangers en Nouvelle-Calédonie
 
-6° Au premier alinéa de l'article 5, les mots : " au premier alinéa de l'article 8 du décret du 30 juin 1946 précité " sont remplacés par les mots : " par la réglementation en vigueur en Nouvelle-Calédonie ".
+6° Au premier alinéa de l'article 5, les mots : " au premier alinéa de l'article 8 du décret du 30 juin 1946 précité " sont remplacés par les mots : " à l'article 32 du décret n° 2002-1219 du 27 septembre 2002 pris pour l'application de l'ordonnance n° 2002-388 du 20 mars 2002 précipitée :
 
 7° L'article 6 est ainsi rédigé :
 
@@ -50,7 +50,7 @@ b) A la fin du quatrième alinéa, après les mots : " ou le président de la co
 
 a) Au premier tiret du premier alinéa, les termes :
 
-" article 35 bis de l'ordonnance du 2 novembre 1945 précitée " sont remplacés par les termes : " article 23 de la loi n° 96-609 du 5 juillet 1996 portant dispositions relatives à l'outre-mer " ;
+" article 35 bis de l'ordonnance du 2 novembre 1945 précitée " sont remplacés par les termes : " article 50 de l'ordonnance 2002-388 du mars 2002 précitée ;
 
 b) Au deuxième tiret du premier alinéa, les mots : " sur le territoire français " sont remplacés par les mots : " en Nouvelle-Calédonie " ;
 

@@ -26,7 +26,7 @@ b) Au second alinéa, les mots : " d'un mois " sont remplacés par les mots : " 
 
 4° A l'article 18 :
 
-a) Au premier alinéa, les mots : " délivrance de carte de résident dans les conditions prévues à l'article 12 du présent décret " sont remplacés par les mots : " délivrance de titre de séjour dans les conditions prévues par la réglementation en vigueur en Nouvelle-Calédonie " ;
+a) Au premier alinéa, les mots : " délivrance de carte de résident dans les conditions prévues à l'article 12 du présent décret " sont remplacés par les mots : " délivrance de titre de séjour dans les conditions prévues à l'article 35 du décret n° 2002-1219 du 27 septembre 2002 ;
 
 b) Au deuxième alinéa, après les mots : " mis en possession ", sont insérés les mots : " par le haut-commissaire de la République " ;
 
