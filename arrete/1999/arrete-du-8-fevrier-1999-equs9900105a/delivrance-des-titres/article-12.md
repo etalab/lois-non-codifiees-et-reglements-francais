@@ -44,6 +44,22 @@ Les codes utilisés et leur signification sont les suivants :
 
 44 : adaptations du motocycle ;
 
+44.01 : frein à commande unique ;
+
+44.02 : frein à main adapté (roue avant) ;
+
+44.03 : frein à pied adapté (roue arrière) ;
+
+44.04 : poignée d'accélérateur adaptée ;
+
+44.05 : changement de vitesses et embrayage adaptés ;
+
+44.06 : rétroviseurs adaptés ;
+
+44.07 : commandes d'accessoires adaptés (indicateurs de changement de direction ...) ;
+
+44.08 : siège adapté.
+
 45 : motocycle avec side-car ;
 
 70 : échange de permis de conduire étranger, ce code est suivi du symbole distinctif du pays et du numéro du permis étranger ;
@@ -58,7 +74,7 @@ Les codes utilisés et leur signification sont les suivants :
 
 77 : limité aux véhicules de la catégorie D dont le nombre de places assises n'excède pas dix-sept, y compris celle du conducteur, attelé d'une remorque dont le PTAC excède 750 kg, sous réserve que le PTRA de l'ensemble ainsi formé n'excède pas 12000 kg, que le PTAC de la remorque n'excède pas le poids à vide du véhicule tracteur et que la remorque ne soit pas utilisée pour le transport de personnes ;
 
-78 : limité aux véhicules avec changement de vitesses automatique (pour raison non médicale) ;
+78 : limité aux véhicules sans pédale d'embrayage (ou sans commande d'embrayage pour la catégorie A ou la sous-catégorie A 1) ;
 
 79 : limité aux véhicules conformes aux spécifications indiquées entre parenthèses :
 

@@ -54,6 +54,14 @@ b) Au titre des acteurs économiques :
 
 - un représentant de chaque réseau de contrôle agréé par le ministre chargé des transports.
 
+- le président de la Fédération nationale des transports routiers (FNTR) ;
+
+- le président de la Fédération nationale des transports des voyageurs (FNTV) ;
+
+- le président de Transport et logistique de France (TLF) ;
+
+- le président de l'Union nationale des organisations syndicales des transports routiers automobiles (UNOSTRA).
+
 c) Au titre des usagers :
 
 Un représentant de chacun des organismes qui suivent :
