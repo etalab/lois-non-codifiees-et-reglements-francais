@@ -816,7 +816,6 @@
 - [Arrêté du 23 juillet 1993 (MENA9305570A)](arrete-du-23-juillet-1993-mena9305570a)
 - [Arrêté du 23 juillet 1993 (SPSS9302023A)](arrete-du-23-juillet-1993-spss9302023a)
 - [Arrêté du 23 juillet 1993 (TEFO9300697A)](arrete-du-23-juillet-1993-tefo9300697a)
-- [Arrêté du 23 juin 1993 (ECOC9300091A)](arrete-du-23-juin-1993-ecoc9300091a)
 - [Arrêté du 23 juin 1993 (ECOT9310182A)](arrete-du-23-juin-1993-ecot9310182a)
 - [Arrêté du 23 juin 1993 (ECOT9310185A)](arrete-du-23-juin-1993-ecot9310185a)
 - [Arrêté du 23 juin 1993 (INDP9320301A)](arrete-du-23-juin-1993-indp9320301a)
