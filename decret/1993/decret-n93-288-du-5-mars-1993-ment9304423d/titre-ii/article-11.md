@@ -1,6 +1,6 @@
 # Article 11
 
-Les membres des conseils sont élus ou nommés pour une durée de quatre ans renouvelable à l'exception des membres de droit du conseil d'administration.
+Les membres du conseil d'administration et du conseil scientifique sont élus ou nommés pour une durée de quatre ans renouvelable, à l'exception des membres de droit du conseil d'administration.
 
 Le mandat des membres des conseils cesse lorsque ces derniers perdent la qualité au titre de laquelle ils ont été élus ou nommés.
 

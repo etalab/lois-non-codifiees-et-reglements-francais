@@ -20,4 +20,4 @@ Le directeur exerce notamment les compétences suivantes :
 
 8° Il est chargé de l'organisation des opérations électorales.
 
-Le directeur peut nommer des ordonnateurs secondaires et déléguer sa signature à des agents de l'institut dont la liste est fixée par arrêté du ministre chargé de l'enseignement supérieur. Il peut également désigner des comptables secondaires avec l'agrément du ministre chargé du budget.
+Le directeur peut nommer des ordonnateurs secondaires et déléguer sa signature à des agents de l'institut dont la liste est fixée par arrêté du ministre chargé de l'éducation nationale. Il peut également désigner des comptables secondaires avec l'agrément du ministre chargé du budget.

@@ -1,37 +1,49 @@
 # Article 6
 
-Le conseil d'administration comprend trente membres :
+Le conseil d'administration comprend trente-deux membres, soit :
 
-1° Neuf membres de droit :
+1° Huit représentants de l'Etat :
 
-- le directeur chargé des enseignements supérieurs ou son représentant ;
+- deux représentants du ministre chargé de l'éducation nationale ;
 
-- le directeur chargé de la recherche et des études doctorales ou son représentant ;
+- un représentant du ministre chargé de l'enseignement supérieur ;
 
-- le directeur chargé des lycées et collèges ou son représentant ;
-
-- le directeur chargé des écoles ou son représentant ;
-
-- le directeur chargé de l'évaluation et de la prospective ou son représentant ;
+- un représentant du ministre chargé de la recherche ;
 
 - un représentant du ministre chargé du budget ;
 
 - un représentant du ministre chargé de la formation professionnelle ;
 
-- un représentant du ministre chargé de la recherche ;
+- un recteur d'académie, désigné par le ministre chargé de l'éducation nationale ;
 
-- le directeur général du Centre national de la recherche scientifique ou son représentant ;
+- un directeur d'institut universitaire de formation des maîtres, désigné par le ministre chargé de l'éducation nationale ;
 
-2° Six personnalités nommées par le ministre chargé de l'enseignement supérieur en raison de leurs compétences dans les domaines de l'éducation, de la formation et de la recherche ;
+2° Deux membres de droit :
 
-3° Quinze membres élus parmi les personnels en fonctions dans l'établissement :
+- le directeur général du Centre national de la recherche scientifique ;
 
-- trois représentants des professeurs des universités et personnels assimilés en application des dispositions de l'article 6 du décret du 16 janvier 1992 susvisé ;
+- le doyen de l'inspection générale de l'éducation nationale ;
 
-- trois représentants des maîtres de conférences et personnels assimilés en application des dispositions de l'article 6 du décret du 16 janvier 1992 susvisé ;
+3° Un membre du Conseil économique et social désigné par celui-ci ;
 
-- trois représentants des autres enseignants ;
+4° Deux représentants des parents d'élèves, désignés par les deux fédérations de parents d'élèves les plus représentatives ;
 
-- trois représentants des ingénieurs ;
+5° Un membre du Conseil national de la vie lycéenne, désigné par celui-ci ;
 
-- trois représentants des personnels administratifs, techniques, ouvriers et de service.
+6° Six personnalités désignées d'un commun accord par les ministres chargés de l'éducation nationale, de l'enseignement supérieur et de la recherche en raison de leurs compétences dans les domaines de l'éducation, de la formation et de la recherche, dont deux exercent leurs fonctions dans un organisme étranger et dont un représente les mouvements pédagogiques et d'éducation populaire ;
+
+7° Dix membres élus parmi les personnels affectés, mis à disposition ou détachés dans l'établissement :
+
+- deux représentants des professeurs des universités et personnels assimilés au sens des dispositions de l'article 6 du décret du 16 janvier 1992 susvisé ;
+
+- deux représentants des maîtres de conférences et personnels assimilés au sens des mêmes dispositions ;
+
+- deux représentants des enseignants des premier et second degrés ;
+
+- deux représentants des ingénieurs d'études et de recherche ;
+
+- deux représentants des personnels administratifs, techniques, ouvriers et de service ;
+
+8° Deux représentants des personnels associés à l'établissement, élus par leurs pairs.
+
+Pour chacun des membres prévus au présent article, à l'exception de ceux qui sont mentionnés aux 2° et 6°, un suppléant est désigné, dans les mêmes conditions que le titulaire, afin de le remplacer en cas d'empêchement.

@@ -4,7 +4,7 @@ Le conseil d'administration délibère notamment sur :
 
 1° Les orientations générales de l'institut ;
 
-2° Le règlement intérieur de l'établissement ;
+2° Les mesures générales relatives à l'organisation et au fonctionnement de l'établissement, dont le règlement intérieur ;.
 
 3° Le budget et ses modifications, le compte financier ;
 
@@ -20,6 +20,6 @@ Le conseil d'administration délibère notamment sur :
 
 9° Les dons et legs.
 
-Il donne son avis sur toute question qui lui est soumise par le ministre chargé de l'enseignement supérieur, par le président du conseil d'administration ou par le directeur.
+Il donne son avis sur toute question qui lui est soumise par les ministres chargés de la tutelle de l'institut, par le président du conseil d'administration ou par le directeur.
 
 Il détermine les catégories de contrats, conventions ou marchés qui, en raison de leur nature ou du montant financier engagé, doivent lui être soumis pour approbation.
