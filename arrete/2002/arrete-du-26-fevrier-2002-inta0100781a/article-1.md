@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents amenés à effectuer une heure de travail au-delà des garanties minimales définies à l'article 3 du décret du 25 août 2000 susvisé et jusqu'aux limites définies par l'article 5 du décret du 7 février 2002 susvisé portant dérogation aux garanties minimales de durée de travail et de repos applicables à certains agents en fonction dans certains services du ministère de l'intérieur bénéficient en contrepartie d'un repos compensateur majoré de 150 % dans l'hypothèse où ils ne bénéficient pas par ailleurs d'un dispositif particulier de rémunération ou de compensation. Ce repos compensateur est exclusif des indemnités horaires pour travaux supplémentaires prévues par le décret du 14 janvier 2002 susvisé.
