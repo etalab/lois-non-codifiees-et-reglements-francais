@@ -11,6 +11,8 @@
 - [Décret n°2000-492 du 2 juin 2000 (AGRS0000591D)](decret-n2000-492-du-2-juin-2000-agrs0000591d)
 - [Décret n°2000-495 du 2 juin 2000 (MESS0020946D)](decret-n2000-495-du-2-juin-2000-mess0020946d)
 - [Décret n°2000-496 du 2 juin 2000 (MESS0020947D)](decret-n2000-496-du-2-juin-2000-mess0020947d)
+- [Décret n°2000-613 du 3 juillet 2000 (EQUU0000780D)](decret-n2000-613-du-3-juillet-2000-equu0000780d)
+- [Décret n°2000-385 du 3 mai 2000 (DEFD0001363D)](decret-n2000-385-du-3-mai-2000-defd0001363d)
 - [Décret n°2000-498 du 6 juin 2000 (ECOF0010029D)](decret-n2000-498-du-6-juin-2000-ecof0010029d)
 - [Décret n°2000-499 du 6 juin 2000 (ECOI9920350D)](decret-n2000-499-du-6-juin-2000-ecoi9920350d)
 - [Décret n°2000-500 du 6 juin 2000 (AGRS0000740D)](decret-n2000-500-du-6-juin-2000-agrs0000740d)
