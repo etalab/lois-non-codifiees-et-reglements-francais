@@ -488,7 +488,6 @@
 - [Décret n°85-1530 du 31 décembre 1985](decret-n85-1530-du-31-decembre-1985)
 - [Décret n°85-1531 du 31 décembre 1985](decret-n85-1531-du-31-decembre-1985)
 - [Décret n°85-1534 du 31 décembre 1985](decret-n85-1534-du-31-decembre-1985)
-- [Décret n°86-1171 du 31 octobre 1986](decret-n86-1171-du-31-octobre-1986)
 - [Décret n°86-1175 du 31 octobre 1986](decret-n86-1175-du-31-octobre-1986)
 - [Décret n°86-156 du 31 janvier 1986](decret-n86-156-du-31-janvier-1986)
 - [Décret n°86-164 du 31 janvier 1986](decret-n86-164-du-31-janvier-1986)

@@ -168,7 +168,6 @@
 - [Décret n°85-1150 du 29 octobre 1985](decret-n85-1150-du-29-octobre-1985)
 - [Décret n°85-1251 du 29 novembre 1985](decret-n85-1251-du-29-novembre-1985)
 - [Décret n°85-1253 du 29 novembre 1985](decret-n85-1253-du-29-novembre-1985)
-- [Décret n°85-1265 du 29 novembre 1985](decret-n85-1265-du-29-novembre-1985)
 - [Décret n°85-382 du 29 mars 1985](decret-n85-382-du-29-mars-1985)
 - [Décret n°85-384 du 29 mars 1985](decret-n85-384-du-29-mars-1985)
 - [Décret n°85-396 du 29 mars 1985](decret-n85-396-du-29-mars-1985)

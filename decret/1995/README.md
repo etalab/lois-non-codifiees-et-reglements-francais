@@ -543,7 +543,6 @@
 - [Décret n°95-915 du 11 août 1995 (ENVN9530073D)](decret-n95-915-du-11-aout-1995-envn9530073d)
 - [Décret n°94-896 du 12 octobre 1994 (SPSS9402166D)](decret-n94-896-du-12-octobre-1994-spss9402166d)
 - [Décret n°95-1009 du 12 septembre 1995 (TEFT9500927D)](decret-n95-1009-du-12-septembre-1995-teft9500927d)
-- [Décret n°95-1011 du 12 septembre 1995 (AGRE9501531D)](decret-n95-1011-du-12-septembre-1995-agre9501531d)
 - [Décret n°95-1279 du 12 décembre 1995 (ECOT9536537D)](decret-n95-1279-du-12-decembre-1995-ecot9536537d)
 - [Décret n°95-1280 du 12 décembre 1995 (ECOT9551468D)](decret-n95-1280-du-12-decembre-1995-ecot9551468d)
 - [Décret n°95-1283 du 12 décembre 1995 (VILC9503385D)](decret-n95-1283-du-12-decembre-1995-vilc9503385d)
