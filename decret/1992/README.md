@@ -364,7 +364,6 @@
 - [Décret n°92-962 du 9 septembre 1992 (TEFT9205175D)](decret-n92-962-du-9-septembre-1992-teft9205175d)
 - [Décret n°92-965 du 9 septembre 1992 (JUSF9250011D)](decret-n92-965-du-9-septembre-1992-jusf9250011d)
 - [Décret n°92-973 du 9 septembre 1992 (MERG9200024D)](decret-n92-973-du-9-septembre-1992-merg9200024d)
-- [Décret n°92-976 du 9 septembre 1992 (SANM9201515D)](decret-n92-976-du-9-septembre-1992-sanm9201515d)
 - [Décret n°92-977 du 9 septembre 1992 (SANM9201516D)](decret-n92-977-du-9-septembre-1992-sanm9201516d)
 - [Décret n°92-983 du 9 septembre 1992 (JUSB9210032D)](decret-n92-983-du-9-septembre-1992-jusb9210032d)
 - [Décret n°92-984 du 9 septembre 1992 (JUSC9220666D)](decret-n92-984-du-9-septembre-1992-jusc9220666d)
