@@ -1,0 +1,3 @@
+# Article 13
+
+Les contrats conclus en application du présent décret peuvent être résiliés sans condition ni préavis pendant les trois premiers mois de leur durée. Passé ce délai et sauf le cas de licenciement par mesure disciplinaire, ces contrats peuvent être résiliés moyennant un délai de préavis et une indemnité de licenciement fixés par référence aux maximums prévus par le décret n° 72-512 du 22 juin 1972 modifié et relatif au licenciement des agents civils non fonctionnaires des administrations de l'Etat. Les contrats sont résiliés de plein droit quand les intéressés atteignent l'âge de soixante-cinq ans. Dans ce cas, aucune indemnité n'est versée.
