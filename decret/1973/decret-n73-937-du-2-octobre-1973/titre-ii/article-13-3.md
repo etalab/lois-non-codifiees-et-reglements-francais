@@ -1,0 +1,3 @@
+# Article 13-3
+
+En cas de décès du conjoint à charge d'un assuré titulaire d'un avantage de vieillesse visé à l'article L. 663-5 du Code de la sécurité sociale l'avantage de conjoint servi en application de l'article 31 du décret du 17 septembre 1964 susvisé ou de l'article 21 du décret du 31 mars 1966 susvisé est payé à l'assuré jusqu'à la fin du trimestre d'arrérages au cours duquel est survenu le décès du conjoint, lorsque ce dernier ouvrait droit à la majoration pour conjoint à charge prévue à l'article L. 339 du Code de la sécurité sociale au titre des périodes d'assurance postérieures au 31 décembre 1972 dont justifiait l'assuré [*date*].
