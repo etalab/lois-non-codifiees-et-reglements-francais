@@ -1,3 +1,3 @@
 # Article 46
 
-Tout [*huissier de justice*] associé ne peut être membre que d'une société civile professionnelle d'huissier de justice [*cumul : non*] et ne peut exercer la profession d'huissier de justice à titre individuel.
+Tout associé ne peut être membre que d'une seule société civile professionnelle d'huissier de justice et ne peut exercer ses fonctions ni à titre individuel ni en qualité de membre d'une société d'exercice libéral.

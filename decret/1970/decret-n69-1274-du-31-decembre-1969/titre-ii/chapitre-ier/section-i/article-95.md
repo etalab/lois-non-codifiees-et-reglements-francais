@@ -1,9 +1,7 @@
 # Article 95
 
-L'associé titulaire d'un office qui est transféré peut être autorisé par l'arrêté d'agrément à ouvrir un bureau de réception de la clientèle à son ancienne résidence.
+Il n'est dû aucune indemnité en raison des transferts résultant de la constitution de sociétés régies par le présent titre ou de la nomination d'un nouvel associé.
 
-Les dispositions de l'article 10 (alinéas 2, 3 et 4) sont applicables aux sociétés régies par le présent titre.
+Toutefois, peut donner lieu à indemnisation le transfert de l'office dont l'un des associés est titulaire lorsque ce transfert a pour effet d'étendre sa compétence d'instrumentation.
 
-L'autorisation bénéficie de plein droit au successeur de l'associé à qui elle a été accordée.
-
-L'associé dont l'office a été transféré peut également être autorisé à conserver son habitation au lieu de son ancienne résidence [*conditions de résidence*].
+Dans ce cas, les indemnités sont fixées et réparties conformément aux articles 43 à 45 du décret du 14 août 1975 précité.

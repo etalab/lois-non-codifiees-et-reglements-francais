@@ -1,7 +1,5 @@
-# Section I : Dispositions générales - Agrément et nomination.
+# Paragraphe 1 : Société titulaire d'un office constituée par des personnes physiques.
 
-- [Paragraphe 1 : Société titulaire d'un office constituée par des personnes physiques.](paragraphe-1)
-- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
