@@ -1,9 +1,3 @@
 # Article 1
 
-Les taux de la taxe instituée pour assurer le financement du Bureau national interprofessionnel de l'armagnac sont fixés comme suit :
-
-0,40 F par hectolitre de vins blancs conformément aux dispositions de l'article 2 a du décret n° 83-80 du 7 février 1983 susvisé ;
-
-22 F par hectolitre d'alcool pur pour les eaux-de-vie d'armagnac conformément aux dispositions de l'article 2 b du décret n° 83-80 du 7 février 1983 susvisé ;
-
-1,65 F par hectolitre d'alcool pur pour les eaux-de-vie sous couvert d'acquits blancs conformément aux dispositions de l'article 2 c du décret n° 83-80 du 7 février 1983, susvisé.
+Il est ouvert, à titre expérimental et pour une durée de deux ans, un service de facturation détaillée des communications téléphoniques.    Ce service est offert progressivement sur l'ensemble du territoire national au fur et à mesure des possibilités techniques.
