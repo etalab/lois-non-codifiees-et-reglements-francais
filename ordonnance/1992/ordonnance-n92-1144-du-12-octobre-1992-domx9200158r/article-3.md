@@ -1,3 +1,0 @@
-# Article 3
-
-Pour l'application de l'article 706-14 du code de procédure pénale, les mots : " plafond prévu par les troisième et quatrième alinéas de l'article 2 de la loi n° 72-11 du 3 janvier 1972 relative à l'aide judiciaire et à l'indemnisation des commissions et désignations d'office pour bénéficier de l'aide judiciaire partielle compte tenu, le cas échéant, de ses charges de famille " sont remplacés par les mots : " plafond pour bénéficier de l'aide juridictionnelle partielle, affecté, le cas échéant, de correctif pour charge de famille, prévu par l'article 4 de l'ordonnance du 12 octobre 1992 susvisée ".
