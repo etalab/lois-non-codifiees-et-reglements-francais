@@ -2,7 +2,7 @@
 
 Au sens du présent décret, on entend par :
 
-- "appareils" : tous les appareils électriques et électroniques ainsi que les équipements et systèmes qui contiennent des composants électriques et/ou électroniques ;
+- "appareils" : tous les appareils électriques et électroniques ainsi que les équipements et systèmes qui contiennent des composants électriques et/ou électroniques, dans le second cas, ils doivent, en outre, satisfaire aux prescriptions du décret du 26 juin 1992 modifié relatif à la comptabilité électromagnétique des appareils électriques et électroniques ;
 
 - "perturbations électromagnétiques" : tout phénomène électromagnétique, notamment un bruit électromagnétique, un signal non désiré ou une modification du milieu de propagation lui-même, susceptible de créer des troubles de fonctionnement d'un dispositif, d'un appareil ou d'un système ;
 
