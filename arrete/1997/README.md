@@ -1296,7 +1296,6 @@
 - [Arrêté du 31 décembre 1996 (AGRB9700012A)](arrete-du-31-decembre-1996-agrb9700012a)
 - [Arrêté du 31 décembre 1996 (BUDF9600034A)](arrete-du-31-decembre-1996-budf9600034a)
 - [Arrêté du 31 décembre 1996 (BUDF9600038A)](arrete-du-31-decembre-1996-budf9600038a)
-- [Arrêté du 31 décembre 1996 (BUDF9620688A)](arrete-du-31-decembre-1996-budf9620688a)
 - [Arrêté du 31 décembre 1996 (ECOB9610123A)](arrete-du-31-decembre-1996-ecob9610123a)
 - [Arrêté du 31 décembre 1996 (INTE9700014A)](arrete-du-31-decembre-1996-inte9700014a)
 - [Arrêté du 31 décembre 1996 (MIPP9600504A)](arrete-du-31-decembre-1996-mipp9600504a)
