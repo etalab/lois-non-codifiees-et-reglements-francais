@@ -6,3 +6,4 @@
 - [Chapitre IV : Mode de désignation des membres des comités d'hygiène et de sécurité.](chapitre-iv)
 - [Chapitre V : Rôle des organismes compétents en matière d'hygiène et de sécurité.](chapitre-v)
 - [Chapitre VI : Fonctionnement des comités d'hygiène et de sécurité.](chapitre-vi)
+- [Article 29](article-29.md)
