@@ -1,3 +1,0 @@
-# Article 4
-
-Le ministre chargé de l'agriculture peut retirer l'habilitation à réaliser l'identification électronique des équidés aux agents qui ne sont plus habilités à identifier les équidés au titre du décret du 15 avril 1976 susvisé, à ceux qui n'exercent plus leurs fonctions au sein de l'établissement public "Les Haras nationaux", ou en cas de manquement aux obligations résultant de la convention et du protocole respectivement prévus aux articles 6 et 7 du présent décret. Dans ce dernier cas, le retrait ne peut intervenir qu'après que l'agent a été mis à même de présenter ses observations.

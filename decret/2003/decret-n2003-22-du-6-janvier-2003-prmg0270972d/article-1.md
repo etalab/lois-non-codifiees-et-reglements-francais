@@ -1,5 +1,0 @@
-# Article 1
-
-Les agents publics relevant de l'article 6 de la loi du 11 janvier 1984 susvisée, des articles 38, 104 et 136 de la loi du 26 janvier 1984 susvisée, de l'article 9 de la loi du 9 janvier 1986 susvisée ainsi que des articles 34 et 35 de la loi du 12 avril 2000 susvisée occupant un emploi à temps non complet ou exerçant des fonctions à temps incomplet et pour lesquels la durée du travail est inférieure à la moitié de la durée légale ou réglementaire du travail des agents publics à temps complet peuvent, à condition d'en informer préalablement par écrit l'autorité dont ils relèvent, exercer une activité privée lucrative dans des conditions compatibles avec leurs obligations de service et sous réserve que cette activité ne porte pas atteinte au fonctionnement normal, à l'indépendance ou à la neutralité du service. L'autorité dont relève l'agent peut à tout moment s'opposer à l'exercice d'une activité privée qui contreviendrait à ces obligations.
-
-Les agents mentionnés à l'alinéa précédent sont soumis aux dispositions de l'article 432-12 du code pénal.

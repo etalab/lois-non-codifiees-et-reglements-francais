@@ -1,3 +1,0 @@
-# Article 36
-
-Dans la limite d'une enveloppe annuelle fixée en pourcentage de la masse salariale et répartie entre chaque catégorie d'emplois par délibération du conseil d'administration, le directeur général peut procéder chaque année, en fonction notamment des résultats de l'évaluation individuelle et après avis de la commission consultative paritaire, à l'attribution de bonifications indiciaires. Ces bonifications, dont le montant ne peut pas excéder le gain qu'aurait procuré à l'intéressé un avancement d'échelon, sont accordées pour une période qui ne peut pas dépasser la moitié de la durée normale de l'échelon auquel est placé le bénéficiaire.

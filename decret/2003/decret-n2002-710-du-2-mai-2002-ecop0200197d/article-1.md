@@ -1,3 +1,0 @@
-# Article 1
-
-Les fonctionnaires, les personnels relevant du décret du 25 août 1995 susvisé ainsi que les agents non titulaires de droit public sous contrat à durée indéterminée du ministère de l'économie, des finances et de l'industrie, des établissements publics administratifs placés sous sa tutelle, des juridictions financières et des autorités administratives indépendantes relevant du ministère de l'économie, des finances et de l'industrie pour leur gestion peuvent bénéficier d'une allocation complémentaire de fonctions dans les conditions et suivant les modalités fixées par le présent décret.

@@ -1,3 +1,0 @@
-# Article 8
-
-La direction des personnels enseignants définit et met en oeuvre la politique de recrutement et de gestion des personnels enseignants du premier degré, du second degré et de l'enseignement supérieur. Elle conduit une politique de gestion prévisionnelle des recrutements et des carrières. Elle propose les réformes statutaires relatives à ces personnels ainsi qu'aux chercheurs. Elle met en place et coordonne la gestion déconcentrée de ces personnels. Elle contribue aux orientations de la formation initiale des enseignants du premier et du second degré, en liaison avec la direction de l'enseignement supérieur.

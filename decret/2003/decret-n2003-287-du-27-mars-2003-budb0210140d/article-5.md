@@ -1,3 +1,0 @@
-# Article 5
-
-Les décrets n° 87-868 du 27 octobre 1987 relatif à l'extension des activités du groupement d'intérêt économique Pari mutuel urbain à la Principauté de Monaco, n° 90-450 du 29 mai 1990 relatif à l'extension des activités du groupement d'intérêt économique Pari mutuel urbain en Suisse, n° 95-147 du 10 février 1995 autorisant le groupement d'intérêt économique Pari mutuel urbain à recevoir des paris collectés en Belgique et n° 99-228 du 23 mars 1999 habilitant des sociétés de courses à organiser des opérations ponctuelles de prise de paris collectés ou regroupés en France sur des courses étrangères et à l'étranger sur des courses françaises sont abrogés.

@@ -1,3 +1,0 @@
-# Article 1
-
-A compter de la mise en oeuvre du nouveau dispositif indemnitaire au 1er janvier 2003, les personnels du ministère de l'économie, des finances et de l'industrie, des établissements publics administratifs placés sous sa tutelle, des juridictions financières et des autorités administratives indépendantes relevant du ministère de l'économie, des finances et de l'industrie pour leur gestion, en fonction au 31 décembre 2002, peuvent prétendre au versement d'une indemnité différentielle, dans les conditions fixées par le présent décret, si l'application du nouveau dispositif indemnitaire se traduit pour eux par une diminution de leur rémunération brute globale annuelle antérieure.
