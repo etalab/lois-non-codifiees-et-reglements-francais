@@ -2,504 +2,680 @@
 
 La contribution de l'Etat à la rétribution des avocats qui prêtent leur concours au bénéficiaire de l'aide juridictionnelle totale est déterminée en fonction du produit de l'unité de valeur prévue par la loi de finances (UV) et des coefficients ci-après :
 
-Procédures
-
-coefficient de base
-
-MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
-
-Incidents (3)
-
-(dans la limite de 3 majorations)
-
-Expertises
-
-Sans déplacement
-
-Avec déplacement
-
-Vérifications personnelles du juge
-
-Autres mesures d'instruction
-
-dont enquêtes sociales
-
-I. - Droits des personnes
+PROCÉDURES : I. - Droits des personnes
 
 I.1. Divorce pour faute
 
-36
+COEFFICIENT de base : 36
 
-3
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-4
+Incidents (1) (dans la limite de 3 majorations) : 3
 
-9
+Expertises Sans déplacement : 4
 
-5
+Expertises Avec déplacement : 9
 
-2
+Vérifications personnelles du juge: 5
 
-I.2. Divorce requête conjointe (1) et autres
+Autres mesures d'instruction dont enquêtes sociales : 2
 
-30
+PROCÉDURES : I. - Droits des personnes
 
-3
+I.2. Divorce requête conjointe et autres
 
-4
+COEFFICIENT de base : 30 (2)
 
-9
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-5
+Incidents (1) (dans la limite de 3 majorations) : 3
 
-2
+Expertises Sans déplacement : 4
+
+Expertises Avec déplacement : 9
+
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : I. - Droits des personnes
 
 I.3. Procédure après divorce devant le juge aux affaires familiales (JAF)
 
-14
+COEFFICIENT de base : 14
 
-4
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-9
+Incidents (1) (dans la limite de 3 majorations) :
 
-5
+Expertises Sans déplacement : 4
 
-2
+Expertises Avec déplacement : 9
+
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : I. - Droits des personnes
 
 I.4. Autres instances devant le JAF
 
-16
+COEFFICIENT de base : 16
 
-4
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-9
+Incidents (1) (dans la limite de 3 majorations) :
 
-5
+Expertises Sans déplacement : 4
 
-2
+Expertises Avec déplacement : 9
+
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : I. - Droits des personnes
 
 I.5. Incapacités
 
-10
+COEFFICIENT de base : 10
 
-4
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-9
+Incidents (1) (dans la limite de 3 majorations) :
 
-5
+Expertises Sans déplacement : 4
 
-2
+Expertises Avec déplacement : 9
+
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : I. - Droits des personnes
 
 I.6. Assistance éducative
 
-16
+COEFFICIENT de base : 16
+
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
+
+Incidents (1) (dans la limite de 3 majorations) :
+
+Expertises Sans déplacement :
+
+Expertises Avec déplacement :
+
+Vérifications personnelles du juge:
+
+Autres mesures d'instruction dont enquêtes sociales :
+
+PROCÉDURES : I. - Droits des personnes
 
 I.7. Autres demandes (cf. IV)
 
-II. - Droit social
+COEFFICIENT de base :
 
-II.1. Prud'hommes
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-30
+Incidents (1) (dans la limite de 3 majorations) :
 
-4
+Expertises Sans déplacement :
 
-9
+Expertises Avec déplacement :
 
-5
+Vérifications personnelles du juge:
 
-2
+Autres mesures d'instruction dont enquêtes sociales :
 
-II.2. Prud'hommes avec départage
+PROCÉDURES : II. - Droit social
 
-36
+II.1 Prud'hommes
 
-4
+COEFFICIENT de base : 30
 
-9
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-5
+Incidents (1) (dans la limite de 3 majorations) :
 
-2
+Expertises Sans déplacement : 4
 
-II.3. Référé prud'homal
+Expertises Avec déplacement : 9
 
-16
+Vérifications personnelles du juge: 5
 
-4
+Autres mesures d'instruction dont enquêtes sociales : 2
 
-9
+PROCÉDURES : II. - Droit social
 
-5
+II.2 Prud'hommes avec départage
 
-2
+COEFFICIENT de base : 36
 
-II.4. Référé prud'homal avec départage
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-24
+Incidents (1) (dans la limite de 3 majorations) :
 
-4
+Expertises Sans déplacement : 4
 
-9
+Expertises Avec déplacement : 9
 
-5
+Vérifications personnelles du juge: 5
 
-2
+Autres mesures d'instruction dont enquêtes sociales : 2
 
-II.5. Tribunal des affaires de sécurité sociale
+PROCÉDURES : II. - Droit social
 
-14
+II.3 Référé prud'homal
 
-4
+COEFFICIENT de base : 16
 
-9
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-5
+Incidents (1) (dans la limite de 3 majorations) :
 
-2
+Expertises Sans déplacement : 4
 
-II.6. Autres demandes (cf. IV)
+Expertises Avec déplacement : 9
 
-III. - Baux d'habitation
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : II. - Droit social
+
+II.4 Référé prud'homal avec départage
+
+COEFFICIENT de base : 24
+
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
+
+Incidents (1) (dans la limite de 3 majorations) :
+
+Expertises Sans déplacement : 4
+
+Expertises Avec déplacement : 9
+
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : II. - Droit social
+
+II.5 Tribunal des affaires de sécurité sociale
+
+COEFFICIENT de base : 14
+
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
+
+Incidents (1) (dans la limite de 3 majorations) :
+
+Expertises Sans déplacement : 4
+
+Expertises Avec déplacement : 9
+
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : II. - Droit social
+
+II.6 Autres demandes (cf. IV)
+
+COEFFICIENT de base :
+
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
+
+Incidents (1) (dans la limite de 3 majorations) :
+
+Expertises Sans déplacement :
+
+Expertises Avec déplacement :
+
+Vérifications personnelles du juge:
+
+Autres mesures d'instruction dont enquêtes sociales :
+
+PROCÉDURES : III. - Baux d'habitation
 
 III.1. Instance au fond
 
-21
+COEFFICIENT de base : 21
 
-4
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-9
+Incidents (1) (dans la limite de 3 majorations) :
 
-5
+Expertises Sans déplacement : 4
 
-2
+Expertises Avec déplacement : 9
+
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : III. - Baux d'habitation
 
 III.2. Référé
 
-16
+COEFFICIENT de base : 16
 
-4
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-9
+Incidents (1) (dans la limite de 3 majorations) :
 
-5
+Expertises Sans déplacement : 4
 
-2
+Expertises Avec déplacement : 9
 
-IV. - Autres matières civiles
+Vérifications personnelles du juge: 5
 
-IV.1. Tribunal de grande instance et tribunal de commerce, instance au fond (4)
+Autres mesures d'instruction dont enquêtes sociales : 2
 
-20
+PROCÉDURES : IV. - Autres matières civiles
 
-3
+IV.1. Tribunal de grande instance et tribunal de commerce, instance au fond (3)
 
-4
+COEFFICIENT de base : 26 (4)
 
-9
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-5
+Incidents (1) (dans la limite de 3 majorations) : 3
 
-2
+Expertises Sans déplacement : 4
 
-IV.2. Autres juridictions, instances au fond (5)
+Expertises Avec déplacement : 9
 
-14
+Vérifications personnelles du juge: 5
 
-4
+Autres mesures d'instruction dont enquêtes sociales : 2
 
-9
+PROCÉDURES : IV. - Autres matières civiles
 
-5
+IV.2. Autres juridictions, instance au fond (5)
 
-2
+COEFFICIENT de base : 16
+
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
+
+Incidents (1) (dans la limite de 3 majorations) :
+
+Expertises Sans déplacement : 4
+
+Expertises Avec déplacement : 9
+
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : IV. - Autres matières civiles
 
 IV.3. Référés
 
-8
+COEFFICIENT de base : 8
 
-4
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-9
+Incidents (1) (dans la limite de 3 majorations) :
 
-5
+Expertises Sans déplacement : 4
 
-2
+Expertises Avec déplacement : 9
+
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : IV. - Autres matières civiles
 
 IV.4. Matière gracieuse
 
-8
+COEFFICIENT de base : 8
+
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
+
+Incidents (1) (dans la limite de 3 majorations) :
+
+Expertises Sans déplacement :
+
+Expertises Avec déplacement :
+
+Vérifications personnelles du juge:
+
+Autres mesures d'instruction dont enquêtes sociales :
+
+PROCÉDURES : IV. - Autres matières civiles
 
 IV.5. Requête
 
-4
+COEFFICIENT de base : 4
+
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
+
+Incidents (1) (dans la limite de 3 majorations) :
+
+Expertises Sans déplacement :
+
+Expertises Avec déplacement :
+
+Vérifications personnelles du juge:
+
+Autres mesures d'instruction dont enquêtes sociales :
+
+PROCÉDURES : IV. - Autres matières civiles
 
 IV.6. Difficultés d'exécution devant le juge de l'exécution
 
-4
+COEFFICIENT de base : 4
+
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
+
+Incidents (1) (dans la limite de 3 majorations) :
+
+Expertises Sans déplacement :
+
+Expertises Avec déplacement :
+
+Vérifications personnelles du juge:
+
+Autres mesures d'instruction dont enquêtes sociales :
+
+PROCÉDURES : IV. - Autres matières civiles
 
 IV.7. Demande de réparation d'une détention provisoire
 
-6 (6)
+COEFFICIENT de base : 6 (6)
 
-V. - Appel
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
+
+Incidents (1) (dans la limite de 3 majorations) :
+
+Expertises Sans déplacement :
+
+Expertises Avec déplacement :
+
+Vérifications personnelles du juge:
+
+Autres mesures d'instruction dont enquêtes sociales :
+
+PROCÉDURES : V. - Appel
 
 V.1. Appel et contredit
 
-14 (2)
+COEFFICIENT de base : 14 (7)
 
-3
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-4
+Incidents (1) (dans la limite de 3 majorations) : 3
 
-9
+Expertises Sans déplacement : 4
 
-5
+Expertises Avec déplacement : 9
 
-2
+Vérifications personnelles du juge: 5
+
+Autres mesures d'instruction dont enquêtes sociales : 2
+
+PROCÉDURES : V. - Appel
 
 V.2. Appel avec référé
 
-18 (2)
+COEFFICIENT de base : 18 (7)
 
-3
+MAJORATIONS POSSIBLES CUMULABLES DANS LA LIMITE DE 16 UV
 
-4
+Incidents (1) (dans la limite de 3 majorations) : 3
 
-9
+Expertises Sans déplacement : 4
 
-5
+Expertises Avec déplacement : 9
 
-2
+Vérifications personnelles du juge: 5
 
-(1) Porté à 50 UV quand le même avocat représente deux époux et que ceux-ci ont tous deux l'aide juridictionnelle.
+Autres mesures d'instruction dont enquêtes sociales : 2
 
-(2) Ces coefficients sont portés respectivement à 20 et 24 en cas de procédure d'appel sans représentation obligatoire.
+(1) Ces incidents sont ceux qui donnent lieu, après discussion contradictoire, à une décision du magistrat chargé de l'instruction de l'affaire, dans les cas prévus aux 1° à 4° de l'article 771 du nouveau code de procédure civile et aux articles 911, 912 et 944 du même code.
 
-(3) Ces incidents sont ceux qui donnent lieu, après discussion contradictoire, à une décision du magistrat chargé de l'instruction de l'affaire, dans les cas prévus aux 1° et 4° de l'article 771 du nouveau code de procédure civile et aux articles 911, 912 et 944 du même code.
+(2) Porté à 50 UV quand le même avocat représente deux époux et que ceux-ci ont tous deux l'aide juridictionnelle.
 
-(4) Ainsi qu'en cas de renvoi à la formation collégiale (art. L. 311-12-2 du code de l'organisation judiciaire).
+(3) Ainsi qu'en cas de renvoi à la formation collégiale (art. L. 311-12-2 du code de l'organisation judiciaire).
 
-(5) Compris le juge de l'exécution.
+(4) Le nombre d'UV est de 26 pour les missions d'aide juridictionnelles achevées à compter du 1er janvier 2004 ; il est de 24 pour les missions achevées entre la date de publication du décret n° 2003-853 du 5 septembre 2003 et le 31 décembre 2003.
+
+(5) Y compris le juge de l'exécution et le juge de proximité.
 
 (6) Ce coefficient est porté à 8 lorsque l'avocat intervenant au cours de la procédure de demande de réparation n'est pas l'avocat qui est intervenu au cours de la procédure pénale clôturée par la décision de non-lieu, de relaxe ou d'acquittement.
 
-PROCÉDURES
+(7) Ces coefficients sont portés respectivement à 20 et 24 en cas de procédure d'appel sans représentation obligatoire.
 
-COEFFICIENTS
+I- PROCÉDURES : VI. - Partie civile
 
-VI. - Partie civile
+II- COEFFICIENTS
 
-VI.1. Assistance d'une partie civile ou d'un civilement responsable devant une juridiction de jugement du premier degré
+I- VI.1. Assistance d'une partie civile ou d'un civilement responsable devant une juridiction de jugement de premier degré, à l'exception des procédures mentionnées aux VI-2 et VI-4
 
-8
+II- 8
 
-VI.2. Assistance d'une partie civile ou d'un civilement responsable devant le tribunal de police (1re à 4e classe)
+I- VI.2. Assistance d'une partie civile ou d'un civilement responsable devant le tribunal de police ou le juge de proximité (contraventions de police de la 1re à la 4e classe)
 
-2
+II- 2
 
-VI.3. Assistance d'une partie civile ou d'un civilement responsable devant la chambre des appels correctionnels
+I- VI.3. Assistance d'une partie civile ou d'un civilement responsable devant la chambre des appels correctionnels
 
-13
+II- 13
 
-VI.4. Assistance d'une partie civile ou d'un civilement responsable devant la cour d'assises (1)
+I- VI.4. Assistance d'une partie civile ou d'un civilement responsable devant la cour d'assises, la cour d'assises des mineurs ou le tribunal pour enfants statuant au criminel
 
-24
+II- 35 (1)
 
-VI.5. Assistance d'une partie civile pour une instruction correctionnelle (5)
+I- VI.5. Assistance d'une partie civile pour une instruction correctionnelle (2)
 
-8
+II- 8
 
-VI.6. Assistance d'une partie civile pour une instruction criminelle (5)
+I- VI.6. Assistance d'une partie civile pour une instruction criminelle (2)
 
-18
+II- 2
 
 En cas de pluralité d'avocats commis ou désignés d'office pour assister une personne à l'occasion des procédures pénales prévues dans la présente rubrique, une seule contribution est due.
 
-VII. - Procédures criminelles
+I- PROCÉDURES : VII. - Procédures criminelles
 
-VII.1. Instruction criminelle (5)
+II- COEFFICIENTS
 
-50
+I- VII.1. Instruction criminelle
 
-VII.2. Assistance d'un accusé devant la cour d'assises majeurs ou mineurs, tribunal pour enfants statuant au criminel (1)
+II- 50
 
-40
+I- VII.2. Assistance d'un accusé devant la cour d'assises, la cour d'assises des mineurs ou le tribunal pour enfants statuant au criminel
 
-VIII. - Procédures correctionnelles
+II- 50 (1)
 
-VIII.1. Première comparution devant le juge d'instruction ou le juge des enfants
+I- PROCÉDURES : VIII. - Procédures correctionnelles
 
-2
+II- COEFFICIENTS
 
-VIII.2. Débat contradictoire relatif au placement en détention provisoire
+I-VIII.1. Première comparution devant le juge d'instruction ou le juge des enfants ou présentation du mineur devant le procureur de la République dans le cadre d'un jugement à délai rapproché
 
-2
+II- 3
 
-VIII.3. Première comparution devant le juge d'instruction ou le juge des enfants et débat contradictoire relatif à la détention provisoire lorsqu'ils sont assurés par le même avocat
+I- VIII.2. Débat contradictoire relatif au placement en détention provisoire
 
-3
+II- 2
 
-VIII.4. Instruction correctionnelle avec détention provisoire (JI ou JE) (5)
+I- VIII.3. Première comparution devant le juge d'instruction ou le juge des enfants ou présentation du mineur devant le procureur de la République dans le cadre d'un jugement à délai rapproché et débat contradictoire relatif à la détention provisoire lorsqu'ils sont assurés par le même avocat
 
-20
+II- 4
 
-VIII.5. Instruction correctionnelle sans détention provisoire (JI) (5)
+I- VIII.4. Instruction correctionnelle avec détention provisoire (JI ou JE)
 
-12
+II- 20
 
-VIII.6. Instruction correctionnelle sans détention provisoire (JE) avec renvoi devant le tribunal pour enfants (5)
+I- VIII.5. Instruction correctionnelle sans détention provisoire (JI)
 
-12
+II- 12
 
-VIII.7. Assistance d'un prévenu devant le juge des enfants (audience de cabinet) (2)
+I- VIII.6. Instruction correctionnelle sans détention provisoire (JE) avec renvoi devant le tribunal pour enfants
 
-3
+II- 12
 
-VIII.8. Assistance d'un prévenu devant le tribunal correctionnel ou le tribunal pour enfants (2)
+I- VIII.7. Assistance d'un prévenu devant le juge des enfants (audience de cabinet, y compris la phase d'instruction)
 
-8
+II- 6 (3)
 
-VIII.9. Présentation du mineur devant le procureur de la République
+I- VIII.8. Assistance d'un prévenu devant le tribunal correctionnel ou le tribunal pour enfants
 
-2
+II- 8 (3) (4)
 
-VIII.10. Présentation du mineur devant le procureur de la République et débat contradictoire relatif à la détention provisoire lorsqu'ils sont assurés par le même avocat
+I- PROCÉDURES : IX. - Procédures contraventionnelles
 
-3
+II- COEFFICIENTS
 
-IX. - Procédures contraventionnelles
+I- Assistance d'un prévenu devant le tribunal de police ou le juge de proximité (contraventions de police de la 5e classe)
 
-Assistance d'un prévenu devant le tribunal de police (5e classe) (2)
+II- 2 (3)
 
-2
+I- PROCÉDURES : X. - Procédures d'appel et procédures devant la chambre de l'instruction
 
-X. - Procédures d'appel et autres procédures devant la chambre de l'instruction
+II- COEFFICIENTS
 
-X.1. Assistance d'un prévenu devant la chambre des appels correctionnels (2)
+I- X.1. Assistance d'un prévenu devant la chambre des appels correctionnels
 
-8
+II- 8 (3)
 
-X.2. Autres procédures devant la chambre de l'instruction (y compris extradition)
+I- X.2. Assistance d'un prévenu pour les appels des ordonnances du juge d'instruction et du juge des libertés et de la détention (5) et autres procédures devant la chambre de l'instruction (y compris extradition)
 
-4
+II- 5
 
-Les missions d'assistance pour les phases d'instruction et de jugement devant les tribunaux des forces armées sont rétribuées selon les coefficients applicables aux juridictions de droit commun. Les prestations devant la chambre de l'instruction et les tribunaux des forces armées sont rétribuées de la même façon que pour la phase procédurale à l'occasion de laquelle ils sont amenés à statuer.
+Les missions d'assistance pour les phases d'instruction et de jugement devant les tribunaux des forces armées sont rétribuées selon les coefficients applicables aux juridictions de droit commun.
 
-XI. - Procédure d'application des peines
+Les prestations devant la chambre de l'instruction et les tribunaux des forces armées sont rétribuées de la même façon que pour la phase procédurale à l'occasion de laquelle ils sont amenés à statuer.
 
-XI.1. Assistance d'un condamné pour un débat contradictoire devant le juge de l'application des peines (7)
+I- PROCÉDURES : XI. - Procédure d'application des peines
 
-3
+II- COEFFICIENTS
 
-XI.2. Représentation d'un condamné pour un débat contradictoire devant la chambre des appels correctionnels statuant en matière d'application des peines (7)
+I- XI.1. Assistance d'un condamné pour un débat contradictoire devant le juge de l'application des peines ou le juge des enfants statuant en matière d'application des peines
 
-3
+II- 4 (6)
 
-XI.3. Assistance d'un condamné pour un débat contradictoire devant la juridiction régionale de la libération conditionnelle (7)
+I- XI.2. Représentation d'un condamné pour un débat contradictoire devant la chambre des appels correctionnels statuant en matière d'application des peines
 
-3
+II- 4 (6)
 
-XI.4. Représentation d'un condamné pour un débat contradictoire devant la juridiction nationale de la libération conditionnelle
+I- XI.3. Assistance d'un condamné pour un débat contradictoire devant la juridiction régionale de la libération conditionnelle
 
-3
+II- 4 (6)
 
-XI.5. Assistance d'un condamné lors du recueil de son consentement pour le placement sous surveillance électronique
+I- XI.4. Représentation d'un condamné pour un débat contradictoire devant la juridiction nationale de la libération conditionnelle
 
-2
+II- 4
 
-XIII. - Procédures prévues par l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France
+I- XI.5. Assistance d'un condamné lors du recueil de son consentement pour le placement sous surveillance électronique
 
-XIII.1. Article 35 bis
+II- 2
 
-4
+I- PROCÉDURES : XII. - Rubrique supprimée par l'article 8 du décret du 2 avril 2003
 
-XIII.2. Article 35 quater (3)
+I- PROCÉDURES : XIII. - Procédures prévues par l'ordonnance n° 45-2658 du 2 novembre 1945 relative aux conditions d'entrée et de séjour des étrangers en France
 
-4
+II- COEFFICIENTS
 
-XIV. - Tribunal administratif et cour administrative d'appel
+I- XIII.1. Article 35 bis
 
-XIV.1. Affaires au fond (4)
+II- 4
 
-20
+I- XIII.2. Article 35 quater
 
-XIV.2. Référé suspension et référé fiscal
+II- 4 (7)
 
-6
+I- PROCÉDURES : XIV. - Tribunal administratif et cour administrative d'appel
 
-XIV.3. Référé liberté et référé provision
+II- COEFFICIENTS
 
-8
+I- XIV.1. Affaires au fond
 
-XIV.4. Référé conservatoire
+II- 20 (8)
 
-4
+I- XIV.2. Référé suspension et référé fiscal
 
-XIV.5. Difficulté d'exécution d'une décision
+II- 6
 
-6
+I- XIV.3. Référé liberté et référé provision
 
-XIV.6. Reconduite d'étrangers à la frontière
+II- 8
 
-6
+I- XIV.4. Référé conservatoire
 
-XV. - Commission des recours des réfugiés
+II- 4
 
-8
+I- XIV.5. Difficulté d'exécution d'une décision
 
-XVI. - Autres juridictions administratives sauf Conseil d'Etat
+II- 6
 
-14
+I- XIV.6. Reconduite d'étrangers à la frontière
 
-XVII. - Commissions administratives
+II- 6
 
-XVII.1. Commissions d'expulsion des étrangers
+PROCÉDURES : XV. - Commission des recours des réfugiés
 
-6
+COEFFICIENTS : 8
 
-XVII.2. Commission de séjour des étrangers
+PROCÉDURES : XVI. - Autres juridictions administratives, sauf Conseil d'Etat
 
-6
+COEFFICIENTS : 14
 
-XVIII. - Audition de l'enfant en justice (6)
+I- PROCÉDURES : XVII. - Commissions administratives
 
-3
+II- COEFFICIENTS : I- XVII.1. Commissions d'expulsion des étrangers
 
-XIX. - Procédure de révision
+II- 6
 
-XIX.1. Assistance ou représentation du requérant devant la commission de révision
+I- XVII.2. Commission de séjour des étrangers
 
-7
+II- 6
 
-XIX.2. Assistance ou représentation du requérant devant la cour de révision
+PROCÉDURES : XVIII. - Audition de l'enfant en justice
 
-10
+COEFFICIENTS : 3 (9)
 
-XIX.3. Assistance ou représentation de la partie civile devant la cour
+I- PROCÉDURES : XIX. - Procédure de révision
 
-7
+II- COEFFICIENTS : I- IX.1. Assistance ou représentation du requérant devant la commission de révision
 
-XX. - Réexamen d'une décision pénale consécutif au prononcé d'un arrêt de la Cour européenne des droits de l'homme. - Assistance ou représentation d'un condamné devant la commission de la Cour de cassation
+II- 7
 
-17
+I- XIX.2. Assistance ou représentation du requérant devant la cour de révision
 
-(1) Majoration possible : 12 UV par jour supplémentaire.
+II- 10
 
-(2) Majoration en cas de présence d'une partie civile assistée d'un avocat : 3 UV. - Majoration par jour supplémentaire d'audience :
+I- XIX.3. Assistance ou représentation de la partie civile devant la cour
 
-2 UV.
+II- 7
 
-(3) Majoration en cas d'audience dans l'emprise portuaire ou aéroportuaire : 1 UV.
+I- PROCÉDURES : XX. - Réexamen d'une décision pénale consécutif au prononcé d'un arrêt de la Cour européenne des droits de l'homme
 
-(4) Majorations possibles cumulables dans la limite de 16 UV en cas :
+Assistance ou représentation d'un condamné devant la commission de la Cour de cassation
+
+II- COEFFICIENTS : 17
+
+(1) Majoration possible : 16 UV par jour supplémentaire.
+
+(2) Une seule contribution est due pour l'assistance de la partie lors de l'ensemble de la phase procédurale visée, que la chambre de l'instruction ait été ou non saisie.
+
+(3) Majoration en cas de présence d'une partie civile assistée ou représentée par un avocat : 3 UV.
+
+(4) Majoration par jour supplémentaire d'audience : 6 UV.
+
+(5) L'ensemble des appels portés au cours de l'instruction devant la chambre de l'instruction donne lieu à une rétribution forfaitaire de 5 UV.
+
+(6) Majoration lorsque le débat contradictoire ou une audition préalable du condamné en présence de son avocat a lieu au sein de l'établissement pénitentiaire : 1 UV.
+
+(7) Majoration en cas d'audience dans l'emprise portuaire et aéroportuaire : 1 UV.
+
+(8) Majorations possibles cumulables dans la limite de 16 UV en cas :
 
 - d'expertise avec ou sans déplacement : 4 UV ou 9 UV ;
 
 - visite des lieux ou enquêtes : 5 UV.
 
-(5) Une seule contribution est due pour l'assistance de la partie lors de l'ensemble de la phase procédurale visée, que la chambre de l'instruction ait été ou non saisie.
-
-(6) Majoration possible : 1 UV par audition supplémentaire décidée par le juge dans la limite de trois majorations.
-
-(7) Majoration lorsque le débat contradictoire ou une audition préalable du condamné en présence de son avocat a lieu au sein de l'établissement pénitentiaire : 1 UV.
+(9) Majoration possible : 1 UV par audition supplémentaire décidée par le juge dans la limite de trois majorations.
