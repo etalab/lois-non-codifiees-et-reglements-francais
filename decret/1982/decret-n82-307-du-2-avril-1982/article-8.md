@@ -1,6 +1,6 @@
 # Article 8
 
-Il est créé une commission nationale de répartition chargée de répartir le produit des taxes visées à l'article 3 de la loi susvisée du 13 juillet 1972, en vue d'alimenter, pour l'attribution de l'indemnité de départ, les comptes spéciaux créés dans les écritures des caisses d'assurance vieillesse des artisans et commerçants.
+Il est créé une commission nationale chargée de répartir le produit de la taxe visée au deuxième alinéa de l'article 3 de la loi susvisée du 13 juillet 1972, en vue d'alimenter, pour l'attribution de l'indemnité de départ, les comptes spéciaux créés dans les écritures des caisses d'assurance vieillesse des artisans et commerçants.
 
 Elle est composée comme suit [*composition*] :
 
