@@ -360,6 +360,7 @@
 - [Arrêté du 16 février 1996 (TASS9620573A)](arrete-du-16-fevrier-1996-tass9620573a)
 - [Arrêté du 16 janvier 1996 (TASS9620351A)](arrete-du-16-janvier-1996-tass9620351a)
 - [Arrêté du 16 juillet 1996 (DEFD9601622A)](arrete-du-16-juillet-1996-defd9601622a)
+- [Arrêté du 16 juillet 1996 (EQUH9600668A)](arrete-du-16-juillet-1996-equh9600668a)
 - [Arrêté du 16 octobre 1995 (SANS9502261A)](arrete-du-16-octobre-1995-sans9502261a)
 - [Arrêté du 17 avril 1996 (BUDD9670360A)](arrete-du-17-avril-1996-budd9670360a)
 - [Arrêté du 17 avril 1996 (ECOT9616223A)](arrete-du-17-avril-1996-ecot9616223a)

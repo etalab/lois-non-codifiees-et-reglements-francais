@@ -1,0 +1,3 @@
+# Article 1
+
+La nouvelle bonification indiciaire prévue à l'article 1er du décret du 16 juillet 1996 susvisé est attribuée dans les conditions fixées par l'annexe ci-jointe aux militaires en service au ministère de l'équipement, du logement, des transports et du tourisme (Mer), d'un grade au plus égal à celui de capitaine de frégate ou grade correspondant, occupant les emplois figurant en annexe au présent arrêté. La nouvelle bonification indiciaire n'est pas attribuée aux ingénieurs de l'armement et aux médecins des armées en fonctions au ministère de l'équipement, du logement, des transports et du tourisme.
