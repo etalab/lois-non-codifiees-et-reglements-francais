@@ -181,7 +181,6 @@
 - [Décret n°88-788 du 22 juin 1988 (ASES8800854D)](decret-n88-788-du-22-juin-1988-ases8800854d)
 - [Décret n°88-789 du 22 juin 1988 (ASES8800855D)](decret-n88-789-du-22-juin-1988-ases8800855d)
 - [Décret n°88-790 du 22 juin 1988 (ASES8800856D)](decret-n88-790-du-22-juin-1988-ases8800856d)
-- [Décret n°88-791 du 22 juin 1988 (ASES8800857D)](decret-n88-791-du-22-juin-1988-ases8800857d)
 - [Décret n°88-792 du 22 juin 1988 (ASES8800859D)](decret-n88-792-du-22-juin-1988-ases8800859d)
 - [Décret n°88-793 du 22 juin 1988 (EQUC8800539D)](decret-n88-793-du-22-juin-1988-equc8800539d)
 - [Décret n°88-795 du 22 juin 1988 (SPSS8800872D)](decret-n88-795-du-22-juin-1988-spss8800872d)
