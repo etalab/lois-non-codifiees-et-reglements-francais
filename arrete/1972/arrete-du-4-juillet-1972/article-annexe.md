@@ -20,11 +20,13 @@ IV. - Véhicules contraints par nécessité de service de circuler lentement ou 
 
 4.3. Véhicules de voirie
 
-Arroseuses ;
+- Arroseuses ;
 
-Balayeuses ;
+- Balayeuses ;
 
-Bennes à ordures ménagères.
+- Bennes à ordures ménagères ;
+
+- Engins de service hivernal.
 
 4.4. Véhicules à progression rapide de catégorie A définis par l'arrêté du 30 juin 1971 relatif aux feux spéciaux des véhicules d'intervention urgente.
 
