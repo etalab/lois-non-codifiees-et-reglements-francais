@@ -55,6 +55,7 @@
 - [Décret n°97-942 du 10 octobre 1997 (MENU9702930D)](decret-n97-942-du-10-octobre-1997-menu9702930d)
 - [Décret n°99-495 du 10 juin 1999 (ECOP9900216D)](decret-n99-495-du-10-juin-1999-ecop9900216d)
 - [Décret n°98-74 du 11 février 1998 (MESP9820043D)](decret-n98-74-du-11-fevrier-1998-mesp9820043d)
+- [Décret n°98-79 du 11 février 1998 (MESP9820016D)](decret-n98-79-du-11-fevrier-1998-mesp9820016d)
 - [Décret n°98-21 du 12 janvier 1998 (PRMX9702488D)](decret-n98-21-du-12-janvier-1998-prmx9702488d)
 - [Décret n°98-23 du 12 janvier 1998 (MENN9703460D)](decret-n98-23-du-12-janvier-1998-menn9703460d)
 - [Décret n°98-24 du 12 janvier 1998 (MENN9703459D)](decret-n98-24-du-12-janvier-1998-menn9703459d)
