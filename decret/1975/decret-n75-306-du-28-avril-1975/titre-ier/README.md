@@ -1,4 +1,4 @@
-# TITRE Ier - Champ d'application - Définitions - Equivalents de dose et concentrations maximaux admissibles - Modalités d'irradiation.
+# TITRE Ier - CHAMP D'APPLICATION - DEFINITIONS - CLASSIFICATION DES TRAVAILLEURS - PRINCIPES GENERAUX DE PROTECTION ET LIMITES D'EXPOSITION PROFESSIONNELLE.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
