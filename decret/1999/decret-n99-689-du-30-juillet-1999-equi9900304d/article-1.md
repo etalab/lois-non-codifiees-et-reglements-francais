@@ -1,0 +1,3 @@
+# Article 1
+
+Les agents non fonctionnaires de l'administration (ANFA), exerçant des fonctions techniques, régis par la convention collective du travail du 10 mai 1968, en fonctions dans le service de Météo-France en Polynésie française, classés en 3e catégorie, qui occupent un emploi présentant les caractéristiques définies à l'article 3 de la loi du 13 juillet 1983 susvisée et remplissent les conditions énumérées à l'article 73 de la loi du 11 janvier 1984 susvisée, ont vocation à être titularisés, sur leur demande, dans le corps de l'Etat des aides-techniciens de la météorologie pour l'administration de la Polynésie française.
