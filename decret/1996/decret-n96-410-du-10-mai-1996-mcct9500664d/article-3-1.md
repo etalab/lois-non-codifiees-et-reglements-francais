@@ -1,3 +1,0 @@
-# Article 3-1
-
-Le directeur du développement des médias détermine un taux unitaire de subvention au titre de cette 1re section. L'aide attribuée à chaque publication est calculée en multipliant ce taux unitaire par le nombre moyen d'exemplaires effectivement vendus au numéro au cours de l'année civile précédant l'année d'attribution de l'aide. Toutefois, le montant de l'aide attribuée à une publication ne peut être inférieur à celui qu'obtiendrait une publication hebdomadaire régionale ayant une diffusion totale payée au numéro de 2 000 exemplaires par parution, ni supérieur à celui qu'obtiendrait une publication ayant une diffusion totale payée au numéro de 20 000 exemplaires par parution.
