@@ -4,7 +4,7 @@ Les dispositions du premier alinéa de l'article 53 de la loi n° 84-53 du 26 ja
 
 a) Communautés urbaines et communautés de villes ;
 
-b) Syndicats d'agglomération nouvelle, districts, syndicats intercommunaux et communautés de communes ; ".
+b) Syndicats d'agglomération nouvelle, districts, syndicats intercommunaux et communautés de communes, syndicats mixtes composés exclusivement de collectivités territoriales ou de groupements de ces collectivités ; ".
 
 c) Centres de gestion.
 
