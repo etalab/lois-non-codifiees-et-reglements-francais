@@ -1,6 +1,6 @@
 # Article Annexe
 
-1. Dénomination et adresse, numéro de téléphone et, le cas échéant, numéro de télex de la collectivité ou du service qui passe le marché.
+1. Dénomination et adresse, numéro de téléphone et, le cas échéant, numéro de télex et de télécopie de la collectivité ou du service qui passe le marché.
 
 2. Mode de passation choisi :
 
@@ -28,7 +28,9 @@ Adresse du service où ces documents peuvent être demandés ou retirés ;
 
 b) Date limite pour effectuer cette demande ;
 
-c) Dans l'hypothèse où la collectivité ou le service aurait renoncé exceptionnellement à leur remise gratuite (2), montant et modalités de paiement de la somme à verser pour obtenir ces documents.
+c) Pour les marchés des collectivités locales et de leurs établissements publics, s'il y a lieu, montant du cautionnement demandé, dans les conditions prévues à l'article 253 bis du code des marchés publics, lors de la remise du dossier de consultation.
+
+d) Montant et modalités de paiement de la somme à verser pour obtenir des exemplaires supplémentaires du dossier de consultation (2).
 
 6. a) Date limite de réception des soumissions ou des offres ;
 
@@ -56,6 +58,6 @@ c) Peuvent-elles être rédigées en langue étrangère ?
 
 (1) Rayer la mention inutile.
 
-(2) Il est rappelé que demeurent en vigueur la circulaire du 19 octobre 1971 du ministère de l'économie et des finances ainsi que les recommandations du ministère de l'intérieur du 31 décembre 1971 sur la remise gratuite des dossiers aux candidats aux marchés publics.
+(2) Il est rappelé que, pour les marchés de l'Etat, les pièces nécessaires à la consultation doivent être remises gratuitement aux candidats (art. 43 bis du code des marchés publics). Ne peuvent donc, le cas échéant, faire l'objet d'un paiement que les exemplaires supplémentaires de ces documents.
 
 (3) A remplir uniquement dans le cas où l'on attache une importance particulière à l'un des critères mentionnés aux articles 97 et 300 du code des marchés publics ou dans les cas où d'autres critères supplémentaires sont envisagés.

@@ -47,6 +47,7 @@
 - [Décret n°88-697 du 9 mai 1988 (MCCK8800295D)](decret-n88-697-du-9-mai-1988-mcck8800295d)
 - [Décret n°88-1033 du 10 novembre 1988 (MCCB8800655D)](decret-n88-1033-du-10-novembre-1988-mccb8800655d)
 - [Décret n°88-1035 du 10 novembre 1988 (SPSS8801153D)](decret-n88-1035-du-10-novembre-1988-spss8801153d)
+- [Décret n°88-1042 du 10 novembre 1988 (PRMC8805094D)](decret-n88-1042-du-10-novembre-1988-prmc8805094d)
 - [Décret n°88-151 du 10 février 1988 (ECOM8730215D)](decret-n88-151-du-10-fevrier-1988-ecom8730215d)
 - [Décret n°88-873 du 10 août 1988 (PTTP8800606D)](decret-n88-873-du-10-aout-1988-pttp8800606d)
 - [Décret n°88-874 du 10 août 1988 (PTTP8800607D)](decret-n88-874-du-10-aout-1988-pttp8800607d)
