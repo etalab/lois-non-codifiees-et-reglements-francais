@@ -2,26 +2,22 @@
 
 Le conseil scientifique comprend vingt-quatre membres :
 
-1° Cinq membres de droit :
+1° Douze personnalités qualifiées en raison de leurs compétences dans les domaines d'activité de l'établissement public, dont trois désignées par le conseil d'administration de l'école et neuf nommées par le ministre chargé de l'enseignement supérieur, dont quatre sur proposition du ministre chargé de la culture ;
 
-a) Le directeur de l'école ;
+2° Douze membres élus :
 
-b) Le directeur des études et de la recherche ;
+a) Deux représentants élus des professeurs des universités et des personnels d'enseignement et de recherche assimilés, conformément aux dispositions de l'article 3-1 A du décret du 18 janvier 1985 susvisé ;
 
-c) Le directeur chargé des bibliothèques au ministère chargé de l'enseignement supérieur ou son représentant ;
+b) Deux représentants élus des autres personnels d'enseignement et de recherche, à l'exclusion des personnels scientifiques des bibliothèques mentionnés au 5° de l'article 3-1 B du décret du 18 janvier 1985 susvisé ;
 
-d) Le directeur chargé du livre et de la lecture au ministère chargé de la culture ou son représentant ;
+c) Quatre représentants élus des personnels scientifiques des bibliothèques ;
 
-e) Le directeur chargé des collectivités territoriales au ministère chargé de l'intérieur ou son représentant.
+d) Un représentant élu des personnels ingénieurs, administratifs, techniques, ouvriers, sociaux et de santé ;
 
-2° Sept membres extérieurs à l'école nommés en raison de leur compétence par le ministre chargé de l'enseignement supérieur, dont trois sur proposition du ministre chargé de la culture et un sur proposition du Conseil supérieur des bibliothèques.
+e) Trois représentants des élèves, élus par des collèges distincts, dont un représentant au titre des conservateurs de l'Etat, un représentant au titre des conservateurs des collectivités territoriales et un représentant des élèves non fonctionnaires.
 
-3° Douze membres élus :
+Le directeur, le directeur des études et des stages et le directeur de la recherche de l'école assistent aux délibérations du conseil avec voix consultative, sauf s'ils relèvent du 1° ci-dessus.
 
-a) Cinq représentants élus des professeurs d'université et des personnels assimilés conformément à l'article 3-1A du décret du 18 janvier 1985 susvisé ;
+Tout établissement public ayant passé une convention avec l'école pourra être représenté, avec voix consultative, au conseil scientifique par une personne de son choix chaque fois qu'une question concernant l'exécution de cette convention figurera à l'ordre du jour.
 
-b) Quatre représentants élus des autres personnels d'enseignement et de recherche ;
-
-c) Trois représentants des élèves, élus par des collèges distincts, dont un représentant des conservateurs stagiaires, un représentant des fonctionnaires territoriaux stagiaires et un représentant des élèves non fonctionnaires.
-
-Le conseil scientifique élit son président parmi les membres nommés, dans les conditions prévues à l'article 11.
+Le conseil scientifique élit son président et son vice-président parmi les personnalités qualifiées extérieures à l'école, dans les conditions prévues à l'article 11. Le vice-président remplace le président en cas d'empêchement de celui-ci.

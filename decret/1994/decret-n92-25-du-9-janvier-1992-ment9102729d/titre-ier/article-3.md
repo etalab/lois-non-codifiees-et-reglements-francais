@@ -1,10 +1,10 @@
 # Article 3
 
-L'école prépare, par une formation scientifique et culturelle, des élèves se destinant à des fonctions d'encadrement des bibliothèques et des services de documentation et d'information scientifique et technique.
+L'école prépare, par une formation scientifique, culturelle et professionnelle, des élèves se destinant à des fonctions scientifiques et d'encadrement dans les bibliothèques et les services de documentation et d'information scientifique et technique.
 
-Elle assure notamment la formation initiale des conservateurs stagiaires recrutés selon les modalités prévues par le décret du 9 janvier 1992 susvisé.
+Elle assure notamment la formation initiale des conservateurs stagiaires recrutés selon les modalités prévues par le décret du 9 janvier 1992 susvisé et des bibliothécaires stagiaires recrutés selon les modalités prévues par le décret n° 92-29 du 9 janvier 1992 portant statut particulier du corps des bibliothécaires.
 
-Elle peut participer à la formation de fonctionnaires stagiaires des collectivités territoriales et de leurs établissements publics exerçant leurs activités dans les domaines des bibliothèques, de la documentation et des sciences de l'information, ainsi que d'élèves non fonctionnaires et d'auditeurs libres français ou étrangers.
+Elle peut participer à la formation des conservateurs et des bibliothécaires des collectivités territoriales et de leurs établissements publics, ainsi que d'élèves non fonctionnaires et d'auditeurs libres français ou étrangers.
 
 Elle mène des recherches en sciences de l'information et en assure la valorisation.
 

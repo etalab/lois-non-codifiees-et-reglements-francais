@@ -18,9 +18,9 @@ La commission de discipline comprend :
 
 2° Le secrétaire général de l'école ;
 
-3° Trois représentants des personnels enseignants choisis en leur sein par les représentants de ces personnels au conseil d'administration ;
+3° Les trois représentants des personnels mentionnés au 4° de l'article 31 ci-dessus ;
 
-4° Les représentants des élèves non fonctionnaires au conseil d'administration ainsi qu'un autre représentant élu par les élèves non fonctionnaires.
+4° Le représentant des élèves non fonctionnaires au conseil d'administration ainsi que deux autres représentants élus par les élèves non fonctionnaires.
 
 En outre, un représentant est élu dans les conditions prévues au 4° de l'alinéa précédent. Il siège lorsque la commission de discipline est appelée à connaître du cas d'un de ses membres.
 

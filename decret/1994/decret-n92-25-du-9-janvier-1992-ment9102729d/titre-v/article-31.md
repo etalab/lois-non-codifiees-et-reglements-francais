@@ -1,31 +1,23 @@
 # Article 31
 
-Les sanctions disciplinaires applicables aux conservateurs stagiaires et aux fonctionnaires territoriaux stagiaires sont :
-
-1° L'avertissement ;
-
-2° Le blâme ;
-
-3° L'exclusion de l'école pour une durée déterminée ;
-
-4° L'exclusion définitive de l'école.
-
-Elles sont prononcées, après avis du conseil de discipline, par le directeur, pour les deux premières, par le ministre chargé de l'enseignement supérieur ou par l'autorité territoriale de recrutement, pour les deux autres.
+Le régime disciplinaire applicable aux élèves se destinant aux fonctions de conservateur de l'Etat est fixé par le titre II du décret n° 94-874 du 7 octobre 1994 fixant les dispositions communes applicables aux stagiaires de l'Etat et de ses établissements publics. Les sanctions prévues au 1°, au 2° et au 3° de l'article 10 dudit décret sont prononcées par le directeur de l'école, après avis du conseil de discipline.
 
 Le conseil de discipline comprend :
 
 1° Le directeur de l'école, président ;
 
-2° Le secrétaire général de l'école ;
+2° Le directeur des études et des stages ;
 
-3° Trois représentants des personnels enseignants, choisis en leur sein par les représentants de ces personnels au conseil d'administration de l'école ;
+3° Le secrétaire général de l'école ;
 
-4° Les représentants au conseil d'administration de la catégorie d'élèves à laquelle appartient le stagiaire déféré au conseil de discipline, ainsi qu'un autre représentant de cette catégorie, élu dans les conditions prévues à l'article 16.
+4° Trois représentants des personnels appartenant respectivement aux collèges électoraux définis aux a, b et c du 3° de l'article 10 du présent décret, choisis en leur sein par les représentants de ces personnels au conseil d'administration de l'école, à raison d'un représentant pour chacun de ces collèges ;
 
-En outre, pour chaque catégorie, un suppléant est élu dans les mêmes conditions ; il siège lorsque le conseil de discipline est appelé à connaître du cas d'un de ses membres.
+5° Les représentants des élèves au titre des conservateurs de l'Etat au conseil d'administration, ainsi qu'un autre représentant de ces élèves, élu dans les conditions prévues à l'article 16.
+
+En outre, un suppléant est élu dans les mêmes conditions ; il siège lorsque le conseil de discipline est appelé à connaître du cas de l'un de ses membres.
 
 Le conseil de discipline est saisi par le directeur.
 
-Le conseil ne peut valablement délibérer que si la moitié de ses membres sont présents. Le nombre des représentants des élèves ne peut en aucun cas être supérieur à celui des personnels enseignants.
+Le conseil ne peut valablement délibérer que si la moitié de ses membres sont présents. Le nombre des représentants des élèves ne peut en aucun cas être supérieur à celui des personnels enseignants et assimilés.
 
 Les délibérations sont prises au scrutin secret et à la majorité des présents.

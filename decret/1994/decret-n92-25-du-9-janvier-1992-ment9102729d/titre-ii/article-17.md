@@ -1,6 +1,6 @@
 # Article 17
 
-Au conseil d'administration et au conseil scientifique, les personnalités nommées par le ministre chargé de l'enseignement supérieur en raison de leur compétence sont désignées pour une période de trois années renouvelable une fois. En cas de vacance d'un siège pour quelque cause que ce soit, un nouveau membre est désigné dans les mêmes conditions que son prédécesseur.
+Au conseil d'administration et au conseil scientifique, les personnalités nommées en raison de leurs compétences sont désignées pour une période de trois années renouvelable une fois. En cas de vacance d'un siège pour quelque cause que ce soit, un nouveau membre est désigné dans les mêmes conditions que son prédécesseur.
 
 Le mandat des membres élus des conseils est de trois ans, à l'exception des représentants des élèves, dont le mandat est d'un an.
 

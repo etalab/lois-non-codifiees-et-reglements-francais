@@ -16,4 +16,4 @@ Le directeur dirige l'établissement et exerce toutes les compétences qui ne so
 
 7° Il organise les opérations électorales.
 
-Il peut déléguer sa signature au secrétaire général et au directeur des études et de la recherche.
+Il peut déléguer sa signature au directeur des études et des stages, au directeur de la recherche et au secrétaire général.
