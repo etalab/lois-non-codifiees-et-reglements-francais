@@ -30,6 +30,7 @@
 - [Décret n°58-1010 du 24 octobre 1958](decret-n58-1010-du-24-octobre-1958)
 - [Décret n°59-575 du 24 avril 1959](decret-n59-575-du-24-avril-1959)
 - [Décret n°58-1152 du 25 novembre 1958](decret-n58-1152-du-25-novembre-1958)
+- [Décret n°58-1354 du 27 décembre 1958](decret-n58-1354-du-27-decembre-1958)
 - [Décret n°58-1034 du 28 octobre 1958](decret-n58-1034-du-28-octobre-1958)
 - [Décret n°58-1155 du 28 novembre 1958](decret-n58-1155-du-28-novembre-1958)
 - [Décret n°58-1156 du 28 novembre 1958](decret-n58-1156-du-28-novembre-1958)
