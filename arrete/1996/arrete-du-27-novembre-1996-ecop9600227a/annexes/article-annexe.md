@@ -2,7 +2,7 @@
 
 LISTE DES SERVICES DE L'ADMINISTRATION CENTRALE DU MINISTÈRE DE L'ÉCONOMIE ET DES FINANCES AU SEIN DESQUELS S'APPLIQUE L'EXPÉRIMENTATION DE L'ANNUALISATION DU SERVICE A TEMPS PARTIEL
 
-Commission de contrôle des assurances.
+Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.
 
 Direction générale de la concurrence, de la consommation et de la répression des fraudes.
 
@@ -10,11 +10,9 @@ Direction générale des douanes et droits indirects.
 
 Contrôle des dépenses engagées.
 
-Direction du Trésor.
+Direction générale du Trésor et de la politique économique.
 
 Direction de la prévision.
-
-Direction des relations économiques extérieures.
 
 Direction du personnel et de l'administration.
 
