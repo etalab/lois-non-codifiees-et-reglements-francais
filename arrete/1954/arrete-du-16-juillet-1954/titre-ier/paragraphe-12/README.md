@@ -4,3 +4,4 @@
 - [Article 42 d](article-42-d.md)
 - [Article 42 e](article-42-e.md)
 - [Article 42 f](article-42-f.md)
+- [Article 42 g](article-42-g.md)
