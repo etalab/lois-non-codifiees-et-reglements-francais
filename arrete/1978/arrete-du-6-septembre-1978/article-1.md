@@ -1,33 +1,13 @@
 # Article 1
 
-Dans les établissements énumérés par l'article L. 792 (1, 2 et 3 ) du code de la santé publique, les membres du personnel de direction peuvent recevoir une indemnité de responsabilité dont les taux annuels moyens et maximaux sont fixés comme suit en fonction de la classe à laquelle appartient le bénéficiaire :
+Les dispositions des articles 15 et 16 du décret susvisé du 31 octobre 1973 sont applicables aux établissements et équipements sportifs et socio-éducatifs ci-après énumérés, lorsque l'Etat en est propriétaire ou lorsque la collectivité locale propriétaire a confié à l'Etat la direction et la responsabilité des travaux de construction ou d'aménagement :
 
-PERSONNEL DE DIRECTION : 5 classe
+- établissements nationaux de la jeunesse et des sports ;
 
-TAUX MOYEN : 260 Frs
+- centres régionaux d'éducation physique et sportive ;
 
-TAUX MAXIMUM : 520 Frs.
+- instituts régionaux d'éducation physique et sportive ;
 
-PERSONNEL DE DIRECTION : 4 classe et assistants
+- équipements sportifs et socio-éducatifs des collectivités locales ;
 
-TAUX MOYEN : 275 Frs
-
-TAUX MAXIMUM : 550 Frs.
-
-PERSONNEL DE DIRECTION : 3 classe
-
-TAUX MOYEN : 325 Frs
-
-TAUX MAXIMUM : 650 Frs.
-
-PERSONNEL DE DIRECTION : 2 classe
-
-TAUX MOYEN : 375 Frs
-
-TAUX MAXIMUM : 750 Frs.
-
-PERSONNEL DE DIRECTION : 1re classe et directeurs généraux des CHR de Lyon et Marseille
-
-TAUX MOYEN : 500 Frs
-
-TAUX MAXIMUM : 1000 Frs.
+- locaux administratifs destinés aux usagers des directions régionales et départementales de la jeunesse et des sports.
