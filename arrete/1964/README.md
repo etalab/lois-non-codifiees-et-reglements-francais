@@ -1,5 +1,6 @@
 # 1964
 
+- [Arrêté du 1 juin 1964](arrete-du-1-juin-1964)
 - [Arrêté du 2 mars 1964](arrete-du-2-mars-1964)
 - [Arrêté du 3 février 1964](arrete-du-3-fevrier-1964)
 - [Arrêté du 10 janvier 1964](arrete-du-10-janvier-1964)
