@@ -10,5 +10,3 @@
 - [Article 20 A](article-20-a.md)
 - [Article 20 B](article-20-b.md)
 - [Article 21](article-21.md)
-- [Article 22](article-22.md)
-- [Article 23](article-23.md)
