@@ -5,6 +5,7 @@
 - [Arrêté du 5 janvier 1970](arrete-du-5-janvier-1970)
 - [Arrêté du 7 février 1967](arrete-du-7-fevrier-1967)
 - [Arrêté du 8 juillet 1968](arrete-du-8-juillet-1968)
+- [Arrêté du 8 juin 1967](arrete-du-8-juin-1967)
 - [Arrêté du 10 janvier 1967](arrete-du-10-janvier-1967)
 - [Arrêté du 13 janvier 1967](arrete-du-13-janvier-1967)
 - [Arrêté du 17 avril 1967](arrete-du-17-avril-1967)
