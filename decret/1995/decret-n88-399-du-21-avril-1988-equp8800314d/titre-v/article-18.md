@@ -107,3 +107,5 @@ Moitié de l'ancienneté acquise.
 1er échelon
 
 Sans ancienneté.
+
+Les services accomplis depuis la date de création du corps des contrôleurs des travaux publics de l'Etat par les conducteurs des travaux publics de l'Etat qui exerçaient des fonctions de contrôleur des travaux publics de l'Etat à cette date sont assimilés à des services accomplis comme contrôleur des travaux publics de l'Etat.

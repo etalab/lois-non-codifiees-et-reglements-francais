@@ -4,7 +4,7 @@ Peuvent être promus contrôleur principal des travaux publics de l'Etat par arr
 
 1° Par la voie d'un concours sur épreuves professionnelles dont les modalités sont fixées par arrêté conjoint du ministre chargé de l'équipement et du ministre chargé de la fonction publique, les contrôleurs des travaux publics de l'Etat justifiant en cette qualité de six années de services effectifs. Nul ne peut être autorisé à se présenter plus de trois fois audit concours ; toutefois les candidats qui, sans être reçus, ont obtenu au moins une fois les notes minimales fixées par le règlement du concours peuvent se présenter une quatrième fois ;
 
-2° Après inscription au tableau d'avancement dans la limite du quart des emplois à pourvoir en application du 1° ci-dessus, les contrôleurs des travaux publics de l'Etat détenant au moins le neuvième échelon de leur grade. Lorsque le nombre des promotions à prononcer au titre du 1° ci-dessus n'est pas un multiple de 5, le reste est ajouté aux nominations à prononcer au cours de l'année suivante pour le calcul des nominations pouvant intervenir au cours de cette nouvelle année, en application du 2°.
+2° Après inscription au tableau d'avancement dans la limite du quart des emplois à pourvoir, les contrôleurs des travaux publics de l'Etat détenant au moins le neuvième échelon de leur grade.
 
 Les contrôleurs des travaux publics de l'Etat nommés au grade de contrôleur principal des travaux publics de l'Etat sont classés dans ce grade conformément au tableau ci-après :
 
@@ -69,3 +69,5 @@ Ancienneté acquise.
 1er échelon
 
 Ancienneté acquise majorée de 6 mois.
+
+Les contrôleurs promus au grade de contrôleur principal entre le 1er janvier 1989 et le 31 juillet 1990 peuvent demander, dans un délai de six mois à compter de la date de publication du présent décret, le report de la date de leur nomination au 1er août 1994. Pour les bénéficiaires de ces dispositions, l'ancienneté du service dans le grade de contrôleur principal reste décomptée à partir de la date à laquelle ils y ont initialement accédé.
