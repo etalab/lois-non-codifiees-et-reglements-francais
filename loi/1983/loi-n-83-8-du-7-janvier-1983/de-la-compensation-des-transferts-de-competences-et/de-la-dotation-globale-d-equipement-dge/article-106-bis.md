@@ -1,6 +1,6 @@
 # Article 106 Bis
 
-La première part de la dotation globale d'équipement mentionnée à l'article précédent est répartie chaque année *périodicité* entre les départements, leurs groupements et les syndicats à caractère administratif associant des communes ou groupements de communes et un ou plusieurs départements ou régions, après consultation du comité des finances locales, à raison de :
+La première part de la dotation globale d'équipement mentionnée à l'article précédent est répartie chaque année *périodicité* entre les départements, leurs groupements, les syndicats à caractère administratif associant des communes ou groupements de communes et un ou plusieurs départements ou régions, ainsi que les services départementaux d'incendie et de secours, après consultation du comité des finances locales, à raison de :
 
 75 p. 100 au plus *montant, pourcentage*, au prorata des dépenses réelles directes d'investissement de chaque département, groupement de départements ou syndicats à caractère administratif regroupant des communes ou groupements de communes et un ou plusieurs départements ou régions ;
 
