@@ -101,6 +101,8 @@
 - [Décret n°94-210 du 7 mars 1994 (DOMP9400003D)](decret-n94-210-du-7-mars-1994-domp9400003d)
 - [Décret n°94-38 du 7 janvier 1994 (DEFP9302166D)](decret-n94-38-du-7-janvier-1994-defp9302166d)
 - [Décret n°94-40 du 7 janvier 1994 (ENVE9310108D)](decret-n94-40-du-7-janvier-1994-enve9310108d)
+- [Décret n°94-471 du 7 juin 1994 (AGRM9400196D)](decret-n94-471-du-7-juin-1994-agrm9400196d)
+- [Décret n°94-472 du 7 juin 1994 (COPC9400001D)](decret-n94-472-du-7-juin-1994-copc9400001d)
 - [Décret n°94-794 du 7 septembre 1994 (DEFX9400121D)](decret-n94-794-du-7-septembre-1994-defx9400121d)
 - [Décret n°94-795 du 7 septembre 1994 (DEFX9400122D)](decret-n94-795-du-7-septembre-1994-defx9400122d)
 - [Décret n°93-1289 du 8 décembre 1993 (EQUP9301460D)](decret-n93-1289-du-8-decembre-1993-equp9301460d)
