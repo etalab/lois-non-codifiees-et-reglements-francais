@@ -1,6 +1,6 @@
 # Article 2
 
-L'activité du laboratoire est appréciée d'après le volume global des analyses exécutées au cours de l'année civile précédente. Elle s'exprime en un nombre d'unités dont chacune correspond à la lettre clé fixée en application de l'article L. 267 du code de la sécurité sociale pour servir de base à la tarification des analyses de biologie médicale.
+L'activité du laboratoire est appréciée d'après le volume total des analyses effectuées sur place par le laboratoire, au cours de l'année civile précédente, quelle que soit l'origine des prélèvements. Elle s'exprime en un nombre d'unités dont chacune correspond à la lettre clé fixée en application de l'article L. 162-14-1 du code de la sécurité sociale pour servir de base à la tarification des analyses de biologie médicale.
 
 Tant qu'elle ne s'est pas déroulée sur une année civile complète l'activité annuelle d'un nouveau laboratoire est déterminée par référence au nombre prévisionnel d'unités pris en consisération lors de l'octroi de l'autorisation.
 

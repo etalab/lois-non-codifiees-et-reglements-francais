@@ -1,3 +1,5 @@
 # Article 23
 
 La déclaration prévue au quatrième alinéa de l'article L. 757 doit être faite au préfet [*autorité administrative compétente*], dans le délai d'un mois, chaque fois qu'une modification est apportée à l'un des éléments énumérés à l'article 15 ci-dessus ; si le déclarant estime que cette modification doit entraîner dans son activité une augmentation ou une réduction de nature à faire varier le nombre minimum de techniciens exigé par l'article 3 ou par l'article 11 ci-dessus, il fait mention dans sa déclaration du nombre annuel d'unités correspondant aux actes qu'il prévoit d'accomplir. Lorsque les résultats constatés à la fin d'une année civile entraînent une modification du nombre minimum de techniciens, déclaration en est faite dans le même délai.
+
+Le volume total des analyses effectuées sur place et le volume global des analyses transmises, tel que défini à l'article 20-1, le nombre de directeurs et directeurs adjoints et le nombre de techniciens sont déclarés tous les ans, par chaque laboratoire d'analyses de biologie médicale, à la direction départementale des affaires sanitaires et sociales.
