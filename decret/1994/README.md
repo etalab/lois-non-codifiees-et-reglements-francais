@@ -17,6 +17,8 @@
 - [Décret n°94-441 du 1 juin 1994 (DOMP9400011D)](decret-n94-441-du-1-juin-1994-domp9400011d)
 - [Décret n°94-94 du 2 février 1994 (EQUB9301951D)](decret-n94-94-du-2-fevrier-1994-equb9301951d)
 - [Décret n°94-95 du 2 février 1994 (EQUB9400021D)](decret-n94-95-du-2-fevrier-1994-equb9400021d)
+- [Décret n°94-346 du 2 mai 1994 (TEFT9400303D)](decret-n94-346-du-2-mai-1994-teft9400303d)
+- [Décret n°94-347 du 2 mai 1994 (TEFT9400304D)](decret-n94-347-du-2-mai-1994-teft9400304d)
 - [Décret n°91-1228 du 3 décembre 1991 (MENT9102026D)](decret-n91-1228-du-3-decembre-1991-ment9102026d)
 - [Décret n°94-115 du 3 février 1994 (FPPA9300140D)](decret-n94-115-du-3-fevrier-1994-fppa9300140d)
 - [Décret n°94-3 du 3 janvier 1994 (MCCX9300196D)](decret-n94-3-du-3-janvier-1994-mccx9300196d)
