@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions des articles 1er, 2, 3 et 4 de l'article 5, à l'exclusion du dernier alinéa de son point 2, du point 2 de l'article 6 et celles de l'article 7 du règlement du Conseil de l'Union européenne du 5 décembre 1994 susvisé ainsi que les dispositions des points A, B et C de son annexe constituent les mesures d'exécution prévues à l'article L. 214-1 du code de la consommation ; il en est de même des dispositions, ayant le même objet, des règlements communautaires qui les modifieraient ou seraient pris pour leur application, dans la mesure où elles entrent dans les prévisions dudit article L. 214-1.
