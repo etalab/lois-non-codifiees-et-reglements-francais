@@ -12,4 +12,4 @@ S'il y a lieu, le bureau comporte, outre la section statuant sur les demandes po
 
 - une section chargée d'examiner les demandes relatives aux affaires portées devant la cour administrative d'appel et les autres juridictions administratives statuant à charge de recours devant le Conseil d'Etat.
 
-Le demandeur peut adresser sa demande au bureau du lieu de son domicile.
+Le demandeur peut adresser sa demande au bureau du lieu de son domicile. S'il n'a pas de domicile, le demandeur peut adresser sa demande au bureau d'aide juridictionnelle établi au siège de la juridiction dans le ressort de laquelle se trouve l'organisme d'accueil choisi par lui. Pour les besoins de la procédure d'aide juridictionnelle, le demandeur est réputé domicilié audit organisme d'accueil.

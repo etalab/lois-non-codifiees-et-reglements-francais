@@ -4,7 +4,7 @@ Il est institué un conseil national des politiques de lutte contre la pauvreté
 
 - d'animer les réflexions sur la coordination des politiques d'insertion au plan national et local ;
 
-- de proposer ou de réaliser toutes études sur les phénomènes de pauvreté et de précarité ;
+- de réaliser ou de faire réaliser, notamment par l'Observatoire national de la pauvreté et de l'exclusion sociale, toutes études sur les situations et phénomènes de précarité et d'exclusion sociale ;
 
 - de faire des propositions sur les problèmes posés par la pauvreté.
 

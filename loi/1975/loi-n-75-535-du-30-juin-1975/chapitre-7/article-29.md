@@ -1,9 +1,11 @@
 # Article 29
 
-La formation des travailleurs sociaux est dispensée dans les établissements et services publics ou des établissements privés, agréés à cet effet par les ministres compétents.
+Les établissements publics ou privés dispensant des formations sociales, initiales, permanentes et supérieures contribuent à la qualification et à la promotion des professionnels et des personnels salariés et non salariés engagés dans la lutte contre l'exclusion, la prévention et la réparation des handicaps ou inadaptations, la promotion du développement social. Ils participent au service public de la formation.
 
-Ceux de ces établissements qui relèvent de personnes morales de droit public sont créés sous forme d'établissements publics, à l'exception des écoles de l'Etat assurant la formation des personnels de l'éducation surveillée et de l'administration pénitentiaire.
+A cet effet, ces établissements sont agréés par le ou les représentants des ministres compétents dans la région et, le cas échéant, dans l'académie, dans des conditions définies par décret. Ils s'engagent notamment à recruter des personnels directeurs et formateurs inscrits sur une liste d'aptitude nationale, dans des conditions fixées par voie réglementaire, et à exercer leurs missions suivant les orientations du schéma national des formations sociales arrêté par le ministre chargé des affaires sociales après avis du Conseil supérieur du travail social.
 
-Ceux de ces établissements qui, à la date de promulgation de la présente loi, fonctionnent comme des services non personnalisés de personnes morales de droit public, seront, dans un délai de cinq ans à compter de cette date, [*point de départ*] érigés en établissements publics ou rattachés à un établissement public de même nature.
+Les formations sociales définies par le schéma national susmentionné assurent à la fois une approche globale et transversale et une connaissance concrète des situations d'exclusion et de leurs causes. Elles préparent les travailleurs sociaux à la pratique du partenariat avec les personnes et les familles visées par l'action sociale. Ce schéma s'attache également à coordonner les différentes filières de formation des travailleurs sociaux, notamment avec l'enseignement supérieur, et favorise le développement de la recherche en travail social.
 
-Les dépenses de fonctionnement des établissements publics ou privés conventionnés destinés à la formation de certaines catégories de travailleurs sociaux définies par décret, sont prises en charge par l'Etat.
+Les formations initiales sont sanctionnées par des diplômes et des certificats d'Etat définis par voie réglementaire.
+
+L'Etat garantit aux établissements le financement des dépenses de fonctionnement afférentes à ces formations dans les conditions définies à l'article 29-1.
