@@ -1,4 +1,0 @@
-# Décret n°83-977 du 10 novembre 1983 PORTANT APPLICATION DANS LES DEPARTEMENTS D'OUTRE-MER DE L'ARTICLE L351-16 DU CODE DU TRAVAIL
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
