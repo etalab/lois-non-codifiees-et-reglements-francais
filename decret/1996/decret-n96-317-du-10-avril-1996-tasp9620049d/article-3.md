@@ -1,10 +1,10 @@
 # Article 3
 
-I. - La demande d'autorisation, accompagnée du versement mentionné à l'article 22 de la loi du 13 juillet 1992 susvisée, est adressée par le responsable de la dissémination au ministre chargé de la santé, qui procède à son instruction.
+I. - La demande d'autorisation, accompagnée du versement mentionné à l'article 22 de la loi du 13 juillet 1992 susvisée, est adressée par le responsable de la dissémination au directeur général de l'Agence française de sécurité sanitaire des produits de santé, qui procède à son instruction.
 
 Lorsque le demandeur souhaite procéder, au cours d'une période déterminée, à plusieurs disséminations sur un même site d'un organisme génétiquement modifié ou d'une combinaison de plusieurs organismes génétiquement modifiés, ces disséminations peuvent faire l'objet d'une seule demande. Il en va de même s'il s'agit de disséminations, effectuées simultanément sur des sites différents mais dans un même but, d'un même organisme génétiquement modifié, ou de la même combinaison d'organismes génétiquement modifiés.
 
-II. - La demande est formulée par le responsable de la dissémination. Elle est accompagnée d'un dossier technique dont le contenu est fixé par arrêté du ministre chargé de la santé.
+II. - La demande est formulée par le responsable de la dissémination. Elle est accompagnée d'un dossier technique dont le contenu est fixé par arrêté du ministre chargé de la santé sur proposition du directeur général de l'Agence française de sécurité sanitaire des produits de santé.
 
 Elle signale les informations devant, selon le demandeur, rester confidentielles.
 
@@ -24,4 +24,4 @@ c) L'évaluation des effets et des risques pour la santé publique et pour l'env
 
 d) Les méthodes et plans de suivi des opérations et d'interventions en cas d'urgence.
 
-III. - Le ministre chargé de la santé peut présenter à la Commission des Communautés européennes une demande d'application de procédures simplifiées pour celles des demandes d'autorisation qui portent sur la dissémination d'organismes génétiquement modifiés pour lesquels une expérience suffisante a déjà été acquise. Dans ce cas, l'avis de la commission d'étude de la dissémination des produits issus du génie biomoléculaire doit avoir été sollicité sur ce point.
+III. - Le directeur général de l'Agence française de sécurité sanitaire des produits de santé peut présenter à la Commission des Communautés européennes une demande d'application de procédures simplifiées pour celles des demandes d'autorisation qui portent sur la dissémination d'organismes génétiquement modifiés pour lesquels une expérience suffisante a déjà été acquise. Dans ce cas, l'avis de la commission d'étude de la dissémination des produits issus du génie biomoléculaire doit avoir été sollicité sur ce point.
