@@ -1,6 +1,6 @@
 # Article 55
 
-- L'existence en zone de montagne d'un équipement commercial et d'un artisanat de services répondant aux besoins courants des populations et contribuant à l'animation de la vie locale est d'intérêt général.
+L'existence en zone de montagne d'un équipement commercial, d'un artisanat de services et d'une assistance médicale répondant aux besoins courants des populations et contribuant au maintien de la vie locale est d'intérêt général.
 
 L'Etat, les collectivités territoriales et les établissements publics, dans la limite de leurs compétences respectives, prennent en compte la réalisation de cet objectif dans le cadre des actions qu'ils conduisent en matière de développement économique et social. Cette prise en compte peut, notamment en cas de carence ou de défaillance de l'initiative privée, porter sur :
 

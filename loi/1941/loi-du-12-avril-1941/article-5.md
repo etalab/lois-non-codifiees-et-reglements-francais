@@ -1,6 +1,6 @@
 # Article 5
 
-Le conseil interprofessionnel est composé de vingt-neuf membres, nommés par le ministre secrétaire d'Etat à l'agriculture, sur proposition des groupements de base intéressés, à savoir :
+Le conseil interprofessionnel est composé de vingt-neuf membres, nommés par le ministre ou secrétaire d'Etat chargé de l'agriculture, sur proposition des groupements de base intéressés, à savoir :
 
 Dix représentants des récoltants ;
 

@@ -4,16 +4,16 @@ Le comité interprofessionnel du vin de Champagne a pour mission de prendre, sel
 
 1° Etablir le bilan des ressources et besoins et, pour ce faire, prescrire la remise de tous les renseignements d'ordre économique qu'il jugera utile ;
 
-2° Organiser, contrôler, orienter la production, la distribution, la transformation et les échanges sur le marché national ou sur les marchés extérieurs, des vins produits dans la Champagne délimitée, dans le souci d'assurer le respect des usages loyaux et constants et le maintien de la qualité ;
+2° Contribuer à l'organisation de la production et assurer une meilleure coordination de la mise sur le marché des produits ;
 
-3° Organiser, discipliner les rapports entre les diverses professions intéressées ;
+3° Organiser, discipliner les rapports entre les diverses professions intéressées, notamment au moyen de contrats types pour la vente et l'achat des raisins, des moûts et des vins ;
 
-4° Intervenir par des mesures générales pour l'approvisionnement du marché en cas de production déficitaire, ou par son assainissement en cas de production excédentaire, en vue d'assurer, dans la mesure du possible, la stabilité du prix à la production et à la consommation ;
+4° Améliorer le fonctionnement du marché par la fixation de règles de mise en réserve et/ou de sortie échelonnée des produits ;
 
-5° Etudier et proposer les prix et modalités de paiement applicables aux échanges entre récoltants et négociants ainsi que les rémunérations des divers intermédiaires en cause, sous réserve des dispositions générales, applicables en matière de prix ;
+5° Contribuer à la qualité et à la traçabilité des raisins, des moûts et des vins ;
 
-6° Etablir les conditions générales des contrats d'exportation et effectuer un contrôle de la qualité des produits exportés aux divers stades de la distribution ;
+6° Favoriser le développement durable de la viticulture, la protection de l'environnement et l'aménagement rationnel du vignoble ;
 
 7° Décider l'établissement de cartes professionnelles ;
 
-8° Etablir, chaque année, le budget nécessaire à la gestion et au contrôle du comité interprofessionnel du vin de Champagne.
+8° Entreprendre des actions d'information, de communication, de valorisation, de protection et de défense en faveur des appellations d'origine contrôlées de la Champagne délimitée.

@@ -1,6 +1,6 @@
 # Article 2
 
-Sont placées sous le régime de la concession les entreprises dont la puissance [*définition*] (produit de la hauteur de chute par le débit maximum de la dérivation) excède 4500 kilowatts.
+Sont placées sous le régime de la concession les entreprises dont la puissance (produit de la hauteur de chute par le débit maximum de la dérivation) excède 4500 kilowatts.
 
 Sont placées sous le régime de l'autorisation toutes les autres entreprises.
 
@@ -12,4 +12,4 @@ Sur certains cours d'eau ou sections de cours d'eau, et dont la liste sera fixé
 
 L'extension du régime de l'autorisation aux entreprises dont la puissance se situe entre 500 et 4500 kilowatts, ne remet pas en cause les obligations que leur imposait le régime de la concession en matière de livraison d'énergie réservée, à un tarif préférentiel.
 
-La procédure d'octroi par le préfet des autorisations comportera une enquête publique et la publication d'une étude ou notice d'impact suivant l'importance de l'ouvrage. L'autorisation impose à son titulaire le respect d'un règlement d'eau fixant notamment les débits prélevés et réservés.
+La procédure d'octroi par le préfet des autorisations comportera une enquête publique et la publication d'une étude ou notice d'impact suivant l'importance de l'ouvrage. L'avis d'ouverture de l'enquête publique doit être publié au plus tard un an après la transmission de la demande et la décision doit être prise dans un délai maximum de vingt-quatre mois après la transmission de la demande. L'autorisation impose à son titulaire le respect d'un règlement d'eau fixant notamment les débits prélevés et réservés.

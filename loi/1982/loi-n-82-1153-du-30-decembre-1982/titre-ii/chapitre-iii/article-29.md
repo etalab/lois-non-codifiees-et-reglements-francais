@@ -16,6 +16,8 @@ Les services réguliers non urbains d'intérêt régional sont inscrits au plan 
 
 Les services réguliers non urbains d'intérêt national font l'objet de conventions à durée déterminée entre l'Etat et le transporteur après avis des régions et départements concernés.
 
+En cas de carence de l'offre de transports, notamment suite à une mise en concurrence infructueuse, il peut être fait appel à des particuliers ou des associations inscrits au registre des transports, dans des conditions dérogatoires aux dispositions de l'article 7 prévues par décret, pour exécuter, au moyen de véhicules de moins de dix places, conducteurs compris, des prestations de transport scolaire visées à l'article L. 213-11 du code de l'éducation ou des prestations de service à la demande.
+
 Les services privés peuvent être organisés par les collectivités publiques, les entreprises et les associations pour les besoins normaux de leur fonctionnement, notamment pour le transport de leur personnel ou de leurs membres. La définition de ces services et les conditions dans lesquelles ils sont exécutés sont fixés par décret en Conseil d'Etat.
 
 Les services occasionnels, sauf lorsqu'ils sont exécutés avec des véhicules de plus de neuf places, conducteur compris, sont soumis à autorisation délivrée par le représentant de l'Etat dans le département concerné, dans les conditions fixées par décret en Conseil d'Etat.

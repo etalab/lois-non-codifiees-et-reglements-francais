@@ -5,7 +5,6 @@
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
-- [Article 16](article-16.md)
-- [Article 17](article-17.md)
+- [Article 15](article-15.md)
 - [Du commissaire du Gouvernement.](du-commissaire-du-gouvernement)
 - [Pouvoirs et fonctionnement du comité interprofessionnel du Champagne.](pouvoirs-et)
