@@ -1,0 +1,5 @@
+# Article 1
+
+L'indemnité complémentaire allouée aux pharmaciens résidents des hôpitaux publics qui assurent, en application de l'article 1er du décret du 22 juillet 1963, les examens biologiques nécessaires à la clientèle hospitalière, en sus du traitement afférent à leurs fonctions de pharmacien est soumise au double plafond suivant: elle ne peut excéder 35 p. 100 du traitement indiciaire net du pharmacien considéré, d'une part, et 50 p. 100 du produit des honoraires versés à la masse plein temps du fait des examens biologiques ainsi pratiqués, d'une part.
+
+Toutefois pour les pharmaciens résidents qui, antérieurement à la publication du décret 64-19 du 4 janvier 1964, percevaient une indemnité complémentaire prélevée sur la masse, le montant maximum de l'indemnité complémentaire ne peut excéder, d'une part le montant annuel de l'indemnité complémentaire perçue pendant l'année 1962, d'autre part, la moitié du produit des honoraires versés à la masse plein temps du fait des examens biologiques pratiqués par les intéressés.
