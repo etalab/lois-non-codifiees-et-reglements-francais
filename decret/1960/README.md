@@ -34,6 +34,7 @@
 - [Décret n°59-1559 du 28 décembre 1959](decret-n59-1559-du-28-decembre-1959)
 - [Décret n°60-296 du 28 mars 1960](decret-n60-296-du-28-mars-1960)
 - [Décret n°60-412 du 28 avril 1960](decret-n60-412-du-28-avril-1960)
+- [Décret n°60-629 du 28 juin 1960](decret-n60-629-du-28-juin-1960)
 - [Décret n°60-226 du 29 février 1960](decret-n60-226-du-29-fevrier-1960)
 - [Décret n°60-94 du 29 janvier 1960](decret-n60-94-du-29-janvier-1960)
 - [Décret n°60-95 du 29 janvier 1960](decret-n60-95-du-29-janvier-1960)
