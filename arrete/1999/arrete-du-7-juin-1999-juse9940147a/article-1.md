@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé, dans le département de la Seine-Saint-Denis, le service pénitentiaire d'insertion et de probation qui se substitue aux comités de probation (CPAL) et services socio-éducatifs des établissements pénitentiaires dudit département. Son siège est fixé à Bobigny.
+Il est créé, dans le département de la Seine-Saint-Denis, le service pénitentiaire d'insertion et de probation qui se substitue aux comités de probation (CPAL) et services socio-éducatifs des établissements pénitentiaires dudit département. Son siège est fixé à Drancy.
