@@ -6,7 +6,7 @@ M. - Le médecin porte une attention particulière à la recherche d'antécéden
 
 M. - Si nécessaire, il prend l'avis des médecins spécialisés dans ces disciplines.
 
-M. - En cas de doute, il pratique ou fait pratiquer un électroencéphalogramme. Il en confronte les résultats avec ceux qui sont fournis par l'examen clinique. Il tire alors les conclusions prévues au paragraphe 2.1.1.4.
+" M. - En cas de doute, le médecin pratique ou fait pratiquer un électroencéphalogramme. Compte tenu de l'examen clinique et des données du paragraphe 2.1.1.4, il en tire alors ses conclusions. "
 
 2.1.1.1. Affections neurologiques
 
@@ -92,13 +92,9 @@ En cas d'hypertension artérielle, l'utilisation de certains agents hypotenseurs
 
 - l'absence d'effets médicamenteux indésirables.
 
-2.1.4. Affections respiratoires
+" 2.1.4. Affections respiratoires
 
-M. - Le médecin se prononce sur les résultats d'un examen radiographique effectué depuis moins d'un an.
-
-Il ne doit exister aucune affection des poumons, de la plèvre ou du médiastin.
-
-Les syndromes d'insuffisance respiratoire sont acceptables si les explorations fonctionnelles respiratoires sont satisfaisantes.
+" Le médecin se prononce à l'admission sur les résultats d'un examen radiographique effectué depuis moins d'un an. Lors des visites ultérieures, le médecin examinateur pourra faire pratiquer une radiographie devant l'existence de facteurs de risque. Il ne doit exister aucune affection des poumons, de la plèvre et du médiastin. Les syndromes d'insuffisance respiratoire sont acceptables si l'exploration fonctionnelle respiratoire est satisfaisante. "
 
 2.1.5. Affections digestives
 

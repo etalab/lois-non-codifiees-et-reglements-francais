@@ -24,14 +24,14 @@ Le candidat ne doit présenter notamment :
 
 - aucune gêne au port d'équipements spéciaux.
 
-4. Une perception auditive compatible avec la sécurité.
+" 4. Une perception auditive compatible avec la sécurité. Elle est déterminée par un audiogramme tonal classique effectué lors de l'examen d'admission, en conduction aérienne, avec casque, oreille par oreille.
 
-Elle est déterminée par un audiogramme tonal classique effectué lors de l'examen d'admission, en conduction aérienne, au casque, oreille par oreille.
+" Lors de l'examen d'admission, le déficit constaté pour chaque oreille ne doit pas être supérieur à 20 décibels pour les fréquences 500, 1 000 et 2 000 hertz et à 35 décibels pour les fréquences 3 000 et 4 000 hertz.
 
-Lors de l'examen d'admission, le déficit constaté pour chaque oreille ne doit pas être supérieur à 20 décibels pour les fréquences 250, 500, 1 000 et 2 000 hertz et à 30 décibels pour les fréquences 3 000 et 4 000 hertz.
+" Lors des examens révisionnels, le déficit constaté pour chaque oreille ne doit pas être supérieur à 35 décibels pour les fréquences 500, 1 000 et 2 000 hertz et à 50 décibels pour les fréquences 3 000 et 4 000 hertz. Un navigant présentant une perte d'audition supérieure aux limites précitées peut être déclaré apte si l'épreuve d'audiométrie vocale effectuée oreille par oreille, au casque, avec un bruit de fond de 65 décibels, utilisant des listes de mots dissylabiques (de type J.E. Fournier) répond, pour chaque oreille, aux normes suivantes :
 
-Lors des examens révisionnels, un navigant présentant une perte d'audition supérieure aux limites précitées peut être déclaré apte si l'épreuve d'audiométrie vocale effectuée oreille par oreille, au casque, avec un bruit de fond de 65 décibels, utilisant des listes de mots dissyllabiques (de type J.-E. Fournier) répond, pour chaque oreille, aux normes suivantes :
+" - courbe d'allure normale dont la pente est suffisante pour atteindre 100 p. 100 d'intelligibilité à 50 décibels.
 
-- courbe d'allure normale dont la pente est suffisante pour atteindre 100 p. 100 d'intelligibilité en 50 décibels ;
+" - déficit au seuil à 50 p. 100 n'excédant pas 30 décibels. "
 
-- déficit au seuil à 50 p. 100 n'excédant pas 30 décibels.
+V. - Le troisième alinéa du paragraphe 2.1.1. (Affections neurologiques et mentales) est remplacé par le suivant :

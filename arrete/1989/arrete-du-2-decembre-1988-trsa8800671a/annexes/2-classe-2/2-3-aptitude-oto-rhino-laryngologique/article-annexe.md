@@ -24,18 +24,20 @@ Le candidat ne doit présenter notamment :
 
 4. Une perception auditive compatible avec la sécurité.
 
-M. - Si, au cours de son entretien, en particulier avec un candidat qui doit réaliser des vols aux instruments, le médecin suspecte l'existence d'une hypoacousie, il effectue un audiogramme. Celui-ci consiste en un audiogramme tonal classique, en conduction aérienne, au casque, oreille par oreille.
+" 4. Une perception auditive compatible avec la sécurité.
 
-Le médecin peut prononcer l'aptitude si le candidat répond pour chaque oreille aux normes suivantes :
+" M. - Si, au cours de son entretien, en particulier avec un candidat qui doit réaliser des vols aux instruments, le médecin suspecte l'existence d'une hypoacousie, il effectue un audiogramme. Celui-ci consiste en un audiogramme tonal classique, en conduction aérienne, au casque oreille par oreille.
 
-1° Lors de l'examen d'admission : déficit au seuil n'excédant pas 30 décibels pour les fréquences 250, 500, 1 000 et 2 000 hertz et 40 décibels pour les fréquences 3 000 et 4 000 hertz ;
+" Le médecin peut prononcer l'aptitude si le candidat répond pour chaque oreille aux normes suivantes :
 
-2° Lors des examens révisionnels :
+" 1° Lors de l'examen d'admission : déficit au seuil n'excédant pas 30 décibels pour les fréquences 500, 1 000 et 2 000 hertz et 50 décibels pour les fréquences 3 000 et 4 000 hertz.
 
-- courbe d'allure normale ;
+" 2° Lors des examens révisionnels :
 
-- 100 p. 100 d'intelligibilité en 60 décibels ;
+" - courbe d'allure normale ;
 
-- déficit au seuil à 50 p. 100 n'excédant pas 40 décibels.
+" - 100 p. 100 d'intelligibilité en 50 décibels ;
 
-M. - Le médecin procède aux examens qui permettent d'apprécier les critères précédents. Si nécessaire, il prend l'avis d'un médecin spécialisé en oto-rhino-laryngologie.
+" - déficit au seuil à 50 p. 100 n'excédant pas 40 décibels.
+
+" M. - Le médecin procède aux examens qui permettent d'apprécier les critères précédents. Si nécessaire, il prend l'avis d'un médecin spécialisé en oto-rhino-laryngologie. "

@@ -6,7 +6,7 @@ M. - Le médecin porte une attention particulière à la recherche d'antécéden
 
 M. - Si nécessaire, il prend l'avis de médecins spécialisés dans ces disciplines.
 
-M. - Un électroencéphalogramme est pratiqué lors de l'examen d'admission et, si nécessaire, lors des examens révisionnels. Ses résultats sont confrontés avec ceux de l'examen clinique.
+" M. - Un électroencéphalogramme est pratiqué lors de l'examen d'admission et, s'il paraît nécessaire au médecin, lors des examens révisionnels. "
 
 1.1.1.1. Affections neurologiques
 
@@ -96,9 +96,7 @@ Une décision d'inaptitude temporaire peut alors être nécessaire pour permettr
 
 1.1.4. Affections respiratoires
 
-Un examen radiographique est pratiqué lors de l'examen d'admission puis annuellement. Il ne doit exister aucune affection des poumons, de la plèvre et du médiastin.
-
-Les syndromes d'insuffisance respiratoire sont acceptables si les explorations fonctionnelles respiratoires sont satisfaisantes.
+" Un examen radiographique est pratiqué lors de l'examen d'admission, puis tous les deux ans. Lors des visites révisionnelles, le médecin examinateur pourra faire pratiquer une radiographie devant l'existence de facteurs de risque ou à la demande de l'intéressé. Il ne doit exister aucune affection des poumons, de la plèvre et du médiastin. Les syndromes d'insuffisance respiratoire sont acceptables si les explorations fonctionnelles respiratoires sont satisfaisantes. "
 
 1.1.5. Affections digestives
 
