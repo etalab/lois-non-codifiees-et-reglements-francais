@@ -632,7 +632,6 @@
 - [Arrêté du 13 janvier 1995 (INDP9500041A)](arrete-du-13-janvier-1995-indp9500041a)
 - [Arrêté du 13 janvier 1995 (INDP9500042A)](arrete-du-13-janvier-1995-indp9500042a)
 - [Arrêté du 13 janvier 1995 (INTB9500024A)](arrete-du-13-janvier-1995-intb9500024a)
-- [Arrêté du 13 janvier 1995 (INTD9500019A)](arrete-du-13-janvier-1995-intd9500019a)
 - [Arrêté du 13 juillet 1995 (ECOT9510242A)](arrete-du-13-juillet-1995-ecot9510242a)
 - [Arrêté du 13 juillet 1995 (ECOT9510243A)](arrete-du-13-juillet-1995-ecot9510243a)
 - [Arrêté du 13 juillet 1995 (ECOT9590060A)](arrete-du-13-juillet-1995-ecot9590060a)
