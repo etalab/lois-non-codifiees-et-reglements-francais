@@ -18,4 +18,8 @@ Il est créé auprès du ministre chargé de l'espace, et sous sa présidence, u
 
 - le délégué général à l'espace ;
 
-- le président et le directeur général du Centre national d'études spatiales.
+- le président et le directeur général du Centre national d'études spatiales ;
+
+- le secrétaire général de la défense nationale ;
+
+- le directeur de la météorologie nationale.
