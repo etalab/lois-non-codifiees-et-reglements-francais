@@ -1,6 +1,8 @@
 # 1968
 
+- [Décret n°68-25 du 2 janvier 1968](decret-n68-25-du-2-janvier-1968)
 - [Décret n°68-23 du 3 janvier 1968](decret-n68-23-du-3-janvier-1968)
+- [Décret n°68-30 du 3 janvier 1968](decret-n68-30-du-3-janvier-1968)
 - [Décret n°68-405 du 3 mai 1968](decret-n68-405-du-3-mai-1968)
 - [Décret n°68-413 du 3 mai 1968](decret-n68-413-du-3-mai-1968)
 - [Décret n°68-10 du 4 janvier 1968](decret-n68-10-du-4-janvier-1968)
