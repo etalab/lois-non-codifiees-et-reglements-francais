@@ -1,0 +1,7 @@
+# Article 7
+
+Les experts chargés de procéder à l'estimation des animaux ou des denrées et produits dont l'abattage ou la destruction a été ordonné dans les circonstances prévues à l'article 1er sont rémunérés à la vacation dont le taux horaire est fixé à 1/200 de la rémunération d'un agent de l'Etat classé à l'indice brut 896. Le taux de la vacation semi-horaire est fixé à la moitié du taux de la vacation horaire.
+
+Le remboursement forfaitaire de tous leurs frais de déplacement est calculé sur la base de la distance "aller-retour" comprise entre le chef-lieu de la commune où réside l'expert et le chef-lieu de la commune où sont détenus les animaux ou des denrées et produits dont l'abattage ou la destruction a été ordonné. Le taux de ce remboursement sera fonction du véhicule personnel utilisé par l'expert, par la formule : (20 t1 + 80 t2) : 100, dans laquelle t1 et t2 représentent respectivement les taux unitaires prévus dans les deux tranches de 0 à 2 000 et de 2 001 à 10 000 kilomètres par l'arrêté fixant les taux des indemnités kilométriques prévues aux articles 31 et 32 du décret n° 90-437 du 28 mars 1990 susvisé.
+
+Il ne peut être alloué qu'un remboursement forfaitaire par jour pour un déplacement effectué dans une même commune. Si, dans une même journée, des estimations d'animaux, de denrées ou de produits sont effectuées par le même expert dans plusieurs communes, la distance à prendre en compte doit être le circuit le plus court.

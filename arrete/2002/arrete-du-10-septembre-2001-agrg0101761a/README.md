@@ -1,4 +1,4 @@
-# Arrêté du 15 mars 2002 fixant les mesures financières relatives à la police sanitaire de la tremblante ovine et caprine
+# Arrêté du 10 septembre 2001 établissant des mesures financières relatives à la lutte contre les pestes aviaires, maladie de Newcastle et influenza aviaire
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -14,6 +14,3 @@
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
-- [Article 15](article-15.md)
-- [Article 16](article-16.md)
-- [Article 17](article-17.md)
