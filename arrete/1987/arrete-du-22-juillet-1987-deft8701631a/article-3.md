@@ -6,6 +6,8 @@ Le conseil de perfectionnement comprend [*composition*] :
 
 2° Des membres de droit :
 
+Le général directeur du personnel militaire de l'armée de terre ;
+
 Le général directeur de l'enseignement militaire supérieur de l'armée de terre et commandant l'Ecole supérieure de guerre, vice-président ;
 
 Le général commandant les écoles de l'armée de terre ;
