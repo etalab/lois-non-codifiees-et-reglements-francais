@@ -1,9 +1,9 @@
 # Article 4
 
-Les superficies maxima des cumuls visées à l'article 188-1 du Code rural sont fixées à trois fois la superficie minimum d'installation soit (en hectares) :
+La superficie maximum des cumuls visée à l'article 188-1 du Code rural est fixée à trois fois la superficie minimum d'installation soit (en hectares ) :
 
-Vosgienne, Hautes-Vosges, Vôge : 48
+Plateau de Saint-Christol : 135
 
-Sous-Vosgienne, Trouée de Belfort : 60
+Monts du Ventoux et du Lubéron : 120
 
-Plaine grayloise, plaine et basse vallée de la Saône, du Doubs et de l'Ognon, région des Plateaux : 72.
+Reste du département : 105.
