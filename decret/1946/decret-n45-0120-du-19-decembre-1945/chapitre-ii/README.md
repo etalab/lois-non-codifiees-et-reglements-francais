@@ -1,5 +1,6 @@
 # Chapitre II : Des chambres de discipline
 
+- [Section I : Composition.](section-i)
 - [Section II : Désignation des membres de la chambre et durée de leurs fonctions.](section-ii)
 - [Section III : Bureau.](section-iii)
 - [Section IV : Fonctionnement de la chambre.](section-iv)
