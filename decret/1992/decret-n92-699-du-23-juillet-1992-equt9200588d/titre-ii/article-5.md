@@ -8,4 +8,6 @@ b) Des dispositions du second paragraphe de l'article 7 du décret n° 83-40 du 
 
 c) Des dispositions des articles R. 10, R. 10-1 et R. 10-2 du code de la route relatives à la limitation de vitesse des véhicules ;
 
-d) Des dispositions du C de l'article R. 54 et de l'article R. 54-1 du code de la route relatives aux limites de poids des véhicules.
+d) Des dispositions du C de l'article R. 54 et des articles R. 54-1 et R55 du code de la route relatives aux limites de poids des véhicules ;
+
+e) Des dispositions des articles R. 48 à R. 51 du code de la route relatives aux transports exceptionnels concernant le poids du véhicule et les dimensions du chargement.
