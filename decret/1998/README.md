@@ -129,6 +129,7 @@
 - [Décret n°98-42 du 19 janvier 1998 (MESO9711551D)](decret-n98-42-du-19-janvier-1998-meso9711551d)
 - [Décret n°98-44 du 19 janvier 1998 (ECOI9700852D)](decret-n98-44-du-19-janvier-1998-ecoi9700852d)
 - [Décret n°98-47 du 19 janvier 1998 (MENU9703765D)](decret-n98-47-du-19-janvier-1998-menu9703765d)
+- [Décret n°98-100 du 20 février 1998 (PRMX9802620D)](decret-n98-100-du-20-fevrier-1998-prmx9802620d)
 - [Décret n°75-789 du 21 août 1975](decret-n75-789-du-21-aout-1975)
 - [Décret n°98-48 du 21 janvier 1998 (EQUA9701385D)](decret-n98-48-du-21-janvier-1998-equa9701385d)
 - [Décret n°98-51 du 21 janvier 1998 (MAEJ9730111D)](decret-n98-51-du-21-janvier-1998-maej9730111d)
