@@ -535,7 +535,6 @@
 - [Arrêté du 30 décembre 1988 (ECOP8900010A)](arrete-du-30-decembre-1988-ecop8900010a)
 - [Arrêté du 30 décembre 1988 (EQUC8800886A)](arrete-du-30-decembre-1988-equc8800886a)
 - [Arrêté du 30 décembre 1988 (MERP8800135A)](arrete-du-30-decembre-1988-merp8800135a)
-- [Arrêté du 30 décembre 1988 (SPSH8900015A)](arrete-du-30-decembre-1988-spsh8900015a)
 - [Arrêté du 30 décembre 1988 (SPSH8900101A)](arrete-du-30-decembre-1988-spsh8900101a)
 - [Arrêté du 30 décembre 1988 (SPSH8900102A)](arrete-du-30-decembre-1988-spsh8900102a)
 - [Arrêté du 30 janvier 1989 (TEFE8903103A)](arrete-du-30-janvier-1989-tefe8903103a)
