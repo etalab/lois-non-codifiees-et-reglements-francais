@@ -1,5 +1,5 @@
 # Article 88
 
-L'accès des lieux ouverts au public est autorisé aux chiens accompagnant les personnes titulaires de la carte d'invalidité prévue à l'article 174 du code de la famille et de l'aide sociale.
+L'accès aux transports, aux lieux ouverts au public, ainsi qu'à ceux permettant une activité professionnelle, formatrice ou éducative est autorisé aux chiens guides d'aveugle ou d'assistance accompagnant les personnes titulaires de la carte d'invalidité prévue à l'article L. 241-3 du code de l'action sociale et des familles.
 
-Un décret fixe, s'il y a lieu, les limitations à cette règle qui ne peuvent être fondées que sur des motifs tirés des exigences particulières de sécurité et de salubrité publiques dans certains lieux.
+La présence du chien guide d'aveugle ou d'assistance aux côtés de la personne handicapée ne doit pas entraîner de facturation supplémentaire dans l'accès aux services et prestations auxquels celle-ci peut prétendre.

@@ -15,3 +15,4 @@
 - [Article 40-1](article-40-1.md)
 - [Article 40-2](article-40-2.md)
 - [Article 40 bis](article-40-bis.md)
+- [Article 40 ter](article-40-ter.md)

@@ -9,3 +9,4 @@
 - [Article 60 bis](article-60-bis.md)
 - [Article 60 ter](article-60-ter.md)
 - [Article 60 quater](article-60-quater.md)
+- [Article 60 quinquiès](article-60-quinquies.md)

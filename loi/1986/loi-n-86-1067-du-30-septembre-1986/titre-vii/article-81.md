@@ -1,7 +1,3 @@
 # Article 81
 
-Les services de communication audiovisuelle soumis à un régime d'autorisation versent chaque année au budget de l'Etat une cotisation forfaitaire destinée à couvrir les frais du contrôle du respect des obligations générales et des obligations dont est assortie la décision d'autorisation.
-
-Son montant est arrêté dans la limite de plafonds fixés chaque année par la loi de finances.
-
-Le recouvrement de la cotisation est effectué selon les mêmes procédures et sous les mêmes garanties et sûretés que les créances de l'Etat étrangères à l'impôt et au domaine.
+En matière d'adaptation des programmes à destination des personnes sourdes ou malentendantes et pour l'application du 5° bis de l'article 28, du quatrième alinéa de l'article 33-1 et du troisième alinéa de l'article 53, le Conseil supérieur de l'audiovisuel et le Gouvernement consultent chaque année, chacun pour ce qui le concerne, le Conseil national consultatif des personnes handicapées mentionné à l'article L. 146-1 du code de l'action sociale et des familles. Cette consultation porte notamment sur le contenu des obligations de sous-titrage et de recours à la langue des signes française inscrites dans les conventions et les contrats d'objectifs et de moyens, sur la nature et la portée des dérogations justifiées par les caractéristiques de certains programmes et sur les engagements de la part des éditeurs de services en faveur des personnes sourdes ou malentendantes.

@@ -4,7 +4,7 @@ I. - Des contrats d'objectifs et de moyens sont conclus entre l'Etat et chacune 
 
 Les contrats d'objectifs et de moyens déterminent notamment, dans le respect des missions de service public telles que définies à l'article 43-11, pour chaque société ou établissement public :
 
-- les axes prioritaires de son développement, dont les engagements pris au titre de la diversité et l'innovation dans la création ;
+- les axes prioritaires de son développement, dont les engagements pris au titre de la diversité et l'innovation dans la création ainsi que les engagements permettant d'assurer, dans un délai de cinq ans suivant la publication de la loi n° 2005-102 du 11 février 2005 pour l'égalité des droits et des chances, la participation et la citoyenneté des personnes handicapées, l'adaptation à destination des personnes sourdes ou malentendantes de la totalité des programmes de télévision diffusés, à l'exception des messages publicitaires, sous réserve des dérogations justifiées par les caractéristiques de certains programmes ;
 
 - le coût prévisionnel de ses activités pour chacune des années concernées, et les indicateurs quantitatifs et qualitatifs d'exécution et de résultats qui sont retenus ;
 
