@@ -232,6 +232,7 @@
 - [Décret n°92-1189 du 6 novembre 1992 (MENF9203951D)](decret-n92-1189-du-6-novembre-1992-menf9203951d)
 - [Décret n°92-1191 du 6 novembre 1992 (INTC9200480D)](decret-n92-1191-du-6-novembre-1992-intc9200480d)
 - [Décret n°92-12 du 6 janvier 1992 (MAEC9100015D)](decret-n92-12-du-6-janvier-1992-maec9100015d)
+- [Décret n°92-1200 du 6 novembre 1992 (MENG9202927D)](decret-n92-1200-du-6-novembre-1992-meng9202927d)
 - [Décret n°92-126 du 6 février 1992 (PRMX9200011D)](decret-n92-126-du-6-fevrier-1992-prmx9200011d)
 - [Décret n°92-127 du 6 février 1992 (MCCK9100651D)](decret-n92-127-du-6-fevrier-1992-mcck9100651d)
 - [Décret n°92-13 du 6 janvier 1992 (TEFT9104237D)](decret-n92-13-du-6-janvier-1992-teft9104237d)

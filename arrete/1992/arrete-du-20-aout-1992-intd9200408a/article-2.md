@@ -4,6 +4,8 @@ Les catégories d'informations nominatives enregistrées sont les suivantes :
 
 Carte nationale d'identité :
 
+- domicile ;
+
 - identité du demandeur ;
 
 - nationalité (mode d'acquisition) ;
