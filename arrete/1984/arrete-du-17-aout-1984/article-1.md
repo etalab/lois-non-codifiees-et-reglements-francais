@@ -1,3 +1,3 @@
 # Article 1
 
-Le présent arrêté s'applique aux appareils à vapeur fabriqués par la société Subtil-Crépieux entre 1974 et 1983 équipés d'au moins une porte, dite "guillotine", coulissant verticalement devant l'appareil par l'intermédiaire de deux sabots fixés sur celle-ci au moyen de six ou neuf vis.
+L'arrêté du 28 juillet 1965 relatif à la vaccination obligatoire selon les dispositions de l'article 1er de la loi du 27 août 1948 est abrogé.

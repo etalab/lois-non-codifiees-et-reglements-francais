@@ -1,4 +1,4 @@
-# Arrêté du 17 août 1984 du 17 août 1984 relatif à la vaccination obligatoire selon les dispositions de l'article L. 10 du code de la santé publique.
+# Décret n°84-802 du 28 août 1984 relatif à la contribution exceptionnelle de l'Etat à la création d'emplois dans la région Lorraine.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -12,4 +12,3 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
-- [Article 13](article-13.md)

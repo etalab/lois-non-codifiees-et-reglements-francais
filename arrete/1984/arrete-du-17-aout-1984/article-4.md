@@ -1,3 +1,3 @@
 # Article 4
 
-Le directeur de la qualité et de la sécurité industrielles est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les vaccinations par injection prévues à l'article 3 ci-dessus peuvent être effectuées au moyen de vaccins associés.
