@@ -132,6 +132,7 @@
 - [Arrêté du 11 décembre 1989 (RESY8900378A)](arrete-du-11-decembre-1989-resy8900378a)
 - [Arrêté du 11 janvier 1990 (ECOZ8900034A)](arrete-du-11-janvier-1990-ecoz8900034a)
 - [Arrêté du 11 janvier 1990 (EQUT9000150A)](arrete-du-11-janvier-1990-equt9000150a)
+- [Arrêté du 11 mai 1990 (ECOT9013293A)](arrete-du-11-mai-1990-ecot9013293a)
 - [Arrêté du 11 mai 1990 (PRME9061131A)](arrete-du-11-mai-1990-prme9061131a)
 - [Arrêté du 12 avril 1990 (MENZ9000883A)](arrete-du-12-avril-1990-menz9000883a)
 - [Arrêté du 12 avril 1990 (MENZ9000931A)](arrete-du-12-avril-1990-menz9000931a)
