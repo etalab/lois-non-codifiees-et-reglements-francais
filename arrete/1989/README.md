@@ -135,7 +135,6 @@
 - [Arrêté du 7 février 1989 (MENK8970014A)](arrete-du-7-fevrier-1989-menk8970014a)
 - [Arrêté du 7 juillet 1989 (BUDR8905034A)](arrete-du-7-juillet-1989-budr8905034a)
 - [Arrêté du 7 juillet 1989 (COMA8900012A)](arrete-du-7-juillet-1989-coma8900012a)
-- [Arrêté du 7 juillet 1989 (SPSS8901451A)](arrete-du-7-juillet-1989-spss8901451a)
 - [Arrêté du 7 juin 1989 (DEFE8901570A)](arrete-du-7-juin-1989-defe8901570a)
 - [Arrêté du 7 juin 1989 (DEFE8901571A)](arrete-du-7-juin-1989-defe8901571a)
 - [Arrêté du 7 juin 1989 (MPAS8801126A)](arrete-du-7-juin-1989-mpas8801126a)
