@@ -1,7 +1,0 @@
-# Article Annexe art. 11
-
-Les grossistes autorisés à exercer sur le marché doivent exploiter les lieux qu'ils occupent sous leur responsabilité personnelle et d'un manière permanente. Il leur est interdit de laisser un tiers, de quelque manière que ce soit, même à titre gratuit, y effectuer des opérations commerciales.
-
-L'autorisation d'occuper un emplacement est accordée sous réserve que celui-ci soit exclusivement utilisé pour les opérations définies soit dans le présent règlement, soit dans le règlement particulier propre à l'activité de l'usager, soit dans l'acte en vertu duquel il l'occupe. Toute autre utilisation, même partielle, est rigoureusement interdite.
-
-Le titulaire d'une autorisation d'occupation à titre privatif peut toutefois mettre une partie de son emplacement à la disposition d'une société non concessionnaire mais réputée se filiale, au sens de l'article 354 de la loi n° 66-537 du 24 juillet 1966, si le gestionnaire du marché l'y autorise et sous réserve que l'activité de cette filiale soit conforme à la destination de l'emplacement. Dans ce cas, il est obligatoire que les opérations commerciales de la société filiale soient faites au nom de celle-ci, bien que le titulaire en soit responsable vis-à-vis du gestionnaire. Toutes les redevances, ainsi que les droits afférents à l'occupation de l'emplacement en question, doivent être acquittés en totalité par le titulaire. Ces dispositions ne confèrent aucun droit à la société filiale vis-à-vis du gestionnaire.
