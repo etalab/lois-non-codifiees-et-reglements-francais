@@ -1,0 +1,3 @@
+# Article 3
+
+Dans un délai d'un an à compter de la promulgation de la présente loi, le Gouvernement présentera un rapport qui explorera les potentialités et les conditions de création d'emplois dans les services marchands et proposera des mesures propres à lever les obstacles éventuels à la croissance de ces derniers. Il analysera les perspectives que peut offrir, en matière d'emploi, le développement du travail des cadres à temps partagé entre plusieurs entreprises et envisagera les dispositions législatives et réglementaires qui permettront de tenir compte de leur spécificité. Il fera des propositions afin de renforcer la sécurité des consommateurs.

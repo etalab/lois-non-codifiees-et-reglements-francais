@@ -1,0 +1,5 @@
+# Article 63
+
+I. Les organisations qui sont liées par une convention de branche ou, à défaut, par un accord professionnel conclu dans les conditions prévues aux articles L. 132-1 à L. 132-17 du code du travail se réunissent tous les ans pour négocier sur les modalités de recours aux contrats d'insertion en alternance définis aux articles L. 981-1 et suivants du code du travail ainsi qu'aux contrats d'apprentissage prévus à l'article L. 117-1 du même code. Elles examinent les conditions d'accueil des jeunes en entreprise, le tutorat, et en particulier, les possibilités de recours, pour exercer ce tutorat, à des salariés sur le point de cesser leur activité.
+
+II. Les organisations syndicales représentatives de salariés et les organisations représentatives d'employeurs seront invitées à négocier au niveau national et interprofessionnel les conditions et modalités d'une extension du recours aux contrats d'insertion en alternance telles que définies aux articles L. 981-1 et suivants du code du travail au profit des demandeurs d'emploi âgés de vingt-six ans et plus dans un délai de deux ans à compter de la date de promulgation de la présente loi.

@@ -8,9 +8,9 @@ II. - Après agrément du ministre chargé de la formation professionnelle, ce c
 
 2° Par dérogation aux dispositions de l'article 230 E du code général des impôts, la différence entre les dépenses justifiées par l'employeur au titre des actions définies aux articles L. 980-2, L. 980-6 et L. 981-7 du code du travail et leur participation due au titre de ces mêmes formations telle que fixée par la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984).
 
-3° Les sommes que les organismes collecteurs n'ont pas affectées aux actions définies aux articles L. 981-1, L. 981-6 et L. 981-7 du code du travail.
+3° Les sommes que les organismes collecteurs n'ont pas affectées aux actions définies aux articles L. 981-1, L. 981-6 et L. 981-7 du code du travail.    Les sommes ainsi versées sont réparties entre les organismes collecteurs.
 
-Les sommes ainsi versées sont réparties entre les organismes collecteurs.
+Le ministre chargé de la formation professionnelle désigne un commissaire du Gouvernement auprès du compte unique bénéficiant de l'agrément susvisé.
 
 III. - A défaut de l'accord mentionné au paragraphe I ci-dessus avant le 31 janvier 1987, un décret en Conseil d'Etat détermine les conditions dans lesquelles les organismes collecteurs mentionnés au paragraphe IV de l'article 30 de la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984), sont tenus de déposer à titre transitoire auprès d'un compte unique, d'une part, leur trésorerie et, d'autre part, leurs disponibilités au titre des collectes effectuées en 1985 et 1986.
 
