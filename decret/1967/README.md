@@ -8,6 +8,7 @@
 - [Décret n°67-777 du 11 septembre 1967](decret-n67-777-du-11-septembre-1967)
 - [Décret n°67-568 du 12 juillet 1967](decret-n67-568-du-12-juillet-1967)
 - [Décret n°67-715 du 16 août 1967](decret-n67-715-du-16-aout-1967)
+- [Décret n°67-797 du 20 septembre 1967](decret-n67-797-du-20-septembre-1967)
 - [Décret n°67-236 du 23 mars 1967](decret-n67-236-du-23-mars-1967)
 - [Décret n°67-624 du 23 juillet 1967](decret-n67-624-du-23-juillet-1967)
 - [Décret n°67-744 du 25 août 1967](decret-n67-744-du-25-aout-1967)
