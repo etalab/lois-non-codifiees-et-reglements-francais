@@ -1,3 +1,13 @@
 # Article 1
 
 Seuls ont droit à l'appellation contrôlée "Champagne" les vins produits sur les territoires délimités par l'article 5 de la loi du 22 juillet 1927 abrogeant et remplaçant l'article 17 de la loi du 6 mai 1919, et répondant à toutes les prescriptions édictées par les lois, décrets et réglements concernant le vin de "Champagne", et spécialement à celles prévues par le décret du 28 septembre 1935.
+
+Dans l'arrondissement de Vitry-le-François, l'appellation d'origine contrôlée "Champagne" est réservée aux vins issus des vendanges récoltées dans l'aire de production approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine lors de la séance des 7 et 8 novembre 1990 et dont les plans de délimitation de parcelles sont déposés dans les mairies concernées.
+
+Dans les communes d'Arsonval, Cunfin, Dolancourt, Jaucourt, appartenant au département de l'Aube, l'appellation d'origine contrôlée "Champagne" est réservée aux vins issus des vendanges récoltées dans l'aire de production délimitée par parcelle, telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine les 23 juin 1994, 8 septembre 1994 et 19 mai 1995 et dont les plans de délimitation sont déposés dans les mairies des communes concernées.
+
+Dans les communes de Brienne-le-Château, Epagne, Précy-Saint-Martin, Saint-Léger-sous-Brienne, Esclavolles-Lurey, Potangis, Saint-Quentin-le-Verger et Villiers-aux-Corneilles, aucune parcelle n'a été retenue pour ouvrir droit à l'appellation d'origine contrôlée "Champagne", conformément aux décisions du comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en séance des 23 et 24 juin 1994, 7 et 8 septembre 1994, 18 et 19 mai 1995 et 5 et 6 septembre 1995.
+
+Dans les communes de Marcilly-le-Hayer et La Villeneuve-au-Châtelot, appartenant au département de l'Aube, aucune parcelle n'a été retenue pour ouvrir droit à l'appellation d'origine contrôlée "Champagne", conformément à la décision du comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en séance du 10 septembre 1997.
+
+Dans la commune de Fontaine-sur-Ay appartenant au département de la Marne, l'appellation d'origine contrôlée "Champagne" est réservée aux vins issus des vendanges récoltées dans l'aire de production délimitée par parcelle ou partie de parcelle, telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine les 9 et 10 septembre 1999 et dont les plans sont déposés dans la mairie de la commune concernée.
