@@ -1,15 +1,17 @@
 # Article 1
 
-Il est créé auprès de la commission de l'informatique un comité consultatif de l'informatique médicale.
+Les dépenses prévues pour les immeubles à usage d'habitation à l'article 3 (par. 2, a) du décret n° 73-193 du 13 février 1973, modifié par le décret n° 78-160 du 10 février 1978, ne peuvent être effectuées que pour les seuls immeubles :
 
-Ce comité est chargé :
+1° Dont l'autorisation de construire ou, le cas échéant, la dernière mutation à titre onéreux, sont antérieures :
 
-De proposer au ministre les grandes orientations de la politique à mener pour assurer la coordination de l'informatique médicale en matière de développement ;
+Pour l'aéroport de Roissy-Charles-de-Gaulle, au 1er juillet 1970 ;
 
-De présenter au ministre toute mesure qui lui paraîtrait nécessaire dans le cadre de cet objectif ;
+Pour l'aéroport d'Orly, au 1er janvier 1964.
 
-D'établir un rapport annuel concernant le développement de l'informatique médicale ;
+2° Qui sont situés à l'intérieur ou en limite :
 
-De faciliter les échanges d'expériences et la concertation des équipes qui mènent des travaux d'informatique médicale.
+Pour l'aéroport de Roissy-Charles-de-Gaulle, de la zone I représentée sur le plan n° 1 A annexé au présent arrêté (1) ;
 
-Le comité rend compte périodiquement à la commission de l'informatique de l'état d'avancement de ses travaux. Il est tenu informé des délibérations de la commission de l'informatique.
+Pour l'aéroport d'Orly, de la zone I représentée sur le plan n° 2 A annexé au présent arrêté (1).
+
+[*(1) Ce plan peut être consulté à l'Aéroport de Paris, 291, boulevard Raspail, 75014 Paris, et dans les préfectures de la Seine-Saint-Denis, du Val-d'Oise, de Seine-et-Marne, de l'Essonne et du Val-de-Marne*].

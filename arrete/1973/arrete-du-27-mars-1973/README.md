@@ -1,4 +1,4 @@
-# Arrêté du 27 mars 1973 portant création d'un comité consultatif de l'informatique médicale.
+# Arrêté du 27 mars 1973 fixant les règles de répartition du produit de la taxe parafiscale instituée en vue d'atténuer les nuisances subies par les riverains des aérodromes d'Orly et de Roissy-en-France, limites et conditions dans lesquelles peuvent être effectuées les dépenses.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

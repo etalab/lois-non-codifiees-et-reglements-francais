@@ -1,3 +1,3 @@
 # Article 7
 
-L'arrêté du 17 juin 1970 instituant un comité de l'informatique de santé est abrogé.
+Sont affectés aux recettes de la section relative à Orly le produit de la taxe perçue au départ de l'aérodrome d'Orly et aux recettes de la section relative à Roissy-en-France le produit de la taxe perçue au départ des aérodromes du Bourget et de Roissy-en-France.

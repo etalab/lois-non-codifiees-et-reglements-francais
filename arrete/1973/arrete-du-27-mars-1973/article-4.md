@@ -1,5 +1,3 @@
 # Article 4
 
-Un président est désigné parmi les quatorze personnalités par le ministre de la santé et de la sécurité sociale ;
-
-Il est membre de droit de la commission de l'informatique.
+La date de référence visée à l'article 3 pour l'aéroport Charles-de-Gaulle est le 1er juillet 1970.
