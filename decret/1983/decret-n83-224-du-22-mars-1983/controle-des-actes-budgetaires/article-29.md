@@ -2,6 +2,8 @@
 
 Dans le cas où une dépense obligatoire n'a pas été inscrite au budget communal, départemental ou régional ou au budget d'un établissement public, ou l'a été pour une somme insuffisante, la demande prévue à l'article 11 de la loi du 2 mars 1982 susvisée et adressée à la chambre régionale des comptes doit être motivée et appuyée de toutes justifications utiles et notamment du budget voté et, le cas échéant, des décisions qui l'ont modifié. Elle est communiquée au ministère public.
 
+" Lorsque l'auteur de la demande n'a pu obtenir les documents budgétaires, le président de la chambre régionale des comptes se les fait communiquer par le représentant de l'Etat dans le département ou dans la région. "
+
 Le président de la chambre régionale des comptes informe de cette demande le maire ou le président du conseil général, du conseil régional ou de l'établissement public, et fixe la date limite à laquelle celui-ci pourra présenter ses observations, soit oralement dans les conditions prévues à l'article 13 de la loi du 2 mars 1982 susvisée, soit par écrit.
 
 Dans le délai d'un mois à partir de sa saisine, la chambre régionale des comptes, après s'être prononcée le cas échéant sur la recevabilité de la demande, constate l'absence ou l'insuffisance des crédits nécessaires à la couverture de la dépense obligatoire et met en demeure le maire ou le président du conseil général, du conseil régional ou de l'établissement public de faire ouvrir lesdits crédits par une décision modificative.
