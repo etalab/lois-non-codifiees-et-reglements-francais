@@ -24,4 +24,4 @@ Cette interdiction s'applique également aux activités exercées dans une entre
 
 Pour l'application du présent article est assimilée à une entreprise privée toute entreprise publique exerçant son activité dans un secteur concurrentiel et conformément au droit privé.
 
-II. - L'interdiction prévue au I est applicable aux agents contractuels de droit public ou de droit privé de l'Agence du médicament, de l'Agence française du sang et de l'Agence nationale du médicament vétérinaire, quelle que soit la durée du contrat de ces agents.
+II. - L'interdiction prévue au I est applicable aux agents contractuels de droit public ou de droit privé de l'Agence française de sécurité sanitaire des produits de santé, de l'Agence française du sang et de l'Agence nationale du médicament vétérinaire, quelle que soit la durée du contrat de ces agents.

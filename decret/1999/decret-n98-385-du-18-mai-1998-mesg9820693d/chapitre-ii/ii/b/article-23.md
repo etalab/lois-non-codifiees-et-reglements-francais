@@ -1,0 +1,3 @@
+# Article 23
+
+Lorsque l'application des dispositions de l'article 12 ci-dessus aboutit à classer les praticiens hospitaliers et les personnels enseignants et universitaires des centres hospitaliers et universitaires à un échelon ne leur permettant pas de percevoir leurs émoluments prévus à l'article 28 du décret n° 84-131 du 24 février 1984 susvisé pour les praticiens hospitaliers, ou ceux prévus à l'article 30 du décret n° 84-135 du 24 février 1984 susvisé pour les personnels enseignants et universitaires des centres hospitaliers et universitaires, ils conservent, à titre personnel, le bénéfice de leurs émoluments mensuels correspondant à leur échelon antérieur.
