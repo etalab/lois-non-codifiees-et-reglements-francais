@@ -1,6 +1,7 @@
 # Décret n°48-1018 du 16 juin 1948 fixant le statut des agents sur contrat du ministère des travaux publics, des transports et du tourisme (secrétariat général à l'aviation civile et commerciale).
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
