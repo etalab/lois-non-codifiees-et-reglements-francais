@@ -1,0 +1,3 @@
+# Article 1
+
+Les demandes présentées en application de la loi n° 59-1557 du 31 décembre 1959 et tendant à obtenir soit l'intégration d'un établissement d'enseignement privé dans l'enseignement public, soit l'application à une partie ou à la totalité des classes d'un tel établissement du régime du contrat d'association ou du contrat simple, doivent être présentées par la personne physique ou morale qui est à la fois partie au contrat d'enseignement passé avec les parents des élèves et employeur des maîtres et du personnel d'administration et qui a la jouissance des biens meubles et immeubles affectés à l'établissement.
