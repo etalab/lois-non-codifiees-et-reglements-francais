@@ -441,7 +441,6 @@
 - [Décret n°89-713 du 28 septembre 1989 (MCCB8900404D)](decret-n89-713-du-28-septembre-1989-mccb8900404d)
 - [Décret n°90-438 du 28 mai 1990 (EQUX9000093D)](decret-n90-438-du-28-mai-1990-equx9000093d)
 - [Décret n°86-136 du 29 janvier 1986](decret-n86-136-du-29-janvier-1986)
-- [Décret n°89-187 du 29 mars 1989 (ECOS8950027D)](decret-n89-187-du-29-mars-1989-ecos8950027d)
 - [Décret n°89-428 du 29 juin 1989 (EQUA8900666D)](decret-n89-428-du-29-juin-1989-equa8900666d)
 - [Décret n°89-429 du 29 juin 1989 (EQUA8900668D)](decret-n89-429-du-29-juin-1989-equa8900668d)
 - [Décret n°89-430 du 29 juin 1989 (EQUA8900665D)](decret-n89-430-du-29-juin-1989-equa8900665d)
