@@ -113,6 +113,7 @@
 - [Décret n°2000-78 du 27 janvier 2000 (DEFX9900153D)](decret-n2000-78-du-27-janvier-2000-defx9900153d)
 - [Décret n°2000-79 du 27 janvier 2000 (DEFX9900154D)](decret-n2000-79-du-27-janvier-2000-defx9900154d)
 - [Décret n°2001-892 du 27 septembre 2001 (JUSA0100128D)](decret-n2001-892-du-27-septembre-2001-jusa0100128d)
+- [Décret n°98-760 du 27 août 1998 (DEFA9751056D)](decret-n98-760-du-27-aout-1998-defa9751056d)
 - [Décret n°2000-379 du 28 avril 2000 (JUSF0050013D)](decret-n2000-379-du-28-avril-2000-jusf0050013d)
 - [Décret n°2000-70 du 28 janvier 2000 (MESC0010111D)](decret-n2000-70-du-28-janvier-2000-mesc0010111d)
 - [Décret n°2000-71 du 28 janvier 2000 (MESS0020030D)](decret-n2000-71-du-28-janvier-2000-mess0020030d)
