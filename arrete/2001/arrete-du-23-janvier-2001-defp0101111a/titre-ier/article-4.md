@@ -10,7 +10,7 @@ Le jury peut, si nécessaire, comprendre plusieurs correcteurs pour la même ép
 
 Il comprend au moins :
 
-- un professeur des universités ou une personnalité et trois professeurs des universités issus chacun des disciplines juridiques, économiques ou de gestion ;
+- un professeur des universités ou une personnalité et quatre professeurs des universités issus chacun des disciplines juridiques, économiques ou de gestion ;
 
 - un professeur de l'enseignement public ou un officier qualifié de l'armée de terre, de la marine ou de l'armée de l'air pour chacune des langues vivantes admises au concours ;
 
@@ -18,7 +18,7 @@ Il comprend au moins :
 
 - un officier de l'armée de terre, de la marine ou de l'armée de l'air responsable des épreuves sportives.
 
-Les membres civils du jury sont désignés pour une période de deux ans, renouvelable, par le ministre de la défense, sur proposition conjointe de la direction centrale du commissariat de l'armée de terre, de la direction centrale du commissariat de la marine et de la direction centrale du commissariat de l'air.
+Les membres civils du jury sont désignés pour une période de deux ans, renouvelable dans la limite de six ans, par le ministre de la défense, sur proposition conjointe de la direction centrale du commissariat de l'armée de terre, de la direction centrale du commissariat de la marine et de la direction centrale du commissariat de l'air.
 
 En cas d'empêchement d'un membre civil du jury et à défaut de pouvoir désigner un autre membre civil en temps utile, il est pourvu à son remplacement par un officier de l'armée de terre, de la marine ou de l'armée de l'air, choisi en fonction de ses compétences et désigné par le directeur central du commissariat chargé de l'organisation du concours.
 

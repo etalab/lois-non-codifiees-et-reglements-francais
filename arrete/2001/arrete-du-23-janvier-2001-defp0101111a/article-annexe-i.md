@@ -2,331 +2,521 @@
 
 Programme des matières à option (écrit et oral)
 
-A. - DROIT PRIVE
+A. - DROIT PRIVÉ
 
-1. DROIT CIVIL
+1. Droit civil
 
-1.1. Les personnes physiques.
+1.1. Les personnes physiques
 
-Le nom, le domicile, les actes d'état civil. Le mariage, le divorce, notions générales sur les régimes matrimoniaux.
+Le nom, le domicile, l'absence.
 
-1.2. Les obligations.
+Les actes d'état civil.
+
+Le mariage, le divorce, le pacte civil de solidarité.
+
+1.2. Les obligations
 
 a) Les contrats :
 
-Formation des contrats : capacité, consentement (et ses vices), objet, cause, preuve ;
+Formation des contrats : capacité, consentement (et ses vices), objet, cause, preuve.
 
-Effets des contrats : entre les parties ; à l'égard des tiers : relativité des conventions, stipulation pour autrui, simulation ;
+Effets des contrats : entre les parties, à l'égard des tiers, relativité des conventions, stipulation pour autrui, simulation.
 
-Anéantissement des contrats : nullité et rescision ; résolution et résiliation ;
+Anéantissement des contrats : nullité et rescision, résolution et résiliation.
 
-Exécution des contrats : paiement, compensation, cession de créance, subrogation personnelle, exécution forcée ;
+Responsabilité contractuelle.
 
-Notions générales sur les principaux contrats : vente, louage de choses, mandat, contrat : d'entreprise, transport, assurance.
+Exécution des contrats : paiement, compensation, cession de créance, subrogation personnelle, exécution forcée.
 
-b) Les sources extra-contractuelles d'obligations :
+b) Les quasi-contrats :
 
-La gestion d'affaires ;
+- la gestion d'affaires ;
 
-L'enrichissement sans cause ;
+- l'enrichissement sans cause ;
 
-La responsabilité civile du fait personnel, du fait d'autrui et du fait des choses ;
+- le paiement de l'indu.
 
-L'abus de droit.
+c) La responsabilité délictuelle et quasi délictuelle :
 
-1.3. Les biens.
+La responsabilité civile du fait personnel, du fait d'autrui et du fait des choses.
 
-Théorie générale du droit de propriété : caractères de la propriété, indivision, démembrements de la propriété.
+2. Droit commercial
 
-Propriété mobilière : la règle  en fait de meubles la possession vaut titre .
+2.1. Organisation générale du commerce
 
-2. DROIT COMMERCIAL
+Les actes de commerce.
 
-2.1. Organisation générale du commerce.
+Commerçants et sociétés commerciales.
 
-La liberté du commerce et ses limites : notions générales sur les interdictions et incapacités d'exercer le commerce et sur la concurrence.
+Mineurs et femmes mariées commerçants.
 
-Le registre du commerce et des sociétés.
+Le fonds de commerce.
 
-2.2. Notions générales sur les effets de commerce et les instruments de paiement.
+2.2. Les effets de commerce et les instruments de paiement
 
-2.3. Sociétés commerciales.
+2.3. Sociétés commerciales
 
-Société de personnes.
+Société des personnes.
 
 Société anonyme.
 
 Société à responsabilité limitée.
 
-2.4. La prévention des difficultés des entreprises et la procédure de redressement judiciaire.
+Société par actions simplifiée.
 
-3. DROIT DU TRAVAIL
+2.4. La prévention des difficultés des entreprises, le redressement judiciaire, la liquidation judiciaire
 
-3.1. Les sources du droit du travail.
+3. Droit du travail
 
-3.2. L'entreprise.
+3.1. Les sources du droit du travail
 
-Le chef d'entreprise, le personnel, les institutions représentatives du personnel.
+3.2. L'entreprise
 
-3.3. Le contrat de travail.
+Le chef d'entreprise.
 
-Définition, critère, formation, obligations des parties, conflits individuels du travail : les conseils de prud'hommes.
+Le personnel.
 
-3.4. Les conventions collectives.
+Les institutions représentatives du personnel.
 
-3.5. Les conflits collectifs du travail :
+3.3. Le contrat de travail
 
-La grève, le lock-out et leurs effets ; le règlement des conflits collectifs du travail.
+Définition.
 
-4. DROIT JUDICIAIRE
+Critère.
+
+Formation.
+
+Obligation des parties.
+
+Conflits individuels du travail.
+
+3.4. Les conventions collectives
+
+3.5. Les conflits collectifs du travail
+
+La grève, le lock-out et leurs effets.
+
+Le règlement des conflits collectifs du travail.
+
+4. Organisation judiciaire
 
 Principes généraux sur l'action en justice.
 
 Organisation et compétence des juridictions judiciaires.
 
-Notions générales sur le déroulement du procès civil.
+5. Droit pénal
+
+5.1. L'infraction pénale
+
+Définition, classification tripartite des infractions.
+
+Les éléments :
+
+- légal : les sources du droit pénal. Application de la loi pénale dans le temps et l'espace ;
+
+- matériel : le résultat, la tentative ;
+
+- moral : la faute et l'intention.
+
+Les causes d'irresponsabilité ou d'atténuation de la responsabilité.
+
+La responsabilité des personnes morales.
+
+La pluralité de délinquants, la complicité.
+
+5.2. Les peines
+
+Définition, caractères (légalité, égalité personnalité).
+
+La suspension des peines : les sursis.
+
+L'extinction des peines : la grâce, la prescription de la peine, l'amnistie et la réhabilitation.
 
 B. - DROIT PUBLIC
 
-1. DROIT CONSTITUTIONNEL ET INSTITUTIONS POLITIQUES
+1. Droit constitutionnel et institutions politiques
 
-1.1. L'Etat.
+1.1. L'Etat
 
-Types d'Etats.
+Le pouvoir politique.
 
-Types de régimes politiques : exemples des Etats-Unis, du Royaume-Uni, de la Russie, de l'Italie.
+Les types d'Etats : Etat unitaire, fédéral, confédéral.
 
-La Constitution : modes d'établissement, modification et révision, abrogation.
+Les types de régimes politiques :
 
-Problèmes constitutionnels : structures et compétences gouvernementales, contrôle de constitutionnalité.
+- Etats monocratique, oligarchique, démocratique ;
 
-1.2. Système politique français.
+- Etats autoritaire, totalitaire, démocratique ;
+
+- les grands modèles de régimes politiques : Etats-Unis, Royaume-Uni, Russie, Italie, République fédérale d'Allemagne.
+
+La constitution : mode d'établissement, modification et révision, contrôle, abrogation.
+
+Problèmes constitutionnels : supériorité de la constitution, structures et compétences gouvernementales, contrôle de constitutionnalité des lois (théorie et pratique), rapports entre droit constitutionnel et droit international.
+
+1.2. Système politique français
 
 Evolution depuis 1789.
 
-Constitution de 1958 : rapports des pouvoirs publics, le contrôle de constitutionnalité de la loi.
+La constitution de 1958 :
 
-Systèmes électoraux.
+- le Président de la République ;
 
-Libertés publiques : évolution, garanties,
+- le Premier ministre ;
 
-Contrôle de leur respect.
+- le Gouvernement ;
 
-2. DROIT ADMINISTRATIF
+- le Parlement ;
 
-2.1. Sources du droit administratif.
+- les rapports entre les pouvoirs publics ;
 
-Principe de légalité.
+- le contrôle de constitutionnalité ;
 
-Régime juridique des actes administratifs : règlements, actes administratifs individuels, directives, instructions, circulaires.
+- le pouvoir judiciaire et son indépendance.
 
-Motivation des actes administratifs, accès aux documents administratifs.
+La responsabilité des pouvoirs publics : responsabilité politique, pénale, civile, pécuniaire.
 
-2.2. Structures de l'administration.
+Les systèmes électoraux.
 
-Décentralisation et déconcentration.
+Les libertés publiques : sources ; évolution ; protections ; contrôles ; limites.
 
-L'administration d'Etat.
+Les autorités administratives indépendantes.
 
-Collectivités locales et administration décentralisée : région, département, commune.
+2. Droit administratif
+
+2.1. Sources du droit administratif
+
+Sources internes et internationales.
+
+2.2. Structures de l'administration
+
+Décentralisation, centralisation et déconcentration.
+
+L'administration de l'Etat.
+
+Collectivités locales et administrations décentralisées. Les rapports entre les personnes publiques.
 
 Les établissements publics.
 
-Types de services publics : services publics administratifs, services publics industriels et commerciaux.
+Les services publics :
 
-2.3. Les agents des services publics.
+- typologie ;
 
-Catégories d'agents publics.
+- règles de fonctionnement.
 
-Modalités de recrutement.
+2.3. L'action de l'administration
 
-Statut général des fonctionnaires.
+Le principe de légalité.
 
-Droits et obligations des fonctionnaires.
+Le régime juridique des actes.
 
-2.4. Interventions de l'administration en matière économique et sociale.
+La motivation des actes administratifs.
 
-Institutions de l'administration économique : services publics, entreprises nationales, sociétés d'économie mixte.
+L'accès aux documents administratifs.
 
-Planification et aménagement du territoire.
+La police administrative.
 
-Théorie du domaine de l'Etat : domaine public, domaine privé.
+Les agents des services publics :
 
-Contrats administratifs : caractères généraux, marchés et concessions.
+- catégories d'agents ;
+
+- modalités de recrutement ;
+
+- statut général des fonctionnaires ;
+
+- droits et obligations des fonctionnaires.
+
+2.4. L'intervention de l'administration
+
+en matière économique et sociale
+
+Institutions de l'administration économique, services publiques, entreprises nationales, sociétés d'économie mixte.
+
+Théorie du domaine de l'Etat et des collectivités publiques :
+
+- domaine public ;
+
+- domaine privé.
 
 Régie.
 
-Travaux publics.
+Contrats administratifs :
 
-Aides publiques.
+- caractères généraux ;
 
-2.5. Responsabilité administrative.
+- marchés publics ;
 
-Responsabilité de l'administration.
+- marchés, concessions, délégations de services publics.
+
+Travaux publics : notion et dommages.
+
+2.5. Responsabilité administrative
+
+Responsabilité de l'administration : les différentes hypothèses de responsabilité de l'administration, responsabilité pour faute, pour risque, sans faute.
+
+Faute personnelle, faute de service.
+
+Action récursoire.
 
 Responsabilité des fonctionnaires.
 
-2.6. Contrôle de l'administration.
+Responsabilité pénale.
 
-2.6.1. Contrôle juridictionnel.
+Délits non intentionnels.
 
-Répartition des compétences entre juridictions administratives et juridictions judiciaires : règlements des conflits.
+2.6. Contrôle de l'administration
 
-Juridictions administratives : organisation, répartition des compétences, procédure contentieuse, pouvoirs du juge administratif.
+2.6.1. Contrôle juridictionnel
+
+Répartition des compétences entre l'ordre administratif et l'ordre judiciaire.
+
+Le tribunal des conflits et le règlement des conflits.
+
+Les différentes juridictions administratives : organisation, répartition des compétences, procédure, pouvoirs du juge.
 
 Principaux types de recours.
 
-2.6.2. Contrôles non juridictionnels.
+Juridictions administratives spéciales : Cour des comptes, chambres régionales des comptes, cour de discipline budgétaire...
 
-3. FINANCES PUBLIQUES
+2.6.2. Contrôles non juridictionnels
 
-3.1. Théorie générale.
+Cour des comptes, autorités administratives indépendantes,...
+
+3. Finances publiques
+
+3.1. Théorie générale
 
 Evolution des finances publiques.
 
-Aspects politiques, économiques et sociaux, l'influence réciproque des décisions budgétaires, des structures sociales et de la conjoncture économique ; la place des finances publiques dans les comptes de la nation.
+Aspects politiques, économiques et sociaux des finances publiques.
 
-Conceptions traditionnelles et conceptions nouvelles de la politique financière.
+L'ordonnance du 2 janvier 1959 et la loi organique du 1er août 2001.
 
-Contenu du budget : étude générale des dépenses et des recettes publiques.
+Budget et lois de finances.
 
-Evolution des finances locales.
+3.2. Préparation du budget
 
-3.2. Préparation du budget.
+Répartition des tâches : ministère de l'économie, Gouvernement.
 
-Répartition des tâches : le ministre de l'économie et des finances, le gouvernement.
+Prévisions budgétaires :
 
-Prévisions budgétaires ; budgets économiques ; budget et plan, rationalisation des choix budgétaires et budgets de programme.
+- budgets économiques ;
 
-Formalisation du budget ; principes budgétaires et leurs exceptions, structure du projet de loi de finances ; budget fonctionnel.
+- budgets de mission ;
 
-3.3. Procédure budgétaire.
+- plan ;
+
+- budgets de programme ;
+
+- rationalisation des choix budgétaires.
+
+Principes budgétaires.
+
+Présentation de la loi de finances.
+
+3.3. Procédure budgétaire
 
 Discussion du budget.
 
-Vote du budget : procédure normale et procédures exceptionnelles.
+Vote du budget.
 
 Contrôle de constitutionnalité des lois de finances.
 
-3.4. Exécution du budget.
+3.4. Exécution du budget
 
-Exécution administrative et comptable : ordonnateurs et comptables.
+Exécution administrative et comptable : distinction entre ordonnateurs et comptables.
 
-Gestion de la trésorerie de l'Etat : le Trésor public, organisation et fonctions ; l'emprunt public, théorie et pratique.
+Le Trésor public.
 
-3.5. Contrôle de l'exécution du budget.
+L'emprunt public.
 
-Contrôle interne à l'administration : contrôle financier, contrôle hiérarchique, corps d'inspection.
+3.5. Contrôle de l'exécution du budget
 
-Contrôle juridictionnel : cour des comptes.
+Contrôle interne à l'administration : contrôle financier ; contrôle hiérarchique ; les corps d'inspection.
 
-Cour de discipline budgétaire et financière.
+Contrôles juridictionnels : Cour des comptes, chambres régionales des comptes, cour de discipline budgétaire.
 
-Contrôle parlementaire, pendant et après l'exécution.
+Contrôle parlementaire.
 
-4. DROIT DES RELATIONS INTERNATIONALES
+4. Droit des relations internationales
 
-4.1. Sujets du droit international.
+4.1. Sujets de droit international
 
-Les Etats : souveraineté, reconnaissance d'Etat et de gouvernement.
+Les Etats : souveraineté, reconnaissance d'Etat et de Gouvernement.
 
-Les organisations internationales : structures, modes de fonctionnement, compétences.
+Les organisations internationales :
 
-4.2. Actes juridiques internationaux.
+- structures ;
 
-Traités : théorie générale, modes de conclusion par la France.
+- modes de fonctionnement ;
+
+- compétences.
+
+4.2. Actes juridiques internationaux
+
+Traités :
+
+- théorie générale ;
+
+- mode de conclusion par la France ;
+
+- ratification ;
+
+- validité ;
+
+- caducité.
 
 Actes des organisations internationales.
 
-4.3. Règlement des différents internationaux.
+4.3. Règlements des différends internationaux
 
 Modalités de règlement pacifique.
 
 Principales juridictions internationales.
 
-Responsabilités internationales : théorie générale.
+Responsabilité internationale :
+
+- théorie générale ;
+
+- modes de réparation ;
+
+- protection diplomatique.
 
 Conditions de licéité du recours à la force.
 
-C. - SCIENCES ECONOMIQUES
+5. Droit européen et de l'Union européenne
 
-1. LES AGENTS
+5.1. Système politique communautaire
 
-1.1. Les ménages.
+Les traités et leur évolution depuis 1951 ; les étapes de la construction européenne.
 
-La théorie des choix du consommateur : les fonctions de demande par rapport au prix et au revenu ; la structure de la consommation des ménages ; l'épargne des ménages.
+Les institutions communautaires : le Conseil européen ; le Conseil des ministres ; la Commission, le Parlement ; le Comité des Régions ; la Cour des comptes européenne...
+
+5.2. Les sources normatives du droit communautaire
+
+Principes d'effet direct, d'applicabilité directe, de subsidiarité.
+
+Régime juridique des actes communautaires : règlements, directives ; recommandations, décisions, avis.
+
+Droit communautaire et droits des Etats membres.
+
+Les processus décisionnels.
+
+5.3. Les contrôles juridictionnels
+
+CJCE : organisation ; procédure contentieuse ; pouvoirs du juge.
+
+Principaux types de recours.
+
+5.4. Les finances de l'Union européenne
+
+Les règles du droit budgétaire.
+
+Les ressources.
+
+Les dépenses :
+
+- les grandes masses budgétaires ;
+
+- les institutions financières (BCE ; BEI ; BERD ; Cour des comptes).
+
+5.5. Les politiques de l'Union
+
+L'Union économique et monétaire.
+
+Les politiques étrangère et de sécurité.
+
+5.6. Le droit européen
+
+Le Conseil de l'Europe.
+
+La Cour européenne des droits de l'homme.
+
+La Convention européenne de sauvegarde des droits de l'homme.
+
+L'OSCE.
+
+C. - SCIENCES ÉCONOMIQUES
+
+1. Les concepts généraux
+
+1.1. Données de base de l'économie française
+
+La population ; la population active.
+
+La structure de l'appareil productif ; les entreprises, les groupes.
+
+Les agrégats et les grands tableaux de la comptabilité nationale.
+
+Les comptes de patrimoine.
+
+La comptabilité nationale française : formation, circulation et consommation des richesses.
+
+Les comptes d'agents, le tableau économique, le tableau des opérations financières ; les tableaux des échanges interindustriels.
+
+Notions sur les méthodes modernes de prévision ; la méthode des modèles.
+
+Les marchés et les prix : étude des diverses formes de marché et de formation des prix (concurrence pure, concurrence monopolistique, monopoles, oligopoles), déréglementation et liberté des prix, les prix administrés.
+
+La tarification des entreprises publiques : les politiques des prix de l'Etat et de l'Union européenne.
+
+La répartition du revenu national : la répartition primaire des revenus ; la formation des prix des facteurs de production (salaire, intérêt, rente, profit). La répartition secondaire des revenus et les politiques de redistribution.
+
+La théorie macro-économique de la répartition.
+
+1.2. Les entreprises
+
+Les combinaisons productives ; la fonction de production ; la productivité ; la recherche et développement ; la rentabilité ; la politique des prix ; les marchés ; les différentes formes de la concurrence ; les anticipations ; l'information économique de l'entreprise ; stratégie de concentration ; analyse économique de l'innovation, intégration verticale, diversification des activités, entraves et pratiques concertées, accords de coopération, différenciation des produits ; choix d'investissement et de financement.
+
+Les divers types d'entreprises agricoles, industrielles et commerciales ; les facteurs de production ; la théorie des coûts de production ; la taille de l'entreprise.
+
+Nationalisations, dénationalisations, privatisations.
+
+1.3. Le travail
+
+La spécificité du facteur travail ; les analyses récentes du marché du travail ; la détermination du salaire ; la détermination de l'emploi ; le chômage.
+
+1.4. Les ménages
+
+Typologie des revenus perçus.
+
+Les patrimoines.
+
+Consommations individuelles et collectives. Les déterminants de la consommation et de l'épargne des ménages.
+
+Le rôle des anticipations.
+
+Les déterminants de la demande d'un bien.
+
+La théorie des choix du consommateur ; les fonctions de demande par rapport aux prix et aux revenus.
 
 Les droits de propriété : actifs réels et financiers.
 
 Constitution des patrimoines.
 
-1.2. Les entreprises.
+1.5. Les échanges extérieurs
 
-Les divers types d'entreprises : agricoles, industrielles et commerciales ; les facteurs de production ; la théorie des coûts de production ; la taille de l'entreprise ; les investissements et leur financement ; les formes de concentration des entreprises.
+Les fondements de l'économie internationale. Les courants d'échanges, les zones économiques.
 
-La comptabilité des entreprises.
+Les nouveaux pays industrialisés, les pays en voie de développement.
 
-Nationalisations, dénationalisations et privatisations
+La balance des biens et services ; les termes de l'échange.
 
-1.3. Les administrations, de l'Etat gendarme à l'Etat providence.
+La compétitivité, le rôle des stratégies d'entreprise.
 
-1.3.1. Les fonctions économiques de l'Etat : les biens publics ; la redistribution des revenus ; la stabilisation de l'activité économique.
+Les nouvelles interprétations du commerce international, l'accord général sur le commerce et les services, la Communauté européenne, l'association européenne de libre-échange, l'Espace économique européen, l'Organisation mondiale du commerce ; les groupements économiques régionaux.
 
-1.3.2. Les finances publiques : le budget ; les aspects politiques et économiques des finances publiques dans le cadre des différentes collectivités ; l'influence réciproque des décisions budgétaires, des structures sociales et de la conjoncture économique ; la place des finances publiques dans les comptes de la nation ; la technique actuelle des lois de finances ; l'exécution du budget et son contrôle, le Trésor public.
+1.6. Monnaie et financement
 
-1.3.3. La théorie générale des impôts (l'impôt sur le revenu, la TVA, l'impôt sur les sociétés, les impôts locaux). Les limites de la pression fiscale dynamiques de l'offre et de la demande.
+Les institutions financières ; opérations et instruments de crédit ; les déterminants de l'offre et de la demande de monnaie ; les déterminants des taux d'intérêt ; la création monétaire ; marchés monétaires, marchés financiers ; les marchés financiers internationaux ; les marchés des changes ; les innovations financières.
 
-1.3.4. Les aspects économiques des dépenses publiques en France.
+Les balances des paiements et les mouvements de capitaux.
 
-L'optimisation des dépenses publiques.
+Les liquidités monétaires internationales. Le système monétaire international, les zones monétaires. La masse monétaire ; les banques centrales ; les banques et intermédiaires financiers. La politique monétaire ; la formation des taux d'intérêt.
 
-1.3.5. La planification en France : le plan, l'aménagement du territoire.
+1.7. Les mouvements de l'activité économique
 
-2. LE FONCTIONNEMENT DE L'ECONOMIE NATIONALE
-
-2.1. La comptabilité nationale française : formation, circulation et consommation des richesses.
-
-Les comptes d'agents, le tableau économique, le tableau des opérations financières ; les tableaux des échanges interindustriels ; notions sur les méthodes modernes de prévision ; la méthode des modèles.
-
-2.2. Les marchés et les prix.
-
-Etude des diverses formes de marché et de formation des prix (concurrence pure, concurrence monopolistique, monopoles, oligopoles), déréglementation et liberté des prix. Les prix administrés.
-
-La tarification des entreprises publiques, les prix des produits agricoles.
-
-Les politiques de prix de l'Etat et de l'Union européenne.
-
-2.3. La répartition du revenu national.
-
-La répartition primaire des revenus ; la formation des prix des facteurs de production (salaire, intérêt, rente, profit).
-
-La répartition secondaire des revenus et les politiques de redistribution.
-
-La théorie macroéconomique de la répartition.
-
-2.4. Monnaie.
-
-2.4.1. Les fonctions de la monnaie.
-
-La masse monétaire.
-
-Les banques centrales.
-
-Les banques et intermédiaires financiers.
-
-2.4.2. La demande et l'offre de monnaie.
-
-La politique monétaire.
-
-La formation des taux d'intérêt.
-
-2.4.3. Les bourses de valeur.
-
-2.5. Les fluctuations économiques et l'inflation.
-
-La détermination du revenu national d'équilibre.
-
-Les fluctuations de l'activité économique, phases d'expansion et de récession.
+Les phénomènes de fluctuation et de croissance dans les économies ouvertes ; le renouveau de l'analyse des cycles et de la croissance. Le mouvement économique dans les pays industrialisés depuis 1970. Les déséquilibres inflationnistes et leurs analyses. Les déterminants de l'emploi et du chômage. La détermination du revenu national d'équilibre. Les fluctuations de l'activité économique : phases d'expansion et de récession.
 
 Le chômage.
 
@@ -336,52 +526,206 @@ Les politiques de plein emploi et les politiques anti-inflationnistes ; la polit
 
 Analyse économique de la croissance et du progrès technique.
 
-2.6. Les politiques économiques et financières.
+2. Politique économique
 
-3. L'ECONOMIE INTERNATIONALE
+2.1. Le cadre de l'intervention économique de l'Etat
 
-3.1. La balance des comptes : les mouvements internationaux des marchandises, la spécialisation internationale du travail.
+Les fonctions traditionnelles de l'Etat ; la fonction d'utilité collective ; les biens publics ; les effets externes ; les défauts du marché.
 
-3.2. Le change : le système monétaire international et son évolution.
+Les décisions de politique économique : objectifs et contraintes.
 
-Change fixe et flexible. L'étalon dollar et les droits de tirages spéciaux.
+Le débat sur la stabilisation ; les modèles de stabilisation ; efficacité des politiques économiques et réactions des agents privés ; les problèmes de cohérences temporelles.
 
-3.3. Les politiques commerciales des firmes (politique de conquête des marchés, de dumping, de cartellisation, d'entente), les sociétés multinationales et l'investissement international.
+L'aide à la décision ; l'utilisation des modèles en politique économique.
 
-3.4. L'intervention de l'Etat dans les relations économiques internationales : les politiques protectionnistes et libre-échangistes.
+L'évolution du rôle de la planification. Politique régionale et aménagement du territoire. L'internalisation des effets externes.
 
-3.5. Les efforts de coopération régionale : la Communauté européenne. Le système monétaire européen, liquidité ou monnaie internationale, monnaie unique, monnaie commune.
+Les fonctions économiques de l'Etat : les biens publics, la redistribution des revenus ; la stabilisation de l'activité économique.
 
-3.6. Les problèmes des termes de l'échange et de l'organisation des marchés de matières premières ; le marché international du pétrole.
+Les finances publiques : le budget ; les aspects politiques et économiques des finances publiques dans le cadre des différentes collectivités ; l'influence réciproque des décisions budgétaires, des structures sociales et de la conjoncture économique ; la place des finances publiques dans les comptes de la nation ; la technique actuelle des lois de finances ; l'exécution du budget et son contrôle, le Trésor public.
 
-3.7. Les grands problèmes de l'économie contemporaine (USA, UE, Japon).
+La théorie générale des impôts (l'impôt sur le revenu, la TVA, l'impôt sur les sociétés, les impôts locaux). Les limites de la pression fiscale : dynamiques de l'offre et de la demande.
 
-3.8. La guerre économique.
+Les aspects économiques des dépenses publiques en France. L'optimisation des dépenses publiques.
 
-3.9. Eléments de démographie.
+La planification en France : le plan, l'aménagement du territoire.
 
-4. L'ECONOMIE DES PAYS DE L'EST
+2.2. Les instruments de la politique économique
 
-ET DES PAYS EN VOIE DE DEVELOPPEMENT
+Les politiques budgétaire et fiscale ; les fonctions de la politique budgétaire ; les multiplicateurs budgétaires et fiscaux ; les délais de réaction ; le financement des déficits budgétaires et ses conséquences ; la structure des systèmes fiscaux et ses conséquences.
 
-4.1. Le système économique des ex-pays socialistes à planification centralisée ; les problèmes des pays de l'Est.
+La formation de l'euro et ses conséquences sur les politiques européennes et nationales.
 
-4.2. Les pays en voie de développement : le problème du décollage des économies des pays en voie de développement ; l'aide internationale aux pays en voie de développement ; les relations Nord-Sud (les accords de Lomé).
+La politique monétaire et financière : les instruments, les stratégies.
+
+Les actions directes sur les mécanismes économiques ; la politique de l'emploi ; la politique de la concurrence ; la protection sociale ; la politique industrielle ; les stratégies de modernisation, de restructuration ; la politique de l'innovation ; protectionnisme et libre-échange ; aspects économiques des politiques régionales.
+
+Les politiques de l'environnement aux plans régional, national, européen et mondial ; réglementation et instruments économiques.
+
+3. Stratégies économiques internationales, concertation, coordination
+
+3.1. Les stratégies d'ajustement
+
+Les stratégies d'ajustement. Les politiques mises en oeuvre dans les pays de l'Organisation commune de développement économique depuis 1973. Chocs externes et politique économique. Le rôle du G7 et du Fonds monétaire international.
+
+3.2. La construction européenne
+
+Le grand marché intérieur ; l'intégration économique et l'intégration monétaire : leurs conséquences.
+
+3.3. La coordination des politiques économiques et monétaires
+
+La coopération économique internationale. Le rôle des institutions européennes et internationales. L'autonomie des politiques économiques nationales. Le ministère des finances et les grandes administrations financières : direction du Trésor, direction du budget, direction générale des impôts, direction générale de la comptabilité publique, direction générale des douanes et droits indirects, inspection générale des finances, Cour des comptes. La balance des comptes. Les mouvements internationaux de marchandises, la spécialisation internationale du travail.
+
+Le change : le système monétaire international et son évolution. Changes fixe et flexible. L'étalon-dollar et les droits de tirages spéciaux.
+
+Les politiques commerciales des firmes (politique de conquête des marchés, de dumping, de cartellisation, d'entente), les sociétés multinationales et l'investissement international.
+
+L'intervention de l'Etat dans les relations économiques internationales, les politiques protectionnistes et libre-échangistes.
+
+Les efforts de coopération régionale : l'Union économique européenne, le Système monétaire européen, l'euro, liquidité ou monnaie internationale, monnaie unique.
+
+Les problèmes des termes de l'échange et de l'organisation des marchés de matières premières ; le marché international du pétrole.
+
+NTIC et nouvelle économie.
+
+4. Finances publiques
+
+4.1. Les cadres financiers et fiscaux
+
+1. Les cadres financiers :
+
+a) Les dépenses publiques : structure des dépenses publiques (Etat, collectivités locales, sécurité sociale) ; évolution des dépenses publiques ; classification des dépenses publiques ; influence des dépenses publiques sur la vie économique ; maîtrise des dépenses publiques ;
+
+b) Les prélèvements obligatoires : la notion de prélèvement obligatoire ; structure générale des prélèvements obligatoires ; évolution des prélèvements obligatoires ; relations entre prélèvements obligatoires et activité économique ;
+
+c) Définition et structure de la dette publique ; évolution de la dette publique ; conséquences économiques et financières de la dette publique ;
+
+d) Les institutions financières : le réseau du Trésor ; les institutions bancaires (Banque de France, Banque centrale européenne, Caisse des dépôts et consignations, Banque européenne d'investissements, Banque des règlements internationaux, caisses d'épargne).
+
+2. Les cadres fiscaux :
+
+a) Les grandes classifications fiscales : impôts directs/impôts indirects ; impôts réels/impôts personnels ; impôts proportionnels/impôts progressifs ; impôts de quotité/impôts de répartition ; impôts d'Etat locaux, sociaux ;
+
+b) Le fonctionnement du système fiscal - l'assiette et le recouvrement des impôts - le contrôle fiscal - le contentieux fiscal ;
+
+c) Les doctrines et idéologies fiscales : la théorie de l'impôt échange ; la théorie de l'impôt solidarité ; les doctrines antifiscales ; les différentes théories de l'impôt unique.
+
+4.2. Les finances de l'Etat
+
+Les notions de budget et de loi de finances.
+
+Les différentes catégories de lois de finances, les ressources et les dépenses de l'Etat, la question de l'équilibre du budget. L'élaboration de la loi de finances. Le rôle des acteurs politiques et administratifs, les différentes phases de la préparation, l'adoption de la loi de finances par le Parlement.
+
+L'exécution de la loi de finances, les procédures d'exécution des recettes, les procédures d'exécution des dépenses, les modifications en cours d'exécution de la loi de finances.
+
+Le contrôle de l'exécution de la loi de finances : les contrôles administratifs, les contrôles juridictionnels, les contrôles politiques.
+
+5. L'économie des pays de l'Est et des pays en développement
+
+Le système économique des ex-pays socialistes à planification centralisée ; les problèmes des pays de l'Est.
+
+Les pays en voie de développement.
+
+Le problème du décollage des économies des pays en voie de développement ; l'aide internationale aux pays en voie de développement ; les relations Nord-Sud (les accords de Lomé).
 
 L'endettement extérieur et la crise financière.
 
-Le franc CFA.
+Les nouveaux pays industrialisés.
 
-4.3. Les nouveaux pays industrialisés.
+D. - SCIENCES ET TECHNIQUES DE GESTION
 
-5. ELEMENTS DE GESTION DES ENTREPRISES
+1. Les concepts généraux
 
-5.1. La gestion financière de l'entreprise.
+Environnement économique de l'entreprise.
 
-L'analyse financière de l'entreprise, la gestion des capitaux circulants (les notions de fonds de roulement et de trésorerie, problèmes posés par la gestion de la trésorerie, problèmes posés par la gestion de la trésorerie de l'entreprise) : la gestion des capitaux à long terme (le choix des investissements et leurs modalités de financement).
+Typologies des entreprises (classifications juridiques et économiques).
 
-5.2. La politique commerciale de l'entreprise.
+Relations de l'entreprise avec son environnement.
 
-La place de la fonction commerciale dans l'organisation de l'entreprise ; le développement des stratégies de marketing ; l'analyse des circuits de distribution.
+Relations inter-entreprises.
 
-La fonction commerciale et l'environnement.
+2. Finances et fiscalité
+
+Stratégie financière.
+
+Analyse financière.
+
+Besoins et moyens de financement des entreprises.
+
+La gestion des capitaux circulants (notions de fonds de roulement et de trésorerie, problèmes posés par la gestion de trésorerie des entreprises).
+
+La gestion des capitaux à long terme (le choix des investissements et leurs modalités de financement).
+
+Marchés financiers.
+
+Marchés et décisions financières.
+
+Relations banques/entreprises.
+
+Fiscalité des entreprises.
+
+3. Comptabilité, contrôle et évaluation de l'entreprise
+
+Comptabilité générale.
+
+Comptabilité analytique.
+
+Techniques comptables approfondies.
+
+Techniques de révision et de consolidation des comptes.
+
+Méthodologie du diagnostic, de l'intervention et de l'évaluation en entreprise.
+
+Analyse et étude des coûts.
+
+Architecture des données pour le contrôle.
+
+Contrôle de gestion.
+
+4. Les grandes activités créatrices de valeur de l'entreprise
+
+L'activité commerciale et marketing (développement des stratégies de marketing, les éléments du marketing mix, l'analyse des circuits de distribution).
+
+La logistique, l'achat et l'approvisionnement.
+
+L'activité de production.
+
+La recherche & développement et l'innovation.
+
+La gestion de projet.
+
+5. Les fonctions managériales
+
+L'analyse des organisations.
+
+L'organisation du travail.
+
+La gestion de l'emploi et des compétences.
+
+Les ressources humaines.
+
+Les relations sociales et la gestion des conflits.
+
+Le knowledge based management .
+
+6. Les systèmes d'information et la prise de décisions
+
+Approche systémique des systèmes d'information.
+
+Conception et réalisation des systèmes d'information.
+
+Veille et intelligence économique.
+
+Systèmes d'aide à la décision et décisions.
+
+Pratiques de la prise de décision.
+
+7. Le management stratégique et la stratégie
+
+Les grands principes de la stratégie : de la stratégie militaire à la stratégie d'entreprise.
+
+L'analyse stratégique (diagnostic stratégique, analyse concurrentielle et analyse sectorielle).
+
+Les actions stratégiques (croissance, internationalisation, concentration, externalisation, internalisation, fusions, acquisitions).
+
+Planification stratégique.

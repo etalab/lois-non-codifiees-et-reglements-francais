@@ -18,7 +18,7 @@ Le directeur central de ce commissariat :
 
 - arrête la liste d'admissibilité au vu des propositions du jury et la fait paraître dans l'ordre alphabétique au Journal officiel de la République française ;
 
-- rassemble les listes normales et complémentaires d'admission et les fait paraître dans l'ordre du classement au Journal officiel de la République française.
+- rassemble les listes principales et complémentaires d'admission et les fait paraître dans l'ordre du classement au Journal officiel de la République française.
 
 II. - Le président du jury :
 
