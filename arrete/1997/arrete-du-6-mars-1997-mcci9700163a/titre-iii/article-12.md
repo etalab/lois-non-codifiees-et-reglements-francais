@@ -1,5 +1,3 @@
 # Article 12
 
-Les années 2 et 3 comprennent chacune 10 unités de valeur dominantes et 5 unités de valeur sous-dominantes.
-
-Le dernier semestre est axé sur un projet propre à l'étudiant.
+L'étudiant ayant satisfait à l'ensemble des unités de valeur requises à l'issue de l'année 2, soit 8 unités de valeur au minimum, obtient le certificat d'études d'arts plastiques (CEAP) délivré par l'école et agréé par le ministre chargé de la culture.

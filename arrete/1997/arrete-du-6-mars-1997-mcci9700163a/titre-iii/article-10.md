@@ -2,8 +2,10 @@
 
 L'étudiant inscrit en cycle court choisit, en fin d'année propédeutique, une des options suivantes :
 
-- arts graphiques ;
+- design graphique ;
 
-- design-cadre bâti.
+- design d'espace ;
 
-Aux options citées ci-dessus peuvent être ajoutées, dans le cadre des projets pédagogiques des établissements, des mentions spécifiques dont l'appellation est déterminée par l'inspection générale de l'enseignement artistique sur proposition du directeur de l'établissement concerné.
+- design de produit.
+
+Aux options citées ci-dessus peuvent être ajoutées, dans le cadre des projets pédagogiques des établissements, des mentions spécifiques dont l'appellation est déterminée par le directeur de l'établissement concerné en accord avec l'inspection générale de l'enseignement artistique.

@@ -1,3 +1,7 @@
 # Article 11
 
-L'étudiant ayant satisfait à l'ensemble des unités de valeur requises à l'issue de l'année 2 obtient le certificat d'études d'arts plastiques (CEAP) délivré par l'école et agréé par le ministre chargé de la culture.
+Les années 2 et 3 du cycle court sont sanctionnées par l'attribution de 20 unités de valeur.
+
+A la fin de l'année 2, l'étudiant doit avoir impérativement obtenu 8 unités de valeur. L'autorisation de redoublement en cas de non-obtention des 8 unités de valeur est prise par le directeur d'établissement sur proposition de l'équipe enseignante.
+
+Le dernier semestre du cursus est axé sur un projet propre à l'étudiant.
