@@ -4,7 +4,6 @@
 - [CHAPITRE Ier : DISPOSITIONS GENERALES CONCERNANT L'ENTREE ET LE SEJOUR DES ETRANGERS EN FRANCE.](chapitre-ier)
 - [CHAPITRE II : DES DIFFERENTES CATEGORIES D'ETRANGERS SELON LES TITRES QU'ILS DETIENNENT](chapitre-ii)
 - [Chapitre 3 : Pénalités.](chapitre-3)
-- [CHAPITRE III : PENALITES.](chapitre-iii)
 - [Chapitre 4 : De la reconduite à la frontière](chapitre-4)
 - [Chapitre 5 : De l'expulsion.](chapitre-5)
 - [CHAPITRE V : DE L'EXPULSION.](chapitre-v)

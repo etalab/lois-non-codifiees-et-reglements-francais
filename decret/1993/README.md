@@ -573,7 +573,6 @@
 - [Décret n°93-1123 du 20 septembre 1993 (INTD9300485D)](decret-n93-1123-du-20-septembre-1993-intd9300485d)
 - [Décret n°93-1314 du 20 décembre 1993 (BUDB9330092D)](decret-n93-1314-du-20-decembre-1993-budb9330092d)
 - [Décret n°93-1317 du 20 décembre 1993 (FPPX9300206D)](decret-n93-1317-du-20-decembre-1993-fppx9300206d)
-- [Décret n°93-1322 du 20 décembre 1993 (SPSM9302869D)](decret-n93-1322-du-20-decembre-1993-spsm9302869d)
 - [Décret n°93-1323 du 20 décembre 1993 (SPSM9302868D)](decret-n93-1323-du-20-decembre-1993-spsm9302868d)
 - [Décret n°93-1324 du 20 décembre 1993 (SPSM9302865D)](decret-n93-1324-du-20-decembre-1993-spsm9302865d)
 - [Décret n°93-1325 du 20 décembre 1993 (SPSM9302864D)](decret-n93-1325-du-20-decembre-1993-spsm9302864d)
