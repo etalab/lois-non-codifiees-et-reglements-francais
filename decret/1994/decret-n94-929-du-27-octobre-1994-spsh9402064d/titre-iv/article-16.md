@@ -1,0 +1,5 @@
+# Article 16
+
+A compter du 1er janvier 1994 et à titre transitoire, le montant de la cotisation due par l'Etat en application de l'article L. 381-30-2 du code de la sécurité sociale et du dernier alinéa de l'article 4 de la loi du 18 janvier 1994 susvisée est calculé mensuellement.
+
+A cette fin, le nombre respectif de détenus au titre desquels l'Etat est redevable, d'une part de la cotisation fixée en application de l'article L. 381-30-2 du code de la sécurité sociale et, d'autre part, de la cotisation réduite instituée par le dernier alinéa de l'article 4 de la loi du 18 janvier 1994 susvisée, est déterminé par application au douzième du nombre de détenus résultant de l'article R. 381-100 du même code du pourcentage des détenus présents, le premier jour de l'avant-dernier mois précédant le versement mensuel, d'une part, dans les établissements pénitentiaires à l'intérieur desquels le service public hospitalier assure les soins et, d'autre part, dans les autres établissements pénitentiaires.
