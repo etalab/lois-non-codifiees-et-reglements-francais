@@ -1,3 +1,0 @@
-# Article 12
-
-Les travailleurs visés à l'article 3 de la loi du 26 décembre 1964 qui ne bénéficient pas ou ont cessé de bénéficier des prestations de l'assurance invalidité auxquelles ils pouvaient prétendre auprès de l'institution algérienne compétente en vertu de la réglementation en vigueur en Algérie au 1er juillet 1962 au titre de leur activité minière reçoivent des avances d'un montant égal à celui de la pension d'invalidité générale, calculée conformément aux dispositions du titre V du décret du 27 novembre 1946, dont ils auraient pu bénéficier pour une durée équivalente de services accomplis en France.

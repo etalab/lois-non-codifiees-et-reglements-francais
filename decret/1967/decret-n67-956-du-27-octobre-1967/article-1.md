@@ -1,3 +1,0 @@
-# Article 1
-
-A titre exceptionnel, dans les entreprises et groupes d'entreprises relevant du décret susvisé du 27 novembre 1946 qui sont désignés, en considération de la situation de l'emploi dans ces entreprises, par des arrêtés interministériels, le droit à pension de retraite est ouvert, par dérogation à la condition d'âge fixée à l'article 146 dudit décret, aux affiliés qui justifient de trente années au moins de services entrant en compte pour l'acquisition du droit à pension de retraite. Les arrêtés susmentionnés peuvent limiter le bénéfice de la disposition précédente à certaines catégories de personnels ; ils peuvent en outre prévoir que les trente années de services ci-dessus exigées comprendront au moins vingt années au fond [*durée*].

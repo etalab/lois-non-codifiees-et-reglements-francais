@@ -261,7 +261,6 @@
 - [Décret n°82-1162 du 30 décembre 1982](decret-n82-1162-du-30-decembre-1982)
 - [Décret n°82-1224 du 30 décembre 1982](decret-n82-1224-du-30-decembre-1982)
 - [Décret n°83-1189 du 30 décembre 1983](decret-n83-1189-du-30-decembre-1983)
-- [Décret n°83-1191 du 30 décembre 1983](decret-n83-1191-du-30-decembre-1983)
 - [Décret n°83-1193 du 30 décembre 1983](decret-n83-1193-du-30-decembre-1983)
 - [Décret n°83-1194 du 30 décembre 1983](decret-n83-1194-du-30-decembre-1983)
 - [Décret n°83-253 du 30 mars 1983](decret-n83-253-du-30-mars-1983)
