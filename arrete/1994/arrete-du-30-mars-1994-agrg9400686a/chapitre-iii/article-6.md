@@ -20,19 +20,15 @@ d) Indemne de tout signe clinique :
 
 - de tremblante depuis plus de deux ans ;
 
-- d'adénomatose pulmonaire et de maëdi visna depuis plus de trois ans.
+- d'adénomatose pulmonaire et de maëdi visna depuis plus de trois ans ;
+
+- de visna-maëdi depuis plus de trois ans, ce délai pouvant être réduit à douze mois, si les animaux atteints de visna-maëdi ont été abattus et les animaux restants ont réagi négativement à deux épreuves sérologiques, dans des conditions définies par instruction du ministre de l'agriculture.
 
 e) Inscrit au contrôle sanitaire officiel des ventes de reproducteurs ovins et caprins vis-à-vis de la tremblante. (Une instruction du ministre de l'agriculture et de la pêche précise les modalités de mise en oeuvre de la présente disposition).
 
 Les animaux ne peuvent avoir préalablement séjourné dans d'autres troupeaux de statut inférieur.
 
-3. Etre nés de mères :
-
-a) Appartenant à un cheptel qualifié vis-à-vis du maëdi visna, ou
-
-b) Qui ont été soumises avec résultat favorable dans les douze mois précédant l'agnelage - ou, à défaut, dans les six mois qui suivent l'agnelage - à une épreuve sérologique autorisée par le ministre de l'agriculture et de la pêche pour la recherche du maëdi visna.
-
-Toutefois, en ce qui concerne le point 3 b, les résultats éventuellement défavorables donnent lieu, à titre transitoire, à l'application de mesures particulières précisées par instruction du ministre de l'agriculture et de la pêche.
+3. (alinéa supprimé).
 
 4. Avoir été isolés pendant trente jours au moins dans la station de quarantaine d'un centre agréé répondant aux conditions fixées par l'article 20 ci-après.
 
@@ -66,7 +62,7 @@ b) A l'égard de la brucellose, à une épreuve à l'antigène tamponné associ�
 
 c) A l'égard de l'épididymite contagieuse du bélier (Brucella ovis), à une épreuve de fixation du complément révélant un titre brucellique inférieur à 50 unités CEE effectuée conformément aux prescriptions de l'annexe D de la directive 91/68/CEE du 28 janvier 1991 modifiée susvisée, ou à une épreuve ELISA. Ce diagnostic sérologique est complété par une recherche bactériologique du germe par isolement et mise en culture à partir d'un échantillon de sperme ;
 
-d) A l'égard du maëdi visna, à une épreuve sérologique autorisée par le ministre de l'agriculture et de la pêche ;
+d) (alinéa supprimé).
 
 e) A l'égard de la border disease, à une épreuve d'isolement du virus (épreuve de recherche des antigènes par immuno-fluorescence ou épreuve immuno-péroxydasique) ;
 
