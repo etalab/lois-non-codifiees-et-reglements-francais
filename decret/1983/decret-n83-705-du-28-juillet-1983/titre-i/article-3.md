@@ -2,7 +2,7 @@
 
 L'Office oriente, anime et contrôle la politique foncière agricole.
 
-Pour l'exercice des compétences prévues par les articles 188-1 à 188-10 du code rural il se substitue aux commissions départementales des structures agricoles.
+Pour l'exercice des compétences prévues par les articles 188-1 à 188-10 du code rural il se substitue aux commissions départementales d'orientation de l'agriculture.
 
 Les relations entre l'office et le Centre national pour l'aménagement des structures des exploitations agricoles, dont il exerce les compétences dans la région Corse, sont régies par voie de conventions approuvées par le ministre de l'agriculture.
 
