@@ -878,6 +878,8 @@
 - [Décret n°2004-1157 du 29 octobre 2004 (JUSC0420831D)](decret-n2004-1157-du-29-octobre-2004-jusc0420831d)
 - [Décret n°2004-1160 du 29 octobre 2004 (DEFP0401095D)](decret-n2004-1160-du-29-octobre-2004-defp0401095d)
 - [Décret n°2004-1161 du 29 octobre 2004 (SANS0421405D)](decret-n2004-1161-du-29-octobre-2004-sans0421405d)
+- [Décret n°2004-1162 du 29 octobre 2004 (DEFP0401096D)](decret-n2004-1162-du-29-octobre-2004-defp0401096d)
+- [Décret n°2004-1163 du 29 octobre 2004 (DEFP0401097D)](decret-n2004-1163-du-29-octobre-2004-defp0401097d)
 - [Décret n°2004-295 du 29 mars 2004 (INTD0400056D)](decret-n2004-295-du-29-mars-2004-intd0400056d)
 - [Décret n°2004-296 du 29 mars 2004 (INTD0400057D)](decret-n2004-296-du-29-mars-2004-intd0400057d)
 - [Décret n°2004-300 du 29 mars 2004 (SOCA0421024D)](decret-n2004-300-du-29-mars-2004-soca0421024d)
