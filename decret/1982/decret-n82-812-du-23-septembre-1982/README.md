@@ -1,0 +1,6 @@
+# Décret n°82-812 du 23 septembre 1982 FIXANT LES MONTANTS DES REMUNERATIONS VERSEES AUX STAGIAIRES DE FORMATION PROFESSIONNELLE BENEFICIANT DES MESURES PREVUES PAR L'ORDONNANCE 82-273 DU 26 MARS 1982
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
