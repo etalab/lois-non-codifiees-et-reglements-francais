@@ -121,6 +121,7 @@
 - [Décret n°75-41 du 20 janvier 1975](decret-n75-41-du-20-janvier-1975)
 - [Décret n°83-31 du 20 janvier 1983](decret-n83-31-du-20-janvier-1983)
 - [Décret n°83-321 du 20 avril 1983](decret-n83-321-du-20-avril-1983)
+- [Décret n°83-662 du 20 juillet 1983](decret-n83-662-du-20-juillet-1983)
 - [Décret n°83-128 du 21 février 1983](decret-n83-128-du-21-fevrier-1983)
 - [Décret n°83-220 du 21 mars 1983](decret-n83-220-du-21-mars-1983)
 - [Décret n°83-236 du 21 mars 1983](decret-n83-236-du-21-mars-1983)
