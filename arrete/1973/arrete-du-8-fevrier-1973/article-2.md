@@ -1,9 +1,11 @@
 # Article 2
 
-Pour les ventes faites à des voyageurs résidant dans un Etat membre de la Communauté économique européenne autre que la France, le bordereau conforme au modèle donné en annexe I est établi par le vendeur en quatre exemplaires :
+Les dispositions prévues au présent arrêté sont applicables à toutes les lignes, quel que soit le nombre de voies franchissant le passage à niveau.
 
-- un de couleur blanche qu'il conserve à l'appui de sa comptabilité ;
+L'importance des circulations routières et ferroviaires est définie par le moment de circulation. La journée étant décomptée de 0 à 24 heures, le moment est le produit arithmétique du nombre moyen des circulations ferroviaires par le nombre moyen des circulations routières se rapportant à la période journalière d'ouverture de la ligne à la circulation ferroviaire.
 
-- deux de couleur jaune qu'il remet à l'acheteur à charge pour celui-ci de les adresser, après visa de l'autorité compétente de l'Etat membre d'importation définitive, au bureau des Douanes françaises désignés sur le bordereau ;
+Il est tenu compte :
 
-- un de couleur verte destiné à l'acheteur, ce dernier exemplaire étant facultatif.
+En ce qui concerne le chemin de fer, du nombre journalier des circulations ferroviaires en moyenne annuelle.
+
+En ce qui concerne la circulation routière, du nombre journalier, en moyenne annuelle, des véhicules à moteur traversant le passage à niveau et dont la cylindrée dépasse 50 centimètres cubes.

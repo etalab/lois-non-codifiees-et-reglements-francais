@@ -23,6 +23,7 @@
 - [Décret n°85-1220 du 20 novembre 1985](decret-n85-1220-du-20-novembre-1985)
 - [Décret n°85-1229 du 20 novembre 1985](decret-n85-1229-du-20-novembre-1985)
 - [Décret n°85-923 du 21 août 1985](decret-n85-923-du-21-aout-1985)
+- [Décret n°85-1236 du 22 novembre 1985](decret-n85-1236-du-22-novembre-1985)
 - [Décret n°84-135 du 24 février 1984](decret-n84-135-du-24-fevrier-1984)
 - [Décret n°85-1148 du 24 octobre 1985](decret-n85-1148-du-24-octobre-1985)
 - [Décret n°85-475 du 26 avril 1985](decret-n85-475-du-26-avril-1985)

@@ -1,3 +1,3 @@
 # Article 1
 
-Le taux [*tarif*] de la taxe parafiscale destinée au financement du centre technique interprofessionnel des oléagineux métropolitains est fixé, pour la récolte 1985, à 0,65 p. 100 du prix d'intervention des graines de colza, navette et tournesol et à 0,65 p. 100 du prix d'objectif des graines de soja fixés par le Conseil des communautés européennes.
+Sont agréés, au titre de l'article L. 951-3 du code du travail et sont habilités à recevoir une fraction de la participation des employeurs au financement de la formation professionnelle continue, égale au moins à 0,10 p. 100 des salaires de l'année de référence, les organismes paritaires figurant sur la liste ci-annexée, complétant les listes placées en annexe des arrêtés susvisés.
