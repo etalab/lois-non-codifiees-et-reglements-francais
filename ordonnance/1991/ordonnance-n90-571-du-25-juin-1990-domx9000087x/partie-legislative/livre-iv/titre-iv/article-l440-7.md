@@ -1,6 +1,6 @@
 # Article L440-7
 
-Le tribunal impartit au bénéficiaire des travaux irréguliers ou de l'utilisation irrégulière du sol un délai pour l'exécution de l'ordre de démolition, de mise en conformité ou de réaffectation. Il peut assortir sa décision d'une astreinte de 50 francs à 500 francs par jour de retard.
+Le tribunal impartit au bénéficiaire des travaux irréguliers ou de l'utilisation irrégulière du sol un délai pour l'exécution de l'ordre de démolition, de mise en conformité ou de réaffectation. Il peut assortir sa décision d'une astreinte de 7,5 euros à 75 euros par jour de retard.
 
 Au cas où le délai n'est pas observé, l'astreinte prononcée, qui ne peut être révisée que dans le cas prévu au troisième alinéa du présent article, court à partir de l'expiration dudit délai jusqu'au jour où l'ordre a été complètement exécuté.
 

@@ -30,9 +30,7 @@ D. - Pour leur application en Polynésie française, les articles 7, 64, 64 A, 2
 
 5° A l'article 215, au 1, les mots : "marchandises contrefaites" sont remplacés par les mots : "marchandises présentées sous une marque contrefaite", après les mots : "régulièrement importés" et "à l'intérieur du territoire douanier", les mots : "dans le territoire douanier de la Communauté européenne" et "de la Communauté européenne" sont supprimés et les mots : "arrêtés du ministre du budget" sont remplacés par les mots : "délibérations de l'assemblée de la Polynésie française", et au 3, les mots : "arrêtés susvisés", "l'arrêté visé" et "l'arrêté" sont respectivement remplacés par les mots : "délibérations susvisées", "la délibération visée" et "la délibération" ;
 
-6° Au premier alinéa de l'article 342, après les mots :
-
-"les lois" sont ajoutés les mots : "et règlements" ;
+6° Au premier alinéa de l'article 342, après les mots : "les lois" sont ajoutés les mots : "et règlements" ;
 
 7° A l'article 380, le mot : "producteurs," est supprimé et les mots : "produits visés au tableau B de l'article 265" sont remplacés par les mots : "produits pétroliers et assimilés" ;
 
@@ -58,25 +56,25 @@ D. - Pour leur application en Polynésie française, les articles 7, 64, 64 A, 2
 
 16° Au premier alinéa de l'article 431, les mots : "aux articles 65 et 92" sont remplacés par les mots : "à l'article 65".
 
-E. - Aux articles 60 bis, 403, 410, 412, 413 bis, 431, 432 bis et 437 du code des douanes, les valeurs exprimées en francs sont remplacées par des valeurs exprimées en francs CFP, conformément au tableau ci-après :
+E. - Aux articles 60 bis, 403, 410, 412, 413 bis, 431, 432 bis et 437 du code des douanes, les valeurs exprimées en francs sont remplacées par des valeurs exprimées en euros, conformément au tableau ci-après :
 
-- article 60 bis : 10 000 à 270 000 F CFP ;
+- article 60 bis : 84 à 2263 euros ;
 
-- article 403 : 5 000 F CFP ;
+- article 403 : 42 euros ;
 
-- article 410 : 20 000 à 360 000 F CFP ;
+- article 410 : 168 à 3017 euros ;
 
-- article 412 : 18 000 à 180 000 F CFP ;
+- article 412 : 151 à 1507 euros ;
 
-- article 413 bis : 10 000 à 60 000 F CFP ;
+- article 413 bis : 84 à 503 euros ;
 
-- article 431 : 200 F CFP ;
+- article 431 : 2 euros ;
 
-- article 432 bis : 20 000 à 1 800 000 F CFP ;
+- article 432 bis : 168 à 15084 euros ;
 
-- article 437 : 18 000 ou 36 000 F CFP ;
+- article 437 : 151 ou 302 euros ;
 
-et 4 000 F CFP.
+et 34 euros.
 
 F. - Il y a lieu de lire dans les articles du code des douanes rendus applicables au territoire de la Polynésie française :
 
