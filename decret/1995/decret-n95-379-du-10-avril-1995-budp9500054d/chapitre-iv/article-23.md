@@ -8,96 +8,249 @@ b) Avec effet du 1er août 1995, dans la limite du quart de l'effectif total du 
 
 Les intéressés sont classés conformément au tableau de correspondance ci-après :
 
-ANCIENNE SITUATION
+<table>
+<tbody>
+<tr>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>ANCIENNE SITUATION </strong>
+</p>
+</td>
+<td align="left" colspan="2" valign="middle">
+<p align="center">
+<strong>NOUVELLE SITUATION </strong>
+</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">Echelons </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté d'échelon </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Echelons </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">Ancienneté d'échelon </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">7 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté :</p>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="left">-égale ou supérieure à 4 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">7 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté excédant 4 ans maintenue</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="left">-inférieure à 4 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">6 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté maintenue </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">6 </p>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="center">5 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté maintenue majorée de 6 mois </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">5 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté :</p>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="left">-égale ou supérieure à 2 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">5 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté excédant 2 ans maintenue</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="left">-inférieure à 2 ans </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté maintenue majorée de 1 an </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">4 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté :</p>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="left">-égale ou supérieure à 1 an </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">4 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté excédant 1 an maintenue</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="left">-inférieure à 1 an </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté maintenue majorée de 1 an 6 mois </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">3 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté :</p>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="left">-égale ou supérieure à 6 mois </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté excédant 6 mois maintenue</p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="left">-inférieure à 6 mois </p>
+</td>
+<td align="left" valign="middle">
+<p align="center">3 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté maintenue majorée de 2 ans </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">2 </p>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="center">2 </p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté maintenue </p>
+</td>
+</tr>
+<tr>
+<td align="left" valign="middle">
+<p align="center">1 <sup>er </sup>
+</p>
+</td>
+<td align="left" valign="middle">
+<pre/>
+</td>
+<td align="left" valign="middle">
+<p align="center">1 <sup>er </sup>
+</p>
+</td>
+<td align="left" valign="middle">
+<p align="left">Ancienneté maintenue </p>
+</td>
+</tr>
+</tbody>
+</table>
 
-NOUVELLE SITUATION
+La situation au 1er août 1995 des agents mentionnés au a et au b du présent article ne peut être moins favorable en ce qui concerne tant l'échelon que l'ancienneté dans cet échelon que celle qui aurait été la leur s'ils n'avaient été promus qu'au 1er août 1995 et reclassés dans le grade provisoire de contrôleur divisionnaire créé par l'article 25 puis reclassés dans le grade de contrôleur principal à cette même date.
 
-Echelons
-
-Ancienneté d'échelon
-
-Echelons
-
-Ancienneté d'échelon
-
-7
-
-Ancienneté :
-
-- égale ou supérieure à 4 ans
-
-7
-
-Ancienneté excédant 4 ans maintenue.
-
-- inférieure à 4 ans
-
-6
-
-Ancienneté maintenue.
-
-6
-
-5
-
-Ancienneté maintenue majorée de 6 mois.
-
-5
-
-Ancienneté :
-
-- égale ou supérieure à 2 ans
-
-5
-
-Ancienneté excédant 2 ans maintenue.
-
-- inférieure à 2 ans
-
-4
-
-Ancienneté maintenue majorée de 1 an.
-
-4
-
-Ancienneté :
-
-- égale ou supérieure à 1 an
-
-4
-
-Ancienneté excédant 1 an maintenue.
-
-- inférieure à 1 an
-
-3
-
-Ancienneté maintenue majorée de 1 an 6 mois.
-
-3
-
-Ancienneté :
-
-- égale ou supérieure à 6 mois
-
-3
-
-Ancienneté excédant 6 mois maintenue.
-
-- inférieure à 6 mois
-
-2
-
-Ancienneté maintenue majorée de 2 ans.
-
-2
-
-2
-
-Ancienneté maintenue.
-
-1er
-
-1er
-
-Ancienneté maintenue.
+Doivent être appliquées, pour le reclassement dans le grade provisoire, les règles fixées à l'article 31 du présent décret, et, pour le reclassement dans le grade de contrôleur principal, celles fixées à l'article 26.
