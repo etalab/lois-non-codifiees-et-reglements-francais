@@ -2,6 +2,8 @@
 
 Les concours prévus par le présent arrêté comprennent des épreuves d'admissibilité et des épreuves d'admission.
 
+L'épreuve écrite d'admission peut avoir lieu à la suite des épreuves d'admissibilité, étant précisé que seules les copies des épreuves d'admission des candidats déclarés admissibles feront l'objet d'une correction.
+
 Le choix des sujets des épreuves est fait à la majorité des membres du jury. Les sujets à traiter par écrit sont tirés au sort par un candidat parmi trois sujets proposés par le jury pour chaque épreuve.
 
 1) Admissibilité.

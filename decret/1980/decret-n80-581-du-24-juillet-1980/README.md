@@ -1,0 +1,7 @@
+# Décret n°80-581 du 24 juillet 1980 PRIS POUR L'APPLICATION DE L'ARTICLE 5-1 DE L'ORDONNANCE N° 45-2658 DU 2 NOVEMBRE 1945 MODIFIEE RELATIVE AUX CONDITIONS D'ENTREE ET DE SEJOUR EN FRANCE DES ETRANGERS ET PORTANT CREATION DE L'OFFICE NATIONAL D'IMMIGRATION.
+
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
