@@ -34,6 +34,8 @@ A compter du 1er janvier 2002
 
 1. Responsable du secrétariat particulier de :
 
+- secrétaire général ;
+
 - délégué ;
 
 - directeur général et directeur de l'administration centrale ;
@@ -48,7 +50,7 @@ A compter du 1er janvier 2002
 
 - sous-directeur de l'administration centrale ;
 
-- contrôleur financier.
+- membre du corps du contrôle général économique et financier.
 
 2. Régisseur d'avances et régisseur de recettes.
 
@@ -122,7 +124,7 @@ A compter du 1er août 1996
 
 12. Agents chargés de la liquidation des dossiers de frais de déplacement.
 
-13. Responsable du secrétariat du contrôleur financier.
+13. Responsable du secrétariat du membre du corps du contrôle général économique et financier.
 
 14. Agents chargés de travaux de réparations.
 

@@ -8,9 +8,9 @@ Stud-book du trotteur français.
 
 Livre généalogique des races françaises de chevaux de selle.
 
-Stud-book français du cheval arabe.
+Stud-book français du cheval arabe dont le registre français du demi-sang arabe.
 
-Stud-book français du cheval anglo-arabe.
+Stud-book français du cheval anglo-arabe dont le registre français du cheval anglo-arabe de croisement.
 
 Stud-book du selle français.
 
@@ -35,6 +35,8 @@ Registre français du cheval frison.
 Stud-book français du cheval islandais.
 
 Stud-book français du cheval Lipizzan.
+
+Registre français du Paint Horse.
 
 Stud-book français du cheval de pure race lusitanienne.
 
@@ -67,8 +69,6 @@ Stud-book français du poney New Forest.
 Stud-book du poney Pottok.
 
 Stud-book français du poney Shetland.
-
-Stud-book français du poney Welsh.
 
 3. Chevaux de trait.
 
@@ -106,6 +106,6 @@ Stud-book de l'âne de Provence.
 
 Stud-book de l'âne des Pyrénées.
 
-Stud-book du baudet du Poitou.
+Stud-book du baudet de Poitou.
 
 Stud-book de l'âne bourbonnais.

@@ -2,19 +2,21 @@
 
 A. - Fonctions exercées en administration centrale
 
-1° Chef du service de l'inspection générale des affaires sociales.
+1° Secrétaire général des ministères chargés des affaires sociales ;
 
-2° Directeur général et directeur d'administration centrale, délégué général et délégué général adjoint, délégué.
+2° Chef du service de l'inspection générale des affaires sociales ;
 
-3° Chef de service ou sous-directeur exerçant les fonctions d'adjoint au directeur général ou d'adjoint au directeur.
+3° Directeur général et directeur d'administration centrale, délégué général et délégué général adjoint, délégué ;
 
-4° Chef de service ou sous-directeur en charge d'un service ou d'une sous-direction d'administration centrale ou d'un service à compétence nationale.
+4° Chef de service ou sous-directeur exerçant les fonctions d'adjoint au directeur général ou d'adjoint au directeur ;
 
-5° Directeur de projet.
+5° Chef de service ou sous-directeur en charge d'un service ou d'une sous-direction d'administration centrale ou d'un service à compétence nationale ;
 
-6° Chef de la mission centrale d'appui et de coordination des services déconcentrés.
+6° Directeur de projet ;
 
-7° Président de la mission interministérielle aux rapatriés.
+7° Chef de la mission centrale d'appui et de coordination des services déconcentrés ;
+
+8° Président de la mission interministérielle aux rapatriés.
 
 B. - Fonctions exercées en service déconcentré
 

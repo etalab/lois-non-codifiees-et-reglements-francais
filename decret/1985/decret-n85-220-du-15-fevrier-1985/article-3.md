@@ -1,6 +1,6 @@
 # Article 3
 
-Pendant une période transitoire de sept ans à partir du 1er mai 1996, pour avoir droit à l'appellation d'origine contrôlée "Minervois" les vins doivent être issus de vendanges récoltées dans les parcelles identifiées, situées dans l'aire de production délimitée par parcelles ou parties de parcelle, telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine lors de sa réunion du 20 septembre 1984, sur proposition de la commission d'experts désignée à cet effet.
+Pendant une période transitoire de neuf ans à partir du 1er mai 1996, pour avoir droit à l'appellation d'origine contrôlée "Minervois" les vins doivent être issus de vendanges récoltées dans les parcelles identifiées, situées dans l'aire de production délimitée par parcelles ou parties de parcelle, telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine lors de sa réunion du 20 septembre 1984, sur proposition de la commission d'experts désignée à cet effet.
 
 Les plans de délimitation sont déposés à la mairie des communes intéressées.
 
