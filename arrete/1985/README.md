@@ -100,7 +100,6 @@
 - [Arrêté du 14 mai 1985](arrete-du-14-mai-1985)
 - [Arrêté du 15 avril 1985](arrete-du-15-avril-1985)
 - [Arrêté du 15 janvier 1985](arrete-du-15-janvier-1985)
-- [Arrêté du 15 mars 1985](arrete-du-15-mars-1985)
 - [Arrêté du 15 octobre 1985](arrete-du-15-octobre-1985)
 - [Arrêté du 15 mai 1985](arrete-du-15-mai-1985)
 - [Arrêté du 16 décembre 1985](arrete-du-16-decembre-1985)
