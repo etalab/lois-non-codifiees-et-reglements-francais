@@ -1,5 +1,7 @@
 # Article 1
 
-Les frais afférents à l'enlèvement des véhicules et aux opérations préalables à celui-ci ainsi que les frais de garde des véhicules mis en fourrière sont fixés conformément au barème figurant au tableau annexé au présent arrêté.
+Les dispositifs de conduite des voitures particulières, à l'exception des véhicules à conduite avancée, doivent être conçus et réalisés de telle sorte :
 
-Les frais d'enlèvement sont dus par le contrevenant dès déclenchement de la procédure par les services de police ayant procédé au constat de l'infraction justifiant la mise en fourrière.
+Qu'en cas de collision frontale, le déplacement de la colonne de direction dans l'habitacle soit limité de façon à réduire les risques de blessure à la poitrine, au cou ou à la tête ;
+
+Qu'en cas de heurt du dispositif de commande de direction par le conducteur, à la suite d'un choc, les blessures occasionnées par ce dispositif soient réduites au minimum.
