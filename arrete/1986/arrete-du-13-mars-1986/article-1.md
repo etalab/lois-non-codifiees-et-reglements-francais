@@ -1,3 +1,3 @@
 # Article 1
 
-Les paragraphes d et e de l'article 53 de l'annexe IV au code général des impôts sont abrogés.
+Le taux de la cotisation professionnelle destinée aux formations initiales dans les métiers du bâtiment et des travaux publics est fixé à 0,30 p. 100.

@@ -1,0 +1,3 @@
+# Article 59
+
+Les avis des instances d'évaluation de l'I.N.R.I.A. requis pour les recrutements et les promotions de chercheurs donnés conformément aux dispositions en vigueur avant la date de parution du présent décret sont valables, si la décision du président de I.N.R.I.A. n'est pas intervenue à la date de publication du présent décret, pour l'accès à l'échelon ou au grade des corps des chargés de recherche ou des directeurs de recherche créés par le présent décret et correspondant en application des tableaux de la section II du chapitre Ier du titre II de ce décret, aux catégories de chercheurs au titre desquelles ces avis ont été recueillis.

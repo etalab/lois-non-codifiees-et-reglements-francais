@@ -1,4 +1,4 @@
-# Arrêté du 13 mars 1986 du 13 mars 1986 relatif au régime fiscal des alcools et produits à base d'alcool impropres à la consommation en l'état et utilisés pour élaborer des produits destinés à l'alimentation humaine.
+# Arrêté du 13 mars 1986 relatif au taux de la cotisation professionnelle destinée aux formations initiales dans les métiers du bâtiment et des travaux publics.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

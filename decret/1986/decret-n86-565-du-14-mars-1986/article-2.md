@@ -1,0 +1,3 @@
+# Article 2
+
+Le directeur régional et le directeur départemental des affaires sanitaires et sociales sont placés respectivement sous l'autorité du commissaire de la République de région et du commissaire de la République de département. Leur action s'exerce dans le respect des compétences qui sont dévolues aux commissaires de la République par les décrets du 10 mai 1982 susvisés. Ils peuvent recevoir délégation de signature de la part du commissaire de la République pour les compétences relevant du ou des ministères chargés de la santé, de l'action sociale et de la sécurité sociale. Ils peuvent également, dans le respect des règlements ministériels de comptabilité publique, exercer les fonctions d'ordonnateur secondaire délégué.

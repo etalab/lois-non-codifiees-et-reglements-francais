@@ -1,3 +1,3 @@
 # Article 2
 
-Le deuxième seuil visé au cinquième alinéa de l'article 314 bis du code des marchés publics est fixé à 900.000 F.
+Ce comité répartit le produit de la taxe en l'affectant dans les conditions définies à l'article 8 du décret susvisé.

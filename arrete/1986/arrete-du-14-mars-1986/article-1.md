@@ -1,3 +1,3 @@
 # Article 1
 
-Le premier seuil visé au quatrième alinéa de l'article 314 bis du code des marchés publics est fixé à 450.000 F.
+Il est créé auprès de l'Agence nationale pour la récupération et l'élimination des déchets un comité de gestion du produit de la taxe instituée par le décret n° 86-549 du 14 mars 1986.
