@@ -455,7 +455,6 @@
 - [Arrêté du 24 avril 1989 (PTTP8900363A)](arrete-du-24-avril-1989-pttp8900363a)
 - [Arrêté du 24 avril 1989 (SPSS8901778A)](arrete-du-24-avril-1989-spss8901778a)
 - [Arrêté du 24 février 1984](arrete-du-24-fevrier-1984)
-- [Arrêté du 24 février 1989 (MEND8900451A)](arrete-du-24-fevrier-1989-mend8900451a)
 - [Arrêté du 24 janvier 1989 (AGRS8900138A)](arrete-du-24-janvier-1989-agrs8900138a)
 - [Arrêté du 24 janvier 1989 (ECOC8900010A)](arrete-du-24-janvier-1989-ecoc8900010a)
 - [Arrêté du 24 janvier 1989 (TEFT8903104A)](arrete-du-24-janvier-1989-teft8903104a)
