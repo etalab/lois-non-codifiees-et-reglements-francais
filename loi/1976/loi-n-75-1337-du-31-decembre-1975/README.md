@@ -1,4 +1,4 @@
-# SECTION I - DROITS PERSONNELS.
+# Loi n° 75-1337 du 31 décembre 1975 relative aux conséquences de l'autodétermination des îles des Comores (1).
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -11,4 +11,3 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Article 12](article-12.md)
