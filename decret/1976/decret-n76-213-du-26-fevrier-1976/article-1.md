@@ -1,0 +1,5 @@
+# Article 1
+
+Les chefs d'arrondissement assurent des fonctions de direction, d'encadrement ou d'expertise dans les services déconcentrés, les services techniques centraux et interrégionaux, les établissements d'enseignement et de recherche, l'administration centrale, les services à compétence nationale, les services d'inspection et les établissements publics à caractère administratif. La liste des emplois pouvant être occupés par les chefs d'arrondissement est fixée par arrêté du ministre chargé de l'équipement pour les emplois relevant de ce ministre ou d'un établissement public placé sous sa tutelle.
+
+La liste des emplois pouvant être occupés par les chefs d'arrondissement relevant des ministres chargés de l'emploi et de la solidarité, de la justice, de l'éducation nationale et de l'enseignement supérieur, de l'intérieur, des affaires étrangères, de l'économie, des finances et de l'industrie, de la culture, de l'environnement, de la fonction publique et de la jeunesse et des sports ou d'établissements publics placés sous la tutelle de ces ministres est fixée par arrêté conjoint du ministre chargé de l'équipement et du ministre intéressé.
