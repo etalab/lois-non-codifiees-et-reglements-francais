@@ -17,3 +17,5 @@ L'Institut national de la statistique et des études économiques (INSEE) assure
 7. Opération de mise en concordance automatique avec le répertoire Sirene de fichiers d'établissements fournis sur support magnétique par un tiers (opération de Sirenage) ;
 
 8. Communication de tableaux de comptage Sirene (tableaux standard).
+
+9. Identification en nombre des entreprises et établissements par le réseau internet sécurisé.
