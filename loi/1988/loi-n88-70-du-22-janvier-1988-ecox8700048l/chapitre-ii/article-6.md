@@ -15,3 +15,7 @@ Le règlement général fixe :
 - les conditions dans lesquelles une carte professionnelle est délivrée aux personnes placées sous l'autorité ou agissant pour le compte des sociétés de bourse ou de l'institution financière spécialisée ainsi qu'aux personnes physiques que les sociétés de bourse habilitent à agir en leur nom ;
 
 - les conditions de constitution ainsi que les conditions et limites d'intervention d'un fonds de garantie destiné à intervenir au bénéfice de la clientèle du marché des valeurs mobilières.
+
+Par dérogation aux dispositions de l'alinéa précédent, les bourses de valeurs créées sur proposition du Conseil des bourses de valeurs après avis de la Commission des opérations de bourse établissent elles-mêmes les règles relatives au fonctionnement du marché, à la suspension des cotations, à l'admission aux négociations des valeurs mobilières et à leur radiation.
+
+Ces règles ainsi que l'avis de la Commission des opérations de bourse sont rendus publics.

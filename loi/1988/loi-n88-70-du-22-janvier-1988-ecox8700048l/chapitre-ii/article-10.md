@@ -7,3 +7,5 @@ Ses statuts sont approuvés par le ministre chargé de l'économie. La nominatio
 L'institution dispose en son sein d'un service de contrôle, qui a notamment pour mission de prévenir et d'instruire les infractions relevant des articles 8 et 9.
 
 Les sommes et les titres déposés auprès de l'institution financière spécialisée en garantie d'opérations de compensation prévues dans le règlement cité à l'article 6 lui sont acquis dans la limite des dettes engendrées envers elle par ces opérations.
+
+L'institution financière spécialisée peut confier, sous le contrôle du Conseil des bourses de valeurs, à des sociétés dont elle assure directement le contrôle au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales, l'enregistrement des négociations.
