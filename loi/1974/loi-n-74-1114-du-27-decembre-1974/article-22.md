@@ -22,7 +22,7 @@ b) Pour le visa du permis de chasser :
 
 Un droit de timbre annuel de 20 F au profit de l'Etat ;
 
-Une taxe annuelle de 10 F au profit de la commune où la demande de visa a été présentée.
+Une taxe annuelle de 22 F au profit de la commune où la demande de visa a été présentée.
 
 c) Pour la délivrance de chaque duplicata du visa annuel du permis de chasser, une taxe de 10 F au profit de la commune où la demande de visa est présentée.
 
@@ -30,4 +30,4 @@ d) Pour l'inscription à l'examen du permis de chasser, un droit d'examen dont l
 
 IV - Un décret en Conseil d'Etat précise les modalités d'application des dispositions contenues dans le présent article qui, à l'exception des dispositions concernant l'examen, entrent en vigueur le 1er juillet 1975. Les dispositions concernant l'examen entreront en vigueur le 5 janvier 1976.
 
-V Paragraphe modificateur.
+V Paragraphe modificateur
