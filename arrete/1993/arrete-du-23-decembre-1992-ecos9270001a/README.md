@@ -1,4 +1,4 @@
-# Arrêté du 17 septembre 1987 fixant la procédure de recrutement des professeurs des universités - praticiens hospitaliers et maîtres de conférences des universités - praticiens hospitaliers
+# Arrêté du 23 décembre 1992 relatif aux conditions de tarification s'appliquant à l'accès au service public d'information sur les entreprises, organismes publics et leurs établissements
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,8 +8,6 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 8-1](article-8-1.md)
-- [Article 8-2](article-8-2.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
@@ -17,4 +15,3 @@
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
-- [Article 16](article-16.md)
