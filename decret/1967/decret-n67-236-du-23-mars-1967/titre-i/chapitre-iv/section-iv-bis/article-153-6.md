@@ -1,3 +1,3 @@
 # Article 153-6
 
-La commission des opérations de bourse peut porter à la connaissance du public, par avis inséré dans les journaux qu'elle choisit, tout ou partie des indications figurant dans les déclarations reçues en exécution des articles 153-2 à 153-5.
+L'assemblée spéciale statuant dans les conditions prévues à l'article 156 de la loi sur les sociétés commerciales sur les questions qui lui sont soumises pour approbation ou accord et composée, le cas échéant, des seuls titulaires d'actions prioritaires sans droit de vote concernés doit être réunie au plus tard dans le mois de la date de l'assemblée générale.

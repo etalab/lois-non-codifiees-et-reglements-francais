@@ -107,6 +107,7 @@
 - [Décret n°79-265 du 27 mars 1979](decret-n79-265-du-27-mars-1979)
 - [Décret n°79-558 du 27 juin 1979](decret-n79-558-du-27-juin-1979)
 - [Décret n°79-638 du 27 juillet 1979](decret-n79-638-du-27-juillet-1979)
+- [Décret n°79-641 du 27 juillet 1979](decret-n79-641-du-27-juillet-1979)
 - [Décret n°79-505 du 28 juin 1979](decret-n79-505-du-28-juin-1979)
 - [Décret n°79-507 du 28 juin 1979](decret-n79-507-du-28-juin-1979)
 - [Décret n°79-417 du 28 mai 1979](decret-n79-417-du-28-mai-1979)
