@@ -1,5 +1,0 @@
-# Article 12
-
-Les prélèvements doivent être effectués de telle sorte que les trois échantillons soient, autant que possible, identiques.
-
-A cet effet, des arrêtés du ministre de l'agriculture, pris sur la proposition de la commission générale d'unification des méthodes d'analyses visée à l'article 3, peuvent déterminer, pour chaque produit ou marchandise, la quantité à prélever, les procédés à employer pour obtenir des échantillons homogènes, ainsi que les précautions à prendre pour le transport et la conservation des échantillons.

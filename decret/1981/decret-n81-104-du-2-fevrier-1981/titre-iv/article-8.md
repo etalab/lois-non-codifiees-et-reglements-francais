@@ -1,6 +1,6 @@
 # Article 8
 
-Outre les mentions prévues par les dispositions du décret du 7 décembre 1984 susvisé, l'étiquetage des extraits de café ou de chicorée destinés à être livrés sans transformation ultérieure au consommateur final doit comporter les mentions suivantes :
+Outre les mentions prévues par les dispositions des articles R. 112-6 à R. 112-31 du code de la consommation susvisé, l'étiquetage des extraits de café ou de chicorée destinés à être livrés sans transformation ultérieure au consommateur final doit comporter les mentions suivantes :
 
 a) La dénomination de vente telle que celle-ci est définie aux articles 3 et 5 du présent décret ;
 

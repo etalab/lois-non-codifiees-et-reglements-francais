@@ -1,6 +1,6 @@
 # Article 11
 
-L'étiquetage des fromages fondus comporte, outre les mentions prévues par le décret du 7 décembre 1984 susvisé, les indications suivantes :
+L'étiquetage des fromages fondus comporte, outre les mentions prévues par les articles R. 112-6 à R. 112-31 du code de la consommation susvisé, les indications suivantes :
 
 a) La dénomination "fromage fondu" peut être précédée de la mention "crème de ..." lorsque le fromage fondu renferme de 50 à moins de 60 grammes de matière grasse pour 100 grammes de produit après complète dessiccation.
 

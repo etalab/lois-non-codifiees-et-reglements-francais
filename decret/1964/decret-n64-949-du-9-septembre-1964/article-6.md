@@ -1,6 +1,6 @@
 # Article 6
 
-L'étiquetage des produits surgelés doit comporter les mentions prévues à l'article 5 du décret n° 84-1147 du 7 décembre 1984 portant application de la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires :
+L'étiquetage des produits surgelés doit comporter les mentions prévues à l'article R. 112-9 du code de la consommation portant application des articles L. 213-1 à L. 216-1, en ce qui concerne l'étiquetage et la présentation des denrées alimentaires :
 
 - lorsque les produits sont destinés à être livrés au consommateur final ou aux restaurants, hôpitaux, cantines et autres collectivités similaires, l'étiquetage doit, en outre, comporter l'indication que le produit ne doit pas être recongelé après une décongélation ;
 

@@ -1,6 +1,6 @@
 # Article 3
 
-Les rapporteurs auprès de la commission de la sécurité des consommateurs ainsi que les agents de l'Etat qui les assistent cités à l'article 7 du décret du 11 avril 1984 modifié peuvent être rémunérés, au titre des travaux qu'ils effectuent, au moyen d'indemnités de vacation.
+Les rapporteurs auprès de la commission de la sécurité des consommateurs ainsi que les agents de l'Etat qui les assistent cités à l'article R. 224-7 du code de la consommation peuvent être rémunérés, au titre des travaux qu'ils effectuent, au moyen d'indemnités de vacation.
 
 Pendant les séances au cours desquelles sont examinés leurs rapports, les membres de la commission sont rémunérés en tant que tels et non en tant que rapporteurs.
 

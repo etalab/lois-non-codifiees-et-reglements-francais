@@ -1,6 +1,6 @@
 # Article 7
 
-I. - Sans préjudice des mentions prévues par le décret du 7 décembre 1984 susvisé, l'étiquetage des denrées soumises aux dispositions du présent décret comporte les mentions obligatoires suivantes :
+I. - Sans préjudice des mentions prévues par les articles R. 112-6 à R. 112-31 du code de la consommation susvisé, l'étiquetage des denrées soumises aux dispositions du présent décret comporte les mentions obligatoires suivantes :
 
 - la marque communautaire de salubrité prévue par les arrêtés pris en application de l'article 260 susvisé du code rural ;
 
@@ -16,4 +16,4 @@ Toutefois, ces deux dernières mentions ne s'appliquent pas aux saucisses crues 
 
 II. - Lorsque des viandes congelées ont été utilisées pour la préparation de viandes hachées destinées à être réfrigérées dans les conditions autorisées par les arrêtés prévus par le décret du 21 juillet 1971 susvisé, l'étiquetage en comporte la mention.
 
-III. - Les mentions prévues au présent article doivent satisfaire aux prescriptions de l'article 4 du décret du 7 décembre 1984 susvisé.
+III. - Les mentions prévues au présent article doivent satisfaire aux prescriptions de l'article R. 112-8 du code de la consommation susvisé.

@@ -1,6 +1,6 @@
 # Article 5
 
-Outre les mentions prévues par le décret du 7 décembre 1984 susvisé, l'étiquetage des denrées mentionnées à l'article 1er doit comporter la dénomination du produit, immédiatement suivie des caractéristiques nutritionnelles particulières. Toutefois, dans le cas des produits destinés aux nourrissons ou enfants en bas âge en bonne santé, cette mention est remplacée par l'indication de leur destination.
+Outre les mentions prévues par les articles R. 112-6 à R. 112-31 du code de la consommation, l'étiquetage des denrées mentionnées à l'article 1er doit comporter la dénomination du produit, immédiatement suivie des caractéristiques nutritionnelles particulières. Toutefois, dans le cas des produits destinés aux nourrissons ou enfants en bas âge en bonne santé, cette mention est remplacée par l'indication de leur destination.
 
 Pour les produits ne figurant pas à l'annexe I, l'étiquetage doit indiquer en plus :
 

@@ -1,5 +1,0 @@
-# Article 7
-
-Tout propriétaire d'un bateau d'un tonnage égal ou supérieur à 20 tonnes, en service à la date du présent décret, est tenu d'adresser, par lettre recommandée, à l'ingénieur en chef, chargé du bureau d'immatriculation auquel est inscrit son bateau, en vertu du décret du 1er avril 1899, une demande en vue d'obtenir l'immatriculation prévue par la loi du 5 juillet 1917. Cette demande rappelle le numéro d'immatriculation ancien du bateau et contient toutes les indications énumérées à l'article 3 de ladite loi.
-
-Il est accordé pour l'envoi de cette demande un délai de six mois à partir de la date de cessation des hostilités, telle qu'elle sera fixée par décret. Durant ce délai, le certificat de jaugeage antérieurement délivré au bateau tiendra lieu de certificat d'immatriculation pour l'application du paragraphe 1er de l'article 6 de la loi du 5 juillet 1917, sans toutefois que ledit certificat de jaugeage puisse valoir pour l'accomplissement des formalités prévues au deuxième paragraphe de l'article 16 de la loi.

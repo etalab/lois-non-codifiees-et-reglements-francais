@@ -1,3 +1,0 @@
-# Article 1
-
-Les taux effectifs moyens qui ont été pratiqués au cours d'un trimestre civil par les établissements de crédit pour les catégories d'opérations de même nature comportant des risques analogues, telles que définies par l'arrêté prévu par l'article 1er de la loi du 28 décembre 1966 susvisée, sont calculés par la Banque de France. Le ministre chargé de l'économie et des finances fait procéder à la publication au Journal officiel de la République française de ces taux ainsi que des seuils de l'usure correspondant qui serviront de référence pour le trimestre suivant ; il procède, le cas échéant, aux corrections des taux observés, conformément aux dispositions du deuxième alinéa de l'article 2.

@@ -1,3 +1,9 @@
 # Article 1
 
-En vue de leur participation à l'alimentation du fonds commun des accidents du travail visé à l'article L. 437-1 du code de la sécurité sociale, les établissements ou les collectivités assumant pour l'ensemble de leur personnel la gestion totale du risque Accidents du travail sont tenus de verser une cotisation dont le taux correspond à 3,5 p. 100 du taux établi conformément aux dispositions des articles D. 242-6-1 à D. 242-6-12 du code de la sécurité sociale et qui serait applicable à leur personnel s'il relevait de l'organisation générale de la sécurité sociale pour les accidents du travail et les maladies professionnelles.
+Les ingrédients sont désignés sous leur nom spécifique, le cas échéant conformément aux dispositions prévues par l'article R. 112-14 du code de la consommation susvisé.
+
+Toutefois les ingrédients dont la liste des catégories est fixée en annexe I doivent être désignés sous le nom de leur catégorie, suivi soit de leur nom spécifique, soit de leur identification conventionnelle prescrite par la numérotation de la Communauté économique européenne.
+
+Les ingrédients dont la liste des catégories est fixée en annexe II peuvent être désignés sous le nom de leur catégorie au lieu de leur nom spécifique.
+
+Les arômes sont désignés conformément à l'annexe III.

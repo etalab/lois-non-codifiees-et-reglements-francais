@@ -2,7 +2,7 @@
 
 L'emballage ou le récipient qui contient un arôme destiné à être vendu au consommateur final doit comporter, outre les mentions prévues à l'article 13 ci-dessus :
 
-1° La date, indiquée selon les modalités prévues à l'article 17 du décret du 7 décembre 1984 susvisé, jusqu'à laquelle l'arôme conserve ses propriétés spécifiques. Cette mention est complétée, le cas échéant, par l'indication des conditions particulières de conservation et d'utilisation ;
+1° La date, indiquée selon les modalités prévues aux articles R. 112-22, R. 112-23, R. 112-24 du code de la consommation, jusqu'à laquelle l'arôme conserve ses propriétés spécifiques. Cette mention est complétée, le cas échéant, par l'indication des conditions particulières de conservation et d'utilisation ;
 
 2° Un mode d'emploi lorsque cette indication est nécessaire pour faire un usage approprié de l'arôme ;
 

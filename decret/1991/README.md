@@ -778,7 +778,6 @@
 - [Décret n°91-997 du 27 septembre 1991 (ENVP9161984D)](decret-n91-997-du-27-septembre-1991-envp9161984d)
 - [Décret n°92-324 du 27 mars 1992 (SPSG9200504D)](decret-n92-324-du-27-mars-1992-spsg9200504d)
 - [Décret n°92-356 du 27 mars 1992 (MENF9200726D)](decret-n92-356-du-27-mars-1992-menf9200726d)
-- [Décret n°80-473 du 28 juin 1980](decret-n80-473-du-28-juin-1980)
 - [Décret n°91-1117 du 28 octobre 1991 (BUDF9100028D)](decret-n91-1117-du-28-octobre-1991-budf9100028d)
 - [Décret n°91-1118 du 28 octobre 1991 (BUDF9100029D)](decret-n91-1118-du-28-octobre-1991-budf9100029d)
 - [Décret n°91-1119 du 28 octobre 1991 (BUDF9100027D)](decret-n91-1119-du-28-octobre-1991-budf9100027d)

@@ -1,9 +1,0 @@
-# Article 6
-
-1. Lorsque les denrées alimentaires préemballées sont destinées à être présentées au consommateur final, les mentions prévues à l'article 5 sont portées sur le préemballage ou sur une étiquette liée à celui-ci. Les mentions énumérées aux 1, 3, 4 et 9 dudit article sont regroupées dans le même champ visuel.
-
-Toutefois, pour les préemballages dont la face la plus grande a une surface inférieure à 10 centimètres carrés, ainsi que pour les bouteilles en verre destinées à être réutilisées, qui sont marquées de manière indélébile et qui, de ce fait, ne portent ni étiquette, ni bague, ni collerette, l'étiquetage peut ne comporter que les mentions prévues aux 1, 3 et 4 de l'article 5.
-
-2. Lorsque les denrées alimentaires préemballées sont commercialisées à un stade antérieur à la vente au consommateur final ou lorsqu'elles sont destinées à être livrées aux restaurants, hôpitaux, cantines et autres collectivités similaires, ci-après dénommés "collectivités", pour y être préparées, transformées, fractionnées ou débitées, les mentions prévues à l'article 5 peuvent ne figurer que sur les fiches, bons de livraison ou documents commerciaux lorsque ceux-ci accompagnent les denrées alimentaires auxquelles ils se rapportent ou lorsqu'ils ont été envoyés avant la livraison ou en même temps qu'elle. Ces documents doivent être détenus sur les lieux d'utilisation ou de stockage des denrées alimentaires auxquelles ils se réfèrent. Dans ce cas, les mentions prévues aux 1, 4 et 5 de l'article 5 sont portées en outre sur l'emballage extérieur dans lequel lesdites denrées sont présentées lors de la commercialisation.
-
-3. Dans les cas des ventes par correspondance, les catalogues, brochures, prospectus ou annonces faisant connaître au consommateur les produits offerts à la vente et lui permettant d'effectuer directement sa commande doivent comporter les mentions prévues aux 1, 2, 3, 6 et 8 de l'article 5.

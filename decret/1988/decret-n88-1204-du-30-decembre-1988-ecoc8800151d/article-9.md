@@ -1,6 +1,6 @@
 # Article 9
 
-La dénomination de vente des denrées définies au présent décret comporte, outre celles prévues par le décret du 7 décembre 1984 susvisé, les indications suivantes portées en caractères très apparents :
+La dénomination de vente des denrées définies au présent décret comporte, outre celles prévues par les articles R. 112-6 à R. 112-31 du code de la consommation susvisé, les indications suivantes portées en caractères très apparents :
 
 1. "Demi-salé" ou "demi-sel" lorsque la teneur en sel est supérieure à 0,5 gramme et au plus égale à 3 grammes pour 100 grammes de produit fini, et "salé" lorsqu'elle est supérieure à 3 grammes ;
 

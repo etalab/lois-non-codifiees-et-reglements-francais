@@ -2,7 +2,7 @@
 
 Etiquetage.
 
-Outre les mentions obligatoires prévues par le décret n° 84-1147 du 7 décembre 1984 modifié portant application de la loi du 1er août 1905 sur les fraudes et les falsifications en matière de produits ou de services en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, l'étiquetage des lentilles bénéficiant de l'appellation d'origine contrôlée Lentille verte du Puy comporte l'indication de :
+Outre les mentions obligatoires prévues par les articles R. 112-6 à R. 112-31 du code de la consommation portant application des articles L. 213-1 à L. 216-1 en ce qui concerne l'étiquetage et la présentation des denrées alimentaires, l'étiquetage des lentilles bénéficiant de l'appellation d'origine contrôlée Lentille verte du Puy comporte l'indication de :
 
 - la mention Lentille verte du Puy ;
 

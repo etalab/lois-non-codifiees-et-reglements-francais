@@ -12,9 +12,7 @@ Le produit fini est entreposé et transporté dans des conditions de nature à l
 
 6.2. Etiquetage du produit fini.
 
-L'étiquetage des plats préparés réfrigérés doit être conforme aux dispositions du décret général sur l'étiquetage n° 84-1147 du 7 décembre 1984 (Journal officiel du 21 décembre 1984), modifié par le décret n° 91-187 du 19 février 1991 (Journal officiel du 22 février 1991).
-
-La date limite de consommation (à consommer jusqu'au ...) est suivie de l'indication de la température de conservation à respecter. La détermination et l'indication de la DLC est réalisée sous la responsabilité du fabricant à partir de l'étude microbiologique et organoleptique initiale effectuée lors de la conception du produit par une personne ou un organisme compétent.
+L'étiquetage des plats préparés réfrigérés doit être conforme aux dispositions des articles R. 112-6 à R. 112-31 du code de la consommation.    La date limite de consommation (à consommer jusqu'au ...) est suivie de l'indication de la température de conservation à respecter. La détermination et l'indication de la DLC est réalisée sous la responsabilité du fabricant à partir de l'étude microbiologique et organoleptique initiale effectuée lors de la conception du produit par une personne ou un organisme compétent.
 
 La durée de vie dépend notamment du respect de la chaîne du froid après fabrication. Il revient au fabricant de mesurer l'incidence des fluctuations prévisibles de la chaîne du froid et d'en tenir compte dans la détermination de la DLC.
 

@@ -1,5 +1,0 @@
-# Article 28
-
-Toute personne qui, en vertu de l'article 110 du Code du domaine public fluvial et de la navigation intérieure, veut obtenir l'état des inscriptions hypothécaires existant sur un bateau ou un certificat constatant qu'il n'en existe aucune présente au greffier une réquisition écrite appuyée soit du certificat d'immatriculation du bateau, ou s'il s'agit du bateau en construction du récépissé de la déclaration visée à l'article 97 du Code du domaine public fluvial et de la navigation intérieure, soit de la copie du registre d'immatriculation prévu à l'article 82 dudit Code du domaine public fluvial et de la navigation intérieure.
-
-Il en est de même lorsque le greffier est requis de délivrer soit un état des inscriptions autres que celles visées à l'article 110 du Code du domaine public fluvial et de la navigation intérieure, soit un état des inscriptions de procès-verbaux de saisie effectuée en exécution de l'article 122 dudit Code du domaine public fluvial et de la navigation intérieure.

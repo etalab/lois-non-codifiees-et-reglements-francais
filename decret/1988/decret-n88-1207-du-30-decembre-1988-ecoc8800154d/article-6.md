@@ -1,6 +1,6 @@
 # Article 6
 
-L'étiquetage des vinaigres doit, outre les dispositions du décret du 7 décembre 1984 susvisé, répondre aux prescriptions suivantes :
+L'étiquetage des vinaigres doit, outre les dispositions des articles R. 112-6 à R. 112-31 du code de la consommation susvisé, répondre aux prescriptions suivantes :
 
 - les vinaigres fabriqués à partir d'une seule matière première portent la dénomination "vinaigre" complétée par l'indication du nom de la matière première mise en oeuvre ;
 

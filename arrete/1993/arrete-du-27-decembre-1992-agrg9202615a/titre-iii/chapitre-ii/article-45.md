@@ -8,7 +8,7 @@ Les contrôles d'hygiène, de conformité et de salubrité ont lieu à bord en t
 
 Les services vétérinaires mettent en place pour les navires-usines un système de contrôle et de surveillance analogue au système établi à terre pour les établissements de manipulation des produits de la pêche. Il est notamment vérifié que les conditions d'agrément sont toujours remplies : produits manipulés correctement, locaux, installations et instruments tenus propres, personnels respectueux de l'hygiène et documents sanitaires tenus à jour.
 
-Sans préjudice des dispositions du décret du 7 décembre 1984 modifié susvisé, une marque sanitaire comportant l'identification du navire-usine expéditeur de produits de la pêche est apposée :
+Sans préjudice des dispositions des articles R. 112-6 à R. 112-31 du code de la consommation susvisé, une marque sanitaire comportant l'identification d navire-usine expéditeur de produits de la pêche est apposée :
 
 - sur les emballages des produits issus du navire-usine concerné et sur les conditionnements destinés au consommateur final ;
 

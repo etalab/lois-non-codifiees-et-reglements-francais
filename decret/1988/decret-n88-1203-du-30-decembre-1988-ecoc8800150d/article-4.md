@@ -1,6 +1,6 @@
 # Article 4
 
-L'étiquetage des laits fermentés comporte, outre les mentions prévues par le décret du 7 décembre 1984 susvisé :
+L'étiquetage des laits fermentés comporte, outre les mentions prévues par les articles R. 112-6 à R. 112-31 du code de la consommation susvisé :
 
 - en complément de la dénomination de vente, l'indication de l'espèce animale ou des espèces animales dont le lait provient, dès lors qu'il ne s'agit pas de lait de vache ;
 

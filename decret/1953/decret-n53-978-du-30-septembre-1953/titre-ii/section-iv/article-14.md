@@ -1,6 +1,6 @@
 # Article 14
 
-Les boissons mentionnées au présent décret sont soumises aux dispositions du décret du 7 décembre 1984 susvisé.
+Les boissons mentionnées au présent décret sont soumises aux dispositions des articles R. 112-6 à R. 112-31 du code de la consommmation susvisé.
 
 Elles peuvent comporter dans leur étiquetage les mentions et qualificatifs énumérés ci-après :
 

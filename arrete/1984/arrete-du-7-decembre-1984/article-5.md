@@ -1,3 +1,3 @@
 # Article 5
 
-L'arrêté du 21 décembre 1982 fixant la cotisation due pour l'alimentation du fonds commun par les établissements ou collectivités gérant la totalité du risque Accidents du travail est abrogé.
+La mention [*obligatoire*] prescrite par l'article R. 112-17 du code de la consommation susvisé doit être indiquée soit à proximité immédiate de la dénomination de vente, soit dans la liste des ingrédients.

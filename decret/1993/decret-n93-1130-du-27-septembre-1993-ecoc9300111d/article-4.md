@@ -10,7 +10,7 @@ I. Allégation nutritionnelle : toute représentation et tout message publicitai
 
 La mention qualitative ou quantitative d'un nutriment ne constitue pas une allégation nutritionnelle dans la mesure où elle est prescrite par une disposition législative ou réglementaire.
 
-II. Etiquetage relatif aux qualités nutritionnelles : toute information apparaissant sur l'étiquette au sens du décret du 7 décembre 1984 précité et relative :
+II. Etiquetage relatif aux qualités nutritionnelles : toute information apparaissant sur l'étiquette au sens des articles R. 112-6 à R. 112-31 du code de la consommation précité et relative :
 
 1. A la valeur énergétique ;
 

@@ -1,6 +1,6 @@
 # Article 10
 
-Nonobstant les dispositions du 2 de l'article 6 du décret du 7 décembre 1984 susvisé concernant l'étiquetage et la présentation des denrées alimentaires, les produits définis à l'annexe, non destinés au consommateur final, doivent comporter sur les emballages, récipients ou étiquettes les mentions suivantes qui doivent être rédigées en langue française, être visibles, lisibles et indélébiles :
+Nonobstant les dispositions des articles R. 112-10, R. 112-11 et R. 112-12 du code de la consommation susvisé, les produits définis à l'annexe, non destinés au consommateur final, doivent comporter sur les emballages, récipients ou étiquettes les mentions suivantes qui doivent être rédigées en langue française, être visibles, lisibles et indélébiles :
 
 a) La dénomination réservée au produit contenu dans le récipient ou l'emballage conformément au présent décret et à son annexe ;
 

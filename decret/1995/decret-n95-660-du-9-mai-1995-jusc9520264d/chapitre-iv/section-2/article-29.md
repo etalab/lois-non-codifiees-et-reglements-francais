@@ -1,5 +1,0 @@
-# Article 29
-
-L'appel aux créanciers prévu au troisième alinéa de l'article L. 332-2 du code de la consommation est publié par le secrétariat-greffe du juge de l'exécution selon les formes prévues à l'article 11 ci-dessus.
-
-A défaut d'accord entre les parties, le juge de l'exécution désigne, par une décision insusceptible d'appel, la ou les parties qui supporteront les frais de l'appel aux créanciers.

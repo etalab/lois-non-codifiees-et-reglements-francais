@@ -1,6 +1,6 @@
 # Article 9
 
-L'étiquetage des fromages autres que ceux énumérés aux articles 4 et 5 comporte, outre les mentions prévues par le décret du 7 décembre 1984 susvisé, les indications suivantes :
+L'étiquetage des fromages autres que ceux énumérés aux articles 4 et 5 comporte, outre les mentions prévues par les articles R. 112-6 à R. 112-31 du code de la consommation susvisé, les indications suivantes :
 
 a) La dénomination de vente est complétée par :
 

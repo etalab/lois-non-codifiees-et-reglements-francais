@@ -4,5 +4,4 @@
 - [Titre III : Commissaires du Gouvernement.](titre-iii)
 - [Titre IV : Conditions de désignation des commissaires aux comptes.](titre-iv)
 - [Titre V : Agents des marchés interbancaires.](titre-v)
-- [Titre VI : Dispositions diverses.](titre-vi)
 - [Article 41](article-41.md)

@@ -1,5 +1,7 @@
 # Article 3
 
-Les maîtres et maîtresses d'internat doivent être pourvus du baccalauréat ou d'un des titres ou diplômes admis comme équivalents en vue de l'acquisition d'une licence d'enseignement. A titre transitoire, jusqu'au 31 décembre 1938, pourront également être nommées des candidates pourvues du diplôme complémentaire d'études secondaires.
+Il doit être indiqué sur l'étiquetage si le produit est réservé à certaines catégories d'utilisateurs selon les modalités déterminées par arrêté interministériel.
 
-Les maîtres et maîtresses d'internat sont nommés par le recteur et exercent d'abord en qualité d'intérimaires.
+Il est interdit de faire figurer sur les contenants ou emballages des produits mentionnés à l'article 1er des indications telles que "non toxique", "ne nuit pas à la santé" ou toute indication similaire.
+
+Toutefois, l'étiquetage peut comporter des informations indiquant que le produit peut être utilisé pendant la période d'activité des abeilles ou d'autres espèces non ciblées ou pendant la floraison des cultures ou de mauvaises herbes, ou des indications relatives à la protection des abeilles ou d'autres organismes désignés, lorsque l'autorisation porte sur ces emplois et qu'elle expose ces espèces à un risque minimal.

@@ -4,7 +4,7 @@
 
 Pour certains de ces produits, et à l'exclusion des denrées pour lesquelles la température de conservation est définie par des réglementations spécifiques, cette température est fixée en annexe du présent arrêté.
 
-2. Toutefois, et pour autant que la sécurité alimentaire soit assurée, il est admis de soustraire les produits à ces températures ou, le cas échéant, à la température inscrite sur leur emballage sous la responsabilité du conditionneur, conformément aux dispositions du décret du 7 décembre 1984 susvisé :
+2. Toutefois, et pour autant que la sécurité alimentaire soit assurée, il est admis de soustraire les produits à ces températures ou, le cas échéant, à la température inscrite sur leur emballage sous la responsabilité du conditionneur, conformément aux dispositions des articles R. 112-6 à R. 112-31 du code de la consommation :
 
 a) Pour les produits réfrigérés :
 
@@ -16,7 +16,7 @@ A titre transitoire pour une durée de cinq ans à compter de la publication du 
 
 b) Pour les aliments congelés et surgelés ainsi que pour les glaces, crèmes glacées et sorbets :
 
-i) Dans la mesure où la différence de température n'excède pas 3 °C, lorsque cela s'avère nécessaire, pour de brèves périodes, lors du chargement-déchargement de ces produits aux interfaces entre l'élaboration, le transport, le stockage et l'exposition des aliments et lors de leur présentation à la vente ;
+i) Dans la mesure où la différence de température n'excède pas 3° C, lorsque cela s'avère nécessaire, pour de brèves périodes, lors du chargement-déchargement de ces produits aux interfaces entre l'élaboration, le transport, le stockage et l'exposition des aliments et lors de leur présentation à la vente ;
 
 ii) Lors de l'exposition des glaces et crèmes glacées pour leur consommation immédiate dans la mesure où leur approvisionnement s'effectue en quantités adaptées aux besoins du service.
 

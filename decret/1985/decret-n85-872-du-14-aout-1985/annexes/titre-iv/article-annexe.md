@@ -1,6 +1,6 @@
 # Article Annexe
 
-L'application du décret n° 84-1147 du 7 décembre 1984 relatif à l'étiquetage et à la présentation des denrées alimentaires fait l'objet des dispositions complémentaires ci-après :
+L'application des articles R. 112-6 à R. 112-31 du code de la consommation relatifs à l'étiquetage et à la présentation des denrées alimentaires fait l'objet des dispositions complémentaires ci-après :
 
 1. La dénomination de vente qui leur est réservée en vertu du titre Ier de l'annexe doit être complétée par :
 

@@ -1,3 +1,0 @@
-# Article 3
-
-Une commission générale d'unification des méthodes d'analyse dont les membres sont nommés par arrêté pris de concert entre le ministre de l'agriculture, le garde des sceaux, ministre de la justice, le ministre de l'économie et des finances, le ministre du développement industriel et scientifique, le ministre de la santé publique et de la sécurité sociale et le ministre chargé de la marine marchande est instituée près le ministre de l'agriculture et est obligatoirement consultée sur la fixation des méthodes d'analyse à imposer aux laboratoires chargés de concourir à l'application de la réglementation relative à la répression des fraudes ainsi que sur la détermination des conditions matérielles des prélèvements.

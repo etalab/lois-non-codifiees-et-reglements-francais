@@ -1,6 +1,6 @@
 # Article 8
 
-Outre les mentions prévues par les dispositions du décret du 7 décembre 1984 susvisé relatif à l'étiquetage et à la présentation des denrées alimentaires, l'étiquetage des produits définis à l'annexe qui sont destinés à être livrés en l'état au consommateur final doit comporter les indications suivantes :
+Outre les mentions prévues par les dispositions des articles R112-6 à R112-31 du code de la consommation pris en application des articles L213-1 à L216-1 dudit code, l'étiquetage des produits définis à l'annexe qui sont destinés à être livrés en l'état au consommateur final doit comporter les indications suivantes :
 
 a) La dénomination réservée au produit contenu dans le récipient ou l'emballage, conformément au présent décret et à son annexe ;
 
