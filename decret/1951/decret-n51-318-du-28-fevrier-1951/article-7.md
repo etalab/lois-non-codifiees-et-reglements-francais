@@ -1,0 +1,3 @@
+# Article 7
+
+Les personnes visées à l'article 1er du présent décret, titulaires d'une pension d'invalidité des assurances sociales ou d'une rente allouée au titre de la législation sur les accidents du travail correspondant à une incapacité au moins égale à 66 2/3 p. 100 qui sont bénéficiaires des assurances sociales à ce titre, reçoivent les prestations en nature des assurances maladie et maternité auxquelles elles peuvent éventuellement prétendre au titre du régime dont elles relèvent en tant que pensionnées ou rentières et les prestations en nature de l'assurance longue maladie au titre de la loi du 29 juillet 1950.
