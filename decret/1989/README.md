@@ -65,7 +65,6 @@
 - [Décret n°89-623 du 6 septembre 1989 (ECOT8920101D)](decret-n89-623-du-6-septembre-1989-ecot8920101d)
 - [Décret n°89-624 du 6 septembre 1989 (ECOT8920102D)](decret-n89-624-du-6-septembre-1989-ecot8920102d)
 - [Décret n°89-637 du 6 septembre 1989 (INDH8900624D)](decret-n89-637-du-6-septembre-1989-indh8900624d)
-- [Décret n°89-646 du 6 septembre 1989 (PRMP8900109D)](decret-n89-646-du-6-septembre-1989-prmp8900109d)
 - [Décret n°89-76 du 6 février 1989 (INDA8800726D)](decret-n89-76-du-6-fevrier-1989-inda8800726d)
 - [Décret n°89-881 du 6 décembre 1989 (PRMX8900165D)](decret-n89-881-du-6-decembre-1989-prmx8900165d)
 - [Décret n°89-9 du 6 janvier 1989 (SPSS8801762D)](decret-n89-9-du-6-janvier-1989-spss8801762d)

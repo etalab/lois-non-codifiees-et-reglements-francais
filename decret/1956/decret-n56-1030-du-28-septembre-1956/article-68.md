@@ -1,3 +1,0 @@
-# Article 68
-
-Le ministre des affaires sociales, le ministre de l'intérieur, le ministre des affaires économiques et financières, le ministre d'Etat, chargé de l'éducation nationale, le ministre d'Etat, garde des sceaux, chargé de la justice, le ministre de la défense nationale et des forces armées, le ministre des anciens combattants et victimes de guerre, le secrétaire d'Etat à l'agriculture, le secrétaire d'Etat à la santé publique et à la population, le secrétaire d'Etat au travail et à la sécurité sociale et le secrétaire d'Etat au budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

@@ -7,7 +7,6 @@
 - [Décret n°2001-401 du 2 mai 2001 (RECF0100080D)](decret-n2001-401-du-2-mai-2001-recf0100080d)
 - [Décret n°2002-828 du 3 mai 2002 (MENF0200402D)](decret-n2002-828-du-3-mai-2002-menf0200402d)
 - [Décret n°2000-1178 du 4 décembre 2000 (DEFD0002365D)](decret-n2000-1178-du-4-decembre-2000-defd0002365d)
-- [Décret n°2000-6 du 4 janvier 2000 (MESA9923626D)](decret-n2000-6-du-4-janvier-2000-mesa9923626d)
 - [Décret n°2000-200 du 6 mars 2000 (MAEF9910042D)](decret-n2000-200-du-6-mars-2000-maef9910042d)
 - [Décret n°2000-302 du 7 avril 2000 (PRMX0000055D)](decret-n2000-302-du-7-avril-2000-prmx0000055d)
 - [Décret n°2000-874 du 7 septembre 2000 (ECOI0000361D)](decret-n2000-874-du-7-septembre-2000-ecoi0000361d)
@@ -57,5 +56,4 @@
 - [Décret n°2000-286 du 30 mars 2000 (EQUX0000059D)](decret-n2000-286-du-30-mars-2000-equx0000059d)
 - [Décret n°99-1228 du 30 décembre 1999 (DEFP9902155D)](decret-n99-1228-du-30-decembre-1999-defp9902155d)
 - [Décret n° 2000-84 du 31 janvier 2000 (MESC0010122D)](decret-n-2000-84-du-31-janvier-2000-mesc0010122d)
-- [Décret n°99-1230 du 31 décembre 1999 (MESA9923315D)](decret-n99-1230-du-31-decembre-1999-mesa9923315d)
 - [Décret n°2000-481 du 31 mai 2000 (MENF0000923D)](decret-n2000-481-du-31-mai-2000-menf0000923d)
