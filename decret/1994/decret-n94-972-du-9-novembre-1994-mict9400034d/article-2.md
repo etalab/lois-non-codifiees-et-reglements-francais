@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'application de l'article 1er, sont considérés comme des programmes d'intérêt local, dès lors qu'ils sont diffusés sur une zone dont la population est inférieure à six millions d'habitants et qu'ils sont réalisés localement par des personnels ou des services locaux directement rémunérés par le titulaire de l'autorisation, les émissions d'information locale, les émissions de services de proximité, les émissions consacrées à l'expression ou à la vie locale, les fictions radiophoniques et les émissions musicales dont la composition ou l'animation ont un caractère local, ainsi que tous les programmes produits et diffusés localement par l'exploitant dans un but éducatif ou culturel.
