@@ -1,0 +1,5 @@
+# Article 9 ter
+
+I. - Le supercarburant plombé peut être utilisé dans les départements d'outre-mer dans les conditions définies par l'arrêté du 26 juillet 2000 modifiant les arrêtés du 23 décembre 1999 relatifs aux caractéristiques du supercarburant, du supercarburant sans plomb, du gazole et du gazole grand froid pour les départements d'outre-mer.
+
+II. - Le directeur général des douanes et des droits indirects et le directeur des matières premières et des hydrocarbures peuvent autoriser conjointement, sur la demande des intéressés, la commercialisation et l'utilisation à la carburation de petites quantités d'essences plombées destinées à être utilisées par des véhicules de collection d'un type caractéristique et à être distribuées par des groupes d'intérêt commun. Il est fait application dans ce cas du 3 de l'article 265 du code des douanes. Le volume total ainsi autorisé ne peut porter sur un volume annuel supérieur à 0,5 % du volume total d'essences automobiles mis à la consommation l'année précédente. Les autorisations déterminent les conditions de distribution et d'utilisation de ces carburants.
