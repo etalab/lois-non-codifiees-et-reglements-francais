@@ -1,0 +1,3 @@
+# Article 9
+
+Sont abrogés le décret n° 52-1378 du 22 décembre 1952 modifié relatif à la fixation des règles de classement du personnel nommé dans les corps enseignants ou ou scientifiques des établissements publics à caractère scientifique et culturel et de certains grands établissements d'enseignement supérieur ou scientifique, l'article 1er du décret n° 59-1401 du 9 décembre 1959 intéressant la nomination des chercheurs du Centre national de la recherche scientifique, dans les cadres de l'enseignement public, et l'article 2 du décret n° 67-955 du 24 octobre 1967 relatif aux conditions d'avancement des professeurs du Collège de France.

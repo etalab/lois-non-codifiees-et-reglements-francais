@@ -6,4 +6,4 @@ Les mères de famille qui désirent occuper un emploi exigeant une qualification
 
 Les handicapés à la recherche d'un premier emploi qui suivent un stage dans un centre de rééducation ou dans un centre de formation agréé à cet effet.
 
-Ils perçoivent une rémunération égale à 3.555,90 F [*90 p. 100 du SMIC avant le décret 231 - montant*] par mois.
+Ils perçoivent une rémunération égale à 3.739,50 F par mois.
