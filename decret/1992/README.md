@@ -325,6 +325,7 @@
 - [Décret n°88-329 du 8 avril 1988 (AGRB8800484D)](decret-n88-329-du-8-avril-1988-agrb8800484d)
 - [Décret n°92-1132 du 8 octobre 1992 (SPSA9202349D)](decret-n92-1132-du-8-octobre-1992-spsa9202349d)
 - [Décret n°92-1274 du 8 décembre 1992 (COMA9200010D)](decret-n92-1274-du-8-decembre-1992-coma9200010d)
+- [Décret n°92-1276 du 8 décembre 1992 (EQUT9201468D)](decret-n92-1276-du-8-decembre-1992-equt9201468d)
 - [Décret n°92-23 du 8 janvier 1992 (TEFF9104195D)](decret-n92-23-du-8-janvier-1992-teff9104195d)
 - [Décret n°92-38 du 8 janvier 1992 (JUSC9121025D)](decret-n92-38-du-8-janvier-1992-jusc9121025d)
 - [Décret n°92-631 du 8 juillet 1992 (ECOC9200059D)](decret-n92-631-du-8-juillet-1992-ecoc9200059d)
