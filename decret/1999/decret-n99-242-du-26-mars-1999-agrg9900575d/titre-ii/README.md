@@ -1,3 +1,0 @@
-# TITRE II : DISPOSITIONS RELATIVES AU PERSONNEL.
-
-- [Article 4](article-4.md)
