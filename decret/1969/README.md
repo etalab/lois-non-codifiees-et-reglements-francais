@@ -39,6 +39,7 @@
 - [Décret n°68-1163 du 16 décembre 1968](decret-n68-1163-du-16-decembre-1968)
 - [Décret n°69-945 du 16 octobre 1969](decret-n69-945-du-16-octobre-1969)
 - [Décret n° 70-138 du 17 février 1970](decret-n-70-138-du-17-fevrier-1970)
+- [Décret n°69-857 du 17 septembre 1969](decret-n69-857-du-17-septembre-1969)
 - [Décret n°69-260 du 18 mars 1969](decret-n69-260-du-18-mars-1969)
 - [Décret n°69-380 du 18 avril 1969](decret-n69-380-du-18-avril-1969)
 - [Décret n°69-697 du 18 juin 1969](decret-n69-697-du-18-juin-1969)

@@ -1,0 +1,5 @@
+# Article 6
+
+Seuls peuvent être mis en vente les oeufs en coquille, liquides, congelés ou desséchés qui ont été collectés et traités dans les conditions ci-dessus prévues.
+
+Echappent cependant à cette réglementation les oeufs vendus directement par le producteur au consommateur si les livraisons portent habituellement sur des quantités égales ou inférieures à 60 oeufs par jour et les oeufs apportés par le producteur sur le marché de production en vue de leur vente à un collecteur. Les oeufs collectés soit à la ferme soit sur les marchés de production pour être transportés ou détenus en vue de leur conditionnement, de leur mise en conserve ou de leur utilisation directe pour les industries alimentaires doivent être placés dans des emballages portant en caractères indélébiles très apparents la mention "Oeufs non classés" ainsi que les nom et adresse du conditionneur, du conserveur ou de l'utilisateur industriel, ou bien une indication conventionnelle fixée en accord avec les services de contrôle.
