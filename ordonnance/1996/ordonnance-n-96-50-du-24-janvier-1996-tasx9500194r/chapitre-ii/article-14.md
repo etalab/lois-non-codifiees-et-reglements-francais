@@ -8,14 +8,10 @@ II. - Lorsqu'ils n'entrent pas dans le champ d'application du I, sont également
 
 7° L'aide personnalisée au logement visée par les articles L. 351-1 à L. 351-14 du code de la construction et de l'habitation ainsi que l'allocation de logement social prévue par l'article L. 831-1 du code de la sécurité sociale ;
 
-8° Les prestations [*familiales*] visées à l'article L. 511-1 et au chapitre V du titre V du livre VII du code de la sécurité sociale, à l'exception de l'allocation de parent isolé et de l'allocation d'éducation spéciale ;
+8° Les prestations [*familiales*] visées à l'article L. 511-1 et au chapitre V du titre V du livre VII du code de la sécurité sociale, à l'exception de l'allocation de parent isolé et de l'allocation d'éducation spéciale.
 
-9° La majoration visée au II de l'article L. 841-1 du code de la sécurité sociale, y compris lorsqu'elle est versée en application des dispositions de l'article L. 757-4.
-
-III. - La contribution due sur les prestations visées aux 6°, 7°, 8° et 9° du II est précomptée par l'organisme débiteur dans les conditions prévues aux articles L. 243-2 du code de la sécurité sociale et 1031 du code rural.
+III. - La contribution due sur les prestations visées aux 6°, 7° et 8° du II est précomptée par l'organisme débiteur dans les conditions prévues aux articles L. 243-2 du code de la sécurité sociale et 1031 du code rural.
 
 La contribution prévue au I est recouvrée et contrôlée dans les conditions et sous les garanties et sanctions visées à l'article L. 136-5 du code de la sécurité sociale.
 
-IV. - Les prestations visées aux 8° et 9° du II, à l'exception de l'allocation logement mentionnée aux articles L. 542-1 et L. 755-21 du code de la sécurité sociale, ne sont assujetties à la contribution qu'à compter du 1er janvier 1997.
-
-Nota : Les dispositions du I sont applicables aux pensions ou allocations versées à compter du 1er janvier 2001.
+IV. - Les prestations visées au 8° du II, à l'exception de l'allocation logement mentionnée aux articles L. 542-1 et L. 755-21 du code de la sécurité sociale, ne sont assujetties à la contribution qu'à compter du 1er janvier 1997.
