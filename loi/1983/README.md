@@ -7,6 +7,7 @@
 - [Loi n° 83-1 du 3 janvier 1983](loi-n-83-1-du-3-janvier-1983)
 - [Loi n° 83-1119 du 23 décembre 1983](loi-n-83-1119-du-23-decembre-1983)
 - [Loi n° 83-466 du 10 juin 1983](loi-n-83-466-du-10-juin-1983)
+- [Loi n° 83-550 du 30 juin 1983](loi-n-83-550-du-30-juin-1983)
 - [Loi n° 83-582 du 5 juillet 1983](loi-n-83-582-du-5-juillet-1983)
 - [Loi n° 83-597 du 7 juillet 1983](loi-n-83-597-du-7-juillet-1983)
 - [Loi n° 83-607 du 8 juillet 1983](loi-n-83-607-du-8-juillet-1983)
