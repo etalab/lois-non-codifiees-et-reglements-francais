@@ -1,0 +1,13 @@
+# Article 1
+
+Le prélèvement des échantillons en vue de la détermination de l'empoussiérage dans les travaux souterrains des mines et des carrières est réalisé par l'une des méthodes suivantes :
+
+- échantillonnage individuel : l'appareil échantillonneur est porté par la personne concernée ou situé à moins d'un mètre de celle-ci pendant la durée du mesurage ;
+
+- échantillonnage de fonction : un seul échantillonnage individuel est effectué pour l'ensemble des fonctions de travail dont les activités sont les mêmes et se déroulent sensiblement dans les mêmes lieux et selon le même cycle ;
+
+- échantillonnage de groupe : un seul échantillonnage individuel est effectué pour la fonction de travail exposant le plus aux poussières alvéolaires siliceuses, située dans une partie de l'exploitation qui contient une activité caractéristique de production de poussières ; la fonction de travail la plus exposée est déterminée par une étude ; les activités caractéristiques de production de poussières sont notamment les chantiers et les installations de traitement ou de transport ou de stockage des produits extraits ; cette méthode peut être étendue à toute l'exploitation si celle-ci ne contient que des empoussiérages des classes A et B ;
+
+- échantillonnage en des points fixes : l'échantillon est prélevé par un ou plusieurs appareils disposés en un ou plusieurs points fixes dont l'emplacement dépend des circonstances locales mais doit être choisi pour que l'empoussiérage en ces points, dénommé empoussiérage caractéristique, soit en étroite relation avec celui des fonctions de travail d'un chantier ou d'une partie de l'exploitation ; cet échantillonnage est complété par une étude destinée à déterminer les écarts entre l'empoussiérage caractéristique et l'empoussiérage effectif attaché à chaque fonction de travail ; le classement des empoussiérages est établi en tenant compte de l'empoussiérage caractéristique et des écarts définis ci-dessus.
+
+Les études nécessaires, tant dans le cas de l'échantillonnage de groupe que dans celui de l'échantillonnage en des points fixes, sont renouvelées à un intervalle de temps au plus égal à quatre ans pour les fonctions de travail dont l'empoussiérage est en classe A ou B, deux ans pour ceux dont l'empoussiérage est en classe C et un an pour ceux dont l'empoussiérage est en classe D. Elles sont portées à la connaissance du directeur régional de l'industrie, de la recherche et de l'environnement. Celui-ci peut exiger qu'elles soient confiées à un service ou un organisme spécialisé désigné par lui. Il peut autoriser une augmentation de l'intervalle fixé ci-dessus si les résultats constatés sont sensiblement constants.

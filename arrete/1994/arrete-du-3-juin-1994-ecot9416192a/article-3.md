@@ -1,7 +1,11 @@
 # Article 3
 
-Les émissions des deux pièces définies par le présent arrêté seront limitées :
+Les émissions des pièces définies par le présent arrêté seront limitées à :
 
-pour les pièces de 500 F en or Epreuve, à 5 000 exemplaires ;
+Chacune des deux pièces de 500 F en or : 5 000 exemplaires, soit 10 000 exemplaires ;
 
-pour les pièces de 100 F en argent Epreuve, à 20 000 exemplaires.    Ces pièces ont cours légal.
+Chacune des quatre pièces de 100 F en or : 5 000 exemplaires, soit 20 000 exemplaires ;
+
+Chacune des six pièces de 100 F en argent : 20 000 exemplaires, soit 120 000 exemplaires.
+
+Ces pièces ont cours légal.
