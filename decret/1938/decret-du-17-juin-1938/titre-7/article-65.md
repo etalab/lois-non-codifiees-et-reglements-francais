@@ -1,17 +1,7 @@
 # Article 65
 
-La caisse verse une allocation de cessation anticipée d'activité aux marins et anciens marins, sous réserve qu'ils cessent toute activité professionnelle, lorsqu'ils remplissent les conditions suivantes :
+Les sociétés mutuelles constituées entre patrons pour s'assurer contre tout ou partie des charges prévues par les dispositions des articles 79 à 86 de la loi du 13 décembre 1926 pourront être autorisées par le ministre chargé de la marine marchande et dans les conditions qui seront fixées par décret, à continuer le service de cette assurance s'il est établi, après enquête, que leur situation financière permet de faire face à leurs obligations.
 
-1° Exercer ou avoir exercé :
+Les caisses de retraites et de secours des stations de pilotage, prévues par l'article 24 de la loi du 28 mars 1928 pourront, dans les mêmes conditions, être habilitées à assurer elles-mêmes les pilotes et aspirants pilotes, ainsi que les marins à leur service contre les risques prévus par le présent décret.
 
-a) Des fonctions à la machine à bord de navires comportant des équipements contenant de l'amiante ; pour l'application de cette disposition, et sauf preuve contraire, sont considérés comme ayant comporté des équipements de ce type les navires construits avant les dates définies dans le tableau figurant en annexe au décret n° 98-332 du 29 avril 1998 relatif à la prévention des risques dus à l'amiante à bord des navires ;
-
-b) Ou toutes fonctions à bord de navires ayant transporté de l'amiante au cours d'une période déterminée ; la liste des périodes considérées et celle des navires concernés sont fixées par arrêté du ministre chargé de la marine marchande ;
-
-2° Etre âgé d'au moins cinquante ans.
-
-Le montant de cette allocation est égal à 65 % du salaire forfaitaire, mentionné à l'article 7, de la catégorie dans laquelle le marin était classé durant la dernière année d'affiliation au régime des marins précédant sa demande. Lorsqu'un marin a été classé dans des catégories différentes au cours de cette dernière année, le salaire forfaitaire pris en compte pour le calcul de l'allocation est celui de la catégorie dans laquelle il a été le plus longtemps classé.
-
-L'âge d'entrée en jouissance de cette allocation est l'âge de soixante ans, diminué du tiers de la période passée dans les fonctions mentionnées au 1°. Pour la détermination de cette période, il est tenu compte, le cas échéant, de la durée de travail effectuée dans les autres activités professionnelles mentionnées au I de l'article 41 de la loi n° 98-1194 du 23 décembre 1998 de financement de la sécurité sociale pour 1999.
-
-L'allocation cesse d'être versée lorsque le bénéficiaire remplit les conditions pour pouvoir bénéficier d'une pension proportionnelle ou d'une pension spéciale sur la caisse de retraite des marins, telles qu'elles sont définies respectivement aux articles L. 5 et L. 8 du code des pensions de retraite des marins.
+La caisse générale de prévoyance des marins contre les risques d'accident, de maladie et d'invalidité est autorisée à passer des conventions avec les entreprises d'armement maritime ayant organisé ou qui organiseront individuellement ou collectivement un service médical à terre, en vue du remboursement, dans les conditions du présent décret des soins donnés aux marins et à leurs familles par ledit service médical.
