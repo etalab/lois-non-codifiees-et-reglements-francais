@@ -2,10 +2,13 @@
 
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4 Bis](article-4-bis.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
+- [Article 7 Bis](article-7-bis.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
+- [Article 12 Bis](article-12-bis.md)
 - [Article 13](article-13.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
