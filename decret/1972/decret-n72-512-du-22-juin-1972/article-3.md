@@ -10,4 +10,4 @@ De deux mois pour ceux qui ont plus de deux ans de services.
 
 Toutefois, ce délai de deux mois est porté à 3 mois pour les agents contractuels recrutés antérieurement au 29 juin 1971.
 
-Le préavis ne s'applique pas aux cas prévus aux articles 5, 11 et 13 du décret susvisé du 21 juillet 1976.
+Le préavis ne s'applique pas aux cas prévus aux articles 5, 11, 13 et 15 du décret susvisé du 21 juillet 1976.
