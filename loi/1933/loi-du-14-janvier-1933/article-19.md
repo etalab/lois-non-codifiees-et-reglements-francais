@@ -1,3 +1,0 @@
-# Article 19
-
-Si la santé des assistés est mise en péril par le régime de la maison ou par l'insalubrité des locaux, s'il se produit des faits d'immoralité, des sévices ou des mauvais traitements envers les assistés, si les règles prescrites, soit pour l'enseignement professionnel et primaire, soit pour les prélèvements à opérer en vertu des articles 7 et 9 ou pour leur emploi ne sont pas observés, si le directeur refuse de se soumettre aux visites prévues à l'article 18, le préfet, sur le rapport du service de l'inspection, lui adresse telles injonctions qu'il croit utiles et lui impartit un délai pour remédier aux inconvénients ou abus signalés.

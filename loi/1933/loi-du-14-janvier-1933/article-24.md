@@ -1,3 +1,0 @@
-# Article 24
-
-Les particuliers ou associations qui, sans posséder d'établissements proprement dit placent habituellement des mineurs dans des établissements industriels ou dans des familles où ils reçoivent le logement et la nourriture, sont tenus d'en faire la déclaration à la mairie dans la forme prévue à l'article 2 ; ils doivent se conformer aux prescriptions des articles 6 et 28 et sont soumis à la surveillance prévue par la présente loi ; ils doivent, en outre, déclarer au préfet du département de placement, les nom et domicile de la personne à laquelle le mineur est confié. Le préfet envoie copie de la déclaration au maire de la commune intéressée.
