@@ -1,688 +1,396 @@
 # Article ANNEXE I
 
-RÉGIONS ET DÉPARTEMENTS
+RÉGION : Alsace
 
-Alsace
+DÉPARTEMENT : Rhin (Bas-)
 
-Rhin (Bas-)
+ARRONDISSEMENT : Haguenau
 
-ARRONDISSEMENTS
+CANTONS   ET   COMMUNES : En totalité.
 
-Haguenau
+ARRONDISSEMENT : Molsheim
 
-CANTONS   ET   COMMUNES
+CANTONS   ET   COMMUNES : Saales, Schirmeck.
 
-En totalité.
+ARRONDISSEMENT : Saverne
 
-ARRONDISSEMENTS
+CANTONS   ET   COMMUNES : En totalité.
 
-Molsheim
+ARRONDISSEMENT : Sélestat-Erstein
 
-CANTONS   ET   COMMUNES
-
-Saales, Schirmeck.
-
-ARRONDISSEMENTS
-
-Saverne
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Sélestat-Erstein
-
-CANTONS   ET   COMMUNES
+CANTONS   ET   COMMUNES :
 
 Sélestat, Marckolsheim (communes d'Artolsheim, Bootzheim, Mackenheim, Marckolsheim, Schoenau), Villé.
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Wissembourg
 
-Wissembourg
+CANTONS   ET   COMMUNES : En totalité.
 
-CANTONS   ET   COMMUNES
+DÉPARTEMENT : Rhin (Haut-)
 
-En totalité.
+ARRONDISSEMENT : Altkirch
 
-RÉGIONS ET DÉPARTEMENTS
+CANTONS   ET   COMMUNES : En totalité.
 
-Alsace
+ARRONDISSEMENT : Colmar
 
-Rhin (Haut-)
+CANTONS   ET   COMMUNES : Munster.
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Guebwiller
 
-Altkirch
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Colmar
-
-CANTONS   ET   COMMUNES
-
-Munster.
-
-ARRONDISSEMENTS
-
-Guebwiller
-
-CANTONS   ET   COMMUNES
+CANTONS   ET   COMMUNES :
 
 Ensisheim, Guebwiller, Soultz-Haut-Rhin.
 
-ARRONDISSEMENTS
-
-Mulhouse
+ARRONDISSEMENT : Mulhouse
 
 CANTONS   ET   COMMUNES
 
 Habsheim, Illzach, Wittenheim.
 
-ARRONDISSEMENTS
-
-Ribeauvillé
+ARRONDISSEMENT : Ribeauvillé
 
 CANTONS   ET   COMMUNES
 
 Lapoutroie, Sainte-Marie-aux-Mines.
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Thann
 
-Thann
+CANTONS   ET   COMMUNES : En totalité.
 
-CANTONS   ET   COMMUNES
+RÉGION : Aquitaine
 
-En totalité.
+DÉPARTEMENT : Dordogne
 
-RÉGIONS ET DÉPARTEMENTS
+ARRONDISSEMENTS : En totalité.
 
-Aquitaine
+DÉPARTEMENT : Gironde
 
-Dordogne
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Landes
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Gironde
+DÉPARTEMENT : Lot-et-Garonne
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Pyrénées-Atlantiques
 
-Landes
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+RÉGION : Auvergne
 
-En totalité.
+DÉPARTEMENT : Allier
 
-Lot-et-Garonne
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Cantal
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Pyrénées-Atlantiques
+DÉPARTEMENT : Loire (Haute-)
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Puy-de-Dôme
 
-RÉGIONS ET DÉPARTEMENTS
+ARRONDISSEMENT : Ambert    CANTONS   ET   COMMUNES : En totalité.
 
-Auvergne
+ARRONDISSEMENT : Clermont-Ferrand    CANTONS   ET   COMMUNES :
 
-Allier
+Aubière, Beaumont, Billom, Bourg-Lastic, Chamalières, Clermont-Ferrand (huit cantons), Cournon-d'Auvergne, Gerzat, Herment, Montferrand, Pont-du-Château, Rochefort-Montagne, Royat, Saint-Amand-Tallende, Saint-Dier-d'Auvergne, Vertaizon, Veyre-Monton, Vic-le-Comte.
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Issoire    CANTONS   ET   COMMUNES : En totalité.
 
-En totalité.
+ARRONDISSEMENT : Riom    CANTONS   ET   COMMUNES : En totalité.
 
-Cantal
+ARRONDISSEMENT : Thiers    CANTONS   ET   COMMUNES : En totalité.
 
-ARRONDISSEMENTS
+RÉGION : Bourgogne
 
-En totalité.
+DÉPARTEMENT : Côte-d'Or
 
-Loire (Haute-)
+ARRONDISSEMENT : Beaune
 
-ARRONDISSEMENTS
+CANTONS   ET   COMMUNES : Liernais.
 
-En totalité.
+ARRONDISSEMENT : Montbard
 
-Puy-de-Dôme
+CANTONS   ET   COMMUNES : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Nièvre
 
-Ambert
+ARRONDISSEMENT : Château-Chinon
 
-CANTONS   ET   COMMUNES
+CANTONS   ET   COMMUNES : En totalité.
 
-En totalité.
+ARRONDISSEMENT : Clamecy
 
-ARRONDISSEMENTS
+CANTONS   ET   COMMUNES : Clamecy, Corbigny, Lormes.
 
-Clermont-Ferrand
-
-CANTONS   ET   COMMUNES
-
-Bourg-Lastic, Herment, Rochefort-Montagne, Saint-Amand-Tallende, Saint-Dier-d'Auvergne, Veyre-Monton.
-
-ARRONDISSEMENTS
-
-Issoire
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Riom
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Thiers
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-RÉGIONS ET DÉPARTEMENTS
-
-Bourgogne
-
-Côte-d'Or
-
-ARRONDISSEMENTS
-
-Beaune
-
-CANTONS   ET   COMMUNES
-
-Liernais.
-
-ARRONDISSEMENTS
-
-Montbard
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-Nièvre
-
-ARRONDISSEMENTS
-
-Château-Chinon
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Clamecy
-
-CANTONS   ET   COMMUNES
-
-Clamecy, Corbigny, Lormes.
-
-ARRONDISSEMENTS
-
-Nevers
+ARRONDISSEMENT : Nevers
 
 CANTONS   ET   COMMUNES
 
 Decize, Guérigny, La Machine, Nevers (quatre cantons), Pougues-les-Eaux.
 
-Saône-et-Loire
-
-ARRONDISSEMENTS
-
-Autun
-
-CANTONS   ET   COMMUNES
+DÉPARTEMENT : Saône-et-Loire    ARRONDISSEMENT : Autun    CANTONS   ET   COMMUNES :
 
 Autun (deux cantons), Couches, Epinac, Le Creusot (deux cantons), Lucenay-l'Evêque, Mesvres, Montcenis, Saint-Léger-sous-Beuvray.
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Chalon-sur-Saône    CANTONS   ET   COMMUNES :
 
-Chalon-sur-Saône
+Chalon-sur-Saône (quatre cantons), Givry, Montceau-les-Mines (deux cantons), Montchanin, Saint-Martin-en-Bresse.
 
-CANTONS   ET   COMMUNES
+ARRONDISSEMENT : Charolles    CANTONS   ET   COMMUNES :
 
-Montceaux-les-Mines (deux cantons), Montchanin.
+Bourbon-Lancy, La Guiche, Toulon-sur-Arroux.
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Louhans    CANTONS   ET   COMMUNES : En totalité.
 
-Charolles
+ARRONDISSEMENT : Mâcon    CANTONS   ET   COMMUNES : Tournus (commune de Romenay).
 
-CANTONS   ET   COMMUNES
+DÉPARTEMENT : Yonne
 
-Toulon-sur-Arroux, Bourbon-Lancy.
+ARRONDISSEMENT : Avallon
 
-ARRONDISSEMENTS
+CANTONS   ET   COMMUNES : Avallon, Quarré-les-Tombes, Vézelay.
 
-Louhans
+RÉGION : Bretagne
 
-CANTONS   ET   COMMUNES
+DÉPARTEMENT : Côtes-d'Armor
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Finistère
 
-Mâcon
+ARRONDISSEMENTS : En totalité.
 
-CANTONS   ET   COMMUNES
+DÉPARTEMENT : Ille-et-Vilaine
 
-Tournus (commune de Romenay).
+ARRONDISSEMENTS : En totalité.
 
-Yonne
+DÉPARTEMENT : Morbihan
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-Avallon
+RÉGION : Centre
 
-CANTONS   ET   COMMUNES
+DÉPARTEMENT : Cher
 
-Avallon, Quarré-les-Tombes, Vézelay.
+ARRONDISSEMENTS : Saint-Amand-Montrond
 
-RÉGIONS ET DÉPARTEMENTS
+CANTONS   ET   COMMUNES : En totalité.
 
-Bretagne
+DÉPARTEMENT : Indre
 
-Côtes-d'Armor
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Indre-et-Loire
 
-En totalité.
+ARRONDISSEMENTS : Chinon
 
-Finistère
+CANTONS   ET   COMMUNES : En totalité.
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : Loches
 
-En totalité.
+CANTONS   ET   COMMUNES : En totalité.
 
-Ille-et-Vilaine
+ARRONDISSEMENT : Tours
 
-ARRONDISSEMENTS
+CANTONS   ET   COMMUNES : Amboise, Bléré.
 
-En totalité.
+RÉGION : Corse
 
-Morbihan
+DÉPARTEMENT : Corse (Haute-)
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : En totalité.
 
-En totalité.
+DÉPARTEMENT : Corse-du-Sud
 
-RÉGIONS ET DÉPARTEMENTS
+ARRONDISSEMENT : En totalité.
 
-Centre
+RÉGION : Champagne-Ardenne
 
-Cher
+DÉPARTEMENT : Ardennes
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-Saint-Amand-Montrond
+DÉPARTEMENT : Marne
 
-CANTONS   ET   COMMUNES
+ARRONDISSEMENT : Sainte-Menehould
 
-En totalité.
+CANTONS   ET   COMMUNES : En totalité.
 
-Indre
+DÉPARTEMENT : Marne (Haute-)
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Chaumont
 
-En totalité.
+CANTONS   ET   COMMUNES : En totalité.
 
-Indre-et-Loire
+ARRONDISSEMENT : Langres
 
-ARRONDISSEMENTS
+CANTONS   ET   COMMUNES : En totalité.
 
-Chinon
+RÉGION : Franche-Comté
 
-CANTONS   ET   COMMUNES
+DÉPARTEMENT : Doubs
 
-En totalité.
-
-ARRONDISSEMENTS
-
-Loches
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Tours
-
-CANTONS   ET   COMMUNES
-
-Amboise, Bléré.
-
-RÉGIONS ET DÉPARTEMENTS
-
-Corse
-
-Corse (Haute-)
-
-ARRONDISSEMENTS
-
-En totalité.
-
-Corse-du-Sud
-
-ARRONDISSEMENTS
-
-En totalité.
-
-RÉGIONS ET DÉPARTEMENTS
-
-Champagne-Ardenne
-
-Ardennes
-
-ARRONDISSEMENTS
-
-En totalité.
-
-Marne
-
-ARRONDISSEMENTS
-
-Sainte-Menehould
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-Marne (Haute-)
-
-ARRONDISSEMENTS
-
-Chaumont
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Langres
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-RÉGIONS ET DÉPARTEMENTS
-
-Franche-Comté
-
-Doubs
-
-ARRONDISSEMENTS
-
-Besançon
+ARRONDISSEMENT : Besançon
 
 CANTONS   ET   COMMUNES
 
 Audeux, Besançon (quatre cantons), Boussières, Marchaux, Roulans.
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Pontarlier
 
-Pontarlier
+CANTONS   ET   COMMUNES : Morteau.
 
-CANTONS   ET   COMMUNES
-
-Morteau.
-
-ARRONDISSEMENTS
-
-Montbéliard
+ARRONDISSEMENT : Montbéliard
 
 CANTONS   ET   COMMUNES
 
 Etupes (communes d'Allenjoie, Badevel, Brognard, Dambenois, Dampierre-les-Bois, Etupes, Fesches-le-Châtel), Hérimoncourt (communes d'Hérimoncourt, Séloncourt, Vandoncourt), Le Russey-Maîche.
 
-Jura
+DÉPARTEMENT : Jura
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Lons-le-Saunier
 
-Lons-le-Saunier
+CANTONS   ET   COMMUNES : En totalité.
 
-CANTONS   ET   COMMUNES
+DÉPARTEMENT : Saône (Haute-)
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Saône (Haute-)
+DÉPARTEMENT : Territoire de Belfort
 
-ARRONDISSEMENTS
-
-En totalité.
-
-Territoire de Belfort
-
-ARRONDISSEMENTS
-
-Belfort
+ARRONDISSEMENT : Belfort
 
 CANTONS   ET   COMMUNES
 
 Giromagny, Rougemont-le-Château, Beaucourt, Delle, Grandvillars, Fontaine, Châtenois-les-Forges.
 
-RÉGIONS ET DÉPARTEMENTS
+RÉGION : Languedoc-Roussillon
 
-Languedoc-Roussillon
+DÉPARTEMENT : Aude
 
-Aude
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Gard
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Gard
+DÉPARTEMENT : Hérault
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Lozère
 
-Hérault
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Pyrénées-Orientales
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Lozère
+RÉGION : Limousin
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Corrèze
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Pyrénées-Orientales
+DÉPARTEMENT : Creuse
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Vienne (Haute-)
 
-RÉGIONS ET DÉPARTEMENTS
+ARRONDISSEMENTS : En totalité.
 
-Limousin
+RÉGION : Lorraine
 
-Corrèze
+DÉPARTEMENT : Meurthe-et-Moselle
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Meuse
 
-Creuse
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Moselle
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Vienne (Haute-)
+DÉPARTEMENT : Vosges
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+RÉGION : Midi-Pyrénées
 
-RÉGIONS ET DÉPARTEMENTS
+DÉPARTEMENT : Ariège
 
-Lorraine
+ARRONDISSEMENTS : En totalité.
 
-Meurthe-et-Moselle
+DÉPARTEMENT : Aveyron
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Garonne (Haute-)
 
-Meuse
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Gers
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Moselle
+DÉPARTEMENT : Lot
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Pyrénées (Hautes-)
 
-Vosges
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Tarn
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-RÉGIONS ET DÉPARTEMENTS
+DÉPARTEMENT : Tarn-et-Garonne
 
-Midi-Pyrénées
+ARRONDISSEMENTS : En totalité.
 
-Ariège
+RÉGION : Nord - Pas-de-Calais
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Nord
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Aveyron
+DÉPARTEMENT : Pas-de-Calais
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+RÉGION : Basse-Normandie
 
-Garonne (Haute-)
+DÉPARTEMENT : Calvados    ARRONDISSEMENT : Bayeux.
 
-ARRONDISSEMENTS
+CANTONS   ET   COMMUNES : En totalité.
 
-En totalité.
+ARRONDISSEMENT : Caen    CANTONS   ET   COMMUNES :
 
-Gers
+Bourguébus, Creully, Bretteville-sur-Laize, Douvres-la-Délivrande, Ouistreham, Evrecy, Falaise (deux cantons), Morteaux-Couliboeuf, Tilly-sur-Seulles, Troarn, Thury-Harcourt, Villers-Bocage, Cabourg, Caen (dix cantons).
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Lisieux    CANTONS   ET   COMMUNES : En totalité.
 
-En totalité.
+ARRONDISSEMENT : Vire    CANTONS   ET   COMMUNES : En totalité.
 
-Lot
+DÉPARTEMENT : Manche
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Orne
 
-Pyrénées (Hautes-)
-
-ARRONDISSEMENTS
-
-En totalité.
-
-Tarn
-
-ARRONDISSEMENTS
-
-En totalité.
-
-Tarn-et-Garonne
-
-ARRONDISSEMENTS
-
-En totalité.
-
-RÉGIONS ET DÉPARTEMENTS
-
-Nord - Pas-de-Calais
-
-Nord
-
-ARRONDISSEMENTS
-
-En totalité.
-
-Pas-de-Calais
-
-ARRONDISSEMENTS
-
-En totalité.
-
-RÉGIONS ET DÉPARTEMENTS
-
-Basse-Normandie
-
-Calvados
-
-ARRONDISSEMENTS
-
-Bayeux
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Caen
-
-CANTONS   ET   COMMUNES
-
-Bourguébus, Creully, Bretteville-sur-Laize, Douvres-la-Délivrande, Ouistreham-Riva-Bella, Evrecy (sauf les communes de Verson et Fontaine-Etoupefour), Falaise (deux cantons), Morteaux-Couliboeuf, Tilly-sur-Seulles, Troarn (sauf les communes de Giberville et Demouville), Thury-Harcourt, Villers-Bocage, Cabourg (sauf la commune de Colombelles), Caen-II (communes d'Authie et de Saint-Contest), Caen-IV (commune d'Epron), Caen-VIII (commune de Louvigny).
-
-ARRONDISSEMENTS
-
-Lisieux
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Vire
-
-ARRONDISSEMENTS
-
-En totalité.
-
-Manche
-
-ARRONDISSEMENTS
-
-En totalité.
-
-Orne
-
-ARRONDISSEMENTS
-
-Alençon
+ARRONDISSEMENTS : Alençon
 
 CANTONS   ET   COMMUNES
 
@@ -690,338 +398,222 @@ Domfront, Juvigny-sous-Andaine, La Ferté-Macé, Passais.
 
 ArgentanAthis-de-l'Orne, Briouze, Flers, Messel, Putange-Pont-Ecrepin, Tinchebray.
 
-RÉGIONS ET DÉPARTEMENTS
+RÉGION : Haute-Normandie
 
-Haute-Normandie
+DÉPARTEMENT : Seine-Maritime    ARRONDISSEMENT : Dieppe    CANTONS   ET   COMMUNES :
 
-Seine-Maritime
+Eu, Blangy-sur-Bresle, Envermeu, Londinières, Longueville-sur-Scie, Bacqueville-en-Caux, Fontaine-le-Dun, Saint-Valery-en-Caux, Cany-Barville, Offranville, Dieppe-Est, Dieppe-Ouest.
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Le Havre    CANTONS   ET   COMMUNES : En totalité.
 
-Dieppe
+DÉPARTEMENT : Eure
 
-CANTONS   ET   COMMUNES
-
-Eu, Blangy-sur-Bresle, Envermeu, Londinières, Longueville-sur-Scie, Bacqueville-en-Caux, Fontaine-le-Dun, Saint-Valéry-en-Caux, Cany-Barville, Offranville, Dieppe-Est, Dieppe-Ouest.
-
-ARRONDISSEMENTS
-
-Le Havre
-
-CANTONS   ET   COMMUNES
-
-Bolbec, Criquetot-l'Esneval, Fauville-en-Caux, Fécamp, Goderville, Lillebonne, Ourville-en-Caux, Saint-Romain-de-Colbosc (sauf commune de Saint-Laurent-de-Brévedent), Valmont.
-
-Eure
-
-ARRONDISSEMENTS
-
-Bernay
+ARRONDISSEMENT : Bernay
 
 CANTONS   ET   COMMUNES
 
 Pont-Audemer (communes de Pont-Audemer, Saint-Germain-Village, Manneville-sur-Risle, Toutainville).
 
-RÉGIONS ET DÉPARTEMENTS
+RÉGION : Pays de la Loire
 
-Pays de la Loire
+DÉPARTEMENT : Loire-Atlantique
 
-Loire-Atlantique
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Maine-et-Loire
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Maine-et-Loire
+DÉPARTEMENT : Mayenne
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Sarthe
 
-Mayenne
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Vendée
 
-En totalité.
+ARRONDISSEMENTS : En totalité.
 
-Sarthe
+RÉGION : Picardie
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Aisne
 
-En totalité.
-
-Vendée
-
-ARRONDISSEMENTS
-
-En totalité.
-
-RÉGIONS ET DÉPARTEMENTS
-
-Picardie
-
-Aisne
-
-ARRONDISSEMENTS
-
-Laon    CANTONS   ET   COMMUNES
+ARRONDISSEMENT : Laon    CANTONS   ET   COMMUNES
 
 Anizy-le-Château, Chauny, Coucy-le-Château-Auffrique (commune de Bichancourt), Crécy-sur-Serre, La Fère, Laon (deux cantons), Marle, Rozoy-sur-Serre, Sissonne, Tergnier.
 
-ARRONDISSEMENTS
-
-Saint-Quentin    CANTONS   ET   COMMUNES
+ARRONDISSEMENT : Saint-Quentin    CANTONS   ET   COMMUNES
 
 Bohain-en-Vermandois, Le Catelet, Moy-de-l'Aisne, Ribemont, Saint-Simon, Saint-Quentin (trois cantons).
 
-ARRONDISSEMENTS
-
-Soissons
+ARRONDISSEMENT : Soissons
 
 CANTONS   ET   COMMUNES
 
 Soissons-Nord et Sud (communes de Soissons, Villeneuve-Saint-Germain).
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Vervins
 
-Vervins
+CANTONS   ET   COMMUNES : En totalité.
 
-CANTONS   ET   COMMUNES
+DÉPARTEMENT : Somme
 
-En totalité.
+ARRONDISSEMENT : Abbeville
 
-Somme
+CANTONS   ET   COMMUNES : En totalité.
 
-ARRONDISSEMENTS
-
-Abbeville
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Amiens
+ARRONDISSEMENT : Amiens
 
 CANTONS   ET   COMMUNES
 
 Bernaville, Doullens, Domart-en-Ponthieu, Oisemont (communes d'Oisemont, Forceville-en-Vimeu, Neuville-au-Bois, Fresnes-Tilloloy), Picquigny (communes de Flixecourt, Ville-le-Marclet, L'Etoile).
 
-RÉGIONS ET DÉPARTEMENTS
+RÉGION : Poitou-Charentes
 
-Poitou-Charentes
+DÉPARTEMENT : Charente
 
-Charente
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Charente-Maritime
 
-En totalité.
+ARRONDISSEMENT : En totalité.
 
-Charente-Maritime
+DÉPARTEMENT : Sèvres (Deux-)
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Vienne
 
-Sèvres (Deux-)
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+RÉGION : Provence-Alpes-Côte d'Azur
 
-En totalité.
+DÉPARTEMENT : Alpes-de-Haute-Provence
 
-Vienne
+ARRONDISSEMENTS : En totalité.
 
-ARRONDISSEMENTS
+DÉPARTEMENT : Alpes-Maritimes
 
-En totalité.
-
-RÉGIONS ET DÉPARTEMENTS
-
-Provence-Alpes-Côte d'Azur
-
-Alpes-de-Haute-Provence
-
-ARRONDISSEMENTS
-
-En totalité.
-
-Alpes-Maritimes
-
-ARRONDISSEMENTS
-
-Grasse
+ARRONDISSEMENT : Grasse
 
 CANTONS   ET   COMMUNES
 
 Mougins, Antibes (deux cantons), Cagnes-Est, Cagnes-Ouest, Cannes (deux cantons), Le Cannet, Grasse, Le Bar-sur-Loup (communes du Bar-sur-Loup, Châteauneuf-Grasse, Opio, Roquefort-les-Pins, Le Rouret et Valbonne), Saint-Vallier-de-Thiey (communes de Peymeinade et Spéracèdes), Vence.
 
-ARRONDISSEMENTS
-
-Nice
+ARRONDISSEMENT : Nice
 
 CANTONS   ET   COMMUNES
 
 Beausoleil, Contes (communes de Cantaron, Contes et Drap), Levens (communes de Colomars et Tourrette-Levens), Menton, Nice (quatorze cantons), Villefranche.
 
-Alpes (Hautes-)
+DÉPARTEMENT : Alpes (Hautes-)
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Bouches-du-Rhône
 
-Bouches-du-Rhône
+ARRONDISSEMENT : Aix-en-Provence    CANTONS   ET   COMMUNES : Aix-Sud-Ouest (commune de Meyreuil), Gardanne (commune de Gardanne), Salon-de-Provence (commune de Miramas), Trets (communes de Châteauneuf-le-Rouge, Fuveau, Peynier, Rousset et Trets).
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Arles    CANTONS   ET   COMMUNES : En totalité.
 
-Aix-en-Provence
+ARRONDISSEMENT : Istres    CANTONS   ET   COMMUNES : Istres, Martigues.
 
-CANTONS   ET   COMMUNES
+ARRONDISSEMENT : Marseille    CANTONS   ET   COMMUNES : En totalité.
 
-Aix-Sud-Ouest (commune de Meyreuil), Gardanne (commune de Gardanne), Salon-de-Provence (commune de Miramas), Trets (communes de Châteauneuf-le-Rouge, Fuveau, Peynier, Rousset et Trets).
+DÉPARTEMENT : Var
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Toulon
 
-Arles
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Marseille
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-Var
-
-ARRONDISSEMENTS
-
-Toulon
-
-CANTONS   ET   COMMUNES
+CANTONS   ET   COMMUNES :
 
 La Crau (commune de La Crau), La Seyne-sur-Mer, La Valette-du-Var, Le Beausset, Ollioules, Saint-Mandrier, Six-Fours-les-Plages, Solliès-Pont (commune de La Farlède), Toulon (neuf cantons).
 
-ARRONDISSEMENTS
-
-Draguignan
+ARRONDISSEMENT : Draguignan
 
 CANTONS   ET   COMMUNES
 
 Draguignan (commune de Draguignan), Fréjus (commune de Fréjus), Le Muy (communes du Muy, Puget-sur-Argens et Roquebrune-sur-Argens).
 
-ARRONDISSEMENTS
-
-Brignoles
+ARRONDISSEMENT : Brignoles
 
 CANTONS   ET   COMMUNES
 
 Brignoles (commune de Brignoles), Barjols (commune de Barjols).
 
-Vaucluse
+DÉPARTEMENT : Vaucluse
 
-ARRONDISSEMENTS
-
-Avignon
+ARRONDISSEMENT : Avignon
 
 CANTONS   ET   COMMUNES
 
 Avignon (quatre cantons), Bédarrides, Orange (deux cantons).
 
-RÉGIONS ET DÉPARTEMENTS
+RÉGION : Rhône-Alpes
 
-Rhône-Alpes
+DÉPARTEMENT : Ain
 
-Ain
+ARRONDISSEMENT : Belley
 
-ARRONDISSEMENTS
-
-Belley
-
-CANTONS   ET   COMMUNES
+CANTONS   ET   COMMUNES :
 
 Ambérieu-en-Bugey, Belley, Lagnieu, Lhuis, Saint-Rambert-en-Bugey, Virieu-le-Grand.
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : Nantua
 
-Nantua
-
-CANTONS   ET   COMMUNES
+CANTONS   ET   COMMUNES :
 
 Poncin, Bellegarde-sur-Valserine.
 
-Ardèche
+DÉPARTEMENT : Ardèche
 
-ARRONDISSEMENTS
+ARRONDISSEMENT : En totalité.
 
-En totalité.
+DÉPARTEMENT : Drôme
 
-Drôme
+ARRONDISSEMENT : Die
 
-ARRONDISSEMENTS
+CANTONS   ET   COMMUNES : En totalité.
 
-Die
-
-CANTONS   ET   COMMUNES
-
-En totalité.
-
-ARRONDISSEMENTS
-
-Valence
+ARRONDISSEMENT : Valence
 
 CANTONS   ET   COMMUNES
 
 Bourg-de-Péage, Romans-sur-Isère (deux cantons), Saint-Jean-en-Royans.
 
-Isère
+DÉPARTEMENT : Isère
 
-ARRONDISSEMENTS
-
-Grenoble
+ARRONDISSEMENT : Grenoble
 
 CANTONS   ET   COMMUNES
 
 Corps, La Mure, Saint-Laurent-du-Pont, Valbonnais, Vizille (communes de Champ-sur-Drac, Laffrey, Notre-Dame-de-Commiers, Notre-Dame-de-Mésage, Saint-Georges-de-Commiers, Saint-Jean-de-Vaux, Saint-Pierre-de-Mésage et Vizille).
 
-ARRONDISSEMENTS
-
-La Tour-du-Pin
+ARRONDISSEMENT : La Tour-du-Pin
 
 CANTONS   ET   COMMUNES
 
 Bourgoin-Jallieu, Crémien (sauf la commune de Tignieu-Jameysieu), Le Grand-Lemps, Morestel, Le Pont-de-Beauvoisin, Saint-Geoire-en-Valdaine, La Tour-du-Pin, Virieu, La Verpillière (communes de Bonnefamille, Chézeneuve, Crachier, Four, L'Isle-d'Abeau, Roche, Saint-Alban-de-Roche, Saint-Quentin-Fallavier, Vaulx-Milieu, La Verpillière et Villefontaine).
 
-ARRONDISSEMENTS
-
-Vienne
+ARRONDISSEMENT : Vienne
 
 CANTONS   ET   COMMUNES
 
 Beaurepaire, La Côte-Saint-André, Heyrieux (communes de Charantionnay, Diémoz, Grenay, Oytier-Saint-Oblas, Saint-Georges-d'Espérance et Saint-Just-Chaleyssin), Roussillon, Saint-Jean-de-Bournay, Vienne (deux cantons).
 
-Loire
+DÉPARTEMENT : Loire
 
-ARRONDISSEMENTS
+ARRONDISSEMENTS : En totalité.
 
-En totalité.
+DÉPARTEMENT : Rhône
 
-Rhône
-
-ARRONDISSEMENTS
-
-Villefranche-sur-Saône
+ARRONDISSEMENT : Villefranche-sur-Saône
 
 CANTONS   ET   COMMUNES
 
 Amplepuis, Tarare, Thizy.
 
-Savoie
+DÉPARTEMENT : Savoie
 
-ARRONDISSEMENTS
-
-En totalité.
+ARRONDISSEMENTS : En totalité.
