@@ -1,3 +1,3 @@
 # Article 8
 
-Le délégué général pour l'armement, les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air, le chef du contrôle général des armées et le directeur général de la gendarmerie nationale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Le stockage dans les établissements réglementés au titre de la législation des installations classées pour la protection de l'environnement, de produits dérivés du pétrole, non visés à l'article 2 et présentant des caractéristiques de volatilité similaires, peut être réglementé par les arrêtés d'autorisation ou des arrêtés complémentaires dans le but de limiter l'évaporation des produits stockés, avec une efficacité correspondant à l'emploi des meilleures technologies de prévention disponibles et économiquement acceptables. Ces arrêtés fixent les délais correspondants.

@@ -4,4 +4,5 @@
 - [Section I : Désignation des représentants de l'administration](section-i)
 - [Section II : Désignation des représentants des praticiens des hôpitaux à temps partiel](section-ii)
 - [Section III : Fonctionnement de la commission paritaire régionale](section-iii)
+- [Section IV : Dispositions particulières applicables lorsque la commission paritaire régionale se réunit en application de l'article 54 du décret n° 85-384 du 29 mars 1985](section-iv)
 - [Article 42](article-42.md)

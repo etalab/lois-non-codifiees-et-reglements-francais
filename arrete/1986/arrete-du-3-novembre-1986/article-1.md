@@ -1,21 +1,7 @@
 # Article 1
 
-Le chef d'un établissement public local d'enseignement appartenant ou non à un groupement comptable peut, par décisions prises sous sa seule signature et après accord du comptable supérieur du Trésor territorialement compétent pour le contrôle de la gestion de l'agent comptable de l'établissement ou de l'établissement siège du groupement comptable, créer des régies de recettes pour l'encaissement des produits suivants :
+Le concours général des lycées a pour fonction de distinguer les meilleurs élèves et de valoriser leurs travaux avec l'objectif que leurs prestations puissent servir de référence à l'ensemble des classes.
 
-- ventes de documents, publications, objets confectionnés, déchets et autres objets divers ;
+Il s'adresse aux classes de première et aux classes terminales des lycées d'enseignement public et privé sous contrat.
 
-- droits d'entrée (bibliothèque, exposition) ;
-
-- droits de diplômes et de certificats ;
-
-- droits d'examens ;
-
-- droits d'inscription à des cours, travaux pratiques et exercices dirigés ;
-
-- frais scolaires perçus forfaitairement ;
-
-- ventes de tickets-repas ;
-
-- remboursements de communications téléphoniques ;
-
-- reversements consécutifs à des dégradations et à des prestations en nature indûment perçues et restant à la charge du personnel ou des élèves.
+Il permet à des élèves qui suivent les enseignements prévus par les programmes officiels de montrer ce qu'ils peuvent faire de meilleur dans un cadre plus large que celui fixé par les définitions réglementaires des épreuves du baccalauréat.
