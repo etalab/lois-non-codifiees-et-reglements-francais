@@ -1,0 +1,3 @@
+# Article 1
+
+Peuvent avoir accès dans les services municipaux aux emplois administratifs de secrétaire général, de secrétaire général adjoint, de directeur de service administratif, de rédacteur, de commis, d'agent d'enquêtes, de sténodactylographe, d'agent de bureau employé aux écritures, d'agent de bureau  dactylographe, d'appariteur enquêteur les candidats qui réunissent non  seulement les conditions générales de recrutement prévues par le statut  du personnel des communes et des établissements publics communaux, mais  encore celles fixées pour chacun de ces emplois par les annexes du  présent arrêté.
