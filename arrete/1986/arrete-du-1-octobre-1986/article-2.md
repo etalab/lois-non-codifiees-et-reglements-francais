@@ -1,3 +1,3 @@
 # Article 2
 
-Si une substance dont les quantités destinées à être mises sur le marché étaient initialement estimées à moins d'une tonne par an vient à être mise sur le marché par le déclarant en quantités égales ou supérieures à une tonne par an, ce déclarant verse aux organismes agréés et désignés un supplément de redevance forfaitaire de 16 150 F et un supplément de redevance complémentaire de 1 790 F. Ces suppléments de redevances doivent être versés avant que les quantités mises sur le marché au cours d'une même année n'aient atteint une tonne.
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère de l'économie, des finances et de la privatisation et le directeur général de la santé au ministère des affaires sociales et de l'emploi sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
