@@ -44,6 +44,7 @@
 - [Décret n°2000-650 du 3 juillet 2000 (INTM0000023D)](decret-n2000-650-du-3-juillet-2000-intm0000023d)
 - [Décret n°2000-651 du 3 juillet 2000 (MJSK0070010D)](decret-n2000-651-du-3-juillet-2000-mjsk0070010d)
 - [Décret n°2000-385 du 3 mai 2000 (DEFD0001363D)](decret-n2000-385-du-3-mai-2000-defd0001363d)
+- [Décret n°96-1073 du 4 décembre 1996 (AGRA9602161D)](decret-n96-1073-du-4-decembre-1996-agra9602161d)
 - [Décret n°2000-616 du 5 juillet 2000 (EQUU0000431D)](decret-n2000-616-du-5-juillet-2000-equu0000431d)
 - [Décret n°2000-620 du 5 juillet 2000 (MENE0001587D)](decret-n2000-620-du-5-juillet-2000-mene0001587d)
 - [Décret n°2000-621 du 5 juillet 2000 (MENE0001589D)](decret-n2000-621-du-5-juillet-2000-mene0001589d)
