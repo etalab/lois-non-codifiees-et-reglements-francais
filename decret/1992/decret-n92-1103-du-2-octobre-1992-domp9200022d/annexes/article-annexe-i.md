@@ -13,3 +13,5 @@ Secrétariat auprès des directeurs lorsque les titulaires doivent posséder des
 Responsabilités d'encadrement assorties de contraintes ou de responsabilités particulières ;
 
 Emplois techniques comportant des contraintes particulières.
+
+Emplois impliquant une technicité particulière dans les domaines financier, comptable ou juridique.

@@ -15,3 +15,5 @@ Chef de circonscription administrative ;
 Chef de cabinet ;
 
 Emplois de directeur des services administratifs.
+
+Emplois comportant des responsabilités ou une technicité particulières dans les domaines de la solde et du traitement de l'information.
