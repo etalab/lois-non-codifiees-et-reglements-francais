@@ -327,6 +327,7 @@
 - [Arrêté du 10 mai 1995 (ECOC9500067A)](arrete-du-10-mai-1995-ecoc9500067a)
 - [Arrêté du 10 mai 1995 (MCCK9500258A)](arrete-du-10-mai-1995-mcck9500258a)
 - [Arrêté du 10 mai 1995 (SANH9501520A)](arrete-du-10-mai-1995-sanh9501520a)
+- [Arrêté du 10 mai 1995 (SANP9501524A)](arrete-du-10-mai-1995-sanp9501524a)
 - [Arrêté du 10 mai 1995 (SANP9501560A)](arrete-du-10-mai-1995-sanp9501560a)
 - [Arrêté du 10 mai 1995 (SPSG9501444A)](arrete-du-10-mai-1995-spsg9501444a)
 - [Arrêté du 10 mai 1995 (SPSH9501491A)](arrete-du-10-mai-1995-spsh9501491a)
