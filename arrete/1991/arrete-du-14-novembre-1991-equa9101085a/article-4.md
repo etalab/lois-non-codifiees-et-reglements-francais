@@ -20,6 +20,6 @@ Elle comprend, outre son président, les dix membres délibérants ci-après :
 
 - un expert pilote de ligne commandant de bord ou son suppléant, désignés par le ministre chargé de l'aviation civile sur proposition des organisations les plus représentatives des personnels navigants techniques ;
 
-- un expert ou son suppléant, désignés par le ministre chargé de l'aviation civile sur proposition commune de la Compagnie nationale Air France et de l'organisation la plus représentative des entreprises de transport aérien ;
+- un expert ou son suppléant, désignés par le ministre chargé de l'aviation civile sur proposition commune de la Société Air France et de l'organisation la plus représentative des entreprises de transport aérien ;
 
 - un expert ou son suppléant, désignés par le ministre chargé de l'aviation civile sur proposition commune des fédérations sportives représentatives d'activités aéronautiques.
