@@ -10,7 +10,7 @@ Les périodes de disponibilité, de congé parental et d'accomplissement du serv
 
 Dans le cas de la première mutation d'un fonctionnaire précédemment agent contractuel, les services accomplis dans la précédente résidence en qualité d'agent contractuel sont pris en compte.
 
-Aucune condition de durée n'est exigée lorsque la mutation a pour objet de rapprocher, soit dans un même département, soit dans un département limitrophe, un fonctionnaire de l'Etat de son conjoint fonctionnaire ou agent contractuel de l'Etat, militaire ou magistrat, ou fonctionnaire ou agent contractuel de la fonction publique territoriale ou de la fonction publique hospitalière ;
+Aucune condition de durée n'est exigée lorsque la mutation a pour objet de rapprocher, soit dans un même département, soit dans un département limitrophe, un fonctionnaire de l'Etat de son conjoint ou partenaire d'un pacte civil de solidarité, ayant la qualité de fonctionnaire ou d'agent contractuel de l'Etat, militaire ou magistrat, ou fonctionnaire ou agent contractuel de la fonction publique territoriale ou de la fonction publique hospitalière.
 
 2° A un détachement dans un emploi conduisant à pension du régime du code des pensions civiles et militaires de retraite, à l'exception des détachements prévus au 10° de l'article 14 du décret du 16 septembre 1985 susvisé pour l'accomplissement d'un stage ou d'une période de scolarité préalable à une titularisation ou pour suivre un cycle de préparation à un concours ;
 

@@ -342,7 +342,6 @@
 - [Décret n°2000-841 du 30 août 2000 (MESS0022166D)](decret-n2000-841-du-30-aout-2000-mess0022166d)
 - [Décret n°2000-842 du 30 août 2000 (MESP0021361D)](decret-n2000-842-du-30-aout-2000-mesp0021361d)
 - [Décret n°2000-843 du 30 août 2000 (MESH0022268D)](decret-n2000-843-du-30-aout-2000-mesh0022268d)
-- [Décret n°99-744 du 30 août 1999 (FPPA9900106D)](decret-n99-744-du-30-aout-1999-fppa9900106d)
 - [Décret n°2000-476 du 30 mai 2000 (ECOI0000176D)](decret-n2000-476-du-30-mai-2000-ecoi0000176d)
 - [Décret n°2000-483 du 30 mai 2000 (DEFP0001492D)](decret-n2000-483-du-30-mai-2000-defp0001492d)
 - [Décret n°2000-484 du 30 mai 2000 (EQUM0000038D)](decret-n2000-484-du-30-mai-2000-equm0000038d)

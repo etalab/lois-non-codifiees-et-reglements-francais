@@ -1,6 +1,6 @@
 # Article 14
 
-L'agent appelé à se déplacer pour suivre une action de formation prévue aux 2° et 3° de l'article 4 du décret du 14 juin 1985 susvisé ou un cycle de formation, stage ou action de formation prévus au deuxième alinéa de l'article 2 du décret du 26 mars 1975 susvisé peut percevoir l'indemnité de mission faisant l'objet des articles 7 à 11 du présent décret.
+L'agent appelé à se déplacer pour suivre une action de formation prévue aux 2° et 3° de l'article 4 du décret du 14 juin 1985 susvisé ou un cycle de formation, stage ou action de formation prévue au deuxième alinéa de l'article 2 du décret du 26 mars 1975 susvisé peut percevoir l'indemnité de mission faisant l'objet des articles 7 à 11 du présent décret sur justification de l'effectivité de la dépense.
 
 Toutefois, l'indemnité de repas attribuée aux agents en stage est réduite de 50 p. 100 lorsque les intéressés ont la possibilité de se rendre dans un restaurant administratif ou assimilé. Elle n'est pas servie lorsque le repas est fourni gratuitement.
 

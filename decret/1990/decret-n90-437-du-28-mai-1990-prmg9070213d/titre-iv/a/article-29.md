@@ -2,7 +2,7 @@
 
 Les agents peuvent utiliser leur véhicule personnel pour les besoins du service sur autorisation de leur chef de service et sous réserve que les intéressés satisfassent aux conditions prévues en matière d'assurances par l'article 34 du présent décret.
 
-Les autorisations ne sont délivrées que si l'utilisation du véhicule personnel entraîne une économie ou un gain de temps appréciables, ou lorsqu'elle est rendue nécessaire soit par l'absence, permanente ou occasionnelle, de moyens de transport en commun, soit par l'obligation attestée de transporter du matériel fragile, lourd ou encombrant.
+Les autorisations ne sont délivrées que si l'utilisation du véhicule personnel entraîne une économie ou un gain de temps appréciables, ou lorsqu'elle est rendue nécessaire soit par l'absence, permanente ou occasionnelle, de moyens de transport en commun, soit par l'obligation attestée de transporter du matériel précieux, fragile, lourd ou encombrant.
 
 L'agent autorisé à utiliser son véhicule personnel pour les besoins du service peut être indemnisé de ses frais de transport sur la base des indemnités kilométriques prévues aux articles 31 et 32 du présent décret.
 
