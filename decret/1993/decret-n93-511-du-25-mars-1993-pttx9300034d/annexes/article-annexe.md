@@ -18,6 +18,8 @@ Cadre de second niveau : 440-841
 
 Cadre de premier niveau : 379-735 (780)
 
+Cadre professionnel : 346-660
+
 Echelon exceptionnel.
 
 Technicien supérieur : 323-638
