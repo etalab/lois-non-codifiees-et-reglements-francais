@@ -26,7 +26,6 @@
 - [Loi n° 70-643 du 17 juillet 1970](loi-n-70-643-du-17-juillet-1970)
 - [Loi n° 70-7 du 2 janvier 1970](loi-n-70-7-du-2-janvier-1970)
 - [Loi n°70-1208 du 23 décembre 1970](loi-n70-1208-du-23-decembre-1970)
-- [Loi n°70-1263 du 23 décembre 1970](loi-n70-1263-du-23-decembre-1970)
 - [Loi n°70-14 du 6 janvier 1970](loi-n70-14-du-6-janvier-1970)
 - [Loi n°70-3 du 2 janvier 1970](loi-n70-3-du-2-janvier-1970)
 - [Loi n°70-4 du 2 janvier 1970](loi-n70-4-du-2-janvier-1970)
