@@ -241,6 +241,8 @@
 - [Arrêté du 20 janvier 1999 (ECOR9905003A)](arrete-du-20-janvier-1999-ecor9905003a)
 - [Arrêté du 20 janvier 1999 (FPPA9910001A)](arrete-du-20-janvier-1999-fppa9910001a)
 - [Arrêté du 21 avril 1999 (ECOR9905004A)](arrete-du-21-avril-1999-ecor9905004a)
+- [Arrêté du 21 avril 1999 (MAEA9920193A)](arrete-du-21-avril-1999-maea9920193a)
+- [Arrêté du 21 avril 1999 (MAEA9920194A)](arrete-du-21-avril-1999-maea9920194a)
 - [Arrêté du 21 décembre 1998 (AGRE9802662A)](arrete-du-21-decembre-1998-agre9802662a)
 - [Arrêté du 21 décembre 1998 (AGRE9802663A)](arrete-du-21-decembre-1998-agre9802663a)
 - [Arrêté du 21 décembre 1998 (AGRG9900101A)](arrete-du-21-decembre-1998-agrg9900101a)
