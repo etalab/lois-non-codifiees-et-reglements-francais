@@ -11,3 +11,7 @@ Toute personne convoquée a le droit de se faire assister d'un conseil de son ch
 Le secret professionnel ne peut être opposé aux agents de la commission, sauf par les auxiliaires de justice.
 
 Les membres et les agents de la commission sont astreints au secret professionnel pour les faits, actes et renseignements dont ils ont pu avoir connaissance en raison de leurs fonctions, dans les conditions et sous les peines [*sanctions*] prévues à l'article 378 du Code pénal.
+
+L'obligation prévue à l'alinéa précédent ne fait pas obstacle à la communication par la commission des opérations de bourse des informations qu'elle recueille aux autorités des autres Etats membres des Communautés européennes exerçant des compétences analogues et astreintes aux mêmes obligations de secret professionnel.
+
+La commission des opérations de bourse peut également communiquer les informations qu'elle recueille aux autorités des autres Etats exerçant des compétences analogues sous réserve de la réciprocité et à condition que l'autorité étrangère compétente soit soumise au secret professionnel avec les mêmes garanties qu'en France.

@@ -1,3 +1,5 @@
 # Article 192
 
-Les souscriptions, les versements et les libérations d'actions par compensation avec des créances liquides et exigibles sur la société sont constatés par une déclaration notariée [*formalités*] émanant, suivant le cas, soit du conseil d'administration ou de son mandataire, soit du directoire ou de son mandataire [*attributions*].
+Les souscriptions et les versements sont constatés par un certificat du dépositaire établi, au moment du dépôt des fonds, sur présentation des bulletins de souscription.
+
+Les libérations d'actions par compensation de créances liquides et exigibles sur la société sont constatées par un certificat du notaire ou du commissaire aux comptes. Ce certificat tient lieu de certificat du dépositaire.

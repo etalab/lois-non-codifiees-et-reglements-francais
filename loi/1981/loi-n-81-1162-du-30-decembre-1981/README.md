@@ -2,3 +2,4 @@
 
 - [Chapitre VIII : Dispositions relatives aux sociétés à capital variable.](chapitre-viii)
 - [Article 33](article-33.md)
+- [Dispositions relatives aux sociétés à capital variable.](dispositions-relatives-aux)

@@ -1,6 +1,6 @@
 # Article 206
 
-A dater du vote de l'assemblée prévu à l'article 201, alinéa 1er, il est interdit à la société, jusqu'à ce que toutes les obligations émises soient échangées ou remboursables, d'amortir son capital ou de le réduire par voie de remboursement et de modifier la répartition des bénéfices.
+A dater du vote de l'assemblée prévu à l'article 201, alinéa 1er, il est interdit à la société, jusqu'à ce que toutes les obligations émises soient échangées ou remboursables, d'amortir son capital ou de le réduire par voie de remboursement et de modifier la répartition des bénéfices. Toutefois, la société peut créer des actions à dividende prioritaire sans droit de vote.
 
 En cas de distribution de réserves en titres, par la société, au cours de la même période, les titres attribués du chef des actions nécessaires à l'échange sont soumis aux dispositions de l'article 205, alinéas 1er et 2.
 
