@@ -1096,7 +1096,6 @@
 - [Décret n°94-1235 du 29 décembre 1994 (EQUR9401179D)](decret-n94-1235-du-29-decembre-1994-equr9401179d)
 - [Décret n°95-1064 du 29 septembre 1995 (LOGC9500068D)](decret-n95-1064-du-29-septembre-1995-logc9500068d)
 - [Décret n°95-1065 du 29 septembre 1995 (JUSC9520701D)](decret-n95-1065-du-29-septembre-1995-jusc9520701d)
-- [Décret n°95-1066 du 29 septembre 1995 (EQUZ9501301D)](decret-n95-1066-du-29-septembre-1995-equz9501301d)
 - [Décret n°95-1074 du 29 septembre 1995 (EQUA9501354D)](decret-n95-1074-du-29-septembre-1995-equa9501354d)
 - [Décret n°95-1075 du 29 septembre 1995 (EQUT9500983D)](decret-n95-1075-du-29-septembre-1995-equt9500983d)
 - [Décret n°95-1327 du 29 décembre 1995 (INTA9500387D)](decret-n95-1327-du-29-decembre-1995-inta9500387d)
