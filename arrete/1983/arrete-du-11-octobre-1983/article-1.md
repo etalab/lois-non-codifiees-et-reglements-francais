@@ -1,3 +1,3 @@
 # Article 1
 
-Le ministère des transports gère un fichier national informatisé des véhicules immatriculés sur le territoire français intitulé fichier central des automobiles (F.C.A.).
+A compter du 1er janvier 1987, l'emploi des radioéléments sera interdit dans la fabrication des paratonnerres.
