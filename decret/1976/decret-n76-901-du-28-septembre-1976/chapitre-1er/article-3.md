@@ -7,3 +7,5 @@ a. Donnent leur avis sur les objectifs d'automatisation des services ; à cette 
 b. Se prononcent sur l'opportunité de la création ou de l'extension des centres de traitement de l'information ainsi que sur les projets de marchés d'équipements informatiques et de prestations de services faisant appel, à titre principal, aux techniques informatiques.
 
 c. Etablissent un rapport annuel sur l'utilisation de l'informatique.
+
+Les dispositions du présent article s'appliquent aux projets fondés sur des techniques informatiques et relatifs à l'amélioration du travail de bureau.
