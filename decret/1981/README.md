@@ -20,6 +20,7 @@
 - [Décret n°81-1121 du 17 décembre 1981](decret-n81-1121-du-17-decembre-1981)
 - [Décret n°81-1028 du 18 novembre 1981](decret-n81-1028-du-18-novembre-1981)
 - [Décret n°81-1043 du 18 novembre 1981](decret-n81-1043-du-18-novembre-1981)
+- [Décret n°81-1142 du 23 décembre 1981](decret-n81-1142-du-23-decembre-1981)
 - [Décret n°81-1055 du 25 novembre 1981](decret-n81-1055-du-25-novembre-1981)
 - [Décret n°81-1053 du 27 novembre 1981](decret-n81-1053-du-27-novembre-1981)
 - [Décret n°81-989 du 30 octobre 1981](decret-n81-989-du-30-octobre-1981)
