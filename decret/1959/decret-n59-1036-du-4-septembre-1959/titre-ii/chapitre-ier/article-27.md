@@ -16,7 +16,7 @@ A ces fins, les Charbonnages de France sont chargés notamment :
 
 2° D'assurer dans les conditions prévues à l'article 21 ci-dessus le service et le remboursement des emprunts existant au 17 mai 1946 et des titres remis aux actionnaires expropriés et aux ayants droit des entreprises nationalisées, de coordonner l'émission des emprunts émis par les diverses Houillères de bassin ou d'assurer l'émission, le service et le remboursement d'emprunts contractés tant pour leurs besoins propres que pour ceux des Houillères de bassin, en particulier pour la mise en oeuvre du plan prévu à l'alinéa 1° ci-dessus ;
 
-3° Dans le cadre des dispositions de l'article 35 ci-après, de développer, diriger et coordonner les recherches scientifiques et techniques se rapportant aux activités intéressant les mines de combustibles minéraux solides ainsi que d'orienter les méthodes d'exploitation de ces mines et de traitement et d'utilisation des produits extraits ;
+3° De diriger et coordonner les recherches scientifiques et techniques se rapportant aux mines de combustibles minéraux solides ainsi que d'orienter les méthodes d'exploitation de ces mines et de traitement et d'utilisation des produits extraits.
 
 4° De développer, diriger et coordonner la formation professionnelle et, en particulier, l'apprentissage dans ces mêmes mines ;
 
