@@ -6,6 +6,8 @@ Les sujets et le matériel de composition destinés aux candidats sont adressés
 
 Après la composition, les copies sont adressées sous pli scellé à la direction régionale des affaires sanitaires et sociales d'Ile-de-France, qui assure le secrétariat du jury des épreuves d'admissibilité.
 
+Le jury d'admissibilité, avant de procéder aux opérations de correction, peut décider de la nullité de certaines questions à choix multiple si l'énoncé de celles-ci peut donner lieu à des interprétations différentes.
+
 A l'issue de l'examen des copies, une note est attribuée à chacune d'entre elles par au moins deux membres du jury. En cas de divergence le président désigne deux autres membres du jury et affecte la note retenue.
 
 A l'issue des opérations de jugement, le jury fixe la note minimale correspondant à l'admissibilité, en sorte que le nombre de candidats déclarés admissibles soit au plus égal à trois fois le nombre de postes mis au concours pour l'ensemble des circonscriptions. Il est alors procédé à la levée de l'anonymat des candidats.

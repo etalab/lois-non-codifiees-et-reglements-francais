@@ -1,0 +1,3 @@
+# Article 10
+
+Sans préjudice de l'application des peines prévues pour l'une des infractions réprimées par les articles L. 627 du code de la santé publique et 415 du code des douanes, les dirigeants ou les agents des organismes financiers qui auront sciemment porté à la connaissance du propriétaire des sommes ou de l'auteur de l'une des opérations mentionnées à l'article 3 de la présente loi l'existence de la déclaration faite auprès du service institué à l'article 5 ou donné des informations sur les suites qui lui ont été réservées seront punis d'une peine d'amende de 15 000 francs à 150 000 francs *sanctions pénales*.

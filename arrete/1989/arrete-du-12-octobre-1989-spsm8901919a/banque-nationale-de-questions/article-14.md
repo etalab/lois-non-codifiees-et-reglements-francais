@@ -1,3 +1,7 @@
 # Article 14
 
-Le directeur des enseignements supérieurs et le directeur des hôpitaux sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Conformément aux dispositions de l'article 4 ci-dessus, il est créé au Centre national des concours d'internat une banque nationale de questions pour le concours d'internat en pharmacie.
+
+Cette banque comprend des questions à choix multiple (Q.C.M.), des exercices d'application et des dossiers thérapeutiques et biologiques.
+
+La constitution de cette banque est assurée par le conseil scientifique et pédagogique du C.N.C.I.. La gestion de cette banque est assurée par l'unité administrative du C.N.C.I..
