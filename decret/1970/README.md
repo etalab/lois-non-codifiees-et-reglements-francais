@@ -2,6 +2,7 @@
 
 - [Décret n° 70-635 du 2 juillet 1970](decret-n-70-635-du-2-juillet-1970)
 - [Décret n°70-609 du 2 juillet 1970](decret-n70-609-du-2-juillet-1970)
+- [Décret n°70-777 du 2 septembre 1970](decret-n70-777-du-2-septembre-1970)
 - [Décret n°70-301 du 3 avril 1970](decret-n70-301-du-3-avril-1970)
 - [Décret n°70-380 du 4 mai 1970](decret-n70-380-du-4-mai-1970)
 - [Décret n° 70-709 du 5 août 1970](decret-n-70-709-du-5-aout-1970)
