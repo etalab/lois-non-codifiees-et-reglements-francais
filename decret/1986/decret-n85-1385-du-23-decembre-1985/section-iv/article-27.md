@@ -4,7 +4,7 @@ Dans les eaux de la 2e catégorie mentionnées au 1° de l'article 419 du code r
 
 Seuls peuvent être autorisés :
 
-1° Plusieurs filets de type Araignée ou Tramail, d'une longueur cumulée maximum de 60 mètres, ou un carrelet de 4 mètres de côté ou de 16 mètres de circonférence au maximum, ou un filet de type Coulette dont l'écartement des branches est inférieur ou égal à 3 mètres, ou un filet de type Coul de 1,50 mètre de diamètre maximum ;
+1° Plusieurs filets de type Araignée ou Tramail, d'une longueur cumulée maximum de 60 mètres, ou un carrelet de 25 mètres carrés de de superficie au maximum, ou un filet de type Coulette dont l'écartement des branches est inférieur ou égal à 3 mètres, ou un filet de type Coul de 1,50 mètre de diamètre maximum ;
 
 2° Un épervier ;
 
@@ -14,8 +14,6 @@ Seuls peuvent être autorisés :
 
 5° Six balances à écrevisses ou à crevettes ;
 
-6° Trois lignes de fond munies au plus de six hameçons chacune ;
+6° Des lignes de fond munies pour l'ensemble d'un maximum de dix-huit hameçons;    7° Trois lignes de traînes munies au plus de deux hameçons chacune ;
 
-7° Trois lignes de traînes munies au plus de deux hameçons chacune ;
-
-8° Un tamis à civelle de 0,30 mètre de diamètre et de profondeur au maximum.
+8° Un tamis à civelle d'un diamètre et d'une profondeur inférieurs à 0,50 mètre.
