@@ -1,7 +1,5 @@
 # Article 31
 
-Si la demande est reconnue conforme aux dispositions applicables, le greffier appose son visa sur chaque exemplaire. Une copie en est délivrée au demandeur.
+Le grffier procéde à l'inscription dans les quinze jours de la réception de la demande [*délai*]. S'il estime que la demande n'est pas conforme aux dispositions applicables, il est tenu, dans le même délai, soit de remettre au demandeur contre récépissé une décision de refus d'inscription, soit de la lui adresser par lettre recommandé aves demande d'avis de réception. La décision de refus comporte les motifs du rejet de la demande [*mentions obligatoires*] et précise que le demandeur a la faculté de saisir le juge commis à la surveillance du registre [*recours*].
 
-Le greffier mentionne l'inscription dans un registre chronologique indiquant dans l'ordre ses dates et numéro d'ordre, les nom, prénoms, raison sociale ou dénomination de l'assujetti et la nature de la formalité [*mentions obligatoires*].
-
-Il envoie à l'institut national de la statistique et des études économiques [*communication*] la demande d'identification, de modification ou de radiation prévue au décret n° 73-314 du 14 mars 1973 portant création d'un système national d'identification, sauf dans le cas où il a été fait usage de la procédure prévue au décret n° 81-257 du 18 mars 1981 créant des centres de formalités des entreprises.
+Pour les demandes d'immatriculation, à défaut de réponse du greffier dans le délai prévu à l'alinéa précédent, l'immatriculation est réputée acquise à l'expiration de ce délai [*accord tacite*] et le greffier est tenu de procéder à l'inscription en mentionnant la date d'effet de celle-ci.
