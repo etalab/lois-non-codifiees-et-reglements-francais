@@ -1,6 +1,6 @@
 # Article 1
 
-Le président directeur général de la régie est nommé par décret pris sur la proposition du ministre de la production industrielle après avis du ministre de l'économie nationale. Il exerce la direction générale de la régie dans les conditions prévues par l'ordonnance du 16 janvier 1945 et par le présent décret. La totalité du personnel est placée sous ses ordres.
+Le président directeur général de la régie est nommé parmi les membres du conseil d'administration et sur proposition de celui-ci par décret en conseil des ministres pris sur le rapport du ministre chargé de l'industrie. Il exerce la direction générale de la régie dans les conditions fixées par l'ordonnance n° 45-68 du 16 janvier 1945, par le présent décret et par le décret n° 70-652 du 8 juillet 1970. La totalité du personnel est placée sous ses ordres. Il peut être mis fin à ses fonctions dans les conditions prévues à l'article 10 de la loi n° 83-675 du 26 juillet 1983 relative à la démocratisation du secteur public.
 
 Il assure le fonctionnement de la régie nationale dans son ensemble et procède à toutes les opérations conformes à l'objet de celle-ci, tel qu'il est défini par l'article 7 de l'ordonnance susvisée.
 
