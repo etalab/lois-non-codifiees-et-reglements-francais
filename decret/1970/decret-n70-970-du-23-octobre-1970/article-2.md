@@ -1,25 +1,17 @@
 # Article 2
 
-Les vins ayant droit aux appellations contrôlées "Gaillac" (blancs, rouges et rosés) et "Gaillac premières côtes" (blancs) devront provenir des cépages suivants, à l'exclusion de tous autres :
+Pour avoir droit aux appellations d'origine contrôlées "Gaillac" (blancs, rouges et rosés) et "Gaillac premières côtes" (blancs), les vins doivent provenir des cépages suivants à l'exclusion de tous autres :
 
-Vins blancs :
+a) Vins blancs :
 
-Len de l'el, mauzac blanc, muscadelle, ondenc, sauvignon et sémillon. La proportion minimum de len de l'el sera de 15 p. 100 à partir des vendanges de 1973.
+Len de l'el (B), mauzac (B), mauzac rosé, muscadelle (B), ondenc (B), sauvignon (B), sémillon (B).
 
-Vins rouges :
+Le len de l'el ou le sauvignon ou l'ensemble des deux doivent représenter au moins 15 p. 100 de l'encépagement des parcelles ayant droit à l'une des appellations d'origine contrôlée susvisées.
 
-Cépages principaux, 60 p. 100 au minimum braucol (ou fer servadou), duras, gamay, négrette et syrah.
+b) Vins rouges et rosés :
 
-Cépages accessoires, 40 p. 100 au maximum : cabernet-sauvignon, cabernet franc, jurançon rouge, merlot rouge, portugais bleu, mauzac blanc et rose.
+Cépages principaux, dont l'ensemble doit représenter au moins 60 p. 100 de l'encépagement des parcelles ayant droit à l'appellation d'origine contrôlée susvisée : duras (N), fer (N), gamay (N), syrah (N).
+
+Cépages accessoires : cabernet-sauvignon (N), cabernet-franc (N), merlot (N).
 
 La proportion de mauzac blanc et rosé dans l'encépagement ne devra pas dépasser 5 p. 100 de l'ensemble.
-
-Vins rosés :
-
-Cépages principaux, 20 p. 100 au minimum : braucol (ou fer servadou), duras, négrette, syrah, gamay.
-
-50 p. 100 au maximum : Jurançon rouge.
-
-Cépages accessoires, 30 p. 100 au maximum : cabernet-sauvignon, cabernet franc, merlot rouge, portugais bleu, mauzac blanc et rose.
-
-Tout producteur de vin à appellation contrôlée "Gaillac" ou "Gaillac premières côtes" possédant dans son exploitation des parcelles contenant des hybrides blancs ne pourra revendiquer le droit à ces appellations.

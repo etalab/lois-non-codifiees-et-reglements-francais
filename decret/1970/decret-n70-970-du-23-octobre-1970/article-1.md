@@ -30,6 +30,6 @@ Canton de Vaour : Itzac ;
 
 Canton de Villefranche-d'Albigeois : Bellegarde, Cambon, Cunac, Marsal, Mouzieys-Teulet et Saint-Juéry, à l'exception des communes, parties de communes et parcelles situées sur alluvions modernes et de celles non destinées à la culture de la vigne en raison des usages locaux.
 
-Seuls ont droit à l'appellation contrôlée "Gaillac premières côtes" les vins blancs qui, répondant aux conditions ci-après énumérées, ont été récoltés sur le territoire des communes de Broze, Cahuzac-sur-Vère, Castanet, Cestayrols, Fayssac, Lisle-sur-Tarn, Montels et Senouillac, à l'exception des terrains qui, par la nature de leur sol ou leur situation, sont impropres à produire le vin de l'appellation.
+Seuls ont droit à l'appellation contrôlée "Gaillac premières côtes" les vins blancs qui, répondant aux conditions ci-après énumérées, ont été récoltés sur le territoire des communes de Bernac, Broze, Cahuzac-sur-Vère, Castanet, Cestayrols, Gaillac, Fayssac, Labastide-de-Lévis, Lisle-sur-Tarn, Montels et Senouillac, à l'exception des terrains qui, par la nature de leur sol ou leur situation, sont impropres à produire le vin de l'appellation.
 
 Le tracé de l'aire de production ainsi déterminé sera reporté sur le plan cadastral des communes intéressées par les experts désignés par le comité directeur de l'institut national des appellations d'origine et les plans établis par leurs soins seront, après approbation par l'institut national des appellations d'origine, déposés à la mairie des communes intéressées.

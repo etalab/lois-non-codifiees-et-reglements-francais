@@ -1,3 +1,3 @@
 # Article 5
 
-Dans un délai de un an, des propositions tendant à réglementer la taille des vignes produisant le vin à appellation contrôlée "Gaillac premières côtes", "Gaillac", devront être adressées à l'institut national des appellations d'origine par le syndicat.
+Les vignes doivent comporter une densité minimale de 3 500 pieds à l'hectare, ceux-ci devant être séparés de leurs voisins immédiats par une distance ou un intervalle qui ne peut dépasser trois mètres. La charge laissée à la taille ne doit pas dépasser 60 000 yeux francs à l'hectare.

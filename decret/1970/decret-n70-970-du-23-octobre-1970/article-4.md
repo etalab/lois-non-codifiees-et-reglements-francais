@@ -2,9 +2,11 @@
 
 Les appellations contrôlées définies par le présent décret ne seront accordées que dans les limites des rendements par hectare de vigne en production, ci-dessous spécifiées :
 
-Gaillac : 45 hectolitres.
+Gaillac (vins blancs) et Gaillac mousseux : 60 hectolitres, par hectare de vigne en production ;
 
-Gaillac premières côtes : 40 hectolitres,
+Gaillac (vins rouges et rosés) : 55 hectolitres, par hectare de vigne en production ;
+
+Gaillac premières côtes : 45 hectolitres, par hectare de vigne en production.
 
 Ces limites peuvent être modifiées chaque année, suivant la quantité et la qualité de la récolte, par décision du comité directeur de l'institut national des appellations d'origine des vins et eaux-de-vie homologuée par arrêté du ministre de l'agriculture, après consultation d'une commission de cinq membres nommés par l'institut national des appellations d'origine sur la proposition du syndicat de défense le plus représentatif de l'appellation considérée adoptée par une assemblée générale dudit syndicat.
 
