@@ -1,3 +1,0 @@
-# Article 1
-
-Les agents des départements, des communes ou de leurs établissements publics autres que les offices publics d'habitations à loyer modéré, les établissements d'hospitalisation, de soins ou de cure publics ou les caisses de crédit municipal peuvent obtenir, sur les bases et dans les conditions fixées par l'article 3 de l'arrêté du 28 mai 1968 relatif aux frais de déplacement des personnels des collectivités locales sur le territoire métropolitain, le remboursement des frais engagés par eux et les membres de leur famille à l'occasion d'un changement de résidence effectué dans l'un des cas prévus à l'article suivant.
