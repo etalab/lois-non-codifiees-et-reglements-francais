@@ -433,6 +433,7 @@
 - [Décret n°87-1107 du 30 décembre 1987 (INTB8700401D)](decret-n87-1107-du-30-decembre-1987-intb8700401d)
 - [Décret n°87-1108 du 30 décembre 1987 (INTB8700402D)](decret-n87-1108-du-30-decembre-1987-intb8700402d)
 - [Décret n°92-1176 du 30 octobre 1992 (ECOZ9200038D)](decret-n92-1176-du-30-octobre-1992-ecoz9200038d)
+- [Décret n°92-1246 du 30 novembre 1992 (MENF9203950D)](decret-n92-1246-du-30-novembre-1992-menf9203950d)
 - [Décret n°94-743 du 30 août 1994 (INTB9400316D)](decret-n94-743-du-30-aout-1994-intb9400316d)
 - [Décret n°97-1321 du 30 décembre 1997 (MESS9723498D)](decret-n97-1321-du-30-decembre-1997-mess9723498d)
 - [Décret n°97-1324 du 30 décembre 1997 (INTM9700017D)](decret-n97-1324-du-30-decembre-1997-intm9700017d)
