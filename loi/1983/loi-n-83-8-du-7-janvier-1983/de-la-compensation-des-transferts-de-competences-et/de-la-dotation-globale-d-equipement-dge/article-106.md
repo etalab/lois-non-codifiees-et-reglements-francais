@@ -2,7 +2,7 @@
 
 La dotation globale d'équipement est répartie chaque année entre les départements, après consultation du comité des finances locales :
 
-1° à raison de 45 p. 100 au plus, au prorata des dépenses réelles directes d'investissement de chaque département ;
+1° à raison de 45 p. 100 au plus, au prorata des dépenses réelles directes d'investissement de chaque département ou groupements de départements à caractère administratif ;
 
 2° à raison de 45 p. 100 au plus, au prorata des subventions versées par chaque département pour la réalisation des travaux d'équipement rural.
 
