@@ -1,0 +1,3 @@
+# Article 12
+
+Le choix des formations et des diplômes d'études spécialisées des candidats reçus s'effectue selon les modalités d'une procédure centralisée permettant la prise en compte des résultats dans les différentes circonscriptions et formations et dans les délais impératifs qui seront communiqués aux intéressés par le ministre chargé de la santé. Les internes sont admis à s'inscrire, suivant leur rang de classement au concours, au diplôme d'études spécialisées qu'ils postulent en fonction et dans les limites du nombre de postes ouverts pour chacune des formations et chacun des diplômes d'études spécialisées dans la circonscription.

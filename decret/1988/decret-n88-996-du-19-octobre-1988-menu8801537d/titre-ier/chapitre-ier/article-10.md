@@ -1,0 +1,3 @@
+# Article 10
+
+Les stages effectués hors d'un établissement hospitalier public font l'objet d'une convention entre le directeur général du centre hospitalier régional de rattachement de l'interne, le directeur de l'unité de formation et de recherche dont il relève et le responsable de l'organisme ou du laboratoire d'accueil de l'interne. Cette convention fixe notamment les modalités du stage ainsi que les conditions de réparation et d'assurance des dommages causés ou subis par l'interne durant le stage. Pendant ce stage, l'interne demeure rattaché à son centre hospitalier régional de rattachement, conformément aux dispositions de l'article 8 du décret du 2 septembre 1983 susvisé.

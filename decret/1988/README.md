@@ -94,6 +94,7 @@
 - [Décret n°88-827 du 18 juillet 1988 (ACVX8800093D)](decret-n88-827-du-18-juillet-1988-acvx8800093d)
 - [Décret n°88-829 du 19 juillet 1988 (JUSB8810212D)](decret-n88-829-du-19-juillet-1988-jusb8810212d)
 - [Décret n°88-928 du 19 septembre 1988 (BUDF8800009D)](decret-n88-928-du-19-septembre-1988-budf8800009d)
+- [Décret n°88-996 du 19 octobre 1988 (MENU8801537D)](decret-n88-996-du-19-octobre-1988-menu8801537d)
 - [Décret n°88-830 du 20 juillet 1988 (INTB8800231D)](decret-n88-830-du-20-juillet-1988-intb8800231d)
 - [Décret n°88-831 du 20 juillet 1988 (ENSX8800107D)](decret-n88-831-du-20-juillet-1988-ensx8800107d)
 - [Décret n°88-832 du 20 juillet 1988 (EQUX8800109D)](decret-n88-832-du-20-juillet-1988-equx8800109d)
