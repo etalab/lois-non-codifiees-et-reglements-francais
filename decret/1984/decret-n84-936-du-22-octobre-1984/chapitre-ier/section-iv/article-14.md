@@ -1,0 +1,5 @@
+# Article 14
+
+Pour la mise en oeuvre des dispositions du présent décret, les décisions prises par les conseils d'administration des caisses de mutualité sociale agricole aux termes des articles 4, 5, 6, 8, 9 (alinéa 1er) et 10 s'appliquent aux autres organismes assureurs habilités à gérer l'assurance maladie des exploitants agricoles, auxquels elles sont notifiées dans les quinze jours [*champ d'application, délai*]. Ces organismes doivent engager les procédures prévues aux articles 7, 9 (2ème alinéa) et 11 à l'égard de leurs adhérents. Ils reçoivent de ces derniers les notifications prévues aux articles 3 et 13.
+
+Les assurés affiliés à une caisse de mutualité sociale agricole pour les prestations familiales et pour l'assurance vieillesse et à un autre organisme pour l'assurance maladie peuvent opter pour le prélèvement mensuel auprès de ces deux organismes ou auprès de l'un d'eux seulement. De même, la renonciation à ce système peut être notifiée auprès de l'un ou des deux organismes concernés.
