@@ -5,3 +5,5 @@ Les méthodes d'analyses doivent être, soit les méthodes de référence fixée
 Pour certains paramètres, seule la méthode de référence basée sur un indice peut être utilisée.
 
 Pour la plupart des paramètres, la méthode de référence retenue correspond à une norme homologuée par l'association française de normalisation. En cas de modification des méthodes normalisées, les nouvelles dispositions sont applicables à compter du 1er janvier de l'année suivant la publication.
+
+Les modalités d'appréciation de la validité des méthodes utilisées sont précisées au chapitre II de l'annexe I.

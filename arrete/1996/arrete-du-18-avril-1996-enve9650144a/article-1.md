@@ -25,3 +25,5 @@ Les exigences minimales requises pour la délivrance de l'agrément sont les sui
 - le laboratoire doit posséder le matériel et avoir une pratique de l'analyse de tous les paramètres des types d'agrément demandés ;
 
 - les résultats d'analyse doivent avoir les caractères de justesse et de fidélité.
+
+Les critères d'évaluation du respect de ces exigences minimales sont fixées au chapitre Ier de l'annexe I au présent arrêté.

@@ -1,8 +1,8 @@
 # Article 2
 
-L'agrément est délivré par type d'analyses, conformément à l'annexe du présent arrêté.
+L'agrément est délivré par type d'analyses, conformément à l'annexe II du présent arrêté.
 
-Cette annexe peut être modifiée par arrêté du ministre de l'environnement.
+Cette annexe II peut être modifiée par arrêté du ministre de l'environnement.
 
 L'agrément est accordé ou refusé, pour un ou plusieurs types d'analyses, sur proposition d'une commission d'agrément au vu :
 
