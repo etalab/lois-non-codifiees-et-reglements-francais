@@ -27,3 +27,4 @@
 - [Décret n°49-854 du 28 juin 1949](decret-n49-854-du-28-juin-1949)
 - [Décret n°49-438 du 29 mars 1949](decret-n49-438-du-29-mars-1949)
 - [Décret n°49-456 du 30 mars 1949](decret-n49-456-du-30-mars-1949)
+- [Décret n°48-2006 du 31 décembre 1948](decret-n48-2006-du-31-decembre-1948)
