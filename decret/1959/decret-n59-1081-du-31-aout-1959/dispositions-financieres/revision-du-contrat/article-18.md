@@ -1,7 +1,0 @@
-# Article 18
-
-La rémunération de l'entrepreneur et les taux de variation pourront être revisés tous les ... ans (la révision périodique n'est à prévoir que si la durée du marché excède cinq ans) ou si les paiements mensuels s'écartent de plus de ... p. 100 (en principe de 30 à 50 p. 100) en plus ou en moins du résultat qui serait obtenu par application des prix en vigueur au ... (à la date de référence des index) pour l'exécution du même service, et également à la demande de l'une ou de l'autre des parties si le jeu des formules de variations venait à être faussé par des circonstances imprévisibles.
-
-Ils pourront également être révisés s'il est établi que le tonnage collecté (applicable seulement à la deuxième formule) a varié de plus de ... p. 100 depuis la date de l'origine ou de la dernière révision du contrat, ainsi qu'en cas de modification du lieu de déchargement au-delà de ce qui est prévu à l'article 16 ci-dessus (applicable seulement à la deuxième et troisième formule).
-
-Si un accord amiable ne peut être réalisé sur les modalités de la révision, le maire fixera par arrêté les nouveaux prix et index, après délibération du conseil municipal prise après avis d'une commission de trois experts, désignés, un par le président du tribunal administratif, un par le maire, un par l'entrepreneur. Si une des parties n'accepte par les conclusions des experts, le litige est soumis à la juridiction compétente.
