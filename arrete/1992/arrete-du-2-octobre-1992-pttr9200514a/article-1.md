@@ -1,6 +1,6 @@
 # Article 1
 
-Pour évaluer la conformité d'un équipement terminal de télécommunications, aux exigences essentielles qui lui son applicables, les réglementations techniques nationales suivantes ont été adoptées :
+Pour évaluer la conformité d'un équipement terminal de télécommunications, aux exigences essentielles qui lui sont applicables, les réglementations techniques nationales suivantes ont été adoptées :
 
 SPÉCIFICATION
 
@@ -118,10 +118,6 @@ ST/PAA/TPA/STP/1311 Compatibilité électromagnétique des autocommutateurs priv
 
 281 T 34 - 1986
 
-ST/PAA/RDS/SHD/1315 Accès au réseau téléphonique à connexité numérique (RTC 64) interface V35.
-
-39 DRG 11 - 1992
-
 ST/PAA/TPA/AGH/1423 Raccordement des terminaux téléphoniques et télématiques sur les installations intérieures simples d'abonné.
 
 37 DRG 9 - 1992
@@ -129,10 +125,6 @@ ST/PAA/TPA/AGH/1423 Raccordement des terminaux téléphoniques et télématiques
 ST/PAA/RPA/AGH/1435 Caractéristiques de transmission des terminaux téléphoniques et télématiques.
 
 43 DRG 15 - 1992
-
-ST/PAA/TPA/STP/1561 Accès des installations terminales d'abonnés privés au service Transcom par le réseau téléphonique à connexité numérique à 64KBITS/S.
-
-35 DRG 7 - 1992
 
 ST/PAA/TPA/STP/1584 Signalisation sur les circuits entre colisée et les installations privées.
 
@@ -154,17 +146,9 @@ ST/PAA/TPA/CRE/1783 Commutateurs de petite capacité d'emploi libre à utilisati
 
 49 DRG 21 - 1992
 
-ST/PAA/TPA/AGH/1789 Emetteurs du service audiphone.
-
-33 DRG 5 - 1992
-
 ST/PAA/TPA/CPE/1826 Système de signalisation LO inter-centraux privés.
 
 179 T 33 - 1988
-
-ST/PAA/RDS/SHD/1907 Accès au réseau téléphonique à connexité numériqu (RTC 64) interface V24, interface V25 bis (appel automatique) et fonction d'adaptation.
-
-32 DRG 4 - 1992
 
 ST/PAA/TPA/CRE/1911 RNIS raccordement par accès à débit primaire d'un installation privée au réseau public niveau 1 de l'interface.
 
