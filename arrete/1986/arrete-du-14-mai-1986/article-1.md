@@ -1,41 +1,9 @@
 # Article 1
 
-Les taux de rendement actuariel brut des bons à intérêt progressif émis à compter du 16 mai 1986 sont de :
+Les intérêts décomptés au taux relatif au plan d'épargne-logement et prévu à l'article 3 du règlement n° 86-13 du 14 mai 1986 du comité de la réglementation bancaire comprennent :
 
-4,5% pour un bon d'un an d'échéance ;
+1° A concurrence des trois quarts de leur montant, les intérêts à la charge de l'établissement teneur de compte, au taux contractuel de 4,62 p. 100.
 
-5,5% pour un bon de deux ans d'échéance ;
+Ces intérêts sont seuls pris en compte pour l'application des articles R. 315-35, R. 315-36 et R. 315-37 du code de la construction et de l'habitation.
 
-6,5% pour un bon de trois ans d'échéance ;
-
-7,5% pour un bon de quatre ans d'échéance ;
-
-9% pour un bon de cinq ans d'échéance.
-
-Les prix de remboursement sont les suivants :
-
-I - Option A (après prélèvement libératoire de 45%)
-
-COUPURE de 1.000 F : 1.296,25 F
-
-COUPURE de 5.000 F : 6.481,25 F
-
-COUPURE de 10.000 F : 12.962,50 F
-
-II - Option B (avant impôt)
-
-COUPURE de 1.000 F : 1.538,60 F
-
-COUPURE de 5.000 F : 7.693 F
-
-COUPURE de 10.000 F : 15.386 F
-
-III - Option C (après prélèvement libératoire de 50%)
-
-COUPURE de 1.000 F : 1.269,30 F
-
-COUPURE de 5.000 F : 6.346,50 F
-
-COUPURE de 10.000 F : 12.693 F
-
-Les bons du Trésor émis à compter du 16 mai 1986 peuvent être remboursés par anticipation conformément aux barèmes F 15 (après prélèvement libératoire de 45%), F 15 D (avant impôt) et F 15 A (après prélèvement libératoire de 50 p. 100) joints en annexe au présent arrêté.
+2° A concurrence du quart de leur montant, la prime d'épargne prévue à l'article R. 315-40 du code de la construction. Cette fraction cesse d'être décomptée lorsque le plan d'épargne-logement est venu à terme ou lorsque le montant des intérêts inscrits au compte du souscripteur a atteint le montant maximum servant de base au calcul de la prime.

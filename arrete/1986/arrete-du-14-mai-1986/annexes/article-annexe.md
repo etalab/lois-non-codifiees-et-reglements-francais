@@ -2,7 +2,7 @@
 
 I - Option A
 
-Barème F 15 applicable aux bons émis à compter du 16 mai 1986 [*date*] (après prélèvement libératoire de 45 p. 100)
+Barème F 15 applicable aux bons émis à compter du 16 mai 1986 (après prélèvement libératoire de 45%)
 
 Au-delà de 3 mois après la souscription :
 
@@ -174,7 +174,7 @@ COUPURE DE 10.000 F (en francs) : (10.000).
 
 II - Option B
 
-Barème F 15 D applicable aux bons émis à compter du 16 mai 1986 (avant impôt)
+Barème F 15 applicable aux bons émis à compter du 16 mai 1986 (avant impôt)
 
 Au-delà de 3 mois après la souscription :
 
@@ -346,7 +346,7 @@ COUPURE DE 10.000 F (en francs) : (10.000).
 
 III - Option C
 
-Barème F 15 A applicable aux bons émis à compter du 16 mai 1986 (après prélèvement libératoire de 50 p. 100)
+Barème F 15 applicable aux bons émis à compter du 16 mai 1986 (après prélèvement libératoire de 50%)
 
 Au-delà de 3 mois après la souscription :
 
