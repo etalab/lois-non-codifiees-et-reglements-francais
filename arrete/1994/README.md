@@ -919,7 +919,6 @@
 - [Arrêté du 24 novembre 1994 (COMC9400008A)](arrete-du-24-novembre-1994-comc9400008a)
 - [Arrêté du 24 novembre 1994 (MEND9402030A)](arrete-du-24-novembre-1994-mend9402030a)
 - [Arrêté du 24 novembre 1994 (SANP9403653A)](arrete-du-24-novembre-1994-sanp9403653a)
-- [Arrêté du 24 octobre 1994 (AGRG9401833A)](arrete-du-24-octobre-1994-agrg9401833a)
 - [Arrêté du 24 octobre 1994 (EQUA9401809A)](arrete-du-24-octobre-1994-equa9401809a)
 - [Arrêté du 24 octobre 1994 (EQUA9401810A)](arrete-du-24-octobre-1994-equa9401810a)
 - [Arrêté du 24 octobre 1994 (EQUS9401798A)](arrete-du-24-octobre-1994-equs9401798a)
