@@ -19,3 +19,4 @@
 - [Loi n°70-1301 du 31 décembre 1970](loi-n70-1301-du-31-decembre-1970)
 - [Loi n°70-1318 du 31 décembre 1970](loi-n70-1318-du-31-decembre-1970)
 - [Loi n°70-1324 du 31 décembre 1970](loi-n70-1324-du-31-decembre-1970)
+- [Loi n°71-552 du 9 juillet 1971](loi-n71-552-du-9-juillet-1971)
