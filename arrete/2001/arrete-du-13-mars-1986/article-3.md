@@ -1,8 +1,8 @@
 # Article 3
 
-Sont réputées personnes à charge [*définition*] :
+Sont réputées personnes à charge :
 
-1° Les enfants du bénéficiaire ou de son conjoint considérés à charge au sens du code général des impôts ;
+1° Les enfants du bénéficiaire ou de son conjoint qui n'ont pas établi une déclaration au titre de l'impôt sur le revenu en leur nom propre ;
 
 2° a) Les ascendants du bénéficiaire ou de son conjoint qui sont âgés d'au moins soixante-cinq ans ou de soixante ans en cas d'inaptitude au travail et dont les ressources ne sont pas passibles de l'impôt sur le revenu ;
 

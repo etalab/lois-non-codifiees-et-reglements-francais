@@ -254,6 +254,7 @@
 - [Décret n°2001-1108 du 23 novembre 2001 (MESS0123996D)](decret-n2001-1108-du-23-novembre-2001-mess0123996d)
 - [Décret n°2001-1109 du 23 novembre 2001 (MESS0123995D)](decret-n2001-1109-du-23-novembre-2001-mess0123995d)
 - [Décret n°2001-1110 du 23 novembre 2001 (MAEF0110105D)](decret-n2001-1110-du-23-novembre-2001-maef0110105d)
+- [Décret n°2001-1111 du 23 novembre 2001 (PRMG0170784D)](decret-n2001-1111-du-23-novembre-2001-prmg0170784d)
 - [Décret n°2001-660 du 23 juillet 2001 (MAEF0110036D)](decret-n2001-660-du-23-juillet-2001-maef0110036d)
 - [Décret n°2001-661 du 23 juillet 2001 (MCCT0100335D)](decret-n2001-661-du-23-juillet-2001-mcct0100335d)
 - [Décret n°2001-738 du 23 août 2001 (ECOM0100392D)](decret-n2001-738-du-23-aout-2001-ecom0100392d)
