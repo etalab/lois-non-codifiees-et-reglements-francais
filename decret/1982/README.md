@@ -76,6 +76,7 @@
 - [Décret n°82-358 du 21 avril 1982](decret-n82-358-du-21-avril-1982)
 - [Décret n°83-214 du 21 mars 1983](decret-n83-214-du-21-mars-1983)
 - [Décret n°82-423 du 21 mai 1982](decret-n82-423-du-21-mai-1982)
+- [Décret n°82-428 du 21 mai 1982](decret-n82-428-du-21-mai-1982)
 - [Décret n°82-103 du 22 janvier 1982](decret-n82-103-du-22-janvier-1982)
 - [Décret n°82-71 du 22 janvier 1982](decret-n82-71-du-22-janvier-1982)
 - [Décret n°82-72 du 22 janvier 1982](decret-n82-72-du-22-janvier-1982)

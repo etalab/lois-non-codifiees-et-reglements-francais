@@ -1,0 +1,3 @@
+# Article 1
+
+Le mandat des membres des conseils d'administration provisoires de la caisse mutuelle régionale d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles de la Guadeloupe, de la Guyane française et de la Martinique et de la caisse mutuelle régionale d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles de la Réunion, nommés en application de l'article 27 de la loi n° 66-509 du 12 juillet 1966 susvisée, prend fin à la date d'installation des conseils d'administration de chacune de ces caisses prévus par le décret du 22 avril 1980 susvisé.
