@@ -606,7 +606,6 @@
 - [Décret n°92-68 du 16 janvier 1992 (FPPA9100069D)](decret-n92-68-du-16-janvier-1992-fppa9100069d)
 - [Décret n°92-69 du 16 janvier 1992 (MENX9100202D)](decret-n92-69-du-16-janvier-1992-menx9100202d)
 - [Décret n°92-70 du 16 janvier 1992 (MENX9100203D)](decret-n92-70-du-16-janvier-1992-menx9100203d)
-- [Décret n°92-72 du 16 janvier 1992 (ECOM9140089D)](decret-n92-72-du-16-janvier-1992-ecom9140089d)
 - [Décret n°92-73 du 16 janvier 1992 (MCCK9100700D)](decret-n92-73-du-16-janvier-1992-mcck9100700d)
 - [Décret n°89-317 du 16 mai 1989 (PRMG8770166D)](decret-n89-317-du-16-mai-1989-prmg8770166d)
 - [Décret n°85-733 du 17 juillet 1985](decret-n85-733-du-17-juillet-1985)
