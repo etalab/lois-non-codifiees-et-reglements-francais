@@ -4,4 +4,4 @@ Le stagiaire participe à l'activité du maître de stage sous la direction et l
 
 Les travaux de pratique professionnelle doivent correspondre à la durée normale du travail, telle qu'elle résulte des règlements, conventions collectives, accords ou usages en vigueur pour la catégorie professionnelle considérée. Toutefois, le temps nécessaire pour suivre les séminaires prévus à l'article 36 doit être laissé au stagiaire.
 
-La rémunération du stagiaire est fixée conformément aux règlements, conventions collectives, accords ou usages mentionnés à l'alinéa précédent, sous réserve des dispositions du code du travail relatives à la promotion individuelle et au congé de formation des salariés.
+Pour être pris en considération, les travaux de pratique professionnelle doivent avoir été rémunérés conformément aux règlements, conventions collectives, accords ou usages mentionnés à l'alinéa précédent, sous réserve des dispositions du code du travail relatives à la promotion individuelle et au congé de formation des salariés.

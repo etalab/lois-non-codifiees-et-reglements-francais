@@ -8,7 +8,7 @@ Un professeur en activité ou émérite ou un maître de conférences des univer
 
 Trois notaires ;
 
-Un clerc de notaire remplissant les conditions d'aptitude exigées pour être nommé notaire.
+Un clerc de notaire, qu'il soit ou non en activité, remplissant les conditions d'aptitude exigées pour être nommé notaire.
 
 En cas de partage égal des voix, celle du président est prépondérante.
 
@@ -16,4 +16,4 @@ Les membres du jury sont désignés par arrêté du garde des sceaux, ministre d
 
 Des membres suppléants sont désignés en nombre égal dans les mêmes conditions.
 
-Le président et les membres du jury sont nommés pour une durée de trois ans, renouvelable deux fois.
+Le président et les membres du jury sont nommés pour une durée de trois ans, renouvelable deux fois. Toutefois, si un membre du jury vient à cesser ses fonctions avant l'expiration de la durée normale de son mandat, il est pourvu, dans le délai de trois mois, à son remplacement. En ce cas, les fonctions du nouveau membre expirent à la date à laquelle auraient cessé celles du membre qu'il a remplacé.

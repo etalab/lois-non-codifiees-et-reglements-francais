@@ -12,4 +12,4 @@ Sont dispensés de l'examen de contrôle des connaissances prévu à l'article 4
 
 5° Les anciens conseils juridiques pour la ou les mentions de spécialisation dont ils pouvaient se prévaloir dans l'exercice de leur ancienne profession ;
 
-6° Pendant une durée de trois ans à compter de la publication du présent décret, les notaires justifiant d'une pratique professionnelle de huit années dans la spécialisation en cause, dans les conditions des articles 43-3 et 43-4, sur décision du conseil d'administration du Centre national de l'enseignement professionnel notarial.
+6° Pendant une durée de six ans à compter de la date de publication du décret n° 95-1106 du 13 octobre 1995 modifiant le décret n° 73-609 du 5 juillet 1973 relatif à la formation professionnelle dans le notariat et aux conditions d'accès aux fonctions de notaire, les notaires justifiant d'une pratique professionnelle de huit années dans la spécialisation en cause, dans les conditions des articles 43-3 et 43-4, sur décision du conseil d'administration du Centre national de l'enseignement professionnel notarial.

@@ -10,4 +10,4 @@ L'examen de contrôle des connaissances se déroule devant un jury composé comm
 
 Un nombre égal de suppléants est désigné dans les mêmes conditions.
 
-Le président et les membres du jury sont désignés pour une période de trois ans renouvelable deux fois.
+Le président et les membres du jury sont désignés pour une période de trois ans renouvelable deux fois. Toutefois, si un membre du jury vient à cesser ses fonctions avant l'expiration de la durée normale de son mandat, il est pourvu, dans le délai de trois mois, à son remplacement. En ce cas, les fonctions du nouveau membre expirent à la date à laquelle auraient cessé celles du membre qu'il a remplacé.
