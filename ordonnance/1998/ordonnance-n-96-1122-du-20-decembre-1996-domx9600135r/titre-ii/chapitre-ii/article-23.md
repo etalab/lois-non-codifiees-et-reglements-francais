@@ -34,7 +34,7 @@ III. - Ne peuvent être désignés comme administrateurs de la Caisse de prévoy
 
 3° Dans le ressort territorial de la caisse :
 
-- les personnes qui exercent des fonctions de direction dans l'établissement public de santé territorial ;
+- les personnes qui exercent des fonctions de direction dans l'établissement public de santé de Mayotte ;
 
 - les personnes qui produisent, offrent ou délivrent des soins, des biens ou des services médicaux pris en charge en application de l'article 20 de la présente ordonnance ainsi que les mandataires d'organisations représentant les professions de ces personnes ;
 
@@ -72,6 +72,6 @@ IX. - Il est constitué auprès du conseil d'administration de la caisse un comi
 
 X. - La caisse élabore un règlement intérieur relatif aux formalités que doivent remplir les bénéficiaires des actions mentionnées aux 7° et 8° du II de l'article 22 ci-dessus. Ce règlement est opposable aux bénéficiaires lorsqu'il a été porté à leur connaissance.
 
-XI. - Les articles L. 122-1, L. 217-3, L. 217-5 à L. 217-7 du code de la sécurité sociale sont applicables à la Caisse de prévoyance sociale de Mayotte. Les attributions dévolues au directeur de l'organisme national par l'article L. 217-3 sont exercées par le représentant du Gouvernement à Mayotte.
+XI. - Les articles L. 122-1, L. 217-3 à L. 217-7 du code de la sécurité sociale sont applicables à la caisse de prévoyance sociale de Mayotte.
 
 XII. - La caisse peut confier à des agents agréés par arrêté du représentant du Gouvernement à Mayotte et assermentés le soin de procéder à toutes vérifications ou enquêtes administratives concernant l'attribution des prestations et la tarification des accidents du travail et des maladies professionnelles.
