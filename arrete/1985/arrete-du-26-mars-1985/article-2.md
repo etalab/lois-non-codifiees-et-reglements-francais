@@ -68,22 +68,20 @@ Pour les maisons individuelles, bénéficiant d'annexes d'au moins vingt-cinq m�
 
 2.2. Cotation de la qualité.
 
-2.2.1. Pour les prestations relatives à la plomberie, à l'électricité, à l'acoustique et à l'enveloppe extérieure, l'appréciation de la qualité est faite selon la méthode Qualitel définie dans le guide Qualitel applicable à la date de dépôt de la demande de décision favorable et à l'aide des tables d'investissements publiées par l'association Qualitel et applicables à la même date. "
+" 2.2.1. En ce qui concerne l'installation de plomberie et l'équipement sanitaire, l'installation électrique, la protection contre les bruits, le confort thermique d'été, l'enveloppe extérieure, la performance énergétique et l'accessibilité, l'appréciation de la qualité est faite selon la méthode Qualitel définie dans le guide Qualitel applicable à la date de dépôt de la demande de décision favorable. En ce qui concerne l'enveloppe extérieure, l'appréciation de la qualité est complétée à l'aide des tables d'investissements établies par le Centre scientifique et technique du bâtiment et publiées par l'association Qualitel applicables à la même date.
 
-Ces prestations et celles relatives à la présence de conduits de fumée et au traitement des accès donnant lieu à une modulation du prix de référence par l'intermédiaire des coefficients de pondération d1, d2 et d3 définis en annexe VII du présent arrêté.
+" Ces prestations et celles relatives à la présence de conduits de fumée et au traitement des accès donnent lieu à une modulation du prix de référence par l'intermédiaire des coefficients de pondération d1 et d2 définis en annexe VII du présent arrêté.
 
-Lorsqu'une majoration du prix de référence par au moins un de ces coefficients est demandée par le maître d'ouvrage, celui-ci s'engage, dans une fiche d'engagement type jointe au dossier de financement :
+" Lorsqu'une majoration du prix de référence par au moins un de ces coefficients est demandée par le maître d'ouvrage, le dossier de financement doit comporter une fiche d'engagement type à laquelle est jointe, en cas de demande de majoration au titre du coefficient d1, une copie du contrat conclu avec l'association Qualitel. Dans la fiche d'engagement, le maître d'ouvrage s'engage :
 
-- à respecter les niveaux de prestation correspondant aux valeurs des coefficients d1, d2, d3 qu'il a indiquées dans la fiche ;
+" - à respecter les niveaux de prestations correspondant aux valeurs des coefficients d1 et d2 qu'il a indiquées dans la fiche ;
 
-- à prévoir, dans les marchés de conception et de travaux, et en cas de demande de majoration au titre de la qualité acoustique, les dispositions permettant d'atteindre la valeur du coefficient d2 figurant dans la fiche ;
+" - à transmettre à la direction départementale de l'équipement concernée, au plus tard un mois après le début du chantier, une attestation établie par l'association Qualitel comportant le calcul du coefficient de majoration, en cas de demande de majoration au titre du coefficient d1 ;
 
-- à demander soit au contrôleur technique agissant dans le cadre de la mission définie à l'article L111-23 du C.C.H., soit au centre d'études techniques de l'équipement territorialement concerné, d'attester le niveau réel des prestations ayant fait l'objet de l'engagement précité, en déterminant les coefficients de pondération correspondants.
+" - à demander soit au contrôleur technique agissant dans le cadre de la mission définie à l'article L. 111-23 du code de la construction et de l'habitation, soit au centre d'études techniques de l'équipement territorialement concerné d'attester le niveau réel des prestations ayant fait l'objet de l'engagement précité, en déterminant la valeur des coefficients de pondération correspondants, le contrôle étant réalisé, en ce qui concerne le coefficient d1, selon la méthodologie définie par l'association Qualitel et sous la responsabilité de celle-ci ; cette attestation est jointe à la déclaration d'achèvement des travaux adressée à la direction départementale de l'équipement concernée.
 
-Cette attestation est envoyée au moment de la déclaration d'achèvement des travaux à la D.D.E. concernée.
+" Le prix de référence initial est établi avec les valeurs des coefficients d1 et d2 portées dans l'engagement du maître d'ouvrage. "
 
-Le prix de références initial est établi avec les valeurs des coefficients d1, d2, d3 portées dans l'engagement du maître d'ouvrage.
+" 2.2.2. Etablissement d'un tableau de cotation.
 
-2.2.2. Etablissement d'un tableau de cotation.
-
-Pour les opérations de cinquante logements et plus, l'établissement d'un tableau de cotation selon la méthode Qualitel est obligatoire. Ce tableau doit être établi dans un délai de six mois après la décision favorable. Pour les opérations de vingt-cinq à quarante-neuf logements, il en est de même quand le maître d'ouvrage demande une majoration du prix de référence pour un ou plusieurs des coefficients d1, d2, d3.
+Pour les opérations de vingt-cinq logements et plus, l'établissement d'un tableau de cotation selon la méthode Qualitel est obligatoire. Ce tableau, établi par l'association Qualitel, doit être transmis à la direction départementale de l'équipement concernée au plus tard un mois après le début du chantier. Il devra en outre être porté à la connaissance de tous les candidats acquéreurs. "
