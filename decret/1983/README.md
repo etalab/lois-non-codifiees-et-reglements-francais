@@ -41,6 +41,8 @@
 - [Décret n°83-285 du 8 avril 1983](decret-n83-285-du-8-avril-1983)
 - [Décret n°83-287 du 8 avril 1983](decret-n83-287-du-8-avril-1983)
 - [Décret n°83-621 du 8 juillet 1983](decret-n83-621-du-8-juillet-1983)
+- [Décret n°83-625 du 8 juillet 1983](decret-n83-625-du-8-juillet-1983)
+- [Décret n°83-626 du 8 juillet 1983](decret-n83-626-du-8-juillet-1983)
 - [Décret n°83-471 du 9 juin 1983](decret-n83-471-du-9-juin-1983)
 - [Décret n°83-473 du 9 juin 1983](decret-n83-473-du-9-juin-1983)
 - [Décret n°83-480 du 9 juin 1983](decret-n83-480-du-9-juin-1983)
