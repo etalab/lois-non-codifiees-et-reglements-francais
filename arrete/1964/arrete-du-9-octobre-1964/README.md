@@ -7,6 +7,5 @@
 - [III : Direction des affaires criminelles et des grâces.](iii)
 - [IV : Direction de l'administration pénitentiaire.](iv)
 - [V : Direction de l'administration générale et de l'équipement.](v)
-- [VI : Direction de l'éducation surveillée.](vi)
 - [Article 46](article-46.md)
 - [Dispositions diverses.](dispositions-diverses)
