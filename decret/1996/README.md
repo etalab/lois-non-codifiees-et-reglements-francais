@@ -57,6 +57,7 @@
 - [Décret n°99-704 du 3 août 1999 (DEFE9955023D)](decret-n99-704-du-3-aout-1999-defe9955023d)
 - [Décret n°96-381 du 3 mai 1996 (TASA9620024D)](decret-n96-381-du-3-mai-1996-tasa9620024d)
 - [Décret n°96-382 du 3 mai 1996 (TASA9620023D)](decret-n96-382-du-3-mai-1996-tasa9620023d)
+- [Décret n°96-1047 du 4 décembre 1996 (JUSB9610343D)](decret-n96-1047-du-4-decembre-1996-jusb9610343d)
 - [Décret n°96-163 du 4 mars 1996 (ENVE9530103D)](decret-n96-163-du-4-mars-1996-enve9530103d)
 - [Décret n°96-165 du 4 mars 1996 (MENL9503094D)](decret-n96-165-du-4-mars-1996-menl9503094d)
 - [Décret n°96-166 du 4 mars 1996 (MENL9503096D)](decret-n96-166-du-4-mars-1996-menl9503096d)
