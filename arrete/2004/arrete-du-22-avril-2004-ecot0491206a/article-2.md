@@ -1,0 +1,3 @@
+# Article 2
+
+La tenue des assemblées des participants d'un plan d'épargne retraite populaire laisse place à des débats et des questions orales ou écrites. Le comité de surveillance du plan peut toutefois décider, si les statuts de l'association souscriptrice du plan le permettent, que les participants peuvent, pour tout ou partie des résolutions mentionnées à l'article 11 du décret du 21 avril 2004 susvisé, voter par correspondance ou par tout autre moyen permettant d'assurer l'authentification ou le contrôle de l'identité des votants ainsi que la confidentialité des échanges de données et leur authentification ou le contrôle de leur intégrité. Les statuts ou le règlement intérieur de l'association précisent les règles techniques de cette consultation.

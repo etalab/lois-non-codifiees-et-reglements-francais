@@ -1,0 +1,3 @@
+# Article 19
+
+Pour l'application des articles R. 332-3 et R. 332-3-1 du code des assurances, des articles R. 931-10-22 et R. 931-10-23 du code de la sécurité sociale ou des articles R. 212-32 et R. 212-33 du code de la mutualité, les engagements à prendre en compte sont, pour les plans qui prévoient une provision technique de diversification, les engagements prévus aux 1°, 2° et 3° de l'article 27 du décret du 21 avril 2004 susvisé ou, pour les autres plans, les provisions mentionnées aux 1°, 2°, 3°, 6° et 7° de l'article R. 331-3 du code des assurances, de l'article R. 931-10-17 du code de la sécurité sociale ou de l'article R. 212-26 du code de la mutualité.

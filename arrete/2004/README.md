@@ -257,6 +257,7 @@
 - [Arrêté du 21 janvier 2004 (SANY0420298A)](arrete-du-21-janvier-2004-sany0420298a)
 - [Arrêté du 21 janvier 2004 (SOCF0410143A)](arrete-du-21-janvier-2004-socf0410143a)
 - [Arrêté du 21 juin 2004 (INTE0400492A)](arrete-du-21-juin-2004-inte0400492a)
+- [Arrêté du 22 avril 2004 (ECOT0491206A)](arrete-du-22-avril-2004-ecot0491206a)
 - [Arrêté du 22 décembre 2003 (SOCF0312093A)](arrete-du-22-decembre-2003-socf0312093a)
 - [Arrêté du 22 décembre 2003 (SOCF0312094A)](arrete-du-22-decembre-2003-socf0312094a)
 - [Arrêté du 22 décembre 2003 (SOCF0312095A)](arrete-du-22-decembre-2003-socf0312095a)
