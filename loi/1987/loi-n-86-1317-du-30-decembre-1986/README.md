@@ -13,6 +13,7 @@
 - [Article 22](article-22.md)
 - [Article 24](article-24.md)
 - [Article 26](article-26.md)
+- [Article 32](article-32.md)
 - [Article 38](article-38.md)
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)
