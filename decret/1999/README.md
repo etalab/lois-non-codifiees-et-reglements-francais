@@ -900,7 +900,6 @@
 - [Décret n°99-691 du 30 juillet 1999 (FPPA9900103D)](decret-n99-691-du-30-juillet-1999-fppa9900103d)
 - [Décret n°99-741 du 30 août 1999 (MESP9922272D)](decret-n99-741-du-30-aout-1999-mesp9922272d)
 - [Décret n°99-745 du 30 août 1999 (FPPA9900107D)](decret-n99-745-du-30-aout-1999-fppa9900107d)
-- [Décret n°99-747 du 30 août 1999 (MENS9901656D)](decret-n99-747-du-30-aout-1999-mens9901656d)
 - [Décret n°99-752 du 30 août 1999 (EQUT9900775D)](decret-n99-752-du-30-aout-1999-equt9900775d)
 - [Décret n°99-848 du 30 septembre 1999 (DEFP9901325D)](decret-n99-848-du-30-septembre-1999-defp9901325d)
 - [Décret n°99-977 du 30 novembre 1999 (MEST9911604D)](decret-n99-977-du-30-novembre-1999-mest9911604d)
