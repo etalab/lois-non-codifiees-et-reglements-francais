@@ -12,7 +12,7 @@ Après avis du conseil des maîtres, il arrête le service des instituteurs et p
 
 Il organise le travail des personnels communaux en service à l'école qui, pendant leur service dans les locaux scolaires, sont placés sous son autorité.
 
-Il organise les élections des délégués des parents d'élèves au conseil d'école ; il réunit et préside le conseil des maîtres et le conseil d'école ainsi qu'il est prévu à l'article 17 du décret du 28 décembre 1976 susvisé.
+Il organise les élections des délégués des parents d'élèves au conseil d'école ; il réunit et préside le conseil des maîtres et le conseil d'école ainsi qu'il est prévu aux article 14 et 17 du décret n° 90-788 du 6 septembre 1990 relatif à l'organisation et au fonctionnement des écoles maternelles et élémentaires.
 
 Il prend toute disposition utile pour que l'école assure sa fonction de service public. A cette fin, il organise l'accueil et la surveillance des élèves et le dialogue avec leurs familles.
 

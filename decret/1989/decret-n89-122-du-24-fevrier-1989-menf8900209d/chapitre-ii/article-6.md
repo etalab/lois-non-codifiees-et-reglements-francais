@@ -1,5 +1,5 @@
 # Article 6
 
-Il est établi chaque année une liste d'aptitude par département.
+Il est établi chaque année une liste d'aptitude par département. L'inscription sur une liste d'aptitude départementale demeure valable durant trois années scolaires.
 
-Cette liste d'aptitude est arrêtée par l'inspecteur d'académie, directeur des services départementaux de l'éducation, au vu des avis prévus aux articles 8 et 9 ci-dessous et après avis de la commission administrative paritaire départementale unique compétente, à l'égard des instituteurs et des professeurs des écoles.
+Sauf dans les cas prévus aux deuxième et troisième alinéas de l'article 7, cette liste d'aptitude est arrêtée par l'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, dans les conditions fixées aux articles 8 et 9 et après avis de la commission administrative paritaire départementale mentionnée à l'article 10.
