@@ -1,6 +1,6 @@
 # Article 4
 
-Le directeur est nommé, pour une période renouvelable de trois ans, par décret  pris sur la proposition du ministre chargé de la culture.
+Le directeur est nommé par décret pour un mandat de cinq ans renouvelable par  périodes de trois ans.
 
 Il est  responsable de l'ensemble des activités du théâtre. Il est l'ordonnateur  principal des dépenses et des recettes de l'établissement. Il représente le  Théâtre national de l'Odéon en justice.
 
