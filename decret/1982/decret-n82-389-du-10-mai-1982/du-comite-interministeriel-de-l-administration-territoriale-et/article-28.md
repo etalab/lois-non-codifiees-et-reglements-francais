@@ -1,0 +1,3 @@
+# Article 28
+
+Toutes les commissions à caractère administratif dont la compétence s'exerce à l'échelon du département et qui ont été créées par un texte réglementaire sont supprimées au terme du sixième mois suivant la promulgation de la loi relative à la répartition des compétences entre l'Etat, les communes, les départements et les régions prévue par l'article 1er de la loi du 2 mars 1982 précitée, à l'exception de celles qui auront fait l'objet, pendant ce délai, d'un décret prévoyant leur maintien et pris après avis du comité interministériel institué à l'article 25.

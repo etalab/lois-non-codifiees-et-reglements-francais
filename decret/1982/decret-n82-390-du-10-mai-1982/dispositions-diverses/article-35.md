@@ -1,0 +1,3 @@
+# Article 35
+
+Tous les organismes de mission créés par un texte réglementaire exerçant des compétences à caractère régional ou interrégional et relevant directement d'une administration centrale, sont supprimés au terme du sixième mois suivant la promulgation de la loi relative à la répartition des compétences entre l'Etat, les communes, les départements et les régions prévue par l'article 1er de la loi du 2 mars 1982 susvisée, à l'exception de ceux qui auront fait l'objet, pendant ce délai, d'un décret prévoyant leur maintien et pris après avis du comité interministériel institué à l'article 25 du décret du 10 mai 1982 précité.

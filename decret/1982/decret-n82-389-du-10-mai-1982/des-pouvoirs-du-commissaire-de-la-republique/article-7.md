@@ -1,0 +1,3 @@
+# Article 7
+
+Les dispositions de l'article 6 ne s'appliquent pas, sous réserve des attributions dévolues au commissaire de la République en ce qui concerne les investissements de l'ensemble des services de l'Etat dans le département, à l'exercice des missions relatives au contenu et à l'organisation de l'action éducatrice ainsi qu'à la gestion des personnels et des établissements qui y concourent, aux actions d'inspection de la législation du travail, au paiement des dépenses publiques, à la détermination de l'assiette et au recouvrement des impôts et des recettes publiques ainsi qu'aux évaluations domaniales et à la fixation des conditions financières des opérations de gestion et d'aliénation des biens de l'Etat et aux modalités d'établissement des statistiques.
