@@ -1,0 +1,9 @@
+# Article 2
+
+Le ministre du développement économique et du Plan dispose, pour l'exercice de ses attributions, du Commissariat général du Plan. Il dispose également, en tant que de besoin, de la Délégation à l'aménagement du territoire et à l'action régionale ainsi que de la direction de la prévision et de la direction générale de l'Institut national de la statistique et des études économiques du ministère de l'économie et des finances, de la direction des affaires économiques et internationales du ministère de l'aménagement du territoire, de l'équipement et des transports et de la direction générale des stratégies industrielles du ministère de l'industrie.
+
+Par délégation du Premier ministre, il préside le comité pour la compétitivité et la sécurité économique.
+
+Il participe au comité interministériel de l'aménagement et du développement du territoire, au comité interministériel pour l'administration territoriale et au comité interministériel de la ville et du développement social urbain.
+
+Il peut faire appel, en tant que de besoin, pour ses attributions en matière de planification et d'évaluation, aux services de l'ensemble des ministères concernés et, pour ses autres attributions, aux services du ministère de l'économie et des finances, du ministère de l'éducation nationale, de l'enseignement supérieur, de la recherche et de l'insertion professionnelle, du ministère de l'aménagement du territoire, de l'équipement et des transports, du ministère des affaires étrangères, du ministère du travail, du dialogue social et de la participation, du ministère de l'agriculture, de la pêche et de l'alimentation, du ministère de l'industrie, du ministère des petites et moyennes entreprises, du commerce et de l'artisanat et du ministère des technologies de l'information et de la poste.

@@ -1,0 +1,3 @@
+# Article 4
+
+Le Premier ministre, le ministre de l'économie et des finances, le ministre de l'aménagement du territoire, de l'équipement et des transports, le ministre du travail, du dialogue social et de la participation, le ministre du développement économique et du Plan, le ministre de l'agriculture, de la pêche et de l'alimentation, le ministre de l'industrie, le ministre des petites et moyennes entreprises, du commerce et de l'artisanat et le ministre du tourisme sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
