@@ -1,0 +1,5 @@
+# Article 2
+
+I. - Les organismes mentionnés au I de l'article 2 de la même ordonnance communiquent les comptes séparés définis au même I soit au ministre de l'intérieur lorsque les missions de service public dont ils sont chargés ou les droits exclusifs ou spéciaux dont ils bénéficient leur ont été attribués par des collectivités territoriales ou leurs établissements publics, soit au ministre chargé de l'économie ou, le cas échéant, à un autre ministre de tutelle, lorsque les missions de service public dont ils sont chargés ou les droits exclusifs ou spéciaux dont ils bénéficient leur ont été attribués par l'Etat, lorsque ces ministres leur demandent ces comptes.
+
+II. - Les seuils mentionnés au 2° du IV du même article sont, pendant les deux exercices annuels précédant chaque année au titre de laquelle les droits exclusifs ou spéciaux sont accordés ou les missions de service public confiées, de 40 millions d'euros de montant net annuel du chiffre d'affaires ou, pour ce qui concerne les établissements de crédit publics, de 800 millions d'euros de total du bilan.
