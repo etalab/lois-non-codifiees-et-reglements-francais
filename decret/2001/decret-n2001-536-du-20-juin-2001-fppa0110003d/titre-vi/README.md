@@ -1,0 +1,3 @@
+# TITRE VI : DISPOSITIONS TRANSITOIRES ET FINALES.
+
+- [Article 20](article-20.md)

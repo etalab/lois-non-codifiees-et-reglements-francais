@@ -17,3 +17,5 @@ Les modalités des épreuves qui sanctionneront cet enseignement.
 Les directeurs des écoles dispensant cet enseignement sont nommés après agrément du préfet de région, qui consulte la commission des infirmiers du Conseil supérieur des professions paramédicales.
 
 Les directeurs scientifiques sont agréés par le préfet de région.
+
+Le silence gardé pendant plus de quatre mois sur les demandes d'agrément prévues aux deux alinéas précédents vaut décision de rejet.
