@@ -153,6 +153,7 @@
 - [Décret n°82-665 du 22 juillet 1982](decret-n82-665-du-22-juillet-1982)
 - [Décret n°82-71 du 22 janvier 1982](decret-n82-71-du-22-janvier-1982)
 - [Décret n°82-72 du 22 janvier 1982](decret-n82-72-du-22-janvier-1982)
+- [Décret n°82-804 du 22 septembre 1982](decret-n82-804-du-22-septembre-1982)
 - [Décret n°82-260 du 23 mars 1982](decret-n82-260-du-23-mars-1982)
 - [Décret n°82-263 du 23 mars 1982](decret-n82-263-du-23-mars-1982)
 - [Décret n°82-291 du 23 mars 1982](decret-n82-291-du-23-mars-1982)
