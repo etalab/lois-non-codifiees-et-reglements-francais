@@ -1,3 +1,3 @@
 # Article 2
 
-Les obligations seront émises avec jouissance du 7 février 1983 et rapporteront un intérêt annuel de 15,20 p. 100 payable à terme échu le 7 février de chaque année, le premier coupon étant payable le 7 février 1984.
+La commission [*composition*] prévue à l'article 5 de l'arrêté du 7 juillet 1982 est constituée de cinq représentants du ministère de l'environnement et d'un représentant de chacun des ministères de l'intérieur et de la décentralisation, de l'agriculture, de la recherche et de l'industrie, de la santé, de la mer ainsi qu'un représentant des agences financières de bassin et quatre représentants des laboratoires agréés. Un représentant du ministère de l'environnement assure la présidence de la commission.

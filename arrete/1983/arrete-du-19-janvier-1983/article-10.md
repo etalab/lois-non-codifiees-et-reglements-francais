@@ -1,8 +1,8 @@
 # Article 10
 
-L'émission sera ouverte le 24 janvier 1983 et sera close sans préavis.
+L'émission sera ouverte le 24 janvier 1983 [*date*] et sera close sans préavis.
 
-Les souscriptions seront reçues aux caisses désignées ci-après :
+Les souscriptions seront reçues aux caisses désignées ci-après [*lieu de souscription*] :
 
 Comptables directs du Trésor et leurs correspondants ;
 

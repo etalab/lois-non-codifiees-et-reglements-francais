@@ -1,4 +1,4 @@
-# Arrêté du 19 janvier 1983 relatif aux modalités d'agrément des laboratoires pour certains types d'analyses des eaux
+# Décret n°83-89 du 11 février 1983 relatif à l'émission de l'emprunt d'Etat 14,60 p 100 février 1983
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,5 +8,4 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Article 9](article-9.md)
 - [Article 10](article-10.md)
