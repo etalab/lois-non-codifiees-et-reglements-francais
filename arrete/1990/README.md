@@ -14,6 +14,8 @@
 - [Arrêté du 7 décembre 1989 (RESY8900367A)](arrete-du-7-decembre-1989-resy8900367a)
 - [Arrêté du 8 août 1990 (SPSH9001687A)](arrete-du-8-aout-1990-spsh9001687a)
 - [Arrêté du 8 février 1990 (INDA9000053A)](arrete-du-8-fevrier-1990-inda9000053a)
+- [Arrêté du 8 janvier 1990 (ECOT8910056A)](arrete-du-8-janvier-1990-ecot8910056a)
+- [Arrêté du 9 janvier 1990 (ECOC9000005A)](arrete-du-9-janvier-1990-ecoc9000005a)
 - [Arrêté du 9 janvier 1990 (ECOT8920131A)](arrete-du-9-janvier-1990-ecot8920131a)
 - [Arrêté du 10 janvier 1990 (ECOT8910062A)](arrete-du-10-janvier-1990-ecot8910062a)
 - [Arrêté du 10 janvier 1990 (PRMX9010020A)](arrete-du-10-janvier-1990-prmx9010020a)
