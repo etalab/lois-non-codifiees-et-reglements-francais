@@ -817,7 +817,6 @@
 - [Arrêté du 28 juin 1990 (BUDL9000138A)](arrete-du-28-juin-1990-budl9000138a)
 - [Arrêté du 28 juin 1990 (COPC9000064A)](arrete-du-28-juin-1990-copc9000064a)
 - [Arrêté du 28 juin 1990 (MENK9070010A)](arrete-du-28-juin-1990-menk9070010a)
-- [Arrêté du 28 juin 1990 (SPSH9001243A)](arrete-du-28-juin-1990-spsh9001243a)
 - [Arrêté du 28 juin 1990 (SPSH9001244A)](arrete-du-28-juin-1990-spsh9001244a)
 - [Arrêté du 28 juin 1990 (SPSH9001245A)](arrete-du-28-juin-1990-spsh9001245a)
 - [Arrêté du 28 juin 1990 (SPSH9001246A)](arrete-du-28-juin-1990-spsh9001246a)
