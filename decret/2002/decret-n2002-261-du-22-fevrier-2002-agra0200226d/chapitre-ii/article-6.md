@@ -12,7 +12,7 @@ Leur recrutement a lieu exclusivement :
 
 4. Pour 20 % des places, par concours ouvert :
 
-a) Aux élèves des écoles nationales supérieures agronomiques mentionnées à l'article R. 812-14 du code rural à l'exception de son a, de l'Ecole nationale supérieure des industries agricoles et alimentaires et de l'Ecole nationale supérieure du paysage, qui, titulaires du diplôme sanctionnant la deuxième année de scolarité de ces écoles, ont été admis en troisième année de scolarité et préparent le diplôme sanctionnant celle-ci ;
+a) Aux élèves des écoles nationales supérieures agronomiques mentionnées à l'article R. 812-14 du code rural à l'exception de son a, de l'Ecole nationale supérieure des industries agricoles et alimentaires et de l'Ecole nationale supérieure de l'horticulture et de l'aménagement du paysage, qui, titulaires du diplôme sanctionnant la deuxième année de scolarité de ces écoles, ont été admis en troisième année de scolarité et préparent le diplôme sanctionnant celle-ci ;
 
 b) Aux élèves des écoles nationales vétérinaires qui, admis en dernière année du deuxième cycle d'études de ces écoles, préparent le diplôme d'études fondamentales vétérinaires.
 
@@ -20,7 +20,7 @@ La nomination en qualité d'ingénieur-élève des lauréats des concours mentio
 
 A défaut d'un nombre suffisant de candidats admis au titre de l'une de ces quatre catégories, il peut être pourvu aux places restant vacantes par appel, dans le respect des proportions mentionnées ci-dessus, à des candidats des autres catégories ;
 
-5. Pour 20 % des places, par voie de concours ouvert aux fonctionnaires des corps d'ingénieurs mentionnés au 2° du I de l'article 5 ci-dessus ainsi qu'aux fonctionnaires du corps des professeurs agrégés en fonction au ministère de l'agriculture ou dans les établissements publics d'engagement agricole depuis au moins trois ans.
+5. Pour 20 % des places, par voie de concours ouvert aux fonctionnaires des corps d'ingénieurs mentionnés au 2° du I de l'article 5 ci-dessus ainsi qu'aux fonctionnaires du corps des professeurs agrégés en fonction au ministère de l'agriculture ou dans les établissements publics d'enseignement agricole depuis au moins trois ans.
 
 Les agents mentionnés au 5 doivent justifier au 1er octobre de l'année du concours d'au moins cinq années de services effectifs dans l'un ou plusieurs des corps mentionnés dans cet alinéa. Nul ne peut être admis à se présenter plus de trois fois à ce concours.
 
