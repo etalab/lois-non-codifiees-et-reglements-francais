@@ -12,11 +12,11 @@ Professeurs d'éducation physique et sportive (décret n° 80-627 du 4 août 198
 
 Conseillers principaux d'éducation (décret n° 70-738 du 12 août 1970 modifié).
 
-Conseillers d'orientation - psychologues et directeurs de centre d'information et d'orientation (décret n° 91-290 du 20 mars 1991).
+Conseillers d'orientation-psychologues et directeurs de centre d'information et d'orientation (décret n° 91-290 du 20 mars 1991).
 
 professeurs de lycée professionnel (décret n° 92-1189 du 6 novembre 1992) ;
 
-Personnels d'enseignement supérieur  : professeurs, professeurs techniques adjoints et chefs de travaux pratiques de l'Ecole nationale supérieure d'arts et métiers (décret n° 88-651 du 6 mai 1988 modifié).
+Personnels d'enseignement supérieur : professeurs, professeurs techniques adjoints et chefs de travaux pratiques de l'Ecole nationale supérieure d'arts et métiers (décret n° 88-651 du 6 mai 1988 modifié).
 
 PERSONNELS DE SANTÉ
 
@@ -45,3 +45,17 @@ Maître ouvrier des établissements d'enseignement du ministère de l'éducation
 Ouvrier professionnel des établissements d'enseignement du ministère de l'éducation nationale (décret n° 91-462 du 14 mai 1991 modifié).
 
 Ouvrier d'entretien et d'accueil des établissements d'enseignement du ministère de l'éducation nationale (décret n° 91-462 du 14 mai 1991 modifié).
+
+PERSONNELS DES BIBLIOTHEQUES
+
+Bibliothécaires (décret n° 92-29 du 9 janvier 1992).
+
+Bibliothécaires adjoints spécialisés (décret n° 92-30 du 9 janvier 1992).
+
+Bibliothécaires adjoints (décret n° 95-120 du 2 février 1995 modifié).
+
+Inspecteurs de magasinage (décret n° 88-646 du 6 mai 1988 modifié).
+
+Magasiniers en chef (décret n° 88-646 du 6 mai 1988 modifié).
+
+Magasiniers spécialisés (décret n° 88-646 du 6 mai 1988 modifié).
