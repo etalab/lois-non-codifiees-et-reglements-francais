@@ -87,7 +87,6 @@
 - [Arrêté du 14 novembre 1985](arrete-du-14-novembre-1985)
 - [Arrêté du 14 octobre 1985](arrete-du-14-octobre-1985)
 - [Arrêté du 14 mai 1985](arrete-du-14-mai-1985)
-- [Arrêté du 15 avril 1985](arrete-du-15-avril-1985)
 - [Arrêté du 15 janvier 1985](arrete-du-15-janvier-1985)
 - [Arrêté du 15 octobre 1985](arrete-du-15-octobre-1985)
 - [Arrêté du 15 mai 1985](arrete-du-15-mai-1985)
