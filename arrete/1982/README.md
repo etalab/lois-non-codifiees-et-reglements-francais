@@ -86,7 +86,6 @@
 - [Arrêté du 19 avril 1982](arrete-du-19-avril-1982)
 - [Arrêté du 19 mars 1982](arrete-du-19-mars-1982)
 - [Arrêté du 19 novembre 1982](arrete-du-19-novembre-1982)
-- [Arrêté du 19 mai 1982](arrete-du-19-mai-1982)
 - [Arrêté du 20 avril 1982](arrete-du-20-avril-1982)
 - [Arrêté du 20 janvier 1982](arrete-du-20-janvier-1982)
 - [Arrêté du 20 juillet 1982](arrete-du-20-juillet-1982)
