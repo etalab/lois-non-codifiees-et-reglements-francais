@@ -7,3 +7,5 @@ Toutefois, la vérification de la conformité au règlement du COFRAC impliquant
 L'agrément provisoire a une validité d'un an prorogeable, le ftm échéant, pour au plus deux périodes de six mois, au vu de l'avancement de la procédure d'accréditation.
 
 Tout organisme non agréé au sens du premier alinéa du présent article doit cesser d'intervenir dans le cadre des activités de vérification prévues par le présent arrêté, à l'issue de la validité de son agrément provisoire.
+
+Les agréments provisoires définis ci-dessus dont la validité est arrivée à échéance après avoir épuisé les possibilités de renouvellements peuvent être reconduits, de façon exceptionnelle, sans que leur validité puisse dépasser le 31 décembre 2001.
