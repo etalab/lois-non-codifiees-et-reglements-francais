@@ -1,3 +1,3 @@
 # Article 72
 
-Les compagnies financières sont des sociétés commerciales qui ont pour activité principale de prendre et gérer des participations et qui, soit directement, soit par l'intermédiaire de sociétés ayant le même objet, contrôlent plusieurs établissements de crédit dont au moins une banque.
+Les compagnies financières sont des établissements financiers, au sens du 4° de l'article 71-1 de la présente loi, qui ont pour filiales, exclusivement ou principalement, un ou plusieurs établissements de crédit ou établissements financiers. L'une au moins de ces filiales est un établissement de crédit.

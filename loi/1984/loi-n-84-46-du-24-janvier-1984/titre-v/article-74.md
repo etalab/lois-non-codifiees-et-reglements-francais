@@ -1,9 +1,7 @@
 # Article 74
 
-La commission bancaire veille à ce que les compagnies financières n'ayant pas le statut d'établissement de crédit respectent l'obligation instituée au deuxième alinéa de l'article 73 ci-dessus.
+La commission bancaire veille à ce que les compagnies financières respectent les obligations instituées par l'article 73 de la présente loi.
 
-Elle exerce son contrôle sur ces compagnies financières dans les conditions prévues aux articles 40 et 41 de la présente loi.
+S'il apparaît qu'une compagnie financière a enfreint les dispositions de l'article précédent, la commission bancaire peut prononcer à l'encontre de celle-ci l'une des sanctions prévues aux 1° et 2° de l'article 45 de la présente loi.
 
-S'il apparaît qu'une compagnie financière visée à l'article 73 a enfreint les dispositions du deuxième alinéa dudit article, la commission bancaire peut lui adresser un blâme.
-
-La commission bancaire peut prononcer, soit à la place, soit en sus de cette sanction disciplinaire, une sanction pécuniaire au plus égale au capital minimum auquel est astreinte la banque dont la compagnie financière détient le contrôle. Lorsque la compagnie financière détient le contrôle de plusieurs banques, le plafond de l'amende est déterminé par référence au capital de la banque qui est astreinte au capital minimum le plus élevé.
+La commission bancaire peut prononcer soit à la place, soit en sus de ces sanctions disciplinaires, une sanction pécuniaire dont le montant est au plus égal au capital minimum auquel est astreint l'établissement de crédit qui est la filiale de la compagnie financière. Lorsque la compagnie financière détient plusieurs filiales qui sont des établissements de crédit, le plafond de l'amende est déterminé par référence au capital de l'établissement de crédit qui est astreint au capital minimum le plus élevé.
