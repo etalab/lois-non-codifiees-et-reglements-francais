@@ -26,8 +26,6 @@ Extraits de viande.
 
 Saindoux et graisses animales fondues telles que définies à la directive 77/99/CEE susvisée.
 
-Gélatines destinées à la consommation humaine.
-
 Gélatines non destinées à la consommation humaine.
 
 Protéines animales transformées destinées à l'alimentation humaine.
