@@ -8,10 +8,12 @@ Les titres permettant d'exercer des fonctions de capitaine ou d'officier sur les
 
 1.2. Brevet de patron de pêche.
 
-2. Fonction d'officier :
+2. Fonctions d'officier.
 
-2.1. Brevet de lieutenant de pêche ;
+2.1. Brevet de lieutenant de pêche.
 
-2.2. Brevet d'officier mécanicien de 3ème classe électromotoriste ;
+2.2. Brevet d'officier mécanicien à la pêche.
 
-2.3. Certificat de motoriste à la pêche.
+2.3. Brevet d'officier mécanicien de 3e classe électromotoriste.
+
+2.4. Certificat de motoriste à la pêche.
