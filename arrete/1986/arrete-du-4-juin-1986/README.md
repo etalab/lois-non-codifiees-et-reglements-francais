@@ -1,9 +1,13 @@
-# Arrêté du 4 juin 1986 fixant les conditions d'émission des obligations P.T.T. 1986
+# Arrêté du 4 juin 1986 relatif au livre généalogique des races françaises de chevaux de selle
 
+- [Titre 1er : Stud-book français du cheval arabe.](titre-1er)
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
+- [Titre II : Stud-book de l'anglo-arabe.](titre-ii)
 - [Article 3](article-3.md)
+- [Titre III : Stud-book du cheval de selle français.](titre-iii)
 - [Article 4](article-4.md)
+- [Titre IV : Dispositions finales.](titre-iv)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
@@ -11,3 +15,4 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
+- [Article 25](article-25.md)

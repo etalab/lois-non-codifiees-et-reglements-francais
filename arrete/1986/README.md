@@ -107,6 +107,7 @@
 - [Arrêté du 24 juin 1986](arrete-du-24-juin-1986)
 - [Arrêté du 25 avril 1986](arrete-du-25-avril-1986)
 - [Arrêté du 25 février 1986](arrete-du-25-fevrier-1986)
+- [Arrêté du 25 juillet 1986](arrete-du-25-juillet-1986)
 - [Arrêté du 25 juin 1986](arrete-du-25-juin-1986)
 - [Arrêté du 25 mars 1986](arrete-du-25-mars-1986)
 - [Arrêté du 26 février 1986](arrete-du-26-fevrier-1986)

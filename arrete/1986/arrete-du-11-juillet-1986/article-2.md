@@ -1,3 +1,3 @@
 # Article 2
 
-Les remboursements auxquels peut prétendre la Caisse autonome nationale de la sécurité sociale dans les mines sont assurés dans les conditions fixées par la convention du 19 décembre 1985 susvisée.
+Le présent arrêté sera publié au Journal officiel de la République française.
