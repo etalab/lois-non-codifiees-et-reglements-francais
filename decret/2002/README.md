@@ -130,6 +130,7 @@
 - [Décret n°2003-183 du 3 mars 2003 (EQUA0201887D)](decret-n2003-183-du-3-mars-2003-equa0201887d)
 - [Décret n°2003-315 du 3 avril 2003 (PRMX0306498D)](decret-n2003-315-du-3-avril-2003-prmx0306498d)
 - [Décret n°2005-1254 du 3 octobre 2005 (EQUP0501295D)](decret-n2005-1254-du-3-octobre-2005-equp0501295d)
+- [Décret n°87-496 du 3 juillet 1987 (MENF8700319D)](decret-n87-496-du-3-juillet-1987-menf8700319d)
 - [Décret n°2002-715 du 3 mai 2002 (ECOP0100646D)](decret-n2002-715-du-3-mai-2002-ecop0100646d)
 - [Décret n°2002-722 du 3 mai 2002 (MESP0221263D)](decret-n2002-722-du-3-mai-2002-mesp0221263d)
 - [Décret n°2002-723 du 3 mai 2002 (MESP0221495D)](decret-n2002-723-du-3-mai-2002-mesp0221495d)
