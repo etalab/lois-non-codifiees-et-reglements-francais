@@ -1,0 +1,5 @@
+# Article 3
+
+Les conseils visés à l'article 1er sont présidés par le chef de corps, le commandant d'unité ou le commandant de base dont relève le postulant. Ils comprennent en outre deux officiers et deux sous-officiers ou officiers mariniers de carrière d'un grade au moins égal à celui de ce dernier, désignés par le président.
+
+Lorsque le président ne dispose pas, parmi les militaires placés sous son commandement, d'un nombre suffisant d'officiers, de sous-officiers ou d'officiers mariniers remplissant les conditions requises de grade, il procède, avec l'accord de l'autorité qui lui est immédiatement supérieure, aux désignations nécessaires parmi les officiers, sous-officiers ou officiers mariniers relevant de ladite autorité. Toutefois, à bord des bâtiments de la marine, lorsque les effectifs ne permettent pas d'obtenir la composition fixée aux alinéas précédents, un conseil réduit aux officiers et aux officiers mariniers de carrière d'un grade supérieur à celui du postulant présents à l'unité peut être constitué en vue d'émettre un avis sur les demandes de renouvellement d'engagement.
