@@ -495,7 +495,6 @@
 - [Arrêté du 14 décembre 1995 (EQUT9501797A)](arrete-du-14-decembre-1995-equt9501797a)
 - [Arrêté du 14 décembre 1995 (TASS9523475A)](arrete-du-14-decembre-1995-tass9523475a)
 - [Arrêté du 14 février 1995 (RESM9500196A)](arrete-du-14-fevrier-1995-resm9500196a)
-- [Arrêté du 14 février 1996 (ECOT9640307A)](arrete-du-14-fevrier-1996-ecot9640307a)
 - [Arrêté du 14 février 1996 (EQUS9600281A)](arrete-du-14-fevrier-1996-equs9600281a)
 - [Arrêté du 14 février 1996 (TASS9523408A)](arrete-du-14-fevrier-1996-tass9523408a)
 - [Arrêté du 14 janvier 1991 (AGRE9002632A)](arrete-du-14-janvier-1991-agre9002632a)

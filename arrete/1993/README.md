@@ -202,7 +202,6 @@
 - [Arrêté du 8 février 1993 (INTE9300120A)](arrete-du-8-fevrier-1993-inte9300120a)
 - [Arrêté du 8 février 1993 (PTTR9300055A)](arrete-du-8-fevrier-1993-pttr9300055a)
 - [Arrêté du 8 février 1993 (PTTR9300056A)](arrete-du-8-fevrier-1993-pttr9300056a)
-- [Arrêté du 8 février 1993 (PTTR9300069A)](arrete-du-8-fevrier-1993-pttr9300069a)
 - [Arrêté du 8 janvier 1993 (AGRG9300036A)](arrete-du-8-janvier-1993-agrg9300036a)
 - [Arrêté du 8 janvier 1993 (COMK9206003A)](arrete-du-8-janvier-1993-comk9206003a)
 - [Arrêté du 8 janvier 1993 (SPSI9300037A)](arrete-du-8-janvier-1993-spsi9300037a)
