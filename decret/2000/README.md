@@ -15,6 +15,7 @@
 - [Décret n°2000-1008 du 16 octobre 2000 (INTE0000270D)](decret-n2000-1008-du-16-octobre-2000-inte0000270d)
 - [Décret n°99-1060 du 16 décembre 1999 (ECOX9900106D)](decret-n99-1060-du-16-decembre-1999-ecox9900106d)
 - [Décret n°2000-664 du 17 juillet 2000 (ECOT9926256D)](decret-n2000-664-du-17-juillet-2000-ecot9926256d)
+- [Décret n°2000-670 du 17 juillet 2000 (MAEA0020233D)](decret-n2000-670-du-17-juillet-2000-maea0020233d)
 - [Décret n°89-241 du 18 avril 1989 (SPSH8900705D)](decret-n89-241-du-18-avril-1989-spsh8900705d)
 - [Décret n°2000-43 du 20 janvier 2000 (FPPA9910019D)](decret-n2000-43-du-20-janvier-2000-fppa9910019d)
 - [Décret n°2000-45 du 20 janvier 2000 (FPPA9910021D)](decret-n2000-45-du-20-janvier-2000-fppa9910021d)
