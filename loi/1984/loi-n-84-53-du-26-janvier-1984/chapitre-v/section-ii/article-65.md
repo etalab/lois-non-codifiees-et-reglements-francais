@@ -1,6 +1,6 @@
 # Article 65
 
-Le fonctionnaire détaché ne peut, sauf dans le cas où le détachement a été prononcé auprès d'organismes internationaux ou pour exercer une fonction publique élective, être affilié au régime de retraite dont relève la fonction de détachement, ni acquérir, à ce titre, des droits quelconques à pensions ou allocations, sous peine de la suspension de la pension de la Caisse nationale de retraite des agents des collectivités locales.
+Le fonctionnaire détaché ne peut, sauf dans le cas où le détachement a été prononcé dans une administration ou un organisme implanté sur le territoire d'un Etat étranger ou auprès d'organismes internationaux ou pour exercer une fonction publique élective, être affilié au régime de retraite dont relève la fonction de détachement, ni acquérir, à ce titre, des droits quelconques à pensions ou allocations, sous peine de la suspension de la pension de la Caisse nationale de retraite des agents des collectivités locales.
 
 Il reste tributaire de la Caisse nationale de retraite des agents des collectivités locales et effectue les versements fixés par le règlement de cette caisse sur le traitement afférent à son grade et à son échelon dans le service dont il est détaché.
 
