@@ -1,3 +1,3 @@
 # Article 4
 
-La présence dans les produits alimentaires des additifs faisant l'objet du présent arrêté doit être signalée dans l'étiquetage conformément aux dispositions concernant l'étiquetage et la présentation des denrées alimentaires.
+En cours de séance, la commission peut désigner en son sein des sous-commissions pour procéder aux achats qui n'auront pas pu être conclus à ladite séance.
