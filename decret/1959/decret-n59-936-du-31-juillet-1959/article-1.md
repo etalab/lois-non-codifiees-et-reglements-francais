@@ -1,0 +1,3 @@
+# Article 1
+
+Les syndicats mixtes créés en application de l'article 4 du décret susvisé n° 55-606 du 20 mai 1955 peuvent être autorisés à exécuter, avec les mêmes droits que les communes, les départements et leurs groupements, notamment en ce qui concerne la participation des intéressés, les travaux prévus au décret du 30 octobre 1955 relatif au curage des cours d'eau, à l'article 175 du Code dural, à l'article 1er du décret du 12 novembre 1938 relatif à la défense contre les eaux, aux articles 45 et 47 du Code des voies navigables et de la navigation intérieure, à l'article 327 du Code de l'administration communale.

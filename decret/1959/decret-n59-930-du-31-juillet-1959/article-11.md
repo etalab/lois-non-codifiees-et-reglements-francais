@@ -1,0 +1,3 @@
+# Article 11
+
+Dès l'arrivée des chargements, les destinataires sont tenus de souscrire à la recette buraliste des contributions indirectes une déclaration d'arrivée et de déposer les acquits-à-caution ayant accompagné les produits [*obligation*]. Ils doivent conserver les colis intacts, et éventuellement sous plombs, jusqu'à la reconnaissance du service des contributions indirectes.  Si, après le dépôt des acquits à la recette buraliste des contributions indirectes, le service ne s'est pas présenté dans les vingt-quatre ou les quarante-huit heures, selon qu'il existe ou non un poste d'agents dans la localité, les destinataires peuvent disposer des produits.
