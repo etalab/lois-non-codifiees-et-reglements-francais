@@ -1,5 +1,5 @@
 # Article 66
 
-Ont également droit, dès l'âge de cinquante ans, à l'allocation prévue à l'article 65 les marins ou anciens marins reconnus atteints d'une maladie professionnelle provoquée par l'amiante et figurant sur une liste établie par arrêté des ministres chargés du budget et de la marine marchande.
+Le bénéfice du présent décret est étendu aux marins de nationalité française engagés pour servir à bord d'un navire battant pavillon d'une colonie, d'un pays de protectorat ou d'un territoire sous mandat.
 
-L'allocation est servie par décision du directeur de l'Etablissement national des invalides de la marine dès que le demandeur a été reconnu atteint d'une des maladies mentionnées ci-dessus. Elle est supprimée lorsque le bénéficiaire remplit les conditions pour bénéficier d'une pension proportionnelle ou spéciale sur la caisse de retraite des marins.
+Des décrets rendus sur la proposition du ministre chargé de la marine marchande et du ministre des finances pourront accorder le bénéfice du présent décret aux marins français embarqués sur certains bâtiments portant pavillon étranger ou autorisés exceptionnellement à naviguer sous pavillon français.

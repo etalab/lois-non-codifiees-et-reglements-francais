@@ -1,0 +1,3 @@
+# Article 21-1
+
+Dans le cas où le marin avait été admis au bénéfice des dispositions de l'article 17, dernier alinéa, du présent décret et, à la date de son décès, avait été titulaire, pendant au moins une durée égale à celle qui est fixée pour l'application du quatrième alinéa de l'article L. 489 du Code de la sécurité sociale, de la majoration pour assistance d'une tierce personne, le décès est présumé résulter des conséquences de l'accident pour l'appréciation de la demande de l'ayant droit qui justifie avoir apporté effectivement cette assistance à la victime pendant la même durée. A défaut pour la caisse d'apporter la preuve contraire, l'imputabilité du décès à l'accident est réputée établie à l'égard de l'ensemble des ayants droit.

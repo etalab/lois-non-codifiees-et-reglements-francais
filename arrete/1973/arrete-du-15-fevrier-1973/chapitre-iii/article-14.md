@@ -28,43 +28,47 @@ A. - Ces participations sont indemnisées sur la base de taux forfaitaires commu
 
 Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique sont fixés ainsi qu'il suit :
 
+Taux à compter du 1er janvier 1994 (en francs)
+
 1. Service de garde sur place :
 
-Garde   1 324 F
+Garde   1 334
 
-Demi-garde :
+Demi-garde   667
 
-18 h 30 à 1 heure du matin  612 F
+De 18 h 30 à 1 heure du matin  617
 
-1 heure du matin à 8 h 30  712 F
+De 1 heure du matin à 8 h 30  717
+
+De jour
 
 2. Service de garde par astreinte :
 
 Astreinte opérationnelle :
 
-a) Indemnité forfaitaire de base  214 F
+a) Indemnité forfaitaire de base  216
 
-Par demi-astreinte  107 F
+Par demi-astreinte  108
 
-b) Indemnité due pour chaque déplacement  265 F
+b) Indemnité due pour chaque déplacement  267
 
 Le montant cumulé des indemnités perçues ne peut excéder :
 
-Au titre d'une demi-astreinte opérationnelle   662 F
+Au titre d'une demi-astreinte opérationnelle   667
 
-Au titre d'une astreinte opérationnelle   1 324 F
+Au titre d'une astreinte opérationnelle   1 334
 
 Astreinte de sécurité :
 
-a) Indemnité forfaitaire de base  139,5 F
+a) Indemnité forfaitaire de base  140
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
-Pour quatre semaines   1 116 F
+Pour quatre semaines   1 120
 
-Pour cinq semaines   1 395 F
+Pour cinq semaines   1 400
 
-b) Indemnité due pour chaque déplacement  265 F
+b) Indemnité due pour chaque déplacement  267
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
@@ -72,14 +76,14 @@ Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excé
 
 a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
-b) Indemnité due pour chaque déplacement  265 F
+b) Indemnité due pour chaque déplacement  267
 
 4. Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou astreinte à domicile ne peut excéder :
 
-Pour quatre semaines   13 240 F
+Pour quatre semaines   13 340
 
-Pour cinq semaines   16 550 F
+Pour cinq semaines   16 675
 
-Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafonds.
+Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 
-5. Lorsqu'un déplacement conduit à des actes thérapeutiques nécessitant la présence du praticien pour une durée supérieure à 4 heures, l'astreinte se transforme en demi-garde.
+5. Lorsqu'un déplacement conduit à des actes thérapeutiques nécessitant la présence du praticien pour une durée supérieure à quatre heures, l'astreinte se transforme en demi-garde.

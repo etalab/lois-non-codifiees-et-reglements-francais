@@ -1,0 +1,3 @@
+# Article 19
+
+Sous réserve des dispositions des articles 25, 26 et 27 les délibérations du conseil d'administration sont exécutoires dans un délai de quinze jours suivant la réception des procès-verbaux par le recteur d'académie, à moins que celui-ci n'en ait autorisé l'exécution immédiate. Dans ce délai, le recteur peut s'opposer à l'exécution d'une délibération et demander au conseil de délibérer à nouveau. Il peut procéder à l'annulation d'une délibération qui lui paraîtrait entachée d'irrégularité dans le délai d'un mois à compter de la date à laquelle il a signalé son opposition. Si aucune décision n'intervient dans ce délai, l'opposition est levée de plein droit.

@@ -1,14 +1,12 @@
 # Article 1
 
-La commission des stupéfiants comprend [*composition*] :
+La commission des stupéfiants comprend :
 
-1° Neuf membres de droit :
+1° Huit membres de droit :
 
 Le directeur général de la santé ou son représentant ;
 
-Le directeur de la pharmacie et du médicament ou son représentant ;
-
-Le directeur de l'action sociale ou son représentant ;
+Le directeur de l'Agence du médicament ou son représentant ;
 
 Le directeur de l'action sociale ou son représentant ;
 
@@ -18,11 +16,9 @@ Le directeur général des douanes et droits indirects ou son représentant ;
 
 Le directeur général de l'industrie ou son représentant ;
 
-Le directeur général du Laboratoire national de la santé ou son représentant ;
-
 Le délégué général à la lutte contre la drogue et la toxicomanie ou son réprésentant ;
 
-Le président de la commission de pharmacovigilance ou le vice-président.
+Le président de la Commission nationale de pharmacovigilance ou le vice-président.
 
 2° Dix-huit personnalités choisies en raison de leur compétence par le ministre chargé de la santé :
 

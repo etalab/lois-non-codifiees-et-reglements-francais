@@ -1,0 +1,7 @@
+# Décret n°93-532 du 27 mars 1993 relatif à la Casa de Velazquez
+
+- [TITRE Ier : MISSIONS ET ACTIVITÉS.](titre-ier)
+- [TITRE II : ORGANISATION ADMINISTRATIVE ET SCIENTIFIQUE.](titre-ii)
+- [TITRE III : MEMBRES ET BOURSIERS.](titre-iii)
+- [TITRE IV : DISPOSITIONS FINANCIÈRES.](titre-iv)
+- [TITRE V : DISPOSITIONS TRANSITOIRES ET FINALES.](titre-v)

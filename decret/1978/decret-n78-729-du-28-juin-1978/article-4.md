@@ -6,13 +6,9 @@ La solde spéciale.
 
 La solde spéciale est perçue pendant la période correspondant à celle du service actif légal par :
 
-- les militaires non officiers appelés pour effectuer le service actif et ceux maintenus dans les conditions prévues aux articles L. 76 et L 137 du code du service national ;
+- les militaires appelés pour effectuer le service actif et ceux maintenus dans les conditions prévues aux articles L. 76 et L 137 du code du service national ;
 
-- les militaires non officiers prolongeant volontairement leur service dans la marine dans les conditions prévues par l'article L. 116 bis du code du service national ;
-
-- les volontaires du service national féminin ;
-
-- les militaires non officiers servant sous contrat d'une durée inférieure à trois ans ;
+- les volontaires du service militaire féminin ;
 
 - les élèves exclus des écoles militaires visés par l'article 98 de la loi du 13 juillet 1972 susvisée.
 

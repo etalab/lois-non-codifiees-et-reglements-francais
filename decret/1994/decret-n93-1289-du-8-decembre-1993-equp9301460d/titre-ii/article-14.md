@@ -1,0 +1,3 @@
+# Article 14
+
+le conseil scientifique est composé de douze à vingt personnalités désignées par le ministre chargé de l'équipement, après avis du ministre chargé de la recherche, en raison de leur compétence en matière de recherche dans les disciplines de l'école. Il propose au conseil d'administration les orientations de la politique scientifique de l'école. Il évalue périodiquement les travaux réalisés dans les centres de recherche. Il peut être consulté sur toute question ayant trait au fonctionnement des centres de recherche et aux formations doctorales. Le président est choisi par le ministre chargé de l'équipement au nombre des personnalités qu'il a désignées. Le directeur de l'école et le directeur de la recherche assistent aux réunions de ce conseil.

@@ -12,6 +12,6 @@ Si après plusieurs divorces l'assuré décède sans laisser de conjoint surviva
 
 Au décès du conjoint survivant ou d'un conjoint divorcé, sa part accroîtra la part de l'autre ou, s'il y a lieu, des autres, à compter du premier jour du mois suivant le décès [*date, point de départ*].
 
-III - Le conjoint survivant des membres de la famille de l'exploitant n'est pris en considération pour l'application des paragraphes précédents que s'il est marié depuis au moins deux ans lors du décès de l'assuré, aucune condition de durée de mariage n'étant exigée si au moins un enfant est issu du mariage.
+III - Le conjoint survivant des personnes mentionnées au premier alinéa de l'article 1122-1 du code rural n'est pris en considération pour l'application des paragraphes précédents que s'il est marié depuis au moins deux ans lors du décès de l'assuré, aucune condition de durée de mariage n'étant exigée si au moins un enfant est issu du mariage.
 
 IV - Si le chef d'exploitation est décédé avant d'avoir acquis droit à la retraite et en cas d'attribution de la retraite de réversion au conjoint divorcé dans les conditions ci-avant prévues, le conjoint survivant qui continue l'exploitation sans avoir demandé la liquidation de sa part de retraite de réversion peut, pour le calcul de son droit personnel, ajouter à ses annuités propres celles acquises par l'assuré décédé dans la limite de la proportion de la durée de son mariage par rapport à la durée totale des mariages pris en considération.

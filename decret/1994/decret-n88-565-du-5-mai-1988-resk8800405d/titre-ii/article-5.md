@@ -1,0 +1,5 @@
+# Article 5
+
+Le directeur de l'école est nommé par décret pris sur le rapport du ministre chargé de l'enseignement supérieur, après avis du conseil d'administration de l'école et consultation de son conseil scientifique. Il est choisi sur présentation de deux listes, de deux noms au moins et de trois noms au plus, établies, l'une par l'Académie des inscriptions et belles-lettres, l'autre par une commission constituée de membres du Conseil national des universités et dont la composition est définie par arrêté du ministre chargé de l'enseignement supérieur. Les personnes proposées doivent relever de disciplines correspondant aux missions de l'école et appartenir soit au corps des professeurs d'université, soit au corps des maîtres de conférences, des maîtres-assistants docteurs d'Etat ou habilités, soit à des catégories de personnel assimilées dans les conditions prévues à l'article 5 du décret n° 87-31 du 20 janvier 1987 relatif au Conseil national des universités.
+
+Le directeur est nommé pour une durée de cinq ans ; son mandat est renouvelable une fois.

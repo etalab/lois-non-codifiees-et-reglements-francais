@@ -18,7 +18,7 @@ Les épreuves d'admission comprennent :
 
 - le droit de l'urbanisme et de la construction ou le droit rural, au choix du candidat.
 
-Les candidats peuvent, sur leur demande, justifier, lors de la constitution de leur dossier de candidature, avoir suivi, en vue de l'obtention d'un diplôme de l'enseignement supérieur qu'ils désignent, les enseignements correspondant aux matières ci-dessus indiquées ou à certaines d'entre elles et obtenu une note d'au moins 10 sur 20, ou l'équivalent de cette note exprimé sur 20, à chacune des épreuves qui les ont sanctionnés. Dans ce cas, la note prise en compte au titre des présentes épreuves est celle qu'ils ont ainsi obtenue.
+Sur demande expresse formulée lors de la constitution de leur dossier, les titulaires d'un diplôme d'Etat sanctionnant un second cycle d'études en sciences juridiques sont dispensés d'une ou plusieurs des cinq épreuves orales visées au 2° du présent article s'ils justifient avoir suivi, en vue de l'obtention de ce diplôme, les enseignements correspondant aux matières ci-dessus indiquées, ou à certaines d'entre elles, et obtenu une note d'au moins 10 sur 20, ou l'équivalent de cette note exprimé sur 20, à chacune des épreuves qui les ont sanctionnés.
 
 3° Une interrogation orale portant sur une des langues vivantes étrangères suivantes au choix du candidat : anglais, allemand, italien, espagnol, portugais, néerlandais.
 

@@ -24,8 +24,8 @@ Personnes concernées :
 
 Propriétaire embarqué
 
-Contribution patronale (en pourcentage) : 14,6
+Contribution patronale (en pourcentage) : 9,8
 
 Autre membre de l'équipage
 
-Contribution patronale (en pourcentage) : 15,6
+Contribution patronale (en pourcentage) : 9,8

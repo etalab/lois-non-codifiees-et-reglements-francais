@@ -1,0 +1,5 @@
+# Article 2
+
+La Bibliothèque nationale de France, le Centre national de la cinématographie et l'Institut national de l'audiovisuel sont responsables de la collecte et de la conservation des catégories de documents qui leur sont confiées par le présent décret. Ils constituent et diffusent les bibliographies nationales correspondantes et mettent ces documents à la disposition du public pour consultation à des fins de recherche.
+
+Au titre du 2° de l'article 8 du présent décret, sont habilitées les bibliothèques qui présentent une vocation historique, artistique ou patrimoniale affirmée et qui comptent, parmi leurs personnels, des conservateurs de bibliothèques titulaires ou de personnels assimilés par arrêté du ministre chargé de la culture. La liste de ces bibliothèques habilitées est arrêtée par le ministre chargé de la culture. Ces bibliothèques assurent la collecte et la conservation des documents, contribuent à la constitution des bibliographies nationales et à la mise à disposition du public des documents pour consultation à des fins de recherche selon les modalités fixées par leur arrêté d'habilitation.

@@ -8,4 +8,4 @@ Institution de gestion sociale des armées ;
 
 Société nationale immobilière ;
 
-Musées de l'armée et de la marine.
+Musée de l'armée, musée de la marine et musée de l'air et de l'espace.

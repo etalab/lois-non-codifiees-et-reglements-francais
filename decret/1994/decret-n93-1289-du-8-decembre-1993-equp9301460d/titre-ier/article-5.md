@@ -1,0 +1,5 @@
+# Article 5
+
+L'établissement dispose, pour l'accomplissement de ses missions, des personnels, des immeubles, des équipements et des crédits mis à sa disposition par l'Etat, éventuellement par les collectivités territoriales ou tout organisme public ou privé ainsi que des ressources procurées par son activité. Au sein de l'école, les agents relevant du ministre chargé de l'équipement sont placés en position normale d'activité sur des emplois correspondant à leur grade ou à leur emploi. L'établissement dispose de personnels contractuels propres, recrutés sur des emplois créés par l'établissement public. Les enseignants sont nommés dans les conditions fixées par le conseil d'administration.
+
+Sont attribués à titre de dotation à l'établissement les immeubles affectés au ministère de l'équipement et utilisés par l'école. La maîtrise d'ouvrage des travaux de réhabilitation et d'extension est confiée à l'établissement. L'ensemble des immeubles sera remis à l'Etat quand prendra fin la dotation.

@@ -1,0 +1,7 @@
+# Article 22
+
+Les membres de l'Ecole des hautes études hispaniques et ibériques et les membres de la section artistique sont nommés par le ministre chargé de l'enseignement supérieur.
+
+Il est créé trois commissions d'admission chargées de vérifier les titres et d'apprécier les aptitudes des candidats à l'Ecole des hautes études hispaniques et ibériques, une pour l'Antiquité et le Moyen Age, une pour l'époque moderne, une pour l'époque contemporaine. Chaque commission, composée de huit membres, comprend : le directeur de la Casa de Velazquez, des professeurs d'université ou assimilés et, éventuellement, des personnalités dont la compétence est reconnue dans les disciplines correspondant aux missions de l'école telles qu'elles sont définies à l'article 2 ci-dessus, parmi lesquelles figure au moins un maître de conférences ou un chargé de recherche. Elle peut faire appel à des experts extérieurs. Les membres de chaque commission sont nommés chaque année par le ministre chargé de l'enseignement supérieur.
+
+Il est créé une commission d'admission chargée de vérifier les titres et d'apprécier les aptitudes des candidats à la section artistique. Cette commission est composée du directeur de la Casa de Velazquez, du directeur d'études pour la section artistique et de dix membres nommés par le ministre chargé de l'enseignement supérieur, la commission peut faire appel à des experts extérieurs.
