@@ -22,4 +22,4 @@ Biologie (a) 2 h 2
 
 (b) Choisie exclusivement entre l'anglais, l'allemand et l'espagnol.
 
-Les candidats déclarés admissibles à l'issue des épreuves écrites sont soumis à un entretien avec le jury, destiné à apprécier leurs connaissances et leurs aptitudes. Les candidats étrangers sont dispensés de l'entretien.
+Les candidats déclarés admissibles à l'issue des épreuves écrites sont soumis à un entretien avec le jury, destiné à apprécier leurs connaissances et leurs aptitudes. Les candidats ne résidant pas en métropole l'année du concours sont dispensés de l'entretien.

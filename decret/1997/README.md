@@ -267,6 +267,7 @@
 - [Décret n°97-288 du 27 mars 1997 (DEFP9701290D)](decret-n97-288-du-27-mars-1997-defp9701290d)
 - [Décret n°97-293 du 27 mars 1997 (TASP9720041D)](decret-n97-293-du-27-mars-1997-tasp9720041d)
 - [Décret n°97-294 du 27 mars 1997 (ECOD9770000D)](decret-n97-294-du-27-mars-1997-ecod9770000d)
+- [Décret n°97-295 du 27 mars 1997 (INTX9700012D)](decret-n97-295-du-27-mars-1997-intx9700012d)
 - [Décret n°97-68 du 27 janvier 1997 (AGRP9600133D)](decret-n97-68-du-27-janvier-1997-agrp9600133d)
 - [Décret n°97-77 du 27 janvier 1997 (EQUS9600808D)](decret-n97-77-du-27-janvier-1997-equs9600808d)
 - [Décret n°88-303 du 28 mars 1988 (RESY8800358D)](decret-n88-303-du-28-mars-1988-resy8800358d)
