@@ -1,3 +1,3 @@
 # Article 20
 
-Les dispositions du présent arrêté cessent d'être en vigueur à compter du 15 juillet 1993.
+Les dispositions du présent arrêté cessent d'être en vigueur à compter du 15 juillet 1994, sauf à l'égard des sapeurs de 2e classe stagiaires, des lieutenants de 2e classe stagiaires et des capitaines stagiaires recrutés et nommés, dans les conditions respectivement prévues à l'article 7 du décret n° 90-851 du 25 septembre 1990 susvisé, à l'article 8 du décret n° 90-852 du 25 septembre 1990 susvisé et à l'article 8 du décret n° 90-853 du 25 septembre 1990 et qui ont commencé la formation initiale définie aux articles 1er à 19 du présent arrêté à une date antérieure au 15 juillet 1994.

@@ -1,3 +1,0 @@
-# Article 143
-
-Le deuxième alinéa de l'article 326, l'article 374, le deuxième alinéa de l'article 439, le dernier alinéa de l'article 469-2, les articles 474, 475, 476, 477, 495, le dernier alinéa de l'article 514, le premier alinéa de l'article 608, les cinquième, sixième et septième alinéas de l'article 626 et le cinquième alinéa de l'article 703 du code de procédure pénale, ainsi que les articles 1er à 3 de la loi du 5 septembre 1807 relative au privilège établi au profit du Trésor public pour le recouvrement des frais de justice en matière criminelle, correctionnelle et de police et l'article 3 du décret du 17 juin 1938 tendant à améliorer le recouvrement des impôts directs sont abrogés.

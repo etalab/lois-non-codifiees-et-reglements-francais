@@ -1,9 +1,0 @@
-# Article 36
-
-Aux fins de mise à disposition en vue d'un contrôle relevant de la compétence des agents des douanes, sur demande d'un fonctionnaire des douanes ayant au moins le grade de contrôleur et sous réserve que la personne concernée ne doive pas immédiatement être placée en garde à vue ou présentée au procureur de la République,les officiers de police judiciaire et, sous l'autorité et le contrôle de ceux-ci, les agents de police judiciaire procèdent à la rétention provisoire des personnes qu'ils contrôlent lorsque celles-ci font l'objet d'un signalement par application des articles 3, 4 et 5 de la convention entre les Etats de la Communauté économique européenne sur l'emploi de l'informatique dans le domaine des douanes, lorsque cette convention sera entrée en vigueur.
-
-Les officiers de police judiciaire et, sous l'autorité et le contrôle de ceux-ci, les agents de police judiciaire informent sans délai le procureur de la République de la rétention provisoire. Au cours de la rétention provisoire, la personne est conduite devant l'agent des douanes compétent ou maintenue à sa disposition. La durée de la rétention provisoire est limitée au temps strictement nécessaire à l'accomplissement de ces diligences, sans pouvoir excéder trois heures à compter de la demande de l'agent des douanes. A l'expiration de ce délai, la personne est laissée libre si elle n'a pu être remise à l'agent des douanes compétent.
-
-Lorsque la personne fait l'objet d'une retenue douanière à l'issue de la rétention provisoire, la durée de celle-ci s'impute sur la durée de la retenue douanière.
-
-Les officiers de police judiciaire et, sous l'autorité et le contrôle de ceux-ci, les agents de police judiciaire mentionnent, par procès-verbal de constat, dont un double est remis à l'agent des douanes, le jour et l'heure du début et de la fin de la rétention provisoire ; ces mentions figurent également sur le registre mentionné à l'article 64 du code de procédure pénale.

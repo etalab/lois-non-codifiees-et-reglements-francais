@@ -18,4 +18,12 @@ Diplômes donnant accès au concours sur titres de capitaine professionnel de sa
 
 - maîtrise de sciences et techniques " Hygiène et sécurité dans l'industrie " après obtention du D.U.T. Hygiène et sécurité (option Hygiène et sécurité publique).
 
-3. Maîtrises fixées par arrêté publié sous forme d'avis au Journal officiel de la République française et précisant les dates de déroulement des épreuves. Le nombre de places ouvertes éventuellement au titre de ces diplômes ne peut dépasser 10 p. 100 de la proportion prévue au paragraphe 1 de l'article 5.
+3. Autres diplômes fixés par arrêté du ministre chargé de la sécurité civile publié sous forme d'avis au Journal officiel de la République française :
+
+" - maîtrises, ou maîtrises de sciences et techniques autres que celle définie au 2° ci-dessus ;
+
+" - diplôme d'études supérieures techniques homologué par la commission technique d'homologation des titres et des diplômes de l'enseignement technologique ;
+
+" - diplômes homologués au niveau I par la commission technique d'homologation des titres et des diplômes de l'enseignement technologique ;
+
+" - diplômes nationaux de troisième cycle. "
