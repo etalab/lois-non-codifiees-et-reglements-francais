@@ -4,4 +4,4 @@ Il est institué auprès de chaque délégation régionale pour l'accueil et l'o
 
 Il peut être institué auprès de chaque préfecture chef-lieu de circonscription d'action régionale une commission économique et une commission sociale, ou l'une de ces deux commissions.
 
-Il est institué auprès du secrétaire d'Etat aux rapatriés une commission centrale pour les questions sociales.
+Il est institué auprès du secrétaire d'Etat aux rapatriés une commission centrale pour les questions sociales ainsi qu'une commission centrale pour les questions économiques.
