@@ -16,7 +16,7 @@ Sera puni de la peine d'amende prévue pour les contraventions de la 5e classe :
 
 7° Quiconque, après cessation de l'exploitation d'une installation classée, n'aura pas respecté les prescriptions de l'arrêté préfectoral pris en application de l'article 34-1 du présent décret.
 
-8° Quiconque aura omis de fournir les informations prévues aux articles 35 et 36 du présent décret ;
+8° Quiconque aura omis de fournir les informations prévues à l'article 35 du présent décret ;
 
 9° Quiconque aura omis d'adresser la déclaration prévue à l'article 38 du présent décret [*sanction*].
 
