@@ -2,6 +2,7 @@
 
 - [Décret n°2000-720 du 1 août 2000 (ECOT0020020D)](decret-n2000-720-du-1-aout-2000-ecot0020020d)
 - [Décret n°2000-721 du 1 août 2000 (ECOX0004284D)](decret-n2000-721-du-1-aout-2000-ecox0004284d)
+- [Décret n°2000-731 du 1 août 2000 (JUSX0000130D)](decret-n2000-731-du-1-aout-2000-jusx0000130d)
 - [Décret du 2 juin 2000 (AGRP0000284D)](decret-du-2-juin-2000-agrp0000284d)
 - [Décret n°2000-477 du 2 juin 2000 (ECOF0000015D)](decret-n2000-477-du-2-juin-2000-ecof0000015d)
 - [Décret n°2000-478 du 2 juin 2000 (ECOF0000017D)](decret-n2000-478-du-2-juin-2000-ecof0000017d)
@@ -159,6 +160,7 @@
 - [Décret n°2000-711 du 27 juillet 2000 (ECOT0026261D)](decret-n2000-711-du-27-juillet-2000-ecot0026261d)
 - [Décret n°2000-712 du 27 juillet 2000 (MESH0022212D)](decret-n2000-712-du-27-juillet-2000-mesh0022212d)
 - [Décret n°2000-714 du 27 juillet 2000 (DEFP9952026D)](decret-n2000-714-du-27-juillet-2000-defp9952026d)
+- [Décret n°2000-727 du 27 juillet 2000 (ECOI0020214D)](decret-n2000-727-du-27-juillet-2000-ecoi0020214d)
 - [Décret du 28 juillet 2000 (AGRP0001039D)](decret-du-28-juillet-2000-agrp0001039d)
 - [Décret n°2000-575 du 28 juin 2000 (PRMX0004199D)](decret-n2000-575-du-28-juin-2000-prmx0004199d)
 - [Décret n°2000-576 du 28 juin 2000 (ECOC0000032D)](decret-n2000-576-du-28-juin-2000-ecoc0000032d)
@@ -196,6 +198,7 @@
 - [Décret n°2000-476 du 30 mai 2000 (ECOI0000176D)](decret-n2000-476-du-30-mai-2000-ecoi0000176d)
 - [Décret n°2000-483 du 30 mai 2000 (DEFP0001492D)](decret-n2000-483-du-30-mai-2000-defp0001492d)
 - [Décret n°2000-484 du 30 mai 2000 (EQUM0000038D)](decret-n2000-484-du-30-mai-2000-equm0000038d)
+- [Décret n°2000-733 du 31 juillet 2000 (MCCB0000372D)](decret-n2000-733-du-31-juillet-2000-mccb0000372d)
 - [Décret n°2000-479 du 31 mai 2000 (JUSD0030033D)](decret-n2000-479-du-31-mai-2000-jusd0030033d)
 - [Décret n°2000-480 du 31 mai 2000 (JUSG9960056D)](decret-n2000-480-du-31-mai-2000-jusg9960056d)
 - [Décret n°2000-481 du 31 mai 2000 (MENF0000923D)](decret-n2000-481-du-31-mai-2000-menf0000923d)
