@@ -1098,7 +1098,6 @@
 - [Arrêté du 30 octobre 1993 (INDB9300584A)](arrete-du-30-octobre-1993-indb9300584a)
 - [Arrêté du 30 septembre 1993 (AGRG9301854A)](arrete-du-30-septembre-1993-agrg9301854a)
 - [Arrêté du 30 septembre 1993 (BUDD9370020A)](arrete-du-30-septembre-1993-budd9370020a)
-- [Arrêté du 30 septembre 1993 (INDP9320477A)](arrete-du-30-septembre-1993-indp9320477a)
 - [Arrêté du 30 septembre 1993 (SPSS9302958A)](arrete-du-30-septembre-1993-spss9302958a)
 - [Arrêté du 31 août 1993 (AGRG9301643A)](arrete-du-31-aout-1993-agrg9301643a)
 - [Arrêté du 31 août 1993 (ECOT9390045A)](arrete-du-31-aout-1993-ecot9390045a)
