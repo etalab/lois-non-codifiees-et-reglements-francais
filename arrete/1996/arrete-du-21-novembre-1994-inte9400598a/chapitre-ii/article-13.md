@@ -1,29 +1,25 @@
 # Article 13
 
-Dans l'attente de la définition de la réglementation des épreuves physiques et sportives par des tests d'aptitude physique, ces épreuves d'admissibilité comprennent deux parties et se déroulent dans les conditions précisées dans l'annexe du présent arrêté :
+" Les épreuves physiques et sportives sont les suivantes :
 
-1° Un contrôle de l'équilibre, non noté.
+" 1° Un test de natation, non noté ; les candidats qui n'ont pas réussi ce test sont éliminés, les autres participent aux épreuves définies ci-dessous ;
 
-Les candidats qui n'ont pas réussi ce contrôle sont éliminés. Les autres participent aux épreuves définies au 2° ci-dessous.
+" 2° Epreuve d'équilibre statique ;
 
-2° Les épreuves d'athlétisme et l'épreuve de natation suivantes :
+" Epreuve d'endurance musculaire abdominale ;
 
-- course de vitesse de 100 mètres (un seul essai) ;
+" Epreuve d'endurance musculaire des membres supérieurs ;
 
-- course de résistance de 1 000 mètres (un seul essai) ;
+" Epreuve de souplesse ;
 
-- saut en hauteur avec élan (trois essais par hauteur) ;
+" Epreuve de vitesse et de coordination ;
 
-- lancer de poids (trois essais) ;
+" Epreuve d'endurance cardio-respiratoire.
 
-- natation : 50 mètres nage libre, départ plongé (un seul essai) ;
+" Les épreuves physiques et sportives se déroulent, en présence d'un médecin, dans les conditions précisées à l'annexe I du présent arrêté.
 
-- grimper à la corde lisse (un seul essai).
+" Ces épreuves sont notées sur 20 en fonction du barème figurant en annexe II. Le total de ces notes est divisé par six. La moyenne ainsi obtenue constitue la note des épreuves physiques et sportives qui est affectée du coefficient 1.
 
-Les épreuves d'athlétisme et l'épreuve de natation sont notées chacune sur 20. Le total de ces notes est divisé par 6.
+" Toute note inférieure à 5 sur 20 obtenue à l'une des épreuves mentionnées ci-dessus et/ou toute moyenne inférieure à 10 sur 20 entraînent l'élimination du candidat. "
 
-La note moyenne ainsi obtenue constitue la note des épreuves physiques et sportives, qui est affectée du coefficient 1.
-
-Toute note inférieure à 5 sur 20 obtenue à l'une des épreuves d'athlétisme ou à l'épreuve de natation et toute note moyenne inférieure à 10 sur 20 entraînent l'élimination du candidat qui ne peut pas participer aux épreuves suivantes.
-
-(Les annexes sont disponibles au ministère de l'intérieur et de l'aménagement du territoire (direction de la sécurité civile, bureau des statuts et des personnels, section Concours), place Beauvau, 75800 Paris, dans les préfectures et les services départementaux d'incendie et de secours).
+(Les annexes sont disponibles au ministère de l'intérieur (direction de la sécurité civile, bureau de la formation), place Beauvau, 75800 Paris, dans les préfectures et les services départementaux d'incendie et de secours).

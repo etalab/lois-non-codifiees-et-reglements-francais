@@ -42,6 +42,7 @@
 - [Arrêté du 6 mai 1986](arrete-du-6-mai-1986)
 - [Arrêté du 7 février 1986](arrete-du-7-fevrier-1986)
 - [Arrêté du 7 janvier 1986](arrete-du-7-janvier-1986)
+- [Arrêté du 7 juillet 1986](arrete-du-7-juillet-1986)
 - [Arrêté du 7 mars 1986](arrete-du-7-mars-1986)
 - [Arrêté du 7 octobre 1986](arrete-du-7-octobre-1986)
 - [Arrêté du 7 mai 1986](arrete-du-7-mai-1986)

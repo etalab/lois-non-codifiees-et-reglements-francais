@@ -1,4 +1,4 @@
-# Arrêté du 14 septembre 1966 portant désignation des personnes responsables des marchés passés par le Conseil d'Etat
+# Arrêté du 14 septembre 1966 relatif aux circonscriptions des comités de bassin
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

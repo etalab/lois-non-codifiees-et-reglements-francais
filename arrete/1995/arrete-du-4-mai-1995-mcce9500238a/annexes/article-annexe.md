@@ -66,7 +66,11 @@ Conciergerie (Ile-de-France).
 
 Domaine national de Meudon (Ile-de-France).
 
+Domaine national du Palais-Royal (Ile-de-France).
+
 Domaine national de Saint-Cloud (Ile-de-France).
+
+Domaine national des Tuileries (Ile-de-France).
 
 Maison des Jardies (Sèvres, Ile-de-France).
 
@@ -133,6 +137,8 @@ Château d'If (Provence-Alpes-Côte d'Azur).
 Citadelle de Montdauphin (Provence-Alpes-Côte d'Azur).
 
 Abbaye de Montmajour (Provence-Alpes-Côte d'Azur).
+
+Monastère de Saorge (Provence-Alpes-Côte d'Azur).
 
 Abbaye de Silvacane (Provence-Alpes-Côte d'Azur).
 

@@ -1,33 +1,17 @@
 # Article 3
 
-Les informations traitées pour la gestion des déclarations sont les suivantes :
+Les informations traitées sont les suivantes :
 
-Nom, prénoms, sexe, date et lieu de naissance, situation matrimoniale, adresse ;
+Nom, prénom, date et lieu de naissance, situation de famille, adresse et complément d'adresse du contribuable, le cas échéant, état civil et adresse du représentant légal, du mandataire ou de l'héritier ;
 
-Valeur des éléments d'actif composant le patrimoine du redevable ou leur évaluation, en distinguant :
+Nom de naissance, prénom, date de naissance, lieu de naissance du conjoint ou concubin ;
 
-Immeubles :
+Renseignements relatifs à la qualification des biens professionnels exonérés ;
 
-Résidence principale ;
+Valeurs déclarées des éléments composant :
 
-Autres immeubles bâtis ;
+- la détermination de la base imposable : rubriques de la déclaration relatives à l'actif net imposable ;
 
-Forêts ;
+- le calcul de l'impôt : rubriques relatives au montant de l'impôt avant imputation, à la réduction d'impôt pour personnes à charge, au calcul du plafonnement, à l'imputation de l'impôt sur la fortune acquitté hors de France ;
 
-Biens ruraux donnés en location à long terme ;
-
-Autres immeubles non bâtis ;
-
-Biens meubles :
-
-Droits sociaux ;
-
-Autres valeurs mobilières ;
-
-Liquidités ;
-
-Autres biens meubles ;
-
-Biens liés à l'exercice d'une activité principale professionnelle ;
-
-Montant de l'impôt.
+Montant global de l'impôt à payer.
