@@ -1,0 +1,5 @@
+# Article 3
+
+Un jury est institué pour chacun des deux concours. Il est présidé par un inspecteur général de l’éducation nationale nommé par le ministre de l’éducation nationale, sur proposition du directeur des personnels enseignants des lycées et collèges.
+
+Les membres du jury, nommés par le ministre, sont choisis, sur proposition du président, parmi les inspecteurs généraux de l’éducation nationale, les inspecteurs pédagogiques régionaux - inspecteurs d’académie de la spécialité  établissements et vie scolaire , les membres des corps enseignants de l’enseignement supérieur, les personnels de direction d’établissements d’enseignement ou de formation, les professeurs agrégés, les conseillers principaux d’éducation, les professeurs certifiés, les professeurs d’éducation physique et sportive et les professeurs de lycée professionnel du deuxième grade. des personnes n’appartenant pas aux corps précédemment cités peuvent, en tant que de besoin, être choisies en raison de leurs compétences particulières.
