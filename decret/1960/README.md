@@ -33,4 +33,5 @@
 - [Décret n°60-406 du 26 avril 1960](decret-n60-406-du-26-avril-1960)
 - [Décret n° 60-745 du 28 juillet 1960](decret-n-60-745-du-28-juillet-1960)
 - [Décret n° 60-746 du 28 juillet 1960](decret-n-60-746-du-28-juillet-1960)
+- [Décret n°60-652 du 28 juin 1960](decret-n60-652-du-28-juin-1960)
 - [Décret n°58-1431 du 30 décembre 1958](decret-n58-1431-du-30-decembre-1958)
