@@ -12,6 +12,6 @@ L'attestation de capacité est délivrée aux personnes titulaires de l'un des d
 
 - diplôme de fin d'études de l'Ecole de préparation à la direction du transport routier (E.D.T.R.), diplôme de fin d'études de l'Ecole du transit et des transports internationaux (E.T.T.), diplôme de fin d'études de l'Ecole européenne des transports (E.E.T.) et diplôme de fin d'études de l'Ecole de maîtrise du transport routier (E.M.T.R.) ;
 
-- brevet professionnel agent des entreprises de transport et des activités auxiliaires ;
+- le " brevet professionnel Agent des entreprises de transport et des activités auxiliaires " est remplacé par le " brevet professionnel de transport et des activités auxiliaires à trois options : Transport routier, Transport fluvial, Auxiliaire de transport " ;
 
-- baccalauréat professionnel (section Exploitation des transports).
+- le " baccalauréat professionnel (section Exploitation des transports) " est remplacé par le " baccalauréat professionnel (section Logistique et transport) ". Seule l'option Exploitation des transports est retenue pour l'obtention de l'attestation de capacité.
