@@ -5,5 +5,4 @@
 - [TITRE III : Police judiciaire](titre-iii)
 - [TITRE IV : Du service spécial de la gendarmerie](titre-iv)
 - [TITRE V : Devoirs généraux et droits de la gendarmerie dans l'exécution du service](titre-v)
-- [TITRE VI : Dispositions générales](titre-vi)
 - [Article 324](article-324.md)
