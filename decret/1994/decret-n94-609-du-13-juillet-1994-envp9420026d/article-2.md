@@ -8,4 +8,4 @@ a)Soit procéder eux-mêmes à leur valorisation dans des installations agréée
 
 b)Soit les céder par contrat à l'exploitant d'une installation agréée dans les mêmes conditions ;
 
-c)Soit les céder par contrat à un intermédiaire assurant une activité de transport, négoce ou courtage de déchets, régie par l'article 8 du présent décret.
+c) Soit les céder par contrat à un intermédiaire assurant une activité de transport par route, de négoce ou de courtage de déchets, régie par le décret n° 98-679 du 30 juillet 1998 relatif au transport par route, au négoce et au courtage de déchets.
