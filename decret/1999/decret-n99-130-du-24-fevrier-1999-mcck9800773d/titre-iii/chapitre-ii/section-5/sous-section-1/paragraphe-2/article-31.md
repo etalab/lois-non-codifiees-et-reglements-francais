@@ -14,4 +14,6 @@ b) A des investissements en association à la production réalisés, dans les co
 
 3° Pour l'admission des oeuvres cinématographiques réalisées dans le cadre de coproductions internationales au bénéfice des accords intergouvernementaux de coproduction.
 
+4° Pour l'admission au bénéfice du crédit d'impôt pour dépenses dans la production d'oeuvres cinématographiques prévu aux articles 220 sexies et 220 F du code général des impôts.
+
 III. - Même lorsqu'il n'est pas requis en application du I ou du II ci-dessus, l'agrément des investissements peut être délivré à toute entreprise de production qui en fait la demande au titre de la production d'oeuvres cinématographiques de longue durée qui remplissent les conditions prévues à l'article 10.
