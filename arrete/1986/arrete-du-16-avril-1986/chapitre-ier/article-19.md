@@ -2,7 +2,7 @@
 
 Oto-rhino-laryngologie.
 
-L'aptitude à la navigation est soumise aux conditions d'acuité auditive fixées en annexe.
+L'aptitude à la navigation est soumise aux conditions d'acuité auditive fixées en annexe I.
 
 La correction prothétique n'est en principe pas admise pour l'obtention des performances exigées, à l'exception des bioprothèses permettant un niveau d'audition satisfaisant. Toutefois, une décision particulière d'aptitude peut être envisagée pour d'autres modes de correction prothétique, après évaluation spécialisée, pour les personnels non exposés à des ambiances bruyantes et ne participant pas à des fonctions de veille.
 

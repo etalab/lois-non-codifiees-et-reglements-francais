@@ -2,7 +2,7 @@
 
 Appareil oculaire, vision.
 
-L'aptitude à la navigation est soumise aux conditions d'acuité visuelle et de perception chromatique fixées en annexe.
+L'aptitude à la navigation est soumise aux conditions d'acuité visuelle et de perception chromatique fixées en annexe I.
 
 D'une manière générale sont incompatibles avec la navigation, de façon temporaire ou définitive, les affections et lésions aiguës ou chroniques de l'oeil ou de ses annexes, ayant ou risquant d'avoir un retentissement sur la valeur fonctionnelle de l'appareil ou qui imposeraient des contraintes thérapeutiques impossibles à mettre en oeuvre dans les conditions normales de navigation.
 
@@ -16,6 +16,8 @@ En cours de carrière :
 
 - les marins devenus monophtalmes peuvent être autorisés à poursuivre la navigation après un délai d'adaptation de six mois et après avis favorable du spécialiste, sous réserve que l'oeil restant présente une acuité visuelle sans correction d'au moins 5 dixièmes sans anomalie du champ visuel, avec cependant les restrictions suivantes ; ils ne peuvent participer à la veille ni prétendre à un brevet ou à des fonctions de commandement ;
 
-- les marins devenus aphaques bilatéraux ne peuvent être autorisés à poursuivre la navigation, sauf s'ils ont été traités par implants avec un bon résultat fonctionnel : ils peuvent alors faire l'objet d'une décision particulière d'aptitude après évaluation spécialisée de leur vision et en l'absence de trouble majeure du champ visuel.
+- les marins devenus aphaques bilatéraux ne peuvent être autorisés à poursuivre la navigation, sauf s'ils ont été traités par implants avec un bon résultat fonctionnel : ils peuvent alors faire l'objet d'une décision particulière d'aptitude après évaluation spécialisée de leur vision et en l'absence de trouble majeure du champ visuel ;
+
+- leur cas est examiné par la commission médicale régionale d'aptitude.
 
 Dans tous les cas, le strabisme important, les anomalies sévères du champ visuel entraînent l'inaptitude aux fonctions de commandement et à la veille à la passerelle.

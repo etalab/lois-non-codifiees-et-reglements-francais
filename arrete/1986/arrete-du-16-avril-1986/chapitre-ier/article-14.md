@@ -16,6 +16,8 @@ A l'entrée dans la profession de marin, certains troubles psychiques sont incom
 
 - les états d'arriération intellectuelle moyenne et profonde, les déficits intellectuels acquis ;
 
-- les états d'assuétude toxicophiliques, y compris alcooliques.
+- les états d'assuétude toxicophiliques, y compris alcooliques ;
+
+- le recours, qui ne peut être systématique, à des tests de dépistage, est justifié si les activités de l'intéressé comportent des risques pour lui-même ou pour des tiers.
 
 Les mêmes troubles psychiques reconnus en cours de carrière feront l'objet d'une évaluation spécialisée qui tiendra compte, en particulier, des conditions de vie et de travail à bord, de l'adaptation au milieu, du genre de navigation pratiquée et des implications thérapeutiques éventuelles. Le spécialiste devra s'entourer de tous les éléments d'appréciation. A l'issue de cette évaluation, le marin pourra être autorisé à poursuivre l'exercice de sa profession.
