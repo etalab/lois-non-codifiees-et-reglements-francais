@@ -28,6 +28,7 @@
 - [Décret n°87-808 du 2 octobre 1987](decret-n87-808-du-2-octobre-1987)
 - [Décret n°87-818 du 2 octobre 1987 (EQUC8700443D)](decret-n87-818-du-2-octobre-1987-equc8700443d)
 - [Décret n°87-974 du 2 décembre 1987 (AGRA8702008D)](decret-n87-974-du-2-decembre-1987-agra8702008d)
+- [Décret n°87-978 du 2 décembre 1987 (DEFP8701838D)](decret-n87-978-du-2-decembre-1987-defp8701838d)
 - [Décret n°87-141 du 3 mars 1987](decret-n87-141-du-3-mars-1987)
 - [Décret n°87-234 du 3 avril 1987 (ASET8703255D)](decret-n87-234-du-3-avril-1987-aset8703255d)
 - [Décret n°87-236 du 3 avril 1987 (ASEE8703260D)](decret-n87-236-du-3-avril-1987-asee8703260d)

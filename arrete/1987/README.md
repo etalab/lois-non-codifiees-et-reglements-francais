@@ -23,6 +23,7 @@
 - [Arrêté du 1 septembre 1987 (BUDR8703107A)](arrete-du-1-septembre-1987-budr8703107a)
 - [Arrêté du 2 avril 1987 (MEND8700216A)](arrete-du-2-avril-1987-mend8700216a)
 - [Arrêté du 2 décembre 1986](arrete-du-2-decembre-1986)
+- [Arrêté du 2 décembre 1987 (BUDR8703141A)](arrete-du-2-decembre-1987-budr8703141a)
 - [Arrêté du 2 février 1987](arrete-du-2-fevrier-1987)
 - [Arrêté du 2 février 1987 (ASEE8703090A)](arrete-du-2-fevrier-1987-asee8703090a)
 - [Arrêté du 2 février 1987 (ASEE8703091A)](arrete-du-2-fevrier-1987-asee8703091a)
