@@ -1,0 +1,7 @@
+# Article 1
+
+Un candidat postulant une spécialité de certificat d'aptitude professionnelle par la voie de l'examen prévu au titre III du décret n° 87-852 du 19 octobre 1987 susvisé est, à sa demande, dispensé de tout ou partie des domaines généraux de ce certificat d'aptitude professionnelle ;
+
+- s'il est bénéficiaire des domaines généraux correspondants soit d'une autre spécialité de certificat d'aptitude professionnelle, soit d'un brevet d'études professionnelles ;
+
+- s'il est titulaire d'unités capitalisables des domaines généraux correspondants soit d'une autre spécialité de certificat d'aptitude professionnelle, soit d'un brevet d'études professionnelles.

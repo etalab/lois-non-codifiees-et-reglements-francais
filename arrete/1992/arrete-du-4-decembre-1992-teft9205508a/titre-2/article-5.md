@@ -12,6 +12,4 @@ L'attestation délivrée par le formateur à la suite du contrôle de capacité 
 
 - lorsque le formateur appartient à un organisme : dénomination et adresse de son siège social ;
 
-- références du stage suivi par le formateur auprès de l'organisme agréé (date, désignation de l'organisme, lieu du stage) ;
-
 - engagement du formateur d'avoir dispensé une formation conforme aux programmes annexés au présent arrêté.

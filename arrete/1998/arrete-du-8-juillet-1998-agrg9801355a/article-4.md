@@ -1,0 +1,3 @@
+# Article 4
+
+Tout animal présentant des signes cliniques compatibles avec l'existence d'une ESST et maintenu en vie pour des investigations scientifiques est isolé au sein de l'unité dans un local indépendant, où il est l'objet d'une surveillance continue jusqu'à sa mort naturelle ou provoquée de façon à pouvoir recueillir les prélèvements indispensables à la confirmation ou à l'infirmation du diagnostic d'ESST ou à des programmes de recherche. L'animal ne fait l'objet d'aucune visite, autres qu'à des fins pédagogiques, en dehors de celle du personnel dûment chargé des soins aux animaux ; les litières du local sont stockées séparément et incinérées.
