@@ -1,0 +1,3 @@
+# Article 1
+
+Lorsqu'un fonctionnaire détaché sur l'un des emplois mentionnés à l'article 53 de la loi n° 84-53 du 26 janvier 1984 susvisée est déchargé de ses fonctions et qu'il demande, en application de l'article 98 de ladite loi, à percevoir une indemnité, celle-ci est calculée et versée dans les conditions prévues aux articles 2 à 5 du présent décret. L'intéressé formule sa demande dans un délai d'un mois à compter du dernier jour du mois au cours duquel lui a été notifiée la décision de l'autorité territoriale mettant fin à ses fonctions. Dans le cas contraire, il est pris en charge par le Centre national de la fonction publique territoriale dans les conditions prévues aux articles 97 et 97 bis de la loi du 26 janvier 1984.

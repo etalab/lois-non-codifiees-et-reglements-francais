@@ -3,3 +3,4 @@
 - [Titre Ier : Dispositions générales.](titre-ier)
 - [Titre II : Recrutement.](titre-ii)
 - [Titre III : Avancement.](titre-iii)
+- [Article 24](article-24.md)

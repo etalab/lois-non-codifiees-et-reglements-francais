@@ -1,0 +1,5 @@
+# Article 19
+
+Après délibération du conseil général et des organes délibérants des communes et des établissements publics de coopération intercommunale compétents en matière de lutte contre l'incendie et après avis de la commission administrative, le président de la commission administrative du service départemental d'incendie et de secours peut saisir le préfet d'une proposition de création d'un corps départemental de sapeurs-pompiers.
+
+Le corps départemental est créé par arrêté du préfet. Selon les règles prévues au troisième alinéa de l'article 14, la décision de création précise le nombre de centres relevant du corps départemental et fixe le classement de chaque centre, leur lieu d'implantation, les limites des secteurs géographiques dans lesquels ces centres interviennent sur premier appel et la liste du ou des centres appelés à intervenir en cas d'indisponibilité du centre de premier appel ou en renfort de celui-ci. La décision de création du corps départemental peut prévoir la dissolution de l'ensemble ou d'une partie des corps de sapeurs-pompiers communaux ou intercommunaux opérée dans les conditions prévues à l'article 17.

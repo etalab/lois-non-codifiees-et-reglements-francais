@@ -1,0 +1,3 @@
+# Article 3
+
+Selon que la subdivision comporte une ou plusieurs unités de formation et de recherche, le ou les conseils de cette ou de ces unités déterminent, après approbation par le ou les présidents d'université, la structure de coordination de l'enseignement et d'évaluation du troisième cycle de médecine générale. Cette structure est dirigée par l'enseignant coordonnateur mentionné à l'article 6 du décret du 7 avril 1988 susvisé. Elle comprend des représentants des praticiens hospitaliers et des médecins généralistes participant aux enseignements ; elle s'adjoint des représentants des résidents.

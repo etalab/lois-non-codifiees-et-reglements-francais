@@ -1,115 +1,33 @@
 # Article 3
 
-Il peut être alloué aux catégories d'agents visées au tableau ci-dessous des indemnités forfaitaires représentatives d'heures supplémentaires calculées d'après le supplément effectif de travail fourni.
+Il peut être alloué aux catégories d'agents visées au tableau ci-dessous des indemnités forfaitaires représentatives d'heures supplémentaires calculées d'après le supplément effectif de travail fourni.    Ces indemnités sont attribuées dans la double limite :
 
-Ces indemnités sont attribuées dans la double limite :
+1° d'un crédit budgétaire global déterminé pour chaque commune par l'application de taux moyens ;    2° de taux maximums individuels fixés comme suit :
 
-1° d'un crédit budgétaire global déterminé pour chaque commune par l'application de taux moyens ;
+CATEGORIES D'AGENTS BENEFICIAIRES :
 
-2° de taux maximums individuels fixés comme suit :
+- Sous-archiviste chef, sous-bibliothécaire chef
 
-==================================================================
+TAUX ANNUEL :
 
-<table>
-<tr>
-<td> :  CATEGORIE D'AGENTS BENEFICIAIRES : TAUX MOYEN  : TAUX MAXIMUM :</td>
-</tr>
-<tr>
-<td> :                                   :   annuel.   :    annuel.   :</td>
-</tr>
-<tr>
-<td> :-----------------------------------:-------------:--------------:</td>
-</tr>
-<tr>
-<td> :                                   :   Francs.   :     Francs.  :</td>
-</tr>
-<tr>
-<td> : Directeur de services             :             :              :</td>
-</tr>
-<tr>
-<td> :   administratifs.                 :     7.061   :     14.121   :</td>
-</tr>
-<tr>
-<td> : Attaché communal principal.       :     6.025   :     12.051   :</td>
-</tr>
-<tr>
-<td> : Attaché communal de :             :             :              :</td>
-</tr>
-<tr>
-<td> :   1ère classe                     :     5.742   :     11.487   :</td>
-</tr>
-<tr>
-<td> :                                   :             :              :</td>
-</tr>
-<tr>
-<td> :   2ème classe (1)                 )             :              :</td>
-</tr>
-<tr>
-<td> : Chef de bureau (1)                :             :              :</td>
-</tr>
-<tr>
-<td> : Rédacteur chef (1)                :     4.994   :      9.988   :</td>
-</tr>
-<tr>
-<td> : Sous-archiviste chef              :             :              :</td>
-</tr>
-<tr>
-<td> : Sous-bibliothécaire chef          :             :              :</td>
-</tr>
-<tr>
-<td> :                                   :             :              :</td>
-</tr>
-<tr>
-<td> : Sous-chef de bureau (1)           :             :              :</td>
-</tr>
-<tr>
-<td> : Rédacteur principal               :             :              :</td>
-</tr>
-<tr>
-<td> : Rédacteur (1)                     :             :              :</td>
-</tr>
-<tr>
-<td> : Sous-archiviste principal         :             :              :</td>
-</tr>
-<tr>
-<td> : Sous-archiviste (1)               :             :              :</td>
-</tr>
-<tr>
-<td> : Sous-bibliothécaire principal     :             :              :</td>
-</tr>
-<tr>
-<td> : Sous-bibliothécaire (1)           :     3.694   :      7.390   :</td>
-</tr>
-<tr>
-<td> : Inspecteur de salubrité principal :             :              :</td>
-</tr>
-<tr>
-<td> :    (nouveau régime)               :             :              :</td>
-</tr>
-<tr>
-<td> : Inspecteur de salubrité (nouveau  :             :              :</td>
-</tr>
-<tr>
-<td> :     régime) (1)                   :             :              :</td>
-</tr>
-<tr>
-<td> : Inspecteur de salubrité principal :             :              :</td>
-</tr>
-<tr>
-<td> :     (1).                          :             :              :</td>
-</tr>
-<tr>
-<td> : Inspecteur de salubrité (1)       :             :              :</td>
-</tr>
-<tr>
-<td> :-----------------------------------:-------------:--------------:</td>
-</tr>
-<tr>
-<td> : (1) Indemnité réservée aux agents parvenus à un échelon doté   :</td>
-</tr>
-<tr>
-<td> : d'un indice de traitement supérieur à l'indice 390 brut.       :</td>
-</tr>
-</table>
+- Moyen (en francs)
 
-==================================================================
+5.180
+
+- Maximum (en francs)
+
+10.360
+
+CATEGORIES D'AGENTS BENEFICIAIRES :
+
+- Sous-archiviste principal, sous-archiviste (1),   Sous-bibliothécaire principal, sous-bibliothécaire (1),   Inspecteur de salubrité principal, inspecteur de salubrité (1) TAUX ANNUEL :
+
+- Moyen (en francs)
+
+3.830
+
+- Maximum (en francs)
+
+7.660
+
+(1) Indemnité réservée aux agents parvenus à un échelon doté d'un indice de traitement supérieur à l'indice 390 brut.

@@ -1,0 +1,3 @@
+# Article 1
+
+Les décisions à caractère individuel prises en matière autre que disciplinaire par le conseil du marché à terme ou par son président et par le conseil des bourses de valeurs, ainsi que par l'institution financière spécialisée agissant par délégation de celui-ci en application des lois du 28 mars 1885 modifiée et du 22 janvier 1988 susvisées, sont notifiées aux personnes qui font l'objet de la décision soit par lettre recommandée avec demande d'avis de réception, soit par remise contre récépissé. Elles sont publiées au bulletin officiel prévu par le règlement général des organismes précités, sans préjudice d'autres modes de publicité fixés par ce règlement.

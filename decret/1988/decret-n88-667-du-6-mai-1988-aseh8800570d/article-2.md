@@ -1,0 +1,3 @@
+# Article 2
+
+Sous réserve des dispositions de l'article 4 de la loi du 23 décembre 1986 susvisée : 1° Les professeurs des universités-praticiens hospitaliers, consultants des hôpitaux, sont régis par le décret n° 84-135 du 24 février 1984 susvisé modifié portant statut des personnels enseignants et hospitaliers des centres hospitaliers et universitaires. 2° Les professeurs des universités-odontologistes des services de consultations et de traitements dentaires, consultants des hôpitaux, sont régis par le décret n° 81-61 du 27 janvier 1981 susvisé modifié relatif au statut du personnel enseignant et hospitalier des centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers et universitaires.

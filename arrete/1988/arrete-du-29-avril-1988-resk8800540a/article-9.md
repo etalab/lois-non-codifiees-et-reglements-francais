@@ -1,0 +1,3 @@
+# Article 9
+
+Des enseignements différents de ceux du diplôme d'études spécialisées complémentaires auquel est inscrit le candidat ainsi que des stages pratiques validés dans les services agréés au titre d'un diplôme d'études spécialisées, d'un diplôme d'études spécialisées complémentaires ou au cours d'une année-recherche peuvent être pris en compte pour la validation de la formation, sur proposition de la commission spécifique du diplôme d'études spécialisées complémentaires, selon les règles fixées par les conseils des unités de formation et de recherche de médecine et de pharmacie des universités habilitées, et approuvées par les présidents d'université.

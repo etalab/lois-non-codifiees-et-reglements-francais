@@ -1,0 +1,3 @@
+# Article 16
+
+Le tirage au sort des membres du jury a lieu au plus tard quinze jours avant la date prévue pour le début des épreuves. Il est effectué par les soins du directeur régional des affaires sanitaires et sociales mentionné à l'article 2 et communiqué par lui aux directeurs généraux des centres hospitaliers régionaux ainsi qu'aux directeurs des unités de formation de recherche de médecine de l'interrégion concernés en même temps qu'aux intéressés. Les candidats doivent être avertis de la date et du lieu du tirage au sort afin de pouvoir y assister s'ils le désirent. Le nombre maximum de candidats admis à assister aux opérations de tirage au sort est fixé à cinq.
