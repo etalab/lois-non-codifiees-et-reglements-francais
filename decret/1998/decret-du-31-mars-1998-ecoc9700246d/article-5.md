@@ -12,7 +12,7 @@ La surface palissée utile devra être de 5 700 mètres carrés au minimum par h
 
 Les vignes ne répondant pas à ces dispositions, plantées avant la publication du présent décret, pourront conserver le droit à l'appellation d'origine contrôlée "Côtes de Toul" jusqu'à leur arrachage et, au plus tard, jusqu'à la récolte 2023 incluse.
 
-Par ailleurs, les vignes conduites selon le système dit en lyre pourront conserver le droit à l'appellation d'origine contrôlée "Côtes de Toul" jusqu'à leur arrachage et, au plus tard, jusqu'à la récolte 2004 incluse.
+Par ailleurs, les vignes conduites selon le système dit en lyre pourront conserver le droit à l'appellation d'origine contrôlée "Côtes de Toul" jusqu'à leur arrachage et, au plus tard, jusqu'à la récolte 2020 incluse sous réserve du respect d'un échéancier individuel.
 
 2° Taille :
 

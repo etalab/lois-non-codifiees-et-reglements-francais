@@ -2,6 +2,7 @@
 
 - [Division 401 : Dispositions générales.](division-401)
 - [Division 410 : Règles générales d'arrimage des cargaisons autres qu'en vrac.](division-410)
+- [Division 411 : Transport par mer des marchandises dangereuses en colis](division-411)
 - [Division 412 : Véhicules routiers.](division-412)
 - [Division 413 : Bois en pontée.](division-413)
 - [Division 421 : Hydrocarbures.](division-421)
