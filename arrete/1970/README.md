@@ -37,7 +37,6 @@
 - [Arrêté du 20 octobre 1970](arrete-du-20-octobre-1970)
 - [Arrêté du 21 août 1970](arrete-du-21-aout-1970)
 - [Arrêté du 21 mai 1970](arrete-du-21-mai-1970)
-- [Arrêté du 22 juin 1970](arrete-du-22-juin-1970)
 - [Arrêté du 22 septembre 1970](arrete-du-22-septembre-1970)
 - [Arrêté du 23 juin 1970](arrete-du-23-juin-1970)
 - [Arrêté du 24 août 1970](arrete-du-24-aout-1970)
