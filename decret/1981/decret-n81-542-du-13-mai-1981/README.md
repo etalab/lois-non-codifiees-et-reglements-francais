@@ -2,6 +2,5 @@
 
 - [Titre II : Des réseaux classés de distribution de chaleur et de froid](titre-ii)
 - [De l'alimentation des réseaux de distribution de chaleur.](de-l-alimentation-des-reseaux-de-distribution-de-chaleur)
-- [Des réseaux classés de distribution de chaleur](des-reseaux-classes-de-distribution-de-chaleur)
 - [Dispositions diverses.](dispositions-diverses)
 - [De la déclaration d'intérêt général des canalisations de transport et de distribution de chaleur](de-la-declaration-d-interet-general-des-canalisations-de-transport-et)
