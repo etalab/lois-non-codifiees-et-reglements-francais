@@ -534,7 +534,6 @@
 - [Décret n°94-397 du 18 mai 1994 (TEFT9400359D)](decret-n94-397-du-18-mai-1994-teft9400359d)
 - [Décret n°94-398 du 18 mai 1994 (TEFE9400392D)](decret-n94-398-du-18-mai-1994-tefe9400392d)
 - [Décret n°94-399 du 18 mai 1994 (TEFF9400416D)](decret-n94-399-du-18-mai-1994-teff9400416d)
-- [Décret n°94-407 du 18 mai 1994 (HUMC9410004D)](decret-n94-407-du-18-mai-1994-humc9410004d)
 - [Décret n°94-408 du 18 mai 1994 (EQUU9400812D)](decret-n94-408-du-18-mai-1994-equu9400812d)
 - [Décret n°94-409 du 18 mai 1994 (DOMP9400008D)](decret-n94-409-du-18-mai-1994-domp9400008d)
 - [Décret n°94-418 du 18 mai 1994 (ECOC9400047D)](decret-n94-418-du-18-mai-1994-ecoc9400047d)

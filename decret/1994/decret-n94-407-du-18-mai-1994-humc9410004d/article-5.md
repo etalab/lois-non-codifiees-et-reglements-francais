@@ -1,3 +1,0 @@
-# Article 5
-
-La commission est présidée par une personnalité désignée par le Premier ministre sur proposition du ministre des affaires étrangères et du ministre chargé de l'action humanitaire et choisie en raison de sa compétence et de son expérience en matière d'action humanitaire d'urgence. Le président est assisté de deux vice-présidents nommés dans les mêmes formes et choisis l'un parmi les représentants des administrations et l'autre parmi les représentants des organisations non gouvernementales ou parmi les personnalités mentionnées au d de l'article 3. Le président et les deux vice-présidents sont nommés pour une durée de trois ans. Ce mandat peut être renouvelé.
