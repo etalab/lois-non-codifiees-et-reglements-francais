@@ -172,6 +172,7 @@
 - [Décret n°83-664 du 21 juillet 1983](decret-n83-664-du-21-juillet-1983)
 - [Décret n°83-703 du 21 juillet 1983](decret-n83-703-du-21-juillet-1983)
 - [Décret n°83-925 du 21 octobre 1983](decret-n83-925-du-21-octobre-1983)
+- [Décret n°83-927 du 21 octobre 1983](decret-n83-927-du-21-octobre-1983)
 - [Décret n°83-224 du 22 mars 1983](decret-n83-224-du-22-mars-1983)
 - [Décret n°83-227 du 22 mars 1983](decret-n83-227-du-22-mars-1983)
 - [Décret n°83-228 du 22 mars 1983](decret-n83-228-du-22-mars-1983)
