@@ -409,7 +409,6 @@
 - [Arrêté du 13 juillet 2004 (INTD0400585A)](arrete-du-13-juillet-2004-intd0400585a)
 - [Arrêté du 13 juillet 2004 (MENS0401589A)](arrete-du-13-juillet-2004-mens0401589a)
 - [Arrêté du 13 juillet 2004 (SANP0422512A)](arrete-du-13-juillet-2004-sanp0422512a)
-- [Arrêté du 13 juillet 2004 (SANS0422905A)](arrete-du-13-juillet-2004-sans0422905a)
 - [Arrêté du 13 octobre 2004 (DEVP0430382A)](arrete-du-13-octobre-2004-devp0430382a)
 - [Arrêté du 13 octobre 2004 (INTD0400770A)](arrete-du-13-octobre-2004-intd0400770a)
 - [Arrêté du 13 octobre 2004 (SANG0423399A)](arrete-du-13-octobre-2004-sang0423399a)
