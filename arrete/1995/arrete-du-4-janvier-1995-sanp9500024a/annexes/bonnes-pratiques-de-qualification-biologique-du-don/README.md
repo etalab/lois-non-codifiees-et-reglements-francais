@@ -1,0 +1,16 @@
+# Bonnes pratiques de qualification biologique du don
+
+- [I. - PERSONNEL.](i)
+- [II - LOCAUX](ii)
+- [IV  - AUTOMATION ET INFORMATISATION.](iv)
+- [V. - GESTION DES ÉCHANTILLONS.](v)
+- [VI - DÉPISTAGE DES MALADIES TRANSMISSIBLES](vi)
+- [VII  - ANALYSES IMMUNO-HÉMATOLOGIQUES](vii)
+- [VIII - ÉPREUVE DIRECTE DE COMPATIBILITÉ AU LABORATOIRE DES PRODUITS SANGUINS LABILES ÉRYTHROCYTAIRES.](viii)
+- [IX - GESTION DES DÉCHETS.](ix)
+- [X. - DOCUMENTATION.](x)
+- [XI - MAÎTRISE DE LA QUALITÉ.](xi)
+- [Glossaire.](glossaire)
+- [III.-MATÉRIEL](iii-materiel)
+- [Rappel de la loi du 4 janvier 1993.](rappel-de-la-loi)
+- [Préambule.](preambule)

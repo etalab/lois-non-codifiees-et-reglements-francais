@@ -1,0 +1,15 @@
+# Article Annexe
+
+Les bonnes pratiques de qualification biologique du don font partie des bonnes pratiques transfusionnelles.
+
+La qualification biologique du don concerne l'ensemble des analyses biologiques et tests de dépistage obligatoires préalables à la distribution et à l'utilisation des produits sanguins labiles, tels que prévus par l'article L. 666-4 du code de la santé publique, à l'exception du dosage de l'hémoglobine ou de la détermination du taux d'hématocrite qui feront l'objet d'un règlement complémentaire intégrant notamment d'autres analyses biologiques dont l'objet est de vérifier l'aptitude du donneur aux différents types de don.
+
+Eu égard à la mission de santé publique exercée par les établissements de transfusion sanguine conformément à la loi n° 93-5 du 4 janvier 1993, la qualification biologique du don présente un double objet : elle vise, en premier lieu, à assurer la sécurité du receveur vis-à-vis des risques liés à la compatibilité immuno-hématologique et aux maladies transmissibles par le sang et, en second lieu, lorsque des anomalies ou des particularités sont mises en évidence à l'occasion de ces analyses, elle assure la protection du donneur par son information.
+
+Le règlement " Bonnes pratiques de qualification biologique du don " a pour objet de définir un cadre à l'organisation des laboratoires de qualification biologique du don au sein des établissements de transfusion sanguine et des règles plus spécifiques pour chacune des analyses biologiques. Un don qualifié est un don pour lequel ont été effectués les analyses biologiques et tests de dépistage exigés par la réglementation en vigueur selon les règles de bonnes pratiques. Les résultats des analyses de qualification biologique du don participent au contrôle de conformité des produits sanguins labiles dont l'objet plus global est de vérifier la conformité de tous les paramètres à respecter pour assurer leur qualité et leur sécurité selon leur destination. L'application de cette réglementation doit aboutir à la mise en place d'un système de maîtrise et de surveillance de la qualité au laboratoire dans le but d'apporter un maximum de garanties au niveau de la sécurité transfusionnelle des produits sanguins labiles.
+
+La qualification biologique du don comprend également les analyses biologiques en vue des qualifications prévues par la liste des produits sanguins labiles (arrêté du 27 septembre 1993), c'est-à-dire les analyses complémentaires non obligatoires qui permettent de compléter les caractéristiques de certains produits sanguins labiles afin de répondre à des utilisations thérapeutiques spécifiques (phénotypé, CMV négatif, compatibilisé).
+
+Les bonnes pratiques de qualification biologique du don s'appliquent globalement aux prélèvements effectués dans le cadre de la transfusion autologue sans préjudice des dispositions spécifiques propres à cette activité.
+
+Ces bonnes pratiques de qualification biologique du don sont régulièrement complétées et actualisées en fonction de l'évolution des connaissances et des techniques, particulièrement rapide dans ce domaine.

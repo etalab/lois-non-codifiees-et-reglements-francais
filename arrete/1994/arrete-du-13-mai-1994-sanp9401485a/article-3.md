@@ -8,7 +8,7 @@ b) Du directeur de la sécurité sociale ou de son représentant ;
 
 c) D'un président de conseil général désigné par le président de l'assemblée des présidents des conseils généraux de France ou de son représentant ;
 
-d) Du représentant de la Caisse nationale d'assurance maladie des travailleurs salariés ;
+d) Des deux représentants de la Caisse nationale d'assurance maladie des travailleurs salariés ;
 
 e) Du délégué général du Comité français d'éducation pour la santé ou de son représentant ;
 

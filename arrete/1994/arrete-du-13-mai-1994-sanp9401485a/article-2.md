@@ -12,7 +12,7 @@ c) Deux présidents de conseil général ou leurs représentants désignés par 
 
 d) Deux médecins inspecteurs de santé publique désignés par le ministre chargé de la santé ;
 
-e) Un représentant de la Caisse nationale d'assurance maladie des travailleurs salariés ;
+e) Deux représentants de la Caisse nationale d'assurance maladie des travailleurs salariés ;
 
 f) Un représentant de l'Union des caisses centrales des mutualités agricoles ;
 
