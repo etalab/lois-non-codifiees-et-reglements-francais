@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
+- [Annexe C](annexe-c)
 - [Annexe D](annexe-d)
 - [Annexe A](annexe-a)
 - [Annexe B](annexe-b)
