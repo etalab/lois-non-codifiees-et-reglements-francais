@@ -6,5 +6,4 @@
 - [CHAPITRE IV : Du tableau d'avancement.](chapitre-iv)
 - [CHAPITRE V : Des listes d'aptitude et de sélection.](chapitre-v)
 - [CHAPITRE VI : Des fonctions en service extraordinaire à la Cour de cassation, du détachement judiciaire et de l'intégration directe dans le corps judiciaire.](chapitre-vi)
-- [CHAPITRE VII : De la commission consultative du parquet.](chapitre-vii)
 - [CHAPITRE VIII : Dispositions transitoires.](chapitre-viii)
