@@ -173,7 +173,6 @@
 - [Décret n°80-177 du 25 février 1980](decret-n80-177-du-25-fevrier-1980)
 - [Décret n°80-220 du 25 mars 1980](decret-n80-220-du-25-mars-1980)
 - [Décret n°80-308 du 25 avril 1980](decret-n80-308-du-25-avril-1980)
-- [Décret n°80-580 du 25 juillet 1980](decret-n80-580-du-25-juillet-1980)
 - [Décret n°80-665 du 25 août 1980](decret-n80-665-du-25-aout-1980)
 - [Décret n°80-936 du 25 novembre 1980](decret-n80-936-du-25-novembre-1980)
 - [Décret n°80-963 du 25 novembre 1980](decret-n80-963-du-25-novembre-1980)
