@@ -1,12 +1,12 @@
 # Article 7
 
-Pour ouvrir droit à l'allocation de logement, le logement doit comporter, s'il s'agit d'un logement construit avant le 1er septembre 1948 :
+Sauf en ce qui concerne les personnes mentionnées à l'article 16 ci-dessous [*infirmes, personnes âgées*], le logement doit, pour ouvrir droit à l'allocation de logement, comporter s'il s'agit d'un logement construit avant le 1er septembre 1948 :
 
 Un poste d'eau potable ;
 
 Des moyens d'évacuation des eaux usées ;
 
-Un w.c. particulier dans les maisons individuelles ou dans un w.c. commun situé à l'étage ou au demi-étage dans les immeubles collectifs ;
+Un w.c. particulier dans les maisons individuelles ou dans un w.C. commun situé à l'étage ou au demi-étage dans les immeubles collectifs ;
 
 Un w.c. collectif situé à l'étage ou au demi-étage pour une chambre isolée ;
 
