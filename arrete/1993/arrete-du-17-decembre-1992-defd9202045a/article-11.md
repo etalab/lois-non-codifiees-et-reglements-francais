@@ -1,0 +1,3 @@
+# Article 11
+
+Les militaires qui désirent à titre personnel participer à des manifestations sportives dont le retentissement auprès du grand public est bénéfique pour les forces armées, telles que les compétitions internationales, les tentatives de records, les raids automobiles ou aériens, peuvent, après avis du commissaire aux sports militaires, recevoir un ordre de mission du délégué général pour l'armement, des chefs d'état-major, du directeur général de la gendarmerie nationale, des directeurs centraux du service de santé des armées ou du service des essences des armées dont ils relèvent.
