@@ -17,6 +17,7 @@
 - [Décret n°84-184 du 14 mars 1984](decret-n84-184-du-14-mars-1984)
 - [Décret n°84-34 du 16 janvier 1984](decret-n84-34-du-16-janvier-1984)
 - [Décret n°84-36 du 16 janvier 1984](decret-n84-36-du-16-janvier-1984)
+- [Décret n°84-38 du 18 janvier 1984](decret-n84-38-du-18-janvier-1984)
 - [Décret n°83-1256 du 20 décembre 1983](decret-n83-1256-du-20-decembre-1983)
 - [Décret n°83-929 du 21 octobre 1983](decret-n83-929-du-21-octobre-1983)
 - [Décret n°84-128 du 22 février 1984](decret-n84-128-du-22-fevrier-1984)
