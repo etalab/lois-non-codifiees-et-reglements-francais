@@ -8,4 +8,4 @@ b) Regrouper dans une même enceinte les commerces appartenant à leurs associé
 
 c) Dans le cadre des dispositions législatives concernant les activités financières, faciliter l'accès des associés et de leur clientèle aux divers moyens de financement et de crédit ;
 
-d) Exercer les activités complémentaires à celles énoncées ci-dessus, et notamment fournir à leurs associés une assistance en matière de gestion technique, financière et comptable.
+d) Exercer les activités complémentaires à celles énoncées ci-dessus, et notamment fournir à leurs associés une assistance en matière de gestion technique, financière et comptable.    e) Acheter des fonds de commerce dont, par dérogation aux dispositions de l'article 4 de la loi n° 56-277 du 20 mars 1956, la location-gérance sera concédée dans un délai de deux mois à un associé et qui, sous les sanctions prévues au deuxième et troisième alinéas de l'article 17 ci-dessous, devront être rétrocédés dans un délai maximum de sept ans.
