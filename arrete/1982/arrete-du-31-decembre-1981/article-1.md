@@ -1,3 +1,3 @@
 # Article 1
 
-Le taux de la taxe créée par le décret susvisé du 13 mars 1978 est de nouveau fixé à 0,30 p. 100 de la valeur imposable jusqu'au 31 décembre 1982.
+La taxe instituée par l'article 1618 quinquies du code général des impôts est perçue en fonction du poids net des huiles végétales et des huiles d'animaux marins incorporées. Ce poids, ainsi que la nature des huiles, doit être expressément mentionné sur les déclarations d'importation des produits alimentaires en cause [*mention obligatoire*].
