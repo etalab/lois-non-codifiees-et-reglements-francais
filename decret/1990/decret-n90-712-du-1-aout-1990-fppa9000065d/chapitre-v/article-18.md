@@ -1,0 +1,3 @@
+# Article 18
+
+Les agents techniques de chancellerie ainsi que les agents de chancellerie exerçant des fonctions administratives de bureau régis par le décret n° 71-453 du 7 juin 1971 relatif au statut particulier des corps d'adjoints de chancellerie, de sténodactylographes de chancellerie et d'agents de chancellerie sont intégrés dans le corps des agents administratifs de chancellerie, dans les mêmes conditions que celles qui sont prévues par le présent décret pour l'intégration respectivement d'agents techniques de bureau et d'agents de bureau dans un corps d'agents administratifs d'administration centrale.

@@ -1,5 +1,19 @@
 # Article 26
 
-Les contremaîtres principaux régis par le décret n° 75-888 du 23 septembre 1975 susmentionné sont intégrés, au 1er août 1990, dans les corps de maîtres ouvriers des administrations de l'Etat au grade de maître ouvrier principal à l'échelon que les intéressés ont atteint dans leur grade d'origine et en conservant l'ancienneté d'échelon acquise.
+A titre transitoire, jusqu'au 31 juillet 1993, par dérogation à l'article 16 ci-dessus, le grade de maître ouvrier principal ne comporte que cinq échelons.
 
-Les services accomplis dans le grade de contremaître principal sont assimilés à des services accomplis dans le grade de maître ouvrier principal.
+La durée moyenne et la durée minimale du temps passé dans chacun des quatre premiers échelons du grade de maître ouvrier principal sont celles fixées dans le tableau de l'article 16 ci-dessus.
+
+Les maîtres ouvriers principaux parvenus au 5e échelon de leur grade au 1er août 1993 sont reclassés à cette date au 5e ou au 6e échelon conformément au tableau suivant :
+
+SITUATION ANCIENNE : 5e échelon avant 4 ans
+
+SITUATION NOUVELLE : 5e échelons
+
+Ancienneté d'échelon : Ancienneté acquise
+
+SITUATION ANCIENNE : 5e échelon après 4 ans
+
+SITUATION NOUVELLE : 6e échelons
+
+Ancienneté d'échelon : Ancienneté acquise diminuée de 4 ans

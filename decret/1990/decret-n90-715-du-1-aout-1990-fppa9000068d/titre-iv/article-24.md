@@ -1,3 +1,3 @@
 # Article 24
 
-Jusqu'à l'installation des commissions administratives paritaires propres aux corps régis par le présent décret, demeurent compétentes à l'égard de ces derniers corps les commissions administratives paritaires compétentes à l'égard des corps dont les membres bénéficient des mesures d'intégration prévues par le présent décret.
+Les grades d'agents des services techniques de 1re classe des corps régis par le présent décret sont créés à compter du 1er août 1993.
