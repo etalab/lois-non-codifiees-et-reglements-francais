@@ -347,7 +347,6 @@
 - [Arrêté du 17 juillet 2001 (EQUH0101093A)](arrete-du-17-juillet-2001-equh0101093a)
 - [Arrêté du 17 juillet 2001 (EQUH0101094A)](arrete-du-17-juillet-2001-equh0101094a)
 - [Arrêté du 17 juillet 2001 (MENE0101550A)](arrete-du-17-juillet-2001-mene0101550a)
-- [Arrêté du 17 juin 2003 (PRMX0306651A)](arrete-du-17-juin-2003-prmx0306651a)
 - [Arrêté du 17 octobre 2001 (MESH0123720A)](arrete-du-17-octobre-2001-mesh0123720a)
 - [Arrêté du 17 septembre 2001 (MENI0101392A)](arrete-du-17-septembre-2001-meni0101392a)
 - [Arrêté du 17 septembre 2001 (PRMX0105083A)](arrete-du-17-septembre-2001-prmx0105083a)
