@@ -1,10 +1,10 @@
 # Article 75
 
-1. Les pièces justificatives susceptibles d'être utilisées pour établir l'identité des parties, outre celle visée au cinquième alinéa de l'article 5 du décret n° 55-22 du 4 janvier 1955, sont indiquées au a et au b ci-après.
+1. Les pièces justificatives susceptibles d'être utilisées pour établir l'identité des parties, outre celle visée au cinquième alinéa de l'article 5 du décret du 4 janvier 1955, sont indiquées au a et au b ci-après.
 
 a) Pour les personnes nées hors de France, le certificat d'identité est établi indifféremment :
 
-- au vu d'un extrait de l'acte tenant lieu d'acte de naissance prévu aux articles 98 et 98-2 du Code civil, ayant moins de six mois de date au jour de l'acte ou de la décision judiciaire ;
+- au vu d'un extrait de l'acte tenant lieu d'acte de naissance prévu aux articles 98 et 98-2 du code civil, ayant moins de six mois de date au jour de l'acte ou de la décision judiciaire ;
 
 - au vu, en cas de mariage en France, d'un extrait de l'acte de mariage ayant moins de six mois de date au jour de l'acte ou de la décision judiciaire ;
 
