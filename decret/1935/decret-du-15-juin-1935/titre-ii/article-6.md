@@ -1,0 +1,5 @@
+# Article 6
+
+Les avances prévues aux contrats d'engagement par application des articles 58 à 60 du code du travail maritime et les délégations prévues par l'article 61 du même code sont payées au marin ou à ses ayants droit, aux dates fixées par le contrat ; les avances, en présence de l'administrateur des affaires maritimes et les délégations sous son contrôle.
+
+La partie des avances à imputer sur les salaires et parts à échoir au marin qui est, conformément à l'article 1er du présent décret, déterminée par le contrat, ne peut dépasser : pour les chalutiers, deux mois de salaires ; pour les autres navires armant aux grandes pêches, une somme qui sera fixée dans chaque port d'armement, avant le 1er janvier de l'année, par une commission de trois membres comprenant : l'administrateur des affaires maritimes, un représentant des organisations corporatives d'armateurs à la pêche et un représentant des organisations corporatives de marins, ces représentants étant désignés sur la proposition desdites organisations par l'administrateur des affaires maritimes.
