@@ -30,4 +30,4 @@ b) A un emploi conduisant à pension d'une administration de l'Etat qui est norm
 
 7° Par une affectation, à l'issue d'un congé de formation, prononcée dans le cadre des dispositions du deuxième alinéa de l'article 17 du décret du 14 juin 1985 susvisé, du fonctionnaire affecté, lors de sa reprise de fonctions, dans une résidence différente de celle où il exerçait ses fonctions lors de sa mise en congé et sous réserve que ce changement d'affectation n'ait pas lieu sur sa demande ;
 
-8° Par l'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 1er du décret du 30 juin 1972 susvisé et de l'article 9 du décret du 22 décembre 1958 susvisé.
+8° Par l'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 1er du décret du 21 mars 1997 susvisé et de l'article 9 du décret du 22 décembre 1958 susvisé.

@@ -4,7 +4,7 @@ I. - Dans la proportion minimale de trois emplois vacants sur six, les inspecteu
 
 II. - Peuvent être nommés inspecteurs, après avis de la commission administrative paritaire, dans la proportion maximale de trois emplois vacants sur six :
 
-1° Les fonctionnaires appartenant à un des corps recrutés par la voie de l'Ecole nationale d'administration, comptant huit années de services effectifs dans un ou plusieurs de ces corps et ayant satisfait à l'obligation de mobilité prévue à l'article 1er du décret du 30 juin 1972 susvisé ;
+1° Les fonctionnaires appartenant à un des corps recrutés par la voie de l'Ecole nationale d'administration, comptant huit années de services effectifs dans un ou plusieurs de ces corps et ayant satisfait à l'obligation de mobilité prévue à l'article 1er du décret du 21 mars 1997 susvisé ;
 
 2° Les fonctionnaires du corps du personnel supérieur des directions régionales et départementales des affaires sanitaires et sociales ayant occupé pendant trois ans au moins un emploi de directeur régional ou de directeur départemental des affaires sanitaires et sociales ;
 
