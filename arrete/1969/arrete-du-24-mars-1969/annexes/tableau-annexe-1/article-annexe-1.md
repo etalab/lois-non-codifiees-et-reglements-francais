@@ -1,6 +1,6 @@
 # Article Annexe 1
 
-Masseurs-kinésithérapeutes :
+Chefs et cheftaines d'unités de soins :
 
 ==============================
 
@@ -15,4 +15,4 @@ ECHELON :   INDICES    : DUREE
 </tr>
 </table>
 
---------:------:-------:------ 7 éch   : 415  :  330  : 6 éch   : 390  :  315  : 3 ans 5 éch   : 365  :  395  : 3 ans 4 éch   : 340  :  280  : 3 ans 3 éch   : 315  :  260  : 3 ans 2 éch   : 290  :  245  : 2 ans 1 éch   : 275  :  234  : 2 ans ==============================
+--------:------:-------:------ 5 éch   : 415  :  330  : 4 éch   : 390  :  315  : 3 ans 3 éch   : 365  :  295  : 3 ans 2 éch   : 340  :  280  : 3 ans 1 éch   : 315  :  260  : 3 ans ==============================
