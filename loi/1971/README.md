@@ -17,6 +17,7 @@
 - [Loi n° 71-525 du 3 juillet 1971](loi-n-71-525-du-3-juillet-1971)
 - [Loi n° 71-526 du 3 juillet 1971](loi-n-71-526-du-3-juillet-1971)
 - [Loi n° 71-562 du 12 juillet 1971](loi-n-71-562-du-12-juillet-1971)
+- [Loi n° 71-569 du 15 juillet 1971](loi-n-71-569-du-15-juillet-1971)
 - [Loi n°70-1301 du 31 décembre 1970](loi-n70-1301-du-31-decembre-1970)
 - [Loi n°70-1318 du 31 décembre 1970](loi-n70-1318-du-31-decembre-1970)
 - [Loi n°70-1324 du 31 décembre 1970](loi-n70-1324-du-31-decembre-1970)
