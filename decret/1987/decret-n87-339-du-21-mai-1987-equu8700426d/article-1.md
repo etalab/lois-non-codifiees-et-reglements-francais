@@ -2,15 +2,19 @@
 
 L'enquête publique à laquelle, en application de l'article L. 147-3 du code de l'urbanisme, doivent être soumis les plans d'exposition au bruit des aérodromes est organisée conformément à la loi n° 83-630 du 12 juillet 1983 et aux dispositions du chapitre II du décret n° 85-453 du 23 avril 1985, sous réserve des dispositions suivantes.
 
-I. - Le dossier soumis à l'enquête publique comprend les pièces suivantes :
+I. - le dossier soumis à l'enquête publique comprend les pièces suivantes :
 
 1° Une notice explicative précisant l'objet de l'enquête et la portée des plans d'exposition au bruit ;
 
-2° Le plan d'exposition au bruit ;
+2° Le projet de plan d'exposition au bruit ;
 
-3° L'avis des communes intéressées et de la commission consultative de l'environnement ;
+3° L'avis des communes intéressées et, s'il y a lieu, celui des établissements publics de coopération intercommunale compétents ;
 
-4° La mention des textes qui régissent l'enquête publique en cause et l'indication de la façon dont cette enquête s'insère dans la procédure administrative d'établissement du plan d'exposition au bruit considéré.
+4° L'avis de l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes visés au 3 de l'article 266 septies du code des douanes ;
+
+5° L'avis de la commission consultative de l'environnement, lorsqu'elle existe ;
+
+6° La mention des textes qui régissent l'enquête publique en cause et l'indication de la façon dont cette enquête s'insère dans la procédure administrative d'établissement du plan d'exposition au bruit considéré.
 
 II. - Lorsque le plan d'exposition au bruit intéresse le territoire de plusieurs départements, l'enquête est ouverte et organisée par un arrêté conjoint des préfets des départements intéressés. Le préfet du département où est situé l'aérodrome est alors chargé de coordonner l'organisation de l'enquête et d'en centraliser les résultats. Lorsque l'emprise d'un aérodrome s'étend sur deux ou plusieurs départements, le préfet du département sur le territoire duquel est située la plus grande partie de l'aérodrome est chargé de coordonner l'organisation de l'enquête et d'en centraliser les résultats.
 
