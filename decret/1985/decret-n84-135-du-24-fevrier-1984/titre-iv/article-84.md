@@ -1,3 +1,3 @@
 # Article 84
 
-La durée totale des fonctions dans un centre hospitalier et universitaire soit en qualité de chef de clinique des universités-assistants des hôpitaux, d'assistant des universités-assistant des hôpitaux ou d'assistant hospitalier universitaire, soit en qualité de praticien hospitalier-universitaire ne peut excéder six ans. Les trois ans d'ancienneté requis des praticiens hospitaliers-universitaires, pour les recrutements en qualité de professeur des universités-praticien hospitalier, peuvent comprendre les années accomplies en qualité de chef de clinique des universités-assistant des hôpitaux.
+Pour l'application du deuxième alinéa de l'article 26 ci-dessus, les fonctions d'assistant des universités-assistant des hôpitaux sont assimilées aux fonctions d'assistant hospitalier universitaire.
