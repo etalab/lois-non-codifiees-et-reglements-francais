@@ -1,5 +1,11 @@
 # Article 1
 
-Les cotisations de sécurité sociale dues pour les salariés exerçant une activité à temps choisi de vente et de services par réunions organisées à domicile, à l'exclusion des personnes assurant la vente par diffusion en porte à porte et des salariés visés aux articles L. 751-1 et L. 751-2 du code du travail, sont calculées sur la base d'une somme égale à 20 p. 100 du montant journalier du plafond mentionné à l'article L. 241-3 du code de la sécurité sociale, par réunion de vente.
+Les marchandises ne peuvent être déclarées en détail que par les personnes physiques ou morales suivantes :
 
-Le plafond pris en compte est celui en vigueur à la date du paiement de la rémunération.
+1° Le détenteur, défini au titre Ier ci-dessous ;
+
+2° Les titulaires d'un agrément de commissionnaire en douane ;
+
+3° Les titulaires de l'autorisation de dédouaner prévue à l'article 88 du code des douanes ;
+
+4° Les entreprises visées au titre IV du présent arrêté.

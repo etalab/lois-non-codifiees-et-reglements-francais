@@ -1,3 +1,3 @@
 # Article 3
 
-Par dérogation aux dispositions de l'article 1er du présent arrêté, les cotisations de sécurité sociale dues peuvent, d'un commun accord entre l'employeur et son salarié, être calculées conformément au droit commun compte tenu du montant des rémunérations effectivement servies aux intéressés.
+Le directeur de la sécurité sociale, le délégué à l'emploi, le directeur du gaz, de l'électricité et du charbon et le directeur du budget sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

@@ -5,3 +5,4 @@
 - [Section unique : Travaux souterrains](section-unique)
 - [Section 2 : Dispositions complémentaires pour les travaux souterrains à risque de grisou](section-2)
 - [Première partie : Protection du personnel](premiere-partie)
+- [Deuxième partie : Protection de l'environnement](deuxieme-partie)

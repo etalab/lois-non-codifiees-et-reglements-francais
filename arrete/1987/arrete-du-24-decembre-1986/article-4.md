@@ -1,3 +1,3 @@
 # Article 4
 
-Les employeurs sont autorisés à effectuer à titre provisionnel le versement des cotisations dues sur la base des règles définies à l'article 1er lorsqu'il apparaît que les rémunérations servies aux salariés durant l'année considérée seront au plus égales à la somme des plafonds mensuels. Ils sont tenus de procéder à la régularisation des cotisations dues au titre de l'année antérieure et d'effectuer les versements de cotisations correspondants avant le 31 janvier de l'année suivante [*date limite*] lorsque les rémunérations versées s'avèrent être supérieures à la somme fixée à l'article 2.
+Les remboursements auxquels peut prétendre la Caisse autonome nationale de la sécurité sociale dans les mines au titre des mises en retraite anticipée prévues à l'article 3 sont assurés dans les conditions fixées par la convention susvisée entre cette caisse et la chambre syndicale des ardoisières de l'Ouest.
