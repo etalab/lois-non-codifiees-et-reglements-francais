@@ -4,41 +4,73 @@ Les agents titulaires et stagiaires appartenant à un grade ou emploi classé da
 
 GROUPE I :
 
-GROUPE, SITUATION : 5 éch ,Après 1 an
+GROUPE, SITUATION : 3 éch, Après 6 mois et avant 1 an
+
+SITUATION DANS LE GROUPE SUPERIEUR : 2 éch, Ancienneté acquise majorée de 1 an.
+
+GROUPE, SITUATION : 3 éch, Après 1 an
+
+SITUATION DANS LE GROUPE SUPERIEUR : 3 éch, Ancienneté acquise diminuée de 1 an.
+
+GROUPE, SITUATION : 4 éch, Avant 1 an
+
+SITUATION DANS LE GROUPE SUPERIEUR : 3 éch, Ancienneté acquise majorée de 2 ans.
+
+GROUPE, SITUATION : 4 éch, Après 1 an
 
 SITUATION DANS LE GROUPE SUPERIEUR : 4 éch, Ancienneté acquise diminuée de 1 an.
 
-GROUPE, SITUATION : 6 éch
+GROUPE, SITUATION : 5 éch, Avant 1 an
 
-SITUATION DANS LE GROUPE SUPERIEUR : 5 éch, Ancienneté acquise dans la limite de 4 ans.
+SITUATION DANS LE GROUPE SUPERIEUR : 4 éch, Ancienneté acquise majorée de 2 ans.
 
-GROUPE, SITUATION : 7 éch
+GROUPE, SITUATION : 5 éch, Après 1 an
 
-SITUATION DANS LE GROUPE SUPERIEUR : 6 éch, Ancienneté acquise dans la limite de 4 ans.
+SITUATION DANS LE GROUPE SUPERIEUR : 5 éch, Ancienneté acquise diminuée de 1 an.
 
-GROUPE, SITUATION : 8 éch
+GROUPE, SITUATION : 6 éch, Avant 1 an
 
-SITUATION DANS LE GROUPE SUPERIEUR : 7 éch, Ancienneté acquise dans la limite de 4 ans.
+SITUATION DANS LE GROUPE SUPERIEUR : 5 éch, Ancienneté acquise majorée de 3 ans.
+
+GROUPE, SITUATION : 6 éch, Après 1 an
+
+SITUATION DANS LE GROUPE SUPERIEUR : 6 éch, Ancienneté acquise diminuée de 1 an.
+
+GROUPE, SITUATION : 7 éch, Avant 1 an
+
+SITUATION DANS LE GROUPE SUPERIEUR : 6 éch, Ancienneté acquise majorée de 3 ans.
+
+GROUPE, SITUATION : 7 éch, Après 1 an
+
+SITUATION DANS LE GROUPE SUPERIEUR : 7 éch, Ancienneté acquise diminuée de 1 an.
+
+GROUPE, SITUATION : 8 éch, Avant 1 an
+
+SITUATION DANS LE GROUPE SUPERIEUR : 7 éch, Ancienneté acquise majorée de 3 ans.
+
+GROUPE, SITUATION : 8 éch, Après 1 an
+
+SITUATION DANS LE GROUPE SUPERIEUR : 8 éch, Ancienneté acquise diminuée de 1 an.
 
 GROUPE II :
 
 GROUPE, SITUATION : 7 éch
 
-SITUATION DANS LE GROUPE SUPERIEUR : 8 éch, Ancienneté acquise dans la limite de 4 ans.
+SITUATION DANS LE GROUPE SUPERIEUR : 8 éch Ancienneté acquise dans la limite de 4 ans.
 
 GROUPE, SITUATION : 8 éch
 
-SITUATION DANS LE GROUPE SUPERIEUR : 9 éch, Ancienneté acquise dans la limite de 4 ans.
+SITUATION DANS LE GROUPE SUPERIEUR : 9 éch Ancienneté acquise dans la limite de 4 ans.
 
 GROUPE III, IV, V et VI :
 
 GROUPE, SITUATION : 9 éch
 
-SITUATION DANS LE GROUPE SUPERIEUR : 8 éch, Ancienneté acquise dans la limite de 4 ans.
+SITUATION DANS LE GROUPE SUPERIEUR : 8 éch Ancienneté acquise dans la limite de 4 ans.
 
 GROUPE, SITUATION : 10 éch
 
-SITUATION DANS LE GROUPE SUPERIEUR : 9 éch, Ancienneté acquise dans la limite de 4 ans.
+SITUATION DANS LE GROUPE SUPERIEUR : 9 éch Ancienneté acquise dans la limite de 4 ans.
 
 Lorsque plusieurs grades ou emplois classés dans un même groupe de rémunération comportent moins de quatre agents, la limite de 25 p. 100 s'applique à l'ensemble des grades et emplois classés dans ledit groupe.
 
