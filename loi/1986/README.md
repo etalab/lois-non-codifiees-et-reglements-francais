@@ -18,6 +18,7 @@
 - [Loi n° 86-1197 du 24 novembre 1986](loi-n-86-1197-du-24-novembre-1986)
 - [Loi n° 86-12 du 6 janvier 1986](loi-n-86-12-du-6-janvier-1986)
 - [Loi n° 86-1271 du 15 décembre 1986](loi-n-86-1271-du-15-decembre-1986)
+- [Loi n° 86-1275 du 16 décembre 1986](loi-n-86-1275-du-16-decembre-1986)
 - [Loi n° 86-13 du 6 janvier 1986](loi-n-86-13-du-6-janvier-1986)
 - [Loi n° 86-16 du 6 janvier 1986](loi-n-86-16-du-6-janvier-1986)
 - [Loi n° 86-17 du 6 janvier 1986](loi-n-86-17-du-6-janvier-1986)

@@ -153,6 +153,8 @@
 - [Décret du 10 février 1986](decret-du-10-fevrier-1986)
 - [Décret n°86-1099 du 10 octobre 1986](decret-n86-1099-du-10-octobre-1986)
 - [Décret n°86-1274 du 10 décembre 1986](decret-n86-1274-du-10-decembre-1986)
+- [Décret n°86-1277 du 10 décembre 1986](decret-n86-1277-du-10-decembre-1986)
+- [Décret n°86-1278 du 10 décembre 1986](decret-n86-1278-du-10-decembre-1986)
 - [Décret n°86-332 du 10 mars 1986](decret-n86-332-du-10-mars-1986)
 - [Décret n°86-35 du 10 janvier 1986](decret-n86-35-du-10-janvier-1986)
 - [Décret n°86-355 du 10 mars 1986](decret-n86-355-du-10-mars-1986)

@@ -1,4 +1,4 @@
-# Arrêté du 18 juin 1986 relatif aux concours de recrutement de praticiens des hôpitaux à temps partiel
+# Arrêté du 8 décembre 1986 relatif aux modalités d'exercice du contrôle financier sur l'Agence nationale pour l'amélioration des conditions de travail
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -12,6 +12,3 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
-- [Article 13](article-13.md)
-- [Article 14](article-14.md)
-- [Article 15](article-15.md)
