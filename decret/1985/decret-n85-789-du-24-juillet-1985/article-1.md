@@ -1,3 +1,7 @@
 # Article 1
 
-Les dispositions de l'article 5 de la loi n° 54-405 du 10 avril 1954 cesseront d'être en vigueur à la date à laquelle il sera mis fin, dans les conditions prévues à l'article 7 du présent décret, à l'application du décret n° 56-521 du 24 mai 1956 et du décret n° 62-1137 du 29 septembre 1962.
+Les écoles normales supérieures de Fontenay-aux-Roses et de Saint-Cloud sont dissoutes à la date du 10 juillet 1987.
+
+Les élèves des sections scientifiques des écoles mentionnées au deuxième alinéa sont affectés à l'école normale supérieure de Lyon ; les élèves des autres sections sont affectés à l'école normale supérieure de Fontenay - Saint-Cloud.
+
+Les biens, droits et obligations des écoles mentionnées au premier alinéa sont répartis entre l'école normale supérieure de Fontenay - Saint-Cloud et l'école normale supérieure de Lyon par arrêté du ministre chargé de l'enseignement supérieur.
