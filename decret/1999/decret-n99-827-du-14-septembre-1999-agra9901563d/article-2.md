@@ -1,0 +1,3 @@
+# Article 2
+
+En application des dispositions du b du deuxième alinéa de l'article 2 du décret du 19 septembre 1955 susvisé, les fonctionnaires appartenant à des corps auxquels destine l'Ecole nationale d'administration autres que celui des administrateurs civils ainsi que les ingénieurs en chef du génie rural, des eaux et des forêts, les ingénieurs en chef d'agronomie, les vétérinaires inspecteurs en chef et les directeurs du travail hors classe peuvent être nommés aux emplois de chef de service, de directeur adjoint et de sous-directeur à l'administration centrale du ministère chargé de l'agriculture.
