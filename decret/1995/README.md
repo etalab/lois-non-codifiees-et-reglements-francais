@@ -768,7 +768,6 @@
 - [Décret n°95-439 du 20 avril 1995 (ECOT9540255D)](decret-n95-439-du-20-avril-1995-ecot9540255d)
 - [Décret n°95-441 du 20 avril 1995 (TEFF9500369D)](decret-n95-441-du-20-avril-1995-teff9500369d)
 - [Décret n°95-70 du 20 janvier 1995 (MICT9500008D)](decret-n95-70-du-20-janvier-1995-mict9500008d)
-- [Décret n°95-71 du 20 janvier 1995 (MICT9500006D)](decret-n95-71-du-20-janvier-1995-mict9500006d)
 - [Décret n°95-808 du 20 juin 1995 (COPX9500882D)](decret-n95-808-du-20-juin-1995-copx9500882d)
 - [Décret n°95-815 du 20 juin 1995 (MAEJ9530059D)](decret-n95-815-du-20-juin-1995-maej9530059d)
 - [Décret n°95-816 du 20 juin 1995 (MAEJ9530049D)](decret-n95-816-du-20-juin-1995-maej9530049d)

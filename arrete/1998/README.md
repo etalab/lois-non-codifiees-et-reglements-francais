@@ -623,7 +623,6 @@
 - [Arrêté du 19 juin 1998 (DEFA9851046A)](arrete-du-19-juin-1998-defa9851046a)
 - [Arrêté du 19 juin 1998 (ECOC9800064A)](arrete-du-19-juin-1998-ecoc9800064a)
 - [Arrêté du 19 juin 1998 (MESH9822116A)](arrete-du-19-juin-1998-mesh9822116a)
-- [Arrêté du 19 mars 1998 (AGRH9800423A)](arrete-du-19-mars-1998-agrh9800423a)
 - [Arrêté du 19 mars 1998 (ECOC9700165A)](arrete-du-19-mars-1998-ecoc9700165a)
 - [Arrêté du 19 mars 1998 (ECOC9700220A)](arrete-du-19-mars-1998-ecoc9700220a)
 - [Arrêté du 19 mars 1998 (ECOI9800304A)](arrete-du-19-mars-1998-ecoi9800304a)
