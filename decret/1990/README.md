@@ -171,6 +171,7 @@
 - [Décret n°90-1005 du 8 novembre 1990 (ACVP8920026D)](decret-n90-1005-du-8-novembre-1990-acvp8920026d)
 - [Décret n°90-1006 du 8 novembre 1990 (ACVP8920025D)](decret-n90-1006-du-8-novembre-1990-acvp8920025d)
 - [Décret n°90-1007 du 8 novembre 1990 (ACVP8920027D)](decret-n90-1007-du-8-novembre-1990-acvp8920027d)
+- [Décret n°90-1008 du 8 novembre 1990 (SPSN8902383D)](decret-n90-1008-du-8-novembre-1990-spsn8902383d)
 - [Décret n°90-205 du 8 mars 1990 (BUDF9010015D)](decret-n90-205-du-8-mars-1990-budf9010015d)
 - [Décret n°90-214 du 8 mars 1990 (TEFF9003218D)](decret-n90-214-du-8-mars-1990-teff9003218d)
 - [Décret n°90-215 du 8 mars 1990 (TEFE9003217D)](decret-n90-215-du-8-mars-1990-tefe9003217d)
