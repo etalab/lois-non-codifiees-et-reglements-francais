@@ -1,3 +1,11 @@
 # Article 14
 
-Pour l'application des articles 12 et 13 ci-dessus, les jurys peuvent, compte tenu notamment du nombre des candidats, se constituer en groupes d'examinateurs en vue de la correction des épreuves écrites et des interrogations orales.
+Pour chacun des concours, le jury détermine le nombre total des points nécessaires pour être admissible et, sur cette base, arrête la liste des candidats admis à se présenter aux épreuves d'admission.
+
+A l'issue des épreuves d'admission, le jury arrête la liste d'admission, dans la limite des places offertes au concours. Cette liste est distincte pour chacun des concours.
+
+En cas de partage égal des voix, la voix du président est prépondérante.
+
+Les correcteurs peuvent être associés aux délibérations du jury avec voix consultative.
+
+Pour chacun des concours, le président du jury transmet la liste d'admission ainsi établie au président du Centre national de la fonction publique territoriale avec un compte rendu de l'ensemble des opérations.

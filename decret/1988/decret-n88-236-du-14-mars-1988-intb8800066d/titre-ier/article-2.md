@@ -1,6 +1,6 @@
 # Article 2
 
-Il est créé auprès du président du Centre national de la fonction publique territoriale une commission qui a pour mission de se prononcer sur la recevabilité des demandes d'admission à concourir émanant de candidats ne possédant pas l'un des titres ou diplômes réglementairement requis mais titulaires d'un diplôme ou ayant accompli des études d'un niveau équivalent ou supérieur à quatre années d'études supérieures après le baccalauréat. La commission peut entendre les candidats si elle le juge utile.
+Il est créé auprès du président du Centre national de la fonction publique territoriale une commission qui a pour mission de se prononcer sur la recevabilité des demandes d'admission à concourir émanant de candidats ne possédant pas l'un des titres ou diplômes réglementairement requis mais titulaires d'un diplôme ou d'un titre équivalent à un deuxième cycle d'études supérieures. La commission peut entendre les candidats si elle le juge utile.
 
 La commission comprend [*composition*], outre son président, membre du Conseil d'Etat ou de la Cour des comptes, quatre [*nombre*] membres dont :
 
