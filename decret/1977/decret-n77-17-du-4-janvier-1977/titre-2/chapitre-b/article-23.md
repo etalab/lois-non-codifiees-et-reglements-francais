@@ -1,6 +1,6 @@
 # Article 23
 
-L'examen de moniteur de secourisme portera sur le programme du brevet national de secourisme et celui de la spécialisation en ranimation.
+L'examen de moniteur de secourisme portera sur le programme du brevet national des premiers secours et celui de la spécialisation en ranimation.
 
 Il comporte les épreuves suivantes :
 
@@ -8,7 +8,9 @@ Une épreuve écrite anonyme d'une durée de deux heures ;
 
 Une interrogation orale ;
 
-Un exposé oral de quinze minutes sur l'une des matières du programme suivi d'un entretien avec le jury ;
+Un exposé oral de quinze minutes sur l'une des matières du programme ;
+
+suivi d'un entretien avec le jury ;
 
 Une démonstration pratique commentée.
 
