@@ -1,6 +1,6 @@
 # Article 1
 
-Outre son président, le conseil scientifique et technique du Centre national du machinisme agricole, du génie rural, des eaux et des forêts (Cemagref) comprend vingt-trois membres :
+Le conseil scientifique et technique du Centre national du machinisme agricole, du génie rural, des eaux et des forêts (Cemagref) comprend vingt-trois membres :
 
 a) Deux membres de droit ou leurs suppléants nommément désignés :
 

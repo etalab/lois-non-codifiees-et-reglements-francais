@@ -1,0 +1,3 @@
+# Article 1
+
+CEGETEL Entreprises est autorisée à établir et à exploiter un réseau de télécommunications ouvert au public, en vue de la fourniture au public de tous services de télécommunications, à l'exclusion du service téléphonique entre points fixes, selon les prescriptions techniques et réglementaires fixées dans le cahier des charges annexé au présent arrêté. La zone géographique couverte par la présente autorisation est la suivante : la région Ile-de-France et l'ensemble des agglomérations de plus de 100 000 habitants situées en régions Rhône-Alpes, Provence-Alpes-Côte d'Azur, Midi-Pyrénées, Aquitaine, Nord - Pas-de-Calais, Alsace, Lorraine, Pays de la Loire et Réunion.
