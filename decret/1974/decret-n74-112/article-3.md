@@ -1,7 +1,3 @@
 # Article 3
 
-Des arrêtés du ministre de la santé publique et de la sécurité sociale et du ministre de l'éducation nationale fixeront en outre :
-
-Les conditions dans lesquelles des praticiens exerçant certaines professions para-médicales ou à caractère social pourront être dispensés de la première année d'études et se présenter directement au concours prévu à l'article 2 (paragraphe d) ci-dessus.
-
-Les conditions d'attribution, par équivalence, du diplôme d'Etat de psycho-rééducateur à des personnes munies d'un titre délivré à l'issue d'un enseignement organisé avant la publication du présent décret.
+Les écoles sont chargées de la mise en oeuvre des modalités d'admission sous le contrôle des représentants de l'Etat dans les régions et les départements. Ceux-ci fixent la composition des jurys et procèdent à la nomination des membres de ces derniers. L'organisation des épreuves et l'affichage des résultats sont confiés aux écoles.
