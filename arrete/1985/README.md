@@ -15,7 +15,6 @@
 - [Arrêté du 4 février 1985](arrete-du-4-fevrier-1985)
 - [Arrêté du 4 janvier 1985](arrete-du-4-janvier-1985)
 - [Arrêté du 4 juillet 1985](arrete-du-4-juillet-1985)
-- [Arrêté du 4 juin 1985](arrete-du-4-juin-1985)
 - [Arrêté du 4 mars 1985](arrete-du-4-mars-1985)
 - [Arrêté du 4 octobre 1985](arrete-du-4-octobre-1985)
 - [Arrêté du 5 août 1985](arrete-du-5-aout-1985)

@@ -1,5 +1,0 @@
-# Article 6
-
-Les déclarations individuelles de candidature dûment signées doivent comporter l'indication des noms patronymiques, le cas échéant complétés par les noms maritaux pour les candidates, prénoms, collège électoral ainsi que l'unité de formation et de recherche odontologiques d'affectation des intéressés et l'établissement hospitalier où ils exercent leurs fonctions. Elles sont établies en deux exemplaires. Elles doivent parvenir au ministère des affaires sociales, de la santé et de la ville (direction des hôpitaux, bureau PM 1), 8, avenue de Ségur, 75350 Paris Cedex 7 SP, et au ministère de l'enseignement supérieur et de la recherche (direction générale de l'administration, des ressources humaines et des affaires financières, bureau DGA 3), 3-5, boulevard Pasteur, 75015 Paris, par lettre recommandée avec demande d'avis de réception six semaines au moins avant la date fixée pour le scrutin.
-
-Aucune candidature ne peut être déposée ou retirée après la date limite prévue à l'alinéa précédent.

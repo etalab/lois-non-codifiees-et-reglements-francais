@@ -868,7 +868,6 @@
 - [Arrêté du 22 septembre 1994 (ENVP9430348A)](arrete-du-22-septembre-1994-envp9430348a)
 - [Arrêté du 22 septembre 1994 (SPSG9402964A)](arrete-du-22-septembre-1994-spsg9402964a)
 - [Arrêté du 23 août 1994 (INDP9400978A)](arrete-du-23-aout-1994-indp9400978a)
-- [Arrêté du 23 août 1994 (RESM9401162A)](arrete-du-23-aout-1994-resm9401162a)
 - [Arrêté du 23 août 1994 (RESM9401163A)](arrete-du-23-aout-1994-resm9401163a)
 - [Arrêté du 23 août 1994 (SPSS9402684A)](arrete-du-23-aout-1994-spss9402684a)
 - [Arrêté du 23 décembre 1993 (EQUT9301886A)](arrete-du-23-decembre-1993-equt9301886a)
