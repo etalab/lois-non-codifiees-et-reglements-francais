@@ -1,0 +1,3 @@
+# Article 2
+
+Les catégories d'informations concernées par ce traitement portent sur les unités de production et sur les personnes physiques. Les données concernant chaque unité de production portent sur son identification, sa structure et son environnement économique, l'utilisation du sol, les cheptels, l'équipement, la population familiale et salariée vivant ou travaillant sur l'unité, la main-d'oeuvre occasionnelle utilisée par celle-ci. Les données ayant trait aux personnes physiques qui dirigent, vivent ou travaillent sur l'unité de production concernent la situation familiale et les activités professionnelles.

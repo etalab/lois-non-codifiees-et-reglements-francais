@@ -25,3 +25,9 @@ j) Les sociétés de droit néerlandais dénommées "naamloze vennootschap", "be
 k) Les sociétés commerciales ou sociétés civiles de forme commerciale, ainsi que d'autres personnes morales exerçant des activités commerciales ou industrielles, qui sont constituées conformément au droit portugais ;
 
 l) Les sociétés constituées conformément au droit du Royaume-Uni.
+
+m) Les sociétés de droit autrichien dénommées "Aktiengesellschaft", et "Gesellschaft mit beschränkter Haftung" ;
+
+n) Les sociétés de droit finlandais dénommées "Osakeyhtiö/aktiebolag", "Osuuskunta/andelslag", "Säästöpankki/sparbank" et "Vakuutusyhtiö/försäkringsbolag" ;
+
+o) Les sociétés de droit suédois dénommées "Aktiebolag", "Bankaktiebolag" et "Försäkringsaktiebolag".

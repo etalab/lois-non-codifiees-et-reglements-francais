@@ -10,8 +10,8 @@ Le calcul des provisions techniques de prestations d'incapacité de travail et d
 
 1° Les lois de maintien en incapacité de travail et en invalidité indiquées en annexe.
 
-Toutefois, il est possible pour une caisse autonome mutualiste ou une mutuelle visée au premier alinéa du présent article d'utiliser une loi de maintien établie par ses soins et certifiée par un actuaire indépendant de cette caisse ou mutuelle, agréé à cet effet par l'une des associations d'actuaires reconnues par la commission de contrôle mentionnée à l'article L. 951-1 du code de la sécurité sociale ;
+Toutefois, il est possible pour une caisse autonome mutualiste ou une mutuelle visée au premier alinéa du présent article d'utiliser une loi de maintien établie par ses soins et certifiée par un actuaire indépendant de cette caisse ou mutuelle, agréé à cet effet par l'une des associations d'actuaires reconnues par la commission de contrôle instituée par l'article L. 951-1 du code de la sécurité sociale ;
 
 2° Un taux d'actualisation qui ne peut excéder 75 p. 100 du taux moyen des emprunts de l'Etat français calculé sur base semestrielle, sans pouvoir dépasser 4,5 p. 100.
 
-Ces dispositions ne s'appliquent pas aux questions issues de contrats d'assurance de groupe souscrits par un établissement de crédit, ayant pour objet la garantie du remboursement d'un emprunt.
+Ces dispositions ne s'appliquent pas aux prestations issues de contrats d'assurance de groupe souscrits par un établissement de crédit, ayant pour objet la garantie du remboursement d'un emprunt.
