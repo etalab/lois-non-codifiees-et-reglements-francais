@@ -4,6 +4,7 @@
 - [SECTION 1 : Contrainte.](section-1)
 - [Article 2](article-2.md)
 - [SECTION 2 : Opposition entre les mains de tiers détenteurs.](section-2)
+- [Section II : Opposition entre les mains de tiers détenteurs](section-ii)
 - [Article 3](article-3.md)
 - [SECTION 3 : Procédure sommaire.](section-3)
 - [Article 4](article-4.md)
