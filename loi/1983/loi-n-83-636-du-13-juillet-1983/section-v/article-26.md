@@ -1,6 +1,6 @@
 # Article 26
 
-La communauté ou le syndicat d'agglomération nouvelle est substitué aux communes membres pour l'application des dispositions relatives à la taxe professionnelle et notamment des articles 1648 A et 1648 B du code général des impôts. Elle ou il perçoit le produit de cette taxe et en vote le taux dans les limites définies aux troisième et quatrième alinéas du I de l'article 1636 B sexies et à l'article 1636 B septies du code général des impôts.
+La communauté ou le syndicat d'agglomération nouvelle est substitué aux communes membres pour l'application des dispositions relatives à la taxe professionnelle, à l'exception de l'article 1648 A, paragraphes II et suivants, et de l'article 1648 B du code général des impôts. Elle ou il perçoit le produit de cette taxe et en vote le taux dans les limites définies aux troisième et quatrième alinéas du I de l'article 1636 B sexies et à l'article 1636 B septies du code général des impôts.
 
 Pour l'application des troisième et quatrième alinéas du I de l'article 1636 B sexies précité :
 
