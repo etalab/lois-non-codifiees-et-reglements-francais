@@ -21,3 +21,9 @@ Les rémunérations servies pour :
 - les programmes locaux d'insertion en faveur des femmes ;
 
 - les allocations mensuelles de l'aide sociale à l'enfance prévues à l'article 43 du code de la famille et de l'aide sociale.
+
+Les rémunérations servies aux personnes suivant des stages agréés dans les conditions prévues à l'article L. 961-3 du code du travail ;
+
+Les rémunérations servies par les institutions mentionnées à l'article L. 351-21, par voie de conventions conclues avec l'Etat ou les régions, en application de l'article L. 961-1 du code du travail.
+
+Pour ces deux dernières catégories de rémunération, l'organisme de formation fournit une attestation de fin de stage et, le cas échéant, l'organisme payeur des rémunérations une attestation de fin de versement.
