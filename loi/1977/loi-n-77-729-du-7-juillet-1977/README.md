@@ -6,5 +6,6 @@
 - [Chapitre IV : Déclarations de candidatures.](chapitre-iv)
 - [Chapitre V : Propagande.](chapitre-v)
 - [Chapitre VI : Opérations électorales](chapitre-vi)
+- [Chapitre VII : Remplacement des représentants](chapitre-vii)
 - [Chapitre VIII : Contentieux](chapitre-viii)
 - [Chapitre IX : Conditions d'application](chapitre-ix)
