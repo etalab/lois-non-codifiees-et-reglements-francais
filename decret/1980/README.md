@@ -167,7 +167,6 @@
 - [Décret n°80-854 du 30 octobre 1980](decret-n80-854-du-30-octobre-1980)
 - [Décret n°80-871 du 30 octobre 1980](decret-n80-871-du-30-octobre-1980)
 - [Décret n°80-99 du 30 janvier 1980](decret-n80-99-du-30-janvier-1980)
-- [Décret n°79-1228 du 31 décembre 1979](decret-n79-1228-du-31-decembre-1979)
 - [Décret n°80-606 du 31 juillet 1980](decret-n80-606-du-31-juillet-1980)
 - [Décret n°80-613 du 31 juillet 1980](decret-n80-613-du-31-juillet-1980)
 - [Décret n°80-865 du 31 octobre 1980](decret-n80-865-du-31-octobre-1980)

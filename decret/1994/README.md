@@ -385,7 +385,6 @@
 - [Décret n°94-309 du 14 avril 1994 (MAEJ9430029D)](decret-n94-309-du-14-avril-1994-maej9430029d)
 - [Décret n°94-311 du 14 avril 1994 (BUDF9420685D)](decret-n94-311-du-14-avril-1994-budf9420685d)
 - [Décret n°94-312 du 14 avril 1994 (BUDF9420686D)](decret-n94-312-du-14-avril-1994-budf9420686d)
-- [Décret n°94-39 du 14 janvier 1994 (RESK9301635D)](decret-n94-39-du-14-janvier-1994-resk9301635d)
 - [Décret n°94-42 du 14 janvier 1994 (JUSC9321010D)](decret-n94-42-du-14-janvier-1994-jusc9321010d)
 - [Décret n°94-800 du 14 septembre 1994 (RESK9400362D)](decret-n94-800-du-14-septembre-1994-resk9400362d)
 - [Décret n°94-802 du 14 septembre 1994 (INTE9400345D)](decret-n94-802-du-14-septembre-1994-inte9400345d)

@@ -1,3 +1,0 @@
-# Article 7
-
-Le comité d'expertise pédagogique, dont les membres sont désignés par le ministre chargé de l'enseignement supérieur pour une durée de quatre ans renouvelable une fois, comprend obligatoirement un enseignant-chercheur de chaque groupe de disciplines et deux personnalités extérieures à l'éducation nationale ; il est présidé par un président ou un ancien président d'université. Un C.E.P.P.E. peut être compétent pour plusieurs établissements d'une même zone géographique ou pour un groupement d'académie. Aucun enseignant-chercheur ne peut faire partie d'un C.E.P.P.E. dont la compétence s'étendrait à la zone géographique où se trouve l'université à laquelle il est affecté.

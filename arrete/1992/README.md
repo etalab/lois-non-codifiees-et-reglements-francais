@@ -1101,7 +1101,6 @@
 - [Arrêté du 30 mars 1990 (ECOP9000117A)](arrete-du-30-mars-1990-ecop9000117a)
 - [Arrêté du 30 mars 1992 (EQUS9200464A)](arrete-du-30-mars-1992-equs9200464a)
 - [Arrêté du 30 mars 1992 (INTB9200178A)](arrete-du-30-mars-1992-intb9200178a)
-- [Arrêté du 30 mars 1992 (MENH9200895A)](arrete-du-30-mars-1992-menh9200895a)
 - [Arrêté du 30 mars 1992 (MENH9200897A)](arrete-du-30-mars-1992-menh9200897a)
 - [Arrêté du 30 mars 1992 (MERP9200056A)](arrete-du-30-mars-1992-merp9200056a)
 - [Arrêté du 30 mars 1992 (PTTS9200059A)](arrete-du-30-mars-1992-ptts9200059a)
