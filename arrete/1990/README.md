@@ -110,6 +110,7 @@
 - [Arrêté du 11 décembre 1989 (RESY8900378A)](arrete-du-11-decembre-1989-resy8900378a)
 - [Arrêté du 11 janvier 1990 (ECOZ8900034A)](arrete-du-11-janvier-1990-ecoz8900034a)
 - [Arrêté du 11 janvier 1990 (EQUT9000150A)](arrete-du-11-janvier-1990-equt9000150a)
+- [Arrêté du 12 avril 1990 (PTTP9000354A)](arrete-du-12-avril-1990-pttp9000354a)
 - [Arrêté du 12 février 1990 (INDH9000032A)](arrete-du-12-fevrier-1990-indh9000032a)
 - [Arrêté du 12 février 1990 (INDH9000033A)](arrete-du-12-fevrier-1990-indh9000033a)
 - [Arrêté du 12 février 1990 (PTTR9000164A)](arrete-du-12-fevrier-1990-pttr9000164a)
