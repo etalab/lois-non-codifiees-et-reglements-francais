@@ -1,5 +1,7 @@
-# Arrêté du 6 mars 1984 du 6 mars 1984 relatif au droit d'inscription à l'examen du permis de chasser.
+# Arrêté du 6 mars 1984 relatif aux conditions hygiéniques d'entreposage, de manutention, d'exposition à la vente et de vente des viandes dans les marchés de gros
 
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
