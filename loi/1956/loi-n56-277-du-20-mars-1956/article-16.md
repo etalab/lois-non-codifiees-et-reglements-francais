@@ -2,7 +2,7 @@
 
 I. - A l'exception du deuxième alinéa de l'article 4, du premier alinéa de l'article 14 et des articles 15 et 17, la présente loi s'applique dans la collectivité territoriale de Saint-Pierre-et-Miquelon aux contrats de location-gérance conclus ou renouvelés après le 15 mars 1999. Les compétences conférées par la présente loi respectivement au tribunal de grande instance et au tribunal de commerce sont exercées, dans cette collectivité, par le tribunal de première instance.
 
-II. - A l'exception du deuxième alinéa de l'article 4, du premier alinéa de l'article 14 et des articles 15 et 17, la présente loi est applicable, dans la collectivité territoriale de Mayotte et dans les territoires d'outre-mer, aux contrats de location-gérance conclus ou renouvelés après le 15 mars 1999, sous réserve des adaptations suivantes :
+II. - A l'exception du deuxième alinéa de l'article 4, du premier alinéa de l'article 14 et des articles 15 et 17, la présente loi est applicable, dans la collectivité territoriale de Mayotte, dans les territoires d'outre-mer et de Nouvelle-Calédonie, aux contrats de location-gérance conclus ou renouvelés après le 15 mars 1999, sous réserve des adaptations suivantes :
 
 a) A l'article 5, les mots : "du président du tribunal de grande instance" sont remplacés par les mots : "du président du tribunal de première instance ou du magistrat délégué par lui" ;
 
