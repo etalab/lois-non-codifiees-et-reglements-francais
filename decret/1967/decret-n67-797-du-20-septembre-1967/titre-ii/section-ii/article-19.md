@@ -7,3 +7,5 @@ Le tiers au moins des membres du conseil de surveillance peut également, en ind
 Le conseil est en outre convoqué par le président, dans un délai maximum de quinze jours, sur demande écrite motivée d'un membre du directoire.
 
 Le lieu, la date et l'heure, ainsi que l'ordre du jour, sont portés au moins huit jours à l'avance à la connaissance des membres du conseil de surveillance, des commissaires du Gouvernement et de la mission de contrôle économique et financier.
+
+Un membre du conseil de surveillance peut se faire représenter à une séance du conseil par un autre membre. Aucun membre ne peut recevoir plus d'un seul mandat.

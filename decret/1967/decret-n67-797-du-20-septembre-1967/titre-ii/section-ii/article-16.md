@@ -8,6 +8,6 @@ Quatre personnalités choisies et désignées dans les conditions prévues au 2�
 
 Quatre représentants des salariés de l'Entreprise minière et chimique ou de ses filiales élus dans les conditions prévues par la loi précitée.
 
-La durée du mandat des membres du conseil de surveillance est de cinq ans. Ils ne peuvent exercer plus de trois mandats consécutifs.
+La durée du mandat des membres du conseil de surveillance est de cinq ans.
 
 Il peut être mis fin à leur mandat dans les conditions prévues aux articles 12, 13 et 25 de la loi précitée.
