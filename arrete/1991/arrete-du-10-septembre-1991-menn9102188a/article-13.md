@@ -1,3 +1,0 @@
-# Article 13
-
-Les procès-verbaux des votes sont adressés au ministère des affaires sociales et de l'intégration (direction des hôpitaux, bureau 7 C) et au ministère de l'éducation nationale (bureau D.P.E.S. 3), conjointement par le directeur général du centre hospitalier régional et par le président de l'université. Les enveloppes ou bulletins de vote déclarés nuls, sur lesquels le motif de nullité sera indiqué, sont adressés au ministère de l'éducation nationale ainsi qu'un exemplaire des listes électorales du cinquième collège indiquant la date de naissance et la date de début des fonctions hospitalières et universitaires.
