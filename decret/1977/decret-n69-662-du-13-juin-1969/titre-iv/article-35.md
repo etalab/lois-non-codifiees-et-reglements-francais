@@ -1,0 +1,3 @@
+# Article 35
+
+Par dérogation aux dispositions de l'article 9 ci-dessus, pendant une période de six ans à compter de la publication du présent décret, les économes intégrés en application des articles 30 et 31 ci-dessus ainsi que les chefs des services administratifs des hôpitaux psychiatriques intégrés en application de l'article 32 peuvent, à condition de réunir six ans de fonctions dans la 4e classe, être respectivement nommés au grade d'attaché de direction chargé des services économiques et d'attaché de direction, après inscription au tableau d'avancement et après avis de la commission de classement prévue à l'article 12.

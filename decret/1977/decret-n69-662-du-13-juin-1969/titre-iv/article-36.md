@@ -1,0 +1,3 @@
+# Article 36
+
+Les personnels en fonctions dans les établissements psychiatriques et les établissements de cure de l'ancien département de la Seine ainsi que les fonctionnaires et agents des hôpitaux psychiatriques autonomes, de l'établissement national de bienfaisance de Saint-Maurice et du sanatorium Vancauwenberghe, à Zuydcoote, occupant dans ces établissements un emploi homologue de l'un de ceux qui sont régis par le présent décret, sont, sous réserve de leur droit d'option prévu à l'article 25 de la loi susvisée du 31 juillet 1968, intégrés et reclassés dans les conditions définies aux articles 28 à 34 ci-dessus, les receveurs étant pour l'application de ces dispositions assimilés à des chefs des services administratifs.
