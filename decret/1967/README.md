@@ -70,6 +70,7 @@
 - [Décret n°67-1039 du 29 novembre 1967](decret-n67-1039-du-29-novembre-1967)
 - [Décret n°67-729 du 29 août 1967](decret-n67-729-du-29-aout-1967)
 - [Décret n°67-752 du 29 août 1967](decret-n67-752-du-29-aout-1967)
+- [Décret n°66-1074 du 30 décembre 1966](decret-n66-1074-du-30-decembre-1966)
 - [Décret n°67-1044 du 30 novembre 1967](decret-n67-1044-du-30-novembre-1967)
 - [Décret n°67-1047 du 30 novembre 1967](decret-n67-1047-du-30-novembre-1967)
 - [Décret n°67-1055 du 30 novembre 1967](decret-n67-1055-du-30-novembre-1967)

@@ -1,0 +1,3 @@
+# Article 1
+
+Sous réserve des dispositions de l'alinéa 2 de l'article 439-2 du Code rural, quiconque aura contrevenu aux dispositions de l'alinéa 1er du même article, qui interdit de colporter, d'offrir à la vente, de vendre ou d'acheter [*commercialisation*] des truites, ombres communs et saumons de fontaine capturés dans les eaux visées à l'article 401 du Code rural [*eaux libres, lacs, canaux, ruisseaux, cours d'eau*], sera puni d'une amende de 600 à 1200 F [*taux résultant du décret 567 du 18 juillet 1980*] ; en outre, le poisson pourra être saisi et confisqué. Le poisson saisi sera remis immédiatement à l'hôpital ou à l'établissement de bienfaisance ou d'aide sociale le plus voisin [*infractions, sanctions*].
