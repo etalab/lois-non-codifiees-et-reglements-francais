@@ -1,0 +1,3 @@
+# Article 8
+
+La surveillance de la qualité des moyens d'essais des laboratoires et des moyens de fabrication et d'essais des constructeurs est exercée par les directions régionales de l'industrie et de la recherche. Elle comporte notamment des prélèvements d'instruments ayant déjà subi les essais de la vérification primitive dans la limite de quatre pour cent, sans toutefois que le nombre d'instruments prélevés puisse être inférieur à deux par an. Les instruments ainsi prélevés font l'objet d'essais ultérieurs au laboratoire national d'essais. Les frais occasionnés par ces prélèvements et ces essais sont à la charge de l'organisme chez qui ces prélèvements sont effectués. A l'issue de ces essais, les instruments peuvent être récupérés.

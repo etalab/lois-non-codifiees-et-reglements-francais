@@ -1,0 +1,3 @@
+# Article 10
+
+Les dispositions du 2° de l'article 9 de la présente loi sont applicables aux demandes d'acquisition reçues en mairie postérieurement à la date de publication de la loi. Les demandes reçues avant cette date sont régies par les dispositions en vigueur à la date de leur réception en mairie. Toutefois, la prorogation du délai d'acquisition prévu par le premier alinéa de l'article L. 123-9 du code de l'urbanisme, dans sa rédaction antérieure à la présente loi, ne pourra être appliquée aux demandes d'acquisition reçues en mairie dans les douze mois précédant la date de publication de la présente loi.
