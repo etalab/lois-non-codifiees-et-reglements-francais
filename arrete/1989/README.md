@@ -590,7 +590,6 @@
 - [Arrêté du 26 décembre 1989 (EQUT8901476A)](arrete-du-26-decembre-1989-equt8901476a)
 - [Arrêté du 26 décembre 1989 (PRME8961554A)](arrete-du-26-decembre-1989-prme8961554a)
 - [Arrêté du 26 décembre 1989 (SPSP8902772A)](arrete-du-26-decembre-1989-spsp8902772a)
-- [Arrêté du 26 janvier 1989 (MERE8900017A)](arrete-du-26-janvier-1989-mere8900017a)
 - [Arrêté du 26 juillet 1989 (INTB8900363A)](arrete-du-26-juillet-1989-intb8900363a)
 - [Arrêté du 26 juin 1989 (COMK8907003A)](arrete-du-26-juin-1989-comk8907003a)
 - [Arrêté du 26 juin 1989 (INTD8900320A)](arrete-du-26-juin-1989-intd8900320a)
