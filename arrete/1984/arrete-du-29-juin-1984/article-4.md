@@ -1,3 +1,7 @@
 # Article 4
 
-La délégation de compétence donnée aux préfets par l'article 6 de l'arrêté n° 82-96 / A du 22 octobre 1982 est confirmée. Les dispositions du présent arrêté ne s'appliquent pas aux entreprises faisant l'objet de mesures spécifiques prises par les préfets en vertu de l'arrêté n° 82-96 / A du 22 octobre 1982.
+L'application des nouveaux prix est subordonnée au respect de la procédure prévue à l'article 1er de l'arrêté n° 83-9/A du 4 février 1983.
+
+Les entreprises doivent également déposer leurs prix auprès de la direction de la pharmacie et du médicament du ministère des affaires sociales et de la solidarité nationale.
+
+A titre de mesure accessoire, les dépôts de prix devront être accompagnés des bilan, compte d'exploitation générale et compte de pertes et profits afférents au dernier exercice clos.

@@ -1,4 +1,4 @@
-# Arrêté du 29 juin 1984 relatif aux tarifs des prestations concernant les bicyclettes, les cyclomoteurs, les motocycles et les voiturettes
+# Arrêté du 29 juin 1984 relatif aux prix des médicaments remboursables aux assurés sociaux
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
