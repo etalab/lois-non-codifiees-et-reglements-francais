@@ -16,6 +16,8 @@ Sans préjudice des dispositions relatives au contrôle métrologique, l'étique
 
 7. Le mode d'emploi chaque fois que son omission ne permet pas de faire un usage approprié de la denrée alimentaire ainsi que, le cas échéant, les conditions particulières d'utilisation, notamment les précautions d'emploi ;
 
-8. Le cas échéant, les autres mentions obligatoires prévues par les dispositions réglementaires relatives à certaines denrées alimentaires.
+8. Le cas échéant, les autres mentions obligatoires prévues par les dispositions réglementaires relatives à certaines denrées alimentaires ;
 
-Des arrêtés du ministre chargé de la consommation, du ministre de l'agriculture et des autres ministres intéressés peuvent prescrire, en ce qui concerne certaines denrées alimentaires déterminées, une indication permettant d'identifier le lot de fabrication.
+9. Le titre alcoométrique volumique acquis pour les boissons titrant plus de 1,2 p. 100 d'alcool en volume ;
+
+10. L'indication du lot de fabrication.
