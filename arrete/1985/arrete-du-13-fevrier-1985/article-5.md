@@ -1,3 +1,3 @@
 # Article 5
 
-Le directeur de la population et des migrations est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+En dehors des agents de la direction générale des impôts [*DGI*] qui en sont destinataires dans le cadre de leurs attributions, les informations faisant l'objet du traitement ne peuvent être communiquées qu'aux personnes auxquelles la loi donne qualité pour en connaître [*droit de communication*].

@@ -1,3 +1,3 @@
 # Article 1
 
-La liste des disciplines et spécialités pour lesquelles des concours de recrutement de praticiens hospitaliers à temps partiel peuvent être organisés est identique à celle retenue pour le recrutement des praticiens hospitaliers à plein temps .
+Les renseignements figurant sur les déclarations prévues aux articles 87, 88, 240 et 241 du code général des impôts font l'objet d'un traitement automatisé par la direction générale des impôts.

@@ -1,4 +1,4 @@
-# Arrêté du 16 décembre 1985 relatif aux disciplines et spécialités pour lesquelles peuvent être organisés des concours de recrutement de praticiens hospitaliers à temps partiel
+# Arrêté du 16 décembre 1985 du 16 décembre 1985 relatif au traitement automatisé des déclarations annuelles prévues aux articles 87, 88, 240 et 241 du code général des impôts.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -8,3 +8,4 @@
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
+- [ETABLISSEMENTS DU TYPE GA : Règlement de sécurité contre les risques d'incendie et de panique dans les établissements recevant du public.](etablissements-du-type-ga)
