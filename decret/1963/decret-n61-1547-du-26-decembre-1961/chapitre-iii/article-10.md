@@ -1,9 +1,3 @@
 # Article 10
 
-Lorsque l'épave est échouée ou a été ramenée sur la côte, l'administrateur de l'inscription maritime fait procéder à sa vente :
-
-Soit à l'expiration du délai de trois mois prévu à l'article 7, si le propriétaire ne l'a pas revendiquée dans ce délai ;
-
-Soit après notification au propriétaire de la décision du ministre chargé de la marine marchande prononçant, par application de l'article 9, la déchéance de ses droits sur l'épave.
-
-L'administrateur de l'inscription maritime peut remettre au sauveteur en propriété toutes les épaves dont il lui apparaît que la vente ne laisserait aucun produit net appréciable.
+Quand l'épave est constituée par un conteneur et dans le cas où l'état défectueux ou l'absence de plaques, étiquettes et autres marques, ne permet pas d'identifier le propriétaire, l'exploitant ou le locataire, l'administrateur des affaires maritimes, chef de quartier, fait procéder à l'ouverture du conteneur. Si le contenu ne présente pas un caractère dangereux, toxique ou polluant, le conteneur est traité comme une épave ordinaire. Si le contenu présente un caractère dangereux, toxique ou polluant, l'autorité compétente en vertu de l'article 6, qui peut se faire assister par l'administrateur des affaires maritimes, chef de quartier, ou son représentant, prend les mesures prévues à l'article 9 ci-dessus.
