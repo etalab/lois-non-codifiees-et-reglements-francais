@@ -508,21 +508,21 @@ Cours d'eau, canaux et plans d'eau de 1re catégorie :
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 
-Département de la Haute-Savoie
+(74) Département de la Haute-Savoie
 
 Cours d'eau, canaux et plans d'eau de 2e catégorie
 
-(Cyprinidés dominants)
+1° Le Rh^one ;
 
-1° Le Rhône ;
+2° Les Usses, en aval du pont de Ch^atel jusqu'à sa confluence avec le Rh^one (communes de Bassy et de Seyssel) ;
 
-2° Le Fier, en aval de son confluent avec le Chéran (communes de Vallières et de Rumilly) ;
+3° Le Fier, en aval de son confluent avec le Chéran (communes de Vallières et de Rumilly) ;
 
-3° Le lac de Machilly.
+4° Le lac de Machilly ;
+
+5° Le lac de Passy.
 
 Cours d'eau, canaux et plans d'eau de 1re catégorie
-
-(Salmondés dominants)
 
 Tous les cours d'eau, canaux et plans d'eau non classés en 2e catégorie.
 

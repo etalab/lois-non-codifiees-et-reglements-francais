@@ -1,6 +1,7 @@
 # 1993
 
 - [Décret n°79-126 du 1 février 1979](decret-n79-126-du-1-fevrier-1979)
+- [Décret n°92-1077 du 1 octobre 1992 (SPSG9202089D)](decret-n92-1077-du-1-octobre-1992-spsg9202089d)
 - [Décret n°92-352 du 1 avril 1992 (TEFT9204532D)](decret-n92-352-du-1-avril-1992-teft9204532d)
 - [Décret n°92-377 du 1 avril 1992 (ENVP9200025D)](decret-n92-377-du-1-avril-1992-envp9200025d)
 - [Décret n°93-134 du 1 février 1993 (RESX9300002D)](decret-n93-134-du-1-fevrier-1993-resx9300002d)
@@ -403,6 +404,7 @@
 - [Décret n°93-942 du 21 juillet 1993 (BUDF9320615D)](decret-n93-942-du-21-juillet-1993-budf9320615d)
 - [Décret n°93-954 du 21 juillet 1993 (SPSG9301799D)](decret-n93-954-du-21-juillet-1993-spsg9301799d)
 - [Décret n°93-957 du 21 juillet 1993 (ECOC9300084D)](decret-n93-957-du-21-juillet-1993-ecoc9300084d)
+- [Décret n°93-960 du 21 juillet 1993 (RESM9300391D)](decret-n93-960-du-21-juillet-1993-resm9300391d)
 - [Décret n°93-822 du 21 mai 1993 (PRMX9300285D)](decret-n93-822-du-21-mai-1993-prmx9300285d)
 - [Décret n°93-823 du 21 mai 1993 (RESK9300320D)](decret-n93-823-du-21-mai-1993-resk9300320d)
 - [Décret n°93-827 du 21 mai 1993 (DEFM9301528D)](decret-n93-827-du-21-mai-1993-defm9301528d)
@@ -631,6 +633,7 @@
 - [Décret n°93-769 du 26 mars 1993 (RESY9300177D)](decret-n93-769-du-26-mars-1993-resy9300177d)
 - [Décret n°93-771 du 26 mars 1993 (RESY9300139D)](decret-n93-771-du-26-mars-1993-resy9300139d)
 - [Décret n°93-806 du 26 avril 1993 (HUMX9300996D)](decret-n93-806-du-26-avril-1993-humx9300996d)
+- [Décret n°93-955 du 26 juillet 1993 (JUSB9310199D)](decret-n93-955-du-26-juillet-1993-jusb9310199d)
 - [Décret du 27 mars 1993 (ENVN9310037D)](decret-du-27-mars-1993-envn9310037d)
 - [Décret n°92-1241 du 27 novembre 1992 (ECOT9295001D)](decret-n92-1241-du-27-novembre-1992-ecot9295001d)
 - [Décret n°92-1244 du 27 novembre 1992 (BUDF9200029D)](decret-n92-1244-du-27-novembre-1992-budf9200029d)
@@ -740,6 +743,8 @@
 - [Décret n°93-751 du 27 mars 1993 (EQUU9300550D)](decret-n93-751-du-27-mars-1993-equu9300550d)
 - [Décret n°93-773 du 27 mars 1993 (RESY9300158D)](decret-n93-773-du-27-mars-1993-resy9300158d)
 - [Décret n°93-774 du 27 mars 1993 (RESY9300159D)](decret-n93-774-du-27-mars-1993-resy9300159d)
+- [Décret n°93-958 du 27 juillet 1993 (TEFE9300777D)](decret-n93-958-du-27-juillet-1993-tefe9300777d)
+- [Décret n°93-959 du 27 juillet 1993 (TEFE9300776D)](decret-n93-959-du-27-juillet-1993-tefe9300776d)
 - [Décret n°93-831 du 27 mai 1993 (BUDR9304130D)](decret-n93-831-du-27-mai-1993-budr9304130d)
 - [Décret n°92-1470 du 28 décembre 1992 (RESY9200550D)](decret-n92-1470-du-28-decembre-1992-resy9200550d)
 - [Décret n°93-117 du 28 janvier 1993 (BUDF9300004D)](decret-n93-117-du-28-janvier-1993-budf9300004d)

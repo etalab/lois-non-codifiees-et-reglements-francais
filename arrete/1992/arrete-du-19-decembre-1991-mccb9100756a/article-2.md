@@ -59,3 +59,9 @@ Spécialité 1 (discipline unique) : Technicien de recherche
 en sciences humaines et sociales
 
 Spécialité 2 (discipline unique) : Technicien de recherche en sciences appliquées aux sciences humaines et sociales.
+
+Assistant ingénieur :
+
+Spécialité 1 (discipline unique) : assistant ingénieur en sciences humaines et sociales ;
+
+Spécialité 2 (discipline unique) : assistant ingénieur en sciences appliquées aux sciences humaines et sociales.

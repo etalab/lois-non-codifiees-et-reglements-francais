@@ -1,9 +1,13 @@
 # Article 2
 
-Les informations nominatives utilisées pour ce traitement portent sur :
+Les informations nominatives qui font l'objet de ce traitement automatisé portent sur :
 
-- l'identité : nom, prénoms, date et lieu de naissance ;
+- l'identité : nom, prénoms, date et lieu de naissance, adresse ;
 
-- le numéro matricule au service national, grade, arme ou service d'appartenance, date de radiation des cadres de réserve ;
+- la situation familiale : situation matrimoniale, profession ;
 
-- le gisement du dossier au Bureau central d'archives administratives militaires.
+- la situation militaire : durée des services, grade, arme ou service d'appartenance, spécialité, affectations successives, séjours outre-mer et campagnes, décorations, récompenses, date de radiation des cadres de réserve, numéro matricule au service national ;
+
+- le gisement du dossier au Bureau central d'archives
+
+administratives militaires.
