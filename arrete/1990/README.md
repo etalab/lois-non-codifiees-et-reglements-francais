@@ -351,7 +351,6 @@
 - [Arrêté du 13 juillet 1990 (AGRG9001601A)](arrete-du-13-juillet-1990-agrg9001601a)
 - [Arrêté du 13 juillet 1990 (BUDD9050005A)](arrete-du-13-juillet-1990-budd9050005a)
 - [Arrêté du 13 juillet 1990 (ECOA9000043A)](arrete-du-13-juillet-1990-ecoa9000043a)
-- [Arrêté du 13 juillet 1990 (ECOA9000064A)](arrete-du-13-juillet-1990-ecoa9000064a)
 - [Arrêté du 13 juillet 1990 (MCCB9000508A)](arrete-du-13-juillet-1990-mccb9000508a)
 - [Arrêté du 13 juillet 1990 (SPSS9001485A)](arrete-du-13-juillet-1990-spss9001485a)
 - [Arrêté du 13 juin 1990 (EQUS9000873A)](arrete-du-13-juin-1990-equs9000873a)
