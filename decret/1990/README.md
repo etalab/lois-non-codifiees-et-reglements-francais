@@ -42,6 +42,8 @@
 - [Décret n°89-641 du 7 septembre 1989 (JUSC8920628D)](decret-n89-641-du-7-septembre-1989-jusc8920628d)
 - [Décret n°90-208 du 7 mars 1990 (MERG9000005D)](decret-n90-208-du-7-mars-1990-merg9000005d)
 - [Décret n°90-37 du 8 janvier 1990 (ECOT8910055D)](decret-n90-37-du-8-janvier-1990-ecot8910055d)
+- [Décret n°90-127 du 9 février 1990 (INTA9000028D)](decret-n90-127-du-9-fevrier-1990-inta9000028d)
+- [Décret n°90-130 du 9 février 1990 (INTA9000031D)](decret-n90-130-du-9-fevrier-1990-inta9000031d)
 - [Décret n°90-41 du 9 janvier 1990 (MENZ8902226D)](decret-n90-41-du-9-janvier-1990-menz8902226d)
 - [Décret n°90-43 du 9 janvier 1990 (EQUT8900506D)](decret-n90-43-du-9-janvier-1990-equt8900506d)
 - [Décret n°90-44 du 9 janvier 1990 (MCCB8900540D)](decret-n90-44-du-9-janvier-1990-mccb8900540d)
