@@ -6,6 +6,7 @@
 - [Décret n°70-380 du 4 mai 1970](decret-n70-380-du-4-mai-1970)
 - [Décret n° 70-709 du 5 août 1970](decret-n-70-709-du-5-aout-1970)
 - [Décret n°70-482 du 5 juin 1970](decret-n70-482-du-5-juin-1970)
+- [Décret n°70-733 du 5 août 1970](decret-n70-733-du-5-aout-1970)
 - [Décret n° 70-406 du 5 mai 1970](decret-n-70-406-du-5-mai-1970)
 - [Décret n°70-26 du 8 janvier 1970](decret-n70-26-du-8-janvier-1970)
 - [Décret n°70-652 du 8 juillet 1970](decret-n70-652-du-8-juillet-1970)
