@@ -1,3 +1,0 @@
-# Article 3
-
-Peuvent également accomplir les actes énumérés à l'article 1er les personnes exerçant les fonctions de manipulateur d'électroradiologie médicale au 25 juillet 1984 ou ayant exercé ces fonctions avant cette date pendant une durée au moins égale à six mois et qui auront satisfait au plus tard le 30 septembre 1993 à des épreuves de vérification des connaissances organisées par la direction régionale des affaires sanitaires et sociales; le contenu et la nature de ces épreuves ainsi que la composition du jury sont définis par arrêté du ministre chargé de la santé pris après avis du conseil supérieur des professions paramédicales.
