@@ -6,4 +6,4 @@ Les informations traitées sont :
 
 - situation de famille (nombre de personnes à charge, situation matrimoniale, année de naissance des personnes à charge) ;
 
-- éléments d'imposition (montants des salaires, pensions, rentes, revenus fonciers, revenus et plus-values des professions non salariées, charges déclarées par le contribuable et autres éléments nécessaires au calcul de l'impôt, cotisation d'impôt sur le revenu).
+- éléments d'imposition (montants des salaires, pensions, rentes, revenus fonciers, revenus et plus-values des professions non salariées, charges déclarées par le contribuable et autres éléments nécessaires au calcul de l'impôt sur le revenu, de la contribution sociale généralisée et du prélèvement social de 1 p. 100, cotisation d'impôt sur le revenu).

@@ -1,3 +1,3 @@
 # Article 20
 
-Le préfet de la région Aquitaine (direction régionale des affaires sanitaires et sociales) est responsable de l'organisation des concours ouverts au titre de la circonscription des départements d'outre-mer.
+Les candidats qui concourent dans la zone géographique Sud peuvent, en plus du classement obtenu dans cette zone, demander à être classés en vue d'être affectés dans la circonscription des départements d'outre-mer, si des postes y sont ouverts. Ils sont alors classés en vue de cette affectation, à partir de leurs notes à ce concours.

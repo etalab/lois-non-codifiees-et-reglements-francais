@@ -10,16 +10,10 @@ Les Q.C.M. retenues pour cette épreuve sont de deux types :
 
 - sans patron de réponse.
 
-Pour les trois sessions de concours consécutives à la date de publication du présent arrêté, l'épreuve comporte 7 Q.C.M. pour chacun des 26 enseignements ainsi que les 29 Q.C.M. Chirurgie et 29 Q.C.M. Physiopathologie. L'immatriculation des questions n'est pas indiquée sur les cahiers d'épreuves.
-
 2° Epreuve de C.C.Q.C.M. :
-
-Pour les trois sessions de concours consécutives à la date de parution du présent arrêté, l'épreuve comprend de 25 à 45 cas cliniques nécessitant au total la réponse à 180 Q.C.M. au plus.
-
-Pour les concours organisés les années suivantes, cette épreuve comprend de 18 à 35 cas cliniques nécessitant au total la réponse à 150 Q.C.M. au plus.
 
 3° Epreuve de dossiers diagnostiques et thérapeutiques :
 
-L'épreuve comporte huit dossiers, dont cinq dossiers à dominante diagnostique et trois dossiers thérapeutiques. Chaque dossier comprend un énoncé éventuellement accompagné de tracés ou de données iconographiques, suivi de cinq à huit questions qui appellent soit des réponses rédactionnelles courtes, soit des réponses fermées.
+La durée de la première épreuve est fixée à quatre heures comprenant deux parties de deux heures avec une interruption de trente minutes entre ces deux parties ; la durée de la deuxième épreuve est fixée à deux heures. La durée totale de la troisième épreuve est fixée à six heures réparties en deux parties de trois heures.
 
-La durée totale de chacune des deux premières épreuves est fixée à quatre heures, comprenant deux parties de deux heures avec une interruption de trente minutes entre ces deux parties. La durée totale de la troisième épreuve est fixée à quatre heures réparties en deux sessions de deux heures.
+Si un incident grave vient à interrompre une épreuve ou partie d'épreuve dans un centre de concours, ou si une erreur matérielle grave dans le libellé des questions met les candidats dans l'impossibilité de composer, le président du jury de la zone concernée, défini à l'article 14 du présent arrêté, peut décider de suspendre le déroulement de cette épreuve, ou partie d'épreuve, dans tous les centres de concours de la zone géographique, afin de procéder éventuellement à l'utilisation immédiate de l'épreuve ou partie d'épreuve correspondante du concours de réserve.

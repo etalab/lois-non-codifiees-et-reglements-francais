@@ -1,3 +1,3 @@
 # Article 2
 
-Ces concours sont organisés dans le cadre des interrégions définies par l'arrêté du 26 juillet 1983 susvisé, pour chaque diplôme d'études spécialisées où des postes sont ouverts.
+Ces concours sont organisés dans chacune des deux zones géographiques définies à l'article 1er de l'arrêté du 5 mai 1988 modifié relatif à l'organisation du concours d'internat donnant accès au troisième cycle spécialisé des études médicales susvisé, pour chaque diplôme d'études spécialisées pour lequel des postes sont ouverts.

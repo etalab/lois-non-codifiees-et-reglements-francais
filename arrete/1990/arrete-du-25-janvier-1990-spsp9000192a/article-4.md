@@ -1,19 +1,21 @@
 # Article 4
 
-Les autres candidats doivent retirer un formulaire de candidature auprès d'une des directions régionales des affaires sanitaires et sociales. Ils peuvent, sous leur responsabilité, faire retirer ce formulaire par un tiers ou se le faire adresser par le C.N.C.I. s'ils résident à l'étranger. Ils doivent adresser, par lettre recommandée avec accusé de réception, à la direction régionale des affaires sanitaires et sociales chargée de l'organisation du concours un dossier complet comportant les pièces suivantes :
+Les autres candidats, qu'ils résident en France ou à l'étranger lorsque s'ouvrent les inscriptions, doivent retirer un formulaire de candidature, exclusivement par correspondance, auprès de la direction régionale des affaires sanitaires et sociales de la Haute-Normandie à Rouen.
 
-1° Un formulaire de candidature rempli lisiblement et complètement ;
+Ils doivent adresser, par lettre recommandée avec accusé de réception, à la direction régionale des affaires sanitaires et sociales précitée un dossier complet comportant les pièces suivantes :
 
-2° Une fiche individuelle d'état civil ou toute pièce équivalente datant de moins de trois mois ;
+1° Un formulaire de candidature rempli complètement et lisiblement. Ce document comporte une déclaration sur l'honneur par laquelle le candidat précise les concours d'internat auxquels il s'est éventuellement déjà présenté : concours organisés au titre des décrets du 27 mars 1987 ou du 25 janvier 1990 susvisés ou concours organisés au titre des décrets du 9 juillet 1984 ou du 7 avril 1988 susvisés.
 
-3° Tout acte de nature à établir leur nationalité ;
+La discipline au titre de laquelle le candidat souhaite concourir ainsi que le diplôme d'études spécialisées qu'il postule doivent obligatoirement être mentionnés sur le formulaire de candidature.
 
-4° Une attestation de possession du diplôme de médecin permettant l'exercice de la médecine dans le pays d'obtention ou d'origine du candidat ;
+2° Un document officiel datant de moins de six mois mentionnant l'état civil du candidat. Si ce document n'est pas établi en français, il doit être accompagné de l'original d'une traduction effectuée par un traducteur assermenté.
 
-Les pièces 2, 3 et 4, si elles ne sont pas établies en français, devront être accompagnées d'une traduction certifiée conforme ;
+3° Un certificat de nationalité ou tout document officiel attestant la nationalité, l'un ou l'autre datant de moins de six mois. Si ce document n'est pas établi en français, il doit être accompagné de l'original d'une traduction effectuée par un traducteur assermenté.
 
-5° Une déclaration sur l'honneur relative aux concours d'internat auxquels ils se sont déjà présentés : concours organisés au titre de l'article 1er du décret n° 87-221 du 27 mars 1987, de l'article 28 du décret du 9 juillet 1984 modifié et de l'article 15 du décret du 7 avril 1988 susvisé.
+4° La photocopie certifiée conforme du diplôme de médecin, ou une attestation établie par les autorités sanitaires ou l'ambassade du pays dont relève le candidat, mentionnant que ce dernier possède à la date de fin des inscriptions un diplôme de médecin permettant l'exercice de la médecine dans le pays d'obtention ou d'origine du candidat. Si ce document n'est pas établi en français, il doit être accompagné de l'original d'une traduction effectuée par un traducteur assermenté.
 
-Pour pouvoir être admis à concourir, les candidats doivent impérativement fournir l'ensemble des pièces mentionnées ci-dessus avant la date de clôture des inscriptions.
+5° Trois enveloppes timbrées à l'adresse où peut être joint le candidat.
 
-La liste des candidats admis à concourir est arrêtée par le directeur régional des affaires sanitaires et sociales de la région où est organisé le concours.
+Pour pouvoir être admis à concourir, les candidats doivent fournir l'ensemble des pièces, strictement conformes à celles mentionnées ci-dessus, avant la date de clôture des inscriptions. Tout dossier incomplet à cette date est refusé.
+
+Le préfet de région de Haute-Normandie établit la liste des candidats admis à concourir et en informe ces derniers.
