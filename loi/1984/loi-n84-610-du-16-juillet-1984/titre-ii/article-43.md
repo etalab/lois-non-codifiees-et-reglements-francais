@@ -1,7 +1,11 @@
 # Article 43
 
-A l'exception des agents de l'Etat pour l'exercice de leurs fonctions, nul ne peut enseigner contre rémunération les activités physiques et sportives à titre d'occupation principale ou secondaire de façon régulière ou saisonnière, ni prendre le titre de professeur, d'entraîneur, de moniteur, d'éducateur ou tout autre titre similaire s'il n'est pas titulaire d'un diplôme attestant sa qualification et son aptitude à ces fonctions. Ce diplôme est un diplôme français défini et délivré ou délivré par équivalence par l'Etat, après avis de jurys qualifiés, ou bien un diplôme étranger admis en équivalence.
+Nul ne peut enseigner, encadrer ou animer contre rémunération une activité physique ou sportive, à titre d'occupation principale ou secondaire, de façon régulière, saisonnière ou occasionnelle, ni prendre le titre de professeur, moniteur, éducateur, entraîneur ou tout autre titre similaire, s'il n'est titulaire d'un diplôme inscrit, en fonction du niveau de formation auquel il correspond et des professions auxquelles il donne accès, sur une liste d'homologation des diplômes des activités physiques et sportives.
 
-Toute condamnation à une peine d'emprisonnement sans sursis supérieure à quatre mois fait obstacle à l'exercice des activités mentionnées à l'alinéa précédent.
+L'inscription sur cette liste des diplômes délivrés par l'Etat et des diplômes français ou étrangers admis en équivalence est de droit.
 
-Quiconque enseigne une activité physique et sportive en infraction aux dispositions du présent article est puni d'une amende de 6.000 F à 50.000 F et d'un emprisonnement de six mois à un an ou de l'une de ces deux peines seulement [*sanctions pénales*].
+Un décret en Conseil d'Etat fixe les conditions d'inscription sur la liste d'homologation des diplômes délivrés, notamment par les fédérations sportives, à l'issue de formations reconnues par l'Etat après avis d'une commission comprenant des représentants de l'administration, du mouvement sportif et des professions intéressées. Seuls peuvent être homologués les diplômes correspondant à une qualification professionnelle qui n'est pas couverte par un diplôme d'Etat.
+
+Les dispositions qui précèdent ne s'appliquent ni aux agents de l'Etat ni aux agents titulaires des collectivités territoriales, pour l'exercice de leurs fonctions.
+
+Nul ne peut exercer les fonctions mentionnées au présent article s'il a fait l'objet d'une condamnation pour crime ou pour attentat aux moeurs ou pour l'une des infractions visées aux articles L. 627, L. 627-2 et L. 630 du code de la santé publique.
