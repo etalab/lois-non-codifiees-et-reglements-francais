@@ -57,3 +57,5 @@ Sur ce parcours seront disponibles et utilisées :
 - au moins deux carabines d'un calibre autorisé à la chasse ;
 
 - des balles en matière plastique.
+
+Sur les parcours décrits aux points 2 et 3 ci-dessus, les cartouches à petite grenaille d'un diamètre inférieur à 2,5 millimètres et les balles en matière plastique peuvent être, lors des séances de formation aux épreuves de l'examen pratique, remplacées par des douilles uniquement amorcées, sans grenaille ou balle.
