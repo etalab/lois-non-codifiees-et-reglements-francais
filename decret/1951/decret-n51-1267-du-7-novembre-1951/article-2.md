@@ -1,6 +1,6 @@
 # Article 2
 
-Pour la péréquation des charges afférentes aux prestations prévues à l'article 22 du décret du 14 juin 1946 susvisé, les exploitations minières et assimilées dont le personnel est régi par ce décret sont classées en deux catégories :
+Pour la péréquation des charges afférentes aux prestations prévues à l'article 22 d du décret du 14 juin 1946 susvisé, les exploitations minières et assimilées dont le personnel est régi par ce décret sont classées en deux catégories :
 
 a) Mines de combustibles minéraux solides ;
 
@@ -14,8 +14,8 @@ D'autre part, les salaires soumis à cotisation pour les risques vieillesse, inv
 
 Entrent dans ce calcul :
 
-Les attributions en nature de combustible, décomptées pour les valeurs des indemnités compensatrices, qui auraient été versées aux ayants droit si ceux-ci avaient été dans l'impossibilité de percevoir les attributions en nature. Les frais de transport sont, le cas échéant, ajoutés à la valeur desdites attributions ;
+Les attributions en nature de combustible, décomptées pour les valeurs des indemnités compensatrices qui auraient été versées aux ayants droit si ceux-ci avaient été dans l'impossibilité de percevoir les attributions en nature. Les frais de transport sont, le cas échéant, ajoutés à la valeur desdites attributions.
 
-Les indemnités compensatrices d'attribution de combustible et les primes de chauffage, avec leur valeur réelle, conformément à la décision interministérielle prévue à l'article 22 du décret du 14 juin 1946 susvisé.
+Les indemnités compensatrices d'attribution de combustible et les primes de chauffage, avec leur valeur réelle, conformément à la décision interministérielle prévue à l'article 22 d du décret du 14 juin 1946 susvisé.
 
 Pour les exploitations de la catégorie a, la masse des salaires à considérer est égale au total des salaires soumis à cotisation de chaque exploitation. Pour celles de la catégorie b, il en est de même lorsque le montant de base des primes de chauffage fixées par la décision interministérielle prévue à l'article 22 du décret du 14 juin 1946 susvisé est uniforme pour toutes les exploitations. Dans le cas contraire, la somme des salaires soumis à cotisation de chaque exploitation est multipliée par un coefficient égal au quotient du montant de base de la prime de chauffage qui la concerne par le moins élevé des montants de base fixés par la décision interministérielle ; la somme des produits ainsi obtenus constitue la masse des salaires à considérer pour la catégorie b.

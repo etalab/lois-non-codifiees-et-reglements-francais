@@ -1,5 +1,7 @@
 # Article 1
 
-Pour l'application du paragraphe 1° de l'article 1er de la loi n° 51-347 du 20 mars 1951 susvisée, sont seules considérées comme ayant cessé toute activité les exploitations dans lesquelles tous les sièges d'extraction ont été fermés dans les conditions définies soit par l'article 49 de la loi du 21 avril 1810 sur les mines, minières et carrières, modifiée notamment par le décret du 24 mai 1938, soit par les textes pris en application des articles 81 et 82 de ladite loi.
+Les exploitations considérées comme ayant cessé toute activité sont celles dont tous les sièges d'extraction ont été fermés lorsque cette fermeture a été constatée par une décision administrative compte tenu des dispositions législatives et réglementaires, notamment de celles du code minier et des textes pris pour son application.
 
-Ces exploitations sont classées à cet égard dans les catégories fixées à l'article 2 ci-après.
+Doit être regardé comme formant une seule exploitation l'ensemble des sièges d'extraction situés sur un même gisement et relevant d'une même entreprise.
+
+En cas de réouverture d'une exploitation antérieure, il est mis fin à la prise en charge par l'Etat prévue à l'article 24 de la loi de finances rectificative pour 1970 des prestations versées aux pensionnés et à leurs ayants droit.
