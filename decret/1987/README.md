@@ -150,7 +150,6 @@
 - [Décret n°87-657 du 10 août 1987 (DOMX8798341D)](decret-n87-657-du-10-aout-1987-domx8798341d)
 - [Décret n°87-751 du 10 septembre 1987 (MENX8700120D)](decret-n87-751-du-10-septembre-1987-menx8700120d)
 - [Décret n°87-86 du 10 février 1987 (AGRD8700236D)](decret-n87-86-du-10-fevrier-1987-agrd8700236d)
-- [Décret n°87-907 du 10 novembre 1987 (BUDF8720092D)](decret-n87-907-du-10-novembre-1987-budf8720092d)
 - [Décret n°87-994 du 10 décembre 1987 (ECOX8798642D)](decret-n87-994-du-10-decembre-1987-ecox8798642d)
 - [Décret n°87-997 du 10 décembre 1987 (EQUP8700569D)](decret-n87-997-du-10-decembre-1987-equp8700569d)
 - [Décret n°87-1011 du 11 décembre 1987 (ENVP8700221D)](decret-n87-1011-du-11-decembre-1987-envp8700221d)
