@@ -10,7 +10,6 @@
 - [Arrêté du 2 janvier 1986](arrete-du-2-janvier-1986)
 - [Arrêté du 2 juillet 1986](arrete-du-2-juillet-1986)
 - [Arrêté du 2 octobre 1986](arrete-du-2-octobre-1986)
-- [Arrêté du 2 septembre 1986](arrete-du-2-septembre-1986)
 - [Arrêté du 2 mai 1986](arrete-du-2-mai-1986)
 - [Arrêté du 3 décembre 1986](arrete-du-3-decembre-1986)
 - [Arrêté du 3 février 1986](arrete-du-3-fevrier-1986)

@@ -297,7 +297,6 @@
 - [Décret n°87-953 du 23 novembre 1987 (AGRA8702007D)](decret-n87-953-du-23-novembre-1987-agra8702007d)
 - [Décret n°87-1055 du 24 décembre 1987 (ENVP8700275D)](decret-n87-1055-du-24-decembre-1987-envp8700275d)
 - [Décret n°87-1063 du 24 décembre 1987 (BUDZ8700007D)](decret-n87-1063-du-24-decembre-1987-budz8700007d)
-- [Décret n°87-1126 du 24 décembre 1987 (AGRB8702260D)](decret-n87-1126-du-24-decembre-1987-agrb8702260d)
 - [Décret n°87-191 du 24 mars 1987 (EQUU8700226D)](decret-n87-191-du-24-mars-1987-equu8700226d)
 - [Décret n°87-192 du 24 mars 1987 (EQUU8700364D)](decret-n87-192-du-24-mars-1987-equu8700364d)
 - [Décret n°87-193 du 24 mars 1987](decret-n87-193-du-24-mars-1987)

@@ -477,7 +477,6 @@
 - [Décret n°88-1274 du 30 décembre 1988 (AGRS8802274D)](decret-n88-1274-du-30-decembre-1988-agrs8802274d)
 - [Décret n°88-1276 du 30 décembre 1988 (SPSS8801763D)](decret-n88-1276-du-30-decembre-1988-spss8801763d)
 - [Décret n°89-197 du 30 mars 1989 (SPSS8900128D)](decret-n89-197-du-30-mars-1989-spss8900128d)
-- [Décret n°89-437 du 30 juin 1989 (INDD8900475D)](decret-n89-437-du-30-juin-1989-indd8900475d)
 - [Décret n°89-448 du 30 juin 1989 (MAEJ8930060D)](decret-n89-448-du-30-juin-1989-maej8930060d)
 - [Décret n°89-449 du 30 juin 1989 (MAEJ8930062D)](decret-n89-449-du-30-juin-1989-maej8930062d)
 - [Décret n°89-450 du 30 juin 1989 (MAEJ8930061D)](decret-n89-450-du-30-juin-1989-maej8930061d)

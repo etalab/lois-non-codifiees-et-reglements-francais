@@ -1,5 +1,0 @@
-# Article 1
-
-En application de l'article 4 du décret susvisé, l'attestation de capacité professionnelle est délivrée par le préfet de région aux candidats pouvant justifier d'une expérience professionnelle d'au moins cinq ans [*duréé*] consécutifs dans l'exercice de fonctions de direction ou d'encadrement, à condition que ces fonctions n'aient pas pris fin depuis plus de trois ans à la date de la demande, au sein soit d'une entreprise inscrite au registre des commissionnaires de transport, soit d'une entreprise inscrite au registre des transporteurs de marchandises ou des loueurs de véhicules industriels soit, enfin, au sein d'une autre entreprise dans des fonctions relevant du domaine de la commission de transport.
-
-Les fonctions de direction ou d'encadrement visées à l'alinéa précédent doivent avoir consisté soit dans la direction d'une entreprise en tant que chef d'entreprise ou de succursale, soit dans l'emploi d'adjoint de ce dernier, soit dans un emploi de cadre supérieur chargé de fonctions commerciales et responsable d'un département de l'entreprise dans les conditions fixées par l'article 11 du décret n° 90-200 du 5 mars 1990 susvisé.
