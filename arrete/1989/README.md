@@ -305,7 +305,6 @@
 - [Arrêté du 14 mars 1989 (JUSB8910089A)](arrete-du-14-mars-1989-jusb8910089a)
 - [Arrêté du 14 novembre 1989 (ECOT8910059A)](arrete-du-14-novembre-1989-ecot8910059a)
 - [Arrêté du 14 novembre 1989 (INDD8900886A)](arrete-du-14-novembre-1989-indd8900886a)
-- [Arrêté du 14 septembre 1989 (PTTT8900872A)](arrete-du-14-septembre-1989-pttt8900872a)
 - [Arrêté du 14 septembre 1989 (TEFT8903724A)](arrete-du-14-septembre-1989-teft8903724a)
 - [Arrêté du 15 avril 1985](arrete-du-15-avril-1985)
 - [Arrêté du 15 décembre 1988 (ECOC8800122A)](arrete-du-15-decembre-1988-ecoc8800122a)
