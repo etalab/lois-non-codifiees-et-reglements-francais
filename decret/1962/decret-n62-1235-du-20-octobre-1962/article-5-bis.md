@@ -6,7 +6,7 @@ Dans le délai de deux mois à compter de la date de réception de cette offre a
 
 Si la société d'aménagement foncier et d'établissement rural accepte l'offre amiable, la vente est réalisée à son profit, après accomplissement, le cas échéant, des procédures destinées à mettre les titulaires des droits de préemption prioritaires en mesure de les exercer.
 
-Si elle renonce, soit expressément, soit tacitement, l'adjudication peut alors se dérouler ; une nouvelle convocation doit cependant être adressée à la société d'aménagement foncier et d'établissement rural, conformément au premier alinéa de l'article 799 du code rural, si une modification intervient dans la date, le lieu ou les modalités de l'adjudication mentionnés dans l'offre amiable qui lui a été préalablement notifiée.
+Si elle renonce, soit expressément, soit tacitement, l'adjudication peut alors se dérouler ; une nouvelle convocation doit cependant être adressée à la société d'aménagement foncier et d'établissement rural, conformément au premier alinéa de l'article L. 412-11 du code rural, si une modification intervient dans la date, le lieu ou les modalités de l'adjudication mentionnés dans l'offre amiable qui lui a été préalablement notifiée.
 
 Si la société estime le prix et les conditions de l'offre amiable exagérés, la notification de sa décision doit contenir son offre d'achat, faite à ses propres conditions. Les dispositions prévues à l'article 10 du présent décret sont alors applicables sauf en ce qui concerne la référence au 2° de l'article 5.
 
