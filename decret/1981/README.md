@@ -153,6 +153,8 @@
 - [Décret n°81-807 du 24 août 1981](decret-n81-807-du-24-aout-1981)
 - [Décret n°81-198 du 25 février 1981](decret-n81-198-du-25-fevrier-1981)
 - [Décret n°81-278 du 25 mars 1981](decret-n81-278-du-25-mars-1981)
+- [Décret n°81-875 du 25 septembre 1981](decret-n81-875-du-25-septembre-1981)
+- [Décret n°81-876 du 25 septembre 1981](decret-n81-876-du-25-septembre-1981)
 - [Décret n° 59-771 du 26 juin 1959](decret-n-59-771-du-26-juin-1959)
 - [Décret n°81-184 du 26 février 1981](decret-n81-184-du-26-fevrier-1981)
 - [Décret n°81-185 du 26 février 1981](decret-n81-185-du-26-fevrier-1981)
