@@ -229,7 +229,6 @@
 - [Décret n°96-379 du 9 mai 1996 (EQUP9600253D)](decret-n96-379-du-9-mai-1996-equp9600253d)
 - [Décret n°96-380 du 9 mai 1996 (EQUP9600276D)](decret-n96-380-du-9-mai-1996-equp9600276d)
 - [Décret n°96-383 du 9 mai 1996 (INTA9600102D)](decret-n96-383-du-9-mai-1996-inta9600102d)
-- [Décret n°96-387 du 9 mai 1996 (PRMX9600026D)](decret-n96-387-du-9-mai-1996-prmx9600026d)
 - [Décret n°96-406 du 9 mai 1996 (AVIN9600282D)](decret-n96-406-du-9-mai-1996-avin9600282d)
 - [Décret n°96-1078 du 10 décembre 1996 (TASF9611477D)](decret-n96-1078-du-10-decembre-1996-tasf9611477d)
 - [Décret n°96-1087 du 10 décembre 1996 (FPPA9610032D)](decret-n96-1087-du-10-decembre-1996-fppa9610032d)
