@@ -1,6 +1,6 @@
 # Article 5
 
-Le comité d'histoire de la sécurité sociale comprend [*composition*] :
+Le comité d'histoire de la sécurité sociale comprend :
 
 Un président ;
 
@@ -8,7 +8,7 @@ Le président de la section sociale du Conseil d'Etat ou son représentant ;
 
 Le directeur de la sécurité sociale, vice-président, ou son représentant ;
 
-Le président de la 5ème chambre de la Cour des comptes ou son représentant ;
+Le président de la 6ème chambre de la Cour des comptes ou son représentant ;
 
 Le président de la chambre sociale de la Cour de cassation ou son représentant ;
 
