@@ -58,6 +58,7 @@
 - [Arrêté du 18 janvier 1999 (INTD9900039A)](arrete-du-18-janvier-1999-intd9900039a)
 - [Arrêté du 19 janvier 1999 (ECOT9810361A)](arrete-du-19-janvier-1999-ecot9810361a)
 - [Arrêté du 19 janvier 1999 (ECOT9810362A)](arrete-du-19-janvier-1999-ecot9810362a)
+- [Arrêté du 19 janvier 1999 (MAEA9920042A)](arrete-du-19-janvier-1999-maea9920042a)
 - [Arrêté du 20 janvier 1999 (ECOI9920012A)](arrete-du-20-janvier-1999-ecoi9920012a)
 - [Arrêté du 20 janvier 1999 (FPPA9910001A)](arrete-du-20-janvier-1999-fppa9910001a)
 - [Arrêté du 21 décembre 1998 (AGRE9802662A)](arrete-du-21-decembre-1998-agre9802662a)
