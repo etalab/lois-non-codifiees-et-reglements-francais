@@ -765,6 +765,7 @@
 - [Arrêté du 24 mars 1993 (SPSS9301104A)](arrete-du-24-mars-1993-spss9301104a)
 - [Arrêté du 24 mars 1993 (TEFE9300359A)](arrete-du-24-mars-1993-tefe9300359a)
 - [Arrêté du 24 mars 1994 (INTC9400221A)](arrete-du-24-mars-1994-intc9400221a)
+- [Arrêté du 24 septembre 1993 (AGRS9301812A)](arrete-du-24-septembre-1993-agrs9301812a)
 - [Arrêté du 24 septembre 1993 (BUDF9300031A)](arrete-du-24-septembre-1993-budf9300031a)
 - [Arrêté du 24 mai 1993 (JUSF9350019A)](arrete-du-24-mai-1993-jusf9350019a)
 - [Arrêté du 24 mai 1993 (JUSF9350029A)](arrete-du-24-mai-1993-jusf9350029a)
