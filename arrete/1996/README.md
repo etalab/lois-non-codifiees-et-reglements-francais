@@ -114,6 +114,8 @@
 - [Arrêté du 10 janvier 1996 (TASH9620133A)](arrete-du-10-janvier-1996-tash9620133a)
 - [Arrêté du 10 janvier 1996 (TASH9620135A)](arrete-du-10-janvier-1996-tash9620135a)
 - [Arrêté du 10 janvier 1996 (TASP9620191A)](arrete-du-10-janvier-1996-tasp9620191a)
+- [Arrêté du 11 avril 1996 (ECOT9610270A)](arrete-du-11-avril-1996-ecot9610270a)
+- [Arrêté du 11 avril 1996 (ECOT9620011A)](arrete-du-11-avril-1996-ecot9620011a)
 - [Arrêté du 11 décembre 1995 (FPPA9510017A)](arrete-du-11-decembre-1995-fppa9510017a)
 - [Arrêté du 11 janvier 1996 (DEFP9601048A)](arrete-du-11-janvier-1996-defp9601048a)
 - [Arrêté du 11 janvier 1996 (TASA9620257A)](arrete-du-11-janvier-1996-tasa9620257a)
