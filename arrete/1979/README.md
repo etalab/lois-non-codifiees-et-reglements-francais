@@ -15,6 +15,7 @@
 - [Arrêté du 22 décembre 1978](arrete-du-22-decembre-1978)
 - [Arrêté du 23 janvier 1979](arrete-du-23-janvier-1979)
 - [Arrêté du 24 novembre 1978](arrete-du-24-novembre-1978)
+- [Arrêté du 25 janvier 1979](arrete-du-25-janvier-1979)
 - [Arrêté du 26 février 1979](arrete-du-26-fevrier-1979)
 - [Arrêté du 26 octobre 1978](arrete-du-26-octobre-1978)
 - [Arrêté du 27 décembre 1978](arrete-du-27-decembre-1978)
