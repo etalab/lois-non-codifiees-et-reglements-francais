@@ -2,3 +2,4 @@
 
 - [Titre 1 : Dispositions relatives aux actions en justice intentées devant la cour d'appel de Paris à l'encontre du fonds](titre-1)
 - [Titre 2 : Dispositions relatives aux actions en responsabilité intentées à l'encontre des responsables des dommages définis au I de l'article 47 de la loi du 31 décembre 1991 susvisée.](titre-2)
+- [Article 21](article-21.md)
