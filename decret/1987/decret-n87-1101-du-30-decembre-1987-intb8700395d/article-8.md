@@ -1,6 +1,6 @@
 # Article 8
 
-Les fonctionnaires détachés perçoivent le traitement afférent à leur grade lorsque celui-ci est ou devient supérieur à celui de l'emploi occupé pour les emplois et dans les conditions ci-après :
+Les fonctionnaires détachés perçoivent le traitement afférent à leur grade lorsque celui-ci est ou devient supérieur à celui afférent à l'indice brut terminal de l'emploi occupé pour les emplois et dans les conditions ci-après. "
 
 " 1° Secrétaire général des villes de 5 000 à 10 000 habitants ; le traitement perçu ne peut excéder celui correspondant à l'indice brut 801 ;
 
