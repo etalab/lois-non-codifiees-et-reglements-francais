@@ -1,0 +1,3 @@
+# SECTION 1 : RECOUVREMENT DES COTISATIONS.
+
+- [Article 35](article-35.md)
