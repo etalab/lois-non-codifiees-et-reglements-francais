@@ -28,6 +28,6 @@ II. - Membres désignés par le ministre d'Etat chargé des affaires culturelles
 
 Un membre du conseil de l'ordre national de la Légion d'honneur, nommé par le ministre d'Etat chargé des affaires culturelles sur la proposition du grand chancelier de la Légion d'honneur.
 
-Dix personnalités des milieux artistiques ou littéraires désignées par le ministre d'Etat chargé des affaires culturelles.
+Douze personnalités des milieux artistiques ou littéraires désignées par le ministre d'Etat chargé des affaires culturelles.
 
 Le ministre d'Etat chargé des affaires culturelles pourra également appeler d'autres personnalités à siéger au conseil à titre consultatif.
