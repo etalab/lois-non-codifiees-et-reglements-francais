@@ -628,6 +628,7 @@
 - [Décret n°96-591 du 27 juin 1996 (FPPA9600014D)](decret-n96-591-du-27-juin-1996-fppa9600014d)
 - [Décret n°96-596 du 27 juin 1996 (AGRG9600512D)](decret-n96-596-du-27-juin-1996-agrg9600512d)
 - [Décret n°96-761 du 27 août 1996 (INDF9600454D)](decret-n96-761-du-27-aout-1996-indf9600454d)
+- [Décret n°96-854 du 27 septembre 1996 (EQUT9601191D)](decret-n96-854-du-27-septembre-1996-equt9601191d)
 - [Décret n°95-1407 du 28 décembre 1995 (AGRP9502120D)](decret-n95-1407-du-28-decembre-1995-agrp9502120d)
 - [Décret n°95-1408 du 28 décembre 1995 (AGRG9502410D)](decret-n95-1408-du-28-decembre-1995-agrg9502410d)
 - [Décret n°95-1409 du 28 décembre 1995 (AVIC9503474D)](decret-n95-1409-du-28-decembre-1995-avic9503474d)
