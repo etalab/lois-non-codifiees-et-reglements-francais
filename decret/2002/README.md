@@ -566,6 +566,7 @@
 - [Décret n°2002-999 du 17 juillet 2002 (INTX0205743D)](decret-n2002-999-du-17-juillet-2002-intx0205743d)
 - [Décret n°2003-1090 du 17 novembre 2003 (ECOP0300136D)](decret-n2003-1090-du-17-novembre-2003-ecop0300136d)
 - [Décret n°2002-1008 du 18 juillet 2002 (PRMX0200033D)](decret-n2002-1008-du-18-juillet-2002-prmx0200033d)
+- [Décret n°2002-1017 du 18 juillet 2002 (INDI0200350D)](decret-n2002-1017-du-18-juillet-2002-indi0200350d)
 - [Décret n°2002-210 du 18 février 2002 (JUSC0220045D)](decret-n2002-210-du-18-fevrier-2002-jusc0220045d)
 - [Décret n°2002-215 du 18 février 2002 (ECOI0200038D)](decret-n2002-215-du-18-fevrier-2002-ecoi0200038d)
 - [Décret n°2002-216 du 18 février 2002 (JUSB0210059D)](decret-n2002-216-du-18-fevrier-2002-jusb0210059d)
