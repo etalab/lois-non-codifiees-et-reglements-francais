@@ -1,0 +1,3 @@
+# Article 11
+
+Les entreprises de transport de gaz issues de la séparation juridique prévue à l'article 5 peuvent exercer directement en France toute activité de construction ou d'exploitation d'un réseau de gaz ou d'installations de gaz naturel liquéfié ainsi que toute activité de stockage de gaz. Elles peuvent également exercer indirectement, par des participations ou des filiales en France, dans la Communauté européenne ainsi que dans les pays membres de l'Association européenne de libre-échange, les mêmes activités ou toute activité de gestion d'un réseau d'électricité et de valorisation des infrastructures. Le périmètre des activités de ces entreprises est déterminé par leurs statuts.

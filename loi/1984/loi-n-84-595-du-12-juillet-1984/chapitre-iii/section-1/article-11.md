@@ -9,3 +9,5 @@ Toutefois, lorsque le contrat porte sur un immeuble ou une partie d'immeuble ach
 Lorsqu'une telle majoration a été prévue au contrat dans les conditions définies à l'alinéa précédent, le contrat de location-accession est assimilé à une vente pure et simple pour l'application de la taxe sur la valeur ajoutée à la date à compter de laquelle cette indemnité majorée est susceptible d'être demandée.
 
 Dans ce cas, la taxe est assise sur le prix fixé au contrat pour la date visée à l'alinéa précédent sous réserve que la variation annuelle du prix fixé au contrat n'excède pas, à compter de cette date, celle de l'indice visé à l'article 7.
+
+Les dispositions des deux alinéas précédents ne sont pas applicables aux contrats de location-accession à la propriété immobilière portant sur des logements qui ont fait l'objet d'une décision d'agrément prise, dans des conditions fixées par décret, par le représentant de l'Etat dans le département.

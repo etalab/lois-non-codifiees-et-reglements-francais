@@ -1,0 +1,3 @@
+# Article 21
+
+Electricité de France et Gaz de France transfèrent de plein droit le 1er janvier 2005 à la Caisse nationale des industries électriques et gazières, à titre gratuit, l'ensemble des biens mobiliers, droits, obligations et tous contrats d'Electricité de France et de Gaz de France, y compris les contrats de travail, relevant de l'activité du service d'Electricité de France et de Gaz de France chargé jusqu'à cette date de gérer le régime, à l'exclusion des réserves déjà constituées par ces entreprises pour la couverture de leurs engagements de retraites ou des contrats conclus par elles à cette fin. Ce transfert ne donne pas lieu à la perception de droits, impôts ou taxes de quelque nature que ce soit.

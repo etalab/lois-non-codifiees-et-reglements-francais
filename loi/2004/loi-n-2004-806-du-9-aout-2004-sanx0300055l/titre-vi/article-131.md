@@ -1,0 +1,3 @@
+# Article 131
+
+Des expérimentations relatives à la coopération entre professionnels de santé et aux possibilités de transfert de compétences entre professions médicales et d'autres professions de santé peuvent être prévues par dérogation aux articles L. 4111-1, L. 4161-1, L. 4161-3, L. 4161-5, L. 4311-1, L. 4321-1, L. 4331-1, L. 4332-1, L. 4341-1, L. 4342-1, L. 4351-1, L. 4361-1, L. 4362-1, L. 4371-1 du code de la santé publique, par arrêté du ministre chargé de la santé. Cet arrêté fixe les modalités précises de ces expérimentations, et notamment la nature et la liste des actes, la durée de l'expérimentation, les établissements et services qui en sont chargés, les conditions de mise en oeuvre, ainsi que les modalités de son évaluation.

@@ -1,0 +1,3 @@
+# Article 11
+
+Le préfet, sur proposition du directeur départemental des services vétérinaires et après accord du ministre chargé de l'agriculture (sous-direction de la santé et de la protection animales), peut prendre toutes dispositions complémentaires aux mesures définies dans le présent arrêté afin de rendre plus efficiente la protection des exploitations et de la santé publique à l'égard des encéphalites virales des équidés. Il peut notamment prescrire des mesures renforcées de surveillance, et notamment la réalisation de prélèvements sérologiques en vue du dépistage de l'infection compte tenu de la situation géographique et des données épidémiologiques disponibles.
