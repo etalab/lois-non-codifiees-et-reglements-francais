@@ -4,6 +4,7 @@
 - [Article 490 bis](article-490-bis.md)
 - [Article 491](article-491.md)
 - [Article 492](article-492.md)
+- [Article 493](article-493.md)
 - [Article 494](article-494.md)
 - [Article 495](article-495.md)
 - [Article 496](article-496.md)
