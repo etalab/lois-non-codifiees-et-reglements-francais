@@ -416,6 +416,7 @@
 - [Décret n°92-330 du 30 mars 1992 (SANP9200294D)](decret-n92-330-du-30-mars-1992-sanp9200294d)
 - [Décret n°92-331 du 30 mars 1992 (TEFE9204557D)](decret-n92-331-du-30-mars-1992-tefe9204557d)
 - [Décret n°92-335 du 30 mars 1992 (MERP9200007D)](decret-n92-335-du-30-mars-1992-merp9200007d)
+- [Décret n°92-382 du 30 mars 1992 (PTTS9200009D)](decret-n92-382-du-30-mars-1992-ptts9200009d)
 - [Décret n°79-104 du 31 janvier 1979](decret-n79-104-du-31-janvier-1979)
 - [Décret n°86-1169 du 31 octobre 1986](decret-n86-1169-du-31-octobre-1986)
 - [Décret n°89-59 du 31 janvier 1989 (JUSG8860064D)](decret-n89-59-du-31-janvier-1989-jusg8860064d)
