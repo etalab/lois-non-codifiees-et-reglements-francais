@@ -1,4 +1,4 @@
-# Arrêté du 22 octobre 1982 fixant les dispositifs amovibles de sécurité des circuits d'alimentation en gaz médicaux et pièces intermédiaires des systèmes respiratoires
+# Arrêté du 22 octobre 1982 RELATIF A LA PRISE EN COMPTE DES CERTIFICATS ATTESTANT L'ACCOMPLISSEMENT D'UN STAGE DE FORMATION ALTERNEE ORGANISE EN APPLICATION DE L'ORDONNANCE N° 82-273 DU 26 MARS 1982 EN VUE DE L'OBTENTION DES TITRES OU DIPLOMES DE L'ENSEIGNEMENT TECHNOLOGIQUE RELEVANT DU MINISTERE DE L'EDUCATION NATIONALE.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

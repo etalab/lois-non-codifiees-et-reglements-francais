@@ -1,5 +1,3 @@
 # Article 4
 
-Les articles 2 et 3 ne sont pas applicables aux pièces intermédiaires des systèmes respiratoires.
-
-On appelle pièces intermédiaires les pièces décrites dans la norme NFS 90-111. Celles-ci doivent être conformes à la norme NFS 90-111.
+Le directeur des lycées et les recteurs sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
