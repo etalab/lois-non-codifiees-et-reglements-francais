@@ -1,7 +1,9 @@
 # Article 15
 
-Les décisions du Conseil de la concurrence sont communiquées aux intéressés et au ministre chargé de l'économie qui peuvent, dans les deux mois, former un recours de pleine juridiction devant le Conseil d'Etat.
+Les décisions du conseil de la concurrence mentionnées au présent titre sont notifiées aux parties en cause et au ministre chargé de l'économie, qui peuvent, dans le délai d'un mois, introduire un recours en annulation ou en réformation devant la cour d'appel de Paris.
 
 Les décisions sont publiées au Bulletin officiel de la concurrence, de la consommation et de la répression des fraudes. Le ministre chargé de l'économie veille à leur exécution.
 
-Le recours n'est pas suspensif.
+Le recours n'est pas suspensif. Toutefois, le premier président de la cour d'appel de Paris peut ordonner qu'il soit sursis à l'exécution de la décision si celle-ci est susceptible d'entraîner des conséquences manifestement excessives ou s'il est intervenu, postérieurement à sa notification, des faits nouveaux d'une exceptionnelle gravité.
+
+Le pourvoi en cassation, formé le cas échéant contre l'arrêt de la cour, est exercé dans un délai d'un mois suivant sa notification.
