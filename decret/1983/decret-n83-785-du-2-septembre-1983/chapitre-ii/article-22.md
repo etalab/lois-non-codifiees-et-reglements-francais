@@ -10,4 +10,4 @@ c) Stage de formation ou de perfectionnement en France ou à l'étranger : la du
 
 d) Convenances personnelles, dans la limite d'un an renouvelable une fois.
 
-L'intéressé formule auprès de l'établissement ou de l'organisme dans lequel il exerce ses fonctions la demande qui est, le cas échéant, transmise pour décision au directeur de l'établissement public de rattachement.
+L'intéressé formule auprès de l'établissement ou de l'organisme dans lequel il exerce ses fonctions la demande qui est, le cas échéant, transmise pour décision au directeur de l'établissement public de rattachement.    La mise en disponibilité au titre des b et c du premier alinéa du présent article ne peut être accordée qu'après un an de fonctions effectives au titre du d de ce même alinéa [*condition d'ancienneté*].
