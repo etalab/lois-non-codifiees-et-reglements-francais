@@ -32,6 +32,7 @@
 - [Décret n°2004-28 du 6 janvier 2004 (DEVG0310089D)](decret-n2004-28-du-6-janvier-2004-devg0310089d)
 - [Décret n°2004-45 du 6 janvier 2004 (DEFP0302341D)](decret-n2004-45-du-6-janvier-2004-defp0302341d)
 - [Décret n°2004-46 du 6 janvier 2004 (INDI0302197D)](decret-n2004-46-du-6-janvier-2004-indi0302197d)
+- [Décret n°71-61 du 6 janvier 1961](decret-n71-61-du-6-janvier-1961)
 - [Décret n°2003-960 du 7 octobre 2003 (MCCT0300762D)](decret-n2003-960-du-7-octobre-2003-mcct0300762d)
 - [Décret n°2004-15 du 7 janvier 2004 (ECOZ0300023D)](decret-n2004-15-du-7-janvier-2004-ecoz0300023d)
 - [Décret n°2004-16 du 7 janvier 2004 (ECOZ0400025D)](decret-n2004-16-du-7-janvier-2004-ecoz0400025d)
