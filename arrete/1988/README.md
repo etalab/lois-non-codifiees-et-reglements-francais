@@ -8,6 +8,7 @@
 - [Arrêté du 4 janvier 1988 (EQUC8800016A)](arrete-du-4-janvier-1988-equc8800016a)
 - [Arrêté du 4 janvier 1988 (EQUC8800017A)](arrete-du-4-janvier-1988-equc8800017a)
 - [Arrêté du 4 mai 1988 (DEFP8801287A)](arrete-du-4-mai-1988-defp8801287a)
+- [Arrêté du 5 janvier 1988 (BUDR8803001A)](arrete-du-5-janvier-1988-budr8803001a)
 - [Arrêté du 5 novembre 1987 (TRSA8700418A)](arrete-du-5-novembre-1987-trsa8700418a)
 - [Arrêté du 5 octobre 1987 (PRMJ8760074A)](arrete-du-5-octobre-1987-prmj8760074a)
 - [Arrêté du 8 décembre 1987 (ASES8701851A)](arrete-du-8-decembre-1987-ases8701851a)

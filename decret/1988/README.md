@@ -33,3 +33,4 @@
 - [Décret n°87-1154 du 31 décembre 1987 (ECOX8798705D)](decret-n87-1154-du-31-decembre-1987-ecox8798705d)
 - [Décret n°87-1160 du 31 décembre 1987 (ECOT8811012D)](decret-n87-1160-du-31-decembre-1987-ecot8811012d)
 - [Décret n°87-1167 du 31 décembre 1987 (RESY8800001D)](decret-n87-1167-du-31-decembre-1987-resy8800001d)
+- [Décret n°87-1168 du 31 décembre 1987 (ECOX8810014D)](decret-n87-1168-du-31-decembre-1987-ecox8810014d)
