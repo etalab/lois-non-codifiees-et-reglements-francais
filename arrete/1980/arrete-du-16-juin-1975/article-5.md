@@ -1,3 +1,3 @@
 # Article 5
 
-Le préfet dde la Haute-Vienne est chargé de l'application du présent arrêté, qui sera publié au Journal officiel de la République française.
+Tout cumul ou réunion d'exploitations ou de fonds agricoles, quelle que soit la superficie des exploitations considérées et quelles que soient les catégories de terres, la nature des cultures et le type d'exploitation, est soumis à autorisation préalable.

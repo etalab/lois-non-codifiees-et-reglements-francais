@@ -1,3 +1,9 @@
 # Article 4
 
-La superficie maximum visée à l'article 188-1 du Code rural est fixée à 65 hectares pour l'ensemble du département.
+Les superficies maxima des cumuls visés à l'article 188-1 du Code rural sont fixées ainsi qu'il suit (en hectares) :
+
+Bas-Berry : 96
+
+Plateau de Millevaches : 130
+
+Reste du département : 100
