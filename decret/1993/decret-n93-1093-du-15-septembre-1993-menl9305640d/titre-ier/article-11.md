@@ -2,7 +2,7 @@
 
 Les candidats ajournés reçoivent, s'ils ont obtenu pour l'ensemble des épreuves une note moyenne au moins égale à 8, un certificat de fin d'études technologiques secondaires. Ce certificat leur est délivré par le recteur de l'académie chargé de l'organisation de l'examen, selon des modalités fixées par arrêté du ministre chargé de l'éducation nationale ou, pour les séries S.T.A.E., S.T.P.A., selon des modalités définies par arrêté du ministre chargé de l'agriculture.
 
-Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi, peuvent conserver, sur leur demande et pour chacune des épreuves, dans la limite des cinq sessions suivant la première session à laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au présent alinéa, le bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues. Ils ne subissent alors que les autres épreuves.
+Les candidats non scolarisés, salariés, stagiaires de la formation professionnelle continue, demandeurs d'emploi, peuvent conserver, sur leur demande et pour chacune des épreuves du premier groupe, dans la limite des cinq sessions suivant la première session à laquelle ils se sont présentés, en tant que candidats scolarisés ou relevant des catégories énumérées au présent alinéa, le bénéfice des notes égales ou supérieures à 10 qu'ils ont obtenues. Ils ne subissent alors que les autres épreuves.
 
 Les dispositions de l'alinéa 2 du présent article ne s'appliquent qu'aux candidats qui se présentent dans la même série que celle où ils ont obtenu des notes dont ils demandent à conserver le bénéfice, à l'exception de règles particulières définies par arrêté ministériel.
 
