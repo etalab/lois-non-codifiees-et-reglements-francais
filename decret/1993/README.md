@@ -23,6 +23,8 @@
 - [Décret n°93-183 du 2 février 1993 (MAEJ9230081D)](decret-n93-183-du-2-fevrier-1993-maej9230081d)
 - [Décret n°93-829 du 2 juin 1993 (INDP9330184D)](decret-n93-829-du-2-juin-1993-indp9330184d)
 - [Décret n°93-830 du 2 juin 1993 (INDP9330185D)](decret-n93-830-du-2-juin-1993-indp9330185d)
+- [Décret n°93-888 du 2 juillet 1993 (COMA9300015D)](decret-n93-888-du-2-juillet-1993-coma9300015d)
+- [Décret n°93-889 du 2 juillet 1993 (MCCB9300106D)](decret-n93-889-du-2-juillet-1993-mccb9300106d)
 - [Décret du 3 février 1993 (PTTR9200690D)](decret-du-3-fevrier-1993-pttr9200690d)
 - [Décret n°92-1261 du 3 décembre 1992 (TEFT9205418D)](decret-n92-1261-du-3-decembre-1992-teft9205418d)
 - [Décret n°92-958 du 3 septembre 1992 (TEFT9205142D)](decret-n92-958-du-3-septembre-1992-teft9205142d)
