@@ -16,6 +16,7 @@
 - [Décret n°96-10 du 5 janvier 1996 (AGRS9502489D)](decret-n96-10-du-5-janvier-1996-agrs9502489d)
 - [Décret n°96-11 du 5 janvier 1996 (AGRS9502490D)](decret-n96-11-du-5-janvier-1996-agrs9502490d)
 - [Décret n°96-12 du 5 janvier 1996 (AGRS9502491D)](decret-n96-12-du-5-janvier-1996-agrs9502491d)
+- [Décret n°96-172 du 5 mars 1996 (ACVP9520059D)](decret-n96-172-du-5-mars-1996-acvp9520059d)
 - [Décret n°96-18 du 5 janvier 1996 (ENVP9530072D)](decret-n96-18-du-5-janvier-1996-envp9530072d)
 - [Décret n°96-6 du 5 janvier 1996 (PRMX9500187D)](decret-n96-6-du-5-janvier-1996-prmx9500187d)
 - [Décret n°96-99 du 5 février 1996 (INTA9600021D)](decret-n96-99-du-5-fevrier-1996-inta9600021d)
