@@ -1,0 +1,3 @@
+# Article 81 d
+
+Le conjoint survivant ou divorcé remarié, qui n'est susceptible de bénéficier d'aucun droit à pension de réversion au titre d'un régime de base obligatoire d'assurance vieillesse du chef de son dernier conjoint, recouvre son droit à la pension de réversion prévue à l'article L. 351 du code de la sécurité sociale du chef d'un précédent conjoint, lorsqu'il remplit les conditions [*d'attribution*] fixées par l'article 81 a du présent décret et que le mariage a duré au moins deux ans sauf lorsqu'un enfant au moins en est issu, sous réserve que ce droit ne soit pas ouvert ou susceptible d'être ouvert au profit d'un autre conjoint survivant ou divorcé [*bénéficiaire*].
