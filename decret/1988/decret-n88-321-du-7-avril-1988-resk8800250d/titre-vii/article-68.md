@@ -1,6 +1,6 @@
 # Article 68
 
-Pour l'application de l'article 56 de la loi du 12 novembre 1968 modifiée susvisée, la liste des services, organismes ou laboratoires agréés pour les formations pratiques de troisième cycle, à l'exclusion de la biologie médicale, et la répartition des postes d'internes et de résidents sont arrêtées dans chaque subdivision par le préfet de région [*autorité compétente*] , après avis d'une commission de subdivision qui formule ses propositions deux semestres à l'avance.
+Pour l'application de l'article 56 de la loi du 12 novembre 1968 modifiée susvisée, la liste des services, organismes ou laboratoires agréés pour les formations pratiques de troisième cycle, à l'exclusion de la biologie médicale, et la répartition des postes d'internes et de résidents sont arrêtées dans chaque subdivision par le préfet de région [*autorité compétente*], après avis d'une commission de subdivision qui formule ses propositions au plus tard une semaine avant la date d'ouverture de la procédure de choix semestrielle des internes et des résidents.
 
 Cette commission comprend des membres permanents [*composition*] :
 
