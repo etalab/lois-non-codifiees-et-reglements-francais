@@ -47,6 +47,7 @@
 - [Décret n°96-47 du 22 janvier 1996 (AGRS9502551D)](decret-n96-47-du-22-janvier-1996-agrs9502551d)
 - [Décret n°96-48 du 22 janvier 1996 (INTC9600008D)](decret-n96-48-du-22-janvier-1996-intc9600008d)
 - [Décret n°96-49 du 22 janvier 1996 (BUDF9500022D)](decret-n96-49-du-22-janvier-1996-budf9500022d)
+- [Décret n°96-53 du 23 janvier 1996 (ENVG9530089D)](decret-n96-53-du-23-janvier-1996-envg9530089d)
 - [Décret n°95-978 du 24 août 1995 (AGRS9501439D)](decret-n95-978-du-24-aout-1995-agrs9501439d)
 - [Décret n°96-1014 du 25 novembre 1996 (MAEA9620524D)](decret-n96-1014-du-25-novembre-1996-maea9620524d)
 - [Décret n°96-56 du 25 janvier 1996 (DOMP9500058D)](decret-n96-56-du-25-janvier-1996-domp9500058d)
