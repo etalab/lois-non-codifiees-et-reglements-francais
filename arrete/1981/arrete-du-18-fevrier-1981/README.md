@@ -1,4 +1,4 @@
-# Arrêté du 18 février 1981 FIXANT LA DATE D'APPLICATION DE CERTAINES DISPOSITIONS DU DECRET N° 80-544 DU 15 JUILLET 1980 RELATIF AUX REGLES GENERALES D'HYGIENE ET DE SECURITE APPLICABLES A CERTAINES MACHINES ET A CERTAINS APPAREILS UTILISES POUR LE TRAVAIL DE MATERIAUX ET DE PRODUITS.
+# Arrêté du 18 février 1981 relatif à une dérogation aux dispositions des articles 32, 35 et 36 du décret du 14 novembre 1962 fixant les valeurs de tension limites en courant alternatif ainsi qu'à celles de l'article 39 limitant la mise des masses au neutre.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

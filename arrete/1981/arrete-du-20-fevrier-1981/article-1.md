@@ -1,9 +1,5 @@
 # Article 1
 
-Dans les limites et conditions fixées par le présent arrêté, des aides de l'Etat peuvent être accordées dans les départements d'outre-mer pour financer :
+Les dispositions du décret du 14 novembre 1962 qui s'imposent dans les établissements de construction ou de réparation de navires ne s'appliquent pas à la conception, aux essais, à l'utilisation et à l'entretien de l'équipement électrique des navires, sous réserve du respect des dispositions concernant les installations électriques à bord des navires, et notamment de la loi du 20 mai 1967 sur la sauvegarde de la vie humaine en mer et à l'habitabilité à bord des navires de commerce, de pêche et de plaisance prise dans le cadre des conventions internationales et des décrets des 17 février 1968 et 11 décembre 1969 pris pour son application.
 
-L'acquisition de terrains destinés à la construction de logements à vocation très sociale en accession à la propriété et à la viabilisation desdits terrains ;
-
-La construction de logements à vocation très sociale en accession à la propriété ;
-
-L'amélioration des logements.
+Pour tous les travaux à bord sur cet équipement électrique ou l'utilisant, le chef d'établissement chargé d'exécuter ces travaux doit établir et faire observer, en accord s'il y a lieu avec l'autorité qui aurait conservé la garde du navire, une consigne de travail visant à assurer la sécurité des travailleurs, compte tenu des dispositions propres aux équipements électriques du bord.

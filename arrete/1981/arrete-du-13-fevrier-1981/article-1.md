@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions du paragraphe 1er de l'article 9 du décret du 14 novembre 1962, les chefs d'établissement sont autorisés à appliquer aux installations de classe moyenne tension, dont la tension nominale n'excède pas 500 volts en courant alternatif, les dispositions dudit paragraphe concernant la séparation dans les installations de classe basse tension. Cette dérogation est accordée sous réserve [*condition préalable*] que, pour l'exécution des travaux hors tension, il soit procédé, après ouverture des dispositifs de séparation, à la vérification de l'absence de tension sur le lieu de travail ou à son voisinage.

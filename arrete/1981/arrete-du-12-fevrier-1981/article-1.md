@@ -1,15 +1,13 @@
 # Article 1
 
-L'index de correction visé à l'article 1er du décret susvisé est fixé comme suit :
+Par dérogation aux dispositions du paragraphe 3 de l'article 8 du décret du 14 novembre 1962, les chefs d'établissement sont autorisés, pour les travaux à l'intérieur d'enceintes très conductrices, à ne pas alimenter en très basse tension mais seulement en basse tension, les appareils ou engins portatifs à main, à l'exception des appareils d'éclairage à main dits lampes baladeuses, sous réserve de la mise en oeuvre de l'ensemble des mesures compensatrices suivantes :
 
-Nouvelle-Calédonie.
+a) Les appareils ou engins portatifs à main sont alimentés à l'aide de transformateurs de séparation conformément aux dispositions de l'article 38 du même décret ;
 
-Communes de Nouméa, Mont-Dore, Dumbéa et Paita : 1, 71
+b) Le transformateur de séparation est placé à l'extérieur de l'enceinte ;
 
-Autres communes : 1, 92
+c) Le transformateur de séparation est de classe II, au sens des normes NF C 20-030 et 52-220, ou bien ses masses sont protégées par une isolation supplémentaire lors de l'installation ;
 
-Polynésie française.
+d) Chaque transformateur de séparation n'alimente qu'un seul appareil ou engin ;
 
-Îles du Vent et îles Sous-le-Vent : 1, 81
-
-Autres subdivisions : 2, 05
+e) L'appareil ou engin portatif à main alimenté est de classe II au sens des normes précitées ; à défaut, il est de classe I, mais sa masse et l'élément conducteur ou l'ensemble des éléments conducteurs constituant l'enceinte sont interconnectés.

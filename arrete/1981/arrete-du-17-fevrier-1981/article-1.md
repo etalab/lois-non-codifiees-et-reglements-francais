@@ -1,13 +1,7 @@
 # Article 1
 
-Les dispositions du présent arrêté sont applicables aux machines et appareils mentionnés à l'article R. 233-84 du code du travail, à l'exception :
+Les chefs d'établissements soumis aux prescriptions du décret du 14 novembre 1962 peuvent, dans les installations de classe Basse tension existantes situées sur les emplacements et lieux de travail autres que ceux considérés comme très conducteurs au sens de l'article 2 dudit décret, être dispensés de l'application des dispositions de l'article 30 relatives à la liaison des masses des matériels électriques à une prise de terre d'une résistance appropriée, sous réserve [*condition préalable*] de la mise en oeuvre de l'ensemble des mesures compensatrices suivantes :
 
-Des machines, appareils et engins pour le battage des produits agricoles, presses à paille et à fourrage, tarares et machines similaires pour le nettoyage des grains, trieurs à oeufs, à fruits et autres produits agricoles ;
+1° Protection des circuits de l'installation alimentant les matériels électriques par un ou plusieurs dispositifs de coupure différentiels résiduels à haute sensibilité, non temporisés, visés par l'article 533, a, 6, de la norme NF C 15-100. Un même dispositif ne doit protéger qu'un seul appareil d'utilisation si la masse de cet appareil peut être simultanément accessible soit avec une autre masse non interconnectée avec la première, soit avec un élément conducteur qui n'est pas avec certitude relié à la terre ;
 
-Des machines à traire et autres machines et appareils de laiterie ;
-
-Des pressoirs, fouloirs et autres appareils de vinification, de cidrerie et similaires ;
-
-Des autres machines et appareils pour l'agriculture, l'horticulture, la sylviculture et l'apiculture, y compris les germoirs comportant des dispositifs mécaniques ou thermiques et les couveuses et éleveuses pour l'aviculture ;
-
-Des machines, appareils et engins pour la minoterie et le traitement des céréales et légumes secs.
+2° Vérification fréquente du bon fonctionnement du ou des dispositifs visés au 1° ci-dessus.

@@ -1,16 +1,5 @@
-# Arrêté du 20 février 1981 relatif aux aides de l'Etat à la construction de logements à vocation très sociale et à l'amélioration des logements dans les départements d'outre-mer.
+# Arrêté du 20 février 1981 portant dérogation aux dispositions du décret du 14 novembre 1962 en ce qui concerne les établissements de construction et de réparations de navires.
 
 - [Article 1](article-1.md)
-- [I - Aide à l'acquisition et à la viabilisation des terrains.](i)
-- [II - Aides à la construction.](ii)
-- [III - Dispositions communes](iii)
-- [IV - Caractéristiques des logements.](iv)
-- [V - Conditions d'attribution de la subvention pour l'acquisition et la viabilisation du terrain](v)
-- [VI - Modalités d'accession à la propriété et conditions d'attribution de la subvention pour la construction](vi)
-- [Article 7](article-7.md)
-- [VII - Contribution financière des accédants à la propriété.](vii)
-- [VIII - Conditions d'attribution des logements et des subventions](viii)
-- [IX - Aides de l'Etat à l'amélioration des logements](ix)
-- [X - Répétition des subventions](x)
-- [XI - Dispositions diverses](xi)
-- [Article 30](article-30.md)
+- [Article 2](article-2.md)
+- [Article 3](article-3.md)

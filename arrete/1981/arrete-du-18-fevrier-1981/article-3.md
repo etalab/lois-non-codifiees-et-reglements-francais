@@ -1,3 +1,7 @@
 # Article 3
 
-Pour les machines et appareils autres que ceux qui sont mentionnés à l'article 2 du présent arrêté, l'application des dispositions des articles 2, 3, 5 (dernier tiret) et 8 du décret n° 80-544 du 15 juillet 1980 est reportée au 1er janvier 1982. Les machines et appareils visés par le présent article doivent toutefois satisfaire aux prescriptions de l'article 4 ci-dessous.
+Pour l'application de l'article 1er, est considérée comme :
+
+a) Tension de contact [*définition*] : la tension apparaissant, lors d'un défaut d'isolement, entre les parties simultanément accessibles, ces parties pouvant être soit des masses, soit des éléments conducteurs parmi lesquels figure le sol lorsqu'il n'est pas isolant ;
+
+b) Locaux ou emplacements de travail mouillés [*définition*] : les locaux ou emplacements de travail dans lesquels non seulement l'eau ruisselle sur les murs ou le sol, mais où les matériels sont soumis à des projections d'eau.
