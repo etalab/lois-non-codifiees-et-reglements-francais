@@ -1,0 +1,3 @@
+# Article 24
+
+Les dispositions du présent chapitre sont applicables aux éditeurs de services de radiodiffusion sonore relevant de la compétence d'un autre Etat membre de l'Union européenne ou signataire de l'accord sur l'Espace économique européen, aux éditeurs de services de radiodiffussion sonore et de télévision relevant de la compétence d'un Etat partie à la convention européenne sur la télévision transfrontière, non membre de la Communauté européenne et non signataire de l'accord sur l'Espace économique européenne, ainsi qu'aux éditeurs de services de radiodiffusions sonore et de télévision établis dans d'autres Etats et relevant de la compétence de la France dans les conditions prévues à l'article 43-4 de la loi du 30 septembre 1986 susvisée.
