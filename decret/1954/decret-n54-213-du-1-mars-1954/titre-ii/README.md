@@ -1,4 +1,4 @@
-# TITRE II : Frais de transport des personnes.
+# Titre II : Frais de transport des personnels.
 
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
