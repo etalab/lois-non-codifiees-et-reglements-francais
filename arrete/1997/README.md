@@ -379,6 +379,7 @@
 - [Arrêté du 25 février 1997 (TASS9720662A)](arrete-du-25-fevrier-1997-tass9720662a)
 - [Arrêté du 25 mars 1997 (BUDB9640033A)](arrete-du-25-mars-1997-budb9640033a)
 - [Arrêté du 25 mars 1997 (ECOT9751577A)](arrete-du-25-mars-1997-ecot9751577a)
+- [Arrêté du 25 mars 1997 (EQUH9600952A)](arrete-du-25-mars-1997-equh9600952a)
 - [Arrêté du 25 mars 1997 (EQUT9700464A)](arrete-du-25-mars-1997-equt9700464a)
 - [Arrêté du 25 novembre 1996 (DEFT9602220A)](arrete-du-25-novembre-1996-deft9602220a)
 - [Arrêté du 26 avril 1989 (ECOS8950031A)](arrete-du-26-avril-1989-ecos8950031a)
