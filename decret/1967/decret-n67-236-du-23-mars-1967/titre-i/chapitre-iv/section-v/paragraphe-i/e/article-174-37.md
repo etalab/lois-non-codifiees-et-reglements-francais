@@ -1,6 +1,6 @@
 # Article 174-37
 
-Dans le délai de deux mois suivant la décision mentionnée à l'article précédent, la société adresse à ses salariés admis à se faire ouvrir un compte d'actionnariat, ainsi qu'au gestionnaire du fonds commun de placement, s'il y a lieu, un bulletin d'information et d'ouverture de compte d'actionnariat préalablement visé par la commission des opérations de bourse et qui indique notamment les modalités de l'acquisition en bourse proposée.
+Dans le délai de deux mois suivant la décision mentionnée à l'article précédent, la société adresse à ses salariés admis à se faire ouvrir un compte d'actionnariat, ainsi qu'au gestionnaire du fonds commun de placement, s'il y a lieu, un bulletin d'information et d'ouverture de compte d'actionnariat préalablement visé par l'Autorité des marchés financiers et qui indique notamment les modalités de l'acquisition en bourse proposée.
 
 Ce bulletin est envoyé par lettre recommandée. Il peut également être remis en main propre au salarié contre récépissé.
 

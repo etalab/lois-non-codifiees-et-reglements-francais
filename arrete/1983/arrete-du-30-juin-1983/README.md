@@ -1,5 +1,7 @@
-# Arrêté du 30 juin 1983 portant classification des matériaux de construction et d'aménagement selon leur réaction au feu et définition des méthodes d'essais.
+# Arrêté du 30 juin 1983 relatif aux fonds communs de placement
 
+- [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
@@ -7,7 +9,6 @@
 - [Article 10](article-10.md)
 - [Article 21](article-21.md)
 - [Fonds communs de placement à risques de la loi du 3 janvier 1983.](fonds-communs-de-placement-a)
-- [Fonds de communs de placement a risques de la loi du 3 janvier 1983.](fonds-de-communs-de-placement-a)
 - [Dispositions communes aux divers fonds communs de placement.](dispositions-communes-aux)
 - [Fonds communs de placement institués pour la participation des salariés aux fruits de l'expansion des entreprises et pour les plans d'épargne d'entreprises.](fonds-communs-de-placement-institues-pour-la-participation-des-salaries-aux)
 - [Fonds commun de placement de la loi du 30 decembre 1981.](fonds-commun-de-placement-de-la-loi)

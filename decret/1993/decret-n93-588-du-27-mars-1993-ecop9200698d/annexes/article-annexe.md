@@ -152,13 +152,13 @@ Fonction de rédaction dans les domaines administratifs et techniques de documen
 
 Secrétaires administratifs de l'administration centrale.
 
-Commission des opérations de bourse
+Autorité des marchés financiers
 
 (Administration centrale)
 
-Agents administratifs de la catégorie IV régis par la décision du 20 mars 1991 fixant le statut du personnel de la C.O.B.
+Agents administratifs de la catégorie IV régis par la décision du 20 mars 1991 fixant le statut du personnel de l'AMF
 
-Participation aux différents travaux relevant des missions qui incombent à la Commission des opérations de bourse.
+Participation aux différents travaux relevant des missions qui incombent à l'Autorité des marchés financiers.
 
 Secrétaires administratifs de l'administration centrale.
 

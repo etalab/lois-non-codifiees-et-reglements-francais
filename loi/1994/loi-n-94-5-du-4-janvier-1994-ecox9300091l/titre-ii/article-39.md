@@ -1,7 +1,5 @@
 # Article 39
 
-Les entreprises françaises disposant de succursales établies dans un Etat membre des Communautés européennes à la date d'entrée en vigueur de la présente loi sont réputées avoir accompli les formalités prévues aux articles L. 321-3 et L. 321-4 du code des assurances, dans la limite de l'agrément obtenu de l'Etat membre où elles sont établies.
-
 Les entreprises françaises pratiquant des opérations de libre prestation de services à la date d'entrée en vigueur de la présente loi sont réputées avoir accompli les formalités prévues au quatrième alinéa de l'article L. 310-12, dans la limite de l'activité effectivement exercée dans l'Etat de libre prestation de services.
 
 Pour les entreprises étrangères dont le siège social est situé sur le territoire d'un Etat membre des Communautés européennes et régulièrement agréées pour exercer leur activité sur le territoire de la République française à la date d'entrée en vigueur de la présente loi, les formalités prévues à l'article L. 362-1 du code des assurances sont réputées avoir été accomplies dans la limite des branches pour lesquelles ces entreprises sont agréées à cette date.

@@ -58,10 +58,8 @@ Le Conseil national de la comptabilité est composé comme suit :
 
 - un magistrat à la Cour des comptes ;
 
-- un représentant du président de la Commission des opérations de bourse ;
+- un représentant du président de l'Autorité des marchés financiers ;
 
 - un représentant du président de la Commission bancaire ;
 
-- un représentant du président de la Commission de contrôle des assurances ;
-
-- un représentant du président de la Commission de contrôle des institutions de prévoyance et des mutuelles.
+- un représentant du président de la Commission de contrôle des assurances, des mutuelles et des institutions de prévoyance.

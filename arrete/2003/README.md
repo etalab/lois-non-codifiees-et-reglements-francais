@@ -687,6 +687,7 @@
 - [Arrêté du 31 décembre 2002 (INDI0200862A)](arrete-du-31-decembre-2002-indi0200862a)
 - [Arrêté du 31 janvier 2003 (ECOM0200993A)](arrete-du-31-janvier-2003-ecom0200993a)
 - [Arrêté du 31 janvier 2003 (MENS0300178A)](arrete-du-31-janvier-2003-mens0300178a)
+- [Arrêté du 31 juillet 1989 (ECOT8926028A)](arrete-du-31-juillet-1989-ecot8926028a)
 - [Arrêté du 31 mars 2003 (AGRA0300575A)](arrete-du-31-mars-2003-agra0300575a)
 - [Arrêté du 31 mars 2003 (AGRG0300685A)](arrete-du-31-mars-2003-agrg0300685a)
 - [Arrêté du 31 mars 2003 (AGRP0300756A)](arrete-du-31-mars-2003-agrp0300756a)

@@ -6,4 +6,4 @@ L'information prend la forme d'un avis publié au bulletin des annonces légales
 
 L'information doit être assurée lors de chacune de ces variations.
 
-Cette information est transmise dans le délai fixé au deuxième alinéa au Conseil des marchés financiers qui la publie.
+Cette information est transmise dans le délai fixé au deuxième alinéa à l'Autorité des marchés financiers qui la publie.

@@ -1,6 +1,6 @@
 # Article 103
 
-L'appel est formé par lettre recommandée avec demande d'avis de réception adressée au secrétaire de la chambre nationale de discipline [*formalités*].
+L'appel est formé par lettre recommandée avec demande d'avis de réception adressée au secrétaire du Haut Conseil du commissariat aux comptes.
 
 Le secrétaire notifie cet appel aux autres parties à l'instance, ainsi qu'au procureur général, au président de la compagnie nationale et au président de la compagnie régionale, lorsqu'ils ne sont pas auteurs de l'appel.
 

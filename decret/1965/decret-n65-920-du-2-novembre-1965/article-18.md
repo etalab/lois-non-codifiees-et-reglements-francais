@@ -1,6 +1,6 @@
 # Article 18
 
-La caisse centrale de crédit coopératif peut effectuer toutes opérations financières en faveur des sociétés coopératives de médecins et de leurs unions, notamment :
+La Banque fédérale des banques populaires peut effectuer toutes opérations financières en faveur des sociétés coopératives de médecins et de leurs unions, notamment :
 
 Mettre à leur disposition les fonds qui lui seraient spécialement attribués à leur bénéfice ou qu'elle pourrait se procurer au moyen d'emprunts ou par le réescompte d'effets souscrits ;
 

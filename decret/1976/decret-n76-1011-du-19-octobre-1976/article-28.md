@@ -10,6 +10,6 @@ Le décret du 4 avril 1932 portant délimitation des circonscriptions territoria
 
 Le décret du 31 mars 1934, modifié par le décret du 6 juin 1952, fixant les moyens de contrôle et de surveillance des sociétés de crédit maritime mutuel ;
 
-Le décret du 21 février 1948 pris pour l'application de l'article 20 de la loi du 13 août 1947 relatif à l'intervention de la caisse centrale de crédit coopératif dans les opérations du crédit maritime mutuel ;
+Le décret du 21 février 1948 pris pour l'application de l'article 20 de la loi du 13 août 1947 relatif à l'intervention de la Banque fédérale des banques populaires dans les opérations du crédit maritime mutuel ;
 
 Les articles 1er, 2 et 6 du décret du 9 avril 1960.

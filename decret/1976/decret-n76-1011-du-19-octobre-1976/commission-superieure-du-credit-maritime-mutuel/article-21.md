@@ -1,6 +1,6 @@
 # Article 21
 
-La commission supérieure du crédit maritime mutuel est composée comme suit [*composition - nombre*] :
+La commission supérieure du crédit maritime mutuel est composée comme suit :
 
 Six députés désignés par l'Assemblée nationale ;
 
@@ -12,7 +12,7 @@ Un membre de la Cour des comptes désigné par le premier président de la Cour 
 
 Le directeur du Trésor ou son représentant ;
 
-Le commissaire du Gouvernement près la Caisse centrale de crédit coopératif ;
+Le commissaire du Gouvernement près la Banque fédérale des banques populaires ;
 
 Quatre représentants du ministre chargé des pêches maritimes, dont le directeur des pêches maritimes et des cultures marines ;
 
@@ -28,4 +28,4 @@ Le président du comité interprofessionnel de la conchyliculture ;    Dix-neuf 
 
 Le président et le vice-président de la commission sont nommés par arrêté du ministre chargé des pêches maritimes.
 
-La commission se réunit au moins une fois par an [*périodicité*].
+La commission se réunit au moins une fois par an.

@@ -8,4 +8,4 @@ Les valeurs mobilières étrangères sont évaluées sur la base du cours de Par
 
 Les valeurs traitées au hors-cote sont évaluées sur la base du cours pratiqué sur le marché au jour de l'évaluation.
 
-Le gérant procède lui-même à l'évaluation des valeurs mobilières non cotées ou de celles dont le cours n'a pas été constaté le jour de l'évaluation. Sa décision est communiquée au commissaire aux comptes. Le commissaire aux comptes informe la Commission des opérations de bourse de ses réserves éventuelles.
+Le gérant procède lui-même à l'évaluation des valeurs mobilières non cotées ou de celles dont le cours n'a pas été constaté le jour de l'évaluation. Sa décision est communiquée au commissaire aux comptes. Le commissaire aux comptes informe l'Autorité des marchés financiers de ses réserves éventuelles.

@@ -1,6 +1,6 @@
 # Article 174-28
 
-Trente jours au moins [*délai*] avant l'ouverture de la souscription, chacune des société concernées adresse à ses salariés admis à souscrire, ainsi qu'aux gestionnaires des fonds communs de placement, s'il y a lieu, un bulletin d'information et de souscription préalablement visé par la commission des opérations de bourse.
+Trente jours au moins avant l'ouverture de la souscription, chacune des société concernées adresse à ses salariés admis à souscrire, ainsi qu'aux gestionnaires des fonds communs de placement, s'il y a lieu, un bulletin d'information et de souscription préalablement visé par l'Autorité des marchés financiers.
 
 Ce bulletin est envoyé par lettre recommandée. Il peut également être remis en mains propres au salarié contre récépissé.
 

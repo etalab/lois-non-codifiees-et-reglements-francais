@@ -4,7 +4,7 @@ I. - Le Gouvernement dépose tous les ans, en annexe au projet de loi de finance
 
 1° Analyse la situation économique, à la clôture du dernier exercice, de toutes les entités significatives, établissements et sociétés, cotées et non cotées, contrôlées par l'Etat ;
 
-2° Etablit les comptes consolidés de toutes les entités significatives, établissements et sociétés, cotées et non cotées, contrôlées par l'Etat, rendant compte fidèlement de leur situation financière, y compris des engagements hors bilan, de l'évolution de leur valeur patrimoniale et de leurs résultats. Les questions de méthode comptable à trancher pour l'élaboration de ces états financiers sont soumises à l'appréciation d'un groupe de personnalités indépendantes nommées par décret ;
+2° Présente des comptes combinés de toutes les entités significatives, établissements et sociétés, contrôlées par l'Etat, et expose fidèlement la situation financière de l'ensemble de ces entités, y compris les engagements hors bilan, son évolution prévisible, ainsi que les événements importants survenus entre la date de clôture de l'exercice de combinaison et la date à laquelle les comptes combinés ont été établis. Les questions de méthode comptable à trancher pour l'élaboration de ces états financiers sont soumises à l'appréciation d'un groupe de personnalités indépendantes nommées par arrêté du ministre chargé de l'économie ;
 
 3° Retrace les opérations de transfert au secteur privé réalisées en application de la loi n° 86-912 du 6 août 1986 relative aux modalités des privatisations, en distinguant celles fondées sur le titre II de ladite loi de celles fondées sur le titre III. Il y est également fait état des produits encaissés par l'Etat en cours d'exercice et de leurs utilisations ;
 

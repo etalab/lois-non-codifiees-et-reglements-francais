@@ -4,7 +4,7 @@ La liste des intermédiaires agréés prévue à l'article 50 de la loi du 11 f�
 
 Les prestataires de services d'investissement ;
 
-La Banque française du commerce extérieur ;
+La société anonyme Natexis ou toute société qu'elle contrôle au sens de l'article 355-1 de la loi n° 66-537 du 24 juillet 1966 sur les sociétés commerciales.
 
 La Banque de France ;
 
@@ -12,7 +12,7 @@ Les banques inscrites ;
 
 La caisse centrale des banques populaires et la banque fédérale des banques populaires ;
 
-La caisse centrale de crédit coopératif ;
+La Comité fédérale des banques populaires ;
 
 La caisse centrale de crédit mutuel et les caisses départementales et interdépartementales de crédit mutuel ;
 

@@ -1,10 +1,10 @@
 # Article 3
 
-Pour les titulaires [*commissionnaires de transport*] de licences de catégories et de classe en vigueur avant les modifications apportées par le présent décret, les dispositions ci-après sont applicables :
+Pour les titulaires de licences de catégories et de classe en vigueur avant les modifications apportées par le présent décret, les dispositions ci-après sont applicables :
 
 1° La validité des licences de classe B est étendue à tout le territoire national.
 
-Les titulaires de ces licences disposent d'un délai de six mois pour justifier du versement du cautionnement correspondant à la nouvelle validité de leurs licences ou de la constitution d'une caution d'un montant équivalent donné par une banque ou un établissement financier enregistré par le Conseil national du crédit et du titre.
+Les titulaires de ces licences disposent d'un délai de six mois pour justifier du versement du cautionnement correspondant à la nouvelle validité de leurs licences ou de la constitution d'une caution d'un montant équivalent donné par une banque ou un établissement financier enregistré par le Comité consultatif du secteur financier.
 
 2° Les licences délivrées antérieurement à la publication du présent décret pour traiter des envois d'une catégorie déterminée de marchandises (denrées périssables) permettent de traiter indistinctement des envois des deux catégories.
 

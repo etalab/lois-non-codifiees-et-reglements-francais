@@ -1,8 +1,8 @@
 # Article 1
 
-Toute société constituée en vue d'assurer la gestion d'un ou plusieurs fonds communs de placement formés pour l'emploi des sommes attribuées aux salariés au titre de la participation aux fruits de l'expansion des entreprises ou affectées à la réalisation d'un plan d'épargne d'entreprise est tenue de faire auprès de la commission des opérations de bourse la déclaration d'activité prescrite par l'article 3 du décret du 28 décembre 1957 susvisé [*formalités*].
+Toute société constituée en vue d'assurer la gestion d'un ou plusieurs fonds communs de placement formés pour l'emploi des sommes attribuées aux salariés au titre de la participation aux fruits de l'expansion des entreprises ou affectées à la réalisation d'un plan d'épargne d'entreprise est tenue de faire auprès de l'Autorité des marchés financiers la déclaration d'activité prescrite par l'article 3 du décret du 28 décembre 1957 susvisé.
 
-Cette déclaration [*auprès de la C.O.B.*] doit indiquer [*contenu*] :
+Cette déclaration doit indiquer :
 
 1° La dénomination de la société, son siège social et le montant de son capital ;
 
@@ -14,4 +14,4 @@ Cette déclaration [*auprès de la C.O.B.*] doit indiquer [*contenu*] :
 
 A la déclaration doivent être joints le texte des statuts de la société et celui du règlement du fonds commun de placement approuvé par le dépositaire, ou s'il est envisagé de créer plusieurs fonds communs de placement, le règlement de chacun d'eux, dûment approuvé.
 
-Toute modification concernant les indications contenues dans la déclaration d'activité ou apportée aux documents joints doit être immédiatement [*délai*] portée à la connaissance de la commission des opérations de bourse [*pouvoirs de contrôle*]. Lorsqu'une société de gestion, après la déclaration d'activité prévue au présent article, entend créer un nouveau fonds commun de placement, elle en avise la commission en lui transmettant le règlement dudit fonds, approuvé par le dépositaire. Toutefois, si le règlement est identique à celui d'un fonds antérieurement créé avec le concours du même dépositaire, la société de gestion peut se référer aux documents antérieurement déposés.
+Toute modification concernant les indications contenues dans la déclaration d'activité ou apportée aux documents joints doit être immédiatement portée à la connaissance de l'Autorité des marchés financiers. Lorsqu'une société de gestion, après la déclaration d'activité prévue au présent article, entend créer un nouveau fonds commun de placement, elle en avise la commission en lui transmettant le règlement dudit fonds, approuvé par le dépositaire. Toutefois, si le règlement est identique à celui d'un fonds antérieurement créé avec le concours du même dépositaire, la société de gestion peut se référer aux documents antérieurement déposés.

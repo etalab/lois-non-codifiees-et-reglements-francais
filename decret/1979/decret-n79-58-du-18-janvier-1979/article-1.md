@@ -1,6 +1,6 @@
 # Article 1
 
-Pour l'application des deux derniers alinéas de l'article 163 octies du code général des impôts, les SICAV indiquent à la commission des opérations de bourse avant le 31 janvier de chaque année :
+Pour l'application des deux derniers alinéas de l'article 163 octies du code général des impôts, les SICAV indiquent à l'Autorité des marchés financiers avant le 31 janvier de chaque année :
 
 Le montant des capitaux qu'elles ont recueillis durant le mois de décembre précédent ;
 

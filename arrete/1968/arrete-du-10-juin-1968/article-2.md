@@ -16,7 +16,7 @@ Les banques inscrites par le conseil national du crédit ;
 
 Les banques populaires ;
 
-La caisse centrale de crédit coopératif ;
+La Banque fédérale des banques populaires ;
 
 Les sociétés de bourse ;
 

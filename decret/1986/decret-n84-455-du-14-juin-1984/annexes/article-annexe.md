@@ -10,7 +10,7 @@ Les emplois du niveau des catégories A, B, C et D du statut général des fonct
 
 INSTITUTIONS ADMINISTRATIVES spécialisées de l'Etat :
 
-Commission des opérations de bourse ;
+Autorité des marchés financiers ;
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés :
 

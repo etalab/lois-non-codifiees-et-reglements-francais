@@ -4,4 +4,4 @@ Dans le mois qui suit la délibération du conseil d'administration ou du direct
 
 Elles devront, en outre, après la tenue de l'assemblée générale extraordinaire, envoyer au ministère susmentionné le texte de la résolution adoptée accompagné des éléments d'information dont la communication au comité d'entreprise est prévue par l'article 11, alinéa 3, du présent décret.
 
-Les sociétés mentionnées à l'article 2 de la loi adresseront également les mêmes documents à la Commission des opérations de Bourse.
+Les sociétés mentionnées à l'article 2 de la loi adresseront également les mêmes documents à l'Autorité des marchés financiers.
