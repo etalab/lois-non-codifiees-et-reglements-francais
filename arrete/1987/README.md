@@ -53,6 +53,7 @@
 - [Arrêté du 24 mars 1987 (ACVA8710010A)](arrete-du-24-mars-1987-acva8710010a)
 - [Arrêté du 26 décembre 1986](arrete-du-26-decembre-1986)
 - [Arrêté du 26 janvier 1987](arrete-du-26-janvier-1987)
+- [Arrêté du 26 janvier 1987 (AGRP8700004A)](arrete-du-26-janvier-1987-agrp8700004a)
 - [Arrêté du 28 décembre 1986](arrete-du-28-decembre-1986)
 - [Arrêté du 28 mai 1986](arrete-du-28-mai-1986)
 - [Arrêté du 29 décembre 1986](arrete-du-29-decembre-1986)

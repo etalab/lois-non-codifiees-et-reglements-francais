@@ -1,5 +1,3 @@
 # Article 1
 
-Le présent arrêté [*champ d'application*] porte sur les conditions d'homologation et d'utilisation d'un aérodrome dont le ministre chargé de l'aviation civile est affectataire principal, pour l'exécution de procédures d'approche de précision.
-
-Il s'applique également, pour les besoins de l'aviation civile, aux aérodromes dont le ministre chargé de l'aviation civile n'est pas affectataire principal.
+Il est créé à l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires (E.N.I.T.I.A.A.) un traitement automatisé d'informations nominatives dont l'objet est de gérer des adresses de personnes et d'entreprises pour la diffusion d'informations concernant l'activité de l'établissement et pour la collecte de la taxe d'apprentissage.

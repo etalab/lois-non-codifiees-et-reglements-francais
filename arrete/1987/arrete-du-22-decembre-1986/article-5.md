@@ -1,7 +1,3 @@
 # Article 5
 
-Des dérogations éventuelles peuvent être accordées par le ministre chargé de l'aviation civile, sous réserve qu'elles soient dûment justifiées, sur demande :
-
-- de l'autorité de l'aviation civile territorialement compétente pour les aérodromes dont l'affectataire principal est le ministre chargé de l'aviation civile ;
-
-- du représentant de l'affectataire principal dans les autres cas.
+Le directeur général de l'enseignement et de la recherche et le directeur de l'Ecole nationale d'ingénieurs des techniques des industries agricoles et alimentaires sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

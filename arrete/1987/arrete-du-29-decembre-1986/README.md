@@ -1,4 +1,4 @@
-# Arrêté du 29 décembre 1986 relatif aux taux de calcul du soutien financier aux exploitants de salles de spectacles cinématographiques
+# Arrêté du 29 décembre 1986 relatif aux modalités techniques et financières de lutte contre certaines maladies animales
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
