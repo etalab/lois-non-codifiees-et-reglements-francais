@@ -10,4 +10,6 @@ La validité de la liste complémentaire cesse automatiquement à la date du dé
 
 Les nominations sont prononcées dans l'ordre d'inscription sur la liste principale, puis dans l'ordre d'inscription sur la liste complémentaire. S'il apparaît, au moment de la vérification des conditions requises pour concourir, laquelle doit intervenir au plus tard à la date de la nomination, qu'un ou plusieurs candidats déclarés aptes par le jury ne réunissaient pas lesdites conditions, il peut être fait appel, le cas échéant, aux candidats figurant sur la liste complémentaire.
 
+Les candidats aux concours doivent remplir les conditions générales prévues aux articles 5 et 5 bis du titre Ier du statut général et par le statut particulier du corps auxquels ils postulent au plus tard à la date de la première épreuve du concours ou, s'il s'agit d'un concours comprenant un examen des titres des candidats, à la date de la première réunion du jury chargé de la sélection des dossiers, sauf indications contraires dans le statut particulier du corps concerné.
+
 Le jury peut, si nécessaire, et pour toute épreuve, se constituer en groupes d'examinateurs. Toutefois, afin d'assurer l'égalité de notation des candidats, le jury opère, s'il y a lieu, la péréquation des notes attribuées par chaque groupe d'examinateurs et procède à la délibération finale.
