@@ -737,7 +737,6 @@
 - [Arrêté du 19 février 1996 (FPPA9500157A)](arrete-du-19-fevrier-1996-fppa9500157a)
 - [Arrêté du 19 février 1996 (TASC9620622A)](arrete-du-19-fevrier-1996-tasc9620622a)
 - [Arrêté du 19 février 1996 (TASP9620642A)](arrete-du-19-fevrier-1996-tasp9620642a)
-- [Arrêté du 19 février 1996 (TASS9620596A)](arrete-du-19-fevrier-1996-tass9620596a)
 - [Arrêté du 19 janvier 1996 (AGRH9600163A)](arrete-du-19-janvier-1996-agrh9600163a)
 - [Arrêté du 19 janvier 1996 (DEFC9601087A)](arrete-du-19-janvier-1996-defc9601087a)
 - [Arrêté du 19 janvier 1996 (ECOP9500499A)](arrete-du-19-janvier-1996-ecop9500499a)
