@@ -8,7 +8,7 @@ b) Le prêt porte sur des titres qui ne sont pas susceptibles de faire l'objet, 
 
 c) Le prêt est soumis aux dispositions des articles 1892 à 1904 inclus du code civil ;
 
-Le prêt de titres peut être garanti par la remise d'espèces ou de titres.
+Le prêt de titres peut être garanti par la remise d'espèces ou de titres en pleine propriété.
 
 Nonobstant toute disposition contraire, les parties peuvent convenir qu'en cas de défaillance de l'une d'elles, l'autre partie sera définitivement propriétaire des espèces ou des titres remis.
 
@@ -19,3 +19,5 @@ e) Les titres sont empruntés par une personne morale soumise de plein droit à 
 f) [*paragraphe abrogé*].
 
 g) Le prêt ne peut excéder un an.
+
+Les parties peuvent convenir de remises complémentaires, en pleine propriété, d'espèces ou de titres, pour tenir compte de l'évolution de la valeur des titres prêtés.
