@@ -1,6 +1,6 @@
 # Article 37-2
 
-Les forfaits de soins sont calculés à partir des dépenses prévisionnelles de soins qui comprennent :
+Les établissements de personnes âgées relevant du 5° de l'article L. 312-1 du code de l'action sociale et des familles qui bénéficient de forfaits de soins courants et de forfaits de section de cure médicale et qui n'ont pas conclu la convention tripartite prévue à l'article L. 312-8 du code de l'action sociale et des familles peuvent continuer à percevoir un forfait journalier de soins courants et un forfait journalier de section de cure médicale déterminés dans la limite d'un montant fixé annuellement par décision conjointe des ministres chargés de l'action sociale et de la sécurité sociale :
 
 1° Au titre des soins courants dispensés par l'établissement, les sommes figurant au budget prévisionnel et afférentes à la rémunération du ou des médecins chargés de la surveillance médicale de l'établissement, à celle des infirmiers et aides soignants qui dispensent les soins courants et à l'achat des médicaments et produits usuels nécessaires aux soins.
 
@@ -8,7 +8,7 @@ Les forfaits de soins sont calculés à partir des dépenses prévisionnelles de
 
 a) A la rémunération du médecin coordonnateur et, le cas échéant, des médecins salariés ;
 
-b) A la rémunération des infirmiers salariés, autres auxiliaires médicaux salariés ainsi que des aides-soignantes et des aides médico-psychologiques affectés à cette section ;
+b) A la rémunération des infirmiers salariés, autres auxiliaires médicaux salariés ainsi que des aides-soignantes et des aides médico-psychologiques affectés à cette section et ce, dans la limite du montant du forfait journalier de soins arrêté ;
 
 c) A la rémunération des infirmiers d'exercice libéral ;
 
@@ -29,3 +29,7 @@ Le forfait journalier de soins est obtenu en divisant le montant de ces dépense
 Le forfait annuel de soins est obtenu en retranchant du montant des dépenses prévisionnelles de soins le produit du forfait journalier multiplié par le nombre prévisionnel de journées de pensionnaire non pris en charge par un régime d'assurance maladie.
 
 Ni les recettes accessoires ni les résultats du dernier exercice, sous réserve des dispositions de l'article 37-7 ci-dessous, ne sont pris en compte pour le calcul des forfaits de soins.
+
+Le préfet de département peut fixer un forfait journalier de soins supérieur au montant mentionné après avis de la caisse régionale d'assurance maladie.
+
+Les forfaits journaliers de soins et le forfait annuel global de soins sont arrêtés par le préfet de département après avis de la caisse régionale d'assurance maladie.

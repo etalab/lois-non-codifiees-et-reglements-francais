@@ -2,7 +2,7 @@
 
 Sont arrêtés par le président du conseil général et facturés mensuellement selon le terme à échoir :
 
-1° Le tarif journalier afférent à l'hébergement ;
+1° Le tarif journalier moyen afférent à l'hébergement ;
 
 2° Les tarifs journaliers afférents à la dépendance.
 

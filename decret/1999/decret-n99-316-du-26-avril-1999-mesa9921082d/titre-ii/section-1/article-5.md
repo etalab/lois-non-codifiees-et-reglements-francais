@@ -10,8 +10,10 @@ a) De la répartition des personnes accueillies dans les établissements par niv
 
 b) De la répartition des emplois et des effectifs des établissements entre les sections de calcul des tarifs, dans le respect des dispositions prévues à l'article 6 ;
 
-3° Le tableau, figurant à l'annexe V du présent décret, définissant les modalités de détermination et d'affectation des résultats de chaque section d'imputation tarifaire des établissements hébergeant des personnes âgées dépendantes autres que ceux relevant de la loi du 6 juillet 1990 précitée, conformément aux modalités prévues à l'article 39 du décret du 26 avril 1999 susvisé ou, le cas échéant, à l'article R. 714-3-50 du code de la santé publique ;
+3° Le tableau, figurant à l'annexe V du présent décret, définissant les modalités de détermination et d'affectation des résultats de chaque section d'imputation tarifaire des établissements hébergeant des personnes âgées dépendantes autres que ceux relevant des articles L. 342-1 à L. 342-6 du code de l'action sociale et des familles, conformément aux modalités prévues à l'article 39 du décret du 26 avril 1999 susvisé ou, le cas échéant, à l'article R. 714-3-50 du code de la santé publique ;
 
 4° Le tableau de bord, figurant à l'annexe VI du présent décret, établissant la liste des indicateurs médico-socio-économiques.
 
 Les tableaux mentionnés au 2° à 4° ci-dessus, dûment remplis, sont, d'une part, joints aux propositions budgétaires de l'établissement, d'autre part, transmis aux autorités de tarification pour le 30 avril qui suit l'exercice auquel ils se rapportent.
+
+Les tableaux mentionnés au 2° et au 3° peuvent être modifiés par arrêté des ministres chargés des affaires sociales, du budget et de l'intérieur en vue de prendre en compte les changements de numérotation et d'intitulé de comptes retenus par le plan de compte des établissements sociaux et médico-sociaux publics.

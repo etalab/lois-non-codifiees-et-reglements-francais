@@ -4,4 +4,4 @@ Les tarifs journaliers afférents à la dépendance et aux soins de l'exercice e
 
 Les informations correspondantes sont, d'une part, jointes aux propositions budgétaires de l'établissement, d'autre part, transmises aux autorités de tarification pour le 30 avril qui suit l'exercice auquel ces informations se rapportent.
 
-Est également joint un tableau de répartition des personnes hébergées entre les niveaux de dépendance définis par la grille nationale mentionnée à l'article 5 de la loi du 24 janvier 1997 susvisée.
+Est également joint un tableau de répartition des personnes hébergées entre les niveaux de dépendance définis par la grille nationale mentionnée à l'article L. 232-7 du code de l'action sociale et des familles.
