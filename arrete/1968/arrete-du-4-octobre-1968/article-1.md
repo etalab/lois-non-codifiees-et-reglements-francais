@@ -19,3 +19,5 @@ Pour le financement de l'action sociale dans les départements visés à l'artic
 . Caisse d'allocations familiales de la Réunion : 140.800.000 F.
 
 Ce programme fait l'objet d'un plan détaillé annuel établi par le comité de gestion prévu à l'article 2 ci-après.
+
+Pour l'année 1984 et à titre exceptionnel, la caisse d'allocations familiales de la Réunion reçoit une dotation supplémentaire de 4000000 F destinée au financement des dépenses relatives aux cantines scolaires.

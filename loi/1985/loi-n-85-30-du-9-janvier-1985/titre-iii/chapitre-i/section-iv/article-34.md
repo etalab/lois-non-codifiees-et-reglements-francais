@@ -1,0 +1,3 @@
+# Article 34
+
+- L'indication de provenance "montagne" et les références géographiques spécifiques aux zones de montagne au sens de la présente loi, telles que les noms d'un massif, d'un sommet, d'une vallée, d'une commune ou d'un département, sont protégées. Cette indication de provenance et ces références ne peuvent être utilisées, pour tous les produits mis sur le marché, que dans des conditions fixées par décret en Conseil d'Etat pris après avis des organismes professionnels représentatifs en matière de certification de qualité. Ce décret détermine notamment les techniques de fabrication, le lieu de fabrication et la provenance des matières premières permettant l'utilisation des références géographiques susmentionnées.

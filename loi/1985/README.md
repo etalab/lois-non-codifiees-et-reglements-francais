@@ -6,5 +6,6 @@
 - [Loi n° 84-604 du 13 juillet 1984](loi-n-84-604-du-13-juillet-1984)
 - [Loi n° 85-11 du 3 janvier 1985](loi-n-85-11-du-3-janvier-1985)
 - [Loi n° 85-17 du 4 janvier 1985](loi-n-85-17-du-4-janvier-1985)
+- [Loi n° 85-30 du 9 janvier 1985](loi-n-85-30-du-9-janvier-1985)
 - [Loi n° 85-8 du 2 janvier 1985](loi-n-85-8-du-2-janvier-1985)
 - [Loi n° 85-98 du 25 janvier 1985](loi-n-85-98-du-25-janvier-1985)

@@ -1,0 +1,7 @@
+# Article 66
+
+Dans la période qui précède le premier renouvellement général des conseils municipaux suivant l'entrée en vigueur de la présente loi, le représentant de l'Etat dans le département convoque, sous réserve des dispositions de l'article L. 151-5 du code des communes, les électeurs de chaque section lorsque les deux tiers des électeurs de la section ou le conseil municipal lui adressent à cette fin une demande, formulée dans des conditions et dans un délai qui seront fixés par décret en Conseil d'Etat.
+
+Dans ce cas, le premier mandat de la commission syndicale expire lors de l'installation de la commission syndicale suivant le prochain renouvellement général des conseils municipaux. Si, à la suite de ce renouvellement général, la commission syndicale n'est pas constituée en application de l'article L. 151-5, ce mandat expire à la date fixée par le représentant de l'Etat dans l'acte par lequel il constate que les conditions de sa constitution ne sont pas réunies.
+
+Si, à défaut d'une demande formulée dans le délai prescrit, il n'est pas constitué de commission syndicale dans la période qui précède le premier renouvellement général des conseils municipaux suivant l'entrée en vigueur de la présente loi, les prérogatives de la commission syndicale sont exercées au cours de cette période par le conseil municipal, sous réserve des dispositions des articles L. 151-8 et L. 151-16 du code des communes.

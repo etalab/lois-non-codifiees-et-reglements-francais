@@ -12,6 +12,7 @@
 - [Décret n°85-26 du 7 janvier 1985](decret-n85-26-du-7-janvier-1985)
 - [Décret n°85-27 du 7 janvier 1985](decret-n85-27-du-7-janvier-1985)
 - [Décret n°85-28 du 7 janvier 1985](decret-n85-28-du-7-janvier-1985)
+- [Décret n°85-34 du 9 janvier 1985](decret-n85-34-du-9-janvier-1985)
 - [Décret n°79-579 du 10 juillet 1979](decret-n79-579-du-10-juillet-1979)
 - [Décret n°85-591 du 10 juin 1985](decret-n85-591-du-10-juin-1985)
 - [Décret n°84-1110 du 11 décembre 1984](decret-n84-1110-du-11-decembre-1984)
