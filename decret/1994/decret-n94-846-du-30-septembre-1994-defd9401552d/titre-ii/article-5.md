@@ -6,21 +6,23 @@ Il comprend :
 
 1° Neuf représentants de l'Etat :
 
-a) Le directeur chargé de l'administration générale et des personnels de la délégation générale pour l'armement ou son représentant ;
+a) Le directeur des ressources humaines de la délégation générale pour l'armement, ou son représentant ;
 
-b) Deux directeurs de l'administration centrale de la délégation générale pour l'armement ;
+b) Un directeur de l'administration centrale de la délégation générale pour l'armement, ou son représentant ;
 
-c) Un inspecteur de l'armement ;
+c) Le directeur des affaires financières du ministère de la défense, ou son représentant ;
 
-d) Un représentant du chef d'état-major des armées ;
+d) Un inspecteur de l'armement ;
 
-e) Un représentant du ministre chargé de l'industrie ;
+e) Un représentant du chef d'état-major des armées ;
 
-f) Un représentant du ministre chargé du budget ;
+f) Un représentant du ministre chargé de l'industrie ;
 
 g) Un représentant du ministre chargé de l'enseignement supérieur ;
 
-h) Un représentant du ministre chargé de la mer.
+h) Un représentant du ministre chargé de la mer ;
+
+i) Un représentant du ministre chargé du budget.
 
 2° Sept personnalités :
 
