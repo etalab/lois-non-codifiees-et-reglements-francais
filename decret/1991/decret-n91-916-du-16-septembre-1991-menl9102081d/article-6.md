@@ -1,6 +1,10 @@
 # Article 6
 
-Les représentants des lycéens sont élus au scrutin de liste à la représentation proportionnelle au plus fort reste, sans panachage ni radiation.
+Les représentants des lycéens sont élus au scrutin plurinominal majoritaire à un tour.
+
+Le vote par correspondance est autorisé.
+
+Le vote est personnel et secret.
 
 Les électeurs sont répartis en trois collèges :
 
