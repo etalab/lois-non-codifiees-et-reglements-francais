@@ -604,4 +604,5 @@
 - [Arrêté du 31 mars 1994 (SPSS9401049A)](arrete-du-31-mars-1994-spss9401049a)
 - [Arrêté du 31 mai 1994 (AGRA9401032A)](arrete-du-31-mai-1994-agra9401032a)
 - [Arrêté du 31 mai 1994 (ENVP9430191A)](arrete-du-31-mai-1994-envp9430191a)
+- [Arrêté du 31 mai 1994 (EQUA9401013A)](arrete-du-31-mai-1994-equa9401013a)
 - [Arrêté du 31 mai 1994 (TEFT9400560A)](arrete-du-31-mai-1994-teft9400560a)
