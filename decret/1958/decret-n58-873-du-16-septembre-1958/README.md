@@ -73,6 +73,7 @@
 - [Département du Morbihan](departement-du-morbihan)
 - [Département du Nord](departement-du-nord)
 - [Département du Pas-de-Calais](departement-du-pas-de-calais)
+- [Département du Puy-de-Dôme](departement-du-puy-de-dome)
 - [Département du Rhône](departement-du-rhone)
 - [Département du Val-d'Oise.](departement-du-val-d-oise)
 - [Département du Val-de-Marne](departement-du-val-de-marne)
