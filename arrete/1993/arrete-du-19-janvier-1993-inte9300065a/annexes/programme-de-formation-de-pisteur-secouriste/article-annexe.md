@@ -2,13 +2,9 @@
 
 (Durée : quatre-vingts heures)
 
-I. - Unité de formation : sécurité, secours
+1. Unité de formation : sécurité, secours (durée : quarante heures) :
 
-(Durée : quarante heures)
-
-1.1. Secourisme
-
-(Durée : quatre heures)
+1.1. Secourisme (durée : quatre heures) :
 
 Secourisme adapté au milieu de la montagne :
 
@@ -16,21 +12,9 @@ Secourisme adapté au milieu de la montagne :
 
 - accidents dus à l'environnement (soleil, altitude, etc.) ;
 
-- problèmes de santé (fatigue, cardiaque, déshydratation, etc.).
+- problèmes de santé (fatigue, problèmes cardio-vasculaires, déshydratation, etc.).
 
-1.2. Accueil, information du public et prévention
-
-(Durée : quatre heures)
-
-- principes et techniques d'accueil et d'information des usagers ;
-
-- perception et contrôle de la redevance de ski de fond ;
-
-- données économiques sur la gestion du domaine skiable nordique.
-
-1.3. Techniques de sauvetage
-
-(Durée : vingt-quatre heures)
+1.2. Techniques de sauvetage (durée : trente heures) :
 
 A. - Techniques de sauvetage spécifiques en situation (cas concrets) (durée : vingt heures) :
 
@@ -38,9 +22,9 @@ A. - Techniques de sauvetage spécifiques en situation (cas concrets) (durée : 
 
 - protection d'une victime et prévention du sur-accident ;
 
-- immobilisation de fractures ;
+- bilan, alerte ;
 
-- relevage et brancardage ;
+- intervention : conditionnement, évacuation ;
 
 - moyens de recherche et d'évacuation spécifiques :
 
@@ -50,42 +34,40 @@ A. - Techniques de sauvetage spécifiques en situation (cas concrets) (durée : 
 
 - moyens de liaison.
 
-B. - Technique de dégagements héliportés (durée : quatre heures).
+B. - Technique de dégagement héliporté (durée : quatre heures).
 
-1.4. Evaluation
+C. - Nivo-météorologie appliquée à la prévention et à la sécurité (durée : six heures) :
 
-(Durée : huit heures)
+- secours en avalanche.
 
-II. - Unité de formation : aménagement, entretien
+1.3. Evaluation (durée : six heures).
 
-(Durée : quarante heures)
+2. Unité de formation : aménagement, entretien, gestion (durée : quarante heures) :
 
-2.1. Matériel et damage
+2.1. Matériels, entretien, damage (durée : vingt-quatre heures) :
 
-(Durée : vingt-quatre heures)
-
-- préparation et entretien hivernal et pré-hivernal des pistes (signalisation, traçage et balisage) ;
+- préparation et entretien hivernal et préhivernal des pistes (signalisation, traçage et balisage) ;
 
 - connaissance des équipements et matériels ;
 
-- conduite des engins de damage ;
+- conduite des engins de damage et utilisation des accessoires arrière ;
 
-- sécurité du travail.
+- sécurité de travail liée au matériel, au conducteur et aux usagers.
 
-2.2. Météorologie et nivologie
-
-(Durée : quatre heures)
+2.2. Météorologie et nivologie appliquées (durée : quatre heures) :
 
 - connaissance du manteau neigeux ;
 
-- technique de travail de la neige.
+- application pratique de la nivologie au damage.
 
-2.3. Réglementation
+2.3. Accueil, réglementation, gestion (durée : six heures) :
 
-(Durée : quatre heures)
+- accueil, information du public (affichage, documentation, connaissance de l'activité et du matériel de ski) ;
 
-- gestion et réglementation du domaine skiable nordique.
+- réglementation, prévention ;
 
-2.4. Evaluation
+- gestion du domaine skiable nordique ;
 
-(Durée : huit heures)
+- données économiques, perception et contrôle de la redevance.
+
+2.4. Evaluation (durée : six heures).
