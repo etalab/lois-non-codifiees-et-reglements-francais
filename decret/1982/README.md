@@ -27,7 +27,6 @@
 - [Décret n°82-226 du 4 mars 1982](decret-n82-226-du-4-mars-1982)
 - [Décret n°82-694 du 4 août 1982](decret-n82-694-du-4-aout-1982)
 - [Décret n°82-697 du 4 août 1982](decret-n82-697-du-4-aout-1982)
-- [Décret n°82-848 du 4 octobre 1982](decret-n82-848-du-4-octobre-1982)
 - [Décret n°82-849 du 4 octobre 1982](decret-n82-849-du-4-octobre-1982)
 - [Décret n°82-850 du 4 octobre 1982](decret-n82-850-du-4-octobre-1982)
 - [Décret n°82-2 du 5 janvier 1982](decret-n82-2-du-5-janvier-1982)
