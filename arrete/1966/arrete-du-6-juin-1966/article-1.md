@@ -1,6 +1,6 @@
 # Article 1
 
-Les agents titulaires des établissements d'hospitalisation, de soins ou de cure publics, des établissements nationaux de bienfaisance et des hôpitaux psychiatriques autonomes l'un des titres, diplômes ou qualifications suivants :
+Les agents titulaires des établissements d'hospitalisation, de soins ou de cure publics, des établissements nationaux de bienfaisance et des hôpitaux psychiatriques autonomes justifiant d'un des titres, diplômes ou qualifications suivants :
 
 Baccalauréat ;
 
@@ -12,7 +12,7 @@ Brevet de technicien en biologie, diplômes des élèves, brevets des écoles na
 
 Brevet supérieur de préparateur en bactériologie, délivré par le service de santé des armées ;
 
-Brevet de capacité, délivré par l'école du laboratoire de l'assistance publique de Paris ;
+Brevet de capacité, délivré par l'école de laboratoire de l'assistance publique de Paris ;
 
 Certificat d'inscription sur la liste d'aptitude aux fonctions de laborantin ou de laborantine, délivré par l'assistance publique de Marseille ;
 
@@ -57,3 +57,9 @@ Diplôme d'Etat de sage-femme,
 peuvent accéder à l'échelon exceptionnel de leur cadre prévu par les arrêtés interministériels des 8 juillet 1963, 17 juillet 1964 et 23 janvier 1965 susvisés.
 
 Attestation d'admissibilité à la suite des épreuves pratiques du brevet de technicien supérieur Analyses biologiques délivré par le ministère de l'éducation nationale.
+
+Brevet d'enseignement industriel Aide-chimiste.
+
+Brevet d'enseignement industriel Aide-biochimiste.
+
+Diplôme de chimie appliquée délivré de 1928 à 1954 par le collège moderne et technique d'Arsonval, à Saint-Maur-des-Fossés.
