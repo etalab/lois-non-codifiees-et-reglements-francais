@@ -1,0 +1,3 @@
+# Article 2
+
+La mission interministérielle aux rapatriés est chargée de préparer, en concertation avec les associations représentatives, les mesures de solidarité nationale en faveur des rapatriés. Elle veille à la mise en oeuvre des mesures décidées par les pouvoirs publics. Elle suit, coordonne et facilite l'application des dispositions législatives et réglementaires qui concernent les rapatriés, notamment celles destinées à faciliter leur réinstallation, ainsi que celles fixées par la loi n° 94-488 du 11 juin 1994 relative aux rapatriés anciens membres des formations supplétives et assimilés ou victimes de la captivité en Algérie. Elle met en oeuvre des actions d'information, d'évaluation et de médiation.
