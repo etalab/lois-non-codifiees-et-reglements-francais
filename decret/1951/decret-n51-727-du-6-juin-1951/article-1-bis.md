@@ -36,9 +36,11 @@ Toute partie de mois n'est pas prise en considération.
 
 Les dispositions du e ci-dessus s'appliquent à tous les anciens combattants pour leur durée de service actif passé sous les drapeaux.
 
-Par. 3 - Le service de la pension de vieillesse attribuée ou revisée au titre de l'inaptitude au travail peut être suspendu lorsque le titulaire, âgé de moins de soixante-cinq ans, exerce une activité professionnelle lui procurant des revenus dépassant un chiffre déterminé par voie réglementaire.
+Par. 3 - Le service de la pension de vieillesse attribuée ou revisée au titre de l'inaptitude au travail peut être suspendu lorsque le titulaire, âgé de moins de soixante-cinq ans, exerce une activité professionnelle lui procurant des revenus dépassant un chiffre déterminé par voie réglementaire [*cumul emploi retraite*].
 
-Le montant de la pension de retraite d'un assuré âgé de plus de soixante-cinq ans ou de moins de soixante-cinq ans mais inapte au travail, ne peut être inférieur à celui visé à l'article L. 345 du code de la sécurité sociale.
+La pension de vieillesse au taux plein est assortie, le cas échéant, d'une majoration permettant de porter cette prestation à un montant minimum tenant compte de la durée d'assurance et fixé par décret.
+
+La bonification pour enfants, la majoration pour conjoint à charge et la rente des retraites ouvrières et paysannes prévues aux paragraphes 5 et 6 du présent article et à l'article L. 350 du code de la sécurité sociale s'ajoutent à ce montant minimum [*décret du 11 janvier 1984 art. 1*].
 
 Par. 4 - Lorsque le montant de la pension est inférieur à un minimum, un versement forfaitaire unique [*capital*] est substitué à la pension, dans les conditions fixées par voie réglementaire.
 
@@ -54,4 +56,4 @@ Cette majoration est également accordée aux femmes assurées qui ont obtenu un
 
 Par. 9 - Les assurés âgés de plus de soixante-cinq ans bénéficient d'une majoration de leur durée d'assurance qui est fonction du nombre d'années supplémentaires par rapport à l'âge de soixante-cinq ans.
 
-Par. 10 - Les montants de la majoration pour conjoint à charge prévue au paragraphe 6 du présent article et du minimum de pension prévu à l'article L. 345 du code de la sécurité sociale sont fixés par décret en tenant compte de la durée d'assurance lorsque celle-ci est inférieure à la durée déterminée par ce décret.
+Par. 10 - Les montants de la majoration pour conjoint à charge prévue au paragraphe 6 du présent article et du minimum de pension prévu au deuxième alinéa du paragraphe 3 dudit article sont fixés par décret en tenant compte de la durée d'assurance lorsque celle-ci est inférieure à la durée déterminée par ce décret.
