@@ -2,7 +2,7 @@
 
 Pour pouvoir prétendre à l'indemnité annuelle d'attente, le candidat doit [*conditions d'attribution*] :
 
-1° Justifier de l'exercice de l'activité de chef d'exploitation à titre principal pendant au moins les cinq années précédant immédiatement le dépôt de sa demande [*durée, point de départ*].
+1° Justifier de l'exercice de l'activité de chef d'exploitation à titre principal pendant au moins les quinze années précédant immédiatement le dépôt de sa demande [*durée, point de départ*].
 
 Est considéré comme chef d'exploitation à titre principal [*définition*] l'exploitant agricole qui bénéficie des prestations de l'assurance maladie, invalidité et maternité des exploitants agricoles ou le métayer assujetti, en application de l'article 1025 du code rural, au régime des assurances sociales agricoles.
 
@@ -12,4 +12,4 @@ A défaut, est réputé remplir cette condition l'exploitant qui a consacré à 
 
 3° S'engager ainsi que son conjoint à renoncer définitivement à mettre en valeur directement ou indirectement une exploitation agricole pendant la durée d'attribution de l'indemnité annuelle d'attente et jusqu'à la date à laquelle il peut faire valoir ses droits à l'avantage de vieillesse des personnes non salariées des professions agricoles ou du régime des assurances sociales agricoles.
 
-La mise en valeur au cours de cette période d'une ou de plusieurs parcelles de terre dites de subsistance, dans la limite d'un hectare pondéré, ne fait pas obstacle au versement de l'indemnité.
+La mise en valeur au cours de cette période d'une ou de plusieurs parcelles de terre dites de subsistance, dans la limite d'un cinquième de la surface minimale d'installation, ne fait pas obstacle au versement de l'indemnité.
