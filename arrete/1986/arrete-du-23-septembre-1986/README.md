@@ -1,4 +1,3 @@
-# Arrêté du 23 septembre 1986 fixant le montant de la taxe parafiscale sur les céréales et le riz au profit de l'Association nationale pour le développement agricole *ANDA*
+# Arrêté du 23 septembre 1986 fixant la liste des personnes morales ou organismes mentionnés au 3° de l'article 37 de la loi n° 85-660 du 3 juillet 1985 relative aux droits d'auteur et aux droits des artistes interprètes, des producteurs de phonogrammes et de vidéogrammes et des entreprises de communication audiovisuelle
 
-- [Article 1](article-1.md)
 - [Article 2](article-2.md)

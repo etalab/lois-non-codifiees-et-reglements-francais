@@ -1,5 +1,7 @@
 # Article 4
 
-Les examens spéciaux d'accès aux études universitaires évaluent, d'une part, les connaissances et la culture générale, d'autre part, les méthodes et les savoir-faire des candidats en fonction des exigences requises pour la poursuite d'études supérieures.
+Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 s'exerce auprès de la direction régionale des postes concernée.
 
-Le succès aux examens spéciaux d'accès aux études universitaires sanctionne des aptitudes du niveau du baccalauréat, équivalentes à celles requises pour le classement d'un titre, en application de l'article 8 de la loi n° 71-577 du 16 juillet 1971 susvisée, au niveau IV de la nomenclature interministérielle des niveaux de formation. Il confère, en vue de la poursuite d'études supérieures, les mêmes droits que ceux qui s'attachent au succès au baccalauréat.
+Les demandes sont déposées au bureau de poste distributeur de l'objet en instance.
+
+La copie des informations sera délivrée à titre onéreux dans les conditions prévues par le décret n° 85-525 du 16 juin 1982 susvisé.
