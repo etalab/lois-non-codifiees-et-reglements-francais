@@ -1,0 +1,5 @@
+# Article 2
+
+Ne peuvent acheter et vendre des contrats admis à la négociation sur le marché à terme d'instruments financiers dans des conditions autres que celles fixées à l'article 1er du présent décret que les sociétés d'investissement à capital variable et les fonds communs de placement qui ont notifié, au moins deux mois auparavant, à leurs actionnaires ou porteurs de parts, un document d'information conforme à un modèle fixé par la Commission des opérations de bourse. Les actionnaires ou porteurs de parts peuvent, dans le délai de deux mois précité, demander le rachat sans frais de leurs actions ou parts.
+
+Le montant net des dépôts de garantie versés en application du règlement général du marché à terme d'instruments financiers par les sociétés d'investissement à capital variable et les fonds communs de placement au titre des contrats achetés ou vendus sur ce marché ne peut dépasser, en moyenne bimensuelle, une fraction de leur actif égale au taux le plus élevé fixé par la chambre de compensation instituée par la loi du 11 juillet 1985 pour le calcul des dépôts de garantie afférents aux contrats admis à la négociation sur ce marché.
