@@ -1,0 +1,3 @@
+# Article 34-4
+
+Sans préjudice des articles 34-1 et 34-2, tout distributeur de services fait droit, dans des conditions équitables, raisonnables et non discriminatoires, aux demandes des éditeurs de services de télévision ne faisant pas appel à rémunération de la part des usagers et dont la diffusion est autorisée conformément aux articles 30 ou 30-1 tendant, d'une part, à permettre l'accès, pour la réception de leurs services, à tout terminal utilisé par le distributeur pour la réception de l'offre qu'il commercialise et, d'autre part, à assurer la présentation de leurs services dans les outils de référencement de cette offre.

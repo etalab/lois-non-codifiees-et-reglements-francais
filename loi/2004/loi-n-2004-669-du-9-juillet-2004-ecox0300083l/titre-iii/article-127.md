@@ -1,0 +1,3 @@
+# Article 127
+
+Sans préjudice des dispositions de l'article 82 de la loi n° 2000-719 du 1er août 2000 modifiant la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication, la diffusion des services de télévision par voie hertzienne, terrestre en mode analogique, prendra fin cinq ans après le début effectif des émissions en mode numérique, sous réserve du constat par le Conseil supérieur de l'audiovisuel de la couverture du territoire par ce mode de diffusion, de la pertinence des choix technologiques, de l'information appropriée du public et de l'équipement des foyers pour ce mode de réception.

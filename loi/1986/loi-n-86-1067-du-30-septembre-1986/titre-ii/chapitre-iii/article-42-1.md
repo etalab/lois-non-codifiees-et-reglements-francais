@@ -1,6 +1,6 @@
 # Article 42-1
 
-Si un éditeur ou un distributeur de services de radiodiffusion sonore ou de télévision ne se conforme pas aux mises en demeure qui lui ont été adressées, le Conseil supérieur de l'audiovisuel peut prononcer à son encontre, compte tenu de la gravité du manquement, une des sanctions suivantes :
+Si la personne faisant l'objet de la mise en demeure ne se conforme pas à celle-ci, le Conseil supérieur de l'audiovisuel peut prononcer à son encontre, compte tenu de la gravité du manquement, une des sanctions suivantes :
 
 1° La suspension de l'édition ou de la distribution du ou des services ou d'une partie du programme pour un mois au plus ;
 

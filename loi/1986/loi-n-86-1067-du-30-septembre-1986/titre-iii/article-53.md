@@ -1,6 +1,6 @@
 # Article 53
 
-I. - Des contrats d'objectifs et de moyens sont conclus entre l'Etat et chacune des sociétés France Télévision, Réseau France Outre-mer, Radio France et Radio France Internationale, ainsi que la société ARTE-France et l'Institut national de l'audiovisuel. La durée de ces contrats est comprise entre trois et cinq années civiles.
+I. - Des contrats d'objectifs et de moyens sont conclus entre l'Etat et chacune des sociétés France Télévisions, Radio France et Radio France Internationale, ainsi que la société ARTE-France et l'Institut national de l'audiovisuel. La durée de ces contrats est comprise entre trois et cinq années civiles.
 
 Les contrats d'objectifs et de moyens déterminent notamment, dans le respect des missions de service public telles que définies à l'article 43-11, pour chaque société ou établissement public :
 
@@ -14,23 +14,23 @@ Les contrats d'objectifs et de moyens déterminent notamment, dans le respect de
 
 - les perspectives économiques pour les services qui donnent lieu au paiement d'un prix.
 
-Le contrat d'objectifs et de moyens de la société France Télévision détermine les mêmes données pour chacune des sociétés France 2, France 3 et La Cinquième et des filiales mentionnées au dernier alinéa du I de l'article 44.
+Le contrat d'objectifs et de moyens de la société France Télévisions détermine les mêmes données pour chacune des sociétés France 2, France 3, France 5 et Réseau France outre-mer et des filiales mentionnées au dernier alinéa du I de l'article 44.
 
-II. - Le conseil d'administration de la société France Télévision approuve le projet de contrat d'objectifs et de moyens de cette société et délibère sur l'exécution annuelle de celui-ci.
+II. - Le conseil d'administration de la société France Télévisions approuve le projet de contrat d'objectifs et de moyens de cette société et délibère sur l'exécution annuelle de celui-ci.
 
-Les conseils d'administration des sociétés France 2, France 3 et La Cinquième et de chacune des filiales mentionnées au dernier alinéa du I de l'article 44 sont consultés, chacun en ce qui le concerne, sur le projet de contrat d'objectifs et de moyens mentionné à l'alinéa précédent, ainsi que sur l'exécution annuelle de celui-ci.
+Les conseils d'administration des sociétés France 2, France 3, France 5 et Réseau France outre-mer et de chacune des filiales mentionnées au dernier alinéa du I de l'article 44 sont consultés, chacun en ce qui le concerne, sur le projet de contrat d'objectifs et de moyens mentionné à l'alinéa précédent, ainsi que sur l'exécution annuelle de celui-ci.
 
-Le président de la société France Télévision présente chaque année devant les commissions chargées des affaires culturelles de l'Assemblée nationale et du Sénat un rapport sur l'exécution du contrat d'objectifs et de moyens de la société.
+Le président de la société France Télévisions présente chaque anné devant les commissions chargées des affaires culturelles de l'Assemblée nationale et du Sénat un rapport sur l'exécution du contrat d'objectifs et de moyens de la société.
 
-Les conseils d'administration de l'Institut national de l'audiovisuel et des sociétés Radio France, Réseau France Outre-mer et Radio France Internationale, ainsi que l'organe compétent de la société ARTE-France, approuvent leurs contrats d'objectifs et de moyens respectifs et délibèrent sur leur exécution annuelle.
+Les conseils d'administration de l'Institut national de l'audiovisuel et des sociétés Radio France et Radio France Internationale, ainsi que l'organe compétent de la société ARTE-France, approuvent leurs contrats d'objectifs et de moyens respectifs et délibèrent sur leur exécution annuelle.
 
-III. - Chaque année, à l'occasion du vote de la loi de finances, le Parlement, sur le rapport d'un membre de chacune des commissions des finances de l'Assemblée nationale et du Sénat ayant les pouvoirs de rapporteur spécial, approuve la répartition des ressources publiques affectées au compte d'emploi de la redevance entre les sociétés France Télévision, Radio France, Radio France Internationale, Réseau France Outre-mer, la société ARTE-France et l'Institut national de l'audiovisuel.
+III. - Chaque année, à l'occasion du vote de la loi de finances, le Parlement, sur le rapport d'un membre de chacune des commissions des finances de l'Assemblée nationale et du Sénat ayant les pouvoirs de rapporteur spécial, approuve la répartition des ressources publiques affectées au compte d'emploi de la redevance entre les sociétés France Télévisions, Radio France, Radio France Internationale, la société ARTE-France et l'Institut national de l'audiovisuel.
 
-Un rapport du Gouvernement sur la situation et la gestion des organismes du secteur public est annexé au projet de loi de finances. Ce rapport présente un bilan détaillé de l'exécution de chacun des contrats d'objectifs et de moyens de ces organismes. Il fournit pour les sociétés France 2, France 3 et La Cinquième des prévisions de recettes et de dépenses en précisant notamment le produit attendu des recettes propres de ces sociétés.
+Un rapport du Gouvernement sur la situation et la gestion des organismes du secteur public est annexé au projet de loi de finances. Ce rapport présente un bilan détaillé de l'exécution de chacun des contrats d'objectifs et de moyens de ces organismes. Il fournit pour les sociétés France 2, France 3, France 5 et Réseau France outre-mer, des prévisions de recettes et de dépenses en précisant notamment le produit attendu des recettes propres de ces sociétés.
 
-IV. - Le montant des ressources publiques allouées à la société France Télévision est versé à cette société qui l'affecte intégralement, dans les conditions définies par le contrat d'objectifs et de moyens, aux sociétés France 2, France 3 et La Cinquième ainsi qu'aux filiales mentionnées au dernier alinéa du I de l'article 44.
+IV. - Le montant des ressources publiques allouées à la société France Télévisions est versé à cette société qui l'affecte intégralement, dans les conditions définies par le contrat d'objectifs et de moyens, aux sociétés France 2, France 3 et France 5 et Réseau France outre-mer ainsi qu'aux filiales mentionnées au dernier alinéa du I de l'article 44.
 
-A cette fin, le conseil d'administration de la société France Télévision approuve un état prévisionnel des recettes et des dépenses de cette société et de ses filiales pour chaque exercice. Il approuve également, après consultation des conseils d'administration des sociétés concernées, les modifications apportées, le cas échéant, en cours d'exercice, à la répartition du montant des ressources publiques allouées par la loi de finances à la société France Télévision.
+A cette fin, le conseil d'administration de la société France Télévisions approuve un état prévisionnel des recettes et des dépense de cette société et de ses filiales pour chaque exercice. Il approuve également, après consultation des conseils d'administration des sociétés concernées, les modifications apportées, le cas échéant, en cours d'exercice, à la répartition du montant des ressources publiques allouées par la loi de finances à la société France Télévisions.
 
 V. - Les exonérations de redevance audiovisuelle décidées pour des motifs sociaux donnent lieu à remboursement intégral du budget général de l'Etat [Dispositions déclarées non conformes à la Constitution par décision du Conseil constitutionnel n° 2000-433 DC du 27 juillet 2000].
 
@@ -38,6 +38,6 @@ Ce remboursement est calculé sur le fondement des exonérations en vigueur à l
 
 VI. - Pour chacune des sociétés France 2 et France 3, le temps consacré à la diffusion de messages publicitaires ne peut être supérieur à huit minutes par période de soixante minutes.
 
-Pour ces mêmes sociétés, le conseil d'administration de la société France Télévision détermine les limitations de durée applicables aux messages destinés à promouvoir les programmes.
+Pour ces mêmes sociétés, le conseil d'administration de la société France Télévisions détermine les limitations de durée applicables aux messages destinés à promouvoir les programmes.
 
 VII. - A l'issue du premier exercice au cours duquel les règles mentionnées au VI sont appliquées, le Gouvernement présentera au Parlement un rapport évaluant leur incidence sur l'évolution du marché publicitaire.

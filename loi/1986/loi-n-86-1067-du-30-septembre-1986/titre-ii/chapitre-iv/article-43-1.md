@@ -1,3 +1,11 @@
 # Article 43-1
 
-Toute personne dont l'activité est d'offrir un service de connexion à un ou plusieurs services de communication audiovisuelle mentionnés au 1° de l'article 43 est tenue de proposer à ses clients un moyen technique leur permettant de restreindre l'accès à certains services ou de les sélectionner.
+Tout éditeur d'un service de communication audiovisuelle tient en permanence à la disposition du public :
+
+1° Sa dénomination ou sa raison sociale, son siège social, le nom de son représentant légal et de ses trois principaux associés ;
+
+2° Le nom du directeur de la publication et celui du responsable de la rédaction ;
+
+3° La liste des publications éditées par la personne morale et la liste des autres services de communication audiovisuelle qu'elle assure ;
+
+4° Le tarif applicable lorsque le service donne lieu à rémunération.

@@ -24,7 +24,7 @@ h) La pose dans les parties communes de canalisations, de gaines, et la réalisa
 
 i) La suppression des vide-ordures pour des impératifs d'hygiène ;
 
-j) L'installation ou la modification d'une antenne collective ou d'un réseau interne à l'immeuble raccordé à un réseau câblé, établi ou autorisé en application de l'article 34 de la loi n° 86-1067 du 30 septembre 1986 relative à la liberté de communication;
+j) L'installation ou la modification d'une antenne collective ou d'un réseau interne à l'immeuble dès lors qu'elle porte sur des parties communes ;
 
 k) L'autorisation permanente accordée à la police ou à la gendarmerie nationale de pénétrer dans les parties communes;
 

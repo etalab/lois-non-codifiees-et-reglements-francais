@@ -1,0 +1,3 @@
+# Article 105-1
+
+Le Conseil supérieur de l'audiovisuel procède, dans les trois mois suivant la date de publication de la loi n° 2004-669 du 9 juillet 2004 relative aux communications électroniques et aux services de communication audiovisuelle, à une consultation contradictoire relative, d'une part, à l'aménagement du spectre hertzien et à l'élaboration d'un nouveau plan de fréquences en vue d'un développement optimal de la diffusion radiophonique au plan national et, d'autre part, à l'optimisation de la diffusion et de la couverture des services associatifs, locaux, régionaux et thématiques indépendants. Il rend publiques les conclusions de cette consultation.

@@ -1,0 +1,3 @@
+# Article 34-1-1
+
+Les éditeurs de services diffusés par voie hertzienne terrestre en application des articles 26 et 30 ne peuvent s'opposer à la reprise de ces services, lorsqu'ils sont normalement reçus dans la zone par voie hertzienne terrestre, sur un réseau autorisé en application de l'article 34 dans sa rédaction antérieure à l'entrée en vigueur de la loi n° 2004-669 du 9 juillet 2004 relative aux communications électroniques et aux services de communication audiovisuelle, pendant une période de cinq ans à compter de la promulgation de ladite loi ; au minimum une année avant cette échéance, le Gouvernement présentera au Parlement un rapport sur l'opportunité de maintenir tout ou partie de ces obligations spécifiques, au vu des évolutions techniques et économiques.

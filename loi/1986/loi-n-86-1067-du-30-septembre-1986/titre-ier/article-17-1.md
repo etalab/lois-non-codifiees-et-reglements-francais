@@ -1,0 +1,11 @@
+# Article 17-1
+
+Le Conseil supérieur de l'audiovisuel peut être saisi par un éditeur ou par un distributeur de services, par une des personnes mentionnées à l'article 95 ou par un prestataire auquel ces personnes recourent, de tout différend relatif à la distribution d'un service de radio ou de télévision, y compris aux conditions techniques et financières de mise à disposition du public de ce service, lorsque ce différend est susceptible de porter atteinte au caractère pluraliste de l'expression des courants de pensée et d'opinion, à la sauvegarde de l'ordre public, aux exigences de service public, à la protection du jeune public, à la dignité de la personne humaine et à la qualité et à la diversité des programmes, ou lorsque ce différend porte sur le caractère objectif, équitable et non discriminatoire des conditions de la mise à disposition du public de l'offre de programmes ou des relations contractuelles entre un éditeur et un distributeur de services.
+
+Le conseil se prononce dans un délai de deux mois, qu'il peut porter à quatre mois s'il l'estime utile, après avoir mis les parties à même de présenter leurs observations. Dans le respect des secrets protégés par la loi, il peut également inviter les tiers intéressés à présenter des observations utiles au règlement du différend.
+
+La décision du conseil précise les conditions permettant d'assurer le respect des obligations et des principes mentionnés au premier alinéa. Le cas échéant, le conseil modifie en conséquence les autorisations délivrées.
+
+Lorsque les faits à l'origine du différend sont susceptibles de restreindre l'offre de services de communications électroniques, le conseil recueille l'avis de l'Autorité de régulation des communications électroniques et des postes, qui se prononce dans un délai d'un mois. Lorsque ces faits sont susceptibles de constituer une infraction aux dispositions du titre II du livre IV du code de commerce, il saisit le Conseil de la concurrence. Dans ce cas, le délai prévu au deuxième alinéa est suspendu jusqu'à ce que le Conseil de la concurrence se soit prononcé sur sa compétence.
+
+Un décret en Conseil d'Etat fixe les modalités d'application du présent article.
