@@ -7,4 +7,5 @@
 - [Section 5 : Dispositions statutaires relatives aux corps des adjoints techniques de la recherche](section-5)
 - [Section 6 : Dispositions statutaires relatives aux corps des agents techniques de la recherche](section-6)
 - [Section 6 bis : Dispositions statutaires relatives au corps des agents des services techniques de la recherche.](section-6-bis)
+- [Article 60](article-60.md)
 - [Article 61](article-61.md)
