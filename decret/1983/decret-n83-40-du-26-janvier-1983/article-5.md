@@ -8,11 +8,11 @@ a) Personnel sédentaire de surveillance et de gardiennage : neuf heures ;
 
 b) Personnel des services d'incendie : six heures ;
 
-c) Personnel roulant effectuant des transports de marchandises, affecté à des services impliquant habituellement un retour quotidien à l'établissement d'attache : trois heures.
+c) Personnel roulant effectuant des transports de marchandises, affecté à des services impliquant habituellement un retour quotidien à l'établissement d'attache : deux heures.
 
-Paragraphe 3. Par dérogation au paragraphe 1 ci-dessus, et à titre transitoire, les périodes de simple présence, d'attente ou de disponibilité, passées au lieu de travail ou sur le véhicule, à l'exception des temps visés au paragraphe 5, et pendant lesquelles le personnel ne dispose pas librement de son temps mais reste à la disposition de l'employeur, sont dénommées "Temps à disposition" et ne sont comptées comme travail effectif que pour une fraction égale à deux tiers.
+Paragraphe 3. Par dérogation au paragraphe 1 ci-dessus, et à titre transitoire, les périodes de simple présence, d'attente ou de disponibilité, passées au lieu de travail ou sur le véhicule, à l'exception des temps visés au paragraphe 5 et pendant lesquelles le personnel ne dispose pas librement de son temps mais reste à la disposition de l'employeur sont dénommées Temps à disposition et ne sont comptées comme travail effectif que pour une fraction égale à 85 p. 100.
 
-La durée du travail effectif résultant de l'application des dispositions de l'alinéa ci-dessus et du paragraphe 1 du présent article ne peut, sur la période retenue pour établir la paie, être inférieure à 92 p. 100 de la totalité du temps passé au service de l'employeur.
+La durée du travail effectif résultant de l'application des dispositions de l'alinéa ci-dessus et du paragraphe 1 du présent article ne peut, sur la période retenue pour établir la paie, être inférieure à 96 p. 100 de la totalité du temps au service de l'employeur.
 
 Les dispositions du présent paragraphe 3 s'appliquent :
 
@@ -20,15 +20,15 @@ a) Au personnel roulant effectuant des transports de marchandises affecté à de
 
 b) Au personnel roulant effectuant des transports de voyageurs.
 
-Paragraphe 4. Pour le personnel visé au paragraphe 3 a ci-dessus et sans préjudice des dispositions de l'article L. 212-7 du code du travail, le temps passé au service de l'employeur, avant application éventuelle du coefficient de deux tiers visé au paragraphe 3 ci-dessus, ne peut excéder :
+Paragraphe 4. Pour le personnel visé au paragraphe 3, a, ci-dessus et sans préjudice des dispositions de l'article L. 212-7 du code du travail, le temps passé au service de l'employeur, avant application éventuelle du coefficient de 85 p. 100 visé au paragraphe 3 ci-dessus, ne peut excéder :
 
-Sur une journée : douze heures, avec possibilité d'extension à treize heures lorsque la durée quotidienne du travail effectif excède dix heures, en application de l'article 7, paragraphes 2 et 3 ci-après ;
+- sur une journée : onze heures, avec possibilité d'extension à douze heures trente, lorsque la durée quotidienne du travail effectif excède dix heures, en application de l'article 7, paragraphes 2 et 3, ci-après :
 
-Sur une semaine isolée : cinquante-cinq heures ;
+- sur une semaine isolée : cinquante-deux heures ;
 
-Sur une période de deux semaines : cinquante-deux heures par semaine en moyenne ;
+- sur une période de deux semaines : cinquante heures par semaine en moyenne ;
 
-Sur une période de douze semaines : cinquante heures par semaine en moyenne.
+- sur une période de douze semaines : quarante-huit heures par semaine en moyenne.
 
 Paragraphe 5. Lorsque l'équipage comprend deux conducteurs à bord, le temps non consacré à la conduite pendant la marche du véhicule est compté comme travail effectif pour une fraction égale à la moitié.
 
