@@ -1,5 +1,3 @@
 # Article 1
 
-La majoration forfaitaire prévue au 2° de l'article 4 de l'arrêté du 1er octobre 1976 susvisé correspondant à la couverture des accidents du trajet est fixée à 0,57 F pour 100 F de salaire.
-
-Dans les départements d'outre-mer, cette majoration est également fixée à 0,57 F pour 100 F de salaire.
+L'arrêté du 1er octobre 1976 relatif à la tarification des risques d'accidents du travail et de maladies professionnelles est applicable au risque professionnel des sportifs professionnels, compte tenu des dispositions particulières visées à l'article 2 ci-dessous.

@@ -1,5 +1,3 @@
 # Article 2
 
-Le montant de l'indemnité prévue au premier alinéa de l'article 2 du décret susvisé est fixé à 260 F par séance.
-
-Le montant de l'indemnité versée au membre qui supplée effectivement le président absent ou empêché est fixé à 390 F par séance.
+Le directeur de la sécurité sociale et le directeur des hôpitaux au ministère des affaires sociales et de la solidarité nationale, le directeur du budget au ministère de l'économie, des finances et du budget et le directeur des affaires sociales au ministère de l'agriculture sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

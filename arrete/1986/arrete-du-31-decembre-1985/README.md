@@ -1,15 +1,11 @@
-# Arrêté du 31 décembre 1985 portant application des dispositions du décret n° 85-1497 du 31 décembre 1985 relatif aux indemnités susceptibles d'être allouées au président, aux membres et aux rapporteurs de la commission de la sécurité des consommateurs
+# Arrêté du 31 décembre 1985 portant fixation du forfait journalier institué par l'article 4 de la loi n° 83-25 du 19 janvier 1983 portant diverses mesures relatives à la sécurité sociale.
 
 - [Article 1](article-1.md)
 - [Titre Ier : Généralités.](titre-ier)
 - [Article 2](article-2.md)
 - [Titre II : Approbation des modèles.](titre-ii)
-- [Article 3](article-3.md)
 - [Titre III : Vérification primitive et périodique.](titre-iii)
-- [Article 4](article-4.md)
 - [Titre IV : Agrément des laboratoires.](titre-iv)
-- [Article 5](article-5.md)
 - [Titre V : Dispositions diverses.](titre-v)
-- [Article 6](article-6.md)
 - [Article 17](article-17.md)
 - [Annexes](annexes)

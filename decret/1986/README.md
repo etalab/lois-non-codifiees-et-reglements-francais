@@ -34,5 +34,8 @@
 - [Décret n°85-1492 du 31 décembre 1985](decret-n85-1492-du-31-decembre-1985)
 - [Décret n°85-1497 du 31 décembre 1985](decret-n85-1497-du-31-decembre-1985)
 - [Décret n°85-1499 du 31 décembre 1985](decret-n85-1499-du-31-decembre-1985)
+- [Décret n°85-1507 du 31 décembre 1985](decret-n85-1507-du-31-decembre-1985)
+- [Décret n°85-1508 du 31 décembre 1985](decret-n85-1508-du-31-decembre-1985)
+- [Décret n°85-1509 du 31 décembre 1985](decret-n85-1509-du-31-decembre-1985)
 - [Décret n°85-1530 du 31 décembre 1985](decret-n85-1530-du-31-decembre-1985)
 - [Décret n°85-1531 du 31 décembre 1985](decret-n85-1531-du-31-decembre-1985)

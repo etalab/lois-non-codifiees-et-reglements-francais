@@ -1,0 +1,3 @@
+# Article 15
+
+En cas de condamnation pour infraction aux dispositions du 13° de l'article 6, le tribunal fixe, s'il y a lieu, les mesures à prendre pour faire cesser l'infraction ou en éviter la récidive et le délai dans lequel ces mesures devront être exécutées ainsi qu'une astreinte à 100 F à 2.000 F par jour de retard dans l'exécution des mesures ou obligations imposées. L'astreinte cesse de courir le jour où ces dernières sont complètement exécutées. Elle est alors liquidée par le tribunal à la demande de l'intéressé et recouvrée par le comptable du Trésor comme une amende pénale. Elle ne donne pas lieu à contrainte par corps. Le présent article ne s'applique qu'aux rejets, déversements ou écoulements provenant de dépôts ou d'installations fixes.

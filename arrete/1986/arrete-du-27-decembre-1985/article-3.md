@@ -1,3 +1,3 @@
 # Article 3
 
-Le directeur de la sécurité sociale est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française et prendra effet au 1er janvier 1986.
+L'arrêté du 28 décembre 1984 relatif à la tarification des risques d'accidents du travail et maladies professionnelles des sportifs professionnels est abrogé.
