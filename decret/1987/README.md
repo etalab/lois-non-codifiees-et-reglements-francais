@@ -349,6 +349,7 @@
 - [Décret n°87-881 du 26 octobre 1987 (AGRS8701846D)](decret-n87-881-du-26-octobre-1987-agrs8701846d)
 - [Décret n°87-947 du 26 novembre 1987 (BUDB8720019D)](decret-n87-947-du-26-novembre-1987-budb8720019d)
 - [Décret n°87-948 du 26 novembre 1987 (BUDB8720020D)](decret-n87-948-du-26-novembre-1987-budb8720020d)
+- [Décret n°87-955 du 26 novembre 1987 (JUSB8710435D)](decret-n87-955-du-26-novembre-1987-jusb8710435d)
 - [Décret n°87-350 du 26 mai 1987 (ENVN8700111D)](decret-n87-350-du-26-mai-1987-envn8700111d)
 - [Décret n°87-352 du 26 mai 1987 (ASET8703364D)](decret-n87-352-du-26-mai-1987-aset8703364d)
 - [Décret n°87-353 du 26 mai 1987 (AGRG8700945D)](decret-n87-353-du-26-mai-1987-agrg8700945d)

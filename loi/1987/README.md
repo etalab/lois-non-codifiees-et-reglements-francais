@@ -26,6 +26,7 @@
 - [Loi n° 87-572 du 23 juillet 1987 (ASEX8700088L)](loi-n-87-572-du-23-juillet-1987-asex8700088l)
 - [Loi n° 87-575 du 24 juillet 1987 (STFX8700075L)](loi-n-87-575-du-24-juillet-1987-stfx8700075l)
 - [Loi n° 87-588 du 30 juillet 1987 (ASEX8700089L)](loi-n-87-588-du-30-juillet-1987-asex8700089l)
+- [Loi n° 87-954 du 27 novembre 1987 (MERX8700127L)](loi-n-87-954-du-27-novembre-1987-merx8700127l)
 - [Loi n°87-10 du 3 janvier 1987](loi-n87-10-du-3-janvier-1987)
 - [Loi n°87-342 du 22 mai 1987 (DEFX8700026L)](loi-n87-342-du-22-mai-1987-defx8700026l)
 - [Loi n°87-369 du 5 juin 1987 (DOMX8700059L)](loi-n87-369-du-5-juin-1987-domx8700059l)
