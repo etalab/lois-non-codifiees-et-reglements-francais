@@ -1,3 +1,11 @@
 # Article 9
 
-Si les produits définis au présent décret sont conditionnés en récipients dont le contenu est d'un poids égal ou supérieur à 5 kilogrammes et ne sont pas commercialisés au détail, les indications visées aux c et e de l'article 8 peuvent ne figurer que sur les documents d'accompagnement.
+Nonobstant les dispositions du 2 de l'article 6 du décret du 7 décembre 1984 susvisé, l'étiquetage des extraits de café ou de chicorée non destinés à être livrés au consommateur final peut ne comporter que les mentions suivantes apposées sur l'emballage ou sur une étiquette liée à celui-ci ou sur un document d'accompagnement :
+
+1. La dénomination de vente telle que définie aux articles 3 et 5 du présent décret ;
+
+2. La quantité nette ;
+
+3. L'indication du lot de fabrication ;
+
+4. Le nom ou la raison sociale et l'adresse du fabricant ou du conditionneur, ou d'un vendeur établi sur le territoire de l'un des Etats membres des communautés européennes.
