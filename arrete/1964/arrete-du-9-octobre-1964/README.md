@@ -4,7 +4,6 @@
 - [I : Direction des services judiciaires.](i)
 - [Article 2](article-2.md)
 - [II : Direction des affaires civiles et du sceau.](ii)
-- [III : Direction des affaires criminelles et des grâces.](iii)
 - [IV : Direction de l'administration pénitentiaire.](iv)
 - [V : Direction de l'administration générale et de l'équipement.](v)
 - [Article 46](article-46.md)
