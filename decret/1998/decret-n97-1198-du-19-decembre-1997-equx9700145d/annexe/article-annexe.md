@@ -320,6 +320,18 @@ Attribution et délivrance des titres et diplômes de l'Ecole nationale des pont
 
 Titre Ier, article 3.
 
+Code de la voirie routière
+
+1
+
+Autorisation d'emploi à titre expérimental, attestation d'équivalence et homologation des équipements routiers. Suspension et annulation de cette autorisation, attestation ou homologation. Articles R. 119-5 (II et III), R. 119-10, R. 119-11.
+
+2
+
+Agrément des organismes habilités à attester et à vérifier la conformité des équipements routiers. Suspension et annulation de cet agrément.
+
+Articles R. 119-5 IV, R. 119-11.
+
 Mesures prises par le ministre chargé du logement
 
 Code de la construction et de l'habitation
@@ -372,13 +384,9 @@ SAHLM et SA coopératives HLM : article R. 422-17.
 
 Agrément des sociétés anonymes de crédit immobilier, des sociétés anonymes d'habitations à loyer modéré et des sociétés coopératives d'habitations à loyer modéré.
 
-SA et coopératives HLM :
+SA et coopératives HLM : article R. 422-16.
 
-article R. 422-16.
-
-SACI :
-
-article R. 422-15, 1er alinéa.
+SACI : article R. 422-15, 1er alinéa.
 
 7
 
@@ -630,9 +638,7 @@ Article R. 122-8 c.
 
 Autorisation ministérielle pour dérogation au cahier des charges types en matière d'outillage privé avec obligation de service public dans les ports d'intérêt national.
 
-Article R. 122-12,
-
-2e alinéa.
+Article R. 122-12, 2e alinéa.
 
 Mesures prises par le ministre chargé du tourisme
 
@@ -666,9 +672,7 @@ Article L. 131-1.
 
 Amendes administratives à l'encontre du responsable du vol, propriétaire, exploitant ou exploitant commercial de l'aéronef.
 
-Articles R. 226-1,
-
-R. 226-3 et R. 226-4.
+Articles R. 226-1, R. 226-3 et R. 226-4.
 
 3
 
