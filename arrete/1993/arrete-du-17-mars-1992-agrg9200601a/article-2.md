@@ -12,6 +12,10 @@ d) Conditionnement : opération réalisant la protection des viandes par l'emplo
 
 e) Emballage : mise des viandes dans un deuxième contenant et par extension ce deuxième contenant ;
 
-f) Atelier de découpe : tout établissement où sont préparées, manipulées, conditionnées, reconditionnées, emballées, réemballées des viandes fraîches à découper ou à désosser ;
+f) Atelier de découpe : tout établissement où des viandes fraîches de boucherie sont manipulées pour être découpées, désossées, conditionnées ou reconditionnées, et emballées ;
 
-g) Moyen de transport : parties réservées au chargement dans les véhicules automobiles, les véhicules circulant sur rails, les aéronefs, ainsi que les cales des bateaux ou les conteneurs pour le transport par terre, mer ou air.
+g) Moyen de transport : parties réservées au chargement dans les véhicules automobiles, les véhicules circulant sur rails, les aéronefs, ainsi que les cales des bateaux ou les conteneurs pour le transport par terre, mer ou air ;
+
+h) Centre d'emballage : un atelier ou un entrepôt où il est procédé au regroupement ou au réemballage de viandes conditionnées destinées à la mise sur le marché ;
+
+i) Eurobox : tout conteneur utilisé pour le transport des viandes, résistant à la corrosion, facile à nettoyer et à désinfecter.

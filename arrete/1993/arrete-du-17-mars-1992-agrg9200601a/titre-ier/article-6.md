@@ -2,17 +2,19 @@
 
 Les établissements doivent en outre disposer, au moins :
 
-1° a) Le plus près possible des postes de travail de dispositifs pour le nettoyage et la désinfection des mains et le nettoyage du matériel à l'eau chaude, en nombre suffisant, et pourvus :
+1° a) Un nombre suffisant de dispositifs pour le nettoyage et la désinfection des mains et le nettoyage à l'eau chaude du petit matériel, placés le plus près possible des postes de travail, et pourvus :
 
 - d'eau courante chaude et froide ou d'eau prémélangée d'une température appropriée ;
 
-- de robinets à commandes non manuelles ;
-
 - de produits de nettoyage et de désinfection ;
 
-- de moyens hygiéniques de séchage des mains ;
+- de moyens hygiéniques de séchage des mains, à l'exclusion de systèmes à air chaud ;
+
+- de robinets ne pouvant être actionnés ni à la main, ni au bras.
 
 b) De dispositifs pour la désinfection des outils, pourvus d'une eau à une température minimale de + 82° C ; ces équipements doivent comporter un système d'écoulement raccordé à la canalisation des eaux usées ;
+
+Toutefois, d'autres dispositifs reconnus comme équivalents peuvent être autorisés par le ministre de l'agriculture et de la pêche.
 
 2° Un dispositif de protection efficace contre les animaux indésirables tels qu'insectes, rongeurs, etc. ;
 
@@ -24,11 +26,11 @@ b) Des outils et équipements répondant aux exigences de l'hygiène pour :
 
 - le dépôt des récipients utilisés pour la viande, de façon à éviter que la viande ou les récipients n'entrent en contact direct avec le sol ou les murs ;
 
-c) Des équipements pour la manutention hygiénique et la protection des viandes au cours des opérations de chargement et de déchargement, ainsi que des aires de réception et de triage ;
+c) Des équipements pour la manutention hygiénique et la protection des viandes au cours des opérations de chargement et de déchargement, ainsi que des aires de réception et de triage convenablement conçues et équipées ;
 
 4° Des équipements pour l'entreposage hygiénique des matériaux de conditionnement et d'emballage lorsque ces activités sont effectuées dans l'établissement ;
 
-5° Des équipements de réfrigération permettant de maintenir dans les viandes les températures internes exigées par le présent arrêté. Ces équipements doivent comporter un système d'écoulement raccordé à la canalisation des eaux usées permettant l'évacuation de l'eau de condensation d'une manière qui ne présente aucun danger de contamination des viandes ;
+5° Des équipements de réfrigération permettant de maintenir dans les viandes les températures internes exigées par le présent arrêté, et de vérifier le respect de cette exigence à l'aide d'un système d'enregistrement permanent des températures. Ces équipements doivent comporter un système d'écoulement raccordé à la canalisation des eaux usées permettant l'évacuation de l'eau de condensation d'une manière qui ne présente aucun danger de contamination des viandes ;
 
 6° Une installation assurant l'approvisionnement en eau exclusivement potable, sous pression et en quantité suffisante. Des postes d'eau potable sous pression doivent être installés aux emplacements appropriés en vue du nettoyage des locaux. Toutefois, à titre exceptionnel, une installation fournissant de l'eau non potable est autorisée pour la production de vapeur, la lutte contre les incendies et le refroidissement des machines frigorifiques, sous réserve que les conduits installés à cet effet :
 
