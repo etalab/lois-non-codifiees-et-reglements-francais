@@ -1,0 +1,3 @@
+# Article 1
+
+Sans préjudice des droits éventuels à l'indemnisation des tiers, est validé le contrat de concession conclu le 29 avril 1995, en application de la loi n° 93-1435 du 31 décembre 1993 relative à la réalisation d'un grand stade à Saint-Denis (Seine-Saint-Denis) en vue de la Coupe du monde de football de 1998, entre l'Etat et la société Consortium Grand Stade S.A. (nouvellement dénommée Consortium Stade de France) pour le financement, la conception, la construction, l'entretien et l'exploitation du grand stade (dénommé Stade de France) à Saint-Denis (Seine-Saint-Denis), équipement sportif d'intérêt national.

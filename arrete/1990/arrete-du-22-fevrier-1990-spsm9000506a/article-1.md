@@ -8,12 +8,6 @@ a) Ils doivent être de couleur :
 
 - mauve clair pour les chirurgiens-dentistes ;
 
-- rose pour les médecins hospitaliers, à usage exclusif des consultations externes de l'hôpital ;
-
-- blanc pour les médecins autres qu'hospitaliers exerçant la médecine de soins ;
-
-- jaune pour les autres médecins.
-
 b) Ils doivent être conformes aux exigences suivantes :
 
 - dimensions : 21 " 19 cm ; souche : 6 cm ; ordonnance : 13 cm ;
