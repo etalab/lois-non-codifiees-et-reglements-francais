@@ -1,4 +1,4 @@
 # CHAPITRE II : Recrutement
 
-- [Article 15-1](article-15-1.md)
-- [Article 15-2](article-15-2.md)
+- [Article 8](article-8.md)
+- [Article 12](article-12.md)
