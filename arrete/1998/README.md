@@ -294,7 +294,6 @@
 - [Arrêté du 9 mars 1998 (ECOI9800168A)](arrete-du-9-mars-1998-ecoi9800168a)
 - [Arrêté du 9 mars 1998 (ECOL9800059A)](arrete-du-9-mars-1998-ecol9800059a)
 - [Arrêté du 9 mars 1998 (MESP9820905A)](arrete-du-9-mars-1998-mesp9820905a)
-- [Arrêté du 9 mars 1998 (MESS9820903A)](arrete-du-9-mars-1998-mess9820903a)
 - [Arrêté du 9 novembre 1998 (AGRG9801056A)](arrete-du-9-novembre-1998-agrg9801056a)
 - [Arrêté du 9 novembre 1998 (ECOC9800124A)](arrete-du-9-novembre-1998-ecoc9800124a)
 - [Arrêté du 9 novembre 1998 (ECOT9820099A)](arrete-du-9-novembre-1998-ecot9820099a)
@@ -1079,4 +1078,3 @@
 - [Arrêté du 31 juillet 1998 (EQUU9800800A)](arrete-du-31-juillet-1998-equu9800800a)
 - [Arrêté du 31 mars 1998 (ECOD9870007A)](arrete-du-31-mars-1998-ecod9870007a)
 - [Arrêté du 31 mars 1998 (EQUT9800366A)](arrete-du-31-mars-1998-equt9800366a)
-- [Arrêté du 31 mars 1998 (MESS9821235A)](arrete-du-31-mars-1998-mess9821235a)
