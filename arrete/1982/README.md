@@ -24,6 +24,7 @@
 - [Arrêté du 8 janvier 1982](arrete-du-8-janvier-1982)
 - [Arrêté du 9 février 1982](arrete-du-9-fevrier-1982)
 - [Arrêté du 10 décembre 1981](arrete-du-10-decembre-1981)
+- [Arrêté du 10 juin 1982](arrete-du-10-juin-1982)
 - [Arrêté du 10 mai 1982](arrete-du-10-mai-1982)
 - [Arrêté du 11 février 1982](arrete-du-11-fevrier-1982)
 - [Arrêté du 11 janvier 1982](arrete-du-11-janvier-1982)
