@@ -1,10 +1,18 @@
 # Article 4
 
-L'examen pour l'obtention du brevet national de pisteur-secouriste, option Ski nordique deuxième degré, comporte quatre épreuves :
+L'examen pour l'option du brevet national de pisteur-secouriste, option Ski nordique deuxième degré, comporte quatre épreuves :
 
-- trois épreuves théoriques, d'une durée de vingt minutes chacune, portant respectivement sur les techniques de sauvetage spécifiques, l'administration et la réglementation, l'accueil et la gestion ;
+Deux épreuves théoriques, d'une durée de vingt minutes chacune, portant respectivement sur :
 
-- une épreuve pratique sur le terrain, d'une durée de vingt minutes environ, portant sur les techniques de sauvetage spécifiques.
+- l'administration et la réglementation ;
+
+- l'accueil et la gestion.
+
+Deux épreuves pratiques sur le terrain, d'une durée de vingt minutes environ, portant respectivement sur :
+
+- les techniques de sauvetage spécifiques ;
+
+- l'aménagement, l'entretien et la sécurité.
 
 Les épreuves théoriques se déroulent sous forme d'un entretien oral, avec tirage au sort préalable des sujets par les candidats. Ils disposent de dix minutes pour la préparation.
 

@@ -20,8 +20,6 @@ Par denrées périssables on entend les denrées animales ou d'origine animale v
 
 7° De véhicules de commerçants pour la vente de leurs produits dans les foires ou les marchés, à l'intérieur d'une zone constituée par le département d'origine et les départements limitrophes.
 
-8° En trafic international seulement, pour les déplacements de véhicules français ou étrangers, en charge ou à vide, rejoignant respectivement leur établissement, leur centre d'exploitation ou leur pays d'immatriculation.
-
 Pour l'application des dispositions du présent article :
 
 a) Le département d'origine est le département de départ du véhicule (ou d'entrée en France) pour l'opération concernée ;
