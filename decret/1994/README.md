@@ -815,7 +815,6 @@
 - [Décret n°94-1160 du 28 décembre 1994 (AGRS9402412D)](decret-n94-1160-du-28-decembre-1994-agrs9402412d)
 - [Décret n°94-1165 du 28 décembre 1994 (ECOT9440222D)](decret-n94-1165-du-28-decembre-1994-ecot9440222d)
 - [Décret n°94-1166 du 28 décembre 1994 (TEFO9401245D)](decret-n94-1166-du-28-decembre-1994-tefo9401245d)
-- [Décret n°94-1167 du 28 décembre 1994 (TEFO9401247D)](decret-n94-1167-du-28-decembre-1994-tefo9401247d)
 - [Décret n°94-1168 du 28 décembre 1994 (TEFO9401255D)](decret-n94-1168-du-28-decembre-1994-tefo9401255d)
 - [Décret n°94-175 du 28 février 1994 (ECOT9420002D)](decret-n94-175-du-28-fevrier-1994-ecot9420002d)
 - [Décret n°94-178 du 28 février 1994 (AGRM9400407D)](decret-n94-178-du-28-fevrier-1994-agrm9400407d)
