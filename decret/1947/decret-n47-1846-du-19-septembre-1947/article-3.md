@@ -6,7 +6,9 @@ syndical.
 
 Les collectivités employeurs des personnels visés au III de l'article 2 sont assujetties à une contribution supplémentaire dont le taux est fixé par décret. "
 
-II - Les contributions prévues au 2ème alinéa du I ci-dessus ne sont pas exigées en ce qui concerne les agent détachés pour exercer des fonctions publiques électives ou un mandat syndical.    Lorsque ces agents n'ont pas changé de catégorie durant leur position de détachement, ils conservent le bénéfice des avantages spéciaux qui pouvaient leur être accordés.
+Les collectivités employeurs des personnels visés au IV de l'article 2 sont assujetties sur la nouvelle bonification indiciaire à une contribution dont le taux est fixé par décret. "
+
+II - Les contributions prévues au 2ème alinéa du I ci-dessus ne sont pas exigées en ce qui concerne les agent détachés pour exercer des fonctions publiques électives ou un mandat syndical. Lorsque ces agents n'ont pas changé de catégorie durant leur position de détachement, ils conservent le bénéfice des avantages spéciaux qui pouvaient leur être accordés.
 
 III - La contribution due pour les agents détachés à l'exception de ceux visés au II du présent article est celle mentionnée au deuxième alinéa du I dudit article.
 
