@@ -4,12 +4,10 @@ Les professeurs de lycée professionnel forment un corps classé dans la catégo
 
 Ses membres sont nommés par arrêté du ministre chargé de l'éducation.
 
-Ce corps comprend deux grades.
+Le corps des professeurs de lycée professionnel comporte deux classes :
 
-Le 1er grade est divisé en onze échelons, le 2e grade comporte deux classes :
+1. La classe normale, qui comprend onze échelons ;
 
-1. La classe normale divisée en onze échelons ;
+2. La hors-classe, qui comprend sept échelons.
 
-2. La hors-classe divisée en sept échelons.
-
-Le nombre des emplois de professeur de lycée professionnel à la hors-classe du 2e grade ne peut excéder 15 p. 100 de l'effectif budgétaire de la classe normale.
+Le nombre des emplois de professeur de lycée professionnel hors classe ne peut excéder 15 % de l'effectif budgétaire de la classe normale.

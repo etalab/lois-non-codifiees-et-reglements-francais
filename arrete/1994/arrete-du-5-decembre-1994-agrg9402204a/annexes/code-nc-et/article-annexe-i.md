@@ -14,7 +14,7 @@
 
 0207 : Viandes et abats comestibles, frais, réfrigérés ou congelés, des volailles du n° 0105 (coqs et poules, canards, oies, dindons, dindes et pintades).
 
-ex 0208 : Autres viandes et abats comestibles, frais, réfrigérés ou congelés.
+ex 0208 : Autres viandes et abats comestibles de pigeons domestiques, de lapins domestiques et de gibier, frais, réfrigérés ou congelés.
 
 0209.00 : Lard sans parties maigres, graisse de porcs et graisse de volailles non fondues, frais, réfrigérés, congelés, salés ou en saumure, séchés ou fumés.
 

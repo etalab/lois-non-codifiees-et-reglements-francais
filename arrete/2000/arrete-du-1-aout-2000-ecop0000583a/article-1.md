@@ -1,0 +1,5 @@
+# Article 1
+
+Les directions de contrôle fiscal assurent, dans la limite de leur ressort territorial et concurremment avec les autres services déconcentrés et services à compétence nationale de la direction générale des impôts, toutes opérations relatives à l'assiette et au contrôle de tous impôts, droits, prélèvements et taxes, à l'égard des personnes physiques ou morales, groupements de droit ou de fait, ou entités qui ont déposé ou auraient dû déposer, auprès des services déconcentrés des impôts de leur ressort territorial, une déclaration, un acte ou tout autre document, ainsi qu'à l'égard des personnes, groupements ou entités qui, même en l'absence d'obligation déclarative, ont été ou auraient dû être imposés par ces mêmes services ou dont la résidence principale, le siège ou le principal établissement est situé dans le ressort desdits services.
+
+Elles effectuent le contrôle des systèmes de télétransmission des factures dans les conditions prévues aux articles 289 bis du code général des impôts et 96 I de l'annexe III au même code.

@@ -1,0 +1,3 @@
+# Article 5
+
+Les professeurs de lycée professionnel dont le service hebdomadaire d'enseignement était précédemment fixé à vingt-trois heures peuvent être, dans l'intérêt du service, tenus d'effectuer en sus de leur service, tel que défini au premier alinéa de l'article 30 du décret du 6 novembre 1992 susvisé dans sa rédaction issue du présent décret, trois heures supplémentaires hebdomadaires. Cette obligation sera ramenée à deux heures supplémentaires hebdomadaires au 1er septembre 2002 et, au 1er septembre 2004, à l'heure supplémentaire hebdomadaire prévue au quatrième alinéa de l'article 30 susmentionné.
