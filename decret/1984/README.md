@@ -140,6 +140,7 @@
 - [Décret n°84-670 du 17 juillet 1984](decret-n84-670-du-17-juillet-1984)
 - [Décret n°84-678 du 17 juillet 1984](decret-n84-678-du-17-juillet-1984)
 - [Décret n°84-683 du 17 juillet 1984](decret-n84-683-du-17-juillet-1984)
+- [Décret n°84-689 du 17 juillet 1984](decret-n84-689-du-17-juillet-1984)
 - [Décret n°84-695 du 17 juillet 1984](decret-n84-695-du-17-juillet-1984)
 - [Décret n°84-705 du 17 juillet 1984](decret-n84-705-du-17-juillet-1984)
 - [Décret n°84-706 du 17 juillet 1984](decret-n84-706-du-17-juillet-1984)

@@ -105,6 +105,7 @@
 - [Arrêté du 27 décembre 1983](arrete-du-27-decembre-1983)
 - [Arrêté du 27 février 1984](arrete-du-27-fevrier-1984)
 - [Arrêté du 27 janvier 1984](arrete-du-27-janvier-1984)
+- [Arrêté du 27 juillet 1984](arrete-du-27-juillet-1984)
 - [Arrêté du 27 juin 1984](arrete-du-27-juin-1984)
 - [Arrêté du 27 mars 1984](arrete-du-27-mars-1984)
 - [Arrêté du 27 septembre 1983](arrete-du-27-septembre-1983)
