@@ -635,6 +635,7 @@
 - [Décret n°92-728 du 28 juillet 1992 (ACVA9110093D)](decret-n92-728-du-28-juillet-1992-acva9110093d)
 - [Décret n°92-729 du 28 juillet 1992 (ACVA9110094D)](decret-n92-729-du-28-juillet-1992-acva9110094d)
 - [Décret n°92-742 du 28 juillet 1992 (MENT9202042D)](decret-n92-742-du-28-juillet-1992-ment9202042d)
+- [Décret n°92-743 du 28 juillet 1992 (BUDP9200173D)](decret-n92-743-du-28-juillet-1992-budp9200173d)
 - [Décret n°92-842 du 28 août 1992 (INTB9200356D)](decret-n92-842-du-28-aout-1992-intb9200356d)
 - [Décret n°92-844 du 28 août 1992 (INTB9200358D)](decret-n92-844-du-28-aout-1992-intb9200358d)
 - [Décret n°87-872 du 29 octobre 1987 (INTX8798554D)](decret-n87-872-du-29-octobre-1987-intx8798554d)
