@@ -23,4 +23,5 @@
 - [Décret n°72-310 du 21 avril 1972](decret-n72-310-du-21-avril-1972)
 - [Décret n°71-248 du 25 mars 1971](decret-n71-248-du-25-mars-1971)
 - [Décret n°71-318 du 26 juillet 1971](decret-n71-318-du-26-juillet-1971)
+- [Décret n°71-323 du 28 avril 1971](decret-n71-323-du-28-avril-1971)
 - [Décret n°70-1329 du 31 décembre 1970](decret-n70-1329-du-31-decembre-1970)
