@@ -14,25 +14,23 @@ Elle prend les initiatives appropriées pour développer l'accès de toutes les 
 
 I : Missions propres de La Poste.
 
-1 : Le service du courrier.
+1 : Le service des envois postaux.
 
-Art. 1
+Art. 1er
 
-Domaine d'activités
+La Poste a pour objet l'offre de service d'envois postaux, à savoir tout service de collecte, de tri, de transport et de distribution, notamment, d'envois de correspondance, de livres, de catalogues, de journaux, de périodiques et de colis postaux contenant des marchandises avec ou sans valeur commerciale.
 
-La Poste a pour objet d'offrir le service du courrier, à savoir tout service de collecte, de transport et de distribution d'objets de correspondance et de marchandises.
+A ce titre, elle assure le service public des envois postaux, qui comprend le service universel postal défini à l'article L. 1 du code des postes et télécommunications, dans le respect des conditions mentionnées à l'article 3 et selon les modalités particulières précisées aux articles 4, 5 et 6.
 
-Elle assure à ce titre le service public du courrier dans le respect des conditions définies à l'article 3 et selon les modalités particulières précisées aux articles 4, 5 et 6 ci-dessous.
-
-Elle offre également, en matière de courrier, tous autres services nationaux et internationaux, dans les conditions prévues à l'article 7 du présent cahier des charges.
+Les autres services nationaux et internationaux sont assurés dans les conditions mentionnées à l'article 7.
 
 Art. 2
 
-Conditions générales d'offre des services du courrier
+Conditions générales d'offre des services d'envois postaux
 
 Dans le cadre de son autonomie de gestion et des dispositions du présent cahier des charges, La Poste définit la gamme de ses services en fonction des besoins des usagers et organise les moyens dont elle dispose de façon à satisfaire les objectifs de qualité de service fixés par le contrat de plan.
 
-La Poste distribue tous les jours ouvrables, à l'adresse indiquée par l'expéditeur, les objets de correspondance qui lui sont confiés.
+La Poste distribue tous les jours ouvrables, à l'adresse indiquée par l'expéditeur, les envois de correspondance qui lui sont confiés.
 
 La Poste dispose des boîtes aux lettres sur la voie publique de manière à les rendre accessibles en permanence. Elle en assure la relève régulière au moins chaque jour ouvrable.
 
@@ -44,15 +42,15 @@ Dans le cadre des orientations fixées par le Gouvernement, les conditions de li
 
 Art. 3
 
-Service public du courrier :
+Service public des envois postaux :
 
 définition et conditions générales d'exécution
 
-1° Le service public du courrier est constitué des services du courrier nationaux et internationaux, dont l'exclusivité est réservée à La Poste par les dispositions combinées des articles L. 1 et L. 2 du code des postes et télécommunications, ainsi que des services d'acheminement et de distribution de la presse mentionnés à l'article 6. Peuvent également être soumis à certaines obligations de service public les services obligatoires mentionnés à l'article 5.
+1° Le service public des envois postaux comprend, dans les relations intérieures et internationales, le service universel postal et, dans ce cadre, les services d'acheminement et de distribution de la presse relevant de l'article 6. Peuvent également être soumis à certaines obligations de service public les services obligatoires mentionnés à l'article 5.
 
 2° La Poste exerce ses missions de service public dans le respect du principe d'égalité de traitement des usagers ; cette égalité de traitement concerne notamment l'accès aux services et leur tarification. La Poste assure la disponibilité, la neutralité, la rapidité et l'adaptation constante de ses prestations.
 
-Le service public du courrier offert par La Poste dessert l'ensemble du territoire en prenant en compte les orientations générales de la politique gouvernementale, notamment en matière d'aménagement du territoire.
+Le service public des envois postaux offert par La Poste dessert l'ensemble du territoire en prenant en compte les orientations générales de la politique gouvernementale, notamment en matière d'aménagement du territoire.
 
 La péréquation tarifaire constitue l'un des moyens permettant à La Poste d'assurer ses missions de service public, tout en prenant en compte ses coûts de production.
 
@@ -60,9 +58,17 @@ Afin de faciliter l'accès au service public pour tous, La Poste prend en compte
 
 La Poste met en oeuvre progressivement, pour la satisfaction des besoins de l'ensemble des usagers, les améliorations du service public rendues possibles par les progrès scientifiques et techniques.
 
-La Poste assure en permanence la disponibilité du service public du courrier pour l'ensemble des usagers. Toutefois, lorsque, en raison de circonstances exceptionnelles, les services publics sont interrompus ou perturbés, La Poste prend les dispositions utiles pour rétablir le service dans les meilleurs délais. Dans ce cas, elle peut temporairement limiter l'accès à certains services. Elle communique au ministre chargé des postes et télécommunications et aux représentants de l'Etat concernés les mesures prévues à cet effet et les informe de leur mise en oeuvre.
+La Poste assure en permanence la disponibilité du service public des envois postaux pour l'ensemble des usagers. Toutefois, lorsque, en raison de circonstances exceptionnelles, les services publics sont interrompus ou perturbés, La Poste prend les dispositions utiles pour rétablir le service dans les meilleurs délais. Dans ce cas, elle peut temporairement limiter l'accès à certains services. Elle communique au ministre chargé des postes et télécommunications et aux représentants de l'Etat concernés les mesures prévues à cet effet et les informe de leur mise en oeuvre.
 
 La Commission supérieure du service public des postes et télécommunications veille à l'application de ces principes.
+
+Art. 3-1
+
+Le service universel postal : définitions et conditions générales d'exécution.
+
+La Poste est le prestataire du service universel postal. Elle assure ce service dans les conditions fixées par les articles L. 1 et L. 2 du code des postes et télécommunications.
+
+La Poste publie et tient à la disposition du public les caractéristiques des services offerts au titre du service universel et, notamment, les conditions générales d'accès à ce service, les prix et les normes de qualité. Ces éléments sont communiqués au ministre chargé des postes un mois avant leur publication.
 
 Art. 4
 
@@ -90,7 +96,7 @@ Art. 6
 
 Acheminement et distribution de la presse
 
-L'acheminement et la distribution de la presse, bénéficiant du régime spécifique prévu par le code des postes et télécommunications, constituent un service obligatoire que La Poste exerce dans le respect des dispositions de l'article 2 et des principes du service public énoncés à l'article 3 du présent cahier des charges.
+L'acheminement et la distribution de la presse, bénéficiant du régime spécifique prévu par le code des postes et télécommunications, constituent un service obligatoire que La Poste exerce dans le respect des dispositions de l'article 2 et des principes du service public des envois postaux énoncés à l'article 3 du présent cahier des charges.
 
 La structure tarifaire de ce service a pour objectif de favoriser le pluralisme, notamment celui de l'information politique et générale.
 
@@ -100,7 +106,7 @@ Art. 7
 
 Autres services ouverts à la concurrence
 
-Sauf en ce qui concerne les services obligatoires prévus aux articles 5 et 6 ci-dessus, La Poste définit librement l'étendue et les modalités d'offre des services qu'elle propose quand ceux-ci relèvent d'un domaine ouvert à la concurrence.
+Sauf en ce qui concerne les prestations mentionnées au 1° de l'article 3, La Poste définit librement l'étendue et les modalités d'offre des services qu'elle propose.
 
 Tout nouveau service offert au public est porté à la connaissance du ministre chargé des postes et télécommunications un mois avant sa date d'ouverture. Celui-ci en informe la Commission supérieure du service public des postes et télécommunications.
 
@@ -244,7 +250,7 @@ Recherche et développement
 
 La Poste élabore et conduit des programmes de recherche destinés à faire bénéficier les usagers des progrès techniques et à assurer la compétitivité de ses activités.
 
-Ces études, recherches et développement couvrent, en particulier, les domaines de la manipulation et du traitement des objets, de la reconnaissance des formes, du traitement des images, du courrier électronique, de la monnaie électronique et, plus généralement, des techniques de communication.
+Ces études, recherches et développement couvrent, en particulier, les domaines de la manipulation et du traitement des objets, de la reconnaissance des formes, du traitement des images, des envois postaux électronique, de la monnaie électronique et, plus généralement, des techniques de communication.
 
 La Poste peut créer des laboratoires, s'associer ou coopérer avec tous organismes et entreprises, publics ou privés, français ou étrangers.
 
@@ -256,13 +262,13 @@ Art. 15
 
 Les services de La Poste dans les relations internationales
 
-La Poste assure le prolongement international des services pour lesquels elle dispose de droits exclusifs. Par ailleurs, elle peut mettre en oeuvre l'ensemble de ses services dans les relations internationales.
+La Poste assure le prolongement international des services relevant du service universel postal. Par ailleurs, elle peut mettre en oeuvre l'ensemble de ses services dans les relations internationales.
 
 Elle assure les interconnexions nécessaires avec les réseaux étrangers.
 
 Elle tient le ministre chargé des postes et télécommunications informé des accords qu'elle conclut et des dispositions qu'elle prend en ces domaines.
 
-1° La Poste conclut directement tout accord nécessaire à l'exploitation des services du courrier et des services financiers dans les relations internationales ; elle négocie avec ses partenaires l'ouverture de nouvelles liaisons ou services, leurs conditions d'exploitation et les principes de leur comptabilisation.
+1° La Poste conclut directement tout accord nécessaire à l'exploitation des services des envois postaux et des services financiers dans les relations internationales ; elle négocie avec ses partenaires l'ouverture de nouvelles liaisons ou services, leurs conditions d'exploitation et les principes de leur comptabilisation.
 
 Dans ses relations avec les autres services postaux, La Poste respecte les règles définies dans les actes de l'Union postale universelle.
 
@@ -270,13 +276,13 @@ Dans les échanges internationaux, lorsqu'un pays n'assure pas régulièrement l
 
 Le refus éventuel de l'Etat de faire appliquer les décisions proposées par La Poste lui est notifié par décision conjointe du ministre chargé des postes et télécommunications et du ministre chargé de l'économie et des finances. Dans le cas où l'Etat, par décision conjointe des ministres susvisés, impose à La Poste le maintien de ces services, il assure la compensation des conséquences financières de cette décision.
 
-2° La Poste prend, dans les meilleures conditions de coût et d'efficacité, les dispositions permettant d'assurer l'exécution, sur le territoire national, de services du courrier et de services financiers, au profit des services postaux étrangers ou des autres opérateurs avec lesquels elle a conclu des accords.
+2° La Poste prend, dans les meilleures conditions de coût et d'efficacité, les dispositions permettant d'assurer l'exécution, sur le territoire national, de services des envois postaux et de services financiers, au profit des services postaux étrangers ou des autres opérateurs avec lesquels elle a conclu des accords.
 
-3° La Poste est habilitée à négocier, avec les partenaires de son choix, l'établissement et les conditions d'exploitation de services du courrier et de services financiers dans les relations internationales.
+3° La Poste est habilitée à négocier, avec les partenaires de son choix, l'établissement et les conditions d'exploitation de services des envois postaux et de services financiers dans les relations internationales.
 
 Pour l'établissement ou l'exploitation de ces services, elle peut prendre toutes participations financières dans les organismes partenaires, ou créer des filiales dans les conditions prévues à l'article 32 du présent cahier des charges.
 
-La Poste peut assister le gouvernement dans la négociation des accords internationaux qui la concernent. Elle peut éventuellement être habilitée à signer certains accords relatifs à l'exploitation des services du courrier et des services financiers.
+La Poste peut assister le gouvernement dans la négociation des accords internationaux qui la concernent. Elle peut éventuellement être habilitée à signer certains accords relatifs à l'exploitation des services des envois postaux et des services financiers.
 
 Art. 16
 
@@ -316,11 +322,9 @@ La Poste veille à la satisfaction, par l'ensemble de son groupe, des obligation
 
 La Poste concourt à l'organisation et à l'exécution du service de la poste aux armées, conformément aux décrets n° 53-155 du 25 février 1953 et n° 73-902 du 12 septembre 1973, selon des modalités précisées par convention passée entre l'Etat et La Poste.
 
-Art. 17 bis
+Art. 17 bis :
 
-Contribution aux missions de conservation du patrimoine philatélique et postal
-
-Dans le cadre d'une convention qu'elle passe avec l'Etat La Poste prend en charge la conservation, la mise en valeur et l'enrichissement du patrimoine philatélique et postal qui lui a été dévolu ou affecté par l'article 2 du décret n° 93-775 du 26 mars 1993.
+Contribution aux missions de conservation du patrimoine philatélique et postal"    Dans le cadre d'une convention qu'elle passe avec l'Etat La Poste prend en charge la conservation, la mise en valeur et l'enrichissement du patrimoine philatélique et postal qui lui a été dévolu ou affecté par l'article 2 du décret n° 93-775 du 26 mars 1993.
 
 A ce titre, La Poste :
 
@@ -362,7 +366,7 @@ et à l'aide au développement
 
 Selon les orientations définies par les ministres compétents dont relève la politique de coopération internationale, et à la demande du ministre chargé des postes et télécommunications, La Poste contribue à l'élaboration et participe à la mise en oeuvre de la politique de l'Etat en matière de coopération internationale. A ce titre, elle fournit les personnels nécessaires pour remplir des missions d'assistance technique auprès des organismes des postes étrangers ou internationaux. Elle organise des actions d'information et de perfectionnement au profit de stagiaires étrangers et des coopérants français.
 
-La Poste peut se voir confier des missions par le ministre chargé des postes et télécommunications, au sein des organes dirigeants des institutions internationales de coopération pour le développement des services de courrier et des services financiers.
+La Poste peut se voir confier des missions par le ministre chargé des postes et télécommunications, au sein des organes dirigeants des institutions internationales de coopération pour le développement des services des envois postaux et des services financiers.
 
 Les modalités selon lesquelles les ministères français et les organismes nationaux, étrangers ou internationaux remboursent à La Poste les dépenses engagées au titre des activités visées au présent article sont fixées par voie de conventions passées par La Poste avec chacun d'entre eux.
 
@@ -444,7 +448,7 @@ Lorsque, pour des raisons techniques, La Poste est contrainte de restreindre de 
 
 4° Information du ministre de tutelle :
 
-La Poste établit annuellement les documents permettant de suivre l'implantation sur le territoire des services ouverts au public, les horaires d'ouverture et les conditions d'accueil des usagers, la fréquence de la distribution du courrier, la gamme des services disponibles et les tarifs qui leur sont appliqués, les mesures prises pour répondre aux réclamations des usagers et améliorer la qualité technique du service.
+La Poste établit annuellement les documents permettant de suivre l'implantation sur le territoire des services ouverts au public, les horaires d'ouverture et les conditions d'accueil des usagers, la fréquence de la distribution des envois postaux, la gamme des services disponibles et les tarifs qui leur sont appliqués, les mesures prises pour répondre aux réclamations des usagers et améliorer la qualité technique du service.
 
 Ces documents sont transmis au ministre chargé des postes et télécommunications.
 
@@ -596,9 +600,15 @@ Règles comptables
 
 Conformément aux dispositions de l'article 15 de la loi du 2 juillet 1990, les comptes sont tenus selon les règles du plan comptable général, éventuellement adapté aux besoins de l'exploitant public par le Conseil national de la comptabilité.
 
-La Poste tient une comptabilité analytique. Elle a notamment pour objet de mesurer la contribution au résultat d'exploitation de ses activités d'acheminement et de distribution de correspondances, d'objets et de marchandises, d'une part, et de ses activités financières, d'autre part.
+La Poste tient une comptabilité analytique qui respecte les obligations suivantes :
 
-La comptabilité analytique doit permettre de procéder à des analyses de coûts afin d'apprécier la contribution aux résultats des différents produits ou activités.
+1° Tenue, dans sa comptabilité interne, de comptes séparés pour chacun des services dont l'exclusivité lui est réservée, d'une part, et pour les autres services, d'autre part, en isolant, parmi ces derniers, ceux qui relèvent de l'offre de service universel et ceux qui relèvent de ses activités financières ;
+
+2° Approbation, par le ministre chargé des postes, le ministre chargé de l'économie et le ministre chargé du budget, du système de comptabilité analytique proposé par La Poste, notamment la méthode de répartition entre les services réservés et les services non réservés, sur la base de critères objectifs et transparents, des charges directes et de celles qui ne peuvent être directement affectées à un service particulier ;
+
+3° Fourniture, sur demande, au ministre chargé des postes, de manière confidentielle, des informations comptables détaillées.
+
+Les commissaires aux comptes de La Poste s'assurent du respect des dispositions du présent article. Ils établissent une déclaration de conformité qui est publiée, tous les ans, par La Poste.
 
 Art. 30
 
@@ -644,29 +654,35 @@ Modalités de fixation des tarifs
 
 des services nationaux de La Poste
 
-1° Tarifs des services dont l'exclusivité est réservée à La Poste :
+1° Tarifs des prestations du service universel :
 
-Les tarifs de ces services sont fixés ainsi qu'il suit :
+a) Principes généraux et modalités d'évolution tarifaire :
 
-a) Les principes d'évolution tarifaire :
+Les tarifs des services faisant partie de la prestation du service universel aux usagers doivent tenir compte des coûts. Pour des catégories homogènes de prestations et de clients, un tarif unique est appliqué sur l'ensemble du territoire. Le prestataire du service universel peut conclure des accords tarifaires individuels avec ses clients.
 
-Les tarifs des services dont l'exclusivité est réservée à La Poste font l'objet d'une programmation indicative pluriannuelle. Le contrat de plan définit les orientations de la politique tarifaire et les méthodes de fixation des tarifs.
+Les objectifs tarifaires pluriannuels des prestations relevant du service universel font l'objet d'un engagement de La Poste dans le cadre de son contrat de plan.
 
-L'échelonnement des ajustements tarifaires peut faire l'objet de modulations par rapport au calendrier prévu dans le contrat de plan, en cas de variation entre la réalité et les hypothèses générales relatives à l'environnement économique retenues lors de son élaboration. Ces modulations sont décidées conjointement par le ministre chargé des postes et télécommunications et le ministre chargé de l'économie et des finances.
+A défaut d'accord sur ces objectifs dans un délai de quatre mois suivant l'échéance du contrat de plan de La Poste, les objectifs sont fixés par arrêté conjoint du ministre chargé des postes et du ministre chargé de l'économie et des finances ;
 
-b) Les procédures de fixation des tarifs :
+b) Fixation des tarifs des services dont l'exclusivité est réservée à La Poste :
 
-1. Les propositions tarifaires de La Poste sont soumises au ministre chargé des postes et télécommunications et au ministre chargé de l'économie et des finances. A défaut d'opposition notifiée dans le délai d'un mois suivant cette transmission, ces tarifs sont réputés homologués.
+Les propositions tarifaires de La Poste sont soumises au ministre chargé des postes et au ministre chargé de l'économie et des finances. A défaut d'opposition notifiée dans un délai d'un mois suivant cette transmission, ces tarifs sont réputés homologués.
 
-Lorsque les ministres ci-dessus mentionnés modifient les propositions formulées par La Poste, ces modifications sont notifiées à La Poste, qui les applique et les porte à la connaissance des usagers.
+Lorsque les ministres mentionnés ci-dessus modifient les propositions formulées par La Poste, ces modifications sont notifiées à La Poste, qui les applique.
 
-2. En l'absence de proposition tarifaire de La Poste, le ministre chargé des postes et télécommunications et le ministre chargé de l'économie et des finances peuvent, par décision conjointe, après consultation de l'exploitant public, fixer les tarifs.
+En l'absence de propositions tarifaires de La Poste, le ministre chargé des postes et le ministre chargé de l'économie et des finances peuvent, par décision conjointe, après consultation de l'exploitant public, fixer les tarifs desdites prestations.
 
-Cette décision est notifiée à La Poste au moins un mois avant la date de son entrée en vigueur.
+Cette décision est notifiée à La Poste au moins un mois avant la date de son entrée en vigueur ;
 
-Dans tous les cas, les nouveaux tarifs sont portés à la connaissance des usagers au moins huit jours avant la date de leur entrée en vigueur.
+c) Fixation des tarifs des autres services dont l'exclusivité n'est pas réservée à La Poste :
 
-2° Tarifs des services offerts en concurrence :
+La Poste fixe les tarifs des prestations relevant du service universel dont l'exclusivité ne lui est pas réservée dans le respect des règles de la concurrence. Ces tarifs sont communiqués au ministre chargé des postes et au ministre chargé de l'économie et des finances un mois avant leur publication ;
+
+d) Information des usagers et des clients de La poste :
+
+Dans tous les cas, les nouveaux tarifs doivent être portés à la connaissance des usagers et des clients au moins huit jours avant la date de leur entrée en vigueur.
+
+2° Tarifs des services offerts en concurrence ne relevant pas du service universel.
 
 a) La Poste fixe librement les tarifs des services, des produits et de toutes prestations soumises à la concurrence. Ces tarifs sont communiqués pour information au ministre chargé des postes et télécommunications et au ministre chargé de l'économie et des finances un mois avant leur publication. La Poste fixe ces tarifs dans le respect des règles de la concurrence ;
 
@@ -746,7 +762,7 @@ Contrat de plan
 
 - les orientations concernant les domaines et l'effort de recherche ;
 
-- les objectifs globaux d'évolution tarifaire des services publics dont l'exclusivité est réservée à La Poste ;
+- les objectifs globaux d'évolution tarifaire des services relevant du service universel ;
 
 - les grandes orientations sociales, économiques et financières de l'exploitant, notamment la masse salariale, les investissements et le besoin de financement ;
 
@@ -774,9 +790,9 @@ Rémunérations des prestations fournies par La Poste
 
 1° Les prestations fournies par La Poste à l'Etat, ou sur la demande de l'Etat à tout bénéficiaire public ou privé, font normalement l'objet d'une rémunération sur la base des tarifs existants, sauf dans les cas limitativement énumérés ci-dessous.
 
-2° Les services de courrier assurés par La Poste aux différents départements ministériels continuent de faire l'objet d'une évaluation forfaitaire pendant une période transitoire qui prendra fin au plus tard le 31 décembre 1995.
+2° Les services des envois postaux assurés par La Poste aux différents départements ministériels continuent de faire l'objet d'une évaluation forfaitaire pendant une période transitoire qui prendra fin au plus tard le 31 décembre 1995.
 
-Le volume du courrier concerné est évalué par La Poste à partir d'un comptage effectué par sondage. Le montant du forfait dû à La Poste est établi chaque année en appliquant au trafic estimé les tarifs existants.
+Le volume des envois postaux concerné est évalué par La Poste à partir d'un comptage effectué par sondage. Le montant du forfait dû à La Poste est établi chaque année en appliquant au trafic estimé les tarifs existants.
 
 La durée de cette période transitoire sera fixée par département ministériel selon un calendrier arrêté conjointement entre La Poste et l'Etat avant le 31 décembre 1991.
 
@@ -784,13 +800,13 @@ Toutefois, à l'issue de cette période transitoire :
 
 a) Seront admises en franchise les correspondances visées à l'article D. 73 du code des postes et télécommunications.
 
-Le volume du courrier concerné est évalué par La Poste à partir d'un comptage effectué par sondage.
+Le volume des envois postaux concerné est évalué par La Poste à partir d'un comptage effectué par sondage.
 
 Une indemnité annuelle est versée par l'Etat à La Poste ; elle couvre les coûts de ce service.
 
 b) Continueront d'être admises en franchise les correspondances bénéficiant de cette mesure en application du code électoral ou des textes législatifs et réglementaires relatifs à une élection particulière. Les prestations qui font l'objet de cette franchise donneront lieu à une facturation particulière visant à couvrir les coûts du service.
 
-La Poste évalue le trafic de ce courrier à partir du nombre de destinataires et estime, par sondage, le poids des envois. La facture de cette prestation est établie en tenant compte des tarifs existants et des conditions de dépôt propres à ce type de courrier.
+La Poste évalue le trafic de ces envois postaux à partir du nombre de destinataires et estime, par sondage, le poids des envois. La facture de cette prestation est établie en tenant compte des tarifs existants et des conditions de dépôt propres à ce type d'envois postaux.
 
 Les modalités précises d'application de cet alinéa sont fixées par convention passée entre l'Etat et La Poste.
 
@@ -802,7 +818,7 @@ La Poste adresse chaque année, avant le 1er mai, au ministre chargé des postes
 
 En vue de son inscription dans la loi de finances initiale, les ministres arrêtent, en liaison avec l'exploitant public, le montant de la contribution de l'Etat, compte tenu de l'ensemble des éléments mentionnés ci-dessus.
 
-4° [*paragraphe supprimé*].
+4° *paragraphe supprimé*.
 
 5° La tenue des comptes des comptables publics, prévue par l'article 10, paragraphe 3, du présent cahier des charges, fait l'objet d'une rémunération assurant la couverture des coûts du service, dont les modalités sont précisées par convention passée entre l'Etat et La Poste.
 
