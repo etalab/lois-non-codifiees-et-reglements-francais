@@ -1,3 +1,4 @@
 # Annexes
 
 - [INFORMATIONS FIGURANT DANS LE RAPPORT AU COMITÉ TECHNIQUE PARITAIRE](informations-figurant-dans-le-rapport-au)
+- [INFORMATIONS NE DEVANT PAS FIGURER DANS LE RAPPORT TRANSMIS AU CONSEIL SUPÉRIEUR DE LA FONCTION PUBLIQUE TERRITORIALE (Numérotation par référence aux rubriques de l'annexe I)](informations-ne)
