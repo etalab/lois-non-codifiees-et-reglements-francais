@@ -1,41 +1,41 @@
 # Article 2
 
-Outre son président, le Conseil supérieur de la sûreté nucléaire comprend [*composition*] :
+" 0utre son président, le Conseil supérieur de la sûreté et de l'information nucléaires comprend  [*composition*]:
 
-Le haut-commissaire à l'énergie atomique, vice-président ;
+" - le haut-commissaire à l'énergie atomique, vice-président ;
 
-Un membre de l'Assemblée nationale ;
+" - une personnalité choisie en raison de sa compétence en matière d'information et de communication, vice-président ;
 
-Un membre de Sénat ;
+" - un membre de l'Assemblée nationale ;
 
-Douze personnalités choisies en raison de leur compétence scientifique, technique, économique ou sociale ;
+" - un membre du Sénat ;
 
-Le directeur général d'Electricité de France ou son représentant ;
+" - neuf personnalités choisies en raison de leur compétence scientifique, technique, économique ou sociale ;
 
-Six représentants d'organisations syndicales représentatives ;
+" - cinq personnalités choisies en raison de leur compétence en matière d'information et de communication ;
 
-Trois représentants d'associations ayant pour objet la protection de la nature et de l'environnement, nommés sur la proposition du haut comité de l'environnement ;
+" - le directeur général d'Electricité de France ou son représentant ;
 
-Le conseiller d'Etat, président de la commission interministérielle des installations nucléaires de base ;
+" - six représentants d'organisations syndicales représentatives ;
 
-Le secrétaire général du comité interministériel de la sécurité nucléaire ;
+" - trois représentants d'associations ayant pour objet la protection de la nature et de l'environnement, nommés sur la proposition du haut comité de l'environnement ;
 
-Le directeur de la sécurité civile au ministère de l'intérieur et de la décentralisation ;
+" - le président de la commission interministérielle des installations nucléaires de base ;
 
-Le chef de la mission scientifique et technique au ministère de la recherche et de la technologie ;
+" - le secrétaire général du comité interministériel de la sécurité nucléaire ;
 
-L'inspecteur des armements nucléaires au ministère de la défense ;
+" - le directeur de la sécurité civile au ministère de l'intérieur ;
 
-Le directeur général de l'énergie et des matières premières au ministère de l'industrie ;
+" - le chargé de mission Atome auprès du délégué général pour l'armement au ministère de la défense ;
 
-Le directeur de la qualité et de la sécurité industrielles au ministère de l'industrie ;
+" - le directeur général de l'industrie au ministère de l'industrie, des P. et T. et du tourisme ;
 
-Le directeur du gaz, de l'électricité et du charbon au ministère de l'industrie ;
+" - le directeur général de l'énergie et des matières premières au ministère de l'industrie, des P. et T. et du tourisme ;
 
-Le directeur des relations du travail au ministère du travail ;
+" - le directeur des relations du travail au ministère des affaires sociales et de l'emploi ;
 
-Le directeur du service central de protection contre les rayonnements ionisants au ministère de la santé ;
+" - le directeur du service central de protection contre les rayonnements ionisants au ministère chargé de la santé ;
 
-Le directeur de la prévention des pollutions au ministère de l'environnement.
+" - le directeur de la prévention des pollutions au ministère chargé de l'environnement.
 
-Le chef du service central de sûreté des installations nucléaires ainsi que le directeur de l'institut de protection et de sûreté nucléaire au commissariat à l'énergie atomique assistent aux réunions du Conseil supérieur de la sûreté nucléaire.
+" Le chef du service central de sûreté des installations nucléaires, le délégué à l'information et à la communication au ministère de l'industrie, des P. et T. et du tourisme, ainsi que le directeur de l'institut de protection et de sûreté nucléaire au Commissariat à l'énergie atomique assistent aux réunions du Conseil supérieur de la sûreté et de l'information nucléaires. "
