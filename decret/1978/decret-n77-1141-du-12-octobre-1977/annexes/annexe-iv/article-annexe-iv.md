@@ -1,8 +1,10 @@
 # Article Annexe IV
 
-1° Travaux ou aménagements d'un coût total inférieur à 12 millions de francs réalisés sur le domaine public fluvial ou maritime sous le régime de la concession prévu à l'article L. 64 du code du domaine de l'Etat, ainsi que les travaux de création ou d'extension d'un port de plaisance ;
+1° Travaux ou aménagements d'un coût total inférieur à 12 millions de francs réalisés sur le domaine public fluvial ou maritime sous le régime de la concession prévu à l'article L.64 du code du domaine de l'Etat, ainsi que les travaux de création ou d'extension d'un port de plaisance ;
 
-2° Travaux d'installations de remontées mécaniques et travaux d'aménagement de pistes pour la pratique de sports d'hiver, lorsque leur coût total est inférieur à six millions de francs ;    3° Travaux d'installation des ouvrages de transport et de distribution d'électricité de tension inférieure à 63 kV, à l'exclusion des travaux souterrains ;
+2° Travaux d'installations de remontées mécaniques et travaux d'aménagement de pistes pour la pratique de sports d'hiver, lorsque leur coût total est inférieur à six millions de francs ;
+
+3° Travaux d'installation des ouvrages de transport et de distribution d'électricité de tension inférieure à 63 kV, à l'exclusion des travaux souterrains ;
 
 4° Autorisations relatives aux ouvrages utilisant l'énergie hydraulique dont la puissance maximale brute totale est inférieure ou égale à 500 kW, à l'exception des demandes de changement de titulaire, des changements de destination de l'énergie ou des avenants ne modifiant pas la consistance ou le mode de fonctionnement des ouvrages ;
 
@@ -16,7 +18,7 @@
 
 9° Ouvrages destinés à l'épuration des eaux des collectivités locales, d'une capacité de traitement inférieure à celle des ouvrages visés au 14° de l'annexe III ;
 
-10° Piscicultures soumises à autorisation ou concession en vertu de l'article 432 du code rural et autres que celles définies à l'article 432 du code rural et autres que celles définies à l'article 10, premier alinéa, du décret n° 85-1400 du 27 décembre 1985 fixant les formes et les conditions des concessions et autorisations de pisciculture et les modalités de déclaration des plans d'eau existants mentionnés à l'article 433 du code rural ou à renouvellement de l'autorisation de la concession quand la notice d'impact est exigée en vertu des articles 18 ou 28 du même décret ;
+10° Piscicultures soumises à autorisation ou concession en vertu de l'article L. 231-6 du code rural autres que celles définies à l'article R. 231-16 du code rural, premier alinéa, ou à renouvellement de l'autorisation ou de la concession quand la notice d'impact est exigée en vertu des articles R. 231-24 ou 34 du code rural, ou piscicultures régularisées en application de l'article R. 231-44 du code rural ;
 
 11° Travaux d'hydraulique agricole dont le coût total est compris entre 6 et 12 millions de francs ;
 
