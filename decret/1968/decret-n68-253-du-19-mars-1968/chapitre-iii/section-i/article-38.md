@@ -1,0 +1,3 @@
+# Article 38
+
+Par application des dispositions combinées de l'article 21 de la loi susvisée du 12 juillet 1966 et des articles L. 138 et L. 139 du Code de la sécurité sociale, le paiement des cotisations est garanti, pendant un an à compter de leur date d'exigibilité, par un privilège sur les biens meubles du débiteur, qui prend rang concurrement avec celui des gens de service et celui des ouvriers établis respectivement par l'article 2101 du Code civil et l'article 530 du Code de commerce ainsi que par une hypothèque légale sur les immeubles du débiteur, soumise aux règles édictées par le Code civil et par le décret n° 55-22 du 4 janvier 1955 portant réforme de la publicité foncière.
