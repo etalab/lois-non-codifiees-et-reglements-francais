@@ -91,7 +91,6 @@
 - [Arrêté du 5 décembre 1989 (PRME8961076A)](arrete-du-5-decembre-1989-prme8961076a)
 - [Arrêté du 5 janvier 1989 (ECOC8800124A)](arrete-du-5-janvier-1989-ecoc8800124a)
 - [Arrêté du 5 janvier 1989 (MENG8802625A)](arrete-du-5-janvier-1989-meng8802625a)
-- [Arrêté du 5 juillet 1989 (PTTT8900647A)](arrete-du-5-juillet-1989-pttt8900647a)
 - [Arrêté du 5 juillet 1989 (SPSS8901458A)](arrete-du-5-juillet-1989-spss8901458a)
 - [Arrêté du 5 juin 1989 (PTTT8900522A)](arrete-du-5-juin-1989-pttt8900522a)
 - [Arrêté du 5 juin 1989 (SPSH8901187A)](arrete-du-5-juin-1989-spsh8901187a)
