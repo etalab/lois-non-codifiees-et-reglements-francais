@@ -9,6 +9,7 @@
 - [Loi n° 79-1149 du 29 décembre 1979](loi-n-79-1149-du-29-decembre-1979)
 - [Loi n° 79-12 du 3 janvier 1979](loi-n-79-12-du-3-janvier-1979)
 - [Loi n° 79-15 du 3 janvier 1979](loi-n-79-15-du-3-janvier-1979)
+- [Loi n° 79-18 du 3 janvier 1979](loi-n-79-18-du-3-janvier-1979)
 - [Loi n° 79-44 du 18 janvier 1979](loi-n-79-44-du-18-janvier-1979)
 - [Loi n° 79-525 du 3 juillet 1979](loi-n-79-525-du-3-juillet-1979)
 - [Loi n° 79-575 du 10 juillet 1979](loi-n-79-575-du-10-juillet-1979)
