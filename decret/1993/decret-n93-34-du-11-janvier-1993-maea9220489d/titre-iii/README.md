@@ -3,4 +3,3 @@
 - [CHAPITRE Ier : Dispositions générales.](chapitre-ier)
 - [CHAPITRE II : Recrutement.](chapitre-ii)
 - [CHAPITRE V : Détachement.](chapitre-v)
-- [Article 31](article-31.md)
