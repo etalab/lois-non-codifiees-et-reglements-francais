@@ -9,3 +9,7 @@
 - [Article Annexe 11](article-annexe-11.md)
 - [Article Annexe 12](article-annexe-12.md)
 - [Article Annexe 13](article-annexe-13.md)
+- [Article Annexe 14](article-annexe-14.md)
+- [Article Annexe 15](article-annexe-15.md)
+- [Article Annexe 16](article-annexe-16.md)
+- [Article Annexe 17](article-annexe-17.md)
