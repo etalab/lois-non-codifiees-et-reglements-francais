@@ -873,7 +873,6 @@
 - [Décret n°2002-702 du 29 avril 2002 (DEFD0201157D)](decret-n2002-702-du-29-avril-2002-defd0201157d)
 - [Décret n°2002-707 du 29 avril 2002 (MJSK0270082D)](decret-n2002-707-du-29-avril-2002-mjsk0270082d)
 - [Décret n°85-382 du 29 mars 1985](decret-n85-382-du-29-mars-1985)
-- [Décret n°2002-904 du 29 mai 2002 (PRMX0200096D)](decret-n2002-904-du-29-mai-2002-prmx0200096d)
 - [Décret n°2002-905 du 29 mai 2002 (LBLX0205604D)](decret-n2002-905-du-29-mai-2002-lblx0205604d)
 - [Décret n°2002-906 du 29 mai 2002 (SOCX0205592D)](decret-n2002-906-du-29-mai-2002-socx0205592d)
 - [Décret n°2002-907 du 29 mai 2002 (VILX0205597D)](decret-n2002-907-du-29-mai-2002-vilx0205597d)
