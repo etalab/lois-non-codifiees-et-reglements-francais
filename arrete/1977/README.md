@@ -44,7 +44,6 @@
 - [Arrêté du 19 juillet 1977](arrete-du-19-juillet-1977)
 - [Arrêté du 19 novembre 1976](arrete-du-19-novembre-1976)
 - [Arrêté du 19 septembre 1977](arrete-du-19-septembre-1977)
-- [Arrêté du 20 avril 1977](arrete-du-20-avril-1977)
 - [Arrêté du 20 juillet 1977](arrete-du-20-juillet-1977)
 - [Arrêté du 20 novembre 1975](arrete-du-20-novembre-1975)
 - [Arrêté du 20 octobre 1977](arrete-du-20-octobre-1977)
