@@ -14,7 +14,7 @@ A cet effet, le service public :
 
 L'orientation des étudiants comporte une information sur le déroulement des études, sur les débouchés et sur les passages possibles d'une formation à une autre.
 
-La formation continue s'adresse à toutes les personnes engagées ou non dans la vie active. Organisée pour répondre à des besoins individuels ou collectifs, elle inclut l'ouverture aux adultes des cycles d'études de formation initiale, ainsi que l'organisation de formations professionnelles ou à caractère culturel particulières ; les études, les expériences professionnelles ou les acquis personnels peuvent être validés, dans des conditions définies par décret, en vue de l'accès aux différents niveaux de l'enseignement supérieur.
+La formation continue s'adresse à toutes les personnes engagées ou non dans la vie active. Organisée pour répondre à des besoins individuels ou collectifs, elle inclut l'ouverture aux adultes des cycles d'études de formation initiale, ainsi que l'organisation de formations professionnelles ou à caractère culturel particulières ; les études, les expériences professionnelles ou les acquis personnels peuvent être validés, dans des conditions définies par décret, en vue de l'accès aux différents niveaux de l'enseignement supérieur. Les études, les expériences professionnelles ou les acquis professionnels peuvent également être validés par un jury, dans les champs et conditions définis par décret en Conseil d'Etat, pour remplacer une partie des épreuves conduisant à la délivrance de certains diplômes ou titres professionnels.
 
 Les enseignements supérieurs sont organisés en liaison avec les milieux professionnels :
 
