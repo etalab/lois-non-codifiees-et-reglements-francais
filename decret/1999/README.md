@@ -245,6 +245,8 @@
 - [Décret n°99-234 du 22 mars 1999 (MENS9900477D)](decret-n99-234-du-22-mars-1999-mens9900477d)
 - [Décret n°99-235 du 22 mars 1999 (INTM9900008D)](decret-n99-235-du-22-mars-1999-intm9900008d)
 - [Décret n°99-310 du 22 avril 1999 (FPPA9910005D)](decret-n99-310-du-22-avril-1999-fppa9910005d)
+- [Décret n°99-314 du 22 avril 1999 (DEFP9901093D)](decret-n99-314-du-22-avril-1999-defp9901093d)
+- [Décret n°99-315 du 22 avril 1999 (DEFP9901071D)](decret-n99-315-du-22-avril-1999-defp9901071d)
 - [Décret n°99-45 du 22 janvier 1999 (ECOK9800034D)](decret-n99-45-du-22-janvier-1999-ecok9800034d)
 - [Décret n°99-46 du 22 janvier 1999 (INTM9800032D)](decret-n99-46-du-22-janvier-1999-intm9800032d)
 - [Décret n°99-47 du 22 janvier 1999 (ECOT9951773D)](decret-n99-47-du-22-janvier-1999-ecot9951773d)
