@@ -5,6 +5,7 @@
 - [Arrêté du 1 octobre 1984](arrete-du-1-octobre-1984)
 - [Arrêté du 3 janvier 1983](arrete-du-3-janvier-1983)
 - [Arrêté du 4 novembre 1982](arrete-du-4-novembre-1982)
+- [Arrêté du 6 décembre 1982](arrete-du-6-decembre-1982)
 - [Arrêté du 6 janvier 1983](arrete-du-6-janvier-1983)
 - [Arrêté du 7 janvier 1983](arrete-du-7-janvier-1983)
 - [Arrêté du 7 juillet 1982](arrete-du-7-juillet-1982)
