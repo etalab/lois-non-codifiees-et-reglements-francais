@@ -1,0 +1,3 @@
+# Article 2
+
+Le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, le ministre de la défense, le ministre de l'équipement, du logement, des transports et du tourisme, le ministre de l'économie et des finances, le ministre de l'industrie, de la poste et des télécommunications, le ministre délégué au budget, porte-parole du Gouvernement, le ministre délégué à la poste, aux télécommunications et à l'espace, le secrétaire d'Etat à la recherche et le secrétaire d'Etat aux transports sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
