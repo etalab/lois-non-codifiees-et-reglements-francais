@@ -2,5 +2,4 @@
 
 - [Article 1](article-1.md)
 - [Article 57](article-57.md)
-- [Première partie : L'arbitrage](premiere-partie)
 - [Deuxième partie : Dispositions diverses et transitoires.](deuxieme-partie)
