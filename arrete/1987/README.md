@@ -21,6 +21,7 @@
 - [Arrêté du 12 décembre 1986](arrete-du-12-decembre-1986)
 - [Arrêté du 12 janvier 1987](arrete-du-12-janvier-1987)
 - [Arrêté du 12 janvier 1987 (EQUP8700043A)](arrete-du-12-janvier-1987-equp8700043a)
+- [Arrêté du 13 janvier 1987 (ASES8700065A)](arrete-du-13-janvier-1987-ases8700065a)
 - [Arrêté du 14 décembre 1986](arrete-du-14-decembre-1986)
 - [Arrêté du 14 février 1986](arrete-du-14-fevrier-1986)
 - [Arrêté du 14 janvier 1987 (ECOT8710000A)](arrete-du-14-janvier-1987-ecot8710000a)

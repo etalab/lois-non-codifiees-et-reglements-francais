@@ -4,6 +4,8 @@
 - [Décret n°87-51 du 2 février 1987 (CLRX8798230D)](decret-n87-51-du-2-fevrier-1987-clrx8798230d)
 - [Décret n°87-53 du 2 février 1987 (MENX8798232D)](decret-n87-53-du-2-fevrier-1987-menx8798232d)
 - [Décret n°87-56 du 2 février 1987 (AGRP8700222D)](decret-n87-56-du-2-fevrier-1987-agrp8700222d)
+- [Décret n°87-57 du 2 février 1987 (DEFP8701002D)](decret-n87-57-du-2-fevrier-1987-defp8701002d)
+- [Décret n°87-59 du 2 février 1987 (ENVP8700002D)](decret-n87-59-du-2-fevrier-1987-envp8700002d)
 - [Décret n°87-1 du 5 janvier 1987](decret-n87-1-du-5-janvier-1987)
 - [Décret n°87-4 du 5 janvier 1987](decret-n87-4-du-5-janvier-1987)
 - [Décret n°87-5 du 5 janvier 1987](decret-n87-5-du-5-janvier-1987)
