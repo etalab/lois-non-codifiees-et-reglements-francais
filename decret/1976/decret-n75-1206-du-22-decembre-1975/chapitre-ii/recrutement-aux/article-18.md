@@ -1,9 +1,15 @@
 # Article 18
 
-A égalité d'ancienneté prennent rang :
+A égalité d'ancienneté, prennent rang :
 
-1° Après les sous-lieutenants promus lieutenants, les lieutenants issus de l'école polytechnique, puis ceux qui ont été recrutés au titre de l'article 14-1, puis au titre de l'article 15 et dans l'ordre des 1°, 2° et 3° de cet article ;
+1° Pour le grade de lieutenant :
 
-2° Après les lieutenants promus capitaines, les recrutés au titre de l'article 16 ;
+a) Les lieutenants issus du recrutement prévu au 1° de l'article 6 prenant rang dans l'ordre suivant : ceux admis à l'Ecole spéciale militaire au titre des 1° et 2° puis 3° de l'article 7 puis les lieutenants admis au titre des 1° et 2° de l'article 14 et, enfin, les lieutenants recrutés au titre du 3° de l'article 15 ;
+
+b) Les lieutenants issus du recrutement prévu au 2° de l'article 6 puis les lieutenants recrutés au titre du 2° de l'article 15 ;
+
+c) Les lieutenants issus du recrutement prévu au 3° de l'article 6 puis les lieutenants recrutés au titre du 1° de l'article 15 ;
+
+2° Après les lieutenants promus capitaines, les capitaines recrutés au titre de l'article 16 ;
 
 3° Après les capitaines promus commandants, les commandants recrutés au titre de l'article 16.
