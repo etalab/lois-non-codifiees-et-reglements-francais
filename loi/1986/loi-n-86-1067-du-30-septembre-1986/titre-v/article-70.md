@@ -10,6 +10,4 @@ Les dispositions relatives à la diffusion des oeuvres cinématographiques inclu
 
 3° La grille horaire de programmation des oeuvres cinématographiques de longue durée. ;
 
-4° Le délai à compter de la délivrance du visa d'exploitation au terme duquel la diffusion télévisée des oeuvres cinématographiques de longue durée peut intervenir.
-
 Les dispositions relatives à la diffusion des oeuvres cinématographiques de longue durée sont identiques pour les services publics et privés de communication audiovisuelle diffusés en clair et dont le financement ne fait pas appel à une rémunération de la part des usagers.

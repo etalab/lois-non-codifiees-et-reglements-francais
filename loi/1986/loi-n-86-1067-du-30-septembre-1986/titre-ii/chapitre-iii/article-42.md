@@ -4,4 +4,4 @@ Le Conseil supérieur de l'audiovisuel peut mettre en demeure les titulaires d'a
 
 Le Conseil supérieur de l'audiovisuel rend publiques ces mises en demeure.
 
-Les organisations professionnelles et syndicales, représentatives du secteur de la communication audiovisuelle, peuvent saisir le Conseil supérieur de l'audiovisuel de demandes tendant à ce qu'il engage la procédure prévue à l'alinéa premier du présent article.
+Les organisations professionnelles et syndicales représentatives du secteur de la communication audiovisuelle ainsi que le Conseil national des langues et cultures régionales et les associations familiales reconnues par l'Union nationale des associations familiales peuvent saisir le Conseil supérieur de l'audiovisuel de demandes tendant à ce qu'il engage la procédure prévue au premier alinéa du présent article.

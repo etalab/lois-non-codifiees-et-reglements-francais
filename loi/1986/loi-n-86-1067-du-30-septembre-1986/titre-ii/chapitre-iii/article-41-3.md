@@ -8,7 +8,11 @@ Pour l'application des articles 39, 41, 41-1 et  41-2 :
 
 3° Toute personne physique ou morale qui contrôle, au sens de l'article 11 de la loi n° 86-897 du 1er août 1986 portant réforme du régime juridique de la presse, l'entreprise éditrice d'une publication est regardée comme l'éditeur de cette publication ;
 
-4° En matière de radiodiffusion sonore par voie hertzienne terrestre, est regardé comme ayant un caractère national tout réseau de diffusion desservant une zone dont la population recensée est supérieure à trente millions d'habitants ;
+4° En matière de radiodiffusion sonore par voie hertzienne terrestre :
+
+a) Constitue un réseau tout service ou ensemble de services diffusant un même programme pour une proportion majoritaire du temps d'antenne de chaque service ;
+
+b) Constitue un réseau de diffusion à caractère national tout réseau qui dessert une zone dont la population recensée est supérieure à 30 millions d'habitants ;.
 
 5°  Tout service de télévision diffusé par voie hertzienne terrestre qui dessert une zone géographique dont la population recensée est supérieure à six millions d'habitants est regardé comme un service à caractère national ;
 

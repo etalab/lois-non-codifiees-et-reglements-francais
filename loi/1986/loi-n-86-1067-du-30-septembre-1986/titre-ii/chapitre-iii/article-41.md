@@ -1,6 +1,6 @@
 # Article 41
 
-Une personne qui, en vertu des autorisations relatives à l'usage de fréquences dont elle est titulaire pour la diffusion d'un ou de plusieurs services de radiodiffusion sonore par voie hertzienne terrestre, dispose d'un réseau de diffusion à caractère national, ne peut devenir titulaire d'une ou de plusieurs autorisations d'usage de fréquences pour la diffusion de services de radiodiffusion sonore par voie hertzienne terrestre que dans la mesure où la population recensée dans les zones qu'elle dessert sur le fondement des nouvelles autorisations est inférieure à quinze millions d'habitants [*population, nombre*].
+Une même personne physique ou morale ne peut, sur le fondement d'autorisations relatives à l'usage de fréquences dont elle est titulaire pour la diffusion d'un ou de plusieurs services de radiodiffusion sonore par voie hertzienne terrestre, ou par le moyen d'un programme qu'elle fournit à d'autres titulaires d'autorisation, disposer en droit ou en fait de plusieurs réseaux que dans la mesure où la somme des populations recensées dans les zones desservies par ces différents réseaux n'excède pas 150 millions d'habitants.
 
 Nul ne peut être titulaire de deux autorisations relatives chacune à un service national de télévision diffusé par voie hertzienne terrestre, ni être simultanément titulaire d'une autorisation relative à un service national de télévision diffusé par voie hertzienne terrestre et d'une autorisation relative à un service de même nature autre que national.
 
