@@ -1,10 +1,10 @@
 # Article 5
 
-Les porcs de boucherie destinés aux régions indemnes doivent être acheminés directement vers l'abattoir de destination.
+Sans préjudice des dispositions de l'arrêté du 20 juin 1996 susvisé, les porcs d'élevage issus d'une région française non indemne et destinés à une région française indemne doivent répondre aux conditions suivantes :
 
 Ils doivent répondre aux conditions suivantes :
 
-1. Ils proviennent d'un Etat membre où la maladie d'Aujeszky est à déclaration obligatoire ;
+1. (alinéa supprimé) ;
 
 2. S'ils sont vaccinés contre la maladie d'Aujeszky, le vaccin utilisé doit être le vaccin délété gl à compter du 1er juillet 1994 ;
 

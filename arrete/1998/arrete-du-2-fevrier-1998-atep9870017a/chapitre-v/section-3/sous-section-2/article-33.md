@@ -100,13 +100,7 @@ DCO : 600 g/t de matière première traitée ;
 
 MEST : 100 g/t de matière première traitée.
 
-7° Equarrissages : les flux spécifiques ne dépassent pas :
-
-DBO5 : 150 g/t de matières premières ;
-
-DCO : 600 g/t de matières premières ;
-
-MEST : 100 g/t de matières premières.
+7° Alinéa supprimé
 
 8° Malteries : les flux spécifiques ne dépassent pas :
 
@@ -152,15 +146,11 @@ b) Les eaux résiduaires rejetées au milieu naturel respectent soit les valeurs
 
 (Tableau non reproduit)
 
-En outre, pour les stations situées dans les zones sensibles visées au b du 2° de l'article 32 du présent arrêté, les eaux résiduaires rejetées au milieu naturel respectent, en moyenne mensuelle, soit les valeurs limites en concentration, soit les valeurs limites en rendement définies par le tableau ci-après :
-
-(Tableau non reproduit)
-
 Pour les paramètres MEST, DBO5, DCO, azote global et phosphore total, des rendements minimaux moins élevés peuvent, le cas échéant, être fixés, sous réserve que les objectifs de réduction des flux de substances polluantes de l'agglomération définis en application du décret n° 94-469 du 3 juin 1994 soient respectés.
 
 Pour l'ensemble des paramètres, les valeurs limites ne sont applicables qu'en conditions normales d'exploitation, c'est-à-dire pour des débits et des flux compatibles avec les paramètres adoptés lors du dimensionnement des installations.
 
-En dérogation aux dispositions de l'article 21 III du présent arrêté, le nombre annuel de résultats non conformes à la fois aux valeurs limites en concentration et en rendement pour les paramètres MEST, DBO5 et DCO ne dépasse pas le nombre prescrit au tableau en annexe VIII.
+En dérogation aux dispositions de l'article 21-III du présent arrêté, le nombre annuel de résultats non conformes à la fois aux valeurs limites en concentration et en rendement pour les paramètres MEST, DBO5 et DCO ne dépasse pas le nombre prescrit au tableau en annexe VIII.
 
 Par ailleurs, les résultats des mesures en concentration ne peuvent pas s'écarter des valeurs limites prescrites :
 

@@ -42,9 +42,7 @@ Pour les autres unités le taux de conversion est d'au moins 99,6 % lorsque la t
 
 La valeur limite de flux spécifique pour la moyenne des rejets d'oxydes d'azote, hormis le N2O, exprimés en HNO3 est de 1,3 kg/tonne produite d'acide nitrique (100 %) et la valeur limite de flux spécifique pour la moyenne des rejets de protoxyde d'azote N2O est de 7 kg/tonne produite d'acide nitrique (100 %).
 
-7° Equarrissages : le dernier alinéa de l'article 29 est remplacé par l'alinéa suivant :
-
-Dans le cas des équarrissages, le débit d'odeur ne dépasse pas 1 000 000 m3/h.
+7° Alinéa supprimé
 
 8° Sidérurgie :
 

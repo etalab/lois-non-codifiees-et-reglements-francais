@@ -14,7 +14,7 @@ III. - Les dispositions du 14° de l'article 33 relatives aux valeurs limites de
 
 Les dispositions relatives à la surveillance des rejets énoncées par l'article 60 sont également applicables aux stations d'épuration mixtes existantes d'une capacité supérieure à 100 000 EH. Elles s'appliquent aux autres installations existantes à compter du 10 février 1999.
 
-IV. - Les dispositions des articles 36 à 42 relatives à l'épandage des déchets ou des effluents sont applicables aux installations existantes, pour lesquelles une autorisation d'épandage est déjà donnée, à compter du 1er janvier 2002, sauf pour l'épandage des boues issues des stations d'épuration des installations d'équarrissage, qui est interdit dans un délai de un an à compter de la publication du présent arrêté.
+IV. - Les dispositions des articles 36 à 42 relatives à l'épandage des déchets ou des effluents sont applicables aux installations existantes, pour lesquelles une autorisation d'épandage est déjà donnée, à compter du 1er janvier 2002.
 
 V. - Les dispositions du 8° de l'article 27 relatives aux rejets de métaux sont applicables aux installations existantes à compter du 1er janvier 2003.
 

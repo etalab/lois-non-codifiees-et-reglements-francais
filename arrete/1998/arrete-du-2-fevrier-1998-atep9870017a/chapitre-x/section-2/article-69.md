@@ -8,4 +8,4 @@ Sont applicables immédiatement aux installations existantes et aux installation
 
 - du a du 3° de l'article 60 ;
 
-- des 4°, 5°, 6°, 7°, 8° et 11° de l'article 33.
+- des 4°, 5°, 6°, 8° et 11° de l'article 33.
