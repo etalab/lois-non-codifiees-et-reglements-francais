@@ -1,4 +1,4 @@
-# Arrêté du 30 juin 1975 fixant la répartition des redevances cynégétiques
+# Arrêté du 30 juin 1975 fixant les modalités de délivrance, de visa et de validation du permis de chasser et de procédure de versement à l'office national de la chasse des redevances cynégétiques lui revenant
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
