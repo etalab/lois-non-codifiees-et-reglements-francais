@@ -2,7 +2,7 @@
 
 Il est institué une Commission nationale de désendettement des rapatriés réinstallés dans une profession non salariée. Elle est composée :
 
-- d'un magistrat de la Cour des comptes en activité ou honoraire, désigné par le premier président de la Cour des comptes, président ;
+- d'un magistrat de la Cour des comptes en activité ou honoraire, désigné par le premier président de la Cour des comptes, président. Un président suppléant est nommé par arrêté conjoint du ministre chargé des rapatriés et du ministre de l'économie, des finances et de l'industrie. Il remplace le président en cas d'absence et dispose des mêmes pouvoirs que lui ;
 
 - d'un représentant du ministre chargé des rapatriés ;
 
