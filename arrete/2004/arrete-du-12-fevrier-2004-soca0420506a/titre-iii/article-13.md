@@ -1,0 +1,7 @@
+# Article 13
+
+Sur la base du livret de présentation des acquis de l'expérience et d'un entretien avec le candidat, le jury est compétent pour attribuer tout ou partie du diplôme de médiateur familial.
+
+Ce jury est composé conformément à l'article 6 du décret du 2 décembre 2003 susvisé et le collège des représentants qualifiés des professionnels de la médiation familiale est composé pour moitié de représentants des employeurs de médiateurs familiaux, pour moitié de médiateurs familiaux qualifiés ayant exercé une activité de médiation pendant au moins trois années et n'exerçant pas en tant que formateur permanent à la médiation familiale.
+
+En cas d'attribution partielle, le jury se prononce également sur les connaissances, aptitudes et compétences qui, dans un délai de cinq ans à compter de la date de notification de la décision du jury par la direction régionale des affaires sanitaires et sociales, doivent faire l'objet d'une évaluation complémentaire nécessaire à l'obtention du diplôme. En vue de cette évaluation, le candidat peut opter pour un complément d'expérience professionnelle visant une nouvelle demande de validation des acquis de l'expérience ou pour un complément par la voie de la formation préparant au diplôme. Dans ce cas, il est dispensé des épreuves du diplôme de médiateur familial attachées aux compétences déjà validées et bénéficie des allégements de formation correspondants.

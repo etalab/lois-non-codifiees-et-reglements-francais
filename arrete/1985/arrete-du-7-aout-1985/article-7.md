@@ -2,20 +2,22 @@
 
 Les traitements informatisés :
 
-" FIP (fichier des contribuables à l'impôt sur le revenu, à la taxe d'habitation et à l'impôt de solidarité sur la fortune) ;
+"FIP (fichier des contribuables à l'impôt sur le revenu, à la taxe d'habitation et à l'impôt de solidarité sur la fortune) ;
 
-" Medoc (mécanisation des opérations comptables, gestion des taxes sur le chiffre d'affaires) ;
+"Medoc (mécanisation des opérations comptables, gestion des taxes sur le chiffre d'affaires) ;
 
-" Singapour (fichier des propriétaires) ;
+"Singapour (fichier des propriétaires) ;
 
-" Majic 2 (mise à jour des informations cadastrales, gestion des rôles fonciers) ;
+"Majic 2 (mise à jour des informations cadastrales, gestion des rôles fonciers) ;
 
-" I.S.F. (impôt de solidarité sur la fortune),
+"TSE (transparence des structures existantes) ;
 
-" fournissent au système SPI les informations nominatives nécessaires à sa constitution et à sa mise à jour.
+"I.S.F. (impôt de solidarité sur la fortune),
 
-" SPI délivre à chacun d'eux les numéros fiscaux qu'il a attribués aux personnes figurant sur leurs fichiers.
+"fournissent au système SPI les informations nominatives nécessaires à sa constitution et à sa mise à jour.
 
-" Les traitements ci-avant énumérés ainsi que le traitement TDS (transfert de données sociales) peuvent consulter le système SPI.
+"SPI délivre à chacun d'eux les numéros fiscaux qu'il a attribués aux personnes figurant sur leurs fichiers.
 
-" SPI peut être également interrogé par les services de la direction générale des impôts et de la direction de la comptabilité publique, habilités à avoir accès aux informations correspondantes.
+"Les traitements ci-avant énumérés ainsi que le traitement TDS (transfert de données sociales) peuvent consulter le système SPI.
+
+"SPI peut être également interrogé par les services de la direction générale des impôts et de la direction de la comptabilité publique, habilités à avoir accès aux informations correspondantes.
