@@ -1,25 +1,15 @@
 # Article 2
 
-Les fonds détenus par les Sicav sont déposés auprès de :
+Les fonds et les titres détenus par les sociétés d'investissement à capital variable [*SICAV*] sont déposés auprès de :
 
 La Banque de France ;
 
 La caisse des dépôts et consignations ;
 
-Le Crédit foncier de France ;
-
-La caisse nationale de crédit agricole ;
-
-La caisse centrale de crédit mutuel ;
-
-La caisse centrale des banques populaires ;
-
-Les banques inscrites par le conseil national du crédit ;
+Les établissements de crédit ;
 
 Les agents de change ;
 
-Les sociétés d'assurances sur la vie ou de capitalisation régies par le code des assurances ;
+Les entreprises d'assurances sur la vie ou de capitalisation régies par le code des assurances ;
 
-La banque française du commerce extérieur ;
-
-La caisse nationale de crédit agricole.
+Les établissements visés à l'article 99 de la loi n° 84-46 du 24 janvier 1984 relative à l'activité et au contrôle  des établissements de crédit.
