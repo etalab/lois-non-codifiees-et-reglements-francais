@@ -1,23 +1,3 @@
 # Article 6
 
-A compter de la date de délivrance du permis, la mise en exploitation peut intervenir dans un délai ainsi fixé :
-
-a) Pour les opérations de construction de navires :
-
-- quatre ans pour les navires de vingt-cinq mètres et plus ;
-
-- trois ans pour les navires de douze mètres à moins de vingt-cinq mètres ;
-
-- deux ans pour les navires de moins de douze mètres.
-
-b) Pour les opérations d'augmentation de jauge ou de puissance :
-
-- trois ans pour les navires de vingt-cinq mètres et plus ;
-
-- deux ans pour les navires de douze mètres à moins de vingt-cinq mètres ;
-
-- un an pour les navires de moins de douze mètres.
-
-c) Dans les autres cas : six mois.
-
-Ce délai peut être prorogé, pour un an au plus, par décision de l'autorité chargée de délivrer le permis de mise en exploitation, lorsque le titulaire apporte la preuve que l'inexécution du projet est due à des causes indépendantes de sa volonté.
+Le permis de mise en exploitation peut être délivré, le cas échéant, au-delà du contingent fixé à l'article 2 et dans les conditions prévues aux articles 3 et 4 aux navires dont le permis de mise en exploitation, lors du dépôt de la demande, est périmé depuis un an au plus à la suite de l'immobilisation du navire due à des difficultés économiques et financières, au décès du propriétaire ou à sa maladie entraînant une incapacité de travail ou à des avaries graves. Ce délai est suspendu lorsque l'entreprise fait l'objet d'une décision d'ouverture d'une procédure de redressement judiciaire et jusqu'à la décision du tribunal.
