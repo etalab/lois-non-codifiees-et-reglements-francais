@@ -16,6 +16,7 @@
 - [Décret n°91-1011 du 2 octobre 1991 (SANP9101395D)](decret-n91-1011-du-2-octobre-1991-sanp9101395d)
 - [Décret n°91-1012 du 2 octobre 1991 (SANP9101396D)](decret-n91-1012-du-2-octobre-1991-sanp9101396d)
 - [Décret n°91-1016 du 2 octobre 1991 (MAEJ9130056D)](decret-n91-1016-du-2-octobre-1991-maej9130056d)
+- [Décret n°91-1023 du 2 octobre 1991 (ECOP9100541D)](decret-n91-1023-du-2-octobre-1991-ecop9100541d)
 - [Décret n°91-241 du 2 mars 1991 (ECOZ9100018D)](decret-n91-241-du-2-mars-1991-ecoz9100018d)
 - [Décret n°91-333 du 2 avril 1991 (SANG9100246D)](decret-n91-333-du-2-avril-1991-sang9100246d)
 - [Décret n°91-335 du 2 avril 1991 (DEFD9002069D)](decret-n91-335-du-2-avril-1991-defd9002069d)
