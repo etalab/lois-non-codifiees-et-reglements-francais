@@ -178,7 +178,6 @@
 - [Arrêté du 6 décembre 1991 (SANH9102693A)](arrete-du-6-decembre-1991-sanh9102693a)
 - [Arrêté du 6 décembre 1991 (SANH9102703A)](arrete-du-6-decembre-1991-sanh9102703a)
 - [Arrêté du 6 février 1991 (RESY9000314A)](arrete-du-6-fevrier-1991-resy9000314a)
-- [Arrêté du 6 février 1991 (SANP9100381A)](arrete-du-6-fevrier-1991-sanp9100381a)
 - [Arrêté du 6 mars 1991 (EQUC9100387A)](arrete-du-6-mars-1991-equc9100387a)
 - [Arrêté du 6 novembre 1991 (PRMG9170433A)](arrete-du-6-novembre-1991-prmg9170433a)
 - [Arrêté du 6 septembre 1991 (INTB9100375A)](arrete-du-6-septembre-1991-intb9100375a)
