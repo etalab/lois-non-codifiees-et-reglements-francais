@@ -12,6 +12,7 @@
 - [Décret n°67-128 du 14 février 1967](decret-n67-128-du-14-fevrier-1967)
 - [Décret n°67-91 du 20 janvier 1967](decret-n67-91-du-20-janvier-1967)
 - [Décret n°67-600 du 23 juillet 1967](decret-n67-600-du-23-juillet-1967)
+- [Décret n°67-161 du 24 février 1967](decret-n67-161-du-24-fevrier-1967)
 - [Décret n°68-929 du 24 octobre 1968](decret-n68-929-du-24-octobre-1968)
 - [Décret n°67-78 du 27 janvier 1967](decret-n67-78-du-27-janvier-1967)
 - [Décret n°66-1032 du 29 décembre 1966](decret-n66-1032-du-29-decembre-1966)
