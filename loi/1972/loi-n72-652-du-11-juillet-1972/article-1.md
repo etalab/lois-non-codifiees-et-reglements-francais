@@ -1,0 +1,11 @@
+# Article 1
+
+Les sociétés coopératives de commerçants détaillants [*définition*] ont pour objet d'améliorer, par l'effort commun de leurs associés, les conditions dans lesquelles ceux-ci exercent leur profession commerciale. A cet effet, elles peuvent exercer pour le compte de leurs associés les activités suivantes :
+
+a) Fournir en totalité ou en partie à leurs associés les marchandises, denrées ou services, l'équipement et le matériel nécessaires à l'exercice de leur commerce, notamment par la constitution et l'entretien de tout stock de marchandises, la construction, l'acquisition ou la location ainsi que la gestion de magasins et entrepôts particuliers, l'accomplissement dans leurs établissements ou dans ceux de leurs associés de toutes opérations, transformations et modernisation utiles ;
+
+b) Regrouper dans une même enceinte les commerces appartenant à leurs associés, créer et gérer tous services communs à l'exploitation de ces commerces, construire, acquérir ou louer les immeubles nécessaires à leur activité ou à celle des associés, et en assurer la gestion, le tout dans les conditions prévues par la loi n° 72-651 du 11 juillet 1972 relative aux magasins collectifs de commerçants indépendants ;
+
+c) Dans le cadre des dispositions législatives concernant les activités financières, faciliter l'accès des associés et de leur clientèle aux divers moyens de financement et de crédit ;
+
+d) Exercer les activités complémentaires à celles énoncées ci-dessus, et notamment fournir à leurs associés une assistance en matière de gestion technique, financière et comptable.
