@@ -1,3 +1,3 @@
 # Article 2
 
-Le taux de l'intérêt de crédit des obligations cautionnées souscrites en règlement des droits, taxes et autres produits recouvrés par la direction générale des douanes et droits indirects est porté de 13, 60 % à 14, 5 % l'an à partir du 4 novembre 1981.
+Le montant des dépenses devant être remboursées à l'institut national de recherche et de sécurité par les demandeurs de visas d'examen technique est fixé forfaitairement chaque année, par catégorie de matériels, dans un barème approuvé par le ministre du travail et publié au Journal officiel de la République française.

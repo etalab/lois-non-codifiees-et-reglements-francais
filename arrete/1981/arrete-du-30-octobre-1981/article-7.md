@@ -1,0 +1,7 @@
+# Article 7
+
+Les dispositions transitoires ci-après s'appliquent pendant la période comprise entre la date d'entrée en vigueur de chacun des décrets susvisés du 20 février 1981, du 15 avril 1981 et du 13 octobre 1981 et la date de visa d'examen technique obligatoire prévue, par catégorie de matériels, à l'article 3 du présent arrêté.
+
+Les titulaires d'homologation accordées par le ministre du travail avant la date d'application des décrets mentionnés au premier alinéa ci-dessus continuent à bénéficier de ces homologations, sous réserve que leurs matériels soient conformes aux nouvelles prescriptions techniques d'hygiène et de sécurité fixées dans lesdits décrets.
+
+Lorsqu'un constructeur ou un importateur envisage d'exposer, de mettre en vente, de vendre, d'importer, de louer ou de céder à quelque titre que ce soit un modèle nouveau de machine ou de protecteur avant la date de visa d'examen technique obligatoire, une homologation à caractère temporaire peut lui être accordée par le ministre du travail en application des articles R. 233-53 à R. 233-55 du code du travail. Dans ce cas, le constructeur ou l'importateur présente une demande d'homologation accompagnée d'un dossier constitué conformément à l'article 5 du présent arrêté ; cette demande est adressée au ministère du travail (direction des relations du travail, bureau de la sécurité du travail) 1, place de Fontenoy, 75700 Paris [*adresse*].
