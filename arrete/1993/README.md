@@ -516,7 +516,6 @@
 - [Arrêté du 16 mars 1993 (TEFE9300356A)](arrete-du-16-mars-1993-tefe9300356a)
 - [Arrêté du 16 novembre 1992 (TEFT9205453A)](arrete-du-16-novembre-1992-teft9205453a)
 - [Arrêté du 16 novembre 1993 (BUDW9300001A)](arrete-du-16-novembre-1993-budw9300001a)
-- [Arrêté du 16 novembre 1993 (COMX9307002A)](arrete-du-16-novembre-1993-comx9307002a)
 - [Arrêté du 16 novembre 1993 (SPSS9303055A)](arrete-du-16-novembre-1993-spss9303055a)
 - [Arrêté du 16 novembre 1993 (SPSS9303056A)](arrete-du-16-novembre-1993-spss9303056a)
 - [Arrêté du 16 septembre 1993 (BUDR9305029A)](arrete-du-16-septembre-1993-budr9305029a)
