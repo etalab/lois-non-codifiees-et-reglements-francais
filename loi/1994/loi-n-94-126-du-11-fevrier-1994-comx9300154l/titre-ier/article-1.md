@@ -1,0 +1,3 @@
+# Article 1
+
+Les dispositions du présent titre sont applicables aux relations entre, d'une part, les entreprises et, d'autre part, les administrations de l'Etat, les établissements publics de l'Etat à caractère administratif, les collectivités locales, leurs groupements et leurs établissements publics à caractère administratif, les personnes privées chargées d'un service public administratif, à l'exception des ordres professionnels, les organismes gérant des régimes de protection sociale relevant du code de la sécurité sociale et du code rural ou visés aux articles L. 223-16 et L. 351-21 du code du travail et les organismes chargés de la tenue d'un registre de publicité légale, y compris les greffes.

@@ -1,0 +1,5 @@
+# Article 51
+
+Dans le délai d'un an à compter de la publication de la présente loi, le Gouvernement déposera sur le bureau des assemblées un rapport dressant l'état d'application de ladite loi, notamment de l'article 32 ci-dessus et le bilan des expérimentations prévues par cet article.
+
+Ce rapport examinera également les conditions dans lesquelles les entreprises comptant moins de dix salariés pourraient, à chaque échéance, régler en un seul paiement les cotisations qu'elles ont à verser aux organismes visés à l'alinéa 1er de l'article 32 précité.    Ce même rapport présentera aussi, d'une part, une étude détaillée sur les modalités dans lesquelles pourrait être mise en oeuvre une simplification de la présentation des bulletins de salaires et de la déclaration annuelle des données sociales, notamment dans les entreprises comptant moins de dix salariés et, d'autre part, les modalités et les délais dans lesquels devront être abrogés l'article L. 143-5 du code du travail, ainsi que l'obligation d'authentifier les livres comptables.

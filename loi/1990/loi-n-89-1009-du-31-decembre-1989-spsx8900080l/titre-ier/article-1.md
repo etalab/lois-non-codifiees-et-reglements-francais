@@ -11,3 +11,5 @@ b) Institutions relevant du titre III du livre VII du code de la sécurité soci
 c) Institutions relevant de la section 4 du chapitre II du titre II du livre VII du code rural ;
 
 d) Mutuelles relevant du code de la mutualité.
+
+e) Organismes visés aux 1°, 2°, 3° de l'article L. 621-3 et aux articles L. 644-1 et L. 723-1 du code de la sécurité sociale pour les opérations mises en place dans le cadre des dispositions de l'article 41 de la loi n° 94-126 du 11 février 1994 relative à l'initiative et à l'entreprise individuelle.

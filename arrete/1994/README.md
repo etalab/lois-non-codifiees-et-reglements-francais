@@ -100,6 +100,7 @@
 - [Arrêté du 17 janvier 1994 (JUSA9400047A)](arrete-du-17-janvier-1994-jusa9400047a)
 - [Arrêté du 17 janvier 1994 (MENA9400015A)](arrete-du-17-janvier-1994-mena9400015a)
 - [Arrêté du 17 janvier 1994 (SANP9400259A)](arrete-du-17-janvier-1994-sanp9400259a)
+- [Arrêté du 17 janvier 1994 (SPSA9400260A)](arrete-du-17-janvier-1994-spsa9400260a)
 - [Arrêté du 18 janvier 1994 (AGRE9400136A)](arrete-du-18-janvier-1994-agre9400136a)
 - [Arrêté du 19 janvier 1994 (ECOC9400009A)](arrete-du-19-janvier-1994-ecoc9400009a)
 - [Arrêté du 19 janvier 1994 (RESK9301608A)](arrete-du-19-janvier-1994-resk9301608a)
