@@ -1,8 +1,6 @@
-# Décret du 8 décembre 1936 relatif à la définition de l'appellation contrôlée "Néac"
+# Décret du 8 décembre 1936 relatif à l'appellation d'origine contrôlée "Pomerol"
 
 - [Article 1](article-1.md)
-- [Article 1 bis](article-1-bis.md)
-- [Article 1 ter](article-1-ter.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
