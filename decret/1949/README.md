@@ -11,6 +11,7 @@
 - [Décret n°51-1423 du 5 décembre 1951](decret-n51-1423-du-5-decembre-1951)
 - [Décret du 10 novembre 1949](decret-du-10-novembre-1949)
 - [Décret n°49-1470 du 10 novembre 1949](decret-n49-1470-du-10-novembre-1949)
+- [Décret n°49-55 du 11 janvier 1949](decret-n49-55-du-11-janvier-1949)
 - [Décret n°49-1473 du 14 novembre 1949](decret-n49-1473-du-14-novembre-1949)
 - [Décret n°49-201 du 14 février 1949](decret-n49-201-du-14-fevrier-1949)
 - [Décret n°49-508 du 14 avril 1949](decret-n49-508-du-14-avril-1949)

@@ -1,0 +1,3 @@
+# Article 2
+
+En cas de disparité entre le franc et la monnaie ayant cours dans un département d'outre-mer, le montant établi en francs du traitement indiciaire, de l'indemnité compensatrice prévue par le décret du 10 septembre 1947, de l'indemnité de résidence et du supplément familial de traitement ainsi que de la majoration de traitement instituée par la loi n° 50-407 du 3 avril 1950 et de ses compléments est payé aux fonctionnaires en service dans le département considéré pour sa contre-valeur en monnaie locale d'après la parité en vigueur au cours de la période sur laquelle porte la liquidation multipliée par un index de correction fixé par arrêté du ministre de l'Economie et des Finances et du ministre d'Etat chargé des Départements et Territoires d'outre-mer.
