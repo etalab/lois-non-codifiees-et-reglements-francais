@@ -6,9 +6,9 @@ a) Le traitement de base :
 
 Le traitement de base correspond :
 
-- pour les personnels titulaires en position de détachement au traitement correspondant à l'indice hiérarchique qu'ils détiennent dans leur corps ou cadre d'emplois d'origine à la date de début du contrat ;
+-pour les personnels titulaires en position de détachement au traitement correspondant à l'indice hiérarchique qu'ils détiennent dans leur corps ou cadre d'emplois d'origine à la date de début du contrat ;
 
-- pour les personnels non titulaires au traitement correspondant à l'indice hiérarchique stipulé par leur contrat conformément à l'article 4, alinéa 3, du décret du 28 mars 1967 susvisé. Cet indice résulte de l'application des dispositions statutaires qui régissent la situation de l'agent ou, à défaut, il est fixé par référence à l'un des corps ou cadres d'emplois de la fonction publique appelé à exercer des fonctions similaires.
+-pour les personnels non titulaires au traitement correspondant à l'indice hiérarchique stipulé par leur contrat conformément à l'article 4, alinéa 3, du décret du 28 mars 1967 susvisé. Cet indice résulte de l'application des dispositions statutaires qui régissent la situation de l'agent ou, à défaut, il est fixé par référence à l'un des corps ou cadres d'emplois de la fonction publique appelé à exercer des fonctions similaires.
 
 L'indice de rémunération ne peut être modifié en cours de contrat.
 
@@ -20,31 +20,271 @@ A cette fin, chaque fonction est classée par pays et par poste dans un groupe d
 
 1° Conseiller de gouvernement
 
-Vous pouvez consulter le tableau dans le JO
+<table>
+<tbody>
+<tr>
+<td>
+<pre/>
+</td>
+<td>
+<p>GROUPE D'INDEMNITÉ </p>
+<p>de résidence </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hors classe </p>
+</td>
+<td>
+<p>6 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1re classe </p>
+</td>
+<td>
+<p>8 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e classe </p>
+</td>
+<td>
+<p>9 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e classe </p>
+</td>
+<td>
+<p>10 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e classe </p>
+</td>
+<td>
+<p>12 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>5e classe </p>
+</td>
+<td rowspan="2">
+<p>14 </p>
+</td>
+</tr>
+</tbody>
+</table>
 
-n° 43 du 20/02/2002 page 3280 à 3282
+2° Conseiller de directeur, chef de projet, coordonnateur de programmes
 
-2° Conseiller de directeur, chef de projet,
+<table>
+<tbody>
+<tr>
+<td>
+<pre/>
+</td>
+<td>
+<p align="center">GROUPE D'INDEMNITÉ </p>
+<br/>
+<p align="center">de résidence </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>Hors classe </p>
+</td>
+<td>
+<p align="center">8 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1 <sup>re </sup>classe </p>
+</td>
+<td>
+<p align="center">9 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2 <sup>e </sup>classe </p>
+</td>
+<td>
+<p align="center">10 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3 <sup>e </sup>classe </p>
+</td>
+<td>
+<p align="center">12 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4 <sup>e </sup>classe </p>
+</td>
+<td>
+<p align="center">14 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5 <sup>e </sup>classe </p>
+</td>
+<td>
+<p align="center">16 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e classe </p>
+</td>
+<td>
+<p align="center">17 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>
+<sup>7e </sup>classe </p>
+</td>
+<td rowspan="2">
+<p align="center">20 </p>
+</td>
+</tr>
+</tbody>
+</table>
 
-coordonnateur de programmes
+3° Expert sectoriel, responsable d'une composante de projet ou de programme
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 43 du 20/02/2002 page 3280 à 3282
-
-3° Expert sectoriel, responsable d'une composante de projet
-
-ou de programme
-
-Vous pouvez consulter le tableau dans le JO
-
-n° 43 du 20/02/2002 page 3280 à 3282
+<table>
+<tbody>
+<tr>
+<td>
+<pre/>
+</td>
+<td>
+<p align="center">GROUPE D'INDEMNITÉ </p>
+<br/>
+<p align="center">de résidence </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1re classe </p>
+</td>
+<td>
+<p align="center">10 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e classe </p>
+</td>
+<td>
+<p align="center">12 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e classe </p>
+</td>
+<td>
+<p align="center">14 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>4e classe </p>
+</td>
+<td>
+<p align="center">17 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>5e classe </p>
+</td>
+<td>
+<p align="center">19 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>6e classe </p>
+</td>
+<td>
+<p align="center">20 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>7e classe </p>
+</td>
+<td rowspan="2">
+<p align="center">23 </p>
+</td>
+</tr>
+</tbody>
+</table>
 
 4° Enseignement direct et techniciens
 
-Vous pouvez consulter le tableau dans le JO
-
-n° 43 du 20/02/2002 page 3280 à 3282
+<table>
+<tbody>
+<tr>
+<td>
+<pre/>
+</td>
+<td>
+<p align="center">GROUPE D'INDEMNITÉ </p>
+<br/>
+<p align="center">de résidence </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>1re classe </p>
+</td>
+<td>
+<p align="center">20 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>2e classe </p>
+</td>
+<td>
+<p align="center">22 </p>
+</td>
+</tr>
+<tr>
+<td>
+<p>3e classe </p>
+</td>
+<td>
+<p align="center">23 </p>
+</td>
+</tr>
+<tr>
+<td rowspan="2">
+<p>4e classe </p>
+</td>
+<td rowspan="2">
+<p align="center">30 </p>
+</td>
+</tr>
+</tbody>
+</table>
 
 5° L'agent qui serait appelé à cumuler deux des fonctions susmentionnées est classé dans le groupe d'indemnité de résidence le plus favorable au regard des fonctions qu'il occupe.
 
