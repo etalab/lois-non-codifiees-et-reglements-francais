@@ -125,7 +125,6 @@
 - [Arrêté du 3 mai 1995 (EQUK9500915A)](arrete-du-3-mai-1995-equk9500915a)
 - [Arrêté du 3 mai 1995 (INDP9500562A)](arrete-du-3-mai-1995-indp9500562a)
 - [Arrêté du 3 mai 1995 (INDP9500563A)](arrete-du-3-mai-1995-indp9500563a)
-- [Arrêté du 3 mai 1995 (INDP9500564A)](arrete-du-3-mai-1995-indp9500564a)
 - [Arrêté du 3 mai 1995 (MCCK9500136A)](arrete-du-3-mai-1995-mcck9500136a)
 - [Arrêté du 3 mai 1995 (MCCK9500137A)](arrete-du-3-mai-1995-mcck9500137a)
 - [Arrêté du 3 mai 1995 (MCCK9500138A)](arrete-du-3-mai-1995-mcck9500138a)
