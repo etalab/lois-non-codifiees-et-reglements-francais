@@ -1,5 +1,6 @@
 # 1978
 
+- [Décret n°78-806 du 1 août 1978](decret-n78-806-du-1-aout-1978)
 - [Décret n°78-520 du 3 avril 1978](decret-n78-520-du-3-avril-1978)
 - [Décret n°78-526 du 3 avril 1978](decret-n78-526-du-3-avril-1978)
 - [Décret n°78-704 du 3 juillet 1978](decret-n78-704-du-3-juillet-1978)

@@ -1,0 +1,5 @@
+# Article 4
+
+La prime et, le cas échéant, la subvention à la coopération, peuvent être attribuées aux sociétés civiles ou commerciales qui ont pour objet la construction de bâtiments à usage professionnel ou l'achat de matériel neuf destinés à être utilisés en crédit-bail ou en location-vente par les entreprises de stockage, de transformation et de commercialisation des produits agricoles et alimentaires. Dans ce cas, les conditions prévues à l'article 2 du présent décret s'appliquent à l'ensemble des programmes d'investissement hors taxes réalisés par ces sociétés et par les entreprises ayant recours à leurs services.
+
+Le montant des primes attribuées aux sociétés visées à l'alinéa précédent est fixé proportionnellement aux parts que celles-ci prennent dans les programmes d'investissement. Ces sociétés ne peuvent prétendre à l'attribution de primes que si elles justifient avoir consenti aux entreprises utilisatrices des bâtiments et du matériel compris dans les programmes des avantages correspondant à ceux qu'elles tirent de cette attribution.
