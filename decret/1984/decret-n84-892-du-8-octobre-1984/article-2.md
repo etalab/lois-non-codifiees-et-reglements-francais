@@ -4,7 +4,7 @@ L'union centrale des caisses de crédit municipal est administrée par un consei
 
 1° Trois membres de droit : le directeur du Trésor ou son représentant, le directeur de la comptabilité publique ou son représentant et le directeur général des collectivités locales ou son représentant ;
 
-2° Quatre membres qui sont élus pour trois ans parmi les présidents des caisses de crédit municipal par un collège composé de l'ensemble des présidents de ces caisses, selon des modalités définies par arrêté conjoint du ministre chargé de l'économie et du ministre de l'intérieur et de la décentralisation.
+2° Quatre membres qui sont élus pour trois ans parmi les présidents et vice-présidents des caisses de crédit municipal par un collège composé de l'ensemble des présidents et vice-présidents de ces caisses, selon des modalités définies par arrêté conjoint du ministre chargé de l'économie et des finances et du ministre de l'intérieur.
 
 Chacun des membres désignés en application de l'alinéa précédent a un suppléant qu'il désigne parmi ceux des membres du conseil d'administration de la caisse à laquelle il appartient qui ont été élus en application du a du 2° de l'article 1er du décret du 7 octobre 1983 susvisé ;
 
