@@ -767,7 +767,6 @@
 - [Décret n°96-90 du 31 janvier 1996 (PRMP9560003D)](decret-n96-90-du-31-janvier-1996-prmp9560003d)
 - [Décret n°96-91 du 31 janvier 1996 (TASS9523449D)](decret-n96-91-du-31-janvier-1996-tass9523449d)
 - [Décret n°96-471 du 31 mai 1996 (TASS9621524D)](decret-n96-471-du-31-mai-1996-tass9621524d)
-- [Décret n°96-473 du 31 mai 1996 (COMK9604002D)](decret-n96-473-du-31-mai-1996-comk9604002d)
 - [Décret n°96-474 du 31 mai 1996 (EQUA9600522D)](decret-n96-474-du-31-mai-1996-equa9600522d)
 - [Décret n°96-478 du 31 mai 1996 (MCCL9600061D)](decret-n96-478-du-31-mai-1996-mccl9600061d)
 - [Décret n°96-479 du 31 mai 1996 (AGRS9600447D)](decret-n96-479-du-31-mai-1996-agrs9600447d)
