@@ -953,7 +953,6 @@
 - [Décret n°95-494 du 25 avril 1995 (INDG9500211D)](decret-n95-494-du-25-avril-1995-indg9500211d)
 - [Décret n°95-495 du 25 avril 1995 (BUDD9550010D)](decret-n95-495-du-25-avril-1995-budd9550010d)
 - [Décret n°95-82 du 25 janvier 1995 (AGRS9402388D)](decret-n95-82-du-25-janvier-1995-agrs9402388d)
-- [Décret n°95-852 du 25 juillet 1995 (INDD9500658D)](decret-n95-852-du-25-juillet-1995-indd9500658d)
 - [Décret n°95-862 du 25 juillet 1995 (SANP9502095D)](decret-n95-862-du-25-juillet-1995-sanp9502095d)
 - [Décret n°95-942 du 25 août 1995 (SPSS9502509D)](decret-n95-942-du-25-aout-1995-spss9502509d)
 - [Décret n°95-943 du 25 août 1995 (SPSS9502510D)](decret-n95-943-du-25-aout-1995-spss9502510d)

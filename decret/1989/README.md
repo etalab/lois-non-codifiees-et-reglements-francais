@@ -203,7 +203,6 @@
 - [Décret n°89-392 du 14 juin 1989 (TEFE8903496D)](decret-n89-392-du-14-juin-1989-tefe8903496d)
 - [Décret n°89-397 du 14 juin 1989 (MAEJ8930053D)](decret-n89-397-du-14-juin-1989-maej8930053d)
 - [Décret n°89-398 du 14 juin 1989 (MAEJ8930055D)](decret-n89-398-du-14-juin-1989-maej8930055d)
-- [Décret n°89-838 du 14 novembre 1989 (PRME8961499D)](decret-n89-838-du-14-novembre-1989-prme8961499d)
 - [Décret n°89-885 du 14 décembre 1989 (BUDF8900011D)](decret-n89-885-du-14-decembre-1989-budf8900011d)
 - [Décret n°89-886 du 14 décembre 1989 (BUDF8910044D)](decret-n89-886-du-14-decembre-1989-budf8910044d)
 - [Décret n°89-888 du 14 décembre 1989 (ECOT8920119D)](decret-n89-888-du-14-decembre-1989-ecot8920119d)

@@ -21,7 +21,6 @@
 - [Arrêté du 10 août 1979](arrete-du-10-aout-1979)
 - [Arrêté du 10 juillet 1979](arrete-du-10-juillet-1979)
 - [Arrêté du 11 juin 1979](arrete-du-11-juin-1979)
-- [Arrêté du 11 septembre 1979](arrete-du-11-septembre-1979)
 - [Arrêté du 12 avril 1979](arrete-du-12-avril-1979)
 - [Arrêté du 13 décembre 1978](arrete-du-13-decembre-1978)
 - [Arrêté du 13 juin 1979](arrete-du-13-juin-1979)

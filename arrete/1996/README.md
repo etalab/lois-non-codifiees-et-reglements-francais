@@ -1015,7 +1015,6 @@
 - [Arrêté du 26 décembre 1995 (INDB9501271A)](arrete-du-26-decembre-1995-indb9501271a)
 - [Arrêté du 26 décembre 1995 (INDB9501272A)](arrete-du-26-decembre-1995-indb9501272a)
 - [Arrêté du 26 décembre 1995 (TASW9511366A)](arrete-du-26-decembre-1995-tasw9511366a)
-- [Arrêté du 26 décembre 1996 (AGRG9601911A)](arrete-du-26-decembre-1996-agrg9601911a)
 - [Arrêté du 26 décembre 1996 (BUDB9610080A)](arrete-du-26-decembre-1996-budb9610080a)
 - [Arrêté du 26 décembre 1996 (BUDB9640050A)](arrete-du-26-decembre-1996-budb9640050a)
 - [Arrêté du 26 décembre 1996 (TASE9611759A)](arrete-du-26-decembre-1996-tase9611759a)
