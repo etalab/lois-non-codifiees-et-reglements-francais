@@ -2,7 +2,7 @@
 
 Il est institué un comité technique [*du marché des cafés*] composé de douze membres [*nombre*] :
 
-a) Quatre représentants de la compagnie des commissionnaires agréés près la bourse de commerce de Paris, nommés par la chambre de commerce et d'industrie de Paris, proposition du conseil de direction de cette compagnie ;
+a) Quatre représentants de la compagnie des commissionnaires agréés près de la bourse de commerce de Paris, nommés par la chambre de commerce et d'industrie de Paris, sur proposition du conseil de direction de cette compagnie ;
 
 b) Quatre représentants de la place du Havre, nommés par la chambre de commerce et d'industrie du Havre, à savoir :
 
@@ -14,9 +14,9 @@ c) Quatre représentants des activités professionnelles nommés conjointement p
 
 Un représentant du négoce du café proposé par la fédération nationale du commerce des cafés verts ;
 
-Un représentant des courtiers de marchandises spécialisés en café autres que ceux visés au 2° ci-dessous, proposé par la fédération nationale du commerce des cafés verts ;
+Un représentant des courtiers de marchandises spécialisés en café autres que ceux visés au b ci-dessus, proposé par la fédération nationale du commerce des cafés verts ;
 
-Un représentant des chargeurs ayant une activité en café, proposé par la fédération nationale des syndicats du commerce de l'Ouest africain ;
+Un représentant de l'organisation africaine et malgache du café (Oamcaf) ;
 
 Un représentant de la torréfaction proposé par la confédération nationale du café.
 

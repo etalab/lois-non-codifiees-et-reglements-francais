@@ -1,6 +1,6 @@
 # Article Annexe art. 20
 
-Au mois de septembre de chaque année [*périodicité*], le comité technique dresse la liste des experts choisis parmi les professionnels qualifiés.
+Le comité technique dresse la liste des experts choisis parmi les professionnels qualifiés.
 
 Les expertises portent sur le nombre des défauts, la grosseur des fèves et la qualité de la tasse, selon les règles en usage sur la place du Havre [*objet*].
 

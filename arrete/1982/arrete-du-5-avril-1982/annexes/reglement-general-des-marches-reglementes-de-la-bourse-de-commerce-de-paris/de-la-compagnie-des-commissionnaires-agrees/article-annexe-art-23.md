@@ -1,0 +1,3 @@
+# Article Annexe art. 23
+
+En cas de suspension, radiation, décès, disparition ou autre circonstance de nature à empêcher un commissionnaire agréé de remplir effectivement ses fonctions, à l'exception de la défaillance visée à l'article 13 du présent règlement, le conseil de direction de la compagnie désigne un commissionnaire agréé pour assurer, à titre provisoire, le remplacement du commissionnaire empêché ; il fixe les limites de son mandat. Le conseil de direction peut, en outre, requérir du président du tribunal de commerce de Paris ou du président du tribunal de grande instance de Paris la nomination d'un administrateur provisoire.
