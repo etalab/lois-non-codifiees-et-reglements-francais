@@ -1,3 +1,3 @@
 # Article 42-7
 
-Sera punie d'une amende de 600 F à 200 000 F toute personne qui, lors d'une manifestation sportive, aura, notamment par mégaphone, haut-parleur ou tout autre moyen d'amplification phonique ou visuelle, provoqué les spectateurs à la haine ou à la violence à l'égard de l'arbitre ou d'un groupe de personnes ou favorisé l'excitation du public.
+Sera punie d'une amende de 600 F à 100 000 F et de deux mois à un an d'emprisonnement ou de l'une de ces deux peines seulement toute personne qui, lors d'une manifestation sportive ou de la retransmission en public d'une telle manifestation dans une enceinte sportive, aura par quelque moyen que ce soit provoqué des spectateurs à la haine ou à la violence à l'égard de l'arbitre, d'un juge sportif, d'un joueur ou de toute autre personne ou groupe de personnes.
