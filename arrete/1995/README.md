@@ -1032,7 +1032,6 @@
 - [Arrêté du 24 mars 1995 (INDP9500378A)](arrete-du-24-mars-1995-indp9500378a)
 - [Arrêté du 24 mars 1995 (MCCE9500175A)](arrete-du-24-mars-1995-mcce9500175a)
 - [Arrêté du 24 mars 1995 (PRMX9500704A)](arrete-du-24-mars-1995-prmx9500704a)
-- [Arrêté du 24 mars 1995 (SANP9500947A)](arrete-du-24-mars-1995-sanp9500947a)
 - [Arrêté du 24 novembre 1995 (INTC9500723A)](arrete-du-24-novembre-1995-intc9500723a)
 - [Arrêté du 24 octobre 1995 (DEFP9502141A)](arrete-du-24-octobre-1995-defp9502141a)
 - [Arrêté du 24 octobre 1995 (EQUS9501626A)](arrete-du-24-octobre-1995-equs9501626a)
