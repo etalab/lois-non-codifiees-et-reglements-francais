@@ -2,12 +2,8 @@
 
 L'élection des représentants des sapeurs-pompiers volontaires au comité consultatif départemental est organisée par la préfecture. Un arrêté du préfet fixe le calendrier des opérations électorales et les listes des électeurs.
 
-Cette élection a lieu par correspondance et au scrutin proportionnel au plus fort reste au sein des deux collèges électoraux distincts suivants :
+Cette élection a lieu au scrutin de liste majoritaire à un tour et par correspondance.
 
-a) Le collège des officiers de sapeurs-pompiers volontaires ;
-
-b) Le collège des sapeurs-pompiers volontaires non officiers.
-
-Les votes sont recensés et proclamés par la commission et dans les conditions prévues à l'article 13 du décret du 26 décembre 1997 susvisé.
+Les votes sont recensés et proclamés dans les conditions prévues aux articles R. 1424-10 à R. 1424-13 du code général des collectivités territoriales pour les conseils d'administration et commissions administratives et techniques des services d'incendie et de secours.
 
 Les frais d'organisation de ces élections sont à la charge du service départemental d'incendie et de secours.

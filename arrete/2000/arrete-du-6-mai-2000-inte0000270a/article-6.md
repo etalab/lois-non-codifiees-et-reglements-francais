@@ -1,0 +1,3 @@
+# Article 6
+
+Les sapeurs-pompiers volontaires visés à l'article 1er, engagés comme adjudant ou adjudant--chef de sapeurs-pompiers volontaires, peuvent, après évaluation de leurs aptitudes par leur autorité d'emploi, être dispensés de tout ou partie de la formation prévue aux articles 10, 35, 38 et 39 de l'arrêté du 13 décembre 1999 relatif à la formation des sapeurs-pompiers volontaires, à l'exclusion des modules " information précisant le cadre administratif et juridique dans lequel évoluent les sapeurs-pompiers " prévu par le deuxième alinéa de l'article 10, et " cadre administratif et management " prévu à l'article 38.
