@@ -1,15 +1,9 @@
 # Article 30
 
-Sous réserve des dispositions de l'article 32 ci-dessous, les professeurs de lycée professionnel sont tenus de fournir, sans rémunération supplémentaire, dans l'ensemble de l'année scolaire, le maximum de service hebdomadaire suivant :
+Pendant l'année scolaire, telle que définie à l'article 9 de la loi du 10 juillet 1989 susvisée, les professeurs de lycée professionnel sont tenus, sous réserve des dispositions des articles 31 et 32 ci-dessous, de fournir, sans rémunération supplémentaire, un service hebdomadaire d'une durée de dix-huit heures d'enseignement dans leurs disciplines.
 
-1. Pour l'enseignement des disciplines littéraires et scientifiques et les enseignements professionnels théoriques :
+Le professeur de lycée professionnel qui n'a pas la possibilité d'assurer la totalité de son service hebdomadaire dans l'établissement dans lequel il est affecté peut être invité par le recteur d'académie à compléter son service, dans ses disciplines, dans un autre établissement scolaire public dispensant un enseignement professionnel. Si ce complément de service doit être assuré dans des types de formation autres que la formation initiale, l'accord de l'intéressé est nécessaire.
 
-dix-huit heures ;
+Le service hebdomadaire des professeurs de lycée professionnel appelés à enseigner dans deux établissements situés dans des communes différentes est diminué d'une heure.
 
-2. Pour les enseignements pratiques : vingt-trois heures.
-
-Le maximum de service des professeurs chargés des enseignements pratiques est abaissé d'une heure lorsqu'ils assurent plus de cinq heures d'enseignement hebdomadaire dans un ou plusieurs groupes comprenant chacun plus de quinze élèves, de deux heures lorsqu'ils assurent plus de dix heures d'enseignement hebdomadaire dans ces groupes.
-
-Pour l'application de ces dispositions, l'effectif à considérer est celui des élèves présents lors de l'enquête annuelle organisée au cours du premier trimestre de l'année scolaire.
-
-Les professeurs de lycée professionnel peuvent être tenus d'effectuer, dans l'intérêt du service, en sus du maximum de service, une heure supplémentaire hebdomadaire.
+Les professeurs de lycée professionnel peuvent être tenus d'effectuer, dans l'intérêt du service, une heure supplémentaire hebdomadaire en sus du service hebdomadaire défini au premier alinéa ci-dessus.
