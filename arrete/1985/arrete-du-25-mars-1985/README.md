@@ -1,3 +1,9 @@
-# Arrêté du 25 mars 1985 fixant la date à laquelle sont déterminés les effectifs d'assurés et de bénéficiaires du régime d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles pour l'application de l'article 75 du décret 253 du 19 mars 1968 modifié.
+# Arrêté du 25 mars 1985 relatif à la cotisation due par les entreprises visées aux articles L. 731-1 et R. 731-1 du code du travail.
 
 - [Article 1](article-1.md)
+- [Section 1 : Enseignements.](section-1)
+- [Article 2](article-2.md)
+- [Section 2 : Stages.](section-2)
+- [Article 3](article-3.md)
+- [Section 3 : Contrôle de la scolarité](section-3)
+- [Article 18](article-18.md)

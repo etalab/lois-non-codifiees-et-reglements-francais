@@ -1,5 +1,3 @@
 # Article 1
 
-Les remises de gestion prévues par l'article 75 du décret susvisé du 19 mars 1968, sont payables par la Caisse nationale d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles au vu d'états numériques établis par chaque caisse mutuelle régionale d'après les effectifs d'assurés et de bénéficiaires inscrits sur les contrôles des organismes ayant passé convention avec elle.
-
-La situation s'apprécie à partir des effectifs recensés au 1er avril et au 1er octobre.
+Le montant de l'abattement à défalquer du total des salaires servant de base au calcul de la cotisation due par les employeurs aux caisses de congés payés en application des articles susvisés du code du travail est fixé, pour la période du 1er juillet 1984 au 30 juin 1985, à 190.728 F.
