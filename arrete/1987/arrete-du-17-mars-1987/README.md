@@ -1,4 +1,4 @@
-# Arrêté du 17 mars 1987 relatif aux modalités de désignation des personnalités membres du Conseil supérieur de la recherche et de la technologie choisies en qualité de membres des comités consultatifs régionaux de la recherche et du développement technologique
+# Arrêté du 17 mars 1987 fixant les modalités de recrutement dans les classes préparatoires et les sections de techniciens supérieurs des établissements publics d'enseignement relevant du ministère de l'agriculture (formation initiale)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

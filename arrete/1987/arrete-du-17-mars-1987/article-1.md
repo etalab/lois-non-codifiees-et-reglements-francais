@@ -1,3 +1,9 @@
 # Article 1
 
-Par dérogation aux articles 2 et 3 de l'arrêté du 4 janvier 1985 susvisé, pour le renouvellement du Conseil supérieur de la recherche et de la technologie dont le mandat des membres est arrivé à expiration le 21 février 1987, les propositions des comités consultatifs régionaux de la recherche et du développement technologique doivent être formulées avant le 15 avril 1987 et communiquées par les commissaires de la République de région au ministre délégué auprès du ministre de l'éducation nationale, chargé de la recherche et de l'enseignement supérieur, avant le 30 avril 1987 [*date*].
+Les décisions d'admission dans toutes les classes préparatoires aux concours d'entrée aux écoles nationales supérieures agronomiques (E.N.S.A.), aux écoles nationales vétérinaires (E.N.V.), aux écoles nationales d'ingénieurs des travaux agricoles (E.N.I.T.A.) et dans les sections de brevets de technicien supérieur agricole (B.T.S.A.) des établissements publics d'enseignement agricole en formation initiale sont prises par arrêté du ministre de l'agriculture sur proposition d'une commission. Cette commission est présidée par un ingénieur général d'agronomie nommé par arrêté du ministre de l'agriculture.
+
+La commission comprend en nombre égal des directeurs d'établissement d'enseignement agricole public comprenant ou non des classes préparatoires et, d'autre part, des ingénieurs et professeurs enseignant dans les classes préparatoires, dans les sections de brevet de technicien supérieur ou dans les classes terminales de cycle long d'établissements d'enseignement agricole publics.
+
+La commission est composée de soixante membres au maximum. Ceux-ci sont nommés chaque année par le ministre de l'agriculture, sur proposition du président de la commission.
+
+Elle peut, sur proposition du président, se constituer en sections correspondant à des formations spécialisées.
