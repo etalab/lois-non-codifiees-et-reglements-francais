@@ -1,0 +1,3 @@
+# Article 29
+
+Après enlèvement des animaux identifiés conformément aux dispositions de l'article 23 du présent arrêté, la désinfection des locaux et matériels à l'usage des animaux est réalisée conformément aux dispositions réglementaires en vigueur. Lorsque l'exploitation comporte des installations d'élevage en plein air, le terrain des parcs doit être traité à la chaux vive puis retourné. En outre, ces installations doivent faire l'objet d'un vide sanitaire d'une durée minimale de trois mois au cours de laquelle aucun animal ne peut y être détenu ou aucune culture de fourrage ou maraîchère conduite.

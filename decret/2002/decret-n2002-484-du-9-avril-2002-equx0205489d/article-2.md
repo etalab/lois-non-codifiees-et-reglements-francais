@@ -1,0 +1,3 @@
+# Article 2
+
+La conférence permanente "habitat-construction-développement durable" exerce une fonction de veille, d'alerte et d'expertise sur l'intégration des principes et des pratiques du développement durable dans la construction, établit un bilan annuel de leur progression, débat des résultats observés, favorise le dialogue entre toutes les parties prenantes et propose au ministre chargé du logement et de la construction les orientations qui lui semblent prioritaires en fonction des constats et des bilans effectués. Elle formule des avis sur les affaires qui lui sont soumises par le ministre chargé du logement et de la construction.
