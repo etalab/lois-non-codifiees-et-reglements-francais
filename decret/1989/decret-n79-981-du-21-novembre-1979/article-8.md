@@ -1,5 +1,5 @@
 # Article 8
 
-Tout exploitant d'une installation d'élimination des huiles usagées doit avoir reçu un agrément. Un arrêté conjoint des ministres chargés de l'environnement, de l'économie, du budget et de l'industrie fixe la procédure d'attribution des agréments et les conditions générales auxquelles leur délivrance est subordonnée.
+Tout exploitant d'une installation d'élimination des huiles usagées doit avoir reçu un agrément. Cet agrément est délivré, suspendu ou retiré selon les modalités prévues à l'article 43-2 du décret n° 77-1133 du 21 septembre 1977 susvisé.
 
-L'agrément de l'exploitant d'une installation d'élimination des huiles usagées est délivré pour sept ans par arrêté du ministre chargé de l'environnement. Il est renouvelable ou révocable dans les mêmes formes en cas d'inobservation par le titulaire de ses obligations.
+Un arrêté conjoint des ministres chargés de l'environnement, du budget, de l'industrie, de l'économie fixe les conditions générales auxquelles la délivrance de l'agrément ainsi que la suspension ou le retrait de cet agrément sont subordonnées.

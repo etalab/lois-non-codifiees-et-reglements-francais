@@ -4,4 +4,4 @@ Le préfet délivre une carte professionnelle d'éducateur sportif à tout titul
 
 Cette carte porte mention du diplôme ou de l'autorisation d'exercice de certaines fonctions ainsi que du type d'établissement où ces fonctions peuvent être exercées.
 
-Elle est renouvelée chaque année.
+Elle est renouvelée tous les trois ans.

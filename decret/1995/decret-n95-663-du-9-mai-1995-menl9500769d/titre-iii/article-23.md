@@ -4,6 +4,8 @@ Les candidats ayant préparé le baccalauréat professionnel par la voie scolair
 
 Les candidats ayant préparé le diplôme par la voie de la formation professionnelle continue dans un établissement public habilité peuvent passer l'examen sous forme de contrôle en cours de formation et d'une épreuve ponctuelle obligatoire, dans les conditions fixées par le règlement particulier du diplôme. La demande d'habilitation précise s'il s'agit d'une évaluation par contrôle en cours de formation donnant lieu ou non à notation.
 
+Les habilitations prévues aux premier et deuxième alinéas ci-dessus sont réputées acquises si, dans un délai de deux mois, aucune décision de refus n'a été notifiée aux intéressés.
+
 Les dispositions des alinéas 1 et 2 ci-dessus s'appliquent aux candidats préparant par la voie de la formation professionnelle continue, dans des établissements privés habilités par le directeur régional de l'agriculture et de la forêt, les baccalauréats professionnels visés au deuxième alinéa de l'article 3 du présent décret.
 
 Les conditions relatives à l'octroi et au retrait de l'habilitation des établissements à pratiquer le contrôle en cours de formation prévu par le présent article sont précisées par arrêté du ministre chargé de l'éducation nationale.

@@ -2,6 +2,8 @@
 
 I. - L'agrément est attribué aux personnes disposant d'un réseau d'expérimentation et par secteur d'activité. La demande d'agrément est déposée auprès du ministre chargé de l'agriculture.
 
+La liste des pièces à annexer à la demande est fixée par un arrêté ministériel. L'agrément est réputé acquis en l'absence de réponse du ministre à l'expiration d'un délai de six mois à compter de la date de réception de la demande.
+
 II. - L'agrément est délivré par le ministre chargé de l'agriculture sur proposition du comité d'homologation des produits antiparasitaires à usage agricole et des produits assimilés, si :
 
 le dossier répond aux exigences d'un cahier des charges ;
