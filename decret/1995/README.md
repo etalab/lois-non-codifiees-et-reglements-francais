@@ -1088,7 +1088,6 @@
 - [Décret n°94-1230 du 30 décembre 1994 (SPSS9403649D)](decret-n94-1230-du-30-decembre-1994-spss9403649d)
 - [Décret n°94-1231 du 30 décembre 1994 (SPSS9403933D)](decret-n94-1231-du-30-decembre-1994-spss9403933d)
 - [Décret n°94-1232 du 30 décembre 1994 (BUDB9410120D)](decret-n94-1232-du-30-decembre-1994-budb9410120d)
-- [Décret n°94-1233 du 30 décembre 1994 (INTC9400500D)](decret-n94-1233-du-30-decembre-1994-intc9400500d)
 - [Décret n°94-1238 du 30 décembre 1994 (SPSH9403490D)](decret-n94-1238-du-30-decembre-1994-spsh9403490d)
 - [Décret n°94-1239 du 30 décembre 1994 (INTA9400485D)](decret-n94-1239-du-30-decembre-1994-inta9400485d)
 - [Décret n°94-1240 du 30 décembre 1994 (INTA9400486D)](decret-n94-1240-du-30-decembre-1994-inta9400486d)
