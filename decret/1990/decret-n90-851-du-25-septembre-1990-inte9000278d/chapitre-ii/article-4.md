@@ -8,4 +8,4 @@ Sont inscrits sur la liste d'aptitude prévue à l'article 3 les candidats décl
 
 Le nombre des places offertes au concours mentionné au 1° ne peut excéder le nombre des places offertes au concours mentionné au 2°.
 
-Les candidats doivent être âgés de dix-sept ans au moins et de vingt-quatre ans au plus au 1er janvier de l'année du concours.
+Les candidats doivent être âgés de dix-huit ans au moins et de vingt-cinq ans au plus au 1er janvier de l'année du concours.
