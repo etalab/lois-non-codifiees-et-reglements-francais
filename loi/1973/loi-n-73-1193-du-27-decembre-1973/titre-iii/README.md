@@ -2,5 +2,6 @@
 
 - [Chapitre Ier : Dispositions relatives au rôle des chambres de commerce et d'industrie et des chambres de métiers.](chapitre-ier)
 - [Chapitre II : L'équipement commercial.](chapitre-ii)
+- [Chapitre II bis : Les équipements cinématographiques.](chapitre-ii-bis)
 - [Chapitre III : Amélioration des conditions de la concurrence.](chapitre-iii)
 - [Chapitre IV : Adaptation et modernisation des entreprises.](chapitre-iv)

@@ -336,6 +336,7 @@
 - [Arrêté du 17 janvier 1996 (EQUK9600137A)](arrete-du-17-janvier-1996-equk9600137a)
 - [Arrêté du 17 janvier 1996 (FCEM9600015A)](arrete-du-17-janvier-1996-fcem9600015a)
 - [Arrêté du 17 janvier 1996 (TASG9511276A)](arrete-du-17-janvier-1996-tasg9511276a)
+- [Arrêté du 17 juin 1996 (AGRE9601209A)](arrete-du-17-juin-1996-agre9601209a)
 - [Arrêté du 17 juin 1996 (ECOT9610278A)](arrete-du-17-juin-1996-ecot9610278a)
 - [Arrêté du 17 juin 1996 (MENN9601733A)](arrete-du-17-juin-1996-menn9601733a)
 - [Arrêté du 17 juin 1996 (MENP9601586A)](arrete-du-17-juin-1996-menp9601586a)

@@ -34,3 +34,4 @@
 - [Loi n° 95-885 du 4 août 1995 (ECOX9500104L)](loi-n-95-885-du-4-aout-1995-ecox9500104l)
 - [Loi n°95-877 du 3 août 1995 (MCCX9500012L)](loi-n95-877-du-3-aout-1995-mccx9500012l)
 - [Loi n°95-9 du 6 janvier 1995 (INTX9400060L)](loi-n95-9-du-6-janvier-1995-intx9400060l)
+- [Loi n°95-96 du 1 février 1995 (ECOX9400126L)](loi-n95-96-du-1-fevrier-1995-ecox9400126l)
