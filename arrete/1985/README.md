@@ -63,7 +63,6 @@
 - [Arrêté du 10 décembre 1984](arrete-du-10-decembre-1984)
 - [Arrêté du 10 janvier 1985](arrete-du-10-janvier-1985)
 - [Arrêté du 10 juillet 1985](arrete-du-10-juillet-1985)
-- [Arrêté du 10 juin 1985](arrete-du-10-juin-1985)
 - [Arrêté du 10 octobre 1983](arrete-du-10-octobre-1983)
 - [Arrêté du 10 septembre 1985](arrete-du-10-septembre-1985)
 - [Arrêté du 10 mai 1985](arrete-du-10-mai-1985)
