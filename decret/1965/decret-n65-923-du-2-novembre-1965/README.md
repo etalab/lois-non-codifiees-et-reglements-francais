@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [TITRE Ier : Corps des agents de service](titre-ier)
+- [Article 2](article-2.md)
 - [TITRE II : Corps des ouvriers professionnels.](titre-ii)
 - [TITRE III : Dispositions transitoires.](titre-iii)
 - [TITRE IV : Dispositions concernant les personnels retraités.](titre-iv)
