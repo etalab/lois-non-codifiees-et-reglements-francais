@@ -7,4 +7,3 @@
 - [TITRE V : Police des travaux.](titre-v)
 - [TITRE VI : Relations avec les titulaires de titres miniers.](titre-vi)
 - [TITRE VII : Dispositions diverses.](titre-vii)
-- [Article 40](article-40.md)

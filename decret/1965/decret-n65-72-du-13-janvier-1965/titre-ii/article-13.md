@@ -32,4 +32,12 @@ II. - A la demande et à ses copies sont annexées les pièces suivantes :
 
 4. Si la demande est présentée au nom d'une société, un exemplaire certifié des statuts, une expédition de l'acte de constitution de la société et la justification des pouvoirs de la personne qui a introduit la demande.
 
-5. Une étude d'impact, telle qu'elle est prévue au 6° de l'article 10,.
+5. Une étude d'impact, telle qu'elle est prévue au 6° de l'article 10.
+
+6. Une étude de dangers telle qu'elle est prévue au 7 de l'article 10.
+
+Lorsqu'il existe un comité d'hygiène, de sécurité et des conditions de travail dans l'établissement dont dépend le stockage, ce comité est consulté par l'exploitant sur la demande d'autorisation dès l'ouverture de la procédure prévue à l'article 15 ou dès l'ouverture de l'enquête dans le cas prévu au dernier alinéa de l'article 14.
+
+III. - Le ministre ou le préfet peuvent exiger la production d'une analyse critique d'éléments du dossier justifiant des vérifications particulières, effectuée par un expert extérieur.
+
+La décision du ministre ou du préfet d'imposer une analyse critique peut intervenir à tout moment de la procédure, sans interrompre cette dernière. Lorsque l'analyse critique est produite avant la clôture de l'enquête, elle est jointe au dossier.

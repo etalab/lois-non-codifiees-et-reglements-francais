@@ -1,6 +1,6 @@
 # Article 8 bis
 
-Le dossier de la demande d'autorisation de stockage comporte  [*contenu*] :
+Le dossier de la demande d'autorisation de stockage comporte :
 
 1° Les nom, prénoms, qualités, nationalité et domicile du demandeur et, si elle est faite au nom d'une société ou d'un établissement public, le siège social de ceux-ci, ainsi que les noms, prénoms, qualités et nationalités :
 
@@ -13,6 +13,8 @@ Le dossier de la demande d'autorisation de stockage comporte  [*contenu*] :
 - des directeurs ayant la signature sociale, pour toutes sociétés ou établissements publics.
 
 2° Le périmètre de stockage et le périmètre de protection demandés, ainsi que les communes et les départements intéressés ; le périmètre de stockage englobe la totalité de la zone pouvant être occupée par le gaz et les puits de contrôle périphériques de l'extension de la zone en gaz ; le périmètre de protection comprend toute la zone à l'intérieur de laquelle doit être assurée la protection du réservoir et des installations de surface, ainsi que celle des nappes aquifères que la présence du stockage rendait vulnérables.
+
+Lorsque le demandeur de l'autorisation requiert l'institution de servitudes d'utilité publique, il fait connaître le périmètre et les règles souhaités.
 
 3° Le programme prévisionnel des forages et les modalités des travaux, ainsi que des injections et soutirages de gaz destinés, d'une part, à préciser les caractéristiques des formations reconnues et, d'autre part, à permettre le développement du stockage.
 

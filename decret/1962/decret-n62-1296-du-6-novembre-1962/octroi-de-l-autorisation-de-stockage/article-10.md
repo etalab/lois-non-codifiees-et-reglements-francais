@@ -1,3 +1,7 @@
 # Article 10
 
 Dans les huit jours suivant la réception du dossier, le préfet transmet le dossier au directeur régional de l'industrie, de la recherche et de l'environnement concerné qui vérifie la demande et la fait éventuellement compléter ou rectifier par le pétitionnaire. Il le transmet également au directeur régional de l'environnement, qui examine le projet au regard des intérêts mentionnés aux articles 1er et 2 de la loi n° 92-3 du 3 janvier 1992 sur l'eau. Si plusieurs directeurs régionaux de l'industrie et de la recherche sont intéressés, le préfet adresse le dossier à chacun d'eux. Il consulte les conseils généraux, les conseils municipaux, les chambres d'agriculture intéressés ainsi que les services et organismes qui figurent sur une liste arrêtée par le ministre chargé du gaz. Les conseils, organismes et services consultés sont invités à formuler leur avis sur le stockage projeté dans un délai de deux mois. Les avis sont réputés favorables faute de réponse dans ce délai.
+
+Le préfet informe les maires des communes intéressées qu'il leur appartient, s'ils le jugent utile, et après consultation des conseils municipaux, de demander l'institution de servitudes d'utilité publique.
+
+Lorsqu'il existe un comité d'hygiène, de sécurité et des conditions de travail dans l'établissement dont dépend le stockage, ce comité est consulté par l'exploitant sur la demande d'autorisation dès l'ouverture de l'enquête. Le comité fait connaître son avis dans un délai de deux mois. Cet avis est transmis au préfet par l'exploitant.
