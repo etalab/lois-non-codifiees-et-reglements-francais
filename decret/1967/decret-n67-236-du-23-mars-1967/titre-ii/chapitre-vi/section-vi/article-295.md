@@ -4,8 +4,6 @@ Dans les quatre mois de la clôture de l'exercice et quinze jours au moins avant
 
 1. Les comptes annuels ;
 
-2. L'inventaire des valeurs mobilières détenues en portefeuille à la clôture de l'exercice écoulé avec l'indication, pour chaque catégorie, de leur nombre et de leur valeur d'inventaire ; toutefois, certaines valeurs pourront être inscrites pour un montant global lorsqu'elles ne sont pas d'importance significative ; si certaines de ces indications sont omises en raison du préjudice grave qui pourrait résulter de leur divulgation, il est fait mention du caractère incomplet de cette information ;
+2. Le projet d'affectation du résultat ;
 
-3. Le projet d'affectation du résultat ;
-
-4. Les comptes consolidés, s'ils sont disponibles.
+3. Les comptes consolidés, s'ils sont disponibles. Les informations prévues aux 5°, 6°, 7° et 8° de l'article 248-12 peuvent être omises à condition d'être disponibles au siège de la société.
