@@ -58,9 +58,7 @@ OACI
 
 Organisation de l'Aviation Civile Internationale/International Civil Aviation Organisation
 
-P-RNAV
-
-Navigation de surface de base de précision/Precision area navigation
+P-RNAV Navigation de surface de précision/Precision Area Navigation
 
 RNAV
 
@@ -234,13 +232,15 @@ Certaines procédures RNAV de départ (SID), d'arrivée (STAR) ou d'approche aux
 
 2.2.1.4. RVSM :
 
-Obligation :
+a) Obligation :
 
-A compter du 24 janvier 2002, tout aéronef évoluant dans le volume d'espace aérien compris entre les niveaux de vol 290 et 410, inclusivement, à l'exception des zones de transition RVSM publiées par la voie de l'information aéronautique, est homologué RVSM.
+A compter du 24 janvier 2002, tout aéronef évoluant dans le volume d'espace aérien compris entre les niveaux de vol 290 et 410 inclusivement, à l'exception des zones de transition RVSM publiées par la voie de l'information aéronautique, est homologué RVSM (5).
 
-Exemption :
+b) Exemption :
 
 Les aéronefs d'Etat sont exemptés de cette obligation. Ils se conforment alors à des procédures particulières établies avec l'autorité compétente des services de la circulation aérienne.
+
+Jusqu'au 31 août 2002, les aéronefs civils supersoniques sont exemptés de cette obligation. Ils se conforment alors à des procédures particulières établies avec l'autorité compétente des services de la circulation aérienne.
 
 2.2.1.5. Immunité FM :
 
@@ -388,21 +388,15 @@ b) A compter du 1er janvier 2005, lorsque la masse maximale certifiée au décol
 
 4.3.2. Dérogations
 
-4.3.2.1. Dérogations exceptionnelles.
-
-Des dérogations exceptionnelles au paragraphe 4.3.1, a, dont la validité ne peut excéder le 30 septembre 2001, peuvent être accordées par l'autorité compétente. Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
-
-4.3.2.2. Dérogations spéciales.
-
-Des dérogations spéciales au paragraphe 4.3.1, a, peuvent être accordées par l'autorité compétente, pour les vols non commerciaux suivants :
-
-- vol humanitaire ;
+Des dérogations au paragraphe 4.3.1 (a), peuvent être accordées par l'autorité compétente, pour les vols non commerciaux suivants :
 
 - vol de convoyage, avant ou pour livraison de l'aéronef dans une région où l'équipement ACAS II n'est pas obligatoire ;
 
 - vol de convoyage, en provenance d'une région où l'équipement ACAS II n'est pas obligatoire ;
 
-- vol pour maintenance, en provenance ou à destination d'une région où l'équipement ACAS II n'est pas obligatoire.
+- vol pour maintenance, en provenance ou à destination d'une région où l'équipement ACAS II n'est pas obligatoire ;
+
+- vol humanitaire.
 
 Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
 
