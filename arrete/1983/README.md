@@ -6,7 +6,6 @@
 - [Arrêté du 1 mars 1983](arrete-du-1-mars-1983)
 - [Arrêté du 1 mars 1984](arrete-du-1-mars-1984)
 - [Arrêté du 1 octobre 1984](arrete-du-1-octobre-1984)
-- [Arrêté du 1 septembre 1982](arrete-du-1-septembre-1982)
 - [Arrêté du 2 août 1983](arrete-du-2-aout-1983)
 - [Arrêté du 2 décembre 1983](arrete-du-2-decembre-1983)
 - [Arrêté du 2 juin 1983](arrete-du-2-juin-1983)

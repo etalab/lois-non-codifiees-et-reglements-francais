@@ -97,7 +97,6 @@
 - [Arrêté du 6 janvier 1988 (AGRS8800078A)](arrete-du-6-janvier-1988-agrs8800078a)
 - [Arrêté du 6 janvier 1988 (ASET8803051A)](arrete-du-6-janvier-1988-aset8803051a)
 - [Arrêté du 6 janvier 1988 (ECOA8700117A)](arrete-du-6-janvier-1988-ecoa8700117a)
-- [Arrêté du 6 janvier 1988 (ECOC8700075A)](arrete-du-6-janvier-1988-ecoc8700075a)
 - [Arrêté du 6 janvier 1988 (INTB8800019A)](arrete-du-6-janvier-1988-intb8800019a)
 - [Arrêté du 6 juin 1988 (INTD8800230A)](arrete-du-6-juin-1988-intd8800230a)
 - [Arrêté du 6 juin 1988 (MENL8800868A)](arrete-du-6-juin-1988-menl8800868a)
