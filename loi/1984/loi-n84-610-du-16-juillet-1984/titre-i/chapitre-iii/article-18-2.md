@@ -8,4 +8,6 @@ Ces extraits sont diffusés gratuitement au cours des émissions d'information.
 
 Leur diffusion s'accompagne dans tous les cas d'une identification suffisante du service de communication audiovisuelle cessionnaire du droit d'exploitation de la manifestation ou de la compétition.
 
+La cession du droit d'exploitation d'une manifestation ou d'une compétition sportive à un service de communication audiovisuelle ne fait pas obstacle à la réalisation et à la diffusion gratuite par tout service de radiodiffusion sonore, sur tout ou partie du territoire, en direct ou en différé, du commentaire oral de cette manifestation ou de cette compétition.
+
 Un décret en Conseil d'Etat, pris après avis du Conseil supérieur de l'audiovisuel, fixe, en tant que de besoin, les conditions d'application du présent article.
