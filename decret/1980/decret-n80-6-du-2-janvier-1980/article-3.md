@@ -36,4 +36,28 @@ Chargé d'enseignement.
 
 Professeur de collège d'enseignement général (ancien régime).
 
-III. - Maîtres auxiliaires. 62
+III. - Maîtres auxiliaires
+
+A compter du 1er janvier 1994
+
+7
+
+3
+
+A compter du 1er janvier 1995
+
+8
+
+4
+
+A compter du 1er janvier 1996
+
+8,5
+
+4,5
+
+A compter du 1er janvier 1997
+
+9
+
+5
