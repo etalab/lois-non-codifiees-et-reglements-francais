@@ -216,7 +216,6 @@
 - [Décret n°98-895 du 7 octobre 1998 (EQUH9800573D)](decret-n98-895-du-7-octobre-1998-equh9800573d)
 - [Décret n°98-896 du 7 octobre 1998 (EQUH9800572D)](decret-n98-896-du-7-octobre-1998-equh9800572d)
 - [Décret n° 98-903 du 8 octobre 1998 (ECOP9800419D)](decret-n-98-903-du-8-octobre-1998-ecop9800419d)
-- [Décret n°2000-213 du 8 mars 2000 (PRMG9970620D)](decret-n2000-213-du-8-mars-2000-prmg9970620d)
 - [Décret n°95-273 du 8 mars 1995 (AGRA9402304D)](decret-n95-273-du-8-mars-1995-agra9402304d)
 - [Décret n°98-1099 du 8 décembre 1998 (JUSE9840060D)](decret-n98-1099-du-8-decembre-1998-juse9840060d)
 - [Décret n°98-1104 du 8 décembre 1998 (AGRS9802160D)](decret-n98-1104-du-8-decembre-1998-agrs9802160d)

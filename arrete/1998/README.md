@@ -384,7 +384,6 @@
 - [Arrêté du 12 février 1998 (MAEC9800046A)](arrete-du-12-fevrier-1998-maec9800046a)
 - [Arrêté du 12 janvier 1998 (MESS9820098A)](arrete-du-12-janvier-1998-mess9820098a)
 - [Arrêté du 12 juin 1998 (MESP9822054A)](arrete-du-12-juin-1998-mesp9822054a)
-- [Arrêté du 12 mars 1998 (EQUT9800195A)](arrete-du-12-mars-1998-equt9800195a)
 - [Arrêté du 12 mars 1998 (JUSE9840027A)](arrete-du-12-mars-1998-juse9840027a)
 - [Arrêté du 12 mars 1998 (MESH9820941A)](arrete-du-12-mars-1998-mesh9820941a)
 - [Arrêté du 12 mars 1998 (MESP9821151A)](arrete-du-12-mars-1998-mesp9821151a)

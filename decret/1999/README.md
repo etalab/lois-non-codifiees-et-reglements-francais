@@ -564,7 +564,6 @@
 - [Décret n°98-1167 du 21 décembre 1998 (INTA9800300D)](decret-n98-1167-du-21-decembre-1998-inta9800300d)
 - [Décret n°99-1073 du 21 décembre 1999 (JUSB9910508D)](decret-n99-1073-du-21-decembre-1999-jusb9910508d)
 - [Décret n°99-1085 du 21 décembre 1999 (MCCT9900573D)](decret-n99-1085-du-21-decembre-1999-mcct9900573d)
-- [Décret n°99-1087 du 21 décembre 1999 (AGRS9902273D)](decret-n99-1087-du-21-decembre-1999-agrs9902273d)
 - [Décret n°99-1089 du 21 décembre 1999 (JUSC9920790D)](decret-n99-1089-du-21-decembre-1999-jusc9920790d)
 - [Décret n°99-1090 du 21 décembre 1999 (JUSC9920791D)](decret-n99-1090-du-21-decembre-1999-jusc9920791d)
 - [Décret n°99-1091 du 21 décembre 1999 (JUSC9920792D)](decret-n99-1091-du-21-decembre-1999-jusc9920792d)

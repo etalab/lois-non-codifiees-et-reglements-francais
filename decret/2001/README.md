@@ -4,7 +4,6 @@
 - [Décret n°2000-855 du 1 septembre 2000 (MEST0010720D)](decret-n2000-855-du-1-septembre-2000-mest0010720d)
 - [Décret n°2001-899 du 1 octobre 2001 (PRMG0170666D)](decret-n2001-899-du-1-octobre-2001-prmg0170666d)
 - [Décret n°2001-909 du 1 octobre 2001 (MESP0123013D)](decret-n2001-909-du-1-octobre-2001-mesp0123013d)
-- [Décret n°92-882 du 1 septembre 1992 (MENT9200282D)](decret-n92-882-du-1-septembre-1992-ment9200282d)
 - [Décret n°94-183 du 1 mars 1994 (JUSC9420139D)](decret-n94-183-du-1-mars-1994-jusc9420139d)
 - [Décret n°2001-1002 du 2 novembre 2001 (MESH0123604D)](decret-n2001-1002-du-2-novembre-2001-mesh0123604d)
 - [Décret n°2001-1003 du 2 novembre 2001 (MESN0122915D)](decret-n2001-1003-du-2-novembre-2001-mesn0122915d)

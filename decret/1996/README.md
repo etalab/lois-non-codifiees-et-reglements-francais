@@ -683,7 +683,6 @@
 - [Décret n°96-239 du 25 mars 1996 (MCCT9600054D)](decret-n96-239-du-25-mars-1996-mcct9600054d)
 - [Décret n°96-245 du 25 mars 1996 (INTC9600057D)](decret-n96-245-du-25-mars-1996-intc9600057d)
 - [Décret n°96-246 du 25 mars 1996 (INTC9600058D)](decret-n96-246-du-25-mars-1996-intc9600058d)
-- [Décret n°96-247 du 25 mars 1996 (INTC9600056D)](decret-n96-247-du-25-mars-1996-intc9600056d)
 - [Décret n°96-264 du 25 mars 1996 (AGRR9600463D)](decret-n96-264-du-25-mars-1996-agrr9600463d)
 - [Décret n°96-355 du 25 avril 1996 (LOGC9600021D)](decret-n96-355-du-25-avril-1996-logc9600021d)
 - [Décret n°96-356 du 25 avril 1996 (TASE9610477D)](decret-n96-356-du-25-avril-1996-tase9610477d)

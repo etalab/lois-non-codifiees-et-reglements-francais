@@ -208,7 +208,6 @@
 - [Arrêté du 10 septembre 2001 (MENE0101979A)](arrete-du-10-septembre-2001-mene0101979a)
 - [Arrêté du 10 mai 2001 (AGRS0100998A)](arrete-du-10-mai-2001-agrs0100998a)
 - [Arrêté du 11 avril 2001 (AGRS0100715A)](arrete-du-11-avril-2001-agrs0100715a)
-- [Arrêté du 11 décembre 2000 (EQUT0001915A)](arrete-du-11-decembre-2000-equt0001915a)
 - [Arrêté du 11 décembre 2001 (ECOD0150001A)](arrete-du-11-decembre-2001-ecod0150001a)
 - [Arrêté du 11 décembre 2001 (EQUS0101890A)](arrete-du-11-decembre-2001-equs0101890a)
 - [Arrêté du 11 décembre 2001 (EQUS0101891A)](arrete-du-11-decembre-2001-equs0101891a)
