@@ -8,8 +8,4 @@ Lorsque la période de cotisation est inférieure à une année, les points sont
 
 Le montant de la prestation annuelle est égal au produit du nombre total de points de retraite multiplié par la valeur donnée au point de retraite.
 
-Jusqu'au 31 décembre 1993 la valeur du point est égale à la valeur du tarif de la consultation visée au 1° de l'article D. 645-2 du code de la sécurité sociale.
-
-A compter du 1er janvier 1994 la valeur du point est fixée à 100 F.
-
-Elle est revalorisée chaque année dans les conditions prévues pour les pensions du régime général à l'article R. 351-29-2, 2e et 3e alinéa, du code de la sécurité sociale.
+La valeur du point de retraite est fixée à 102 F.
