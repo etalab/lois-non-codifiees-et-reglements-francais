@@ -1,0 +1,3 @@
+# Article 2
+
+Les travaux pris en considération doivent amener le logement à un minimum d'habitabilité et de confort. Les normes relatives à l'équipement et au confort des logements subventionnés sont celles définies à l'annexe I de l'arrêté du 20 novembre 1979 relatif aux primes à l'amélioration de l'habitat. Ils doivent également entraîner la cessation de la cohabitation ou l'éviter, c'est-à-dire conduire à la construction de deux logements totalement indépendants, même s'ils se trouvent sous le même toit. Seuls, peuvent être éventuellement communs, outre les accès, les annexes telles que caves, celliers, garages.

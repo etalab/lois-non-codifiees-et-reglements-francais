@@ -28,4 +28,12 @@ Dessinateur projecteur en chauffage
 
 Dessinateur d'une commune.
 
-Brevet d'études professionnelles de dessinateur en génie civil.
+Brevet d'études professionnelles :
+
+Spécialité Dessinateur en génie civil
+
+Spécialité Métré du bâtiment
+
+Brevet professionnel :
+
+Spécialité Métré du bâtiment.

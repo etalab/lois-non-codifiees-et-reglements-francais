@@ -1,6 +1,7 @@
 # 1981
 
 - [Arrêté du 2 janvier 1981](arrete-du-2-janvier-1981)
+- [Arrêté du 4 février 1981](arrete-du-4-fevrier-1981)
 - [Arrêté du 6 janvier 1981](arrete-du-6-janvier-1981)
 - [Arrêté du 8 janvier 1981](arrete-du-8-janvier-1981)
 - [Arrêté du 12 février 1981](arrete-du-12-fevrier-1981)
@@ -23,4 +24,5 @@
 - [Arrêté du 28 janvier 1981](arrete-du-28-janvier-1981)
 - [Arrêté du 29 janvier 1981](arrete-du-29-janvier-1981)
 - [Arrêté du 30 décembre 1980](arrete-du-30-decembre-1980)
+- [Arrêté du 30 janvier 1981](arrete-du-30-janvier-1981)
 - [Arrêté du 31 décembre 1980](arrete-du-31-decembre-1980)
