@@ -113,6 +113,7 @@
 - [Arrêté du 23 septembre 1982](arrete-du-23-septembre-1982)
 - [Arrêté du 24 février 1982](arrete-du-24-fevrier-1982)
 - [Arrêté du 24 mars 1982](arrete-du-24-mars-1982)
+- [Arrêté du 24 novembre 1982](arrete-du-24-novembre-1982)
 - [Arrêté du 24 septembre 1982](arrete-du-24-septembre-1982)
 - [Arrêté du 24 mai 1982](arrete-du-24-mai-1982)
 - [Arrêté du 25 février 1982](arrete-du-25-fevrier-1982)

@@ -142,6 +142,7 @@
 - [Décret n°82-794 du 17 septembre 1982](decret-n82-794-du-17-septembre-1982)
 - [Décret n°82-795 du 17 septembre 1982](decret-n82-795-du-17-septembre-1982)
 - [Décret n°82-978 du 17 novembre 1982](decret-n82-978-du-17-novembre-1982)
+- [Décret n°82-998 du 17 novembre 1982](decret-n82-998-du-17-novembre-1982)
 - [Décret n°82-174 du 18 février 1982](decret-n82-174-du-18-fevrier-1982)
 - [Décret n°82-176 du 18 février 1982](decret-n82-176-du-18-fevrier-1982)
 - [Décret n°82-257 du 18 mars 1982](decret-n82-257-du-18-mars-1982)

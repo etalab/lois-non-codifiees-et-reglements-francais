@@ -28,6 +28,7 @@
 - [Loi n° 82-889 du 19 octobre 1982](loi-n-82-889-du-19-octobre-1982)
 - [Loi n° 82-915 du 28 octobre 1982](loi-n-82-915-du-28-octobre-1982)
 - [Loi n° 82-939 du 4 novembre 1982](loi-n-82-939-du-4-novembre-1982)
+- [Loi n° 82-997 du 23 novembre 1982](loi-n-82-997-du-23-novembre-1982)
 - [Loi n°82-1 du 4 janvier 1982](loi-n82-1-du-4-janvier-1982)
 - [Loi n°82-214 du 2 mars 1982](loi-n82-214-du-2-mars-1982)
 - [Loi n°82-3 du 6 janvier 1982](loi-n82-3-du-6-janvier-1982)
