@@ -18,7 +18,7 @@ En fonction de la date de mise sur le marché d'un équipement neuf ou d'occasio
 
 Code du travail, partie Réglementaire, section I du chapitre III du titre III du livre II du code du travail : article R. 233-1-1 ;
 
-Code du travail, partie Réglementaire, section II du chapitre III du titre III du livre II du code du travail : R. 233-5, R. 233-7 et R. 233-13, 233-6, 233-13-1, R. 233-13-2, R. 233-13-3, R. 233-13-6, R. 233-13-7, R. 233-13-8 (1er alinéa), R. 233-13-13, R. 233-13-14, R. 233-13-18 ;
+Code du travail, partie Réglementaire, section II du chapitre III du titre III du livre II du code du travail : R. 233-5, R. 233-7 et R. 233-13, R. 233-6, R. 233-13-1, R. 233-13-2, R. 233-13-3, R. 233-13-6, R. 233-13-7, R. 233-13-8 (1er alinéa), R. 233-13-13, R. 233-13-14, R. 233-13-18, R. 233-13-20 (alinéa 2), R. 233-13-25 (alinéa 1), R. 233-13-27, R. 233-13-28, R. 233-13-32, R. 233-13-33, R. 233-13-34, R. 233-13-35 ;
 
 Code du travail, partie Réglementaire, section III du chapitre III du titre III du livre II du code du travail ;
 
@@ -26,17 +26,17 @@ Code du travail, partie Réglementaire, section V du chapitre III du titre III d
 
 Code du travail, partie Réglementaire, section VIII du chapitre III du titre III du livre II du code du travail ;
 
-Règles techniques de conception et de construction des décrets pris en application de l'article L. 233-5, modifié par la loi no 76-1106 du 6 décembre 1976, lorsque lesdites règles étaient applicables lors de leur mise en service dans l'établissement ;
+Règles techniques de conception et de construction des décrets pris en application de l'article L. 233-5, modifié par la loi n° 76-1106 du 6 décembre 1976, lorsque lesdites règles étaient applicables lors de leur mise en service dans l'établissement ;
 
-Décret no 47-1592 du 23 août 1947 modifié ;
+Décret n° 47-1592 du 23 août 1947 modifié ;
 
-Décret no 65-48 du 8 janvier 1965 modifié ;
+Décret n° 65-48 du 8 janvier 1965 modifié ;
 
 Articles 11 et suivants du décret du 10 juillet 1913 modifié relatif aux ascenseurs et monte-charge ;
 
-Décret no 95-826 du 30 juin 1995 ;
+Décret n° 95-826 du 30 juin 1995 ;
 
-Décret no 98-1084 du 2 décembre 1998 (articles non codifiés) ;
+Décret n° 98-1084 du 2 décembre 1998 (articles non codifiés) ;
 
 Arrêtés pris pour la mise en application des textes réglementaires ci-dessus ;
 
@@ -46,15 +46,15 @@ En outre, lorsque l'appréciation de la conformité à la réglementation dépen
 
 Pour l'appréciation de la conformité aux règles techniques de conception :
 
-- des documents utiles visés par l'avis du 5 août 1994, publié au Journal officiel de la République française (commentaires du ministère chargé du travail et de l'INRS) ;
+-des documents utiles visés par l'avis du 5 août 1994, publié au Journal officiel de la République française (commentaires du ministère chargé du travail et de l'INRS) ;
 
-- des normes harmonisées accordant présomption de conformité à la date de mise sur le marché de l'équipement à l'état neuf, lorsque le constructeur l'applique de manière volontaire, ou lorsque la norme peut constituer une référence utile pour déterminer l'état de la technique du moment.
+-des normes harmonisées accordant présomption de conformité à la date de mise sur le marché de l'équipement à l'état neuf, lorsque le constructeur l'applique de manière volontaire, ou lorsque la norme peut constituer une référence utile pour déterminer l'état de la technique du moment.
 
 Pour l'appréciation de la conformité aux prescriptions techniques d'utilisation :
 
-- des instructions et notes techniques élaborées par les ministères chargés du travail et de l'agriculture ;
+-des instructions et notes techniques élaborées par les ministères chargés du travail et de l'agriculture ;
 
-- des documents établis au niveau des branches professionnelles dans le cadre des plans de mise en conformité des équipements de travail, validés par le ministère chargé du travail et listés au Journal officiel de la République française.
+-des documents établis au niveau des branches professionnelles dans le cadre des plans de mise en conformité des équipements de travail, validés par le ministère chargé du travail et listés au Journal officiel de la République française.
 
 4. Conditions permettant le respect
 
@@ -64,13 +64,13 @@ Pour accomplir sa mission, le vérificateur de l'organisme agréé doit demander
 
 Copie de la demande de l'inspecteur ou du contrôleur du travail précisant les règles ou prescriptions techniques sur lesquelles doit porter la vérification de l'état de conformité, en fonction de :
 
-- la date de mise sur le marché à l'état neuf (ou considéré comme neuf, au sens de l'article R. 233-49-3 du code du travail) dans l'un des territoires de l'Union européenne ;
+-la date de mise sur le marché à l'état neuf (ou considéré comme neuf, au sens de l'article R. 233-49-3 du code du travail) dans l'un des territoires de l'Union européenne ;
 
-- la date de première mise en service dans l'entreprise ou l'établissement ;
+-la date de première mise en service dans l'entreprise ou l'établissement ;
 
-- les documents nécessaires à la réalisation de la vérification :
+-les documents nécessaires à la réalisation de la vérification :
 
-- déclaration de conformité, notice d'instructions, schémas, plans d'installation, rapports ou procès-verbaux d'essais et d'épreuves (pour les appareils de levage notamment), etc.
+-déclaration de conformité, notice d'instructions, schémas, plans d'installation, rapports ou procès-verbaux d'essais et d'épreuves (pour les appareils de levage notamment), etc.
 
 Il est souhaitable que le chef d'établissement ou son représentant accompagne le vérificateur.
 
@@ -146,7 +146,7 @@ j) Lorsque l'équipement est utilisé pour le levage, les essais de fonctionneme
 
 En l'absence de demande expresse de l'inspection du travail, les investigations à effectuer en fonction des règles ou prescriptions techniques applicables sont précisées selon des modalités complémentaires au présent cahier des charges, définies par les ministères chargés du travail et de l'agriculture après consultation de la commission spécialisée du Conseil supérieur de la prévention des risques professionnels.
 
-Nota. - L'ordre défini ci-dessus est donné à titre indicatif, il peut être modifié pour tenir compte de la nature des équipements de travail vérifiés.
+Nota.-L'ordre défini ci-dessus est donné à titre indicatif, il peut être modifié pour tenir compte de la nature des équipements de travail vérifiés.
 
 7. Contenu du rapport
 
@@ -160,27 +160,27 @@ Le contenu du rapport comportera donc toutes informations précisant les conditi
 
 a) Désignation de l'équipement :
 
-- dénomination ;
+-dénomination ;
 
-- constructeur, adresse ;
+-constructeur, adresse ;
 
-- responsable de la mise sur le marché (constructeur, importateur, loueur...), adresse ;
+-responsable de la mise sur le marché (constructeur, importateur, loueur...), adresse ;
 
-- modèle ou type ;
+-modèle ou type ;
 
-- numéro de fabrication ;
+-numéro de fabrication ;
 
-- utilisateur, adresse ;
+-utilisateur, adresse ;
 
-- numéro ou repère attribué par l'utilisateur ;
+-numéro ou repère attribué par l'utilisateur ;
 
-- lieu d'utilisation.
+-lieu d'utilisation.
 
 b) Renseignements complémentaires :
 
-- situation de l'équipement : neuf ou d'occasion, loué, en service... ;
+-situation de l'équipement : neuf ou d'occasion, loué, en service... ;
 
-- date de mise sur le marché à l'état neuf, date de mise en service dans l'établissement.
+-date de mise sur le marché à l'état neuf, date de mise en service dans l'établissement.
 
 3. Textes réglementaires pris en compte lors de la vérification.
 
@@ -232,6 +232,6 @@ Le rapport doit comporter une conclusion claire et précise, déclarant la confo
 
 (1) Cette appréciation de l'adéquation se révélera nécessaire dans l'un des deux cas suivants :
 
-- lorsqu'une non-conformité à des règles de conception ne présente aucun inconvénient en matière d'utilisation (absence d'éclairage intégré à la machine, compensé par un éclairage adapté chez l'utilisateur, ou encore : absence de couteau diviseur sur une scie circulaire utilisée exclusivement pour le travail de matières plastiques, par exemple) ;
+-lorsqu'une non-conformité à des règles de conception ne présente aucun inconvénient en matière d'utilisation (absence d'éclairage intégré à la machine, compensé par un éclairage adapté chez l'utilisateur, ou encore : absence de couteau diviseur sur une scie circulaire utilisée exclusivement pour le travail de matières plastiques, par exemple) ;
 
-- lorsqu'une machine, bien que conforme aux règles techniques de conception, n'est pas utilisée conformément aux conditions d'emploi prévues par le fabricant (machine conçue pour un emploi standard utilisée dans un environnement particulièrement humide ou corrosif, par exemple, ou encore : engin de levage utilisé en dehors des limites fixées par les abaques de charge).
+-lorsqu'une machine, bien que conforme aux règles techniques de conception, n'est pas utilisée conformément aux conditions d'emploi prévues par le fabricant (machine conçue pour un emploi standard utilisée dans un environnement particulièrement humide ou corrosif, par exemple, ou encore : engin de levage utilisé en dehors des limites fixées par les abaques de charge).
