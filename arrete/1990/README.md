@@ -422,6 +422,8 @@
 - [Arrêté du 25 juin 1990 (INDD9000449A)](arrete-du-25-juin-1990-indd9000449a)
 - [Arrêté du 25 juin 1990 (MCCB9000254A)](arrete-du-25-juin-1990-mccb9000254a)
 - [Arrêté du 25 juin 1990 (PTTP9000508A)](arrete-du-25-juin-1990-pttp9000508a)
+- [Arrêté du 25 juin 1990 (PTTP9000509A)](arrete-du-25-juin-1990-pttp9000509a)
+- [Arrêté du 25 juin 1990 (PTTP9000510A)](arrete-du-25-juin-1990-pttp9000510a)
 - [Arrêté du 25 juin 1990 (PTTP9000511A)](arrete-du-25-juin-1990-pttp9000511a)
 - [Arrêté du 25 juin 1990 (PTTP9000512A)](arrete-du-25-juin-1990-pttp9000512a)
 - [Arrêté du 26 avril 1990 (SPSH9000912A)](arrete-du-26-avril-1990-spsh9000912a)
