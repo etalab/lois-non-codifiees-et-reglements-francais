@@ -4,6 +4,10 @@ L'enregistrement d'un pari entraîne la remise au parieur, après versement de s
 
 Les enjeux sont réglés en espèces et au comptant ou par débit d'un compte.
 
+Les enjeux peuvent également être réglés par carte bancaire dans les postes d'enregistrement visés aux articles 97 et 98 du présent arrêté et habilités par le Pari mutuel urbain à accepter ce mode de règlement.
+
+Les montants des paiements autorisés, compris entre un minimum de 100 F et un maximum de 5 000 F, des enjeux par carte bancaire sont portés à la connaissance du public dans chaque établissement.
+
 Les paris enregistrés au pari mutuel urbain, par téléphone, par serveur vocal interactif, par Minitel et par terminal numérique, ne donnent pas lieu à la remise d'un récépissé.
 
 Les modalités d'utilisation de ces divers types de bordereaux sont précisées dans les articles 109 à 116 du présent arrêté.
