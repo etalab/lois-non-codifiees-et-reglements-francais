@@ -1,0 +1,3 @@
+# Article 8-5
+
+Les maîtres titulaires d'une licence d'enseignement ou de titres admis en substitution par les arrêtés pris en application du décret susvisé du 21 octobre 1975, lorsqu'ils justifient de cinq ans de services effectifs d'enseignement, dont au moins trois ans dans une classe sous contrat autre qu'une classe élémentaire, peuvent demander à bénéficier du classement, en tant que professeurs qualifiés, dans l'échelle de rémunération des adjoints d'enseignement chargés d'enseignement, sous réserve d'avoir obtenu un avis favorable à l'une des inspections pédagogiques spéciales auxquelles ils seront soumis à cette fin.

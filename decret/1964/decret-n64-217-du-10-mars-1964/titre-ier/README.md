@@ -13,6 +13,7 @@
 - [Article 8](article-8.md)
 - [Article 8-2](article-8-2.md)
 - [Article 8-3](article-8-3.md)
+- [Article 8-5](article-8-5.md)
 - [Article 8-7](article-8-7.md)
 - [Article 8-8](article-8-8.md)
 - [Article 10](article-10.md)
