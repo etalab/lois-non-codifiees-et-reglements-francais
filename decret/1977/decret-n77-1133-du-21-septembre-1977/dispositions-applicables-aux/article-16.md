@@ -1,8 +1,10 @@
 # Article 16
 
-Sans préjudice de l'application de l'article 15, lorsque, en raison de leur localisation, des installations comprises dans les catégories prévues à cet article sont susceptibles de présenter des inconvénients ou des dangers dans plusieurs départements, l'avis du ou des conseils régionaux intéressés est sollicité et l'autorisation est accordée par le ministre chargé des installations classées.
+Les dispositions des articles 4 à 10 et 11, premier alinéa, sont applicables aux demandes concernant les installations mentionnées à l'article 15.
 
-A cette fin, le préfet du département dans lequel l'installation doit être implantée saisit avant l'ouverture de l'enquête le ministre chargé des installations classées. Dans un délai de deux mois à compter de l'ouverture de l'enquête publique, le ministre avise le ou les préfets de région d'avoir à saisir dans un délai d'un mois le ou les conseils régionaux intéressés. Ne peuvent être pris en considération que les avis exprimés dans un délai de huit mois.
+Dans le cas prévu au troisième alinéa de l'article 15, le commissaire de la République du département dans lequel l'installation doit être implantée saisit, avant l'ouverture de l'enquête, le ministre chargé des installations classées. Dans un délai de deux mois à compter de l'ouverture de l'enquête publique, le ministre avise le ou les commissaires de la République de région ou le ou les commissaires de la République des départements autres que ceux où l'installation doit être implantée d'avoir à saisir, dans un délai d'un mois, respectivement le ou les conseils régionaux et le ou les conseils généraux intéressés.
+
+Ne peuvent être pris en compte que les avis émis dans un délai de quatre mois.
 
 Les résultats de l'enquête et des consultations sont transmis dans les huit jours au ministre chargé des installations classées par les préfets intéressés.
 
