@@ -1,5 +1,5 @@
 # Article 36
 
-Les personnes âgées de soixante ans et plus, les invalides et malades incapables de travailler peuvent bénéficier, à défaut d'un reclassement professionnel, d'une subvention d'installation dont le taux plafond et le taux plancher sont fixés par arrêté.
+Les personnes âgées de cinquante ans et plus au 31 décembre de l'année de leur rapatriement, les invalides et les malades incapables de travailler peuvent bénéficier, à défaut d'un reclassement professionnel, d'une subvention d'installation dont le plafond et le taux plancher sont fixés par arrêté.
 
-Le montant de chaque subvention est fixé par le préfet ou le délégué régional, après avis de la commission sociale régionale. Il varie en fonction des ressources des intéressés, de leur situation de famille et du lieu de leur résidence définitive.
+Cette subvention est attribuée et son montant fixé par le délégué pour l'accueil et le reclassement des Français rapatriés. Le montant de cette subvention varie en fonction des ressources des intéressés, de leur situation de famille et du lieu de leur résidence.
