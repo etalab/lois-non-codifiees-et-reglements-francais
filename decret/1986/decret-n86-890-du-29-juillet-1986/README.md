@@ -1,4 +1,4 @@
-# Arrêté du 29 juillet 1986 fixant le montant de la taxe parafiscale instituée au profit des sections régionales de la conchyliculture
+# Décret n°86-890 du 29 juillet 1986 autorisant les sections régionales de la conchyliculture à percevoir une taxe parafiscale
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
