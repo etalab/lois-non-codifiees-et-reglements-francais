@@ -5,3 +5,4 @@
 - [Chapitre III : Avancement.](chapitre-iii)
 - [Chapitre IV : Détachement.](chapitre-iv)
 - [Chapitre V : Dispositions transitoires et finales.](chapitre-v)
+- [Article 21](article-21.md)

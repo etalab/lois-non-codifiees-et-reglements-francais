@@ -6,3 +6,4 @@
 - [Chapitre IV : Avancement.](chapitre-iv)
 - [Chapitre V : Détachement.](chapitre-v)
 - [Chapitre VI : Dispositions transitoires.](chapitre-vi)
+- [Article 37](article-37.md)
