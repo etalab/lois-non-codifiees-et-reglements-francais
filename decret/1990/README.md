@@ -231,6 +231,7 @@
 - [Décret n°90-98 du 23 janvier 1990 (MENN8902170D)](decret-n90-98-du-23-janvier-1990-menn8902170d)
 - [Décret n°91-704 du 23 juillet 1991 (INTC9100270D)](decret-n91-704-du-23-juillet-1991-intc9100270d)
 - [Décret n°91-705 du 23 juillet 1991 (INTC9100272D)](decret-n91-705-du-23-juillet-1991-intc9100272d)
+- [Décret n°90-362 du 24 avril 1990 (ECOC9000032D)](decret-n90-362-du-24-avril-1990-ecoc9000032d)
 - [Décret n°90-92 du 24 janvier 1990 (MENN8902941D)](decret-n90-92-du-24-janvier-1990-menn8902941d)
 - [Décret n°90-93 du 25 janvier 1990 (INTX9010034D)](decret-n90-93-du-25-janvier-1990-intx9010034d)
 - [Décret n°90-94 du 25 janvier 1990 (MERP9000002D)](decret-n90-94-du-25-janvier-1990-merp9000002d)

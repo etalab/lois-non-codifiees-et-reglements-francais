@@ -112,6 +112,7 @@
 - [Arrêté du 9 mars 1990 (EQUA9000385A)](arrete-du-9-mars-1990-equa9000385a)
 - [Arrêté du 9 mars 1990 (LOGC9000035A)](arrete-du-9-mars-1990-logc9000035a)
 - [Arrêté du 10 avril 1990 (MERG9000054A)](arrete-du-10-avril-1990-merg9000054a)
+- [Arrêté du 10 avril 1990 (MERP9000065A)](arrete-du-10-avril-1990-merp9000065a)
 - [Arrêté du 10 janvier 1990 (BUDB8960076A)](arrete-du-10-janvier-1990-budb8960076a)
 - [Arrêté du 10 janvier 1990 (ECOT8910062A)](arrete-du-10-janvier-1990-ecot8910062a)
 - [Arrêté du 10 janvier 1990 (PRMX9010020A)](arrete-du-10-janvier-1990-prmx9010020a)
