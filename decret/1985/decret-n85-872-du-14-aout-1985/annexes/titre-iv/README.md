@@ -1,3 +1,3 @@
-# Titre IV : Etiquetage et présentation des produits.
+# TITRE IV
 
 - [Article Annexe](article-annexe.md)

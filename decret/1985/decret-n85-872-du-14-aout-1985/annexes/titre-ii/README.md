@@ -1,3 +1,3 @@
-# Titre II : Matières premières.
+# TITRE II
 
 - [Article Annexe](article-annexe.md)
