@@ -6,4 +6,5 @@
 - [DECRET](decret)
 - [DECRET_LOI](decret-loi)
 - [LOI](loi)
+- [LOI_ORGANIQUE](loi-organique)
 - [ORDONNANCE](ordonnance)
