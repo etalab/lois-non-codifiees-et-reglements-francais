@@ -307,6 +307,7 @@
 - [Décret n°90-371 du 24 avril 1990 (MAEJ9030035D)](decret-n90-371-du-24-avril-1990-maej9030035d)
 - [Décret n°90-92 du 24 janvier 1990 (MENN8902941D)](decret-n90-92-du-24-janvier-1990-menn8902941d)
 - [Décret n°90-369 du 25 avril 1990 (MENK8970127D)](decret-n90-369-du-25-avril-1990-menk8970127d)
+- [Décret n°90-506 du 25 juin 1990 (ECOT9013359D)](decret-n90-506-du-25-juin-1990-ecot9013359d)
 - [Décret n°90-93 du 25 janvier 1990 (INTX9010034D)](decret-n90-93-du-25-janvier-1990-intx9010034d)
 - [Décret n°90-94 du 25 janvier 1990 (MERP9000002D)](decret-n90-94-du-25-janvier-1990-merp9000002d)
 - [Décret n°90-95 du 25 janvier 1990 (MERP9000003D)](decret-n90-95-du-25-janvier-1990-merp9000003d)
