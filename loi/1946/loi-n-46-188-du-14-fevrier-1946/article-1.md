@@ -1,7 +1,0 @@
-# Article 1
-
-A dater du 1er janvier 1946, le personnel titulaire des exploitations et établissements miniers (mines, minières, ardoises et exploitations de bauxite) est doté d'un statut dont les dispositions seront fixées par décret pris en conseil des ministres avant le 15 mars 1946 et après consultation d'une commission permanente du statut composée des délégués des organisations syndicales les plus représentatives officiellement reconnues.
-
-Ce statut s'appliquera à l'ensemble des personnels titulaires des exploitations et établissements susvisés (ouvriers, employés, cadres de maîtrise et ingénieurs). Il instituera des commissions locales, régionales et nationales de discipline et de conciliation ; il fixera les coefficients de hiérarchie professionnelle, les majorations d'ancienneté et définira les catégories d'emplois comprises dans cette hiérarchie ; il réglera notamment les questions relatives au libre exercice du droit syndical, à l'embauchage et au licenciement, aux congés payés, aux avantages en nature et à la formation professionnelle. Il définira les conditions d'exemption du service militaire pour les jeunes mineurs, jusqu'à la promulgation de la loi sur la réorganisation de l'armée.
-
-Ce statut sera rendu applicable .. aux territoires relevant du ministère de la France d'outre-mer dans des conditions qui seront fixées par décrets pris sur le rapport des ministres intéressés.
