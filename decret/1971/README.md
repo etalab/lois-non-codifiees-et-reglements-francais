@@ -6,6 +6,7 @@
 - [Décret n°71-542 du 2 juillet 1971](decret-n71-542-du-2-juillet-1971)
 - [Décret n°71-543 du 2 juillet 1971](decret-n71-543-du-2-juillet-1971)
 - [Décret n°71-544 du 2 juillet 1971](decret-n71-544-du-2-juillet-1971)
+- [Décret n°71-715 du 2 septembre 1971](decret-n71-715-du-2-septembre-1971)
 - [Décret n°71-351 du 4 mai 1971](decret-n71-351-du-4-mai-1971)
 - [Décret n°71-121 du 5 février 1971](decret-n71-121-du-5-fevrier-1971)
 - [Décret n°71-23 du 6 janvier 1971](decret-n71-23-du-6-janvier-1971)
@@ -63,3 +64,4 @@
 - [Décret n°71-644 du 30 juillet 1971](decret-n71-644-du-30-juillet-1971)
 - [Décret n°71-647 du 30 juillet 1971](decret-n71-647-du-30-juillet-1971)
 - [Décret n°70-1329 du 31 décembre 1970](decret-n70-1329-du-31-decembre-1970)
+- [Décret n°71-716 du 31 août 1971](decret-n71-716-du-31-aout-1971)
