@@ -1,6 +1,6 @@
 # Article 2-2
 
-Chaque versement de cotisations en application de l'article 2 est obligatoirement accompagné d'un bordereau [*document, formalité*] daté et signé par l'employeur indiquant, d'une part, le nombre de salariés et, d'autre part, l'assiette et le mode de calcul des cotisations.
+Chaque versement de cotisations en application de l'article 2 est obligatoirement accompagné d'un bordereau [*document, formalité*] daté et signé par l'employeur indiquant, d'une part, le nombre de salariés et, d'autre part, l'assiette et le montant des cotisations dues.
 
 Ce bordereau doit être conforme à un modèle fixé par arrêté du ministre de l'agriculture.
 

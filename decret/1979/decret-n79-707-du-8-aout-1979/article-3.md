@@ -1,6 +1,6 @@
 # Article 3
 
-Avant d'engager une des procédures prévues à l'article 1143-2 du Code rural, la caisse de mutualité sociale agricole ou l'organisme assureur, ou en cas de carence de l'une ou de l'autre de ceux-ci, le chef du service régional de l'inspection du travail, de l'emploi et de la politique sociale agricoles doit adresser au débiteur une lettre recommandée avec demande d'avis de réception, le mettant en demeure de s'acquitter de sa dette dans un délai de quinze jours.
+Avant d'engager l'une des procédures prévues à l'article 1143-2 du code rural, la caisse de mutualité sociale agricole ou l'organisme assureur ou, en cas de carence de l'une ou l'autre, le préfet de région doit adresser au débiteur une lettre recommandée, avec demande d'avis de réception, le mettant en demeure de s'acquitter de sa dette dans un délai d'un mois.
 
 La mise en demeure doit, sous peine de nullité, indiquer [*conditions de forme, mentions obligatoires*] :
 

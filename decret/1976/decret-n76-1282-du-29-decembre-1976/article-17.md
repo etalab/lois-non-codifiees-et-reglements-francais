@@ -1,8 +1,10 @@
 # Article 17
 
-Sur demande écrite des intéressés, le conseil d'administration de la caisse de mutualité sociale agricole peut, en cas de bonne foi ou de force majeure, accorder une remise totale ou partielle des majorations de retard résultant de l'article 15 du présent décret.
+Par dérogation aux dispositions des articles 14, 15 et 16, les pénalités et majorations de retard cessent d'être exigibles en cas de première infraction et de somme inférieure à un montant fixé par arrêté du ministre chargé de l'agriculture lorsque l'employeur a réglé la totalité des cotisations et fourni les documents prévus aux articles 1er, 2-2 et 7 dans le délai d'un mois suivant la date d'exigibilité des cotisations.
 
-La demande n'est recevable qu'après paiement de la totalité des cotisations ayant donné lieu à l'application desdites majorations de retard.
+Dans les autres cas, sur demande écrite des intéressés, le conseil d'administration de la caisse de mutualité sociale agricole peut accorder, en cas de bonne foi dûment prouvée, une remise totale ou partielle des pénalités et des majorations de retard résultant des articles 14 et 15.
+
+La demande n'est recevable qu'après paiement de la totalité des cotisations ayant donné lieu aux majorations de retard. Elle doit être présentée, sous peine de forclusion, dans le délai fixé par arrêté des ministres chargés de l'agriculture et du budget.
 
 Le conseil d'administration peut déléguer tout ou partie de ses pouvoirs de décision à la commission de recours amiable prévue à l'article R. 142-1 du code de la sécurité sociale.
 

@@ -10,8 +10,6 @@ C - Le taux de la cotisation des assurances sociales agricoles afférent au risq
 
 A 0,10 p. 100 à la charge du salarié ou assimilé sur la totalité des rémunérations ou gains perçus par l'intéressé [*assiette*].
 
-2. La cotisation du salarié au taux fixé au 1. ci-dessus pour la couverture du risque vieillesse cesse d'être exigible à compter du premier jour du mois au cours duquel l'assuré atteint son soixante-cinquième anniversaire [*exonération*].
-
-3. Le taux des contributions patronales et ouvrières dues pour les apprentis et les stagiaires remplissant les conditions fixées par le règlement d'administration publique prévu à l'article 19 ci-après peut être réduit par arrêté concerté du ministre de l'agriculture, du ministre de l'économie et des finances et du ministre de la santé publique et de la sécurité sociale.
+2. Le taux des contributions patronales et ouvrières dues pour les apprentis et les stagiaires remplissant les conditions fixées par le règlement d'administration publique prévu à l'article 19 ci-après peut être réduit par arrêté concerté du ministre de l'agriculture, du ministre de l'économie et des finances et du ministre de la santé publique et de la sécurité sociale.
 
 La contribution ouvrière n'est pas due pour les apprentis et stagiaires qui ne perçoivent aucune rémunération en espèces.

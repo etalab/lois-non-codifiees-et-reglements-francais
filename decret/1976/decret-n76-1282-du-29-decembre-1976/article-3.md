@@ -8,7 +8,7 @@ Le délai prévu au premier alinéa du présent article court [*point de départ
 
 - lorsqu'il s'agit de la vente ou de la cession d'une exploitation agricole ou d'une entreprise ne constituant pas un fonds de commerce, du jour où le cessionnaire a pris effectivement la direction de l'exploitation ou entreprise ;
 
-- lorsqu'il s'agit de la vente ou de la cession d'un fonds de commerce, du jour de la publication de la cession ou de la vente dans un journal d'annonces légales ;
+- lorsqu'il s'agit de la vente ou de la cession d'un fonds de commerce, du jour de la publication de la cession ou de la vente dans le Bulletin officiel des annonces civiles et commerciales;
 
 - lorsqu'il s'agit de la cessation de l'activité de l'exploitation ou de l'entreprise ou de la fermeture de l'établissement, du jour de cette cessation définitive ou de la fermeture.
 

@@ -1,9 +1,9 @@
 # Article 95
 
-Par. 1er - Les contrôleurs des lois sociales en agriculture [*attributions*] ont qualité pour dresser, en exécution de l'article 4 du décret susvisé du 28 octobre 1935, des procès-verbaux faisant foi jusqu'à preuve contraire, en cas d'infraction aux dispositions légales régissant l'immatriculation des salariés et assimilés et le versement des cotisations.
+Les inspecteurs du travail placés sous l'autorité du ministre de l'agriculture, les contrôleurs des lois sociales en agriculture ainsi que les agents de contrôle assermentés des caisses de mutualité sociale agricole [*autorités compétentes*] peuvent interroger les salariés et assimilés soumis au régime des assurances sociales agricoles pour connaître leur nom, adresse, emploi, le montant de leur rémunération et celui des retenues effectuées sur leur salaire au titre des assurances sociales.
 
-Les procès-verbaux dressés par les agents des caisses de mutualité sociale agricole assermentés, dans les conditions prévues par la loi susvisée du 15 juillet 1942, ne font foi jusqu'à preuve contraire qu'à condition d'être contresignés par un contrôleur des lois sociales en agriculture.
+Les employeurs sont tenus [*obligations*] de recevoir à toute époque les fonctionnaires et agents de contrôle susmentionnés et de leur présenter tous documents nécessaires à l'exercice de leur contrôle. Les oppositions ou obstacles à ces visites ou inspections sont passibles des peines prévues par l'article L. 243-11 du code de la sécurité sociale.
 
-Par. 2 - Les procès-verbaux visés au paragraphe précédent sont communiqués à l'employeur par lettre recommandée avec demande d'avis de réception [*forme*]. L'employeur est invité par ladite lettre à faire connaître ses observations dans le délai de huit jours à compter de sa réception.
+Ces fonctionnaires et agents de contrôle doivent communiquer, le cas échéant, leurs observations à l'employeur en l'invitant à y répondre dans les quinze jours [*délai*]. Ils peuvent consigner ces observations sur le livre de paie.
 
-A l'expiration de ce délai, copie desdits procès-verbaux est transmise au contrôleur divisionnaire des lois sociales en agriculture.
+A l'expiration de ce délai, ils transmettent au directeur de la caisse de mutualité sociale agricole leurs observations accompagnées de la réponse éventuelle de l'intéressé.
