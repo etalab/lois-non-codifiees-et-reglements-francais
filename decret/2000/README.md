@@ -260,6 +260,7 @@
 - [Décret n°2000-366 du 26 avril 2000 (INTM0000004D)](decret-n2000-366-du-26-avril-2000-intm0000004d)
 - [Décret n°2000-367 du 26 avril 2000 (MENX0000070D)](decret-n2000-367-du-26-avril-2000-menx0000070d)
 - [Décret n°2000-368 du 26 avril 2000 (EQUU0000153D)](decret-n2000-368-du-26-avril-2000-equu0000153d)
+- [Décret n°2000-383 du 26 avril 2000 (DEFP0001226D)](decret-n2000-383-du-26-avril-2000-defp0001226d)
 - [Décret n°95-462 du 26 avril 1995 (MCCX9400163D)](decret-n95-462-du-26-avril-1995-mccx9400163d)
 - [Décret n° 2000-69 du 27 janvier 2000 (EQUX0000013D)](decret-n-2000-69-du-27-janvier-2000-equx0000013d)
 - [Décret n°2000-363 du 27 avril 2000 (DEFP0001293D)](decret-n2000-363-du-27-avril-2000-defp0001293d)
