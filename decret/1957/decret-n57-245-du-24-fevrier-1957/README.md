@@ -1,4 +1,4 @@
-# Décret n°57-245 du 24 février 1957 relatif à la réparation et la prévention des accidents du travail et des maladies professionnelles dans les territoires d'outre-mer et au Cameroun
+# Décret n°57-245 du 24 février 1957 relatif à la réparation et la prévention des accidents du travail et des maladies professionnelles dans les territoires d'outre-mer
 
 - [Titre Ier : Champ d'application](titre-ier)
 - [Titre II : Organisation technique et financière](titre-ii)
