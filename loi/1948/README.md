@@ -7,6 +7,8 @@
 - [Loi n° 48-1437 du 14 septembre 1948](loi-n-48-1437-du-14-septembre-1948)
 - [Loi n° 48-1465 du 22 septembre 1948](loi-n-48-1465-du-22-septembre-1948)
 - [Loi n° 48-1469 du 22 septembre 1948](loi-n-48-1469-du-22-septembre-1948)
+- [Loi n° 48-1485 du 25 septembre 1948](loi-n-48-1485-du-25-septembre-1948)
+- [Loi n° 48-1490 du 25 septembre 1948](loi-n-48-1490-du-25-septembre-1948)
 - [Loi n° 48-178 du 2 février 1948](loi-n-48-178-du-2-fevrier-1948)
 - [Loi n° 48-340 du 28 février 1948](loi-n-48-340-du-28-fevrier-1948)
 - [Loi n° 48-403 du 10 mars 1948](loi-n-48-403-du-10-mars-1948)
