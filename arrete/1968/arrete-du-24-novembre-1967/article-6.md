@@ -30,6 +30,8 @@ Signalisation des passages à niveau avec voie électrifiée lorsque la hauteur 
 
 Balise J 1 : Balisage des virages.
 
+Balisage J1 bis : Balisage des virages sur routes fréquemment enneigées.
+
 Balise J 3 : Signalisation de position des intersections de routes.
 
 Balise J 4 : Balisage des virages.

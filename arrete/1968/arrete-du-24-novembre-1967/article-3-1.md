@@ -10,7 +10,7 @@ Panneau AB 3 a : Cédez le passage à l'intersection. Signal de position.
 
 Panneau AB 3 b : Cédez le passage à l'intersection. Signal avancé du AB 3 a.
 
-Panneau AB 4 : Arrêt à l'intersection dans les conditions définies à l'article R 27 du code de la route. Signal de position.
+Panneau AB 4 : Arrêt à l'intersection dans les conditions définies à l'article R 415-6 du code de la route. Signal de position.
 
 Panneau AB 5 : Arrêt à l'intersection. Signal avancé du AB 4.
 

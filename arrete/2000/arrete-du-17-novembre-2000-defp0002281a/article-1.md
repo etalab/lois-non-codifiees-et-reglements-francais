@@ -2,6 +2,8 @@
 
 Les dispositions prévues par le décret du 6 février 1950 susvisé sont applicables aux fonctionnaires ci-dessous énumérés occupant des emplois permanents à l'administration centrale du ministère de la défense :
 
+- délégué général pour l'armement, secrétaire général pour l'administration ;
+
 -directeurs, chefs de service ;
 
 -sous-directeurs ;
@@ -43,8 +45,6 @@ Les dispositions prévues par le décret du 6 février 1950 susvisé sont applic
 -conducteurs d'automobile ;
 
 -agents des services techniques ;
-
--agents de service ;
 
 -téléphonistes ;
 

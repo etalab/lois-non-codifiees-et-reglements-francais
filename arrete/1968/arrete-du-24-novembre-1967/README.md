@@ -22,3 +22,4 @@
 - [Article 12-1](article-12-1.md)
 - [Article 13](article-13.md)
 - [Article Annexe](article-annexe.md)
+- [Feux de circulation permanents.](feux-de-circulation-permanents)

@@ -4,7 +4,7 @@ Le présent arrêté a pour objet de définir et de mettre en place un programme
 
 Doit être admise dans la zone de surveillance renforcée, si la situation épidémiologique locale le justifie :
 
-- toute commune ayant connu des foyers de brucellose bovine au cours des cinq années précédant la date du présent arrêté, et
+- toute commune ayant connu des foyers de brucellose bovine depuis moins de cinq ans, et
 
 - toute commune limitrophe d'une commune répondant au critère précédent.
 
@@ -12,7 +12,7 @@ La liste des communes de la zone de surveillance renforcée est fixée à l'anne
 
 Au sein de la zone de surveillance renforcée, certaines communes sont dénommées "zone de surveillance renforcée prioritaire" (ZSRP). Doit être admise dans la zone de surveillance renforcée prioritaire :
 
-- toute commune ayant connu des foyers de brucellose bovine au cours des trois années précédant la date du présent arrêté ;
+- toute commune ayant connu des foyers de brucellose bovine depuis moins de trois ans ;
 
 - toute commune limitrophe d'une commune répondant au critère précédent si la situation épidémiologique locale le justifie.
 

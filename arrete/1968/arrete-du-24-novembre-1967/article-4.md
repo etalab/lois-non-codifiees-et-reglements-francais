@@ -62,11 +62,15 @@ Panneau B 9 c. - Accès interdit aux véhicules à traction animale.
 
 Panneau B 9 d. - Accès interdit aux véhicules agricoles à moteur.
 
-Panneau B 9 e. - Accès interdit aux voitures à bras à l'exclusion de celles visées à l'article R. 217 du code de la route.
+Panneau B 9 e. - Accès interdit aux voitures à bras à l'exclusion de celles visées à l'article R. 412-34 du code de la route.
 
 Panneau B 9 f. - Accès interdit aux véhicules de transport en commun de personnes.
 
 Panneau B 9 g. - Accès interdit aux cyclomoteurs.
+
+Panneau B 9 h. - Accès interdit aux motocyclettes et motocyclettes légères, au sens de l'article R. 311-1 du code de la route.
+
+Panneau B 9 i. - Accès interdit aux véhicules tractant une caravane ou une remorque de plus de 250 kg, tel que le poids total roulant autorisé, véhicule et caravane ou remorque, ne dépasse pas 3,5 t.
 
 Panneau B 10 a. - Accès interdit aux véhicules, véhicules articulés, trains doubles ou ensemble de véhicules dont la longueur est supérieure au nombre indiqué.
 
@@ -86,19 +90,19 @@ Panneau B 16. - Signaux sonores interdits.
 
 Panneau B 17. - Interdiction aux véhicules de circuler sans maintenir entre eux un intervalle au moins égal au nombre indiqué.
 
-Panneau B 18 a. - Accès interdit aux véhicules transportant plus d'une certaine quantité de produits explosifs ou facilement inflammables.
+Panneau B 18 a. - Accès interdit aux véhicules transportant des marchandises explosives ou facilement inflammables, de nature et en quantité définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
 
-Panneau B 18 b. - Accès interdit aux véhicules transportant plus d'une certaine quantité de produits de nature à polluer les eaux.
+Panneau B 18 b. - Accès interdit aux véhicules transportant des marchandises susceptibles de polluer les eaux, de nature et en quantité définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
 
-Panneau B 18 c. - Accès interdit aux véhicules transportant des matières dangereuses et signalés comme tels.
+Panneau B 18 c. - Accès interdit aux véhicules transportant des marchandises dangereuses définies par l'arrêté du 1er juin 2001 relatif au transport des marchandises dangereuses par route, et signalés comme tels.
 
 Panneau B 19. - Autres interdictions dont la nature est indiquée par une inscription sur le panneau.
 
 Ces panneaux sont de forme circulaire, sauf les panneaux de type B 6 b.
 
-Le panneau B 1 Sens interdit " est à fond rouge et porte un symbole blanc.
+Le panneau B 1 Sens interdit est à fond rouge et porte un symbole blanc.
 
-Les autres panneaux, à l'exception de ceux du type B 6, ont le fond blanc. Ils ont une bordure rouge, elle-même entourée d'un listel blanc, leurs symboles et inscriptions sont noirs, à l'exception " des panneaux B 3, B 3 a, B 15, B 18 a et B 18 b dont une partie du symbole est rouge et des panneaux B 18 a et B 18 c dont une partie du symbole est orange. La barre oblique, quand elle est prévue, est de couleur rouge.
+Les autres panneaux, à l'exception de ceux du type B 6, ont le fond blanc. Ils ont une bordure rouge, elle-même entourée d'un listel blanc, leurs symboles et inscriptions sont noirs, à l'exception des panneaux B 3, B 3 a, B 15, B 18 a et B 18 b dont une partie du symbole est rouge et des panneaux B 18 a et B 18 c dont une partie du symbole est orange. La barre oblique, quand elle est prévue, est de couleur rouge.
 
 Les panneaux B 6 a et B 6 d sont à fond bleu avec une bande rouge elle-même bordée d'un listel blanc. La ou les barres sont rouges. Les inscriptions des panneaux B 6 a 2 et B 6 a 3 sont de couleur blanche.
 
@@ -128,7 +132,7 @@ Panneau B 21 e. - Directions obligatoires à la prochaine intersection : à droi
 
 Panneau B 21 f. - (La définition de ce panneau est supprimée par l'arrêté du 16 février 1984, art. 2.)
 
-Panneau B 22 a. - Piste ou bande obligatoire pour les cycles sans side-car ou remorque. "
+Panneau B 22 a. - Piste ou bande obligatoire pour les cycles sans side-car ou remorque.
 
 Panneau B 22 b. - Chemin obligatoire pour piétons.
 
@@ -144,7 +148,7 @@ Panneau B 27 b. - Voie réservée aux tramways.
 
 Panneau B 29. - Autres obligations dont la nature est mentionnée par une inscription sur le panneau.
 
-Ces panneaux sont de forme circulaire. Ils ont le fond bleu et sont bordés d'un listel blanc ; les symboles et inscriptions sont blancs. "
+Ces panneaux sont de forme circulaire. Ils ont le fond bleu et sont bordés d'un listel blanc ; les symboles et inscriptions sont blancs.
 
 C. - Panneaux de fin d'interdiction
 
@@ -160,11 +164,11 @@ Panneau B 35. - Fin d'interdiction de l'usage de l'avertisseur sonore.
 
 Panneau B 39. - Fin d'interdiction dont la nature est indiquée sur le panneau.
 
-Ces panneaux sont de forme circulaire. Ils sont à fond blanc et bordés d'un listel noir. Les symboles et inscriptions sont de couleur noire. "
+Ces panneaux sont de forme circulaire. Ils sont à fond blanc et bordés d'un listel noir. Les symboles et inscriptions sont de couleur noire.
 
 D. - Panneaux de fin d'obligation
 
-Panneau B 40. - Fin de piste ou bande obligatoire pour cycle. "
+Panneau B 40. - Fin de piste ou bande obligatoire pour cycle.
 
 Panneau B 41. - Fin de chemin obligatoire pour piétons.
 

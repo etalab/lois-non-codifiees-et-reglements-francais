@@ -120,15 +120,15 @@ Code de la construction et de l'habitation
 
 1
 
-Décisions relatives à la dissolution ou la suspension du conseil d'administration, la révocation d'un ou plusieurs de ses membres et la désignation d'un administrateur provisoire au sein d'un office public d'aménagement et de construction, à titre de sanction.
+Décisions concernant un office public d'aménagement et de construction et relatives au retrait temporaire d'une ou plusieurs compétences, à la révocation d'un ou plusieurs membres du conseil d'administration, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré, à la dissolution du conseil d'administration et à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier.
 
 Article R. 421-13.
 
 2
 
-Décisions relatives à la dissolution ou la suspension du conseil d'administration et à la révocation de ses membres au sein d'un office public d'HLM, à titre de sanction.
+Décisions concernant un office public d'habitations à loyer modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la révocation d'un ou plusieurs membres du conseil d'administration, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré, à la dissolution du conseil d'administration et à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier.
 
-Articles R. 421-59 et R. 421-60, 1er alinéa.
+Article R. 421-60.
 
 Mesure prise par les ministres chargés du logement et des affaires sociales
 
@@ -362,17 +362,11 @@ Article R. 313-33-2.
 
 5
 
-Décisions relatives à la liquidation de la société et à la nomination d'un liquidateur dans le cas des sociétés anonymes d'habitations à loyer modéré, de sociétés coopératives d'habitations à loyer modéré et de sociétés anonymes de crédit immobilier.
+Décisions concernant une société anonyme de crédit immobilier, une société anonyme d'habitations à loyer modéré ou une société coopérative d'habitations à loyer modéré et relatives au retrait temporaire d'une ou plusieurs compétences, à la suspension ou à la révocation d'un ou plusieurs membres du conseil d'administration, du conseil de surveillance ou du directoire, à l'interdiction de participer au conseil d'administration, au conseil de surveillance ou au directoire d'un organisme d'habitations à loyer modéré, à la suspension du conseil d'administration, du conseil de surveillance ou du directoire, à la nomination d'un administrateur provisoire ainsi qu'à la cessation de la mission confiée à ce dernier, à la dissolution, à la liquidation et à la nomination d'un liquidateur ainsi qu'à l'autorisation de procéder à une cession d'actifs.
 
-Décisions relatives à la nomination d'un administrateur provisoire et à la suspension de membres du conseil d'administration dans une société anonyme de crédit immobilier.
+SACI : article R. 422-15, troisième alinéa.
 
-SACI :
-
-article R. 422-15, dernier alinéa.
-
-SA et coopératives HLM :
-
-article R. 422-17, 1er alinéa.
+SAHLM et SA coopératives HLM : article R. 422-17.
 
 6
 
@@ -554,7 +548,7 @@ Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie 
 
 1
 
-Décision d'approbation des navires de plaisance : séries de plus de 24 mètres et " navires à utilisation collective ".
+Décision d'approbation des navires de plaisance : séries de plus de 24 mètres et navires à utilisation collective.
 
 Article 17, paragraphe 1.
 
@@ -768,9 +762,7 @@ Décisions relatives :
 
 et sanctions correspondantes.
 
-Articles R. 133-1, R. 133-1-1,
-
-R. 133-1-2 et R. 133-1-3.
+Articles R. 133-1, R. 133-1-1, R. 133-1-2 et R. 133-1-3.
 
 17
 
@@ -790,9 +782,7 @@ Chapitre Ier du titre II, du livre IV (Personnel navigant).
 
 Décisions relatives à l'agrément des médecins et des centres médicaux pour l'examen médical des titulaires de licences des personnels navigants et des candidats à ces licences ; décisions en matière de reconnaissance d'incapacité temporaire ou permanente de travail et de décès consécutifs d'un accident aérien survenu en service ou une maladie imputable au service aérien.
 
-Articles L. 424-1, L. 424-2
-
-et D. 424-2.
+Articles L. 424-1, L. 424-2, et D. 424-2.
 
 20
 

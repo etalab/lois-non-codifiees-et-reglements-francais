@@ -28,9 +28,9 @@ Les marques sur chaussées sont réparties en trois catégories :
 
 2° LIGNES TRANSVERSALES :
 
-- les lignes transversales continues tracées à la limite où les conducteurs doivent marquer un temps d'arrêt et céder le passage aux intersections désignées par application de l'article R. 27 du code de la route ont une largeur de 0,50 mètre ;
+- les lignes transversales continues tracées à la limite où les conducteurs doivent marquer un temps d'arrêt et céder le passage aux intersections désignées par application de l'article R. 415-6 du code de la route ont une largeur de 0,50 mètre ;
 
-- les lignes transversales discontinues tracées à la limite où les conducteurs doivent céder le passage aux intersections désignées par application des articles R. 26 et R. 26-1 du code de la route ont une largeur de 0,50 mètre. La longueur des traits est égale à celle de leurs intervalles ;
+- les lignes transversales discontinues tracées à la limite où les conducteurs doivent céder le passage aux intersections désignées par application des articles R. 411-7, R. 415-7, R. 415-8, R. 415-10 et R. 421-3 du code de la route ont une largeur de 0,50 mètre. La longueur des traits est égale à celle de leurs intervalles ;
 
 - les lignes transversales, dites Lignes d'effet des feux de circulation, qui sont tracées aux intersections qui ne comportent pas de passage pour piétons ainsi qu'aux endroits où les véhicules doivent éventuellement marquer l'arrêt si cet arrêt n'est pas au droit des feux ou si le feu se trouve en amont du passage pour piétons ont une largeur de 0,15 mètre. Elles sont discontinues et la longueur des traits est égale à celle des intervalles.
 
@@ -46,8 +46,20 @@ Les marques sur chaussées sont réparties en trois catégories :
 
 - le mot Payant : cette inscription sur la chaussée indique que les emplacements de stationnement contigus et délimités par du marquage sont payants quel que soit le mode de perception de la taxe.
 
-- marques relatives aux ralentisseurs : le marquage constitué d'un ensemble de triangles blancs disposés sur le ralentisseur et dont les pointes sont orientées dans le sens de la circulation indique aux usagers la présence d'un aménagement qui doit être franchi à faible vitesse ;
+-Le mot Taxi : cette inscription sur la chaussée signale que les emplacements de stationnement contigus et délimités par du marquage sont réservés à l'arrêt et au stationnement des taxis durant l'exercice de leur profession.
 
-- marques relatives aux emplacements réservés au stationnement des véhicules des grands invalides civils et des grands invalides de guerre : le pictogramme représentant une silhouette dans un fauteuil roulant, peint sur un emplacement de stationnement ou sur ses limites, rappelle que cet emplacement est réservé au stationnement des véhicules des grands invalides civils et des grands invalides de guerre ;
+- marques relatives aux aménagements de modération de la vitesse :
 
-- marques relatives aux emplacements réservés au stationnement des véhicules électriques pendant la durée de recharge de leurs accumulateurs : le pictogramme représentant un véhicule électrique peint sur les limites d'un emplacement de stationnement rappelle que cet emplacement est réservé au stationnement des véhicules électriques pendant la durée de recharge de leurs accumulateurs.
+le marquage constitué d'un ensemble de triangles blancs et dont les pointes sont orientées dans le sens de la circulation indique aux usagers la présence d'un aménagement qui doit être franchi à faible vitesse ;
+
+- marques relatives aux emplacements réservés au stationnement des véhicules utilisés par les personnes handicapées à mobilité réduite :
+
+grands invalides civils, grands invalides de guerre ou titulaires des titres mentionnés à l'article L. 2213-2 (3°) du code général des collectivités territoriales : le pictogramme représentant une silhouette dans un fauteuil roulant, peint sur un emplacement de stationnement ou sur ses limites, rappelle que cet emplacement est réservé au stationnement des véhicules utilisés par les personnes handicapées à mobilité réduite ;
+
+- marques relatives aux emplacements réservés au stationnement des véhicules électriques pendant la durée de recharge de leurs accumulateurs : le pictogramme représentant un véhicule électrique peint sur les limites d'un emplacement de stationnement rappelle que cet emplacement est réservé au stationnement des véhicules électriques pendant la durée de recharge de leurs accumulateurs ;
+
+- marque relative aux emplacements d'arrêt d'autobus : une ligne de couleur jaune, peinte en zigzag sur la chaussée, signifie que l'arrêt est interdit aux autres véhicules que les autobus desservant la station, sur toute la zone marquée, pendant la période où circulent les autobus ;
+
+- marque relative aux emplacements réservés pour l'arrêt des véhicules effectuant un chargement ou un déchargement de marchandises : la délimitation des emplacements réservés pour l'arrêt des véhicules effectuant un chargement ou un déchargement de marchandises est effectuée par une ligne discontinue de couleur jaune. L'emplacement est barré suivant ses deux diagonales par une ligne continue de couleur jaune. Le mot : "Livraison" est peint en jaune le long de l'emplacement ;
+
+- marque relative aux postes d'appel d'urgence : il est constitué d'une indication de distance, de direction et du pictogramme du poste d'appel d'urgence. Il indique la direction et la distance du poste d'appel d'urgence le plus proche. Ce marquage est de couleur blanche.

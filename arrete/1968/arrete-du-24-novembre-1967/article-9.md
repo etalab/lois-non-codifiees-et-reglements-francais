@@ -10,6 +10,8 @@ Panneau AK 4 : Chaussée glissante.
 
 Panneau AK 5 : Travaux.
 
+Les panneaux et dispositifs de signalisation temporaire peuvent être placés sur l'accotement, en terre-plein central, sur la chaussée ou sur des véhicules de chantier, dans le cas des panneaux à signaux variables.
+
 Ce panneau impose aux usagers le respect d'une règle élémentaire de prudence consistant à prévoir la possibilité d'avoir à adapter leur vitesse aux éventuelles difficultés du passage en vue d'assurer leur propre sécurité, celles des autres usagers de la route et celle du personnel du chantier.
 
 Panneau AK 14 : Autres dangers.
@@ -19,6 +21,10 @@ La nature du danger peut ou non être précisée par une inscription.
 Panneau AK 17 : Annonce de signaux lumineux réglant la circulation.
 
 Panneau AK 22 : Projection de gravillons.
+
+Panneau AK 30 : Bouchon.
+
+Panneau AK 31 : Accident.
 
 Fanion K 1 : Signalisation d'un obstacle temporaire de faible importance.
 
