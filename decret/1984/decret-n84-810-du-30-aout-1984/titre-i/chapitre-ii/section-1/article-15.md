@@ -10,7 +10,7 @@ b) Le chef du bureau de la réglementation de la sécurité des navires ou son r
 
 c) Le chef du bureau de contrôle des navires ou son représentant ;
 
-d) L'inspecteur de la sécurité des navires et du travail maritime ayant instruit le dossier examiné.
+d) L'inspecteur de la sécurité des navires et du travail maritime ou de l'ingénieur ayant instruit le dossier examiné.
 
 II. - Des membres nommés, à savoir :
 
@@ -30,15 +30,15 @@ g) Trois représentants des organisations syndicales les plus représentatives s
 
 h) Un technicien appartenant à une société française de classification agréée.
 
-Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers.
-
-III. - En outre :
+Des membres suppléants, en nombre égal à celui des membres titulaires, sont nommés dans les mêmes conditions que ces derniers.    III. - En outre :
 
 1. Pour les questions d'hygiène et d'habitabilité, le médecin, chef du service de santé des gens de mer, ou son représentant.
 
-2. Pour les questions de radio-électricité, un représentant de la direction des télécommunications des réseaux extérieurs, dépendant du ministre chargé des P.T.T..
+2. Pour les questions de radio-électricité, un représentant de l'exploitant du réseau de radiocommunications maritime.
 
-3. Pour les affaires relatives aux aéronefs, un représentant du ministre chargé de l'aviation civile.
+3. En tant que de besoin, pour les affaires relatives à un domaine particulier, le représentant du ministre chargé de ce domaine ou des personnalités choisies en raison de leur compétence.
+
+4. Pour les questions relatives aux navires sous-marins, un représentant de la commission essais-opérations.
 
 Le ministre chargé de la marine marchande nomme pour une durée de trois ans les membres de la commission autres que les membres de droit et leur suppléants.
 

@@ -2,4 +2,6 @@
 
 Service médical.
 
-Tout navire doit posséder des moyens suffisants en matériel et en personnel pour assurer de façon satisfaisante la sauvegarde de la santé des équipages et des personnes embarquées.
+Tout navire doit avoir en permanence à bord la dotation médicale et le personnel médical déterminés en fonction des caractéristiques du voyage, de celles des cargaisons transportées ainsi que du nombre de personnes embarquées.
+
+La dotation doit être complète, conservée dans de bonnes conditions et les dates de péremption des médicaments qui la composent strictement respectées.
