@@ -133,3 +133,13 @@ Concentré de protéines humaines coagulables par la thrombine pour application 
 - Majoration forfaitaire pour transfusion autologue programmée :
 
 150 F.
+
+- Majoration du plasma humain frais congelé pour qualification "viro-inactivation par méthode solvant-détergent" par U.A. (200 ml au minimum) 161,10 F.
+
+- Concentré de facteur VII humain activé, l'unité 1,40 F.
+
+- Concentré de facteur VIII humain spécial Willebrand, l'unité internationale 4,60 F.
+
+- Concentré de facteur Willebrand humain, l'unité internationale 4,60 F.
+
+- Concentré de protéine C humaine, l'unité internationale 5,70 F

@@ -1,0 +1,3 @@
+# Article 
+
+Art. 1er. - Le présent arrêté fixe, en application des décrets no 87-851 et     no 87-852 du 19 octobre 1987 susvisés, modifiés respectivement par les     décrets no 92-153 et no 92-154 du 19 février 1992, les modalités selon     lesquelles les établissements d'enseignement publics ou les établissements     d'enseignement privés sous contrat ou les centres de formation d'apprentis     habilités par le recteur doivent mettre en oeuvre le contrôle en cours de     formation en vue de la délivrance du brevet d'études professionnelles et du     certificat d'aptitude professionnelle pour les candidats ayant suivi la     formation au diplôme postulé.

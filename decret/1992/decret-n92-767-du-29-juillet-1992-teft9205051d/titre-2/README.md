@@ -1,0 +1,4 @@
+# Titre 2 : DISPOSITIONS DIVERSES ET TRANSITOIRES RELATIVES A L'ENTRÉE EN VIGUEUR DES RÈGLES TECHNIQUES ET PROCÉDURES DE CERTIFICATION APPLICABLES AUX ÉQUIPEMENTS DE TRAVAIL ET MOYENS DE PROTECTION NEUFS OU CONSIDÉRÉS COMME NEUFS
+
+- [CHAPITRE Ier : Dispositions relatives aux machines, aux crochets, câbles métalliques et chaînes en acier rond, aux structures de protection, neufs ou considérés comme neufs, dont la conception a fait l'objet d'une réglementation antérieure au présent décret.](chapitre-ier)
+- [Chapitre 2 : Dispositions relatives aux équipements de travail visés aux 1°, 3°, 4° et 5° de l'article R. 233-83 du code du travail et aux moyens de protection visés aux 1° et 2° de l'article R. 233-83-2 du code du travail, neufs ou considérés comme neufs, non mentionnés au chapitre Ier du présent titre.](chapitre-2)

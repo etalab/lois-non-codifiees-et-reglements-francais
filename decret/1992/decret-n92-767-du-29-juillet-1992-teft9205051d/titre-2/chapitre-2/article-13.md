@@ -1,0 +1,3 @@
+# Article 13
+
+Le décret n° 47-1592 du 23 août 1947 modifié portant règlement d'administration publique en ce qui concerne les mesures particulières de sécurité relatives aux appareils de levage autres que les ascenseurs et monte-charge, les titre II et III, le deuxième alinéa de l'article 227 et l'article 228 du décret n° 65-48 du 8 janvier 1965 modifié portant règlement d'administration publique en ce qui concerne les mesures particulières de sécurité applicables aux établissements dont le personnel exécute des travaux du bâtiment, des travaux publics ou tous autres travaux concernant les immeubles, cesseront d'être en vigueur à compter du 1er janvier 1995.
