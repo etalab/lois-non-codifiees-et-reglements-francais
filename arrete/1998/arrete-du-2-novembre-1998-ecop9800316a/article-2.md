@@ -1,6 +1,6 @@
 # Article 2
 
-La sous-direction B (Financement de l'économie et compétitivité des entreprises) comprend :
+La sous-direction B (Financement de l'économie et développement des entreprises) comprend :
 
 Le bureau B 1 (Epargne et marché financier)
 
@@ -31,7 +31,3 @@ Il est chargé de la politique de financement du logement. A ce titre, il propos
 Il surveille l'adéquation des ressources et des emplois des fonds d'épargne centralisés par la Caisse des dépôts et consignations. Il assure le suivi du secteur HLM et la tutelle de la Caisse de garantie du logement social. Il propose et met en oeuvre la réglementation relative à l'épargne logement.
 
 Il traite les affaires financières concernant la Caisse des dépôts et consignations. Il suit les relations financières entre l'Etat et le Crédit foncier de France et assure le suivi des collectivités décentralisées.
-
-Le bureau B 4 (Départements et territoires d'outre-mer)
-
-Il est chargé de l'ensemble des activités monétaires et financières relatives aux départements, territoires et collectivités territoriales d'outre-mer.

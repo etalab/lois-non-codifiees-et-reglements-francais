@@ -16,6 +16,8 @@ Il suit l'évolution des équilibres financiers des régimes obligatoires nation
 
 Il suit les évolutions de la fiscalité et participe aux négociations européennes et internationales dans ces différents domaines.
 
+Il exerce la tutelle de la caisse d'amortissement de la dette sociale (CADES).
+
 Le bureau C 2 (Entreprises et intermédiaires d'assurance)
 
 Il est chargé de la réglementation nationale et de l'agrément des entreprises d'assurance, ainsi que de l'analyse économique globale du secteur, y compris dans ses dimensions fiscale et sociale. Il instruit les demandes de transfert de portefeuilles et les franchissements de seuils dans le capital des entreprises.
@@ -30,4 +32,4 @@ Il participe au contrôle des entreprises d'assurance dans le cadre de la Commis
 
 Il assure le secrétariat du Conseil national des assurances et de ses commissions et propose des avis à la commission des entreprises d'assurance du Conseil national des assurances.
 
-Il prépare et conduit les négociations européennes et internationales concernant les entreprises d'assurance et assure la coordination des positions françaises dans le domaine de l'assurance. Il assure le secrétariat de la Conférence des services de contrôle des assurances des pays de la CEE et suit les questions relatives à l'activité de l'Association internationale des contrôleurs d'assurance.
+Il prépare et conduit les négociations européennes et internationales concernant les entreprises d'assurance. Il suit les questions relative à l'activité de la Conférence des services de contrôle des assurances des pays de la Communauté européenne et de l'Association internationale des contrôleurs d'assurance.

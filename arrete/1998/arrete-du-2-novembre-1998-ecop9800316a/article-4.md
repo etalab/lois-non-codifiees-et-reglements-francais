@@ -26,15 +26,7 @@ Il est chargé de la tutelle des établissements publics créés pour assurer le
 
 Il est chargé du suivi des sociétés de développement régional en extinction sous le contrôle de l'Etat.
 
-Le bureau D 4 (Groupes publics d'assurances)
-
-Il exerce les fonctions de l'Etat actionnaire dans les groupes publics d'assurances dans lesquels l'Etat détient une participation. Il est chargé des opérations affectant leur capital, ainsi que celui de leurs filiales, y compris les établissements de crédit.
-
-Le bureau D 5 (Autres participations)
-
-Il examine les questions de financement des autres entreprises dans lesquelles l'Etat détient une participation, notamment les entreprises des secteurs de la défense, de l'aéronautique, de l'électronique et de l'audiovisuel ainsi que la poste. Il est chargé des relations entre ces entreprises et l'Etat actionnaire, et des opérations affectant leur capital.
-
-Le bureau D 6 (Conseil et synthèse secteur public)
+Le bureau D 4 (Conseils et synthèse secteur public)
 
 Il assure la synthèse des questions intéressant l'ensemble des entreprises publiques et des entreprises dans lesquelles l'Etat détient une participation. Il est chargé des relations avec les organismes extérieurs sur la gestion des participations publiques.
 
@@ -43,3 +35,13 @@ Il est chargé de la gestion des recettes de cession, des dotations en capital e
 Il gère les administrateurs représentant l'Etat et assure les relations avec les corps de contrôle.
 
 Il suit le régime des déclarations patrimoniales des dirigeants d'entreprises publiques.
+
+Il est chargé des affaires budgétaires du Trésor ; centralisation de l'information budgétaire et comptable, relations avec la direction du budget et la Cour des comptes.
+
+Il assure, conjointement avec la direction du budget, la synthèse des comptes spéciaux du Trésor.
+
+Il participe au suivi des questions relatives à la comptabilité patrimoniale de l'Etat.
+
+Le bureau D 5 (Autres participations)
+
+Il examine les questions de financement des autres entreprises dans lesquelles l'Etat détient une participation, notamment les entreprises des secteurs de la défense, de l'aéronautique, de l'électronique et de l'audiovisuel ainsi que la poste. Il est chargé des relations entre ces entreprises et l'Etat actionnaire, et des opérations affectant leur capital.
