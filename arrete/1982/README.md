@@ -64,7 +64,6 @@
 - [Arrêté du 13 avril 1982](arrete-du-13-avril-1982)
 - [Arrêté du 13 juillet 1982](arrete-du-13-juillet-1982)
 - [Arrêté du 13 septembre 1982](arrete-du-13-septembre-1982)
-- [Arrêté du 14 décembre 1982](arrete-du-14-decembre-1982)
 - [Arrêté du 14 juin 1982](arrete-du-14-juin-1982)
 - [Arrêté du 14 octobre 1982](arrete-du-14-octobre-1982)
 - [Arrêté du 14 mai 1982](arrete-du-14-mai-1982)
