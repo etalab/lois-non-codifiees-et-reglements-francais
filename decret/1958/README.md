@@ -19,6 +19,7 @@
 - [Décret n°58-873 du 16 septembre 1958](decret-n58-873-du-16-septembre-1958)
 - [Décret n°58-874 du 16 septembre 1958](decret-n58-874-du-16-septembre-1958)
 - [Décret n°58-757 du 20 août 1958](decret-n58-757-du-20-aout-1958)
+- [Décret n°58-1010 du 24 octobre 1958](decret-n58-1010-du-24-octobre-1958)
 - [Décret n°59-575 du 24 avril 1959](decret-n59-575-du-24-avril-1959)
 - [Décret n°58-560 du 28 juin 1958](decret-n58-560-du-28-juin-1958)
 - [Décret n°58-989 du 28 août 1958](decret-n58-989-du-28-aout-1958)
