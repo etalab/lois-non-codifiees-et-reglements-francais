@@ -1,0 +1,9 @@
+# Article 5.7
+
+Manches à cargaison à bord du navire
+
+5.7.1 Les manches à liquide et à gaz utilisées pour le transfert de la cargaison doivent être compatibles avec la cargaison et convenir à la température de la cargaison.
+
+5.7.2 Les manches soumises à la pression des citernes ou à la pression de refoulement des pompes doivent être conçues pour une pression d'éclatement égale au moins à cinq fois la pression maximale à laquelle sera soumise la manche pendant le transfert de la cargaison.
+
+5.7.3 Pour les manches à cargaison installées à bord des navires le 1er juillet 2002 ou après cette date, chaque nouveau type de manche à cargaison, accessoires d'extrémité compris, doit faire l'objet d'un essai de type à la température ambiante normale, soumettant la manche à 200 cycles de pression allant de 0 à au moins deux fois la pression de service maximale spécifiée, après quoi l'essai de type doit indiquer une pression d'éclatement égale au moins à 5 fois la pression de service maximale spécifiée à la température de service extrême. Les manches utilisées pour l'essai de type ne doivent pas être utilisées en service cargaison. Par la suite, avant d'être mise en service, chaque nouvelle longueur de manche à cargaison doit, après fabrication, faire l'objet d'une épreuve hydrostatique à la température ambiante sous une pression égale au moins à 1,5 fois sa pression de service maximale spécifiée, mais ne dépassant pas les deux cinquièmes de sa pression d'éclatement. On doit marquer sur la manche à la peinture ou par d'autres moyens la date de l'essai, sa pression de service maximale spécifiée et, si elle est utilisée en service à d'autres températures que la température ambiante, ses températures de service maximale et minimale, ainsi qu'il est approprié. La pression de service maximale spécifiée ne doit pas être inférieure à 1 MPa (pression manométrique).

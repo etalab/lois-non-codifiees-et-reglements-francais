@@ -238,6 +238,7 @@
 - [Décret n°94-574 du 11 juillet 1994 (TEFF9400714D)](decret-n94-574-du-11-juillet-1994-teff9400714d)
 - [Décret n°94-575 du 11 juillet 1994 (TEFF9400715D)](decret-n94-575-du-11-juillet-1994-teff9400715d)
 - [Décret n°94-603 du 11 juillet 1994 (ENVP9420030D)](decret-n94-603-du-11-juillet-1994-envp9420030d)
+- [Décret n°94-691 du 11 août 1994 (SPSS9402109D)](decret-n94-691-du-11-aout-1994-spss9402109d)
 - [Décret n°96-618 du 11 juillet 1996 (EQUX9600078D)](decret-n96-618-du-11-juillet-1996-equx9600078d)
 - [Décret n°97-220 du 11 mars 1997 (TASG9710202D)](decret-n97-220-du-11-mars-1997-tasg9710202d)
 - [Décret n°91-355 du 12 avril 1991 (INDE9100285D)](decret-n91-355-du-12-avril-1991-inde9100285d)
