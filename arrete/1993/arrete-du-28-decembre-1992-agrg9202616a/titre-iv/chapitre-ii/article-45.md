@@ -12,18 +12,16 @@ Les services d'inspection établissent un système de contrôle et de surveillan
 
 - les marques sont bien appliquées.
 
-Sans préjudice des dispositions du décret du 7 décembre 1984 modifié susvisé, une marque sanitaire comportant l'identification de l'établissement d'expédition des produits de la pêche est apposée :
+Sans préjudice des dispositions des articles R. 112-1 et suivants du code de la consommation relatifs à l'étiquetage et à la présentation des denrées alimentaires préemballées, une marque de salubrité telle que prévue par l'arrêté du 28 juin 1994 précité et comportant l'identification de l'établissement est apposée :
 
-- sur les emballages et conditionnements des produits issus de l'établissement concerné et sur les poissons de grande taille vendus traditionnellement à l'unité ;
+- sur les conditionnements et emballages ;
 
-- ou sur les documents d'accompagnement.
+- ou, dans le cas de produits non emballés, sur les documents d'accompagnement de ces produits.
 
-La marque sanitaire doit comporter les indications suivantes qui sont entourées d'une bande ovale :
+La marque de salubrité est rédigée en caractères d'imprimerie, parfaitement lisible et apposée à un endroit de l'emballage visible de l'extérieur sans qu'il soit nécessaire de l'ouvrir. Elle doit comporter les indications suivantes qui sont entourées d'une bande ovale. Dans la partie supérieure figure la lettre F ou le mot France. Dans la partie médiane est porté le numéro prévu à l'article 40 précédent. Dans la partie inférieure vient s'inscrire le sigle CE. Le numéro est formé :
 
-- dans la partie supérieure, en majuscules d'imprimerie, la lettre F ou le mot France ;
+- du numéro minéralogique du département ;
 
-- dans la partie médiane, le numéro d'agrément de l'établissement tel que prévu aux articles 40 et 41, formé du numéro minéralogique du département d'implantation (nombre à deux chiffres), du numéro d'ordre de l'établissement (nombre à trois chiffres) et des deux lettres PP en majuscules d'imprimerie ;
+- du numéro de codification de la commune ;
 
-- dans la partie inférieure, le sigle C.E.E.
-
-Pour les établissements préparant ou transformant des produits visés par la directive (C.E.E.) n° 92-5, et les associant, ou non, à des produits de la pêche, la marque sanitaire est celle définie et utilisée en application de cette directive.
+- du numéro d'ordre de l'établissement parmi les installations de la commune mettant sur le marché des denrées animales ou d'origine animale.

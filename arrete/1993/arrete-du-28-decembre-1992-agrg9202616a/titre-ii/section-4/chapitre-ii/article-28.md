@@ -6,6 +6,6 @@ Des contrôles par sondage sont effectués par le fabricant pour s'assurer que l
 
 - examens microbiologiques du contenu et des récipients en laboratoire.
 
-Selon les lots de fabrication tels que définis par le décret du 7 décembre 1984 modifié susvisé, la production journalière est échantillonnée à des intervalles déterminés à l'avance pour s'assurer de l'efficacité du sertissage.
+Selon les lots de fabrication tels que définis par les articles R. 112-6 à R. 112-31 du code de la consommation susvisé, la production journalière est échantillonnée à des intervalles déterminés à l'avance pour s'assurer de l'efficacité du sertissage ou de tout autre moyen de fermeture hermétique.
 
 Des contrôles permettent de s'assurer que les récipients ne sont pas endommagés.
