@@ -258,6 +258,7 @@
 - [Décret n°88-384 du 19 avril 1988 (RESK8800498D)](decret-n88-384-du-19-avril-1988-resk8800498d)
 - [Décret n°88-386 du 19 avril 1988 (ASEH8701845D)](decret-n88-386-du-19-avril-1988-aseh8701845d)
 - [Décret n°88-55 du 19 janvier 1988 (ECOT8720050D)](decret-n88-55-du-19-janvier-1988-ecot8720050d)
+- [Décret n°88-721 du 19 mai 1988 (PRMX8800066D)](decret-n88-721-du-19-mai-1988-prmx8800066d)
 - [Décret du 20 janvier 1988 (AGRR8800079D)](decret-du-20-janvier-1988-agrr8800079d)
 - [Décret du 20 janvier 1988 (DEFD8801012D)](decret-du-20-janvier-1988-defd8801012d)
 - [Décret n°88-1139 du 20 décembre 1988 (MCCB8800337D)](decret-n88-1139-du-20-decembre-1988-mccb8800337d)
