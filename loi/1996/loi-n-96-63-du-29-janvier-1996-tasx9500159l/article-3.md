@@ -1,0 +1,9 @@
+# Article 3
+
+I ....
+
+II ....
+
+III. - Les dispositions du II du présent article prennent effet le premier jour du trimestre civil suivant la publication de la présente loi.
+
+IV ....

@@ -4,7 +4,7 @@ La première fraction des aides prévues à l'article 8 est attribuée aux parti
 
 En vue d'effectuer la répartition prévue à l'alinéa précédent, les candidats à l'élection des députés indiquent, s'il y a lieu, dans leur déclaration de candidature, le parti ou groupement politique auquel ils se rattachent.
 
-La seconde fraction de ces aides est attribuée aux partis et groupements politiques bénéficiaires de la première fraction visée ci-dessus proportionnellement au nombre de membres du Parlement qui ont déclaré au bureau de leur assemblée, dans le mois qui suit l'ouverture de la première session ordinaire de chaque année, y être inscrits ou s'y rattacher.
+La seconde fraction de ces aides est attribuée aux partis et groupements politiques bénéficiaires de la première fraction visée ci-dessus proportionnellement au nombre de membres du Parlement qui ont déclaré au bureau de leur assemblée, au cours du mois de novembre, y être inscrits ou s'y rattacher.
 
 Chaque parlementaire ne peut indiquer qu'un seul parti ou groupement politique pour l'application de l'alinéa précédent.
 

@@ -40,6 +40,7 @@
 - [Arrêté du 12 février 1996 (MAEA9620027A)](arrete-du-12-fevrier-1996-maea9620027a)
 - [Arrêté du 12 janvier 1996 (ECOS9650002A)](arrete-du-12-janvier-1996-ecos9650002a)
 - [Arrêté du 12 janvier 1996 (ECOS9650003A)](arrete-du-12-janvier-1996-ecos9650003a)
+- [Arrêté du 12 janvier 1996 (INDP9501251A)](arrete-du-12-janvier-1996-indp9501251a)
 - [Arrêté du 12 janvier 1996 (INTE9600025A)](arrete-du-12-janvier-1996-inte9600025a)
 - [Arrêté du 12 janvier 1996 (INTE9600026A)](arrete-du-12-janvier-1996-inte9600026a)
 - [Arrêté du 12 janvier 1996 (INTE9600027A)](arrete-du-12-janvier-1996-inte9600027a)

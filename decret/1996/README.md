@@ -66,5 +66,7 @@
 - [Décret n°96-941 du 28 octobre 1996 (INTC9600270D)](decret-n96-941-du-28-octobre-1996-intc9600270d)
 - [Décret n°98-670 du 28 juillet 1998 (PRMX9803059D)](decret-n98-670-du-28-juillet-1998-prmx9803059d)
 - [Décret n°95-1353 du 29 décembre 1995 (TASS9523289D)](decret-n95-1353-du-29-decembre-1995-tass9523289d)
+- [Décret n°96-67 du 29 janvier 1996 (PRMX9600002D)](decret-n96-67-du-29-janvier-1996-prmx9600002d)
+- [Décret n°96-70 du 29 janvier 1996 (AGRS9502477D)](decret-n96-70-du-29-janvier-1996-agrs9502477d)
 - [Décret n°95-1411 du 30 décembre 1995 (INTA9500388D)](decret-n95-1411-du-30-decembre-1995-inta9500388d)
 - [Décret n°96-956 du 30 octobre 1996 (JUSF9650088D)](decret-n96-956-du-30-octobre-1996-jusf9650088d)

@@ -22,6 +22,8 @@
 - [47° Affections consécutives à l'inhalation de poussières d'amiante.](47-affections-consecutives-a)
 - [5° Spirochetoses (à l'exclusion des tréponématoses)](5-spirochetoses-a)
 - [54° Affections respiratoires consécutives à l'inhalation de poussières textiles végétales](54-affections-respiratoires-consecutives-a)
+- [55° Infections professionnelles à streptococcus suis](55-infections-professionnelles-a)
+- [56° Infections professionnelles à hantavirus](56-infections-professionnelles-a)
 - [16° Affections professionnelles dues aux bacilles tuberculeux](16-affections-professionnelles-dues-aux)
 - [49. Affections dues aux rickettsies](49-affections-dues-aux)
 - [15° Mycoses cutanées, périonyxis et onyxis d'origine professionnelle](15-mycoses-cutanees-perionyxis-et)
