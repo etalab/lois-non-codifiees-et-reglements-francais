@@ -1,6 +1,6 @@
 # Article 16
 
-La saisine de la Commission de régulation de l'électricité en application de l'article 40 de la loi du 10 février 2000 susvisée comporte :
+La saisine de la Commission de régulation de l'énergie en application de l'article 40 de la loi du 10 février 2000 susvisée comporte :
 
 - lorsque la saisine émane du ministre chargé de l'énergie, un exposé des moyens décrivant le manquement ;
 

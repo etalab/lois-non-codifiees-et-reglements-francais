@@ -8,5 +8,6 @@
 - [Section VI : Retrait d'emploi.](section-vi)
 - [Section VII : Congé parental.](section-vii)
 - [Section VIII : Congé complémentaire de reconversion.](section-viii)
+- [Section IX : Congé de présence parentale.](section-ix)
 - [Article 17](article-17.md)
 - [Article 18](article-18.md)

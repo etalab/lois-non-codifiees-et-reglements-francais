@@ -1,0 +1,7 @@
+# Article 1
+
+I. - L'application des dispositions du code de commerce et du code du travail dans leur rédaction issue des articles 96, 97, 98, 99, 100, 101, 102, 104, 106, 109 et 116 de la loi n° 2002-73 du 17 janvier 2002 de modernisation sociale est suspendue pour une période maximale de dix-huit mois à compter de la promulgation de la présente loi, sous réserve des dispositions prévues au II.
+
+II. - La suspension des dispositions mentionnées au I est maintenue pour une durée d'un an à compter du dépôt d'un projet de loi intervenant au cours de cette période et définissant, au vu des résultats de la négociation interprofessionnelle engagée entre les organisations professionnelles et syndicales représentatives au niveau national, les procédures relatives à la prévention des licenciements économiques, aux règles d'information et de consultation des représentants du personnel et aux règles relatives au plan de sauvegarde de l'emploi. La mention de la date du dépôt du projet de loi maintenant la suspension fait l'objet d'un avis publié au Journal officiel de la République française.
+
+III. - Pendant les périodes de suspension prévues aux I et II, les dispositions des articles L. 321-1-1, L. 321-3, L. 321-4-1, L. 321-7, L. 321-9, L. 432-1, L. 432-1 bis, L. 434-6, L. 435-3 et L. 439-2 du code du travail antérieures à leur modification par les articles de la loi n° 2002-73 du 17 janvier 2002 précitée mentionnés au I sont rétablies.

@@ -1,6 +1,6 @@
 # Article 10
 
-Le cahier des charges détermine notamment [*contenu*] :
+Le cahier des charges détermine notamment :
 
 1° L'objet principal de l'entreprise ;
 
@@ -22,9 +22,13 @@ La totalité de ces réserves en force ne pourra priver l'usine de plus du quart
 
 Dans les départements d'outre-mer, les conseils régionaux exercent les compétences conférées dans le présent article aux conseils généraux.
 
+Lorsque le bénéficiaire des réserves a exercé ses droits à l'éligibilité prévus à l'article 22 de la loi 2000-108 du 10 février 2000 relative à la modernisation et au développement du service public de l'électricité, l'énergie réservée lui est cédée par le concessionnaire de la chute d'eau à un tarif fixé par arrêté du ministre chargé de l'électricité. Le bénéficiaire supporte le prix de l'acheminement de cette energie du lieu de production au lieu de consommation. Ces dispositions ne font pas obstacle à ce que les autorités concédantes de la distribution publique d'énergie électrique visées à l'article L. 2224-31 du code général des collectivités territoriales continuent à percevoir, auprès de leurs concessionnaires, les redevances relatives à l'énergie réservée fixées dans les contrats des concessions de distribution de l'électricité applicables à la date d'entrée en vigueur de la loi 2003-8 du 3 janvier 2003 relative aux marchés du gaz et de l'électricité et au service public de l'énergie.
+
+7° abrogé
+
 8° Les conditions financières de la concession et notamment :
 
-a) Le [*montant*] minimum au-dessous duquel la redevance proportionnelle au nombre de kilowatts-heure produits ne peut descendre et les conditions dans lesquelles elle devra être revisée, tous les cinq ans, après une période initiale de dix ans ;
+a) Le minimum au-dessous duquel la redevance proportionnelle au nombre de kilowatts-heure produits ne peut descendre et les conditions dans lesquelles elle devra être revisée, tous les cinq ans, après une période initiale de dix ans ;
 
 b) En cas de redevance proportionnelle aux dividendes ou aux bénéfices répartis et lorsque le concessionnaire est une société régie par la loi du 24 juillet 1867 et ayant pour objet principal l'établissement et l'exploitation de l'usine hydraulique, le capital initial auquel est constituée la société, ainsi que les conditions dans lesquelles doivent être soumises à l'approbation de l'administration les augmentations ultérieures de ce capital, les conditions financières de la participation de l'Etat aux bénéfices annuels de l'entreprise ; le taux de l'intérêt moyen annuel alloué au capital investi, non remboursé, à partir duquel l'Etat entre en participation ; le mode de calcul de cette participation ; l'échelle progressive d'après laquelle est calculée la part revenant à l'Etat ; les conditions dans lesquelles l'Etat viendra au partage de l'actif net et après remboursement du capital en cas de liquidation ou à l'expiration de la concession, ces conditions devant être déterminées de telle façon que la part ainsi attribuée à l'Etat soit, autant que possible, équivalente à l'ensemble des sommes qui lui eussent été annuellement versées si les bénéfices disponibles avaient été intégralement distribués ;
 

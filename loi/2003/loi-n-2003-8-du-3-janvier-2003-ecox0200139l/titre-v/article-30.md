@@ -1,0 +1,3 @@
+# Article 30
+
+Les titulaires de concessions de stockage souterrain de gaz naturel assurent l'exploitation des stockages de manière compatible avec le fonctionnement sûr et efficace des réseaux de gaz naturel interconnectés. Le recours aux stocks souterrains de gaz naturel satisfait en priorité, dans la limite des capacités disponibles et conformément aux dispositions des autorisations mentionnées aux articles 5 et 25 et, le cas échéant, à celles prévues par les concessions de stockage, aux usages destinés à assurer l'équilibre des réseaux de transport de gaz naturel raccordés auxdits stockages et l'accomplissement des obligations de service public mentionnées à l'article 16.
