@@ -1,3 +1,3 @@
 # Article ANNEXE
 
-FONCTION ENVISAGÉE
+(Tableau non reproduit modifié par JORF du 21 janvier 1997).
