@@ -5,3 +5,5 @@ Le prêteur qui omet de respecter les formalités prescrites à l'article 5 et d
 La même peine est applicable à l'annonceur pour le compte duquel est diffusée une publicité non conforme aux dispositions de l'article 4 ci-dessus. Si le contrevenant est une personne morale, la responsabilité incombe à ses dirigeants. La complicité est punissable dans les conditions du droit commun.
 
 Le tribunal pourra également ordonner la publication du jugement et la rectification de la publicité aux frais du condamné ou l'une de ces deux peines seulement.
+
+Les peines prévues au premier alinéa du présent article sont également applicables au vendeur qui contrevient aux dispositions de l'article 4-1 de la présente loi.

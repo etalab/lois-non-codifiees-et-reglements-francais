@@ -8,7 +8,9 @@ Sont inopposables à la masse, lorsqu'ils auront été faits par le débiteur de
 
 2° Tout contrat commutatif dans lequel les obligations du débiteur excèdent notablement celles de l'autre partie ;
 
-3° Tout paiement, quel qu'en ait été le mode, pour dettes non échues au jour de la décision constatant la cessation des paiements ;    4° Tout paiement pour dettes échues, fait autrement qu'en espèces, effets de commerce, virements ou tout autre mode normal de paiement ;    5° Tout dépôt de sommes affecté spécialement aux mains de tiers détenteur en application de l'article 567 du code de procédure civile ;
+3° Tout paiement, quel qu'en ait été le mode, pour dettes non échues au jour de la décision constatant la cessation des paiements ;    4° Tout paiement pour dettes échues, fait autrement qu'en espèces, effets de commerce, virements, bordereaux de cession  visés par la loi n° 81-1 du 2 janvier 1981 facilitant le crédit aux entreprises, ou tout autre mode normal de paiement ;
+
+5° Tout dépôt de sommes affecté spécialement aux mains de tiers détenteur en application de l'article 567 du code de procédure civile ;
 
 6° Toute hypothèque conventionnelle ou judiciaire ainsi que l'hypothèque légale des époux et tout droit de nantissement constitués sur les biens du débiteur pour dettes antérieurement contractées ;
 
