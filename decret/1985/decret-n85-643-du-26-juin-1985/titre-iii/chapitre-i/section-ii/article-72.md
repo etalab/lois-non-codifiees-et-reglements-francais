@@ -2,26 +2,26 @@
 
 Sont affiliés au centre interdépartemental de gestion de la grande couronne de la région d'Ile-de-France :
 
-1° A titre obligatoire pour la gestion de leurs fonctionnaires titulaires et stagiaires de catégories C et D à temps complet ou à temps non complet :
+" 1° A titre obligatoire :
 
-a) Les communes des départements de l'Essonne, du Val-d'Oise et des Yvelines qui emploient de 1 à 199 fonctionnaires de catégories C et D à temps complet, quel que soit le nombre des fonctionnaires à temps non complet de catégorie C ou D ;
+" a) Les communes des départements de l'Essonne, du Val-d'Oise et des Yvelines qui emploient moins de 250 fonctionnaires titulaires ou stagiaires à temps complet ;
 
-b) Les communes de ces trois départements qui, n'employant aucun fonctionnaire à temps complet de catégorie C ou D, emploient au moins un fonctionnaire de catégorie C ou D à temps non complet ;
+" b) Les communes de ces mêmes départements qui, n'employant aucun fonctionnaire titulaire ou stagiaire à temps complet, emploient au moins un fonctionnaire à temps non complet ;
 
-c) Les établissements publics administratifs communaux et intercommunaux qui ont leur siège dans l'un de ces trois départements et qui répondent aux conditions définies aux a et b ci-dessus.
+" c) Les communes de ces mêmes départements qui n'emploient que des agents non titulaires ;
 
-2° A titre obligatoire pour la gestion de leurs fonctionnaires titulaires et stagiaires de catégories B à temps complet ou à temps non complet, à l'exception de ceux d'entre eux dont la gestion relève du centre national de gestion :
+" d) Les établissements publics administratifs communaux et intercommunaux qui ont leur siège dans l'un de ces trois départements et qui répondent aux conditions définies aux a, b et c ci-dessus.
 
-a) Les communes des départements de l'Essonne, du Val-d'Oise et des Yvelines ;
+" 2° A titre volontaire :
 
-b) Les établissements publics communaux et intercommunaux de l'un de ces trois départements ;
+" a) Les communes des départements de l'Essonne, du Val-d'Oise et des Yvelines employant au moins 250 fonctionnaires titulaires ou stagiaires à temps complet, quel que soit le nombre des fonctionnaires à temps non complet ;
 
-c) Les communes du département de Seine-et-Marne et les établissements publics administratifs communaux et intercommunaux dont le siège est situé dans ce département ;
+" b) Les établissements publics communaux et intercommunaux dont le siège est situé dans l'un de ces trois départements et qui répondent aux conditions définies au a du 2° ci-dessus ;
 
-d) Les départements de l'Essonne, du Val-d'Oise, des Yvelines et de Seine-et-Marne et les établissements publics administratifs départementaux de ces quatre départements ;
+" c) Les départements de l'Essonne, du Val-d'Oise et des Yvelines ;
 
-e) La région d'Ile-de-France et les établissements publics administratifs des communes, des départements et de la région dont la compétence est régionale ou interdépartementale et dont le siège est situé dans la région d'Ile-de-France, y compris le centre interdépartemental de gestion et le centre interdépartemental de formation de la grande couronne à l'exception du centre interdépartemental de gestion et du centre interdépartemental de formation de la petite couronne.    3° A titre volontaire pour la gestion de leurs fonctionnaires titulaires et stagiaires de catégories C et D à temps complet ou à temps non complet :
+" d) Les établissement publics administratifs départementaux ou interdépartementaux qui ont leur siège dans l'un de ces départements ainsi que les syndicats mixtes groupant exclusivement des collectivités territoriales et leurs établissements publics administratifs qui ont leur siège dans l'un de ces départements ;
 
-a) Les communes des départements de l'Essonne, du Val-d'Oise et des Yvelines employant au moins 200 fonctionnaires de catégories C et D à temps complet, quel que soit le nombre des fonctionnaires à temps non complet de catégorie C ou D ;    b) Les établissements publics communaux et intercommunaux dont le siège est situé dans l'un des trois départements et qui répondent aux conditions définies au a ci-dessus ;    c) Les départements de l'Essonne, du Val-d'Oise et des Yvelines ;    d) Les établissements publics administratifs départementaux qui ont leur siège dans l'un de ces départements ainsi que les syndicats mixtes groupant exclusivement des collectivités territoriales et leurs établissements publics administratifs qui ont leur siège dans l'un de ces départements ;
+" e) La région d'Ile-de-France et les établissements publics administratifs des communes, des départements et de la région dont la compétence est régionale ou interdépartementale et dont le siège est situé dans la région d'Ile-de-France, à l'exception du centre interdépartemental de gestion de la petite couronne ;
 
-e) La région d'Ile-de-France et les établissements publics administratifs des communes, des départements et de la région dont la compétence est régionale ou interdépartementale et dont le siège est situé dans la région d'Ile-de-France, y compris le centre interdépartemental de formation de la grande couronne et à l'exception du centre interdépartemental de gestion et du centre interdépartemental de formation de la petite couronne.
+" f) Le Centre national de la fonction publique territoriale. "
