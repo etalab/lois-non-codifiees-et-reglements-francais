@@ -166,6 +166,8 @@
 - [Décret n°92-231 du 12 mars 1992 (ACVC9200013D)](decret-n92-231-du-12-mars-1992-acvc9200013d)
 - [Décret n°93-364 du 12 mars 1993 (AGRA9300144D)](decret-n93-364-du-12-mars-1993-agra9300144d)
 - [Décret n°76-409 du 12 mai 1976](decret-n76-409-du-12-mai-1976)
+- [Décret n°92-429 du 12 mai 1992 (PRMX9210136D)](decret-n92-429-du-12-mai-1992-prmx9210136d)
+- [Décret n°92-430 du 12 mai 1992 (LOGX9210124D)](decret-n92-430-du-12-mai-1992-logx9210124d)
 - [Décret n°82-331 du 13 avril 1982](decret-n82-331-du-13-avril-1982)
 - [Décret n°82-332 du 13 avril 1982](decret-n82-332-du-13-avril-1982)
 - [Décret n°87-100 du 13 février 1987 (EQUP8700126D)](decret-n87-100-du-13-fevrier-1987-equp8700126d)
