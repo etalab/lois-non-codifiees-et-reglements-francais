@@ -6,6 +6,6 @@ Peuvent se présenter au concours interne :
 
 2° Les enseignants non titulaires des établissements d'enseignement public relevant du ministre chargé de l'éducation justifiant de l'un des titres ou diplômes visés au 1° ci-dessus et de trois années de services publics ;
 
-3° Les élèves professeurs recrutés par le concours d'accès au cycle préparatoire prévu à l'article 17 du présent décret et ayant suivi le cycle préparatoire institué à l'article 16 ci-dessous.
+3° Les élèves professeurs recrutés par le concours prévu à l'article 17 ci-dessous.
 
 Les conditions fixées au présent article s'apprécient à la date de clôture des registres d'inscription aux concours fixée par arrêté conjoint du ministre chargé de l'éducation et du ministre chargé de la fonction publique.
