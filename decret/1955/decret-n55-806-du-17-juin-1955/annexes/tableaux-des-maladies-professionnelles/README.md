@@ -6,6 +6,7 @@
 - [13° bis Affections provoquées par des préparations associant pentachlorophénol (ou pentachlorophénates) avec du lindane](13-bis)
 - [25° bis Affections cutanées cancéreuses provoquées par les suies de combustion des produits pétroliers](25-bis)
 - [35° bis Affections cancéreuses provoquées par les goudrons de houille, huiles de houille, brais de houille et suies de combustion du charbon](35-bis)
+- [47° bis Cancer broncho-pulmonaire provoqué par l'inhalation de poussières d'amiante](47-bis)
 - [1° Tétanos professionnel](1-tetanos-professionnel)
 - [30° Rage professionnelle](30-rage-professionnelle)
 - [33° Hépatites virales professionnelles](33-hepatites-virales-professionnelles)
