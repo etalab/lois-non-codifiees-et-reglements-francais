@@ -1,9 +1,13 @@
-# Décret-loi du 30 octobre 1935 sur la protection des eaux potables et les établissements ostréicoles
+# Décret-loi du 30 octobre 1935 tendant à simplifier le recouvrement des retenues pour pensions dues par les fonctionnaires en service détachés
 
 - [Article 1](article-1.md)
+- [Titre Ier : Emission](titre-ier)
 - [Article 2](article-2.md)
+- [Titre II : Masse des obligataires ou porteurs de titres d'emprunts](titre-ii)
 - [Article 3](article-3.md)
+- [Titre III : Dispositions d'ordre pénal.](titre-iii)
 - [Article 4](article-4.md)
+- [Titre IV : Dispositions diverses.](titre-iv)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
@@ -11,6 +15,5 @@
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
-- [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Rapport au Président de la République française](rapport-au)

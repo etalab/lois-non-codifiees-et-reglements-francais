@@ -1,3 +1,3 @@
 # Article 8
 
-Sera puni des peines portées à l'article 471 du code pénal, quiconque aura commis une contravention aux prescriptions du règlement sanitaire, ainsi qu'aux prescriptions des articles 2, 3 et 4 [*sanction*].
+Un décret rendu sur la proposition du ministre des Finances interviendra pour fixer les modalités d'application du présent décret et, notamment, s'il y a lieu, celles relatives aux fonctionnaires et agents résidant hors du territoire métropolitain.
