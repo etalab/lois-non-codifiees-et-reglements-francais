@@ -280,6 +280,7 @@
 - [Arrêté du 6 mars 1995 (SPSS9500776A)](arrete-du-6-mars-1995-spss9500776a)
 - [Arrêté du 6 novembre 1995 (EQUA9501754A)](arrete-du-6-novembre-1995-equa9501754a)
 - [Arrêté du 6 novembre 1995 (MCCB9500548A)](arrete-du-6-novembre-1995-mccb9500548a)
+- [Arrêté du 6 novembre 1995 (MCCB9500549A)](arrete-du-6-novembre-1995-mccb9500549a)
 - [Arrêté du 6 novembre 1995 (MENL9502467A)](arrete-du-6-novembre-1995-menl9502467a)
 - [Arrêté du 6 novembre 1995 (MENL9502496A)](arrete-du-6-novembre-1995-menl9502496a)
 - [Arrêté du 6 novembre 1995 (PRMG9570554A)](arrete-du-6-novembre-1995-prmg9570554a)
