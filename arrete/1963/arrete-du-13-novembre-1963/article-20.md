@@ -1,13 +1,13 @@
 # Article 20
 
-Lorsque le gérant avait accompli, lors de son décès, la durée de service minimum visée soit à l'article 11, soit à l'article 19, sa veuve reçoit, sur sa demande une allocation de réversion. Celle-ci est liquidée sur la base d'un nombre de points égal à 50 % des points du mari.
+Le décès d'un gérant ou ancien gérant ayant accompli des services d'une durée au moins égale au minimum qui est prévu aux articles 11 et 19 ouvre droit à une allocation de réversion au profit de sa veuve, sous réserve que cette dernière justifie que son mariage avec le défunt a été contracté au moins deux ans avant le décès et qu'elle n'a pas contracté un nouveau mariage.
 
-Cette allocation est servie à partir, soit du premier jour du trimestre civil suivant le décès du mari, si, à cette date, la veuve est âgée d'au moins soixante ans, ou a au moins deux enfants mineurs à charge, au sens de la législation des assurances sociales, soit du premier jour du trimestre civil suivant son soixantième anniversaire. Le service avant soixante ans de l'allocation de veuve cesse lorsque la veuve a moins de deux enfants à charge.
+La veuve ayant droit à une allocation de réversion doit, pour en obtenir le service, être âgée d'au moins soixante ans ou, à défaut, avoir au moins un enfant à charge au sens de la législation des assurances sociales.
 
-Pour bénéficier de l'allocation, la veuve doit justifier :
+La liquidation de l'allocation de réversion est effectuée sur la base d'un nombre de points tabac égal à 50 % des points acquis par le gérant décédé, au vu d'une demande produite par la veuve à partir de la date à laquelle sont satisfaites les conditions requises pour en obtenir le service.
 
-1° Que le mariage a été contracté au moins deux ans avant le décès du conjoint ;
+L'entrée en jouissance est fixée au premier jour du trimestre civil suivant la date à partir de laquelle la demande d'allocation de réversion peut être produite si cette demande est déposée dans un délai de trois mois suivant cette date. Lorsque la demande est déposée postérieurement à ce délai, l'allocation est servie à compter du premier jour du trimestre civil suivant la date de ce dépôt.
 
-2° Qu'elle n'a pas contracté un nouveau mariage. En cas de remariage, le service de l'allocation cesse le premier jour du trimestre civil suivant.
+Le service de l'allocation de réversion prend fin si l'allocataire se remarie. Il en est de même si elle cesse d'avoir au moins un enfant à charge avant d'avoir atteint l'âge de soixante ans. Dans ce dernier cas, la remise en service de l'allocation intervient, à l'âge de soixante ans, et sur nouvelle demande, dans les conditions fixées ci-dessus.
 
-Lorsque la veuve reprend la gestion du débit de tabac dont son mari avait la charge, son activité personnelle ne met pas obstacle au service de l'allocation de réversion. Elle acquiert, en raison de cette activité, des droits à une allocation de retraite personnelle dont la liquidation est effectuée dans les conditions définies par le présent règlement, mais sans tenir compte de la condition d'ancienneté visée à l'article 11.
+Lorsque la veuve continue la gestion du débit de tabac dont son mari était gérant jusqu'à son décès, cette activité personnelle ne met pas obstacle au service de l'allocation de réversion. De plus, en raison de cette activité, la veuve à laquelle les services de son mari ouvrent droit à allocation de réversion acquiert, même si ses services personnels sont inférieurs au minimum d'ancienneté exigé par l'article 11, des droits à une allocation complémentaire proportionnelle au total des points tabac inscrits à son compte et liquidée dans les conditions définies par le présent règlement.
