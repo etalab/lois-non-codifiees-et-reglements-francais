@@ -1,3 +1,3 @@
 # Article 22
 
-Les conducteurs chefs du transbordement accèdent à la classe exceptionnelle de leur emploi lorsqu'ils comptent huit ans d'ancienneté de grade et deux ans d'ancienneté au sixième échelon de leur emploi.
+Peuvent être promus au choix au premier échelon de la classe exceptionnelle les conducteurs chefs du transbordement comptant au moins deux ans d'ancienneté au huitième échelon.
