@@ -1,0 +1,3 @@
+# Article 12
+
+Lorsqu'un ou plusieurs sièges n'ont pu être pourvus par application des articles 10 et 11, la commission est complétée par des professeurs des universités-praticiens hospitaliers, maîtres de conférences des universités-praticiens hospitaliers, praticiens hospitaliers-universitaires, ou personnels assimilés, affectés à d'autres établissements ou relevant d'autres spécialités. Ces membres sont désignés par le directeur de l'unité de formation et de recherche ou, le cas échéant, par le président de l'université sur proposition du conseil ou des conseils des unités de formation et de recherche concernées.

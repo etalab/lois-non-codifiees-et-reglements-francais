@@ -1,0 +1,3 @@
+# Article 81
+
+A dater du 1er octobre 1985, et jusqu'au 1er octobre 1988, dans les disciplines biologiques et mixtes, à titre transitoire, les internes des centres hospitaliers et universitaires recrutés avant 1984 et par la voie des concours "A" et "B" en 1984 peuvent être recrutés dans l'année qui suit la fin de leurs fonctions d'interne comme personnel temporaire, pour une durée maximum de trois ans. Ils portent le titre d'assistants hospitalo-universitaires en biologie et sont assimilés aux assistants des universités-assistants des hôpitaux en ce qui concerne leurs fonctions et leur rémunération.
