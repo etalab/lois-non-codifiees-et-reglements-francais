@@ -143,3 +143,31 @@ Emploi de secrétaire de rédaction (publications internes).
 Emploi de chargé de communication des D.R.I.R.E.
 
 Emploi comportant des fonctions de correspondant informatique.
+
+Tranche 1993
+
+Secrétaire de direction.
+
+Gestionnaire de fonds documentaires.
+
+Emploi comportant l'animation d'une équipe ou la gestion de procédures spécifiques au sein d'un secteur d'activité.
+
+Responsable d'antenne régionale des radiocommunications.
+
+Chargé de bureau d'ordre d'antenne régionale du service national des radiocommunications.
+
+Bureauticien-assistant d'utilisateur de micro-informatique.
+
+Tranche 1994
+
+Emploi correspondant à une mission de conception ou de coordination requérant une technicité de haut niveau.
+
+Responsable d'un secrétariat assumant des fonctions d'animation et/ou de gestion.
+
+Responsable d'antenne régionale des radiocommunications.
+
+Gestionnaire des dossiers de spécifications techniques des équipements radioélectriques.
+
+Chargé de bureau d'ordre d'antenne régionale du service national des radiocommunications.
+
+Responsable local de formation.
