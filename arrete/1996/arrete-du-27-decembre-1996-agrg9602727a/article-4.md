@@ -1,8 +1,8 @@
 # Article 4
 
-Il est fait obligation à tout détenteur des bovins visé à l'article 1er de notifier quarante-huit heures à l'avance leur envoi à l'abattoir de tout bovin marqué :
+Il est fait obligation à tout détenteur de bovins marqués conformément à l'article 2 du présent arrêté de notifier quarante-huit heures à l'avance leur envoi à l'abattoir :
 
-- aux services vétérinaires du département d'implantation de l'exploitation, qui établissent une autorisation de transport, conformément au modèle joint en annexe au présent arrêté ;
+- à la direction départementale des services vétérinaires du département d'implantation de l'exploitation, qui établit une autorisation de transport, conformément au modèle joint en annexe du présent arrêté ;
 
 - aux services vétérinaires d'inspection de l'abattoir désigné.
 

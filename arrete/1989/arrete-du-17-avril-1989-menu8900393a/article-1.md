@@ -104,7 +104,9 @@ La maîtrise d'ingénierie économique de l'institut universitaire professionnal
 
 II - Titres et diplômes délivrés soit par l'Etat, soit par des écoles dont le diplôme est reconnu par l'Etat.
 
-Le brevet de technicien supérieur de comptabilité et gestion d'entreprise ou brevet de technicien supérieur de comptabilité dispense de l'ensemble des épreuves du D.P.E.C.F., de l'épreuve de mathématiques appliquées et informatique du D.E.C.F., et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F..    L'attestation de succès aux épreuves de fin d'études du premier cycle (régime de 1981) de l'Institut national des techniques économiques et comptables (I.N.T.E.C.) du Conservatoire national des arts et métiers (C.N.A.M.) dispense de l'ensemble des épreuves du D.P.E.C.F..
+Le brevet de technicien supérieur de comptabilité et gestion d'entreprise ou brevet de technicien supérieur de comptabilité, breve de technicien supérieur en comptabilité et gestion des organisations (1) dispense de l'ensemble des épreuves du D.P.E.C.F., de l'épreuve de mathématiques appliquées et informatique du D.E.C.F., et de l'épreuve de soutenance d'un compte rendu du stage d'initiation du D.E.S.C.F..
+
+L'attestation de succès aux épreuves de fin d'études du premier cycle (régime de 1981) de l'Institut national des techniques économiques et comptables (I.N.T.E.C.) du Conservatoire national des arts et métiers (C.N.A.M.) dispense de l'ensemble des épreuves du D.P.E.C.F..
 
 Le certificat d'études comptables (régime de 1963) de l'Institut national des techniques économiques et comptables (I.N.T.E.C.) du Conservatoire national des arts et métiers (C.N.A.M.) dispense des épreuves du D.P.E.C.F., respectivement intitulées Méthodes quantitatives, Comptabilité et Expression et communication.
 
