@@ -1,0 +1,3 @@
+# Article 2
+
+Les taux de majoration applicables aux rentes viagères mentionnées à l'article 1er de la présente loi sont révisés chaque année au mois de décembre, par arrêté du ministre chargé du budget publié au Journal officiel, par application du taux prévisionnel d'évolution en moyenne annuelle des prix à la consommation de tous les ménages, hors les prix du tabac, de l'année civile en cours, tel qu'il figure dans le rapport économique et financier annexé au dernier projet de loi de finances. Les taux de majoration ainsi révisés s'appliquent aux rentes qui ont pris naissance avant le 1er janvier de l'année en cours et qui sont servies au cours de l'année suivante.
