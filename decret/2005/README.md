@@ -72,6 +72,7 @@
 - [Décret n°2005-118 du 10 février 2005 (SANA0520177D)](decret-n2005-118-du-10-fevrier-2005-sana0520177d)
 - [Décret n°2005-128 du 10 février 2005 (MENS0500084D)](decret-n2005-128-du-10-fevrier-2005-mens0500084d)
 - [Décret n°2005-15 du 10 janvier 2005 (SOCA0424457D)](decret-n2005-15-du-10-janvier-2005-soca0424457d)
+- [Décret n°2005-222 du 10 mars 2005 (JUSC0520149D)](decret-n2005-222-du-10-mars-2005-jusc0520149d)
 - [Décret n°78-280 du 10 mars 1978](decret-n78-280-du-10-mars-1978)
 - [Décret n°2005-113 du 11 février 2005 (JUSC0520040D)](decret-n2005-113-du-11-fevrier-2005-jusc0520040d)
 - [Décret n°2005-114 du 11 février 2005 (AGRP0500313D)](decret-n2005-114-du-11-fevrier-2005-agrp0500313d)
