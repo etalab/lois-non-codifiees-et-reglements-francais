@@ -1,8 +1,8 @@
 # Article 6
 
-Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er avril 1999 :
+Les traitements et soldes annuels correspondant à chacun des groupes hors échelle sont fixés comme suit à compter du 1er décembre 1999 :
 
-TRAITEMENTS ET SOLDES ANNUELS BRUTS (en francs) soumis à retenue pour pension à compter du 1er avril 1999
+TRAITEMENTS ET SOLDES ANNUELS BRUTS (en francs) soumis à retenue pour pension à compter du 1er décembre 1999
 
 I = Groupe
 
@@ -25,28 +25,28 @@ III
 <td> :---:-------:-------:-------:</td>
 </tr>
 <tr>
-<td> : A :291 432:303 037:318 620:</td>
+<td> : A :294-087:305 784:321 491:</td>
 </tr>
 <tr>
-<td> : B :318 620:332 213:350 117:</td>
+<td> : B :321 491:335 193:353 239:</td>
 </tr>
 <tr>
-<td> : B+:350 117:359 400:369 015:</td>
+<td> : B+:353 239:362 596:372 288:</td>
 </tr>
 <tr>
-<td> : C :369 015:376 972:385 261:</td>
+<td> : C :372 288:380 308:388 663:</td>
 </tr>
 <tr>
-<td> : D :385 261:402 833:420 405:</td>
+<td> : D :388 663:406 375:424 087:</td>
 </tr>
 <tr>
-<td> : E :420 405:436 983:   -   :</td>
+<td> : E :424 087:440 797:   -   :</td>
 </tr>
 <tr>
-<td> : F :453 229: -     :   -   :</td>
+<td> : F :457 172: -     :   -   :</td>
 </tr>
 <tr>
-<td> : G :496 993: -     :   -   :</td>
+<td> : G :501 285: -     :   -   :</td>
 </tr>
 <tr>
 <td> :---:-------:-------:-------:</td>
