@@ -812,3 +812,4 @@
 - [Décret n°92-1483 du 31 décembre 1992 (DEFD9202291D)](decret-n92-1483-du-31-decembre-1992-defd9202291d)
 - [Décret n°92-1484 du 31 décembre 1992 (BUDB9250114D)](decret-n92-1484-du-31-decembre-1992-budb9250114d)
 - [Décret n°92-332 du 31 mars 1992 (TEFT9204543D)](decret-n92-332-du-31-mars-1992-teft9204543d)
+- [Décret n°92-759 du 31 juillet 1992 (JUSC9220367D)](decret-n92-759-du-31-juillet-1992-jusc9220367d)
