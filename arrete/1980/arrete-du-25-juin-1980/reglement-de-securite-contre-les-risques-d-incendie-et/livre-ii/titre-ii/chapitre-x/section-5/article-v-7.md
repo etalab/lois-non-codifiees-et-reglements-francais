@@ -1,5 +1,9 @@
 # Article V 7
 
-Appareils d'éclairage à flamme nue
+Règles d'utilisation
 
-Les appareils d'éclairage à flamme nue (candélabres, cierges, luminaires, etc.) doivent être éloignés de toute matière inflammable ; en outre, ils doivent être disposés de manière que, même en cas de chute accidentelle, ils ne puissent pas être une cause d'incendie.
+§ 1. Les systèmes de chauffage et de ventilation installés conformément aux dispositions des articles CH 1 à CH 54 sont autorisés.
+
+Toutefois les appareils de production-émission à combustible liquide, les cassettes électriques dont la température de surface excède 100 °C et les panneaux radiants ne sont autorisés que s'ils sont placés à plus de 3 mètres du niveau le plus haut accessible au public.
+
+§ 2. Les panneaux radiants à combustible gazeux ne sont autorisés que dans les locaux largement ventilés et disposant d'un dispositif permanent d'évacuation de l'air vicié.
