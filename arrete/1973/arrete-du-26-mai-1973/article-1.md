@@ -1,23 +1,23 @@
 # Article 1
 
-Pour les travaux concernant l'établissement des listes électorales consulaires effectuées à la demande de la commission instituée par l'article 8 du décret du 3 août 1961 relatif aux tribunaux de commerce et aux chambres de commerce et d'industrie, à l'exclusion du classement des électeurs par catégorie professionnelle, la rémunération des greffiers des tribunaux de commerce et des tribunaux de grande instance statuant commercialement est fixée comme suit :
+Pour les travaux concernant l'établissement des listes électorales consulaires effectuées à la demande de la commission instituée par l'article 8 du décret du 3 août 1961 relatif aux tribunaux de commerce et aux chambres de commerce et d'industrie, à l'exclusion du classement des électeurs par catégorie professionnelle, la rémunération des greffiers des tribunaux de commerce et des tribunaux de grande instance statuant commercialement est égale à un sous-multiple du taux de base prévu par le décret susvisé du 26 septembre 1975 et est fixée comme suit :
 
-I - Par inscription ou modification affectant le nom, la raison sociale, la forme juridique, l'activité, l'adresse, la date de naissance ou le numéro d'inscription au registre du commerce d'un commerçant, d'une société ou d'un représentant d'une société (tarif - émoluments en francs) :
+I - Par inscription ou modification affectant le nom, la raison sociale, la forme juridique, l'activité, l'adresse, la date de naissance et le numéro d'inscription au registre du commerce d'un commerçant, d'une société ou d'un représentant d'une société (tarif - émoluments) :
 
-1° Elections des délégués consulaires et des membres des         chambres de commerce :
+1° Elections des délégués consulaires et des membres des chambres de commerce :
 
 a) Electeurs à titre personnel :
 
-Procédé informatique ou mécanographique : 1,80.           Autres procédés : 1.        b) Sociétés, y compris le représentant           de droit :
+Procédé informatique ou mécanographique 2/5 taux de base Autres procédés 1/4 taux de base b) Sociétés y compris le représentant de droit :
 
-Procédé informatique ou mécanographique : 3,20.           Autres procédés : 2.        c) Représentants :
+Procédé informatique ou mécanographique 3/5 taux de base Autres procédés 1/2 taux de base c) Représentants :
 
-Procédé informatique ou mécanographique : 1,50.           Autres procédés : 1.        2° Elections des membres des tribunaux des         commerce :
+Procédé informatique ou mécanographique 2/5 taux de base Autres procédés 1/4 taux de base 2° Elections des membres des tribunaux de commerce :
 
-Procédé informatique ou mécanographique : 1.           Autres procédés : 0,60.        II - Par radiation :
+Procédé informatique ou mécanographique 1/4 taux de base Autres procédés 1/6 taux de base II - Par radiation :
 
-1° Elections des délégués consulaires et         des membres des chambres de commerce : 0,40.        2° Elections des membres des tribunaux de         commerce : 0,20.        III - Pour le tirage :
+1° Elections des délégués consulaires et des membres des chambres de commerce 1/10 taux de base 2° Elections des membres des tribunaux de commerce 1/20 taux de base III - Pour le tirage :
 
 Par électeur :
 
-Procédé informatique ou mécanographie : 0,30.           Autres procédés : 0,50.
+Procédé informatique ou mécanographique 1/10 taux de base Autres procédés 1/6 taux des base
