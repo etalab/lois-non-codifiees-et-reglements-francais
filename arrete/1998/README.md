@@ -1070,7 +1070,6 @@
 - [Arrêté du 29 juillet 1998 (MENE9802063A)](arrete-du-29-juillet-1998-mene9802063a)
 - [Arrêté du 29 juillet 1998 (MENS9802113A)](arrete-du-29-juillet-1998-mens9802113a)
 - [Arrêté du 29 juillet 1998 (MESH9822487A)](arrete-du-29-juillet-1998-mesh9822487a)
-- [Arrêté du 29 juillet 1998 (MESH9822825A)](arrete-du-29-juillet-1998-mesh9822825a)
 - [Arrêté du 29 juin 1998 (DEFP9801698A)](arrete-du-29-juin-1998-defp9801698a)
 - [Arrêté du 29 juin 1998 (ECOX9803061A)](arrete-du-29-juin-1998-ecox9803061a)
 - [Arrêté du 29 juin 1998 (INTE9800291A)](arrete-du-29-juin-1998-inte9800291a)

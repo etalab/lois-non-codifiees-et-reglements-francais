@@ -542,7 +542,6 @@
 - [Arrêté du 28 septembre 1989 (RESW8900307A)](arrete-du-28-septembre-1989-resw8900307a)
 - [Arrêté du 28 septembre 1989 (RESW8900308A)](arrete-du-28-septembre-1989-resw8900308a)
 - [Arrêté du 29 août 1989 (PTTT8900827A)](arrete-du-29-aout-1989-pttt8900827a)
-- [Arrêté du 29 décembre 1982](arrete-du-29-decembre-1982)
 - [Arrêté du 29 décembre 1988 (ECOC8800119A)](arrete-du-29-decembre-1988-ecoc8800119a)
 - [Arrêté du 29 décembre 1988 (ECOT8820092A)](arrete-du-29-decembre-1988-ecot8820092a)
 - [Arrêté du 29 décembre 1988 (INTD8800490A)](arrete-du-29-decembre-1988-intd8800490a)
