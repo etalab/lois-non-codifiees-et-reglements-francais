@@ -1,0 +1,3 @@
+# Article 32
+
+Indépendamment du rythme des contrôles tuberculiniques retenu dans le département pour le contrôle des cheptels officiellement indemnes, les cheptels bovins d'une exploitation ayant retrouvé leur qualification officiellement indemne de tuberculose après un épisode infectieux continuent d'être contrôlés annuellement pendant une période de dix années par intradermotuberculination simple à l'aide de tuberculine bovine normale ou par intradermotuberculination comparative ; toutefois ces dispositions ne s'appliquent pas aux cheptels ayant retrouvé la qualification officiellement indemne depuis six ans au moins à la date de parution du présent arrêté.

@@ -30,7 +30,17 @@ Les exigences relatives aux nutriments portent sur des produits prêts à l'empl
 
 - la quantité totale des protéines contenues dans le produit ne doit pas être inférieure à 0,7 g/100 kJ (3 g/100 kcal).
 
+1.3 bis. Si du fromage et d'autres ingrédients sont mentionnés dans la dénomination d'un produit non sucré, que ce dernier soit ou non présenté comme un plat :
+
+- la teneur en protéines d'origine laitière ne doit pas être inférieure à 0,5 g/100 kJ (2,2 g/100 kcal) ;
+
+- la teneur totale du produit en protéines de toutes origines ne doit pas être inférieure à 0,7 g/100 kJ (3 g/100 kcal).
+
 1.4. Si le libellé de l'étiquette du produit précise qu'il s'agit d'un repas, mais ne mentionne pas la viande, le poulet, le poisson, les abats ou une autre source traditionnelle de protéines, la teneur en protéines de toutes les sources ne doit pas être inférieure à 0,7 g/100 kJ (3 g/100 kcal).
+
+1.4 bis. Les exigences énoncées aux points 1.1 à 1.4 compris ne s'appliquent pas aux sauces présentées comme accompagnement d'un plat.
+
+1.4 ter. Dans les préparations sucrées dont la dénomination mentionne un produit laitier comme principal ou seul ingrédient, la teneur en protéines du lait ne doit pas être inférieure à 2,2 g/100 kcal. Les exigences énoncées aux points 1.1 à 1.4 ne s'appliquent pas aux autres préparations sucrées.
 
 1.5. L'ajout d'acides aminés n'est autorisé qu'aux fins de l'amélioration de la valeur nutritive des protéines présentes et seulement dans les proportions nécessaires à cet effet.
 
