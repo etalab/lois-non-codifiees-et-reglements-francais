@@ -1,0 +1,3 @@
+# Article 5
+
+Par dérogation aux dispositions de l'article 4, au cas où le chef d'exploitation agricole ne satisfait plus à la condition prévue à l'article 1003-7-1-I, à la suite d'une expropriation ou d'une opération de remembrement ou d'une reprise de terres par le propriétaire ou à la suite d'une augmentation de la surface minimum d'installation, il est maintenu, sur sa demande, au régime pendant les deux années civiles suivantes, par décision du conseil d'administration de la caisse de mutualité sociale agricole dont il relève, sous réserve qu'il remplisse les conditions prévues aux articles 1er et 2 du présent décret.

@@ -1,0 +1,3 @@
+# Article 3
+
+Lorsque soit l'allocataire, soit son conjoint ou concubin relève du régime de protection sociale des personnes non-salariées des professions agricoles prévu au chapitre IV-2, titre II, livre VII du code rural et satisfait aux conditions [*générales d'attribution*] posées à l'article 1er, 1er alinéa, et à l'article 2 du présent décret, il a droit au supplément de revenu familial lorsque la surface [*maximum*] d'exploitation agricole sur laquelle s'exerce son activité ou celle de son conjoint ou concubin, telle qu'elle est constatée au 1er janvier précédant le début de la période au cours de laquelle le droit est ouvert ou maintenu, est au plus égale à 3 hectares pondérés par l'application des coefficients fixés par le décret du 26 juin 1970 susvisé.

@@ -1,0 +1,11 @@
+# Article 3
+
+Les ressources prises en compte pour l'appréciation du droit à l'un des suppléments de revenu familial sont constituées par :
+
+1. Les revenus nets imposables perçus par l'allocataire ainsi que, le cas échéant, par son conjoint ou son concubin pendant l'année civile précédant le début de la période au cours de laquelle le droit est ouvert ou maintenu.
+
+Il est fait abstraction des revenus des enfants ayant fait l'objet d'une imposition commune. Il est également fait abstraction des déductions opérées en application de l'article 156-1 du code général des impôts au titre de reports de déficit constatés au cours d'une année antérieure à celle qui est prise en considération.
+
+2. Les sommes reçues durant l'année civile précédant le début de la période au cours de laquelle le droit est ouvert ou maintenu au titre de l'allocation aux adultes handicapés des indemnités temporaires et des rentes servies aux victimes d'accident du travail ou de maladies professionnelles et des pensions servies en application du code des pensions militaires d'invalidité et des victimes de guerre.
+
+3. Les sommes provenant annuellement du service des allocations familiales et de leurs majorations pour âge, du complément familial, de l'allocation de logement, de l'allocation d'orphelin, de l'allocation de parent isolé, de l'aide personnalisée au logement [*APL*] et de l'allocation différentielle prévue par l'article 4 du décret du 10 décembre 1946 susvisé majorée des prestations pour enfants servies en application des traités, conventions ou accords internationaux auxquels la France est partie. Ces sommes sont fixées à douze fois le montant perçu par l'allocataire au titre des prestations ci-dessus mentionnées lors du mois au cours duquel le droit est ouvert ou maintenu.

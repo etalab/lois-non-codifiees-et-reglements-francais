@@ -1,0 +1,7 @@
+# Article 1
+
+Les emplois de sous-directeur de la commune de Paris sont réservés aux administrateurs de la commune de Paris qui justifient de huit années de services depuis leur nomination dans le corps, dont six années de services effectifs en qualité d'administrateur de la commune de Paris, et qui ont satisfait à l'obligation de mobilité prévue par le décret n° 77-188 du 1er mars 1977 relatif au statut particulier des administrateurs de la commune de Paris.
+
+Les fonctionnaires de l'Etat, placés en position de détachement dans un emploi d'administrateur de la commune de Paris, peuvent être nommés au même titre que les administrateurs de la commune de Paris sous réserve qu'ils justifient de huit années d'ancienneté dans leur corps, dont deux au moins auprès de la commune de Paris. Cette disposition s'applique également, dans les mêmes conditions, aux fonctionnaires de l'Etat intégrés, après détachement, dans le corps des administrateurs de la commune de Paris.
+
+Toutefois, dans la limite du quart de l'effectif, le maire peut nommer aux emplois mentionnés au premier alinéa des fonctionnaires de la commune de Paris, de l'Etat ou des agents des collectivités locales appartenant à un corps ou titulaires d'un emploi dont l'échelle indiciaire comporte un indice terminal supérieur à l'indice brut 1 015. Les intéressés doivent justifier de huit années de services publics effectifs dans un tel corps ou dans un tel emploi.

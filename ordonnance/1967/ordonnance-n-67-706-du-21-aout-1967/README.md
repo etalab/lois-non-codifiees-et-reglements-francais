@@ -6,6 +6,7 @@
 - [AGENCE CENTRALE DES ORGANISMES DE SECURITE SOCIALE.](agence-centrale-des-organismes-de-securite-sociale)
 - [AGENCE CENTRALE DES ORGANISMES DE SECURITE SOCIALE *ACOSS*.](agence-centrale-des-organismes-de-securite-sociale-acoss)
 - [ALLOCATIONS FAMILIALES](allocations-familiales)
+- [ASSURANCE VEUVAGE](assurance-veuvage)
 - [ASSURANCE VIEILLESSE](assurance-vieillesse)
 - [DISPOSITIONS RELATIVES AU PERSONNEL DES ORGANISMES DE SECURITE SOCIALE.](dispositions-relatives-au)
 - [DISPOSITIONS COMMUNES](dispositions-communes)

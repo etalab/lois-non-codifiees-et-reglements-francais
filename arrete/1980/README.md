@@ -1,5 +1,6 @@
 # 1980
 
+- [Arrêté du 1 août 1979](arrete-du-1-aout-1979)
 - [Arrêté du 1 août 1980](arrete-du-1-aout-1980)
 - [Arrêté du 1 décembre 1980](arrete-du-1-decembre-1980)
 - [Arrêté du 1 février 1980](arrete-du-1-fevrier-1980)
