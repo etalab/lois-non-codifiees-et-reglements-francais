@@ -8,7 +8,7 @@ Dans les autres départements ainsi que dans les collectivités territoriales de
 
 3° Les sénateurs ;
 
-4° Le président du conseil régional ou, dans les départements de Corse-du-Sud et de Haute-Corse, le président de l'assemblée de Corse ;
+4° Le président du conseil régional ou, dans les départements de Corse-du-Sud et de Haute-Corse, le président du conseil exécutif de Corse, le président de l'assemblée de Corse ;
 
 5° Le président du conseil général ;
 
@@ -26,9 +26,7 @@ Dans les départements et les collectivités territoriales d'outre-mer, l'autori
 
 11° Les dignitaires de la Légion d'honneur, les Compagnons de la Libération et les dignitaires de l'ordre national du Mérite ;
 
-12° Le président du Conseil économique et social de la région ou, dans les départements de Corse-du-Sud et de Haute-Corse, le président du Conseil économique et social de la région Corse ;
-
-Dans les départements de Corse-du-Sud et de Haute-Corse, le président du conseil de la culture, de l'éducation et du cadre de vie ;
+12° Le président du conseil économique et social de la région, ou, dans les départements de Corse-du-Sud et de Haute-Corse, le président du conseil économique, social et culturel de Corse, les membres du conseil exécutif de Corse ;
 
 Dans les départements d'outre-mer, le président du conseil de la culture, de l'éducation et de l'environnement ;
 
@@ -42,9 +40,7 @@ Dans les départements d'outre-mer, le président du conseil de la culture, de l
 
 17° Le recteur d'académie, chancelier des universités ;
 
-18° Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, l'évêque, le président du directoire de l'Eglise de la confession d'Augsbourg d'Alsace et de Lorraine, le président du
-
-synode de l'Eglise réformée d'Alsace-Lorraine, le grand rabbin, le président de consistoire israélite ;
+18° Dans les départements du Bas-Rhin, du Haut-Rhin et de la Moselle, l'évêque, le président du directoire de l'Eglise de la confession d'Augsbourg d'Alsace et de Lorraine, le président du synode de l'Eglise réformée d'Alsace-Lorraine, le grand rabbin, le président de consistoire israélite ;
 
 19° Le préfet adjoint pour la sécurité, le préfet délégué pour la sécurité et la défense ;
 
@@ -56,7 +52,7 @@ synode de l'Eglise réformée d'Alsace-Lorraine, le grand rabbin, le président 
 
 23° Les présidents des universités, les directeurs des grandes écoles nationales ayant leur siège dans le département, les directeurs des grands établissements de recherche ayant leur siège dans le département ;
 
-24° Le directeur général des services de la région ;
+24° Le directeur général des services de la région, ou, dans les départements de Corse-du-Sud et de Haute-Corse, le directeur général des services de la collectivité territoriale de Corse ;
 
 25° Le directeur général des services du département ;
 
