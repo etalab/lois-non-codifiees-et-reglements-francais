@@ -1,5 +1,5 @@
 # Article 6
 
-Les convocations aux réunions comportent l'indication de l'ordre du jour détaillé.
+Les épreuves de l'examen correspondant aux matières prévues à l'article 2 ci-dessus sont orales.
 
-A titre exceptionnel et en raison de l'urgence, le président peut modifier l'ordre du jour, de sa propre initiative ou à la demande du directeur de l'office.
+L'épreuve de gestion commerciale et financière de l'entreprise peut donner lieu en outre à un exercice pratique portant sur les tarifs et dispositions tarifaires.

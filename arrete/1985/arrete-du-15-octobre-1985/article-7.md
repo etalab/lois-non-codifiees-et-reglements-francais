@@ -1,13 +1,65 @@
 # Article 7
 
-Le conseil spécialisé de l'économie cidricole étudie les questions relevant de sa délégation de compétence et en particulier les projets de décision qui lui sont soumis par le directeur de l'office ; les avis qu'il exprime sont transmis au ministre chargé de l'agriculture par le directeur de l'office.
+La durée et le coefficient des épreuves sont fixés comme suit :
 
-Chaque membre du conseil spécialisé dispose d'une voix.
+NATURE DE L'EPREUVE :
 
-Tout membre du conseil spécialisé empêché d'assister à une réunion peut déléguer par écrit ses pouvoirs à un autre membre du conseil. Aucun membre ne peut toutefois détenir plus d'un mandat, indépendamment de ses pouvoirs propres.
+1. Droit général
 
-Le conseil spécialisé ne peut valablement délibérer que si le nombre des membres présents ou représentés est supérieur à la moitié des membres en exercice. Si ce quorum n'est pas atteint, le conseil spécialisé est à nouveau convoqué dans un délai de quinze jours ; il peut alors valablement délibérer sur le même ordre du jour, quel que soit le nombre des membres présents ou représentés.
+TEMPS accordé (en minutes) : 10
 
-Les délibérations sont acquises à la majorité simple des membres présents ou représentés. En cas de partage égal des voix, celle du président est prépondérante.
+COEFFICIENT : 2
 
-Les votes s'effectuent au scrutin public ; toutefois, ils peuvent être effectués à bulletin secret à la demande d'un ou de plusieurs membres du conseil spécialisé et sur décision du président.
+NATURE DE L'EPREUVE :
+
+2. Gestion commerciale et financière
+
+TEMPS accordé (en minutes) : 25
+
+COEFFICIENT : 7
+
+NATURE DE L'EPREUVE :
+
+3. Réglementation sociale
+
+TEMPS accordé (en minutes) : 15
+
+COEFFICIENT : 3
+
+NATURE DE L'EPREUVE :
+
+4. Réglementation des services routiers de transport de personnes
+
+TEMPS accordé (en minutes) : 15
+
+COEFFICIENT : 3
+
+NATURE DE L'EPREUVE :
+
+5. Normes et exploitation
+
+TEMPS accordé (en minutes) : 10
+
+COEFFICIENT : 1
+
+NATURE DE L'EPREUVE :
+
+6. Sécurité
+
+TEMPS accordé (en minutes) : 15
+
+COEFFICIENT : 2
+
+NATURE DE L'EPREUVE :
+
+7. Transport international
+
+TEMPS accordé (en minutes) : 15
+
+COEFFICIENT : 2
+
+Total de la durée des interrogations (en minutes) : 105
+
+Total des coefficients : 20.
+
+La durée et le coefficient des épreuves entreront en vigueur au 1er juillet 1988.

@@ -1,9 +1,11 @@
 # Article 32-3
 
-Le bureau Organisation et méthodes [*attributions*] :
+Le bureau de la prévision et des études économiques [*attributions*]     Conduit, en liaison avec les directions et organismes intéressés, les études prévisionnelles ;
 
-Conduit les études, les expériences et les recherches effectuées en vue d'améliorer les tâches administratives par l'organisation rationnelle du travail ;
+Prépare le Plan ; est le correspondant de la Chancellerie auprès du commissariat général du Plan ; assure le suivi de la régionalisation du Plan ; tient le secrétariat de la commission de la prévision du ministère ;
 
-Etudie, en liaison avec les directions et services ainsi qu'avec l'inspection générale des services judiciaires, l'organisation fonctionnelle des services du ministère, leur coût et leur rendement ;
+Participe aux actions de modernisation de la gestion ;
 
-Réunit la documentation sur les techniques d'organisation du travail administratif ainsi que sur l'équipement et les matériels de bureau et la diffuse dans les directions et services extérieurs.
+Assure le secrétariat du conseil de la recherche ;
+
+Est associé à la définition des programmes de recherche et exploite leurs résultats.

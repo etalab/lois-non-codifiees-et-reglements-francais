@@ -1,5 +1,3 @@
 # Article 3
 
-Les projecteurs, porte-source, télécommandes, gaines d'éjection, dispositifs d'irradiation doivent être soumis à des révisions générales préventives périodiques, au moins une fois par an, exécutées par des techniciens dûment qualifiés.
-
-Lors de chaque révision, toute pièce dont l'état pourrait engendrer une défaillance susceptible de créer un risque, doit être remplacée avant remise en service.
+Les candidats à l'examen prévu à l'article 1er ci-dessus sont dispensés des épreuves de droit, de gestion commerciale et de réglementation sociale, lorsqu'ils sont titulaires de l'attestation de capacité délivrée en application de l'article 3 de l'arrêté du 17 janvier 1978 modifié fixant les modalités du contrôle des connaissances acquises en vue de l'exercice des professions de transporteur routier ou de l'article 1er de l'arrêté du 2 septembre 1986 relatif à l'examen d'attestation de capacité permettant l'exercice de la profession de transporteur public routier de marchandises et de loueur de véhicules industriels destinés au transport de marchandises.

@@ -1,11 +1,11 @@
 # Article 32-2
 
-Le bureau de la prévision et des études économiques [*attributions*] :
+Le bureau de la comptabilité et du contrôle de gestion
 
-Conduit, en liaison avec les directions et organismes intéressés, les études prévisionnelles et les actions de rationalisation des choix budgétaires ;
+Tient la comptabilité centrale du ministère ; à ce titre, centralise les engagements de dépense, établit les pièces d'ordonnancement ainsi que les titres de recettes ; contrôle le fonctionnement des régies d'avances et de recettes ;
 
-Prépare le Plan ; est le correspondant de la chancellerie auprès du commissariat général du Plan ; assure le suivi de la régionalisation du Plan ; tient le secrétariat de la commission de la prévision du ministère ;
+Assure le suivi des consommations de crédits ;
 
-Elabore le budget de programmes et participe aux actions de modernisation de la gestion ;
+En liaison avec les directions et services compétents, définit les moyens d'améliorer la connaissance, le contrôle et la maîtrise des dépenses ;
 
-Est associé à la définition des programmes de recherche et exploite leurs résultats.
+Assure les relations, en toutes ces matières, avec le ministère du budget, les comptables supérieurs du Trésor, les ordonnateurs secondaires.
