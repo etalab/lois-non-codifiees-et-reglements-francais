@@ -936,6 +936,7 @@
 - [Décret n°95-102 du 27 janvier 1995 (FPPA9400127D)](decret-n95-102-du-27-janvier-1995-fppa9400127d)
 - [Décret n°95-103 du 27 janvier 1995 (SPSA9500028D)](decret-n95-103-du-27-janvier-1995-spsa9500028d)
 - [Décret n°95-104 du 27 janvier 1995 (MENG9500040D)](decret-n95-104-du-27-janvier-1995-meng9500040d)
+- [Décret n°95-1140 du 27 octobre 1995 (COMK9504001D)](decret-n95-1140-du-27-octobre-1995-comk9504001d)
 - [Décret n°95-206 du 27 février 1995 (SPSS9500626D)](decret-n95-206-du-27-fevrier-1995-spss9500626d)
 - [Décret n°95-213 du 27 février 1995 (AGRS9500101D)](decret-n95-213-du-27-fevrier-1995-agrs9500101d)
 - [Décret n°95-215 du 27 février 1995 (SPSS9500321D)](decret-n95-215-du-27-fevrier-1995-spss9500321d)

@@ -1,0 +1,3 @@
+# Article 7
+
+Le directeur du budget, le directeur général des impôts, le directeur général de la concurrence, de la consommation et de la répression des fraudes, le directeur de la comptabilité publique du ministère de l'économie, des finances et du Plan, le directeur des libertés publiques et des affaires juridiques du ministère de l'intérieur, l'inspecteur général de l'industrie et du commerce, le directeur général des stratégies industrielles et le directeur général de l'administration et des finances du ministère de l'industrie sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
