@@ -1,93 +1,53 @@
 # Article ANNEXE 2
 
-DOSSIER-GUIDE
+2.1.4. Aides particulières aux femmes seules
 
-CE QUE VOUS TROUVEREZ DANS CE DOSSIER
+Les aides financières
 
-1. En première partie - Les conditions de l'interruption volontaire de grossesse (IVG) :
+L'allocation de parent isolé :
 
-1.1. La réglemantation de l'IVG ;
+Les femmes seules en état de grossesse ayant déclaré leur grossesse et passé les examens prénataux obligatoires pourront bénéficier d'une garantie de ressources.
 
-1.2. Les démarches à suivre ;
+Si vos ressources mensuelles sont inférieures à 1758,96 F, pour vous et votre enfant, au 1er juillet 1984, vous aurez droit à une allocation égale à la différence entre ce plafond et le montant de vos ressources.
 
-1.3. Quelques données médicales ;
+Cette allocation devra être demandée à la caisse d'allocations familiales.
 
-1.4. Le coût de l'IVG.
+Elle sera maintenue jusqu'à ce que votre enfant atteigne l'âge de trois ans.
 
-2. En deuxième partie - Les aides possibles si vous décidez de poursuivre votre grossesse :
+L'allocation de soutien familial :
 
-2.1. Les aides financières et matérielles ;
+Elle est versée au profit des enfants élevés par des mères célibataires isolées et des enfants dont un parent est décédé, ou se trouve hors d'état de payer une pension alimentaire, ou refuse de verser cette pension alimentaire.
 
-2.2. La protection de la femme enceinte salariée ;
+Le montant de l'allocation qui vous sera versée, si vous élevez seule votre enfant, sera de 230,34 F par mois au 1er juillet 1984 [*date, point de départ*].
 
-2.3. Les dispositions en faveur des professions industrielles, commerciales, artisanales et libérales ;
+Les allégements fiscaux : les parents isolés bénéficient d'une diminution supplémentaire de l'impôt sur le revenu pour le premier enfant.
 
-2.4. Les droits civils de la mère ;
+Les possibilités d'hébergement.
 
-2.5. Un autre recours possible : l'adoption.
+(Voir Annexe 1, Métropole).
 
-En annexe : la liste et les adresses des centres d'IVG, des établissements d'information, de conseil ou d'éducation familiale, des organismes de consultation sociale, ainsi que celles des associations et organismes susceptibles de vous apporter une aide morale ou matérielle dans votre département [*non reproduites*].
+2.3. Les dispositions en faveur des professions industrielles, commerciales, artisanales et libérales :
 
-Les développements du dossier-guide destiné à la métropole restent valables sauf les rubriques 2.1 et 2.3, qui, pour les départements d'outre-mer, doivent porter sur les points suivants :
+Si vous exercez une activité industrielle, commerciale, artisanale ou libérale, ou si vous êtes conjointe collaboratrice de ces professions, vous pourrez bénéficiez de deux avantages à l'occasion de votre maternité.
 
-2.1. Les aides financières et matérielles
+2.3.1. L'allocation de repos maternel :
 
-Le service de protection maternelle et infantile (PMI) pourra vous conseiller et vous aider. Il mettra à votre disposition des assistantes sociales, des sages-femmes et des travailleuses familiales. Vous serez ainsi renseignée sur les aides dont vous pourrez bénéficier, surveillée pendant votre grossesse et éventuellement secondée dans vos tâches quotidiennes. Vous demanderez le concours de ces personnes au service de la PMI de la direction des affaires sanitaires et sociales de votre département.
+Elle est destinée à compenser partiellement la diminution de votre activité. La demande pourra en être faite dès l'accouchement.
 
-2.1.1. Au cours de votre grossesse, une aide financière vous sera assurée.
+Son montant forfaitaire s'élève à 4050 F au 1er juillet 1984.
 
-La prime de protection de la maternité :
+2.3.2. L'indemnité de remplacement :
 
-Cette prime, d'un montant égal à 1040 F (1), vous sera versée par tranches de 208 F à l'occasion de chacun des cinq [*nombre*] examens médicaux obligatoires que vous subirez : quatre au cours de votre grossesse, un an après la naissance (1) Au 1er juillet 1984.
+Vous pourrez, en outre, vous faire remplacer par du personnel salarié dans vos travaux professionnels ou ménagers pendant vingt-huit jours au maximum, consécutifs ou non. Vous devrez cesser toute activité et vous faire effectivement remplacer pendant au moins une semaine au cours de la période comprise six semaines avant la date présumée de l'accouchement et dix semaines après.
 
-L'allocation mensuelle d'enfant secouru :
+La durée du remplacement peut être prolongée de quatorze jours :
 
-Si vous êtes particulièrement dépourvue de ressources et ne pouvez subvenir aux besoins de votre enfant, vous pourrez demander une allocation à la direction des affaires sanitaires et sociales de votre département. Cette allocation mensuelle pourra vous être attribuée dès le début de votre grossesse.
+- en cas de complications médicales résultant de la grossesse ;
 
-Son montant sera fonction de votre situation professionnelle.
+- en cas de naissances multiples.
 
-2.1.2. Les frais d'accouchement dans un établissement public ou privé conventionné seront remboursés par les organismes de sécurité sociale si vous êtes assurée sociale ou ayant droit d'un assuré social.
+Vous percevrez une indemnité de remplacement égale au coût réel du remplacement, mais ne pouvant dépasser la somme de 4050 F au 1er juillet 1984 (1). (1) Réévaluée avec le SMIC.
 
-Si vous ne relevez pas d'un organisme de sécurité sociale et si vos ressources sont insuffisantes, vous pourrez présenter une demande d'aide médicale à la mairie de votre domicile.
+Ce montant maximal est augmenté de 50 p. 100 en cas de complications médicales liées à la grossesse ou en cas de naissances multiples.
 
-Vous pouvez aussi demander à adhérer à l'assurance personnelle, dont les cotisations seront prises en charge de la même manière.
-
-2.1.3. Après la naissance, vous pourrez bénéficier d'avantages financiers en plus du versement de la cinquième fraction de la prime de protection de la maternité déjà citée.
-
-Les allocations familiales (2) :
-
-Elles vous seront versées à partir du premier enfant.
-
-Elles sont dues par journée de travail, et leur montant journalier varie en fonction du nombre d'enfants.
-
-Le complément familial (2) :
-
-Vous pourrez en bénéficier si vos ressources sont inférieures à un certain plafond et si vous avez la charge d'un enfant de moins de cinq ans.
-
-Son montant mensuel est égal à 372,03 F au 1er juillet 1984.
-
-(2) Seuls ont droit à ces prestations les ressortissants du régime général et du régime agricole, les marins-pêcheurs non-salariés et quelques autres catégories.
-
-(1) Loi de finances pour 1984.
-
-L'allocation de logement (1) :
-
-Son montant tiendra compte des ressources de la composition de la famille et du montant du loyer que vous payez.
-
-L'allocation mensuelle d'enfant secouru :
-
-Elle pourra vous être accordée dans les mêmes conditions que celle qui pourra vous être accordée pendant votre grossesse.
-
-L'allocation d'aide sociale aux familles :
-
-Si vous avez deux enfants à charge et que vous ne disposez pas de ressources suffisantes pour les élever, vous pourrez demander à bénéficier de cette allocation auprès de la direction départementale des affaires sanitaires et sociales.
-
-Son montant tiendra compte de votre situation matérielle.
-
-Les allégements fiscaux :
-
-Chaque enfant comptant pour une demi-part (sauf le troisième, comptant pour une part entière), vous bénéficierez d'une diminution de l'impôt sur le revenu.
-
-Si votre conjoint ou vous-même travaillez à plein temps vous pourrez déduire de votre déclaration de revenus les frais de garde de votre enfant âgé de moins de cinq ans, dans la limite de 4000 F par an.
-
-Si vous devez élever seule votre enfant âgé de moins de cinq ans, vous bénéficierez du même avantage.
+Si le remplacement est inférieur à vingt-huit jours, l'indemnité ne subit aucun abattement et demeure égale au coût réel, dans la limite du montant maximal.

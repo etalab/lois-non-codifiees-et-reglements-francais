@@ -16,7 +16,7 @@ Cette allocation devra être demandée à l'organisme qui vous versera les alloc
 
 Elle sera maintenue jusqu'à ce que votre enfant atteigne l'âge de trois ans.
 
-L'allocation d'orphelin :
+L'allocation de soutien familial :
 
 Elle est versée au profit des enfants élevés par des mères célibataires isolées et des enfants dont un parent est décédé, ou se trouve hors d'état de payer une pension alimentaire, ou refuse de verser cette pension alimentaire.
 
