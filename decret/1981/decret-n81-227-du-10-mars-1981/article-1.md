@@ -1,3 +1,0 @@
-# Article 1
-
-Les cahiers des charges visés au III de l'article 14 de la loi susvisés du 4 juillet 1980 sont des documents qui définissent les techniques de production et procédés de contrôle qui doivent être mis en oeuvre pour faire en sorte qu'un produit agricole transformé ou non transformé soit obtenu sans l'utilisation de produits chimiques de synthèse. Ils sont présentés à l'homologation du ministre de l'agriculture par les organismes mentionnés à l'article 3 ci-dessous en vue d'apporter les garanties nécessaires aux consommateurs, lors de l'exposition en vue de la vente, la mise en vente, la vente, la publicité, la présentation ou l'étiquetage desdits produits.
