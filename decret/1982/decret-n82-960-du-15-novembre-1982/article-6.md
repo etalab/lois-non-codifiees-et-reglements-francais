@@ -1,0 +1,3 @@
+# Article 6
+
+L'établissement public de diffusion contrôle le respect des dispositions techniques des cahiers des charges de chaque station d'émission. Lorsque l'émetteur est d'une puissance nominale supérieure à 500 watts ou lorsque le titulaire le demande, la diffusion est faite par l'établissement public de diffusion, moyennant une rémunération fixée d'un commun accord entre l'établissement précité et le titulaire de l'autorisation. En cas de désaccord, la rémunération est arrêtée par le Premier ministre ou le ministre délégué par lui à cet effet, après avis de la commission instituée par l'article 87 de la loi du 29 juillet 1982 susvisée.
