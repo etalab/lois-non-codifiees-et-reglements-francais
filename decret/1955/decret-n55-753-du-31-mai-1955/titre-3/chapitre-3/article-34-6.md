@@ -13,3 +13,5 @@ Cette majoration est due :
 Le service de la majoration est assuré par la caisse débitrice de la pension de réversion.
 
 Lorsque l'avantage personnel de vieillesse ou d'invalidité dont bénéficiait le conjoint survivant est supprimé, la majoration l'est également à compter de la date d'effet de cette suppression.
+
+A compter du 1er janvier 2002, le montant annuel de la majoration, tel que fixé au deuxième alinéa du présent article, est égal à 277,18 points de retraite proportionnelle.
