@@ -251,7 +251,6 @@
 - [Arrêté du 13 avril 1988 (INDU8700885A)](arrete-du-13-avril-1988-indu8700885a)
 - [Arrêté du 13 avril 1988 (MAFX8810351A)](arrete-du-13-avril-1988-mafx8810351a)
 - [Arrêté du 13 janvier 1988 (AGRU8800076A)](arrete-du-13-janvier-1988-agru8800076a)
-- [Arrêté du 13 janvier 1988 (ASES8701855A)](arrete-du-13-janvier-1988-ases8701855a)
 - [Arrêté du 13 janvier 1988 (DEFC8801022A)](arrete-du-13-janvier-1988-defc8801022a)
 - [Arrêté du 13 janvier 1988 (MENF8700767A)](arrete-du-13-janvier-1988-menf8700767a)
 - [Arrêté du 13 juin 1988 (TEFE8803516A)](arrete-du-13-juin-1988-tefe8803516a)
