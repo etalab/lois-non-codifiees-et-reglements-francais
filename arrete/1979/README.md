@@ -34,6 +34,7 @@
 - [Arrêté du 14 février 1979](arrete-du-14-fevrier-1979)
 - [Arrêté du 14 juin 1979](arrete-du-14-juin-1979)
 - [Arrêté du 14 mars 1979](arrete-du-14-mars-1979)
+- [Arrêté du 16 août 1979](arrete-du-16-aout-1979)
 - [Arrêté du 16 janvier 1979](arrete-du-16-janvier-1979)
 - [Arrêté du 16 juin 1975](arrete-du-16-juin-1975)
 - [Arrêté du 16 mars 1979](arrete-du-16-mars-1979)
