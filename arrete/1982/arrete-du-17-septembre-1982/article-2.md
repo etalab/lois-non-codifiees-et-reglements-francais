@@ -19,10 +19,10 @@ L'échelonnement indiciaire afférent aux emplois énumérés à l'article premi
 <td> :-----------------------:-------:-------:-------:-------:--------:</td>
 </tr>
 <tr>
-<td> : Sapeur de 2ème classe :  220  :  226  :  232  :  238  :  247   :</td>
+<td> : Sapeur de 2ème classe :  220  :  228  :  235  :  241  :  249   :</td>
 </tr>
 <tr>
-<td> : Groupe III            : (194) : (196) : (202) : (208) : (212)  :</td>
+<td> : Groupe III            : (194) : (198) : (205) : (209) : (214)  :</td>
 </tr>
 <tr>
 <td> :                       :       :       :       :       :        :</td>
@@ -97,10 +97,10 @@ L'échelonnement indiciaire afférent aux emplois énumérés à l'article premi
 <td> :-----------------------:-------:-------:-------:-------:--------:</td>
 </tr>
 <tr>
-<td> : Sapeur de 2ème classe :  256  :  262  :  267  :  274  :  282   :</td>
+<td> : Sapeur de 2ème classe :  258  :  264  :  267  :  274  :  282   :</td>
 </tr>
 <tr>
-<td> : Groupe III            : (221) : (224) : (227) : (233) : (237)  :</td>
+<td> : Groupe III            : (222) : (224) : (227) : (233) : (237)  :</td>
 </tr>
 <tr>
 <td> :                       :       :       :       :       :        :</td>
