@@ -1,0 +1,3 @@
+# Article 2
+
+Toute exportation à destination des pays hors de la Communauté économique européenne des vins ayant droit à l'appellation contrôlée "champagne" et des vins originaires de la Champagne viticole est subordonnée, indépendamment des formalités habituelles, à la présentation d'une copie du certificat d'origine qui doit obligatoirement être visée par le service des douanes du bureau de dédouanement. La présentation de ce document est effectuée avant l'opération d'exportation en procédure normale ou au moment de la régularisation de l'opération en cas d'utilisation d'une procédure douanière simplifiée, après exportation effective.
