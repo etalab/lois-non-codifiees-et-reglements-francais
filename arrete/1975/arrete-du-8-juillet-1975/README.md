@@ -1,4 +1,4 @@
-# Arrêté du 8 juillet 1975 fixant la liste des oiseaux (rapaces et nocturnes) dont le désairage ou la capture sont susceptibles d'être autorisés
+# Arrêté du 8 juillet 1975 RELATIF AUX CONDITIONS D'ORGANISATION ET DE FONCTIONNEMENT DES COMMISSIONS DE LA FORMATION PROFESSIONNELLE DES ADULTES DES DEPARTEMENTS D'OUTRE-MER.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -46,3 +46,4 @@
 - [Arrêté du 30 juillet 1975](arrete-du-30-juillet-1975)
 - [Arrêté du 30 juin 1975](arrete-du-30-juin-1975)
 - [Arrêté du 30 novembre 1974](arrete-du-30-novembre-1974)
+- [Arrêté du 31 juillet 1975](arrete-du-31-juillet-1975)

@@ -1,21 +1,5 @@
 # Article 2
 
-Les mêmes autorisations sont délivrées par les Préfets après consultation du conseil national de la chasse et de la faune sauvage pour les espèces ci-après :
+Lorsque le comité départemental de la formation professionnelle, de la promotion sociale et de l'emploi aura décidé la constitution de sous-commissions départementales de la formation professionnelle des adultes, des arrêtés préfectoraux, pris après avis du directeur départemental du travail et de la main-d'oeuvre,
 
-Autour ;
-
-Epervier ;
-
-Faucon pèlerin ;
-
-Faucon hobereau ;
-
-Faucon émerillon ;
-
-Busard des roseaux ;
-
-Busard Saint-Martin ;
-
-Busard cendré ;
-
-Bondrée apivore.
+fixeront la composition de ces sous-commissions dans les conditions prévues aux articles 3 et 4 ci-après.

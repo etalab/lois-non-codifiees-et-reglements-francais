@@ -1,27 +1,7 @@
 # Article 3
 
-Aucune autorisation n'est délivrée par les préfets pour les espèces suivantes [*interdiction de désairage ou de capture*] :
+Les sous-commissions départementales de la formation professionnelle des adultes comprennent :
 
-Gypaète barbu ;
+1. Un nombre égal de représentants des travailleurs proposés par les organisations syndicales les plus représentatives et de représentants des employeurs proposés par les organisations patronales ;
 
-Vautour fauve ;
-
-Vautour percnoptère ;
-
-Aigle royal ;
-
-Aigle de Bonelli ;
-
-Aigle botté ;
-
-Balbuzard pêcheur ;
-
-Pygargue à queue blanche ;
-
-Faucon crécerellette ;
-
-Circaète Jean le Blanc ;
-
-Milan royal ;
-
-Tous les strigiformes.
+2. Un ou plusieurs représentants, désignés ès qualités, des administrations ou des organismes publics ayant la responsabilité d'actions de formation professionnelle au niveau départemental ainsi qu'un représentant des services de l'emploi.
