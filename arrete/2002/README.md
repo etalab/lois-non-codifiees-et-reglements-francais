@@ -128,6 +128,7 @@
 - [Arrêté du 6 février 2002 (EQUT0200221A)](arrete-du-6-fevrier-2002-equt0200221a)
 - [Arrêté du 6 février 2002 (MESS0220555A)](arrete-du-6-fevrier-2002-mess0220555a)
 - [Arrêté du 6 février 2002 (PRMX0205308A)](arrete-du-6-fevrier-2002-prmx0205308a)
+- [Arrêté du 6 juin 2002 (BUDF0200013A)](arrete-du-6-juin-2002-budf0200013a)
 - [Arrêté du 6 mars 2002 (AGRG0200488A)](arrete-du-6-mars-2002-agrg0200488a)
 - [Arrêté du 6 mars 2002 (AGRS0200376A)](arrete-du-6-mars-2002-agrs0200376a)
 - [Arrêté du 6 mars 2002 (MESH0220905A)](arrete-du-6-mars-2002-mesh0220905a)
