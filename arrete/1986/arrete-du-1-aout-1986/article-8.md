@@ -1,11 +1,11 @@
 # Article 8
 
-Sont interdits :
+Le président convoque la commission paritaire soit de sa propre initiative, soit à la demande écrite de la majorité des membres titulaires. Il fixe l'ordre du jour de la réunion.
 
-- la chasse à tir de la perdrix ou du faisan au poste, soit à l'agrainée soit à proximité d'abreuvoirs ;
+L'avis de la commission est émis à la majorité des membres présents.
 
-- la chasse de la bécasse à la passée ou à la croule ;
+Lorsqu'elle siège en conseil de discipline et en comité d'avancement, la commission émet un avis à la majorité des membres présents. En cas de partage égal des voix, la voix du président est prépondérante.
 
-- le déterrage de la marmotte ;
+Un procès-verbal de chacune des réunions est établi. Le secrétariat de la commission est assuré par le Conseil supérieur de la pêche.
 
-- l'emploi des chiens lévriers pur sang ou croisés.
+Le procès-verbal de la commission des litiges est adressé au ministre chargé de la pêche en eau douce.

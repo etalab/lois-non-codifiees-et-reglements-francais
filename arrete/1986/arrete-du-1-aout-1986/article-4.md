@@ -1,11 +1,13 @@
 # Article 4
 
-Sont interdits pour la chasse et la destruction des animaux nuisibles :
+Des congés exceptionnels avec traitement sont accordés dans les circonstances suivantes :
 
-- l'emploi dans les armes rayées d'autres munitions que les cartouches à balle expansive dont la vente est libre ;
+- mariage du garde-pêche : cinq jours ouvrables ;
 
-- l'emploi de toute chevrotine ou de tout plomb de chasse d'un diamètre supérieur à 4 mm.
+- mariage d'un enfant du garde-pêche : deux jours ouvrables ;
 
-Les animaux des espèces suivantes : cerf, daim, mouflon, chamois ou isard et sanglier ne peuvent être tirés qu'à balle.
+- naissance ou adoption d'un enfant : trois jours ouvrables consécutifs ou non mais inclus dans la période de quinze jours entourant la naissance ou l'adoption ;
 
-Toutefois, dans les départements présentant des formations de garrigues ou maquis, le ministre chargé de la chasse peut autoriser par un arrêté annuel, sur proposition du commissaire de la République, après avis du président de la fédération départementale des chasseurs, les conditions dans lesquelles l'emploi de chevrotines est autorisé pour le tir du sanglier en battues collectives.
+- décès ou maladie très grave du conjoint, d'un ascendant ou d'un descendant : trois jours ouvrables.
+
+Dès qu'un garde-pêche est avisé de la période militaire qu'il doit effectuer, il doit en informer le directeur général sous couvert de son supérieur hiérarchique.
