@@ -6,4 +6,4 @@ Cette indemnité ne peut se cumuler ni avec les prestations prévues aux article
 
 Il ne peut être attribué plus d'une indemnité particulière par ménage, quel que soit le régime matrimonial des époux.
 
-Les dispositions du présent article sont applicables jusqu'au 31 décembre 1971.
+Les dispositions du présent article sont applicables jusqu'au 31 décembre 1982.
