@@ -9,7 +9,6 @@
 - [Arrêté du 5 décembre 1968](arrete-du-5-decembre-1968)
 - [Arrêté du 8 janvier 1968](arrete-du-8-janvier-1968)
 - [Arrêté du 8 juillet 1968](arrete-du-8-juillet-1968)
-- [Arrêté du 8 mai 1968](arrete-du-8-mai-1968)
 - [Arrêté du 9 avril 1968](arrete-du-9-avril-1968)
 - [Arrêté du 9 février 1968](arrete-du-9-fevrier-1968)
 - [Arrêté du 9 mai 1968](arrete-du-9-mai-1968)
