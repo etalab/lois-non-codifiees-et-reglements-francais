@@ -1,9 +1,5 @@
 # Article 3
 
-Les organismes et services visés à l'article précédent établissent, chaque année, en vue de la tenue du compte de vieillesse des intéressées, une déclaration nominative faisant ressortir, pour chacune des bénéficiaires de l'article L. 242-2 (2é et 3é alinéa), le montant global des assiettes mensuelles ayant servi de base à la détermination des cotisations liquidées au titre de l'année civile précédente.
+Remplissant les conditions nécessaires pour être classées salubres les zones dans lesquelles le nombre de coliformes fécaux par 100 millilitres de chair de coquillages ainsi déterminé est inférieur ou égal à 300.
 
-Le total des créances de cotisations ainsi liquidées fait l'objet d'une inscription sur un bordereau récapitulatif annexé à la déclaration nominative annuelle.
-
-Les organismes liquidateurs des prestations familiales servies par le régime agricole établissent des documents distincts suivant qu'il s'agit d'allocations servies au titre du régime des salariés ou au titre du régime des exploitants agricoles.
-
-Les documents visés au présent article doivent être signés par les responsables de la gestion administrative et comptable de chaque organisme concerné.
+Les normes sont considérées comme respectées si le nombre des résultats en dépassement n'excède pas cinq en douze mois consécutifs, les teneurs en coliformes fécaux pour 100 millilitres de chair restant dans ce cas inférieures à 1.000 pour trois des prélèvements et à 3.000 pour les deux autres.
