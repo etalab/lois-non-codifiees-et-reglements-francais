@@ -1,6 +1,6 @@
 # Article 4
 
-Le directeur général des collectivités locales anime et coordonne les services chargés [*attributions*] :
+Le directeur général des collectivités locales dirige les services chargés :
 
 1. Des finances et de l'action économique des collectivités locales.
 

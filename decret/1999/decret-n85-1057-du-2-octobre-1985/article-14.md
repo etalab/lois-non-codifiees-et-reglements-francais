@@ -1,3 +1,5 @@
 # Article 14
 
-Le centre d'études et de prévisions analyse les évolutions qui peuvent affecter l'exercice des compétences définies à l'article 1er du décret du 11 juin 1997 précité. Il contribue à la préparation des décisions du ministre et effectue des études à cet effet.
+Le centre d'études et de prospective est chargé des travaux et études concernant le rôle du ministère de l'intérieur et son adaptation aux évolutions nationales et internationales.
+
+Il assure également les relations avec les institutions d'enseignement supérieur et de recherche.

@@ -6,7 +6,7 @@ a) Président : une personnalité désignée par le ministre de l'intérieur en 
 
 b) Membres de droit :
 
-- le directeur général de l'administration au ministère de l'intérieur ;
+- le secrétaire général au ministère de l'intérieur ;
 
 - le directeur général de la police nationale ;
 

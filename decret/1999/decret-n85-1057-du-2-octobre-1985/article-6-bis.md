@@ -1,6 +1,6 @@
 # Article 6 bis
 
-Le directeur de la défense et de la sécurité civiles, haut fonctionnaire de défense, anime et coordonne les services chargés :
+Le directeur de la défense et de la sécurité civiles, haut fonctionnaire de défense, dirige les services chargés :
 
 1° De la préparation, de la coordination et de la mise en oeuvre des mesures de défense civile, de la politique de protection des populations, de la prévention des risques civils de toute nature, de la planification des mesures de défense civile et de sécurité civile ;
 

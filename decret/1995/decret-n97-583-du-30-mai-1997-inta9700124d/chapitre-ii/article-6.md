@@ -10,7 +10,7 @@ Les candidats ne possédant pas un des diplômes requis mais pouvant justifier d
 
 Cette commission est composée :
 
-- du directeur général de l'administration et de la fonction publique ou de son représentant, président ;
+- du secrétaire général et de la fonction publique ou de son représentant, président ;
 
 - du directeur chargé des enseignements supérieurs au ministère de l'enseignement supérieur ou de son représentant ;
 

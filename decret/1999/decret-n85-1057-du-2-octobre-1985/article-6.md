@@ -1,6 +1,6 @@
 # Article 6
 
-Le directeur des libertés publiques et des affaires juridiques anime et coordonne les services chargés [*attributions*] :
+Le directeur des libertés publiques et des affaires juridiques dirige les services chargés :
 
 1. De la réglementation du statut des étrangers et de la circulation transfrontière ;
 

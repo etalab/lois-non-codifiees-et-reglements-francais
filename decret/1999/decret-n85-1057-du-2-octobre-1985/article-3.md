@@ -1,13 +1,27 @@
 # Article 3
 
-Le directeur général de l'administration anime et coordonne les activités [*attributions*] :
+Le secrétaire général assiste le ministre de l'intérieur pour l'administration du ministère.
 
-1. De la direction de l'administration territoriale et des affaires politiques.
+A cette fin, il coordonne l'action de l'ensemble des services et assure leur évaluation. Il propose au ministre la répartition entre eux des moyens. Il prépare et exécute le budget du ministère.
 
-2. De la direction des personnels, de la formation et de l'action sociale chargée :
+Il conduit les réflexions stratégiques du ministère, propose ses évolutions et met en oeuvre la politique de modernisation.
 
-- de la gestion et de la formation des personnels, à l'exception des personnels administratifs et actifs de la police nationale ;
+Il élabore et propose les principes généraux de gestion des ressources humaines.
 
-- de l'action sociale en faveur de l'ensemble des personnels relevant du ministère de l'intérieur.
+Il anime l'action territoriale du ministère, à l'exception de celle relevant de la direction générale de la police nationale.
 
-Le directeur général de l'administration assure en outre la préparation et la mise en oeuvre des textes relatifs à l'organisation des directions et services énumérés à l'article 2 du décret n° 97-708 du 11 juin 1997 relatif aux attributions du ministère de l'intérieur. Il coordonne également la modernisation de ces directions et services.
+Il est chargé des affaires politiques et des cultes.
+
+Il dirige les activités des directions et services suivants :
+
+a) La direction de la modernisation et de l'action territoriale ;
+
+b) La direction des ressources humaines ;
+
+c) La direction de l'évaluation de la performance, et des affaires financières et immobilières ;
+
+d) La direction des systèmes d'information et de communication ;
+
+e) Le centre d'études et de prospective ;
+
+f) Le service de la communication.

@@ -12,11 +12,11 @@ Les candidats ne possédant pas un des diplômes requis mais pouvant justifier d
 
 Cette commission est composée :
 
-a) Du directeur général de l'administration et de la fonction publique ou de son représentant, président ;
+a) Du secrétaire général et de la fonction publique ou de son représentant, président ;
 
 b) Du directeur des enseignements supérieurs du ministère chargé de l'enseignement supérieur ou de son représentant ;
 
-c) Du directeur général de l'administration du ministère de l'intérieur ou de son représentant.
+c) Du secrétaire général du ministère de l'intérieur ou de son représentant.
 
 2° Un second concours est ouvert aux fonctionnaires civils et agents non titulaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent, ainsi qu'aux militaires, magistrats et agents des organisations internationales intergouvernementales. Les intéressés doivent justifier de cinq ans au moins de services effectifs au 1er janvier de l'année du concours.
 
