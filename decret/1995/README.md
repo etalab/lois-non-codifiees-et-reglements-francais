@@ -1040,7 +1040,6 @@
 - [Décret n°95-1070 du 28 septembre 1995 (MENU9501450D)](decret-n95-1070-du-28-septembre-1995-menu9501450d)
 - [Décret n°95-1071 du 28 septembre 1995 (MENU9501451D)](decret-n95-1071-du-28-septembre-1995-menu9501451d)
 - [Décret n°95-1072 du 28 septembre 1995 (EQUZ9501309D)](decret-n95-1072-du-28-septembre-1995-equz9501309d)
-- [Décret n°95-1073 du 28 septembre 1995 (AGRS9501229D)](decret-n95-1073-du-28-septembre-1995-agrs9501229d)
 - [Décret n°95-1077 du 28 septembre 1995 (SANH9502264D)](decret-n95-1077-du-28-septembre-1995-sanh9502264d)
 - [Décret n°95-1244 du 28 novembre 1995 (MENX9501217D)](decret-n95-1244-du-28-novembre-1995-menx9501217d)
 - [Décret n°95-1246 du 28 novembre 1995 (TASX9501219D)](decret-n95-1246-du-28-novembre-1995-tasx9501219d)
