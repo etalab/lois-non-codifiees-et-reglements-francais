@@ -10,7 +10,7 @@ Tout fonctionnaire est placé dans une des positions [*nombre*] suivantes :
 
 4° Disponibilité ;
 
-5° Accomplissement du service national ;
+5° Accomplissement du service national et des activités dans la    réserve opérationnelle ;
 
 6° Congé parental.
 
