@@ -86,7 +86,7 @@ Montant pour :
 
 Ces montants sont portés respectivement à :
 
-239,60 Euros pour une période à compter du 1er janvier 2004 ;
+259,60 Euros pour une période à compter du 1er janvier 2004 ;
 
 273,90 Euros pour une période à compter du 1er juillet 2004 ;
 

@@ -56,3 +56,4 @@
 - [Décret n°2001-1368 du 28 décembre 2001 (MJSK0170197D)](decret-n2001-1368-du-28-decembre-2001-mjsk0170197d)
 - [Décret n°2002-295 du 28 février 2002 (MENX0200016D)](decret-n2002-295-du-28-fevrier-2002-menx0200016d)
 - [Décret n°2002-1611 du 30 décembre 2002 (BUDR0205006D)](decret-n2002-1611-du-30-decembre-2002-budr0205006d)
+- [Décret n°2002-121 du 31 janvier 2002 (PRMG0170814D)](decret-n2002-121-du-31-janvier-2002-prmg0170814d)

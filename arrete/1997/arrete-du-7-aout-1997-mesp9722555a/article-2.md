@@ -2,86 +2,42 @@
 
 Dispositions particulières liées au traitement du bois.
 
-1° Champ d'application.
+1° La mise sur le marché et l'importation, à destination du public, des substances utilisées pour le traitement du bois mentionnées sur la liste figurant au 6° ci-dessous sont interdites. Sont également interdites la mise sur le marché et l'importation, à destination du public, des préparations utilisées pour le traitement du bois, contenant une ou plusieurs de ces substances.
 
-Sont visées par cet article les substances, ainsi que les préparations contenant au moins l'une d'entre elles, figurant sur la liste ci-dessous :
+2° La mise sur le marché et l'importation, à destination du public, de bois ou d'objets en bois traités avec l'une des substances mentionnées sur la liste figurant au 6° ci-dessous sont interdites.
 
-Substances, cas, numéro.
+3° Les substances mentionnées sur la liste figurant au 6° ci-dessous ainsi que les préparations contenant une ou plusieurs de ces substances peuvent être utilisées pour le traitement du bois, uniquement dans le cadre d'un usage industriel dans les installations soumises à autorisation au titre du code de l'environnement susvisé ou par des utilisateurs professionnels pour le retraitement exclusif in situ, lorsque :
 
-a) Créosote Einecs n° 232-287-5, 8001-58-9.
+a) Leur concentration en benzo-a-pyrène est inférieure à 0,005 % en poids ;
 
-b) Huile de créosote Einecs n° 263-047-S, 61789-28-4.
+b) Leur concentration en phénols extractibles par l'eau est inférieure à 3 % en poids.
 
-c) Distillats de goudron de houille, huiles de naphtalène Einecs n° 283-484-8, 84650-04-4.
+Ces substances et préparations utilisées pour le traitement du bois dans le cadre d'un usage industriel ou par des utilisateurs professionnels sont mises sur le marché dans des emballages d'une capacité supérieure ou égale à 20 litres.
 
-d) Huile de créosote, fraction acénaphtène Einecs n° 292-605-3, 90640-84-9.
+Sans préjudice des autres dispositions relatives à l'étiquetage des substances et préparations dangereuses, leur emballage comporte la mention lisible et indélébile : "Réservé aux installations soumises à autorisation au titre du code de l'environnement ou aux utilisateurs professionnels".
 
-e) Distillats supérieurs de goudron de houille Einecs n° 266-026-1, 65996-91-0.
+4° L'usage des bois traités dans les conditions prévues au 3° ci-dessus est exclusivement professionnel et industriel, tel que, par exemple, pour les voies de chemin de fer, les lignes électriques, les clôtures, l'agriculture (par exemple, échalas d'arbres fruitiers), les installations portuaires ou les voies fluviales.
 
-f) Huile anthracénique Einecs n° 292-602-7, 90640-80-5.
+Cependant, l'utilisation des bois ainsi traités est interdite pour les usages suivants :
 
-g) Phénols du goudron, charbon, pétrole brut Einecs n° 266-019-3, 65996-85-2.
+a) A l'intérieur des bâtiments, quelle que soit leur destination ;
 
-h) Créosote de bois Einecs n° 232-419-1, 8021-39-4.
+b) Dans les jouets ;
 
-j) Résidus d'extraction alcalins (charbon), goudron de houille à basse température Einecs n° 310-191-5, 122384-78-5.
+c) Pour les équipements d'aires collectives de jeu ;
 
-2° Mise sur le marché et importation, à destination du public.
+d) Dans les parcs, jardins ou autres lieux récréatifs accueillant du public, situés en plein air, en cas de risque de contact fréquent avec la peau ;
 
-a) Des produits :
+e) Dans la fabrication de meubles de jardin, tels que les tables ;
 
-L'importation et la mise sur le marché et, à destination du public, des produits de traitement du bois contenant les substances figurant sur la liste ci-dessus est interdite lorsque :
+f) Pour la confection ou le retraitement de conteneurs destinés à une utilisation agricole ou aux produits agricoles ;
 
-- la concentration de benzo-a-pyrène du produit est supérieure ou égale à 0,005 % en poids,
+g) Pour la confection ou le retraitement d'emballages pouvant entrer en contact avec des produits bruts, intermédiaires et/ou finis destinés à l'alimentation humaine et/ou animale, ainsi que pour la confection de matériels susceptibles de contaminer lesdits produits.
 
-ou
+5° Par dérogation aux dispositions du 2° ci-dessus, les bois traités avec une au moins des substances mentionnées sur la liste figurant au 6° ci-dessous, avant la publication de ce texte au Journal officiel de la République française, peuvent être mis sur le marché de l'occasion.
 
-- la concentration de phénols extractibles par l'eau est supérieure ou égale à 3 % en poids dans le produit.
+Cependant, l'utilisation des bois traités est interdite pour les usages mentionnés au deuxième alinéa du 4° ci-dessus.
 
-b) Des bois traités :
+6° Liste des substances utilisées pour le traitement du bois :
 
-L'importation et la mise sur le marché, à destination du public, de bois ou d'objets en bois est interdite lorsque le produit de traitement utilisé comprend une des substances de la liste ci-dessus à une concentration supérieure aux valeurs données ci-dessus.
-
-3° Dérogation pour usage industriel uniquement.
-
-a) Champ d'application :
-
-Les produits de traitement du bois contenant une au moins des substances figurant sur la liste ci-dessus peuvent être utilisés, uniquement dans le cadre d'un usage industriel dans les installations soumises à autorisation au titre de la loi du 19 juillet 1976 susvisée, lorsque :
-
-- la concentration de benzo-a-pyrène du produit est inférieure ou égale à 0,05 % en poids,
-
-et
-
-- la concentration de phénols extractibles par l'eau est inférieure ou égale à 3 % en poids dans le produit.
-
-Ces produits à usage industriel sont mis sur le marché dans des emballages d'une capacité supérieure ou égale à 200 litres.
-
-Sans préjudice des autres dispositions relatives à l'étiquetage des substances et préparations dangereuses, leur emballage comporte la mention lisible et indélébile : "Réservé aux installations soumises à autorisation au titre de la loi du 19 juillet 1976".
-
-b) Restriction d'utilisation et de mise sur le marché des bois ainsi traités :
-
-L'usage de ces bois est exclusivement professionnel et industriel, tel que, par exemple, pour les voies de chemins de fer, les lignes électriques, les clôtures, les installations portuaires ou les voies fluviales.
-
-Cependant l'utilisation des bois ainsi traités est interdite :
-
-- à l'intérieur des bâtiments, quelle que soit leur destination (habitation, travail, loisirs) ;
-
-- pour la confection ou le retraitement de conteneurs destinés à une utilisation agricole ou aux produits agricoles ;
-
-- pour la confection ou le retraitement d'emballages pouvant entrer en contact avec des produits bruts, intermédiaires et/ou finis destinés à l'alimentation humaine et/ou animale ainsi que pour la confection de matériels susceptibles de contaminer les-dits produits ;
-
-- pour les équipements d'aires collectives de jeux ;
-
-- pour tout usage entraînant un risque de contact avec la peau.
-
-4° Restriction de mise sur le marché concernant les bois anciennement traités.
-
-La mise sur le marché de l'occasion et l'utilisation des bois traités par les produits de traitement contenant au moins une des substances figurant sur la liste ci-dessus est interdite :
-
-- à l'intérieur des bâtiments, quelle que soit leur destination (habitation, travail, loisirs, feux d'agrément ou de chauffage) ;
-
-- pour la confection ou le retraitement de conteneurs destinés à une utilisation agricole ou aux produits agricoles ;
-
-- pour la confection ou le retraitement d'emballages pouvant entrer en contact avec des produits bruts, intermédiaires et/ou finis destinés à l'alimentation humaine et/ou animale ainsi que pour la confection de matériels susceptibles de contaminer les-dits produits (fabrication de charbon de bois par exemple) ;
-
-- pour les équipements d'aires collectives de jeux.
+(tableau non repris cf. JORF 1er juillet 2003 page 11052).
