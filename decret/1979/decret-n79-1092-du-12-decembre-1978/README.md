@@ -1,5 +1,6 @@
 # Décret n°79-1092 du 12 décembre 1978 relatif aux élèves des écoles d'enseignement technique ou préparatoires des armées.
 
+- [Article 1](article-1.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
