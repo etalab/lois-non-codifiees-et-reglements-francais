@@ -7,6 +7,7 @@
 - [Chapitre V : Des magistrats hors hiérarchie.](chapitre-v)
 - [Chapitre V bis : Des conseillers et des avocats généraux à la Cour de cassation en service extraordinaire.](chapitre-v-bis)
 - [Chapitre V ter : Du détachement judiciaire.](chapitre-v-ter)
+- [Chapitre V quater : Des magistrats exerçant à titre temporaire.](chapitre-v-quater)
 - [Chapitre VI : De la rémunération.](chapitre-vi)
 - [Chapitre VII : Discipline](chapitre-vii)
 - [Chapitre VIII : Positions.](chapitre-viii)
