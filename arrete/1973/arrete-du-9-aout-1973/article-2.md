@@ -4,7 +4,7 @@ Sont autorisés, à titre général, les règlements à destination de l'étrang
 
 1° Paiements résultant de la livraison de marchandises ;
 
-2° Remboursements de trop-perçus à l'exportation ;
+2° Remboursements de trop-perçus ;
 
 3° Frais de services portuaires, d'entrepôt, de magasinage, de dédouanement, frais de douane et tous autres frais accessoires du trafic marchandises ;
 

@@ -1,4 +1,4 @@
-# Loi n° 79-587 du 11 juillet 1979 relative à la motivation des actes administratifs et à l'amélioration des relations entre l'administration et le public.
+# Titre Ier : De l'agrément des organismes certificateurs.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,4 +7,4 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
-- [Article 11](article-11.md)
+- [Article 8](article-8.md)

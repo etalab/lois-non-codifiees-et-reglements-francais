@@ -26,6 +26,7 @@
 - [Décret n°80-348 du 7 mai 1980](decret-n80-348-du-7-mai-1980)
 - [Décret n°80-14 du 9 janvier 1980](decret-n80-14-du-9-janvier-1980)
 - [Décret n°80-426 du 9 juin 1980](decret-n80-426-du-9-juin-1980)
+- [Décret n°80-524 du 9 juillet 1980](decret-n80-524-du-9-juillet-1980)
 - [Décret du 9 mai 1980](decret-du-9-mai-1980)
 - [Décret n°80-196 du 10 mars 1980](decret-n80-196-du-10-mars-1980)
 - [Décret n°80-268 du 10 avril 1980](decret-n80-268-du-10-avril-1980)

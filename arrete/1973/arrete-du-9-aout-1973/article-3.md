@@ -6,8 +6,6 @@ Sont autorisés à titre général, dans la limite d'un montant maximum fixé pa
 
 2° Acquisitions d'immeubles ;
 
-3° Secours ;
+3° Allocation de séjour d'étude ;
 
-4° Allocation de séjour d'étude ;
-
-5° Allocation d'installation à l'étranger.
+4° Allocation d'installation à l'étranger.
