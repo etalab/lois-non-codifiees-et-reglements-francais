@@ -4,6 +4,7 @@
 - [Décret n°75-119 du 3 mars 1975](decret-n75-119-du-3-mars-1975)
 - [Décret n°75-142 du 3 mars 1975](decret-n75-142-du-3-mars-1975)
 - [Décret n°76-117 du 3 février 1976](decret-n76-117-du-3-fevrier-1976)
+- [Décret n°75-228 du 4 avril 1975](decret-n75-228-du-4-avril-1975)
 - [Décret n°78-529 du 4 avril 1978](decret-n78-529-du-4-avril-1978)
 - [Décret n°75-847 du 5 septembre 1975](decret-n75-847-du-5-septembre-1975)
 - [Décret n°75-8 du 6 janvier 1975](decret-n75-8-du-6-janvier-1975)
