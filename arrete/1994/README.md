@@ -155,6 +155,7 @@
 - [Arrêté du 6 juin 1994 (SPSH9402044A)](arrete-du-6-juin-1994-spsh9402044a)
 - [Arrêté du 6 juin 1994 (TEFE9400579A)](arrete-du-6-juin-1994-tefe9400579a)
 - [Arrêté du 6 juin 1994 (TEFE9400580A)](arrete-du-6-juin-1994-tefe9400580a)
+- [Arrêté du 6 mars 1995 (EQUP9500250A)](arrete-du-6-mars-1995-equp9500250a)
 - [Arrêté du 6 septembre 1994 (JUSD9430031A)](arrete-du-6-septembre-1994-jusd9430031a)
 - [Arrêté du 6 septembre 1994 (LOGC9400042A)](arrete-du-6-septembre-1994-logc9400042a)
 - [Arrêté du 6 mai 1994 (BUDR9404193A)](arrete-du-6-mai-1994-budr9404193a)
