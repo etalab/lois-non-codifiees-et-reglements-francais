@@ -386,7 +386,6 @@
 - [Arrêté du 18 août 1989 (BUDL8900115A)](arrete-du-18-aout-1989-budl8900115a)
 - [Arrêté du 18 avril 1989 (BUDD8940003A)](arrete-du-18-avril-1989-budd8940003a)
 - [Arrêté du 18 avril 1989 (EQUT8900455A)](arrete-du-18-avril-1989-equt8900455a)
-- [Arrêté du 18 avril 1989 (PTTT8900346A)](arrete-du-18-avril-1989-pttt8900346a)
 - [Arrêté du 18 avril 1989 (SPSH8900711A)](arrete-du-18-avril-1989-spsh8900711a)
 - [Arrêté du 18 avril 1989 (SPSH8900713A)](arrete-du-18-avril-1989-spsh8900713a)
 - [Arrêté du 18 décembre 1989 (AGRR8902633A)](arrete-du-18-decembre-1989-agrr8902633a)
