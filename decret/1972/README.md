@@ -5,6 +5,7 @@
 - [Décret n°72-350 du 2 mai 1972](decret-n72-350-du-2-mai-1972)
 - [Décret n°72-352 du 2 mai 1972](decret-n72-352-du-2-mai-1972)
 - [Décret n°72-378 du 2 mai 1972](decret-n72-378-du-2-mai-1972)
+- [Décret n°72-641 du 3 juillet 1972](decret-n72-641-du-3-juillet-1972)
 - [Décret n°72-950 du 3 octobre 1972](decret-n72-950-du-3-octobre-1972)
 - [Décret n°72-580 du 4 juillet 1972](decret-n72-580-du-4-juillet-1972)
 - [Décret n°72-607 du 4 juillet 1972](decret-n72-607-du-4-juillet-1972)
