@@ -34,7 +34,6 @@
 - [Arrêté du 1 octobre 1990 (SPSP9002099A)](arrete-du-1-octobre-1990-spsp9002099a)
 - [Arrêté du 1 octobre 1990 (SPSP9002100A)](arrete-du-1-octobre-1990-spsp9002100a)
 - [Arrêté du 1 octobre 1990 (SPSP9002103A)](arrete-du-1-octobre-1990-spsp9002103a)
-- [Arrêté du 1 octobre 1990 (TEFT9003857A)](arrete-du-1-octobre-1990-teft9003857a)
 - [Arrêté du 2 août 1990 (AGRG9001675A)](arrete-du-2-aout-1990-agrg9001675a)
 - [Arrêté du 2 août 1990 (SPSA9001603A)](arrete-du-2-aout-1990-spsa9001603a)
 - [Arrêté du 2 avril 1990 (PTTR9000317A)](arrete-du-2-avril-1990-pttr9000317a)
