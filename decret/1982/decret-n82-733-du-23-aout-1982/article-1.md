@@ -4,6 +4,8 @@ Est autorisée, au cours de la campagne de commercialisation 1982-1983 et pendan
 
 Toutefois, sont exonérées de la taxe les céréales de qualité courante échangées contre des céréales de semence certifiées, dans la limite d'un plafond fixé par décret.
 
+A compter de la campagne 1983-1984, les éleveurs-producteurs de céréales peuvent obtenir dans les conditions prévues par l'article 15, deuxième alinéa de la loi n. 82-1152 du 30 décembre 1982, la restitution de la taxe correspondant aux quantités de céréales contenues dans les aliments qu'ils acquièrent pour la nourriture animale.
+
 Après déduction des frais de recouvrement, le produit de la taxe est réparti de la façon suivante [*organismes bénéficiaires*] :
 
 Une partie, qui ne peut être inférieure à 48 p. 100 [*pourcentage minimum, montant*], est affectée à l'Office national interprofessionnel des céréales, pour la couverture de ses frais de fonctionnement et pour le financement éventuel des actions entreprises en application de l'article 1er du décret du 30 septembre 1953, modifié par le décret du 18 octobre 1973 susvisés ;

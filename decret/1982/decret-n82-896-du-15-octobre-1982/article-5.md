@@ -22,13 +22,13 @@ En ce qui concerne le blé tendre, l'orge et le maïs, il sera perçu par la dir
 <td> :                                :                :              :</td>
 </tr>
 <tr>
-<td> :    Blé                         :      2,60      :     3,90     :</td>
+<td> :    Blé                         :      2,60      :     3,80     :</td>
 </tr>
 <tr>
-<td> :    Orge                        :      2,60      :     3,90     :</td>
+<td> :    Orge                        :      2,60      :     3,80     :</td>
 </tr>
 <tr>
-<td> :    Maïs                        :      2,60      :     3,25     :</td>
+<td> :    Maïs                       :      2,60      :     3,40     :</td>
 </tr>
 <tr>
 <td> :                                :                :              :</td>
@@ -43,13 +43,13 @@ En ce qui concerne le blé tendre, l'orge et le maïs, il sera perçu par la dir
 <td> :                                :                :              :</td>
 </tr>
 <tr>
-<td> :    Blé                         :      5,20      :     7,80     :</td>
+<td> :    Blé                         :      5,20      :     7,50     :</td>
 </tr>
 <tr>
-<td> :    Orge                        :      5,20      :     7,80     :</td>
+<td> :    Orge                        :      5,20      :     7,50     :</td>
 </tr>
 <tr>
-<td> :    Maïs                        :      5,20      :     6,50     :</td>
+<td> :    Maïs                       :      5,20      :     6,90     :</td>
 </tr>
 <tr>
 <td> :                                :                :              :</td>
