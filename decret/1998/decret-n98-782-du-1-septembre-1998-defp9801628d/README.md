@@ -4,4 +4,5 @@
 - [Chapitre II : Souscription du contrat de volontariat.](chapitre-ii)
 - [Chapitre III : Accomplissement du volontariat.](chapitre-iii)
 - [Chapitre IV : Cessation du contrat de volontariat.](chapitre-iv)
+- [Chapitre V : Dispositions particulières relatives aux volontaires du service militaire adapté.](chapitre-v)
 - [Article 14](article-14.md)

@@ -1,7 +1,3 @@
 # Article 7
 
-Les données résultant de l'exploitation exhaustive légère du recensement peuvent être cédées, moyennant la signature d'un contrat de cession avec l'I.N.S.E.E., aux collectivités territoriales et aux établissements publics poursuivant des missions de création d'équipements et de services publics.
-
-Ces données sont mises à la disposition des demandeurs sous la forme, arrêtée par l'I.N.S.E.E., de fichiers tableaux, de fichiers détail agrégés à l'îlot et de fichiers détail agrégés à un niveau géographique regroupant des îlots dont la population globale ne serait pas inférieure à 2 000 habitants ;
-
-Les données issues de l'exploitation au quart du recensement peuvent également être mises à disposition des demandeurs visés au premier alinéa sous la forme de tableaux standard agrégés à l'îlot, sous réserve de la signature d'une licence d'usage.
+Les données du recensement général de la population ne peuvent être cédées à un niveau inférieur à celui de la commune pour les communes dont la population est inférieure à 5 000 habitants et, pour les communes dont la population est supérieure à 5 000 habitants, à un niveau inférieur à ce chiffre, ce niveau géographique portant sur des zones composées d'îlots contigus ; toute dérogation à cette règle ainsi posée devra faire l'objet d'un avis préalable, à l'initiative de l'I.N.S.E.E., par la C.N.I.L.
