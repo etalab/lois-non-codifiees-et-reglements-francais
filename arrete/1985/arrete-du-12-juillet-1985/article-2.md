@@ -1,3 +1,3 @@
 # Article 2
 
-Le directeur du budget, le directeur des enseignements supérieurs et le directeur de la sécurité sociale sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+La fraction du produit des cotisations prévues à l'article 1062 du code rural qui est affectée au financement des prestations familiales servies aux salariés agricoles s'élève à 1.896.000.000 F pour l'année 1984 [*montant*].
