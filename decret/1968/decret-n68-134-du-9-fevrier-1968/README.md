@@ -1,6 +1,7 @@
 # Décret n°68-134 du 9 février 1968 pris en application du décret n° 59-275 du 7 février 1959 relatif au camping, modifié par le décret n° 68-133 du 9 février 1968
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
