@@ -37,6 +37,7 @@
 - [Décret n°72-398 du 16 mai 1972](decret-n72-398-du-16-mai-1972)
 - [Décret n°71-1149 du 17 décembre 1971](decret-n71-1149-du-17-decembre-1971)
 - [Décret n°72-289 du 17 avril 1972](decret-n72-289-du-17-avril-1972)
+- [Décret n°72-770 du 17 août 1972](decret-n72-770-du-17-aout-1972)
 - [Décret n°72-302 du 19 avril 1972](decret-n72-302-du-19-avril-1972)
 - [Décret n°72-879 du 19 septembre 1972](decret-n72-879-du-19-septembre-1972)
 - [Décret n°72-208 du 20 mars 1972](decret-n72-208-du-20-mars-1972)
