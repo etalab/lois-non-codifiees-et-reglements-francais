@@ -1,16 +1,3 @@
 # DE L'ORGANISATION DES SERVICES DE L'ETAT DANS LE DEPARTEMENT.
 
-- [Article 14](article-14.md)
-- [Article 15](article-15.md)
-- [Article 15-1](article-15-1.md)
 - [Article 15-2](article-15-2.md)
-- [Article 15-3](article-15-3.md)
-- [Article 15-4](article-15-4.md)
-- [Article 16](article-16.md)
-- [Article 17](article-17.md)
-- [Article 17-1](article-17-1.md)
-- [Article 17-3](article-17-3.md)
-- [Article 17-4](article-17-4.md)
-- [Article 17-5](article-17-5.md)
-- [Article 17-6](article-17-6.md)
-- [Article 17-7](article-17-7.md)
