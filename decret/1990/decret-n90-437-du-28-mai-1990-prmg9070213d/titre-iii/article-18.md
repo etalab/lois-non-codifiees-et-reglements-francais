@@ -2,7 +2,7 @@
 
 Le fonctionnaire a droit à l'indemnité forfaitaire prévue à l'article 25 ou à l'article 26 du présent décret et à la prise en charge des frais mentionnés au 1° de l'article 24 du présent décret, lorsque le changement de résidence est rendu nécessaire :
 
-1° Par une mutation d'office prononcée à la suite de la suppression, du transfert géographique ou de la transformation de l'emploi occupé ;
+1° Par une mutation d'office prononcée à la suite de la suppression, du transfert géographique, de la transformation de l'emploi occupé ou après y avoir accompli la durée maximale d'affectation fixée pour cet emploi ;
 
 2° Par une mutation prononcée en vue de pourvoir un poste vacant pour lequel aucune candidature n'a été présentée ou lorsque l'autorité ayant pouvoir de nomination a écarté toutes les candidatures présentées. Pour l'application de ces dispositions, le consentement des magistrats, lorsqu'il est statutairement exigé, n'est pas assimilable à une candidature.
 
@@ -12,7 +12,7 @@ Lorsque la mutation mentionnée aux 1° et 2° du présent article est prononcé
 
 a) Par une nomination dans un autre corps de même catégorie ou de catégorie supérieure au sens de l'article 29 de la loi du 11 janvier 1984 susvisée ;
 
-b) Pour les magistrats, par une nomination à un emploi classé hors hiérarchie ;
+b) Pour les magistrats, par une nomination à un emploi classé hors hiérarchie ou à un groupe de fonctions hiérarchiquement supérieur ;
 
 c) Pour l'agent de la fonction publique territoriale, par une nomination dans un corps de même catégorie ou de catégorie supérieure de la fonction publique de l'Etat, prononcée dans les conditions prévues à l'article 19 de la loi du 11 janvier 1984 susvisée.
 
@@ -30,4 +30,4 @@ b) A un emploi conduisant à pension d'une administration de l'Etat qui est norm
 
 7° Par une affectation, à l'issue d'un congé de formation, prononcée dans le cadre des dispositions du deuxième alinéa de l'article 17 du décret du 14 juin 1985 susvisé, du fonctionnaire affecté, lors de sa reprise de fonctions, dans une résidence différente de celle où il exerçait ses fonctions lors de sa mise en congé et sous réserve que ce changement d'affectation n'ait pas lieu sur sa demande ;
 
-8° Par l'accomplissement des obligations statutaires de mobilité prévues par les dispositions de l'article 39, alinéas 2 et 3, de l'ordonnance du 22 décembre 1958 susvisée, de l'article 13 (2°) du décret du 9 mai 1995 modifié portant statut particulier du corps de conception et de direction de la police nationale et de l'article 1er du décret du 16 juillet 2004 relatif à la mobilité des fonctionnaires des corps recrutés par la voie de l'Ecole nationale d'administration et des administrateurs des postes et télécommunications.
+8° Par l'accomplissement des obligations de mobilité prévues par un texte législatif ou réglementaire pour occuper un poste de même niveau ou pour accéder à un poste de niveau supérieur.
