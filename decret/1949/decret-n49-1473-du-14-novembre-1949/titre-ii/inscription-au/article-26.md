@@ -1,3 +1,0 @@
-# Article 26
-
-I. - Le ministre des transports pourra, par arrêté, relever la limite indiquée au III de l'article 25 ci-dessus au-dessous de laquelle les véhicules peuvent n'être munis que d'un certificat d'inscription ; il ne pourra pas, toutefois, dépasser le poids maximal autorisé pour les licences de classe C. Si la limite était relevée jusqu'à ce maximum, les licences de classe C seraient supprimées et l'arrêté fixerait les mesures à prendre pour mettre fin, préalablement, à l'échange de ces licences en application des règles d'équivalence indiquées au deuxième alinéa du II de l'article 25.
