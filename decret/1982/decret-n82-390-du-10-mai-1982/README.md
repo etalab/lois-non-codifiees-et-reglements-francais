@@ -1,5 +1,6 @@
 # Décret n°82-390 du 10 mai 1982 relatif aux pouvoirs des préfets de région, à l'action des services et organismes publics de l'Etat dans la région et aux décisions de l'Etat en matière d'investissement public.
 
+- [Chapitre VII : Des compétences interrégionales des préfets de région.](chapitre-vii)
 - [Chapitre VIII : Dispositions diverses.](chapitre-viii)
 - [CONFERENCE ADMINISTRATIVE REGIONALE.](conference-administrative-regionale)
 - [DE L'ORGANISATION DES SERVICES DE L'ETAT DANS LA REGION.](de-l-organisation-des-services-de-l-etat-dans-la-region)

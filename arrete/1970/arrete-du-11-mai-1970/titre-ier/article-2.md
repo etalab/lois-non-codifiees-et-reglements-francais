@@ -14,9 +14,9 @@ Pour ces ouvrages, la réglementation des appareils à pression reste applicable
 
 Les dispositions du présent arrêté ne sont cependant applicables que si les conditions suivantes sont simultanément remplies :
 
-l° Le matériau constituant les éléments tubulaires est de l'acier répondant aux conditions de l'article 5 du présent arrêté ;
+1° Le matériau constituant les éléments tubulaires est soit de l'acier, soit du polyéthylène. L'acier doit répondre aux conditions fixées par l'article 5 du présent arrêté. Le polyéthylène ne peut être utilisé que jusqu'à une pression maximale effective du gaz de 10 bar et si les conditions fixées par le présent article sont respectées ;
 
-2° La pression effective du gaz combustible susceptible d'être atteinte en cours d'exploitation est au moins égale à 4 bar ;
+2° La pression effective du gaz combustible susceptible d'être atteinte en cours d'exploitation est supérieure à 4 bar ;
 
 3° Le produit de cette pression effective, exprimée en bars, par le diamètre extérieur nominal D de la canalisation, exprimé en millimètres, est au moins égal à 1.500 ;
 
@@ -24,4 +24,6 @@ l° Le matériau constituant les éléments tubulaires est de l'acier répondant
 
 5° La température du gaz combustible dans une partie quelconque de l'ouvrage, à l'extérieur des stations de compression, répond aux conditions de l'article 30 (1°) du présent arrêté. Cette température ne dépasse pas, en tout état de cause, 100°C.
 
-Des prescriptions particulières seront édictées par le ministre chargé du gaz au cas où il serait question d'établir ou d'exploiter sous une pression au moins égale à la plus forte des valeurs 4 ou 1.500 sur D bar des ouvrages de transport de gaz pour lesquels on utiliserait d'autres matériaux que l'acier, ou dans lesquels circulerait un gaz combustible ne répondant pas aux conditions des paragraphes 4° et 5° de l'alinéa précédent.
+Les canalisations en polyéthylène, visées au 1° ci-dessus, et les canalisations en acier ne remplissant pas simultanément les conditions visées aux 2° et 3° ci-dessus sont soumises aux seules prescriptions techniques des articles suivants de l'arrêté du 13 juillet 2000 portant règlement de sécurité de la distribution de gaz combustible par canalisations : 5, 6 (sauf le deuxième tiret), 7, 8, 9, 11, 12, 13, 14.1, 15, 18, 19, 20, 22, 23 et 24. Toutefois, les articles relatifs à la conception et à la construction ne s'appliquent pas à ces canalisations de transport en service avant le 20 août 2002. Le mot : réseau défini au premier tiret de l'article 1er de l'arrêté du 13 juillet 2000 précité désigne, pour le présent alinéa, les canalisations de transport.
+
+Des prescriptions seront édictées par le ministre chargé du gaz au cas où il serait envisagé d'établir ou d'exploiter des ouvrages de transport dans lesquels circulerait un gaz combustible ne répondant pas aux conditions visées aux 4° et 5° ci-dessus.

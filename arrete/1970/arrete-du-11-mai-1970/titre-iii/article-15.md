@@ -11,3 +11,5 @@ Sont dispensés toutefois de cette épreuve :
 1° Les brides, porte-diaphragme, plaques pleines, fonds bombés, culasses, joints, ainsi que les appareils d'obturation, de régulation et de comptage de diamètre intérieur nominal inférieur ou égal à 80 mm ;
 
 2° Les appareils accessoires incorporés dans un ensemble plus vaste et qui sont soumis lors de l'épreuve de résistance de cet ensemble prévue à l'article 37 du présent arrêté, à une pression au moins égale à celle qui aurait été exigée lors de l'épreuve individuelle, les conditions de l'épreuve devant permettre l'examen du comportement de toutes les parois des appareils accessoires concernés.
+
+Les appareils accessoires conformes aux dispositions du titre II du décret n° 99-1046 du 13 décembre 1999 relatif aux équipements sous pression sont réputés satisfaire aux exigences correspondantes du présent article et de l'article 7 ci-avant.

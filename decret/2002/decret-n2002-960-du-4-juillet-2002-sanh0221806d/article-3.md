@@ -1,0 +1,7 @@
+# Article 3
+
+I. - L'avenant prévu au E du VIII de l'article 33 de la loi du 29 décembre 1999 susvisée mentionne la nature de l'opération ou de l'action subventionnée ainsi que le montant de la subvention. Il mentionne également le montant et le cas échéant le calendrier d'exécution de l'opération ou de l'action objet de la subvention. En ce qui concerne les actions mentionnées aux a et b du 3° de l'article 1er, le montant mentionné à l'avenant correspond à leur incidence financière en année pleine.
+
+II. - L'établissement s'engage dans l'avenant à tenir à la disposition de l'agence régionale de l'hospitalisation sa comptabilité ainsi que les conventions et contrats, ayant une incidence sur son compte de résultat, conclus avec des sociétés, groupements ou organismes au sein desquels l'établissement ou la personne morale ou physique qui en est gestionnaire ou la personne morale ou physique qui détient plus de la moitié du capital ou la majorité des voix dans les organes délibérants de l'établissement ou de la personne morale ou physique qui en est gestionnaire détient également plus de la majorité du capital ou la majorité des voix dans les organes délibérants.
+
+Sont également tenus à la disposition de l'agence régionale les documents et les pièces comptables justifiant du coût des services rendus par l'établissement aux praticiens et auxiliaires médicaux exerçant en son sein et des montants des remboursements y afférents.
