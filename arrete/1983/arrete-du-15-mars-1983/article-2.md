@@ -1,3 +1,3 @@
 # Article 2
 
-Le présent arrêté prend effet à la date d'entrée en vigueur du décret du 16 novembre 1982 susvisé.
+L'emploi des préparations enzymatiques citées en annexe est autorisé pour la fabrication des denrées et boissons destinées à l'alimentation de l'homme dans les conditions fixées au présent arrêté ainsi que dans son annexe.

@@ -1,13 +1,5 @@
 # Article 1
 
-L'échelonnement indiciaire applicable au corps des membres des chambres régionales des comptes est fixé ainsi qu'il suit :
+Le présent arrêté est applicable aux auxiliaires technologiques que sont les préparations enzymatiques destinées à être utilisées au cours de la fabrication des denrées alimentaires.
 
-Président de section :
-
-4e échelon, hors échelle groupe B ;
-
-3e échelon, hors échelle groupe A.
-
-Conseiller hors classe :
-
-6e échelon, hors échelle groupe A.
+Les préparations enzymatiques sont composées d'enzymes d'origine animale, végétale ou microbienne et éventuellement de protéines inertes et de constituants résiduels du matériau de base. Elles peuvent être mélangées aux agents conservateurs ou aux diluants autorisés à l'article 5 ci-dessous. Elles peuvent également être immobilisées sur les supports mentionnés à l'article précité.

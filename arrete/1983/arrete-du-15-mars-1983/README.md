@@ -1,4 +1,4 @@
-# Arrêté du 15 mars 1983 relatif à l'échelonnement indiciaire applicable au corps des membres des chambres régionales des comptes
+# Arrêté du 15 mars 1983 relatif à l'emploi des préparations enzymatiques dans la fabrication de certaines denrées et boissons destinées à l'alimentation humaine
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -12,3 +12,4 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
+- [Annexes](annexes)

@@ -1,9 +1,35 @@
 # Article 6
 
-Conformément aux dispositions de l'article 4 du décret du 28 octobre 1982, le   préfet peut accorder la médaille, si la commission a émis, sur la candidature, un avis favorable, ou la refuser, si cet avis est défavorable.
+Les préparations enzymatiques à usage alimentaire doivent répondre aux critères de pureté chimique, biologique et microbiologique fixés ci-après et ne doivent contenir aucun autre élément en quantité dangereuse du point de vue toxicologique.
 
-Si le   préfet n'accepte pas l'avis de la commission départementale, il transmet le dossier, accompagné de ses observations, au ministre des affaires sociales et de la solidarité nationale.
+De plus, leur emploi ne doit pas entraîner une augmentation de la numération microbienne totale normalement admise dans les denrées alimentaires.
 
-Celui-ci, après avis de la commission supérieure de la médaille, prévue à l'article 3 du décret n° 82-938 du 28 octobre 1982, dont la composition est fixée à l'article 7 du présent arrêté, fait connaître au   préfet la suite à donner à la candidature.
+I - Critères de pureté.
 
-Les arrêtés préfectoraux portant attribution de la médaille de la famille française sont publiés au recueil des actes administratifs.
+Pureté chimique :
+
+Cadmium : pas plus de 0,5 mg/kg ;
+
+Mercure : pas plus de 0,5 mg/kg ;
+
+Arsenic : pas plus de 3 mg/kg ;
+
+Plomb : pas plus de 10 mg/kg ;
+
+Aflatoxines : pas plus de 0,005 mg/kg.
+
+Pureté biologique et microbiologique :
+
+Germes totaux : moins de 50.000 germes par gramme ;
+
+Salmonelles : absence dans 25 grammes de produit ;
+
+Pseudomonas aeruginosa : absence dans 1 gramme de produit ;
+
+Coliformes : moins de 30 germes par gramme de produit ;
+
+Activité antibiotique : aucune.
+
+II - Critères de pureté spécifique.
+
+Les préparations provenant d'Aspergillus orizae ne doivent pas contenir de quantités détectables d'acide bêta-nitro-propionique.

@@ -1,23 +1,23 @@
 # Article 7
 
-La commission supérieure de la médaille de la famille française est composée comme suit :
+Les préparations enzymatiques présentées seules ou en mélange entre elles ou avec d'autres produits doivent porter sur leur emballage ou sur une étiquette faisant corps avec l'emballage les indications suivantes :
 
-Le ministre des affaires sociales et de la solidarité nationale ou son représentant, président ;
+a) La dénomination de la préparation suivant les dispositions suivantes :
 
-Le directeur de l'action sociale ou son représentant, vice-président ;
+1° Lorsque l'emballage ne renferme que l'enzyme : le nom de l'enzyme ;
 
-Le sous-directeur chargé de la famille ou son représentant ;
+2° Lorsqu'il s'agit d'un mélange avec d'autres substances :
 
-Trois représentants des associations familiales ;
+La dénomination de chacun des composants et/ou, le cas échéant, leur numéro dans la numérotation de la Communauté économique européenne ;
 
-Quatre pères ou mères de famille médaillés.
+Le pourcentage du ou des additifs ou auxiliaires technologiques lorsque cette obligation est prévue par les dispositions relatives à ces catégories d'additifs.
 
-Les représentants des associations familiales et les quatre pères ou mères de famille médaillés peuvent, en cas d'empêchement, se faire représenter par un suppléant.
+b) Le nom et l'adresse du fabricant, du vendeur ou de l'importateur.
 
-Les trois représentants des associations familiales et les quatre pères ou mères de famille médaillés, ainsi que leurs suppléants, sont désignés pour trois ans par le ministre des affaires sociales et de la solidarité nationale, sur proposition de l'union nationale des associations familiales.
+c) La mention "Pour denrées alimentaires" (emploi limité).
 
-La commission délibère valablement au nombre de cinq membres. En cas de partage égal des voix, celle du président de séance est prépondérante.
+d) La masse nette ou le volume net.
 
-La commission peut s'adjoindre occasionnellement, à titre consultatif, toutes les personnes dont le concours lui paraît utile, en raison de leurs compétences particulières ou de leurs fonctions, et demander une instruction complémentaire pour toutes les affaires dont elle est saisie.
+e) La nature et la valeur de l'activité enzymatique principale.
 
-Son secrétariat est assuré par le bureau chargé de la famille à la direction de l'action sociale.
+f) Le mode de conservation de la préparation enzymatique.

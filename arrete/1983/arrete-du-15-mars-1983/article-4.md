@@ -1,5 +1,7 @@
 # Article 4
 
-Le secrétariat permanent de la commission départementale de la médaille est assuré par l'union départementale des associations familiales.
+Les substances employées au cours de l'élaboration des préparations enzymatiques ne doivent pas, dans les conditions normales d'emploi :
 
-Il constitue le service départemental de la médaille de la famille française et fonctionne sous le contrôle du directeur départemental des affaires sanitaires et sociales, en liaison avec les services préfectoraux compétents.
+Laisser des teneurs en résidus susceptibles de présenter un danger du point de vue toxicologique dans le produit alimentaire fini ;
+
+Apporter au produit alimentaire fini des substances dont la présence n'est pas admise par la réglementation en vigueur.
