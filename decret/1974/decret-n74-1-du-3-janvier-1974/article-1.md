@@ -1,35 +1,25 @@
 # Article 1
 
-Le conseil supérieur de l'information sexuelle, de la régulation des naissances et de l'éducation familiale est composé de cinquante-deux membres.
+Le Conseil supérieur de l'information sexuelle, de la régulation des naissances et de l'éducation familiale est composé de soixante-trois membres.
 
-Trente-cinq de ces membres représentent les associations et organismes mentionnés au deuxième alinéa de l'article 2 de la loi susvisée du 11 juillet 1973 dont la liste figure en annexe au présent décret.
+Quarante-deux de ces membres représentent les associations et organismes mentionnés au deuxième alinéa de l'article 2 de la loi du 11 juillet 1973 susvisée dont la liste figure en annexe au présent décret.
 
-Les autres membres du conseil sont les représentants des ministres ayant vocation à siéger au conseil supérieur ainsi que les représentants de la caisse nationale d'allocations familiales, des caisses nationales d'assurance maladie, du conseil central d'administration de la mutualité sociale agricole, soit :
+Vingt et un membres représentant les ministres et organismes nationaux de sécurité sociale intéressés, soit :
+
+Quatre représentants du ministre des affaires sociales et de la solidarité nationale ;
+
+Un représentant du ministre délégué auprès du Premier ministre, ministre des droits de la femme ;
 
 Un représentant du garde des sceaux, ministre de la justice ;
 
-Deux représentants du ministre chargé de l'éducation ;
+Trois représentants du ministre de l'éducation nationale ;
 
-Un représentant du ministre chargé de l'agriculture ;
+Un représentant du ministre de l'agriculture ;
 
-Un représentant du ministre chargé de la sécurité sociale ;
+Un représentant du ministre délégué aux affaires sociales, chargé du travail ;
 
-Un représentant du ministre chargé de la population ;
+Quatre représentants du ministre de la santé ;
 
-Trois représentants du ministre chargé de la santé, dont un représentant la direction générale de la santé, un la direction de l'action sociale et un le service central de la pharmacie et des médicaments ;
+Un représentant du ministre délégué auprès du ministre du temps libre, chargé de la jeunesse et des sports ;
 
-Un représentant du ministre chargé des universités ;
-
-Un représentant du ministre chargé des départements et territoires d'outre-mer ;
-
-Un représentant du secrétaire d'Etat chargé de la jeunesse ;
-
-La déléguée à la condition féminine ou son représentant ;
-
-Un représentant de la caisse nationale d'allocations familiales ;
-
-Un représentant de la caisse nationale d'assurance maladie des travailleurs salariés ;
-
-Un représentant de la caisse nationale d'assurance maladie et maternité des travailleurs non salariés non agricoles ;
-
-Un représentant du conseil central d'administration de la mutualité sociale agricole.
+Un représentant du secrétaire d'Etat après du ministre d'Etat, ministre de l'intérieur et de la décentralisation, chargé des départements et des territoires d'outre-mer.
