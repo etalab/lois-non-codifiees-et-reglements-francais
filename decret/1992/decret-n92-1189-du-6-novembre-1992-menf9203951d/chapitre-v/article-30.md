@@ -12,4 +12,4 @@ Le maximum de service des professeurs chargés des enseignements pratiques est a
 
 Pour l'application de ces dispositions, l'effectif à considérer est celui des élèves présents lors de l'enquête annuelle organisée au cours du premier trimestre de l'année scolaire.
 
-Les professeurs de lycée professionnel peuvent être tenus d'effectuer, dans l'intérêt du service, en sus du maximum de service, deux heures supplémentaires hebdomadaires.
+Les professeurs de lycée professionnel peuvent être tenus d'effectuer, dans l'intérêt du service, en sus du maximum de service, une heure supplémentaire hebdomadaire.
