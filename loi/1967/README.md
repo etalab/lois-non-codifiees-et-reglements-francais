@@ -19,5 +19,4 @@
 - [Loi n° 67-559 du 12 juillet 1967](loi-n-67-559-du-12-juillet-1967)
 - [Loi n° 67-561 du 12 juillet 1967](loi-n-67-561-du-12-juillet-1967)
 - [Loi n°66-1066 du 31 décembre 1966](loi-n66-1066-du-31-decembre-1966)
-- [Loi n°67-405 du 20 mai 1967](loi-n67-405-du-20-mai-1967)
 - [Loi n°67-483 du 22 juin 1967](loi-n67-483-du-22-juin-1967)
