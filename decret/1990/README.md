@@ -310,6 +310,8 @@
 - [Décret n°90-402 du 11 mai 1990 (INDX9000083D)](decret-n90-402-du-11-mai-1990-indx9000083d)
 - [Décret n°89-662 du 12 septembre 1989 (INDD8900533D)](decret-n89-662-du-12-septembre-1989-indd8900533d)
 - [Décret n°90-1012 du 12 novembre 1990 (MAEJ9030085D)](decret-n90-1012-du-12-novembre-1990-maej9030085d)
+- [Décret n°90-1111 du 12 décembre 1990 (PTTC9000953D)](decret-n90-1111-du-12-decembre-1990-pttc9000953d)
+- [Décret n°90-1112 du 12 décembre 1990 (PTTC9000954D)](decret-n90-1112-du-12-decembre-1990-pttc9000954d)
 - [Décret n°90-132 du 12 février 1990 (INDH9000031D)](decret-n90-132-du-12-fevrier-1990-indh9000031d)
 - [Décret n°90-133 du 12 février 1990 (MENF8902755D)](decret-n90-133-du-12-fevrier-1990-menf8902755d)
 - [Décret n°90-346 du 12 avril 1990 (MCCE9000067D)](decret-n90-346-du-12-avril-1990-mcce9000067d)
