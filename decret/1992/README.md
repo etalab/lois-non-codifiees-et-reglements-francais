@@ -899,6 +899,7 @@
 - [Décret n°91-1404 du 27 décembre 1991 (SPSS9102274D)](decret-n91-1404-du-27-decembre-1991-spss9102274d)
 - [Décret n°92-102 du 27 janvier 1992 (INTB92300023D)](decret-n92-102-du-27-janvier-1992-intb92300023d)
 - [Décret n°92-1242 du 27 novembre 1992 (ECOT9220015D)](decret-n92-1242-du-27-novembre-1992-ecot9220015d)
+- [Décret n°92-1245 du 27 novembre 1992 (SPSA9202616D)](decret-n92-1245-du-27-novembre-1992-spsa9202616d)
 - [Décret n°92-187 du 27 février 1992 (AGRS9200345D)](decret-n92-187-du-27-fevrier-1992-agrs9200345d)
 - [Décret n°92-193 du 27 février 1992 (MCCB9200041D)](decret-n92-193-du-27-fevrier-1992-mccb9200041d)
 - [Décret n°92-194 du 27 février 1992 (JUSC9220095D)](decret-n92-194-du-27-fevrier-1992-jusc9220095d)
