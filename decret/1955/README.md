@@ -3,6 +3,7 @@
 - [Décret n°55-1429 du 2 novembre 1955](decret-n55-1429-du-2-novembre-1955)
 - [Décret n°55-1297 du 3 octobre 1955](decret-n55-1297-du-3-octobre-1955)
 - [Décret n°55-1323 du 4 octobre 1955](decret-n55-1323-du-4-octobre-1955)
+- [Décret n°55-22 du 4 janvier 1955](decret-n55-22-du-4-janvier-1955)
 - [Décret n°55-1202 du 9 septembre 1955](decret-n55-1202-du-9-septembre-1955)
 - [Décret n°55-1342 du 10 octobre 1955](decret-n55-1342-du-10-octobre-1955)
 - [Décret n°55-1350 du 14 octobre 1955](decret-n55-1350-du-14-octobre-1955)
