@@ -6,29 +6,31 @@
 
 3. Sauf dispositions spécifiques contraires, le paragraphe 2 ne s'applique pas :
 
-a) Aux denrées alimentaires non transformées, telles que définies à l'article 13 du présent arrêté :
+a) :
 
-- au miel, au sens du décret n° 76-692 du 22 juillet 1976 modifié pris en application de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles en ce qui concerne le miel ;
+- aux denrées alimentaires non transformées, telles que définies à l'article 13 du présent arrêté ;
 
-- aux huiles et graisses d'origine animale ou végétale non émulsionnées ;
+- au miel, au sens du décret no 76-692 du 22 juillet 1976 modifié pris en application de la loi du 1er août 1905 sur la répression des fraudes dans la vente des marchandises et des falsifications des denrées alimentaires et des produits agricoles en ce qui concerne le miel ;
+
+- aux huiles et graisses d'origine animale et végétale non émulsionnées ;
 
 - au beurre ;
 
-- au lait (entier, écrémé et demi-écrémé) et à la crème (entière ou à faible teneur en matières grasses) pasteurisés et stérilisés (y compris par procédé UHT) ;
+- au lait (entier, écrémé et demi-écrémé), pasteurisé et stérilisé (y compris par procédé UHT) et à la crème entière pasteurisée ;
 
-- aux produits à base de lait fermenté au moyen de ferments vivants, non aromatisés ;
+- aux produits à base de lait fermenté au moyen de ferments vivants non aromatisés ;
 
-- à l'eau minérale naturelle et à l'eau de source au sens du décret n° 89-369 du 6 juin 1989 relatif aux eaux minérales naturelles, et aux eaux potables préemballées ;
+- à l'eau minérale naturelle et à l'eau de source, au sens du décret no 89-369 du 6 juin 1989 modifié relatif aux eaux minérales naturelles, et aux eaux potables préemballées ;
 
 - au café (à l'exclusion du café instantané aromatisé) et aux extraits de café ;
 
 - au thé en feuilles non aromatisé ;
 
-- aux sucres au sens du décret n° 77-876 du 12 juillet 1977 modifié pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne certains sucres destinés à l'alimentation humaine ;
+- aux sucres au sens du décret no 77-876 du 12 juillet 1977 modifié pris pour l'application de la loi du 1er août 1905 sur la répression des fraudes en ce qui concerne certains sucres destinés à l'alimentation humaine ;
 
-- aux pâtes sèches ;
+- aux pâtes sèches, à l'exclusion des pâtes sans gluten et/ou destinées à un régime hypoprotidique, conformément au décret no 91-827 du 29 août 1991 relatif aux aliments destinés à une alimentation particulière ;
 
-- au babeurre naturel non aromatisé (à l'exclusion du babeurre stérilisé) ;
+- au babeurre naturel non aromatisé (à l'exclusion du babeurre stérilisé).
 
 b) Aux aliments pour nourrissons et enfants en bas âge mentionnés dans le décret du 29 août 1991 précité, y compris les aliments pour les nourrissons et les enfants en bas âge qui ne sont pas en bonne santé. Ces denrées alimentaires sont soumises aux dispositions de l'annexe V ;
 
