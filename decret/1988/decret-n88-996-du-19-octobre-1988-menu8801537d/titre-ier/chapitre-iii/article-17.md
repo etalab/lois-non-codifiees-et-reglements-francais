@@ -2,9 +2,9 @@
 
 Les internes choisissent par ancienneté de semestres validés ; cette ancienneté n'est prise en compte que pour un nombre entier de semestres de fonctions.
 
-Pour le calcul de cette ancienneté sont pris en compte les semestres validés effectués dans des services agréés pour un diplôme d'études spécialisées ou pour l'année-recherche.
+Pour le calcul de cette ancienneté sont pris en compte les semestres validés effectués dans des services agréés pour un diplôme d'études spécialisées.
 
-A ancienneté égale, le choix s'effectue selon le rang de classement aux concours, quelles que soient les dates de ces concours ; la détermination des rangs de classement entre internes issus de concours différents s'effectue, en prenant en considération les nombres d'internes respectifs des concours comparés, selon des modalités déterminées par arrêté des ministres chargés des universités et de la santé [*autorité compétente*].
+A ancienneté égale, le choix s'effectue selon le rang de classement aux concours, quelles que soient les dates de ces concours ; la détermination des rangs de classement entre internes issus de concours différents s'effectue, en prenant en considération les nombres d'internes respectifs des concours comparés, selon des modalités déterminées par arrêté des ministres chargés des universités et de la santé.
 
 En cas d'égalité de rang de classement après application de la pondération prévue ci-dessus, priorité de choix est donnée à l'interne issu du concours le plus ancien.
 
