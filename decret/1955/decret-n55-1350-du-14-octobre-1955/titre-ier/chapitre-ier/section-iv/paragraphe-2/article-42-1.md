@@ -8,6 +8,8 @@ La date, le volume et le numéro de la formalité ;
 
 La désignation du titre de créance ;
 
+La date extrême d'effet de l'inscription ;
+
 Le montant initial en principal ainsi que, le cas échéant, la nature et la date des mentions marginales.
 
 b) Pour les autres formalités ;

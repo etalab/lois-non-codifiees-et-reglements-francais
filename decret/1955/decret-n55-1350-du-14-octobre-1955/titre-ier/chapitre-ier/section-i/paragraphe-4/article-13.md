@@ -12,4 +12,4 @@ Les surcharges et grattages sont interdits.
 
 Au tableau III des fiches personnelles de propriétaires et des fiches d'immeuble, une ligne est laissée en blanc entre chaque formalité.
 
-Les annotations entachées d'erreurs imputables aux agents des conservations sont annulées, par rature à l'encre noire, dès la découverte des erreurs, et rétablies à la suite. L'annulation est émargée de la date de la rectification et de la signature ou du paragraphe soit du conservateur, soit du chef de contrôle ou de l'agent en faisant fonction. Les copies du fichier immobilier délivrées en exécution du deuxième alinéa de l'article 2196 du Code civil ne doivent mentionner que les annotations rectifiées.
+Les annotations entachées d'erreurs imputables aux agents des conservations sont annulées, par rature à l'encre noire, dès la découverte des erreurs, et rétablies à la suite. L'annulation est émargée de la date de rectification et de la signature ou du paraphe soit du conservateur des hypothèques, soit d'un agent dûment habilité par ce dernier.

@@ -1,6 +1,6 @@
 # Article 71
 
-1. L'état descriptif de division, prévu à l'article 7 du décret du 4 janvier 1955, peut être contenu soit dans un acte spécialement dressé à cet effet, soit dans un règlement de copropriété ou un cahier des charges concernant, en outre, l'organisation de la gestion collective, soit dans tout autre acte ou décision judiciaire. Un seul état descriptif doit être établi lorsque plusieurs bâtiments ou groupes de bâtiments pouvant faire l'objet de copropriétés particulières sont édifiés sur un sol dont la propriété est placée globalement sous le régime de l'indivision forcée.
+A. - 1. L'état descriptif de division, prévu à l'article 7 du décret du 4 janvier 1955, peut être contenu soit dans un acte spécialement dressé à cet effet, soit dans un règlement de copropriété ou un cahier des charges concernant, en outre, l'organisation de la gestion collective, soit dans tout autre acte ou décision judiciaire. Un seul état descriptif doit être établi lorsque plusieurs bâtiments ou groupes de bâtiments pouvant faire l'objet de copropriétés particulières sont édifiés sur un sol dont la propriété est placée globalement sous le régime de l'indivision forcée.
 
 L'état descriptif doit identifier l'immeuble auquel il s'applique, conformément aux prescriptions du premier alinéa dudit article 7, opérer une division en lots et attribuer un numéro à chaque lot.
 
@@ -16,6 +16,8 @@ Chaque fraction doit être identifiée par son emplacement, lui-même détermin�
 
 Les lots font l'objet d'un numérotage continu dans une série unique à partir de l'unité. Lorsque l'immeuble est constitué par plusieurs bâtiments ou corps de bâtiments, les lots peuvent faire l'objet d'un numérotage continu dans des séries successives affectées à chacun d'eux à partir de nombres séparés par des intervalles convenables.
 
+Dans tout état descriptif de division établi après la suppression d'un état descriptif antérieur, le numérotage des lots ne doit reprendre aucun des numéros précédemment attribués.
+
 2. L'état descriptif est résumé obligatoirement dans un tableau incorporé à l'acte lui-même ou annexé à celui-ci et comportant les colonnes suivantes dans la mesure de l'existence des éléments correspondants :
 
 1. Numéro du lot, dans l'ordre croissant des numéros ;
@@ -30,21 +32,21 @@ Les lots font l'objet d'un numérotage continu dans une série unique à partir 
 
 6. Quote-part des parties communes.
 
-Ce tableau, qui doit figurer sur l'extrait ou l'expédition déposé à la conservation des hypothèques, est reproduit par le conservateur, pour les immeubles urbains, au sens des articles 2 et 45 du présent décret au tableau II de la fiche d'immeuble conformément aux prescriptions de l'article 10.
+Ce tableau, qui doit figurer sur l'extrait ou l'expédition déposé à la conservation des hypothèques, est reproduit au fichier immobilier par le conservateur.
 
 B. - 1. - Toute modification, soit de l'immeuble auquel s'applique l'état descriptif, soit des lots, doit être constatée par un acte modificatif de l'état descriptif.
 
 L'acte modificatif doit rectifier, suivant le cas, la désignation de l'ensemble de l'immeuble ou le numérotage des lots.
 
-B-1. - Si la modification résulte de l'acquisition de parties communes entraînant changement d'emprise, il n'y a pas lieu, lorsque la déclaration visée à l'alinéa 2 de l'article 16-1 du présent décret n'a pas été déposée ou s'est révélée inexacte, à création de lots particuliers sur les parties communes acquises pour le seul motif que ces dernières sont grevées de droits distincts ou ne sont grevées d'aucun droit.
+Si la modification résulte de l'acquisition de parties communes entraînant changement d'emprise, il n'y a pas lieu, lorsque la déclaration visée à l'alinéa 2 de l'article 16-1 du présent décret n'a pas été déposée ou s'est révélée inexacte, à création de lots particuliers sur les parties communes acquises pour le seul motif que ces dernières sont grevées de droits distincts ou ne sont grevées d'aucun droit.
 
-- Si la modification consiste en une subdivision d'un lot, l'acte modificatif attribue un numéro nouveau à chacune des parties du lot subdivisé, lesquelles forment autant de lots distincts. Toutefois, hors les cas où l'acte modificatif constate la réunion ou la division de copropriétés existantes, lorsque la modification ne porte que sur la quote-part des parties communes incluses dans les lots intéressés, il n'y pas lieu à attribution d'un nouveau numéro.
+Si la modification consiste en une subdivision d'un lot, l'acte modificatif attribue un numéro nouveau à chacune des parties du lot subdivisé, lesquelles forment autant de lots distincts. Toutefois, hors les cas où l'acte modificatif constate la réunion ou la division de copropriétés existantes, lorsque la modification ne porte que sur la quote-part des parties communes incluses dans les lots intéressés, il n'y pas lieu à attribution d'un nouveau numéro.
 
 La réunion de plusieurs lots pour former un lot nouveau ne peut donner lieu à la création d'un lot désigné par un seul numéro que si les lots réunis ne sont pas grevés, lors de la publication de l'acte modificatif, de droits ou charges différents publiés au fichier immobilier.
 
 Les numéros désignant les lots nouveaux sont pris à la suite des numéros existants dans la série unique ou dans l'une des séries successives.
 
-- Cependant, dans les communes à cadastre rénové, lorsque l'acte modificatif constate la réunion ou la division de copropriétés existantes, le numérotage des lots de la ou des copropriétés nouvelles peut être fait dans une série unique à partir de l'unité ou dans des séries successives, comme il est dit au A-1 (dernier alinéa) du présent article, si l'acte modificatif fait apparaître un changement dans la désignation cadastrale des immeubles.
+Lorsque l'acte modificatif constate la réunion ou la division de copropriétés existantes, le numérotage des lots de la ou des copropriétés nouvelles ne doit reprendre aucun des numéros précédemment attribués.
 
 2. - L'acte modificatif est résumé obligatoirement dans un tableau identique à celui prévu au 2 du A ci-dessus mais limité aux lots modifiés, - et indiquant, en outre, dans une colonne supplémentaire :
 
@@ -58,7 +60,7 @@ En toute hypothèse, le tableau doit figurer dans l'extrait ou l'expédition dé
 
 C. - 1. - Lorsque la division de l'immeuble est antérieure à l'entrée en vigueur du décret n° 59-89 du 7 janvier 1959 et qu'il n'a pas été transcrit ou publié un document analogue à l'état descriptif de division permettant l'identification précise de chaque fraction par un numéro de lot, il doit être établi et publié, avant réquisition d'une nouvelle formalité, un état descriptif tenant compte de la division telle qu'elle résulte des documents antérieurement transcrits ou publiés, y compris ceux portant subdivision ou réunion des lots initialement constitués, même s'il n'a pas été fait de distinction entre les locaux principaux et secondaires.
 
-Un état descriptif de division doit également être établi et publié lorsque, dans le document analogue à l'état descriptif de division, le même numéro a été attribué à plusieurs lots différents : il est procédé à un nouveau numérotage, effectué dans les conditions prévues au dernier alinéa du A du présent article, sans toutefois, utiliser aucun des numéros précédemment attribués et sans modifier la division résultant du document antérieurement transcrit ou publié.
+Un état descriptif de division doit également être établi et publié lorsque, dans le document analogue à l'état descriptif de division, le même numéro a été attribué à plusieurs lots différents : il est procédé à un nouveau numérotage, effectué dans les conditions prévues au sixième alinéa du 1 du A du présent article, sans toutefois, utiliser aucun des numéros précédemment attribués et sans modifier la division résultant du document antérieurement transcrit ou publié.
 
 Lorsque le document analogue à l'état descriptif de division permet l'identification précise de chaque fraction de l'immeuble par un numéro de lot, mais qu'une subdivision ou une réunion de lots a été opérée sans qu'il ait été transcrit ou publié un document analogue à l'acte modificatif visé au B du présent article, un acte modificatif doit être établi et publié avant réquisition d'une nouvelle formalité concernant les lots modifiés.
 
@@ -94,8 +96,10 @@ Le dépôt est également refusé, si la fraction intéressée n'est pas désign
 
 - soit une discordance entre les références (date, volume, numéro) à la formalité donnée à l'un des actes visés au deuxième alinéa du 1 ci-dessus et celles contenues dans le document déposé ;
 
-- soit une discordance dans la désignation des lots (numéro, éventuellement quote-part des parties communes) entre, d'une part, les énonciations contenues dans le document déposé et, d'autre part, les énonciations correspondantes contenues au tableau établi en exécution du A-2, du B-2, du C-2 du présent article ;
+- soit une discordance dans la désignation des lots (numéro) entre, d'une part, les énonciations contenues dans le document déposé et, d'autre part, les énonciations correspondantes contenues au tableau établi en exécution du A-2, du B-2, du C-2 du présent article.
 
-- soit l'omission de l'indication de la quote-part des parties communes, dans le cas où cette indication est obligatoire en vertu du D-2 du présent article.
+La même sanction est applicable :
 
-La même sanction est applicable lorsque le conservateur constate que l'état descriptif ou l'acte modificatif établi en exécution du C-1 du présent article ne tient pas compte de la division ou d'une modification antérieure des lots ou utilise des numéros précédemment attribués.
+a) Lorsque le conservateur constate que l'état descriptif ou l'acte modificatif établi en exécution des 1 des A, B et C utilise des numéros précédemment attribués ;
+
+b) Lorsque, en exécution du 1 du C, l'état descriptif ou l'acte modificatif ne tient pas compte de la division ou d'une modification antérieure des lots.

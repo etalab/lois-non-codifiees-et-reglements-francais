@@ -22,4 +22,4 @@ b) Dans les cas où les extraits d'actes de l'état civil sont soumis à une con
 
 Pour les décisions judiciaires et les adjudications, le certificat peut être valablement établi au vu d'un extrait ayant moins de six mois de date au jour de la demande en justice, du cahier des charges, et, s'il est judiciaire, de son dépôt, ou du commandement valant saisie ou, en ce qui concerne les adjudicataires, au jour où la publication est requise.
 
-2. Les dispositions de l'article 6, alinéa 3 (1°), du décret du 4 janvier 1955 relatives à la certification de l'identité des personnes morales sont applicables aux personnes morales dont le siège se trouve dans le département de Saint-Pierre-et-Miquelon.
+2. Les dispositions du 2 de l'article 6 du décret n° 55-22 du 4 janvier 1955 modifié, relatives à la certification de l'identité des personnes morales sont applicables aux personnes morales dont le siège se trouve dans le département de Saint-Pierre-et-Miquelon.

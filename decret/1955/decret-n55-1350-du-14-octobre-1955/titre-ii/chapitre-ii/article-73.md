@@ -27,5 +27,3 @@ Il en est ainsi notamment :
 11° Des arrêtés prévus à l'alinéa 2 de l'article 4 de la loi n° 79-1150 du 29 décembre 1979 relative à la publicité, aux enseignes et préenseignes.
 
 La publicité est assurée par le dépôt, au bureau des hypothèques de la situation des immeubles intéressés, de deux ampliations ou copies certifiées conformes des décrets, arrêtés ou décisions, dont l'une est obligatoirement établie sur formule réglementaire pour être conservée et doit comporter la mention de certification de l'identité des parties.
-
-Les documents déposés sont annotés au cadre B du tableau III des fiches personnelles de propriétaire ou des fiches d'immeuble.

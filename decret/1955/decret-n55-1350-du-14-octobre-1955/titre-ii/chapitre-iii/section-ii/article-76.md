@@ -6,10 +6,26 @@ Lorsqu'un acte ou une décision judiciaire soumis à publicité en exécution de
 
 Si, dans un tel acte ou décision, des biens autres que des immeubles par nature ou des droits ne portant pas sur des immeubles par nature présentent le caractère immobilier, ce caractère doit être explicitement indiqué dans le document déposé. A défaut, la publicité n'est censée requise qu'en ce qui concerne les autres biens ou droits immobiliers compris dans le document.
 
-2. La désignation individuelle des immeubles exigée, sous peine de refus du dépôt, par les articles 2148, cinquième alinéa, 2149, dernier alinéa, du Code civil, et 34 (par. 2), du décret du 4 janvier 1955, ainsi que par l'article 9, quatrième alinéa, dudit décret doit comporter l'indication de la commune, où ils sont situés, de la section et du numéro du plan cadastral, et en outre :
+La désignation individuelle des immeubles exigée par les articles 2148, cinquième alinéa, 2149, dernier alinéa, du code civil, et le 2 de l'article 34 du décret n° 55-22 du 4 janvier 1955 modifié est faite, conformément aux dispositions de l'article 7 du même décret, par l'indication des éléments suivants :
 
-- pour les immeubles situés dans les parties agglomérées des communes urbaines de plus de 10 000 habitants, l'indication de la rue et du numéro ou la mention qu'il n'en existe pas ;
+a) La nature ;
 
-- pour les fractions d'immeubles, l'indication du numéro du lot.    Si le document déposé faisant l'objet d'un seul certificat de collationnement reproduit plusieurs fois la désignation des immeubles, seule est retenue, à défaut d'indication contraire expresse portée obligatoirement au pied du document, la désignation figurant la première dans ledit document, même si elle est contenue dans un acte préparatoire non soumis par lui-même à publicité, tel qu'un cahier des charges dont l'expédition précède celle du jugement d'adjudication.
+b) La commune de situation ;
 
-Le conservateur retient cette désignation pour procéder aux annotations sur les fiches et pour effectuer tous rapprochements prescrits par les articles 23, 34, 36 et 37 soit avec l'extrait d'acte, soit avec les documents antérieurement publiés.
+c) L'indication de la rue et du numéro ou, à défaut, le lieudit ;
+
+d) La section et le numéro du plan cadastral ;
+
+e) La contenance.
+
+Lorsque le document déposé concerne une fraction d'immeuble, la désignation susvisée doit en outre être complétée par l'indication du numéro de lot et, sous réserve des dispositions du troisième alinéa du 2 du D de l'article 71, de la quote-part de parties communes, lorsqu'elle existe ou est déterminée.
+
+Le refus de dépôt est opposé en cas d'omission, dans la désignation des immeubles, de l'indication de leur commune de situation, de leur désignation cadastrale et, en outre, pour les fractions d'immeuble, du numéro de lot.
+
+Toute discordance entre les indications relatives à la commune ou à la désignation cadastrale figurant dans le document déposé et ces mêmes indications contenues dans les documents antérieurement publiés au fichier immobilier entraîne le rejet de la formalité.
+
+La même sanction est applicable aux irrégularités visées au 2 du E de l'article 71 en ce qui concerne l'identification des fractions d'immeuble.
+
+3. Si le document déposé faisant l'objet d'un seul certificat de conformité reproduit plusieurs fois la désignation des immeubles, seule est retenue, à défaut d'indication contraire expresse portée obligatoirement au pied du document, la désignation figurant la première dans ledit document, même si elle est contenue dans un acte préparatoire non soumis par lui-même à publicité, tel qu'un cahier des charges dont l'expédition précède celle du jugement d'adjudication.
+
+Le conservateur retient cette désignation pour annoter le fichier immobilier et pour effectuer tous rapprochements prescrits par les articles 23, 34, 36 et 37 soit avec l'extrait d'acte, soit avec les documents antérieurement publiés.

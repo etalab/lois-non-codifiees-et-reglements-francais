@@ -1,6 +1,6 @@
 # Article 68
 
-1. Sont notamment établis conformément aux prescriptions des articles 67-3, 76-1 et 76-2 du présent décret, les expéditions, extraits littéraux ou copies destinés à être conservés au bureau des hypothèques :
+1. Sont notamment établis conformément aux prescriptions des articles 67-3 et 76-1 du présent décret, les expéditions, extraits littéraux ou copies destinés à être conservés au bureau des hypothèques :
 
 - Des actes de l'autorité publique ;
 

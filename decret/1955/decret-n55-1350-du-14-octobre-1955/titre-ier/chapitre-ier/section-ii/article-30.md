@@ -38,9 +38,7 @@ L'extrait cadastral est conforme au modèle (n° 3) fixé par le directeur gén�
 
 2. En ce qui concerne spécialement les actes ou décisions relatifs à des servitudes réelles, l'extrait cadastral est produit tant pour le fonds servant que pour le fonds dominant.
 
-3. Par dérogation à l'article 8, les fiches parcellaires sont annotées des mentions de référence à la formalité de publicité donnée à l'un des documents, actes ou décisions énumérés ou 1 ci-dessus, si cette formalité est la première au sens de la présente disposition.    4. L'extrait cadastral, qui doit porter une mention de référence à l'article 40 du décret du 4 janvier 1955 et avoir moins de trois mois de date au jour de l'acte ou de la décision à publier ou au jour où la publicité est requise, est établi par le service de cadastre ou par un notaire, un avoué ou une autorité administrative, selon les modalités prévues à l'article 21.
-
-Dans ce dernier cas, la mise à jour du livret cadastral doit avoir été faite ou l'extrait de la matrice cadastrale doit avoir été délivré moins de trois mois avant la date de l'acte ou de la décision, ou celle de la publicité.
+3. Par dérogation à l'article 8, les fiches parcellaires sont annotées des mentions de référence à la formalité de publicité donnée à l'un des documents, actes ou décisions énumérés ou 1 ci-dessus, si cette formalité est la première au sens de la présente disposition.    4. L'extrait cadastral, qui doit porter une mention de référence à l'article 40 du décret n° 55-22 du 4 janvier 1955 modifié et avoir moins de six mois de date au jour où la publicité est requise, est établi par le service du cadastre.
 
 L'extrait (modèle n° 3) est produit à l'appui du document déposé à la conservation des hypothèques ; il est transmis au service du cadastre suivant les modalités fixées par le directeur général des impôts.
 

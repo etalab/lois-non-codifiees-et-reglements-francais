@@ -16,9 +16,9 @@ Ou provoquer la publicité du titre du titulaire, ou de l'attestation de transmi
 
 Ou produire un acte de notoriété ou un certificat délivré par un notaire ou un greffier, établissant que le droit du dernier titulaire résulte d'un acte ou d'une décision judiciaire non encore publié ou d'une transmission par décès n'ayant pas encore fait l'objet d'une attestation ; si, pour obtenir ce document, le signataire du certificat d'identité a besoin d'un acte ou certificat à délivrer au titulaire du droit - sur demande de celui-ci - par une autorité publique ou un officier public ou ministériel, il peut en demander lui-même la délivrance.
 
-En même temps, le conservateur annote, dans les conditions prévues à l'article 34-3, les fiches personnelles ou d'immeuble - déjà existantes ou à créer.
+En même temps, le conservateur annote, dans les conditions prévues à l'article 34-3, le fichier immobilier.
 
-Si, dans un délai d'un mois - ou de deux mois s'il s'agit d'une expropriation ou d'un remembrement collectif - à compter de l'avis donné au signataire du certificat d'identité, il n'a pas été satisfait à la demande du conservateur, ou si, même avant l'expiration de ce délai, le signataire du certificat d'identité l'a informé du refus ou de l'impossibilité de donner satisfaction à ladite demande, la formalité est rejetée sous les réserves prévues à l'article 74. Mention du rejet est faite au registre de dépôts, en regard de l'inscription du dépôt, dans la colonne "Observations", ainsi que sur les fiches de propriétaire et d'immeuble.
+Si, dans un délai d'un mois - ou de deux mois s'il s'agit d'une expropriation ou d'un remembrement collectif - à compter de l'avis donné au signataire du certificat d'identité, il n'a pas été satisfait à la demande du conservateur, ou si, même avant l'expiration de ce délai, le signataire du certificat d'identité l'a informé du refus ou de l'impossibilité de donner satisfaction à ladite demande, la formalité est rejetée sous les réserves prévues à l'article 74. Mention du rejet est faite au registre de dépôts, en regard de l'inscription du dépôt, dans la colonne "Observations", ainsi qu'au fichier immobilier.
 
 Les deux derniers alinéas de l'article 34-3 sont applicables.
 

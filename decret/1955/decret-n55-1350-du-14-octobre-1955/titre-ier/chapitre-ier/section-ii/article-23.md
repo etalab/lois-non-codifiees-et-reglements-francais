@@ -1,6 +1,6 @@
 # Article 23
 
-1. Après avoir annoté la formalité requise au registre de dépôts prévu à l'article 2200 du Code civil, le conservateur des hypothèques s'assure que les énonciations relatives à la désignation des parties, inscrites par les notaires, avoués et autorités administratives sur l'extrait modèle n° 1 concordent exactement avec les énonciations correspondantes figurant dans le document déposé. Il vérifie, en outre, la concordance exacte des énonciations relatives à la désignation des immeubles figurant, d'une part, dans l'extrait, d'autre part, dans le document déposé.
+1. Après avoir annoté la formalité requise au registre de dépôts prévu à l'article 2200 du Code civil, le conservateur des hypothèques s'assure que les énonciations relatives à la désignation des parties, inscrites par les notaires, avoués, avocats et autorités administratives sur l'extrait modèle n° 1 concordent exactement avec les énonciations correspondantes figurant dans le document déposé. Il vérifie, en outre, la concordance exacte des énonciations relatives à la désignation des immeubles figurant, d'une part, dans l'extrait, d'autre part, dans le document déposé.
 
 2. En cas de concordance, le conservateur se conforme aux prescriptions de l'article 34 du présent décret et, après avoir terminé l'exécution de la formalité, indique, dans le cadre prévu à cet effet sur l'extrait, la date, le volume et le numéro de la formalité.
 
