@@ -185,6 +185,7 @@
 - [Arrêté du 14 janvier 1999 (ECOT9816294A)](arrete-du-14-janvier-1999-ecot9816294a)
 - [Arrêté du 14 janvier 1999 (MENF9900022A)](arrete-du-14-janvier-1999-menf9900022a)
 - [Arrêté du 14 janvier 1999 (MESS9920318A)](arrete-du-14-janvier-1999-mess9920318a)
+- [Arrêté du 14 juin 1999 (ECOA9820020A)](arrete-du-14-juin-1999-ecoa9820020a)
 - [Arrêté du 14 septembre 2001 (MENF0101115A)](arrete-du-14-septembre-2001-menf0101115a)
 - [Arrêté du 14 mai 1999 (ECOS9950019A)](arrete-du-14-mai-1999-ecos9950019a)
 - [Arrêté du 14 mai 1999 (ECOT9920028A)](arrete-du-14-mai-1999-ecot9920028a)

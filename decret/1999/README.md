@@ -316,6 +316,7 @@
 - [Décret n°99-324 du 21 avril 1999 (INTM9800029D)](decret-n99-324-du-21-avril-1999-intm9800029d)
 - [Décret n°99-40 du 21 janvier 1999 (DEFX9903381D)](decret-n99-40-du-21-janvier-1999-defx9903381d)
 - [Décret n°99-41 du 21 janvier 1999 (MESH9920088D)](decret-n99-41-du-21-janvier-1999-mesh9920088d)
+- [Décret n°99-511 du 21 juin 1999 (INTM9900022D)](decret-n99-511-du-21-juin-1999-intm9900022d)
 - [Décret n°99-652 du 21 juillet 1999 (ATEN9970016D)](decret-n99-652-du-21-juillet-1999-aten9970016d)
 - [Décret n°99-396 du 21 mai 1999 (MJSK9970025D)](decret-n99-396-du-21-mai-1999-mjsk9970025d)
 - [Décret n°99-408 du 21 mai 1999 (EQUA9900177D)](decret-n99-408-du-21-mai-1999-equa9900177d)

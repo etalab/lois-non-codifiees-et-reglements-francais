@@ -19,3 +19,5 @@ Commissions régionales de qualifications.
 Commission nationale d'urbanisme commercial.
 
 Commissions départementales de conciliation en matière de baux commerciaux.
+
+Commission nationale de la coiffure.
