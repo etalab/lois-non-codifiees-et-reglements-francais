@@ -1,0 +1,5 @@
+# Article 1
+
+Lorsque l'accès à un corps de fonctionnaires de l'Etat est ouvert aux fonctionnaires et aux agents de l'Etat par la voie du concours interne, de l'examen professionnel ou de la liste d'aptitude établie après avis de la commission administrative paritaire du corps d'accueil, en application des articles 19 et 26 de la loi n° 84-16 du 11 janvier 1984 susvisée, les fonctionnaires et agents en fonctions dans une organisation internationale intergouvernementale peuvent bénéficier de ces modalités d'accès sous réserve de remplir les conditions fixées par le statut particulier de ce corps pour les fonctionnaires et agents de l'Etat.
+
+Dans le cas où le statut particulier d'un corps subordonne l'accès à ce corps à l'accomplissement d'une durée minimale de services dans un corps classé dans une catégorie donnée de la fonction publique de l'Etat, les fonctionnaires et agents en fonctions dans une organisation internationale intergouvernementale peuvent accéder à ce corps s'ils ont exercé des fonctions comparables par leur nature et par leur niveau pendant la durée requise.

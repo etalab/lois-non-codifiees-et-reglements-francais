@@ -1,3 +1,0 @@
-# Article 3
-
-Lorsque, pour l'objet en céramique testé, les migrations du plomb et du cadmium ou de l'un d'eux ne dépassent pas les quantités fixées à l'article 2 ci-dessus de plus de 50 p. 100, cet objet est cependant considéré comme conforme aux prescriptions du présent arrêté si les quantités de plomb et de cadmium extraites de trois autres objets au moins, identiques sur le plan de la forme, des dimensions, de la décoration et du vernis et soumis à un essai effectué dans les conditions prévues à l'article 4 du présent arrêté ne dépassent pas en moyenne les limites fixées et si, pour chacun de ces objets, les limites ne sont pas dépassées de plus de 50 p. 100.
