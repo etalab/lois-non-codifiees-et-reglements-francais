@@ -95,6 +95,7 @@
 - [Décret n°2004-227 du 9 mars 2004 (BUDB0410007D)](decret-n2004-227-du-9-mars-2004-budb0410007d)
 - [Décret n°2004-30 du 9 janvier 2004 (INTA0300303D)](decret-n2004-30-du-9-janvier-2004-inta0300303d)
 - [Décret n°2004-32 du 9 janvier 2004 (JUSJ0390022D)](decret-n2004-32-du-9-janvier-2004-jusj0390022d)
+- [Décret n°2004-326 du 9 avril 2004 (JUSC0420266D)](decret-n2004-326-du-9-avril-2004-jusc0420266d)
 - [Décret n°2004-37 du 9 janvier 2004 (BUDX0300066D)](decret-n2004-37-du-9-janvier-2004-budx0300066d)
 - [Décret n°2004-40 du 9 janvier 2004 (DOMA0300020D)](decret-n2004-40-du-9-janvier-2004-doma0300020d)
 - [Décret n°2004-132 du 10 février 2004 (SOCS0324735D)](decret-n2004-132-du-10-fevrier-2004-socs0324735d)
