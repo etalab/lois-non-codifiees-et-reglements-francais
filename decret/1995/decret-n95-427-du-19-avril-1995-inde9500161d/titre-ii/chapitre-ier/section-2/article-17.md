@@ -1,6 +1,6 @@
 # Article 17
 
-Dans le cas où il y a lieu à mise à concurrence, il est procédé comme il est dit aux premier, deuxième et quatrième alinéas de l'article 9.
+Lorsque la concession n'est pas sollicitée en application de l'article 26 du code minier, la demande est soumise à la concurrence dans les formes prévues aux articles 8 et 9.
 
 Les demandes en concurrence sont soumises à l'enquête prévue par l'article précédent.
 
