@@ -212,6 +212,14 @@ Emplois scientifiques, techniques et administratifs de recherche
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Ecole polytechnique
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois d'enseignement, ainsi qu'emplois scientifiques, techniques et administratifs de recherche de catégories A et B
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Etablissement public de la Bibliothèque nationale de France
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés

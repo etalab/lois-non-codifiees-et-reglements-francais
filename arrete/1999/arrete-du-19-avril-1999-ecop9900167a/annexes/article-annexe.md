@@ -668,21 +668,9 @@ Etablissements de barèmes et de certificats :
 
 6410
 
-Etablissement de barèmes complémentaires pour toutes catégories de réservoirs, par capacité déterminée
+Etablissement de barèmes pour toutes catégories de réservoirs, par capacité déterminée
 
 1,50 Francs
-
-6420
-
-Etablissement du barème et du certificat pour réservoirs mobiles autres que citernes visées au point 2610 :
-
-- établissement du barème, par capacité déterminée
-
-1,50 Francs
-
-- établissement du certificat, par certificat établi
-
-357,00 Francs
 
 II. - Autres redevances
 
@@ -702,7 +690,7 @@ Redevance horaire selon l'article 1er du présent arrêté
 
 7530
 
-- expertises et études ;
+- expertises, audits et études ;
 
 7540
 

@@ -52,6 +52,8 @@
 - [Arrêté du 30 décembre 1999 (ECOI9900573A)](arrete-du-30-decembre-1999-ecoi9900573a)
 - [Arrêté du 30 décembre 1999 (ECOI9900574A)](arrete-du-30-decembre-1999-ecoi9900574a)
 - [Arrêté du 30 décembre 1999 (INTB9900629A)](arrete-du-30-decembre-1999-intb9900629a)
+- [Arrêté du 31 décembre 1999 (ECOP9900925A)](arrete-du-31-decembre-1999-ecop9900925a)
+- [Arrêté du 31 décembre 1999 (ECOP9900926A)](arrete-du-31-decembre-1999-ecop9900926a)
 - [Arrêté du 31 décembre 1999 (FPPA0000006A)](arrete-du-31-decembre-1999-fppa0000006a)
 - [Arrêté du 31 décembre 1999 (FPPA0000008A)](arrete-du-31-decembre-1999-fppa0000008a)
 - [Arrêté du 31 décembre 1999 (FPPA0000013A)](arrete-du-31-decembre-1999-fppa0000013a)
