@@ -14,6 +14,7 @@
 - [Arrêté du 7 janvier 2002 (MENF0102652A)](arrete-du-7-janvier-2002-menf0102652a)
 - [Arrêté du 7 mai 2001 (MESG0121024A)](arrete-du-7-mai-2001-mesg0121024a)
 - [Arrêté du 7 mai 2001 (MJSK0170021A)](arrete-du-7-mai-2001-mjsk0170021a)
+- [Arrêté du 8 janvier 2001 (MENF0003104A)](arrete-du-8-janvier-2001-menf0003104a)
 - [Arrêté du 9 novembre 2000 (ECOA0020034A)](arrete-du-9-novembre-2000-ecoa0020034a)
 - [Arrêté du 11 décembre 2000 (EQUT0001915A)](arrete-du-11-decembre-2000-equt0001915a)
 - [Arrêté du 13 décembre 2000 (ECOP0000937A)](arrete-du-13-decembre-2000-ecop0000937a)
