@@ -2,21 +2,19 @@
 
 Le concours comporte les deux épreuves suivantes :
 
-I. - Une épreuve écrite d'admissibilité (durée : trois heures ; coefficient 3) :
+I. - Une épreuve écrite d'admissibilité (durée : trois heures ; coefficient 1) :
 
-Composition sur un sujet portant, au choix des candidats lors de l'inscription, sur l'une des options suivantes :
+Rédaction d'une note résumant les éléments d'un dossier remis aux candidats et portant, au choix des candidats lors de l'inscription, sur l'une des options suivantes :
 
-Option n° 1 : droit social et administration générale des affaires maritimes ;
+Option n° 1 : droit social et administration générale des affaires maritimes (1) ;
 
-Option n° 2 : navigation et sécurité ;
+Option n° 2 : navigation et sécurité (2) ;
 
-Option n° 3 : pêches, cultures marines et environnemment.
+Option n° 3 : pêches, cultures marines et environnement (2).
 
-Cette épreuve est destinée à apprécier les connaissances et les qualités de réflexion des candidats, leur capacité à analyser et comprendre un problème relatif à l'option choisie et leur aptitude à formuler des propositions.
+Cette épreuve est destinée à apprécier les qualités de réflexion, de compréhension des candidats et leur capacité d'analyse et de synthèse d'un problème relatif à l'option choisie.
 
-Un dossier correspondant à l'option retenue est remis aux candidats au début de l'épreuve.
-
-II. - Une épreuve orale d'admission (durée : trente minutes ; coefficient 4) :
+II. - Une épreuve orale d'admission (durée : trente minutes ; coefficient 1) :
 
 L'épreuve orale consiste en un entretien avec le jury visant à apprécier la compétence professionnelle des candidats, leur aptitude à animer une équipe de travail et à exercer les fonctions normalement confiées aux contrôleurs des affaires maritimes de classe exceptionnelle.
 
