@@ -1,6 +1,6 @@
 # Article 2
 
-Dans les quatre mois qui suivent le premier semestre de l'exercice, les entreprises émettrices de billets de trésorerie publient, dans un journal d'annonces légales et en cas d'appel public à l'épargne au Bulletin d'annonces légales obligatoires, un rapport ainsi qu'un tableau d'activité et de résultats semestriels.
+Dans les trois mois qui suivent le premier semestre de l'exercice, les entreprises émettrices de billets de trésorerie publient, dans un journal d'annonces légales et en cas d'appel public à l'épargne au Bulletin d'annonces légales obligatoires, un rapport ainsi qu'un tableau d'activité et de résultats semestriels.
 
 Le tableau indique notamment le montant net du chiffre d'affaires et le résultat courant avant impôt établi sur la base des éléments prévus aux articles 14 à 16 du décret n° 83-1020 du 29 novembre 1983 relatif aux obligations comptables des commerçants et de certaines sociétés. Chacun des postes du tableau est comparé au poste correspondant de l'exercice précédent et du premier semestre de cet exercice.
 
