@@ -1,0 +1,3 @@
+# Article 20
+
+L'institution d'utilité commune est dissoute, de plein droit, par l'achèvement de l'opération en vue de laquelle elle avait été instituée. Elle peut également être dissoute soit par arrêté conjoint des préfets de région selon la procédure prévue pour sa création, soit d'office, par décret en Conseil d'Etat motivé, sur le rapport du ministre de l'intérieur ou du ministre chargé des départements d'outre-mer et du ministre de l'économie et des finances, après consultation des conseils régionaux et des comités économiques et sociaux intéressés. Le texte prononçant la dissolution détermine, sous la réserve des droits des tiers, les conditions dans lesquelles s'opère la liquidation de l'institution d'utilité commune.
