@@ -4,4 +4,4 @@ Le Gouvernement peut à tout moment faire programmer par les sociétés national
 
 Les émissions sont annoncées comme émanant du Gouvernement.
 
-Elles peuvent donner lieu à un droit de réplique dont les modalités sont fixées par la Commission nationale de la communication et des libertés.
+Elles peuvent donner lieu à un droit de réplique dont les modalités sont fixées par le Conseil supérieur de l'audiovisuel.

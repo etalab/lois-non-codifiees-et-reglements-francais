@@ -2,7 +2,7 @@
 
 Sera puni de la peine prévue au premier alinéa de l'article 78 :
 
-1° Quiconque aura méconnu des dispositions des cahiers des charges et des décrets prévus aux articles 27, 33 et 43 et relatives au nombre et à la nationalité des oeuvres cinématographiques diffusées et aux rediffusions, à la grille horaire de programmation de ces oeuvres et au délai au terme duquel leur diffusion peut intervenir ;
+1° Quiconque aura méconnu les dispositions des cahiers des charges et des décrets prévus aux articles 27, 33 et 43, ainsi que des cahiers des charges annexés aux contrats de concession pour l'exploitation des services de communication audiovisuelle, et relatives au nombre et à la nationalité des oeuvres cinématographiques diffusées et aux rediffusions, à la grille horaire de programmation de ces oeuvres et au délai au terme duquel leur diffusion peut intervenir ;.
 
 2° Quiconque aura méconnu les dispositions de l'article 89 de la loi n° 82-652 du 29 juillet 1982 précitée.
 

@@ -1,25 +1,17 @@
 # Article 4
 
-La Commission nationale de la communication et des libertés est une autorité administrative indépendante qui comprend treize membres nommés par décret [*composition, nombre*] :
+Le Conseil supérieur de l'audiovisuel comprend neuf membres nommés par décret du Président de la République. Trois membres sont désignés par le Président de la République, trois membres sont désignés par le président de l'Assemblée nationale et trois membres par le président du Sénat.
 
-1° Deux membres désignés par le Président de la République, deux membres désignés par le président de l'Assemblée nationale, deux membres désignés par le président du Sénat ;
+Ils ne peuvent être nommés au-delà de l'âge de soixante-cinq ans.
 
-2° Un membre ou un membre honoraire du Conseil d'Etat élu par les membres du Conseil d'Etat ayant au moins atteint le grade de conseiller d'Etat ;
+Le président est nommé par le Président de la République pour la durée de ses fonctions de membre du conseil. En cas d'empêchement du président, pour quelque cause que ce soit, la présidence est assurée par le membre du conseil le plus âgé.
 
-3° Un magistrat ou un magistrat honoraire du siège ou du ministère public de la Cour de cassation élu par les membres de la Cour de cassation ayant au moins atteint le grade de conseiller ou d'avocat général ;
+Le mandat des membres du conseil est de six ans. Il n'est ni révocable, ni renouvelable. Il n'est pas interrompu par les règles concernant la limite d'âge éventuellement applicables aux intéressés.
 
-4° Un magistrat ou un magistrat honoraire de la Cour des comptes élu par les membres de la Cour des comptes ayant au moins atteint le grade de conseiller-maître ;
+Le conseil se renouvelle par tiers tous les deux ans.
 
-5° Un membre de l'Académie française élu par celle-ci ;
+En cas de vacance survenant plus de six mois avant l'expiration du mandat, il est pourvu à la nomination, dans les conditions prévues au présent article, d'un nouveau membre dont le mandat expire à la date à laquelle aurait expiré le mandat de la personne qu'il remplace. Son mandat peut être renouvelé s'il a occupé ces fonctions de remplacement pendant moins de deux ans.
 
-6° Une personnalité qualifiée dans le secteur de la création audiovisuelle, une personnalité qualifiée dans le secteur des télécommunications et une personnalité qualifiée dans le secteur de la presse écrite, cooptées par les dix membres prévus ci-dessus.
+Le Conseil supérieur de l'audiovisuel ne peut délibérer que si six au moins de ses membres sont présents. Il délibère à la majorité des membres présents. Le président à voix prépondérante en cas de partage égal des voix.
 
-Au premier tour [*scrutin*] des élections prévues aux 2°, 3° et 4° ci-dessus, la majorité des deux tiers est requise.
-
-Le mandat des membres de la commission est de neuf ans [*durée*]  ; il n'est ni renouvelable, ni révocable. Il n'est pas interrompu par les règles concernant la limite d'âge éventuellement applicables aux intéressés.
-
-Il est pourvu aux vacances survenant plus de six mois [*délai*] avant l'expiration du mandat des membres de la commission par une désignation faite, pour la durée du mandat restant à courir, dans les conditions prévues au présent article.
-
-La commission élit en son sein son président pour la durée de ses fonctions de membre de la commission.
-
-La Commission nationale de la communication et des libertés ne peut délibérer que si huit de ses membres sont présents [*quorum*] . Elle délibère à la majorité des membres présents ; en cas de partage égal des voix, celle du président est prépondérante.
+Le Conseil supérieur de l'audiovisuel établit son règlement intérieur.

@@ -1,10 +1,10 @@
 # Article 1
 
-Pour l'application de l'article 99 de la loi n° 86-1067 du 30 septembre 1986 susvisée, il est créé une commission chargée de veiller *attributions* à la régularité des opérations de tirage au sort relatives à la désignation de trois *nombre* des six membres de la Commission nationale de la communication et des libertés dont la durée du mandat est fixée à cinq ans.
+Pour l'application de l'article 99 de la loi n° 86-1067 du 30 septembre 1986 susvisée, il est créé une commission chargée de veiller à la régularité des opérations de tirage au sort relatives à la désignation de trois des six membres du Conseil supérieur de l'audiovisuel dont la durée du mandat est fixée à cinq ans.
 
-Cette commission comprend *composition* :
+Cette commission comprend :
 
-1° Un représentant du garde des sceaux, ministre de la justice, qui assure la présidence de la commission ;
+1° Un représentant du garde des sceaux, ministre de la justice, qui assure la présidence du conseil ;
 
 2° Un représentant du ministre de la culture et de la communication ;
 

@@ -1,13 +1,13 @@
 # Article 27
 
-I. - Des décrets en Conseil d'Etat, pris après avis de la Commission nationale de la communication et des libertés, fixent, pour l'exploitation de chaque catégorie de services de communication audiovisuelle diffusés par voie hertzienne terrestre ou par satellite autres que ceux assurés par les sociétés nationales de programme mentionnées aux articles 44 et 45 :
+Compte tenu des missions d'intérêt général des organismes du secteur public et des différentes catégories de services de communication audiovisuelle diffusés par voie hertzienne terrestre ou par satellite, des décrets en Conseil d'Etat fixent les principes généraux définissant les obligations concernant :
 
-1° Les règles applicables à la publicité et au parrainage ;
+1° La publicité [Dispositions déclarées inséparables des dispositions de l'article 11 déclarées contraires à la Constitution par décision du Conseil constitutionnel n° 88-248 DC du 17 janvier 1989.] ;
 
-2° Le régime de diffusion des oeuvres cinématographiques et audiovisuelles.
+2° La diffusion, en particulier aux heures de grande écoute, d'oeuvres cinématographiques et audiovisuelles en majorité d'expression originale française et originaires de la Communauté économique européenne ;
 
-II. - La Commission nationale de la communication et des libertés fixe, pour l'exploitation de chaque catégorie de services de communication audiovisuelle diffusés par voie hertzienne terrestre ou par satellite autres que ceux assurés par les sociétés nationales de programme mentionnées aux articles 44 et 45 :
+3° La contribution au développement de la production cinématographique et audiovisuelle et les dépenses minimales consacrées à l'acquisition de droits de diffusion d'oeuvres cinématographiques et audiovisuelles ainsi que l'indépendance des producteurs à l'égard des diffuseurs.
 
-1° Les règles générales de programmation ;
+Ces décrets sont pris après avis du Conseil supérieur de l'audiovisuel. Cet avis motivé est publié au Journal officiel de la République française, ainsi que le rapport de présentation du décret.
 
-2° Les conditions générales de production des oeuvres diffusées, et notamment la part maximale d'émissions produites par l'exploitant du service.
+[Dispositions déclarées contraires à la Constitution par décision du Conseil constitutionnel n° 88-248 DC du 17 janvier 1989.]
