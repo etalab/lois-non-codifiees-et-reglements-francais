@@ -20,4 +20,8 @@ En ce qui concerne le décompte de la période des versements donnant droit aux 
 
 Il sera délivré à l'agent deux livrets, un pour la retraite ouvrière et paysanne, et un autre pour la caisse nationale des retraites pour la vieillesse, livrets qui seront sa propriété personnelle et où figureront les sommes portées à son compte, calculées comme il est indiqué ci-dessus.
 
-Un agent pourra passer d'une compagnie dans une autre et continuera à être affilié au régime des retraites de la caisse autonome, mais ce, sous la double condition de faire partie du cadre permanent de la nouvelle compagnie, et de subir un stage d'un an avec versements ne comptant pas dans la durée de service exigée pour la retraite.
+Un agent pourra passer d'une compagnie dans une autre et continuera à être affilié au régime des retraites de la caisse autonome, mais ce, sous la double condition de faire partie du cadre permanent de la nouvelle compagnie et de subir un stage d'un an avec versements ne comptera pas dans la durée de service exigée pour la retraite.
+
+Toutefois, le stage ci-dessus ne sera pas exigé, si la mutation d'une compagnie à une autre a lieu avec l'assentiment des deux compagnies intéressées.
+
+Dans tous les cas, les droits antérieurs acquis par l'agent à bénéficier des avantages du régime des retraites de la caisse autonome lui sont conservés.

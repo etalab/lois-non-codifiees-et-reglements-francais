@@ -8,6 +8,8 @@ L'entrée en jouissance de la pension sera alors reculée aussi longtemps que le
 
 Sera classé dans la catégorie du personnel roulant tout agent ayant fait au moins quinze ans dans ce service roulant.
 
-Le temps qui sera passé sous les drapeaux, en sus du service dans l'armée active, entrera, en cas de mobilisation, en ligne de compte dans la durée de service. Pour bénéficier de cet avantage, les agents mobilisés devront avoir appartenu au personnel du réseau au moins une période continue d'un an avant la date de leur mobilisation et y avoir repris leur emploi dans le délai de six mois suivant leur démobilisation.
+Le temps passé ou à passer sous les drapeaux, en sus du service dans l'armée active, entre - en cas de mobilisation - en ligne de compte dans la durée du service.
 
-Dans tous les cas, l'entrée en jouissance de la pension partira du 1er du mois qui suivra la date réelle de la mise à la retraite.
+Pour bénéficier de cet avantage, les agents mobilisés devront avoir appartenu au personnel du réseau pendant au moins une période continue d'un an avant la date de leur mobilisation et y avoir repris leur emploi dans le délai de six mois suivant leur démobilisation, ou dans le délai de six mois qui suivra la remise en exploitation du réseau au cas où celle-ci aurait été interrompue du fait des hostilités.
+
+Dans tous les cas l'entrée en jouissance de la pension partira du 1er du mois qui suivra la date réelle de la mise à la retraite.
