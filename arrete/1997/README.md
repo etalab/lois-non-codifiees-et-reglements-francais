@@ -178,6 +178,7 @@
 - [Arrêté du 27 décembre 1996 (BUDR9606070A)](arrete-du-27-decembre-1996-budr9606070a)
 - [Arrêté du 27 décembre 1996 (ECOS9650045A)](arrete-du-27-decembre-1996-ecos9650045a)
 - [Arrêté du 27 décembre 1996 (INTB9600568A)](arrete-du-27-decembre-1996-intb9600568a)
+- [Arrêté du 27 décembre 1996 (INTB9700004A)](arrete-du-27-decembre-1996-intb9700004a)
 - [Arrêté du 27 décembre 1996 (INTE9700002A)](arrete-du-27-decembre-1996-inte9700002a)
 - [Arrêté du 27 décembre 1996 (JUSA9600407A)](arrete-du-27-decembre-1996-jusa9600407a)
 - [Arrêté du 27 décembre 1996 (MIPP9600526A)](arrete-du-27-decembre-1996-mipp9600526a)
