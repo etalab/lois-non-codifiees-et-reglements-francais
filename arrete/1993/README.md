@@ -990,7 +990,6 @@
 - [Arrêté du 26 février 1993 (RESY9300114A)](arrete-du-26-fevrier-1993-resy9300114a)
 - [Arrêté du 26 février 1993 (SPSS9300624A)](arrete-du-26-fevrier-1993-spss9300624a)
 - [Arrêté du 26 février 1993 (TEFG9310026A)](arrete-du-26-fevrier-1993-tefg9310026a)
-- [Arrêté du 26 janvier 1993 (BUDD9340002A)](arrete-du-26-janvier-1993-budd9340002a)
 - [Arrêté du 26 janvier 1993 (BUDF9300002A)](arrete-du-26-janvier-1993-budf9300002a)
 - [Arrêté du 26 janvier 1993 (MENN9304179A)](arrete-du-26-janvier-1993-menn9304179a)
 - [Arrêté du 26 janvier 1993 (TEFE9300078A)](arrete-du-26-janvier-1993-tefe9300078a)
