@@ -1,3 +1,7 @@
 # Article 1
 
-Le relèvement du taux de la taxe spécifique sur certains produits pétroliers, prévu à l'article 3 de la loi du 3 août 1982 susvisée, prend effet le 12 janvier 1983, à zéro heure.
+Pour la campagne 1982-1983, les contingents de production des alcools d'origine cidricole sont fixés respectivement à :
+
+30.000 hectolitres pour l'alcool de résorption ;
+
+30.000 hectolitres pour l'alcool de sélection.
