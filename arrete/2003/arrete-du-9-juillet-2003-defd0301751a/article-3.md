@@ -12,6 +12,8 @@ La sous-direction ressources humaines comprend :
 
 - le bureau formation ;
 
-- le bureau réserves et aumônerie ;
+- le bureau réserves ;
+
+- le bureau aumôneries ;
 
 - le bureau affaires communes et condition de vie.

@@ -10,8 +10,6 @@ Ecole nationale supérieure des technologies et industries du bois, Nancy-I ;
 
 Ecole nationale supérieure de physique, Strasbourg-I ;
 
-Ecole supérieure en sciences informatiques, Nice ;
-
 Ecole nationale supérieure des sciences appliquées et de technologie de Lannion, Rennes-I ;
 
 Ecole supérieure de biotechnologie de Strasbourg, Strasbourg-I ;
@@ -27,8 +25,6 @@ Ecole supérieure d'informatique et applications de Lorraine, Nancy-I ;
 Ecole nationale supérieure de biologie appliquée à la nutrition et à l'alimentation de Dijon ;
 
 Ecole nationale supérieure d'ingénieurs de Limoges, Limoges ;
-
-Ecole supérieure d'ingénieurs de Nice - Sophia-Antipolis ;
 
 Ecole nationale supérieure en génie des technologies industrielles, Pau ;
 
@@ -64,7 +60,7 @@ Ecole polytechnique de l'université de Grenoble-I ;
 
 Ecole polytechnique de l'université de Tours ;
 
-Ecole supérieure d'ingénieurs de poitiers.
+Ecole supérieure d'ingénieurs de Poitiers.
 
 Institut national polytechnique de Toulouse
 
@@ -112,4 +108,6 @@ Ecole supérieure d'ingénieurs des techniques de l'industrie ;
 
 Ecole nationale supérieure en génie des systèmes industriels ;
 
-Ecole polytechnique de l'université d'Orléans.
+Ecole polytechnique de l'université d'Orléans ;
+
+Ecole polytechnique de l'université de Nice.
