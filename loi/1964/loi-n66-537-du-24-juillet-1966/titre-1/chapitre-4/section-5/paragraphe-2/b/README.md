@@ -9,4 +9,5 @@
 - [Article 208-15](article-208-15.md)
 - [Article 208-16](article-208-16.md)
 - [Article 208-17](article-208-17.md)
+- [Article 208-18](article-208-18.md)
 - [Article 208-19](article-208-19.md)
