@@ -1,6 +1,6 @@
 # Article 2
 
-Le corps des ingénieurs comprend :
+Le corps des ingénieurs comprend, à l'exclusion des élèves ingénieurs :
 
 Des ingénieurs en chef.
 
