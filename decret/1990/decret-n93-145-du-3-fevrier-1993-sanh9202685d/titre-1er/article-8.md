@@ -2,8 +2,6 @@
 
 En application des dispositions du deuxième alinéa de l'article 4 du titre IV du statut général des fonctionnaires, plusieurs emplois d'ingénieur général peuvent être créés à l'Assistance publique - hôpitaux de Paris.
 
-Un arrêté du ministre chargé du budget et du ministre chargé de la santé fixe, sur propositions du directeur général de l'Assistance publique - hôpitaux de Paris, le nombre de ces emplois.
-
 L'emploi d'ingénieur général comprend trois échelons. L'ancienneté moyenne pour être nommé à l'échelon supérieur est de trois ans dans chacun des deux premiers échelons.
 
 Les emplois d'ingénieur général sont pourvus par voie de détachement des ingénieurs en chef de l'Assistance publique - hôpitaux de Paris ayant atteint un indice brut de rémunération au moins égal à celui du 8e échelon de la 2e classe.
