@@ -1,5 +1,6 @@
 # Arrêté du 25 avril 1969 fixant les taux et modalités de versement de la cotisation d'assurance volontaire maladie et maternité dans les professions agricoles.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
