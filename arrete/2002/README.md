@@ -386,6 +386,7 @@
 - [Arrêté du 19 décembre 2001 (JUSD0130166A)](arrete-du-19-decembre-2001-jusd0130166a)
 - [Arrêté du 19 février 2002 (MENF0200492A)](arrete-du-19-fevrier-2002-menf0200492a)
 - [Arrêté du 19 janvier 2002 (DEFP0201107A)](arrete-du-19-janvier-2002-defp0201107a)
+- [Arrêté du 19 juin 2002 (ECOP0200412A)](arrete-du-19-juin-2002-ecop0200412a)
 - [Arrêté du 19 novembre 2001 (INTE0100689A)](arrete-du-19-novembre-2001-inte0100689a)
 - [Arrêté du 20 avril 1995 (EQUS9500854A)](arrete-du-20-avril-1995-equs9500854a)
 - [Arrêté du 20 février 2002 (AGRG0200378A)](arrete-du-20-fevrier-2002-agrg0200378a)
