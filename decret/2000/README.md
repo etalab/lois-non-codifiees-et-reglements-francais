@@ -2,6 +2,7 @@
 
 - [Décret n°2000-1170 du 1 décembre 2000 (DEFP0002056D)](decret-n2000-1170-du-1-decembre-2000-defp0002056d)
 - [Décret n°2000-748 du 1 août 2000 (MESO0010921D)](decret-n2000-748-du-1-aout-2000-meso0010921d)
+- [Décret n°2000-764 du 1 août 2000 (MENS0001392D)](decret-n2000-764-du-1-aout-2000-mens0001392d)
 - [Décret n°2000-848 du 1 septembre 2000 (ECOC0000061D)](decret-n2000-848-du-1-septembre-2000-ecoc0000061d)
 - [Décret n°2000-1178 du 4 décembre 2000 (DEFD0002365D)](decret-n2000-1178-du-4-decembre-2000-defd0002365d)
 - [Décret n°2000-1194 du 5 décembre 2000 (MESG0022611D)](decret-n2000-1194-du-5-decembre-2000-mesg0022611d)
@@ -13,6 +14,7 @@
 - [Décret n°2000-511 du 8 juin 2000 (DEFP0001561D)](decret-n2000-511-du-8-juin-2000-defp0001561d)
 - [Décret n°2000-326 du 12 avril 2000 (DEFD0001317D)](decret-n2000-326-du-12-avril-2000-defd0001317d)
 - [Décret n°2000-663 du 13 juillet 2000 (FPPA0000071D)](decret-n2000-663-du-13-juillet-2000-fppa0000071d)
+- [Décret n°2000-893 du 13 septembre 2000 (RECG0071541D)](decret-n2000-893-du-13-septembre-2000-recg0071541d)
 - [Décret n°2000-1222 du 14 décembre 2000 (PRMX0000078D)](decret-n2000-1222-du-14-decembre-2000-prmx0000078d)
 - [Décret n°2000-250 du 15 mars 2000 (MENS0000215D)](decret-n2000-250-du-15-mars-2000-mens0000215d)
 - [Décret n°2000-1008 du 16 octobre 2000 (INTE0000270D)](decret-n2000-1008-du-16-octobre-2000-inte0000270d)
