@@ -1,13 +1,3 @@
 # Article 4
 
-Sont dispensés de stage et peuvent être dispensés de l'examen professionnel dans les conditions prévues à l'article 3 :
-
-1° Les personnes ayant exercé les fonctions de commissaire-priseur dans un département d'outre-mer antérieurement à la date fixée à l'article 37 ;
-
-2° Les huissiers et anciens huissiers de justice ;
-
-3° Les anciens notaires ;
-
-4° Les greffiers et anciens greffiers de tribunal d'instance ou de tribunal de police, titulaires de charge.
-
-5° Les anciens syndics et administrateurs judiciaires, les anciens administrateurs judiciaires et mandataires liquidateurs.
+Sont dispensées des conditions prévues au 6° et au 7° de l'article 2 les personnes ayant exercé pendant cinq ans au moins les fonctions de principal clerc de commissaire-priseur ou des activités professionnelles comportant des responsabilités équivalentes dans un office de commissaire-priseur ou dans un organisme statutaire de la profession.
