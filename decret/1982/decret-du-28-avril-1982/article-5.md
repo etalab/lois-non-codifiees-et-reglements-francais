@@ -1,11 +1,9 @@
 # Article 5
 
-Pour avoir droit à l'appellation "Saussignac", les vins doivent être issus de raisins récoltés à bonne maturité et présenter un titre alcoométrique volumique naturel minimum de 12,5 p. 100. Ne peut être considéré comme étant à bonne maturité tout lot de vendange présentant une richesse en sucre inférieure à 196 grammes par litre de moût.
+Les parcelles de vigne sont vendangées manuellement par tries successives. Les vins sont issus de raisins récoltés à surmaturité et présentant une concentration par action de la pourriture noble ou par passerillage naturel.
 
-Les vins doivent présenter :
+La sélection des raisins par la congélation partielle, méthode dite de cryosélection, est interdite.
 
-1° Un titre alcoométrique volumique acquis non inférieur à 11,5 p. 100 ;
+Ne peut être considéré comme étant à surmaturité tout lot unitaire de vendange présentant une richesse en sucres inférieure à 238 grammes par litre de moût.
 
-2° Une teneur en sucre résiduel de 18 grammes par litre au minimum ;
-
-3° Un titre alcoométrique volumique total de 15 p. 100 au maximum.
+Les moûts ne peuvent présenter une richesse en sucres moyenne inférieure à 289 grammes par litre.

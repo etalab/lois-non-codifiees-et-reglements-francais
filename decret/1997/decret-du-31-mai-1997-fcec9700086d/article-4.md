@@ -1,17 +1,13 @@
 # Article 4
 
-Pour avoir droit aux appellations d'origine contrôlées "Pacherenc du Vic-Bilh" et "Pacherenc du Vic-Bilh Sec", les vins doivent provenir des cépages suivants, à l'exclusion de tout autre :
+Les vins proviennent des cépages suivants :
 
-arrufiat, courbu blanc, petit manseng, gros manseng, sauvignon et sémillon.
+a) Cépages principaux : courbu B et petit manseng B. La proportion des cépages principaux ne peut être inférieure à 60 % de l'encépagement. La proportion de chacun de ces cépages ne peut être supérieure à 80 % de l'encépagement ;
 
-A partir de la récolte de l'an 2002, les vins bénéficiant des appellations d'origine contrôlées "Pacherenc du Vic-Bilh" et "Pacherenc du Vic-Bilh Sec" devront provenir des cépages suivants :
+b) Cépages secondaires : arrufiac B, gros manseng B, sauvignon B. La proportion du cépage sauvignon B ne peut être supérieure à 10 % de l'encépagement.
 
-Gros Manseng ;
+L'encépagement est compris comme celui de la totalité des parcelles de l'exploitation produisant le vin des appellations en cause.
 
-Arrufiat, dans une proportion supérieure à 30 % de l'encépagement ;
+Les vins proviennent de l'assemblage de raisins ou de vins issus de deux au moins des cépages visés au présent article, dont un cépage principal.
 
-Courbu blan et Petit Manseng ; ces deux cépages, avec l'Arrufiat, devant représenter au moins 60 % de l'encépagement ;
-
-Sauvignon blanc et Sémillon, l'ensemble de ces deux cépages ne devant pas dépasser 10 % de l'encépagement.
-
-Dans cet article, par le terme encépagement, il faut comprendre l'encépagement de la totalité des parcelles produisant les appellations d'origine contrôlées "Pacherenc du Vic-Bilh" et "Pacherenc du Vic-Bilh Sec".
+Lorsqu'ils sont vinifiés séparément, les vins issus de différents cépages sont assemblés dans les récipients vinaires préalablement au prélèvement prévu à l'article R. 641-96 du code rural.

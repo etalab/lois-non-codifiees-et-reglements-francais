@@ -14,6 +14,16 @@ Les véhicules ou ensembles de véhicules doivent porter, suivant les cas, un ou
 
 6. Véhicules, ensembles de véhicules d'un poids total supérieur à 12 tonnes transportant des matières dangereuses, possédant les caractéristiques techniques particulières visées à l'article R. 10-2 du code de la route : 80, 70, 60 ;
 
-7. Véhicules, ensembles de véhicules d'un poids total supérieur à 12 tonnes autres que ceux visés au point 6 transportant des matières dangereuses : 80, 60.
+7. Véhicules, ensembles de véhicules d'un poids total supérieur à 12 tonnes autres que ceux visés au point 6 transportant des matières dangereuses : 80, 60 ;
+
+8. Véhicules agricoles
+
+8.1 Machines agricoles automotrices, définies au point A (2°) de l'article R. 138 du code de la route : 25 ;
+
+8.2 Véhicules et appareils agricoles remorqués, définis au point A (3°) de l'article R. 138 du code de la route : 25 ;
+
+9. Les véhicules de transport en commun de personnes d'un poids total autorisé en charge inférieur ou égal à 10 tonnes visés à l'article R. 317-6-1 du code de la route : 100 ;
+
+10. Les véhicules, autres que les transports en commun de personnes, d'un poids total autorisé en charge supérieur à 3,5 tonnes et inférieur ou égal à 12 tonnes visés à l'article R. 317-6-1 du code de la route : 90, 80.
 
 Il sera toléré qu'un véhicule ou élément de véhicule remorqué appartenant à un ensemble de véhicules visé au point 3 porte les disques prévus aux points 5, 6 ou 7 ci-dessus, sous réserve que l'ensemble respecte les limitations affichées à l'arrière du véhicule.

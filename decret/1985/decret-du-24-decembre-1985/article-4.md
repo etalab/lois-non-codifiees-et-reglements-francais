@@ -1,5 +1,7 @@
 # Article 4
 
+L'encépagement est compris comme celui de la totalité des parcelles de l'exploitation produisant respectivement le vin de l'appellation d'origine contrôlée "Coteaux du Languedoc" ou de l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée de l'un des noms visés à l'article 2 du présent décret pour la couleur considérée.
+
 1. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" suivie ou non de l'un des noms Cabrières, Coteaux de Saint-Christol, Coteaux de Vérargues, La Méjanelle, Montpeyroux, Quatourze, Saint-Drézéry, Saint-Georges-d'Orques, Saint-Saturnin, les vins rouges et rosés doivent provenir d'au moins deux des cépages suivants :
 
 a) Cépages principaux :
@@ -36,7 +38,7 @@ Cépages complémentaires : carignan N, cinsault N.
 
 c) Vins blancs :
 
-Cépages principaux : bourboulenc B, clairette B, grenache B, marsanne B, piquepoul B, rolle B, roussanne B. Le bourboulenc B doit représenter au minimum 40 % de la surface revendiquée dans ladite appellation.
+Cépages principaux : bourboulenc B, clairette B, grenache B, marsanne B, piquepoul B, vermentino B, roussanne B. Le bourboulenc B doit représenter au minimum 40 % de la surface revendiquée dans ladite appellation.
 
 L'ensemble grenache B et bourboulenc B doit représenter au minimum 60 % de la surface revendiquée dans ladite appellation. Un assemblage d'au moins deux cépages est obligatoire.
 
@@ -48,17 +50,13 @@ La plantation de carignan B, de maccabeo B et d'ugni B est interdite à compter 
 
 Dans cet article par le terme "encépagement", il faut comprendre l'encépagement de l'ensemble des parcelles produisant le vin de l'appellation considérée complétée ou non par l'un des noms mentionnés à l'article 2, pour la couleur considérée.
 
-4. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" sans aucune autre indication d'origine géographique complémentaire, les vins blancs doivent provenir des cépages suivants, à l'exclusion de tout autre :
+4. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" sans aucune indication d'origine géographique complémentaire, les vins blancs doivent provenir des cépages suivants :
 
-a) Cépages principaux : grenache B, clairette B, bourboulenc B, piquepoul B, marsanne B, roussanne B, rolle B.
+a) Cépages principaux : grenache blanc B, clairette B, bourboulenc B, piquepoul blanc B, marsanne B, roussanne B, vermentino B. Les vins proviennent de l'assemblage de raisins ou de vins issus de deux au moins de ces cépages.
 
-L'assemblage d'au moins deux cépages dans le vin d'appellation est obligatoire ;
+b) Cépages complémentaires : macabeu B, terret blanc B, carignan blanc B, ugni blanc B, viognier B. La proportion de l'ensemble de ces cépages ne peut être supérieure à 30 % de l'encépagement. La proportion du cépage viognier B ne peut être supérieure à 10 % de l'encépagement.
 
-b) Cépages complémentaires : maccabéo B, terret B, carignan B, ugni B ; l'ensemble de ces cépages ne doit pas dépasser 30 % de l'encépagement global.
-
-La plantation d'ugni B, de maccabéo B et de carignan B est interdite à compter de la date de parution du décret.
-
-Dans cet article, par le terme "encépagement", il faut comprendre l'encépagement de l'ensemble des parcelles produisant le vin de l'appellation considérée complétée ou non par l'un des noms mentionnés à l'article 2, pour la couleur considérée.
+Les cépages macabeu B, carignan blanc B et ugni blanc B ne sont autorisés que pour les parcelles plantées avant le 19 février 1998.
 
 5. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" suivie de la dénomination "Pic-Saint-Loup", les vins doivent provenir exclusivement des cépages suivants, à l'exclusion de tout autre :
 
@@ -91,3 +89,15 @@ Grenache N, mourvèdre N, syrah N. Le grenache N doit représenter au moins 20 %
 b) Cépages complémentaires :
 
 Carignan N.
+
+7. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Terrasses du Larzac", les vins rouges proviennent des cépages grenache N, mourvèdre N, syrah N, carignan N, cinsaut N.
+
+La proportion de l'ensemble des trois cépages grenache N, mourvèdre N et syrah N ne peut être inférieure à 60 % de l'encépagement. La proportion de chacun des trois cépages grenache N, mourvèdre N, syrah N ne peut être supérieure à 75 % de l'encépagement. La proportion des cépages mourvèdre N et syrah N, ensemble ou séparément, ne peut être inférieure à 20 % de l'encépagement.
+
+Si l'encépagement comporte le cépage carignan N, la proportion du cépage grenache N ne peut être inférieure à 20 % de l'encépagement.
+
+La proportion du cépage cinsaut N ne peut être supérieure à 30 % de l'encépagement.
+
+Les vins proviennent de l'assemblage de raisins ou de vins issus de deux au moins des cépages visés au présent paragraphe.
+
+Lorsqu'ils sont vinifiés séparément, les vins issus des différents cépages sont assemblés dans les récipients vinaires préalablement au prélèvement prévu à l'article R. 641-96 du code rural.

@@ -10,4 +10,6 @@
 - [Critères biologiques et microbiologiques applicables aux aliments diététiques et de régime de l'enfance.](criteres-biologiques-et)
 - [LIMITES MAXIMALES POUR LES VITAMINES, LES SUBSTANCES MINÉRALES ET LES OLIGOÉLÉMENTS AJOUTÉS AUX PRÉPARATIONS À BASE DE CÉRÉALES ET AUX ALIMENTS POUR BÉBÉS DESTINÉS AUX NOURRISSONS ET AUX ENFANTS EN BAS ÂGE.](limites-maximales-pour-les-vitamines-les-substances-minerales-et)
 - [Teneurs en acides aminés des protéines de caséine et de lait maternel.](teneurs-en-acides-amines-des-proteines-de-caseine-et)
+- [PESTICIDES NE POUVANT PAS ÊTRE UTILISÉS POUR LA PRODUCTION AGRICOLE DESTINÉE À LA FABRICATION DE PRÉPARATIONS POUR NOURRISSONS, PRÉPARATIONS DE SUITE, PRÉPARATIONS À BASE DE CÉRÉALES ET ALIMENTS POUR BÉBÉS](pesticides-ne)
+- [TENEURS MAXIMALES SPÉCIFIQUES EN RÉSIDUS DES PESTICIDES OU MÉTABOLITES DE PESTICIDES DANS LES PRÉPARATIONS POUR NOURRISSONS ET LES PRÉPARATIONS DE SUITE, LES PRÉPARATIONS À BASE DE CÉRÉALES ET LES ALIMENTS POUR BÉBÉS](teneurs-maximales-specifiques-en-residus-des-pesticides-ou)
 - [Critères de composition pour les préparations pour nourrissons autorisant une allégation.](criteres-de-composition-pour-les-preparations-pour-nourrissons-autorisant-une)

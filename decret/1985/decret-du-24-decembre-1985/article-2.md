@@ -54,22 +54,18 @@ et provenir de l'encépagement figurant à l'article 4 ci-après.
 
 5. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc", sans autre indication complémentaire d'origine géographique, les vins blancs doivent être issus de l'aire de production correspondant à l'ensemble des communes mentionnées aux paragraphes 1, 2 et 4 du présent article, et provenir de l'encépagement figurant à l'article 4, paragraphe 4.
 
-6. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" suivie obligatoirement par la dénomination "Grès de Montpellier", les vins rouges sont issus de l'aire de production délimitée suivante, telle qu'elle a été approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en sa séance des 5 et 6 juin 2002 :
+6. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" suivie obligatoirement du nom "Grès de Montpellier", les vins rouges proviennent de raisins issus de parcelles ayant fait l'objet d'une procédure d'identification et situées dans l'aire géographique de production approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en sa séance des 5 et 6 juin 2002 et constituée par le territoire des communes suivantes dans le département de l'Hérault :
 
 Communes en totalité :
 
-Aumelas, Beaulieu, Boisseron, Campagne, Castelnau-le-Lez, Castries, Combaillaux, Cournonsec, Cournonterral, Garrigues, Juvignac, Lavérune, Lunel, Lunel-Viel, Mauguio, Montagnac, Montbazin, Montpellier, Murviel-lès-Montpellier, Pignan, Plaissan, Poussan, Prades-le-Lez, Restinclières, Saturargues, Saint-Aunès, Saint-Bauzille-de-la-Sylve, Saint-Bauzille-de-Montmel, Saint-Christol, Saint-Clément-de-Rivière, Saint-Drézéry, Saint-Geniès-des-Mourgues, Saint-Georges-d'Orques, Saint-Pargoire, Saint-Pons-de-Mauchiens, Saint-Sériès, Saint-Vincent-de- Barbeyrargues, Sussargues, Vailhauquès, Vendémian, Vérargues, Villeneuve-lès-Maguelone, Villeveyrac.
+Aumelas, Beaulieu, Boisseron, Campagne, Castelnau-le-Lez, Castries, Combaillaux, Cournonsec, Cournonterral, Garrigues, Juvignac, Lavérune, Lunel, Lunel-Viel, Mauguio, Montagnac, Montbazin, Montpellier, Murviel-lès-Montpellier, Pignan, Plaissan, Poussan, Prades-le-Lez, Restinclières, Saturargues, Saint-Aunès, Saint-Bauzille-de-la-Sylve, Saint-Bauzille-de-Montmel, Saint-Christol, Saint-Clément-de-Rivière, Saint-Drézéry, Saint-Geniès-des-Mourgues, Saint-Georges-d'Orques, Saint-Pargoire, Saint-Pons-de-Mauchiens, Saint-Sériès, Saint-Vincent-de-Barbeyrargues, Sussargues, Vailhauquès, Vendémian, Vérargues, Villeneuve-lès-Maguelone, Villeveyrac.
 
-Communes en partie, pour lesquelles un plan est déposé en mairie :
+Communes en partie pour lesquelles il est fait référence aux plans cadastraux déposés en mairie : Assas, Gignac, Guzargues.
 
-Assas, Gignac, Guzargues.
+7. Pour avoir droit à l'appellation d'origine contrôlée "Coteaux du Languedoc" complétée du nom "Terrasses du Larzac", les vins rouges proviennent de raisins issus de parcelles ayant fait l'objet d'une procédure d'identification et situées dans l'aire géographique de production approuvée par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en sa séance des 27 et 28 mai 2004 et constituée par le territoire des communes suivantes dans le département de l'Hérault :
 
-Ils doivent en outre provenir de raisins récoltés sur des parcelles ayant fait l'objet d'une procédure d'identification.
+Communes en totalité :
 
-L'identification des parcelles est faite sur la base de critères relatifs à leur lieu d'implantation, fixés par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine en sa séance des 13 et 14 février 2002 après avis de la commission d'experts désignée à cet effet.
+Aniane, Arboras, Argelliers, Bosc (Le), Brissac, Causse-de-la-Selle, Ceyras, Jonquières, Lagamas, Lauroux, Mérifons, Montoulieu, Montpeyroux, Moulès-et-Baucels, Murles, Octon, Pégairolles-de-Buègues, Pégairolles-de-l'Escalette, Poujols, Puéchabon, Saint-André-de-Buègues, Saint-André-de-Sangonis, Saint-Félix-de-Lodez, Saint-Guiraud, Saint-Jean-de-Buèges, Saint-Jean-de-Fos, Saint-Jean-de-la-Blaquière, Saint-Privat, Saint-Saturnin, Soubès, Usclas-du-Bosc.
 
-Tout producteur désirant faire identifier une parcelle de vigne doit en faire la demande auprès des services de l'Institut national des appellations d'origine avant le 1er mars de l'année de la récolte.
-
-La liste des parcelles identifiées est approuvée chaque année par le comité national des vins et eaux-de-vie de l'Institut national des appellations d'origine, après avis de ladite commission d'experts.
-
-Les critères et la liste des parcelles identifiées sont consultables auprès de l'Institut national des appellations d'origine et du syndicat de défense intéressé.
+Communes en partie, pour lesquelles il est fait référence aux plans cadastraux déposés en mairie : Gignac.
