@@ -460,6 +460,7 @@
 - [Arrêté du 19 mars 1990 (EQUM9001179A)](arrete-du-19-mars-1990-equm9001179a)
 - [Arrêté du 19 mars 1990 (SPSM9000677A)](arrete-du-19-mars-1990-spsm9000677a)
 - [Arrêté du 19 septembre 1990 (DEFD9001971A)](arrete-du-19-septembre-1990-defd9001971a)
+- [Arrêté du 19 septembre 1990 (SPSS9002008A)](arrete-du-19-septembre-1990-spss9002008a)
 - [Arrêté du 19 septembre 1991 (SANH9101800A)](arrete-du-19-septembre-1991-sanh9101800a)
 - [Arrêté du 20 août 1990 (EQUP9000818A)](arrete-du-20-aout-1990-equp9000818a)
 - [Arrêté du 20 avril 1990 (PRME9061064A)](arrete-du-20-avril-1990-prme9061064a)
