@@ -151,6 +151,7 @@
 - [Décret n°2004-230 du 16 mars 2004 (SOCA0420605D)](decret-n2004-230-du-16-mars-2004-soca0420605d)
 - [Décret n°2004-235 du 16 mars 2004 (MCCB0300627D)](decret-n2004-235-du-16-mars-2004-mccb0300627d)
 - [Décret n°2004-239 du 16 mars 2004 (SOCS0420579D)](decret-n2004-239-du-16-mars-2004-socs0420579d)
+- [Décret n°2004-331 du 16 avril 2004 (ECOF0400019D)](decret-n2004-331-du-16-avril-2004-ecof0400019d)
 - [Décret n°2004-64 du 16 janvier 2004 (INTX0300216D)](decret-n2004-64-du-16-janvier-2004-intx0300216d)
 - [Décret n°2004-67 du 16 janvier 2004 (MENS0302822D)](decret-n2004-67-du-16-janvier-2004-mens0302822d)
 - [Décret n°2004-68 du 16 janvier 2004 (BUDD0370018D)](decret-n2004-68-du-16-janvier-2004-budd0370018d)
