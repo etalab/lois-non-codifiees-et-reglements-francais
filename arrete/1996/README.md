@@ -480,7 +480,6 @@
 - [Arrêté du 13 septembre 1996 (EQUA9601261A)](arrete-du-13-septembre-1996-equa9601261a)
 - [Arrêté du 13 septembre 1996 (MIPP9600316A)](arrete-du-13-septembre-1996-mipp9600316a)
 - [Arrêté du 13 septembre 1996 (TASE9611155A)](arrete-du-13-septembre-1996-tase9611155a)
-- [Arrêté du 13 septembre 1996 (TASG9623483A)](arrete-du-13-septembre-1996-tasg9623483a)
 - [Arrêté du 13 mai 1996 (DEFD9601477A)](arrete-du-13-mai-1996-defd9601477a)
 - [Arrêté du 13 mai 1996 (INTC9600210A)](arrete-du-13-mai-1996-intc9600210a)
 - [Arrêté du 13 mai 1996 (MENP9600834A)](arrete-du-13-mai-1996-menp9600834a)
