@@ -9,6 +9,7 @@
 - [Décret n°67-172 du 6 mars 1967](decret-n67-172-du-6-mars-1967)
 - [Décret n°67-174 du 6 mars 1967](decret-n67-174-du-6-mars-1967)
 - [Décret n°68-128 du 7 février 1968](decret-n68-128-du-7-fevrier-1968)
+- [Décret du 8 mai 1967](decret-du-8-mai-1967)
 - [Décret n°67-27 du 9 janvier 1967](decret-n67-27-du-9-janvier-1967)
 - [Décret n°67-30 du 9 janvier 1967](decret-n67-30-du-9-janvier-1967)
 - [Décret n°67-385 du 9 mai 1967](decret-n67-385-du-9-mai-1967)
