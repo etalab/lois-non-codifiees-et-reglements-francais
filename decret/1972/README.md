@@ -24,5 +24,7 @@
 - [Décret n°72-887 du 28 septembre 1972](decret-n72-887-du-28-septembre-1972)
 - [Décret n°72-889 du 28 septembre 1972](decret-n72-889-du-28-septembre-1972)
 - [Décret n°73-374 du 28 mars 1973](decret-n73-374-du-28-mars-1973)
+- [Décret n°72-83 du 29 janvier 1972](decret-n72-83-du-29-janvier-1972)
+- [Décret n°72-85 du 29 janvier 1972](decret-n72-85-du-29-janvier-1972)
 - [Décret n°71-1114 du 30 décembre 1971](decret-n71-1114-du-30-decembre-1971)
 - [Décret n°72-556 du 30 juin 1972](decret-n72-556-du-30-juin-1972)

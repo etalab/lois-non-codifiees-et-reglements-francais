@@ -1,0 +1,3 @@
+# Article 8
+
+Les réclamations formulées à l'encontre des décisions prises par l'organisme ou le service compétent pour l'attribution de l'allocation aux mineurs handicapés sont, dans le cas où la contestation porte sur l'appréciation d'une des questions sur lesquelles la commission départementale d'orientation des infirmes (section des mineurs) a été ou eût dû être appelée à donner son avis en application de l'article 6 ci-dessus, portées devant les juridictions du contentieux technique de la sécurité sociale statuant dans les conditions prévues pour l'application de la loi susvisée n° 63-775 du 31 juillet 1963 ; dans les autres cas, les juridictions du contentieux général de la sécurité sociale sont compétentes pour en connaître.
