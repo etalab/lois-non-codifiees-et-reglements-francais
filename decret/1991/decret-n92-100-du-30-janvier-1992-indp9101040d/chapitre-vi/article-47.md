@@ -1,17 +1,15 @@
 # Article 47
 
-Le bénéfice des dispositions de l'article 22 de la loi susvisée du 4 janvier 1991 [*rétention en douanes des marchandises arguées de contrefaçon*] est subordonné au dépôt d'une demande écrite précisant notamment :
+La demande de retenue de marchandises par l'administration des douanes prévue à l'article L. 716-8 du code de la propriété intellectuelle comporte :
 
-a) L'identification et la qualité du demandeur ainsi que, le cas échéant, la désignation de son mandataire ;
+a) Les nom et prénoms ou la dénomination sociale du demandeur, son domicile ou son siège ;
 
-b) La désignation et le numéro d'enregistrement de la marque invoquée ;
+b) Le cas échéant, le nom et l'adresse du mandataire et la justification de son mandat ;
 
-c) Les marchandises dont la retenue est demandée.
+c) La qualité du demandeur au regard des droits qu'il invoque ; d) La désignation et le numéro d'enregistrement de la marque concernée ;
 
-Pour l'application du deuxième sous-alinéa du paragraphe 2 dudit article, le demandeur doit présenter à l'administration des douanes un document justifiant qu'il a obtenu une garantie suffisant à couvrir son éventuelle responsabilité, notamment sous la forme d'une caution bancaire ou autre, d'un contrat d'assurance ou d'une consignation.
+e) La description des marchandises arguées de contrefaçon dont la retenue est demandée.
 
-La demande produit ses effets pendant la durée d'un an. Elle peut être renouvelée.
+La demande visée à l'alinéa précédent peut être faite préalablement à l'entrée des marchandises arguées de contrefaçon sur le territoire français. Dans ce cas, elle est valable un an et peut être renouvelée.
 
-Les objets contenus dans les bagages des voyageurs et destinés à leur usage personnel et les envois sans caractère commercial sont exclus du champ d'application du présent article.
-
-Les conditions de présentation de la demande et le contenu du dossier sont précisés par arrêté du ministre chargé de l'économie, des finances et du budget.
+Les modalités de présentation de la demande sont précisées par arrêté du ministre chargé du budget.

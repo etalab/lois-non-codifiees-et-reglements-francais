@@ -7,3 +7,5 @@ a) La déclaration de dépôt et les spécifications matérielles auxquelles doi
 b) La déclaration de prorogation prévue à l'article 10 du présent décret ;
 
 c) La demande d'inscription au Registre national des dessins et modèles prévue aux articles 14 et 16 du présent décret.
+
+d) Les modalités des dépôts simplifiés prévus à l'article L. 512-2 du code de la propriété intellectuelle.
