@@ -1,3 +1,0 @@
-# Article 5
-
-Le commissaire général aux prix est choisi parmi les membres du conseil d'Etat ayant au moins quatre ans d'ancienneté dans le grade de maître des requêtes, les magistrats de la cour des comptes, ayant au moins quatre ans d'ancienneté dans le grade de conseiller référendaire, les inspecteurs des finances de 2e classe ayant au moins quatre ans d'ancienneté dans cette classe, les commissaires généraux adjoints aux prix, les commissaires aux prix appartenant au moins au 6e échelon de leur grade, les administrateurs civils des administrations centrales des finances et des affaires économiques appartenant, au moins au 3e échelon de la 1re classe et les inspecteurs de l'économie nationale ayant atteint au moins le 5e échelon de leur grade.
