@@ -1,6 +1,6 @@
 # Article 17
 
-I - Sous réserve des dispositions de l'article 8, deuxième alinéa ci-dessus, à défaut de paiement total ou partiel des sommes [*remboursement des emprunts - dettes d'accession à la propriété*] définies à l'article 14 dans les quinze jours suivant leur date d'exigibilité pour les échéances d'une périodicité égale ou supérieure à trois mois ou à défaut de paiement total ou partiel desdites sommes à deux échéances consécutives pour les échéances d'une périodicité inférieure à trois mois, le prêteur peut obtenir de l'organisme payeur le versement entre ses mains de l'allocation de logement au lieu et place de l'allocataire.
+I - Sous réserve des dispositions de l'article 8 (2° alinéa) ci-dessus, à défaut de paiement total ou partiel des sommes [*remboursement des emprunts - dettes d'accession à la propriété*] définies à l'article 14 ci-dessus dans les conditions prévues au troisième alinéa de l'article L. 561-2 du code de la sécurité sociale, le prêteur peut obtenir de l'organisme payeur le versement entre ses mains de l'allocation de logement au lieu et place de l'allocataire [*subrogation*].
 
 II - La demande du créancier n'est recevable que si elle est formulée auprès de l'organisme payeur deux mois au plus tard après l'expiration des délais fixés à l'alinéa précédent.
 

@@ -1,6 +1,6 @@
 # Article 11
 
-I - Sous réserve des dispositions de l'article 8 (2ème alinéa) ci-dessus, à défaut de paiement total ou partiel du loyer dans les quinze jours suivant sa date d'exigibilité pour les termes d'une périodicité égale ou supérieure à trois mois ou à défaut de paiement total ou partiel pendant deux termes consécutifs pour les termes d'une périodicité inférieure à trois mois, le bailleur peut obtenir de l'organisme payeur le versement entre ses mains de l'allocation de logement au lieu et place de l'allocataire [*délai*].
+I - Sous réserve des dispositions de l'article 8 (2ème alinéa) ci-dessus, à défaut de paiement total ou partiel du loyer des sommes définies à l'article 14 ci-dessus dans les conditions prévues au troisième alinéa de l'article L. 561-2 du code de la sécurité sociale, le prêteur peut obtenir de l'organisme payeur le versement entre ses mains de l'allocation de logement au lieu et place de l'allocataire [*délai*].
 
 II - La demande du bailleur n'est recevable que si elle est formulée auprès de l'organisme payeur deux mois au plus tard après l'expiration des délais fixés à l'alinéa précédent [*formalité obligatoire*].
 

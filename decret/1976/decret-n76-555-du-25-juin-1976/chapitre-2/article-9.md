@@ -32,7 +32,7 @@ II. - Le loyer minimum annuel est obtenu par l'application aux ressources annuel
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées des coefficients ou nombres de parts ci-après :
 
-- 1 pour un ménage sans enfant ;
+- 0,9 pour un ménage sans enfant ;
 
 - 1,4 pour un ménage ou une personne avec un enfant ou une personne à charge ;
 
@@ -54,10 +54,10 @@ R
 
 K = 0,9 - -------------
 
-170.265 x N
+177.925 x N
 
-R représente les ressources imposables déterminées conformément       à l'article 4 ci-dessus,
+Dans laquelle :
 
-N représente le nombre de parts déterminé conformément au II       ci-dessus.
+R représente les ressources imposables déterminées conformément       à l'article 4 ci-dessus ;    N représente le nombre de parts déterminées conformément au II       ci-dessus.
 
-IV. - Lorsque le montant de l'allocation de logement ainsi calculé est inférieur à 40 F par mois, il n'est pas procédé à son versement.
+IV. - Lorsque le montant de l'allocation de logement ainsi calculé est inférieur à 50 F par mois, il n'est pas procédé à son versement.

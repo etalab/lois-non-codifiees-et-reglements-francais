@@ -1,3 +1,5 @@
 # Article 2
 
-Cette subvention sera imputée sur les crédits ouverts au chapitre 44-73, article 40, du budget du ministère du travail, de l'emploi et de la formation professionnelle, destiné aux actions de formation des conseillers prud'hommes.
+Les riz conditionnés en préemballages par quantité nominale comprise entre 5 grammes inclus et 10 kilogrammes inclus, et non destinés exclusivement à l'usage professionnel, ne peuvent être importés, détenus en vue de la vente, mis en vente ou vendus que dans des emballages renfermant les quantités nominales suivantes, exprimées en utilisant comme unité le gramme ou le kilogramme :
+
+125, 250, 500, 1.000, 2.000, 2.500, 5.000, 10.000 (valeurs exprimées en grammes).

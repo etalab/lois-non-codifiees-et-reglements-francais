@@ -14,19 +14,11 @@ b) Le nom et l'adresse du fabricant ou du distributeur ou de l'importateur.
 
 c) Le nom commercial ou la désignation de la préparation.
 
-d) Le nom chimique du ou des composants, très toxiques (s), toxique (s), nocif (s), et/ou corrosif (s) de la préparation si leur concentration dépasse les limites les plus basses mentionnées aux articles 5, 6 et 7.
+d) Le nom chimique du ou des composant (s), très toxiques (s), toxique (s), nocif (s), et/ou corrosif (s) de la préparation si leur concentration dépasse les limites les plus basses mentionnées aux articles 5, 6 et 7.
 
-Le nom chimique des composants irritants si leur concentration dépasse les limites les plus basses mentionnées à l'article 8 et si la préparation ne comporte pas en outre de composants très toxiques, toxiques, nocifs ou corrosifs.
+Le nom chimique des composants irritants si leur concentration dépasse les limites les plus basses mentionnées à l'article 8 et si la préparation ne comporte en outre pas de composants très toxiques, toxiques, nocifs ou corrosifs.
 
-Pour les composants solvants, les règles particulières indiquées ci-après s'appliquent :
-
-Le nom des solvants très toxiques ou toxiques dont la teneur dépasse 0,2 p. 100 doit être mentionné ;
-
-Le nom des solvants nocifs doit être mentionné si leur concentration dépasse les limites prévues à l'article 16 d, 2e tiret, de l'arrêté du 11 octobre 1983 susvisé, la concentration de chaque solvant étant calculée par rapport au poids total de la préparation ;
-
-Le nom des différents solvants irritants peut être remplacé par la mention "solvants irritants".
-
-Le nom des composants doit figurer sous une des dénominations reprises aux annexes I du présent arrêté ou de l'arrêté du 10 octobre 1983 susvisé ou de l'arrêté du 11 octobre 1983 susvisé.
+Le nom chimique du ou des solvant (s) très toxique (s) ou toxique (s) dont la teneur est supérieure à 0,2 p. 100 et le nom chimique des solvants nocifs, corrosifs et irritants conformément à l'article 16-d de l'arrêté du 11 octobre 1983, le pourcentage de chaque solvant étant calculé par rapport au poids total de la préparation.    Le nom chimique des composants doit figurer sous une des dénominations reprises aux annexes I du présent arrêté ou de l'arrêté du 10 octobre 1983 susvisé ou de l'arrêté du 11 octobre 1983 susvisé.
 
 La mention du nom chimique du ou des composants visés ci-dessus n'est pas nécessaire si la préparation est classée uniquement comme extrêmement inflammable, facilement inflammable, ou inflammable.
 

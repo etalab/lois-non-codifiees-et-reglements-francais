@@ -30,7 +30,7 @@ I. - Le loyer minimum est la part de loyer L, tel que défini ci-dessus, qui doi
 
 Les limites inférieures et supérieures de chacune de ces tranches sont affectées des coefficients (ou nombre de parts) ci-après :
 
-1 pour un ménage sans enfant ;
+0,9 pour un ménage sans enfant ;
 
 1,4 pour un ménage ou une personne avec un enfant ou une personne à charge.
 
@@ -42,9 +42,9 @@ II. - Le coefficient K est déterminé d'après la formule :
 
 R
 
-K = 0,09 - -------------.
+K = 0,9 - -------------.
 
-133.665 x N
+139.680 x N
 
 Dans laquelle
 
@@ -54,4 +54,4 @@ N représente le nombre de parts déterminé dans les conditions prévues au par
 
 III. - Les bénéficiaires sans personne à charge de l'allocation de logement en application de l'article L. 527 (1°) du code de la sécurité sociale au titre de la perception des allocations prénatales sont assimilés aux ménages sans enfant pour la détermination de la valeur des éléments K, L, C, Lo, N ci-dessus désignés et servant au calcul de la prestation qui leur est due.
 
-IV. - Lorsque le montant de l'allocation de logement ainsi calculé est inférieur à 40 F par mois il n'est pas procédé à son versement.
+IV. - Lorsque le montant de l'allocation de logement ainsi calculé est inférieur à 50 F par mois il n'est pas procédé à son versement.
