@@ -1,17 +1,13 @@
 # Article 4
 
-Le directeur est investi des pouvoirs les plus étendus pour gérer
-et administrer le Théâtre national de Strasbourg. Il prépare sous
-sa responsabilité le programme artistique de la saison et en assure
-l'exécution. Il établit l'organisation générale des services d'exploitation
-et en dirige le fonctionnement. Il engage et révoque le personnel
-artistique, administratif et technique de l'établissement. Il prépare
-le budget et engage les dépenses. Il représente le Théâtre national
-de Strasbourg en justice et assure en son nom la conclusion de tous
-contrats et marchés.
+Le directeur est nommé, pour une période renouvelable de trois ans, par décret pris sur la proposition du ministre chargé de la culture.
 
-Le directeur peut, dans les conditions fixées par arrêté du ministre
-des affaires culturelles, consentir des délégations de signature.
-Il est suppléé en cas d'absence, d'empêchement ou de maladie par la
-personne désignée, sur sa proposition, par arrêté du ministre des
-affaires culturelles.
+Il est responsable de l'ensemble des activités du théâtre. Il est l'ordonnateur principal des dépenses et des recettes de l'établissement. Il représente le Théâtre national de Strasbourg en justice.
+
+Il peut consentir des délégations de signature à l'administrateur et, en cas d'empêchement de ce dernier, aux chefs de service. En cas d'absence, d'empêchement ou de maladie, il est suppléé par l'administrateur.
+
+Il perçoit une rémunération dont les modalités sont fixées par arrêté conjoint des ministres chargés de la culture et du budget.
+
+Lorsque, antérieurement à sa nomination, le directeur exerçait la profession d'acteur ou de metteur en scène, il lui est possible de se livrer à l'une ou l'autre de ces activités ou simultanément aux deux à l'intérieur du Théâtre national de Strasbourg. Sa rémunération peut alors comprendre une indemnité spéciale.
+
+En dehors du Théâtre national de Strasbourg, le directeur ne peut exercer aucune activité d'acteur ou de metteur en scène sans l'autorisation préalable du ministre chargé de la culture.

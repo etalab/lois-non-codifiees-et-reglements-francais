@@ -1,17 +1,21 @@
 # Article 5
 
-Pour son activité à la tête de l'établissement, le directeur perçoit
-un traitement déterminé par arrêté conjoint du ministre des affaires
-culturelles et du ministre de l'économie et des finances.
+L'administrateur est nommé par arrêté du ministre chargé de la culture, après avis du directeur.
 
-Lorsque antérieurement à sa nomination le directeur exerçait la
-profession d'acteur ou de metteur en scène, il lui est possible de
-se livrer à l'une ou à l'autre de ses activités, ou simultanément
-aux deux, à l'intérieur du Théâtre national de Strasbourg. Sa rémunération
-peut alors comprendre une indemnité spéciale de fonctions fixée par
-arrêté conjoint du ministre des affaires culturelles et du ministre
-de l'économie et des finances.
+Il perçoit une rémunération dont les modalités sont fixées par arrêté conjoint des ministres chargés de la culture et du budget.
 
-En dehors du Théâtre national de Strasbourg, le directeur ne peut
-exercer aucune activité d'acteur ou de metteur en scène sans l'autorisation
-préalable du ministre des affaires culturelles.
+Sous l'autorité du directeur :
+
+1° Il est chargé de la direction de l'ensemble des services techniques, administratifs, financiers et commerciaux du théâtre ;
+
+2° Il prépare le budget de l'établissement et en suit l'exécution: à cet effet, il est informé de l'ensemble des décisions d'engagement de dépenses.
+
+Il présente à chaque réunion de la commission consultative d'exploitation un état de l'exécution du budget de l'exercice en cours et propose, le cas échéant, les mesures nécessaires au rétablissement de l'équilibre du budget ;
+
+3° Il négocie les conventions collectives ;
+
+4° Il passe les marchés, les commandes, les contrats de commercialisation et de diffusion et les contrats de location de matériel ;
+
+5° Il engage et licencie le personnel technique et administratif, permanent, occasionnel ou temporaire.
+
+<font size="+0"/>
