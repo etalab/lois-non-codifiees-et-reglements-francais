@@ -1,6 +1,6 @@
 # Article 48
 
-A partir du 1er mars 1987 et jusqu'au 31 mai 1987, les fonctionnaires territoriaux qui ont vocation à être intégrés dans le corps en application du 1° au 13° de l'article 39, et des articles 40 à 42, 44 à 46, saisissent le centre national de gestion d'un dossier retraçant leur carrière, accompagné des pièces nécessaires pour arrêter les modalités de leur intégration et de leur reclassement dans le corps. Ils informent l'autorité territoriale dont ils dépendent de cette saisine.
+A partir du 1er octobre 1987 et jusqu'au 31 décembre 1987, les fonctionnaires territoriaux qui ont vocation à être intégrés dans le corps en application du 1° au 13° de l'article 39, et des articles 40 à 42, 44 à 46, saisissent le centre national de gestion d'un dossier retraçant leur carrière, accompagné des pièces nécessaires pour arrêter les modalités de leur intégration et de leur reclassement dans le corps. Ils informent l'autorité territoriale dont ils dépendent de cette saisine.
 
 La même procédure est applicable :
 
