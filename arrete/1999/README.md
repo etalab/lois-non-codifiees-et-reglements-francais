@@ -675,7 +675,6 @@
 - [Arrêté du 29 décembre 1999 (MESA9923650A)](arrete-du-29-decembre-1999-mesa9923650a)
 - [Arrêté du 29 décembre 1999 (MESH9924037A)](arrete-du-29-decembre-1999-mesh9924037a)
 - [Arrêté du 29 janvier 1999 (EQUI9900093A)](arrete-du-29-janvier-1999-equi9900093a)
-- [Arrêté du 29 janvier 1999 (INTA9900046A)](arrete-du-29-janvier-1999-inta9900046a)
 - [Arrêté du 29 janvier 1999 (MESS9920438A)](arrete-du-29-janvier-1999-mess9920438a)
 - [Arrêté du 29 juillet 1999 (AGRS9901684A)](arrete-du-29-juillet-1999-agrs9901684a)
 - [Arrêté du 29 juillet 1999 (ECOI9900387A)](arrete-du-29-juillet-1999-ecoi9900387a)

@@ -841,7 +841,6 @@
 - [Arrêté du 23 septembre 2003 (EQUA0301359A)](arrete-du-23-septembre-2003-equa0301359a)
 - [Arrêté du 23 septembre 2003 (EQUP0301527A)](arrete-du-23-septembre-2003-equp0301527a)
 - [Arrêté du 23 mai 2003 (EQUT0300807A)](arrete-du-23-mai-2003-equt0300807a)
-- [Arrêté du 23 mai 2003 (EQUT0300808A)](arrete-du-23-mai-2003-equt0300808a)
 - [Arrêté du 23 mai 2003 (INDI0301471A)](arrete-du-23-mai-2003-indi0301471a)
 - [Arrêté du 23 mai 2003 (INDI0301472A)](arrete-du-23-mai-2003-indi0301472a)
 - [Arrêté du 23 mai 2003 (MENE0301129A)](arrete-du-23-mai-2003-mene0301129a)

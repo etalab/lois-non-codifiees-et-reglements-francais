@@ -10,4 +10,3 @@
 - [Article 67](article-67.md)
 - [Article 67 bis](article-67-bis.md)
 - [Article 67 ter](article-67-ter.md)
-- [Article 68](article-68.md)
