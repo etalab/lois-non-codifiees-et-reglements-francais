@@ -4,6 +4,18 @@
 
 " 11.1.1. Une épreuve théorique générale d'admissibilité portant sur leur connaissance des règlements concernant la circulation et la conduite du véhicule ainsi que sur le comportement du conducteur.
 
+" L'âge minimal requis pour se présenter à cette épreuve est fixé à :
+
+" - seize ans pour les candidats à un permis de conduire de la catégorie A limitée aux motocyclettes légères (AL) ou de la catégorie A limitée aux tricycles et quadricycles à moteur (AT) ;
+
+" - seize ans pour les candidats à un permis de conduire de la catégorie B suivant une formation selon la formule de l'apprentissage anticipé de la conduite ;
+
+" - dix-sept ans et demi pour les autres candidats à un permis de conduire de la catégorie B ;
+
+" - dix-huit ans pour les candidats à un permis de conduire des catégories C et E (C) ;
+
+" - vingt ans et demi pour les candidats à un permis de conduire de la catégorie D. "
+
 " Les candidats ayant obtenu un résultat favorable à l'épreuve théorique conservent le bénéfice de leur admissibilité pour cinq épreuves pratiques à condition qu'un délai maximum de deux ans ne se soit pas écoulé depuis l'obtention de cette admissibilité.
 
 " Les candidats suivant une formation selon la formule de l'apprentissage anticipé de la conduite et ayant obtenu un résultat favorable à l'épreuve théorique qui constitue une des conditions de délivrance de l'attestation de fin de formation initiale conservent le bénéfice de leur admissibilité pour cinq épreuves pratiques à condition qu'un délai maximum de trois ans ne se soit pas écoulé depuis l'obtention de cette admissibilité. "
@@ -62,4 +74,4 @@ En cas de succès à l'épreuve théorique générale du permis de conduire de l
 
 En cas d'échec à l'épreuve théorique générale du permis de conduire de la catégorie B, le candidat ne peut se représenter dans un délai inférieur à deux semaines.
 
-En cas d'échec à la première épreuve pratique du permis de conduire de la catégorie B, le candidat ne peut se représenter dans un délai inférieur à deux semaines. De plus, en cas d'échec à la deuxième épreuve pratique, aucune nouvelle convocation ne peut intervenir avant un délai d'un mois; il en est de même en cas d'échec aux présentations suivantes. "
+En cas d'échec à la première épreuve pratique du permis de conduire de la catégorie B, le candidat ne peut se représenter dans un délai inférieur à deux semaines. De plus, en cas d'échec à la deuxième épreuve pratique, aucune nouvelle convocation ne peut intervenir avant un délai de deux semaines; il en est de même en cas d'échec aux présentations suivantes. "
