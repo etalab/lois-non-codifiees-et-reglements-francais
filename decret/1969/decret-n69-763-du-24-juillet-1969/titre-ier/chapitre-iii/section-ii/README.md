@@ -9,3 +9,4 @@
 - [Paragraphe 7 : Dissolution de la société pour cause d'empêchement ou d'inaptitude de tous les associés.](paragraphe-7)
 - [Paragraphe 8 : Dissolution de la société pour cause de fusion.](paragraphe-8)
 - [Paragraphe 9 : Dissolution de la société pour cause de scission.](paragraphe-9)
+- [Paragraphe 10 : Dissolution de la société pour cause de constitution par ses membres de sociétés différentes de ventes volontaires de meubles aux enchères publiques](paragraphe-10)

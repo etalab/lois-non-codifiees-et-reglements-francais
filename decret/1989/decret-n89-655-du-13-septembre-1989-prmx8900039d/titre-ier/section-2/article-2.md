@@ -116,7 +116,7 @@ A Paris, lorsque les membres des corps et les autorités assistent aux cérémon
 
 57° Le président du Conseil supérieur du notariat ;
 
-58° Le président de la Chambre nationale des commissaires-priseurs ;
+58° Le président de la Chambre nationale des commissaires-priseurs judiciaires ;
 
 59° Le président de la Chambre nationale des huissiers de justice ;
 

@@ -12,7 +12,7 @@ Une nouvelle bonification indiciaire, dont le montant est pris en compte et soum
 
 4° Agents nommés dans le corps des infirmiers diplômés d'Etat ou dans le corps des aides-soignants et affectés dans les services de néonatalogie : 13 points majorés ;
 
-5° Agents nommés dans un des corps autres que la catégorie A et appartenant à la "filière administrative", qui sont affectés à titre principal dans un service de "consultation externe", en contact direct avec le public, chargés d'établir les formalités administratives et/ou financières d'encaissement nécessaires à la prise en charge des soins dispensés aux patients : 10 points majorés ;
+5° Agents nommés dans un des corps autres que la catégorie A et appartenant à la "filière administrative", qui sont affectés à titre principal dans un service de "consultation externe", en contact direct avec le public, chargés d'établir les formalités administratives et/ou financières d'encaissement nécessaires à la prise en charge des soins dispensés aux patients : 10 points majorés ; ce nombre de points est porté à 25 pour les adjoints des cadres hospitaliers encadrant au moins cinq personnes ;
 
 6° Agents exerçant des fonctions d'accueil pendant au moins deux heures en soirée ou la nuit dans un centre d'hébergement et de réadaptation sociale ou un centre d'accueil public recevant des populations à risques : 20 points majorés ;
 

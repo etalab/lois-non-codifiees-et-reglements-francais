@@ -387,6 +387,7 @@
 - [Arrêté du 27 juin 2001 (ATEN0100226A)](arrete-du-27-juin-2001-aten0100226a)
 - [Arrêté du 27 juin 2001 (MCCB0100247A)](arrete-du-27-juin-2001-mccb0100247a)
 - [Arrêté du 27 juin 2001 (MENA0101400A)](arrete-du-27-juin-2001-mena0101400a)
+- [Arrêté du 27 novembre 2001 (MESG0123867A)](arrete-du-27-novembre-2001-mesg0123867a)
 - [Arrêté du 28 août 2001 (INTE0100529A)](arrete-du-28-aout-2001-inte0100529a)
 - [Arrêté du 28 août 2001 (MJSK0170062A)](arrete-du-28-aout-2001-mjsk0170062a)
 - [Arrêté du 28 décembre 2000 (INTB0000803A)](arrete-du-28-decembre-2000-intb0000803a)

@@ -14,12 +14,12 @@ Les dossiers de candidatures doivent comprendre :
 
 5° S'il y a lieu :
 
-- la copie de la décision du garde des sceaux, ministre de la justice, prise en application des articles 2, 5 et 5-1 du décret du 14 août 1975 précité ;
+-la copie de la décision du garde des sceaux, ministre de la justice, prise en application des articles 2, 5 et 5-1 du décret du 14 août 1975 précité ;
 
-- une expédition du procès-verbal de la prestation de serment en qualité de commissaire-priseur ;
+-une expédition du procès-verbal de la prestation de serment en qualité de commissaire-priseur judiciaire ;
 
-- la justification d'avoir subi avec succès l'examen professionnel d'avoué à la cour, de greffier de tribunal de commerce, de commissaire-priseur, de notaire ou d'être titulaire du certificat d'aptitude à la profession d'avocat ;
+-la justification d'avoir subi avec succès l'examen professionnel d'avoué à la cour, de greffier de tribunal de commerce, de commissaire-priseur judiciaire, de notaire ou d'être titulaire du certificat d'aptitude à la profession d'avocat ;
 
-- l'autorisation de la chambre départementale prévue au troisième alinéa de l'article 18 du décret du 14 août 1975 précité ;
+-l'autorisation de la chambre départementale prévue au troisième alinéa de l'article 18 du décret du 14 août 1975 précité ;
 
 6° Un certificat d'affiliation à la caisse primaire de sécurité sociale complété par la justification des rémunérations perçues en cours de stage.

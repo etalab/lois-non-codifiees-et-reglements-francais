@@ -6,7 +6,7 @@ Une nouvelle bonification indiciaire dont le montant est pris en compte et soumi
 
 2° Infirmiers exerçant leurs fonctions, à titre exclusif, dans le domaine de l'électrophysiologie, de la circulation extra-corporelle ou de l'hémodialyse : 13 points majorés ;
 
-3° Adjoints des cadres hospitaliers exerçant leurs fonctions dans les établissements de moins de cent lits : 15 points majorés ;
+3° Adjoints des cadres hospitaliers exerçant leurs fonctions dans les établissements de moins de cent lits : 25 points majorés ;
 
 4° Contremaîtres encadrant, dans les établissements de plus de deux cents lits, une équipe d'au moins cinq agents ou deux contremaîtres et, dans les autres établissements, encadrant des agents d'au moins trois qualifications différentes : 13 points majorés ;
 
@@ -20,9 +20,9 @@ Une nouvelle bonification indiciaire dont le montant est pris en compte et soumi
 
 8° Adjoints techniques encadrant au moins deux secteurs spécialisés d'un service technique ou exerçant leurs fonctions en génie thermique, ou à titre exclusif, dans le domaine biomédical :
 
-13 points majorés ;
+25 points majorés ;
 
-9° Secrétaires des directeurs chefs d'établissement de plus de cent lits : 10 points majorés ;
+9° Secrétaires des directeurs chefs d'établissement de plus de cent lits : 25 points majorés ;
 
 10° Agents titulaires de l'attestation nationale d'aptitude aux fonctions de technicien d'études cliniques et exerçant les fonctions correspondantes : 13 points majorés ;
 
