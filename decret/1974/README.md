@@ -1,5 +1,6 @@
 # 1974
 
+- [Décret n°74-78 du 1 février 1974](decret-n74-78-du-1-fevrier-1974)
 - [Décret n°74-1 du 3 janvier 1974](decret-n74-1-du-3-janvier-1974)
 - [Décret n°74-13 du 4 janvier 1974](decret-n74-13-du-4-janvier-1974)
 - [Décret n°74-14 du 4 janvier 1974](decret-n74-14-du-4-janvier-1974)
@@ -21,6 +22,7 @@
 - [Décret n°74-63 du 28 janvier 1974](decret-n74-63-du-28-janvier-1974)
 - [Décret n°73-1216 du 29 décembre 1973](decret-n73-1216-du-29-decembre-1973)
 - [Décret n°76-119 du 29 janvier 1976](decret-n76-119-du-29-janvier-1976)
+- [Décret n°74-76 du 30 janvier 1974](decret-n74-76-du-30-janvier-1974)
 - [Décret n°74-1204 du 31 décembre 1974](decret-n74-1204-du-31-decembre-1974)
 - [Décret n°74-671 du 31 juillet 1974](decret-n74-671-du-31-juillet-1974)
 - [Décret n°74-676 du 31 juillet 1974](decret-n74-676-du-31-juillet-1974)
