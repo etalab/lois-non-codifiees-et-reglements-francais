@@ -5,9 +5,7 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 <table>
 <tbody>
 <tr>
-<td valign="top" width="529">
-<br/>
-</td>
+<td valign="top" width="529"/>
 <td valign="top" width="113">
 <p align="center">Mètres carrés</p>
 </td>
@@ -158,7 +156,7 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Supplément pour appareils sanitaires :</p>
+<p>Supplément pour appareils sanitaires autres que les éviers :</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -398,7 +396,7 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td width="529">
-<p>Caves, greniers et parties du local d'une hauteur inférieure à 1,90 m :</p>
+<p>Caves et greniers, ainsi que toutes parties du local d'une hauteur inférieure à 1,90 m visées au dernier alinéa de l'article 4 ci-dessus :</p>
 </td>
 <td width="113">
 <br/>
@@ -406,7 +404,7 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Caves louées avec le local d'une surface réelle :</p>
+<p>Surface réelle totalisée de l'ensemble des caves louées avec le local :</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -423,7 +421,7 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>De plus de 10 m<sup>3</sup>
+<p>De plus de 10 m<sup>2</sup>
 </p>
 </td>
 <td valign="top" width="113">
@@ -432,7 +430,7 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tr>
 <tr>
 <td valign="top" width="529">
-<p>Toutes parties du local, et notamment placards et penderies, etc., de moins de 1,90 m de hauteur sous plafond, et greniers d'une surface réelle totale mesurée à 0,75 m du sol :</p>
+<p>Surface réelle totalisée de l'ensemble des parties du local de moins de 1,90 m de hauteur sous plafond visées au dernier alinéa de l'article 4 ci-dessus, ainsi que des greniers :</p>
 </td>
 <td valign="top" width="113">
 <br/>
@@ -469,7 +467,9 @@ Il est tenu compte des éléments d'équipement du local, fournis par le propri�
 </tbody>
 </table>
 
-Il n'est pas tenu compte des greniers et parties du local ayant une hauteur inférieure à 1 m ou une superficie inférieure à 0,50 m<sup>3</sup>.
+Il n'est pas tenu compte des caves, greniers et parties du local, ayant une hauteur inférieure à 1 m ou une superficie inférieure à 0,50 m<sup>2</sup>.
+
+La surface réelle des greniers est mesurée à 0,75 m du sol.
 
 Lorsque les installations ont été effectuées à frais communs entre le preneur et le bailleur, les équivalences du tableau ci-dessus sont réduites proportionnellement à la participation de chacun.
 
