@@ -1,3 +1,0 @@
-# Article 1
-
-Les présentes règles s'appliquent aux postes fixes d'hydrocarbures liquéfiés composés d'un ou plusieurs réservoirs (appelés généralement citernes) ou de conteneurs, d'une contenance (contenance en eau appréciée avec une tolérance de 5 p. 100) globale au plus égale à 200 mètres cubes, desservant des locaux d'habitation ou leurs dépendances, sans préjudice de l'application d'autres réglementations, notamment les dispositions particulières prévues par le décret du 18 janvier 1943 portant règlement sur les appareils à pression de gaz et par l'arrêté du 15 octobre 1962 modifié fixant les règles techniques et de sécurité applicables aux installations de gaz ou d'hydrocarbures liquéfiés à l'intérieur des locaux d'habitation ou de leurs dépendances.

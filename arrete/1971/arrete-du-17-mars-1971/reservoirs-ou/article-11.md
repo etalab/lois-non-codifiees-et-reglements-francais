@@ -6,7 +6,7 @@ Lorsque la bouche d'emplissage située sur le réservoir n'est pas accessible au
 
 Cette dernière doit également comporter un double clapet (ou tout autre dispositif offrant une sécurité équivalente) à son orifice d'entrée.
 
-L'orifice d'entrée de la borne déportée doit être placé à une distance d'au moins 2 mètres des emplacements visés au premier alinéa de l'article 8, à l'exception toutefois de la limite de la voie publique vis-à-vis de laquelle aucune distance n'est exigée.
+L'orifice d'entrée de la borne déportée doit être placé à une distance d'au moins 2 mètres des emplacements visés au premier alinéa de l'article 8 [*baie, ouverture, bouche d'égout, matière combustible, limite de propriété*], à l'exception toutefois de la limite de la voie publique vis-à-vis de laquelle aucune distance n'est exigée.
 
 Si la borne est placée en bordure de la voie publique, elle doit être enfermée dans un coffret incombustible et verrouillable.
 

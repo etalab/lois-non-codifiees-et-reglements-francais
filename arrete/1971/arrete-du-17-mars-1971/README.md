@@ -1,8 +1,5 @@
-# Arrêté du 17 mars 1971 relatif aux règles techniques et de sécurité applicables aux postes fixes d'hydrocarbures liquéfiés composés de réservoirs ou de conteneurs déservant des locaux d'habitation ou de leurs dépendances.
+# Arrêté du 17 mars 1971 relatif aux règles techniques et de sécurité applicables aux postes fixes composés de réservoirs ou de conteneurs d'hydrocarbures liquéfiés desservant des locaux d'habitation ou leurs dépendances
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
 - [Accessoires](accessoires)
 - [Réservoirs et conteneurs en plein air ou sous abri](reservoirs-et)
 - [Réservoirs ou conteneurs en plein air ou sous abri](reservoirs-ou)
