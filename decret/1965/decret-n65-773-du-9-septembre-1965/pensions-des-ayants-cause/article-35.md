@@ -1,14 +1,14 @@
 # Article 35
 
-I - Les veuves des agents tributaires de la caisse nationale de retraites ont droit à une pension égale à 50 p. 100 [*pourcentage - montant*] de la pension obtenue par le mari ou qu'il aurait pu obtenir au jour du décès [*définition*].
+I - Les veuves des fonctionnaires affiliés à la caisse nationale de retraites ont droit à une pension égale à 50 % de la pension obtenue par le mari ou qu'il aurait pu obtenir au jour du décès ;
 
-II - Cette pension est augmentée, le cas échéant, pour les veuves des agents qui n'étaient pas rémunérés à l'heure ou à la journée, de la moitié [*proportion*] de la rente d'invalidité visée à l'article 31 dont le mari bénéficiait ou aurait pu bénéficier.
+II - Cette pension est augmentée, le cas échéant, pour les veuves des agents qui n'étaient pas rémunérés à l'heure ou à la journée, de la moitié de la rente d'invalidité visée à l'article 31 dont le mari bénéficiait ou aurait pu bénéficier.
 
 III - A la pension de veuve s'ajoute éventuellement la moitié de la majoration prévue à l'article 19 qu'a obtenue ou aurait obtenue le mari. Cet avantage n'est servi qu'aux veuves qui ont élevé, dans les conditions visées audit article 19, les enfants ouvrant droit à cette majoration.
 
 IV - Cette pension de réversion, compte tenu des ressources extérieures, ne pourra être inférieure à la somme totale formée par le cumul de l'allocation servie aux vieux travailleurs salariés augmentée de l'allocation supplémentaire du fonds national de solidarité, quelle que soit la date de sa liquidation.
 
-V - Peuvent être élevées au minimum de pension prévu au IV ci-dessus les pensions de réversion au taux de 50 p. 100 allouées aux veuves, aux femmes divorcées et séparées, ainsi qu'aux orphelins des agents tributaires de la Caisse nationale de retraites des agents des collectivités locales.
+V - Peuvent être élevées au minimum de pension prévu au IV ci-dessus les pensions de réversion au taux de 50 % allouées aux veuves, aux femmes divorcées et séparées, ainsi qu'aux orphelins des agents tributaires de la Caisse nationale de retraites des agents des collectivités locales.
 
 Lorsque la pension est partagée entre plusieurs ayants cause, la part du minimum de pension pouvant être attribuée à chaque bénéficiaire en fonction de ses ressources propres, est calculée au prorata de la fraction de pension qui lui est personnellement allouée.
 
