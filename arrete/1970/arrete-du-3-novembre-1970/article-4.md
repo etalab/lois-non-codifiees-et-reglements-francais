@@ -6,7 +6,7 @@ GROUPE DE CLASSEMENT : Groupe II provisoire
 
 GROUPE REPUTE : Groupe III provisoire.
 
-GROUPE DE CLASSEMENT : Groupe III provisoire
+GROUPE DE CLASSEMENT : Groupe III  provisoire
 
 GROUPE REPUTE : Groupe IV provisoire.
 
@@ -38,13 +38,11 @@ GROUPE, SITUATION : 8 éch
 
 SITUATION DANS LE GROUPE SUPERIEUR : 9 éch, Ancienneté acquise dans la limite de 4 ans.
 
-GROUPE V et GROUPES PROVISOIRES III,IV,V et VI :
+GROUPE V et GROUPES PROVISOIRES III, IV, V et VI :
 
 GROUPE, SITUATION : 9 éch
 
-SITUATION DANS LE GROUPE SUPERIEUR : 8 éch, Ancienneté acquise dans
-
-la limite de 4 ans.
+SITUATION DANS LE GROUPE SUPERIEUR : 8 éch, Ancienneté acquise dans la limite de 4 ans.
 
 GROUPE, SITUATION : 10 éch
 
