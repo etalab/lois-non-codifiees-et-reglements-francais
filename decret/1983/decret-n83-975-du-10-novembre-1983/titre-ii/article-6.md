@@ -8,7 +8,7 @@ Le conseil d'administration est composé de vingt-sept membres, à raison de :
 
 - le directeur des hôpitaux au ministère chargé de la santé ou son représentant nommément désigné ;
 
-- le directeur de la pharmacie et du médicament au ministère chargé de la santé ou son représentant nommément désigné ;
+- le directeur général de l'Agence du médicament ou son représentant nommément désigné ;
 
 - le directeur général de la recherche et de la technologie au ministère chargé de la recherche ou son représentant nommément désigné ;
 
