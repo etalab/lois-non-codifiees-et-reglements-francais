@@ -148,7 +148,6 @@
 - [Décret n°98-1008 du 5 novembre 1998 (MENF9802509D)](decret-n98-1008-du-5-novembre-1998-menf9802509d)
 - [Décret n°98-11 du 5 janvier 1998 (MCCB9700769D)](decret-n98-11-du-5-janvier-1998-mccb9700769d)
 - [Décret n°98-128 du 5 mars 1998 (INTM9800008D)](decret-n98-128-du-5-mars-1998-intm9800008d)
-- [Décret n°98-3 du 5 janvier 1998 (MESS9723948D)](decret-n98-3-du-5-janvier-1998-mess9723948d)
 - [Décret n°98-4 du 5 janvier 1998 (MESG9711540D)](decret-n98-4-du-5-janvier-1998-mesg9711540d)
 - [Décret n°98-441 du 5 juin 1998 (ATEP9860054D)](decret-n98-441-du-5-juin-1998-atep9860054d)
 - [Décret n°98-442 du 5 juin 1998 (INTE9800121D)](decret-n98-442-du-5-juin-1998-inte9800121d)
