@@ -810,7 +810,6 @@
 - [Décret n°2004-363 du 23 avril 2004 (AGRP0400929D)](decret-n2004-363-du-23-avril-2004-agrp0400929d)
 - [Décret n°2004-594 du 23 juin 2004 (AGRA0401364D)](decret-n2004-594-du-23-juin-2004-agra0401364d)
 - [Décret n°2004-597 du 23 juin 2004 (INDI0403106D)](decret-n2004-597-du-23-juin-2004-indi0403106d)
-- [Décret n°2004-598 du 23 juin 2004 (SOCT0410897D)](decret-n2004-598-du-23-juin-2004-soct0410897d)
 - [Décret n°2004-608 du 23 juin 2004 (FAMS0420770D)](decret-n2004-608-du-23-juin-2004-fams0420770d)
 - [Décret n°2004-618 du 23 juin 2004 (ECOB0420006D)](decret-n2004-618-du-23-juin-2004-ecob0420006d)
 - [Décret n°2004-619 du 23 juin 2004 (ECOT0451253D)](decret-n2004-619-du-23-juin-2004-ecot0451253d)
