@@ -83,6 +83,7 @@
 - [Arrêté du 6 janvier 1992 (TEFT9204298A)](arrete-du-6-janvier-1992-teft9204298a)
 - [Arrêté du 6 janvier 1992 (TEFX9110349A)](arrete-du-6-janvier-1992-tefx9110349a)
 - [Arrêté du 6 mars 1992 (ECOC9200029A)](arrete-du-6-mars-1992-ecoc9200029a)
+- [Arrêté du 7 avril 1992 (JUSB9210126A)](arrete-du-7-avril-1992-jusb9210126a)
 - [Arrêté du 7 décembre 1990 (JUSE9040094A)](arrete-du-7-decembre-1990-juse9040094a)
 - [Arrêté du 7 février 1992 (AGRG9102635A)](arrete-du-7-fevrier-1992-agrg9102635a)
 - [Arrêté du 7 février 1992 (AGRG9102636A)](arrete-du-7-fevrier-1992-agrg9102636a)

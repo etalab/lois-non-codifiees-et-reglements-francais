@@ -28,7 +28,7 @@ Bastia. 1   2   3
 
 Besançon. 2   4   6
 
-Bordeaux. 2   7 10
+Bordeaux. 3   7 10
 
 Bourges. 1   3   4
 
