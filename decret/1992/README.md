@@ -1052,7 +1052,6 @@
 - [Décret n°92-1260 du 30 novembre 1992 (ECOX9251227D)](decret-n92-1260-du-30-novembre-1992-ecox9251227d)
 - [Décret n°92-1379 du 30 décembre 1992 (INTE9200522D)](decret-n92-1379-du-30-decembre-1992-inte9200522d)
 - [Décret n°92-1380 du 30 décembre 1992 (ECOT9210162D)](decret-n92-1380-du-30-decembre-1992-ecot9210162d)
-- [Décret n°92-1383 du 30 décembre 1992 (AGRA9202602D)](decret-n92-1383-du-30-decembre-1992-agra9202602d)
 - [Décret n°92-1384 du 30 décembre 1992 (AGRS9202391D)](decret-n92-1384-du-30-decembre-1992-agrs9202391d)
 - [Décret n°92-1390 du 30 décembre 1992 (EQUX9200244D)](decret-n92-1390-du-30-decembre-1992-equx9200244d)
 - [Décret n°92-1391 du 30 décembre 1992 (INDE9200932D)](decret-n92-1391-du-30-decembre-1992-inde9200932d)
