@@ -10,11 +10,9 @@ Variétés S 04, 5 B B, Rupestris du Lot, 99 Richter, 44-53 Malègue.
 
 Variétés Téléki 5 C, 101-14 Millardet de Grasset, 420 A Millardet de Grasset, 196-17 Castel, Riparia Gloire de Montpellier, 4010 Castel, 1616 Couderc, 216-3 Castel, 1447 Paulsen, Fercal, Gravesac, Resseguier Sélection Birolleau n° 1 (RSB 1), Kober 125 AA.
 
-- 31 août 1990 :
+- 31 août 1991 :
 
 Variétés 110 Richter, 140 Ruggerie, 1103 Paulsen.
-
-- 31 août 1991 :
 
 Variétés 41 B Millardet de Grasset, 3309 Couderc, 161-49 Couderc, 333 Ecole nationale supérieure d'agronomie de Montpellier (333 E.M.), Téléki 8 B, Grézot 1 (G 1), Berlandiéri-Colombard n° 2 (B.C.2.), 34 Ecole nationale supérieure d'agronomie de Montpellier (34 E.M.).
 

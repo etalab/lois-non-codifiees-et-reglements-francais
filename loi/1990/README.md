@@ -24,6 +24,8 @@
 - [Loi n° 90-449 du 31 mai 1990 (EQUX8900132L)](loi-n-90-449-du-31-mai-1990-equx8900132l)
 - [Loi n° 90-455 du 1 juin 1990 (MAEX8900138L)](loi-n-90-455-du-1-juin-1990-maex8900138l)
 - [Loi n° 90-456 du 1 juin 1990 (MAEX8900163L)](loi-n-90-456-du-1-juin-1990-maex8900163l)
+- [Loi n° 90-511 du 25 juin 1990 (JUSX9000017L)](loi-n-90-511-du-25-juin-1990-jusx9000017l)
+- [Loi n° 90-512 du 25 juin 1990 (MAEX8900117L)](loi-n-90-512-du-25-juin-1990-maex8900117l)
 - [Loi n° 90-55 du 15 janvier 1990 (INTX8900076L)](loi-n-90-55-du-15-janvier-1990-intx8900076l)
 - [Loi n° 90-8 du 2 janvier 1990 (FPPX8910391L)](loi-n-90-8-du-2-janvier-1990-fppx8910391l)
 - [Loi n° 90-85 du 23 janvier 1990 (AGRX8900045L)](loi-n-90-85-du-23-janvier-1990-agrx8900045l)
