@@ -24,9 +24,9 @@ A - En ce qui concerne la personne :
 
 10° Les nom, nom d'usage, prénoms, date et lieu de naissance, domicile personnel, renseignements relatifs à la nationalité prévus au A (3°) de l'article 8 pour les :
 
-a) Associés et tiers ayant le pouvoir de diriger, gérer, ou le pouvoir d'engager à titre habituel la société avec l'indication, pour chacun d'eux lorsqu'il s'agit d'une société commerciale, qu'ils engagent seuls ou conjointement la société vis-à-vis des tiers ;
+a) Directeurs généraux, membres du directoire, associés et tiers ayant le pouvoir de diriger, gérer, ou le pouvoir d'engager à titre habituel la société avec l'indication, pour chacun d'eux lorsqu'il s'agit d'une société commerciale, qu'ils engagent seuls ou conjointement la société vis-à-vis des tiers ;
 
-b) Le cas échéant, administrateurs, membres du directoire et du conseil de surveillance et commissaire aux comptes ;
+b) Le cas échéant, administrateurs, président du conseil d' administration, membres du conseil de surveillance et commissaire aux comptes ;
 
 11° Lorsque les personnes mentionnées aux 9° et 10° ci-dessus sont des personnes morales, la dénomination sociale, la forme juridique, l'adresse du siège ainsi que :
 

@@ -12,5 +12,4 @@
 - [Article 174-16](article-174-16.md)
 - [Article 174-17](article-174-17.md)
 - [Article 174-19](article-174-19.md)
-- [Article 174-20](article-174-20.md)
 - [Article 174-21](article-174-21.md)

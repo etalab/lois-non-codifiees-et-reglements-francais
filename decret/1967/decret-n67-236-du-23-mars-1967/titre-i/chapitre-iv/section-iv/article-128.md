@@ -1,6 +1,6 @@
 # Article 128
 
-La demande d'inscription de projets de résolution à l'ordre du jour de l'assemblée, par des actionnaires représentant au moins cinq pour cent du capital social, est adressée au siège social par lettre recommandée avec demande d'avis de réception.
+La demande d'inscription de projets de résolution à l'ordre du jour de l'assemblée, par des actionnaires représentant au moins cinq pour cent du capital social, est adressée au siège social par lettre recommandée avec demande d'avis de réception, ou par télécommunication électronique.
 
 Toutefois, lorsque le capital de la société est supérieur à 750.000 euros, le montant du capital à représenter en application de l'alinéa précédent est, selon l'importance dudit capital, réduit ainsi qu'il suit :
 

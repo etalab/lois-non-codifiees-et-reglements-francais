@@ -1,6 +1,6 @@
 # Article 133
 
-A toute formule de procuration adressée aux actionnaires par la société ou par le mandataire qu'elle a désigné à cet effet, doivent être joints :
+A toute formule de procuration adressée aux actionnaires, le cas échéant par voie électronique dans les conditions définies à l' article 119 par la société ou par le mandataire qu'elle a désigné à cet effet, doivent être joints :
 
 1° L'ordre du jour de l'assemblée ;
 

@@ -1,6 +1,6 @@
 # Article 200
 
-S'ils représentent au moins le vingtième du capital social, des actionnaires peuvent, dans un intérêt commun, charger à leurs frais, un ou plusieurs d'entre eux de les représenter, pour soutenir, tant en demande qu'en défense, l'action sociale soit contre les administrateurs, soit contre les membres du directoire et du conseil de surveillance.
+S'ils représentent au moins le vingtième du capital social, des actionnaires peuvent, dans un intérêt commun, charger à leurs frais, un ou plusieurs d'entre eux de les représenter, pour soutenir, tant en demande qu'en défense, l'action sociale soit contre les administrateurs, soit contre le directeur général, soit contre les membres du directoire et du conseil de surveillance.
 
 Toutefois, lorsque le capital de la société est supérieur à 750.000 euros, le montant du capital à représenter en application de l'alinéa précédent est, selon l'importance dudit capital, réduit ainsi qu'il suit :
 

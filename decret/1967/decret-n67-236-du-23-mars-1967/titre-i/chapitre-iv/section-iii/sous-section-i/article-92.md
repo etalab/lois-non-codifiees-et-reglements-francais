@@ -4,7 +4,11 @@ Le rapport des commissaires aux comptes, prévu à l'article 103, alinéa 3, de 
 
 L'énumération des conventions soumises à l'approbation de l'assemblée générale ;
 
-Le nom des administrateurs ou directeurs généraux intéressés ;
+Le nom des administrateurs ou intéressés ;
+
+Le nom du directeur général ou des directeurs généraux délégués intéressés ;
+
+La désignation du ou des actionnaires intéressés disposant d'une fraction des droits de vote supérieure à 5 %, et, s'il s'agit d'une société actionnaire, de la société la contrôlant au sens de l'article L. 233-3 du code de commerce ;
 
 La nature et l'objet desdites conventions ;
 

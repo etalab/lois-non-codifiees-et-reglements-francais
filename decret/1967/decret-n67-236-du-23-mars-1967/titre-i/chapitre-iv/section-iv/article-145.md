@@ -2,7 +2,7 @@
 
 La feuille de présence aux assemblées d'actionnaires contient les mentions suivantes :
 
-1° Les nom, prénom usuel et domicile de chaque actionnaire présent, le nombre d'actions dont il est titulaire, ainsi que le nombre de voix attaché à ces actions ;
+1° Les nom, prénom usuel et domicile de chaque actionnaire présent ou réputé présent au sens de l'article L. 225-107 du code de commerce , le nombre d'actions dont il est titulaire, ainsi que le nombre de voix attaché à ces actions ;
 
 2° Les nom, prénom usuel et domicile de chaque actionnaire représenté, le nombre d'actions dont il est titulaire, ainsi que le nombre de voix attaché à ces actions ;
 
