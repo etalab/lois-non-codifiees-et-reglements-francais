@@ -488,6 +488,7 @@
 - [Arrêté du 22 janvier 1990 (AGRS9000169A)](arrete-du-22-janvier-1990-agrs9000169a)
 - [Arrêté du 22 juin 1990 (EQUL9000719A)](arrete-du-22-juin-1990-equl9000719a)
 - [Arrêté du 22 juin 1990 (EQUT9000804A)](arrete-du-22-juin-1990-equt9000804a)
+- [Arrêté du 22 juin 1990 (INTE9000265A)](arrete-du-22-juin-1990-inte9000265a)
 - [Arrêté du 22 juin 1990 (SPSN9001443A)](arrete-du-22-juin-1990-spsn9001443a)
 - [Arrêté du 22 juin 1990 (SPSN9001444A)](arrete-du-22-juin-1990-spsn9001444a)
 - [Arrêté du 22 juin 1990 (SPSN9001445A)](arrete-du-22-juin-1990-spsn9001445a)
