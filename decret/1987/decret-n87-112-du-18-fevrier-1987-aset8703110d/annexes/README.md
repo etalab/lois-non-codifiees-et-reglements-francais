@@ -1,0 +1,3 @@
+# Annexes
+
+- [NORMES TECHNIQUES DES DECLARATIONS SUR SUPPORT MAGNETIQUE (BANDE OU DISQUETTE) EN VUE DE L'ETABLISSEMENT DES LISTES ELECTORALES PRUD'HOMALES *suite* Format des enregistrements](normes-techniques-des-declarations-sur)
