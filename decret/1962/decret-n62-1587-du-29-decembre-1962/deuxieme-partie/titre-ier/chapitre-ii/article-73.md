@@ -1,0 +1,5 @@
+# Article 73
+
+L'agent comptable central du Trésor procède, sous sa responsabilité propre, aux opérations de recettes et de dépenses afférentes à l'exécution des lois de finances ordonnancées par les ministres et assignées sur son poste ; il concourt à la comptabilisation de l'émission, de la gestion et du remboursement des titres de la dette publique à court, moyen et long terme ; il décrit les opérations d'émission et de remboursement de la dette garantie par l'Etat ; il exécute ou centralise les opérations de trésorerie de l'Etat avec les instituts d'émission, des correspondants du Trésor de caractère national et des institutions internationales.
+
+Après avoir centralisé les opérations du budget général et celles des comptes spéciaux qui sont faites par les comptables principaux sous leur responsabilité exclusive, l'agent comptable central du Trésor passe les écritures de fin d'année permettant de dresser les comptes annuels de l'Etat ; il soumet le compte général de l'administration des finances à l'approbation du ministre.
