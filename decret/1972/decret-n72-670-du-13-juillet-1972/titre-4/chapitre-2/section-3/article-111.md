@@ -1,3 +1,0 @@
-# Article 111
-
-Sans préjudice des sanctions disciplinaires prévues au titre III du décret du 13 juillet 1972 le procureur de la République dans le ressort duquel est établi un bureau annexe peut en ordonner la fermeture, s'il fonctionne dans des conditions irrégulières, notamment au regard des dispositions de l'alinéa 3 de l'article 110. Il en avise préalablement le procureur de la République près le tribunal de grande instance dans le ressort duquel la personne physique ou morale titulaire de ce bureau est inscrite sur la liste des conseils juridiques à titre principal. Cette décision peut faire l'objet d'un recours dans les conditions prévues aux articles 29 et 36.

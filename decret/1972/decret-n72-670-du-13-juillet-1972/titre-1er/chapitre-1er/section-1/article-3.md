@@ -1,9 +1,0 @@
-# Article 3
-
-La pratique professionnelle exigée par le 2° de l'article 54 de la loi susvisée du 31 décembre 1971 précitée, pour l'inscription sur une liste de conseils juridiques résulte, d'une part, de l'exercice pendant trois années au moins d'une activité professionnelle, soit en qualité de collaborateur d'un conseil juridique, d'un avocat, d'un avoué près les cours d'appel ou d'un avocat au Conseil d'Etat et à la Cour de cassation, soit en qualité d'avocat stagiaire, ou de clerc de notaire inscrit au stage, et, d'autre part, de la participation à des sessions de formation professionnelle d'une durée totale d'au moins deux cents heures.
-
-Le programme des sessions de formation qui comportent un enseignement des règles et usages de la profession ainsi que de la pratique de celle-ci et les modalités de leur fonctionnement sont fixés par la Commission nationale des conseils juridiques.
-
-Les sessions sont organisées, sous le contrôle de la commission nationale, par les commissions régionales des conseils juridiques. La commission nationale et les commissions régionales peuvent conclure des conventions avec des universités et des organismes de formation.    La moitié de la pratique professionnelle obligatoire peut avoir été accomplie soit chez un expert comptable ou dans le service juridique ou fiscal d'une entreprise employant au moins trois juristes, soit à l'étranger en qualité de membre d'une profession juridique réglementée ou auprès d'une personne physique ou d'un groupement exerçant une telle profession, ou dans les services juridiques ou fiscaux d'une organisation internationale intergouvernementale.
-
-La pratique professionnelle obligatoire peut résulter d'une activité exercée simultanément à mi-temps auprès de deux professionnels, entreprises ou organismes mentionnés aux premier et quatrième alinéas.
