@@ -2,7 +2,6 @@
 
 - [Article 1](article-1.md)
 - [Titre Ier : La commune de Paris.](titre-ier)
-- [Titre II : Le département de Paris.](titre-ii)
 - [Titre III : La représentation de l'Etat.](titre-iii)
 - [Titre IV : Le budget et les biens.](titre-iv)
 - [Titre V : Les services et les personnels  de la commune et du département de Paris](titre-v)
