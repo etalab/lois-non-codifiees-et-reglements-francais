@@ -1,6 +1,6 @@
 # Article 7
 
-Lorsque le bureau comporte des sections, il est présidé pour une période de trois ans par le président de la section chargée d'examiner les demandes relatives aux affaires portées devant les juridictions de première instance de l'ordre judiciaire ou la cour d'assises, puis, en suivant l'ordre mentionné à l'article 6 du présent décret, par les présidents des autres sections.
+Lorsque le bureau comporte des sections, il est présidé par le président de la section chargée d'examiner les demandes relatives aux affaires portées devant les juridictions de première instance de l'ordre judiciaire ou la cour d'assises.
 
 Le président du bureau ne peut se substituer aux présidents de section pour l'exercice des pouvoirs qui leur sont conférés par la loi et par le présent décret.
 
