@@ -1,5 +1,0 @@
-# Article 11
-
-Lorsqu'il est fait application de l'un des modes d'aménagement foncier défini au titre Ier du livre Ier du code rural, le bénéfice de la prime peut être soit maintenu sur les superficies concernées, à condition que le nouvel exploitant souscrive aux obligations résultant de l'attribution de la prime sur la période restant à courir, soit reporté sur les immeubles reçus à l'issue d'opération de remembrement satisfaisant aux conditions d'attribution de la prime.    En cas de changement d'exploitant, le bénéfice de la prime peut être transféré si le nouvel exploitant souscrit aux obligations résultant de l'attribution de la prime pour les périodes restant à courir.
-
-En cas d'acquisition par une société d'aménagement foncier et d'établissement rural (S.A.F.E.R.) de bois faisant l'objet de la prime, le bénéfice de celle-ci peut être transféré à la S.A.F.E.R. Lorsqu'il y a cession à un nouvel acquéreur, celui-ci peut bénéficier de la prime à condition de souscrire aux obligations résultant de l'attribution de la prime pour les périodes restant à courir.
