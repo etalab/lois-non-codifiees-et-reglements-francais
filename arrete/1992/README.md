@@ -285,7 +285,6 @@
 - [Arrêté du 8 décembre 1992 (SANM9203141A)](arrete-du-8-decembre-1992-sanm9203141a)
 - [Arrêté du 8 février 1988 (PTTT8800141A)](arrete-du-8-fevrier-1988-pttt8800141a)
 - [Arrêté du 8 janvier 1991 (MENF9002726A)](arrete-du-8-janvier-1991-menf9002726a)
-- [Arrêté du 8 janvier 1992 (BUDF9200001A)](arrete-du-8-janvier-1992-budf9200001a)
 - [Arrêté du 8 janvier 1992 (TEFT9204273A)](arrete-du-8-janvier-1992-teft9204273a)
 - [Arrêté du 8 juillet 1992 (BUDR9205028A)](arrete-du-8-juillet-1992-budr9205028a)
 - [Arrêté du 8 juillet 1992 (EQUA9200956A)](arrete-du-8-juillet-1992-equa9200956a)
