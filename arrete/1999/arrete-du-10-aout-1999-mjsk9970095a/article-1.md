@@ -6,4 +6,6 @@ La liste des fédérations dont les commissions spécialisées des dans et grade
 
 - Fédération française de judo, jujitsu, kendo et disciplines associées (FFJDA) ;
 
-- Fédération française de taekwondo et disciplines associées (FFTDA).
+- Fédération française de taekwondo et disciplines associées (FFTDA) ;
+
+- Fédération française de karaté et arts martiaux affinitaires (FFKAMA).
