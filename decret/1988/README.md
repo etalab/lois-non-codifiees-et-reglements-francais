@@ -19,6 +19,7 @@
 - [Décret n°88-873 du 10 août 1988 (PTTP8800606D)](decret-n88-873-du-10-aout-1988-pttp8800606d)
 - [Décret n°88-874 du 10 août 1988 (PTTP8800607D)](decret-n88-874-du-10-aout-1988-pttp8800607d)
 - [Décret n°88-875 du 10 août 1988 (PTTP8800608D)](decret-n88-875-du-10-aout-1988-pttp8800608d)
+- [Décret n°88-878 du 10 août 1988 (INTA8800272D)](decret-n88-878-du-10-aout-1988-inta8800272d)
 - [Décret n°88-867 du 11 août 1988 (SPSX8810713D)](decret-n88-867-du-11-aout-1988-spsx8810713d)
 - [Décret n°88-868 du 11 août 1988 (SPSX8810714D)](decret-n88-868-du-11-aout-1988-spsx8810714d)
 - [Décret n°88-869 du 11 août 1988 (MPAX8810715D)](decret-n88-869-du-11-aout-1988-mpax8810715d)
