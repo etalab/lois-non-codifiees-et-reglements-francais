@@ -10,13 +10,13 @@ Sous la condition d'adresser à la société le montant des frais de recommandat
 
 II. Un ou plusieurs associés représentant au moins 5 p. 100 du capital social peuvent demander l'inscription à l'ordre du jour de l'assemblée de projets de résolution. Cette demande est adressée au siège social par lettre recommandée avec avis de réception vingt-cinq jours au moins avant la date de l'assemblée réunie sur première convocation.
 
-Toutefois, lorsque le capital de la société est supérieur à 5 millions de francs, le montant du capital à représenter en application de l'alinéa précédent est, selon l'importance dudit capital, réduit ainsi qu'il suit :
+Toutefois, lorsque le capital de la société est supérieur à 760000 euros, le montant du capital à représenter en application de l'alinéa précédent est, selon l'importance dudit capital, réduit ainsi qu'il suit :
 
-4 p. 100 pour les 5 premiers millions de francs ;
+4 p. 100 pour les 760 000 premiers euros ;
 
-2,5 p. 100 pour la tranche de capital comprise entre 5 millions et 50 millions de francs ;
+2,5 p. 100 pour la tranche de capital comprise entre 760 000 euros et 7 600 000 euros ;
 
-1 p. 100 pour la tranche comprise entre 50 millions et 100 millions de francs ;
+1 p. 100 pour la tranche comprise entre 7 600 000 euros et 15 200 000 euros ;
 
 0,5 p. 100 pour le surplus du capital.
 
