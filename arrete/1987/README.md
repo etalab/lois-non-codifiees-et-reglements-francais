@@ -8,6 +8,7 @@
 - [Arrêté du 3 septembre 1982 (ASEX8798216A)](arrete-du-3-septembre-1982-asex8798216a)
 - [Arrêté du 5 février 1987](arrete-du-5-fevrier-1987)
 - [Arrêté du 5 février 1987 (ACVC8700001A)](arrete-du-5-fevrier-1987-acvc8700001a)
+- [Arrêté du 5 février 1987 (PTTP8700097A)](arrete-du-5-fevrier-1987-pttp8700097a)
 - [Arrêté du 5 janvier 1987](arrete-du-5-janvier-1987)
 - [Arrêté du 6 janvier 1987](arrete-du-6-janvier-1987)
 - [Arrêté du 6 janvier 1987 (ECOX8798243A)](arrete-du-6-janvier-1987-ecox8798243a)
@@ -109,3 +110,5 @@
 - [Arrêté du 31 décembre 1986 (ASES8700027A)](arrete-du-31-decembre-1986-ases8700027a)
 - [Arrêté du 31 décembre 1986 (ASES8700042A)](arrete-du-31-decembre-1986-ases8700042a)
 - [Arrêté du 31 décembre 1986 (ENVN8700018A)](arrete-du-31-decembre-1986-envn8700018a)
+- [Arrêté du 31 décembre 1986 (INDD8600121A)](arrete-du-31-decembre-1986-indd8600121a)
+- [Arrêté du 31 décembre 1986 (INTB8700044A)](arrete-du-31-decembre-1986-intb8700044a)

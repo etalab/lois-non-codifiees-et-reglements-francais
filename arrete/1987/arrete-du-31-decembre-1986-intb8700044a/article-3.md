@@ -1,0 +1,3 @@
+# Article 3
+
+Le montant des ajustements mentionnés à l'article 2 ci-dessus fera l'objet d'une régularisation pour tenir compte, d'une part, du montant définitif des dépenses résultant des accroissements de charges tel qu'il sera constaté, pour chaque département intéressé, par les arrêtés interministériels prévus par l'article 94 de la loi du 7 janvier 1983 susvisée, pris après avis de la commission consultative sur l'évaluation des charges et relatifs aux transferts de compétences en matière d'enseignement et de culture et, d'autre part, conformément aux articles 7, 20 et 21 de la loi n° 85-1098 du 11 octobre 1985, du montant définitif des dépenses de personnel, de fonctionnement et d'équipement des préfectures prises en charge par l'Etat.

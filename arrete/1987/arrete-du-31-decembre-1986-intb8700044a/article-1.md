@@ -1,0 +1,3 @@
+# Article 1
+
+Pour l'application de l'article 95 de la loi n° 83-8 du 7 janvier 1983, le produit des impôts revenant aux départements des Alpes-Maritimes, de la Haute-Garonne, de la Savoie, de la Haute-Savoie, du Var, de Seine-et-Marne, des Yvelines, des Hauts-de-Seine et de Paris est diminué, au profit du budget général, de la différence entre le produit calculé sur la base des taux en vigueur à la date du transfert et le montant des charges qui résultent des transferts de compétences opérés en 1984, 1985 et 1986, ainsi que de la moitié du supplément de ressources fiscales résultant des dispositions de l'article 14 de la loi n° 83-1179 du 29 décembre 1983 portant loi de finances pour 1984 susvisée.
