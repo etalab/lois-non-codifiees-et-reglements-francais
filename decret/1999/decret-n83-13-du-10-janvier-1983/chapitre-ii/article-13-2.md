@@ -1,0 +1,9 @@
+# Article 13-2
+
+Le directeur général du Centre national de la cinématographie établit, après avis du comité consultatif de la diffusion cinématographique, la liste des entreprises tenues de souscrire les engagements prévus à l'article 13-1. Chaque entreprise inscrite sur la liste reçoit notification de la décision d'inscription ; elle adresse au Centre national de la cinématographie, dans les deux mois de la notification, ses propositions d'engagements pour les deux années suivantes.
+
+Le directeur général du Centre national de la cinématographie se prononce, après avis du comité consultatif de la diffusion cinématographique, dans les deux mois suivant le dépôt des propositions.
+
+Il approuve les propositions des entreprises qui sont conformes aux objectifs fixés par l'article 8.
+
+Lorsqu'une entreprise mentionnée au premier alinéa n'a pas adressé ses propositions dans le délai de deux mois ou si les propositions qu'elle a adressées ne peuvent être regardées comme conformes aux objectifs fixés par l'article 8, le directeur général du Centre national de la cinématographie la met en demeure de présenter dans le délai d'un mois, selon le cas, ses propositions ou de nouvelles propositions conformes à ces objectifs. Si, à l'expiration de ce délai, l'entreprise n'a pas présenté de propositions ou si les propositions qu'elle a présentées ne peuvent être regardées comme conformes aux objectifs fixés par l'article 8, le directeur général du Centre national de la cinématographie détermine les engagements de l'entreprise sur proposition du comité consultatif de la diffusion cinématographique, dans le respect de l'égalité de traitement entre entreprises placées dans des situations de concurrence comparables et en tenant compte notamment des conditions de l'offre de spectacles cinématographiques dans leur zone d'attraction.

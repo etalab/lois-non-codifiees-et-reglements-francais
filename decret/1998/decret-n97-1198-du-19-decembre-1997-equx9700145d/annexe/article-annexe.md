@@ -1,8 +1,6 @@
 # Article ANNEXE
 
-TITRE Ier DÉCISIONS ADMINISTRATIVES INDIVIDUELLES
-
-PRISES PAR DÉCRET
+TITRE Ier DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR DÉCRET
 
 Domaine des ports maritimes
 
@@ -12,7 +10,13 @@ Code des ports maritimes
 
 Approbation d'une concession d'outillage public dans les ports d'intérêt national lorsque la déclaration d'utilité publique a fait l'objet d'un décret en Conseil d'Etat.
 
-Article R. 122-8 a.
+Article R. 122-8
+
+2
+
+Approbation d'une concession d'outillage public dans les ports autonomes maritimes lorsque la déclaration d'utilité publique a fait l'objet d'un décret en Conseil d'Etat.
+
+Article R. 115-9
 
 Domaine de l'aviation civile
 
@@ -28,23 +32,17 @@ Article R. 244-1, 5e alinéa.
 
 Décision de classement des aérodromes.
 
-Article R. 222-3.
+Article R. 222-3
 
 3
 
 Autorisation d'outillage privé avec obligation de service public sur les aérodromes appartenant à l'Etat dans le cadre des concessions non conformes aux cahiers des charges types.
 
-Article R. 223-3.
+Article R. 223-3
 
 TITRE II DÉCISIONS ADMINISTRATIVES INDIVIDUELLES PRISES PAR LE MINISTRE CHARGÉ DE L'ÉQUIPEMENT, DES TRANSPORTS ET DU LOGEMENT
 
-A. - Décisions prises conjointement
-
-avec un ou plusieurs ministres
-
-Mesure prise par les ministres chargés des finances,
-
-de l'équipement et du logement
+A. - Décisions prises conjointement avec un ou plusieurs ministres Mesure prise par les ministres chargés des finances, de l'équipement et du logement
 
 Décret n° 83-252 du 29 mars 1983 relatif aux procédures d'homologation ou d'agrément technique applicables aux marchés publics de travaux et instituant trois procédures concernant respectivement les liants hydrauliques, les armatures pour béton armé et les armatures à haute résistance de précontrainte
 
@@ -58,7 +56,9 @@ Mesure prise par les ministres chargés de l'urbanisme,
 
 du logement et des transports et les ministres intéressés
 
-Décret n° 86-664 du 14 mars 1986 déterminant les conditions dans lesquelles les personnes morales visées à l'article 6 (b) de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée peuvent assurer la conduite d'opération
+Décret n° 86-664 du 14 mars 1986 déterminant les conditions dans
+
+lesquelles les personnes morales visées à l'article 6 (b) de la loi n° 85-704 du 12 juillet 1985 relative à la maîtrise d'ouvrage publique et à ses rapports avec la maîtrise d'oeuvre privée peuvent assurer la conduite d'opération
 
 1
 
@@ -66,9 +66,7 @@ Autorisation permanente d'exercer des missions de conduite d'opération.
 
 Article 2.
 
-Mesures prises par les ministres
-
-chargés du logement et des finances
+Mesures prises par les ministres chargés du logement et des finances
 
 Code de la construction et de l'habitation
 
@@ -96,9 +94,7 @@ Octroi d'un agrément de collecte de la participation des employeurs à l'effort
 
 Article R. 313-21.
 
-Mesure prise par les ministres chargés du logement,
-
-des finances et du commerce
+Mesure prise par les ministres chargés du logement, des finances et du commerce
 
 Code de la construction et de l'habitation
 
@@ -108,9 +104,7 @@ Octroi d'un agrément de collecte de la participation des employeurs à l'effort
 
 Article R. 313-21.
 
-Mesure prise par les ministres chargés du logement,
-
-des finances et des affaires sociales
+Mesure prise par les ministres chargés du logement, des finances et des affaires sociales
 
 Code de la construction et de l'habitation
 
@@ -120,9 +114,7 @@ Octroi d'un agrément de collecte de la participation des employeurs à l'effort
 
 Article R. 313-21.
 
-Mesures prises par les ministres
-
-chargés du logement et de l'intérieur
+Mesures prises par les ministres chargés du logement et de l'intérieur
 
 Code de la construction et de l'habitation
 
@@ -138,9 +130,7 @@ Décisions relatives à la dissolution ou la suspension du conseil d'administrat
 
 Articles R. 421-59 et R. 421-60, 1er alinéa.
 
-Mesure prise par les ministres
-
-chargés du logement et des affaires sociales
+Mesure prise par les ministres chargés du logement et des affaires sociales
 
 Code de la construction et de l'habitation
 
@@ -150,9 +140,7 @@ Autorisation de sortie du statut coopératif pour les sociétés anonymes coopé
 
 Articles R. 422-9-6 et R. 422-36-1.
 
-Mesure prise par les ministres
-
-chargés des transports et des finances
+Mesure prise par les ministres chargés des transports et des finances
 
 Décret n° 60-24 du 12 janvier 1960 portant application, à l'égard des agents et anciens agents de la Société nationale des chemins de fer tunisiens et du service des chemins de fer de la compagnie des phosphates de Gafsa, de l'article 11 de la loi n° 56-782 du 4 août 1956 relative aux conditions de reclassement des fonctionnaires et agents français des administrations et services publics du Maroc et de Tunisie
 
@@ -178,9 +166,7 @@ Pensions garanties par l'Etat : décision de mise en paiement de la pension ou d
 
 Article 8, 2e alinéa.
 
-Mesure prise par les ministres
-
-chargés de la mer, des transports et de l'industrie
+Mesure prise par les ministres chargés de la mer, des transports et de l'industrie
 
 Décret n° 96-611 du 4 juillet 1996 relatif à la mise sur le marché des bateaux de plaisance et des pièces et éléments d'équipement
 
@@ -190,9 +176,7 @@ Agrément des organismes d'évaluation de conformité des navires de plaisance.
 
 Article 7, 1er alinéa.
 
-Mesure prise par les ministres
-
-chargés de la marine marchande et de l'industrie
+Mesure prise par les ministres chargés de la marine marchande et de l'industrie
 
 Décret n° 93-279 du 4 mars 1993 fixant les modalités de calcul des quantités de pétrole brut et de capacité de transport maritime pour l'application de l'article 6 de la loi n° 92-1443 du 31 décembre 1992 portant réforme du régime pétrolier
 
@@ -202,9 +186,7 @@ Décision relative à l'obligation de capacité de transport de pétrole brut so
 
 Article 1er, 1er alinéa, et article 2, 2e alinéa.
 
-Mesure prise par les ministres
-
-chargés de la marine marchande et de l'économie
+Mesure prise par les ministres chargés de la marine marchande et de l'économie
 
 Code des douanes
 
@@ -212,13 +194,9 @@ Code des douanes
 
 Francisation provisoire des navires de commerce.
 
-Article 219,
+Article 219, paragraphe 1er (3°).
 
-paragraphe 1er (3°).
-
-Mesure prise par le ministre chargé de la marine marchande
-
-et, le cas échéant, les autres ministres intéressés
+Mesure prise par le ministre chargé de la marine marchande et, le cas échéant, les autres ministres intéressés
 
 Décret n° 84-810 du 30 août 1984 modifié relatif à la sauvegarde de la vie humaine, à l'habitabilité à bord des navires et à la prévention de la pollution
 
@@ -238,9 +216,7 @@ Approbation d'une concession d'outillage public dans les ports d'intérêt natio
 
 Article R. 122-8 b.
 
-Mesure prise par le ministre chargé de l'aviation civile
-
-et les autres ministres intéressés
+Mesure prise par le ministre chargé de l'aviation civile et les autres ministres intéressés
 
 Code de l'aviation civile
 
@@ -250,9 +226,7 @@ Autorisation d'outillage privé avec obligation de service public sur les aérod
 
 Articles R. 223-3 et R. 223-2.
 
-Mesure prise par le ministre chargé de l'aviation civile
-
-et le ministre chargé de l'économie et des finances
+Mesure prise par le ministre chargé de l'aviation civile et le ministre chargé de l'économie et des finances
 
 Code de l'aviation civile
 
@@ -328,9 +302,7 @@ Agrément des contrôleurs techniques.
 
 Articles R. 111-29 à R. 111-37.
 
-Décret n° 93-1289 du 8 décembre 1993
-
-relatif à l'Ecole nationale des ponts et chaussées
+Décret n° 93-1289 du 8 décembre 1993 relatif à l'Ecole nationale des ponts et chaussées
 
 1
 
@@ -350,7 +322,9 @@ Article R. 422-17, 2e alinéa.
 
 2
 
-Décisions relatives à l'extension de la compétence territoriale des sociétés anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives de production d'habitations à loyer modéré et des sociétés anonymes de crédit immobilier.
+Décisions relatives à l'extension de la compétence territoriale des sociétés anonymes d'habitations à loyer modéré, des sociétés anonymes coopératives de production d'habitations à loyer modéré et des
+
+sociétés anonymes de crédit immobilier.
 
 SAHLM :
 
@@ -452,13 +426,9 @@ Décret n° 60-794 du 22 juin 1960 modifié portant publication de l'accord euro
 
 Agrément de colis pour le transport des matières radioactives.
 
-Arrêté du
+Arrêté du 5 décembre 1996 relatif au transport des marchandises dangereuses par route, article 47.
 
-5 décembre 1996 relatif au transport des marchandises dangereuses par route, article 47.
-
-Arrêté du
-
-6 décembre 1996 relatif au transport des marchandises dangereuses par chemin de fer, article 35.
+Arrêté du 6 décembre 1996 relatif au transport des marchandises dangereuses par chemin de fer, article 35.
 
 Décret n° 70-810 du 2 septembre 1970 relatif à la sécurité des bateaux à passagers non soumis à la réglementation de la navigation maritime
 

@@ -2,4 +2,5 @@
 
 - [Article 1](article-1.md)
 - [Chapitre Ier : Programmation par un groupement ou une entente](chapitre-ier)
+- [Chapitre II : Programmation par une entreprise propriétaire](chapitre-ii)
 - [Chapitre III : Dispositions communes](chapitre-iii)
