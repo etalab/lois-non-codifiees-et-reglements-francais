@@ -91,3 +91,5 @@ Ancienneté acquise.
 1er échelon
 
 Ancienneté acquise.
+
+La situation au 1er août 1995 des agents mentionnés aux a et b du présent article ne peut être moins favorable, en ce qui concerne tant l'échelon que l'ancienneté dans cet échelon, que celle qui aurait été la leur s'ils n'avaient été promus qu'au 1er août 1995 dans le grade provisoire d'aide de documentation principal créé par l'article 15 ci-après puis reclassés dans la classe exceptionnelle à cette même date. Sont appliquées, pour le classement dans le grade provisoire, les règles fixées à l'article 20 du présent décret et pour le reclassement dans la classe exceptionnelle celles fixées à l'article 16.
