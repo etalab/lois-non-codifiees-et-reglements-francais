@@ -8,4 +8,4 @@ Lorsque, dans une même administration, le nombre des fonctionnaires ayant le gr
 
 Dans le cas prévu au troisième alinéa de l'article 3 du présent décret, les représentants de l'administration sont nommés par arrêtés conjoints du Premier ministre et des ministres intéressés.
 
-Les représentants de l'administration titulaires et suppléants au sein des commissions locales peuvent être désignés, sans distinction de grade, par décision du chef de la circonscription territoriale auprès duquel elles sont constituées.
+Les représentants de l'administration titulaires et suppléants au sein des commissions locales peuvent être désignés, sans distinction de grade, par décision du chef du service déconcentré auprès duquel elles sont constituées.
