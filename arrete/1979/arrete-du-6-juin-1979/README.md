@@ -1,4 +1,7 @@
-# Arrêté du 6 juin 1979 relatif au comité des études préparatoires au diplôme d'Etat d'ambulancier.
+# Arrêté du 6 juin 1979 portant interdiction d'inscription au registre français d'immatriculation des avions à réaction subsoniques dépourvus de certification de limitation des nuisances.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Champ d'application](champ-d-application)
+- [Conditions techniques.](conditions-techniques)
+- [Dispositions transitoires](dispositions-transitoires)
