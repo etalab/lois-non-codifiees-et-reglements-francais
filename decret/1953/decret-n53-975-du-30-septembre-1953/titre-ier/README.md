@@ -1,5 +1,6 @@
 # Titre Ier : Organisation et attributions des assemblées de l'office national interprofessionnel des céréales.
 
+- [Article 2](article-2.md)
 - [Article 4](article-4.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
