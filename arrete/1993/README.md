@@ -520,7 +520,6 @@
 - [Arrêté du 17 décembre 1993 (ECOM9200304A)](arrete-du-17-decembre-1993-ecom9200304a)
 - [Arrêté du 17 décembre 1993 (INTD9300715A)](arrete-du-17-decembre-1993-intd9300715a)
 - [Arrêté du 17 février 1993 (INDB9300176A)](arrete-du-17-fevrier-1993-indb9300176a)
-- [Arrêté du 17 février 1993 (JUSC9320136A)](arrete-du-17-fevrier-1993-jusc9320136a)
 - [Arrêté du 17 février 1993 (SPSS9300497A)](arrete-du-17-fevrier-1993-spss9300497a)
 - [Arrêté du 17 juin 1987 (ENVQ8700128A)](arrete-du-17-juin-1987-envq8700128a)
 - [Arrêté du 17 juin 1993 (JUSD9330019A)](arrete-du-17-juin-1993-jusd9330019a)
