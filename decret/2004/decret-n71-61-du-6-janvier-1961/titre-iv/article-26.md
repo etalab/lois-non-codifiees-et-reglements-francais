@@ -1,0 +1,3 @@
+# Article 26
+
+Sont abrogées les dispositions relatives aux conseils d'administration et de perfectionnement, précédemment institués auprès des établissements dont les structures sont définies par le présent décret, soit notamment l'arrêté du 15 janvier 1945 modifié relatif à la composition des conseils d'administration, les arrêtés modifiés des 18 décembre 1920, 23 juin 1943 et 6 août 1946 relatifs à la composition des conseils de perfectionnement, le décret du 28 avril 1958 relatif au conseil de perfectionnement unique pour les trois écoles nationales supérieures agronomiques de Grignon, Montpellier, Rennes.
