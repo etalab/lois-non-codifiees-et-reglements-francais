@@ -17,3 +17,17 @@ Correspondants informatiques interrégionaux responsables de la mise en oeuvre d
 Personnels responsables de l'accueil du public dans les directions régionales, les directions départementales et les établissements nationaux de la jeunesse et des sports ;
 
 Adjoints au coordonnateur administratif et financier à la direction régionale de la jeunesse et des sports d'Ile-de-France.
+
+- personnels chargés de la coordination de la formation continue des agents publics ;
+
+- personnels chargés de la coordination du service public régional de formation ;
+
+- adjoints aux personnels responsables de la gestion ;
+
+- correspondants pour les questions d'hygiène et de sécurité ;
+
+- agents responsables des personnels de service ;
+
+- personnels responsables de la maintenance audio-visuelle ;
+
+- chef de bureau de gestion et de recrutement.
