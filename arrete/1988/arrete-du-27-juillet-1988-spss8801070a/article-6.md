@@ -26,4 +26,10 @@ Le taux de rendement réel des actifs est égal au rapport :
 
 - au montant moyen, au cours de l'exercice, de l'ensemble des placements, ainsi que des autres éléments d'actifs pouvant être admis en représentation des provisions techniques, à l'exception des valeurs remises par les réassureurs.
 
-Les contrats libellés en unités de compte, les opérations de prévoyance collective mentionnées au deuxième alinéa de l'article L. 121-1 du code de la mutualité et aux opérations mentionnées au chapitre III du titre II du livre III du code de la mutualité ne sont pas concernés par les dispositions ci-dessus.
+Les dispositions ci-dessus ne sont pas applicables :
+
+- aux contrats libellés en unités de compte ;
+
+- aux opérations de prévoyance collective mentionnées au deuxième alinéa de l'article L. 121-1 du code de la mutualité, qui ont pour objet l'acquisition ou la jouissance des droits en cas de vie dans lesquelles un lien est établi entre la revalorisation des cotisations et celle des droits en cas de vie précédemment acquis, dont les actifs et les droits sont isolés de ceux des autres participants et qui sont mises en oeuvre sur la base d'un règlement particulier ;
+
+- aux opérations mentionnées au chapitre III du titre II du livre III du code de la mutualité.
