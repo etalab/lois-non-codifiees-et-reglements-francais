@@ -1,7 +1,7 @@
 # Article 8
 
-Les candidats reçus aux concours sont nommés éducateurs stagiaires et accomplissent un stage, au cours duquel ils reçoivent une formation.
+Les candidats reçus aux concours ainsi que ceux recrutés par la voie de la liste d'aptitude sont nommés éducateurs stagiaires et accomplissent un stage au cours duquel ils reçoivent une formation.
 
-La durée du stage est d'un an pour les titulaires du diplôme d'Etat d'éducateur spécialisé. Les intéressés sont classés au 1er échelon du grade d'éducateur de 2e classe.
+La durée du stage est de deux ans pour les stagiaires recrutés par la voie du concours externe sur épreuves et par la voie du concours interne et de un an pour les stagiaires recrutés par les autres voies.
 
-Pour les autres candidats, la durée du stage est de deux ans. Les intéressés sont classés la première année à l'échelon de stage et la seconde année au 1er échelon du grade d'éducateur de 2e classe.
+Les stagiaires bénéficiant d'un stage de deux ans doivent le faire valider.

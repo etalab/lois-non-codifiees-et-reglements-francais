@@ -1,5 +1,11 @@
 # Article 2
 
-Les éducateurs de la protection judiciaire de la jeunesse sont chargés de conduire, sur décision judiciaire, dans les établissements ou services du secteur public de la protection judiciaire de la jeunesse, sous l'autorité des directeurs de ces services ou établissements, des actions éducatives auprès des mineurs délinquants ou en danger et de jeunes majeurs faisant l'objet d'une mesure de protection judiciaire. Ils assurent les missions confiées aux services éducatifs auprès des tribunaux. Ils participent à l'organisation et à la mise en oeuvre d'actions de prévention auprès des jeunes.
+Les éducateurs de la protection judiciaire de la jeunesse concourent à la préparation et à la mise en oeuvre des décisions civiles et pénales prononcées par les juridictions à l'égard des mineurs et des jeunes majeurs.
 
-Ils peuvent en outre assurer, dans les centres de formation de la protection judiciaire de la jeunesse, des fonctions d'enseignement ou d'animation pédagogique.
+Ils conduisent des actions d'éducation, d'investigation, d'observation et d'insertion auprès des mineurs délinquants ou en danger et des jeunes majeurs faisant l'objet d'une mesure de protection judiciaire.
+
+Ils participent à l'organisation et à la mise en oeuvre d'actions de prévention auprès des mineurs et des jeunes majeurs. Ils assurent l'accueil des mineurs et de leurs familles.
+
+Ils peuvent, en outre, assurer des fonctions d'enseignement ou d'animation pédagogique.
+
+Sous l'autorité des directeurs des établissements et services de la protection judiciaire de la jeunesse dans lesquels ils sont affectés, ils peuvent exercer leurs activités dans l'ensemble des juridictions, organismes, établissements et services du ministère de la justice et, le cas échéant, dans tous les organismes publics où se déroulent des actions relevant des missions définies au présent article.

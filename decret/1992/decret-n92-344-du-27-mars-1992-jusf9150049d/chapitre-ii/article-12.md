@@ -1,7 +1,7 @@
 # Article 12
 
-A l'expiration de leur formation et si celle-ci a été validée, les éducateurs stagiaires sont titularisés.
+A l'issue de leur formation, les éducateurs stagiaires ayant accompli deux années de stage dont la formation a été validée et ceux ayant accompli une année de stage dont les services ont donné satisfaction sont titularisés après avis de la commission administrative paritaire.
 
-Ils reçoivent une affectation dans les conditions fixées par l'arrêté prévu à l'article 9 ci-dessus.
+Les stagiaires qui n'ont pas été titularisés à l'issue de leur période de stage peuvent être autorisés à effectuer un stage complémentaire d'une durée maximale de un an.
 
-Les éducateurs stagiaires dont la formation n'a pas été validée sont soit autorisés à poursuivre celle-ci pour une durée maximale d'un an non renouvelable, soit licenciés, soit, s'ils avaient auparavant la qualité de fonctionnaires réintégrés, dans leur corps, cadre d'emplois ou emploi d'origine.
+Les stagiaires qui n'ont pas été autorisés à effectuer un stage complémentaire ou dont le stage complémentaire n'a pas donné satisfaction sont soit licenciés, soit, s'ils avaient auparavant la qualité de fonctionnaire, réintégrés dans leur corps, cadre d'emplois ou emploi d'origine.
