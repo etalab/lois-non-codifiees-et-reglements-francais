@@ -3,5 +3,6 @@
 - [Article 14](article-14.md)
 - [Appareils soumis au règlement](appareils-soumis-au)
 - [Compétence du préfet de police](competence-du-prefet-de-police)
+- [Dérogations](derogations)
 - [Dispositions diverses](dispositions-diverses)
 - [Construction et réparation des appareils](construction-et)
