@@ -1,11 +1,11 @@
 # Article 45
 
-Le demandeur dispose d'un délai de trois mois à compter de la date de réception du rapport de recherche pour déposer par écrit de nouvelles revendications ou présenter des observations. Ce délai peut être renouvelé une fois.
+I. Le rapport de recherche préliminaire est immédiatement notifié au demandeur, qui, si des antériorités sont citées, doit, sous peine de rejet de la demande de brevet, déposer de nouvelles revendications ou présenter des observations à l'appui des revendications maintenues.
 
-En cas de dépôt de nouvelles revendications, les changements apportés aux revendications initiales sont signalés. Si l'objet des nouvelles revendications n'est pas couvert par les revendications initiales, notification est faite au demandeur d'avoir à acquitter la taxe prévue à l'article 98 (3°) aux fins de l'établissement d'un rapport de recherche complémentaire. Si l'intéressé ne défère pas à cette invitation dans un délai de deux mois, le dépôt des nouvelles revendications est déclaré irrecevable.
+II. Le demandeur dispose d'un délai de trois mois, renouvelable une fois, à compter de la notification du rapport de recherche préliminaire pour déposer de nouvelles revendications ou présenter des observations aux fins de discuter l'opposabilité des antériorités citées.
 
-Les observations ont pour objet :
+III. En cas de dépôt de nouvelles revendications, les changements apportés aux revendications sont signalés.
 
-- lorsque les revendications sont maintenues, de discuter l'opposabilité des antériorités citées dans le rapport de recherche ;
+Sur requête, le demandeur peut dans ce cas être autorisé à éliminer de la description et des dessins les éléments qui ne seraient plus en concordance avec les nouvelles revendications. Cette requête est recevable jusqu'à la date du paiement de la redevance de délivrance et d'impression du fascicule.
 
-- lorsque de nouvelles revendications sont déposées, de mettre en évidence les caractéristiques techniques de ces revendications qui échappent à l'opposabilité des antériorités citées.
+IV. Si l'objet des nouvelles revendications n'est pas couvert par les revendications sur la base desquelles la recherche a été effectuée, notification est faite au demandeur d'avoir à acquitter la redevance prescrite pour l'établissement d'un rapport de recherche préliminaire complémentaire. Si l'intéressé ne défère pas à cette invitation dans le délai qui lui est imparti, le dépôt des nouvelles revendications est déclaré irrecevable et le brevet est délivré avec les revendications sur la base desquelles la recherche a été effectuée.
