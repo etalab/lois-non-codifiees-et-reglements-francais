@@ -1,6 +1,6 @@
 # Article 33
 
-A compter de 1996, le Gouvernement présente, en annexe au rapport relatif aux principes fondamentaux qui déterminent l'évolution des régimes obligatoires de base de sécurité sociale prévu par l'article L. 111-3 du code de la sécurité sociale, un document récapitulant, pour les deux derniers exercices, les montants constatés ou estimés :
+Le Gouvernement présente chaque année un document récapitulant, pour les deux derniers exercices, les montants constatés ou estimés :
 
 - des crédits inscrits au budget général et au budget annexe des prestations sociales agricoles, présentés par titre et par chapitre, ainsi que des dépenses effectives ;
 
