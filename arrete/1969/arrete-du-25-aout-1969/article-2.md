@@ -91,3 +91,9 @@ Baccalauréat international préparé et obtenu en 1980-1981, 1981-1982, 1982-19
 Certificat général d'opérateur des radiocommunications.
 
 Diplôme de radio-électronicien de la marine marchande.
+
+Titre d'ancien élève de l'école du commissariat de la marine.
+
+Titre d'ancien élève de l'école d'administration de la marine.
+
+Titre d'ancien élève du cours supérieur de l'école des officiers de la gendarmerie nationale.
