@@ -4,7 +4,7 @@ I. - La commission [*des rentes*] prévue à l'article 28 ci-dessus arrête en c
 
 Elle évalue, compte tenu du salaire de la victime apprécié conformément aux articles 24 et 25 du présent décret, le montant de la rente qui serait due à la victime sur la base de ce taux.
 
-Le barème indicatif d'invalidité dont il est tenu compte pour la détermination du taux d'incapacité permanente en matière d'accidents du travail est annexé au présent décret (1).
+Les barèmes indicatifs d'invalidité dont il est tenu compte pour la détermination du taux d'incapacité permanente, d'une part, en matière d'accidents du travail et, d'autre part, en matière de maladies professionnelles sont annexés au présent décret. Lorsque ce dernier barème ne comporte pas de référence à la lésion considérée, il est fait application du barème indicatif d'invalidité en matière d'accidents du travail.
 
 La caisse de mutualité sociale agricole notifie immédiatement à la victime les propositions relatives au taux d'incapacité et lui communique en même temps pour information, le montant de la rente correspondante.
 
@@ -31,5 +31,3 @@ V. - Les décisions prises par la caisse en application du IV du présent articl
 La caisse procède à cet envoi dès réception de la demande, en indiquant que la victime ou le médecin qu'elle désigne à cet effet peuvent, dans un délai de quinzaine suivant la réception du rapport, prendre connaissance à la caisse (service du contrôle médical) des autres pièces médicales.
 
 Lorsque la victime a demandé, dans les conditions fixées ci-dessus, l'envoi d'une copie du rapport médical, le délai d'un mois prévu au I du présent article est porté à deux mois.
-
-(1) L'annexe sera publiée dans le prochain numéro de l'édition des Documents administratifs du Journal officiel.
