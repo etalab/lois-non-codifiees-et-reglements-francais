@@ -1,0 +1,3 @@
+# Article 8
+
+Les représentants de l'administration membres titulaires ou suppléants des commissions administratives paritaires venant, au cours de la période susvisée de trois années, par suite de démission, de mise en congé de longue durée au titre de l'article 34 de la loi du 11 janvier 1984, de mise en disponibilité ou pour toute autre cause que l'avancement, à cesser les fonctions en raison desquelles ils ont été nommés ou qui ne réunissent plus les conditions exigées par le présent décret pour faire partie d'une commission administrative paritaire sont remplacés dans la forme indiquée à l'article 10 ci-après. Le mandat de leurs successeurs expire dans ce cas lors du renouvellement de la commission paritaire.

@@ -1,0 +1,5 @@
+# Article 11
+
+Lorsque le statut des personnels d'une administration, d'un service, d'un groupe de services, d'une circonscription territoriale ou d'un établissement public ne prévoit pas l'existence d'une commission administrative paritaire, un décret en Conseil d'Etat peut décider que, par dérogation aux dispositions des articles 8 et 10 du présent décret, les représentants du personnel au sein du comité technique paritaire sont élus par l'ensemble des agents titulaires et non titulaires de l'administration, du service, du groupe de services, de la circonscription territoriale ou de l'établissement public concerné.
+
+En cas d'impossibilité d'apprécier la représentativité des organisations syndicales au niveau où le comité technique paritaire a été créé, il est procédé dans les conditions fixées par un arrêté du ministre intéressé à une consultation du personnel afin de déterminer le nombre de sièges qui sera attribué, dans les conditions prévues à l'article 8, 2e alinéa, du présent décret, aux différentes organisations syndicales.

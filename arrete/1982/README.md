@@ -64,6 +64,7 @@
 - [Arrêté du 27 avril 1982](arrete-du-27-avril-1982)
 - [Arrêté du 28 décembre 1981](arrete-du-28-decembre-1981)
 - [Arrêté du 28 janvier 1982](arrete-du-28-janvier-1982)
+- [Arrêté du 28 mai 1982](arrete-du-28-mai-1982)
 - [Arrêté du 29 avril 1982](arrete-du-29-avril-1982)
 - [Arrêté du 29 janvier 1982](arrete-du-29-janvier-1982)
 - [Arrêté du 29 mars 1982](arrete-du-29-mars-1982)

@@ -1,0 +1,3 @@
+# Article 36
+
+Lorsque des fonctionnaires appartenant à des corps ou grades différents ont accès à un même grade par voie de tableau d'avancement commun, la commission chargée de préparer ce tableau comprend les représentants du personnel assurant auprès des commissions administratives de leurs corps respectifs la représentation de chacun des grades de fonctionnaires intéressés. Dans ce cas, seuls les représentants, titulaires ou suppléants, du grade auquel appartient le fonctionnaire dont la candidature est examinée et les représentants, titulaires ou suppléants, du grade auquel le tableau d'avancement donne accès sont appelés à délibérer.

@@ -1,0 +1,5 @@
+# Article 1
+
+Les dispositions des articles 1er à 7 du décret du 28 mai 1982 susvisé sont applicables au recouvrement des cotisations d'assurance maladie, maternité, invalidité et décès assises sur les indemnités, allocations et revenus de remplacement mentionnés à l'article 6 de la loi du 4 janvier 1982 susvisée servis par des personnes autres que l'employeur à des assurés relevant de l'un des régimes de sécurité sociale prévus à l'article L. 3 du code de la sécurité sociale.
+
+Pour l'application, au recouvrement de celles de ces cotisations qui sont dues au régime de sécurité sociale dans les mines, des dispositions des articles L. 138 à L. 141, ainsi que de celles des chapitres II et III du titre V du livre 1er du code de la sécurité sociale, les organismes de sécurité sociale dans les mines et les ingénieurs des mines, directeurs interdépartementaux de l'industrie, exercent les attributions conférées respectivement aux organismes de sécurité sociale du régime général et aux directeurs régionaux des affaires sanitaires et sociales ou de la sécurité sociale.

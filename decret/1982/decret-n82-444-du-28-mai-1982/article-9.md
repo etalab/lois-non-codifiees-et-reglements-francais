@@ -1,0 +1,3 @@
+# Article 9
+
+Les cotisations assises sur les indemnités, allocations et revenus de remplacement mentionnés à l'article 6 de la loi susvisée du 4 janvier 1982 servis par l'employeur sont versées par celui-ci à l'organisme de recouvrement dont il relève, dans les conditions prévues aux articles 1er à 3, 8, 10, 12, 13 et 24 du décret susvisé du 24 mars 1972, de l'article 152 du décret susvisé du 8 juin 1946, et des articles 1er à 4 et 14 à 16 du décret susvisé du 29 décembre 1976. Pour l'application de ces dispositions, les avantages précités sont assimilés à des rémunérations [*définition*]. L'employeur indique dans la déclaration annuelle des salaires le montant global de ces avantages versés dans l'année et soumis à cotisation [*formalité obligatoire*].

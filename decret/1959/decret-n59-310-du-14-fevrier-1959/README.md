@@ -3,3 +3,5 @@
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 3 bis](article-3-bis.md)
+- [Article 4 à 46](article-4-a-46.md)
