@@ -1,0 +1,5 @@
+# Article 9
+
+Lorsque la commission communale des impôts directs décide de faire application des dispositions du deuxième alinéa de l'article 23 de la loi du 30 juillet 1990 précité, elle est tenue de transmettre au directeur des services fiscaux, dans les quinze jours à compter du jour où elle a reçu notification des tarifs fixés pour les secteurs d'évaluation dont dépend la commune, sa décision écrite fixant les écarts relatifs de tarifs entre les différentes classes.
+
+Les tarifs établis pour les secteurs d'évaluation dont dépend la commune ou éventuellement les tarifs communaux établis en application du deuxième alinéa de l'article 23 de la loi du 30 juillet 1990 précitée sont affichés en mairie dans les conditions prévues par l'article 2 du présent décret. Toutefois, cet affichage n'est pas effectué dès la réception par la commune des tarifs établis pour les secteurs d'évaluation, mais à l'expiration du délai de quinze jours mentionné au premier alinéa du présent article pour user, le cas échéant, de la faculté que lui confère les dispositions du deuxième alinéa de l'article 23 de la loi du 30 juillet 1990.
