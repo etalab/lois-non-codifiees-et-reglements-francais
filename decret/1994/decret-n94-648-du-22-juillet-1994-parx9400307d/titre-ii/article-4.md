@@ -13,5 +13,3 @@ Lorsque l'opération est compatible avec les ressources du bénéficiaire, l'aid
 - la location-accession prévue par la loi n° 84-595 du 12 juillet 1984.
 
 Cette aide est cumulable, dans la limite du coût de l'opération, avec les prêts de droit commun.
-
-Elle ne peut représenter plus de 40 p. 100 du montant total de l'opération.
