@@ -4,7 +4,7 @@ Tout étranger, âgé de plus de dix-huit ans, est tenu de se présenter à Pari
 
 La demande doit être présentée par l'intéressé dans les deux mois de son entrée en France [*délai*]. S'il y séjournait déjà, il doit présenter sa demande :
 
-1. Soit au plus tard avant l'expiration de l'année qui suit son dix-huitième anniversaire, si l'étranger peut obtenir de plein droit un titre de séjour en application de l'article 12 bis ou du 2°, du 5°, du 10°, du 11° ou du 13° de l'article 15 de l'ordonnance n° 45-2658 du 2 novembre 1945 modifiée ou de l'article 17 de la loi n° 86-1025 du 9 septembre 1986 ;
+1. Soit, au plus tard, avant l'expiration de l'année qui suit son dix-huitième anniversaire, si l'étranger peut obtenir de plein droit un titre de séjour en application soit de l'article 12 bis, soit des 2°, 5°, 10° ou 11°, ou du dernier alinéa de l'article 15 de l'ordonnance du 2 novembre 1945 susvisée.
 
 2. Soit au plus tard deux mois après la date de son dix-huitième anniversaire, si le jeune étranger ne peut obtenir de plein droit un titre de séjour dans les conditions prévues au 1 ci-dessus ;
 

@@ -16,4 +16,4 @@ Il présente en outre les documents ci-après :
 
 4° S'il entend se maintenir en France pour y faire des études ou y suivre un enseignement ou un stage de formation, la justification de moyens suffisants d'existence et un certificat d'immatriculation, d'inscription ou de préinscription dans un établissement d'enseignement ou de formation professionnelle public ou privé fonctionnant dans des conditions conformes aux dispositions législatives ou réglementaires en vigueur ; La capacité de l'établissement d'accueil à scolariser l'étudiant étranger dans les conditions précédemment mentionnées peut faire l'objet d'une vérification par l'administration chargée du contrôle de l'établissement.
 
-5° S'il entend se maintenir en France au titre du regroupement familial, la justification qu'il n'est pas exclu du bénéfice des dispositions du décret du 29 avril 1976 susvisé.
+5° Si le conjoint titulaire d'une carte de séjour temporaire au titre du regroupement familial en sollicite pour la première fois le renouvellement, les documents de nature à établir que la communauté de vie n'a pas cessé.

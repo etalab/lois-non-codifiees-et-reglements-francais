@@ -20,7 +20,7 @@ Il présente en outre les documents ci-après :
 
 non-salariée soumise à autorisation, les pièces justifiant qu'il est titulaire de cette autorisation ;
 
-3° S'il désire séjourner en France au titre du regroupement familial, la justification qu'il n'est pas exclu du bénéfice des dispositions du décret du 29 avril 1976 susvisé ;
+3° S'il désire séjourner en France au titre du regroupement familial, la justification qu'il remplit les conditions fixées aux articles 29 et 30 de l'ordonnance du 2 novembre 1945 précitée.
 
 4° S'il entend n'exercer aucune activité professionnelle, la justification de moyens suffisants d'existance et l'engagement de n'exercer en France aucune activité professionnelle ;
 
