@@ -1,11 +1,9 @@
 # Article 3
 
-L'ouverture des concours mentionnés à l'article 2 est arrêtée par l'autorité territoriale de la collectivité ou de l'établissement qui organise le concours.
+Chaque session de concours fait l'objet d'un arrêté d'ouverture qui précise la date limite de dépôt des inscriptions, la date des épreuves, le nombre de postes à pourvoir et l'adresse à laquelle les candidatures doivent être déposées.
 
-" Chaque session de concours fait l'objet d'un avis qui précise la date limite de dépôt des inscriptions, la date des épreuves, le nombre de postes ouverts et l'adresse à laquelle les candidatures doivent être déposées.
+Les arrêtés d'ouverture sont publiés dans au moins un quotidien d'information générale à diffusion nationale deux mois au moins avant la date limite de dépôt des dossiers de candidature.
 
-" Les avis de concours sont publiés dans au moins deux journaux d'information générale, dont un à diffusion nationale et un à diffusion régionale, deux mois au moins avant la date limite du dépôt des candidatures.
+En outre, ils sont affichés dans les locaux de la collectivité ou de l'établissement qui organise les concours, de la délégation régionale ou interdépartementale du Centre national de la fonction publique territoriale du ressort de l'autorité organisatrice, du centre de gestion concerné ainsi que dans les locaux de l'Agence nationale pour l'emploi.
 
-" Le président du centre de gestion compétent assure cette publicité pour les collectivés et établissements affiliés.
-
-" Les collectivités et établissements non affiliés assurent par eux-mêmes cette mission. "
+Cette publicité est assurée par le président du centre de gestion pour les concours qu'il organise ou par les collectivités ou établissements non affiliés pour les concours organisés par ces derniers.

@@ -1,23 +1,31 @@
 # Article 4
 
-Le jury de chaque concours est nommé par arrêté de l'autorité territoriale de la collectivité ou de l'établissement qui a organisé le concours.
+Les membres des jurys de chaque concours sont nommés par arrêté de l'autorité territoriale de la collectivité ou de l'établissement qui organise le concours.
 
-" 1° Pour les concours prévus au 1° de l'article 3 du présent décret, le jury comprend :
+1° Pour les concours prévus au 1° de l'article 3 du présent décret, le jury comprend au moins :
 
-" a) Deux élus locaux ;
+a) Un fonctionnaire territorial de catégorie A et un fonctionnaire désigné dans les conditions prévues à l'article 14 du décret du 20 novembre 1985 susvisé ;
 
-" b) Un fonctionnaire territorial de catégorie A et un fonctionnaire du cadre d'emplois ou de la catégorie correspondant désigné dans les conditions fixées à l'article 14 du décret du 20 novembre 1985 susvisé ;
+b) Deux personnalités qualifiées ;
 
-" c) Deux personnalités qualifiées ;
+c) Deux élus locaux.
 
-" d) Deux membres de l'enseignement supérieur sur proposition d'une autorité habilitée à représenter un établissement d'enseignement supérieur ;
+Le représentant du Centre national de la fonction publique territoriale, membre du jury en application de l'article 42 de la loi du 26 janvier 1984 susvisée, est désigné au titre de l'un des trois collèges ci-dessus mentionnés.
 
-" e) Un représentant du Centre national de la fonction publique territoriale, en application de l'article 42 de la loi du 26 janvier 1984 précitée.
+2° Pour les concours prévus au 2° de l'article 3 du présent décret, le jury comprend au moins :
 
-" Le président est choisi parmi les membres du jury.
+a) Un fonctionnaire territorial de catégorie A ou B et un fonctionnaire désigné dans les conditions prévues à l'article 14 du décret du 20 novembre 1985 susvisé ;
 
-" Pour les concours organisés par les collectivités non affiliées, deux tiers des membres du jury doivent être extérieurs à la collectivité, dont le président du jury.
+b) Deux personnalités qualifiées ;
 
-" 2° Pour les concours prévus au 2° de l'article 3 du présent décret, le jury comprend au moins trois et au plus cinq membres. A l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984 précitée et facultativement du président du jury, les autres membres sont choisis sur une liste dressée, chaque année pour son ressort, par le président du tribunal administratif.
+c) Deux élus locaux.
 
-" L'arrêté de nomination du jury prévu aux 1° et 2° du présent article désigne le remplaçant du président dans le cas où celui-ci serait dans l'impossibilité de poursuivre sa mission. En cas de partage égal des voix, la voix du président est prépondérante. "
+Pour les concours organisés par une collectivité ou un établissement non affiliés, le représentant du centre de gestion, membre du jury en application de l'article 42 de la loi du 26 janvier 1984 susvisée, est désigné au titre de l'un des trois collèges ci-dessus mentionnés.
+
+Les membres des jurys sont choisis, à l'exception des membres mentionnés à l'article 42 de la loi du 26 janvier 1984 susvisée, sur une liste établie chaque année ou mise à jour en tant que de besoin par le président du tribunal administratif, au vu des propositions du ou des présidents de centres de gestion relevant du ressort de ce tribunal. Ces derniers recueillent préalablement les propositions des collectivités non affiliées.
+
+L'arrêté prévu au premier alinéa du présent article désigne, parmi les membres du jury, son président ainsi que le remplaçant de ce dernier pour le cas où il serait dans l'impossibilité d'accomplir sa mission.
+
+Le jury peut se constituer en groupes d'examinateurs, compte tenu notamment du nombre des candidats, en vue de la correction des épreuves écrites et des interrogations orales, dans les conditions fixées par l'article 44 de la loi du 26 janvier 1984 susvisée.
+
+Des correcteurs peuvent être désignés par arrêté de l'autorité territoriale compétente pour participer à la correction des épreuves sous l'autorité du jury.
