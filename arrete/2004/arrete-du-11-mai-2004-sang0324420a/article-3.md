@@ -1,0 +1,11 @@
+# Article 3
+
+La composition de ce comité technique paritaire central est fixée comme suit :
+
+1. Représentants de l'administration :
+
+Trois membres titulaires et trois membres suppléants désignés conformément aux dispositions de l'article 7 du décret du 28 mai 1982 susvisé.
+
+2. Représentants du personnel :
+
+Trois membres titulaires et trois membres suppléants désignés conformément aux dispositions de l'article 8 et du deuxième alinéa de l'article 11 du décret du 28 mai 1982 susvisé.
