@@ -1,4 +1,4 @@
-# CHAPITRE II : Présentation et vote du budget.
+# CHAPITRE II : Extension de dispositions diverses.
 
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

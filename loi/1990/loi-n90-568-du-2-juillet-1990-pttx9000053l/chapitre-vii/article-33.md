@@ -10,7 +10,7 @@ Le directeur du groupement est nommé par le conseil de gestion. Il assure, sous
 
 La comptabilité du groupement est tenue et sa gestion assurée selon les règles applicables aux entreprises de commerce.
 
-Le groupement d'intérêt public est soumis au contrôle de la Cour des comptes dans les conditions prévues par l'article 6 bis de la loi n° 67-483 du 22 juin 1967 relative à la Cour des comptes.
+Le groupement d'intérêt public est soumis au contrôle de la Cour des comptes dans les conditions prévues par les articles L. 133-1 et L. 133-2 du code des juridictions financières.
 
 La convention constitutive de chaque groupement est soumise à l'approbation du ministre chargé des postes et télécommunications. Elle détermine les modalités de participation des membres au financement des activités et les conditions dans lesquelles ils sont tenus des dettes du groupement. Elle indique notamment les conditions dans lesquelles les exploitants mettent à la disposition du groupement des personnels fonctionnaires.
 
