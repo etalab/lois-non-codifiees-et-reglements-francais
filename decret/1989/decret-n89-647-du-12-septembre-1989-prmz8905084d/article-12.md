@@ -1,0 +1,3 @@
+# Article 12
+
+Les décrets n° 48-800 du 10 mai 1948 instituant une commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires, n° 61-652 du 20 juin 1961 relatif à la composition de la Commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires et n° 73-246 du 7 mai 1973 relatif à l'attribution d'indemnités à certains personnels apportant leur concours à la Commission supérieure chargée d'étudier la codification et la simplification des textes législatifs et réglementaires sont abrogés.

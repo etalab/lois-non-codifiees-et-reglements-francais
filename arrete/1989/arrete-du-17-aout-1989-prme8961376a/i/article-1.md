@@ -1,0 +1,3 @@
+# Article 1
+
+La capture des vanneaux huppés et des pluviers dorés à l'aide de filets à nappes fixés à terre, dénommée tenderie aux vanneaux, est autorisée dans les communes d'Amagne, Ambly-Fleury, Brécy-Brières, Challerange, Corny-Machéroménil, Ecly, Falaie, Givry-sur-Aisne, Monthois, Movion-Porcien, Novy-Chevrières, Rilly-sur-Aisne, Sorbon, Terron-sur-Aisne, Vandy, Voncq et Vouziers, du département des Ardennes, et dans les conditions strictement contrôlées définies ci-après afin de permettre la capture sélective et en petites quantités de ces oiseaux, puisqu'il n'existe pas d'autre solution satisfaisante.
