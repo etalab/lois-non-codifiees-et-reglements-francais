@@ -1,0 +1,5 @@
+# Article 19
+
+Un décret fixera les conditions dans lesquelles les Français résidant en France pourront obtenir la validation par le régime général de l'assurance vieillesse, pour l'application du livre III (titre II, chap. V) et du livre VII du Code de la sécurité sociale, des périodes de services effectuées en Algérie entre le 1er avril 1938 et le 1er juillet 1962, pendant lesquelles ils ont relevé du régime des pensions des ouvriers des établissements industriels de l'Etat ou du régime de la caisse générale des retraites de l'Algérie, sous réserve que lesdites périodes ne soient pas susceptibles d'ouvrir droit à pension au titre de l'un de ces régimes ou du régime de la caisse nationale de retraites des agents des collectivités locales.
+
+Seront également fixées par décret les conditions dans lesquelles les cotisations personnelles versées au régime général algérien au titre de l'assurance vieillesse par les bénéficiaires des régimes de retraites visés au précédent alinéa admis à effectuer sous l'un de ces régimes des versements rétroactifs pour des services antérieurement accomplis en Algérie, pourront venir en déduction desdits versements.
