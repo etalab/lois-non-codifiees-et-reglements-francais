@@ -1,3 +1,5 @@
 # Article 7
 
-Le délégué à l'emploi et aux formations et les directeurs régionaux sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les objectifs correspondant aux exigences minimales permettant la mise en situation pédagogique, prévues à l'article A. 212-29 du code du sport, sont définis en annexe IV au présent arrêté.
+
+L'organisme de formation propose les modalités d'évaluation de ces exigences au jury mentionné à l'article D. 212-29 du code du sport.
