@@ -1,6 +1,8 @@
 # TITRE Ier : Dispositions permanentes.
 
 - [Article 1](article-1.md)
+- [Article 2 ter](article-2-ter.md)
+- [Article 2 quater](article-2-quater.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 5-1](article-5-1.md)
