@@ -1,7 +1,6 @@
 # Annexes
 
 - [Contrôle sérologique destiné à détecter les anticorps de la maladie de Newcastle chez les volailles.](controle-serologique-destine-a)
-- [Maladies à déclaration obligatoire.](maladies-a)
 - [Agrément des établissements](agrement-des-etablissements)
 - [Conditions relatives aux vaccinations des volailles.](conditions-relatives-aux)
 - [Isolement du virus de la maladie de Newcastle chez les volailles d'abattage.](isolement-du-virus-de-la-maladie-de-newcastle-chez-les-volailles-d-abattage)
