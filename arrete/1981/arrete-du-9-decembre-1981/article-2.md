@@ -1,3 +1,9 @@
 # Article 2
 
-Les formulaires à utiliser sont diffusés par les centres de formalités des entreprises aux organismes dont la liste est fixée par le décret susvisé du 18 mars 1981 [*Nota*].
+Les épreuves écrites comprennent :
+
+a) Une composition de droit public appliqué faisant appel à plusieurs chapitres du programme annexé au présent arrêté (durée :
+
+trois heures ; coefficient 2) ;
+
+b) La rédaction d'un rapport sur dossier entrant dans les attributions normales d'un chef de service (durée : quatre heures ; coefficient 3).
