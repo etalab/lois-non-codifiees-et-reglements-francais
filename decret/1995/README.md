@@ -478,7 +478,6 @@
 - [Décret n°95-723 du 9 mai 1995 (AGRG9500635D)](decret-n95-723-du-9-mai-1995-agrg9500635d)
 - [Décret n°95-724 du 9 mai 1995 (FPPA9500060D)](decret-n95-724-du-9-mai-1995-fppa9500060d)
 - [Décret n°95-726 du 9 mai 1995 (DOMP9500025D)](decret-n95-726-du-9-mai-1995-domp9500025d)
-- [Décret n°95-727 du 9 mai 1995 (DEFP9501578D)](decret-n95-727-du-9-mai-1995-defp9501578d)
 - [Décret n°95-728 du 9 mai 1995 (DEFD9501571D)](decret-n95-728-du-9-mai-1995-defd9501571d)
 - [Décret n°95-734 du 9 mai 1995 (ACVP9520038D)](decret-n95-734-du-9-mai-1995-acvp9520038d)
 - [Décret n°94-699 du 10 août 1994 (ECOC9400065D)](decret-n94-699-du-10-aout-1994-ecoc9400065d)
