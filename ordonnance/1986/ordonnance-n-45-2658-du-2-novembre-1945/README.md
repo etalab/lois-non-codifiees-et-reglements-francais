@@ -13,6 +13,5 @@
 - [Chapitre 7 : Des demandeurs d'asile.](chapitre-7)
 - [CHAPITRE VII : DES DEMANDEURS D'ASILE.](chapitre-vii)
 - [Chapitre 8 : Dispositions diverses.](chapitre-8)
-- [CHAPITRE VIII : DISPOSITIONS DIVERSES.](chapitre-viii)
 - [Chapitre 9 : Dispositions transitoires.](chapitre-9)
 - [CHAPITRE IX : DISPOSITIONS TRANSITOIRES.](chapitre-ix)
