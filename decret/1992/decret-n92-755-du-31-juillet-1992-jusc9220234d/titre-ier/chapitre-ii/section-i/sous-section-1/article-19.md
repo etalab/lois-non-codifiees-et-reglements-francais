@@ -1,5 +1,9 @@
 # Article 19
 
-La demande est formée par assignation à la première audience utile du juge de l'exécution.
+Lorsqu'il est fait application de l'article 17, le secrétariat-greffe informe le demandeur des lieu, jour et heure de l'audience par lettre recommandée avec demande d'avis de réception, laquelle reproduit les dispositions des articles 11 à 14. Copie de cette lettre est envoyée le même jour par lettre simple.
 
-L'assignation contient, à peine de nullité, la reproduction des dispositions des articles 11 à 14.
+Lors de la présentation de la demande, le demandeur peut également être convoqué verbalement contre émargement. Dans ce cas, le secrétariat-greffe lui remet un avis comportant les indications prévues à l'alinéa précédent.
+
+Le défendeur est convoqué par lettre recommandée avec demande d'avis de réception. Cette lettre contient une copie de la demande, informe l'intéressé qu'il s'expose, faute de se présenter ou de faire connaître ses moyens de défense, à être jugé sur les seuls éléments fournis par le demandeur, et reproduit les dispositions des articles 11 à 14. Copie de la convocation est envoyée le même jour par lettre simple. Cette convocation peut être également faite verbalement contre émargement.
+
+En cas de retour au secrétariat-greffe de la lettre recommandée qui n'a pu être remise à son destinataire, le greffier en informe le demandeur et l'invite à procéder comme il est dit à l'article 670-1 du nouveau code de procédure civile.

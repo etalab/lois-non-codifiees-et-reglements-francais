@@ -1,7 +1,5 @@
 # Article 17
 
-Le secrétariat-greffe avise le demandeur des lieu, jour et heure de l'audience par lettre recommandée avec demande d'avis de réception. Copie de cet avis est envoyée le même jour par lettre simple.
+Par dérogation aux dispositions de l'article 15, la demande relative à l'exécution d'une décision de justice ordonnant l'expulsion peut être formée au secrétariat-greffe du juge de l'exécution par lettre recommandée avec demande d'avis de réception ou par déclaration faite ou remise contre récépissé.
 
-Cet avis reproduit les dispositions des articles 11 à 14.
-
-Lors de la présentation de la demande, le demandeur peut également être convoqué verbalement contre émargement. Dans ce cas, le secrétariat-greffe lui remet un avis comportant les indications prévues aux alinéas précédents.
+Lorsque le juge de l'exécution exerce aussi les fonctions de juge d'instance et que la demande a été formée au secrétariat-greffe du tribunal de grande instance, celle-ci est réputée faite valablement et elle est immédiatement transmise au secrétariat-greffe du tribunal d'instance. Avis en est donné au demandeur par lettre simple.
