@@ -130,7 +130,7 @@ Génétique médicale.
 
 43   Réanimation médicale.
 
-44   Rééducation et réadaptation fonctionnelle.
+44   Médecine physique et de réadaptation.
 
 45   Rhumatologie.
 

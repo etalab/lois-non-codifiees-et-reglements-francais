@@ -4,4 +4,4 @@ Pour les disciplines de biologie, médecine et chirurgie, un candidat peut, au t
 
 Dans les quinze jours suivant la proclamation des résultats par affichage à la direction des hôpitaux du concours, chaque candidat classé dans les deux options indique au bureau des concours et recrutements (7 D) de la direction des hôpitaux au ministère chargé de la santé celle dans laquelle il désire être inscrit sur la liste d'admission correspondante.
 
-Tout candidat n'ayant pas opté dans le délai de quinze jours prévu ci-dessus est inscrit d'office dans la spécialité différenciée.
+Le candidat sera inscrit sur les listes d'aptitude au titre desquelles il aura été retenu par le jury. Le choix du candidat, après recrutement, entraînera d'office sa radiation des listes d'aptitude en cours de validité.

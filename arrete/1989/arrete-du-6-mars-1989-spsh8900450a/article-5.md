@@ -1,5 +1,15 @@
 # Article 5
 
-Pour l'appréciation des six années de pratique professionnelle effective dans la discipline de concours peuvent être pris en compte les stages, remplacements et activités professionnelles publiques ou privées en termes d'équivalent temps plein.
+Le point de départ des six années de pratique professionnelle effective dans la discipline du concours mentionné à l'article 6-4 du décret susvisé est fixé comme suit :
 
-Les six années susmentionnées sont comptées à partir de la fin de la septième année des études médicales ou de la cinquième année des études pharmaceutiques et d'odontologie. Toutefois, est prise en compte la totalité des stages de C.E.S., des stages des internats mentionnés à l'article 6.3, deuxième alinéa, du décret n° 84-131 du 24 février 1984 modifié, et des stages des internats de médecine spécialisée et de pharmacie définis par la loi n° 82-1098 du 23 décembre 1982 modifiée.
+I. - Pour les ressortissants français, andorrans, du Maroc et de la Tunisie et les personnes françaises et étrangères autorisées à exercer la médecine en France, visés à l'article L. 356-2 du code de la santé publique, à compter de la date d'inscription au tableau de l'ordre professionnel concerné en France.
+
+Pour l'appréciation des six années de pratique professionnelle effective, peuvent être prises en compte :
+
+a) Les périodes de remplacement dûment autorisées en application des dispositions de l'article L. 359 du code de la santé publique pour les médecins et de l'article R. 5100 du code de la santé publique pour les pharmaciens ;
+
+b) Les périodes d'exercice en qualité d'assistant associé ;
+
+c) Les périodes d'exercice en qualité d'attaché associé comptées au prorata du nombre total de vacations hebdomadaires effectuées dans un ou plusieurs établissements.
+
+II. - Pour les ressortissants d'un des Etats membres de l'Union européenne ou d'un autre Etat partie à l'accord sur l'Espace économique européen, à compter de la date d'inscription au tableau de l'ordre professionnel du pays qui a délivré le diplôme, ou à défaut à compter de la date d'obtention du diplôme, certificat ou autre titre permettant l'exercice de la profession dans le pays ayant délivré ce diplôme.
