@@ -36,4 +36,5 @@
 - [Décret n°63-629 du 26 juin 1963](decret-n63-629-du-26-juin-1963)
 - [Décret n°62-725 du 27 juin 1962](decret-n62-725-du-27-juin-1962)
 - [Décret n°63-752 du 27 juillet 1963](decret-n63-752-du-27-juillet-1963)
+- [Décret n°63-779 du 27 juillet 1963](decret-n63-779-du-27-juillet-1963)
 - [Décret n°63-893 du 28 août 1963](decret-n63-893-du-28-aout-1963)
