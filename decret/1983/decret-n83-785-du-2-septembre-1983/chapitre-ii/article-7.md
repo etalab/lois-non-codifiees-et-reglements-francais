@@ -4,7 +4,7 @@ Les internes sont rattachés administrativement à un centre hospitalier région
 
 1° En ce qui concerne les internes de la filière de médecine générale, par décision du directeur régional des affaires sanitaires et sociales de la région sanitaire, et, pour la Corse, par décision conjointe du directeur régional des affaires sanitaires et sociales de la région Provence-Alpes-Côte d'Azur et du directeur régional des affaires sanitaires et sociales de la région Corse ;
 
-2° En ce qui concerne les internes des filières de médecine spécialisée, de santé publique et de recherche médicale, par décision du directeur régional des affaires sanitaires et sociales chargé de l'organisation des concours.
+2° En ce qui concerne les internes des filières de médecine spécialisée, de santé publique et de recherche médicale et les internes recrutés au titre des articles 56 et 57 de la loi du 30 juillet 1987 précitée, par décision du directeur régional des affaires sanitaires et sociales chargé de l'organisation des concours.
 
 Les internes sont nommés par le directeur général du centre hospitalier régional auquel ils sont rattachés administrativement.
 
