@@ -1,0 +1,3 @@
+# Article 2
+
+Le président et les membres de la commission sont nommés par le procureur général près la cour d'appel. Ils sont choisis parmi les personnes exerçant ou ayant exercé les fonctions de l'ordre judiciaire ou administratif du département des finances, de l'enseignement public, de l'intendance militaire, du commissariat de la marine, du recrutement de l'armée, et de l'inscription maritime, les officiers de l'état civil, les ministres des cultes, les officiers ou anciens officiers publics ou ministériels, les avocats, les membres des sociétés académiques ou historiques et, généralement, toutes personnes que leurs occupations ou leurs études ont préparées à s'employer utilement au travail de la reconstitution.
