@@ -1,9 +1,3 @@
 # Article 34
 
-Lorsque le comité des établissements de crédits examine une demande d'agrément comme agent des marchés interbancaires, il prend en compte notamment :
-
-L'honorabilité et l'expérience du demandeur ;
-
-Les moyens techniques et financiers qu'il est prévu de mettre en place ;
-
-L'adéquation de la forme juridique prévue pour l'exploitation du fonds de commerce à cette activité.
+Les personnes agréées en qualité d'agent des marchés interbancaires à la date d'entrée en vigueur de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières continuent à adresser à la Commission bancaire les situations périodiques et autres documents, renseignements, éclaircissements ou autres justifications nécessaires à l'exercice de sa mission jusqu'à l'établissement de la liste entraînant leur soumission au régime des entreprises d'investissement ou à la cessation effective d'activité prévue à l'article 97-I de ladite loi.
