@@ -4,4 +4,4 @@ Les corps de fonctionnaires de l'Etat créés pour l'administration de la Polyn�
 
 Un décret en Conseil d'Etat fixera les conditions dans lesquelles le statut des instituteurs sera appliqué aux fonctionnaires du corps des instituteurs régi par le présent décret.
 
-La correspondance entre les corps créés en application de la loi susvisée du 11 juillet 1966 et les corps de l'Etat métropolitains est déterminée par le tableau annexé au présent décret.
+Les conditions dans lesquelles le statut des instituteurs et celui des professeurs des écoles sont appliqués, respectivement, aux fonctionnaires du corps des instituteurs et aux fonctionnaires du corps des professeurs des écoles régis par le présent décret, sont fixées par décret en Conseil d'Etat.
