@@ -1,0 +1,3 @@
+# Article 37-4
+
+Sans préjudice de l'application des dispositions de l'article 10 du décret susvisé du 29 décembre 1959, les propositions relatives aux dépenses prises en compte dans le forfait annuel de soins sont adressées par l'établissement, au plus tard le 15 octobre, au directeur départemental des affaires sanitaires et sociales et aux organismes d'assurance maladie représentés à la commission tripartite instituée à l'article 37-5 ci-après ou comptant plus de 10 p. 100 de ressortissants dans l'effectif de l'établissement. Ceux-ci font parvenir leurs observations avant le 15 novembre au directeur départemental des affaires sanitaires et sociales.
