@@ -60,7 +60,7 @@ De plus, la ou les configurations obtenues après remontage doivent présenter d
 
 5.5.1. Les dispositifs de protection ne doivent agir que sur l'un des circuits de freinage de telle sorte que le ou les circuits restants, y compris le frein de stationnement, assurent l'efficacité résiduelle prescrite pour le frein de secours ;
 
-5.5.2. Les forces de freinage engendrées par le dispositif de protection doivent être telles que le véhicule soit immobilisé sur une pente à 18 p. 100, et être inférieures à 30 p. 100 du P.T.A.C. du véhicule ;
+5.5.2. Les forces de freinage engendrées par le dispositif de protection doivent être telles que le véhicule soit immobilisé sur une pente à 18%, et être inférieures à 30% du P.T.A.C. du véhicule ;
 
 5.5.3. Le dispositif de protection doit être tel que les forces de freinage restent comprises entre ces deux valeurs de façon permanente après tout déclenchement. En particulier, les dispositifs agissant par la mise en pression d'un fluide doivent rétablir cette pression quand elle chute. On pourra toutefois admettre des périodes de relâchement des freins si elles sont suffisamment brèves pour que le véhicule ne puisse pas prendre de vitesse sur une pente à 18 p. cent ;
 
@@ -96,6 +96,4 @@ De plus, la ou les configurations obtenues après remontage doivent présenter d
 
 5.7.4. Les signaux émis par les alarmes acoustiques doivent être brefs et s'interrompre après trente secondes au plus pour ne reprendre que lors d'une nouvelle mise en action ;
 
-5.7.5. Les alarmes acoustiques ne doivent se déclencher qu'au plus trois fois au cours d'une même période de fonctionnement du dispositif de protection, ces périodes de fonctionnement étant séparées par un réarmement commandé par l'utilisateur du véhicule.
-
-Néanmoins, les déclenchements induits par le changement d'état des capteurs d'ouverture des portes, du capot ou du coffre à bagages ne sont pas soumis à cette limite.
+5.7.5. (supprimé)

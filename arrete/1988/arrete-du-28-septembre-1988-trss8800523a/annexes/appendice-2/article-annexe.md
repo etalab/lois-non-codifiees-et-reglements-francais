@@ -60,7 +60,7 @@ Le dispositif est mis en fonctionnement immédiatement à la fin de chacune des 
 
 Après chaque période l'ensemble du dispositif à homologuer sera laissé à température ambiante, 20 7 5 °C, pendant une durée minimum de quatre heures.
 
-Les caractéristiques acoustiques ne doivent pas être sensiblement modifiées. Le dispositif doit après chaque période satisfaire aux conditions énoncées aux paragraphes 5.7.4 et 5.7.5 du présent cahier des charges.
+Les caractéristiques acoustiques ne doivent pas être sensiblement modifiées. Le dispositif doit après chaque période satisfaire aux conditions énoncées au paragraphe 5.7.4 du présent cahier des charges.
 
 (*) Rayer la mention inutile.
 

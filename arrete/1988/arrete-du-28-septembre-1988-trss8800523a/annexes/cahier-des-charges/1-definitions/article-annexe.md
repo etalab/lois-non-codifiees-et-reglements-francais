@@ -30,7 +30,7 @@ Au sens du présent cahier des charges, on entend par :
 
 1.5.3. Le générateur acoustique et les caractéristiques du son émis ;
 
-1.5.4. Le dispositif limitant la durée et le nombre des déclenchements.
+1.5.4. Le dispositif limitant la durée des déclenchements.
 
 1.6. Eléments principaux : les composants qui interviennent dans la définition du type de dispositif de protection ou d'alarme supplémentaire.
 
