@@ -6,7 +6,7 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 2° Directrices de crêche : 15 points majorés ;
 
-3° Laborantins et techniciens de laboratoire, manipulateurs d'électroradiologie et psychorééducateurs : 13 points majorés ;
+3° Assistants qualifiés de laboratoire exerçant les fonctions de techniciens qualifiés de laboratoire ou de manipulateurs d'électroradiologie et psychorééducateurs : 13 points majorés ;
 
 4° Fonctionnaires appartenant au cadre d'emplois des adjoints administratifs et exerçant les fonctions de secrétaire de mairie dans les communes de moins de 2 000 habitants : 15 points majorés ;
 
@@ -44,7 +44,7 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 17° Agents de catégorie C assurant des fonctions de gardien d'H.L.M. : 10 points ;
 
-18° Adjoints administratifs et agents administratifs exerçant à titre principal des fonctions d'accueil du public dans les communes de plus de 10 000 habitants ou les établissements publics communaux et intercommunaux en relevant : 10 points ;
+18° Adjoints administratifs et agents administratifs exerçant à titre principal des fonctions d'accueil du public dans les communes de plus de 5 000 habitants ou les établissements publics communaux et intercommunaux en relevant : 10 points ;
 
 19° Professeurs d'enseignement artistique exerçant les fonctions de directeur d'établissement d'enseignement artistique :
 
@@ -100,7 +100,7 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 " 37° Fonctionnaires de catégorie A assurant les fonctions de maître d'apprentissage agréé au sens de la loi du 17 juillet 1992 susvisée : 20 points majorés ;
 
-" 38° Fonctionnaires de catégorie B ou C assurant les fonctions de maître d'apprentissage agréé au sens de la loi du 17 juillet 1992 susvisée : 15 points majorés ;
+" 38° Fonctionnaires de catégorie B ou C assurant les fonctions de maître d'apprentissage agréé au sens de la loi du 17 juillet 1992 susvisée : 20 points majorés ;
 
 " 39° Rédacteurs territoriaux assurant à titre exclusif les fonctions de directeur d'un établissement public local ne figurant pas sur la liste prévue au deuxième alinéa de l'article 53 de la loi du 26 janvier 1984 modifiée susvisée et assimilable à une commune de moins de 2 000 habitants selon les critères du décret n° 88-546 du 6 mai 1988 relatif aux emplois fonctionnels dans les établissements publics : 15 points majorés ;
 
@@ -128,7 +128,7 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 " e) Sages-femmes : 20 points majorés ;
 
-" f) Secrétaires médico-sociales : 15 points majorés ;
+" f) Rédacteurs exerçant des fonctions dans le secteur sanitaire et social : 15 points majorés ;
 
 " g) Auxiliaires de puériculture : 10 points majorés ;
 
@@ -143,3 +143,23 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 10 points majorés ;
 
 " l) Agents d'entretien, agents techniques, agents de salubrité, conducteurs territoriaux exerçant des fonctions à caractère polyvalent : 10 points majorés. "
+
+" 46° Infirmières assurant la direction de services de soins à domicile : 20 points majorés ;
+
+" 47° Puéricultrices assurant la direction d'école départementale de puériculture : 20 points majorés ;
+
+" 48° Adjoints administratifs et agents administratifs exerçant, à titre principal, des fonctions d'accueil du public au Centre national de la fonction publique territoriale, dans les délégations régionales et interdépartementales du C.N.F.P.T. : 10 points majorés ;
+
+" 49° Agents appartenant au cadre d'emplois des policiers municipaux, responsables d'un service municipal de police, dans la limite d'un agent responsable par commune :
+
+" - agent ayant sous ses ordres moins de cinq agents : 10 points majorés ;
+
+" - agent ayant sous ses ordres entre cinq et vingt-cinq agents :
+
+15 points majorés ;
+
+" - agent ayant sous ses ordres plus de 25 agents : 18 points majorés ;
+
+" 50° Agents de salubrité exerçant, à titre exclusif, les fonctions de fossoyeur dans les communes de plus de 2 000 habitants :
+
+10 points majorés. "
