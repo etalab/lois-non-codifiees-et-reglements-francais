@@ -660,7 +660,6 @@
 - [Arrêté du 29 décembre 1989 (INDD8900914A)](arrete-du-29-decembre-1989-indd8900914a)
 - [Arrêté du 29 décembre 1989 (INDD8900915A)](arrete-du-29-decembre-1989-indd8900915a)
 - [Arrêté du 29 décembre 1989 (INDD8900916A)](arrete-du-29-decembre-1989-indd8900916a)
-- [Arrêté du 29 juin 1989 (ACVA8910041A)](arrete-du-29-juin-1989-acva8910041a)
 - [Arrêté du 29 juin 1989 (MCCK8900367A)](arrete-du-29-juin-1989-mcck8900367a)
 - [Arrêté du 29 mars 1989 (SPSH8900799A)](arrete-du-29-mars-1989-spsh8900799a)
 - [Arrêté du 29 novembre 1989 (INTE8900553A)](arrete-du-29-novembre-1989-inte8900553a)
