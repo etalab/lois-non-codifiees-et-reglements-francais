@@ -6,9 +6,9 @@ Les représentants de l'admnistration sont nommés par le directeur du personnel
 
 Les représentants du personnel sont désignés par les organisations syndicales les plus représentatives du personnel non titulaire du ministère des affaires étrangères, soit :
 
-L'association syndicale des affaires étrangères CFTC ;
+L'association syndicale des affaires étrangères CFTC. ;
 
-Le syndicat du personnel des affaires étrangères CGT-FO. ;
+Le syndicat du personnel des affaires étrangères CGT-FO ;
 
 L'association professionnelle des agetns contractuels de l'administration centrale du ministère des affaires étrangères (APFAMAE) ;
 
@@ -17,3 +17,5 @@ La section du ministère des affaires étrangères de la confédération frança
 Le syndicat du personnel des affaires étrangères CGT-UGFF ;
 
 Le syndicat autonome du personnel du ministère des affaires étrangères.
+
+En outre, la commission peut s'adjoindre, à titre consultatif, un médecin assermenté de l'administration.
