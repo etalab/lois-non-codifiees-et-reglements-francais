@@ -1,3 +1,3 @@
 # Article 1
 
-L'arrêté du 30 septembre 1981 modifié relatif au comité du travail féminin est abrogé.
+Les chefs d'établissement soumis aux dispositions du décret du 14 novembre 1962 sont autorisés à déroger aux prescriptions du paragraphe 4 de l'article 9 dudit décret prévoyant que l'interrupteur commandant le fonctionnement d'une machine-outil portative à main ne doit demeurer en position de fermeture que sous l'action de l'opérateur à la condition que les machines en cause soient pourvues d'interrupteurs qui puissent être mis en position d'ouverture par l'opérateur sans que celui-ci ait à lâcher les moyens de préhension de la machine.
