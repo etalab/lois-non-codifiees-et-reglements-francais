@@ -10,4 +10,4 @@ Seront punis des peines d'amendes prévues pour les contraventions de la 5e clas
 
 En cas de récidive des infractions prévues aux alinéas précédents, les peines prévues pour la récidive des contraventions de la 5e classe sont applicables.
 
-Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des infractions définies aux alinéas précédents ; elles encourent la peine d'amende selon les modalités prévues à l'article 131-4 du même code.
+Les personnes morales peuvent être déclarées pénalement responsables, dans les conditions prévues à l'article 121-2 du code pénal, des infractions définies aux alinéas précédents ; elles encourent la peine d'amende selon les modalités prévues à l'article 131-41 du même code.
