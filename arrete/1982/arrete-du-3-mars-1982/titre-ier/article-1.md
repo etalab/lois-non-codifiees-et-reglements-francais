@@ -1,9 +1,9 @@
 # Article 1
 
-Champ d'application
+Champ d'application.
 
-En application des dispositions de l'article 4 du décret du 21 octobre 1981 susvisé, le présent arrêté ﬁxe les modalités d'établissement des certiﬁcats d'acquisition, des titres en tenant lieu et des bons de commande des produits explosifs qui n'en sont pas exemptés conformément aux articles 1er et 3 dudit décret.
+En application des dispositions des articles R. 2352-22, R. 2352-81, R. 2352-82 et R. 2352-87 du code de la défense, le présent arrêté fixe les modalités d'établissement des autorisations d'utilisation dès réception et la procédure des habilitations à l'emploi des produits explosifs qui n'en sont pas exemptés conformément aux articles cités ci-dessus, en vue d'éviter qu'ils ne notent détournés de leur utilisation normale.
 
-Les masses mentionnées dans le présent arrêté correspondent à la quantité nette de matière explosive contenue dans les emballages et conditionnements.
+Les masses mentionnées dans le présent arrêté correspondent à la quantité nette de matières explosives contenue dans les emballages et conditionnement.
 
-Les produits explosifs sont désignés par "explosifs" dans les articles ci-dessous.
+Les produits explosifs sont désignés par " explosifs " dans les articles ci-dessous.

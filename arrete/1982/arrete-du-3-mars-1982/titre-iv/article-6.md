@@ -1,7 +1,5 @@
 # Article 6
 
-Abrogations
+Déclenchement des avalanches.
 
-Le présent arrêté abroge et remplace l'arrêté du 21 septembre 1978 relatif à l'acquisition des produits explosifs.
-
-Il abroge toutes dispositions contraires contenues dans l'arrêté du 12 mai 1939 portant réglementation des explosifs agricoles.
+Une circulaire conjointe des ministres intéressés fixe les conditions dans lesquelles les explosifs peuvent être employés pour le déclenchement des avalanches.
