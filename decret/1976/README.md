@@ -41,4 +41,5 @@
 - [Décret n°78-507 du 29 mars 1978](decret-n78-507-du-29-mars-1978)
 - [Décret n°75-1344 du 30 décembre 1975](decret-n75-1344-du-30-decembre-1975)
 - [Décret n°75-1339 du 31 décembre 1975](decret-n75-1339-du-31-decembre-1975)
+- [Décret n°75-1370 du 31 décembre 1975](decret-n75-1370-du-31-decembre-1975)
 - [Décret n°76-1312 du 31 décembre 1976](decret-n76-1312-du-31-decembre-1976)
