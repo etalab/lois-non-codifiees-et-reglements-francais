@@ -1,6 +1,6 @@
 # Article 8
 
-Ont la qualité d'électeur, sous réserve de remplir les conditions requises pour participer aux élections au suffrage universel, et sont inscrits à ce titre :
+Ont la qualité d'électeur et sont inscrits à ce titre :
 
 a) Sur la liste électorale des chefs d'entreprise :
 
