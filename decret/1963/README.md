@@ -9,6 +9,7 @@
 - [Décret n°63-1007 du 4 octobre 1963](decret-n63-1007-du-4-octobre-1963)
 - [Décret n°63-651 du 6 juillet 1963](decret-n63-651-du-6-juillet-1963)
 - [Décret n°63-455 du 6 mai 1963](decret-n63-455-du-6-mai-1963)
+- [Décret n°63-1015 du 7 octobre 1963](decret-n63-1015-du-7-octobre-1963)
 - [Décret n°63-380 du 8 avril 1963](decret-n63-380-du-8-avril-1963)
 - [Décret n°63-94 du 8 février 1963](decret-n63-94-du-8-fevrier-1963)
 - [Décret n°63-96 du 8 février 1963](decret-n63-96-du-8-fevrier-1963)
