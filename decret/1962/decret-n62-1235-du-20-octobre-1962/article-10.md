@@ -8,7 +8,7 @@ L'offre ferme d'achat de la société d'aménagement foncier et d'établissement
 
 Si le vendeur accepte l'offre d'achat ou retire le bien de la vente, sa décision doit être portée à la connaissance de la société d'aménagement foncier et d'établissement rural, par le notaire chargé d'instrumenter. Le délai de six mois à l'expiration duquel le vendeur, en cas de silence de sa part, est réputé avoir accepté l'offre d'achat de la société à ses propres conditions, court du jour de la réception par le notaire, de la notification prévue au premier alinéa du présent article, la décision de retrait doit être parvenue à la société avant l'expiration de ce délai.
 
-S'il décide de demander la révision du prix et des conditions proposés par la société, le vendeur assigne celle-ci devant le tribunal de grande instance, qui se prononce dans les conditions prescrites à l'article 795 du code rural.
+S'il décide de demander la révision du prix et des conditions proposés par la société, le vendeur assigne celle-ci devant le tribunal de grande instance, qui se prononce dans les conditions prescrites à l'article L. 412-7 du code rural.
 
 Le tribunal apprécie de la même façon en cas d'apport en société et en cas d'échange la valeur des biens faisant l'objet de la préemption.
 
