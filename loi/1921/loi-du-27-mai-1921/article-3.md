@@ -6,7 +6,7 @@ L'Etat garantit l'intérêt et l'amortissement du capital des obligations souscr
 
 Le capital-actions pour toute section dont l'exploitation normale sera commencée depuis un an ne recevra aucune rémunération les années où la garantie accordée par l'Etat aux obligations aura fonctionné.
 
-Lorsque la garantie de l'Etat n'aura pas joué pour les obligations, les actions auront droit à un premier dividende qui sera, au maximum, l'intérêt augmenté de deux points résultant du cours moyen de la rente 5. 100 perpétuelle, durant l'exercice considéré, réserve faite des conversions possibles de ce type de rente.
+Lorsque la garantie de l'Etat n'aura pas joué pour les obligations, les actions auront droit à un premier dividende qui sera, au maximum, égal au taux de rendement des emprunts de l'Etat à long terme tel que constaté par arrêté du ministre chargé de l'économie.
 
 Les superbénéfices seront constitués par les excédents d'exploitation qui substitueraient après le prélèvement de l'intérêt et de l'annuité d'amortissement des obligations, de l'intérêt des actions déterminé comme il est dit au paragraphe 5.
 
