@@ -4,6 +4,7 @@
 - [Loi n° 2001-1135 du 3 décembre 2001 (JUSX0104676L)](loi-n-2001-1135-du-3-decembre-2001-jusx0104676l)
 - [Loi n° 2001-647 du 20 juillet 2001 (MESX0100027L)](loi-n-2001-647-du-20-juillet-2001-mesx0100027l)
 - [Loi n° 2002-1 du 2 janvier 2002 (ECOX0004502L)](loi-n-2002-1-du-2-janvier-2002-ecox0004502l)
+- [Loi n° 2002-1050 du 6 août 2002 (ECOX0200116L)](loi-n-2002-1050-du-6-aout-2002-ecox0200116l)
 - [Loi n° 2002-214 du 19 février 2002 (INTX0100196L)](loi-n-2002-214-du-19-fevrier-2002-intx0100196l)
 - [Loi n° 2002-268 du 26 février 2002 (JUSX0205311L)](loi-n-2002-268-du-26-fevrier-2002-jusx0205311l)
 - [Loi n° 2002-276 du 27 février 2002 (INTX0100065L)](loi-n-2002-276-du-27-fevrier-2002-intx0100065l)

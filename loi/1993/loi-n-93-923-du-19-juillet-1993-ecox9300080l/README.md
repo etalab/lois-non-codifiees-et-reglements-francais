@@ -1,5 +1,6 @@
 # Loi n° 93-923 du 19 juillet 1993 de privatisation
 
+- [Article 1-1](article-1-1.md)
 - [Article 2](article-2.md)
 - [Article 12](article-12.md)
 - [Article 19](article-19.md)

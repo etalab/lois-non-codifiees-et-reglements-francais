@@ -6,4 +6,4 @@ Le président du jury, le membre mentionné au 2° de l'article 19 et un magistr
 
 Les autres membres désignés au titre du 4°, à l'exception de celui visé au premier alinéa du présent article, peuvent être communs aux trois concours.
 
-Les dispositions des alinéas 3 et 4 de l'article 19 sont applicables au déroulement des épreuves du troisième concours.
+Les dispositions des deux derniers alinéas de l'article 19 sont applicables au déroulement des épreuves du troisième concours.
