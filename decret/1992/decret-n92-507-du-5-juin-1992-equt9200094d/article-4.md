@@ -4,4 +4,4 @@ Par dérogation à l'article 2, l'exploitation peut être poursuivie à titre pr
 
 En cas de départ du titulaire de l'attestation de capacité, l'entreprise peut continuer d'exercer son activité jusqu'au recrutement d'un remplaçant dans un délai n'excédant pas six mois.
 
-A titre exceptionnel et en vue de répondre à de graves difficultés familiales ou sociales, le ministre chargé des voies navigables peut autoriser la poursuite, à titre définitif, de l'exploitation par une personne ayant une expérience pratique d'au moins trois ans dans la gestion de cette exploitation.
+A titre exceptionnel et en vue de répondre à de graves difficultés familiales ou sociales, le préfet de la région Nord-Pas de Calais peut autoriser la poursuite, à titre définitif, de l'exploitation par une personne ayant une expérience pratique d'au moins trois ans dans la gestion de cette exploitation.

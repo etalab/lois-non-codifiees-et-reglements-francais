@@ -1,6 +1,6 @@
 # Article 3
 
-La condition de capacité professionnelle prévue au présent décret fait l'objet d'une attestation délivrée par le ministre chargé des voies navigables :
+La condition de capacité professionnelle prévue au présent décret fait l'objet d'une attestation délivrée par le préfet de la région Nord-Pas de Calais :
 
 a) Soit aux personnes titulaires d'un diplôme de l'enseignement supérieur sanctionnant une formation qui permette d'assurer la direction d'une entreprise de transport ou d'un diplôme d'enseignement technique sanctionnant une formation qui prépare aux activités de transport ;
 
