@@ -1,7 +1,7 @@
 # Article 93
 
-Un salarié de la société ne peut être nommé administrateur que si son contrat de travail est antérieur de deux années au moins à sa nomination [*délai*] et correspond à un emploi effectif ; il ne perd pas le bénéfice de ce contrat de travail [*cumul du mandat d'administrateur et du contrat de travail*]. Toute nomination intervenue en violation des dispositions du présent alinéa est nulle. Cette nullité n'entraîne pas celle des délibérations auxquelles a pris part l'administrateur irrégulièrement nommé.
+Un salarié de la société ne peut être nommé administrateur que si son contrat de travail est antérieur de deux années au moins à sa nomination [*délai*] et correspond à un emploi effectif ; il ne perd pas le bénéfice de ce contrat de travail [*cumul du mandat d'administrateur et du contrat de travail*]. Toute nomination intervenue en violation des dispositions du présent alinéa est nulle. Cette nullité n'entraîne pas celle des délibérations auxquelles a pris part l'administrateur irrégulièrement nommé. La condition d'ancienneté du contrat de travail n'est pas requise lorsque, au jour de la nomination, la société est constituée depuis moins de deux ans [*durée*].
 
 Le nombre des administrateurs liés à la société par un contrat de travail ne peut dépasser le tiers des administrateurs en fonction. Toutefois, les administrateurs élus par les salariés et, dans les sociétés anonymes à participation ouvrière, les représentants de la société coopérative de main-d'oeuvre ne sont pas comptés pour la détermination du nombre de ces administrateurs.
 
-En cas de fusion, le contrat de travail peut avoir été conclu avec l'une des sociétés fusionnées.
+En cas de fusion ou de scission, le contrat de travail peut avoir été conclu avec l'une des sociétés fusionnées ou avec la société scindée.
