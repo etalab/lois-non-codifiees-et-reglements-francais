@@ -116,6 +116,7 @@
 - [Décret n°96-156 du 26 février 1996 (INDX9600013D)](decret-n96-156-du-26-fevrier-1996-indx9600013d)
 - [Décret n°96-61 du 26 janvier 1996 (FPPA9610002D)](decret-n96-61-du-26-janvier-1996-fppa9610002d)
 - [Décret n°96-69 du 26 janvier 1996 (TASS9523421D)](decret-n96-69-du-26-janvier-1996-tass9523421d)
+- [Décret n°96-157 du 27 février 1996 (JUSB9610056D)](decret-n96-157-du-27-fevrier-1996-jusb9610056d)
 - [Décret n°95-1407 du 28 décembre 1995 (AGRP9502120D)](decret-n95-1407-du-28-decembre-1995-agrp9502120d)
 - [Décret n°95-1408 du 28 décembre 1995 (AGRG9502410D)](decret-n95-1408-du-28-decembre-1995-agrg9502410d)
 - [Décret n°95-1409 du 28 décembre 1995 (AVIC9503474D)](decret-n95-1409-du-28-decembre-1995-avic9503474d)
