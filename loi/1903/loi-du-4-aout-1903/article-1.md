@@ -1,0 +1,5 @@
+# Article 1
+
+Seront punis des peines prévues par l'article L. 214-2 du code de la consommation ceux qui, au moment de la vente ou de la livraison de produits cupriques anticryptogamiques, matières premières ou composées, n'auront pas fait connaître à l'acheteur, sur le bulletin de vente en même temps que sur la facture, la teneur en cuivre pur contenu par 100 kilos de matière facturée telle qu'elle est livrée. La même indication devra être inscrite d'une façon apparente sur les enveloppes et récipients dans lesquels la marchandise est livrée à l'acheteur, sur les emballages et récipients dans lesquels la marchandise est préparée à l'avance pour être livrée à l'acheteur, ainsi que sur les prospectus, réclames, prix-courants et papiers de commerce.
+
+Seront punis des mêmes peines ceux qui, au moment de la vente ou de la livraison des produits insecticides, anticryptogamiques et, en général, de tous produits utilisés dans la lutte contre les ravageurs de cultures, matières premières ou composées, n'auront pas fait connaître à l'acheteur la teneur en éléments utiles du produit tel qu'il est livré, dans les mêmes conditions que celles ci-dessus énoncées.

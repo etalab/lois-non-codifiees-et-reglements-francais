@@ -1,6 +1,6 @@
 # Article 2
 
-Ne constituent pas des manipulations et pratiques frauduleuses aux termes de la loi du 1er août 1905, les opérations ci-après énumérées :
+Ne constituent pas des manipulations et pratiques frauduleuses aux termes des articles L. 213-1 à L. 216-1 du code de la consommation , les opérations ci-après énumérées :
 
 1° Le mélange de jus de fruits ou de légumes d'une même espèce et de variétés différentes ;
 

@@ -6,4 +6,4 @@ Les marchandises qui ne répondent pas aux caractéristiques microbiologiques ou
 
 Ces marchandises ainsi que celles dont la date limite de consommation, telle qu'elle est définie par le décret du 7 décembre 1984 susvisé, est atteinte doivent être entreposées dans des lieux distincts de ceux où se trouvent des aliments destinés à la consommation humaine.
 
-Le détenteur des marchandises mentionnées à l'alinéa précédent doit faire procéder à leur destruction ou leur conférer une utilisation à laquelle elles demeureraient propres. A défaut, les agents habilités pour appliquer la loi du 1er août 1905 susvisée prennent les mesures nécessaires à leur retrait du marché.
+Le détenteur des marchandises mentionnées à l'alinéa précédent doit faire procéder à leur destruction ou leur conférer une utilisation à laquelle elles demeureraient propres. A défaut, les agents habilités pour appliquer les articles L. 213-1 à L. 216-1 du code de la consommation prennent les mesures nécessaires à leur retrait du marché.

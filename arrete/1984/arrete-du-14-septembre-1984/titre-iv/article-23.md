@@ -4,4 +4,4 @@ Tout auteur de fraude ou tentative de fraude sur l'origine ou l'identité d'un �
 
 La décision est notifiée à l'intéressé et portée à la connaissance des organisateurs de concours.
 
-Cette sanction n'exclut par la possibilité des poursuites pénales encourues en application de la loi du 1er août 1905 sur la répression des fraudes. La même sanction sera appliquée à toute personne ayant perturbé volontairement le bon déroulement d'un concours d'élevage.
+Cette sanction n'exclut par la possibilité des poursuites pénales encourues en application des articles L. 213-1 à L. 216-1 du code de la consommation. La même sanction sera appliquée à toute personne ayant perturbé volontairement le bon déroulement d'un concours d'élevage.

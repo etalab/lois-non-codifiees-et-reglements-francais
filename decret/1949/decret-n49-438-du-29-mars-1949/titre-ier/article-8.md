@@ -1,6 +1,6 @@
 # Article 8
 
-Constituent notamment des falsifications au sens de la loi du 1er août 1905 :
+Constituent notamment des falsifications au sens des articles L. 213-1 à L. 216-1 du code de la consommation :
 
 L'emploi d'eau non potable, tant pour le nettoyage des récipients et appareils que pour la fabrication des glaces elles-mêmes ;
 

@@ -24,7 +24,7 @@ Lorsque les préemballages sont réutilisables, la marque de salubrité est appo
 
 3° Retrait :
 
-Indépendamment des sanctions prévues par la loi du 1er août 1905 sur les fraudes et falsifications en matière de produits ou de services et celle du 8 juillet 1965 et les textes pris pour leur application, le non-respect par le fabricant des dispositions du présent arrêté pourra entraîner le retrait de la marque de salubrité.
+Indépendamment des sanctions prévues par les articles L. 213-1 à L. 216-1 du code de la consommation et la loi du 8 juillet 1965 et les textes pris pour leur application, le non-respect par le fabricant des dispositions du présent arrêté pourra entraîner le retrait de la marque de salubrité.
 
 4° Description :
 

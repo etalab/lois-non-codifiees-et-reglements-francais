@@ -60,6 +60,7 @@
 - [Loi n° 92-595 du 1 juillet 1992 (MAEX9100175L)](loi-n-92-595-du-1-juillet-1992-maex9100175l)
 - [Loi n° 92-596 du 1 juillet 1992 (MAEX9100179L)](loi-n-92-596-du-1-juillet-1992-maex9100179l)
 - [Loi n° 92-597 du 1 juillet 1992 (MENX9100082L)](loi-n-92-597-du-1-juillet-1992-menx9100082l)
+- [Loi n° 92-60 du 18 janvier 1992 (SECX9100043L)](loi-n-92-60-du-18-janvier-1992-secx9100043l)
 - [Loi n° 92-61 du 18 janvier 1992 (MCCX9100158L)](loi-n-92-61-du-18-janvier-1992-mccx9100158l)
 - [Loi n° 92-613 du 6 juillet 1992 (AGRX9100138L)](loi-n-92-613-du-6-juillet-1992-agrx9100138l)
 - [Loi n° 92-625 du 6 juillet 1992 (INTX9200050L)](loi-n-92-625-du-6-juillet-1992-intx9200050l)

@@ -1,6 +1,6 @@
 # Article 7
 
-Ne constituent pas des falsifications au sens de la loi du 1er août 1905 :
+Ne constituent pas des falsifications au sens des articles L. 213-1 à L. 216-1 du code de la consommation :
 
 L'emploi, pour remplacer le lait frais, de lait concentré (sucré ou non) ainsi que de poudre de lait (écrémé ou non) additionnés de la quantité d'eau potable nécessaire pour reconstituer le produit d'origine ;
 

@@ -5,4 +5,4 @@
 - [Loi n° 73-1193 du 27 décembre 1973](loi-n-73-1193-du-27-decembre-1973)
 - [Loi n° 73-42 du 9 janvier 1973](loi-n-73-42-du-9-janvier-1973)
 - [Loi n° 73-548 du 27 juin 1973](loi-n-73-548-du-27-juin-1973)
-- [Loi n°72-1137 du 22 décembre 1972](loi-n72-1137-du-22-decembre-1972)
+- [Loi n°73-1097 du 12 décembre 1973](loi-n73-1097-du-12-decembre-1973)

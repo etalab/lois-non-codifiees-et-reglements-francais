@@ -16,13 +16,11 @@ La déclaration d'existence mentionnée à ce même article doit être souscrite
 
 6. Les dispositions de l'article 39 quinquies FA du code général des impôts sont reconduites pour quatre ans.
 
-l'aménagement du territoire*.
-
 II - 1. 2. Paragraphes modificateurs.
 
 Les dispositions de l'article 189 du code des douanes ne s'appliquent pas à la taxe sur la valeur ajoutée.
 
-3. Les offres préalables de prêts rédigées conformément aux dispositions de la loi n° 79-596 du 13 juillet 1979 relative à l'information et à la protection des emprunteurs dans le domaine immobilier sont exonérées du droit de timbre de dimension prévu à l'article 899 du code général des impôts.
+3. Les offres préalables de prêts rédigées conformément aux dispositions des articles L312-2 à L313-1 du code de la consommation relative à l'information et à la protection des emprunteurs dans le domaine immobilier sont exonérées du droit de timbre de dimension prévu à l'article 899 du code général des impôts.
 
 4. Les acquisitions d'actions réalisées par les communes, les départements, les régions et leurs groupements dans le cadre de l'article premier de la loi n° 83-597 du 7 juillet 1983 sur les sociétés d'économie mixte locales ne donnent lieu à aucune perception au profit du Trésor, sous réserve que la décision de l'Assemblée délibérante compétente pour décider de l'opération fasse référence à la disposition législative en cause et soit annexée à l'acte.
 

@@ -4,4 +4,4 @@ Les dispositions du présent arrêté s'appliquent aux produits végétaux crus,
 
 Sont également concernés par les dispositions ci-dessous les graines germées ainsi que les jus de légumes et de fruits crus.
 
-Sont exclus du champ d'application du présent arrêté les produits végétaux surgelés définis par le décret du 9 septembre 1964 modifié pris en ce qui concerne les produits surgelés pour l'application de la loi du 1er août 1905 sur la répression des fraudes, ainsi que les produits végétaux à l'état congelé.
+Sont exclus du champ d'application du présent arrêté les produits végétaux surgelés définis par le décret du 9 septembre 1964 modifié pris en ce qui concerne les produits surgelés pour l'application des articles L. 213-1 à L 216-1 du code de la consommation, ainsi que les produits végétaux à l'état congelé.

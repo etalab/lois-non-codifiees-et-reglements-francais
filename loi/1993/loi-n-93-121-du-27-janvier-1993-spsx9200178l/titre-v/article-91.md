@@ -1,0 +1,3 @@
+# Article 91
+
+A titre exceptionnel pour l'année 1992, deux nominations pourront être prononcées au choix dans le corps des professeurs de sport, après inscription sur une liste d'aptitude, parmi les agents non titulaires du ministère de la jeunesse et des sports exerçant des fonctions d'encadrement ou d'entraînement dans le domaine des activités physiques et sportives depuis au moins six mois à la date d'entrée en vigueur de la présente loi, au sein d'un service de l'Etat ou de l'un de ses établissements publics, pour neuf nominations prononcées l'année précédente au titre des 1° et 2° de l'article 4 du décret n° 85-720 du 10 juillet 1985 portant statut particulier des professeurs de sport.

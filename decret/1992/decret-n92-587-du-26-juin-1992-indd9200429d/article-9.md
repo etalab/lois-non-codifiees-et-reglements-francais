@@ -1,6 +1,6 @@
 # Article 9
 
-Les dispositions de l'article 13 de la loi du 1er août 1905 susvisée ne sont pas applicables aux infractions définies ci-dessous :
+Les dispositions de l'article L. 214-2 du code de la consommation ne sont pas applicables aux infractions définies ci-dessous :
 
 - mise sur le marché d'un appareil non muni du marquage "CE" visé à l'article 8 ci-dessus ;
 

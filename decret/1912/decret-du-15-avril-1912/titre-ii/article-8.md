@@ -1,6 +1,6 @@
 # Article 8
 
-Il est interdit, en vertu des articles 1 et 3 de la loi du 1er août 1905, de détenir en vue de la vente, de mettre en vente ou de vendre :
+Il est interdit, en vertu des articles L. 213-1 et L. 213-3 du code de la consommation, de détenir en vue de la vente, de mettre en vente ou de vendre :
 
 1° Sous les dénominations "andouilles", "andouillettes", "boudin", "galantine", "fromage de tête", "hure", des préparations composées d'autres éléments que les viandes, abats et issues de porc, additionnés ou non de viandes, abats ou issues de boeuf, de veau ou de mouton, ainsi que de lait, d'oeufs, d'épices, d'aromates et d'oignons.
 

@@ -1,10 +1,10 @@
 # Article 4
 
-Est considérée comme une falsification aux termes de l'article 3 de la loi du 1er août 1905 :
+Est considérée comme une falsification aux termes de l'article L. 213-3 du code de la consommation :
 
 L'addition, en quelque proportion que ce soit, d'eau potable au lait.
 
-Est considérée comme une falsification nuisible à la santé, aux termes du paragraphe 6 de l'article 3 de la loi du 1er août 1905 :
+Est considérée comme une falsification nuisible à la santé, aux termes de l'article L. 213-3 du code de la consommation.
 
 L'addition au lait, en quelque proportion que ce soit, d'eau non potable ;
 

@@ -2,4 +2,3 @@
 
 - [Titre Ier : Du règlement des situations de surendettement des particuliers](titre-ier)
 - [Titre II : De la prévention des situations de surendettement des particuliers.](titre-ii)
-- [Titre III : Dispositions diverses.](titre-iii)

@@ -4,6 +4,6 @@ En ce qui concerne les fromages bénéficiant d'une appellation d'origine, le mi
 
 L'exploitant d'une entreprise de préemballage est soumis à la tenue, pour ces produits, d'un compte spécial d'entrées et de sorties par espèce de fromage, arrêté mensuellement et conservé pendant au moins un an.
 
-Ce compte est tenu, dans les locaux de transformation, à la disposition des personnes qualifiées pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation des infractions à la loi du 1er août 1905.
+Ce compte est tenu, dans les locaux de transformation, à la disposition des personnes qualifiées pour procéder dans l'exercice de leurs fonctions à la recherche et à la constatation des infractions à aux articles L. 213-1 à L. 216-1 du code de la consommation.
 
 Les dispositions de l'article 4 sont en outre applicables.

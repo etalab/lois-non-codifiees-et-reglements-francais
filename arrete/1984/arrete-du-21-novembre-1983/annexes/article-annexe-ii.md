@@ -30,7 +30,7 @@ Lorsque les récipients sont réutilisables, la marque de salubrité est apposé
 
 3° Retrait.
 
-Indépendamment des sanctions prévues par les lois du 1er août 1905 et du 8 juillet 1965 et les textes pris pour leur application, le non-respect par le fabricant des dispositions du présent arrêté pourra entraîner le retrait de la marque de salubrité.
+Indépendamment des sanctions prévues par les articles L. 213-1 L. 216-1 du code de la consommation et de la loi du 8 juillet 1965 et les textes pris  pour leur application le non-respect par le fabricant des dispositions du présent arrêté pourra entraîner le retrait de la marque de salubrité.
 
 4° Description.
 
