@@ -369,6 +369,7 @@
 - [Arrêté du 23 février 1999 (INTC9900104A)](arrete-du-23-fevrier-1999-intc9900104a)
 - [Arrêté du 23 février 1999 (INTE9900099A)](arrete-du-23-fevrier-1999-inte9900099a)
 - [Arrêté du 23 juin 1999 (EQUT9900890A)](arrete-du-23-juin-1999-equt9900890a)
+- [Arrêté du 23 juin 1999 (INTD9900339A)](arrete-du-23-juin-1999-intd9900339a)
 - [Arrêté du 23 mars 1999 (MESF9910425A)](arrete-du-23-mars-1999-mesf9910425a)
 - [Arrêté du 23 mars 1999 (MESF9910426A)](arrete-du-23-mars-1999-mesf9910426a)
 - [Arrêté du 23 mars 1999 (MEST9910492A)](arrete-du-23-mars-1999-mest9910492a)
