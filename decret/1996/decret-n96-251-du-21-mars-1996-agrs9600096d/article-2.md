@@ -1,0 +1,5 @@
+# Article 2
+
+L'admission en non-valeur ne peut être prononcée moins d'un an après la date d'exigibilité des cotisations et seulement en cas d'insolvabilité du débiteur, de disparition ou de décès du débiteur ne laissant aucun actif saisissable ou de clôture des opérations de liquidation judiciaire pour insuffisance d'actif.
+
+Lorsque le jugement de clôture pour insuffisance d'actif n'est pas prononcé dans un délai de deux ans après la date d'exigibilité des cotisations sociales agricoles, la caisse de mutualité sociale agricole ou l'organisme assureur habilité peuvent prononcer l'admission en non-valeur dès lors que les créances ne dépassent pas un montant fixé par arrêté du ministre chargé de l'agriculture et du ministre chargé du budget, au vu d'une attestation du liquidateur d'une clôture prochaine de la liquidation judiciaire pour insuffisance d'actif. Cette attestation doit certifier qu'il n'existe aucune possibilité de distribuer des dividendes et que la clôture n'est pas différée en raison de l'existence d'une procédure de répartition de l'actif en cours.
