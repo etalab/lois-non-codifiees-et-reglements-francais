@@ -61,7 +61,6 @@
 - [Arrêté du 3 juin 1987 (ACVC8700013A)](arrete-du-3-juin-1987-acvc8700013a)
 - [Arrêté du 3 juin 1987 (ASES8700864A)](arrete-du-3-juin-1987-ases8700864a)
 - [Arrêté du 3 novembre 1987 (AGRS8702046A)](arrete-du-3-novembre-1987-agrs8702046a)
-- [Arrêté du 3 novembre 1987 (ECOC8700123A)](arrete-du-3-novembre-1987-ecoc8700123a)
 - [Arrêté du 3 novembre 1987 (ECOC8700124A)](arrete-du-3-novembre-1987-ecoc8700124a)
 - [Arrêté du 3 novembre 1987 (ECOT8719010A)](arrete-du-3-novembre-1987-ecot8719010a)
 - [Arrêté du 3 novembre 1987 (EQUS8700993A)](arrete-du-3-novembre-1987-equs8700993a)

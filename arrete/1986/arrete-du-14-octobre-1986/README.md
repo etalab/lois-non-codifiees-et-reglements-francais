@@ -1,5 +1,6 @@
-# Arrêté du 14 octobre 1986 relatif à la fixation des tarifs internationaux du service télégraphique
+# Arrêté du 14 octobre 1986 fixant le montant de l'allocation forfaitaire spéciale attribuée aux appelés du contingent servant dans la police nationale
 
+- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
