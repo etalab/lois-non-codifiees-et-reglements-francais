@@ -94,6 +94,8 @@
 - [Décret n°99-187 du 11 mars 1999 (ECOT9951781D)](decret-n99-187-du-11-mars-1999-ecot9951781d)
 - [Décret n°99-189 du 11 mars 1999 (MCCK9900133D)](decret-n99-189-du-11-mars-1999-mcck9900133d)
 - [Décret n°99-190 du 11 mars 1999 (MCCK9900132D)](decret-n99-190-du-11-mars-1999-mcck9900132d)
+- [Décret n°99-196 du 11 mars 1999 (MAEA9920001D)](decret-n99-196-du-11-mars-1999-maea9920001d)
+- [Décret n°99-197 du 11 mars 1999 (ECOF9800032D)](decret-n99-197-du-11-mars-1999-ecof9800032d)
 - [Décret n°99-32 du 11 janvier 1999 (MAEJ9830116D)](decret-n99-32-du-11-janvier-1999-maej9830116d)
 - [Décret n°99-91 du 11 février 1999 (EQUA9801713D)](decret-n99-91-du-11-fevrier-1999-equa9801713d)
 - [Décret n°99-92 du 11 février 1999 (INTB9900017D)](decret-n99-92-du-11-fevrier-1999-intb9900017d)
