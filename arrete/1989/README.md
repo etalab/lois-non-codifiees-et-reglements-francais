@@ -349,7 +349,6 @@
 - [Arrêté du 16 février 1989 (INDD8900140A)](arrete-du-16-fevrier-1989-indd8900140a)
 - [Arrêté du 16 février 1989 (TOUR8904504A)](arrete-du-16-fevrier-1989-tour8904504a)
 - [Arrêté du 16 janvier 1989 (SPSH8900099A)](arrete-du-16-janvier-1989-spsh8900099a)
-- [Arrêté du 16 janvier 1989 (TEFC8903045A)](arrete-du-16-janvier-1989-tefc8903045a)
 - [Arrêté du 16 juin 1989 (SPSP8901284A)](arrete-du-16-juin-1989-spsp8901284a)
 - [Arrêté du 16 mars 1989 (SPSH8900535A)](arrete-du-16-mars-1989-spsh8900535a)
 - [Arrêté du 16 mars 1989 (SPSH8900539A)](arrete-du-16-mars-1989-spsh8900539a)
