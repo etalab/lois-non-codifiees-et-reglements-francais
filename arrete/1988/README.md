@@ -178,6 +178,7 @@
 - [Arrêté du 8 juin 1988 (SPSH8800925A)](arrete-du-8-juin-1988-spsh8800925a)
 - [Arrêté du 8 mars 1988 (EQUP8800220A)](arrete-du-8-mars-1988-equp8800220a)
 - [Arrêté du 8 octobre 1987 (ASET8703700A)](arrete-du-8-octobre-1987-aset8703700a)
+- [Arrêté du 8 septembre 1988 (EQUP8800613A)](arrete-du-8-septembre-1988-equp8800613a)
 - [Arrêté du 8 septembre 1988 (FPPA8800081A)](arrete-du-8-septembre-1988-fppa8800081a)
 - [Arrêté du 8 septembre 1988 (INDD8800649A)](arrete-du-8-septembre-1988-indd8800649a)
 - [Arrêté du 9 août 1988 (ASEG8800844A)](arrete-du-9-aout-1988-aseg8800844a)
