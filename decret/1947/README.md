@@ -15,6 +15,7 @@
 - [Décret n°47-1343 du 18 juillet 1947](decret-n47-1343-du-18-juillet-1947)
 - [Décret du 19 avril 1947](decret-du-19-avril-1947)
 - [Décret n°47-1846 du 19 septembre 1947](decret-n47-1846-du-19-septembre-1947)
+- [Décret n°47-2241 du 19 novembre 1947](decret-n47-2241-du-19-novembre-1947)
 - [Décret n°47-753 du 19 avril 1947](decret-n47-753-du-19-avril-1947)
 - [Décret n°47-2097 du 22 octobre 1947](decret-n47-2097-du-22-octobre-1947)
 - [Décret n°47-2100 du 22 octobre 1947](decret-n47-2100-du-22-octobre-1947)
