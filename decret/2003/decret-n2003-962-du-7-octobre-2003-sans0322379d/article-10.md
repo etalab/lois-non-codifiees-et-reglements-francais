@@ -10,7 +10,7 @@ dans laquelle :
 
 2° K représente le coefficient de prise en charge déterminé par la formule :
 
-K = 0,9 - R/10 000 x N
+K = 0,9 - R/10 180 x N
 
 dans laquelle :
 
@@ -32,11 +32,11 @@ Soit la somme prise en compte, dont il est fait état aux articles 8 et 9 et év
 
 Il est obtenu par l'application aux ressources du foyer de pourcentages fixés comme suit :
 
-0 % pour la tranche de ressources inférieure ou égale à 1 000 Euros ;
+0 % pour la tranche de ressources inférieure ou égale à 1 018 Euros ;
 
-30 % pour la tranche de ressources comprise entre 1 000 Euros et 2 000 Euros ;
+30 % pour la tranche de ressources comprise entre 1 018 Euros et 2 036 Euros ;
 
-45 % pour la tranche de ressources supérieure à 2 000 Euros.
+45 % pour la tranche de ressources supérieure à 2 036 Euros.
 
 Les limites de chacune de ces tranches sont affectées des coefficients (ou nombre de parts) ci-après :
 
@@ -46,4 +46,4 @@ Les limites de chacune de ces tranches sont affectées des coefficients (ou nomb
 
 3,7 pour un ménage ou une personne avec trois enfants ou plus à charge.
 
-Le loyer minimum ainsi obtenu est majoré d'un montant égal à 60 Euros.
+Le loyer minimum ainsi obtenu est majoré d'un montant égal à 61,08 Euros.
