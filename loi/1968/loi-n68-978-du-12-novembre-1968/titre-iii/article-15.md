@@ -1,0 +1,5 @@
+# Article 15
+
+Le président d'un établissement en assure la direction et le représente à l'égard des tiers. Il est élu pour cinq ans et n'est pas immédiatement rééligible. Sauf dérogation décidée par le conseil à la majorité des deux tiers, il doit avoir le grade de professeur ou maître de conférences titulaire de l'établissement ou de directeur de recherche et être membre du conseil. S'il n'a pas un des grades précédents, sa nomination doit être approuvée par le ministre de l'éducation nationale après avis du conseil national de l'enseignement supérieur et de la recherche.
+
+Le directeur d'une unité d'enseignement et de recherche est élu pour trois ans. Sauf dérogation décidée par le conseil à la majorité des deux tiers, il doit avoir le grade de professeur, maître de conférences titulaire de l'établissement, de maître-assistant, directeur ou chargé de recherche, et être membre du conseil. S'il n'a pas un des grades précédents, sa nomination doit être approuvée par le ministre de l'éducation nationale après avis du conseil d'université et du conseil national de l'enseignement supérieur et de la recherche.
