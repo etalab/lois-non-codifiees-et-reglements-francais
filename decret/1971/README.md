@@ -32,6 +32,7 @@
 - [Décret n°71-376 du 13 mai 1971](decret-n71-376-du-13-mai-1971)
 - [Décret du 14 juin 1971](decret-du-14-juin-1971)
 - [Décret n°71-292 du 14 avril 1971](decret-n71-292-du-14-avril-1971)
+- [Décret n°71-750 du 14 septembre 1971](decret-n71-750-du-14-septembre-1971)
 - [Décret n°71-365 du 14 mai 1971](decret-n71-365-du-14-mai-1971)
 - [Décret du 15 avril 1971](decret-du-15-avril-1971)
 - [Décret n°71-136 du 15 février 1971](decret-n71-136-du-15-fevrier-1971)
