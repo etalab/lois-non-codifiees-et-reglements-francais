@@ -597,7 +597,6 @@
 - [Arrêté du 12 septembre 1995 (MENL9501974A)](arrete-du-12-septembre-1995-menl9501974a)
 - [Arrêté du 12 septembre 1995 (MIPP9500867A)](arrete-du-12-septembre-1995-mipp9500867a)
 - [Arrêté du 12 septembre 1995 (MIPP9500868A)](arrete-du-12-septembre-1995-mipp9500868a)
-- [Arrêté du 13 avril 1995 (DEFD9501291A)](arrete-du-13-avril-1995-defd9501291a)
 - [Arrêté du 13 avril 1995 (DEFD9501484A)](arrete-du-13-avril-1995-defd9501484a)
 - [Arrêté du 13 avril 1995 (ECOT9516206A)](arrete-du-13-avril-1995-ecot9516206a)
 - [Arrêté du 13 avril 1995 (ECOT9516207A)](arrete-du-13-avril-1995-ecot9516207a)
