@@ -1,0 +1,3 @@
+# Article 14
+
+Les autorisations individuelles délivrées au titre de la réglementation des changes avant le 31 janvier 1967 par le ministère de l'économie et des finances, par la Banque de France, par la caisse centrale de coopération économique ou par l'office des changes, afférentes à des opérations qui sont soumises à autorisation ou à déclaration en application du décret n° 67-78 du 27 janvier 1987, doivent, lorsqu'elles sont assorties de conditions qui ne sont pas en contradiction avec le nouveau régime des relations financières avec l'étranger défini par le décret ci-dessus visé, être exécutées en respectant les conditions imposées, notamment en ce qui concerne l'envoi de comptes rendus.
