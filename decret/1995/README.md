@@ -894,6 +894,7 @@
 - [Décret n°98-505 du 23 juin 1998 (INTA9800147D)](decret-n98-505-du-23-juin-1998-inta9800147d)
 - [Décret du 24 octobre 1995 (EQUF9501395D)](decret-du-24-octobre-1995-equf9501395d)
 - [Décret n°95-1134 du 24 octobre 1995 (MAEA9520163D)](decret-n95-1134-du-24-octobre-1995-maea9520163d)
+- [Décret n°95-1242 du 24 novembre 1995 (MAEJ9530107D)](decret-n95-1242-du-24-novembre-1995-maej9530107d)
 - [Décret n°95-196 du 24 février 1995 (SPSS9500324D)](decret-n95-196-du-24-fevrier-1995-spss9500324d)
 - [Décret n°95-197 du 24 février 1995 (SPSP9500470D)](decret-n95-197-du-24-fevrier-1995-spsp9500470d)
 - [Décret n°95-198 du 24 février 1995 (INDH9500175D)](decret-n95-198-du-24-fevrier-1995-indh9500175d)
