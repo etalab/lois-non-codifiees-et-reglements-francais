@@ -10,6 +10,8 @@ Les autorisations accordées au titre du présent décret peuvent être modifié
 
 4° Si l'établissement se trouve exposé à des causes d'insalubrité.
 
+5° Si le titulaire de l'autorisation n'a pas effectué le stage en cultures marines dans les deux ans à compter de la date de l'arrêté d'autorisation, lorsqu'il a pris un engagement en ce sens en application des dispositions de l'article 5-1 (4°) ci-dessus.
+
 Les critères d'insuffisance d'exploitation justifiant l'application du 3° du premier alinéa sont définis par le commissaire de la République sur proposition de la commission des cultures marines et du directeur des affaires maritimes.
 
 Les autorisations accordées au titre du présent décret peuvent encore être retirées à tout moment par décision motivée du commissaire de la République pour motif d'utilité publique et notamment en cas de mise en oeuvre d'un plan d'utilisation de l'espace entraînant modification du secteur concerné. Le concessionnaire évincé a droit, en ce cas, à une indemnisation à la charge de la collectivité bénéficiaire du motif d'utilité publique reconnu.
