@@ -28,7 +28,6 @@
 - [Décret n°88-538 du 5 mai 1988 (ECOC8800036D)](decret-n88-538-du-5-mai-1988-ecoc8800036d)
 - [Décret n°88-574 du 5 mai 1988 (ASES8800657D)](decret-n88-574-du-5-mai-1988-ases8800657d)
 - [Décret n°74-930 du 6 novembre 1974](decret-n74-930-du-6-novembre-1974)
-- [Décret n°88-949 du 6 octobre 1988 (JUSF8850115D)](decret-n88-949-du-6-octobre-1988-jusf8850115d)
 - [Décret n°88-950 du 6 octobre 1988 (SPSH8801075D)](decret-n88-950-du-6-octobre-1988-spsh8801075d)
 - [Décret n°88-545 du 6 mai 1988 (MCLB8800138D)](decret-n88-545-du-6-mai-1988-mclb8800138d)
 - [Décret n°88-546 du 6 mai 1988 (INTB8800139D)](decret-n88-546-du-6-mai-1988-intb8800139d)
