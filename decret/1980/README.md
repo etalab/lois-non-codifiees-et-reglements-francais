@@ -43,6 +43,7 @@
 - [Décret du 9 mai 1980](decret-du-9-mai-1980)
 - [Décret n°80-196 du 10 mars 1980](decret-n80-196-du-10-mars-1980)
 - [Décret n°80-268 du 10 avril 1980](decret-n80-268-du-10-avril-1980)
+- [Décret n°80-716 du 10 septembre 1980](decret-n80-716-du-10-septembre-1980)
 - [Décret n°80-73 du 10 janvier 1980](decret-n80-73-du-10-janvier-1980)
 - [Décret n°81-238 du 10 mars 1981](decret-n81-238-du-10-mars-1981)
 - [Décret n°80-198 du 11 mars 1980](decret-n80-198-du-11-mars-1980)
