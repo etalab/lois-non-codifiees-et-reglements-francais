@@ -1,6 +1,6 @@
 # Article 16
 
-L'allocation de retraite est liquidée à l'âge de soixante-cinq ans. Cependant elle peut faire l'objet d'une anticipation, au plus tôt à cinquante-cinq ans. Dans ce cas, le total des points de retraite est affecté des coefficients de réduction ci-après :
+L'allocation de retraite est normalement liquidée à l'âge de soixante-cinq ans. Cependant elle peut faire l'objet d'une anticipation, au plus tôt à cinquante-cinq ans. Dans ce cas, le total des points de retraite est affecté des coefficients de réduction ci-après :
 
 <table>
 <tbody>
@@ -40,7 +40,7 @@ L'allocation de retraite est liquidée à l'âge de soixante-cinq ans. Cependant
 <p align="center">0,50</p>
 </td>
 <td valign="top" width="170">
-<p align="left">61 ans</p>
+<p>61 ans</p>
 </td>
 <td valign="top" width="170">
 <p align="center">0,83</p>
@@ -82,7 +82,7 @@ L'allocation de retraite est liquidée à l'âge de soixante-cinq ans. Cependant
 <p align="center">0,71</p>
 </td>
 <td valign="top" width="170">
-<p align="left">64 ans</p>
+<p>64 ans</p>
 </td>
 <td valign="top" width="170">
 <p align="center">0,96</p>
@@ -97,4 +97,6 @@ Toutefois, ce coefficient de réduction n'est pas applicable :
 
 2° Aux anciens déportés et internés âgés de soixante ans au moins et titulaires soit de la carte de déporté ou interné de la résistance, soit de la carte de déporté ou interné politique.
 
-3° Lorsqu'un agent bénéficiaire du régime est licencié de son emploi dans l'intérêt du service entre soixante-trois et soixante-cinq ans.
+3° Aux anciens combattants et prisonniers de guerre qui bénéficient d'une pension de vieillesse du régime général de sécurité sociale ou du régime agricole des assurances sociales liquidée entre soixante et soixante-cinq ans dans les conditions prévues par la loi n° 73-051 du 21 novembre 1973 et par le décret n° 74-428 du 15 mai 1974.
+
+4° Lorsqu'un agent bénéficiaire du régime est licencié de son emploi dans l'intérêt du service entre soixante-trois et soixante-cinq ans.
