@@ -289,3 +289,15 @@ NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillanc
 REPARTITION PAR MINISTERE
 
 Economie.
+
+NOM DE LA SOCIETE
+
+Bâticréances
+
+NOMBRE de représentants de l'Etat au conseil d'administration ou de surveillance
+
+1
+
+REPARTITION PAR MINISTERE
+
+Economie.
