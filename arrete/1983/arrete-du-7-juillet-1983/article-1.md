@@ -1,9 +1,5 @@
 # Article 1
 
-La participation versée par les organismes du régime général de sécurité sociale au titre des dépenses afférentes aux élections de leurs conseils d'administration est rattachée par voie de fonds de concours au budget des affaires sociales et solidarité nationale (travail, santé, emploi) :
+La demande de remboursement de congé de naissance ou d'adoption doit être conforme au modèle S 7202 a, enregistré par le CERFA sous le n° 60-3674 (1).
 
-SECTION II
-
-Santé - Solidarité nationale
-
-Chapitre 34-42 - Services extérieurs des affaires sanitaires et sociales - Matériel et fonctionnement courant.
+(1) Ces imprimés sont détenus par les organismes d'allocations familiales notamment la CNAF.
