@@ -1,3 +1,5 @@
 # Article 1
 
-A titre exceptionnel et par dérogation aux dispositions de l'article 4 de l'arrêté susvisé du 25 avril 1969 modifié, le taux de la cotisation d'assurance volontaire est fixé à 14,75 p. 100 pour la période comprise entre le 1er août 1979 et le 31 janvier 1981.
+1. Ajouter à la liste des substances minérales solides énumérées à l'article 4 (C bis) de l'annexe IV au code général des impôts la silice pour l'industrie.
+
+2. La silice pour l'industrie (verrerie, céramique, fonderie, chimie et électrométallurgie) visée au 1 s'entend des matériaux naturels présentant une teneur sur produit sec d'au moins 97% d'oxyde de silicium (Si O2).

@@ -1,4 +1,4 @@
-# Arrêté du 6 août 1979 fixant les taux et modalités de versement de la cotisation d'assurance volontaire maladie et maternité dans les professions agricoles.
+# Arrêté du 6 août 1979 LISTE COMPLEMENTAIRE DES SUBSTANCES MINERALES SOLIDES DONT L'EXTRACTION PEUT DONNER DROIT A LA CONSTITUTION DE PROVISIONS POUR RECONSTITUTION DE GISEMENTS.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
