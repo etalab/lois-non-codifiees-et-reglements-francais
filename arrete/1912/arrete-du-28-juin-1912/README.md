@@ -9,6 +9,7 @@
 - [Article 7](article-7.md)
 - [Article 8 d](article-8-d.md)
 - [Article 8 b](article-8-b.md)
+- [Article 8 e](article-8-e.md)
 - [Article 8 f](article-8-f.md)
 - [Article 8 g](article-8-g.md)
 - [Article 9 b](article-9-b.md)
