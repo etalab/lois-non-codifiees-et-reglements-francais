@@ -1,10 +1,10 @@
 # Article 4
 
-L'Observatoire national de la sécurité des établissements scolaires est composé de quarante-huit membres. Ils sont nommés, ainsi que leurs suppléants s'il y a lieu, pour une durée de trois ans par arrêté du ministre chargé de l'éducation nationale.
+L'Observatoire national de la sécurité des établissements scolaires et d'enseignement supérieur est composé de cinquante et un membres. Ceux-ci ainsi que, s'il y a lieu, leurs suppléants sont nommés pour une durée de trois ans par arrêté du ministre chargé de l'éducation nationale et de l'enseignement supérieur.
 
 Ils se répartissent de la manière suivante :
 
-1° Collège des élus et des gestionnaires de l'immobilier scolaire, composé de seize membres et d'un nombre égal de suppléants :
+1° Collège des élus et des gestionnaires de l'immobilier scolaire et universitaire, composé de dix-sept membres titulaires et de deux suppléants pour chaque membre titulaire :
 
 Un représentant de l'Assemblée nationale ;
 
@@ -18,7 +18,9 @@ Sept maires ;
 
 Un représentant de la Fédération nationale des organismes de gestion de l'enseignement catholique (F.N.O.G.E.C.).
 
-2° Collège des représentants des personnels et des usagers, composé de seize membres titulaires et d'un nombre égal de suppléants, nommés sur proposition des organisations représentatives :
+Un président d'université désigné par la conférence des présidents d'université.
+
+2° Collège des représentants des personnels et des usagers, composé de dix-sept membres titulaires et de membres suppléants pour chaque membre titulaire , nommés sur proposition des organisations représentatives :
 
 Représentants des établissements publics :
 
@@ -38,6 +40,8 @@ Trois représentants de la Fédération des conseils de parents d'élèves (F.C.
 
 Un représentant de la Fédération des parents d'élèves de l'enseignement public (P.E.E.P.).
 
+Un représentant de l'organisation syndicale d'étudiants la plus représentative au Conseil national de l'enseignement supérieur et de la recherche.
+
 Représentants des établissements privés :
 
 Un représentant de la Fédération de l'enseignement privé (F.E.P.-C.F.D.T.) ;
@@ -46,9 +50,11 @@ Un représentant de l'Union nationale des associations de parents d'élèves de 
 
 3°Collège des représentants de l'Etat, des chefs d'établissement et des personnalités qualifiées nommées par lui, composé ainsi qu'il suit :
 
-Dix représentants des ministres et un nombre égal de suppléants :
+Onze représentants des ministres et deux suppléants pour chaque membre titulaire :
 
 Deux représentants du ministre chargé de l'éducation nationale ;
+
+Un représentant du ministre chargé de l'enseignement supérieur ;
 
 Un représentant du ministre de l'intérieur ;
 
