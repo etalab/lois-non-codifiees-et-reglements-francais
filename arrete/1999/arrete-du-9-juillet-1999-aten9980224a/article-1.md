@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des espèces de vertébrés protégées au titre de l'article L. 211-1 du code rural menacées d'extinction en France en raison de la faiblesse observée ou prévisible de leurs effectifs et dont l'aire de répartition excède le territoire d'un département, au sens du 1 des tableaux " Code rural " figurant aux paragraphes 1 et 2-A du titre II de l'annexe du décret du 19 décembre 1997 susvisé est la suivante :
+La liste des espèces de vertébrés protégées au titre de l'article L. 411-1 du code de l'environnement menacées d'extinction en France en raison de la faiblesse observée ou prévisible de leurs effectifs et dont l'aire de répartition excède le territoire d'un département, au sens du 1 des tableaux " Code rural " figurant aux paragraphes 1 et 2-A du titre II de l'annexe du décret du 19 décembre 1997 susvisé est la suivante :
 
 Mammifères
 
