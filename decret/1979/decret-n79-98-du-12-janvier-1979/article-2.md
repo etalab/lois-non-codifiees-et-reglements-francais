@@ -18,6 +18,4 @@ g) Les marchés de fournitures passés par les collectivités et établissements
 
 h) Les marchés de fournitures d'équipements en matériel d'informatique pour lesquels la consultation sera engagée avant le 1er janvier 1981 ;
 
-i) Les marchés portant sur des fournitures cotées et achetées en bourse dans la Communauté économique européenne.
-
 Les marchés de fournitures visés par le présent article peuvent comporter à titre accessoire des travaux de pose et d'installation.
