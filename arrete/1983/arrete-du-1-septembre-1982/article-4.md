@@ -12,8 +12,8 @@ Ils doivent, en outre, avant irradiation ou immédiatement après, être pourvus
 
 - épices et/ou aromates traités par rayonnements ionisants.
 
-Les mots "irradiés", "traités par irradiation" ou "traités par rayonnements ionisants" doivent être inscrits en caractère apparents de manière à être visibles et lisibles dans les conditions habituelles de présentation ;
+Les mots "irradiés", "traités par irradiation", "traités par rayonnements ionisants" doivent être inscrits en caractères apparents de manière à être visibles et lisibles dans les conditions habituelles de présentation ;
 
 2° Une inscription permettant d'identifier l'établissement d'irradiation ;
 
-3° La date d'irradiation.
+3° La date d'irradiation ou le lot de fabrication selon les modalités fixées par l'arrêté du 7 décembre 1984 susvisé.

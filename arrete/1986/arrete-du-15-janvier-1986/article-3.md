@@ -1,3 +1,3 @@
 # Article 3
 
-L'émission sera close sans préavis. La date de règlement est fixée au 30 janvier 1986.
+Le délégué à l'emploi et le directeur du budget sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
