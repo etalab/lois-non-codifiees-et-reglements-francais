@@ -5,4 +5,5 @@
 - [TITRE IV : DE LA PROCÉDURE](titre-iv)
 - [TITRE V : DES VOIES DE RECOURS](titre-v)
 - [TITRE VI : DU RECOUVREMENT ET DE LA PRESCRIPTION](titre-vi)
+- [TITRE VII : DISPOSITIONS DIVERSES](titre-vii)
 - [Article 14](article-14.md)
