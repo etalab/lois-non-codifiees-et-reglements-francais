@@ -21,6 +21,7 @@
 - [Arrêté du 8 janvier 1981](arrete-du-8-janvier-1981)
 - [Arrêté du 8 mai 1981](arrete-du-8-mai-1981)
 - [Arrêté du 9 février 1981](arrete-du-9-fevrier-1981)
+- [Arrêté du 9 juin 1981](arrete-du-9-juin-1981)
 - [Arrêté du 9 mars 1981](arrete-du-9-mars-1981)
 - [Arrêté du 10 avril 1981](arrete-du-10-avril-1981)
 - [Arrêté du 10 mars 1981](arrete-du-10-mars-1981)

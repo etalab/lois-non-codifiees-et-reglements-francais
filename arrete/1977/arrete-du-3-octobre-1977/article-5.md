@@ -1,3 +1,5 @@
 # Article 5
 
-Le directeur de la prévention des pollutions et des nuisances, le directeur des routes et de la circulation routière et le directeur général de la santé sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
+Les dispositions du présent arrêté s'appliquent aux élèves assistants qui suivront les sessions de formation postérieurement au 31 décembre 1977.
+
+Les élèves assistants suivant la session de formation de l'Ecole nationale de la santé publique lors de la publication du présent arrêté demeurent soumis aux dispositions de l'arrêté ministériel du 24 août 1970 modifié relatif à l'examen de fin de session de formation des assistants.
