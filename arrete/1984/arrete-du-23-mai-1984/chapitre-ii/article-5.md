@@ -1,6 +1,6 @@
 # Article 5
 
-Pour l'application des articles 3 et 4 qui précèdent, il est institué auprès du Conseil national de la chasse et de la faune sauvage une commission d'homologation comprenant [*composition*] :
+Pour l'application des articles 3 et 4 qui précèdent, il est institué auprès du Conseil national de la chasse et de la faune sauvage une commission d'homologation comprenant *composition* :
 
 Le directeur de la protection de la nature, président ;
 
@@ -8,7 +8,7 @@ Le directeur de la qualité au ministère de l'agriculture ;
 
 Le directeur de l'Office national de la chasse ;
 
-Le directeur du Centre national d'études vétérinaires et alimentaires;
+Le directeur de l'Agence française de sécurité sanitaire des aliments ;
 
 l'Institut national de la recherche agronomique ;
 
