@@ -1,0 +1,3 @@
+# Article 8
+
+Le stage auprès de médecins de médecine générale, dits maîtres de stage, est effectué soit à temps plein, soit à temps partiel lorsqu'il se cumule avec des fonctions hospitalières ou extra-hospitalières mentionnées à l'article 5 ci-dessus. Le maître de stage doit exercer son activité professionnelle depuis [*délai*] trois ans au moins et être habilité par le directeur de l'unité de formation et de recherche médicale dont relève le résident, après avis du conseil de l'unité de formation et de recherche, selon des modalités définies par arrêté des ministres chargés des universités et de la santé.

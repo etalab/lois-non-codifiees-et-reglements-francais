@@ -1,0 +1,3 @@
+# Article 45
+
+Durant leurs deux premiers semestres de fonctions, les élèves médecins reçoivent une formation théorique et pratique dans les conditions prévues au titre II du présent décret, à l'exception de ce qui a trait au stage chez le praticien agréé. Ils exercent dans les services agréés. Toutefois, le ou les conseils des unités de formation et de recherche de médecine de la subdivision mentionnée à l'article 6 ci-dessus peuvent, après approbation du ou des présidents d'université, fixer à l'intention des élèves médecins des règles particulières de choix de postes situés dans des services agréés relevant des hôpitaux d'instruction des armées.

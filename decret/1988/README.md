@@ -13,6 +13,7 @@
 - [Décret n°88-574 du 5 mai 1988 (ASES8800657D)](decret-n88-574-du-5-mai-1988-ases8800657d)
 - [Décret n°74-930 du 6 novembre 1974](decret-n74-930-du-6-novembre-1974)
 - [Décret n°88-666 du 6 mai 1988 (ASES8800643D)](decret-n88-666-du-6-mai-1988-ases8800643d)
+- [Décret n°88-321 du 7 avril 1988 (RESK8800250D)](decret-n88-321-du-7-avril-1988-resk8800250d)
 - [Décret n°91-148 du 7 février 1991 (ACVX9100020D)](decret-n91-148-du-7-fevrier-1991-acvx9100020d)
 - [Décret n°88-800 du 8 juillet 1988 (ECOX8800102D)](decret-n88-800-du-8-juillet-1988-ecox8800102d)
 - [Décret n°88-801 du 8 juillet 1988 (SEPX8800103D)](decret-n88-801-du-8-juillet-1988-sepx8800103d)
