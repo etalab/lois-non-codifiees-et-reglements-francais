@@ -1,9 +1,5 @@
 # Article 1
 
-En application de l'article 10 du décret du 12 mars 1973 susvisé, le ministre de la défense habilite les fonctionnaires désignés ci-après à signer, par autorisation, les décisions autorisant la fabrication et le commerce des matériels de guerre, armes et munitions de défense prévues à l'article 2 (3e alinéa) du décret du 18 avril 1939 susvisé, ainsi que les décisions de retrait desdites autorisations :
+Sont agréées conformément aux dispositions de l'article L. 731-9 susvisé de la sécurité sociale, mais seulement jusqu'à concurrence d'un taux contractuel de cotisation de 4 p. 100, les dispositions de l'accord de retraites professionnel du 29 mai 1985 concernant les salariés cadres, non cadres et artistiques des entreprises de radios locales privées.
 
-- délégué aux relations internationales de la délégation générale pour l'armement ;
-
-- adjoints au délégué aux relations internationales ;
-
-- sous-directeur du contrôle du commerce des matériels de défense.
+Cet agrément a pour effet de rendre obligatoires, jusqu'à concurrence d'un taux contractuel de cotisation de 4 p. 100, les dispositions de cet accord pour tous les employeurs et tous les travailleurs dans son champ d'application.

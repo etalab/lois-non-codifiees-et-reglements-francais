@@ -1,3 +1,3 @@
 # Article 2
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+L'ensemble de ces règles est applicable sans délai aux établissements faisant l'objet d'un arrêté d'autorisation postérieur au présent arrêté.

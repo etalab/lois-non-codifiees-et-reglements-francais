@@ -1,29 +1,11 @@
 # Article 4
 
-Sur chaque prélèvement doivent être pratiquées les analyses biologiques suivantes :
+Le chef d'un établissement public local d'enseignement appartenant ou non à un groupement comptable peut, par décisions prises sous sa seule signature et après accord du comptable supérieur du Trésor territorialement compétent pour le contrôle de la gestion de l'agent comptable de l'établissement ou de l'établissement siège du groupement comptable, créer des régies d'avances pour le paiement des menues dépenses.
 
-a) La détermination du groupe sanguin du donneur, recherche qui doit comprendre :
+Le montant maximal des menues dépenses est fixé à 800 F par opération.
 
-- la détermination du groupe dans le système ABO par l'étude des antigènes érythrocytaires au moyen des sérums-tests et celle des agglutinines sériques au moyen des globules rouges tests ;
+Peuvent, en outre, être payés par l'intermédiaire des régies d'avances prévues ci-dessus :
 
-- la détermination du groupe rhésus, qui doit être effectuée de telle façon que les sangs identifiés Rh négatif soient bien dépourvus des antigènes D, C et E.
+- les avances sur frais exposés à l'occasion de voyages effectués dans le cadre des appariements entre établissements scolaires ou ces mêmes frais lorsqu'il n'a pas été consenti d'avances ;
 
-- la détection des allo-anticorps irréguliers anti-érythrocytaires pouvant avoir une incidence clinique transfusionnelle ;
-
-b) La mesure du taux de l'hémoglobine ou de l'hématocrite ;
-
-c) Le dépistage sérologique de la syphilis ;
-
-d) La détection de l'antigène HBs ;
-
-e) La détection des anticorps anti-HIV (anti-LAV.) ;
-
-f) La détection des anticorps antipaludéens chez les donneurs ayant séjourné en pays d'endémie (référence carte OMS) et dont la date du retour se situe dans une période supérieure à quatre mois et inférieure à trois ans.
-
-g) Le dosage des alanine-amino-transférases (Alat).
-
-h) La détection des anticorps anti-Hbc
-
-i) La détection des anticorps anti-HCV.
-
-j) La détection des anticorps anti-HTLV 1 - anti-HTLV 2 chez les donneurs dont le prélèvement est destiné à la préparation de produits labiles.
+- les dépenses liées aux projets d'actions éducatives des écoles.

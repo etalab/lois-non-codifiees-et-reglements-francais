@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 12 mars 1985 habilitant certaines autorités du ministère de la défense à signer les autorisations prévues par le décret du 12 mars 1973 relatif à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions est abrogé.
+Le directeur général de la concurrence, de la consommation et de la répression des fraudes au ministère de l'économie, des finances et de la privatisation et le directeur de la sécurité sociale au ministère des affaires sociales et de l'emploi sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
