@@ -1,3 +1,3 @@
 # Article 1
 
-La garantie de l'Etat est accordée au service en intérêts, amortissement, frais et accessoires de l'emprunt à taux fixe d'un montant de 500 millions de francs et d'une durée de neuf ans, émis par le Fonds d'intervention sidérurgique.
+Le paiement des arrérages des pensions d'invalidité et des rentes d'accident du travail est effectué par les caisses primaires de l'assurance maladie.
