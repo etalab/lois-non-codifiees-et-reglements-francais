@@ -4,6 +4,7 @@
 - [Chapitre II : Conditions d'hygiène relatives aux ateliers de découpe.](chapitre-ii)
 - [Chapitre III : Hygiène du personnel, des locaux, du matériel et des outils dans les établissements.](chapitre-iii)
 - [Chapitre IV : Inspection sanitaire ante mortem.](chapitre-iv)
+- [Chapitre V : Hygiène de l'abattage.](chapitre-v)
 - [Chapitre VI : Inspection sanitaire post mortem.](chapitre-vi)
 - [Chapitre VII : Décision du vétérinaire officiel à l'inspection post mortem.](chapitre-vii)
 - [Chapitre VIII : Prescriptions concernant les viandes destinées à être découpées.](chapitre-viii)
