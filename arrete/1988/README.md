@@ -544,7 +544,6 @@
 - [Arrêté du 29 janvier 1988 (TRSA8800096A)](arrete-du-29-janvier-1988-trsa8800096a)
 - [Arrêté du 29 juillet 1977](arrete-du-29-juillet-1977)
 - [Arrêté du 29 juillet 1988 (ECOT8811029A)](arrete-du-29-juillet-1988-ecot8811029a)
-- [Arrêté du 29 juillet 1988 (INDD8800526A)](arrete-du-29-juillet-1988-indd8800526a)
 - [Arrêté du 29 juillet 1988 (SPSP8801157A)](arrete-du-29-juillet-1988-spsp8801157a)
 - [Arrêté du 29 juillet 1988 (SPSS8801077A)](arrete-du-29-juillet-1988-spss8801077a)
 - [Arrêté du 29 mars 1988 (ASEH8800493A)](arrete-du-29-mars-1988-aseh8800493a)

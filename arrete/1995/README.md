@@ -1039,7 +1039,6 @@
 - [Arrêté du 23 février 1995 (DEFP9501230A)](arrete-du-23-fevrier-1995-defp9501230a)
 - [Arrêté du 23 février 1995 (ECOC9400167A)](arrete-du-23-fevrier-1995-ecoc9400167a)
 - [Arrêté du 23 février 1995 (ECOT9510229A)](arrete-du-23-fevrier-1995-ecot9510229a)
-- [Arrêté du 23 février 1995 (INDP9500241A)](arrete-du-23-fevrier-1995-indp9500241a)
 - [Arrêté du 23 février 1995 (INDP9500267A)](arrete-du-23-fevrier-1995-indp9500267a)
 - [Arrêté du 23 février 1995 (INDP9500268A)](arrete-du-23-fevrier-1995-indp9500268a)
 - [Arrêté du 23 février 1995 (MCCG9500102A)](arrete-du-23-fevrier-1995-mccg9500102a)
