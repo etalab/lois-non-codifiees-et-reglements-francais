@@ -10,7 +10,7 @@ Codes et libellés de la spécialité :
 
 61   Biochimie.
 
-69   Biologie cellulaire, histologie, embryologie et cytologie.
+69   Biologie cellulaire, histologie, biologie du développement et de la reproduction.
 
 67   Biophysique.
 

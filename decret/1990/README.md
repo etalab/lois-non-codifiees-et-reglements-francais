@@ -93,6 +93,8 @@
 - [Décret n°90-142 du 14 février 1990 (SPSX9010059D)](decret-n90-142-du-14-fevrier-1990-spsx9010059d)
 - [Décret n°90-143 du 14 février 1990 (SPSN9000193D)](decret-n90-143-du-14-fevrier-1990-spsn9000193d)
 - [Décret n°90-144 du 14 février 1990 (DEFF8901816D)](decret-n90-144-du-14-fevrier-1990-deff8901816d)
+- [Décret n°90-236 du 14 mars 1990 (MEND9000266D)](decret-n90-236-du-14-mars-1990-mend9000266d)
+- [Décret n°90-240 du 14 mars 1990 (SPSS8902781D)](decret-n90-240-du-14-mars-1990-spss8902781d)
 - [Décret n°91-462 du 14 mai 1991 (MENF9100588D)](decret-n91-462-du-14-mai-1991-menf9100588d)
 - [Décret n°91-486 du 14 mai 1991 (MCCB9100224D)](decret-n91-486-du-14-mai-1991-mccb9100224d)
 - [Décret n°65-577 du 15 juillet 1965](decret-n65-577-du-15-juillet-1965)
