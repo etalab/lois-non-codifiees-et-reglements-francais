@@ -28,7 +28,11 @@ Directeur d'école de musique et des beaux-arts de 1ère et 2ème catégorie ;
 
 Bibliothécaire de 1ère catégorie ;
 
+Bibliothécaire de 2ème catégorie ;
+
 Archiviste de 1ère catégorie ;
+
+Archiviste de 2ème catégorie ;
 
 Conservateur de musée de 1ère catégorie ;
 

@@ -1,0 +1,3 @@
+# DISPOSITIONS COMMUNES AUX TITRES III A VI *ART. 3, ART. 4, ART. 5, ART. 6*.
+
+- [Article 7](article-7.md)

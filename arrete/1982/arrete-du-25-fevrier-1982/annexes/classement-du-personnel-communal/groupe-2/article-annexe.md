@@ -38,10 +38,6 @@ Monitrice de jardin d'enfants ;
 
 Inspecteur de salubrité des villes ;
 
-Bibliothécaire de 2ème catégorie ;
-
-Archiviste de 2ème catégorie ;
-
 Conservateur de musée de 2ème catégorie ;
 
 Sous-archiviste ;

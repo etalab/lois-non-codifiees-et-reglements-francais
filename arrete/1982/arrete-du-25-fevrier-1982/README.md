@@ -1,5 +1,6 @@
-# Arrêté du 25 février 1982 relatif aux conditions et modalités de règlement des frais occasionnés par les déplacements des personnels des communes et de leurs établissements publics sur le territoire métropolitain.
+# Arrêté du 25 février 1982 relatif aux méthodes de prélèvement d'échantillons pour le contrôle officiel des résidus de pesticides sur et dans les fruits et légumes
 
+- [Article 1](article-1.md)
 - [Article 45](article-45.md)
 - [Annexes](annexes)
 - [Changement de résidence.](changement-de-residence)
