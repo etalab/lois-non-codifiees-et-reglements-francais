@@ -11,6 +11,7 @@
 - [Décret n°64-226 du 11 mars 1964](decret-n64-226-du-11-mars-1964)
 - [Décret n°64-955 du 11 septembre 1964](decret-n64-955-du-11-septembre-1964)
 - [Décret n°64-142 du 13 février 1964](decret-n64-142-du-13-fevrier-1964)
+- [Décret n°64-231 du 14 mars 1964](decret-n64-231-du-14-mars-1964)
 - [Décret n°64-418 du 14 mai 1964](decret-n64-418-du-14-mai-1964)
 - [Décret n°64-153 du 15 février 1964](decret-n64-153-du-15-fevrier-1964)
 - [Décret n°64-339 du 16 avril 1964](decret-n64-339-du-16-avril-1964)
