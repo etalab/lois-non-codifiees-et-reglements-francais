@@ -2,9 +2,9 @@
 
 Les candidats des deux concours peuvent demander à subir une, deux ou trois épreuves facultatives à raison d'une épreuve au maximum choisie dans chacun des groupes suivants :
 
-1) Epreuve orale de langue étrangère : allemand, anglais, arabe, espagnol, italien, portugais, russe (coefficient 1).
+1) Epreuve orale de langue étrangère, autre que celle choisie à l'épreuve prévue à l'article 4 (3) ci-dessus : allemand, anglais, arabe, espagnol, italien, portugais, russe (coefficient 1).
 
-2) Interrogation sur l'une des matières suivantes (coefficient 1);
+2) Interrogation sur l'une des matières suivantes (coefficient 1) ;
 
 Psychologie et sociologie (programme fixé à l'annexe X) ;
 
