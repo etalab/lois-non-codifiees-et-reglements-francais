@@ -12,7 +12,6 @@
 - [Arrêté du 4 mai 1972](arrete-du-4-mai-1972)
 - [Arrêté du 5 mai 1972](arrete-du-5-mai-1972)
 - [Arrêté du 6 avril 1972](arrete-du-6-avril-1972)
-- [Arrêté du 6 décembre 1972](arrete-du-6-decembre-1972)
 - [Arrêté du 7 avril 1972](arrete-du-7-avril-1972)
 - [Arrêté du 8 février 1972](arrete-du-8-fevrier-1972)
 - [Arrêté du 8 novembre 1972](arrete-du-8-novembre-1972)
