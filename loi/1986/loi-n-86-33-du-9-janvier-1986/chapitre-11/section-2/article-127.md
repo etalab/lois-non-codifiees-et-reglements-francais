@@ -4,4 +4,4 @@ Sauf option contraire et sous réserve qu'ils remplissent les conditions fixées
 
 Ceux d'entre eux qui demandent à conserver leur situation statutaire antérieure sont placés en service détaché auprès de l'établissement qui les emploie ; celui-ci assure leur rémunération conformément aux dispositions statutaires qui leur étaient applicables à la date de promulgation de la présente loi.
 
-Un décret en Conseil d'Etat fixe les conditions d'application du présent article, et notamment le délai dans lequel l'option prévue sera ouverte aux intéressés ; ce délai ne commencera à courir qu'après la publication des décrets qui détermineront les statuts particuliers des différentes catégories de personnels visées par les présentes dispositions.
+Un décret en Conseil d'Etat fixe les conditions d'application du présent article, et notamment le délai dans lequel l'option prévue sera ouverte aux intéressés.

@@ -20,6 +20,8 @@ IV. - En cas de litige, le juge civil, si les faits générateurs du dommage ont
 
 Les victimes des dommages disposent, dans le délai prévu à l'article 2270-1 du code civil, du droit d'action en justice contre le fonds institué au paragraphe II ci-dessus.
 
+IV bis - Le fonds de garantie peut intervenir devant les juridictions de jugement en matière répressive même pour la première fois en cause d'appel, en cas de constitution de partie civile de la victime ou de ses ayants droit contre le ou les responsables des faits. Il intervient alors à titre principal et peut user de toutes les voies de recours ouvertes par la loi.
+
 V. - Les contrats d'assurance de biens ne peuvent exclure la garantie de l'assureur pour les dommages résultant d'actes de terrorisme ou d'attentats commis sur le territoire national. Toute clause contraire est réputée non écrite.
 
 Un décret en Conseil d'Etat définira les modalités d'application du présent paragraphe.

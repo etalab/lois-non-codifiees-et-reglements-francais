@@ -1,8 +1,8 @@
 # Article 60
 
-La position hors cadres [*définition*] est celle dans laquelle un fonctionnaire détaché auprès d'une administration ou auprès d'une entreprise publique dans un emploi ne conduisant pas à pension de la Caisse nationale de retraite des agents des collectivités locales peut être placé, sur sa demande, s'il réunit quinze années de services effectifs accomplis en position d'activité ou sous les drapeaux, pour continuer à servir dans la même administration ou la même entreprise [*conditions*].
+La position hors cadres est celle dans laquelle un fonctionnaire détaché auprès d'une administration ou auprès d'une entreprise publique dans un emploi ne conduisant pas à pension de la Caisse nationale de retraite des agents des collectivités locales peut être placé, sur sa demande, s'il réunit quinze années de services effectifs civils et militaires ou de service national valables pour la constitution du droit à pension, pour continuer à servir dans la même administration ou la même entreprise.
 
-Les fonctionnaires détachés auprès d'organismes internationaux peuvent également être placés, sur leur demande, en position hors cadres pour continuer à servir dans les mêmes organismes, s'ils réunissent cinq années de services effectifs accomplis en position d'activité ou sous les drapeaux.
+Toutefois, le fonctionnaire détaché depuis au moins cinq années auprès d'un organisme international peut, sur sa demande, être placé en position hors cadre.
 
 Dans cette position, le fonctionnaire cesse de bénéficier de ses droits à l'avancement.
 
