@@ -2,15 +2,15 @@
 
 Composition du conseil.
 
-Parlementaires                                      38
+Parlementaires                                      39
 
-Représentants élus par les conseils généraux        33
+Représentants élus par les conseils généraux        34
 
 Représentants élus par les conseils municipaux      11
 
 --
 
-Effectif du conseil                  82
+Effectif du conseil                  84
 
 Département : Ariège
 
@@ -58,11 +58,11 @@ Département : Haute-Garonne
 
 . Sièges par attribution directe                    13
 
-. Sièges par répartition des restes                  -
+. Sièges par répartition des restes                  1
 
 --
 
-Total          13
+Total          14
 
 . Sièges attribués aux communes :
 

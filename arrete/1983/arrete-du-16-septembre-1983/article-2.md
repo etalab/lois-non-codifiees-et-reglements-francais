@@ -1,3 +1,3 @@
 # Article 2
 
-Les listes complètes de candidatures devront être déposées à la préfecture de chaque région concernée au plus tard le 7 octobre 1983 à 24 heures.
+Le directeur général des collectivités locales au ministère de l'intérieur et de la décentralisation est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

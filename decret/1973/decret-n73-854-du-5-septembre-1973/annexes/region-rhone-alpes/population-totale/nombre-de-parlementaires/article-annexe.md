@@ -2,9 +2,9 @@
 
 Composition du conseil.
 
-Parlementaires ...                                  67
+Parlementaires ...                                  68
 
-Représentants élus par les conseils généraux ...    41
+Représentants élus par les conseils généraux ...    42
 
 Représentants élus par les conseils municipaux ...  22
 
@@ -12,7 +12,7 @@ Représentants élus par les communautés urbaines ...  6
 
 ---
 
-Effectif du conseil ...             136
+Effectif du conseil ...             138
 
 Représentants maintenus à titre provisoire
 
@@ -24,11 +24,11 @@ profit du conseil général de la Loire,
 
 jusqu'au prochain renouvellement triennal
 
-du conseil général ...                              2
+du conseil général devant intervenir en 1985        2
 
 ---
 
-Effectif provisoire du conseil ...  138
+Effectif provisoire du conseil ...  140
 
 Département : Ain
 
@@ -98,11 +98,11 @@ Département : Isère
 
 . Sièges par attribution directe                    12
 
-. Sièges par répartition des restes                  -
+. Sièges par répartition des restes                  1
 
 --
 
-Total          12
+Total          13
 
 . Sièges attribués aux communes :
 
@@ -114,7 +114,7 @@ Saint-Martin-d'Hères (population INSEE 35.172)    1
 
 . Sièges attribués aux conseils généraux :           9
 
-Total des sièges du département    13
+Total des sièges du département    14
 
 Département : Loire
 
