@@ -48,7 +48,7 @@ Tableau 6
 </tr>
 <tr>
 <td valign="top" width="340">
-<p>30</p>
+<p align="left">30</p>
 </td>
 <td valign="top" width="340">
 <p align="center">1 125</p>
@@ -76,6 +76,282 @@ Dans les autres cas, le réseau est considéré comme constitué d'autant de ré
 c) Réseaux multisites :
 
 La redevance est calculée en prenant en compte pour chaque site le nombre de stations fixes et mobiles rattachées à ce site plus un nombre moyen de stations mobiles, proportionnellement au nombre de voies radioélectriques en service sur chaque site. Le montant de la redevance est calculé, ensuite, comme indiqué au a ou au b ci-dessus, selon le cas.
+
+d) Sont exonérés du paiement de la redevance de mise à disposition de fréquences radioélectriques dans les bandes de fréquences désignées par l'Autorité de régulation des télécommunications :
+
+Les services d'aide médicale d'urgence des établissements publics hospitaliers ;
+
+Les services d'incendie et de secours ;
+
+Les personnes morales de droit public ou privé assurant des missions de sécurité civile dans des conditions fixées par arrêté du ministre chargé des télécommunications, pris après avis des ministres chargés de la sécurité civile et du budget.
+
+e) Les liaisons fixes bilatérales utilisant des fréquences supérieures à 1 GHz sont soumises à une redevance annuelle, par liaison, calculée en fonction de la largeur (L) de bande et de la bande de fréquences (BF) utilisée, selon le barème suivant (redevance exprimée en francs) :
+
+<table>
+<tbody>
+<tr>
+<td width="227">
+<p align="center">LARGEUR DE LA BANDE (L)</p>
+</td>
+<td width="113">
+<p align="center">BF SUPÉRIEURE<br/>à 1 GHz<br/>et inférieure<br/>à 10 GHz</p>
+</td>
+<td width="113">
+<p align="center">BF SUPÉRIEURE<br/>à 10 GHz<br/>et inférieure<br/>à 20 GHz</p>
+</td>
+<td width="113">
+<p align="center">BF SUPÉRIEURE<br/>à 20 GHz<br/>et inférieure<br/>à 30 GHz</p>
+</td>
+<td width="113">
+<p align="center">BF SUPÉRIEURE<br/>à 30 GHz</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L inférieure ou égale à 25 KHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">1 050</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 25 KHz et inférieure ou égale à 125 KHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">2 100</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 125 KHz et inférieure ou égale à 250 KHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">4 200</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 250 KHz et inférieure ou égale à 500 KHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">6 300</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 500 KHz et inférieure ou égale à 1,75 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">8 400</p>
+</td>
+<td valign="top" width="113">
+<p align="center">(L inférieure ou égale à 1,75 MHz)<br/>4 200</p>
+</td>
+<td valign="top" width="113">
+<p align="center">(L inférieure ou égale à 1,75 MHz)<br/>2 800</p>
+</td>
+<td valign="top" width="113">
+<p align="center">(L inférieure ou égale à 1,75 MHz)<br/>2 100</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 1,75 MHz et inférieure ou égale à 3,5 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">10 500</p>
+</td>
+<td valign="top" width="113">
+<p align="center">6 300</p>
+</td>
+<td valign="top" width="113">
+<p align="center">4 200</p>
+</td>
+<td valign="top" width="113">
+<p align="center">2 800</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 3,5 MHz et inférieure ou égale à 7 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16 800</p>
+</td>
+<td valign="top" width="113">
+<p align="center">12 600</p>
+</td>
+<td valign="top" width="113">
+<p align="center">8 400</p>
+</td>
+<td valign="top" width="113">
+<p align="center">5 600</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 7 MHz et inférieure ou égale à 14 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">23 100</p>
+</td>
+<td valign="top" width="113">
+<p align="center">18 900</p>
+</td>
+<td valign="top" width="113">
+<p align="center">12 600</p>
+</td>
+<td valign="top" width="113">
+<p align="center">8 400</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 14 MHz et inférieure ou égale à 28 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">29 400</p>
+</td>
+<td valign="top" width="113">
+<p align="center">25 200</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16 800</p>
+</td>
+<td valign="top" width="113">
+<p align="center">11 200</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 28 MHz et inférieure ou égale à 56 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">35 700</p>
+</td>
+<td valign="top" width="113">
+<p align="center">31 500</p>
+</td>
+<td valign="top" width="113">
+<p align="center">21 000</p>
+</td>
+<td valign="top" width="113">
+<p align="center">14 000</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 56 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">42 000</p>
+</td>
+<td valign="top" width="113">
+<p align="center">37 800</p>
+</td>
+<td valign="top" width="113">
+<p align="center">25 200</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16 800</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Le montant de cette redevance est corrigé par un coefficient de dégressivité tenant compte du nombre de liaisons fixes bilatérales, suivant le tableau ci-après :
+
+<table>
+<tbody>
+<tr>
+<td width="340">
+<p align="center">NOMBRE DE LIAISONS</p>
+</td>
+<td width="340">
+<p align="center">COEFFICIENT APPLICABLE<br/>au montant de la redevance de mise<br/>à disposition de fréquences radioélectriques</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Jusqu'à la 10e</p>
+</td>
+<td valign="top" width="340">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>De la 11e à la 40e</p>
+</td>
+<td valign="top" width="340">
+<p align="center">0,75</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>De la 41e à la 80e</p>
+</td>
+<td valign="top" width="340">
+<p align="center">0,5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Au-delà de la 81e</p>
+</td>
+<td valign="top" width="340">
+<p align="center">0,25</p>
+</td>
+</tr>
+</tbody>
+</table>
+
+Par exception, les liaisons fixes utilisant la bande 23,5-23,6 GHz donnent lieu au paiement d'une redevance annuelle par liaison, fixée comme suit :
+
+1 200 F pour une voie téléphonique ou de transmission de données ;
+
+1 400 F pour une voie audio ;
+
+2 300 F pour une voie vidéo.
+
+Pour les liaisons fixes unilatérales, la redevance est égale à 50 p. 100 de celle prévue pour les liaisons fixes bilatérales.
 
 B. - La redevance de gestion
 

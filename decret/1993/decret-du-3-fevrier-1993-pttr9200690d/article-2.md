@@ -1,12 +1,12 @@
 # Article 2
 
-Les utilisateurs de réseaux radioélectriques indépendants à usage privé autorisés au titre de l'article L. 33-2 du code des postes et télécommunications, autres que ceux visés aux articles 3 bis et 4 du présent décret, sont assujettis au paiement d'une redevance de mise à disposition de fréquences radioélectriques et d'une redevance de gestion.
+Les titulaires des autorisations délivrées en application de l'article L. 33-2 du code des postes et télécommunications, autres que ceux visés aux articles 3 bis et 4 du présent décret, sont assujettis au paiement d'une redevance de mise à disposition de fréquences radioélectriques et d'une redevance de gestion.
 
 A. - La redevance de mise à disposition
 
 de fréquences radioélectriques
 
-a) Cette redevance est due, à terme échu, par période d'un mois indivisible. La période d'exigibilité commence à la date de notification des caractéristiques techniques et va jusqu'à la fin effective de mise à disposition de fréquences radioélectriques, constatée par l'utilisateur et l'administration.
+a) Cette redevance est due, à terme échu, par période d'un mois indivisible. La période d'exigibilité commence à la date de notification des caractéristiques techniques et va jusqu'à la fin effective de mise à disposition de fréquences radioélectriques, constatée par le titulaire et l'administration.
 
 b) Les liaisons établies entre deux stations radioélectriques donnent lieu à la perception d'une redevance annuelle calculée suivant le type de liaison et selon le barème suivant :
 
@@ -89,7 +89,7 @@ Tableau 1
 </tr>
 <tr>
 <td width="133">
-<p align="left">10</p>
+<p>10</p>
 </td>
 <td width="132">
 <p align="center">1 450</p>
@@ -205,7 +205,7 @@ Tableau 2
 </tr>
 <tr>
 <td width="133">
-<p align="left">200</p>
+<p>200</p>
 </td>
 <td width="132">
 <p align="center">33 000</p>
@@ -261,8 +261,6 @@ d) Les montants des redevances calculés aux b et c ci-dessus sont corrigés par
 
 Tableau 3
 
-<div align="center"/>
-<div align="center">
 <table>
 <tbody>
 <tr>
@@ -309,7 +307,7 @@ Tableau 3
 </tr>
 <tr>
 <td valign="top" width="170">
-<p align="left">11 à 25</p>
+<p>11 à 25</p>
 </td>
 <td valign="top" width="170">
 <p align="center">7</p>
@@ -337,7 +335,7 @@ Tableau 3
 </tr>
 <tr>
 <td valign="top" width="170">
-<p align="left">51 à 100</p>
+<p>51 à 100</p>
 </td>
 <td valign="top" width="170">
 <p align="center">12</p>
@@ -365,94 +363,296 @@ Tableau 3
 </tr>
 </tbody>
 </table>
-</div>
-<div align="center"/>
-<div align="center"/>
 
 Le coefficient de dégressivité, calculé à partir du tableau susvisé, s'applique à des liaisons qui sont identiques au plan tarifaire tel que défini aux b et c ci-dessus.
 
 e) Les liaisons de télécommande utilisant un système d'accusé de réception, dont la durée de transmission ne dépasse pas trois secondes par heure, sont classées dans la catégorie des liaisons unidirectionnelles.
 
-f) Les utilisateurs d'équipements radioélectriques fonctionnant dans la bande 26,650 - 26,800 MHz, avec une puissance maximale de 3 watts, sont assujettis à une redevance annuelle fixée à 120 F par appareil.
-
-g) Les exploitants de systèmes de transmission de données, téléalarme, télémesure et télécommande, dont la puissance est inférieure ou égale à 100 milliwatts et utilisant des fréquences prédéterminées, sont assujettis à une redevance annuelle égale à la moitié de la redevance calculée à partir des tableaux 1 et 3 ci-dessus.
-
-Lorsque ces systèmes fonctionnent dans la bande de fréquences 223,5 - 225 MHz, réservée aux réseaux large bande, la redevance annuelle est de 2 800 F par canal de 200 kHz.
-
-h) Les installations d'émission et de réception, dont la puissance à l'antenne est inférieure à 10 milliwatts, sont exonérées de cette redevance.
-
 i) Les liaisons à bande latérale unique (BLU) utilisant des fréquences inférieures à 26 MHz sont assujetties à une redevance annuelle de 2 600 F pour chaque liaison unilatérale et de 5 200 F pour chaque liaison bilatérale.
 
-j) Les liaisons fixes utilisant des fréquences supérieures à 1 GHz sont soumises à une redevance annuelle, par liaison, calculée en fonction de la largeur (L) de bande, selon le barème suivant :
-
-Tableau 4
+j) Les liaisons fixes bilatérales utilisant des fréquences supérieures à 1 GHz sont soumises à une redevance annuelle, par liaison, calculée en fonction de la largeur (L) de bande et de la bande de fréquence (BF) utilisée, selon le barème suivant (redevance exprimée en francs) :
 
 <table>
 <tbody>
 <tr>
-<td width="378">
-<p align="center">LARGEUR (L)<br/>de bande<br/>à l'émission</p>
+<td width="227">
+<p align="center">LARGEUR DE LA BANDE (L)</p>
 </td>
-<td width="151">
-<p align="center">LIAISONS<br/>unilatérales<br/>(en francs)</p>
+<td width="113">
+<p align="center">BF SUPÉRIEURE<br/>à 1 GHz<br/>et inférieure<br/>à 10 GHz</p>
 </td>
-<td width="151">
-<p align="center">LIAISONS<br/>bilatérales<br/>(en francs)</p>
+<td width="113">
+<p align="center">BF SUPÉRIEURE<br/>à 10 GHz<br/>et inférieure<br/>à 20 GHz</p>
+</td>
+<td width="113">
+<p align="center">BF SUPÉRIEURE<br/>à 20 GHz<br/>et inférieure<br/>à 30 GHz</p>
+</td>
+<td width="113">
+<p align="center">BF SUPÉRIEURE<br/>à 30 GHz</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="378">
-<p>L inférieure ou égale à 1 MHz</p>
+<td valign="top" width="227">
+<p>L inférieure ou égale à 25 KHz</p>
 </td>
-<td valign="top" width="151">
+<td valign="top" width="113">
+<p align="center">1 050</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 25 KHz et inférieure ou égale à 125 KHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">2 100</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 125 KHz et inférieure ou égale à 250 KHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">4 200</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 250 KHz et inférieure ou égale à 500 KHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">6 300</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+<td valign="top" width="113">
+<p align="center">-</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 500 KHz et inférieure ou égale à 1,75 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">8 400</p>
+</td>
+<td valign="top" width="113">
+<p align="center">(L inférieure ou égale à 1,75 MHz)<br/>4 200</p>
+</td>
+<td valign="top" width="113">
+<p align="center">(L inférieure ou égale à 1,75 MHz)<br/>2 800</p>
+</td>
+<td valign="top" width="113">
+<p align="center">(L inférieure ou égale à 1,75 MHz)<br/>2 100</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 1,75 MHz et inférieure ou égale à 3,5 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">10 500</p>
+</td>
+<td valign="top" width="113">
+<p align="center">6 300</p>
+</td>
+<td valign="top" width="113">
+<p align="center">4 200</p>
+</td>
+<td valign="top" width="113">
 <p align="center">2 800</p>
 </td>
-<td valign="top" width="151">
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 3,5 MHz et inférieure ou égale à 7 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16 800</p>
+</td>
+<td valign="top" width="113">
+<p align="center">12 600</p>
+</td>
+<td valign="top" width="113">
+<p align="center">8 400</p>
+</td>
+<td valign="top" width="113">
 <p align="center">5 600</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="378">
-<p>L supérieure à 1 MHz et inférieure ou égale à 10 MHz</p>
+<td valign="top" width="227">
+<p>L supérieure à 7 MHz et inférieure ou égale à 14 MHz</p>
 </td>
-<td valign="top" width="151">
-<p align="center">4 200</p>
+<td valign="top" width="113">
+<p align="center">23 100</p>
 </td>
-<td valign="top" width="151">
+<td valign="top" width="113">
+<p align="center">18 900</p>
+</td>
+<td valign="top" width="113">
+<p align="center">12 600</p>
+</td>
+<td valign="top" width="113">
 <p align="center">8 400</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="378">
-<p>L supérieure à 10 MHz</p>
+<td valign="top" width="227">
+<p>L supérieure à 14 MHz et inférieure ou égale à 28 MHz</p>
 </td>
-<td valign="top" width="151">
-<p align="center">8 000</p>
+<td valign="top" width="113">
+<p align="center">29 400</p>
 </td>
-<td valign="top" width="151">
-<p align="center">16 000</p>
+<td valign="top" width="113">
+<p align="center">25 200</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16 800</p>
+</td>
+<td valign="top" width="113">
+<p align="center">11 200</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 28 MHz et inférieure ou égale à 56 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">35 700</p>
+</td>
+<td valign="top" width="113">
+<p align="center">31 500</p>
+</td>
+<td valign="top" width="113">
+<p align="center">21 000</p>
+</td>
+<td valign="top" width="113">
+<p align="center">14 000</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="227">
+<p>L supérieure à 56 MHz</p>
+</td>
+<td valign="top" width="113">
+<p align="center">42 000</p>
+</td>
+<td valign="top" width="113">
+<p align="center">37 800</p>
+</td>
+<td valign="top" width="113">
+<p align="center">25 200</p>
+</td>
+<td valign="top" width="113">
+<p align="center">16 800</p>
 </td>
 </tr>
 </tbody>
 </table>
 
-Par exception, les liaisons fixes utilisant la bande 23,500 - 23,600 GHz donnent lieu au paiement d'une redevance annuelle par émission fixée comme suit :
+Le montant de cette redevance est corrigé par un coefficient de dégressivité tenant compte du nombre de liaisons fixes bilatérales, suivant le tableau ci-après :
 
-- à 1 200 F pour une voie téléphonique ou de transmission de données ;
+<table>
+<tbody>
+<tr>
+<td width="340">
+<p align="center">NOMBRE DE LIAISONS</p>
+</td>
+<td width="340">
+<p align="center">COEFFICIENT APPLICABLE<br/>au montant de la redevance de mise<br/>à disposition de fréquences radioélectriques</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Jusqu'à la 10e</p>
+</td>
+<td valign="top" width="340">
+<p align="center">1</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>De la 11e à la 40e</p>
+</td>
+<td valign="top" width="340">
+<p align="center">0,75</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>De la 41e à la 80e</p>
+</td>
+<td valign="top" width="340">
+<p align="center">0,5</p>
+</td>
+</tr>
+<tr>
+<td valign="top" width="340">
+<p>Au-delà de la 81e</p>
+</td>
+<td valign="top" width="340">
+<p align="center">0,25</p>
+</td>
+</tr>
+</tbody>
+</table>
 
-- à 1 400 F pour une voie audio ;
+Par exception, les liaisons fixes utilisant la bande 23,5-23,6 GHz donnent lieu au paiement d'une redevance annuelle par liaison, fixée comme suit :
 
-- à 2 300 F pour une voie vidéo.
+1 200 F pour une voie téléphonique ou de transmission de données ;
+
+1 400 F pour une voie audio ;
+
+2 300 F pour une voie vidéo.
+
+Pour les liaisons fixes unilatérales, la redevance est égale à 50 p. 100 de celle prévue pour les liaisons fixes bilatérales.
 
 k) Pour les réseaux radioélectriques indépendants à usage privé utilisant la technique dite à ressources partagées, la redevance de mise à disposition de fréquences radioélectriques est calculée comme indiqué à l'article 3 du présent décret.
 
 l) Les collectivités territoriales, lorsqu'elles exploitent elles-mêmes, pour leurs besoins propres, un réseau radioélectrique à usage privé, bénéficient d'un abattement de 50 p. 100 de la redevance de mise à disposition de fréquences radioélectriques.
 
-Les services d'aide médicale d'urgence des établissements publics hospitaliers et les services publics de secours et d'incendie sont exonérés de la redevance annuelle de mise à disposition de fréquences radioélectriques.
+Sont exonérés du paiement de la redevance de mise à disposition de fréquences radioélectriques dans les bandes de fréquences désignées par l'Autorité de régulation des télécommunications :
+
+Les services d'aide médicale d'urgence des établissements publics hospitaliers ;
+
+Les services d'incendie et de secours ;
+
+Les personnes morales de droit public ou privé assurant des missions de sécurité civile dans des conditions fixées par arrêté du ministre chargé des télécommunications, pris après avis des ministres chargés de la sécurité civile et du budget.
 
 B. - La redevance de gestion
 
-a) La redevance de gestion est due, à terme à échoir, par période indivisible d'un mois.
+a) La redevance de gestion est due, à terme échu, par période indivisible d'un mois.
 
 b) Les titulaires d'autorisation d'utilisation de réseaux radioélectriques indépendants à usage privé sont soumis à une redevance annuelle de gestion fixée à 125 F, par station d'émission, lorsque la puissance fournie à l'antenne est inférieure ou égale à un watt, et à 250 F lorsque cette puissance est supérieure à un watt.
 
@@ -488,7 +688,7 @@ Tableau 5
 </tr>
 <tr>
 <td valign="top" width="454">
-<p>Supérieur à 50</p>
+<p align="left">Supérieur à 50</p>
 </td>
 <td valign="top" width="227">
 <p align="center">65</p>
