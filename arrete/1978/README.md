@@ -19,3 +19,4 @@
 - [Arrêté du 28 décembre 1977](arrete-du-28-decembre-1977)
 - [Arrêté du 30 janvier 1978](arrete-du-30-janvier-1978)
 - [Arrêté du 31 décembre 1977](arrete-du-31-decembre-1977)
+- [Arrêté du 31 janvier 1978](arrete-du-31-janvier-1978)
