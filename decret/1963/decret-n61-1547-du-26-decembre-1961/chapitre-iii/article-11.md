@@ -1,3 +1,3 @@
 # Article 11
 
-La vente ne peut avoir lieu moins d'un mois [*délai*] après la date à laquelle elle aura été annoncée.
+La déchéance prononcée en application de l'article 1er, alinéa 3, de la loi du 24 novembre 1961 susvisée ne fait pas obstacle au recouvrement sur le propriétaire des frais engagés antérieurement à raison de l'intervention de l'autorité administrative compétente.
