@@ -1,3 +1,5 @@
 # Article 44
 
 Les dispositions des articles 18 et 42, à l'exception du VI de l'article 42, entreront en vigueur dès la proclamation des résultats des élections de l'ensemble des conseils régionaux et interrégionaux et des chambres disciplinaires. Ces élections interviendront dans les six mois suivant la date de publication du décret mentionné à l'article L. 4124-11 du code de la santé publique. Les mandats des conseillers régionaux et interrégionaux en cours à cette date seront, en tant que de besoin, prorogés jusqu'à la proclamation des résultats des élections.
+
+Dans l'attente de l'entrée en vigueur des dispositions des articles 18, 42 et 62, les compétences attribuées à l'article 45 à la chambre disciplinaire de première instance et à la chambre disciplinaire nationale sont exercées respectivement par le conseil régional ou interrégional et la section disciplinaire du conseil national. Les compétences attribuées au conseil national sont exercées par la section disciplinaire du conseil national.
