@@ -1,0 +1,3 @@
+# Article 16
+
+Le cycle d'études conduisant au diplôme d'architecte D.P.L.G. a pour objet de dispenser une formation scientifique, technique, artistique et culturelle de haut niveau, qui donne aux diplômés la capacité de répondre aux changements des conditions économiques et sociales et de s'adapter à des situations professionnelles multiples. Les enseignements dispensés doivent concilier les exigences de l'acquisition d'un savoir théorique, intégrant les apports de la recherche et d'une formation pratique. La formation est notamment ouverte aux innovations scientifiques et techniques et facilite, dans le cours ultérieur de la vie professionnelle, la mise à jour constante des connaissances acquises.
