@@ -8,6 +8,6 @@ Eventuellement modifié pour tenir compte des résultats de l'enquête, le plan 
 
 Le plan est mis en oeuvre par l'autorité compétente pour l'organisation des transports urbains. Les décisions prises par les autorités chargées de la voirie et de la police de la circulation ayant des effets sur les déplacements dans le périmètre de transports urbains doivent être compatibles ou rendues compatibles avec le plan.
 
-Si, dans un délai de trois ans à compter de la publication de la loi n° 96-1236 du 30 décembre 1996 précitée, le plan n'est pas approuvé, le préfet procède à son élaboration selon les modalités prévues au présent article. Eventuellement modifié pour tenir compte des résultats de l'enquête publique, le plan est approuvé par le préfet après délibération de l'autorité organisatrice des transports. La délibération est réputée prise si elle n'intervient pas dans un délai de trois mois après transmission du projet de plan.
+Si, dans un délai de trois ans et demi à compter de la publication de la loi n° 96-1236 du 30 décembre 1996 précitée, le plan n'est pas approuvé, le préfet procède à son élaboration selon les modalités prévues au présent article. Eventuellement modifié pour tenir compte des résultats de l'enquête publique, le plan est approuvé par le préfet après délibération de l'autorité organisatrice des transports. La délibération est réputée prise si elle n'intervient pas dans un délai de trois mois après transmission du projet de plan.
 
 Au terme d'une période de cinq ans, le plan fait l'objet d'une évaluation et est révisé le cas échéant.

@@ -2,7 +2,9 @@
 
 Un cahier des charges approuvé par décret en Conseil d'Etat, après avis motivé et rendu public de la commission instituée à l'article 35, fixe, pour chacun des exploitants publics, ses droits et obligations, le cadre général dans lequel sont gérées ses activités, les principes et procédures selon lesquels sont fixés ses tarifs et les conditions d'exécution des services publics qu'il a pour mission d'assurer.
 
-Il précise notamment les conditions dans lesquelles sont assurées :
+Il précise notamment les conditions dans lesquelles sont assurés :
+
+Le service universel postal ;
 
 La desserte de l'ensemble du territoire national ;
 

@@ -1,5 +1,4 @@
 # TITRE Ier : DES DOCUMENTS ET ORGANISMES RELATIFS AU DÉVELOPPEMENT DU TERRITOIRE
 
-- [CHAPITRE Ier : Du schéma national et du Conseil national d'aménagement et de développement du territoire.](chapitre-ier)
-- [CHAPITRE IV : Du groupement d'intérêt public d'observation et d'évaluation de l'aménagement du territoire.](chapitre-iv)
+- [CHAPITRE Ier : Des choix stratégiques d'aménagement et de développement durable du territoire et du Conseil national de l'aménagement et du développement du territoire.](chapitre-ier)
 - [CHAPITRE V : Des schémas de services collectifs](chapitre-v)

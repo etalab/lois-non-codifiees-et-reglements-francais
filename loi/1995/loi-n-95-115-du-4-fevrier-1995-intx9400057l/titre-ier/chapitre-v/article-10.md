@@ -1,5 +1,7 @@
 # Article 10
 
-Les orientations du schéma national d'aménagement et de développement du territoire sont précisées par des schémas sectoriels dans les domaines et selon les modalités mentionnés aux sections 1 à 4 du présent chapitre.
+Les schémas de services collectifs sont élaborés par l'Etat dans une perspective à vingt ans en prenant en compte les projets d'aménagement de l'espace communautaire européen. Leur élaboration donne lieu à une concertation associant les collectivités territoriales, les organismes socioprofessionnels, les associations et les autres organismes qui concourent à l'aménagement du territoire désignés selon des modalités fixées par les décrets prévus aux articles 3 de la présente loi et 34 ter de la loi n° 83-8 du 7 janvier 1983 précitée.
 
-Ces schémas sectoriels sont établis par décret dans un délai de dix-huit mois suivant la publication de la présente loi.
+Préalablement à leur adoption, les projets de schémas de services collectifs sont soumis pour avis aux régions, au Conseil national de l'aménagement et du développement du territoire et aux conférences régionales de l'aménagement et du développement du territoire. Le projet de schéma de services collectifs de l'information et de la communication est soumis pour avis à la Commission supérieure du service public des postes et télécommunications. Le projet de schéma de services collectifs sanitaires est soumis pour avis à la section sanitaire du Comité national de l'organisation sanitaire et sociale. Ces avis sont rendus publics. Ces avis sont réputés favorables s'ils ne sont pas rendus dans un délai de deux mois.
+
+Les schémas de services collectifs sont adoptés par décret. Le décret adoptant les premiers schémas de services collectifs devra être publié au plus tard le 31 décembre 1999. Les schémas de services collectifs seront ensuite révisés selon la même procédure au plus tard un an avant l'échéance des contrats de plan Etat-régions.
