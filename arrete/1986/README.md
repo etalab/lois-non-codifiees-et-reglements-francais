@@ -198,7 +198,6 @@
 - [Arrêté du 28 mai 1986](arrete-du-28-mai-1986)
 - [Arrêté du 29 août 1986](arrete-du-29-aout-1986)
 - [Arrêté du 29 janvier 1986](arrete-du-29-janvier-1986)
-- [Arrêté du 29 juillet 1986](arrete-du-29-juillet-1986)
 - [Arrêté du 29 octobre 1986](arrete-du-29-octobre-1986)
 - [Arrêté du 29 mai 1986](arrete-du-29-mai-1986)
 - [Arrêté du 30 décembre 1985](arrete-du-30-decembre-1985)
