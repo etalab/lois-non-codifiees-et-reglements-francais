@@ -12,6 +12,8 @@ Dix-sept représentants désignés par la confédération générale du travail 
 
 Sept représentants désignés par la confédération française de l'encadremant - C.G.C. ;
 
-Quatre représentants désignés par la fédération de l'éducation nationale ;
+Trois représentants désignés par l'Union nationale des syndicats autonomes ;
+
+Un représentant désigné par la Fédération syndicale unitaire ;
 
 Un représentant de l'organisation choisie par décret en Conseil d'Etat parmi les organisations les plus représentatives des salariés de l'agriculture et des organismes agricoles et agro-alimentaires.
