@@ -1,0 +1,3 @@
+# Article 4
+
+Les employeurs doivent déclarer [*obligatoirement*], au moment de leur embauchage dans une entreprise agréée, les personnes titulaires du certificat de capacité d'ambulancier, ainsi que le numéro et le lieu de délivrance de ce certificat, la déclaration étant faite à la préfecture du département du siège de l'entreprise [*lieu*]. Ils doivent également faire connaître la cessation du contrat de travail liant les intéressés. De même, les personnes exploitant à titre individuel une entreprise agréée et qui sont personnellement titulaires du certificat de capacité doivent déclarer à la préfecture le numéro et le lieu de délivrance de ce certificat.

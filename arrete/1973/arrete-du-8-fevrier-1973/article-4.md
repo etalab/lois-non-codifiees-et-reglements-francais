@@ -1,5 +1,3 @@
 # Article 4
 
-Passages à niveau munis d'une signalisation automatique lumineuse et sonore d'annonce des trains, sans demi-barrières.
-
-Ce dispositif sera maintenu aux passages à niveau qui en étaient déjà équipés. Toutefois la suppression de la signalisation automatique lumineuse et sonore pourra être envisagée aux P.N. qui répondent aux conditions de l'article 3.
+Le cadre C des modèles de bordereaux doit comporter, outre le texte en langue française faisant seul foi, la traduction de ce texte, pour le modèle de bordereau repris à l'annexe I, en une des autres langues officielles de la Communauté économique européenne, pour le modèle de bordereau repris à l'annexe II, en une langue étrangère dont le choix est laissé au vendeur établissant le bordereau.

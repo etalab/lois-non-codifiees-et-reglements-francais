@@ -1,9 +1,3 @@
 # Article 1
 
-Au point de vue de leur équipement, les passages à niveau publics pour voitures sont répartis comme suit [*définition*] :
-
-- passages à niveau non gardés, démunis de tout dispositif d'annonce des trains,
-
-- passages à niveau munis d'une signalisation automatique lumineuse et sonore d'annonce des trains sans demi-barrières,
-
-- passages à niveau munis d'une signalisation automatique lumineuse et sonore d'annonce des trains avec demi-barrières,
+L'exonération des taxes sur le chiffre d'affaires relative aux ventes faites par les commerçants installés en France à des voyageurs résidant à l'étranger, ou dans un des territoires d'outre-mer de la République française, est subordonnée à la présentation d'un bordereau de vente numéroté du format 148 x 210 mm conforme à l'un des modèles donnés en annexes I et II au présent arrêté.
