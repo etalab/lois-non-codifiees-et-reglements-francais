@@ -35,6 +35,7 @@
 - [Décret n°79-319 du 13 avril 1979](decret-n79-319-du-13-avril-1979)
 - [Décret n°79-148 du 15 février 1979](decret-n79-148-du-15-fevrier-1979)
 - [Décret n°79-215 du 15 mars 1979](decret-n79-215-du-15-mars-1979)
+- [Décret n°79-472 du 15 juin 1979](decret-n79-472-du-15-juin-1979)
 - [Décret n°79-424 du 15 mai 1979](decret-n79-424-du-15-mai-1979)
 - [Décret n°79-154 du 16 février 1979](decret-n79-154-du-16-fevrier-1979)
 - [Décret n°79-40 du 17 janvier 1979](decret-n79-40-du-17-janvier-1979)
