@@ -46,6 +46,7 @@
 - [Décret n°83-903 du 7 octobre 1983](decret-n83-903-du-7-octobre-1983)
 - [Décret n°84-1127 du 7 décembre 1984](decret-n84-1127-du-7-decembre-1984)
 - [Décret n°84-832 du 7 septembre 1984](decret-n84-832-du-7-septembre-1984)
+- [Décret n°80-331 du 7 mai 1980](decret-n80-331-du-7-mai-1980)
 - [Décret n°84-339 du 7 mai 1984](decret-n84-339-du-7-mai-1984)
 - [Décret n°84-342 du 7 mai 1984](decret-n84-342-du-7-mai-1984)
 - [Décret n°84-343 du 7 mai 1984](decret-n84-343-du-7-mai-1984)
