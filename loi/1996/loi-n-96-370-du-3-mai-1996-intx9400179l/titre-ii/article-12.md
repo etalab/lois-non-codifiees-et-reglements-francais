@@ -1,12 +1,12 @@
 # Article 12
 
-Le sapeur-pompier volontaire dont l'engagement prend fin lorsqu'il atteint la limite d'âge de son grade, après avoir effectué au moins vingt ans de service, perçoit une allocation de vétérance. Toutefois, la condition de limite d'âge est ramenée à quarante-cinq ans si son incapacité opérationnelle est reconnue médicalement.
+Le sapeur-pompier volontaire qui a effectué au moins vingt ans de service a droit, à compter de l'année où il atteint la limite d'âge de son grade ou de l'année de fin de la prolongation d'activité, à une allocation de vétérance. Toutefois, la durée de service est ramenée à quinze ans pour le sapeur-pompier volontaire dont l'incapacité opérationnelle est reconnue médicalement.
 
 L'allocation de vétérance est composée d'une part forfaitaire et d'une part variable.
 
-Le montant de la part forfaitaire est fixé par un arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget. Il en est de même du montant maximum de la part variable.
+Le montant annuel de la part forfaitaire est fixé par un arrêté conjoint du ministre de l'intérieur et du ministre chargé du budget.
 
-La part variable est modulée compte tenu des services accomplis, y compris en formation, par le sapeur-pompier volontaire, suivant des critères de calcul définis par décret.
+Le montant annuel de la part variable est modulé compte tenu des services accomplis par le sapeur-pompier volontaire, suivant des critères de calcul définis par décret.
 
 L'allocation de vétérance n'est assujettie à aucun impôt ni soumise aux prélèvements prévus par la législation sociale.
 
