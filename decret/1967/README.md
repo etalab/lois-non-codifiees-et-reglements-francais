@@ -20,6 +20,7 @@
 - [Décret n°67-624 du 23 juillet 1967](decret-n67-624-du-23-juillet-1967)
 - [Décret n°67-817 du 23 septembre 1967](decret-n67-817-du-23-septembre-1967)
 - [Décret n°67-818 du 23 septembre 1967](decret-n67-818-du-23-septembre-1967)
+- [Décret n°67-936 du 24 octobre 1967](decret-n67-936-du-24-octobre-1967)
 - [Décret n°67-744 du 25 août 1967](decret-n67-744-du-25-aout-1967)
 - [Décret n°67-539 du 26 juin 1967](decret-n67-539-du-26-juin-1967)
 - [Décret n°67-540 du 26 juin 1967](decret-n67-540-du-26-juin-1967)
