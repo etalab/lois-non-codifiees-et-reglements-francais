@@ -72,6 +72,7 @@
 - [Décret n°79-113 du 25 janvier 1979](decret-n79-113-du-25-janvier-1979)
 - [Décret n°79-114 du 25 janvier 1979](decret-n79-114-du-25-janvier-1979)
 - [Décret n°79-346 du 25 avril 1979](decret-n79-346-du-25-avril-1979)
+- [Décret n°79-524 du 25 juin 1979](decret-n79-524-du-25-juin-1979)
 - [Décret n°79-88 du 25 janvier 1979](decret-n79-88-du-25-janvier-1979)
 - [Décret n°79-89 du 25 janvier 1979](decret-n79-89-du-25-janvier-1979)
 - [Décret n°79-413 du 25 mai 1979](decret-n79-413-du-25-mai-1979)

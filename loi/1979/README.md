@@ -15,3 +15,4 @@
 - [Loi n°68-1 du 2 janvier 1968](loi-n68-1-du-2-janvier-1968)
 - [Loi n°78-742 du 13 juillet 1978](loi-n78-742-du-13-juillet-1978)
 - [Loi n°79-4 du 2 janvier 1979](loi-n79-4-du-2-janvier-1979)
+- [Loi n°79-519 du 2 juillet 1979](loi-n79-519-du-2-juillet-1979)
