@@ -298,6 +298,7 @@
 - [Arrêté du 22 janvier 1998 (MESA9820225A)](arrete-du-22-janvier-1998-mesa9820225a)
 - [Arrêté du 22 septembre 1998 (DEFP9852012A)](arrete-du-22-septembre-1998-defp9852012a)
 - [Arrêté du 23 avril 1998 (EQUU9800369A)](arrete-du-23-avril-1998-equu9800369a)
+- [Arrêté du 23 avril 1998 (MESA9821608A)](arrete-du-23-avril-1998-mesa9821608a)
 - [Arrêté du 23 décembre 1997 (EQUP9700614A)](arrete-du-23-decembre-1997-equp9700614a)
 - [Arrêté du 23 décembre 1997 (MAEC9710101A)](arrete-du-23-decembre-1997-maec9710101a)
 - [Arrêté du 23 décembre 1997 (MESG9711735A)](arrete-du-23-decembre-1997-mesg9711735a)
