@@ -1,6 +1,8 @@
 # Article 26
 
-L'exécution des prestations prévues au contrat donne lieu à l'établissement par le transporteur d'un document qui est rempli au fur et à mesure de l'opération de transport. Ce document, qui est conservé dans le véhicule, mentionne les dates et heures d'arrivée et de départ du véhicule ou de l'ensemble routier, tant au lieu de chargement qu'au lieu de déchargement, ainsi que les prestations annexes prévues effectuées par son équipage.
+L'exécution des prestations prévues au contrat donne lieu à l'établissement par le transporteur d'un document qui est rempli au fur et à mesure de l'opération de transport.
+
+Ce document, dûment signé par le remettant ou son représentant, qui est conservé dans le véhicule, mentionne les dates et heures d'arrivée et de départ du véhicule ou de l'ensemble routier, tant au lieu de chargement qu'au lieu de déchargement, l'heure d'arrivée au lieu de déchargement demandée par le remettant ou son représentant, ainsi que les prestations annexes, prévues ou accomplies, effectuées par son équipage.
 
 Le dépassement des durées de réalisation des opérations de chargement et de déchargement par rapport à celles qui avaient été acceptées par le cocontractant ouvre droit à un complément de rémunération lorsque ce dépassement n'est pas imputable au fait du transporteur. Il en est de même pour toute prestation annexe non prévue au contrat de transport.
 
