@@ -1,5 +1,0 @@
-# Décret n°91-1301 du 19 décembre 1991 relatif aux modalités de remboursement des frais de formation d'un agent ayant souscrit un engagement de servir dans la fonction publique hospitalière
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
