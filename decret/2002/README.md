@@ -725,6 +725,7 @@
 - [Décret n°2002-88 du 17 janvier 2002 (EQUX0100070D)](decret-n2002-88-du-17-janvier-2002-equx0100070d)
 - [Décret n°2002-999 du 17 juillet 2002 (INTX0205743D)](decret-n2002-999-du-17-juillet-2002-intx0205743d)
 - [Décret n°2003-1090 du 17 novembre 2003 (ECOP0300136D)](decret-n2003-1090-du-17-novembre-2003-ecop0300136d)
+- [Décret n°65-1117 du 17 décembre 1965](decret-n65-1117-du-17-decembre-1965)
 - [Décret n°2002-1008 du 18 juillet 2002 (PRMX0200033D)](decret-n2002-1008-du-18-juillet-2002-prmx0200033d)
 - [Décret n°2002-1010 du 18 juillet 2002 (SPRX0200079D)](decret-n2002-1010-du-18-juillet-2002-sprx0200079d)
 - [Décret n°2002-1017 du 18 juillet 2002 (INDI0200350D)](decret-n2002-1017-du-18-juillet-2002-indi0200350d)
