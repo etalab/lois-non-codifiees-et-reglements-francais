@@ -15,3 +15,5 @@ Outre les mentions énumérées à l'article 2 de la loi sur les sociétés comm
 6° Les stipulations relatives à la composition, au fonctionnement et aux pouvoirs des organes de la société ;
 
 7° Les dispositions relatives à la répartition du boni de liquidation.
+
+8° L'identité de toutes personnes physiques ou personnes morales qui ont signé ou au nom de qui ont été signés les statuts ou le projet de statuts.
