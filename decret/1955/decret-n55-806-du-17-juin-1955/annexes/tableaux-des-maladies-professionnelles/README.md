@@ -1,6 +1,7 @@
 # Tableaux des maladies professionnelles
 
 - [2° Ankylostomose professionnelle  Délai de responsabilité : trois mois.](2-ankylostomose-professionnelle-delai-de-responsabilite)
+- [13° bis Affections provoquées par des préparations associant pentachlorophénol (ou pentachlorophénates) avec du lindane](13-bis)
 - [1° Tétanos professionnel](1-tetanos-professionnel)
 - [30° Rage professionnelle](30-rage-professionnelle)
 - [33° Hépatites virales professionnelles](33-hepatites-virales-professionnelles)
@@ -13,6 +14,7 @@
 - [7° Tularémie professionnelle](7-tularemie-professionnelle)
 - [8° Sulfocarbonisme professionnel](8-sulfocarbonisme-professionnel)
 - [25° Dermatoses professionnelles consécutives à l'emploi de lubrifiants et de fluides de refroidissement](25-dermatoses-professionnelles-consecutives-a)
+- [47° Affections consécutives à l'inhalation de poussières d'amiante.](47-affections-consecutives-a)
 - [16° Affections professionnelles dues aux bacilles tuberculeux](16-affections-professionnelles-dues-aux)
 - [15° Mycoses cutanées, périonyxis et onyxis d'origine professionnelle](15-mycoses-cutanees-perionyxis-et)
 - [34° Ulcérations et dermites provoquées par l'acide chromique, les chromates et bichromates alcalins, le chromate de zinc et le sulfate de chrome.](34-ulcerations-et)
