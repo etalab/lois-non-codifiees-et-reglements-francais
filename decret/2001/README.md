@@ -110,6 +110,7 @@
 - [Décret n°2000-1391 du 26 décembre 2000 (JUSA0000399D)](decret-n2000-1391-du-26-decembre-2000-jusa0000399d)
 - [Décret n°2000-1392 du 26 décembre 2000 (JUSA0000401D)](decret-n2000-1392-du-26-decembre-2000-jusa0000401d)
 - [Décret n°2001-987 du 26 octobre 2001 (MENF0101926D)](decret-n2001-987-du-26-octobre-2001-menf0101926d)
+- [Décret n°97-192 du 26 février 1997 (BUDD9650007D)](decret-n97-192-du-26-fevrier-1997-budd9650007d)
 - [Décret n°2001-769 du 27 août 2001 (MESG0122391D)](decret-n2001-769-du-27-aout-2001-mesg0122391d)
 - [Décret n°92-356 du 27 mars 1992 (MENF9200726D)](decret-n92-356-du-27-mars-1992-menf9200726d)
 - [Décret n°94-647 du 27 juillet 1994 (ENVP9420042D)](decret-n94-647-du-27-juillet-1994-envp9420042d)
