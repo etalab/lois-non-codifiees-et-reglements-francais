@@ -1021,7 +1021,6 @@
 - [Arrêté du 30 août 1991 (INDD9100772A)](arrete-du-30-aout-1991-indd9100772a)
 - [Arrêté du 30 août 1991 (TEFT9103927A)](arrete-du-30-aout-1991-teft9103927a)
 - [Arrêté du 30 avril 1991 (AGRE9101068A)](arrete-du-30-avril-1991-agre9101068a)
-- [Arrêté du 30 avril 1991 (BUDL9100072A)](arrete-du-30-avril-1991-budl9100072a)
 - [Arrêté du 30 avril 1991 (ECOX9110286A)](arrete-du-30-avril-1991-ecox9110286a)
 - [Arrêté du 30 avril 1991 (MENP9100944A)](arrete-du-30-avril-1991-menp9100944a)
 - [Arrêté du 30 avril 1991 (MENP9100945A)](arrete-du-30-avril-1991-menp9100945a)
