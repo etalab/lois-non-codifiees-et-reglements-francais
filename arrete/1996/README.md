@@ -1025,7 +1025,6 @@
 - [Arrêté du 27 décembre 1996 (TASS9611843A)](arrete-du-27-decembre-1996-tass9611843a)
 - [Arrêté du 27 décembre 1996 (TASS9611844A)](arrete-du-27-decembre-1996-tass9611844a)
 - [Arrêté du 27 février 1996 (ACVA9610007A)](arrete-du-27-fevrier-1996-acva9610007a)
-- [Arrêté du 27 février 1996 (ACVA9610008A)](arrete-du-27-fevrier-1996-acva9610008a)
 - [Arrêté du 27 février 1996 (ACVA9610009A)](arrete-du-27-fevrier-1996-acva9610009a)
 - [Arrêté du 27 février 1996 (ACVA9610011A)](arrete-du-27-fevrier-1996-acva9610011a)
 - [Arrêté du 27 février 1996 (ACVA9610012A)](arrete-du-27-fevrier-1996-acva9610012a)
