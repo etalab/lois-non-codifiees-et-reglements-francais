@@ -21,7 +21,7 @@ dues à la caisse générale de prévoyance des marins
 <td> :=========================================================</td>
 </tr>
 <tr>
-<td> :Cas général ...                    :         :         :</td>
+<td> :Cas général ...                    :         :        :</td>
 </tr>
 <tr>
 <td> :- navire d'une longueur supérieure :   6,40  :  16,35  :</td>
@@ -83,11 +83,55 @@ dues à la caisse générale de prévoyance des marins
 <tr>
 <td> :- autres membres de l'équipage     :    6,40 :  11     :</td>
 </tr>
+<tr>
+<td> :Marins français embarqués sur      :         :         :</td>
+</tr>
+<tr>
+<td> :- navires de commerce immatriculés :         :         :</td>
+</tr>
+<tr>
+<td> :dans le territoire des Terres      :         :         :</td>
+</tr>
+<tr>
+<td> :australes et antarctiques          :         :         :</td>
+</tr>
+<tr>
+<td> :françaises exploités en transport à:         :         :</td>
+</tr>
+<tr>
+<td> :la demande, lorsque la proportion  :         :         :</td>
+</tr>
+<tr>
+<td> :française de l'équipage est au     :         :         :</td>
+</tr>
+<tr>
+<td> :moins égale à 35 %                 :         :         :</td>
+</tr>
+<tr>
+<td> :   1. Pour chaque marin français   :         :         :</td>
+</tr>
+<tr>
+<td> :compris dans les 35 %              :     6,40:   4,80  :</td>
+</tr>
+<tr>
+<td> :   2. Pour chaque marin français   :         :         :</td>
+</tr>
+<tr>
+<td> :supplémentaire                     :     6,40:  16,35  :</td>
+</tr>
+<tr>
+<td> :- autres navires immatriculés dans :         :         :</td>
+</tr>
+<tr>
+<td> :le T.T.A.A.F.                      :     6,40:  16,35  :</td>
+</tr>
 </table>
 
 ===========================================================
 
-[*Décret 87-42 du 28 janvier 1987 art. 3 : le tableau figurant à l'article 6-1 du décret du 17 juin 1938 dans sa rédaction antérieure au décret n° 85-1530 du 31 décembre 1985 demeurant applicable aux navires visés au II de l'article 91 de la loi n° 85-10 du 3 janvier 1985 est remplacé par le tableau suivant :*] ========================================================
+[*Décret 87-42 du 28 janvier 1987 art. 3 : le tableau ci-dessus figurant à l'article 6-1 du décret du 17 juin 1938 dans sa rédaction antérieure au décret n° 85-1530 du 31 décembre 1985 demeurant applicable aux navires visés au II de l'article 91 de la loi n° 85-10 du 3 janvier 1985 est remplacé par le tableau suivant :*]
+
+========================================================
 
 <table>
 <tr>
@@ -127,7 +171,7 @@ dues à la caisse générale de prévoyance des marins
 <td> :petite pêche, à la pêche côtière:         :        :</td>
 </tr>
 <tr>
-<td> :à la pêche au large, à la        :         :        :</td>
+<td> :à la pêche au large, à la         :         :        :</td>
 </tr>
 <tr>
 <td> :navigation côtière sur lesquels le:         :        :</td>
@@ -136,61 +180,61 @@ dues à la caisse générale de prévoyance des marins
 <td> :propriétaire ou les copropriétaires:         :        :</td>
 </tr>
 <tr>
-<td> :sont embarqués :                  :         :        :</td>
+<td> :sont embarqués :                   :         :        :</td>
 </tr>
 <tr>
-<td> :- Navires de plus de 50 tonneaux  :         :        :</td>
+<td> :- Navires de plus de 50 tonneaux   :         :        :</td>
 </tr>
 <tr>
-<td> :de jauge brute :                  :         :        :</td>
+<td> :de jauge brute :                   :         :        :</td>
 </tr>
 <tr>
-<td> :- propriétaire embarqué           :    6,40 :   6,15 :</td>
+<td> :- propriétaire embarqué            :    6,40 :   6,15 :</td>
 </tr>
 <tr>
-<td> :- autres membres de l'équipage    :    6,40 :  16,35 :</td>
+<td> :- autres membres de l'équipage     :    6,40 :  16,35 :</td>
 </tr>
 <tr>
-<td> :- Navires de plus de 35 tonneaux  :         :        :</td>
+<td> :- Navires de plus de 35 tonneaux   :         :        :</td>
 </tr>
 <tr>
-<td> :de jauge brute, sans dépasser 50  :         :        :</td>
+<td> :de jauge brute, sans dépasser 50   :         :        :</td>
 </tr>
 <tr>
-<td> :tonneaux de jauge brute :         :         :        :</td>
+<td> :tonneaux de jauge brute :          :         :        :</td>
 </tr>
 <tr>
-<td> :- propriétaire embarqué           :    6,40 :   5,55 :</td>
+<td> :- propriétaire embarqué            :    6,40 :   5,55 :</td>
 </tr>
 <tr>
-<td> :- autres membres de l'équipage    :    6,40 :  15,75 :</td>
+<td> :- autres membres de l'équipage     :    6,40 :  15,75 :</td>
 </tr>
 <tr>
-<td> :- Navires de plus de 30 tonneaux  :         :        :</td>
+<td> :- Navires de plus de 30 tonneaux   :         :        :</td>
 </tr>
 <tr>
-<td> :de jauge brute, sans dépasser 35  :         :        :</td>
+<td> :de jauge brute, sans dépasser 35   :         :        :</td>
 </tr>
 <tr>
-<td> :tonneaux de jauge brute :         :         :        :</td>
+<td> :tonneaux de jauge brute :          :         :        :</td>
 </tr>
 <tr>
-<td> :- propriétaire embarqué           :    6,40 :   5,55 :</td>
+<td> :- propriétaire embarqué            :    6,40 :   5,55 :</td>
 </tr>
 <tr>
-<td> :- autres membres de l'équipage    :    6,40 :   9,31 :</td>
+<td> :- autres membres de l'équipage     :    6,40 :   9,31 :</td>
 </tr>
 <tr>
-<td> :- Navires de 30 tonneaux de jauge :         :        :</td>
+<td> :- Navires de 30 tonneaux de jauge  :         :        :</td>
 </tr>
 <tr>
-<td> :brute et moins :                  :         :        :</td>
+<td> :brute et moins :                   :         :        :</td>
 </tr>
 <tr>
-<td> :- propriétaire embarqué           :    6,40 :   5,55 :</td>
+<td> :- propriétaire embarqué            :    6,40 :   5,55 :</td>
 </tr>
 <tr>
-<td> :- autres membres de l'équipage    :    6,40 :   6,85 :</td>
+<td> :- autres membres de l'équipage     :    6,40 :   6,85 :</td>
 </tr>
 </table>
 
