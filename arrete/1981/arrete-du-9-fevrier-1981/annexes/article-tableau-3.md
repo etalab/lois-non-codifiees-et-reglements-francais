@@ -196,6 +196,18 @@
 </td>
 </tr>
 <tr>
+<td>Jury du concours d'accès au corps des préparateurs en pharmacie civils du service de santé des armées </td>
+<td>
+<p align="center">III</p>
+</td>
+</tr>
+<tr>
+<td>Jury de l'examen professionnel pour l'accès au grade de préparateur en pharmacie civil du service de santé des armées de classe fonctionnelle</td>
+<td>
+<p align="center">III</p>
+</td>
+</tr>
+<tr>
 <td>Jury d'examen professionnel pour la titularisation d'agents sur contrat de l'ordre technique dans le corps des techniciens du ministère de la défense</td>
 <td>
 <p align="center">III</p>

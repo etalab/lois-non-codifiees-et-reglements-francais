@@ -38,7 +38,7 @@
 </td>
 </tr>
 <tr>
-<td>Centre de formation à la gestion des ressources humaines</td>
+<td>Centre de formation au management du ministère de la défense</td>
 <td>
 <p align="center">I</p>
 </td>
@@ -214,7 +214,7 @@
 <tr>
 <td>Cycles de formation des coordonnateurs et déélgués régionaux en hygiène et sécurité du travail</td>
 <td>
-<p align="center"> II</p>
+<p align="center">II</p>
 </td>
 </tr>
 <tr>
@@ -324,7 +324,7 @@
 <tr>
 <td>Cycles de formation des conseillers techniques de service social</td>
 <td>
-<p align="center"> II</p>
+<p align="center">II</p>
 </td>
 </tr>
 <tr>
@@ -336,9 +336,9 @@
 </td>
 </tr>
 <tr>
-<td> Cycles de formation des officiers et ingénieurs en hygiène et sécurité du travail</td>
+<td>Cycles de formation des officiers et ingénieurs en hygiène et sécurité du travail</td>
 <td>
-<p align="center"> II</p>
+<p align="center">II</p>
 </td>
 </tr>
 <tr>
@@ -422,9 +422,9 @@
 </td>
 </tr>
 <tr>
-<td> Cycles de formation des chargés de prévention en hygiène et sécurité</td>
+<td>Cycles de formation des chargés de prévention en hygiène et sécurité</td>
 <td>
-<p align="center"> III</p>
+<p align="center">III</p>
 </td>
 </tr>
 <tr>
@@ -486,13 +486,13 @@
 <tr>
 <td>Cycles de formation des agents administratifs</td>
 <td>
-<p align="center"> IV</p>
+<p align="center">IV</p>
 </td>
 </tr>
 <tr>
 <td>Cycles de formation des agents des services techniques</td>
 <td>
-<p align="center"> IV</p>
+<p align="center">IV</p>
 </td>
 </tr>
 <tr>
