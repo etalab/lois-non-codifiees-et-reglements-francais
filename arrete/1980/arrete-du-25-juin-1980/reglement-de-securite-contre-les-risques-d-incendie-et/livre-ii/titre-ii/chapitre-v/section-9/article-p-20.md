@@ -8,7 +8,7 @@ Par des extincteurs portatifs à eau pulvérisée de six litres minimum, judicie
 
 Par des extincteurs appropriés aux risques particuliers.
 
-§ 2. Une installation de RIA DN 20 mm peut exceptionnellement être imposée par la commission de sécurité :
+§ 2. Une installation de RIA DN 19/6 peut exceptionnellement être imposée par la commission de sécurité :
 
 Soit dans les établissements situés dans des zones d'accès particulièrement difficile ou défavorable ;
 

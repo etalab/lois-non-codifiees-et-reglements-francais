@@ -14,15 +14,17 @@ Sont assujettis également :
 
 - les structures d'hébergement d'enfants, dès lors que les chambres sont aménagées dans des bâtiments distincts du logement familial ou lorsque le logement familial permet d'accueillir :
 
-- soit plus de sept mineurs ;
+- soit plus de 7 mineurs ;
 
-- soit plus de quatre mineurs dans la même chambre. (1)
+- soit plus de 4 mineurs dans la même chambre. (1)
 
 § 2. Sont assujettis aux seules dispositions des articles PE 24 (§ 1), PE 26 (§ 1) et PE 27 s'ils reçoivent moins de 20 personnes :
 
 - les établissements recevant du public sans locaux à sommeil ;
 
 - les locaux professionnels recevant du public situés dans les bâtiments d'habitation ou dans les immeubles de bureaux.
+
+Si ces établissements comportent des locaux présentant des risques particuliers d'incendie, leur isolement doit être assuré dans les conditions définies par les dispositions du premier paragraphe de l'article PE 6.
 
 § 3. Les établissements clos et couverts, fixes, munis d'une couverture souple sont soumis aux seules dispositions appropriées du présent livre si l'effectif du public est inférieur à celui fixé dans la colonne de droite du tableau pour une activité donnée. De plus, leur couverture doit être réalisée en matériaux de catégorie M2 dont le procès-verbal de classement en réaction au feu ne comporte pas de limite de durabilité.
 

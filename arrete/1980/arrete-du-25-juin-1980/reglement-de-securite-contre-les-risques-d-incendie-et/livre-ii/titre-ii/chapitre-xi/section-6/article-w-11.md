@@ -8,7 +8,7 @@ Moyens d'extinction
 
 - par des extincteurs appropriés aux risques particuliers.
 
-§ 2. Une installation de RIA DN 20 millimètres peut exceptionnellement être imposée par la commission de sécurité :
+§ 2. Une installation de RIA DN 19/6 peut exceptionnellement être imposée par la commission de sécurité :
 
 - soit dans les établissements implantés dans des ensembles immobiliers complexes ;
 

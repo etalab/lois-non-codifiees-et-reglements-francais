@@ -2,7 +2,11 @@
 
 Domaine d'application
 
-§ 1. Les établissements visés au présent chapitre sont de la classe 2 pour la détermination du coefficient au sens de l'annexe de l'IT 246.
+§ 1. Pour le calcul du coefficient a au sens de l'IT 246, les locaux sont répartis, en fonction de l'importance prévisible des foyers, dans les classes suivantes :
+
+a) Classe 1 : salles de jeu ;
+
+b) Classe 2 : bals ou dancings.
 
 § 2. En aggravation de l'article DF 7, les salles de danse comportant des mezzanines ou des niveaux partiels ainsi que les salles situées en sous-sol doivent être désenfumées.
 

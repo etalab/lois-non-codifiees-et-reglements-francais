@@ -14,8 +14,6 @@ Les socles de prises de courant doivent être raccordés à des circuits protég
 
 Si exceptionnellement des matériels en exposition de classe 0 sont alimentés, ils doivent être protégés par des dispositifs à courant différentiel résiduel assigné au plus égal à 30 mA.
 
-Les appareils de la classe 1 doivent être reliés au conducteur de protection de la canalisation les alimentant.
+Les appareils de la classe I doivent être reliés au conducteur de protection de la canalisation les alimentant.
 
-§ 5. Les enseignes et tubes lumineux à décharge fonctionnant à une tension de sortie à vide assignée supérieure à 1 kV doivent être installées conformément aux dispositions de la norme NF EN 50107. Si elles sont enfermées dans des enveloppes, celles-ci doivent être en matériau M3 au moins ou en matériau satisfaisant à l'essai au fil incandescent visé à l'article EC 5, la température du fil incandescent étant de 750 °C. Si elles sont enfermées dans des enveloppes isolantes, ces enveloppes doivent être constituées de matériaux de catégorie M 3.
-
-L'interrupteur prévu à l'article 5 de la NF C 15-150 peut être confondu avec l'appareil de commande visé à l'article T 35 (§ 3) du stand correspondant.
+L'utilisation de prises de terre individuelles de protection est interdite.

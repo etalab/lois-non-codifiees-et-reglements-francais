@@ -8,7 +8,7 @@ Moyens d'extinction
 
 - par des extincteurs appropriés aux risques particuliers ;
 
-- par une installation de RIA DN 19 mm lorsque l'établissement est tenu de posséder un service de sécurité.
+- par une installation de RIA DN 19/6 lorsque l'établissement est tenu de posséder un service de sécurité.
 
 § 2. En aggravation des dispositions de l'article MS 18, une colonne sèche doit être installée dans les escaliers protégés si le dernier niveau accessible au public est à plus de 18 mètres du niveau d'accès des engins des sapeurs-pompiers.
 
