@@ -1,27 +1,15 @@
 # Article ANNEXE
 
-GROUPE DES ELECTEURS
+GROUPE DES ÉLECTEURS
 
 AU CONSEIL SCIENTIFIQUE ET TECHNIQUE
 
 Agents de l'établissement
 
-Contractuels de hors catégorie et de catégorie exceptionnelle du Cemagref.
+Contractuels de hors catégorie, de catégorie exceptionnelle, directeurs de recherche, chargés de recherche, ingénieurs de recherche, ingénieurs d'études.
 
-Contractuels de hors catégorie et de catégorie exceptionnelle du Génie rural.
+Chargés d'administration de la recherche, attachés d'administration de la recherche, assistants ingénieurs.
 
-Contractuels d'études des catégories V et VI.
+Agents mis à disposition de l'établissement
 
-Contractuels du remembrement : agents spéciaux.
-
-Agents mis à la disposition de l'établissement
-
-Fonctionnaires de catégorie A.
-
-Contractuels de hors catégorie et de catégorie exceptionnelle du Cemagref.
-
-Contractuels de hors catégorie et de catégorie exceptionnelle du génie rural.
-
-Contractuels d'études des catégories V et VI.
-
-Contractuels du remembrement : agents spéciaux.
+Fonctionnaires et agents non titulaires de l'établissement de catégorie A.
