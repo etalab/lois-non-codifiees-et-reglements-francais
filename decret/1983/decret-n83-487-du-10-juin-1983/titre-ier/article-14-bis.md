@@ -1,8 +1,8 @@
 # Article 14 bis
 
-Le titulaire du brevet de maîtrise prévu au code de l'artisanat ou d'un diplôme équivalent peut, après deux ans de pratique professionnelle, se faire attribuer le titre de maître artisan par une commission régionale des qualifications dont la composition et les règles de fonctionnement sont fixées par arrêté du ministre chargé de l'artisanat.
+Les personnes physiques ou les dirigeants sociaux des personnes morales immatriculées au répertoire des métiers, titulaires du brevet de maîtrise prévu au code de l'artisanat ou d'un diplôme équivalent, peuvent, après deux ans de pratique professionnelle, se faire attribuer le titre de maître artisan par une commission régionale des qualifications dont la composition et les règles de fonctionnement sont fixées par arrêté du ministre chargé de l'artisanat.
 
-Le titre de maître artisan peut être refusé aux chefs d'entreprise qui ont manqué à la probité ou à l'honneur.
+Le titre de maître artisan peut être refusé aux personnes qui ont manqué à la probité ou à l'honneur.
 
 Le titre de maître est mentionné au répertoire des métiers.
 

@@ -1,9 +1,5 @@
 # Article 6
 
-L'immatriculation au répertoire des métiers doit être demandée dans les quinze jours du début de l'activité y donnant lieu [*formalités - délai*]. La demande est adressée au président de la chambre de métiers dans le ressort de laquelle est situé l'établissement principal ou le siège social.
+La demande d'immatriculation au répertoire des métiers est adressée au président de la chambre de métiers dans le ressort de laquelle est situé l'établissement principal ou le siège social de l'entreprise artisanale. Il est délivré récépissé de cette demande, qui peut être déposée sur place et doit être faite avant le début de l'activité.
 
-La demande doit être accompagnée de la justification soit d'un diplôme ou d'un titre homologué dans le métier exercé ou un métier connexe, soit d'une durée minimale d'exercice dudit métier. Cette durée ne peut être inférieure à six années et peut comprendre trois années de formation professionnelle. Lorsque la demande est présentée par une personne morale, cette condition doit être satisfaite par le dirigeant social.
-
-Un arrêté du ministre chargé de l'artisanat fixe pour chaque métier la liste des diplômes, titres homologués ou équivalences ainsi que les caractéristiques de la formation professionnelle pouvant être prise en compte.
-
-Les personnes qui sont immatriculées en application de l'article 1er, mais qui n'ont pas fourni les justifications de qualification prévues au 2e alinéa du présent article, ne peuvent se prévaloir de la qualité d'artisan vis-à-vis de la clientèle.
+Toutefois, sous réserve d'en avoir fait la déclaration par lettre recommandée avec demande d'avis de réception adressée au président de ladite chambre, au plus tard la veille du jour du début de leur activité, les intéressés peuvent commencer celle-ci avant d'avoir déposé la demande d'immatriculation ; en ce cas, ils disposent d'un délai de quinze jours, à compter de la date d'envoi de cette lettre, pour adresser ou déposer leur demande d'immatriculation.
