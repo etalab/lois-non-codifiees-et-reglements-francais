@@ -11,6 +11,7 @@
 - [Arrêté du 8 juin 1965](arrete-du-8-juin-1965)
 - [Arrêté du 9 janvier 1965](arrete-du-9-janvier-1965)
 - [Arrêté du 10 juin 1965](arrete-du-10-juin-1965)
+- [Arrêté du 11 août 1965](arrete-du-11-aout-1965)
 - [Arrêté du 12 février 1965](arrete-du-12-fevrier-1965)
 - [Arrêté du 12 mars 1965](arrete-du-12-mars-1965)
 - [Arrêté du 14 avril 1965](arrete-du-14-avril-1965)
