@@ -28,6 +28,7 @@
 - [Arrêté du 23 décembre 1998 (MESS9824099A)](arrete-du-23-decembre-1998-mess9824099a)
 - [Arrêté du 23 février 1998 (ATEE9870093A)](arrete-du-23-fevrier-1998-atee9870093a)
 - [Arrêté du 24 décembre 1998 (ECOI9801023A)](arrete-du-24-decembre-1998-ecoi9801023a)
+- [Arrêté du 24 novembre 1998 (DEFP9802129A)](arrete-du-24-novembre-1998-defp9802129a)
 - [Arrêté du 24 septembre 1998 (INTA9800398A)](arrete-du-24-septembre-1998-inta9800398a)
 - [Arrêté du 26 janvier 1999 (DEFI9853027A)](arrete-du-26-janvier-1999-defi9853027a)
 - [Arrêté du 26 janvier 1999 (DEFI9853028A)](arrete-du-26-janvier-1999-defi9853028a)
