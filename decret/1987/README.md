@@ -255,6 +255,7 @@
 - [Décret n°87-690 du 21 août 1987 (COMA8700023D)](decret-n87-690-du-21-aout-1987-coma8700023d)
 - [Décret n°87-699 du 21 août 1987 (INDD8700468D)](decret-n87-699-du-21-aout-1987-indd8700468d)
 - [Décret n°87-776 du 21 septembre 1987 (AGRG8701665D)](decret-n87-776-du-21-septembre-1987-agrg8701665d)
+- [Décret n°87-861 du 21 octobre 1987 (MERF8700042D)](decret-n87-861-du-21-octobre-1987-merf8700042d)
 - [Décret n°87-339 du 21 mai 1987 (EQUU8700426D)](decret-n87-339-du-21-mai-1987-equu8700426d)
 - [Décret n°87-341 du 21 mai 1987 (EQUU8700425D)](decret-n87-341-du-21-mai-1987-equu8700425d)
 - [Décret n°87-346 du 21 mai 1987 (MCCB8700190D)](decret-n87-346-du-21-mai-1987-mccb8700190d)

@@ -1,7 +1,3 @@
 # Article 2
 
-Toute demande [*contenu*] de réception C.E.E. d'un type de véhicule est introduite par le constructeur ou son mandataire, si le constructeur est étranger.
-
-Décret du 6 août 1981 :
-
-Elle est accompagnée d'une fiche de renseignements dont le modèle figure à l'annexe I à la directive du conseil de la Communauté économique européenne n° 70-156-C.E.E. du 6 février 1970, modifiée conformément à la directive n° 80-1267-C.E.E. du 16 décembre 1980 et aux directives qui lui portent adaptation au progrès technique.
+"Toute demande de réception C.E.E. d'un type de véhicule est introduite par le constructeur ou son mandataire, si le constructeur est étranger. Elle est accompagnée d'une fiche de renseignements dont le modèle figure à l'annexe I à la directive du conseil de la Communauté économique européenne n° 70-156 C.E.E. du 6 février 1970, modifiée conformément aux directives qui lui portent adaptation au progrès technique. Le constructeur ou son mandataire joint à sa demande une attestation certifiant que le même type de véhicule n'a pas fait l'objet d'une autre demande de réception C.E.E. auprès d'un autre Etat membre de la Communauté économique européenne. "
