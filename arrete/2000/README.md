@@ -1,5 +1,6 @@
 # 2000
 
+- [Arrêté du 6 novembre 2000 (AGRG0002259A)](arrete-du-6-novembre-2000-agrg0002259a)
 - [Arrêté du 6 novembre 2000 (PRMX0004473A)](arrete-du-6-novembre-2000-prmx0004473a)
 - [Arrêté du 7 novembre 2000 (EQUU0001743A)](arrete-du-7-novembre-2000-equu0001743a)
 - [Arrêté du 10 novembre 2000 (AGRG0002253A)](arrete-du-10-novembre-2000-agrg0002253a)

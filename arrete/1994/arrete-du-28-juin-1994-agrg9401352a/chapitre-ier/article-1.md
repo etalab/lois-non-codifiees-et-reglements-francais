@@ -1,6 +1,6 @@
 # Article 1
 
-Tout établissement préparant, traitant, transformant, manipulant ou entreposant des denrées animales ou d'origine animale, soumis à l'obligation de déclaration, est identifié, par le directeur des services vétérinaires, à l'aide d'un numéro composé dans l'ordre :
+Tout établissement préparant, traitant, transformant, manipulant, entreposant, exposant, mettant en vente ou vendant des denrées animales ou d'origine animale est soumis à l'obligation de déclaration et identifié par le directeur des services vétérinaires, à l'aide d'un numéro composé, dans l'ordre :
 
 - du numéro de codification du département ;
 
