@@ -376,7 +376,6 @@
 - [Arrêté du 20 janvier 1988 (AGRP8702075A)](arrete-du-20-janvier-1988-agrp8702075a)
 - [Arrêté du 20 janvier 1988 (ASEP8800520A)](arrete-du-20-janvier-1988-asep8800520a)
 - [Arrêté du 20 janvier 1988 (ECOT8813057A)](arrete-du-20-janvier-1988-ecot8813057a)
-- [Arrêté du 20 juillet 1988 (ECOB8810025A)](arrete-du-20-juillet-1988-ecob8810025a)
 - [Arrêté du 20 juin 1988 (SPSS8800898A)](arrete-du-20-juin-1988-spss8800898a)
 - [Arrêté du 20 novembre 1988 (AGRR8802096A)](arrete-du-20-novembre-1988-agrr8802096a)
 - [Arrêté du 20 septembre 1988 (ECOM8800243A)](arrete-du-20-septembre-1988-ecom8800243a)
