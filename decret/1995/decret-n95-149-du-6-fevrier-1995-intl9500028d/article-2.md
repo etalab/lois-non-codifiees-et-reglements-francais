@@ -1,9 +1,0 @@
-# Article 2
-
-Peuvent bénéficier de la prime d'aménagement du territoire dans les zones énumérées à l'annexe I les entreprises dont l'activité consiste dans la fabrication de biens ou de produits inclus dans la section D de la Nomenclature d'activités et de produits approuvée par le décret du 2 octobre 1992 susvisé pour les programmes directement liés au processus de transformation ou de conditionnement d'un produit naturel ou semi-fini, à l'exclusion des activités de stockage ou de distribution non géographiquement intégrées à l'établissement de production.
-
-Peuvent bénéficier de la prime d'aménagement du territoire dans les zones énumérées à l'annexe II du présent décret les entreprises qui exercent des activités tertiaires, notamment des activités de recherche ou de service, de téléservice, de direction, de gestion, d'ingénierie, de conception, d'étude, et des activités de service relatives à l'informatique.
-
-Les dispositions des deux premiers alinéas du présent article sont également applicables aux entreprises qui se créent pour exercer les activités qui y sont mentionnées ou qui décident de développer de telles activités.
-
-Peuvent également bénéficier de la prime les sociétés civiles ou commerciales qui ont pour objet la construction de bâtiments à usage professionnel ou l'achat de matériels neufs destinés à être utilisés en crédit-bail ou en location-vente par les entreprises dont les programmes sont éligibles à la prime instituée par le présent décret. Ces sociétés ne peuvent prétendre à l'attribution de primes que si elles justifient avoir consenti aux entreprises utilisatrices des bâtiments ou matériels compris dans les programmes primés des avantages correspondant à ceux qu'elles tirent de ce concours financier. Le montant des primes attribuées à ces sociétés est fixé proportionnellement aux parts que celles-ci prennent dans les programmes d'investissements.
