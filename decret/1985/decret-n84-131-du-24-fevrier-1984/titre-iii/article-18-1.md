@@ -1,0 +1,7 @@
+# Article 18-1
+
+Les dispositions de l'article 3, du 8° ainsi que des b et c de l'article 28, du I de l'article 44, du chapitre III du titre VIII et du titre XII ne sont pas applicables aux praticiens hospitaliers nommés pour une période probatoire.
+
+Les praticiens hospitaliers nommés pour une période probatoire peuvent être placés en disponibilité d'office dans les cas prévus aux articles 37, 38, 39 et 41. La durée de la disponibilité d'office ne peut excéder une année. Elle est renouvelable dans la limite de la durée de la période probatoire. La mise en disponibilité ou son renouvellement est prononcé par l'autorité investie du pouvoir de nomination. Le praticien en disponibilité cesse de bénéficier des émoluments mentionnés au 1° de l'article 28. Le temps passé dans cette position n'est pas pris en compte pour l'avancement. Au cas où à l'expiration d'une période de disponibilité un praticien n'a ni repris ses fonctions, ni obtenu une prolongation de sa disponibilité, il est licencié.
+
+Les praticiens hospitaliers nommés pour une période probatoire peuvent ouvrir un compte épargne-temps en application des dispositions du décret n° 2002-1358 du 18 novembre 2002 portant création d'un compte épargne-temps pour les personnels médicaux, pharmaceutiques et odontologiques des établissements publics de santé. Toutefois, ils ne peuvent utiliser, au cours de la période probatoire, ni des droits épargnés antérieurement à leur nomination, ni des droits acquis depuis celle-ci.
