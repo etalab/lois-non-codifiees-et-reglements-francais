@@ -1,0 +1,3 @@
+# Article 1
+
+Les règles de bonnes pratiques que doivent respecter les établissements de santé, les laboratoires d'analyses de biologie médicale et les organismes autorisés à pratiquer une ou plusieurs activités d'assistance médicale à la procréation définies à l'article R. 152-9-1 du code de la santé publique ou les activités de recueil, traitement, conservation et cession de gamètes issus de dons prévues à l'article L. 673-5 du code de la santé publique sont énoncées dans le guide de bonnes pratiques cliniques et biologiques en assistance médicale à la procréation, figurant en annexe du présent arrêté.
