@@ -25,3 +25,5 @@ Abies Alba : 0,250.
 Fagus silvatica : 1.
 
 Quercus : 3.
+
+Cedrus : 0,250.

@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé au ministère de l'industrie, des P. et T. et du tourisme un corps d'experts techniques des services extérieurs chargés, au sein des directions régionales de l'industrie et de la recherche, de procéder au contrôle de véhicules automobiles et à des épreuves d'appareils à pression et d'effectuer éventuellement des tâches de contrôle technique liées aux autres activités du service. Ce corps, classé dans la catégorie C prévue à l'article 29 de la loi du 11 janvier 1984 susvisée, est régi par les dispositions du décret du 27 janvier 1970 susvisé et par celles du présent décret.

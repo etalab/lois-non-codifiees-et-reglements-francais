@@ -1,3 +1,3 @@
 # Article 4
 
-Les parents ou alliés d'un candidat jusqu'au troisième dégré inclus ne peuvent siéger dans un jury lorsque celui-ci examine les candidatures aux emplois postulés par l'intéressé.
+Le directeur des transports terrestres et le directeur de la sécurité et de la circulation routières sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

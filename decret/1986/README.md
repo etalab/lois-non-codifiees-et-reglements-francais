@@ -289,6 +289,7 @@
 - [Décret n°86-1281 du 16 décembre 1986](decret-n86-1281-du-16-decembre-1986)
 - [Décret n°86-82 du 16 janvier 1986](decret-n86-82-du-16-janvier-1986)
 - [Décret n°86-838 du 16 juillet 1986](decret-n86-838-du-16-juillet-1986)
+- [Décret n°86-1121 du 17 octobre 1986](decret-n86-1121-du-17-octobre-1986)
 - [Décret n°86-215 du 17 février 1986](decret-n86-215-du-17-fevrier-1986)
 - [Décret n°86-216 du 17 février 1986](decret-n86-216-du-17-fevrier-1986)
 - [Décret n°86-221 du 17 février 1986](decret-n86-221-du-17-fevrier-1986)

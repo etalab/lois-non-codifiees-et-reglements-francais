@@ -1,7 +1,111 @@
 # Article 1
 
-Les taux de la taxe instituée par le décret du 29 janvier 1985 modifié susvisé sont fixés à :
+La composition et les caractéristiques des pièces commémoratives de 100 F qui seront frappées, au millésime 1986, par l'administration des Monnaies et Médailles pour le compte de l'Etat, conformément au programme prévu dans la loi de finances pour 1986 sont fixées ainsi qu'il suit :
 
-a) 3,5 p. 100 lorsque la taxe est recouvrée par l'Association pour le soutien du théâtre privé ;
+Désignation : pièces en argent de qualité courante.
 
-b) 1,75 p. 100 lorsque la taxe est recouvrée par l'Association pour le soutien de la chanson, des variétés et du jazz.
+Diamètre (en millimètres) : 26.
+
+Composition :
+
+- titre droit : argent 900, cuivre 100.
+
+- tolérance (en millièmes) : plus ou moins 3.
+
+Poids :
+
+- poids droit : 15 grammes.
+
+- tolérance (en millièmes) : plus ou moins 10.
+
+Tranche lisse.
+
+Désignation : pièces en argent de qualité Brillant universel.
+
+Diamètre (en millimètres) : 31.
+
+Composition :
+
+- titre droit : argent 900, cuivre 100.
+
+- tolérance (en millièmes) : plus ou moins 3.
+
+Poids :
+
+- poids droit : 15 grammes.
+
+- tolérance (en millièmes) : plus ou moins 10.
+
+Tranche lisse.
+
+Désignation : pièces en argent de qualité Epreuve.
+
+Diamètre (en millimètres) : 31.
+
+Composition :
+
+- titre droit : argent 999.
+
+- tolérance (en millièmes) : néant.
+
+Poids :
+
+- poids droit : 15 grammes.
+
+- tolérance (en millièmes) : plus ou moins 10.
+
+Tranche lisse.
+
+Désignation : pièces en or de qualité Brillant universel.
+
+Diamètre (en millimètres) : 31.
+
+Composition :
+
+- titre droit : or 920, argent 40, cuivre 40.
+
+- tolérance (en millièmes) : plus ou moins 1.
+
+Poids :
+
+- poids droit : 17 grammes.
+
+- tolérance (en millièmes) : plus ou moins 2.
+
+Tranche lisse.
+
+Désignation : pièces en or de qualité Epreuve.
+
+Diamètre (en millimètres) : 31.
+
+Composition :
+
+- titre droit : or 920, argent 40, cuivre 40.
+
+- tolérance (en millièmes) : plus ou moins 1.
+
+Poids :
+
+- poids droit : 17 grammes.
+
+- tolérance (en millièmes) : plus ou moins 2.
+
+Tranche lisse.
+
+Désignation : pièces en platine de qualité Epreuve.
+
+Diamètre (en millimètres) : 31.
+
+Composition :
+
+- titre droit : platine pur.
+
+- tolérance (en millièmes) : pureté minimale 999,9 pour 1000.
+
+Poids :
+
+- poids droit : 20 grammes.
+
+- tolérance (en millièmes) : plus ou moins 2.
+
+Tranche lisse.

@@ -1,3 +1,3 @@
 # Article 3
 
-Chaque rapporteur est tenu d'établir un rapport qu'il adresse au ministre chargé de l'enseignement supérieur (bureau chargé des personnels des grands établissements). En cas d'absence du rapporteur, le rapport établi par ses soins est porté à la connaissance du jury par le président de celui-ci. Les rapporteurs qui ne sont pas membres du jury n'ont pas voix délibérative.
+Ces dispositions s'appliquent sans préjudice des articles R. 56, R. 57 et R. 58 du code de la route et des règles applicables en matière de dimensions des véhicules prévus à l'article 61 du décret n° 86-519 du 14 mars 1986.

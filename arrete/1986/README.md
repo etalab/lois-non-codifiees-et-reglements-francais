@@ -59,6 +59,7 @@
 - [Arrêté du 10 janvier 1986](arrete-du-10-janvier-1986)
 - [Arrêté du 10 juillet 1986](arrete-du-10-juillet-1986)
 - [Arrêté du 10 mars 1986](arrete-du-10-mars-1986)
+- [Arrêté du 10 octobre 1986](arrete-du-10-octobre-1986)
 - [Arrêté du 10 septembre 1986](arrete-du-10-septembre-1986)
 - [Arrêté du 11 avril 1986](arrete-du-11-avril-1986)
 - [Arrêté du 11 décembre 1985](arrete-du-11-decembre-1985)

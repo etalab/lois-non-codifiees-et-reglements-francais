@@ -1,3 +1,3 @@
 # Article 5
 
-Une session annuelle d'examen est organisée à l'initiative du recteur soit dans le cadre académique, soit, si le faible nombre de candidats le justifie, au plan interacadémique par accord entre les différents recteurs intéressés. Les candidats doivent s'inscrire auprès des services du rectorat dont relève leur établissement de formation.
+La date des élections des représentants des praticiens des hôpitaux à temps partiel à la commission paritaire nationale est fixée par le ministre chargé de la santé.
