@@ -6,4 +6,4 @@ Un déclarant souscrit une seule déclaration pour la totalité des valeurs dont
 
 La déclaration peut, sur présentation de l'accusé de réception, être complétée, dans les mêmes conditions que la déclaration initiale, au même lieu et dans le délai prévu à l'article 1er.
 
-Les valeurs dont la restitution est demandée avant indemnisation ne peuvent ouvrir droit à indemnisation. Les autres valeurs seront restituées, soit avec le paiement, soit sans paiement si elles n'ouvrent pas droit à indemnisation. Celles qui auront ouvert droit à indemnisation seront revêtues d'un cachet spécifique.
+Les valeurs dont la restitution est demandée avant indemnisation ne peuvent ouvrir droit à indemnisation.
