@@ -3,6 +3,7 @@
 - [Décret n°51-1142 du 1 octobre 1951](decret-n51-1142-du-1-octobre-1951)
 - [Décret n°51-284 du 3 mars 1951](decret-n51-284-du-3-mars-1951)
 - [Décret n°51-310 du 3 mars 1951](decret-n51-310-du-3-mars-1951)
+- [Décret n°51-508 du 4 mai 1951](decret-n51-508-du-4-mai-1951)
 - [Décret n°51-727 du 6 juin 1951](decret-n51-727-du-6-juin-1951)
 - [Décret n°51-721 du 8 juin 1951](decret-n51-721-du-8-juin-1951)
 - [Décret n°51-725 du 8 juin 1951](decret-n51-725-du-8-juin-1951)
