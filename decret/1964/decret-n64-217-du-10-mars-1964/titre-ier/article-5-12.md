@@ -1,3 +1,15 @@
 # Article 5-12
 
-Pour les disciplines correspondant aux sections et options du certificat d'aptitude au professorat de l'enseignement du second degré, les concours d'accès à l'échelle de rémunération des professeurs certifiés sont ouverts aux maîtres ou aux documentalistes des établissements d'enseignement privés sous contrat justifiant d'une des licences ou d'un des titres ou diplômes fixés par arrêté du ministre chargé de l'éducation nationale et ayant accompli trois années de services d'enseignement ou de documentation.
+Il est créé des concours pour l'accès à des listes d'aptitude aux fonctions de maître ou de documentaliste dans les classes du second degré sous contrat correspondant aux troisièmes concours des certificats d'aptitude suivants :
+
+a) Certificat d'aptitude au professorat de l'enseignement du second degré ;
+
+b) Certificat d'aptitude au professorat de l'enseignement technique ;
+
+c) Certificat d'aptitude au professorat d'éducation physique et sportive ;
+
+d) Certificat d'aptitude au professorat de lycée professionnel.
+
+Ces concours sont organisés par sections qui peuvent comprendre des options. Les sections et options sont les mêmes que celles des concours correspondants de l'enseignement public.
+
+Sous réserve des dispositions du présent décret, les modalités d'organisation des troisièmes concours correspondants de l'enseignement public s'appliquent à ces concours.

@@ -1,7 +1,7 @@
 # Article 5-17
 
-Les maîtres reçus aux concours mentionnés à l'article 5-11 ci-dessus sont admis définitivement à l'échelle de rémunération des professeurs certifiés à l'issue d'une période probatoire d'une année scolaire, sous réserve de la vérification de leur aptitude pédagogique, selon les modalités fixées par arrêté du ministre chargé de l'éducation nationale. Ils sont classés dans cette échelle de rémunération dès le début de la période probatoire, selon les modalités prévues à l'article 10 du présent décret.
+Les candidats inscrits sur une liste d'aptitude justifiant de l'accord d'un chef d'établissement d'enseignement privé sous contrat bénéficient, dans la limite du nombre des contrats offerts au concours, d'une année de formation.
 
-Les maîtres dont la période probatoire n'a pas été jugée satisfaisante peuvent être autorisés, par décision du recteur, à accomplir une nouvelle période probatoire d'une année scolaire. A l'issue de la période probatoire, qu'elle ait été renouvelée ou pas, ils sont soit admis définitivement à l'échelle de rémunération des professeurs certifiés, soit replacés dans leur échelle de rémunération d'origine. La deuxième année de période probatoire n'est pas prise en compte pour l'avancement d'échelon.
+La formation correspond à celle dispensée aux lauréats des troisièmes concours de l'enseignement public dans les instituts universitaires de formation des maîtres.
 
-Ils perçoivent pendant cette période probatoire la rémunération afférente à l'indice correspondant au premier échelon de l'échelle de rémunération des professeurs certifiés. Ils peuvent toutefois opter pour le maintien de la rémunération qu'ils percevaient antérieurement à la période probatoire, sans que cette disposition puisse avoir pour effet de leur assurer une rémunération supérieure à celle qui résultera de leur classement dans l'échelle de rémunération des professeurs certifiés.
+Le contenu et l'organisation de la formation dispensée avec le concours d'un institut universitaire de formation des maîtres, ainsi que les charges auxquelles elle donne lieu, font l'objet d'un avenant à la convention prévue à l'article 4-3 du présent décret.

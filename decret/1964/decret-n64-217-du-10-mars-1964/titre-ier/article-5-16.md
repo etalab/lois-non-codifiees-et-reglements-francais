@@ -1,5 +1,7 @@
 # Article 5-16
 
-Pour chaque section des concours mentionnés aux articles 5-12 et 5-13 ci-dessus, le jury établit, par ordre de mérite, la liste des candidats admis. Il peut établir une liste complémentaire afin de permettre le remplacement de candidats inscrits sur la liste principale d'admission ; le nombre des nominations de candidats inscrits sur les listes complémentaires ne peut excéder 20 p. 100 du nombre total des maîtres pouvant accéder à l'échelle de rémunération des professeurs certifiés en application des articles 5-12 et 5-13 ci-dessus.
+Les candidats admis au concours par le jury sont inscrits, par section ou, éventuellement, par option, sur une liste d'aptitude établie par ordre alphabétique.
 
-Dans la limite du nombre de promotions disponibles, après épuisement de la liste complémentaire éventuelle, les candidats déclarés admissibles à l'issue du concours prévu à l'article 5-18 peuvent, par décision ministérielle, être promus, dans la discipline correspondante, sans avoir à passer les épreuves des concours prévus aux articles 5-12 et 5-13 ci-dessus, s'ils sont l'objet d'une proposition du jury. Cette proposition comporte un classement par ordre de mérite.
+Le nombre des inscriptions sur une liste d'aptitude ne peut excéder 150 % du nombre de contrats offerts pour chaque section ou, éventuellement, chaque option.
+
+La validité d'une liste d'aptitude expire le 1er octobre suivant la date de proclamation des résultats du concours.

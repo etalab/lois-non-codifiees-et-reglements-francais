@@ -1,3 +1,5 @@
 # Article 5-18
 
-Outre les concours ouverts en application des articles 4 et 5 ci-dessus, des concours d'accès à l'échelle de rémunération des professeurs agrégés sont ouverts, selon des modalités fixées par arrêté du ministre chargé de l'éducation nationale, aux maîtres des établissements privés sous contrat, dans les conditions prévues aux articles 5-19 à 5-22 ci-après.
+L'année de formation donne lieu à un contrat provisoire signé par le recteur.
+
+Pendant la période de formation, les maîtres et documentalistes sont rémunérés sur l'échelle de rémunération afférente à la catégorie de maître ou de documentaliste au titre de laquelle ils ont concouru.

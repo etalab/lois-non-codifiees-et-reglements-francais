@@ -1,3 +1,3 @@
 # Article 5-14
 
-Les conditions exigées pour avoir le droit de se présenter aux concours prévus à l'article 5-11 ci-dessus s'apprécient à la date de clôture des registres d'inscription aux concours.
+Le nombre de contrats offerts pour chaque concours est fixé par arrêté conjoint du ministre chargé de l'éducation et du ministre chargé du budget. Un arrêté du ministre chargé de l'éducation répartit ce nombre par sections et, éventuellement, par options.
