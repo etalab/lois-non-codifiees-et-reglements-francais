@@ -345,7 +345,6 @@
 - [Décret n°96-400 du 13 mai 1996 (INTC9600096D)](decret-n96-400-du-13-mai-1996-intc9600096d)
 - [Décret n°96-401 du 13 mai 1996 (INTC9600097D)](decret-n96-401-du-13-mai-1996-intc9600097d)
 - [Décret n°96-408 du 13 mai 1996 (MAEJ9630012D)](decret-n96-408-du-13-mai-1996-maej9630012d)
-- [Décret n°96-413 du 13 mai 1996 (DOMP9600008D)](decret-n96-413-du-13-mai-1996-domp9600008d)
 - [Décret n°96-415 du 13 mai 1996 (MAEJ9630013D)](decret-n96-415-du-13-mai-1996-maej9630013d)
 - [Décret n°96-416 du 13 mai 1996 (MAEJ9630015D)](decret-n96-416-du-13-mai-1996-maej9630015d)
 - [Décret n°96-421 du 13 mai 1996 (MCCB9600085D)](decret-n96-421-du-13-mai-1996-mccb9600085d)

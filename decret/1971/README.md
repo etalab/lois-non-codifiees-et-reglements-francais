@@ -61,7 +61,6 @@
 - [Décret n°72-310 du 21 avril 1972](decret-n72-310-du-21-avril-1972)
 - [Décret n°72-73 du 21 janvier 1972](decret-n72-73-du-21-janvier-1972)
 - [Décret n°71-388 du 21 mai 1971](decret-n71-388-du-21-mai-1971)
-- [Décret n°71-1023 du 22 décembre 1971](decret-n71-1023-du-22-decembre-1971)
 - [Décret n°71-490 du 23 juin 1971](decret-n71-490-du-23-juin-1971)
 - [Décret n°71-615 du 23 juillet 1971](decret-n71-615-du-23-juillet-1971)
 - [Décret n°71-1058 du 24 décembre 1971](decret-n71-1058-du-24-decembre-1971)

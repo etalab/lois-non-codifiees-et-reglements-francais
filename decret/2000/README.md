@@ -2,7 +2,6 @@
 
 - [Décret n°2000-1170 du 1 décembre 2000 (DEFP0002056D)](decret-n2000-1170-du-1-decembre-2000-defp0002056d)
 - [Décret n°2000-748 du 1 août 2000 (MESO0010921D)](decret-n2000-748-du-1-aout-2000-meso0010921d)
-- [Décret n°2000-764 du 1 août 2000 (MENS0001392D)](decret-n2000-764-du-1-aout-2000-mens0001392d)
 - [Décret n°2000-847 du 1 septembre 2000 (ECOP0000379D)](decret-n2000-847-du-1-septembre-2000-ecop0000379d)
 - [Décret n°2000-848 du 1 septembre 2000 (ECOC0000061D)](decret-n2000-848-du-1-septembre-2000-ecoc0000061d)
 - [Décret n°2000-1178 du 4 décembre 2000 (DEFD0002365D)](decret-n2000-1178-du-4-decembre-2000-defd0002365d)
@@ -31,7 +30,6 @@
 - [Décret n°2000-555 du 21 juin 2000 (PRMX0000074D)](decret-n2000-555-du-21-juin-2000-prmx0000074d)
 - [Décret n°2000-685 du 21 juillet 2000 (MESG0010702D)](decret-n2000-685-du-21-juillet-2000-mesg0010702d)
 - [Décret n°2000-262 du 22 mars 2000 (MJSK0070023D)](decret-n2000-262-du-22-mars-2000-mjsk0070023d)
-- [Décret n°2000-578 du 22 juin 2000 (INTM0000022D)](decret-n2000-578-du-22-juin-2000-intm0000022d)
 - [Décret n°2000-1119 du 23 novembre 2000 (INTA0000307D)](decret-n2000-1119-du-23-novembre-2000-inta0000307d)
 - [Décret n°2000-449 du 23 mai 2000 (FPPA0000045D)](decret-n2000-449-du-23-mai-2000-fppa0000045d)
 - [Décret n°2000-276 du 24 mars 2000 (INTD0000080D)](decret-n2000-276-du-24-mars-2000-intd0000080d)
@@ -45,7 +43,6 @@
 - [Décret n°2000-361 du 26 avril 2000 (ECOP0000202D)](decret-n2000-361-du-26-avril-2000-ecop0000202d)
 - [Décret n°2000-383 du 26 avril 2000 (DEFP0001226D)](decret-n2000-383-du-26-avril-2000-defp0001226d)
 - [Décret n°2000-572 du 26 juin 2000 (EQUP0000216D)](decret-n2000-572-du-26-juin-2000-equp0000216d)
-- [Décret n°2000-1060 du 27 octobre 2000 (MENK0002671D)](decret-n2000-1060-du-27-octobre-2000-menk0002671d)
 - [Décret n°2000-1165 du 27 novembre 2000 (AGRP0000344D)](decret-n2000-1165-du-27-novembre-2000-agrp0000344d)
 - [Décret du 28 juillet 2000 (AGRP0001039D)](decret-du-28-juillet-2000-agrp0001039d)
 - [Décret n°2000-162 du 28 février 2000 (INTB0000044D)](decret-n2000-162-du-28-fevrier-2000-intb0000044d)

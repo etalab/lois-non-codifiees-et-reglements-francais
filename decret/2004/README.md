@@ -342,7 +342,6 @@
 - [Décret n°86-1053 du 18 septembre 1986](decret-n86-1053-du-18-septembre-1986)
 - [Décret n°2004-420 du 18 mai 2004 (INDI0402885D)](decret-n2004-420-du-18-mai-2004-indi0402885d)
 - [Décret n°2004-421 du 18 mai 2004 (INTD0400115D)](decret-n2004-421-du-18-mai-2004-intd0400115d)
-- [Décret n°2004-162 du 19 février 2004 (MENE0400161D)](decret-n2004-162-du-19-fevrier-2004-mene0400161d)
 - [Décret n°2004-171 du 19 février 2004 (SOCF0410135D)](decret-n2004-171-du-19-fevrier-2004-socf0410135d)
 - [Décret n°2004-173 du 19 février 2004 (SOCS0323238D)](decret-n2004-173-du-19-fevrier-2004-socs0323238d)
 - [Décret n°2004-246 du 19 mars 2004 (EQUU0301778D)](decret-n2004-246-du-19-mars-2004-equu0301778d)

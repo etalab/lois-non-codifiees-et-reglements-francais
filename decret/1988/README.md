@@ -14,7 +14,6 @@
 - [Décret n°88-954 du 3 octobre 1988 (MAEJ8830055D)](decret-n88-954-du-3-octobre-1988-maej8830055d)
 - [Décret n°88-956 du 3 octobre 1988 (MAEJ8830057D)](decret-n88-956-du-3-octobre-1988-maej8830057d)
 - [Décret n°88-958 du 3 octobre 1988 (AGRP8801542D)](decret-n88-958-du-3-octobre-1988-agrp8801542d)
-- [Décret n°88-501 du 3 mai 1988 (MENL8800432D)](decret-n88-501-du-3-mai-1988-menl8800432d)
 - [Décret n°88-511 du 3 mai 1988 (MERE8800025D)](decret-n88-511-du-3-mai-1988-mere8800025d)
 - [Décret n°88-520 du 3 mai 1988 (RESK8800449D)](decret-n88-520-du-3-mai-1988-resk8800449d)
 - [Décret n°88-1109 du 5 décembre 1988 (INDA8800644D)](decret-n88-1109-du-5-decembre-1988-inda8800644d)
