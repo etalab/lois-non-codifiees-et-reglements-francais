@@ -1,0 +1,3 @@
+# Article 1
+
+Par dérogation aux dispositions du décret du 5 mai 1971 susvisé, les ingénieurs des travaux publics de l'Etat peuvent, pendant une période de cinq ans, à compter de la date de publication du présent décret, être recrutés par la voie d'un concours ouvert aux candidats âgés de quarante ans au plus au 1er janvier de l'année du concours, diplômés de certaines écoles d'ingénieurs ou titulaires d'un diplôme ou d'un titre justifiant leur qualification dans les spécialités de la chimie, de l'électronique, de la mécanique industrielle, des biotechnologies, de la géologie et de la physique. La liste des écoles, diplômes ou titres est fixée par arrêté conjoint du ministre chargé de la fonction publique et du ministre chargé de l'équipement.

@@ -1,0 +1,3 @@
+# Article 38
+
+En matière de publicité foncière et d'enregistrement, tout acte, formalité, inscription, mention, publication ou notification prescrit à peine de déchéance, nullité, caducité, forclusion, péremption ou inopposabilité, qui n'a pu être accompli par une personne publique ou privée du fait de l'interruption du fonctionnement normal des services fiscaux, entre le 1er juillet 1989 et le 31 décembre 1989 inclus, sera réputé valable s'il a été effectué au plus tard le 31 janvier 1990. Les droits de toute nature ne pourront donner lieu à aucune majoration ou pénalité du fait d'un retard involontaire imputable à l'interruption du fonctionnement des services.

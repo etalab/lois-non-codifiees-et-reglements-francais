@@ -66,6 +66,7 @@
 - [Loi n° 89-923 du 23 décembre 1989 (DOMX8900067L)](loi-n-89-923-du-23-decembre-1989-domx8900067l)
 - [Loi n° 89-924 du 23 décembre 1989 (DEFX8900091L)](loi-n-89-924-du-23-decembre-1989-defx8900091l)
 - [Loi n° 89-935 du 29 décembre 1989 (ECOX8900115L)](loi-n-89-935-du-29-decembre-1989-ecox8900115l)
+- [Loi n° 89-936 du 29 décembre 1989 (ECOX8900116L)](loi-n-89-936-du-29-decembre-1989-ecox8900116l)
 - [Loi n°73-6 du 3 janvier 1973](loi-n73-6-du-3-janvier-1973)
 - [Loi n°86-14 du 6 janvier 1986](loi-n86-14-du-6-janvier-1986)
 - [Loi n°89-377 du 13 juin 1989 (JUSX8800150L)](loi-n89-377-du-13-juin-1989-jusx8800150l)
