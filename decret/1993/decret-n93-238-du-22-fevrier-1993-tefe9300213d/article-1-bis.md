@@ -1,0 +1,3 @@
+# Article 1 bis
+
+Ouvre droit au bénéfice de l'abattement un contrat de travail conclu en application du dernier alinéa de l'article L. 212-4-2 du code du travail et prévoyant une durée d'activité au plus égale, heures supplémentaires ou complémentaires comprises, à la durée annuelle définie au quatrième alinéa de l'article L. 212-4-2 du code du travail et au moins égale, heures supplémentaires ou complémentaires non comprises, à la moitié de cette durée. Toutefois, ces dispositions ne sont pas applicables en cas de cessation du contrat de travail au cours de la période sur laquelle est appréciée la durée du travail en application de l'article L. 212-4-2.
