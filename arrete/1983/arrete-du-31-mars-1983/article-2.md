@@ -1,11 +1,5 @@
 # Article 2
 
-Le prix de vente, toutes taxes comprises, des produits visés à l'article 1er ne peut dépasser celui qui résulte de l'application, au prix d'achat hors taxes, des coefficients multiplicateurs suivants :
+Pour le calcul des prix limites de vente au détail de ces morceaux, il sera fait application des coefficients de découpe prévus en l'objet par l'annexe I de l'arrêté n° 82-20/A du 14 juin 1982 concernant la viande de boeuf et par l'annexe I de l'arrêté n° 82-21/A du 14 juin 1982 concernant la viande de veau. L'annexe I de l'arrêté n° 82-21/A est complétée par la mention suivante :
 
-Grossiste : 1,3891.
-
-Détaillant s'approvisionnant auprès du grossiste ou importateur :
-
-1,8465.
-
-Détaillant s'approvisionnant auprès du fabricant : 2,1638.
+"Escalope 1,73".

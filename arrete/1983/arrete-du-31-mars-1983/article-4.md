@@ -1,3 +1,3 @@
 # Article 4
 
-Les dispositions du présent arrêté ne sont pas applicables dans les départements d'outre-mer.
+Dans chaque point de vente les bouchers détaillants devront tenir à la disposition des fonctionnaires qualifiés de la direction générale de la concurrence et de la consommation et des services collaborants toutes justifications utiles leur permettant de contrôler le niveau de la marge moyenne pondérée visée ci-dessus.

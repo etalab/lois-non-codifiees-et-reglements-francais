@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 6 décembre 1983 fixant les taux de la taxe parafiscale perçue au profit de l'Institut français du pétrole est abrogé.
+Le conseil scientifique est nommé pour une durée de quatre ans. Aucun membre du conseil scientifique ne peut appartenir simultanément à une commission scientifique spécialisée de l'Institut national de la santé et de la recherche médicale ou au conseil scientifique du Centre national de la recherche scientifique, où à une section du Comité national de la recherche scientifique. Nul ne peut exercer deux mandats consécutifs au sein de la même instance scientifique statutaire, ni plus de deux mandats consécutifs en qualité de membres des instances scientifiques prévues aux articles 11, 12, 13, 14, 15 et 16 du décret du 10 novembre 1983 susvisé. Pour l'appréciation de ces mandats, seuls sont pris en compte les mandats effectivement exercés pendant plus d'une année.

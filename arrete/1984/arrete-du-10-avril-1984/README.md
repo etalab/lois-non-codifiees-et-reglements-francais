@@ -1,4 +1,4 @@
-# Arrêté du 10 avril 1984 du 10 avril 1984 fixant le taux de la taxe parafiscale perçue au profit de l'Institut français du pétrole.
+# Arrêté du 10 avril 1984 relatif aux conditions d'entrée des étrangers sur le territoire métropolitain et dans les départements d'outre-mer français
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

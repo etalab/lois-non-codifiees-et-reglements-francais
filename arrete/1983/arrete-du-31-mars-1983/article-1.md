@@ -1,15 +1,7 @@
 # Article 1
 
-Les taux limites de marque brute, applicables aux ventes des spécialités vétérinaires et des produits définis par l'article
+Les nomenclatures des morceaux taxés de viande de boeuf et de viande de veau figurant dans les arrêtés de taxation pris par les commissaires de la République, conformément à la délégation de compétence donnée par l'article 1er de l'arrêté n° 82-99/A du 29 octobre 1982 sont complétées par les morceaux suivants.
 
-L. 611 du code de la santé publique sont fixés, taxe comprise, comme suit :
+Viande de boeuf : aiguillette de rumsteck, tranche à bifteck, gîte-gîte ;
 
-Grossiste : 14,62 p. 100 ;
-
-Détaillant s'approvisionnant auprès du grossiste ou importateur :
-
-35,77 p. 100 ;
-
-Détaillant s'approvisionnant directement auprès du fabricant :
-
-45,19 p. 100.
+Viande de veau : escalope, côtes premières.

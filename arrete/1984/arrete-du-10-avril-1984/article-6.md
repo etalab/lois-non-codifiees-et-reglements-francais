@@ -1,6 +1,6 @@
 # Article 6
 
-Les élections dans les collèges A1 et A2 ont lieu au scrutin uninominal majoritaire à deux tours [*mode*]. Seuls se présentent au deuxième tour les candidats non élus au premier tour. En cas de partage des voix, est élu le candidat le plus âgé.
+Les élections dans les collèges A1 et A2 ont lieu au scrutin uninominal majoritaire à deux tours. Seuls se présentent au deuxième tour les candidats non élus au premier tour. En cas de partage des voix, est élu le candidat le plus âgé.
 
 Les élections dans les collèges B1, B2, C1 et C2 ont lieu au scrutin de liste à la représentation proportionnelle au plus fort reste.
 
