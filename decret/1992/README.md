@@ -295,6 +295,7 @@
 - [Décret n°92-426 du 7 mai 1992 (MENT9200041D)](decret-n92-426-du-7-mai-1992-ment9200041d)
 - [Décret n°92-433 du 7 mai 1992 (AGRE9200774D)](decret-n92-433-du-7-mai-1992-agre9200774d)
 - [Décret n°88-329 du 8 avril 1988 (AGRB8800484D)](decret-n88-329-du-8-avril-1988-agrb8800484d)
+- [Décret n°92-1132 du 8 octobre 1992 (SPSA9202349D)](decret-n92-1132-du-8-octobre-1992-spsa9202349d)
 - [Décret n°92-23 du 8 janvier 1992 (TEFF9104195D)](decret-n92-23-du-8-janvier-1992-teff9104195d)
 - [Décret n°92-38 du 8 janvier 1992 (JUSC9121025D)](decret-n92-38-du-8-janvier-1992-jusc9121025d)
 - [Décret n°92-631 du 8 juillet 1992 (ECOC9200059D)](decret-n92-631-du-8-juillet-1992-ecoc9200059d)

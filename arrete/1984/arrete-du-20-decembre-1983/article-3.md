@@ -143,3 +143,5 @@ Concentré de protéines humaines coagulables par la thrombine pour application 
 - Concentré de facteur Willebrand humain, l'unité internationale 4,60 F.
 
 - Concentré de protéine C humaine, l'unité internationale 5,70 F
+
+- Majoration du plasma humain frais congelé pour la qualification " sécurisé par quarantaine, avec deuxième dépistage chez le donneur " ou pour la qualification " solidarisé avec le concentré cellulaire issu du même don " par U.A (200 ml au minimum) 20 F

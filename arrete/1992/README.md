@@ -233,6 +233,7 @@
 - [Arrêté du 8 juillet 1992 (INTE9200315A)](arrete-du-8-juillet-1992-inte9200315a)
 - [Arrêté du 8 juillet 1992 (PTTR9200347A)](arrete-du-8-juillet-1992-pttr9200347a)
 - [Arrêté du 8 mars 1993 (SPSG9300507A)](arrete-du-8-mars-1993-spsg9300507a)
+- [Arrêté du 8 octobre 1992 (SANP9202619A)](arrete-du-8-octobre-1992-sanp9202619a)
 - [Arrêté du 8 septembre 1992 (BUDR9205037A)](arrete-du-8-septembre-1992-budr9205037a)
 - [Arrêté du 8 septembre 1992 (ECOC9200113A)](arrete-du-8-septembre-1992-ecoc9200113a)
 - [Arrêté du 8 septembre 1992 (INTA9200427A)](arrete-du-8-septembre-1992-inta9200427a)
