@@ -156,6 +156,8 @@
 - [Décret n°94-226 du 21 mars 1994 (TEFE9400274D)](decret-n94-226-du-21-mars-1994-tefe9400274d)
 - [Décret n°94-227 du 21 mars 1994 (TEFE9400275D)](decret-n94-227-du-21-mars-1994-tefe9400275d)
 - [Décret n°94-228 du 21 mars 1994 (TEFE9400326D)](decret-n94-228-du-21-mars-1994-tefe9400326d)
+- [Décret n°94-229 du 21 mars 1994 (MCCB9300414D)](decret-n94-229-du-21-mars-1994-mccb9300414d)
+- [Décret n°94-231 du 21 mars 1994 (ENVN9310099D)](decret-n94-231-du-21-mars-1994-envn9310099d)
 - [Décret n°94-61 du 21 janvier 1994 (BUDP9300668D)](decret-n94-61-du-21-janvier-1994-budp9300668d)
 - [Décret n°94-62 du 21 janvier 1994 (BUDP9300669D)](decret-n94-62-du-21-janvier-1994-budp9300669d)
 - [Décret n°94-65 du 21 janvier 1994 (ENVC9420004D)](decret-n94-65-du-21-janvier-1994-envc9420004d)
