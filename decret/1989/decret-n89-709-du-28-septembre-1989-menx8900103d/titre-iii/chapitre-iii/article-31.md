@@ -1,0 +1,3 @@
+# Article 31
+
+Peuvent seuls être placés en position de détachement dans le corps des maîtres de conférences de l'Ecole des hautes études en sciences sociales, sur proposition de la commission mentionnée à l'article 24, après avis de l'académie compétente de l'Institut de France sous réserve qu'ils soient titulaires dans leur corps d'origine depuis trois ans au moins, les maîtres de conférences régis par le décret du 6 juin 1984 susvisé, les maîtres assistants et les fonctionnaires des corps assimilés aux maîtres de conférences pour la désignation des membres du Conseil national des universités.
