@@ -2,11 +2,11 @@
 
 Le juge commis à la surveillance du registre du commerce et des sociétés demande le bulletin n° 2 du casier judiciaire :
 
-1° Des personnes physiques soumises à l'immatriculation et de leurs fondés de pouvoir ;
+1° Des personnes physiques soumises à l'immatriculation ;
 
-2° Des personnes physiques énumérées à l'article 15 du décret précité inscrites au registre du commerce et des sociétés, en vertu de l'immatriculation des sociétés commerciales, à l'exclusion des commissaires aux comptes ;
+2° Des personnes physiques mentionnées à l'article 15 du décret précité, inscrites au registre du commerce et des sociétés en vertu de l'immatriculation des sociétés commerciales, à l'exclusion des associés et tiers ayant le pouvoir d'engager à titre habituel la société sans être dirigeant ou gérant, mentionnés au a du 10° de l'article précité, et des commissaires aux comptes ;
 
-3° Des personnes physiques, membres des groupements d'intérêt économique, administrateurs et personnes chargées du contrôle de la gestion et du contrôle des comptes de ces groupements, à l'exception des commissaires aux comptes ;
+3° Des personnes physiques, membres des groupements d'intérêt économique, administrateurs et personnes chargées du contrôle de la gestion et du contrôle des comptes de ces groupements, à l'exclusion des commissaires aux comptes, ainsi que des gérants des groupements européens d'intérêt économique ;
 
 4° Des gérants des sociétés civiles ;
 
@@ -14,6 +14,8 @@ Le juge commis à la surveillance du registre du commerce et des sociétés dema
 
 Ces mêmes personnes souscrivent, au préalable, une déclaration affirmant qu'elles n'ont été l'objet d'aucune condamnation pénale ni de sanction civile ou administrative de nature à leur interdire de gérer, administrer ou diriger une personne morale et, s'il s'agit d'un commerçant, de nature à lui interdire d'exercer une activité commerciale.
 
-Au cas où le casier judiciaire révèle l'existence d'une interdiction d'exercer le commerce ou d'une condamnation de nature à interdire l'exercice de l'activité entreprise, le juge ordonne la radiation de l'immatriculation ou de l'inscription.
+Au cas où le casier judiciaire révèle l'existence d'une interdiction d'exercer le commerce ou d'une condamnation de nature à interdire l'exercice de l'activité entreprise, le juge ordonne la radiation de l'immatriculation ou de l'inscription après en avoir préalablement avisé la personne concernée.
+
+Lorsque la personne physique concernée par la radiation est l'une de celles visées aux 2°, 3°, 4° et 5° ci-dessus, le juge avise également la personne morale et lui demande de régulariser le cas échéant sa situation.
 
 Lorsqu'une autorisation administrative est accordée à titre provisoire et ne devient définitive qu'après l'immatriculation au registre du commerce et des sociétés, le greffier adresse à l'autorité administrative compétente un extrait de l'immatriculation dès vérification du casier judiciaire.

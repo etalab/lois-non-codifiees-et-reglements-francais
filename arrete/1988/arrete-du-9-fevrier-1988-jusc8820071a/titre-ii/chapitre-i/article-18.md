@@ -4,6 +4,6 @@ Pour l'application de l'article 71 du décret relatif au registre du commerce et
 
 1° En cas d'exécution du concordat, une attestation du commissaire à l'exécution du concordat, s'il en a été nommé un, ou, à défaut, une ordonnance du juge commis à la surveillance du registre ;
 
-2° En cas de paiement du passif mis à la charge des dirigeants d'une société, une attestation du syndic ;
+2° En cas de paiement du passif mis à la charge des dirigeants d'une société, une attestation du syndic ou du liquidateur judiciaire ;
 
-3° En cas d'exécution du plan de redressement et d'apurement collectif du passif, une attestation du commissaire à l'exécution du plan.
+3° En cas d'exécution du plan de redressement et d'apurement collectif du passif, une attestation du commissaire à l'exécution du plan, ou, lorsque la mission de ce dernier a pris fin, la preuve par tous moyens du règlement de tous les créanciers dans les conditions fixées au jugement arrêtant le plan.
