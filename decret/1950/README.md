@@ -20,4 +20,5 @@
 - [Décret n°50-444 du 20 avril 1950](decret-n50-444-du-20-avril-1950)
 - [Décret n°50-381 du 27 mars 1950](decret-n50-381-du-27-mars-1950)
 - [Décret n°50-259 du 28 février 1950](decret-n50-259-du-28-fevrier-1950)
+- [Décret n°50-613 du 30 mai 1950](decret-n50-613-du-30-mai-1950)
 - [Décret n°50-391 du 31 mars 1950](decret-n50-391-du-31-mars-1950)
