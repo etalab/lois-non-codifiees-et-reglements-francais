@@ -1074,7 +1074,6 @@
 - [Décret n°92-1360 du 29 décembre 1992 (JUSC9221025D)](decret-n92-1360-du-29-decembre-1992-jusc9221025d)
 - [Décret n°92-1362 du 29 décembre 1992 (ECOT9240119D)](decret-n92-1362-du-29-decembre-1992-ecot9240119d)
 - [Décret n°92-1366 du 29 décembre 1992 (INDE9200931D)](decret-n92-1366-du-29-decembre-1992-inde9200931d)
-- [Décret n°92-1367 du 29 décembre 1992 (TEFT9205560D)](decret-n92-1367-du-29-decembre-1992-teft9205560d)
 - [Décret n°92-1375 du 29 décembre 1992 (SANP9203263D)](decret-n92-1375-du-29-decembre-1992-sanp9203263d)
 - [Décret n°92-1382 du 29 décembre 1992 (AGRS9201988D)](decret-n92-1382-du-29-decembre-1992-agrs9201988d)
 - [Décret n°92-412 du 29 avril 1992 (COPX9210119D)](decret-n92-412-du-29-avril-1992-copx9210119d)
