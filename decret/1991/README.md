@@ -1,6 +1,8 @@
 # 1991
 
 - [Décret n°90-897 du 1 octobre 1990 (INDD9000501D)](decret-n90-897-du-1-octobre-1990-indd9000501d)
+- [Décret n°91-1018 du 1 octobre 1991 (VILM9100023D)](decret-n91-1018-du-1-octobre-1991-vilm9100023d)
+- [Décret n°91-1019 du 1 octobre 1991 (INTD9100398D)](decret-n91-1019-du-1-octobre-1991-intd9100398d)
 - [Décret n°91-133 du 1 février 1991 (MAEC9100001D)](decret-n91-133-du-1-fevrier-1991-maec9100001d)
 - [Décret n°91-135 du 1 février 1991 (ECOP9100029D)](decret-n91-135-du-1-fevrier-1991-ecop9100029d)
 - [Décret n°91-239 du 1 mars 1991 (BUDB9160007D)](decret-n91-239-du-1-mars-1991-budb9160007d)
@@ -75,6 +77,8 @@
 - [Décret n°93-148 du 3 février 1993 (SANH9202689D)](decret-n93-148-du-3-fevrier-1993-sanh9202689d)
 - [Décret n° 91-12 du 4 janvier 1991 (PTTA9000998D)](decret-n-91-12-du-4-janvier-1991-ptta9000998d)
 - [Décret n°91-10 du 4 janvier 1991 (PTTA9000992D)](decret-n91-10-du-4-janvier-1991-ptta9000992d)
+- [Décret n°91-1020 du 4 octobre 1991 (EQUT9101094D)](decret-n91-1020-du-4-octobre-1991-equt9101094d)
+- [Décret n°91-1021 du 4 octobre 1991 (EQUS9100904D)](decret-n91-1021-du-4-octobre-1991-equs9100904d)
 - [Décret n°91-11 du 4 janvier 1991 (PTTA9000995D)](decret-n91-11-du-4-janvier-1991-ptta9000995d)
 - [Décret n°91-12 du 4 janvier 1991 (PTTA9000998D)](decret-n91-12-du-4-janvier-1991-ptta9000998d)
 - [Décret n°91-13 du 4 janvier 1991 (PTTA9001004D)](decret-n91-13-du-4-janvier-1991-ptta9001004d)
