@@ -369,7 +369,6 @@
 - [Décret n°89-182 du 24 mars 1989 (MAEF8910004D)](decret-n89-182-du-24-mars-1989-maef8910004d)
 - [Décret n°89-259 du 24 avril 1989 (PRMG8970032D)](decret-n89-259-du-24-avril-1989-prmg8970032d)
 - [Décret n°89-268 du 24 avril 1989 (MAEJ8930031D)](decret-n89-268-du-24-avril-1989-maej8930031d)
-- [Décret n°89-35 du 24 janvier 1989 (MICT8900059D)](decret-n89-35-du-24-janvier-1989-mict8900059d)
 - [Décret n°89-37 du 24 janvier 1989 (MAEJ8930001D)](decret-n89-37-du-24-janvier-1989-maej8930001d)
 - [Décret n°89-38 du 24 janvier 1989 (MAEJ8930000D)](decret-n89-38-du-24-janvier-1989-maej8930000d)
 - [Décret n°89-43 du 24 janvier 1989 (MAEJ8930004D)](decret-n89-43-du-24-janvier-1989-maej8930004d)
