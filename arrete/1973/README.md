@@ -3,6 +3,7 @@
 - [Arrêté du 1 mars 1973](arrete-du-1-mars-1973)
 - [Arrêté du 1 octobre 1973](arrete-du-1-octobre-1973)
 - [Arrêté du 2 juillet 1973](arrete-du-2-juillet-1973)
+- [Arrêté du 2 novembre 1973](arrete-du-2-novembre-1973)
 - [Arrêté du 2 octobre 1973](arrete-du-2-octobre-1973)
 - [Arrêté du 3 juillet 1973](arrete-du-3-juillet-1973)
 - [Arrêté du 3 octobre 1973](arrete-du-3-octobre-1973)
