@@ -6,7 +6,11 @@ Les conseillers principaux d'éducation sont recrutés par un concours externe e
 
 2° Le concours interne est ouvert :
 
-- aux conseillers d'éducation titulaires justifiant de deux années de services à temps complet ou leur équivalent en cette qualité ainsi qu'aux personnels enseignants de catégorie A ayant accompli en qualité de titulaire quatre années à temps complet, ou leur équivalent, de services d'enseignement ou de documentation dans un établissement public d'enseignement ou de formation relevant du ministre de l'éducation nationale. Les intéressés doivent être âgés de moins de quarante-cinq ans au 1er janvier de l'année du concours.
+- aux fonctionnaires de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent et aux militaires justifiant, les uns et les autres, de l'un des titres ou diplômes requis des candidats au concours externe et de trois années de services publics ;
+
+- aux conseillers d'éducation, ainsi qu'aux personnels enseignants de catégorie A justifiant de trois années de services publics ;
+
+- aux personnels non titulaires exerçant des fonctions d'éducation dans les établissements d'enseignement public relevant du ministre chargé de l'éducation et justifiant de l'un des titres ou diplômes requis des candidats au concours externe et de trois années de services publics.
 
 Le nombre des places réservées aux candidats mentionnés au 2° du présent article ne peut être supérieur au tiers du nombre total des emplois mis aux deux concours prévus à cet article. Toutefois, les emplois mis à l'un des deux concours qui ne sont pas pourvus par la nomination de candidats de la catégorie correspondante peuvent être attribués aux candidats de l'autre concours dans la limite de 20 p. 100 des places mises au concours.
 

@@ -1,4 +1,4 @@
-# Chapitre I : Dispositions générales.
+# Chapitre I : Recrutement
 
 - [Section I : Dispositions relatives au certificat d'aptitude au professorat de l'enseignement du second degré.](section-i)
 - [Article 2](article-2.md)
