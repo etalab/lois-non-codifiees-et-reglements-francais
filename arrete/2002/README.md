@@ -857,7 +857,6 @@
 - [Arrêté du 30 avril 2002 (MENS0201176A)](arrete-du-30-avril-2002-mens0201176a)
 - [Arrêté du 30 avril 2002 (SANP0221613A)](arrete-du-30-avril-2002-sanp0221613a)
 - [Arrêté du 30 avril 2003 (PRMX0306605A)](arrete-du-30-avril-2003-prmx0306605a)
-- [Arrêté du 30 décembre 2002 (BUDF0220220A)](arrete-du-30-decembre-2002-budf0220220a)
 - [Arrêté du 30 décembre 2002 (SPRK0270376A)](arrete-du-30-decembre-2002-sprk0270376a)
 - [Arrêté du 30 décembre 2002 (SPRK0270388A)](arrete-du-30-decembre-2002-sprk0270388a)
 - [Arrêté du 30 janvier 2002 (INTC0100812A)](arrete-du-30-janvier-2002-intc0100812a)
