@@ -1,13 +1,9 @@
 # Article 1
 
-En application de l'article 267 bis-7 de l'annexe II au code général des impôts, la base de calcul du remboursement forfaitaire au titre des ventes ou livraisons d'animaux dont le prix de cession excède leur valeur normale en poids de viande est fixée, pour l'année 1982, par kilogramme de poids vif, à :
+Pour 1983, la base maximale imposable à la taxe sur la valeur ajoutée à retenir pour les importations et les ventes d'équidés passibles de cette taxe est fixée forfaitairement aux chiffres suivants :
 
-Chevaux                      15,85 F
+5.200 F par animal, pour les équidés importés ou vendus dans l'année civile de leur naissance ;
 
-Gros bovins                  18,55
+7.200 F par animal, pour les équidés importés ou vendus dans l'année civile suivant celle de leur naissance ;
 
-Veaux                        23,30
-
-Moutons et agneaux           14,55
-
-Porcs                        10,35
+10.100 F par animal, pour les importations ou ventes d'autres équidés.
