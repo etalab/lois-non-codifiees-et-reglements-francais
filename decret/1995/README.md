@@ -318,4 +318,6 @@
 - [Décret n°95-345 du 31 mars 1995 (ACVA9410131D)](decret-n95-345-du-31-mars-1995-acva9410131d)
 - [Décret n°95-346 du 31 mars 1995 (ACVA9410132D)](decret-n95-346-du-31-mars-1995-acva9410132d)
 - [Décret n°95-347 du 31 mars 1995 (ACVA9410133D)](decret-n95-347-du-31-mars-1995-acva9410133d)
+- [Décret n°95-348 du 31 mars 1995 (SPSS9500614D)](decret-n95-348-du-31-mars-1995-spss9500614d)
+- [Décret n°95-349 du 31 mars 1995 (SPSS9500442D)](decret-n95-349-du-31-mars-1995-spss9500442d)
 - [Décret n°95-98 du 31 janvier 1995 (SPSS9500026D)](decret-n95-98-du-31-janvier-1995-spss9500026d)

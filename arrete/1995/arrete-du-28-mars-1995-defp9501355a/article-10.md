@@ -1,0 +1,7 @@
+# Article 10
+
+Toutes facilités seront données aux représentants des personnels civils pour exercer leur fonctions.
+
+Une autorisation d'absence sera accordée, sur simple présentation de leur convocation, aux représentants des personnels civils pour leur permettre de participer aux réunions du Conseil supérieur des personnels civils. La durée de cette autorisation est calculée en tenant compte des délais de route, de la durée prévisible de la réunion et augmentée d'un temps égal à cette durée afin de mettre les intéressés en mesure d'assurer la préparation et le compte rendu des travaux du conseil.
+
+Les membres convoqués ne perçoivent aucune indemnité du fait de leurs fonctions au sein du conseil. Ils sont toutefois indemnisés de leurs frais de déplacement et de séjour dans les conditions fixées par les décrets n° 90-437 du 28 mai 1990 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des personnels civils sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés et n° 91-430 du 7 mai 1991 fixant les conditions et les modalités de règlement des frais occasionnés par les déplacements des ouvriers de l'Etat sur le territoire métropolitain de la France lorsqu'ils sont à la charge des budgets de l'Etat, des établissements publics nationaux à caractère administratif et de certains organismes subventionnés.
