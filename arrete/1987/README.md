@@ -547,7 +547,6 @@
 - [Arrêté du 23 juin 1987 (RESY8700383A)](arrete-du-23-juin-1987-resy8700383a)
 - [Arrêté du 23 mars 1987 (ENVN8700073A)](arrete-du-23-mars-1987-envn8700073a)
 - [Arrêté du 23 mars 1987 (ENVN8700074A)](arrete-du-23-mars-1987-envn8700074a)
-- [Arrêté du 23 mars 1987 (ENVP8700083A)](arrete-du-23-mars-1987-envp8700083a)
 - [Arrêté du 23 mars 1987 (EQUC8700283A)](arrete-du-23-mars-1987-equc8700283a)
 - [Arrêté du 23 novembre 1987 (AGRP8702096A)](arrete-du-23-novembre-1987-agrp8702096a)
 - [Arrêté du 23 octobre 1986](arrete-du-23-octobre-1986)

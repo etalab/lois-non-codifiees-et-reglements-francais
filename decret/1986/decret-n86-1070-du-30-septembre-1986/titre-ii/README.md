@@ -1,3 +1,0 @@
-# TITRE II : COOPTATION DES PERSONNALITES QUALIFIEES.
-
-- [Article 6](article-6.md)
