@@ -7,6 +7,7 @@
 - [Article 20-2](article-20-2.md)
 - [Article 20-3](article-20-3.md)
 - [Article 20-4](article-20-4.md)
+- [Article 20-5](article-20-5.md)
 - [Article 21](article-21.md)
 - [Article 22](article-22.md)
 - [Article 23](article-23.md)

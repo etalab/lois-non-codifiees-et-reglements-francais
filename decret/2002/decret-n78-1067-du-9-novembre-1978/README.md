@@ -2,3 +2,4 @@
 
 - [Titre Ier : Organisation des jeux de loterie](titre-ier)
 - [Titre II : Exploitation des jeux de loterie](titre-ii)
+- [Article 24](article-24.md)

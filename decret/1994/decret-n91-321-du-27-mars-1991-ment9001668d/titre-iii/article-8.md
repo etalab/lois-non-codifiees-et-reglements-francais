@@ -4,7 +4,7 @@ Les établissements parties aux conventions constitutives des services interéta
 
 1° Le caractère de bibliothèque publique et encyclopédique de la bibliothèque Sainte-Geneviève et le statut particulier de la bibliothèque nordique (fonds fennoscandinave de la bibliothèque Sainte-Geneviève) ;
 
-2° Les obligations liées à la donation Jacques-Doucet (bibliothèque d'art et d'archéologie) ;
+2° (paragraphe abrogé) ;
 
 3° Les obligations liées aux origines de la bibliothèque de documentation internationale contemporaine ;
 
