@@ -12,6 +12,8 @@ Des membres de droit :
 
 - le directeur des études du Centre des hautes études militaires ;
 
+- le directeur du centre des hautes études de l'armement ou son représentant ;
+
 - le directeur de l'enseignement du collège interarmées de défense ;
 
 - le major général de chaque état-major et de la gendarmerie nationale ou leur représentant ;

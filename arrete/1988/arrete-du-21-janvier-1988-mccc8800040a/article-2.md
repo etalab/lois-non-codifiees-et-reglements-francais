@@ -1,7 +1,3 @@
 # Article 2
 
-Le Conseil supérieur des archives entend et examine le rapport annuel d'activité de la direction des Archives de France. Il est consulté sur l'action définie et mise en oeuvre par le ministre chargé de la culture en matière d'archives publiques et privées.
-
-Il est saisi des propositions de classement d'archives historiques pour l'application de la loi du 3 janvier 1979. Il est consulté sur le programme des publications scientifiques et techniques.
-
-Il émet des avis, à la demande du ministre ou de son président, sur toute question relative à l'activité scientifique et culturelle des services d'archives.
+Le Conseil supérieur des archives est consulté sur la politique du ministre chargé de la culture en matière d'archives publiques et privées. Il est également consulté sur les programmes de publication et de recherche, sur les questions liées au développement des nouvelles technologies dans les services d'archives, ainsi que sur le classement des archives privées en tant qu'archives historiques. Il se prononce sur toute question qui lui est soumise par le directeur des Archives de France. Il examine le rapport d'activité de la direction des Archives de France.

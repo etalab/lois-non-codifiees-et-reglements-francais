@@ -1,73 +1,51 @@
 # Article 3
 
-Le Conseil supérieur des archives comprend [*composition*] trente-six membres :
+Le Conseil supérieur des archives comprend :
 
 a) Le président et le vice-président, nommés pour trois ans par le ministre chargé de la culture ;
 
-b) Cinq représentants de la direction des Archives de France :
-
-- le directeur général des Archives de France ;
-
-- le sous-directeur des services administratifs de la direction des Archives de France, chargé du secrétariat du conseil ;
-
-- les trois inspecteurs généraux des archives ;
-
-c) Seize membres de droit :
+b) Dix-sept membres de droit :
 
 - le vice-président du Conseil d'Etat ;
 
-- le secrétaire perpétuel de l'Académie française ;
+- le directeur des Archives de France ;
 
-- le secrétaire perpétuel de l'Académie des inscriptions et belles-lettres ;
+- le chef de l'inspection générale de la direction des Archives de France ;
 
-- le secrétaire perpétuel de l'Académie des sciences morales et politiques ;
+- le secrétaire général du Gouvernement ;
 
-- le président de l'assemblée des présidents de conseils généraux de France ;
+- le directeur général des collectivités locales au ministère de l'intérieur ;
 
-- le président de l'association des maires de France ;
+- le directeur de l'enseignement supérieur au ministère de l'éducation nationale, de la recherche et de la technologie ;
 
-- l'administrateur général de la Bibliothèque nationale ;
+- le directeur des archives du ministère des affaires étrangères ;
+
+- un représentant des services historiques du ministère de la défense ;
+
+- le chef de la mission de la recherche et de la technologie du ministère de la culture et de la communication ;
+
+- le président de l'Assemblée des départements de France ;
+
+- le président de l'Association des maires de France ;
 
 - le directeur général du Centre national de la recherche scientifique ;
 
-- le doyen de l'inspection générale d'histoire ;
+- le directeur de l'Ecole nationale des chartes ;
+
+- le directeur de l'Ecole nationale du patrimoine ;
+
+- le premier vice-président de la conférence des présidents d'université ;
 
 - le président de la Fondation nationale des sciences politiques ;
 
-- le directeur de l'Ecole nationale des chartes ;
+- le président de l'Association des archivistes français ;
 
-- le directeur des archives et de la documentation au ministère des affaires étrangères ;
+c) Onze personnalités qualifiées nommées pour trois ans par le ministre chargé de la culture en fonction de leur compétence en matière d'archivistique, de conservation ou de recherche historique ou en fonction de leur qualité d'utilisateurs d'archives ;
 
-- le chef de la mission de la recherche et de la technologie du ministère de la culture, de la communication, des grands travaux et du Bicentenaire ;
-
-- le chef du service historique de l'armée de terre ;
-
-- le chef du service historique de la marine ;
-
-- le chef du service historique de l'armée de l'air ;
-
-- ou leurs représentants ;
-
-d) Neuf membres nommés pour trois ans par le ministre chargé de la culture sur proposition des organismes suivants :
-
-- les trois sections d'histoire du comité des travaux historiques et scientifiques (philologie et histoire avant 1610, histoire moderne après 1610, histoire des sciences) ;
-
-- les associations des professeurs de l'enseignement supérieur (histoire du Moyen Age, histoire moderne, histoire contemporaine, histoire de l'art) ;
-
-- l'association des professeurs d'histoire et de géographie ;
-
-- la fédération des associations de généalogistes ;
-
-e) Cinq personnalités nommées pour trois ans par le ministre chargé de la culture en raison de leur compétence.
+d) Un représentant de chaque organisation syndicale représentée au comité technique paritaire de la direction des Archives de France.
 
 Participent en outre aux discussions avec voix consultative :
 
-- les chefs de service de la direction des Archives de France, des Archives nationales et des archives départementales compétents, en fonction de l'ordre du jour, désignés pour chaque séance par le directeur général des Archives de France ;
+- les inspecteurs généraux et les chefs de service de la direction des archives de France, ainsi que les chefs de centres d'archives nationales ;
 
-- le président de l'association des archivistes français ou son
-
-représentant ;
-
-- un délégué de chaque organisation syndicale représentée au comité technique paritaire de la direction des Archives de France.
-
-f) Deux représentants des personnels de conservation, de recherche, de restauration et de documentation exerçant leurs activités dans les services ou organismes placés sous l'autorité ou la tutelle du directeur général des Archives de France du ministère chargé de la culture, choisis par leurs pairs.
+- toute personne désignée par le directeur des Archives de France en fonction de l'ordre du jour.

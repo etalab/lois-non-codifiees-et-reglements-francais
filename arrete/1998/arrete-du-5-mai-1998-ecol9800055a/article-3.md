@@ -2,7 +2,7 @@
 
 Les informations traitées sont les suivantes :
 
-Nom, dénomination, raison sociale, n° FRP, n° SIRET, codes administratifs.
+Nom, dénomination, raison sociale, n° FRP, n° SIRET, n° SIREN, codes administratifs.
 
 Données numériques issues de la saisie des tableaux composant la liasse fiscale relevant des régimes fiscaux suivants :
 
