@@ -1,75 +1,59 @@
 # Article 35
 
-Le conseil d'administration de l'établissement est composé de cinquante membres [*nombre*] dont :
+Le conseil d'administration de l'établissement public est composé de cinquante-deux membres dont :
 
-1° Douze fonctionnaires, nommés sur proposition des ministres intéressés et représentant respectivement :
+" 1. Douze fonctionnaires nommés sur proposition des ministres intéressés et représentant respectivement :
 
-Le ministre chargé de la protection de la nature ;
+" Le ministre chargé de la protection de la nature ;
 
-Le ministre chargé de l'aménagement du territoire ;
+" Le ministre chargé de l'aménagement du territoire ;
 
-Le ministre de l'intérieur ;
+" Le ministre de l'intérieur ;
 
-Le ministre de l'économie et des finances ;
+" Le ministre chargé de l'agriculture ;
 
-Le ministre chargé de la défense ;
+" Le ministre chargé de la défense ;
 
-Le ministre de l'agriculture ;
+" Le ministre chargé de l'urbanisme ;
 
-Le ministre de l'équipement ;
+" Le ministre chargé des domaines ;
 
-Le ministre de l'industrie et de la recherche ;
+" Le ministre chargé de l'éducation ;
 
-Le ministre de l'éducation ;
+" Le ministre chargé de la culture ;
 
-Le ministre chargé des affaires culturelles ;
+" Le ministre chargé du tourisme ;
 
-Le ministre chargé du tourisme ;
+" Le ministre chargé de la jeunesse et des sports ;
 
-Le ministre chargé de la jeunesse et des sports.
+" Le ministre chargé de l'industrie.
 
-2° Quinze conseillers généraux et maires, nommés sur proposition des conseils généraux du Gard et de la Lozère, après avis du préfet intéressé :
+" 2. Seize représentants des collectivités territoriales et locales :
 
-Six conseillers généraux dont deux du Gard et quatre de la Lozère ;
+" a) Un représentant du conseil régional de la région Languedoc-Roussillon ;
 
-Neuf maires dont trois du Gard et six de la Lozère, les uns et les autres choisis parmi ceux qui ont un mandat dans les communes dont une partie du territoire est incluse dans le parc national.
+" b) Quatre représentants du conseil général de la Lozère et deux représentants du conseil général du Gard ;
 
-3° Vingt-trois personnalités dont :
+" c) Neuf maires de communes ayant une partie de leur territoire comprise dans le parc national, dont six maires de communes du département de la Lozère et trois maires de communes du département du Gard, élus respectivement par l'ensemble des maires des communes de chaque département ayant une partie de leur territoire comprise dans le parc.
 
-A - Dix personnalités locales nommées comme suit :
+" 3. Vingt-trois personnalités nommées comme suit :
 
-a) Après avis du préfet intéressé :
+" a) Quatre personnalités choisies par le ministre chargé de la protection de la nature ;
 
-Six sur proposition des chambres d'agriculture, des fédérations départementales des chasseurs et des organismes départementaux agréés de tourisme des deux départements, chacun de ces organismes désignant un représentant au titre du département où se trouve son siège ;
+" b) Quatre personnalités sur proposition du Conseil national de la protection de la nature, dont deux appartenant au milieu de la recherche scientifique ;
 
-b) Après avis du préfet, commissaire du Gouvernement :
+" c) Une personnalité sur proposition de l'Office national des forêts ;
 
-Une sur proposition conjointe des fédérations départementales des associations agréées de pêche et de pisciculture des deux départements ;
+" d) Une personnalité sur proposition du Musée national des arts et traditions populaires ;
 
-Une sur proposition du centre régional de la propriété forestière ;
+" e) Sur proposition du préfet de la Lozère, commissaire du Gouvernement, après consultation du préfet du Gard :
 
-Une sur proposition de la fédération des associations cévenoles ;
+" i) Huit personnalités, à raison de quatre par département, respectivement compétentes en matière d'agriculture, de protection de la nature, de tourisme et de chasse ;
 
-c) Sur proposition du préfet, commissaire du Gouvernement, après avis des organisations professionnelles agricoles :
+" ii) Quatre personnalités respectivement compétentes en matière de pêche, de forêt, de traditions culturelles cévenoles et d'activités de plein air ;
 
-Un propriétaire exploitant dans le parc national.
+" iii) Un propriétaire exploitant dans le parc.
 
-B - Treize personnalités nommées comme suit :
+" 4. Un représentant du personnel élu par l'ensemble du personnel permanent du parc.
 
-Deux sur proposition du conseil national de la protection de la nature ;
-
-Une sur proposition du Museum national d'histoire naturelle ;
-
-Une sur proposition du centre national de la recherche scientifique ;
-
-Une sur proposition du musée national des arts et traditions populaires ;
-
-Deux représentant les associations de protection de la nature et de l'environnement désignées à raison d'une par département, sur proposition du préfet intéressé ;
-
-Une sur proposition du Touring-Club de France ;
-
-Une sur proposition de l'office national des forêts ;
-
-Quatre à l'initiative du ministre chargé de la protection de la nature.
-
-Le préfet de la Lozère, commissaire du Gouvernement, le préfet du Gard, le directeur de la protection de la nature, le contrôleur financier et le directeur du parc assistent aux séances du conseil avec voix consultative.
+" Le préfet de la Lozère, commissaire du Gouvernement, le préfet du Gard, le directeur de la protection de la nature, le président du comité scientifique du parc, le directeur du parc et le contrôleur financier, ou leurs représentants, assistent aux séances du conseil d'administration avec voix consultative. "
