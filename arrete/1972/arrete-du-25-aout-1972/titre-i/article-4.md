@@ -20,6 +20,20 @@ c) Des locaux séparés, suffisamment vastes et exclusivement destinés :
 
 - à la vidange, au nettoyage et au parage des estomacs et des intestins ; ce local doit être isolé de la salle d'abattage et des locaux à usage de triperie et de boyauderie mais situé à proximité de ceux-ci ;
 
+Toutefois, ces locaux séparés ne sont pas nécessaires si les opérations concernant les estomacs font intervenir un équipement mécanique fermé pourvu d'un système de ventilation approprié et satisfaisant aux exigences suivantes :
+
+i) L'équipement doit être installé et arrangé de manière telle que les opérations de séparation des intestins de l'estomac, de vidange et de nettoyage des estomacs interviennent de manière hygiénique. Il doit être placé dans un emplacement spécial qui est nettement séparé des viandes fraîches exposées par une séparation partant du sol jusqu'à une hauteur d'au moins trois mètres et entourant l'aire sur laquelle sont effectuées ces opérations ;
+
+ii) Le dessin et le fonctionnement de la machine doivent prévenir de manière effective toute contamination des viandes fraîches ;
+
+iii) Un dispositif d'extraction d'air doit être placé et fonctionner dans des conditions propres à éliminer les odeurs ainsi que les risques de contamination par aérosol ;
+
+iv) La machine doit être équipée d'un dispositif permettant l'évacuation en circuit fermé des eaux résiduaires et du contenu des estomacs vers le système de drainage ;
+
+v) Le circuit emprunté par les estomacs vers et en provenance de l'appareil doit être à la fois nettement séparé et éloigné du circuit des autres viandes fraîches. Immédiatement après leur vidange et leur nettoyage, les estomacs doivent être enlevés de manière hygiénique ;
+
+vi) Les estomacs ne doivent pas être manipulés par le personnel manipulant les autres viandes fraîches. Le personnel manipulant les estomacs ne doit pas avoir accès aux autres viandes fraîches.
+
 - à la transformation des boyaux et des tripes ;
 
 - à la préparation et au nettoyage des abats autres que ceux visés aux tirets précédents, y compris un emplacement séparé permettant de garder les têtes suffisamment séparées des autres abats si ces travaux sont effectués dans l'abattoir ;
