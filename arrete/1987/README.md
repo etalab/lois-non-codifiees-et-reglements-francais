@@ -498,6 +498,7 @@
 - [Arrêté du 24 mars 1987 (MENF8700210A)](arrete-du-24-mars-1987-menf8700210a)
 - [Arrêté du 24 mars 1987 (MENF8700211A)](arrete-du-24-mars-1987-menf8700211a)
 - [Arrêté du 24 mars 1987 (REST8700109A)](arrete-du-24-mars-1987-rest8700109a)
+- [Arrêté du 24 septembre 1987 (BUDD8750000A)](arrete-du-24-septembre-1987-budd8750000a)
 - [Arrêté du 24 septembre 1987 (PTTC8700663A)](arrete-du-24-septembre-1987-pttc8700663a)
 - [Arrêté du 25 août 1987 (ASES8701215A)](arrete-du-25-aout-1987-ases8701215a)
 - [Arrêté du 25 août 1987 (ECOC8700032A)](arrete-du-25-aout-1987-ecoc8700032a)
