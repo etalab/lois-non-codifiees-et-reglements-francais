@@ -1,5 +1,5 @@
 # Article 14
 
-Le stage comprend, outre les travaux de pratique professionnelle, l'assiduité à un enseignement de formation.
+Le maître de stage tient un dossier de stage dans lequel il porte chaque semestre ses appréciations sur la qualité du travail effectué par le stagiaire.
 
-Cet enseignement incombe à la chambre nationale et à la chambre de discipline qui conviennent entre elles de son organisation. Leurs conventions sont soumises à l'agrément du garde des sceaux, ministre de la justice.
+Une copie du dossier de stage est communiquée, au moins à la fin de chaque année de stage, au bureau de la Chambre nationale des commissaires-priseurs.
