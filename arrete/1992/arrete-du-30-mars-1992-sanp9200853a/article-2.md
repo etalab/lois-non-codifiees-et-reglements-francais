@@ -1,3 +1,0 @@
-# Article 2
-
-Les stages visés à l'article 1er se déroulent selon les modalités suivantes : un mois en médecine, un mois en chirurgie, un mois aux urgences ou en réanimation. Ces stages peuvent éventuellement être effectués par sessions d'un mois réparties sur une période qui ne peut excéder douze mois. L'organisation de ces stages est confiée au directeur du centre de formation en soins infirmiers choisi par le candidat concerné, en collaboration avec l'infirmier général de l'établissement d'accueil s'il s'agit d'un établissement public de santé, et avec la personne remplissant des fonctions équivalentes s'il s'agit d'un établissement de santé privé.

@@ -1,3 +1,0 @@
-# Article 1
-
-Les personnes titulaires du diplôme d'infirmier de secteur psychiatrique et du certificat Cadre infirmier de secteur psychiatrique qui le souhaitent peuvent, à leur demande, obtenir le diplôme d'Etat d'infirmier à condition d'effectuer un stage à temps plein de soins infirmiers dans un service de soins généraux. Ce stage s'effectue, en fonction du grade du candidat, auprès d'un surveillant ou d'un surveillant-chef des services médicaux exerçant leurs fonctions dans un établissement public de santé, ou auprès de personnes remplissant des fonctions équivalentes dans un établissement de santé privé participant au service public hospitalier.

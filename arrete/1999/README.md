@@ -53,7 +53,6 @@
 - [Arrêté du 4 mai 1999 (EQUA9900661A)](arrete-du-4-mai-1999-equa9900661a)
 - [Arrêté du 4 mai 1999 (FPPA9900063A)](arrete-du-4-mai-1999-fppa9900063a)
 - [Arrêté du 5 août 1998 (ECOI9800698A)](arrete-du-5-aout-1998-ecoi9800698a)
-- [Arrêté du 5 février 1999 (ECOB9960004A)](arrete-du-5-fevrier-1999-ecob9960004a)
 - [Arrêté du 5 février 1999 (ECOI9900110A)](arrete-du-5-fevrier-1999-ecoi9900110a)
 - [Arrêté du 5 février 1999 (EQUA9900179A)](arrete-du-5-fevrier-1999-equa9900179a)
 - [Arrêté du 5 février 1999 (MCCT9900012A)](arrete-du-5-fevrier-1999-mcct9900012a)
