@@ -438,8 +438,6 @@
 - [Décret n°90-949 du 26 octobre 1990 (SPSH9002061D)](decret-n90-949-du-26-octobre-1990-spsh9002061d)
 - [Décret n°90-950 du 26 octobre 1990 (SPSH9002062D)](decret-n90-950-du-26-octobre-1990-spsh9002062d)
 - [Décret n°89-346 du 26 mai 1989 (ACVP8920017D)](decret-n89-346-du-26-mai-1989-acvp8920017d)
-- [Décret n°89-129 du 27 février 1989 (TEFX8910053D)](decret-n89-129-du-27-fevrier-1989-tefx8910053d)
-- [Décret n°89-130 du 27 février 1989 (TEFX8910054D)](decret-n89-130-du-27-fevrier-1989-tefx8910054d)
 - [Décret n°89-422 du 27 juin 1989 (EQUT8900612D)](decret-n89-422-du-27-juin-1989-equt8900612d)
 - [Décret n°89-47 du 27 janvier 1989 (SPSS8801523D)](decret-n89-47-du-27-janvier-1989-spss8801523d)
 - [Décret n°89-48 du 27 janvier 1989 (SPSS8800060D)](decret-n89-48-du-27-janvier-1989-spss8800060d)

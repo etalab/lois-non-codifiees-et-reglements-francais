@@ -184,7 +184,6 @@
 - [Décret n°87-16 du 14 janvier 1987](decret-n87-16-du-14-janvier-1987)
 - [Décret n°87-267 du 14 avril 1987](decret-n87-267-du-14-avril-1987)
 - [Décret n°87-669 du 14 août 1987 (EQUC8700720D)](decret-n87-669-du-14-aout-1987-equc8700720d)
-- [Décret n°87-670 du 14 août 1987 (ASEF8703600D)](decret-n87-670-du-14-aout-1987-asef8703600d)
 - [Décret n°87-754 du 14 septembre 1987 (RESP8700582D)](decret-n87-754-du-14-septembre-1987-resp8700582d)
 - [Décret n°87-755 du 14 septembre 1987 (RESP8700583D)](decret-n87-755-du-14-septembre-1987-resp8700583d)
 - [Décret n°87-760 du 14 septembre 1987 (AGRP8701612D)](decret-n87-760-du-14-septembre-1987-agrp8701612d)
