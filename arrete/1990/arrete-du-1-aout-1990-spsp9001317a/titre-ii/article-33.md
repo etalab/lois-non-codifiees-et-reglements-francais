@@ -1,3 +1,3 @@
 # Article 33
 
-Le directeur de l'école nomme les membres du jury parmi les enseignants de l'école et en assure la présidence. Le directeur technique de l'école siège de droit. Il peut, en cas d'absence du directeur, présider le jury.
+<font color="#000000">Le directeur de l'institut de formation nomme les membres du jury parmi les enseignants de l'institut de formation et en assure la présidence. En cas d'absence du directeur, le directeur technique dans les instituts où le directeur est un médecin et le conseiller scientifique dans les instituts où le directeur est un manipulateur d'électroradiologie médicale peuvent présider le jury. Le conseiller scientifique et le directeur technique, selon le cas, sont membres de droit du jury.</font>
