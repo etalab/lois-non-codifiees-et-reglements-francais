@@ -1,3 +1,5 @@
 # Article 3
 
-Sont abrogées les dispositions de l'arrêté modifié du 29 novembre 1973 relatif au classement et à l'échelonnement indiciaires des grades et emplois des personnels des établissements d'hospitalisation, de soins ou de cure publics visés par le décret n° 73-1094 du 29 novembre 1973.
+Pour l'application de l'article 23 du décret du 10 août 1966 susvisé, les taux journaliers de l'indemnité de mutation sur le territoire métropolitain de la France sont les suivants :
+
+Groupe I                                2,9 F    Groupe II                               2,5    Groupe III                              2,2

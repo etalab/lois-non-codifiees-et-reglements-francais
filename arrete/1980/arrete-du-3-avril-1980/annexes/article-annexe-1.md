@@ -2,14 +2,27 @@
 
 Tableau annexe 1
 
-Elèves infirmiers et élèves infirmières préparant le diplôme d'infirmier de secteur psychiatrique :
+Elèves infirmiers et élèves infirmières préparant le diplôme d'infirmier de secteur psychiatrique
 
-==================
+Indices au 1er septembre 1987
 
-ECHELONS :INDICES
+=============================
 
----------:--------
+ECHELON:   INDICES    : DUREE
 
-:   220
+<table>
+<tr>
+<td>        :BRUTS :  MAJ. :  MOY</td>
+</tr>
+<tr>
+<td>        :      : 1-1-85:</td>
+</tr>
+<tr>
+<td> -------:------:-------:------</td>
+</tr>
+<tr>
+<td>        : 228  :  229  :</td>
+</tr>
+</table>
 
-==================
+=============================
