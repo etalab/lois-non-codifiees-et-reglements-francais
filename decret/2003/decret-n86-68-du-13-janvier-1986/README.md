@@ -6,4 +6,6 @@
 - [TITRE III : De la disponibilité.](titre-iii)
 - [TITRE IV : Dispositions communes au détachement, à la position hors cadres et à la disponibilité.](titre-iv)
 - [TITRE V : De la position de congé parental.](titre-v)
+- [TITRE VI : Du congé de présence parentale.](titre-vi)
 - [TITRE VII : Dispositions diverses.](titre-vii)
+- [Article 36](article-36.md)

@@ -1,0 +1,5 @@
+# Article 8
+
+Dans les établissements mentionnés à l'article L. 314-6 du code de l'action sociale et des familles dont les accords collectifs de réduction du temps de travail ou les décisions unilatérales prises en application de conventions collectives nationales ou d'accords collectifs nationaux sont soumis à la procédure d'agrément ministériel, le complément différentiel de salaire prévu par un accord collectif en vue d'assurer aux salariés la garantie du maintien de leur rémunération mensuelle en vigueur à la date de la réduction collective du temps de travail à trente-cinq heures ou en deçà, n'est dû qu'à compter de la date d'entrée en vigueur des accords d'entreprise ou d'établissement ou des décisions unilatérales relatifs à la réduction collective du temps de travail. Cette entrée en vigueur est subordonnée à l'agrément ministériel prévu au même article.
+
+Ces dispositions s'appliquent sous réserve des décisions de justice passées en force de chose jugée. Elles ne s'appliquent pas aux instances en cours à la date du 18 septembre 2002.
