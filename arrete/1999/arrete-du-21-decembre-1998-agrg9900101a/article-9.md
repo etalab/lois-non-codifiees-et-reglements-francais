@@ -1,0 +1,5 @@
+# Article 9
+
+I. - Lorsqu'un produit ou un ensemble de produits est l'objet d'un retrait d'homologation, d'un retrait d'autorisation provisoire de vente ou d'importation ou d'un refus d'homologation après avoir bénéficié d'une homologation ou d'une autorisation provisoire de vente ou d'importation, l'importation, la vente, la mise en vente ainsi que toute distribution à titre gratuit doit cesser dès la notification du retrait de l'homologation, du retrait de l'autorisation provisoire de vente ou d'importation ou du refus d'homologation. Toutefois, le ministre de l'agriculture et de la pêche peut accorder, pour écouler les stocks existants, un délai dont la durée est en rapport avec la cause du retrait ou du refus.
+
+II. - Lorsqu'un produit ou un ensemble de produits, bénéficiant d'une autorisation provisoire de vente ou d'importation, est l'objet d'une homologation, un délai de dix-huit mois au plus, à compter de la date de notification de l'homologation, est accordé au responsable de la mise sur le marché pour mettre l'étiquetage en conformité avec la décision d'homologation.

@@ -1,0 +1,3 @@
+# Article 8
+
+Les noms des personnes exerçant dans le département et remplissant les conditions de compétence et de formation définies à l'article 1er figurent sur une liste tenue à jour par les médecins responsables de la formation initiale et continue de ces personnes et communiquée une fois par an au préfet (direction départementale des affaires sanitaires et sociales) et au médecin responsable du SAMU du département où sont organisées ces formations. Pour les formations relevant du ministère de la défense, la liste sera également adressée à la direction régionale du service de santé des armées territorialement compétente.

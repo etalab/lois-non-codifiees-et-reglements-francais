@@ -48,6 +48,7 @@
 - [Décret n°98-1116 du 10 décembre 1998 (PRMX9803317D)](decret-n98-1116-du-10-decembre-1998-prmx9803317d)
 - [Décret n°99-87 du 10 février 1999 (MCCB9800933D)](decret-n99-87-du-10-fevrier-1999-mccb9800933d)
 - [Décret n°99-88 du 10 février 1999 (MCCB9800934D)](decret-n99-88-du-10-fevrier-1999-mccb9800934d)
+- [Décret n°99-90 du 10 février 1999 (MAEX9800136D)](decret-n99-90-du-10-fevrier-1999-maex9800136d)
 - [Décret n°2000-407 du 10 mai 2000 (MESG0020769D)](decret-n2000-407-du-10-mai-2000-mesg0020769d)
 - [Décret n°99-14 du 11 janvier 1999 (MENS9802654D)](decret-n99-14-du-11-janvier-1999-mens9802654d)
 - [Décret n°99-15 du 11 janvier 1999 (ECOT9810360D)](decret-n99-15-du-11-janvier-1999-ecot9810360d)
