@@ -1,6 +1,6 @@
 # Article 2
 
-Les utilisateurs de réseaux radioélectriques indépendants à usage privé autorisés au titre de l'article L. 33-2 du code des postes et télécommunications, autres que ceux visés à l'article 4 du présent décret, sont assujettis au paiement d'une redevance de mise à disposition de fréquences radioélectriques et d'une redevance de gestion.
+Les utilisateurs de réseaux radioélectriques indépendants à usage privé autorisés au titre de l'article L. 33-2 du code des postes et télécommunications, autres que ceux visés aux articles 3 bis et 4 du présent décret, sont assujettis au paiement d'une redevance de mise à disposition de fréquences radioélectriques et d'une redevance de gestion.
 
 A. - La redevance de mise à disposition
 
@@ -257,70 +257,119 @@ Tableau 2
 </tbody>
 </table>
 
-d) Les montants des redevances calculés aux b et c ci-dessus sont corrigés par un coefficient de dégressivité tenant compte du nombre de liaisons fixes ou mobiles, suivant le tableau ci-après :
+d) Les montants des redevances calculés aux b et c ci-dessus sont corrigés par un coefficient de dégressivité tenant compte du nombre de liaisons, suivant le tableau ci-après :
 
 Tableau 3
 
+<div align="center"/>
+<div align="center">
 <table>
 <tbody>
 <tr>
-<td width="340">
-<p align="center">NOMBRE DE LIAISONS</p>
+<td width="170">
+<p align="center">NOMBRE DE LIAISONS<br/>Unidirectionnelles calculées</p>
 </td>
-<td width="340">
-<p align="center">COEFFICIENT APPLICABLE<br/>au montant de la redevance<br/>de mise à disposition<br/>de fréquences radioélectriques</p>
+<td width="170">
+<p align="center">NOMBRE DE LIAISONS<br/>Unidirectionnelles prises en compte<br/>pour le calcul de la redevance<br/>de mise à disposition<br/>de fréquences radioélectriques</p>
+</td>
+<td width="170">
+<p align="center">NOMBRE DE LIAISONS<br/>Bidirectionnelles calculées</p>
+</td>
+<td width="170">
+<p align="center">COEFFICIENT APPLICABLE<br/>au montant de la redevance<br/>de mise à disposition<br/>de fréquences radioélectriques<br/>pour les liaisons bidirectionnelles</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">Jusqu'à la 5e</p>
+<td valign="top" width="170">
+<p align="left">2 ou 3</p>
 </td>
-<td valign="top" width="340">
+<td valign="top" width="170">
+<p align="center">2</p>
+</td>
+<td valign="top" width="170">
+<p>Jusqu'à la 5e</p>
+</td>
+<td valign="top" width="170">
 <p align="center">1</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">De la 6e à la 20e</p>
+<td valign="top" width="170">
+<p align="left">4 à 10</p>
 </td>
-<td valign="top" width="340">
+<td valign="top" width="170">
+<p align="center">4</p>
+</td>
+<td valign="top" width="170">
+<p>De la 6e à la 20e</p>
+</td>
+<td valign="top" width="170">
 <p align="center">0,8</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">De la 21e à la 35e</p>
+<td valign="top" width="170">
+<p align="left">11 à 25</p>
 </td>
-<td valign="top" width="340">
+<td valign="top" width="170">
+<p align="center">7</p>
+</td>
+<td valign="top" width="170">
+<p>De la 21e à la 35e</p>
+</td>
+<td valign="top" width="170">
 <p align="center">0,6</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">De la 36e à la 45e</p>
+<td valign="top" width="170">
+<p align="left">26 à 50</p>
 </td>
-<td valign="top" width="340">
+<td valign="top" width="170">
+<p align="center">10</p>
+</td>
+<td valign="top" width="170">
+<p>De la 36e à la 45e</p>
+</td>
+<td valign="top" width="170">
 <p align="center">0,4</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">De la 46e à la 60e</p>
+<td valign="top" width="170">
+<p align="left">51 à 100</p>
 </td>
-<td valign="top" width="340">
+<td valign="top" width="170">
+<p align="center">12</p>
+</td>
+<td valign="top" width="170">
+<p>De la 46e à la 60e</p>
+</td>
+<td valign="top" width="170">
 <p align="center">0,2</p>
 </td>
 </tr>
 <tr>
-<td valign="top" width="340">
-<p align="left">Au-delà de la 61e</p>
+<td valign="top" width="170">
+<p align="left">Au-delà de 100</p>
 </td>
-<td valign="top" width="340">
+<td valign="top" width="170">
+<p align="center">14</p>
+</td>
+<td valign="top" width="170">
+<p>Au-delà de la 61e</p>
+</td>
+<td valign="top" width="170">
 <p align="center">0,1</p>
 </td>
 </tr>
 </tbody>
 </table>
+</div>
+<div align="center"/>
+<div align="center"/>
+
+Le coefficient de dégressivité, calculé à partir du tableau susvisé, s'applique à des liaisons qui sont identiques au plan tarifaire tel que défini aux b et c ci-dessus.
 
 e) Les liaisons de télécommande utilisant un système d'accusé de réception, dont la durée de transmission ne dépasse pas trois secondes par heure, sont classées dans la catégorie des liaisons unidirectionnelles.
 
@@ -353,7 +402,7 @@ Tableau 4
 </tr>
 <tr>
 <td valign="top" width="378">
-<p align="left">L inférieure ou égale à 1 MHz</p>
+<p>L inférieure ou égale à 1 MHz</p>
 </td>
 <td valign="top" width="151">
 <p align="center">2 800</p>
@@ -364,7 +413,7 @@ Tableau 4
 </tr>
 <tr>
 <td valign="top" width="378">
-<p align="left">L supérieure à 1 MHz et inférieure ou égale à 10 MHz</p>
+<p>L supérieure à 1 MHz et inférieure ou égale à 10 MHz</p>
 </td>
 <td valign="top" width="151">
 <p align="center">4 200</p>
@@ -375,7 +424,7 @@ Tableau 4
 </tr>
 <tr>
 <td valign="top" width="378">
-<p align="left">L supérieure à 10 MHz</p>
+<p>L supérieure à 10 MHz</p>
 </td>
 <td valign="top" width="151">
 <p align="center">8 000</p>
@@ -439,7 +488,7 @@ Tableau 5
 </tr>
 <tr>
 <td valign="top" width="454">
-<p align="left">Supérieur à 50</p>
+<p>Supérieur à 50</p>
 </td>
 <td valign="top" width="227">
 <p align="center">65</p>

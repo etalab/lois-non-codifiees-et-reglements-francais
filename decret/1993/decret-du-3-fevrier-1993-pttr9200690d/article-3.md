@@ -1,10 +1,8 @@
 # Article 3
 
-Les exploitants de réseaux radioélectriques indépendants à usage partagé autorisés au titre de l'article L. 33-2 du code des postes et télécommunications, autres que ceux visés à l'article 4 du présent décret, sont assujettis au paiement d'une redevance de mise à disposition de fréquences radioélectriques et d'une redevance de gestion. Ces redevances sont dues par le titulaire de l'autorisation, pour l'ensemble des équipements radioélectriques du réseau et de ceux qui lui sont raccordés. Les conditions d'exigibilité sont précisées dans le cahier des charges annexé à l'autorisation.
+Les exploitants de réseaux radioélectriques indépendants à usage partagé autorisés au titre de l'article L. 33-2 du code des postes et télécommunications, autres que ceux visés aux articles 3 bis et 4 du présent décret, sont assujettis au paiement d'une redevance de mise à disposition de fréquences radioélectriques et d'une redevance de gestion. Ces redevances sont dues par le titulaire de l'autorisation, pour l'ensemble des équipements radioélectriques du réseau et de ceux qui lui sont raccordés. Les conditions d'exigibilité sont précisées dans le cahier des charges annexé à l'autorisation.
 
-A. - La redevance de mise à disposition
-
-de fréquences radioélectriques
+A. - La redevance de mise à disposition de fréquences radioélectriques
 
 La redevance pour un réseau radioélectrique à usage partagé est calculée en fonction du nombre total de liaisons terminales correspondant aux stations radioélectriques fixes et mobiles connectées au réseau. Le mode de calcul est le suivant :
 
@@ -73,7 +71,7 @@ b) Réseau monosite utilisant plusieurs voies radioélectriques :
 
 Pour les réseaux utilisant la technique dite à ressources partagées, le calcul est effectué comme si le réseau ne comportait qu'une voie radioélectrique et le nombre de liaisons terminales est majoré de cinq unités par voie radioélectrique utilisée sur le site en sus de la première.
 
-Dans les autres cas, le réseau est considéré comme constitué d'autant de réseaux monosites utilisant chacun une voie radio- électrique. Dans ce cas, les stations fixes et mobiles sont réparties également sur chaque voie radioélectrique et le calcul est effectué comme au a ci-dessus.
+Dans les autres cas, le réseau est considéré comme constitué d'autant de réseaux monosites utilisant chacun une voie radio- électrique. Dans ce cas, les stations fixes et mobiles sont réparties également sur chaque voie radioélectrique et le cacul est effectué comme au a ci-dessus.
 
 c) Réseaux multisites :
 
