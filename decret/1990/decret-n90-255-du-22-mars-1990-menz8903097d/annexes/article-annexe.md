@@ -1,39 +1,41 @@
 # Article Annexe
 
-Diplôme de psychopathologie délivré par l'université Aix-Marseille-II à compter de l'année universitaire 1972-1973 ;
+1. Diplôme de psychopathologie de l'université d'Aix-Marseille, puis de l'université Aix-Marseille-I ;
 
-Diplôme de psychopathologie délivré par l'université de Besançon ;
+2. Diplôme de psychopathologie de l'université de Besançon ;
 
-Diplôme d'études psychologiques et psychosociales (option psychopathologie) délivré par l'université Bordeaux-II ;
+3. Diplôme d'études psychologiques et psychosociales, option Psychopathologie, de l'université de Bordeaux, puis de l'université Bordeaux-III, puis de l'université Bordeaux-II ;
 
-Diplôme de psychologie pratique (options psychopathologie ou psychopédagogie médico-sociale) délivré par l'université Clermont-Ferrand-II ;
+4. Diplôme de psychologie pratique, option Psychopathologie ou option Psychopédagogie médico-sociale, de l'université de Clermont-Ferrand, puis de l'université Clermont-Ferrand-II ;
 
-Diplôme de psychopathologie délivré par l'université de Dijon ;
+5. Diplôme de psychopathologie de l'université de Dijon ;
 
-Diplôme de psychopathologie de l'université Grenoble-II ;
+6. Diplôme de psychopathologie de l'université de Grenoble, puis de l'université Grenoble-II ;
 
-Certificat d'études supérieures de psychologie pathologique délivré par l'université Lille-III ;
+7. Certificat d'études supérieures de psychologie pathologique de l'université Lille-III ;
 
-Diplôme de psychologie pratique (options psychopathologie ou psychopédagogie médico-sociale) délivré par l'université Lyon-II ;
+8. Diplôme de psychologie pratique, option Psychopathologie ou option Psychopédagogie médico-sociale, de l'université de Lyon, puis de l'université Lyon-II ;
 
-Diplôme de psychopathologie et de psychologie appliquée délivré par l'université Montpellier-III ;
+9. Diplôme de psychopathologie et de psychologie appliquée de l'université de Montpellier, puis de l'université Montpellier-III ;
 
-Diplôme de psychologie pathologique délivré par l'université Nancy-II ;
+10. Diplôme de psychologie pathologique de l'université de Nancy, puis de l'université Nancy-II ;
 
-Diplôme de psychologie pathologique de l'institut de psychologie de l'université de Paris ;
+11. Diplôme de psychologie pathologique de l'institut de psychologie de l'université de Paris ;
 
-Diplôme de psychopédagogie spéciale délivré antérieurement à 1969 (exclusivement dans les services d'enfant et de pédiatrie) de l'institut de psychologie de l'université de Paris ;
+12. Diplôme de psychopédagogie spéciale de l'institut de psychologie de l'université de Paris ;
 
-Diplôme de psychologie pathologique de l'université Paris-V ;
+13. Diplôme de psychologie pathologique de l'université Paris-V ;
 
-Diplôme de psychologue clinicien de l'université Paris-VII ;
+14. Diplôme de psychologue clinicien de l'université Paris-VII ;
 
-Certificat d'études supérieures de psychologie pathologique de l'université Paris-X ;
+15. Certificat d'études supérieures de psychologie pathologique de l'université Paris-X ;
 
-Diplôme de psychopathologie clinique, délivré depuis le 1er janvier 1970, de l'Institut catholique de Paris ;
+16. Diplôme de psychopathologie de l'université de Rennes, puis de l'université Rennes-II ;
 
-Certificat d'études supérieures de psychologie pathologique de l'université Rennes-II ;
+17. Certificat d'études supérieures de psychologie pathologique de l'université de Strasbourg, puis de l'université Strasbourg-I ;
 
-Certificat d'études supérieures de psychologie pathologique de l'université Strasbourg-I ;
+18. Diplôme de psychopathologie de l'université de Toulouse, puis de l'université Toulouse-II ;
 
-Diplôme de psychopathologie de l'université Toulouse-II.
+19. Diplôme de psychologue-praticien délivré jusqu'au 31 décembre 1969 par l'Institut catholique de Paris ;
+
+20. Diplôme de psychopathologie clinique délivré depuis le 1er janvier 1970 par l'Institut catholique de Paris.
