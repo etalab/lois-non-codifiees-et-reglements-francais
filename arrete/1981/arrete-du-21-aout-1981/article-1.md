@@ -1,0 +1,3 @@
+# Article 1
+
+Pour toutes les espèces du genre Vaccinum (airelles, dont les myrtilles), le ramassage ou la récolte et la cession à titre gratuit ou onéreux des baies des spécimens non cultivés peuvent être soumis à autorisation ou interdits dans chaque département par un arrêté préfectoral permanent ou temporaire qui fixe, pour une ou plusieurs espèces nommément désignées, l'étendue du territoire concerné, la période d'application de la réglementation ou de l'interdiction, les conditions d'exercice du ramassage ou de la récolte et de la cession [*commercialisation*] ainsi que la qualité des bénéficiaires de l'autorisation.
