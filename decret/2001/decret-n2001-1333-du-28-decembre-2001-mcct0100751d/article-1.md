@@ -1,6 +1,6 @@
 # Article 1
 
-Le présent décret est applicable aux éditeurs de services à vocation nationale diffusés par voie hertzienne terrestre en mode numérique pour leurs services, à l'exclusion :
+Le présent décret est applicable aux éditeurs de services diffusés par voie hertzienne terrestre en mode numérique pour leurs services, à l'exclusion :
 
 1° Des services de radiodiffusion sonore ;
 
