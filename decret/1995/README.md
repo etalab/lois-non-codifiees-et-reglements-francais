@@ -520,6 +520,8 @@
 - [Décret n°95-1030 du 13 septembre 1995 (AGRA9500089D)](decret-n95-1030-du-13-septembre-1995-agra9500089d)
 - [Décret n°95-1102 du 13 octobre 1995 (EQUU9500104D)](decret-n95-1102-du-13-octobre-1995-equu9500104d)
 - [Décret n°95-1103 du 13 octobre 1995 (EQUU9500105D)](decret-n95-1103-du-13-octobre-1995-equu9500105d)
+- [Décret n°95-1106 du 13 octobre 1995 (JUSC9520651D)](decret-n95-1106-du-13-octobre-1995-jusc9520651d)
+- [Décret n°95-1107 du 13 octobre 1995 (EQUG9501332D)](decret-n95-1107-du-13-octobre-1995-equg9501332d)
 - [Décret n°95-278 du 13 mars 1995 (SPSP9500721D)](decret-n95-278-du-13-mars-1995-spsp9500721d)
 - [Décret n°95-282 du 13 mars 1995 (JUSE9540009D)](decret-n95-282-du-13-mars-1995-juse9540009d)
 - [Décret n°95-283 du 13 mars 1995 (INDD9401298D)](decret-n95-283-du-13-mars-1995-indd9401298d)
