@@ -8,6 +8,7 @@
 - [Décret n°64-11 du 3 janvier 1964](decret-n64-11-du-3-janvier-1964)
 - [Décret n°64-225 du 3 novembre 1964](decret-n64-225-du-3-novembre-1964)
 - [Décret n°64-862 du 3 août 1964](decret-n64-862-du-3-aout-1964)
+- [Décret n°64-942 du 3 septembre 1964](decret-n64-942-du-3-septembre-1964)
 - [Décret n°64-203 du 4 mars 1964](decret-n64-203-du-4-mars-1964)
 - [Décret n°66-131 du 4 mars 1966](decret-n66-131-du-4-mars-1966)
 - [Décret n°64-212 du 5 mars 1964](decret-n64-212-du-5-mars-1964)
