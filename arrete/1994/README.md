@@ -264,7 +264,6 @@
 - [Arrêté du 8 août 1994 (SPSA9402635A)](arrete-du-8-aout-1994-spsa9402635a)
 - [Arrêté du 8 août 1994 (SPSA9402636A)](arrete-du-8-aout-1994-spsa9402636a)
 - [Arrêté du 8 août 1994 (SPSA9402637A)](arrete-du-8-aout-1994-spsa9402637a)
-- [Arrêté du 8 août 1994 (TEFT9400919A)](arrete-du-8-aout-1994-teft9400919a)
 - [Arrêté du 8 avril 1994 (ECOC9400050A)](arrete-du-8-avril-1994-ecoc9400050a)
 - [Arrêté du 8 avril 1994 (EQUS9400720A)](arrete-du-8-avril-1994-equs9400720a)
 - [Arrêté du 8 avril 1994 (PRMX9400114A)](arrete-du-8-avril-1994-prmx9400114a)
