@@ -14,4 +14,4 @@ Le maire de Paris nomme le directeur du bureau d'aide sociale. Le directeur du b
 
 6. Administre le patrimoine du bureau d'aide sociale.
 
-Le directeur exerce en outre les attributions qui lui sont confiées par le conseil d'administration ou, dans le cadre de ses pouvoirs propres, par son président.
+Le directeur exerce en outre les attributions qui lui sont déléguées par le conseil d'administration. Le président de celui-ci peut lui déléguer certaines de ses attributions ou sa signature.
