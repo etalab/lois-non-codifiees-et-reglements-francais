@@ -336,7 +336,6 @@
 - [Arrêté du 10 février 2003 (SANH0320537A)](arrete-du-10-fevrier-2003-sanh0320537a)
 - [Arrêté du 10 juillet 2003 (AGRA0301517A)](arrete-du-10-juillet-2003-agra0301517a)
 - [Arrêté du 10 juillet 2003 (DEVG0320216A)](arrete-du-10-juillet-2003-devg0320216a)
-- [Arrêté du 10 juillet 2003 (ECOS0370008A)](arrete-du-10-juillet-2003-ecos0370008a)
 - [Arrêté du 10 juillet 2003 (INDI0301743A)](arrete-du-10-juillet-2003-indi0301743a)
 - [Arrêté du 10 juin 2003 (AGRA0300347A)](arrete-du-10-juin-2003-agra0300347a)
 - [Arrêté du 10 juin 2003 (AGRA0301159A)](arrete-du-10-juin-2003-agra0301159a)
