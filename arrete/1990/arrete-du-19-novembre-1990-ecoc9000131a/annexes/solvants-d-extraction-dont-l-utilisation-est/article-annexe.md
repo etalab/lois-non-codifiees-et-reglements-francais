@@ -22,10 +22,8 @@ Nom et teneurs maximales en résidus dans la denrée alimentaire dus à l'utilis
 
 - Dichlorométhane (1) : 0,02 mg/kg,
 
-- Méthyl-propanol-1 : 1 mg/kg,
-
-- Méthanol : 10 mg/kg,
-
 - Propanol-1 : 1 mg/kg.
+
+- 1,1,1,2 tetrafluoroéthane : 0,02 mg/kg.
 
 (1) L'utilisation combinée de ces deux solvants est interdite.

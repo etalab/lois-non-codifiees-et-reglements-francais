@@ -1,0 +1,15 @@
+# Décret du 13 juillet 1998 relatif à l'appellation d'origine contrôlée "Valençay"
+
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)
+- [Article 14](article-14.md)
+- [Affinage, conditionnement.](affinage-conditionnement)
+- [Agrément.](agrement)
+- [Contrôle des produits.](controle-des-produits)
+- [Type et description du fromage.](type-et)
+- [Etiquetage, identification.](etiquetage-identification)
+- [Fabrication.](fabrication)
+- [Fabrication fermière.](fabrication-fermiere)
+- [Lait mis en oeuvre.](lait-mis)
+- [Troupeau, race, alimentation.](troupeau-race-alimentation)
