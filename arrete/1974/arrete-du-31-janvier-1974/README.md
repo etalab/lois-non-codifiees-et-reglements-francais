@@ -1,4 +1,4 @@
-# Arrêté du 31 janvier 1974 RELATIF A LA DELIVRANCE D'UN DIPLOME D'INGENIEUR AU TITRE DE LA FORMATION CONTINUE.
+# Arrêté du 31 janvier 1974 portant fixation à titre transitoire des dispositions applicables à l'action sociale des caisses d'assurance vieillesse des travailleurs non salariés des professions artisanales, industrielles et commerciales.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
