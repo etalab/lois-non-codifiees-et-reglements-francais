@@ -12,4 +12,6 @@ Pour pouvoir être recruté en qualité de praticien contractuel, le postulant d
 
 5° Etre en position régulière au regard de la réglementation du service national ;
 
-6° Pour les étrangers autres que les ressortissants communautaires, être en situation régulière au regard de la réglementation relative aux conditions de séjour et de travail.
+6° Pour les étrangers autres que les ressortissants communautaires, être en situation régulière au regard de la réglementation relative aux conditions de séjour et de travail ;
+
+7° Etre âgé de moins de soixante-deux ans [*limite d'âge*].
