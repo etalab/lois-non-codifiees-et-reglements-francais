@@ -6,11 +6,11 @@ A. - Fonctions pouvant donner lieu au versement d'une nouvelle bonification indi
 
 2° Chef du service de l'inspection générale de l'administration de l'éducation nationale et de la recherche et doyen de l'inspection générale de l'éducation nationale ;
 
-3° Chef de service et adjoint à un directeur ou à un délégué ;
+3° Chef de service et adjoint à un directeur ou à un délégué et directeur de l'Ecole supérieure de l'éducation nationale ;
 
-4° Sous-directeur ou responsable de la mission emplois jeunes ;
+4° Sous-directeur ;
 
-5° Responsable de la mission scientifique universitaire ;
+5° Responsable de la mission scientifique, technique et pédagogique ;
 
 6° Directeur de projet.
 

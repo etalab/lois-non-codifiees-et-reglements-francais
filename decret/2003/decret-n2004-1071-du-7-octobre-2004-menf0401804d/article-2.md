@@ -1,0 +1,3 @@
+# Article 2
+
+Le ministre d'Etat, ministre de l'économie, des finances et de l'industrie, le ministre de l'éducation nationale, de l'enseignement supérieur et de la recherche, le ministre de la fonction publique et de la réforme de l'Etat et le secrétaire d'Etat au budget et à la réforme budgétaire sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui prend effet à compter du 7 avril 2003, à l'exception des dispositions concernant le directeur de l'Ecole supérieure de l'éducation nationale qui prennent effet à compter du 2 mai 2003, et sera publié au Journal officiel de la République française.

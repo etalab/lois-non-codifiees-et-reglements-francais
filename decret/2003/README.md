@@ -84,6 +84,7 @@
 - [Décret n°2003-34 du 7 janvier 2003 (MENF0202753D)](decret-n2003-34-du-7-janvier-2003-menf0202753d)
 - [Décret n°2003-35 du 7 janvier 2003 (MENF0202754D)](decret-n2003-35-du-7-janvier-2003-menf0202754d)
 - [Décret n°2003-635 du 7 juillet 2003 (INTC0300130D)](decret-n2003-635-du-7-juillet-2003-intc0300130d)
+- [Décret n°2004-1071 du 7 octobre 2004 (MENF0401804D)](decret-n2004-1071-du-7-octobre-2004-menf0401804d)
 - [Décret n°2003-25 du 8 janvier 2003 (SOCT0211932D)](decret-n2003-25-du-8-janvier-2003-soct0211932d)
 - [Décret n°2003-27 du 8 janvier 2003 (MCCK0200844D)](decret-n2003-27-du-8-janvier-2003-mcck0200844d)
 - [Décret n°2003-28 du 8 janvier 2003 (MCCT0200814D)](decret-n2003-28-du-8-janvier-2003-mcct0200814d)
