@@ -6,4 +6,4 @@ Les atteintes à l'intégrité et à la conservation du domaine public de Résea
 
 Les biens immobiliers utilisés pour la poursuite des missions de Réseau ferré de France peuvent être cédés à l'Etat ou à des collectivités territoriales pour des motifs d'utilité publique, moyennant le versement d'une indemnité égale à la valeur de reconstitution.
 
-Les déclassements affectant la consistance du réseau sont soumis à l'autorisation préalable de l'Etat, après avis de la région concernée.
+Les déclassements affectant la consistance du réseau sont soumis à l'autorisation préalable de l'Etat, après avis des collectivités concernées et de la Société nationale des chemins de fer français et consultation des organisations nationales représentatives des usagers des transports.

@@ -2,8 +2,6 @@
 
 L'Etat définit et met en oeuvre la politique nationale du tourisme.
 
-Il assure le recueil, le traitement et la diffusion des données et prévisions relatives à l'activité touristique en liaison et en coopération avec les observatoires régionaux du tourisme.
-
 Sans préjudice des articles L. 141-1 à L. 142-4 du code des communes relatifs aux stations classées, il détermine et met en oeuvre les procédures d'agrément et de classement des équipements, organismes et activités touristiques selon des modalités fixées par décret.
 
 Il définit et conduit les opérations de promotion touristique nationale en liaison avec les collectivités territoriales et les partenaires concernés.
