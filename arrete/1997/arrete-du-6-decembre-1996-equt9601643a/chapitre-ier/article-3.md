@@ -30,4 +30,10 @@ h) Les attestations d'épreuves mentionnées au paragraphe 1.5.5 de l'appendice 
 
 i) Les attestations d'épreuves mentionnées au paragraphe 1.5.5 de l'appendice XI à l'annexe I et se rapportant aux opérations visées par les paragraphes 1.5.2 et 1.5.3 du même appendice.
 
-6. La reconnaissance prévue au paragraphe 5 ci-dessus s'applique dans les mêmes conditions aux décisions, marques et documents pris ou délivrés par les autorités compétentes des pays contractants à la COTIF non membres de l'Union européenne, pour ce qui concerne l'exécution des seuls transports internationaux.
+La reconnaissance prévue ci-dessus s'applique dans les mêmes conditions aux décisions, marques et documents, visés aux points a, c et d, pris ou délivrés par les autorités compétentes des pays appartenant à l'Association européenne de libre-échange.
+
+6. La reconnaissance prévue au paragraphe 5 ci-dessus s'applique également dans les mêmes conditions, mais pour ce qui concerne l'exécution des seuls transports internationaux, aux décisions, marques et documents :
+
+- visés aux points b et e à j, pris ou délivrés par les autorités compétentes des pays appartenant à l'Association européenne de libre-échange ;
+
+- pris ou délivrés par les autorités compétentes des pays contractants à la COTIF membres ni de l'Union européenne, ni de l'Association européenne de libre-échange.
