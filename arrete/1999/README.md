@@ -12,6 +12,7 @@
 - [Arrêté du 5 janvier 1999 (MENS9803407A)](arrete-du-5-janvier-1999-mens9803407a)
 - [Arrêté du 5 juillet 2000 (MENF0000925A)](arrete-du-5-juillet-2000-menf0000925a)
 - [Arrêté du 6 avril 1999 (MESA9921168A)](arrete-du-6-avril-1999-mesa9921168a)
+- [Arrêté du 6 janvier 1999 (MCCI9900004A)](arrete-du-6-janvier-1999-mcci9900004a)
 - [Arrêté du 6 janvier 1999 (MESM9822837A)](arrete-du-6-janvier-1999-mesm9822837a)
 - [Arrêté du 7 décembre 1979](arrete-du-7-decembre-1979)
 - [Arrêté du 7 février 2000 (ECOT0010398A)](arrete-du-7-fevrier-2000-ecot0010398a)
