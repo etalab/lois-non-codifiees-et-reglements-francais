@@ -12,6 +12,8 @@ Camionnettes, camions, autobus et autocars, véhicules très spéciaux soumis au
 
 Motocycles, vélomoteurs, tricycles à moteur sans cabine. - Un rétroviseur situé sur la partie gauche.
 
-Tricycles à moteur avec cabine et quadricycles à moteur. - Ces véhicules devront être munis d'un rétroviseur intérieur et d'un rétroviseur extérieur situé à gauche s'ils sont affectés au transport de personnes et de deux rétroviseurs, situés l'un à droite, l'autre à gauche, s'ils sont affectés au transport de marchandises.
+Voiturettes, tricycles à moteur avec cabine et quadricycles à moteur.
+
+Ces véhicules devront être munis d'un rétroviseur intérieur et d'un rétroviseur extérieur situé à gauche s'ils sont affectés au transport de personnes et de deux rétroviseurs extérieurs situés l'un à droite, l'autre à gauche, s'ils sont affectés au transport de marchandises.
 
 Tracteurs, machines agricoles, matériels de travaux publics comportant une cabine fermée. - Un rétroviseur extérieur situé à gauche.
