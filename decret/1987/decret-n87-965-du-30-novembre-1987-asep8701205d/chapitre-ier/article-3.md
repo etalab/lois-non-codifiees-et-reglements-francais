@@ -6,7 +6,7 @@ Les personnes composant les équipages des véhicules spécialement adaptés au 
 
 2. Sapeurs-pompiers titulaires du brevet national de secourisme et des mentions ranimation et secourisme routier, ou sapeurs-pompiers de Paris ou marins-pompiers de Marseille ;
 
-3. Personnes titulaires du brevet national de secourisme ou de la carte d'auxiliaire sanitaire, ou appartenant à une des professions réglementées aux titres Ier et II du livre IV du code de la santé publique ;
+3. Personnes soit titulaires du brevet national de secourisme ou du brevet national des premiers secours, ou de l'attestation de formation aux premiers secours, ou de la carte d'auxiliaire sanitaire, soit appartenant à une des professions réglementées aux titres Ier et II du livre IV du code de la santé publique ;
 
 4. Conducteurs d'ambulance.
 
