@@ -10,11 +10,13 @@ La convention porte notamment sur un ou plusieurs des points suivants :
 
 2° Le temps consacré à la diffusion d'oeuvres audiovisuelles d'expression originale française en première diffusion en France, la part du chiffre d'affaires consacrée à l'acquisition des droits de diffusion de ces oeuvres ainsi que la grille horaire de leur programmation ;
 
-2° bis La proportion substantielle d'oeuvres musicales créées ou interprétées par des auteurs et artistes français ou francophones, devant atteindre avant le 1er janvier 1996 un minimum de 40 % de chansons d'expression française, dont la moitié au moins provenant de nouveaux talents ou de nouvelles productions, diffusées aux heures d'écoute significatives par chacun des services de radiodiffusion sonore autorisés par le Conseil supérieur de l'audiovisuel, pour la part de ses programmes composée de musique de variété ;
+2° bis La proportion substantielle d'oeuvres musicales créées ou interprétées par des auteurs et artistes français ou francophones, devant atteindre avant le 1er janvier 1996 un minimum de 40 % de chansons d'expression française, dont la moitié au moins provenant de nouveaux talents ou de nouvelles productions, diffusées aux heures d'écoute significatives par chacun des services de radiodiffusion sonore autorisés par le Conseil supérieur de l'audiovisuel, pour la part de ses programmes composée de musique de variété ;.
 
 3° La diffusion, au moins deux fois par semaine, à des heures de grande écoute d'émissions d'expression originale française ou originaires de la Communauté européenne ;
 
 4° La part du chiffre d'affaires consacrée à l'acquisition des droits de diffusion d'oeuvres cinématographiques d'expression originale française ;
+
+4° bis Les dispositions propres à assurer le respect de la langue française et le rayonnement de la francophonie ;
 
 5° La diffusion de programmes éducatifs et culturels ainsi que d'émissions destinées à faire connaître les différentes formes d'expression artistique ;
 
@@ -24,11 +26,11 @@ La convention porte notamment sur un ou plusieurs des points suivants :
 
 8° La contribution à la diffusion d'émissions de radiodiffusion sonore ou de télévision dans les départements, territoires et collectivités territoriales d'outre-mer, à la connaissance, en métropole, de ces départements, territoires et collectivités territoriales et à la diffusion des programmes culturels de ces collectivités ;
 
-9° La contribution à la diffusion à l'étranger d'émissions de radiodiffusion sonore ou de télévision ;
+9° La contribution à la diffusion à l'étranger d'émissions de
 
-10° Le temps maximum consacré à la publicité, aux émissions
+radiodiffusion sonore ou de télévision ;
 
-parrainées, ainsi que les modalités de leur insertion dans les programmes ;
+10° Le temps maximum consacré à la publicité, aux émissions parrainées, ainsi que les modalités de leur insertion dans les programmes ;
 
 11° Le concours complémentaire au soutien financier de l'industrie cinématographique et de l'industrie de programmes audiovisuels, dans les conditions d'affectation fixées par la loi de finances ;
 

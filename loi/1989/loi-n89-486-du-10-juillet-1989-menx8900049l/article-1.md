@@ -4,6 +4,8 @@ L'éducation est la première priorité nationale. Le service public de l'éduca
 
 Le droit à l'éducation est garanti à chacun afin de lui permettre de développer sa personnalité, d'élever son niveau de formation initiale et continue, de s'insérer dans la vie sociale et professionnelle, d'exercer sa citoyenneté.
 
+La maîtrise de la langue française et la connaissance de deux autres langues font partie des objectifs fondamentaux de l'enseignement.
+
 L'acquisition d'une culture générale et d'une qualification reconnue est assurée à tous les jeunes, quelle que soit leur origine sociale, culturelle ou géographique. L'intégration scolaire des jeunes handicapés est favorisée. Les établissements et services de soins et de santé y participent.
 
 Les écoles, les collèges, les lycées et les établissements d'enseignement supérieur sont chargés de transmettre et de faire acquérir connaissances et méthodes de travail. Ils contribuent à favoriser l'égalité entre les hommes et les femmes. Ils dispensent une formation adaptée dans ses contenus et ses méthodes aux évolutions économiques, technologiques, sociales et culturelles du pays et de son environnement européen et international. Cette formation peut comprendre un enseignement, à tous les niveaux, de langues et cultures régionales. Les enseignement artistiques ainsi que l'éducation physique et sportive concourent directement à la formation de tous les élèves. Dans l'enseignement supérieur, des activités physiques et sportives sont proposées aux étudiants.

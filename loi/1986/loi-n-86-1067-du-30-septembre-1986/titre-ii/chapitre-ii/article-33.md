@@ -6,6 +6,8 @@ Un décret en Conseil d'Etat pris après avis du Conseil supérieur de l'audiovi
 
 2° Les règles générales de programmation ;
 
+2° bis Les dispositions propres à assurer le respect de la langue française et le rayonnement de la francophonie ;
+
 3° Les conditions générales de production des oeuvres diffusées ;
 
 4° Les règles applicables à la publicité et au parrainage ;

@@ -20,12 +20,14 @@ II. - Un décret en Conseil d'Etat définit, pour chaque catégorie de services 
 
 - la sauvegarde du pluralisme.
 
+- le respect de la langue française et le rayonnement de la francophonie.
+
 Conformément à ces règles, la convention définit les obligations particulières au service considéré ainsi que les prérogatives et les pénalités contractuelles dont dispose le Conseil supérieur de l'audiovisuel pour assurer le respect des obligations conventionnelles.
 
-III. - Pour l'application du paragraphe II de l'article 39 et du troisième alinéa de l'article 41, le titulaire d'un agrément pour ces services de radiodiffusion sonore ou de télévision est regardé comme le titulaire d'une autorisation relative à un service diffusé par satellite dès lors que ce service peut être effectivement reçu par plus de six millions de personnes. L'agrément cesse de produire effet lorsque le titulaire se trouve en infraction avec les dispositions du paragraphe II de l'article 39 et du troisième alinéa de l'article 41.
+III. - Pour l'application du paragraphe II de l'article 39 et du troisième alinéa de l'article 41, le titulaire d'un agrément pour ces services de radiodiffusion sonore ou de télévision est regardé comme le titulaire d'une autorisation relative à un service diffusé par satellite dès lors que ce service peut être effectivement reçu par plus de six millions de personnes. L'agrément cesse de produire effet lorsque le titulaire se trouve en infraction avec les dispositions du paragraphe II de l'article 39 et du troisième alinéa de
 
-L'alinéa précédent ne s'applique pas à la reprise intégrale et
+l'article 41.
 
-simultanée des services diffusés par voie hertzienne terrestre ou sur des fréquences exclusivement affectées à la radiodiffusion sonore et à la télévision par satellite.
+L'alinéa précédent ne s'applique pas à la reprise intégrale et simultanée des services diffusés par voie hertzienne terrestre ou sur des fréquences exclusivement affectées à la radiodiffusion sonore et à la télévision par satellite.
 
 Les articles 35, 36, 37, 38 et le 2° de l'article 41-3 sont applicables aux titulaires d'un agrément.
