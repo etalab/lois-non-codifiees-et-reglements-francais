@@ -4,6 +4,4 @@
 - [Titre II : Comités régionaux des transports](titre-ii)
 - [Titre III : Comités départementaux des transports](titre-iii)
 - [Titre IV : Dispositions diverses et transitoires.](titre-iv)
-- [Article 22](article-22.md)
-- [Article 23](article-23.md)
 - [Article 60](article-60.md)
