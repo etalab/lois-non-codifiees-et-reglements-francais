@@ -97,6 +97,7 @@
 - [Décret n°75-882 du 22 septembre 1975](decret-n75-882-du-22-septembre-1975)
 - [Décret n°75-310 du 23 avril 1975](decret-n75-310-du-23-avril-1975)
 - [Décret n°75-891 du 23 septembre 1975](decret-n75-891-du-23-septembre-1975)
+- [Décret n°75-975 du 23 octobre 1975](decret-n75-975-du-23-octobre-1975)
 - [Décret n°75-109 du 24 février 1975](decret-n75-109-du-24-fevrier-1975)
 - [Décret n°75-170 du 24 février 1975](decret-n75-170-du-24-fevrier-1975)
 - [Décret n°75-313 du 24 avril 1975](decret-n75-313-du-24-avril-1975)
