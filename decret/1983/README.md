@@ -181,6 +181,7 @@
 - [Décret n°83-662 du 20 juillet 1983](decret-n83-662-du-20-juillet-1983)
 - [Décret n°83-922 du 20 octobre 1983](decret-n83-922-du-20-octobre-1983)
 - [Décret n°83-928 du 20 octobre 1983](decret-n83-928-du-20-octobre-1983)
+- [Décret n°83-1116 du 21 décembre 1983](decret-n83-1116-du-21-decembre-1983)
 - [Décret n°83-128 du 21 février 1983](decret-n83-128-du-21-fevrier-1983)
 - [Décret n°83-220 du 21 mars 1983](decret-n83-220-du-21-mars-1983)
 - [Décret n°83-236 du 21 mars 1983](decret-n83-236-du-21-mars-1983)
