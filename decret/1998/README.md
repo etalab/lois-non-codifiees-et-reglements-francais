@@ -332,6 +332,7 @@
 - [Décret n°98-239 du 27 mars 1998 (MESP9820595D)](decret-n98-239-du-27-mars-1998-mesp9820595d)
 - [Décret n°98-244 du 27 mars 1998 (MENS9800564D)](decret-n98-244-du-27-mars-1998-mens9800564d)
 - [Décret n°98-245 du 27 mars 1998 (MENS9800601D)](decret-n98-245-du-27-mars-1998-mens9800601d)
+- [Décret n°98-315 du 27 avril 1998 (ECOX9800035D)](decret-n98-315-du-27-avril-1998-ecox9800035d)
 - [Décret n°98-60 du 27 janvier 1998 (AGRE9702400D)](decret-n98-60-du-27-janvier-1998-agre9702400d)
 - [Décret n°92-872 du 28 août 1992 (INTB9200384D)](decret-n92-872-du-28-aout-1992-intb9200384d)
 - [Décret n°98-52 du 28 janvier 1998 (MESP9723639D)](decret-n98-52-du-28-janvier-1998-mesp9723639d)
