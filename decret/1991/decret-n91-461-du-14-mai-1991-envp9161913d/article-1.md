@@ -1,3 +1,3 @@
 # Article 1
 
-Les dispositions mentionnées à l'article 41 de la loi n° 87-565 du 22 juillet 1987 susvisée destinées à la mise en oeuvre de la prévention du risque sismique et applicables aux bâtiments, équipements et installations nouveaux sont définies par le présent décret.
+Le présent décret définit les modalités d'application de l'article 41 de la loi du 22 juillet 1987 susvisée, en ce qui concerne les règles particulières de construction parasismique pouvant être imposées aux équipements, bâtiments et installations dans les zones particulièrement exposées à un risque sismique.
