@@ -1,5 +1,6 @@
 # 1995
 
+- [Décret n°95-3 du 2 janvier 1995 (ECOT9510225D)](decret-n95-3-du-2-janvier-1995-ecot9510225d)
 - [Décret n°96-88 du 2 février 1996 (EQUH9600141D)](decret-n96-88-du-2-fevrier-1996-equh9600141d)
 - [Décret n°96-173 du 6 mars 1996 (JUSF9650013D)](decret-n96-173-du-6-mars-1996-jusf9650013d)
 - [Décret n°95-567 du 6 mai 1995 (SPSG9500984D)](decret-n95-567-du-6-mai-1995-spsg9500984d)
@@ -22,7 +23,10 @@
 - [Décret n°94-1149 du 27 décembre 1994 (SPSS9403717D)](decret-n94-1149-du-27-decembre-1994-spss9403717d)
 - [Décret n°95-468 du 27 avril 1995 (SPSS9500754D)](decret-n95-468-du-27-avril-1995-spss9500754d)
 - [Décret n°94-1228 du 30 décembre 1994 (AGRA9402239D)](decret-n94-1228-du-30-decembre-1994-agra9402239d)
+- [Décret n°94-1229 du 30 décembre 1994 (FPPA9400146D)](decret-n94-1229-du-30-decembre-1994-fppa9400146d)
 - [Décret n°94-1230 du 30 décembre 1994 (SPSS9403649D)](decret-n94-1230-du-30-decembre-1994-spss9403649d)
+- [Décret n°94-1231 du 30 décembre 1994 (SPSS9403933D)](decret-n94-1231-du-30-decembre-1994-spss9403933d)
+- [Décret n°94-1232 du 30 décembre 1994 (BUDB9410120D)](decret-n94-1232-du-30-decembre-1994-budb9410120d)
 - [Décret n°96-79 du 30 janvier 1996 (MENF9502346D)](decret-n96-79-du-30-janvier-1996-menf9502346d)
 - [Décret n°96-965 du 30 octobre 1996 (ACVE9550017D)](decret-n96-965-du-30-octobre-1996-acve9550017d)
 - [Décret n°97-571 du 30 mai 1997 (EQUP9700030D)](decret-n97-571-du-30-mai-1997-equp9700030d)
