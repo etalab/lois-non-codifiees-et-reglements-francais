@@ -1,3 +1,5 @@
 # Article 2
 
-La réception C.E.E. en ce qui concerne les émissions de polluants provenant des moteurs Diesel destinés à la propulsion des véhicules est accordé par l'ingénieur en chef des mines chargé de l'arrondissement de Paris aux véhicules répondant aux prescriptions des annexes au présent arrêté.
+Le laboratoire de l'Union technique de l'automobile, du motocycle et du cycle, autodrome de Linas-Montlhéry, 91 Linas-Montlhéry, est agréé pour effectuer les essais prévus par ledit règlement.
+
+Les essais sont à la charge du demandeur.

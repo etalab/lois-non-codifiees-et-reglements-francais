@@ -1,3 +1,3 @@
 # Article 1
 
-On entend par véhicule, au sens du présent arrêté, tout véhicule à moteur destiné à circuler sur route, ayant au moins quatre roues et à une vitesse maximale par construction supérieure à 25 km/h, à l'exception des véhicules qui se déplacent sur rails, des tracteurs et machines agricoles, ainsi que des engins de travaux publics [*définition*].
+L'ingénieur en chef des mines, chargé de l'arrondissement minéralogique de Paris, accorde les homologations prévues par le règlement n° 24 "Prescriptions uniformes relatives à l'homologation des véhicules équipés de moteurs Diesel en ce qui concerne les émissions de polluants par le moteur" figurant en annexe au présent arrêté.

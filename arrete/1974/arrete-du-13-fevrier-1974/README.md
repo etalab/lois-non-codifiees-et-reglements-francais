@@ -1,4 +1,4 @@
-# Arrêté du 13 février 1974 relatif à la réception C.E.E. (communauté économique européenne) des véhicules en ce qui concerne les émissions de *gaz* polluants provenant des moteurs Diesel destinés à la propulsion des véhicules
+# Arrêté du 13 février 1974 relatif à l'homologation des véhicules suivant les dispositions du règlement n° 24 "Prescriptions uniformes relatives à l'homologation des véhicules équipés de moteurs Diesel en ce qui concerne les émissions de *gaz* polluants par le moteur" annexé à l'accord de Genève du 20 Mars 1958
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -6,4 +6,3 @@
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
-- [Annexes](annexes)
