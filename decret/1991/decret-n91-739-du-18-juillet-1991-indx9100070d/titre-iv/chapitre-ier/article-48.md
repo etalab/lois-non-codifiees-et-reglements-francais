@@ -1,4 +1,4 @@
-# Article 52
+# Article 48
 
 Les chambres de commerce et d'industrie ne peuvent se réunir en assemblée générale que toutes catégories et sous-catégories professionnelles confondues.
 

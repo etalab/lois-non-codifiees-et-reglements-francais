@@ -1,4 +1,4 @@
-# Section 3 : Délégués consulaires.
+# Section 3 : Membres associés.
 
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)

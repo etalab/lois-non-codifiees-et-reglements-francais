@@ -1,7 +1,7 @@
 # Article 5
 
-Lorsque, dans la circonscription d'une chambre de commerce et d'industrie, l'existence de foyers d'activités économiques présentant des problèmes particuliers le rend nécessaire, des délégations peuvent y être créées par arrêté du ministre chargé de la tutelle administrative des chambres de commerce et d'industrie, sur proposition de la chambre et après avis de la commission prévue par l'article 2 du présent décret. Les membres associés, prévus par l'article 4 de la loi du 9 avril 1898 susvisée, peuvent en faire partie avec voix consultative.
+Lorsque, dans la circonscription d'une chambre de commerce et d'industrie, l'existence de bassins d'activités économiques le rend nécessaire, des délégations correspondant à des limites administratives peuvent y être créées par arrêté préfectoral. Toutefois, aucune délégation ne peut être créée au-delà du 31 mai de l'année au cours de laquelle il est procédé au renouvellement de la chambre de commerce et d'industrie.
 
-Le nombre des membres de la délégation et leur répartition entre catégories et sous-catégories professionnelles sont fixés par arrêté du préfet dans les conditions prévues à l'article 3.
+Le nombre de membres de la délégation et leur répartition entre catégories et sous-catégories professionnelles sont arrêtés par le préfet dans les conditions prévues à l'article 4.
 
-Les membres de la délégation sont élus suivant les mêmes règles que celles qui sont applicables aux membres de la chambre de commerce et d'industrie.
+Les membres de la délégation sont élus lors des élections de la chambre de commerce et d'industrie et répartis entre catégories et sous-catégories selon les mêmes règles que celles qui sont applicables aux autres membres de la chambre de commerce et d'industrie.

@@ -1,4 +1,4 @@
-# Article 49
+# Article 45
 
 Les compagnies consulaires mentionnées ci-dessus adoptent un règlement intérieur relatif à leur organisation et à leur fonctionnement, qui fixe, entre autres dispositions :
 
@@ -14,4 +14,4 @@ Les compagnies consulaires mentionnées ci-dessus adoptent un règlement intéri
 
 6° Les conditions dans lesquelles le directeur général de la chambre de commerce et d'industrie est habilité à représenter son président.
 
-Les dispositions prévues aux 2°, 3° et 4° ci-dessus ne peuvent pas être modifiées dans l'année d'un renouvellement triennal.
+Les dispositions prévues aux 2°, 3° et 4° ci-dessus ne peuvent pas être modifiées dans l'année d'un renouvellement.

@@ -1,4 +1,4 @@
-# Article 43
+# Article 40
 
 Toute chambre de commerce et d'industrie peut faire partie d'une chambre régionale de commerce et d'industrie dont la circonscription est limitrophe de la sienne, pour participer à une de ses activités spécifiques, sous réserve de lui verser une cotisation à cet effet et d'y être autorisée par le ministre chargé de la tutelle administrative des chambres de commerce et d'industrie.
 
