@@ -1,0 +1,7 @@
+# Article 2
+
+Sont susceptibles d'ouvrir droit, dans les conditions et limites prévues ci-après, à attribution gratuite de points de retraite proportionnelle au titre du présent décret les années comprises entre le 1er juillet 1952 et le 31 décembre 1998 pour la métropole et le 1er janvier 1964 et le 31 décembre 1998 pour les départements d'outre-mer, effectuées en qualité de conjoint ou d'aide familial majeur en application de l'article 1122-1 du code rural, et qui ne peuvent donner lieu à quelque titre que ce soit à attribution de points. Pour l'application de cette disposition, les points acquis dans le cadre des articles 33 et 34 du décret du 31 mai 1955 susvisé sont toutefois considérés comme réimputés au chef d'exploitation ou d'entreprise.
+
+Lorsque la durée réelle d'activité non salariée agricole excède trente-sept années et demie, le nombre d'années, déterminées dans les conditions prévues au premier alinéa et donnant droit à revalorisation, est égal à la différence entre trente-sept années et demie et la durée d'activité susceptible de donner lieu à attribution de points de retraite proportionnelle à un autre titre que celui de la présente mesure.
+
+Pour les pensions dues à compter du 1er janvier 1999, les périodes donnant lieu à revalorisation sont différenciées selon qu'elles ont été accomplies en qualité de conjoint participant aux travaux de l'exploitation ou de l'entreprise ou en qualité d'aide familial.

@@ -2,6 +2,7 @@
 
 - [Article 1](article-1.md)
 - [Article 16](article-16.md)
+- [3.1. Validité des certificats médicaux](3-1-validite-des-certificats-medicaux)
 - [Annexes](annexes)
 - [Autorités](autorites)
 - [Cas particuliers](cas)
