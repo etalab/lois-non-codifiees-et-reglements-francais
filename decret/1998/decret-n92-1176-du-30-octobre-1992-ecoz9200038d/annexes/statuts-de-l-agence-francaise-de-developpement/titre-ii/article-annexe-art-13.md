@@ -16,4 +16,6 @@ f) Les achats et les ventes d'immeubles ;
 
 g) Les créations ou suppressions d'agence ou de représentation ;
 
-h) Les transactions sur les intérêts de l'agence et les clauses compromissoires.
+h) Les transactions sur les intérêts de l'agence et les clauses compromissoires ;
+
+i) Les conventions conclues en application du deuxième alinéa de l'article 7 dès lors qu'elles concernent des opérations d'un montant supérieur à un seuil fixé par le conseil de surveillance.
