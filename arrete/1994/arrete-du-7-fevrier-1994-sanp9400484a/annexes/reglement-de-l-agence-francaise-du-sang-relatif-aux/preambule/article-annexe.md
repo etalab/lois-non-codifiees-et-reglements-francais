@@ -1,5 +1,0 @@
-# Article Annexe
-
-Les bonnes pratiques de préparation des produits sanguins labiles s'intègrent dans l'ensemble des bonnes pratiques transfusionnelles comme la suite logique des bonnes pratiques de prélèvement. Elles ont pour objectif de fournir un cadre à l'organisation générale de la préparation. L'application de cette réglementation doit aboutir à la mise en place d'un système de maîtrise et de surveillance de la qualité ayant pour but d'apporter un maximum de garanties au niveau de la sécurité transfusionnelle des produits sanguins labiles. Un ensemble de fiches techniques relatives à chaque produit fera l'objet de recommandations ultérieures. Les bonnes pratiques de préparation s'appliquent aux produits de transfusion homologue ; les bonnes pratiques concernant les produits autologues feront l'objet d'un règlement spécifique.
-
-D'autres méthodes que celles décrites dans ce règlement permettent de répondre aux principes d'assurance de la qualité. Ce règlement ne devrait, en aucune façon, freiner l'évolution de nouvelles technologies ou de nouveaux concepts, à condition qu'ils aient été validés et qu'ils procurent un niveau de garantie au moins équivalent.
