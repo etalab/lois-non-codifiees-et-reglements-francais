@@ -24,7 +24,7 @@ Le rapport net payé à la combinaison "MULTI en 4" est alors égal à 15 fois l
 
 Si l'application de l'article 92 ou des règles énoncées ci-dessus conduit à un rapport net "MULTI en 6" inférieur à 1,10 F, il est fait application des dispositions de l'article 18 du présent arrêté.
 
-Si le rapport obtenu est toujours inférieur à 1,10 F, la masse à partager, telle que résultant de l'application des dispositions du paragaphe ci-avant, est diminuée du montant des paiements à 1,10 F des combinaisons "MULTI en 6".
+Si le rapport obtenu est toujours inférieur à 1,10 F, la masse à partager, telle que résultant de l'application des dispositions du paragraphe 1 ci-avant, est diminuée du montant des paiements à 1,10 F des combinaisons "MULTI en 6".
 
 3. Le calcul des rapports bruts des combinaisons "MULTI en 5" et "MULTI en 4" s'effectue comme suit :
 
@@ -40,7 +40,7 @@ Le rapport net payé à la combinaison "MULTI en 4" est alors égal à 5 fois le
 
 Si l'application de l'article 92 ou des règles énoncées ci-dessus conduit à un rapport net "MULTI en 5" inférieur à 1,20 F, il est fait application des dispositions de l'article 18 du présent arrêté.
 
-Si le rapport obtenu est inférieur à 1,20 F, la masse à partager, telle que résultant de l'application des dispositions des paragraphes 1 et 2 ci-avant, est diminuée du montant des paiements à 1,20 F des combinaisons "MULTI en 5".
+Si le rapport obtenu est toujours inférieur à 1,20 F, la masse à partager, telle que résultant de l'application des dispositions des paragraphes 1 et 2 ci-avant, est diminuée du montant des paiements à 1,20 F des combinaisons "MULTI en 5".
 
 4. Le calcul du rapport brut de la combinaison "MULTI en 4" s'effectue comme suit :
 
