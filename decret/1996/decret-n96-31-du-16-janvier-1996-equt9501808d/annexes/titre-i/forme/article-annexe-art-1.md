@@ -1,3 +1,0 @@
-# Article Annexe, art. 1
-
-La société constituée entre Electricité de France et la Compagnie nationale du Rhône en application des dispositions de l'article 2 de la loi n° 80-3 du 4 janvier 1980 modifiée est une société par actions simplifiée dont le capital est fixé à 250 000 F, et souscrit en numéraire à parité entre Electricité de France et la Compagnie nationale du Rhône. Elle est régie par l'ensemble des dispositions législatives ou réglementaires de droit commun auxquelles sont assujetties les sociétés par actions simplifiées sauf en tant que la loi précitée du 4 janvier 1980 et ses dispositions réglementaires d'application y dérogent.

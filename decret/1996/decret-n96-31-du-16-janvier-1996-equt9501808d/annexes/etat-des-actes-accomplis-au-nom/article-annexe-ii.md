@@ -1,3 +1,0 @@
-# Article Annexe II
-
-Néant.
