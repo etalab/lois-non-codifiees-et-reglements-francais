@@ -12,6 +12,6 @@ Les bateaux vendus à Voies navigables de France dans le cadre de ces opération
 
 - soit être dotés d'un permis d'exploitation et avoir subi une visite technique au sens des dispositions des décret et arrêté respectivement des 7 et 17 mars 1988 susvisés.
 
-Le montant de cette aide, limité à 150 000 F par opération, est fixé à 20 p. 100 de l'écart entre le prix du bateau racheté et celui du bateau vendu.
+Le montant de cette aide, limité à 200 000 F par opération, est fixé à 20 p. 100 de l'écart entre le prix du bateau racheté et celui du bateau vendu.
 
 La revente d'un bateau dont le propriétaire a bénéficié de l'aide prévue au présent article ne peut ouvrir droit à une aide de même nature au profit du second acheteur.
