@@ -19,3 +19,5 @@ Ce fonds a pour objet :
 Le produit de la taxe perçue au titre des installations d'élimination de déchets industriels spéciaux est affecté exclusivement au traitement et à la réhabilitation des sites mentionnés au sixième alinéa.
 
 Un comité présidé par le ministre chargé de l'environnement ou son représentant prend les décisions d'affectation des sommes perçues au titre des installations d'élimination de déchets industriels spéciaux.
+
+Le prélèvement institué sur le produit de la taxe visée à l'article 22-1 au titre du recouvrement de celle-ci et de la gestion technique et financière du fonds est fixé en 1996 et en 1997 par arrêté conjoint du ministre chargé de l'environnement et du ministre chargé du budget, dans la limite de 8 p. 100 du produit brut de la taxe.
