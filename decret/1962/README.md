@@ -1,6 +1,7 @@
 # 1962
 
 - [Décret n°62-235 du 1 mars 1962](decret-n62-235-du-1-mars-1962)
+- [Décret du 2 août 1877](decret-du-2-aout-1877)
 - [Décret n°62-132 du 2 février 1962](decret-n62-132-du-2-fevrier-1962)
 - [Décret n°61-501 du 3 mai 1961](decret-n61-501-du-3-mai-1961)
 - [Décret n°64-23 du 8 janvier 1964](decret-n64-23-du-8-janvier-1964)
@@ -17,6 +18,7 @@
 - [Décret n°63-1313 du 24 décembre 1963](decret-n63-1313-du-24-decembre-1963)
 - [Décret n°62-1439 du 26 novembre 1962](decret-n62-1439-du-26-novembre-1962)
 - [Décret n°62-217 du 26 février 1962](decret-n62-217-du-26-fevrier-1962)
+- [Décret n°62-367 du 26 mars 1962](decret-n62-367-du-26-mars-1962)
 - [Décret n°62-120 du 27 janvier 1962](decret-n62-120-du-27-janvier-1962)
 - [Décret n°61-1168 du 30 octobre 1961](decret-n61-1168-du-30-octobre-1961)
 - [Décret n°61-1535 du 30 décembre 1961](decret-n61-1535-du-30-decembre-1961)
