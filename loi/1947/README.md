@@ -6,6 +6,7 @@
 - [Loi n° 47-1566 du 23 août 1947](loi-n-47-1566-du-23-aout-1947)
 - [Loi n° 47-1775 du 10 septembre 1947](loi-n-47-1775-du-10-septembre-1947)
 - [Loi n° 47-2384 du 27 décembre 1947](loi-n-47-2384-du-27-decembre-1947)
+- [Loi n° 47-2395 du 30 décembre 1947](loi-n-47-2395-du-30-decembre-1947)
 - [Loi n° 47-520 du 21 mars 1947](loi-n-47-520-du-21-mars-1947)
 - [Loi n° 47-585 du 2 avril 1947](loi-n-47-585-du-2-avril-1947)
 - [Loi n°47-1635 du 30 août 1947](loi-n47-1635-du-30-aout-1947)
