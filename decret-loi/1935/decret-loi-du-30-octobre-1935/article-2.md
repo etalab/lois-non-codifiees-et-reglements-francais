@@ -1,7 +1,11 @@
 # Article 2
 
-Le versement des retenues qui n'auraient pas été régulièrement payées peut toujours être effectué par le fonctionnaire ou l'agent intéressé, mais augmenté d'un intérêt de retard calculé au taux légal à partir du septième mois suivant l'échéance semestrielle. Ne sont pas frappées de cet intérêt les sommes qui auraient été versées en retard, en raison de la rétroactivité d'un changement de classe ou de grade dans le cadre d'origine, et les retenues exigibles sous un régime antérieur à celui prévu par le présent décret.
+Les gisements naturels d'huîtres et établissements ostréicoles de toute nature sont soumis à la surveillance établie par le décret du 31 juillet 1923 ; autour de ces gisements et établissements, il est institué un périmètre de protection dont l'étendue est déterminée par décret pris sur la proposition du ministre de la santé publique et du ministre de la marine marchande.
 
-Aucune liquidation de pension ne peut être consentie au profit d'un fonctionnaire ou d'un agent en service détaché ou qui aurait été en service détaché, si la situation de ses versements n'est pas à jour, ou n'a pas été régularisée comme il est indiqué au paragraphe précédent. Seules des avances sur pension tenant compte des versements acquis pourront être consenties dans des conditions à déterminer, et notamment sous la réserve d'un prélèvement allant du quart à la moitié desdites avances, et destiné à régulariser la
+Sur toute l'étendue de ce périmètre, il sera interdit de faire tout dépôt et déversement solide ou liquide susceptible de nuire à la qualité hygiénique des produits ostréicoles.
 
-situation des versements.
+Dans le cas où les agents chargés du contrôle de ces gisements et établissements constateraient un dépôt ou déversement pouvant constituer un danger pour les produits ostréicoles, le préfet prend, aux frais de l'exploitant, toutes mesures utiles pour faire cesser toute pratique contraire à la salubrité de ces gisements et établissements.
+
+En ce qui concerne les causes d'insalubrité inhérentes aux gisements et établissements ostréicoles et aux établissements et gisements coquilliers, il est procédé par le ministère de la marine marchande, conformément aux dispositions du décret-loi du 9 janvier 1852 et des règlements intervenus pour l'application de ce décret-loi. En outre, il est procédé, pour les gisements et établissements ostréicoles, en exécution des dispositions du décret réglementaire du 31 juillet 1923.
+
+Les dispositions du présent article s'appliquent aux gisements naturels et établissements coquilliers.
