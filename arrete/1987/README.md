@@ -235,6 +235,7 @@
 - [Arrêté du 26 janvier 1987 (DEFP8701071A)](arrete-du-26-janvier-1987-defp8701071a)
 - [Arrêté du 26 mars 1987 (ASES8700495A)](arrete-du-26-mars-1987-ases8700495a)
 - [Arrêté du 26 mars 1987 (ASES8700510A)](arrete-du-26-mars-1987-ases8700510a)
+- [Arrêté du 27 avril 1987 (INTB8700144A)](arrete-du-27-avril-1987-intb8700144a)
 - [Arrêté du 27 avril 1987 (PTTC8700258A)](arrete-du-27-avril-1987-pttc8700258a)
 - [Arrêté du 27 février 1987](arrete-du-27-fevrier-1987)
 - [Arrêté du 27 février 1987 (ASET8703126A)](arrete-du-27-fevrier-1987-aset8703126a)
