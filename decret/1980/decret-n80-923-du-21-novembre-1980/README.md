@@ -7,6 +7,4 @@
 - [chapitre IV : Instruction des demandes d'autorisation et dispositions diverses](chapitre-iv)
 - [Chapitre V : Dispositions pénales.](chapitre-v)
 - [Article 34](article-34.md)
-- [Dispositions applicables à la publicité non lumineuse en agglomération](dispositions-applicables-a)
-- [Dispositions pénales](dispositions-penales)
 - [Article Execution](article-execution.md)
