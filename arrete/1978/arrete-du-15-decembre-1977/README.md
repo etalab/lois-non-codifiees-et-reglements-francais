@@ -1,6 +1,7 @@
 # Arrêté du 15 décembre 1977 fixant les critères et procédures du classement applicable aux établissements privés mentionnés à l'article L275 du code de la sécurité sociale et prévu par l'article 2 du décret n° 73-183 du 22 février 1973.
 
 - [Article 1](article-1.md)
+- [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)

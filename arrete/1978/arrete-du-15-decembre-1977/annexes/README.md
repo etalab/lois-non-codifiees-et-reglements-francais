@@ -2,6 +2,9 @@
 
 - [TABLEAU N° 1 permettant de déterminer, en fonction de la capacité de l'établissement, l'effectif normatif en nombre d'agents présents quotidiennement et en postes de travail.](tableau-1)
 - [TABLEAU N° 2 permettant de déterminer, en fonction de la capacité de l'établissement, le nombre "normatif" d'heures de travail qui doivent être effectuées par semaine.](tableau-2)
+- [Critères de classement pour la chirurgie à soins particulièrement coûteux.](criteres-de-classement-pour-la-chirurgie-a)
+- [Critères de classement pour la médecine à soins particulièrement coûteux.](criteres-de-classement-pour-la-medecine-a)
+- [Critères applicables aux établissements d'hospitalisation pratiquant l'hémodialyse.](criteres-applicables-aux)
 - [Classement des établissements chirurgicaux.](classement-des-etablissements-chirurgicaux)
 - [Classement des établissements d'accouchement.](classement-des-etablissements-d-accouchement)
 - [Classement des établissements médicaux.](classement-des-etablissements-medicaux)
