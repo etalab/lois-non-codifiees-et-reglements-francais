@@ -587,7 +587,6 @@
 - [Arrêté du 28 décembre 1987 (ASES8701922A)](arrete-du-28-decembre-1987-ases8701922a)
 - [Arrêté du 28 décembre 1987 (CSCX8798682A)](arrete-du-28-decembre-1987-cscx8798682a)
 - [Arrêté du 28 décembre 1987 (TRSA8700445A)](arrete-du-28-decembre-1987-trsa8700445a)
-- [Arrêté du 28 janvier 1987 (ECOM8710013A)](arrete-du-28-janvier-1987-ecom8710013a)
 - [Arrêté du 28 janvier 1987 (PTTT8700065A)](arrete-du-28-janvier-1987-pttt8700065a)
 - [Arrêté du 28 juillet 1987 (INTB8700280A)](arrete-du-28-juillet-1987-intb8700280a)
 - [Arrêté du 28 octobre 1987 (ECOT8719011A)](arrete-du-28-octobre-1987-ecot8719011a)

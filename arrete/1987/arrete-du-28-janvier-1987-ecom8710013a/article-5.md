@@ -1,3 +1,0 @@
-# Article 5
-
-Pour tenir compte de la situation particulière des petites et moyennes entreprises, des dispositions simplifiées dérogeant à celles du cahier des clauses comptables peuvent être introduites dans les protocoles comptables conclus avec ces entreprises ou, à défaut, dans les marchés qu'elles passent avec le secteur public, à condition que les obligations comptables auxquelles lesdites entreprises seraient astreintes soient telles qu'elles leur permettent, dans tous les cas, d'appliquer les dispositions des articles 231 à 237 du code des marchés publics ainsi que les dispositions des cahiers des clauses administratives générales relatives aux obligations comptables applicables aux titulaires de marchés passés au nom de l'Etat.
