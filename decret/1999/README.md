@@ -556,7 +556,6 @@
 - [Décret n°99-633 du 19 juillet 1999 (ECOF9920911D)](decret-n99-633-du-19-juillet-1999-ecof9920911d)
 - [Décret n°99-634 du 19 juillet 1999 (ECOM9900703D)](decret-n99-634-du-19-juillet-1999-ecom9900703d)
 - [Décret n°99-885 du 19 octobre 1999 (MENS9902154D)](decret-n99-885-du-19-octobre-1999-mens9902154d)
-- [Décret n°99-886 du 19 octobre 1999 (MENF9901993D)](decret-n99-886-du-19-octobre-1999-menf9901993d)
 - [Décret n°99-888 du 19 octobre 1999 (ECOI9900389D)](decret-n99-888-du-19-octobre-1999-ecoi9900389d)
 - [Décret n°99-890 du 19 octobre 1999 (EQUA9901214D)](decret-n99-890-du-19-octobre-1999-equa9901214d)
 - [Décret n°99-891 du 19 octobre 1999 (AGRM9901975D)](decret-n99-891-du-19-octobre-1999-agrm9901975d)

@@ -1,3 +1,0 @@
-# Article 3
-
-Les directions des vérifications de la région Ile-de-France assurent, dans les limites de la région Ile-de-France et concurremment avec les directions territoriales compétentes, toutes opérations relatives à l'assiette et au contrôle de tous impôts, droits, prélèvements et taxes, à l'égard des personnes physiques ou morales, groupements de droit ou de fait, ou entités qui ont déposé ou auraient dû déposer, auprès des services déconcentrés des impôts de la région, une déclaration, un acte ou tout autre document, ainsi qu'à l'égard des personnes, groupements ou entités qui, même en l'absence d'obligation déclarative, ont été ou auraient dû être imposés par ces mêmes services.
