@@ -4,13 +4,15 @@ Les candidats doivent remplir les conditions suivantes pour faire acte de candid
 
 Etre titulaire de l'un des brevets suivants :
 
-Capitaine au long cours ;
+- capitaine ;
 
-Capitaine de 1re classe de la navigation maritime ;
+- capitaine au long cours ;
 
-Capitaine de 2e classe de la navigation maritime ;
+- capitaine de 1re classe de la navigation maritime ;
 
-Capitaine de la marine marchande ;
+- capitaine de 2e classe de la navigation maritime ;
+
+- capitaine de la marine marchande ;
 
 - être âgé de trente-cinq ans au moins à la date de l'examen ;
 
