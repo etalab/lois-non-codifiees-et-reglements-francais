@@ -16,4 +16,4 @@ Ils peuvent être détachés :
 
 6° Pour exercer une fonction publique élective autre que celles mentionnées à l'article 37 ou un mandat syndical, lorsque la fonction ou le mandat ne permet pas d'assurer normalement les obligations de service telles qu'elles sont définies aux articles 22 à 24.
 
-7° Détachement auprès d'un groupement d'intérêt public entrant dans l'un des cas prévus aux articles L. 668-1 (4e alinéa, 2°), L. 710-17 et L. 713-12 du code de la santé publique.
+7° Détachement auprès d'un groupement d'intérêt public entrant dans l'un des cas prévus aux articles L. 6115-1 et L. 6134-1 du code de la santé publique.
