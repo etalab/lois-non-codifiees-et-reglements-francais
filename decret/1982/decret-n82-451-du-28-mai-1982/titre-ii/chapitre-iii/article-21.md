@@ -6,7 +6,7 @@ a) Nombre total de sièges
 
 de représentants titulaires attribués à chaque liste
 
-Chaque liste a droit à autant de sièges de représentants titulaires que le nombre moyen de voix recueilli par elle contient de fois le quotient électoral.
+Chaque liste a droit à autant de sièges de représentants titulaires que le nombre de voix recueillies par elle contient de fois le quotient électoral.
 
 Les sièges de représentants titulaires restant éventuellement à pourvoir sont attribués suivant la règle de la plus forte moyenne.
 
@@ -26,12 +26,8 @@ c) Désignation des représentants titulaires
 
 de chaque grade
 
-Pour chacun des grades pour lesquels une liste a demandé à être représentée, le candidat figurant sur cette liste qui, pour le grade considéré, a obtenu le plus grand nombre de suffrages est proclamé élu.
-
-Toutefois, la désignation du candidat est faite dans l'ordre de présentation lorsque la différence des nombres de voix obtenus par deux candidats ne dépasse pas 25 % [*pourcentage maximum*] du nombre de voix obtenu par le candidat le moins favorisé de la liste pour le grade considéré.
-
-En cas d'égalité du nombre de voix obtenu par les fonctionnaires d'un même grade figurant sur la même liste, la désignation du candidat élu est faite dans l'ordre de présentation sur la liste.
+Les représentants titulaires sont désignés selon l'ordre de présentation de la liste.
 
 d) Dispositions spéciales
 
-Dans le cas où deux listes ont la même moyenne, et où il ne reste qu'un siège à pourvoir, ledit siège est attribué à la liste qui a recueilli le plus grand nombre de suffrages. Si les deux listes en cause ont également recueilli le même nombre de voix, le siège est attribué à celui des candidats figurant sur l'une de ces deux listes ayant obtenu le plus grand nombre de voix. Si plusieurs candidats de ces deux listes ont obtenu le même nombre de voix, le plus âgé d'entre eux est proclamé élu.
+Dans le cas où deux listes ont la même moyenne, et où il ne reste qu'un siège à pourvoir, ledit siège est attribué à la liste qui a recueilli le plus grand nombre de voix. Si les deux listes en cause ont recueilli le même nombre de voix, le siège est attribué au plus âgé des candidats en présence.
