@@ -1,5 +1,6 @@
 # 1972
 
+- [Décret n°72-1028 du 2 novembre 1972](decret-n72-1028-du-2-novembre-1972)
 - [Décret n°72-950 du 3 octobre 1972](decret-n72-950-du-3-octobre-1972)
 - [Décret n°60-424 du 4 mai 1960](decret-n60-424-du-4-mai-1960)
 - [Décret n°72-988 du 5 octobre 1972](decret-n72-988-du-5-octobre-1972)
