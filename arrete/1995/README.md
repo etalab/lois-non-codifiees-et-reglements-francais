@@ -1211,7 +1211,6 @@
 - [Arrêté du 26 avril 1995 (SPSS9501393A)](arrete-du-26-avril-1995-spss9501393a)
 - [Arrêté du 26 avril 1995 (SPSS9501394A)](arrete-du-26-avril-1995-spss9501394a)
 - [Arrêté du 26 janvier 1995 (EQUS9500183A)](arrete-du-26-janvier-1995-equs9500183a)
-- [Arrêté du 26 janvier 1995 (INTB9500052A)](arrete-du-26-janvier-1995-intb9500052a)
 - [Arrêté du 26 janvier 1995 (JUSA9500053A)](arrete-du-26-janvier-1995-jusa9500053a)
 - [Arrêté du 26 janvier 1995 (RESM9500104A)](arrete-du-26-janvier-1995-resm9500104a)
 - [Arrêté du 26 juillet 1995 (AGRE9501522A)](arrete-du-26-juillet-1995-agre9501522a)
