@@ -1,6 +1,5 @@
 # Définition des emplois
 
-- [Article Annexe 2](article-annexe-2.md)
 - [Archives.](archives)
 - [Bibliothèques.](bibliotheques)
 - [Ecoles de musique et de beaux-arts.](ecoles-de-musique-et)
