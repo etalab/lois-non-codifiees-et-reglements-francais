@@ -1,8 +1,8 @@
 # Article 3
 
-Sont soumis à une déclaration par leur fabricant ou leur fournisseur, auprès du directeur de la réglementation générale, attestant de leur conformité aux exigences de la protection du spectre radioélectrique :
+Sont soumis à une déclaration par leur fabricant ou leur fournisseur, auprès du directeur de la réglementation générale, attestant de leur conformité aux exigences de la protection du spectre radioélectrique:
 
-A. - Les équipements radioélectriques assurant exclusivement des fonctions de réception, et notamment les récepteurs de services de radiomessagerie unilatérale ou des services fixes par satellites.
+A. - Lorsque aucune réglementation technique commune ne leur est applicable, les équipements radioélectriques assurant exclusivement des fonctions de réception, et notamment les récepteurs de services de radiomessagerie unilatérale ou des services fixes par satellites.
 
 B. - Les appareils radioélectriques suivants :
 

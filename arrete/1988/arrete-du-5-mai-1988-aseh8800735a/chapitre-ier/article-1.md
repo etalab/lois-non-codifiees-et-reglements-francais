@@ -6,4 +6,16 @@ En application de l'article 15 du décret du 7 avril 1988 susvisé, il est organ
 
 - la zone dite "zone géographique Sud", qui regroupe les circonscriptions Rhône-Alpes, Ouest, Sud, Sud-Ouest et départements d'outre-mer ;
 
-Dans chaque zone géographique, le concours est unique pour toutes les disciplines d'internat. Il se déroule simultanément dans les villes choisies comme centres d'épreuves. Il est organisé par les préfets de région mentionnés à l'article 2 du présent arrêté. Les médecins inspecteurs régionaux de la santé participent à cette organisation. Les centres hospitaliers universitaires de la région peuvent assister les préfets de région dans l'exécution de leur mission.
+Dans chaque zone géographique, le concours est unique pour toutes les disciplines d'internat.
+
+Les épreuves se déroulent :
+
+- pour la zone Nord : à Paris ;
+
+- pour la zone Sud : à Nantes et à Montpellier.
+
+Les candidats de la zone Sud se répartissent de la manière suivante entre les deux centres d'épreuves :
+
+- participent aux épreuves à Montpellier les candidats originaires des universités Aix-Marseille-II, Clermont-Ferrand-I, Grenoble-I, Lyon-I, Montpellier-I, Nice, Saint-Etienne et Toulouse-III ;
+
+- participent aux épreuves à Nantes les candidats originaires des universités d'Amiens, Angers, Besançon, Bordeaux-II, Brest, Caen, Dijon, Lille-II, Limoges, Nancy, Nantes, Paris-V, VI, VII, XI, XII et XIII, Poitiers, Reims, Rennes, Rouen, Strasbourg-I, Tours et de la faculté libre de médecine de Lille.

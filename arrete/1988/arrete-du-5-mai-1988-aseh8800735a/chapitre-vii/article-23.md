@@ -8,7 +8,7 @@ Les candidats doivent envoyer par lettre recommandée avec avis de réception à
 
 Pour tous les candidats :
 
-a) Le formulaire de demande de candidature dûment rempli et signé précisant pour la zone dont le candidat n'est pas originaire la ville où il souhaite passer les épreuves et, dans le cas où il concourt dans la zone géographique Sud, s'il demande à être classé au titre des départements d'outre-mer ;
+a) Le formulaire de demande de candidature dûment rempli et signé, précisant la ou les zones où il souhaite être candidat, et dans le cas où il concourt dans la zone géograhique Sud s'il demande à être classé au titre des départements d'outre-mer.
 
 Le candidat choisissant de concourir au titre de sa zone géographique d'origine a l'obligation de subir les épreuves dans le centre d'examen de l'interrégion dont il relève pour l'inscription ;
 

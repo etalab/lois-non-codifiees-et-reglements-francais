@@ -14,6 +14,12 @@ Les Q.C.M. retenues pour cette épreuve sont de deux types :
 
 3° Epreuve de dossiers diagnostiques et thérapeutiques :
 
-La durée de la première épreuve est fixée à quatre heures comprenant deux parties de deux heures avec une interruption de trente minutes entre ces deux parties ; la durée de la deuxième épreuve est fixée à deux heures. La durée totale de la troisième épreuve est fixée à six heures réparties en deux parties de trois heures.
+La durée de la première épreuve est fixée à trois heures comprenant deux parties de une heure et demie chacune ; la durée de la deuxième épreuve est fixée à une heure. La durée de la troisième épreuve est fixée à six heures comprenant deux parties de trois heures chacune.
 
-Si un incident grave vient à interrompre une épreuve ou partie d'épreuve dans un centre de concours, ou si une erreur matérielle grave dans le libellé des questions met les candidats dans l'impossibilité de composer, le président du jury de la zone concernée, défini à l'article 14 du présent arrêté, peut décider de suspendre le déroulement de cette épreuve, ou partie d'épreuve, dans tous les centres de concours de la zone géographique, afin de procéder éventuellement à l'utilisation immédiate de l'épreuve ou partie d'épreuve correspondante du concours de réserve.
+Le jury de chaque zone se réunit avant l'ouverture des épreuves pour examiner les sujets. Il peut annuler, en cas d'erreur matérielle grave, des questions de QCM et CCQCM. Les questions ainsi annulées ne sont pas remplacées.
+
+Il peut également annuler, pour le même motif, deux dossiers au maximum sur les douze dossiers de la troisième épreuve.
+
+Le dossier annulé est remplacé par recours aux épreuves de réserve correspondantes.
+
+Après l'ouverture des épreuves, le président du jury a la possibilité, en cas d'erreur matérielle grave ou d'incident grave, de suspendre le déroulement d'une épreuve ou partie d'épreuve et de procéder éventuellement à l'utilisation immédiate de l'épreuve ou partie d'épreuve correspondante du concours de réserve.
