@@ -49,4 +49,3 @@
 - [Décret n°75-996 du 28 octobre 1975](decret-n75-996-du-28-octobre-1975)
 - [Décret n°75-543 du 30 juin 1975](decret-n75-543-du-30-juin-1975)
 - [Décret n°75-60 du 30 janvier 1975](decret-n75-60-du-30-janvier-1975)
-- [Décret n°74-1184 du 31 décembre 1974](decret-n74-1184-du-31-decembre-1974)

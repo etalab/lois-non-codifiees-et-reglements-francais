@@ -1,9 +1,0 @@
-# Article 6
-
-Le directeur de l'institut est nommé par l'administrateur général après avis du conseil d'administration du Conservatoire national des arts et métiers et de la commission technique de l'institut. Un directeur adjoint et un secrétaire général peuvent être nommés par l'administrateur général, sur proposition du directeur de l'institut.
-
-Le personnel enseignant vacataire ou contractuel de l'institut est nommé par l'administrateur général sur proposition du directeur de l'institut, après avis de la commission technique.
-
-Les personnels ingénieurs, techniciens, administratifs, ouvriers et de service sont nommés par l'administrateur général, après avis du directeur de l'institut.
-
-L'administrateur général peut déléguer au directeur de l'institut ses compétences en matière de nomination du personnel enseignant vacataire.
