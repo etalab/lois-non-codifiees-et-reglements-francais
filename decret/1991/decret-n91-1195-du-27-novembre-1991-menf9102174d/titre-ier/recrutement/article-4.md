@@ -22,7 +22,7 @@ a) Un concours sur titres et travaux est ouvert aux titulaires des qualification
 
 b) Un concours sur épreuves est ouvert aux titulaires des qualifications et diplômes leur conférant le droit à l'exercice de la médecine en France, âgés de quarante-cinq ans au plus au 1er janvier de l'année du concours.
 
-2. Pour un tiers des postes à pourvoir, un concours sur titres et travaux est ouvert aux médecins et comptant au moins quatre années de service en titulaires des qualifications et diplômes leur conférant le droit à l'exercice de la médecine en France qualité de :
+2. Pour un tiers des postes à pourvoir, un concours sur titres et travaux est ouvert aux médecins et comptant au moins trois années de service en titulaires des qualifications et diplômes leur conférant le droit à l'exercice de la médecine en France qualité de :
 
 - médecin titulaire ou contractuel de l'Etat et des établissements publics en dépendant, des collectivités territoriales et des établissements publics en dépendant ;
 
@@ -32,4 +32,4 @@ b) Un concours sur épreuves est ouvert aux titulaires des qualifications et dip
 
 Les emplois qui n'auraient pas été pourvus par la nomination de candidats à l'un des concours ci-dessus peuvent être attribués aux candidats des autres concours ou de l'un des autres concours.
 
-Ce même concours est également ouvert aux médecins vacataires de santé scolaire titulaires des qualifications et diplômes leur conférant le droit à l'exercice de la médecine en France qui, au plus tard à la date de clôture des registres d'inscription audit concours, justifient d'une durée de services publics effectifs au moins égale à quatre ans d'équivalent temps plein accomplis au cours des huit années précédentes.
+Ce même concours est également ouvert aux médecins vacataires de santé scolaire titulaires des qualifications et diplômes leur conférant le droit à l'exercice de la médecine en France qui, au plus tard à la date de clôture des registres d'inscription audit concours, justifient d'une durée de services publics effectifs au moins égale à trois ans d'équivalent temps plein accomplis au cours des huit années précédentes.
