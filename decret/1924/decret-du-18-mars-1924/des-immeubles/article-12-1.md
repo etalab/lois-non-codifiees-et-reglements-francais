@@ -1,11 +1,5 @@
 # Article 12-1
 
-La commission départementale des monuments historiques a pour mission [*attributions*] :
+Lorsqu'elle concerne les travaux pour lesquels le permis de construire, le permis de démolir ou l'autorisation mentionnée à l'article R. 442-2 du code de l'urbanisme est nécessaire, la déclaration prévue au cinquième alinéa de l'article 2 de la loi du 31 décembre 1913 sur les monuments historiques est effectuée dans les conditions prévues, respectivement, aux articles R. 421-38-2, L. 430-8 et R. 430-5 dudit code.
 
-De veiller à la protection des immeubles qui, dans le département, présentent un intérêt au point de vue de l'histoire ou de l'art ;
-
-De susciter et d'entretenir dans l'opinion publique un état d'esprit favorable à la sauvegarde de ces immeubles ;
-
-D'émettre un avis sur les propositions d'inscriptions sur l'inventaire supplémentaire des monuments historiques qui lui sont soumises en application de l'article 12 ;
-
-De donner un avis sur les questions dont elle est saisie par le ministre compétent ou par le préfet pour l'application des dispositions du chapitre 1er de la loi du 31 décembre 1913, à l'exception des articles 13 bis et 13 ter de cette loi.
+Dans les autres cas, cette déclaration est effectuée par le propriétaire de l'immeuble ou son mandataire ou par une personne justifiant d'un titre l'habilitant à y faire les travaux projetés ou ayant qualité pour bénéficier de l'expropriation pour cause d'utilité publique. Elle est accompagnée d'un dossier comprenant les éléments mentionnés au cinquième alinéa de l'article 10 ci-dessus. Elle remise contre décharge au directeur régional des affaires culturelles, ou, à défaut, lui est adressée par lettre recommandée avec demande d'avis de réception postal. Le délai de quatre mois mentionné au cinquième alinéa de l'article 2 de la loi du 31 décembre 1913 sur les monuments historiques court à compter de la réception d'un dossier complet.
