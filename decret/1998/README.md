@@ -538,8 +538,6 @@
 - [Décret n°98-97 du 18 février 1998 (ATEN9860014D)](decret-n98-97-du-18-fevrier-1998-aten9860014d)
 - [Décret n°99-119 du 18 février 1999 (AGRA9802149D)](decret-n99-119-du-18-fevrier-1999-agra9802149d)
 - [Décret n°98-384 du 18 mai 1998 (MESG9820694D)](decret-n98-384-du-18-mai-1998-mesg9820694d)
-- [Décret du 19 octobre 1998 (ECOC9800106D)](decret-du-19-octobre-1998-ecoc9800106d)
-- [Décret du 19 octobre 1998 (ECOC9800107D)](decret-du-19-octobre-1998-ecoc9800107d)
 - [Décret n°73-1045 du 19 novembre 1973](decret-n73-1045-du-19-novembre-1973)
 - [Décret n°91-1301 du 19 décembre 1991 (SANH9102362D)](decret-n91-1301-du-19-decembre-1991-sanh9102362d)
 - [Décret n°96-1117 du 19 décembre 1996 (EQUX9600145D)](decret-n96-1117-du-19-decembre-1996-equx9600145d)

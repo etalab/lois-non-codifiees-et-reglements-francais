@@ -704,7 +704,6 @@
 - [Arrêté du 22 janvier 1993 (MENL9304047A)](arrete-du-22-janvier-1993-menl9304047a)
 - [Arrêté du 22 janvier 1993 (MERG9200202A)](arrete-du-22-janvier-1993-merg9200202a)
 - [Arrêté du 22 janvier 1993 (MJSK9370032A)](arrete-du-22-janvier-1993-mjsk9370032a)
-- [Arrêté du 22 janvier 1993 (SANH9300218A)](arrete-du-22-janvier-1993-sanh9300218a)
 - [Arrêté du 22 janvier 1993 (TEFT9300093A)](arrete-du-22-janvier-1993-teft9300093a)
 - [Arrêté du 22 juillet 1993 (COMA9300022A)](arrete-du-22-juillet-1993-coma9300022a)
 - [Arrêté du 22 juillet 1993 (COMK9303001A)](arrete-du-22-juillet-1993-comk9303001a)
