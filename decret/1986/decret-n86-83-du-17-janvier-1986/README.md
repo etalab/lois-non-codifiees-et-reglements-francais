@@ -1,0 +1,14 @@
+# Décret n°86-83 du 17 janvier 1986 relatif aux dispositions générales applicables aux agents non titulaires de l'Etat pris pour l'application de l'article 7 de la loi n° 84-16 du 11 janvier 1984 portant dispositions statutaires relatives à la fonction publique de l'Etat
+
+- [Titre Ier : Dispositions générales](titre-ier)
+- [Titre II : Modalités de recrutement](titre-ii)
+- [Titre IV : Congés pour raison de santé](titre-iv)
+- [Titre V : Congés non rémunérés pour raisons familiales ou personnelles](titre-v)
+- [Titre VI : Absences résultant d'une obligation légale.](titre-vi)
+- [Titre VII : Condition d'ouverture des droits à congé.](titre-vii)
+- [Titre VIII : Condition de réemploi](titre-viii)
+- [Titre IX : Travail à temps partiel](titre-ix)
+- [Titre X : Discipline.](titre-x)
+- [Titre XI : Fin du contrat - Licenciement](titre-xi-fin)
+- [Titre XII : Indemnité de licenciement](titre-xii)
+- [Article 58](article-58.md)
