@@ -218,7 +218,6 @@
 - [Arrêté du 5 juillet 1995 (SANH9502092A)](arrete-du-5-juillet-1995-sanh9502092a)
 - [Arrêté du 5 mars 1998 (EQUP9800086A)](arrete-du-5-mars-1998-equp9800086a)
 - [Arrêté du 5 octobre 1995 (DOME9500068A)](arrete-du-5-octobre-1995-dome9500068a)
-- [Arrêté du 5 octobre 1995 (ECOP9500445A)](arrete-du-5-octobre-1995-ecop9500445a)
 - [Arrêté du 5 octobre 1995 (SANP9502315A)](arrete-du-5-octobre-1995-sanp9502315a)
 - [Arrêté du 5 septembre 1995 (AGRG9501775A)](arrete-du-5-septembre-1995-agrg9501775a)
 - [Arrêté du 5 septembre 1995 (PRMX9500978A)](arrete-du-5-septembre-1995-prmx9500978a)
