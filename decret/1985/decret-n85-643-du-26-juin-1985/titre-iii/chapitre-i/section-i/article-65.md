@@ -2,32 +2,26 @@
 
 Sont affiliés au centre interdépartemental de gestion de la petite couronne de la région d'Ile-de-France :
 
-1° A titre obligatoire pour la gestion de leurs fonctionnaires titulaires et stagiaires de catégories B, C et D à temps complet ou à temps non complet à l'exception de ceux de la catégorie B dont la gestion relève du centre national de gestion ;    a) Les communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ;
+" 1° A titre obligatoire :
 
-b) Les établissements publics administratifs communaux de ces trois départements ;
+" a) Les communes des départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne qui emploient moins de 250 fonctionnaires titulaires ou stagiaires à temps complet ;
 
-c) Les établissements publics administratifs intercommunaux dont le siège est situé dans l'un de ces départements.
+" b) Les communes de ces mêmes départements qui, n'employant aucun fonctionnaire titulaire ou stagiaire à temps complet, emploient au moins un fonctionnaire à temps non complet ;
 
-2° A titre obligatoire pour la gestion de leurs fonctionnaires titulaires et stagiaires de catégories B, à temps complet ou à temps non complet, à l'exception de ceux d'entre eux dont la gestion relève du centre national de gestion :
+" c) Les communes qui n'emploient que des agents non titulaires ;
 
-a) Les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ;
+" d) Les établissemnts publics administratifs communaux et intercommunaux qui ont leur siège dans l'un de ces trois départements et qui répondent aux conditions définies aux a, b, et c ci-dessus.
 
-b) Les établissements publics administratifs de l'un de ces trois départements ;
+" 2° A titre volontaire :
 
-c) Les établissements publics administratifs des communes, des départements et des régions dont la compétence est nationale et dont le siège est à Paris ;
+" a) Les communes de ces trois départements employant au moins 250 fonctionnaires titulaires ou stagiaires à temps complet quel que soit le nombre des fonctionnaires titulaires ou stagiaires à temps non complet ;
 
-d) Le centre interdépartemental de gestion et le centre interdépartemental de formation de la petite couronne de la région d'Ile-de-France.
+" b) Les établissements publics communaux et intercommunaux qui ont leur siège dans l'un de ces trois départements et qui répondent aux conditions définies au a du 2° ci-dessus ;
 
-3° A titre obligatoire pour la gestion de leurs fonctionnaires titulaires et stagiaires de catégories C et D, les établissements publics administratifs mentionnés au c du 2° ci-dessus qui emploient de 1 à 199 fonctionnaires de catégories C et D à temps complet, quel que soit le nombre des fonctionnaires à temps non complet de catégorie C ou D, ou qui, n'employant aucun fonctionnaire à temps complet de catégorie C ou D, emploient au moins un fonctionnaire de catégorie C ou D à temps non complet.
+" c) Les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ;
 
-4° A titre volontaire pour la gestion de leurs fonctionnaires titulaires et stagiaires de catégories C et D à temps complet ou à temps non complet :
+" d) Les établissements publics administratifs départementaux ou interdépartementaux, les syndicats mixtes groupant exclusivement des collectivités territoriales et leurs établissements publics administratifs qui ont leur siège dans l'un de ces trois départements ;
 
-a) Les départements des Hauts-de-Seine, de la Seine-Saint-Denis et du Val-de-Marne ;
+" e) Le centre interdépartemental de gestion ;
 
-b) Les établissements publics administratifs de ces trois départements et les syndicats mixtes groupant exclusivement des collectivités territoriales et leurs établissements publics administratifs qui ont leur siège dans l'un de ces trois départements ;
-
-c) Les établissements publics administratifs des communes, des départements et des régions dont la compétence est nationale et dont le siège est à Paris qui emploient au moins 200 fonctionnaires de catégories C et D à temps complet, quel que soit le nombre des fonctionnaires à temps non complet de catégorie C ou D, ou qui n'emploient aucun fonctionnaire de catégorie C ou D ;
-
-d) Le centre interdépartemental de gestion et le centre interdépartemental de formation de la petite couronne de la région parisienne.
-
-En outre, les collectivités et les établissements publics administratifs mentionnés aux 1°, 2°, 3° et 4° ci-dessus peuvent s'affilier à titre volontaire lorsqu'ils n'emploient aucun fonctionnaire.
+" f) Les établissements publics administratifs des communes, des départements et des régions dont la compétence est nationale et dont le siège est à Paris et qui emploient au moins 250 fonctionnaires à temps complet, quel que soit le nombre des fonctionnaires à temps non complet, à l'exception du Centre national de la fonction publique territoriale. "
