@@ -46,6 +46,8 @@ Carrières de l'information.
 
 Carrières sociales.
 
+Carrières juridiques et judiciaires, Transport logistique.
+
 Brevet de pilote de ligne.
 
 Brevet de capitaine au long cours.
@@ -112,6 +114,8 @@ Ecole de l'air.
 
 Ecole nationale supérieure des P. T. T.
 
+Diplôme de premier cycle économique du Conservatoire national des arts et métiers (DPCE)
+
 Diplôme universitaire d'études scientifiques.
 
 Diplôme d'études juridiques générales.
@@ -127,6 +131,8 @@ Statistiques et techniques quantitatives.
 Administration des collectivités publiques et des entreprises (option Finances, comptabilité).
 
 Techniques de commercialisation.
+
+Carrières juridiques et judiciaires, Transport logistique.
 
 Diplôme, d'ingénieur figurant sur la liste dressée par la commission des titres d'ingénieur en application de la loi du 10 juillet 1934.
 
@@ -180,6 +186,8 @@ Chimie.
 
 Biologie appliquée.
 
+Génie chimique, Hygiène et sécurité.
+
 Brevets de technicien supérieur délivrés par le ministère de l'éducation nationale (art. 35 du décret n° 59-57 du 6 janvier 1959) :
 
 Chimiste
@@ -223,6 +231,8 @@ Informatique.
 Mesures physiques.
 
 Biologie appliquée.
+
+Génie chimique, Génie thermique, Hygiène et sécurité.
 
 Diplôme d'études supérieures techniques d'université ou du Conservatoire national des arts et métiers.
 

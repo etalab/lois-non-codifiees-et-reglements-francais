@@ -39,3 +39,5 @@ Diplôme d'Etat de manipulateur d'électroradiologie.
 Titre d'ancien élève de l'école militaire de la flotte admis aux examens de sortie.
 
 Certificat d'aptitude pédagogique des instituteurs.
+
+Diplôme d'Etat d'éducateur spécialisé.
