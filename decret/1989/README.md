@@ -267,7 +267,6 @@
 - [Décret n°89-901 du 18 décembre 1989 (MENT8902455D)](decret-n89-901-du-18-decembre-1989-ment8902455d)
 - [Décret n°89-320 du 18 mai 1989 (DOMP8900015D)](decret-n89-320-du-18-mai-1989-domp8900015d)
 - [Décret n°89-249 du 19 avril 1989 (SPSH8900706D)](decret-n89-249-du-19-avril-1989-spsh8900706d)
-- [Décret n°89-254 du 19 avril 1989 (DEFD8901347D)](decret-n89-254-du-19-avril-1989-defd8901347d)
 - [Décret n°89-31 du 19 janvier 1989 (MICT8900040D)](decret-n89-31-du-19-janvier-1989-mict8900040d)
 - [Décret n°89-32 du 19 janvier 1989 (PTTT8800733D)](decret-n89-32-du-19-janvier-1989-pttt8800733d)
 - [Décret n°89-400 du 19 juin 1989 (SPSS8900517D)](decret-n89-400-du-19-juin-1989-spss8900517d)
