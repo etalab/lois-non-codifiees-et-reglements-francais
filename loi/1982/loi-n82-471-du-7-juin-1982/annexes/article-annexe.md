@@ -1,376 +1,339 @@
 # Article ANNEXE
 
-TABLEAU ANNEXE fixant les circonscriptions électorales, leurs chefs-lieux et le nombre de sièges à pourvoir dans chacune d'elles pour l'élection des membres du Conseil supérieur des Français de l'étranger.
+Tableau n° 1 annexé à l'article 1er de la loi n° 82-471 du 7 juin 1982
 
-------------------------------------------------------------------- :                                      : NOMBRE : CHEF-LIEU       :
+Répartition des sièges de membres élus du Conseil supérieur des Français de l'étranger entre les séries
 
-<table>
-<tr>
-<td> :   CIRCONSCRIPTIONS ELECTORALES       :   de   :     de          :</td>
-</tr>
-<tr>
-<td> :                                      : sièges : circonscription :</td>
-</tr>
-<tr>
-<td> :--------------------------------------:--------:-----------------:</td>
-</tr>
-<tr>
-<td> :             Amérique.                :        :                 :</td>
-</tr>
-<tr>
-<td> :  Canada :                            :        :                 :</td>
-</tr>
-<tr>
-<td> :  1re circonscription :               :        :                 :</td>
-</tr>
-<tr>
-<td> : circonscriptions consulaires de      :        :                 :</td>
-</tr>
-<tr>
-<td> : Edmonton, Moncton et Halifax,        :        :                 :</td>
-</tr>
-<tr>
-<td> : Ottawa, Toronto, Vancouver et        :        :                 :</td>
-</tr>
-<tr>
-<td> : Winnipeg                             :   2    : Ottawa.         :</td>
-</tr>
-<tr>
-<td> :  2e circonscription :                :        :                 :</td>
-</tr>
-<tr>
-<td> : circonscriptions consulaires de      :        :                 :</td>
-</tr>
-<tr>
-<td> : Montréal et Québec                   :   6    : Montréal.       :</td>
-</tr>
-<tr>
-<td> :                                      :        :                 :</td>
-</tr>
-<tr>
-<td> :  Etats-Unis d'Amérique :             :        :                 :</td>
-</tr>
-<tr>
-<td> :  1ère circonscription :              :        :                 :</td>
-</tr>
-<tr>
-<td> : circonscriptions consulaires de Los  :        :                 :</td>
-</tr>
-<tr>
-<td> : Angeles et San Francisco             :   2    : San Francisco   :</td>
-</tr>
-<tr>
-<td> :  2è circonscription :                :        :                 :</td>
-</tr>
-<tr>
-<td> : circonscriptions consulaires de      :        :                 :</td>
-</tr>
-<tr>
-<td> : Boston, Chicago, Detroit, Houston,   :        :                 :</td>
-</tr>
-<tr>
-<td> : La Nouvelle-Orléans, New York, San   :        :                 :</td>
-</tr>
-<tr>
-<td> : Juan de Puerto Rico et Washington    :   6    : Washington      :</td>
-</tr>
-<tr>
-<td> :                                      :        :                 :</td>
-</tr>
-<tr>
-<td> : Brésil, Guyana, République du        :        :                 :</td>
-</tr>
-<tr>
-<td> : Surinam                              :   2    :  Brasilia       :</td>
-</tr>
-<tr>
-<td> :  Argentine, Chili, Paraguay,         :        :                 :</td>
-</tr>
-<tr>
-<td> : Uruguay                              :   3    : Montevideo.     :</td>
-</tr>
-<tr>
-<td> :  Bolivie, Colombie, Equateur, Pérou  :        :                 :</td>
-</tr>
-<tr>
-<td> : Venezuela                            :   2    : Caracas.        :</td>
-</tr>
-<tr>
-<td> : Bahamas, Barbade, Belize, Costa      :        :                 :</td>
-</tr>
-<tr>
-<td> : Rica, Cuba, République Dominicaine,  :        :                 :</td>
-</tr>
-<tr>
-<td> : Dominique, El Salvador, Grenade,     :        :                 :</td>
-</tr>
-<tr>
-<td> : Guatemala, Haïti, Honduras, Jamaïque :        :                 :</td>
-</tr>
-<tr>
-<td> : Mexique, Nicaragua, Panama,          :        :                 :</td>
-</tr>
-<tr>
-<td> : Sainte-Lucie, Saint-Vincent et       :        :                 :</td>
-</tr>
-<tr>
-<td> : Grenadine, Trinité et Tobago         :   2    : Mexico          :</td>
-</tr>
-</table>
+SÉRIE A
 
-===================================================================------------------------------------------------------------------- :                                      : NOMBRE : CHEF-LIEU       :
+Circonscriptions électorales :
 
-<table>
-<tr>
-<td> :   CIRCONSCRIPTIONS ELECTORALES       :   de   :     de          :</td>
-</tr>
-<tr>
-<td> :                                      : sièges : circonscription :</td>
-</tr>
-<tr>
-<td> :--------------------------------------:--------:-----------------:</td>
-</tr>
-<tr>
-<td> :             Afrique.                 :        :                 :</td>
-</tr>
-<tr>
-<td> :  Algérie                             :   5    : Alger.          :</td>
-</tr>
-<tr>
-<td> :  Maroc                               :   5    : Rabat.          :</td>
-</tr>
-<tr>
-<td> :  Libye, Tunisie                      :   3    : Tunis.          :</td>
-</tr>
-<tr>
-<td> :  Côte-d'Ivoire                       :   5    : Abidjan.        :</td>
-</tr>
-<tr>
-<td> :  Gabon, Guinée équatoriale           :   3    : Libreville.     :</td>
-</tr>
-<tr>
-<td> :  Cap-Vert, Gambie, Sénégal           :   3    : Dakar.          :</td>
-</tr>
-<tr>
-<td> :  Cameroun                            :   2    : Yaoundé.        :</td>
-</tr>
-<tr>
-<td> :  Comores, Madagascar, île Maurice,   :        :                 :</td>
-</tr>
-<tr>
-<td> :  îles Seychelles                     :   4    : Tananarive.     :</td>
-</tr>
-<tr>
-<td> :  Haute-Volta, Mali, Mauritanie,      :        :                 :</td>
-</tr>
-<tr>
-<td> :  Niger                               :   3    : Niamey.         :</td>
-</tr>
-<tr>
-<td> :  Bénin, Ghana, Guinée, Guinée-Bissau :        :                 :</td>
-</tr>
-<tr>
-<td> :  Liberia, Nigeria, Sierra Leone,     :        :                 :</td>
-</tr>
-<tr>
-<td> :  Togo                                :   2    : Lagos.          :</td>
-</tr>
-<tr>
-<td> :  République de Djibouti              :   2    : Djibouti.       :</td>
-</tr>
-<tr>
-<td> :  Egypte, Ethiopie, Somalie, Soudan   :   2    : Le Caire.       :</td>
-</tr>
-<tr>
-<td> :  République populaire du Congo       :   1    : Brazzaville     :</td>
-</tr>
-<tr>
-<td> :  Burundi, République Centrafricaine, :        :                 :</td>
-</tr>
-<tr>
-<td> :  Rwanda, Tchad, Zaïre                :   2    : Kinshasa.       :</td>
-</tr>
-<tr>
-<td> :  Angola, Botswana, Kenya, Lesotho,   :        :                 :</td>
-</tr>
-<tr>
-<td> :  Malawi, Mozambique, Ouganda, Sao    :        :                 :</td>
-</tr>
-<tr>
-<td> :  Tomé et Principe, Swaziland,        :        :                 :</td>
-</tr>
-<tr>
-<td> : Tanzanie, Zambie, Zimbabwe           :   2    :  Lusaka.        :</td>
-</tr>
-<tr>
-<td> :  Afrique du Sud                      :   1    : Pretoria.       :</td>
-</tr>
-</table>
+- d'Amérique   30
 
-===================================================================------------------------------------------------------------------- :                                      : NOMBRE : CHEF-LIEU       :
+- d'Afrique   47
 
-<table>
-<tr>
-<td> :   CIRCONSCRIPTIONS ELECTORALES       :   de   :     de          :</td>
-</tr>
-<tr>
-<td> :                                      : sièges : circonscription :</td>
-</tr>
-<tr>
-<td> :--------------------------------------:--------:-----------------:</td>
-</tr>
-<tr>
-<td> :          Asie et Levant.             :        :                 :</td>
-</tr>
-<tr>
-<td> :  Israël - Circonscription consulaire :        :                 :</td>
-</tr>
-<tr>
-<td> : du Consulat général de Jérusalem     :   3    : Tel-Aviv.       :</td>
-</tr>
-<tr>
-<td> :  Arabie saoudite, Bahrein, Emirats   :        :                 :</td>
-</tr>
-<tr>
-<td> : arabes unis, Koweït, Oman, Qatar,    :        :                 :</td>
-</tr>
-<tr>
-<td> : République arabe du Yémen,           :        :                 :</td>
-</tr>
-<tr>
-<td> : République démocratique populaire    :        :                 :</td>
-</tr>
-<tr>
-<td> : du Yémen                             :   2    : Djeddah.        :</td>
-</tr>
-<tr>
-<td> :  Irak, Jordanie, Liban, Syrie        :   2    : Amman.          :</td>
-</tr>
-<tr>
-<td> :  Circonscription consulaire de       :        :                 :</td>
-</tr>
-<tr>
-<td> : Pondichéry.                          :   2    : Pondichéry.     :</td>
-</tr>
-<tr>
-<td> :  Afghanistan, Bangladesh, Birmanie,  :        :                 :</td>
-</tr>
-<tr>
-<td> : îles Maldives, Inde (sauf            :        :                 :</td>
-</tr>
-<tr>
-<td> : circonscription de Pondichéry),      :        :                 :</td>
-</tr>
-<tr>
-<td> :  Iran, Népal, Pakistan, Sri-lanka    :   2    : New Delhi.      :</td>
-</tr>
-<tr>
-<td> :  Chine, Corée du Sud, Hong-kong,     :        :                 :</td>
-</tr>
-<tr>
-<td> : Japon, Mongolie.                     :   2    : Tokyo.          :</td>
-</tr>
-<tr>
-<td> :  Cambodge, Indonésie, Laos, Malaisie :        :                 :</td>
-</tr>
-<tr>
-<td> : Philippines, Singapour, Thaïlande,   :        :                 :</td>
-</tr>
-<tr>
-<td> : Viet-Nam.                            :   2    : Bangkok.        :</td>
-</tr>
-<tr>
-<td> :  Australie, îles Fidji, îles Salomon :        :                 :</td>
-</tr>
-<tr>
-<td> : îles Tuvalu, Nauru,                  :        :                 :</td>
-</tr>
-<tr>
-<td> : Nouvelle-Zélande,                    :        :                 :</td>
-</tr>
-<tr>
-<td> : Papouasie-Nouvelle-Guinée, Samoa     :        :                 :</td>
-</tr>
-<tr>
-<td> : occidentales, Tonga, Vanuatu         :   2    : Canberra        :</td>
-</tr>
-</table>
+Total   77
 
-===================================================================------------------------------------------------------------------- :                                      : NOMBRE : CHEF-LIEU       :
+SÉRIE B
 
-<table>
-<tr>
-<td> :   CIRCONSCRIPTIONS ELECTORALES       :   de   :     de          :</td>
-</tr>
-<tr>
-<td> :                                      : sièges : circonscription :</td>
-</tr>
-<tr>
-<td> :--------------------------------------:--------:-----------------:</td>
-</tr>
-<tr>
-<td> :          Europe.                     :        :                 :</td>
-</tr>
-<tr>
-<td> :  Berlin                              :   1    : Berlin.         :</td>
-</tr>
-<tr>
-<td> :  République fédérale d'Allemagne     :  14    : Bonn.           :</td>
-</tr>
-<tr>
-<td> :  Belgique                            :   6    : Bruxelles.      :</td>
-</tr>
-<tr>
-<td> :  Pays-Bas                            :   1    : La Haye.        :</td>
-</tr>
-<tr>
-<td> :  Luxembourg                          :   1    : Luxembourg.     :</td>
-</tr>
-<tr>
-<td> :  Liechtenstein, Suisse               :   6    : Berne.          :</td>
-</tr>
-<tr>
-<td> :  Grande-Bretagne, Irlande            :   5    : Londres.        :</td>
-</tr>
-<tr>
-<td> :  Danemark, Finlande, Islande,        :        :                 :</td>
-</tr>
-<tr>
-<td> : Norvège, Suède                       :   2    : Stockholm.      :</td>
-</tr>
-<tr>
-<td> :  Espagne                             :   4    : Madrid.         :</td>
-</tr>
-<tr>
-<td> :  Portugal                            :   1    : Lisbonne.       :</td>
-</tr>
-<tr>
-<td> :  Albanie, Bulgarie, Hongrie, Pologne :        :                 :</td>
-</tr>
-<tr>
-<td> :  République démocratique allemande,  :        :                 :</td>
-</tr>
-<tr>
-<td> : Roumanie, Tchécoslovaquie, U.R.S.S., :        :                 :</td>
-</tr>
-<tr>
-<td> :  Yougoslavie                         :   2    : Varsovie.       :</td>
-</tr>
-<tr>
-<td> : Autriche, Italie, Saint-Marin        :   3    : Rome.           :</td>
-</tr>
-<tr>
-<td> : Principauté de Monaco                :   2    : Monaco.         :</td>
-</tr>
-<tr>
-<td> : Chypre, Grèce, Malte, Turquie        :   2    : Athènes.        :</td>
-</tr>
-<tr>
-<td> :                                      : -----  :                 :</td>
-</tr>
-<tr>
-<td> :                      Total           :  137   :                 :</td>
-</tr>
-</table>
+Circonscriptions électorales :
 
-===================================================================
+- d'Europe   52
+
+- d'Asie et du Levant   21
+
+Total   73
+
+Tableau n° 2 annexé à l'article 3 de la loi n° 82-471 du 7 juin 1982
+
+Délimitation des circonscriptions électorales, de leurs chefs-lieux et du nombre de sièges à pourvoir dans chacune d'elles pour l'élection des membres du Conseil supérieur des Français de l'étranger
+
+CIRCONSCRIPTIONS ÉLECTORALES
+
+NOMBRE de sièges
+
+CHEF-LIEU de circonscription
+
+Amérique
+
+Canada :
+
+- première circonscription : circonscriptions consulaires de Edmonton, Ottawa, Vancouver et Toronto.
+
+3
+
+Ottawa
+
+- deuxième circonscription : circonscriptions consulaires de Montréal, Québec, Moncton et Halifax.
+
+5
+
+Montréal
+
+Etats-Unis :
+
+- première circonscription : circonscriptions consulaires de New York, Chicago, Boston, Atlanta, Washington, Miami, Nouvelle-Orléans et Houston.
+
+6
+
+Washington
+
+- deuxième circonscription : circonscriptions consulaires de San Francisco, Los Angeles et Honolulu.
+
+3
+
+San Francisco
+
+Brésil, Guyana, République du Surinam.
+
+3
+
+Brasilia
+
+Argentine, Chili, Paraguay, Uruguay.
+
+3
+
+Buenos Aires
+
+Bolivie, Colombie, Equateur, Pérou, Venezuela.
+
+3
+
+Caracas
+
+Mexique, Costa Rica, Belize, El Salvador, Guatemala, Honduras, Nicaragua et Panama.
+
+3
+
+Mexico
+
+Bahamas, Barbade, Jamaïque, Dominique, Grenade, Sainte-Lucie, Saint-Vincent et Grenadine, Porto Rico, Cuba, Haïti, République dominicaine, Trinité et Tobago.
+
+1
+
+Port-au-Prince
+
+Europe
+
+Berlin.
+
+1
+
+Berlin
+
+R.F.A. :
+
+- première circonscription : circonscriptions consulaires de Bonn, Düsseldorf, Francfort, Hambourg, Trèves, Mayence et Sarrebruck.
+
+6
+
+Bonn
+
+- deuxième circonscription : circonscriptions consulaires de Baden-Baden, Fribourg, Stuttgart et Munich.
+
+7
+
+Stuttgart
+
+Belgique.
+
+6
+
+Bruxelles
+
+Luxembourg.
+
+1
+
+Luxembourg
+
+Pays-Bas.
+
+1
+
+La Haye
+
+Liechtenstein, Suisse.
+
+6
+
+Berne
+
+Grande-Bretagne, Irlande.
+
+5
+
+Londres
+
+Danemark, Finlande, Islande, Norvège, Suède.
+
+2
+
+Stockholm
+
+Portugal.
+
+1
+
+Lisbonne
+
+Espagne.
+
+5
+
+Madrid
+
+Italie, San Marin et Malte.
+
+3
+
+Rome
+
+Principauté de Monaco.
+
+2
+
+Monaco
+
+Chypre, Grèce, Turquie.
+
+3
+
+Athènes
+
+Autriche, Hongrie, Yougoslavie, Tchécoslovaquie, Roumanie, Bulgarie, Albanie, Pologne, R.D.A. et U.R.S.S..
+
+3
+
+Vienne
+
+Asie et Levant
+
+Israël.
+
+3
+
+Tel-Aviv
+
+Arabie Saoudite, Bahrein, Emirats arabes unis, Koweït, Oman, Qatar, République démocratique populaire du Yémen et République arabe du Yémen.
+
+3
+
+Djeddah
+
+Irak, Jordanie, Liban, Syrie.
+
+3
+
+Amman
+
+Circonscription consulaire de Pondichéry.
+
+2
+
+Pondichéry
+
+Afghanistan, Bangladesh, Birmanie, îles Maldives, Inde (sauf circonscription consulaire de Pondichéry), Iran, Népal, Pakistan, Sri Lanka.
+
+2
+
+New Delhi
+
+Chine, Corée, Hong-kong, Japon, Mongolie.
+
+3
+
+Tokyo
+
+Cambodge, Indonésie, Laos, Malaisie, Philippines, Singapour, Thaïlande, Viet-Nam.
+
+2
+
+Bangkok
+
+Australie, îles Fidji, îles Salomon, îles Tuvalu, Nauru, Nouvelle-Zélande, Papouasie-Nouvelle-Guinée, Samoa occidentales, Tonga, Vanuatu, Kiribati.
+
+3
+
+Canberra
+
+Afrique
+
+Algérie.
+
+4
+
+Alger
+
+Maroc.
+
+5
+
+Rabat
+
+Tunisie, Libye.
+
+3
+
+Tunis
+
+Afrique du Sud.
+
+1
+
+Pretoria
+
+Comores, Madagascar, île Maurice, îles Seychelles.
+
+4
+
+Tananarive
+
+Egypte, Ethiopie, Soudan.
+
+2
+
+Le Caire
+
+République de Djibouti et Somalie.
+
+2
+
+Djibouti
+
+Kenya, Angola, Lesotho, Botswana, Malawi, Mozambique, Ouganda, Swaziland, Tanzanie, Zambie, Zimbabwe.
+
+2
+
+Nairobi
+
+Cameroun, Tchad, République centrafricaine, Guinée équatoriale.
+
+4
+
+Yaoundé
+
+Sénégal, Guinée-Conakry, Sierra Leone, Cap-Vert, Gambie, Guinée-Bissau.
+
+4
+
+Dakar
+
+Mauritanie.
+
+1
+
+Nouakchott
+
+Burkina, Niger, Mali.
+
+3
+
+Niamey
+
+Côte-d'Ivoire, Liberia.
+
+4
+
+Abidjan
+
+Togo, Bénin, Ghana, Nigeria.
+
+2
+
+Lomé
+
+Gabon, Sao Tome et Principe.
+
+3
+
+Libreville
+
+Congo, Zaïre, Rwanda et Burundi.
+
+3
+
+Brazzaville
+
+Total 150
