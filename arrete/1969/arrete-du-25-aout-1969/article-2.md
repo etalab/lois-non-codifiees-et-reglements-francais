@@ -53,3 +53,5 @@ Brevet de mécanicien navigant.
 Certificat de fin d'études du premier cycle délivré par l'école nationale supérieure des arts décoratifs.
 
 Certificat d'initiation plastique délivré par une école nationale d'art.
+
+Certificat de la section technique délivré par l'institut de droit appliqué de Paris.
