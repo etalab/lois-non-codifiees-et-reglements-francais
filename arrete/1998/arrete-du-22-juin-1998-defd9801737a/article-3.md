@@ -1,0 +1,3 @@
+# Article 3
+
+Le président du comité pour la réforme et l'innovation administratives présente, deux fois par an, au ministre, en présence du chef d'état-major des armées, du délégué général pour l'armement, du chef d'état-major de l'armée de terre, du chef d'état-major de la marine, du chef d'état-major de l'armée de l'air, du directeur général de la gendarmerie nationale, du chef du contrôle général des armées et du directeur chargé des affaires stratégiques, l'état d'avancement des travaux de modernisation de l'administration menés au sein du ministère et propose les orientations ou décisions à prendre dans ce domaine.
