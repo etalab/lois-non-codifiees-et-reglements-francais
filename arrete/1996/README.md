@@ -580,6 +580,8 @@
 - [Arrêté du 18 mars 1996 (MENF9600883A)](arrete-du-18-mars-1996-menf9600883a)
 - [Arrêté du 18 mars 1996 (TASE9610436A)](arrete-du-18-mars-1996-tase9610436a)
 - [Arrêté du 18 octobre 1996 (ECOR9605014A)](arrete-du-18-octobre-1996-ecor9605014a)
+- [Arrêté du 18 octobre 1996 (MCCK9600318A)](arrete-du-18-octobre-1996-mcck9600318a)
+- [Arrêté du 18 octobre 1996 (MENT9602700A)](arrete-du-18-octobre-1996-ment9602700a)
 - [Arrêté du 18 septembre 1996 (EQUP9600543A)](arrete-du-18-septembre-1996-equp9600543a)
 - [Arrêté du 19 août 1996 (INTD9600395A)](arrete-du-19-aout-1996-intd9600395a)
 - [Arrêté du 19 août 1996 (TASS9623204A)](arrete-du-19-aout-1996-tass9623204a)
