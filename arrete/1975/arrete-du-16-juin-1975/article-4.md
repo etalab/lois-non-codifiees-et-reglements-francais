@@ -1,3 +1,7 @@
 # Article 4
 
-La superficie maximum des cumuls visée à l'article 188-1 du Code rural est fixée à trois fois la superficie minimum d'installation, soit 48 hectares pour l'ensemble du département.
+Les superficies maxima visées à l'article 188-1 du Code rural sont fixées à quatre fois la surface minimum d'installation pour l'ensemble du département soit (en hectares) :
+
+Zone de montagne : 96
+
+Reste du département : 72

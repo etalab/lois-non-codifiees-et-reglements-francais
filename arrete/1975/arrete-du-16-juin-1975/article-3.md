@@ -1,145 +1,363 @@
 # Article 3
 
-Les coefficients d'équivalence et les seuils d'application valant abattement à la base, applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
+Les coefficients d'équivalence et les seuils d'application valant abattement à la base applicables aux élevages ne nécessitant pas l'utilisation du sol agricole sont fixés comme suit :
 
-<div>
 <table>
-<tbody>
 <tr>
-<td align="center">     NATURE        DE L'ELEVAGE </td>
-<td align="center">
-<p>EQUIVALENCE</p>
-<p>en ares </p>
-<p>pour 1 m²</p>
-<p>de clapier </p>
-<p>ou de poulailler</p>
-</td>
-<td align="center">
-<p> EQUIVALENCE </p>
-<p>en hectares </p>
-<p>    par </p>
-<p>  animal </p>
-</td>
-<td align="center">
-<p> SEUILS </p>
-<p>d'application </p>
-<p> valant abattement  </p>
-<p>à la base      </p>
-</td>
+<td> :=================================:</td>
 </tr>
 <tr>
-<td align="center">
-<p>I. Aviculture </p>
-<p>et cuniculiculture. </p>
-</td>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td> : NATURE DE        : ZONE DE      :</td>
 </tr>
 <tr>
-<td align="left">Poules pondeuses <br/>
-</td>
-<td align="center">1,4  a <br/>
-</td>
-<td align="center"> "<br/>
-</td>
-<td align="center"> 75 m²</td>
+<td> : L'ELEVAGE        : MONTAGNE     :</td>
 </tr>
 <tr>
-<td align="left">Poulets de chair <br/>
-</td>
-<td align="center">   0,7  a <br/>
-</td>
-<td align="center"> "<br/>
-</td>
-<td align="center"> 150 m²</td>
+<td> :------------------:--------------:</td>
 </tr>
 <tr>
-<td align="left">Canards <br/>
-</td>
-<td align="center">   0,7  a <br/>
-</td>
-<td align="center"> "<br/>
-</td>
-<td align="center">   150 m²</td>
+<td> : I. Aviculture et :              :</td>
 </tr>
 <tr>
-<td align="left">Dindons <br/>
-</td>
-<td align="center">0,7  a <br/>
-</td>
-<td align="center"> "<br/>
-</td>
-<td align="center">   150 m²</td>
+<td> : cuniculiculture  :              :</td>
 </tr>
 <tr>
-<td align="left"> Pintades et faisans</td>
-<td align="center">   0,7 a <br/>
-</td>
-<td align="center"> "<br/>
-</td>
-<td align="center"> 150 m²</td>
+<td> : (Equivalence en  :              :</td>
 </tr>
 <tr>
-<td align="left"> Lapins <br/>
-</td>
-<td align="center">0,35 a <br/>
-</td>
-<td align="center"> "<br/>
-</td>
-<td align="center"> 30 m²</td>
+<td> : ares pour 1 m2   :              :</td>
 </tr>
 <tr>
-<td align="center">
-<p>II. Elevages bovin </p>
-<p> et porcin.</p>
-</td>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td> : de clapier ou de :              :</td>
 </tr>
 <tr>
-<td align="left"> Truies (naisseurs)</td>
-<td align="center">" <br/>
-</td>
-<td align="center">    0,20 ha</td>
-<td align="center">  5 truies</td>
+<td> : poulailler)      :              :</td>
 </tr>
 <tr>
-<td align="left">Truies (naisseurs-engraisseurs) </td>
-<td align="center">" <br/>
-</td>
-<td align="center"> 0,40 ha</td>
-<td align="center"> 2,5 truies</td>
+<td> : Poules pondeuses :              :</td>
 </tr>
 <tr>
-<td align="left">Porcs à l'engrais <br/>
-</td>
-<td align="center">" <br/>
-</td>
-<td align="center"> 0,017 ha</td>
-<td align="center"> 60 porcs/an</td>
+<td> : et               :              :</td>
 </tr>
 <tr>
-<td align="left"> Veaux en batterie</td>
-<td align="center">" <br/>
-</td>
-<td align="center">    0,035 ha</td>
-<td align="center"> 30 veaux/an</td>
+<td> : reproductrices   :   2 a        :</td>
 </tr>
 <tr>
-<td align="center">III. Elevages divers.</td>
-<td align="center"/>
-<td align="center"/>
-<td align="center"/>
+<td> : Démarrage de     :              :</td>
 </tr>
 <tr>
-<td align="left">Apiculture (équivalence pour 1 ha) </td>
-<td align="center">" <br/>
-</td>
-<td align="center"> 25 ruches</td>
-<td align="center"> 25 ruches</td>
+<td> : poulets et       :              :</td>
 </tr>
-</tbody>
+<tr>
+<td> : poulets de chair :   1 ha       :</td>
+</tr>
+<tr>
+<td> : Pintades         :   1 ha       :</td>
+</tr>
+<tr>
+<td> : Lapins           :   5,2 ha     :</td>
+</tr>
+<tr>
+<td> : II. Elevages     :              :</td>
+</tr>
+<tr>
+<td> : porcin et bovin  :              :</td>
+</tr>
+<tr>
+<td> : (Equivalence en  :              :</td>
+</tr>
+<tr>
+<td> : hectares par     :              :</td>
+</tr>
+<tr>
+<td> : animal :         :              :</td>
+</tr>
+<tr>
+<td> : Truies           :              :</td>
+</tr>
+<tr>
+<td> : (naisseurs)      :    0,30 ha   :</td>
+</tr>
+<tr>
+<td> : Truies           :              :</td>
+</tr>
+<tr>
+<td> : (naisseurs       :              :</td>
+</tr>
+<tr>
+<td> : engraisseurs)    :   0,60 ha    :</td>
+</tr>
+<tr>
+<td> : Porcs à          :              :</td>
+</tr>
+<tr>
+<td> : l'engrais        :   0,026 ha   :</td>
+</tr>
+<tr>
+<td> : Veaux en         :              :</td>
+</tr>
+<tr>
+<td> : batterie         :   0,052 ha   :</td>
+</tr>
+<tr>
+<td> : III. Elevages    :              :</td>
+</tr>
+<tr>
+<td> : divers           :              :</td>
+</tr>
+<tr>
+<td> : Apiculture       :              :</td>
+</tr>
+<tr>
+<td> : (équivalence     :              :</td>
+</tr>
+<tr>
+<td> : pour 1 hectare)  : 25 ruches    :</td>
+</tr>
+<tr>
+<td> :=================================:</td>
+</tr>
 </table>
-</div>
+
+<table>
+<tr>
+<td>:=================================:</td>
+</tr>
+<tr>
+<td> : NATURE DE        : RESTE DU     :</td>
+</tr>
+<tr>
+<td> : L'ELEVAGE        : DEPARTEMENT  :</td>
+</tr>
+<tr>
+<td> :------------------:--------------:</td>
+</tr>
+<tr>
+<td> : I. Aviculture et :              :</td>
+</tr>
+<tr>
+<td> : cuniculiculture  :              :</td>
+</tr>
+<tr>
+<td> : (Equivalence en  :              :</td>
+</tr>
+<tr>
+<td> : ares pour 1 m2   :              :</td>
+</tr>
+<tr>
+<td> : de clapier ou de :              :</td>
+</tr>
+<tr>
+<td> : poulailler)      :              :</td>
+</tr>
+<tr>
+<td> : Poules pondeuses :              :</td>
+</tr>
+<tr>
+<td> : et               :              :</td>
+</tr>
+<tr>
+<td> : reproductrices   :   1,6 a      :</td>
+</tr>
+<tr>
+<td> : Démarrage de     :              :</td>
+</tr>
+<tr>
+<td> : poulets et       :              :</td>
+</tr>
+<tr>
+<td> : poulets de chair :   0,8 a      :</td>
+</tr>
+<tr>
+<td> : Pintades         :   0,8 a      :</td>
+</tr>
+<tr>
+<td> : Lapins           :   3,9 a      :</td>
+</tr>
+<tr>
+<td> : II. Elevages     :              :</td>
+</tr>
+<tr>
+<td> : porcin et bovin  :              :</td>
+</tr>
+<tr>
+<td> : (Equivalence en  :              :</td>
+</tr>
+<tr>
+<td> : hectares par     :              :</td>
+</tr>
+<tr>
+<td> : animal :         :              :</td>
+</tr>
+<tr>
+<td> : Truies           :              :</td>
+</tr>
+<tr>
+<td> : (naisseurs)      :    0,24 ha   :</td>
+</tr>
+<tr>
+<td> : Truies           :              :</td>
+</tr>
+<tr>
+<td> : (naisseurs       :              :</td>
+</tr>
+<tr>
+<td> : engraisseurs)    :   0,48 ha    :</td>
+</tr>
+<tr>
+<td> : Porcs à          :              :</td>
+</tr>
+<tr>
+<td> : l'engrais        :   0,019 ha   :</td>
+</tr>
+<tr>
+<td> : Veaux en         :              :</td>
+</tr>
+<tr>
+<td> : batterie         :   0,039 ha   :</td>
+</tr>
+<tr>
+<td> : III. Elevages    :              :</td>
+</tr>
+<tr>
+<td> : divers           :              :</td>
+</tr>
+<tr>
+<td> : Apiculture       :              :</td>
+</tr>
+<tr>
+<td> : (équivalence     :              :</td>
+</tr>
+<tr>
+<td> : pour 1 hectare)  : 25 ruches    :</td>
+</tr>
+<tr>
+<td> :=================================:</td>
+</tr>
+</table>
+
+<table>
+<tr>
+<td>:=================================:</td>
+</tr>
+<tr>
+<td> : NATURE DE        : Seuils d'    :</td>
+</tr>
+<tr>
+<td> : L'ELEVAGE        : application  :</td>
+</tr>
+<tr>
+<td> :                  : valant       :</td>
+</tr>
+<tr>
+<td> :                  : abattement   :</td>
+</tr>
+<tr>
+<td> :                  : à la base    :</td>
+</tr>
+<tr>
+<td> :------------------:--------------:</td>
+</tr>
+<tr>
+<td> : I. Aviculture et :              :</td>
+</tr>
+<tr>
+<td> : cuniculiculture  :              :</td>
+</tr>
+<tr>
+<td> : (Equivalence en  :              :</td>
+</tr>
+<tr>
+<td> : ares pour 1 m2   :              :</td>
+</tr>
+<tr>
+<td> : de clapier ou de :              :</td>
+</tr>
+<tr>
+<td> : poulailler)      :              :</td>
+</tr>
+<tr>
+<td> : Poules pondeuses :              :</td>
+</tr>
+<tr>
+<td> : et               :              :</td>
+</tr>
+<tr>
+<td> : reproductrices   :   75 M2      :</td>
+</tr>
+<tr>
+<td> : Démarrage de     :              :</td>
+</tr>
+<tr>
+<td> : poulets et       :              :</td>
+</tr>
+<tr>
+<td> : poulets de chair :   150 M2     :</td>
+</tr>
+<tr>
+<td> : Pintades         :   150 M2     :</td>
+</tr>
+<tr>
+<td> : Lapins           :   30 M2      :</td>
+</tr>
+<tr>
+<td> : II. Elevages     :              :</td>
+</tr>
+<tr>
+<td> : porcin et bovin  :              :</td>
+</tr>
+<tr>
+<td> : (Equivalence en  :              :</td>
+</tr>
+<tr>
+<td> : hectares par     :              :</td>
+</tr>
+<tr>
+<td> : animal :         :              :</td>
+</tr>
+<tr>
+<td> : Truies           :              :</td>
+</tr>
+<tr>
+<td> : (naisseurs)      : 5 truies     :</td>
+</tr>
+<tr>
+<td> : Truies           :              :</td>
+</tr>
+<tr>
+<td> : (naisseurs       :              :</td>
+</tr>
+<tr>
+<td> : engraisseurs)    : 2,5 truies   :</td>
+</tr>
+<tr>
+<td> : Porcs à          :              :</td>
+</tr>
+<tr>
+<td> : l'engrais        :   60 / an    :</td>
+</tr>
+<tr>
+<td> : Veaux en         :              :</td>
+</tr>
+<tr>
+<td> : batterie         :   30 / an    :</td>
+</tr>
+<tr>
+<td> : III. Elevages    :              :</td>
+</tr>
+<tr>
+<td> : divers           :              :</td>
+</tr>
+<tr>
+<td> : Apiculture       :              :</td>
+</tr>
+<tr>
+<td> : (équivalence     :              :</td>
+</tr>
+<tr>
+<td> : pour 1 hectare)  : 25 ruches    :</td>
+</tr>
+<tr>
+<td> :=================================:</td>
+</tr>
+</table>
