@@ -1,0 +1,13 @@
+# Article 14
+
+Dispositions complémentaires applicables dans le cas de gaz distribué à une pression supérieure à 400 mbar.
+
+1° a) La distribution du gaz à une pression supérieure à 400 mbar à l'intérieur des bâtiments de la troisième famille et de la quatrième famille et des bâtiments de la deuxième famille comportant plus de dix logements par cage d'escalier n'est autorisée que si l'installation comporte, en plus de l'organe de coupure générale prescrit à l'article 13 (1°), un appareil de coupure automatique d'un modèle agréé interrompant le débit du gaz lorsque ce débit dépasse une valeur supérieure à 1,5 fois le débit nominal de cet appareil de coupure. L'appareil de coupure doit être du modèle dont le débit nominal est voisin et immédiatement supérieur au débit maximal prévisionnel fixé par le distributeur et véhiculé par la ou les conduites montantes que cet appareil commande. Le débit nominal d'un appareil de coupure ne doit jamais excéder 100 mètres cubes à l'heure pour le gaz naturel et 80 kilogrammes à l'heure pour le gaz de pétrole liquéfié. La somme des débits nominaux des appareils de coupure automatique commandant les conduites installées dans une même cage d'escalier ne doit pas excéder les mêmes limites.
+
+b) La distribution du gaz à une pression supérieure à 400 mbar à l'intérieur des bâtiments de la deuxième famille comportant au plus dix logements par cage d'escalier n'est autorisée que si l'installation comporte, en plus de l'organe de coupure générale prescrit à l'article 13 (1°), un limiteur de débit réglé au maximum à 40 mètres cubes à l'heure pour le gaz naturel et 32 kilogrammes à l'heure pour le gaz de pétrole liquéfié. La somme des débits limites des limiteurs de débit commandant les conduites installées dans une même cage d'escalier ne doit pas excéder les maxima précédents ; si les nécessités de la distribution obligent à dépasser les limites de débit prévues au présent alinéa, l'installation doit comporter un ou des appareils de coupure automatique satisfaisant aux prescriptions de l'alinéa 1° a ci-dessus.
+
+L'appareil de coupure automatique visé en a ou le limiteur de débit visé en b est situé en aval de l'organe de coupure générale prévu en 13 (1°) et avant la première pénétration de la conduite d'immeuble dans le bâtiment.
+
+Il est installé à l'extérieur des bâtiments ou en façade ou en niche communiquant uniquement avec l'extérieur.
+
+2° Les détendeurs collectifs communs à plusieurs usagers sont placés à l'extérieur des bâtiments ou en façade ou en niche communiquant uniquement avec l'extérieur. Les détendeurs individuels doivent être munis d'un déclencheur interrompant automatiquement l'arrivée du gaz en cas de baisse anormale de pression aval.
