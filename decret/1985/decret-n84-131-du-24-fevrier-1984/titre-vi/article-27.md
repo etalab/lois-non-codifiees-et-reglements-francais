@@ -1,6 +1,6 @@
 # Article 27
 
-L'avancement d'échelon s'effectue selon les durées normales indiquées par le tableau suivant :
+L'avancement d'échelon s'effectue selon les durées suivantes :
 
 11e échelon : 2 ans ;
 
@@ -16,7 +16,7 @@ L'avancement d'échelon s'effectue selon les durées normales indiquées par le 
 
 4e échelon : 1 an 6 mois ;
 
-3e échelon : 1 an 6 mois ;
+3e échelon : 1 an ;
 
 2e échelon : 1 an ;
 
