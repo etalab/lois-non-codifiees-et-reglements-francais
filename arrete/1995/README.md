@@ -614,7 +614,6 @@
 - [Arrêté du 13 avril 1995 (EQUS9500788A)](arrete-du-13-avril-1995-equs9500788a)
 - [Arrêté du 13 avril 1995 (PRMX9500725A)](arrete-du-13-avril-1995-prmx9500725a)
 - [Arrêté du 13 avril 1995 (SANP9501261A)](arrete-du-13-avril-1995-sanp9501261a)
-- [Arrêté du 13 avril 1995 (SPSS9501320A)](arrete-du-13-avril-1995-spss9501320a)
 - [Arrêté du 13 décembre 1995 (JUSB9510414A)](arrete-du-13-decembre-1995-jusb9510414a)
 - [Arrêté du 13 février 1995 (BUDB9510014A)](arrete-du-13-fevrier-1995-budb9510014a)
 - [Arrêté du 13 février 1995 (SPSS9500524A)](arrete-du-13-fevrier-1995-spss9500524a)
