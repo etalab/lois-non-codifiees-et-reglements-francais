@@ -62,7 +62,6 @@
 - [Arrêté du 4 mars 1993 (PTTS9300102A)](arrete-du-4-mars-1993-ptts9300102a)
 - [Arrêté du 4 mars 1993 (TEFF9300260A)](arrete-du-4-mars-1993-teff9300260a)
 - [Arrêté du 5 août 1992 (TEFT9205115A)](arrete-du-5-aout-1992-teft9205115a)
-- [Arrêté du 5 février 1993 (BUDD9320015A)](arrete-du-5-fevrier-1993-budd9320015a)
 - [Arrêté du 5 février 1993 (BUDR9305006A)](arrete-du-5-fevrier-1993-budr9305006a)
 - [Arrêté du 5 février 1993 (BUDR9305007A)](arrete-du-5-fevrier-1993-budr9305007a)
 - [Arrêté du 5 février 1993 (DEFC9301150A)](arrete-du-5-fevrier-1993-defc9301150a)

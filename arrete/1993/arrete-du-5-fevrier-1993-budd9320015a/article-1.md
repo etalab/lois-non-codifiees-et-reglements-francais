@@ -1,3 +1,0 @@
-# Article 1
-
-Jusqu'à la mise en place des formulaires communautaires d'autorisation d'exportation prévus par le règlement de la commission pris en application du règlement (C.E.E.) n° 3911-92 du conseil du 9 décembre 1992, la demande d'autorisation d'exportation temporaire ou définitive hors du territoire douanier de la Communauté économique européenne des biens culturels visés à l'article 11 du décret n° 93-124 du 29 janvier 1993 et la demande d'exportation temporaire des trésors nationaux visés à l'article 12 du même décret sont effectuées au moyen de la licence d'exportation du modèle 02, instituée par l'arrêté du 30 janvier 1967, pris en application du décret du 30 novembre 1944.
