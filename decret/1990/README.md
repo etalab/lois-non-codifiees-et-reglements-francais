@@ -239,6 +239,7 @@
 - [Décret n°90-239 du 16 mars 1990 (INDA8901035D)](decret-n90-239-du-16-mars-1990-inda8901035d)
 - [Décret n°90-254 du 16 mars 1990 (MAEJ9030015D)](decret-n90-254-du-16-mars-1990-maej9030015d)
 - [Décret n°90-258 du 16 mars 1990 (INDA8901036D)](decret-n90-258-du-16-mars-1990-inda8901036d)
+- [Décret n°90-628 du 16 juillet 1990 (LOGC9000033D)](decret-n90-628-du-16-juillet-1990-logc9000033d)
 - [Décret n°90-63 du 16 janvier 1990 (ATRC9000014D)](decret-n90-63-du-16-janvier-1990-atrc9000014d)
 - [Décret n°90-65 du 16 janvier 1990 (MENK8970129D)](decret-n90-65-du-16-janvier-1990-menk8970129d)
 - [Décret n°90-404 du 16 mai 1990 (MCCB9000273D)](decret-n90-404-du-16-mai-1990-mccb9000273d)
