@@ -1,4 +1,4 @@
-# Arrêté du 10 avril 1974 relatif à l'isolation thermique et au réglage automatique des installations de chauffage dans les bâtiments d'habitation.
+# Arrêté du 10 avril 1974 relatif aux modalités des concours organisés en vue de l'inscription sur la liste d'aptitude aux fonctions de pharmacien résident.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,4 +8,3 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
-- [Annexes](annexes)
