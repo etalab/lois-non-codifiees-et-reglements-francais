@@ -1,0 +1,3 @@
+# Article 60
+
+Le décret n° 61-1441 du 21 décembre 1961, relatif au statut des personnels du fonds d'orientation et de régularisation des marchés agricoles, le décret n° 70-526 du 12 juin 1970 relatif au statut des personnels du fonds d'intervention et de régularisation du marché du sucre (F.I.R.S.), le décret n° 74-1092 du 16 décembre 1974 relatif au statut des personnels de l'office national interprofessionnel du bétail et des viandes et le décret n° 77-871 du 20 juillet 1977 relatif au statut et au régime de retraite des personnels de l'Office national interprofessionnel des vins de table sont abrogés.
