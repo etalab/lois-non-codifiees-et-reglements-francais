@@ -1,3 +1,3 @@
 # Article ANNEXE
 
-[*Tableaux non reproduits*]
+(Tableaux non reproduits)
