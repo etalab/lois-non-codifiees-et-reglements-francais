@@ -1,17 +1,23 @@
 # Article 4
 
-Un conseil supérieur d'orientation de l'économie agricole et alimentaire, composé de représentants du Parlement, des ministères intéressés, de la production agricole, de la transformation, de la commercialisation, des salariés de ces différentes activités économiques et de la consommation est consulté sur la définition de la politique agricole et alimentaire, notamment en matière d'orientation des productions, d'organisation des marchés, de formation, de recherche, de développement d'investissement, et d'exportation. A ce titre il est associé à la définition des politiques sectorielles qui seront conduites par les offices. Les présidents et les directeurs des offices assistent aux séances du conseil. Le conseil se prononce par avis ou recommandation sur :
+Un conseil supérieur d'orientation de l'économie agricole et alimentaire, composé de représentants des ministres intéressés, de la production agricole, de la transformation, de la commercialisation des produits agricoles, participe à la définition et à la mise en oeuvre de la politique nationale d'orientation et de coordination de l'économie agricole et agro-alimentaire, en conformité avec les principes, les objectifs et les règles de la politique agricole commune et dans le cadre défini par le Plan de la Nation.
 
-- la définition de la politique agricole et alimentaire ;
+Il est compétent pour l'ensemble des productions agricoles, agro-alimentaires et forestières.
 
-- les orientations générales des propositions formulées par les pouvoirs publics tendant à modifier les dispositions de la politique agricole commune ;
+Indépendamment des attributions qui lui sont conférées par les dispositions législatives et règlementaires en vigueur, le conseil se prononce par délibération ou recommandation sur :
 
-- les grandes orientations des politiques de filière ;
+a) les orientations économiques de la politique agricole et agro-alimentaire, notamment en matière d'investissements, de développement agricole et de commerce extérieur ;
 
-- les choix industriels et technologiques relatifs aux produits et aux équipements nécessaires à l'agriculture ainsi que sur les dispositions nécessaires à la limitation des coûts de production ;
+b) les utilisations non alimentaires des produits agricoles ;
 
-- la mise en oeuvre de ces politiques ;
+c) l'affectation des moyens, notamment ceux ouverts par la loi de finances en matière d'orientation et de valorisation de la production agricole ;
 
-- les projets de mesures règlementaires à caractère général relatives à l'organisation économique en agriculture ;
+d) l'exercice et la coordination des activités des organisations interprofessionnelles reconnues et des offices d'intervention ;
 
-- la cohérence entre les différentes actions menées, en particulier par les offices. Il est consulté lors de la préparation du Plan de la nation. Les recommandations sont adoptées à la majorité qualifié. Les avis et recommandations du conseil supérieur sont consignés dans un rapport transmis chaque année au Parlement, au Gouvernement et au Conseil économique et social.
+e) les règles de mise en marché et de commercialisation, lorsqu'elles sont définies par l'autorité administrative compétente.
+
+Certaines atrributions du conseil peuvent être exercées, dans les conditions fixées par décret, par les commissions techniques spécialisées comprenant pour partie des personnalités extérieures au conseil.
+
+Sans préjudice des dispositions législatives et règlementaires en vigueur, le conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire délègue normalement ses compétences en matière de forêt et de transformation du bois au conseil supérieur de la forêt et des produits forestiers. Lorsque les problèmes de la forêt et de la transformation du bois sont évoqués au sein du conseil supérieur d'orientation et de coordination, le conseil supérieur de la forêt et des produits forestiers y est représenté.
+
+En cas de désaccord lors de la conclusion d'une convention entre un office d'intervention et une ou plusieurs organisations interprofessionnelles reconnues, celles-ci peuvent faire appel à la médiation du conseil supérieur d'orientation et de coordination.

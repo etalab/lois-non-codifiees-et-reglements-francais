@@ -4,7 +4,7 @@ Le conseil de direction donne un avis sur les projets de décisions réglementai
 
 Il détermine les missions qui sont confiées aux conseils spécialisés prévus à l'article 11 du présent décret et délibère chaque année sur l'exécution desdites missions.
 
-A ces fins, il est plus particulièrement chargé de suivre l'évolution de la situation des marchés et de participer à la politique d'orientation des productions et d'organisation de la filière dans le cadre des dispositions du Plan de la nation et de celles résultant de la politique agricole commune, ainsi que dans le cadre des orientations définies par le conseil supérieur d'orientation de l'économie agricole et alimentaire ;
+A ces fins, il est plus particulièrement chargé de suivre l'évolution de la situation des marchés et de participer à la politique d'orientation des productions et d'organisation de la filière dans le cadre des dispositions du Plan de la nation et de celles résultant de la politique agricole commune, ainsi que dans le cadre des orientations définies par le conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire ;
 
 Il est tenu régulièrement informé par le ministre chargé de l'agriculture des travaux de la Communauté économique européenne en ce qui concerne l'élaboration et l'application de la politique agricole commune ;
 

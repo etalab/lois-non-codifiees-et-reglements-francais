@@ -2,7 +2,7 @@
 
 Les comités économiques agricoles justifiant d'une expérience satisfaisante de certaines disciplines peuvent demander à l'autorité administrative compétente que celles des règles acceptées par leurs membres, concernant l'organisation des productions, la promotion des ventes et la mise en marché, à l'exception de l'acte de vente, soient rendues obligatoires pour l'ensemble des producteurs de la région considérée.
 
-L'extension de tout ou partie de ces règles peut être prononcée après avis du conseil supérieur d'orientation de l'économie agricole et alimentaire, sauf si un tiers au moins des producteurs, représentant au moins un tiers de la production commercialisée, préalablement consultés dans des conditions prévues par décret en Conseil d'Etat, ont fait connaître leur opposition.
+L'extension de tout ou partie de ces règles peut être prononcée après avis du conseil supérieur d'orientation et de coordination de l'économie agricole et alimentaire, sauf si un tiers au moins des producteurs, représentant au moins un tiers de la production commercialisée, préalablement consultés dans des conditions prévues par décret en Conseil d'Etat, ont fait connaître leur opposition.
 
 L'autorité compétente dispose d'un délai de trois mois à compter de la date de l'avis mentionné au précédent alinéa pour se prononcer sur la demande d'extension. Si, au terme de ce délai, elle ne s'est pas prononcée, la demande est réputée acceptée.
 
