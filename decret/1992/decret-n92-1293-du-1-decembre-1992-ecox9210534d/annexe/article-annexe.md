@@ -139,3 +139,23 @@ A COMPTER DU 1ER AOUT 2002, SONT AJOUTES LES EMPLOIS SUIVANTS :
 - analyste financier ;
 
 - animateur de groupe.
+
+A COMPTER DU 1ER AOÛT 2002, SONT SUPPRIMES LES EMPLOIS SUIVANTS :
+
+Responsable de l'exploitation d'un restaurant de l'Association de gestion des restaurants (AGR) ou d'une société de vente et de diffusion.
+
+A COMPTER DU 1ER AOÛT 2003, SONT SUPPRIMES LES EMPLOIS SUIVANTS :
+
+Directeur de centre de loisirs ;
+
+Chef de projet utilisateur ;
+
+Responsable de l'antenne de la branche caisses de retraites de Bordeaux à La Rochelle pour le fonds spécial des pensions des ouvriers des établissements industriels de l'Etat (FSPOEIE) ;
+
+Chargé de production bancaire ;
+
+Responsable du guichet de la CNP Assurances.
+
+A COMPTER DU 1ER AOÛT 2004, EST SUPPRIME L'EMPLOI SUIVANT :
+
+Responsable comptable au sein du service de production bancaire ou au sein du service comptable de la Caisse nationale de retraite des agents des collectivités locales.

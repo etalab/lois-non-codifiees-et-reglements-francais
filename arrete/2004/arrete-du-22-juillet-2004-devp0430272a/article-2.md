@@ -1,0 +1,5 @@
+# Article 2
+
+a) Un indice de qualité de l'air est obligatoirement calculé dans les agglomérations de plus de 100 000 habitants, telles que définies dans l'annexe II du décret n° 98-360 du 6 mai 1998 susvisé, par l'association agréée pour la surveillance de la qualité de l'air territorialement compétente. La zone géographique de référence est alors celle définie dans l'annexe III du décret n° 98-360 du 6 mai 1998. L'indice calculé prend alors l'appellation d'« indice ATMO ». Cet indice est calculé conformément aux dispositions de l'article 3 du présent arrêté ;
+
+b) Un indice de qualité de l'air peut être calculé dans des agglomérations ou des zones géographiques de moins de 100 000 habitants, telles que définies dans l'annexe II du décret n° 98-360 du 6 mai 1998, par l'association agréée pour la surveillance de la qualité de l'air territorialement compétente. L'indice calculé prend alors l'appellation d'IQA, « indice de qualité de l'air simplifié ». Cet indice est calculé conformément aux dispositions de l'article 4 du présent arrêté.

@@ -1,0 +1,3 @@
+# Article 15
+
+A la date d'effet du présent décret, les fonctionnaires détachés sur des emplois d'attaché financier et de conseiller financier de classe normale dans les conditions fixées par le décret n° 58-28 du 14 janvier 1958 modifié relatif au statut de certains agents du ministère des finances, des affaires économiques et du Plan en service à l'étranger sont maintenus en détachement pour une durée correspondant à la période restant à courir au titre de leur détachement en vigueur sur les emplois précités et reclassés dans le corps des conseillers économiques dans les conditions prévues à l'article 6 du présent décret.

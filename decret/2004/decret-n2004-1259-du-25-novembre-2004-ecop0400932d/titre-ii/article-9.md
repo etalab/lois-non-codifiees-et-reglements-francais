@@ -1,0 +1,3 @@
+# Article 9
+
+A la date d'entrée en vigueur du présent décret et sous réserve qu'ils occupent à cette date une fonction relevant de l'article 1er, les personnels détachés sur un emploi de conseiller financier de classe exceptionnelle dans les conditions fixées par le décret n° 58-28 du 14 janvier 1958 modifié relatif au statut de certains agents du ministère des finances, des affaires économiques et du Plan en service à l'étranger sont maintenus en détachement pour une durée correspondant à la période restant à courir au titre de leur détachement en vigueur et reclassés à l'échelon de l'emploi de ministre conseiller pour les affaires économiques correspondant à l'indice qu'ils détiennent dans leur emploi d'origine.
