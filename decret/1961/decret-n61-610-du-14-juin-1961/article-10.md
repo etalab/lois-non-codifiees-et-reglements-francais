@@ -1,27 +1,19 @@
 # Article 10
 
-En vue de leur installation sur une exploitation créée ou restructurée par une société d'aménagement foncier et d'établissement rural, les candidats doivent justifier de leur appartenance à l'une des catégories suivantes :
+Ont priorité en vue de leur installation sur une exploitation créée ou restructurée par une société d'aménagement foncier et d'établissement rural les agriculteurs expropriés bénéficiant de la priorité d'attribution prévue à l'article 10 de la loi du 8 août 1962. Ces agriculteurs peuvent présenter leur candidature auprès de plusieurs sociétés d'aménagement foncier et d'établissement rural à la suite des appels publics de candidatures prévus à l'article 14 bis ; ils perdent leur priorité si, après avoir présenté leur candidature à l'attribution d'un bien, ils en refusent l'acquisition.
 
-Agriculteurs visés au premier alinéa de l'article 12 dont l'exploitation a été supprimée ou gravement déséquilibrée dans le cadre des opérations mentionnées à l'article 10 de la loi n° 62-933 du 8 août 1962 modifiée ;
+Individuellement ou groupés en sociétés des agriculteurs peuvent bénéficier de la même installation s'ils justifient de leur appartenance à l'une des catégories suivantes, sans qu'aucune d'entre elles ne bénéficie d'une priorité d'attribution :
 
-Jeunes agriculteurs au sens des dispositions de l'article 2 du décret du 2 février 1978 ;
+a) Jeunes agriculteurs au sens des dispositions des articles 2, 22 et 23 du décret n° 88-176 du 23 février 1988 relatif aux aides à l'installation des jeunes agriculteurs ;
 
-Bénéficiaires des dispositions du décret du 3 mars 1962 relatives à la promotion sociale ;
+b) Bénéficiaires des dispositions du décret n° 62-249 du 3 mars 1962 relatif à l'installation comme chefs d'exploitations agricoles des travailleurs agricoles bénéficiaires de la promotion sociale ;
 
-Migrant au sens des dispositions de l'article 27 de la loi du 8 août 1962 complémentaire à la loi d'orientation agricole et du décret du 15 juillet 1965 ;
+c) Migrants au sens des dispositions de l'article 27 de la loi du 8 août 1962 ;
 
-Mutants d'exploitation au sens de l'article 27 de la même loi ;
+d) Mutants d'exploitation au sens de l'article 27 de la même loi ;
 
-Occupants d'une résidence personnelle ou familiale susceptible de créer des liens particuliers entre l'intéressé et la région où se trouve la résidence.
+e) Agriculteurs expropriés non bénéficiaires de la priorité d'attribution prévue à l'article 10 de la même loi ;
 
-Les candidats doivent en outre :
+f) Agriculteurs privés de leur exploitation du fait de partage ou de l'exercice du droit de reprise du propriétaire.
 
-1° Justifier de conditions d'expérience et de capacités professionnelles déterminées par arrêté du ministre de l'agriculture sauf en ce qui concerne les agriculteurs dont l'exploitation a été supprimée ou gravement déséquilibrée dans le cadre des opérations mentionnées à l'article 10 de la loi n° 62-933 du 8 août 1962 modifiée ;
-
-2° Posséder les qualités nécessaires pour une bonne exploitation des attributions et disposer des moyens financiers indispensables, compte tenu notamment des caractéristiques de l'exploitation et des usages du terroir ;
-
-3° S'engager à respecter les clauses d'un cahier des charges établi éventuellement par la société et à exploiter personnellement pendant quinze ans au moins, sauf substitution à l'intéressé de l'un de ses descendants ou du conjoint de l'un d'eux avec l'agrément de la société et l'accord des commissaires du Gouvernement. Le descendant ou le conjoint doit remplir les conditions définies au présent article.
-
-Les exploitations peuvent être cédées par la société à des personnes qui s'engagent à les donner en location avec l'agrément de cette société et l'accord des commissaires du Gouvernement à des candidats satisfaisant aux conditions définies au présent article et à l'article 11 ci-dessous.
-
-Les exploitations peuvent être également attribuées aux groupements agricoles d'exploitation en commun reconnus.
+Tout candidat à l'installation doit s'engager à ne pas morceler l'exploitation et à lui conserver une destination agricole ou forestière pendant quinze ans. Pendant ce délai l'aliénation du bien ne peut se faire qu'avec l'accord de la société d'aménagement foncier et d'établissement rural, approuvé par les commissaires du Gouvernement. L'engagement est repris par le nouveau propriétaire pour le délai restant à courir.
