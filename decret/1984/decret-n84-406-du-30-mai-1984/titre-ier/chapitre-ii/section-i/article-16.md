@@ -12,9 +12,11 @@ A - En ce qui concerne la personne :
 
 4° La durée du groupement ;
 
-5° Supprimé ;
+5° [*supprimé*] ;
 
-6° Pour chaque personne physique membre du groupement, les renseignements prévus au A (1°, 2°, 3°, 4°) de l'article 8 ainsi que s'il y a lieu, les numéros d'immatriculation de ces personnes au registre du commerce et des sociétés et au répertoire des métiers ;    7° Pour chaque personne morale membre du groupement, les renseignements prévus au A (1°, 2°, 4°) de l'article 15 et le cas échéant, les numéros d'immatriculation de ces personnes au registre du commerce et des sociétés et au répertoire des métiers ;
+6° Pour chaque personne physique membre du groupement, les renseignements prévus au A (1°, 2°, 3° et 4°) de l'article 8 et, le cas échéant, les numéros d'immatriculation de ces personnes au registre du commerce et des sociétés et au répertoire des métiers, ainsi que l'indication des personnes exonérées des dettes nées antérieurement à leur entrée dans le groupement ;
+
+7° Pour chaque personne morale membre du groupement, les renseignements prévus au A (1°, 2° et 4°) de l'article 15 et, le cas échéant, les numéros d'immatriculation de ces personnes au registre du commerce et des sociétés et au répertoire des métiers, ainsi que l'indication des personnes exonérées des dettes nées antérieurement à leur entrée dans le groupement ;
 
 8° Pour les administrateurs et les personnes chargées du contrôle de la gestion et du contrôle des comptes, leurs nom, prénoms, date et lieu de naissance, domicile personnel ainsi que les renseignements relatifs à la nationalité prévus au A 3° de l'article 8 ;
 
