@@ -1,8 +1,5 @@
-# Arrêté du 16 octobre 1980 relatif aux modalités de publication et de consultation des documents administratifs
+# Arrêté du 16 octobre 1980 relatif à diverses indemnités pouvant être allouées à certains personnels des services culturels communaux.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Dispositions générales.](dispositions-generales)
