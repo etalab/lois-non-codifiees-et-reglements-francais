@@ -1,9 +1,3 @@
 # Article 1
 
-Toutes dispositions réglementaires prises en application du code de l'administration communale et notamment celles relatives aux recrutement, classement indiciaire, durée de carrière, avancement de grade, commission paritaire et conseil de discipline sont abrogées en ce qui concerne les emplois ci-après :
-
-Directeur vétérinaire.
-
-Directeur vétérinaire adjoint.
-
-Inspecteur et inspecteur principal préposé à la salubrité des viandes et des denrées alimentaires.
+Peuvent avoir accès aux emplois communaux de receveur régie des droits de place, halles, marchés et abattoirs, les candidats qui réunissent non seulement les conditions générales de recrutement prévues par le statut du personnel des communes et des établissements publics communaux, mais encore celles fixées à l'annexe du présent arrêté.

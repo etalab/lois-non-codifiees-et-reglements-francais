@@ -1,12 +1,12 @@
 # Article Annexe 1
 
-Les gardiens de police municipale sont recrutés par voie de concours sur épreuves ou d'examen d'aptitude.
+(Emploi tributaire des dispositions du décret n° 70-435 du 20 mai 1970 prévoyant une réserve d'emploi au profit des candidats ayant effectivement accompli le service national.)    Les gardiens de police municipale sont recrutés par voie de concours sur épreuves ou d'examen d'aptitude.
 
 Les candidats doivent [*conditions*] en outre :
 
 a) Etre âgés de vingt et un ans au moins ;
 
-b) Avoir, avant correction, une acuité visuelle totalisant 15/10 [*dixième*] pour les deux yeux ;
+b) Avoir, avant correction, une acuité visuelle totalisant 15/10 pour les deux yeux ;
 
 c) Etre titulaires du permis de conduire les automobiles.
 
@@ -16,17 +16,19 @@ Le concours sur épreuves ou l'examen d'aptitude comporte les épreuves suivante
 
 Epreuves écrites.
 
-1° Dictée (durée : 30 minutes ; coefficient 1) ;
+1° Dictée (durée : trente minutes ; coefficient 1) ;
 
-2° Deux problèmes d'arithmétique (durée : 1 heure ; coefficient 2) ; questions simples d'application sur les quatre opérations, la règle de trois, les partages, le système métrique, les surfaces des carré, rectangle, triangle, cercle et les volumes des cube et parallélépipède rectangle ;
+2° Deux problèmes d'arithmétique (durée : une heure ; coefficient 2) ; questions simples d'application sur les quatre opérations, la règle de trois, les partages, le système métrique, les surfaces des carré, rectangle, triangle, cercle.
 
-3° Etablissement, d'après les éléments d'un dossier mis à la disposition du candidat, d'un rapport simple d'information, de contravention ou d'accident (durée : 2 heures ; coefficient 3)                    Epreuves orales.
+3° Etablissement, d'après les éléments d'un dossier mis à la disposition du candidat, d'un rapport simple d'information, de contravention ou d'accident (durée : deux heures ; coefficient 3).                       Epreuves orales.
 
 1° Interrogation sur le programme de droit public et de droit pénal (coefficient 3) ;
 
 2° Interrogation sur le programme de police (coefficient 3).
 
-Epreuves facultatives.    1° Dactylographie, copie d'un texte administratif (durée :
+Epreuves facultatives.
+
+1° Dactylographie, copie d'un texte administratif (durée :
 
 quinze minutes ; coefficient 1) ;
 
@@ -34,7 +36,9 @@ quinze minutes ; coefficient 1) ;
 
 Ces épreuves peuvent ne pas être prévues lors de l'organisation du concours. Lorsqu'elles le sont, elles ne s'imposent pas aux candidats.
 
-En raison du caractère facultatif des épreuves, seuls les points obtenus au-dessus de la moyenne sont pris en compte.         Epreuve d'aptitude physique (coefficient 3).
+En raison du caractère facultatif des épreuves, seuls les points obtenus au-dessus de la moyenne sont pris en compte.
+
+Epreuve d'aptitude physique (coefficient 3).
 
 Course à pied de 100 mètres ;
 
@@ -52,7 +56,7 @@ Les conditions d'exécution des épreuves sont identiques à celles fixées par 
 
 Les performances sont appréciées conformément au barème ci-dessous. La note attribuée au candidat est établie en faisant la moyenne des points obtenus aux différentes épreuves.
 
-==============================================================
+BAREME ==============================================================
 
 <table>
 <tr>
@@ -216,34 +220,36 @@ Les performances sont appréciées conformément au barème ci-dessous. La note 
 
 Programme des matières.
 
-I - Droit public.
+I - Droit public :
 
-Notions de droit constitutionnel, le pouvoir législatif, le pouvoir exécutif.
+Notions sommaires de droit constitutionnel : le Président de la République, le Premier ministre et le Gouvernement, l'Assemblée nationale, le Sénat.
 
-Notions de droit administratif, le pouvoir réglementaire, la juridiction administrative.
+Notions sommaires de droit administratif : les décrets, les arrêtés ministériels, préfectoraux, municipaux.
+
+Notions sommaires sur le Conseil d'Etat et les tribunaux administratifs.
 
 Notions sur l'organisation administrative de la France, l'Etat et le département.
 
-Organisation administrative de la commune, le conseil municipal, le maire et les adjoints, les services municipaux.
+L'organisation administrative de la commune, le conseil municipal, le maire et les adjoints, les services municipaux.
 
-II - Droit pénal.
+II - Droit pénal :
 
-Les infractions : contraventions, délits, crimes ; les éléments constitutifs généraux, les juridictions compétentes, la tentative, la complicité, la disparition de la responsabilité, les excuses légales, la récidive, le casier judiciaire, les peines, classification, les causes de suspension, d'extinction ou d'effacement.
+Les infractions : contraventions, délits, crimes ; les éléments constitutifs généraux, les juridictions compétentes, la tentative, la complicité, les peines et leur classification.
 
 Notions sur la procédure pénale :
 
-La police judiciaire, les officiers de police judiciaire, les agents de police judiciaire.
+La police judiciaire, les officiers de police judiciaire, les agents de police judiciaire ;
 
-Le flagrant délit.
+Le flagrant délit ;
 
-Le jugement, généralités, les tribunaux répressifs : le tribunal de police, le tribunal correctionnel, la cour d'assises.
+Le jugement, généralités ; les tribunaux répressifs : le tribunal de police, le tribunal correctionnel, la cour d'assises.
 
-III - Police.
+III - Police :
 
 Notions sur l'organisation de la police en France : son rôle, les autorités chargées de la police et du maintien de l'ordre, les différents personnels de police.
 
 Police de la circulation : le code de la route, les signalisations, l'équipement technique des véhicules, les règles de la circulation.
 
-Les contraventions de police : définition et sources légales, classification, la répression, insertion au casier judiciaire, le sursis, la prescription.
+Les contraventions de police : définition, classification, répression.
 
-Rôle du gardien de police : ses attributions policières, administratives et sociales, conduite à tenir en cas de flagrant délit, de crime, de délit non flagrant, en présence d'un cadavre ou d'une personne inanimée, d'un blessé de la voie publique, d'une personne mineure.
+Rôle du gardien de police : ses attributions policières, administratives et sociales ; conduite à tenir en cas de flagrant délit, de crime, de délit non flagrant, en présence d'un cadavre ou d'une personne évanouie, d'un blessé sur la voie publique, d'une personne mineure.

@@ -8,7 +8,7 @@ Epreuves écrites :
 
 1° Etablissement d'une note exposant brièvement des faits relatés dans un rapport mis à la disposition du candidat (durée : une heure trente ; coefficient 3).
 
-2° Deux problèmes d'arithmétique : questions simples d'application sur les quatre opérations, la règle de trois, les partages, le système métrique, les surfaces des carré, rectangle, triangle, cercle et les volumes des cubes, parallélépipède rectangle (durée : une heure ; coefficient 2).
+2° Deux problèmes d'arithmétique : questions simples d'application sur les quatre opérations, la règle de trois, les partages, le système métrique, les surfaces des carré, rectangle, triangle, cercle (durée : une heure ; coefficient 2).
 
 3° Confection d'un tableau pouvant comporter des opérations simples (durée : une heure ; coefficient 1).
 
