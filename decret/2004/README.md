@@ -57,6 +57,8 @@
 - [Décret n°2004-33 du 8 janvier 2004 (MAEJ0330108D)](decret-n2004-33-du-8-janvier-2004-maej0330108d)
 - [Décret n°2004-678 du 8 juillet 2004 (FPPA0400023D)](decret-n2004-678-du-8-juillet-2004-fppa0400023d)
 - [Décret n°2004-966 du 8 septembre 2004 (EQUP0301571D)](decret-n2004-966-du-8-septembre-2004-equp0301571d)
+- [Décret n°2004-121 du 9 février 2004 (SOCS0420417D)](decret-n2004-121-du-9-fevrier-2004-socs0420417d)
+- [Décret n°2004-122 du 9 février 2004 (JUSX0407120D)](decret-n2004-122-du-9-fevrier-2004-jusx0407120d)
 - [Décret n°2004-30 du 9 janvier 2004 (INTA0300303D)](decret-n2004-30-du-9-janvier-2004-inta0300303d)
 - [Décret n°2004-32 du 9 janvier 2004 (JUSJ0390022D)](decret-n2004-32-du-9-janvier-2004-jusj0390022d)
 - [Décret n°2004-37 du 9 janvier 2004 (BUDX0300066D)](decret-n2004-37-du-9-janvier-2004-budx0300066d)
