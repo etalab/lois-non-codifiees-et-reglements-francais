@@ -218,7 +218,6 @@
 - [Arrêté du 8 juin 1990 (ECOC9000038A)](arrete-du-8-juin-1990-ecoc9000038a)
 - [Arrêté du 8 juin 1990 (INDD9000420A)](arrete-du-8-juin-1990-indd9000420a)
 - [Arrêté du 8 juin 1990 (INDD9000423A)](arrete-du-8-juin-1990-indd9000423a)
-- [Arrêté du 8 juin 1990 (INDD9000457A)](arrete-du-8-juin-1990-indd9000457a)
 - [Arrêté du 8 novembre 1990 (AGRP9001786A)](arrete-du-8-novembre-1990-agrp9001786a)
 - [Arrêté du 8 novembre 1990 (MICT9000708A)](arrete-du-8-novembre-1990-mict9000708a)
 - [Arrêté du 8 octobre 1990 (ECOS9050063A)](arrete-du-8-octobre-1990-ecos9050063a)
