@@ -140,6 +140,7 @@
 - [Arrêté du 5 janvier 1995 (RESR9402059A)](arrete-du-5-janvier-1995-resr9402059a)
 - [Arrêté du 5 janvier 1995 (SPSA9500035A)](arrete-du-5-janvier-1995-spsa9500035a)
 - [Arrêté du 5 juillet 1994 (INDB9400579A)](arrete-du-5-juillet-1994-indb9400579a)
+- [Arrêté du 5 juillet 1995 (SANH9502092A)](arrete-du-5-juillet-1995-sanh9502092a)
 - [Arrêté du 5 mai 1994 (INDB9400643A)](arrete-du-5-mai-1994-indb9400643a)
 - [Arrêté du 5 mai 1994 (INDB9400644A)](arrete-du-5-mai-1994-indb9400644a)
 - [Arrêté du 5 mai 1995 (ACVA9510011A)](arrete-du-5-mai-1995-acva9510011a)

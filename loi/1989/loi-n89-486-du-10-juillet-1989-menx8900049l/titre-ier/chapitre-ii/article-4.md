@@ -4,7 +4,7 @@ La scolarité est organisée en cycles pour lesquels sont définis des objectifs
 
 La scolarité de l'école maternelle à la fin de l'école élémentaire comporte trois cycles.
 
-Les collèges dispensent un enseignement réparti sur deux cycles.
+Les collèges dispensent un enseignement réparti en trois cycles.
 
 Les cycles des lycées d'enseignement général et technologique et des lycées professionnels conduisent aux diplômes d'enseignement général, technologique et professionnel, notamment au baccalauréat.
 
