@@ -1,48 +1,22 @@
 # Article 3
 
-Le montant maximum (M. max.) du prêt aidé par l'Etat (prêts LLS) susceptible d'être accordé à un organisme pour une opération déterminée est calculé de la façon suivante (en francs) :
+Le montant maximum (Mmax) du prêt aidé par l'Etat (LLS) susceptible d'être accordé à un organisme pour une opération déterminée est calculé de la façon suivante (en francs) :
 
 Départements de la Guadeloupe et de la Martinique :
 
-Sa
-
-125 148 N + 3 978 S +
-
-2
-
-(
-
-)
+120 614 N + 3 834 (S + Sa/2) ;
 
 Département de la Guyane :
 
-Sa
-
-123 334 N + 3 920 S +
-
-2
-
-(
-
-)
+124 321 N + 3 951 (S + Sa/2) ;
 
 Département de la Réunion :
 
-Sa
-
-131 477 N + 4 179 S +
-
-"
-
-2
-
-(
-
-)
+125 001 N + 3 973 (S + Sa/2) ;
 
 N est le nombre de logements de l'opération concernée ;
 
-S est la somme des surfaces des logements telles qu'elles sont définies par l'article 2 de l'arrêté du 13 mars 1986 modifié susvisé relatif aux caractéristiques techniques et du prix de revient des logements locatifs sociaux dans les départements d'outre-mer ;
+S est la somme des surfaces des logements telles qu'elles sont définies par l'article 2 de l'arrêté du 13 mars 1986 modifié précité relatif aux caractéristiques techniques et de prix de revient des logements locatifs sociaux dans les départements d'outre-mer ;
 
 Sa est la surface des annexes et varangues non comprises dans S.
 

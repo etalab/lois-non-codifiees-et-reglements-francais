@@ -4,25 +4,33 @@ Les organismes réalisant des opérations de logements locatifs très sociaux (L
 
 1° Les prêts LLTS sont accordés aux organismes par la Caisse des dépôts et consignations dans les conditions fixées à l'article 6 ci-dessus, sous réserve des dispositions suivantes :
 
-Les conditions de taux d'intérêt et la progressivité des annuités sont déterminées selon l'une des deux options suivantes :
+Les conditions de taux d'intérêt et la progressivité des annuités sont déterminées selon l'une des deux options suivantes dans les départements de la Guadeloupe, de la Martinique et de la Réunion :
 
 Option 1 :
 
-Le taux d'intérêt (I) est de 1,6 p. 100 l'an ;
+- le taux d'intérêt I est de 1,9 % l'an ;
 
-Les annuités progressent de 1 p. 100 l'an ;
+- les annuités progressent de 1 % l'an ;
 
 Option 2 :
 
-Le taux d'intérêt (I) est de 1,45 p. 100 l'an ;
+- le taux d'intérêt I est de 1,8 % l'an ;
 
-Les annuités progressent de 0 p. 100 l'an.
+- les annuités progressent de 0 % l'an.
 
-Pour l'application des 2° et 3° de l'article 6 et s'il y a eu variation de la rémunération versée aux titulaires des premiers livrets de caisse d'épargne, le coefficient R est déterminé par la formule suivante :
+Dans le département de la Guyane, les conditions de taux d'intérêt et la progressivité des annuités sont déterminées selon l'une des deux options suivantes :
 
-DT R = 1 +  .
+Option 1 :
 
-1,043
+- le taux d'intérêt I est de 1,6 % l'an ;
+
+- les annuités progressent de 1 % l'an ;
+
+Option 2 :
+
+- le taux d'intérêt I est de 1,45 % l'an ;
+
+- les annuités progressent de 0 % l'an.
 
 2° Le montant maximum de prêts LLTS est limité à 95 p. 100 du M. max. calculé conformément aux dispositions de l'article 3 ci-dessus. Si l'organisme bénéficie d'une subvention complémentaire en application de l'article 8 du présent arrêté, le montant du prêt est diminué de cette subvention complémentaire. Le montant du prêt ainsi calculé est réduit du montant du prêt accordé pour l'acquisition du terrain, en application de l'article 14 du présent arrêté.
 

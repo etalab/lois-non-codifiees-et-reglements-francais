@@ -1,0 +1,3 @@
+# Article 7
+
+Le présent arrêté [*champ d'application*] est applicable aux opérations faisant l'objet d'une décision de financement postérieurement à sa publication. Les programmes de logements ayant fait l'objet d'un permis de construire antérieur à la publication du présent arrêté mais qui ne satisferaient pas aux caractéristiques techniques fixées à l'article premier ci-dessus pourront à titre dérogatoire, et jusqu'au 1er juillet 1986, et sur décision du commissaire de la République, bénéficier des dispositions de l'arrêté relatif aux prêts aidés par l'Etat et aux subventions de l'Etat susceptibles d'être accordés aux organismes réalisant des logements locatifs sociaux dans les départements d'outre-mer.

@@ -252,6 +252,7 @@
 - [Décret n°98-203 du 20 mars 1998 (DEFP9702238D)](decret-n98-203-du-20-mars-1998-defp9702238d)
 - [Décret n°98-204 du 20 mars 1998 (DEFP9702239D)](decret-n98-204-du-20-mars-1998-defp9702239d)
 - [Décret n°98-205 du 20 mars 1998 (DEFP9702240D)](decret-n98-205-du-20-mars-1998-defp9702240d)
+- [Décret n°98-298 du 20 avril 1998 (INTE9800092D)](decret-n98-298-du-20-avril-1998-inte9800092d)
 - [Décret n°75-789 du 21 août 1975](decret-n75-789-du-21-aout-1975)
 - [Décret n°98-48 du 21 janvier 1998 (EQUA9701385D)](decret-n98-48-du-21-janvier-1998-equa9701385d)
 - [Décret n°98-51 du 21 janvier 1998 (MAEJ9730111D)](decret-n98-51-du-21-janvier-1998-maej9730111d)

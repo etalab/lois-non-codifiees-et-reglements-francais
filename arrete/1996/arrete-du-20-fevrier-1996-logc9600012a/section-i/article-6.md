@@ -10,21 +10,33 @@ Les annuités à la charge de l'emprunteur sont payées annuellement à terme é
 
 Sous réserve de l'effet des clauses d'actualisation et de révision prévues aux 2° et 3° ci-dessous :
 
-Les conditions de taux d'intérêt et de progressivité des annuités sont déterminées selon l'une des deux options suivantes :
+Les conditions de taux d'intérêt et la progressivité des annuités sont déterminées selon l'une des deux options suivantes dans les départements de la Guadeloupe, de la Martinique et de la Réunion :
 
 Option 1 :
 
-Le taux d'intérêt (I) est de 2,5 p. 100 l'an ;
+- le taux d'intérêt I est de 2,8 % l'an ;
 
-Les annuités progressent de 1 p. 100 l'an ;
+- les annuités progressent de 1 % l'an ;
 
 Option 2 :
 
-Le taux d'intérêt (I) est de 2,4 p. 100 l'an ;
+- le taux d'intérêt I est de 2,7 % l'an ;
 
-Les annuités progressent de 0 p. 100 l'an.
+- les annuités progressent de 0 % l'an.
 
-Consolidation du prêt : à l'expiration de la période de préfinancement, celui-ci est consolidé en un prêt à long terme dont le capital est constitué par la somme des versements effectués à l'emprunteur, dans la limite du montant maximum du prêt calculé en application des articles 3 et 5 ci-dessus et des intérêts courus sur ces versements au cours de la période. Le montant des intérêts de la période de préfinancement est calculé en fonction, d'une part, des montants et des dates de versement et, d'autre part, des taux d'intérêt successivement en vigueur pendant cette période dans les conditions fixées au 2° ci-dessous.
+Dans le département de la Guyane, les conditions de taux d'intérêt et la progressivité des annuités sont déterminées selon l'une des deux options suivantes :
+
+Option 1 :
+
+- le taux d'intérêt I est de 2,5 % l'an ;
+
+- les annuités progressent de 1 % l'an ;
+
+Option 2 :
+
+- le taux d'intérêt I est de 2,4 % l'an ;
+
+- les annuités progressent de 0 % l'an.
 
 2° Actualisation du taux d'intérêt à compter de la date d'établissement du contrat :
 
@@ -44,7 +56,7 @@ Le coefficient de révision (R) est déterminé par la formule suivante :
 
 DT
 
-R = 1 +  . "
+R = 1 +  .
 
 1,048
 
