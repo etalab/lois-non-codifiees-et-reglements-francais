@@ -12,7 +12,7 @@ D'assurer la représentation des Houillères de bassin auprès des pouvoirs publ
 
 A ces fins, les Charbonnages de France sont chargés notamment :
 
-1° De présenter à l'approbation du Gouvernement un plan de production et d'équipement des mines de combustibles minéraux définis à l'article 145 du Code minier ;
+1° De présenter à l'approbation du Gouvernement un plan de production et d'équipement des mines de combustibles minéraux définis à l'article 145 du code minier ;
 
 2° D'assurer dans les conditions prévues à l'article 21 ci-dessus le service et le remboursement des emprunts existant au 17 mai 1946 et des titres remis aux actionnaires expropriés et aux ayants droit des entreprises nationalisées, de coordonner l'émission des emprunts émis par les diverses Houillères de bassin ou d'assurer l'émission, le service et le remboursement d'emprunts contractés tant pour leurs besoins propres que pour ceux des Houillères de bassin, en particulier pour la mise en oeuvre du plan prévu à l'alinéa 1° ci-dessus ;
 
@@ -23,3 +23,5 @@ A ces fins, les Charbonnages de France sont chargés notamment :
 5° D'établir, pour l'ensemble des Houillères de France, un plan comptable et de réaliser, sous réserve de l'approbation du ministre chargé de l'énergie, entre les Houillères de bassin et, s'il y a lieu les mines qui ne sont pas comprises dans la nationalisation, une compensation de caractère forfaitaire destinée à assurer l'équilibre financier de leurs exploitations respectives ;
 
 6° D'exercer sur les Houillères de bassin tous contrôles permettant de vérifier que leur gestion est satisfaisante au regard des directives et des décisions qu'il ont arrêtées ; ils leur adressent éventuellement les observations et recommandations que lesdits contrôles feraient apparaître opportunes.
+
+7° D'assumer la succession des houillères de bassin dont la dissolution a été prononcée.
