@@ -15,6 +15,7 @@
 - [Arrêté du 4 septembre 1981](arrete-du-4-septembre-1981)
 - [Arrêté du 4 mai 1981](arrete-du-4-mai-1981)
 - [Arrêté du 5 juin 1981](arrete-du-5-juin-1981)
+- [Arrêté du 5 octobre 1981](arrete-du-5-octobre-1981)
 - [Arrêté du 6 avril 1981](arrete-du-6-avril-1981)
 - [Arrêté du 6 février 1981](arrete-du-6-fevrier-1981)
 - [Arrêté du 6 janvier 1981](arrete-du-6-janvier-1981)
