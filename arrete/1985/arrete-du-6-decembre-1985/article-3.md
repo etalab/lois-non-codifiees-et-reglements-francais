@@ -1,3 +1,3 @@
 # Article 3
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+L'émission sera close sans préavis. La date de règlement est fixée au 13 décembre 1985.

@@ -146,6 +146,10 @@ Adjoint technique d'une commune.
 
 Certificats de technicien sanitaire et de technicien supérieur de génie sanitaire délivrés par l'école nationale de la santé publique.
 
-Titres et diplômes de l'enseignement technologique homologues aux niveaux III et IV dans le groupe de formation 19.
+Titres et diplômes de l'enseignement technologique homologués aux niveaux III et IV dans le groupe de formation 19.
 
 Diplôme de technicien gestionnaire de la fonction linge en milieu hospitalier délivré par la chambre de commerce et d'industrie d'Epinal.
+
+Formation de technicien biomédical de l'assistance publique à Marseille :
+
+Diplôme de technicien gestionnaire de la fonction linge en milieu hospitalier délivré par le centre technique de la teinturerie et du nettoyage de l'institut de recherche sur l'entretien du nettoyage (CTTN - IREN)
