@@ -49,6 +49,7 @@
 - [Article 8-8-1](article-8-8-1.md)
 - [Article 8-9](article-8-9.md)
 - [Article 8-9-1](article-8-9-1.md)
+- [Article 8-10](article-8-10.md)
 - [Article 8-10-1](article-8-10-1.md)
 - [Article 8-10-2](article-8-10-2.md)
 - [Article 8-11](article-8-11.md)
