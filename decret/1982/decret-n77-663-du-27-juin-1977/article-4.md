@@ -1,13 +1,17 @@
 # Article 4
 
-Le taux de l'allocation de remplacement est égal à un pourcentage du coût réel du remplacement, dans la limite d'un maximum ; le pourcentage et le montant maximum des frais de remplacement auxquels il s'applique sont fixés par arrêté conjoint du ministre de l'agriculture et du ministre délégué auprès du ministre de l'économie et des finances, chargé du budget, après avis du conseil supérieur des prestations sociales agricoles.
+Le montant de l'allocation de remplacement visée à l'article 3 est déterminé dans les conditions ci-après :
 
-Le bénéfice de l'allocation prévue à l'article 3 ci-dessus doit être demandé à l'organisme assureur dont relève l'intéressée, au titre de l'assurance maladie des exploitants agricoles, au moyen d'un imprimé dont le modèle est fixé par arrêté du ministre de l'agriculture. Un exemplaire de cet imprimé est joint au carnet de maternité délivré aux personnes affiliées à l'assurance maladie des exploitants agricoles.
+I. - Un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé du budget, pris après avis du Conseil supérieur des prestations sociales agricoles, fixe un prix de journée de référence ainsi qu'un pourcentage de prise en charge servant à déterminer le montant de l'allocation de remplacement.
 
-La demande doit, sauf cas de force majeure, être adressée à l'organisme assureur [*compétent*] dont relève l'intéressée pour l'assurance maladie des exploitants agricoles, vingt jours au moins avant la date prévue pour l'interruption d'activité. L'organisme assureur doit faire connaître sa décision dans un délai de dix jours après réception de la demande.
+II. - La convention annuelle signée entre chaque caisse de mutualité sociale agricole et chacun des organismes de remplacement intervenant dans la circonscription de la caisse fixe le prix de journée de chaque service de remplacement. Ce prix est calculé suivant des modalités déterminées par un arrêté conjoint du ministre chargé de l'agriculture et du ministre chargé du budget en fonction des charges supportées par le service.
 
-L'allocation est versée directement par l'organisme assureur à l'organisme par l'intermédiaire duquel a été effectué le
+III. - Dans le cas où l'assurée embauche directement un remplaçant, le montant de l'allocation de remplacement est calculé en appliquant aux frais réels de remplacement, dans la limite du montant du prix de journée de référence, le pourcentage de prise en charge visé au I ci-dessus.
 
-remplacement : les modalités de ce versement sont fixées par la convention prévue à l'article 2 ci-dessus, que la caisse de mutualité sociale agricole doit porter à la connaissance des autres organismes assureurs habilités à gérer l'assurance maladie des exploitants agricoles dans sa circonscription.
+Lorsque l'assurée recourt à un service de remplacement, le montant de l'allocation de remplacement est calculé en fonction du prix de journée du service de remplacement.
 
-Lorsque le remplacement n'a pas pu être effectué par l'intermédiaire d'un service de remplacement, le montant de l'allocation est versé à la bénéficiaire par l'organisme assureur sur présentation, par celle-ci, dans les formes fixées par arrêté du ministre de l'agriculture, d'un relevé des frais exposés pour son remplacement.
+Lorsque ce prix de journée est d'un montant compris entre 90 p. 100 et 110 p. 100 du prix de journée de référence, le montant de l'allocation de remplacement est déterminé en appliquant à ce prix de journée le pourcentage de prise en charge visé au I ci-dessus.
+
+Lorsque le prix de journée du service de remplacement est inférieur ou supérieur de plus de 10 p. 100 au prix de référence fixé par arrêté, le montant de l'allocation de remplacement est obtenu en appliquant le pourcentage de prise en charge visé au I ci-dessus respectivement à 90 p. 100 et à 110 p. 100 du prix de référence.
+
+La part des frais de remplacement laissée à la charge de l'agricultrice ne peut être inférieure à 10 p. 100 du prix de référence.
