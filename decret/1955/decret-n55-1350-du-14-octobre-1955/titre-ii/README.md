@@ -2,3 +2,4 @@
 
 - [Chapitre Ier : Publicité des privilèges et des hypothèques](chapitre-ier)
 - [Chapitre II : Publicité des droits sur les immeubles autres que les privilèges et les hypothèques.](chapitre-ii)
+- [Chapitre III : Dispositions communes aux chapitres I et II](chapitre-iii)
