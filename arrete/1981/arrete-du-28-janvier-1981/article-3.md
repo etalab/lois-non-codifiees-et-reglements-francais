@@ -1,3 +1,3 @@
 # Article 3
 
-Le présent arrêté sera publié au Journal officiel de la République française.
+Le montant de cette indemnité sera aligné sur celui de l'indemnité de même nature allouée aux agents communaux.
