@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé auprès du ministre chargé de la santé un Comité national pour la diffusion des produits biologiques obtenus par fractionnement du sang et des substituts sanguins obtenus par d'autres méthodes.
+Les déclarations à souscrire au titre de l'année 1986 par les utilisateurs d'essence destinée aux travaux agricoles seront établies sur des imprimés spéciaux mis à cet effet à la disposition des intéressés dans les mairies [*lieu*]. Les déclarations devront être déposées dans les mairies avant le 28 février 1986 [*date limite de dépôt*].

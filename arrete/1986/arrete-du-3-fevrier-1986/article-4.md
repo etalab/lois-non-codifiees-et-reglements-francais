@@ -1,3 +1,3 @@
 # Article 4
 
-Le président du comité national est nommé pour quatre ans par le ministre chargé de la santé et choisi parmi les membres nommés par le ministre.
+Le directeur de l'aménagement est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
