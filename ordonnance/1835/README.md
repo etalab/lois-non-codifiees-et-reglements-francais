@@ -1,3 +1,3 @@
 # 1835
 
-- [Ordonnance du 10 juillet 1835](ordonnance-du-10-juillet-1835)
+- [Ordonnance du 14 novembre 1835](ordonnance-du-14-novembre-1835)
