@@ -20,6 +20,8 @@ Le détachement d'un fonctionnaire ne peut avoir lieu que dans l'un des cas suiv
 
 8° bis. - Détachement auprès d'un groupement d'intérêt public entrant dans l'un des cas prévus aux articles L. 668-I (4e alinéa, 2°) et L. 713-12 du code de la santé publique, ou d'un groupement d'intérêt économique mentionné à l'article L. 713-12 ;
 
+8 ter. - Détachement auprès d'une agence régionale de l'hospitalisation ;
+
 9° Détachement pour l'accomplissement d'un stage ou d'une période de scolarité préalable à la titularisation dans un emploi permanent de l'Etat, d'une collectivité territoriale ou d'un établissement public à caractère administratif, ou pour suivre un cycle de préparation à un concours donnant accès à l'un de ces emplois ;
 
 10° Détachement pour exercer un mandat syndical ;
