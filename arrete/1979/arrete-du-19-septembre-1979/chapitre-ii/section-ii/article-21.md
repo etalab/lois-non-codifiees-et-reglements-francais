@@ -1,6 +1,6 @@
 # Article 21
 
-Les demandes d'inscription au registre national des brevets prévues à l'article 76 du décret précité sont remises en quatre exemplaires et comportent [*contenu - mentions obligatoires*] :
+Les demandes d'inscription au registre national des brevets prévues à l'article 76 du décret précité sont remises en quatre exemplaires et comportent :
 
 1° Si la demande de brevet a été déposée avant le 1er janvier 1969, la date et le lieu de dépôt, le numéro de procès-verbal de dépôt s'il s'agit d'une demande ou le numéro de délivrance s'il s'agit d'un brevet, et le nom du déposant de la demande de brevet ;
 

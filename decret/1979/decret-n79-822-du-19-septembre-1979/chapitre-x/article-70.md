@@ -1,0 +1,7 @@
+# Article 70
+
+Le délai de six mois, prévu par le second alinéa de l'article 41 de la loi précitée, pendant lequel les paiements effectués après la date d'échéance des taxes annuelles sont validés moyennant le paiement d'une surtaxe de retard, est compté du jour de l'échéance de la taxe annuelle fixé à l'alinéa 4 de l'article 94.
+
+Sont considérés comme valables les paiements effectués après la date d'échéance et relatifs à une demande de brevets résultant soit de la division d'une demande de brevet, soit de la transformation d'une demande de certificat d'addition à condition que ces paiements aient lieu au plus tard le dernier jour du quatrième mois suivant la date du dépôt de la demande divisionnaire ou du dépôt de la requête en transformation du certificat d'addition [*délai maximum*].    Le calcul des délais prévus aux alinéas précédents se fait dans les conditions prévues à l'article 122. En outre, si le jour des échéances des taxes annuelles ou le dernier jour desdits délais est un samedi, un dimanche, un jour férié ou chômé ou un jour où les bureaux de l'institut national de la propriété industrielle habilités à recevoir les versements ne sont pas ouverts, les paiements peuvent être valablement faits le premier jour ouvrable suivant.
+
+Les dispositions du présent article sont applicables aux demandes de brevet déposées avant la date d'entrée en vigueur du présent décret ainsi qu'aux brevets délivrés avant cette date, lorsque l'échéance des taxes annuelles est postérieure à cette date.

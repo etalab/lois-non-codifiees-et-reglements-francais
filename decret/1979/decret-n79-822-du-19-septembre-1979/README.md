@@ -1,0 +1,17 @@
+# Décret n°79-822 du 19 septembre 1979 relatif aux demandes de brevet d'invention et de certificat d'utilité, à la délivrance et au maintien en vigueur de ces titres
+
+- [Chapitre Ier : De la demande de brevet.](chapitre-ier)
+- [Chapitre II : Demandes intéressant la défense nationale.](chapitre-ii)
+- [Chapitre III : Division de la demande.](chapitre-iii)
+- [Chapitre IV : Rectification, retrait et publication de la demande.](chapitre-iv)
+- [Chapitre V : Rejet de la demande.](chapitre-v)
+- [Chapitre VI : De l'avis documentaire.](chapitre-vi)
+- [Chapitre VII : Délivrance et publication du brevet.](chapitre-vii)
+- [Chapitre VIII : Désignation de l'inventeur et revendication de propriété.](chapitre-viii)
+- [Chapitre IX : De la licence de droit.](chapitre-ix)
+- [Chapitre X : Renonciation, déchéance et nullité.](chapitre-x)
+- [Chapitre XI : Registre national des brevets.](chapitre-xi)
+- [Chapitre XII : Du certificat d'addition.](chapitre-xii)
+- [Chapitre XIII : Du certificat d'utilité.](chapitre-xiii)
+- [Chapitre XIV : Taxes et redevances.](chapitre-xiv)
+- [Chapitre XVII : Dispositions diverses.](chapitre-xvii)

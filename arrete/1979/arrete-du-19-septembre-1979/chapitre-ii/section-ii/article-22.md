@@ -1,6 +1,6 @@
 # Article 22
 
-Les demandes d'inscription au registre national des brevets prévues à l'article 80 du décret précité sont remises en quatre exemplaires et comportent [*contenu - mentions obligatoires*] :
+Les demandes d'inscription au registre national des brevets prévues à l'article 80 du décret précité sont remises en quatre exemplaires et comportent :
 
 1° Les mentions prévues à l'article 21 ci-dessus (alinéa 1° et 2°) ;
 
