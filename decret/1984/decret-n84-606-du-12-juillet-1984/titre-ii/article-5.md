@@ -1,6 +1,6 @@
 # Article 5
 
-Le comité de liaison réunit les présidents de dix comités de bassin d'emploi désignés par le ministre chargé de l'emploi et des représentants des ministères chargés de [*composition*] :
+Le comité de liaison réunit les présidents de douze comités de bassin d'emploi désignés par le ministre chargé de l'emploi et des représentants des ministères chargés de [*composition*] :
 
 - l'emploi ;
 
