@@ -14,6 +14,10 @@ Rédaction, à partir d'un dossier, d'une note de synthèse ayant pour objet de 
 
 - soit l'aptitude à l'analyse et au raisonnement économique (durée : quatre heures ; coefficient 3).
 
+A titre exceptionnel pour la première session des concours d'inspecteurs des affaires sanitaires et sociales organisés au titre de l'année 1992 :
+
+- une interrogation portant au choix du candidat exprimé à l'issue des épreuves écrites sur l'une des matières à option non choisies à la troisième épreuve écrite d'admissibilité (durée : vingt minutes, après préparation de vingt minutes ; coefficient 3).
+
 3. Composition portant au choix du candidat exprimé avant la clôture des inscriptions sur l'une des matières suivantes (durée :
 
 quatre heures ; coefficient 3) :
@@ -31,6 +35,26 @@ Techniques quantitatives ;
 Economie de la santé ;
 
 Psychologie et sociologie.
+
+A titre exceptionnel pour la première session des concours d'inspecteurs des affaires sanitaires et sociales organisés au titre de l'année 1992 :
+
+Composition portant au choix du candidat après communication des sujets sur l'une des matières suivantes :
+
+Finances publiques ;
+
+Droit public ;
+
+Droit hospitalier ;
+
+Système français de protection sociale ;
+
+Techniques quantitatives ;
+
+Economie de la santé ;
+
+Psychologie et sociologie.
+
+(Durée : quatre heures ; coefficient 3).
 
 II. - Epreuves d'admission
 
