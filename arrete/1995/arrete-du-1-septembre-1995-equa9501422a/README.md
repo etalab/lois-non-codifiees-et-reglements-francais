@@ -1,8 +1,7 @@
-# Arrêté du 4 août 1987 relatif au certificat d'études cliniques spéciales mention Orthodontie
+# Arrêté du 1 septembre 1995 fixant les règles à suivre lorsque des incidents de la circulation aérienne sont constatés
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
-- [Article 2 bis](article-2-bis.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
@@ -13,3 +12,4 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
+- [Article 13](article-13.md)

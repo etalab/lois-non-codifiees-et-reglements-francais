@@ -1,0 +1,5 @@
+# Article 8
+
+Le compte rendu Réclamation déposé par un usager, conforme au modèle annexé au présent arrêté, est indispensable au déclenchement d'une enquête. Il est adressé dans les meilleurs délais, et au plus tard dans un délai de deux semaines à compter de la date de l'incident, au S.C.T.A. et, dans la mesure du possible, à l'organisme de la circulation aérienne concerné. Le S.C.T.A. informe l'organisme concerné dès réception puis, si nécessaire, le lui retransmet.
+
+Le compte rendu Réclamation déposé par un agent d'un organisme de la circulation aérienne est, après une première analyse destinée à juger de l'opportunité de la poursuite de la procédure, adressé au commandant de bord concerné si son adresse est connue et, dans tous les cas, à l'exploitant ou au propriétaire de l'aéronef. L'usager doit faire parvenir ses commentaires et explications à l'organisme de la circulation aérienne réclamant dans les meilleurs délais et au plus tard dans un délai de deux semaines à compter de la date de réception du compte rendu.

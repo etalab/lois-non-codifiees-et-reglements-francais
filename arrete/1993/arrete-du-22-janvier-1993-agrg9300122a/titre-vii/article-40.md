@@ -1,5 +1,3 @@
 # Article 40
 
-Les établissements conformes aux dispositions du présent arrêté sont agréés par la direction générale de l'alimentation (sous-direction de l'hygiène alimentaire) du ministère de l'agriculture et du développement rural, qui délivre le numéro d'agrément prévu à l'article 33.
-
-La liste des établissements agréés est publiée au moyen d'un avis au Journal officiel de la République française.
+Les établissements conformes aux dispositions du présent arrêté sont agréés dans les conditions fixées par l'arrêté du 28 juin 1994 relatif à l'identification et à l'agrément sanitaire des établissements mettant sur le marché des denrées animales ou d'origine animale et au marquage de salubrité.
