@@ -4,6 +4,4 @@ Le commissaire du Gouvernement [*attributions*] assiste aux séances du conseil 
 
 Il a pouvoir, notamment, pour former devant le conseil d'Etat tout recours contre les décisions prises par la chambre nationale de discipline et par le comité national du tableau.
 
-Les décisions du conseil supérieur et celles de la commission permanente ne sont exécutoires qu'après avoir été revêtues de son approbation.
-
-D'autre part, le commissaire du Gouvernement dirige, contrôle et coordonne l'action des commissaires régionaux du Gouvernement à l'échelon régional.
+Les décisions du conseil supérieur et celles de la commission permanente ne sont exécutoires qu'après avoir été revêtues de son approbation. A l'expiration d'un délai de deux mois, le silence du commissaire du Gouvernement vaut approbation [*accord tacite*]. Ses décisions de rejet sont motivées.

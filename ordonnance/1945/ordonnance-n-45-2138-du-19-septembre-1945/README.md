@@ -5,4 +5,4 @@
 - [Titre II : De l'administration de l'ordre](titre-ii)
 - [Titre III : Du tableau.](titre-iii)
 - [Titre IV : De la discipline.](titre-iv)
-- [Titre V : Des commissaires du gouvernement.](titre-v)
+- [Titre V : De la tutelle des pouvoirs publics sur l'ordre.](titre-v)
