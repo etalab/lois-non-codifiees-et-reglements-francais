@@ -2,6 +2,7 @@
 
 - [Titre I : Mesures de sûreté relatives aux générateurs placés à demeure.](titre-i)
 - [Article 1-2](article-1-2.md)
+- [Article 2](article-2.md)
 - [Titre II : Etablissement des générateurs placés à demeure.](titre-ii)
 - [Titre III : Générateurs mobiles.](titre-iii)
 - [Titre IV : Récipients.](titre-iv)
