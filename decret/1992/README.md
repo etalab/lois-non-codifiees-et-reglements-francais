@@ -466,7 +466,6 @@
 - [Décret n°92-1304 du 14 décembre 1992 (SPSS9202985D)](decret-n92-1304-du-14-decembre-1992-spss9202985d)
 - [Décret n°92-141 du 14 février 1992 (INDG9100988D)](decret-n92-141-du-14-fevrier-1992-indg9100988d)
 - [Décret n°92-144 du 14 février 1992 (SANP9102787D)](decret-n92-144-du-14-fevrier-1992-sanp9102787d)
-- [Décret n°92-387 du 14 avril 1992 (PRMX9210468D)](decret-n92-387-du-14-avril-1992-prmx9210468d)
 - [Décret n°92-51 du 14 janvier 1992 (RESY9100464D)](decret-n92-51-du-14-janvier-1992-resy9100464d)
 - [Décret n°92-54 du 14 janvier 1992 (EQUC9101220D)](decret-n92-54-du-14-janvier-1992-equc9101220d)
 - [Décret n°92-793 du 14 août 1992 (AGRS9201138D)](decret-n92-793-du-14-aout-1992-agrs9201138d)
