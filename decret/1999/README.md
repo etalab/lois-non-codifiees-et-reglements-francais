@@ -178,6 +178,7 @@
 - [Décret n°99-102 du 16 février 1999 (ECOT9820078D)](decret-n99-102-du-16-fevrier-1999-ecot9820078d)
 - [Décret n°99-195 du 16 mars 1999 (EQUK9900342D)](decret-n99-195-du-16-mars-1999-equk9900342d)
 - [Décret n°99-222 du 16 mars 1999 (MCCA9800165D)](decret-n99-222-du-16-mars-1999-mcca9800165d)
+- [Décret n°99-298 du 16 avril 1999 (AGRE9801706D)](decret-n99-298-du-16-avril-1999-agre9801706d)
 - [Décret n°99-952 du 16 novembre 1999 (MESG9922810D)](decret-n99-952-du-16-novembre-1999-mesg9922810d)
 - [Décret n°2000-265 du 17 mars 2000 (MENF0000158D)](decret-n2000-265-du-17-mars-2000-menf0000158d)
 - [Décret n°98-611 du 17 juillet 1998 (INTM9800004D)](decret-n98-611-du-17-juillet-1998-intm9800004d)
