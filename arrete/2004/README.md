@@ -357,6 +357,7 @@
 - [Arrêté du 26 mars 2004 (EQUU0400077A)](arrete-du-26-mars-2004-equu0400077a)
 - [Arrêté du 26 novembre 2004 (EQUA0401316A)](arrete-du-26-novembre-2004-equa0401316a)
 - [Arrêté du 26 novembre 2004 (FPPA0400123A)](arrete-du-26-novembre-2004-fppa0400123a)
+- [Arrêté du 27 avril 2004 (EQUP0400474A)](arrete-du-27-avril-2004-equp0400474a)
 - [Arrêté du 27 avril 2004 (SANS0421119A)](arrete-du-27-avril-2004-sans0421119a)
 - [Arrêté du 27 décembre 2004 (SANG0424458A)](arrete-du-27-decembre-2004-sang0424458a)
 - [Arrêté du 27 février 2004 (DEVG0430065A)](arrete-du-27-fevrier-2004-devg0430065a)

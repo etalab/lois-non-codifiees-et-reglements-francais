@@ -1,0 +1,3 @@
+# Article 8
+
+Si, à l'expiration de la période fixée au A du II de l'article 109 de la loi n° 2003-775 du 21 août 2003 portant réforme des retraites, le participant n'a pas exprimé son choix quant au transfert des sommes inscrites à son compte à un plan partenarial d'épargne salariale volontaire, tel que défini à l'article L. 443-1-2 du code du travail dans sa rédaction en vigueur avant la publication de ladite loi, et que plusieurs options de plans d'épargne d'une même durée lui étaient offertes, les sommes acquises sont transférées dans le plan d'épargne de son entreprise ou, à défaut, dans le plan d'épargne du groupe. En l'absence de l'un et l'autre de ces plans, les sommes sont transférées dans le plan d'épargne interentreprises.

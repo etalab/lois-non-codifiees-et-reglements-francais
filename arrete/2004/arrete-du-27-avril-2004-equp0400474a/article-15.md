@@ -1,0 +1,3 @@
+# Article 15
+
+Les arrêtés du 30 avril 2002 fixant les modalités d'organisation du concours interne à caractère professionnel d'accès des ingénieurs des travaux publics de l'Etat, des ingénieurs des études et de l'exploitation de l'aviation civile et des ingénieurs des travaux de la météorologie au corps des ingénieurs des ponts et chaussées ainsi que l'arrêté du 20 décembre 2002 fixant les modalités d'organisation du concours interne à caractère professionnel d'accès des ingénieurs des travaux géographiques et cartographiques de l'Etat au corps des ingénieurs des ponts et chaussées sont abrogés.
