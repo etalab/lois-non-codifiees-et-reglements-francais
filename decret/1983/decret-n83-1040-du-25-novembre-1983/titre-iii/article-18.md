@@ -1,0 +1,5 @@
+# Article 18
+
+Le transport par la voie routière des armes de la 1re catégorie (§ 1, 2 et 3) ou de la 4e catégorie et des éléments de ces armes classés dans ces catégories doit être effectué en utilisant des véhicules fermant à clé. Les armes et éléments de ces armes classés doivent être placés dans des cartons ou des caisses cerclés ou des conteneurs cadenassés ; ils doivent rester pendant toute la durée du transport, et notamment pendant les opérations de chargement et de déchargement ainsi que pendant les arrêts en cours de trajet, sous la garde permanente du conducteur du véhicule ou d'un convoyeur.
+
+Lorsque le transport par la voie routière est effectué dans le cadre d'un groupage de marchandises, l'entreprise de transport doit être informée du contenu des colis qui lui sont remis. Elle doit prendre les mesures de sécurité appropriées pour se prémunir contre les vols au cours des diverses manipulations ainsi que, s'il y a lieu, pendant les stockages provisoires des armes et éléments de ces armes classés dans ses magasins.
