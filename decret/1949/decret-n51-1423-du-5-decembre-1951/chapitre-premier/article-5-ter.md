@@ -1,0 +1,3 @@
+# Article 5 ter
+
+Les fonctionnaires appartenant au corps des professeurs des écoles de rééducation professionnelle de l'Office national des anciens combattants et victimes de guerre accédant à un corps enseignant du ministère de l'éducation nationale sont classés dans leur nouveau corps conformément aux dispositions des articles 8 à 10 du présent décret. A cet effet, le premier et le deuxième grades du corps des professeurs des écoles de rééducation professionnelle de l'Office national des anciens combattants et victimes de guerre, régi par le décret n° 90-195 du 27 février 1990 relatif au statut particulier de ce corps, sont affectés respectivement des coefficients caractéristiques 115 et 135.
