@@ -1,3 +1,3 @@
 # Article 5
 
-Les articles 2 à 4 ci-dessus constituent des mesures de publicité à l'égard du consommateur, sans préjudice de l'application de l'arrêté n° 25-921 du 16 septembre 1971 relatif au marquage, à l'étiquetage et à l'affichage des prix.
+Le directeur des affaires civiles et du sceau au ministère de la justice et le directeur des enseignements supérieurs au ministère des universités sont chargés de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

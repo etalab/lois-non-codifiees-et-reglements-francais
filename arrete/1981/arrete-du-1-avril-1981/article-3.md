@@ -1,7 +1,17 @@
 # Article 3
 
-Les dimensions des caractères utilisés pour la confection de l'affiche visée à l'article 2 ci-dessus doivent être au minimum les suivantes (hauteur, largeur) :
+La durée des enseignements dispensés et des activités pédagogiques organisées par les centres de formation professionnelle ne peut être inférieure à 400 heures par an.
 
-Lettres du titre : 2,5 cm et 1,5 cm.
+Chacun de ces enseignements comporte une durée minimale, ainsi fixée :
 
-Lettres et chiffres du texte : 1 cm et 0,5 cm.
+Etude du statut et de la déontologie des avocats : 40 heures.
+
+Formation pratique à la rédaction de consultations juridiques : 40 heures.
+
+Formation pratique à la rédaction des actes juridiques : 80 heures.
+
+Formation pratique à la conduite des procédures, la conservation et l'exécution des droits : 100 heures.
+
+Formation pratique à l'expression orale et à la discussion : 40 heures.
+
+Enseignements complémentaires : 40 heures.
