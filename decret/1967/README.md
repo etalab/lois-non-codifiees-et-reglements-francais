@@ -72,4 +72,5 @@
 - [Décret n°67-295 du 31 mars 1967](decret-n67-295-du-31-mars-1967)
 - [Décret n°67-315 du 31 mars 1967](decret-n67-315-du-31-mars-1967)
 - [Décret n°67-328 du 31 mars 1967](decret-n67-328-du-31-mars-1967)
+- [Décret n°67-99 du 31 janvier 1967](decret-n67-99-du-31-janvier-1967)
 - [Décret n°69-1265 du 31 décembre 1969](decret-n69-1265-du-31-decembre-1969)
