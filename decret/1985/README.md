@@ -168,6 +168,8 @@
 - [Décret n°85-476 du 26 avril 1985](decret-n85-476-du-26-avril-1985)
 - [Décret n°85-477 du 26 avril 1985](decret-n85-477-du-26-avril-1985)
 - [Décret n°85-478 du 26 avril 1985](decret-n85-478-du-26-avril-1985)
+- [Décret n°85-643 du 26 juin 1985](decret-n85-643-du-26-juin-1985)
+- [Décret n°85-644 du 26 juin 1985](decret-n85-644-du-26-juin-1985)
 - [Décret n°85-291 du 27 février 1985](decret-n85-291-du-27-fevrier-1985)
 - [Décret n°85-334 du 27 février 1985](decret-n85-334-du-27-fevrier-1985)
 - [Décret n°85-371 du 27 mars 1985](decret-n85-371-du-27-mars-1985)
