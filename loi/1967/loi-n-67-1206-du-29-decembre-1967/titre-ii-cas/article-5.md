@@ -1,0 +1,3 @@
+# Article 5
+
+Est puni des peines prévues à l'article L. 39 (alinéa 1er) du Code des postes et télécommunications tout Français qui, en qualité de dirigeant de droit ou de fait d'une personne morale ou en quelque autre qualité que ce soit, a établi ou exploité ou tenté d'établir ou d'exploiter hors du territoire national une station de radiodiffusion destinée à procéder aux émissions visées à l'article 2 dont le support est soit un navire, un aéronef ou un engin flottant, immergé ou aéroporté, n'ayant pas la nationalité française, soit un autre objet flottant ou aéroporté, soit une station de radiodiffusion dont le support est fixé ou prend appui sur le fond de la mer.
