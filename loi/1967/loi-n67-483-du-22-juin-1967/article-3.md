@@ -1,3 +1,3 @@
 # Article 3
 
-Le ministère public près la Cour des comptes est exercé par le procureur général.
+Le procureur général exerce le ministère public près la Cour des comptes ; il veille au bon exercice du ministère public près les chambres régionales des comptes.
