@@ -30,11 +30,21 @@ Pour l'application des 1° et 2° ci-dessus :
 
 Habitations dont le plancher bas du logement le plus haut est situé à vingt-huit mètres au plus au-dessus du sol utilement accessible aux engins des services de secours et de lutte contre l'incendie, parmi lesquelles on distingue :
 
-Troisième famille A : habitations comportant au plus sept étages sur rez-de-chaussée, et dans lesquelles la distance entre la porte palière de logement la plus éloignée et l'accès à l'escalier est au plus égale à sept mètres ;
+Troisième famille A : habitations répondant à l'ensemble des prescriptions suivantes :
 
-Troisième famille B : habitations ne satisfaisant pas aux conditions précédentes.
+- comporter au plus sept étages au rez-de-chaussée ;
 
-Dans les communes dont les services de secours et de lutte contre l'incendie sont dotés d'échelles aériennes de hauteur suffisante, le maire peut décider que les bâtiments classés en troisième famille B, situés dans le secteur d'intervention desdites échelles, peuvent être soumis aux seules prescriptions fixées pour les bâtiments classés en troisième famille A. Dans ce cas la hauteur du plancher bas du logement le plus haut du bâtiment projeté doit correspondre à la hauteur susceptible d'être atteinte par les échelles, et chaque logement doit pouvoir être atteint soit directement soit par un parcours sûr.
+- comporter des circulations horizontales telles que la distance entre la porte palière de logement la plus éloignée et l'accès à l'escalier soit au plus égale à sept mètres ;
+
+- être implantées de telle sorte qu'au rez-de-chaussée les accès aux escaliers soient atteints par la voie échelles définies à l'article 4 ci-après.
+
+Troisième famille B : habitations ne satisfaisant pas à l'une des conditions précédentes.
+
+Ces habitations doivent être implantées de telle sorte que les accès aux escaliers soient situés à moins de cinquante mètres d'une voie ouverte à la circulation répondant aux caractéristiques définies à l'article 4 ci-après "voie engins".
+
+Toutefois, dans les communes dont les services de secours et de lutte contre l'incendie sont dotés d'échelles aériennes de hauteur suffisante, le maire peut décider que les bâtiments classés en troisième famille B, situés dans le secteur d'intervention desdites échelles, peuvent être soumis aux seules prescriptions fixées pour les bâtiments classés en troisième famille A. Dans ce cas, la hauteur du plancher bas du logement le plus haut du bâtiment projeté doit correspondre à la hauteur susceptible d'être atteinte par les échelles et chaque logement doit pouvoir être atteint soit directement, soit par un parcours sûr.
+
+De plus, les bâtiments comportant plus de sept étages sur rez-de-chaussée doivent être équipés de colonnes sèches conformément aux dispositions de l'article 98.
 
 4° Quatrième famille :
 
