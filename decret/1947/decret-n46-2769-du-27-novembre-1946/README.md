@@ -1,6 +1,6 @@
 # Décret n°46-2769 du 27 novembre 1946 portant organisation de la sécurité sociale dans les mines.
 
-- [TITRE 1ER : DISPOSITIONS GENERALES.](titre-1er)
+- [Titre 1er : Champ d'application](titre-1er)
 - [Article 1](article-1.md)
 - [TITRE II : BENEFICIAIRES.](titre-ii)
 - [titre 3 : Organisation technique](titre-3)
