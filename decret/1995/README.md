@@ -45,7 +45,6 @@
 - [Décret n°95-117 du 2 février 1995 (SPSS9500039D)](decret-n95-117-du-2-fevrier-1995-spss9500039d)
 - [Décret n°95-1171 du 2 novembre 1995 (SANH9502754D)](decret-n95-1171-du-2-novembre-1995-sanh9502754d)
 - [Décret n°95-119 du 2 février 1995 (EQUL9401895D)](decret-n95-119-du-2-fevrier-1995-equl9401895d)
-- [Décret n°95-120 du 2 février 1995 (RESM9401918D)](decret-n95-120-du-2-fevrier-1995-resm9401918d)
 - [Décret n°95-128 du 2 février 1995 (EQUU9401978D)](decret-n95-128-du-2-fevrier-1995-equu9401978d)
 - [Décret n°95-129 du 2 février 1995 (EQUU9401977D)](decret-n95-129-du-2-fevrier-1995-equu9401977d)
 - [Décret n°95-235 du 2 mars 1995 (SPSH9500559D)](decret-n95-235-du-2-mars-1995-spsh9500559d)
