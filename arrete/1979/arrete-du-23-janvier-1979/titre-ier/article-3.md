@@ -1,0 +1,3 @@
+# Article 3
+
+Chacune des entreprises visées à l'article 4 de la loi n° 71-383 du 22 mai 1971, assujetties à déclarer leurs activités au comité national interprofessionnel de l'horticulture florale et ornementale et des pépinières, devra lui adresser une fiche conforme au modèle fixé par lui. Toute modification dans les renseignements de déclaration d'activité figurant sur cette fiche donnera lieu obligatoirement à l'envoi au comité national interprofessionnel de l'horticulture florale et ornementale et des pépinières d'une nouvelle fiche correspondant à la nouvelle situation, et qui annulera la fiche précédente.

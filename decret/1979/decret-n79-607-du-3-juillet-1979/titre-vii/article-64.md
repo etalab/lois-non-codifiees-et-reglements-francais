@@ -1,0 +1,7 @@
+# Article 64
+
+Le présent décret prend effet au 1er janvier 1979, sous réserve des dispositions du présent article [*date*].
+
+A titre transitoire, les bénéficiaires non allocataires des régimes de prévoyance gérés par les associations mentionnées à l'article 59 sont affiliés d'office à la caisse mutuelle d'assurance vieillesse des cultes lorsqu'ils relèvent à titre obligatoire du régime d'assurance vieillesse institué par la loi du 2 janvier 1978 susvisé. Les cotisations versées en application dudit article viennent en déduction des cotisations dues, au titre de l'année 1979, en application des articles 24 et 25, dont le solde est versé à la caisse mutuelle d'assurance vieillesse des cultes aux dates fixées par décision du conseil d'administration de la caisse et au plus tard le 15 octobre 1979.
+
+L'affiliation des ministres des cultes et des membres des congrégations et collectivités religieuses non mentionnés au précédent alinéa doit être effectuée à la diligence des associations, congrégations et collectivités religieuses dont ils relèvent dans le délai de trois mois suivant la date de publication du présent décret au Journal officiel. Les cotisations dues pour le compte de ces assurés, au titre de l'année 1979, en application des articles 24 et 25, doivent être versées à la caisse mutuelle d'assurance vieillesse des cultes aux dates fixées par décision du conseil d'administration de la caisse et au plus tard le 15 décembre 1979.

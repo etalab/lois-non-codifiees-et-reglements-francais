@@ -1,0 +1,5 @@
+# Article 42
+
+Sous réserve qu'à la date d'entrée en jouissance de la pension l'assuré soit à jour de ses cotisations personnelles, sont prises en compte pour l'ouverture du droit et le calcul de la pension, les périodes d'exercice d'activités mentionnées à l'article 1er de la loi du 2 janvier 1978 susvisée accomplies antérieurement au 1er janvier 1979 en qualité de ministre d'un culte ou de membre d'une congrégation ou collectivité religieuse, en France métropolitaine et dans les départements d'outre-mer [*DOM*] mentionnés à l'article 1er, lorsque ces périodes ne sont pas validées par un autre régime obligatoire d'assurance vieillesse de base.
+
+Il en est de même pour les périodes d'exercice desdites activités accomplies à l'étranger et dans les territoires français d'outre-mer [*TOM*] par des personnes de nationalité française en qualité de ministre d'un culte ou de membre d'une congrégation ou collectivité religieuse, dans la mesure où ces périodes ont été validées par les régimes de prévoyance mentionnés à l'article 59.

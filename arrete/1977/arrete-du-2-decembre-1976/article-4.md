@@ -14,4 +14,6 @@ Sont considérés comme constituant des établissements distincts au sein d'une 
 
 La tarification de ces établissements est déterminée d'après les règles fixées pour les établissements rattachés auxdits comités ;
 
-6° Les bureaux indépendants de tout autre établissement tel que chantier, magasin, atelire, dépôt occupant du personnel qui n'est appelé à se déplacer qu'exceptionnellement.
+6° Les sièges sociaux et bureaux qui relèvent du numéro de risque 0000 B.
+
+La tarification de ces sièges sociaux et bureaux est déterminée conformément aux dispositions de l'article 2 du présent arrêté, compte tenu du taux collectif et des coûts moyens d'accidents qui   u leur sont propres.
