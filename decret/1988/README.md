@@ -62,6 +62,7 @@
 - [Décret n°88-165 du 19 février 1988 (ASEX8810134D)](decret-n88-165-du-19-fevrier-1988-asex8810134d)
 - [Décret n°88-166 du 19 février 1988 (ASEX8810137D)](decret-n88-166-du-19-fevrier-1988-asex8810137d)
 - [Décret n°88-169 du 19 février 1988 (AGRS8702012D)](decret-n88-169-du-19-fevrier-1988-agrs8702012d)
+- [Décret n°88-183 du 19 février 1988 (AGRS8800248D)](decret-n88-183-du-19-fevrier-1988-agrs8800248d)
 - [Décret n°88-55 du 19 janvier 1988 (ECOT8720050D)](decret-n88-55-du-19-janvier-1988-ecot8720050d)
 - [Décret du 20 janvier 1988 (AGRR8800079D)](decret-du-20-janvier-1988-agrr8800079d)
 - [Décret du 20 janvier 1988 (DEFD8801012D)](decret-du-20-janvier-1988-defd8801012d)
