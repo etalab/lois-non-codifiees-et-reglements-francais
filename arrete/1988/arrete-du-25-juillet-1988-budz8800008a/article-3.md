@@ -2,13 +2,29 @@
 
 Les informations nominatives traitées sont les suivantes :
 
-1. Dossier "2004 informatique" et son résumé permanent (2011) :
+1. Dossier "2004 informatique et son résumé permanent (2011) :
 
-- nom(s), prénom(s), sexe, date et lieu de naissance, adresses (ancienne et nouvelle en cas de déménagement), no FIP, no SPI du contribuable et de son conjoint, coordonnées de l'ancien et du nouveau centre des impôts compétent en cas de déménagement ;
+- nom(s), prénom(s), sexe, date et lieu de naissance, adresses (ancienne et nouvelle en cas de déménagement), n° FIP, n° SPI du contribuable et de son conjoint, coordonnées de l'ancien et du nouveau centre des impôts compétent en cas de déménagement ;
 
-- caractéristiques du dossier (codes du secteur d'assiette et éventuellement de l'inspection spécialisée gestionnaire, code "dossier complexe", renseignements divers sur l'état du dossier) ;
+- caractéristiques du dossier (codes du secteur d'assiette et éventuellement de l'inspection spécialisée gestionnaire, code "dossier complexe, renseignements divers sur l'état du dossier) ;
 
-2. "ILIAD IR-TH" et "impositions supplémentaires" :
+- pour chaque période d'imposition, prescrite ou non prescrite :
+
+- identification du contribuable et de l'imposition ;
+
+- situation de famille et nombre de parts ;
+
+- IR : revenu imposable, droits et pénalités ;
+
+- CSG/CRDS : base, cotisations, pénalités ;
+
+- nature et montant des déficits, s'il y a lieu ;
+
+- nature des engagements et montant des déductions ou réductions d'impôt correspondantes, s'il y a lieu ;
+
+- doubles d'avis et documents de taxation IR primitifs et correctifs, doubles d'avis CSG/CRDS.
+
+2. "Iliad IR-TH et "Impositions supplémentaires :
 
 - nom(s) et prénom(s) ou raison sociale (pour les personnes morales et assimilées redevables de la taxe d'habitation ou de la taxe annuelle sur les logements vacants), sexe, date et lieu de naissance, adresse du contribuable ;
 
@@ -24,9 +40,9 @@ Les informations nominatives traitées sont les suivantes :
 
 - données portées sur les avis d'imposition IR, TH, TLV et CSG/CRDS ;
 
-- description des locaux d'habitation ;
+- description des locaux d'habitation.
 
-3. "Iliad contentieux" :
+3. "Iliad contentieux :
 
 - nom(s) et prénom(s) ou raison sociale, année et lieu de naissance, adresses des contribuables ayant introduit une réclamation ou une instance ;
 
@@ -46,4 +62,4 @@ Les informations nominatives traitées sont les suivantes :
 
 - informations relatives à la gestion du plafonnement de taxe professionnelle en fonction de la valeur ajoutée ;
 
-- zone "bloc-notes" : ne reçoit que les informations directement liées à l'instruction des affaires contentieuses, à l'exclusion de toute appréciation subjective, ainsi que les rectifications éventuellement apportées par le contribuable ou l'administration.
+- zone "bloc-notes : ne reçoit que les informations directement liées à l'instruction des affaires contentieuses, à l'exclusion de toute appréciation subjective, ainsi que les rectifications éventuellement apportées par le contribuable ou l'administration.
