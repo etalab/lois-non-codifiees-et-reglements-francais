@@ -10,6 +10,7 @@
 - [Décret n° 70-709 du 5 août 1970](decret-n-70-709-du-5-aout-1970)
 - [Décret n°70-482 du 5 juin 1970](decret-n70-482-du-5-juin-1970)
 - [Décret n°70-733 du 5 août 1970](decret-n70-733-du-5-aout-1970)
+- [Décret n°70-912 du 5 octobre 1970](decret-n70-912-du-5-octobre-1970)
 - [Décret n° 70-406 du 5 mai 1970](decret-n-70-406-du-5-mai-1970)
 - [Décret n°71-281 du 7 avril 1971](decret-n71-281-du-7-avril-1971)
 - [Décret n°70-26 du 8 janvier 1970](decret-n70-26-du-8-janvier-1970)
