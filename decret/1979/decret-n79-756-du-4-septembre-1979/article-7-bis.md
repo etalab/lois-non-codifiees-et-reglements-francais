@@ -4,6 +4,12 @@ Les vins de pays "primeurs" peuvent être expédiés en vrac de la propriété �
 
 Les expéditions ne peuvent être effectuées qu'au vu d'une autorisation dont il est fait mention sur le titre de mouvement délivrée par le délégué régional de l'Office national interprofessionnel des vins et après avis d'une commission de dégustation spécifiquement désignée par cet office, sur proposition du syndicat de producteurs concerné. Les vins rouges ne pourront être présentés à l'agrément qu'après accomplissement de la fermentation malolactique.
 
+Toutefois, à la demande du syndicat de défense du vin de pays concerné, la fermentation malolactique peut être rendue facultative avant l'agrément, de façon permanente par modification du décret du vin de pays considéré ou pour une campagne déterminée par arrêté ministériel.
+
+Dans tous les cas, les services de contrôle pourront s'assurer que le vin sera conditionné selon des techniques garantissant sa stabilité et sa typicité.
+
+Les vins qui répondent aux conditions du présent décret mais qui n'ont pas encore fait l'objet d'un agrément en vins primeurs selon la procédure d'agrément prévue peuvent circuler sous la dénomination "Vins aptes à la production de vins de pays primeurs". Pour avoir droit à la dénomination "Vin de pays primeur", ces vins ou les assemblages de ces vins doivent être soumis à la commission d'agrément prévue par le présent décret.
+
 Ces vins peuvent également, à compter du lundi précédant le troisième jeudi du mois d'octobre, être expédiés par les embouteilleurs jusque chez les détaillants, sous réserve qu'ils soient conditionnés en récipients d'une contenance inférieure ou égale à 30 litres et que les emballages portent la mention "ne pas mettre à la consommation avant le troisième jeudi d'octobre" ou une mention analogue.
 
 Ces vins doivent obligatoirement comporter sur leur étiquette le terme "primeur" ou "nouveau" ainsi que l'année de récolte.

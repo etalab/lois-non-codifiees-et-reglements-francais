@@ -18,4 +18,6 @@ Par un duplicata de la déclaration de récolte ;
 
 Par un duplicata de la déclaration d'encépagement, visée à l'article 3 ci-dessus.
 
-Elle doit être adressée avant le 1er mars au délégué régional de l'office national interprofessionnel des vins de table et à l'organisme professionnel agréé. Ce dernier vérifie avant la dégustation que les vins pour lesquels la dénomination est revendiquée satisfont aux conditions prévues par l'article 1er du présent décret.
+Elle doit être adressée avant le 1er mai au délégué régional de l'Office national interprofessionnel des vins et à l'organisme professionnel agréé. Ce dernier vérifie avant la dégustation que les vins revendiquant un agrément satisfont aux conditions prévues par l'article 1er du présent décret.
+
+Les échantillons de vins soumis à l'agrément seront obligatoirement prélevés, pour chaque cuve considérée, par un agent de l'Office national interprofessionnel des vins ou par un agent mandaté par ce dernier.
