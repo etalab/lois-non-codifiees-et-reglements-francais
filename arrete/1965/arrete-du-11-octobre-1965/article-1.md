@@ -18,6 +18,8 @@ Diplôme d'Etat d'infirmier.
 
 Diplôme d'Etat de sage-femme.
 
+Certificat de manipulateur de radiologie délivré par les services de santé de la marine.
+
 2) A titre transitoire et pendant une durée de cinq ans à compter de la parution du présent arrêté :
 
 Diplôme d'élève breveté de l'institut d'Arsonval (option Electroradiologie médicale)
@@ -35,3 +37,5 @@ Diplôme de manipulateur de radiologie délivré par le centre hospitalier de Sa
 Certificat de manipulatrice de radiologie délivré par l'école d'enseignement technique féminin, 116, avenue du Général-Leclerc, Paris (14e).
 
 Certificat d'études de manipulateur d'électroradiologie délivré par l'école supérieure de formation professionnelle.
+
+Certificat de manipulateur de radiologie délivré par le centre hospitalier régional de Clermont-Ferrand.
