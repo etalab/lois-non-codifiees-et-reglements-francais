@@ -340,6 +340,7 @@
 - [Décret n°2002-504 du 10 avril 2002 (DEFD0201304D)](decret-n2002-504-du-10-avril-2002-defd0201304d)
 - [Décret n°2002-520 du 10 avril 2002 (MENS0200485D)](decret-n2002-520-du-10-avril-2002-mens0200485d)
 - [Décret n°2002-53 du 10 janvier 2002 (MJSX0100159D)](decret-n2002-53-du-10-janvier-2002-mjsx0100159d)
+- [Décret n°2002-928 du 10 juin 2002 (ECOT0214229D)](decret-n2002-928-du-10-juin-2002-ecot0214229d)
 - [Décret n°71-907 du 10 novembre 1971](decret-n71-907-du-10-novembre-1971)
 - [Décret n°2001-318 du 11 avril 2001 (AGRD0100479D)](decret-n2001-318-du-11-avril-2001-agrd0100479d)
 - [Décret n°2001-319 du 11 avril 2001 (AGRD0100480D)](decret-n2001-319-du-11-avril-2001-agrd0100480d)
