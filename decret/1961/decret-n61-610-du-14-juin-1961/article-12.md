@@ -4,4 +4,4 @@ Les biens sont attribués par les sociétés d'aménagement foncier et d'établi
 
 Tout candidat doit s'engager à respecter les clauses d'un cahier des charges établi éventuellement par la société d'aménagement foncier et d'établissement rural.
 
-Les sociétés d'aménagement foncier et d'établissement rural peuvent céder ces biens à des personnes qui s'engagent à les louer, par bail rural, à des preneurs, personnes physiques ou morales, ayant reçu l'agrément de la société et l'accord des commissaires du Gouvernement, à condition que l'opération permette l'amélioration des exploitations, l'installation d'agriculteurs ou le maintien de ceux-ci sur leur exploitation.
+Les sociétés d'aménagement foncier et d'établissement rural peuvent céder ces biens à des personnes qui s'engagent à les louer, par bail rural ou par conventions visées à l'article L. 481-1 du code rural, à des preneurs, personnes physiques ou morales, ayant reçu l'agrément de la société, à condition que l'opération permette l'amélioration des exploitations, l'installation d'agriculteurs ou le maintien de ceux-ci sur leur exploitation.

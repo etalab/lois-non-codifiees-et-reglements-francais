@@ -1,15 +1,13 @@
 # Article 3
 
-Les sociétés d'aménagement foncier et d'établissement rural doivent par les achats, les ventes, les échanges et les baux qu'elles concluent ou provoquent, les mises en valeur et les travaux auxquels elles procèdent, améliorer les structures foncières agricoles et forestières et faciliter les installations d'exploitants agricoles et les opérations mentionnées à l'article 1er du code rural et aux articles L. 247-2 et L. 512-6 du code forestier, compte tenu en particulier du peuplement rural, de l'économie générale du pays et de l'économie propre au terroir considéré.
+En application de l'article 15 de la loi du 5 août 1960 susvisée, les sociétés d'aménagement foncier et d'établissement rural peuvent notamment :
 
-l'aménagement foncier agricole et rural, compte tenu en particulier du peuplement rural, de l'économie générale du pays et de l'économie propre au terroir considéré.
+1° Procéder à des cessions au bénéfice soit de propriétaires ou d'exploitants dont les propriétés ou les exploitations sont mal adaptées à une mise en valeur rationnelle, soit d'agriculteurs qu'elles installent ou maintiennent, soit de personnes qui s'engagent à les louer dans les conditions déterminées à l'article 12 du présent décret, soit de personnes qui ont pour objet de réorienter les terres, les bâtiments ou exploitations au sens du cinquième alinéa de l'article 15 de la loi susmentionnée ;
 
-A cette fin, elles peuvent notamment :
+2° Réaliser, sur des immeubles leur appartenant, des études et des travaux, en vue de faciliter la mise en valeur agricole et de favoriser le développement rural ainsi que la protection de la nature et de l'environnement ;
 
-1° Céder la propriété des immeubles ruraux soit à des propriétaires ou exploitants dont les propriétés ou les exploitations sont mal adaptées à une mise en valeur rationnelle, soit à des agriculteurs qu'elles installent sur des domaines qu'elles ont constitués ou restaurés, soit à des personnes qui s'engagent à les louer dans les conditions déterminées à l'article 12.
+3° Réaliser, sur des immeubles appartenant à des tiers, des études liées à l'aménagement foncier ou à la mise en valeur du sol, et être associées à la réalisation des travaux correspondants ;
 
-2° Faire des travaux sur des immeubles mis à leur disposition ;
+4° Effectuer ou provoquer des échanges, dans les conditions fixées au chapitre IV du titre Ier du livre Ier du code rural ;
 
-3° Participer à la mise en valeur des terres incultes ou manifestement sous-exploitées, dans les conditions et dans les limites fixées au chapitre V du titre Ier du livre Ier du code rural et à l'article 15 de la loi n° 60-808 du 5 août 1960 susvisée.
-
-Seuls les immeubles acquis à l'amiable peuvent, dans les limites de superficie prévues à l'article 15 de la loi n° 60-808 du 5 août 1960 susvisée et en vue de faciliter l'aménagement rural et la constitution de réserves foncières, être cédés aux collectivités locales, établissements publics de coopération intercommunale, associations syndicales de propriétaires autorisées ou forcées, autres organismes publics ou institutions reconnues d'utilité publique et, en zone de montagne, à des sociétés d'économie mixte locales.
+5° Participer à la mise en valeur des terres incultes ou manifestement sous-exploitées, dans les conditions et dans les limites fixées au chapitre V du titre Ier du livre Ier du code rural.
