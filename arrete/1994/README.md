@@ -694,7 +694,6 @@
 - [Arrêté du 25 avril 1994 (EQUU9400964A)](arrete-du-25-avril-1994-equu9400964a)
 - [Arrêté du 25 avril 1994 (SANH9401418A)](arrete-du-25-avril-1994-sanh9401418a)
 - [Arrêté du 25 février 1994 (ENVE9430085A)](arrete-du-25-fevrier-1994-enve9430085a)
-- [Arrêté du 25 février 1994 (ENVP9430079A)](arrete-du-25-fevrier-1994-envp9430079a)
 - [Arrêté du 25 février 1994 (PRMX9400095A)](arrete-du-25-fevrier-1994-prmx9400095a)
 - [Arrêté du 25 janvier 1994 (AGRR9302496A)](arrete-du-25-janvier-1994-agrr9302496a)
 - [Arrêté du 25 janvier 1994 (BUDL9400013A)](arrete-du-25-janvier-1994-budl9400013a)
