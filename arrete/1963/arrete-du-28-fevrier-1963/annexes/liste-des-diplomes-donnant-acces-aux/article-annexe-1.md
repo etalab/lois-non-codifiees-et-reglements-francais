@@ -28,7 +28,7 @@ Ecole polytechnique ;
 
 Ecole supérieure d'électricité ;
 
-Institut national agronomique de Paris-Grignon.
+Institut national agronomique de Paris-grignon.
 
 Diplôme de docteur ingénieur obtenu après une scolarité dans une école figurant en liste A ou B et délivré dans une spécialité relevant d'un des domaines suivants :
 
@@ -38,7 +38,7 @@ Liste B.
 
 Diplômes d'ingénieur délivrés par les établissements suivants :
 
-Centre universitaire des sciences et techniques de l'université de Clermont-Ferrand-II ;
+Centre universitaire des sciences et techniques de l'université de Clermont-Ferrand II ;
 
 Ecole de l'air ;
 
@@ -72,7 +72,7 @@ Ecole nationale supérieure d'électricité et de mécanique de Nancy ;
 
 Ecole nationale supérieure d'électrotechnique, d'électronique, d'informatique et d'hydraulique de Toulouse.
 
-Ecole nationale supérieure de géologie appliquée et de prospection minière de Nancy.
+Ecole nationale supérieure de Géologie appliquée et de prospection minière de Nancy.
 
 Ecole nationale supérieure d'horticulture de Versailles (anciennement : école nationale d'horticulture de Versailles) ;
 
@@ -96,9 +96,11 @@ Ecole nationale des techniques industrielles et des mines de Douai ;
 
 Ecole nationale des travaux publics de l'Etat ;
 
-Ecole spéciale militaire de Saint-Cyr (option Sciences) ;
+Ecole spéciale militaire de Saint-Cyr (option sciences) ;
 
-Ecole spéciale des travaux publics du bâtiment et de l'industrie ;    Ecole supérieure d'agronomie tropicale ;
+Ecole spéciale des travaux publics du bâtiment et de l'industrie ;
+
+Ecole supérieure d'agronomie tropicale ;
 
 Ecole supérieure du génie militaire de Versailles ;
 
@@ -124,7 +126,7 @@ Université de Paris-XIII (formation supérieure d'ingénieurs en matériaux) ;
 
 Université de technologie de Compiègne ;
 
-Ecole nationale d'ingénieurs d'Alger-Maison carrée (diplômes délivrés de 1953 à 1963) ;
+Ecole nationale d'ingénieurs d'Alger-maison carrée (diplômes délivrés de 1953 à 1963) ;
 
 Diplôme d'architecte ;
 
@@ -164,13 +166,13 @@ Ecole nationale d'ingénieurs des travaux agricoles d'Angers ;
 
 Ecole nationale d'ingénieurs des travaux agricoles de Bordeaux ;
 
-Ecole nationale d'ingénieurs des travaux agricoles de Dijon-Quétigny ;
+Ecole nationale d'ingénieurs des travaux agricoles de Dijon-Quetigny ;
 
 Ecole nationale des sciences géographiques ;
 
 Ecole nationale supérieure de biologie appliquée à la nutrition et à l'alimentation de Dijon ;
 
-Ecole nationale supérieure de chimie de Bordeaux ;
+Ecole nationale supérieure de chimie de bordeaux ;
 
 Ecole nationale supérieure de chimie de Caen ;
 
@@ -226,7 +228,7 @@ Ecole supérieure de chimie de Marseille ;
 
 Ecole supérieure de chimie organique et minérale ;
 
-Ecole supérieure d'électronique de l'Ouest ;
+Ecole supérieure d'électronique de l'ouest ;
 
 Ecole supérieure d'ingénieurs en électrotechnique et électronique de Paris ;
 
@@ -252,13 +254,13 @@ Institut national supérieur de chimie industrielle de Rouen ;
 
 Institut de physique du globe de Strasbourg ;
 
-Institut des sciences de l'ingénieur de Nancy ;
+Institut des sciences de l'ingénieur de Nancy.
 
 Institut des sciences de la matière et du rayonnement de Caen ;
 
 Institut supérieur agricole de Beauvais ;
 
-Institut supérieur du béton armé ;
+Institut supérieur du Béton armé ;
 
 Institut supérieur d'électronique du Nord ;
 
@@ -266,7 +268,7 @@ Institut supérieur d'électronique de Paris ;
 
 Institut supérieur des matériaux et de la construction mécanique ;
 
-Diplôme d'ingénieur, assorti du diplôme de l'institut d'études économiques et juridiques appliquées à la construction et à l'habitation (I.C.H.) du Conservatoire national des arts et métiers.
+Diplôme d'ingénieur, assorti du diplôme de l'institut d'études économiques et juridiques appliquées à la construction et à l'habitation (I.C.H.) du conservatoire national des arts et métiers.
 
 Diplômes figurant en liste A et B.
 
@@ -306,11 +308,23 @@ Institut supérieur d'agriculture Rhône-Alpes.
 
 Diplôme d'agronomie générale délivré par une école nationale supérieure agronomique.
 
-Diplôme d'ingénieur E.B.P. des industries électroniques de l'école Bréguet.
+Diplôme d'ingénieur E.B.P. des industries électroniques de l'école Breguet.
 
 Ingénieur ayant été reçu à un concours sur épreuves pour l'accès à l'emploi d'ingénieur subdivisionnaire organisé par l'association nationale d'études municipales ou par le centre de formation des personnels communaux.
 
-//Complété par ARR. 1982-02-08 : Diplôme d'ingénieur délivré par le centre d'études supérieures industrielles (C.E.S.I.).//
+Diplôme d'ingénieur délivré par le centre d'études supérieures industrielles (C.E.S.I.).
+
+Maîtrise de sciences et techniques (M.S.T.) (option informatique).
+
+Diplôme d'expert en traitement de l'information délivré par un institut de programmation.
+
+Diplôme d'études approfondies (D.E.A.) en informatique.
+
+Diplôme d'études supérieures spécialisées (D.E.S.S.) en informatique.
+
+Doctorat de troisième cycle en informatique.
+
+Diplôme de l'E.S.S.E.C. (spécialisation informatique).
 
 Diplômes étrangers suivants :
 
@@ -328,8 +342,8 @@ III - Pays-Bas.
 
 Landbouwkundig (I, R.) (ingénieur agronome), université de Wageningen.
 
-Géomètre expert diplômé par le Gouvernement.
+Géomètre expert diplômé par le gouvernement.
 
-Certificat d'études supérieures en aménagement régional et urbain, bâtiment, ouvrages d'art, infrastructure et transports, travaux hydrauliques, délivré par l'école nationale des ponts et chaussées.
+Certificat d'études supérieures en aménagement régional et urbain, bâtiment, ouvrages d'art, infrastructure et transport, travaux hydrauliques, délivré par l'école nationale des ponts et chaussées.
 
 Diplômes figurant en listes A, B et C.

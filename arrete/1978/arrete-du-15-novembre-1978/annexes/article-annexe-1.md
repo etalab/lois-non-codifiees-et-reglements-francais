@@ -1,63 +1,75 @@
-# Article Annexe 1
+# Article ANNEXE 1
 
-Les candidats au concours externe de rédacteur communal doivent être titulaires de l'un des diplômes suivants :
+Les candidats au premier concours externe d'attaché communal doivent être titulaires de l'un des diplômes ou titres suivants.
 
-- baccalauréat ;
+- diplôme national sanctionnant un second cycle d'études supérieures ;
 
-- baccalauréat européen ;
+- diplôme d'un institut d'études politiques ;
 
-- brevet supérieur de l'enseignement primaire ;
+- diplôme supérieur d'urbaniste ;
 
-- examen spécial d'entrée dans une faculté ;
+Diplôme de l'école de haut enseignement commercial pour les jeunes filles ;
 
-- brevet de technicien supérieur ;
+Diplôme de troisième cycle d'études supérieures ci-après :
 
-- brevet supérieur d'études commerciales ;
+Doctorat en gestion et administration des collectivités locales ;
 
-- un certificat de licence en droit ;
+Diplôme d'études supérieures spécialisées (D.E.S.S.) en gestion et administration des collectivités locales ;
 
-- certificat de capacité en droit ;
+Diplôme d'études approfondies (D.E.A.) en gestion et administration des collectivités locales.
 
-- diplôme de l'école nationale d'administration municipale près l'institut d'urbanisme de l'université de Paris ;
+Diplôme de l'école des hautes études commerciales (H.E.C.).
 
-- certificat d'études administratives départementales et communales délivré par le centre universitaire de formation et de perfectionnement administratifs près la faculté de droit de Lille ;
+Diplôme d'études comptables supérieures (D.E.C.S.).
 
-- diplôme de l'école pratique de Strasbourg ;
+Diplôme d'état relatif aux fonctions d'animation (D.E.F.A.).
 
-- diplôme d'études administratives municipales délivré par les centres universitaires régionaux d'études administratives municipales ;
+Diplômes et titres assimilés au D.E.F.A. par arrêté du 7 décembre 1979 (voir journal officiel du 22 mars 1980 (N.C.), p. 2893) ;
 
-- baccalauréat de technicien ;
+Certificat d'aptitude à la promotion des activités socio-éducatives et à l'exercice des professions socio-éducatives (C.A.P.A.S.E.) ;
 
-- titres français admis réglementairement en dispense du baccalauréat pour l'inscription dans les facultés ;
+Diplôme d'aptitude professionnelle à l'animation sociale et socio-éducative (D.A.P.A.S.S.E.) ;
 
-- brevet de technicien ;
+Diplôme d'état de conseiller d'éducation populaire (D.E.C.E.P.) (2ème partie) ;
 
-- diplôme d'études supérieures commerciales, administratives et financières des écoles supérieures de commerce et d'administration des entreprises ;
+Maîtrise de sciences et techniques (M.S.T.) des spécialistes socio-culturels de l'enfant et de l'adolescent ;
 
-- certificat d'études administratives et financières délivré par la faculté de droit et des sciences économiques de Paris ;
+Licence d'animation culturelle et sociale.
 
-- diplôme délivré par l'école commerciale de la chambre de commerce et d'industrie de Paris ;
+Diplôme d'études supérieures commerciales, administratives et financières (D.E.S.A.F.) délivré par une école supérieure de commerce et d'administration des entreprises (E.S.C.A.E.).
 
-- diplôme du centre de formation administrative de l'institut d'études politiques d'Alger ;
+Licence d'information et de communication sociale.
 
-- diplôme de l'institut d'études supérieures d'Alger ;
+Avoir obtenu le diplôme ou avoir satisfait à l'examen de sortie de l'un des établissements d'enseignement supérieur ou de l'une des écoles ci-après :
 
-- brevet de technicien agricole ;
+- école supérieure des sciences économiques et commerciales ;
 
-- diplôme d'études administratives municipales délivré par le centre de formation des personnels communaux.
+- école supérieure de commerce de Paris ;
 
-Diplôme d'études administratives communales (D.E.A.C.) délivré par la faculté de droit et de science politique de l'université de droit, d'économie et des sciences d'Aix-Marseille.
+- école des hautes études en sciences sociales ;
 
-Titre ou diplôme homologué au niveau III ou au niveau IV des titres et diplômes de l'enseignement technologique en application de l'article 8 de la loi n° 71-577 du 16 juillet 1971 sur l'enseignement technologique. /C/ajouté par l'arrêté du 15 juillet 1981 :
+- école pratique des hautes études ;
 
-Diplôme universitaire de technologie (D.U.T.) Carrières sociales (option Animation sociale et socio-culturelle) ;
+- avoir suivi le cycle préparatoire à l'école nationale d'administration.
 
-Diplôme d'Etat de conseiller d'éducation populaire (D.E.C.E.P.) (1re partie) ;
+Diplôme d'aptitude professionnelle à l'animation sociale et socio-éducative (D.A.P.A.S.S.E.) ;
 
-Attestation de formation générale à l'animation prévue à l'article 10 de l'arrêté du 29 juin 1979 fixant le programme et les modalités de la formation préparatoire au diplôme d'Etat relatif aux fonctions d'animation (D.E.F.A.) ;
+Diplôme d'état de conseiller d'éducation populaire (D.E.C.E.P.) (2ème partie) ;
 
-Vingt unités de valeur du certificat d'aptitude à la promotion des activités socio-éducatives et à l'exercice des professions socio-éducatives (C.A.P.A.S.E.) ;
+Maîtrise de sciences et techniques (M.S.T.) des spécialistes socio-culturels de l'enfant et de l'adolescent ;
 
-Brevet d'aptitude aux fonctions de directeur de centres de vacances et de loisirs (B.A.F.D.) ;
+Licence d'animation culturelle et sociale.
 
-Diplômes permettant de se présenter aux concours d'attaché communal (option Animation sociale et socio-éducative).//
+Diplôme d'études supérieures commerciales, administratives et financières (D.E.S.A.F.) délivré par une école supérieure de commerce et d'administration des entreprises (E.S.C.A.E.).
+
+Avoir obtenu le diplôme ou avoir satisfait à l'examen de sortie de l'un des établissements d'enseignement supérieur ou de l'une des écoles ci-après :
+
+- école supérieure des sciences économiques et commerciales ;
+
+- école supérieure de commerce de Paris ;
+
+- école des hautes études en sciences sociales ;
+
+- école pratique des hautes études ;
+
+- avoir suivi le cycle préparatoire à l'école nationale d'administration.

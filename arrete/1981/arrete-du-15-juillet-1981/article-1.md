@@ -1,3 +1,3 @@
 # Article 1
 
-Les agents communaux régulièrement affectés dans une des fonctions de l'animation définies à l'article 2 de l'arrêté du 15 juillet 1981 susvisé peuvent percevoir une indemnité spéciale selon les modalités précisées ci-dessous.
+Dans le cadre des concours prévus au paragraphe a de l'arrêté du 26 novembre 1973 susvisé, une option Animation est ouverte aux candidats ayant déclaré au moment de leur inscription vouloir postuler une fonction d'animateur communal.
