@@ -1,3 +1,0 @@
-# REDEVANCE EN MATIERE CIVILE ET COMMERCIALE
-
-- [Article 9](article-9.md)
