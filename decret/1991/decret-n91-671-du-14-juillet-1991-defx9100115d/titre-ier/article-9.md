@@ -1,3 +1,3 @@
 # Article 9
 
-Les commandants de région maritime et d'arrondissement maritime sont assistés d'adjoints auxquels ils peuvent déléguer leurs pouvoirs ou leur signature dans les conditions définies par arrêté du ministre chargé des armées.
+Les commandants de région maritime et d'arrondissement maritime sont assistés d'adjoints auxquels ils peuvent déléguer leurs pouvoirs ou leur signature dans les conditions définies par arrêté du ministre de la défense.

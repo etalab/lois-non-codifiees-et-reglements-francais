@@ -28,6 +28,6 @@ Militaires du rang : 2
 
 3. Chaque fois que cela sera possible un militaire du grade du comparant devra figurer dans le conseil de discipline.
 
-4. Le fonctionnement des conseils de discipline est réglé par instruction du ministre chargé des armées.
+4. Le fonctionnement des conseils de discipline est réglé par instruction du ministre de la défense.
 
 5. L'autorité qui décide ne peut prendre une mesure plus défavorable à l'intéressé que celle proposée par le conseil.

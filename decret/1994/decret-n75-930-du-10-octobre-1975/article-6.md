@@ -12,8 +12,8 @@ Chargé, en outre, de l'exécution des plans et de la conduite des autres opéra
 
 Il est associé à l'élaboration de la doctrine d'emploi des moyens appartenant à l'armée de l'air susceptibles d'être mis à sa disposition ainsi qu'à leur entraînement.
 
-Il est responsable, devant le ministre chargé des armées, de l'organisation et de la réglementation de la circulation opérationnelle militaire et de la circulation d'essais et de réception, qui constituent la circulation aérienne militaire. Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance du 7 janvier 1959 susvisée, sur décision du Gouvernement, cette responsabilité peut être étendue au contrôle de tout trafic aérien dans l'espace national.
+Il est responsable, devant le ministre de la défense, de l'organisation et de la réglementation de la circulation opérationnelle militaire et de la circulation d'essais et de réception, qui constituent la circulation aérienne militaire. Dans les circonstances prévues aux articles 2 et 6 de l'ordonnance du 7 janvier 1959 susvisée, sur décision du Gouvernement, cette responsabilité peut être étendue au contrôle de tout trafic aérien dans l'espace national.
 
-Il représente le ministre chargé des armées à la commission interministérielle de la défense aérienne et préside le groupe mixte de défense aérienne.
+Il représente le ministre de la défense à la commission interministérielle de la défense aérienne et préside le groupe mixte de défense aérienne.
 
-Un arrêté du ministre chargé des armées fixe le détail des attributions confiées au général commandant la défense aérienne.
+Un arrêté du ministre de la défense fixe le détail des attributions confiées au général commandant la défense aérienne.

@@ -4,7 +4,7 @@ Protection du moral et de la discipline.
 
 Dans les enceintes et établissements militaires, à bord des bâtiments de la marine et en général dans les lieux de séjour militaire, il est interdit :
 
-1. D'introduire des publications, quelle que soit leur forme, visées par la loi et cherchant à nuire au moral ou à la discipline ; la liste de ces publications est arrêtée par le ministre chargé des armées. Il est également interdit de les détenir.
+1. D'introduire des publications, quelle que soit leur forme, visées par la loi et cherchant à nuire au moral ou à la discipline ; la liste de ces publications est arrêtée par le ministre de la défense. Il est également interdit de les détenir.
 
 Lorsqu'un document ou une émission ayant le caractère ci-dessus défini est diffusé inopinément, l'autorité militaire de premier niveau est habilité à en prononcer l'interdiction.
 

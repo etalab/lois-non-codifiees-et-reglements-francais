@@ -16,4 +16,4 @@ En cas de maintien de service détaché pendant une année supplémentaire, les 
 
 L'officier qui a présenté une demande d'intégration dans les délais fixés aux deux alinéas précédents est maintenu en position de détachement jusqu'à l'intervention de la décision qui doit être prise sur sa demande.
 
-Les décisions prises en application du deuxième alinéa du présent article doivent intervenir sur avis de l'inspection compétente et du recteur d'académie et après consultation d'une commission spéciale dont la composition est fixée par arrêté du ministre de l'éducation ; cette commission comprend notamment deux représentants des personnels du corps d'accueil et un représentant du ministre chargé des armées.
+Les décisions prises en application du deuxième alinéa du présent article doivent intervenir sur avis de l'inspection compétente et du recteur d'académie et après consultation d'une commission spéciale dont la composition est fixée par arrêté du ministre de l'éducation ; cette commission comprend notamment deux représentants des personnels du corps d'accueil et un représentant du ministre de la défense.

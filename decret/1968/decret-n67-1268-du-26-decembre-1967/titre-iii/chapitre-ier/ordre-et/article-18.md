@@ -16,6 +16,6 @@ Dans chacune de ces catégories, l'ordre de bataille est réglé par instruction
 
 La revue des troupes est un agite de commandement qui ne peut être accompli que par les autorités ayant des responsabilités de commandement :
 
-Président de la République ; Premier ministre ; ministre chargé des armées ; chefs militaires ; exceptionnellement, autorité étrangère que l'on veut honorer spécialement.
+Président de la République ; Premier ministre ; ministre de la défense ; chefs militaires ; exceptionnellement, autorité étrangère que l'on veut honorer spécialement.
 
 Si l'autorité qui doit passer la revue est accompagnée de personnalités civiles, ces personnalités gagnent, dès leur arrivée, l'emplacement préparé à leur intention.

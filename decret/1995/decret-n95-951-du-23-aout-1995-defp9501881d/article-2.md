@@ -1,6 +1,6 @@
 # Article 2
 
-Les conseils supérieurs de chaque armée et de la gendarmerie sont présidés par le ministre chargé des armées et comprennent respectivement :
+Les conseils supérieurs de chaque armée et de la gendarmerie sont présidés par le ministre de la défense et comprennent respectivement :
 
 - le chef d'état-major de chaque armée ou, pour la gendarmerie, le directeur général de la gendarmerie nationale, vice-président ;
 
@@ -16,6 +16,6 @@ Les conseils supérieurs de chaque armée et de la gendarmerie sont présidés p
 
 - trois pour le Conseil supérieur de la gendarmerie.
 
-Le ministre chargé des armées peut inviter, à titre consultatif, toute personnalité militaire ou civile en raison de sa compétence dans les questions soumises à l'examen des conseils supérieurs.
+Le ministre de la défense peut inviter, à titre consultatif, toute personnalité militaire ou civile en raison de sa compétence dans les questions soumises à l'examen des conseils supérieurs.
 
 Tout changement de poste ou de fonction des membres désignés peut entraîner, le cas échéant, une modification dans la composition du conseil. Les nouveaux membres sont nommés jusqu'au 30 juin suivant par décret en conseil des ministres.

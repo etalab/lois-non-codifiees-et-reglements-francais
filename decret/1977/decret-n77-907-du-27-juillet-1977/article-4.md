@@ -8,4 +8,4 @@ D'un tiers, si cette rémunération est supérieure à la moitié des émolument
 
 De la moitié, si cette rémunération est supérieure aux deux tiers des émoluments de congé spécial.
 
-Le ministre chargé des armées peut suspendre les émoluments de congé spécial lorsque l'entreprise à laquelle appartient le bénéficiaire est amenée à demander le concours de l'Etat.
+Le ministre de la défense peut suspendre les émoluments de congé spécial lorsque l'entreprise à laquelle appartient le bénéficiaire est amenée à demander le concours de l'Etat.

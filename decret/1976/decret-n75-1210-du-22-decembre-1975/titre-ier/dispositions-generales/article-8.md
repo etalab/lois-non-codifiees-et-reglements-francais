@@ -6,4 +6,4 @@ Dans l'ordre imposé pour les promotions à ce grade par les dispositions prévu
 
 Dans l'ordre d'ancienneté, pour le tableau d'avancement au grade d'officier principal.
 
-Les tableaux d'avancement et les tableaux de commandement sont arrêtés par le ministre chargé des armées et publiés au Journal officiel de la République française.
+Les tableaux d'avancement et les tableaux de commandement sont arrêtés par le ministre de la défense et publiés au Journal officiel de la République française.

@@ -2,9 +2,9 @@
 
 Le fonds de prévoyance militaire est alimenté :
 
-1° Par une cotisation prélevée sur l'indemnité pour charges militaires pour les militaires percevant ladite indemnité et dont le taux est fixé par arrêté conjoint du ministre chargé des armées et du ministre chargé du budget ;
+1° Par une cotisation prélevée sur l'indemnité pour charges militaires pour les militaires percevant ladite indemnité et dont le taux est fixé par arrêté conjoint du ministre de la défense et du ministre chargé du budget ;
 
-2° Par une cotisation à la charge de l'Etat pour les autres militaires ainsi que pour les personnes engagées pour tout ou partie de la durée de la guerre et les jeunes gens participant aux séances d'instruction ou d'examen de préparation militaire organisées sous la responsabilité de l'autorité militaire  ;
+2° Par une cotisation à la charge de l'Etat pour les autres militaires ainsi que pour les personnes engagées pour tout ou partie de la durée de la guerre et les jeunes gens participant aux séances d'instruction ou d'examen de préparation militaire organisées sous la responsabilité de l'autorité militaire ;
 
 3° Lorsque les circonstances le justifient par une cotisation à la charge de l'Etat.
 

@@ -1,7 +1,3 @@
 # Article 10
 
-Sont abrogés :
-
-Le décret du 5 novembre 1930 fixant les conditions de classement dans le personnel navigant de l'aéronautique maritime ;
-
-Le décret du 1er septembre 1936 relatif au statut du personnel navigant de l'aéronautique maritime.
+Le Premier ministre, le ministre de la défense, le ministre de l'économie et des finances et le secrétaire d'Etat à l'économie et aux finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.

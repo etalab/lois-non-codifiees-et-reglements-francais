@@ -2,7 +2,7 @@
 
 En dehors du cas où elle intervient par mesure disciplinaire dans les conditions fixées aux articles 13 et 14 ci-après, la résiliation du contrat d'engagement d'un militaire non officier servant à titre étranger peut être prononcée par le ministre :
 
-1° En cas d'inaptitude physique définitive ou temporaire constatée par la commission de réforme prévue à l'article L. 61 du code du service national ;
+1° En cas d'inaptitude physique définitive ou temporaire constatée par la commission de réforme des militaires prévue par le décret n° 2003-103 du 4 février 2003 relatif à la commission de réforme des militaires.
 
 2° Dans l'intérêt de la sécurité de la défense ;
 

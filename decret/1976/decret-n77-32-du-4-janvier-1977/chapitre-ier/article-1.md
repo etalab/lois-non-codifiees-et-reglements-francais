@@ -6,6 +6,6 @@ Ils ont vocation à assurer la direction des services déconcentrés des affaire
 
 Ils peuvent en outre être appelés à occuper des fonctions au sein de ce ministère et dans les établissements qui y sont rattachés.
 
-Ils représentent la marine nationale et assurent la suppléance de ses services dans les conditions fixées par le ministre chargé des armées et le ministre chargé de la marine marchande. Ils sont les représentants locaux du préfet maritime dans l'exercice de ses attributions civiles dans la limite des délégations de pouvoirs qui leur sont consenties, à cet effet, par arrêté.
+Ils représentent la marine nationale et assurent la suppléance de ses services dans les conditions fixées par le ministre de la défense et le ministre chargé de la marine marchande. Ils sont les représentants locaux du préfet maritime dans l'exercice de ses attributions civiles dans la limite des délégations de pouvoirs qui leur sont consenties, à cet effet, par arrêté.
 
 Ils participent à l'organisation générale de la défense et des transports maritimes de défense.

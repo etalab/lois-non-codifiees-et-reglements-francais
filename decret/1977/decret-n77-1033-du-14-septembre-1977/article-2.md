@@ -1,6 +1,6 @@
 # Article 2
 
-En considération des besoins du service, le ministre chargé des armées fixe par arrêté :
+En considération des besoins du service, le ministre de la défense fixe par arrêté :
 
 a) Les corps d'officiers et de sous-officiers de carrière au profit ou au sein desquels peuvent intervenir des changements de corps, d'arme, de service, de spécialité, branche ou groupe de spécialités ;
 

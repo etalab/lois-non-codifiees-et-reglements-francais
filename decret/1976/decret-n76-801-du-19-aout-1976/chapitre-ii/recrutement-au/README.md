@@ -1,4 +1,4 @@
-# Recrutement au grade de commissaire capitaine.
+# Recrutement au grade de commissaire lieutenant-colonel.
 
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)

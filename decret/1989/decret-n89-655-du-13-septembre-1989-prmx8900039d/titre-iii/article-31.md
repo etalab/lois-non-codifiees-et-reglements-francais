@@ -10,7 +10,7 @@ Les honneurs militaires peuvent être rendus aux autorités civiles suivantes :
 
 4° Le président de l'Assemblée nationale ;
 
-5° Le ministre chargé des armées ou le membre du Gouvernement délégué auprès de lui ;
+5° Le ministre de la défense ou le membre du Gouvernement délégué auprès de lui ;
 
 6° Les autres membres du Gouvernement ;
 

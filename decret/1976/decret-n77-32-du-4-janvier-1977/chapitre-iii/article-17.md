@@ -6,7 +6,7 @@ L'inspecteur général des services des affaires maritimes, président ;
 
 Un administrateur général des affaires maritimes désigné par le ministre chargé de la marine marchande ;
 
-Un officier général de marine désigné par le ministre chargé des armées.
+Un officier général de marine désigné par le ministre de la défense.
 
 Le directeur du personnel à l'administration centrale de la marine marchande assiste à titre consultatif aux réunions de la commission.
 

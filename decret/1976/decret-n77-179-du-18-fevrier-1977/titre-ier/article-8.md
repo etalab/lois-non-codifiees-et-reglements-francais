@@ -2,4 +2,4 @@
 
 Les tableaux d'avancement sont établis dans l'ordre de l'ancienneté.
 
-Ils sont arrêtés par le ministre chargé des armées et publiés au Journal officiel de la République française.
+Ils sont arrêtés par le ministre de la défense et publiés au Journal officiel de la République française.

@@ -10,7 +10,7 @@ Le conseil d'administration de l'institut comprend dix-sept membres :
 
 4° Huit représentants de l'Etat désignés par le Premier ministre sur proposition des ministres concernés :
 
-- deux représentants du ministre chargé des armées ;
+- deux représentants du ministre de la défense ;
 
 - un représentant du ministre chargé de l'enseignement supérieur ;
 
@@ -28,7 +28,7 @@ Le conseil d'administration de l'institut comprend dix-sept membres :
 
 6° Quatre personnalités qualifiées désignées par le Premier ministre, dont :
 
-- deux militaires, sur proposition du ministre chargé des armées ;
+- deux militaires, sur proposition du ministre de la défense ;
 
 - deux anciens auditeurs civils, sur proposition du secrétaire général de la défense nationale.
 

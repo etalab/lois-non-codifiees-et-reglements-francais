@@ -12,11 +12,11 @@ L'autorité militaire de deuxième niveau instruit la demande, entend l'intéres
 
 3. Si la punition n'a pas été infligée par une des autorités visées dans les cas 1 et 2 ci-dessus, la demande est adressée à l'autorité militaire de premier niveau. Cette autorité inscrit la demande au registre prévu à cet effet, entend l'intéressé, transmet la demande directement au chef d'état-major de l'armée d'appartenance de l'intéressé, ou à l'autorité correspondante pour les formations rattachées, et fait remettre à l'intéressé une copie de la transmission effectuée.
 
-4. Lorsqu'il est saisi, le chef d'état-major d'armée, ou l'autorité correspondante, accuse réception à l'intéressé de la demande. S'il n'est pas en mesure de statuer, il transmet le dossier au ministre chargé des armées. Dans le cas contraire, il fait connaître sa réponse à l'intéressé dans un délai de trente jours à compter de la réception de la demande.
+4. Lorsqu'il est saisi, le chef d'état-major d'armée, ou l'autorité correspondante, accuse réception à l'intéressé de la demande. S'il n'est pas en mesure de statuer, il transmet le dossier au ministre de la défense. Dans le cas contraire, il fait connaître sa réponse à l'intéressé dans un délai de trente jours à compter de la réception de la demande.
 
-Le chef d'état-major d'armée ou l'autorité correspondante adresse copie de cette réponse au ministre chargé des armées.
+Le chef d'état-major d'armée ou l'autorité correspondante adresse copie de cette réponse au ministre de la défense.
 
-5. Si le militaire maintient son recours ou si le chef d'état-major d'armée ou l'autorité correspondante n'a pas été en mesure de statuer, le ministre chargé des armées fait instruire le dossier par l'inspecteur général concerné, décide de la suite à lui donner et répond à l'intéressé dans un délai de quarante jours à compter de la réception du recours.
+5. Si le militaire maintient son recours ou si le chef d'état-major d'armée ou l'autorité correspondante n'a pas été en mesure de statuer, le ministre de la défense fait instruire le dossier par l'inspecteur général concerné, décide de la suite à lui donner et répond à l'intéressé dans un délai de quarante jours à compter de la réception du recours.
 
 6. Lorsqu'un recours formé au titre du présent article est introduit dans le délai du recours contentieux, il interrompt le cours de celui-ci jusqu'à ce qu'intervienne la décision de la dernière autorité saisie, laquelle est notifiée à l'intéressé avec indication des voies et délais de recours devant la juridiction administrative.
 

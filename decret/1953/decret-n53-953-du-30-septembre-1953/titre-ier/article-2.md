@@ -18,7 +18,7 @@ La composition du Conseil supérieur de l'Etablissement national des invalides d
 
 - le directeur du transport maritime, des ports et du littoral ou son représentant ;
 
-- un représentant du ministre chargé des armées ;
+- un représentant du ministre de la défense ;
 
 - un représentant du ministre chargé du budget ;
 

@@ -4,4 +4,4 @@ A la fois militaires et gens de mer, les officiers mariniers de carrière rempli
 
 Ils peuvent aussi participer au fonctionnement de formations interarmées ou relevant d'une autre armée ou rattachées au ministère chargé des armées.
 
-Ils peuvent dans certains cas occuper des emplois de chefs de service de bord ou recevoir le commandement de petites unités spécialisées dont la liste est fixée par arrêté du ministre chargé des armées.
+Ils peuvent dans certains cas occuper des emplois de chefs de service de bord ou recevoir le commandement de petites unités spécialisées dont la liste est fixée par arrêté du ministre de la défense.

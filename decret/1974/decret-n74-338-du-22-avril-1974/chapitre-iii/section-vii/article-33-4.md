@@ -1,6 +1,6 @@
 # Article 33-4
 
-Le ministre chargé des armées fait procéder aux enquêtes nécessaires en vue de s'assurer que l'activité du bénéficiaire du congé parental est réellement consacré à élever l'enfant.
+Le ministre de la défense fait procéder aux enquêtes nécessaires en vue de s'assurer que l'activité du bénéficiaire du congé parental est réellement consacré à élever l'enfant.
 
 Si le contrôle révèle que le congé n'est pas utilisé à cette fin, il peut y être mis fin après que l'intéressé à été invité à présenter ses observations.
 

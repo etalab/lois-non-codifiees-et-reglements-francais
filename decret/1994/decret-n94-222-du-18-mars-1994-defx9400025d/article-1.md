@@ -48,7 +48,7 @@ VI.  A l'article 7, remplacer le premier alinéa par les deux alinéas suivants 
 
 "  d'un centre de conduite des opérations aériennes, placé sous les ordres d'un officier général du corps des officiers de l'air ;
 
-"  des commandants de zone aérienne de défense dont les attributions font l'objet d'un arrêté du ministre chargé des armées ;
+"  des commandants de zone aérienne de défense dont les attributions font l'objet d'un arrêté du ministre de la défense ;
 
 "  des éléments des services qui peuvent lui être rattachés.
 

@@ -8,4 +8,4 @@ Les majors sont, dans chacun des deux corps et, s'il y a lieu, dans chaque group
 
 Le nombre de nominations pouvant intervenir chaque année à ce titre ne peut dépasser 35 p. 100 du nombre total de nominations effectuées la même année.
 
-Quel que soit le mode de recrutement, les candidats doivent en outre être titulaires de l'un des brevets donnant accès à l'échelle n° 4 et figurant sur une liste arrêtée par le ministre chargé des armées.
+Quel que soit le mode de recrutement, les candidats doivent en outre être titulaires de l'un des brevets donnant accès à l'échelle n° 4 et figurant sur une liste arrêtée par le ministre de la défense.

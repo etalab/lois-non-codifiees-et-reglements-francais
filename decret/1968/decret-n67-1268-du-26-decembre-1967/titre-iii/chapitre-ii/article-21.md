@@ -20,7 +20,7 @@ Aux drapeaux et étendards des armées (1) ;
 
 Au Premier ministre;
 
-Au ministre chargé des armées ;
+Au ministre de la défense ;
 
 Aux présidents du Sénat et de l'Assemblée nationale dans les cas prévus par la réglementation en vigueur ;
 

@@ -8,4 +8,4 @@ Les classes préparatoires aux grandes écoles sont réparties en trois catégor
 
 - les classes préparatoires scientifiques, qui préparent notamment aux écoles d'ingénieurs, aux écoles normales supérieures et aux écoles nationales vétérinaires.
 
-Les classes préparatoires aux grandes écoles préparent aussi aux grandes écoles relevant de la compétence du ministre chargé des armées.
+Les classes préparatoires aux grandes écoles préparent aussi aux grandes écoles relevant de la compétence du ministre de la défense.

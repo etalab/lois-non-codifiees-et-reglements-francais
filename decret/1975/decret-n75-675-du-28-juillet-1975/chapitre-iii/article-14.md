@@ -6,4 +6,4 @@ Les militaires ont droit à des permissions de longue durée, à des permissions
 
 Sauf pour les permissions pour événements familiaux, la détermination de la date de départ et de la durée de chaque permission tient compte des nécessités du service. Lorsque les circonstances l'exigent, l'autorité militaire peut rappeler les militaires en permission.
 
-En cas de participation à des opérations militaires ou à des campagnes lointaines, le régime des permissions est fixé par le ministre chargé des armées.
+En cas de participation à des opérations militaires ou à des campagnes lointaines, le régime des permissions est fixé par le ministre de la défense.

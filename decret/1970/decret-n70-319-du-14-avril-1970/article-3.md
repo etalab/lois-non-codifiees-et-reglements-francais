@@ -2,7 +2,7 @@
 
 Le chef d'état-major des armées fixe l'orientation générale de l'enseignement militaire supérieur.
 
-Il dispose à cette fin d'un conseil d'orientation de l'enseignement militaire supérieur dont l'organisation et le fonctionnement sont fixés par arrêté du ministre chargé des armées.
+Il dispose à cette fin d'un conseil d'orientation de l'enseignement militaire supérieur dont l'organisation et le fonctionnement sont fixés par arrêté du ministre de la défense.
 
 L'enseignement militaire supérieur au-dessus du deuxième degré ainsi que l'enseignement militaire supérieur interarmées du deuxième degré sont placés sous l'autorité directe du chef d'état-major des armées.
 

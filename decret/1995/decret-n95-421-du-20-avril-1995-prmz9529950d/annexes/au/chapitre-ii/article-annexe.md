@@ -4,9 +4,9 @@
 
 La convention de Chicago du 7 septembre 1944 relative à l'aviation civile internationale précise, dans l'article 3 de la première partie annexée au texte du protocole, que :
 
-Alinéa a : " La présente convention s'applique uniquement aux aéronefs civils et ne s'applique pas aux aéronefs d'Etat " ;
+Alinéa a : "La présente convention s'applique uniquement aux aéronefs civils et ne s'applique pas aux aéronefs d'Etat" ;
 
-Alinéa d : " Les Etats contractants s'engagent à tenir dûment compte de la sécurité de la navigation des aéronefs civils lorsqu'ils établissent des règlements pour leurs aéronefs d'Etat. "
+Alinéa d : "Les Etats contractants s'engagent à tenir dûment compte de la sécurité de la navigation des aéronefs civils lorsqu'ils établissent des règlements pour leurs aéronefs d'Etat."
 
 En France, dans le respect de ces principes, il existe deux types de circulation aérienne - la circulation aérienne générale et la circulation aérienne militaire - qui sont pris en charge par deux services publics distincts mais coordonnés.
 
@@ -14,19 +14,19 @@ C'est pourquoi le code de l'aviation civile précise que :
 
 Article D. 131-5 :
 
-" Les règles applicables à chacun des types de circulation aérienne doivent être compatibles avec celles qui régissent les autres types de circulation. Le délégué à l'espace aérien, agissant en vertu de la délégation qui lui est conférée par le décret n° 71-1007 du 17 décembre 1971, fixe les règles de nature à assurer cette compatibilité dans les conditions prévues par la réglementation relative à l'espace aérien. " ;
+"Les règles applicables à chacun des types de circulation aérienne doivent être compatibles avec celles qui régissent les autres types de circulation. Le délégué à l'espace aérien, agissant en vertu de la délégation qui lui est conférée par le décret n° 71-1007 du 17 décembre 1971, fixe les règles de nature à assurer cette compatibilité dans les conditions prévues par la réglementation relative à l'espace aérien." ;
 
 Article D. 131-6 :
 
-" Dans le cadre fixé par l'article précédent, le ministre chargé de l'aviation civile et le ministre chargé des armées établissent la réglementation propre à la circulation aérienne qui relève de leurs compétences respectives. " ;
+"Dans le cadre fixé par l'article précédent, le ministre chargé de l'aviation civile et le ministre de la défense établissent la réglementation propre à la circulation aérienne qui relève de leurs compétences respectives." ;
 
 Article D. 131-7 :
 
-" Les règles de l'air définies à l'annexe I de la présente section s'imposent à tous les aéronefs compris dans la circulation aérienne générale dans l'espace aérien où les services de la circulation aérienne sont assurés par l'administration française. " ;
+"Les règles de l'air définies à l'annexe I de la présente section s'imposent à tous les aéronefs compris dans la circulation aérienne générale dans l'espace aérien où les services de la circulation aérienne sont assurés par l'administration française." ;
 
 Article D. 131-8 :
 
-" Les règles de la circulation aérienne militaire sont établies en conformité avec les règles de l'air dans la mesure où celles-ci sont adaptées aux missions des armées et du centre d'essais en vol. "
+"Les règles de la circulation aérienne militaire sont établies en conformité avec les règles de l'air dans la mesure où celles-ci sont adaptées aux missions des armées et du centre d'essais en vol."
 
 L'objet de la présente annexe est de fixer, dans ce cadre, les règles de nature à assurer la compatibilité des règles applicables à chacun des deux types de circulation aérienne.
 

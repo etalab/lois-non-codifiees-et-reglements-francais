@@ -12,7 +12,7 @@ II - Le cas des élèves qui ne détenaient pas un grade d'officier de réserve 
 
 a) Soit versés dans la réserve avec le grade détenu à l'école ;
 
-b) Soit admis à souscrire, sur demande agréée par le ministre chargé des armées, un nouveau contrat avec le grade qu'ils détenaient avant la date de prise d'effet du contrat visé à l'article 1er s'ils étaient sous-officiers engagés, avec le grade de sergent ou de second maître dans les autres cas ;
+b) Soit admis à souscrire, sur demande agréée par le ministre de la défense, un nouveau contrat avec le grade qu'ils détenaient avant la date de prise d'effet du contrat visé à l'article 1er s'ils étaient sous-officiers engagés, avec le grade de sergent ou de second maître dans les autres cas ;
 
 c) Soit réadmis de droit sur leur demande à l'état de sous-officiers de carrière avec le grade précédemment détenu s'ils étaient militaires de carrière avant la date de prise d'effet du contrat visé à l'article 1er et si l'exclusion a été prononcée pour un motif autre que disciplinaire.
 

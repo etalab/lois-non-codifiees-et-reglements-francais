@@ -2,7 +2,7 @@
 
 Les maîtres ouvriers des armées ont accès, en fonction de la durée des services militaires effectués, aux échelons de leur grade dans les conditions suivantes :
 
-Au-delà de la durée légale du service militaire actif :
+Après un an de service ;
 
 Après trois ans de service ;
 

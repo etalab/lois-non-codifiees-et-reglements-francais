@@ -6,6 +6,6 @@ Les classes préparatoires aux grandes écoles sont accessibles aux titulaires d
 
 - pour les lycées relevant de la compétence du ministre chargé de l'agriculture, sur décision de la commission nationale mentionnée à l'article 7 ci-dessous ;
 
-- pour les lycées relevant de la compétence du ministre chargé des armées, dans le cadre du décret du 10 septembre 1982 susvisé.
+- pour les lycées relevant de la compétence du ministre de la défense, dans le cadre du décret du 10 septembre 1982 susvisé.
 
 Toutefois, certaines classes préparatoires sont accessibles aux titulaires de diplômes obtenus après deux années d'études supérieures dont la liste est fixée respectivement par arrêté conjoint des ministres chargés de l'éducation et de l'enseignement supérieur et par arrêté du ministre chargé de l'agriculture.

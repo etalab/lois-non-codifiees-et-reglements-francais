@@ -16,7 +16,7 @@ Les procédures d'application découlant de la présente réglementation font l'
 
 Il appartient à chaque état-major ou direction, au centre d'essais en vol et à chaque grand commandement d'arrêter et de diffuser, en tant que de besoin, des instructions, des décisions, des directives et/ou des consignes particulières à l'intention de leurs unités et organismes en conformité avec le présent règlement.
 
-Conformément aux dispositions de l'article D. 131-8 du code de l'aviation civile, " les règles de la circulation aérienne militaire sont établies en conformité avec les règles de l'air dans la mesure où celles-ci sont adaptées aux missions des armées et du centre d'essais en vol " ; le texte ne présente donc que les dispositions :
+Conformément aux dispositions de l'article D. 131-8 du code de l'aviation civile, "les règles de la circulation aérienne militaire sont établies en conformité avec les règles de l'air dans la mesure où celles-ci sont adaptées aux missions des armées et du centre d'essais en vol" ; le texte ne présente donc que les dispositions :
 
 - complémentaires ou qui ne peuvent se conformer aux règles de l'air définies par le règlement de la circulation aérienne (RCA 1), qui constitue l'annexe I aux articles D. 131-1 à D. 131-10 du code de l'aviation civile ;
 
@@ -62,7 +62,7 @@ Approche : Phase de vol au cours de laquelle l'aéronef évolue pour se rapproch
 
 Assistance : Opération entreprise au profit d'un aéronef en état d'urgence ou de détresse en vue d'aider cet aéronef à effectuer certaines manoeuvres destinées à la poursuite ou à l'interruption de son vol.
 
-Autorité chargée de la défense aérienne : Instance militaire qui a reçu du ministre chargé des armées pouvoir de prendre des décisions en matière de défense aérienne.
+Autorité chargée de la défense aérienne : Instance militaire qui a reçu du ministre de la défense pouvoir de prendre des décisions en matière de défense aérienne.
 
 CAM contrôlée : Phase de vol pendant laquelle est rendu le service du contrôle de la CAM. Tous les types de vols CAM peuvent être contrôlés.
 
@@ -184,7 +184,7 @@ Le pilote est responsable :
 
 2.3.3. Aéronefs non habités
 
-Pour les aéronefs non habités et pour la réalisation d'activités susceptibles d'engager l'espace aérien, cette responsabilité est exercée par la personne mettant en oeuvre l'appareil ou assumant le commandement ou la direction des opérations. Des règles particulières concernant les aéronefs non habités peuvent être établies par arrêté ou instruction du ministre chargé des armées.
+Pour les aéronefs non habités et pour la réalisation d'activités susceptibles d'engager l'espace aérien, cette responsabilité est exercée par la personne mettant en oeuvre l'appareil ou assumant le commandement ou la direction des opérations. Des règles particulières concernant les aéronefs non habités peuvent être établies par arrêté ou instruction du ministre de la défense.
 
 2.4. Autorité du commandant de bord
 
@@ -514,7 +514,7 @@ Une telle clairance lui permet de s'affranchir des espacements réglementaires v
 
 3.7. Communications
 
-3.7.1. Les procédures de radiotéléphonie et la phraséologie applicables dans les communications radiotéléphoniques entre aéronefs et entre un aéronef et un organisme chargé de rendre les services de la circulation aérienne militaire sont définies par arrêté du ministre chargé de l'aviation civile publiée par le service de l'information aéronautique, complétée par un arrêté du ministre chargé des armées.
+3.7.1. Les procédures de radiotéléphonie et la phraséologie applicables dans les communications radiotéléphoniques entre aéronefs et entre un aéronef et un organisme chargé de rendre les services de la circulation aérienne militaire sont définies par arrêté du ministre chargé de l'aviation civile publiée par le service de l'information aéronautique, complétée par un arrêté du ministre de la défense.
 
 La phraséologie particulière à certaines missions (sûreté aérienne,...) est précisée par les instructions et directives spécifiques à chaque armée ou direction.
 
@@ -612,7 +612,7 @@ L'interception doit être réalisée conformément aux procédures en vigueur, n
 
 3.14. Compte rendu d'incident de la circulation aérienne
 
-Les procédures à suivre pour rendre compte d'un incident (AIRPROX ou réclamation) ou d'une infraction font l'objet d'un arrêté du ministre chargé des armées.
+Les procédures à suivre pour rendre compte d'un incident (AIRPROX ou réclamation) ou d'une infraction font l'objet d'un arrêté du ministre de la défense.
 
 Chapitre IV
 
@@ -660,7 +660,7 @@ Les vols effectués en CAM V dans ces espaces sont soumis à une clairance pour 
 
 4.5.1.3. Espaces aériens contrôlés de classe E.
 
-Les vols effectués en CAM V bénéficient des mêmes services que les vols VFR de la circulation aérienne générale lorsqu'un arrêté conjoint du ministre chargé des armées et du ministre chargé de l'aviation civile le prévoit.
+Les vols effectués en CAM V bénéficient des mêmes services que les vols VFR de la circulation aérienne générale lorsqu'un arrêté conjoint du ministre de la défense et du ministre chargé de l'aviation civile le prévoit.
 
 4.5.2. Espaces aériens contrôlés spécialisés (EACS)
 
@@ -1106,9 +1106,7 @@ Bulletin officiel édition méthodique.
 
 BRIA
 
-Bureau régional d'information aéronautique et d'assistance en vol.
-
-CA
+Bureau régional d'information aéronautique et d'assistance en vol. CA
 
 Circulation aérienne.
 

@@ -6,4 +6,4 @@ Ils commandent des unités à vocation administrative ou d'instruction.
 
 Ils sont les conseillers du commandement en matière administrative, financière, juridique et logistique.
 
-Ils peuvent être appelés à faire partie d'organismes interarmées ou relevant d'une autre armée ou de tout autre organisme rattaché au ministre chargé des armées.
+Ils peuvent être appelés à faire partie d'organismes interarmées ou relevant d'une autre armée ou de tout autre organisme rattaché au ministre de la défense.

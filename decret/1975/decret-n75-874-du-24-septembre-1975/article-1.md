@@ -12,4 +12,4 @@ Commandant supérieur des forces armées de la Nouvelle-Calédonie ;
 
 Commandant supérieur des forces armées de la Polynésie française.
 
-Ils relèvent du ministre chargé des armées.
+Ils relèvent du ministre de la défense.

@@ -4,7 +4,7 @@ Le commandement.
 
 Le commandement s'exerce sur une formation ou sur une ou plusieurs unités subordonnées rassemblant un ensemble de personnes et de moyens en vue de l'exécution d'une mission.
 
-Le commandement de certaines formations procède des pouvoirs du Président de la République et est exercé en son nom par les titulaires désignés. Ces derniers sont investis au cours d'une cérémonie publique et reçoivent un titre de commandement délivré dans les conditions fixées par une instruction du ministre chargé des armées.
+Le commandement de certaines formations procède des pouvoirs du Président de la République et est exercé en son nom par les titulaires désignés. Ces derniers sont investis au cours d'une cérémonie publique et reçoivent un titre de commandement délivré dans les conditions fixées par une instruction du ministre de la défense.
 
 Tout commandement d'unité subordonnée est attribué nominativement. Son titulaire est investi par l'autorité supérieure.
 

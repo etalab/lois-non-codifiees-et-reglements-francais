@@ -6,19 +6,19 @@ Pouvoir disciplinaire.
 
 Seules certaines autorités ont le pouvoir de statuer sur ces demandes et d'infliger les punitions correspondantes. Ce pouvoir est lié à la fonction et non au grade. Ces autorités sont les suivantes :
 
-- autorité militaire de premier niveau exerçant les fonctions dont la liste est fixée par arrêté du ministre chargé des armées ;
+- autorité militaire de premier niveau exerçant les fonctions dont la liste est fixée par arrêté du ministre de la défense ;
 
-- autorité militaire de deuxième niveau exerçant les fonctions dont la liste est fixée par arrêté du ministre chargé des armées ;
+- autorité militaire de deuxième niveau exerçant les fonctions dont la liste est fixée par arrêté du ministre de la défense ;
 
-- ministre chargé des armées ou, en ce qui concerne les militaires du rang, autorité militaire de troisième niveau exerçant les fonctions dont la liste est fixée par arrêté du ministre chargé des armées.
+- ministre de la défense ou, en ce qui concerne les militaires du rang, autorité militaire de troisième niveau exerçant les fonctions dont la liste est fixée par arrêté du ministre de la défense.
 
 II ne peut y avoir cumul des fonctions définies à l'un des alinéas précédents à l'encontre d'un même militaire fautif.
 
 Lorsque l'autorité militaire de premier niveau est empêchée d'exercer son pouvoir de punir, l'autorité militaire de deuxième niveau désigne nominativement l'autorité qui exercera la permanence du pouvoir de punir par intérim.
 
-Lorsqu'une autorité militaire de deuxième ou de troisième niveau est empêchée d'exercer son pouvoir de punir, le ministre chargé des armées désigne nominativement l'autorité qui exercera la permanence du pouvoir de punir par intérim.
+Lorsqu'une autorité militaire de deuxième ou de troisième niveau est empêchée d'exercer son pouvoir de punir, le ministre de la défense désigne nominativement l'autorité qui exercera la permanence du pouvoir de punir par intérim.
 
-2. Les autorités investies du pouvoir de punir peuvent le déléguer en totalité ou en partie dans les conditions précisées par une instruction du ministre chargé des armées.
+2. Les autorités investies du pouvoir de punir peuvent le déléguer en totalité ou en partie dans les conditions précisées par une instruction du ministre de la défense.
 
 3. Les punitions pouvant être infligées aux officiers, sous officiers ou officiers mariniers et militaires du rang par les échelons de commandement définis au I. sont les suivantes :
 
@@ -44,7 +44,7 @@ Arrêts : 30 jours ou blâme.
 
 ECHELON DE COMMANDEMENT INFLIGEANT LA PUNITION :
 
-Ministre chargé des armées.
+Ministre de la défense.
 
 PUNITIONS ET TAUX MAXIMUM POUVANT ETRE INFLIGES :
 
@@ -72,7 +72,7 @@ Arrêts : 30 jours.
 
 ECHELON DE COMMANDEMENT INFLIGEANT LA PUNITION :
 
-Ministre chargé des armées ou autorité militaire de troisième niveau.
+Ministre de la défense ou autorité militaire de troisième niveau.
 
 PUNITIONS ET TAUX MAXIMUM POUVANT ETRE INFLIGES :
 
@@ -90,7 +90,7 @@ L'autorité militaire de premier niveau entend l'intéressé, vérifie l'exactit
 
 Dans le cas contraire, la demande de punition est adressée à l'autorité militaire de deuxième niveau dont relève l'autorité militaire de premier niveau.
 
-L'autorité saisie statue si la punition qu'elle décide d'infliger ne dépasse pas son pouvoir disciplinaire. Dans le cas contraire, la demande de punition est transmise soit à l'autorité militaire de troisième niveau dont relève le militaire fautif s'il s'agit d'un militaire du rang, soit au ministre chargé des armées s'il s'agit d'un officier, d'un sous-officier ou d'un officier marinier, ou s'il s'agit d'un militaire du rang ne relevant d'aucune autorité militaire de troisième niveau. Les échelons techniques intermédiaires sont informés de ces transmissions.
+L'autorité saisie statue si la punition qu'elle décide d'infliger ne dépasse pas son pouvoir disciplinaire. Dans le cas contraire, la demande de punition est transmise soit à l'autorité militaire de troisième niveau dont relève le militaire fautif s'il s'agit d'un militaire du rang, soit au ministre de la défense s'il s'agit d'un officier, d'un sous-officier ou d'un officier marinier, ou s'il s'agit d'un militaire du rang ne relevant d'aucune autorité militaire de troisième niveau. Les échelons techniques intermédiaires sont informés de ces transmissions.
 
 5. Les punitions doivent être infligées avec justice, impartialité et proportionnées à la gravité de la faute. La matérialité des faits ne doit pas être seule prise en considération ; il doit être tenu compte des circonstances et de la personnalité de l'intéressé. La punition est notifiée sans retard.
 

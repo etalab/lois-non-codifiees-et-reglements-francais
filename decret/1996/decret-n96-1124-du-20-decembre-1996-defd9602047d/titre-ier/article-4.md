@@ -1,8 +1,8 @@
 # Article 4
 
-Le président du conseil d'administration est nommé par décret. Les membres représentant l'Etat sont nommés par arrêté interministériel signé du ministre chargé des armées et des ministres qu'ils représentent.
+Le président du conseil d'administration est nommé par décret. Les membres représentant l'Etat sont nommés par arrêté interministériel signé du ministre de la défense et des ministres qu'ils représentent.
 
-Les autres membres sont nommés par arrêté du ministre chargé des armées.
+Les autres membres sont nommés par arrêté du ministre de la défense.
 
 La durée des mandats, à l'exception de ceux du directeur général et des élèves, est de trois ans.
 

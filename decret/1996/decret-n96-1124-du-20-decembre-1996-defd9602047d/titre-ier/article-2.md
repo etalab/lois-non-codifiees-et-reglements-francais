@@ -8,7 +8,7 @@ Le conseil d'administration de l'Ecole polytechnique comprend :
 
 - sept membres représentant l'Etat :
 
-- deux représentants du ministre chargé des armées ;
+- deux représentants du ministre de la défense ;
 
 - un représentant du ministre chargé de la recherche ;
 

@@ -16,4 +16,4 @@ En matière de punitions disciplinaires, les garanties sont les suivantes :
 
 La décision prononçant la punition mentionne la possibilité d'exercer le droit de recours défini à l'article 13. Elle est notifiée avec indication des voies et délais de recours devant la juridiction administrative.
 
-6. Le contrôle hiérarchique : toute autorité supérieure peut intervenir au profit d'un militaire en vue d'une réduction de la punition qui a été prononcée. Seul le ministre chargé des armées peut aggraver une punition déjà infligée.
+6. Le contrôle hiérarchique : toute autorité supérieure peut intervenir au profit d'un militaire en vue d'une réduction de la punition qui a été prononcée. Seul le ministre de la défense peut aggraver une punition déjà infligée.

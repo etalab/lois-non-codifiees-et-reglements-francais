@@ -12,4 +12,4 @@ professeur agrégé du Val de Grâce ;
 
 maître de recherches,
 
-sont attribués, avec mention de la discipline ou de la spécialité, par décision du ministre chargé des armées.
+sont attribués, avec mention de la discipline ou de la spécialité, par décision du ministre de la défense.

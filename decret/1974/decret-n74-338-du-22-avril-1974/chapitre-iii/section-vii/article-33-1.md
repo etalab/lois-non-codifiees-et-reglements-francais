@@ -4,7 +4,7 @@ Le militaire en position d'activité qui en fait la demande est placé dans la p
 
 La possibilité d'obtenir un congé parental est ouverte, du chef du même enfant, soit au père, soit à la mère.
 
-Ce congé est accordé de droit par le ministre chargé des armées :
+Ce congé est accordé de droit par le ministre de la défense :
 
 A la mère, après un congé de maternité ou un congé d'adoption ou une adoption d'un enfant âgé de moins de trois ans ;
 

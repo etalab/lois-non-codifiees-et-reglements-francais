@@ -4,4 +4,4 @@ En application de l'article 98-1 de la loi du 13 juillet 1972 susvisée il peut 
 
 La liste de ces emplois est fixée par arrêté du ministre de la défense.
 
-Les intéressés doivent avoir satisfait aux obligations du service national actif ou en avoir été dispensés,
+Les intéressés doivent avoir satisfait aux obligations légales du service national.

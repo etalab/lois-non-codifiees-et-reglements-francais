@@ -8,4 +8,4 @@ Dans l'exercice de ses attributions, le ministre des armées est assisté :
 
 3° En matière administrative, domaniale, financière et sociale, par un secrétaire général pour l'administration.
 
-Le chef d'état-major des armées, le délégué général pour l'armement et le secrétaire général pour l'administration sont nommés, sur proposition du ministre chargé des armées, par décrets en conseil des ministres.
+Le chef d'état-major des armées, le délégué général pour l'armement et le secrétaire général pour l'administration sont nommés, sur proposition du ministre de la défense, par décrets en conseil des ministres.

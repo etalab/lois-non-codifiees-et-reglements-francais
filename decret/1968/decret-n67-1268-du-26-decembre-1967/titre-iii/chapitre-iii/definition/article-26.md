@@ -6,4 +6,4 @@ Les honneurs funèbres militaires ne sont rendus aux militaires que s'ils étaie
 
 Les militaires des réserves, décédés sous les drapeaux, reçoivent les honneurs funèbres militaires d'après les règles prescrites pour le personnel en activité.
 
-Des décisions spéciales du Gouvernement peuvent régler les honneurs funèbres à rendre à certaines personnalités civiles ou militaires, françaises ou étrangères. En particulier, pour les officiers étrangers décédés en France au cours d'une mission officielle, les dispositions concernant les honneurs funèbres font l'objet d'instructions concertées entre le ministre des affaires étrangères et le ministre chargé des armées.
+Des décisions spéciales du Gouvernement peuvent régler les honneurs funèbres à rendre à certaines personnalités civiles ou militaires, françaises ou étrangères. En particulier, pour les officiers étrangers décédés en France au cours d'une mission officielle, les dispositions concernant les honneurs funèbres font l'objet d'instructions concertées entre le ministre des affaires étrangères et le ministre de la défense.

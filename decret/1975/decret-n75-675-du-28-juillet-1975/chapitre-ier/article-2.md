@@ -8,4 +8,4 @@ Du Président de la République, chef des armées, garant de l'indépendance nat
 
 Du Premier ministre, responsable de la défense nationale ;
 
-Du ministre chargé des armées, responsable de la préparation et de la mise en oeuvre de la politique de défense au plan militaire.
+Du ministre de la défense, responsable de la préparation et de la mise en oeuvre de la politique de défense au plan militaire.

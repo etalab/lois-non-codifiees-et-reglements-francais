@@ -8,7 +8,7 @@ L'admission au stage est effectuée par concours sur épreuves, qui peut comport
 
 - avoir accompli quatre ans de services effectifs en catégorie A ou de fonctions d'un niveau équivalent dans les services du ou des ministères chargés de la mer ou les établissements publics nationaux qui en relèvent ;
 
-- pour les candidats masculins, avoir accompli les obligations du service national actif dans l'une des formes prévues aux chapitres Ier à III du titre III du code du service national ou en avoir été légalement dispensés.
+- avoir accompli les obligations légales du service national.
 
 Les intéressés sont nommés au grade d'administrateur de 1re classe le 1er août suivant la fin du stage. Ils prennent rang dans ce grade à compter du premier jour du mois au cours duquel ils ont rejoint l'école d'administration des affaires maritimes et se classent entre eux dans l'ordre du classement de fin de stage. Ils sont reclassés à l'indice égal ou immédiatement supérieur à celui qu'ils détiennent dans leur corps d'origine.
 

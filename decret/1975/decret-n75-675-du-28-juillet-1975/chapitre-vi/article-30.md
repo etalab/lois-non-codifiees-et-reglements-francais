@@ -16,4 +16,4 @@ Le refus d'ordre de poursuites ne fait pas obstacle à l'exercice du pouvoir dis
 
 3. En aucun cas il ne peut être infligé de punition collective.
 
-4. A l'exception de l'avertissement, les punitions disciplinaires font l'objet d'une inscription motivée au dossier individuel ou au livret matricule. Les conditions dans lesquelles ces inscriptions peuvent être effacées, en dehors des lois d'amnistie, sont définies dans une instruction du ministre chargé des armées.
+4. A l'exception de l'avertissement, les punitions disciplinaires font l'objet d'une inscription motivée au dossier individuel ou au livret matricule. Les conditions dans lesquelles ces inscriptions peuvent être effacées, en dehors des lois d'amnistie, sont définies dans une instruction du ministre de la défense.

@@ -14,4 +14,4 @@ Un conseil de coordination mène des études et fait des propositions concernant
 
 A l'école d'application du service de santé des armées et dans chacun des instituts, un conseil de perfectionnement donne son avis sur toute question relative à l'enseignement dispensé dans ces établissements.
 
-La composition et le fonctionnement de ces conseils sont fixés par le ministre chargé des armées.
+La composition et le fonctionnement de ces conseils sont fixés par le ministre de la défense.

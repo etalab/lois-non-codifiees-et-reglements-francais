@@ -10,6 +10,6 @@ La décision du ministre doit être précédée de la consultation d'une commiss
 
 4° Le directeur de la fonction militaire et du personnel civil ou son représentant ;
 
-5° Quatre officiers généraux désignés par le ministre chargé des armées.
+5° Quatre officiers généraux désignés par le ministre de la défense.
 
 Le président et les membres de la commission, autres que celui désigné au 4° ci-dessus, sont nommés, pour trois ans, par décret.

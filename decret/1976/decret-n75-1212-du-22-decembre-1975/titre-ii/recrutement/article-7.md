@@ -8,4 +8,4 @@ Avoir détenu pendant au moins deux ans un grade d'officier marinier.
 
 Ce recrutement est effectué après avis motivé d'un conseil d'unité, qui comprend le commandant d'unité, président, deux officiers ainsi que deux officiers mariniers de carrière de la marine d'un grade au moins égal à celui du postulant, désignés par le commandant d'unité.
 
-Les intéressés sont admis sur décision du ministre chargé des armées dans les corps des officiers mariniers de maistrance avec leur grade et leur ancienneté de grade. Ils restent affectés à la branche, au groupe de spécialités ou à la spécialité auxquels ils appartiennent.
+Les intéressés sont admis sur décision du ministre de la défense dans les corps des officiers mariniers de maistrance avec leur grade et leur ancienneté de grade. Ils restent affectés à la branche, au groupe de spécialités ou à la spécialité auxquels ils appartiennent.

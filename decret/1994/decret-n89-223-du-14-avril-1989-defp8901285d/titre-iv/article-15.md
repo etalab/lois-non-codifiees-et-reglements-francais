@@ -1,6 +1,6 @@
 # Article 15
 
-Le ministre chargé des armées peut, sur leur demande, accorder aux médecins et aux pharmaciens chimistes des armées nommés internes avant le 31 décembre 1984 le titre d'assistant des hôpitaux des armées, sous réserve qu'ils remplissent les conditions suivantes au 1er janvier de l'année de leur prise de fonctions d'assistant :
+Le ministre de la défense peut, sur leur demande, accorder aux médecins et aux pharmaciens chimistes des armées nommés internes avant le 31 décembre 1984 le titre d'assistant des hôpitaux des armées, sous réserve qu'ils remplissent les conditions suivantes au 1er janvier de l'année de leur prise de fonctions d'assistant :
 
 - être âgé de moins de quarante ans ;
 
