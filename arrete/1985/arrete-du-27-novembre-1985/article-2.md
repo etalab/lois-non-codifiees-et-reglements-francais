@@ -1,11 +1,13 @@
 # Article 2
 
-Le montant de la base de calcul en valeur 1983 de la dotation générale de décentralisation mentionnée aux articles 95 et 96 de la loi n° 83-8 du 7 janvier 1983, destiné à compenser les charges ainsi transférées aux départements, est égal à la différence entre le montant de ces charges et le montant de la fiscalité transférée soit :
+Seules peuvent déposer leur candidature aux fonctions de praticien conseil chargé du contrôle médical du régime agricole de protection sociale :
 
-- le produit pour 1983 de la taxe différentielle sur les véhicules à moteur et de la taxe spéciale sur les voitures particulières d'une puissance fiscale supérieure à 16 CV transférée aux départements par l'article 99 de la loi n° 83-8 du 7 janvier 1983 ;
+a) En qualité de médecin conseil [*conditions*] : les personnes de nationalité française âgées de moins de quarante-sept ans et titulaires du diplôme d'Etat de docteur en médecine à la date fixée pour le début des épreuves ;
 
-- le produit pour 1983 des droits d'enregistrement et de la taxe de publicité foncière transférés aux départements par l'article 28 de la loi n° 83-1179 du 29 décembre 1983 portant loi de finances pour 1984.
+b) En qualité de dentiste conseil : les personnes de nationalité française âgées de moins de quarante-sept ans et titulaires soit du diplôme d'Etat de chirurgien-dentiste, soit du diplôme de docteur en chirurgie dentaire, soit du certificat d'études spéciales de stomatologie à la date fixée pour le début des épreuves ;
 
-Le montant de ces bases de calcul en valeur 1983 est actualisé par application du taux d'évolution de la dotation générale de décentralisation pour 1984.
+c) En qualité de pharmacien conseil ; les personnes de nationalité française âgées de moins de quarante-sept ans et titulaires du diplôme d'Etat de pharmacien à la date fixée pour le début des épreuves.
 
-Le montant ainsi obtenu après actualisation est diminué conformément aux dispositions du IV de l'article 14 de la loi n° 83-1179 du 29 décembre 1983 de la moitié du supplément de ressources correspondant au produit pour 1984 de la taxe foncière sur les propriétés bâties, résultant de la modification du régime des exonérations de longue durée, prévue par le I du même article.
+La limite d'âge de quarante-sept ans n'est pas opposable aux praticiens en fonctions à plein temps dans un organisme de mutualité sociale agricole depuis une date antérieure à leur quarante-septième anniversaire.
+
+Ne pourront prendre part au concours que les praticiens inscrits au tableau de leur ordre professionnel, à l'exception des praticiens qui n'ont pas à être inscrits du fait de leur activité professionnelle.

@@ -1,4 +1,4 @@
-# Arrêté du 27 novembre 1985 fixant les conditions d'inscription sur les listes d'aptitude prévues aux articles 11 et 12 du décret n° 69-671 du 19 juin 1969 modifié relatif au contrôle médical du régime agricole de protection sociale.
+# Décret du 10 janvier 1994 relatif à l'appellation d'origine contrôlée "Olives noires de Nyons"
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -14,7 +14,3 @@
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
-- [Article 15](article-15.md)
-- [Article 16](article-16.md)
-- [Article 17](article-17.md)
-- [Article 18](article-18.md)
