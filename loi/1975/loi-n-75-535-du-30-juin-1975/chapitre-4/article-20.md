@@ -1,5 +1,3 @@
 # Article 20
 
-Les établissements publics prévus à l'article 9 sont administrés par un conseil d'administration assisté d'un directeur nommé, après avis du président du conseil d'administration, par l'autorité administrative, selon les modalités fixées par voie réglementaire.
-
-Ils sont soumis à la tutelle de l'Etat.
+Les établissements publics mentionnés à l'article 19 sont administrés par un conseil d'administration assisté d'un directeur. Celui-ci est nommé par l'autorité compétente de l'Etat, après avis du président du conseil d'administration.

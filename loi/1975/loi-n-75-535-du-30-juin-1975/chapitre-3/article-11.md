@@ -1,11 +1,9 @@
 # Article 11
 
-Sous réserve d'un contrôle de conformité aux normes visées à l'article 4 de la présente loi opéré après l'achèvement des travaux et avant la mise en service, selon les modalités définies par voie réglementaire, l'autorisation vaut :
+L'autorisation prévue à l'article 9 vaut :
 
-Autorisation de fonctionner ;
+1° Autorisation de fonctionner, sous réserve, pour les établissements, d'un contrôle de conformité aux normes mentionnées à l'article 4 opéré après l'achèvement des travaux et avant la mise en service ;
 
-S'il y a lieu, et sauf mention contraire, autorisation de dispenser des soins remboursables aux assurés sociaux par application de l'article L. 272 du Code de la sécurité sociale ;
+2° Sauf mention contraire, habilitation à recevoir des bénéficiaires de l'aide sociale ;
 
-Le cas échéant, agrément au sens de l'article L. 545 du même code.
-
-L'autorisation de dispenser des soins remboursables aux assurés sociaux, de recevoir des bénéficiaires de l'aide sociale et, de manière générale, toutes personnes dont les frais de traitement ou d'hébergement incombent à des personnes morales de droit public, peut être refusée lorsque le prix prévu est manifestement hors de proportion avec les conditions de fonctionnement de l'établissement.
+3° Sauf mention contraire, autorisation de dispenser des soins remboursables aux assurés sociaux par application de l'article L. 272 du code de la sécurité sociale, lorsque l'autorisation est accordée par le représentant de l'Etat, seul ou conjointement avec le président du conseil général.

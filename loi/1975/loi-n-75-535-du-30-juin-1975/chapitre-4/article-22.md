@@ -2,7 +2,7 @@
 
 Le conseil d'administration règle par ses délibérations les affaires de l'établissement.
 
-Sont soumises à approbation [*condition*] les délibérations concernant :
+Sont soumises à approbation [*condition*] les délibérations des conseils d'administration des établissements publics sociaux ou médico-sociaux nationaux concernant :
 
 1° Le budget, les crédits supplémentaires et les comptes ;
 

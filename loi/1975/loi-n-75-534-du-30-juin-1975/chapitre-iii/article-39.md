@@ -6,9 +6,9 @@ Le montant de cette allocation est fixé par référence aux majorations accord�
 
 II - Les dispositions du paragraphe III de l'article 35 et les articles 36 et 38 ci-dessus sont applicables à l'allocation prévue au présent article, le plafond de ressources étant augmenté du montant de l'allocation accordée. Toutefois, les ressources provenant de son travail ne sont prises en compte que partiellement pour le calcul des ressources de l'intéressé. Il n'est exercé aucun recours en récupération de l'allocation compensatrice à l'encontre de la succession du bénéficiaire décédé lorsque ses héritiers sont son conjoint, ses enfants ou la personne qui a assumé, de façon effective et constante, la charge du handicapé.
 
-III - L'allocation compensatrice est incessible et insaisissable, sauf pour le paiement des frais d'entretien du handicapé. En cas de non-paiement de ces frais, la personne physique ou morale ou l'organisme qui en assume la charge peut obtenir du préfet *autorité compétente* que celle-ci lui soit versée directement.
+III - L'allocation compensatrice est incessible et insaisissable, sauf pour le paiement des frais d'entretien du handicapé. En cas de non-paiement de ces frais, la personne physique ou morale ou l'organisme qui en assume la charge peut obtenir du président du conseil général *autorité compétente* que celle-ci lui soit versée directement.
 
-L'action du bénéficiaire pour le paiement de l'allocation compensatrice se prescrit par deux ans *délai*. Cette prescription est également applicable à l'action intentée par le préfet en recouvrement des allocations indûment payées, sauf en cas de fraude ou de fausse déclaration.
+L'action du bénéficiaire pour le paiement de l'allocation compensatrice se prescrit par deux ans *délai*. Cette prescription est également applicable à l'action intentée par le président du conseil général en recouvrement des allocations indûment payées, sauf en cas de fraude ou de fausse déclaration.
 
 La tutelle aux prestations sociales prévue par la loi n. 66-774 du 18 octobre 1966 s'applique à l'allocation compensatrice.
 
