@@ -40,6 +40,6 @@ e) Présenter le titre alcoométrique volumique total correspondant à la riches
 
 f) Avoir fait l'objet d'une déclaration préalable lors de la vendange auprès des services locaux de l'Institut national des appellations d'origine ;
 
-g) Etre présentés, dégustés et agréés à l'examen analytique et organoleptique sous leur mention particulière, l'agrément ne pouvent intervenir avant un délai minimal de dix-huit mois à compter de la date de la récolte ;
+g) Etre présentés, dégustés et agréés à l'examen analytique et organoleptique sous leur mention particulière, l'agrément ne pouvant intervenir avant un délai minimal de dix-huit mois à compter de la date de la récolte. Les vins ne peuvent être agréés sans l'obtention préalable d'un certificat d'aptitude délivré dans les conditions précisées par le règlement intérieur prévu à l'article 1er de l'arrêté du 7 décembre 2001 modifié relatif aux examens analytique et organoleptique pour les vins à appellation d'origine contrôlée à l'exception des vins mousseux et pétillants ;
 
 h) Etre présentés obligatoirement avec l'indication du millésime.
