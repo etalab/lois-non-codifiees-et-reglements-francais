@@ -36,7 +36,7 @@ b) La direction de la fonction militaire et du personnel civil ;
 
 c) La direction des affaires juridiques ;
 
-d) La direction de la mémoire, du patrimoine et des archives ;
+d) La direction de la mémoire, du patrimoine et des archives et le service historique de la défense, service à compétence nationale qui lui est rattaché ;
 
 e) La direction des statuts, des pensions et de la réinsertion sociale ;
 
