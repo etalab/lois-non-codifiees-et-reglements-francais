@@ -160,6 +160,7 @@
 - [Arrêté du 6 avril 1990 (SPSP9000824A)](arrete-du-6-avril-1990-spsp9000824a)
 - [Arrêté du 6 décembre 1989 (SPSH9000054A)](arrete-du-6-decembre-1989-spsh9000054a)
 - [Arrêté du 6 décembre 1989 (SPSH9000546A)](arrete-du-6-decembre-1989-spsh9000546a)
+- [Arrêté du 6 décembre 1990 (MENN9002962A)](arrete-du-6-decembre-1990-menn9002962a)
 - [Arrêté du 6 février 1990 (BUDF9000005A)](arrete-du-6-fevrier-1990-budf9000005a)
 - [Arrêté du 6 février 1990 (FPPA9000020A)](arrete-du-6-fevrier-1990-fppa9000020a)
 - [Arrêté du 6 février 1990 (SPSN9000305A)](arrete-du-6-fevrier-1990-spsn9000305a)
