@@ -9,6 +9,7 @@
 - [Décret n°79-530 du 3 juillet 1979](decret-n79-530-du-3-juillet-1979)
 - [Décret n°79-607 du 3 juillet 1979](decret-n79-607-du-3-juillet-1979)
 - [Décret n°78-993 du 4 octobre 1978](decret-n78-993-du-4-octobre-1978)
+- [Décret n°79-305 du 4 avril 1979](decret-n79-305-du-4-avril-1979)
 - [Décret n°79-124 du 5 février 1979](decret-n79-124-du-5-fevrier-1979)
 - [Décret n°79-135 du 5 février 1979](decret-n79-135-du-5-fevrier-1979)
 - [Décret n°79-180 du 6 mars 1979](decret-n79-180-du-6-mars-1979)
