@@ -9,7 +9,6 @@
 - [Arrêté du 3 janvier 1972](arrete-du-3-janvier-1972)
 - [Arrêté du 3 juillet 1972](arrete-du-3-juillet-1972)
 - [Arrêté du 4 août 1972](arrete-du-4-aout-1972)
-- [Arrêté du 4 février 1972](arrete-du-4-fevrier-1972)
 - [Arrêté du 4 juillet 1972](arrete-du-4-juillet-1972)
 - [Arrêté du 4 mai 1972](arrete-du-4-mai-1972)
 - [Arrêté du 5 mai 1972](arrete-du-5-mai-1972)
