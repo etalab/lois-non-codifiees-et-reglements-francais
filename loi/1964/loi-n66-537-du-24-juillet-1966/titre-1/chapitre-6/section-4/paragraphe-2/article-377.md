@@ -11,3 +11,5 @@ Le ou les rapports des commissaires à la fusion sont mis à la disposition des 
 - indiquer si cette ou ces méthodes sont adéquates en l'espèce et mentionner les valeurs auxquelles chacune de ces méthodes conduit, un avis étant donné sur l'importance relative donnée à ces méthodes dans la détermination de la valeur retenue ;
 
 - indiquer en outre les difficultés particulières d'évaluation s'il en existe.
+
+En outre, les commissaires à la fusion apprécient sous leur responsabilité la valeur des apports en nature et les avantages particuliers et établissent à cet effet le rapport prévu à l'article 193.

@@ -6,6 +6,7 @@
 - [Loi n° 84-16 du 11 janvier 1984](loi-n-84-16-du-11-janvier-1984)
 - [Loi n° 84-46 du 24 janvier 1984](loi-n-84-46-du-24-janvier-1984)
 - [Loi n° 84-53 du 26 janvier 1984](loi-n-84-53-du-26-janvier-1984)
+- [Loi n° 84-578 du 9 juillet 1984](loi-n-84-578-du-9-juillet-1984)
 - [Loi n° 84-594 du 12 juillet 1984](loi-n-84-594-du-12-juillet-1984)
 - [Loi n° 84-595 du 12 juillet 1984](loi-n-84-595-du-12-juillet-1984)
 - [Loi n° 84-603 du 13 juillet 1984](loi-n-84-603-du-13-juillet-1984)

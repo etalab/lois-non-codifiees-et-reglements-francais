@@ -1,7 +1,5 @@
 # Article 89
 
-La société anonyme est administrée par un conseil d'administration composé de trois membres au moins et, au plus, douze membres ou, lorsque les actions de la société sont admises à la cote officielle d'une bourse de valeurs, quinze membres [*composition - nombre*]. Toutefois, en cas de fusion, ces nombres de douze et quinze pourront être dépassés jusqu'à concurrence du nombre total des administrateurs en fonctions depuis plus de six mois dans les sociétés fusionnées, sans pouvoir être supérieur à vingt-quatre, vingt-sept dans le cas d'une fusion d'une société dont les actions sont admises à la cote officielle d'une bourse de valeurs et d'une autre société, trente dans le cas d'une fusion de deux sociétés dont les actions sont admises à la cote officielle d'une bourse de valeurs.
-
-Sauf en cas de nouvelle fusion, il ne pourra être procédé à aucune nomination de nouveaux administrateurs, ni au remplacement des administrateurs décédés, révoqués ou démissionnaires, tant que le nombre des administrateurs n'aura pas été réduit à douze ou, lorsque les actions de la société sont admises à la cote officielle d'une bourse de valeurs, à quinze.
+La société anonyme est administrée par un conseil d'administration composé de trois membres au moins. Les statuts fixent le nombre maximum des membres du conseil, qui ne peut dépasser vingt-quatre.
 
 Toutefois, en cas de décès ou de démission du président du conseil d'administration et si le conseil n'a pu le remplacer par un de ses membres, il pourra nommer, sous réserve des dispositions de l'article 94, un administrateur supplémentaire qui sera appelé aux fonctions de président.

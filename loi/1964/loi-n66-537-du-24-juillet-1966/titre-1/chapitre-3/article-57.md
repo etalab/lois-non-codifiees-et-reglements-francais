@@ -1,6 +1,6 @@
 # Article 57
 
-Les décisions sont prises en assemblée [*conditions de forme*]. Toutefois, les statuts peuvent stipuler qu'à l'exception de celle prévue à l'article 56, alinéa 1er, toutes les décisions ou certaines d'entre elles pourront être prises par consultation écrite des associés.
+Les décisions sont prises en assemblée. Toutefois, les statuts peuvent stipuler qu'à l'exception de celles prévues au premier alinéa de l'article 56 de la présente loi, toutes les décisions ou certaines d'entre elles pourront être prises par consultation écrite des associés ou pourront résulter du consentement de tous les associés exprimé dans un acte.
 
 Les associés sont convoqués aux assemblées dans les formes et délais prévus par décret. La convocation est faite par le gérant ou, à défaut, par le commissaire aux comptes, s'il en existe un [*compétence*].
 
