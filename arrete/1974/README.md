@@ -12,6 +12,7 @@
 - [Arrêté du 5 avril 1974](arrete-du-5-avril-1974)
 - [Arrêté du 5 octobre 1974](arrete-du-5-octobre-1974)
 - [Arrêté du 6 août 1974](arrete-du-6-aout-1974)
+- [Arrêté du 6 juin 1995 (DEFT9561093A)](arrete-du-6-juin-1995-deft9561093a)
 - [Arrêté du 7 août 1974](arrete-du-7-aout-1974)
 - [Arrêté du 7 janvier 1974](arrete-du-7-janvier-1974)
 - [Arrêté du 7 octobre 1974](arrete-du-7-octobre-1974)
