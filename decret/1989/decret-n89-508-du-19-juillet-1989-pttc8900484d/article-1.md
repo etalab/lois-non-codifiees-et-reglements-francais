@@ -8,7 +8,7 @@ Il est créé auprès du ministre chargé de l'espace, et sous sa présidence, u
 
 - le directeur général de l'industrie ;
 
-- le directeur général des télécommunications ;
+- le directeur du service public au ministère des postes et des télécommunications ;
 
 - le directeur général de la recherche et de la technologie ;
 
