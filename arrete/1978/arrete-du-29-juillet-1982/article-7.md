@@ -1,0 +1,3 @@
+# Article 7
+
+Le directeur de la sécurité sociale au ministère des affaires sociales et de la solidarité nationale, le directeur du budget et le directeur de la comptabilité publique au ministère de l'économie et des finances, le directeur des affaires sociales au ministère de l'agriculture et le directeur des affaires économiques, sociales et culturelles au secrétariat d'Etat auprès du ministre d'Etat, ministre de l'intérieur et de la décentralisation, chargé des départements et des territoires d'outre-mer, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui prendra effet à compter du 1er juillet 1978 et qui sera publié au Journal officiel de la République française.

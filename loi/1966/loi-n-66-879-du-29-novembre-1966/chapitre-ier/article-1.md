@@ -4,4 +4,6 @@ Il peut être constitué, entre personnes physiques exerçant une même professi
 
 Ces sociétés ont pour objet l'exercice en commun de la profession de leurs membres, nonobstant toute disposition législative ou réglementaire réservant aux personnes physiques l'exercice de cette profession.
 
-Les conditions d'application des articles 1er à 32 de la présente loi à chaque profession seront déterminées par un décret en Conseil d'Etat pris après avis des organismes chargés de représenter la profession auprès des pouvoirs publics ou, à défaut, des organisations les plus représentatives de la profession considérée.
+Par dérogation aux dispositions de l'article 1842 du code civil, ces sociétés jouissent de la personnalité morale à compter, selon le cas, de l'agrément, de l'inscription ou de la titularisation prévue à l'article 6.
+
+Les conditions d'application des articles 1er à 32 de la présente loi à chaque profession seront déterminés par un décret en Conseil d'Etat pris après avis des organismes chargés de représenter la profession auprès des pouvoirs publics ou, à défaut, des organisations les plus représentatives de la profession considérée.

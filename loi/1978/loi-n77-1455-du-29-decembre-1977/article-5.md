@@ -1,0 +1,3 @@
+# Article 5
+
+Les mères de famille et les femmes résidant dans les départements [*d'outre-mer*] visés à l'article L. 714 du code de la sécurité sociale, qui ont la charge d'un enfant handicapé ou d'un handicapé adulte dans les conditions prévues au troisième alinéa de l'article L. 242-2 dudit code, sont affiliées obligatoirement à l'assurance vieillesse du régime général de la sécurité sociale, pour autant que cette affiliation ne soit pas acquise à un autre titre et que leurs ressources ou celles du ménage ne dépassent pas le plafond du complément familial applicable dans les départements visés ci-dessus.
