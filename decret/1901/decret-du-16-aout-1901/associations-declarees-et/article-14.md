@@ -1,0 +1,3 @@
+# Article 14
+
+Si les statuts n'ont pas prévu les conditions de liquidation et de dévolution des biens d'une association en cas de dissolution, par quelque mode que ce soit, ou si l'assemblée générale qui prononce la dissolution volontaire n'a pas pris de décision à cet égard, le tribunal, à la requête du ministère public, nomme un curateur. Ce curateur provoque, dans le délai déterminé par le tribunal, la réunion d'une assemblée générale dont le mandat est uniquement de statuer sur la dévolution des biens ; il exerce les pouvoirs conférés par l'article 813 du code civil aux curateurs des successions vacantes.
