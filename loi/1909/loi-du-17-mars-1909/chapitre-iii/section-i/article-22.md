@@ -1,8 +1,6 @@
 # Article 22
 
-Les privilèges du vendeur et du créancier gagiste suivent le fonds en quelques mains qu'il passe.
-
-Lorsque la vente du fonds n'a pas eu lieu aux enchères publiques en vertu et conformité des articles 5, 15, 16, 17, 18, 20 et 23 de la présente loi, l'acquéreur qui veut se garantir des poursuites des créanciers inscrits est tenu, à peine de déchéance, avant la poursuite ou dans la quinzaine de la sommation de payer à lui faite, de notifier à tous les créanciers inscrits, au domicile élu par eux dans leurs inscriptions :
+Lorsque la vente du fonds n'a pas eu lieu aux enchères publiques en vertu et conformité des articles L. 141-19, L. 143-3, L. 143-4, L. 143-5, L. 143-6, L. 143-7, L. 143-8, L. 143-10, L. 143-13, L. 143-14 et L. 143-15 du code de commerce, l'acquéreur qui veut se garantir des poursuites des créanciers inscrits est tenu, à peine de déchéance, avant la poursuite ou dans la quinzaine de la sommation de payer à lui faite, de notifier à tous les créanciers inscrits, au domicile élu par eux dans leurs inscriptions :
 
 1° Les nom, prénoms et domicile du vendeur, la désignation précise du fonds, le prix, non compris le matériel et les marchandises, ou l'évaluation du fonds en cas de transmission à titre gratuit, par voie d'échange ou de reprise, sans fixation de prix, en vertu de convention de mariage, les charges, les frais et loyaux coûts exposés par l'acquéreur ;
 
