@@ -1,3 +1,0 @@
-# Article 85
-
-L'exercice illégal de la profession de commissaires aux comptes, en violation des prescriptions de l'article 219 (alinéa 1) de la loi précitée du 24 juillet 1966 ou d'une mesure d'interdiction ou de suspension temporaire, est puni d'un emprisonnement de dix jours à un mois et d'une amende prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5 ème classe ou de l'une de ces deux peines seulement. En cas de récidive, la peine d'emprisonnement peut être portée à deux mois et celle d'amende, celle prévue par le 5° de l'article 131-13 du code pénal pour les contraventions de la 5 ème classe commises en récidive.

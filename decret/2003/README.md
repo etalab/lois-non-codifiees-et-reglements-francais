@@ -189,6 +189,7 @@
 - [Décret n°2003-893 du 12 septembre 2003 (DEFP0301851D)](decret-n2003-893-du-12-septembre-2003-defp0301851d)
 - [Décret n°2003-894 du 12 septembre 2003 (MENS0301620D)](decret-n2003-894-du-12-septembre-2003-mens0301620d)
 - [Décret n°2003-897 du 12 septembre 2003 (SPRK0370108D)](decret-n2003-897-du-12-septembre-2003-sprk0370108d)
+- [Décret n°69-810 du 12 août 1969](decret-n69-810-du-12-aout-1969)
 - [Décret n°2003-429 du 12 mai 2003 (JUSC0320194D)](decret-n2003-429-du-12-mai-2003-jusc0320194d)
 - [Décret du 13 novembre 2003 (AGRP0301823D)](decret-du-13-novembre-2003-agrp0301823d)
 - [Décret n°2003-1074 du 13 novembre 2003 (ECOT0314343D)](decret-n2003-1074-du-13-novembre-2003-ecot0314343d)
