@@ -1,9 +1,23 @@
 # Article Annexe III
 
-Caractéristiques des préparations visées au premier alinéa de l'article 26 ci-dessus :
+Caractéristiques des préparations visées au premier alinéa de l'article 26 :
 
-a) Préparations liquides ayant une viscosité cinématique mesurée par viscosimètre rotatif selon la norme ISO 3219 (édition du 15 décembre 1977) inférieure à 7"10-6 m2/sec. à 40° celsius et contenant des hydrocarbures aliphatiques ou aromatiques en concentration totale égale ou supérieure à 10 p. 100.
+a) Préparations présentant un danger en cas d'aspiration (R. 65), classées et étiquetées conformément au point 3.2.3 de l'annexe VI de l'arrêté du 20 avril 1994 modifié.
 
-b) Préparations contenant du méthanol dans une concentration supérieure ou égale à 3 p. 100.
+b) Au moins une des substances énumérées ci-après est présente en concentration égale ou supérieure à la concentration limite individuelle fixée.
 
-c) Préparations contenant du dichlorométhane dans une concentration supérieure ou égale à 1 p. 100.
+IDENTIFICATION DE LA SUBSTANCE :
+
+N° cas : 67-56-1
+
+N° Einecs : 2006596
+
+LIMITE de concentration : supérieur ou égal à 3 % pour le Méthanol
+
+IDENTIFICATION DE LA SUBSTANCE :
+
+N° cas : 75-09-2
+
+N° Einecs : 2008389
+
+LIMITE de concentration : supérieur ou égal à 1 % pour le Dichlorométhane

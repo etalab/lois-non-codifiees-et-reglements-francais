@@ -4,4 +4,4 @@ Quelle que soit leur capacité, les récipients contenant des préparations trè
 
 Les récipients contenant des préparations très toxiques, toxiques, corrosives, nocives, extrêmement inflammables ou facilement inflammables, destinés à un usage non exclusivement professionnel, doivent porter une indication de danger détectable au toucher conforme aux prescriptions des normes françaises en vigueur ou de normes européennes équivalentes.
 
-Les dispositions des deux alinéas ci-dessus sont également applicables aux préparations offertes ou vendues au public sous forme d'aérosols, à l'exception des préparations définies au point a de l'annexe III du présent arrêté.
+Les dispositions des deux alinéas ci-dessus sont également applicables aux préparations offertes ou vendues au public sous forme d'aérosols ou dans des récipients munis d'un dispositif scellé de pulvérisation, à l'exception des préparations définies au point a de l'annexe III du présent arrêté.
