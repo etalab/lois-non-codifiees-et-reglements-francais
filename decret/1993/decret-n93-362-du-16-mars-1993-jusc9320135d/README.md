@@ -2,3 +2,4 @@
 
 - [Titre Ier : Des sociétés d'exercice libéral d'avoués.](titre-ier)
 - [Titre II : Des sociétés en participation d'avoués.](titre-ii)
+- [Titre III : Des sociétés de participations financières de profession libérale d'avoûés](titre-iii)
