@@ -23,3 +23,5 @@
 " - un représentant de la commune siège de l'établissement ;
 
 " - le représentant de la collectivité de rattachement. "
+
+" Les membres de la commission permanente autres que les membres de l'équipe de direction de l'établissement et le représentant de la commune siège de l'établissement ainsi que le représentant de la collectivité de rattachement sont élus en leur sein par les membres du conseil d'administration appartenant à leurs catégories respectives. Cette élection est faite, hormis pour les représentants des personnels d'enseignement et d'éducation et pour les représentants des parents d'élèves qui sont élus au scrutin proportionnel au plus fort reste, au scrutin uninominal à un tour. Le représentant de la collectivité de rattachement peut être soit le représentant titulaire, soit le représentant suppléant de celle-ci au conseil d'administration de l'établissement. "

@@ -8,7 +8,7 @@ Les collèges, les lycées, les établissements d'éducation spéciale disposent
 
 " 3° L'organisation du temps scolaire et les modalités de la vie scolaire ;
 
-" 4° La préparation de l'orientation ainsi que de l'insertion sociale et professionnelle des élèves ;
+" 4° La préparation de l'orientation ainsi que l'insertion sociale et professionnelle des élèves ;
 
 " 5° La définition, compte tenu des schémas régionaux, des actions de formation complémentaire et de formation continue destinées aux jeunes et aux adultes ;
 
