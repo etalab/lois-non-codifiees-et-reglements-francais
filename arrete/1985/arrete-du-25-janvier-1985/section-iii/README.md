@@ -1,13 +1,8 @@
-# Décret n°78-305 du 15 mars 1978 instituant des commissions régionales et une commission nationale des conseils juridiques
+# Section III : Désignation des représentants des praticiens hospitaliers et des personnels enseignants et hospitaliers titulaires.
 
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
-- [Article 6-1](article-6-1.md)
-- [Article 6-2](article-6-2.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
@@ -16,12 +11,8 @@
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
 - [Article 14](article-14.md)
-- [Article 14-1](article-14-1.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
 - [Article 17](article-17.md)
 - [Article 18](article-18.md)
 - [Article 19](article-19.md)
-- [Article 20](article-20.md)
-- [Article 21](article-21.md)
-- [Article 22](article-22.md)

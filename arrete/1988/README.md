@@ -233,6 +233,7 @@
 - [Arrêté du 14 janvier 1987 (ASET8703032A)](arrete-du-14-janvier-1987-aset8703032a)
 - [Arrêté du 14 janvier 1988 (PTTT8800041A)](arrete-du-14-janvier-1988-pttt8800041a)
 - [Arrêté du 14 janvier 1988 (RESY8800110A)](arrete-du-14-janvier-1988-resy8800110a)
+- [Arrêté du 14 juin 1988 (ASEH8800851A)](arrete-du-14-juin-1988-aseh8800851a)
 - [Arrêté du 14 mars 1986](arrete-du-14-mars-1986)
 - [Arrêté du 14 mars 1988 (AGRB8800564A)](arrete-du-14-mars-1988-agrb8800564a)
 - [Arrêté du 14 mars 1988 (ASEE8803241A)](arrete-du-14-mars-1988-asee8803241a)

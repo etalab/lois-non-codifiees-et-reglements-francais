@@ -1,6 +1,6 @@
 # Article 1
 
-Le tirage au sort des représentants des praticiens hospitaliers à la commission statutaire régionale est organisé sous la responsabilité du directeur régional des affaires sanitaires et sociales.
+Le tirage au sort [*mode de désignation*] des représentants des praticiens hospitaliers à la commission statutaire régionale est organisé sous la responsabilité du directeur régional des affaires sanitaires et sociales [*autorité compétente*].
 
 Toutefois, sont compétents pour l'organisation du tirage au sort :
 
