@@ -21,6 +21,7 @@
 - [Décret n°81-1012 du 12 novembre 1981](decret-n81-1012-du-12-novembre-1981)
 - [Décret n°81-241 du 12 mars 1981](decret-n81-241-du-12-mars-1981)
 - [Décret n°81-509 du 12 mai 1981](decret-n81-509-du-12-mai-1981)
+- [Décret n°81-536 du 12 mai 1981](decret-n81-536-du-12-mai-1981)
 - [Décret n°81-1017 du 13 novembre 1981](decret-n81-1017-du-13-novembre-1981)
 - [Décret n°81-593 du 13 mai 1981](decret-n81-593-du-13-mai-1981)
 - [Décret n°80-808 du 14 octobre 1980](decret-n80-808-du-14-octobre-1980)
