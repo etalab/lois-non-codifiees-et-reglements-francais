@@ -77,6 +77,7 @@
 - [Décret n°2002-62 du 14 janvier 2002 (FPPA0100151D)](decret-n2002-62-du-14-janvier-2002-fppa0100151d)
 - [Décret n°2002-63 du 14 janvier 2002 (FPPA0100153D)](decret-n2002-63-du-14-janvier-2002-fppa0100153d)
 - [Décret n°2002-67 du 14 janvier 2002 (MENF0102792D)](decret-n2002-67-du-14-janvier-2002-menf0102792d)
+- [Décret n°98-923 du 14 octobre 1998 (EQUX9800133D)](decret-n98-923-du-14-octobre-1998-equx9800133d)
 - [Décret n°2002-70 du 15 janvier 2002 (RECF0100350D)](decret-n2002-70-du-15-janvier-2002-recf0100350d)
 - [Décret n°2002-79 du 15 janvier 2002 (MENF0102684D)](decret-n2002-79-du-15-janvier-2002-menf0102684d)
 - [Décret n°2002-532 du 16 avril 2002 (EQUP0200349D)](decret-n2002-532-du-16-avril-2002-equp0200349d)
