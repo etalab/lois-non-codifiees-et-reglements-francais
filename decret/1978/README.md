@@ -23,4 +23,5 @@
 - [Décret n°78-415 du 23 mars 1978](decret-n78-415-du-23-mars-1978)
 - [Décret n°78-417 du 23 mars 1978](decret-n78-417-du-23-mars-1978)
 - [Décret n°78-421 du 24 mars 1978](decret-n78-421-du-24-mars-1978)
+- [Décret n°78-432 du 24 mars 1978](decret-n78-432-du-24-mars-1978)
 - [Décret n°77-1549 du 31 décembre 1977](decret-n77-1549-du-31-decembre-1977)

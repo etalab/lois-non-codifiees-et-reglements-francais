@@ -1,5 +1,6 @@
 # 1960
 
+- [Arrêté du 1 février 1960](arrete-du-1-fevrier-1960)
 - [Arrêté du 4 janvier 1960](arrete-du-4-janvier-1960)
 - [Arrêté du 5 décembre 1961](arrete-du-5-decembre-1961)
 - [Arrêté du 5 janvier 1961](arrete-du-5-janvier-1961)
