@@ -1,0 +1,3 @@
+# Article 19
+
+Le chef du service de la formation aéronautique et du contrôle technique, les directeurs de l'aviation civile en métropole, le directeur régional de l'aviation civile pour les trois régions de Guadeloupe, de Guyane et de Martinique et les directeurs ou chefs des services de l'aviation civile dans les départements de la Réunion, en Nouvelle-Calédonie, dans les territoires d'outre-mer, la collectivité territoriale de Saint-Pierre-et-Miquelon et la collectivité départementale de Mayotte sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

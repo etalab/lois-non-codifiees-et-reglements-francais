@@ -104,9 +104,9 @@ o) Les viandes présentant une odeur sexuelle prononcée.
 
 p) Les matériels à risque spécifiés suivants :
 
-i) Le crâne, y compris l'encéphale et les yeux, et la moelle épinière des bovins âgés de douze mois et plus ;
+i) Le crâne, y compris l'encéphale et les yeux, la colonne vertébrale, y compris les ganglions rachidiens, mais à l'exclusion des vertèbres caudales et des apophyses transverses des vertèbres lombaires, et la moelle épinière des bovins âgés de douze mois et plus ;
 
-- la rate des bovins, quel que soit leur âge ;
+- la rate des bovins quel que soit leur âge ;
 
 - la tête entière, comprenant les yeux et les amygdales, mais à l'exclusion de l'encéphale, de la langue et des masséters, des ovins et caprins âgés de moins de six mois ;
 
@@ -136,6 +136,4 @@ s) Les viandes et tous les sous-produits, y compris le cuir, encore présents à
 
 t) Les viandes et tous les sous-produits, à l'exclusion du cuir, issus du bovin abattu avant et des deux bovins abattus après un bovin ayant présenté un résultat non négatif à un test de dépistage de l'encéphalopathie spongiforme bovine, en l'absence de réalisation du retrait de la moelle épinière préalablement à la fente longitudinale de la carcasse en deux demis, conformément aux dispositions de l'avant-dernier alinéa de l'article 15 du présent arrêté.
 
-u) La colonne vertébrale des bovins âgés de douze mois et plus, y compris les ganglions rachidiens, mais à l'exclusion des vertèbres caudales et des apophyses transverses des vertèbres lombaires.
-
-Les viandes et tous les sous-produits des animaux retirés de la consommation humaine pour des motifs visés au point a, viii et ix, les matériels à risque spécifiés visés au point p du présent article, les viandes et les sous-produits visés aux points q, r, s, t et u du présent article ainsi que les viandes retirées de la consommation du fait de l'état sanitaire de l'animal dont elles proviennent ou du fait de la présence de résidus de substances susceptibles de mettre en danger la santé des personnes ou des animaux sont badigeonnés à l'aide d'une teinture avant leur enlèvement. Ils sont détruits par incinération ou coincinération, ou, pour autant que la teinture soit détectable après traitement, traités puis incinérés ou utilisés comme combustible.
+Les viandes et tous les sous-produits des animaux retirés de la consommation humaine pour des motifs visés au point a, viii et ix, les matériels à risque spécifiés visés au point p du présent article, les viandes et les sous-produits visés aux points q, r, s et t du présent article ainsi que les viandes retirées de la consommation du fait de l'état sanitaire de l'animal dont elles proviennent ou du fait de la présence de résidus de substances susceptibles de mettre en danger la santé des personnes ou des animaux sont badigeonnés à l'aide d'une teinture avant leur enlèvement. Ils sont détruits par incinération ou coincinération, ou, pour autant que la teinture soit détectable après traitement, traités puis incinérés ou utilisés comme combustible.

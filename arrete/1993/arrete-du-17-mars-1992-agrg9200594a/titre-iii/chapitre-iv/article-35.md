@@ -10,7 +10,7 @@ Au cours de leur transport, les viandes fraîches provenant d'un abattoir agré�
 
 - comporte pour les viandes issues d'animaux de l'espèce bovine âgés de moins de douze mois et contenant de l'os vertébral la mention suivante : "Viandes issues de bovins âgés de moins de douze mois non soumis à l'obligation de retrait de la colonne vertébrale" ;
 
-- comporte pour les viandes issues d'animaux des espèces ovine et caprine âgés de moins de six mois et renfermant de la moelle épinière la mention suivante : "Viandes issues d'animaux âgés de moins de six mois non soumis à l'obligation de retrait de la moelle épinière" ;
+- à compter du 1er juillet 2002, comporte pour les viandes issues d'animaux des espèces ovine et caprine âgés de moins de six mois et renfermant de la moelle épinière, la mention suivante : "Viandes issues d'animaux âgés de moins de six mois non soumis à l'obligation de retrait de la moelle épinière" ;
 
 - pour les viandes destinées à la Finlande et à la Suède, comporte une des mentions suivantes :
 
