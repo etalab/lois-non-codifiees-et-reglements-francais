@@ -41,6 +41,7 @@
 - [Décret n°83-591 du 5 juillet 1983](decret-n83-591-du-5-juillet-1983)
 - [Décret du 5 mai 1982](decret-du-5-mai-1982)
 - [Décret n°82-1036 du 6 décembre 1982](decret-n82-1036-du-6-decembre-1982)
+- [Décret n°82-1038 du 6 décembre 1982](decret-n82-1038-du-6-decembre-1982)
 - [Décret n°82-312 du 6 avril 1982](decret-n82-312-du-6-avril-1982)
 - [Décret n°82-321 du 6 avril 1982](decret-n82-321-du-6-avril-1982)
 - [Décret n°82-324 du 6 avril 1982](decret-n82-324-du-6-avril-1982)
