@@ -1,4 +1,4 @@
-# Loi n°83-581 du 5 juillet 1983 sur la sauvegarde de la vie humaine en mer, l'habitabilité à bord des navires et la prévention de la pollution (1)
+# Décret n°90-607 du 12 juillet 1990 pris en application de l'article 121 de la loi de finances pour 1990 et relatif au crédit d'impôt pour accroissement de la durée d'utilisation des équipements et réduction de la durée hebdomadaire du travail
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,10 +7,9 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
-- [Article 7-1](article-7-1.md)
 - [Article 8](article-8.md)
 - [Article 9](article-9.md)
 - [Article 10](article-10.md)
-- [Article 11](article-11.md)
 - [Article 12](article-12.md)
 - [Article 13](article-13.md)
+- [Article 14](article-14.md)

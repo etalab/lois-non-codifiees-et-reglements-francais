@@ -8,4 +8,10 @@ a) Les espèces C. bullatus, C. salicifolius, C. watererii, C. congestus et tous
 
 b) Le cultivar Coral Beauty de l'espèce C. dammeri.
 
-Pyracantha (Pyracantha Roehm) : l'espèce atalantoïdes (gibsii).    Poirier (Pyrus L.) : Les cultivars Durondeau et Passe Crassane.
+Pyracantha atalantioïdes (Berlioz, Debussy, Gibsii).
+
+Pyracantha angustifolia.
+
+Pyracantha x hybride Venrouge.
+
+Poirier (Pyrus L.) : Les cultivars Durondeau et Passe Crassane.
