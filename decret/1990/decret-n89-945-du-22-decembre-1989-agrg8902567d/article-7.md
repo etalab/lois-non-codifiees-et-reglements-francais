@@ -1,3 +1,0 @@
-# Article 7
-
-En cas de reconstruction de l'abattoir ou de modernisation suffisamment importante pour justifier de la réduction ou de l'absence de dépenses de gros entretien pendant la période définie ci-dessous, la collectivité peut, pendant la durée des travaux et pendant les deux années civiles pleines suivant la date de mise en service des nouvelles installations, affecter la totalité du produit du taux local de la taxe d'usage aux charges d'annuités des emprunts agréés. Dans ce cas, le plafond particulier se calcule en tenant compte des dépenses de gros entretien effectivement réalisées, même si elles n'atteignent pas le niveau forfaitaire minimum.
