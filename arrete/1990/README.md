@@ -590,7 +590,6 @@
 - [Arrêté du 20 mars 1990 (AGRG9000531A)](arrete-du-20-mars-1990-agrg9000531a)
 - [Arrêté du 20 mars 1990 (AGRP9000415A)](arrete-du-20-mars-1990-agrp9000415a)
 - [Arrêté du 20 mars 1990 (ECOT9013274A)](arrete-du-20-mars-1990-ecot9013274a)
-- [Arrêté du 20 mars 1990 (SPSP9000675A)](arrete-du-20-mars-1990-spsp9000675a)
 - [Arrêté du 20 mars 1990 (SPSP9000712A)](arrete-du-20-mars-1990-spsp9000712a)
 - [Arrêté du 20 mars 1990 (SPSP9000933A)](arrete-du-20-mars-1990-spsp9000933a)
 - [Arrêté du 20 mars 1990 (SPSP9001042A)](arrete-du-20-mars-1990-spsp9001042a)
