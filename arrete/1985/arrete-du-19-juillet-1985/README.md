@@ -1,4 +1,4 @@
-# Arrêté du 19 juillet 1985 relatif à la méthode de dosage du benzo (a) pyrène dans le café
+# Arrêté du 19 juillet 1985 portant octroi de la garantie de l'Etat
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

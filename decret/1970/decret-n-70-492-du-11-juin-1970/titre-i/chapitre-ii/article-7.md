@@ -1,0 +1,3 @@
+# Article 7
+
+Le commissaire de la République du département intéressé, ou, le cas échéant, le commissaire de la République coordonnateur, après avoir recueilli les observations du pétitionnaire sur le rapport du commissaire enquêteur, transmet avec son avis les pièces de l'instruction administrative et de l'enquête publique au ministre chargé de l'électricité. La déclaration d'utilité publique est prononcée par ce ministre ou, lorsqu'il est fait application des dispositions des articles L. 123-8 et R. 123-35-3 du code de l'urbanisme, par arrêté conjoint du ministre chargé de l'électricité et du ministre chargé de l'urbanisme.

@@ -1,0 +1,3 @@
+# Article 3
+
+Le commissaire de la République procède à l'instruction. Il sollicite l'avis des services civils et militaires intéressés, des maires et, le cas échéant, pour les ouvrages de distribution publique, de l'autorité concédante. Il leur indique le délai qui leur est imparti pour se prononcer. Ce délai est d'un mois pour les ouvrages de distribution publique et pour les ouvrages d'électricité d'une tension inférieure à 63 kV, et de deux mois pour les autres ouvrages. Toutefois, dans ce dernier cas, le délai peut, en cas d'urgence, être réduit, sans pouvoir être inférieur à un mois. En l'absence de réponse dans le délai imparti, l'avis est réputé favorable.

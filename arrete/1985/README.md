@@ -52,6 +52,7 @@
 - [Arrêté du 8 janvier 1985](arrete-du-8-janvier-1985)
 - [Arrêté du 8 juillet 1985](arrete-du-8-juillet-1985)
 - [Arrêté du 8 mars 1985](arrete-du-8-mars-1985)
+- [Arrêté du 8 octobre 1985](arrete-du-8-octobre-1985)
 - [Arrêté du 9 août 1985](arrete-du-9-aout-1985)
 - [Arrêté du 9 avril 1985](arrete-du-9-avril-1985)
 - [Arrêté du 9 juillet 1985](arrete-du-9-juillet-1985)
