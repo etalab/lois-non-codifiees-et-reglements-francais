@@ -235,7 +235,6 @@
 - [Décret n°2000-1233 du 15 décembre 2000 (PRMX0004541D)](decret-n2000-1233-du-15-decembre-2000-prmx0004541d)
 - [Décret n°2000-1246 du 15 décembre 2000 (DEFP0002341D)](decret-n2000-1246-du-15-decembre-2000-defp0002341d)
 - [Décret n°2000-250 du 15 mars 2000 (MENS0000215D)](decret-n2000-250-du-15-mars-2000-mens0000215d)
-- [Décret n°2000-252 du 15 mars 2000 (INTC0000075D)](decret-n2000-252-du-15-mars-2000-intc0000075d)
 - [Décret n°2000-520 du 15 juin 2000 (ECOI0000075D)](decret-n2000-520-du-15-juin-2000-ecoi0000075d)
 - [Décret n°2000-521 du 15 juin 2000 (ECOU9900003D)](decret-n2000-521-du-15-juin-2000-ecou9900003d)
 - [Décret n°2000-523 du 15 juin 2000 (AGRP9901483D)](decret-n2000-523-du-15-juin-2000-agrp9901483d)
