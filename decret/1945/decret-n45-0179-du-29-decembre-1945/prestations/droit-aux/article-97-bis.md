@@ -1,7 +1,0 @@
-# Article 97 bis
-
-1. Les caisses d'assurance maladie pourront procéder au remboursement forfaitaire des soins dispensés hors de France [*à l'étranger*] aux assurés sociaux et aux membres de leur famille qui sont tombés malades inopinément, sans que celui-ci puisse excéder le montant du remboursement qui aurait été alloué si les intéressés avaient reçu les soins en France.
-
-2. Lorsque les malades assurés sociaux ou ayants droit d'assurés sociaux ne pourront recevoir en France les soins appropriés à leur état, les conventions intervenant entre les organismes qualifiés français d'une part, et certains établissements de soins à l'étranger d'autre part, pourront après autorisation conjointe du ministre du Travail et de la Sécurité sociale et du ministre de la Santé publique et de la Population [*autorités compétentes*], prévoir les conditions de séjour des intéressés dans lesdits établissements, ainsi que les modalités de remboursement des soins dispensés.
-
-3. Indépendamment des cas prévus au paragraphe 2 ci-dessus, les caisses d'assurance maladie pourront, à titre exceptionnel, et après avis favorable du contrôle médical [*condition préalable*] procéder au remboursement forfaitaire des soins dispensés en dehors de la France à un assuré social ou ayant droit d'assuré social, lorsque celui-ci aura établi qu'il ne pouvait recevoir, sur le territoire français les soins appropriés à son état.

@@ -1,7 +1,0 @@
-# Article 88
-
-Si la victime est inscrite à l'un des centres [*du ministère des anciens combattants, centres reconnus par le ministre du travail et de la sécurité sociale*] visés au paragraphe b de l'article 77 ci-dessus et a opté pour l'appareillage par le centre, celui-ci fait l'avance de tous les frais d'appareillage en remboursant notamment au mutilé ses frais de déplacement [*transport*] lors de chacune de ses visites au centre. Il en recouvre le montant en adressant à la caisse primaire d'assurance maladie une note de frais accompagnée de pièces justificatives. Il en est de même si la victime a opté pour l'appareillage par un fournisseur agréé de son choix. Le centre peut demander, dès la commande de l'appareil, à la caisse primaire, le versement d'une provision de frais.
-
-Le remboursement des frais d'appareillage par la caisse de sécurité sociale au centre d'appareillage ne peut être effectué qu'au moment où le mutilé a pu apprécier la convenance de l'appareil dans les conditions déterminées par l'article 86 ci-dessus. Les conventions prévues à l'article 87-1° fixent les modalités de ce remboursement.
-
-Si la victime est inscrite à l'un des centres [*crées par les caisses d'assurances maladies*] visés au paragraphe c de l'article 77 ci-dessus et a opté pour l'appareillage par ce centre, la caisse primaire d'assurance maladie dont dépend ce centre rembourse à la victime les frais de déplacement.

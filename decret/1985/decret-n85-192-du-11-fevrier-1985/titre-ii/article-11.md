@@ -1,0 +1,3 @@
+# Article 11
+
+Le comité d'action sanitaire et sociale prévu à l'article 1013 du code rural est composé [*composition*] au minimum de sept [*nombre*] membres élus [*élections*] par les administrateurs représentant les salariés et de sept membres élus par les administrateurs représentant les non-salariés. Il élit son président pour un an [*durée*]. La présidence est assurée alternativement par un non-salarié et par un salarié. Après chaque renouvellement général du conseil d'administration, la catégorie d'administrateurs parmi lesquels sera élu le nouveau président est désignée par tirage au sort.

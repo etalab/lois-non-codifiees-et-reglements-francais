@@ -1,7 +1,0 @@
-# Article 10
-
-La cotisation visée à l'article précédent est due à compter de la date d'effet de l'immatriculation ; elle est précomptée sur les arrérages des pensions servies aux intéressés qui sont payés pour le net.
-
-En fin de trimestre, le ministre de l'économie et des finances verse à la Caisse nationale de sécurité sociale ou à la Caisse nationale militaire de sécurité sociale, suivant le cas, une provision à valoir sur le produit de la cotisation des intéressés et sur la contribution de l'Etat prévue à l'article 5 de la loi du 29 juillet 1950. Cette provision est fixée au quart du montant des charges supportées par lesdites caisses pour l'application de la loi du 29 juillet 1950, telles que lesdites charges ressortent du dernier compte connu ; elle est ordonnancée sur les crédits ouverts au budget des finances pour le paiement des prestations assurées par l'Etat au titre du régime de sécurité sociale des pensionnés (loi n° 50-879 du 29 juillet 1950).
-
-Pour chaque année [*périodicité*], il est procédé à la comparaison entre le montant des provisions versées aux caisses nationales et le montant des charges supportées par lesdites caisses au titre de la loi du 29 juillet 1950. Si cette comparaison fait ressortir un excédent de versement, cet excédent est précompté sur la première provision trimestrielle à verser ; dans le cas contraire, il est procédé à un versement complémentaire au profit de la caisse intéressée.

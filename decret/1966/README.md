@@ -9,7 +9,6 @@
 - [Décret n°66-137 du 7 mars 1966](decret-n66-137-du-7-mars-1966)
 - [Décret n°66-20 du 7 janvier 1966](decret-n66-20-du-7-janvier-1966)
 - [Décret n°66-34 du 7 janvier 1966](decret-n66-34-du-7-janvier-1966)
-- [Décret n°66-35 du 7 janvier 1966](decret-n66-35-du-7-janvier-1966)
 - [Décret n°66-912 du 7 décembre 1966](decret-n66-912-du-7-decembre-1966)
 - [Décret n°66-913 du 7 décembre 1966](decret-n66-913-du-7-decembre-1966)
 - [Décret n°66-911 du 9 décembre 1966](decret-n66-911-du-9-decembre-1966)

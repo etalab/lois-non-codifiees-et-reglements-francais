@@ -1,3 +1,0 @@
-# Article 9
-
-Lorsque la situation financière du compte de gestion administrative des caisses régionales d'assurance maladie justifie, en fin d'exercice, l'application des dispositions fixées par l'article 20 du décret n° 67-1230 du 22 décembre 1967 susvisé, la décision de la caisse nationale de l'assurance maladie est prise en accord avec la caisse nationale d'assurance vieillesse, en ce qui concerne la part des dépenses qui incombe au fonds national de gestion administrative de la caisse nationale d'assurance vieillesse. En cas de désaccord entre les deux caisses nationales, la décision est prise par le ministre des affaires sociales [*autorité compétente*].

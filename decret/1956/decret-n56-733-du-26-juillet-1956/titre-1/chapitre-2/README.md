@@ -1,3 +1,0 @@
-# CHAPITRE 2 : LIQUIDATION
-
-- [APPRECIATION DES RESSOURCES](appreciation-des-ressources)

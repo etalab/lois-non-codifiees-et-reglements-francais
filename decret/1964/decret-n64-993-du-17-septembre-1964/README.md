@@ -1,6 +1,5 @@
 # Décret n°64-993 du 17 septembre 1964 PORTANT REGLEMENT D'ADMINISTRATION PUBLIQUE RELATIF AU REGIME D'ASSURANCE VIEILLESSE DES TRAVAILLEURS NON-SALARIES DES PROFESSIONS ARTISANALES.
 
-- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 2-1](article-2-1.md)
 - [Article 3](article-3.md)

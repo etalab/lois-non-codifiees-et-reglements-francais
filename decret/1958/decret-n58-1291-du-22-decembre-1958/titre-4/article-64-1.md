@@ -1,5 +1,0 @@
-# Article 64-1
-
-Les assesseurs désignés à la date d'entrée en vigueur du présent décret pour participer à la constitution des commissions de première instance restent en fonctions jusqu'à l'expiration de la période de trois ans pour laquelle ils ont été nommés [*durée du mandat*]. Toutefois, il peut être procédé à des désignations pour remplacer les assesseurs démissionnaires et assurer la formation de la commission de première instance prévue à l'article 7, 2°, du présent décret. Dans ce cas, les désignations sont effectuées conformément aux dispositions de l'article 8 et des textes pris pour l'application de cet article.
-
-Les désignations des membres titulaires et suppléants des commissions de recours gracieux des organismes de sécurité sociale et de mutualité sociale agricole, effectuées pour l'année en cours à la date de mise en vigueur du présent décret, n'ont pas à être renouvelées. Toute nouvelle désignation intervenant postérieurement à cette date est prononcée conformément aux dispositions de l'article 2 et des textes pris pour l'application de cet article.

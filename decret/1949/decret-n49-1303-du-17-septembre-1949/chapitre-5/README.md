@@ -1,4 +1,0 @@
-# CHAPITRE 5 : DISPOSITIONS DIVERSES ET DISPOSITIONS TRANSITOIRES.
-
-- [Article 25](article-25.md)
-- [Article 26](article-26.md)

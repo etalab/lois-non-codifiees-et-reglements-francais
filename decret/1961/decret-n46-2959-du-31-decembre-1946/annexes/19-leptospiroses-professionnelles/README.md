@@ -1,3 +1,0 @@
-# 19. LEPTOSPIROSES PROFESSIONNELLES
-
-- [Article TABLEAU 19](article-tableau-19.md)

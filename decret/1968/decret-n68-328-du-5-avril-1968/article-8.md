@@ -1,3 +1,0 @@
-# Article 8
-
-Si à la fin d'un exercice le compte de gestion administrative d'une caisse régionale d'assurance maladie présente un excédent, ce dernier est affecté, dans les conditions fixées par l'arrêté prévu à l'article 19 du décret n° 67-1230 du 22 décembre 1967 susvisé, pour partie au compte d'action sanitaire et sociale prévu à l'article 23 de ce décret, pour partie au compte d'action sanitaire et sociale en faveur des personnes âgées tenu par la caisse régionale intéressée et pour partie à chacun des fonds nationaux de gestion administrative mentionnés respectivement aux articles 1er et 41 dudit décret.

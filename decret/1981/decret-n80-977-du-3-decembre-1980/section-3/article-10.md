@@ -1,3 +1,0 @@
-# Article 10
-
-Lorsque soit l'allocataire, soit son conjoint ou concubin relève du régime de protection sociale des personnes non-salariées des professions agricoles et remplit les conditions [*de nationalité et de ressources*] posées aux articles 1er et 2, il a droit au supplément forfaitaire de revenu familial défini à l'article 9 s'il exerce son activité sur une exploitation ou dans une entreprise dont la superficie [*maximum*] ou son équivalence n'excède pas 70 % de la surface minimum d'installation définie à l'article 188-4 du Code rural. Cette superficie ou son équivalence est constatée au 1er janvier précédant le début de la période au cours de laquelle le droit est ouvert ou maintenu.

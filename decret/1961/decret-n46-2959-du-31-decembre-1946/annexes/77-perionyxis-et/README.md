@@ -1,3 +1,0 @@
-# 77. PERIONYXIS ET ONYXIS D'ORIGINE PROFESSIONNELLE.
-
-- [Article TABLEAU 77](article-tableau-77.md)

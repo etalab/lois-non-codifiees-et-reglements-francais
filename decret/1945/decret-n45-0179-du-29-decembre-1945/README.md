@@ -4,8 +4,5 @@
 - [TITRE 3 : ASSURANCE VOLONTAIRE](titre-3)
 - [ASSURANCE VOLONTAIRE](assurance-volontaire)
 - [ASSURANCES VOLONTAIRES](assurances-volontaires)
-- [DISPOSITIONS SPECIALES AUX BENEFICIAIRES DES DIVERSES LEGISLATIONS DE PREVOYANCE ET D'ASSISTANCE](dispositions-speciales-aux)
-- [DISPOSITIONS DIVERSES](dispositions-diverses)
 - [DISPOSITIONS TRANSITOIRES](dispositions-transitoires)
-- [IMMATRICULATION.](immatriculation)
 - [PRESTATIONS](prestations)

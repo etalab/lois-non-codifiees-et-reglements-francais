@@ -1,3 +1,0 @@
-# 59. INTOXICATIONS PROFESSIONNELLES PAR L'HEXANE
-
-- [Article TABLEAU 59](article-tableau-59.md)

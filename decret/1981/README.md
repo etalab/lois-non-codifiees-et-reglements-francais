@@ -2,7 +2,6 @@
 
 - [Décret n°81-104 du 2 février 1981](decret-n81-104-du-2-fevrier-1981)
 - [Décret n°81-898 du 2 octobre 1981](decret-n81-898-du-2-octobre-1981)
-- [Décret n°80-977 du 3 décembre 1980](decret-n80-977-du-3-decembre-1980)
 - [Décret n°81-1067 du 3 décembre 1981](decret-n81-1067-du-3-decembre-1981)
 - [Décret n°81-1073 du 4 décembre 1981](decret-n81-1073-du-4-decembre-1981)
 - [Décret n°81-991 du 4 novembre 1981](decret-n81-991-du-4-novembre-1981)
@@ -31,6 +30,7 @@
 - [Décret n°81-257 du 18 mars 1981](decret-n81-257-du-18-mars-1981)
 - [Décret n°81-37 du 20 janvier 1981](decret-n81-37-du-20-janvier-1981)
 - [Décret n°81-42 du 21 janvier 1981](decret-n81-42-du-21-janvier-1981)
+- [Décret n°81-45 du 21 janvier 1981](decret-n81-45-du-21-janvier-1981)
 - [Décret n°81-1142 du 23 décembre 1981](decret-n81-1142-du-23-decembre-1981)
 - [Décret n°81-1046 du 24 novembre 1981](decret-n81-1046-du-24-novembre-1981)
 - [Décret n°81-1055 du 25 novembre 1981](decret-n81-1055-du-25-novembre-1981)
@@ -38,7 +38,6 @@
 - [Décret n°81-1053 du 27 novembre 1981](decret-n81-1053-du-27-novembre-1981)
 - [Décret n°81-61 du 27 janvier 1981](decret-n81-61-du-27-janvier-1981)
 - [Décret n°81-421 du 29 avril 1981](decret-n81-421-du-29-avril-1981)
-- [Décret n°80-1143 du 30 décembre 1980](decret-n80-1143-du-30-decembre-1980)
 - [Décret n°81-1165 du 30 décembre 1981](decret-n81-1165-du-30-decembre-1981)
 - [Décret n°81-1173 du 30 décembre 1981](decret-n81-1173-du-30-decembre-1981)
 - [Décret n°81-1174 du 30 décembre 1981](decret-n81-1174-du-30-decembre-1981)

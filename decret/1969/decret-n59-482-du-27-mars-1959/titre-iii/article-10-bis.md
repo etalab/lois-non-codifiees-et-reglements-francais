@@ -1,3 +1,0 @@
-# Article 10 bis
-
-Pour l'application des dispositions de l'article 1er, 4° bis, du présent décret, le centre de sécurité sociale des travailleurs migrants est doté d'un fonds uniquement destiné à des opérations de trésorerie courante et constitué par une contribution des divers régimes de sécurité sociale en fonction de l'intérêt que chacun d'eux a dans les opérations visées audit article 1er, 4° bis. Un arrêté concerté des ministres chargé des affaires sociales, de l'agriculture, des finances et des affaires économiques, de l'industrie et du ministre chargé de l'Algérie fixe le montant de ce fonds et les modalités de sa répartition.

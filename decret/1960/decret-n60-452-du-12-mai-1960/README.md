@@ -6,4 +6,3 @@
 - [DES REGIMES DE SECURITE SOCIALE](des-regimes-de-securite-sociale)
 - [DISPOSITIONS DIVERSES](dispositions-diverses)
 - [DISPOSITIONS INTERESSANT LE REGIME GENERAL](dispositions-interessant-le-regime-general)
-- [DU CONTROLE ADMINISTRATIF](du-controle-administratif)

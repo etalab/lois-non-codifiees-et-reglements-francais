@@ -19,7 +19,7 @@
 - [Décret n°74-737 du 12 août 1974](decret-n74-737-du-12-aout-1974)
 - [Décret n°75-1241 du 12 décembre 1975](decret-n75-1241-du-12-decembre-1975)
 - [Décret n°75-150 du 13 mars 1975](decret-n75-150-du-13-mars-1975)
-- [Décret n°75-779 du 13 août 1975](decret-n75-779-du-13-aout-1975)
+- [Décret n°75-936 du 13 octobre 1975](decret-n75-936-du-13-octobre-1975)
 - [Décret n°75-354 du 13 mai 1975](decret-n75-354-du-13-mai-1975)
 - [Décret n°73-314 du 14 mars 1973](decret-n73-314-du-14-mars-1973)
 - [Décret n°75-1166 du 15 décembre 1975](decret-n75-1166-du-15-decembre-1975)

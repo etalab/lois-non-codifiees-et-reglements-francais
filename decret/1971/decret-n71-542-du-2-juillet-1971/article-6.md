@@ -1,5 +1,0 @@
-# Article 6
-
-En ce qui concerne les prestations de l'assurance maternité, la charge en incombe, sous réserve de conditions d'ouverture des droits, au régime d'affiliation à la date de la première constatation médicale de la grossesse [*point de départ*]. Pour la détermination de la période d'immatriculation exigée avant la date présumée de l'accouchement, il est tenu compte des périodes d'affiliation successives aux divers régimes.
-
-Pour l'ouverture du droit aux prestations en nature de l'assurance maternité de l'assuré qui cesse d'appartenir au régime d'assurance maladie, maternité, décès prévu au livre VI, titre VI, du Code de la sécurité sociale, et qui, sans interruption, relève soit du régime [*général*] prévu au livre III du Code de la sécurité sociale, soit du régime [*mutualité sociale agricole*] prévu au livre VII, titre II, chapitre 2 du Code rural, chaque journée d'affiliation au régime des praticiens et auxiliaires médicaux conventionnés est considérée comme équivalant à six heures de travail salarié.

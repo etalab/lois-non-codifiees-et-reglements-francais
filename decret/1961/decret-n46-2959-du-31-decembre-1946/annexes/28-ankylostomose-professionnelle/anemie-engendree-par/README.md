@@ -1,3 +1,0 @@
-# ANEMIE ENGENDREE PAR L'ANKYLOSTOMOSE DUODENALE
-
-- [Article TABLEAU 28](article-tableau-28.md)

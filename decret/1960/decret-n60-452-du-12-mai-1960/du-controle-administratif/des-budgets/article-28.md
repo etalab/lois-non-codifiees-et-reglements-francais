@@ -1,3 +1,0 @@
-# Article 28
-
-Si les budgets de la gestion administrative, de l'action sanitaire et sociale, de la prévention ou du contrôle médical d'un organisme de sécurité sociale ou des établissements gérés par celui-ci n'ont pas été, selon le cas, votés, arrêtés ou délibérés par le conseil d'administration au 1er janvier de l'année à laquelle ils se rapportent [*date limite*], le ministre chargé du contrôle administratif ou son représentant territorial [*autorités compétentes*] peut établir d'office lesdits budgets en apportant, le cas échéant, les modifications nécessaires aux budgets de l'année précédente. Les budgets ainsi établis sont limitatifs.

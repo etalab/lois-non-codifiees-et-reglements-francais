@@ -1,7 +1,0 @@
-# Article 1
-
-Le contrôle médical que les caisses mutuelles régionales doivent assurer en vertu de l'article 11 de la loi susvisée du 12 juillet 1966 porte sur tous les éléments d'ordre médical qui commandent l'attribution et le service des prestations et notamment sur l'appréciation faite par le médecin traitant de l'état de santé et de la capacité de travail des bénéficiaires du régime, sur les moyens thérapeutiques et les appareillages mis en oeuvre, sur les abus en matière de soins et de tarification des honoraires, sur le respect des dispositions de l'article L. 258 du code de la sécurité sociale, de la nomenclature générale des actes professionnels et des conventions liant aux caisses les médecins, les chirurgiens-dentistes, les sages-femmes, les auxiliaires médicaux et les établissements de soins.
-
-Le service du contrôle médical procède en outre à une analyse sur le plan médical de l'activité des établissements entrant dans le champ d'application de l'article L. 279-1 du code de la sécurité sociale et dans lesquels sont admis des bénéficiaires de l'assurance maladie. Cette analyse est destinée à s'assurer que les frais d'hospitalisation sont mis à la charge de l'assurance maladie dans le respect des dispositions législatives et règlementaires qui régissent la couverture de ce risque.
-
-Le service du contrôle médical exerce sa mission dans les conditions définies par le présent décret  et par le décret n° 84-1042 du 28 novembre 1984.

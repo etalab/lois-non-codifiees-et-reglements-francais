@@ -5,7 +5,6 @@
 - [Décret n°71-729 du 1 septembre 1971](decret-n71-729-du-1-septembre-1971)
 - [Décret n°71-833 du 1 octobre 1971](decret-n71-833-du-1-octobre-1971)
 - [Décret du 2 avril 1971](decret-du-2-avril-1971)
-- [Décret n°71-542 du 2 juillet 1971](decret-n71-542-du-2-juillet-1971)
 - [Décret n°71-543 du 2 juillet 1971](decret-n71-543-du-2-juillet-1971)
 - [Décret n°71-544 du 2 juillet 1971](decret-n71-544-du-2-juillet-1971)
 - [Décret n°71-715 du 2 septembre 1971](decret-n71-715-du-2-septembre-1971)

@@ -1,3 +1,0 @@
-# Article 59
-
-Dans le cas visé à l'article 6 [*requérant vivant à l'étranger*] du présent décret, l'organisme ou le service désigné dans les conditions dudit article ou la Caisse des dépôts et consignations sont substitués à l'organisme [*compétent*] ou service débiteur de l'avantage de vieillesse dont l'intéressé est titulaire pour tout ce qui concerne, d'une part, les contestations relatives à l'attribution, au refus d'attribution, à la suspension ou à la révision de l'allocation supplémentaire, à la reconnaissance de l'inaptitude au travail et, d'autre part, les actions prévues aux articles 13 et 14 de la loi du 30 juin 1956 [*C. s. s., art. L. 694 à L. 697, aujourd'hui abrogés par L. n° 73-1128 du 21 décembre 1973*].

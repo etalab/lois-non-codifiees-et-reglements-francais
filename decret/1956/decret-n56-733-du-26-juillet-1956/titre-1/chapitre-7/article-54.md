@@ -1,3 +1,0 @@
-# Article 54
-
-Lorsque le requérant âgé de moins de soixante-cinq ans est titulaire d'un avantage de vieillesse pour la liquidation duquel il n'a pas été nécessaire de faire reconnaître son inaptitude au travail, l'organisme ou service liquidateur détermine si, compte tenu de l'article L. 333 du code de la sécurité sociale [*conditions de l'inaptitude*] et, le cas échéant, de l'article 71 (paragraphe 5) du décret n° 45-179 du 29 décembre 1945, l'intéressé est inapte au travail. L'organisme ou service liquidateur notifie sa décision à l'intéressé. En cas de rejet, la notification est faite par lettre recommandée.

@@ -1,3 +1,0 @@
-# Article 62
-
-Dans tous les cas où les accidents du travail auxquels s'applique la loi du 30 octobre 1946 sont survenus sur le territoire d'un pays de l'Union française ou d'un pays étranger, le délai imparti à l'employeur pour faire la déclaration prévue à l'article 23 de la loi précitée ne commence à courir [*date point de départ*] que du jour où il a été informé de l'accident par lettre recommandée de la victime ou de son représentant. Si l'employeur n'est pas en mesure d'indiquer la nature des blessures, les noms et adresses des témoins de l'accident, il complète sa déclaration dans le plus bref délai possible par une déclaration complémentaire.

@@ -1,4 +1,0 @@
-# DETERMINATION DU SALAIRE DE BASE
-
-- [INDEMNITE JOURNALIERE.](indemnite-journaliere)
-- [RENTES](rentes)

@@ -1,6 +1,0 @@
-# Décret n°70-482 du 5 juin 1970 RELATIF AU CONSEIL D'ADMINISTRATION DE LA CAISSE NATIONALE D'ASSURANCE MALADIE ET MATERNITE DES TRAVAILLEURS NON-SALARIES DES PROFESSIONS NON-AGRICOLES.
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Annexes](annexes)

@@ -1,5 +1,0 @@
-# Article 1
-
-Pour les élèves des établissements, écoles ou classes définis à l'article 2 de la loi du 23 septembre 1948 susvisée qui, au cours de leurs études dans ces établissements, écoles ou classes, et postérieurement au 1er janvier 1949 [*date, point de départ*], ont bénéficié pendant une ou plusieurs périodes de six mois au moins, des prestations de sécurité sociale à la suite d'une maladie, d'un accident ou d'une maternité ayant entraîné l'interruption des études, l'âge limite prévu audit article est reculé d'un temps égal à la durée de la ou desdites périodes.
-
-En outre, des arrêtés conjoints du ministre chargé de la sécurité sociale, du ministre de l'éducation nationale ou du ministre intéressé, pris après consultation des associations d'étudiants, fixeront les conditions que doivent remplir les assujettis et la liste des établissements pour lesquels l'âge limite peut être reculé de un à quatre ans en considération soit de l'âge minimum ou des diplômes universitaires exigés au début de certaines études, soit de la durée de la scolarité dans certaines disciplines.

@@ -1,5 +1,0 @@
-# Article 9
-
-Lorsque des organismes habilités décident de fusionner, ils doivent avertir de ce projet la ou les caisses mutuelles régionales intéressées et, par l'intermédiaire de celles-ci, la caisse nationale. Sauf décision contraire de la caisse nationale intervenant dans le délai de deux mois [*accord tacite*] et après avis de la ou des caisses mutuelles régionales, l'organisme résultant de la fusion est habilité de plein droit, dès lors qu'il remplit les conditions fixées à l'article 2-I ci-dessus.
-
-Si le projet de fusion concerne des organismes qui ne remplissent pas les conditions d'effectifs prévues à l'article 7-II ci-dessus, l'organisme résultant de la fusion n'est habilité de plein droit qu'à la double condition qu'il atteigne les effectifs exigés par cette disposition et que la ou les caisses mutuelles régionales et la caisse nationale aient été informées du projet de fusion plus de deux mois avant la date où les organismes intéressés devaient se voir retirer l'habilitation.

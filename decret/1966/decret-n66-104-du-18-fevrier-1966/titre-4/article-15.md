@@ -1,3 +1,0 @@
-# Article 15
-
-Par dérogation aux dispositions du présent décret, le droit aux prestations familiales des personnes regardées comme sans domicile fixe pour l'application dla loi du 16 juillet 1912 sur la réglementation des professions ambulantes et la circulation des nomades est subordonné à la justification, par les intéressés, de l'assiduité des enfants soumis à l'obligation scolaire dans un établissement d'enseignement, pendant une durée mensuelle minimum fixée par un arrêté concerté du ministre de l'éducation nationale et du ministre des affaires sociales. Le même arrêté définira les conditions dans lesquelles doivent être fournies les justifications ainsi exigées.
