@@ -4,7 +4,7 @@ La liste des espèces de gibier que l'on peut chasser sur le territoire europée
 
 Gibier sédentaire
 
-Oiseaux : colins, faisans de chasse, gélinotte des bois, lagopède alpin, perdrix bartavelle, perdrix rouge, perdrix grise, tétras lyre (coq maillé) et tétras urogalle (coq maillé).
+Oiseaux : colin, corbeau freux, corneille noire, étourneau sansonnet, faisan de chasse, geai des chênes, gélinotte des bois, lagopède alpin, perdrix bartavelle, perdrix rouge, perdrix grise, pie bavarde, tétras lyre (coq maillé) et tétras urogalle (coq maillé).
 
 Mammifères : blaireau, belette, cerf élaphe, cerf sika, chamois isard, chevreuil, chien viverrin, daim, fouine, hermine, lapin de garenne, lièvre brun, lièvre variable, marmotte, martre, mouflon, putois, ragondin, rat musqué, raton laveur, renard, sanglier, vison d'Amérique.
 

@@ -1,6 +1,9 @@
 # 1995
 
 - [Décret n°95-112 du 1 février 1995 (SPSS9500038D)](decret-n95-112-du-1-fevrier-1995-spss9500038d)
+- [Décret n°95-222 du 1 mars 1995 (SPSS9500108D)](decret-n95-222-du-1-mars-1995-spss9500108d)
+- [Décret n°95-225 du 1 mars 1995 (ECOC9400123D)](decret-n95-225-du-1-mars-1995-ecoc9400123d)
+- [Décret n°95-227 du 1 mars 1995 (TEFE9500157D)](decret-n95-227-du-1-mars-1995-tefe9500157d)
 - [Décret n°95-99 du 1 février 1995 (BUDB9460061D)](decret-n95-99-du-1-fevrier-1995-budb9460061d)
 - [Décret n°95-110 du 2 février 1995 (MCCK9400557D)](decret-n95-110-du-2-fevrier-1995-mcck9400557d)
 - [Décret n°95-113 du 2 février 1995 (SPSS9500025D)](decret-n95-113-du-2-fevrier-1995-spss9500025d)
@@ -142,6 +145,7 @@
 - [Décret n°95-211 du 21 février 1995 (BUDF9500001D)](decret-n95-211-du-21-fevrier-1995-budf9500001d)
 - [Décret n°95-212 du 21 février 1995 (BUDD9450008D)](decret-n95-212-du-21-fevrier-1995-budd9450008d)
 - [Décret n°95-214 du 21 février 1995 (DOME9500002D)](decret-n95-214-du-21-fevrier-1995-dome9500002d)
+- [Décret n°95-224 du 21 février 1995 (MAEJ9530006D)](decret-n95-224-du-21-fevrier-1995-maej9530006d)
 - [Décret n°95-75 du 21 janvier 1995 (INTX9500004D)](decret-n95-75-du-21-janvier-1995-intx9500004d)
 - [Décret n°95-1058 du 22 septembre 1995 (SPSS9502390D)](decret-n95-1058-du-22-septembre-1995-spss9502390d)
 - [Décret n°95-184 du 22 février 1995 (PRMX9500649D)](decret-n95-184-du-22-fevrier-1995-prmx9500649d)
@@ -163,6 +167,8 @@
 - [Décret n°95-202 du 24 février 1995 (EQUP9500211D)](decret-n95-202-du-24-fevrier-1995-equp9500211d)
 - [Décret n°95-203 du 24 février 1995 (EQUP9500217D)](decret-n95-203-du-24-fevrier-1995-equp9500217d)
 - [Décret n°95-205 du 24 février 1995 (PRMX9500650D)](decret-n95-205-du-24-fevrier-1995-prmx9500650d)
+- [Décret n°95-223 du 24 février 1995 (JUSC9520062D)](decret-n95-223-du-24-fevrier-1995-jusc9520062d)
+- [Décret n°95-226 du 24 février 1995 (EQUA9500190D)](decret-n95-226-du-24-fevrier-1995-equa9500190d)
 - [Décret n°95-442 du 24 avril 1995 (SPSS9500982D)](decret-n95-442-du-24-avril-1995-spss9500982d)
 - [Décret n°95-77 du 24 janvier 1995 (MICT9500007D)](decret-n95-77-du-24-janvier-1995-mict9500007d)
 - [Décret n°95-81 du 24 janvier 1995 (ECOC9400207D)](decret-n95-81-du-24-janvier-1995-ecoc9400207d)
