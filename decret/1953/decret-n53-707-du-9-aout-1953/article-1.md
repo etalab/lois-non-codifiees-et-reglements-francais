@@ -1,11 +1,9 @@
 # Article 1
 
-Dans les entreprises publiques figurant sur la liste dressée pour l'application de la loi du 6 janvier 1948 relative à la commission de vérification des comptes à l'exception de celles qui seront exclues de l'application du présent article par arrêté conjoint du ministre des finances et des affaires économiques et du ministre intéressé, les décisions portant sur les objets ci-après ne sont définitives qu'après avoir été approuvées dans les conditions définies à l'article 4 :
+Dans les organismes visés à l'article 6 bis A de la loi n° 67-483 du 22 juin 1967 relative à la cour des comptes, modifiée par la loi n° 76-539 du 22 juin 1976, les décisions portant sur les objets ci-après ne deviennent définitives, sous réserve du maintien en vigueur des régimes spéciaux antérieurs au 1er janvier 1978, qu'après avoir été approuvées conjointement par le ministre de l'économie et des finances et le ou les ministres intéressés :
 
-1° Budgets ou états de prévisions, d'exploitation et de premier établissement ;
+1° Budgets ou états prévisionnels de recettes et de dépenses d'exploitation ou d'investissement.
 
-2° Bilans, comptes des résultats, affectation des bénéfices ;
+2° Bilans, comptes de résultats et affectations des bénéfices pour les organismes n'ayant pas la forme de société commerciale régis par la loi n° 66-537 du 24 juillet 1966 ;
 
-3° Prises ou extensions de participations financières.
-
-Les conditions d'application de ces dispositions aux établissements dont l'objet principal est d'ordre financier seront déterminées par arrêté pris avant le 31 décembre 1953.
+Le ministre de l'économie et des finances et les ministres intéressés peuvent déléguer la signature des décisions d'approbation aux chefs de mission ou aux contrôleurs d'Etat et aux commissaires du gouvernement intéressés.
