@@ -44,7 +44,6 @@
 - [Décret n°66-957 du 22 décembre 1966](decret-n66-957-du-22-decembre-1966)
 - [Décret n°65-1139 du 23 décembre 1965](decret-n65-1139-du-23-decembre-1965)
 - [Décret n°66-108 du 23 février 1966](decret-n66-108-du-23-fevrier-1966)
-- [Décret n°66-180 du 25 mars 1966](decret-n66-180-du-25-mars-1966)
 - [Décret n°66-81 du 25 janvier 1966](decret-n66-81-du-25-janvier-1966)
 - [Décret n°66-585 du 27 juillet 1966](decret-n66-585-du-27-juillet-1966)
 - [Décret n°66-594 du 27 juillet 1966](decret-n66-594-du-27-juillet-1966)

@@ -1,5 +1,0 @@
-# Article 5
-
-Des arrêtés pris conjointement par le ministre de l'agriculture et le ministre des affaires sociales, après avis du conseil supérieur d'hygiène publique de France et de l'académie nationale de médecine, pourront fixer les mesures de détail relatives à l'application du présent décret, notamment en ce qui concerne les règles de composition, de conditionnement et de dénomination auxquelles devront répondre les produits diététiques ou de régime d'une catégorie donnée, ainsi que les modalités de leur étiquetage dans le cadre des dispositions des articles 3 et 4 ci-dessus.
-
-Sous réserve des dispositions du code de la santé publique, il est interdit de détenir en vue de la vente, de mettre en vente ou de vendre les produits visés à l'article 1er lorsqu'ils ont été additionnés de produits chimiques ou substances biologiques autres que ceux dont l'emploi est déclaré licite par arrêtés pris dans les formes prévues par l'article 1er du décret du 15 avril 1912. Ces arrêtés pourront préciser les pourcentages maximums et minimums d'emploi de ces additifs.
