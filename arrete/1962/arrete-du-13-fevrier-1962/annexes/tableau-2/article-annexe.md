@@ -4,7 +4,7 @@ Emplois :
 
 4) Personnel secondaire des services médicaux
 
-Agents des services hospitaliers
+Huissier concierge
 
 =================
 
@@ -14,20 +14,20 @@ ECHELON : INDICES
 
 --------:--------
 
-8 éch   :  190
+8 éch   :  180
 
-7 éch   :  185
+7 éch   :  175
 
-6 éch   :  180
+6 éch   :  170
 
-5 éch   :  170
+5 éch   :  165
 
-4 éch   :  160
+4 éch   :  155
 
-3 éch   :  150
+3 éch   :  145
 
-2 éch   :  140
+2 éch   :  135
 
-1 éch   :  130
+1 éch   :  100
 
 =================
