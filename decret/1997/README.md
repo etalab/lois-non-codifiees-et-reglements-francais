@@ -675,7 +675,6 @@
 - [Décret n°97-1084 du 25 novembre 1997 (EQUT9701650D)](decret-n97-1084-du-25-novembre-1997-equt9701650d)
 - [Décret n°97-1086 du 25 novembre 1997 (MCCB9700707D)](decret-n97-1086-du-25-novembre-1997-mccb9700707d)
 - [Décret n°97-1087 du 25 novembre 1997 (AGRP9701637D)](decret-n97-1087-du-25-novembre-1997-agrp9701637d)
-- [Décret n°97-167 du 25 février 1997 (MENU9700305D)](decret-n97-167-du-25-fevrier-1997-menu9700305d)
 - [Décret n°97-168 du 25 février 1997 (MAEJ9730006D)](decret-n97-168-du-25-fevrier-1997-maej9730006d)
 - [Décret n°97-169 du 25 février 1997 (TASO9710103D)](decret-n97-169-du-25-fevrier-1997-taso9710103d)
 - [Décret n°97-176 du 25 février 1997 (MENS9700132D)](decret-n97-176-du-25-fevrier-1997-mens9700132d)
