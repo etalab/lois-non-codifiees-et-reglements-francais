@@ -403,6 +403,7 @@
 - [Décret n°93-1235 du 15 novembre 1993 (INDD9300628D)](decret-n93-1235-du-15-novembre-1993-indd9300628d)
 - [Décret n°93-1236 du 15 novembre 1993 (EQUH9301571D)](decret-n93-1236-du-15-novembre-1993-equh9301571d)
 - [Décret n°93-1239 du 15 novembre 1993 (AGRP9301694D)](decret-n93-1239-du-15-novembre-1993-agrp9301694d)
+- [Décret n°93-1308 du 15 décembre 1993 (SPSS9303353D)](decret-n93-1308-du-15-decembre-1993-spss9303353d)
 - [Décret n°93-209 du 15 février 1993 (PRMX9300044D)](decret-n93-209-du-15-fevrier-1993-prmx9300044d)
 - [Décret n°93-210 du 15 février 1993 (PRMX9300045D)](decret-n93-210-du-15-fevrier-1993-prmx9300045d)
 - [Décret n°93-211 du 15 février 1993 (PRMX9300046D)](decret-n93-211-du-15-fevrier-1993-prmx9300046d)
