@@ -1,3 +1,0 @@
-# Article 7
-
-Pour les véhicules de catégorie M2 de poids total autorisé en charge excédant 3,5 tonnes et de catégorie M3 réceptionnés par type avant le 1er octobre 1998, la conformité aux dispositions de l'article 1er du présent arrêté sera présumée, sous la responsabilité du constructeur, dès lors que les sièges et leurs ancrages seront conformes aux dispositions du règlement n° 80 susvisé et seront munis de ceintures à deux ou trois points homologuées conformément aux dispositions du règlement n° 16 susvisé, sans vérification, lors de la réception des ancrages de ceintures, ni de la compatibilité entre les sièges et les ceintures (détermination du nombre de points et prescriptions pour l'installation des sièges), ni, le cas échéant, du système de retenue lui-même.
