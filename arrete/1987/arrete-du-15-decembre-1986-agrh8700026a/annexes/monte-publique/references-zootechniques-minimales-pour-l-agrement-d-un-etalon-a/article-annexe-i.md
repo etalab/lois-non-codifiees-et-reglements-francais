@@ -2,31 +2,33 @@
 
 Outre les conditions générales prévues à l'article 2 de l'arrêté, les candidats étalons doivent posséder les références zootechniques suivantes :
 
-1. Elevage de pur sang.
+1. Elevage de pur sang :
 
 Aucune référence de classement ou gains en épreuves n'est exigée pour les étalons de pur sang reproduisant en race pure.
 
-2. Elevage trotteur français.
+2. Elevage trotteur français :
+
+Soit avoir été classé dans les cinq premiers d'une course figurant sur une liste publiée par le service des haras, des courses et de l'équitation sur proposition de la société d'encouragement à l'élevage du cheval français ;
 
 Soit avoir obtenu deux fois la réduction kilométrique suivante dans une course officielle sur un hippodrome homologué :
 
-- à l'âge de trois ans : 1' 21" au kilomètre ;
+à l'âge de trois ans : 1'20" au kilomètre ;
 
-- à l'âge de quatre ans : 1' 20" au kilomètre ;
+à l'âge de quatre ans : 1'19" au kilomètre ;
 
-- à l'âge de cinq ans : 1' 19" au kilomètre ;
+à l'âge de cinq ans : 1'18" au kilomètre ;
 
-- à l'âge de six ans et plus : 1' 18" au kilomètre.
+à l'âge de six ans et plus : 1'17" au kilomètre.
 
-Les réductions kilométriques obtenues dans une course avec départ à l'autostart sont majorées d'une seconde.
+Les réductions kilométriques obtenues dans une course avec départ à l'autostart sont majorées de deux secondes.
 
-Celles obtenues dans une course au trot monté sont minorées de deux secondes.
+Celles obtenues dans une course au trot monté sont minorées d'une seconde.
 
 Les fractions de seconde ne sont pas prises en compte.
 
-Soit avoir été classé dans les cinq premiers d'une course figurant sur une liste publiée par le service des haras sur proposition de la société d'encouragement à l'élevage du cheval français.
+Les étalons déjà admis à la monte publique avant la parution du présent arrêté peuvent avoir leur agrément reconduit.
 
-3. Elevage de chevaux de selle.
+3. Elevage de chevaux de selle :
 
 3.1. Etalons de pur sang et trotteur français :
 
@@ -54,7 +56,9 @@ Soit, pour les étalons arabes uniquement, en raid équestre d'endurance :
 
 - ou à six ans ou plus avoir gagné une épreuve nationale ou avoir été classé la même année dans deux épreuves nationales avec une vitesse moyenne supérieure ou égale à 10 kilomètres à l'heure.
 
-4. Elevage poney et élevage des races étrangères reconnues en France.
+4. Elevage poney et élevage des races :
+
+étrangères reconnues en France
 
 Avoir obtenu un avis favorable de la commission spéciale de la race mandatée par l'association agréée par le ministre de l'agriculture pour la tenue du livre généalogique de cette race. Cet avis peut être obtenu lors d'un concours d'étalons ou à défaut lors d'une visite spéciale.
 
@@ -64,7 +68,7 @@ Pour un candidat étalon arabe pour la production de poneys :
 
 - soit avoir obtenu un avis favorable de la fédération française des éleveurs de poneys.
 
-5. Etalons des races asine et de trait.
+5. Etalons des races asine et de trait :
 
 Soit avoir obtenu un avis favorable dans un concours national d'étalons.
 
