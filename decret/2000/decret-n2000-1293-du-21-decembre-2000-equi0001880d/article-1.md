@@ -1,0 +1,5 @@
+# Article 1
+
+Lorsque l'application combinée des articles 15 et 17 du décret du 5 mars 1965 susvisé, dans leur rédaction résultant du décret n° 96-930 du 22 octobre 1996, a eu pour effet de classer les ingénieurs des travaux de la météorologie nommés dans le grade nouveau d'ingénieur divisionnaire entre le 1er août 1994 et le 24 octobre 1996 à un échelon doté d'un indice inférieur à celui qu'ils détenaient dans leur ancien grade d'ingénieur divisionnaire, à l'issue de leur reclassement réalisé en application de l'article 15 du décret du 5 mars 1965 susvisé dans sa version résultant du décret n° 94-954 du 28 octobre 1994, les intéressés conservent, à titre personnel, le bénéfice de leur indice antérieur, jusqu'au jour où ils bénéficient dans le grade nouveau d'un indice au moins égal.
+
+L'application des dispositions de l'alinéa précédent ne peut à aucun moment placer les intéressés dans une situation moins favorable que celle résultant de l'application des articles 15 et 17 du décret du 5 mars 1965 susvisé dans leur rédaction antérieure à celle résultant du décret n° 96-930 du 22 octobre 1996.

@@ -1,0 +1,3 @@
+# Article 8
+
+Si des moteurs portant le marquage adéquat prévu à l'article 5 du présent décret n'apparaissent pas conformes au type réceptionné, le service compétent, s'il a délivré le certificat de réception, vérifie la conformité des moteurs produits au type réceptionné et fait prendre les mesures de mise en conformité qu'il juge nécessaires. Si le certificat de réception a été délivré par l'autorité compétente d'un autre pays de l'Union européenne, le ministre chargé de l'environnement informe son homologue de la non-conformité et lui demande, le cas échéant, de procéder aux vérifications appropriées.

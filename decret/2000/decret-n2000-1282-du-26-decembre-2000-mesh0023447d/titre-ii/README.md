@@ -1,0 +1,3 @@
+# TITRE II : DISPOSITIONS DIVERSES ET TRANSITOIRES.
+
+- [Article 2](article-2.md)
