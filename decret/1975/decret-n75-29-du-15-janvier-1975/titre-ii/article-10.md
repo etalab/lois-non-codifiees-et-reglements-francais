@@ -4,13 +4,13 @@ Le conseil comprend vingt-quatre membres. La répartition des sièges est fixée
 
 Huit personnalités extérieures à l'établissement choisies en dehors des personnels enseignants, en fonction de leur compétence dans les domaines scientifique, industriel ou administratif.
 
-Huit représentants des personnels d'enseignement et de recherche, dont :
+Huit représentants des personnels enseignants dont :
 
-- un représentant des professeurs d'université et assimilés ;
+Quatre représentants du collège A comprenant les personnels enseignants titulaires ou délégués exerçant à temps complet des catégories suivantes : personnels universitaires à l'exception des assistants non agrégés, professeurs et professeurs techniques du cadre de l'école nationale supérieure des arts et métiers, professeurs agrégés et professeurs assimilés ;
 
-- six représentants des autres personnels d'enseignement et de recherche et assimilés ;
+Deux représentants da collège B comprenant les autres personnels enseignants exerçant à temps complet ;
 
-- un représentan des personnels assurant un service d'enseignement à temps partiel.
+Deux représentants du collège C comprenant les personnels enseignants à temps partiel.
 
 Six représentants des élèves dont la répartition selon les années d'études est fixée par le règlement intérieur ;
 

@@ -8,4 +8,4 @@ Les délibérations du conseil sont exécutoires dans un délai de quinze jours,
 
 Toutefois, les délibérations portant sur le budget et ses modifications, le compte financier et les acquisitions et aliénations d'immeubles ne sont exécutoires qu'après approbation par le secrétaire d'Etat aux universités qui peut exempter d'approbation certaines de ces délibérations relatives aux modifications du budget.
 
-Les délibérations relatives aux emprunts sont approuvées par les ministres chargés du budget et de l'enseignement supérieur.
+Les délibérations relatives aux emprunts sont approuvées par le ministre de l'économie et des finances et le secrétaire d'Etat aux universités.
