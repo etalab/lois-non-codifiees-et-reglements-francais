@@ -366,13 +366,25 @@ b) A compter du 1er janvier 2005, lorsque la masse maximale certifiée au décol
 
 4.3.2. Dérogations
 
-Des dérogations au paragraphe 4.3.1 (a), peuvent être accordées par l'autorité compétente, pour les vols non commerciaux suivants :
+Des dérogations au paragraphe 4.3.1, peuvent être accordées par l'autorité compétente, pour les vols non commerciaux suivants :
 
 - vol de convoyage, avant ou pour livraison de l'aéronef dans une région où l'équipement ACAS II n'est pas obligatoire ;
 
 - vol de convoyage, en provenance d'une région où l'équipement ACAS II n'est pas obligatoire ;
 
 - vol pour maintenance, en provenance ou à destination d'une région où l'équipement ACAS II n'est pas obligatoire.
+
+Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
+
+4.3.3. Mesures transitoires.
+
+Jusqu'au 30 mars 2006, des dérogations au 4.3.1 (b) peuvent être accordées par l'autorité compétente aux exploitants d'aéronefs qui ne sont pas en mesure de se conformer à la date du 1er janvier 2005 pour les motifs suivants :
+
+a) Aéronefs pour lesquels les exploitants combinent l'installation d'un ACAS II et d'un transpondeur Mode S en s'alignant sur les visites de maintenance et les échéances d'entretien de l'aéronef ;
+
+b) Aéronefs pour lesquels l'ACAS II ne peut pas être installé avant la date limite à cause d'un retard dans la fourniture du service bulletin (SB) de l'avionneur et/ou dans le développement d'un supplément au certificat de type (STC) par un tiers ;
+
+c) Aéronefs qui seront retirés du service avant le 31 mars 2006.
 
 Les conditions de délivrance de ces dérogations et la procédure à suivre sont portées à la connaissance des usagers par la voie de l'information aéronautique.
 
