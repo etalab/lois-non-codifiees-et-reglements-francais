@@ -1,3 +1,5 @@
 # Article 1
 
-Lorsque la garantie financière exigée par l'article 3 de la loi susvisée du 2 janvier 1970 est constituée par un cautionnement déposé auprès de la caisse des dépôts et consignations, ce cautionnement peut consister en valeurs d'Etat ou jouissant de la garantie de l'Etat, en obligations de la caisse d'aide à l'équipement des collectivités locales ou en obligations émises par des collectivités locales et inscrites à la cote officielle des bourses de valeur.
+Les contrats d'assurance visés à l'article 49 (alinéa 1) du décret susvisé du 20 juillet 1972 doivent comporter des garanties et conditions conformes ou au moins équivalentes à celles qui sont définies par les clauses annexées au présent arrêté.
+
+Ils doivent spécifier en caractères très apparents qu'en cas d'opposition ou de différence entre les termes du contrat et ceux des clauses précitées, l'assuré bénéficie de celles de ces dispositions qui lui sont le plus favorables.

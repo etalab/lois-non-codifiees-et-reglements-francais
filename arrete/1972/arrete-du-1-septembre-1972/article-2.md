@@ -1,7 +1,3 @@
 # Article 2
 
-Les bons du Trésor à affecter au cautionnement sont acceptés pour leur valeur nominale.
-
-Les autres valeurs déposées sont évaluées d'après le dernier cours publié à la cote officielle de la Bourse de Paris.
-
-Les titres non encore cotés sont reçus pour leur valeur d'émission.
+Les contrats visés à l'article 1er ne doivent pas comporter une limite de garantie inférieure à 500.000 F par année pour un même assuré. Ils ne doivent pas prévoir de franchise à la charge de l'assuré supérieure à 10 p. 100 des indemnités dues.

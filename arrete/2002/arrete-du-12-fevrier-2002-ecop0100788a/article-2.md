@@ -1,0 +1,3 @@
+# Article 2
+
+Le directeur de l'Ecole nationale supérieure des mines de Paris, le directeur de l'Ecole nationale supérieure des mines de Saint-Etienne, le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines d'Alès, le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines de Douai, le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines de Nantes, le directeur de l'Ecole nationale supérieure des techniques industrielles et des mines d'Albi-Carmaux sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
