@@ -162,6 +162,7 @@
 - [Décret n°87-287 du 21 avril 1987](decret-n87-287-du-21-avril-1987)
 - [Décret n°87-288 du 21 avril 1987 (MAEJ8730022D)](decret-n87-288-du-21-avril-1987-maej8730022d)
 - [Décret n°87-38 du 21 janvier 1987 (ASES8700056D)](decret-n87-38-du-21-janvier-1987-ases8700056d)
+- [Décret n°87-564 du 21 juillet 1987 (ENVP8700158D)](decret-n87-564-du-21-juillet-1987-envp8700158d)
 - [Décret n°87-339 du 21 mai 1987 (EQUU8700426D)](decret-n87-339-du-21-mai-1987-equu8700426d)
 - [Décret n°87-341 du 21 mai 1987 (EQUU8700425D)](decret-n87-341-du-21-mai-1987-equu8700425d)
 - [Décret n°87-346 du 21 mai 1987 (MCCB8700190D)](decret-n87-346-du-21-mai-1987-mccb8700190d)
