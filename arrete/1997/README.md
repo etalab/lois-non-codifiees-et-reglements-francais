@@ -240,6 +240,7 @@
 - [Arrêté du 26 février 1997 (BUDD9650009A)](arrete-du-26-fevrier-1997-budd9650009a)
 - [Arrêté du 26 février 1997 (ECOT9713922A)](arrete-du-26-fevrier-1997-ecot9713922a)
 - [Arrêté du 26 février 1997 (ECOT9716239A)](arrete-du-26-fevrier-1997-ecot9716239a)
+- [Arrêté du 26 février 1997 (JUSG9760009A)](arrete-du-26-fevrier-1997-jusg9760009a)
 - [Arrêté du 26 février 1997 (MAEA9720089A)](arrete-du-26-fevrier-1997-maea9720089a)
 - [Arrêté du 26 novembre 1996 (COPC9600072A)](arrete-du-26-novembre-1996-copc9600072a)
 - [Arrêté du 26 novembre 1996 (ECOD9670023A)](arrete-du-26-novembre-1996-ecod9670023a)
