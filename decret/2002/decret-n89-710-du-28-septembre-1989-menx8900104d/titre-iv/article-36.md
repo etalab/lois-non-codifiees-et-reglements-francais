@@ -1,3 +1,0 @@
-# Article 36
-
-Pour les promotions effectuées au titre de la première année suivant la date de publication du présent décret, peuvent seuls être promus à la 1re classe du corps des directeurs d'études de l'Ecole pratique des hautes études les directeurs d'études de l'Ecole pratique des hautes études ayant atteint le 6e échelon de la 2e classe. L'avancement est prononcé dans les conditions définies à l'article 17 ci-dessus. Toutefois, la commission prévue au premier alinéa de l'article 17 est constituée de l'ensemble des directeurs d'études de l'Ecole pratique des hautes études et des fonctionnaires détachés dans ce corps.

@@ -1,3 +1,0 @@
-# Article 2
-
-A compter de la date d'entrée en vigueur du présent décret et jusqu'au 31 décembre 2006, par dérogation aux dispositions du 4° de l'article 19 du décret du 6 mars 1969 susvisé, lorsque cinq nominations ont été prononcées en application des dispositions des 1°, 2° et 3° du même article, deux secrétaires des affaires étrangères sont nommés au choix parmi les fonctionnaires appartenant au corps des secrétaires de chancellerie tel qu'il résulte des dispositions du présent décret âgés de quarante ans au moins au 1er janvier de l'année de la nomination et justifiant de neuf années de services publics, dont cinq au moins au ministère des affaires étrangères.

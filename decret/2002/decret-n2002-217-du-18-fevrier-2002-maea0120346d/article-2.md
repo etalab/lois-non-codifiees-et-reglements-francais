@@ -1,3 +1,0 @@
-# Article 2
-
-Les décrets n° 92-1331 du 18 décembre 1992 relatif aux personnels civils de coopération culturelle, scientifique et technique en service dans les Etats dont les relations de coopération relèvent du ministre chargé de la coopération et du développement et n° 92-1332 du 18 décembre 1992 fixant les conditions et modalités de prise en charge par le ministère de la coopération et du développement des frais de voyage et de transport de bagages des personnels civils de coopération culturelle, scientifique et technique dans les Etats dont les relations de coopération relèvent de la compétence du ministre chargé de la coopération et du développement sont abrogés.

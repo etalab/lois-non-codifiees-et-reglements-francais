@@ -1,5 +1,0 @@
-# Article 2
-
-Pour l'application du 3° du I de l'article 1er de la loi du 3 janvier 2001 susvisée, les candidats aux concours prévus à l'article 1er doivent justifier des conditions de titres ou de diplômes requis respectivement au 1° de l'article 4 du décret n° 85-720 du 10 juillet 1985 susvisé, pour l'accès aux concours réservés de recrutement de professeurs de sport, et au 1° de l'article 4 du décret n° 85-721 du 10 juillet 1985 susvisé, pour l'accès aux concours réservés de recrutement de conseiller d'éducation populaire et de jeunesse.
-
-Les candidats qui justifient d'une expérience professionnelle de cinq années de services dans des fonctions correspondant aux missions dévolues aux professeurs de sport et aux conseillers d'éducation populaire et de jeunesse effectués au ministère de la jeunesse et des sports ou dans les établissements publics en relevant bénéficient de la reconnaissance de leur expérience professionnelle en équivalence des conditions de titres ou diplômes prévue au 3° de l'article 1er de la loi du 3 janvier 2001 susvisée.

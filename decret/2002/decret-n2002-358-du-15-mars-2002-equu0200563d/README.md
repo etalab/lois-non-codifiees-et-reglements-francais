@@ -1,7 +1,0 @@
-# Décret n°2002-358 du 15 mars 2002 relatif à l'Etablissement public de gestion immobilière de Nord - Pas-de-Calais.
-
-- [TITRE Ier : DISPOSITIONS RELATIVES À L'ORGANISATION ET AU FONCTIONNEMENT DE L'ÉTABLISSEMENT PUBLIC.](titre-ier)
-- [TITRE II : REPRÉSENTATION DES LOCATAIRES AU CONSEIL D'ADMINISTRATION.](titre-ii)
-- [TITRE III : CONDITIONS DE GESTION ET D'ATTRIBUTION DES LOGEMENTS.](titre-iii)
-- [TITRE IV : DISPOSITIONS TRANSITOIRES ET FINALES.](titre-iv)
-- [Article 12](article-12.md)

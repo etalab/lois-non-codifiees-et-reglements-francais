@@ -1,3 +1,0 @@
-# Article 9
-
-Lorsque la majorité absolue des suffrages exprimés n'est pas obtenue au premier tour de scrutin, les retraits éventuels sont portés à la connaissance du Conseil constitutionnel par les candidats, au plus tard à minuit le jeudi suivant le premier tour. Le Gouvernement est informé par le Conseil constitutionnel des noms des deux seuls candidats habilités à se présenter au second tour ; la publication en est immédiatement faite au Journal officiel. Notification en est en outre adressée, par la voie la plus rapide, aux représentants de l'Etat dans les départements, en Polynésie française, aux îles Wallis et Futuna, en Nouvelle-Calédonie, à Mayotte, à Saint-Pierre-et-Miquelon et aux chefs de postes diplomatiques et consulaires.

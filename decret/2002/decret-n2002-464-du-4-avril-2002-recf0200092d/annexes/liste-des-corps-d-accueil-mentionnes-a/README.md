@@ -1,3 +1,0 @@
-# LISTE DES CORPS D'ACCUEIL MENTIONNÉS À L'ARTICLE 1er DU PRÉSENT DÉCRET.
-
-- [Article ANNEXE](article-annexe.md)

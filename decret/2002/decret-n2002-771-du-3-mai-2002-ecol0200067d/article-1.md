@@ -1,9 +1,0 @@
-# Article 1
-
-Une procédure de transfert des données fiscales est créée pour le compte de l'Etat et des organismes et services chargés de la gestion d'un régime obligatoire de sécurité sociale et des institutions mentionnées au chapitre Ier du titre II du livre IX du code de la sécurité sociale.
-
-L'accès à la procédure est ouvert sur adhésion à l'ensemble des organismes et services visés au premier alinéa, qui acceptent les conditions fixées par le présent décret et par les arrêtés conjoints des ministres chargés du budget, de la sécurité sociale et de l'agriculture relatifs à la mise en service de procédures automatisées de transmission de données fiscales, ainsi que les règles d'ordre technique, fonctionnel, structurel et financier définies par une convention destinée à en préciser les modalités d'application.
-
-Cette procédure a pour objet de communiquer sur support informatique aux organismes et services visés au premier alinéa les informations fiscales nécessaires à l'exécution des finalités décrites à l'article L. 152 du livre des procédures fiscales, dans le cadre de leurs missions légales et dans le respect des dispositions de l'article R. 152-1 du livre précité.
-
-La procédure est mise en oeuvre dans le cadre d'un centre serveur unique dénommé "Centre national de transfert de données fiscales", hébergé par la direction générale des impôts. Il effectue les opérations liées à la gestion des transferts informatisés des informations demandées par les partenaires ci-dessus visés. Ces opérations consistent, d'une part, à recevoir les demandes des organismes adhérents à la procédure et à communiquer à la direction générale des impôts les interrogations correspondantes et, d'autre part, à répartir et adresser les réponses reçues conformément aux arrêtés visés au deuxième alinéa.

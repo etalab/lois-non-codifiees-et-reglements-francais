@@ -1,3 +1,0 @@
-# Article 23
-
-Le conseil scientifique et pédagogique propose au conseil d'administration les orientations des politiques de recherche, de documentation scientifique et technique, ainsi que la répartition des crédits de recherche. Il est consulté sur les programmes de formation initiale et continue, sur la qualification à donner aux emplois d'enseignant-chercheur et de chercheur vacants ou demandés, sur les programmes ou contrats de recherche, sur les demandes d'habilitation, sur les projets de création ou de modification des diplômes d'établissement et sur le contrat d'établissement. Il assure la liaison entre l'enseignement et la recherche. Il émet un avis sur la structuration du centre en départements et services.

@@ -1,3 +1,0 @@
-# Article 1
-
-Sans préjudice des recrutements par concours effectués en application du 1° de l'article 6 du décret du 30 avril 1992 susvisé, des recrutements dans le corps des greffiers des services judiciaires pourront être organisés, par la voie d'un concours exceptionnel, chaque année pendant une période de 4 ans à compter de la date de publication du présent décret, à concurrence de contingents annuels fixés par arrêtés conjoints du garde des sceaux, ministre de la justice, du ministre chargé de la fonction publique et du ministre chargé du budget, dans la limite des emplois budgétaires ouverts à cet effet en lois de finances.

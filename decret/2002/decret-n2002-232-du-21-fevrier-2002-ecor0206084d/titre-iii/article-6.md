@@ -1,3 +1,0 @@
-# Article 6
-
-Lorsque les collectivités territoriales et les établissements publics locaux dotés d'un comptable de l'Etat ont versé des intérêts moratoires imputables, en tout ou partie, à ce comptable, l'action récursoire prévue par l'article 55 de la loi du 15 mai 2001 susvisée est exercée auprès du trésorier-payeur général, qui doit procéder au règlement des sommes en cause dans les deux mois qui suivent la demande de règlement présentée par l'ordonnateur ou, en cas de conflit sur le partage de responsabilité entre l'ordonnateur et le comptable, dans les deux mois qui suivent le règlement de ce litige, le cas échéant en application de la procédure prévue à l'article 10.

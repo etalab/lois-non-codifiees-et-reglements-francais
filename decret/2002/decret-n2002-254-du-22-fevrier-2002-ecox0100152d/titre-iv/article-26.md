@@ -1,5 +1,0 @@
-# Article 26
-
-Les contrats de travail des salariés du Commissariat à l'énergie atomique qui concourent aux missions mentionnées à l'article 1er sont transférés à l'Institut de radioprotection et de sûreté nucléaire dans les conditions prévues par l'article L. 122-12 du code du travail.
-
-Par dérogation aux dispositions du premier alinéa, ceux des salariés mentionnés à l'alinéa précédent et dont le contrat de travail ne comporte aucune stipulation relative à ce transfert sont affectés à l'Institut de radioprotection et de sûreté nucléaire pour une période au plus de trois ans à compter de l'entrée en vigueur du présent décret pendant laquelle ils peuvent opter entre leur maintien dans les effectifs du Commissariat à l'énergie atomique avec l'affectation dans les services de ce dernier ou leur intégration dans le personnel de l'Institut de radioprotection et de sûreté nucléaire aux conditions de l'article L. 122-12, notamment avec prise en compte de leur ancienneté acquise au Commissariat à l'énergie atomique.

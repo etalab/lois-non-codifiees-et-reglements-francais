@@ -1,3 +1,0 @@
-# Article 2
-
-Les emplois de greffier des services judiciaires mentionnés à l'article 1er sont pourvus par la voie d'un concours exceptionnel ouvert respectivement aux agents des services techniques, aux agents administratifs et aux adjoints administratifs relevant des services déconcentrés des services judiciaires du ministère de la justice et qui ont exercé effectivement des fonctions de greffier dans les conditions de l'article R. 812-12 du code de l'organisation judiciaire ou de l'article R. 512-33 du code du travail susvisés pendant un an au moins au cours de la période comprise entre le 30 avril 1992 et le 1er décembre 2000. Les candidats doivent justifier d'au moins cinq ans de services publics à la date d'ouverture du concours.

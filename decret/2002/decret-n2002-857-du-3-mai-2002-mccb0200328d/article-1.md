@@ -1,5 +1,0 @@
-# Article 1
-
-Les personnels des corps d'accueil, de surveillance et de magasinage du ministère de la culture et de la communication, les techniciens des services culturels et des Bâtiments de France de la spécialité Surveillance et accueil et les ingénieurs des services culturels et du patrimoine de la spécialité Services culturels soumis, en application des dispositions du décret du 25 août 2000 susvisé, à une obligation régulière de travail dominical, peuvent percevoir une indemnité pour travail dominical régulier, non soumise à retenue pour pension, dès lors qu'ils travaillent dix dimanches. Cette indemnité est majorée à partir du 11e dimanche travaillé.
-
-Pour l'application du présent décret, les dimanches de Pâques et de Pentecôte, ainsi que tous les jours fériés, y compris lorsqu'ils coïncident avec un dimanche, ne sont pas considérés comme des dimanches. Ils ne sont pas pris en compte dans le nombre de dimanches retenus au titre de l'obligation régulière de travail dominical et sont exclus de ce dispositif, tant en ce qui concerne le décompte que l'indemnisation.

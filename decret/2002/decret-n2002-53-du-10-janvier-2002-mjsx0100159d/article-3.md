@@ -1,3 +1,0 @@
-# Article 3
-
-Le corps de l'inspection générale de la jeunesse et des sports est dirigé par un chef du service, nommé par arrêté du ministre chargé de la jeunesse et des sports pour une durée de cinq ans renouvelable parmi les inspecteurs généraux de première classe de la jeunesse et des sports. Il est responsable auprès du ministre des activités du service, qu'il dirige, anime et coordonne ; il veille à la répartition et à l'accomplissement, dans les délais requis, des missions confiées au service ; il assure la coordination et la complémentarité des activités de l'inspection générale avec celles des autres corps d'inspection et de contrôle.

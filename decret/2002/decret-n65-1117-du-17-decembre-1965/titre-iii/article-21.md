@@ -1,3 +1,0 @@
-# Article 21
-
-Les modifications reconnues nécessaires en cours d'exercice sont délibérées et approuvées dans les mêmes formes que l'état annuel de prévisions. Toutefois, en cas d'urgence expressément reconnue par le commissaire du Gouvernement et le contrôleur d'Etat, les délibérations du conseil d'administration relatives à ces modifications peuvent être exécutées immédiatement. Sauf en cas de désaccord du commissaire du Gouvernement ou du contrôleur d'Etat, les délibérations du conseil d'administration portant modification de la répartition des dépenses par chapitre, à l'intérieur de chacune des deux sections, n'ont pas à être soumises à l'approbation des ministres.

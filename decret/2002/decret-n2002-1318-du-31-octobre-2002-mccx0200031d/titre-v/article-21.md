@@ -1,3 +1,0 @@
-# Article 21
-
-Pendant une durée de cinq ans à compter de la publication du présent décret, pour l'avancement au grade d'inspecteur général, peuvent être inscrits au tableau d'avancement les inspecteurs et conseillers de la création, des enseignements artistiques et de l'action culturelle de 1re classe, qui, ayant été nommés inspecteurs de la création et des enseignements artistiques de 1re classe avant la date d'effet du présent décret, avaient atteint le 5e échelon depuis au moins un an et justifiaient de cinq ans de services effectifs dans ce grade, sans que puissent leur être opposées les dispositions du deuxième alinéa de l'article 14.

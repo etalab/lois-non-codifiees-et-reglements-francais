@@ -1,3 +1,0 @@
-# Article 21
-
-Pour l'application du 2° de l'article 16 ci-dessus, une commission administrative présidée par le délégué aux arts plastiques procède à la validation des services accomplis à compter de l'année scolaire 1982-1983 jusqu'à la publication du présent décret dans les fonctions de directeur d'une école d'art habilitée par le ministre chargé de la culture en application du décret du 10 novembre 1988 susmentionné, de chargé de coordination pédagogique ou de chargé de mission d'inspection à la mission permanente d'inspection, de conseil et d'évaluation des enseignements artistiques de la délégation aux arts plastiques.

@@ -1,3 +1,0 @@
-# Article 1
-
-Une prime de participation à la recherche scientifique peut être attribuée aux fonctionnaires des établissements publics à caractère scientifique et technologique appartenant aux corps des ingénieurs de recherche, des ingénieurs d'études, des assistants ingénieurs, des techniciens de la recherche, des adjoints techniques de la recherche et des agents techniques de la recherche régis par le décret du 30 décembre 1983 susvisé, aux fonctionnaires ou agents publics, régis par les dispositions applicables aux corps ou emplois figurant sur la liste annexée au présent décret, qui participent à des travaux de recherche, à la conception ou à la mise au point de techniques scientifiques nouvelles, ou à des activités de soutien à la recherche.

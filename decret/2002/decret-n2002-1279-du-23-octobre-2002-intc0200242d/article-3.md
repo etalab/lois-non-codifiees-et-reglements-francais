@@ -1,3 +1,0 @@
-# Article 3
-
-Pour l'organisation du travail des fonctionnaires des corps administratifs, techniques, scientifiques et de santé, des agents non titulaires, des ouvriers d'Etat et des ouvriers professionnels relevant de la direction générale de la police nationale ou placés sous l'autorité du préfet de police, il est dérogé aux garanties minimales, mentionnées au I de l'article 3 du décret du 25 août 2000 susvisé, dans le cas prévu à l'article 1er, lorsque dans l'exercice de leurs fonctions ils contribuent à l'exécution de l'une des tâches imparties aux fonctionnaires actifs des services de la police nationale, mentionnées audit article.

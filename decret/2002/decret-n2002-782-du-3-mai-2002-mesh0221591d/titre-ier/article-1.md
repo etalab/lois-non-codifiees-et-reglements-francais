@@ -1,7 +1,0 @@
-# Article 1
-
-I. - A compter du 1er janvier 2002, les avancements de grade au sein des corps de la fonction publique hospitalière sont, dans les établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée et lorsque les statuts particuliers le prévoient, déterminés annuellement par un ratio de promotion fixé par un arrêté du ministre de l'emploi et de la solidarité et du ministre de l'économie, des finances et de l'industrie.
-
-II. - Ce ratio s'applique à l'effectif des fonctionnaires remplissant les conditions pour un avancement de grade au 31 décembre de l'année précédant celle au titre de laquelle sont prononcées les nominations. Il est déterminé en en retenant l'inverse de la différence entre, d'une part, la durée totale moyenne de carrière du grade des fonctionnaires promouvables pour atteindre le dernier échelon (D), majorée de 50 % de la durée de l'avant-dernier échelon (d), et, d'autre part, la durée moyenne prévue par chaque statut particulier pour être promouvable au grade supérieur (A), soit 1/([D+d]-A).
-
-III. - Lorsque le nombre de promotions ainsi calculé n'est pas un entier, la décimale est ajoutée au nombre calculé au titre de l'année suivante. Néanmoins, lorsque le mode de calcul conduit à ne pas prononcer de nomination pendant deux années consécutives, une nomination dans le grade d'avancement peut être prononcée la troisième année. Dans ce cas, le cumul des décimales n'est pas reporté l'année suivante.

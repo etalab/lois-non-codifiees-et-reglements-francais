@@ -1,3 +1,0 @@
-# Article 8
-
-Pour l'application du 2° de l'article 2 de la loi du 3 janvier 2001 susvisée, les candidats doivent justifier, au plus tard à la date de clôture des inscriptions à l'examen professionnel, d'une durée complémentaire de services publics effectifs au moins égale à quatre ans d'équivalent temps plein pour la ou les sessions 2002, à trois ans d'équivalent temps plein pour la session 2003, à un an d'équivalent temps plein pour chacune des sessions 2004 et 2005.

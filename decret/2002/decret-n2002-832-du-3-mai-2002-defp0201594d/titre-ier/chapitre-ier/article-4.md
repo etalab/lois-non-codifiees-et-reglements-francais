@@ -1,3 +1,0 @@
-# Article 4
-
-Pendant deux ans à compter de la date de réalisation des apports, les syndicats antérieurement constitués dans les établissements du service à compétence nationale DCN bénéficient du même nombre de décharges d'activité et des mêmes contingents annuels d'autorisations spéciales d'absence pour réunions syndicales qu'avant cette date. Durant cette même période, ces décharges d'activité de service et ces autorisations spéciales d'absence sont utilisées au bénéfice des fonctionnaires, des agents non titulaires ou des ouvriers de l'Etat qui, à la date de la réalisation des apports, ont été mis à la disposition de l'entreprise nationale.

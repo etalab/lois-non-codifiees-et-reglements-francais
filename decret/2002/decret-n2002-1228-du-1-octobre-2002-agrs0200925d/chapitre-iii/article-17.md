@@ -1,3 +1,0 @@
-# Article 17
-
-Le taux de la cotisation due pour la couverture des dépenses complémentaires afférentes à l'assurance vieillesse agricole des chefs d'exploitation ou d'entreprise agricole et assise sur les revenus professionnels ou l'assiette forfaitaire définis aux articles L. 731-14 à L. 731-21 du code rural est fixé par arrêté préfectoral, sur proposition du comité départemental des prestations sociales agricoles, dans la limite de plus ou moins 5 % d'un taux moyen de 2,53 % sur la partie plafonnée des revenus professionnels ou de l'assiette forfaitaire et de 0,25 % sur la totalité desdits revenus ou assiette forfaitaire.

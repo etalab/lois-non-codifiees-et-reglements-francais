@@ -1,3 +1,0 @@
-# GUIDE D'ÉVALUATION DE LA PERSONNE ÂGÉE EN PERTE D'AUTONOMIE.
-
-- [Article ANNEXE I](article-annexe-i.md)

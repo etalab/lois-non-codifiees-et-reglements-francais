@@ -1,5 +1,0 @@
-# Article 2
-
-Dans les établissements relevant de la convention collective nationale des établissements et services privés sanitaires, sociaux et médico-sociaux conclue par le Syndicat national des cliniques de convalescence, régime, repos et établissements d'accueil pour personnes âgées (CRRR) du 24 décembre 1993, pour les surveillants, infirmiers diplômés d'Etat, aides-soignants certifiés et gardes-malades dont le poste couvre une période de travail comprise entre 18 heures et 8 heures, la durée équivalente à la durée prévue au premier alinéa de l'article L. 212-1 du code du travail est de trente-huit heures. Toutefois, elle est de quarante-deux heures jusqu'au 31 décembre 2001 dans les entreprises et les unités économiques et sociales dont l'effectif, apprécié dans les conditions prévues au II de l'article 1er de la loi du 19 janvier 2000 susvisée, n'excède pas vingt salariés.
-
-Ces dispositions s'appliquent sans préjudice des clauses conventionnelles plus favorables prévoyant la rémunération de ces temps de présence.

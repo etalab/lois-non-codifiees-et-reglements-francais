@@ -1,3 +1,0 @@
-# Article 25
-
-Jusqu'à la constitution de la commission administrative paritaire du corps des ingénieurs de police technique et scientifique mentionné à l'article 1er, qui interviendra dans un délai d'un an au plus à compter de la publication du présent décret, les représentants du personnel à la commission administrative paritaire du corps des ingénieurs des laboratoires de la police technique et scientifique régis par les dispositions du décret n° 92-151 du 19 février 1992, en fonctions à la date de publication du présent décret, exercent les compétences dévolues aux représentants du nouveau corps.

@@ -1,3 +1,0 @@
-# Article 9
-
-Les agents recrutés en application des 1°, 2° et 3° de l'article 5 doivent rester au service de l'Etat pendant une durée minimale de huit ans. En cas de manquement à cette obligation plus de trois mois après la date de leur nomination en qualité de stagiaire, ils doivent verser au Trésor, sauf si ce manquement ne leur est pas imputable, une indemnité égale au traitement et à l'indemnité de résidence perçus pendant la durée du stage effectivement accompli ainsi qu'à tout ou partie des dépenses de toute nature engagées pour leur formation. Ce versement est effectué selon les modalités définies par arrêté du ministre de l'intérieur.

@@ -1,3 +1,0 @@
-# Article 4
-
-Sont également réputés avoir satisfait à l'obligation de formation initiale minimale prévue à l'article 1er les titulaires de l'un des diplômes, titres ou attestations mentionnés à l'article 2 du décret du 31 mai 1997 susvisé et au 7° de l'article 2 du décret du 18 novembre 1998 susvisé relatifs à la formation professionnelle des conducteurs salariés et non salariés du transport routier public de marchandises. Toutefois, dans ce cas, les conducteurs concernés doivent satisfaire à l'obligation de formation continue de sécurité prévue à l'article 6 dans le délai maximum d'un an suivant leur embauche dans une entreprise de transport routier public interurbain de voyageurs.

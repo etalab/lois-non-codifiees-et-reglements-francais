@@ -1,3 +1,0 @@
-# Article 16
-
-L'agent peut, dans les conditions prévues par l'article 30 de la loi du 13 juillet 1983 susvisée, être suspendu par le directeur de l'agence. L'agent suspendu conserve son traitement, l'indemnité prévue (expatriation ou spécifique), les majorations ou avantages familiaux. Sa situation doit être définitivement réglée dans un délai de quatre mois. Si, à l'expiration de ce délai, aucune décision n'a été prise par le directeur de l'agence, l'intéressé, sauf s'il fait l'objet de poursuites pénales, est rétabli dans ses fonctions. L'agent qui, en raison de poursuites pénales, n'est pas rétabli dans ses fonctions, est remis à disposition de son administration d'origine.

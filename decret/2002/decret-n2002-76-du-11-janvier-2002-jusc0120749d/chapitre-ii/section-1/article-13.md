@@ -1,5 +1,0 @@
-# Article 13
-
-Si la formation disciplinaire estime que les faits poursuivis doivent soit ne pas donner lieu à sanction, soit être sanctionnés par une des peines prévues aux 1°, 2° et 4° de l'article 184 du décret du 27 novembre 1991 susvisé, à l'exception de la radiation du tableau des avocats ou de la liste du stage, elle prononce la décision de relaxe ou de sanction. Cette décision est notifiée et peut être contestée selon les modalités prévues aux articles 14 et 15.
-
-Si la formation disciplinaire estime que les faits ne peuvent donner lieu qu'à des sanctions autres que celles visées à l'alinéa précédent, elle rend un avis en ce sens. Cet avis, qui n'est pas susceptible de recours, est notifié à la personne poursuivie, par lettre recommandée avec demande d'avis de réception adressée à la dernière adresse professionnelle connue ou par lettre simple remise contre récépissé. Il est transmis au Conseil d'Etat ou à la Cour de cassation, selon les règles de compétence fixées au dernier alinéa de l'article 9.

@@ -1,3 +1,0 @@
-# Article 6
-
-Les établissements souhaitant poursuivre leur activité au premier jour de la première période mentionnée au deuxième alinéa de l'article 4 du présent décret, et qui ne pratiquent pas à cette date les trois modalités définies à l'article R. 712-97 du code de la santé publique, peuvent continuer d'exercer une ou deux de ces modalités à condition de conclure une convention pour les modalités qu'ils ne pratiquent pas. A l'expiration de cette autorisation d'activité, ces établissements devront satisfaire aux conditions du I de l'article précité, afin d'obtenir le renouvellement de cette autorisation.

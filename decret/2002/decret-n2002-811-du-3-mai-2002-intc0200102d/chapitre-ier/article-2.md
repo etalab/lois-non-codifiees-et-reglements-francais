@@ -1,3 +1,0 @@
-# Article 2
-
-En leur qualité de fonctionnaires de la police nationale participant à la mission de police judiciaire, les ingénieurs de police technique et scientifique procèdent, dans leur service d'affectation et en tous lieux utiles, aux recherches et constatations ainsi qu'aux examens et analyses qui leur sont demandés par l'autorité judiciaire, les services de police ou de gendarmerie et toutes autres autorités qualifiées. Ils sont également appelés à exercer leurs fonctions dans les établissements publics administratifs relevant du ministère de l'intérieur, et notamment l'Institut national de police scientifique.

@@ -1,3 +1,0 @@
-# Article 10-1
-
-Jusqu'au 31 décembre 1977, nonobstant les dispositions du second alinéa de l'article 1er du présent décret, le niveau de qualification d'assistant du service de santé des armées pourra également être reconnu, après sélection et dans la limite de 20 p. 100 du nombre total des titres d'assistant, aux vétérinaires biologistes, aux vétérinaire biologistes principaux, aux vétérinaires biologistes en chef qui, comptant au minimum sept ans de fonctions de responsabilité technique ou de direction, ont apporté la preuve de leur aptitude à l'exercice de responsabilités professionnelles ou militaires. Les intéressées sont désignés dans les conditions fixées au second alinéa de l'article 1er du présent décret.

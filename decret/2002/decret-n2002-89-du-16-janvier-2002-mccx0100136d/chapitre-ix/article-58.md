@@ -1,5 +1,0 @@
-# Article 58
-
-Les travaux dont la réalisation est fractionnée dans le temps et qui, à la date d'entrée en vigueur du présent décret, ont déjà fait l'objet d'une autorisation au titre du code de l'urbanisme ou du code de l'environnement, ou d'une autorisation d'exploitation de carrières, sont soumis aux dispositions de l'article 21 en ce qui concerne les tranches dont l'exécution intervient postérieurement à l'entrée en vigueur du présent décret.
-
-Lorsqu'une opération entrant dans le champ de l'article 1er a donné lieu, entre le 18 janvier 2001 et la date d'entrée en vigueur du présent décret, à la prescription de mesures d'archéologie préventive par l'Etat, sans que celle-ci ait été suivie, avant cette date, de la signature d'une convention entre l'Etat, la personne qui projette les travaux et, le cas échéant, l'association dénommée Association pour les fouilles archéologiques nationales ou d'un devis signé par ces parties, cette prescription est complétée de manière à permettre le calcul de la redevance selon les modalités prévues par la loi du 17 janvier 2001 susvisée et le présent décret.

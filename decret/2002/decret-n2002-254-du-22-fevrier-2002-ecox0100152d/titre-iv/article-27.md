@@ -1,3 +1,0 @@
-# Article 27
-
-Les conditions générales d'emploi et de travail ainsi que les garanties sociales des salariés de l'Institut de radioprotection et de sûreté nucléaire soumis au droit privé sont fixées par un accord d'entreprise conclu avec les organisations syndicales représentatives, qui adapte au nouvel établissement les stipulations des conventions et accords collectifs de travail applicables au Commissariat à l'énergie atomique. Jusqu'à la conclusion de cet accord, les salariés de l'Institut de radioprotection et de sûreté nucléaire restent soumis, dans les conditions du dernier alinéa de l'article L. 132-8 du code du travail, aux conventions et accords collectifs de travail applicables au Commissariat à l'énergie atomique à l'entrée en vigueur du présent décret.

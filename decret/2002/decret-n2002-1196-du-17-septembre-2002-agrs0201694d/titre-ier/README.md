@@ -1,4 +1,0 @@
-# TITRE Ier : DISPOSITIONS RELATIVES AU CONTRÔLE DE L'APPLICATION DE LA LÉGISLATION SOCIALE AGRICOLE.
-
-- [Article 4](article-4.md)
-- [Article 5](article-5.md)

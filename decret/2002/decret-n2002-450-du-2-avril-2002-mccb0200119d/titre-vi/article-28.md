@@ -1,3 +1,0 @@
-# Article 28
-
-Les représentants élus des personnels aux commissions consultatives paritaires prévues à l'article 29 du présent décret, ainsi qu'au conseil d'administration et au conseil scientifique de l'Institut national de recherches archéologiques préventives, prévus respectivement aux articles 8 et 15 du décret du 16 janvier 2002 susvisé, bénéficient pour leur participation à chaque séance de ces conseils d'une autorisation d'absence qui comprend la durée prévisible de la réunion, augmentée des délais de route, et d'un temps égal à la durée de la réunion pour permettre aux intéressés d'assurer la préparation et le compte rendu des travaux.

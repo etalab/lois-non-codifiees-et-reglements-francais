@@ -1,3 +1,0 @@
-# Article 4
-
-Les chefs des services économiques à l'étranger et les chefs de mission économique sont nommés par arrêté conjoint des ministres chargés de l'économie, des finances et du commerce extérieur, pris après agrément du ministre chargé des affaires étrangères. Peuvent être nommés à ces fonctions les agents du ministère de l'économie, des finances et de l'industrie régis par les décrets du 19 avril 1950, du 14 janvier 1958, du 18 juin 1969 et du 21 mai 1997 susvisés. Dans le cas où le chef de mission économique exerce également des fonctions de consul général, il peut être choisi parmi les agents du ministère des affaires étrangères.

@@ -1,3 +1,0 @@
-# Article 5
-
-Les décrets n° 58-61 du 27 janvier 1958 relatif aux indemnités forfaitaires pour travaux supplémentaires des conducteurs d'automobiles des administrations centrales des ministères, n° 70-443 du 14 mai 1970 relatif aux indemnités allouées à certains personnels des administrations centrales des ministères, n° 72-176 du 6 mars 1972 relatif aux indemnités forfaitaires pour travaux supplémentaires des conducteurs d'automobiles des administrations centrales des ministères et n° 73-500 du 25 mai 1973 relatif aux indemnités pour travaux supplémentaires allouées à certains conducteurs des administrations de l'Etat sont abrogés.

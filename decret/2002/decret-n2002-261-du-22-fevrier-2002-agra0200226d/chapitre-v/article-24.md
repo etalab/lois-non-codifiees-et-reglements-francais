@@ -1,5 +1,0 @@
-# Article 24
-
-Les représentants du personnel aux commissions administratives paritaires des corps dont les membres font l'objet d'une intégration dans le corps des ingénieurs du génie rural, des eaux et des forêts sont maintenus en fonctions et se réunissent en formation commune jusqu'à la désignation des membres des commissions administratives paritaires du nouveau corps, qui interviendra dans le délai d'un an suivant la publication du présent décret.
-
-A cet effet, les représentants des 1re et 2e classes des grades d'ingénieur exercent les compétences des représentants du nouveau grade d'ingénieur, les représentants des grades d'ingénieur en chef exercent les compétences des représentants du nouveau grade d'ingénieur en chef et les représentants, d'une part, des 1re et 2e classes du grade d'ingénieur général du génie rural, des eaux et des forêts et, d'autre part, du grade d'ingénieur général d'agronomie exercent les compétences des représentants de la classe normale du nouveau grade d'ingénieur général.

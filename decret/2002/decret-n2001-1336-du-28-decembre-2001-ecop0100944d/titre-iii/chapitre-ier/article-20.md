@@ -1,5 +1,0 @@
-# Article 20
-
-Lors de leur recrutement, les agents sont classés dans une catégorie d'emplois au vu des seuls diplômes, titres ou qualifications exigés pour l'accès à cette catégorie. Leur classement prend en compte, sur la base des durées moyennes du temps à passer dans chaque échelon, le temps passé au service national actif. Pour les ressortissants d'un autre Etat membre de la Communauté européenne ou d'un Etat partie à l'accord sur l'Espace économique européen, est prise en compte sur la même base la période du service national actif obligatoire accomplie dans les formes prévues par la législation de l'Etat dont ils relevaient au moment où ils ont accompli ledit service.
-
-Leur classement peut également prendre en compte, sur la base des durées moyennes du temps à passer dans chaque échelon et dans des conditions précisées par décision du directeur général après avis du comité technique paritaire, l'expérience professionnelle antérieurement acquise dans des fonctions de même nature et de même niveau, à l'exclusion toutefois des périodes de stage ou de formation mêmes rémunérées.

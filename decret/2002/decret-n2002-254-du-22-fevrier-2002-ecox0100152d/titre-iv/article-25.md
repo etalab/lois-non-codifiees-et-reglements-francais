@@ -1,3 +1,0 @@
-# Article 25
-
-Le Commissariat à l'énergie atomique met en priorité à la disposition de l'Institut de radioprotection et de sûreté nucléaire, pour les besoins des programmes de recherches définis et menés par ce dernier, les installations nucléaires de base et les installations individuelles faisant partie d'une installation nucléaire de base secrète qui, avant la publication du présent décret, étaient affectées aux recherches en sûreté. Les modalités opérationnelles et les conditions financières de cette mise à disposition sont réglées par une convention entre le Commissariat à l'énergie atomique, en sa qualité d'exploitant nucléaire des installations, et l'Institut de radioprotection et de sûreté nucléaire.

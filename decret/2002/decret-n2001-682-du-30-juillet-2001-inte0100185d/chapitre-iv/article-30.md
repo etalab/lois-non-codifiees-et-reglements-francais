@@ -1,3 +1,0 @@
-# Article 30
-
-Par dérogation aux dispositions de l'article 29, les capitaines stagiaires mentionnés aux articles 20 et 21 qui appartenaient, avant leur nomination au grade de capitaine en qualité de stagiaire, à un cadre d'emplois ou à un corps de catégorie B dont l'indice brut terminal est au moins égal à 638 sont classés dans le grade de capitaine à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui qu'ils détenaient dans leur grade ou emploi d'origine avec conservation de l'ancienneté d'échelon dans les conditions prévues aux deuxième et troisième alinéas de l'article 7.

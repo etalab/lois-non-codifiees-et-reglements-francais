@@ -1,5 +1,0 @@
-# Article 5
-
-I. - Les surcoûts supportés par Electricité de France, au titre des contrats ou protocoles mentionnés au a et au d de l'article 4, sont calculés à partir des éléments comptables fournis par Electricité de France en application de l'article 9 du présent décret. Ces surcoûts correspondent, pour l'année considérée, à la différence entre le prix total d'acquisition de l'électricité résultant de ces contrats ou protocoles et les coûts d'exploitation et d'investissement évités à Electricité de France pour le mode de fonctionnement considéré, dans le contexte du parc de production national et du marché.
-
-II. - Les surcoûts supportés par un distributeur non nationalisé, au titre des contrats ou protocoles mentionnés au a et au d de l'article 4, correspondent à la différence entre le prix total d'acquisition de l'électricité résultant de ces contrats ou protocoles et le coût qui résulterait de l'achat de la même quantité d'électricité au tarif de cession appliqué à ce distributeur en application de l'article 4 de la loi du 10 février 2000 susvisée.

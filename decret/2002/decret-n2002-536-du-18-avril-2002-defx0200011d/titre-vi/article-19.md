@@ -1,3 +1,0 @@
-# Article 19
-
-Les dispositions du présent décret peuvent être modifiées par décret en Conseil d'Etat, à l'exception de celles qui déterminent la compétence des ministres en ce qui concerne la fixation de la liste des entreprises soumises au service de défense prévue à l'article 1er et la décision par laquelle une personne faisant l'objet d'une affectation collective de défense est autorisée à occuper un emploi dans un autre service ou une autre entreprise prévue à l'article 12 dont la modification ne peut intervenir que dans les conditions prévues à l'article 2 du décret du 15 janvier 1997 susvisé.
