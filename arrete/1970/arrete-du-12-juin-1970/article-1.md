@@ -3083,10 +3083,10 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Pontoise-Cergy (3e bureau)</p>
+<p>Saint-Leu-la-Forêt</p>
 </td>
 <td valign="top" width="416">
-<p>Communes d'Andilly, Beauchamp, Bessancourt, Béthemont-la-Forêt, Chauvry, Deuil-la-Barre, Eaubonne, Enghien-les-Bains, Ermont, Franconville, Frépillon, Groslay, Margeney, Montlignon, Montmagny, Montmorency, Le Plessis-Bouchard, Saint-Gratien, Saint-Leu-la-Forêt, Saint-Prix, Soisy-sous-Montmorency, Taverny.</p>
+<p>Andilly, Beauchamp, Bessancourt, Béthemont-la-Forêt, Chauvry, Deuil-la-Barre, Eaubonne, Enghien-les-Bains, Ermont, Franconville, Frépillon, Groslay, Margency, Montlignon, Montmagny, Montmorency, Le Plessis-Bouchard, Saint-Gratien, Saint-Leu-la-Forêt, Saint-Prix, Soisy-sous-Montmorency, Taverny.</p>
 </td>
 </tr>
 <tr>

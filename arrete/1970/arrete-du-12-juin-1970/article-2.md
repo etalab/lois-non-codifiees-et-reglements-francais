@@ -279,6 +279,14 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 </td>
 </tr>
 <tr>
+<td>Saint-Leu-la-Forêt <br/>
+</td>
+<td>Toutes les communes de la circonscription <br/>
+</td>
+<td>Pontoise-Cergy (1er bureau) <br/>
+</td>
+</tr>
+<tr>
 <td valign="top" width="151"/>
 <td width="340">
 <p align="center">Département du Rhône</p>
