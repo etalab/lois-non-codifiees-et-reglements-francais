@@ -11,3 +11,5 @@ Les techniciens exercent leurs fonctions dans des services techniques communs, a
 Les techniciens de classe superieure exercent prioritairement la coordination au niveau académique ou départemental des services techniques communs.
 
 Un arrêté ministériel détermine la liste des spécialités dans lesquelles interviennent les techniciens.
+
+Les techniciens de l'éducation nationale peuvent, au cours de leur carrière, demander à être nommés dans un emploi correspondant à une spécialité autre que celle au titre de laquelle ils ont été recrutés dans le corps. Ce changement de spécialité est prononcé après avis de la commission administrative paritaire. Les intéressés peuvent être appelés à suivre une formation dont les modalités sont fixées par arrêté du ministre chargé de l'éducation nationale.
