@@ -1,12 +1,14 @@
 # Article 60
 
-Les techniciens exercent une mission de conseil technique et d'assistance auprès des services, établissements et établissements publics locaux d'enseignement relevant du ministère de l'éducation nationale.
+Les techniciens exercent une mission de conseil technique et d'assistance.
 
-Ils exécutent, en tant que de besoin, des interventions professionnelles directes auprès des personnels travaillant dans ces ces services ou établissements.
+Ils exécutent, en tant que de besoin, des interventions professionnelles directes auprès des personnels.
 
 Ils participent à la formation des ouvriers d'entretien et d'accueil, ouvriers professionnels et maîtres ouvriers.
 
-Les techniciens exercent leurs fonctions dans des services techniques communs, académiques, départementaux ou d'établissements relevant du ministère de l'éducation nationale. Ils sont placés sous l'autorité du responsable de l'établissement ou service auprès duquel ils sont affectés.
+Ils peuvent également assurer l'encadrement d'un ou plusieurs groupes d'ouvriers d'entretien et d'accueil, d'ouvriers professionnels ou de maîtres ouvriers des établissements d'enseignement.
+
+Les techniciens exercent leurs fonctions dans les services académiques ou départementaux ou dans les établissements d'enseignement relevant du ministre de l'éducation nationale. Ils sont placés sous l'autorité du responsable de l'établissement ou service auprès duquel ils sont affectés.
 
 Les techniciens de classe superieure exercent prioritairement la coordination au niveau académique ou départemental des services techniques communs.
 
