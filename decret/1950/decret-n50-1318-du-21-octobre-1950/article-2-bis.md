@@ -1,13 +1,25 @@
 # Article 2 bis
 
-La cotisation définie à l'article 2 constitue la cotisation de la classe obligatoire dite Classe A. Les vétérinaires peuvent demander dans les conditions fixées par les statuts visés à l'article 4 à verser des cotisations s'ajoutant à celles de la classe A dans l'une des trois classes facultatives suivantes :
+Les vétérinaires peuvent demander dans les conditions prévues par les statuts visés à l'article 4, à verser des cotisations s'ajoutant à celles de la classe A dans l'une des deux classes facultatives B et C. Les cotisations de ces classes facultatives sont fixées conformément au tableau ci-dessous :
 
-Classe B : 50 p. 100 de la cotisation obligatoire ;
+Classes : Classe B
 
-Classe C : 100 p. 100 de la cotisation obligatoire ;
+Nombres d'actes :
 
-Classe D : 150 p. 100 de la cotisation obligatoire.
+Moins de 35 ans : 48
 
-Le nombre d'actes constituant l'assiette de la cotisation facultative est arrondi s'il y a lieu à l'unité supérieure.
+De 35 ans à 65 ans : 76
 
-A la cotisation des classes facultatives peut s'ajouter, à la demande des intéressés, une majoration égale à 15 p. 100 de leur cotisation. Cette majoration ouvre droit à une prestation supplémentaire en faveur du conjoint survivant, dans les conditions fixées par les statuts visés à l'article 4 ci-dessous. Les dispositions du présent alinéa ne sont applicables qu'aux cotisations de l'année 1974 et des années postérieures.
+Plus de 65 ans : 48.
+
+Classes : Classe C
+
+Nombres d'actes :
+
+Moins de 35 ans : 96
+
+De 35 ans à 65 ans : 152
+
+Plus de 65 ans : 96.
+
+A la cotisation de la classe A et à celle des classes facultatives peut s'ajouter, à la demande des intéressés, une majoration égale à 15 p. 100 desdites cotisations. Cette majoration ouvre droit à une prestation supplémentaire en faveur du conjoint survivant, dans les conditions fixées par les statuts visés à l'article 4."
