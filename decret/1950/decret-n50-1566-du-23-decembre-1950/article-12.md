@@ -4,6 +4,8 @@ La couverture des risques ou charges [*financières*] de la caisse de coordinati
 
 Le taux de contribution assise sur la totalité des salaires soumis à retenue pour pension est fixé à 11,35 %, soit 6,15 % à la charge de la régie et 5,20 % à la charge des agents en activité.
 
-Le taux de la contribution assise, dans la limite du plafond prévu au premier alinéa de l'article L. 241-3 du code de la sécurité sociale, sur les pensions, allocations ou rentes viagères servies en application des titres Ier à VI et VIII du règlement des retraites est fixé à 4,15 %, soit 2,50 % à la charge de la régie et 1,65 % à la charge des titulaires de ces avantages.    Les taux de la contribution assise sur les avantages de retraite visés au premier alinéa de l'article D. 711-5 du code de la sécurité sociale à la charge des titulaires de ces avantages sont ceux fixés audit alinéa. Le taux de la contribution assise sur ces mêmes avantages à la charge de la régie est fixé à 2,50 %.
+Le taux de la contribution assise, dans la limite du plafond prévu au premier alinéa de l'article L. 241-3 du code de la sécurité sociale, sur les pensions, allocations ou rentes viagères servies en application des titres Ier à VI et VIII du règlement des retraites est fixé à 5,35 %, soit 2,50 % à la charge de la régie et 2,85 % à la charge des titulaires de ces avantages.
+
+Les taux de la contribution assise sur les avantages de retraite visés au premier alinéa de l'article D. 711-5 du code de la sécurité sociale à la charge des titulaires de ces avantages sont ceux fixés audit alinéa. Le taux de la contribution assise sur ces mêmes avantages à la charge de la régie est fixé à 2,50 %.
 
 Les dispositions de l'article R. 711-15 du code de la sécurité sociale sont applicables aux titulaires des avantages mentionnés aux deux alinéas précédents.
