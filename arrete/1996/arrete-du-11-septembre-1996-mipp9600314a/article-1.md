@@ -1,0 +1,3 @@
+# Article 1
+
+L'Etablissement public Electricité de France (E.D.F.) est autorisé, dans le cadre des missions qui lui sont dévolues, à établir et exploiter un réseau radioélectrique indépendant utilisant des canaux de la bande VHF sur le territoire national métropolitain, de la bande UHF sur la région Ile-de-France et dans les agglomérations de Marseille, Toulouse, Lyon et Lille, définis dans le cahier des charges annexé au présent arrêté. Les prescriptions techniques et réglementaires applicables à l'établissement et à l'exploitation des canaux précités sont fixées au cahier des charges annexé au présent arrêté.

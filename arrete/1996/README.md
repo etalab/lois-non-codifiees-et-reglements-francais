@@ -335,6 +335,7 @@
 - [Arrêté du 11 mars 1996 (ENVP9540331A)](arrete-du-11-mars-1996-envp9540331a)
 - [Arrêté du 11 mars 1996 (ENVP9540332A)](arrete-du-11-mars-1996-envp9540332a)
 - [Arrêté du 11 mars 1996 (FCEC9610061A)](arrete-du-11-mars-1996-fcec9610061a)
+- [Arrêté du 11 septembre 1996 (MIPP9600314A)](arrete-du-11-septembre-1996-mipp9600314a)
 - [Arrêté du 12 août 1996 (ACVC9600006A)](arrete-du-12-aout-1996-acvc9600006a)
 - [Arrêté du 12 août 1996 (AGRB9601171A)](arrete-du-12-aout-1996-agrb9601171a)
 - [Arrêté du 12 août 1996 (AGRB9601750A)](arrete-du-12-aout-1996-agrb9601750a)

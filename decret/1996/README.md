@@ -71,6 +71,7 @@
 - [Décret n°96-773 du 4 septembre 1996 (BUDF9600028D)](decret-n96-773-du-4-septembre-1996-budf9600028d)
 - [Décret n°96-778 du 4 septembre 1996 (MENL9602257D)](decret-n96-778-du-4-septembre-1996-menl9602257d)
 - [Décret n°96-779 du 4 septembre 1996 (MENL9602277D)](decret-n96-779-du-4-septembre-1996-menl9602277d)
+- [Décret n°96-875 du 4 octobre 1996 (ECOP9600399D)](decret-n96-875-du-4-octobre-1996-ecop9600399d)
 - [Décret n°96-10 du 5 janvier 1996 (AGRS9502489D)](decret-n96-10-du-5-janvier-1996-agrs9502489d)
 - [Décret n°96-11 du 5 janvier 1996 (AGRS9502490D)](decret-n96-11-du-5-janvier-1996-agrs9502490d)
 - [Décret n°96-12 du 5 janvier 1996 (AGRS9502491D)](decret-n96-12-du-5-janvier-1996-agrs9502491d)
