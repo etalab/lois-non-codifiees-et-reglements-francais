@@ -24,9 +24,7 @@ d) La direction centrale du matériel de l'armée de terre ;
 
 e) La direction centrale des télécommunications et de l'informatique ;
 
-f) La direction centrale de la poste aux armées ;
-
-g) Le service de la trésorerie aux armées.
+f) Le service de la trésorerie aux armées.
 
 3° L'état-major de la marine, dont dispose le chef d'état-major de la marine. En outre, relèvent de celui-ci les organismes suivants :
 
@@ -65,3 +63,5 @@ a) La direction générale de la sécurité extérieure ;
 b) La direction de la protection et de la sécurité de la défense ;
 
 c) Le bureau des officiers généraux.
+
+V. - Le service de la poste interarmées, service à compétence nationale, relevant du chef d'état-major des armées.
