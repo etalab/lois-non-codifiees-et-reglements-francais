@@ -356,7 +356,6 @@
 - [Arrêté du 20 septembre 1988 (MENL8801322A)](arrete-du-20-septembre-1988-menl8801322a)
 - [Arrêté du 20 mai 1988 (AGRS8800969A)](arrete-du-20-mai-1988-agrs8800969a)
 - [Arrêté du 21 août 1988 (TEFE8803723A)](arrete-du-21-aout-1988-tefe8803723a)
-- [Arrêté du 21 avril 1988 (AGRH8800798A)](arrete-du-21-avril-1988-agrh8800798a)
 - [Arrêté du 21 avril 1988 (ECOT8820071A)](arrete-du-21-avril-1988-ecot8820071a)
 - [Arrêté du 21 décembre 1987 (STFP8800011A)](arrete-du-21-decembre-1987-stfp8800011a)
 - [Arrêté du 21 décembre 1988 (SPSS8801908A)](arrete-du-21-decembre-1988-spss8801908a)

@@ -570,7 +570,6 @@
 - [Arrêté du 16 mars 1992 (EQUC9200377A)](arrete-du-16-mars-1992-equc9200377a)
 - [Arrêté du 16 mars 1992 (EQUS9200052A)](arrete-du-16-mars-1992-equs9200052a)
 - [Arrêté du 16 mars 1992 (EQUU9200354A)](arrete-du-16-mars-1992-equu9200354a)
-- [Arrêté du 16 mars 1992 (INDM9200247A)](arrete-du-16-mars-1992-indm9200247a)
 - [Arrêté du 16 mars 1992 (INTE9200132A)](arrete-du-16-mars-1992-inte9200132a)
 - [Arrêté du 16 mars 1992 (MJSK9270047A)](arrete-du-16-mars-1992-mjsk9270047a)
 - [Arrêté du 16 novembre 1992 (COMA9200035A)](arrete-du-16-novembre-1992-coma9200035a)

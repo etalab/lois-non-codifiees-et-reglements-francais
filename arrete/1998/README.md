@@ -2,8 +2,6 @@
 
 - [Arrêté du 1 avril 1998 (ECOM9800293A)](arrete-du-1-avril-1998-ecom9800293a)
 - [Arrêté du 1 avril 1998 (FPPA9800070A)](arrete-du-1-avril-1998-fppa9800070a)
-- [Arrêté du 1 décembre 1997 (AGRH9702491A)](arrete-du-1-decembre-1997-agrh9702491a)
-- [Arrêté du 1 décembre 1997 (AGRH9702492A)](arrete-du-1-decembre-1997-agrh9702492a)
 - [Arrêté du 1 décembre 1998 (AGRA9802340A)](arrete-du-1-decembre-1998-agra9802340a)
 - [Arrêté du 1 décembre 1998 (ECOI9800878A)](arrete-du-1-decembre-1998-ecoi9800878a)
 - [Arrêté du 1 décembre 1998 (MEST9811366A)](arrete-du-1-decembre-1998-mest9811366a)
