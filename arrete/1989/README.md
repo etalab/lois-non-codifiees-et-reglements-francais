@@ -408,6 +408,7 @@
 - [Arrêté du 27 juin 1989 (AGRS8901174A)](arrete-du-27-juin-1989-agrs8901174a)
 - [Arrêté du 27 juin 1989 (PTTP8900551A)](arrete-du-27-juin-1989-pttp8900551a)
 - [Arrêté du 27 octobre 1988 (INDA8800802A)](arrete-du-27-octobre-1988-inda8800802a)
+- [Arrêté du 28 août 1989 (TEFE8903678A)](arrete-du-28-aout-1989-tefe8903678a)
 - [Arrêté du 28 avril 1989 (MCCK8900235A)](arrete-du-28-avril-1989-mcck8900235a)
 - [Arrêté du 28 avril 1989 (RESY8900157A)](arrete-du-28-avril-1989-resy8900157a)
 - [Arrêté du 28 avril 1989 (SPSM8900965A)](arrete-du-28-avril-1989-spsm8900965a)
