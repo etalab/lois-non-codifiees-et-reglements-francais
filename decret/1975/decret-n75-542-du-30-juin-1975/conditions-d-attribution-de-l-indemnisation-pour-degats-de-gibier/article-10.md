@@ -1,9 +1,9 @@
 # Article 10
 
-Les personnes qui font état des dégâts mentionnés à l'article 14-V de la loi du 27 décembre 1968 précitée doivent adresser, sans délai, au représentant départemental de l'office national de la chasse désigné par le directeur de l'établissement une déclaration indiquant l'existence des dégâts, notamment leur nature, leur origine présumée, l'étendue de leur superficie et leur évaluation approximative en fonction du barème prévu à l'article 9.
+Les personnes qui font état des dégâts mentionnés à l'article 14-V susvisé de la loi du 27 décembre 1968 doivent [*obligations*] adresser sans délai au président de la fédération départementale des chasseurs en tant que délégué de l'Office national de la chasse une déclaration indiquant, d'une part, si possible l'espèce responsable des dégâts, le fonds de provenance présumée des animaux, sauf s'il s'agit de sangliers, et, d'autre part, la nature, l'étendue et la localisation des dégâts ainsi que leur évaluation approximative en fonction du barème prévu à l'article 9.
 
-Pour les cultures annuelles, la déclaration des dégâts par les réclamants est portée à la connaissance du représentant départemental de l'office national de la chasse dix jours au moins avant la date d'enlèvement des récoltes.
+La déclaration doit indiquer l'étendue des terres possédées ou exploitées par le réclamant dans le département et les cantons limitrophes et préciser la position des parcelles touchées par rapport à l'ensemble de ces terres.
 
-Lorsque les réclamants constatent des dégâts dans les semis, ils doivent, sans délai, avertir le représentant départemental de l'office national de la chasse, qui désigne un estimateur chargé d'établir un constat provisoire.
+Pour les cultures annuelles, la déclaration des dégâts par les réclamants est portée à la connaissance du délégué de l'Office national de la chasse dix jours [*délai*] au moins avant la date de l'enlèvement des récoltes.
 
-Lorsqu'une surface ayant donné lieu à indemnisation calculée sur la récolte est remise en culture avant la date normale d'enlèvement de la récolte endommagée, les dégâts constatés dans la nouvelle culture n'ouvrent pas droit à indemnisation.
+En cas de déclaration portant sur des dégâts dans les semis, l'estimateur désigné dans les conditions prévues à l'article 12 doit, sans délai, soit établir un constat provisoire des dégâts de nature à justifier l'étendue de la perte indemnisable qui sera évaluée au moment de la récolte, soit évaluer les frais de premier ensemencement, qui seront immédiatement indemnisés, le réclamant conservant alors le droit à indemnité au cas où la nouvelle culture ferait l'objet de nouveaux dégâts.
