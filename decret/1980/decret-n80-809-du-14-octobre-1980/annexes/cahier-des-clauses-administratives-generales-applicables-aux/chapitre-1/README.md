@@ -4,6 +4,7 @@
 - [Article Annexe, art. 1](article-annexe-art-1.md)
 - [Cautionnement, retenue de garantie.](cautionnement-retenue-de-garantie)
 - [Discrétion, sécurité, secret.](discretion-securite-secret)
+- [Cotraitants et sous-traitants.](cotraitants-et)
 - [Définitions et obligations générales des parties contractantes.](definitions-et)
 - [Protection de la main-d'oeuvre et conditions de travail.](protection-de-la-main-d-oeuvre-et)
 - [Marchés de matériels de guerre.](marches-de-materiels-de-guerre)
