@@ -1,5 +1,17 @@
 # Article 2
 
-Le modèle DADS 1 (et son annexe) concerne les rémunérations perçues par les salariés ou assimilés au cours de l'année 1984.
+Sont validés pour l'exercice en qualité d'aide-soignant, sous réserve de leur date d'obtention, les titres suivants, délivrés par les armées aux personnels militaires non officiers :
 
-(1) Un modèle de ces imprimés peut être obtenu, notamment, auprès de la Caisse nationale de l'assurance vieillesse des travailleurs salariés.
+a) Armée de terre
+
+1° Certificat technique du premier degré de spécialiste paramédical (C.T.1-S.P.M.) délivré à compter du 2 janvier 1975.
+
+b) Armée de l'air
+
+1° Brevet élémentaire d'infirmier de l'armée de l'air délivré à compter du 2 janvier 1975.
+
+c) Marine
+
+1° Brevet élémentaire d'infirmier de la marine délivré du 2 janvier 1975 au 31 décembre 1987 ;
+
+2° Brevet d'aptitude technique d'infirmier de la marine à compter du 1er janvier 1988.
