@@ -1,6 +1,6 @@
 # Article 10
 
-Seront punis d'une amende de 500000 F :
+Seront punis d'une amende de 75000 euros :
 
 1° Les capitaines de navires battant pavillon d'un Etat n'appartenant pas à la communauté économique européenne qui pêchent en l'absence d'autorisation ou en méconnaissance des termes de l'autorisation accordée dans les eaux maritimes sous souveraineté ou juridiction française et dans la partie des fleuves, rivières, canaux, étangs où les eaux sont salées ;
 
