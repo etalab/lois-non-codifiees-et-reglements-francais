@@ -1,3 +1,0 @@
-# Article 2
-
-Le délégué interministériel aux normes, le chef du service de la technologie et de la stratégie, le chef du service des industries de base et des biens intermédiaires, le chef du service des matières premières et du sous-sol, le directeur général de la concurrence, de la consommation et de la répression des fraudes, le directeur général des douanes et droits indirects, le directeur général de l'alimentation et le directeur de l'espace rural et de la forêt sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
