@@ -688,6 +688,7 @@
 - [Décret n°96-1255 du 26 décembre 1996 (TASP9621763D)](decret-n96-1255-du-26-decembre-1996-tasp9621763d)
 - [Décret n°97-1104 du 26 novembre 1997 (MESP9722503D)](decret-n97-1104-du-26-novembre-1997-mesp9722503d)
 - [Décret n°97-1108 du 26 novembre 1997 (ECOP9600223D)](decret-n97-1108-du-26-novembre-1997-ecop9600223d)
+- [Décret n°97-1112 du 26 novembre 1997 (MESS9723265D)](decret-n97-1112-du-26-novembre-1997-mess9723265d)
 - [Décret n°97-1232 du 26 décembre 1997 (AGRA9702453D)](decret-n97-1232-du-26-decembre-1997-agra9702453d)
 - [Décret n°97-172 du 26 février 1997 (ECOT9751572D)](decret-n97-172-du-26-fevrier-1997-ecot9751572d)
 - [Décret n°97-177 du 26 février 1997 (ECOT9700007D)](decret-n97-177-du-26-fevrier-1997-ecot9700007d)
