@@ -18,7 +18,6 @@
 - [Décret n°73-132 du 5 février 1973](decret-n73-132-du-5-fevrier-1973)
 - [Décret n°73-609 du 5 juillet 1973](decret-n73-609-du-5-juillet-1973)
 - [Décret n°73-634 du 5 juillet 1973](decret-n73-634-du-5-juillet-1973)
-- [Décret n°73-642 du 5 juillet 1973](decret-n73-642-du-5-juillet-1973)
 - [Décret n°73-1027 du 6 novembre 1973](decret-n73-1027-du-6-novembre-1973)
 - [Décret n°73-243 du 6 mars 1973](decret-n73-243-du-6-mars-1973)
 - [Décret n°73-250 du 7 mars 1973](decret-n73-250-du-7-mars-1973)
