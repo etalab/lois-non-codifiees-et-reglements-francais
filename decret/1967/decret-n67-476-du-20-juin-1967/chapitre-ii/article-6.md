@@ -1,0 +1,5 @@
+# Article 6
+
+Les greffiers en chef des cours d'appel et des tribunaux de grande instance et les greffiers des tribunaux d'instance et des tribunaux d'instance ayant seuls compétence en matière pénale, recrutés en application de la loi n° 65-1002 du 30 novembre 1965 soit en qualité d'agent contractuel relevant du ministère de la justice, soit en qualité d'auxiliaire peuvent, sur leur demande et dans les conditions fixées par le décret n° 63-698 du 13 juillet 1963, faire prendre en compte par le régime général de sécurité sociale des salariés, pour l'assurance vieillesse, la totalité ou une partie des services accomplis par eux dans un greffe antérieurement à leur recrutement.
+
+S'ils font usage de cette faculté, les intéressés ne peuvent ni se prévaloir de la coordination entre les régimes d'assurance vieillesse des non-salariés et des salariés prévue par le décret n° 58-436 du 14 avril 1958, ni prétendre au remboursement des cotisations qu'ils ont versées à la caisse d'allocation vieillesse des officiers ministériels (C.A.V.O.M.)) avant leur recrutement.

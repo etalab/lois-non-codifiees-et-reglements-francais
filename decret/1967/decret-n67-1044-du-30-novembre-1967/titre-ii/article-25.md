@@ -1,0 +1,3 @@
+# Article 25
+
+Lorsqu'un greffe particulier de tribunal de police est vacant ou lorsque son titulaire n'a pas demandé le bénéfice des dispositions de l'article 3 de la loi du 30 novembre 1965 susvisée ou qu'il vient à cesser ses fonctions, le greffe de police est, nonobstant les dispositions de l'article 7 de l'ordonnance du 22 décembre 1958 susvisée, fusionné avec le greffe du siège du tribunal d'instance lorsque ce greffe est déjà géré par un fonctionnaire ; si ce dernier greffe n'est pas géré par un fonctionnaire, le greffe particulier est provisoirement placé sous la direction d'un fonctionnaire appartenant au corps des secrétaires-greffiers en chef ou à celui des secrétaires-greffiers.

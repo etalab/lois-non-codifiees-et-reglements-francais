@@ -1,0 +1,5 @@
+# Article 1
+
+Les employés des greffiers en chef des cours d'appel et des tribunaux de grande instance et des greffiers des tribunaux d'instance et des tribunaux d'instance ayant seuls compétence en matière pénale, intégrés dans un corps de fonctionnaires à des services judiciaires en application de la loi n° 65-1002 du 30 novembre 1965, peuvent, sur leur demande, faire valider les services à temps complet accomplis par eux dans un greffe avant leur intégration dans un corps de fonctionnaires des services judiciaires, dans les mêmes conditions que les services visés au dernier alinéa de l'article L. 5 du Code des pensions civiles et militaires de retraite.
+
+Les auxiliaires à temps complet en fonctions le 1er décembre 1967 dans un greffe ou dans un secrétariat de parquet peuvent, s'ils viennent à être titularisés en qualité de fonctionnaire des services judiciaires, faire valider, dans les conditions prévues au premier alinéa ci-dessus, les services à temps complet de greffier titulaire de charge avant d'être recrutés comme auxiliaire.

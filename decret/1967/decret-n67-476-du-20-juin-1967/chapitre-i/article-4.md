@@ -1,0 +1,3 @@
+# Article 4
+
+Les greffiers titulaires de charge qui font prendre en compte, pour la constitution du droit à pension, la totalité ou une partie des services qu'ils ont accomplis dans un greffe soit en qualité de greffier titulaire de charge, soit en qualité d'employé, avant leur intégration dans un corps de fonctionnaires des services judiciaires, ne peuvent obtenir, en aucun cas, le remboursement des cotisations qu'ils ont versées à la caisse d'allocation vieillesse des officiers ministériels (C.A.V.O.M.) ou à un régime complémentaire de retraite de salariés et perdent tous droits acquis, en cours d'acquisition ou éventuels auxquels ils peuvent prétendre à l'égard de cette caisse ou de ce régime, à la date de ladite intégration.
