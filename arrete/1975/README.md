@@ -8,6 +8,7 @@
 - [Arrêté du 6 novembre 1974](arrete-du-6-novembre-1974)
 - [Arrêté du 8 janvier 1975](arrete-du-8-janvier-1975)
 - [Arrêté du 8 juillet 1975](arrete-du-8-juillet-1975)
+- [Arrêté du 8 septembre 1975](arrete-du-8-septembre-1975)
 - [Arrêté du 9 janvier 1975](arrete-du-9-janvier-1975)
 - [Arrêté du 9 juin 1975](arrete-du-9-juin-1975)
 - [Arrêté du 10 juillet 1975](arrete-du-10-juillet-1975)
