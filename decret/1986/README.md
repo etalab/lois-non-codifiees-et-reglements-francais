@@ -77,7 +77,6 @@
 - [Décret n°86-303 du 5 mars 1986](decret-n86-303-du-5-mars-1986)
 - [Décret n°86-331 du 5 mars 1986](decret-n86-331-du-5-mars-1986)
 - [Décret n°86-354 du 5 mars 1986](decret-n86-354-du-5-mars-1986)
-- [Décret n°86-805 du 5 juillet 1986](decret-n86-805-du-5-juillet-1986)
 - [Décret n°86-1095 du 6 octobre 1986](decret-n86-1095-du-6-octobre-1986)
 - [Décret n°86-1184 du 6 novembre 1986](decret-n86-1184-du-6-novembre-1986)
 - [Décret n°86-1264 du 6 décembre 1986](decret-n86-1264-du-6-decembre-1986)
