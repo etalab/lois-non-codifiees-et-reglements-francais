@@ -123,6 +123,7 @@
 - [Décret n°85-260 du 22 février 1985](decret-n85-260-du-22-fevrier-1985)
 - [Décret n°85-261 du 22 février 1985](decret-n85-261-du-22-fevrier-1985)
 - [Décret n°85-368 du 22 mars 1985](decret-n85-368-du-22-mars-1985)
+- [Décret n°85-552 du 22 mai 1985](decret-n85-552-du-22-mai-1985)
 - [Décret n°85-1135 du 23 octobre 1985](decret-n85-1135-du-23-octobre-1985)
 - [Décret n°85-447 du 23 avril 1985](decret-n85-447-du-23-avril-1985)
 - [Décret n°85-453 du 23 avril 1985](decret-n85-453-du-23-avril-1985)
