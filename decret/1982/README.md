@@ -52,6 +52,7 @@
 - [Décret n°82-862 du 6 octobre 1982](decret-n82-862-du-6-octobre-1982)
 - [Décret n°82-870 du 6 octobre 1982](decret-n82-870-du-6-octobre-1982)
 - [Décret n°82-379 du 6 mai 1982](decret-n82-379-du-6-mai-1982)
+- [Décret n°82-1044 du 7 décembre 1982](decret-n82-1044-du-7-decembre-1982)
 - [Décret n°82-500 du 7 juin 1982](decret-n82-500-du-7-juin-1982)
 - [Décret n°82-538 du 7 juin 1982](decret-n82-538-du-7-juin-1982)
 - [Décret n°82-765 du 7 septembre 1982](decret-n82-765-du-7-septembre-1982)
