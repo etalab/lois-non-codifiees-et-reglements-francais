@@ -1,0 +1,3 @@
+# Article 2
+
+Les informations contenues dans les produits informationnels visés à l'article 1er sont communiquées par l'INSEE à des tiers dans le cadre d'une licence d'usage final. Le tiers bénéficiaire ne peut utiliser ces informations que pour ses besoins propres et internes, à l'exclusion de toute utilisation ou retraitement à des fins commerciales ; il ne peut donc, en particulier, les mettre à la disposition d'autres tiers, sous quelque forme et selon quelque modalité que ce soit, sans la signature préalable d'une convention particulière avec l'INSEE, ainsi qu'il est prévu aux articles 6 et 7 de l'arrêté du 13 mai 1987 susvisé.
