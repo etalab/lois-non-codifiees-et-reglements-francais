@@ -5,6 +5,7 @@
 - [Article 11 c](article-11-c.md)
 - [Article 11 d](article-11-d.md)
 - [Article 11 a](article-11-a.md)
+- [Article 11 b](article-11-b.md)
 - [Article 11 e](article-11-e.md)
 - [Article 11 f](article-11-f.md)
 - [Article 11 g](article-11-g.md)
