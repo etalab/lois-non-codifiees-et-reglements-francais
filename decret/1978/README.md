@@ -11,6 +11,7 @@
 - [Décret n°78-687 du 4 juillet 1978](decret-n78-687-du-4-juillet-1978)
 - [Décret n°78-957 du 5 septembre 1978](decret-n78-957-du-5-septembre-1978)
 - [Décret n°78-244 du 6 mars 1978](decret-n78-244-du-6-mars-1978)
+- [Décret n°78-918 du 6 septembre 1978](decret-n78-918-du-6-septembre-1978)
 - [Décret n°78-1145 du 7 décembre 1978](decret-n78-1145-du-7-decembre-1978)
 - [Décret n°78-360 du 8 mars 1978](decret-n78-360-du-8-mars-1978)
 - [Décret n°78-278 du 9 mars 1978](decret-n78-278-du-9-mars-1978)
