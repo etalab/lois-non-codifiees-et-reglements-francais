@@ -1,0 +1,3 @@
+# Article 4
+
+Le directeur du budget au ministère de l'économie, des finances et du budget, le directeur général des collectivités locales au ministère de l'intérieur et de la décentralisation, le directeur des hôpitaux et le directeur de l'action sociale au ministère des affaires sociales et de la solidarité nationale et le directeur des affaires politiques, administratives et financières au secrétariat chargé des départements et territoires d'outre-mer, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

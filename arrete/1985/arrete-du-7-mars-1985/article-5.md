@@ -1,0 +1,3 @@
+# Article 5
+
+Le directeur de la qualité (service de la protection des végétaux) au ministère de l'agriculture, le directeur des industries chimiques, textiles et diverses au ministère du redéploiement industriel et du commerce extérieur, le directeur général de la santé au ministère des affaires sociales et de la solidarité nationale et le directeur de la consommation et de la répression des fraudes au secrétariat d'Etat auprès du ministre de l'économie, des finances et du budget, chargé du budget et de la consommation, sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
