@@ -6,6 +6,7 @@
 - [Titre IV : Des sous-locations.](titre-iv)
 - [Titre V : Du loyer.](titre-v)
 - [Titre VI : De la procédure.](titre-vi)
+- [Titre VII : De la despécialisation.](titre-vii)
 - [Titre VIII : Dispositions diverses.](titre-viii)
 - [Titre IX : Dispositions transitoires.](titre-ix)
 - [Article 48](article-48.md)
