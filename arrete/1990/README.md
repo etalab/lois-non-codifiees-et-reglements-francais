@@ -163,6 +163,7 @@
 - [Arrêté du 30 novembre 1989 (PTTR8901096A)](arrete-du-30-novembre-1989-pttr8901096a)
 - [Arrêté du 30 octobre 1989 (PRME8961080A)](arrete-du-30-octobre-1989-prme8961080a)
 - [Arrêté du 31 août 1989 (PRME9061044A)](arrete-du-31-aout-1989-prme9061044a)
+- [Arrêté du 31 décembre 1989 (TEFF9003084A)](arrete-du-31-decembre-1989-teff9003084a)
 - [Arrêté du 31 janvier 1990 (BUDD9070000A)](arrete-du-31-janvier-1990-budd9070000a)
 - [Arrêté du 31 janvier 1990 (BUDR9005007A)](arrete-du-31-janvier-1990-budr9005007a)
 - [Arrêté du 31 janvier 1990 (SPSS9000274A)](arrete-du-31-janvier-1990-spss9000274a)
