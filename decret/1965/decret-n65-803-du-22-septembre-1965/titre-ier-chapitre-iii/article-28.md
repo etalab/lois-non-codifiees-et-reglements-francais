@@ -4,7 +4,7 @@ Les autres peines sont prononcées par la juridiction disciplinaire prévue à l
 
 En ce qui concerne les membres élus, les personnels ci-dessous désignés se substituent aux personnels visés audit article :
 
-Trois membres titulaires et trois suppléants élus pour trois ans par leurs collègues parmi les professeurs du premier grade des écoles nationales de chirurgie dentaire ;
+Trois membres titulaires et trois suppléants élus pour trois ans par leurs collègues parmi les professeurs du premier grade des écoles nationales de chirurgie dentaire, odontologistes des services de consultations et de traitements dentaires.
 
 Trois membres titulaires et trois suppléants appartenant à chacun des grades du corps visé au 1° de l'article 1er ci-dessus, ainsi qu'à la catégorie de personnels visés au 2° du même article élus pour trois ans par leurs collègues respectifs.
 
