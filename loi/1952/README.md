@@ -7,3 +7,4 @@
 - [Loi n° 52-351 du 31 mars 1952](loi-n-52-351-du-31-mars-1952)
 - [Loi n° 52-401 du 14 avril 1952](loi-n-52-401-du-14-avril-1952)
 - [Loi n° 52-432 du 28 avril 1952](loi-n-52-432-du-28-avril-1952)
+- [Loi n° 52-843 du 19 juillet 1952](loi-n-52-843-du-19-juillet-1952)
