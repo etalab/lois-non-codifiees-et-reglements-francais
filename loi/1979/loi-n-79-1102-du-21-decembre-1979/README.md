@@ -1,5 +1,6 @@
 # Loi n° 79-1102 du 21 décembre 1979 DE FINANCES RECTIFICATIVE POUR 1979 (1)
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 6](article-6.md)
