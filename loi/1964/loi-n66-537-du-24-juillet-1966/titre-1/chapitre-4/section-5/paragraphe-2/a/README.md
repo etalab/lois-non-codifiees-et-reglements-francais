@@ -9,3 +9,4 @@
 - [Article 208-7](article-208-7.md)
 - [Article 208-8](article-208-8.md)
 - [Article 208-8-1](article-208-8-1.md)
+- [Article 208-8-2](article-208-8-2.md)
