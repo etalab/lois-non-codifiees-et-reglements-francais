@@ -89,8 +89,6 @@
 - [Décret n°80-274 du 15 avril 1980](decret-n80-274-du-15-avril-1980)
 - [Décret n°80-277 du 15 avril 1980](decret-n80-277-du-15-avril-1980)
 - [Décret n°80-533 du 15 juillet 1980](decret-n80-533-du-15-juillet-1980)
-- [Décret n°80-543 du 15 juillet 1980](decret-n80-543-du-15-juillet-1980)
-- [Décret n°80-544 du 15 juillet 1980](decret-n80-544-du-15-juillet-1980)
 - [Décret n°80-813 du 15 octobre 1980](decret-n80-813-du-15-octobre-1980)
 - [Décret n°80-280 du 16 avril 1980](decret-n80-280-du-16-avril-1980)
 - [Décret n°80-477 du 16 juin 1980](decret-n80-477-du-16-juin-1980)
