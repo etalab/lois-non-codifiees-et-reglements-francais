@@ -1,0 +1,3 @@
+# Article 3
+
+Le préfet de la région d'Ile-de-France donne aux autorités chargées au niveau départemental de la tutelle ou du contrôle des établissements publics et sociétés d'économie mixte régis par les articles 1er et 2 ci-dessus des instructions et des directives pour la mise en oeuvre d'une politique de développement économique et d'aménagement du territoire dans la région. Dans les mêmes conditions, le préfet de la région d'Ile-de-France fait connaître aux autorités chargées de la tutelle ou du contrôle au niveau national ses observations sur les décisions et délibérations soumises à approbation.

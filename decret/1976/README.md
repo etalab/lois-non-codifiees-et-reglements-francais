@@ -53,6 +53,7 @@
 - [Décret n°76-972 du 21 octobre 1976](decret-n76-972-du-21-octobre-1976)
 - [Décret n°76-456 du 21 mai 1976](decret-n76-456-du-21-mai-1976)
 - [Décret n°76-1059 du 22 novembre 1976](decret-n76-1059-du-22-novembre-1976)
+- [Décret n°76-1062 du 22 novembre 1976](decret-n76-1062-du-22-novembre-1976)
 - [Décret n°76-717 du 22 juillet 1976](decret-n76-717-du-22-juillet-1976)
 - [Décret n°76-721 du 23 juillet 1976](decret-n76-721-du-23-juillet-1976)
 - [Décret du 24 août 1976](decret-du-24-aout-1976)
