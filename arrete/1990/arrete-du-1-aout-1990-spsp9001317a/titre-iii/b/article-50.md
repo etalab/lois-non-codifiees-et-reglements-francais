@@ -1,11 +1,17 @@
 # Article 50
 
-L'admission comporte trois épreuves pratiques notées sur vingt points, d'une durée de vingt-cinq minutes maximum chacune, dont cinq minutes de préparation :
+Les épreuves pratiques comportent trois mises en situation professionnelle notées sur 20 points :
 
-Imagerie médicale (coefficient 2). Cette épreuve comprend un exercice pratique ;
+1° Une mise en situation professionnelle en imagerie médicale :
 
-Médecine nucléaire (coefficient 1). Cette épreuve comprend un exercice pratique ;
+coefficient 2 ; durée : cinquante minutes, dont dix minutes de préparation ;
 
-Radiothérapie (coefficient 1). Cette épreuve comprend un exercice pratique.
+2° Une mise en situation professionnelle en médecine nucléaire :
 
-Le jury définit la nature des épreuves. Celles-ci se déroulent dans des services agréés comme terrains de stage avec l'accord et sous la responsabilité du médecin responsable. Elles sont évaluées conjointement par deux membres du jury.
+coefficient 1 ; durée : vingt-cinq minutes, dont cinq minutes de préparation ;
+
+3° Une mise en situation professionnelle en radiothérapie :
+
+coefficient 1 ; durée : vingt-cinq minutes, dont cinq minutes de préparation.
+
+Le jury définit les modalités de déroulement des épreuves. Celles-ci ont lieu dans des services agréés comme terrains de stages avec l'accord et sous la responsabilité du médecin responsable. Elles sont évaluées conjointement par deux membres du jury.

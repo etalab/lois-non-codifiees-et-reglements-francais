@@ -1,6 +1,7 @@
-# B. - De l'admission.
+# B. - Epreuves pratiques.
 
 - [Article 50](article-50.md)
+- [Article 50 bis](article-50-bis.md)
 - [Article 51](article-51.md)
 - [Article 52](article-52.md)
 - [Article 53](article-53.md)
