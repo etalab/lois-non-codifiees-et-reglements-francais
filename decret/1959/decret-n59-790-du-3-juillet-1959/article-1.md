@@ -1,0 +1,5 @@
+# Article 1
+
+Les augmentations résultant des actions en revision introduites en application de l'article 27 du décret susvisé du 30 septembre 1953 sont, sauf accord des parties, limitées chaque semestre à une majoration [*maximum*] de 20 % [*pourcentage*] par rapport au loyer du semestre précédent. Le point de départ de la première majoration [*du loyer*] est la date de la demande en revision.
+
+La valeur locative équitable mentionnée à l'article 23 du décret susvisé du 30 septembre 1953 ne s'applique qu'à la date à laquelle les majorations successives prévues à l'alinéa précédent auront permis d'en atteindre le montant. Toutefois, cette valeur sera exigible dès le semestre qui précède immédiatement : 1° l'expiration de la période de revision triennale en cours ; 2° la date d'expiration du bail résultant soit de la convention des parties, soit d'un congé régulier en cas du bail fait sans durée déterminée [*durée indéterminée*], lorsque, dans ces deux hypothèses, le bail prend fin avant le terme de la période triennale considérée.
