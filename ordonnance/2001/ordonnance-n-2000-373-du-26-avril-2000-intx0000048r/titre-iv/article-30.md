@@ -4,7 +4,7 @@ Le représentant du Gouvernement peut, par arrêté motivé, décider qu'un étr
 
 1° Si l'étranger ne peut justifier être entré régulièrement à Mayotte, à moins qu'il ne soit titulaire d'un titre de séjour en cours de validité ;
 
-2° Si l'étranger s'est maintenu à Mayotte au-delà de la durée de validité de son visa, ou de la durée de séjour autorisée sans visa, sans être titulaire d'un premier titre de séjour régulièrement délivré ou si, pendant la durée de validité de son visa ou pendant la période de trois mois précitée, son comportement a constitué une menace pour l'ordre public ;
+2° Si l'étranger s'est maintenu à Mayotte au-delà de la durée de validité de son visa, ou de la durée de séjour autorisée sans visa, sans être titulaire d'un premier titre de séjour régulièrement délivré ou si, pendant la durée de validité de son visa ou pendant la période de trois mois précitée, son comportement a constitué une menace pour l'ordre public ou si pendant cette même durée l'étranger a méconnu les dispositions de l'article L. 330-1 du code du travail applicable à Mayotte ;
 
 3° Si l'étranger, auquel la délivrance ou le renouvellement d'un titre de séjour a été refusé ou dont le titre de séjour a été retiré, s'est maintenu sur le territoire au-delà du délai d'un mois à compter de la date de notification du refus ou du retrait ;
 
@@ -16,4 +16,4 @@ Le représentant du Gouvernement peut, par arrêté motivé, décider qu'un étr
 
 7° Si l'étranger a fait l'objet d'un retrait de son titre de séjour ou d'un refus de délivrance ou de renouvellement d'un titre de séjour, dans les cas où ce retrait ou ce refus ont été prononcés, en application des dispositions législatives et réglementaires en vigueur, en raison d'une menace à l'ordre public.
 
-Dès notification de l'arrêté de reconduite à la frontière, l'étranger est immédiatement mis en mesure d'avertir un conseil, son consulat ou une personne de son choix.
+Dès notification de l'arrêté de reconduite à la frontière, l'étranger est mis en mesure, dans les meilleurs délais, d'avertir un conseil, son consulat ou une personne de son choix.

@@ -16,14 +16,22 @@ Le regroupement familial est sollicité pour l'ensemble des personnes désignée
 
 L'enfant pouvant bénéficier du regroupement familial est celui qui répond à la définition donnée à l'avant-dernier alinéa de l'article 20.
 
-II. - L'autorisation d'entrer sur le territoire dans le cadre de la procédure du regroupement familial est donnée par l'administrateur supérieur dans les îles Wallis et Futuna, après vérification des conditions de ressources et d'hébergement.
+II. - L'autorisation d'entrer dans les îles Wallis et Futuna dans le cadre de la procédure du regroupement familial est donnée par l'administrateur supérieur, après vérification des conditions de ressources et de logement par le chef de circonscription de résidence de l'étranger ou le chef de circonscription où il envisage de s'établir.
+
+Pour procéder à la vérification des conditions de logement et de ressources, le chef de circonscription examine les pièces justificatives requises dont la liste est déterminée par décret. Des agents spécialement habilités des services de l'administrateur supérieur dans les îles Wallis et Futuna chargés des affaires sociales ou du logement peuvent pénétrer dans le logement. Ils doivent s'assurer au préalable du consentement écrit de son occupant. En cas de refus de l'occupant, les conditions de logement permettant le regroupement familial sont réputées non remplies. Lorsque ces vérifications n'ont pas pu être effectuées parce que le demandeur ne disposait pas encore du logement nécessaire au moment de la demande, le regroupement familial peut être autorisé si les autres conditions sont remplies et après que le chef de circonscription a vérifié sur pièces les caractéristiques du logement et la date à laquelle le demandeur en aura la disposition.
+
+A l'issue de l'instruction, le chef de circonscription émet un avis motivé. Cet avis est réputé favorable à l'expiration d'un délai de deux mois à compter de la communication du dossier par l'administrateur supérieur dans les îles Wallis et Futuna.
 
 L'administrateur supérieur dans les îles Wallis et Futuna statue sur la demande dans un délai de six mois à compter du dépôt par l'étranger du dossier complet de cette demande.
 
-La décision de l'administrateur supérieur dans les îles Wallis et Futuna autorisant l'entrée des membres de la famille sur le territoire national est caduque si le regroupement n'est pas intervenu dans un délai fixé par voie réglementaire.
+La décision de l'administrateur supérieur dans les îles Wallis et Futuna autorisant l'entrée des membres de la famille sur le territoire des îles Wallis et Futuna est caduque si le regroupement n'est pas intervenu dans un délai fixé par voie réglementaire. En cas de mise en oeuvre de la procédure du sursis à l'octroi d'un visa prévue aux deux derniers alinéas de l'article 47, ce délai ne court qu'à compter de la délivrance du visa.
 
-III. - Les membres de la famille entrés régulièrement dans les îles Wallis et Futuna au titre du regroupement familial reçoivent de plein droit un titre de séjour de même nature que celui détenu par la personne qu'ils sont venus rejoindre, dès qu'ils sont astreints à la détention d'un tel titre.
+III. - Les membres de la famille entrés régulièrement dans les îles Wallis et Futuna au titre du regroupement familial reçoivent de plein droit une carte de séjour temporaire dès qu'ils sont astreints à la détention d'un titre de séjour.
 
-IV. - En cas de rupture de vie commune, le titre de séjour mentionné au III qui a été remis au conjoint d'un étranger peut, pendant l'année suivant sa délivrance, faire l'objet soit d'un refus de renouvellement, s'il s'agit d'une carte de séjour temporaire, soit d'un retrait, s'il s'agit d'une carte de résident.
+IV. - En cas de rupture de la vie commune, la carte de séjour temporaire qui a été remise au conjoint d'un étranger peut, pendant les deux années suivant sa délivrance, faire l'objet d'un retrait ou d'un refus de renouvellement. Lorsque la rupture de la vie commune est antérieure à la délivrance du titre, l'administrateur supérieur dans les îles Wallis et Futuna refuse de délivrer la carte de séjour temporaire.
+
+Toutefois, lorsque la communauté de vie a été rompue à l'initiative de l'étranger à raison des violences conjugales qu'il a subies de la part de son conjoint, l'administrateur supérieur dans les îles Wallis et Futuna peut accorder le renouvellement du titre.
+
+IV bis. - Le titre de séjour d'un étranger qui n'entre pas dans les catégories visées à l'article 33 et à l'article 34 peut faire l'objet d'un retrait lorsque son titulaire a fait venir son conjoint ou ses enfants en dehors de la procédure du regroupement familial.
 
 V. - Un décret en Conseil d'Etat fixe les modalités d'application du présent article, et notamment les conditions de ressources et d'hébergement qui s'imposent au demandeur du regroupement familial ainsi que de vérification de la façon dont ces conditions sont remplies.
