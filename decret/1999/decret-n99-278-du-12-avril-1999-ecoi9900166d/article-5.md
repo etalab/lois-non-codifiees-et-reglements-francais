@@ -1,0 +1,3 @@
+# Article 5
+
+Le projet de plan de desserte gazière du département, accompagné de la synthèse des études mentionnées à l'article 3, est soumis pour avis aux communes et établissements publics de coopération intercommunale mentionnés à l'article 1er, ainsi qu'aux opérateurs de transport gazier concernés. Le préfet peut également consulter, notamment, des organisations de consommateurs agréées en vertu de l'article R. 411-1 du code de la consommation, des organisations professionnelles du secteur énergétique et la commission départementale de modernisation des services publics. Les avis sont réputés favorables en cas d'absence de réponse dans un délai de deux mois.
