@@ -1,8 +1,8 @@
 # Article 2
 
-Le Comité national technique de l'échographie de dépistage anténatal est composé de  :
+Le Comité national technique de l'échographie de dépistage prénatal est composé de :
 
-1. Six membres de droit  :
+1. Six membres de droit :
 
 - le directeur général de la santé ou son représentant ;
 
@@ -16,9 +16,9 @@ Le Comité national technique de l'échographie de dépistage anténatal est com
 
 - le directeur de la Caisse nationale d'assurance maladie des travailleurs salariés ou son représentant.
 
-2. Dix-neuf membres désignés par le ministre chargé de la santé  :
+2. Vingt membres désignés par le ministre chargé de la santé :
 
-- quatre personnes qualifiées ;
+- cinq personnes qualifiées ;
 
 - deux représentants des usagers ;
 
