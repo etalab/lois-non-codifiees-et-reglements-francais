@@ -1,3 +1,3 @@
 # Article 2
 
-L'arrêté du 29 juillet 1981, publié au Journal officiel de la République française du 31 juillet 1981, est abrogé.
+L'arrêté du 23 décembre 1980 pris en exécution de l'article 10 (1er alinéa) du décret n° 75-996 du 28 octobre 1975 susvisé est abrogé.
