@@ -11,4 +11,6 @@
 - [Loi n° 95-865 du 2 août 1995 (MAEX9500061L)](loi-n-95-865-du-2-aout-1995-maex9500061l)
 - [Loi n° 95-881 du 4 août 1995 (TEFX9500103L)](loi-n-95-881-du-4-aout-1995-tefx9500103l)
 - [Loi n° 95-882 du 4 août 1995 (TEFX9500107L)](loi-n-95-882-du-4-aout-1995-tefx9500107l)
+- [Loi n° 95-884 du 3 août 1995 (JUSX9500089L)](loi-n-95-884-du-3-aout-1995-jusx9500089l)
+- [Loi n° 95-885 du 4 août 1995 (ECOX9500104L)](loi-n-95-885-du-4-aout-1995-ecox9500104l)
 - [Loi n°95-877 du 3 août 1995 (MCCX9500012L)](loi-n95-877-du-3-aout-1995-mccx9500012l)

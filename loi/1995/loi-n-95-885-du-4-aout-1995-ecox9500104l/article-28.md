@@ -1,0 +1,3 @@
+# Article 28
+
+Sous réserve des droits nés de décisions de justice passées en force de chose jugée, les décisions individuelles fixant le montant de la rémunération due à l'Etat à l'occasion de la diffusion des informations auxquelles le service public d'information sur les entreprises, les organismes publics et leurs établissements permet d'accéder sont validées en tant que leur légalité serait mise en cause sur le fondement de l'incompétence des auteurs des arrêtés ministériels des 14 août 1987, 13 janvier 1989, 28 novembre 1989, 23 décembre 1992, 28 mars 1994, et de la décision du directeur général de l'Institut national de la statistique et des études économiques du 3 juillet 1993, qui ont fixé les modalités de cession de ces informations.
