@@ -4,7 +4,7 @@ Sont soumis à l'autorisation préalable du ministre de l'économie et des finan
 
 Sont toutefois dispensés d'autorisation :
 
-1° Les emprunts constituant un investissement direct tel que défini au 3° de l'article 2, qui sont régis par les dispositions du 1° de l'article 4 ;
+1° (abrogé) ;
 
 2° Les emprunts contractés par les banques inscrites et les établissements de crédit à statut légal spécial, lorsque ces banques ou ces établissements ont été habilités à ce titre par le ministre de l'économie et des finances ;
 

@@ -1,9 +1,9 @@
 # Article 4 bis
 
-Le ministre de l'économie et des finances est habilité à dispenser de la déclaration préalable et, le cas échéant, de l'autorisation préalable visées à l'article 4 ci-dessus, lorsqu'elles satisfont aux conditions fixées par circulaire du ministre de l'économie et des finances publiée au Journal officiel de la République française, les opérations financières relatives :
+Le ministre de l'économie est habilité à dispenser certaines opérations de l'autorisation préalable prévue au troisième alinéa de l'article 4 ci-dessus :
 
-1° A la constitution ou à la liquidation d'investissements directs à l'étranger par des résidents lorsqu'elles ne concernent ni des sociétés holdings, d'investissement ou de portefeuille, ni des sociétés dont l'objet est de faciliter le financement ou de gérer la trésorerie d'entreprises appartenant à un ou plusieurs groupes ;
+1° Cette dispense est de droit pour les investissements directs effectués à l'intérieur de la Communauté économique européenne visés à l'article 4 bis du décret n° 67-78 du 27 janvier 1967, modifié par le décret n° 80-617 du 4 août 1980 ;
 
-2° A la constitution d'investissements directs en France par des non-résidents.
+2° Le ministre de l'économie peut, par circulaire, dispenser d'autorisation préalable et éventuellement de la déclaration préalable prévue aux articles 3 et 4 du décret n° 67-78 du 27 janvier 1967, modifié par le décret n° 69-264 du 21 mars 1969 et par le décret n° 80-617 du 4 août 1980, les opérations qui satisfont à certaines conditions.
 
-Les opérations financières qui satisfont aux conditions prévues à l'alinéa précédent relatives à la dispense de la déclaration préalable et de l'autorisation préalable visées à l'article 4 du présent décret sont, le cas échéant, dispensées de la déclaration prévue aux articles 3 et 4 du décret n° 67-78 du 27 janvier 1967, modifié par le décret n° 69-264 du 21 mars 1969.
+Le règlement des opérations dispensées d'autorisation préalable doit être assuré conformément aux dispositions générales du présent décret, et notamment de ses articles 4 (1er alinéa) et 6.
