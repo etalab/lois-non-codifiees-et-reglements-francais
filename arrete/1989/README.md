@@ -104,6 +104,7 @@
 - [Arrêté du 6 mars 1989 (SPSM8801477A)](arrete-du-6-mars-1989-spsm8801477a)
 - [Arrêté du 6 mars 1989 (TEFF8903220A)](arrete-du-6-mars-1989-teff8903220a)
 - [Arrêté du 6 novembre 1989 (MENN8902666A)](arrete-du-6-novembre-1989-menn8902666a)
+- [Arrêté du 6 octobre 1989 (ECOC8900126A)](arrete-du-6-octobre-1989-ecoc8900126a)
 - [Arrêté du 6 octobre 1989 (MAEA8920323A)](arrete-du-6-octobre-1989-maea8920323a)
 - [Arrêté du 6 septembre 1989 (ECOT8920103A)](arrete-du-6-septembre-1989-ecot8920103a)
 - [Arrêté du 6 septembre 1989 (MENN8902038A)](arrete-du-6-septembre-1989-menn8902038a)
