@@ -207,7 +207,6 @@
 - [Décret n°88-885 du 22 août 1988 (MAEX8810732D)](decret-n88-885-du-22-aout-1988-maex8810732d)
 - [Décret n°88-886 du 22 août 1988 (FRAX8810733D)](decret-n88-886-du-22-aout-1988-frax8810733d)
 - [Décret n°88-887 du 22 août 1988 (MAFX8810734D)](decret-n88-887-du-22-aout-1988-mafx8810734d)
-- [Décret n°88-1069 du 23 novembre 1988 (SPSP8801618D)](decret-n88-1069-du-23-novembre-1988-spsp8801618d)
 - [Décret n°88-1191 du 23 décembre 1988 (MAEJ8830081D)](decret-n88-1191-du-23-decembre-1988-maej8830081d)
 - [Décret n°88-888 du 23 août 1988 (PRMX8810738D)](decret-n88-888-du-23-aout-1988-prmx8810738d)
 - [Décret n°90-360 du 23 avril 1990 (AVCA8910077D)](decret-n90-360-du-23-avril-1990-avca8910077d)
