@@ -1294,7 +1294,6 @@
 - [Arrêté du 30 juillet 1996 (EQUP9600474A)](arrete-du-30-juillet-1996-equp9600474a)
 - [Arrêté du 30 juillet 1996 (FCEC9600095A)](arrete-du-30-juillet-1996-fcec9600095a)
 - [Arrêté du 30 juillet 1996 (TASS9622430A)](arrete-du-30-juillet-1996-tass9622430a)
-- [Arrêté du 30 juin 1996 (AGRG9602313A)](arrete-du-30-juin-1996-agrg9602313a)
 - [Arrêté du 30 octobre 1996 (AGRS9602372A)](arrete-du-30-octobre-1996-agrs9602372a)
 - [Arrêté du 30 octobre 1996 (MENU9602566A)](arrete-du-30-octobre-1996-menu9602566a)
 - [Arrêté du 30 septembre 1996 (EQUP9601363A)](arrete-du-30-septembre-1996-equp9601363a)
