@@ -10,7 +10,7 @@ A. - Véhicule conforme à un type ayant fait l'objet d'une réception nationale
 
 3. Un certificat de vente délivré par les domaines mentionnant toutes les caractéristiques du véhicule. Ce certificat permet, en attendant la délivrance de la carte grise, de circuler pendant une durée de quinze jours à partir de la date de sa délivrance ;
 
-4. Une pièce justificative de son identité et une déclaration de domicile et, le cas échéant, celles du locataire (cf. annexe VI).
+4. Les pièces justificatives de son identité et de son domicile et, le cas échéant, celles du locataire (cf. annexe VI).
 
 B. - Véhicule non conforme à un type ayant fait l'objet d'une réception nationale ou communautaire.
 

@@ -18,7 +18,7 @@ Dans le second cas, le dossier doit comprendre :
 
 2. Un mandat remis par la société ou l'entreprise individuelle de location comportant son numéro d'inscription au registre du commerce et des sociétés ou au répertoire des métiers et dont le modèle figure en annexe VIII du présent arrêté ;
 
-3. Une pièce justificative d'identité et une déclaration de domicile du locataire ;
+3. Les pièces justificatives de l'identité et du domicile du locataire ;
 
 4. Pour les autres pièces, reporter selon le cas considéré à l'article 8 (immatriculation d'un véhicule neuf) ou à l'article 10 (immatriculation d'un véhicule d'occasion) du présent arrêté.
 

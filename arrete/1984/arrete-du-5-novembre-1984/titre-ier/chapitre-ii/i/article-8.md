@@ -12,7 +12,7 @@ Pour les véhicules provenant d'un Etat tiers à l'Union européenne, ce documen
 
 Pour les véhicules provenant d'un autre Etat de l'Union européenne, il est revêtu de la mention : "dispense n° du DSF (département)" attribuée par les services fiscaux territorialement compétents.
 
-2. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+2. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 Ou bien l'ensemble des documents suivants :
 
@@ -26,7 +26,7 @@ Ou bien l'ensemble des documents suivants :
 
 5. Un certificat de cession ou une facture établis par le vendeur ;
 
-6. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+6. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 7. Pour les véhicules neufs provenant d'un Etat tiers à l'Union européenne, "un certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement 846 A) délivré par les services des douanes. Toutefois, cette pièce ne sera pas exigée lorsque le certificat de conformité national sera revêtu d'une attestation de dédouanement conforme au modèle défini par la direction générale des douanes et des droits indirects.
 
@@ -50,7 +50,7 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 3. Un certificat de cession ou une facture établie par le vendeur ;
 
-4. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+4. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 5. Pour les véhicules neufs acquis dans un Etat tiers à l'Union européenne, "un certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement 846 A) délivré par les services des douanes.
 
@@ -70,7 +70,7 @@ Pour obtenir l'immatriculation, les pièces suivantes doivent être fournies :
 
 Pour les véhicules provenant d'un Etat tiers à l'Union européenne, ce document est revêtu d'une attestation de dédouanement conforme au modèle défini par la direction générale des douanes et des droits    Pour les véhicules provenant d'un autre Etat de l'Union européenne, il est revêtu de la mention : "dispense n° du  DSF (département)" attribuée par les services fiscaux territorialement compétents.
 
-2. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+2. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 Ou bien l'ensemble des documents suivants :
 
@@ -80,7 +80,7 @@ Ou bien l'ensemble des documents suivants :
 
 3. Un certificat de cession ou une facture établis par le vendeur ;
 
-4. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+4. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 5. Pour les véhicules neufs provenant d'un Etat tiers à l'Union européenne un "certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement délivré par les services des douanes). Toutefois cette pièce ne sera pas exigée s'il est présenté un certificat de conformité tel que visé au 2 ci-dessus et comportant une mention conforme au modèle défini par la direction générale des douanes et droits indirects.
 
@@ -106,7 +106,7 @@ Dans le cas où le certificat de conformité au type communautaire ne comporte p
 
 3. Un certificat de cession ou une facture établis par le vendeur ;
 
-4. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
+4. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI) ;
 
 5. Pour les véhicules neufs provenant d'un Etat tiers à l'Union européenne, "un certificat pour servir à l'immatriculation en France d'un véhicule importé" (certificat de dédouanement délivré par les services des douanes).
 
@@ -146,7 +146,7 @@ Les pièces à fournir par le propriétaire dudit véhicule sont :
 
 4. Un certificat du vendeur. Dans le cas où le véhicule a été construit par son propriétaire, ce dernier devra produire les factures d'achat des éléments constitutifs du véhicule (notamment châssis, moteur) ;
 
-5. Une pièce justificative d'identité et une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI).
+5. Les pièces justificatives de l'identité et du domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI).
 
 En outre, il devra être joint :
 
@@ -163,11 +163,3 @@ L'immatriculation d'un tracteur agricole ou forestier à roues ayant fait l'obje
 - du certificat de conformité dont le modèle figure en annexe XV du présent arrêté, établi par le constructeur du tracteur ou par son mandataire en France.
 
 Le certificat de conformité devra être complété par les soins du constructeur ou de son mandataire en France par les indications supplémentaires figurant à l'annexe XVI du présent arrêté.
-
-Nota :
-
-(1) Exemplaire non barré d'une diagonale rouge.
-
-(2) Les pièces visées aux alinéas 1, 3, 4 et 5 peuvent, dans le cadre d'une procédure simplifiée, être regroupées sur un seul document agréé par le Cerfa sous le numéro 47-0205 et dénommé Demande de certificat d'immatriculation d'un véhicule neuf prêt à l'emploi n'excédant pas 3,5 tonnes.
-
-Ce document dont le modèle type figure en annexe III A du présent arrêté est délivré par le constructeur ou son représentant en France. Dans le cadre de cette procédure, il n'est plus accompagné d'un exemplaire barré rouge.

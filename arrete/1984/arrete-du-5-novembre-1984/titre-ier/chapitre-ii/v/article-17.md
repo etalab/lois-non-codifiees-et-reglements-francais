@@ -4,7 +4,7 @@ En cas de changement de domicile, le propriétaire d'un véhicule ou, le cas éc
 
 1. Une déclaration établie sur l'imprimé de demande de certificat d'immatriculation ;
 
-2. Une pièce justificative de son identité et une déclaration de domicile (voir annexe VI) ;
+2. Les pièces justificatives de son identité et de son nouveau domicile (voir annexe VI) ;
 
 3. La carte grise.
 

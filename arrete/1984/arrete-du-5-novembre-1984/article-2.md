@@ -70,7 +70,7 @@ Une circulaire du ministre en charge des transports détermine précisément les
 
 Elle peut être établie au nom de plusieurs copropriétaires sur production des justificatifs adéquats.
 
-2.3. Au sens du code de la route, la date de première mise en circulation d'un véhicule telle qu'elle doit apparaître sur la carte grise correspond à la date de la première immatriculation d'un véhicule neuf dans une des séries visées aux paragraphes A et B c de l'article 1er ci-dessus.
+2.3. Au sens du code de la route, la date de première mise en circulation ou la date de première immatriculation mentionnée sur le certificat d'immatriculation est la date d'attribution du numéro d'immatriculation dans une des séries visées aux paragraphes A et B c de l'article 1er ci-dessus.
 
 2.4. Pour les opérations définies au titre Ier du présent arrêté, les cartes grises sont délivrées soit par la préfecture du département du domicile du propriétaire lorsque celui-ci est une personne physique, soit par la préfecture du département de l'établissement inscrit au registre du commerce et des sociétés ou au répertoire des métiers auquel le véhicule est affecté à titre principal lorsque le propriétaire est une personne morale ou une entreprise individuelle.
 
@@ -78,7 +78,7 @@ Pour les véhicules faisant l'objet de contrats de location de moins de deux ans
 
 Pour les véhicules faisant l'objet soit d'un contrat de location de deux ans ou plus, soit d'un contrat de crédit-bail, les cartes grises sont délivrées soit par la préfecture du domicile du locataire, soit par la préfecture du département de l'établissement du locataire où le véhicule est affecté à titre principal.
 
-Toute personne physique ou morale ou jouissant de la personnalité morale doit déclarer son domicile dans le département du lieu d'immatriculation.
+Toute personne physique ou morale ou jouissant de la personnalité morale doit justifier de son domicile (voir annexe VI du présent arrêté) dans le département du lieu d'immatriculation.
 
 On entend par domicile, pour une personne physique, le lieu de son principal établissement tel que défini dans les articles 102 à 111 du code civil.
 

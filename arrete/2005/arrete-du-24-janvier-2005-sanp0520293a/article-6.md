@@ -1,0 +1,3 @@
+# Article 6
+
+L'agrément est subordonné à une accréditation préalable selon la norme ISO/CEI 17025 par le Comité français d'accréditation (COFRAC) ou par tout autre organisme d'accréditation équivalent européen signataire de l'accord multilatéral pris dans le cadre de la coordination européenne des organismes d'accréditation, pour la réalisation des prélèvements et analyses des paramètres faisant l'objet de la demande d'agrément. A la date de dépôt de la demande d'agrément auprès du ministre chargé de la santé, le laboratoire doit être accrédité pour les prélèvements et analyses des paramètres pour lesquels le laboratoire demande l'agrément, à l'exception de ceux figurant à l'annexe VI.

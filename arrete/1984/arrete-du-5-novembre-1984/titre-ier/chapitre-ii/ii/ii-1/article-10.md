@@ -16,7 +16,7 @@ En cas de cession à titre gratuit, la précédente carte grise revêtue de la m
 
 3. Le certificat de cession (à titre gratuit ou onéreux) remis par l'ancien propriétaire. Le modèle de ce certificat figure en annexe V du présent arrêté. Il peut également être établi sur papier libre à condition de comporter les renseignements demandés.
 
-4. Une pièce justificative de son identité et une déclaration de domicile et, le cas échéant, celles du locataire (cf. annexe VI).
+4. Les pièces justificatives de son identité et de son domicile et, le cas échéant, celles du locataire (cf. annexe VI).
 
 5. (Supprimé)
 
@@ -24,7 +24,7 @@ En cas de cession à titre gratuit, la précédente carte grise revêtue de la m
 
 Pour obtenir l'immatriculation du véhicule à son nom, l'héritier ou l'un des héritiers doit fournir les pièces suivantes :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée d'une pièce justificative de son identité et d'une déclaration de domicile (voir annexe VI).
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI).
 
 2. La précédente carte grise.
 
@@ -50,7 +50,7 @@ Avant toute revente à un tiers, un véhicule tombé dans une succession doit ê
 
 Les pièces à fournir par l'acquéreur sont :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée d'une pièce justificative de son identité et d'une déclaration de domicile et, le cas échéant, celles du locataire (cf. annexe VI).
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée des pièces justificatives de son identité et de son domicile et, le cas échéant, celles du locataire (cf. annexe VI).
 
 2. Une attestation (bordereau d'adjudication ou procès-verbal de vente) établie par le commissaire priseur ou l'huissier de justice indiquant le nom de l'acheteur et si possible le numéro d'immatriculation, la marque, le type, le numéro dans la série du type et mentionnant que le véhicule a été vendu ou non avec la carte grise.
 
@@ -74,7 +74,7 @@ Les pièces à fournir sont :
 
 a) Pour les véhicules précédemment immatriculés dans un Etat membre de l'Union européenne ou dans un Etat partie à l'accord instituant l'Espace économique européen, les pièces à fournir par le propriétaire pour l'obtention d'une carte grise à son nom sont :
 
-1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée d'une pièce justificative d'identité et d'une déclaration de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI).
+1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire, accompagnée des pièces justificatives d'identité et de domicile du propriétaire et, le cas échéant, celles du locataire (cf. annexe VI).
 
 2. Le certificat d'immatriculation ou, si celui-ci a été retiré par les autorités administratives du pays d'origine :
 
@@ -146,7 +146,7 @@ Les pièces à fournir par le propriétaire du véhicule sont :
 
 1. Une demande de certificat d'immatriculation ;
 
-2. Une pièce justificative de son identité et une déclaration de domicile.
+2. Les pièces justificatives de son identité et de son domicile.
 
 3. Le certificat d'immatriculation FFECSA sur lequel aura été apposée la mention : Radiation définitive de la série spéciale FFECSA. Document valable jusqu'au....
 
@@ -166,7 +166,7 @@ Les pièces à fournir par le propriétaire du véhicule sont :
 
 1. Une demande de certificat d'immatriculation ;
 
-2. Une pièce justificative de son identité et une déclaration de domicile ;
+2. Les pièces justificatives de son identité et de son domicile ;
 
 3. La carte grise ;
 

@@ -12,4 +12,4 @@ Le négociant propriétaire doit remettre les pièces suivantes à l'acquéreur 
 
 5. Un certificat de cession établi dans les conditions définies à l'alinéa 3 de l'article 10 (A, I) ci-dessus.
 
-Les pièces mentionnées ci-dessus doivent être jointes à la demande de certificat d'immatriculation accompagnée d'une pièce justificative de l'identité et d'une déclaration domicile de l'acquéreur.
+Les pièces mentionnées ci-dessus doivent être jointes à la demande de certificat d'immatriculation accompagnée des pièces justificatives de l'identité et du domicile de l'acquéreur.

@@ -10,7 +10,7 @@ Outre les véhicules ayant satisfait à la procédure relative aux réceptions �
 
 Pour l'obtention de cette carte grise, le propriétaire du véhicule doit fournir les pièces suivantes :
 
-a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée d'une pièce justificative de son identité et d'une déclaration de domicile (voir annexe VI) ;
+a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI) ;
 
 b) Une attestation délivrée par le service des mines indiquant que le véhicule a subi avec succès une visite technique visant à vérifier le bon état de fonctionnement et d'entretien du véhicule ainsi que la correspondance du numéro d'identification de celui-ci avec le numéro porté sur la plaque du constructeur ;
 
@@ -22,7 +22,7 @@ Sont concernés les véhicules automobiles ou remorqués de plus de vingt-cinq a
 
 Pour obtenir une carte grise " Véhicule de collection ", le propriétaire du véhicule doit fournir les pièces suivantes :
 
-a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée d'une pièce justificative de son identité et d'une déclaration de domicile (voir annexe VI de l'arrêté du 5 novembre 1984) ;
+a) Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives de son identité et de son domicile (voir annexe VI de l'arrêté du 5 novembre 1984) ;
 
 b) Le certificat d'immatriculation ou, à défaut, une pièce prouvant l'origine de propriété du véhicule ;
 
