@@ -1,0 +1,5 @@
+# Article 4
+
+Sont autorisées, sous réserve, le cas échéant, de l'application des dispositions relatives aux investissements directs étrangers en France, les opérations d'achats ou de ventes de titres émis ou cotés en France, d'actifs immobiliers situés en France ou de droits y afférents dès lors que le règlement de ces opérations est assuré respectivement par débit ou crédit d'un compte ouvert dans un établissement de crédit ou autre situé en France, au nom de la personne pour le compte de laquelle ces opérations sont réalisées et à condition qu'aient été produits à l'établissement concerné les justificatifs permettant à celui-ci de s'assurer de la réalité de la transaction.
+
+Les virements de titres ou d'espèces d'un compte ouvert dans un établissement de crédit ou autre, situé en France, vers un compte ouvert dans un autre établissement de crédit ou autre, également situé en France, sont autorisés, sous réserve de la présentation aux établissements concernés des justificatifs appropriés, dès lors que ces comptes sont ouverts au nom de la même personne et sont soumis aux mêmes dispositions quant à leurs conditions de gestion.

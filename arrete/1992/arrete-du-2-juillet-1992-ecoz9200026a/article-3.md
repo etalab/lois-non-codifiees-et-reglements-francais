@@ -1,0 +1,3 @@
+# Article 3
+
+Les règlements relatifs aux dépenses courantes des personnes physiques visées à l'article 1er du décret du 4 juin 1992 susvisé et aux opérations courantes des personnes morales visées à l'article 1er du décret précité dont l'activité revêt un caractère industriel ou commercial sont autorisés, sous réserve de la présentation à l'établissement chargé du mouvement des fonds conformément à l'article 2 du décret du 29 décembre 1989 susvisé des justificatifs permettant à celui-ci de vérifier la réalité de la transaction. Ces dispositions ne s'appliquent pas aux opérations courantes d'exportation à destination de la Yougoslavie (Serbie et Monténégro) ou d'importation en provenance de ce pays, réalisées après le 31 mai 1992.
