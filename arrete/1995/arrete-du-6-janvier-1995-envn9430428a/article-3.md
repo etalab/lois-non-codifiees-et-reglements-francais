@@ -10,7 +10,11 @@ Le comité directeur de la réserve comprend, sous la présidence du préfet de 
 
 - le directeur de l'Office national de la chasse ou son représentant ;
 
-- le président de la région cynégétique Alpes-Jura ;
+- le directeur régional de l'environnement Rhône-Alpes ;
+
+- le président du parc naturel régional des Bauges ;
+
+- le président de la région cynégétique Rhône-Alpes.
 
 - le directeur départemental de l'agriculture et de la forêt de la Savoie ;
 
@@ -35,5 +39,3 @@ Le comité directeur s'adjoindra à titre consultatif :
 - le président du groupement d'intérêt cynégétique des Bauges ;
 
 - le professeur Philippe Lebreton, université Claude-Bernard, Lyon-I ;
-
-- le président de l'association pour la création du parc naturel régional des Bauges.
