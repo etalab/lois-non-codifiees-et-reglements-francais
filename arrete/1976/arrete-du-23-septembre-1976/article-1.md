@@ -1,0 +1,3 @@
+# Article 1
+
+Les sommes à déduire de l'assiette des cotisations des assurances sociales agricoles au titre des frais professionnels tels que visés à l'article 3 du décret n° 50-444 du 20 avril 1950 modifié s'entendent [*définition*] de celles qui sont versées aux travailleurs salariés ou assimilés pour les couvrir des charges de caractère spécial inhérentes à la fonction ou à l'emploi. L'indemnisation s'effectue sous la forme d'un remboursement des dépenses réelles ou d'allocations forfaitaires. Dans ce dernier cas, la déduction est subordonnée à l'utilisation effective des allocations conformément à leur objet.
