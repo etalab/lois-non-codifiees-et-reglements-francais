@@ -305,7 +305,6 @@
 - [Décret n°94-280 du 11 avril 1994 (EQUA9400490D)](decret-n94-280-du-11-avril-1994-equa9400490d)
 - [Décret n°94-281 du 11 avril 1994 (TEFC9400380D)](decret-n94-281-du-11-avril-1994-tefc9400380d)
 - [Décret n°94-283 du 11 avril 1994 (ENVN9420012D)](decret-n94-283-du-11-avril-1994-envn9420012d)
-- [Décret n°94-30 du 11 janvier 1994 (ENVC9420003D)](decret-n94-30-du-11-janvier-1994-envc9420003d)
 - [Décret n°94-32 du 11 janvier 1994 (TEFT9400001D)](decret-n94-32-du-11-janvier-1994-teft9400001d)
 - [Décret n°94-45 du 11 janvier 1994 (INTA9300606D)](decret-n94-45-du-11-janvier-1994-inta9300606d)
 - [Décret n°94-47 du 11 janvier 1994 (ENVQ9310117D)](decret-n94-47-du-11-janvier-1994-envq9310117d)
