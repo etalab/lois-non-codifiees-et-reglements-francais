@@ -1,7 +1,13 @@
 # Article 2
 
-Le corps des enquêteurs de la police nationale comprend deux grades :
+Le corps des enquêteurs de la police nationale comprend trois grades :
 
-Chef enquêteur et enquêteur de 1re classe ;
+- enquêteur de 2e classe ;
 
-Enquêteur de 2e classe.
+- chef enquêteur et enquêteur de 1re classe ;
+
+- chef enquêteur de classe exceptionnelle.
+
+Les chefs enquêteurs de classe exceptionnelle assurent l'encadrement des chefs enquêteurs et enquêteurs de 1re classe et des enquêteurs de 2e classe.
+
+Les chefs enquêteurs et enquêteurs de 1re classe assurent l'encadrement des enquêteurs de 2e classe.

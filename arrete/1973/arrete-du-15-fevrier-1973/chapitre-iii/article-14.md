@@ -28,45 +28,45 @@ A. - Ces participations sont indemnisées sur la base de taux forfaitaires commu
 
 Ces taux ainsi que les limites des plafonds qui évoluent en fonction de l'évolution des traitements de la fonction publique sont fixés ainsi qu'il suit :
 
-Taux à compter du 1er juillet 1994 (en francs)
+Taux à compter du 1er août 1994 (en francs)
 
 1. Service de garde sur place :
 
-Garde   1 400
+Garde   1 408
 
-Demi-garde   700
+Demi-garde   704
 
-De 18 h 30 à 1 heure du matin  650
+De 18 h 30 à 1 heure du matin  654
 
-De 1 heure du matin à 8 h 30  750
+De 1 heure du matin à 8 h 30  754
 
 2. Service de garde par astreinte :
 
 Astreinte opérationnelle :
 
-a) Indemnité forfaitaire de base  216
+a) Indemnité forfaitaire de base  218
 
-Par demi-astreinte  108
+Par demi-astreinte  109
 
-b) Indemnité due pour chaque déplacement  300
+b) Indemnité due pour chaque déplacement  302
 
 Le montant cumulé des indemnités perçues ne peut excéder :
 
-Au titre d'une demi-astreinte opérationnelle   700
+Au titre d'une demi-astreinte opérationnelle   704
 
 Au titre d'une astreinte opérationnelle   1 400
 
 Astreinte de sécurité :
 
-a) Indemnité forfaitaire de base  140
+a) Indemnité forfaitaire de base  141
 
 Le montant cumulé des indemnités forfaitaires de base ne peut excéder :
 
-Pour quatre semaines   1 120
+Pour quatre semaines   1 128
 
-Pour cinq semaines   1 400
+Pour cinq semaines   1 410
 
-b) Indemnité due pour chaque déplacement  300
+b) Indemnité due pour chaque déplacement  302
 
 Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excéder le taux fixé pour une garde.
 
@@ -74,13 +74,13 @@ Les indemnités versées au titre d'une astreinte de sécurité ne peuvent excé
 
 a) Ils ne donnent lieu à aucune indemnité forfaitaire.
 
-b) Indemnité due pour chaque déplacement  300
+b) Indemnité due pour chaque déplacement  302
 
 4. Pour un même praticien, le montant cumulé des indemnités perçues pour ses participations au service de garde sous forme de permanence à l'hôpital ou astreinte à domicile ne peut excéder :
 
-Pour quatre semaines   14 000
+Pour quatre semaines   14 080
 
-Pour cinq semaines   17 500
+Pour cinq semaines   17 600
 
 Les indemnités perçues dans le cadre des interventions hors service normal prévues au deuxième alinéa de l'article 3 de l'arrêté du 15 février 1973 modifié ne sont pas comptées dans ce plafond.
 

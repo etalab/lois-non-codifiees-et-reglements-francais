@@ -12,217 +12,263 @@ Les candidats nommés alors qu'ils ont atteint l'échelon le plus élevé de leu
 
 B. - Les techniciens de l'industrie et des mines sont classés dans le grade d'ingénieur de l'industrie et des mines dans les conditions définies au tableau ci-dessous :
 
-SITUATION DANS LE CORPS des techniciens à la date de la nomination en qualité d'ingénieur stagiaire
+TECHNICIEN EN CHEF (NOUVEAU GRADE)
 
-SITUATION NOUVELLE DANS LE GRADE d'ingénieur de l'industrie et des mines
+I = SITUATION DANS LE CORPS DES TECHNICIENS à la date de la nomination en qualité d'ingénieur stagiaire ou d'ingénieur de l'industrie et des mines
 
-Grades et échelons
+a) = Echelon
 
-Echelons
+b) = Ancienneté
 
-Ancienneté
+II = SITUATION NOUVELLE dans le grade d'ingénieur de l'industrie et des mines
 
-Technicien en chef
+c) = Echelon
 
-7e échelon :
+d) = Ancienneté
 
-après 3 ans 4 mois
+a = 8e
 
-7e
+c = 7e
 
-Trois quarts de l'ancienneté acquise au-delà de 3 ans 4 mois sans
+d = Trois quarts de l'ancienneté acquise, majorés de 6 mois, sans pouvoir excéder 4 ans.
 
-pouvoir excéder 6 mois.
+a = 7e
 
-avant 3 ans 4 mois
+b = Egale ou supérieure à 3 ans 6 mois.
 
-6e
+c = 7e
 
-Trois quarts de l'ancienneté acquise majorés de 1 an.
+d = Ancienneté acquise diminuée de 3 ans 6 mois.
 
-6e échelon :
+a = 7e
 
-après 1 an
+b = Inférieure à 3 ans 6 mois.
 
-6e
+c = 6e
 
-Un tiers de l'ancienneté acquise au-delà de 1 an.
+d = Quatre septièmes de l'ancienneté acquise majorés de 1 an 6 mois.
 
-avant 1 an
+a = 6e
 
-6e
+c = 6e
 
-Sans ancienneté.
+d = Un demi de l'ancienneté acquise.
 
-5e échelon
+a = 5e
 
-5e
+c = 5e
 
-Six septièmes de l'ancienneté acquise.
+d = Ancienneté acquise.
 
-4e échelon
+a = 4e
 
-4e
+c = 4e
 
-Cinq septièmes de l'ancienneté acquise.
+d = Cinq sixièmes de l'ancienneté acquise.
 
-3e échelon
+a = 3e
 
-3e
+c = 3e
 
-Cinq sixièmes de l'ancienneté acquise.
+d = Cinq sixièmes de l'ancienneté acquise majorés de 10 mois.
 
-Technicien supérieur
+a = 2e
 
-7e échelon :
+b = Egale ou supérieure à 1 an.
 
-après 3 ans 4 mois
+c = 3e
 
-7e
+d = Cinq sixièmes de l'ancienneté acquise diminuée de 1 an.
 
-Trois quarts de l'ancienneté acquise au-delà de 3 ans 4 mois sans pouvoir excéder 6 mois.
+TECHNICIEN SUPERIEUR (NOUVEAU GRADE)
 
-avant 3 ans 4 mois
+I = SITUATION DANS LE CORPS DES TECHNICIENS à la date de la nomination en qualité d'ingénieur stagiaire ou d'ingénieur de l'industrie et des mines
 
-6e
+a) = Echelon
 
-Trois quarts de l'ancienneté acquise majorés de 1 an.
+b) = Ancienneté
 
-6e échelon :
+II = SITUATION NOUVELLE dans le grade d'ingénieur de l'industrie et des mines
 
-après 1 an
+c) = Echelon
 
-6e
+d) = Ancienneté
 
-Un tiers de l'ancienneté acquise au-delà de 1 an.
+a = 8e
 
-avant 1 an
+c = 7e
 
-6e
+d = Trois quarts de l'ancienneté acquise, sans pouvoir excéder 4 ans. a = 7e
 
-Sans ancienneté.
+c = 6e
 
-5e échelon
+d = Cinq huitièmes de l'ancienneté acquise majorés de 1 an.
 
-5e
+a = 6e
 
-Six septièmes de l'ancienneté acquise.
+b = Egale ou supérieure à 1 an.
 
-4e échelon
+c = 6e
 
-4e
+d = Un tiers de l'ancienneté acquise au-delà de 1 an.
 
-Cinq septièmes de l'ancienneté acquise.
+a = 6e
 
-3e échelon
+b = Inférieure à 1 an.
 
-3e
+c = 6e
 
-Cinq sixièmes de l'ancienneté acquise.
+d = Sans ancienneté.
 
-2e échelon
+a = 5e
 
-2e
+c = 5e
 
-Moitié de l'ancienneté acquise.
+d = Ancienneté acquise.
 
-1er échelon
+a = 4e
 
-1er
+c = 4e
 
-Moitié de l'ancienneté acquise au-delà de 2 ans, majorée de 6 mois.
+d = Cinq sixièmes de l'ancienneté acquise.
 
-Technicien
+a = 3e
 
-12e échelon
+c = 3e
 
-6e
+d = Ancienneté acquise.
 
-Moitié de l'ancienneté acquise sans pouvoir excéder 3 ans 6 mois.
+a = 2e
 
-11e échelon
+c = 2e
 
-5e
+d = Trois cinquièmes de l'ancienneté acquise.
 
-Moitié de l'ancienneté acquise, majorée de 1 an.
+a = 1er
 
-10e échelon :
+b = Egale ou supérieure à 1 an.
 
-après 2 ans
+c = 1er
 
-5e
+d = Un demi de l'ancienneté acquise au-delà de 1 an, majoré de 6 mois
 
-Ancienneté acquise au-delà de 2 ans.
+TECHNICIEN (NOUVEAU GRADE)
 
-avant 2 ans
+I = SITUATION DANS LE CORPS DES TECHNICIENS à la date de la nomination en qualité d'ingénieur stagiaire ou d'ingénieur de l'industrie et des mines
 
-4e
+a) = Echelon
 
-Moitié de l'ancienneté acquise, majorée de 1 an 6 mois.
+b) = Ancienneté
 
-9e échelon
+II = SITUATION NOUVELLE dans le grade d'ingénieur de l'industrie et des mines
 
-4e
+c) = Echelon
 
-Moitié de l'ancienneté acquise.
+d) = Ancienneté
 
-8e échelon
+a = 13e
 
-3e
+c = 7e
 
-Moitié de l'ancienneté acquise, majorée de 1 an.
+d = Un demi de l'ancienneté acquise, sans pouvoir excéder 4 ans.
 
-7e échelon :
+a = 12e
 
-après 1 an
+c = 6e
 
-3e
+d = Sept huitièmes de l'ancienneté acquise.
 
-Moitié de l'ancienneté acquise au-delà de 1 an.
+a = 11e
 
-avant 1 an
+c = 5e
 
-2e
+d = Deux tiers de l'ancienneté acquise majorés de 1 an.
 
-Moitié de l'ancienneté acquise, majorée de 1 an.
+a = 10e
 
-6e échelon
+b = Egale ou supérieure à 2 ans.
 
-2e
+c = 5e
 
-Moitié de l'ancienneté acquise.
+d = Ancienneté acquise au-delà de 2 ans.
 
-5e échelon
+a = 10e
 
-1er
+b = Inférieure à 2 ans.
 
-Moitié de l'ancienneté acquise, majorée de 3 mois.
+c = 4e
 
-4e échelon :
+d = Un demi de l'ancienneté acquise majoré de 1 an 6 mois.
 
-après 1 an
+a = 9e
 
-1er
+c = 4e
 
-Moitié de l'ancienneté acquise au-delà de 1 an.
+d = Un demi de l'ancienneté acquise.
 
-avant 1 an
+a = 8e
 
-1er
+c = 3e
 
-Sans ancienneté.
+d = Un demi de l'ancienneté acquise majoré de 1 an.
 
-3e, 2e et 1er échelons
+a = 7e
 
-1er
+b = Egale ou supérieure à 1 an.
 
-Sans ancienneté.
+c = 3e
 
-C. - Les fonctionnaires civils de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps classé dans la catégorie B ou de même niveau autre que le corps des techniciens de l'industrie et des mines sont classés dans le grade d'ingénieur de l'industrie et des mines à un échelon déterminé selon les correspondances fixées au B ci-dessus, en prenant en compte la situation qui aurait été la leur si, préalablement à leur nomination dans le grade d'ingénieur de l'industrie et des mines, ils avaient été classés dans le corps des techniciens de l'industrie et des mines à un grade équivalent et à un échelon comportant un indice égal ou, à défaut, immédiatement
+d = Un demi de l'ancienneté acquise au-delà de 1 an.
 
-supérieur à ceux détenus dans leur corps d'origine avec conservation de l'ancienneté dans les limites fixées par l'article 5-1 (paragraphe B, 2° et 3° alinéas) du décret n° 73-910 du 20 septembre 1973 susvisé.
+a = 7e
 
-D. - Les fonctionnaires civils de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps classé dans les catégories C et D ou de même niveau lors de leur admission en qualité d'élève-ingénieur de l'industrie et des mines sont classés à un échelon déterminé selon les correspondances fixées au B ci-dessus en prenant en compte la situation qui aurait été la leur si, préalablement à leur nomination en qualité d'ingénieur stagiaire, ils avaient été classés dans le corps des techniciens de l'industrie et des mines dans les conditions fixées par l'article 5 du décret n° 73-910 du 20 septembre 1973 susvisé.
+b = Inférieure à 1 an.
+
+c = 2e
+
+d = Un demi de l'ancienneté acquise majoré de 1 an.
+
+a = 6e
+
+c = 2e
+
+d = Un demi de l'ancienneté acquise.
+
+a = 5e
+
+c = 1er
+
+d = Un demi de l'ancienneté acquise majoré de 3 mois.
+
+a = 4e
+
+b = Egale ou supérieure à 1 an.
+
+c = 1er
+
+d = Un demi de l'ancienneté acquise au-delà de 1 an.
+
+a = 4e
+
+b = Inférieure à 1 an.
+
+c = 1er
+
+d = Sans ancienneté.
+
+a = 1er, 2e et 3e
+
+c = 1er
+
+d = Sans ancienneté.
+
+C. - Les fonctionnaires civils de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps classé dans la catégorie B ou de même niveau autre que le corps des techniciens de l'industrie et des mines sont classés dans le grade d'ingénieur de l'industrie et des mines à un échelon déterminé selon les correspondances fixées au B ci-dessus, en prenant en compte la situation qui aurait été la leur si, préalablement à leur nomination dans le grade d'ingénieur de l'industrie et des mines, ils avaient été classés dans le corps des techniciens de l'industrie et des mines à un grade équivalent et à un échelon comportant un indice égal ou, à défaut, immédiatement supérieur à ceux détenus dans leur corps d'origine avec conservation de l'ancienneté dans les limites fixées par les deuxième et troisième alinéas du IV de l'article 3 du décret n° 94-1016 du 18 novembre 1994 fixant les dispositions statutaires communes applicables à divers corps de fonctionnaires de catégorie B.
+
+Toutefois, les fonctionnaires appartenant à un corps ou à un cadre d'emplois ou occupant un emploi de catégorie B ou de niveau équivalent dont l'indice brut terminal est au moins égal à 638 sont, à la date de leur nomination en qualité d'ingénieur stagiaire, classés dans le grade d'ingénieur de l'industrie et des mines à l'échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui perçu dans le précédent emploi. Dans la limite de l'ancienneté moyenne exigée à l'article 13 ci-dessous pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon acquise dans leur précédent emploi dans les conditions définies aux troisième et quatrième alinéas du A ci-dessus.
+
+D. - Les fonctionnaires civils de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps ou cadre d'emplois des catégories C ou D ou de niveau équivalent autres que ceux visés au I de l'article 3 du décret n° 94-1016 du 18 novembre 1994 précité lors de leur admission en qualité d'élève ingénieur sont classés à un échelon déterminé en appliquant à la date de leur nomination en qualité d'ingénieur stagiaire de l'industrie et des mines les modalités fixées au B ci-dessus à la fraction de l'ancienneté qui aurait été prise en compte en application du II et du III de l'article 3 du décret n° 94-1016 du 18 novembre 1994 précité.
+
+Les fonctionnaires civils de l'Etat, des collectivités territoriales et des établissements publics qui en dépendent appartenant à un corps ou cadre d'emplois des catégories C ou D ou de niveau équivalent visés au I de l'article 3 du décret n° 94-1016 du 18 novembre 1994 précité sont classés dans le grade d'ingénieur stagiaire de l'industrie et des mines à un échelon déterminé suivant le tableau figurant au B. Pour ce classement, est prise en compte la situation qui aurait été la leur si, avant leur nomination dans le grade d'ingénieur, ils avaient été classés dans le grade de technicien de l'industrie et des mines en application de l'article 3-I du décret n° 94-1016 du 18 novembre 1994 précité.
 
 E. - Les agents non titulaires sont classés à un échelon déterminé en prenant en compte, sur la base des durées moyennes fixées à l'article 13 ci-dessous pour chaque avancement d'échelon, une fraction de leur ancienneté de service dans les conditions suivantes :
 
@@ -239,3 +285,7 @@ Dans tous les cas, les services pris en compte doivent avoir été accomplis de 
 En outre, ne sont pas considérés comme interruptifs de la continuité des services, d'une part, l'accomplissement des obligations du service national et, d'autre part, les congés sans traitement obtenus en vertu des articles 19 à 23 du décret n° 86-83 du 17 janvier 1986 susvisé.
 
 Les dispositions qui précèdent ne peuvent avoir pour conséquence de placer les intéressés dans une situation plus favorable que celle qui résulterait d'un classement à un échelon comportant un traitement égal ou, à défaut, immédiatement supérieur à celui qu'ils percevaient dans leur ancien emploi avec conservation de l'ancienneté d'échelon dans les conditions définies aux deux derniers alinéas du paragraphe A ci-dessus.
+
+F. - Dans le cas où l'application des dispositions des A à D ci-dessus aboutit à classer les intéressés à un indice inférieur à celui qu'ils détenaient dans le grade précédent, ces fonctionnaires conservent, à titre personnel, le bénéfice de leur indice antérieur jusqu'au jour où ils bénéficieront dans leur nouveau corps d'un indice au moins égal.
+
+G. - Les agents qui avaient auparavant la qualité d'agent d'une organisation internationale intergouvernementale sont classés lors de leur titularisation selon les règles fixées au E ci-dessus, à l'exception de celle prévue au dernier alinéa de cet article. Les services qu'ils ont accomplis dans une telle organisation sont au préalable assimilés à des services accomplis dans un emploi correspondant du niveau des catégories A, B, C ou D, selon le cas.

@@ -1,0 +1,5 @@
+# Article 6
+
+La participation aux concours prévus à l'article 4 ci-dessus est subordonnée à la souscription par les candidats de l'engagement d'effectuer la totalité du stage dans les conditions prévues à l'article 7 ci-après et de servir cinq ans dans un corps civil ou militaire de la fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique hospitalière.
+
+Si l'engagement souscrit conformément aux dispositions du précédent alinéa est rompu par une démission, ou par le fait ou la faute de l'intéressé, plus de trois mois après la nomination en qualité de fonctionnaire stagiaire, l'intéressé est tenu de rembourser à l'agent comptable une somme forfaitaire dans les conditions et selon les modalités fixées par un arrêté conjoint du ministre chargé de la météorologie et du ministre chargé du budget. Cette somme est fixée par arrêté du ministre chargé de la météorologie sans pouvoir dépasser le montant cumulé du traitement perçu par l'intéressé en qualité de stagiaire, de l'indemnité de résidence et des frais d'études correspondants.

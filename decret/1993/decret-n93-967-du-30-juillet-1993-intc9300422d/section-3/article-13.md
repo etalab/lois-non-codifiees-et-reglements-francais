@@ -14,32 +14,46 @@ La période accomplie par les intéressés en qualité d'inspecteur stagiaire, �
 
 Les inspecteurs de police promus au grade d'inspecteur principal sont classés conformément au tableau ci-après :
 
-GRADE ET ÉCHELONSGRADE ET ÉCHELONSANCIENNETÉ
+GRADE ET ÉCHELONS
+
+ANCIENNETÉ
 
 Inspecteur
 
 Inspecteur principal
 
-7e  échelon5e  échelon
+8e échelon
 
-Ancienneté maintenue dans la limite de 2 ans.
+4e échelon
 
-6e  échelon5e  échelon
+Ancienneté conservée dans la limite de 2 ans.
+
+7e échelon
+
+3e échelon
+
+Ancienneté conservée.
+
+6e échelon
+
+3e échelon
 
 Sans ancienneté.
 
-5e  échelon4e  échelon
+5e échelon
 
-Ancienneté maintenue.
+2e échelon
 
-4e  échelon3e  échelon
+Ancienneté conservée.
 
-Ancienneté maintenue.
+4e échelon
 
-3e  échelon2e  échelon
+1er échelon
 
-Ancienneté maintenue.
+Moitié de l'ancienneté conservée.
 
-2e  échelon1er échelon
+3e échelon
 
-Ancienneté maintenue.
+1er échelon
+
+Sans ancienneté.

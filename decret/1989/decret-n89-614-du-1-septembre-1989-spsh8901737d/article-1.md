@@ -4,6 +4,8 @@ Le classement indiciaire applicable au corps des préparateurs en pharmacie est 
 
 Indices bruts :
 
-Classe normale : 289-487 (513) (533) [*(1)*].
+- classe normale : 303 - 544 (560 (1)) (579 (1)) ;
 
-Classe fonctionnelle : 384-579.
+- classe fonctionnelle : 384 - 612.
+
+(1) Echelons exceptionnels.

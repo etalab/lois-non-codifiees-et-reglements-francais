@@ -1,35 +1,39 @@
 # Article 19
 
-Les inspecteurs divisionnaires peuvent être nommés dans des emplois de chef inspecteur divisionnaire dont la liste est fixée par arrêté conjoint du ministre chargé de l'intérieur, du ministre chargé du budget et du ministre chargé de la fonction publique, dans la limite des postes budgétaires prévus à cet effet.
+Les inspecteurs divisionnaires comptant au moins un an d'ancienneté au 3e échelon de leur grade peuvent être nommés dans des emplois fonctionnels dont la liste est fixée par arrêté conjoint du ministre de l'intérieur, du ministre du budget et du ministre de la fonction publique, dans la limite des postes budgétaires prévus à cet effet.
 
-Tout inspecteur divisionnaire nommé à l'un de ces emplois peut se voir retirer cet emploi dans l'intérêt du service.
+Ces emplois peuvent être retirés dans l'intérêt du service.
 
-L'emploi de chef inspecteur divisionnaire comprend deux échelons. La durée du temps au 1er échelon pour accéder à un échelon supérieur est fixée à deux années.
+L'emploi fonctionnel comprend deux échelons. La durée du temps passé au 1er échelon est fixée à deux ans.
 
 Les inspecteurs divisionnaires nommés à l'un de ces emplois sont classés conformément au tableau ci-après :
 
-SITUATION DANS L E GRADE
+SITUATION dans le grade
 
 SITUATION DANS L'EMPLOI
 
 Inspecteur divisionnaire
 
-Chef inspecteur
+Inspecteur divisionnaire
 
-divisionnaire
+Emploi fonctionnel
 
-Ancienneté
+Ancienneté dans l'échelon
 
-dans l'échelon
+5e échelon
 
-5e  échelon.2e  échelon   Sans ancienneté.
+2e échelon
 
-4e  échelon.2e  échelon   Sans ancienneté.
+Sans ancienneté.
 
-3e  échelon.1er échelon   Ancienneté
+4e échelon
 
-maintenue.
+1er échelon
 
-2e  échelon.1er échelon   Sans ancienneté.
+Ancienneté maintenue.
 
-1er échelon.1er échelon   Sans ancienneté.
+3e échelon
+
+1er échelon
+
+Sans ancienneté.

@@ -11,79 +11,34 @@ Préparateur en pharmacie de classe normale
 <td> :Echelons:Indices bruts:</td>
 </tr>
 <tr>
-<td> :2e +    :    533      :</td>
+<td> :2e +    :    579      :</td>
 </tr>
 <tr>
-<td> :1er +   :    513      :</td>
+<td> :9e      :    544      :</td>
 </tr>
 <tr>
-<td> :7e      :    487      :</td>
+<td> :8e      :    515      :</td>
 </tr>
 <tr>
-<td> :6e      :    448      :</td>
+<td> :7e      :    496      :</td>
 </tr>
 <tr>
-<td> :5e      :    416      :</td>
+<td> :6e      :    457      :</td>
 </tr>
 <tr>
-<td> :4e      :</td>
+<td> :5e      :    424      :</td>
 </tr>
 <tr>
-<td>
-<br/>   au 1er août 1990 : 374</td>
+<td> :4e      :    386      :</td>
 </tr>
 <tr>
-<td>
-<br/>   au 1er août 1991 : 379</td>
+<td> :3e      :    356      :</td>
 </tr>
 <tr>
-<td>
-<br/>   au 1er août 1992 : 386</td>
+<td> :3e      :    326      :</td>
 </tr>
 <tr>
-<td> :3e      :</td>
-</tr>
-<tr>
-<td>
-<br/>   au 1er août 1990 : 343</td>
-</tr>
-<tr>
-<td>
-<br/>   au 1er août 1991 : 348</td>
-</tr>
-<tr>
-<td>
-<br/>   au 1er août 1992 : 356</td>
-</tr>
-<tr>
-<td> :2e      :</td>
-</tr>
-<tr>
-<td>
-<br/>   au 1er août 1990 : 311</td>
-</tr>
-<tr>
-<td>
-<br/>   au 1er août 1991 : 317</td>
-</tr>
-<tr>
-<td>
-<br/>   au 1er août 1992 : 326</td>
-</tr>
-<tr>
-<td> :1er     :</td>
-</tr>
-<tr>
-<td>
-<br/>   au 1er août 1990 : 289</td>
-</tr>
-<tr>
-<td>
-<br/>   au 1er août 1991 : 294</td>
-</tr>
-<tr>
-<td>
-<br/>   au 1er août 1992 : 303</td>
+<td> :1er     :    303      :</td>
 </tr>
 <tr>
 <td> -------------------------</td>
@@ -104,19 +59,22 @@ Préparateur en pharmacie de classe normale
 <td> :Echelons:Indices bruts:</td>
 </tr>
 <tr>
-<td> :6e      :    579      :</td>
+<td> :7e      :    612      :</td>
 </tr>
 <tr>
-<td> :5e      :    538      :</td>
+<td> :6e      :    580      :</td>
 </tr>
 <tr>
-<td> :4e      :    501      :</td>
+<td> :5e      :    549      :</td>
 </tr>
 <tr>
-<td> :3e      :    464      :</td>
+<td> :4e      :    511      :</td>
 </tr>
 <tr>
-<td> :2e      :    433      :</td>
+<td> :3e      :    474      :</td>
+</tr>
+<tr>
+<td> :2e      :    443      :</td>
 </tr>
 <tr>
 <td> :1er     :    384      :</td>
