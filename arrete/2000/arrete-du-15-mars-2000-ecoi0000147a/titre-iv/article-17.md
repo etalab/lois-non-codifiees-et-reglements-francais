@@ -18,7 +18,7 @@ Si l'équipement sous pression est destiné à être exploité avec une présenc
 
 Si l'équipement sous pression est destiné à être exploité sans présence humaine permanente, le contrôle porte sur le respect des prescriptions de l'article 6 (Paragraphe 2) ci-avant.
 
-b) Récipients à couvercle amovible à fermeture rapide.
+b) Appareils à couvercle amovible à fermeture rapide.
 
 Le contrôle porte sur :
 
@@ -30,6 +30,6 @@ Le contrôle porte sur :
 
 - l'existence de consignes de sécurité affichées à proximité de ces récipients.
 
-Paragraphe 2. A l'issue du contrôle de mise en service ou, le cas échéant, de la réalisation des actions correctives qui auront pu être demandées, l'organisme qui a procédé à ce contrôle appose la marque du poinçon de l'Etat dit  à la tête de cheval  et la date de fin du contrôle au voisinage des autres inscriptions réglementaires. Il délivre au propriétaire une attestation qui doit être jointe au dossier mentionné à l'article 9 b de l'équipement sous pression concerné.
+Paragraphe 2. A l'issue du contrôle de mise en service ou, le cas échéant, de la réalisation des actions correctives qui auront pu être demandées, l'organisme qui a procédé à ce contrôle appose la marque du poinçon de l'Etat dit à la tête de cheval et la date de fin du contrôle au voisinage des autres inscriptions réglementaires. Il délivre au propriétaire une attestation qui doit être jointe au dossier mentionné à l'article 9 b de l'équipement sous pression concerné.
 
 Paragraphe 3. L'exploitant adresse un exemplaire de cette attestation, ainsi que la déclaration prévue au point 1 de l'annexe 3 du décret du 13 décembre 1999, au directeur régional de l'industrie, de la recherche et de l'environnement avant la mise en service de l'équipement sous pression.
