@@ -2,7 +2,7 @@
 
 A la date d'expiration du mandat des membres des conseils d'administration des organismes du régime général de sécurité sociale prévue à l'article 1er de la loi n° 89-474 du 10 juillet 1989 portant dispositions relatives à la sécurité sociale et à la formation continue des personnels hospitaliers, et à titre transitoire, la totalité des membres de ces conseils est renouvelée dans les conditions suivantes :
 
-1° La durée du mandat est, par dérogation aux dispositions de l'article L. 231-2 du code de la sécurité sociale, fixée à cinq ans ;
+1° La durée du mandat est, par dérogation aux dispositions de l'article L. 231-2 du code de la sécurité sociale, fixée à cinq ans et six mois ;
 
 2° Le mode de désignation des membres des conseils est fixé, pour ce seul renouvellement, ainsi qu'il suit :
 
