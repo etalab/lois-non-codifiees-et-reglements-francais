@@ -4,43 +4,43 @@ Le conseil d'administration est composé de vingt-huit membres :
 
 a) Un conseiller d'Etat, président, désigné sur proposition du vice-président du Conseil d'Etat.
 
-b) Onze membres de droit :
+b) Douze membres de droit :
 
-Le directeur général de la police nationale ;
+- le directeur général de la police nationale ;
 
-Le préfet de police ;
+- le préfet de police ;
 
-Le directeur de l'administration de la police nationale ;
+- le directeur de l'administration de la police nationale ;
 
-Le directeur, chef de l'inspection générale de la police nationale ;
+- le directeur, chef de l'inspection générale de la police nationale ;
 
-Le directeur central de la police judiciaire ;
+- le directeur central de la police judiciaire ;
 
-Le directeur de la surveillance du territoire ;
+- le directeur de la surveillance du territoire ;
 
-Le directeur central de la sécurité publique ;
+- le directeur central de la sécurité publique ;
 
-Le directeur central de la police aux frontières ;
+- le directeur central de la police aux frontières ;
 
-Le directeur central des renseignements généraux ;
+- le directeur central des renseignements généraux ;
 
-Le directeur de la formation de la police nationale ;
+- le directeur de la formation de la police nationale ;
 
-Le chef du service central des compagnies républicaines de sécurité.
+- le directeur central des compagnies républicaines de sécurité ;
 
-c) Six personnalités désignées par le ministre de l'intérieur :
+- le directeur de l'évaluation de la performance et des affaires financières et immobilières.
 
-une sur proposition du ministre chargé du budget ;
+c) Cinq personnalités désignées par le ministre de l'intérieur :
 
-une sur proposition du garde des sceaux, ministre de la justice ;
+- une sur proposition du garde des sceaux, ministre de la justice ;
 
-une sur proposition du ministre de l'éducation nationale ;
+- une sur proposition du ministre de l'éducation nationale ;
 
-une sur proposition du ministre chargé de la fonction publique ;
+- une sur proposition du ministre chargé de la fonction publique ;
 
-un conseiller à la Cour de cassation, désigné sur proposition du premier président de la Cour de cassation ;
+- un conseiller à la Cour de cassation désigné sur proposition du premier président de la Cour de cassation ;
 
-un magistrat du parquet désigné sur proposition du procureur général près la Cour de cassation ;
+- un magistrat du parquet sur proposition du procureur général près la Cour de cassation.
 
 d) Trois personnalités qualifiées, choisies par le ministre de l'intérieur, en raison de leur compétence en matière de sécurité ;
 

@@ -16,4 +16,4 @@ Il établit chaque année un rapport d'activités pédagogique, administrative e
 
 Il peut prendre toute mesure conservatoire, et notamment accepter à titre provisoire les dons et legs consentis à l'école, sous réserve de l'acceptation définitive du conseil d'administration.
 
-Il peut déléguer sa signature au directeur adjoint, au directeur de la formation continue et de la recherche et au secrétaire général.
+Il peut déléguer sa signature au directeur adjoint, au directeur de la formation initiale, au directeur de la formation continue et de la recherche et au secrétaire général.
