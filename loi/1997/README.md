@@ -30,6 +30,7 @@
 - [Loi n° 97-966 du 21 octobre 1997 (MAEX9700014L)](loi-n-97-966-du-21-octobre-1997-maex9700014l)
 - [Loi n° 97-967 du 21 octobre 1997 (MAEX9700043L)](loi-n-97-967-du-21-octobre-1997-maex9700043l)
 - [Loi n° 97-968 du 21 octobre 1997 (MAEX9600121L)](loi-n-97-968-du-21-octobre-1997-maex9600121l)
+- [Loi n° 97-987 du 28 octobre 1997 (JUSX9600177L)](loi-n-97-987-du-28-octobre-1997-jusx9600177l)
 - [Loi n° 97-99 du 5 février 1997 (MAEX9600037L)](loi-n-97-99-du-5-fevrier-1997-maex9600037l)
 - [Loi n°97-179 du 28 février 1997 (MCCX9701930L)](loi-n97-179-du-28-fevrier-1997-mccx9701930l)
 - [Loi n°97-277 du 25 mars 1997 (ECOX9601788L)](loi-n97-277-du-25-mars-1997-ecox9601788l)
