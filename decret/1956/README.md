@@ -1,5 +1,6 @@
 # 1956
 
+- [Décret n°55-1188 du 3 septembre 1955](decret-n55-1188-du-3-septembre-1955)
 - [Décret n°56-913 du 5 septembre 1956](decret-n56-913-du-5-septembre-1956)
 - [Décret n°55-1595 du 7 décembre 1955](decret-n55-1595-du-7-decembre-1955)
 - [Décret n°56-284 du 9 mars 1956](decret-n56-284-du-9-mars-1956)
