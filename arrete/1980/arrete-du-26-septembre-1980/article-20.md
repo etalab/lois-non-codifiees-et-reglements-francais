@@ -1,3 +1,0 @@
-# Article 20
-
-Le directeur de la réglementation et du contentieux au ministère de l'intérieur, le délégué général pour l'armement et les chefs d'état-major de l'armée de terre, de la marine et de l'armée de l'air au ministère de la défense, le directeur de la prévention des pollutions au ministère de l'environnement et du cadre de vie, le directeur des relations du travail au ministère du travail et de la participation, le directeur de la qualité et de la sécurité industrielles au ministère de l'industrie, le directeur des transports terrestres au ministère des transports sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
