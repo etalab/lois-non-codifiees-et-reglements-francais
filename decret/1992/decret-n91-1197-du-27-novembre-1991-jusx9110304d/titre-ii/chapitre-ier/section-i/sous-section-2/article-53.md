@@ -14,4 +14,6 @@ Aucun membre du jury ne peut siéger plus de cinq années consécutives.
 
 Au cas où le nombre des candidats le justifie, plusieurs jurys peuvent être constitués.
 
+Les épreuves d'admission sont subies devant trois examinateurs désignés par le président du jury dans chacune des trois catégories de personnes énumérées aux 1°, 2° et 3°.
+
 Le jury peut s'adjoindre des examinateurs spécialisés avec voix consultative.
