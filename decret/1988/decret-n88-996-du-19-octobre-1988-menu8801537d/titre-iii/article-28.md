@@ -4,4 +4,4 @@ Le concours spécial est organisé chaque année par le ministre chargé de la s
 
 L'organisation du concours, le programme, la composition des jurys, la durée, la nature et la cotation des épreuves sont fixés par arrêté des ministres chargés des universités et de la santé.
 
-Les candidats peuvent se présenter dans trois circonscriptions [*nombre*] au cours d'une même année. En cas d'échec, ils peuvent se présenter à nouveau dans trois circonscriptions une fois au cours de l'une des années ultérieures. Ils font connaître, avant le concours, le diplôme d'études spécialisées qu'ils souhaitent préparer.
+Les candidats peuvent se présenter au cours d'une même année aux deux concours institués dans les zones géographiques mentionnées à l'article 12 du présent décret. En cas d'échec, ils ne peuvent se présenter à nouveau aux mêmes concours qu'une seule fois au cours de l'une des années ultérieures.

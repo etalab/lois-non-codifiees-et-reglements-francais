@@ -1,3 +1,3 @@
 # Article 29
 
-Après proclamation des résultats, les candidats reçus à plusieurs concours doivent opter pour une circonscription dans un délai de trente jours après la proclamation du dernier résultat [*point de départ*]. Ils sont admis à suivre la formation correspondant au diplôme d'études spécialisées au titre duquel ils ont été reçus.
+Après publication des résultats du concours, les candidats classés communiquent par écrit, au Centre national des concours d'internat, par ordre préférentiel, les circonscriptions et disciplines d'internat dans lesquelles ils souhaitent être affectés.
