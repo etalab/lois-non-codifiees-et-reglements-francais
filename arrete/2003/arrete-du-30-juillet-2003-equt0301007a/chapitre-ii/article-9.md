@@ -1,0 +1,3 @@
+# Article 9
+
+Des examens médicaux préalables à la reprise de l'exercice de fonctions de sécurité sont effectués après une absence pour cause de maladie professionnelle, un congé de maternité, un arrêt de travail d'au moins huit jours pour cause d'accident du travail, un arrêt de travail d'au moins vingt et un jours pour cause de maladie ou d'accident non professionnel, en cas d'absences répétées pour raisons de santé ainsi qu'en cas de suspension d'exercice de fonctions de sécurité prévue aux articles 30 et 36 afin de s'assurer du maintien de l'aptitude physique d'un agent exerçant ces fonctions.
