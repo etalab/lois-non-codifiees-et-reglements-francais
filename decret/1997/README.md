@@ -376,6 +376,8 @@
 - [Décret n°96-902 du 15 octobre 1996 (ECOT9694432D)](decret-n96-902-du-15-octobre-1996-ecot9694432d)
 - [Décret n°97-1147 du 15 décembre 1997 (MESH9723895D)](decret-n97-1147-du-15-decembre-1997-mesh9723895d)
 - [Décret n°97-1149 du 15 décembre 1997 (MENA9703627D)](decret-n97-1149-du-15-decembre-1997-mena9703627d)
+- [Décret n°97-1153 du 15 décembre 1997 (MESG9711462D)](decret-n97-1153-du-15-decembre-1997-mesg9711462d)
+- [Décret n°97-1154 du 15 décembre 1997 (EQUP9700292D)](decret-n97-1154-du-15-decembre-1997-equp9700292d)
 - [Décret n°97-25 du 15 janvier 1997 (ECOT9751569D)](decret-n97-25-du-15-janvier-1997-ecot9751569d)
 - [Décret n°97-34 du 15 janvier 1997 (FPPX9600150D)](decret-n97-34-du-15-janvier-1997-fppx9600150d)
 - [Décret n°97-355 du 15 avril 1997 (ECOT9751580D)](decret-n97-355-du-15-avril-1997-ecot9751580d)
