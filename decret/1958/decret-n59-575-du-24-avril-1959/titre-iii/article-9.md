@@ -1,3 +1,0 @@
-# Article 9
-
-Le chef de la documentation est recruté par voie de détachement, soit parmi les agents du ministère des finances appartenant à la catégorie B prévue à l'article 17 de l'ordonnance du 4 février 1959, soit parmi les aides de documentation de la présidence du conseil soit parmi les sous-bibliothécaires relevant du ministère de l'éducation nationale. Il peut être également choisi, après inscription sur une liste d'aptitude, parmi les secrétaires du commissariat général du plan. Quelle que soit leur origine, les candidats doivent, à la date de leur nomination, justifier d'au moins dix ans de services civils.
