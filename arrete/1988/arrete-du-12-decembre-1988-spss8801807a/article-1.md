@@ -18,4 +18,6 @@ Les rémunérations servies pour :
 
 - les programmes d'insertion locaux prévus par le décret n° 87-236 du 3 avril 1987 modifié ;
 
-- les programmes locaux d'insertion en faveur des femmes.
+- les programmes locaux d'insertion en faveur des femmes ;
+
+- les allocations mensuelles de l'aide sociale à l'enfance prévues à l'article 43 du code de la famille et de l'aide sociale.

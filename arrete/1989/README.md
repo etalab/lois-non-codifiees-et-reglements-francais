@@ -75,6 +75,7 @@
 - [Arrêté du 5 juillet 1989 (SPSS8901458A)](arrete-du-5-juillet-1989-spss8901458a)
 - [Arrêté du 5 juin 1989 (PTTT8900522A)](arrete-du-5-juin-1989-pttt8900522a)
 - [Arrêté du 5 juin 1989 (SPSH8901187A)](arrete-du-5-juin-1989-spsh8901187a)
+- [Arrêté du 5 septembre 1989 (SPSP8901766A)](arrete-du-5-septembre-1989-spsp8901766a)
 - [Arrêté du 5 mai 1989 (AGRS8900807A)](arrete-du-5-mai-1989-agrs8900807a)
 - [Arrêté du 5 mai 1989 (MENU8901043A)](arrete-du-5-mai-1989-menu8901043a)
 - [Arrêté du 6 avril 1989 (RESB8900010A)](arrete-du-6-avril-1989-resb8900010a)
