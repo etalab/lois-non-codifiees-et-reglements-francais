@@ -1,5 +1,3 @@
 # Article 2
 
-Le montant maximal de la rémunération des services publics de distribution d'eau, par facture portant perception de la contre-valeur de la redevance de l'agence de l'eau, est fixé à :
-
-1,237 F hors taxe à compter du 1er janvier 1984.
+L'arrêté du 7 juillet 1983 fixant les modalités de rattachement au budget de l'Etat par voie de fonds de concours de la participation des organismes de sécurité sociale au financement des dépenses afférentes aux élections des membres de leurs conseils d'administration est abrogé.

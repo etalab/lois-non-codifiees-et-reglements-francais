@@ -1,5 +1,3 @@
 # Article 1
 
-Les avions à réaction sont classés dans les cinq groupes acoustiques prévus à l'article 3 de l'arrêté du 24 janvier 1956 modifié, par référence à l'annexe 16 à la convention de Chicago susvisée.
-
-La méthode de classement est définie dans l'annexe au présent arrêté.
+La garantie de l'Etat est donnée, sous réserve de la réalisation de la condition suspensive précisée à l'article 2 ci-après, aux prêts accordés pour le développement économique et social de la collectivité territoriale de Mayotte par la Société de crédit pour le développement des départements d'outre-mer.
