@@ -1,4 +1,4 @@
-# Décret du 29 décembre 1986 relatif à l’appellation d’origine "Maroilles" ou "Marolles"
+# Décret n°86-1363 du 29 décembre 1986 relatif à l’appellation d’origine "Munster" ou "Munster-Géromé"
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

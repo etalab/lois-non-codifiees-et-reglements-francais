@@ -11,6 +11,7 @@
 - [Décret n°86-1316 du 26 décembre 1986](decret-n86-1316-du-26-decembre-1986)
 - [Décret du 29 décembre 1986](decret-du-29-decembre-1986)
 - [Décret n°86-1361 du 29 décembre 1986](decret-n86-1361-du-29-decembre-1986)
+- [Décret n°86-1363 du 29 décembre 1986](decret-n86-1363-du-29-decembre-1986)
 - [Décret n°86-1423 du 29 décembre 1986 (INTB8700004D)](decret-n86-1423-du-29-decembre-1986-intb8700004d)
 - [Décret n°86-1357 du 30 décembre 1986](decret-n86-1357-du-30-decembre-1986)
 - [Décret n°86-1366 du 30 décembre 1986](decret-n86-1366-du-30-decembre-1986)

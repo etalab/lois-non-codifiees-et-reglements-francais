@@ -1,11 +1,13 @@
 # Article 3
 
-La production du lait de brebis, sa livraison aux laiteries et la fabrication des fromages "Ossau-Iraty - Brebis Pyrénées" ou "Petit Ossau-Iraty - Brebis Pyrénées" doivent selon les usages locaux, loyaux et constants, répondre notamment aux conditions suivantes :
+Le fromage bénéficiant de l'appellation d'origine "Maroilles" ou "Marolles" est un fromage à pâte molle, à égouttage spontané, à caillé divisé non lavé, de forme carrée, fabriqué exclusivement avec du lait de vache emprésuré dans des moules dont le côté a une dimension intérieure de 12,5 à 13 centimètres, à pâte légèrement salée et fermentée, à croûte lavée sans utilisation de fongicide, affiné pendant cinq semaines au moins à compter du jour de fabrication, renfermant au minimum 45 grammes de matière grasse pour 100 grammes de fromage après complète dessiccation et dont le poids total de matière sèche ne doit pas être inférieur à 360 grammes par fromage.
 
-Le lait utilisé doit provenir de brebis appartenant à des races traditionnelles adaptées aux régions de production, élevées selon les usages avec une alimentation à base de fourrage et de céréales secondaires.
+Toutefois, bénéficient également de l'appellation d'origine "Maroilles" ou "Marolles" les fromages dénommés : Sorbais, Mignon et Quart qui répondent aux conditions qui précèdent, mais étant fabriqués dans des moules de format réduit, présentent les poids totaux de matière sèche et les durées d'affinage minimales à compter du jour de fabrication ci-après :
 
-Le lait de brebis ne peut être livré par les producteurs aux laiteries ou transformé par eux-mêmes en fromage moins de vingt jours après l'agnelage.
+- Sorbais : moules de 12 à 12,5 centimètres de côté ; 270 grammes de matière sèche totale au minimum par fromage et durée d'affinage d'au moins quatre semaines ;
 
-Pour la fabrication du fromage "Ossau-Iraty - Brebis Pyrénées ou "Petit Ossau-Iraty - Brebis Pyrénées", l'emprésurage doit avoir lieu au plus tard quarante-huit heures après la traite la plus ancienne.
+- Mignon : moules de 11 à 11,5 cemtimètres de côté ; 180 grammes de matière sèche totale au minimum par fromage et durée d'affinage d'au moins trois semaines ;
 
-La coagulation du lait est obtenue au moyen de présure, à l'exclusion de toute autre enzyme coagulante, notamment d'origine fongique ou microbienne.
+- Quart : moules de 8 à 8,5 centimètres de côté ; 90 grammes de matière sèche totale au minimum par fromage et durée d'affinage d'au moins deux semaines.
+
+L'appellation "Maroilles" ou "Marolles" doit accompagner la dénomination Sorbais, Mignon ou Quart lors de la vente de ces fromages.
