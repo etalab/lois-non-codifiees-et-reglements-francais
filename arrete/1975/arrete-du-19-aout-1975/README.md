@@ -1,4 +1,4 @@
-# Arrêté du 19 août 1975 relatif à la déclaration prévue à l'article L. 162-10 du code de la santé publique.
+# Arrêté du 19 août 1975 instituant une indemnité pour travail du dimanche et des jours fériés en faveur des agents communaux.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
