@@ -2,7 +2,7 @@
 
 Nul ne peut être électeur s'il tombe sous le coup des dispositions des articles L. 199 et L. 200 du code électoral.
 
-Les conditions pour être électeur et figurer sur une liste électorale s'apprécient à la date de clôture de la procédure d'établissement des listes.
+Les conditions pour être électeur et figurer sur une liste électorale s'apprécient au 1er juillet de l'année précédant les élections en vue du renouvellement général des organes dirigeants des comités mentionnés à l'article 1er.
 
 Toute personne, qui demande son inscription sur une des listes électorales, doit souscrire une déclaration auprès de la commission électorale.
 
@@ -15,6 +15,8 @@ b) Ses date et lieu de naissance ;
 c) Son adresse ;
 
 d) Le collège d'électeurs, et éventuellement la catégorie, au titre duquel il demande son inscription.
+
+e) Son numéro d'identification, s'il exerce la profession de marin.
 
 Cette demande est accompagnée des pièces justificatives nécessaires à son examen. Elle précise que l'électeur ne s'est pas fait inscrire dans un autre comité et qu'il s'abstiendra de demander son inscription dans un autre comité avant d'avoir obtenu sa radiation de celui-ci.
 
