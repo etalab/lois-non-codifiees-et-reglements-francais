@@ -112,4 +112,8 @@ Le président de la Fédération nationale des comités régionaux du tourisme, 
 
 Le président du Centre de coopération pour la réalisation d'équipements de loisirs, ou son représentant.
 
-III - Vingt-trois personnalités choisies en raison de leur compétence en matière de tourisme.
+le président du Syndicat national des résidences du tourisme, ou son représentant ;
+
+le président du Comité national olympique et sportif français ou son représentant.
+
+III - Vingt-cinq personnalités choisies en raison de leur compétence en matière de tourisme.
