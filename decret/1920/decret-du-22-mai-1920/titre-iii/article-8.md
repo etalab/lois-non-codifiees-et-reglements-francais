@@ -26,14 +26,4 @@ Le conseil de perfectionnement entendu :
 
 11° Sur la publication du catalogue des collections ;
 
-12° Sur l'organisation et le fonctionnement de la bibliothèque ;
-
-La commission technique du laboratoire d'essais entendue :
-
-13° Sur l'organisation et le fonctionnement du laboratoire d'essais ;
-
-14° Sur les instructions d'ordre scientifique et technique réglant les méthodes et les opérations du laboratoire.
-
-15° La commission technique du musée de prévention des accidents du travail et d'hygiène industrielle entendue :
-
-Sur l'organisation et le fonctionnement du musée de prévention des accidents du travail et d'hygiène industrielle.
+12° Sur l'organisation et le fonctionnement de la bibliothèque.
