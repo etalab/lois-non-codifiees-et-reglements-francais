@@ -1077,7 +1077,6 @@
 - [Arrêté du 27 décembre 1993 (ACVE9350004A)](arrete-du-27-decembre-1993-acve9350004a)
 - [Arrêté du 27 décembre 1993 (AGRS9302511A)](arrete-du-27-decembre-1993-agrs9302511a)
 - [Arrêté du 27 décembre 1993 (DEFA9302247A)](arrete-du-27-decembre-1993-defa9302247a)
-- [Arrêté du 27 décembre 1993 (TEFO9301311A)](arrete-du-27-decembre-1993-tefo9301311a)
 - [Arrêté du 27 décembre 1994 (ECOT9451388A)](arrete-du-27-decembre-1994-ecot9451388a)
 - [Arrêté du 27 décembre 1994 (ECOT9451389A)](arrete-du-27-decembre-1994-ecot9451389a)
 - [Arrêté du 27 janvier 1994 (ENVE9430036A)](arrete-du-27-janvier-1994-enve9430036a)
