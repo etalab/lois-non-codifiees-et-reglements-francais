@@ -4,8 +4,6 @@ Sera considéré comme étant en état de récidive légale quiconque ayant ét�
 
 - loi du 28 juillet 1824 relative aux altérations ou suppositions de noms sur les produits fabriqués ;
 
-- loi du 4 février 1888 modifiée concernant la répression des fraudes dans le commerce des engrais ;
-
 - loi du 14 août 1889 sur les vins ;
 
 - loi du 11 juillet 1891 tendant à réprimer les fraudes dans la vente des vins ;
@@ -69,6 +67,8 @@ Sera considéré comme étant en état de récidive légale quiconque ayant ét�
 - loi n° 76-1067 du 27 novembre 1976 interdisant l'usage des oestrogènes en médecine vétérinaire ;
 
 - loi n° 78-23 du 10 janvier 1978 sur la protection et l'information des consommateurs de produits et de services (art. 24) ;
+
+- loi n° 79-595 du 13 juillet 1979 relative à l'organisation du contrôle des matières fertilisantes et des supports de culture ;
 
 - les articles L. 231-6 et L. 231-7 du chapitre I du titre III et l'article L. 263-2 du chapitre III du titre VI du livre II du code du travail ;
 
