@@ -1,0 +1,3 @@
+# Article 5
+
+Dans le cas où des mutations de requis seraient rendues nécessaires par une faute de l'établissement employeur, notamment par des prévisions manifestement exagérées des besoins de main-d'oeuvre, le ministre du travail, en accord avec le ministre mobilisateur intéressé, pourra prescrire que les dépenses résultant de ces mutations seront supportées, en totalité ou en partie, par l'établissement au moyen d'une retenue sur le montant des marchés confiés à celui-ci ou d'un état exécutoire établi dans les conditions de l'article 54 de la loi du 13 avril 1898. Le produit de ces retenues sera versé au fonds de solidarité nationale institué par le décret du 1er septembre 1939.
