@@ -8,4 +8,4 @@ En outre, si le tribunal de police estime utile, dans l'intérêt du mineur, l'a
 
 L'appel des décisions des tribunaux de police est porté devant la cour d'appel dans les conditions prévues à l'article 7 de l'ordonnance n° 58-1274 du 22 décembre 1958 relative à l'organisation des juridictions pour enfants.
 
-Pour les contraventions de police des quatre premières classes relevant de l'article 706-72 du code de procédure pénale, le juge de proximité exerce les attributions du tribunal de police dans les conditions prévues au présent article.
+Pour les contraventions de police des quatre premières classes relevant du deuxième alinéa de l'article 521 du code de procédure pénale, le juge de proximité exerce les attributions du tribunal de police dans les conditions prévues au présent article.
