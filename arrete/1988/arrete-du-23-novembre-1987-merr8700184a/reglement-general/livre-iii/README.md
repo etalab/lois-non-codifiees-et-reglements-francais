@@ -6,3 +6,4 @@
 - [Division 322 : Extinction de l'incendie hors division 311.](division-322)
 - [Division 331 : Equipements individuels de sauvetage.](division-331)
 - [Division 333 : Engins collectifs de sauvetage.](division-333)
+- [Division 351 : Système d’alerte de sûreté du navire.](division-351)
