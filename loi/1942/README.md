@@ -9,3 +9,4 @@
 - [Loi du 4 avril 1942](loi-du-4-avril-1942)
 - [Loi du 8 avril 1942](loi-du-8-avril-1942)
 - [Loi n° 42-427 du 1 avril 1942](loi-n-42-427-du-1-avril-1942)
+- [Loi n° 42-785 du 18 août 1942](loi-n-42-785-du-18-aout-1942)
