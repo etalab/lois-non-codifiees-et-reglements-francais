@@ -1,9 +1,15 @@
 # Article 2
 
-Les élections pour les délégués mineurs et délégués permanents de la surface dans certaines houillères de bassin ont lieu dans le cadre de chaque circonscription dans les cas suivants :
+Pour l'application des 1°, 2° et 3° de l'article 2 du décret n° 85-26 susvisé, le président du conseil régional transmet au préfet les formulaires suivants :
 
-Houillères de Blanzy : pour les délégués mineurs et les délégués permanents de la surface.
+- annexe pédagogique ;
 
-Houillères d'Auvergne : pour les délégués mineurs de Messeix et de l'Aumance, pour le délégué permanent de la surface de Messeix.
+- annexe pédagogique par cycle ;
 
-Houillères des Cévennes : pour les délégués mineurs et les délégués permanents de la surface du Gard et de l'Hérault.
+- compte rendu d'exécution par cycle ;
+
+- compte rendu d'exécution : démographie et catégorie socio-professionnelle des stagiaires ;
+
+- bilan financier,
+
+dont le modèle figure en annexe II au présent arrêté.
