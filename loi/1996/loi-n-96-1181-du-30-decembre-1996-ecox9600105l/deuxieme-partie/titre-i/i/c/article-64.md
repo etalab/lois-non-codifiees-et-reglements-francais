@@ -6,9 +6,7 @@ Le ministre chargé du logement est ordonnateur principal de ce compte qui retra
 
 1° En recettes :
 
-- les versements prévus à l'article 47 de la présente loi ;
-
-- les versements des sommes figurant sur le compte d'affectation spéciale n° 902-28 "Fonds pour l'accession à la propriété" ;
+- les versements prévus à l'article 45 de la loi de finances pour 1998 (n° 97-1269 du 30 décembre 1997) ;
 
 - les recettes diverses et accidentelles ;
 

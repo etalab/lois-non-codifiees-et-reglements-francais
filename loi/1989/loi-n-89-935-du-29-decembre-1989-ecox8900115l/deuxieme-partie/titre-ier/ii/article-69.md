@@ -1,6 +1,6 @@
 # Article 69
 
-I. - Il est ouvert, pour l'année 1990, dans les écritures du Trésor, un compte de commerce n° 904-21 intitulé "Opérations industrielles et commerciales des directions départementales de l'équipement". Il retrace, pour les départements dont la liste est fixée par décret en Conseil d'Etat, les opérations de recettes et dépenses auxquelles donnent lieu les activités industrielles et commerciales effectuées par les directions départementales de l'équipement dans le domaine routier.
+I. - Il est ouvert dans les écritures du Trésor, un compte de commerce n° 904-21 intitulé "Opérations industrielles et commerciales des directions départementales de l'équipement". Il retrace, pour l'ensemble des départements, les opérations de recettes et dépenses auxquelles donnent lieu les activités industrielles et commerciales effectuées par les directions départementales de l'équipement et, pour l'ensemble des régions, les opérations de recettes et de dépenses auxquelles donnent lieu les activités industrielles et commerciales de diffusion d'informations routières effectuées par les directions régionales de l'équipement.
 
 II. Le ministre chargé de l'équipement est ordonnateur principal des recettes et des dépenses de ce compte de commerce qui retrace notamment :
 
