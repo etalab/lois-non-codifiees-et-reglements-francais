@@ -1048,7 +1048,6 @@
 - [Arrêté du 27 juillet 1994 (SPSN9402509A)](arrete-du-27-juillet-1994-spsn9402509a)
 - [Arrêté du 27 juillet 1994 (SPSP9401314A)](arrete-du-27-juillet-1994-spsp9401314a)
 - [Arrêté du 27 juillet 1994 (SPSP9401315A)](arrete-du-27-juillet-1994-spsp9401315a)
-- [Arrêté du 27 juillet 1994 (SPSS9401423A)](arrete-du-27-juillet-1994-spss9401423a)
 - [Arrêté du 27 juillet 1994 (SPSS9402382A)](arrete-du-27-juillet-1994-spss9402382a)
 - [Arrêté du 27 juin 1994 (ECOK9400019A)](arrete-du-27-juin-1994-ecok9400019a)
 - [Arrêté du 27 juin 1994 (ECOT9410210A)](arrete-du-27-juin-1994-ecot9410210a)
