@@ -1,3 +1,3 @@
 # Article 8
 
-Les vins à appellation d'origine contrôlée "Blanquette de Limoux" ne peuvent être élaborés qu'à partir des vins déclarés sous la dénomination "Vin destiné à l'élaboration de blanquette de Limoux" répondant aux conditions fixées dans les articles ci-dessus et comportant en outre, au minimum, 70 p. 100 de vin issu de cépage mauzac.
+Les vins ne peuvent être mis en circulation avec l'appellation d'origine contrôlée " Vin de Blanquette " sans un certificat délivré par l'institut national des appellations d'origine des vins et eaux-de-vie dans les conditions prévues par le décret n° 74-871 du 19 octobre 1974 susvisé.

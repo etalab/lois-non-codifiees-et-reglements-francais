@@ -1,3 +1,3 @@
 # Article 10
 
-Les vins ne peuvent être mis en circulation avec l'appellation "blanquette de Limoux" sans un certificat délivré par l'institut national des appellations d'origine des vins et eaux-de-vie dans les conditions prévues par le décret n° 74-871 du 19 octobre 1974 susvisé.
+L'emploi de toute indication ou de tout signe susceptible de faire croire à l'acheteur que des vins ont droit à l'appellation d'origine contrôlée " Vin de Blanquette " alors qu'ils ne répondent pas à toutes les conditions fixées par le présent décret, est poursuivi conformément à la législation générale sur les fraudes et sur la protection des appellations d'origine, sans préjudice des sanctions d'ordre fiscal, s'il y a lieu.
