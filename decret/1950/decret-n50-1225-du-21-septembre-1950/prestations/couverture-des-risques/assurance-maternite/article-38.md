@@ -1,3 +1,3 @@
 # Article 38
 
-Le montant des allocations prévues à l'article 37 ci-dessus [*bons de lait, allocations mensuelles*] ne peut en aucun cas être inférieur à un minimum fixé par arrêté du ministre de l'agriculture et du ministre chargé du budget.
+Dans le cas où l'enfant est resté hospitalisé jusqu'à l'expiration de la sixième semaine suivant l'accouchement, l'assurée peut demander le report, à la date de la fin de l'hospitalisation de l'enfant, de tout ou partie de la période d'indemnisation à laquelle elle peut encore prétendre en application des articles 36 ou 37.

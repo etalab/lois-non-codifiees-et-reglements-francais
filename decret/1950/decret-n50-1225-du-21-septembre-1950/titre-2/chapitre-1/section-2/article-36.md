@@ -1,8 +1,10 @@
 # Article 36
 
-I - Pendant une période qui débute six semaines avant la date présumée de l'accouchement et se termine dix semaines après l'accouchement, l'assurée reçoit une indemnité journalière de repos, à condition de cesser tout travail salarié durant la période d'indemnisation et au moins pendant huit semaines. Quand l'accouchement a lieu [*prématurément*] avant la date présumée, la période d'indemnisation de seize semaines n'est pas réduite.
+I. - Pendant une période qui débute six semaines avant la date présumée de l'accouchement et se termine dix semaines après celui-ci, l'assurée reçoit une indemnité journalière de repos, à condition de cesser tout travail salarié durant la période d'indemnisation et au moins pendant huit semaines [*durée du congé maternité*].
 
-Cette période est prolongée de deux semaines en cas de naissances multiples. Dans le cas où l'enfant est resté hospitalisé jusqu'à l'expiration de la sixième semaine suivant l'accouchement, l'assurée peut demander le report, à la date de la fin de l'hospitalisation de l'enfant, de tout ou partie de la période d'indemnisation à laquelle elle peut encore prétendre.
+Cette période est prolongée de deux semaines en cas de naissances multiples.
+
+Quand l'accouchement a lieu avant la date présumée [*prématuré*], la période d'indemnisation de seize ou de dix-huit semaines n'est pas réduite de ce fait.
 
 II - L'indemnité journalière de repos peut également être attribuée sur prescription médicale pendant une période supplémentaire n'excédant pas deux semaines et dans les conditions prévues au dernier alinéa de l'article 42 ci-dessous.
 

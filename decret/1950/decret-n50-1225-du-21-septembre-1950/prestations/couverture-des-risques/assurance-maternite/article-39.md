@@ -1,5 +1,7 @@
 # Article 39
 
-Lorsque les femmes bénéficiaires de l'assurance n'ont pas justifié [*défaut*] auprès de la caisse de mutualité sociale agricole de la première constatation de la grossesse, par médecin ou sage-femme quatre mois au plus tard avant la date présumée de l'accouchement [*délai*], la participation de la caisse dans les frais de l'accouchement doit être réduite à 80 p. 100 de sa participation normale à moins qu'il n'y ait eu empêchement qu'il appartient à la caisse d'apprécier [*sanction*].
+L'indemnité journalière de repos mentionnée à l'article 36 est accordée à la femme assurée à qui un service départemental d'aide sociale à l'enfance ou une oeuvre d'adoption autorisée confie un enfant en vue de son adoption. Elle est due, à la condition que l'intéressée cesse tout travail salarié durant la période d'indemnisation, pendant dix semaines au plus à compter de l'arrivée de l'enfant au foyer, douze semaines au plus en cas d'adoptions multiples.
 
-Les indemnités journalières de repos de l'assurance maternité peuvent être supprimées pendant la période où la caisse a été dans l'impossibilité d'exercer son contrôle [*conditions d'attribution*].
+La période d'indemnisation est portée à dix-huit semaines, vingt semaines au plus en cas d'adoptions multiples, lorsque, du fait de la ou des adoptions, l'assurée ou le ménage assume la charge de trois enfants au moins, dans les conditions prévues à l'article L. 512-4 et aux premier et troisième alinéas de l'article L. 521-2 du code de la sécurité sociale.
+
+Toutefois, lorsque les deux conjoints assurés sociaux travaillent, l'indemnité journalière de repos est accordée, dans les conditions prévues aux alinéas précédents, à la mère ou au père adoptif : l'un des conjoints doit alors avoir renoncé à son droit.

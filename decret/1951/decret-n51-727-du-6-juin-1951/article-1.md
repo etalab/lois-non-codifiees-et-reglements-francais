@@ -10,11 +10,19 @@ Pour être recevable, la demande de l'assuré doit être adressée à la caisse 
 
 La pension a effet à compter de la date de consolidation de la blessure ou de la stabilisation de l'état de l'assuré ou à compter de la date à laquelle cessent d'être allouées les indemnités journalières de maladie [*point de départ*] ou de la constatation médicale de l'invalidité lorsque cette invalidité résulte de l'usure prématurée de l'organisme.
 
-PAR. 3 - La pension est toujours concédée à titre temporaire. Elle peut être revisée en fonction de la modification de l'état d'invalidité de l'intéressé.
+Par. 3 - 1° La pension est toujours concédée à titre temporaire. Elle peut être révisée en fonction de la modification de l'état d'invalidité de l'intéressé.
 
 Elle peut être suspendue en tout ou en partie en cas de reprise du travail en raison du salaire ou du gain de l'intéressé dans les conditions fixées par le règlement d'administration publique prévu à l'article 14 ci-dessous.
 
 Elle peut être supprimée ou suspendue si la capacité de travail ou de gain devient supérieure à 50 p. 100.
+
+2° Les arrérages des pensions d'invalidité sont supprimés à l'expiration de la période de versement des arrérages au cours de laquelle le bénéficiaire a exercé une activité professionnelle non salariée, lorsque cette activité procure à l'intéressé ou au ménage un revenu qui, ajouté au montant de la pension, excède un plafond déterminé par décret.
+
+N'est pas considérée comme activité professionnelle non-salariée, pour l'application de ces dispositions, l'activité qui procure au titulaire de la pension d'invalidité un gain dont le montant ajouté à celui de la pension n'excède pas un montant fixé par décret.
+
+Lorsque le total du gain et de la pension dépasse ce chiffre, la pension est réduite en conséquence.
+
+Pour l'application des deux alinéas ci-dessus, le montant de la pension se substitue au chiffre limite défini au premier alinéa, lorsqu'il lui est supérieur.
 
 Par. 4 - 1° Le montant de la pension de l'invalide capable d'exercer une activité rémunérée est égal à 30 p. 100 [*montant*] du salaire annuel moyen correspondant aux cotisations versées au cours des dix années civiles d'assurance dont la prise en considération est la plus avantageuse pour l'assuré ; ces années doivent être comprises entre le 31 décembre 1947 et la date soit de l'interruption de travail suivie d'invalidité, soit de la constatation médicale de l'invalidité résultant de l'usure prématurée de l'organisme.
 

@@ -1,9 +1,7 @@
 # Article 37
 
-Par. 1er. - Les femmes, bénéficiaires de l'assurance, qui allaitent leurs enfants, ont droit à des allocations mensuelles fixées par le règlement intérieur de la caisse centrale de secours mutuels agricoles et visé à l'article 67 (par. 1er) ci-dessous.
+La période d'indemnisation prévue à l'article 36 est portée à huit semaines avant la date présumée de l'accouchement et à dix-huit semaines après celui-ci, vingt semaines en cas de naissances multiples, lorsque l'assurée elle-même ou le ménage assume déjà la charge d'au moins deux enfants dans les conditions prévues à l'article L. 512-4 et aux premier et troisième alinéas de l'article L. 521-2 du code de la sécurité sociale, ou lorsque l'assurée a déjà mis au monde au moins deux [*nombre*] enfants nés viables. La période d'indemnisation antérieure à la date présumée de l'accouchement peut être augmentée d'une durée maximale de deux semaines ; la période d'indemnisation postérieure à l'accouchement est alors réduite d'autant.
 
-Les femmes qui, par suite d'incapacité physique ou de maladie, sont dans l'impossibilité constatée par le médecin d'allaiter leurs enfants, peuvent, si l'enfant est élevé par elles à leur domicile, recevoir, pour la durée et pour les quantités indiquées par le médecin, des bons de lait dont la valeur [*montant maximum*] n'excédera en aucun cas 60 p. 100 de la prime d'allaitement [*conditions d'attribution*].
+En cas de naissances multiples ayant pour effet de porter de moins de deux à trois ou au-delà le nombre d'enfants à charge du ménage ou de l'assurée ou le nombre d'enfants nés viables que l'assurée a mis au monde, la période pendant laquelle cette dernière peut bénéficier, après l'accouchement, d'une indemnité journalière de repos est de vingt-deux semaines.
 
-Lorsque l'enfant doit être séparé de sa mère pour des raisons médicales, les caisses peuvent accorder tout ou partie des bons de lait prévus à l'alinéa précédent, il en est de même en cas de décès de la mère.
-
-Par. 2. - En cas de naissances multiples, les allocations prévues au paragraphe précédent sont accordées pour chacun des enfants.
+Dans tous les cas prévus au présent article, quand la naissance a lieu avant la date présumée de l'accouchement [*prématurée*], la période d'indemnisation de vingt-six ou de vingt-huit semaines n'est pas réduite de ce fait.
