@@ -8,7 +8,6 @@
 - [TITRE VII bis : Dispositions concernant l'importation, l'exportation et le transit des déchets.](titre-vii-bis)
 - [TITRE VIII : Sanctions](titre-viii)
 - [Dispositions concernant la récupération](dispositions-concernant-la-recuperation)
-- [Dispositions concernant les collectivités locales](dispositions-concernant-les-collectivites-locales)
 - [Dispositions générales](dispositions-generales)
 - [Elimination des déchets](elimination-des-dechets)
 - [Sanctions](sanctions)
