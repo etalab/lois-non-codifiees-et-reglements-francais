@@ -10,7 +10,7 @@ Capitaine ou lieutenant de vaisseau : cinq échelons ;
 
 Commandant ou capitaine de corvette : trois échelons ;
 
-Lieutenant-colonel ou capitaine de frégate : trois échelons ;
+Lieutenant-colonel ou capitaine de frégate : quatre échelons ;
 
 Colonel ou capitaine de vaisseau : deux échelons et deux échelons exceptionnels ;
 
