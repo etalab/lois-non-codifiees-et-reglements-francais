@@ -26,6 +26,7 @@
 - [Loi n° 97-742 du 2 juillet 1997 (MAEX9500007L)](loi-n-97-742-du-2-juillet-1997-maex9500007l)
 - [Loi n° 97-743 du 2 juillet 1997 (MAEX9600144L)](loi-n-97-743-du-2-juillet-1997-maex9600144l)
 - [Loi n° 97-744 du 2 juillet 1997 (MAEX9600076L)](loi-n-97-744-du-2-juillet-1997-maex9600076l)
+- [Loi n° 97-940 du 16 octobre 1997 (MESX9700099L)](loi-n-97-940-du-16-octobre-1997-mesx9700099l)
 - [Loi n° 97-99 du 5 février 1997 (MAEX9600037L)](loi-n-97-99-du-5-fevrier-1997-maex9600037l)
 - [Loi n°97-179 du 28 février 1997 (MCCX9701930L)](loi-n97-179-du-28-fevrier-1997-mccx9701930l)
 - [Loi n°97-277 du 25 mars 1997 (ECOX9601788L)](loi-n97-277-du-25-mars-1997-ecox9601788l)
