@@ -1,8 +1,8 @@
 # Article 26
 
-Sous réserve de la procédure prévue au décret n° 96-650 du 19 juillet 1996 relatif aux centres de formalités des entreprises, les demandes sont présentées en deux exemplaires au greffe du tribunal compétent sur des formules définies par l'arrêté prévu à l'article 88.
+Sous réserve de la procédure prévue au décret n° 96-650 du 19 juillet 1996 relatif aux centres de formalités des entreprises, les demandes sont présentées en deux exemplaires au greffe du tribunal compétent sur des formulaires définis par l'arrêté prévu à l'article 88.
 
-Elles sont accompagnées des actes et pièces mentionnés aux articles 47 à 53 ci-dessous, ainsi que des pièces établissant que sont remplies les prescriptions visées à l'article 2.
+Elles sont accompagnées des actes et pièces mentionnés aux articles 47 à 53 ci-dessous, ainsi que des pièces établissant que sont remplies les prescriptions visées à l'article L. 123-2 du code de commerce.
 
 La liste des pièces justificatives est fixée par le même arrêté.
 

@@ -1,3 +1,3 @@
 # Article 4
 
-Toutefois le registre, lorsqu'il est tenu par le greffier du tribunal de commerce, est placé sous la surveillance du président du tribunal de grande instance ou d'un juge commis à cet effet pour les formalités concernant celles des personnes morales mentionnées aux 2° et 5° de l'article premier ci-dessus qui n'ont pas la qualité de commerçant et qui relèvent de la compétence territoriale du tribunal de grande instance.
+Les attributions relatives à la surveillance du registre du commerce et des sociétés et aux contestations afférentes, mentionnées à l'article L. 123-6 du code de commerce, sont, en ce qui concerne les personnes morales n'ayant pas la qualité de commerçant mentionnées aux 2° et 5° du I de l'article L. 123-1 du code de commerce, exercées par le président du tribunal de grande instance ou un juge commis à cet effet.

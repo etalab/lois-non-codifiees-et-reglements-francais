@@ -1,6 +1,6 @@
 # Article 17
 
-Sont déclarés dans la demande d'immatriculation des établissements publics mentionnés au 4 de l'article 1er :
+Sont déclarés dans la demande d'immatriculation des établissements publics mentionnés au 4 de l'article L. 123-1 du code de commerce :
 
 A - En ce qui concerne la personne :
 
@@ -10,6 +10,6 @@ A - En ce qui concerne la personne :
 
 3° Le cas échéant, la date de publication au Journal officiel de l'acte qui a autorisé sa création, des actes qui ont modifié son organisation et des règlements ou des statuts qui déterminent les conditions de son fonctionnement ;
 
-B - En ce qui concerne l'établissement :
+B - En ce qui concerne l'activité et l'établissement :
 
 Les renseignements prévus au B de l'article 8.
