@@ -106,7 +106,22 @@ Sous réserve du respect des règles minimales de sécurité fixées ci-après, 
 <td> :                             :                                :</td>
 </tr>
 <tr>
-<td> : 3. Autres matériels         : L'organe de service commandant :</td>
+<td> : 3. Marteaux-piqueurs à      : L'organe de service commandant :</td>
+</tr>
+<tr>
+<td> : moteur thermique intégré    :  l'arrêt de ces machines doit :</td>
+</tr>
+<tr>
+<td> :                             :  être situé à proximité d'un  :</td>
+</tr>
+<tr>
+<td> :                             :  des organes de préhension.    :</td>
+</tr>
+<tr>
+<td> :                             :                                :</td>
+</tr>
+<tr>
+<td> : 4. Autres matériels         : L'organe de service commandant :</td>
 </tr>
 <tr>
 <td> :  portatifs, quelle que      :  la mise en route et l'arrêt   :</td>

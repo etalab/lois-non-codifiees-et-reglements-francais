@@ -1,45 +1,53 @@
 # Article 1
 
-Les organisations professionnelles et syndicales, syndicats de restaurateurs et les entreprises ayant pour activité principale l'émission de titres-restaurant désignés ci-dessus sont chargés, chacun en ce qui le concerne, de désigner leurs représentants à la commission prévue par l'article 15 du décret susvisé :
+Les organisations professionnelles et syndicales, les syndicats de restaurateurs et les entreprises ayant pour activité principale l'émission des titres-restaurant désignés ci-dessous sont chargés, chacun en ce qui le concerne, de désigner leurs représentants à la commission prévue par l'article 15 du décret du 22 décembre 1967 susvisé :
 
 a) Organisations professionnelles :
 
-Conseil national du patronat français : deux membres ;
+Conseil national du patronat français (C.N.P.F.) : deux membres.
 
-Confédération générale des petites et moyennes entreprises et du patronat réel : trois membres.
+Confédération générale des petites et moyennes entreprises et du patronat réel (C.G.P.M.E.) : deux membres.
+
+Union professionnelle artisanale (U.P.A.) : un membre.
 
 b) Organisations syndicales :
 
-Confédération générale du travail (CGT) : un membre ;
+Confédération générale du travail (C.G.T.) : un membre.
 
-Confédération générale du travail Force ouvrière (CGT-FO) : un membre ;
+Confédération générale du travail Force ouvrière (C.O.T.-F.O.) :
 
-Confédération française démocratique du travail (CFDT) : un membre ;
+un membre.
 
-Confédération française des travailleurs chrétiens (CFTC) : un membre ;
+Confédération française démocratique du travail (C.P.D.T.) : un membre.
 
-Confédération générale des cadres (CGC) : un membre.
+Confédération française des travailleurs chrétiens (C.F.T.C.) :
+
+un membre.
+
+Confédération française de l'encadrement confédération générale des cadres (C.F.E.-C.G.C.) : un membre.
 
 c) Syndicats de restaurateurs et de commerces susceptibles d'être assimilés à des restaurateurs :
 
-Union des chambres syndicales des cafetiers, limonadiers et restaurateurs : un membre ;
+Fédération nationale de l'industrie hôtelière de France et d'outre-mer : un membre.
 
-Syndicat national des restaurateurs limonadiers : un membre ;
+Syndicat national des restaurateurs, limonadiers et hôteliers :
 
-Syndicat général des cafés-restaurants : un membre ;
+un membre.
 
-Syndicat national des chaînes d'hôtels et restaurants : un membre ;
+Confédération française des hôteliers-restaurateurs, cafetiers, discothèques : un membre.
 
-Confédération française des hôteliers, restaurateurs, cafetiers limonadiers : un membre ;
+Chambre nationale de la restauration et de l'hôtellerie : un membre.
 
-Confédération nationale de la charcuterie de France : un membre ;
+Confédération nationale de la charcuterie de France : un membre.
 
 Confédération nationale de la boulangerie et de la boulangerie-pâtisserie française : un membre.
 
 d) Entreprises émettrices de titres-restaurant :
 
-Société anonyme le Chèque restaurant : un membre ;
+Société anonyme lntertitres-restaurant : un membre.
 
-Société anonyme du Crédit repas, tickets-restaurant : un membre ;
+Société anonyme Sodetir : un membre.
 
-Société coopérative le Chèque coopératif restaurant : un membre.
+Société coopérative de production anonyme Le Chèque déjeuner C.C.R. : un membre.
+
+Société anonyme Accor : un membre.
