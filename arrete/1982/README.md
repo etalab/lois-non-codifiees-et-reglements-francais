@@ -133,7 +133,6 @@
 - [Arrêté du 28 décembre 1981](arrete-du-28-decembre-1981)
 - [Arrêté du 28 janvier 1982](arrete-du-28-janvier-1982)
 - [Arrêté du 28 juillet 1982](arrete-du-28-juillet-1982)
-- [Arrêté du 28 juin 1982](arrete-du-28-juin-1982)
 - [Arrêté du 28 mai 1982](arrete-du-28-mai-1982)
 - [Arrêté du 29 avril 1982](arrete-du-29-avril-1982)
 - [Arrêté du 29 décembre 1982](arrete-du-29-decembre-1982)
