@@ -1,8 +1,8 @@
 # Article 1
 
-Le Conseil national de la formation des élus locaux se compose de vingt membres.
+Le Conseil national de la formation des élus locaux se compose de vingt quatre membres.
 
-" Les membres sont nommés pour trois ans par arrêté du ministre de l'intérieur et de l'aménagement du territoire, selon la répartition suivante :
+" Les membres sont nommés pour trois ans par arrêté du ministre de l'intérieur, selon la répartition suivante :
 
 " 1o Douze élus locaux, à savoir :
 
@@ -22,7 +22,7 @@ Le Conseil national de la formation des élus locaux se compose de vingt membres
 
 " h) Un élu représentant les conseils régionaux et l'assemblée de Corse.
 
-" 2o Huit personnalités qualifiées, à savoir :
+" 2° Douze personnalités, à savoir :
 
 " a) Un membre du Conseil d'Etat ;
 
@@ -30,8 +30,10 @@ Le Conseil national de la formation des élus locaux se compose de vingt membres
 
 " c) Quatre professeurs de l'enseignement supérieur ou directeurs de recherche du Centre national de la recherche scientifique ou d'organismes publics similaires ;
 
-" e) Deux personnalités qualifiées en matière de collectivités locales.
+" d) Six personnalités qualifiées. "
 
 " Les élus mentionnés au 1o sont désignés après consultation des associations représentatives d'élus locaux.
 
 " Les membres mentionnés au 2o, a et b, sont nommés respectivement sur proposition du vice-président du Conseil d'Etat et du premier président de la Cour des comptes. "
+
+L'article 1er du décret du 16 novembre 1992 susvisé est modifié ainsi qu'il suit :
