@@ -1,5 +1,9 @@
 # Article 9
 
-Dans la mesure où les textes maintenus en vigueur par l'article 7 et le titre II de la présente loi se réfèrent à une disposition d'une loi locale abrogée, la législation française relative à cette matière est applicable, à moins qu'elle ne soit incompatible avec les règles du droit local maintenues en vigueur.
+Les déterminations en marks dans les textes législatifs du droit local maintenu en vigueur sont remplacées par des déterminations en francs, sur la base d'équivalence, 1 mark égale 1,25 F.
 
-En outre, sont observées pour l'application des textes locaux maintenus en vigueur les prescriptions des articles 10 et 11 ci-après.
+Sont remplacées les expressions de "Etat allemand" ou "Empire allemand" par "Etat français" ; de "province" par "département" ; de "président de province" ou "de département" par "préfet" ; de "cercle" ou "d'arrondissement" par "sous-préfet" ; de "Banque d'Empire" par "Banque de France" ; les dénominations de toutes institutions et de tous établissements allemands par les dénominations similaires françaises ; et, en général, le terme "allemand" par "français".
+
+La mention des Etats confédérés allemands est supprimée.
+
+Les formes judiciaires sont remplacées par les formes notariées.

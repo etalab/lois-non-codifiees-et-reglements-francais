@@ -1,0 +1,17 @@
+# Ordonnance du 26 juin 1816 qui établit, en exécution de la loi du 28 avril 1816, des commissaires-priseurs judiciaires dans les villes chefs-lieux d'arrondissement, ou qui sont le siège d'un tribunal de grande instance, et dans celles qui, n'ayant ni sous-préfecture ni tribunal, renferment une population de cinq mille âmes et au-dessus
+
+- [Article 1-1](article-1-1.md)
+- [Article 1-2](article-1-2.md)
+- [Article 1-3](article-1-3.md)
+- [Article 2](article-2.md)
+- [Article 2-1](article-2-1.md)
+- [Article 2-2](article-2-2.md)
+- [Article 3](article-3.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)
+- [Article 14](article-14.md)
