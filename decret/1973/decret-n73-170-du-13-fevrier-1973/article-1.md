@@ -24,7 +24,7 @@ Départements des Côtes-du-Nord, du Finistère, d'Ille-et-Vilaine et du Morbiha
 
 Conseils régionaux du Centre :
 
-Départements du Cher, d'Eure-et-Loir, de l'Indre, d'Indre-et-Loire, de Loir-et-Cher et du Loiret.
+Départements du Cher, d'Eure-et-Loire, de l'Indre, d'Indre-et-Loire, de Loir-et-Cher et du Loiret.
 
 Conseils régionaux de Champagne :
 
@@ -56,7 +56,7 @@ Départements du Nord et du Pas-de-Calais
 
 Conseils régionaux de Basse-Normandie :
 
-Départements du Calvados, de la Manche et de l'Orne.
+Départements du Calvados, de la Manche, de l'Orne et de Saint-Pierre-et-Miquelon.
 
 Conseils régionaux de Haute-Normandie :
 
@@ -64,7 +64,7 @@ Départements de l'Eure et de la Seine-Maritime.
 
 Conseils régionaux des Pays de la Loire :
 
-Départements de la Loire-Atlantique, de Maine-et-Loire, de la Mayenne, de la Sarthe et de la Vendée :
+Départements de la Loire-Atlantique, de Maine-et-Loire, de la Mayenne, de la Sarthe et de la Vendée
 
 Conseils régionaux de Picardie :
 
