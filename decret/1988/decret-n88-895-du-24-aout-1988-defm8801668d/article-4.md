@@ -1,3 +1,13 @@
 # Article 4
 
-Le ministre d'Etat, ministre de l'économie, des finances et du budget, le ministre de la défense et le ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé du budget, sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
+Le taux de l'indemnité prévu à l'article 1er du présent décret est porté à :
+
+17 p. 100 à compter du 1er février 1990 ;
+
+19 p. 100 à compter du 1er août 1990 ;
+
+21 p. 100 à compter du 1er février 1991 ;
+
+23 p. 100 à compter du 1er août 1991 ;
+
+25 p. 100 à compter du 1er février 1992.
