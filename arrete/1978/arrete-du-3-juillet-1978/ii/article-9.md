@@ -1,6 +1,6 @@
 # Article 9
 
-A compter du 1er juillet 1989, le montant forfaitaire des charges est fixé comme suit :
+A compter du 1er juillet 1990, le montant forfaitaire des charges est fixé comme suit :
 
 <table>
 <tr>
@@ -19,7 +19,7 @@ A compter du 1er juillet 1989, le montant forfaitaire des charges est fixé comm
 <td> :                             :     Francs     :</td>
 </tr>
 <tr>
-<td> : Bénéficiaire isolé          :      260       :</td>
+<td> : Bénéficiaire isolé          :      267       :</td>
 </tr>
 <tr>
 <td> :                             :                :</td>
@@ -28,7 +28,7 @@ A compter du 1er juillet 1989, le montant forfaitaire des charges est fixé comm
 <td> : Ménage sans personne à      :                :</td>
 </tr>
 <tr>
-<td> :  charge ...                 :      260       :</td>
+<td> :  charge ...                 :      267       :</td>
 </tr>
 <tr>
 <td> :                             :                :</td>
@@ -40,7 +40,7 @@ A compter du 1er juillet 1989, le montant forfaitaire des charges est fixé comm
 <td> :  ménage ayant une personne  :                :</td>
 </tr>
 <tr>
-<td> :  à charge ...               :      316       :</td>
+<td> :  à charge ...               :      324       :</td>
 </tr>
 <tr>
 <td> :                             :                :</td>
@@ -49,7 +49,7 @@ A compter du 1er juillet 1989, le montant forfaitaire des charges est fixé comm
 <td> : Par personne supplémentaire :                :</td>
 </tr>
 <tr>
-<td> :  à charge ...               :       56       :</td>
+<td> :  à charge ...               :       57       :</td>
 </tr>
 <tr>
 <td> :                             :                :</td>
@@ -78,13 +78,13 @@ Toutefois, dans le cas prévu aux articles R. 351-17 (sixième alinéa) et R. 35
 <td> :                             :     Francs     :</td>
 </tr>
 <tr>
-<td> : Bénéficiaire isolé          :      130       :</td>
+<td> : Bénéficiaire isolé          :      134       :</td>
 </tr>
 <tr>
 <td> :                             :                :</td>
 </tr>
 <tr>
-<td> : Bénéficiaire isolé ayant une:      186       :</td>
+<td> : Bénéficiaire isolé ayant une:      191       :</td>
 </tr>
 <tr>
 <td> : personne à charge           :                :</td>
@@ -96,7 +96,7 @@ Toutefois, dans le cas prévu aux articles R. 351-17 (sixième alinéa) et R. 35
 <td> : Par personne supplémentaire :                :</td>
 </tr>
 <tr>
-<td> :  à charge                   :       56       :</td>
+<td> :  à charge                   :       57       :</td>
 </tr>
 <tr>
 <td> :                             :                :</td>
@@ -105,7 +105,7 @@ Toutefois, dans le cas prévu aux articles R. 351-17 (sixième alinéa) et R. 35
 <td> : Ménage sans personne à      :                :</td>
 </tr>
 <tr>
-<td> :  charge                     :      260       :</td>
+<td> :  charge                     :      267       :</td>
 </tr>
 <tr>
 <td> :                             :                :</td>
@@ -114,7 +114,7 @@ Toutefois, dans le cas prévu aux articles R. 351-17 (sixième alinéa) et R. 35
 <td> :  Ménage ayant une personne  :                :</td>
 </tr>
 <tr>
-<td> :  à charge                   :      316       :</td>
+<td> :  à charge                   :      324       :</td>
 </tr>
 <tr>
 <td> :                             :                :</td>
@@ -123,7 +123,7 @@ Toutefois, dans le cas prévu aux articles R. 351-17 (sixième alinéa) et R. 35
 <td> : Par personne supplémentaire :                :</td>
 </tr>
 <tr>
-<td> :  à charge                   :       56       :</td>
+<td> :  à charge                   :       57       :</td>
 </tr>
 <tr>
 <td> :                             :                :</td>
