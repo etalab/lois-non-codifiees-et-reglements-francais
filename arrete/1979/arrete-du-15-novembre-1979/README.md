@@ -1,5 +1,0 @@
-# Arrêté du 15 novembre 1979 relatif aux conditions d'emploi et de délivrance du pyriminil pour la lutte contre le rat noir et le surmulot
-
-- [Article 1](article-1.md)
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)

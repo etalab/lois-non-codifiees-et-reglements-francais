@@ -66,7 +66,6 @@
 - [Arrêté du 24 juin 1976](arrete-du-24-juin-1976)
 - [Arrêté du 25 août 1976](arrete-du-25-aout-1976)
 - [Arrêté du 25 mars 1976](arrete-du-25-mars-1976)
-- [Arrêté du 26 avril 1976](arrete-du-26-avril-1976)
 - [Arrêté du 26 février 1976](arrete-du-26-fevrier-1976)
 - [Arrêté du 26 janvier 1976](arrete-du-26-janvier-1976)
 - [Arrêté du 26 juillet 1976](arrete-du-26-juillet-1976)
