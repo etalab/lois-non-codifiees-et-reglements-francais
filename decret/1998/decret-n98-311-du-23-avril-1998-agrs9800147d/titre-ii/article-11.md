@@ -7,3 +7,5 @@
 3. La demande de préretraite comporte l'indication du ou des agriculteurs auxquels le candidat à la préretraite projette de céder ses terres exploitées en faire-valoir direct et l'information éventuellement transmise à son ou ses bailleurs sur les candidats à la reprise des terres exploitées en faire-valoir indirect.
 
 Le préfet se prononce, après avis de la commission départementale d'orientation de l'agriculture, sur l'éligibilité de la demande au regard des conditions prévues à l'article 2 et sur les projets de cession des terres libérées.
+
+Les cessions sont soumises à autorisation préalable du préfet et la nouvelle exploitation ainsi constituée ne doit pas excéder le seuil fixé par le schéma directeur départemental des structures. Ce seuil est compris entre 0,5 et 1,5 fois l'unité de référence définie à l'article L. 312-5 du code rural.

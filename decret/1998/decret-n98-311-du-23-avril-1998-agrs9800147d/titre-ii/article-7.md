@@ -2,9 +2,9 @@
 
 Les terres exploitées en faire-valoir direct et libérées doivent être destinées, sous réserve de l'article 6 :
 
-1. En vue de contribuer en partie à la première installation d'un jeune agriculteur bénéficiant d'une aide prévue par les articles R. 343-3 à R. 343-18 du code rural, à l'exception de l'article R. 343-6.
+1. En vue de contribuer en priorité à la première installation d'un jeune agriculteur bénéficiant d'une aide prévue par les articles R. 343-3 à R. 343-18 du code rural, à l'exception de l'article R. 343-6.
 
-En outre, l'agriculteur qui s'installe doit s'engager à agrandir l'exploitation libérée par le candidat à la préretraite dans un délai de douze mois à compter de son installation et à l'exploiter pendant cinq ans au moins ; cet agrandissement ne peut être inférieur à 2 hectares de surface agricole utile ;
+En outre, l'agriculteur qui reprend tout ou partie des terres libérées et qui s'installe doit améliorer la viabilité de l'exploitation dans les trois ans de l'étude prévisionnelle d'installation et s'engager à les exploiter pendant cinq ans au moins.
 
 2. A un ou plusieurs agriculteurs à titre principal, âgés de moins de cinquante ans, qui agrandissent leur exploitation, disposant d'une expérience professionnelle agricole d'au moins cinq ans ou bien ayant été bénéficiaires d'une aide prévue par les articles R. 343-3 à R. 343-18 du code rural, à l'exception de l'article R. 343-6, relatifs aux aides à l'installation des jeunes agriculteurs, ou justifiant d'un des diplômes requis pour bénéficier de ces aides et s'engageant à exploiter ces terres pendant cinq ans au moins ;
 
