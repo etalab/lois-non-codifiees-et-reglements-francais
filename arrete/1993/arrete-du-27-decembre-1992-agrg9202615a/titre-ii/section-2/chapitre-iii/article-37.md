@@ -1,0 +1,3 @@
+# Article 37
+
+Sous le contrôle du responsable de la qualité défini à l'article 29 du présent arrêté, le personnel de manipulation et préparation des produits de la pêche est tenu à la plus grande propreté. En particulier : il doit porter des vêtements de travail appropriés, propres et des coiffures enveloppant complètement la chevelure ; il doit se laver les mains chaque fois que de besoin et au moins à chaque reprise du travail et recouvrir ses blessures aux mains d'un pansement étanche ; enfin, il ne doit ni fumer ni cracher, boire ou manger dans les locaux de travail et d'entreposage des produits.

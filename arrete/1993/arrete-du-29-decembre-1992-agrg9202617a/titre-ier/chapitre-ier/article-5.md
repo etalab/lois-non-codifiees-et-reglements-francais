@@ -1,0 +1,5 @@
+# Article 5
+
+Pour l'entreposage des produits de la pêche qui ne sont pas, sans délai, exposés à la vente ou acheminés vers leur destination après vente, les halles de criée disposent de chambres froides. De capacité suffisante, ces chambres comportent des surfaces faciles à nettoyer. Le sol y est imperméable, aisément désinfectable et disposé de façon à permettre un écoulement facile de l'eau ou pourvu d'un dispositif destiné à évacuer l'eau. Les murs y sont lisses, résistants et imperméables, les portes en matériaux inaltérables, les dispositifs d'éclairage et d'évacuation des buées suffisants. Les chambres froides sont situées dans le local de vente ou dans un local attenant.
+
+Les produits frais doivent être entreposés sous glace, à température contrôlée, et, le cas échéant, les produits congelés à - 18 °C au plus et les produits transformés à la température prescrite par le fabricant. Les installations de froid sont munies d'un thermomètre enregistreur. Les graphiques d'enregistrement sont classés par ordre chronologique et gardés à la disposition du service d'inspection pendant la durabilité des produits et au moins un mois.
