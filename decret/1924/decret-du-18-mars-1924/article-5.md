@@ -1,12 +1,14 @@
 # Article 5
 
-Lorsque le commissaire de la République de région reçoit une demande de classement ou d'inscription d'un immeuble sur l'inventaire supplémentaire des monuments historiques ou prend l'initiative de cette inscription, il recueille l'avis de la commission régionale du patrimoine historique, archéologique et ethnologique.
+Lorsque le préfet de région reçoit une demande de classement ou d'inscription d'un immeuble sur l'inventaire supplémentaire des monuments historiques ou prend l'initiative de cette inscription, il recueille l'avis de la commission régionale du patrimoine et des sites.
 
-Il peut alors soit prescrire par arrêté l'inscription de cet immeuble à l'inventaire supplémentaire des monuments historiques à l'exception du cas visé au dernier alinéa du présent article, soit proposer au ministre chargé de la culture une mesure de classement.    Le commissaire de la République qui a inscrit un immeuble sur l'inventaire supplémentaire des monuments historiques peut proposer son classement au ministre chargé de la culture.
+Il peut alors soit prescrire par arrêté l'inscription de cet immeuble à l'inventaire supplémentaire des monuments historiques à l'exception du cas visé au dernier alinéa du présent article, soit proposer au ministre chargé de la culture une mesure de classement.
 
-Lorsque le ministre chargé de la culture est saisi par le commissaire de la République de région d'une proposition de classement, il statue sur cette proposition après avoir recueilli l'avis de la commission supérieure des monuments historiques et, pour les vestiges archéologiques, du Conseil supérieur de la recherche archéologique. Il informe de sa décision le commissaire de la République de région ; il lui transmet les avis de la commission supérieure des monuments historiques et du Conseil supérieur de la recherche archéologique, afin qu'ils soient communiqués à la commission régionale.
+Le préfet qui a inscrit un immeuble sur l'inventaire supplémentaire des monuments historiques peut proposer son classement au ministre chargé de la culture.
 
-Lorsque le ministre chargé de la culture prend l'initiative d'un classement, il demande au commissaire de la République de région de recueillir l'avis de la commission régionale du patrimoine historique, archéologique et ethnologique.
+Lorsque le ministre chargé de la culture est saisi par le préfet de région d'une proposition de classement, il statue sur cette proposition après avoir recueilli l'avis de la commission supérieure des monuments historiques et, pour les vestiges archéologiques, du Conseil supérieur de la recherche archéologique. Il informe de sa décision le préfet de région ; il lui transmet les avis de la commission supérieure des monuments historiques et du Conseil supérieur de la recherche archéologique, afin qu'ils soient communiqués à la commission régionale.
+
+Lorsque le ministre chargé de la culture prend l'initiative d'un classement, il demande au préfet de région de recueillir l'avis de la commission régionale du patrimoine et des sites.
 
 Il consulte ensuite la commission supérieure des monuments historiques ainsi que, pour les vestiges archéologiques, le Conseil supérieur de la recherche archéologique.
 
