@@ -2,9 +2,11 @@
 
 Reims (département de la Marne): Croix Rouge
 
--	avenue d'Epernay jusqu'à l'avenue Robert-Schuman, à l'exception des parcelles section HT n°s 15 et 19 ;
+- avenue d'Epernay jusqu'à l'avenue du Président-Kennedy, à l'exception des parcelles section HT n°s 15 et 19 ;
 
--	avenue Robert-Schuman: entre la limite Est de la parcelle section HR n° 191 et la partie de la parcelle section HR n° 192 dit les parkings de l'Hippodrome jusqu'à l'allée des Landais ;
+- avenue du Président-Kennedy jusqu'à l'avenue Robert-Schuman ;
+
+- avenue Robert-Schuman : entre limite est de la parcelle section HR n° 191 et la parcelle section HR n° 192d dite "les parkings de l'hippodrome" jusqu'à l'allée des Landais ;
 
 -	allée des Landais jusqu'à la rue Yvon-et-Claire-Morandat ;
 

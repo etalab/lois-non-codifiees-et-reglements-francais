@@ -36,7 +36,7 @@ Dreux-Sainte-Gemme-Moronval (département d'Eure-et-Loir): plateau Est: Chamards
 
 -	rue Maurice-Legrand jusqu'à la rue du Commandant-Hieaux;
 
--	rue du Commandant-Hieaux jusqu'aux limites Nord des parcelles AX n°s 596, 600, 597 et 599 (exclues) jusqu'à la limite communale Dreux-Vernouillet (rue de Nuisement) ;
+- rue du Commandant-Hieaux jusqu'aux limites sud des parcelles section AX n°s 596, 600, 597 et 599 jusqu'à la limite communale Dreux-Vernouillet (rue de Nuisement) ;
 
 -	limite communale Dreux-Vernouillet (rue de Nuisement) jusqu'au boulevard Jules-Ferry ;
 

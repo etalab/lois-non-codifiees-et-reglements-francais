@@ -20,21 +20,13 @@ Partie principale I : Le Bois-l'Abbé
 
 - route du Plessis-Trévise jusqu'à la rue Claude-Bernard ;
 
-- rue Claude-Bernard jusqu'à l'avenue Emile-Renaud ;
+- rue Claude-Bernard jusqu'à la limite nord de la parcelle AM 55 faisant liaison avec la rue Transversale ;
 
-- avenue Emile-Renaud jusqu'à la rue Transversale ;
+- rue Transversale jusqu'à l'avenue Emile-Renaud ;
 
-- rue Transversale jusqu'à l'avenue du Bois ;
+- avenue Emile-Renaud (école maternelle du Bois), limite sud de la parcelle AM 90, limites nord, ouest et sud de la parcelle AM 67, limite nord de la parcelle AM 91 et limite ouest de la parcelle AN 6 jusqu'à la rue de la Jonction ;
 
-- avenue du Bois (école maternelle de l'avenue du Bois) jusqu'à l'avenue Boileau ;
-
-- avenue Boileau jusqu'à la rue de la Jonction ;
-
-- rue de la Jonction (ensemble sportif Jean-Guimier inclus) jusqu'à l'avenue Boileau ;
-
-- avenue Boileau ;
-
-- parcelle section DN 125 faisant passage entre la rue Boileau et la rue Jules-Appert ;
+- rue de la Jonction (groupe scolaire G.-Péri inclus), passage faisant limite des parcelles entre les parcelles DN 89 et DN 90 jusqu'à la rue Jules-Appert ;
 
 -  rue Jules-Appert jusqu'à la rue de l'Etang ;
 

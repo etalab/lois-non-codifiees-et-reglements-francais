@@ -4,15 +4,13 @@ Marseille (département des Bouches-du-Rhône) : Nord Littoral (Plan d'Aou, La B
 
 -	du canal de Marseille jusqu'au chemin de Mimet ;
 
--	chemin de Mimet jusqu'à l'avenue de Roquefavour ;
+- chemin de Mimet (ensemble des parcelles de chaque côté du chemin) jusqu'à l'avenue de Roquefavour ;
 
--	avenue de Roquefavour jusqu'à l'avenue de Saint-Antoine ;
+- avenue de Roquefavour (ensemble des parcelles de chaque côté de l'avenue jusqu'à la parcelle section L 17 de Saint-Antoine incluse jusqu'à l'avenue de Saint-Antoine) ;
 
 -	avenue de Saint-Antoine (ensemble des parcelles situées de chaque côté de la rue) jusqu'à l'impasse Magne ;
 
--	impasse Magne jusqu'à la limite des parcelles section L n°s 324 et 372, 364 et 372, 364 et 165, 209 et 165 de Saint-Antoine ;
-
--	limite entre les parcelles section A n°s 33 et 74, 33 et 80, 31 et 80, 31 et 81, 31 et 67, 63 et 67, 62 et 67 de La Viste jusqu'à l'autoroute Nord ;
+- impasse Magne (ensemble des parcelles de chaque côté de la voie), puis traverse du Viaduc (ensemble des parcelles de chaque côté de la traverse) jusqu'à la voie de chemin de fer Aix-Marseille, à son intersection avec l'autoroute Nord, parcelle section A n° 47 de la Viste exclue ;
 
 -	autoroute Nord jusqu'au ruisseau des Aygalades ;
 
@@ -48,19 +46,19 @@ Marseille (département des Bouches-du-Rhône) : Nord Littoral (Plan d'Aou, La B
 
 -	traverse du Pas-de-Faon jusqu'à la rue de Varsovie ;
 
--	rue de Varsovie jusqu'au boulevard Gravitz ;
+- rue de Varsovie (ensemble des parcelles situées de chaque côté de la rue) jusqu'au boulevard Grawitz ;
 
--	boulevard Gravitz jusqu'à la limite entre les parcelles section H n°s 189 et 187 de Saint-André ;
+- boulevard Grawitz (ensemble des parcelles situées de chaque côté du boulevard) jusqu'à la limite entre les parcelles section H n°s 189 et 187 de Saint-André ;
 
 -	limite des parcelles section H n°s 189 et 187 de Saint-André, puis n°s 188 et 187 jusqu'au droit de la limite entre les parcelles section H n°s 173 et 174 ;
 
 -	limites des parcelles section H n°s 173 et 174 de Saint-André jusqu'à la rue de la Camoine ;
 
--	rue de la Camoine jusqu'au boulevard Jean-Labro ;
+- rue de la Camoine jusqu'au boulevard Jean-Labro en incluant la parcelle n° 164 de la section H de Saint-André ;
 
--	boulevard Jean-Labro à la limite de la section cadastrale M de Saint-André ;
+- boulevard Jean-Labro (ensemble des parcelles situées de chaque côté du boulevard) jusqu'à la limite de la section cadastrale M de Saint-André ;
 
--	limites des parcelles section M n°s 69, 70, 71, 72 de Saint-André (traverse Rey) jusqu'à la rue Renée-Pontet ;
+- limite des parcelles section M n°s 69, 70, 71 et 72 de Saint-André (traverse Rey, parcelles situées de chaque côté de la traverse) jusqu'à la rue Renée-Pontet ;
 
 -	rue Renée-Pontet jusqu'au droit de la parcelle section M n° 49 de Saint-André ;
 
@@ -72,19 +70,15 @@ Marseille (département des Bouches-du-Rhône) : Nord Littoral (Plan d'Aou, La B
 
 -	chemin du Littoral jusqu'au chemin de Saint-Henri ;
 
--	chemin de Saint-Henri jusqu'à la montée de la Chaîne ;
+- chemin de Saint-Henri (ensemble des parcelles situées de chaque côté du chemin jusqu'à la montée de la Chaîne) ;
 
--	montée de la Chaîne jusqu'à la traverse Bruno-Razzoli ;
+- montée de la Chaîne (ensemble des parcelles situées de chaque côté de la montée) jusqu'à la traverse Bruno-Razzoli ;
 
--	traverse Bruno-Razzoli ;
+- traverse Bruno-Razzoli jusqu'à la limite sud de la parcelle section H 93 de Saint-Henri ;
 
--	section cadastrale H de Saint-Henri, limite des parcelles n°s 93 et 94 puis n°s 92 et 94 jusqu'au chemin de Saint-Henri ;
+- limite sud de la parcelle section H n° 93 de Saint-Henri, jusqu'à la limite entre les parcelles section H n°s 92 et 92/93 ;
 
--	chemin de Saint-Henri jusqu'à la rue Rabelais ;
-
--	rue Rabelais (ensemble des parcelles situées de chaque coté de la rue) jusqu'à la rue Alphonse-Gaudot ;
-
--	rue Alphonse-Gaudot (ensemble des parcelles situées de chaque coté de la rue) jusqu'au boulevard Henrion ;
+- limite entre les parcelles section H n°s 92 et 93 jusqu'au boulevard Henrion ;
 
 -	boulevard Henrion ;
 
@@ -110,7 +104,7 @@ Marseille (département des Bouches-du-Rhône) : Nord Littoral (Plan d'Aou, La B
 
 -	voie ferrée jusqu'au chemin Gilbert-Charmasson ;
 
--	chemin Gilbert-Charmasson jusqu'à la section B de Saint-Henri ;
+- chemin de Charmasson jusqu'à la section B de Saint-Henri en incluant les parcelles n°s 141, 158, 159, 160, 161, 166, 144 et 146 de la section D de l'Estaque ;
 
 -	section B de Saint-Henri, limite des parcelles n°s 286 et 287, n°s 277 et 284, n°s 284 et 243, n°s 243 et 7, n°s 243 et 247, n°s 248 et 244, n°s 283 et 248, n°s 248 et 253, n°s 248 et 283, n°s 272 et 211, n°s 272 et 20, n°s 272 et 15, n°s 272 et 213, n°s 263 et 213 (rue Anne-Gacon) ;
 
@@ -124,13 +118,13 @@ Marseille (département des Bouches-du-Rhône) : Nord Littoral (Plan d'Aou, La B
 
 -	section I de Verduron, limite des parcelles n°s 9 et 70, n°s 104 et 70, n°s 13 et 70, n°s 133 et 70, n°s 132 et 70 ;
 
--	boulevard Henri-Barnier jusqu'à la voie ferrée Aix-Marseille ;
+- boulevard Henri-Barnier (ensemble des parcelles de chaque côté du boulevard) jusqu'à la voie ferrée Aix-Marseille et incluant la parcelle n° 109 de la section I de Verduron ;
 
 -	voie ferrée jusqu'à la limite communale (la partie souterraine de la voie correspond à la partie Nord de la parcelle section A n° 68 de Saint-Antoine) ;
 
 -	limite communale (traverse de l'Octroi) ;
 
--	traverse Collet juqu'au ruisseau des Aygalades vers le Nord-Ouest jusqu'à la voie ferrée Aix-Marseille que l'on traverse pour inclure la parcelle section C n° 95 de Saint-Antoine ;
+- traverse Collet puis limite communale jusqu'à la voie ferrée Aix-Marseille que l'on traverse pour inclure la parcelle section C n° 95 de Saint-Antoine ;
 
 -	ruisseau des Aygalades vers le Nord-Ouest jusqu'à la voie ferrée Aix-Marseille que l'on traverse pour inclure la parcelle section C n° 95 de Saint-Antoine jusqu'au canal de Marseille ;
 

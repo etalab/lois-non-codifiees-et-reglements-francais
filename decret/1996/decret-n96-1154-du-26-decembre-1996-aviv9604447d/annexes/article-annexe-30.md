@@ -8,9 +8,9 @@ Bas-Vernet : site 1
 
 -	avenue Frédéric-Bartholdi jusqu'à la limite Sud des parcelles section IN 145 et 144 ;
 
--	limite Sud des parcelles section IN 145 et 144 jusqu'au chemin de Baixas ;
+- limite sud des parcelles section IN 145 et 144 jusqu'au chemin de Baixas par limite sud et ouest de la parcelle section IN n° 134 ;
 
--	chemin de Baixas jusqu'aux limites Nord des parcelles section IN 116, 117, 136, 77, 85, 81, 79, 82, 203, 207, 204, 41, 38, 41 pour rejoindre la rue François-Rude ;
+- 	chemin de Baixas jusqu'aux limites Nord des parcelles section IN 116,  117, 136, 77, 85, 81, 79, 82, 203, 207, 204, 41, 38, 41 pour rejoindre  la rue François-Rude ;
 
 -	rue François-Rude jusqu'à la limite Est de la parcelle section IN 59 ;
 
@@ -56,7 +56,7 @@ Haut-Vernet : site 2
 
 -	rue Jean-Goujon jusqu'au chemin Dels-Xirmens ;
 
--	chemin Dels-Xirmens jusqu'aux limites Ouest des parcelles section CL n°s 280, 281, 319, 320, 321, 322, 323, 328, 329, 336, 337 ;
+- 	chemin Dels-Xirmens jusqu'aux limites Ouest des parcelles section CL  n°s 280, 281, 319, 320, 321, 322, 323, 328, 329, 336, 337 ;
 
 -	limite Ouest de la parcelle CL n° 337 jusqu'à la rue Jean-Alcover ;
 
@@ -96,9 +96,9 @@ Haut-Vernet : site 2
 
 -	avenue de Salanque jusqu'au chemin départemental n° 76 ;
 
--	chemin départemental n° 76 jusqu'à la limite Nord de la parcelle section DE n° 428 ;
+- chemin départemental n° 76 jusqu'à la limite sud de la parcelle section DE 428, puis longer la limite sud-ouest jusqu'à la limite nord-ouest de la parcelle section DE 428 ;
 
--	limite Nord de la parcelle section DE n° 428 jusqu'à la limite Est des parcelles section DE n°s 428, 430, 432, 436, 126 et 438 ;
+- limite nord-ouest des parcelles section DE n°s 428, 432, 434, 436, 126 et 438 en incluant linéairement pour partie la parcelle n° 430, jusqu'à la limite est de la parcelle DE n° 438 ;
 
 -	limite Est de la parcelle section DE n° 438 jusqu'au CD n° 76 ;
 
@@ -112,15 +112,15 @@ Haut-Vernet : site 2
 
 -	limite Ouest de la parcelle DH n° 85 jusqu'à la limite Nord des parcelles section DH n°s 85, 86, 410, 101, 102 et 114 ;
 
--	limite Nord de la parcelle DH n° 114 jusqu'à la limite Est des parcelles section DH n°s 114, 113 et jusqu'à la limite Nord de la parcelle DH n° 115 ;
+- 	limite Nord de la parcelle DH n° 114 jusqu'à la limite Est des  parcelles section DH n°s 114, 113 et jusqu'à la limite Nord de la  parcelle DH n° 115 ;
 
 -	limite Nord de la parcelle section DH n° 115 jusqu'au canal du Vernet-et-Pia ;
 
--	canal du Vernet-et-Pia, limite Sud de la parcelle section DH n° 115, limites Est et Sud de la parcelle DH n° 123 et limites Sud et Est des parcelles section DH n°s 123, 124 et 121 jusqu'au chemin départemental d'Estagel à la R.N. 9 c ;
+- 	canal du Vernet-et-Pia, limite Sud de la parcelle section DH n° 115,  limites Est et Sud de la parcelle DH n° 123 et limites Sud et Est des  parcelles section DH n°s 123, 124 et 121 jusqu'au chemin départemental  d'Estagel à la R.N. 9 c ;
 
 -	chemin départemental n° 1 d'Estagel à la R.N. n° 9 c jusqu'à la limite Est de la parcelle section DI n° 241 ;
 
--	limite Est de la section DI n° 241, limites Sud et Ouest de la parcelle section DI n° 241 jusqu'aux limites Sud des parcelles section DI n°s 99, 175, 176, 105, 106 et CI 32, 33, 43, 44, 169, 170, 171, 172, 203, 204, 74, 75, 207, 227, 219 jusqu'à la rue Charles-Bordes ;
+- 	limite Est de la section DI n° 241, limites Sud et Ouest de la parcelle  section DI n° 241 jusqu'aux limites Sud des parcelles section DI n°s  99, 175, 176, 105, 106 et CI 32, 33, 43, 44, 169, 170, 171, 172, 203,  204, 74, 75, 207, 227, 219 jusqu'à la rue Charles-Bordes ;
 
 -	rue Charles-Bordes jusqu'à la rue Paul-Gauguin ;
 
@@ -138,7 +138,7 @@ Haut-Vernet : site 2
 
 -	du chemin rural n° 24 dit du Mas-Palau ou rue Albert-Marquet jusqu'au chemin de la Poudrière ;
 
--	chemin de la Poudrière jusqu'à la limite Nord des parcelles section DL n°s 120, DK 176, DL 120, 95, 96, 105, 114 jusqu'au chemin rural n° 32 dit Dels-Vives ;
+- 	chemin de la Poudrière jusqu'à la limite Nord des parcelles section DL  n°s 120, DK 176, DL 120, 95, 96, 105, 114 jusqu'au chemin rural n° 32  dit Dels-Vives ;
 
 -	chemin rural n° 32 dit Dels-Vives jusqu'à la limite Sud-Ouest des parcelles section DL n°s 159 et 158 ;
 

@@ -14,15 +14,15 @@ Grigny :
 
 -	limite Ouest de la parcelle section AO n° 129 jusqu'à la route de Corbeil ;
 
--	route de Corbeil (du n° 34 au n° 90) jusqu'à la limite Nord de la parcelle section C n° 552 ;
+- route de Corbeil (du n° 34 au n° 90) jusqu'à la parcelle section C 1-552, parcelles section B n<sup>os</sup> 401 et 405 incluses ;
 
--	parcelles section B n° 450, 447, 514 et 516 (gare S.N.C.F. de Grigny) ;
+- parcelles section B n°s 450, 451, 447, 514 et 516 (gare SNCF de Grigny) ;
 
 -	chemin départemental n° 310 jusqu'à la limite Sud de la parcelle section C n° 552 ;
 
 -	limite Sud de la parcelle section C n° 552 jusqu'aux limites Est des parcelles section AN n°s 35, 24, 25 et 26 ;
 
--	limites Est des parcelles section AV n°s 35, 24, 25 et 26 jusqu'aux limites Nord des parcelles section AN n°s 1, 2, 3, 47, 48, 49 et 50 ;
+- limite est des parcelles section AN n<sup>os</sup> 35, 24, 25 et 26 jusqu'aux limites nord des parcelles section AV n<sup>os</sup> 1, 2, 3, 47, 48, 49 et 50 ;
 
 -	limite Est de la parcelle section AV n° 50 jusqu'au chemin de l'Orme-Pomponne ;
 
@@ -36,7 +36,7 @@ Grigny :
 
 -	limite Sud de la parcelle section AT n° 31 à la limite communale (Fleury-Mérogis) ;
 
--	limite communale jusqu'aux limites Est des parcelles section AT n°s 20, 42, 43 et 44 (jusqu'à l'avenue Emile-Aillaud) ;
+- limite communale jusqu'aux limites ouest des parcelles section AT n<sup>os</sup> 20 et 42 jusqu'à l'avenue Emile-Aillaud ;
 
 -	avenue Emile-Aillaud jusqu'aux limites Est des parcelles section AS n°s 4 et 5 (parking exclu) ;
 

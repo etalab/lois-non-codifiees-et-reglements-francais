@@ -6,7 +6,13 @@ Lormont :
 
 - bord de Garonne, limite communale Bassens-Lormont jusqu'à la voie d'accès de la zone portuaire au pont d'Aquitaine ;
 
-- voie d'accès de la zone portuaire au pont d'Aquitaine à l'autoroute A 10 jusqu'à l'échangeur de la Croix-Rouge ;
+- voie d'accès de la zone portuaire au pont d'Aquitaine jusqu'à l'avenue de la Gardette ;
+
+- avenue de la Gardette jusqu'aux limites des parcelles AC 22 et 21 ;
+
+- limites des parcelles AC 22-21 jusqu'à la voie d'accès de l'autoroute A 10 du pont d'Aquitaine ;
+
+- voie d'accès de l'autoroute du pont d'Aquitaine jusqu'à l'échangeur de la Croix-Rouge ;
 
 - échangeur de la Croix-Rouge aux limites de sections AC/AE par la rue du courant jusqu'à la limite de sections AD/AH ;
 
@@ -24,11 +30,11 @@ Lormont :
 
 - rue Edouard-Herriot jusqu'à la rue Jean-Itey ;
 
-- rue Jean-Itey jusqu'à l'avenue de Paris ;
+- rue Jean-Itey jusqu'à l'avenue de Paris (ensemble des parcelles situées de chaque côté de la rue) ;
 
-- avenue de Paris jusqu'au rond-point des Quatre-Pavillons ;
+- avenue de Paris jusqu'au rond-point des Quatre-Pavillons, parcelles AO 74-75-76 incluses ;
 
-- rond-point des Quatre-Pavillons jusqu'à l'avenue René-Cassagne.
+- rond-point des Quatre-Pavillons, parcelles AO 74-75-76 incluses jusqu'à l'avenue Renée-Cassagne ;
 
 Cenon :
 
@@ -94,7 +100,7 @@ Cenon :
 
 - chemin des Bories y compris la parcelle section AP 324 jusqu'à l'avenue René-Cassagne ;
 
-- avenue René-Cassagne (parcelles 87 et 86 comprises) jusqu'aux limites des parcelles section AP 63, 62, 61, 60, 358, 58, 357, 57, 56, 55, puis traversée de l'avenue de la Concorde jusqu'aux limites Sud des parcelles section AP 32, 31, 249, 248, 29, 237 a, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 14, 13 jusqu'au petit chemin du Camparian (VC n° 23) ;
+- avenue René-Cassagne, (parcelles 87 et 86 comprises) jusqu'aux limites des parcelles section AP 63, 62, 61, 60, 358, 58, 357, 57, 56 et 55 ; puis traversée de l'avenue de la Concorde jusqu'aux limites sud des parcelles section AP 32, 31, 249, 248, 29, 237 a, 26, 25, 24, 23, 22, 21, 20, 19, 18, 17, 16, 250 (partie comprise entre parcelles 16 et 14) 14 et 12 jusqu'au chemin du Camparian (VC no 23) ;
 
 - petit chemin du Camparian (VC n° 23) jusqu'au chemin du Camparian (VC n° 74) ;
 
@@ -122,7 +128,7 @@ Lormont :
 
 - limite de section AV/AX jusqu'aux limites des parcelles section AV 125, 277, 54, 276, 258 ;
 
-- limites des parcelles section AV 125, 277, 54, 276, 258 jusqu'à la rue Gabriel-Dedieu ;
+- limites des parcelles section AV 125, 277, 54, 276, 258, 44 jusqu'à la rue Gabriel-Dedieu ;
 
 - rue Gabriel-Dedieu jusqu'au chemin de fer de Paris à Bordeaux ;
 
@@ -162,9 +168,13 @@ Lormont :
 
 - limite de la parcelle section AY 374 exclue jusqu'à la rue de Bordeaux puis traverser la rue de Bordeaux et prendre la rue des Terres-Rouges ;
 
-- rue des Terres-Rouges jusqu'aux limites des parcelles section AZ 399, 398, 397, 396, 394, 395, 393, 392, 390, 391 (parcelles exclues) ;
+- rue des Terres-Rouges jusqu'aux limites des parcelles section AZ 399, 398, 397, 396, 394, 395, 393 (parcelles exclues) ;
 
-- limite de parcelles section AZ 399, 398, 397, 396, 394, 395, 393, 392, 390, 391 jusqu'à la rue de la Camarde ;
+- limites des parcelles section AZ 399, 398, 397, 396, 394, 395, 393 (parcelles exclues) jusqu'à la limite de la parcelle section AZ 392 ;
+
+- limite de la parcelle section AZ 392 jusqu'à la rue des Terres-Rouges ;
+
+- rue des Terres-Rouges jusqu'à la rue de la Camarde ;
 
 - rue de la Camarde jusqu'à la rue du Général-de-Gaulle ;
 

@@ -40,7 +40,7 @@ Partie principale :
 
 - rue Franz-Lehar jusqu'au chemin de Turly ;
 
-- chemin de Turly jusqu'à la rue Arthur-Rimbaud y compris rue Arthur-Rimbaud n° 31 (parcelle section BL n° 430) ;
+- chemin de Turly jusqu'à la rue Arthur-Rimbaud, y compris parcelle section BL no 430 ;
 
 - chemin de Turly, de la rue Arthur-Rimbaud à la limite Ouest de la parcelle section BI n° 204 ;
 
@@ -80,7 +80,17 @@ Partie principale :
 
 - limite Nord de la parcelle section  BE n° 1 jusqu'à la rue Félix-Chédin ;
 
-- rue Félix-Chédin jusqu'à la rue de la Sente-aux-Loups ;
+- rue Félix-Chédin jusqu'à la parcelle section BD no 217 ;
+
+- parcelle BD no 217 jusqu'à la rue Félix-Chédin ;
+
+- rue Félix-Chédin jusqu'à la parcelle section BD no 50 ;
+
+- parcelle section BD no 50 jusqu'à la rue Félix-Chédin ;
+
+- rue Félix-Chédin jusqu'à la parcelle section BD no 45 ;
+
+- parcelle section BD no 45 jusqu'à la rue de la Sente-aux-Loups ;
 
 - rue de la Sente-aux-Loups jusqu'à la limite Ouest de la parcelle section BD n° 35 ;
 
@@ -96,9 +106,13 @@ Partie principale :
 
 - avenue de la Libération jusqu'à la rivière le Moulon ;
 
-- le Moulon tient lieu de limite jusqu'à la limite Ouest de la parcelle section AS n° 59 ;
+- le Moulon tient lieu de limite jusqu'à la limite est de la parcelle section AS n° 149 puis la limite nord-ouest de la parcelle section AS n° 579 ;
 
-- limite Ouest de la parcelle section AS n° 59 jusqu'à la rue des Frères-Michelin ;
+- limite nord-ouest de la parcelle section AS n° 579 jusqu'à la limite nord-est de la parcelle section AS n° 463 ;
+
+- limite nord-est de la parcelle section AS n° 463 jusqu'à la rue Louise-Michel en longeant la limite nord-est des parcelles section AS n°s 463 et 488 ;
+
+- rue Louise-Michel jusqu'à la rue des Frères-Michelin ;
 
 - (rue des Frères-Michelin).
 

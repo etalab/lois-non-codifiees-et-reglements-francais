@@ -8,7 +8,7 @@ Clichy-sous-Bois :
 
 -  mail du Petit-Tonneau jusqu'à l'allée Maurice-Audin ;
 
--  allée Maurice-Audin (ensemble des parcelles de chaque côté de la rue) jusqu'au chemin des Postes C.E.S. Louise-Michel inclus ;
+- allée Maurice-Audin, résidence Sévigné, groupe scolaire Paul-Langevin, résidence Vallée des Anges inclus jusqu'au chemin des Postes, CES Louise-Michel inclus ;
 
 -  chemin des Postes (limite de commune) jusqu'à la limite de la parcelle section AT n° 47 ;
 
@@ -26,9 +26,9 @@ Clichy-sous-Bois :
 
 -  allée Jules-Vallès jusqu'à l'allée de Coubron ;
 
--  allée de Coubron jusqu'à l'allée Veuve-Lindet-Girard ;
+- allée de Coubron, parcelle section AV 29 incluse, jusqu'à l'allée Veuve-Lindet-Girard ;
 
--  allée Veuve-Lindet-Girard jusqu'à l'avenue Jean-Moulin ;
+- allée Veuve-Lindet-Girard (ensemble des parcelles situées de chaque côté de la rue) jusqu'à l'avenue Jean-Moulin ;
 
 -  avenue Jean-Moulin jusqu'à la limite communale avec Montfermeil ;
 
@@ -40,9 +40,9 @@ Partie principale :
 
 -  de l'avenue de Clichy-sous-Bois jusqu'au boulevard Bargues ;
 
--  boulevard Bargues, limite Nord-Est de la parcelle section C n° 426 jusqu'à l'avenue Victor-Hugo ;
+- boulevard Bargues, limite nord-est de la parcelle section C n° 426 jusqu'à la limite sud-est de la parcelle section C n° 337 ;
 
--  avenue Victor-Hugo, limites Sud-Est des parcelles section C n°s 374, 426 et 437 jusqu'à la ruelle de la Tuilerie ;
+- limite sud-est de la parcelle section C n° 337 jusqu'à la ruelle de la Tuilerie ;
 
 -  ruelle de la Tuilerie jusqu'à la rue des Tuileries ;
 
@@ -92,7 +92,7 @@ Extension 1 :
 
 -  rue de Coubron jusqu'à l'avenue de Vaucanson ;
 
--  avenue de Vaucanson (partiellement en limite communale) jusqu'à la section G ;
+- avenue de Vaucanson (partiellement en limite communale) jusqu'à la parcelle section G n° 671 ;
 
 -  limite Sud-Est des parcelles section G n°s 672, 671, 667, 70 et 677 jusqu'à la sente du Pin ;
 
@@ -108,11 +108,9 @@ Extension 1 :
 
 -  limite Sud des parcelles section F n°s 304, 843, 861, 299 et 813 jusqu'à la rue du Docteur-Calmette ;
 
--  rue du Docteur-Calmette jusqu'à la limite Ouest des parcelles section F n°s 804, 805 et 809 ;
+- rue du Docteur-Calmette jusqu'à la limite ouest des parcelles section F n° 803 ;
 
--  limite Ouest des parcelles section F n°s 804, 805 et 809 jusqu'à la rue Marcel-Dassault ;
-
--  rue Marcel-Dassault jusqu'au chemin de la Carrière ;
+- limite ouest des parcelles section F n°s 803, 808 et 807 jusqu'au chemin de la Carrière ;
 
 -  chemin de la Carrière ;
 

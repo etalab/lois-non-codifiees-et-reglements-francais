@@ -12,7 +12,15 @@ Vaulx-en-Velin (département du Rhone) : ex-ZUP, Grappinière, Petit-Pont
 
 -	limite Ouest de la parcelle section AV n° 2 jusqu'à la rue Pierre-Cot ;
 
--	rue Pierre-Cot jusqu'à l'avenue Henri-Barbusse ;
+- rue Pierre-Cot jusqu'à la limite nord de la parcelle section AT n° 539 ;
+
+- limite nord puis limite est de la parcelle section AT n° 539 ;
+
+- limite nord puis limite est de la parcelle section AT n° 460 ;
+
+- limite sud des parcelles section AT n° 460, 369 et 370 ;
+
+- de la limite sud de la parcelle section AT n° 370 à l'avenue Henri-Barbusse ;
 
 -	avenue Henri-Barbusse jusqu'à la limite Nord de la parcelle section AX n° 293 ;
 
@@ -26,11 +34,11 @@ Vaulx-en-Velin (département du Rhone) : ex-ZUP, Grappinière, Petit-Pont
 
 -	limite Nord de la parcelle section AT n° 238 jusqu'à la rue Anatole-France ;
 
--	rue Anatole-France jusqu'à la limite Nord de la parcelle section AT n° 522 ;
+- rue Anatole-France jusqu'à la limite nord de la parcelle section AT n° 383 ;
 
--	limite Nord de la parcelle section AT n° 522 jusqu'à la limite Ouest du cimetière ;
+- limite nord de la parcelle section AT n° 383 jusqu'à la limite ouest du cimetière ;
 
--	limite Ouest du cimetière et le long de la limite Ouest des parcelles section BD n°s 9 et 8 jusqu'à l'avenue Salvador-Allende ;
+- limite ouest du cimetière et le long de la limite est des parcelles section BD n°s 9 et 8 jusqu'à l'avenue Salvador-Allende ;
 
 -	avenue Salvador-Allende jusqu'à la limite Ouest de la parcelle section AP n° 312 ;
 
@@ -78,7 +86,7 @@ Vaulx-en-Velin (département du Rhone) : ex-ZUP, Grappinière, Petit-Pont
 
 -	rue Stalingrad jusqu'à la limite Sud de la parcelle section BC n° 835 b ;
 
--	limites des parcelles section BC n°s 835 b, 595, 307, 857, 838, 839, et 665 jusqu'au n° 10 de la rue Javelot ;
+- limite des parcelles section BC n°s 835b, 595, 307, 837, 838, 839, et 665 jusqu'au n° 10 de la rue Javelot ;
 
 -	rue Javelot jusqu'à la limite Sud de la parcelle section AZ n° 124 ;
 
@@ -88,7 +96,7 @@ Vaulx-en-Velin (département du Rhone) : ex-ZUP, Grappinière, Petit-Pont
 
 -	avenue Lefèvre jusqu'à la limite Nord de la parcelle section AZ n° 107 ;
 
--	limite Nord de la parcelle section AZ n° 107 jusqu'à la limite Est de la parcelle section AZ n° 107 puis limite Est de la parcelle section AZ n° 107 jusqu'à l'impasse Lefèvre ;
+- limite nord de la parcelle section AZ n° 107 jusqu'à la limite ouest de la parcelle section AZ n° 509 puis limite ouest de la parcelle section AZ n° 509 jusqu'à l'impasse Lefèvre ;
 
 -	impasse Lefèvre jusqu'à la limite Ouest de la parcelle section AY n° 81 ;
 
@@ -100,12 +108,12 @@ Vaulx-en-Velin (département du Rhone) : ex-ZUP, Grappinière, Petit-Pont
 
 -	limite des parcelles section AW n°s 263, 361, 362 et 182 jusqu'à la rue Ernest-Renan ;
 
--	rue Ernest-Renan jusqu'à la limite Ouest de la parcelle section AW n° 284 ;
+- rue Ernest-Renan jusqu'à la limite est de la parcelle section AW n° 304 ;
 
--	limite Ouest des parcelles section AW n°s 284 et 283 jusqu'à l'avenue du 8-Mai-1945 ;
+- limite sud des parcelles section AW n°s 304, 284 et 283 jusqu'à l'avenue du 8-Mai-1945 ;
 
 -	avenue du 8-Mai-1945 jusqu'à la limite Ouest de la parcelle section AW n° 277 ;
 
--	limite Ouest des parcelles section AW n°s 277, 279, 280 et 308 ;
+- limite sud des parcelles section AW n°s 277, 279, 280 et 308 ;
 
 -	(limite Ouest de la parcelle section AW n° 308, intersection entre la bretelle échangeur et l'avenue du 8-Mai-1945 jusqu'à l'autoroute A 42).

@@ -32,23 +32,29 @@ Saint-Dizier (département de la Haute-Marne) : Le Vert-Bois, Le Grand-Lachat
 
 -	limite Est de la parcelle section DZ n° 133 jusqu'à la rue de Clefmont ;
 
--	rue de Clefmont jusqu'à la limite Sud-Ouest de la parcelle section DZ n° 131 ;
+- traversée de la rue de Clefmont, du chemin de fer de Laon à Chaumont et du canal de la Marne à la Saône jusqu'à la limite est de la parcelle section DT n° 14 ;
 
-- 	rue de Clefmont, limite Sud-Ouest de la parcelle section DZ n° 131,  traversée chemin de fer de Laon à Chaumont et canal de la Marne jusqu'à  la limite Nord-Ouest de la parcelle section DT n° 14 ;
+- limite est de la parcelle section DT n° 14 jusqu'à la limite nord-ouest de la parcelle EL n° 104 ;
 
--	limite Nord-Ouest de la parcelle section DT n° 14 jusqu'à la rue Victor-Basch puis le chemin particulier ;
+- limite nord des parcelles section EL n°s 104 et 105 jusqu'à la limite sud-ouest de la parcelle section EL n° 71 ;
 
-- 	chemin particulier, limite Sud des parcelles section EL n°s 104 et 105,  canal de la Marne à la Saône jusqu'à la limite communale et  départementale ;
+- limite sud-ouest de la parcelle section EL n° 71 jusqu'à la limite nord-ouest de la parcelle section EL n° 71 ;
+
+- limite nord-ouest de la parcelle section EL n° 71 jusqu'au canal de la Marne à la Saône ;
+
+- canal de la Marne à la Saône jusqu'à la limite communale et départementale est ;
 
 -	limite communale et départementale jusqu'aux limites Est des parcelles section EK n°s 10 et 80 ;
 
 -	limite Est puis Sud de la section EK n° 80 jusqu'à la limite Est de la parcelle section EK n° 85 ;
 
--	limite Est de la parcelle section EK n° 85, traversée de la Marne jusqu'à la place Becquey ;
+- limite est de la parcelle section EK n° 85, et rive nord de la Marne jusqu'à la place Becquey ;
 
 -	place Becquey jusqu'au chemin particulier enjambant la Marne ;
 
--	chemin particulier enjambant la Marne jusqu'à la R.N. 67 ;
+- chemin particulier enjambant la Marne jusqu'à la limite est de la parcelle section EK n° 50 ;
+
+- limite est de la parcelle EK n° 50 puis limite sud des parcelles section EK n°s 50 et 53 jusqu'à la RN 67 ;
 
 -	R.N. 67 jusqu'à la limite Sud-Ouest de la parcelle section EM n° 256 ;
 
@@ -70,15 +76,17 @@ Saint-Dizier (département de la Haute-Marne) : Le Vert-Bois, Le Grand-Lachat
 
 - 	limite Nord de la Marne, longer la Marne jusqu'aux limites Est des  parcelles section DM n°s 267 et 268 puis limite Sud de la parcelle  section DM n° 494 jusqu'à la rue Costes-et-Bellonte ;
 
-- 	rue Costes-et-Bellonte jusqu'à la limite Ouest de la parcelle n° 495  puis limite Nord des parcelles section DM n°s 487 et n° 488 par la rue  Costes-et-Bellonte. ;
+- rue Costes-et-Bellonte jusqu'à la limite sud-ouest de la parcelle section DM n° 495, puis limite ouest de la parcelle section DM n° 495, puis rue Costes-et-Bellonte jusqu'à la limite nord de la parcelle section DM n° 487, puis limite nord des parcelles section DM 487 et 488 ;
 
 -	limite Nord-Est de la parcelle section DM n° 488 jusqu'aux limites Ouest, Nord et Est de la parcelle section DM n° 512 ;
 
--	limite de la parcelle section DM n° 512 jusqu'à la limite Sud-Ouest de la parcelle section DN n° 68 ;
+- limite de la parcelle section DM n° 512 jusqu'à la limite nord-est de la parcelle section DN n° 68 ;
 
-- 	limite Sud-Est de la parcelle section DN n° 68 jusqu'à la rue de la  Chaînerie par les limites Ouest des parcelles section DS n°s 237, 240 et  90 et Sud de la parcelle section DS n° 219 ;
+- limite nord-est de la parcelle section DN n° 68 jusqu'à la rue de la Chaînerie par les limites ouest des parcelles section DS n°s 237, 241 et 90 et sud de la parcelle section DS n° 219 ;
 
--	rue de la Chaînerie jusqu'à la rue Victor-Basch ;
+- rue de la Chaînerie jusqu'à la limite nord-est de la parcelle section DS n° 221 ;
+
+- limite nord-est de la parcelle section DS n° 221 et limite est de la parcelle section DS n° 224 prolongée par la rue de la Chaînerie jusqu'à la rue Victor-Basch ;
 
 -	rue Victor-Basch jusqu'au canal de la Marne à la Saône par la limite Ouest de la parcelle section DT n° 16 ;
 
@@ -88,9 +96,9 @@ Saint-Dizier (département de la Haute-Marne) : Le Vert-Bois, Le Grand-Lachat
 
 -	limites Nord de la parcelle section DZ n° 43 puis Ouest des parcelles section DZ n°s 74, 67, 65 et 48 jusqu'à la R.N. 4 ;
 
--	R.N. 4 jusqu'au chemin rural dit de la voie Faubert ;
+- RN 4 jusqu'au chemin rural dit de la voie Faubert (extrémité sud-ouest) ;
 
--	chemin de la voie Faubert jusqu'à la rue Jean-Camus ;
+- chemin de la voie Faubert (extrémité sud-ouest) jusqu'à la rue Jean-Camus par la limite ouest de la parcelle section DY n° 153 ;
 
 -	rue Jean-Camus jusqu'à la rue du 19-Mars-1962 par la limite Ouest de la parcelle section DV n° 83 ;
 
@@ -102,13 +110,11 @@ Saint-Dizier (département de la Haute-Marne) : Le Vert-Bois, Le Grand-Lachat
 
 -	rue de l'Ecole jusqu'à la limite Est de la parcelle section DY n° 131 ;
 
--	limite Est de la parcelle section DY n° 131 jusqu'à la limite Est de la parcelle section DY n° 130 (exclue) ;
-
--	limite Est de la parcelle DY n° 130 (exclue) jusqu'à la rue Jean-Vilar ;
+- limite est des parcelles section DY n°s 131, 38, 37, 36 et 35, puis nord des parcelles section DY n°s 35, 45 et 46 jusqu'à la rue Jean-Vilar ;
 
 -	rue Jean-Vilar jusqu'à la limite Sud de la parcelle section DV n° 384 ;
 
--	limite Sud de la parcelle section DV n° 384 et limite Sud de la parcelle section DV n° 52 jusqu'à la rue des René ;
+- limite sud de la parcelle section DV n° 384 puis limite sud des parcelles section DV n°s 52 et 43 jusqu'à la rue des René ;
 
 -	rue des René jusqu'à la limite Sud de la parcelle section DV n° 11 ;
 
@@ -122,11 +128,15 @@ Saint-Dizier (département de la Haute-Marne) : Le Vert-Bois, Le Grand-Lachat
 
 -	limite communale jusqu'à l'ancien chemin de fer ;
 
--	ancien chemin de fer jusqu'à l'avenue Jules-Guesde ;
+- ancien chemin de fer jusqu'à l'allée Jules-Guesde ;
 
--	avenue Jules-Guesde jusqu'à l'avenue de la Cornée-Renard ;
+- allée Jules-Guesde jusqu'à l'avenue de la Cornée-Renard ;
 
-- 	avenue de la Cornée-Renard jusqu'à la rue André-Barbaux par les limites  Nord des parcelles section CD n°s 674, 675, 692 et 693 ;
+- avenue de la Cornée-Renard jusqu'à la limite ouest de la parcelle section CD n° 674, puis limite nord des parcelles section CD n°s 674 et 675, limite ouest des parcelles section CD n°s 692, 653, 759, 655, 656, 657, 658, 659, 660, 661, 662, 608, 609 jusqu'à l'avenue de la Loubert ;
+
+- avenue de la Loubert jusqu'à la limite sud-ouest de la parcelle section CD n° 604 ;
+
+- limite sud-ouest de la parcelle section CD n° 604, puis limites ouest et nord de la parcelle section CD n° 604 jusqu'à la rue André-Barbaux ;
 
 -	rue André-Barbaux jusqu'à la rue du Canard-Sauvage ;
 

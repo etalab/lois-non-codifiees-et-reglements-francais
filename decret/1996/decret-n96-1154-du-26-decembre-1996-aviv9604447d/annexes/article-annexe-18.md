@@ -2,9 +2,9 @@
 
 Les Mureaux (département des Yvelines) : Cinq Quartiers (Z.A.C. du Roplat)
 
--	rue Aristide-Briand jusqu'à la rue Gambetta ;
+- rue Aristide-Briand (ensemble des parcelles situées de chaque côté de la rue) jusqu'à la rue Gambetta ;
 
--	rue Gambetta jusqu'à la rue des Bougimonts ;
+- rue Gambetta (ensemble des parcelles situées de chaque côté de la rue) jusqu'à la rue des Bougimonts ;
 
 -	rue des Bougimonts jusqu'à la rue du Château ;
 
@@ -22,11 +22,11 @@ Les Mureaux (département des Yvelines) : Cinq Quartiers (Z.A.C. du Roplat)
 
 -	allée de la Salle-à-Manger jusqu'à la rue Albert-Thomas en limite parcelle section BK n°s 1 et 2 (CES Jules-Verne) ;
 
--	limite Est de la parcelle section BK n° 1 (parcelle section BK n° 2 incluse) ;
+- limite est de la parcelle section BK 2 (parcelle BK 1 incluse) ;
 
 -	limite Sud de la parcelle section BK n° 1 ;
 
--	limite Est de la parcelle section BL n° 28 (carrefour rue Albert-Thomas/rue Louis-Blériot) et limite Est des parcelles BK n°s 9, 10, 11 et section BL n°s 29, 27, 26 jusqu'à la limite intercommunale avec Chapet ;
+- parcelles section n° BL 63 (limite est), jonction rue Blériot et rue Gabriel-Fauré limite est des parcelles section BK n°s 9, 10 et 11 et parcelles section BL n°s 29, 55 et 52 jusqu'à la limite intercommunale de Chapet ;
 
 -	limite Est des parcelles section BM à l'exclusion du lycée François-Villon jusqu'à l'avenue de l'Europe ;
 

@@ -36,7 +36,7 @@ Saint-Quentin (département de l'Aisne) : Le Vermandois
 
 -	boulevard Richelieu (ensemble des parcelles situées de chaque côté de la rue) jusqu'à la place Crommelin ;
 
--	place Crommelin jusqu'à la rue J.-F.-Kennedy ;
+- place Crommelin (ensemble des parcelles situées de chaque côté de la place) jusqu'à la rue J.-F.-Kennedy ;
 
 -	rue J.-F.-Kennedy (ensemble des parcelles situées de chaque côté de la rue) jusqu'au chemin de la Vallée-Ducastelle ;
 

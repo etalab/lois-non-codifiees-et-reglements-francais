@@ -6,15 +6,21 @@ Partie principale de la ZFU : ZUP Pissevin, Valdegour :
 
 -	chemin de Valdegour jusqu'aux limites Est des parcelles section EA 400, 402, 481, 482, 484, 149, limite Nord des parcelles 451, 198, 389, 458 et 93 jusqu'à l'impasse du Puits-du-Roulle ;
 
--	impasse du Puits-du-Roulle jusqu'au chemin du Belvédère ;
+- impasse du Puits-de-Roulle jusqu'au chemin du Puits-de-Roulle ;
 
--	chemin du Belvédère jusqu'à l'impasse Pissevin ;
+- chemin du Puits-de-Roulle jusqu'à la limite nord de la parcelle section EA n° 79 ;
 
--	impasse Pissevin jusqu'à la limite Est de la parcelle section EB n° 23 ;
+- limite nord de la parcelle section EA n° 79, limites ouest et nord de la parcelle section EA n° 76 jusqu'à la parcelle section EA n° 75a ;
 
--	limite Est de la parcelle section EB n° 23, puis limite Sud des parcelles EB n°s 23, 22, 162 et limite Ouest des parcelles EB n°s 474 et 526 ;
+- limite ouest de la parcelle section EA n° 75a, puis limites nord et est des parcelles section EB n°s 39 et 39a jusqu'aux limites nord et est de la parcelle section EB n° 32 ;
 
--	limite Ouest de la parcelle section EB n° 526 (stade des Amandiers) jusqu'à la rue Roberval ;
+- limite est de la parcelle section EB n° 32 jusqu'à la limite sud des parcelles section EB n°s 32, 33, 34 et 35a ;
+
+- limite sud de la parcelle section EB n° 35a jusqu'à la limite est de la parcelle section EB n° 23 ;
+
+- limite est de la parcelle section EB n° 23, puis limite sud des parcelles section EB n°s 23, 22a, 162 jusqu'à la limite est de la parcelle section EB n° 474 ;
+
+- limite est des parcelles section EB NC474 et 526 jusqu'à la rue Roberval ;
 
 -	rue Roberval jusqu'au boulevard Kennedy ;
 

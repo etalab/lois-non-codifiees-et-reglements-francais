@@ -28,9 +28,9 @@ Partie principale : quartiers Nord :
 
 - limite Sud des parcelles section MP n° 235 et 236 jusqu'à la rue Montaigne ;
 
-- rue Montaigne jusqu'à la limite Ouest de la parcelle section MP n° 260 ;
+- rue Montaigne jusqu'à la limite est de la parcelle section MP no 260 ;
 
-- limite Ouest de la parcelle section MP n° 260 jusqu'à la limite Sud de la parcelle section CN n° 31 ;
+- limite est de la parcelle section MP no 260 jusqu'à la limite sud de la parcelle section CN no 31 ;
 
 - limite Sud des parcelles section CN n° 31, 293, 294, 295 jusqu'à la rue Voltaire franchie, puis limite Sud de la parcelle section CN n° 282 jusqu'au boulevard de Roubaix ;
 
@@ -48,7 +48,7 @@ Partie principale : quartiers Nord :
 
 - avenue du Général-de-Gaulle jusqu'aux limites Sud-Ouest des parcelles section BV n° 37 et 247 ;
 
-- limites Sud-Ouest des parcelles section BV n° 37 et 247, puis limite Ouest de la parcelle section BV n° 257, puis limite Sud de la parcelle section BV n° 261 et limite Ouest de la parcelle section BV n° 39 jusqu'au chemin de la Flaque ;
+- limites sud-ouest des parcelles section BV n° 37 et 247 puis limite ouest de la parcelle section BV n° 257, puis limite sud de la parcelle section BV n° 261 et limite ouest de la parcelle section BV no 239 jusqu'au chemin de la Flaque ;
 
 - chemin de la Flaque jusqu'à la rue Emile-Lesot ;
 

@@ -4,15 +4,15 @@ Calais (département du Pas-de-Calais) : Beau-Marais
 
 - avenue Toumaniantz jusqu'à la rocade Est ;
 
-- rocade Est jusqu'à la rue Costes et Bellonte ;
+- rocade est jusqu'au carrefour des rues Costes-et-Bellonte et Louis-Bréguet ;
 
-- rue Costes et Bellonte jusqu'à la rue Marcel-Dassault ;
+- rue Louis-Bréguet du carrefour avec la rue Costes-et-Bellonte jusqu'à la limite est de la parcelle section BY n° 237 incluse ;
 
-- rue Marcel-Dassault jusqu'à la rue Louis-Bréguet ;
+- limite est de la parcelle section BY n° 237 jusqu'à la limite nord de la parcelle section BY n° 120 ;
 
-- rue Louis-Bréguet jusqu'à la limite Est de la parcelle section BY n° 83 ;
+- limite nord des parcelles section BY n°s 120, 95 et 85 jusqu'à la limite est de la parcelle section BY n° 85 ;
 
-- limite Est de la parcelle section BY n° 83 jusqu'à la rue M.-Doret ;
+- limite est des parcelles section BY n°s 85 et 14 jusqu'à la rue M.-Doret ;
 
 - rue M.-Doret jusqu'à la rocade Est ;
 

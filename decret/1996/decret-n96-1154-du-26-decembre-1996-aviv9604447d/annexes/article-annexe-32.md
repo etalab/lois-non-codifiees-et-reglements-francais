@@ -110,13 +110,15 @@ Tourcoing : La Bourgogne
 
 -	rue de Bourgogne jusqu'à la place Albert-Thomas ;
 
--	place Albert-Thomas jusqu'à la rue de Mouscron ;
+- place Albert-Thomas (ensemble des parcelles situées de chaque côté de la place) jusqu'à la rue de Mouscron ;
 
--	rue de Mouscron jusqu'à la rue de Limé ;
+- rue de Mouscron (ensemble des parcelles situées de chaque côté de la rue) jusqu'à la rue de Linné ;
 
--	rue de Limé jusqu'à la rue Ampère ;
+- rue de Linné jusqu'à la rue Ampère ;
 
--	rue Ampère jusqu'à la rue des Trois-Pierres ;
+- rue Ampère jusqu'au passage piétons Ampère-Trois-Pierres ;
+
+- passage piétons Ampère-Trois-Pierres jusqu'à la rue des Trois-Pierres ;
 
 -	rue des Trois-Pierres jusqu'à la rue de Soissons ;
 
@@ -136,8 +138,8 @@ Tourcoing : La Bourgogne
 
 -	limite Nord-Est du cimetière jusqu'à la limite Nord-Ouest du cimetière ;
 
--	limite Nord-Ouest du cimetière jusqu'à la limite Sud-Ouest de la parcelle section AO n° 323 ;
+- limite nord-ouest du cimetière jusqu'à la limite sud-ouest de la parcelle section AO n° 364 ;
 
--	limite Sud-Ouest de la parcelle section AO n° 323 jusqu'à la rue de l'Yser ;
+- limite sud-ouest de la parcelle section AO n° 364 jusqu'à la rue de l'Yser ;
 
 -	(rue de l'Yser).

@@ -10,7 +10,13 @@ Partie principale : Le Mail
 
 - rue de Marsannay (ensemble des parcelles situées de chaque côté de la rue) jusqu'à la rue Roger-Salengro ;
 
-- rue Roger-Salengro jusqu'au boulevard Edouard-Branly ;
+- rue Roger-Salengro jusqu'à la parcelle section AD n° 77 ;
+
+- parcelle section AD n° 77 jusqu'à la rue Roger-Salengro ;
+
+- rue Roger-Salengro jusqu'à la parcelle section AB n° 199 ;
+
+- parcelle section AB n° 199 jusqu'au boulevard Edouard-Branly ;
 
 - boulevard Edouard-Branly jusqu'à la rue Alfred-Changenet ;
 
@@ -18,7 +24,9 @@ Partie principale : Le Mail
 
 - rue Jean-Druet jusqu'à la rue Charles-Poisot ;
 
-- rue Charles-Poisot jusqu'à la rue du Général-Giraud ;
+- rue Charles-Poisot jusqu'à la parcelle section AA n° 54 ;
+
+- parcelle section AA n° 54 jusqu'à la rue du Général-Giraud ;
 
 - rue du Général-Giraud jusqu'au boulevard du Maréchal-de-Lattre-de-Tassigny  ;
 

@@ -14,9 +14,7 @@ Meaux (département de Seine-et-Marne) : Beauval, La Pierre-Collinet
 
 -	boulevard du Maréchal-Bessières jusqu'aux limites Nord des parcelles section AM n°s 42, 202, 203, 204, 205 ;
 
--	limites Nord des parcelles section AM n°s 42, 202, 203, 204, 205 jusqu'à la rue Simone-Bacquier ;
-
--	rue Simone-Bacquier de la limite Nord-Est parcelle section AM n° 205 à la limite Nord-Ouest de la parcelle section AM n° 73 ;
+- limites nord des parcelles section AM n°s 42, 202, 203, 204 et 205 jusqu'à la limite nord-ouest de la parcelle section AM n° 73 ;
 
 -	limite Nord-Ouest parcelle section AM n° 73 jusqu'à la limite Ouest parcelle section AM n° 110 ;
 
@@ -26,7 +24,7 @@ Meaux (département de Seine-et-Marne) : Beauval, La Pierre-Collinet
 
 -	chemin de la Cave-aux-Hérons jusqu'au canal de l'Ourcq ;
 
--	canal de l'Ourcq jusqu'à la limite Nord parcelles section AP n°s 192 et 83 ;
+- canal de l'Ourcq jusqu'à la limite nord, parcelles section AP n°s 192 et 83, parcelles section AP n°s 81 et 77 incluses ;
 
 -	limite Nord de la parcelle section AP n° 106 jusqu'à la limite Nord parcelles section AP n°s 106 et 107 en traversant l'allée des Platanes ;
 
@@ -48,7 +46,7 @@ Meaux (département de Seine-et-Marne) : Beauval, La Pierre-Collinet
 
 -	chemin dit de la Marine jusqu'au chemin rural n° 22 dit chemin de Fublaines ;
 
--	chemin rural n° 22 dit chemin de Fublaines jusqu'au canal de l'Ourcq ;
+- chemin rural n° 22 dit chemin de Fublaines, parcelle section AT n° 6a incluse jusqu'au canal de l'Ourcq ;
 
 -	canal de l'Ourcq jusqu'à l'avenue Jean-Henri-Dunant ;
 
@@ -82,7 +80,7 @@ Meaux (département de Seine-et-Marne) : Beauval, La Pierre-Collinet
 
 -	limites Sud parcelle section BI n° 533 et 130 jusqu'à l'avenue Jean-Henri-Dunant ;
 
--	avenue Jean-Henri-Dunant jusqu'à la rue de l'Ourcq ;
+- avenue Jean-Henri-Dunant (ensemble des parcelles situées de chaque côté de la rue) jusqu'à la rue de l'Ourcq ;
 
 -	rue de l'Ourcq jusqu'à la limite Nord de la parcelle AX n° 55 ;
 
