@@ -5,7 +5,7 @@
 - [Titre III : Durée du travail - Salaires Indemnités pour charges de famille](titre-iii)
 - [Titre IV : Augmentation de salaires Augmentations de salaire pour travaux spéciaux, etc](titre-iv)
 - [Titre V : Accidents du travail - Maladie Indemnités en cas de décès](titre-v)
-- [Titre VI : Discipline Peines disciplinaires](titre-vi)
+- [Titre VI : Discipline Congédiement - Abandon des travaux - Refus de travail - Séjour à l'étranger](titre-vi)
 - [Titre VII : Dispositions diverses Classement dans la non-disponibilité ou la non-affectation - Périodes d'instruction militaire](titre-vii)
 - [Titre VIII : Retraites Mise à la retraite](titre-viii)
 - [Titre IX : Dispositions transitoires Abrogation des textes antérieurs](titre-ix)

@@ -1,3 +1,3 @@
-# Titre VI : Discipline Peines disciplinaires
+# Titre VI : Discipline Congédiement - Abandon des travaux - Refus de travail - Séjour à l'étranger
 
-- [Article 24](article-24.md)
+- [Article 25](article-25.md)
