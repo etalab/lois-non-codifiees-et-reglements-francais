@@ -1,8 +1,12 @@
 # Article 15
 
+Chaque conseil économique et social régional comprend des sections dont le nombre, les attributions, la composition et le fonctionnement sont fixés par un décret en Conseil d'Etat sur sa proposition. Ces sections émettent des avis.
+
+Le conseil économique et social régional se prononce sur tous les avis et rapports établis par les sections avant leur transmission à l'autorité compétente. Ces avis et rapports sont communiqués au conseil régional. "
+
 Le comité économique et social établit son règlement intérieur.
 
-Le conseil régional met à la disposition du comité économique et social les moyens de fonctionnement nécessaires. Ces moyens doivent permettre notamment d'assurer le secrétariat des séances du comité et de celles de ses commissions. Le conseil régional met également les services régionaux ou une partie de ceux-ci à la disposition du comité économique et social à titre permanent ou temporaire, notamment pour lui permettre de réaliser des études sur tout projet à caractère économique, social ou culturel de sa compétence.
+Le conseil régional met à la disposition du comité économique et social les moyens de fonctionnement nécessaires. Ces moyens doivent permettre notamment d'assurer le secrétariat des séances du conseil et de celles de ses sections et commissions. Le conseil régional met également les services régionaux ou une partie de ceux-ci à la disposition du comité économique et social à titre permanent ou temporaire, notamment pour lui permettre de réaliser des études sur tout projet à caractère économique, social ou culturel de sa compétence.
 
 Les crédits nécessaires au fonctionnement du comité économique et social et, le cas échéant, à la réalisation de ses études font l'objet d'une inscription distincte au budget de la région.
 
