@@ -4,7 +4,7 @@ Les informations traitées sont les suivantes :
 
 - nom, prénom ou raison sociale, adresse, numéro SIRET et effectifs du tiers déclarant ;
 
-- nom(s) et prénoms ou raison sociale, sexe, date et lieu de naissance, adresse complète, profession, référence du compte bancaire, numéro SIRET, le cas échéant, des bénéficiaires de salaires, pensions, indemnités journalières de maladie ou de chômage, honoraires et revenus assimilés, revenus de capitaux mobiliers ainsi que des intermédiaires agissant pour le compte des bénéficiaires ;
+- nom(s) et prénoms ou raison sociale, sexe, date et lieu de naissance, numéro d'inscription au répertoire national d'identification des personnes physiques transmis par les personnes ou organismes visés à l'article R. 81 A du livre des procédures fiscales, adresse complète, profession, référence du compte bancaire, numéro SIRET, le cas échéant, des bénéficiaires de salaires, pensions, indemnités journalières de maladie ou de chômage, honoraires et revenus assimilés, revenus de capitaux mobiliers ainsi que des intermédiaires agissant pour le compte des bénéficiaires ;
 
 - montant des salaires payés, des rémunérations, des pensions, des sommes versées, des avantages en nature, des retenues à la source, des indemnités journalières, des revenus de capitaux mobiliers imposables ou soumis à prélèvement libératoire, des cessions de valeurs mobilières, des avoirs fiscaux ou crédits d'impôt, des prélèvements libératoires et, le cas échéant, taux de la déduction supplémentaire à laquelle la profession exercée ouvre droit, référence des comptes concernés et caractéristiques propres aux comptes d'épargne en actions et aux bons de caisse et de capitalisation ;
 

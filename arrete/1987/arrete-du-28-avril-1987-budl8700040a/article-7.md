@@ -1,6 +1,6 @@
 # Article 7
 
-Sont destinataires des informations traitées dans le cadre de leur attributions :
+Sont destinataires des informations traitées, à l'exclusion du numéro d'inscription au répertoire national d'identification des personnes physiques, dans le cadre de leur attributions :
 
 - au sein de la direction générale des impôts, les agents habilités des services chargés des missions d'assiette, de contrôle et de recouvrement des impôts, droits, taxes et redevances prévus par le code général des impôts ;
 

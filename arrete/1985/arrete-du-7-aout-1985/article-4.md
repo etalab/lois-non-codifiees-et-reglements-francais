@@ -1,6 +1,6 @@
 # Article 4
 
-Les informations collectées en application de l'article 3 sont les suivantes [*contenu du dossier*] :
+Les informations collectées en application de l'article 3 sont les suivantes :
 
 1. Identité :
 
@@ -20,7 +20,9 @@ Pour les personnes physiques :
 
 - pour les entrepreneurs individuels, le numéro Siren de l'entreprise, complété par le numéro complémentaire (N.I.C.) du lieu d'imposition ;
 
-- numéro fiscal attribué par tirage aléatoire par la direction générale des impôts [*DGI*].
+- numéro fiscal attribué par tirage aléatoire par la direction générale des impôts.
+
+- numéro d'inscription au répertoire national d'identification des personnes physiques (NIR).
 
 Pour les personnes morales ou assimilées :
 

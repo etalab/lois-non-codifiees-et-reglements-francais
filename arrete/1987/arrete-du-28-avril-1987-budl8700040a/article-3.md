@@ -2,7 +2,7 @@
 
 L'exploitation des bulletins de recoupement est destinée à apporter une aide à l'organisation des opérations de contrôle sur pièces des dossiers fiscaux et aux opérations de recouvrement.
 
-Leur transmission aux services de la direction générale des imp<CB>ts ou de la direction de la comptabilité publique s'effectue soit de manière systématique pour certaines catégories de revenus, soit ponctuellement sur leur demande, soit dans le cadre des procédures de sélection automatisées dont l'objet est de permettre la restitution aus services compétents des bulletins de recoupement qui répondent à l'un des critères suivants :
+Leur transmission, à l'exclusion de celle du numéro d'inscription au répertoire national d'identification des personnes physiques, aux services de la direction générale des impôts ou de la direction de la comptabilité publique s'effectue soit de manière systématique pour certaines catégories de revenus, soit ponctuellement sur leur demande, soit dans le cadre des procédures de sélection automatisées dont l'objet est de permettre la restitution aus services compétents des bulletins de recoupement qui répondent à l'un des critères suivants :
 
 ils se rapportent à un titulaire de revenus qui n'a pu ^tre retrouvé dans les fichiers de déclarants ;
 
