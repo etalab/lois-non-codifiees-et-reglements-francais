@@ -70,7 +70,7 @@ Laboratoire européen de l'eau (L.E.E.), Goujard.
 
 Laboratoire de la société des agriculteurs de France.
 
-5, passage Geffroy-Didelot, 75017 Paris : A4 à A8, B, C1 à C9, C12, D3, G1 à G4, G6 à G10, H1 à H4, H7 à H12.
+5, passage Geffroy-Didelot, 75017 Paris : A1, A2, A4 à A11, B, C1 à C9, C12, D1 à D3, G1 à G4, G6 à G10, H1 à H4, H7 à H13.
 
 Laboratoire Crépin, analyses et contrôles.
 
