@@ -1,5 +1,9 @@
 # Article 4
 
-Le ministre chargé des affaires culturelles nomme le président et le vice-président, lequel est désigné parmi les membres scientifiques du comité.
+Le ministre chargé de la culture nomme le président et deux vice-présidents choisis parmi les membres du comité d'histoire.
 
-Le secrétariat général du comité est assuré conjointement par la mission des archives du ministère et le département des études et de la prospective, services de la direction de l’administration générale. Le directeur de l’administration générale peut apporter au comité les concours financiers ou matériels qui favoriseront son activité.
+Un vice-président est choisi parmi les membres scientifiques du comité, l'autre est l'inspecteur général de l'administration des affaires culturelles désigné selon les modalités prévues à l'article précédent.
+
+Le président du comité désigne le secrétaire général.
+
+La direction de l'administration générale (mission des archives du ministère, mission de la recherche et de la technologie et département des études et de la prospective) apporte au comité les moyens financiers et matériels nécessaires à son activité.

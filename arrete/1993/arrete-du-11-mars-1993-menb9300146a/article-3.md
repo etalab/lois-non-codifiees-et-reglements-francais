@@ -4,4 +4,12 @@ Le comité est composé de trente membres : historiens et chercheurs, artistes e
 
 Les membres du comité sont nommés par le ministre pour un mandat de trois ans renouvelable.
 
-Sont membres de droit à titre permanent : le directeur de l’administration générale, le conservateur général chargé de la section contemporaine aux Archives nationales, le conservateur responsable de la mission des archives du ministère, le chef du département des études et de la prospective.
+Sont membres de droit :
+
+- un inspecteur général de l'administration des affaires culturelles désigné par le ministre chargé de la culture sur proposition du chef de service ;
+
+- le directeur de l'administration générale ;
+
+- le conservateur général du patrimoine chargé de la section contemporaine aux Archives nationales ;
+
+- le chef du département des études et de la prospective.
