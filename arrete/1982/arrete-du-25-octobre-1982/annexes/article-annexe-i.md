@@ -4,27 +4,53 @@
 
 Chapitre Ier
 
-Animaux élevés, gardés ou détenus dans des fermes (bovins, caprins, porcins, équidés, volailles et autres animaux de basse-cour)
+Animaux élevés ou détenus pour la production d'aliments, de laine, de peau ou de fourrure ou à d'autres fins agricoles et équidés domestiques
 
-1. a) Tous les locaux destinés au logement, même temporaire, des animaux doivent être efficacement ventilés et naturellement ou artificiellement éclairés.
+1. Dispositions relatives aux bâtiments, locaux de stabulation et aux équipements :
 
-Ces locaux doivent être protégés des intempéries sur au moins trois côtés et suffisamment vastes et aménagés pour permettre le couchage simultané de tous les animaux qui y sont hébergés.
+a) Les matériaux à utiliser pour la construction des locaux de stabulation, et notamment pour les sols, murs, parois et les équipements avec lesquels les animaux peuvent entrer en contact, ne doivent pas nuire aux animaux et doivent pouvoir être nettoyés et désinfectés de manière approfondie.
 
-b) Les murs et les parois doivent pouvoir être nettoyés et désinfectés de manière efficace.
+Les locaux doivent être nettoyés, désinfectés et désinsectisés autant que de besoin.
 
-c) En dehors des élevages sur litières accumulées, les sols doivent êtres imperméables, maintenus en bon état et avoir une pente suffisante pour assurer l'écoulement des liquides et permettre l'évacuation des déchets. Les sols des locaux d'élevage et des cages doivent être de conception et en matériaux tels qu'ils ne puissent occasionner aucune lésion on traumatisme aux animaux, notamment à l'extrémité des membres.
+b) Les locaux de stabulation et les équipements destinés à attacher les animaux sont construits et entretenus de telle sorte qu'il n'y ait pas de bords tranchants ou de saillies susceptibles de blesser les animaux.
 
-d) Toutes les parties des installations doivent être maintenues en bon état de propreté et d'entretien. Les fumiers doivent être enlevés aussi souvent que nécessaire. Les locaux doivent être désinfectés et désinsectisés autant que de besoin, avec des produits homologués.
+c) En dehors des élevages sur litières accumulées, les sols doivent être imperméables, maintenus en bon état et avoir une pente suffisante pour assurer l'écoulement des liquides. Ils doivent permettre l'évacuation des déchets.
 
-2. a) Dans les stabulations libres de bovins, équidés, porcins, ovins et caprins, les aires mises à la disposition des animaux doivent être stabilisées ou imperméabilisées.
+d) La circulation de l'air, les taux de poussière, la température, l'humidité relative de l'air et les concentrations de gaz doivent être maintenus dans des limites qui ne nuisent pas aux animaux.
 
-b) Les aires doivent être aménagées pour éviter la stagnation des eaux ou des déjections liquides.
+e) Les animaux gardés dans des bâtiments ne doivent pas être maintenus en permanence dans l'obscurité, ni être exposés sans interruption à la lumière artificielle. Lorsque la lumière naturelle est insuffisante, un éclairage artificiel approprié doit être prévu pour répondre aux besoins physiologiques et éthologiques des animaux.
 
-c) Elles sont nettoyées aussi souvent que nécessaire. Les déjections solides et les débris de toute sorte doivent être enlevés.
+f) Tout l'équipement automatique ou mécanique indispensable à la santé et au bien-être des animaux doit être inspecté au moins une fois par jour. Tout défaut constaté est rectifié immédiatement ; si cela n'est pas possible, des mesures appropriées sont prises pour protéger la santé et le bien-être des animaux.
+
+Lorsque la santé et le bien-être des animaux dépendent d'un système de ventilation artificielle, il convient de prévoir un système de secours approprié afin de garantir un renouvellement d'air suffisant pour préserver la santé et le bien-être des animaux en cas de défaillance du système, et un système d'alarme doit être prévu pour avertir de la défaillance ; le système d'alarme doit être testé régulièrement.
+
+g) Les installations d'alimentation et d'abreuvement doivent être conçues et construites de manière à limiter les risques de contamination de la nourriture et de l'eau et les effets pouvant résulter de la compétition entre les animaux.
+
+2. Dispositions relatives à l'élevage en plein air :
+
+a) Les animaux non gardés dans des bâtiments sont, dans la mesure où cela est nécessaire et possible, protégés contre les intempéries et les prédateurs. Toutes les mesures sont prises pour minimiser les risques d'atteinte à leur santé.
+
+b) Les parcs et enclos où sont détenus les animaux doivent être conçus de telle sorte d'éviter toute évasion des animaux. Ils ne doivent pas être une cause d'accident pour les animaux.
+
+3. Dispositions relatives à la conduite de l'élevage des animaux en plein air ou en bâtiments :
+
+a) Les animaux reçoivent une alimentation saine, adaptée à leur âge et à leur espèce, et qui leur est fournie en quantité suffisante, à des intervalles appropriés pour les maintenir en bonne santé et pour satisfaire leurs besoins nutritionnels. Ils doivent avoir accès à de l'eau ou à tout autre liquide en quantité appropriée et en qualité adéquate.
+
+Sans préjudice des dispositions applicables à l'administration de substances utilisées à des fins thérapeutiques, prophylactiques ou en vue de traitements zootechniques, des substances ne peuvent être administrées aux animaux que si des études scientifiques ou l'expérience acquise ont démontré qu'elles ne nuisent pas à la santé des animaux et qu'elles n'entraînent pas de souffrance évitable.
+
+b) Les animaux sont soignés par un personnel suffisamment nombreux possédant les aptitudes, les connaissances et les capacités professionnelles appropriées.
+
+c) Les animaux maintenus dans des systèmes d'élevages nécessitant une attention humaine fréquente sont inspectés au moins une fois par jour. Les animaux élevés ou détenus dans d'autres systèmes sont inspectés à des intervalles suffisants pour permettre de leur procurer dans les meilleurs délais les soins que nécessite leur état et pour mettre en eoeuvre les mesures nécessaires afin d'éviter des souffrances.
+
+Un éclairage approprié est disponible pour permettre à tout moment une inspection approfondie des animaux.
+
+d) Tout animal qui paraît malade ou blessé doit être convenablement soigné sans délai et, si son état le justifie, un vétérinaire doit être consulté dès que possible.
+
+Les animaux malades et si nécessaire les animaux blessés sont isolés dans un local approprié garni, le cas échéant, de litière sèche et confortable.
 
 Chapitre II
 
-Animaux de compagnie et assimilés
+Animaux de compagnie et assimilés.
 
 3. Les propriétaires. gardiens ou détenteurs de tous chiens et chats, animaux de compagnie et assimilés doivent mettre à la disposition de ceux-ci une nourriture suffisamment équilibrée et abondante pour les maintenir en bon état de santé. Une réserve d'eau fraîche fréquemment renouvelée et protégée du gel en hiver doit être constamment tenue à leur disposition dans un récipient maintenu propre.
 
@@ -68,31 +94,7 @@ b) Par temps de chaleur ou de soleil, le véhicule doit être immobilisé dans u
 
 Chapitre III
 
-Animaux élevés, gardés ou détenus en plein air.
-
-11. a) Les animaux des espèces bovine, ovine, caprine ainsi que des espèces équine, asine et leurs croisements, gardés, élevés ou engraissés en plein air, doivent faire l'objet d'une surveillance régulière de leur propriétaire ou de la personne qui en a la charge.
-
-b) Cette surveillance doit être adaptée aux circonstances climatiques et à leurs conséquences ainsi qu'aux techniques de production mises en oeuvre afin d'éviter des souffrances aux animaux et de permettre de leur procurer dans les meilleurs délais les soins nécessités par leur état.
-
-12. Les animaux mis dans les parcs et enclos doivent avoir une nourriture suffisante pour couvrir leurs besoins alimentaires et pouvoir disposer de la quantité d'eau nécessaire à leur abreuvement.
-
-13. Les lieux et emplacements où sont stationnés les animaux, s'ils ne disposent pas d'attaches en nombre suffisant pour tous les animaux, doivent être enclos afin d'éviter toute évasion des animaux.
-
-14. a) Tous les parcs et enclos où sont maintenus, élevés ou engraissés des animaux visés au point 11 doivent permettre de maintenir ces animaux dans de bonnes conditions d'entretien, en leur évitant les souffrances qui pourraient résulter des variations climatiques.
-
-b) Ils doivent être conçus de façon à ne pas être une cause d'accident pour les animaux.
-
-c) Dans ces installations, les animaux reconnus dangereux doivent être séparés des autres animaux.
-
-15. a) Dans les zones où il existe de fortes variations climatiques habituelles, lorsque des animaux sont entretenus dans des gares et enclos de façon continue, ils doivent disposer, en fonction de l'adaptation des espèces et des races, d'abris permettant aux animaux d'accéder simultanément, ou de haies ou de rangées d'arbres qui les protègent efficacement du soleil en été ainsi que des vents dominants en hiver. Si les parcs et enclos comportent des abris, ceux-ci doivent être pourvus d'une aire de couchage saine et sèche.
-
-b) Lorsque les parcs et enclos sont situés à proximité d'un local où les animaux peuvent accéder d'eux-mêmes simultanément, il n'est pas nécessaire d'y prévoir des abris, des haies ou des arbres pour assurer leur protection,
-
-16. a) Les animaux gardés, élevés ou engraissés dans les parcages en zone d'altitude ne sont soumis aux dispositions du présent arrêté qu'en dehors des périodes normales d'estivage.
-
-b) Les parcs et enclos dans lesquels sont placés ces animaux hors des périodes précitées doivent être situés en zone de plus basse altitude d'accès facile.
-
-c) Ces installations sont soumises en outre aux dispositions du présent chapitre.
+Animaux élevés, gardés ou détenus en plein air _(Chapitre supprimé et remplacé par le Chapitre Ier ci-dessus)_
 
 Chapitre IV
 

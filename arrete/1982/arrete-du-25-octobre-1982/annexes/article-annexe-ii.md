@@ -8,13 +8,13 @@ Foires et marchés.
 
 1. a) Les foires et marchés de bestiaux et de chèvres visés aux articles 280 à 283 du code rural doivent :
 
-- disposer d'emplacements nivelés sans pente excessive présentant un sol dur avec un revêtement non glissant pour le stationnement des animaux ;
+-disposer d'emplacements nivelés sans pente excessive présentant un sol dur avec un revêtement non glissant pour le stationnement des animaux ;
 
-- comporter des aménagements pour l'évacuation des purins et des eaux pluviales ;
+-comporter des aménagements pour l'évacuation des purins et des eaux pluviales ;
 
-- comprendre des quais de chargement ou de déchargement ou des passerelles mobiles adaptables aux véhicules, sauf si ces établissements ne reçoivent qu'exclusivement des véhicules équipés de rampes de chargement ou de déchargement conformes à la réglementation propre à assurer la protection des animaux au cours des transports ;
+-comprendre des quais de chargement ou de déchargement ou des passerelles mobiles adaptables aux véhicules, sauf si ces établissements ne reçoivent qu'exclusivement des véhicules équipés de rampes de chargement ou de déchargement conformes à la réglementation propre à assurer la protection des animaux au cours des transports ;
 
-- comprendre des matériels ou des installations appropriés permettant l'acheminement des animaux vers les lieux et emplacements visés par le point 2.
+-comprendre des matériels ou des installations appropriés permettant l'acheminement des animaux vers les lieux et emplacements visés par le point 2.
 
 b) Toutefois, des dérogations au présent point peuvent être accordées par les préfets pour les foires et marchés occasionnels, sous réserve que toutes dispositions soient prises pour éviter des souffrances aux animaux.
 
@@ -32,13 +32,13 @@ d) Toutefois, dans ces emplacements, les jeunes animaux accompagnant leur mère 
 
 5. Les animaux naturellement hostiles entre eux en raison de leur espèce, de leur sexe, ou de leur âge doivent être séparés.
 
-6. Les animaux présentés sur une foire ou un marché doivent être alimentés au moins toutes les vingt-quatre heures et abreuvés au moins toutes les douze heures.
+6. Les animaux présentés sur les foires et les marchés doivent être alimentés au moins toutes les vingt-quatre heures et abreuvés au moins toutes les huit heures.
 
 7. a) Il est interdit de lier les pattes des lapins et des volailles ainsi que de les suspendre ou de les tenir par les membres, ailes, oreilles ou queue durant leur exposition sur les foires et marchés, leur manutention et leur pesée.
 
 b) Les transbordements manuels avec suspension par les membres, ailes, oreilles ou queue sont à éviter.
 
-c) Ces animaux devront être isolés du sol par une litière, une toile épaisse ou toute autre matière isolante. S'ils ne sont pas en liberté dans un enclos approprié, ils ne peuvent être présentés à la vente que dans des paniers, corbeilles ou cageots.
+c) Ces animaux devront être isolés du sol par une litière, une toile épaisse ou toute autre matière isolante.S'ils ne sont pas en liberté dans un enclos approprié, ils ne peuvent être présentés à la vente que dans des paniers, corbeilles ou cageots.
 
 8. a) Il est interdit de lier les pattes des chevreaux et des agneaux.
 
@@ -68,7 +68,7 @@ Chapitre II
 
 Concours, expositions et magasins de vente d'animaux
 
-14. a) Il est interdit d'exposer dans les vitrines des magasins ou autres lieux, des animaux vivants, y compris oiseaux, hamsters, souris, poussins, etc., destinés notamment à la vente, sans que toutes dispositions soient prises, grâce à tout dispositif efficace, pour éviter à ces animaux une exposition prolongée au soleil, à la chaleur ou au froid excessifs une aération insuffisante, un éclairage excessif on prolongé. L'éclairage doit être éteint au plus tard à l'heure de fermeture de l'établissement à l'exception des locaux spécialement aménagés pour la présentation des animaux nocturnes.
+14. a) Il est interdit d'exposer dans les vitrines des magasins ou autres lieux, des animaux vivants, y compris oiseaux, hamsters, souris, poussins, etc., destinés notamment à la vente, sans que toutes dispositions soient prises, grâce à tout dispositif efficace, pour éviter à ces animaux une exposition prolongée au soleil, à la chaleur ou au froid excessifs une aération insuffisante, un éclairage excessif on prolongé.L'éclairage doit être éteint au plus tard à l'heure de fermeture de l'établissement à l'exception des locaux spécialement aménagés pour la présentation des animaux nocturnes.
 
 b) En outre, les dimensions de l'habitat doivent permettre aux animaux d'évoluer librement.
 
