@@ -1,0 +1,3 @@
+# Article 1
+
+Il est créé au ministère de l'agriculture et de la forêt (direction générale de l'alimentation, service vétérinaire de la santé et de la protection animales) un traitement automatisé d'informations nominatives dont l'objet est d'assurer la délivrance et la gestion des autorisations de pratiquer des expériences sur les animaux, conformément aux dispositions du décret du 19 octobre 1987 susvisé relatif aux expériences pratiquées sur les animaux et de l'arrêté susvisé pris pour son application fixant les conditions d'attribution de l'autorisation de pratiquer des expériences sur les animaux.
