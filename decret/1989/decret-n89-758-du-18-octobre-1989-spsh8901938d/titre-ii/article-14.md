@@ -1,5 +1,71 @@
 # Article 14
 
-Les infirmiers généraux adjoints des établissements mentionnés au 1° de l'article 2 de la loi du 9 janvier 1986 susvisée sont reclassés dans le corps des infirmiers généraux au grade d'infirmier général de 2e classe, à équivalence d'échelon et avec conservation de l'ancienneté acquise dans cet échelon.
+Les agents détenant le grade d'infirmier général de 2e classe au 1er août 1993 sont reclassés dans ce grade, à compter de la même date, selon le tableau de correspondance qui suit :
 
-Toutefois, les fonctionnaires nommés dans l'emploi d'infirmier général adjoint avant le 1er janvier 1989 peuvent renoncer à la date d'effet de leur nomination en cette qualité et demander que lui soit substituée la date du 1er janvier 1989 si l'application des dispositions des articles 40 et 41 du décret du 30 novembre 1988 susvisé leur confère une amélioration de carrière. L'ancienneté détenue dans le grade d'infirmier général de 2e classe continue alors à être décomptée à partir de la date à laquelle les intéressés ont initialement accédé à l'emploi d'infirmier général adjoint.
+Infirmier général de 2e classe
+
+Situation nouvelle
+
+Echelons : 7e échelon (1)
+
+Situation antérieure
+
+Echelons : 6e échelon
+
+Situation nouvelle
+
+Echelons : 6e échelon
+
+Ancienneté conservée dans la limite de 4 ans.
+
+Situation antérieure
+
+Echelons : 5e échelon
+
+Situation nouvelle
+
+Echelons : 5e échelon
+
+3/4 de l'ancienneté conservés.
+
+Situation antérieure
+
+Echelons : 4e échelon
+
+Situation nouvelle
+
+Echelons : 4e échelon
+
+3/4 de l'ancienneté conservés.
+
+Situation antérieure
+
+Echelons : 3e échelon
+
+Situation nouvelle
+
+Echelons : 3e échelon
+
+Ancienneté conservée.
+
+Situation antérieure
+
+Echelons : 2e échelon
+
+Situation nouvelle
+
+Echelons : 2e échelon
+
+Ancienneté conservée.
+
+Situation antérieure
+
+Echelons : 1er échelon
+
+Situation nouvelle
+
+Echelons : 1er échelon
+
+Ancienneté conservée.
+
+(1) Echelon créé à compter du 1er août 1993.

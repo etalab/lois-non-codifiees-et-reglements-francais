@@ -13,5 +13,3 @@ Peuvent être candidats :
 Ces candidats doivent être âgés de cinquante ans au plus [*condition*] et avoir exercé pendant trois ans au moins des fonctions d'encadrement dans des services de soins. Cette limite d'âge est reculée ou supprimée dans les conditions prévues par les textes législatifs et réglementaires en vigueur.
 
 Un arrêté du ministre chargé de la santé fixe la composition du jury, le programme des épreuves et les modalités de déroulement du concours.
-
-Les candidats titulaires du diplôme d'infirmier de secteur psychiatrique ne peuvent recevoir d'affectation que dans les centres hospitaliers spécialisés en psychiatrie et dans les services de psychiatrie des centres hospitaliers généraux.

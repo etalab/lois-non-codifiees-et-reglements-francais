@@ -4,4 +4,4 @@ Le présent décret s'applique au corps des infirmiers généraux des établisse
 
 Ce corps est classé en catégorie A.
 
-Il comprend le grade d'infirmier général de 2e classe qui compte six échelons [*nombre*] et le grade d'infirmier général de 1re classe qui compte quatre échelons et un échelon fonctionnel. Cet échelon fonctionnel est accessible aux infirmiers généraux des établissements dont l'emploi de chef d'établissement est rangé en 1re classe.
+Il comprend le grade d'infirmier général de 2e classe qui compte sept échelons [*nombre*], et le grade d'infirmier général de 1re classe qui compte cinq échelons et un échelon fonctionnel. Cet échelon fonctionnel est accessible aux infirmiers généraux des établissements dont l'emploi de chef d'établissement est rangé en 1re classe.
