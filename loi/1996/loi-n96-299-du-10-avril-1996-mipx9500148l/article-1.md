@@ -1,0 +1,7 @@
+# Article 1
+
+En vue de favoriser le développement des infrastructures et des services de télécommunications et de communication audiovisuelle, des expérimentations peuvent être autorisées, en dérogation aux dispositions législatives mentionnées aux articles 2 à 5, dans les conditions prévues par la présente loi.
+
+Les projets d'expérimentation doivent présenter un intérêt général apprécié au regard de leur degré d'innovation, de leur viabilité économique et technique, de leur impact sur le développement de la production française et européenne des services mentionnés au premier alinéa, de leur impact potentiel sur l'organisation sociale et le mode de vie, ainsi que de l'association des utilisateurs à leur élaboration et à leur mise en oeuvre.
+
+Les autorisations sont délivrées et les conventions sont conclues, en application des articles 2 à 5, après avis des ministres chargés des technologies de l'information, des télécommunications et de la communication, pour une durée adaptée aux nécessités de l'expérimentation et qui ne peut, en tout état de cause, excéder cinq ans. Elles prévoient leur adaptation en cas de modification des dispositions législatives en vigueur. Elles précisent les conditions dans lesquelles le titulaire présente un bilan de l'expérimentation et les critères de son évaluation. Elles ne sont pas renouvelables dans les conditions prévues aux articles 2 à 5 de la présente loi.
