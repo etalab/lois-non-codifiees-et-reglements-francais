@@ -64,7 +64,7 @@ Diplôme d'études supérieures commerciales, administratives et financières d�
 
 Diplôme d'ingénieur commercial de l'université de Grenoble et de l'université de Nancy.
 
-Certificat de capacité en droit obtenu avec une note moyenne au moins égale à 12 sur 20 à l'ensemble des deux examens.
+Certificat de capacité en droit obtenu avec une note moyenne au moins égale à 10 sur 20 à l'ensemble des deux examens.
 
 Diplôme d'études supérieures économiques délivré par le Conservatoire national des arts et métiers.
 
