@@ -88,6 +88,7 @@
 - [Décret n°87-77 du 6 février 1987 (ASES8700214D)](decret-n87-77-du-6-fevrier-1987-ases8700214d)
 - [Décret n°87-78 du 6 février 1987 (ASES8700215D)](decret-n87-78-du-6-fevrier-1987-ases8700215d)
 - [Décret n°87-814 du 6 octobre 1987 (ECOT8723004D)](decret-n87-814-du-6-octobre-1987-ecot8723004d)
+- [Décret n°87-820 du 6 octobre 1987 (AGRB8701729D)](decret-n87-820-du-6-octobre-1987-agrb8701729d)
 - [Décret n°87-89 du 6 février 1987 (MAEJ8730003D)](decret-n87-89-du-6-fevrier-1987-maej8730003d)
 - [Décret n°87-242 du 7 avril 1987 (TRST8700112D)](decret-n87-242-du-7-avril-1987-trst8700112d)
 - [Décret n°87-244 du 7 avril 1987 (ECOP8700125D)](decret-n87-244-du-7-avril-1987-ecop8700125d)

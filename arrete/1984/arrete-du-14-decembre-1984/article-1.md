@@ -20,4 +20,4 @@ La situation de l'emploi dans la profession demandée et dans la zone géographi
 
 9° Ressortissants d'un pays membre de l'Organisation de coopération et de développement économique (O.C.D.E.) justifiant de treize années de résidence ininterrompue, ce délai étant réduit d'un an par enfant mineur vivant en France ;
 
-10° Conjoints et enfants autorisés à séjourner en France au titre du regroupement familial.
+10° Conjoints et enfants autorisés à séjourner en France au titre du regroupement familial.    11° Conjoint d'un ressortissant français.
