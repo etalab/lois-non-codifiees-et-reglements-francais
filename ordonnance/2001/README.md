@@ -13,5 +13,7 @@
 - [Ordonnance n° 2001-176 du 22 février 2001 (MESX0100006R)](ordonnance-n-2001-176-du-22-fevrier-2001-mesx0100006r)
 - [Ordonnance n° 2001-177 du 22 février 2001 (MESX0100007R)](ordonnance-n-2001-177-du-22-fevrier-2001-mesx0100007r)
 - [Ordonnance n° 2001-178 du 22 février 2001 (MESX0100008R)](ordonnance-n-2001-178-du-22-fevrier-2001-mesx0100008r)
+- [Ordonnance n° 2000-371 du 26 avril 2000 (INTX0000046R)](ordonnance-n-2000-371-du-26-avril-2000-intx0000046r)
+- [Ordonnance n° 2000-373 du 26 avril 2000 (INTX0000048R)](ordonnance-n-2000-373-du-26-avril-2000-intx0000048r)
 - [Ordonnance n° 2001-270 du 28 mars 2001 (MESX0100025R)](ordonnance-n-2001-270-du-28-mars-2001-mesx0100025r)
 - [Ordonnance n° 2001-273 du 28 mars 2001 (EQUX0100028R)](ordonnance-n-2001-273-du-28-mars-2001-equx0100028r)
