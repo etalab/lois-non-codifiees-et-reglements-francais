@@ -1,4 +1,4 @@
-# Décret n°62-420 du 11 avril 1962 relatif au régime d'assurance vieillesse complémentaire commun aux artistes graphiques et plastiques et aux professeurs de musique, musiciens, auteurs et compositeurs.
+# Arrêté du 28 mai 2004 relatif à la revalorisation des aides au logement.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -8,3 +8,4 @@
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
+- [Article 9](article-9.md)
