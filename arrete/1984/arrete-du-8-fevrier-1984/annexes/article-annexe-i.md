@@ -34,7 +34,7 @@ I. - Réactifs de groupage ABO.
 
 1° Anti-A, anti-B, anti-AB :
 
-a) Coloration : si les sérums-tests sont artificiellement colorés, leur couleur et celle de l'étiquette des récipients les contenant doivent être verte pour l'anti-A, rouge pour l'anti-B et jaune pour l'anti-AB ;
+a) Coloration : si les sérums tests sont artificiellement colorés, leur couleur et celle de l'étiquette des récipients les contenant doivent être bleu pour l'anti-A, jaune pour l'anti-B et incolore pour l'anti-AB ;
 
 b) Puissance : les normes minimales suivantes sont exigibles :
 
