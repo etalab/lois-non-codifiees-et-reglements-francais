@@ -1,4 +1,4 @@
-# Arrêté du 30 janvier 1984 relatif aux prix des médicaments remboursables aux assurés sociaux
+# Arrêté du 30 janvier 1984 relatif au montant de l'imposition forfaitaire annuelle sur les pylônes pour 1984.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

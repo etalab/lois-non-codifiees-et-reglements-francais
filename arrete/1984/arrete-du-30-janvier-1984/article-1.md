@@ -1,3 +1,3 @@
 # Article 1
 
-Les prix à la production hors taxes des spécialités pharmaceutiques remboursables aux assurés sociaux ou agréées à l'usage des collectivités et divers services publics peuvent être modifiés à compter du 1er février 1984 dans les conditions définies ci-après. La hausse moyenne pondérée des prix des médicaments concernés ne doit pas excéder 2 % par rapport aux prix licites en vigueur le 16 janvier 1984.
+Le montant de l'imposition fortaitaire annuelle sur les pylônes est fixé pour 1984 à 2.135 F en ce qui concerne les pylônes supportant des lignes électriques dont la tension est comprise entre 200 et 350 kV et à 4.271 F en ce qui concerne les pylônes supportant des lignes électriques dont la tension est supérieure à 350 kV.
