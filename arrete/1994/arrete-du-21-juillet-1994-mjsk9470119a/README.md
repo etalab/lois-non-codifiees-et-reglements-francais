@@ -3,5 +3,6 @@
 - [TITRE Ier : ORGANISATION GENERALE DE LA FORMATION.](titre-ier)
 - [TITRE II : EXAMEN PROBATOIRE.](titre-ii)
 - [TITRE III : FORMATION.](titre-iii)
-- [TITRE IV : DISPOSITIONS GENERALES.](titre-iv)
+- [TITRE IV : EXAMEN FINAL.](titre-iv)
+- [TITRE V : DISPOSITIONS GENERALES.](titre-v)
 - [Annexes](annexes)

@@ -1,15 +1,17 @@
 # Article 1
 
-La formation spécifique conduisant au diplôme d'accompagnateur en moyenne montagne du brevet d'Etat d'alpinisme comprend:
+La formation spécifique conduisant au diplôme d'accompagnateur en moyenne montagne du brevet d'Etat d'alpinisme comporte dans l'ordre chronologique :
 
-- un examen probatoire;
+- un examen probatoire ;
 
-- une unité de formation Connaissances fondamentales;
+- la formation générale commune aux métiers sportifs de la montagne ;
 
-- un stage en situation;
+- une unité de formation "connaissance fondamentales" ;
 
-- une unité de formation Milieu naturel estival;
+- un stage en situation ;
 
-- une unité de formation "moyenne montagne enneigée" ou une unité de formation "moyenne montagne tropicale";
+- une unité de formation "milieu naturel estival" ;
+
+- une unité de formation "moyenne montagne enneigée" ou "moyenne montagne tropicale" ;
 
 - un examen final.

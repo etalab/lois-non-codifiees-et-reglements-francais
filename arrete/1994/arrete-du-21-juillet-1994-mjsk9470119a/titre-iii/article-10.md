@@ -1,13 +1,17 @@
 # Article 10
 
-D'une durée de soixante heures minimum, l'unité de formation Moyenne montagne enneigée est organisée sous la responsabilité du directeur régional de la jeunesse et des sports par un établissement de formation et de recherche ou un service relevant du ministre chargé des sports. Elle a pour objet de faire acquérir au candidat et de valider les connaissances fondamentales à la fréquentation de la moyenne montagne enneigée.
+L'unité de formation "moyenne montagne enneigée" ou l'unité de formation "moyenne montagne tropicale", d'une durée de quatre-vingts heures minimum, n'est accessible qu'aux candidats justifiant, par une liste attestée par le conseiller pédagogique visée à l'article 7 du présent arrêté, de la réalisation des randonnées pédestres prévues au même article et après réalisation de l'unité de formation "milieu naturel estival".
 
-Elle comporte des enseignements techniques, théoriques et pratiques validés dans les matières suivantes:
+Elle est organisée par un établissement public relevant du ministre chargé des sports et agréée par le directeur régional de la jeunesse, des sports et des loisirs au vu du dossier défini à l'article 6 du présent arrêté. Elle a pour objectif de faire acquérir au candidat et de valider les connaissances fondamentales liées à la fréquentation de la moyenne montagne enneigée ou de la moyenne montagne tropicale.
 
-- approche de la moyenne montagne enneigée et connaissances en nivologie et dans les domaines de la sécurité permettant d'apprécier les risques objectifs de l'activité et de conduire une randonnée sur des terrains appropriés (coefficient 2);
+Elle comporte des enseignements techniques, théoriques et pratiques validés dans les programmes suivants :
 
-- progression en terrain enneigé, facile, de type nordique, situé en moyenne montagne, notamment à l'aide de raquettes (coefficient 1);
+- navigation (épreuves éliminatoires) ;
 
-- navigation (épreuve éliminatoire).
+- approche de la moyenne montagne enneigée et connaissances en nivologie et dans les domaines de la sécurité ou approche de la moyenne montagne tropicale et connaissances en hydromorphologie et météorologie spécifique, permettant d'apprécier les risques objectifs de l'activité et de conduire une randonnée sur des terrains appropriés (coefficient 2) ;
 
-Les épreuves des deux premières matières sont notées chacune sur 20, toute note inférieure ou égale à 6 pouvant être déclarée éliminatoire. Sont admis les candidats qui ont satisfait aux épreuves éliminatoires et obtenu au moins 30 points au total des épreuves des deux premières matières.
+- progression en terrain enneigé facile, de type nordique, situé en moyenne montagne, notamment à l'aide de raquettes ou progression en terrain escarpé et détrempé en période de fortes précipitations tropicales (coefficient 1).
+
+Les évaluations sont notées sur 20, toute note égale ou inférieure à 6 sur 20 peut être déclarée éliminatoire sur délibération spéciale du jury.
+
+Sont admis les candidats qui, ayant satisfait à l'épreuve éliminatoire, ont obtenu 30 points au minimum au total des deux autres épreuves.

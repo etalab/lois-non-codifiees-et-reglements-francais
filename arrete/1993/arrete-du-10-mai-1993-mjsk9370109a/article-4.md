@@ -10,6 +10,8 @@ c) D’enseignement des techniques d’alpinisme, d’escalade et de ski de rand
 
 d) D’entraînement aux pratiques de compétition dans les disciplines précitées.
 
-Ce droit est limité à cinq années; à l'issue de cette période, le droit de continuer à exercer sera accordé aux guides de haute montagne qui auront suivi un cours de recyclage. Les modalités et les contenus de ce cours seront définis par instruction après avis de la section permanente de l'alpinisme.
+L'autorisation d'exercer est limitée à une durée de six années, renouvelable.
 
-Les personnes déjà titulaires du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme au 1er septembre 1993 devront se soumettre au cours de recyclage susmentionné avant le 1er octobre 1999.
+A l'issue de cette période, la prorogation de l'autorisation d'exercer, sanctionnée par le renouvellement de la carte professionnelle, est accordée aux titulaires du diplôme de guide de haute montagne du brevet d'Etat d'alpinisme qui ont suivi, au cours de cette dernière période, un stage de recyclage organisé sous l'autorité du directeur de l'Ecole nationale du ski et de l'alpinisme.
+
+Les modalités d'organisation et les contenus de ce stage sont définis par instruction du délégué à l'emploi et aux formations après avis de la section permanente de l'alpinisme du Conseil supérieur des sports de montagne.

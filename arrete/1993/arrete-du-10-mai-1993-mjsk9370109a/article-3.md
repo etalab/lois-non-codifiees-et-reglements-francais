@@ -1,7 +1,5 @@
 # Article 3
 
-Le diplôme d’aspirant guide confère à son titulaire, outre les prérogatives dévolues à l’accompagnateur en moyenne montagne et au moniteur d’escalade, le droit d’encadrer et de conduire contre rémunération des personnes dans des excursions ou des ascensions dans les limites définies en annexe I.
+Le diplôme d'aspirant guide atteste des compétences pour conduire et encadrer, contre rémunération, des personnes ou des groupes dans des excursions ou des ascensions, dans les limites définies en annexe I. Dans les mêmes limites, il atteste également des compétences pour enseigner les techniques d'alpinisme, de ski de randonnée, de ski et alpinisme et de ski hors piste.
 
-Ces limites d’exercice deviennent sans objet lorsque les activités sont placées sous la conduite d’un guide.
-
-Il peut également, sous la responsabilité d’un guide, enseigner les techniques d’alpinisme, de ski de randonnée, de ski-alpinisme et ski hors piste et entraîner aux pratiques de compétition dans les disciplines précitées.
+Le diplôme d'aspirant guide confère en outre à son titulaire les prérogatives dévolues à un titulaire du diplôme d'accompagnateur en moyenne montagne et à un titulaire du brevet d'Etat d'éducateur sportif du premier degré, option escalade.

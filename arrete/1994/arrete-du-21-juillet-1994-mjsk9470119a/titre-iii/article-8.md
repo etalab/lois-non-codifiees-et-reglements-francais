@@ -1,7 +1,5 @@
 # Article 8
 
-L'unité de formation Milieu naturel estival a pour objet d'approfondir et de mettre en application les connaissances acquises lors de l'unité de formation Connaissances fondamentales dans le domaine de la connaissance du milieu montagnard; elle intègre également les questions relatives à la promotion de l'activité professionnelle.
+L'unité de formation "milieu naturel estival", d'une durée de quarante heures minimum, n'est accessible qu'aux candidats ayant satisfait à la validation de l'unité de formation "connaissances fondamentales" qu'elle met en application dans le domaine de la connaissance du milieu montagnard. Elle intègre également les questions relatives à la promotion et à la gestion de l'activité professionnelle.
 
-Réalisée au cours d'un stage d'une durée de quarante heures minimum, elle est accessible aux candidats qui ont réussi aux épreuves de cette unité de formation.
-
-Les stages doivent être soumis à l'agrément du directeur régional de la jeunesse et des sports après avis de la commission régionale d'agrément mentionnée à l'article précédent.
+Les stages doivent être agréés par le directeur régional de la jeunesse, des sports et des loisirs du lieu de déroulement, après avis de la commission régionale d'agrément mentionnée à l'article précédent, au vu du dossier défini à l'article 6 du présent arrêté.

@@ -1,12 +1,12 @@
 # Article 4
 
-L'examen probatoire comporte les épreuves suivantes:
+L'examen probatoire comporte les épreuves suivantes :
 
-- une épreuve de marche en moyenne montagne, éliminatoire;
+- une épreuve de marche en moyenne montagne, éliminatoire ;
 
-- un parcours en terrain varié;
+- un parcours en terrain varié ;
 
-- une épreuve pratique d'orientation éliminatoire;
+- une épreuve pratique d'orientation éliminatoire. Pour réaliser cette épreuve, le candidat ne peut utiliser qu'une boussole à aiguille aimantée, une carte et un altimètre, à l'exclusion de tout autre procédé technologique ;
 
 - une épreuve d'entretien avec le jury portant sur l'environnement naturel et humain permettant d'évaluer ses connaissances dans ces différents domaines ainsi que son aptitude à la communication.
 
