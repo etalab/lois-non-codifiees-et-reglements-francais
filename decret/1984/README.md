@@ -9,6 +9,7 @@
 - [Décret n°84-13 du 5 janvier 1984](decret-n84-13-du-5-janvier-1984)
 - [Décret n°84-254 du 5 avril 1984](decret-n84-254-du-5-avril-1984)
 - [Décret n°84-1127 du 7 décembre 1984](decret-n84-1127-du-7-decembre-1984)
+- [Décret n°62-22 du 8 janvier 1962](decret-n62-22-du-8-janvier-1962)
 - [Décret n°84-92 du 8 février 1984](decret-n84-92-du-8-fevrier-1984)
 - [Décret n°84-93 du 8 février 1984](decret-n84-93-du-8-fevrier-1984)
 - [Décret n°84-98 du 8 février 1984](decret-n84-98-du-8-fevrier-1984)
