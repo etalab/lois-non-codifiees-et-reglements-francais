@@ -1,0 +1,3 @@
+# SECTION 2 : RENTES ET INDEMNITES EN CAPITAL.
+
+- [Article 126 E](article-126-e.md)
