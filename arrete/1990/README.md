@@ -335,7 +335,6 @@
 - [Arrêté du 13 juillet 1990 (MCCB9000508A)](arrete-du-13-juillet-1990-mccb9000508a)
 - [Arrêté du 13 juillet 1990 (SPSS9001485A)](arrete-du-13-juillet-1990-spss9001485a)
 - [Arrêté du 13 juin 1990 (EQUS9000873A)](arrete-du-13-juin-1990-equs9000873a)
-- [Arrêté du 13 juin 1990 (EQUS9000874A)](arrete-du-13-juin-1990-equs9000874a)
 - [Arrêté du 13 juin 1990 (EQUS9000875A)](arrete-du-13-juin-1990-equs9000875a)
 - [Arrêté du 13 juin 1990 (EQUS9000876A)](arrete-du-13-juin-1990-equs9000876a)
 - [Arrêté du 13 juin 1990 (MCCB9000200A)](arrete-du-13-juin-1990-mccb9000200a)
