@@ -1,7 +1,6 @@
 # 1965
 
 - [Arrêté du 1 juin 1965](arrete-du-1-juin-1965)
-- [Arrêté du 2 décembre 1965](arrete-du-2-decembre-1965)
 - [Arrêté du 2 mars 1965](arrete-du-2-mars-1965)
 - [Arrêté du 2 novembre 1965](arrete-du-2-novembre-1965)
 - [Arrêté du 3 mars 1965](arrete-du-3-mars-1965)
