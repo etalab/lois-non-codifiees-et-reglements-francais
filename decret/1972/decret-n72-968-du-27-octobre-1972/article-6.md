@@ -6,4 +6,6 @@ Par dérogation au précédent alinéa et pour l'année 1988, la cotisation des 
 
 Par dérogation au premier alinéa et pour l'année 1990, la cotisation des médecins conventionnés est fixée à 33 fois la valeur au 1er janvier 1990 du tarif de la consultation du médecin omnipraticien conventionné servant de base au remboursement par les organismes d'assurance maladie [*montant*]. Elle est appelée à concurrence de 100 p. 100.
 
+Par dérogation au premier alinéa et pour l'année 1992, la cotisation des médecins conventionnés est appelée à concurrence de 100 p. 100.
+
 La cotisation des organismes d'assurance maladie fixée à l'article 2 dudit décret est calculée dans des conditions identiques.
