@@ -1,39 +1,71 @@
 # Article 17
 
-L'examen du diplôme d'Etat de manipulateur d'électroradiologie comprend des épreuves écrites, pratiques et orales. La note 0 à l'une des épreuves est éliminatoire.
+L'examen en vue du diplôme d'Etat de laborantin d'analyses médicales comprend des épreuves pratiques d'admissibilité et des épreuves écrites et orales d'admission.
 
-Les sujets sont choisis par le jury.
+Les sujets sont chois par le jury.
 
-Epreuves écrites (les copies sont anonymes) :
+1° Admissibilité.
 
-1. Physique radiologique (durée : une heure et demie ; cotée sur 20 points).
+Deux séries d'épreuves pratiques :
 
-2. Electrothérapie ou isotopes (durée : une heure ; cotée sur 20 points).
+Première série.
 
-3. Radiodiagnostic (durée : trois heures ; cotée sur 40 points).
+1. Chimie analytique (cotée sur 40 points) ;
 
-4. Radiothérapie (durée : deux heures ; cotée sur 20 points).
+2. Biochimie (cotée sur 50 points) ;
 
-Epreuves pratiques :
+3. Hydrologie (cotée sur 10 points) ;
 
-1. Radiodiagnostic (durée : vingt minutes, dont cinq minutes de préparation ; cotée sur 60 points).
+4. Mesures physiques (cotée sur 20 points).
 
-2. Radiothérapie (durée : quinze minutes, dont cinq minutes de préparation ; cotée sur 40 points).
+Cotation totale sur 120 points.
+
+Deuxième série.
+
+1. Microbiologie (bactériologie et virologie) (cotée sur 60 points) ;
+
+2. Hématoologie (cytologie, hémostase) (cotée sur 30 points) ;
+
+3. Immunologie (dont détermination obligatoire des groupes sanguins) (cotées sur 30 points) ;
+
+4. Parasitologie et mycologie (cotée su 30 points) ;
+
+5. Techniques anatomo-cyto-pathologiqes (cotée sur 30 points).
+
+Cotation totale sur 180 points.
+
+La durée des différentes épreuves est fixée par les membres du jury de l'examen.
+
+La note 0 à une épreuve quelconque est éliminatoire et particulièrement à l'épreuve de détermination de groupes sanguins au sein de l'épreuve d'immunologie.
+
+Les candidats ayant obtenu au moins un total de 150 points sont déclarés admissibles.
+
+L'admissibilité acquise à la session de juin peut être conservée exclusivement pour la session de septembre.
+
+Toutefois, les candidats peuvent renoncer à leur admissibilité et subir en septembre la totalité des épreuves pratiques.
+
+Si, dans les quinze jours de la proclamation des résultats, le candidat n'a pas fait connaître par écrit son choix au chef du service régional de l'action sanitaire et sociale, l'admissibilité lui demeure acquise pour la session de septembre.
+
+2° Admission.
+
+Epreuves écrites (les copies sont anonymes et portent sur les matières ci-après :
+
+1. Biochimie (cotée sur 80 points ; durée : deux heures) ;
+
+2. Microbiologie (cotée sur 80 points ; durée : deux heures).
+
+La note inférieure à 5 sur 20 à l'une des deux épreuves est éliminatoire.
 
 Epreuves orales :
 
-1. Physique radiologique (durée : quinze minutes, dont cinq minutes de préparation ; cotée sur 20 points).
+1. Hématologie (cotée sur 20 points ; durée : quinze minutes ;
 
-2. Electrothérapie et isotopes (durée : quinze minutes, dont cinq minutes de préparation ; cotée sur 20 points).
+2. Immunologie (cotée sur 20 points ; durée : quinze minutes ;
 
-3. Radiodiagnotic (durée : quinze minutes, dont cinq minutes de préparation ; cotée sur 20 points).
+3. Parasitologie (cotée sur 20 points ; durée : quinze minutes ;
 
-4. Radiothérapie (durée : quinze minutes, dont cinq minutes de préparation ; cotée sur 20 points).
+La note 0 à l'une des trois épreuves est éliminatoire.
 
-Il n'y a pas d'admissibilité.
+Les candidats ayant obtenu au moins 260 points pour l'ensemble des épreuves (pratiques, écrites et orales) sont déclarés admis.
 
-Les candidats ayant obtenu pour l'ensemble des épreuves au moins 140 points sont déclarés admis.
-
-Les candidats ayant échoué à la première session d'examen et à la deuxième session dite de rattrapage sont tenus d'effectuer à nouveau leur deuxième année d'études.
-
-Les candidats qui échouent à l'issue de l'année de redoublement sont définitivement éliminés.
+Les candidats ayant échoué à la session de juin et à la session de septembre sont autorisés à redoubler leur deuxième année d'études. Si à l'issue de cette scolarité complémentaire ils échouent à nouveau, à deux reprises, ils sont définitivement éliminés.

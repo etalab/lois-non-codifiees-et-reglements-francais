@@ -1,33 +1,41 @@
 # Article 11
 
-L'examen de passage comporte des épreuves écrites, pratiques et orales. La note zéro est éliminatoire.
+L'examen de passage comporte des épreuves pratiques d'admissibilité et des épreuves écrites et orales d'admission. La note zéro est éliminatoire.
 
-Epreuves écrites (les copies sont anonymes).
+1. Admissibilité.
 
-1. Médecine ou spécialités (durée : une heure ; cotée sur 20).
+Epreuves pratiques :
 
-2. Chirurgie obstétrique ou spécialités (durée : une heure ; cotée sur 20).
+1. Chimie analytique (cotée sur 40 points).
 
-3. Anatomie (durée : une heure et demie ; cotée sur 40).
+2. Microbiologie (cotée sur 40 points).
 
-Epreuves pratiques.
+3. Hématologie (cotée sur 20 points).
 
-1. Médecine (cotée sur 20).
+La technologie est appréciée à l'occasion de chaque épreuve pratique.
 
-2. Chirurgie (cotée sur 20).
+Les candidats ayant obtenu au moins 50 points sont déclarés admissibles.
 
-L'une des deux épreuves se passe au lit du malade, l'autre en salle de démonstration.
+Cette admissibilité reste acquise pour la deuxième session.
 
-(Durée de chaque épreuve : dix minutes)
+2. Admission.
 
-Epreuves orales.
+Epreuves écrites : les copies sont anonymes et portent sur les matières ci-après :
 
-1. Interrogation en physique et électroradiologie (cotée sur 20).
+1. Chimie (durée : une heure et demie ; cotée sur 30 points).
 
-2. Interrogation en hygiène et pédiatrie (cotée sur 20).
+2. Microbiologie (durée : une heure ; cotée sur 20 points).
 
-3. Administration et méthodes de travail (cotée sur 20).
+Epreuves orales :
 
-(Durée de chaque interrogation : 15 minutes, dont 5 minutes de préparation) Les candidats ayant obtenu pour l'ensemble des épreuves au moins 90 points sont déclarés admis en deuxième année.
+1. Physique (cotée sur 20 points).
+
+2. Biologie (cotée sur 20 points).
+
+3. Immunologie (cotée sur 10 points).
+
+Durée : cinq minutes de préparation ; dix minutes au maximum d'interrogation.
+
+Les candidats ayant obtenu pour l'ensemble des épreuves au moins 100 points sont déclarés admis en deuxième année.
 
 Le bénéfice de cette admission est conservé pendant un an aux candidats qui, pour un cas de force majeure, ne pourraient poursuivre immédiatement leur scolarité.
