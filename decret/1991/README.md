@@ -378,6 +378,7 @@
 - [Décret n°91-589 du 25 juin 1991 (EQUX9110148D)](decret-n91-589-du-25-juin-1991-equx9110148d)
 - [Décret n°91-590 du 25 juin 1991 (EQUX9110380D)](decret-n91-590-du-25-juin-1991-equx9110380d)
 - [Décret n°91-598 du 25 juin 1991 (AGRS9100727D)](decret-n91-598-du-25-juin-1991-agrs9100727d)
+- [Décret n°60-1441 du 26 décembre 1960](decret-n60-1441-du-26-decembre-1960)
 - [Décret n°91-234 du 26 février 1991 (ENVN9161919D)](decret-n91-234-du-26-fevrier-1991-envn9161919d)
 - [Décret n°91-235 du 26 février 1991 (MENL9100167D)](decret-n91-235-du-26-fevrier-1991-menl9100167d)
 - [Décret n°91-314 du 26 mars 1991 (JUSC9120165D)](decret-n91-314-du-26-mars-1991-jusc9120165d)
