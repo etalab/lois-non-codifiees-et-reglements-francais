@@ -1,3 +1,3 @@
 # Article 28
 
-Les commissaires aux comptes des établissements de crédit et entreprises d'investissement ayant leur siège social à l'étranger sont désignés par les personnes auxquelles est confiée la direction de leur agence en France.
+Les commissaires aux comptes des établissements de crédit n'ayant pas leur siège social dans Etat prtie à l'accord sur l'Espace économique européen sont désignés par les personnes auxquelles est confiée la direction de leur succursale en France.
