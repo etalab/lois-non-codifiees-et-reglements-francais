@@ -164,6 +164,10 @@ Une nouvelle bonification indiciaire prise en compte pour le calcul de la retrai
 
 " v) Agents administratifs : 10 points majorés. "
 
+" W. - Animateurs : 15 points majorés ;
+
+" X. - Adjoints d'animation et agents d'animation : 10 points majorés. "
+
 " 46° Infirmières assurant la direction de services de soins à domicile : 20 points majorés ;
 
 " 47° Puéricultrices assurant la direction d'école départementale de puériculture : 20 points majorés ;
