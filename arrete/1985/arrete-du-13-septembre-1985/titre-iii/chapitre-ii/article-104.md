@@ -12,7 +12,7 @@ Après avoir énoncé la totalité de ses ordres, le parieur donne à titre de c
 
 Les paris par téléphone sont enregistrés sous la responsabilité exclusive de chaque parieur titulaire d'un compte courant. en conséquence, les ordres tels qu'ils ont été enregistrés par l'employé du pari mutuel urbain, puis exécutés, font seuls foi sans que le parieur puisse ultérieurement élever aucune contestation à ce sujet ; en particulier la preuve testimoniale ne saurait être invoquée, ni admise. En outre, un parieur ne peut rappeler ultérieurement l'agence par téléphone pour modifier ou annuler un ou plusieurs paris enregistrés au cours d'une précédente communication téléphonique.
 
-En cas de liaison téléphonique défectueuse rendant l'audition incertaine, le pari mutuel urbain peut refuser l'enregistrement d'un pari. Dans ce cas, le parieur a la faculté de transmettre ses paris, par télégramme en se conformant aux stipulations des paris "par correspondance".
+En cas de liaison téléphonique défectueuse rendant l'audition incertaine, le pari mutuel urbain peut refuser l'enregistrement d'un pari.
 
 Le montant des gains ou remboursements relatifs à chacun des ordres transmis par le parieur sont portés au crédit de son compte, après la publication des rapports et au plus tôt à la fin de chaque réunion pour les paris transmis à l'agence par téléphone du matin et après chaque course pour tes paris transmis à l'agence par téléphone course par course.
 
