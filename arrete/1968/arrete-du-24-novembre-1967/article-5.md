@@ -6,8 +6,6 @@ Les panneaux et bornes comportant une simple indication sont répartis comme sui
 
 a) " Panneaux routiers et autoroutiers d'indication " :
 
-(1)
-
 Type C donnant une indication utile pour la conduite des véhicules :
 
 Panneau C 1 a. - Parc de stationnement.
@@ -472,4 +470,16 @@ Les symboles caractérisent :
 
 - soit l'identification d'un échangeur permettant de sortir d'une voie rapide. On utilise alors le symbole SE 1 défini en annexe. Il comporte un numéro d'ordre qui permet de localiser l'échangeur de manière précise. Il peut être complété par le mot " sortie ", le symbole est inscrit en noir sur fond blanc.
 
-(1) Intitulé modifié par l'arrêté du 17 octobre 1988,
+" 7. Signalisation d'animation.
+
+" Les panneaux d'animation de type H sont placés sur les réseaux à caractéristiques autoroutières pour donner des indications culturelles et touristiques d'intérêt général et permanent.
+
+" On distingue les panneaux suivants :
+
+" H 11 : panneau d'animation à message littéral ;
+
+" H 12 : panneau d'animation à message graphique ;
+
+" H 13 : panneau d'animation à message littéral et graphique.
+
+" Les panneaux de type H sont de forme rectangulaire ou carrée. Ils sont à fond marron ; les inscriptions et graphismes sont de couleur blanche. "
