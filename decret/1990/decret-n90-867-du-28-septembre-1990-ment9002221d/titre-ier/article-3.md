@@ -8,4 +8,4 @@ Les instituts universitaires de formation des maîtres accueillent notamment :
 
 - des enseignants suivant une formation continue.
 
-Ils peuvent également accueillir des étudiants étrangers dans des conditions fixées par le ministre de l'éducation nationale.
+Ils peuvent également accueillir des étudiants étrangers dans des conditions fixées par le ministre chargé de l'enseignement supérieur.

@@ -10,7 +10,7 @@ Elle vérifie l'éligibilité des candidats et peut demander qu'un autre candida
 
 Elle proclame les résultats du scrutin dans les cinq jours suivant la fin des opérations électorales.
 
-La commission de contrôle des opérations électorales connaît de toutes les contestations présentées par les électeurs, par le directeur de l'institut ou par le ministre de l'éducation nationale, sur la préparation et le déroulement des opérations de vote, ainsi que sur la proclamation des résultats du scrutin.
+La commission de contrôle des opérations électorales connaît de toutes les contestations présentées par les électeurs, par le directeur de l'institut ou par le ministre chargé de l'enseignement supérieur, sur la préparation et le déroulement des opérations de vote, ainsi que sur la proclamation des résultats du scrutin.
 
 Elle est saisie au plus tard le cinquième jour suivant la proclamation des résultats.
 

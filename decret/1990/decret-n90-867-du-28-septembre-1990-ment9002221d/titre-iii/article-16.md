@@ -1,6 +1,6 @@
 # Article 16
 
-Le conseil d'administration conduit la politique générale de l'établissement dans le cadre défini par le ministre de l'éducation nationale.
+Le conseil d'administration conduit la politique générale de l'établissement dans le cadre défini par le ministre chargé de l'enseignement supérieur.
 
 Il détermine les catégories de contrats, conventions ou marchés qui doivent lui être soumis pour approbation.
 

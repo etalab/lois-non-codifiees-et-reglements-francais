@@ -1,5 +1,9 @@
 # Article 25
 
-Les projets de budget sont communiqués au ministre de l'éducation nationale quinze jours avant leur présentation au conseil d'administration.
+Les projets de budget et de modification du budget sont communiqués au ministre chargé de l'enseignement supérieur au moins quinze jours avant leur présentation au conseil d'administration.
 
-Les délibérations à caractère budgétaire sont réputées approuvées si le ministre de l'éducation nationale n'a pas fait connaître son refus de les approuver dans les quinze jours suivant la réception des procès-verbaux. En cas de refus, le conseil d'administration dispose d'un délai d'un mois pour délibérer à nouveau. A défaut de nouvelle délibération ou lorsque le budget n'est pas adopté en équilibre réel, il est arrêté par le ministre de l'éducation nationale. Le budget doit être adopté au 1er mars ou, au plus tard, dans le délai de deux mois à compter de la notification de la dotation allouée pour son fonctionnement. A défaut, il est arrêté par le ministre de l'éducation nationale.
+Les délibérations à caractère budgétaire sont soumises à l'approbation du ministre chargé de l'enseignement supérieur. Ces délibérations sont réputées approuvées dans un délai de quinze jours à compter de leur réception par le ministre sauf si, pendant ce délai, celui-ci fait connaître son refus d'approbation.
+
+En cas de refus d'approbation, le conseil d'administration délibère à nouveau sur le budget ou sur ses modifications dans le délai d'un mois à compter de la notification de ce refus.
+
+A défaut de nouvelle délibération dans le délai d'un mois ou s'il n'a pas été remédié par la nouvelle délibération aux observations ayant motivé le refus d'approbation, le budget ou ses modifications sont arrêtés par le ministre.
