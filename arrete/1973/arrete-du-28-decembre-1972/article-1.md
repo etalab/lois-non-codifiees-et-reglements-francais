@@ -1,33 +1,13 @@
 # Article 1
 
-Pour l'application de l'article 11 b du décret susvisé du 20 juillet 1972, sont regardées comme justifiant de l'aptitude professionnelle les personnes qui sont titulaires de l'un des diplômes suivants :
+Les commissions professionnelles consultatives instituées auprès du ministère de l'éducation nationale, en application de l'article 1er du décret n. 72-607 du 4 juillet 1972, formulent des avis et des propositions concernant :
 
-Diplôme de l'institut du droit des affaires de la faculté de droit et des sciences économiques de Paris, délivré antérieurement au 1er janvier 1971 ;
+1. La définition des formations susceptibles de préparer aux fonctions ou emplois des diverses branches d'activité, en précisant leurs éléments et leur durée, quelle que soit la nature de ces formations : scolaire, apprentissage en entreprise ou formation professionnelle continue ;
 
-Diplôme de l'institut du droit des affaires de l'université de Paris-II après le 1er janvier 1971 ;
+2. La détermination, compte tenu des perspectives d'évolution des professions de leur compétence, des besoins de formation aux différents niveaux et la mise en place de nouveaux moyens de formation ;
 
-Diplôme de l'école des hautes études commerciales ;
+3. Les programmes, les méthodes de formation et les règlements des examens qui sanctionnent chaque type de formation.
 
-Diplôme de l'école du haut enseignement commercial pour jeunes filles ;
+Les commissions professionnelles consultatives peuvent être saisies par le ministre de l'éducation nationale de toute question générale ou particulière touchant à l'enseignement technologique et à la formation professionnelle. Spécialement, en ce qui concerne l'apprentissage, elles concourent à l'élaboration des annexes pédagogiques des conventions types visées à l'article 1er du décret n. 72-280 du 12 avril 1972, pris pour l'application de la loi n. 71-576 du 16 juillet 1971, et établissent des propositions sur la durée de l'apprentissage par application des dispositions de l'article 42 du même décret.
 
-Diplôme de l'institut supérieur des affaires ;
-
-Diplôme de l'école supérieure de commerce de Paris ;
-
-Diplôme de l'école supérieure des sciences économiques et commerciales ;
-
-Diplôme d'une école supérieure de commerce et d'administration des entreprises ;
-
-Diplôme de l'institut commercial de l'université de Nancy ;
-
-Diplôme de l'institut d'enseignement commercial supérieur de Strasbourg ;
-
-Diplôme de l'institut d'études commerciales de Grenoble, délivré à dater de 1966 ;
-
-Diplôme de l'école supérieure du bois ;
-
-Diplôme du centre de perfectionnement des affaires ;
-
-Diplôme de l'institut des hautes études de droit rural et d'économie agricole ;
-
-Diplôme d'ingénieur décerné par une école habilitée par la commission des titres d'ingénieur à délivrer un diplôme d'ingénieur dans les disciplines juridiques, économiques, commerciales, agricoles et immobilières.
+Chacun des ministres dont les attributions comportent l'organisation ou le contrôle d'une formation professionnelle ou d'un enseignement technologique peut en outre leur demander des études ou avis.

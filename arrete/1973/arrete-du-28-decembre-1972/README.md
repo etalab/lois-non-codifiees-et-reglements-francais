@@ -1,4 +1,4 @@
-# Arrêté du 28 décembre 1972 fixant la liste des diplômes pris en considération pour la justification de l'aptitude professionnelle en vue de la délivrance des cartes professionnelles instituées par l'article 3 (alinéa 1er) de la loi n° 70-9 du 2 janvier 1970 et prévues par l'article 1er du décret n° 72-678 du 20 juillet 1972
+# Arrêté du 28 décembre 1972 RELATIF AUX COMMISSIONS CONSULTATIVES PROFESSIONNELLES.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
