@@ -572,7 +572,6 @@
 - [Arrêté du 17 septembre 2004 (JUSB0410393A)](arrete-du-17-septembre-2004-jusb0410393a)
 - [Arrêté du 17 septembre 2004 (JUSB0410394A)](arrete-du-17-septembre-2004-jusb0410394a)
 - [Arrêté du 17 septembre 2004 (JUSB0410395A)](arrete-du-17-septembre-2004-jusb0410395a)
-- [Arrêté du 17 mai 2004 (FPPA0400033A)](arrete-du-17-mai-2004-fppa0400033a)
 - [Arrêté du 17 mai 2004 (MCCB0400305A)](arrete-du-17-mai-2004-mccb0400305a)
 - [Arrêté du 17 mai 2004 (MENA0401035A)](arrete-du-17-mai-2004-mena0401035a)
 - [Arrêté du 17 mai 2004 (SANS0421840A)](arrete-du-17-mai-2004-sans0421840a)
