@@ -324,6 +324,8 @@ Doctorat de troisième cycle en informatique.
 
 Diplôme de l'E.S.S.E.C. (spécialisation informatique).
 
+Titre d'ingénieur diplômé par l'Etat (D.P.E.).
+
 Diplômes étrangers suivants :
 
 I - Belgique.
@@ -335,6 +337,8 @@ Grade d'ingénieur agronome délivré par les facultés de sciences agronomiques
 II - Suisse.
 
 Diplôme délivré par le polytechnicum (écoles polytechniques fédérales de Zurich et Lausanne).
+
+Diplôme délivré par l'école d'ingénieurs de Genève.
 
 III - Pays-Bas.
 

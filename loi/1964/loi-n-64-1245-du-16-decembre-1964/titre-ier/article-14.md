@@ -2,7 +2,19 @@
 
 Il est créé, au niveau de chaque bassin ou groupement de bassins, une agence financière de bassin, établissement public administratif doté de la personnalité civile et de l'autonomie financière, chargé de faciliter les diverses actions d'intérêt commun au bassin ou au groupe de bassins.
 
-Chaque agence est administrée par un conseil d'administration formé par moitié de représentants des administrations compétentes dans le domaine de l'eau, par moitié de représentants des collectivités locales et des différentes catégories d'usagers [*composition, attribution*].
+Chaque agence est administrée par un conseil d'administration composé :
+
+1° D'un président nommé par décret ;
+
+2° De représentants des régions et des collectivités locales situées en tout ou partie dans le bassin ;
+
+3° De représentants des usagers ;
+
+4° De représentants de l'Etat et, le cas échéant, des personnalités qualifiées ;
+
+5° D'un représentant du personnel de l'agence.
+
+Les catégories visées aux 2°, 3° et 4° disposent d'un nombre égal de sièges.
 
 L'agence contribue, notamment par voie de fonds de concours au budget de l'Etat, à l'exécution d'études, de recherches et d'ouvrages d'intérêt commun aux bassins et à la couverture de ses dépenses de fonctionnement.
 
