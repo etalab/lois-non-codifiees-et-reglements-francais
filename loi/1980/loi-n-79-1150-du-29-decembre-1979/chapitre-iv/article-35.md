@@ -1,0 +1,3 @@
+# Article 35
+
+Les associations exerçant leur activité dans le domaine de la protection de la nature et de l'environnement ou dans celui de l'amélioration du cadre de vie remplissant les conditions fixées à l'article 40 de la loi n° 76-629 du 10 juillet 1976 sur la protection de la nature ou à l'article L. 160-1 du code de l'urbanisme et les associations locales d'usagers agréées mentionnées à l'article L. 121-8 dudit code peuvent exercer les droits reconnus à la partie civile en ce qui concerne les faits constituant une infraction aux dispositions de la présente loi ou des textes réglementaires pris pour son application et portant un préjudice direct ou indirect aux intérêts collectifs qu'elles ont pour objet de défendre.
