@@ -132,7 +132,6 @@
 - [Arrêté du 4 novembre 1993 (MCCE9300338A)](arrete-du-4-novembre-1993-mcce9300338a)
 - [Arrêté du 4 novembre 1993 (TEFT9301168A)](arrete-du-4-novembre-1993-teft9301168a)
 - [Arrêté du 4 octobre 1979](arrete-du-4-octobre-1979)
-- [Arrêté du 4 octobre 1993 (AGRM9301875A)](arrete-du-4-octobre-1993-agrm9301875a)
 - [Arrêté du 4 octobre 1993 (DEFT9301937A)](arrete-du-4-octobre-1993-deft9301937a)
 - [Arrêté du 4 octobre 1993 (ECOT9310188A)](arrete-du-4-octobre-1993-ecot9310188a)
 - [Arrêté du 4 octobre 1993 (ECOT9351292A)](arrete-du-4-octobre-1993-ecot9351292a)
