@@ -197,6 +197,7 @@
 - [Décret n°96-152 du 22 février 1996 (DOMP9600004D)](decret-n96-152-du-22-fevrier-1996-domp9600004d)
 - [Décret n°96-237 du 22 mars 1996 (MCCB9600169D)](decret-n96-237-du-22-mars-1996-mccb9600169d)
 - [Décret n°96-266 du 22 mars 1996 (AVIN9600423D)](decret-n96-266-du-22-mars-1996-avin9600423d)
+- [Décret n°96-342 du 22 avril 1996 (INTC9600054D)](decret-n96-342-du-22-avril-1996-intc9600054d)
 - [Décret n°96-47 du 22 janvier 1996 (AGRS9502551D)](decret-n96-47-du-22-janvier-1996-agrs9502551d)
 - [Décret n°96-48 du 22 janvier 1996 (INTC9600008D)](decret-n96-48-du-22-janvier-1996-intc9600008d)
 - [Décret n°96-49 du 22 janvier 1996 (BUDF9500022D)](decret-n96-49-du-22-janvier-1996-budf9500022d)
