@@ -2,6 +2,8 @@
 
 Les fonctionnaires de catégorie B, ou appartenant à un corps d'un niveau équivalent, titulaires d'un grade dont l'indice de début est au moins égal à l'indice afférent au premier échelon de l'un des grades des corps régis par le présent décret peuvent être détachés dans l'un de ces corps.
 
+Les fonctionnaires de La Poste ou de France Télécom titulaires d'un grade dont l'indice de début est au moins égal à l'indice brut 348 peuvent être détachés dans le grade d'agent technique et de gestion de second niveau de La Poste ou de collaborateur de second niveau de France Télécom.
+
 Le détachement est prononcé à équivalence de grade et à l'échelon comportant un indice égal ou, à défaut, immédiatement supérieur à celui détenu dans le grade ou emploi d'origine.
 
 Les intéressés conservent, dans la limite de la durée fixée à l'article 13 ci-dessus, l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade ou emploi lorsque le gain indiciaire résultant du détachement est inférieur à celui que leur aurait procuré un avancement d'échelon dans leur situation d'origine.

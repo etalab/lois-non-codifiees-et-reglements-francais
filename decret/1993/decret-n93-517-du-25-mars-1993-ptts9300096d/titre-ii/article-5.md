@@ -6,11 +6,21 @@ Les agents techniques et de gestion de premier niveau de La Poste et les collabo
 
 2° Un premier concours interne est réservé :
 
-- pour l'accès au grade d'agent technique et de gestion de premier niveau de La Poste, aux agents professionnels qualifiés de La Poste ;
+a) Pour l'accès au grade d'agent technique et de gestion de premier niveau de La Poste :
 
-- pour l'accès au grade de collaborateur de premier niveau de France Télécom, aux agents professionnels qualifiés de France Télécom.
+- aux agents professionnels qualifiés de premier ou de second niveau de La Poste ;
 
-Ces candidats doivent justifier de trois années de services civils effectifs dans leur grade.
+- aux fonctionnaires de La Poste titulaires des grades suivants :
+
+agent d'exploitation du service de la distribution et de l'acheminement, agent d'exploitation du service des installations, agent d'exploitation du service général, aide technicien des installations, artisan imprimeur, assistant administratif, conducteur d'automobile de 1re catégorie, contremaître, dessinateur, mécanicien dépanneur, préposé ;
+
+b) Pour l'accès au grade de collaborateur de premier niveau de France Télécom :
+
+- aux agents professionnels qualifiés de premier ou de second niveau de France Télécom ;
+
+- aux fonctionnaires de France Télécom titulaires des grades suivants : agent d'exploitation du service des lignes, agent d'exploitation du service des installations, agent d'exploitation du service général, aide technicien des installations, assistant administratif, conducteur d'automobile de 1re catégorie, contremaître, dessinateur, mécanicien dépanneur.
+
+Les candidats mentionnés aux a et b ci-dessus doivent justifier de trois années de services civils effectifs dans leur corps pour les agents professionnels qualifiés et dans leur grade pour les autres fonctionnaires.
 
 3° Un second concours interne est réservé aux fonctionnaires de La Poste ou de France Télécom autres que ceux mentionnés au 2° ci-dessus ainsi qu'aux agents non titulaires de droit public de La Poste ou de France Télécom ayant accompli, les uns et les autres, quatre années de services publics effectifs à La Poste ou à France Télécom.
 

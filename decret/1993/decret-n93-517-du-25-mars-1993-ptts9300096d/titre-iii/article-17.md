@@ -1,14 +1,22 @@
 # Article 17
 
-Peuvent être promus au grade d'agent de maîtrise de La Poste par la voie d'un concours professionnel les agents techniques et de gestion de premier ou de second niveau de La Poste.
+I. - Peuvent être promus au grade d'agent de maîtrise de La Poste suivant l'une des modalités ci-après ou suivant l'une ou l'autre de ces modalités :
 
-Peuvent être promus au grade d'agent de maîtrise de France Télécom par la voie d'un concours professionnel, les collaborateurs de premier ou de second niveau de France Télécom.
-
-Les candidats aux concours professionnels prévus ci-dessus doivent avoir accompli, à la date de clôture des listes de candidature, quatre années de services civils effectifs dans leur corps.
+a) Par la voie d'un concours professionnel, les agents techniques et de gestion de premier ou de second niveau de La Poste comptant, à la date de clôture des listes de candidatures, quatre années de services effectifs dans leur corps.
 
 Les intéressés sont nommés agents de maîtrise stagiaires et titularisés dans leur nouveau grade dans les conditions prévues à l'article 10 ci-dessus.
 
-Les agents techniques et de gestion de La Poste et les collaborateurs de France Télécom nommés respectivement dans le grade d'agent de maîtrise de La Poste ou dans le grade d'agent de maîtrise de France Télécom sont classés dans leur nouveau grade conformément au tableau ci-après :
+b) Après inscription à un tableau d'avancement établi après une sélection opérée par voie d'examen professionnel, les agents techniques et de gestion de second niveau de La Poste comptant, à la date de clôture des listes de candidatures, huit années de services effectifs dans leur grade.
+
+II. - Peuvent être promus au grade d'agent de maîtrise de France Télécom suivant l'une des modalités ci-après ou suivant l'une ou l'autre de ces modalités :
+
+a) Par la voie d'un concours professionnel, les collaborateurs de premier ou de second niveau de France Télécom comptant, à la date de clôture des listes de candidature, quatre années de services effectifs dans leur corps.
+
+Les intéressés sont nommés agents de maîtrise stagiaires et titularisés dans leur nouveau grade dans les conditions prévues à l'article 10 ci-dessus.
+
+b) Après inscription à un tableau d'avancement établi après une sélection opérée par voie d'examen professionnel, les collaborateurs de second niveau de France Télécom comptant, à la date de clôture des listes de candidatures, huit années de services effectifs dans leur grade.
+
+III. - Les agents techniques et de gestion de La Poste et les collaborateurs de France Télécom nommés respectivement dans le grade d'agent de maîtrise de La Poste ou dans le grade d'agent de maîtrise de France Télécom sont classés dans leur nouveau grade conformément au tableau ci-après :
 
 ANCIENNE SITUATION
 
@@ -20,63 +28,89 @@ Ancienneté d'échelon
 
 Agent technique et de gestion de second niveau de La Poste ou collaborateur de second niveau de France Télécom
 
-Agent de maîtrise de La Poste
+Agent de maîtrise de La Poste ou agent de maîtrise de France Télécom
 
-ou agent de maîtrise de France Télécom
+Echelon exceptionnel
 
-Echelon exceptionnel12e
+12e
 
 Sans ancienneté.
 
-16e échelon11e
+16e échelon
+
+11e
 
 Trois quarts de l'ancienneté acquise, dans la limite de 3 ans.
 
-15e échelon11e
+15e échelon
+
+11e
 
 Sans ancienneté.
 
-14e échelon10e
+14e échelon
+
+10e
 
 Ancienneté acquise.
 
-13e échelon 9e
+13e échelon
+
+9e
 
 Ancienneté acquise.
 
-12e échelon 8e
+12e échelon
+
+8e
 
 Ancienneté acquise.
 
-11e échelon 7e
+11e échelon
+
+7e
 
 Ancienneté acquise.
 
-10e échelon 6e
+10e échelon
+
+6e
 
 Un demi de l'ancienneté acquise, majoré de 1 an.
 
-9e échelon 6e
+9e échelon
+
+6e
 
 Moitié de l'ancienneté acquise.
 
-8e échelon 5e
+8e échelon
+
+5e
 
 Deux tiers de l'ancienneté acquise.
 
-7e échelon 4e
+7e échelon
+
+4e
 
 Deux tiers de l'ancienneté acquise.
 
-6e échelon 4e
+6e échelon
+
+4e
 
 Sans ancienneté.
 
-5e échelon 3e
+5e échelon
+
+3e
 
 Ancienneté acquise.
 
-4e échelon 2e
+4e échelon
+
+2e
 
 Ancienneté acquise.
 
@@ -84,9 +118,7 @@ SITUATION ANCIENNE
 
 SITUATION NOUVELLE
 
-Grade
-
-et échelon
+Grade et échelon
 
 Ancienneté d'échelon
 
