@@ -19,5 +19,6 @@
 - [Perte de reconnaissance.](perte-de-reconnaissance)
 - [Quantum des prêts.](quantum-des-prets)
 - [Reconnaissance.](reconnaissance)
+- [Responsabilité des appréciateurs.](responsabilite-des-appreciateurs)
 - [Responsabilité des officiers ministériels chargés des ventes.](responsabilite-des-officiers-ministeriels-charges-des-ventes)
 - [Ventes.](ventes)
