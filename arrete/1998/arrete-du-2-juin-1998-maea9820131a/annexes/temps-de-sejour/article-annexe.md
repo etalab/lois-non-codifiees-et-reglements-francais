@@ -8,704 +8,470 @@ TEMPS de séjour (en mois)
 
 Afghanistan
 
-Kaboul
-
-10
+Kaboul : 10
 
 Afrique du Sud
 
-Pretoria
-
-20
+Pretoria : 20
 
 Albanie
 
-Tirana
-
-10
+Tirana : 10
 
 Algérie
 
-Alger
-
-20
+Alger : 20
 
 Allemagne
 
-Bonn
-
-30
+Bonn : 30
 
 Andorre
 
-Andorre-la-Vieille
-
-30
+Andorre-la-Vieille : 30
 
 Angola
 
-Luanda
-
-10
+Luanda : 10
 
 Antigua-et-Barbuda
 
-Saint John's
-
-20
+Saint John's : 20
 
 Arabie saoudite
 
-Riyad
-
-10
+Riyad : 10
 
 Argentine
 
-Buenos Aires
-
-20
+Buenos Aires : 20
 
 Arménie
 
-Erevan
-
-15
+Erevan : 15
 
 Australie
 
-Canberra
-
-15
+Canberra : 15
 
 Autriche
 
-Vienne
-
-30
+Vienne : 30
 
 Azerbaïdjan
 
-Bakou
-
-15
+Bakou : 15
 
 Bahamas
 
-Nassau
-
-20
+Nassau : 20
 
 Bahreïn
 
-Manama
-
-10
+Manama : 10
 
 Bangladesh
 
-Dacca
-
-10
+Dacca : 10
 
 Barbade (La)
 
-Bridgetown
-
-20
+Bridgetown : 20
 
 Belgique
 
-Bruxelles
-
-30
+Bruxelles : 30
 
 Belize
 
-Belmopan
-
-10
+Belmopan : 10
 
 Bénin
 
-Cotonou
-
-10
+Cotonou : 10
 
 Biélorussie
 
-Minsk
-
-15
+Minsk : 15
 
 Birmanie
 
-Rangoon
-
-10
+Rangoon : 10
 
 Bolivie
 
-La Paz
-
-10
+La Paz : 10
 
 Bosnie-Herzégovine
 
-Sarajevo
-
-20
+Sarajevo : 20
 
 Botswana
 
-Gaborone
-
-10
+Gaborone : 10
 
 Brésil
 
-Brasilia
-
-15
+Brasilia : 15
 
 Brunei
 
-Bandar Seri Begawan
-
-10
+Bandar Seri Begawan : 10
 
 Bulgarie
 
-Sofia
-
-20
+Sofia : 20
 
 Burkina
 
-Ouagadougou
-
-10
+Ouagadougou : 10
 
 Burundi
 
-Bujumbura
-
-10
+Bujumbura : 10
 
 Cambodge
 
-Phnom Penh
-
-10
+Phnom Penh : 10
 
 Cameroun
 
-Yaoundé
-
-10
+Yaoundé : 10
 
 Canada
 
-Ottawa
-
-20
+Ottawa : 20
 
 Cap-Vert
 
-Praia
-
-10
+Praia : 10
 
 Centrafrique
 
-Bangui
-
-10
+Bangui : 10
 
 Chili
 
-Santiago
-
-15
+Santiago : 15
 
 Chine
 
-Pékin
-
-10
+Pékin : 10
 
 Chine
 
-Hong-Kong
-
-15
+Hong-Kong : 15
 
 Chypre
 
-Nicosie
-
-30
+Nicosie : 30
 
 Colombie
 
-Bogota
-
-10
+Bogota : 10
 
 Comores
 
-Moroni
-
-10
+Moroni : 10
 
 Congo
 
-Brazzaville
-
-10
+Brazzaville : 10
 
 Congo (République démocratique du)
 
-Kinshasa
-
-10
+Kinshasa : 10
 
 Corée
 
-Séoul
-
-15
+Séoul : 15
 
 Costa Rica
 
-San José
-
-15
+San José : 15
 
 Côte d'Ivoire
 
-Abidjan
-
-10
+Abidjan : 10
 
 Croatie
 
-Zagreb
-
-20
+Zagreb : 20
 
 Cuba
 
-La Havane
-
-20
+La Havane : 20
 
 Danemark
 
-Copenhague
-
-30
+Copenhague : 30
 
 Djibouti
 
-Djibouti
-
-10
+Djibouti : 10
 
 Dominicaine (République)
 
-Saint-Domingue
-
-20
+Saint-Domingue : 20
 
 Dominique (île de la)
 
-Roseau
-
-20
+Roseau : 20
 
 Egypte
 
-Le Caire
-
-20
+Le Caire : 20
 
 Emirats arabes unis
 
-Abu Dhabi
-
-10
+Abu Dhabi : 10
 
 Equateur
 
-Quito
-
-20
+Quito : 20
 
 Erythrée
 
-Asmara
-
-10
+Asmara : 10
 
 Espagne
 
-Madrid
-
-30
+Madrid : 30
 
 Estonie
 
-Tallin
-
-20
+Tallin : 20
 
 Etats-Unis d'Amérique
 
-Washington
-
-20
+Washington : 20
 
 Ethiopie
 
-Addis-Abeba
-
-10
+Addis-Abeba : 10
 
 Fidji (îles)
 
-Suva
-
-10
+Suva : 10
 
 Finlande
 
-Helsinki
-
-30
+Helsinki : 30
 
 Gabon
 
-Libreville
-
-10
+Libreville : 10
 
 Gambie
 
-Banjul
-
-10
+Banjul : 10
 
 Géorgie
 
-Tbilissi
-
-15
+Tbilissi : 15
 
 Ghana
 
-Accra
-
-10
+Accra : 15
 
 Grande-Bretagne
 
-Gibraltar
-
-30
+Gibraltar : 30
 
 Grande-Bretagne
 
-Londres
-
-30
+Londres : 30
 
 Grande-Bretagne
 
-Sainte-Hélène
-
-20
+Sainte-Hélène : 20
 
 Grèce
 
-Athènes
-
-30
+Athènes : 30
 
 Grenade (île de la)
 
-Saint-Georges
-
-20
+Saint-Georges : 20
 
 Guatemala
 
-Guatemala
-
-10
+Guatemala : 10
 
 Guinée
 
-Conakry
-
-10
+Conakry : 10
 
 Guinée-Bissau
 
-Bissau
-
-10
+Bissau : 10
 
 Guinée équatoriale
 
-Malabo
-
-10
+Malabo : 10
 
 Guyana
 
-Georgetown
-
-10
+Georgetown : 10
 
 Haïti
 
-Port-au-Prince
-
-10
+Port-au-Prince : 10
 
 Honduras
 
-Tegucigalpa
-
-10
+Tegucigalpa : 10
 
 Hongrie
 
-Budapest
-
-30
+Budapest : 30
 
 Inde
 
-New Delhi
-
-10
+New Delhi : 10
 
 Indonésie
 
-Jakarta
-
-10
+Jakarta : 10
 
 Irak
 
-Bagdad
-
-10
+Bagdad : 10
 
 Iran
 
-Téhéran
-
-10
+Téhéran : 10
 
 Irlande
 
-Dublin
-
-30
+Dublin : 30
 
 Islande
 
-Reykjavik
-
-20
+Reykjavik : 20
 
 Israël
 
-Tel-Aviv
-
-20
+Tel-Aviv : 20
 
 Italie
 
-Rome
-
-30
+Rome : 30
 
 Jamaïque
 
-Kingston
-
-20
+Kingston : 20
 
 Japon
 
-Tokyo
-
-15
+Tokyo : 15
 
 Jordanie
 
-Amman
-
-20
+Amman : 20
 
 Kazakhstan
 
-Alma-Ata
-
-15
+Alma-Ata : 15
 
 Kenya
 
-Nairobi
-
-10
+Nairobi : 10
 
 Kirghizistan
 
-Bichkek
-
-15
+Bichkek : 15
 
 Kiribati
 
-Tarawa
-
-10
+Tarawa : 10
 
 Koweït
 
-Koweït
-
-10
+Koweït : 10
 
 Laos
 
-Vientiane
-
-10
+Vientiane : 10
 
 Lesotho
 
-Maseru
-
-10
+Maseru : 10
 
 Lettonie
 
-Riga
-
-20
+Riga : 20
 
 Liban
 
-Beyrouth
-
-20
+Beyrouth : 20
 
 MANQUE DE LIBERIA A TCHAD
 
 Thaïlande
 
-Bangkok
-
-10
+Bangkok : 10
 
 Togo
 
-Lomé
-
-10
+Lomé : 10
 
 Tonga (îles)
 
-Nuku'Alofa
-
-10
+Nuku'Alofa : 10
 
 Trinité-et-Tobago
 
-Port d'Espagne
-
-20
+Port d'Espagne : 20
 
 Tunisie
 
-Tunis
-
-30
+Tunis : 30
 
 Turkménistan
 
-Achkhabad
-
-15
+Achkhabad : 15
 
 Turquie
 
-Ankara
-
-30
+Ankara : 30
 
 Tuvalu (îles)
 
-Funafuti
-
-10
+Funafuti : 10
 
 Ukraine
 
-Kiev
-
-15
+Kiev : 15
 
 Uruguay
 
-Montevideo
-
-20
+Montevideo : 20
 
 Vanuatu
 
-Port-Vila
-
-10
+Port-Vila : 10
 
 Venezuela
 
-Caracas
-
-20
+Caracas : 20
 
 Viêt-Nam
 
-Hanoi
-
-10
+Hanoi : 10
 
 Yémen
 
-Sanaa
-
-10
+Sanaa : 10
 
 Yougoslavie
 
-Belgrade
-
-10
+Belgrade : 10
 
 Zambie
 
-Lusaka
-
-10
+Lusaka : 10
 
 Zimbabwe
 
-Harare
-
-10
+Harare : 10
