@@ -1,0 +1,3 @@
+# Article 1
+
+Le taux de la cotisation des assurances sociales afférente à la couverture des prestations en nature de l'assurance maladie, invalidité et maternité versée aux fonctionnaires de l'Etat, aux ouvriers de l'Etat et aux agents permanents des départements, des communes et de leurs établissements publics n'ayant pas le caractère industriel ou commercial, affiliés à la caisse nationale de retraite des agents des collectivités locales ou à un régime spécial de retraites, est fixé à 14,75 p. 100, soit 10 p. 100 à la charge de l'employeur et 4,75 p. 100 à la charge de l'assuré, pour les personnels autres que ceux visés au troisième alinéa de l'article 23 du décret n° 47-2045 du 20 octobre 1947.
