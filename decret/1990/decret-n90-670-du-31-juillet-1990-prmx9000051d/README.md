@@ -5,4 +5,3 @@
 - [CHAPITRE III : Accomplissement du service de défense.](chapitre-iii)
 - [CHAPITRE IV : Dispositions transitoires.](chapitre-iv)
 - [Article 31](article-31.md)
-- [Annexes](annexes)
