@@ -21,3 +21,5 @@ Pendant le reste de sa durée, le stage peut aussi être accompli, suivant les m
 4° Au parquet de la cour d'appel ou d'un tribunal de grande instance ;
 
 5° Auprès d'une administration publique ou dans les services juridiques ou fiscaux d'une entreprise employant au moins trois juristes ou d'une organisation internationale.
+
+Le stage peut être accompli à mi-temps. La période ainsi effectuée ne compte que pour la moitié de sa durée. Toutefois, l'ensemble des travaux organisés par le centre ou par les organismes de formation agréés par le Conseil national des barreaux doit avoir été accompli au cours des deux années suivant la date de prestation de serment de l'avocat.

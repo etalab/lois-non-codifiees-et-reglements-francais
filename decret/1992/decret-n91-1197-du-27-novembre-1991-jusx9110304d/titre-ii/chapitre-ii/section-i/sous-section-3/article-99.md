@@ -16,7 +16,7 @@ L'intéressé doit subir devant le jury prévu à l'article 69 un examen d'aptit
 
 2° Ou lorsqu'une ou plusieurs des activités professionnelles dont l'exercice est subordonné à la possession de ces diplômes et examens ne sont pas réglementées dans l'Etat membre d'origine ou de provenance ou sont réglementées de manière différente et que cette différence est caractérisée par une formation spécifique requise en France portant sur des matières substantiellement différentes de celles couvertes par le diplôme dont le demandeur fait état.
 
-A la réception du dossier complet de l'intéressé, le Conseil national des barreaux lui délivre un récépissé. Il se prononce par décision motivée dans un délai de quatre mois à compter de la date de délivrance du récépissé.
+Le Conseil national des barreaux se prononce par décision motivée dans un délai de quatre mois à compter de la réception du dossier de l'intéressé. Dans le cas où ce dernier est invité à compléter son dossier, ce délai ne court qu'à compter de la réception de l'ensemble des documents complémentaires requis. A défaut de notification d'une décision dans ce délai, [*refus implicite*], la demande est rejetée et l'intéressé peut se pourvoir devant la cour d'appel de Paris [*recours*].
 
 La décision du Conseil national des barreaux par laquelle est arrêtée la liste des candidats admis à se présenter à l'examen d'aptitude précise, le cas échéant, les matières sur lesquelles les candidats doivent être interrogés compte tenu de leur formation initiale.
 

@@ -1,6 +1,6 @@
 # Article 139
 
-Dans la quinzaine de la conclusion du contrat de travail ou de la modification de l'un de ses éléments substantiels [*délai - mise en conformité*], un exemplaire en est remis contre récépissé ou expédié par lettre recommandée avec demande d'avis de réception au conseil de l'ordre qui peut, dans un délai d'un mois, mettre en demeure, par lettre recommandée avec demande d'avis de réception, les avocats de modifier le contrat de travail pour le mettre en conformité avec les règles professionnelles.
+Dans la quinzaine de la conclusion du contrat de travail ou de la modification de l'un de ses éléments substantiels, un exemplaire en est remis contre récépissé ou expédié par lettre recommandée avec demande d'avis de réception au conseil de l'ordre du barreau auprès duquel l'avocat salarié est inscrit. Ce conseil de l'ordre peut, dans un délai d'un mois, mettre en demeure, par lettre recommandée avec demande d'avis de réception, les avocats de modifier le contrat de travail pour le mettre en conformité avec les règles professionnelles.
 
 Le conseil de l'ordre contrôle notamment, à l'exclusion des clauses relatives aux conditions de travail :
 
