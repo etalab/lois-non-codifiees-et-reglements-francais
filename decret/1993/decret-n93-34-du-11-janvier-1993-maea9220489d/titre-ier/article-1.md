@@ -1,7 +1,11 @@
 # Article 1
 
-Il est créé à l'Office français de protection des réfugiés et apatrides les deux corps de fonctionnaires suivants :
+Sont créés à l'Office français de protection des réfugiés et apatrides les quatre corps de fonctionnaires suivants :
 
-Corps des secrétaires de protection des réfugiés et apatrides ;
+Le corps des agents de protection des réfugiés et apatrides ;
 
-Corps des officiers de protection des réfugiés et apatrides.
+Le corps des adjoints de protection des réfugiés et apatrides ;
+
+Le corps des secrétaires de protection des réfugiés et apatrides ;
+
+Le corps des officiers de protection des réfugiés et apatrides.
