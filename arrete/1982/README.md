@@ -17,7 +17,6 @@
 - [Arrêté du 3 mai 1982](arrete-du-3-mai-1982)
 - [Arrêté du 4 août 1982](arrete-du-4-aout-1982)
 - [Arrêté du 4 février 1982](arrete-du-4-fevrier-1982)
-- [Arrêté du 4 janvier 1982](arrete-du-4-janvier-1982)
 - [Arrêté du 4 juin 1982](arrete-du-4-juin-1982)
 - [Arrêté du 4 novembre 1982](arrete-du-4-novembre-1982)
 - [Arrêté du 4 mai 1982](arrete-du-4-mai-1982)
