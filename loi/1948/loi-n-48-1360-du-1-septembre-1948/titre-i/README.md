@@ -2,6 +2,8 @@
 
 - [Article 1](article-1.md)
 - [Chapitre I : Du maintien dans les lieux.](chapitre-i)
+- [Article 1 bis](article-1-bis.md)
+- [Article 1 ter](article-1-ter.md)
 - [Article 2](article-2.md)
 - [Chapitre II : Du droit de reprise.](chapitre-ii)
 - [Article 3](article-3.md)
@@ -10,6 +12,7 @@
 - [Article 3 ter](article-3-ter.md)
 - [Article 3 quater](article-3-quater.md)
 - [Article 3 quinquies](article-3-quinquies.md)
+- [Article 3 sexies](article-3-sexies.md)
 - [Chapitre IV : Des locations et sous-locations en meublé.](chapitre-iv)
 - [Chapitre V : De la procédure.](chapitre-v)
 - [Chapitre VI : Des sanctions.](chapitre-vi)
