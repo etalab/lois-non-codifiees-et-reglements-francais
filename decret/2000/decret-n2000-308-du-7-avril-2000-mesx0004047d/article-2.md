@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'exercice de ses attributions, le secrétaire d'Etat à l'économie solidaire dispose de la délégation interministérielle à l'innovation sociale et à l'économie sociale et, en tant que de besoin, de la délégation générale à l'emploi et à la formation professionnelle, de la direction de l'administration générale, du personnel et du budget et du service de l'information et de la communication ainsi que de l'inspection générale des affaires sociales. Il peut faire appel aux services compétents des autres départements ministériels intéressés, et notamment à la Délégation à l'aménagement du territoire et à l'action régionale et à la direction de la jeunesse et de l'éducation populaire.

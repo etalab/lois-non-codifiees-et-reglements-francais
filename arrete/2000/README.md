@@ -9,6 +9,7 @@
 - [Arrêté du 2 décembre 1998 (MEST9811275A)](arrete-du-2-decembre-1998-mest9811275a)
 - [Arrêté du 2 février 2000 (EQUP9901614A)](arrete-du-2-fevrier-2000-equp9901614a)
 - [Arrêté du 2 février 2000 (MJSK0070003A)](arrete-du-2-fevrier-2000-mjsk0070003a)
+- [Arrêté du 3 avril 2000 (JUSA0000078A)](arrete-du-3-avril-2000-jusa0000078a)
 - [Arrêté du 3 février 2000 (EQUS0000211A)](arrete-du-3-fevrier-2000-equs0000211a)
 - [Arrêté du 3 février 2000 (MENF0000273A)](arrete-du-3-fevrier-2000-menf0000273a)
 - [Arrêté du 3 janvier 2000 (ECOD0072320A)](arrete-du-3-janvier-2000-ecod0072320a)
