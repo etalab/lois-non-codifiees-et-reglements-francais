@@ -2,5 +2,4 @@
 
 - [Titre Ier : Des sociétés d'exercice libéral de notaires.](titre-ier)
 - [Titre II : Des sociétés en participation de notaires.](titre-ii)
-- [Titre III : Dispositions particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](titre-iii)
 - [Titre IV : Dispositions particulières aux départements du Haut-Rhin, du Bas-Rhin et de la Moselle.](titre-iv)

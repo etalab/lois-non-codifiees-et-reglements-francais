@@ -2,5 +2,4 @@
 
 - [CHAPITRE 1er : Retraite forfaitaire](chapitre-1er)
 - [CHAPITRE 2 : Retraite proportionnelle](chapitre-2)
-- [CHAPITRE 3 : Dispositions diverses et transitoires](chapitre-3)
 - [Annexes](annexes)
