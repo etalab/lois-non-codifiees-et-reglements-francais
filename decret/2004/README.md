@@ -548,6 +548,8 @@
 - [Décret n°2004-312 du 26 mars 2004 (DEVN0420030D)](decret-n2004-312-du-26-mars-2004-devn0420030d)
 - [Décret n°2004-366 du 26 avril 2004 (INTC0400073D)](decret-n2004-366-du-26-avril-2004-intc0400073d)
 - [Décret n°2004-367 du 26 avril 2004 (DOMA0400004D)](decret-n2004-367-du-26-avril-2004-doma0400004d)
+- [Décret n°2004-732 du 26 juillet 2004 (JUSG0460064D)](decret-n2004-732-du-26-juillet-2004-jusg0460064d)
+- [Décret n°2004-733 du 26 juillet 2004 (DEFM0400647D)](decret-n2004-733-du-26-juillet-2004-defm0400647d)
 - [Décret n°2004-81 du 26 janvier 2004 (INTA0400017D)](decret-n2004-81-du-26-janvier-2004-inta0400017d)
 - [Décret n°2004-85 du 26 janvier 2004 (EQUP0301770D)](decret-n2004-85-du-26-janvier-2004-equp0301770d)
 - [Décret n°2004-86 du 26 janvier 2004 (EQUR0301437D)](decret-n2004-86-du-26-janvier-2004-equr0301437d)
