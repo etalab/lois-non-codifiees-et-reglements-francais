@@ -1,0 +1,3 @@
+# Article 15
+
+Le ministre de l'agriculture, le ministre d'Etat chargé des affaires sociales et le ministre de l'économie et des finances peuvent faire procéder directement par leurs agents au contrôle technique, administratif et financier de tous les centres, organismes et entreprises qui accueillent les stagiaires bénéficiaires du fonds d'action sociale pour l'aménagement des structures agricoles. Le contrôle s'exerce sur pièces et sur place. Les centres et organismes sont tenus de fournir au ministre de l'agriculture tous les renseignements d'ordre technique, administratif et financier qui peuvent leur être demandés soit occasionnellement, soit périodiquement.
