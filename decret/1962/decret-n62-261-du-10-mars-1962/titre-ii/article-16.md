@@ -1,3 +1,3 @@
 # Article 16
 
-Les bénéficiaires de l'allocation de subsistance continuent à la percevoir lorsqu'ils effectuent un stage de formation professionnelle, soit dans un établissement d'enseignement, soit dans un centre de formation professionnelle d'adultes, soit dans une entreprise. Les indemnités qui leur sont allouées à cette occasion doivent être déduites du montant de leur allocation de subsistance.
+Les bénéficiaires de l'allocation de subsistance continuent à la percevoir soit lorsqu'ils effectuent un stage de formation professionnelle dans un établissement d'enseignement, dans un centre de formation professionnelle d'adultes, dans une entreprise, soit lorsqu'ils bénéficient d'un contrat de réadaptation professionnelle. Les indemnités ou salaires qui leur sont alloués à cette occasion doivent être déduits du montant de leur allocation.

@@ -1,7 +1,7 @@
 # Article 9
 
-L'allocation mensuelle de subsistance comporte un taux de base et, suivant les cas, une ou deux primes variables. La première mensualité est fixée forfaitairement au taux de base.
+L'allocation mensuelle de subsistance comporte un taux de base et, le cas échéant, une prime variable attribuée en fonction de l'effort de reconversion auquel consent le rapatrié.
 
-Les primes sont attribuées en fonction d'une part de l'effort de reconversion auquel consent le rapatrié, d'autre part du lieu de résidence qu'il accepte.
+La première mensualité est fixée forfaitairement au taux de base.
 
 Les mineurs non à charge au sens de la législation métropolitaine sur les prestations familiales et qui sont demandeurs d'emploi peuvent bénéficier d'une allocation mensuelle comportant un taux de base spécial.

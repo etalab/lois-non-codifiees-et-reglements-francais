@@ -1,7 +1,11 @@
 # Article 27
 
-Les rapatriés qui satisfont aux conditions prévues par l'article 25 peuvent bénéficier des facilités d'installation visées à l'article 28 ci-après, et, le cas échéant, des prêts et subventions de reclassement prévus aux articles 30 à 32 du présent décret.et s'installent dans la profession correspondant à celle qui a fait l'objet de leur inscription sur les listes professionnelles, ils peuvent bénéficier des facilités d'installation visées à l'article 18 et, le cas échéant, des prêts et subventions de reclassement visés aux articles 30 et 33 du présent décret.
+Les rapatriés non salariés peuvent, selon le cas, bénéficier de l'une des prestations suivantes :
 
-Ces prestations ne peuvent être accordées qu'aux personnes désirant exercer des professions correspondant à celles qui ont fait l'objet d'inscriptions sur les listes professionnelles.
+Lorsqu'ils satisfont aux conditions prévues par l'article 25 et s'installent dans la profession correspondant à celle qui a fait l'objet de leur inscription sur les listes professionnelles, ils peuvent bénéficier des facilités d'installation visées à l'article 28 et, le cas échéant, des prêts et subventions de reclassement visés aux articles 30 et 33 du présent décret.
 
-Lorsque ces prestations sont demandées pour un département autre que celui de la résidence du rapatrié, le dossier, après transmission, est instruit par le préfet ou par le délégué régional du département dans lequel il désire s'installer.
+Lorsqu'ils renoncent ou sont contraints de renoncer au bénéfice de leur inscription sur les listes professionnelles, en vue d'occuper un emploi salarié, ils peuvent bénéficier du capital de reconversion prévu à l'article 32 du présent décret.
+
+Lorsqu'ils ne réunissent pas les conditions de durée d'exercice de la profession qui peuvent être exigées pour obtenir leur inscription sur les listes professionnelles et occupent un emploi salarié, ils peuvent prétendre au bénéfice de la subvention d'installation prévue à l'article 24 du présent décret.
+
+Lorsqu'ils ne remplissent pas les conditions requises pour prétendre à l'un des trois avantages ci-dessus et se réinstallent dans une profession-artisanale, ils peuvent prétendre au bénéfice de la subvention d'installation prévue à l'article 24 du présent décret.
