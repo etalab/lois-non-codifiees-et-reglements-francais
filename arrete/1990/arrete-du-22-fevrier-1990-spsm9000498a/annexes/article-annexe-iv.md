@@ -1,0 +1,49 @@
+# Article Annexe IV
+
+Cette annexe comprend les produits ci-après désignés ainsi que leurs préparations à l'exception de celles nommément désignées ci-dessous :
+
+Acide lysergique, ses dérivés halogénés, et leurs sels.
+
+Amfépentorex et ses sels, à l'exception de leurs préparations autres qu'injectables.
+
+Banisteriopsis caapi, Peganum harmala, Psychotria viridis, Diplopterys cabrerana, Mimosa hostilis, Banisteriopsis rusbyana, harmine, harmaline, tétrahydroharmine (THH), harmol, harmalol.
+
+Bêta hydroxy alpha, bêta-diphényléthylamine, ses isomères, esters, éthers, et leurs sels.
+
+Champignons hallucinogènes, notamment des genres stropharia, conocybe et psilocybe.
+
+Chlorphentermine et ses sels, à l'exception de leurs préparations autres qu'injectables.
+
+2-CI.
+
+2-CT-2 ou 2,5-diméthoxy-4-éthylthiophényléthylamine.
+
+2-CT-7 ou 2,5-diméthoxy-4-(n)-propyl-thiophényléthylamine.
+
+Fenbutrazate et ses sels.
+
+Kétamine et ses sels, à l'exception de leurs préparations injectables.
+
+Khat (feuilles du Catha edulis, Celastracées).
+
+Lévophacétopérane et ses sels.
+
+MBDB ou N-méthyl-1-(3,4-méthylènedioxyphényl)-2-butanamine et ses sels dans tous les cas où ils peuvent exister.
+
+Nabilone et ses sels dans tous les cas où ils peuvent exister.
+
+Pentorex et ses sels, à l'exception de leurs préparations autres qu'injectables.
+
+Peyotl ou peyote, ses principes actifs et leurs composés naturels et synthétiques autres que la mescaline.
+
+Phénylacétone ou phényl-1 propanone-2.
+
+PMMA ou paraméthoxyméthamphétamine.
+
+Tabernanthe iboga, Tabernanthe manii, ibogaïne, ses isomères, esters, éthers et leurs sels qu'ils soient d'origine naturelle ou synthétique ainsi que toutes préparations qui en contiennent.
+
+Tétrahydrocannabinols, leurs esters, éthers, sels ainsi que les sels des dérivés précités.
+
+Tilétamine et ses sels, à l'exception de leurs préparations injectables.
+
+TMA-2 ou 2,4,5-triméthoxyamphétamine.
