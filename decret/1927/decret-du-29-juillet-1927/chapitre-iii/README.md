@@ -2,3 +2,5 @@
 
 - [Section 1 : Distributions publiques concédées par une commune ou un syndicat de communes](section-1)
 - [Section II : Distributions publiques concédées par l'Etat](section-ii)
+- [Section III : Distribution aux services publics](section-iii)
+- [Section IV : Transports d'énergie concédés par l'Etat](section-iv)
