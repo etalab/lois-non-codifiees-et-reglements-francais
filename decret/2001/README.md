@@ -395,7 +395,6 @@
 - [Décret n°2001-897 du 25 septembre 2001 (DEFP0101945D)](decret-n2001-897-du-25-septembre-2001-defp0101945d)
 - [Décret n°2001-968 du 25 octobre 2001 (MESS0121936D)](decret-n2001-968-du-25-octobre-2001-mess0121936d)
 - [Décret n°2001-972 du 25 octobre 2001 (EQUU0101588D)](decret-n2001-972-du-25-octobre-2001-equu0101588d)
-- [Décret n°2001-975 du 25 octobre 2001 (INTC0100256D)](decret-n2001-975-du-25-octobre-2001-intc0100256d)
 - [Décret n°2001-978 du 25 octobre 2001 (MESS0123593D)](decret-n2001-978-du-25-octobre-2001-mess0123593d)
 - [Décret n°2001-979 du 25 octobre 2001 (MESH0123378D)](decret-n2001-979-du-25-octobre-2001-mesh0123378d)
 - [Décret n°2001-981 du 25 octobre 2001 (MENE0101495D)](decret-n2001-981-du-25-octobre-2001-mene0101495d)
