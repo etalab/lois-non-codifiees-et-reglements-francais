@@ -6,4 +6,4 @@ Ce congé est accordé de droit dans les mêmes conditions au fonctionnaire qui 
 
 Le congé spécial demandé en application du premier alinéa ne peut être accordé si un autre fonctionnaire de la collectivité ou de l'établissement en bénéficie en application de ce même alinéa.
 
-Il prend fin lorsque le fonctionnaire atteint la limite d'âge et, au plus tard, à la fin de la cinquième année après la date où il a été accordé.
+Sous réserve des dispositions de l'avant-dernier alinéa de l'article 99 de la loi du 26 janvier 1984 précitée, il prend fin lorsque le fonctionnaire atteint la limite d'âge et, au plus tard, à la fin de la cinquième année après la date où il a été accordé.

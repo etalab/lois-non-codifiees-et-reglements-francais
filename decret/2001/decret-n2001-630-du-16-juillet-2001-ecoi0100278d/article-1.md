@@ -1,0 +1,15 @@
+# Article 1
+
+Les informations dont la confidentialité doit être préservée par les gestionnaires de réseaux publics de transport ou de distribution d'électricité en application des articles 16 et 20 de la loi du 10 février 2000 susvisée sont les suivantes :
+
+1° Les dispositions des contrats et protocoles d'accès aux réseaux publics de transport ou de distribution mentionnés à l'article 23 de la loi du 10 février 2000 susvisée, ainsi que les informations échangées en vue de leur préparation et de leur application, relatives à l'identité des parties à un contrat de fourniture, aux prix de transaction de l'électricité, aux données financières relatives à l'équilibre des transactions, aux caractéristiques de la production, de la fourniture ou de la consommation, à la durée des contrats et protocoles d'accès ou de fourniture, aux conditions techniques et financières de raccordement, aux pénalités et sanctions contractuelles ;
+
+2° Les programmes d'appel, d'approvisionnement et de consommation mentionnés au I de l'article 15 de la loi du 10 février 2000 susvisée, les propositions d'ajustement des programmes d'appel mentionnés au II de l'article 15 de ladite loi, les modifications apportées par le gestionnaire du réseau public de transport à ces programmes d'appel en application des II et III de l'article 15 de cette même loi, ainsi que toutes informations échangées entre les gestionnaires des réseaux concernés et les utilisateurs de ces réseaux en vue de l'établissement et de la mise en oeuvre de ces programmes ;
+
+3° Les dispositions des contrats et protocoles d'achat d'électricité conclus par le gestionnaire du réseau public de transport mentionnés au III de l'article 15 de la loi du 10 février 2000 susvisée, ainsi que les informations échangées en vue de leur préparation et de leur application, relatives aux prix de transaction de l'électricité, aux données financières relatives à l'équilibre des transactions, aux caractéristiques de la production ou de la fourniture, à la durée des contrats et protocoles d'achat, aux pénalités et sanctions contractuelles ;
+
+4° Les informations issues des comptages mentionnés au IV de l'article 15 et au III de l'article 19 de la loi du 10 février 2000 susvisée ou issues de toutes autres mesures physiques effectuées par les gestionnaires des réseaux concernés sur les ouvrages de raccordement et les installations d'un utilisateur de ces réseaux ;
+
+5° Les niveaux des écarts constatés par rapport aux programmes d'appel, d'approvisionnement et de consommation, ainsi que les montants des compensations financières demandées ou attribuées par le gestionnaire du réseau public de transport aux utilisateurs concernés, mentionnés au IV de l'article 15 de la loi du 10 février 2000 susvisée ;
+
+6° Les informations relevant des paragraphes 1° à 5° transmises par d'autres gestionnaires de réseaux publics de transport ou de distribution ou par des services gestionnaires de réseaux étrangers, en vue de l'accomplissement de leurs missions.

@@ -1,5 +1,6 @@
 # Chapitre II : De la contribution de l'Etat.
 
+- [Article 39](article-39.md)
 - [Article 40](article-40.md)
 - [Article 41](article-41.md)
 - [Article 42](article-42.md)
@@ -20,3 +21,4 @@
 - [Article 53](article-53.md)
 - [Article 54](article-54.md)
 - [Article 55](article-55.md)
+- [Article 56](article-56.md)

@@ -1,0 +1,9 @@
+# Article 13
+
+I. - 1° Nonobstant les dispositions prévues par le statut particulier du cadre d'emplois auquel ils accèdent, les fonctionnaires territoriaux stagiaires qui avaient auparavant la qualité de fonctionnaire ou d'agent non titulaire perçoivent le traitement correspondant à leur situation antérieure si ce traitement est supérieur à celui correspondant à l'échelon déterminé par ce statut particulier. Le traitement ainsi perçu est au plus égal à celui afférent à l'échelon terminal du grade auquel ils sont nommés.
+
+2° Lorsque l'application des dispositions du statut particulier d'un cadre d'emplois aboutit à classer, lors de leur titularisation, les fonctionnaires territoriaux, qui avaient auparavant la qualité de fonctionnaire ou d'agent non titulaire, à un échelon doté d'un indice de traitement inférieur à celui dont ils bénéficiaient dans leur grade ou emploi précédent, les intéressés conservent, à titre personnel, le bénéfice de leur indice ou traitement antérieur jusqu'au jour où ils atteignent dans leur grade un échelon comportant un indice au moins égal, sans que l'indice ou traitement conservé puisse être supérieur au traitement indiciaire afférent à l'échelon terminal du grade auquel ils sont titularisés.
+
+3° Toutefois, les dispositions des 1° et 2° ne sont pas applicables dans le cas où le statut particulier du cadre d'emplois prévoit une indemnité compensatrice permettant au fonctionnaire de percevoir une rémunération plus élevée que celle qui résulterait de l'application du 1° ou du 2°.
+
+II. - Lorsque les dispositions d'un statut particulier prévoient, pour déterminer le classement des fonctionnaires territoriaux stagiaires lors de leur titularisation dans le cadre d'emplois auquel ils accèdent, la prise en compte de services accomplis en qualité d'agent non titulaire, il est tenu compte des services accomplis en cette qualité de manière continue ou discontinue.
