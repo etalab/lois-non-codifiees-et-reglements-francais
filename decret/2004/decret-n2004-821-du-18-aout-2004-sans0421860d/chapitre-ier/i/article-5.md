@@ -1,0 +1,3 @@
+# Article 5
+
+L'employeur tient à la disposition de l'inspecteur du recouvrement mentionné à l'article R. 243-59 du code de la sécurité sociale un document justificatif du montant des réductions qu'il a appliquées. Ce document, qui peut être établi sur un support dématérialisé, est rempli par établissement et par mois civil. Il indique le nombre de salariés ouvrant droit à la réduction et le montant total des réductions appliquées ainsi que, pour chacun de ces salariés, son identité, la rémunération brute mensuelle versée, le nombre d'heures rémunérées, le cas échéant reconstitué dans les cas mentionnés au 3 de l'article 2 et à l'article 3, le coefficient issu de l'application de la formule de calcul prévue à l'article 2 et le montant de la réduction appliquée.
