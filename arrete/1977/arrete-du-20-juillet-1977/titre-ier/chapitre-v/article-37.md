@@ -1,5 +1,3 @@
 # Article 37
 
-Les aliments se classant dans la première des catégories énumérées à l'article 32 doivent être mis en vente sous une dénomination renfermant le terme "hypocalorique".
-
-Ceux qui appartiennent à la deuxième de ces catégories doivent être mis en vente sous une dénomination renfermant le terme "hypocalorique" et l'expression "équilibré à 1.000 kcal maximum par jour", expression dans laquelle le mot "kilocalories" peut, toutefois, être remplacé par "calories".
+L'étiquetage, la publicité et la présentation des produits concernés ne doivent pas mentionner le rythme ou l'importance de la perte de poids qui peut résulter de leur consommation, ni les pertes d'appétit ou accentuation de la sensation de satiété qui peuvent se manifester.

@@ -31,6 +31,8 @@
 - [Décret n°98-429 du 2 juin 1998 (ECOI9800342D)](decret-n98-429-du-2-juin-1998-ecoi9800342d)
 - [Décret n°98-430 du 2 juin 1998 (ECOI9800343D)](decret-n98-430-du-2-juin-1998-ecoi9800343d)
 - [Décret n°98-433 du 2 juin 1998 (ECOP9800256D)](decret-n98-433-du-2-juin-1998-ecop9800256d)
+- [Décret n°98-446 du 2 juin 1998 (MENS9800561D)](decret-n98-446-du-2-juin-1998-mens9800561d)
+- [Décret n°98-447 du 2 juin 1998 (INTB9800125D)](decret-n98-447-du-2-juin-1998-intb9800125d)
 - [Décret n°98-61 du 2 février 1998 (MESO9810007D)](decret-n98-61-du-2-fevrier-1998-meso9810007d)
 - [Décret n°98-62 du 2 février 1998 (ECOT9813956D)](decret-n98-62-du-2-fevrier-1998-ecot9813956d)
 - [Décret n°98-63 du 2 février 1998 (MESH9820044D)](decret-n98-63-du-2-fevrier-1998-mesh9820044d)

@@ -1,9 +1,11 @@
 # Article 32
 
-Sont soumis aux dispositions du décret du 24 janvier 1975 [*champ d'application*] les produits alimentaires qui sont présentés comme destinés aux régimes hypocaloriques ou comme favorisant l'amaigrissement.
+Sont soumises aux dispositions du décret du 29 août 1991 susvisé les denrées alimentaires qui sont destinées à être utilisées dans les régimes hypocaloriques destinés à la perte de poids et présentées comme telles.
 
-Tels qu'ils sont mis en vente et tels qu'ils sont obtenus selon le mode d'emploi indiqué par le fabricant, ces produits doivent avoir une composition permettant de les classer dans une des catégories ci-après :
+Ces produits sont des aliments de composition particulière qui, s'ils sont utilisés selon les instructions du fabricant, remplacent tout ou partie de la ration journalière. Ils se classent en trois catégories :
 
-1° Aliments appauvris en glucides ou en lipides et éventuellement enrichis en protides ;
+1° Les produits présentés comme remplaçant, dans le cadre d'un régime hypocalorique, la totalité de la ration journalière dont la valeur énergétique doit être comprise entre 800 et 1 200 kilocalories ;
 
-2° Aliments équilibrés à 1.000 kcal maximum et convenant aux régimes de l'amaigrissement en tant que substituts d'un ou de plusieurs repas de la journée.
+2° Les produits présentés comme remplaçant, dans le cadre d'un régime hypocalorique, un ou plusieurs des repas. La valeur calorique d'un repas doit être comprise entre 200 et 400 kilocalories ;
+
+3° Les aliments appauvris en glucides ou en lipides et éventuellement enrichis en protides, consommés généralement sous forme d'en-cas.
