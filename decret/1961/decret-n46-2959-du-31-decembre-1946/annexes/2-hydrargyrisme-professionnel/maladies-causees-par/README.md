@@ -1,3 +1,0 @@
-# MALADIES CAUSEES PAR LE MERCURE ET SES COMPOSES.
-
-- [Article TABLEAU 2](article-tableau-2.md)
