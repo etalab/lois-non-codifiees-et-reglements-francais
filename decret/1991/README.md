@@ -55,7 +55,6 @@
 - [Décret n°91-1216 du 3 décembre 1991 (SANP9102635D)](decret-n91-1216-du-3-decembre-1991-sanp9102635d)
 - [Décret n°91-1230 du 3 décembre 1991 (ECOC9100104D)](decret-n91-1230-du-3-decembre-1991-ecoc9100104d)
 - [Décret n°91-340 du 3 avril 1991 (ECOC9100022D)](decret-n91-340-du-3-avril-1991-ecoc9100022d)
-- [Décret n°91-342 du 3 avril 1991 (AGRS9100309D)](decret-n91-342-du-3-avril-1991-agrs9100309d)
 - [Décret n°91-503 du 3 juin 1991 (PRMX9100088D)](decret-n91-503-du-3-juin-1991-prmx9100088d)
 - [Décret n°91-504 du 3 juin 1991 (PRMX9100090D)](decret-n91-504-du-3-juin-1991-prmx9100090d)
 - [Décret n°91-505 du 3 juin 1991 (PRMX9100091D)](decret-n91-505-du-3-juin-1991-prmx9100091d)
