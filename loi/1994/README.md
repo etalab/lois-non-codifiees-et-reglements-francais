@@ -10,3 +10,5 @@
 - [Loi n° 93-944 du 23 juillet 1993 (ECOX9300092L)](loi-n-93-944-du-23-juillet-1993-ecox9300092l)
 - [Loi n° 93-980 du 4 août 1993 (ECOX9300075L)](loi-n-93-980-du-4-aout-1993-ecox9300075l)
 - [Loi n° 94-1 du 3 janvier 1994 (JUSX9300077L)](loi-n-94-1-du-3-janvier-1994-jusx9300077l)
+- [Loi n° 94-43 du 18 janvier 1994 (SPSX9300136L)](loi-n-94-43-du-18-janvier-1994-spsx9300136l)
+- [Loi n° 94-44 du 18 janvier 1994 (INTX9300132L)](loi-n-94-44-du-18-janvier-1994-intx9300132l)
