@@ -271,6 +271,8 @@
 - [Décret n°2004-63 du 14 janvier 2004 (MCCB0300915D)](decret-n2004-63-du-14-janvier-2004-mccb0300915d)
 - [Décret n°2004-66 du 14 janvier 2004 (INDI0302207D)](decret-n2004-66-du-14-janvier-2004-indi0302207d)
 - [Décret n°2004-72 du 14 janvier 2004 (INTA0400010D)](decret-n2004-72-du-14-janvier-2004-inta0400010d)
+- [Décret n°2004-813 du 14 août 2004 (INTD0400055D)](decret-n2004-813-du-14-aout-2004-intd0400055d)
+- [Décret n°2004-814 du 14 août 2004 (MAEF0410016D)](decret-n2004-814-du-14-aout-2004-maef0410016d)
 - [Décret du 15 juillet 2004 (AGRP0400231D)](decret-du-15-juillet-2004-agrp0400231d)
 - [Décret n°2004-229 du 15 mars 2004 (SOCF0311267D)](decret-n2004-229-du-15-mars-2004-socf0311267d)
 - [Décret n°2004-540 du 15 juin 2004 (PRMX0300112D)](decret-n2004-540-du-15-juin-2004-prmx0300112d)
