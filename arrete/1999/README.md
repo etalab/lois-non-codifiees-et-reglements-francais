@@ -566,6 +566,7 @@
 - [Arrêté du 23 mars 1999 (MEST9910492A)](arrete-du-23-mars-1999-mest9910492a)
 - [Arrêté du 23 mars 1999 (MEST9910493A)](arrete-du-23-mars-1999-mest9910493a)
 - [Arrêté du 23 novembre 1999 (ECOR9904567A)](arrete-du-23-novembre-1999-ecor9904567a)
+- [Arrêté du 23 novembre 1999 (EQUS9901692A)](arrete-du-23-novembre-1999-equs9901692a)
 - [Arrêté du 23 septembre 1999 (AGRG9902025A)](arrete-du-23-septembre-1999-agrg9902025a)
 - [Arrêté du 23 septembre 1999 (MCCK9900155A)](arrete-du-23-septembre-1999-mcck9900155a)
 - [Arrêté du 24 août 1999 (ECOS9950033A)](arrete-du-24-aout-1999-ecos9950033a)

@@ -1,9 +1,11 @@
 # Article 6
 
-Sauf dérogation du ministre chargé du logement prise sur avis de l'Agence nationale :
+Constituées selon les dispositions de l'article ci-dessus, les provisions nécessaires à la couverture des risques afférents aux prêts délivrés au titre :
 
-1° Les compléments de dotation aux provisions nécessaires pour la couverture des risques courus au 31 janvier 1990 sont imputés sur le premier exercice clos après la parution du présent décret ;
+- de la prise en charge temporaire, en cas de difficultés exceptionnelles des emprunteurs, d'une partie des remboursements de prêts immobiliers destinés à l'accession sociale à la propriété ;
 
-2° 50 p. 100 des valeurs minimales résultant des règles de provisionnement définies par l'article 5 ci-dessus pour les seuls risques résultant des activités prévues aux articles R. 313-31, R. 313-36 et R. 313-37 du code de la construction et de l'habitation peuvent être imputées au titre du même exercice sur les fonds que les associations mentionnées à l'article R. 313-9 (2°, a) du même code ont collectés au titre de la participation des employeurs à l'effort de construction.
+- des aides directes à des personnes physiques pour le changement de logement ou le maintien dans celui-ci et l'accès au logement locatif, des garanties de loyer et charges apportées aux bailleurs,
 
-Sauf dérogation du ministre chargé du logement prise sur avis de l'Agence nationale, le solde des dotations nécessaires pour la couverture de ces mêmes risques est imputé sur la dotation aux réserves prévue à l'article 7 du décret du 26 janvier 1990 susvisé.
+peuvent être imputées sur les fonds collectés au titre de la participation des employeurs à l'effort de construction dans une limite fixée par arrêté des ministres chargés de l'économie et du logement en proportion du montant des fonds reçus par l'organisme collecteur de l'Union d'économie sociale du logement afin de financer les emplois concernés.
+
+Les créances relatives aux emplois ci-dessus devenues définitivement irrécouvrables peuvent être imputées sur les fonds collectés au titre de la participation des employeurs, un compte rendu sur le montant et les motifs des pertes concernées étant fait au moins deux fois par an à l'organe dirigeant de l'organisme collecteur.
