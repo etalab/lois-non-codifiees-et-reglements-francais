@@ -616,6 +616,7 @@
 - [Décret n°98-646 du 28 juillet 1998 (MESG9810834D)](decret-n98-646-du-28-juillet-1998-mesg9810834d)
 - [Décret n°98-656 du 28 juillet 1998 (INTB9800207D)](decret-n98-656-du-28-juillet-1998-intb9800207d)
 - [Décret n°98-758 du 28 août 1998 (MESS9822253D)](decret-n98-758-du-28-aout-1998-mess9822253d)
+- [Décret n°98-761 du 28 août 1998 (EQUU9800882D)](decret-n98-761-du-28-aout-1998-equu9800882d)
 - [Décret n°98-762 du 28 août 1998 (MENE9802147D)](decret-n98-762-du-28-aout-1998-mene9802147d)
 - [Décret n°98-763 du 28 août 1998 (MENS9802151D)](decret-n98-763-du-28-aout-1998-mens9802151d)
 - [Décret n°98-764 du 28 août 1998 (AGRP9800590D)](decret-n98-764-du-28-aout-1998-agrp9800590d)
