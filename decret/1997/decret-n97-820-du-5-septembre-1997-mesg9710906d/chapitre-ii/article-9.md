@@ -1,0 +1,5 @@
+# Article 9
+
+Les inspecteurs pédagogiques et techniques des établissements de jeunes sourds et de jeunes aveugles relevant du ministère chargé des affaires sociales sont classés, lors de leur titularisation, à l'échelon comportant un indice égal ou à défaut immédiatement supérieur à celui dont ils bénéficiaient dans leur corps d'origine. Dans la limite de l'ancienneté maximale exigée à l'article 10 du présent décret pour une promotion à l'échelon supérieur, ils conservent l'ancienneté d'échelon qu'ils avaient acquise dans leur précédent grade lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur aurait procurée un avancement d'échelon dans leur ancienne situation.
+
+S'ils ont atteint l'échelon le plus élevé de leur précédent grade, ils conservent leur ancienneté d'échelon dans les mêmes conditions et limites lorsque l'augmentation de traitement consécutive à leur nomination est inférieure à celle que leur avait procurée leur nomination audit échelon.

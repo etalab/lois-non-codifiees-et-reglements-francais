@@ -56,6 +56,8 @@
 - [Décret n°97-211 du 5 mars 1997 (TASH9720489D)](decret-n97-211-du-5-mars-1997-tash9720489d)
 - [Décret n°97-214 du 5 mars 1997 (BUDF9700012D)](decret-n97-214-du-5-mars-1997-budf9700012d)
 - [Décret n°97-817 du 5 septembre 1997 (PRMX9700107D)](decret-n97-817-du-5-septembre-1997-prmx9700107d)
+- [Décret n°97-819 du 5 septembre 1997 (MESG9710907D)](decret-n97-819-du-5-septembre-1997-mesg9710907d)
+- [Décret n°97-820 du 5 septembre 1997 (MESG9710906D)](decret-n97-820-du-5-septembre-1997-mesg9710906d)
 - [Décret n°97-96 du 5 février 1997 (JUSB9610463D)](decret-n97-96-du-5-fevrier-1997-jusb9610463d)
 - [Décret n°97-97 du 5 février 1997 (JUSB9610464D)](decret-n97-97-du-5-fevrier-1997-jusb9610464d)
 - [Décret n°97-98 du 5 février 1997 (JUSB9610465D)](decret-n97-98-du-5-fevrier-1997-jusb9610465d)

@@ -1,0 +1,3 @@
+# Article 13
+
+Les membres du corps régi par le décret n° 53-807 du 1er septembre 1953 portant règlement d'administration publique pour le statut particulier de l'inspecteur technique des établissements publics ou privés agréés d'enseignement de sourds-muets et d'aveugles relevant du ministère de la santé publique et de la population, en fonction à la date d'entrée en vigueur du présent décret, sont reclassés dans le corps des inspecteurs pédagogiques et techniques des établissements de jeunes sourds et de jeunes aveugles relevant du ministère chargé des affaires sociales, à identité d'échelon avec ancienneté conservée dans la limite de la durée de l'échelon.
