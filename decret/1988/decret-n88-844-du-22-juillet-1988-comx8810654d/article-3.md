@@ -1,0 +1,3 @@
+# Article 3
+
+Pour l'exercice de ses attributions, le ministre délégué auprès du ministre de l'industrie et de l'aménagement du territoire, chargé du commerce et de l'artisanat, dispose de la direction du commerce intérieur, de la direction de l'artisanat, de la mission d'étude des problèmes du secteur des services et de la sous-direction des chambres de commerce et d'industrie. Il fait appel, en tant que de besoin, à la direction du personnel et des services généraux du ministère de l'économie, des finances et du budget, à la direction de l'administration générale du ministère de l'industrie et de l'aménagement du territoire et à l'inspection générale de l'industrie et du commerce.
