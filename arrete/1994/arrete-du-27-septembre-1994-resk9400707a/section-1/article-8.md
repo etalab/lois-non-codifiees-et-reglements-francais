@@ -1,6 +1,6 @@
 # Article 8
 
-Avant le début de la seconde année du premier cycle, les étudiants effectuent, sous la conduite de cadres infirmiers, un stage d'initiation aux soins, non rémunéré, d'une durée de quatre semaines, à temps complet et de manière continue, dans un même établissement hospitalier.
+Avant le début de la seconde année du premier cycle, les étudiants effectuent, sous la conduite de cadres infirmiers, un stage d'initiation aux soins, non rémunéré, d'une durée de quatre semaines, à temps complet et de manière continue, dans un même établissement hospitalier. Pendant ce stage, les étudiants sont également initiés aux principes de l'hygiène hospitalière et aux gestes de premier secours. Ces gestes sont enseignés sous la responsabilité du professeur d'université - praticien hospitalier désigné par le directeur de l'unité de formation et de recherche médicale ou odontologique, après avis du conseil de cette dernière, pour organiser cette formation.
 
 Les étudiants doivent justifier qu'ils remplissent les conditions exigées par l'article L. 10 du code de la santé publique.
 

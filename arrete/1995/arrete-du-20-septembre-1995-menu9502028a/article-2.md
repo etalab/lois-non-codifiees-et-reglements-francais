@@ -1,0 +1,3 @@
+# Article 2
+
+L'organisation des enseignements, la répartition des disciplines et ensembles disciplinaires entre les années, les volumes horaires de chaque enseignement, la part respective des enseignements théoriques dirigés et pratiques et la liste des enseignements optionnels accessibles aux étudiants sont fixés par les instances compétentes de l'université dans laquelle les étudiants sont inscrits, dans le respect des dispositions des articles 11 à 13 de l'arrêté du 18 mars 1992 susvisé et des articles 4 à 11 de l'arrêté du 27 septembre 1994 susvisé et conformément aux propositions de la Commission pédagogique nationale des études odontologiques.

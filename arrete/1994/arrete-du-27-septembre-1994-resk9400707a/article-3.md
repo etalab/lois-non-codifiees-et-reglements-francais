@@ -1,8 +1,16 @@
 # Article 3
 
-Il est institué une commission pédagogique nationale des études odontologiques chargée notamment de préparer l'élaboration et la révision régulière des programmes de la formation sanctionnée par le diplôme d'Etat de docteur en chirurgie dentaire.
+Il est institué une commission pédagogique nationale des études odontologiques chargée notamment :
 
-La commission pédagogique nationale des études odontologiques comprend :
+- de préparer l'élaboration et la révision régulière des programmes de la formation sanctionnée par le diplôme d'Etat de docteur en chirurgie dentaire ;
+
+- de donner un avis sur les dossiers présentés aux ministres chargés de l'enseignement supérieur et de la santé dans le cadre des dispositions figurant à l'article 3 bis du présent arrêté ;
+
+- d'analyser et de favoriser la diffusion des expériences pédagogiques les plus intéressantes et de proposer toute orientation utile en fonction des progrès de la science et de la pédagogie ;
+
+- d'inciter au développement de la formation des universitaires aux techniques modernes de la pédagogie.
+
+La commission pédagogique nationale des études odontologiques comprend [*composition*] :
 
 - le directeur général des enseignements supérieurs ou son représentant, président ;
 

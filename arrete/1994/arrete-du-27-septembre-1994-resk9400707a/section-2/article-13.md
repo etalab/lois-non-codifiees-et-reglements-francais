@@ -32,6 +32,8 @@ Anesthésiologie ;
 
 Pathologie médicale et chirurgicale ;
 
-Biomatériaux.
+Biomatériaux ;
+
+Anatomie pathologique.
 
 Les orientations thématiques de ces enseignements sont fixées par arrêté conjoint des ministres chargés de l'enseignement supérieur et de la santé, sur proposition de la commission pédagogique nationale des études odontologiques prévue à l'article 3 du présent arrêté. Elles sont présentées par section intégrant le programme de plusieurs disciplines.
