@@ -1,0 +1,7 @@
+# Article 1 ter
+
+La personne qui demande son immatriculation lors de la création d'une entreprise est autorisée, nonobstant toute disposition légale ou toute stipulation contraire, à en installer le siège dans son local d'habitation ou dans celui de son représentant légal pour une durée qui ne peut excéder deux ans ni dépasser le terme légal, contractuel ou judiciaire de l'occupation des locaux. Dans ce cas, elle doit justifier, lors du dépôt de sa demande, de la notification écrite et préalable au bailleeur ou au syndic de la copropriété de son intention d'user de la faculté prévue au présent alinéa.
+
+Avant l'expiration de cette période, la personne doit, sous peine de radiation d'office, communiquer au greffe du tribunal le titre justifiant de la jouissance des locaux affectés au siège de son entreprise conformément à l'article 1 bis. Si le bailleur ou le syndic le demande par lettre recommandée avec avis de réception au plus tard deux mois avant l'expiration de cette période, le copropriétaire ou le locataire doit justifier du transfert du siège de son entreprise. A défaut de justification du transfert au jour de l' expiration de ladite période, le tribunal constate la résiliation de plein droit du bail ou condamne le copropriétaire, le cas échéant sous astreinte, à se conformer aux clauses du règlement de copropriété, et fixe, s'il y a lieu, des dommages et intérêts.
+
+Il ne peut toutefois résulter des dispositions du présent article ni le changement de destination de l'immeuble, ni l'application du statut des baux commerciaux.
