@@ -29,7 +29,6 @@
 - [Arrêté du 5 janvier 1989 (ECOC8800124A)](arrete-du-5-janvier-1989-ecoc8800124a)
 - [Arrêté du 5 janvier 1989 (MENG8802625A)](arrete-du-5-janvier-1989-meng8802625a)
 - [Arrêté du 5 janvier 1989 (SPSS8801889A)](arrete-du-5-janvier-1989-spss8801889a)
-- [Arrêté du 6 décembre 1988 (SPSH8801811A)](arrete-du-6-decembre-1988-spsh8801811a)
 - [Arrêté du 6 février 1989 (ECOC8800131A)](arrete-du-6-fevrier-1989-ecoc8800131a)
 - [Arrêté du 6 février 1989 (PRMG8905007A)](arrete-du-6-fevrier-1989-prmg8905007a)
 - [Arrêté du 6 février 1989 (TRSS8900072A)](arrete-du-6-fevrier-1989-trss8900072a)
