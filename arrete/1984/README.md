@@ -47,7 +47,6 @@
 - [Arrêté du 8 juin 1984](arrete-du-8-juin-1984)
 - [Arrêté du 8 mars 1984](arrete-du-8-mars-1984)
 - [Arrêté du 8 novembre 1984](arrete-du-8-novembre-1984)
-- [Arrêté du 8 octobre 1984](arrete-du-8-octobre-1984)
 - [Arrêté du 9 février 1984](arrete-du-9-fevrier-1984)
 - [Arrêté du 9 juillet 1984](arrete-du-9-juillet-1984)
 - [Arrêté du 9 mars 1984](arrete-du-9-mars-1984)
