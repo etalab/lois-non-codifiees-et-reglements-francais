@@ -3173,7 +3173,7 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <p>La Roche-sur-Yon</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Chantonnay, Les Essarts, Les Herbiers, Mareuil-sur-Lay, Montaigu, Mortagne-sur-Sèvre, Le Poiré-sur-Vie, Rocheservière, La Roche-sur-Yon, Saint-Fulgent.</p>
+<p>Cantons de Chantonnay, Les Essarts, Les Herbiers, Mareuil-sur-Lay, Dissais, Montaigu, Mortagne-sur-Sèvre, Le Poiré-sur-Vie, Rocheservière, La Roche-sur-Yon - Nord, La Roche-sur-Yon - Sud, Saint-Fulgent, commune de La Chapelle-Palluau.</p>
 </td>
 </tr>
 <tr>
@@ -3188,19 +3188,19 @@ Le siège et le ressort des bureaux des hypothèques sont fixés conformément a
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Les Sables-d'Olonne (1er bureau)</p>
+<p>Les Sables-d'Olonne </p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de La Mothe-Achard, Moûtiers-les-Mauxfaits, Les Sables-d'Olonne, Saint-Gilles-sur-Vie, Talmont.</p>
+<p>Cantons de La Mothe-Achard, Moûtiers-les-Mauxfaits, Les Sables-d'Olonne, Saint-Gilles-Croix-de-Vie, Talmont-Saint-Hilaire.</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="132"/>
 <td valign="top" width="132">
-<p>Les Sables-d'Olonne (2e bureau)</p>
+<p>Challans</p>
 </td>
 <td valign="top" width="416">
-<p>Cantons de Beauvoir-sur-Mer, Challans, L'Ile-d'Yeu, Noirmoutier, Palluau, Saint-Jean-de-Monts.</p>
+<p>Cantons de Beauvoir-sur-Mer, Challans, L'Ile-d'Yeu, Noirmoutier, Palluau (à l'exception de la commune de La Chapelle-Palluau), Saint-Jean-de-Monts.</p>
 </td>
 </tr>
 <tr>

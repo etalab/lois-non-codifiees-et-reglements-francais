@@ -18,11 +18,13 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 <tr>
 <td width="151">
 <br/>
+<br/>
 </td>
 <td width="340">
 <p align="center">Ville de Paris</p>
 </td>
 <td width="189">
+<br/>
 <br/>
 </td>
 </tr>
@@ -51,11 +53,13 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 <tr>
 <td width="151">
 <br/>
+<br/>
 </td>
 <td width="340">
 <p align="center">Département de l'Essonne</p>
 </td>
 <td width="189">
+<br/>
 <br/>
 </td>
 </tr>
@@ -93,11 +97,13 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 <tr>
 <td width="151">
 <br/>
+<br/>
 </td>
 <td width="340">
 <p align="center">Départements des Hauts-de-Seine</p>
 </td>
 <td width="189">
+<br/>
 <br/>
 </td>
 </tr>
@@ -137,11 +143,13 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 <tr>
 <td width="151">
 <br/>
+<br/>
 </td>
 <td width="340">
 <p align="center">Département de la Seine-Saint-Denis</p>
 </td>
 <td width="189">
+<br/>
 <br/>
 </td>
 </tr>
@@ -181,11 +189,13 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 <tr>
 <td width="151">
 <br/>
+<br/>
 </td>
 <td width="340">
 <p align="center">Département du Val-de-Marne</p>
 </td>
 <td width="189">
+<br/>
 <br/>
 </td>
 </tr>
@@ -236,11 +246,13 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 <tr>
 <td width="151">
 <br/>
+<br/>
 </td>
 <td width="340">
 <p align="center">Département du Val-d'Oise</p>
 </td>
 <td width="189">
+<br/>
 <br/>
 </td>
 </tr>
@@ -298,11 +310,13 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 <tr>
 <td width="151">
 <br/>
+<br/>
 </td>
 <td width="340">
 <p align="center">Département de la Haute-Garonne</p>
 </td>
 <td width="189">
+<br/>
 <br/>
 </td>
 </tr>
@@ -326,6 +340,28 @@ Les communes et les bureaux des hypothèques visés à l'article 85-4 du décret
 </td>
 <td valign="top" width="189">
 <p>Toulouse (1er bureau)</p>
+</td>
+</tr>
+<tr>
+<td/>
+<td align="center">Département de la Vendée <br/>
+</td>
+<td/>
+</tr>
+<tr>
+<td>Challans <br/>
+</td>
+<td align="left">Beauvoir-sur-Mer, Bouin, Saint-Urbain, Saint-Gervais, Challans, Bois-de-Céné, Châteauneuf, Froidfond, La Garnache, Sallertaine, l'Ile d'Yeu, Noirmoutier-en-l'île, La Guérinière, L'Epine, Barbâtre, Palluau, Falleron, Grand Landes, Maché, Saint-Christophe-du-Ligneron, Saint-Etienne-du-Bois, Apremont, La Barre-de-Monts, Le Perrier, Notre-Dame-de-Monts, Saint-Jean-de-Monts, Saint-Paul-Mont-Penit, Soulians. <br/>
+</td>
+<td>Les Sables-d'Olonne. <br/>
+</td>
+</tr>
+<tr>
+<td>Challans  <br/>
+</td>
+<td align="left">La Chapelle-Palluau <br/>
+</td>
+<td>La Roche-sur-Yon <br/>
 </td>
 </tr>
 </tbody>
