@@ -1,0 +1,3 @@
+# Article 14
+
+Lorsque, devant la gravité des faits reprochés au membre de l'ordre, le ministre de l'éducation nationale estime que celui-ci ne saurait profiter des délais que nécessite l'instruction de sa cause pour continuer à se prévaloir de son titre de membre de l'ordre des Palmes académiques, il propose au conseil de l'ordre la suspension provisoire immédiate du membre de l'ordre en cause, sans préjudice de la décision définitive qui sera prise à l'issue de la procédure disciplinaire. La suspension, qui ne peut être prononcée que sur avis conforme du conseil de l'ordre, fait l'objet d'un arrêté du ministre de l'éducation nationale publié au Bulletin officiel des décorations, médailles et récompenses et au Bulletin officiel de l'éducation nationales.
