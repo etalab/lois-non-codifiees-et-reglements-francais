@@ -20,9 +20,9 @@ Il n'y a pas discordance lorsque le titre de la personne indiquée comme disposa
 
 Le fichier immobilier sur lequel la formalité aurait été immédiatement répertoriée si le dépôt avait été régulier est simplement annoté de la date et du numéro de classement du document déposé, avec la mention "formalité en attente".
 
-Dans le cas où la notification prescrite ci-dessus n'est pas faite directement au signataire du certificat d'identité lui-même et n'est pas dûment reconnue par lui, elle doit faire l'objet d'une lettre recommandée avec demande d'avis de réception, adressée au plus tard, le dernier jour du délai d'un mois à compter du dépôt, au domicile indiqué par ledit signataire dans le document déposé.
+Dans le cas où la notification prescrite ci-dessus n'est pas faite directement au signataire du certificat d'identité lui-même et n'est pas dûment reconnue par lui, elle doit être effectuée selon un procédé fiable d'identification et de datation et être adressée au plus tard, le dernier jour du délai d'un mois à compter du dépôt, au domicile indiqué par ledit signataire dans le document déposé.
 
-Avant l'expiration d'un délai d'un mois à compter de la date de la notification directe ou de celle de l'avis de réception ou de l'avis de refus de la lettre recommandée, il appartient au signataire du certificat d'identité :
+Avant l'expiration d'un délai d'un mois à compter de la date de la notification selon le procédé défini au troisième alinéa , il appartient au signataire du certificat d'identité :
 
 - soit de compléter le bordereau d'inscription ;
 
@@ -32,6 +32,6 @@ Avant l'expiration d'un délai d'un mois à compter de la date de la notificatio
 
 Dans tous les cas où la formalité prend rang rétroactivement à la date du dépôt, la date où elle est effectivement exécutée est constatée par un enregistrement pour ordre au registre des dépôts.    Si, dans un délai d'un mois à compter de la notification, le signataire du certificat d'identité n'a pas réparé les omissions, produit les justifications ou déposé les documents rectificatifs ou si, même avant l'expiration de ce délai, il a informé le conservateur du refus ou de l'impossibilité de satisfaire à ces obligations, la formalité est rejetée sous les réserves prévues à l'article 74. Mention du rejet est faite par le conservateur en regard de l'inscription du dépôt au registre de dépôts dans la colonne "Observations", ainsi qu'au fichier immobilier.
 
-La décision de rejet est notifiée dans les huit jours de l'expiration du délai imparti au signataire du certificat d'identité. La notification est effectuée, suivant la distinction prévue au troisième alinéa du 3 du présent article, soit directement, soit par lettre recommandée avec demande d'avis de réception, adressée au domicile indiqué dans le document déposé.
+La décision de rejet est notifiée dans les huit jours de l'expiration du délai imparti au signataire du certificat d'identité. La notification est effectuée, soit directement, soit par lettre recommandée avec demande d'avis de réception, adressée au domicile indiqué dans le document déposé.
 
 La date de notification directe, ou celle de l'avis de réception ou de l'avis de refus de la lettre recommandée, fixe le point de départ du délai de huit jours au cours duquel peut être formé le recours prévu à l'article 26 du décret du 4 janvier 1955.
