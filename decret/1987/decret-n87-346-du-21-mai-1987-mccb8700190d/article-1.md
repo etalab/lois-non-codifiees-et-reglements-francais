@@ -23,3 +23,5 @@ b) Droit d'usage de logiciels élaborés par les services du ministère ;
 5. Actions de formation, de conseil, d'étude, d'analyse, de recherche et d'expertise menées par les services du ministère ;
 
 6. Location de matériels informatiques pour l'utilisation de logiciels élaborés par les services du ministère.
+
+7. Prestations de services à la Caisse nationale des monuments historiques et des sites en matière de fonctionnement et de mise en valeur des monuments historiques, directement liées à l'accueil du public.
