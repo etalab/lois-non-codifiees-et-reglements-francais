@@ -8,11 +8,11 @@ L'introduction, l'importation, l'exportation, l'expédition ou la commercialisat
 
 - de tout ou partie de la tête, y compris l'encéphale, les yeux et les amygdales, mais à l'exclusion de la langue et des masséters, d'ovins et de caprins âgés de plus de six mois ;
 
-- de la moelle épinière des ovins et caprins âgés de plus de douze mois, et, à compter du 1er juillet 2002, de la moelle épinière des ovins et caprins âgés de plus de six mois ;
+- de la moelle épinière des ovins et caprins âgés de plus de douze mois, et, à compter du 1er janvier 2003, de la moelle épinière des ovins et caprins âgés de plus de six mois ;
 
 - de la rate des ovins et caprins ;
 
-- des intestins, de la rate, du thymus et des amygdales des bovins ;
+- des intestins, du duodénum au rectum, y compris le mésentère, de la rate, du thymus et des amygdales des bovins ;
 
 - de tout ou partie de la tête, y compris l'encéphale, les yeux et les amygdales, mais à l'exclusion de la langue et des masséters, d'ovins et de caprins nés ou élevés au Royaume-Uni ;
 
