@@ -1,4 +1,4 @@
-# Décret n°68-376 du 26 avril 1968 portant création de l'Etablissement public foncier de Normandie.
+# Arrêté du 31 octobre 2000 fixant les mesures techniques et financières de police sanitaire relative à la fièvre catarrhale du mouton pour les départements de la Haute-Corse et de la Corse-du-Sud
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -12,10 +12,7 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
+- [Article 13](article-13.md)
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
-- [Article 17](article-17.md)
-- [Article 19](article-19.md)
-- [Article 20](article-20.md)
-- [Annexes](annexes)
