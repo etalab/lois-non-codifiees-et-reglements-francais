@@ -5,3 +5,4 @@
 - [Titre III : De la seconde section du conseil supérieur des hôpitaux](titre-iii)
 - [Titre IV : Dispositions diverses](titre-iv)
 - [Article 10](article-10.md)
+- [Titre premier : Dispositions communes](titre-premier)
