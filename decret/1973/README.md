@@ -24,7 +24,6 @@
 - [Décret n°73-634 du 5 juillet 1973](decret-n73-634-du-5-juillet-1973)
 - [Décret n°73-642 du 5 juillet 1973](decret-n73-642-du-5-juillet-1973)
 - [Décret n°73-854 du 5 septembre 1973](decret-n73-854-du-5-septembre-1973)
-- [Décret n°73-855 du 5 septembre 1973](decret-n73-855-du-5-septembre-1973)
 - [Décret n°73-856 du 5 septembre 1973](decret-n73-856-du-5-septembre-1973)
 - [Décret n°73-1027 du 6 novembre 1973](decret-n73-1027-du-6-novembre-1973)
 - [Décret n°73-243 du 6 mars 1973](decret-n73-243-du-6-mars-1973)
