@@ -68,7 +68,7 @@ Code de la construction et de l'habitation
 
 Autorisation donnée à une société anonyme d'habitations à loyer modéré de consentir des avances à d'autres sociétés HLM.
 
-Article R. 422-1 relatif aux statuts des SA d'HLM - Clause type n° 3-16 annexée.
+Article R. 422-1 relatif aux statuts des SA d'HLM - Clause type n° 11 annexée.
 
 2
 
@@ -394,11 +394,15 @@ SAHLM et SA coopératives HLM : article R. 422-17.
 
 6
 
-Agrément des sociétés anonymes de crédit immobilier, des sociétés anonymes d'habitations à loyer modéré et des sociétés coopératives d'habitations à loyer modéré.
+Agrément des sociétés anonymes de crédit immobilier, des sociétés coopératives d'habitations à loyer modéré.
 
-SA et coopératives HLM : article R. 422-16.
+Agrément et renouvellement de l'agrément des sociétés anonymes d'habitations à loyer modéré.
+
+Coopératives HLM : article R. 422-16.
 
 SACI : article R. 422-15, 1er alinéa.
+
+SA d'HLM : article R. 422-16 et R. 422-16-1.
 
 7
 
