@@ -236,6 +236,7 @@
 - [Arrêté du 22 juin 1989 (RESY8900094A)](arrete-du-22-juin-1989-resy8900094a)
 - [Arrêté du 22 mars 1989 (MENU8900647A)](arrete-du-22-mars-1989-menu8900647a)
 - [Arrêté du 22 mars 1989 (PTTT8900273A)](arrete-du-22-mars-1989-pttt8900273a)
+- [Arrêté du 22 mai 1989 (EQUS8900498A)](arrete-du-22-mai-1989-equs8900498a)
 - [Arrêté du 23 décembre 1988 (BUDZ8800019A)](arrete-du-23-decembre-1988-budz8800019a)
 - [Arrêté du 23 février 1984](arrete-du-23-fevrier-1984)
 - [Arrêté du 23 février 1989 (ECOA8900018A)](arrete-du-23-fevrier-1989-ecoa8900018a)

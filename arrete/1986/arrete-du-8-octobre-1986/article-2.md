@@ -94,11 +94,11 @@ o) Exploitation officiellement indemne de peste porcine, une exploitation dans l
 
 - la présence de la peste porcine n'a pas été constatée au cours des douze derniers mois au moins ;
 
-- ne se trouvent pas de porcs ayant été vaccinés contre la peste porcine ;
+- ne se trouvent pas de porcs ayant été vaccinés contre la peste porcine au cours des douze derniers mois ;
 
-- la vaccination antipestique n'a pas été autorisée depuis au moins les douze derniers mois ;
+- la vaccination antipestique n'a pas été autorisée depuis au moins les douze derniers mois.
 
-L'exploitation devant en outre se trouver au centre d'une zone de rayon de 2 km dans laquelle la peste porcine n'a pas été constatée au cours des douze derniers mois au moins ;
+L'exploitation devant en outre se trouver au centre d'une zone de rayon de 2 km dans laquelle la peste porcine n'a pas été constatée au cours des douze derniers mois au moins.
 
 p) Etat membre ou région officiellement indemnes de peste porcine, un Etat membre ou une région dans lesquels :
 
@@ -106,6 +106,6 @@ p) Etat membre ou région officiellement indemnes de peste porcine, un Etat memb
 
 - la vaccination antipestique n'a pas été autorisée depuis au moins les douze derniers mois,
 
-et dans les exploitations desquelles ne se trouvent pas de porcs ayant été vaccinés contre la peste porcine ;
+et dans les exploitations desquels ne se trouvent pas de porcs ayant été vaccinés contre la peste porcine au cours des douze derniers mois.
 
 q) Etat membre, région ou exploitation indemnes de peste porcine, l'Etat membre, la région ou l'exploitation dans lesquels la peste porcine n'a pas été constatée au cours des douze derniers mois au moins.

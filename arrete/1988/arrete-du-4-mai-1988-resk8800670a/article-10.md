@@ -1,3 +1,3 @@
 # Article 10
 
-A titre transitoire, l'ensemble de ces dispositions peut, sur leur demande, s'appliquer aux internes effectuant leurs études sous le régime institué par les arrêtés du 17 octobre 1984 fixant la réglementation des diplômes d'études spécialisées de médecine de l'option Spécialités médicales, de l'option Psychiatrie et de l'option Spécialités chirurgicales et par l'arrêté du 8 février 1985 fixant la réglementation des diplômes d'études spécialisées de la filière de santé publique.
+Les dispositions des articles 7, 8 et 9 du présent arrêté sont applicables aux diplômes d'études spécialisées pouvant être acquis dans le cadre de l'option Spécialités médicales, de l'option Spécialités chirurgicales, de l'option Psychiatrie et de la filière de santé publique dont la liste est fixée par l'arrêté du 26 juillet 1983 susvisé.
