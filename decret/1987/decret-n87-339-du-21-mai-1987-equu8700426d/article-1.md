@@ -10,7 +10,7 @@ I. - le dossier soumis à l'enquête publique comprend les pièces suivantes :
 
 3° L'avis des communes intéressées et, s'il y a lieu, celui des établissements publics de coopération intercommunale compétents ;
 
-4° L'avis de l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes visés au 3 de l'article 266 septies du code des douanes ;
+4° L'avis de l'Autorité de contrôle des nuisances sonores aéroportuaires pour les aérodromes mentionnés au I de l'article 1609 quatervicies A du code général des impôts ;
 
 5° L'avis de la commission consultative de l'environnement, lorsqu'elle existe ;
 
