@@ -397,6 +397,8 @@
 - [Arrêté du 12 septembre 1996 (BUDF9600009A)](arrete-du-12-septembre-1996-budf9600009a)
 - [Arrêté du 12 septembre 1996 (BUDF9600012A)](arrete-du-12-septembre-1996-budf9600012a)
 - [Arrêté du 12 septembre 1996 (BUDF9600013A)](arrete-du-12-septembre-1996-budf9600013a)
+- [Arrêté du 12 septembre 1996 (DEFT9601929A)](arrete-du-12-septembre-1996-deft9601929a)
+- [Arrêté du 12 septembre 1996 (DEFT9601930A)](arrete-du-12-septembre-1996-deft9601930a)
 - [Arrêté du 12 septembre 1996 (DOMP9600049A)](arrete-du-12-septembre-1996-domp9600049a)
 - [Arrêté du 12 septembre 1996 (ECOU9600026A)](arrete-du-12-septembre-1996-ecou9600026a)
 - [Arrêté du 12 septembre 1996 (MIPP9600315A)](arrete-du-12-septembre-1996-mipp9600315a)
