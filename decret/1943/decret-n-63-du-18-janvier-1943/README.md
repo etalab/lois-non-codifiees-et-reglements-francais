@@ -8,6 +8,7 @@
 - [Dispositions diverses](dispositions-diverses)
 - [Epreuves](epreuves)
 - [Construction et réparation des appareils](construction-et)
+- [Déclaration et enquête en cas d'accident](declaration-et)
 - [Marquages d'identité et de service](marquages-d-identite-et)
 - [Experts](experts)
 - [Prescriptions particulières](prescriptions-particulieres)
