@@ -26,6 +26,7 @@
 - [Loi n° 2001-624 du 17 juillet 2001 (MESX0100056L)](loi-n-2001-624-du-17-juillet-2001-mesx0100056l)
 - [Loi n° 2001-70 du 29 janvier 2001 (PRMX9803012L)](loi-n-2001-70-du-29-janvier-2001-prmx9803012l)
 - [Loi n° 2002-311 du 5 mars 2002 (MCCX0105216L)](loi-n-2002-311-du-5-mars-2002-mccx0105216l)
+- [Loi n° 90-1258 du 31 décembre 1990 (JUSX9000026L)](loi-n-90-1258-du-31-decembre-1990-jusx9000026l)
 - [Loi n° 92-1441 du 31 décembre 1992 (DOMX9200192L)](loi-n-92-1441-du-31-decembre-1992-domx9200192l)
 - [Loi n° 96-1 du 2 janvier 1996 (JUSX9500111L)](loi-n-96-1-du-2-janvier-1996-jusx9500111l)
 - [Loi n°2001-153 du 19 février 2001 (ATEX0004061L)](loi-n2001-153-du-19-fevrier-2001-atex0004061l)
