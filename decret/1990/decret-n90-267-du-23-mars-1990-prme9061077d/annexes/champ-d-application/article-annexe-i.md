@@ -38,7 +38,7 @@ Cendres d'incinération d'ordures ménagères ou de déchets industriels et mâc
 
 Boues et poussières issues de la fusion des métaux ferreux et non ferreux.
 
-Scories et crasses de fabrication de métaux non ferreux.
+Scories et crasses de fabrication de métaux non ferreux cendres volantes de centrales thermiques au charbon.
 
 Autres résidus de traitement de dépollution d'effluents liquides ou gazeux (filtration, épuration biologique ...).
 
@@ -145,8 +145,6 @@ Toute matière, substance ou produit dont l'utilisation ou la mise sur le march�
 à l'exception :
 
 a) Des pièces de métaux et de leurs alliages sous forme massive (y compris les chutes de transformation et d'usinage) et non contaminées par l'une des substances ci-dessus, les constituants internes et impuretés des métaux et de leurs alliages n'étant pas considérés comme des contaminants même s'ils appartiennent à la liste ci-dessus ;
-
-Des cendres volantes de centrales thermiques à charbon ;
 
 Des minerais naturels ;
 
