@@ -8,4 +8,4 @@ b) L'indication de leur destination ;
 
 c) Le mode d'emploi comportant notamment les indications de dosage ;
 
-d) Le nom, ou la raison sociale, et l'adresse, soit du fabricant, soit du vendeur, soit du responsable de la vente en France dans le cas de produits provenant de l'étranger.
+d) Le nom, ou la raison sociale, et l'adresse d'un responsable professionnel établi sur le territoire de l'un des Etats membres des communautés européennes.
