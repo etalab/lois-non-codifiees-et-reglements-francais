@@ -12,7 +12,7 @@ Basse-Terre (département de la Guadeloupe) : rivière des Pères, centre-ville
 
 - chemin des Colibris ;
 
-- parcelles section AS n°s 267, 205 ;
+- parcelles section AS n°s 287, 203 ;
 
 - parcelles section AS n° 125 (cimetière) ;
 

@@ -6,7 +6,17 @@ Pointe-à-Pitre - Les Abymes (département de la Guadeloupe) : Boissard, Morteno
 
 - route de contournement de Pointe-à-Pitre jusqu'au chemin départemental n° 103 ;
 
-- chemin départemental n° 103 jusqu'au chemin de l'Institut Pasteur ;
+- chemin départemental n° 103 jusqu'au chemin rural de l'hôpital général ;
+
+- chemin rural de l'hôpital général jusqu'à la parcelle section CK n° 100 ;
+
+- parcelle section CK n° 100 ;
+
+- parcelle section CK n° 81 ;
+
+- parcelle section CK n° 81 jusqu'au faubourg Victor-Hugo ;
+
+- faubourg Victor-Hugo jusqu'au chemin de l'Institut-Pasteur ;
 
 - chemin de l'Institut Pasteur ;
 

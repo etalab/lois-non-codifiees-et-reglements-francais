@@ -2,7 +2,7 @@
 
 Saint-Denis (département de la Réunion) Chaudron, Moufia, Cerf
 
-- avenue Leconte-de-Lisle entre les rues François-de-Mahy et l'avenue Joseph-Bédier ;
+- avenue Leconte-de-Lisle entre la limite ouest du quartier du Chaudron et l'avenue Joseph-Bédier ;
 
 - avenue Joseph-Bédier entre l'avenue Leconte-de-Lisle et la rue Roger-Payet ;
 
@@ -16,17 +16,15 @@ Saint-Denis (département de la Réunion) Chaudron, Moufia, Cerf
 
 - rue de l'Ecole entre les rues Roger-Payet et de la Gare ;
 
-- rue de la Gare entre la rue de l'Ecole et l'avenue Leconte-de-Lisle ;
+- limite nord de la parcelle DR 504 entre la rue de la Gare et le boulevard du Chaudron (RN 102) ;
 
-- rue Evariste-de-Parny entre l'avenue Leconte-de-Lisle et la RN 102 ;
+- RN 102 entre la limite nord de la parcelle DR 504 et la limite est du lotissement Patel ;
 
-- RN 102 entre la rue Evariste-de-Parny et la limite Ouest du quartier Primat ;
+- limite est du lotissement Patel entre la RN 102 et la rue du Stade-de-l'Est ;
 
-- limite Ouest du quartier Primat entre la RN 102 et la rue du Stade-de-l'Est ;
+- limite nord des lotissements "Les Zattes" et des "Lavandières" entre la rue du Stade-de-l'Est et le bord supérieur ouest de la Rivière des Pluies ;
 
-- limite Nord du quartier Primat ;
-
-- bord supérieur de la Rivière-des-Pluies entre la limite Nord du quartier Primat et le pont de la Rivière-des-Pluies (RN 102) ;
+- bord supérieur ouest de la Rivière des Pluies entre la limite nord des lotissements "Les Zattes" et des "Lavandières" et le pont de la Rivière des Pluies (RN 102) ;
 
 - route Gabriel-Macé (CD 50) entre le pont de la Rivière-des-Pluies et la limite Sud du terrain communal du Cerf.  ;
 
@@ -50,4 +48,4 @@ Saint-Denis (département de la Réunion) Chaudron, Moufia, Cerf
 
 - boulevard Jean-Jaurès entre l'avenue Joseph-Bédier et la rue François-de-Mahy ;
 
-- limite administrative entre les quartiers du Chaudron et de Sainte-Clotilde entre le boulevard Jean-Jaurès et l'avenue Leconte-de-Lisle.
+- limite administrative ouest entre les quartiers du Chaudron et de Sainte-Clotilde entre le boulevard Jean-Jaurès et l'avenue Leconte-de-Lisle.

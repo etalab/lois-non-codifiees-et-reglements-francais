@@ -14,7 +14,7 @@ Fort-de-France (département de la Martinique) : Dillon
 
 - la RN 9 jusqu'à la parcelle section W n° 25 ;
 
-- les parcelles section W n°s 25, 27 ;
+- les parcelles section W n°s 25 et 17 ;
 
 - le littoral en continu de la parcelle section n° 17 à la rivière Monsieur, à l'exception du domaine militaire (dénomination camp militaire sur le plan annexé) ;
 
