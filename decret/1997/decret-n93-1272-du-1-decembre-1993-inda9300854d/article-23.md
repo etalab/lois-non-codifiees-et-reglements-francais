@@ -1,0 +1,5 @@
+# Article 23
+
+La délégation à la communication a pour mission, en liaison avec l'ensemble des directions et services, de faire connaître l'action menée par le ministère dans les domaines de l'industrie, de l'énergie, des postes et télécommunications et de l'espace et de promouvoir l'information sur les réalisations des partenaires économiques dans ces secteurs.
+
+Elle assure les relations avec la presse écrite et audiovisuelle et les organes d'information. Elle anime les actions du ministère relatives à l'information et à la documentation. Elle recherche une coordination permanente avec les politiques de communication des organismes sous tutelle. Elle veille à la cohérence de l'activité du ministère en matière de publication. Elle suscite et organise la présence du ministère dans les grandes manifestations intervenant dans les domaines de compétences de ce dernier. Elle propose et met en oeuvre, en liaison avec la direction générale de l'administration et des finances, la politique de communication interne au sein du ministère.
