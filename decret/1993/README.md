@@ -626,7 +626,6 @@
 - [Décret n°93-244 du 23 février 1993 (INDH9300063D)](decret-n93-244-du-23-fevrier-1993-indh9300063d)
 - [Décret n°93-252 du 23 février 1993 (MAEJ9330003D)](decret-n93-252-du-23-fevrier-1993-maej9330003d)
 - [Décret n°93-253 du 23 février 1993 (MAEJ9330005D)](decret-n93-253-du-23-fevrier-1993-maej9330005d)
-- [Décret n°93-431 du 23 mars 1993 (MENI9300038D)](decret-n93-431-du-23-mars-1993-meni9300038d)
 - [Décret n°93-445 du 23 mars 1993 (INTB9300158D)](decret-n93-445-du-23-mars-1993-intb9300158d)
 - [Décret n°93-448 du 23 mars 1993 (EQUT9300240D)](decret-n93-448-du-23-mars-1993-equt9300240d)
 - [Décret n°93-449 du 23 mars 1993 (TEFT9300347D)](decret-n93-449-du-23-mars-1993-teft9300347d)
