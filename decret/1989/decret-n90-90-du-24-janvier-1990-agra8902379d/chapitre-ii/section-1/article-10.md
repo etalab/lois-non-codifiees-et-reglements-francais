@@ -1,6 +1,6 @@
 # Article 10
 
-Les candidats reçus aux concours prévus aux articles 5 et 6 ci-dessus sont nommés professeur de lycée professionnel agricole stagiaire du deuxième grade et effectuent un stage d'une durée d'un an.
+Les candidats reçus aux concours prévus aux articles 5, 6 et 6-1 sont nommés professeur de lycée professionnel agricole stagiaire du deuxième grade et effectuent un stage d'une durée d'un an.
 
 Au cours de cette année de stage, ils subissent les épreuves du certificat d'aptitude au professorat de lycée professionnel agricole du deuxième grade dont les modalités sont définies par un arrêté du ministre chargé de l'agriculture.
 

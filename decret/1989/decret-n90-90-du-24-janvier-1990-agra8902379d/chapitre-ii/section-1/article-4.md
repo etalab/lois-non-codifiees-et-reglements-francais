@@ -2,7 +2,7 @@
 
 Les professeurs de lycée professionnel agricole du deuxième grade sont recrutés :
 
-1° Par concours externes et concours internes ; en ce cas, ils sont titularisés après un stage effectué dans les conditions prévues à l'article 10 ci-dessous :
+1° Par concours externes, concours internes et par des troisièmes concours ; en ce cas, ils sont titularisés après un stage effectué dans les conditions prévues à l'article 10 ci-dessous :
 
 2° A titre transitoire, par voie d'inscription sur un tableau d'avancement ; en ce cas, ils sont titularisés et reclassés dans les conditions prévues à l'article 24 ci-dessous.
 
