@@ -546,7 +546,6 @@
 - [Arrêté du 15 février 1994 (BUDP9300540A)](arrete-du-15-fevrier-1994-budp9300540a)
 - [Arrêté du 15 février 1994 (BUDP9300626A)](arrete-du-15-fevrier-1994-budp9300626a)
 - [Arrêté du 15 février 1994 (EQUS9400371A)](arrete-du-15-fevrier-1994-equs9400371a)
-- [Arrêté du 15 février 1994 (INDG9400232A)](arrete-du-15-fevrier-1994-indg9400232a)
 - [Arrêté du 15 février 1994 (INDP9400222A)](arrete-du-15-fevrier-1994-indp9400222a)
 - [Arrêté du 15 juillet 1994 (ACVP9420034A)](arrete-du-15-juillet-1994-acvp9420034a)
 - [Arrêté du 15 juillet 1994 (MENF9401115A)](arrete-du-15-juillet-1994-menf9401115a)
