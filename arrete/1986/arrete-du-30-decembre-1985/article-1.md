@@ -1,3 +1,7 @@
 # Article 1
 
-La prise en charge pour la location ou la vente des véhicules pour handicapés physiques inscrits sur la liste mentionnée à l'article 1er du décret n° 81-460 du 8 mai 1981 est subordonnée à l'agrément des loueurs ou revendeurs chargés de leur distribution. Cet agrément est accordé par les organismes de sécurité sociale et le ministre chargé des anciens combattants, conformément aux dispositions de l'article 10 du décret susvisé.
+Les gains journaliers antérieurs au 1er juillet 1985 ayant servi de base au calcul des indemnités journalières prévues à l'article L. 321-1 (4°) du code de la sécurité sociale et correspondant à un arrêt de travail d'une durée supérieure à trois mois sont affectés des coefficients de majoration ci-après à compter du 1er janvier 1986 :
+
+1° Gains journaliers antérieurs au 1er janvier 1985, revalorisés dans les conditions fixées par l'arrêté du 28 décembre 1984 : 1,013 1 ;
+
+2° Gains journaliers entre le 1er janvier 1985 et le 1er juillet 1985 : 1,013 1.
