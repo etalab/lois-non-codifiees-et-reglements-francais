@@ -1,5 +1,5 @@
 # Article 1
 
-Le crédit d'équipement des petites et moyennes entreprises est autorisé à émettre un emprunt obligataire d'un montant nominal de 3 milliards de francs maximum.
+Il est créé auprès du directeur de l'Office français de protection des réfugiés et apatrides un comité technique paritaire central comprenant quatre représentants titulaires et quatre représentants suppléants de l'administration, ainsi que quatre représentants titulaires et quatre représentants suppléants des personnels [*composition*].
 
-Une première émission de 2 milliards de francs au taux de 10 p. 100 est assortie de bons.
+Ce comité exerce les attributions définies au titre III du décret n° 82-452 du 28 mai 1982 susvisé.
