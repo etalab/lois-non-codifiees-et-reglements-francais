@@ -1,6 +1,6 @@
 # Article 41
 
-Pendant une période transitoire prenant fin à une date qui sera fixée par arrêté conjoint du ministre de l'éducation nationale et du ministre de la santé publique et de la population et au plus tard le 31 décembre 1967, les professeurs et les assistants des écoles nationales de chirurgie dentaire-odontologistes et odontologistes assistants des services de consultations et de traitements dentaires sont recrutés par voie de concours sur titres.
+Pendant une période transitoire prenant fin à une date qui sera fixée par arrêté conjoint du ministre de l'éducation nationale et du ministre d'Etat chargé des affaires sociales au plus tard le 31 décembre 1970, les professeurs et les assistants des écoles nationales de chirurgie dentaire-odontologistes et odontologistes assistants des services de consultations et de traitements dentaires sont recrutés par voie de concours sur titres.
 
 Les candidats sont inscrits et classés sur une liste d'aptitude établie par la commission nationale consultative provisoire prévue à l'article 15 du décret susvisé n° 65-801 du 22 septembre 1965 compte tenu de leurs titres et travaux et des conditions dans lesquelles ils ont exercé leurs activités professionnelles.
 
