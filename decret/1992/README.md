@@ -26,6 +26,7 @@
 - [Décret n°92-119 du 5 février 1992 (BUDF9200003D)](decret-n92-119-du-5-fevrier-1992-budf9200003d)
 - [Décret n°92-124 du 5 février 1992 (TEFE9204369D)](decret-n92-124-du-5-fevrier-1992-tefe9204369d)
 - [Décret n°84-431 du 6 juin 1984](decret-n84-431-du-6-juin-1984)
+- [Décret n°89-810 du 6 novembre 1989 (ECOP8900298D)](decret-n89-810-du-6-novembre-1989-ecop8900298d)
 - [Décret n°92-12 du 6 janvier 1992 (MAEC9100015D)](decret-n92-12-du-6-janvier-1992-maec9100015d)
 - [Décret n°92-13 du 6 janvier 1992 (TEFT9104237D)](decret-n92-13-du-6-janvier-1992-teft9104237d)
 - [Décret n°92-18 du 6 janvier 1992 (TEFE9104240D)](decret-n92-18-du-6-janvier-1992-tefe9104240d)
