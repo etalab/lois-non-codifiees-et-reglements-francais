@@ -306,7 +306,6 @@
 - [Décret n°87-222 du 26 mars 1987 (PTTT8700008D)](decret-n87-222-du-26-mars-1987-pttt8700008d)
 - [Décret n°87-223 du 26 mars 1987 (AGRG8700587D)](decret-n87-223-du-26-mars-1987-agrg8700587d)
 - [Décret n°87-33 du 26 janvier 1987](decret-n87-33-du-26-janvier-1987)
-- [Décret n°87-36 du 26 janvier 1987](decret-n87-36-du-26-janvier-1987)
 - [Décret n°87-696 du 26 août 1987 (RESP8700549D)](decret-n87-696-du-26-aout-1987-resp8700549d)
 - [Décret n°87-697 du 26 août 1987 (RESP8700550D)](decret-n87-697-du-26-aout-1987-resp8700550d)
 - [Décret n°87-698 du 26 août 1987 (RESP8700551D)](decret-n87-698-du-26-aout-1987-resp8700551d)

@@ -915,7 +915,6 @@
 - [Décret n°92-194 du 27 février 1992 (JUSC9220095D)](decret-n92-194-du-27-fevrier-1992-jusc9220095d)
 - [Décret n°92-195 du 27 février 1992 (JUSC9220094D)](decret-n92-195-du-27-fevrier-1992-jusc9220094d)
 - [Décret n°92-279 du 27 mars 1992 (MICT9200162D)](decret-n92-279-du-27-mars-1992-mict9200162d)
-- [Décret n°92-280 du 27 mars 1992 (MICT9200113D)](decret-n92-280-du-27-mars-1992-mict9200113d)
 - [Décret n°92-281 du 27 mars 1992 (MICT9200163D)](decret-n92-281-du-27-mars-1992-mict9200163d)
 - [Décret n°92-282 du 27 mars 1992 (AGRA9200300D)](decret-n92-282-du-27-mars-1992-agra9200300d)
 - [Décret n°92-285 du 27 mars 1992 (ECOC9200009D)](decret-n92-285-du-27-mars-1992-ecoc9200009d)
