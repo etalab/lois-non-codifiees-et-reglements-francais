@@ -1,0 +1,9 @@
+# Article 4
+
+Peuvent également bénéficier de l'aide mentionnée à l'article 1er, sans condition de ressources, les jeunes en formation ou en insertion professionnelle français, ressortissants d'un Etat membre de l'Union européenne qui ont eux-mêmes ou l'un des parents ou tuteur légal exercé, à temps plein ou à temps partiel, un emploi permanent en France :
+
+1° Les jeunes de dix-huit à trente ans résidant habituellement en Guadeloupe, en Guyane, en Martinique, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à la Réunion, à Saint-Pierre-et-Miquelon ou à Wallis et Futuna, dont le projet professionnel de formation est d'une durée minimale de trois mois, ou dont le projet d'insertion, qui doit prendre la forme d'un contrat à durée déterminée d'au moins six mois ou d'un contrat à durée indéterminée, se réalise en mobilité en métropole ou dans une autre collectivité d'outre-mer ;
+
+2° Les jeunes de dix-huit à trente ans résidant habituellement en Guadeloupe, en Guyane, en Martinique, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à la Réunion, à Saint-Pierre-et-Miquelon ou à Wallis et Futuna, dont le projet d'insertion s'inscrit dans le cadre d'une filière d'accès à l'emploi en métropole ou dans une autre collectivité d'outre-mer ;
+
+3° Les jeunes de trente ans au plus résidant habituellement en Guadeloupe, en Guyane, en Martinique, à Mayotte, en Nouvelle-Calédonie, en Polynésie française, à la Réunion, à Saint-Pierre-et-Miquelon et à Futuna et Wallis, admissibles aux épreuves orales d'admission des concours d'accès dans une formation de l'enseignement supérieur, ou dans les grandes écoles, ou dans les écoles d'infirmiers, ou aux concours de catégorie A et B de la fonction publique de l'Etat, de la fonction publique territoriale ou de la fonction publique hospitalière lorsque ces épreuves se déroulent en métropole ou dans une autre collectivité d'outre-mer.
