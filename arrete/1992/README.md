@@ -673,6 +673,7 @@
 - [Arrêté du 27 janvier 1992 (SPSS9200274A)](arrete-du-27-janvier-1992-spss9200274a)
 - [Arrêté du 27 juillet 1992 (INTE9200352A)](arrete-du-27-juillet-1992-inte9200352a)
 - [Arrêté du 27 juillet 1992 (JUSA9200143A)](arrete-du-27-juillet-1992-jusa9200143a)
+- [Arrêté du 27 juillet 1992 (SPSG9201276A)](arrete-du-27-juillet-1992-spsg9201276a)
 - [Arrêté du 27 juillet 1992 (SPSG9201278A)](arrete-du-27-juillet-1992-spsg9201278a)
 - [Arrêté du 27 juin 1991 (AGRS9101283A)](arrete-du-27-juin-1991-agrs9101283a)
 - [Arrêté du 27 mars 1992 (AGRG9200600A)](arrete-du-27-mars-1992-agrg9200600a)
@@ -800,4 +801,4 @@
 - [Arrêté du 31 mars 1992 (PTTR9200184A)](arrete-du-31-mars-1992-pttr9200184a)
 - [Arrêté du 31 mars 1992 (RESY9200039A)](arrete-du-31-mars-1992-resy9200039a)
 - [Arrêté du 31 mars 1992 (SANH9200864A)](arrete-du-31-mars-1992-sanh9200864a)
-- [Arrêté du 31 mars 1992 (SPSS9200875A)](arrete-du-31-mars-1992-spss9200875a)
+- [Arrêté du 31 mars 1992 (SPSs9200875A)](arrete-du-31-mars-1992-spss9200875a)
