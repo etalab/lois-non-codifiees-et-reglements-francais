@@ -66,7 +66,9 @@ La Commission supérieure du service public des postes et télécommunications v
 
 Art. 4
 
-Conditions d'exécution des services dont l'exclusivité est réservée à La Poste
+Conditions d'exécution
+
+des services dont l'exclusivité est réservée à La Poste
 
 Les tarifs des services dont l'exclusivité est réservée à La Poste font l'objet d'une péréquation géographique sur l'ensemble du territoire.
 
@@ -292,6 +294,28 @@ La Poste veille à la satisfaction, par l'ensemble de son groupe, des obligation
 
 La Poste concourt à l'organisation et à l'exécution du service de la poste aux armées, conformément aux décrets n° 53-155 du 25 février 1953 et n° 73-902 du 12 septembre 1973, selon des modalités précisées par convention passée entre l'Etat et La Poste.
 
+Art. 17 bis
+
+Contribution aux missions de conservation du patrimoine philatélique et postal
+
+Dans le cadre d'une convention qu'elle passe avec l'Etat La Poste prend en charge la conservation, la mise en valeur et l'enrichissement du patrimoine philatélique et postal qui lui a été dévolu ou affecté par l'article 2 du décret n° 93-775 du 26 mars 1993.
+
+A ce titre, La Poste :
+
+a) Tient à jour l'inventaire et l'évaluation des collections, objets et documents qu'elle détient, en distinguant les biens appartenant au domaine national et ceux qui relèvent de son patrimoine propre ;
+
+b) S'engage à présenter au public ces collections, objets et documents en tout ou en partie et, pour ceux qui ne sont pas exposés, à en assurer l'accès aux personnes habilitées par le ministre chargé des postes ;
+
+c) N'est autorisée à déplacer et éventuellement à aliéner les biens meubles lui appartenant en propre, lorsqu'ils proviennent de dons ou de legs, qu'après avoir recueilli l'assentiment des donateurs ou sous réserve de l'interprétation de la volonté des donateurs ou des testateurs par les juridictions compétentes, lorsqu'elle n'est pas explicite ;
+
+d) Peut recevoir en dépôt et exposer des collections, objets ou documents reçus par l'Etat à titre de dations en paiement de dons ou de legs, sous réserve de les faire figurer dans un inventaire distinct ;
+
+e) Peut acquérir à titre onéreux sur ses fonds propres ou recueillir sous forme de dons ou de legs tous objets, documents ou collections se rapportant à l'histoire ou l'évolution des postes et de la philatélie, sous réserve de l'autorisation de son conseil d'administration.
+
+La Poste est tenue de verser chaque année dans les collections appartenant à l'Etat à titre gratuit, la série continue des timbres-poste et autres valeurs fiduciaires postales qu'elle émet par application de l'article 16, premier alinéa, de la loi n° 90-568 du 2 juillet 1990.
+
+La Poste établit chaque année un rapport d'activité sur ses activités muséologiques.
+
 Art. 18
 
 Contribution aux missions de réglementation et de normalisation
@@ -404,13 +428,15 @@ Ces documents sont transmis au ministre chargé des postes et télécommunicatio
 
 5° Concertation :
 
-La Poste développe une concertation active avec les organisations représentant les usagers, " grand public " et professionnels, dans le cadre de structures nationales, régionales et locales, notamment celles déjà mises en place.
+La Poste développe une concertation active avec les organisations représentant les usagers, grand public et professionnels, dans le cadre de structures nationales, régionales et locales, notamment celles déjà mises en place.
 
 La Poste organise des consultations régulières, notamment dans les conditions prévues à l'article 25 du présent cahier des charges, en vue de recueillir l'avis des usagers sur l'évolution des besoins et la meilleure façon de les satisfaire.
 
 Art. 24
 
-Relations avec les échelons déconcentrés de l'Etat et les collectivités locales
+Relations avec les échelons déconcentrés de l'Etat
+
+et les collectivités locales
 
 Dans la définition de ses programmes d'équipement, La Poste prend en considération les orientations générales de la politique d'aménagement du territoire définies par le Gouvernement ainsi que les données et objectifs de développement économique et social des régions, des départements et des communes.
 
