@@ -150,6 +150,7 @@
 - [Arrêté du 27 février 1985](arrete-du-27-fevrier-1985)
 - [Arrêté du 27 juin 1985](arrete-du-27-juin-1985)
 - [Arrêté du 27 mars 1985](arrete-du-27-mars-1985)
+- [Arrêté du 28 août 1985](arrete-du-28-aout-1985)
 - [Arrêté du 28 décembre 1984](arrete-du-28-decembre-1984)
 - [Arrêté du 28 février 1985](arrete-du-28-fevrier-1985)
 - [Arrêté du 28 juin 1985](arrete-du-28-juin-1985)
