@@ -136,6 +136,7 @@
 - [Décret n°92-615 du 6 juillet 1992 (PRMX9100197D)](decret-n92-615-du-6-juillet-1992-prmx9100197d)
 - [Décret n°92-618 du 6 juillet 1992 (EQUU9200499D)](decret-n92-618-du-6-juillet-1992-equu9200499d)
 - [Décret n°92-619 du 6 juillet 1992 (EQUU9200500D)](decret-n92-619-du-6-juillet-1992-equu9200500d)
+- [Décret n°92-626 du 6 juillet 1992 (INDA9200427D)](decret-n92-626-du-6-juillet-1992-inda9200427d)
 - [Décret n°92-417 du 6 mai 1992 (INTB9200182D)](decret-n92-417-du-6-mai-1992-intb9200182d)
 - [Décret n°90-211 du 7 mars 1990 (INTA9000046D)](decret-n90-211-du-7-mars-1990-inta9000046d)
 - [Décret n°90-212 du 7 mars 1990 (INTA9000047D)](decret-n90-212-du-7-mars-1990-inta9000047d)

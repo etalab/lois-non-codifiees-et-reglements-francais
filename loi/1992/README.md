@@ -52,6 +52,7 @@
 - [Loi n° 92-597 du 1 juillet 1992 (MENX9100082L)](loi-n-92-597-du-1-juillet-1992-menx9100082l)
 - [Loi n° 92-61 du 18 janvier 1992 (MCCX9100158L)](loi-n-92-61-du-18-janvier-1992-mccx9100158l)
 - [Loi n° 92-613 du 6 juillet 1992 (AGRX9100138L)](loi-n-92-613-du-6-juillet-1992-agrx9100138l)
+- [Loi n° 92-625 du 6 juillet 1992 (INTX9200050L)](loi-n-92-625-du-6-juillet-1992-intx9200050l)
 - [Loi n° 92-9 du 4 janvier 1992 (DEFX9100121L)](loi-n-92-9-du-4-janvier-1992-defx9100121l)
 - [Loi n°90-1258 du 31 décembre 1990 (JUSX9000026L)](loi-n90-1258-du-31-decembre-1990-jusx9000026l)
 - [Loi n°92-496 du 9 juin 1992 (MERX9200047L)](loi-n92-496-du-9-juin-1992-merx9200047l)
