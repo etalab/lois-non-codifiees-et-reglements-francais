@@ -353,7 +353,6 @@
 - [Arrêté du 19 mars 1993 (SPSS9301135A)](arrete-du-19-mars-1993-spss9301135a)
 - [Arrêté du 19 mars 1993 (SPSS9301136A)](arrete-du-19-mars-1993-spss9301136a)
 - [Arrêté du 19 mars 1993 (SPSS9301137A)](arrete-du-19-mars-1993-spss9301137a)
-- [Arrêté du 19 mars 1993 (TEFE9300366A)](arrete-du-19-mars-1993-tefe9300366a)
 - [Arrêté du 20 janvier 1993 (AGRP9300117A)](arrete-du-20-janvier-1993-agrp9300117a)
 - [Arrêté du 20 janvier 1993 (DEFP9202249A)](arrete-du-20-janvier-1993-defp9202249a)
 - [Arrêté du 20 janvier 1993 (EQUA9300109A)](arrete-du-20-janvier-1993-equa9300109a)

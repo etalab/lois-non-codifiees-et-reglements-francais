@@ -79,7 +79,6 @@
 - [Décret n°73-848 du 22 août 1973](decret-n73-848-du-22-aout-1973)
 - [Décret n°73-184 du 23 février 1973](decret-n73-184-du-23-fevrier-1973)
 - [Décret n°73-191 du 23 février 1973](decret-n73-191-du-23-fevrier-1973)
-- [Décret n°73-218 du 23 février 1973](decret-n73-218-du-23-fevrier-1973)
 - [Décret n°73-219 du 23 février 1973](decret-n73-219-du-23-fevrier-1973)
 - [Décret n°73-339 du 23 mars 1973](decret-n73-339-du-23-mars-1973)
 - [Décret n°73-344 du 23 mars 1973](decret-n73-344-du-23-mars-1973)
