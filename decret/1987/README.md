@@ -23,6 +23,7 @@
 - [Décret n°87-60 du 3 février 1987 (PTTT8700082D)](decret-n87-60-du-3-fevrier-1987-pttt8700082d)
 - [Décret n°87-140 du 4 mars 1987 (ECOZ8700013D)](decret-n87-140-du-4-mars-1987-ecoz8700013d)
 - [Décret n°87-364 du 4 juin 1987 (MCCT8700254D)](decret-n87-364-du-4-juin-1987-mcct8700254d)
+- [Décret n°87-372 du 4 juin 1987 (MERR8700017D)](decret-n87-372-du-4-juin-1987-merr8700017d)
 - [Décret n°87-64 du 4 février 1987](decret-n87-64-du-4-fevrier-1987)
 - [Décret n°87-1 du 5 janvier 1987](decret-n87-1-du-5-janvier-1987)
 - [Décret n°87-153 du 5 mars 1987](decret-n87-153-du-5-mars-1987)
