@@ -6,4 +6,5 @@
 - [Article 32](article-32.md)
 - [Article 33](article-33.md)
 - [Article 39](article-39.md)
+- [Article 40](article-40.md)
 - [Article 41](article-41.md)
