@@ -24,7 +24,9 @@ Lorsque l'assuré ne justifie pas de dix années civiles d'assurance postérieur
 
 Lorsque l'assuré ne compte pas au total dix années civiles d'assurance, la pension est égale à 30 p. 100 du salaire annuel moyen correspondant aux cotisations versées au cours des années d'assurance accomplies depuis l'immatriculation.
 
-En vue du calcul du salaire annuel moyen, il est tenu compte, pour les périodes d'assurance comprises entre le 30 septembre 1967 et le 1er janvier 1980, des salaires qui ont donné lieu à précompte de la fraction de cotisation d'assurances sociales à la charge du salarié afférent aux risques maladie, maternité, invalidité et décès et calculée dans la limite d'un plafond.
+En vue du calcul du salaire annuel moyen, il est tenu compte, pour les périodes d'assurance comprises entre le 30 septembre 1967 et le 1er janvier 1980, des salaires qui ont donné lieu à précompte de la fraction de cotisation d'assurances sociales à la charge du salarié afférent aux risques maladie, maternité, invalidité et décès et calculée dans la limite [*d'un plafond :
+
+remplacé par le décret n°140*] du plafond prévu à l'article 1031 du code rural.
 
 A compter du 1er janvier 1980, les salaires pris en considération pour le calcul du salaire annuel moyen sont ceux qui ont donné lieu, lors de chaque paie, au versement de la fraction de cotisation d'assurances sociales afférente aux risques maladie, maternité, invalidité et décès, dans la limite d'un plafond.
 
@@ -40,7 +42,7 @@ PAR. 5 - Les pensions d'invalidité sont réduites en cas d'hospitalisation de l
 
 PAR. 6 - La pension d'invalidité prend fin à l'âge de soixante ans [*expiration*]. Elle est remplacée à partir de cet âge par la pension de vieillesse allouée en cas d'inaptitude au travail.
 
-La pension de vieillesse ne peut être inférieure à la pension d'invalidité dont bénéficiait l'invalide à l'âge de soixante ans. Elle peut être suspendue dans les conditions mentionnées à l'article 1er bis (par. 2, 3ème alinéa) du présent décret.
+La pension de vieillesse, substituée à une pension d'invalidité, ne peut être inférieure au montant de l'allocation aux vieux travailleurs salariés. Elle peut être suspendue dans les conditions mentionnées à l'article 1er bis (paragraphe 3, 1er alinéa) du présent décret.
 
 PAR. 7. - Par dérogation aux dispositions du paragraphe 6 du présent article, lorsque l'assuré, dont la pension d'invalidité a pris fin à l'âge de soixante ans, exerce une activité professionnelle, la pension de vieillesse allouée au titre de l'inaptitude au travail n'est concédée que si l'assuré n'y fait pas opposition.
 
@@ -49,5 +51,3 @@ Si, à l'âge de soixante ans, l'assuré renonce à l'attribution de cette pensi
 Toutefois, la pension de vieillesse qui lui est alors servie ne peut pas être inférieure à celle dont il serait bénéficiaire si la liquidation de ses droits avait été effectuée à l'âge de soixante ans dans les conditions fixées au paragraphe 6 du présent article [*montant minimum*].
 
 L'assuré qui a fait ce choix conserve le droit pour lui-même, et sans participation aux frais, aux prestations en nature des assurances maladie et maternité.
-
-DECR. 621 1980-07-21 ART. 2 : DANS LES TEXTES REGLEMENTAIRES EN VIGUEUR A LA DATE DE PUBLICATION DU PRESENT DECRET, TOUT RENVOI A UN REGLEMENT D'ADMINISTRATION PUBLIQUE OU A UN DECRET EN FORME DE REGLEMENT D'ADMINISTRATION PUBLIQUE EST REMPLACE PAR UN RENVOI A UN DECRET EN CONSEIL D'ETAT.
