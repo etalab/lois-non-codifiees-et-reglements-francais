@@ -14,8 +14,6 @@ c) Cinq représentants, lorsqu'ils sont au nombre de neuf, ou dix dont une sage-
 
 d) Sept représentants, lorsqu'ils sont au nombre de treize, ou quatorze dont une sage-femme.
 
-Le praticien hospitalier à temps plein ou, à défaut, le praticien hospitalier à temps partiel comptant la plus grande ancienneté en cette qualité et élu au conseil de département est le suppléant du chef de département.
-
 2° Sont électeurs dans le deuxième collège les audioprothésistes, diététiciens, ergothérapeutes, infirmiers et infirmières, laborantins d'analyses médicales, manipulateurs d'électroradiologie, masseurs kinésithérapeutes, opticiens-lunetiers, orthophonistes, orthoptistes, pédicures, puéricultrices et psychorééducateurs occupant un emploi permanent de titulaire ou de stagiaire ou liés à l'établissement par contrat et affectés dans le département.
 
 Tous les membres de ce collège sont éligibles au conseil de département, à l'exception de ceux d'entre aux qui sont liés à l'établissement par un contrat à durée déterminée.
