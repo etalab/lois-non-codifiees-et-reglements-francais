@@ -102,5 +102,6 @@
 - [Décret n°88-863 du 29 juillet 1988 (ECOP8800239D)](decret-n88-863-du-29-juillet-1988-ecop8800239d)
 - [Décret n°88-866 du 29 juillet 1988 (AGRG8801170D)](decret-n88-866-du-29-juillet-1988-agrg8801170d)
 - [Décret n°88-871 du 29 juillet 1988 (MAEA8820142D)](decret-n88-871-du-29-juillet-1988-maea8820142d)
+- [Décret n°88-899 du 29 août 1988 (DOMP8800027D)](decret-n88-899-du-29-aout-1988-domp8800027d)
 - [Décret n°88-901 du 30 août 1988 (SPSS8801058D)](decret-n88-901-du-30-aout-1988-spss8801058d)
 - [Décret n°87-1167 du 31 décembre 1987 (RESY8800001D)](decret-n87-1167-du-31-decembre-1987-resy8800001d)

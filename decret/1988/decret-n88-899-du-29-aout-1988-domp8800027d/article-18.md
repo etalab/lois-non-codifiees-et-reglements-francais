@@ -1,0 +1,3 @@
+# Article 18
+
+Le ministre d'Etat, ministre de l'équipement et du logement, le ministre de l'intérieur, le ministre des transports et de la mer, le ministre des départements et territoires d'outre-mer, le ministre de l'agriculture et de la forêt, le ministre délégué auprès du ministre des transports et de la mer, chargé de la mer, le secrétaire d'Etat auprès du ministre de l'intérieur, chargé des collectivités territoriales et le secrétaire d'Etat auprès du ministre des transports et de la mer, chargé des transports routiers et fluviaux sont chargés, chacun en ce qui le concerne, de l'exécution du présent décret, qui sera publié au Journal officiel de la République française.
