@@ -1,6 +1,6 @@
 # Article 70
 
-Sur proposition ou après accord du conseil municipal des communes intéressées, des zones de protection du patrimoine architectural et urbain peuvent être instituées autour des monuments historiques et dans les quartiers et sites à protéger ou à mettre en valeur pour des motifs d'ordre esthétique ou historique.
+Sur proposition ou après accord du conseil municipal des communes intéressées, des zones de protection du patrimoine architectural, urbain et paysager peuvent être instituées autour des monuments historiques et dans les quartiers, sites et espaces à protéger ou à mettre en valeur pour des motifs d'ordre esthétique, historique ou culturel.
 
 Des prescriptions particulières en matière d'architecture et de paysage sont instituées à l'intérieur de ces zones ou parties de zones pour les travaux mentionnés à l'article 71.
 
