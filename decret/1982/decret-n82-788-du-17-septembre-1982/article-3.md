@@ -1,3 +1,3 @@
 # Article 3
 
-En cas de vacance d'un siège, quelle que soit la cause, il est procédé à la nomination d'un nouveau membre dans les conditions où avait été désigné l'administrateur à remplacer. Le mandat du nouveau membre cesse lors du plus proche renouvellement du conseil d'administration [*durée*].
+Tout membre du conseil d'administration d'une des sociétés prévues au titre III de la loi du 29 juillet 1982 précitée qui perd la qualité en raison de laquelle il a été nommé ou élu cesse de faire partie de ce conseil.
