@@ -1,0 +1,3 @@
+# Article 4
+
+Un comité, présidé par le directeur général de l'urbanisme, de l'habitat et de la construction et regroupant le directeur de la recherche et des affaires scientifiques et techniques, le directeur de l'architecture et du patrimoine, le directeur de la recherche et le directeur de la technologie, organise la programmation financière des actions du plan, définit les conditions de coopération scientifique et financière avec les institutions et programmes ayant des champs de préoccupations similaires. Il décide de l'organisation de l'évaluation des actions et des programmes conduits. D'autres directeurs peuvent, en tant que de besoin, être associés aux travaux de ce comité.

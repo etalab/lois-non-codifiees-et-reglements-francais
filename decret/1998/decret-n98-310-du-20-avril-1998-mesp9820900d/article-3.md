@@ -1,0 +1,5 @@
+# Article 3
+
+Par dérogation aux articles 1er et 2, les professeurs associés des universités et les maîtres de conférence associés des universités à plein temps et à mi-temps mentionnés au premier alinéa des articles 4 et 8 du décret du 20 septembre 1991 susvisé peuvent être autorisés à exercer la médecine par le ministre chargé de la santé pour une durée fixée dans les limites prévues par l'article 5 du même décret, après transmission au ministre par le directeur de l'établissement de l'avis de la commission médicale du centre hospitalier et universitaire ou de l'établissement de santé dans lequel ils souhaitent exercer.
+
+Les chefs de clinique associés des universités et les assistants associés des universités mentionnés au deuxième alinéa de l'article 4 du décret du 20 septembre 1991 susvisé peuvent être autorisés à exercer la médecine par le ministre chargé de la santé, après transmission au ministre par le directeur de l'établissement d'une copie du dossier constitué par le directeur de l'unité de formation et de recherche et le directeur général du centre hospitalier et universitaire en vue de leur nomination.
