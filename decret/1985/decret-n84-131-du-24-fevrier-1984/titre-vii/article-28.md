@@ -18,6 +18,10 @@ Cette allocation, non soumise à cotisation au régime de retraite complémentai
 
 Un arrêté des ministres chargés de la santé et du budget détermine les conditions d'attribution de l'allocation, et notamment les secteurs géographiques et les spécialités ouvrant droit au bénéfice de l'allocation ainsi que le montant et les modalités de versement de celle-ci.
 
+6° Une indemnité d'engagement de service public exclusif versée aux praticiens qui s'engagent, pour une période de trois ans renouvelable, à ne pas exercer une activité libérale telle que prévue à l'article L. 714-30 du code de la santé publique.
+
+Un arrêté des ministres chargés de la santé et du budget détermine les conditions d'attribution de cette indemnité ainsi que son montant et ses modalités de versement.
+
 Sous réserve des dispositions des articles L. 714-30 à L. 714-35 du code de la santé publique et des dispositions réglementaires prise pour leur application, les praticiens ne peuvent recevoir aucun autre émolument au titre d'activités exercées tant à l'intérieur qu'à l'extérieur du ou des établissements d'affectation. Cette disposition ne s'applique pas :
 
 a) A la production d'oeuvres scientifiques, littéraires ou artistiques ;

@@ -2,7 +2,7 @@
 
 Les praticiens nommés au titre des 1° ou 3° de l'article 12 du présent décret sont reclassés à l'échelon qu'ils détenaient dans leur ancienne situation, avec conservation de leur ancienneté d'échelon.
 
-Les praticiens nommés au titre des 2°, 4° ou 5° de l'article 12 ou conformément aux dispositions des articles 15 et 16 sont classés dans l'emploi de praticien hospitalier, sans pouvoir dépasser le 10e échelon du corps, compte tenu :
+Les praticiens nommés au titre des 2°, 4° ou 5° de l'article 12 ou conformément aux dispositions des articles 15 et 16 sont classés dans l'emploi de praticien hospitalier, compte tenu :
 
 1° De la durée légale du service national et des services militaires obligatoires, selon les règles applicables aux fonctionnaires de l'Etat ;
 

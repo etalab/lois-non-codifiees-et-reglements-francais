@@ -2,26 +2,28 @@
 
 L'avancement d'échelon s'effectue selon les durées suivantes :
 
-12e échelon : 4 ans 6 mois ;
+12e échelon : quatre ans ;
 
-11e échelon : 2 ans ;
+11e échelon : deux ans ;
 
-9e échelon : 2 ans 6 mois ;
+10e échelon : deux ans ;
 
-8e échelon : 3 ans ;
+9e échelon : deux ans ;
 
-7e échelon : 3 ans ;
+8e échelon : deux ans ;
 
-6e échelon : 2 ans ;
+7e échelon : deux ans ;
 
-5e échelon : 2 ans ;
+6e échelon : deux ans ;
 
-4e échelon : 1 an 6 mois ;
+5e échelon : deux ans ;
 
-3e échelon : 1 an ;
+4e échelon : deux ans ;
 
-2e échelon : 1 an ;
+3e échelon : deux ans ;
 
-1er échelon : 1 an.
+2e échelon : un an ;
 
-L'avancement d'échelon, à l'exception du passage au 11è échelon, est prononcé par le Commissaire de la République du département [*autorité compétente*].
+1er échelon : un an.
+
+L'avancement d'échelon est prononcé par le préfet.
