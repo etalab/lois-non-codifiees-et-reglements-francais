@@ -1,0 +1,7 @@
+# Article 32
+
+Les demandes de modification du statut du personnel, mentionné à l'article 15 de la loi n° 83-557 du 1er juillet 1983 précitée, déjà exprimées à la date de publication de la présente loi et qui n'ont pas fait l'objet d'un accord ou d'un arbitrage à cette date sont soumises, en cas de désaccord persistant pendant dix-huit mois à compter de la demande de révision, à une commission arbitrale. La composition de cette commission est définie par arrêté conjoint du ministre chargé de l'économie et du ministre chargé du travail. Elle rend sa décision après avoir recherché une conciliation entre les parties. Elle prend en compte, d'une part, la situation et les perspectives financières du réseau des caisses d'épargne et, d'autre part, les droits sociaux des salariés et notamment en matière de régime de retraite.
+
+En ce qui concerne les accords conclus antérieurement à la publication de la présente loi et pour l'application des dispositions de l'article L. 132-8 du code du travail, l'ensemble des organisations syndicales représentatives mentionnées à l'article 16 et la Caisse nationale des caisses d'épargne et de prévoyance sont considérées comme signataires des accords collectifs adoptés par la commission paritaire nationale et en vigueur à la date de publication de la présente loi.
+
+Les accords conclus en application du présent article garantissent les droits sociaux acquis des salariés.

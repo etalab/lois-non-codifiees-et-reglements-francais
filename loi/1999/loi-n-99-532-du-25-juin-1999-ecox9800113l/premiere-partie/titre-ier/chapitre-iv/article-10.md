@@ -1,0 +1,5 @@
+# Article 10
+
+La Caisse nationale des caisses d'épargne et de prévoyance, constituée selon les modalités définies à l'article 29, est une société anonyme à directoire et conseil de surveillance régie par les articles 118 à 150 de la loi n° 66-537 du 24 juillet 1966 précitée, dont les caisses d'épargne et de prévoyance détiennent ensemble au moins la majorité absolue du capital et des droits de vote. Elle est un établissement de crédit au sens de la loi n° 84-46 du 24 janvier 1984 précitée. Elle est autorisée à fournir les services d'investissement prévus aux articles 4 et 5 de la loi n° 96-597 du 2 juillet 1996 de modernisation des activités financières.
+
+Le conseil de surveillance de la Caisse nationale des caisses d'épargne et de prévoyance comprend notamment des membres élus par les salariés du réseau des caisses d'épargne dans les conditions prévues par ses statuts. La nomination du président du directoire de la Caisse nationale des caisses d'épargne et de prévoyance est soumise à un agrément du ministre chargé de l'économie.

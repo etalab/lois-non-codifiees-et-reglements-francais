@@ -12,6 +12,7 @@
 - [Article 6 ter](article-6-ter.md)
 - [Article 6 quater](article-6-quater.md)
 - [Article 6 quinquies](article-6-quinquies.md)
+- [Article 6 sexies](article-6-sexies.md)
 - [Article 7](article-7.md)
 - [Article 8](article-8.md)
 - [Article 9 bis](article-9-bis.md)

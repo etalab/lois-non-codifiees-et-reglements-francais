@@ -7,4 +7,5 @@
 - [Section 5 : Des schémas multimodaux de services collectifs de transport.](section-5)
 - [Section 6 : Du schéma de services collectifs de l'énergie](section-6)
 - [Section 7 : Du schéma de services collectifs des espaces naturels et ruraux](section-7)
+- [Section 8 : Du schéma de services collectifs du sport](section-8)
 - [Article 10](article-10.md)
