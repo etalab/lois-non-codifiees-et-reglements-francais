@@ -1,0 +1,5 @@
+# Article 1
+
+La Caisse nationale de l'organisation autonome d'assurance vieillesse de l'industrie et du commerce, la Caisse autonome nationale de compensation de l'assurance vieillesse artisanale, la Caisse nationale d'assurance vieillesse des professions libérales et la Caisse nationale des barreaux français communiquent à la Caisse nationale d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles, avant le premier jour du deuxième mois de chaque trimestre [*date limite*], l'assiette et le montant des cotisations précomptées sur les avantages de retraite versés par elles au cours du trimestre civil précédent, le nombre de personnes concernées, ainsi que le nombre d'exonérations.
+
+A la même date ce montant est viré par chacune des caisses nationales d'assurance vieillesse mentionnées à l'alinéa précédent au compte ouvert par la Caisse nationale d'assurance maladie et maternité des travailleurs non-salariés des professions non-agricoles auprès de l'établissement que celle-ci a choisi.
