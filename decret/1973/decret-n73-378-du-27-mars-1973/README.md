@@ -5,3 +5,4 @@
 - [Chapitre III : Organisation et fonctionnement de l'établissement public chargé du parc](chapitre-iii)
 - [Chapitre IV : Mise en valeur de la zone périphérique.](chapitre-iv)
 - [Article 61](article-61.md)
+- [Organisation et fonctionnement de l'établissement public chargé du parc](organisation-et)
