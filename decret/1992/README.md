@@ -88,6 +88,7 @@
 - [Décret n°88-48 du 12 janvier 1988 (DEFP8701758D)](decret-n88-48-du-12-janvier-1988-defp8701758d)
 - [Décret n°89-737 du 12 octobre 1989 (PTTC8900302D)](decret-n89-737-du-12-octobre-1989-pttc8900302d)
 - [Décret n°92-138 du 12 février 1992 (SPSS9102791D)](decret-n92-138-du-12-fevrier-1992-spss9102791d)
+- [Décret n°92-145 du 12 février 1992 (ECOC9100135D)](decret-n92-145-du-12-fevrier-1992-ecoc9100135d)
 - [Décret n°93-364 du 12 mars 1993 (AGRA9300144D)](decret-n93-364-du-12-mars-1993-agra9300144d)
 - [Décret n°76-409 du 12 mai 1976](decret-n76-409-du-12-mai-1976)
 - [Décret n°82-331 du 13 avril 1982](decret-n82-331-du-13-avril-1982)
