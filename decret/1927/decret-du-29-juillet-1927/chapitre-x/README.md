@@ -4,3 +4,4 @@
 - [Modifications apportées aux installations dans un intérêt de voirie.](modifications-apportees-aux)
 - [Dommages causés par les distributions ou les transports.](dommages-causes-par)
 - [Modifications nécessitées par des travaux publics.](modifications-necessitees-par)
+- [Traversée de concessions préexistantes.](traversee-de-concessions-preexistantes)
