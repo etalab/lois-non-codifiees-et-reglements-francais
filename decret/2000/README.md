@@ -146,6 +146,7 @@
 - [Décret n°2000-679 du 18 juillet 2000 (MESP0021728D)](decret-n2000-679-du-18-juillet-2000-mesp0021728d)
 - [Décret n°2000-681 du 18 juillet 2000 (MENS0000967D)](decret-n2000-681-du-18-juillet-2000-mens0000967d)
 - [Décret n°2000-922 du 18 septembre 2000 (MENS0002183D)](decret-n2000-922-du-18-septembre-2000-mens0002183d)
+- [Décret n°89-241 du 18 avril 1989 (SPSH8900705D)](decret-n89-241-du-18-avril-1989-spsh8900705d)
 - [Décret n°2000-672 du 19 juillet 2000 (ECOC0000047D)](decret-n2000-672-du-19-juillet-2000-ecoc0000047d)
 - [Décret n°2000-678 du 19 juillet 2000 (ECOD0070014D)](decret-n2000-678-du-19-juillet-2000-ecod0070014d)
 - [Décret n°2000-680 du 19 juillet 2000 (MESH0021926D)](decret-n2000-680-du-19-juillet-2000-mesh0021926d)
