@@ -1,0 +1,3 @@
+# Article 14
+
+L'accueil des étudiants étrangers incombe au ministre de l'éducation nationale, en liaison avec le ministre des relations extérieures et le ministre chargé de la coopération et du développement ainsi qu'aux universités et établissements publics à caractère scientifique et culturel indépendants des universités, dans le respect de l'autonomie de ces établissements. Cette mission, qui constitue un élément de la politique universitaire, doit tendre notamment à assurer la cohérence entre la formation des étudiants étrangers en France et le développement des centres universitaires dans les pays en voie de développement.
