@@ -178,6 +178,7 @@
 - [Arrêté du 6 mars 1997 (TASS9720731A)](arrete-du-6-mars-1997-tass9720731a)
 - [Arrêté du 6 novembre 1996 (BUDF9600032A)](arrete-du-6-novembre-1996-budf9600032a)
 - [Arrêté du 6 novembre 1996 (TASP9623933A)](arrete-du-6-novembre-1996-tasp9623933a)
+- [Arrêté du 6 octobre 1997 (ECOI9700379A)](arrete-du-6-octobre-1997-ecoi9700379a)
 - [Arrêté du 6 octobre 1997 (ECOT9751632A)](arrete-du-6-octobre-1997-ecot9751632a)
 - [Arrêté du 6 mai 1997 (ENVP9760152A)](arrete-du-6-mai-1997-envp9760152a)
 - [Arrêté du 6 mai 1997 (INDB9700314A)](arrete-du-6-mai-1997-indb9700314a)
