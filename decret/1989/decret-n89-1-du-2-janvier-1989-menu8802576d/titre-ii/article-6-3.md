@@ -4,4 +4,4 @@ La commission nationale, présidée par un représentant du ministre chargé de 
 
 La régularité des élections peut être contestée par le ministre chargé de l'enseignement supérieur ainsi que par tout électeur, devant le tribunal administratif de Paris, dans le délai de huit jours francs qui suivent la publication des résultats.
 
-Des arrêtés du ministre chargé de l'enseignement supérieur fixent les modalités d'organisation ainsi que la date des élections et précisent la composition et les attributions de la commission nationale et des commissions locales de recensement.
+Des arrêtés du ministre chargé de l'enseignement supérieur fixent les modalités d'organisation ainsi que la date des élections et précisent la composition et les attributions de la commission nationale.
