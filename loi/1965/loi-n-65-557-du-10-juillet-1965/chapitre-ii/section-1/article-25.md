@@ -26,4 +26,6 @@ i) A moins qu'ils ne relèvent de la majorité prévue par l'article 24, les tra
 
 j) L'installation ou la modification d'une antenne collective ou d'un réseau interne à l'immeuble raccordé à un réseau câblé, établi ou autorisé en application de l'article 34 de la loi n° 86-1067 du 30 septembre 1986 à la liberté de communication;
 
+k) L'autorisation permanente accordée à la police ou à la gendarmerie nationale de pénétrer dans les parties communes.
+
 A défaut de décision prise dans les conditions de majorité prévues au présent article, une nouvelle assemblée générale statue dans les conditions prévues à l'article 24.
