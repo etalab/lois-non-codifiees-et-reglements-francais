@@ -29,6 +29,7 @@
 - [Arrêté du 10 janvier 1996 (TASH9620133A)](arrete-du-10-janvier-1996-tash9620133a)
 - [Arrêté du 10 janvier 1996 (TASH9620135A)](arrete-du-10-janvier-1996-tash9620135a)
 - [Arrêté du 10 janvier 1996 (TASP9620191A)](arrete-du-10-janvier-1996-tasp9620191a)
+- [Arrêté du 11 décembre 1995 (FPPA9510017A)](arrete-du-11-decembre-1995-fppa9510017a)
 - [Arrêté du 12 février 1996 (MAEA9520574A)](arrete-du-12-fevrier-1996-maea9520574a)
 - [Arrêté du 12 février 1996 (MAEA9620027A)](arrete-du-12-fevrier-1996-maea9620027a)
 - [Arrêté du 12 janvier 1996 (ECOS9650002A)](arrete-du-12-janvier-1996-ecos9650002a)
