@@ -1,6 +1,8 @@
 # 1978
 
 - [Décret n°78-520 du 3 avril 1978](decret-n78-520-du-3-avril-1978)
+- [Décret n°78-526 du 3 avril 1978](decret-n78-526-du-3-avril-1978)
+- [Décret n°78-528 du 4 avril 1978](decret-n78-528-du-4-avril-1978)
 - [Décret n°78-360 du 8 mars 1978](decret-n78-360-du-8-mars-1978)
 - [Décret n°78-311 du 13 mars 1978](decret-n78-311-du-13-mars-1978)
 - [Décret n°78-345 du 13 mars 1978](decret-n78-345-du-13-mars-1978)
