@@ -1,3 +1,3 @@
 # Article 8
 
-Des arrêtés conjoints du ministre de l'agriculture, du ministre de l'économie, du ministre de l'industrie et du ministre des transports peuvent, en tant que de besoin, fixer les modalités d'application du présent décret.
+Des arrêtés conjoints du ministre chargé de la consommation et de la répression des fraudes, du ministre chargé de l'industrie et du ministre chargé des transports fixent en tant que de besoin les modalités d'application du présent décret.
