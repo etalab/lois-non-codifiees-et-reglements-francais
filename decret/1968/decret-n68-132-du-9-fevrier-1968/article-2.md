@@ -1,0 +1,3 @@
+# Article 2
+
+Lorsque les décrets prévus à l'article L. 893 du code de la santé publique ont fixé une limite d'âge supérieure pour l'accès aux fonctions hospitalières, cette limite d'âge est reculée d'une période égale à la durée des services militaires obligatoires ou à celle des empêchements à l'exercice de la fonction publique prévue par l'ordonnance du 15 juin 1945 modifiée; elle est également reculée de la durée des services accomplis en qualité de titulaire, de contractuel ou d'auxiliaire, soit au compte de l'Etat, soit au compte d'une collectivité locale, à la condition que ces services ne soient pas rémunérés par une pension. Cette limite d'âge est reculée également d'une année par enfant à charge au profit des pères et mères de famille.

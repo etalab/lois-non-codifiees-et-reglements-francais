@@ -50,6 +50,7 @@
 - [Décret n°70-562 du 26 juin 1970](decret-n70-562-du-26-juin-1970)
 - [Décret n°70-441 du 26 mai 1970](decret-n70-441-du-26-mai-1970)
 - [Décret n°70-78 du 27 janvier 1970](decret-n70-78-du-27-janvier-1970)
+- [Décret n° 70-839 du 28 août 1970](decret-n-70-839-du-28-aout-1970)
 - [Décret n°69-825 du 28 août 1969](decret-n69-825-du-28-aout-1969)
 - [Décret n° 70-107 du 29 janvier 1970](decret-n-70-107-du-29-janvier-1970)
 - [Décret n°70-368 du 29 avril 1970](decret-n70-368-du-29-avril-1970)
