@@ -95,7 +95,6 @@
 - [Décret n°80-354 du 14 mai 1980](decret-n80-354-du-14-mai-1980)
 - [Décret n°80-356 du 14 mai 1980](decret-n80-356-du-14-mai-1980)
 - [Décret n°80-148 du 15 février 1980](decret-n80-148-du-15-fevrier-1980)
-- [Décret n°80-24 du 15 janvier 1980](decret-n80-24-du-15-janvier-1980)
 - [Décret n°80-274 du 15 avril 1980](decret-n80-274-du-15-avril-1980)
 - [Décret n°80-277 du 15 avril 1980](decret-n80-277-du-15-avril-1980)
 - [Décret n°80-533 du 15 juillet 1980](decret-n80-533-du-15-juillet-1980)
