@@ -4,14 +4,10 @@ Nul ne peut porter le titre de comptable agréé [*conditions requises*], ni, sa
 
 Pour être inscrit au tableau de l'ordre, en qualité de comptable agréé, il faut remplir les conditions suivantes :
 
-1° Etre citoyen, sujet ou protégé français [*conditions de nationalité*]  ;
+1° Etre citoyen, sujet ou protégé français [*conditions de nationalité*] ;
 
-2° Jouir de ses droits civils [*capacité*] ;
+2° Jouir de ses droits civils ;
 
-3° N'avoir subi aucune condamnation criminelle ou correctionnelle de nature à entacher son honorabilité et, notamment, aucune de celles visées par la législation en vigueur relative à l'interdiction du droit de gérer et administrer les sociétés ;
+3° N'avoir subi aucune condamnation criminelle ou correctionnelle de nature à entacher son honorabilité et, notamment, aucune de celles visées par la législation en vigueur relative à l'interdiction du droit de gérer et d'administrer les sociétés [*déchéances - effets*].    4° Etre âgé de vingt-cinq ans révolus [*conditions d'âge*] ;
 
-4° Etre âgé de vingt-deux révolus [*condition d'âge*] ;
-
-5° Etre titulaire du brevet professionnel de comptable, institué par application du décret du 1er mars 1931 ou avoir subi avec succès les épreuves de l'examen préliminaire au stage d'expert comptable et justifier, dans le second cas, de trois années de pratique professionnelle comptable jugée suffisante par le conseil de l'ordre [*expérience professionnelle*].
-
-6° Présenter les garanties de moralité jugées nécessaires par le conseil de l'ordre.
+5° Etre titulaire du diplôme d'études comptables supérieures délivré par le ministre de l'éducation nationale et justifier de deux années de pratique professionnelle comptable jugée suffisante par le conseil de l'ordre et acquise chez un expert comptable ou un comptable agréé ou dans une entreprise publique ou privée.
