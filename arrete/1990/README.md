@@ -677,6 +677,7 @@
 - [Arrêté du 25 juin 1990 (PTTP9000511A)](arrete-du-25-juin-1990-pttp9000511a)
 - [Arrêté du 25 juin 1990 (PTTP9000512A)](arrete-du-25-juin-1990-pttp9000512a)
 - [Arrêté du 25 juin 1990 (SPSS9001274A)](arrete-du-25-juin-1990-spss9001274a)
+- [Arrêté du 25 octobre 1990 (MEND9002383A)](arrete-du-25-octobre-1990-mend9002383a)
 - [Arrêté du 25 octobre 1990 (SPSS9010623A)](arrete-du-25-octobre-1990-spss9010623a)
 - [Arrêté du 25 septembre 1990 (AGRG9001349A)](arrete-du-25-septembre-1990-agrg9001349a)
 - [Arrêté du 25 septembre 1990 (BUDR9005050A)](arrete-du-25-septembre-1990-budr9005050a)
