@@ -4,4 +4,4 @@ Les étudiants en médecine perçoivent au titre des gardes une indemnité finan
 
 Taux à compter du 1er décembre 1999
 
-Pour une garde de jour, d'une nuit, d'un dimanche ou d'un jour férié : 156 F.
+Pour une garde de jour, d'une nuit, d'un dimanche ou d'un jour férié : 157 F.
