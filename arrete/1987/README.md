@@ -676,7 +676,6 @@
 - [Arrêté du 30 juillet 1987 (MEND8700367A)](arrete-du-30-juillet-1987-mend8700367a)
 - [Arrêté du 30 juillet 1987 (PTTP8700540A)](arrete-du-30-juillet-1987-pttp8700540a)
 - [Arrêté du 30 juillet 1987 (PTTP8700541A)](arrete-du-30-juillet-1987-pttp8700541a)
-- [Arrêté du 30 juin 1987](arrete-du-30-juin-1987)
 - [Arrêté du 30 juin 1987 (MCCE8700302A)](arrete-du-30-juin-1987-mcce8700302a)
 - [Arrêté du 30 juin 1987 (MCCE8700304A)](arrete-du-30-juin-1987-mcce8700304a)
 - [Arrêté du 30 juin 1987 (MERE8700097A)](arrete-du-30-juin-1987-mere8700097a)
