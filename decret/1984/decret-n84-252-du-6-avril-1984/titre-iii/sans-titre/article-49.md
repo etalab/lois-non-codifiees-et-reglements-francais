@@ -1,3 +1,3 @@
 # Article 49
 
-Les frais de séjour mentionnés à l'article 47 du présent décret donnent droit à des indemnités journalières calculées selon les conditions prévues au titre II du décret du 28 mai 1990 susvisé.
+Le montant, les conditions d'attribution et les modalités de versement des indemnités prévues aux articles 47 et 48 sont fixés par arrêté conjoint du ministre des affaires étrangères et du ministre chargé du budget.
