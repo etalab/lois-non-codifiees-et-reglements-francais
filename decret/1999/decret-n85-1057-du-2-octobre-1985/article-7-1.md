@@ -10,6 +10,6 @@ c) D'assurer pour ces personnels l'évaluation et le suivi des besoins, dans le 
 
 d) D'assurer la cohérence des politiques de formation du ministère et de conduire les actions de formation pour les personnels relevant du secrétariat général ;
 
-e) De définir les orientations générales et d'assurer la cohérence des politiques d'action sociale et de les mettre en oeuvre dans les services relevant de sa compétence ;
+e) De définir les orientations générales et d'assurer la cohérence des politiques d'action sociale du ministère ; de définir et de mettre en oeuvre l'action sociale pour les personnels relevant de sa compétence et, dans les domaines fixés par arrêté conjoint du Premier ministre et du ministre de l'intérieur, pour l'ensemble des personnels du ministère ;
 
 f) De traiter les contentieux relatifs à la situation individuelle des fonctionnaires et agents relevant de sa compétence.

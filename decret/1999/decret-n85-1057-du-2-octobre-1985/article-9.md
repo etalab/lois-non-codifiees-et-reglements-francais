@@ -11,3 +11,5 @@ Compte tenu des règles applicables en matière de déconcentration, elle défin
 Elle recense les besoins nécessaires à l'équipement des services de police et répartit les moyens matériels correspondants.
 
 Elle prépare, en liaison avec les directions concernées du ministère, les programmes immobiliers, informatiques et de transmissions de la police nationale. Elle en suit l'exécution.
+
+Elle définit et met en oeuvre l'action sociale pour les personnels relevant de sa compétence et, dans des domaines fixés par arrêté conjoint du Premier ministre et du ministre de l'intérieur, pour l'ensemble des personnels du ministère.
