@@ -1,0 +1,9 @@
+# Article 3
+
+Les personnels employés par une personne morale de droit privé créée avant la date de promulgation de la présente loi dont la dissolution résulte du transfert intégral de son objet et de ses moyens à un établissement public de coopération culturelle à caractère administratif et qui sont recrutés par cet établissement peuvent continuer à bénéficier des stipulations de leur contrat de travail antérieur lorsqu'elles ne dérogent pas aux dispositions législatives et réglementaires régissant les agents non titulaires de la fonction publique territoriale. Toutefois, ne sont pas applicables à ces contrats les conditions de durée résultant du troisième alinéa de l'article 3 de la loi n° 84-53 du 26 janvier 1984 portant dispositions statutaires relatives à la fonction publique territoriale.
+
+Par dérogation à l'article L. 122-9 du code du travail, les personnes recrutées dans les conditions fixées à l'alinéa précédent ne perçoivent pas d'indemnités au titre du licenciement lié à la dissolution de la personne morale de droit privé.
+
+Les agents contractuels de droit public employés par une collectivité territoriale ou une autre personne morale de droit public au sein d'une régie directe dont l'objet et les moyens sont intégralement transférés à un établissement public de coopération culturelle à caractère administratif sont transférés, à leur demande, au nouvel établissement.
+
+Les agents contractuels de droit public employés par une collectivité territoriale ou une autre personne morale de droit public au sein d'une régie directe dont l'objet et les moyens sont intégralement transférés à un établissement public de coopération culturelle à caractère industriel et commercial sont transférés, à leur demande, au nouvel établissement et conservent le bénéfice de leur ancienneté et des conditions de rémunération résultant de leur contrat en cours.

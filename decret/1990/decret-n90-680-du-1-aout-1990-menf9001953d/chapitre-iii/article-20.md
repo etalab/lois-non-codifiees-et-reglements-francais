@@ -1,6 +1,6 @@
 # Article 20
 
-Les professeurs des écoles recrutés par la voie des concours externes ou internes sont classés, lors de leur titularisation, conformément aux dispositions du décret du 5 décembre 1951 susvisé.
+Les professeurs des écoles recrutés par la voie des concours prévus à l'article 4 ci-dessus sont classés, lors de leur titularisation, conformément aux dispositions du décret du 5 décembre 1951 susvisé.
 
 Pour l'application de ces dispositions, le corps des professeurs des écoles est affecté du coefficient caractéristique 135.
 

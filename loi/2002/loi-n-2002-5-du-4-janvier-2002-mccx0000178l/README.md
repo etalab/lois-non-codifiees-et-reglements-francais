@@ -1,4 +1,4 @@
-# Décret n°98-923 du 14 octobre 1998 portant création de l'Etablissement public foncier de l'Ouest Rhône-Alpes (EPORA)
+# Loi n° 2002-5 du 4 janvier 2002 relative aux musées de France
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -16,4 +16,13 @@
 - [Article 14](article-14.md)
 - [Article 15](article-15.md)
 - [Article 16](article-16.md)
-- [Annexe](annexe)
+- [Article 17](article-17.md)
+- [Article 18](article-18.md)
+- [Article 19](article-19.md)
+- [Article 20](article-20.md)
+- [Article 22](article-22.md)
+- [Article 23](article-23.md)
+- [Article 27](article-27.md)
+- [Article 28](article-28.md)
+- [Article 29](article-29.md)
+- [Article 30](article-30.md)
