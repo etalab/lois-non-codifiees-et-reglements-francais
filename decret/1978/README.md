@@ -6,6 +6,7 @@
 - [Décret n°78-360 du 8 mars 1978](decret-n78-360-du-8-mars-1978)
 - [Décret n°78-278 du 9 mars 1978](decret-n78-278-du-9-mars-1978)
 - [Décret n°78-533 du 12 avril 1978](decret-n78-533-du-12-avril-1978)
+- [Décret n°78-632 du 12 juin 1978](decret-n78-632-du-12-juin-1978)
 - [Décret n°78-311 du 13 mars 1978](decret-n78-311-du-13-mars-1978)
 - [Décret n°78-345 du 13 mars 1978](decret-n78-345-du-13-mars-1978)
 - [Décret n°78-363 du 13 mars 1978](decret-n78-363-du-13-mars-1978)
