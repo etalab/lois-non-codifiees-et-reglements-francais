@@ -1,4 +1,4 @@
-# Arrêté du 30 juillet 1986 portant approbation du cahier des clauses comptables applicables à la détermination des coûts de revient des prestations des sociétés aéronautiques et spatiales
+# Arrêté du 4 septembre 1986 relatif au fonds de garantie de la caisse de garantie du logement social
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -7,3 +7,5 @@
 - [Article 5](article-5.md)
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)

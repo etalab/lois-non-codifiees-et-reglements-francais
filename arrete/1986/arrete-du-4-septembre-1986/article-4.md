@@ -1,0 +1,3 @@
+# Article 4
+
+La garantie du fonds peut être accordée en complément ou en remplacement de celles des collectivités locales, de leurs groupements ou des chambres de commerce et d'industrie soit à la demande de l'emprunteur, soit à la demande du prêteur en cas d'insuffisance des garanties proposées par l'emprunteur. Le conseil d'administration de la caisse de garantie du logement social peut notamment refuser l'octroi de la garantie du fonds au vu de la situation financière de l'emprunteur ou de l'opération envisagée. Il fixe les modalités de son intervention. Il peut demander une sûreté en contrepartie de sa garantie.

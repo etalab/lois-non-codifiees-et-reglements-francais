@@ -1,13 +1,7 @@
 # Article 3
 
-A l'issue des différents examens, il est délivré un certificat médical attestant que l'intéressé remplit ou ne remplit pas les conditions sanitaires.
+Les protocoles comptables prévus au paragraphe 0.020 du cahier des clauses comptables sont négociés selon des modalités fixées par instruction du ministre de la défense. Ils sont signés par les fonctionnaires coordonnateurs institués par le décret n° 68-165 du 20 février 1968 susvisé.
 
-Sont seuls habilités à établir ces certificats [*autorités compétentes*] :
+Pour les entreprises auprès desquelles n'ont pas été nommés de fonctionnaires coordonnateurs, le ministre de la défense peut désigner, au sein de son administration ou des établissements publics et entreprises nationales visés à l'article 2 ci-dessus placés sous sa tutelle, les personnes responsables chargées de signer les protocoles comptables.
 
-1° Les médecins de l'Office national d'immigration, le certificat portant obligatoirement dans ce cas le visa du chef de mission ou de centre de cet organisme ;
-
-2° A défaut, les médecins agréés auprès des représentants diplomatiques français. Les certificats délivrés par ces médecins doivent être visés par ces représentants.
-
-Les résultats des examens médicaux effectués à titre exceptionnel en France concernant les étrangers visés à l'article 1er sont communiqués aux médecins placés auprès des directeurs départementaux des affaires sanitaires et sociales intéressés.
-
-Tous les documents portant les indications sur l'état sanitaire des intéressés sont transmis sous pli fermé avec la mention " secret médical ".
+Le protocole comptable conclu avec une entreprise dans les conditions qui précèdent s'impose à l'ensemble des services de l'Etat, entreprises nationales et sociétés d'économie mixte visés à l'article 2 ci-dessus qui contractent avec cette entreprise.
