@@ -1,3 +1,0 @@
-# Article 1
-
-En application du a du deuxième alinéa de l'article 2 du décret du 19 septembre 1955 susvisé, les membres du corps des administrateurs de l'Institut national de la statistique et des études économiques et ceux du corps des ingénieurs des ponts et chaussées peuvent être nommés aux emplois de chef de service, directeur adjoint ou sous-directeur respectivement à la direction chargée des études statistiques et de l'évaluation du système éducatif et à la direction chargée de la programmation et de la coordination des constructions et des équipements universitaires de l'administration centrale du ministère de l'éducation nationale, de la jeunesse et des sports.

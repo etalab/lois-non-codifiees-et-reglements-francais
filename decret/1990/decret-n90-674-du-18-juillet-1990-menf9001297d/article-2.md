@@ -1,3 +1,0 @@
-# Article 2
-
-En application du b du deuxième alinéa de l'article 2 du décret du 19 septembre 1955 susvisé, les emplois de chef de service, directeur adjoint et sous-directeur à l'administration centrale du ministère de l'éducation nationale, de la jeunesse et des sports peuvent être attribués à des fonctionnaires appartenant au corps des inspecteurs pédagogiques régionaux - inspecteurs d'académie, à condition qu'ils aient été détachés pendant trois ans au moins dans l'emploi d'inspecteur d'académie, directeur des services départementaux de l'éducation nationale, ou à des fonctionnaires appartenant au corps des conservateurs des bibliothèques ayant atteint le grade de conservateur en chef.

@@ -5,7 +5,6 @@
 - [Article 2 bis](article-2-bis.md)
 - [Article 2 ter](article-2-ter.md)
 - [Article 2 quinquies](article-2-quinquies.md)
-- [Article 2 sextiès](article-2-sexties.md)
 - [Article 3](article-3.md)
 - [Article 3 bis](article-3-bis.md)
 - [Article 4](article-4.md)
