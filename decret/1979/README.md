@@ -18,6 +18,7 @@
 - [Décret n°79-142 du 19 février 1979](decret-n79-142-du-19-fevrier-1979)
 - [Décret n°78-1298 du 21 décembre 1978](decret-n78-1298-du-21-decembre-1978)
 - [Décret n°79-262 du 21 mars 1979](decret-n79-262-du-21-mars-1979)
+- [Décret n°79-715 du 22 août 1979](decret-n79-715-du-22-aout-1979)
 - [Décret n°79-63 du 23 janvier 1979](decret-n79-63-du-23-janvier-1979)
 - [Décret n°79-64 du 23 janvier 1979](decret-n79-64-du-23-janvier-1979)
 - [Décret n°79-65 du 23 janvier 1979](decret-n79-65-du-23-janvier-1979)
