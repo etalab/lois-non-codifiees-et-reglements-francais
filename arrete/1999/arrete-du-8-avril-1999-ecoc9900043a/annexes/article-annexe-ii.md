@@ -584,24 +584,27 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <p>Soutien de la fonction hépatique en cas d'insuffisance hépatique chronique.</p>
 </td>
 <td rowspan="5" valign="top" width="112">
-<p>Protéines de qualité élevée, teneur modérée en protéines, faible teneur en matières grasses, teneur élevée en acides gras essentiels et en glucides très digestibles.</p>
+<p>Protéines de qualité élevée, teneur modérée en protéines, teneur élevée en acides gras essentiels et en glucides très digestibles.</p>
 </td>
 <td rowspan="5" valign="top" width="64">
 <p>Chiens.</p>
 </td>
 <td valign="top" width="110">
-<p>Sources de protéines.</p>
+<p>Source(s) de protéines.</p>
 </td>
-<td rowspan="9" valign="top" width="102">
+<td rowspan="5" valign="top" width="102">
 <p>Au départ, six mois.</p>
 </td>
-<td rowspan="9" valign="top" width="141">
-<p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un véterinaire." </p>
+<td valign="top" width="141">
+<p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un vétérinaire." </p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="110">
 <p>Teneur en acides gras essentiels.</p>
+</td>
+<td rowspan="4" valign="top" width="141">
+<p>Indiquer dans le mode d'emploi : "Eau disponible en permanence." </p>
 </td>
 </tr>
 <tr>
@@ -621,18 +624,27 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 </tr>
 <tr>
 <td rowspan="4" valign="top" width="112">
-<p>Protéines de qualité élevée, teneur modérée en protéines et en matières grasses et teneur élevée en acides gras essentiels.</p>
+<p>Protéines de qualité élevée, teneur modérée en protéines et teneur élevée en acides gras essentiels.</p>
 </td>
 <td rowspan="4" valign="top" width="64">
 <p>Chats.</p>
 </td>
 <td valign="top" width="110">
-<p>Sources de protéines.</p>
+<p>Source(s) de protéines.</p>
+</td>
+<td rowspan="4" valign="top" width="102">
+<p>Au départ, six mois.</p>
+</td>
+<td valign="top" width="141">
+<p>Indiquer sur l'emballage, le récipient ou l'étiquette : "Avant utilisation ou avant prolongation de la durée d'utilisation, il est recommandé de demander l'avis d'un vétérinaire."</p>
 </td>
 </tr>
 <tr>
 <td valign="top" width="110">
 <p>Teneur en acides gras essentiels.</p>
+</td>
+<td rowspan="3" valign="top" width="141">
+<p>Indiquer dans le mode d'emploi : "Eau disponible en permanence." </p>
 </td>
 </tr>
 <tr>
@@ -905,7 +917,7 @@ LISTE DES OBJECTIFS NUTRITIONNELS PARTICULIERS
 <p>Réduction du risque d'acidose.</p>
 </td>
 <td rowspan="3" valign="top" width="112">
-<p>Faible teneur en glucides très fermentescibles et haute capacité tampon.</p>
+<p>Faible teneur en glucides très fermentescibles et haute capacité tampon</p>
 </td>
 <td rowspan="3" valign="top" width="64">
 <p>Ruminants.</p>
