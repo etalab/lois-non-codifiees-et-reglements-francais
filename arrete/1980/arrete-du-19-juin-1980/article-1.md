@@ -1,11 +1,59 @@
 # Article 1
 
-Le directeur d'un établissement de formation préparant à l'examen du diplôme d'Etat d'assistant de service social doit remplir les conditions [*d'exercice de la profession*] suivantes :
+La liste des services techniques et bibliothèques dans lesquels le personnel de service à vocation à servir est fixée ainsi qu'il suit :
 
-Etre âgé de trente ans au moins ;
+I. - Services techniques et bibliothèques            relevant du ministère de l'éducation nationale
 
-Etre titulaire du diplôme d'Etat d'assistant de service social ;
+- Direction des bibliothèques, des musées et de l'information scientifique et technique ;
 
-Justifier d'une expérience professionnelle et pédagogique d'au moins sept années dans le domaine de l'action sociale ;
+- Ecole nationale supérieure des bibliothécaires ;
 
-Etre titulaire du diplôme supérieur en travail social ou d'un titre homologué ou s'engager à préparer dans un délai de cinq ans à partir de la date d'entrée en fonctions le diplôme supérieur en travail social. Cette condition ne concerne pas les directeurs en fonctions à la date de publication du présent arrêté.
+- Bibliothèque du Muséum national d'histoire naturelle ;
+
+- Bibliothèque du musée de l'Homme ;
+
+- Bibliothèque de l'Institut de France ;
+
+- Bibliothèque Mazarine ;
+
+- Bibliothèque de l'Académie nationale de médecine ;
+
+- Bibliothèque nationale et universitaire de Strasbourg ;
+
+- Services communs de la documentation des universités et services interétablissements de coopération documentaire ;
+
+- Bibliothèque du Collège de France ;
+
+- Bibliothèque de l'Ecole nationale des chartes ;
+
+- Bibliothèques des écoles normales supérieures ;
+
+- Bibliothèque de l'Observatoire de Paris ;
+
+- Bibliothèques des instituts et écoles extérieures aux universités  - Bibliothèques interuniversitaires et bibliothèques d'universités de la région parisienne (académies de Paris, de Créteil et de Versailles).
+
+II. - Services techniques et bibliothèques            relevant d'un autre département ministériel
+
+a) Services et bibliothèques relevant du ministère de la culture :
+
+- Bibliothèque Nationale ;
+
+- Directions régionales des affaires culturelles ;
+
+- Bibliothèque publique d'information ;
+
+- Bibliothèques des musées de France et bibliothèque de l'Ecole du Louvre ;
+
+b) Services et bibliothèques relevant d'autres départements ministériels :
+
+- Bibliothèque du Conseil d'Etat ;
+
+- Bibliothèque de la Cour de cassation ;
+
+- Bibliothèque de l'Institut national de la statistique et des études économiques ;
+
+- Bibliothèque centrale du ministère de la justice ;
+
+III. - Bibliothèques relevant des            collectivités territoriales
+
+- Bibliothèques centrales de prêt des départements;

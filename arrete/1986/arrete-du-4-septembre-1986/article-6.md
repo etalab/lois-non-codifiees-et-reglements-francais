@@ -1,5 +1,5 @@
 # Article 6
 
-Les sommes payées par le fonds à la place des débiteurs défaillants ont [*définition*] , sauf décision contraire du conseil d'administration, le caractère d'avances. Les conditions de remboursement et le taux d'intérêt de ces avances sont fixés par le conseil d'administration.
+Le contrôle général des armées, dans l'exercice de ses attributions en matière d'inspection du travail qui lui sont reconnues par le décret n° 64-726 du 16 juillet 1964, veille à l'application des dispositions du décret du 28 septembre 1979 susvisé dans les établissements et services du ministère de la défense.
 
-Le fonds supporte les intérêts moratoires correspondant aux sommes qu'il prend en charge.
+A cette fin, il reçoit le concours de l'inspection de l'armement pour les poudres et explosifs et, en outre, pour les établissements ne relevant pas du délégué général pour l'armement celui des organismes d'inspection et de contrôle visés aux paragraphes 2.2 et suivants de l'article 2 du présent arrêté.

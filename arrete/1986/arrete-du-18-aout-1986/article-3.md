@@ -1,3 +1,3 @@
 # Article 3
 
-L'arrêté du 27 mars 1981 fixant le montant des indemnités pour gardes supplémentaires attribuées aux étudiants de deuxième, troisième et quatrième année du deuxième cycle des études médicales est abrogé.
+Le délégué à l'emploi est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française, ainsi que le texte des accords agréés.
