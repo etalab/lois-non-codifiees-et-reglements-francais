@@ -351,6 +351,7 @@
 - [Arrêté du 16 octobre 1998 (MESS9823309A)](arrete-du-16-octobre-1998-mess9823309a)
 - [Arrêté du 16 octobre 1998 (MESS9823310A)](arrete-du-16-octobre-1998-mess9823310a)
 - [Arrêté du 16 septembre 1999 (ECOL9900147A)](arrete-du-16-septembre-1999-ecol9900147a)
+- [Arrêté du 16 septembre 1999 (MESS9922924A)](arrete-du-16-septembre-1999-mess9922924a)
 - [Arrêté du 17 août 1999 (ECOS9950032A)](arrete-du-17-aout-1999-ecos9950032a)
 - [Arrêté du 17 août 1999 (INTB9900404A)](arrete-du-17-aout-1999-intb9900404a)
 - [Arrêté du 17 décembre 1998 (AGRM9802581A)](arrete-du-17-decembre-1998-agrm9802581a)
