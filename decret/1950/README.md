@@ -20,6 +20,8 @@
 - [Décret n°50-133 du 20 janvier 1950](decret-n50-133-du-20-janvier-1950)
 - [Décret n°50-444 du 20 avril 1950](decret-n50-444-du-20-avril-1950)
 - [Décret n°50-722 du 24 juin 1950](decret-n50-722-du-24-juin-1950)
+- [Décret n°50-737 du 24 juin 1950](decret-n50-737-du-24-juin-1950)
+- [Décret n°50-738 du 24 juin 1950](decret-n50-738-du-24-juin-1950)
 - [Décret n°50-381 du 27 mars 1950](decret-n50-381-du-27-mars-1950)
 - [Décret n°50-259 du 28 février 1950](decret-n50-259-du-28-fevrier-1950)
 - [Décret n°50-613 du 30 mai 1950](decret-n50-613-du-30-mai-1950)
