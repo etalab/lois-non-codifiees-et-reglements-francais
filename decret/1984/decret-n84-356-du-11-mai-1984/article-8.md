@@ -1,6 +1,6 @@
 # Article 8
 
-Trois comités techniques sont créés au sein de l'office : l'un pour les interventions en faveur de la canne, du sucre et du rhum, le deuxième pour le secteur de la banane, le troisième pour les autres secteurs agricoles.
+Deux comités techniques sont créés au sein de l'office : l'un pour les interventions en faveur de la canne, du sucre et du rhum, le second pour le secteur de la banane. En outre, d'autres comités techniques peuvent être créés, en tant que de besoin, par arrêté conjoint des ministres chargés de l'agriculture et des départements et collectivités territoriales d'outre-mer, après avis du conseil de direction.
 
 Un arrêté conjoint du ministre chargé de l'agriculture, du ministre chargé de l'économie et des finances, du ministre chargé du budget et du ministre chargé des départements d'outre-mer, pris après avis du conseil de direction, fixe la composition et les modalités de fonctionnement de chacun de ces comités techniques.
 

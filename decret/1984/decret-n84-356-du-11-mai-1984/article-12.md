@@ -1,6 +1,6 @@
 # Article 12
 
-Pour l'exécution du budget de l'office, les décisions portant affectation de crédits pour les interventions à effectuer, ou fixant les règles de ces interventions, sont préparées par le directeur de l'office.
+Pour l'exécution de l'état prévisionnel des recettes et des dépenses de l'office, les décisions portant affectation de crédits pour les interventions à effectuer, ou fixant les règles de ces interventions, sont préparées par le directeur de l'office.
 
 Le conseil de direction délibère sur les projets de décision.
 

@@ -2,7 +2,7 @@
 
 L'office est doté d'un conseil de direction qui comprend, outre son président, dix-neuf membres :
 
-Neuf personnalités représentant la production, la transformation, la coopération et le commerce des produits agricoles des départements d'outre-mer, nommées, sur proposition des organisations professionnelles représentatives, conjointement par le ministre chargé des départements d'outre-mer et le ministre chargé de l'agriculture. La représentation des producteurs sera majoritaire ;
+Neuf personnalités représentant la production, la transformation, la coopération et le commerce des produits agricoles des départements et collectivités territoriales d'outre-mer, nommées conjointement par le ministre chargé des départements et collectivités territoriales d'outre-mer et le ministre chargé de l'agriculture, sur proposition des organisations professionnelles représentatives après avis des préfets concernés. La représentation des producteurs doit être majoritaire ;
 
 Trois personnalités professionnelles dont au moins deux représentants de la production, nommées par le ministre chargé de l'agriculture parmi les représentants professionnels siégeant dans les conseils de direction des offices d'intervention par produit ;
 
@@ -17,3 +17,5 @@ Un représentant du ministre chargé des départements d'outre-mer désigné par
 Un représentant du ministre chargé de l'économie et des finances désigné par ce ministre ;
 
 Un représentant du ministre chargé du budget désigné par ce ministre.
+
+Les membres susénumérés du conseil de direction peuvent se faire représenter par un autre membre. Un membre ne peut représenter qu'un seul de ses collègues.

@@ -14,6 +14,6 @@ c) De veiller à la bonne liaison avec les offices d'intervention par produits ;
 
 d) De contrôler l'exécution des interventions décidées.
 
-Le conseil de direction est régulièrement informé, par le ministre chargé de l'agriculture et par le ministre chargé des départements d'outre-mer, des travaux de la politique de la Communauté économique européenne à l'égard des départements d'outre-mer.
+Le conseil de direction est régulièrement informé par le ministre chargé de l'agriculture et par le ministre chargé des départements et collectivités territoriales d'outre-mer de la politique de la Communauté européenne à l'égard des départements et des collectivités territoriales d'outre-mer.
 
 Il est consulté sur les programmes d'activité et les budgets des organismes mentionnés à l'article 7 de la loi du 6 octobre 1982 susvisée.
