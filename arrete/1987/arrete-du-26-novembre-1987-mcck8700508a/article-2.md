@@ -18,6 +18,6 @@ Sont membres de la commission :
 
 - deux représentants des exploitants de services de télévision à vocation nationale diffusés en clair par voie hertzienne terrestre autres que ceux assurés par les sociétés nationales de programme ;
 
-- un représentant des exploitants de réseaux distribuant des services de télévision par câble ;
+- un représentant des services de télévision distribués sur les réseaux câblés visés à l'article 34-1 de la loi du 30 septembre 1986 ;
 
 - un représentant des exploitants de services de télévision comportant des programmes soumis à des conditions d'accès particulières et financés par un abonnement propre au service.
