@@ -1,15 +1,3 @@
 # Article 12
 
-Les souscriptions pourront être libérées soit en numéraire, soit par chèque ou virement [*mode de paiement*]. Elles devront être acquittées au comptant en un seul ou deux versements, selon les modalités indiquées à l'article 3 ci-dessus, et seront reçues aux caisses désignées ci-après [*lieu de souscription*] :
-
-Banque de France (siège social, succursales et bureaux auxiliaires) ;
-
-Banques et tous intermédiaires agréés par la Banque de France ;    Caisse des dépôts et consignations ;
-
-Caisse nationale de crédit agricole ;
-
-Comptables du Trésor ;
-
-Comptables des postes et télécommunications ;
-
-Caisses d'épargne.
+En outre, une note est attribuée par la commission à chaque candidat au vu de son dossier. Cette note tient compte des aptitudes et des services rendus par les candidats ainsi que de leur participation à la formation professionnelle et des titres et diplômes qu'ils ont obtenus. Elle est affectée du coefficient 2.

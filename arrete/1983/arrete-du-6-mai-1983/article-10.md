@@ -1,5 +1,3 @@
 # Article 10
 
-Les titres définitifs seront délivrés à partir du 12 septembre 1983 [*date*] pour les obligations entièrement libérées lors de la souscription et après le versement du solde du prix d'émission pour les obligations partiellement libérées lors de la souscription.
-
-Les obligations pourront être demandées sous la forme au porteur ou sous la forme nominative, au choix des souscripteurs.
+L'examen sur épreuves professionnelles prévu à l'article 5 ci-dessus comprend deux épreuves exclusivement écrites qui portent sur les matières du programme figurant à l'annexe II du présent arrêté.

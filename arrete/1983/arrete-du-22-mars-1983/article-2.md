@@ -1,5 +1,3 @@
 # Article 2
 
-L'autorisation est donnée par le directeur régional du travail et de la protection sociale agricoles dans la circonscription duquel se trouve le lieu de travail habituel des salariés intéressés [*autorité compétente*].
-
-Le directeur régional du travail et de la protection sociale agricoles précise dans sa décision la date à partir de laquelle prendra effet l'autorisation ainsi que la durée de celle-ci. Il en adresse un double à la caisse de mutualité sociale agricole habilitée à procéder à la mise en recouvrement des cotisations [*formalités*].
+Pour déterminer les conditions et les modalités de règlement de ces remboursements de frais, il sera fait application des dispositions prévues à l'égard des personnels communaux par l'arrêté du 25 février 1982 susvisé.

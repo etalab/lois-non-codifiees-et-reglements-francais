@@ -1,3 +1,3 @@
 # Article 3
 
-Les employeurs doivent verser les cotisations d'assurances sociales et d'accidents du travail agricoles à la caisse de mutualité sociale agricole dans la circonscription de laquelle se trouve le domicile de leurs salariés lorsque ceux-ci exercent habituellement leur activité dans plusieurs départements et n'ont pas de lieu de travail fixe.
+Le directeur général des collectivités locales au ministère de l'intérieur et de la décentralisation et le directeur du budget au ministère de l'économie et des finances sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

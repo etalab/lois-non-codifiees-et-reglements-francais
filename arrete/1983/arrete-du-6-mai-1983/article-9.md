@@ -1,3 +1,3 @@
 # Article 9
 
-Au cas où la caisse centrale émettrait ultérieurement de nouvelles obligations entièrement assimilables aux présentes obligations, notamment quant au montant nominal, aux intérêts, à leur échéance, aux conditions et dates d'amortissement et aux garanties, elle pourrait unifier, pour l'ensemble de ces obligations, les opérations d'amortissement qui porteront ainsi, sans aucune distinction, sur les titres des émissions successives.
+Les épreuves ont lieu dans un ou plusieurs centres d'examen désignés en fonction des propositions reçues au ministère de l'intérieur. Les épreuves, identiques pour tous les centres, sont passées le même jour, à la même heure, les sujets étant adressés sous plis cachetés au commissaire de la République du département dans lequel fonctionne le centre d'examen.

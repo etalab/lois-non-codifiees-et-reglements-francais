@@ -1,4 +1,4 @@
-# Arrêté du 6 mai 1983Prix d'achat des alcools de betterave et de mélasse du contingent pour la campagne 1982-1983.
+# Arrêté du 6 mai 1983 fixant les conditions d'avancement des lieutenants professionnels de sapeurs-pompiers aux emplois de lieutenant chef de section principal et de lieutenant chef de section
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -12,3 +12,8 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
+- [Article 13](article-13.md)
+- [Article 14](article-14.md)
+- [Article 15](article-15.md)
+- [Annexes](annexes)
+- [Article Execution](article-execution.md)

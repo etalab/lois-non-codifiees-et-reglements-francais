@@ -1,3 +1,3 @@
 # Article 1
 
-Le prix d'achat de l'alcool rectifié extra-neutre de betterave de la campagne 1982-1983, tel qu'il est normalement établi dans la limite des droits individuels reconnus à chaque usine, fera l'objet d'une réfaction moyenne de 3,70 p. 100 [*taux*], tenant compte de l'incidence des quantités d'alcool de betterave produites et libérées au-delà des quantités livrées à la régie commerciale au titre du contingent réglementaire.
+Nul ne peut être nommé lieutenant chef de section principal ou lieutenant chef de section s'il n'a été inscrit sur la liste d'aptitude prévue aux articles R. 353-43 et R. 353-44 du code des communes.
