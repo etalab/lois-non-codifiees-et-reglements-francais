@@ -1,6 +1,6 @@
 # Article 11
 
-Les contrôleurs d'Etat, nommés depuis au moins un an, peuvent être placés en service détaché ou en position hors cadre dans les conditions fixées par le statut général des fonctionnaires.
+Les contrôleurs d'Etat, nommés depuis au moins un an, peuvent être placés en service détaché ou en position hors cadre ou de disponibilité ou mis à disposition dans les conditions fixées par le statut général des fonctionnaires.
 
 Le nombre des contrôleurs d'Etat susceptibles d'être placés dans ces positions ne doit pas excéder le tiers de l'effectif budgétaire du corps.
 

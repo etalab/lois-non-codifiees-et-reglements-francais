@@ -20,4 +20,8 @@ Peuvent être nommés contrôleurs d'Etat de 2e classe s'ils justifient de dix a
 
 9° Les administrateurs de l'institut national de la statistique et des études économiques appartenant au moins à la 1re classe de leur grade ;
 
-10° Les autres fonctionnaires des services mentionnés au 1° ci-dessus, titulaires d'un grade ou d'un emploi dont l'indice brut terminal de rémunération est au moins égal à la hors-échelle.
+10° Les autres fonctionnaires des services mentionnés au 1° ci-dessus, titulaires d'un grade ou d'un emploi dont l'indice brut terminal de rémunération est au moins égal à la hors-échelle ;
+
+11° Les fonctionnaires exerçant ou ayant exercé les fonctions de directeur, chef de service, directeur adjoint, sous-directeur d'administration centrale et ayant assumé des responsabilités dans le domaine économique et financier ;
+
+12° Les membres des autres corps recrutés par la voie de l'Ecole nationale d'administration titulaires d'un grade ou d'un emploi dont l'indice brut terminal de rémunération est au moins égal à la hors-échelle A et ayant assumé des responsabilités dans le domaine économique et financier.
