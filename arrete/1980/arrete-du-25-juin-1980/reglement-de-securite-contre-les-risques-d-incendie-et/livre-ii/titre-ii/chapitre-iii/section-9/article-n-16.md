@@ -10,7 +10,7 @@ Moyens d'extinction
 
 et par des extincteurs appropriés aux risques particuliers.
 
-§ 2. Une installation de RIA DN 20 mm peut exceptionnellement être demandée par la commission de sécurité :
+§ 2. Une installation de RIA DN 19/6 peut exceptionnellement être demandée par la commission de sécurité :
 
 - soit dans les établissements situés dans des zones d'accès particulièrement difficile ou défavorable ;
 

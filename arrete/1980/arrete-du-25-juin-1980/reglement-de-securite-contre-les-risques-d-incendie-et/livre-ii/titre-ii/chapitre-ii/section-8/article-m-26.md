@@ -10,7 +10,7 @@ a) Etablissements dont la superficie des locaux de vente (arrêté du 10 juillet
 
 - par des extincteurs appropriés aux risques particuliers ;
 
-- par des robinets d'incendie armés de DN 20 mm ou DN 40 mm. Leur nombre et leurs emplacements doivent être déterminés de façon que toute la surface des locaux puisse être efficacement atteinte par deux jets de lance ;
+- par des robinets d'incendie armés de DN 19/6 ou 25/8. Leur nombre et leurs emplacements doivent être déterminés de façon que toute la surface des locaux puisse être efficacement atteinte par deux jets de lance ;
 
 - par une installation fixe d'extinction automatique à eau.
 
