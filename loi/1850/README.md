@@ -1,3 +1,3 @@
 # 1850
 
-- [Loi du 4 février 1850](loi-du-4-fevrier-1850)
+- [Loi du 15 mars 1850](loi-du-15-mars-1850)
