@@ -1,3 +1,3 @@
 # Article 2
 
-Le taux de la taxe parafiscale visée à l'article 1er du présent arrêté est fixé à 0,11 p. 100 à compter du 1er janvier 1988 et jusqu'au 31 décembre 1988.
+Sous réserve de l'observation des dispositions des articles 212 et 217 du code des marchés publics, les agents de l'Etat désignés à l'article 1er exercent les pouvoirs, droit et obligation conférés à la personne responsable ou à l'administration par le code des marchés publics ou découlant des clauses contractuelles régissant le marché. Ils signent les décomptes définitifs [*attributions*].

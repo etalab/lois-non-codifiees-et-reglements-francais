@@ -1,0 +1,3 @@
+# Article 1
+
+Les magistrats hors hiérarchie du siège et du parquet de la Cour de cassation, lorsqu'ils atteignent la limite d'âge fixée par l'alinéa 1er de l'article 76 de l'ordonnance n° 58-1270 du 22 décembre 1958 portant loi organique relative au statut de la magistrature et, à titre transitoire, par l'article 2 de la loi organique n° 84-833 du 13 septembre 1984 relative à la limite d'âge des magistrats hors hiérarchie de la Cour de cassation, sont, sur leur demande, maintenus en activité, en surnombre, jusqu'à ce qu'ils atteignent la limite d'âge qui était en vigueur avant l'intervention de la loi organique n° 84-833 du 13 septembre 1984 précitée pour exercer respectivement les fonctions de conseiller et d'avocat général à la Cour de cassation.

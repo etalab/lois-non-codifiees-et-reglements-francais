@@ -1,3 +1,3 @@
 # Article 3
 
-Les destinataires de ces informations sont les agents du secrétariat du bureau précité chargés d'élaborer les dossiers présentés aux membres du bureau lors de chaque séance de celui-ci.
+Le délégué à l'emploi est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française, ainsi que le modèle de convention qui lui est annexé.

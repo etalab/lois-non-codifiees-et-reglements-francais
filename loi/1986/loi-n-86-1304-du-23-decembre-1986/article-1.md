@@ -1,0 +1,3 @@
+# Article 1
+
+Les membres du Conseil d'Etat, les magistrats de la Cour des comptes et les membres de l'inspection générale des finances, lorsqu'ils atteignent l'âge limite résultant de la loi n° 84-834 du 13 septembre 1984 relative à la limite d'âge dans la fonction publique et le secteur public, sont, sur leur demande, maintenus en activité, en surnombre, jusqu'à ce qu'ils atteignent la limite d'âge qui était en vigueur avant l'intervention de la loi n° 84-834 du 13 septembre 1984 précitée pour exercer respectivement les fonctions de conseiller d'Etat, de conseiller maître à la Cour des comptes ou, s'ils n'ont pas atteint ce dernier grade, celles de conseiller référendaire et d'inspecteur général des finances.
