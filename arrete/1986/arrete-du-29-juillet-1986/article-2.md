@@ -1,3 +1,3 @@
 # Article 2
 
-La superficie ou la longueur de chaque terrain servant d'assiette à la taxe est celle qui figure aux fichiers tenus par le quartier des affaires maritimes dans le ressort duquel il se situe.
+Le directeur du Trésor est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
