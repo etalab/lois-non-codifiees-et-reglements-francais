@@ -31,3 +31,7 @@ Diplôme d'Etat de masseur-kinésithérapeute.
 Certificat de capacité d'aide-orthoptiste.
 
 Titre d'ancien élève de l'école militaire interarmes de Coëtquidan, admis aux examens de sortie.
+
+Diplôme d'Etat de laborantin d'analyses médicales.
+
+Diplôme d'Etat de manipulateur d'électroradiologie.
