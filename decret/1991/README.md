@@ -42,7 +42,6 @@
 - [Décret n°91-860 du 2 septembre 1991 (INTX9110241D)](decret-n91-860-du-2-septembre-1991-intx9110241d)
 - [Décret n°91-861 du 2 septembre 1991 (INTX9110242D)](decret-n91-861-du-2-septembre-1991-intx9110242d)
 - [Décret n°91-862 du 2 septembre 1991 (INTX9110243D)](decret-n91-862-du-2-septembre-1991-intx9110243d)
-- [Décret n°92-1109 du 2 octobre 1992 (DEFP9201939D)](decret-n92-1109-du-2-octobre-1992-defp9201939d)
 - [Décret n°92-1119 du 2 octobre 1992 (INTA9200433D)](decret-n92-1119-du-2-octobre-1992-inta9200433d)
 - [Décret n°92-5 du 2 janvier 1992 (SANH9102699D)](decret-n92-5-du-2-janvier-1992-sanh9102699d)
 - [Décret du 3 avril 1991 (ENVN9161927D)](decret-du-3-avril-1991-envn9161927d)
