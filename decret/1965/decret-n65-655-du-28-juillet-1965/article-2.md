@@ -1,5 +1,0 @@
-# Article 2
-
-Les bureaux régionaux de fret assurent l'information des professionnels et des usagers du transport routier, sur les besoins et les ressources, sur le trafic et sur les prix pratiqués. Ils enregistrent et rapprochent les offres et les demandes qui leur sont présentés pour des transports au départ d'une localité de leur circonscription et enregistrent les contrats librement conclus en conséquence de ce rapprochement. Ils sont les correspondants des autres bureaux régionaux de fret.
-
-Ils peuvent, avec l'accord et sous l'autorité du centre national mentionné à l'article 7 ci-après, participer à l'étude et à la réalisation des centres routiers qui ont pour objet l'amélioration de la productivité des transports routiers de marchandises notamment par des installations permettant le stationnement, l'entretien et l'approvisionnement des véhicules, l'accueil et l'hébergement des transporteurs et de leurs agents, l'implantation des bureaux régionaux de fret, des professionnels du transport, ainsi que des organismes professionnels ou publics susceptibles de faciliter l'organisation et le fonctionnement des transports routiers de marchandises.
