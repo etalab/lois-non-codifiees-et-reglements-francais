@@ -30,6 +30,7 @@
 - [Loi n° 92-1017 du 24 septembre 1992 (MAEX9200086L)](loi-n-92-1017-du-24-septembre-1992-maex9200086l)
 - [Loi n° 92-108 du 3 février 1992 (INTX9100157L)](loi-n-92-108-du-3-fevrier-1992-intx9100157l)
 - [Loi n° 92-11 du 4 janvier 1992 (JUSX9100166L)](loi-n-92-11-du-4-janvier-1992-jusx9100166l)
+- [Loi n° 92-1179 du 2 novembre 1992 (ECOX9250046L)](loi-n-92-1179-du-2-novembre-1992-ecox9250046l)
 - [Loi n° 92-125 du 6 février 1992 (INTX9000102L)](loi-n-92-125-du-6-fevrier-1992-intx9000102l)
 - [Loi n° 92-190 du 26 février 1992 (INTX9100178L)](loi-n-92-190-du-26-fevrier-1992-intx9100178l)
 - [Loi n° 92-3 du 3 janvier 1992 (ENVX9100061L)](loi-n-92-3-du-3-janvier-1992-envx9100061l)
