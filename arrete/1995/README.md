@@ -489,7 +489,6 @@
 - [Arrêté du 11 septembre 1991 (AGRB9101548A)](arrete-du-11-septembre-1991-agrb9101548a)
 - [Arrêté du 11 septembre 1995 (DEFC9501871A)](arrete-du-11-septembre-1995-defc9501871a)
 - [Arrêté du 11 septembre 1995 (DEFC9501872A)](arrete-du-11-septembre-1995-defc9501872a)
-- [Arrêté du 11 septembre 1995 (DEFT9502004A)](arrete-du-11-septembre-1995-deft9502004a)
 - [Arrêté du 11 septembre 1995 (ECOD9570010A)](arrete-du-11-septembre-1995-ecod9570010a)
 - [Arrêté du 11 septembre 1995 (ECOT9594365A)](arrete-du-11-septembre-1995-ecot9594365a)
 - [Arrêté du 11 septembre 1995 (ILEA9502737A)](arrete-du-11-septembre-1995-ilea9502737a)
