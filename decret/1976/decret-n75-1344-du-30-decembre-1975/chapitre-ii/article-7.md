@@ -6,9 +6,13 @@ En application de l'article L. 761-10 du code de la santé publique et sous rés
 
 2° Sur déclaration préalable, pour une absence n'excédant pas deux mois :
 
-Soit par un directeur ou directeur adjoint du même laboratoire ou d'un autre laboratoire comportant plusieurs directeurs ou directeurs adjoints ;
+soit par un directeur ou directeur adjoint du même laboratoire ou d'un autre laboratoire ; le remplacement par le directeur d'un autre laboratoire ne comportant pas plusieurs directeurs ou directeurs adjoints ne peut être effectué qu'aux conditions suivantes :
 
-Soit par toute autre personne remplissant les conditions requises pour exercer les fonctions de directeur ou directeur adjoint d'un laboratoire d'analyses de biologie médicale.
+a) La distance entre les deux laboratoires concernés ne doit pas excéder 10 kilomètres ;
+
+b) Le temps d'activité consacré au remplacement ne doit pas excéder un mi-temps ;.
+
+soit par toute autre personne remplissant les conditions requises pour exercer les fonctions de directeur ou directeur adjoint d'un laboratoire d'analyses de biologie médicale.
 
 En cas d'impossibilité de faire assurer le remplacement dans les conditions ainsi prévues, ce remplacement peut être effectué par un médecin ou un étudiant en médecine autorisé dans les conditions fixées à l'article L. 359 du code de la santé publique, un pharmacien ou un vétérinaire, à la condition que le remplaçant soit titulaire d'au moins deux des certificats mentionnés à l'article 2 ou de la dispense prévue à l'article 3.
 
