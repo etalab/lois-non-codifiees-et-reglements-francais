@@ -2,13 +2,13 @@
 
 I. - Les oeuvres appartenant au genre Documentaire de création sont réparties en cinq groupes :
 
-- premier groupe : oeuvres d'une durée inférieure à cinq heures pour lesquelles l'apport horaire du ou des diffuseurs est supérieur ou égal à 0,5 million de francs et est constitué par au moins 0,2 million de francs d'apport horaire en numéraire ;
+- premier groupe : oeuvres d'une durée inférieure à cinq heures pour lesquelles l'apport horaire du ou des diffuseurs est supérieur ou égal à 76 300 euros et est constitué par au moins 30 500 euros d'apport horaire en numéraire ;
 
-- deuxième groupe : oeuvres d'une durée inférieure à cinq heures pour lesquelles l'apport horaire du ou des diffuseurs est supérieur ou égal à 0,5 million de francs et est constitué par un apport horaire en numéraire inférieur à 0,2 million de francs ;
+- deuxième groupe : oeuvres d'une durée inférieure à cinq heures pour lesquelles l'apport horaire du ou des diffuseurs est supérieur ou égal à 76 300 euros et est constitué par un apport horaire en numéraire inférieur à 30 500 euros ;
 
-- troisième groupe : oeuvres d'une durée inférieure à cinq heures pour lesquelles l'apport horaire du ou des diffuseurs est inférieur à 0,5 million de francs et supérieur ou égal à 0,3 million de francs ;
+- troisième groupe : oeuvres d'une durée inférieure à cinq heures pour lesquelles l'apport horaire du ou des diffuseurs est inférieur à 76 300 euros et supérieur ou égal à 45 800 euros ;
 
-- quatrième groupe : oeuvres d'une durée inférieure à cinq heures pour lesquelles l'apport horaire du ou des diffuseurs est inférieur à 0,3 million de francs ;
+- quatrième groupe : oeuvres d'une durée inférieure à cinq heures pour lesquelles l'apport horaire du ou des diffuseurs est inférieur à 45 800 euros ;
 
 - cinquième groupe : oeuvres d'une durée supérieure à cinq heures.
 

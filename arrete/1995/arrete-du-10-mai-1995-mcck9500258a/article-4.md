@@ -2,9 +2,9 @@
 
 I. - Les oeuvres appartenant au genre animation sont réparties en deux groupes :
 
-- premier groupe: oeuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 1,4 million de francs ;
+- premier groupe: oeuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 213 500 euros ;
 
-- deuxième groupe: oeuvres dont le montant des dépenses horaires françaises est inférieur à 1,4 million de francs et supérieur à 0,6 million de francs.
+- deuxième groupe: oeuvres dont le montant des dépenses horaires françaises est inférieur à 1,4 million de francs et supérieur à 91 500 euros.
 
 II. - Les coefficients appliqués à la durée des oeuvres appartenant au genre Animation sont les suivants :
 

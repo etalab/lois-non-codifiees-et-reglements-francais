@@ -2,11 +2,11 @@
 
 I. - Les oeuvres appartenant au genre Recréation de spectacles vivants sont réparties en trois groupes :
 
-- premier groupe : oeuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 3 millions de francs ;
+- premier groupe : oeuvres dont le montant des dépenses horaires françaises est supérieur ou égal à 460 000 euros;
 
-- deuxième groupe : oeuvres dont le montant des dépenses horaires françaises est inférieur à 3 millions de francs et supérieur ou égal à 1,4 million de francs ;
+- deuxième groupe : oeuvres dont le montant des dépenses horaires françaises est inférieur à 460 000 euros et supérieur ou égal à 213 500 euros ;
 
-- troisième groupe : oeuvres dont le montant des dépenses horaires françaises est inférieur à 1,4 million de francs et supérieur ou égal à 0,5 million de francs.
+- troisième groupe : oeuvres dont le montant des dépenses horaires françaises est inférieur à 213 500 euros et supérieur ou égal à 76 300 euros.
 
 II. - Les coefficients appliqués à la durée des oeuvres appartenant au genre recréation de spectacles vivants sont les suivants :
 
