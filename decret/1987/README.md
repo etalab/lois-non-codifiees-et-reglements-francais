@@ -282,6 +282,8 @@
 - [Décret n°88-381 du 20 avril 1988 (TRSA8800187D)](decret-n88-381-du-20-avril-1988-trsa8800187d)
 - [Décret n°87-337 du 20 mai 1987](decret-n87-337-du-20-mai-1987)
 - [Décret n°87-1024 du 21 décembre 1987 (MAEJ8730061D)](decret-n87-1024-du-21-decembre-1987-maej8730061d)
+- [Décret n°87-1031 du 21 décembre 1987 (JUSE8740044D)](decret-n87-1031-du-21-decembre-1987-juse8740044d)
+- [Décret n°87-1032 du 21 décembre 1987 (MAEJ8730059D)](decret-n87-1032-du-21-decembre-1987-maej8730059d)
 - [Décret n°87-281 du 21 avril 1987 (MAEJ8730020D)](decret-n87-281-du-21-avril-1987-maej8730020d)
 - [Décret n°87-287 du 21 avril 1987](decret-n87-287-du-21-avril-1987)
 - [Décret n°87-288 du 21 avril 1987 (MAEJ8730022D)](decret-n87-288-du-21-avril-1987-maej8730022d)

@@ -607,6 +607,7 @@
 - [Arrêté du 24 mars 1987 (REST8700109A)](arrete-du-24-mars-1987-rest8700109a)
 - [Arrêté du 24 novembre 1987 (AGRE8702089A)](arrete-du-24-novembre-1987-agre8702089a)
 - [Arrêté du 24 novembre 1987 (DEFP8701846A)](arrete-du-24-novembre-1987-defp8701846a)
+- [Arrêté du 24 novembre 1987 (ENVN8700239A)](arrete-du-24-novembre-1987-envn8700239a)
 - [Arrêté du 24 novembre 1987 (INDG8700785A)](arrete-du-24-novembre-1987-indg8700785a)
 - [Arrêté du 24 septembre 1987 (BUDD8750000A)](arrete-du-24-septembre-1987-budd8750000a)
 - [Arrêté du 24 septembre 1987 (PTTC8700663A)](arrete-du-24-septembre-1987-pttc8700663a)
