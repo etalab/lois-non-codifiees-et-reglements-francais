@@ -6,8 +6,8 @@ La sous-direction du contentieux comprend :
 
 - le bureau du contentieux de la fonction militaire ;
 
-- le bureau de la réglementation et de la comptabilité des dommages ;
+- le bureau du contentieux contractuel et domanial ;
 
-- le bureau des dommages de l'armée de terre ;
+- le bureau du contentieux indemnitaire ;
 
 - le bureau des dommages généraux.
