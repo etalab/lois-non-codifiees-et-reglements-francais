@@ -1,3 +1,3 @@
 # Article 44
 
-Les formulaires à utiliser pour l'application des dispositions des articles 38 à 43 sont établis par le Centre national de la fonction publique territoriale, qui les met gratuitement à la disposition des intéressés.
+Les formulaires utilisés par les centres de gestion pour l'application des articles 38 à 42 sont établis par eux en accord avec le Centre national de la fonction publique territoriale. "

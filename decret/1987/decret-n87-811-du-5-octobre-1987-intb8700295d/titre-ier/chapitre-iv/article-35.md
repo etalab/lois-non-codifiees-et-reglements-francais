@@ -1,3 +1,5 @@
 # Article 35
 
-Les dispositions de l'article 22 sont applicables aux conseils d'orientation placés auprès des délégués.
+Les mandats de membre du conseil d'orientation sont renouvelables.
+
+Lorsqu'un membre titulaire n'est pas en mesure de participer à une séance du conseil d'orientation, il peut être remplacé par l'un de ses suppléants.
