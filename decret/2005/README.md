@@ -76,6 +76,7 @@
 - [Décret n°2005-1025 du 24 août 2005 (DEVG0530072D)](decret-n2005-1025-du-24-aout-2005-devg0530072d)
 - [Décret n°2005-177 du 25 février 2005 (MENF0500076D)](decret-n2005-177-du-25-fevrier-2005-menf0500076d)
 - [Décret n°2006-1303 du 25 octobre 2006 (EQUA0601770D)](decret-n2006-1303-du-25-octobre-2006-equa0601770d)
+- [Décret n°95-979 du 25 août 1995 (PRMG9570441D)](decret-n95-979-du-25-aout-1995-prmg9570441d)
 - [Décret n°2004-1307 du 26 novembre 2004 (FPPA0400099D)](decret-n2004-1307-du-26-novembre-2004-fppa0400099d)
 - [Décret n°2005-581 du 26 mai 2005 (MJSK0570086D)](decret-n2005-581-du-26-mai-2005-mjsk0570086d)
 - [Décret n°2005-1691 du 27 décembre 2005 (DOMA0500021D)](decret-n2005-1691-du-27-decembre-2005-doma0500021d)
