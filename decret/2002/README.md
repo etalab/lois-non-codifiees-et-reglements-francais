@@ -30,6 +30,7 @@
 - [Décret n°2002-1120 du 2 septembre 2002 (BUDF0200003D)](decret-n2002-1120-du-2-septembre-2002-budf0200003d)
 - [Décret n°2002-1121 du 2 septembre 2002 (BUDF0200002D)](decret-n2002-1121-du-2-septembre-2002-budf0200002d)
 - [Décret n°2002-1122 du 2 septembre 2002 (SANH0221836D)](decret-n2002-1122-du-2-septembre-2002-sanh0221836d)
+- [Décret n°2002-1125 du 2 septembre 2002 (SANP0222419D)](decret-n2002-1125-du-2-septembre-2002-sanp0222419d)
 - [Décret n°2002-1230 du 2 octobre 2002 (MENX0200125D)](decret-n2002-1230-du-2-octobre-2002-menx0200125d)
 - [Décret n°2002-1232 du 2 octobre 2002 (SANG0222366D)](decret-n2002-1232-du-2-octobre-2002-sang0222366d)
 - [Décret n°2002-440 du 2 avril 2002 (ECOF0220148D)](decret-n2002-440-du-2-avril-2002-ecof0220148d)
