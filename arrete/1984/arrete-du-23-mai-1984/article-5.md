@@ -1,3 +1,3 @@
 # Article 5
 
-Les prix résultant des dispositions des articles 3 et 4 sont arrondis aux cinq centimes les plus proches.
+Le droit d'accès prévu par l'article 34 de la loi n° 78-17 du 6 janvier 1978 s'exerce auprès des directions et services régionaux de l'I.N.S.E.E.

@@ -1,4 +1,4 @@
-# Arrêté du 23 mai 1984 relatif aux prix des prestations vendues par les débits de boissons
+# Arrêté du 23 mai 1984 relatif à la définition de l'échantillon démographique permanent de l'I.N.S.E.E. et des dispositions prises pour assurer la sécurité des traitements.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

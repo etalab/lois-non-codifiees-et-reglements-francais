@@ -1,3 +1,3 @@
 # Article 6
 
-Les prix et conditions de vente des prestations nouvellement rendues sont soumis à la procédure d'homologation définie à l'article 4 de l'arrêté n° 82-96/A du 22 octobre 1982 relative aux prix de tous les services.
+Outre les dispositions usuelles prises par l'I.N.S.E.E. pour assurer la sécurité des traitements automatisés qu'il effectue et des informations qu'il détient, les dossiers de l'échantillon démographique permanent font l'objet d'un stockage spécifique dont la responsabilité est confiée dans chaque direction ou service régional à un fonctionnaire du cadre A nominativement désigné.
