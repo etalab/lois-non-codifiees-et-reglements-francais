@@ -1,10 +1,9 @@
-# Arrêté du 26 juin 1974 réglementant les conditions d'hygiène relatives à la préparation, la conservation, la distribution et la vente des plats cuisinés à l'avance
+# Arrêté du 26 juin 1974 réglementant les conditions hygiéniques de congélation, de conservation et de décongélation des denrées animales et d'origine animale
 
-- [Chapitre I : Dispositions relatives à l'aménagement et à l'équipement en matériel des cuisines et ateliers de fabrication de plats cuisinés à l'avance et à l'hygiène du personnel.](chapitre-i)
+- [Article 1](article-1.md)
+- [Titre Ier : Dispositions relatives à la congélation des denrées.](titre-ier)
 - [Article 2](article-2.md)
-- [Chapitre II : Dispositions relatives à l'utilisation et à l'entretien des cuisines et ateliers de fabrication de plats cuisinés à l'avance et de leur matériel.](chapitre-ii)
-- [Chapitre III : Dispositions relatives à la préparation et à l'utilisation des plats cuisinés à l'avance conservés par la chaleur.](chapitre-iii)
-- [Chapitre IV : Dispositions relatives à la préparation et à l'utilisation des plats cuisinés à l'avance conservés par un procédé de réfrigération, de congélation ou de surgélation.](chapitre-iv)
-- [Chapitre V : Conditions sanitaires.](chapitre-v)
-- [Article 39](article-39.md)
-- [Annexes](annexes)
+- [Titre II : Dispositions relatives à l'entreposage et à la distribution.](titre-ii)
+- [Article 3](article-3.md)
+- [Titre III : Dispositions relatives à l'utilisation industrielle de denrées congelées - Ateliers de découpe et de transformation, industries alimentaires.](titre-iii)
+- [Titre IV : Dispositions relatives à la décongélation des denrées.](titre-iv)
