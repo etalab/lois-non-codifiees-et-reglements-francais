@@ -64,6 +64,7 @@
 - [Décret n°74-67 du 23 janvier 1974](decret-n74-67-du-23-janvier-1974)
 - [Décret n°74-797 du 23 septembre 1974](decret-n74-797-du-23-septembre-1974)
 - [Décret n°74-798 du 23 septembre 1974](decret-n74-798-du-23-septembre-1974)
+- [Décret n°74-804 du 23 septembre 1974](decret-n74-804-du-23-septembre-1974)
 - [Décret n°75-887 du 23 septembre 1975](decret-n75-887-du-23-septembre-1975)
 - [Décret n°75-888 du 23 septembre 1975](decret-n75-888-du-23-septembre-1975)
 - [Décret n°73-1225 du 24 décembre 1973](decret-n73-1225-du-24-decembre-1973)
