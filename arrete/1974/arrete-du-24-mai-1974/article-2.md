@@ -8,7 +8,7 @@ Le directeur général de la caisse des dépôts et consignations ou son représ
 
 Le directeur du budget au ministère de l'économie et des finances ou son représentant ;
 
-Le directeur des affaires administratives, juridiques et contentieuses au ministère des armées ou son représentant ;
+Le directeur des affaires juridiques au ministère des armées ou son représentant ;
 
 Un médecin des armées désigné par le ministre des armées ;
 
