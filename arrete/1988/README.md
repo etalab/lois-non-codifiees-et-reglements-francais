@@ -634,7 +634,6 @@
 - [Arrêté du 29 avril 1988 (RESK8800540A)](arrete-du-29-avril-1988-resk8800540a)
 - [Arrêté du 29 avril 1988 (RESK8800541A)](arrete-du-29-avril-1988-resk8800541a)
 - [Arrêté du 29 décembre 1987 (AGRG8800113A)](arrete-du-29-decembre-1987-agrg8800113a)
-- [Arrêté du 29 décembre 1987 (ASEA8800070A)](arrete-du-29-decembre-1987-asea8800070a)
 - [Arrêté du 29 décembre 1987 (ASES8701888A)](arrete-du-29-decembre-1987-ases8701888a)
 - [Arrêté du 29 décembre 1987 (ASES8800059A)](arrete-du-29-decembre-1987-ases8800059a)
 - [Arrêté du 29 décembre 1988 (SPSS8801954A)](arrete-du-29-decembre-1988-spss8801954a)
