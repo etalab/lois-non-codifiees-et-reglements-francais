@@ -1,4 +1,8 @@
-# Loi du 18 août 1936 concernant les mises à la retraite par ancienneté.
+# Loi du 18 août 1936 portant abrogation de la loi du 12 février 1924 et réprimant les atteintes au crédit de la nation.
 
+- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
