@@ -1,6 +1,6 @@
 # Article 1
 
-L'introduction, l'importation, l'exportation, l'expédition ou la commercialisation sur le territoire français :
+L'introduction ou l'importation sur le territoire français, l'exportation ou l'expédition :
 
 - de tout ou partie du crâne, y compris l'encéphale et les yeux, et de la moelle épinière des bovins âgés de plus de douze mois ;
 
@@ -22,6 +22,6 @@ L'introduction, l'importation, l'exportation, l'expédition ou la commercialisat
 
 - de gélatine issue pour tout ou partie d'os de ruminants ;
 
-- de la colonne vertébrale, à l'exclusion des vertèbres caudales, des apophyses transverses des vertèbres lombaires et thoraciques et des ailes du sacrum, mais y compris les ganglions rachidiens,
+- de la colonne vertébrale, à l'exclusion des vertèbres caudales, des apophyses transverses des vertèbres lombaires et thoraciques et des ailes du sacrum, mais y compris les ganglions rachidiens, des bovins âgés de douze mois et plus,
 
-ou de carcasses, viandes ou produits en contenant, destinés à l'alimentation humaine, sont interdits.
+ou de carcasses, viandes ou produits en contenant, destinés à l'alimentation humaine, sont interdites.
