@@ -467,7 +467,6 @@
 - [Arrêté du 26 décembre 1989 (PRME8961554A)](arrete-du-26-decembre-1989-prme8961554a)
 - [Arrêté du 26 décembre 1989 (SPSP8902772A)](arrete-du-26-decembre-1989-spsp8902772a)
 - [Arrêté du 26 juin 1989 (INTD8900320A)](arrete-du-26-juin-1989-intd8900320a)
-- [Arrêté du 26 octobre 1990 (SPSH9002063A)](arrete-du-26-octobre-1990-spsh9002063a)
 - [Arrêté du 26 septembre 1989 (REZY8900341A)](arrete-du-26-septembre-1989-rezy8900341a)
 - [Arrêté du 26 mai 1989 (AGRE8901012A)](arrete-du-26-mai-1989-agre8901012a)
 - [Arrêté du 27 décembre 1988 (AGRE8802293A)](arrete-du-27-decembre-1988-agre8802293a)
