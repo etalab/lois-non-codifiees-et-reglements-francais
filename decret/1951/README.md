@@ -13,6 +13,7 @@
 - [Décret n°51-406 du 10 avril 1951](decret-n51-406-du-10-avril-1951)
 - [Décret n°51-1185 du 11 octobre 1951](decret-n51-1185-du-11-octobre-1951)
 - [Décret n°51-540 du 11 mai 1951](decret-n51-540-du-11-mai-1951)
+- [Décret n°51-1445 du 12 décembre 1951](decret-n51-1445-du-12-decembre-1951)
 - [Décret n°69-599 du 13 juin 1969](decret-n69-599-du-13-juin-1969)
 - [Décret n°51-1312 du 16 novembre 1951](decret-n51-1312-du-16-novembre-1951)
 - [Décret n°51-1318 du 16 novembre 1951](decret-n51-1318-du-16-novembre-1951)
