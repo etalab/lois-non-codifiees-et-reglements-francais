@@ -1,3 +1,7 @@
 # Article 6
 
-Sont abrogées les dispositions des articles 4 bis, 5 et 5 ter de l'arrêté susvisé du 6 janvier 1962, ainsi que les dispositions de l'article 5 bis de cet arrêté relatives aux auxiliaires des laboratoires d'analyses médicales.
+Le carnet de stage mentionnant les nom et prénoms du candidat est transmis à la fin du stage au directeur des affaires sanitaires et sociales.
+
+Seuls peuvent se présenter à l'examen pratique devant le jury les candidats qui justifient d'une note de stage égale ou supérieure à 50.
+
+En cas d'échec, le directeur des affaires sanitaires et sociales peut autoriser l'intéressé à recommencer le stage dans la limite d'une fois.

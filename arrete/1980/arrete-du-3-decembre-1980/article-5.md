@@ -1,3 +1,3 @@
 # Article 5
 
-L'attestation de capacité pour une ou plusieurs catégories d'actes est délivrée de plein droit, sur leur demande, aux personnes mentionnées à l'article 1er du décret susvisé du 3 décembre 1980 qui justifient de la possession du ou des certificats de capacité correspondant à ces actes et délivrée dans les conditions prévues par la réglementation en vigueur à la date de publication du décret susvisé du 3 décembre 1980.
+Le moniteur de stage tient pour chaque candidat un carnet de stage sur lequel sont portés les dates des séances auxquelles le candidat a participé, le nombre de prélèvements qu'il a effectués et la note donnée aux prélèvements effectués, chacun des quarante prélèvements étant noté de 0 à 2.
