@@ -58,7 +58,7 @@ En conséquence, compte tenu des places des prisons fermées qui devront être r
 
 3. Mettre en oeuvre une nouvelle politique pénale
 
-Pour prévenir la récidive, la politique pénale ne peut pas être uniquement fondée sur la mise en détention.
+Pour prévenir la récidive, la politique pénale ne peut pas être uniquement fondée sur la mise en détention et le placement sous surveillance électronique doit pouvoir être substitué à la détention.
 
 La détention provisoire doit être l'exception.
 
