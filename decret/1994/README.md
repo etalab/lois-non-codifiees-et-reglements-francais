@@ -650,7 +650,6 @@
 - [Décret n°94-1008 du 22 novembre 1994 (SPSP9403344D)](decret-n94-1008-du-22-novembre-1994-spsp9403344d)
 - [Décret n°94-1009 du 22 novembre 1994 (SPSS9403033D)](decret-n94-1009-du-22-novembre-1994-spss9403033d)
 - [Décret n°94-1116 du 22 décembre 1994 (SPSH9402645D)](decret-n94-1116-du-22-decembre-1994-spsh9402645d)
-- [Décret n°94-1120 du 22 décembre 1994 (JUSX9400518D)](decret-n94-1120-du-22-decembre-1994-jusx9400518d)
 - [Décret n°94-1121 du 22 décembre 1994 (MAEF9410049D)](decret-n94-1121-du-22-decembre-1994-maef9410049d)
 - [Décret n°94-1142 du 22 décembre 1994 (INDX9400145D)](decret-n94-1142-du-22-decembre-1994-indx9400145d)
 - [Décret n°94-1161 du 22 décembre 1994 (RESR9401476D)](decret-n94-1161-du-22-decembre-1994-resr9401476d)
