@@ -2,7 +2,7 @@
 
 ADMINISTRATION CENTRALE ET SERVICES DECONCENTRES COMMUNS
 
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
+FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
 Accueil standard.
 
@@ -32,6 +32,12 @@ Agent chargé de l'organisation des instances de concertation et du suivi des re
 
 Agent responsable des commissions administratives paritaires et du suivi des décisions.
 
+Agent chargé du secrétariat de la Commission nationale d'inscription et Chambre nationale de discipline des commissaires aux comptes ;
+
+Agent chargé du suivi des dossiers de négociation en matière pénale droit européen et international ;
+
+Agent chargé de la préparation et de l'organisation de la commission de secours.
+
 Agent chargé de l'élaboration, de la conception et du suivi des marchés informatiques.
 
 Agent chargé du contrôle ou de l'exécution des marchés informatiques.
@@ -44,7 +50,7 @@ Responsable d'une cellule financière ou comptable.
 
 DIRECTION DE L'ADMINISTRATION PÉNITENTIAIRE
 
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
+FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
 Référent technique à l'administration centrale ;
 
@@ -58,13 +64,9 @@ Chef d'unité à l'Ecole nationale d'administration pénitentiaire ;
 
 Chef d'unité à la mission outre-mer ;
 
-Directeur de probation dans les comités de probation et d'assistance aux libérés ;
-
-Responsable de service socio-éducatif en milieu fermé ;
-
 Responsable d'un service de logistique à Fresnes, Fleury, la Santé et les Baumettes ;
 
-Responsable des services administratifs dans les établissements autonomes ;
+Responsable des services administratifs dans les établisements autonomes ;
 
 Chef de service administratif ou technique dans les établissements autonomes ;
 
@@ -84,11 +86,13 @@ Technicien chargé de maintenance ;
 
 Technicien chef de cuisine.
 
-La catégorie gestionnaire unique est supprimée à compter du 1er août 1996.
+Adjoint au directeur des services pénitentiaires d'insertion et de probation ;
+
+Référent technique à l'administration centrale.
 
 SERVICES JUDICIAIRES
 
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire (1)
+FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE (1)
 
 Greffier en chef, chef de greffe.
 
@@ -111,6 +115,8 @@ Sous-directeur de la formation initiale et de la recherche à l'Ecole nationale 
 Sous-directeur de la formation permanente à l'Ecole nationale des greffes.
 
 Secrétaire général adjoint à l'Ecole nationale des greffes.
+
+Régisseur d'avances et de recettes dont le montant de l'avance est supérieur à 400 000 F.
 
 Régisseur d'avances et de recettes dont le montant de la régie est supérieur à 400 000 F.
 
@@ -146,6 +152,10 @@ Moniteur Ecole nationale des greffes.
 
 Greffier en chef, coordonnateur du service administratif régional de la cour d'appel.
 
+Responsable de la gestion budgétaire adjoint ;
+
+Adjoint et agent administratifs placés.
+
 (1) Les fonctions exercées par des greffiers en chef nommés sur des emplois du premier grade et classés dans les 1re et 2e catégories ne sont pas bonifiées.
 
 PROTECTION JUDICIAIRE DE LA JEUNESSE (services déconcentrés)
@@ -164,19 +174,13 @@ Directeur responsable d'un département et d'un centre d'action éducative ou fo
 
 Correspondant informatique.
 
-Responsable national de l'insertion économique.
-
 Responsable Informatique national.
 
 Agent autre que directeur chargé de la direction d'un établissement ou d'un service.
 
-Educateur volant.
-
 Agent technique d'éducation exerçant dans des établissements non pourvus d'un logement de fonction occupé par un directeur ou un éducateur.
 
 Accueil secrétariat ;
-
-Référent technique régional ;
 
 Directeur de foyer dans un département-ville ;
 
@@ -184,19 +188,21 @@ Chef de service éducatif et éducateur dans les foyers des départements-ville 
 
 Personnels de catégorie C dans les foyers des départements-ville.
 
-Directeur de formation au Centre national de formation des éducateurs ;
-
 Responsable national référents techniques ;
 
 Correspondant informatique régional.
 
-Chef de service éducatif, professeur technique mis à disposition des unités à encadrement éducatif renforcé ;
+Directeur responsable de formation ou d'études au Centre national de formation et d'études ;
 
-Educateurs, agent technique d'éducation mis à disposition des unités à encadrement éducatif renforcé.
+Educateur remplaçant ;
+
+Personnel de service social chargé des fonctions de référent technique régional ;
+
+Agent exerçant ses fonctions dans un centre éducatif renforcé.
 
 GRANDE CHANCELLERIE DE LA LÉGION D'HONNEUR
 
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
+FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
 Chef du bureau chargé de la gestion informatisée des membres des ordres nationaux.
 
@@ -258,7 +264,7 @@ Responsable de la gestion et du suivi du compte courant de la grande chancelleri
 
 MAISONS D'ÉDUCATION DE LA LÉGION D'HONNEUR
 
-Fonction exercée pouvant ouvrir droit au versement d'une nouvelle bonification indiciaire
+FONCTION EXERCEE POUVANT OUVRIR DROIT AU VERSEMENT D'UNE NOUVELLE BONIFICATION INDICIAIRE
 
 Agent chef des agents d'entretien.
 
