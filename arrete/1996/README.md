@@ -833,7 +833,6 @@
 - [Arrêté du 21 juin 1996 (BUDF9600023A)](arrete-du-21-juin-1996-budf9600023a)
 - [Arrêté du 21 juin 1996 (DEFT9601593A)](arrete-du-21-juin-1996-deft9601593a)
 - [Arrêté du 21 juin 1996 (ENVE9650228A)](arrete-du-21-juin-1996-enve9650228a)
-- [Arrêté du 21 juin 1996 (EQUK9600825A)](arrete-du-21-juin-1996-equk9600825a)
 - [Arrêté du 21 juin 1996 (FCEC9600002A)](arrete-du-21-juin-1996-fcec9600002a)
 - [Arrêté du 21 juin 1996 (INDB9600460A)](arrete-du-21-juin-1996-indb9600460a)
 - [Arrêté du 21 juin 1996 (MENE9601847A)](arrete-du-21-juin-1996-mene9601847a)
