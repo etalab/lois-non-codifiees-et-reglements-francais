@@ -256,7 +256,6 @@
 - [Arrêté du 12 décembre 1988 (SPSS8801807A)](arrete-du-12-decembre-1988-spss8801807a)
 - [Arrêté du 12 février 1988 (BUDR8803027A)](arrete-du-12-fevrier-1988-budr8803027a)
 - [Arrêté du 12 février 1988 (MCLB8800105A)](arrete-du-12-fevrier-1988-mclb8800105a)
-- [Arrêté du 12 janvier 1988 (ASEE8803009A)](arrete-du-12-janvier-1988-asee8803009a)
 - [Arrêté du 12 janvier 1988 (ENVN8700281A)](arrete-du-12-janvier-1988-envn8700281a)
 - [Arrêté du 12 janvier 1988 (EQUC8800062A)](arrete-du-12-janvier-1988-equc8800062a)
 - [Arrêté du 12 juillet 1988 (ECOC8800073A)](arrete-du-12-juillet-1988-ecoc8800073a)
