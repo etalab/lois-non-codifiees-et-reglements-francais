@@ -1,6 +1,6 @@
 # Article 37
 
-La présente loi, à l'exception des articles 24, 35 et du I de l'article 36, est applicable à la collectivité territoriale de Mayotte et au territoire des Terres australes et antarctiques françaises.
+La présente loi, à l'exception de l'article 24, et du I de l'article 36, est applicable à la collectivité territoriale de Mayotte et au territoire des Terres australes et antarctiques françaises.
 
 Pour son application dans la collectivité territoriale de Mayotte et dans le territoire des Terres australes et antarctiques françaises, à l'article 10, les mots : "ou de dation au sens de la loi n° 68-1251 du 31 décembre 1968 tendant à favoriser la conservation du patrimoine artistique national" sont supprimés.
 
