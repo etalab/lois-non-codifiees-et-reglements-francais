@@ -1,5 +1,6 @@
 # 1944
 
+- [Loi du 16 juin 1944](loi-du-16-juin-1944)
 - [Loi du 18 janvier 1944](loi-du-18-janvier-1944)
 - [Loi du 22 mai 1944](loi-du-22-mai-1944)
 - [Loi du 23 novembre 1943](loi-du-23-novembre-1943)
