@@ -1,11 +1,11 @@
 # Article 1
 
-Les dispositions de l'article 16 du décret susvisé du 31 octobre 1973 sont applicables aux établissements suivants :
+Les dispositions des articles 15 et 16 du décret susvisé du 31 octobre 1973 sont applicables aux bâtiments civils de l'Etat relevant du secrétariat d'Etat auprès du ministère de l'équipement et de l'aménagement du territoire (Transports, secrétariat général de la marine marchande) suivants :
 
-Hôtel du ministre du travail, 127, rue de Grenelle, Paris (7e) ;
+- directions des affaires maritimes ;
 
-Immeubles occupés par le cabinet du secrétaire d'Etat auprès du ministre du travail et par l'administration centrale du ministère du travail ;
+- quartiers des affaires maritimes ;
 
-Directions régionales et départementales du travail et de la main-d'oeuvre ;
+- écoles nationales de la marine marchande.
 
-Inspections du travail.
+Ces dispositions s'appliquent également aux immeubles mis à la disposition de l'association pour la gérance d'écoles d'apprentissage maritime par l'Etat, les collectivités locales ou les associations régies par la loi du 1er juillet 1901.

@@ -1,3 +1,3 @@
 # Article 5
 
-Le préfet du département établit annuellement, sur proposition du chef du centre régional de l'agence, la liste nominative des agents chargés de suivre l'application des dispositions réglementaires dans chacun de ces établissements pendant l'exploitation.
+L'inspecteur général des établissements administratifs et scolaires de la marine marchande établit annuellement la liste nominative des fonctionnaires chargés de suivre l'application des dispositions réglementaires dans chacun de ces établissements pendant l'exploitation et la communique au préfet de chaque département intéressé.
