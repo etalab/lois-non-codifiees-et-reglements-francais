@@ -1,6 +1,6 @@
 # Article 6
 
-I. - L'entreprise détermine mensuellement le montant de l'aide donnant lieu à déduction, augmenté le cas échéant des majorations, auquel elle a droit pour chaque salarié. Ce montant est égal à un douzième du montant annuel de l'aide applicable à la convention, arrondi au franc immédiatement supérieur.
+I. - L'entreprise détermine mensuellement le montant de l'aide donnant lieu à déduction, augmenté le cas échéant des majorations, auquel elle a droit pour chaque salarié. Ce montant est égal à un douzième du montant annuel de l'aide applicable à la convention, arrondi à l'euro immédiatement supérieur.
 
 Pour les salariés à temps partiel ouvrant droit au bénéfice de l'aide, le montant de l'aide ainsi déterminé est réduit au prorata du nombre d'heures inscrit au contrat de travail des intéressés rapporté à l'horaire collectif conventionnel.
 

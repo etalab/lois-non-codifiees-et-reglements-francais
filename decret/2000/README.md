@@ -681,6 +681,7 @@
 - [Décret n°2000-483 du 30 mai 2000 (DEFP0001492D)](decret-n2000-483-du-30-mai-2000-defp0001492d)
 - [Décret n°2000-484 du 30 mai 2000 (EQUM0000038D)](decret-n2000-484-du-30-mai-2000-equm0000038d)
 - [Décret du 31 juillet 2000 (ECOC0000035D)](decret-du-31-juillet-2000-ecoc0000035d)
+- [Décret n° 2000-84 du 31 janvier 2000 (MESC0010122D)](decret-n-2000-84-du-31-janvier-2000-mesc0010122d)
 - [Décret n°2000-1070 du 31 octobre 2000 (ECOC9900197D)](decret-n2000-1070-du-31-octobre-2000-ecoc9900197d)
 - [Décret n°2000-1071 du 31 octobre 2000 (INTB0000292D)](decret-n2000-1071-du-31-octobre-2000-intb0000292d)
 - [Décret n°2000-1073 du 31 octobre 2000 (EQUX0000124D)](decret-n2000-1073-du-31-octobre-2000-equx0000124d)

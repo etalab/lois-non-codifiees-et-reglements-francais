@@ -2,9 +2,9 @@
 
 Lorsque la durée de travail prévue par le contrat est au moins égale à la durée légale prévue à l'article L. 212-1 du code du travail, ou à l'article 992 du code rural, ou à celle fixée conventionnellement par la branche ou l'entreprise, le montant de l'aide forfaitaire versée à l'employeur par l'Etat en application du 1° du cinquième alinéa de l'article L. 322-4-2 du code du travail est fixé comme suit :
 
-1° Il est égal à 1 000 F si la personne embauchée a été inscrite comme demandeur d'emploi pendant au moins vingt-quatre mois durant les trente-six derniers mois ;
+1° Il est égal à 153 euros si la personne embauchée a été inscrite comme demandeur d'emploi pendant au moins vingt-quatre mois durant les trente-six derniers mois ;
 
-2° Il est porté à 2 000 F si la personne appartient à l'une des catégories visées ci-après :
+2° Il est porté à 306 euros si la personne appartient à l'une des catégories visées ci-après :
 
 a) Personnes inscrites comme demandeurs d'emploi depuis plus de trois ans ;
 

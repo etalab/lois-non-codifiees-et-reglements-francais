@@ -1,6 +1,6 @@
 # Article 3
 
-Les contrats mentionnés à l'article 1er du présent décret ouvrent droit à une aide supplémentaire d'un montant de 10 000 F versée à l'issue du contrat si les deux conditions suivantes sont simultanément remplies :
+Les contrats mentionnés à l'article 1er du présent décret ouvrent droit à une aide supplémentaire d'un montant de 1 525 euros versée à l'issue du contrat si les deux conditions suivantes sont simultanément remplies :
 
 a) La personne embauchée a été inscrite comme demandeur d'emploi pendant au moins vingt-quatre mois durant les trente-six derniers mois précédant l'embauche ;
 
