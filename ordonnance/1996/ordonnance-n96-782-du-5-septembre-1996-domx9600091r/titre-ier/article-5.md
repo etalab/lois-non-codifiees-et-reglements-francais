@@ -8,4 +8,4 @@ La hiérarchie des grades dans chaque cadre de fonctionnaires, le nombre d'éche
 
 Chaque cadre de fonctionnaires donne vocation à occuper des emplois comprenant l'exercice d'un certain nombre de missions, énumérées dans le statut particulier.
 
-Le statut particulier des agents chargés des missions de la justice musulmane peut comporter des dérogations à certaines dispositions du statut général nécessaires à l'exercice de ces missions.
+Le statut particulier des fonctionnaires chargés des missions de la justice musulmane peut comporter des dérogations à certaines dispositions du statut général nécessaires à l'exercice de ces missions.
