@@ -4,7 +4,7 @@ INFORMATIONS REQUISES POUR L'INSCRIPTION DU TITRE PROFESSIONNEL AU RÉPERTOIRE N
 
 Intitulé :
 
-Titre professionnel de conducteur de pelle hydraulique, chargeuse pelleteuse.
+Titre professionnel : conducteur(trice) de pelle hydraulique et de chargeuse pelleteuse.
 
 Niveau : V.
 
@@ -12,41 +12,35 @@ Code NSF : 230 u.
 
 Résumé du référentiel d'emploi
 
-Le conducteur de pelle hydraulique, chargeuse pelleteuse maîtrise la conduite de deux engins principaux qui sont la pelle hydraulique et la chargeuse pelleteuse ou tractopelle. Il doit également être capable de conduire, selon les besoins de l'entreprise, un ou plusieurs engins de servitude, tels que le tombereau ou le compacteur.
+Le (la) conducteur(trice) de pelle hydraulique et de chargeuse pelleteuse effectue, sous les directives du chef de chantier, des travaux d'extraction et de terrassement, le chargement des engins de transport de matériaux, l'ouverture de tous types de tranchées, la pose de canalisations et les blindages de tranchées, le dressage de plates-formes et de talus ainsi que la réalisation d'enrochements. Il (elle) est seul(e) sur son engin, mais son activité est intégrée au sein d'une équipe composée de conducteurs de différents engins et d'ouvriers à pied.
 
-Il réalise les travaux d'extraction et de terrassement, le chargement des engins de transport de matériaux, l'ouverture de tous types de tranchées, la pose de canalisations et les blindages de tranchées, le dressage de plates-formes et de talus, et la réalisation d'enrochements. Il intervient dans l'aménagement et les finitions des abords de chantiers et espaces verts, et effectue certains travaux plus complexes à l'aide d'équipements spéciaux (équipements de démolition, brise roche hydraulique, etc.).
+Polyvalent(e) sur la conduite des deux engins principaux que sont la pelle hydraulique et la chargeuse pelleteuse ou tractopelle, il (elle) doit également être capable de conduire, selon les besoins de l'entreprise, un engin de transport tel que le tombereau ou la décapeuse.
 
-Il est seul sur son engin, mais son activité est intégrée au sein d'une équipe composée de conducteurs de différents engins et d'ouvriers à pied. Bien qu'il travaille sous les directives du chef de chantier, il possède toujours un degré d'autonomie et de responsabilité important dans l'exécution des tâches qui lui sont confiées.
+Il (elle) possède un degré d'autonomie et de responsabilité important dans l'exécution des tâches qui lui sont confiées. Attentif(ive) à son environnement de travail, il (elle) doit organiser les zones d'évolution des engins de transport de matériaux. Il (elle) veille à la sécurité des personnes dans la zone d'évolution de sa machine et intègre l'ensemble des contraintes d'environnement, de sécurité, de qualité et de rendement afférentes au chantier. Il (elle) doit tenir compte des contraintes liées à la nature des sols, aux ouvrages rencontrés et aux conditions météorologiques.
 
-C'est lui qui, généralement, donne la cadence du chantier. Il doit être très attentif à son environnement de travail et organise les zones d'évolution des engins de transport de matériaux (tombereaux, camions). Il doit veiller à la sécurité des personnes travaillant dans la zone d'évolution de sa machine et intégrer, d'une part, l'ensemble des contraintes d'environnement, de sécurité, de qualité et de rendement afférentes au chantier, ainsi que les contraintes naturelles liées aux sols, aux ouvrages rencontrés et aux conditions météorologiques.
+Il (elle) a la responsabilité du bon fonctionnement de son engin dont il (elle) effectue un contrôle quotidien et peut, suivant le type d'entreprise, en assurer la maintenance de premier niveau, dans le respect du carnet d'entretien et des consignes de sécurité.
 
-Il a la responsabilité du bon fonctionnement de son engin dont il effectue un contrôle quotidien et peut, suivant le type d'entreprise, assurer la maintenance de premier niveau. Il doit rapporter au chef de chantier ou au responsable d'atelier toute anomalie ou usure anormale qu'il détecte.
+Selon la localisation des chantiers, le (la) conducteur(trice) de pelle hydraulique et de chargeuse pelleteuse peut être amené(e) à se déplacer et à travailler en fonction des horaires adaptés à l'organisation du chantier. Il (elle) est soumis(e) au bruit, aux vibrations, à la chaleur et à la poussière.
 
-Selon la localisation des chantiers, le conducteur de pelle hydraulique ou de chargeuse pelleteuse peut travailler  en déplacement , et, suivant la spécificité du chantier, avoir des horaires de travail adaptés. Le conducteur de chargeuse pelleteuse peut être amené à réaliser le transfert de son engin d'un site à l'autre, sur remorque ou par la route.
+Le (la) conducteur(trice) de pelle hydraulique et de chargeuse pelleteuse doit être titulaire, pour chaque engin, d'une autorisation de conduite délivrée par son employeur.
 
-Ce métier est particulièrement réglementé. Le conducteur de pelle hydraulique, chargeuse pelleteuse doit être titulaire, pour chaque engin conduit, d'une autorisation de conduite délivrée pour l'employeur.
+Capacités attestées et descriptif des composantes de la certification
 
-Capacités attestées et descriptif
+1. Conduire une pelle hydraulique
 
-des composantes de la certification
+Conduire en sécurité une pelle hydraulique.
 
-On distingue les activités en production et les activités en transport d'accompagnement. Pour l'obtention du titre, le candidat doit avoir acquis les compétences correspondant à trois activités en production et trois activités en transport et accompagnement.
+Effectuer les opérations de prise et de fin de poste sur une pelle hydraulique et assurer les opérations d'entretien et de contrôle quotidien ou périodique de premier niveau.
 
-A. - Activités en production
-
-1. Conduire une pelle hydraulique en chantiers traditionnels
-
-Effectuer les opérations de prise et de fin de poste sur une pelle hydraulique, assurer les opérations d'entretien et de contrôle quotidien ou périodique de premier niveau.
-
-Mettre en place un dispositif de signalisation et de balisage sur un chantier travaux publics.
+Mettre en place un dispositif de signalisation et de balisage sur un chantier de travaux publics.
 
 Implanter ou contrôler les travaux réalisés avec le matériel de mesure ou de topographie.
 
-Réaliser une fouille en tranchée à la pelle hydraulique en chantiers traditionnels.
+Réaliser une fouille en tranchée à la pelle hydraulique.
 
 Creuser un fossé à la pelle hydraulique avec un godet trapézoïdal et un godet de curage.
 
-Terrasser un ouvrage à la pelle hydraulique et charger les engins de transport en chantiers traditionnels.
+Terrasser un ouvrage à la pelle hydraulique et charger les engins de transport.
 
 Régler une surface à la pelle hydraulique avec un godet de curage.
 
@@ -62,43 +56,17 @@ Démolir des ouvrages à la pelle hydraulique avec des équipements adaptés (br
 
 Charger et décharger une pelle hydraulique, participer à l'arrimage et au transfert de l'engin.
 
-2. Conduire une pelle hydraulique en grands travaux
+2. Conduire une chargeuse pelleteuse
 
-Effectuer les opérations de prise et de fin de poste sur une pelle hydraulique, assurer les opérations d'entretien et de contrôle quotidien ou périodique de premier niveau.
+Conduire en sécurité une chargeuse pelleteuse.
 
-Implanter ou contrôler les travaux réalisés avec le matériel de mesure ou de topographie.
-
-Mettre en place un dispositif de signalisation et de balisage sur un chantier travaux publics.
-
-Réaliser une fouille en tranchée à la pelle hydraulique en chantiers traditionnels.
-
-Creuser un fossé à la pelle hydraulique avec un godet trapézoïdal et un godet de curage.
-
-Terrasser un ouvrage à la pelle hydraulique et charger les engins de transport en grands travaux de terrassement.
-
-Extraire et charger des matériaux avec l'équipement butte de la pelle hydraulique.
-
-Régler une surface à la pelle hydraulique avec un godet de curage.
-
-Manutentionner et mettre en place des blindages de fouilles avec une pelle hydraulique.
-
-Poser des canalisations et monter les ouvrages annexes avec une pelle hydraulique.
-
-Remblayer une fouille avec une pelle hydraulique.
-
-Démolir des ouvrages à la pelle hydraulique avec des équipements adaptés (brise roche, cisaille hydraulique...).
-
-Charger et décharger un bouteur, participer à l'arrimage et au transfert de l'engin.
-
-3. Conduire une chargeuse pelleteuse
-
-Effectuer les opérations de prise et de fin de poste sur une chargeuse pelleteuse, assurer les opérations d'entretien et de contrôle quotidien ou périodique de premier niveau.
+Effectuer les opérations de prise et de fin de poste sur une chargeuse pelleteuse et assurer les opérations d'entretien et de contrôle quotidien ou périodique de premier niveau.
 
 Implanter ou contrôler les travaux réalisés avec le matériel de mesure ou de topographie.
 
-Mettre en place un dispositif de signalisation et de balisage sur un chantier travaux publics.
+Mettre en place un dispositif de signalisation et de balisage sur un chantier de travaux publics.
 
-Réaliser une fouille en tranchée à la chargeuse pelleteuse - (double niveau, double pente, etc.).
+Réaliser une fouille en tranchée à la chargeuse pelleteuse (double niveau, double pente...).
 
 Creuser un fossé à la chargeuse pelleteuse avec un godet trapézoïdal et un godet de curage.
 
@@ -112,55 +80,25 @@ Poser des canalisations et monter des ouvrages annexes avec une chargeuse pellet
 
 Remblayer une fouille avec une chargeuse pelleteuse.
 
-Démolir des ouvrages avec équipement adapté à la chargeuse pelleteuse.
+Démolir des ouvrages à la chargeuse pelleteuse avec des équipements adaptés.
 
 Charger et décharger une chargeuse pelleteuse, participer à l'arrimage et au transfert de l'engin.
 
-B. - Activités en transport et accompagnement
+3. Conduire un engin de transport de chantier
 
-4. Conduire un tombereau
+Conduire en sécurité un engin de transport de chantier.
 
-Effectuer les opérations de prise et de fin de poste sur un tombereau, assurer les opérations d'entretien et de contrôle quotidien ou périodique de premier niveau.
+Effectuer les opérations de prise et de fin de poste sur un engin de transport et assurer les opérations d'entretien et de contrôle quotidien ou périodique de premier niveau.
 
-Mettre en place un dispositif de signalisation et de balisage sur un chantier travaux publics.
+Mettre en place un dispositif de signalisation et de balisage sur un chantier de travaux publics.
 
-Transporter des matériaux avec un tombereau en respectant le plan de circulation du chantier.
+Transporter des matériaux avec un engin de transport en respectant le plan de circulation du chantier.
 
-Charger et décharger un tombereau, participer à l'arrimage et au transfert de l'engin.
+Mettre en dépôt ou régaler des matériaux transportés.
 
-5. Conduire une décapeuse
+Charger et décharger un engin de transport, participer à l'arrimage et au transfert de l'engin.
 
-Effectuer les opérations de prise et de fin de poste sur une décapeuse, assurer les opérations d'entretien et de contrôle quotidien ou périodique de premier niveau.
-
-Implanter ou contrôler les travaux réalisés avec le matériel de mesure ou de topographie.
-
-Effectuer les travaux préparatoires (décapage, etc.) avec une décapeuse.
-
-Réaliser un terrassement en grande masse : extraction et transport de matériaux.
-
-Régaler des matériaux avec une décapeuse.
-
-Mettre en place un dispositif de signalisation et de balisage sur un chantier travaux publics.
-
-Charger et décharger la décapeuse, participer à l'arrimage et au transfert de l'engin.
-
-6. Conduire un compacteur
-
-Effectuer les opérations de prise et de fin de poste sur un compacteur, assurer les opérations d'entretien et de contrôle quotidien ou périodique de premier niveau.
-
-Mettre en place un dispositif de signalisation et de balisage sur un chantier travaux publics.
-
-Implanter ou contrôler les travaux réalisés avec le matériel de mesure ou de topographie.
-
-Fermer des plates-formes de terrassement avec un compacteur.
-
-Compacter des couches de matériaux en respectant le plan de compactage et la nature des matériaux.
-
-Charger et décharger un compacteur, participer à l'arrimage et au transfert de l'engin.
-
-Secteurs d'activités ou types d'emploi
-
-accessibles par le détenteur du titre
+Secteurs d'activités ou types d'emploi accessibles par le détenteur du titre
 
 Les entreprises de travaux publics tous domaines (route, canalisations, génie civil, réseaux).
 
@@ -172,13 +110,13 @@ Direction départementale de l'équipement.
 
 Code ROME :
 
-43211 - Conducteur/conductrice d'engins de chantier du BTP, du génie civil et de l'exploitation des carrières.
+43211 - Conducteur(trice) d'engins de chantier du BTP, du génie civil et de l'exploitation des carrières.
 
 Réglementation de l'activité :
 
-Autorisation de conduite obligatoire délivrée par l'employeur conformément à l'arrêté du 2 décembre 1998.
+Autorisation de conduite, pour chacun des engins conduits, délivrée par l'employeur.
 
-Recommandation R. 372 M de la CNAM relative à la conduite d'engins de chantier (certificat d'aptitude à la conduite d'engins en sécurité). La possession du titre professionnel dispense du certificat d'aptitude à la conduite d'engins en sécurité.
+Il est recommandé de posséder le CACES (certificat d'aptitude à la conduite d'engins en sécurité) des catégories 2, 4 et 8 de la recommandation R 372 M de la CNAM.
 
 Autorité responsable de la certification :
 

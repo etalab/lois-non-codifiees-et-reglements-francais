@@ -1,6 +1,6 @@
 # Article 1
 
-Le titre professionnel de conducteur de pelle hydraulique, chargeuse pelleteuse est créé.
+Le titre professionnel de conducteur de pelle hydraulique et de chargeuse pelleteuse est créé.
 
 Il est délivré dans les conditions prévues par l'arrêté du 25 novembre 2002 susvisé.
 
