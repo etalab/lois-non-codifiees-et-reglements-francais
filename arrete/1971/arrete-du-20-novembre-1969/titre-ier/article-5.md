@@ -8,8 +8,8 @@ Les dispositions des arrêtés d'application ci-après leur sont également appl
 
 Arrêté du 12 novembre 1963 relatif aux fumées produites par les véhicules automobiles ;
 
-Arrêté du 25 octobre 1962 relatif à la mesure du bruit produit par les véhicules automobiles ;
+Arrêté du 2 août 1951 relatif à l'homologation des vitres des pare-brise des véhicules automobiles
 
-Arrêté du 2 août 1951 relatif à l'homologation des vitres des pare-brise des véhicules automobiles.
+Arrêté du 13 avril 1972 relatif bruit des véhicules automobiles ;
 
 Pour l'application de ces arrêtés, les engins spéciaux de la catégorie A seront assimilés aux véhicules industriels et commerciaux de même poids total autorisé en charge ou de même poids total roulant.
