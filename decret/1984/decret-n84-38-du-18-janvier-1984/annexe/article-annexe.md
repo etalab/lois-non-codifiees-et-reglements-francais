@@ -40,7 +40,7 @@ Agence nationale pour l'amélioration des conditions de travail
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
 
-Emplois de catégorie A
+Emplois de catégorie A, B et C
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
