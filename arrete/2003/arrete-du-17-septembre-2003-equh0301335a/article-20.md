@@ -1,0 +1,5 @@
+# Article 20
+
+Les personnes dépositaires d'informations communiquées par les candidats dans le cadre de leurs demandes de validation des acquis de l'expérience, les référents et agents de l'Etat chargés de réaliser ou de détenir les bilans de compétences ainsi que les membres du jury national de validation des acquis de l'expérience sont tenus au secret professionnel en ce qui concerne les informations qu'ils détiennent à ce titre.
+
+Après que le jury a statué sur les demandes de validation des acquis de l'expérience présentées par les candidats, les documents d'ordre confidentiel joints aux dossiers des candidats sont détruits par la direction des affaires maritimes et des gens de mer (bureau de la vie des établissements et de la délivrance des titres), sauf demande écrite des candidats fondée sur la nécessité d'un suivi de leur situation. Dans cette hypothèse, ils ne pourront être conservés plus d'une année et seront ensuite détruits par la direction des affaires maritimes et des gens de mer.

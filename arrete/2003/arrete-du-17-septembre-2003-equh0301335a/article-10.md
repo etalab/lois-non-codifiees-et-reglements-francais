@@ -1,0 +1,3 @@
+# Article 10
+
+Les candidats disposent d'un délai de cinq ans à compter de la notification par le directeur régional des affaires maritimes de la décision du jury national de validation des acquis de l'expérience pour réaliser les formations complémentaires et le temps de navigation professionnelle maritime effective nécessaires et préalables à l'obtention des titres concernés. Passé ce délai, la validation partielle des acquis de l'expérience décidée par le jury devient caduque et les candidats doivent déposer un autre dossier s'ils souhaitent à nouveau bénéficier du dispositif de la validation des acquis de l'expérience.

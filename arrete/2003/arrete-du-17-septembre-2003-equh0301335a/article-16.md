@@ -1,0 +1,3 @@
+# Article 16
+
+Les dispenses aux conditions de qualification professionelle maritime concernant la formation approuvée sur simulateur radar et simulateur d'APRA (aides de pointage radar automatiques), le certificat de qualification avancée à la lutte contre l'incendie, ainsi que le brevet d'aptitude à l'exploitation des embarcations et radeaux de sauvetage (BAEERS) sont accordées sur décision du jury national, conformément aux dispositions de l'article 3 de l'arrêté du 26 mars 2003 susvisé. La décision du jury national donne lieu à l'établissement puis à la délivrance des attestations, certificats, diplômes, brevets inhérents à ces formations par l'autorité maritime compétente.
