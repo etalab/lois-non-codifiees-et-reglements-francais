@@ -135,6 +135,7 @@
 - [Arrêté du 20 décembre 1984](arrete-du-20-decembre-1984)
 - [Arrêté du 20 février 1985](arrete-du-20-fevrier-1985)
 - [Arrêté du 20 juin 1985](arrete-du-20-juin-1985)
+- [Arrêté du 20 novembre 1985](arrete-du-20-novembre-1985)
 - [Arrêté du 20 septembre 1985](arrete-du-20-septembre-1985)
 - [Arrêté du 20 mai 1985](arrete-du-20-mai-1985)
 - [Arrêté du 21 août 1985](arrete-du-21-aout-1985)

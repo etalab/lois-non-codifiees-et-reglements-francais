@@ -1,6 +1,8 @@
-# Article 2
+# Article 1
 
-Relèvent présentement de la compétence de cet organisme les fabrications suivantes :
+L'article 2 de l'arrêté du 11 octobre 1950 susvisé est remplacé par les dispositions suivantes :
+
+Art. 2 - Relèvent présentement de la compétence de cet organisme les fabrications suivantes :
 
 Catégorie 1 :
 
