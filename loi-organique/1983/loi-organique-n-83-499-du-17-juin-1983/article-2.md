@@ -10,4 +10,4 @@ Ne peuvent, en outre, être élus en cette qualité s'ils sont en fonction ou s'
 
 3. Les chefs de mission diplomatique et les chefs de poste consulaire, les chefs de missions militaires et des services civils placés auprès des ambassadeurs ou des consuls ainsi que leurs adjoints directs ;
 
-4. Le secrétaire général du Conseil supérieur des Français de l'étranger.
+4. Le secrétaire général de l'Assemblée des Français de l'étranger.
