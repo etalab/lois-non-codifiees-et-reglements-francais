@@ -2,7 +2,7 @@
 
 Le comité établit son règlement intérieur.
 
-Il se réunit trois fois par an [*périodicité*].
+Il se réunit deux fois par an.
 
 Il peut, en outre, être convoqué sur un ordre du jour déterminé par son président, soit de sa propre initiative, soit sur demande de la moitié au moins des membres du comité, soit sur demande du commissaire de la République de la région.
 
