@@ -1,6 +1,6 @@
 # Article 5
 
-Les demandes d'inscription sur les listes départementales d'aptitude aux fonctions de commissaire enquêteur sont adressées, avant le 1er septembre, accompagnées de toutes pièces justificatives, par lettre recommandée avec avis de réception postal à la préfecture du département dans lequel le postulant a sa résidence principale ou sa résidence administrative, s'il s'agit d'un fonctionnaire ou d'un agent public en activité.
+Les demandes d'inscription sur les listes départementales d'aptitude aux fonctions de commissaire enquêteur sont adressées, avant le 1er septembre, accompagnées de toutes pièces justificatives, par lettre recommandée avec avis de réception postal à la préfecture du département dans lequel le postulant a sa résidence principale ou sa résidence administrative, s'il s'agit d'un fonctionnaire ou d'un agent public en activité. Toutefois, pour l'établissement des listes d'aptitude qui seront arrêtées pour l'année civile 1999, les demandes devront être adressées avant le 15 octobre 1998.
 
 La demande est assortie de toutes précisions utiles, et notamment des renseignements suivants :
 
