@@ -67,3 +67,5 @@ La dissolution est prononcée par arrêté du représentant de l'Etat dans le d�
 Cet arrêté détermine, sous la réserve des droits des tiers, les conditions dans lesquelles le district est liquidé.
 
 La répartition des personnels concernés entre les communes membres est soumise, pour avis, aux commissions administratives paritaires compétentes. Elle ne peut donner lieu à un dégagement des cadres. Les personnels concernés sont nommés dans un emploi de même niveau et en tenant compte de leurs droits acquis. Les communes attributaires supportent les charges financières correspondantes.
+
+La compensation mentionnée au I versée aux établissements publics de coopération intercommunale à fiscalité propre existant en 1986 et faisant application, à compter de 2000, des dispositions du I de l'article 1609 nonies C du code général des impôts ou du II de l'article 1609 quinquies C du même code est égale au montant de la compensation versée l'année d'entrée en vigueur de ces dispositions, actualisée chaque année dans les conditions prévues au IV de l'article 6 de la loi de finances pour 1987 (n° 86-1317 du 30 décembre 1986).
