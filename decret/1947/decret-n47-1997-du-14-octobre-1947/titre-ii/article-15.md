@@ -1,0 +1,7 @@
+# Article 15
+
+Le conseil du fonds d'amortissement siège valablement lorsque la moitié de ses membres est présente.
+
+Les décisions sont prises à la majorité des membres présents ou représentés.
+
+En cas de partage des voix, la voix du président est prépondérante.

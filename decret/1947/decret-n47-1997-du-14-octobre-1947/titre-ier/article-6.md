@@ -1,0 +1,3 @@
+# Article 6
+
+Des décisions du conseil du fonds d'amortissements détermineront les règles suivant lesquelles seront établis les taux des participations compris entre 70 et 100 % en tenant compte notamment de l'utilité sociale et économique des travaux, des conditions techniques, de construction de réseaux, du financement des travaux par appel aux ressources locales ainsi que des simplifications administratives et financières, de l'atténuation ou de la suppression des disparités de tarifs, de l'organisation rationnelle de l'exécution de travaux, réalisés par la voie du groupement des collectivités.
