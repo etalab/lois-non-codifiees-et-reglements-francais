@@ -3,6 +3,7 @@
 - [Arrêté du 1 avril 1988 (BUDF8800003A)](arrete-du-1-avril-1988-budf8800003a)
 - [Arrêté du 1 décembre 1987 (EQUC8701067A)](arrete-du-1-decembre-1987-equc8701067a)
 - [Arrêté du 1 juin 1987 (ASET8703409A)](arrete-du-1-juin-1987-aset8703409a)
+- [Arrêté du 1 juin 1988 (ECOT8870015A)](arrete-du-1-juin-1988-ecot8870015a)
 - [Arrêté du 1 mars 1988 (INDA8800137A)](arrete-du-1-mars-1988-inda8800137a)
 - [Arrêté du 2 février 1988 (ASES8800200A)](arrete-du-2-fevrier-1988-ases8800200a)
 - [Arrêté du 2 février 1988 (ASES8800209A)](arrete-du-2-fevrier-1988-ases8800209a)
