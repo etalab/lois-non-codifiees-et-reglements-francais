@@ -1,3 +1,0 @@
-# CHAPITRE 4 : TRAVAILLEURS PRIVES D'EMPLOI *CHOMAGE*
-
-- [Article 55](article-55.md)
