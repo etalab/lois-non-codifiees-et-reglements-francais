@@ -1,13 +1,11 @@
 # Article 2
 
-Le commissaire est notamment chargé chargé, en liaison avec les collectivités locales intéressées :
+Dans le cadre de cette mission, le commissaire est chargé ;
 
-D'établir le programme technique et financier des opérations ainsi que l'avant-projet et le projet définitif du marché d'intêret national de la région parisienne, pour les soumettre à l'approbation des ministres intéressés ;
+- de procéder en liaison avec le service du domaine et avec les collectivités locales intéressées aux opérations de cession, d'échange ou de transfert des terrains acquis dans le cadre des décrets des 1er décembre 1961 et 3 décembre 1961 portant déclaration d'utilité publique d'opérations liées à l'aménagement du marché d'intérêt national de Rungis ;
 
-De procéder ou de faire procéder, en liaison avec le service des domaines, aux acquisitions, amiables ou par voie d'expropriation, des terrains ou droits réels immobiliers nécessaires à l'implantation des ouvrages ou de rendre disponibles lesdits terrains, et d'entreprendre sur ces terrains tous les travaux préparatoires qu'exige la construction du marché ;
+- d'assurer, en tant que de besoin, l'aménagement et la gestion desdits terrains ;
 
-De promouvoir, en liaison avec les ministres intéressés, la création d'une société d'économie mixte qui sera chargée de la construction et de l'exploitation du marché et le cas échéant d'entreprendre la construction des ouvrages en attendant la constitution de cette société  ;
+- de prendre toutes mesures permettant d'assurer la coordination des activités sur l'ensemble de la zone du marché d'intérêt national de la région parisienne, telle qu'elle est délimitée sur le plan annexé au présent décret (1).
 
-De prendre toutes mesures permettant d'assurer la coordination des études, des travaux et des activités de la gare routière de Rungis et du marché d'intérêt national de la région parisienne ;
-
-De prendre, avec l'approbation du ministère de l'intérieur et du secrétaire d'Etat au commerce intérieur, toutes mesures utiles au transfert des activités commerciales des Halles centrales de Paris sur le marché d'intêret national de la région parisienne.
+Le commissaire est consulté sur tout projet d'aménagement et sur tout projet d'implantation d'installations industrielles ou commerciales intéressant la zone précitée. Il s'assure que ces projets sont compatibles avec les activités du marchés d'intérêt national.
