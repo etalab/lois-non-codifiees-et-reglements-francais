@@ -1,0 +1,3 @@
+# Article 1
+
+Indépendamment des mesures prescrites par le titre II du livre II du Code du travail, ainsi que par les décrets et arrêtés relatifs à son exécution, les chefs des établissements visés par l'article 65 du livre II du Code du travail [*L231-1*], et notamment ceux du bâtiment et des travaux publics, dont le personnel effectue, même à titre occasionnel, des travaux de terrassement, de construction, d'installation, de démolition, d'entretien, de réfection, de nettoyage, toutes opérations annexes et tous autres travaux prévus par le présent décret, portant sur des immeubles par nature ou par destination, sont tenus de prendre les mesures spéciales de protection et de salubrité énoncées aux articles ci-après.
