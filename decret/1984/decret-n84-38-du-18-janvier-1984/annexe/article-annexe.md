@@ -36,6 +36,16 @@ Emplois des catégories A, B et C spécialisés dans l'insertion économique, pr
 
 ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
 
+Agence de maîtrise d'ouvrage des travaux du ministère de la justice
+
+EMPLOIS OU CATEGORIES D'EMPLOIS concernés
+
+Emplois de catégorie A nécessaires au montage, à la conduite, à l'expertise juridique et à l'audit de projets immobiliers
+
+Emplois de catégorie B pour l'assistance technique dans la conduite de projets immobiliers et pour l'assistance technique et la maintenance informatique de l'agence.
+
+ETABLISSEMENTS PUBLICS DE L'ETAT à caractère administratif
+
 Agence nationale pour l'amélioration des conditions de travail
 
 EMPLOIS OU CATEGORIES D'EMPLOIS concernés
