@@ -1,21 +1,13 @@
 # Article 2
 
-Le comité permanent de la garantie mutuelle de modernisation des exploitations agricoles comprend :
+Les dépenses prévues pour les bâtiments autres que d'habitation à l'article 3 (par. 2, a) du décret n° 73-193 du 13 février 1973, modifié par le décret n° 78-160 du 10 février 1978, ne peuvent être effectuées que :
 
-Le directeur du Trésor et le directeur du budget au ministère de l'économie et des finances ou leurs représentants ;
+1° Si ces bâtiments ont été acquis ou s'ils ont fait l'objet d'une déclaration d'achèvement des travaux avant le 1er janvier 1974 ;
 
-Le directeur général de l'administration et du financement et le directeur de l'aménagement rural et des structures au ministère de l'agriculture et du développement rural ou leurs représentants ;
+2° S'ils sont situés à l'intérieur ou en limite des zones I et II représentées :
 
-Le directeur général du centre national pour l'aménagement des structures des exploitations agricoles ou son représentant ;
+Pour l'aéroport de Roissy-Charles-de-Gaulle, sur le plan n°1 A annexé au présent arrêté (1) ;
 
-Le directeur général de la caisse nationale de crédit agricole ou son représentant ;
+Pour l'aéroport d'Orly, sur le plan n° 2 A annexé au présent arrêté (1).
 
-Le directeur des engagements de la caisse nationale de crédit agricole ou son représentant ;
-
-Trois représentants des caisses régionales de crédit agricole mutuel, désignés par le comité spécial du fonds commun de garantie ;
-
-Un représentant de la fédération nationale du crédit agricole ;
-
-Quatre représentants des organismes professionnels agricoles, désignés respectivement par l'assemblée permanente des chambres d'agriculture, la fédération nationale des syndicats d'exploitants agricoles, le centre national des jeunes agriculteurs et la confédération nationale de la mutualité, de la coopération et du crédit agricole ;
-
-Un représentant du fonds de solidarité des céréaliculteurs et des éleveurs.
+[*(1) Ces plans peuvent être consultés à l'Aéroport de Paris, 291, boulevard Raspail, 75014 Paris, et dans les préfectures de la Seine-Saint-Denis, du Val-d'Oise, de Seine-et-Marne, de l'Essonne et du Val-de-Marne*].
