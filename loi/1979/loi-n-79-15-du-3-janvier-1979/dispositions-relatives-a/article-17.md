@@ -1,16 +1,16 @@
 # Article 17
 
-Les départements reçoivent la dotation forfaitaire instituée par les articles L. 234-2 et L. 234-3 et la dotation de péréquation instituée par les articles L. 234-6 et L. 234-7 du code des communes.
+Les départements reçoivent [*bénéfice - recettes*] la dotation forfaitaire instituée par les articles L. 234-2 et L. 234-3 et la dotation de péréquation instituée par les articles L. 234-6 et L. 234-7 du code des communes.
 
-La base de calcul de la dotation forfaitaire est égale [*définition*] au produit de l'attribution de garantie reçue, en 1978, au titre du versement représentatif de la taxe sur les salaires, des recettes provenant de la répartition générale des ressources du fonds d'action locale et éventuellement de l'allocation compensatrice.
+La dotation forfaitaire et la dotation de péréquation des départements évoluent ensemble comme la dotation globale de fonctionnement mise en répartition, après déduction des sommes affectées à la dotation spéciale instituteurs, à la garantie de progression minimale et aux concours particuliers.
 
-Pour 1979, la première part de la dotation de péréquation, mentionnée au deuxième alinéa de l'article L. 234-7 du code des communes, est partagée entre l'ensemble des communes d'une part, l'ensemble des départements d'autre part, proportionnellement aux sommes qu'ils ont reçues, pour 1978, au titre du versement représentatif de la taxe sur les salaires, pour la part de l'attribution calculée en fonction des impôts énumérés à l'article L. 234-9.
+La dotation forfaitaire des départements est proportionnelle à la dotation forfaitaire de l'année précédente. Elle évolue, une fois effectuée la réduction de 2,5 points par an prévue à l'article L. 234-2 du code des communes, comme la dotation globale de fonctionnement mise en répartition, après les diminutions prévues à l'alinéa précédent.
+
+La première part de la dotation de péréquation, mentionnée aux deuxième alinéa de l'article L. 234-7 du code des communes est proportionnelle au montant de l'année précédente. Elle évolue, une fois effectuée la majoration de 2,5 points par an prévue audit article L. 234-7, comme la dotation de péréquation des départements.
 
 La dotation revenant à chaque département est égale à la dotation moyenne par habitant de l'ensemble des départements, corrigée, en plus ou en moins, d'un élément proportionnel à l'écart relatif entre le potentiel fiscal par habitant de chaque département et le potentiel fiscal moyen par habitant de l'ensemble des départements [*calcul - montant*].
 
-Pour les années ultérieures, les sommes affectées à l'ensemble des communes d'une part, à l'ensemble des départements d'autre part, évoluent comme le montant global des ressources affectées à la première part mentionnée au deuxième alinéa de l'article L. 234-7 du code des communes.
-
-Pour la répartition de la deuxième part de la dotation de péréquation mentionnée au septième alinéa de l'article L. 234-7 du code des communes, les impôts énumérés à l'article L. 234-9 ne sont retenus qu'à concurrence de la moitié.
+La deuxième part de la dotation de péréquation, mentionnée au septième alinéa de l'article L. 234-7 du code des communes, est calculée pour chaque département proportionnellement à la totalité des impôts énumérés à l'article L. 234-9.
 
 Les départements bénéficient d'une garantie de progression minimale dans les conditions prévues à l'article L. 234-19-1 du code des communes.
 
