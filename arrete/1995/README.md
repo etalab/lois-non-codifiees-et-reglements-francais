@@ -461,7 +461,6 @@
 - [Arrêté du 9 mai 1995 (MENL9500815A)](arrete-du-9-mai-1995-menl9500815a)
 - [Arrêté du 9 mai 1995 (MENL9500816A)](arrete-du-9-mai-1995-menl9500816a)
 - [Arrêté du 9 mai 1995 (MENL9500817A)](arrete-du-9-mai-1995-menl9500817a)
-- [Arrêté du 9 mai 1995 (MJSK9570050A)](arrete-du-9-mai-1995-mjsk9570050a)
 - [Arrêté du 9 mai 1995 (RESK9500706A)](arrete-du-9-mai-1995-resk9500706a)
 - [Arrêté du 9 mai 1995 (RESK9500709A)](arrete-du-9-mai-1995-resk9500709a)
 - [Arrêté du 9 mai 1995 (RESM9500725A)](arrete-du-9-mai-1995-resm9500725a)
