@@ -13,6 +13,7 @@
 - [Arrêté du 4 avril 1984](arrete-du-4-avril-1984)
 - [Arrêté du 4 janvier 1984](arrete-du-4-janvier-1984)
 - [Arrêté du 4 juin 1984](arrete-du-4-juin-1984)
+- [Arrêté du 4 septembre 1984](arrete-du-4-septembre-1984)
 - [Arrêté du 4 septembre 1985](arrete-du-4-septembre-1985)
 - [Arrêté du 4 mai 1984](arrete-du-4-mai-1984)
 - [Arrêté du 5 avril 1984](arrete-du-5-avril-1984)
