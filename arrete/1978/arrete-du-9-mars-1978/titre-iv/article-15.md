@@ -1,6 +1,6 @@
 # Article 15
 
-Le jury comprend trois [*nombre*] juges :
+Le jury comprend trois juges :
 
 Un professeur titulaire de catégorie exceptionnelle ou du premier grade appartenant à l'unité d'enseignement et de recherche d'odontologie, président ;
 

@@ -1,0 +1,3 @@
+# Article 6
+
+Le chef d'état-major des armées, le chef d'état-major de l'armée de terre, le chef d'état-major de la marine, le chef d'état-major de l'armée de l'air, le directeur économique, social et culturel du ministère des départements et territoires d'outre-mer, le préfet dans les départements d'outre-mer, le haut-commissaire de la République dans les territoires d'outre-mer, le représentant du Gouvernement dans les collectivités territoriales d'outre-mer et chaque commandant supérieur des forces armées dans les départements, territoires ou collectivités territoriales d'outre-mer sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
