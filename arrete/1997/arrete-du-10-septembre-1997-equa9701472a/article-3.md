@@ -6,6 +6,4 @@ L'épreuve pratique comprend un exposé technique et un voyage aérien. Elle est
 
 Un candidat peut se présenter plusieurs fois à l'épreuve pratique. Aucune durée minimale n'est fixée a priori entre deux tentatives, mais le jury de l'examen peut déclarer irrecevable la demande d'un candidat qui ne se serait pas raisonnablement entraîné depuis son dernier échec.
 
-Tout candidat ayant subi quatre  échecs à l'épreuve pratique est définitivement éliminé.
-
 Un certificat d'aptitude à l'épreuve pratique est délivré par le jury de l'examen au candidat ayant satisfait à l'épreuve pratique. Ce certificat est valable six mois.
