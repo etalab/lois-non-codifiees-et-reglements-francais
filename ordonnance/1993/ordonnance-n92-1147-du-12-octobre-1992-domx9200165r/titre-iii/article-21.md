@@ -1,6 +1,6 @@
 # Article 21
 
-Dans le territoire de la Nouvelle-Calédonie et dans le territoire de la Polynésie française, en cas d'aide juridictionnelle partielle, l'avocat a droit, en outre, de la part du bénéficiaire, à un honoraire complémentaire librement négocié.
+En Nouvelle-Calédonie et dans le territoire de la Polynésie française, en cas d'aide juridictionnelle partielle, l'avocat a droit, en outre, de la part du bénéficiaire, à un honoraire complémentaire librement négocié.
 
 Une convention écrite préalable fixe, en tenant compte de la complexité du dossier, des diligences et des frais imposés par la nature de l'affaire, le montant et les modalités de paiement de ce complément d'honoraires, dans des conditions compatibles avec les ressources et le patrimoine du bénéficiaire.
 

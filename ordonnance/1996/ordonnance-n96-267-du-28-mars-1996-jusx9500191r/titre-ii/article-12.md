@@ -1,8 +1,8 @@
 # Article 12
 
-I. - Les articles 136 à 144, 153, 159 à 161, 170 à 197, 202, 205 à 207, 222 à 227, 230 à 233, 264 à 268, 273 à 278, 285, 287, 289, 295, 297 à 299, 301, 303, 304, 313, 315 et 319 de la loi du 16 décembre 1992 susvisée sont applicables dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+I. - Les articles 136 à 144, 153, 159 à 161, 170 à 197, 202, 205 à 207, 222 à 227, 230 à 233, 264 à 268, 273 à 278, 285, 287, 289, 295, 297 à 299, 301, 303, 304, 313, 315 et 319 de la loi du 16 décembre 1992 susvisée sont applicables dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
 
-II. - Les articles 281, 294 et 309 de la loi du 16 décembre 1992 susvisée sont applicables dans les territoires de la Nouvelle-Calédonie et des îles Wallis-et-Futuna.
+II. - Les articles 281, 294 et 309 de la loi du 16 décembre 1992 susvisée sont applicables en Nouvelle-Calédonie et dans le territoire des îles Wallis-et-Futuna.
 
 III. - L'article 286 de la loi du 16 décembre 1992 susvisée est applicable dans le territoire de la Polynésie française.
 

@@ -24,7 +24,7 @@ Vingt-cinq représentants des exploitants agricoles ;
 
 7° Dix-sept représentants des activités sociales, dont dix représentants des associations familiales, un représentant du logement, un représentant de l'épargne, cinq représentants des autres associations ;
 
-8° Neuf représentants des activités économiques et sociales des départements, des territoires et des collectivités territoriales à statut particulier d'outre-mer ;
+8° Neuf représentants des activités économiques et sociales des départements, des territoires d'outre-mer, des collectivités territoriales à statut particulier d'outre-mer et de la Nouvelle-Calédonie ;
 
 9° Deux représentants des Français établis hors de France ;
 

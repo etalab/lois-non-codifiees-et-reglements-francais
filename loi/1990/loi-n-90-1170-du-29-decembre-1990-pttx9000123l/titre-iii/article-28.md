@@ -74,8 +74,6 @@ V. - Les autorisations et déclarations de fourniture, d'exportation ou d'utilis
 
 VI. - Les dispositions du présent article ne font pas obstacle à l'application du décret du 18 avril 1939 fixant le régime des matériels de guerre, armes et munitions, à ceux des moyens de cryptologie qui sont spécialement conçus ou modifiés pour permettre ou faciliter l'utilisation ou la mise en oeuvre des armes.
 
-VII. - Le présent article est applicable dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte.
+VII. - Le présent article est applicable dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte.
 
-Pour l'application du présent article dans les territoires de la Nouvelle-Calédonie, de la Polynésie française, des îles Wallis-et-Futuna et dans la collectivité territoriale de Mayotte, il y a lieu de lire : "tribunal de première instance", au lieu de :
-
-"tribunal de grande instance".
+Pour l'application du présent article en Nouvelle-Calédonie, dans les territoires de la Polynésie française, des îles Wallis-et-Futuna et dans la collectivité territoriale de Mayotte, il y a lieu de lire : "tribunal de première instance", au lieu de : "tribunal de grande instance".

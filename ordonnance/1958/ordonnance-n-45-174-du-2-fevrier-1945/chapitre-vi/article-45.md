@@ -1,6 +1,6 @@
 # Article 45
 
-Dans les territoires d'outre-mer le IV de l'article 4 s'applique dans les conditions suivantes :
+Dans les territoires d'outre-mer et en Nouvelle-Calédonie le IV de l'article 4 s'applique dans les conditions suivantes :
 
 I. - En Polynésie française :
 

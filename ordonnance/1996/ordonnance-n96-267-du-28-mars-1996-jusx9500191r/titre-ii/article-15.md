@@ -1,12 +1,12 @@
 # Article 15
 
-Sont abrogées dans les territoires d'outre-mer et dans la collectivité territoriale de Mayotte toutes les dispositions législatives pénales contraires à la présente ordonnance.
+Sont abrogées dans les territoires d'outre-mer, en Nouvelle-Calédonie et dans la collectivité territoriale de Mayotte toutes les dispositions législatives pénales contraires à la présente ordonnance.
 
 Sont abrogés notamment :
 
 1° Le code pénal dans sa rédaction applicable antérieurement à l'entrée en vigueur de la présente ordonnance ;
 
-2° Les textes visés par l'article 372 de la loi du 16 décembre 1992 susvisée en tant qu'ils concernent des textes applicables dans les territoires et dans la collectivité visés au premier alinéa du présent article ;
+2° Les textes visés par l'article 372 de la loi du 16 décembre 1992 susvisée en tant qu'ils concernent des textes applicables en Nouvelle-Calédonie, dans les territoires et dans la collectivité visés au premier alinéa du présent article ;
 
 3° L'article 8 du décret du 11 mai 1940 instituant un régime des explosifs en Nouvelle-Calédonie ;
 

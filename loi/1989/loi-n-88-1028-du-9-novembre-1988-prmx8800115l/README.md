@@ -1,17 +1,5 @@
 # Loi n° 88-1028 du 9 novembre 1988 portant dispositions statutaires et préparatoires à l'autodétermination de la Nouvelle-Calédonie en 1998
 
-- [Article 1](article-1.md)
-- [TITRE Ier : LES COMPÉTENCES DE L'ÉTAT, DES PROVINCES, DU TERRITOIRE ET DES COMMUNES.](titre-ier)
-- [Article 2](article-2.md)
 - [TITRE II : LES PROVINCES.](titre-ii)
-- [Article 3](article-3.md)
-- [TITRE III : LES INSTITUTIONS DU TERRITOIRE](titre-iii)
-- [Article 4](article-4.md)
-- [TITRE IV : LE HAUT-COMMISSAIRE DE LA RÉPUBLIQUE.](titre-iv)
-- [Article 5](article-5.md)
-- [TITRE V : LE COMPTABLE DU TERRITOIRE ET DES PROVINCES, LE CONTRÔLE FINANCIER ET LA CHAMBRE TERRITORIALE DES COMPTES](titre-v)
-- [Article 6](article-6.md)
-- [TITRE VI : LES ÉLECTIONS AUX ASSEMBLÉES DE PROVINCE.](titre-vi)
 - [TITRE VII : DISPOSITIONS PARTICULIÈRES](titre-vii)
-- [TITRE VIII : MESURES D'ACCOMPAGNEMENT ÉCONOMIQUES, SOCIALES ET CULTURELLES.](titre-viii)
 - [TITRE IX : DISPOSITIONS DIVERSES ET TRANSITOIRES.](titre-ix)
