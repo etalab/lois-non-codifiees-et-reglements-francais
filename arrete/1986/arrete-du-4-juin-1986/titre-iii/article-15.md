@@ -5,3 +5,5 @@ Inscription au titre de l'ascendance : est inscrit au stud-book du cheval de sel
 arabe, pur sang, anglo-arabe, trotteur français, cheval de selle français ou étant facteur de selle français.
 
 L'étalon père du produit doit être agréé à la monte publique pour l'élevage de chevaux de selle français.
+
+Le produit d'une jument pur sang saillie par plusieurs étalons de races différentes, dont au moins un pur sang, n'est pas inscriptible au stud-book du cheval de selle français lorsque l'analyse sanguine ne permet pas d'exclure l'origine paternelle de pur sang.
