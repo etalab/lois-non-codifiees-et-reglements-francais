@@ -13,3 +13,5 @@ Chaque unité de valeur fondamentale ou méthodologique peut n'être enseignée 
 Au cours du deuxième cycle, l'étudiant doit valider deux unités de valeur optionnelles. Ces unités de valeur peuvent être choisies par l'étudiant parmi les enseignements proposés par les unités de formation et de recherche dispensant des formations pharmaceutiques ou par tout autre unité de formation et de recherche ou établissement public d'enseignement supérieur. Dans ce dernier cas, l'étudiant doit obtenir l'accord du directeur de l'unité de formation et de recherche dispensant des formations pharmaceutiques où il est inscrit.
 
 Exceptionnellement et sur sa demande, un étudiant peut être autorisé par le directeur de l'unité de formation et de recherche dispensant des formations pharmaceutiques à suivre l'enseignement d'une des unités de valeur optionnelles en deuxième année de premier cycle.
+
+Les certificats C1 et C2 de la maîtrise en sciences biologiques et médicales peuvent être pris en compte comme unités de valeur optionnelles dans les conditions définies aux deux alinéas précédents.

@@ -7,3 +7,4 @@
 - [Article 4](article-4.md)
 - [Section 4 : Initiation à la recherche.](section-4)
 - [Article 5](article-5.md)
+- [Section 5 : Aménagement des études au profit des étudiants postulant un diplôme d'études approfondies en cinquième année d'études](section-5)
