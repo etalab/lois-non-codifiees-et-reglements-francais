@@ -158,6 +158,8 @@
 - [Décret n°85-64 du 17 janvier 1985](decret-n85-64-du-17-janvier-1985)
 - [Décret n°85-730 du 17 juillet 1985](decret-n85-730-du-17-juillet-1985)
 - [Décret n°85-734 du 17 juillet 1985](decret-n85-734-du-17-juillet-1985)
+- [Décret n°85-982 du 17 septembre 1985](decret-n85-982-du-17-septembre-1985)
+- [Décret n°85-983 du 17 septembre 1985](decret-n85-983-du-17-septembre-1985)
 - [Décret n°80-470 du 18 juin 1980](decret-n80-470-du-18-juin-1980)
 - [Décret n°85-241 du 18 février 1985](decret-n85-241-du-18-fevrier-1985)
 - [Décret n°85-268 du 18 février 1985](decret-n85-268-du-18-fevrier-1985)
