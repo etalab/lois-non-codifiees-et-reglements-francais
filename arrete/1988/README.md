@@ -201,6 +201,7 @@
 - [Arrêté du 12 janvier 1988 (ASEE8803009A)](arrete-du-12-janvier-1988-asee8803009a)
 - [Arrêté du 12 janvier 1988 (ENVN8700281A)](arrete-du-12-janvier-1988-envn8700281a)
 - [Arrêté du 12 janvier 1988 (EQUC8800062A)](arrete-du-12-janvier-1988-equc8800062a)
+- [Arrêté du 12 juillet 1988 (ECOC8800073A)](arrete-du-12-juillet-1988-ecoc8800073a)
 - [Arrêté du 13 avril 1988 (AGRE8800734A)](arrete-du-13-avril-1988-agre8800734a)
 - [Arrêté du 13 avril 1988 (AGRE8800737A)](arrete-du-13-avril-1988-agre8800737a)
 - [Arrêté du 13 avril 1988 (AGRH8800732A)](arrete-du-13-avril-1988-agrh8800732a)

@@ -1,0 +1,3 @@
+# Article 2
+
+Pour l'exercice de ces attributions, le ministre délégué auprès du ministre de la culture, de la communication, des grands travaux et du Bicentenaire, chargé de la communication, dispose du service juridique et technique de l'information et, en tant que de besoin, des services du ministère de la culture, de la communication, des grands travaux et du Bicentenaire et du Centre national de la cinématographie. Il fait appel, en tant que de besoin, aux services du ministère de l'industrie et de l'aménagement du territoire et du ministère des postes, des télécommunications et de l'espace.
