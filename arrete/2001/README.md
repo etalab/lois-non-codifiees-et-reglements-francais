@@ -9,7 +9,6 @@
 - [Arrêté du 1 juin 2001 (EQUK0100836A)](arrete-du-1-juin-2001-equk0100836a)
 - [Arrêté du 1 juin 2001 (EQUS0100832A)](arrete-du-1-juin-2001-equs0100832a)
 - [Arrêté du 1 juin 2001 (EQUT0100809A)](arrete-du-1-juin-2001-equt0100809a)
-- [Arrêté du 1 octobre 2001 (AGRG0101901A)](arrete-du-1-octobre-2001-agrg0101901a)
 - [Arrêté du 1 octobre 2001 (DEFP0102139A)](arrete-du-1-octobre-2001-defp0102139a)
 - [Arrêté du 1 octobre 2001 (INTM0100026A)](arrete-du-1-octobre-2001-intm0100026a)
 - [Arrêté du 1 octobre 2001 (PRMG0170682A)](arrete-du-1-octobre-2001-prmg0170682a)

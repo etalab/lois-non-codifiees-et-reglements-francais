@@ -419,7 +419,6 @@
 - [Arrêté du 16 juillet 1990 (EQUP9001057A)](arrete-du-16-juillet-1990-equp9001057a)
 - [Arrêté du 16 juillet 1990 (INTB9000294A)](arrete-du-16-juillet-1990-intb9000294a)
 - [Arrêté du 16 juillet 1990 (MCCH9000514A)](arrete-du-16-juillet-1990-mcch9000514a)
-- [Arrêté du 16 mars 1990 (AGRG9000530A)](arrete-du-16-mars-1990-agrg9000530a)
 - [Arrêté du 16 mars 1990 (ECOC8900142A)](arrete-du-16-mars-1990-ecoc8900142a)
 - [Arrêté du 16 mars 1990 (ECOC9000011A)](arrete-du-16-mars-1990-ecoc9000011a)
 - [Arrêté du 16 novembre 1990 (EQUA9001575A)](arrete-du-16-novembre-1990-equa9001575a)

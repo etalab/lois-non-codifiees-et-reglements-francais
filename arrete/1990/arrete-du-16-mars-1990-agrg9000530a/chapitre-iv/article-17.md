@@ -1,7 +1,0 @@
-# Article 17
-
-Tout bovin présentant une réaction allergique positive à l'occasion d'une transaction commerciale doit être marqué sur les lieux mêmes où il se trouve dans les quinze jours qui suivent la notification du diagnostic sauf dans le cas où une rédhibition judiciaire est intentée. Ces animaux sont transportés directement, sans rupture de charge et sous couvert d'un laissez-passer - titre d'élimination, depuis l'exploitation de départ jusqu'à l'abattoir désigné conformément aux dispositions de l'article 5 ci-dessus.
-
-Dans le cas de rédhibition amiable, le marquage du bovin non indemne peut être pratiqué, après accord des deux parties, soit chez l'acheteur, soit chez le vendeur qui reprend possession de l'animal. Dans ce dernier cas, et par dérogation accordée par le directeur des services vétérinaires, l'obligation de marquage peut être suspendue le temps que le bovin rejoigne, sous couvert d'un laissez-passer, l'exploitation de son propriétaire, sans pour autant que le délai de quinze jours défini à l'alinéa précédent soit prolongé.
-
-Dans quelques cas particuliers laissés à l'appréciation du directeur des services vétérinaires, une suspension du marquage et de l'abattage peut être accordée à l'éleveur qui en fait la demande par écrit, en vue d'un nouveau contrôle pratiqué dans un délai de six à huit semaines. Une telle autorisation ne peut être accordée que par le directeur des services vétérinaires.

@@ -1,5 +1,0 @@
-# Article 25
-
-Le marquage au "T" des bovins reconnus tuberculeux au cour s des opérations collectives de prophylaxie est effectué, dès la constatation de l'infection, à la diligence du propriétaire, par le vétérinaire sanitaire.
-
-Toutefois, si le propriétaire conteste l'interprétation posée par le vétérinaire sanitaire, il peut être procédé à une contre-visite, après un délai de six semaines, par le directeur des services vétérinaires ou son représentant, sur demande écrite du propriétaire. La demande doit mentionner le numéro d'identification des animaux litigieux ; elle est adressée au directeur des services vétérinaires.    Cette contre-visite comprend un examen clinique et une tuberculination par le procédé d'intradermotuberculination simple ou d'intradermotuberculination comparative. Son résultat est considéré comme définitif et, si l'infection est confirmée, le marquage est alors immédiatement pratiqué. Les frais éventuels de cette contre-visite sont à la charge du propriétaire. Dans l'intervalle, les animaux litigieux sont soumis aux mêmes mesures d'isolement que celles prévues à l'article 23 ci-dessus pour les animaux reconnus tuberculeux.
