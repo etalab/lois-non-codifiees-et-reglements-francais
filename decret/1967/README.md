@@ -23,6 +23,7 @@
 - [Décret n°67-228 du 15 mars 1967](decret-n67-228-du-15-mars-1967)
 - [Décret n°67-715 du 16 août 1967](decret-n67-715-du-16-aout-1967)
 - [Décret n°67-251 du 17 mars 1967](decret-n67-251-du-17-mars-1967)
+- [Décret n°67-1097 du 18 décembre 1967](decret-n67-1097-du-18-decembre-1967)
 - [Décret du 19 octobre 1967](decret-du-19-octobre-1967)
 - [Décret n°67-476 du 20 juin 1967](decret-n67-476-du-20-juin-1967)
 - [Décret n°67-477 du 20 juin 1967](decret-n67-477-du-20-juin-1967)

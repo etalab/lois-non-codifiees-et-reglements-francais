@@ -1,0 +1,5 @@
+# Article 6
+
+Tout générateur ou groupe générateur appartenant à la deuxième catégorie définie à l'article 23 du décret du 2 avril 1926, ainsi que tout générateur ou groupe générateur de troisième catégorie, dont la puissance dépasse deux mille thermies par heure ou qui fait partie d'un ensemble de générateurs établis dans un même local, reliés au même réseau et dont la puissance totale dépasse deux mille thermies par heure, doivent être en dehors de toute maison habitée ou de tout bâtiment fréquenté par le public, à moins qu'il ne s'agisse de personnes venant effectuer un travail nécessitant l'emploi de l'eau surchauffée.
+
+Toutefois, les générateurs ou groupes générateurs visés à l'alinéa précédent peuvent être dans une construction contenant des locaux habités par l'industriel, ses employés, ouvriers, serviteurs et par leurs familles, à la condition que ces locaux soient séparés des appareils, dans toute la section du bâtiment, par un mur en solide maçonnerie de quarante-cinq centimètres au moins d'épaisseur ou de résistance équivalente, ou que leur distance horizontale soit de dix mètres au moins du générateur le plus proche.
