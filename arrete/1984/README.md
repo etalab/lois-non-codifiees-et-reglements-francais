@@ -109,7 +109,6 @@
 - [Arrêté du 19 septembre 1984](arrete-du-19-septembre-1984)
 - [Arrêté du 20 avril 1984](arrete-du-20-avril-1984)
 - [Arrêté du 20 décembre 1983](arrete-du-20-decembre-1983)
-- [Arrêté du 20 décembre 1984](arrete-du-20-decembre-1984)
 - [Arrêté du 20 janvier 1984](arrete-du-20-janvier-1984)
 - [Arrêté du 20 mars 1984](arrete-du-20-mars-1984)
 - [Arrêté du 20 novembre 1984](arrete-du-20-novembre-1984)

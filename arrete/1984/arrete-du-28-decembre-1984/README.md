@@ -1,6 +1,4 @@
-# Arrêté du 28 décembre 1984 fixant le montant de l'imposition forfaitaire annuelle sur les pylônes pour 1985.
+# Arrêté du 28 décembre 1984 relatif à la tarification des risques d'accidents du travail et de maladies professionnelles des sportifs professionnels.
 
-- [Article 2](article-2.md)
-- [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
