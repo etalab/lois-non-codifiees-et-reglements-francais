@@ -1,3 +1,4 @@
 # Décret n°50-444 du 20 avril 1950 RELATIF AU FINANCEMENT DES ASSURANCES SOCIALES AGRICOLES.
 
 - [DISPOSITIONS DIVERSES.](dispositions-diverses)
+- [DISPOSITIONS GENERALES](dispositions-generales)
