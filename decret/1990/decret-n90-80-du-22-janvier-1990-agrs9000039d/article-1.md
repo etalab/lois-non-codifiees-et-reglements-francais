@@ -1,0 +1,3 @@
+# Article 1
+
+L'extensification de la production dans le secteur du vin, prévue par l'article 1er ter du règlement C.E.E. n° 797-85 modifié et le règlement C.E.E. n° 4115-88 susvisé, est mise en oeuvre à titre expérimental dans les conditions définies par ces règlements et par le présent décret. Les producteurs qui ne bénéficient pas d'un avantage servi par un régime de base obligatoire d'assurance vieillesse à la date du dépôt de dossier et durant la période de l'engagement peuvent bénéficier d'une aide à l'extensification et présenter à ce titre une demande jusqu'au 31 décembre 1990, à condition qu'ils soient en situation régulière au regard du règlement communautaire portant organisation commune du marché viti-vinicole.
