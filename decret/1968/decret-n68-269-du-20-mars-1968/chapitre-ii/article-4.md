@@ -1,0 +1,3 @@
+# Article 4
+
+Par dérogation aux dispositions du deuxième alinéa de l'article 11 du décret susvisé du 25 juin 1959 modifié, les secrétaires pourront pendant une période de trois ans à compter de la date de publication du présent décret être recrutés au choix parmi les fonctionnaires appartenant au moins au 6e échelon du grade de secrétaire adjoint ou à l'échelon d'un grade de la catégorie B des administrations centrales, des services extérieurs ou des établissements publics de l'Etat qui comporte un indice de traitement au moins égal à celui afférent au 6e échelon de la classe normale des corps régis par le décret susvisé du 27 février 1961.
