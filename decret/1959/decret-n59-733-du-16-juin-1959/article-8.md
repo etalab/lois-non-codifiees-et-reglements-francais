@@ -8,9 +8,9 @@ Des allocations sont octroyées pour favoriser la diffusion des films bénéfici
 
 Le montant de l'allocation est calculé par application d'un taux, fixé par arrêté conjoint du ministre de l'économie et des finances et du ministre chargé du cinéma, proportionnel au produit des taxes additionnelles au prix des places perçues à l'occasion de la projection du programme dont les films bénéficiaires de la mention constituent l'un des éléments.
 
-II - Après avis d'une commission créée à cet effet, le ministre chargé du cinéma attribue des prix de qualité à des oeuvres cinématographiques d'une durée de projection inférieure à une heure bénéficiaires d'une mention et dont les visas ont été délivrés au cours de l'année précédente.
+II - Après avis d'une commission créée à cet effet, le directeur général du Centre national de la cinématographie attribue des prix de qualité à des oeuvres cinématographiques d'une durée de projection inférieure à une heure bénéficiaires d'une mention et dont les visas ont été délivrés au cours de l'année précédente.
 
-III - Le ministre chargé du cinéma peut allouer des contributions financières destinées à faciliter la production d'oeuvres cinématographiques d'une durée de projection inférieure à une heure.
+III - directeur général du Centre national de la cinématographie peut allouer des contributions financières destinées à faciliter la production d'oeuvres cinématographiques d'une durée de projection inférieure à une heure.
 
 IV - Les programmes composés principalement d'oeuvres cinématographiques d'une durée de projection inférieure à une heure bénéficiaires d'une mention ouvrent droit, au profit des producteurs des films qui les composent et des entrepreneurs de spectacles cinématographiques qui les projettent, à une subvention dont l'assiette et le taux sont identiques à ceux retenus pour le calcul du soutien financier aux films de long métrage et à l'allocation prévue au paragraphe I du présent article.
 
