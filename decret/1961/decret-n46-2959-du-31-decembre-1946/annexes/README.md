@@ -3,7 +3,6 @@
 - [25 PNEUMOCONIOSES CONSECUTIVES A L'INHALATION DE POUSSIERES MINERALES RENFERMANT DE LA SILICE LIBRE](25)
 - [2. HYDRARGYRISME PROFESSIONNEL](2-hydrargyrisme-professionnel)
 - [22. SULFOCARBONISME PROFESSIONNEL](22-sulfocarbonisme-professionnel)
-- [25. SILICOSE PROFESSIONNELLE](25-silicose-professionnelle)
 - [4. BENZOLISME PROFESSIONNEL](4-benzolisme-professionnel)
 - [44. SIDEROSE PROFESSIONNELLE](44-siderose-professionnelle)
 - [45. HEPATITES VIRALES PROFESSIONNELLES](45-hepatites-virales-professionnelles)
