@@ -1,0 +1,3 @@
+# Article 40
+
+Une commune, un département, une région ou un établissement public administratif dépendant de ces collectivités ou les regroupant peut recruter directement, dans un emploi permanent, un agent d'un établissement public d'aménagement de ville nouvelle à la suite de la dissolution de cet établissement ou de suppression d'emploi décidée par ce dernier. Le statut, le grade et la rémunération de l'agent ainsi recruté sont déterminés en prenant en compte l'ancienneté de service acquise au sein de l'établissement public d'aménagement dans l'exercice de fonctions équivalentes à celles correspondant au grade auquel il accède.

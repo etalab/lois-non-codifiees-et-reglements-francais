@@ -1,45 +1,79 @@
 # Article 45
 
-I. (Abrogé).
+I. - Les demandeurs ou les titulaires d'autorisations relatives à des réseaux de télécommunications visés aux articles L. 33-1 et L. 33-2 du code des postes et télécommunications sont assujettis au paiement d'une taxe de constitution de dossier, forfaitaire et non remboursable, dans les conditions suivantes :
 
-II. Les utilisateurs d'installations de télécommunications à usage privé, visées au 1° de l'article 10 de la loi n° 86-1067 du 30 septembre 1986 précitée, sont assujettis aux taxes et redevances suivantes :
+A. - Réseaux radioélectriques ouverts au public, visés à l'article L. 33-1 du code des postes et télécommunications.
 
-1. La taxe de constitution de dossier due lors de la demande d'autorisation d'installations radio-électriques privées utilisant la bande 26-500 mégahertz (MHz) est fixée à 240 F.
+1° La taxe est fixée à 40 000 F pour les réseaux à couverture nationale et à 25 000 F pour les autres réseaux.
 
-Toutefois, ce montant est fixé à 36 F pour les télécommandes dont la puissance est inférieure à 100 mW et pour les dispositifs de recherche de personnes utilisés à l'intérieur d'une même propriété, à l'exclusion des dispositifs à boucle d'induction.
+2° Elle est due lors de la délivrance de l'autorisation.
 
-2. Les titulaires d'autorisation d'utilisation de ces installations sont redevables d'une taxe annuelle fixée à 110 F lorsque la puissance fournie à l'antenne est inférieure ou égale à un watt par station d'émission et à 210 F lorsque cette puissance est supérieure à un watt. Lorsqu'un réseau utilise plusieurs stations mobiles assurant le même service et susceptibles d'être présentées au contrôle dans un même lieu, le montant unitaire de la taxe est réduit de 35 p. 100 entre 26 et 50 stations et de 65 p. 100 au-delà de la cinquantième station.
+B. - Réseaux radioélectriques indépendants à usage privé, visés à l'article L. 33-2 du code des postes et télécommunications.
 
-3. Les frais exceptionnels, occasionnés par un brouillage ou lorsque la non-conformité des installations a nécessité un nouveau contrôle, donnent lieu à un remboursement forfaitaire d'un montant de 450 F par l'utilisateur.
+1° La taxe est fixée à 1 000 F par dossier déposé.
 
-4. Les liaisons établies entre une station émettrice et une station réceptrice donnent lieu à la perception d'une redevance annuelle calculée selon le barème suivant :
+2° Toutefois, cette taxe est fixée à 300 F pour les systèmes de transmission de données, téléalarme, télémesure et télécommande dont la puissance est inférieure ou égale à 100 mW et pour les dispositifs de recherche de personnes utilisés à l'intérieur d'une même propriété. Elle est réduite à 150 F lorsqu'il s'agit de systèmes utilisant des fréquences prédéterminées.
 
-(tableau non reproduit)
+3° La taxe instituée au 1° est réduite à 500 F lorsque l'autorisation est demandée pour une durée au plus égale à deux mois.
 
-Pour les liaisons bilatérales entre deux stations assurant à la fois l'émission et la réception de signaux ou de correspondance, les montants susvisés sont majorés de 50%. Au-delà de la première liaison entre deux stations, les montants ci-dessus sont corrigés d'un coefficient dégressif tenant compte du nombre de liaisons en fonction du barème suivant :
+4° Toute demande de modification d'un réseau est soumise à une taxe d'un montant de 500 F par dossier déposé. Elle ne s'applique pas aux réseaux définis au 2° ci-dessus.
 
-(tableau non reproduit)
+5° Les taxes visées ci-dessus sont dues lors du dépôt du dossier.
 
-Les collectivités territoriales, établissements publics et concessionnaires de service public bénéficient d'une réduction de 50 p. 100 de cette redevance.
+C. - Réseaux radioélectriques indépendants à usage partagé visés à l'article L. 33-2 du code des postes et télécommunications.
 
-Les services d'aide médicale urgente des établissements publics hospitaliers et les services publics d'incendie et de secours sont exonérés du paiement de cette redevance.
+1° La taxe est fixée à 3 000 F.
 
-Les stations d'émission et de réception dont la puissance à l'antenne est inférieure à 5 mW et les stations d'émission servant à transmettre une alarme en doublure d'une voie filaire ne sont pas assujetties à cette taxe.
+2° Elle est due lors du dépôt du dossier.
 
-5. Lorsque les installations radio-électriques fonctionnent dans la bande 26,650 - 26,800 MHz avec une puissance maximale de 3 watts, le montant de la taxe de constitution de dossier est fixé à 40 F, celui de la taxe annuelle à 100 F par appareil, et le montant de la redevance à 100 F par appareil.
+D. - Réseaux radioélectriques indépendants utilisant des capacités de satellites, autorisés au titre de l'article L. 33-2 du code des postes et télécommunications, qu'ils soient à usage privé ou à usage partagé.
 
-6. Les postes émetteurs-récepteurs fonctionnant sur les canaux banalisés (C.B.) dans la bande 26,960 - 27,410 MHz donnent lieu au paiement d'une taxe forfaitaire de 190 F tous les cinq ans.
+1° La taxe est fixée pour les réseaux de catégorie 1 à 25 000 F et pour les réseaux de catégorie 2 et les réseaux de communication avec des mobiles par satellite à 40 000 F.
 
-7. Les télécommandes à large bande (223 - 225 MHz) d'une puissance inférieure ou égale à 100 mW sont assujetties à une taxe de constitution de dossier de 40 F, à une taxe annuelle de 110 F et à une redevance annuelle de 2 600 F par liaison.
+Un réseau est classé en catégorie 1 si le nombre de stations du réseau implantées sur le territoire de la métropole et des départements d'outre-mer est au plus égal à cinq et si l'emplacement de ces stations est connu dès le dépôt de la demande d'autorisation.
 
-8. Lorsqu'un faisceau hertzien à usage privé utilise des fréquences supérieures à 1 MHz, la taxe de constitution de dossier est fixée à 240 F, la taxe annuelle à 220 F et la redevance annuelle par liaison unilatérale est calculée en fonction de la largeur (L) de la bande de fréquence occupée par l'émission selon le barème suivant :
+Un réseau est classé en catégorie 2 dans les autres cas.
 
-(schéma non reproduit)
+Le nombre de stations prend en compte la station maîtresse, lorsque celle-ci est installée sur le territoire de la métropole et des départements d'outre-mer.
 
-Lorsque les faisceaux hertziens servent à assurer à la fois l'émission et la réception de signaux ou de correspondances, les montants précités sont multipliés par 2. En cas de liaison entre plusieurs stations successives, les tarifs sont multipliés par le nombre de stations moins une.
+Toute modification d'un réseau, qui le fait passer de la catégorie 1 à la catégorie 2, entraîne la perception de la taxe de 40 000 F.
 
-L'usage des faisceaux utilisant la bande 23,500 - 23,600 MHz donne lieu au paiement d'une taxe annuelle fixée comme suit :
+2° Les taxes visées au 1° sont dues lors de la délivrance de l'autorisation.
 
-(schéma non reproduit)
+E. - Réseaux indépendants filaires, visés à l'article L. 33-2 du code des postes et télécommunications.
 
-III. - Les taxes et redevances visées au II sont recouvrées par les comptables du Trésor selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans sa rédaction en vigueur au 1er décembre 1990.
+La taxe est fixée selon le barème suivant :
+
+(tableau non reproduit, voir JO du 31/12/1991 page 17285).
+
+Elle est due lors de la délivrance de l'autorisation.
+
+II. - Les frais exceptionnels occasionnés par le brouillage d'une fréquence radioélectrique régulièrement utilisée ou par la non-conformité des installations visées au I du présent article donnent lieu au paiement d'une taxe forfaitaire d'un montant de 1 000 F par intervention ; cette taxe est due par la personne responsable.
+
+III. - L'acquisition de postes émetteurs-récepteurs fonctionnant sur les canaux banalisés, dits postes C.B., est soumise au paiement d'une taxe forfaitaire de 250 F.
+
+Ne sont pas assujettis à cette taxe les postes C.B. ayant au maximum 40 canaux, fonctionnant exclusivement en modulation angulaire avec une puissance en crête de modulation de 4 watts maximum.
+
+IV. - A. - Les droits d'examen pour l'obtention du certificat de radiotélégraphiste, du certificat de radiotéléphoniste ou du certificat comportant la double mention, lorsque les épreuves des deux examens sont subies en même temps, sont fixés à 200 F pour les examens et à la même somme pour la délivrance de ce ou ces certificats aux titulaires d'une attestation militaire de capacité d'opérateur radioamateur.
+
+B. - Les utilisateurs du service amateur et les utilisateurs d'installations de radiocommande de modèles réduits sont assujettis au paiement des taxes suivantes :
+
+1° L'autorisation d'utiliser une installation amateur personnelle ou celle d'un radioclub est soumise au paiement d'une taxe annuelle fixée à 300 F. Cette taxe, perçue d'avance, est due pour l'année calendaire et n'est pas remboursable.
+
+2° Les radioamateurs domiciliés à l'étranger et séjournant sur le territoire français peuvent être autorisés à utiliser une installation d'amateur contre le paiement d'une taxe annuelle, perçue d'avance et non remboursable. Cette taxe est de 300 F pour une autorisation prenant effet à compter de la date de son émission. Elle est de 100 F dans le cas d'une autorisation temporaire accordée pour une durée maximale de trois mois, indivisible, non renouvelable dans l'année calendaire et prenant effet à partir de la date d'émission de la licence. Les radioamateurs étrangers titulaires d'une licence harmonisée selon les principes recommandés par la conférence européenne des postes et télécommunications ne sont pas soumis à la taxe due pour les autorisations temporaires de moins de trois mois.
+
+3° La délivrance d'une autorisation administrative pour utiliser un indicatif spécial du service amateur donne lieu au paiement d'une taxe de 160 F par indicatif spécial.
+
+4° Les stations des radioamateurs, personnelles ou des radio-clubs, qui constituent un élément d'un réseau indépendant, sont soumises à une taxe annuelle de 300 F par station répétitrice.
+
+5° L'autorisation de postes émetteurs-récepteurs destinés à la radiocommande des modèles réduits et d'une puissance d'alimentation n'excédant pas 5 watts, à l'exception de ceux autorisés de plein droit, est soumise à une taxe fixée à 180 F pour une période de cinq ans, perçue d'avance et non remboursable.
+
+6° En cas de perte ou de destruction des documents énumérés ci-dessus, un duplicata est délivré contre un droit de 80 F.
+
+V. - L'agrément des équipements terminaux, des installations radioélectriques et l'admission des installateurs en télécommunications et en radiocommunications donnent lieu à la perception des taxes, forfaitaires et non remboursables, suivantes :
+
+1° La demande d'agrément des équipements terminaux destinés à être connectés à un réseau ouvert au public et des installations radioélectriques, prévue à l'article L. 34-9 du code des postes et télécommunications, est soumise à la perception d'une taxe de constitution de dossier d'un montant de 2 000 F par dossier déposé.
+
+2° La demande d'admission des installateurs en télécommunications et en radiocommunications, prévue à l'article L. 34-9 du code des postes et télécommunications, donne lieu à la perception d'une taxe de constitution de dossier d'un montant de 1 000 F par dossier déposé.
+
+VI. - Le recouvrement et le contentieux des taxes visées au présent article sont suivis par les comptables du Trésor selon les modalités fixées aux articles 80 à 95 du décret n° 62-1587 du 29 décembre 1962 portant règlement général sur la comptabilité publique dans leur rédaction en vigueur à la date de promulgation de la présente loi.

@@ -1,0 +1,3 @@
+# Article 8
+
+Lorsqu'une nouvelle commune est créée en application de l'article 6 ci-dessus, elle se substitue au syndicat communautaire d'aménagement dans tous ses droits et obligations. Toutefois, lorsque cette commune a été créée en application du 2° de l'article 6, ces dispositions ne s'appliquent qu'en ce qu'elles concernent les opérations retracées dans la première partie du budget visé au deuxième alinéa de l'article L. 255-2 du code des communes. La nouvelle commune bénéficie des dispositions des articles 24 et 33 ci-après jusqu'à l'achèvement des opérations de construction et d'aménagement constaté dans les conditions prévues à l'article 34 ci-après.
