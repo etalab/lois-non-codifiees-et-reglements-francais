@@ -2,7 +2,7 @@
 
 Aucune poursuite ne pourra être exercée en matière de crime contre les mineurs sans information préalable.
 
-En cas de délit, le procureur de la République en saisira, soit le juge d'instruction, soit par voie de requête le juge des enfants et, à Paris, le président du tribunal pour enfants. Lorsqu'il saisira ledit juge des enfants ou ledit président par requête, il pourra requérir la comparution à délai rapproché du mineur en application de l'article 8-2 ;
+En cas de délit, le procureur de la République en saisira, soit le juge d'instruction, soit par voie de requête le juge des enfants et, à Paris, le président du tribunal pour enfants. Il pourra également saisir le tribunal pour enfants conformément à la procédure de jugement à délai rapproché prévue par l'article 14-2 ;
 
 Le procureur de la République pourra également donner instruction à un officier ou un agent de police judiciaire de notifier au mineur contre lequel il existe des charges suffisantes d'avoir commis un délit une convocation à comparaître devant le juge des enfants qui en sera immédiatement avisé, aux fins d'application de l'article 8-1. Cette convocation, qui vaudra citation à personne, entraînera l'application des délais prévus à l'article 552 du code de procédure pénale.
 

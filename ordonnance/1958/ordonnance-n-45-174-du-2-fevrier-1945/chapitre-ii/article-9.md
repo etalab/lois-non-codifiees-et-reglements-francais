@@ -8,7 +8,7 @@ Lorsque l'instruction sera achevée, le juge d'instruction, sur réquisition du 
 
 2° Soit, s'il estime que le fait constitue une contravention, une ordonnance de renvoi devant le tribunal de police, ou, s'il s'agit d'une contravention de cinquième classe, devant le juge des enfants ou devant le tribunal pour enfants ;
 
-3° Soit, s'il estime que les faits constituent un délit, une ordonnance de renvoi devant le juge des enfants ou devant le tribunal pour enfants ;
+3° Soit, s'il estime que les faits constituent un délit, une ordonnance de renvoi devant le juge des enfants ou devant le tribunal pour enfants ; toutefois, lorsque la peine encourue est supérieure ou égale à sept ans et que le mineur est âgé de seize ans révolus, le renvoi devant le tribunal pour enfants est obligatoire ;
 
 4° En cas de crime, soit une ordonnance de renvoi devant le tribunal pour enfants s'il s'agit d'un mineur de seize ans, soit, dans le cas visé à l'article 20, une ordonnance de mise en accusation devant la cour d'assises des mineurs.
 

@@ -4,7 +4,7 @@ Le juge des enfants effectuera toutes diligences et investigations utiles pour p
 
 A cet effet, il procédera à une enquête, soit par voie officieuse, soit dans les formes prévues par le chapitre Ier du titre III du livre Ier du code de procédure pénale. Dans ce dernier cas, et si l'urgence l'exige, le juge des enfants pourra entendre le mineur sur sa situation familiale ou personnelle sans être tenu d'observer les dispositions du deuxième alinéa de l'article 114 du code de procédure pénale.
 
-Il pourra décerner tous mandats utiles ou prescrire le contrôle judiciaire en se conformant aux règles du droit commun, sous réserve des dispositions de l'article 11.
+Il pourra décerner tous mandats utiles ou prescrire le contrôle judiciaire en se conformant aux règles du droit commun, sous réserve des dispositions des articles 10-2 et 11.
 
 Il recueillera, par une enquête sociale, des renseignements sur la situation matérielle et morale de la famille, sur le caractère et les antécédents du mineur, sur sa fréquentation scolaire, son attitude à l'école, sur les conditions dans lesquelles il a vécu ou a été élevé.
 
@@ -33,3 +33,5 @@ Il pourra également, par jugement rendu en chambre du conseil :
 - 6° Soit le placer dans l'un des établissements visés aux articles 15 et 16, et selon la distinction établie par ces articles.
 
 Dans tous les cas, il pourra, le cas échéant, prescrire que le mineur sera placé jusqu'à un âge qui n'excèdera pas celui de sa majorité sous le régime de la liberté surveillée.
+
+Lorsque la peine encourue est supérieure ou égale à sept ans et que le mineur est âgé de seize ans révolus, il ne pourra rendre de jugement en chambre du conseil.

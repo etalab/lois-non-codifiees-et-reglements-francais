@@ -4,6 +4,6 @@ Le service de la protection judiciaire de la jeunesse compétent établit, à la
 
 Lorsqu'il est fait application de l'article 5, ce service est obligatoirement consulté avant toute réquisition ou décision de placement en détention provisoire du mineur ou de prolongation de la détention provisoire.
 
-Ce service doit également être consulté avant toute décision du juge des enfants au titre de l'article 8-1 et toute réquisition du procureur de la République au titre des articles 8-2 et 8-3.
+Ce service doit également être consulté avant toute décision du juge des enfants au titre de l'article 8-1 et toute réquisition du procureur de la République au titre des articles 8-2 et 14-2.
 
 Le rapport prévu au premier alinéa est joint à la procédure.
