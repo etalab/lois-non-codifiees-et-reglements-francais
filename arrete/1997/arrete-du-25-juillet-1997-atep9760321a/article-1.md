@@ -1,0 +1,3 @@
+# Article 1
+
+Les installations classées pour la protection de l'environnement soumises à déclaration sous la rubrique n° 2910 (Combustion), lorsque l'installation, dont la puissance thermique maximale est supérieure à 2 MW mais inférieure à 20 MW, consomme exclusivement, seul ou en mélange, du gaz naturel, des gaz de pétrole liquéfiés, du fioul domestique, du charbon, des fiouls lourds ou de la biomasse, à l'exclusion des installations visées par d'autres rubriques de la nomenclature pour lesquelles la combustion participe à la fusion, la cuisson ou au traitement, en mélange avec les gaz de combustion, des matières entrantes, sont soumises aux dispositions de l'annexe I . Les présentes dispositions s'appliquent sans préjudice des autres législations.
