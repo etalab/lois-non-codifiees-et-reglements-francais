@@ -10,9 +10,9 @@ b) Le code des ports maritimes en tant qu'il soumet les travaux portuaires à au
 
 c) Le décret du 28 mars 1957 susvisé ;
 
-d) Le décret du 6 novembre 1962 susvisé ;
+d) [*abrogé*]
 
-e) Le décret du 13 janvier 1965 susvisé ;
+e) [*abrogé*]
 
 f) [*supprimé*]
 
@@ -38,4 +38,8 @@ b) Les dispositions des titres II et III du livre Ier nouveau du code rural.
 
 c) Le décret 89-3 du 3 janvier 1989 modifié relatif aux eaux destinées à la consommation humaine, à l'exclusion des eaux minérales naturelles.
 
+d) Le décret n° 62-1296 du 6 novembre 1962 pris pour l'application de l'ordonnance du 25 novembre 1958 en ce qui concerne le stockage souterrain de gaz combustible.
+
 e) Le décret n° 95-540 du 4 mai 1995 relatif aux rejets d'effluents liquides et gazeux et aux prélèvements d'eau des installations nucléaires de base.
+
+f) Le décret 65-72 du 13 janvier 1965 pris pour l'application de l'ordonnance n° 58-1332 du 23 décembre 1958 relative au stockage souterrain d'hydrocarbures liquides ou liquéfiés.
