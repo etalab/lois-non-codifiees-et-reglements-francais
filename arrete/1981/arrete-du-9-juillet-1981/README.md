@@ -1,4 +1,12 @@
-# Arrêté du 9 juillet 1981 RELATIF A LA COTISATION DUE PAR LES ENTREPRISES VISEES AUX ARTICLES L. 731-1 ET R. 731-1 DU CODE DU TRAVAIL.
+# Arrêté du 9 juillet 1981 fixant les règles applicables au concours de caporal de sapeurs-pompiers volontaires
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
+- [Article 3](article-3.md)
+- [Article 4](article-4.md)
+- [Article 5](article-5.md)
+- [Article 6](article-6.md)
+- [Article 7](article-7.md)
+- [Article 8](article-8.md)
+- [Article 9](article-9.md)
+- [Article Execution](article-execution.md)
