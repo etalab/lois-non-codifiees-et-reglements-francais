@@ -11,3 +11,9 @@ Les concentrations maximales et minimales dans les produits de nettoyage ;
 Les conditions d'utilisation.
 
 Ces arrêtés pourront également définir les méthodes d'essais des produits de nettoyage.
+
+Lorsque les constituants sont des organismes génétiquement modifiés au sens de la loi n° 92-654 du 13 juillet 1992 relative au contrôle de l'utilisation et de la dissémination des organismes génétiquement modifiés et modifiant la loi n° 76-663 du 19 juillet 1976 relative aux installations classées pour la protection de l'environnement, l'arrêté mentionné au premier alinéa fixe également :
+
+a) L'identification de l'organisme génétiquement modifié autorisé ;
+
+b) Les conditions d'emploi de l'organisme, complétées, le cas échéant, par des dispositions relatives à l'emballage, à l'étiquetage et au mode d'emploi du produit de nettoyage dans lequel il a été introduit, y compris des conditions concernant des écosystèmes ou environnements particuliers.
