@@ -19,6 +19,7 @@
 - [Ordonnance n° 45-993 du 17 mai 1945](ordonnance-n-45-993-du-17-mai-1945)
 - [Ordonnance n° 45-1355 du 20 juin 1945](ordonnance-n-45-1355-du-20-juin-1945)
 - [Ordonnance n° 45-476 du 24 mars 1945](ordonnance-n-45-476-du-24-mars-1945)
+- [Ordonnance n° 45-1903 du 25 août 1945](ordonnance-n-45-1903-du-25-aout-1945)
 - [Ordonnance n° 45-1418 du 28 juin 1945](ordonnance-n-45-1418-du-28-juin-1945)
 - [Ordonnance n°45-1483 du 30 juin 1945](ordonnance-n45-1483-du-30-juin-1945)
 - [Ordonnance n°45-1484 du 30 juin 1945](ordonnance-n45-1484-du-30-juin-1945)
