@@ -1,6 +1,5 @@
-# Décret n°68-399 du 29 avril 1968 FIXANT LES CONDITIONS D'APPLICATION DE L'ARTICLE L. 161 DU CODE DE LA SECURITE SOCIALE.
+# CHAPITRE II COTISATIONS.
 
-- [Article 1](article-1.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
 - [Article 5](article-5.md)
