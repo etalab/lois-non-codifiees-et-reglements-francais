@@ -1,3 +1,0 @@
-# Article 8
-
-Tout créancier inscrit antérieurement à l'entrée en vigueur de la présente loi peut s'opposer à la remise prévue à l'article 16-1, alinéa 2, de la loi du 10 juillet 1965. Cette opposition est notifiée au notaire détenteur de la minute du règlement initial de copropriété antérieurement à la constatation de la cession en la forme authentique. Dans ce cas, la part du copropriétaire intéressé doit être consignée au profit du ou des créanciers opposants pour leur être distribuée, compte tenu du rang de préférence des inscriptions portant sur les parties privatives comprises dans les lots concernés par ces oppositions.
