@@ -1,7 +1,5 @@
 # Article 8
 
-Le directeur général de l'économat des armées est un commissaire général. Il est nommé par décret, sur proposition du ministère de la défense.
-
 Le directeur général dirige l'établissement dans le cadre des orientations définies par le conseil d'administration et lui rend compte chaque année de sa gestion. A ce titre, il exerce notamment les compétences suivantes :
 
 1° Il arrête l'organisation et les règles de fonctionnement de l'établissement ;

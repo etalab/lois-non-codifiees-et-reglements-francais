@@ -1,0 +1,7 @@
+# Article 55
+
+Des indemnités seront allouées en cas de dommages causés soit par dégâts matériels, soit par privation de jouissance, aux propriétés privées occupées par les troupes ou interdites aux habitants à l'occasion des exercices de tir prévus par l'article 28 de la loi du 24 juillet 1873. L'évaluation et le mode de paiement de ces indemnités auront lieu conformément aux règles posées dans les deuxième, troisième et quatrième paragraphes de l'article 54 précédent et dans les conditions qui seront déterminées par un décret en Conseil d'Etat.
+
+Toutes les fois qu'un chemin vicinal ou rural reconnu, entretenu à l'état de viabilité par une commune, sera habituellement ou temporairement dégradé, soit par l'exécution des tirs, soit par les charrois qu'ils occasionnent, il pourra y avoir lieu à des subventions spéciales dont la quotité sera proportionnée à la dégradation extraordinaire qui devra être attribuée aux causes susindiquées. Ces dégradations seront constatées et les subventions réglées dans les conditions prévues aux articles 14 de la loi du 21 mai 1836 et 11 de la loi du 20 août 1881.
+
+Quiconque séjournera ou pénétrera dans les terrains interdits par les consignes des champs de tir, ou y laissera séjourner ou fera pénétrer des bestiaux ou bêtes de trait, de charge ou de monture, sera passible des peines prévues par l'article 471, n° 15, du Code pénal et pourra, en outre, être déchu de tout droit à indemnité en cas d'accident.

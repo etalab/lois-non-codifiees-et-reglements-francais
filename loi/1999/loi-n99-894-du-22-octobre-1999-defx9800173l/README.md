@@ -2,5 +2,4 @@
 
 - [TITRE Ier : La réserve militaire](titre-ier)
 - [TITRE II : Du conseil supérieur de la réserve militaire.](titre-ii)
-- [TITRE III : Le service de défense.](titre-iii)
 - [TITRE IV : Dispositions particulières](titre-iv)

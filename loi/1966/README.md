@@ -6,3 +6,4 @@
 - [Loi n° 66-879 du 29 novembre 1966](loi-n-66-879-du-29-novembre-1966)
 - [Loi n° 66-948 du 22 décembre 1966](loi-n-66-948-du-22-decembre-1966)
 - [Loi n°66-400 du 18 juin 1966](loi-n66-400-du-18-juin-1966)
+- [Loi n°66-458 du 2 juillet 1966](loi-n66-458-du-2-juillet-1966)

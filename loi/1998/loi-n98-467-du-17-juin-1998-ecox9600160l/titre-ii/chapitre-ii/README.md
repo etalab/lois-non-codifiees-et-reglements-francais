@@ -1,4 +1,0 @@
-# Chapitre II : Produits chimiques du tableau 2 et leurs installations
-
-- [Section 1 : Produits chimiques.](section-1)
-- [Section 2 : Installations.](section-2)
