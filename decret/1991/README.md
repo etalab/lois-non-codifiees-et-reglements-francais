@@ -29,6 +29,7 @@
 - [Décret n°91-31 du 9 janvier 1991 (AGRP9002228D)](decret-n91-31-du-9-janvier-1991-agrp9002228d)
 - [Décret n°92-26 du 9 janvier 1992 (MENN9102859D)](decret-n92-26-du-9-janvier-1992-menn9102859d)
 - [Décret n°91-58 du 10 janvier 1991 (PTTX9100003D)](decret-n91-58-du-10-janvier-1991-pttx9100003d)
+- [Décret n°91-33 du 11 janvier 1991 (PRMX9000192D)](decret-n91-33-du-11-janvier-1991-prmx9000192d)
 - [Décret n°91-1250 du 12 décembre 1991 (MENF9101696D)](decret-n91-1250-du-12-decembre-1991-menf9101696d)
 - [Décret n°91-921 du 12 septembre 1991 (AGRA9101669D)](decret-n91-921-du-12-septembre-1991-agra9101669d)
 - [Décret n°90-1026 du 14 novembre 1990 (MCCB9000487D)](decret-n90-1026-du-14-novembre-1990-mccb9000487d)

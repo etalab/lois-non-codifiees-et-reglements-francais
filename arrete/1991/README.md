@@ -20,6 +20,7 @@
 - [Arrêté du 18 décembre 1990 (EQUR9001671A)](arrete-du-18-decembre-1990-equr9001671a)
 - [Arrêté du 18 décembre 1990 (EQUT9001680A)](arrete-du-18-decembre-1990-equt9001680a)
 - [Arrêté du 18 décembre 1990 (SPSG9002563A)](arrete-du-18-decembre-1990-spsg9002563a)
+- [Arrêté du 19 décembre 1990 (ECOC9000174A)](arrete-du-19-decembre-1990-ecoc9000174a)
 - [Arrêté du 19 décembre 1990 (SPSS9002554A)](arrete-du-19-decembre-1990-spss9002554a)
 - [Arrêté du 20 décembre 1990 (INDA9000889A)](arrete-du-20-decembre-1990-inda9000889a)
 - [Arrêté du 20 décembre 1990 (PTTT9001021A)](arrete-du-20-decembre-1990-pttt9001021a)
