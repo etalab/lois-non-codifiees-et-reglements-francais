@@ -2,4 +2,4 @@
 
 - [CHAPITRE II : Règles applicables aux services de radiodiffusion sonore](chapitre-ii)
 - [TITRE II : DISPOSITIONS APPLICABLES AUX SERVICES ÉMIS DEPUIS LA FRANCE](titre-ii)
-- [CHAPITRE III : Règles applicables aux services de télévision](chapitre-iii)
+- [CHAPITRE III : Règles applicables aux services de télévision d'expression française](chapitre-iii)
