@@ -357,6 +357,8 @@
 - [Décret n°85-1369 du 20 décembre 1985](decret-n85-1369-du-20-decembre-1985)
 - [Décret n°86-102 du 20 janvier 1986](decret-n86-102-du-20-janvier-1986)
 - [Décret n°86-1193 du 20 novembre 1986](decret-n86-1193-du-20-novembre-1986)
+- [Décret n°86-1205 du 20 novembre 1986](decret-n86-1205-du-20-novembre-1986)
+- [Décret n°86-1206 du 20 novembre 1986](decret-n86-1206-du-20-novembre-1986)
 - [Décret n°86-247 du 20 février 1986](decret-n86-247-du-20-fevrier-1986)
 - [Décret n°86-252 du 20 février 1986](decret-n86-252-du-20-fevrier-1986)
 - [Décret du 21 août 1986](decret-du-21-aout-1986)
