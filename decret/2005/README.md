@@ -1,9 +1,13 @@
 # 2005
 
 - [Décret n°2005-77 du 1 février 2005 (JUSC0420920D)](decret-n2005-77-du-1-fevrier-2005-jusc0420920d)
+- [Décret n°2005-82 du 1 février 2005 (DEVP0420080D)](decret-n2005-82-du-1-fevrier-2005-devp0420080d)
+- [Décret du 2 février 2005 (AGRP0500006D)](decret-du-2-fevrier-2005-agrp0500006d)
 - [Décret n°2004-1172 du 2 novembre 2004 (SANS0422912D)](decret-n2004-1172-du-2-novembre-2004-sans0422912d)
 - [Décret n°2004-1327 du 2 décembre 2004 (SANH0423947D)](decret-n2004-1327-du-2-decembre-2004-sanh0423947d)
 - [Décret n°2004-951 du 2 septembre 2004 (JUSC0420587D)](decret-n2004-951-du-2-septembre-2004-jusc0420587d)
+- [Décret n°2005-80 du 2 février 2005 (MAEA0420538D)](decret-n2005-80-du-2-fevrier-2005-maea0420538d)
+- [Décret n°2005-81 du 2 février 2005 (AGRA0402356D)](decret-n2005-81-du-2-fevrier-2005-agra0402356d)
 - [Décret n°2005-932 du 2 août 2005 (SANH0522491D)](decret-n2005-932-du-2-aout-2005-sanh0522491d)
 - [Décret n°2005-942 du 2 août 2005 (DEFP0500906D)](decret-n2005-942-du-2-aout-2005-defp0500906d)
 - [Décret n°2005-1 du 3 janvier 2005 (ECOF0420176D)](decret-n2005-1-du-3-janvier-2005-ecof0420176d)

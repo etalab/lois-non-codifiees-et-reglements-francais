@@ -1,0 +1,3 @@
+# Article 11
+
+Les vins pour lesquels, aux termes du présent décret, est revendiquée l'appellation d'origine contrôlée "Saint-Chinian" ou "Saint-Chinian" complétée du nom "Berlou" ou du nom "Roquebrun" et qui sont présentés sous ladite appellation ne peuvent être déclarés après la récolte, offerts au public, expédiés, mis en vente ou vendus sans que, dans les documents d'accompagnement, dans la déclaration de stock, dans les annonces, sur les prospectus, étiquettes, factures, récipients quelconques, l'appellation d'origine contrôlée susvisée soit inscrite et accompagnée de la mention "Appellation contrôlée", le tout en caractères très apparents.
