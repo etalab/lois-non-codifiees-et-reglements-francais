@@ -2,7 +2,11 @@
 
 La jouissance [*entrée*] de la pension est immédiate [*bénéficiaires*] :
 
-1° Pour les agents radiés des cadres par limite d'âge ainsi que pour ceux qui ont atteint, à la date de radiation des cadres, l'âge de soixante ans ou, s'ils ont accompli au moins quinze ans de services actifs ou de la catégorie B, l'âge de cinquante-cinq ans.    Les emplois classés dans la catégorie B sont déterminés par des arrêtés conjoints du ministre chargé des collectivités territoriales, du ministre chargé du budget, du ministre chargé de la sécurité sociale et du ministre chargé de la santé, pris après avis du conseil supérieur compétent.    2° Pour les agents mis à la retraite pour invalidité ;
+1° Pour les agents radiés des cadres par limite d'âge ainsi que pour ceux qui ont atteint, à la date de radiation des cadres, l'âge de soixante ans ou, s'ils ont accompli au moins quinze ans de services actifs ou de la catégorie B, l'âge de cinquante-cinq ans.    Les emplois classés dans la catégorie B sont déterminés par des arrêtés conjoints du ministre chargé des collectivités territoriales, du ministre chargé du budget, du ministre chargé de la sécurité sociale et du ministre chargé de la santé, pris après avis du conseil supérieur compétent.    " Les agents qui, à la date de leur intégration dans l'un des cadres d'emplois prévus par l'article 4 de la loi du 26 janvier 1984 modifiée précitée sont titulaires de l'un des emplois classés dans la catégorie B, conservent, sous réserve d'être nommés à ces mêmes emplois, l'avantage attaché à ce classement.
+
+" Cet avantage est également consenti aux fonctionnaires titulaires des cadres d'emplois nommés à l'un des emplois classés dans la catégorie B au sens du deuxième alinéa du présent article, à la date de leur affectation. "
+
+2° Pour les agents mis à la retraite pour invalidité ;
 
 3° Pour les agents du sexe féminin :
 
