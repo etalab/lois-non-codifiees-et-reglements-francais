@@ -367,6 +367,7 @@
 - [Arrêté du 22 juin 1988 (MENU8801069A)](arrete-du-22-juin-1988-menu8801069a)
 - [Arrêté du 22 juin 1988 (MENU8801090A)](arrete-du-22-juin-1988-menu8801090a)
 - [Arrêté du 22 juin 1988 (MERE8800032A)](arrete-du-22-juin-1988-mere8800032a)
+- [Arrêté du 22 juin 1988 (PRME8861156A)](arrete-du-22-juin-1988-prme8861156a)
 - [Arrêté du 22 juin 1988 (SPSS8800873A)](arrete-du-22-juin-1988-spss8800873a)
 - [Arrêté du 22 mars 1988 (PTTM8800227A)](arrete-du-22-mars-1988-pttm8800227a)
 - [Arrêté du 23 avril 1988 (MCCK8800256A)](arrete-du-23-avril-1988-mcck8800256a)

@@ -15,6 +15,8 @@
 - [Décret n°88-805 du 12 juillet 1988 (BUDX8800107D)](decret-n88-805-du-12-juillet-1988-budx8800107d)
 - [Décret n°88-812 du 12 juillet 1988 (INTK8800223D)](decret-n88-812-du-12-juillet-1988-intk8800223d)
 - [Décret n°88-814 du 12 juillet 1988 (JUSC8820476D)](decret-n88-814-du-12-juillet-1988-jusc8820476d)
+- [Décret n°88-817 du 13 juillet 1988 (MAEJ8830044D)](decret-n88-817-du-13-juillet-1988-maej8830044d)
+- [Décret n°88-818 du 13 juillet 1988 (MAEJ8830045D)](decret-n88-818-du-13-juillet-1988-maej8830045d)
 - [Décret n°88-770 du 17 juin 1988 (AGRS8800909D)](decret-n88-770-du-17-juin-1988-agrs8800909d)
 - [Décret n°88-768 du 21 juin 1988 (TRST8800299D)](decret-n88-768-du-21-juin-1988-trst8800299d)
 - [Décret n°88-766 du 22 juin 1988 (ECOF8800007D)](decret-n88-766-du-22-juin-1988-ecof8800007d)
