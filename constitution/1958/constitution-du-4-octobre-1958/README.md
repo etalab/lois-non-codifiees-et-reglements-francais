@@ -13,7 +13,7 @@
 - [Titre XI : Des collectivités territoriales.](titre-xi)
 - [Titre XIII : Des accords d'association.](titre-xiii)
 - [Titre XV : De la revision.](titre-xv)
-- [Titre XIV : De la revision.](titre-xiv)
+- [Titre XIV : Des Communautés européennes et de l'Union européenne.](titre-xiv)
 - [Titre XVI : Dispositions transitoires.](titre-xvi)
 - [Titre premier : De la souveraineté](titre-premier)
 - [Article PREAMBULE](article-preambule.md)

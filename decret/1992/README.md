@@ -443,6 +443,7 @@
 - [Décret n°92-191 du 25 février 1992 (MENN9102928D)](decret-n92-191-du-25-fevrier-1992-menn9102928d)
 - [Décret n°92-192 du 25 février 1992 (MAEJ9230006D)](decret-n92-192-du-25-fevrier-1992-maej9230006d)
 - [Décret n°92-294 du 25 mars 1992 (INTC9200104D)](decret-n92-294-du-25-mars-1992-intc9200104d)
+- [Décret n°92-555 du 25 juin 1992 (EQUA9200814D)](decret-n92-555-du-25-juin-1992-equa9200814d)
 - [Décret n°92-566 du 25 juin 1992 (SANH9201026D)](decret-n92-566-du-25-juin-1992-sanh9201026d)
 - [Décret n°92-463 du 25 mai 1992 (TEFF9204813D)](decret-n92-463-du-25-mai-1992-teff9204813d)
 - [Décret n°92-464 du 25 mai 1992 (TEFF9204814D)](decret-n92-464-du-25-mai-1992-teff9204814d)
