@@ -10,8 +10,6 @@ L'examen peut être conduit par voie sèche ou par voie humide.
 
 Lorsqu'il est conduit par voie humide, il doit être effectué conformément aux prescriptions de la norme NF A 04-101 de décembre 1946.
 
-La méthode de magnétisation utilisée sera une méthode sans circulation de courant dans la pièce, mise en oeuvre avec un électro-aimant mobile dont la pièce contrôlée vient fermer le circuit magnétique.
-
 Le mode opératoire de l'examen doit être défini dans un document tenu à la disposition des agents des directions interdépartementales de l'industrie.
 
 Il doit notamment prévoir une préparation des surfaces examinées appropriée à la détection des défauts plans.
