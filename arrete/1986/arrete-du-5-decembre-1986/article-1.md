@@ -1,3 +1,3 @@
 # Article 1
 
-Le Crédit d'équipement des petites et moyennes entreprises est autorisé à émettre simultanément deux emprunts obligataires d'un montant total de 500 millions de francs.
+L'Institut de mécanique céleste et de calcul des éphémérides est inscrit sur la liste des établissements et services prévue à l'article 1 du décret du 12 mars 1986 susvisé.

@@ -1,6 +1,4 @@
-# Arrêté du 5 décembre 1986 accordant la garantie de l'Etat à deux emprunts du Crédit d'équipement des petites et moyennes entreprises
+# Arrêté du 5 décembre 1986 portant inscription sur la liste des établissements et services prévue par l'article 1er du décret n° 86-434 du 12 mars 1986 portant statut du corps des astronomes et physiciens et du corps des astronomes adjoints et physiciens adjoints.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
-- [Article 3](article-3.md)
-- [Article 4](article-4.md)

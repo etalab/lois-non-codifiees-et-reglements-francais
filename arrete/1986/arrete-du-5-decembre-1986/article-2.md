@@ -1,3 +1,3 @@
 # Article 2
 
-Le service des emprunts en intérêts, amortissement, impôts et frais accessoires est garanti par l'Etat.
+Le directeur des personnels d'enseignement supérieur est chargé de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.
