@@ -80,6 +80,8 @@
 - [Décret n°82-43 du 16 janvier 1982](decret-n82-43-du-16-janvier-1982)
 - [Décret n°82-44 du 16 janvier 1982](decret-n82-44-du-16-janvier-1982)
 - [Décret n°82-525 du 16 juin 1982](decret-n82-525-du-16-juin-1982)
+- [Décret n°82-616 du 16 juillet 1982](decret-n82-616-du-16-juillet-1982)
+- [Décret n°82-617 du 16 juillet 1982](decret-n82-617-du-16-juillet-1982)
 - [Décret n°82-722 du 16 août 1982](decret-n82-722-du-16-aout-1982)
 - [Décret n°82-172 du 17 février 1982](decret-n82-172-du-17-fevrier-1982)
 - [Décret n°82-173 du 17 février 1982](decret-n82-173-du-17-fevrier-1982)
