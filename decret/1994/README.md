@@ -508,7 +508,6 @@
 - [Décret n°94-326 du 19 avril 1994 (MAEA9320208D)](decret-n94-326-du-19-avril-1994-maea9320208d)
 - [Décret n°94-606 du 19 juillet 1994 (EQUT9400365D)](decret-n94-606-du-19-juillet-1994-equt9400365d)
 - [Décret n°94-613 du 19 juillet 1994 (ECOC9400103D)](decret-n94-613-du-19-juillet-1994-ecoc9400103d)
-- [Décret n°94-632 du 19 juillet 1994 (SPSI9401535D)](decret-n94-632-du-19-juillet-1994-spsi9401535d)
 - [Décret n°94-634 du 19 juillet 1994 (SPSS9401755D)](decret-n94-634-du-19-juillet-1994-spss9401755d)
 - [Décret n°94-69 du 19 janvier 1994 (EQUT9301689D)](decret-n94-69-du-19-janvier-1994-equt9301689d)
 - [Décret n°94-726 du 19 août 1994 (MAEA9420390D)](decret-n94-726-du-19-aout-1994-maea9420390d)
