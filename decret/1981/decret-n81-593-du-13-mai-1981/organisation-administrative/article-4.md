@@ -1,23 +1,27 @@
 # Article 4
 
-Le conseil d'administration de l'agence est composé :
+Le conseil d'administration de l'agence comprend :
 
-1° Pour un tiers de représentants de l'Etat, à savoir :
+1° Sept représentants de l'Etat, nommément désignés respectivement par :
 
-Le directeur de la prévention des pollutions ou son représentant ;
+- le ministre chargé de l'environnement ;
 
-Le directeur de la construction ou son représentant ;
+- le ministre chargé de la construction ;
 
-Le directeur général de la santé et des hôpitaux ou son représentant ;
+- le ministre chargé de la santé ;
 
-Le directeur général des collectivités locales ou son représentant ;
+- le ministre de l'intérieur ;
 
-Le directeur du Trésor ou son représentant ;
+- le ministre chargé du trésor ;
 
-Le directeur du budget ou son représentant ;
+- le ministre chargé du budget ;
 
-Le directeur de la qualité et de la sécurité industrielle ou son représentant.
+- le ministre chargé de l'industrie.
 
-2° Pour un tiers de représentants de collectivités locales, à savoir sept maires ou conseillers généraux, désignés par arrêté conjoint du ministre chargé de l'environnement et du ministre de l'intérieur.
+Des représentants de l'Etat suppléants peuvent être désignés dans les mêmes conditions.
 
-3° Pour un tiers de personnalités qualifiées et de représentants d'associations ou de groupements intéressés, désignés par arrêté du ministre chargé de l'environnement.
+2° Sept maires, conseillers généraux ou conseillers régionaux, désignés par arrêté conjoint du ministre chargé de l'environnement et du ministre de l'intérieur ;
+
+3° Sept personnalités qualifiées ou représentants d'associations ou de groupements intéressés, désignés par arrêté du ministre chargé de l'environnement ;
+
+4° Deux représentants des salariés de l'agence élus dans les conditions prévues par le chapitre II du titre II de la loi n° 83-675 du 26 juillet 1983.
