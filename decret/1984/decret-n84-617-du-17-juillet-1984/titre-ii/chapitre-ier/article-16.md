@@ -1,0 +1,3 @@
+# Article 16
+
+Les schémas directeurs d'infrastructures peuvent porter sur un ou plusieurs modes de transport. Ils se composent d'un rapport et de documents graphiques. Le rapport fait apparaître la situation existante, les différents partis d'aménagement envisagés par l'auteur du schéma, les objectifs à atteindre et leur justification, les priorités à réaliser, ainsi que les caractéristiques et les conditions essentielles de fonctionnement des infrastructures. Il souligne les conditions dans lesquelles sont appliqués les critères définis par la loi susvisée du 30 décembre 1982, notamment en ses articles 1er, 3 et 14 (alinéa 3).

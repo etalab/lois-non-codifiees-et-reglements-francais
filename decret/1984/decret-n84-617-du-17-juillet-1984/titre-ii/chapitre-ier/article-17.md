@@ -1,0 +1,3 @@
+# Article 17
+
+Afin d'assurer la compatibilité des schémas directeurs d'infrastructures avec les schémas directeurs prévus à l'article L. 122-1 du Code de l'urbanisme et avec les plans d'occupation des sols, le représentant de l'Etat porte à la connaissance de l'autorité compétente les projets d'intérêt général insérés dans les schémas directeurs d'infrastructures. Il en tient compte pour demander la révision ou décider l'élaboration et procéder à l'établissement, dans les conditions prévues à l'article L. 122-1-4 du Code de l'urbanisme, des schémas directeurs prévus à l'article L. 122-1, ainsi que pour demander la révision ou la modification, dans les conditions prévues à l'article L. 123-7-1, des plans d'occupation des sols.
