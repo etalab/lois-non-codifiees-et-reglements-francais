@@ -1,0 +1,3 @@
+# Article 13
+
+Lorsqu'elle met en oeuvre le soudage, la réparation ou la modification d'un récipient à pression simple CE doit être exécutée conformément aux dispositions de l'arrêté du 24 mars 1978 susvisé. Toutefois, le directeur régional de l'industrie et de la recherche compétent pourra autoriser l'exécution de réparations par soudage conformément à des procédures qu'il aura approuvées. Dans le cas d'appareils dont l'attestation d'examen CE de type ou l'attestation d'adéquation CE de dossier a été établie par un organisme désigné par un autre Etat membre, le réparateur devra pouvoir justifier de l'autorisation du constructeur ou dudit organisme de procéder aux réparations en cause.

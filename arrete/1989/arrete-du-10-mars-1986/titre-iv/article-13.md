@@ -1,0 +1,5 @@
+# Article 13
+
+Toute demande de dérogation est introduite par le constructeur ou par son mandataire auprès du directeur régional de l'industrie et de la recherche qui a instruit la procédure d'agrément C.E.E., examen C.E. de type ou d'adéquation C.E. de dossier ou de vérification C.E.E. ou C.E. ou déclaration de conformité C.E. de l'appareil. Elle est accompagnée de tous justificatifs nécessaires. Le directeur régional de l'industrie et de la recherche la transmet, accompagnée de son avis, au ministre chargé de l'industrie.
+
+S'il juge, après avoir pris l'avis de la commission centrale des appareils à pression, qu'il peut lui être donné une suite favorable, le ministre chargé de l'industrie transmet la demande avec ses propositions aux Etats membres de la Communauté européenne. Le constructeur doit lui fournir à cet effet les documents dans les langues des Etats membres, ou acceptées par ces Etats. La procédure suivie est celle définie par l'article 17 (2) de la directive 76-767 C.E.E. du 27 juillet 1976. La dérogation est accordée par le ministre chargé de l'industrie.
