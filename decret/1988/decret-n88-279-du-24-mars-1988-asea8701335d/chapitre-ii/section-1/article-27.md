@@ -1,6 +1,6 @@
 # Article 27
 
-Dans le cas où le budget d'un établissement mentionné au 1° et au 5° ou d'un service mentionné au 3° de l'article 1er n'a pas été transmis dans le délai prévu à l'article 25, le préfet arrête le montant de la dotation globale de financement et le forfait mensuel après avis du directeur départemental des affaires sanitaires et sociales, et notifie sa décision à l'organisme gestionnaire.
+Dans le cas où le budget d'un établissement mentionné au 1°, au 5° et au 6° ou d'un service mentionné au 3° de l'article 1er n'a pas été transmis dans le délai prévu à l'article 25, le préfet arrête le montant de la dotation globale de financement et le forfait mensuel après avis du directeur départemental des affaires sanitaires et sociales, et notifie sa décision à l'organisme gestionnaire.
 
 Le premier versement de la dotation globale ne peut être effectué qu'après approbation du budget principal ou annexe auquel elle se rapporte.
 

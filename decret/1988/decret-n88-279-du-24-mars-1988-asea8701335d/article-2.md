@@ -4,4 +4,4 @@ Les dépenses des services visés au 3° et des centres d'aide par le travail et
 
 Le prix de journée des établissements mentionnés au 2° et au 3° de l'article 1er est calculé dans les mêmes conditions.
 
-Les dépenses des centres visés au 5° de l'article 1er prises en charge par les régimes d'assurance maladie font l'objet de l'attribution à chaque service ou établissement d'une dotation globale de financement annuelle dont le montant est calculé sur la base des prévisions de dépenses et de recettes résultant de l'application des règles budgétaires et comptables fixées au chapitre Ier.
+Les dépenses des centres mentionnés au 5° et des appartements de coordination thérapeutique mentionnés au 6° de l'article 1er prises en charge par les régimes d'assurance maladie font l'objet de l'attribution à chaque service ou établissement d'une dotation globale de financement annuelle dont le montant est calculé sur la base des prévisions de dépenses et de recettes résultant de l'application des règles budgétaires et comptables fixées au chapitre Ier.
