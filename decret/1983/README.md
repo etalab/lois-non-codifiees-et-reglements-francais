@@ -13,6 +13,7 @@
 - [Décret n°83-357 du 2 mai 1983](decret-n83-357-du-2-mai-1983)
 - [Décret n°83-359 du 2 mai 1983](decret-n83-359-du-2-mai-1983)
 - [Décret n°83-367 du 2 mai 1983](decret-n83-367-du-2-mai-1983)
+- [Décret n°83-382 du 2 mai 1983](decret-n83-382-du-2-mai-1983)
 - [Décret n°83-159 du 3 mars 1983](decret-n83-159-du-3-mars-1983)
 - [Décret n°83-173 du 3 mars 1983](decret-n83-173-du-3-mars-1983)
 - [Décret n°83-164 du 4 mars 1983](decret-n83-164-du-4-mars-1983)

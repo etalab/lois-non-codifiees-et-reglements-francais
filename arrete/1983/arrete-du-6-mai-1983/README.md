@@ -1,4 +1,4 @@
-# Arrêté du 6 mai 1983 relatif à l'autorisation de l'émission d'un emprunt par la caisse centrale de coopération économique
+# Arrêté du 6 mai 1983Prix d'achat des alcools de betterave et de mélasse du contingent pour la campagne 1982-1983.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
