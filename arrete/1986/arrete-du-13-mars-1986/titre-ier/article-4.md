@@ -22,12 +22,12 @@ Les dépenses relatives aux travaux d'aménagement du terrain ;
 
 Les honoraires correspondants et taxes diverses.
 
-" III. - Les éléments à prendre en compte pour la détermination du prix de revient de la viabilisation de terrains, en vue de la construction de logements en secteur diffus dans un délai maximum de quatre ans, sont les suivants :
+III. - Les éléments à prendre en compte pour la détermination du prix de revient de la viabilisation de terrains, en vue de la construction de logements en secteur diffus dans un délai maximum de quatre ans, sont les suivants :
 
 Les dépenses relatives aux travaux d'aménagement du terrain ;
 
 Les honoraires correspondants et taxes diverses.
 
-" Le montant maximal en francs du prix de revient de la viabilisation du terrain est limité, à compter du 15 février 1993, pour les départements de la Guadeloupe, de la Martinique et de la Guyane à 47 791 F et à 50 699 F pour le département de la Réunion.
+Le montant maximal en francs du prix de revient de la viabilisation du terrain est limité à compter du 1er janvier 1994 pour les départements de la Guadeloupe, de la Martinique et de la Guyane à 49 225 F et à 52 220 F pour le département de la Réunion.
 
-" La subvention est déterminée dans les conditions prévues à l'article 6-II ci-après. "
+La subvention est déterminée dans les conditions prévues à l'article 6-II ci-après.

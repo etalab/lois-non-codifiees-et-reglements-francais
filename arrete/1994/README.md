@@ -245,6 +245,7 @@
 - [Arrêté du 30 décembre 1993 (AGRM9302525A)](arrete-du-30-decembre-1993-agrm9302525a)
 - [Arrêté du 30 décembre 1993 (ECOT9313731A)](arrete-du-30-decembre-1993-ecot9313731a)
 - [Arrêté du 30 décembre 1993 (EQUT9301893A)](arrete-du-30-decembre-1993-equt9301893a)
+- [Arrêté du 30 décembre 1993 (LOGC9300114A)](arrete-du-30-decembre-1993-logc9300114a)
 - [Arrêté du 30 décembre 1993 (SPSS9303749A)](arrete-du-30-decembre-1993-spss9303749a)
 - [Arrêté du 30 mars 1978](arrete-du-30-mars-1978)
 - [Arrêté du 31 décembre 1993 (AGRB9302409A)](arrete-du-31-decembre-1993-agrb9302409a)
@@ -259,3 +260,4 @@
 - [Arrêté du 31 décembre 1993 (ECOX9301623A)](arrete-du-31-decembre-1993-ecox9301623a)
 - [Arrêté du 31 décembre 1993 (JUSA9300386A)](arrete-du-31-decembre-1993-jusa9300386a)
 - [Arrêté du 31 décembre 1993 (JUSG9360080A)](arrete-du-31-decembre-1993-jusg9360080a)
+- [Arrêté du 31 janvier 1994 (INTA9400083A)](arrete-du-31-janvier-1994-inta9400083a)
