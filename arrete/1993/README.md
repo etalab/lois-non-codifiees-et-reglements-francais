@@ -73,6 +73,7 @@
 - [Arrêté du 18 février 1993 (ACVA9210126A)](arrete-du-18-fevrier-1993-acva9210126a)
 - [Arrêté du 18 janvier 1993 (ECOT9310166A)](arrete-du-18-janvier-1993-ecot9310166a)
 - [Arrêté du 18 janvier 1993 (ECOT9351261A)](arrete-du-18-janvier-1993-ecot9351261a)
+- [Arrêté du 18 janvier 1993 (MENF9204306A)](arrete-du-18-janvier-1993-menf9204306a)
 - [Arrêté du 18 janvier 1993 (SPSS9203101A)](arrete-du-18-janvier-1993-spss9203101a)
 - [Arrêté du 18 novembre 1992 (ENVE9250361A)](arrete-du-18-novembre-1992-enve9250361a)
 - [Arrêté du 19 décembre 1992 (DEFA9202278A)](arrete-du-19-decembre-1992-defa9202278a)
