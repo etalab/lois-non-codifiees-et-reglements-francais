@@ -1,0 +1,9 @@
+# Article 1
+
+Il est institué jusqu'au 31 décembre 1996 [*période*] , au profit du Comité national interprofessionnel de l'horticulture florale, ornementale et des pépinières (C.N.I.H.) [*bénéficiaire*] , pour le financement des activités que ce comité est habilité à exercer en application du décret du 26 mars 1964 susvisé [*destination*]  :
+
+1° Une taxe parafiscale fixe due par toute entreprise, personne physique ou morale [*assujettis*] , qui exerce à titre lucratif de façon habituelle ou occasionnelle une activité de production ou de commercialisation portant sur des produits non comestibles de l'horticulture florale, ornementale et des pépinières mentionnés à l'article 1er du décret du 26 mars 1964 susvisé modifié ou une activité de prestation de services utilisant de tels produits, quels que soient le statut juridique de ces personnes et la forme ou la nature de leurs interventions, à l'exclusion des entreprises n'exerçant qu'une activité d'importation de produits en provenance des autres Etats membres.
+
+2° Une taxe parafiscale ad valorem due par les producteurs, personne physique ou morale, quel que soit le statut juridique de ces personnes, assise sur le montant global hors taxes des ventes du dernier exercice connu ramené à douze mois, portant sur les produits mentionnés ci-dessus.
+
+Pour les entreprises de production soumises au régime du forfait agricole, à défaut de déclaration du montant global des ventes, le montant des ventes hors taxes pour une année est forfaitairement évalué à quatre fois le montant obtenu en multipliant le salaire minimum de croissance mensuel au 1er janvier de l'année considérée par le nombre de mois de travail accomplis dans l'entreprise par les personnes salariés ou non salariées affectées de façon permanente ou occasionnelle, directement ou indirectement, aux activités de production de produits horticoles.
