@@ -1,0 +1,3 @@
+# Article 24
+
+Des comités médicaux, dont la composition et les règles de fonctionnement sont fixées par arrêté conjoint du ministre de l'éducation nationale et du ministre de la santé publique et de la population, donnent leur avis sur les questions d'aptitude physique à l'exercice des fonctions et, d'une manière générale, sur toute question d'ordre médical intéressant la personne des membres titulaires et temporaires du personnel visé à l'article 1er ci-dessus et susceptible d'affecter les droits et obligations de ces personnels dans l'exercice ou à l'occasion de l'exercice de leurs fonctions.

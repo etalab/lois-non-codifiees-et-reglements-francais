@@ -1,0 +1,3 @@
+# Article 16
+
+A des dates qui seront fixées dans chaque cas par décret pris sur proposition du ministre de l'éducation nationale, les instituts de faculté créés conformément à l'article 3 du décret du 31 juillet 1920 et les services spécialisés d'enseignement dépendant ou non des chaires de stomatologie ou d'odonto-stomatologie dans le cadre desquels, et sous quelque forme que ce soit, les facultés de médecine, les facultés mixtes de médecine et de pharmacie dispensent l'enseignement conduisant au diplôme de chirurgien dentiste, sont érigés en écoles nationales de chirurgie dentaire soumises aux dispositions du présent décret.

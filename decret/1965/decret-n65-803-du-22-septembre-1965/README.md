@@ -1,0 +1,15 @@
+# Décret n°65-803 du 22 septembre 1965 portant statut du personnel particulier des centres de soins, d'enseignement et de recherche dentaires des centres hospitaliers et universitaires
+
+- [Article 1](article-1.md)
+- [TITRE Ier CHAPITRE Ier : Fonctions et rémunération](titre-ier-chapitre-ier)
+- [TITRE Ier CHAPITRE II : Positions](titre-ier-chapitre-ii)
+- [TITRE Ier CHAPITRE III : Garanties disciplinaires.](titre-ier-chapitre-iii)
+- [Article 2](article-2.md)
+- [TITRE II CHAPITRE Ier : Assistants des écoles nationales de chirurgie dentaire-odontologistes assistants des services de consultations et de traitements dentaires.](titre-ii-chapitre-ier)
+- [TITRE II CHAPITRE II : Professeurs du deuxième grade des écoles nationales de chirurgie dentaire-odontologistes des services de consultations et de traitements dentaires.](titre-ii-chapitre-ii)
+- [TITRE II CHAPITRE III : Professeurs du premier grade des écoles nationales de chirurgie dentaire-odontologistes des services de consultations et de traitements dentaires.](titre-ii-chapitre-iii)
+- [TITRE II CHAPITRE IV : Mutations et transferts.](titre-ii-chapitre-iv)
+- [TITRE II CHAPITRE V : Dispositions diverses.](titre-ii-chapitre-v)
+- [TITRE III : Dispositions transitoires.](titre-iii)
+- [TITRE IV : Dispositions diverses.](titre-iv)
+- [Article 46](article-46.md)

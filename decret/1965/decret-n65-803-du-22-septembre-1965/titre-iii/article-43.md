@@ -1,0 +1,3 @@
+# Article 43
+
+Pendant une période transitoire prenant fin à une date qui sera fixée par arrêté conjoint du ministre de l'éducation nationale et du ministre de la santé publique et de la population, et au plus tard le 31 décembre 1967, les intégrations et recrutements prévus aux articles 39 et 42 ci-dessus peuvent comporter l'attribution aux bénéficiaires d'un échelon supérieur à l'échelon de début du grade qui leur est conféré compte tenu des services qu'ils ont antérieurement accomplis, dans les conditions fixées par arrêté conjoint du ministre de l'éducation nationale, du ministre de la santé publique et de la population, du ministre des finances et des affaires économiques et du ministre d'Etat chargé de la réforme administrative.

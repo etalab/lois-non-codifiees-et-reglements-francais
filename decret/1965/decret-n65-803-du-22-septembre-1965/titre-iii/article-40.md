@@ -1,0 +1,3 @@
+# Article 40
+
+Les assistants et chefs de travaux des facultés de médecine, facultés mixtes de médecine et de pharmacie ou écoles nationales de médecine et de pharmacie en fonctions à la date de publication du présent décret qui n'avaient pu être titularisés en raison de leur assujettissement à la patente peuvent, s'ils optent pour le régime défini par le présent décret, être intégrés soit à temps plein, soit à temps partiel, après avis des commissions mentionnées à l'article précédent, dans le corps des professeurs visé à l'article 1er ci-dessus et reclassés à l'échelon correspondant à celui qu'ils auraient atteint dans le cadre auquel ils appartenaient si les dispositions relatives à la patente ne leur avaient pas été opposables.
