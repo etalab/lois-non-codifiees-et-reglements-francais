@@ -1,0 +1,3 @@
+# Article 35
+
+Dans les professions agricoles définies aux 1° à 4° de l'article L. 722-1 du code rural ainsi que dans les coopératives d'utilisation de matériel agricole, le pourcentage minimal indiqué au premier alinéa de l'article L. 952-1 du code du travail est fixé à 0,25 %. Des accords de branche étendus, conclus avant le 30 juin 2004, peuvent prévoir les modalités d'évolution de ce taux minimal, qui ne pourra être inférieur à 0,55 % le 1er janvier 2008. Ces accords peuvent également moduler les versements affectés aux différentes actions prévues par les articles L. 931-1, L. 931-20, L. 951-1 et L. 952-1 du même code.

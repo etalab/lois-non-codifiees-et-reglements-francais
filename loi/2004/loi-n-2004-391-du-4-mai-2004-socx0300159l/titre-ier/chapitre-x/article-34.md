@@ -1,0 +1,9 @@
+# Article 34
+
+Les dispositions de l'article 30 de la loi de finances pour 1985 (n° 84-1208 du 29 décembre 1984), de l'article 25 de la loi n° 98-657 du 29 juillet 1998 relative à la lutte contre les exclusions et de l'article 2 de la loi n° 2001-624 du 17 juillet 2001 portant diverses dispositions d'ordre social, éducatif et culturel sont abrogées, sous réserve des dispositions suivantes :
+
+I. - A compter de la date de publication de la présente loi, les organismes collecteurs paritaires agréées au titre de l'article 30 de la loi de finances pour 1985 précitée sont agréés pour collecter les fonds mentionnés au quatrième alinéa (2°) de l'article L. 951-1 et au troisième alinéa (1°) de l'article L. 952-1. Les dispositions de l'article 30 de la loi de finances pour 1985 précitée sont applicables à ces organismes jusqu'au 30 juin 2004.
+
+II. - Les contrats d'insertion en alternance définis au titre VIII du livre IX du code du travail dans sa rédaction antérieure à la publication de la présente loi et les contrats mentionnés à l'article 25 de la loi n° 98-657 du 29 juillet 1998 précitée peuvent être conclus jusqu'au 30 septembre 2004. Ces dispositions et les dispositions de l'article 30 de la loi de finances pour 1985 précitée leur sont applicables jusqu'à leur terme s'ils sont à durée déterminée ou jusqu'au terme de la période de qualification ou d'adaptation s'ils sont à durée indéterminée.
+
+III. - Les contrats de professionnalisation définis au chapitre Ier du titre VIII du livre IX du code du travail dans sa rédaction issue de l'article 13 de la présente loi peuvent être conclus à compter du 1er octobre 2004. Les dispositions relatives aux périodes de professionnalisation définies au chapitre II du même titre dans sa rédaction issue de l'article 14 de la présente loi peuvent être mises en oeuvre à compter de cette même date.
