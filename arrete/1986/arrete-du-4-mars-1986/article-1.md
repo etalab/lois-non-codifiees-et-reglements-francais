@@ -1,19 +1,93 @@
 # Article 1
 
-Pour l'application des articles 2, 3 et 4 du décret n° 85-894 du 14 août 1985 susvisé, le président du conseil général transmet au commissaire de la République du département les formulaires statistiques normalisés suivants qui doivent être conformes aux modèles figurant en annexe du présent arrêté :
+La composition et les caractéristiques des pièces commémoratives de 100 F qui seront frappées, au millésime 1986, par l'administration des Monnaies et Médailles pour le compte de l'Etat, conformément au programme prévu dans la loi de finances pour 1986 sont fixées ainsi qu'il suit :
 
-Annexe n° 1 : fichier national des établissements sanitaires et sociaux ;
+Désignation : pièces en argent de qualité courante.
 
-Annexe n° 2 : questionnaire sur le service départemental de la protection maternelle et infantile ;
+Diamètre (en millimètres) : 31.
 
-Annexe n° 3 : questionnaires sur les services départementaux de prophylaxie sanitaire ;
+Composition :
 
-Annexe n° 4 : questionnaires sur les services d'aide à domicile ;
+- titre droit : argent 900, cuivre 100.
 
-Annexe n° 5 : questionnaires sur le personnel des services sanitaires et sociaux départementaux et des organismes conventionnés ;
+- tolérance (en millièmes) : plus ou moins 3.
 
-Annexe n° 6 : questionnaire sur les bénéficiaires de l'aide sociale relevant de la compétence du département ;
+Poids :
 
-Annexe n° 7 : questionnaire sur la santé de la mère et de l'enfant ;
+- poids droit : 15 grammes.
 
-Annexe n° 8 : questionnaire sur les dépenses d'aide sociale relevant de la compétence du département.
+- tolérance (en millièmes) : plus ou moins 10.
+
+Tranche lisse.
+
+Désignation : pièces en argent de qualité Brillant universel.
+
+Diamètre (en millimètres) : 31.
+
+Composition :
+
+- titre droit : argent 900, cuivre 100.
+
+- tolérance (en millièmes) : plus ou moins 3.
+
+Poids :
+
+- poids droit : 15 grammes.
+
+- tolérance (en millièmes) : plus ou moins 10.
+
+Tranche lisse.
+
+Désignation : pièces en argent de qualité Epreuve.
+
+Diamètre (en millimètres) : 31.
+
+Composition :
+
+- titre droit : argent 999.
+
+- tolérance (en millièmes) : néant.
+
+Poids :
+
+- poids droit : 15 grammes.
+
+- tolérance (en millièmes) : plus ou moins 10.
+
+Tranche lisse.
+
+Désignation : pièces en or de qualité Brillant universel.
+
+Diamètre (en millimètres) : 31.
+
+Composition :
+
+- titre droit : or 920, argent 40, cuivre 40.
+
+- tolérance (en millièmes) : plus ou moins 1.
+
+Poids :
+
+- poids droit : 17 grammes.
+
+- tolérance (en millièmes) : plus ou moins 2.
+
+Tranche lisse.
+
+Désignation : pièces en or de qualité Epreuve.
+
+Diamètre (en millimètres) : 31.
+
+Composition :
+
+- titre droit : or 920, argent 40, cuivre 40.
+
+- tolérance (en millièmes) : plus ou moins 1.
+
+Poids :
+
+- poids droit : 17 grammes.
+
+- tolérance (en millièmes) : plus ou moins 2.
+
+Tranche lisse.
