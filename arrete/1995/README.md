@@ -664,6 +664,7 @@
 - [Arrêté du 21 février 1995 (MJSK9570029A)](arrete-du-21-fevrier-1995-mjsk9570029a)
 - [Arrêté du 21 janvier 1995 (INTA9500020A)](arrete-du-21-janvier-1995-inta9500020a)
 - [Arrêté du 21 juillet 1994 (INTE9400390A)](arrete-du-21-juillet-1994-inte9400390a)
+- [Arrêté du 21 juillet 1995 (INTC9500384A)](arrete-du-21-juillet-1995-intc9500384a)
 - [Arrêté du 21 juin 1995 (ECOT9516209A)](arrete-du-21-juin-1995-ecot9516209a)
 - [Arrêté du 21 juin 1995 (ECOT9516210A)](arrete-du-21-juin-1995-ecot9516210a)
 - [Arrêté du 21 juin 1995 (SANC9501955A)](arrete-du-21-juin-1995-sanc9501955a)
