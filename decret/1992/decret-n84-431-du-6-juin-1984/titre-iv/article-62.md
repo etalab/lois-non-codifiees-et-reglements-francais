@@ -1,0 +1,3 @@
+# Article 62
+
+A titre transitoire et pendant une période de cinq ans, à compter de l'entrée en vigueur du présent décret, les maîtres de conférences peuvent être recrutés dans toutes les disciplines selon les modalités prévues à l'article 48 ci-dessus en qualité de professeurs de 2e classe dans la limite des emplois créés à cet effet par les lois de finances, s'ils comptent au moins huit ans d'ancienneté dans l'enseignement supérieur au 1er octobre de chacune des années considérées. Un arrêté des ministre chargés de la fonction publique, du budget et de l'éducation nationale fixe chaque année le nombre des emplois proposés à ce titre aux maîtres de conférences.
