@@ -302,7 +302,6 @@
 - [Arrêté du 13 mars 1987 (AGRD8700542A)](arrete-du-13-mars-1987-agrd8700542a)
 - [Arrêté du 13 mars 1987 (AGRD8700543A)](arrete-du-13-mars-1987-agrd8700543a)
 - [Arrêté du 13 mars 1987 (AGRD8700544A)](arrete-du-13-mars-1987-agrd8700544a)
-- [Arrêté du 13 mars 1987 (EXTE8700204A)](arrete-du-13-mars-1987-exte8700204a)
 - [Arrêté du 13 novembre 1987 (AGRS8702071A)](arrete-du-13-novembre-1987-agrs8702071a)
 - [Arrêté du 13 novembre 1987 (ECOC8700096A)](arrete-du-13-novembre-1987-ecoc8700096a)
 - [Arrêté du 13 novembre 1987 (PTTM8700832A)](arrete-du-13-novembre-1987-pttm8700832a)
