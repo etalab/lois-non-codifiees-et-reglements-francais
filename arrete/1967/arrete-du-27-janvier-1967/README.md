@@ -6,5 +6,6 @@
 - [Titre IV : Emprunts à l'étranger.](titre-iv)
 - [Titre V : Importation et exportation de l'or.](titre-v)
 - [Titre VI : Comptes rendus.](titre-vi)
+- [Titre VI bis : Dispositions particulières aux affaires immobilières.](titre-vi-bis)
 - [Titre VIII : Dispositions transitoires.](titre-viii)
 - [Article 17](article-17.md)

@@ -1,0 +1,7 @@
+# Article 10
+
+Les immeubles appartenant à l'administration de l'assistance publique à Marseille et affectés en totalité à l'exercice de l'aide sociale sont tranférés au bureau d'aide sociale. Il en est de même des meubles corporels garnissant ces immeubles ainsi que des droits et obligations résultant de l'utilisation pour l'aide sociale soit des parties d'immeubles appartenant à l'administration de l'assistance publique à Marseille, soit de biens appartenant à d'autres collectivités ou à des tiers.
+
+Les immeubles et les biens mobiliers incorporels qui, appartenant à l'administration de l'assistance publique à Marseille, proviennent de libéralités et dont les revenus sont affectés à l'aide sociale pour les pauvres de Marseille sont transférés au bureau d'aide sociale de la ville de Marseille.
+
+La liste de ces divers biens sera fixée par accord amiable entre l'administration de l'assistance publique à Marseille et le bureau d'aide sociale de la ville de Marseille. Cet accord devra intervenir dans le délai de un an à compter de la publication du présent décret. En cas de désaccord, il sera statué, sans préjudice de recours contentieux, par une commission composée d'un représentant de l'administration de l'assistance publique à Marseille et d'un représentant du bureau d'aide sociale de la ville de Marseille, désignés respectivement par le conseil d'administration et la commission administrative de ces deux établissements publics, et présidée par une personnalité choisie par le préfet des Bouches-du-Rhône.
