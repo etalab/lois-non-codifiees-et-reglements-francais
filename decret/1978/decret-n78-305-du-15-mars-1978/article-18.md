@@ -1,0 +1,19 @@
+# Article 18
+
+L'élection des délégués à la commission nationale a lieu au scrutin de liste avec représentation proportionnelle selon les modalités prévues à l'article 19.
+
+Le vote a lieu au siège de chaque commission régionale au cours du mois de février qui suit l'élection des membres des commissions régionales à une date fixée trois mois à l'avance par le président de la commission nationale et notifiée par ses soins aux présidents des commissions régionales, qu'il informe en même temps des date, heure et lieu des opérations de dépouillement des bulletins de vote.
+
+Les listes de candidats aux fonctions de délégué à la commission nationale sont remises contre récépissé, au plus tard un mois avant la date du scrutin, au président de la commission nationale. Elles doivent être accompagnées de déclarations individuelles de candidature signées des intéressés. Toute liste doit comporter, à peine de nullité, au moins seize noms. Nul ne peut figurer sur plusieurs listes.
+
+Quinze jours avant la date du scrutin [*délai*], le président de la commission nationale adresse à chaque président de commission régionale une copie de chacune des listes de candidats qui lui ont été remises et dont il a admis la conformité avec les dispositions prévues à l'alinéa précédent. Les présidents des commissions régionales convoquent, contre récépissé ou par lettre recommandée avec demande d'avis de réception, les membres de leur commission régionale en vue de procéder, à la date qui a été fixée par le président de la commission nationale, à l'élection des délégués à la commission nationale. Les listes de candidats sont jointes aux convocations qui précisent les heures d'ouverture et de clôture du scrutin et mentionnent que le vote peut intervenir par correspondance.
+
+Il ne peut y avoir ni panachage, ni radiation, ni vote préférentiel. Tout bulletin raturé, modifié ou surchargé est nul.
+
+Chaque bulletin de vote est placé dans une enveloppe ne comportant aucune marque distinctive, qui est remise contre émargement au président de la commission régionale.
+
+Le vote peut aussi avoir lieu par correspondance. En ce cas, les bulletins doivent parvenir au siège de la commission régionale au plus tard la veille de la date du scrutin. Chaque bulletin est envoyé sous double enveloppe : l'enveloppe intérieure, qui contient le bulletin de vote constitué par une des listes de candidats, doit être fermée et ne porter aucune marque distinctive ; l'enveloppe extérieure comporte la mention "Elections", le nom et la signature de l'électeur et contient l'enveloppe intérieure. Les bulletins contenus dans des enveloppes irrégulières sont nuls. Au fur et à mesure de leur arrivée, les enveloppes extérieures sont placées dans une urne. A l'ouverture du scrutin, et avant de faire procéder au vote des membres présents de la commission régionale, le président de cette commission procède à l'ouverture des enveloppes extérieures et le nom de l'électeur est pointé sur la liste d'émargement.
+
+Dans les trois jours de la clôture du scrutin, le président de la commission régionale remet contre récépissé, ou adresse par lettre recommandée avec demande d'avis de réception, l'ensemble des enveloppes avec la liste des votants au président de la Commission nationale, en précisant sur son envoi la mention "Elections".
+
+Au plus tard dans les quinze jours après la date du vote, un bureau composé du président de la Commission nationale ou, en cas d'empêchement de celui-ci, d'un membre du bureau de la commission et deux présidents en exercice de commissions régionales tirées au sort lors d'une réunion de la Commission nationale, ou de leurs suppléants désignés dans les mêmes conditions, procède au dépouillement des bulletins en présence de tout conseil juridique désirant y assister. Il proclame les résultats et rédige un procès-verbal de ces opérations dont une copie est adressée à tous les présidents des commissions régionales.
