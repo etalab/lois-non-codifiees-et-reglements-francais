@@ -1,6 +1,7 @@
 # 1961
 
 - [Décret n°61-9 du 3 janvier 1961](decret-n61-9-du-3-janvier-1961)
+- [Décret n°61-316 du 5 avril 1961](decret-n61-316-du-5-avril-1961)
 - [Décret n°65-184 du 5 mars 1965](decret-n65-184-du-5-mars-1965)
 - [Décret du 6 mars 1961](decret-du-6-mars-1961)
 - [Décret n°61-595 du 9 juin 1961](decret-n61-595-du-9-juin-1961)
