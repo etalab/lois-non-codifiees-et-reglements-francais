@@ -1,0 +1,3 @@
+# Article 7
+
+Les objets qui présentent l'apparence d'objets destinés par nature à être mis au contact des produits alimentaires mais qui ne répondent pas aux conditions fixées aux articles 2 à 4 doivent porter d'une manière visible et indélébile la mention qu'ils ne peuvent pas être mis au contact de ces produits ou une indication conventionnelle fixée par arrêté conjoint du ministre de l'agriculture et du développement rural et du ministre du développement industriel et scientifique apte à faire connaître aux acheteurs que ces objets ne doivent pas être mis au contact des produits alimentaires.
