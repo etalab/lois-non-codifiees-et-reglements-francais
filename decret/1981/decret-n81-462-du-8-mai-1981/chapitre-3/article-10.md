@@ -1,5 +1,9 @@
 # Article 10
 
-La retraite [*pension*] de réversion mentionnée au deuxième alinéa de l'article 1121-1 du code rural est allouée si le conjoint survivant remplit les conditions d'âge, de durée du mariage et de ressources personnelles prévues à l'article 34-1 du décret du 31 mai 1955 susvisé.
+L'application des dispositions de la sous-section 1 de la section 4 du chapitre II du titre VI du livre VII du code rural ne peut avoir pour effet de porter le total de la pension de retraite forfaitaire et de la pension de retraite proportionnelle servies à un assuré justifiant de la durée minimale d'activité agricole non salariée mentionnée au 1° de l'article L. 762-29 du code rural à un montant supérieur à la pension maximale dont bénéficie une personne relevant du régime général de la sécurité sociale.
 
-La retraite de réversion est égale à la moitié de la retraite dont bénéficiait ou eût bénéficié l'assuré. Son entrée en jouissance est fixée dans les conditions prévues à l'article 34-3 du décret du 31 mai 1955 susvisé.
+Si l'assuré totalise dans le régime d'assurance vieillesse des personnes non salariées des professions agricoles une durée d'activité agricole non salariée inférieure à la durée mentionnée au 1° de l'article L. 762-29 du code rural, sa pension de retraite ne peut excéder un montant égal au produit du nombre d'années d'assurance dont il justifie dans ce régime par le rapport de la pension maximale mentionnée à l'alinéa précédent sur :
+
+a) Pour les pensions prenant effet avant le 1er janvier 2009, la durée mentionnée au 1° de l'article L. 762-29 du code rural ;
+
+b) Pour les pensions prenant effet postérieurement au 31 décembre 2008, le quart de la durée d'assurance prévue au troisième alinéa de l'article L. 351-1 du code de la sécurité sociale.
