@@ -1,0 +1,3 @@
+# Article 7
+
+Le bénéficiaire de la prime doit respecter ses engagements pendant au moins cinq ans. Il peut transférer tout ou partie de son engagement à une ou plusieurs autres personnes sous réserve que cette dernière ou ces dernières reprennent les engagements pour la période restant à courir. Si une telle reprise n'a pas lieu, le bénéficiaire est tenu de rembourser les primes perçues depuis le début de l'engagement nouveau. En cas de cessation définitive des activités agricoles d'un bénéficiaire qui a déjà accompli trois ans de son engagement portant sur la période précédente et/ou la période en cours, le remboursement des primes déjà perçues par le cédant ne sera pas demandé si le successeur ne poursuit pas les engagements.

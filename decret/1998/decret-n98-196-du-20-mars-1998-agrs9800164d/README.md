@@ -1,4 +1,4 @@
-# Décret n°87-1101 du 30 décembre 1987 portant dispositions statutaires particulières à certains emplois administratifs de direction des collectivités territoriales et des établissements publics locaux assimilés.
+# Décret n°98-196 du 20 mars 1998 instituant une prime au maintien des systèmes d'élevage extensifs
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
@@ -12,8 +12,7 @@
 - [Article 10](article-10.md)
 - [Article 11](article-11.md)
 - [Article 12](article-12.md)
-- [Article 12-1](article-12-1.md)
 - [Article 13](article-13.md)
-- [Article 13-1](article-13-1.md)
 - [Article 14](article-14.md)
-- [Annexes](annexes)
+- [Article 15](article-15.md)
+- [Article 16](article-16.md)

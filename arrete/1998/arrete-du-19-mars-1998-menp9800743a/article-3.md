@@ -1,0 +1,5 @@
+# Article 3
+
+Les candidats inscrits sur la liste mentionnée à l'article 2 font, devant la section, une présentation orale de leurs travaux. Cette présentation est suivie d'une discussion avec les membres de la section. La durée de la présentation et de la discussion ne peut excéder, au total, une heure.
+
+Les mêmes candidats doivent satisfaire à une épreuve pédagogique, consistant en un exposé sur un thème, permettant d'évaluer leur aptitude didactique dans la discipline. La liste des thèmes de ces exposés, destinés à être tirés au sort par les candidats, est fixée par le bureau de la section dans le programme de la formation commune de base des étudiants en pharmacie figurant en annexe de l'arrêté du 17 juillet 1987 susvisé. La durée de cet exposé est fixée par le président de la section ; elle doit être la même pour tous les candidats et ne peut excéder une heure. L'exposé peut être précédé d'un temps de préparation qui doit être le même pour tous les candidats et ne doit pas excéder quatre heures.
