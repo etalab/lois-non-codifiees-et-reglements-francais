@@ -1,9 +1,13 @@
 # Article 49
 
-Quiconque exerce une activité d'enseignement, d'encadrement ou d'animation d'une activité physique et sportive, sans avoir procédé à la déclaration requise en application de l'article 47-1, ou en violation d'un arrêté pris en application de l'article 48-1, sera puni de 50.000 F d'amende [* taux *] et d'un an d'emprisonnement ou de l'une de ces deux peines seulement.
+Est puni d'un an d'emprisonnement et de 15 000 euros d'amende le fait par toute personne :
 
-Sera puni des mêmes peines quiconque exploite un établissement sans avoir procédé à la déclaration requise en application de l'article 47-1 ou le maintien en activité en violation de l'article 48.
+- d'exercer contre rémunération l'une des fonctions de professeurs, moniteur, éducateur, entraîneur ou animateur d'une activité physique ou sportive ou de faire usage de ces titres ou de tout autre titre similaire sans posséder la qualification requise au I de l'article 43 ou en méconnaissance du III du même article ou d'exercer son activité en violation de l'article 43-2 sans avoir satisfait aux tests auxquels l'autorité administrative l'a soumis ;
 
-Seront punies des mêmes peines les personnes qui, en violation de l'article 43-2, exercent leur activité sans avoir effectué la déclaration ou sans avoir satisfait aux tests auxquels l'autorité administrative les a soumis, ainsi que leurs employeurs.
+- d'employer une personne qui exerce les fonctions mentionnées au I de l'article 43 sans posséder la qualification requise ou d'employer un ressortissant d'un Etat membre de l'Union européenne ou d'un Etat partie à l'accord sur l'Espace économique européen qui exerce son activité en violation de l'article 43-2 sans avoir satisfait aux tests auxquels l'autorité administrative l'a soumis ;
 
-Sont également passibles des mêmes peines les personnes qui, sans posséder la qualification requise, exercent les fonctions mentionnées à l'article 43 dans les activités physiques et sportives se déroulant dans l'environnement spécifique mentionné au troisième alinéa de l'article 43-2, ainsi que leurs employeurs.
+- d'exercer contre rémunération une des fonctions mentionnées au I de l'article 43 ou d'exploiter un établissement où sont pratiquées une ou plusieurs de ces activités sans avoir procédé à la déclaration prévue à l'article 47-1 ;
+
+- de maintenir, en activité un établissement où sont pratiquées une ou plusieurs activités physiques ou sportives en méconnaissance d'une mesure prise en application de l'article 48 ;
+
+- d'enseigner, d'animer ou d'encadrer une activité physique ou sportive en méconnaissance d'une mesure prise en application de l'article 48-1.
