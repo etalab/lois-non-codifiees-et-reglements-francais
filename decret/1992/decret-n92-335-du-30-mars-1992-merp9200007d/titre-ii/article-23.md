@@ -30,7 +30,7 @@ Guyane ;
 
 Réunion.
 
-La circonscription des comités régionaux des pêches maritimes et des élevages marins, leur siège et le nombre des membres de leur conseil sont fixés par arrêté du ministre chargé des pêches maritimes et des cultures marines. Ce nombre ne peut être supérieur à quarante.
+La circonscription des comités régionaux des pêches maritimes et des élevages marins, leur siège et le nombre des membres de leur conseil sont fixés par arrêté du ministre chargé des pêches maritimes et des cultures marines. Ce nombre ne peut être supérieur à soixante-dix.
 
 Un arrêté du ministre chargé des pêches maritimes et des cultures marines fixe également le règlement intérieur type des comités régionaux.
 
