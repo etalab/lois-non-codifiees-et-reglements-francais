@@ -1,0 +1,5 @@
+# Article 31
+
+Les jetons de présence et tantièmes qui sont alloués aux fonctionnaires de l'Etat et agents des autres collectivités publiques en activité de service siégeant en qualité d'administrateurs dans les filiales de sociétés d'économie mixte ou d'entreprises publiques ou dans les sociétés dont les établissements publics de l'Etat, les collectivités locales ou les territoires de l'Union française détiennent une partie du capital, doivent être versés au Trésor au crédit du compte spécial ouvert en application de l'article 18 de la loi du 8 mars 1949 ou au budget de la collectivité publique ou de l'établissement public détenteur du capital. Des indemnités peuvent être allouées à ces administrateurs dans les conditions fixées par l'article 18 de la loi susvisée.
+
+Les administrateurs des entreprises publiques et des sociétés d'économie mixte qui ne représentent pas l'Etat, mais qu'il appartient au Gouvernement de désigner soit en raison de leurs compétences personnelles, soit pour qu'ils représentent des intérêts économiques ou sociaux, ne peuvent en aucun cas être choisis parmi les fonctionnaires en activité.

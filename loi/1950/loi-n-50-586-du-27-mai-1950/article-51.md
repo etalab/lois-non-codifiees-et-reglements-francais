@@ -1,0 +1,3 @@
+# Article 51
+
+Sauf dérogation résultant d'un décret en la forme de règlement d'administration publique pris sur le rapport du ministre des finances et des affaires économiques et du ministre intéressé après avis conforme de la commission des finances de l'Assemblée nationale et avis de la commission des finances du Conseil de la République, l'actif et le passif des organismes en liquidation visés à l'article 1er du décret du 12 septembre 1949, sont pris en charge par l'Etat. Les recettes et les dépenses résultant de cette prise en charge seront imputées au compte spécial créé par l'article 169 de la loi n° 46-2154 du 7 octobre 1946.
