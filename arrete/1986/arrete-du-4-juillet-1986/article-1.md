@@ -1,3 +1,11 @@
 # Article 1
 
-La Banque française du commerce extérieur est autorisée à émettre un emprunt totalisant 4 milliards de francs, en deux tranches de respectivement 1 à 3 milliards à taux fixe d'une durée de treize ans et de 1 à 3 milliards à taux variable d'une durée de dix ans.
+Un système de gestion automatisée dénommé Cotorep est créé dans les secrétariats des commissions techniques d'orientation et de reclassement professionnel.
+
+Ce système a pour finalités :
+
+- l'instruction des demandes ;
+
+- le suivi des décisions ;
+
+- la production de statistiques relatives à la population concernée.

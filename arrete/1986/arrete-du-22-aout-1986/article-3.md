@@ -1,5 +1,13 @@
 # Article 3
 
-L'emploi de la fluméquine n'est autorisé que pour lutter contre le feu bactérien (Erwinia amylovora), conformément aux décisions d'homologation.
+La convention doit comporter, au titre des obligations du centre de formation, des dispositions relatives :
 
-Le délai entre le dernier traitement et la récolte est fixé à deux semaines pour les pommiers et les poiriers.
+- à la communication périodique de tous documents nécessaires au contrôle administratif, pédagogique, financier ;
+
+- aux procédures de communication annuelle préalable des effectifs prévisionnels d'étudiants à admettre en formation ;
+
+- aux procédures de sélection des étudiants ;
+
+- au règlement intérieur applicable aux étudiants ;
+
+- aux procédures de recrutement des formateurs permanents.

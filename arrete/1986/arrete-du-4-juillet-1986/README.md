@@ -1,4 +1,4 @@
-# Arrêté du 4 juillet 1986 accordant la garantie de l'Etat à un emprunt de la Banque française du commerce extérieur
+# Arrêté du 4 juillet 1986 autorisant la création d'un système de gestion automatisée des secrétariats des commissions techniques d'orientation et de reclassement professionnel (Cotorep)
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

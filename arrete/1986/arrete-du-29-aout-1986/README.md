@@ -1,4 +1,4 @@
-# Arrêté du 29 août 1986 accordant la garantie de l'Etat à un emprunt du Fonds spécial de grands travaux
+# Arrêté du 29 août 1986 portant application de l'article 9 du décret n° 83-785 du 2 septembre 1983 modifié fixant le statut des internes en médecine et en pharmacie.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

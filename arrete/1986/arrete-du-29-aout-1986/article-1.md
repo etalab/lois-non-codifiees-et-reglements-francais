@@ -1,3 +1,3 @@
 # Article 1
 
-L'Etat accorde sa garantie au service d'un emprunt obligataire de 2 500 000 000 F qui sera émis par le Fonds spécial de grands travaux.
+Les internes en médecine et en pharmacie visés à l'article 1er du décret n° 83-785 du 2 septembre 1983 modifié susvisé peuvent participer en dehors de leurs obligations de service à l'enseignement, à la formation des personnels des établissements hospitaliers et aux jurys de concours.

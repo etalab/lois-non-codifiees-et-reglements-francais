@@ -38,7 +38,7 @@ Cadres ergothérapeutes : certificat ;
 
 Cadres sages-femmes : certificat ;
 
-Ambulanciers : diplôme d'Etat d'ambulancier.
+Ambulanciers : certificat de capacité d'ambulancier.
 
 Les internes peuvent également contribuer dans les conditions prévues par le présent arrêté aux diverses actions de formation professionnelle et de formation permanente organisées au bénéfice des personnels des établissements hospitaliers.
 

@@ -1,7 +1,5 @@
 # Article 2
 
-Les spécialités commerciales à base de fluméquine doivent être conformes à la loi modifiée du 2 novembre 1943 susvisée.
+La convention détermine la ou les formations initiales ainsi que les effectifs sur la base desquels est établie l'aide de l'Etat pendant la durée de la convention. La convention précise les missions imparties à l'établissement conventionné. Elle peut confier à cet établissement des missions d'étude et d'animation du travail social.
 
-Ces spécialités ne peuvent être délivrées qu'aux groupements de défense contre les ennemis des cultures agréés par les commissaires de la République, et seulement dans les conditions prévues aux articles 3 à 6 du présent arrêté.
-
-Les responsables de ces groupements doivent tenir un registre conformément à l'article R. 5155 du code de la santé publique.
+Elle fixe les obligations d'intérêt général qui s'imposent au centre de formation (art. 3 à 7 de l'arrêté) ainsi que les règles générales de prise en charge par l'Etat des actions de formation conventionnées (art. 8 à 11 de l'arrêté).

@@ -81,6 +81,8 @@
 - [Décret n°86-66 du 7 janvier 1986](decret-n86-66-du-7-janvier-1986)
 - [Décret n°86-700 du 7 avril 1986](decret-n86-700-du-7-avril-1986)
 - [Décret n°85-1189 du 8 novembre 1985](decret-n85-1189-du-8-novembre-1985)
+- [Décret n°86-1022 du 8 septembre 1986](decret-n86-1022-du-8-septembre-1986)
+- [Décret n°86-1023 du 8 septembre 1986](decret-n86-1023-du-8-septembre-1986)
 - [Décret n°86-701 du 8 avril 1986](decret-n86-701-du-8-avril-1986)
 - [Décret n°86-702 du 8 avril 1986](decret-n86-702-du-8-avril-1986)
 - [Décret n°86-703 du 8 avril 1986](decret-n86-703-du-8-avril-1986)

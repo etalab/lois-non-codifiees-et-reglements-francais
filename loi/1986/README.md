@@ -10,6 +10,7 @@
 - [Loi n° 85-677 du 5 juillet 1985](loi-n-85-677-du-5-juillet-1985)
 - [Loi n° 85-99 du 25 janvier 1985](loi-n-85-99-du-25-janvier-1985)
 - [Loi n° 86-1 du 3 janvier 1986](loi-n-86-1-du-3-janvier-1986)
+- [Loi n° 86-1020 du 9 septembre 1986](loi-n-86-1020-du-9-septembre-1986)
 - [Loi n° 86-11 du 6 janvier 1986](loi-n-86-11-du-6-janvier-1986)
 - [Loi n° 86-12 du 6 janvier 1986](loi-n-86-12-du-6-janvier-1986)
 - [Loi n° 86-13 du 6 janvier 1986](loi-n-86-13-du-6-janvier-1986)
