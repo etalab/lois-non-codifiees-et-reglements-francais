@@ -1,6 +1,6 @@
 # Article 13
 
-Le mandat des membres des sections disciplinaires prend fin en même temps que celui des représentants des usagers au conseil d'administration ; toutefois, les membres de la section disciplinaire restent en fonctions jusqu'à la désignation de leurs successeurs ; leur mandat est renouvelable.
+Les membres du conseil d'administration sont élus membres des sections disciplinaires pour la durée de leur mandat. Le mandat des membres et celui des personnes mentionnées à l'article 12 désignés en dehors du conseil d'administration prend fin selon qu'ils représentent les usagers ou les personnels aux dates d'expiration des mandats des représentants de ces catégories au conseil d'administration. Ces membres et personnes demeurent en fonctions jusqu'à la désignation de leurs successeurs ; leur mandat est renouvelable.
 
 Les membres des sections disciplinaires autres que les usagers qui cessent de faire partie du conseil d'administration pour quelque cause que ce soit ou qui ne peuvent siéger en application de l'article 9 sont remplacés, pour la durée du mandat restant à courir, dans les conditions prévues pour leur désignation.
 

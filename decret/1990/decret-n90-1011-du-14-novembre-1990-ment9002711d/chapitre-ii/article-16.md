@@ -1,6 +1,6 @@
 # Article 16
 
-La décision doit être motivée. Elle est signée par le président de la séance et par le secrétaire.
+La décision doit être motivée. Elle est signée par le président, le vice-président et le secrétaire de séance.
 
 Elle est notifiée par le ministre chargé de l'enseignement supérieur à la personne contre qui les poursuites ont été intentées, à l'autorité qui a intenté les poursuites et au recteur d'académie, chancelier des universités.
 

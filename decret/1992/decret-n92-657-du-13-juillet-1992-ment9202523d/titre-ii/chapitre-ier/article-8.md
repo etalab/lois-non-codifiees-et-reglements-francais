@@ -7,3 +7,5 @@ Dans le cas où les membres de la section disciplinaire appelés à élire le pr
 L'élection est acquise à la majorité absolue des suffrages exprimés au premier tour, à la majorité relative au second tour. En cas d'égalité des voix le membre le plus âgé est désigné.
 
 Lorsqu'une section disciplinaire ne comprend qu'un seul professeur des universités, celui-ci la préside sans qu'il y ait lieu à élection.
+
+En cas d'empêchement provisoire du président de chaque section disciplinaire, celui-ci est remplacé par un suppléant élu en même temps que lui et dans les mêmes conditions.

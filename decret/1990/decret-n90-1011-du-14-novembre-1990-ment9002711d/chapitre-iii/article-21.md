@@ -1,5 +1,5 @@
 # Article 21
 
-La décision doit être motivée. Elle est signée par le président de la séance et par le secrétaire. Elle est notifiée par le ministre chargé de l'enseignement supérieur au demandeur et au président de la section disciplinaire du conseil d'administration de l'établissement public d'enseignement supérieur dont l'avis avait été sollicité.
+La décision doit être motivée. Elle est signée par le président, le vice-président et le secrétaire de séance. Elle est notifiée par le ministre chargé de l'enseignement supérieur au demandeur et au président de la section disciplinaire du conseil d'administration de l'établissement public d'enseignement supérieur dont l'avis avait été sollicité.
 
 Les décisions portant relèvement d'exclusions, déchéances et incapacités sont publiées au Bulletin officiel de l'éducation nationale.

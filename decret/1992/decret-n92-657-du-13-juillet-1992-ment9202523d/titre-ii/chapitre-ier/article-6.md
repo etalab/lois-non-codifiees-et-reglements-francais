@@ -2,9 +2,9 @@
 
 La section disciplinaire du conseil d'administration compétente à l'égard des usagers comprend :
 
-1° Deux professeurs des universités ou personnels assimilés en application de l'article 6 du décret du 16 janvier 1992 susvisé, dont au moins un membre du corps des professeurs des universités ;
+1° Deux professeurs des universités ou personnels assimilés en application de l'article 5 du décret du 20 janvier 1987 susvisé ou de l'article 6 du décret du 16 janvier susvisé, dont au moins un membre du corps des professeurs des universités ;
 
-2° Deux maîtres de conférences ou maîtres-assistants ou personnels assimilés en application de l'article 6 du décret du 16 janvier 1992 susvisé, titulaires ;
+2° Deux maîtres de conférences ou maîtres-assistants ou personnels assimilés en application de l'article 5 du décret du 20 janvier 1987 susvisé ou de l'article 6 du décret du 16 janvier susvisé, titulaires ;
 
 3° Un représentant des personnels, titulaires, exerçant des fonctions d'enseignement appartenant à un autre corps de fonctionnaires ;
 
