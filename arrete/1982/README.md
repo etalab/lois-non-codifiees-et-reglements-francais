@@ -137,7 +137,6 @@
 - [Arrêté du 28 mai 1982](arrete-du-28-mai-1982)
 - [Arrêté du 29 avril 1982](arrete-du-29-avril-1982)
 - [Arrêté du 29 décembre 1982](arrete-du-29-decembre-1982)
-- [Arrêté du 29 janvier 1982](arrete-du-29-janvier-1982)
 - [Arrêté du 29 juillet 1982](arrete-du-29-juillet-1982)
 - [Arrêté du 29 juin 1982](arrete-du-29-juin-1982)
 - [Arrêté du 29 mars 1982](arrete-du-29-mars-1982)
