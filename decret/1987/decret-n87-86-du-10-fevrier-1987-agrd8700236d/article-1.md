@@ -18,4 +18,6 @@ Outre l'inspection générale de l'agriculture, le conseil général du génie r
 
 - le service des haras, des courses et de l'équitation.
 
-Sont en outre rattachés au cabinet du ministre le bureau administratif du cabinet, la délégation à l'information, le bureau des moyens et des décorations ainsi que la mission de défense.
+- le service de la communication ;
+
+Sont en outre rattachés au cabinet du ministre le bureau administratif du cabinet, le bureau des moyens et des décorations ainsi que la mission de défense.
