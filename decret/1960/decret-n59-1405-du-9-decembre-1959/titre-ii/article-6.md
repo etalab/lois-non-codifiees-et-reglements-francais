@@ -1,0 +1,7 @@
+# Article 6
+
+Nul ne peut occuper un emploi et être classé dans la catégorie correspondante s'il ne possède la qualification exigée, telle qu'elle est définie aux articles 7-1 à 20 inclus, ou un diplôme délivré par un établissement d'enseignement public ou privé et dont la valeur aura été déterminée par une commission présidée par le directeur général du Centre national de la recherche scientifique ou son représentant, et comprenant un représentant du ministre de l'économie et des finances, un représentant du secrétaire d'Etat auprès du Premier ministre (fonction publique) et un représentant de la direction compétente soit du ministère de l'éducation, soit du secrétariat d'Etat aux universités ; en cas de partage des voix, celle du président est prépondérante.
+
+Toutefois, il pourra être dérogé à cette disposition après avis d'une commission nommée par le directeur général du Centre national de la recherche scientifique et composée de personnalités scientifiques. Le nombre des agents pouvant bénéficier de cette dispense ne pourra dépasser 20 % en ce qui concerne les catégories A et B et 10 % pour les catégories D. Lorsque cette mesure interviendra en faveur d'un agent appartenant déjà au Centre national de la recherche scientifique, l'intéressé sera classé dans sa nouvelle catégorie conformément aux dispositions de l'article 29 ter.
+
+Tout agent changeant de catégorie doit satisfaire aux conditions de recrutement afférentes à l'emploi dans lequel il est nommé sous réserve des dispositions prévues aux articles 28 et 29 bis.
