@@ -2,6 +2,8 @@
 
 Le montant de l'aide est :
 
-- de 15 000 F pour les voitures particulières et camionnettes lorsqu'elles sont facturées avant le 31 décembre 2001 et de 10 000 F lorsqu'elles sont facturées entre le 1er janvier 2002 et le 31 décembre 2002 ;
+- de 3 050 Euros pour les voitures particulières et camionnettes et de 3 810 Euros lorsque l'acquisition ou la première souscription d'un contrat de location avec option d'achat ou de location souscrit pour une durée d'au moins deux ans s'accompagne de la destruction d'une voiture particulière ou d'une camionnette immatriculée avant le 1er janvier 1993 et acquise depuis au moins douze mois à la date de sa destruction et encore en circulation à cette même date.
 
-- de 2 500 F pour les cyclomoteurs lorsqu'ils sont facturés avant le 31 décembre 2001 et de 2 000 F lorsqu'ils sont facturés entre le 1er janvier 2002 et le 31 décembre 2002.
+La destruction du véhicule retiré de la circulation doit être confiée à un organisme autorisé au titre de la législation des installations classées pour la protection de l'environnement qui s'engage à veiller à la destruction complète du véhicule dans des conditions fixées par arrêté conjoint des ministres en charge de l'industrie, de l'environnement et des transports. Il remet au bénéficiaire de l'aide un bon d'enlèvement conforme à un modèle fixé par l'arrêté mentionné ci-dessus ;
+
+- de 510 Euros pour les cyclomoteurs.
