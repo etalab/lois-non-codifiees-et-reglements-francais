@@ -1,4 +1,4 @@
-# CHAPITRE II : Du concours externe et du concours interne.
+# Chapitre II : Du concours externe, du concours interne et du troisième concours
 
 - [Article 6](article-6.md)
 - [Article 7](article-7.md)

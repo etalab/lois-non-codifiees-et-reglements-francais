@@ -1,6 +1,6 @@
 # Article 6
 
-Les épreuves d'admissibilité du concours externe pour le recrutement des attachés territoriaux de conservation du patrimoine comprennent :
+Les épreuves d'admissibilité du concours externe et du troisième concours pour le recrutement des attachés territoriaux de conservation du patrimoine comprennent :
 
 1° Un commentaire portant sur un sujet d'ordre général relatif aux civilisations européennes pour les spécialités Archéologie, Archives, Inventaire, Musées, ou sur un sujet d'ordre général relatif à la culture scientifique, technique et naturelle pour la spécialité Patrimoine scientifique, technique et naturel (durée : quatre heures ; coefficient 3) ;
 
@@ -16,6 +16,6 @@ Les épreuves d'admissibilité du concours externe pour le recrutement des attac
 
 - Musées.
 
-- Patrimoine scientifique, technique et naturel ".
+- Patrimoine scientifique, technique et naturel.
 
 (Durée : quatre heures ; coefficient 3).
