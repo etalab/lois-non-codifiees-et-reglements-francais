@@ -475,6 +475,7 @@
 - [Décret n°2002-1167 du 11 septembre 2002 (JUSB0210369D)](decret-n2002-1167-du-11-septembre-2002-jusb0210369d)
 - [Décret n°2002-1168 du 11 septembre 2002 (JUSB0210380D)](decret-n2002-1168-du-11-septembre-2002-jusb0210380d)
 - [Décret n°2002-1172 du 11 septembre 2002 (MCCB0200544D)](decret-n2002-1172-du-11-septembre-2002-mccb0200544d)
+- [Décret n°2002-1253 du 11 octobre 2002 (SOCS0222751D)](decret-n2002-1253-du-11-octobre-2002-socs0222751d)
 - [Décret n°2002-174 du 11 février 2002 (INTA0200030D)](decret-n2002-174-du-11-fevrier-2002-inta0200030d)
 - [Décret n°2002-193 du 11 février 2002 (MESH0220023D)](decret-n2002-193-du-11-fevrier-2002-mesh0220023d)
 - [Décret n°2002-194 du 11 février 2002 (MESP0220026D)](decret-n2002-194-du-11-fevrier-2002-mesp0220026d)
