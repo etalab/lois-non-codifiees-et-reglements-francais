@@ -1,0 +1,3 @@
+# Article 1
+
+Les fonctionnaires et agents, commissionnés et assermentés, en fonction dans les parcs nationaux, au Conseil supérieur de la pêche et à l'Office national de la chasse et de la faune sauvage sont astreints, dans les conditions définies à l'article 6 ci-dessous, à porter l'armement et l'équipement qui leur sont fournis par leur établissement. Dans ce cadre, ils sont autorisés dans les conditions ci-après à acquérir, détenir, porter ou transporter des armes, éléments d'armes et munitions des paragraphes 1, 2, 3 et 6 de la 1re catégorie, des armes, éléments d'armes et munitions de 4e catégorie et des armes de la 6e catégorie en application du a du 1° de l'article 25 du décret du 6 mai 1995 susvisé.
