@@ -1,0 +1,7 @@
+# Article 1
+
+En vue de l'élection des représentants du personnel aux commissions administratives paritaires instituées auprès de l'Institution nationale des invalides, sont admis à voter par correspondance les agents qui se trouvent en service détaché hors de l'institution, en position de congé parental, ainsi que ceux qui sont en congé de maladie, en congé de longue maladie ou en congé de longue durée, ceux qui sont en position d'absence régulièrement autorisée, ceux qui exercent leurs fonctions en service de nuit et ceux qui sont empêchés, en raison des nécessités du service, de se rendre au bureau de vote le jour du scrutin.
+
+En vue de la consultation du personnel organisée en vue de déterminer les organisations syndicales appelées à être représentées au comité technique paritaire central de l'Institution nationale des invalides, sont admis à voter par correspondance les agents qui sont en congé de maladie, en congé de longue maladie ou en congé de longue durée, ceux qui sont en position d'absence régulièrement autorisée, ceux qui exercent leurs fonctions en service de nuit et ceux qui sont empêchés, en raison des nécessités du service, de se rendre au bureau de vote le jour du scrutin.
+
+Les agents visés aux deux alinéas précédents, à l'exception de ceux empêchés en raison des nécessités du service, ont la faculté de voter directement au bureau de vote de l'Institution nationale des invalides.

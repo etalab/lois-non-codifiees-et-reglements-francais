@@ -98,6 +98,7 @@
 - [Arrêté du 18 janvier 2000 (ATEN9980368A)](arrete-du-18-janvier-2000-aten9980368a)
 - [Arrêté du 19 avril 2000 (AGRP0000771A)](arrete-du-19-avril-2000-agrp0000771a)
 - [Arrêté du 19 avril 2000 (MESF0010300A)](arrete-du-19-avril-2000-mesf0010300a)
+- [Arrêté du 20 avril 2000 (DEFP0001446A)](arrete-du-20-avril-2000-defp0001446a)
 - [Arrêté du 20 janvier 2000 (EQUS0000126A)](arrete-du-20-janvier-2000-equs0000126a)
 - [Arrêté du 20 janvier 2000 (FPPA0010001A)](arrete-du-20-janvier-2000-fppa0010001a)
 - [Arrêté du 20 janvier 2000 (FPPA0010003A)](arrete-du-20-janvier-2000-fppa0010003a)
