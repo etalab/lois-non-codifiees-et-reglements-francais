@@ -1,3 +1,0 @@
-# Article 13
-
-L'autorisation peut être refusée si l'exploitation envisagée est susceptible de faire obstacle à l'application d'une disposition d'intérêt général, et notamment si les travaux projetés sont de nature à compromettre l'un des intérêts visés par l'article 84 du code minier, ne satisfont pas aux prescriptions des décrets pris en application de l'article 85 du même code ou si les garanties techniques et financières présentées par le demandeur apparaissent insuffisantes au regard des obligations qui lui incombent en application de l'article 12 du présent décret. L'arrêté prononçant le refus est motivé.
