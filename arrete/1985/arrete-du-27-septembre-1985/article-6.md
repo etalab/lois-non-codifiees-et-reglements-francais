@@ -1,7 +1,9 @@
 # Article 6
 
-L'accomplissement de l'année-recherche s'effectue pour une même génération de bénéficiaires, par moitié en deuxième année et par moitié en troisième année d'internat : le choix entre la deuxième ou la troisième année d'internat est organisé sur la base du classement prévu à l'article 4.
+L'année-recherche s'effectue au cours d'une année universitaire comprise entre le début de la deuxième et la fin de la dernière année d'internat.
 
-L'année-recherche doit être entreprise pendant la deuxième ou la troisième année d'internat qui suit immédiatement l'achèvement de la première année d'internat.
+Pour la réalisation de l'année-recherche, le directeur régional des affaires sanitaires et locales répartit par année universitaire les candidats acceptés conformément à la procédure décrite à l'article 4 ci-dessus, selon le rang de classement obtenu lors de cette procédure ainsi que selon leur choix.
 
-Un interne qui n'effectue pas l'année-recherche dans le délai mentionné à l'alinéa précédent perd le bénéfice de son attribution.
+Les candidats doivent, le cas échéant, avertir la direction régionale des affaires sanitaires et sociales deux mois avant le début de la réalisation de l'année-recherche de l'impossibilité qu'ils ont à la réaliser lors de l'année universitaire arrêtée selon la méthode décrite à l'alinéa précédent. Ils l'effectuent alors l'année suivante, sauf s'ils sont réputés avoir terminé leurs stages de formation pratique de troisième cycle au moment où ils désirent commencer à effectuer cette année-recherche.
+
+Lorsqu'un interne n'effectue pas l'année-recherche pendant l'internat dans le délai mentionné au premier alinéa du présent article, il perd le bénéfice de son attribution.
