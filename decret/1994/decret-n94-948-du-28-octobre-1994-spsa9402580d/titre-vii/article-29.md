@@ -1,6 +1,6 @@
 # Article 29
 
-Sans préjudice de l'application des dispositions des articles 5, 10 et 13 du présent décret, les personnels de direction, relevant du présent statut sont également recrutés, jusqu'au 31 décembre 1996, par la voie d'un concours national sur titres ouvert aux fonctionnaires relevant de la fonction publique hospitalière et aux agents des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée. Les candidats à ce concours doivent justifier de six années de services publics et être titulaires du certificat d'aptitude aux fonctions de directeur d'établissement social.
+Sans préjudice de l'application des dispositions des articles 5, 10 et 13 du présent décret, les personnels de direction, relevant du présent statut sont également recrutés, jusqu'au 31 décembre 1998, par la voie d'un concours national sur titres ouvert aux fonctionnaires relevant de la fonction publique hospitalière et aux agents des établissements mentionnés à l'article 2 de la loi du 9 janvier 1986 susvisée. Les candidats à ce concours doivent justifier de six années de services publics et être titulaires du certificat d'aptitude aux fonctions de directeur d'établissement social.
 
 Le nombre de postes mis au concours, les modalités de ce concours et la composition de son jury sont fixés par arrêté du ministre chargé de l'action sociale.
 
