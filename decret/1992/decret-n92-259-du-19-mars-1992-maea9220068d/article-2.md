@@ -1,79 +1,87 @@
 # Article 2
 
-Le tarif des droits spécifiques à percevoir, par dérogation aux dispositions du tarif fixé par le décret du 13 août 1981 susvisé, modifié par le décret du 6 janvier 1992 susvisé, à l'occasion des formalités pouvant être requises par les ressortissants étrangers, est ainsi fixé pour les ressortissants des pays dont les noms
+Le tarif des droits spécifiques à percevoir, par dérogation aux dispositions du tarif fixé par le décret du 13 août 1981 susvisé, modifié par le décret du 6 janvier 1992 susvisé, à l'occasion des formalités pouvant être requises par les ressortissants étrangers, est ainsi fixé pour les ressortissants des pays dont les noms suivent :
 
-suivent :
+Argentine
 
-Francs
+Légalisation de signature sur tous documents, à l'exclusion des documents de l'état civil : 22 euros
 
-Afghanistan (1)
+Bolivie
 
-Visa de passeport figurant à l'article 17 du tarif sous a : 70 Argentine
+Légalisation de signature sur tous documents : 53 euros
 
-Légalisation de signature sur tous documents, à l'exclusion des documents de l'état civil : 145 Bolivie
+Costa Rica
 
-Légalisation de signature sur tous documents : 350 Bulgarie (1)
+Légalisation de signature sur tous documents : 46 euros
 
-Visa de passeport figurant à l'article 17 du tarif :
+Cuba
 
-Sous a :
+Légalisation de signature sur tous documents : 55 euros
 
-Une entrée : 80    Deux entrées : 120   Sous b :
+République dominicaine
 
-Plusieurs entrées : 265 Costa Rica
+Légalisation de signature sur actes notariés : 46 euros
 
-Légalisation de signature sur tous documents : 300 Cuba
+Egypte
 
-Légalisation de signature sur tous documents : 360 République dominicaine
+Légalisation de signature sur actes notariés : 30 euros
 
-Légalisation de signature sur actes notariés : 300 Egypte
+El Salvador
 
-Légalisation de signature sur actes notariés : 200 El Salvador
+Légalisation de signature sur tous documents : 23 euros
 
-Légalisation de signature sur tous documents : 150 Equateur
+Equateur
 
-Légalisation de signature sur tous documents, à l'exception des documents d'état civil : 240 Grèce
+Légalisation de signature sur tous documents, à l'exception des documents de l'état civil : 37 euros
 
-Légalisation de signature sur actes notariés : 160
+Grèce
+
+Légalisation de signature sur actes notariés : 24 euros
 
 Haïti
 
-Légalisation de signature sur tous documents : 150 Japon
+Légalisation de signature sur tous documents : 23 euros
 
-Légalisation de signature sur actes publics : 215 Liban (1)
+Japon
 
-Visa de passeport figurant à l'article 17 du tarif :
+Légalisation de signature sur actes publics : 33 euros
 
-Sous a :
+Mexique
 
-Une entrée : 110    Deux entrées : 220   Sous b :
+Légalisation de signature sur tous documents : 21 euros
 
-Deux entrées : 220    Plusieurs entrées : 330 Mexique
+Panama
 
-Légalisation de signature sur tous documents : 140 Panama
+Légalisation de signature sur tous documents : 38 euros
 
-Légalisation de signature sur tous documents : 250 Paraguay
+Paraguay
 
-Légalisation de signature sur tous documents : 150 Pays-Bas
+Légalisation de signature sur tous documents : 23 euros
 
-Légalisation de signature sur tous documents : 135 Pérou
+Pays-Bas
 
-Légalisation de signature sur tous documents : 210 Philippines (1)
+Légalisation de signature sur tous documents : 20 euros
 
-Visa de passeport figurant à l'article 17 du tarif sous a : 70 Soudan (1)
+Pérou
 
-Visa de passeport figurant à l'article 17 du tarif sous a : 110 Légalisation de signature sur tous documents : 300 Sri Lanka
+Légalisation de signature sur tous documents : 32 euros
 
-Légalisation de signature sur tous documents : 200 Uruguay
+Soudan
+
+Légalisation de signature sur tous documents : 46 euros
+
+Sri Lanka
+
+Légalisation de signature sur tous documents : 30 euros
+
+Uruguay
 
 Légalisation de signature :
 
-Sur tous actes d'état civil : 165    Sur tous autres documents : 200 Yémen (1)
+Sur tous actes d'état civil : 25 euros
 
-Légalisation de signature sur tous documents : 150 Visa de passeport figurant à l'article 17 du tarif :
+Sur tous autres documents : 30 euros
 
-Sous a : 250    Sous b : 250 Zaïre (1)
+Yémen
 
-Visa de passeport figurant à l'article 17 du tarif :
-
-Sous b : 400    Sous c : 700
+Légalisation de signature sur tous documents : 23 euros
