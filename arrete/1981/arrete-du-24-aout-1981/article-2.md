@@ -1,5 +1,9 @@
 # Article 2
 
-Les dispositions des titres IV, V, VI, VII et IX des prescriptions annexées au présent arrêté s'appliquent sans délai à tous les établissements.
+Pour la détermination du montant des taxes à percevoir, les espèces végétales sont classées en trois catégories :
 
-Un arrêté préfectoral fixera pour chacun des établissements existants le délai à l'expiration duquel devront être respectées les dispositions prévues aux autres titres ; celui-ci ne devra pas excéder quatre ans à compter de la date de la signature du présent arrêté. En revanche, l'ensemble de ces dispositions s'applique sans délai aux autres établissements.
+Catégorie A : plantes de grande culture à l'exception du lin et du riz, plantes horticoles et potagères, plantes ornementales cultivées notamment pour la fleur coupée ;
+
+Catégorie B : arbres fruitiers et forestiers, arbustes à baies ou à petits fruits, lavande et lavandins, lin, riz, vigne ;
+
+Catégorie C : plantes et arbustes ornementaux cultivés uniquement pour le jardin ou en pot.
