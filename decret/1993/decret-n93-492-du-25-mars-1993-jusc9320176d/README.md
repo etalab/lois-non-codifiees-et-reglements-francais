@@ -3,3 +3,4 @@
 - [Titre Ier : Des sociétés d'exercice libéral d'avocats.](titre-ier)
 - [Titre II : Des sociétés en participation d'avocats.](titre-ii)
 - [Titre III : Dispositions diverses.](titre-iii)
+- [Titre IV : Dispositions diverses.](titre-iv)
