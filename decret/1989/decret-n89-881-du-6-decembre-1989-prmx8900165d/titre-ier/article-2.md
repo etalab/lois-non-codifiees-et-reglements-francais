@@ -1,41 +1,57 @@
 # Article 2
 
-Le comité interministériel comprend, sous la présidence du Premier ministre ou de son représentant [*composition*] :
+Le comité interministériel à l'intégration comprend, sous la présidence du Premier ministre :
 
-- le ministre d'Etat, ministre de l'éducation nationale, de la jeunesse et des sports ;
-
-- le ministre d'Etat, ministre de l'économie, des finances et du budget ;
-
-- le ministre d'Etat, ministre des affaires étrangères ;
-
-- le garde des sceaux, ministre de la justice ;
-
-- le ministre de la défense ;
+- le ministre chargé de l'intégration ;
 
 - le ministre de l'intérieur ;
 
-- le ministre de l'équipement, du logement, des transports et de la mer ;
+- le ministre chargé des affaires sociales ;
 
-- le ministre du travail, de l'emploi et de la formation professionnelle ;
+- le ministre chargé du travail ;
 
-- le ministre de la culture, de la communication, des grands travaux et du Bicentenaire ;
+- le ministre de la justice ;
 
-- le ministre des départements et territoires d'outre-mer, porte-parole du Gouvernement ;
+- le ministre des affaires étrangères ;
 
-- le ministre de la solidarité, de la santé et de la protection sociale ;
+- le ministre de la défense ;
 
-- le ministre délégué auprès du ministre d'Etat, ministre de l'économie, des finances et du budget, chargé du budget ;
+- le ministre chargé de l'éducation nationale ;
 
-- le ministre délégué auprès du ministre d'Etat, ministre des affaires étrangères ;
+- le ministre chargé de la jeunesse ;
 
-- le ministre délégué auprès du ministre de l'équipement, du logement, des transports et de la mer, chargé du logement ;
+- le ministre chargé de l'économie ;
 
-- le secrétaire d'Etat chargé des droits des femmes ;
+- le ministre chargé du budget ;
 
-- le secrétaire d'Etat auprès du Premier ministre, chargé du Plan ;
+- le ministre chargé du logement ;
 
-- le secrétaire d'Etat auprès du Premier ministre, chargé de l'action humanitaire.
+- le ministre chargé du développement durable ;
 
-D'autres ministres ou secrétaires d'Etat peuvent être appelés à siéger au comité selon les questions inscrites à l'ordre du jour.
+- le ministre chargé de la santé ;
 
-Le délégué interministériel à la ville et au développement social urbain, le délégué à l'intégration et le délégué aux rapatriés participent aux délibérations du comité interministériel.
+- le ministre chargé de la famille ;
+
+- le ministre chargé de la culture ;
+
+- le ministre chargé de la communication ;
+
+- le ministre chargé de l'outre-mer ;
+
+- le ministre chargé des sports ;
+
+- le ministre chargé de la coopération ;
+
+- le ministre chargé de la francophonie ;
+
+- le ministre chargé de la ville ;
+
+- le ministre chargé des droits des femmes ;
+
+- le ministre chargé de la lutte contre l'exclusion ;
+
+- le ministre chargé des anciens combattants.
+
+D'autres ministres ou secrétaires d'Etat peuvent être appelés à siéger en fonction des questions inscrites à l'ordre du jour. Le président de la mission interministérielle aux rapatriés participe aux travaux du comité interministériel.
+
+Le président du Haut Conseil à l'intégration assiste aux réunions du comité interministériel.
