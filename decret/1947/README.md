@@ -3,6 +3,7 @@
 - [Décret du 2 mai 1947](decret-du-2-mai-1947)
 - [Décret n°47-798 du 5 mai 1947](decret-n47-798-du-5-mai-1947)
 - [Décret n°47-636 du 8 avril 1947](decret-n47-636-du-8-avril-1947)
+- [Décret n°47-817 du 9 mai 1947](decret-n47-817-du-9-mai-1947)
 - [Décret n°47-232 du 16 janvier 1947](decret-n47-232-du-16-janvier-1947)
 - [Décret du 19 avril 1947](decret-du-19-avril-1947)
 - [Décret n°47-753 du 19 avril 1947](decret-n47-753-du-19-avril-1947)
