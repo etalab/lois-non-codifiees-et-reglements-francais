@@ -4,7 +4,7 @@ Le commandant d'arrondissement maritime exerce, dans les limites de l'arrondisse
 
 1° Commandement militaire des ports et arsenaux ;
 
-2° Orientation et coordination de l'action locale de tous les services et de la direction des constructions navales, chargés de satisfaire les besoins des forces maritimes ;
+2° Orientation et coordination de l'action locale de tous les services et de la direction des systèmes d'armes, chargés de satisfaire les besoins des forces maritimes ;
 
 3° Préparation et mise en oeuvre de la mobilisation conformément aux principes définis à l'article 14 ci-après ;
 
