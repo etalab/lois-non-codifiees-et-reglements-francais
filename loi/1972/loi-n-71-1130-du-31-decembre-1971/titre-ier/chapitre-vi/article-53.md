@@ -20,11 +20,11 @@ Ils présentent notamment :
 
 8° L'organisation de la formation professionnelle et les conditions dans lesquelles la loi n° 71-575 du 16 juillet 1971 portant organisation de la formation professionnelle continue dans le cadre de l'éducation permanente, pourra être appliquée à la profession d'avocat ;
 
-9° Les conditions d'application de l'article 27 et, notamment, les conditions des garanties, les modalités du contrôle et les conditions dans lesquelles les avocats reçoivent des fonds, effets ou valeurs pour le compte de leurs clients, les déposent dans une caisse créée obligatoirement à cette fin par chaque barreau ou en commun par plusieurs barreaux et en effectuent le règlement.
+9° Les conditions d'application de l'article 27 et, notamment, les conditions des garanties, les modalités du contrôle et les conditions dans lesquelles les avocats reçoivent des fonds, effets ou valeurs pour le compte de leurs clients, les déposent dans une caisse créée obligatoirement à cette fin par chaque barreau ou en commun par plusieurs barreaux et en effectuent le règlement;
 
 10° Les conditions de délivrance d'un certificat de spécialisation et les cas et les conditions dans lesquels une mention de spécialisation pourra être adjointe à la dénomination d'avocat et les dérogations qui pourront y être apportées ;
 
-11° Les modalités de dispense du diplôme et du certificat d'aptitude à la profession d'avocat et les conditions dans lesquelles seront établies les équivalences de titres ou de diplômes mentionnées à l'article 11, ainsi que les conditions dans lesquelles la détention d'un diplôme universitaire d'enseignement supérieur à finalité professionnelle peut dispenser de tout ou partie de la formation professionnelle ou de tout ou partie des conditions exigées pour la délivrance d'un certificat de spécialisation ;
+11° Les modalités de dispense du diplôme et du certificat d'aptitude à la profession d'avocat et les conditions dans lesquelles seront établies les équivalences de titres ou de diplômes mentionnées à l'article 11, ainsi que les conditions dans lesquelles la détention d'un diplôme universitaire d'enseignement supérieur en sciences juridiques ou politiques peut dispenser de tout ou partie de la formation professionnelle ou de tout ou partie des conditions exigées pour la délivrance d'un certificat de spécialisation ;
 
 12° Les conditions d'application de l'article 50 ;
 
