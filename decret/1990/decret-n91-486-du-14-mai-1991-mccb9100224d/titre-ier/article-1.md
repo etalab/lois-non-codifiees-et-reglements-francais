@@ -1,9 +1,11 @@
 # Article 1
 
-Il est créé au ministère de la culture, de la communication et des grands travaux (mission de la recherche) les trois corps de fonctionnaires ci-après :
+Il est créé au ministère de la culture et de la communication (mission de la recherche) les quatre corps de fonctionnaires ci-après :
 
-- ingénieurs de recherche ;
+Ingénieurs de recherche ;
 
-- ingénieurs d'études ;
+Ingénieurs d'études ;
 
-- techniciens de la recherche.
+Assistants ingénieurs ;
+
+Techniciens de recherche.

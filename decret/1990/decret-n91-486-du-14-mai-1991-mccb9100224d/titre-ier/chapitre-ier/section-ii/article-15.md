@@ -28,6 +28,8 @@ Ces concours sont également ouverts aux candidats titulaires d'un titre univers
 
 2° Des concours internes sont ouverts aux ingénieurs d'études du ministère de la culture ainsi qu'aux fonctionnaires et agents non titulaires du ministère de la culture appartenant à des corps ou catégories dotés d'indices de traitement au moins équivalents, qui justifient, les uns et les autres, de sept ans de services en position d'activité dans leur corps ou en position de détachement de ce corps.
 
+Les mêmes concours internes sont ouverts aux assistants ingénieurs du ministère de la culture et de la communication qui justifient de dix années de services accomplis en position d'activité dans leur corps ou en position de détachement de ce corps.
+
 Pour l'ensemble du corps, le nombre total des emplois réservés aux candidats des concours internes mentionnés ci-dessus ne peut être supérieur au tiers du nombre total de postes à pourvoir par voie de concours.
 
 Dans chaque branche d'activité professionnelle, les emplois offerts au concours externe ou au concours interne, qui ne sont pas pourvus par la nomination de candidats à l'un des concours, peuvent être attribués aux candidats de l'autre concours dans la limite de 25 p. 100 du total des emplois offerts aux concours.

@@ -32,7 +32,7 @@ Des candidats titulaires d'un titre universitaire étranger jugé, par la commis
 
 Des candidats justifiant qu'ils possèdent déjà une qualification jugée, par la commission mentionnée à l'article 15, équivalente pour l'application du présent décret à un diplôme d'ingénieur.
 
-2° Des concours internes sont ouverts aux techniciens de la recherche du ministère chargé de la culture ainsi qu'aux fonctionnaires et agents non titulaires du ministère de la culture appartenant à des corps ou catégories dotés d'indices de traitement équivalents qui justifient les uns et les autres de cinq ans de services en position d'activité dans leurs corps ou catégorie ou en position de détachement.
+Des concours internes sont ouverts aux assistants ingénieurs et aux techniciens de recherche du ministère chargé de la culture ainsi qu'aux fonctionnaires et agents non titulaires du ministère de la culture appartenant à des corps ou catégories dotés d'indices de traitement équivalents qui justifient les uns et les autres de cinq ans de services en position d'activité dans leurs corps ou catégorie ou en position de détachement.
 
 Pour l'ensemble du corps, le nombre des emplois réservés aux candidats des concours internes ne peut être supérieur au tiers du nombre des postes à pourvoir par voie de concours.
 

@@ -4,4 +4,4 @@ Les ingénieurs concourent à l'élaboration, à la mise au point et au dévelop
 
 Ils ont une mission générale de valorisation des résultats de la recherche et de diffusion de l'information scientifique et technique. Ils peuvent en outre se voir confier des missions de coopération internationale, d'enseignement ou d'administration de la recherche.
 
-Ils peuvent participer à l'encadrement des techniciens du service auquel ils sont affectés.
+Ils peuvent participer à l'encadrement des assistants ingénieurs et des techniciens de recherche du service auquel ils sont affectés.
