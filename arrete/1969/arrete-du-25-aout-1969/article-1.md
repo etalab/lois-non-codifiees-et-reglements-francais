@@ -16,7 +16,7 @@ Ecole supérieure de l'intendance.
 
 Ecole du commissariat de l'air.
 
-Ecole nationale supérieure de police.
+Ecole nationale supérieure de police (anciens élèves commissaires de police).
 
 Ecole nationale supérieure des P. T. T.
 
@@ -146,7 +146,13 @@ Professions technico-commerciales des industries des métaux.
 
 Brevet de technicien supérieur agricole (spécialité Gestion et économie agricoles) délivré par le ministère de l'agriculture.
 
-Baccalauréat de technicien : informatique.
+Baccalauréat de technicien :
+
+informatique.
+
+Techniques commerciales.
+
+Techniques quantitatives de gestion.
 
 Etudes médicales et dentaires.
 
@@ -195,6 +201,8 @@ Génie civil.
 Génie électrique.
 
 Chimie.
+
+Informatique.
 
 Mesures physiques.
 
