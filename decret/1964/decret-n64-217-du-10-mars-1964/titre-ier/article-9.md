@@ -8,7 +8,7 @@ A l'issue de la période provisoire, en ce qui concerne les maîtres de l'enseig
 
 3° Les services effectifs d'enseignement et de direction accomplis dans les établissements ou classes sous contrat après le 15 septembre 1960 sont pris en compte pour la totalité de leur durée sous réserve de l'application des mêmes coefficients caractéristiques ;
 
-4° Les services accomplis dans des tâches de formation des maîtres ou d'orientation des élèves des établissements privés sous contrat sont pris en compte pour les deux tiers de leur durée s'ils ont été effectués avant le 15 septembre 1960 et pour la totalité de leur durée s'ils ont été effectués depuis cette date, sous réserve de l'application des mêmes coefficients caractéristiques ;
+4° Les services accomplis dans les tâches de documentalistes , de formation des maîtres des élèves des établissements privés sous contrat sont pris en compte pour les deux tiers de leur durée s'ils ont été effectués avant le 15 septembre 1960 et pour la totalité de leur durée s'ils ont été effectués depuis cette date, sous réserve de l'application des mêmes coefficients caractéristiques ;
 
 5° Les services accomplis dans des tâches de formation professionnelle continue dans un établissement sous contrat en application de la loi du 16 juillet 1971 susvisée par des maîtres contractuels ou agréés sont pris en compte pour les deux tiers de leur durée, sous réserve de l'application des mêmes coefficients caractéristiques ;
 
@@ -20,9 +20,7 @@ A l'issue de la période provisoire, en ce qui concerne les maîtres de l'enseig
 
 9° Les services d'enseignement assurés dans un établissement d'enseignement situé hors du territoire métropolitain et les départements d'outre-mer sont pris en compte dans les conditions fixées par le décret susvisé du 3 septembre 1966.
 
-10° Les services effectifs d'enseignement accomplis dans les établissements d'enseignement privés sous contrat relevant du ministre chargé de l'agriculture sont pris en compte pour la totalité de leur durée sous réserve de l'application des mêmes coefficients
-
-caractéristiques.
+10° Les services effectifs d'enseignement accomplis dans les établissements d'enseignement privés sous contrat relevant du ministre chargé de l'agriculture sont pris en compte pour la totalité de leur durée sous réserve de l'application des mêmes coefficients caractéristiques.
 
 En ce qui concerne les maîtres du premier degré et les maîtres bénéficiant de l'échelle de rémunération des professeurs d'enseignement général de collège, les dispositions qui précèdent ne s'appliquent qu'après déduction d'une durée de services d'enseignement fixée à six ans pour ceux d'entre eux qui sont titulaires du brevet élémentaire et à trois ans pour ceux d'entre eux qui sont titulaires du baccalauréat. Toutefois, cett e déduction n'est pas applicable pour le classement dans l'échelle de rémunération des instituteurs des maîtres titulaires du baccalauréat et du certificat d'aptitude pédagogique ou du diplôme d'instituteur qui ont suivi les années de scolarité prévues par les conventions mentionnées au 1° de l'article 2 ci-dessus.
 

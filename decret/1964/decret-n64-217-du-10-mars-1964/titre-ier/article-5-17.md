@@ -1,6 +1,6 @@
 # Article 5-17
 
-Les maîtres reçus aux concours mentionnés à l'article 5-11 ci-dessus sont admis définitivement à l'échelle de rémunération des professeurs certifiés à l'issue d'une période probatoire d'une année scolaire, sous réserve de la vérification de leur aptitude pédagogique, selon des modalités fixées par arrêté du ministre chargé de l'éducation nationale. Ils sont alors classés dans cette échelle de rémunération selon les modalités prévues à l'article 10 du présent décret.
+Les maîtres reçus aux concours mentionnés à l'article 5-11 ci-dessus sont admis définitivement à l'échelle de rémunération des professeurs certifiés à l'issue d'une période probatoire d'une année scolaire, sous réserve de la vérification de leur aptitude pédagogique, selon les modalités fixées par arrêté du ministre chargé de l'éducation nationale. Ils sont classés dans cette échelle de rémunération dès le début de la période probatoire, selon les modalités prévues à l'article 10 du présent décret.
 
 Les maîtres dont la période probatoire n'a pas été jugée satisfaisante peuvent être autorisés, par décision du recteur, à accomplir une nouvelle période probatoire d'une année scolaire. A l'issue de la période probatoire, qu'elle ait été renouvelée ou pas, ils sont soit admis définitivement à l'échelle de rémunération des professeurs certifiés, soit replacés dans leur échelle de rémunération d'origine. La deuxième année de période probatoire n'est pas prise en compte pour l'avancement d'échelon.
 

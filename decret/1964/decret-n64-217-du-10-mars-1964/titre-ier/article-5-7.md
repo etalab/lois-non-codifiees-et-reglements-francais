@@ -1,10 +1,10 @@
 # Article 5-7
 
-Outre les concours ouverts en application de l'article 5 ci-dessus, un concours d'accès à l'échelle de rémunération des professeurs de lycée professionnel du deuxième grade est ouvert selon des modalités fixées par arrêté du ministre de l'éducation nationale :
+Outre les concours ouverts en application de l'article 5 ci-dessus, un concours d'accès à l'échelle de rémunération des professeurs de lycée professionnel du 2e grade est ouvert aux maîtres ou aux documentalistes des établissements d'enseignement privés sous contrat qui remplissent l'une des conditions suivantes :
 
-1° Aux maîtres contractuels bénéficiant, à titre provisoire ou à titre définitif, de l'échelle de rémunération des professeurs de lycée professionnel du premier grade ou de celle des professeurs techniques chefs de travaux des collèges d'enseignement technique ayant accompli deux années de services d'enseignement ;
+a) Bénéficier de l'échelle de rémunération des professeurs de lycée professionnel du 1er grade et avoir accompli deux années de services d'enseignement ou de documentation ;
 
-2° Aux maîtres ne bénéficiant pas de l'échelle de rémunération d'une catégorie de personnels enseignants titulaires ayant accompli trois années de services d'enseignement et justifiant d'un diplôme d'études universitaires générales ou d'un titre ou diplôme de niveau égal ou supérieur sanctionnant un cycle d'études post-secondaires d'au moins deux années.
+b) Justifier du diplôme d'études universitaires générales ou d'un brevet de technicien supérieur ou d'un diplôme universitaire de technologie ou d'un titre ou diplôme de niveau égal ou supérieur sanctionnant un cycle d'études post-secondaires d'au moins deux années et avoir accompli trois années de services d'enseignement ou de documentation.
 
 Toutefois, les candidats qui s'inscrivent, au titre d'une même session, à la fois au concours institué par le présent article et aux concours correspondants prévus à l'article 5 du présent décret ne peuvent prétendre au bénéfice des dispositions des deux derniers alinéas de l'article 5 précité.
 
