@@ -1,3 +1,0 @@
-# Article 11
-
-La mutation résultant d'un changement dans la propriété des titres nominatifs donne lieu à la production des certificats nominatifs et d'un certificat de propriété. Ce certificat de propriété peut également être exigé par la personne morale émettrice ou l'établissement chargé par elle du service des transferts, soit pour faire ajouter dans le libellé la mention de tous actes comportant une restriction au droit de libre disposition du titulaire ou pour faire supprimer une telle mention, soit pour faire attester les droits du titulaire à la suite d'événements susceptibles de les modifier.

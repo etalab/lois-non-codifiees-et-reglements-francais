@@ -1,6 +1,5 @@
 # Décret n°55-1595 du 7 décembre 1955 relatif au régime des titres nominatifs
 
-- [Article 1](article-1.md)
 - [Article 2](article-2.md)
 - [Article 3](article-3.md)
 - [Article 4](article-4.md)
@@ -16,6 +15,4 @@
 - [RESPONSABILITE DES PERSONNES MORALES EMETTRICES ET DES INTERMEDIAIRES.](responsabilite-des-personnes-morales-emettrices-et)
 - [TRANSFERT, CONVERSION ET REMBOURSEMENT DES TITRES NOMINATIFS](transfert-conversion-et)
 - [TRANSFERT ET CONVERSION INTERVENANT A LA SUITE D'UNE NEGOCIATION EN BOURSE](transfert-et)
-- [MUTATION DE TITRES NOMINATIFS](mutation-de-titres-nominatifs)
-- [MUTATION DES TITRES NOMINATIFS](mutation-des-titres-nominatifs)
 - [PAIEMENT DES PRODUITS](paiement-des-produits)
