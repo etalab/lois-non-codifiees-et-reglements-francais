@@ -38,6 +38,7 @@
 - [Décret n°75-958 du 17 octobre 1975](decret-n75-958-du-17-octobre-1975)
 - [Décret n°75-1102 du 18 novembre 1975](decret-n75-1102-du-18-novembre-1975)
 - [Décret n°76-280 du 18 mars 1976](decret-n76-280-du-18-mars-1976)
+- [Décret n°76-803 du 19 août 1976](decret-n76-803-du-19-aout-1976)
 - [Décret n°68-906 du 21 octobre 1968](decret-n68-906-du-21-octobre-1968)
 - [Décret n°75-273 du 21 avril 1975](decret-n75-273-du-21-avril-1975)
 - [Décret n°75-293 du 21 avril 1975](decret-n75-293-du-21-avril-1975)
