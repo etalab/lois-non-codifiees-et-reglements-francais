@@ -38,4 +38,4 @@ Appareillage des mutilés de guerre et des handicapés civils bénéficiaires de
 
 - réglementation et contrôle de son application ;
 
-- cellule médico-technique de l'appareillage : conseil et contrôle médical, formation des médecins contrôleurs.
+- cellule médico-technique de l'appareillage : conseil et contrôle médical, formation des médecins de l'appareillage.

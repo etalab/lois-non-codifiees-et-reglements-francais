@@ -1,0 +1,3 @@
+# Article 1
+
+Sous réserve que leur importation ne soit pas prohibée en raison des dispositions spéciales prises en application de l'article 247 du code rural, et indépendamment des formalités ordinaires de douane et de police sanitaire qui leur sont applicables en général, les importations sur le territoire douanier métropolitain des animaux vivants des espèces équine, asine et leurs croisements, bovine, porcine, ovine et caprine destinés à la boucherie (n°s ex 01-01, ex 01-02, ex 01-03, ex 01-04 du tarif des droits de douane d'importation) sont soumises aux conditions et prescriptions particulières spécifiées ci-après.

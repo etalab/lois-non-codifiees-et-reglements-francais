@@ -119,6 +119,7 @@
 - [Décret n°87-218 du 27 mars 1987 (INDH8700226D)](decret-n87-218-du-27-mars-1987-indh8700226d)
 - [Décret n°87-219 du 27 mars 1987 (INDH8700225D)](decret-n87-219-du-27-mars-1987-indh8700225d)
 - [Décret n°87-221 du 27 mars 1987 (STFP8700279D)](decret-n87-221-du-27-mars-1987-stfp8700279d)
+- [Décret n°87-225 du 27 mars 1987 (ACVP8720011D)](decret-n87-225-du-27-mars-1987-acvp8720011d)
 - [Décret n°87-41 du 28 janvier 1987](decret-n87-41-du-28-janvier-1987)
 - [Décret n°87-42 du 28 janvier 1987 (MERE8700002D)](decret-n87-42-du-28-janvier-1987-mere8700002d)
 - [Décret n°87-728 du 28 août 1987 (FPPA8700026D)](decret-n87-728-du-28-aout-1987-fppa8700026d)
