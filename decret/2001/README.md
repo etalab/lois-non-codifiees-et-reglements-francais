@@ -212,6 +212,7 @@
 - [Décret n°2001-1072 du 15 novembre 2001 (ECOC0100098D)](decret-n2001-1072-du-15-novembre-2001-ecoc0100098d)
 - [Décret n°2001-1093 du 15 novembre 2001 (MENS0102408D)](decret-n2001-1093-du-15-novembre-2001-mens0102408d)
 - [Décret n°2001-1095 du 15 novembre 2001 (EQUS0101435D)](decret-n2001-1095-du-15-novembre-2001-equs0101435d)
+- [Décret n°2001-143 du 15 février 2001 (ECOX0000167D)](decret-n2001-143-du-15-fevrier-2001-ecox0000167d)
 - [Décret n°2001-941 du 15 octobre 2001 (MEST0111373D)](decret-n2001-941-du-15-octobre-2001-mest0111373d)
 - [Décret n°2002-352 du 15 mars 2002 (PRMX0205397D)](decret-n2002-352-du-15-mars-2002-prmx0205397d)
 - [Décret n°2002-515 du 15 avril 2002 (MESH0220949D)](decret-n2002-515-du-15-avril-2002-mesh0220949d)
