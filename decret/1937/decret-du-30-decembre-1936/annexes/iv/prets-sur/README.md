@@ -10,8 +10,6 @@
 - [Droit de prisée.](droit-de-prisee)
 - [Droits de vente.](droits-de-vente)
 - [Durée des prêts.](duree-des-prets)
-- [Intérêts et droits à percevoir sur les prêts.](interets-et)
-- [Minimum et maximum des prêts.](minimum-et)
 - [Nature des prêts.](nature-des-prets)
 - [Officiers ministériels des ventes.](officiers-ministeriels-des-ventes)
 - [Vente des objets en platine, or ou argent.](vente-des-objets-en-platine-or-ou)
