@@ -5,5 +5,4 @@
 - [Décret n°2000-664 du 17 juillet 2000 (ECOT9926256D)](decret-n2000-664-du-17-juillet-2000-ecot9926256d)
 - [Décret n°2000-43 du 20 janvier 2000 (FPPA9910019D)](decret-n2000-43-du-20-janvier-2000-fppa9910019d)
 - [Décret n°2000-51 du 20 janvier 2000 (FPPA0010006D)](decret-n2000-51-du-20-janvier-2000-fppa0010006d)
-- [Décret n°2000-359 du 26 avril 2000 (MESR0010435D)](decret-n2000-359-du-26-avril-2000-mesr0010435d)
 - [Décret n°2000-456 du 29 mai 2000 (ECOX0004146D)](decret-n2000-456-du-29-mai-2000-ecox0004146d)

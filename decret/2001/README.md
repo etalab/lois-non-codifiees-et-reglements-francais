@@ -11,7 +11,6 @@
 - [Décret n°2001-1006 du 2 novembre 2001 (MAEF0110087D)](decret-n2001-1006-du-2-novembre-2001-maef0110087d)
 - [Décret n°2001-1007 du 2 novembre 2001 (EQUP0100999D)](decret-n2001-1007-du-2-novembre-2001-equp0100999d)
 - [Décret n°2001-284 du 2 avril 2001 (INTA0100065D)](decret-n2001-284-du-2-avril-2001-inta0100065d)
-- [Décret n°2001-575 du 2 juillet 2001 (MESR0110628D)](decret-n2001-575-du-2-juillet-2001-mesr0110628d)
 - [Décret n°2001-900 du 2 octobre 2001 (MESA0123182D)](decret-n2001-900-du-2-octobre-2001-mesa0123182d)
 - [Décret n°89-403 du 2 juin 1989 (PRMX8900068D)](decret-n89-403-du-2-juin-1989-prmx8900068d)
 - [Décret n°96-292 du 2 avril 1996 (JUSC9620100D)](decret-n96-292-du-2-avril-1996-jusc9620100d)
