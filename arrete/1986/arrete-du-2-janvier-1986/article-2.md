@@ -1,3 +1,3 @@
 # Article 2
 
-Le tarif forfaitaire dont le redevable peut demander l'application figure en annexe au présent arrêté.
+Seules les variétés destinées à l'industrie féculière, prévues à l'annexe III, pourront être autorisées à l'importation.
