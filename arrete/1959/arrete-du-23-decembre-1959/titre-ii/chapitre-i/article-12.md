@@ -6,6 +6,8 @@ I. - Le comité de direction de tout casino autorisé à pratiquer la boule, le 
 
 Lorsque le casino est également autorisé à pratiquer un ou plusieurs jeux de contre-partie autres que la boule et le vingt-trois, le comité de direction comporte au moins quatre membres, y compris le directeur responsable ; trois de ses membres au moins, dont le directeur responsable ou le membre qui le remplace momentanément, doivent demeurer en permanence dans la station pendant toute la durée de fonctionnement des jeux [*conditions de résidence*].
 
+Lorsque le casino est également autorisé à exploiter les machines à sous, un des membres du comité de direction est plus spécialement chargé de leur contrôle.
+
 II. - Si l'établissement n'est pas exploité par une société [*de jeux*], c'est la personne à qui a été accordée l'autorisation de jeu qui remplit les fonctions de directeur responsable [*titulaire de l'autorisation*]. Elle doit d'adjoindre comme membre du comité de direction au moins deux personnes si elle exploite la boule, le vingt-trois et les jeux dits de cercle, ou l'un de ces jeux, et au moins trois personnes si elle exploite, en outre, un ou plusieurs jeux de contre-partie autres que la boule et le vingt-trois.
 
 III. - Si le casino est exploité par une société [*de jeux*], celle-ci doit être constituée conformément à la loi française et son siège doit être fixé dans la commune où se trouve le casino [*lieu du siège social*].
@@ -16,7 +18,7 @@ S'il s'agit d'une société en nom collectif ou d'une société à responsabilit
 
 S'il s'agit d'une société anonyme, le directeur responsable doit être, selon le cas, soit le président du conseil d'administration ou un directeur général obligatoirement choisi parmi les administrateurs, soit le président du directoire ou le directeur général unique [*dirigeants sociaux*].
 
-Le comité doit comprendre, en plus du directeur responsable, au moins deux membres appartenant au conseil d'administration ou au directoire si le casino exploite la boule, le vingt-trois et les jeux de cercle ou l'un de ces jeux ou au moins trois membres appartenant au conseil d'administration ou au directoire si le casino exploite, en outre, un ou plusieurs autres jeux de contre-partie, auxquels peuvent être adjointes quatre personnes au plus, prises au dehors.
+Le comité doit comprendre, en plus du directeur responsable, au moins deux membres appartenant au conseil d'administration ou au directoire si le casino exploite la boule, le vingt-trois et les jeux de cercle ou l'un de ces jeux, et au moins trois membres appartenant au conseil d'administration ou au directoire si le casino exploite, en outre, un ou plusieurs autres jeux de contrepartie, auxquels peuvent être adjointes des personnes prises au dehors.
 
 IV - Les membres du comité de direction agréés par le ministre de l'intérieur ne peuvent ni recevoir un pourcentage sur le produit brut ou le bénéfice des jeux, ni participer de façon quelconque à la répartition des pourboires, ni cumuler leurs fonctions avec celles d'employé de jeux.
 

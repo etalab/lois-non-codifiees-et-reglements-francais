@@ -1,6 +1,6 @@
 # Article 39
 
-A la roulette, au trente-et-quarante, à la roulette américaine, au black-jack et au craps, les enjeux ne peuvent être représentés que par des jetons ou des plaques.
+A la roulette, au trente-et-quarante, à la roulette américaine, au black-jack et au craps, à la roulette anglaiseet au punto banco, les enjeux ne peuvent être représentés que par des jetons ou des plaques.
 
 Le change ne peut s'effectuer qu'à des comptoirs ou guichets spéciaux et aux tables de jeux [*conditions*]. Le change par l'intermédiaire d'employés circulant parmi les joueurs est interdit.
 

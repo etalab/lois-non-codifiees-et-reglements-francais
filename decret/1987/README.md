@@ -288,6 +288,7 @@
 - [Décret n°87-231 du 27 mars 1987 (ASET8703132D)](decret-n87-231-du-27-mars-1987-aset8703132d)
 - [Décret n°87-232 du 27 mars 1987 (ASET8703225D)](decret-n87-232-du-27-mars-1987-aset8703225d)
 - [Décret n°87-289 du 27 avril 1987 (STFS8700644D)](decret-n87-289-du-27-avril-1987-stfs8700644d)
+- [Décret n°87-711 du 27 août 1987 (AGRS8701491D)](decret-n87-711-du-27-aout-1987-agrs8701491d)
 - [Décret n°87-355 du 27 mai 1987 (ASEG8700743D)](decret-n87-355-du-27-mai-1987-aseg8700743d)
 - [Décret n°87-291 du 28 avril 1987 (INDA8700254D)](decret-n87-291-du-28-avril-1987-inda8700254d)
 - [Décret n°87-41 du 28 janvier 1987](decret-n87-41-du-28-janvier-1987)

@@ -1,8 +1,8 @@
 # Article 26
 
-Admission dans les salles de jeux de hasard autres que celle réservée à la boule et au vingt-trois.
+Admission dans les salles de jeux de hasard autres que celles réservées à la boule, au vingt-trois et aux machines à sous
 
-L'accès aux salles où fonctionnent les jeux de hasard autres que la boule et le vingt-trois est soumis à la présentation d'une carte spéciale [*conditions*] dont le prix ne peut être inférieur au droit de timbre dont le taux est fixé à l'article 950 du code général des impôts. Ce droit de timbre est acquitté par l'apposition sur les cartes soit de timbres fiscaux mobiles, soit de l'empreinte d'une machine à timbrer agréée par le ministre de l'économie et des finances.
+L'accès aux salles où fonctionnent les jeux de hasard autres que la boule, le vingt-trois et les machines à sous ou deux de ces jeux seulement ou les seules machines à sous, est soumis à la présentation d'une carte spéciale [*conditions*] dont le prix ne peut être inférieur au droit de timbre dont la quotité est fixée à l'article 945 du code général des impôts.
 
 Les timbres fiscaux sont collés sur les cartes d'entrée par les soins de l'administration du casino et oblitérés au moment de la délivrance desdites cartes, par un compostage à l'encre grasse, faisant apparaître le nom du casino et la date de l'oblitération du timbre. Sont considérées comme non timbrées les cartes sur lesquelles le timbre mobile aurait été apposé sans l'accomplissement des opérations indiquées ci-dessus, ou sur lesquelles aurait été apposé un timbre mobile ayant déjà servi. Les contraventions aux dispositions qui précèdent sont punies des peines [*sanctions*] prévues par le code général des impôts.
 

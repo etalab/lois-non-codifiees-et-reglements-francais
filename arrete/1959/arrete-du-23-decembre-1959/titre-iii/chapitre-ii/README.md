@@ -7,6 +7,8 @@
 - [Section V : Règles particulières applicables à la roulette dite américaine.](section-v)
 - [Section VI : Règles particulières applicables au black-jack.](section-vi)
 - [Section VII : Règles particulières applicables au craps.](section-vii)
+- [Section VIII : Règles particulières applicables à la roulette dite anglaise.](section-viii)
+- [Section IX : Règles particulières applicables au punto banco.](section-ix)
 - [Article 43](article-43.md)
 - [Article 44](article-44.md)
 - [Article 45](article-45.md)

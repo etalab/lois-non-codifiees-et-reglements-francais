@@ -30,7 +30,11 @@ Roulette américaine ;
 
 Black-jack ;
 
-Craps.
+Craps ;
+
+Roulette anglaise ;
+
+Punto blanco.
 
 c) Le montant des frais de contrôle des jeux de contre-partie autres que la boule et le vingt-trois.
 
