@@ -104,7 +104,6 @@
 - [Décret n°82-407 du 13 mai 1982](decret-n82-407-du-13-mai-1982)
 - [Décret n°82-508 du 14 juin 1982](decret-n82-508-du-14-juin-1982)
 - [Décret n°82-529 du 14 juin 1982](decret-n82-529-du-14-juin-1982)
-- [Décret n°82-782 du 14 septembre 1982](decret-n82-782-du-14-septembre-1982)
 - [Décret n° 82-1065 du 15 décembre 1982](decret-n-82-1065-du-15-decembre-1982)
 - [Décret n°81-408 du 15 avril 1981](decret-n81-408-du-15-avril-1981)
 - [Décret n°81-409 du 15 avril 1981](decret-n81-409-du-15-avril-1981)
