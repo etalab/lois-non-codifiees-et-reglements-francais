@@ -1,0 +1,7 @@
+# Article 2
+
+L'Observatoire national de l'enseignement agricole a pour mission d'analyser, de synthétiser et de diffuser les données sur la connaissance, le suivi et l'insertion professionnelle des élèves, des étudiants, des apprentis et des stagiaires de l'enseignement agricole tant public que privé. Il produit et fait produire des études et des recherches sur les relations entre les formations et les besoins d'emplois, et notamment sur les qualifications ainsi que sur les savoirs et les acquis des apprenants et leur évolution. Il formule des propositions et des recommandations sur ses domaines de compétence.
+
+Pour remplir ses missions, il peut faire appel, en tant que de besoin, aux directions et aux services statistiques du ministère chargé de l'agriculture ainsi qu'aux établissements placés sous sa tutelle. Il peut également solliciter tous renseignements et demander à procéder à toutes rencontres et consultations de documents qu'il estime utiles au bon déroulement de ses activités. Il est habilité à conclure des protocoles de coopération avec des services ou des établissements publics dépendant d'autres ministères, notamment ceux chargés de l'éducation nationale, du Plan, de la formation professionnelle et du travail.
+
+Il remet chaque année un rapport au ministre chargé de l'agriculture. Le rapport, après avoir été présenté au Conseil national de l'enseignement agricole, est rendu public.
