@@ -1,0 +1,5 @@
+# Article 4
+
+Pour l'application du II de l'article 25 de la loi n° 90-86 du 23 janvier 1990 portant diverses dispositions relatives à la sécurité sociale et à la santé, il est procédé au 1er juin 1990, par les organismes débiteurs de l'allocation aux adultes handicapés, à un réexamen du droit à cette allocation, et si son montant cumulé à celui de la garantie de ressources est supérieur aux limites instituées par le quatrième alinéa de l'article L. 821-1, l'allocation aux adultes handicapés ne fait pas l'objet de la réduction mentionnée à l'article D. 821-5. Ce montant cumulé constitue pour chaque allocataire le montant de ressources garanties.
+
+Le réexamen du droit à l'allocation aux adultes handicapés intervient chaque année à compter du 1er juillet 1991 conformément aux dispositions de l'article D. 821-2 et à celles prévues au premier alinéa du présent article et est effectué tant que le montant cumulé des deux avantages est supérieur aux limites instituées par le quatrième alinéa de l'article L. 821-1.
