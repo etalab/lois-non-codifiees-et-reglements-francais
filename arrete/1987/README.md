@@ -221,7 +221,6 @@
 - [Arrêté du 12 mai 1987 (EQUC8700193A)](arrete-du-12-mai-1987-equc8700193a)
 - [Arrêté du 12 mai 1987 (EQUC8700194A)](arrete-du-12-mai-1987-equc8700194a)
 - [Arrêté du 13 août 1987 (ASEH8701195A)](arrete-du-13-aout-1987-aseh8701195a)
-- [Arrêté du 13 avril 1987 (ASEH8700607A)](arrete-du-13-avril-1987-aseh8700607a)
 - [Arrêté du 13 avril 1987 (PTTT8700275A)](arrete-du-13-avril-1987-pttt8700275a)
 - [Arrêté du 13 février 1987](arrete-du-13-fevrier-1987)
 - [Arrêté du 13 février 1987 (AGRP8700293A)](arrete-du-13-fevrier-1987-agrp8700293a)
