@@ -428,7 +428,6 @@
 - [Arrêté du 20 février 2002 (DEFP0201260A)](arrete-du-20-fevrier-2002-defp0201260a)
 - [Arrêté du 20 février 2002 (DEFP0201261A)](arrete-du-20-fevrier-2002-defp0201261a)
 - [Arrêté du 20 février 2002 (DEFP0201262A)](arrete-du-20-fevrier-2002-defp0201262a)
-- [Arrêté du 20 février 2002 (EQUS0200128A)](arrete-du-20-fevrier-2002-equs0200128a)
 - [Arrêté du 20 février 2002 (INTA0200089A)](arrete-du-20-fevrier-2002-inta0200089a)
 - [Arrêté du 20 février 2002 (JUSA0200035A)](arrete-du-20-fevrier-2002-jusa0200035a)
 - [Arrêté du 20 février 2002 (MJSK0270046A)](arrete-du-20-fevrier-2002-mjsk0270046a)
