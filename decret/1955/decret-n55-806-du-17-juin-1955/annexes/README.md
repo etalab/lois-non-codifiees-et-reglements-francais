@@ -1,5 +1,6 @@
 # Annexes
 
+- [Tableaux des maladies professionnelles 22° bis Affections non pneumoconiotiques dues à l'inhalation de poussières minérales renfermant de la silice libre](tableaux-des-maladies-professionnelles-22-bis)
 - [Tableaux des maladies professionnelles 22° Pneumoconioses consécutives à l'inhalation de poussières minérales renfermant de la silice libre](tableaux-des-maladies-professionnelles-22-pneumoconioses-consecutives-a)
 - [Tableaux des maladies professionnelles 22° Silicose professionnelle (maladies consécutives à l'inhalation de poussières renfermant de la silice libre (Si02)](tableaux-des-maladies-professionnelles-22-silicose-professionnelle-maladies-consecutives-a)
 - [Tableaux des maladies professionnelles 23° Intoxication professionnelle par le bromure de méthyle.](tableaux-des-maladies-professionnelles-23-intoxication-professionnelle-par)
