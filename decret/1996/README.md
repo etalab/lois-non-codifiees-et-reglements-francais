@@ -580,7 +580,6 @@
 - [Décret n°96-1149 du 20 décembre 1996 (MAEJ9630088D)](decret-n96-1149-du-20-decembre-1996-maej9630088d)
 - [Décret n°96-125 du 20 février 1996 (ECOT9626158D)](decret-n96-125-du-20-fevrier-1996-ecot9626158d)
 - [Décret n°96-553 du 20 juin 1996 (TASS9621386D)](decret-n96-553-du-20-juin-1996-tass9621386d)
-- [Décret n°96-736 du 20 août 1996 (TASF9611132D)](decret-n96-736-du-20-aout-1996-tasf9611132d)
 - [Décret n°96-738 du 20 août 1996 (BUDF9600026D)](decret-n96-738-du-20-aout-1996-budf9600026d)
 - [Décret n°96-739 du 20 août 1996 (ECOT9651543D)](decret-n96-739-du-20-aout-1996-ecot9651543d)
 - [Décret n°96-744 du 20 août 1996 (ECOU9500007D)](decret-n96-744-du-20-aout-1996-ecou9500007d)
