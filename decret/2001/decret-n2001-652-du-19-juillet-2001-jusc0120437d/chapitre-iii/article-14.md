@@ -1,0 +1,3 @@
+# Article 14
+
+Les salariés du titulaire d'un office de commissaire-priseur ou de l'une des personnes morales mentionnées au troisième alinéa de l'article 49 de la loi du 10 juillet 2000 précitée dont le licenciement pour motif économique intervient avant le 11 juillet 2002 et en conséquence directe de l'entrée en vigueur de la loi joignent à leur demande d'indemnisation une copie de la lettre de licenciement, des contrats de travail, des bulletins de paye et tout autre document nécessaire à la détermination de l'ancienneté dans la profession ainsi que du salaire mensuel mentionné à l'article 13.
