@@ -151,7 +151,6 @@
 - [Décret n°79-211 du 27 février 1979](decret-n79-211-du-27-fevrier-1979)
 - [Décret n°79-212 du 27 février 1979](decret-n79-212-du-27-fevrier-1979)
 - [Décret n°79-249 du 27 mars 1979](decret-n79-249-du-27-mars-1979)
-- [Décret n°79-250 du 27 mars 1979](decret-n79-250-du-27-mars-1979)
 - [Décret n°79-251 du 27 mars 1979](decret-n79-251-du-27-mars-1979)
 - [Décret n°79-252 du 27 mars 1979](decret-n79-252-du-27-mars-1979)
 - [Décret n°79-265 du 27 mars 1979](decret-n79-265-du-27-mars-1979)
