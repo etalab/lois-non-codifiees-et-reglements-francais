@@ -1,4 +1,4 @@
-# Arrêté du 1 février 1985 fixant la contribution des différents régimes d'assurance maladie au financement des assurances sociales des étudiants
+# Décret n°85-249 du 14 février 1985 relatif à la commission départementale de l'action touristique.
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)
