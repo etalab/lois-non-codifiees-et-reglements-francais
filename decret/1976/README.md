@@ -37,6 +37,7 @@
 - [Décret n°76-1228 du 24 décembre 1976](decret-n76-1228-du-24-decembre-1976)
 - [Décret n°76-208 du 24 février 1976](decret-n76-208-du-24-fevrier-1976)
 - [Décret n°76-842 du 24 août 1976](decret-n76-842-du-24-aout-1976)
+- [Décret n°76-82 du 27 janvier 1976](decret-n76-82-du-27-janvier-1976)
 - [Décret n°76-1110 du 29 novembre 1976](decret-n76-1110-du-29-novembre-1976)
 - [Décret n°76-1311 du 29 décembre 1976](decret-n76-1311-du-29-decembre-1976)
 - [Décret n°78-507 du 29 mars 1978](decret-n78-507-du-29-mars-1978)
