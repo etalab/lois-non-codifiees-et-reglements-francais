@@ -1,6 +1,6 @@
 # Article 49
 
-Les candidats non médecins reçus au second concours mentionné à l'article précédent peuvent exercer des fonctions hospitalières ne nécessitant pas d'actes médicaux dans les disciplines suivantes :
+Les candidats non médecins reçus aux concours mentionnés à l'article précédent peuvent exercer des fonctions hospitalières ne nécessitant pas d'actes médicaux dans les disciplines suivantes :
 
 1° Histologie (cytologie) ;
 
@@ -12,7 +12,7 @@ Les candidats non médecins reçus au second concours mentionné à l'article pr
 
 5° Bactériologie ; virologie-hygiène ; parasitologie ;
 
-6° Epidémiologie ; économie de la santé et prévention ; statistiques et informatique ;
+6° Epidémiologie ; économie de la santé et prévention ; statistique et informatique ;
 
 7° Pharmacologie ; toxicologie ;
 
