@@ -5,3 +5,4 @@
 - [Section 3 : Dispositions statutaires relatives aux corps des secrétaires d'administration de la recherche](section-3)
 - [Section 4 : Dispositions statutaires relatives aux corps des adjoints administratifs de la recherche](section-4)
 - [Section 5 : Dispositions statutaires relatives aux corps des agents d'administration de la recherche](section-5)
+- [Article 155](article-155.md)

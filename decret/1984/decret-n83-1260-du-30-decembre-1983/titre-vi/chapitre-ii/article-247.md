@@ -1,0 +1,11 @@
+# Article 247
+
+Peuvent être placés en position de détachement dans un des corps d'ingénieurs ou de personnels techniques régi par le présent statut, après avis de la commission administrative paritaire du corps compétent d'accueil
+
+1° Les fonctionnaires appartenant à un corps homologué régi par un statut pris en application de la loi du 15 juillet 1982 susvisée ;
+
+2° Les fonctionnaires appartenant aux corps de chercheurs ou aux corps d'administration de la recherche du même établissement ou d'un autre établissement public scientifique et technologique ou aux corps de fonctionnaires de physique nucléaire et de physique des particules du Centre national de la recherche scientifique, classés dans la même catégorie de l'article 29 de la loi du 11 janvier 1984 susvisée que le corps dans lequel ils demandent leur détachement, sous réserve qu'ils soient titularisés dans leur corps d'origine et qu'ils remplissent les conditions de diplômes requises pour l'accès au corps dans lequel ils demandent leur détachement ou qu'ils justifient d'un niveau de qualification professionnelle correspondant aux fonctions exercées par les fonctionnaires appartenant au corps dans lequel ils demandent leur détachement.
+
+Les fonctionnaires appartenant aux corps des adjoints administratifs de la recherche et des agents d'administration de la recherche sont considérés comme remplissant les conditions de qualification requises respectivement pour l'accès aux corps des adjoints techniques de la recherche et des agents techniques de la recherche. Toutefois, ces fonctionnaires doivent être titulaires d'un grade dont l'indice de début est au moins égal à l'indice afférent au 1° échelon respectivement du grade d'adjoint technique de la recherche et du grade d'agent technique de la recherche.
+
+3° Les autres fonctionnaires appartenant à un corps classé dans la même catégorie que celle du corps dans lequel ils demandent leur détachement, à condition qu'ils soient titularisés dans leur corps d'origine depuis trois ans au moins et qu'ils remplissent les conditions de diplôme requises pour l'accès au corps dans lequel ils demandent leur détachement ou qu'ils justifient d'un niveau de qualification professionnelle correspondant aux fonctions exercées par les fonctionnaires appartenant au corps dans lequel ils demandent leur détachement.
