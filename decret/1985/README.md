@@ -156,7 +156,6 @@
 - [Décret n°85-1100 du 14 octobre 1985](decret-n85-1100-du-14-octobre-1985)
 - [Décret n°85-209 du 14 février 1985](decret-n85-209-du-14-fevrier-1985)
 - [Décret n°85-216 du 14 février 1985](decret-n85-216-du-14-fevrier-1985)
-- [Décret n°85-231 du 14 février 1985](decret-n85-231-du-14-fevrier-1985)
 - [Décret n°85-249 du 14 février 1985](decret-n85-249-du-14-fevrier-1985)
 - [Décret n°85-46 du 14 janvier 1985](decret-n85-46-du-14-janvier-1985)
 - [Décret n°85-607 du 14 juin 1985](decret-n85-607-du-14-juin-1985)
