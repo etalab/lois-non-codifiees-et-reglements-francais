@@ -179,6 +179,7 @@
 - [Décret n°92-141 du 14 février 1992 (INDG9100988D)](decret-n92-141-du-14-fevrier-1992-indg9100988d)
 - [Décret n°92-143 du 14 février 1992 (SANP9102747D)](decret-n92-143-du-14-fevrier-1992-sanp9102747d)
 - [Décret n°92-144 du 14 février 1992 (SANP9102787D)](decret-n92-144-du-14-fevrier-1992-sanp9102787d)
+- [Décret n°92-387 du 14 avril 1992 (PRMX9210468D)](decret-n92-387-du-14-avril-1992-prmx9210468d)
 - [Décret n°92-51 du 14 janvier 1992 (RESY9100464D)](decret-n92-51-du-14-janvier-1992-resy9100464d)
 - [Décret n°92-54 du 14 janvier 1992 (EQUC9101220D)](decret-n92-54-du-14-janvier-1992-equc9101220d)
 - [Décret n°92-92 du 14 janvier 1992 (MJSK9170149D)](decret-n92-92-du-14-janvier-1992-mjsk9170149d)

@@ -100,6 +100,8 @@
 - [Arrêté du 8 janvier 1992 (BUDF9200001A)](arrete-du-8-janvier-1992-budf9200001a)
 - [Arrêté du 8 janvier 1992 (TEFT9204273A)](arrete-du-8-janvier-1992-teft9204273a)
 - [Arrêté du 8 mars 1993 (SPSG9300507A)](arrete-du-8-mars-1993-spsg9300507a)
+- [Arrêté du 9 avril 1992 (MENX9210100A)](arrete-du-9-avril-1992-menx9210100a)
+- [Arrêté du 9 avril 1992 (MENX9210101A)](arrete-du-9-avril-1992-menx9210101a)
 - [Arrêté du 9 décembre 1991 (EQUU9101837A)](arrete-du-9-decembre-1991-equu9101837a)
 - [Arrêté du 9 décembre 1991 (EQUU9101838A)](arrete-du-9-decembre-1991-equu9101838a)
 - [Arrêté du 9 décembre 1991 (EQUU9101839A)](arrete-du-9-decembre-1991-equu9101839a)
