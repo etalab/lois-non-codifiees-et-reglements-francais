@@ -1,7 +1,0 @@
-# Article 22
-
-Quiconque a jeté, déversé ou laissé s'écouler dans les eaux superficielles, souterraines ou les eaux de la mer dans la limite des eaux territoriales, directement ou indirectement, une ou des substances quelconques dont l'action ou les réactions ont, même provisoirement, entraîné des effets nuisibles sur la santé ou des dommages à la flore ou à la faune, à l'exception des dommages visés à l'article L. 232-2 du code rural et à l'article 6 du décret du 9 janvier 1852 sur l'exercice de la pêche maritime, ou des modifications significatives du régime normal d'alimentation en eau ou des limitations d'usage des zones de baignade, sera puni d'une amende de 2 000 F à 500 000 F et d'un emprisonnement de deux mois à deux ans, ou de l'une de ces deux peines seulement. Lorsque l'opération de rejet a été autorisée par arrêté, les dispositions de cet alinéa ne s'appliquent que si les prescriptions de cet arrêté n'ont pas été respectées.
-
-Le tribunal pourra également imposer au condamné de procéder à la restauration du milieu aquatique dans le cadre de la procédure prévue par l'article 24.
-
-Ces mêmes peines et mesures sont applicables à quiconque a jeté ou abandonné des déchets en quantité importante dans les eaux superficielles ou souterraines ou dans les eaux de la mer dans la limite des eaux territoriales, sur les plages ou sur les rivages de la mer. Ces dispositions ne s'appliquent pas aux rejets en mer effectués à partir des navires.

@@ -1,6 +1,6 @@
 # Article 2
 
-Relèvent de la 2e catégorie des chiens telle que définie à l'article 211-1 du code rural :
+Relèvent de la 2e catégorie des chiens telle que définie à l'article L. 211-12 du code rural :
 
 - les chiens de race Staffordshire terrier ;
 

@@ -1,6 +1,6 @@
 # Article 19
 
-Lorsque l'existence de la maladie de Newcastle est officiellement confirmée sur des pigeons voyageurs ou des oiseaux maintenus en captivité, le préfet prend, sur proposition du directeur des services vétérinaires et conformément à l'article 228 du code rural, un arrêté portant déclaration d'infection qui entraîne notamment :
+Lorsque l'existence de la maladie de Newcastle est officiellement confirmée sur des pigeons voyageurs ou des oiseaux maintenus en captivité, le préfet prend, sur proposition du directeur des services vétérinaires et conformément à l'article L. 223-8 du code rural, un arrêté portant déclaration d'infection qui entraîne notamment :
 
 1° L'application des mesures prévues à l'article 8, points a, b, e et f, aux pigeons voyageurs ou oiseaux maintenus en captivité et aux pigeonniers ou aux exploitations infectés par la maladie de Newcastle, ou
 

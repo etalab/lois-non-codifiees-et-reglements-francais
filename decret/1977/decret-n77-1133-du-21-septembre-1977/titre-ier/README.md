@@ -1,6 +1,7 @@
 # TITRE Ier : Dispositions applicables aux installations soumises à autorisation
 
 - [Article 1](article-1.md)
+- [Article 2-1](article-2-1.md)
 - [Article 3](article-3.md)
 - [Article 3-1](article-3-1.md)
 - [Article 4 bis](article-4-bis.md)
@@ -29,6 +30,8 @@
 - [Article 23-1](article-23-1.md)
 - [Article 23-3](article-23-3.md)
 - [Article 23-4](article-23-4.md)
+- [Article 23-5](article-23-5.md)
 - [Article 23-6](article-23-6.md)
+- [Article 23-7](article-23-7.md)
 - [Article 23-8](article-23-8.md)
 - [Article 24](article-24.md)

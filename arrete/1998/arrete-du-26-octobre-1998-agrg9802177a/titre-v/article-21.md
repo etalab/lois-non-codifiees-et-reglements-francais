@@ -2,7 +2,7 @@
 
 En cas de contrôle mettant en évidence une contamination par Salmonella enteritidis ou Salmonella typhimurium réalisé, dans le cadre ou non, des protocoles décrits à l'annexe III du présent arrêté, les mesures suivantes sont appliquées :
 
-a) Les oeufs à couver et les animaux ne peuvent sortir de l'exploitation sauf pour destruction ou abattage dans un abattoir bénéficiant d'un agrément sanitaire et où est pratiquée une inspection en application des dispositions de l'article 258 du code rural, et sur autorisation du directeur des services vétérinaires et sous couvert d'un laissez-passer ;
+a) Les oeufs à couver et les animaux ne peuvent sortir de l'exploitation sauf pour destruction ou abattage dans un abattoir bénéficiant d'un agrément sanitaire et où est pratiquée une inspection en application des dispositions de l'article L. 231-1 du code rural, et sur autorisation du directeur des services vétérinaires et sous couvert d'un laissez-passer ;
 
 b) Des prélèvements doivent être réalisés par les agents des services vétérinaires en vue d'analyses de confirmation ;
 

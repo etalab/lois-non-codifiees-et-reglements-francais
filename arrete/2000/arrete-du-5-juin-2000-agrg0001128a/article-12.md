@@ -2,7 +2,7 @@
 
 1. Pour les poissons, l'enregistrement des données visées à l'article 6 du présent arrêté est réputé effectué par la tenue d'un registre tel que prévu à l'article 3 de l'arrêté du 22 septembre 1999 susvisé.
 
-2. Pour les abeilles, la tenue du registre d'élevage prévu par l'article 253 II du code rural est réputée effectuée par :
+2. Pour les abeilles, la tenue du registre d'élevage prévu par l'article L. 234-1 II du code rural est réputée effectuée par :
 
 - le classement des déclarations relatives aux ruchers, faites conformément aux dispositions de l'article 12 de l'arrêté du 11 août 1980 susvisé, et des certificats sanitaires et de provenance délivrés, le cas échéant, au détenteur conformément à l'article 15 du même arrêté ;
 

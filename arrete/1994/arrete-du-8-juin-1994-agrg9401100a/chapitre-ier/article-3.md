@@ -1,6 +1,6 @@
 # Article 3
 
-Sans préjudice des dispositifs réglementaires en vigueur applicables en cas de suspicion de fièvre aphteuse, lorsque dans une exploitation se trouvent un ou plusieurs porcs suspects de maladie vésiculeuse des suidés, le préfet prend, sur proposition du directeur des services vétérinaires et conformément à l'article 227 du code rural, un arrêté de mise sous surveillance de cette exploitation, qui entraîne notamment l'application des mesures suivantes :
+Sans préjudice des dispositifs réglementaires en vigueur applicables en cas de suspicion de fièvre aphteuse, lorsque dans une exploitation se trouvent un ou plusieurs porcs suspects de maladie vésiculeuse des suidés, le préfet prend, sur proposition du directeur des services vétérinaires et conformément à l'article L. 223-6 du code rural, un arrêté de mise sous surveillance de cette exploitation, qui entraîne notamment l'application des mesures suivantes :
 
 1° Tous les porcs sont isolés, séquestrés, visités et recensés ; le recensement est tenu à jour et devra être présenté à toute demande des agents des services vétérinaires ;
 

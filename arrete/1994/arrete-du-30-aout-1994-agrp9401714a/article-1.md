@@ -4,4 +4,4 @@ Sur demande d'une section du Comité technique permanent de la sélection (C.T.P
 
 La variété qui sera utilisée de cette façon et qui respectera ces obligations ne sera pas réputée avoir été commercialisée.
 
-Néanmoins, la variété ainsi utilisée devra respecter les lois et règlements traitant de la santé publique et de la protection de l'environnement, en particulier la loi susvisée du 13 juillet 1992 ainsi que les dispositions visées aux articles 342 à 364 du code rural.
+Néanmoins, la variété ainsi utilisée devra respecter les lois et règlements traitant de la santé publique et de la protection de l'environnement, en particulier la loi susvisée du 13 juillet 1992 ainsi que les dispositions visées aux articles L. 251-3 à L. 251-20 et L. 252-1 à L. 252-4 du code rural.

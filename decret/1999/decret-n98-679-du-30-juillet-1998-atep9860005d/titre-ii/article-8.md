@@ -6,6 +6,6 @@ Il comporte également :
 
 1° Un engagement du déclarant d'orienter les déchets vers des entreprises de transport par route déclarées ou autorisées au titre du présent décret ;
 
-2° Un engagement de traiter ou faire traiter les déchets dans des installations conformes à la loi du 19 juillet 1976 susvisée.
+2° Un engagement de traiter ou faire traiter les déchets dans des installations conformes au code de l'environnement susvisé.
 
 Un arrêté du ministre chargé de l'environnement précise la composition du dossier de déclaration et fixe les formes dans lesquelles il en est donné récépissé par le préfet.

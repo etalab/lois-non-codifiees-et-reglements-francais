@@ -2,7 +2,7 @@
 
 Le dossier de déclaration comporte :
 
-1° Un engagement du déclarant de ne transporter les déchets que vers des installations de traitement conformes à la loi du 19 juillet 1976 susvisée ;
+1° Un engagement du déclarant de ne transporter les déchets que vers des installations de traitement conformes au code de l'environnement susvisé ;
 
 2° Un engagement de procéder à la reprise et à l'élimination des déchets transportés par ses soins qu'il aurait abandonnés, déversés ou orientés vers une destination non conforme à la réglementation relative au traitement des déchets ;
 

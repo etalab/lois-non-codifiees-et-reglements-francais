@@ -23,4 +23,3 @@
 - [Loi n° 85-835 du 7 août 1985](loi-n-85-835-du-7-aout-1985)
 - [Loi n° 85-98 du 25 janvier 1985](loi-n-85-98-du-25-janvier-1985)
 - [Loi n°70-2 du 2 janvier 1970](loi-n70-2-du-2-janvier-1970)
-- [Loi n°85-696 du 11 juillet 1985](loi-n85-696-du-11-juillet-1985)

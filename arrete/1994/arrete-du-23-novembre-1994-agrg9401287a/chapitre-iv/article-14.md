@@ -2,7 +2,7 @@
 
 Le vétérinaire sanitaire suspectant un cas de fièvre aphteuse est tenu d'avertir sans délai le directeur des services vétérinaires.
 
-La même obligation est faite aux agents visés aux articles 215-1, 215-2 et 259 du code rural.
+La même obligation est faite aux agents visés aux articles L. 221-5, L. 221-6 et L. 231-2 du code rural.
 
 Le directeur des services vétérinaires décide des modalités de réalisation de la visite de suspicion. Il peut charger le vétérinaire sanitaire :
 

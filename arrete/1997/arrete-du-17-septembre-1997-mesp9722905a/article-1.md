@@ -10,7 +10,7 @@ Les personnes qui font de l'information par démarchage ou de la prospection pou
 
 4° Le diplôme français d'Etat de docteur en chirurgie dentaire ou de chirurgien-dentiste, ou l'un des diplômes, certificats ou titres de praticien de l'art dentaire délivrés par les autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, tels que mentionnés à l'article L. 356-2 (2°) du code de la santé publique ;
 
-5° Le diplôme d'Etat de docteur vétérinaire, le diplôme d'Etat de vétérinaire ou l'un des diplômes, certificats ou titres de vétérinaire délivrés par les autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, tels que mentionnés dans l'arrêté du 8 août 1994 modifié fixant la liste des diplômes, certificats ou titres de vétérinaire prévue à l'article 1er de la loi n° 82-899 du 20 octobre 1982 relative à l'exercice des activités de vétérinaire ;
+5° Le diplôme d'Etat de docteur vétérinaire, le diplôme d'Etat de vétérinaire ou l'un des diplômes, certificats ou titres de vétérinaire délivrés par les autres Etats membres de la Communauté européenne ou parties à l'accord sur l'Espace économique européen, tels que mentionnés dans l'arrêté du 8 août 1994 modifié fixant la liste des diplômes, certificats ou titres de vétérinaire prévue à l'article L. 241-2 du code rural ;
 
 6° Le diplôme français d'Etat de sage-femme ou l'un des diplômes, certificats ou titres de sage-femme délivrés par un Etat membre de la Communauté européenne ou partie à l'accord sur l'Espace économique européen, tels que mentionnés à l'article L. 356-2 (3°) du code de la santé publique ;
 

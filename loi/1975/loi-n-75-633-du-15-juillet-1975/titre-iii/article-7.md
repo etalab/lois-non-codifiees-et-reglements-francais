@@ -1,3 +1,0 @@
-# Article 7
-
-Les installations d'élimination des déchets sont soumises, quel qu'en soit l'exploitant, à la loi n° 76-663 du 19 juillet 1976 précitée. L'étude d'impact d'une installation de stockage de déchets, établie en application de ladite loi, indique les conditions de remise en état du site du stockage et les techniques envisageables destinées à permettre une éventuelle reprise des déchets dans le cas où aucune autre technique ne peut être mise en oeuvre. Cette étude est soumise pour avis, avant l'octroi de l'autorisation d'exploiter, à la commission locale d'information et de surveillance intéressée, lorsqu'elle existe, ainsi qu'au conseil municipal de la commune d'implantation.

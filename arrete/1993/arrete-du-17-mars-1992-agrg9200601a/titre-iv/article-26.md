@@ -1,6 +1,6 @@
 # Article 26
 
-Sans préjudice des dispositions du décret du 21 juillet 1971 pris pour l'application des articles 258, 259 et 262 du code rural et relatif à l'inspection sanitaire et qualitative des animaux vivants et des denrées animales ou d'origine animale, les viandes fraîches doivent, pour porter une marque de salubrité conformément à l'arrêté ministériel du 15 mai 1974 modifié relatif à l'estampillage sanitaire des viandes de boucherie et des produits à base de viande :
+Sans préjudice des dispositions du décret du 21 juillet 1971 pris pour l'application des articles L. 231-1, L. 231-2 et L. 231-5 du code rural et relatif à l'inspection sanitaire et qualitative des animaux vivants et des denrées animales ou d'origine animale, les viandes fraîches doivent, pour porter une marque de salubrité conformément à l'arrêté ministériel du 15 mai 1974 modifié relatif à l'estampillage sanitaire des viandes de boucherie et des produits à base de viande :
 
 - être obtenues dans un atelier de découpe conforme aux dispositions du présent arrêté ;
 

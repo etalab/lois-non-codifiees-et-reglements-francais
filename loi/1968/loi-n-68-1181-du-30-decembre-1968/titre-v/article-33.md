@@ -1,6 +1,6 @@
 # Article 33
 
-Sont chargés, par ailleurs, de rechercher les infractions prévues par les articles 13, 24, 27, 28, 28-1, 28-2, 28-3, 29, 30, 31 et 32 de la présente loi :
+Sont chargés, par ailleurs, de rechercher les infractions prévues par les articles 13, 24, 27, 29, 30, 31 et 32 de la présente loi :
 
 Les officiers et agents de police judiciaire ;
 

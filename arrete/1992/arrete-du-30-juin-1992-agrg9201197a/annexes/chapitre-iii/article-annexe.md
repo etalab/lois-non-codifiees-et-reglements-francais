@@ -34,7 +34,7 @@ Les animaux malades ou blessés doivent y être maintenus strictement isolés de
 
 Les animaux malades ne doivent pas être exposés à la vente.
 
-15. Les responsables des locaux ne peuvent accueillir des animaux atteints de l'une des maladies visées à l'article 285-1 du code rural.
+15. Les responsables des locaux ne peuvent accueillir des animaux atteints de l'une des maladies visées à l'article L. 213-3 du code rural.
 
 En cas de constatation sur un animal hébergé dans les locaux de l'une de ces maladies, l'animal doit être retiré immédiatement du lieu de vente, isolé et traité. La mention de ce retrait devra être indiquée sur le registre prévu au point 16.
 

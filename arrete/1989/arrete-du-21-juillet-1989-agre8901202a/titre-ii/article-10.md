@@ -4,7 +4,7 @@ Peuvent être admis à une session de formation aux fonctions de chef de centre,
 
 1. Sur titre, après examen de leur dossier :
 
-- les titulaires du diplôme d'Etat de docteur vétérinaire ou d'un diplôme, certificat ou titre de vétérinaire figurant sur la liste prévue à l'article 1er de la loi du 20 octobre 1982 susvisée ;
+- les titulaires du diplôme d'Etat de docteur vétérinaire ou d'un diplôme, certificat ou titre de vétérinaire figurant sur la liste prévue à l'article L. 241-2 du code rural;
 
 - les anciens élèves d'un établissement d'enseignement supérieur titulaires d'un diplôme d'ingénieur reconnu par la commission des titres d'ingénieur, délivré par un établissement d'enseignement supérieur relevant du ministre chargé de l'agriculture ou par une école nationale supérieure agronomique relevant du ministre chargé de l'éducation nationale.
 

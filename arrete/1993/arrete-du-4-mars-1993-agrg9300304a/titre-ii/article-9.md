@@ -14,7 +14,7 @@ Cette dérogation peut être accordée si :
 
 - l'exploitation dispose d'une installation appropriée pour l'abattage, l'égorgement et la saignée des animaux ;
 
-- l'abattage par égorgement et saignée est précédé d'un étourdissement, qui doit intervenir dans les conditions prévues par le décret n° 80-791 du 1er octobre 1980 portant application de l'article 276 du code rural ; le directeur des services vétérinaires peut autoriser l'abattage par balle dans des cas particuliers ;
+- l'abattage par égorgement et saignée est précédé d'un étourdissement, qui doit intervenir dans les conditions prévues par le décret n° 80-791 du 1er octobre 1980 portant application de l'article L. 214-3 du code rural ; le directeur des services vétérinaires peut autoriser l'abattage par balle dans des cas particuliers ;
 
 - l'abattage des animaux a lieu en présence d'un agent des services vétérinaires, qui assure également l'inspection ante mortem ;
 

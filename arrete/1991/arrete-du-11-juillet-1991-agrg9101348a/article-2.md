@@ -1,6 +1,6 @@
 # Article 2
 
-Le contrôle mentionné à l'article 1er ci-dessus porte sur les disciplines vétérinaires et sur la législation sanitaire. Toutefois, pour les vétérinaires titulaires d'un diplôme, certificat ou titre de vétérinaire délivré dans un pays figurant sur la liste mentionnée à l'article 309 du code rural, ce contrôle est limité à la législation sanitaire. Pour chacun de ces contrôles, un jury est constitué dans les conditions définies à l'article 3 ci-après.
+Le contrôle mentionné à l'article 1er ci-dessus porte sur les disciplines vétérinaires et sur la législation sanitaire. Toutefois, pour les vétérinaires titulaires d'un diplôme, certificat ou titre de vétérinaire délivré dans un pays figurant sur la liste mentionnée à l'article L. 241-1 du code rural, ce contrôle est limité à la législation sanitaire. Pour chacun de ces contrôles, un jury est constitué dans les conditions définies à l'article 3 ci-après.
 
 Le contrôle des connaissances dans les disciplines vétérinaires comporte des épreuves écrites d'admissibilité et des épreuves orale et pratique d'admission. Nul n'est admis à se présenter aux épreuves d'admission s'il n'a obtenu au moins la moyenne calculée sur l'ensemble des épreuves écrites. Toute note inférieure à 5 sur 20 dans une épreuve écrite d'admissibilité est éliminatoire.
 

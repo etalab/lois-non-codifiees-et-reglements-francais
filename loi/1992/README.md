@@ -78,6 +78,4 @@
 - [Loi n°92-1255 du 2 décembre 1992 (EQUX9200028L)](loi-n92-1255-du-2-decembre-1992-equx9200028l)
 - [Loi n°92-496 du 9 juin 1992 (MERX9200047L)](loi-n92-496-du-9-juin-1992-merx9200047l)
 - [Loi n°92-645 du 13 juillet 1992 (TOUX9100006L)](loi-n92-645-du-13-juillet-1992-toux9100006l)
-- [Loi n°92-646 du 13 juillet 1992 (ENVX9200049L)](loi-n92-646-du-13-juillet-1992-envx9200049l)
-- [Loi n°92-654 du 13 juillet 1992 (RESX9100142L)](loi-n92-654-du-13-juillet-1992-resx9100142l)
 - [Loi n°92-676 du 17 juillet 1992 (DOMX9100081L)](loi-n92-676-du-17-juillet-1992-domx9100081l)

@@ -1,6 +1,6 @@
 # Article 1
 
-La liste des diplômes, certificats ou titres de vétérinaires prévue à l'article 1er de la loi n° 82-899 du 20 octobre 1982 susvisée qui ouvrent droit à l'exercice en France des activités de vétérinaire aux ressortissants des Etats membres de l'Union européenne est établie comme suit :
+La liste des diplômes, certificats ou titres de vétérinaires prévue à l'article L. 241-2 du code rural qui ouvrent droit à l'exercice en France des activités de vétérinaire aux ressortissants des Etats membres de l'Union européenne est établie comme suit :
 
 Allemagne
 

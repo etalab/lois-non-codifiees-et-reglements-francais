@@ -1,6 +1,6 @@
 # Article 14
 
-En application de l'article 356-1 du code rural :
+En application de l'article L. 251-12 du code rural :
 
 - tout producteur de végétaux, produits végétaux et autres objets mentionnés à l'annexe V, partie A ;
 

@@ -77,7 +77,6 @@
 - [Loi n° 90-85 du 23 janvier 1990 (AGRX8900045L)](loi-n-90-85-du-23-janvier-1990-agrx8900045l)
 - [Loi n° 90-86 du 23 janvier 1990 (SPSX8900124L)](loi-n-90-86-du-23-janvier-1990-spsx8900124l)
 - [Loi n° 90-977 du 31 octobre 1990 (EQUX9000066L)](loi-n-90-977-du-31-octobre-1990-equx9000066l)
-- [Loi n°83-583 du 5 juillet 1983](loi-n83-583-du-5-juillet-1983)
 - [Loi n°89-1010 du 31 décembre 1989 (ECOX8900100L)](loi-n89-1010-du-31-decembre-1989-ecox8900100l)
 - [Loi n°90-1010 du 14 novembre 1990 (JUSX9000076L)](loi-n90-1010-du-14-novembre-1990-jusx9000076l)
 - [Loi n°90-32 du 10 janvier 1990 (DEFX8900070L)](loi-n90-32-du-10-janvier-1990-defx8900070l)

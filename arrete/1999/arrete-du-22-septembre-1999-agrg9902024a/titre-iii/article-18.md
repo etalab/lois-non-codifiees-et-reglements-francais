@@ -1,6 +1,6 @@
 # Article 18
 
-Lorsque l'existence de la nécrose hématopoïétique infectieuse ou la septicémie hémorragique virale est officiellement confirmée dans une zone indemne ou une exploitation indemne, le préfet prend, sur proposition du directeur des services vétérinaires, et conformément à l'article 228 du code rural, un arrêté portant déclaration d'infection de l'exploitation.
+Lorsque l'existence de la nécrose hématopoïétique infectieuse ou la septicémie hémorragique virale est officiellement confirmée dans une zone indemne ou une exploitation indemne, le préfet prend, sur proposition du directeur des services vétérinaires, et conformément à l'article L. 223-8 du code rural, un arrêté portant déclaration d'infection de l'exploitation.
 
 L'arrêté portant déclaration d'infection prescrit toute mesure nécessaire pour éviter la propagation de la maladie.
 

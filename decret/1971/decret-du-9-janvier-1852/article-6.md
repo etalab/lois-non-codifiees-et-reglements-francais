@@ -26,7 +26,7 @@ Sera puni d'une amende de 150000 F quiconque aura, en infraction aux règlements
 
 12° Formé ou immergé sans autorisation une exploitation de cultures marines, un établissement permanent de capture ou une structure artificielle ; ces exploitations, établissements ou structures formés ou immergés sans autorisation seront détruites aux frais du condamné ;
 
-13° Jeté, déversé ou laissé écouler, directement ou indirectement en mer ou dans la partie des cours d'eau, canaux ou plans d'eau où les eaux sont salées, des substances ou organismes nuisibles pour la conservation ou la reproduction des mammifères marins, poissons, crustacés, coquillages, mollusques ou végétaux, ou de nature à les rendre impropres à la consommation ;
+13° (alinéa abrogé) ;
 
 14° Pêché sans les autorisations prévues au I et au 5° du III de l'article 3 et aux articles 3-1 et 5 du présent décret ;
 

@@ -1,6 +1,6 @@
 # Article 9
 
-En application de l'article 243 du code rural susvisé, les indemnités de l'Etat prévues pour compenser les pertes consécutives à l'élimination des animaux infectés ou contaminés par la brucellose doivent être versées au propriétaire des animaux.
+En application de l'article L. 221-2 du code rural susvisé, les indemnités de l'Etat prévues pour compenser les pertes consécutives à l'élimination des animaux infectés ou contaminés par la brucellose doivent être versées au propriétaire des animaux.
 
 Dans le cas où le détenteur des animaux n'en est pas le propriétaire, il ne peut pas prétendre au bénéfice des indemnités, sauf s'il fournit au directeur des services vétérinaires une décharge écrite, à son profit, signé par le propriétaire et certifiée conforme par le maire de la commune.
 

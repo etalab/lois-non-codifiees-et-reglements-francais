@@ -6,7 +6,7 @@ Les candidats doivent en outre justifier :
 
 2° Soit du diplôme sanctionnant le troisième cycle des études médicales ou pharmaceutiques ;
 
-3° Soit d'un des diplômes, certificats ou titres de vétérinaire prévus à l'article 1er de la loi n° 82-899 du 20 octobre 1982 relative à l'exercice des activités de vétérinaire, ou d'un certificat de fin de scolarité des écoles nationales vétérinaires ;
+3° Soit d'un des diplômes, certificats ou titres de vétérinaire prévus à l'article L. 241-2 du code rural, ou d'un certificat de fin de scolarité des écoles nationales vétérinaires ;
 
 4° Soit d'un diplôme d'ingénieur ou d'un diplôme ou titre de l'enseignement supérieur public ou privé figurant sur une liste établie par arrêté du ministre chargé de l'agriculture.
 

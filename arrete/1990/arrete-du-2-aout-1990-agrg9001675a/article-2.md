@@ -1,6 +1,6 @@
 # Article 2
 
-Un diagnostic de suspicion pour les maladies du chien et du chat visées à l'article 285-1 du code rural peut également être porté à la suite d'un examen de laboratoire établi selon les critères énumérés ci-après :
+Un diagnostic de suspicion pour les maladies du chien et du chat visées à l'article L. 213-3 du code rural peut également être porté à la suite d'un examen de laboratoire établi selon les critères énumérés ci-après :
 
 1. Chez le chien
 

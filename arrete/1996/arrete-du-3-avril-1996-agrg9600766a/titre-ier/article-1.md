@@ -10,4 +10,6 @@ Les dispositions du présent arrêté ne s'appliquent pas aux locaux d'entreposa
 
 - d'un établissement dont l'essentiel des produits est cédé directement au consommateur final ;
 
-- ou d'un établissement déjà agréé conformément aux dispositions de l'article 260 du code rural, étant entendu que, dans ce cas, le responsable de l'établissement mentionne l'activité d'entreposage de ses produits dans son dossier de demande d'agrément ou le complète en spécifiant cette activité.
+- ou d'un établissement déjà agréé conformément aux dispositions de l'article L. 233-2 du code rural, étant entendu que, dans ce cas, le responsable de l'établissement mentionne l'activité d'entreposage de ses produits dans son dossier de demande d'agrément ou le complète en spécifiant cette activité.
+
+A compter du 1er novembre 2001, une organisation des circuits au sein de l'établissement permet d'éviter toute contamination des autres denrées à partir de carcasses, demi-carcasses, demi-carcasses découpées, quartiers ou découpe issus d'animaux de l'espèce bovine âgés de 12 mois et plus et contenant de l'os vertébral, à l'exclusion des vertèbres caudales et des apophyses transverses des vertèbres lombaires.

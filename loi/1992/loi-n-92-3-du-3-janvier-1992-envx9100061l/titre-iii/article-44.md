@@ -1,3 +1,0 @@
-# Article 44
-
-Il est créé, dans chaque département d'outre-mer, un comité de bassin qui, outre les compétences qui lui sont conférées par l'article 13 de la loi n° 64-1245 du 16 décembre 1964 relative au régime et à la répartition des eaux et à la lutte contre leur pollution, est associé à la mise en place des structures administratives qui se révéleraient nécessaires et, s'il y a lieu, à l'élaboration, dans un délai de deux ans à compter de la promulgation de la présente loi, des adaptations facilitant l'application, dans le département, de la loi n° 64-1245 du 16 décembre 1964 précitée et de la présente loi.

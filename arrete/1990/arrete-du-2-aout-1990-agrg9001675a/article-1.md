@@ -1,6 +1,6 @@
 # Article 1
 
-Pour les maladies du chien et du chat visées à l'article 285-1 du code rural, un diagnostic clinique de suspicion peut être porté sur la base d'un tableau clinique fortement évocateur, relevé et consigné par un vétérinaire ou un docteur-vétérinaire.
+Pour les maladies du chien et du chat visées à l'article L. 213-3 code rural, un diagnostic clinique de suspicion peut être porté sur la base d'un tableau clinique fortement évocateur, relevé et consigné par un vétérinaire ou un docteur-vétérinaire.
 
 A cette fin, les critères énumérés ci-après sont plus particulièrement recherchés.
 
