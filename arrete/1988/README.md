@@ -211,6 +211,7 @@
 - [Arrêté du 9 mars 1988 (ECOT8816038A)](arrete-du-9-mars-1988-ecot8816038a)
 - [Arrêté du 9 mars 1988 (ECOT8816039A)](arrete-du-9-mars-1988-ecot8816039a)
 - [Arrêté du 9 novembre 1988 (ECOC8800114A)](arrete-du-9-novembre-1988-ecoc8800114a)
+- [Arrêté du 9 novembre 1988 (INTA8800433A)](arrete-du-9-novembre-1988-inta8800433a)
 - [Arrêté du 9 novembre 1988 (RESY8800905A)](arrete-du-9-novembre-1988-resy8800905a)
 - [Arrêté du 9 mai 1988 (COMA8800014A)](arrete-du-9-mai-1988-coma8800014a)
 - [Arrêté du 9 mai 1988 (COMA8800015A)](arrete-du-9-mai-1988-coma8800015a)
