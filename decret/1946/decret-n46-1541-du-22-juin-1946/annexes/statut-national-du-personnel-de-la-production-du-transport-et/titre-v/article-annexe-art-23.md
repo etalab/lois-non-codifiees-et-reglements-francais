@@ -14,7 +14,7 @@ I. - Le financement du régime de base.
 
 Paragraphe 2.
 
-La couverture des prestations en nature du régime général d'assurance maladie et maternité est assurée par une cotisation pour partie à la charge des agents en activité et pour partie à la charge des entreprises, dont les taux sont fixés par décret ; elle est également assurée par une cotisation des pensionnés dont le taux est fixé par décret, les dispositions des articles R. 711-15 et D. 711-3 du code de la sécurité sociale étant applicables.
+La couverture des prestations en nature du régime général d'assurance maladie et maternité est assurée par une cotisation à la charge des entreprises dont le taux est fixé par décret.
 
 Les cotisations dues au régime général de la sécurité sociale pour les prestations en nature des assurances sociales et des accidents du travail sont assises sur les rémunérations versées aux agents en activité qui relèvent du régime spécial de sécurité sociale du personnel des industries électriques et gazières.
 

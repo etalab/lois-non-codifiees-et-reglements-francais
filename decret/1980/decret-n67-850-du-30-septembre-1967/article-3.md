@@ -1,3 +1,3 @@
 # Article 3
 
-Le taux de la cotisation afférente à la couverture des prestations en nature de l'assurance maladie, maternité, invalidité et précomptée, dans la limite du plafond prévu à l'article 2 ci-dessus, sur le montant des pensions de retraite versées aux fonctionnaires, aux ouvriers de l'Etat et aux agents des collectivités locales et de leurs établissements publics visés à l'article 1er ci-dessus, ou à leurs familles, est fixé à 2,80 p. 100.
+Les cotisations dues par les agents retraités des collectivités locales et de leurs établissements publics mentionnés à l'article 2 ou leurs ayants cause et par les ouvriers de l'Etat retraités ou leurs ayants cause en application du deuxième alinéa de l'article L. 131-7-1 du code de la sécurité sociale, dont le taux est fixé au 3° de l'article D. 711-5 de ce code, sont assises sur les avantages de retraite versés aux intéressés dans la limite du plafond prévu au premier alinéa de l'article L. 241-3 du même code.
