@@ -1,17 +1,5 @@
 # Article 1
 
-Il sera frappé par l'administration des monnaies et médailles pour le compte de l'Etat, indépendamment de la pièce de 10 F visée par l'arrêté du 8 novembre 1974, une série de pièces commémoratives de 10 F au millésime 1982 dont la composition et les caractéristiques ainsi qu'il suit :
+Est autorisé, en vue de prévenir le noircissement enzymatique des chairs de crevettes et de langoustines, le trempage de ces crustacés, à l'état cru, dans une solution de disulfite de sodium ou de potassium, (métabisulfite de sodium ou de potassium : E 223 ou E 224), de sulfite de sodium (E 221) ou de sulfite acide de sodium (bisulfite de sodium : E 222).
 
-Diamètre (en millimètres) : 26.
-
-Composition :
-
-- titre droit : cuivre 920, nickel 60, aluminium 20.
-
-- tolérance (en millièmes) : plus ou moins 10.
-
-Poids :
-
-- poids droit : 10 grammes.
-
-- tolérance (en millièmes) : plus ou moins 50.
+La teneur résiduelle de ces agents conservateurs exprimée en anhydride sulfureux dans le produit fini ne doit pas excéder 30 milligrammes par kilogramme de chair cuite.

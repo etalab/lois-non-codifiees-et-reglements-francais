@@ -1,0 +1,3 @@
+# Article 1
+
+Conformément à l'article 5 de la loi n° 82-684 du 4 août 1982 et par dérogation aux dispositions des articles 24 et 25 du décret n° 66-619 du 10 août 1966 modifié susvisé, les personnels de l'Etat et des établissements publics de l'Etat à caractère administratif dont la résidence administrative est située à l'intérieur de la zone de compétence de l'autorité organisatrice des transports parisiens bénéficient, à compter du 1er novembre 1982, de la prise en charge partielle du prix des titres d'abonnement correspondant aux déplacements effectués au moyen de transports publics de voyageurs entre leur résidence habituelle et leur lieu de travail.
