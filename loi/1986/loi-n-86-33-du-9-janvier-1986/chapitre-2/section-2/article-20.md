@@ -1,8 +1,10 @@
 # Article 20
 
-Les commissions administratives paritaires [*composition*] comprennent en nombre égal des représentants de l'administration et des représentants du personnel.
+Les commissions administratives paritaires comprennent en nombre égal des représentants de l'administration et des représentants du personnel.
 
 Les représentants de l'administration sont désignés par l'autorité administrative compétente de l'Etat pour les commissions administratives paritaires nationales et départementales et par l'assemblée délibérante de l'établissement pour les commissions administratives paritaires locales.
+
+Afin de concourir à une représentation équilibrée entre les femmes et les hommes, les membres représentant l'administration sont choisis compte tenu d'une proportion de représentants appartenant à chacun des sexes fixée par décret en Conseil d'Etat.
 
 Les membres représentant le personnel sont élus au scrutin de liste à deux tours avec représentation proportionnelle.
 
