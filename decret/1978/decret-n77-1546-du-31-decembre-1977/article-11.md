@@ -1,11 +1,29 @@
 # Article 11
 
-L'exploitation des centres d'aide par le travail est suivie :
+I. - L'exploitation des centres d'aide par le travail est retracée au sein de deux budgets distincts, le budget principal de l'activité sociale de l'établissement et le budget annexe de l'activité de production et de commercialisation.
 
-- d'une part, s'agissant de l'activité sociale, au sein du budget principal de l'activité sociale qui comprend les charges de fonctionnement général de l'établissement à l'exclusion notamment des rémunérations des personnes handicapées, des charges sociales et fiscales afférentes et des matières premières ;
+II. - Les charges du budget principal de l'activité sociale comprennent notamment :
 
-- d'autre part, s'agissant de l'activité de production et de commercialisation, au sein du budget annexe de l'activité de production et de commercialisation qui comprend les charges exclues du budget de l'activité sociale ainsi que toutes les charges spécifiques de l'activité de production et de commercialisation, y compris les dotations aux comptes d'amortissement et de réserves et les provisions imputables à cette activité.
+a) Les frais entraînés par le soutien éducatif et médico-social des personnes handicapées dans leur activité de caractère professionnel ;
 
-Le Commissaire de la République fixe les critères de répartition des charges et des produits imputables au budget principal et au budget annexe après examen des propositions de l'établissement.
+b) Les frais de transport collectif ;
 
-Le résultat d'exploitation du budget principal est affecté selon les dispositions de l'article 16 du décret n° 85-1458 du 30 décembre 1985. L'affectation des résultats du budget annexe décidée par le responsable de l'établissement est portée à la connaissance du commissaire de la République.
+c) La part résultant de la ventilation des charges communes aux deux budgets ;
+
+d) Le cas échéant, à titre exceptionnel et dans les conditions fixées à l'article 12, certains frais directement entraînés par l'activité de production et de commercialisation.
+
+Les produits de ce budget comprennent notamment la dotation globale de financement.
+
+III. - Les charges du budget annexe de l'activité de production et de commercialisation comprennent les seuls frais directement entraînés par l'activité de production et de commercialisation, au nombre desquels :
+
+a) La rémunération des personnes handicapées et les charges sociales et fiscales afférentes ;
+
+b) Le coût d'achat des matières premières destinées à la production ;
+
+c) Les dotations aux comptes d'amortissement et de provision imputables à l'activité de production et de commercialisation ;
+
+d) La part résultant de la ventilation des charges communes aux deux budgets.
+
+Les produits de ce budget comprennent l'intégralité des recettes dégagées par l'activité de production et de commercialisation.
+
+Le budget annexe de l'activité de production et de commercialisation peut être établi conformément aux dispositions du plan comptable général.

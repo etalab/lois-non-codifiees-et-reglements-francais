@@ -1,3 +1,3 @@
 # Article 15
 
-Le prix de journée "centre d'aide par le travail" ne peut en aucun cas couvrir les dépenses correspondant à la rémunération des personnes handicapées admises dans le centre d'aide par le travail.
+Le préfet du département reçoit, sur sa demande, tout document comptable ou financier établi par l'organisme dont dépend le centre d'aide par le travail, et qui est nécessaire à l'appréciation des documents soumis à l'approbation du préfet.

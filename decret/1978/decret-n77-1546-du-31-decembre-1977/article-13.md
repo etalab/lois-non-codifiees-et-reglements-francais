@@ -1,5 +1,5 @@
 # Article 13
 
-La dotation au sein du budget annexe de production et de commercialisation d'un compte de provision pour rémunération des personnes handicapées destiné à assurer la continuité des rémunérations en cas d'aléas de production peut être prévue. Le montant maximum de cette provision est fixé dans la convention selon un pourcentage des rémunérations versées aux personnes handicapées qu'elle spécifie.
+L'état récapitulatif des charges communes aux deux budgets mentionnés à l'article 11 ainsi que leur ventilation comptable et les critères selon lesquels elle a été opérée sont transmis au préfet du département lors de la soumission des prévisions budgétaires de l'établissement. Il en est de même lors de la transmission du compte administratif.
 
-Cette provision ne peut être utilisée pour couvrir d'autres charges. La dotation annuelle ne peut entrer en compte dans le calcul de la subvention de fonctionnement prévue à l'article 12.
+Une convention passée entre le préfet et le centre d'aide par le travail peut fixer les critères selon lesquels est opérée la ventilation des charges communes.

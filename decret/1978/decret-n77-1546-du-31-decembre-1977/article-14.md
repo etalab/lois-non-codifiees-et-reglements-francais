@@ -1,5 +1,5 @@
 # Article 14
 
-La seule contribution des personnes handicapées consiste à acquitter une participation au prix du repas lorsque celui-ci est fourni.
+Le budget prévisionnel de l'activité de production et de commercialisation est transmis au préfet du département pour information, conjointement au budget prévisionnel de l'activité sociale.
 
-Cette participation, identique pour tous les centres d'aide par le travail, est fixée par arrêté du ministre de la santé ; son produit vient en atténuation des dépenses donnant lieu au prix de journée "centre d'aide par le travail".
+Le compte administratif ou le compte de résultat relatif à l'activité de production et de commercialisation est établi à la même date que le compte administratif relatif à l'activité sociale, et transmis au préfet du département dans les mêmes délais.
