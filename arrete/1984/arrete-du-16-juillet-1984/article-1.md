@@ -1,3 +1,3 @@
 # Article 1
 
-Il est créé auprès du directeur général de l'administration du ministère de l'intérieur et de la décentralisation un comité technique paritaire central ayant compétence pour connaître, dans le cadre des dispositions du titre III du décret du 28 mai 1982 susvisé, de toutes les questions intéressant les personnels des services centraux gérés par la direction générale de l'administration.
+Le présent arrêté fixe les mesures de sécurité qui doivent être prises à l'occasion du séjour dans les gares, les ports ou les aéroports ou à l'occasion des opérations de chargement, de déchargement et de manutention dans ces mêmes lieux des armes de la 1ère catégorie (§ 2 et 3) ou de la 4e catégorie et des éléments de ces armes classés dans ces catégories.

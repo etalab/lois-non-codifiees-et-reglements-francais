@@ -1,9 +1,5 @@
 # Article 2
 
-Le type de la pièce commémorative de 100 F en argent frappée au millésime 1984 sera conforme en ce qui concerne l'avers et le revers au modèle créé par M. Raymond Gorein, membre de l'Institut et représentant :
+La réduction applicable à la prime d'épargne versée dans les conditions prévues au troisième alinéa de l'article R. 315-31 du code de la construction et de l'habitation au souscripteur d'un plan d'épargne-logement est égale au quart du montant déterminé selon les modalités fixées à l'article 1er (2°) ci-dessus.
 
-A l'avers : l'effigie de Marie Curie ; en légende : Marie Curie avec ses dates de naissance et de mort : 1867-1934.
-
-Au revers : deux couronnes composées de palmes et de laurier des deux prix Nobel décernés à Marie Curie : physique en 1903 et chimie en 1911.
-
-Inscriptions : République française, la devise "Liberté, Egalité, Fraternité", la valeur de la pièce (100 F) et le millésime de frappe (1984).
+La réduction applicable à la prime d'épargne versée dans les conditions prévues au quatrième alinéa de l'article R. 315-31 du code de la construction et de l'habitation au souscripteur d'un plan d'épargne-logement est égale à la moitié du montant déterminé selon les modalités fixées à l'article 1er (2°) ci-dessus.

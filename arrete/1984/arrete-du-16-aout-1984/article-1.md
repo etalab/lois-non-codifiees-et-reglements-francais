@@ -1,19 +1,7 @@
 # Article 1
 
-Il est frappé par l'administration des Monnaies et médailles, pour le compte de l'Etat, indépendamment de la pièce de 100 F visée par l'arrêté du 13 septembre 1982, une série de pièces commémoratives de 100 F au millésime 1984, dont la composition et les caractéristiques sont fixées ainsi qu'il suit :
+Les intérêts décomptés au taux prévu à l'article 3 du règlement n° 84-04 du 13 août 1984 du comité de la réglementation bancaire comprennent :
 
-Diamètre (en millimètres) : 31.
+1° A concurrence des cinq neuvièmes de leur montant, les intérêts à la charge de l'établissement teneur de compte, au taux contractuel de 5,3 p. 100. Ces intérêts sont seuls pris en compte pour l'application des articles R. 315-35, R. 315-36 et R. 315-37 du code de la construction et de l'habitation ;
 
-Composition :
-
-- titre droit : argent 900, cuivre 100.
-
-- tolérance (en millièmes) : plus ou moins 3.
-
-Poids :
-
-- poids droit : 15 grammes.
-
-- tolérance (en millièmes) : plus ou moins 10.
-
-Tranche lisse.
+2° A concurrence des quatre neuvièmes de leur montant, la prime d'épargne prévue à l'article R. 315-40 du code de la construction et de l'habitation. Cette fraction cesse d'être décomptée lorsque le plan d'épargne-logement est venu à terme ou lorsque le montant des intérêts inscrits au compte du souscripteur a atteint le montant maximum servant de base au calcul de la prime.
