@@ -201,6 +201,7 @@
 - [Décret n°82-369 du 27 avril 1982](decret-n82-369-du-27-avril-1982)
 - [Décret n°82-647 du 27 juillet 1982](decret-n82-647-du-27-juillet-1982)
 - [Décret n°82-749 du 27 août 1982](decret-n82-749-du-27-aout-1982)
+- [Décret n°82-826 du 27 septembre 1982](decret-n82-826-du-27-septembre-1982)
 - [Décret n°82-442 du 27 mai 1982](decret-n82-442-du-27-mai-1982)
 - [Décret du 28 avril 1982](decret-du-28-avril-1982)
 - [Décret n°82-107 du 28 janvier 1982](decret-n82-107-du-28-janvier-1982)
