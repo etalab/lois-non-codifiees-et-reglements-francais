@@ -20,4 +20,6 @@ Le contrôleur financier ou son représentant ;
 
 Le directeur général de la concurrence, de la consommation et de la répression des fraudes ou son représentant,
 
+le chef du service central des CRS ou son représentant;
+
 ainsi que toute personne invitée par le président en raison de sa compétence, eu égard à la matière objet de la consultation.
