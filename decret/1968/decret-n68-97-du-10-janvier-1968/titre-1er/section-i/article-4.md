@@ -1,3 +1,5 @@
 # Article 4
 
 Les préparateurs en pharmacie sont recrutés par concours ouverts par le préfet du département dans lequel doivent avoir lieu les épreuves selon les modalités fixées par l'arrêté du 14 avril 1965. Ces concours, qui peuvent être communs à plusieurs établissements du même département ou de départements voisins, sont ouverts aux candidats âgés de vingt et un ans au moins et de trente-cinq ans au plus au 1er janvier de l'année du concours satisfaisant aux dispositions de l'article L. 809 du code de la santé publique et titulaires du brevet professionnel prévu à l'article L. 582 du code de la santé publique.
+
+Dans les centres hospitaliers régionaux ainsi que dans les centres hospitaliers ayant au moins 500 lits actifs, l'emploi de préparateur en pharmacie peut comporter une classe fonctionnelle accessible aux agents qui ont atteint le 4e échelon de leur emploi et qui ont subi avec succès les épreuves d'un concours dont les modalités sont fixées par arrêté du ministre de la santé publique.
