@@ -1,31 +1,21 @@
 # Article 41 bis
 
-Un agent statutaire peut exercer des fonctions au sein d'une organisation interprofessionnelle reconnue ayant bénéficié d'un transfert d'attributions, au titre du décret du 15 mars 1988 susvisé, dans le cadre soit d'une mise à disposition, soit d'une mise en disponibilité.
+1° Mise à disposition :
 
-Ces positions sont régies par les dispositions suivantes :
+Les agents peuvent, dans l'intérêt du service et avec leur accord, être mis à disposition d'une administration d'Etat, d'une collectivité territoriale et des établissements publics en relevant, ainsi que d'un organisme public ou privé assurant une mission d'intérêt général, tant en France qu'à l'étranger.
 
-1° La mise à disposition :
+La décision de mise à disposition est prise par le directeur de l'établissement et résulte d'une convention passée entre celui-ci et l'organisme d'accueil, et visée par le contrôleur d'Etat. Cette convention prévoit le remboursement par l'organisme d'accueil de la rémunération de l'agent et des éléments annexes à cette rémunération. Elle peut toutefois prévoir l'exonération totale ou partielle de ce remboursement.
 
-La mise à disposition, d'une durée maximale d'un an, renouvelable deux fois, intervient avec l'accord de l'agent et après signature d'une convention passée entre l'établissement public gestionnaire et l'organisation interprofessionnelle conformément à une convention type, définie par le directeur de l'agence centrale des organismes d'intervention dans le secteur agricole, prise après avis du comité paritaire interétablissements et visée par le chef de la mission de contrôle.
+La durée de la mise à disposition ne peut excéder deux ans renouvelables.
 
-La convention particulière prévoit notamment les modalités de remboursement par l'organisation interprofessionnelle de la rémunération et des éléments annexes de la rémunération des agents mis à sa disposition. Elle peut toutefois prévoir l'exonération partielle ou totale, temporaire ou permanente, de ce remboursement.
+L'agent mis à disposition relève du présent décret. Il continue notamment de percevoir la rémunération correspondant à son emploi, à l'exclusion de tout autre complément. Cette disposition ne fait pas obstacle à l'indemnisation des frais et sujétions auxquels il s'expose dans l'exercice de ses fonctions.
 
-L'agent mis à disposition ne peut percevoir aucun complément de rémunération. Toutefois, cette disposition ne fait pas obstacle à l'indemnisation des frais et sujétions auxquels il s'expose dans l'exercice de ses fonctions.
+Sous réserve d'un préavis dont la durée est déterminée dans la convention, il peut être mis fin à cette mise à disposition à la demande de l'une ou l'autre des parties signataires de la convention particulière ou de l'agent concerné.
 
-Sous réserve d'un préavis, dont la durée est déterminée dans la convention type, il peut être mis fin à cette mise à disposition à la demande de l'une ou l'autre des parties signataires de la convention particulière ou de l'agent concerné.
+Les autres conditions d'application du présent paragraphe sont définies par référence aux dispositions applicables aux fonctionnaires de l'Etat.
 
-2° La mise en disponibilité :
+2° Mise en disponibilité :
 
-La mise en disponibilité peut, le cas échéant, après une période de mise à disposition, être accordée sur la demande de l'agent pour une durée maximale de trois ans, renouvelable une fois.
+Un agent statutaire peut être mis en position de disponibilité pour occuper un emploi au sein d'une administration de l'Etat, d'une collectivité territoriale, d'un établissement public ou d'un organisme assurant une mission d'intérêt général. Elle est accordée à la demande de l'agent pour une durée maximale de deux années, renouvelable deux fois.
 
-Une convention passée préalablement à la mise en disponibilité entre le représentant de l'organisation interprofessionnelle concernée et le directeur de l'agence centrale des organismes d'intervention dans le secteur agricole détermine les conditions de rémunération de l'agent qui demande la cessation de la disponibilité tant que cet agent n'a pas été réintégré ou licencié en application des dispositions qui suivent.
-
-L'agent mis en disponibilité doit demander au directeur de l'agence centrale des organismes d'intervention dans le secteur agricole sa réintégration deux mois au moins avant l'expiration de la période de disponibilité en cours.
-
-La réintégration est de droit. L'une des trois premières vacances de postes de la même catégorie dans l'un des établissements visés à l'article 1er ci-dessus doit lui être proposée. L'agent qui refuse successivement trois postes qui lui sont proposés peut être licencié après avis de la commission paritaire interétablissements.
-
-Quand l'agent demande sa réintégration avant l'expiration normale de la période de mise en disponibilité, un seul poste de même catégorie lui est proposé, par dérogation à l'alinéa précédent.
-
-Les conditions d'application du présent paragraphe sont définies par décision du directeur de l'agence centrale des organismes d'intervention dans le secteur agricole, prise après avis du comité paritaire interétablissements et visa du chef de la mission de contrôle.
-
-Les agents employés par une organisation interprofessionnelle reconnue, au-delà de la période de disponibilité prévue au présent article peuvent, au cas où le transfert d'attributions serait interrompu, être recrutés au titre du 1° de l'article 14 ci-dessus. Les recrutements effectués dans ce cadre n'entrent pas dans la proportion des emplois à affecter aux recrutements externe et interne telle que prévue au deuxième alinéa de ce même article 14.
+L'agent mis en position de disponibilité peut demander sa réintégration au directeur de l'Agence centrale des organismes d'intervention dans le secteur agricole deux mois au moins avant l'expiration de la période de disponibilité en cours.

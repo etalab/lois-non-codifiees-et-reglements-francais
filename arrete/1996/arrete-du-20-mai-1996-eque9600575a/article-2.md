@@ -1,0 +1,7 @@
+# Article 2
+
+Le comité de coordination statistique organise la mobilisation des informations administratives nécessaires à l'exercice de ses missions et veille à ce que l'élaboration ou la modification des procédures et documents administratifs sur lesquels s'appuient les systèmes d'information tienne compte des nécessités de l'information statistique.
+
+Il s'assure que le programme national annuel d'information statistique s'inscrit dans le programme statistique à moyen terme défini par le Conseil national de l'information statistique et qu'il est conforme aux obligations résultant du programme statistique communautaire approuvé par le comité du programme statistique de l'Union européenne. Il vérifie que le programme national annuel d'information statistique tient compte des besoins exprimés tant à l'échelon national qu'aux échelons régional et départemental par les instances administratives, les organisations professionnelles et les différents partenaires économiques et sociaux.
+
+Le programme national annuel d'information statistique ainsi défini est prioritaire. Son exécution relève de l'autorité du directeur des affaires économiques et internationales (service économique et statistique) et engage les directeurs et chefs de services responsables d'une partie de la collecte et du traitement d'informations statistiques. Peuvent s'y adjoindre, le comité étant tenu informé, des enquêtes et études plus particulières placées sous la responsabilité des services administratifs concernés.

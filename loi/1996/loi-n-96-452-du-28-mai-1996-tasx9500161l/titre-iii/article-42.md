@@ -1,0 +1,23 @@
+# Article 42
+
+I. - L'inspection générale des affaires sociales assure une mission de contrôle et d'évaluation de la mise en oeuvre des politiques publiques de la sécurité sociale et de la prévoyance sociale, de la protection sanitaire et sociale, du travail, de l'emploi et de la formation professionnelle. Le chef de l'inspection générale des affaires sociales présente chaque année un rapport au Président de la République, au Parlement et au Gouvernement.
+
+Les services, établissements ou institutions qui participent à l'application des législations de la sécurité sociale et de la prévoyance sociale, de la protection sanitaire et sociale, du travail, de l'emploi ou de la formation professionnelle ou qui concourent à assurer la protection sanitaire et sociale de la population sont soumis, quelle que soit leur nature juridique, aux vérifications de l'inspection générale des affaires sociales, lorsqu'ils bénéficient ou ont bénéficié, sous quelque forme que ce soit, de concours de l'État, d'une collectivité territoriale, d'un établissement public, d'un organisme de sécurité sociale ou de prévoyance sociale, ainsi que de concours financiers provenant de la Communauté européenne, ou lorsqu'ils sont financés par des cotisations obligatoires.
+
+Quand les services, établissements ou institutions mentionnés à l'alinéa précédent attribuent des concours, sous quelque forme que ce soit, à d'autres organismes, ces derniers peuvent également faire l'objet des vérifications de l'inspection générale des affaires sociales.
+
+Les vérifications de l'inspection générale des affaires sociales portent sur le respect de ces législations et sur l'utilisation de ces concours ou cotisations, dont la destination doit demeurer conforme au but pour lequel ils ont été consentis.
+
+II. - Dans les domaines de la sécurité sociale et de la prévoyance sociale, de la protection sanitaire et sociale, du travail, de l'emploi et de la formation professionnelle, l'inspection générale des affaires sociales exerce également, dans des conditions fixées par décret en Conseil d'Etat, un contrôle du compte d'emploi des ressources collectées auprès du public dans le cadre de campagnes menées à l'échelon national par les organismes visés à l'article 3 de la loi n° 91-772 du 7 août 1991 relative au congé de représentation en faveur des associations et des mutuelles et au contrôle des comptes des organismes faisant appel à la générosité publique, afin de vérifier la conformité des dépenses engagées par ces organismes aux objectifs poursuivis par l'appel à la générosité publique.
+
+Ce contrôle peut comporter des vérifications auprès d'autres organismes qui reçoivent des organismes mentionnés au premier alinéa du présent paragraphe, sous quelque forme que ce soit, des ressources collectées dans le cadre de ces campagnes.
+
+Les rapports établis par l'inspection générale des affaires sociales en application du présent paragraphe sont adressés aux organismes concernés qui disposent d'un délai de deux mois pour faire valoir leurs observations. Les rapports définitifs, auxquels sont jointes, le cas échéant, les réponses des organismes concernés, sont ensuite adressés aux présidents de ces organismes qui sont tenus de les communiquer au conseil d'administration et à l'assemblée générale lors de la première réunion qui suit. Un décret en Conseil d'Etat fixe les modalités de la publicité de ces rapports.
+
+III. - Pour l'exercice de leurs missions, les membres de l'inspection générale des affaires sociales ont libre accès à toutes les administrations de l'Etat et des collectivités publiques, ainsi qu'à tous les services, établissements, institutions ou organismes mentionnés au I et au II.
+
+Les administrations de l'Etat, les collectivités publiques, les services, établissements, institutions ou organismes mentionnés à l'alinéa précédent sont tenus de prêter leur concours aux membres de l'inspection générale, de leur fournir toutes justifications et tous renseignements utiles et de leur communiquer tous documents nécessaires à l'accomplissement de leurs missions.
+
+Pour les opérations faisant appel à l'informatique, le droit de communication implique l'accès aux logiciels et aux données, ainsi que la faculté d'en demander la transcription par tout traitement approprié dans des documents directement utilisables pour les besoins du contrôle.
+
+Pour les besoins du contrôle de l'emploi des concours mentionnés au I et des ressources collectées auprès du public mentionnées au II, les commissaires aux comptes des organismes contrôlés sont déliés du secret professionnel à l'égard des membres de l'inpection générale des affaires sociales.
