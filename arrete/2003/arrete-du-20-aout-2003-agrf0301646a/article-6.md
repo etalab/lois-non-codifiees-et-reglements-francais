@@ -4,17 +4,21 @@ Lorsque l'action fait intervenir le chargement moyen à l'hectare de l'exploitat
 
 Les catégories d'animaux retenues pour calculer le chargement des exploitations et les équivalences en UGB correspondantes sont les suivantes :
 
-- bovins de plus de deux ans : 1 UGB ; bovins de six mois à deux ans : 0,6 UGB. Le demandeur doit respecter les règles applicables relatives à l'identification pérenne généralisée ;
+- bovins de plus de deux ans : 1 UGB ; bovins de 6 mois à 2 ans :
 
-- équidés de plus de six mois : 1 UGB ;
+0,6 UGB. Le demandeur doit respecter les règles applicables relatives à l'identification pérenne généralisée. Les animaux pris en compte sont ceux retenus au titre du complément extensif de l'année précédant la demande d'aide ;
 
-- brebis mères, antenaises âgées au moins d'un an : 0,15 UGB ; chèvres mères, femelles de l'espèce caprine âgées au moins d'un an :
+- brebis-mères, antenaises âgées au moins d'un an : 0,15 UGB ; chèvres-mères, femelles de l'espèce caprine âgées d'au moins un an :
 
-0,15 UGB. Les ovins et les caprins retenus sont ceux déclarés à la prime au maintien du troupeau de brebis (PMTB) en 2002 par une demande déposée dans les délais par un producteur éligible à la PMTB ;
+0,15 UGB. Les ovins et les caprins retenus sont ceux déclarés à la prime à la brebis et à la chèvre (PBC), pour l'année en cours par une demande déposée dans les délais par un producteur éligible à la PBC. En zone défavorisée simple et piémont, les caprins retenus sont ceux déclarés sur le formulaire de demande d'aide de l'année en cours ;
 
-- lamas de plus de deux ans : 0,45 UGB ; alpagas de plus de deux ans : 0,3 UGB ;
+- équidés de plus de 6 mois : 1 UGB. Les animaux retenus sont ceux déclarés sur le formulaire de demande d'aide de l'année en cours ;
 
-- cerfs et biches de plus de deux ans : 0,33 UGB ; daims et daines de plus de deux ans : 0,17 UGB.
+- lamas de plus de 2 ans : 0,45 UGB ; alpagas de plus de 2 ans :
+
+0,30 UGB. Les animaux retenus sont ceux déclarés sur le formulaire de demande d'aide de l'année en cours ;
+
+- cerfs et biches de plus de 2 ans : 0,33 UGB ; daims et daines de plus de 2 ans : 0,17 UGB. Les animaux retenus sont ceux déclarés sur le formulaire de demande d'aide de l'année en cours.
 
 Les superficies retenues sont les suivantes :
 

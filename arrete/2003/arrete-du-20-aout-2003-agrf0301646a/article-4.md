@@ -2,7 +2,9 @@
 
 Le préfet peut fixer un montant maximal d'aides par exploitation pour un ou des types d'actions déterminés.
 
-Lorsqu'un tel montant maximal est fixé, il s'applique à l'ensemble des aides relevant du ou des types d'actions concernés quel que soit leur cadre juridique et notamment celles versées dans le cadre d'un contrat territorial d'exploitation.
+Lorsqu'un tel montant maximal est fixé, il s'applique à l'ensemble des aides relevant du ou des type(s) d'action concerné(s) quel que soit leur cadre juridique, notamment celles versées dans le cadre d'un contrat territorial d'exploitation ou d'un contrat d'agriculture durable.
+
+Aucun engagement qui conduirait une année au moins à dépasser ce montant maximal d'aides par exploitation ne pourra être accepté, sauf en cas de modification d'un engagement par la reprise de parcelles déjà engagées dans ce ou ces type(s) d'action par un autre exploitant.
 
 Lorsque le montant unitaire de l'aide est modifié par le préfet, le montant maximal d'aides par exploitation pour le type d'action considéré peut être modifié dans les mêmes proportions.
 
