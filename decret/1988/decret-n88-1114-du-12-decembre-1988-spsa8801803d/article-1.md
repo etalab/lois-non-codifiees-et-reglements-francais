@@ -1,0 +1,3 @@
+# Article 1
+
+Peuvent être agréés aux fins de recevoir les déclarations d'élection de domicile des personnes sans résidence stable qui demandent à bénéficier de l'allocation de revenu minimum d'insertion les services et établissements des personnes morales de droit public et des personnes morales de droit privé à but non lucratif ayant vocation à mener des actions d'assistance, d'insertion ou de réadaptation sociale, notamment les établissements mentionnés au 8° de l'article 3 de la loi du 30 juin 1975 susvisée, qui offrent, par le nombre, l'expérience, la qualité de leurs responsables et de leur personnel salarié ou bénévole, des garanties suffisantes pour exercer ces fonctions.
