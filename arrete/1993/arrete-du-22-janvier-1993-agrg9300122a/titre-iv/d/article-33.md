@@ -4,20 +4,28 @@
 
 2. Dans le cas où les produits à base de viande pouvus d'un marquage de salubrité conformément au point 1 sont placés ensuite dans un emballage, la marque de salubrité doit également être apposée sur cet emballage.
 
-3. Par dérogation aux points 1 et 2, l'apposition de la marque de salubrité sur les produits à base de viande contenus dans des unités d'expédition palettisées, destinés à subir un complément de transformation ou de conditionnement dans un établissement agréé, n'est pas nécessaire pour autant :
+3. Par dérogation aux points 1 et 2, le marquage de salubrité de chaque produit à base de viande n'est pas nécessaire :
 
-- que la surface externe desdites unités contenant les produits à base de viande porte une marque de salubrité apposée conformément au point 4 (a) ;
+a) Si la marque de salubrité, conforme au point 4, est apposée sur la face externe de chaque unité de vente au détail qui les contient ;
 
-- que l'établissement destinataire tienne un registre séparé mentionnant les quantités, le type et l'origine des produits à base de viande reçus conformément au présent point ;
+b) Si, pour les produits à base de viande contenus dans des unités d'expédition et destinés à subir un complément de transformation ou de conditionnement dans un établissement agréé :
 
-- que le lieu de destination et l'utilisation prévue des produits à base de viande soient clairement indiqués sur la surface extérieure du grand emballage, sauf lorsque ce dernier est transparent.
+- la face externe desdites unités porte, à un endroit apparent, la marque de salubrité de l'établissement agréé expéditeur, ainsi que, clairement indiqué, le lieu de destination prévu ;
 
-Toutefois, lorsqu'une unité d'expédition de produits conditionnés est contenue dans un emballage transparent, la marque de salubrité sur l'emballage n'est pas exigée si la marque de salubrité sur les produits conditionnés est clairement visible à travers l'emballage.
+- l'établissement destinataire tient et conserve pendant la période prévue à l'article 7, deuxième paragraphe, quatrième alinéa, un registre mentionnant les quantités, le type et l'origine des produits à base de viande reçus conformément au présent point. Toutefois, les produits à base de viande contenus dans de grands emballages, destinés à la vente immédiate sans transformation ni conditionnement ultérieur, doivent être pourvus d'un marquage de salubrité conforme aux points 1, 2 ou 3 (a) ;
 
-4 a) Le marquage de salubrité est réalisé à l'aide de la marque communautaire de salubrité telle que définie par l'arrêté du 28 juin 1994 relatif à l'identification et à l'agrément des établissements mettant sur le marché des denrées animales ou d'origine animale et au marquage de salubrité.
+c) Si, pour les produits à base de viande qui ne sont ni conditionnés ni emballés, mais vendus en vrac directement au détaillant :
 
-b) La marque de salubrité peut être apposée à l'aide d'un tampon encreur ou au feu sur le produit, le conditionnement ou l'emballage, ou être imprimée ou portée sur une étiquette. Pour autant qu'elle soit apposée sur l'emballage, l'estampille doit être détruite lors de l'ouverture de l'emballage. La non-destruction de cette estampille ne peut être tolérée que lorsque l'ouverture de l'emballage détruit celui-ci. Pour les produits contenus dans des récipients hermétiquement clos, l'estampille doit être appliquée de manière indélébile sur le couvercle ou la boîte ;
+- la marque de salubrité, conforme au point 1, est apposée sur le récipient qui les contient ;
 
-c) Le marquage de salubrité peut également consister en la fixation inamovible d'une plaque en matériau résistant, répondant à toutes les exigences de l'hygiène et comportant les indications précisées au point a.
+- le fabricant tient et conserve, pendant la période prévue à l'article 7, deuxième paragraphe, quatrième alinéa, un registre mentionnant les quantités, le type de produits à base de viande expédiés conformément au présent point, ainsi que le nom du destinataire.
+
+4. a) Le marquage de salubrité est réalisé à l'aide de la marque communautaire de salubrité telle que définie par l'arrêté du 28 juin 1994 relatif à l'identification et à l'agrément des établissements mettant sur le marché des denrées animales ou d'origine animale et au marquage de salubrité.
+
+b) La marque de salubrité peut être apposée sur le produit lui-même avec des moyens autorisés ou être préalablement imprimée sur le conditionnement ou l'emballage ou sur une étiquette apposée sur le produit, le conditionnement ou l'emballage. Pour autant qu'elle soit apposée sur l'emballage, l'estampille doit être détruite lors de l'ouverture de l'emballage. La non-destruction de cette estampille ne peut être tolérée que lorsque l'ouverture de l'emballage détruit celle-ci. Pour les produits contenus dans des récipients hermétiquement clos, l'estampille doit être appliquée de manière indélébile sur le couvercle ou la boîte ;
+
+c) Le marquage de salubrité peut également consister en la fixation inamovible d'une plaque en matériau résistant, répondant à toutes les exigences de l'hygiène et comportant les indications précisées au point a ;
+
+d) Lorsqu'un produit à base de viande contient d'autres denrées alimentaires d'origine animale, comme des produits de la pêche, des produits laitiers ou des ovoproduits, il convient de lui apposer une seule marque de salubrité.
 
 5. Les contrefaçons ainsi que la fabrication, la détention ou l'utilisation frauduleuse des marques définies par le présent arrêté seront poursuivies conformément à la réglementation en vigueur concernant l'usage frauduleux de sceaux, timbres et cachets officiels.

@@ -1,20 +1,26 @@
 # Article 37
 
-1. L'exploitant ou le gestionnaire d'un établissement fabriquant des produits à base de viande en récipient hermétiquement clos doit en outre s'assurer par un contrôle par sondage :
+1. L'exploitant ou le gestionnaire d'un établissement fabriquant des produits à base de viande en récipients hermétiquement clos doit, en outre, s'assurer par un contrôle par sondage :
 
-a) Que soit appliqué aux produits à base de viande destinés à être entreposés à une température ambiante un procédé permettant d'obtenir une valeur Fc égale ou supérieure à 3,00, sauf si la même stabilité du produit a été obtenue par salage ou que soit appliqué un procédé thermique équivalant au moins à une pasteurisation dont les paramètres soient approuvés par l'autorité compétente ;
+a) Que soit appliqué aux produits à base de viande destinés à être entreposés à une température ambiante un traitement thermique capable de détruire ou d'inactiver les germes pathogènes, ainsi que les spores des micro-organismes pathogènes. Un registre des paramètres de fabrication, tels que la durée du chauffage, la température, le remplissage, la taille des récipients, etc., doit être tenu ;
 
-b) Que les récipients vidés satisfont aux prescriptions de production ;
+L'appareillage de traitement thermique doit être muni de dispositifs de contrôle pour permettre de vérifier que les récipients ont bien subi un traitement efficace par la chaleur ;
 
-c) Que soit pratiqué un contrôle de la production journalière, selon des intervalles établis à l'avance, pour garantir l'efficacité de la fermeture. Dans ce but, un équipement adéquat doit être disponible pour l'examen de sections perpendiculaires des sertis des récipients fermés ;
+b) Que le matériel utilisé pour les récipients satisfasse aux dispositions communautaires en matière de matériaux en contact avec les denrées alimentaires ;
 
-d) Que soient exercés les contrôles nécessaires et utilisés en particulier des repères de contrôle pour garantir que les récipients ont reçu un traitement thermique adéquat ;
+c) Que soit pratiqué un contrôle de la production journalière, selon des intervalles établis à l'avance pour garantir l'efficacité de la fermeture. Dans ce but, un équipement adéquat doit être disponible pour l'examen des sections perpendiculaires et l'examen des sertis des récipients fermés ;
 
-e) Que soient effectués les contrôles nécessaires pour garantir que l'eau de refroidissement contient une teneur résiduelle de chlore après utilisation ;
+d) Que des contrôles supplémentaires par sondage soient effectués par le fabricant pour s'assurer que :
 
-f) Que soient effectués des tests d'incubation de sept jours à 37 °C ou de dix jours à 35 °C des conserves de produits à base de viande se trouvant dans un récipient hermétiquement clos qui ont subi un traitement par la chaleur ;
+- les produits stérilisés ont bien subi un traitement efficace, au moyen :
 
-g) Que les produits pasteurisés en récipients hermétiquement clos satisfont à des critères reconnus par les services officiels. Pour les plats cuisinés à base de viande notamment, ces critères seront précisés par un arrêté du ministre de l'agriculture et du développement rural.
+- de tests d'incubation. L'incubation doit être effectuée au moins à 37 °C pendant sept jours ou au moins à 35 °C pendant dix jours ou toute autre combinaison "temps/température" reconnue équivalente par l'autorité compétente ;
+
+- d'examens microbiologiques du contenu et des récipients dans le laboratoire de l'établissement ou dans un autre laboratoire reconnu ;
+
+- les produits pasteurisés en récipients hermétiquement clos satisfont aux critères microbiologiques prévus par l'arrêté du 21 décembre 1979 relatif aux critères microbiologiques auxquels doivent satisfaire certaines denrées animales ou d'origine animale ;
+
+e) Que soient effectués les contrôles nécessaires pour garantir que l'eau de refroidissement contient une teneur résiduelle de chlore après utilisation.
 
 2. L'adjonction de certaines substances à l'eau des autoclaves pour lutter contre la corrosion des boîtes de conserve et pour adoucir et désinfecter l'eau peut être autorisée.
 

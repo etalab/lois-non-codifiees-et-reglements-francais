@@ -20,6 +20,7 @@
 - [Arrêté du 8 décembre 1996 (DEFT9602195A)](arrete-du-8-decembre-1996-deft9602195a)
 - [Arrêté du 9 décembre 1996 (ECOR9607031A)](arrete-du-9-decembre-1996-ecor9607031a)
 - [Arrêté du 9 décembre 1996 (EQUT9601649A)](arrete-du-9-decembre-1996-equt9601649a)
+- [Arrêté du 9 janvier 1997 (AGRM9700037A)](arrete-du-9-janvier-1997-agrm9700037a)
 - [Arrêté du 10 février 1997 (MENP9700195A)](arrete-du-10-fevrier-1997-menp9700195a)
 - [Arrêté du 11 avril 1997 (MENF9700991A)](arrete-du-11-avril-1997-menf9700991a)
 - [Arrêté du 11 décembre 1996 (ECOT9616221A)](arrete-du-11-decembre-1996-ecot9616221a)
