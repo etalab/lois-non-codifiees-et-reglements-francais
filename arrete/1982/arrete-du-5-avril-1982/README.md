@@ -1,4 +1,4 @@
-# Arrêté du 5 avril 1982 relatif à l'homologation du règlement général des marchés réglementés de la bourse de commerce de Paris
+# Arrêté du 5 avril 1982 relatif à l'homologation du règlement particulier du marché international des tourteaux de soja cuit de la bourse de commerce de Paris
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

@@ -1,3 +1,5 @@
 # Article 1
 
-Sont homologuées les modifications apportées aux articles 10, 21, 33, 38, 39, 42 et 43 du règlement général des marchés réglementés de la bourse de commerce de Paris.
+Le règlement particulier du marché international des tourteaux de soja cuit annexé au présent arrêté est homologué.
+
+Ce règlement entrera en vigueur le lundi de la semaine suivant celle au cours de laquelle il aura été publié au Journal officiel de la République française.
