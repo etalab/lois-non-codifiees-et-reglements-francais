@@ -1,5 +1,5 @@
 # Article 5
 
-Les médecins assermentés compétents à l'égard des personnels visés à l'article 1er du présent décret sont ceux figurant sur la liste établie dans chaque département dans les conditions prévues à l'article 7 du décret du 5 août 1947 modifié.
+Les médecins assermentés compétents à l'égard des personnels visés à l'article 1er du présent décret sont ceux qui figurent sur la liste établie dans chaque département dans les conditions prévues à l'article 9 du décret du 14 février 1959.
 
-Chaque établissement visé à l'article 1er du décret du 20 mai 1955 doit en outre s'attacher un ou plusieurs médecins agréés spécialisés dans les affections ouvrant droit à congé de longue durée et inscrits sur les listes prévues à l'article 8 du décret du 5 août 1947.
+Chaque établissement visé à l'article L. 792 modifié du code de la santé publique doit en outre s'attacher un ou plusieurs médecins agréés spécialisés dans les affections ouvrant droit à congés de longue durée et inscrits sur les listes prévues à l'article 10, alinéa 2, du décret du 14 février 1959 modifié.

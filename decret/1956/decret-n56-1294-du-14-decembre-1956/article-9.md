@@ -1,12 +1,12 @@
 # Article 9
 
-Pour obtenir le congé de longue durée prévu à l'article 65 du décret du 20 mai 1955, les agents visés à l'article 1er du présent décret ainsi que ceux qui se trouvent déjà en congé de maladie ou leurs représentants légaux doivent adresser à l'autorité investie du pouvoir de nomination une demande appuyée d'un certificat de leur médecin traitant spécifiant qu'ils sont susceptibles de bénéficier des dispositions de l'article 65 précité.
+Pour obtenir le congé de longue durée prévu à l'article L. 856 du code de la santé publique, les agents visés à l'article 1er du présent décret ainsi que ceux qui se trouvent déjà en congé de maladie ou leurs représentants légaux doivent adresser à l'autorité investie du pouvoir de nomination une demande appuyée d'un certificat de leur médecin traitant spécifiant qu'ils sont susceptibles de bénéficier des dispositions de l'article L. 856 précité.
 
-D'autre part, le médecin traitant communique directement au directeur départemental de la santé ou au président du comité médical visé à l'article 2 (2e alinéa) ci-dessus un résumé succinct de ses observations et les pièces justificatives prévues aux articles 4, 7, 10 et 12 bis de l'arrêté du 19 août 1947 modifié.
+D'autre part, le médecin traitant communique directement au directeur départemental de l'action sanitaire et sociale ou au président du comité médical visé à l'article 2 (2e alinéa) ci-dessus un résumé succinct de ses observations et les pièces justificatives prévues aux articles 5, 8, 11 et 14 de l'arrêté du 3 décembre 1959.
 
-Saisi de ces pièces, le directeur départemental de la santé ou le président du comité médical central fait procéder à la contre-visite du demandeur par celui des médecins agréés attachés à l'établissement intéressé qui est compétent pour l'affection en cause.
+Saisi de ces pièces, le directeur départemental de l'action sanitaire et sociale ou le président du comité médical central fait procéder à la contre-visite du demandeur par celui des médecins agréés attachés à l'établissement intéressé qui est compétent pour l'affection en cause.
 
-Les dispositions des articles 5, 6, 8, 9, 11, 12 et 13 de l'arrêté du 19 août 1947 modifié sont applicables aux personnels visés par le présent décret.
+Les dispositions des articles 6, 7, 9, 10, 12, 13 et 15 de l'arrêté du 3 décembre 1959 sont applicables aux personnels visés par le présent décret.
 
 Si le médecin agréé chargé de la contre-visite estime que l'agent ne réunit pas les conditions médicales exigées pour bénéficier d'un congé de longue durée, l'autorité investie du pouvoir de nomination le notifie à l'intéressé.
 

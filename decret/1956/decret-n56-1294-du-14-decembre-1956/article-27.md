@@ -1,3 +1,3 @@
 # Article 27
 
-Sont applicables aux personnels visés à l'article 1er du présent décret les dispositions des articles 24 et 25 de l'arrêté du 19 août 1947 modifié.
+Sont applicables aux personnels visés à l'article 1er du présent décret les dispositions des articles 27 et 28 de l'arrêté du 3 décembre 1959.

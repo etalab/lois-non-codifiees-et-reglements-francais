@@ -77,6 +77,7 @@
 - [Décret n°72-85 du 29 janvier 1972](decret-n72-85-du-29-janvier-1972)
 - [Décret n°71-1114 du 30 décembre 1971](decret-n71-1114-du-30-decembre-1971)
 - [Décret n°72-251 du 30 mars 1972](decret-n72-251-du-30-mars-1972)
+- [Décret n°72-549 du 30 juin 1972](decret-n72-549-du-30-juin-1972)
 - [Décret n°72-556 du 30 juin 1972](decret-n72-556-du-30-juin-1972)
 - [Décret n°72-460 du 31 mai 1972](decret-n72-460-du-31-mai-1972)
 - [Décret n°72-461 du 31 mai 1972](decret-n72-461-du-31-mai-1972)

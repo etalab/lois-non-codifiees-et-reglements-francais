@@ -6,6 +6,6 @@ L'agent peut faire entendre par le comité le médecin de son choix.
 
 Cet examen peut être provoqué soit par l'agent, soit par l'autorité investie du pouvoir de nomination.
 
-Les conditions exigées pour que la réintégration puisse être prononcée sont celles fixées par les articles 17 à 19 bis de l'arrêté du 19 août 1947 modifié.
+Les conditions exigées pour que la réintégration puisse être prononcée sont celles fixées par les articles 19 à 22 de l'arrêté du 3 décembre 1959.
 
-L'article 20 dudit arrêté est applicable en l'espèce.
+L'article 23 dudit arrêté est applicable en l'espèce.
