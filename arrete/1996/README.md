@@ -208,4 +208,5 @@
 - [Arrêté du 31 décembre 1995 (FCEM9500774A)](arrete-du-31-decembre-1995-fcem9500774a)
 - [Arrêté du 31 janvier 1996 (ECOB9610011A)](arrete-du-31-janvier-1996-ecob9610011a)
 - [Arrêté du 31 janvier 1996 (ECOR9605004A)](arrete-du-31-janvier-1996-ecor9605004a)
+- [Arrêté du 31 janvier 1996 (ECOT9610261A)](arrete-du-31-janvier-1996-ecot9610261a)
 - [Arrêté du 31 janvier 1996 (MIPP9600051A)](arrete-du-31-janvier-1996-mipp9600051a)
