@@ -25,6 +25,7 @@
 - [Arrêté du 6 janvier 1989 (MENP8802192A)](arrete-du-6-janvier-1989-menp8802192a)
 - [Arrêté du 7 décembre 1988 (TEFT8804178A)](arrete-du-7-decembre-1988-teft8804178a)
 - [Arrêté du 8 décembre 1988 (TEFT8804179A)](arrete-du-8-decembre-1988-teft8804179a)
+- [Arrêté du 8 février 1989 (ECOT8916063A)](arrete-du-8-fevrier-1989-ecot8916063a)
 - [Arrêté du 8 février 1989 (SPSS8900248A)](arrete-du-8-fevrier-1989-spss8900248a)
 - [Arrêté du 8 septembre 1989 (RESY8900319A)](arrete-du-8-septembre-1989-resy8900319a)
 - [Arrêté du 9 décembre 1988 (INTE8800463A)](arrete-du-9-decembre-1988-inte8800463a)

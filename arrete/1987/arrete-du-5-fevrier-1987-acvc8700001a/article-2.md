@@ -1,33 +1,13 @@
 # Article 2
 
-La direction de l'administration générale comprend  [*composition*]:
+La sous-direction des affaires financières et de l'équipement, constituée des cinq bureaux suivants :
 
-1° La sous-direction du personnel composée des cinq bureaux suivants :
+-budget, comptabilité et affaires financières ;
 
-- affaires juridiques et contentieuses ;
+-affaires immobilières, équipement et travaux ;
 
-- personnels de l'administration centrale ;
+-documentation ;
 
-- personnels des services extérieurs ;
+-transports ;
 
-- services sociaux ;
-
-- formation.
-
-2° La sous-direction des affaires financières et de l'équipement constituée des cinq bureaux suivants :
-
-- budget, comptabilité et affaires financières ;
-
-- affaires immobilières, équipement et nécropoles nationales ;
-
-- documentation ;
-
-- transports ;
-
-- services généraux.
-
-3° La division de l'informatique, de la bureautique et de l'organisation comprenant les deux bureaux suivants :
-
-- bureau central de l'informatique et de la bureautique ;
-
-- organisation, études, statistiques et gestion prévisionnelle des effectifs.
+-services généraux.
