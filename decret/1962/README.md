@@ -8,6 +8,7 @@
 - [Décret n°64-23 du 8 janvier 1964](decret-n64-23-du-8-janvier-1964)
 - [Décret n°65-1119 du 9 décembre 1965](decret-n65-1119-du-9-decembre-1965)
 - [Décret n°62-261 du 10 mars 1962](decret-n62-261-du-10-mars-1962)
+- [Décret n°62-420 du 11 avril 1962](decret-n62-420-du-11-avril-1962)
 - [Décret n°62-273 du 12 mars 1962](decret-n62-273-du-12-mars-1962)
 - [Décret n°62-274 du 12 mars 1962](decret-n62-274-du-12-mars-1962)
 - [Décret n°62-275 du 12 mars 1962](decret-n62-275-du-12-mars-1962)
