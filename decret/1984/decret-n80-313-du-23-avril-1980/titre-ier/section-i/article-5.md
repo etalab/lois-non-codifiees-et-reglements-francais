@@ -1,0 +1,5 @@
+# Article 5
+
+La crème, la crème légère et la crème crue ne peuvent être commercialisées que préemballées. Le préemballage doit être effectué pour la crème et la crème légère sur le lieu du traitement thermique d'assainissement et pour la crème crue sur le lieu de production, dans des récipients clos et étanches contenant une masse nette ou un volume net fixés par arrêté conjoint du ministre de l'agriculture et du ministre de l'industrie.
+
+Toutefois, la crème et la crème crue présentées dans des quantités supérieures à un litre ou un kilo peuvent faire l'objet d'un reconditionnement en vue de la vente au détail dans le local de vente ou dans ses annexes, en récipients contenant moins d'un litre ou d'un kilo et répondant aux prescriptions de l'alinéa précédent, sous réserve que la quantité de crème ou de crème crue ainsi préemballée ne dépasse pas celle qui est habituellement vendue au détail dans la journée. Elles peuvent de même être débitées à la demande sur les lieux de vente au détail.
