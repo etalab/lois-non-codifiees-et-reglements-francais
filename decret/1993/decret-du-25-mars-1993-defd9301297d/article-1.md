@@ -1,6 +1,6 @@
 # Article 1
 
-Sous réserve des compétences attribuées au chef du service de la surveillance industrielle de l'armement par le décret du 25 juillet 1972 susvisé, reçoivent délégation de pouvoirs du ministre chargé des armées pour prendre les décisions relatives aux opérations domaniales, énumérées à l'article 3 ci-après, concernant les immeubles du domaine militaire relevant de leur compétence, les autorités suivantes :
+Reçoivent délégation de pouvoirs du ministre chargé des armées pour prendre les décisions relatives aux opérations domaniales, énumérées à l'article 3 ci-après, concernant les immeubles du domaine militaire relevant de leur compétence, les autorités suivantes :
 
 - commandants de circonscription militaire de défense, d'arrondissement maritime et de région aérienne ;
 
