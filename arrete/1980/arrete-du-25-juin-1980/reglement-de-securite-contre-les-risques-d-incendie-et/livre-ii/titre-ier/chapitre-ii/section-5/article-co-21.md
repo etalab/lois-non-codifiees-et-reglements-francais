@@ -32,16 +32,14 @@ a) La règle définie ci-dessous est applicable :
 
 Toutefois, cette règle n'est pas exigée si l'établissement recevant du public occupe la totalité du bâtiment et s'il est entièrement équipé d'un système d'extinction automatique du type sprinkleur ou d'un système de sécurité incendie de catégorie A.
 
-b) Les valeurs C et D doivent être liées par une des relations ci-dessous en fonction de la masse combustible mobilisable :
+Résistance à la propagation verticale du feu
 
-C + D ≥ 1,00 mètre si M ≤ 80 MJ/m²
+par les façades comportant des baies
 
-C + D ≥ 1,30 mètre si M > 80 MJ/m²
+b) C, D et M définis dans l'instruction technique relative aux façades, respectent :
 
-C exprimé en mètres étant la distance verticale entre le haut d'une baie et le bas de la baie qui lui est superposée lorsque la façade est en maçonnerie traditionnelle, ou la valeur de l'indice caractéristique des panneaux de façade vitrés déterminée par l'essai cité au paragraphe 1 ;
+C + D 1 mètre si M 130 MJ/m²
 
-D exprimé en mètres étant la distance horizontale entre le plan des vitres et le nu de la plus grande saillie de l'obstacle résistant au feu qui sépare les murs ou les panneaux situés de part et d'autre du plancher ;
-
-M exprimé en MJ/m² étant la masse combustible mobilisable de la façade à l'exclusion des menuiseries, fermetures et garde-corps, rapportée au mètre carré de façade, baies comprises. Dans le cas de maçonnerie traditionnelle, cette masse est nulle. Elle peut dans certains cas être déterminée conformément aux règles de l'instruction technique relative aux façades.
+C + D 1,3 mètre si M ¹ 130 MJ/m².
 
 c) Pour l'application de cette règle, il n'est pas tenu compte des orifices d'entrée d'air de ventilation dont la section ne dépasse pas 200 centimètres carrés.

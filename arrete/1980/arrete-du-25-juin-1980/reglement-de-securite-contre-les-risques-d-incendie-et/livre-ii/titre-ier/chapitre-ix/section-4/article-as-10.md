@@ -2,7 +2,7 @@
 
 Vérifications techniques des escaliers mécaniques et des trottoirs roulants
 
-Avant leur remise en service suite à une transformation importante, les ascenseurs doivent faire l'objet d'une vérification, fonctionnement compris, par une personne ou un organisme agréé, dans les conditions prévues à la section II du chapitre Ier du présent titre.
+Avant leur remise en service suite à une transformation importante, les escaliers mécaniques et les trottoirs roulants doivent faire l'objet d'une vérification, fonctionnement compris, par une personne ou un organisme agréé, dans les conditions prévues à la section II du chapitre Ier du présent titre.
 
 En outre, l'exploitant est tenu de faire procéder :
 

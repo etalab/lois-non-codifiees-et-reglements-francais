@@ -20,7 +20,7 @@ b) S'il est fait application des dispositions spéciales de l'article CO 25, rel
 
 § 4. L'absence de protection des escaliers mécaniques et des ascenseurs est admise lorsque la protection des escaliers normaux n'est pas exigée.
 
-§ 5. L'absence de protection des escaliers est interdite dans les établissements recevant un effectif d'handicapés circulant en fauteuil roulant supérieur aux pourcentages fixés à l'article GN 8 (§ 1).
+§ 5. (Supprimé).
 
 § 6. Dans tous les cas, le débouché au niveau du rez-de-chaussée d'un escalier non protégé doit s'effectuer :
 

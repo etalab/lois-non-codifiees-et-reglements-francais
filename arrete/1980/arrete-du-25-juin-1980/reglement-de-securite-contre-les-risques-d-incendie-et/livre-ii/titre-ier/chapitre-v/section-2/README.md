@@ -8,3 +8,4 @@
 - [Article CH 10](article-ch-10.md)
 - [Article CH 11](article-ch-11.md)
 - [Article CH 12](article-ch-12.md)
+- [Article CH 12-1](article-ch-12-1.md)
