@@ -1,0 +1,6 @@
+# Décret n°68-268 du 21 mars 1968 relatif au statut particulier des administrateurs des postes et télécommunications.
+
+- [Article 8](article-8.md)
+- [Article 11](article-11.md)
+- [Article 12](article-12.md)
+- [Article 13](article-13.md)
