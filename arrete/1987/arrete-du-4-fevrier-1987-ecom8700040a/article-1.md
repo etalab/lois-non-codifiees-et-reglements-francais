@@ -1,0 +1,3 @@
+# Article 1
+
+Sont soumis aux dispositions du décret n° 79-98 du 12 janvier 1979 modifié susvisé [*champ d'application*] les marchés de travaux dont le montant [*minimum*] estimé avant leur passation est égal ou supérieur à 6 700 000 F hors T.V.A., les marchés de fournitures des collectivités locales et de leurs établissements publics autres que ceux ayant le caractère industriel et commercial dont le montant estimé avant leur passation est égal ou supérieur à 1 300 000 F hors T.V.A. et les marchés de fournitures de l'Etat et de ses établissements publics autres que ceux ayant le caractère industriel et commercial dont le montant estimé avant leur passation est égal ou supérieur à 1 200 000 F hors T.V.A.
