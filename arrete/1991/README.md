@@ -642,7 +642,6 @@
 - [Arrêté du 23 avril 1991 (TEFE9103522A)](arrete-du-23-avril-1991-tefe9103522a)
 - [Arrêté du 23 décembre 1991 (BUDR9105047A)](arrete-du-23-decembre-1991-budr9105047a)
 - [Arrêté du 23 janvier 1991 (AGRB9100139A)](arrete-du-23-janvier-1991-agrb9100139a)
-- [Arrêté du 23 janvier 1991 (AGRS9001571A)](arrete-du-23-janvier-1991-agrs9001571a)
 - [Arrêté du 23 janvier 1991 (AGRS9002406A)](arrete-du-23-janvier-1991-agrs9002406a)
 - [Arrêté du 23 janvier 1991 (DOMP9100003A)](arrete-du-23-janvier-1991-domp9100003a)
 - [Arrêté du 23 janvier 1991 (ENVP9161000A)](arrete-du-23-janvier-1991-envp9161000a)

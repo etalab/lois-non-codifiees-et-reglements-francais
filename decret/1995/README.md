@@ -738,7 +738,6 @@
 - [Décret n°95-809 du 19 juin 1995 (EURX9500880D)](decret-n95-809-du-19-juin-1995-eurx9500880d)
 - [Décret n°95-810 du 19 juin 1995 (REFX9500883D)](decret-n95-810-du-19-juin-1995-refx9500883d)
 - [Décret n°95-83 du 19 janvier 1995 (RESM9401600D)](decret-n95-83-du-19-janvier-1995-resm9401600d)
-- [Décret n°95-925 du 19 août 1995 (TEFE9500831D)](decret-n95-925-du-19-aout-1995-tefe9500831d)
 - [Décret n°96-1113 du 19 décembre 1996 (JUSF9650045D)](decret-n96-1113-du-19-decembre-1996-jusf9650045d)
 - [Décret du 20 juillet 1995 (MIPP9500760D)](decret-du-20-juillet-1995-mipp9500760d)
 - [Décret n°95-1049 du 20 septembre 1995 (ECOT9520001D)](decret-n95-1049-du-20-septembre-1995-ecot9520001d)
