@@ -12,6 +12,7 @@
 - [Loi n° 93-980 du 4 août 1993 (ECOX9300075L)](loi-n-93-980-du-4-aout-1993-ecox9300075l)
 - [Loi n° 94-1 du 3 janvier 1994 (JUSX9300077L)](loi-n-94-1-du-3-janvier-1994-jusx9300077l)
 - [Loi n° 94-1007 du 23 novembre 1994 (MAEX9400078L)](loi-n-94-1007-du-23-novembre-1994-maex9400078l)
+- [Loi n° 94-104 du 5 février 1994 (INTX9300204L)](loi-n-94-104-du-5-fevrier-1994-intx9300204l)
 - [Loi n° 94-1040 du 2 décembre 1994 (ECOX9300187L)](loi-n-94-1040-du-2-decembre-1994-ecox9300187l)
 - [Loi n° 94-1074 du 15 décembre 1994 (MAEX9400111L)](loi-n-94-1074-du-15-decembre-1994-maex9400111l)
 - [Loi n° 94-1075 du 15 décembre 1994 (MAEX9400097L)](loi-n-94-1075-du-15-decembre-1994-maex9400097l)

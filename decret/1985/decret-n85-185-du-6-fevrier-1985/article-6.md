@@ -1,0 +1,5 @@
+# Article 6
+
+Les autorités visées à l'article 5 ci-dessus peuvent lorsque la sécurité de la navigation le requiert, imposer aux navires étrangers qui exercent le droit de passage inoffensif dans les eaux territoriales françaises, d'emprunter les voies de circulation qu'elles désigneront, et de respecter les dispositifs de séparation du trafic prescrits, notamment s'il s'agit de navires-citernes, de navires à propulsion nucléaire, de navires transportant des substances ou matières radioactives ou autres substances intrinsèquement dangereuses ou nocives. Les voies de circulation et les dispositifs de séparation du trafic sont indiqués sur des cartes maritimes qui reçoivent la publicité voulue.
+
+Ces mêmes autorités peuvent sans établir aucune discrimination de droit ou de fait entre, les navires étranger, suspendre temporairement dans des zones déterminées des eaux territoriales, l'exercice du droit de passage inoffensif des navires étrangers, si cette mesure est indispensable pour assurer la sécurité de l'Etat, entre autres pour permettre de procéder à des exercices d'armes. La suspension ne prend effet qu'après avoir été dûment publiée.

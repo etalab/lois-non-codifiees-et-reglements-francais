@@ -1,3 +1,3 @@
 # Article 6
 
-La présente loi est applicable dans la collectivité territoriale de Mayotte.
+La présente loi est applicable à Mayotte.

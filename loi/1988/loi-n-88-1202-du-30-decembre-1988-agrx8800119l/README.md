@@ -4,3 +4,4 @@
 - [Chapitre Ier : Dispositions relatives à l'exploitation agricole.](chapitre-ier)
 - [Chapitre II : Le règlement amiable, le redressement et la liquidation judiciaires de l'exploitation agricole](chapitre-ii)
 - [Chapitre III : Dispositions sociales.](chapitre-iii)
+- [Chapitre IV : Dispositions diverses.](chapitre-iv)

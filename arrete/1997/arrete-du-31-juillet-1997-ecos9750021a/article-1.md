@@ -4,8 +4,8 @@ Il est créé à l'Institut national de la statistique et des études économiqu
 
 Les finalités du traitement sont :
 
-- la détermination de la population légale de la collectivité territoriale de Mayotte ;
+- la détermination de la population légale de Mayotte ;
 
 - la production de statistiques socio-démographiques anonymes à tous les niveaux géographiques et administratifs ;
 
-- la constitution d'une base d'échantillonnage de logements en vue des enquêtes statistiques ultérieures de l'Institut national de la statistique et des études économiques dans la collectivité territoriale de Mayotte.
+- la constitution d'une base d'échantillonnage de logements en vue des enquêtes statistiques ultérieures de l'Institut national de la statistique et des études économiques à Mayotte.

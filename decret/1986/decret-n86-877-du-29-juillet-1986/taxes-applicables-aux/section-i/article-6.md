@@ -6,4 +6,4 @@ Les envois classés dans la catégorie " autres journaux ", aux termes de l'arti
 
 2° Dans les relations réciproques de Saint-Pierre-et-Miquelon avec la métropole et les autres départements d'outre-mer ;
 
-3° Au départ de la métropole et des départements d'outre-mer à destination des territoires d'outre-mer et de la collectivité territoriale de Mayotte.
+3° Au départ de la métropole et des départements d'outre-mer à destination des territoires d'outre-mer et de Mayotte.

@@ -2,7 +2,7 @@
 
 Le service est ouvert :
 
-Dans les relations réciproques entre la France métropolitaine, les départements d'outre-mer et la collectivité territoriale de Mayotte.
+Dans les relations réciproques entre la France métropolitaine, les départements d'outre-mer et la Mayotte.
 
 Au départ des zones précitées à destination :
 
@@ -12,7 +12,7 @@ Au départ des zones précitées à destination :
 
 Au départ de la collectivité de Saint-Pierre-et-Miquelon à destination :
 
-- de la France métropolitaine, des départements d'outre-mer et de la collectivité territoriale de Mayotte ;
+- de la France métropolitaine, des départements d'outre-mer et de Mayotte ;
 
 - des territoires d'outre-mer et de la poste aux armées ;
 

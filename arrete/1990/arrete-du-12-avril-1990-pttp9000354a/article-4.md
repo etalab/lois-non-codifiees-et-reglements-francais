@@ -12,7 +12,7 @@ SURTAXE par 10 g (en francs)
 
 France métropolitaine.
 
-Départements d'outre-mer et collectivité territoriale de Mayotte (1)
+Départements d'outre-mer et Mayotte (1)
 
 0,10
 

@@ -1,0 +1,3 @@
+# Article 38
+
+Nonobstant toutes dispositions contraires, les officiers de sapeurs-pompiers du grade de capitaine pourront, pendant une période d'un an [*durée*] à compter de la publication de la présente loi, être nommés directeurs départementaux des services d'incendie et de secours, [*conditions*] s'ils ont exercé pendant trois ans au moins les fonctions de chef d'un service d'incendie et de secours et cumulativement les fonctions d'inspecteur adjoint dans un département chef-lieu de région ou classé et s'ils ont satisfait aux épreuves du brevet d'aptitude à l'emploi de directeur départemental des services d'incendie et de secours.

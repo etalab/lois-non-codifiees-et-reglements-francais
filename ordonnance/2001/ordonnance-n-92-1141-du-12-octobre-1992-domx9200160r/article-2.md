@@ -1,0 +1,3 @@
+# Article 2
+
+La présente ordonnance entrera en vigueur au 1er mars 1993. Toutefois, entrent en vigueur à la date de publication de la présente ordonnance les articles L. 942-12, L. 942-13, L. 942-17, L. 942-21, L. 943-7, L. 943-9, L. 944-1 et L. 944-3 du code de l'organisation judiciaire relatifs aux assesseurs au tribunal supérieur d'appel, au tribunal de première instance et au tribunal pour enfants, en ce que leurs dispositions sont applicables à la désignation desdits assesseurs, les listes prévues aux articles L. 942-13 et L. 943-7 devant être arrêtées, pour la première désignation, avant le 1er mars 1993.

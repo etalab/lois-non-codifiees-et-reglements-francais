@@ -1,3 +1,3 @@
 # Article 39
 
-La présente loi est applicable dans la collectivité territoriale de Mayotte, à l'exception du III de l'article 22 en ce qu'il modifie les dix-huitième (17°) et dix-neuvième (18°) alinéas de l'article L. 195 du code électoral et des articles 25 et 30 à 38.
+Le titre II de la présente loi est applicable en Polynésie française et à Mayotte.

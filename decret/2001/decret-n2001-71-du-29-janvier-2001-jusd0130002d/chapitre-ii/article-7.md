@@ -1,6 +1,6 @@
 # Article 7
 
-Le présent décret est applicable dans la collectivité territoriale de Mayotte.
+Le présent décret est applicable à Mayotte.
 
 Il est applicable en Nouvelle-Calédonie, en Polynésie française et dans les îles Wallis et Futuna, sous réserve des adaptations suivantes :
 

@@ -225,6 +225,7 @@
 - [Décret n°99-578 du 8 juillet 1999 (MENF9901009D)](decret-n99-578-du-8-juillet-1999-menf9901009d)
 - [Décret n°99-597 du 8 juillet 1999 (ECOM9900705D)](decret-n99-597-du-8-juillet-1999-ecom9900705d)
 - [Décret n°99-598 du 8 juillet 1999 (AGRP9900781D)](decret-n99-598-du-8-juillet-1999-agrp9900781d)
+- [Décret n°99-599 du 8 juillet 1999 (AGRM9900676D)](decret-n99-599-du-8-juillet-1999-agrm9900676d)
 - [Décret n°99-608 du 8 juillet 1999 (EQUA9900470D)](decret-n99-608-du-8-juillet-1999-equa9900470d)
 - [Décret n°99-613 du 8 juillet 1999 (INTE9900054D)](decret-n99-613-du-8-juillet-1999-inte9900054d)
 - [Décret n°99-618 du 8 juillet 1999 (EQUA9900467D)](decret-n99-618-du-8-juillet-1999-equa9900467d)

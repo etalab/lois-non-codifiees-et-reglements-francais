@@ -12,7 +12,7 @@ En outre, le quart en moyenne sur la période 1987-1991 des actions engagées au
 
 2. Les aides de l'Etat aux investissements productifs seront améliorées afin de leur donner un caractère plus incitatif grâce à une procédure administrative rapide et simple. La décision d'octroi des primes et des aides, lorsqu'elles existent, sera déconcentrée au niveau du représentant de l'Etat dans chaque région.
 
-Ce régime, qui sera étendu à la collectivité territoriale de Mayotte, fera l'objet d'un décret dans le délai d'un an à compter de la publication de la présente loi.
+Ce régime, qui sera étendu à Mayotte, fera l'objet d'un décret dans le délai d'un an à compter de la publication de la présente loi.
 
 3. Dans le but de faire bénéficier les populations d'outre-mer et l'économie de ces départements de liens efficaces avec la métropole, l'Etat prendra les mesures propres à disposer de moyens de transport aérien élargis et bon marché. Cet objectif suppose l'instauration progressive d'une concurrence entre les transporteurs nationaux compatible avec les obligations du service public.
 

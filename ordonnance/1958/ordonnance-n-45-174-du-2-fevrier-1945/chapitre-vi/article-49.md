@@ -1,6 +1,6 @@
 # Article 49
 
-Pour l'application de la présente ordonnance dans la collectivité territoriale de Mayotte, les mots suivants sont remplacés comme suit :
+Pour l'application de la présente ordonnance à Mayotte, les mots suivants sont remplacés comme suit :
 
 - "chambre spéciale de la cour d'appel" par : "tribunal supérieur d'appel" ;
 

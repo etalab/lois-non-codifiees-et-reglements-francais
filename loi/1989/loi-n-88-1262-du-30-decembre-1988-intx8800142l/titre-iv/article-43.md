@@ -1,6 +1,6 @@
 # Article 43
 
-Pour l'application de la présente loi dans la collectivité territoriale de Mayotte, il y a lieu de lire :
+Pour l'application de la présente loi à Mayotte, il y a lieu de lire :
 
 1° "collectivité territoriale" au lieu de "département" ;
 

@@ -1,0 +1,3 @@
+# Article 15
+
+Dans le cas où le bénéficiaire de la dotation d'installation en agriculture ne satisfait plus après son installation aux conditions d'attribution prévues aux articles 2 (2°), 3 (5°) et 3 (6°) du présent décret, il est déchu de ses droits à la dotation d'installation et il est alors tenu de rembourser l'aide perçue au titre de la dotation d'installation en agriculture. Au vu de la décision de déchéance prononcée par le représentant de l'Etat, le recouvrement est engagé après émission d'un ordre de recettes établi par le Centre national pour l'aménagement des structures des exploitations agricoles.

@@ -14,7 +14,7 @@ a) Demandes concernant les personnes nées en métropole ou dans les départemen
 
 - 3,27 F par demande.
 
-b) Demandes concernant les personnes nées à l'étranger, ou dans les territoires d'outre-mer, ou dans la collectivité territoriale de Mayotte :
+b) Demandes concernant les personnes nées à l'étranger, ou dans les territoires d'outre-mer, ou à Mayotte :
 
 - présentées sur bande magnétique :
 

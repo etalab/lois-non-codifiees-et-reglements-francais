@@ -14,13 +14,15 @@ Les dotations régionales de formation professionnelle et d'apprentissage doiven
 
 Enfin, l'Etat accroîtra son effort financier pour l'embauche des jeunes de seize à vingt-cinq ans dans le cadre des chantiers de développement.
 
-Les dispositions prévues aux alinéas précédents s'appliquent à la collectivité territoriale de Saint-Pierre-et-Miquelon et, à partir de 1988, à la collectivité territoriale de Mayotte.
+Les dispositions prévues aux alinéas précédents s'appliquent à la collectivité territoriale de Saint-Pierre-et-Miquelon et, à partir de 1988, à Mayotte.
 
 II. - En matière d'éducation.
 
-L'Etat considère comme prioritaires l'amélioration des équipements scolaires et de la qualité de l'encadrement pédagogique ainsi que le développement de l'enseignement agricole, professionnel, technique et technologique dans les départements d'outre-mer et les collectivités territoriales de Mayotte et de Saint-Pierre-et-Miquelon.
+L'Etat considère comme prioritaires l'amélioration des équipements scolaires et de la qualité de l'encadrement pédagogique ainsi que le développement de l'enseignement agricole, professionnel, technique et technologique dans les départements d'outre-mer à Mayotte et à Saint-Pierre-et-Miquelon.
 
-L'Etat s'engage en outre à financer le développement de formations technologiques supérieures et de l'enseignement des langues étrangères dans les académies des Antilles et de la Guyane et de la Réunion. Les structures qui assureront ces formations (I.U.T., autres formations universitaires, lycées) seront déterminées après étude des besoins et débouchés et d'ici le 1er juillet 1987 [*date*].    Un programme particulier sera mis en place pour Saint-Pierre-et-Miquelon et Mayotte.
+L'Etat s'engage en outre à financer le développement de formations technologiques supérieures et de l'enseignement des langues étrangères dans les académies des Antilles et de la Guyane et de la Réunion. Les structures qui assureront ces formations (I.U.T., autres formations universitaires, lycées) seront déterminées après étude des besoins et débouchés et d'ici le 1er juillet 1987 [*date*].
+
+Un programme particulier sera mis en place pour Saint-Pierre-et-Miquelon et Mayotte.
 
 III. - En matière d'équipement sanitaire et social.
 

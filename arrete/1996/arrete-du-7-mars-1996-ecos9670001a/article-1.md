@@ -30,7 +30,7 @@ Demandes présentées sur support papier : 30 F par demande réceptionnée plus 
 
 Demandes soumises en mode transactionnel : 2,17 F par identification.
 
-b) Demandes concernant les personnes nées à l'étranger, dans les territoires d'outre-mer ou dans la collectivité territoriale de Mayotte :
+b) Demandes concernant les personnes nées à l'étranger, dans les territoires d'outre-mer ou à Mayotte :
 
 Demandes présentées sur support magnétique ou par télétransmission : 4,30 F par identification ;
 

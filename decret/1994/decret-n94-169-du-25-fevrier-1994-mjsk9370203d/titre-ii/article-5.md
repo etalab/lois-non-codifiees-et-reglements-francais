@@ -1,6 +1,6 @@
 # Article 5
 
-Dans chaque département du territoire métropolitain, dans chaque département d'outre-mer ainsi que dans la collectivité territoriale de Mayotte, le directeur départemental de la jeunesse, des sports et des loisirs est chargé, sous l'autorité du préfet de département et à Mayotte sous l'autorité du représentant du Gouvernement, de mettre en oeuvre la politique nationale dans les domaines des activités physiques et sportives, de la jeunesse, de l'éducation populaire et des loisirs.
+Dans chaque département du territoire métropolitain, dans chaque département d'outre-mer ainsi que à Mayotte, le directeur départemental de la jeunesse, des sports et des loisirs est chargé, sous l'autorité du préfet de département et à Mayotte sous l'autorité du représentant du Gouvernement, de mettre en oeuvre la politique nationale dans les domaines des activités physiques et sportives, de la jeunesse, de l'éducation populaire et des loisirs.
 
 A ce titre :
 
@@ -16,4 +16,4 @@ A ce titre :
 
 6° Dans le cadre des orientations définies par les ministres compétents, il participe à l'élaboration des programmes d'aménagement des rythmes de vie de l'enfant, en collaboration avec les collectivités territoriales et les groupements intéressés.
 
-Dans les départements d'outre-mer ainsi que dans la collectivité territoriale de Mayotte, le directeur départemental de la jeunesse, des sports et des loisirs assure en outre les missions définies aux articles 2 et 3 du présent décret.
+Dans les départements d'outre-mer ainsi que à Mayotte, le directeur départemental de la jeunesse, des sports et des loisirs assure en outre les missions définies aux articles 2 et 3 du présent décret.

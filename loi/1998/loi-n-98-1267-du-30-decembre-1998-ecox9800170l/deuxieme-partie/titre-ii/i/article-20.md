@@ -1,6 +1,6 @@
 # Article 20
 
-I. - A titre transitoire, le conseil général de Mayotte, sur proposition du représentant du Gouvernement, demeure autorisé à aménager l'assiette et à modifier les taux et les conditions de recouvrement des impôts et contributions existant à la date de la présente loi et perçus au profit de la collectivité territoriale.
+I. - A titre transitoire, le conseil général de Mayotte, sur proposition du représentant de l'Etat, demeure autorisé à aménager l'assiette et à modifier les taux et les conditions de recouvrement des impôts et contributions existant à la date de la présente loi et perçus au profit de la collectivité territoriale.
 
 Les délibérations sont soumises à l'approbation du ministre chargé des départements et territoires d'outre-mer. Elles sont tenues pour approuvées à l'expiration d'un délai de trois mois suivant la date de leur réception au ministère chargé des départements et territoires d'outre-mer.
 

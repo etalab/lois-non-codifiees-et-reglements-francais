@@ -4,6 +4,6 @@ Pour développer des activités répondant à des besoins non satisfaits, l'Etat
 
 Ces personnels, leurs conjoints et leurs enfants bénéficient des dispositions de l'article 20 de la présente loi.
 
-Lorsqu'il est exécuté dans un territoire d'outre-mer ou dans la collectivité territoriale de Mayotte, le contrat de droit public des adjoints de sécurité est soumis, sauf stipulations expresses contraires, aux dispositions qui lui sont applicables dans les départements.
+Lorsqu'il est exécuté dans un territoire d'outre-mer ou à Mayotte, le contrat de droit public des adjoints de sécurité est soumis, sauf stipulations expresses contraires, aux dispositions qui lui sont applicables dans les départements.
 
 Un décret en Conseil d'Etat fixe les modalités d'application du présent article. Il définit notamment les missions des adjoints de sécurité ainsi que les conditions d'évaluation des activités concernées.

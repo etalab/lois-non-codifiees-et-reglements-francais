@@ -1,6 +1,6 @@
 # Article 22-1
 
-Le présent décret est applicable dans la collectivité territoriale de Mayotte et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations suivantes en ce qui concerne la collectivité territoriale de Mayotte :.
+Le présent décret est applicable à Mayotte et dans le territoire des Terres australes et antarctiques françaises sous réserve des adaptations suivantes en ce qui concerne la Mayotte :.
 
 Au d de l'article 2, au c de l'article 3 et au d de l'article 4 ci-dessus, les mots : ou de dation au sens de la loi susvisée du 31 décembre 1968 sont supprimés.
 

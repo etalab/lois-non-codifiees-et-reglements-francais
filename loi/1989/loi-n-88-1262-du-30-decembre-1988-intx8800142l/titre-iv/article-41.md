@@ -1,6 +1,6 @@
 # Article 41
 
-Pour l'application de la présente loi dans les territoires de la Nouvelle-Calédonie et de la Polynésie française, il y a lieu de lire :
+Pour l'application de la présente loi en Nouvelle-Calédonie et dans le territoire de la Polynésie française, il y a lieu de lire :
 
 1° "haut-commissaire" et "services du haut-commissaire" au lieu de "préfet" et de "préfecture" ;
 
