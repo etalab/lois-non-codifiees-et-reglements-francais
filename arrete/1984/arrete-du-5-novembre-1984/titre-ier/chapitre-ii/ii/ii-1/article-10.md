@@ -38,9 +38,7 @@ Pour obtenir l'immatriculation du véhicule à son nom, l'héritier ou l'un des 
 
 6. Un certificat de non-opposition au transfert du certificat d'immatriculation établi depuis moins de deux mois par la préfecture qui a délivré la précédente carte grise.
 
-Avant toute revente à un tiers, un véhicule tombé dans une succession doit être immatriculé au nom de l'héritier ou d'un des
-
-héritiers sauf si cette revente intervient dans un délai n'excédant pas trois mois suivant le décès du titulaire de la carte grise ou sauf si, depuis le décès du titulaire, le véhicule n'a pas circulé sur les voies ouvertes à la circulation publique. Dans ce dernier cas, l'acquéreur devra joindre en sus des pièces visées aux paragraphes 1 à 3 ci-dessus :
+Avant toute revente à un tiers, un véhicule tombé dans une succession doit être immatriculé au nom de l'héritier ou d'un des héritiers sauf si cette revente intervient dans un délai n'excédant pas trois mois suivant le décès du titulaire de la carte grise ou sauf si, depuis le décès du titulaire, le véhicule n'a pas circulé sur les voies ouvertes à la circulation publique. Dans ce dernier cas, l'acquéreur devra joindre en sus des pièces visées aux paragraphes 1 à 3 ci-dessus :
 
 1° Un certificat de cession signé par le ou les héritiers ;
 
@@ -80,6 +78,8 @@ Les pièces à fournir sont :
 
 2. [*supprimé*]
 
+10.C. - Cas des véhicules immatriculés hors du territoire métropolitain (avec ou sans changement de propriétaire).
+
 a) Pour les véhicules précédemment immatriculés dans un Etat membre de l'Union européenne, les pièces à fournir par le propriétaire pour l'obtention d'une carte grise à son nom sont :
 
 1. Une demande de certificat d'immatriculation sur l'imprimé réglementaire accompagnée des pièces justificatives d'identité et de domicile ;
@@ -91,6 +91,8 @@ a) Pour les véhicules précédemment immatriculés dans un Etat membre de l'Uni
 - soit un certificat international pour automobile en cours de validité délivré par ces autorités.
 
 3. Un procès-verbal de réception à titre isolé délivré par la direction régionale de l'industrie, de la recherche et de l'environnement ;
+
+" ... ou bien un certificat de conformité d'un véhicule usagé à un type réceptionné, délivré par le constructeur ou son représentant en France selon les modèles annexés au présent arrêté et les modalités fixées par le ministre chargé des transports. "
 
 4. S'il y a eu vente, le certificat de cession (ou la facture) établie au nom du demandeur de la carte grise ;
 
