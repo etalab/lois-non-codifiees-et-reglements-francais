@@ -14,4 +14,6 @@ d) Pour les groupements d'intérêt économique : nom du ou des administrateurs 
 
 e) Le cas échéant, nature des fabrications exécutées pour les armées et indication sommaire de leur importance.
 
+f) Nature de l'activité ou des activités exercées.
+
 La carte nationale d'identité, et pour les étrangers, le passeport ou le titre de séjour font foi de la nationalité du requérant.

@@ -40,4 +40,6 @@ La longueur de référence du canon d'une arme d'épaule se mesure de l'extrémi
 
 - élément de munition : partie d'une munition telle que projectile, amorce, douille, douille amorcée, douille chargée, douille amorcée et chargée ;
 
-- armurier : pour l'application du titre V, un armurier s'entend de toute personne physique ou morale dont l'activité professionnelle consiste en tout ou en partie dans la fabrication, le commerce, l'échange, la location, la réparation ou la transformation d'armes à feu.
+- armurier : toute personne physique ou morale dont l'activité professionnelle consiste en tout ou en partie dans la fabrication, le commerce, l'échange, la location, la réparation ou la transformation d'armes à feu ;
+
+- activité d'intermédiation : toute opération à caractère commercial ou à but lucratif dont l'objet est soit de rapprocher des personnes souhaitant conclure un contrat d'achat ou de vente de matériels de guerre ou de matériels assimilés, soit de conclure un tel contrat pour le compte d'une des parties. Cette opération d'intermédiation faite au profit de toute personne quel que soit le lieu de son établissement prend la forme d'une opération de courtage ou bien celle d'une opération faisant l'objet d'un mandat particulier ou d'un contrat de commission.
