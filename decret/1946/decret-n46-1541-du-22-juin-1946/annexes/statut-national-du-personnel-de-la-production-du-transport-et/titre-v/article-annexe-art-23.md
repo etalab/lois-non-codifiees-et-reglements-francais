@@ -4,11 +4,15 @@ Régime spécial de sécurité sociale.
 
 Paragraphe 1.
 
-Les agents statutaires en activité, en inactivité de service, ainsi que leurs ayants droit au sens de la législation de la sécurité sociale relèvent, pour les prestations en nature des assurances maladie, maternité, accidents du travail et maladies professionnelles, d'un régime spécial au sens de l'article L. 711-1 du code de la sécurité sociale. Ces prestations en nature comprennent :
+Les agents statutaires en activité, en inactivité de service et pensionnés de tous ordres, ainsi que leurs ayants droit au sens de la législation de la sécurité sociale et ceux définis par le règlement commun des caisses mutuelles complémentaires et d'action sociale prévu par le paragraphe 4, quatrième alinéa, du présent article, relèvent, pour les prestations en nature des assurances maladie, maternité, accidents du travail et maladies professionnelles, d'un régime spécial au sens de l'article L. 711-1 du code de la sécurité sociale.
+
+Ces prestations comprennent :
 
 a) Les prestations en nature du régime général d'assurance maladie, maternité, accidents du travail et maladies professionnelles auquel les intéressés sont affiliés ;
 
-b) Des prestations servies par le régime complémentaire d'assurance maladie et maternité institué par le présent article et auquel les intéressés sont obligatoirement affiliés.
+b) Les prestations servies par le régime complémentaire d'assurance maladie et maternité institué par le présent article et auquel les intéressés sont obligatoirement affiliés.
+
+Les agents exerçant une activité médicale ou sociale au profit des industries électriques et gazières, et limitativement énumérés dans le règlement commun des caisses mutuelles complémentaires et d'action sociale, peuvent opter pour le bénéfice des prestations prévues au point b ci-dessus.
 
 I. - Le financement du régime de base.
 
@@ -24,7 +28,7 @@ Sont également exclues de l'assiette des cotisations les primes et les indemnit
 
 Sont en revanche incluses dans l'assiette des cotisations les primes et les indemnités liées à la fonction qui sont versées, en application de l'article 28 du présent statut :
 
-- au titre de l'aide à la mobilité géographique sur le territoire métropolitain ou de la mobilité fonctionnelle, et qui n'ont pas le caractère de remboursement de frais  ;
+- au titre de l'aide à la mobilité géographique sur le territoire métropolitain ou de la mobilité fonctionnelle, et qui n'ont pas le caractère de remboursement de frais ;
 
 - au titre de l'aide au logement.
 
@@ -54,9 +58,9 @@ Les caisses mutuelles complémentaires et d'action sociale peuvent adhérer aux 
 
 Paragraphe 5.
 
-Les caisses mutuelles complémentaires et d'action sociale sont administrées par des conseils d'administration composés de 18 membres si la caisse compte moins de 500 agents, et de 24 membres si la caisse compte au moins 500 agents ; ces membres sont élus pour trois ans par les agents statutaires regroupés dans chaque caisse. Les élections ont lieu à bulletin secret au scrutin de liste avec représentation proportionnelle suivant la règle de la plus forte moyenne. Les modalités des élections sont réglées par la commission supérieure nationale du personnel.
+Les caisses mutuelles complémentaires et d'action sociale sont administrées par des conseils d'administration composés de 18 membres si la caisse compte moins de 500 agents, et de 24 membres si la caisse compte au moins 500 agents ; ces membres sont élus pour trois ans par les agents statutaires regroupés dans chaque caisse. Les élections ont lieu à bulletin secret au scrutin de liste avec représentation proportionnelle suivant la règle de la plus forte moyenne. Les modalités des élections des membres des conseils d'administration des caisses mutuelles complémentaires et d'action sociale sont déterminées par accord collectif de branche.
 
-Dans chaque caisse mutuelle complémentaire et d'action sociale, ne peuvent être candidats à un mandat d'administrateur que les agents statutaires depuis au moins trois ans. Les membres sortants sont rééligibles.
+Dans chaque caisse mutuelle complémentaire et d'action sociale, ne peuvent être candidats à un mandat d'administrateur que les agents statutaires depuis au moins un an. Les membres sortants sont rééligibles.
 
 Lorsqu'un membre est dans l'impossibilité d'achever son mandat, le premier des candidats non élus figurant sur la même liste le remplace jusqu'au prochain renouvellement.
 
@@ -72,47 +76,61 @@ Le comité de coordination, doté de la personnalité morale, représente les ca
 
 a) Le comité de coordination est composé de 30 membres des conseils d'administration des caisses mutuelles complémentaire et d'action sociale, élus au scrutin secret pour trois ans, par l'ensemble des membres desdits conseils, à la représentation proportionnelle, suivant la règle de la plus forte moyenne. Le comité de coordination élit son président parmi les membres de ce comité, au scrutin secret.
 
-Le règlement du comité de coordination des caisses mutuelles complémentaires et d'action sociale est établi par arrêté du ministre chargé du gaz et de l'électricité et du ministre chargé de la sécurité sociale, après avis de la commission supérieure nationale du personnel.
+Il est créé au sein du comité de coordination une commission de répartition et de suivi budgétaire composée de treize membres du comité de coordination. Les modalités de la désignation de ces membres et le fonctionnement de cette commission sont fixés par le règlement du comité de coordination prévu au troisième alinéa ci-dessous.
 
-Les réunions du comité de coordination relatives au régime spécial de sécurité sociale font l'objet d'un procès-verbal qui est transmis dans les vingt jours aux membres du comité, au commissaire du Gouvernement et à un représentant des services, exploitations et entreprises désigné par le ministre chargé du gaz et de l'électricité sur proposition des services, exploitations et entreprises. Ce représentant est également destinataire de tous les documents adressés aux membres du comité de coordination ou remis en séance.
+Le règlement du comité de coordination des caisses mutuelles complémentaires et d'action sociale est établi par arrêté du ministre chargé du gaz et de l'électricité, du ministre chargé de la sécurité sociale et du ministre du budget, après avis de la commission supérieure nationale du personnel.
 
-b) Un commissaire du Gouvernement est nommé auprès du comité de coordination par arrêté pris par le ministre chargé du gaz et de l'électricité, du ministre chargé de la sécurité sociale et du ministre chargé du budget.
+Les réunions du comité de coordination relatives au régime spécial de sécurité sociale font l'objet d'un procès-verbal qui est transmis au plus tard dans les trente jours aux membres du comité, au commissaire du Gouvernement nommé dans les conditions du point b ci-dessous et au représentant des organisations professionnelles représentatives des employeurs des industries électriques et gazières désigné par le ministre chargé du gaz et de l'électricité, sur proposition desdites organisations sur proposition des services, exploitations et entreprises. Ce représentant est également destinataire de tous les documents adressés aux membres du comité de coordination ou remis en séance pour ces réunions.
 
-Il assiste de plein droit aux réunions relatives au régime spécial de sécurité sociale. Il dispose d'un droit de suspension sur les délibérations du comité de coordination qui concernent le régime spécial de sécurité sociale dans les conditions précisées dans le règlement du comité de coordination. Il en rend compte aux autorités de tutelle qui disposent d'un pouvoir d'annulation selon les modalités fixées par le règlement du comité.
+b) Un commissaire du Gouvernement est nommé auprès du comité de coordination par arrêté pris par le ministre chargé du gaz et de l'électricité, du ministre chargé de la sécurité sociale et du ministre chargé du budget. Ces derniers désignent également les agents, appartenant à leurs services, qui peuvent suppléer le commissaire du Gouvernement en cas d'empêchement de ce dernier.
 
-Le commissaire du Gouvernement assiste de plein droit aux réunions de la commission budgétaire mentionnée au paragraphe 10 du présent article.
+Le commissaire du Gouvernement peut assister aux réunions du comité de coordination relatives au régime spécial de sécurité sociale. Il reçoit tous les documents relatifs à ces réunions ainsi que les procès-verbaux des délibérations dans les conditions fixées par le règlement du comité de coordination.
 
-c) Sur proposition du ministre chargé de la sécurité sociale et après avis du comité de coordination, un agent de contrôle comptable est nommé par arrêté du ministre chargé de la sécurité sociale.
+Il peut suspendre une délibération lorsqu'elle lui paraît contraire à la loi ou aux règlements ou de nature à compromettre l'équilibre financier du régime spécial. Il fait part de ses observations aux autorités de tutelle et au comité de coordination. Le comité de coordination prend une nouvelle délibération qui tient compte de ces observations dans un délai de trente jours.
 
-L'agent de contrôle comptable exerce les fonctions d'agent comptable auprès du comité de coordination dans les conditions fixées par le code de la sécurité sociale, notamment aux articles D. 253-9 à D. 253-14, D. 253-26 à D. 253-28 et D. 253-64 à D. 253-83. Il assiste de plein droit aux réunions du comité de coordination relatives au régime spécial de sécurité sociale, y compris à celles de la commission budgétaire.
+c) Il est constitué une assemblée générale des caisses mutuelles complémentaires et d'action sociale chargée de la détermination et du suivi des principes directeurs des budgets de la gestion administrative applicables à l'ensemble des caisses. L'assemblée générale se réunit au moins une fois par an. Elle établit lors de sa première réunion son règlement intérieur, qui est soumis à l'approbation de commissaire du Gouvernement auprès du comité de coordination.
 
-Il vérifie que les besoins exprimés par les caisses mutuelles complémentaires et d'action sociale pour le remboursement des prestations et pour leur fonctionnement administratif sont justifiés. A ce titre, il a accès à toutes les pièces comptables nécessaires au contrôle qu'il exerce dans le cadre de la gestion technique du régime complémentaire et de la gestion administrative du régime spécial de sécurité sociale. Il s'assure que toutes les opérations répondent aux dispositions législatives et réglementaires en vigueur.
+Elle détermine le taux de la dotation à la réserve de sécurité du fonds national de gestion administrative prévu au paragraphe 9 ci-dessous et examine les demandes faites dans le cadre de la procédure d'alerte décrite au paragraphe 10, point c, ci-dessous.
 
-d) Le comité de coordination est placé, pour la gestion du régime spécial de sécurité sociale, sous les contrôles prévus par la réglementation en vigueur pour les organismes de sécurité sociale, notamment les articles D. 253-57 à D. 253-63 du code de la sécurité sociale.
+L'assemblée générale examine les bilans du fonds national de gestion technique, du fonds national de gestion administrative et du fonds national de réserves solidaires prévus au paragraphe 9 du présent article.
+
+Elle peut définir un cadre de cohérence pour les projets d'actions envisagés par les caisses mutuelles complémentaires et d'action sociale selon les dispositions du paragraphe 8 ci-dessous.
+
+d) La trésorerie du régime complémentaire est constituée par les trois fonds nationaux fixés au paragraphe 9 ci-dessous.
+
+Les sommes affectées à ces fonds sont versées sur un compte unique ouvert dans un établissement bancaire retenu par le comité de coordination.
+
+La comptabilité est organisée en subdivisions permettant de suivre les mouvements de crédit et de débit passés au titre de chacun des trois fonds nationaux.
+
+Le comité de coordination s'informe, chaque jour, auprès de l'établissement bancaire de la situation du compte et doit être en mesure de fournir tout document bancaire retraçant les soldes journaliers du compte à la demande soit des autorités de tutelle, soit du commissaire du Gouvernement mentionné au point b ci-dessus.
 
 Paragraphe 7.
 
 Les caisses mutuelles complémentaires et d'action sociale sont admises à gérer les prestations en nature du régime général en qualité de sections locales ou correspondants locaux des caisses d'assurance maladie du régime général dans les conditions prévues par le code de la sécurité sociale, ainsi que les prestations en nature du régime complémentaire dans les conditions définies au présent article.
 
-Les prestations complémentaires de celles du régime général, servies par les caisses mutuelles complémentaires et d'action sociale, au titre de la gestion du régime spécial mentionné au paragraphe 1, en cas de maladie ou de maternité au personnel en activité ou en inactivité, sont déterminées par le règlement commun prévu au paragraphe 4 du présent article. Ces avantages sont assurés aux pensionnés de tous ordres ainsi qu'à leurs ayants droit, tels que définis par le règlement des caisses mutuelles complémentaires et d'action sociale.
+Les prestations complémentaires de celles du régime général, servies par les caisses mutuelles complémentaires et d'action sociale, au titre de la gestion du régime spécial mentionné au paragraphe 1, en cas de maladie ou de maternité au personnel en activité ou en inactivité, sont déterminées par le règlement commun prévu au paragraphe 4 du présent article. Ces prestations sont assurées aux agents en activité, en inactivité de service, aux pensionnés de tous ordres ainsi qu'à leurs ayants droit, tels que définis par le règlement commun des caisses mutuelles complémentaires et d'action sociale.
 
-Les caisses mutuelles complémentaires et d'action sociale sont placées, pour la gestion du régime spécial mentionné au paragraphe 1 du présent article, sous les contrôles prévus par la réglementation en vigueur pour les organismes de sécurité sociale, notamment les articles D. 253-57 à D. 253-63 du code de la sécurité sociale.
+Les caisses mutuelles complémentaires et d'action sociale sont placées, pour la gestion du régime spécial mentionné au paragraphe 1 du présent article, sous les contrôles prévus par la réglementation en vigueur pour les organismes de sécurité sociale, notamment les articles D. 253-57 à D. 253-63 du code de la sécurité sociale et par le règlement commun des caisses mutuelles complémentaires et d'action sociale prévu au paragraphe 4 du présent article.
 
-Les trésoriers des caisses mutuelles complémentaires et d'action sociale fournissent à l'agent de contrôle comptable du comité de coordination les pièces justificatives nécessaires aux appels de fonds pour le paiement des prestations par le Fonds national de gestion technique et à l'exécution du budget de gestion administrative de la caisse.
+Les trésoriers des caisses mutuelles complémentaires et d'action sociale fournissent au comité de coordination les pièces justificatives nécessaires aux appels de fonds pour le paiement des prestations par le Fonds national de gestion technique et à l'exécution du budget de gestion administrative de la caisse.
 
 IV. - Le financement du régime complémentaire.
-
-Les ressources.
 
 Paragraphe 8.
 
 Les cotisations assises sur les salaires définis à l'article 9, paragraphe 3, du présent statut et les pensions qui sont destinées au financement du régime complémentaire obligatoire d'assurance maladie et maternité sont supportées pour moitié par les services, exploitations ou entreprises et pour moitié par les agents en activité et les pensionnés.
 
-Le plafond et le taux de ces cotisations sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale, du ministre chargé du gaz et de l'électricité et du ministre chargé du budget, sur proposition du comité de coordination ou sur l'initiative du ministre chargé du gaz et de l'électricité, après avis des directeurs généraux d'Electricité de France et de Gaz de France et des organisations représentatives des entreprises non nationalisées.
+Le plafond et le taux de ces cotisations sont fixés par décret pris sur le rapport du ministre chargé de la sécurité sociale, du ministre chargé du gaz et de l'électricité et du ministre chargé du budget, sur proposition du comité de coordination ou sur l'initiative du ministre chargé du gaz et de l'électricité, après avis des organisations représentatives des employeurs des industries électriques et gazières.
+
+Les recettes des caisses mutuelles complémentaires et d'action sociale proviennent des cotisations réparties par le comité de coordination.
 
 Les dépenses des caisses mutuelles complémentaires et d'action sociale relatives au régime complémentaire sont constituées des prestations complémentaires à celles servies par le régime général et des frais de gestion de ce régime complémentaire.
 
 Les caisses mutuelles complémentaires et d'action sociale ont la possibilité de participer au financement d'actions locales de prévention en matière de santé et d'adhérer à cet effet à des unions mutualistes, dans la limite de 5 % de leur budget de gestion administrative, hors investissement, du régime spécial. Cette enveloppe est majorée ou minorée du résultat de gestion administrative de l'exercice précédent. En cas de majoration, celle-ci est limitée à 2,5 % de ce même budget.
+
+Les projets d'actions envisagés par les caisses mutuelles complémentaires et d'action sociale peuvent s'insérer dans un cadre de cohérence défini par l'assemblée générale des caisses mutuelles complémentaires et d'action sociale.
+
+Ces actions sont retracées dans une ligne spécifique du compte national de gestion administrative.
 
 Paragraphe 9.
 
@@ -120,11 +138,11 @@ Les trois fonds gérés par le comité de coordination sont :
 
 a) Le fonds national de gestion technique.
 
-Les recettes du fonds sont constituées des cotisations du régime complémentaire mentionnées au paragraphe 8 et des produits financiers. Les cotisations sont versées intégralement et directement par les services, exploitants et entreprises à un compte bancaire ouvert par le comité de coordination.
+Les recettes du fonds sont constituées des cotisations du régime complémentaire mentionnées au paragraphe 8 et des produits financiers. Les cotisations sont versées intégralement et directement par les services, exploitants et entreprises à un compte bancaire ouvert par le comité de coordination dans un établissement bancaire national retenu par le comité de coordination.
 
 Les dépenses de ce fonds sont constituées :
 
-- des prestations du régime complémentaire, dites charges techniques ; les montants nécessaires au paiement des prestations dues aux affiliés sont versés sur le compte ouvert par les caisses mutuelles complémentaires et d'action sociale auprès de la succursale de l'établissement bancaire choisi par le comité de coordination, sur présentation des bordereaux de paiement des affiliés présentés par la caisse qui a procédé à la liquidation du dossier ; ces bordereaux sont également transmis au comité de coordination ;
+- des prestations du régime complémentaire, dites charges techniques ; les montants nécessaires au paiement des prestations dues aux affiliés sont versés par l'établissement bancaire national sur le compte ouvert dans une de ses succursales par les caisses mutuelles complémentaires et d'action sociale, après autorisation du comité de coordination donnée sur présentation des bordereaux de mise en paiement des affiliés par la caisse qui a procédé à la liquidation du dossier ;.
 
 - de la dotation au fonds national de gestion administrative ;
 
@@ -134,39 +152,59 @@ Les excédents constatés en fin d'exercice sont affectés au fonds national de 
 
 b) Le fonds national de gestion administrative.
 
-Il est destiné à financer les frais de fonctionnement et d'investissement du régime spécial de sécurité sociale.
+Il est destiné à financer les dépenses de fonctionnement et d'investissement du régime spécial de sécurité sociale en alimentant les budgets de gestion administrative des caisses mutuelles complémentaires et d'action sociale.
 
 Il est financé par des prélèvements sur le fonds national de gestion technique qui tiennent compte des remises de gestion ou autres recettes perçues localement, dans la limite de ses dépenses.
 
-Les dépenses du fonds sont constituées par les charges de fonctionnement et les dépenses d'investissement du régime spécial.
+Il peut comporter une réserve de sécurité destinée à faire face à des dépenses liées à des circonstances exceptionnelles et imprévisibles auxquelles une caisse ou le comité de coordination aurait à faire face en cours d'exercice. Le taux de cette dotation précomptée sur l'enveloppe nationale de gestion administrative est fixé chaque année par l'assemblée générale des caisses mutuelles complémentaires et d'action sociale dans le cadre de la procédure budgétaire.
 
-Les montants nécessaires aux dépenses des caisses mutuelles complémentaires et d'action sociale et du comité de coordination leur sont versés par décade, en fonction de leurs besoins, et selon des modalités prévues dans les règlements de ces organismes.
+Le recours à cette réserve sera autorisé par l'assemblée générale des caisses mutuelles complémentaires et d'action sociale, sur justificatifs, et après avis du comité de coordination. En fin d'exercice, en cas de non-utilisation, les excédents budgétaires sont affectés au fonds national de réserves solidaires.
+
+Les montants nécessaires aux dépenses des caisses mutuelles complémentaires et d'action sociale et du comité de coordination leur sont versés, en fonction de leurs besoins, et selon des modalités prévues dans les règlements de ces organismes.
 
 c) Le fonds national de réserves solidaires.
 
-Il est destiné à recevoir, à chaque fin d'exercice, les excédents du régime spécial de sécurité sociale qui constituent l'ensemble des réserves du régime, et à couvrir, en cours d'exercice, des variations imprévues de charges techniques. Les opérations de dotation à ce fonds ou de reprise sur ce fonds sont décidées par le comité de coordination.
+Il est destiné à recevoir, à chaque fin d'exercice, les excédents du régime spécial de sécurité sociale qui constituent l'ensemble des réserves du régime, et à couvrir, en cours d'exercice, les variations imprévues de charges techniques.
 
-Le comité de coordination et les autorités de tutelle examinent les conditions de réalisation de l'équilibre du régime complémentaire, et prennent, le cas échéant, les mesures nécessaires après avis des directeurs généraux d'Electricité de France et de Gaz de France et des organisations représentatives des entreprises non nationalisées, notamment en application du deuxième alinéa du paragraphe 8 du présent article.
+Les opérations de dotation à ce fonds ou de reprise de ce fonds sont décidées par l'assemblée générale des caisses mutuelles complémentaires et d'action sociale sur proposition du comité de coordination.
+
+Le comité de coordination et les autorités de tutelle examinent les conditions de réalisation de l'équilibre du régime complémentaire, et prennent, le cas échéant, les mesures nécessaires après avis des organisations représentatives des employeurs des industries électriques et gazières, notamment en application du deuxième alinéa du paragraphe 8 du présent article.
 
 Les budgets.
 
 Paragraphe 10.
 
-Il est créé au sein du comité de coordination une commission budgétaire composée de neuf membres du comité de coordination. Les modalités de leur désignation et le fonctionnement de la commission sont fixés par le règlement du comité. Les organisations syndicales représentatives au niveau national, représentées ou non représentées au comité de coordination, disposent chacune d'un siège consultatif au sein de la commission budgétaire.
+Les budgets de gestion administrative des caisses et du comité de coordination constituent, après agrégation, le budget du fonds national de gestion administrative prévu au paragraphe 9 ci-dessus.
 
-La commission budgétaire établit, avant chaque exercice, un projet de budget national de gestion administrative, sur la base des projets de budgets élaborés par le comité de coordination et par les caisses mutuelles complémentaires et d'action sociale qui retracent l'ensemble des recettes provenant de cotisations, remises de gestion du régime général et d'autres ressources, et des dépenses de gestion du régime spécial. Ces projets sont transmis à la commission budgétaire huit semaines avant le vote du budget national, dans les conditions précisées par les règlements de ces organismes.
+L'enveloppe globale des dépenses définie au niveau de chacun de ces budgets a un caractère limitatif.
 
-Les budgets des caisses mutuelles complémentaires et d'action sociale et du comité de coordination retracent l'ensemble de leurs recettes et de leurs dépenses qui sont présentées sans contraction.
+a) Procédure d'élaboration des budgets.
 
-Le projet de budget national de gestion administrative et les projets de budgets des caisses et du comité sont présentés et votés en équilibre.
+Les principes directeurs selon lesquels doit être établi chacun des budgets des caisses et du comité de coordination sont arrêtés, en application des dispositions du paragraphe 6, point c, du présent article, par l'assemblée générale des caisses mutuelles complémentaires et d'action sociale.
 
-Le projet de budget national de gestion administrative est voté, avant le premier jour de l'exercice concerné, à la majorité des deux tiers de la commission budgétaire. Il comprend la répartition des crédits entre chacune des caisses mutuelles complémentaires et d'action sociale et le comité de coordination. Les procès-verbaux de la commission budgétaire et le budget voté sont transmis dans les dix jours aux membres de la commission, au commissaire du Gouvernement et aux autorités de tutelle. Ces mêmes documents sont également adressés au représentant des services, exploitations et entreprises mentionné au paragraphe 6 du présent article. Le budget est soumis à l'approbation des ministres chargés de la sécurité sociale, du gaz et de l'électricité, et du budget, qui disposent d'un délai d'un mois à compter de la date de réception du procès-verbal de la réunion au cours de laquelle la commission budgétaire a procédé au vote.
+Le montant global des charges administratives est défini chaque année par le comité de coordination sur proposition de la commission de répartition et de suivi budgétaire.
 
-Après approbation par les autorités de tutelle, le budget de gestion administrative alloué à chaque caisse mutuelle complémentaire et d'action sociale est notifié par le comité de coordination.
+Les caisses mutuelles complémentaires et d'action sociale et le comité de coordination font, dans ce cadre et chacun pour ce qui le concerne, une proposition de budget de gestion administrative qui est transmis à la commission de répartition et de suivi budgétaire. Les dispositions relatives à la présentation des projets de budgets sont fixées par le règlement commun des caisses mutuelles complémentaires et d'action sociale et par le règlement du comité de coordination.
 
-Un état prévisionnel de l'équilibre financier du régime est établi par le comité de coordination. Il comprend les prévisions de recettes et de dépenses ; il est transmis en même temps que les budgets de gestion administrative à l'agent de contrôle comptable, aux autorités de tutelle et au représentant des services, exploitations et entreprises.
+Si, après agrégation, les projets de budgets sont supérieurs au montant global des frais de gestion administrative défini par le comité de coordination, la commission de répartition et de suivi budgétaire, sur délégation de l'assemblée générale des caisses mutuelles complémentaires et d'action sociale, procède aux réductions de dépenses et aux arbitrages nécessaires entre lesdits projets pour être en conformité avec ledit montant global.
 
-En cas de carence de la commission budgétaire au premier jour de l'exercice, les autorités de tutelle déterminent au cours du premier mois de l'exercice le montant provisoire du budget national de gestion administrative et celui des budgets alloués à chacune des caisses mutuelles complémentaires et d'action sociale et au comité de coordination pour la gestion du régime. Dans l'attente de la notification de ce budget, l'agent de contrôle comptable verse aux caisses mutuelles complémentaires et d'action sociale et au comité de coordination une allocation mensuelle calculée sur la base du douzième de l'exercice précédent, et selon les modalités définies au paragraphe 9, point b, quatrième alinéa, du présent article.
+A l'issue de cette procédure, le projet de budget national de gestion administrative est présenté, en équilibre, par la commission de répartition et de suivi budgétaire au comité de coordination. Ce dernier le vote avant le premier jour de l'exercice budgétaire concerné.
+
+Il comprend la répartition des crédits entre chacune des caisses mutuelles complémentaires et d'action sociale et le comité de coordination. Le procès-verbal de la réunion du comité de coordination et le budget voté sont transmis dans les dix jours au commissaire du Gouvernement auprès du comité de coordination et aux autorités de tutelle. Ils sont également adressés au représentant des organisations professionnelles représentatives des employeurs mentionné au paragraphe 6 du présent article.
+
+Le budget de gestion administrative alloué à chaque caisse mutuelle complémentaire et d'action sociale est notifié par le comité de coordination dans le mois qui suit le vote du budget national de gestion administrative.
+
+b) Equilibre financier du régime spécial de sécurité sociale.
+
+Un état prévisionnel de l'équilibre financier du régime est établi par le comité de coordination. Il comprend les prévisions de recettes et de dépenses ; il est transmis en même temps que les budgets de gestion administrative au commissaire du Gouvernement, aux autorités de tutelle et au représentant des organisations représentatives des employeurs mentionné au paragraphe 6 du présent article.
+
+En cas de carence du comité de coordination au premier jour de l'exercice, les caisses mutuelles complémentaires et d'action sociale et le comité de coordination reçoivent une allocation mensuelle calculée sur la base du douzième de l'exercice précédent et selon les modalités définies au paragraphe 9, point b, du présent article.
+
+c) Procédure d'alerte applicable à la gestion administrative.
+
+Si un risque de dépassement du budget annuel de gestion administrative alloué à une caisse mutuelle complémentaire et d'action sociale est décelé, le comité de coordination doit alerter la commission de répartition et de suivi budgétaire.
+
+Cette dernière, après examen des justificatifs fournis par la caisse, peut proposer à l'assemblée générale des caisses mutuelles complémentaires et d'action sociale l'intervention de la réserve de sécurité prévue au paragraphe 9, point b, du présent article.
 
 Paragraphe 11.
 
@@ -174,12 +212,10 @@ Les charges et les produits liés à la gestion du régime complémentaire menti
 
 La trésorerie du régime complémentaire est séparée de celle des activités sociales.
 
-Les modalités d'établissement des comptabilités et de fonctionnement des trésoreries séparées figurent au règlement commun des caisses mutuelles complémentaires et d'action sociale et au règlement du comité de coordination.
+Les modalités d'établissement des comptabilités et de fonctionnement des trésoreries séparées figurent au règlement commun des caisses mutuelles complémentaires et d'action sociale.
 
 Paragraphe 12.
 
-Sans préjudice des contrôles prévus par la législation et la réglementation en vigueur, la gestion du régime complémentaire peut faire l'objet d'un contrôle des services, exploitations ou entreprises qui contribuent à ce régime. Ce contrôle est limité aux caisses mutuelles complémentaires et d'action sociale, il ne peut être effectué au sein de chacune de ces caisses que par les services, exploitations ou entreprises ayant des agents statutaires affiliés.
+La gestion administrative du régime complémentaire sera l'objet d'une certification par un commissaire aux comptes choisi par le comité de coordination.
 
-Ces contrôles portent sur les seuls documents comptables, financiers et administratifs relatifs à la gestion administrative du régime complémentaire, à l'exclusion de tout document de portée individuelle. Ils portent sur l'utilisation des fonds, l'adéquation de la gestion des organismes à leurs missions, la qualité et l'efficacité de la gestion du régime.
-
-Les rapports établis par les contrôleurs sont communiqués aux gestionnaires, à l'agent de contrôle comptable, aux fédérations syndicales et aux autorités de tutelle.
+Les rapports établis par le commissaire aux comptes, accompagnés par les documents comptables, financiers et administratifs relatifs à la gestion administrative du régime complémentaire, sont communiqués aux gestionnaires, aux fédérations syndicales représentatives au plan national du personnel des industries électriques et gazières, au représentant des organisations représentatives des employeurs et aux autorités de tutelle.
