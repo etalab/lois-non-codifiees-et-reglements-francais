@@ -62,6 +62,7 @@
 - [Décret n°87-162 du 9 mars 1987](decret-n87-162-du-9-mars-1987)
 - [Décret n°87-164 du 9 mars 1987 (MAEJ8730012D)](decret-n87-164-du-9-mars-1987-maej8730012d)
 - [Décret n°87-165 du 9 mars 1987 (MAEJ8730015D)](decret-n87-165-du-9-mars-1987-maej8730015d)
+- [Décret n°87-378 du 9 juin 1987 (ASEH8700790D)](decret-n87-378-du-9-juin-1987-aseh8700790d)
 - [Décret n°87-533 du 9 juillet 1987 (ENVN8700122D)](decret-n87-533-du-9-juillet-1987-envn8700122d)
 - [Décret n°87-85 du 9 février 1987 (AGRS8700247D)](decret-n87-85-du-9-fevrier-1987-agrs8700247d)
 - [Décret n°87-168 du 10 mars 1987 (ECOP8700023D)](decret-n87-168-du-10-mars-1987-ecop8700023d)
