@@ -13,6 +13,7 @@
 - [Arrêté du 21 janvier 1981](arrete-du-21-janvier-1981)
 - [Arrêté du 22 janvier 1981](arrete-du-22-janvier-1981)
 - [Arrêté du 23 décembre 1980](arrete-du-23-decembre-1980)
+- [Arrêté du 23 janvier 1981](arrete-du-23-janvier-1981)
 - [Arrêté du 24 décembre 1980](arrete-du-24-decembre-1980)
 - [Arrêté du 25 novembre 1980](arrete-du-25-novembre-1980)
 - [Arrêté du 30 décembre 1980](arrete-du-30-decembre-1980)

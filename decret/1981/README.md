@@ -1,10 +1,13 @@
 # 1981
 
 - [Décret n°80-956 du 1 décembre 1980](decret-n80-956-du-1-decembre-1980)
+- [Décret n° 81-97 du 2 février 1981](decret-n-81-97-du-2-fevrier-1981)
 - [Décret n°80-977 du 3 décembre 1980](decret-n80-977-du-3-decembre-1980)
 - [Décret n°80-978 du 3 décembre 1980](decret-n80-978-du-3-decembre-1980)
 - [Décret n°80-979 du 3 décembre 1980](decret-n80-979-du-3-decembre-1980)
+- [Décret n°80-984 du 5 décembre 1980](decret-n80-984-du-5-decembre-1980)
 - [Décret n°81-6 du 6 janvier 1981](decret-n81-6-du-6-janvier-1981)
+- [Décret n°80-522 du 7 juillet 1980](decret-n80-522-du-7-juillet-1980)
 - [Décret n°81-25 du 8 janvier 1981](decret-n81-25-du-8-janvier-1981)
 - [Décret n°81-476 du 8 mai 1981](decret-n81-476-du-8-mai-1981)
 - [Décret n°81-17 du 10 janvier 1981](decret-n81-17-du-10-janvier-1981)

@@ -1,0 +1,3 @@
+# Article Annexe, 24
+
+La caisse s'interdit de porter devant les juridictions du contentieux général de la sécurité sociale, visées à l'article L. 191 du code de la sécurité sociale, les litiges de toute nature qui pourraient l'opposer à une caisse relevant d'une des autres organisations autonomes visées à l'article L. 645 du même code, lorsque la caisse nationale de cette organisation et la caisse nationale de l'organisation des professions artisanales ont conclu entre elles un accord en vue de soumettre préalablement ces litiges à une commission paritaire d'arbitrage organisée à leur diligence.

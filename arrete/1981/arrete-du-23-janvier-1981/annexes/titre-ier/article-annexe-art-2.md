@@ -1,0 +1,3 @@
+# Article Annexe art. 2
+
+Le siège de la caisse est situé à ...
