@@ -31,6 +31,7 @@
 - [Décret n°73-321 du 15 mars 1973](decret-n73-321-du-15-mars-1973)
 - [Décret n°73-87 du 15 janvier 1973](decret-n73-87-du-15-janvier-1973)
 - [Décret n°73-362 du 16 mars 1973](decret-n73-362-du-16-mars-1973)
+- [Décret n°73-533 du 18 juin 1973](decret-n73-533-du-18-juin-1973)
 - [Décret n°73-89 du 19 janvier 1973](decret-n73-89-du-19-janvier-1973)
 - [Décret n°73-91 du 19 janvier 1973](decret-n73-91-du-19-janvier-1973)
 - [Décret n°73-200 du 21 février 1973](decret-n73-200-du-21-fevrier-1973)
