@@ -408,7 +408,6 @@
 - [Arrêté du 19 février 1987 (AGRS8700520A)](arrete-du-19-fevrier-1987-agrs8700520a)
 - [Arrêté du 19 février 1987 (ASES8700324A)](arrete-du-19-fevrier-1987-ases8700324a)
 - [Arrêté du 19 février 1987 (DEFE8701092A)](arrete-du-19-fevrier-1987-defe8701092a)
-- [Arrêté du 19 février 1987 (MENU8700117A)](arrete-du-19-fevrier-1987-menu8700117a)
 - [Arrêté du 19 février 1987 (MENU8700118A)](arrete-du-19-fevrier-1987-menu8700118a)
 - [Arrêté du 19 février 1987 (MENU8700119A)](arrete-du-19-fevrier-1987-menu8700119a)
 - [Arrêté du 19 février 1987 (MENU8700120A)](arrete-du-19-fevrier-1987-menu8700120a)
