@@ -1,6 +1,6 @@
 # Article 15
 
-Les agents de l'Etat, des collectivités territoriales, des établissements publics qui en dépendent, d'un établissement hospitalier recrutés dans le corps des greffiers en chef sont classés lors de leur titularisation dans le troisième grade. Leur échelon est déterminé en prenant en compte, sur la base des durées moyennes fixées à l'article 5 pour chaque avancement d'échelon, une fraction de leur ancienneté de service dans les conditions suivantes :
+Les agents non titulaires d'un établissement hospitalier recrutés dans le corps des greffiers en chef sont classés lors de leur titularisation dans le troisième grade. Leur échelon est déterminé en prenant en compte, sur la base des durées moyennes fixées à l'article 5 pour chaque avancement d'échelon, une fraction de leur ancienneté de service dans les conditions suivantes :
 
 Les services accomplis dans un emploi du niveau de la catégorie A sont retenus à raison de la moitié de leur durée jusqu'à douze ans et des trois quarts au-delà de douze ans.
 

@@ -2,102 +2,128 @@
 
 La durée moyenne et la durée minimum du temps passé dans chacun des échelons, des grades et des classes mentionnés à l'article 4 sont fixées ainsi qu'il suit :
 
-GRADES et classes
+GRADES ET CLASSES : Premier grade
 
-ÉCHELONS
+I = ÉCHELONS
 
-DURÉE moyenne
+II = DURÉ Moyenne
 
-DURÉE minimum
+III = DURÉ Minimum
 
-1er grade 6e échelon
+<table>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+<tr>
+<td> : 6e :   -   :  -           :</td>
+</tr>
+<tr>
+<td> : 5e : 4 ans : 3 ans        :</td>
+</tr>
+<tr>
+<td> : 4e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 3e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 2e : 2 ans : 1 an 6 mois  :</td>
+</tr>
+<tr>
+<td> : 1er: 2 ans : 1 an 6 mois  :</td>
+</tr>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+</table>
 
-5e échelon 3 ans 6 mois 2 ans 3 mois
+GRADES ET CLASSES : Deuxième grade
 
-4e échelon 3 ans 6 mois 2 ans 3 mois
+I = ÉCHELONS
 
-3e échelon 2 ans 6 mois 1 ans 6 mois
+II = DURÉ Moyenne
 
-2e échelon 2 ans 6 mois 1 ans 6 mois
+III = DURÉ Minimum
 
-1er échelon 2 ans 6 mois 1 an s6 mois
+<table>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+<tr>
+<td> : 7e :   -   :  -           :</td>
+</tr>
+<tr>
+<td> : 6e : 4 ans : 3 ans        :</td>
+</tr>
+<tr>
+<td> : 5e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 4e : 3 ans : 2 ans 3 mois :</td>
+</tr>
+<tr>
+<td> : 3e : 2 ans : 1 an 6 mois  :</td>
+</tr>
+<tr>
+<td> : 2e : 2 ans : 1 an 6 mois  :</td>
+</tr>
+<tr>
+<td> : 1er: 2 ans : 1 an 6 mois  :</td>
+</tr>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+</table>
 
-2e grade 7e échelon
+GRADES ET CLASSES : 3e grade
 
-6e échelon 4 ans 6 mois 3 ans 6 mois
+I = ÉCHELONS
 
-5e échelon 3 ans 6 mois 2 ans 3 mois
+II = DURÉ Moyenne
 
-4e échelon 3 ans 6 mois 2 ans 3 mois
+III = DURÉ Minimum
 
-3e échelon 3 ans 6 mois 2 ans 3 mois
-
-2e échelon 2 ans 6 mois 1 an s 6 mois
-
-1er échelon 2 ans 6 mois 1 an 6 mois
-
-3e grade
-
-12e
-
-11e
-
-4 ans
-
-3 ans
-
-10e
-
-3 ans
-
-2 ans 6 mois
-
-9e
-
-3 ans
-
-2 ans 6 mois
-
-8e
-
-3 ans
-
-2 ans 6 mois
-
-7e
-
-3 ans
-
-2 ans 6 mois
-
-6e
-
-2 ans 6 mois
-
-2 ans
-
-5e
-
-2 ans
-
-1 an 6 mois
-
-4e
-
-2 ans
-
-1 an 6 mois
-
-3e
-
-2 ans
-
-1 an 6 mois
-
-2e
-
-1 an
-
-1er
-
-1 an
+<table>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+<tr>
+<td> :12e :   -   :  -           :</td>
+</tr>
+<tr>
+<td> :11e : 4 ans : 3 ans        :</td>
+</tr>
+<tr>
+<td> :10e : 3 ans : 2 ans 6 mois :</td>
+</tr>
+<tr>
+<td> : 9e : 3 ans : 2 ans 6 mois :</td>
+</tr>
+<tr>
+<td> : 8e : 3 ans : 2 ans 6 mois :</td>
+</tr>
+<tr>
+<td> : 7e : 3 ans : 2 ans 6 mois :</td>
+</tr>
+<tr>
+<td> : 6e : 2 ans 6 mois : 2 ans :</td>
+</tr>
+<tr>
+<td> : 5e : 2 ans : 1 an 6 mois  :</td>
+</tr>
+<tr>
+<td> : 4e : 2 ans : 1 an 6 mois  :</td>
+</tr>
+<tr>
+<td> : 3e : 2 ans : 1 an 6 mois  :</td>
+</tr>
+<tr>
+<td> : 2e : 1 an  : 1 an         :</td>
+</tr>
+<tr>
+<td> : 1e : 1 an  : 1 an         :</td>
+</tr>
+<tr>
+<td> :----:-------:--------------:</td>
+</tr>
+</table>
