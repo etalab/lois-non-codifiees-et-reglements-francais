@@ -1,3 +1,0 @@
-# Article 7
-
-Les directions de contrôle fiscal se substituent aux directions régionales des impôts de leur ressort dans leurs attributions de contrôle fiscal et de juridiction contentieuse et gracieuse. En région d'Ile-de-France, la direction de contrôle fiscal d'Ile-de-France Est et la direction de contrôle fiscal d'Ile-de-France Ouest se substituent à la délégation régionale pour la région d'Ile-de-France, à la direction des vérifications de la région d'Ile-de-France Est et à la direction des vérifications de la région d'Ile-de-France Ouest dans leurs attributions de contrôle fiscal et de juridiction contentieuse et gracieuse.

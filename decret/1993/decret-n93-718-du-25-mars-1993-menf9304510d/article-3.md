@@ -6,7 +6,7 @@ a) Sont désignés en qualité de représentant des pouvoirs publics :
 
 Au titre des services du Premier ministre :
 
-Le chef du service d'information et de diffusion ou son représentant.
+Le chef du service d'information du Gouvernement ou son représentant.
 
 Au titre du ministère de l'éducation nationale et de la culture :
 

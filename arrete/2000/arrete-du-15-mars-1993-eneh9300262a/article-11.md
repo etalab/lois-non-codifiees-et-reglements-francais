@@ -1,3 +1,0 @@
-# Article 11
-
-Seuls peuvent être admis pour loger des stocks stratégiques les dépôts ayant une capacité d'au moins 400 mètres cubes pour les produits des trois premières catégories, d'au moins 1 000 mètres cubes pour les produits de la catégorie IV, et disposant des moyens d'expédition et de réexpédition jugés nécessaires pour les besoins de la défense et en vue de permettre une mise en place des produits conforme aux intérêts de l'économie générale du pays. En outre, l'agrément prévu au a de l'article 5 du décret n° 93-131 du 29 janvier 1993 susvisé prend en considération la localisation des dépôts, la nature des produits stockés et les taux de rotation des dépôts pour apprécier si certains ne sont pas assimilables à des établissements de distribution au détail.

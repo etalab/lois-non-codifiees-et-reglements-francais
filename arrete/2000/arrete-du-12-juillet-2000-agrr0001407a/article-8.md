@@ -1,3 +1,0 @@
-# Article 8
-
-Tout laboratoire qui ferait de fausses déclarations dans son dossier, qui ne respecterait pas son engagement ou qui sous-traiterait les essais interlaboratoires verrait son agrément suspendu pour une durée de un à cinq ans. Le refus de recevoir les échantillons de contrôle interlaboratoires, ou l'envoi des résultats à l'organisme technique chargé de leur traitement au-delà des délais prescrits sans raison de force majeure, ou le refus de communiquer les informations nécessaires à l'examen, par les agents du ministère de l'agriculture et de la pêche, de la validité des résultats obtenus en routine, ou toute autre contravention aux règles techniques résultant de l'article 5 du présent arrêté suspend le bénéfice de l'agrément pour l'année correspondante.

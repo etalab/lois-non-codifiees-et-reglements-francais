@@ -1,3 +1,0 @@
-# Article 15
-
-La directrice de l'administration générale et de la modernisation des services au ministère de l'emploi et de la solidarité, l'inspecteur général du travail et de la main-d'oeuvre dans les transports au ministère de l'équipement, des transports et du logement, le directeur des exploitations, de la politique sociale et de l'emploi au ministère de l'agriculture et de la pêche et le directeur général de l'administration et de la fonction publique sont chargés, chacun en ce qui le concerne, de l'exécution du présent arrêté, qui sera publié au Journal officiel de la République française.

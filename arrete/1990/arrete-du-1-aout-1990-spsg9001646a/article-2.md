@@ -8,7 +8,7 @@ Il assure les relations du ministère avec la presse, en conçoit les outils ada
 
 2. Le bureau de la communication externe
 
-En liaison avec les directions et services de l'administration centrale, il conçoit, met en oeuvre et assure le suivi de la politique de communication externe du ministère et de ses services en coordonnant les actions correspondantes notamment les campagnes d'information, la publicité et l'achat d'espace, l'information individuelle du grand public, la production audiovisuelle, l'organisation ou la participation aux salons, colloques, événements. Il recense et analyse les actions de communication externe des institutions et organismes privés ou publics partenaires du ministère en participant à leur préparation ou à leur coordination. Il recense et synthétise les études d'image ou d'opinion concernant les domaines d'action du ministère ou, à son initiative, les prépare et les coordonne en assurant la liaison avec le service d'information et de diffusion du Premier ministre.
+En liaison avec les directions et services de l'administration centrale, il conçoit, met en oeuvre et assure le suivi de la politique de communication externe du ministère et de ses services en coordonnant les actions correspondantes notamment les campagnes d'information, la publicité et l'achat d'espace, l'information individuelle du grand public, la production audiovisuelle, l'organisation ou la participation aux salons, colloques, événements. Il recense et analyse les actions de communication externe des institutions et organismes privés ou publics partenaires du ministère en participant à leur préparation ou à leur coordination. Il recense et synthétise les études d'image ou d'opinion concernant les domaines d'action du ministère ou, à son initiative, les prépare et les coordonne en assurant la liaison avec le service d'information du Gouvernement.
 
 3. Le bureau de la communication interne
 
@@ -16,9 +16,7 @@ En liaison avec les directions et services de l'administration centrale et les s
 
 4. Le bureau de production et de diffusion
 
-Il assure la mise en oeuvre technique des instruments de communication du ministère. A ce titre, il lui appartient notamment d'effectuer ou de coordonner les opérations de conception graphique et d'édition ainsi que la réalisation des documents audiovisuels du ministère ; il apporte une assistance technique en la matière aux services déconcentrés. Il assure les relations du ministère avec la Direction des Journaux officiels, la Documentation française ainsi que leurs sous-traitants et les entreprises privées spécialisées. Il coordonne les fichiers de diffusion, les opérations de routage, ainsi
-
-qu'un plateau technique de publication assistée par ordinateur, de vidéotex, d'infographie et de reprographie associée.
+Il assure la mise en oeuvre technique des instruments de communication du ministère. A ce titre, il lui appartient notamment d'effectuer ou de coordonner les opérations de conception graphique et d'édition ainsi que la réalisation des documents audiovisuels du ministère ; il apporte une assistance technique en la matière aux services déconcentrés. Il assure les relations du ministère avec la Direction des Journaux officiels, la Documentation française ainsi que leurs sous-traitants et les entreprises privées spécialisées. Il coordonne les fichiers de diffusion, les opérations de routage, ainsi qu'un plateau technique de publication assistée par ordinateur, de vidéotex, d'infographie et de reprographie associée.
 
 5. Le bureau des affaires générales
 

@@ -1,8 +1,8 @@
 # Article 2
 
-Le comité est composé [*composition*] :
+Le comité est composé :
 
-a) D'un président et un vice-président nommés pour trois ans [*mandat - durée*] renouvelables, par arrêté du ministre chargé du commerce extérieur, en dehors des membres du comité.
+a) D'un président et un vice-président nommés pour trois ans renouvelables, par arrêté du ministre chargé du commerce extérieur, en dehors des membres du comité.
 
 b) De dix-sept représentants de l'Etat désignés par arrêté du ministre dont ils relèvent :
 
@@ -34,7 +34,7 @@ b) De dix-sept représentants de l'Etat désignés par arrêté du ministre dont
 
 -un représentant du ministre chargé de la communication ;
 
--le chef du service d'information et de diffusion ;
+-le chef du service d'information du Gouvernement ;
 
 -le délégué interministériel aux jeux Olympiques de 1992 ;
 

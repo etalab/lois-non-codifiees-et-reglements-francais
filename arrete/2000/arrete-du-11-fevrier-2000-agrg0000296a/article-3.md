@@ -1,3 +1,0 @@
-# Article 3
-
-Les conditions prévues à l'article 2 ci-dessus ainsi que celles prévues au deuxième alinéa de l'article 1er de l'arrêté du 10 février 2000 fixant la liste des postes d'inspection frontaliers et abrogeant l'arrêté du 13 juillet 1994 ne s'appliquent pas à l'importation des matières premières pour aliments des animaux accompagnant un ou plusieurs animaux dans la limite de la quantité nécessaire à leur alimentation au cours du voyage et jusqu'à destination, et dans la mesure où lesdits animaux satisfont aux conditions prévues par l'arrêté du 6 juin 1994 susvisé qui leur sont éventuellement applicables.

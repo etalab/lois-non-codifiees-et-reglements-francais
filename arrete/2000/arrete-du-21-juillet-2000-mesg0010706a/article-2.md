@@ -1,3 +1,0 @@
-# Article 2
-
-Pour l'exercice de ses attributions, le directeur de l'hospitalisation et de l'organisation des soins est assisté de deux chefs de service, adjoints au directeur, qui assurent la coordination des activités des sous-directions de la direction et qui le suppléent en cas d'absence ou d'empêchement. L'un des chefs de service a plus particulièrement compétence à l'égard des trois premières sous-directions et de la mission de l'observation, de la prospective et de la recherche clinique. L'autre chef de service a plus particulièrement compétence à l'égard des trois autres sous-directions. La mission d'audit et de conseil est rattachée au directeur de l'hospitalisation et de l'organisation des soins.

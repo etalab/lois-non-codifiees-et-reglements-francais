@@ -1,3 +1,0 @@
-# Article 20
-
-Le classement des candidats est arrêté séparément dans chacune des filières PT et TSI dans l'ordre décroissant du total des points obtenus par chacun d'eux, conformément aux règles fixées à l'article 19 ci-dessus. Les candidats ayant obtenu le même total de points sont classés dans l'ordre décroissant de leurs totaux d'admissibilité (majoration éventuelle de trente points incluse) tels qu'ils résultent de l'application des articles 8, 16 et 17 ci-dessus, puis par valeur décroissante du sous-total de points obtenus pour l'ensemble des deux épreuves écrites de mathématiques et des deux épreuves écrites de physique, et enfin, si nécessaire, par l'ordre croissant d'âge.

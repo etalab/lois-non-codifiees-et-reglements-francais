@@ -36,8 +36,6 @@ Assistant de contrôle ou de gestion comptable et budgétaire.
 
 Responsable du magasin des fournitures au bureau de la gestion des immeubles et du matériel ;
 
-Gestionnaire logistique polyvalent ;
-
 Moniteur bureautique ;
 
 Assistant de gestion logistique polyvalent.
@@ -48,9 +46,9 @@ Responsable de gestion de personnel.
 
 Assistant de gestion financière.
 
-DIRECTION GENERALE DE L'ADMINISTRATION ET DE LA FONCTION PUBLIQUE
+Contrôleur de gestion (à compter du 1er avril 2000).
 
-Assistant bureautique chargé de la coordination des secrétariats des bureaux de la direction générale.
+DIRECTION GENERALE DE L'ADMINISTRATION ET DE LA FONCTION PUBLIQUE
 
 Responsable de l'atelier de reprographie et de l'expédition du courrier de la direction générale.
 
@@ -59,6 +57,8 @@ Responsable de la cellule "Concours".
 Assistant documentaire.
 
 Responsable de la cellule de gestion des administrateurs civils.
+
+Gestionnaire du recensement des concours (à compter du 1er janvier 2000).
 
 DIRECTION DE LA DOCUMENTATION FRANCAISE
 
@@ -86,7 +86,7 @@ Secrétaire de rédaction.
 
 Chef d'études.
 
-SERVICE D'INFORMATION ET DE DIFFUSION
+SERVICE D'INFORMATION DU GOUVERNEMENT
 
 Responsable du service intérieur et du matériel chargé de tâches d'encadrement et de gestion.
 

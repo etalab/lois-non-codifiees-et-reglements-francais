@@ -1,3 +1,0 @@
-# Article 1
-
-Des prêts aidés de l'Etat et des subventions de l'Etat sont susceptibles d'être accordés, dans les départements d'outre-mer, aux organismes visés aux articles L. 472-1 et L. 472-1-1 du code de la construction et de l'habitation ainsi qu'aux sociétés d'économie mixte pour des opérations, énumérées à l'article 3, de construction-démolition ou de reconstruction-démolition de logements sociaux et très sociaux nécessitant une requalification des quartiers et des changements d'usage. Leurs conditions de mise en oeuvre sont définies conjointement par circulaires des ministres chargés de l'outre-mer, du logement et de la ville ainsi que par le ministre chargé de l'économie et des finances en cas d'intervention sur le cadre urbain.

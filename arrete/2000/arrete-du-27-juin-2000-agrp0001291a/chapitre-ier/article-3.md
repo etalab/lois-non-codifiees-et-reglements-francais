@@ -1,3 +1,0 @@
-# Article 3
-
-L'établissement départemental ou interdépartemental de l'élevage exécute lui-même ou peut confier, par convention, tout ou partie des missions relatives à la certification des filiations des bovins, prévues par l'article 5 du décret du 15 juin 2000 susvisé, à un ou plusieurs organismes qu'il conventionne à cet effet en tant que maître d'oeuvre. Dans tous les cas, les conventions sont soumises à l'approbation du préfet du département dans lequel est situé le siège de l'établissement de l'élevage. L'établissement départemental ou interdépartemental de l'élevage conserve cependant l'entière responsabilité de l'exécution des missions relatives à la certification des filiations des bovins.

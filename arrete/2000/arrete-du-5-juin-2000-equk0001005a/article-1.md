@@ -1,9 +1,0 @@
-# Article 1
-
-En vue de la constitution de l'assemblée commerciale instituée à l'article 15 du décret du 19 mai 1969 susvisé, les organismes ou organisations professionnelles représentatifs des diverses catégories de membres adressent au directeur du port, et conjointement au directeur départemental des affaires maritimes, leurs propositions pour la nomination des membres ayant voix délibérative qu'ils représentent.
-
-Les candidatures des membres représentant les armateurs et les autres usagers du port sont présentées par l'union maritime locale, lorsqu'elle existe ; à défaut, les candidatures sont librement adressées au directeur du port, et conjointement au directeur départemental des affaires maritimes. Elles peuvent comporter un armateur fluvial lorsque la voie d'eau constitue un mode d'acheminement significatif des marchandises au port considéré.
-
-Lorsque l'assemblée commerciale concerne un port unique, le directeur du port et le directeur départemental des affaires maritimes proposent conjointement au préfet de région la liste nominative de ses membres et de leurs suppléants.
-
-Lorsque l'assemblée commerciale concerne plusieurs ports, le directeur du port où se situe le siège de la station de pilotage détermine avec les autres directeurs de ports concernés, conjointement avec les directeurs départementaux des affaires maritimes compétents, le nombre des membres pour les catégories mentionnées au a de l'article 15, paragraphe II, du décret no 69-515 susvisé. Il sollicite ensuite les candidatures afin de constituer la liste nominative des membres et de leurs suppléants, qui fait l'objet d'une proposition conjointe au préfet de région compétent. Lorsqu'il s'agit d'un regroupement, il est tenu compte de l'avis des assemblées commerciales existantes sur le nombre des membres par catégorie.

@@ -1,3 +1,0 @@
-# Article 21
-
-Les dispositions du présent arrêté ne s'appliquent pas aux produits destinés à l'alimentation animale en provenance et à destination de pays tiers et n'ayant pas le statut de marchandises communautaires. Les dispositions de l'article 16 relatives à la destination de produits visés aux articles 3 et 4 ne s'appliquent pas à l'exportation directe desdits produits vers un pays non membre de l'Union européenne, à moins que cela soit prévu par un accord international. En tant que de besoin, les règles applicables à l'exportation de ces produits sont précisées par avis aux exportateurs.

@@ -1,3 +1,0 @@
-# Article 4
-
-Tout résultat d'une épreuve de recherche de la brucellose chez un bovin d'un cheptel de la zone de surveillance renforcée par un laboratoire agréé conformément à l'arrêté du 12 juillet 1990 susvisé doit être transmis par le responsable du laboratoire, dans les meilleurs délais et exclusivement au directeur des services vétérinaires concerné. Ce dernier notifie le résultat à l'éleveur propriétaire ou détenteur du bovin, ainsi qu'au vétérinaire sanitaire de l'exploitation et, le cas échéant, à l'organisme à vocation sanitaire visé à l'article 2 de l'arrêté du 20 mars 1990 susvisé auquel adhère l'éleveur.

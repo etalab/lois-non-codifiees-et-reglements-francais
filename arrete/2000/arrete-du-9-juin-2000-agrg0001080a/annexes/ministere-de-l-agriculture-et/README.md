@@ -1,3 +1,0 @@
-# Ministère de l'agriculture et de la pêche, département ...
-
-- [Certificat vétérinaire d'information (en cas d'abattage d'urgence des animaux de boucherie pour cause d'accident).](certificat-veterinaire-d-information-en-cas)
