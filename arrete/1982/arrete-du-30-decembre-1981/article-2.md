@@ -1,13 +1,3 @@
 # Article 2
 
-En conséquence, pour les catégories de travailleurs intéressés par l'article L. 131-1 du code du travail, le salaire minimum de croissance applicable en métropole et dans les départements d'outre-mer s'établira, à compter de cette date, dans les conditions ci-après :
-
-En métropole, son montant sera porté à 18,15 F l'heure ;
-
-Dans les départements d'outre-mer, les salaires individuels ne pourront être inférieurs à :
-
-18,15 F l'heure dans le département de Saint-Pierre-et-Miquelon ;
-
-593,36 F par semaine pour quarante heures de travail effectif dans les départements de la Guadeloupe, de la Guyane et de la Martinique, et dans le département de la Réunion ;
-
-553,64 F par semaine pour quarante heures de travail effectif dans les professions autres que les professions agricoles rémunérées à la tâche, et, pour ce qui concerne ces dernières, un certain nombre de tâches, telles qu'elles sont définies par arrêté des ministres chargés respectivement de l'agriculture, du travail et des départements d'outre-mer, pris sur proposition du préfet après consultation des organisations professionnelles d'employeurs et de salariés intéressées.
+Ces bons seront créés en coupures de 1.000 F [*francs - montant*] de valeur nominale, jouissance du 1er janvier 1983 [*date*], sous la forme au porteur ou sous la forme nominative et numérotés selon la suite naturelle des nombres.
