@@ -4,6 +4,56 @@ L'avancement d'échelon des maîtres de conférences des universités-praticiens
 
 CLASSE ET AVANCEMENT D'ECHELONS :
 
+Hors classe :
+
+Du 5e au 6e échelon
+
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur :
+
+5 ans.
+
+CLASSE ET AVANCEMENT D'ECHELONS :
+
+Hors classe :
+
+Du 4e au 5e échelon
+
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur :
+
+1 an.
+
+CLASSE ET AVANCEMENT D'ECHELONS :
+
+Hors classe :
+
+Du 3e au 4e échelon
+
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur :
+
+1 an.
+
+CLASSE ET AVANCEMENT D'ECHELONS :
+
+Hors classe :
+
+Du 2e au 3e échelon
+
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur :
+
+1 an.
+
+CLASSE ET AVANCEMENT D'ECHELONS :
+
+Hors classe :
+
+Du 1er au 2e échelon
+
+ANCIENNETE REQUISE pour l'accès à l'échelon supérieur :
+
+1 an.
+
+CLASSE ET AVANCEMENT D'ECHELONS :
+
 1re classe :
 
 Du 5e au 6e échelon
@@ -30,7 +80,7 @@ Du 3e au 4e échelon
 
 ANCIENNETE REQUISE pour l'accès à l'échelon supérieur :
 
-3 ans 8 mois.
+3 ans 6 mois.
 
 CLASSE ET AVANCEMENT D'ECHELONS :
 
@@ -40,7 +90,7 @@ Du 2e au 3e échelon
 
 ANCIENNETE REQUISE pour l'accès à l'échelon supérieur :
 
-3 ans 7 mois.
+2 ans 10 mois.
 
 CLASSE ET AVANCEMENT D'ECHELONS :
 
@@ -70,4 +120,4 @@ Du 1er au 2e échelon
 
 ANCIENNETE REQUISE pour l'accès à l'échelon supérieur :
 
-2 ans 8 mois.
+2 ans.

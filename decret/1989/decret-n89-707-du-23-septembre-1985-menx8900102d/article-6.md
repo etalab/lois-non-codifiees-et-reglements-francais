@@ -1,0 +1,5 @@
+# Article 6
+
+A titre transitoire, pour une période de cinq ans à compter de la date d'effet du présent décret, les personnes nommées dans le corps des maîtres de conférences ou dans un corps assimilé qui, avant leur nomination, avaient la qualité d'enseignant titulaire relevant du ministère de l'éducation nationale ne peuvent être classées à un échelon inférieur au 2e échelon de la 1re classe de leur nouveau corps lorsqu'elles avaient atteint, dans leur corps d'origine, un indice brut supérieur à 480 et au 3e échelon lorsqu'elles avaient atteint un indice brut supérieur à 577.
+
+Pendant la même période, les personnes classées au 2e ou au 3e échelon de la 1re classe du corps des maîtres de conférences ou d'un corps assimilé qui, avant leur nomination, avaient la qualité d'enseignant titulaire relevant du ministère de l'éducation nationale conservent l'ancienneté d'échelon qu'elles avaient acquise dans leur ancien corps lorsque leur gain indiciaire par rapport à leur situation antérieure est inférieur à 69 points d'indice brut.

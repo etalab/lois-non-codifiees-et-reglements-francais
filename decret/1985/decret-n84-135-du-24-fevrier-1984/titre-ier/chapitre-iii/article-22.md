@@ -14,8 +14,12 @@ La juridiction disciplinaire comprend [*composition*] :
 
 6° Deux membres titulaires et deux membres suppléants représentant les personnels mentionnés au 2° et au 3° de l'article 1er, élus pour trois ans par et parmi ces personnels.
 
+Lorsque la juridiction disciplinaire est appelée à se prononcer sur le cas d'un professeur des universités - praticien hospitalier, la juridiction est complétée par trois membres titulaires et trois membres suppléants appartenant à ce corps élus dans les mêmes conditions et pour la même durée que les membres de la juridiction mentionnés au 4° ci-dessus.
+
 Lorsque la juridiction disciplinaire est appelée à se prononcer sur le cas d'un membre des personnels mentionnés au 6°, elle est complétée par deux membres, l'un désigné par le ministre chargé de l'enseignement supérieur parmi les membres suppléants nommés en application du 2°, l'autre désigné par le ministre chargé de la santé parmi les membres suppléants nommés en application du 3°.
 
 Les électeurs sont répartis en trois [*nombre*] collèges : médecine, chirurgie, biologie.
+
+Si, à l'issue du scrutin, tous les membres prévus aux 4°, 5°, 6° et les membres supplémentaires prévus aux deux alinéas précédents n'ont pas été élus, la juridiction disciplinaire est complétée successivement par les personnes inscrites sur les listes électorales qui ont la plus grande ancienneté dans le grade le plus élevé dans le corps ou la catégorie correspondante. A égalité d'ancienneté, ces personnes sont désignées au bénéfice de l'âge et, le cas échéant, il sera procédé au tirage au sort pour départager les personnes ayant la même ancienneté et le même âge.
 
 Un arrêté conjoint des ministres respectivement chargés des universités et de la santé détermine les modalités d'organisation et de déroulement des opérations électorales, ainsi que le rattachement des disciplines aux différents collèges.
