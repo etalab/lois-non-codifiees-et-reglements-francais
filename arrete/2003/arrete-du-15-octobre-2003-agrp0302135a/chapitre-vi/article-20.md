@@ -26,6 +26,8 @@ Les demandes d'aide financière ou de solde déposées après le 31 décembre pe
 
 - le rapport annuel dont le modèle est joint en annexe.
 
+- la liste des adhérents de l'organisation de producteurs présents au 1er janvier de l'année en cours faisant apparaître les départs et les arrivées intervenus au cours de l'année écoulée. Pour les demandes d'aide aux fonds opérationnels 2003, cette pièce sera fournie au plus tard le 31 mars 2004.
+
 3. Lorsque les demandes de paiement de l'aide ou de solde sont présentées après la date fixée ci-dessus, l'aide est réduite de 1 % par jour de retard. Dans des circonstances exceptionnelles et dûment justifiées, cette sanction peut ne pas être appliquée.
 
 4. L'aide financière est versée au plus tard le 15 octobre de l'année suivant celle de la mise en oeuvre du programme opérationnel.

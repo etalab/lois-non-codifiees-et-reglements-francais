@@ -8,4 +8,5 @@
 - [ACTIONS ET DÉPENSES NON ÉLIGIBLES](actions-et)
 - [LISTE DES ACTIONS, DES COÛTS ET DES DÉPENSES ÉLIGIBLES](liste-des-actions-des-couts-et)
 - [PRIX MAXIMAUX APPLICABLES ET COMPLÉMENTS À L'INDEMNITÉ COMMUNAUTAIRE DE RETRAIT](prix-maximaux-applicables-et)
+- [MODÈLE DE DOCUMENT EXTRACOMPTABLE](modele-de-document-extracomptable)
 - [MODÈLE DE RAPPORT ANNUEL MODÈLE DE RAPPORT FINAL](modele-de-rapport-annuel-modele-de-rapport-final)

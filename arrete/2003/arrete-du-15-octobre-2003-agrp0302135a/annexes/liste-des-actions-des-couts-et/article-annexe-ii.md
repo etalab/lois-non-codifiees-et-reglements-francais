@@ -32,8 +32,6 @@ Sont éligibles les coûts spécifiques liés :
 
 - les surcoûts engendrés par le nettoyage et le retour des emballages réutilisables.
 
-La preuve de l'orientation vers une filière de valorisation des déchets doit être apportée par présentation d'une facture d'une station agréée par l'ADEME.
-
 La gestion environnementale des emballages pourra faire l'objet d'une prise en charge sur la base d'un forfait à définir par le ministère de l'agriculture, de l'alimentation, de la pêche et des affaires rurales.
 
 Le coût des emballages est exclu ;
@@ -46,7 +44,7 @@ Les coûts spécifiques sont éligibles pour une période maximale de dix ans pa
 
 5. Frais de personnel (y compris les coûts liés aux salaires ou aux traitements supportés par l'organisation de producteurs incluant les frais de déplacement professionnels) résultant de mesures visant à atteindre ou à maintenir un haut niveau de qualité ou de protection de l'environnement et à améliorer le niveau de commercialisation.
 
-Les frais de personnel pris en compte doivent correspondre majoritairement à du personnel qualifié (à hauteur d'au moins 75 %). La qualification du personnel est appréciée au regard de l'intitulé de la fonction figurant sur la fiche de paie et à la comparaison du salaire de cette personne par rapport à la grille de salaire utilisée dans l'entreprise.
+Les frais de personnel pris en compte doivent correspondre majoritairement à du personnel qualifié (à hauteur d'au moins 75 %). La qualification du personnel est appréciée au regard de l'intitulé de la fonction figurant sur la fiche de paie et/ou de la comparaison du salaire de cette personne par rapport à la grille de salaire utilisée dans l'entreprise et/ou par référence à la convention collective applicable.
 
 Les frais de déplacement sont présentés en application du décret n° 90-437 du 28 mai 1990, de l'arrêté du 20 septembre 2001 fixant les taux des indemnités kilométriques, les taux des indemnités forfaitaires de déplacement.
 
@@ -74,6 +72,8 @@ Ce montant est porté à 70 % pour les organisations de producteurs mettant en o
 
 - amélioration pour certification (action 2.2 visée à l'annexe I du présent arrêté).
 
+Le temps de travail du chef d'exploitation non salarié est pris en compte sur une base forfaitaire de 11,43 Euros/h et doit être enregistré conformément à l'article 12, paragraphe 4.
+
 6. Véhicules frigorifiques ou atmosphère contrôlée.
 
 Sont éligibles les véhicules dotés d'équipements frigorifiques ou de transport en atmosphère contrôlée.
@@ -88,15 +88,15 @@ Seules peuvent être prises en compte les réunions ou formations concernant la 
 
 Lorsque les frais pris en charge couvrent les indemnités journalières et les frais de transport des participants, ceux-ci sont évalués sur la base applicable aux agents publics.
 
-9. Promotion générique et/ou promotion de signes officiels de qualité.
+9. Promotion générique et/ou promotion de signes officiels de qualité, promotion de marques collectives.
 
 Les mentions géographiques sont autorisées :
 
-- si elles sont couvertes par le règlement (CE) n° 2081/92 susvisé et consistent notamment dans une appellation d'origine protégée ou une indication géographique protégée, ou
+- si elles sont couvertes par le règlement (CE) n° 2081/92 susvisé et consistent notamment dans une appellation d'origine protégée ou une indication géographique protégée ; ou
 
 - si elles sont secondaires par rapport au message principal et non réservées à l'utilisation de l'organisation de producteurs concernée.
 
-Par ailleurs le logo de la Communauté européenne (dans le cas des médias visuels uniquement) ainsi que la mention "campagne financée avec l'aide de la Communauté européenne" doivent figurer sur le matériel promotionnel.
+Par ailleurs, le logo de la Communauté européenne (dans le cas des médias visuels uniquement) ainsi que la mention : "Campagne financée avec l'aide de la Communauté européenne" doivent figurer sur le matériel promotionnel.
 
 10. Promotion de dénominations ou de marques d'organisations de producteurs.
 

@@ -1,16 +1,16 @@
 # Article 17
 
-1. Les organisations de producteurs peuvent modifier leur programme opérationnel pour l'année en cours d'exécution à condition :
+1. Les organisations de producteurs peuvent modifier leur programme opérationnel pour l'année en cours d'exécution, à condition :
 
 - que les objectifs généraux du programme opérationnel soient maintenus ;
 
 - que l'augmentation du montant du fonds opérationnel initialement approuvé ne soit pas supérieure à 20 % ;
 
-- et que les modifications n'aient pas pour effet de réduire les actions obligatoires.
+- et que les modifications n'aient pas pour effet de réduire le montant total des mesures obligatoires, sauf en cas de calamité agricole reconnue.
 
 Une simple notification écrite au préfet compétent au plus tard le 31 décembre de l'année du programme est exigée dans les cas suivants :
 
-- suppression d'une action au sein d'une mesure de leur programme opérationnel ;
+- suppression ou modification d'une action au sein d'une mesure de leur programme opérationnel ;
 
 - modification portant sur le montant d'une ou plusieurs mesures tel qu'approuvé par la décision d'éligibilité du fonds opérationnel de l'année donnée dans la limite d'une augmentation de 20 % par mesure.
 

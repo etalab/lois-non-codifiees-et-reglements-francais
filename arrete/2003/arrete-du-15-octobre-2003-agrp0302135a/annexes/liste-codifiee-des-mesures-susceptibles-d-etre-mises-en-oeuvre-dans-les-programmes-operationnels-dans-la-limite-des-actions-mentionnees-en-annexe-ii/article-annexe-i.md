@@ -120,7 +120,7 @@ Mesures liées à l'amélioration de la commercialisation
 
 4.4. Publicité - Promotion de dénominations ou de marques d'organisation de producteurs.
 
-4.6. Publicité - Promotion générique.
+4.6. Publicité - Promotion générique - Promotion de marques collectives.
 
 4.8. Publicité - Promotion pour des marques sous AOC - AOP - IGP - CCP.
 

@@ -44,6 +44,8 @@ Dans tous les cas, les contributions des adhérents au fonds opérationnel doive
 
 Dans ce cas ces ressources propres proviennent exclusivement d'un prélèvement sur les ventes de l'organisation de producteurs.
 
+En application du présent paragraphe, l'organisation de producteurs qui recourt au prélèvement sur les ventes pour l'alimentation de son fonds opérationnel doit tenir à jour un relevé récapitulatif des factures de ventes des fruits et légumes provenant de ses adhérents pour lesquels elle est reconnue. Le montant du prélèvement correspond à un pourcentage appliqué sur le montant total cumulé des ventes. Ce prélèvement est inscrit sur un compte comptable ouvert à cet effet.
+
 4. Les organisations de producteurs peuvent reporter un solde de contributions ou de prélèvements non utilisés sur le fonds opérationnel de l'année suivante.
 
 5. Tous les producteurs ont la possibilité de participer démocratiquement aux décisions concernant l'utilisation des ressources de l'organisation de producteurs et des contributions financières au fonds opérationnel. Ces décisions doivent avoir été validées par l'assemblée générale de l'organisation de producteurs ou par une instance statutaire compétente par délégation expresse de l'assemblée générale.

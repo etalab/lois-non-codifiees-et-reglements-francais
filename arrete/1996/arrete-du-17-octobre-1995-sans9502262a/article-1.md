@@ -70,4 +70,4 @@ En cas de localisation géographique identique aux bureaux et à un autre établ
 
 (a) Le nombre obtenu est, le cas échéant, arrondi à l'unité inférieure.
 
-Pour les industries du bâtiment et des travaux publics, le personnel sédentaire est celui non visé par l'article 5 de la section II de l'annexe IV du code général des impôts.
+Pour les industries du bâtiment et des travaux publics, le personnel sédentaire est celui non visé par l'article 5 de la section II de l'annexe IV du code général des impôts dans sa rédaction en vigueur au 31 décembre 2000.
