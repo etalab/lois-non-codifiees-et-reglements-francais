@@ -10,6 +10,12 @@ Chef du service équipement rural et industries agroalimentaires, chef de la mis
 
 Chef de l'arrondissement équipement rural de Draguignan (Var) ;
 
+Chef du service équipement rural de l'Oise ;
+
+Chef du service équipement rural du Morbihan ;
+
+Adjoint au directeur départemental de l'agriculture et de la forêt de la Seine Maritime ;
+
 Chef de l'arrondissement Nord du Haut-Rhin ;
 
 Chef de l'arrondissement Sud du Haut-Rhin ;
@@ -23,6 +29,8 @@ Chef de la mission interservices de l'eau et du service eau et équipement des c
 Chef du service équipements publics et de la mission inter-services de l'eau du Puy-de-Dôme ;
 
 Chef de la mission interservices de l'eau de Tarn-et-Garonne ;
+
+Chef de la mission interservices de l'eau de la Réunion ;
 
 Chargé de la mission hydraulique à la direction régionale de l'agriculture et de la forêt d'Aquitaine ;
 
@@ -51,6 +59,8 @@ Chef du service de l'économie agricole de la Manche ;
 Chef du service économie et production agricole du Nord ;
 
 Chef du service environnement-aménagement hydraulique et foncier de l'Aveyron ;
+
+Chef du service des équipements publics ruraux du Vaucluse ;
 
 Chef de l'antenne polyvalente de Bayonne, subdivision de Bayonne à la direction départementale de l'agriculture et de la forêt des Pyrénées-Atlantiques ;
 
