@@ -1,3 +1,9 @@
 # Article 2
 
-Toutefois, la capture, le prélèvement, le transport, la vente ou l'achat des animaux de cette espèce peuvent être autorisés dans les conditions prévues à l'article 2 du décret du 25 novembre 1977 susvisé lorsqu'ils sont effectués à des fins scientifiques ou dans le cadre d'opérations de repeuplement [*commercialisation pêche*].
+Les substances ci-après énumérées :
+
+E 471 (mono et diglycérides d'acides gras alimentaires) ;
+
+E 473 (sucroesters, esters de saccharose et d'acides gras alimentaires) ;
+
+E 474 (sucroglycérides, mélange d'esters de saccharose et de mono et diglycérides d'acides gras alimentaires), ne doivent pas contenir plus de 6 p. 100 des substances désignées par le numéro E 470 (sels de sodium, de potassium, de calcium des acides gras alimentaires) exprimées en oléate de sodium.

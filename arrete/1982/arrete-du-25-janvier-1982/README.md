@@ -1,4 +1,4 @@
-# Arrêté du 25 janvier 1982 relatif à la protection de l'espèce "Acipenser sturio" (esturgeon)
+# Arrêté du 25 janvier 1982 relatif aux agents émulsifiants, stabilisants, épaississants et gélifiants pouvant être employés dans les denrées destinées à l'alimentation humaine
 
 - [Article 1](article-1.md)
 - [Article 2](article-2.md)

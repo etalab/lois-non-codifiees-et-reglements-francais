@@ -1,3 +1,9 @@
 # Article 1
 
-Sont interdits sur tout le territoire national et en tout temps, dans les conditions déterminées par le décret du 25 novembre 1977 susvisé, la destruction ou l'enlèvement des oeufs, la destruction, la mutilation, la capture, l'enlèvement ou la naturalisation des animaux provenant du territoire national, de l'espèce Acipenser sturio (esturgeon) jeunes ou adultes, qu'ils soient vivants ou morts, ainsi que leur transport, leur utilisation, leur mise en vente, leur vente ou leur achat [*commercialisation pêche*].
+Les substances émulsifiantes, stabilisantes, épaississantes et gélifiantes dont l'emploi est autorisé dans les denrées alimentaires doivent répondre aux critères de pureté spécifiques fixés en annexe (1) et aux critères de pureté généraux suivants :
+
+Ne présenter aucune teneur dangereuse, du point de vue toxicologique, en éléments chimiques, notamment en métaux lourds ;
+
+Ne pas contenir plus de 3 mg par kilogramme d'arsenic, ni plus de 10 mg par kilogramme de plomb ;
+
+Ne pas contenir plus de 50 mg par kilogramme de cuivre et de zinc pris ensemble, la teneur en zinc ne devant pas cependant être supérieure à 25 mg par kilogramme.

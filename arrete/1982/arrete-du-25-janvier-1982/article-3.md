@@ -1,3 +1,9 @@
 # Article 3
 
-Tout esturgeon, capturé accidentellement, doit être remis à l'eau ou, à la demande du service chargé de la pêche, conservé vivant et déclaré dans les plus brefs délais pour utilisation à des fins scientifiques ou dans le cadre d'opérations de repeuplement.
+Les substances citées ci-après :
+
+E 407 : carraghénanes ;
+
+E 440 : pectines,
+
+peuvent contenir, à des fins de standardisation, un ou plusieurs des sucres définis par le décret du 12 juillet 1977 susvisé.

@@ -1,93 +1,143 @@
 # Article Annexe
 
-E 473 Sucroesters :
+E 450 (a, i) Diphosphate disodique :
 
-Description chimique : se composent essentiellement de mono- et de diesters de saccharose des acides gras des huiles et graisses alimentaires. Ils peuvent être préparés à partir de saccharose et des esters de méthyle et d'éthyle des acides gras alimentaires ou par extraction à partir des sucroglycérides. Aucun solvant organique autre que l'acétate d'éthyle, l'isopropanol ou la diméthylformamide ne peut être utilisé pour leur préparation.
+Description : poudre ou granulés blancs.
 
-Teneur en saccharoesters des acides gras : pas moins de 80 %.
+Teneur : pas moins de 95 % de NA2H2P2O7.
 
-Teneur totale en glycérides : pas plus de 20 %.
+Teneur en P2O5 : pas moins de 63 % et pas plus de 64 %.
 
-Teneur en sucre libre : pas plus de 5 %.
+Matières volatiles : pas plus de 0,5 %, déterminées par dessiccation à 105 °C, pendant quatre heures.
 
-Acides gras libres : pas plus de 3 %, exprimés en acide oléique.
+pH d'une solution à 1 % : pas moins de 3,7 et pas plus de 4,4.
 
-Cendres sulfatées : pas plus de 2 %, déterminées par calcination à 800 plus ou moins 25 °C.
+Matières insolubles dans l'eau : pas plus de 0,6 %.
 
-Teneur en diméthylformamide : pas plus de 1 mg par kilogramme.
+Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
 
-Teneur en méthanol : pas plus de 10 mg par kilogramme.
+E 450 (a, ii) Diphosphate trisodique :
 
-Teneur en acétate d'éthyle et isopropanol : pas plus de 350 mg par kilogramme, séparément ou ensemble.
+Description : poudre ou granulés blancs. Se présente sous forme anhydre ou sous forme de monohydrate.
 
-Nota - Ces critères sont basés sur le produit sans E 470.
+Teneur : pas moins de 95 % de NA3HP2O7 ou de Na3HP2O7H2O.
 
-E 474 Sucroglycérides :
+Teneur en P2O5 : pas moins de 57,5 % et pas plus de 58,5 % pour le sel anhydre. Pas moins de 53,6 % et pas plus de 54,6 % pour le monohydrate.
 
-Description chimique : produit obtenu par réaction de sucre (saccharose) avec une huile ou une graisse alimentaire, ce qui donne essentiellement des mono- et diesters de saccharose d'acide gras mélangés à des mono- et triglycérides résiduels provenant de cette graisse ou de cette huile. Aucun solvant organique autre que le cyclohexane, le diméthylformamide, l'acétate diéthyle, l'isobutanol et l'isopropanol ne peut être utilisé pour leur préparation. Teneur totale en cyclohexane et en isobutanol : pas plus de 10 mg/kg pris séparément ou ensemble.
+pH d'une solution à 1 % pas moins de 6,7 et pas plus de 7,3.
 
-Description : solides mous, gels rigides ou poudre, blancs ou blanchâtres.
+Matières volatiles : pas plus de 0,5 %, déterminées par dessiccation à 105 °C, pendant quatre heures.
 
-Teneur totale en saccharoesters d'acides gras : pas moins de 40 % et pas plus de 60 %.
+Matières insolubles dans l'eau : pas plus de 0,2 %.
 
-Teneur totale en glycérides : pas moins de 40 % et pas plus de 60 %.
+Fluorures : pas plus de 10 mg par kilogrammes, exprimés en F.
 
-Teneur en sucre libre : pas plus de 5 %.
+E 450 (a, iii) Diphosphate tétrasodique :
 
-Acides gras libres : pas plus de 3 %, exprimés en acide oléique.
+Description : poudre blanche, cristalline ou granulée. Se présente sous forme anhydre ou sous forme de décahydrate.
 
-Cendres sulfatées : pas plus de 2 %, déterminées par calcination à 800 plus ou moins 25 °C.
+Teneur : pas moins de 95 % de Na4P2O7 ou de Na4P2O710H2O.
 
-Teneur en diméthylformamide : pas plus de 1 mg par kilogramme.
+Teneur en P2O5 :
 
-Teneur en méthanol : pas plus de 10 mg par kilogramme.
+Pas moins de 52,5 % et pas plus de 54 % pour le sel anhydre ;
 
-Teneur en acétate d'éthyle et isopropanol : pas plus de 350 mg par kilogramme, séparément ou ensemble.
+Pas moins de 31,5 % et pas plus de 32,5 % pour le décahydrate.
 
-Nota - Ces critères sont basés sur le produit sans E 470.
+Perte à la calcination : pas plus de 0,5 p. 100 pour le sel anhydre, pas moins de 38 % et pas plus de 42 % pour le décahydrate, déterminée par calcination à 550 °C pendant trente minutes.
 
-E 475 Esters polyglycériques d'acides gras :
+pH d'une solution à 1 % : pas moins de 9,9 et pas plus de 10,7.
 
-Description chimique : produits obtenus par estérification de polyglycérols avec des matières grasses alimentaires ou avec des acides gras des huiles et graisses alimentaires. La fraction polyglycérol comprend essentiellement les di-, tri- et tétraglycérols et ne contient pas plus de 10 % de polyglycérols égaux ou supérieurs à l'heptaglycérol.
+Matières insolubles dans l'eau : pas plus de 0,2 %.
 
-Description : jaunes ou légèrement bruns, liquides ou semi-liquides.
+Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
 
-Teneur totale en esters d'acides gras : pas moins de 90 %.
+E 450 (a, iv) Diphosphates tétrapotassique :
 
-Acides gras libres : pas plus de 6 %, exprimés en acide oléique.
+Description : cristaux incolores ou poudre blanche très hygroscopique.
 
-Glycérols et polyglycérols totaux : pas moins de 18 % et pas plus de 60 %.
+Teneur : pas moins de 95 % de K4P2O7.
 
-Glycérol et polyglycérols libres : pas plus de 7 %.
+Teneur en P2O5 : pas moins de 42 % et pas plus de 43,7 %.
 
-Cendres sulfatées : pas plus de 0,5 %, déterminées par calcination à 800 + ou - 25 °C.
+Perte à la calcination : pas plus de 2 %, déterminée par dessiccation à 105 °C pendant quatre heures, suivie d'une calcination à 550 °C pendant trente minutes.
 
-Nota - ces critères sont basés sur le produit sans E 470.
+pH d'une solution à 1 % : pas moins de 10,0 et pas plus de 10,7.
 
-E 481 Stéaroyl-2-lactylate de sodium :
+Matières insolubles dans l'eau : pas plus de 0,2 %.
 
-Description chimique : se compose d'un mélange de sels de sodium des acides stéaroyllactyliques et de petites quantités d'autres sels de sodium d'acides apparentés et est préparé en faisant réagir les acides stéarique et lactique. Il peut aussi y avoir des esters d'autres acides gras alimentaires, libres ou estérifiés, provenant de l'acide stéarique utilisé.
+FLuorures : pas plus de 10 mg par kilogramme, exprimés en F.
 
-Description : poudre ou matière solide friable, de couleur crème, avec odeur caractéristique.
+E 450 (b, i) Triphosphate pentasodique :
 
-Teneur en sodium : pas moins de 2,5 % et pas plus de 5 %.
+Description : granulés ou poudre, blancs et légèrement hygroscopiques. Se présente sous forme anhydre ou sous forme d'hexahydrate.
 
-Indice d'esters : pas moins de 90 et pas plus de 190 mg KOH par gramme.
+Teneur : pas moins de 85 % de Na5P3O10 6H2O, le reste étant constitué essentiellement par d'autres polyphosphates de sodium de la série E 450.
 
-Acide lactique totale (libre et combiné) : pas moins de 15 % et pas plus de 40 %.
+Teneur en P2O5 :
 
-Indice d'acide : pas moins de 60 et pas plus de 130 mg KOH par gramme.
+Pas moins de 56 % et pas plus de 58 % pour le sel anhydre ;
 
-E 482 Stéaroyl-2-lactylate de calcium :
+Pas moins de 43 % et pas plus de 45 % pour l'hexahydrate.
 
-Description chimique : se compose d'un mélange de sels de calcium des acides stéaroyllactyliques et de petites quantités d'autres sels de calcium d'acides apparentés et est préparé en faisant réagir les acides stéarique et lactique. Il peut aussi y avoir des esters d'autres acides gras alimentaires, libres ou estérifiés, provenant de l'acide stéarique utilisé.
+Perte à la calcination : pas plus de 0,5 % pour le sel anhydre et pas plus de 23,5 % pour l'hexahydrate, déterminée par dessiccation à 105 °C pendant quatre heures, suivie d'une calcination à 550 °C pendant trente minutes.
 
-Description : poudre ou matière solide friable, blanches ou légèrement jaunâtres, avec odeur caractéristique.
+pH d'une solution à 1 % : pas moins de 9,3 et pas plus de 10,1.
 
-Teneur en calcium : pas moins de 1 % et pas plus de 5,2 %.
+Matières insolubles dans l'eau : pas plus de 0,2 %.
 
-Indice d'ester : pas moins de 125 et pas plus de 190 mg KOH par gramme.
+Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
 
-Acide lactique total (libre et combiné) : pas moins de 15 % et pas plus de 40 %.
+E 450 (b, ii) Triphosphate pentapotassique :
 
-Indice d'acide : pas moins de 50 et pas plus de 130 mg KOH par gramme.
+Description : poudre blanche, très hygroscopique.
+
+Teneur : pas moins de 85 % de K5P3O10, le reste étant constitué essentiellement par d'autres polyphosphates de potassium de la série E 450.
+
+Teneur en P2O5 : pas moins de 46,5 % et pas plus de 48 %.
+
+Perte à la calcination : calculée sur la base de la teneur en P2O5, pas plus de 0,5 %, déterminée par dessiccation à 105 °C pendant quatre heures, suivie d'une calcination à 550 °C pendant trente minutes.
+
+pH d'une solution à 1 % : pas moins de 9,3 et pas plus de 10,1.
+
+Matières insolubles dans l'eau : pas plus de 2 %.
+
+Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
+
+E 450 (c, i) Polyphosphate de sodium :
+
+Description chimique : mélanges hétérogènes de sels de sodium d'acides polyphosphoriques linéaires condensés, de formule générale H(n+2) PnO(3n+1) dans laquelle n n'est pas inférieur à 2.
+
+Description : poudre ou cristaux, fins et blancs, ou paillettes incolores vitreuses.
+
+Teneur en P2O5 : pas moins de 59,5 % et pas plus de 70 % dans la matière calcinée.
+
+Perte à la calcination : pas plus de 2 %, déterminée par dessiccation à 105 °C pendant quatre heures, suivie d'une calcination à 550 °C pendant trente minutes.
+
+pH d'une solution à 1 % : pas moins de 3,6 et pas plus de 9-0.
+
+Matières insolubles dans l'eau : pas plus de 0,2 % (1).
+
+Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
+
+Phosphates cycliques : pas plus de 8 %.
+
+E 450 (c, ii) Polyphosphate de potassium :
+
+Description chimique : mélanges hétérogènes de sels de potassium d'acides polyphosphoriques linéaires condensés, de formule générale H(n+2) PnO(3n+1) dans laquelle n n'est pas inférieure à 2.
+
+Description : poudre ou cristaux, fins et blancs, ou paillettes incolores vitreuses.
+
+Teneur en P2O5 : pas moins de 53,5 % et pas plus de 61,5 % dans la matière calcinée.
+
+Perte à la calcination : pas plus de 2 %, déterminée par dessiccation à 105 °C pendant quatre heurs, suivie d'une calcination à 550 °C pendant trente minutes.
+
+pH d'une solution à 1 % : pas plus de 7,8 (1).
+
+Matières insolubles dans l'eau : pas plus de 0,2 % (1).
+
+Fluorures : pas plus de 10 mg par kilogramme, exprimés en F.
+
+Phosphates cycliques : pas plus de 8 %.
+
+(1) Détermination qui requiert une méthode d'analyse spéciale.
