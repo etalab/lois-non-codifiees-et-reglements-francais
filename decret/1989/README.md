@@ -143,6 +143,8 @@
 - [Décret n°89-659 du 11 septembre 1989 (MAEJ8930084D)](decret-n89-659-du-11-septembre-1989-maej8930084d)
 - [Décret n°89-660 du 11 septembre 1989 (MAEJ8930082D)](decret-n89-660-du-11-septembre-1989-maej8930082d)
 - [Décret n°89-661 du 11 septembre 1989 (MAEJ8930079D)](decret-n89-661-du-11-septembre-1989-maej8930079d)
+- [Décret n°89-664 du 11 septembre 1989 (MAEJ8930080D)](decret-n89-664-du-11-septembre-1989-maej8930080d)
+- [Décret n°89-665 du 11 septembre 1989 (MAEJ8930078D)](decret-n89-665-du-11-septembre-1989-maej8930078d)
 - [Décret n°89-729 du 11 octobre 1989 (MENF8902174D)](decret-n89-729-du-11-octobre-1989-menf8902174d)
 - [Décret n°89-730 du 11 octobre 1989 (MENF8902173D)](decret-n89-730-du-11-octobre-1989-menf8902173d)
 - [Décret n°89-731 du 11 octobre 1989 (MENF8902172D)](decret-n89-731-du-11-octobre-1989-menf8902172d)
