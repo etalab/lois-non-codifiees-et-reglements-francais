@@ -47,7 +47,6 @@
 - [Décret n°61-776 du 21 juillet 1961](decret-n61-776-du-21-juillet-1961)
 - [Décret n°61-836 du 22 juillet 1961](decret-n61-836-du-22-juillet-1961)
 - [Décret n°61-1162 du 24 octobre 1961](decret-n61-1162-du-24-octobre-1961)
-- [Décret n°61-960 du 24 août 1961](decret-n61-960-du-24-aout-1961)
 - [Décret n°61-987 du 24 août 1961](decret-n61-987-du-24-aout-1961)
 - [Décret n°61-100 du 25 janvier 1961](decret-n61-100-du-25-janvier-1961)
 - [Décret n°61-207 du 25 février 1961](decret-n61-207-du-25-fevrier-1961)
