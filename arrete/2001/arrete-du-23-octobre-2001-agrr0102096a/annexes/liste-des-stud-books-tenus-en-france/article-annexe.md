@@ -2,7 +2,7 @@
 
 1. Chevaux de sang.
 
-Stud-book français du cheval de pur-sang.
+Stud-book français du cheval de pur sang.
 
 Stud-book du trotteur français.
 
@@ -24,9 +24,13 @@ Stud-book du cheval Henson.
 
 Livre généalogique des races étrangères de chevaux de selle.
 
+Registre français du cheval Akhal-Téké de pur sang.
+
 Registre français du cheval Appaloosa.
 
-Stud-book français du cheval Barbe.
+Stud-book français du cheval barbe.
+
+Registre français du cheval frison.
 
 Stud-book français du cheval islandais.
 
